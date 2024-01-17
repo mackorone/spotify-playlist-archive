@@ -1,487 +1,1173 @@
 {
-  "2022-08-31": 17,
-  "2022-09-01": 81,
-  "2022-09-02": 113,
-  "2022-09-03": 180,
-  "2022-09-04": 238,
-  "2022-09-05": 276,
-  "2022-09-06": 313,
-  "2022-09-07": 338,
-  "2022-09-09": 401,
-  "2022-09-10": 434,
-  "2022-09-11": 461,
-  "2022-09-12": 487,
-  "2022-09-13": 502,
-  "2022-09-15": 558,
-  "2022-09-16": 601,
-  "2022-09-17": 623,
-  "2022-09-18": 658,
-  "2022-09-19": 676,
-  "2022-09-20": 702,
-  "2022-09-21": 734,
-  "2022-09-22": 749,
-  "2022-09-23": 769,
-  "2022-09-24": 793,
-  "2022-09-25": 814,
-  "2022-09-26": 844,
-  "2022-09-27": 867,
-  "2022-09-28": 884,
-  "2022-09-29": 896,
-  "2022-09-30": 926,
-  "2022-10-01": 950,
-  "2022-10-02": 972,
-  "2022-10-03": 993,
-  "2022-10-04": 1012,
-  "2022-10-05": 1036,
-  "2022-10-06": 1061,
-  "2022-10-07": 1082,
-  "2022-10-08": 1096,
-  "2022-10-09": 1119,
-  "2022-10-10": 1125,
-  "2022-10-11": 1144,
-  "2022-10-12": 1162,
-  "2022-10-13": 1176,
-  "2022-10-14": 1198,
-  "2022-10-15": 1220,
-  "2022-10-16": 1240,
-  "2022-10-17": 1260,
-  "2022-10-18": 1272,
-  "2022-10-19": 1292,
-  "2022-10-20": 1304,
-  "2022-10-21": 1315,
-  "2022-10-22": 1327,
-  "2022-10-23": 1346,
-  "2022-10-24": 1360,
-  "2022-10-25": 1369,
-  "2022-10-26": 1384,
-  "2022-10-27": 1400,
-  "2022-10-28": 1418,
-  "2022-10-29": 1432,
-  "2022-10-30": 1440,
-  "2022-10-31": 1461,
-  "2022-11-01": 1473,
-  "2022-11-02": 1488,
-  "2022-11-03": 1508,
-  "2022-11-04": 1525,
-  "2022-11-05": 1537,
-  "2022-11-06": 1555,
-  "2022-11-07": 1577,
-  "2022-11-08": 1598,
-  "2022-11-09": 1613,
-  "2022-11-10": 1626,
-  "2022-11-11": 1644,
-  "2022-11-12": 1657,
-  "2022-11-13": 1671,
-  "2022-11-14": 1685,
-  "2022-11-15": 1700,
-  "2022-11-16": 1711,
-  "2022-11-17": 1729,
-  "2022-11-18": 1736,
-  "2022-11-19": 1732,
-  "2022-11-20": 1743,
-  "2022-11-21": 1760,
-  "2022-11-22": 1775,
-  "2022-11-23": 1790,
-  "2022-11-24": 1815,
-  "2022-11-25": 1841,
-  "2022-11-26": 1865,
-  "2022-11-27": 1886,
-  "2022-11-28": 1900,
-  "2022-11-29": 1914,
-  "2022-11-30": 1937,
-  "2022-12-01": 1958,
-  "2022-12-02": 1985,
-  "2022-12-03": 1995,
-  "2022-12-04": 2031,
-  "2022-12-05": 2052,
-  "2022-12-06": 2068,
-  "2022-12-07": 2086,
-  "2022-12-08": 2095,
-  "2022-12-09": 2109,
-  "2022-12-10": 2126,
-  "2022-12-11": 2143,
-  "2022-12-12": 2163,
-  "2022-12-13": 2172,
-  "2022-12-14": 2182,
-  "2022-12-15": 2193,
-  "2022-12-16": 2210,
-  "2022-12-17": 2225,
-  "2022-12-18": 2238,
-  "2022-12-19": 2246,
-  "2022-12-20": 2269,
-  "2022-12-21": 2269,
-  "2022-12-22": 2278,
-  "2022-12-24": 2304,
-  "2022-12-25": 2306,
-  "2022-12-26": 2318,
-  "2022-12-27": 2332,
-  "2022-12-28": 2345,
-  "2022-12-29": 2361,
-  "2022-12-30": 2376,
-  "2022-12-31": 2391,
-  "2023-01-01": 2407,
-  "2023-01-02": 2418,
-  "2023-01-03": 2437,
-  "2023-01-04": 2448,
-  "2023-01-05": 2456,
-  "2023-01-06": 2477,
-  "2023-01-07": 2491,
-  "2023-01-08": 2495,
-  "2023-01-09": 2506,
-  "2023-01-10": 2524,
-  "2023-01-11": 2538,
-  "2023-01-12": 2551,
-  "2023-01-13": 2567,
-  "2023-01-14": 2596,
-  "2023-01-15": 2604,
-  "2023-01-16": 2627,
-  "2023-01-17": 2637,
-  "2023-01-18": 2649,
-  "2023-01-19": 2666,
-  "2023-01-20": 2677,
-  "2023-01-21": 2693,
-  "2023-01-22": 2710,
-  "2023-01-23": 2729,
-  "2023-01-24": 2742,
-  "2023-01-25": 2761,
-  "2023-01-26": 2781,
-  "2023-01-27": 2808,
-  "2023-01-28": 2829,
-  "2023-01-29": 2854,
-  "2023-01-30": 2875,
-  "2023-01-31": 2875,
-  "2023-02-01": 2901,
-  "2023-02-02": 2924,
-  "2023-02-03": 2951,
-  "2023-02-04": 2970,
-  "2023-02-05": 2981,
-  "2023-02-06": 2995,
-  "2023-02-07": 3007,
-  "2023-02-08": 3024,
-  "2023-02-09": 3024,
-  "2023-02-10": 3037,
-  "2023-02-11": 3049,
-  "2023-02-12": 3061,
-  "2023-02-13": 3068,
-  "2023-02-14": 3068,
-  "2023-02-15": 3079,
-  "2023-02-16": 3087,
-  "2023-02-17": 3097,
-  "2023-02-18": 3127,
-  "2023-02-19": 3129,
-  "2023-02-20": 3134,
-  "2023-02-21": 3136,
-  "2023-02-22": 3150,
-  "2023-02-23": 3166,
-  "2023-02-24": 3173,
-  "2023-02-25": 3181,
-  "2023-02-26": 3190,
-  "2023-02-27": 3215,
-  "2023-02-28": 3215,
-  "2023-03-01": 3229,
-  "2023-03-02": 3238,
-  "2023-03-03": 3252,
-  "2023-03-04": 3260,
-  "2023-03-05": 3281,
-  "2023-03-06": 3281,
-  "2023-03-07": 3286,
-  "2023-03-08": 3295,
-  "2023-03-09": 3313,
-  "2023-03-10": 3316,
-  "2023-03-11": 3324,
-  "2023-03-12": 3334,
-  "2023-03-13": 3343,
-  "2023-03-14": 3350,
-  "2023-03-15": 3358,
-  "2023-03-16": 3370,
-  "2023-03-17": 3370,
-  "2023-03-18": 3381,
-  "2023-03-19": 3390,
-  "2023-03-20": 3405,
-  "2023-03-21": 3416,
-  "2023-03-22": 3425,
-  "2023-03-23": 3442,
-  "2023-03-24": 3442,
-  "2023-03-25": 3466,
-  "2023-03-26": 3482,
-  "2023-03-27": 3493,
-  "2023-03-28": 3496,
-  "2023-03-29": 3505,
-  "2023-03-30": 3521,
-  "2023-03-31": 3521,
-  "2023-04-01": 3528,
-  "2023-04-02": 3540,
-  "2023-04-03": 3549,
-  "2023-04-04": 3558,
-  "2023-04-05": 3567,
-  "2023-04-06": 3575,
-  "2023-04-07": 3575,
-  "2023-04-09": 3594,
-  "2023-04-10": 3600,
-  "2023-04-11": 3616,
-  "2023-04-12": 3616,
-  "2023-04-13": 3623,
-  "2023-04-14": 3633,
-  "2023-04-15": 3639,
-  "2023-04-16": 3648,
-  "2023-04-17": 3655,
-  "2023-04-18": 3656,
-  "2023-04-19": 3662,
-  "2023-04-20": 3678,
-  "2023-04-21": 3686,
-  "2023-04-22": 3693,
-  "2023-04-23": 3705,
-  "2023-04-24": 3713,
-  "2023-04-25": 3721,
-  "2023-04-26": 3739,
-  "2023-04-27": 3748,
-  "2023-04-28": 3764,
-  "2023-04-29": 3777,
-  "2023-04-30": 3785,
-  "2023-05-01": 3795,
-  "2023-05-02": 3811,
-  "2023-05-03": 3818,
-  "2023-05-04": 3830,
-  "2023-05-05": 3840,
-  "2023-05-06": 3849,
-  "2023-05-07": 3854,
-  "2023-05-08": 3868,
-  "2023-05-09": 3882,
-  "2023-05-10": 3896,
-  "2023-05-11": 3905,
-  "2023-05-12": 3914,
-  "2023-05-13": 3932,
-  "2023-05-14": 3941,
-  "2023-05-15": 3949,
-  "2023-05-16": 3959,
-  "2023-05-17": 3968,
-  "2023-05-18": 3981,
-  "2023-05-19": 3986,
-  "2023-05-20": 4005,
-  "2023-05-21": 4005,
-  "2023-05-22": 4005,
-  "2023-05-23": 4028,
-  "2023-05-24": 4035,
-  "2023-05-25": 4037,
-  "2023-05-26": 4052,
-  "2023-05-27": 4066,
-  "2023-05-28": 4072,
-  "2023-05-29": 4072,
-  "2023-05-30": 4095,
-  "2023-05-31": 4101,
-  "2023-06-01": 4108,
-  "2023-06-02": 4119,
-  "2023-06-03": 4123,
-  "2023-06-04": 4136,
-  "2023-06-05": 4147,
-  "2023-06-06": 4159,
-  "2023-06-07": 4169,
-  "2023-06-08": 4181,
-  "2023-06-09": 4188,
-  "2023-06-10": 4197,
-  "2023-06-11": 4209,
-  "2023-06-12": 4221,
-  "2023-06-13": 4233,
-  "2023-06-14": 4233,
-  "2023-06-15": 4250,
-  "2023-06-16": 4254,
-  "2023-06-17": 4257,
-  "2023-06-18": 4264,
-  "2023-06-19": 4274,
-  "2023-06-20": 4287,
-  "2023-06-21": 4301,
-  "2023-06-22": 4307,
-  "2023-06-23": 4319,
-  "2023-06-24": 4329,
-  "2023-06-25": 4336,
-  "2023-06-26": 4349,
-  "2023-06-27": 4358,
-  "2023-06-28": 4363,
-  "2023-06-29": 4370,
-  "2023-06-30": 4387,
-  "2023-07-01": 4405,
-  "2023-07-02": 4405,
-  "2023-07-03": 4418,
-  "2023-07-04": 4432,
-  "2023-07-05": 4444,
-  "2023-07-06": 4466,
-  "2023-07-07": 4466,
-  "2023-07-08": 4471,
-  "2023-07-09": 4482,
-  "2023-07-10": 4492,
-  "2023-07-11": 4501,
-  "2023-07-12": 4506,
-  "2023-07-13": 4518,
-  "2023-07-14": 4527,
-  "2023-07-15": 4535,
-  "2023-07-16": 4545,
-  "2023-07-17": 4550,
-  "2023-07-18": 4561,
-  "2023-07-19": 4574,
-  "2023-07-20": 4580,
-  "2023-07-21": 4597,
-  "2023-07-22": 4603,
-  "2023-07-23": 4609,
-  "2023-07-24": 4613,
-  "2023-07-25": 4624,
-  "2023-07-26": 4631,
-  "2023-07-27": 4642,
-  "2023-07-28": 4658,
-  "2023-07-29": 4668,
-  "2023-07-30": 4674,
-  "2023-07-31": 4682,
-  "2023-08-01": 4693,
-  "2023-08-02": 4697,
-  "2023-08-03": 4706,
-  "2023-08-04": 4715,
-  "2023-08-05": 4722,
-  "2023-08-06": 4737,
-  "2023-08-07": 4737,
-  "2023-08-08": 4745,
-  "2023-08-09": 4754,
-  "2023-08-10": 4761,
-  "2023-08-11": 4770,
-  "2023-08-12": 4783,
-  "2023-08-13": 4791,
-  "2023-08-14": 4797,
-  "2023-08-15": 4821,
-  "2023-08-16": 4821,
-  "2023-08-17": 4826,
-  "2023-08-18": 4831,
-  "2023-08-19": 4843,
-  "2023-08-20": 4847,
-  "2023-08-21": 4853,
-  "2023-08-22": 4857,
-  "2023-08-23": 4877,
-  "2023-08-24": 4885,
-  "2023-08-25": 4895,
-  "2023-08-26": 4904,
-  "2023-08-27": 4917,
-  "2023-08-28": 4927,
-  "2023-08-29": 4934,
-  "2023-08-30": 4938,
-  "2023-08-31": 4942,
-  "2023-09-01": 4951,
-  "2023-09-02": 4951,
-  "2023-09-03": 4958,
-  "2023-09-04": 4964,
-  "2023-09-05": 4975,
-  "2023-09-06": 4984,
-  "2023-09-07": 4991,
-  "2023-09-08": 4998,
-  "2023-09-09": 4999,
-  "2023-09-10": 5007,
-  "2023-09-11": 5017,
-  "2023-09-12": 5024,
-  "2023-09-13": 5032,
-  "2023-09-14": 5040,
-  "2023-09-15": 5051,
-  "2023-09-16": 5055,
-  "2023-09-17": 5062,
-  "2023-09-18": 5070,
-  "2023-09-19": 5078,
-  "2023-09-20": 5086,
-  "2023-09-21": 5091,
-  "2023-09-22": 5097,
-  "2023-09-23": 5103,
-  "2023-09-24": 5111,
-  "2023-09-25": 5116,
-  "2023-09-26": 5125,
-  "2023-09-27": 5125,
-  "2023-09-28": 5131,
-  "2023-09-29": 5134,
-  "2023-09-30": 5137,
-  "2023-10-01": 5148,
-  "2023-10-02": 5155,
-  "2023-10-03": 5164,
-  "2023-10-04": 5171,
-  "2023-10-05": 5177,
-  "2023-10-06": 5184,
-  "2023-10-07": 5188,
-  "2023-10-08": 5193,
-  "2023-10-09": 5198,
-  "2023-10-10": 5204,
-  "2023-10-11": 5212,
-  "2023-10-12": 5212,
-  "2023-10-13": 5218,
-  "2023-10-14": 5225,
-  "2023-10-15": 5235,
-  "2023-10-16": 5245,
-  "2023-10-17": 5250,
-  "2023-10-18": 5261,
-  "2023-10-19": 5266,
-  "2023-10-20": 5273,
-  "2023-10-21": 5275,
-  "2023-10-22": 5288,
-  "2023-10-23": 5295,
-  "2023-10-24": 5295,
-  "2023-10-25": 5300,
-  "2023-10-26": 5306,
-  "2023-10-27": 5317,
-  "2023-10-28": 5323,
-  "2023-10-29": 5331,
-  "2023-10-30": 5344,
-  "2023-10-31": 5344,
-  "2023-11-01": 5351,
-  "2023-11-02": 5361,
-  "2023-11-03": 5366,
-  "2023-11-04": 5375,
-  "2023-11-05": 5377,
-  "2023-11-06": 5376,
-  "2023-11-07": 5379,
-  "2023-11-08": 5389,
-  "2023-11-09": 5394,
-  "2023-11-10": 5400,
-  "2023-11-11": 5405,
-  "2023-11-12": 5415,
-  "2023-11-13": 5425,
-  "2023-11-14": 5428,
-  "2023-11-15": 5428,
-  "2023-11-16": 5440,
-  "2023-11-17": 5451,
-  "2023-11-18": 5451,
-  "2023-11-19": 5458,
-  "2023-11-20": 5463,
-  "2023-11-21": 5467,
-  "2023-11-22": 5469,
-  "2023-11-23": 5472,
-  "2023-11-24": 5478,
-  "2023-11-25": 5483,
-  "2023-11-26": 5490,
-  "2023-11-27": 5493,
-  "2023-11-28": 5493,
-  "2023-11-29": 5498,
-  "2023-11-30": 5498,
-  "2023-12-01": 5505,
-  "2023-12-02": 5513,
-  "2023-12-03": 5517,
-  "2023-12-04": 5523,
-  "2023-12-05": 5524,
-  "2023-12-06": 5529,
-  "2023-12-07": 5533,
-  "2023-12-08": 5536,
-  "2023-12-09": 5551,
-  "2023-12-10": 5562,
-  "2023-12-11": 5574,
-  "2023-12-12": 5589,
-  "2023-12-13": 5591,
-  "2023-12-14": 5606,
-  "2023-12-15": 5615,
-  "2023-12-16": 5627,
-  "2023-12-17": 5636,
-  "2023-12-18": 5648,
-  "2023-12-19": 5658,
-  "2023-12-20": 5659,
-  "2023-12-21": 5669,
-  "2023-12-22": 5674,
-  "2023-12-23": 5687,
-  "2023-12-24": 5692,
-  "2023-12-25": 5699,
-  "2023-12-26": 5707,
-  "2023-12-27": 5715,
-  "2023-12-30": 5734,
-  "2023-12-31": 5744,
-  "2024-01-01": 5748,
-  "2024-01-02": 5755,
-  "2024-01-03": 5765
+  "2024-01-17": 5867,
+  "date_first_scraped": "2022-08-31",
+  "description": "The official playlist for MO. Watch now on Netflix!",
+  "name": "MO Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "From Coast To Coast",
+        "url": "https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx"
+      },
+      "artists": [
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
+        },
+        {
+          "name": "DJ DMD",
+          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
+    },
+    {
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "album": {
+        "name": "All The Way Up (feat. Infared)",
+        "url": "https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "InfaRed",
+          "url": "https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191942,
+      "name": "All The Way Up (feat. Infared)",
+      "url": "https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g"
+    },
+    {
+      "album": {
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Azzab Al Jammal",
+      "url": "https://open.spotify.com/track/1LpEvUyy6VtqrqVLYmDnzg"
+    },
+    {
+      "album": {
+        "name": "Hassan Sabi",
+        "url": "https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Bayara",
+      "url": "https://open.spotify.com/track/3I3n1uoTzDGw2qiTR3zBhs"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 122642,
+      "name": "Cash At The Border",
+      "url": "https://open.spotify.com/track/1pFca8MT2ZuCs1g6MbuaMW"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122642,
+      "name": "Cash At The Border",
+      "url": "https://open.spotify.com/track/7rmRNJPc8lYhNrRCkO434v"
+    },
+    {
+      "album": {
+        "name": "Chacal",
+        "url": "https://open.spotify.com/album/5IwIn3NUtgmCTGci0UDlXb"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Chacal",
+      "url": "https://open.spotify.com/track/3AS9WJtZGzR1rHdD1M8CFg"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6LCLAYG6WcClrd3t1f39gw"
+      },
+      "artists": [
+        {
+          "name": "Sammy Shiblaq",
+          "url": "https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147697,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/39pxdsIduDagORLDxf7sUI"
+    },
+    {
+      "album": {
+        "name": "Deserted Tree",
+        "url": "https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165555,
+      "name": "Deserted Tree",
+      "url": "https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd"
+    },
+    {
+      "album": {
+        "name": "Ben Haana Wa Maana",
+        "url": "https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268986,
+      "name": "Emta Njawzak Yamma",
+      "url": "https://open.spotify.com/track/3tKP4uEWIbOhsFzPBkSumU"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108186,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 108186,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/7hWSzHq7cfUMyeWhFow6sp"
+    },
+    {
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "The HamilTones",
+          "url": "https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163763,
+      "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The Hamiltones)",
+      "url": "https://open.spotify.com/track/3573jCFXznoZWv3BjNUEOq"
+    },
+    {
+      "album": {
+        "name": "Electric Circus",
+        "url": "https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        },
+        {
+          "name": "Marie Daulne",
+          "url": "https://open.spotify.com/artist/14t0loczakerhStTFLNsqF"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168093,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/06Rp7s2FfiaX0bCzmgILPP"
+    },
+    {
+      "album": {
+        "name": "Fight On",
+        "url": "https://open.spotify.com/album/2NJS4GLXb6Dj4uD7sAN638"
+      },
+      "artists": [
+        {
+          "name": "Slick Naim",
+          "url": "https://open.spotify.com/artist/1aGn0mfsx7lmhS2HaI7VDJ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Fight On",
+      "url": "https://open.spotify.com/track/0PDx7nmFGS1x7P3wjc0TTL"
+    },
+    {
+      "album": {
+        "name": "Finish The Job",
+        "url": "https://open.spotify.com/album/1Z0MnLwjmyabTYIWnuIEPi"
+      },
+      "artists": [
+        {
+          "name": "Big Mike",
+          "url": "https://open.spotify.com/artist/2NeBwEmM7I71IsGl1y6FG0"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236050,
+      "name": "Finish The Job",
+      "url": "https://open.spotify.com/track/3LD4c7NLfSXbEerCMGddPY"
+    },
+    {
+      "album": {
+        "name": "Go Go",
+        "url": "https://open.spotify.com/album/4FzOimSLObpwiwJudOeqQx"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/1WB6QiqUfkiuGdx823C5Lu"
+    },
+    {
+      "album": {
+        "name": "The Narcicyst",
+        "url": "https://open.spotify.com/album/44jiuTzRWTvmhLUPS8A1JQ"
+      },
+      "artists": [
+        {
+          "name": "Narcy",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 186653,
+      "name": "Hamdulillah (Featuring Shadia Mansour)",
+      "url": "https://open.spotify.com/track/2gMtIerCwupNePU3PrfYJb"
+    },
+    {
+      "album": {
+        "name": "Hamdulillah (Music From The Netflix Series Mo)",
+        "url": "https://open.spotify.com/album/0YnkmJkudVhAnOvHEHcBC0"
+      },
+      "artists": [
+        {
+          "name": "NARCY",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Shadia Mansour",
+          "url": "https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93"
+        },
+        {
+          "name": "Sandhill",
+          "url": "https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Hamdulillah - Music From The Netflix Series Mo",
+      "url": "https://open.spotify.com/track/6X1aG6YCoSqsLPI7t56n4D"
+    },
+    {
+      "album": {
+        "name": "Pardon My French",
+        "url": "https://open.spotify.com/album/0Oei3ZeGpEyq73E5PnPmvZ"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288340,
+      "name": "Hommage \u00c0 La Vielle Garde (Pour Lafarge Et Rinaldi)",
+      "url": "https://open.spotify.com/track/6V107UaAxQkw6JJb7qy8n8"
+    },
+    {
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "My cousin Nicole",
+          "url": "https://open.spotify.com/artist/2uP6Mer05NJAZypWG5HSiK"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337423,
+      "name": "How Great (feat. Jay Electronica & My cousin Nicole)",
+      "url": "https://open.spotify.com/track/0OT0cCKbSmSMRvyWeqEFBq"
+    },
+    {
+      "album": {
+        "name": "How I Walk",
+        "url": "https://open.spotify.com/album/5eGhBfPFGMbXzHdqybDecn"
+      },
+      "artists": [
+        {
+          "name": "Donnie B Good",
+          "url": "https://open.spotify.com/artist/3uGHjDqBqHpIS2gsfqyFzd"
+        },
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180048,
+      "name": "How I Walk",
+      "url": "https://open.spotify.com/track/0xdWSX61xPOemnWvlcjL7u"
+    },
+    {
+      "album": {
+        "name": "Shamstep",
+        "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334760,
+      "name": "Intro to Shamstep",
+      "url": "https://open.spotify.com/track/0DWUQlg6LVJiroEudYaORI"
+    },
+    {
+      "album": {
+        "name": "Moe Life",
+        "url": "https://open.spotify.com/album/0PnUbRaZoWYVy3FYF8kSwo"
+      },
+      "artists": [
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Just A Dog",
+      "url": "https://open.spotify.com/track/3hUXBzW8zP2koWrxG5fNeL"
+    },
+    {
+      "album": {
+        "name": "La Tejanita",
+        "url": "https://open.spotify.com/album/0UWFEUBRSrPJSts2DCpoOC"
+      },
+      "artists": [
+        {
+          "name": "Ale Y Aleks",
+          "url": "https://open.spotify.com/artist/79C5zzXeoLeB0HjgemCmd1"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182389,
+      "name": "La Tejanita",
+      "url": "https://open.spotify.com/track/3iMH2LtYYm5A04bXnf4JYs"
+    },
+    {
+      "album": {
+        "name": "Maj\u00e2z",
+        "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296853,
+      "name": "Mas\u00e2r",
+      "url": "https://open.spotify.com/track/5FU96SFEwMyiKnLsPhoNuh"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45370,
+      "name": "Mo Escapes Gunfire",
+      "url": "https://open.spotify.com/track/2kFzVTBAGAhHMbMTVyvOeH"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 45370,
+      "name": "Mo Escapes Gunfire",
+      "url": "https://open.spotify.com/track/6Kv9szNT7x8QbO9owwpJwO"
+    },
+    {
+      "album": {
+        "name": "All Screwed Up, Vol. II",
+        "url": "https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "Point Blank",
+          "url": "https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397466,
+      "name": "My Mind Went Blank",
+      "url": "https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk"
+    },
+    {
+      "album": {
+        "name": "My Person",
+        "url": "https://open.spotify.com/album/0YgTXxeHnrkpszlSMEMnYJ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Ray",
+          "url": "https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "My Person",
+      "url": "https://open.spotify.com/track/0e2xssjHY1uBbkDHDFxHZp"
+    },
+    {
+      "album": {
+        "name": "Ben Haana Wa Maana",
+        "url": "https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 194517,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/7bQoO4B4ZQOzzvl5k7zVr0"
+    },
+    {
+      "album": {
+        "name": "Overdose (From the Netflix Series \"Mo\")",
+        "url": "https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        },
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174673,
+      "name": "Overdose - From the Netflix Series \"Mo\"",
+      "url": "https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 61806,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4q0dCs7oOlqiUPx8BoybhK"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61806,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z"
+    },
+    {
+      "album": {
+        "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/65JaPqNkS1B5VtfBZLgUS9"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/0Qws7Y806JftF3TVAg7XAJ"
+    },
+    {
+      "album": {
+        "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/3uaOPy2KG1oTOgGAsfPSed"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN"
+    },
+    {
+      "album": {
+        "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/0XQgQqBsdnKOndpv6Mqj49"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ"
+    },
+    {
+      "album": {
+        "name": "Return of the Trill",
+        "url": "https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Rudeboi (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4"
+    },
+    {
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/5hN3wqb9mYuWI31s0vggik"
+      },
+      "artists": [
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/7sU86lbmcT6ks3tw2MMwoB"
+    },
+    {
+      "album": {
+        "name": "3 N The Mornin\u2019 Part Two",
+        "url": "https://open.spotify.com/album/2F7xZ22zn1KZRlM4v6M9de"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77653,
+      "name": "Sippin Codine",
+      "url": "https://open.spotify.com/track/5gC56RBCPbLFM8E21Qt1Xg"
+    },
+    {
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
+    },
+    {
+      "album": {
+        "name": "Slide (feat. P-Lo & Mozzy)",
+        "url": "https://open.spotify.com/album/4I8VqVmpnuyxTnkIblkj4B"
+      },
+      "artists": [
+        {
+          "name": "ReeceBeats",
+          "url": "https://open.spotify.com/artist/5L1QSgQEkpWF3KvUBZWuz7"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144117,
+      "name": "Slide (feat. P-Lo & Mozzy)",
+      "url": "https://open.spotify.com/track/3KQNqnurmpjv0rBnVPsy1M"
+    },
+    {
+      "album": {
+        "name": "Shirelles (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Sunday Dreaming",
+      "url": "https://open.spotify.com/track/3TclLf5lQhBdvtZ0VMENRr"
+    },
+    {
+      "album": {
+        "name": "The Legend",
+        "url": "https://open.spotify.com/album/1Rj1Km93UOyuTPbQH1H1Lw"
+      },
+      "artists": [
+        {
+          "name": "DJ Screw",
+          "url": "https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul"
+        },
+        {
+          "name": "K-Rino",
+          "url": "https://open.spotify.com/artist/4PNCV9uLP7AX5G0tWjbn5f"
+        },
+        {
+          "name": "Z-Ro",
+          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300226,
+      "name": "The Game Goes On",
+      "url": "https://open.spotify.com/track/4oxuZmT8MZBDgmSKABVTfZ"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 113420,
+      "name": "What It Do",
+      "url": "https://open.spotify.com/track/6OehApq6QDWGEiLJK3C2ji"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113420,
+      "name": "What It Do",
+      "url": "https://open.spotify.com/track/6gvatEc0FeHHg7lyFQNkQk"
+    },
+    {
+      "album": {
+        "name": "Wildhorse",
+        "url": "https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii"
+      },
+      "artists": [
+        {
+          "name": "Matt Koziol",
+          "url": "https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "Work All Day",
+      "url": "https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT"
+    },
+    {
+      "album": {
+        "name": "Work All Day",
+        "url": "https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP"
+      },
+      "artists": [
+        {
+          "name": "Matt Koziol",
+          "url": "https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 257359,
+      "name": "Work All Day",
+      "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
+    },
+    {
+      "album": {
+        "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+        "url": "https://open.spotify.com/album/6QPfNudiDwHu9Rz3wm73XQ"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        },
+        {
+          "name": "Wissam Habib",
+          "url": "https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 176062,
+      "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+      "url": "https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD"
+    },
+    {
+      "album": {
+        "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+        "url": "https://open.spotify.com/album/6Eb5pZS6cVDkLqAJ2wtMDL"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        },
+        {
+          "name": "Wissam Habib",
+          "url": "https://open.spotify.com/artist/125cWTvLaDz90ZdWaPmJbb"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176062,
+      "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
+      "url": "https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+        "url": "https://open.spotify.com/album/31VUxWowQcKDfLJ7NmnivK"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239253,
+      "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+      "url": "https://open.spotify.com/track/2XeFCR6w0xCu2jLicUEjdk"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+        "url": "https://open.spotify.com/album/24PtKjUywK5sFRY0w6TEGC"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 239253,
+      "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
+      "url": "https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSWpxxOIgP7o"
 }

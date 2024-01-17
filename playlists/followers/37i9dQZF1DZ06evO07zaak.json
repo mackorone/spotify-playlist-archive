@@ -1,471 +1,895 @@
 {
-  "2022-09-18": 1230256,
-  "2022-09-19": 1230631,
-  "2022-09-20": 1231004,
-  "2022-09-21": 1231373,
-  "2022-09-22": 1231844,
-  "2022-09-23": 1232232,
-  "2022-09-24": 1232656,
-  "2022-09-25": 1233133,
-  "2022-09-26": 1233520,
-  "2022-09-27": 1233964,
-  "2022-09-28": 1234337,
-  "2022-09-29": 1234757,
-  "2022-09-30": 1235208,
-  "2022-10-01": 1235645,
-  "2022-10-02": 1236138,
-  "2022-10-03": 1236574,
-  "2022-10-04": 1236949,
-  "2022-10-05": 1237361,
-  "2022-10-06": 1237767,
-  "2022-10-07": 1238267,
-  "2022-10-08": 1238776,
-  "2022-10-09": 1239693,
-  "2022-10-10": 1239806,
-  "2022-10-11": 1240306,
-  "2022-10-12": 1240816,
-  "2022-10-13": 1241293,
-  "2022-10-14": 1241772,
-  "2022-10-15": 1242288,
-  "2022-10-16": 1242770,
-  "2022-10-17": 1243255,
-  "2022-10-18": 1243677,
-  "2022-10-19": 1244084,
-  "2022-10-20": 1244525,
-  "2022-10-21": 1244917,
-  "2022-10-22": 1245312,
-  "2022-10-23": 1245700,
-  "2022-10-24": 1246062,
-  "2022-10-25": 1246399,
-  "2022-10-26": 1246728,
-  "2022-10-27": 1247074,
-  "2022-10-28": 1247437,
-  "2022-10-29": 1247913,
-  "2022-10-30": 1248284,
-  "2022-10-31": 1248628,
-  "2022-11-01": 1248945,
-  "2022-11-02": 1249293,
-  "2022-11-03": 1249632,
-  "2022-11-04": 1250001,
-  "2022-11-05": 1250418,
-  "2022-11-06": 1250816,
-  "2022-11-07": 1251149,
-  "2022-11-08": 1251492,
-  "2022-11-09": 1251890,
-  "2022-11-10": 1252307,
-  "2022-11-11": 1252694,
-  "2022-11-12": 1253135,
-  "2022-11-13": 1253506,
-  "2022-11-14": 1253923,
-  "2022-11-15": 1254315,
-  "2022-11-16": 1254701,
-  "2022-11-17": 1255069,
-  "2022-11-18": 1255113,
-  "2022-11-19": 1255176,
-  "2022-11-20": 1255527,
-  "2022-11-21": 1255930,
-  "2022-11-22": 1256341,
-  "2022-11-23": 1256699,
-  "2022-11-24": 1257468,
-  "2022-11-25": 1258037,
-  "2022-11-26": 1258463,
-  "2022-11-27": 1258877,
-  "2022-11-28": 1259260,
-  "2022-11-29": 1259666,
-  "2022-11-30": 1260056,
-  "2022-12-01": 1260536,
-  "2022-12-02": 1260870,
-  "2022-12-03": 1261619,
-  "2022-12-04": 1262157,
-  "2022-12-05": 1262651,
-  "2022-12-06": 1263055,
-  "2022-12-07": 1263459,
-  "2022-12-08": 1263898,
-  "2022-12-09": 1264321,
-  "2022-12-10": 1264741,
-  "2022-12-11": 1265226,
-  "2022-12-12": 1265700,
-  "2022-12-13": 1266087,
-  "2022-12-14": 1266496,
-  "2022-12-15": 1266899,
-  "2022-12-16": 1267273,
-  "2022-12-17": 1267706,
-  "2022-12-18": 1268200,
-  "2022-12-19": 1268563,
-  "2022-12-20": 1269354,
-  "2022-12-21": 1269354,
-  "2022-12-22": 1269764,
-  "2022-12-24": 1270633,
-  "2022-12-25": 1271125,
-  "2022-12-26": 1271549,
-  "2022-12-27": 1271981,
-  "2022-12-28": 1272446,
-  "2022-12-29": 1272955,
-  "2022-12-30": 1273442,
-  "2022-12-31": 1274009,
-  "2023-01-01": 1274557,
-  "2023-01-02": 1274986,
-  "2023-01-03": 1275554,
-  "2023-01-04": 1275988,
-  "2023-01-05": 1276547,
-  "2023-01-06": 1277075,
-  "2023-01-07": 1277843,
-  "2023-01-08": 1277998,
-  "2023-01-09": 1278543,
-  "2023-01-10": 1279011,
-  "2023-01-11": 1279479,
-  "2023-01-12": 1279985,
-  "2023-01-13": 1280470,
-  "2023-01-14": 1281465,
-  "2023-01-15": 1281605,
-  "2023-01-16": 1282142,
-  "2023-01-17": 1282623,
-  "2023-01-18": 1283189,
-  "2023-01-19": 1283723,
-  "2023-01-20": 1284260,
-  "2023-01-21": 1284784,
-  "2023-01-22": 1285364,
-  "2023-01-23": 1285924,
-  "2023-01-24": 1286437,
-  "2023-01-25": 1286988,
-  "2023-01-26": 1287493,
-  "2023-01-27": 1287994,
-  "2023-01-28": 1288543,
-  "2023-01-29": 1289137,
-  "2023-01-30": 1289659,
-  "2023-01-31": 1289659,
-  "2023-02-01": 1290616,
-  "2023-02-02": 1291115,
-  "2023-02-03": 1291593,
-  "2023-02-04": 1292170,
-  "2023-02-05": 1292741,
-  "2023-02-06": 1293305,
-  "2023-02-07": 1293746,
-  "2023-02-08": 1294787,
-  "2023-02-09": 1294787,
-  "2023-02-10": 1295345,
-  "2023-02-11": 1295867,
-  "2023-02-12": 1296960,
-  "2023-02-13": 1297437,
-  "2023-02-14": 1297437,
-  "2023-02-15": 1297809,
-  "2023-02-16": 1298262,
-  "2023-02-17": 1298703,
-  "2023-02-18": 1299825,
-  "2023-02-19": 1299925,
-  "2023-02-20": 1300343,
-  "2023-02-21": 1300792,
-  "2023-02-22": 1301246,
-  "2023-02-23": 1301702,
-  "2023-02-24": 1302204,
-  "2023-02-25": 1302848,
-  "2023-02-26": 1303230,
-  "2023-02-27": 1304180,
-  "2023-02-28": 1304180,
-  "2023-03-01": 1304627,
-  "2023-03-02": 1305306,
-  "2023-03-03": 1306009,
-  "2023-03-04": 1306636,
-  "2023-03-05": 1307886,
-  "2023-03-06": 1307886,
-  "2023-03-07": 1308425,
-  "2023-03-08": 1308925,
-  "2023-03-09": 1309421,
-  "2023-03-10": 1309932,
-  "2023-03-11": 1310481,
-  "2023-03-12": 1311038,
-  "2023-03-13": 1311540,
-  "2023-03-14": 1312007,
-  "2023-03-15": 1312478,
-  "2023-03-16": 1312978,
-  "2023-03-17": 1312978,
-  "2023-03-18": 1314044,
-  "2023-03-19": 1314615,
-  "2023-03-20": 1315114,
-  "2023-03-21": 1315569,
-  "2023-03-22": 1316055,
-  "2023-03-23": 1316540,
-  "2023-03-24": 1316540,
-  "2023-03-25": 1317738,
-  "2023-03-26": 1318433,
-  "2023-03-27": 1319102,
-  "2023-03-28": 1319605,
-  "2023-03-29": 1320166,
-  "2023-03-30": 1321183,
-  "2023-03-31": 1321183,
-  "2023-04-01": 1321697,
-  "2023-04-02": 1322343,
-  "2023-04-03": 1322993,
-  "2023-04-04": 1323580,
-  "2023-04-05": 1324074,
-  "2023-04-06": 1324649,
-  "2023-04-07": 1325236,
-  "2023-04-09": 1326397,
-  "2023-04-10": 1326881,
-  "2023-04-11": 1327887,
-  "2023-04-12": 1327887,
-  "2023-04-13": 1328432,
-  "2023-04-14": 1329053,
-  "2023-04-15": 1329614,
-  "2023-04-16": 1330236,
-  "2023-04-17": 1330790,
-  "2023-04-18": 1331262,
-  "2023-04-19": 1331736,
-  "2023-04-20": 1332229,
-  "2023-04-21": 1332767,
-  "2023-04-22": 1333375,
-  "2023-04-23": 1333906,
-  "2023-04-24": 1334373,
-  "2023-04-25": 1334867,
-  "2023-04-26": 1335339,
-  "2023-04-27": 1335828,
-  "2023-04-28": 1336400,
-  "2023-04-29": 1336884,
-  "2023-04-30": 1337465,
-  "2023-05-01": 1337970,
-  "2023-05-02": 1338469,
-  "2023-05-03": 1338882,
-  "2023-05-04": 1339329,
-  "2023-05-05": 1339789,
-  "2023-05-06": 1340287,
-  "2023-05-07": 1340851,
-  "2023-05-08": 1341384,
-  "2023-05-09": 1341918,
-  "2023-05-10": 1342358,
-  "2023-05-11": 1342877,
-  "2023-05-12": 1343378,
-  "2023-05-13": 1343970,
-  "2023-05-14": 1344506,
-  "2023-05-15": 1345053,
-  "2023-05-16": 1345509,
-  "2023-05-17": 1345956,
-  "2023-05-18": 1346427,
-  "2023-05-19": 1346953,
-  "2023-05-20": 1348066,
-  "2023-05-21": 1348066,
-  "2023-05-22": 1348066,
-  "2023-05-23": 1348961,
-  "2023-05-24": 1349764,
-  "2023-05-25": 1349929,
-  "2023-05-26": 1350467,
-  "2023-05-27": 1351091,
-  "2023-05-28": 1351626,
-  "2023-05-29": 1351626,
-  "2023-05-30": 1352563,
-  "2023-05-31": 1353029,
-  "2023-06-01": 1353576,
-  "2023-06-02": 1354018,
-  "2023-06-03": 1354524,
-  "2023-06-04": 1355096,
-  "2023-06-05": 1355556,
-  "2023-06-06": 1355982,
-  "2023-06-07": 1356441,
-  "2023-06-08": 1356909,
-  "2023-06-09": 1357474,
-  "2023-06-10": 1357899,
-  "2023-06-11": 1358318,
-  "2023-06-12": 1358681,
-  "2023-06-13": 1358997,
-  "2023-06-14": 1359264,
-  "2023-06-15": 1359612,
-  "2023-06-16": 1359997,
-  "2023-06-17": 1360377,
-  "2023-06-18": 1360731,
-  "2023-06-19": 1361080,
-  "2023-06-20": 1361364,
-  "2023-06-21": 1361684,
-  "2023-06-22": 1362004,
-  "2023-06-23": 1362321,
-  "2023-06-24": 1362616,
-  "2023-06-25": 1362940,
-  "2023-06-26": 1363273,
-  "2023-06-27": 1363534,
-  "2023-06-28": 1363801,
-  "2023-06-29": 1364101,
-  "2023-06-30": 1364460,
-  "2023-07-01": 1365198,
-  "2023-07-02": 1365198,
-  "2023-07-03": 1365519,
-  "2023-07-04": 1365775,
-  "2023-07-05": 1366076,
-  "2023-07-06": 1366686,
-  "2023-07-07": 1366686,
-  "2023-07-08": 1367039,
-  "2023-07-09": 1367410,
-  "2023-07-10": 1367779,
-  "2023-07-11": 1368094,
-  "2023-07-12": 1368372,
-  "2023-07-13": 1368741,
-  "2023-07-14": 1369039,
-  "2023-07-15": 1369306,
-  "2023-07-16": 1369761,
-  "2023-07-17": 1370151,
-  "2023-07-18": 1370442,
-  "2023-07-19": 1370786,
-  "2023-07-20": 1371102,
-  "2023-07-21": 1371449,
-  "2023-07-22": 1371776,
-  "2023-07-23": 1372157,
-  "2023-07-24": 1372494,
-  "2023-07-25": 1372763,
-  "2023-07-26": 1373083,
-  "2023-07-27": 1373443,
-  "2023-07-28": 1373825,
-  "2023-07-29": 1374112,
-  "2023-07-30": 1374481,
-  "2023-07-31": 1374807,
-  "2023-08-01": 1375066,
-  "2023-08-02": 1375393,
-  "2023-08-03": 1375673,
-  "2023-08-04": 1375936,
-  "2023-08-05": 1376239,
-  "2023-08-06": 1376954,
-  "2023-08-07": 1376954,
-  "2023-08-08": 1377285,
-  "2023-08-09": 1377617,
-  "2023-08-10": 1377899,
-  "2023-08-11": 1378210,
-  "2023-08-12": 1378592,
-  "2023-08-13": 1378592,
-  "2023-08-14": 1379248,
-  "2023-08-15": 1379575,
-  "2023-08-16": 1379575,
-  "2023-08-17": 1380214,
-  "2023-08-18": 1380640,
-  "2023-08-19": 1381042,
-  "2023-08-20": 1381450,
-  "2023-08-21": 1381818,
-  "2023-08-22": 1382159,
-  "2023-08-23": 1382471,
-  "2023-08-24": 1382824,
-  "2023-08-25": 1383189,
-  "2023-08-26": 1383551,
-  "2023-08-27": 1383890,
-  "2023-08-28": 1384223,
-  "2023-08-29": 1384540,
-  "2023-08-30": 1384540,
-  "2023-08-31": 1385180,
-  "2023-09-01": 1385913,
-  "2023-09-02": 1385913,
-  "2023-09-03": 1386253,
-  "2023-09-04": 1386253,
-  "2023-09-05": 1386912,
-  "2023-09-06": 1387219,
-  "2023-09-07": 1387219,
-  "2023-09-08": 1387219,
-  "2023-09-09": 1387219,
-  "2023-09-10": 1388637,
-  "2023-09-11": 1388986,
-  "2023-09-12": 1388986,
-  "2023-09-13": 1389633,
-  "2023-09-14": 1389633,
-  "2023-09-15": 1389633,
-  "2023-09-16": 1390666,
-  "2023-09-17": 1390666,
-  "2023-09-18": 1390666,
-  "2023-09-19": 1391609,
-  "2023-09-20": 1391609,
-  "2023-09-21": 1391609,
-  "2023-09-22": 1392410,
-  "2023-09-23": 1392410,
-  "2023-09-24": 1392410,
-  "2023-09-25": 1392410,
-  "2023-09-26": 1393563,
-  "2023-09-27": 1393563,
-  "2023-09-28": 1393563,
-  "2023-09-29": 1393563,
-  "2023-09-30": 1393563,
-  "2023-10-01": 1393563,
-  "2023-10-02": 1395323,
-  "2023-10-03": 1395323,
-  "2023-10-04": 1395323,
-  "2023-10-05": 1396319,
-  "2023-10-06": 1396636,
-  "2023-10-07": 1396636,
-  "2023-10-08": 1396636,
-  "2023-10-09": 1396636,
-  "2023-10-10": 1396636,
-  "2023-10-11": 1397680,
-  "2023-10-12": 1397680,
-  "2023-10-13": 1397680,
-  "2023-10-14": 1397680,
-  "2023-10-15": 1397680,
-  "2023-10-16": 1397680,
-  "2023-10-17": 1397680,
-  "2023-10-18": 1397680,
-  "2023-10-19": 1397680,
-  "2023-10-20": 1397680,
-  "2023-10-21": 1397680,
-  "2023-10-22": 1397680,
-  "2023-10-23": 1397680,
-  "2023-10-24": 1397680,
-  "2023-10-25": 1397680,
-  "2023-10-26": 1397680,
-  "2023-10-27": 1397680,
-  "2023-10-28": 1397680,
-  "2023-10-29": 1397680,
-  "2023-10-30": 1397680,
-  "2023-10-31": 1397680,
-  "2023-11-01": 1397680,
-  "2023-11-02": 1397680,
-  "2023-11-03": 1397680,
-  "2023-11-04": 1397680,
-  "2023-11-05": 1397680,
-  "2023-11-06": 1397680,
-  "2023-11-07": 1397680,
-  "2023-11-08": 1397680,
-  "2023-11-09": 1397680,
-  "2023-11-10": 1397680,
-  "2023-11-11": 1406197,
-  "2023-11-12": 1406197,
-  "2023-11-13": 1406197,
-  "2023-11-14": 1406197,
-  "2023-11-15": 1406197,
-  "2023-11-16": 1406197,
-  "2023-11-17": 1406197,
-  "2023-11-18": 1406197,
-  "2023-11-19": 1406197,
-  "2023-11-20": 1406197,
-  "2023-11-21": 1406197,
-  "2023-11-22": 1406197,
-  "2023-11-23": 1406197,
-  "2023-11-24": 1406197,
-  "2023-11-25": 1406197,
-  "2023-11-26": 1406197,
-  "2023-11-27": 1406197,
-  "2023-11-28": 1406197,
-  "2023-11-29": 1406197,
-  "2023-11-30": 1406197,
-  "2023-12-01": 1406197,
-  "2023-12-02": 1406197,
-  "2023-12-03": 1406197,
-  "2023-12-04": 1406197,
-  "2023-12-05": 1406197,
-  "2023-12-06": 1406197,
-  "2023-12-07": 1406197,
-  "2023-12-08": 1406197,
-  "2023-12-09": 1406197,
-  "2023-12-10": 1406197,
-  "2023-12-11": 1406197,
-  "2023-12-12": 1406197,
-  "2023-12-13": 1406197,
-  "2023-12-14": 1416172,
-  "2023-12-15": 1416396,
-  "2023-12-16": 1416704,
-  "2023-12-17": 1417010,
-  "2023-12-18": 1417274,
-  "2023-12-19": 1417520,
-  "2023-12-20": 1417769,
-  "2023-12-21": 1418064,
-  "2023-12-22": 1418322,
-  "2023-12-23": 1418672,
-  "2023-12-24": 1418989,
-  "2023-12-25": 1419239,
-  "2023-12-26": 1419502,
-  "2023-12-27": 1419743,
-  "2023-12-30": 1420671,
-  "2023-12-31": 1421014,
-  "2024-01-01": 1421277,
-  "2024-01-02": 1421517,
-  "2024-01-03": 1421767
+  "2024-01-17": 1422382,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
+  "name": "This Is Pink Floyd",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
+        "url": "https://open.spotify.com/album/6A3OZcFfaYhUINlQU7McWU"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 247506,
+      "name": "A Great Day For Freedom 2022",
+      "url": "https://open.spotify.com/track/08ZP6LzduiKEURYbNex8SH"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312893,
+      "name": "A Pillow of Winds",
+      "url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192145,
+      "name": "Another Brick in the Wall, Pt. 1",
+      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "Another Brick in the Wall, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "album": {
+        "name": "The Piper at the Gates of Dawn",
+        "url": "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 251278,
+      "name": "Astronomy Domine",
+      "url": "https://open.spotify.com/track/3Y8gNcoJu1uJ5L1BZuGvqB"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Brain Damage",
+      "url": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169534,
+      "name": "Breathe (In the Air)",
+      "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 355633,
+      "name": "Cluster One",
+      "url": "https://open.spotify.com/track/0iJfN2CqrX7O8hkzgAMMAf"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382296,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379241,
+      "name": "Coming Back to Life",
+      "url": "https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1025280,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 1412451,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367933,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307733,
+      "name": "Have a Cigar",
+      "url": "https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6"
+    },
+    {
+      "album": {
+        "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
+        "url": "https://open.spotify.com/album/3lBCDflEyxa7JucrV4Npwj"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        {
+          "name": "Andriy Khlyvnyuk",
+          "url": "https://open.spotify.com/artist/2VfXr8g4E0qImkefKT3Nby"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
+      "url": "https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278440,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN"
+    },
+    {
+      "album": {
+        "name": "The Piper at the Gates of Dawn",
+        "url": "https://open.spotify.com/album/2Se4ZylF9NkFGD92yv1aZC"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 580715,
+      "name": "Interstellar Overdrive",
+      "url": "https://open.spotify.com/track/3xyTufSSGLP3oZnomceAVW"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292080,
+      "name": "Learning to Fly",
+      "url": "https://open.spotify.com/track/3ieDOGcOqVxScs2VZBzidt"
+    },
+    {
+      "album": {
+        "name": "A Saucerful of Secrets",
+        "url": "https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 336727,
+      "name": "Let There Be More Light",
+      "url": "https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314960,
+      "name": "Lost for Words",
+      "url": "https://open.spotify.com/track/4Ev1LZ4uzjnSvDHpgdyBZK"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330385,
+      "name": "Marooned",
+      "url": "https://open.spotify.com/track/6bIPHR8AJG5HAcn9oF21Ma"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382834,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 334893,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1GEOSS415bZVHNuXWlCT6b"
+    },
+    {
+      "album": {
+        "name": "Obscured by Clouds",
+        "url": "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 184040,
+      "name": "Obscured by Clouds",
+      "url": "https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341666,
+      "name": "On the Turning Away",
+      "url": "https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb"
+    },
+    {
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77029,
+      "name": "One of the Few",
+      "url": "https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354613,
+      "name": "One of These Days",
+      "url": "https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685880,
+      "name": "Pigs (Three Different Ones)",
+      "url": "https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84280,
+      "name": "Pigs on the Wing 1",
+      "url": "https://open.spotify.com/track/19tHmIQsRnebkyK09m2UXE"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423064,
+      "name": "Poles Apart",
+      "url": "https://open.spotify.com/track/6uE9hF8fIb6shBXrrzA12U"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 73305,
+      "name": "Round and Around",
+      "url": "https://open.spotify.com/track/4GIq6ZUGqM8qRTJF1BOery"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "San Tropez",
+      "url": "https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd"
+    },
+    {
+      "album": {
+        "name": "Relics",
+        "url": "https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 173800,
+      "name": "See Emily Play",
+      "url": "https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619079,
+      "name": "Sheep",
+      "url": "https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 811077,
+      "name": "Shine On You Crazy Diamond (Pts. 1-5)",
+      "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
+    },
+    {
+      "album": {
+        "name": "The Endless River",
+        "url": "https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 66573,
+      "name": "Side 2, Pt. 3: Unsung",
+      "url": "https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q"
+    },
+    {
+      "album": {
+        "name": "A Momentary Lapse of Reason",
+        "url": "https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 524753,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5"
+    },
+    {
+      "album": {
+        "name": "Atom Heart Mother",
+        "url": "https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 328960,
+      "name": "Summer '68",
+      "url": "https://open.spotify.com/track/5MZALWjwQRX0RsZt31HlNP"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372225,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C"
+    },
+    {
+      "album": {
+        "name": "The Final Cut",
+        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282602,
+      "name": "The Final Cut",
+      "url": "https://open.spotify.com/track/5y1Uc72BAKxaleTEXpcJJq"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283872,
+      "name": "The Great Gig in the Sky",
+      "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110826,
+      "name": "The Happiest Days of Our Lives",
+      "url": "https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413947,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469224,
+      "name": "Us and Them",
+      "url": "https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451680,
+      "name": "Welcome to the Machine",
+      "url": "https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN"
+    },
+    {
+      "album": {
+        "name": "The Division Bell",
+        "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261587,
+      "name": "What Do You Want from Me",
+      "url": "https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334743,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
+    },
+    {
+      "album": {
+        "name": "Obscured by Clouds",
+        "url": "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Wot's...Uh the Deal",
+      "url": "https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209956,
+      "name": "Young Lust",
+      "url": "https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO07zaak"
 }

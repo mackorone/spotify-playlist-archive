@@ -1,16 +1,957 @@
 {
-  "2023-12-19": 153734,
-  "2023-12-20": 153753,
-  "2023-12-21": 153785,
-  "2023-12-22": 153825,
-  "2023-12-23": 153857,
-  "2023-12-24": 153896,
-  "2023-12-25": 153939,
-  "2023-12-26": 153976,
-  "2023-12-27": 154000,
-  "2023-12-30": 154092,
-  "2023-12-31": 154121,
-  "2024-01-01": 154163,
-  "2024-01-02": 154204,
-  "2024-01-03": 154234
+  "2024-01-17": 153781,
+  "date_first_scraped": "2023-12-19",
+  "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
+  "name": "Los 60 M\u00e9xico",
+  "tracks": [
+    {
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
+      },
+      "artists": [
+        {
+          "name": "Pyly Gaos",
+          "url": "https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114106,
+      "name": "Aburrida y Sola (Si Je Chante)",
+      "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
+    },
+    {
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133733,
+      "name": "Adi\u00f3s a Jamaica (Jamaica Farewell)",
+      "url": "https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z"
+    },
+    {
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Sleepers",
+          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140026,
+      "name": "Al Ritmo De La Lluvia",
+      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+    },
+    {
+      "album": {
+        "name": "Mamacita Donde Esta Santa Claus",
+        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176848,
+      "name": "Aladino",
+      "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132458,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/3luBu1STG0gHqDNaQ3zRv8"
+    },
+    {
+      "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "Atras de la Raya",
+      "url": "https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF"
+    },
+    {
+      "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Barba azul - Let's Do The limbo",
+      "url": "https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv"
+    },
+    {
+      "album": {
+        "name": "Twist",
+        "url": "https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a"
+      },
+      "artists": [
+        {
+          "name": "Los Jet Twisters",
+          "url": "https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135013,
+      "name": "Boogie Twist",
+      "url": "https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG"
+    },
+    {
+      "album": {
+        "name": "El rock de la c\u00e1rcel (Remastered)",
+        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzm\u00e1n & Teen Tops",
+          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141635,
+      "name": "Bule bule - Remastered",
+      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
+    },
+    {
+      "album": {
+        "name": "No Te Pongas Pantalones",
+        "url": "https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l"
+      },
+      "artists": [
+        {
+          "name": "Dyno",
+          "url": "https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152311,
+      "name": "Cenicienta",
+      "url": "https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz"
+    },
+    {
+      "album": {
+        "name": "Los Grandes \u00c9xitos Del Rock & Roll (En Espa\u00f1ol) Vol. 2",
+        "url": "https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127525,
+      "name": "Chica Alborotada",
+      "url": "https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a"
+    },
+    {
+      "album": {
+        "name": "Legado de Mujeres Latinas",
+        "url": "https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5"
+      },
+      "artists": [
+        {
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 133253,
+      "name": "Chica ye y\u00e9",
+      "url": "https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6"
+    },
+    {
+      "album": {
+        "name": "Discos Del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "Creo Estar So\u00f1ando",
+      "url": "https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0"
+    },
+    {
+      "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
+      "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
+    },
+    {
+      "album": {
+        "name": "15 De Los Moonlights",
+        "url": "https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj"
+      },
+      "artists": [
+        {
+          "name": "Los Moonlights",
+          "url": "https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "De Rodillas Ante Ti",
+      "url": "https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ"
+    },
+    {
+      "album": {
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175995,
+      "name": "Despeinada",
+      "url": "https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147771,
+      "name": "Edi, Edi",
+      "url": "https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 138866,
+      "name": "El Amor Es Triste - Love Is Blue",
+      "url": "https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY"
+    },
+    {
+      "album": {
+        "name": "Los Seven Teens",
+        "url": "https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Twist (Los Seven Teens)",
+          "url": "https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149327,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794"
+    },
+    {
+      "album": {
+        "name": "El Juego De Sim\u00f3n",
+        "url": "https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108483,
+      "name": "El Juego De Sim\u00f3n",
+      "url": "https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0"
+    },
+    {
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114800,
+      "name": "El Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
+    },
+    {
+      "album": {
+        "name": "Mamacita Donde Esta Santa Claus",
+        "url": "https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF"
+      },
+      "artists": [
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "El Rock Del Bebe",
+      "url": "https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd"
+    },
+    {
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133093,
+      "name": "Florida Twist",
+      "url": "https://open.spotify.com/track/7xzxlk4jDDdwb2mDBRTSpZ"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
+    },
+    {
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156395,
+      "name": "Historia de Tommy",
+      "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
+    },
+    {
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu"
+      },
+      "artists": [
+        {
+          "name": "Los Yorsy's",
+          "url": "https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7"
+    },
+    {
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "Juego De Amor",
+      "url": "https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Johnny Laboriel Con los Rebeldes del Rock",
+        "url": "https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159686,
+      "name": "La Hiedra Venenosa",
+      "url": "https://open.spotify.com/track/3krsFPf7DL0DxweDyAz2WJ"
+    },
+    {
+      "album": {
+        "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
+      },
+      "artists": [
+        {
+          "name": "Los Sinners",
+          "url": "https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143146,
+      "name": "La Novia de Mi Mejor Amigo (The Girl of My Best Friend)",
+      "url": "https://open.spotify.com/track/41GiXurY9UN1dU3erI1D4c"
+    },
+    {
+      "album": {
+        "name": "Los Exitos De: Los Juniors y Su Cantante Arturo",
+        "url": "https://open.spotify.com/album/1MD6zyg3BVVPLSOGvRq3cI"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors",
+          "url": "https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179173,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/3fcpAFDPHKsr8ZuayXWTLm"
+    },
+    {
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132933,
+      "name": "La Plaga (Good Golly, Miss Molly)",
+      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
+    },
+    {
+      "album": {
+        "name": "Discos Del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176493,
+      "name": "Lagrimas De Cristal",
+      "url": "https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de Mis Exitos",
+        "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Laboriel",
+          "url": "https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs"
+        },
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Melod\u00eda de Amor",
+      "url": "https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk"
+    },
+    {
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "Mi amor es para ti",
+      "url": "https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7"
+    },
+    {
+      "album": {
+        "name": "Ritmo Fren\u00e9tico",
+        "url": "https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD"
+      },
+      "artists": [
+        {
+          "name": "Los Freneticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129793,
+      "name": "Nena Baila Twist",
+      "url": "https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf"
+    },
+    {
+      "album": {
+        "name": "Los Seven Teens",
+        "url": "https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Twist (Los Seven Teens)",
+          "url": "https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156107,
+      "name": "Nena Loca",
+      "url": "https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8"
+    },
+    {
+      "album": {
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh"
+      },
+      "artists": [
+        {
+          "name": "Los Camisas Negras",
+          "url": "https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98615,
+      "name": "Oh! No",
+      "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
+    },
+    {
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156699,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o"
+    },
+    {
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+    },
+    {
+      "album": {
+        "name": "Baile Monkey",
+        "url": "https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles",
+          "url": "https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137987,
+      "name": "Quiero Estrechar Tu Mano",
+      "url": "https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP"
+    },
+    {
+      "album": {
+        "name": "Cuentame",
+        "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Rosas en el Mar",
+      "url": "https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM"
+    },
+    {
+      "album": {
+        "name": "La Epoca de Oro del Twist",
+        "url": "https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt"
+      },
+      "artists": [
+        {
+          "name": "Hermanas Jimenez",
+          "url": "https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164205,
+      "name": "San Antonio Twist",
+      "url": "https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn"
+    },
+    {
+      "album": {
+        "name": "Hermanos Carrion 50 A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162847,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ"
+    },
+    {
+      "album": {
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
+      },
+      "artists": [
+        {
+          "name": "Los Digers",
+          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165154,
+      "name": "Si me quieres",
+      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
+    },
+    {
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "Significas Todo Para Mi",
+      "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
+    },
+    {
+      "album": {
+        "name": "Mexican Garage Rock '66",
+        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
+      },
+      "artists": [
+        {
+          "name": "Los Seven Days",
+          "url": "https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149573,
+      "name": "Sospecha",
+      "url": "https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U"
+    },
+    {
+      "album": {
+        "name": "Enrique Guzm\u00e1n (El Llanto del Siglo)",
+        "url": "https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132533,
+      "name": "Te Seguir\u00e9 (I Will Follow You)",
+      "url": "https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ"
+    },
+    {
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Enrique Guzm\u00e1n",
+        "url": "https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151306,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX"
+    },
+    {
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
+    },
+    {
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "date_added": "2020-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3xLGqpmU1Uv"
 }

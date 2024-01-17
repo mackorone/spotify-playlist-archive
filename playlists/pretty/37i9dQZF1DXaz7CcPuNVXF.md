@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz7CcPuNVXF.md) - [plain]
 
 > Stay relaxed with these timeless easy\-listening songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,777 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,420 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

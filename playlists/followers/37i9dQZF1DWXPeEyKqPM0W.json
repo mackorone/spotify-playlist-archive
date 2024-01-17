@@ -1,471 +1,565 @@
 {
-  "2022-09-18": 3247,
-  "2022-09-19": 3906,
-  "2022-09-20": 4246,
-  "2022-09-21": 4381,
-  "2022-09-22": 4717,
-  "2022-09-23": 4797,
-  "2022-09-24": 4862,
-  "2022-09-25": 4910,
-  "2022-09-26": 4964,
-  "2022-09-27": 5017,
-  "2022-09-28": 5089,
-  "2022-09-29": 5134,
-  "2022-09-30": 5185,
-  "2022-10-01": 5233,
-  "2022-10-02": 5287,
-  "2022-10-03": 5337,
-  "2022-10-04": 5377,
-  "2022-10-05": 5418,
-  "2022-10-06": 5468,
-  "2022-10-07": 5510,
-  "2022-10-08": 5548,
-  "2022-10-09": 5693,
-  "2022-10-10": 5727,
-  "2022-10-11": 5799,
-  "2022-10-12": 5854,
-  "2022-10-13": 5908,
-  "2022-10-14": 5948,
-  "2022-10-15": 5990,
-  "2022-10-16": 6041,
-  "2022-10-17": 6083,
-  "2022-10-18": 6133,
-  "2022-10-19": 6167,
-  "2022-10-20": 6210,
-  "2022-10-21": 6258,
-  "2022-10-22": 6301,
-  "2022-10-23": 6337,
-  "2022-10-24": 6370,
-  "2022-10-25": 6403,
-  "2022-10-26": 6433,
-  "2022-10-27": 6472,
-  "2022-10-28": 6516,
-  "2022-10-29": 6564,
-  "2022-10-30": 6596,
-  "2022-10-31": 6622,
-  "2022-11-01": 6659,
-  "2022-11-02": 6707,
-  "2022-11-03": 6754,
-  "2022-11-04": 6785,
-  "2022-11-05": 6832,
-  "2022-11-06": 6876,
-  "2022-11-07": 6914,
-  "2022-11-08": 6955,
-  "2022-11-09": 6991,
-  "2022-11-10": 7039,
-  "2022-11-11": 7080,
-  "2022-11-12": 7137,
-  "2022-11-13": 7171,
-  "2022-11-14": 7198,
-  "2022-11-15": 7243,
-  "2022-11-16": 7296,
-  "2022-11-17": 7340,
-  "2022-11-18": 7350,
-  "2022-11-19": 7345,
-  "2022-11-20": 7359,
-  "2022-11-21": 7394,
-  "2022-11-22": 7490,
-  "2022-11-23": 7476,
-  "2022-11-24": 7538,
-  "2022-11-25": 7628,
-  "2022-11-26": 7688,
-  "2022-11-27": 7726,
-  "2022-11-28": 7773,
-  "2022-11-29": 7803,
-  "2022-11-30": 7859,
-  "2022-12-01": 7947,
-  "2022-12-02": 8029,
-  "2022-12-03": 8082,
-  "2022-12-04": 8121,
-  "2022-12-05": 8157,
-  "2022-12-06": 8207,
-  "2022-12-07": 8251,
-  "2022-12-08": 8299,
-  "2022-12-09": 8343,
-  "2022-12-10": 8381,
-  "2022-12-11": 8409,
-  "2022-12-12": 8440,
-  "2022-12-13": 8496,
-  "2022-12-14": 8533,
-  "2022-12-15": 8571,
-  "2022-12-16": 8610,
-  "2022-12-17": 8637,
-  "2022-12-18": 8681,
-  "2022-12-19": 8721,
-  "2022-12-20": 8779,
-  "2022-12-21": 8779,
-  "2022-12-22": 8813,
-  "2022-12-24": 8869,
-  "2022-12-25": 8899,
-  "2022-12-26": 8919,
-  "2022-12-27": 8950,
-  "2022-12-28": 8987,
-  "2022-12-29": 9017,
-  "2022-12-30": 9059,
-  "2022-12-31": 9093,
-  "2023-01-01": 9115,
-  "2023-01-02": 9145,
-  "2023-01-03": 9191,
-  "2023-01-04": 9217,
-  "2023-01-05": 9252,
-  "2023-01-06": 9297,
-  "2023-01-07": 9349,
-  "2023-01-08": 9360,
-  "2023-01-09": 9389,
-  "2023-01-10": 9434,
-  "2023-01-11": 9489,
-  "2023-01-12": 9529,
-  "2023-01-13": 9564,
-  "2023-01-14": 9646,
-  "2023-01-15": 9660,
-  "2023-01-16": 9691,
-  "2023-01-17": 9726,
-  "2023-01-18": 9768,
-  "2023-01-19": 9804,
-  "2023-01-20": 9842,
-  "2023-01-21": 9880,
-  "2023-01-22": 9917,
-  "2023-01-23": 9961,
-  "2023-01-24": 9997,
-  "2023-01-25": 10052,
-  "2023-01-26": 10086,
-  "2023-01-27": 10114,
-  "2023-01-28": 10151,
-  "2023-01-29": 10179,
-  "2023-01-30": 10196,
-  "2023-01-31": 10196,
-  "2023-02-01": 10284,
-  "2023-02-02": 10330,
-  "2023-02-03": 10366,
-  "2023-02-04": 10404,
-  "2023-02-05": 10446,
-  "2023-02-06": 10479,
-  "2023-02-07": 10518,
-  "2023-02-08": 10606,
-  "2023-02-09": 10606,
-  "2023-02-10": 10640,
-  "2023-02-11": 10678,
-  "2023-02-12": 10728,
-  "2023-02-13": 10762,
-  "2023-02-14": 10762,
-  "2023-02-15": 10797,
-  "2023-02-16": 10848,
-  "2023-02-17": 10886,
-  "2023-02-18": 10958,
-  "2023-02-19": 10969,
-  "2023-02-20": 10984,
-  "2023-02-21": 11021,
-  "2023-02-22": 11050,
-  "2023-02-23": 11087,
-  "2023-02-24": 11126,
-  "2023-02-25": 11182,
-  "2023-02-26": 11198,
-  "2023-02-27": 11262,
-  "2023-02-28": 11262,
-  "2023-03-01": 11286,
-  "2023-03-02": 11318,
-  "2023-03-03": 11351,
-  "2023-03-04": 11376,
-  "2023-03-05": 11443,
-  "2023-03-06": 11443,
-  "2023-03-07": 11487,
-  "2023-03-08": 11511,
-  "2023-03-09": 11552,
-  "2023-03-10": 11583,
-  "2023-03-11": 11610,
-  "2023-03-12": 11629,
-  "2023-03-13": 11669,
-  "2023-03-14": 11699,
-  "2023-03-15": 11708,
-  "2023-03-16": 11730,
-  "2023-03-17": 11730,
-  "2023-03-18": 11773,
-  "2023-03-19": 11799,
-  "2023-03-20": 11810,
-  "2023-03-21": 11839,
-  "2023-03-22": 11856,
-  "2023-03-23": 11892,
-  "2023-03-24": 11892,
-  "2023-03-25": 11940,
-  "2023-03-26": 11958,
-  "2023-03-27": 11984,
-  "2023-03-28": 12011,
-  "2023-03-29": 12034,
-  "2023-03-30": 12077,
-  "2023-03-31": 12077,
-  "2023-04-01": 12100,
-  "2023-04-02": 12123,
-  "2023-04-03": 12145,
-  "2023-04-04": 12174,
-  "2023-04-05": 12198,
-  "2023-04-06": 12234,
-  "2023-04-07": 12279,
-  "2023-04-09": 12333,
-  "2023-04-10": 12356,
-  "2023-04-11": 12419,
-  "2023-04-12": 12419,
-  "2023-04-13": 12462,
-  "2023-04-14": 12495,
-  "2023-04-15": 12530,
-  "2023-04-16": 12566,
-  "2023-04-17": 12593,
-  "2023-04-18": 12642,
-  "2023-04-19": 12693,
-  "2023-04-20": 12734,
-  "2023-04-21": 12768,
-  "2023-04-22": 12797,
-  "2023-04-23": 12824,
-  "2023-04-24": 12869,
-  "2023-04-25": 12905,
-  "2023-04-26": 12941,
-  "2023-04-27": 12980,
-  "2023-04-28": 13028,
-  "2023-04-29": 13069,
-  "2023-04-30": 13094,
-  "2023-05-01": 13121,
-  "2023-05-02": 13152,
-  "2023-05-03": 13188,
-  "2023-05-04": 13221,
-  "2023-05-05": 13270,
-  "2023-05-06": 13295,
-  "2023-05-07": 13330,
-  "2023-05-08": 13354,
-  "2023-05-09": 13389,
-  "2023-05-10": 13426,
-  "2023-05-11": 13459,
-  "2023-05-12": 13493,
-  "2023-05-13": 13526,
-  "2023-05-14": 13552,
-  "2023-05-15": 13578,
-  "2023-05-16": 13619,
-  "2023-05-17": 13654,
-  "2023-05-18": 13679,
-  "2023-05-19": 13711,
-  "2023-05-20": 13779,
-  "2023-05-21": 13779,
-  "2023-05-22": 13779,
-  "2023-05-23": 13843,
-  "2023-05-24": 13894,
-  "2023-05-25": 13908,
-  "2023-05-26": 13938,
-  "2023-05-27": 13974,
-  "2023-05-28": 13997,
-  "2023-05-29": 13997,
-  "2023-05-30": 14043,
-  "2023-05-31": 14069,
-  "2023-06-01": 14098,
-  "2023-06-02": 14128,
-  "2023-06-03": 14153,
-  "2023-06-04": 14177,
-  "2023-06-05": 14204,
-  "2023-06-06": 14240,
-  "2023-06-07": 14271,
-  "2023-06-08": 14287,
-  "2023-06-09": 14321,
-  "2023-06-10": 14355,
-  "2023-06-11": 14385,
-  "2023-06-12": 14409,
-  "2023-06-13": 14439,
-  "2023-06-14": 14475,
-  "2023-06-15": 14505,
-  "2023-06-16": 14542,
-  "2023-06-17": 14564,
-  "2023-06-18": 14608,
-  "2023-06-19": 14638,
-  "2023-06-20": 14691,
-  "2023-06-21": 14743,
-  "2023-06-22": 14773,
-  "2023-06-23": 14816,
-  "2023-06-24": 14855,
-  "2023-06-25": 14883,
-  "2023-06-26": 14913,
-  "2023-06-27": 14954,
-  "2023-06-28": 14981,
-  "2023-06-29": 15012,
-  "2023-06-30": 15044,
-  "2023-07-01": 15113,
-  "2023-07-02": 15113,
-  "2023-07-03": 15147,
-  "2023-07-04": 15165,
-  "2023-07-05": 15201,
-  "2023-07-06": 15264,
-  "2023-07-07": 15264,
-  "2023-07-08": 15283,
-  "2023-07-09": 15307,
-  "2023-07-10": 15332,
-  "2023-07-11": 15346,
-  "2023-07-12": 15366,
-  "2023-07-13": 15394,
-  "2023-07-14": 15420,
-  "2023-07-15": 15444,
-  "2023-07-16": 15472,
-  "2023-07-17": 15501,
-  "2023-07-18": 15523,
-  "2023-07-19": 15554,
-  "2023-07-20": 15578,
-  "2023-07-21": 15614,
-  "2023-07-22": 15647,
-  "2023-07-23": 15670,
-  "2023-07-24": 15697,
-  "2023-07-25": 15721,
-  "2023-07-26": 15759,
-  "2023-07-27": 15785,
-  "2023-07-28": 15803,
-  "2023-07-29": 15825,
-  "2023-07-30": 15850,
-  "2023-07-31": 15883,
-  "2023-08-01": 15901,
-  "2023-08-02": 15942,
-  "2023-08-03": 15969,
-  "2023-08-04": 16003,
-  "2023-08-05": 16025,
-  "2023-08-06": 16069,
-  "2023-08-07": 16069,
-  "2023-08-08": 16092,
-  "2023-08-09": 16120,
-  "2023-08-10": 16139,
-  "2023-08-11": 16174,
-  "2023-08-12": 16200,
-  "2023-08-13": 16231,
-  "2023-08-14": 16258,
-  "2023-08-15": 16306,
-  "2023-08-16": 16306,
-  "2023-08-17": 16333,
-  "2023-08-18": 16348,
-  "2023-08-19": 16371,
-  "2023-08-20": 16395,
-  "2023-08-21": 16424,
-  "2023-08-22": 16451,
-  "2023-08-23": 16490,
-  "2023-08-24": 16515,
-  "2023-08-25": 16550,
-  "2023-08-26": 16575,
-  "2023-08-27": 16606,
-  "2023-08-28": 16628,
-  "2023-08-29": 16652,
-  "2023-08-30": 16683,
-  "2023-08-31": 16718,
-  "2023-09-01": 16845,
-  "2023-09-02": 16845,
-  "2023-09-03": 16880,
-  "2023-09-04": 16935,
-  "2023-09-05": 16986,
-  "2023-09-06": 17051,
-  "2023-09-07": 17101,
-  "2023-09-08": 17143,
-  "2023-09-09": 17195,
-  "2023-09-10": 17250,
-  "2023-09-11": 17306,
-  "2023-09-12": 17370,
-  "2023-09-13": 17430,
-  "2023-09-14": 17503,
-  "2023-09-15": 17553,
-  "2023-09-16": 17606,
-  "2023-09-17": 17657,
-  "2023-09-18": 17704,
-  "2023-09-19": 17757,
-  "2023-09-20": 17810,
-  "2023-09-21": 17873,
-  "2023-09-22": 17930,
-  "2023-09-23": 18000,
-  "2023-09-24": 18051,
-  "2023-09-25": 18101,
-  "2023-09-26": 18174,
-  "2023-09-27": 18233,
-  "2023-09-28": 18289,
-  "2023-09-29": 18333,
-  "2023-09-30": 18384,
-  "2023-10-01": 18425,
-  "2023-10-02": 18473,
-  "2023-10-03": 18530,
-  "2023-10-04": 18574,
-  "2023-10-05": 18617,
-  "2023-10-06": 18663,
-  "2023-10-07": 18715,
-  "2023-10-08": 18761,
-  "2023-10-09": 18817,
-  "2023-10-10": 18871,
-  "2023-10-11": 18987,
-  "2023-10-12": 18987,
-  "2023-10-13": 19047,
-  "2023-10-14": 19096,
-  "2023-10-15": 19146,
-  "2023-10-16": 19207,
-  "2023-10-17": 19247,
-  "2023-10-18": 19295,
-  "2023-10-19": 19345,
-  "2023-10-20": 19395,
-  "2023-10-21": 19455,
-  "2023-10-22": 19507,
-  "2023-10-23": 19546,
-  "2023-10-24": 19594,
-  "2023-10-25": 19645,
-  "2023-10-26": 19703,
-  "2023-10-27": 19742,
-  "2023-10-28": 19789,
-  "2023-10-29": 19832,
-  "2023-10-30": 19926,
-  "2023-10-31": 19926,
-  "2023-11-01": 19971,
-  "2023-11-02": 20011,
-  "2023-11-03": 20071,
-  "2023-11-04": 20104,
-  "2023-11-05": 20152,
-  "2023-11-06": 20188,
-  "2023-11-07": 20225,
-  "2023-11-08": 20285,
-  "2023-11-09": 20326,
-  "2023-11-10": 20365,
-  "2023-11-11": 20401,
-  "2023-11-12": 20431,
-  "2023-11-13": 20464,
-  "2023-11-14": 20493,
-  "2023-11-15": 20493,
-  "2023-11-16": 20575,
-  "2023-11-17": 20658,
-  "2023-11-18": 20658,
-  "2023-11-19": 20693,
-  "2023-11-20": 20736,
-  "2023-11-21": 20786,
-  "2023-11-22": 20845,
-  "2023-11-23": 20882,
-  "2023-11-24": 20923,
-  "2023-11-25": 20962,
-  "2023-11-26": 21001,
-  "2023-11-27": 21046,
-  "2023-11-28": 21100,
-  "2023-11-29": 21199,
-  "2023-11-30": 21199,
-  "2023-12-01": 21255,
-  "2023-12-02": 21287,
-  "2023-12-03": 21328,
-  "2023-12-04": 21363,
-  "2023-12-05": 21407,
-  "2023-12-06": 21450,
-  "2023-12-07": 21495,
-  "2023-12-08": 21544,
-  "2023-12-09": 21573,
-  "2023-12-10": 21616,
-  "2023-12-11": 21644,
-  "2023-12-12": 21675,
-  "2023-12-13": 21718,
-  "2023-12-14": 21761,
-  "2023-12-15": 21780,
-  "2023-12-16": 21805,
-  "2023-12-17": 21836,
-  "2023-12-18": 21871,
-  "2023-12-19": 21895,
-  "2023-12-20": 21929,
-  "2023-12-21": 21954,
-  "2023-12-22": 21984,
-  "2023-12-23": 22018,
-  "2023-12-24": 22033,
-  "2023-12-25": 22070,
-  "2023-12-26": 22095,
-  "2023-12-27": 22121,
-  "2023-12-30": 22223,
-  "2023-12-31": 22259,
-  "2024-01-01": 22290,
-  "2024-01-02": 22326,
-  "2024-01-03": 22355
+  "2024-01-17": 22827,
+  "date_first_scraped": "2022-09-18",
+  "description": "\u30b9\u30af\u30a6\u30a7\u30a2\u30fb\u30a8\u30cb\u30c3\u30af\u30b9\u306e\u591a\u5f69\u306a\u697d\u66f2\u304b\u3089\u3001\u304a\u51fa\u304b\u3051\u306e\u304a\u4f9b\u306b\u3074\u3063\u305f\u308a\u306a\u30a2\u30c3\u30d7\u30c6\u30f3\u30dd\u30c1\u30e5\u30fc\u30f3\u3092\u304a\u5c4a\u3051\u3002A variety/selection of up-tempo tracks from SQUARE ENX to hit the town. \u00a9 2022 SQUARE ENIX CO., LTD. All Rights Reserved. Illustration: TOSHIYUKI ITAHANA",
+  "name": "Move On!",
+  "tracks": [
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Blinded By Light",
+      "url": "https://open.spotify.com/track/0WIAZIziAzAC52iyuZELn1"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Blitz Off !",
+      "url": "https://open.spotify.com/track/7obXT5zsNToVPIuHx5rHyw"
+    },
+    {
+      "album": {
+        "name": "Unlimited:SaGa Original Soundtrack",
+        "url": "https://open.spotify.com/album/72eyjjnFH2eBIanw8XkFEP"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109866,
+      "name": "BT - Ver.1",
+      "url": "https://open.spotify.com/track/3vcB5nCnuTTVNWohDLSLvh"
+    },
+    {
+      "album": {
+        "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
+        "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
+      },
+      "artists": [
+        {
+          "name": "Neo Liu",
+          "url": "https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6"
+        },
+        {
+          "name": "Tu Hua Bing",
+          "url": "https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220904,
+      "name": "Calling for Rain",
+      "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Chocobo Jam",
+      "url": "https://open.spotify.com/track/2FwEEtqSs8jefefBhrjWSF"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack",
+        "url": "https://open.spotify.com/album/1NxU3rZIAqkRI3VFegA1yK"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200133,
+      "name": "Descendant of Shinobi - FF7R Ver.",
+      "url": "https://open.spotify.com/track/0YBHVcrDVoAYgzsGnEGarR"
+    },
+    {
+      "album": {
+        "name": "NieR:Automata Original Soundtrack",
+        "url": "https://open.spotify.com/album/6Nws2NAPuxaHzB7MfD1lhg"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u90e8\u5553\u4e00",
+          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "End of the Unknown",
+      "url": "https://open.spotify.com/track/6qW0K7Po9uIE5phdLd5xRc"
+    },
+    {
+      "album": {
+        "name": "SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack",
+        "url": "https://open.spotify.com/album/6bm2zfTwTBJ66rObupBJxS"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290946,
+      "name": "eScape",
+      "url": "https://open.spotify.com/track/6IG5ZOKnUryCcsvzopK23A"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack (Plus)",
+        "url": "https://open.spotify.com/album/4plMGSQK9DMXUecQfxpYrB"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151880,
+      "name": "FFVII REMAKE: RUN RUN RUN - Instrumental Ver.",
+      "url": "https://open.spotify.com/track/5S5oKA4IIdQ2oPaIDF2NB1"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        },
+        {
+          "name": "\u571f\u5c90 \u671b",
+          "url": "https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129546,
+      "name": "FFVII REMAKE: STAND UP",
+      "url": "https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd \u5927\u6a39",
+          "url": "https://open.spotify.com/artist/3VWDLXwsN4H5YF755MmhnB"
+        },
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112160,
+      "name": "FFVII REMAKE: \u30af\u30e9\u30c3\u30b7\u30e5\u30dc\u30c3\u30af\u30b9 (Whack-a-Box)",
+      "url": "https://open.spotify.com/track/7IIla7luNVBvMyb7vNLDri"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61626,
+      "name": "FFVII REMAKE: \u30b7\u30f3\u30af\u30fb\u30aa\u30a2\u30fb\u30b9\u30a4\u30e0 (Sync or Swim)",
+      "url": "https://open.spotify.com/track/4nMfIV0wwInFtocDHlKsst"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324733,
+      "name": "FFVII REMAKE: \u30df\u30b0\u30eb\u30df \u30df\u30b0\u30eb\u30df (Due Recompense)",
+      "url": "https://open.spotify.com/track/3ciAqfAdxkw5ctwPyg9OOi"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173920,
+      "name": "FFVII REMAKE: \u95d8\u3046\u8005\u9054 -\u306a\u3093\u3067\u3082\u5c4b\u306e\u4ed5\u4e8b- (Let the Battles Begin! - A Merc's Job)",
+      "url": "https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm"
+    },
+    {
+      "album": {
+        "name": "STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2\u30101/2\u3011",
+        "url": "https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160653,
+      "name": "Flash of Steel",
+      "url": "https://open.spotify.com/track/3PBAMEP4kyiqTqn9aY4vIF"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "\u5d0e\u5143\u4ec1",
+          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155320,
+      "name": "Flash of Steel",
+      "url": "https://open.spotify.com/track/4MHCn1wGPZATqox7wDyhVS"
+    },
+    {
+      "album": {
+        "name": "SQUARE ENIX JAZZ -FINAL FANTASY VII-",
+        "url": "https://open.spotify.com/album/0npDaNHkvKMiwaGN0mghXa"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403151,
+      "name": "Main Theme of FINAL FANTASY VII - Jazz Arrangement",
+      "url": "https://open.spotify.com/track/65yrpEvk6RlGkIQWVnCJis"
+    },
+    {
+      "album": {
+        "name": "OCTOPATH TRAVELER Original Soundtrack",
+        "url": "https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Nishiki",
+          "url": "https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "Octopath Traveler -Main Theme-",
+      "url": "https://open.spotify.com/track/0LmbmsBNz2rMyP0rpECbwD"
+    },
+    {
+      "album": {
+        "name": "DISSIDIA FINAL FANTASY Original Soundtrack",
+        "url": "https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw"
+      },
+      "artists": [
+        {
+          "name": "Bill Xtillidiex Muir",
+          "url": "https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 194946,
+      "name": "Otherworld",
+      "url": "https://open.spotify.com/track/094ROwNMso3g8wHYg89dAV"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+      },
+      "artists": [
+        {
+          "name": "Bill Xtillidiex Muir",
+          "url": "https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Otherworld",
+      "url": "https://open.spotify.com/track/6WGtQKmXCKzvPAFtXOGmNv"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Paradigm Shift",
+      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u5149\u4eba",
+          "url": "https://open.spotify.com/artist/3d72A9fpAQyib60DkaqAIM"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "Parallel Worlds - Aggressive Mix",
+      "url": "https://open.spotify.com/track/78twuJpTk8PXjfelEIzOO4"
+    },
+    {
+      "album": {
+        "name": "Re:Birth\u2161 -SEN- / \u201dSaga\u201d Battle Tracks Arrangement Album",
+        "url": "https://open.spotify.com/album/4iScTUR1JGFEJvzevnMpKv"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u85e4 \u8ce2\u6cbb",
+          "url": "https://open.spotify.com/artist/1ZuJ6RMcrm5xTMYT5BhhaE"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248480,
+      "name": "Re:Birth\u2161-SEN- The Sewers",
+      "url": "https://open.spotify.com/track/4hcSfZOU9ZIyTRmaNGljDP"
+    },
+    {
+      "album": {
+        "name": "THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack",
+        "url": "https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259070,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2Xl9NXXsSzUtrP1PLBJg7U"
+    },
+    {
+      "album": {
+        "name": "\u8056\u5263\u4f1d\u8aac Legend of Mana Original Soundtrack",
+        "url": "https://open.spotify.com/album/1LWxCpR0tECD1udMN2lHT7"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/0m67C2HYo4DuqBDBuz2Wqz"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169706,
+      "name": "Song of Mana ~Opening Theme~",
+      "url": "https://open.spotify.com/track/4u47Dvl23rSK9yVvuUbaTQ"
+    },
+    {
+      "album": {
+        "name": "SHADOWBRINGERS: FINAL FANTASY XIV Original Soundtrack",
+        "url": "https://open.spotify.com/album/6bm2zfTwTBJ66rObupBJxS"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/27sbML0JQGrvHNAx0ViBaX"
+    },
+    {
+      "album": {
+        "name": "THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack",
+        "url": "https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209791,
+      "name": "The Gauntlet",
+      "url": "https://open.spotify.com/track/7oNkrdi41G9GVhNJRLiC6r"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack",
+        "url": "https://open.spotify.com/album/1NxU3rZIAqkRI3VFegA1yK"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u6238 \u525b",
+          "url": "https://open.spotify.com/artist/3TqbjQdp86EtuLrjPPP6Uj"
+        },
+        {
+          "name": "\u9234\u6728 \u5149\u4eba",
+          "url": "https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "The Runaround Pt. I - FF7R Ver.",
+      "url": "https://open.spotify.com/track/4wJylXvftKwNf48pSKu3uL"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "\u5d0e\u5143\u4ec1",
+          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "The Salikawood",
+      "url": "https://open.spotify.com/track/0AkzSyeHif0JeS8QVOXkaf"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XIII Original Soundtrack",
+        "url": "https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g"
+      },
+      "artists": [
+        {
+          "name": "Masashi Hamauzu",
+          "url": "https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "The Sunleth Waterscape",
+      "url": "https://open.spotify.com/track/4sEVHFujmS8Rzp6RHEooEA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXPeEyKqPM0W"
 }

@@ -1,188 +1,1047 @@
 {
-  "2023-06-30": 918801,
-  "2023-07-01": 919691,
-  "2023-07-02": 919691,
-  "2023-07-03": 920111,
-  "2023-07-04": 920413,
-  "2023-07-05": 920704,
-  "2023-07-06": 921332,
-  "2023-07-07": 921332,
-  "2023-07-08": 921332,
-  "2023-07-09": 922081,
-  "2023-07-10": 922502,
-  "2023-07-11": 922743,
-  "2023-07-12": 923019,
-  "2023-07-13": 923333,
-  "2023-07-14": 923609,
-  "2023-07-15": 923857,
-  "2023-07-16": 924350,
-  "2023-07-17": 924721,
-  "2023-07-18": 925044,
-  "2023-07-19": 925352,
-  "2023-07-20": 925661,
-  "2023-07-21": 926026,
-  "2023-07-22": 926405,
-  "2023-07-23": 926871,
-  "2023-07-24": 927304,
-  "2023-07-25": 927621,
-  "2023-07-26": 927944,
-  "2023-07-27": 928327,
-  "2023-07-28": 928721,
-  "2023-07-29": 929114,
-  "2023-07-30": 929541,
-  "2023-07-31": 929942,
-  "2023-08-01": 930275,
-  "2023-08-02": 930583,
-  "2023-08-03": 930921,
-  "2023-08-04": 931287,
-  "2023-08-05": 931729,
-  "2023-08-06": 932745,
-  "2023-08-07": 932745,
-  "2023-08-08": 933073,
-  "2023-08-09": 933449,
-  "2023-08-10": 933834,
-  "2023-08-11": 934314,
-  "2023-08-12": 934314,
-  "2023-08-13": 934314,
-  "2023-08-14": 935588,
-  "2023-08-15": 935588,
-  "2023-08-16": 935588,
-  "2023-08-17": 935588,
-  "2023-08-18": 935588,
-  "2023-08-19": 935588,
-  "2023-08-20": 937803,
-  "2023-08-21": 937803,
-  "2023-08-22": 938566,
-  "2023-08-23": 938566,
-  "2023-08-24": 938566,
-  "2023-08-25": 938566,
-  "2023-08-26": 940044,
-  "2023-08-27": 940044,
-  "2023-08-28": 940934,
-  "2023-08-29": 940934,
-  "2023-08-30": 940934,
-  "2023-08-31": 941890,
-  "2023-09-01": 942253,
-  "2023-09-02": 942253,
-  "2023-09-03": 943228,
-  "2023-09-04": 943228,
-  "2023-09-05": 943228,
-  "2023-09-06": 944264,
-  "2023-09-07": 944264,
-  "2023-09-08": 944264,
-  "2023-09-09": 944264,
-  "2023-09-10": 945828,
-  "2023-09-11": 945828,
-  "2023-09-12": 945828,
-  "2023-09-13": 945828,
-  "2023-09-14": 945828,
-  "2023-09-15": 945828,
-  "2023-09-16": 948491,
-  "2023-09-17": 948491,
-  "2023-09-18": 948491,
-  "2023-09-19": 950005,
-  "2023-09-20": 950005,
-  "2023-09-21": 950005,
-  "2023-09-22": 950945,
-  "2023-09-23": 950945,
-  "2023-09-24": 950945,
-  "2023-09-25": 950945,
-  "2023-09-26": 952491,
-  "2023-09-27": 952491,
-  "2023-09-28": 952491,
-  "2023-09-29": 952491,
-  "2023-09-30": 952491,
-  "2023-10-01": 952491,
-  "2023-10-02": 952491,
-  "2023-10-03": 952491,
-  "2023-10-04": 952491,
-  "2023-10-05": 952491,
-  "2023-10-06": 952491,
-  "2023-10-07": 952491,
-  "2023-10-08": 952491,
-  "2023-10-09": 952491,
-  "2023-10-10": 952491,
-  "2023-10-11": 956058,
-  "2023-10-12": 956058,
-  "2023-10-13": 956058,
-  "2023-10-14": 956058,
-  "2023-10-15": 956058,
-  "2023-10-16": 956058,
-  "2023-10-17": 956058,
-  "2023-10-18": 956058,
-  "2023-10-19": 956058,
-  "2023-10-20": 956058,
-  "2023-10-21": 956058,
-  "2023-10-22": 956058,
-  "2023-10-23": 956058,
-  "2023-10-24": 956058,
-  "2023-10-25": 956058,
-  "2023-10-26": 956058,
-  "2023-10-27": 956058,
-  "2023-10-28": 956058,
-  "2023-10-29": 956058,
-  "2023-10-30": 956058,
-  "2023-10-31": 956058,
-  "2023-11-01": 956058,
-  "2023-11-02": 956058,
-  "2023-11-03": 956058,
-  "2023-11-04": 956058,
-  "2023-11-05": 956058,
-  "2023-11-06": 956058,
-  "2023-11-07": 956058,
-  "2023-11-08": 956058,
-  "2023-11-09": 956058,
-  "2023-11-10": 956058,
-  "2023-11-11": 964950,
-  "2023-11-12": 964950,
-  "2023-11-13": 964950,
-  "2023-11-14": 964950,
-  "2023-11-15": 964950,
-  "2023-11-16": 964950,
-  "2023-11-17": 964950,
-  "2023-11-18": 964950,
-  "2023-11-19": 964950,
-  "2023-11-20": 964950,
-  "2023-11-21": 964950,
-  "2023-11-22": 964950,
-  "2023-11-23": 964950,
-  "2023-11-24": 964950,
-  "2023-11-25": 964950,
-  "2023-11-26": 964950,
-  "2023-11-27": 964950,
-  "2023-11-28": 964950,
-  "2023-11-29": 964950,
-  "2023-11-30": 964950,
-  "2023-12-01": 964950,
-  "2023-12-02": 964950,
-  "2023-12-03": 964950,
-  "2023-12-04": 964950,
-  "2023-12-05": 964950,
-  "2023-12-06": 964950,
-  "2023-12-07": 964950,
-  "2023-12-08": 964950,
-  "2023-12-09": 964950,
-  "2023-12-10": 964950,
-  "2023-12-11": 964950,
-  "2023-12-12": 964950,
-  "2023-12-13": 964950,
-  "2023-12-14": 975556,
-  "2023-12-15": 975800,
-  "2023-12-16": 976177,
-  "2023-12-17": 976573,
-  "2023-12-18": 976915,
-  "2023-12-19": 977187,
-  "2023-12-20": 977468,
-  "2023-12-21": 977786,
-  "2023-12-22": 978117,
-  "2023-12-23": 978514,
-  "2023-12-24": 978930,
-  "2023-12-25": 979455,
-  "2023-12-26": 979960,
-  "2023-12-27": 980239,
-  "2023-12-30": 981256,
-  "2023-12-31": 981721,
-  "2024-01-01": 982207,
-  "2024-01-02": 982702,
-  "2024-01-03": 982897
+  "2024-01-17": 981159,
+  "date_first_scraped": "2023-06-30",
+  "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
+  "name": "This Is Vicente Fern\u00e1ndez",
+  "tracks": [
+    {
+      "album": {
+        "name": "Un Azteca en el Azteca (En Vivo)",
+        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 350493,
+      "name": "A Mi Manera - En Vivo [Un Azteca en el Azteca]",
+      "url": "https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng"
+    },
+    {
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
+    },
+    {
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
+    },
+    {
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
+    },
+    {
+      "album": {
+        "name": "Con Un Mismo Corazon",
+        "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "Con un Mismo Coraz\u00f3n (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG"
+    },
+    {
+      "album": {
+        "name": "La Muerte De Un Gallero",
+        "url": "https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Cruz de Olvido",
+      "url": "https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
+    },
+    {
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
+    },
+    {
+      "album": {
+        "name": "De Un Rancho A Otro",
+        "url": "https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "De un Rancho a Otro",
+      "url": "https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC"
+    },
+    {
+      "album": {
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
+    },
+    {
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "El Hijo del Pueblo",
+      "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
+      "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "El Tah\u00far",
+      "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
+    },
+    {
+      "album": {
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154733,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
+    },
+    {
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Escuch\u00e9 las Golondrinas",
+      "url": "https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
+    },
+    {
+      "album": {
+        "name": "Es La Diferencia",
+        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
+    },
+    {
+      "album": {
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
+    },
+    {
+      "album": {
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+    },
+    {
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 163533,
+      "name": "La Primera Caricia",
+      "url": "https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "La Ruleta",
+      "url": "https://open.spotify.com/track/1mUKGq3IMIhAIB1LZTaZt0"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Las Botas de Charro",
+      "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Las Llaves de Mi Alma",
+      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
+    },
+    {
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "Le Pese a Quien Le Pese",
+      "url": "https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht"
+    },
+    {
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
+    },
+    {
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+    },
+    {
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm"
+    },
+    {
+      "album": {
+        "name": "Mi Viejo",
+        "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 190653,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
+    },
+    {
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
+        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 212573,
+      "name": "M\u00e9xico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
+    },
+    {
+      "album": {
+        "name": "Ni En Defensa Propia",
+        "url": "https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 144066,
+      "name": "Ni En Defensa Propia",
+      "url": "https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj"
+    },
+    {
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8"
+    },
+    {
+      "album": {
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "No Me S\u00e9 Rajar",
+      "url": "https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8"
+    },
+    {
+      "album": {
+        "name": "Estatua De Marfil",
+        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "Nos Estorbo la Ropa",
+      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+    },
+    {
+      "album": {
+        "name": "Mis Duetos",
+        "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
+      "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
+    },
+    {
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4va4REkaDpC31k6jcAbLGY"
+    },
+    {
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Qu\u00e9 de Raro Tiene",
+      "url": "https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189933,
+      "name": "Se\u00f1ora de Tal",
+      "url": "https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "Si Acaso Vuelves",
+      "url": "https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es"
+    },
+    {
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132426,
+      "name": "Si Te Vas No Hay Lio",
+      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
+    },
+    {
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "Sublime Mujer",
+      "url": "https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe"
+    },
+    {
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Tu Camino y el M\u00edo",
+      "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
+    },
+    {
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Le Canta a los Grandes Compositores de M\u00e9xico",
+        "url": "https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 197322,
+      "name": "T\u00fa Solo T\u00fa",
+      "url": "https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu"
+    },
+    {
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Un Mill\u00f3n de Primaveras",
+      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "album": {
+        "name": "Mientras Ustedes No Dejen De Aplaudir...",
+        "url": "https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "Urge",
+      "url": "https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W"
+    },
+    {
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Ya Me Voy para Siempre",
+      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero Uno",
+        "url": "https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Yo Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt"
+    },
+    {
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 176813,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PVLJS"
 }

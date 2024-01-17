@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 34 min
+55 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [No Seu Radinho](https://open.spotify.com/track/0hPIIP3VEEjUeS3ybvhEEQ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 4:11 | 2023-09-18 |  |
 | [Ofício de Cantante](https://open.spotify.com/track/0NNeK4HYMAGjWwX0SJMv4v) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Ofício de Cantante](https://open.spotify.com/album/28FxczQCIQtBEn0FGqWtxE) | 4:38 | 2023-09-18 |  |
 | [Origens](https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk) | [Rimas & Melodias](https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb) | 7:38 | 2023-09-18 |  |
-| [Os Pretinho Bem](https://open.spotify.com/track/6524TC8wLqGylEM6RZL23O) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pedras, Flechas, Lanças, Espadas e Espelhos](https://open.spotify.com/album/4usW6TOvukNX0PIxczZjQ6) | 3:25 | 2023-09-18 |  |
+| [Os Pretinho Bem](https://open.spotify.com/track/3zMrFioc8zQT7F5XPfyu4N) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pedras, Flechas, Lanças, Espadas e Espelhos](https://open.spotify.com/album/5U1zfJbVLAGHq6DfYCCkUH) | 3:25 | 2024-01-06 |  |
+| [Os Pretinho Bem](https://open.spotify.com/track/6524TC8wLqGylEM6RZL23O) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pedras, Flechas, Lanças, Espadas e Espelhos](https://open.spotify.com/album/4usW6TOvukNX0PIxczZjQ6) | 3:25 | 2023-09-18 | 2024-01-07 |
 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 | 2023-09-18 |  |
 | [Ouça\-Me RMX](https://open.spotify.com/track/6ZePoSRNfKqkbqbhMXgKlp) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:56 | 2023-09-18 |  |
 | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U) | 3:57 | 2023-12-13 |  |

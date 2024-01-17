@@ -1,580 +1,1799 @@
 {
-  "2022-05-30": 536,
-  "2022-05-31": 543,
-  "2022-06-01": 545,
-  "2022-06-02": 546,
-  "2022-06-03": 545,
-  "2022-06-04": 547,
-  "2022-06-05": 548,
-  "2022-06-06": 547,
-  "2022-06-07": 551,
-  "2022-06-08": 553,
-  "2022-06-09": 554,
-  "2022-06-10": 557,
-  "2022-06-11": 560,
-  "2022-06-12": 562,
-  "2022-06-13": 563,
-  "2022-06-14": 566,
-  "2022-06-15": 568,
-  "2022-06-16": 566,
-  "2022-06-17": 566,
-  "2022-06-18": 567,
-  "2022-06-19": 572,
-  "2022-06-20": 572,
-  "2022-06-21": 575,
-  "2022-06-22": 577,
-  "2022-06-23": 577,
-  "2022-06-24": 581,
-  "2022-06-25": 583,
-  "2022-06-26": 584,
-  "2022-06-27": 585,
-  "2022-06-28": 584,
-  "2022-06-29": 587,
-  "2022-06-30": 588,
-  "2022-07-01": 588,
-  "2022-07-02": 590,
-  "2022-07-03": 594,
-  "2022-07-04": 595,
-  "2022-07-05": 595,
-  "2022-07-06": 595,
-  "2022-07-07": 600,
-  "2022-07-08": 602,
-  "2022-07-09": 607,
-  "2022-07-10": 607,
-  "2022-07-11": 608,
-  "2022-07-12": 609,
-  "2022-07-13": 609,
-  "2022-07-14": 608,
-  "2022-07-15": 613,
-  "2022-07-16": 616,
-  "2022-07-17": 621,
-  "2022-07-18": 625,
-  "2022-07-19": 626,
-  "2022-07-20": 627,
-  "2022-07-21": 628,
-  "2022-07-22": 626,
-  "2022-07-23": 629,
-  "2022-07-24": 630,
-  "2022-07-25": 634,
-  "2022-07-26": 634,
-  "2022-07-27": 636,
-  "2022-07-28": 641,
-  "2022-07-29": 640,
-  "2022-07-30": 642,
-  "2022-07-31": 642,
-  "2022-08-01": 643,
-  "2022-08-02": 647,
-  "2022-08-03": 647,
-  "2022-08-04": 650,
-  "2022-08-05": 651,
-  "2022-08-06": 651,
-  "2022-08-07": 656,
-  "2022-08-08": 656,
-  "2022-08-09": 658,
-  "2022-08-10": 663,
-  "2022-08-11": 668,
-  "2022-08-12": 669,
-  "2022-08-13": 670,
-  "2022-08-14": 671,
-  "2022-08-15": 671,
-  "2022-08-16": 673,
-  "2022-08-17": 676,
-  "2022-08-18": 677,
-  "2022-08-19": 683,
-  "2022-08-20": 683,
-  "2022-08-21": 683,
-  "2022-08-22": 684,
-  "2022-08-23": 685,
-  "2022-08-24": 685,
-  "2022-08-25": 689,
-  "2022-08-26": 692,
-  "2022-08-27": 692,
-  "2022-08-28": 696,
-  "2022-08-29": 699,
-  "2022-08-30": 702,
-  "2022-08-31": 703,
-  "2022-09-01": 704,
-  "2022-09-02": 706,
-  "2022-09-03": 705,
-  "2022-09-04": 708,
-  "2022-09-05": 713,
-  "2022-09-06": 713,
-  "2022-09-07": 715,
-  "2022-09-09": 719,
-  "2022-09-10": 720,
-  "2022-09-11": 721,
-  "2022-09-12": 726,
-  "2022-09-13": 727,
-  "2022-09-15": 732,
-  "2022-09-16": 734,
-  "2022-09-17": 737,
-  "2022-09-18": 740,
-  "2022-09-19": 739,
-  "2022-09-20": 741,
-  "2022-09-21": 742,
-  "2022-09-22": 742,
-  "2022-09-23": 746,
-  "2022-09-24": 746,
-  "2022-09-25": 747,
-  "2022-09-26": 750,
-  "2022-09-27": 750,
-  "2022-09-28": 752,
-  "2022-09-29": 753,
-  "2022-09-30": 756,
-  "2022-10-01": 756,
-  "2022-10-02": 758,
-  "2022-10-03": 760,
-  "2022-10-04": 762,
-  "2022-10-05": 762,
-  "2022-10-06": 764,
-  "2022-10-07": 764,
-  "2022-10-08": 768,
-  "2022-10-09": 770,
-  "2022-10-10": 772,
-  "2022-10-11": 776,
-  "2022-10-12": 777,
-  "2022-10-13": 780,
-  "2022-10-14": 782,
-  "2022-10-15": 784,
-  "2022-10-16": 790,
-  "2022-10-17": 793,
-  "2022-10-18": 796,
-  "2022-10-19": 798,
-  "2022-10-20": 799,
-  "2022-10-21": 801,
-  "2022-10-22": 807,
-  "2022-10-23": 812,
-  "2022-10-24": 812,
-  "2022-10-25": 817,
-  "2022-10-26": 820,
-  "2022-10-27": 819,
-  "2022-10-28": 821,
-  "2022-10-29": 822,
-  "2022-10-30": 827,
-  "2022-10-31": 832,
-  "2022-11-01": 836,
-  "2022-11-02": 839,
-  "2022-11-03": 843,
-  "2022-11-04": 845,
-  "2022-11-05": 846,
-  "2022-11-06": 847,
-  "2022-11-07": 847,
-  "2022-11-08": 849,
-  "2022-11-09": 848,
-  "2022-11-10": 849,
-  "2022-11-11": 850,
-  "2022-11-12": 850,
-  "2022-11-13": 852,
-  "2022-11-14": 854,
-  "2022-11-15": 857,
-  "2022-11-16": 859,
-  "2022-11-17": 863,
-  "2022-11-18": 863,
-  "2022-11-19": 864,
-  "2022-11-20": 868,
-  "2022-11-21": 872,
-  "2022-11-22": 873,
-  "2022-11-23": 875,
-  "2022-11-24": 879,
-  "2022-11-25": 880,
-  "2022-11-26": 882,
-  "2022-11-27": 884,
-  "2022-11-28": 886,
-  "2022-11-29": 890,
-  "2022-11-30": 894,
-  "2022-12-01": 896,
-  "2022-12-02": 896,
-  "2022-12-03": 900,
-  "2022-12-04": 902,
-  "2022-12-05": 903,
-  "2022-12-06": 905,
-  "2022-12-07": 908,
-  "2022-12-08": 911,
-  "2022-12-09": 913,
-  "2022-12-10": 916,
-  "2022-12-11": 917,
-  "2022-12-12": 917,
-  "2022-12-13": 921,
-  "2022-12-14": 924,
-  "2022-12-15": 922,
-  "2022-12-16": 925,
-  "2022-12-17": 927,
-  "2022-12-18": 930,
-  "2022-12-19": 932,
-  "2022-12-20": 936,
-  "2022-12-21": 936,
-  "2022-12-22": 938,
-  "2022-12-24": 942,
-  "2022-12-25": 945,
-  "2022-12-26": 945,
-  "2022-12-27": 947,
-  "2022-12-28": 948,
-  "2022-12-29": 954,
-  "2022-12-30": 958,
-  "2022-12-31": 958,
-  "2023-01-01": 960,
-  "2023-01-02": 964,
-  "2023-01-03": 965,
-  "2023-01-04": 968,
-  "2023-01-05": 971,
-  "2023-01-06": 973,
-  "2023-01-07": 976,
-  "2023-01-08": 978,
-  "2023-01-09": 978,
-  "2023-01-10": 985,
-  "2023-01-11": 986,
-  "2023-01-12": 991,
-  "2023-01-13": 994,
-  "2023-01-14": 1000,
-  "2023-01-15": 1002,
-  "2023-01-16": 1003,
-  "2023-01-17": 1006,
-  "2023-01-18": 1005,
-  "2023-01-19": 1006,
-  "2023-01-20": 1004,
-  "2023-01-21": 1010,
-  "2023-01-22": 1015,
-  "2023-01-23": 1021,
-  "2023-01-24": 1023,
-  "2023-01-25": 1024,
-  "2023-01-26": 1028,
-  "2023-01-27": 1030,
-  "2023-01-28": 1030,
-  "2023-01-29": 1034,
-  "2023-01-30": 1033,
-  "2023-01-31": 1033,
-  "2023-02-01": 1041,
-  "2023-02-02": 1041,
-  "2023-02-03": 1043,
-  "2023-02-04": 1044,
-  "2023-02-05": 1046,
-  "2023-02-06": 1051,
-  "2023-02-07": 1057,
-  "2023-02-08": 1062,
-  "2023-02-09": 1062,
-  "2023-02-10": 1064,
-  "2023-02-11": 1064,
-  "2023-02-12": 1068,
-  "2023-02-13": 1069,
-  "2023-02-14": 1069,
-  "2023-02-15": 1070,
-  "2023-02-16": 1070,
-  "2023-02-17": 1070,
-  "2023-02-18": 1072,
-  "2023-02-19": 1072,
-  "2023-02-20": 1074,
-  "2023-02-21": 1078,
-  "2023-02-22": 1080,
-  "2023-02-23": 1082,
-  "2023-02-24": 1083,
-  "2023-02-25": 1088,
-  "2023-02-26": 1091,
-  "2023-02-27": 1095,
-  "2023-02-28": 1095,
-  "2023-03-01": 1094,
-  "2023-03-02": 1096,
-  "2023-03-03": 1101,
-  "2023-03-04": 1102,
-  "2023-03-05": 1103,
-  "2023-03-06": 1103,
-  "2023-03-07": 1104,
-  "2023-03-08": 1106,
-  "2023-03-09": 1110,
-  "2023-03-10": 1111,
-  "2023-03-11": 1113,
-  "2023-03-12": 1114,
-  "2023-03-13": 1114,
-  "2023-03-14": 1116,
-  "2023-03-15": 1118,
-  "2023-03-16": 1118,
-  "2023-03-17": 1118,
-  "2023-03-18": 1126,
-  "2023-03-19": 1126,
-  "2023-03-20": 1126,
-  "2023-03-21": 1129,
-  "2023-03-22": 1128,
-  "2023-03-23": 1129,
-  "2023-03-24": 1129,
-  "2023-03-25": 1135,
-  "2023-03-26": 1135,
-  "2023-03-27": 1137,
-  "2023-03-28": 1138,
-  "2023-03-29": 1142,
-  "2023-03-30": 1147,
-  "2023-03-31": 1147,
-  "2023-04-01": 1148,
-  "2023-04-02": 1151,
-  "2023-04-03": 1151,
-  "2023-04-04": 1157,
-  "2023-04-05": 1157,
-  "2023-04-06": 1156,
-  "2023-04-07": 1160,
-  "2023-04-09": 1163,
-  "2023-04-10": 1166,
-  "2023-04-11": 1166,
-  "2023-04-12": 1166,
-  "2023-04-13": 1168,
-  "2023-04-14": 1168,
-  "2023-04-15": 1171,
-  "2023-04-16": 1176,
-  "2023-04-17": 1177,
-  "2023-04-18": 1179,
-  "2023-04-19": 1182,
-  "2023-04-20": 1184,
-  "2023-04-21": 1186,
-  "2023-04-22": 1187,
-  "2023-04-23": 1188,
-  "2023-04-24": 1191,
-  "2023-04-25": 1194,
-  "2023-04-26": 1199,
-  "2023-04-27": 1198,
-  "2023-04-28": 1199,
-  "2023-04-29": 1200,
-  "2023-04-30": 1201,
-  "2023-05-01": 1204,
-  "2023-05-02": 1208,
-  "2023-05-03": 1210,
-  "2023-05-04": 1212,
-  "2023-05-05": 1214,
-  "2023-05-06": 1225,
-  "2023-05-07": 1232,
-  "2023-05-08": 1238,
-  "2023-05-09": 1240,
-  "2023-05-10": 1243,
-  "2023-05-11": 1245,
-  "2023-05-12": 1247,
-  "2023-05-13": 1248,
-  "2023-05-14": 1253,
-  "2023-05-15": 1255,
-  "2023-05-16": 1262,
-  "2023-05-17": 1267,
-  "2023-05-18": 1274,
-  "2023-05-19": 1281,
-  "2023-05-20": 1292,
-  "2023-05-21": 1292,
-  "2023-05-22": 1292,
-  "2023-05-23": 1298,
-  "2023-05-24": 1308,
-  "2023-05-25": 1309,
-  "2023-05-26": 1312,
-  "2023-05-27": 1312,
-  "2023-05-28": 1313,
-  "2023-05-29": 1313,
-  "2023-05-30": 1318,
-  "2023-05-31": 1320,
-  "2023-06-01": 1325,
-  "2023-06-02": 1326,
-  "2023-06-03": 1330,
-  "2023-06-04": 1332,
-  "2023-06-05": 1334,
-  "2023-06-06": 1335,
-  "2023-06-07": 1335,
-  "2023-06-08": 1339,
-  "2023-06-09": 1340,
-  "2023-06-10": 1341,
-  "2023-06-11": 1346,
-  "2023-06-12": 1348,
-  "2023-06-13": 1349,
-  "2023-06-14": 1349,
-  "2023-06-15": 1354,
-  "2023-06-16": 1357,
-  "2023-06-17": 1361,
-  "2023-06-18": 1363,
-  "2023-06-19": 1365,
-  "2023-06-20": 1368,
-  "2023-06-21": 1369,
-  "2023-06-22": 1371,
-  "2023-06-23": 1371,
-  "2023-06-24": 1371,
-  "2023-06-25": 1371,
-  "2023-06-26": 1372,
-  "2023-06-27": 1374,
-  "2023-06-28": 1376,
-  "2023-06-29": 1376,
-  "2023-06-30": 1378,
-  "2023-07-01": 1382,
-  "2023-07-02": 1382,
-  "2023-07-03": 1385,
-  "2023-07-04": 1389,
-  "2023-07-05": 1391,
-  "2023-07-06": 1395,
-  "2023-07-07": 1395,
-  "2023-07-08": 1395,
-  "2023-07-09": 1400,
-  "2023-07-10": 1400,
-  "2023-07-11": 1403,
-  "2023-07-12": 1404,
-  "2023-07-13": 1404,
-  "2023-07-14": 1407,
-  "2023-07-15": 1409,
-  "2023-07-16": 1412,
-  "2023-07-17": 1412,
-  "2023-07-18": 1411,
-  "2023-07-19": 1411,
-  "2023-07-20": 1411,
-  "2023-07-21": 1416,
-  "2023-07-22": 1417,
-  "2023-07-23": 1419,
-  "2023-07-24": 1421,
-  "2023-07-25": 1422,
-  "2023-07-26": 1425,
-  "2023-07-27": 1425,
-  "2023-07-28": 1425,
-  "2023-07-29": 1431,
-  "2023-07-30": 1431,
-  "2023-07-31": 1435,
-  "2023-08-01": 1439,
-  "2023-08-02": 1439,
-  "2023-08-03": 1440,
-  "2023-08-04": 1441,
-  "2023-08-05": 1445,
-  "2023-08-06": 1446,
-  "2023-08-07": 1446,
-  "2023-08-08": 1449,
-  "2023-08-09": 1449,
-  "2023-08-10": 1450,
-  "2023-08-11": 1450,
-  "2023-08-12": 1450,
-  "2023-08-13": 1450,
-  "2023-08-14": 1450,
-  "2023-08-15": 1450,
-  "2023-08-16": 1450,
-  "2023-08-17": 1450,
-  "2023-08-18": 1450,
-  "2023-08-19": 1450,
-  "2023-08-20": 1479,
-  "2023-08-21": 1479,
-  "2023-08-22": 1493,
-  "2023-08-23": 1493,
-  "2023-08-24": 1493,
-  "2023-08-25": 1493,
-  "2023-08-26": 1513,
-  "2023-08-27": 1513,
-  "2023-08-28": 1518,
-  "2023-08-29": 1518,
-  "2023-08-30": 1518,
-  "2023-08-31": 1549,
-  "2023-09-01": 1555,
-  "2023-09-02": 1555,
-  "2023-09-03": 1555,
-  "2023-09-04": 1555,
-  "2023-09-05": 1555,
-  "2023-09-06": 1555,
-  "2023-09-07": 1555,
-  "2023-09-08": 1555,
-  "2023-09-09": 1555,
-  "2023-09-10": 1555,
-  "2023-09-11": 1555,
-  "2023-09-12": 1555,
-  "2023-09-13": 1555,
-  "2023-09-14": 1555,
-  "2023-09-15": 1555,
-  "2023-09-16": 1555,
-  "2023-09-17": 1555,
-  "2023-09-18": 1555,
-  "2023-09-19": 1555,
-  "2023-09-20": 1555,
-  "2023-09-21": 1555,
-  "2023-09-22": 1639,
-  "2023-09-23": 1639,
-  "2023-09-24": 1639,
-  "2023-09-25": 1639,
-  "2023-09-26": 1652,
-  "2023-09-27": 1652,
-  "2023-09-28": 1652,
-  "2023-09-29": 1652,
-  "2023-09-30": 1652,
-  "2023-10-01": 1652,
-  "2023-10-02": 1652,
-  "2023-10-03": 1652,
-  "2023-10-04": 1652,
-  "2023-10-05": 1652,
-  "2023-10-06": 1652,
-  "2023-10-07": 1652,
-  "2023-10-08": 1652,
-  "2023-10-09": 1652,
-  "2023-10-10": 1652,
-  "2023-10-11": 1652,
-  "2023-10-12": 1652,
-  "2023-10-13": 1652,
-  "2023-10-14": 1652,
-  "2023-10-15": 1652,
-  "2023-10-16": 1652,
-  "2023-10-17": 1652,
-  "2023-10-18": 1652,
-  "2023-10-19": 1652,
-  "2023-10-20": 1652,
-  "2023-10-21": 1652,
-  "2023-10-22": 1652,
-  "2023-10-23": 1652,
-  "2023-10-24": 1652,
-  "2023-10-25": 1652,
-  "2023-10-26": 1652,
-  "2023-10-27": 1652,
-  "2023-10-28": 1652,
-  "2023-10-29": 1652,
-  "2023-10-30": 1652,
-  "2023-10-31": 1652,
-  "2023-11-01": 1652,
-  "2023-11-02": 1652,
-  "2023-11-03": 1652,
-  "2023-11-04": 1652,
-  "2023-11-05": 1652,
-  "2023-11-06": 1652,
-  "2023-11-07": 1652,
-  "2023-11-08": 1652,
-  "2023-11-09": 1652,
-  "2023-11-10": 1652,
-  "2023-11-11": 1765,
-  "2023-11-12": 1765,
-  "2023-11-13": 1765,
-  "2023-11-14": 1765,
-  "2023-11-15": 1765,
-  "2023-11-16": 1765,
-  "2023-11-17": 1765,
-  "2023-11-18": 1765,
-  "2023-11-19": 1765,
-  "2023-11-20": 1765,
-  "2023-11-21": 1765,
-  "2023-11-22": 1765,
-  "2023-11-23": 1765,
-  "2023-11-24": 1765,
-  "2023-11-25": 1765,
-  "2023-11-26": 1765,
-  "2023-11-27": 1765,
-  "2023-11-28": 1765,
-  "2023-11-29": 1765,
-  "2023-11-30": 1765,
-  "2023-12-01": 1765,
-  "2023-12-02": 1765,
-  "2023-12-03": 1765,
-  "2023-12-04": 1765,
-  "2023-12-05": 1765,
-  "2023-12-06": 1765,
-  "2023-12-07": 1765,
-  "2023-12-08": 1765,
-  "2023-12-09": 1765,
-  "2023-12-10": 1765,
-  "2023-12-11": 1765,
-  "2023-12-12": 1765,
-  "2023-12-13": 1765,
-  "2023-12-14": 1825,
-  "2023-12-15": 1827,
-  "2023-12-16": 1831,
-  "2023-12-17": 1832,
-  "2023-12-18": 1835,
-  "2023-12-19": 1843,
-  "2023-12-20": 1845,
-  "2023-12-21": 1846,
-  "2023-12-22": 1848,
-  "2023-12-23": 1850,
-  "2023-12-24": 1853,
-  "2023-12-25": 1853,
-  "2023-12-26": 1853,
-  "2023-12-27": 1855,
-  "2023-12-30": 1857,
-  "2023-12-31": 1858,
-  "2024-01-01": 1857,
-  "2024-01-02": 1859,
-  "2024-01-03": 1860
+  "2024-01-17": 1877,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
+  "name": "This Is Delia Derbyshire",
+  "tracks": [
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
+    },
+    {
+      "album": {
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54053,
+      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
+      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 210733,
+      "name": "Celestial Cantabile",
+      "url": "https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c"
+    },
+    {
+      "album": {
+        "name": "Circle of Light (Original Electronic Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Elsa Stansfield",
+          "url": "https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 1274745,
+      "name": "Circle of Light, Pt. 1",
+      "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
+    },
+    {
+      "album": {
+        "name": "Circle of Light (Original Electronic Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Elsa Stansfield",
+          "url": "https://open.spotify.com/artist/5dMtXJG3j99DNJ5BYhXjtO"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625911,
+      "name": "Circle of Light, Pt. 2",
+      "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74573,
+      "name": "Computermatic",
+      "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40160,
+      "name": "Delia's Dream",
+      "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35980,
+      "name": "Delia's Psychadelian Waltz",
+      "url": "https://open.spotify.com/track/3NmsD9RDuyEcrodadErSMk"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80200,
+      "name": "Delia's Theme",
+      "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 87200,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/0wYA5p0Px0APnNoV9M4lhK"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 80053,
+      "name": "Doctor Who (Closing Theme)",
+      "url": "https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6IU19Hkr2vWuLttMYqr9bR"
+      },
+      "artists": [
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 80053,
+      "name": "Doctor Who (Closing Theme)",
+      "url": "https://open.spotify.com/track/0YVTRWR2FN4I42xpITS9Lr"
+    },
+    {
+      "album": {
+        "name": "Doctor Who: The Krotons (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5LbPRYPZ3UMlGQCinkhZFI"
+      },
+      "artists": [
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 53560,
+      "name": "Doctor Who (New Opening Theme, 1967)",
+      "url": "https://open.spotify.com/track/5edEe378gFi6xxhveG7jAk"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4b80quImIGtQGnlNuDUlqm"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 39240,
+      "name": "Doctor Who (Opening Theme)",
+      "url": "https://open.spotify.com/track/0Rr3Qaf5yF2bRtcfBHkLFg"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6IU19Hkr2vWuLttMYqr9bR"
+      },
+      "artists": [
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 39240,
+      "name": "Doctor Who (Opening Theme)",
+      "url": "https://open.spotify.com/track/3XGm6OjIaIJSmdhH9jZ9p4"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The 50th Anniversary Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q"
+      },
+      "artists": [
+        {
+          "name": "Ron Grainer",
+          "url": "https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 140933,
+      "name": "Doctor Who (Original Theme) [From \"Doctor Who\"]",
+      "url": "https://open.spotify.com/track/5dxWU9epbOtZ0XHv60tydp"
+    },
+    {
+      "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80053,
+      "name": "Doctor Who - Closing Theme",
+      "url": "https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3"
+    },
+    {
+      "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39240,
+      "name": "Doctor Who - Opening Theme",
+      "url": "https://open.spotify.com/track/1fh0GIHW5ClsCe1D1zYVk3"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - the Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 55546,
+      "name": "Doctor Who Closing Title Theme - 53\" Version",
+      "url": "https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55546,
+      "name": "Doctor Who Closing Title Theme - 53\" Version",
+      "url": "https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 55546,
+      "name": "Doctor Who Closing Title Theme - 53'' Version",
+      "url": "https://open.spotify.com/track/6j0lGczgs13shAl0iFHfN2"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The 50th Anniversary Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q"
+      },
+      "artists": [
+        {
+          "name": "Ron Grainer",
+          "url": "https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 75040,
+      "name": "Doctor Who Closing Titles (40\" Version)",
+      "url": "https://open.spotify.com/track/3DLtzJulhFfQBRqwiuhwyC"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - the Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/2Izs9XIs1FJCdbgJKSV7ni"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/6YB4kP8ZMACLbOU1edQFan"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The 50th Anniversary Collection (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q"
+      },
+      "artists": [
+        {
+          "name": "Ron Grainer",
+          "url": "https://open.spotify.com/artist/4qLcZ00bh6qqKil3lXj23A"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 44306,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/3neF5aqJRfdHgEKqnV7Fke"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/7bhcpGwtx7XToXJUcVIdLD"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 122400,
+      "name": "Effervescence",
+      "url": "https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w"
+    },
+    {
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 532012,
+      "name": "Falling, From The Dreams (Workshop Mix)",
+      "url": "https://open.spotify.com/track/43p8A1qLr07yFRUI0aJB9l"
+    },
+    {
+      "album": {
+        "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
+        "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526068,
+      "name": "Falling, From the Dreams - Radio Version 1964",
+      "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 99600,
+      "name": "Freeze Frame",
+      "url": "https://open.spotify.com/track/6qf2XVvOJWF8wEHQzVj6oo"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126360,
+      "name": "Frontier of Knowledge",
+      "url": "https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114533,
+      "name": "Gothic Submarine",
+      "url": "https://open.spotify.com/track/4IpQr5HGDqqxJfjqg0hqID"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46946,
+      "name": "Hannett and Delia synth exchanges track 1",
+      "url": "https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 297120,
+      "name": "Hannett and Delia synth exchanges track 10",
+      "url": "https://open.spotify.com/track/4eSGGibTzb8uFGwwxMPd2A"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 67800,
+      "name": "Hannett and Delia synth exchanges track 11",
+      "url": "https://open.spotify.com/track/2boj4w0TsIZtkT25yPo1zg"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 196386,
+      "name": "Hannett and Delia synth exchanges track 12",
+      "url": "https://open.spotify.com/track/30ZtkLIsr5pYliZEodAeb5"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121573,
+      "name": "Hannett and Delia synth exchanges track 14",
+      "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 122413,
+      "name": "Hannett and Delia synth exchanges track 15",
+      "url": "https://open.spotify.com/track/4MmsZt9kCHtjjUzUA83sMF"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 174333,
+      "name": "Hannett and Delia synth exchanges track 16",
+      "url": "https://open.spotify.com/track/5bv0tIM9J7jMxBhHznLt2y"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 74573,
+      "name": "Hannett and Delia synth exchanges track 17",
+      "url": "https://open.spotify.com/track/3GTvBYl4RHsIlL1aqxnN3D"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89813,
+      "name": "Hannett and Delia synth exchanges track 18",
+      "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 126360,
+      "name": "Hannett and Delia synth exchanges track 19",
+      "url": "https://open.spotify.com/track/243CrAqa2JDtbn078Qd5dF"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66080,
+      "name": "Hannett and Delia synth exchanges track 20",
+      "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 175773,
+      "name": "Hannett and Delia synth exchanges track 21",
+      "url": "https://open.spotify.com/track/4uLGsgGz29gBwFwgfBcNvt"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 163413,
+      "name": "Hannett and Delia synth exchanges track 3",
+      "url": "https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 34400,
+      "name": "Hannett and Delia synth exchanges track 4",
+      "url": "https://open.spotify.com/track/31w8FxWHtH85l41qSS9v1K"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Hannett and Delia synth exchanges track 5",
+      "url": "https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 126213,
+      "name": "Hannett and Delia synth exchanges track 6",
+      "url": "https://open.spotify.com/track/6fzWYlEBCGq0OXVLcw5yTV"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 79946,
+      "name": "Hannett and Delia synth exchanges track 7",
+      "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47506,
+      "name": "Hannett and Delia synth exchanges track 8",
+      "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 105506,
+      "name": "Hannett and Delia synth exchanges track 9",
+      "url": "https://open.spotify.com/track/1kmJMLFVnW7GtqrK37ngN4"
+    },
+    {
+      "album": {
+        "name": "Moogies Bloogies",
+        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94378,
+      "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
+      "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 112800,
+      "name": "Liquid Energy",
+      "url": "https://open.spotify.com/track/5Wjz07ztOvD4sADhPuLEtv"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64773,
+      "name": "Liquid Energy - Underscore Version",
+      "url": "https://open.spotify.com/track/12nkGYRuBT6ewgn1w7Ygxr"
+    },
+    {
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess (Full Broadcast Version)",
+      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
+    },
+    {
+      "album": {
+        "name": "Moogies Bloogies",
+        "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144689,
+      "name": "Moogies Bloogies",
+      "url": "https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119640,
+      "name": "Nightwalker",
+      "url": "https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110826,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96112,
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/0Wa15c9B3MbHekgmlbj5KD"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 110866,
+      "name": "Plodding Power",
+      "url": "https://open.spotify.com/track/5ameYEi5L28ecrqiu2necP"
+    },
+    {
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 200566,
+      "name": "Pot au Feu (1964 Workshop Mix)",
+      "url": "https://open.spotify.com/track/1iX1AOfoSZjRXkjB8a71Fm"
+    },
+    {
+      "album": {
+        "name": "Pot au Feu (BBC Version)",
+        "url": "https://open.spotify.com/album/4vF9xTT7wHXaVdtdaKUmLH"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "Pot au Feu - BBC Version",
+      "url": "https://open.spotify.com/track/6Y29BVuOV3mk21WLPFELU7"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105466,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 63760,
+      "name": "Restless Relays",
+      "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 34400,
+      "name": "Shock Chords",
+      "url": "https://open.spotify.com/track/5WcHBV1Wzac0UCRy3ZseBc"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 26480,
+      "name": "Talk Out",
+      "url": "https://open.spotify.com/track/0cbb7iObJeNuooNhJbvHmX"
+    },
+    {
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108480,
+      "name": "The Afterlife, Pt. 1",
+      "url": "https://open.spotify.com/track/34N10CgvlD72zNU0WP5ygC"
+    },
+    {
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352197,
+      "name": "The Afterlife, Pt. 2",
+      "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
+    },
+    {
+      "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 2113024,
+      "name": "The Afterlife, Pt. 3",
+      "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 175733,
+      "name": "The Pattern Emerges",
+      "url": "https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Electrosonic",
+        "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
+      },
+      "artists": [
+        {
+          "name": "Brian Hodgson",
+          "url": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Don Harper",
+          "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 126200,
+      "name": "The Wizard's Laboratory",
+      "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/2oeQFA1RwZbR9E5Pf50XRQ"
+    },
+    {
+      "album": {
+        "name": "Electronic",
+        "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111640,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/0aoAksB3m0uQxKWreBH0zx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4t4K4x"
 }

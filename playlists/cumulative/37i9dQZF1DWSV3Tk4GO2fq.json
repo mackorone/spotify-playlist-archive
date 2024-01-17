@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "The Cadence Years, Vol. 1",
+        "url": "https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf"
+    },
+    {
+      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-09",
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 126666,
       "name": "I'm Walkin'",
       "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
@@ -2470,6 +2488,24 @@
       "duration_ms": 144066,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/1slMt4LizkO9dVcMZItJ1O"
+    },
+    {
+      "album": {
+        "name": "Legends Of Rock n' Roll",
+        "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
     },
     {
       "album": {
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 134560,
       "name": "Love Letters In The Sand - Single Version",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"

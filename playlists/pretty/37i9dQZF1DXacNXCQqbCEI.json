@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 358548,
+  "num_followers": 355323,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Amansara Remixed",
         "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 241338,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Otun",
-        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
-      },
-      "artists": [
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 263225,
-      "name": "Solo Quiero (feat. Pedrina)",
-      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -275,22 +275,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+        "name": "Otun",
+        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+      "duration_ms": 263225,
+      "name": "Solo Quiero (feat. Pedrina)",
+      "url": "https://open.spotify.com/track/4JP3yoybj8GVDVBKrdmkFx"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -387,6 +387,26 @@
       "duration_ms": 169094,
       "name": "Sonic Forest (D\u00e9jame Respirar)",
       "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
+      },
+      "artists": [
+        {
+          "name": "Landikhan",
+          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
+        },
+        {
+          "name": "Ni\u00f1a indigo",
+          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
+        }
+      ],
+      "duration_ms": 348887,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -423,58 +443,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Serpiente Dorada",
-        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
-      },
-      "artists": [
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "Serpiente Dorada",
-      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
-      },
-      "artists": [
-        {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Ni\u00f1a indigo",
-          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
-        }
-      ],
-      "duration_ms": 348887,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Tranquillitas",
         "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
@@ -495,18 +463,34 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Ostriconi",
-        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
       "artists": [
         {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 285990,
-      "name": "Sakoneta",
-      "url": "https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg"
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Serpiente Dorada",
+        "url": "https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst"
+      },
+      "artists": [
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "Serpiente Dorada",
+      "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Sakoneta",
+      "url": "https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Balnear",
-        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Solitario",
-      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "NO VISA",
         "url": "https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Balnear",
+        "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Solitario",
+      "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Aurora Remixed",
         "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
       "artists": [
         {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 546282,
-      "name": "Maajo",
-      "url": "https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5"
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -675,6 +659,38 @@
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        }
+      ],
+      "duration_ms": 546282,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -735,26 +751,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Otun",
-        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
-      },
-      "artists": [
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
-        }
-      ],
-      "duration_ms": 205252,
-      "name": "Otun (feat. Nidia Gongora)",
-      "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
       },
@@ -787,18 +783,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+        "name": "Otun",
+        "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+      "duration_ms": 205252,
+      "name": "Otun (feat. Nidia Gongora)",
+      "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -907,6 +927,22 @@
       "duration_ms": 245280,
       "name": "Como Lo Ped\u00ed",
       "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -935,42 +971,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Ramas",
-        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 289502,
-      "name": "Resiliencia",
-      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
@@ -995,54 +995,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "El Makako",
-      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Ghetto Kumb\u00e9",
-        "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "ATO 3: Am\u00e9rica do Sol",
         "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
@@ -1063,38 +1015,90 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Indus Meets Palenque Records, Vol. 2",
-        "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
       "artists": [
         {
-          "name": "Indus",
-          "url": "https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63"
-        },
-        {
-          "name": "Las Alegres Ambulancias",
-          "url": "https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr"
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
         }
       ],
-      "duration_ms": 215427,
-      "name": "P\u00e1jaro de Mar",
-      "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
+      "duration_ms": 266213,
+      "name": "El Makako",
+      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
     },
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
       },
       "artists": [
         {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
         }
       ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/7IqNYA6InoqletEJBVrgnm"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Pleamar",
+        "url": "https://open.spotify.com/album/2sYEdoLqzCfNjVJysNB2vN"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 235032,
+      "name": "El Mago Georges",
+      "url": "https://open.spotify.com/track/7aNo1mzQehEj0K8SBsMAVp"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

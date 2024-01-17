@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The best remixes of popular tracks!",
-  "name": "Hardstyle Remixes",
+  "description": "The best hardstyle remixes of songs you know!",
+  "name": "Hardstyle Remix of Popular Songs",
   "tracks": [
     {
       "album": {
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 269250,
       "name": "Instagram - Mandy Remix",
       "url": "https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 248067,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/11SXPs6gjysHrTiDR1TLIt"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Push Up (Hardstyle)",
+        "url": "https://open.spotify.com/album/09Wg0QVgimoAsWIROu4Wmy"
+      },
+      "artists": [
+        {
+          "name": "magnuscan",
+          "url": "https://open.spotify.com/artist/1egIACjtL0hj2j79ZZ734o"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151486,
+      "name": "Push Up (Hardstyle)",
+      "url": "https://open.spotify.com/track/04a58l9JcaFctW3xqYH4TM"
+    },
+    {
+      "album": {
         "name": "Push Up (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/0vf6Uxo4jasSRkUfVUs8dm"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 151500,
       "name": "Push Up - Hardstyle Remix",
       "url": "https://open.spotify.com/track/76K2GPOdbmj2bGCnFYj2xe"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": "2024-01-17",
       "duration_ms": 190412,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0"

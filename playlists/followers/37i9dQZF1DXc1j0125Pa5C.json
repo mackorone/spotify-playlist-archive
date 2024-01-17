@@ -1,6 +1,1651 @@
 {
-  "2023-12-31": 273210,
-  "2024-01-01": 273567,
-  "2024-01-02": 273716,
-  "2024-01-03": 273820
+  "2024-01-17": 275802,
+  "date_first_scraped": "2023-12-31",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Tiee, Gustavo Lins",
+  "name": "Domingu\u00eara",
+  "tracks": [
+    {
+      "album": {
+        "name": "Retomada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/18gDxwSWm2QQHnrfYkyCNd"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232855,
+      "name": "1 Minuto / Bem Querer - Ao Vivo",
+      "url": "https://open.spotify.com/track/3G14eXMA69Hb4x8jTAAYN1"
+    },
+    {
+      "album": {
+        "name": "Turma do Pagode XV Anos (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238218,
+      "name": "A Gente Tem Tudo a Ver / Camisa 10 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6irdSpdz9i0h99m1Bzaerz"
+    },
+    {
+      "album": {
+        "name": "Por Voc\u00ea Ao Vivo",
+        "url": "https://open.spotify.com/album/0nax8M9StAXGx54wYprGHN"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331866,
+      "name": "Ainda Gosto de Voc\u00ea - Me Espera - Cora\u00e7\u00e3o Deserto",
+      "url": "https://open.spotify.com/track/3AnT2b3Jb7mCfxvakHHVdc"
+    },
+    {
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345053,
+      "name": "Ainda Gosto de Voc\u00ea / J\u00e1 Era - Ao Vivo",
+      "url": "https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B"
+    },
+    {
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373706,
+      "name": "Amanh\u00e3 / Loucura do Seu Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW"
+    },
+    {
+      "album": {
+        "name": "Ferrugem em Casa 2 (Bloco 1) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/46xmD0eirM5ttp8NBf6JSP"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266822,
+      "name": "At\u00e9 que enfim / Pra voc\u00ea acreditar / Paci\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/5DMZgOgYuMIsyewofxvJzs"
+    },
+    {
+      "album": {
+        "name": "Turma no Quintal EP 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2HyUX68WC8FIHD1QPrUtlu"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4GbEcznuSiPW8HeWubVrVt"
+    },
+    {
+      "album": {
+        "name": "Beijo Doce / Brilho de Cristal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Beijo Doce / Brilho de Cristal - Ao Vivo",
+      "url": "https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC"
+    },
+    {
+      "album": {
+        "name": "Juntos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/10ZZstHQsAM6UbAnl3EXEl"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301746,
+      "name": "Brigas por Nada / Trov\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eFDvMEwTkxS078DQNmHWa"
+    },
+    {
+      "album": {
+        "name": "Encontrin 2 - Parte 5 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3qXQ6hhR7vWr5t6W5lUX7b"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242546,
+      "name": "Chantilly / Conquista / Princesa - Ao Vivo",
+      "url": "https://open.spotify.com/track/0xwbDJEl4Asn3dyTL9WCo0"
+    },
+    {
+      "album": {
+        "name": "Samba Pro Meu Povo: Bloco Refer\u00eancias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1g1Jqje9vE1uUYJzb74UKt"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Chegamos Ao Fim / Al\u00e9m do Meu Querer / Fim da Tristeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AGCb8UOErEkIWxmqx07E1"
+    },
+    {
+      "album": {
+        "name": "Nostalgia (Ao Vivo / Vol. 2)",
+        "url": "https://open.spotify.com/album/3EJMWHZsUwQK8CKoClzkBA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Envolv\u00eancia",
+          "url": "https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0"
+        },
+        {
+          "name": "Marcelinho Freitas",
+          "url": "https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287413,
+      "name": "Cigana / Marrom Bombom / Nascente - Ao Vivo",
+      "url": "https://open.spotify.com/track/7iyBS123RcIf7oi5P0miYR"
+    },
+    {
+      "album": {
+        "name": "Climatizar/ O Que Tinha Que Dar/ Idem (Ao vivo)",
+        "url": "https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bom Astral",
+          "url": "https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Climatizar/ O Que Tinha Que Dar/ Idem - Ao vivo",
+      "url": "https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr"
+    },
+    {
+      "album": {
+        "name": "Curto Circuito / Ponto Fraco / Amor De Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2pYHP2oOcMOaMm9suX34l6"
+      },
+      "artists": [
+        {
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293216,
+      "name": "Curto Circuito / Ponto Fraco / Amor De Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7dJp2ddguIzoNFAE2QWBUL"
+    },
+    {
+      "album": {
+        "name": "Sub\u00farbio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        },
+        {
+          "name": "Paulinho",
+          "url": "https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326561,
+      "name": "Deixa Alagar / S\u00f3 Depois / J\u00e1 Virou Rotina - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ"
+    },
+    {
+      "album": {
+        "name": "Dessa Vez / Ritmo Perfeito / Quero Te Encontrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7F0W38PzM4Xr9z8X8rTkCx"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Buchecha",
+          "url": "https://open.spotify.com/artist/1tTxuCABSKH8wBmE2Y7Odb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292218,
+      "name": "Dessa Vez / Ritmo Perfeito / Quero Te Encontrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2zyi1oJmfjwp8zbCcfJyCn"
+    },
+    {
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231283,
+      "name": "Dorme com Deus / Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
+    },
+    {
+      "album": {
+        "name": "Engano / Eu Tenho Muito Mais / Mina de F\u00e9 / Duas Paix\u00f5es",
+        "url": "https://open.spotify.com/album/4kiF7IMpJrG4rzMvrtKPbV"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Robinho",
+          "url": "https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp"
+        },
+        {
+          "name": "Chrigor",
+          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419231,
+      "name": "Engano / Eu Tenho Muito Mais / Mina de F\u00e9 / Duas Paix\u00f5es",
+      "url": "https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3"
+    },
+    {
+      "album": {
+        "name": "De F\u00e9rias Com Presen\u00e7a, Vol. 1",
+        "url": "https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326201,
+      "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
+    },
+    {
+      "album": {
+        "name": "Eu Nunca Amei Assim / Meu Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1xiALGFDoSujwJ100EHeFu"
+      },
+      "artists": [
+        {
+          "name": "Vitor Limma",
+          "url": "https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196396,
+      "name": "Eu Nunca Amei Assim / Meu Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6fnOsjeeEP77DxSBH59TZm"
+    },
+    {
+      "album": {
+        "name": "Pagode da Gica 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/747Fi97RClOnHDROoiRR3h"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572153,
+      "name": "Eu Sei de Cor / Bem Pior Que Eu / Caso Indefinido / Notifica\u00e7\u00e3o Preferida / Nem \u00c9 Bom Lembrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CgsWxP6AGNurPYyESiGN8"
+    },
+    {
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405154,
+      "name": "Eu Vacilei / Preciso Viver / Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oLdEjZm0x46ycfdlRPYuX"
+    },
+    {
+      "album": {
+        "name": "Rem\u00e9dio Amargo / Fala / Fulminante / Dependente - DVD Fases (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336122,
+      "name": "Fala / Fulminante / Dependente - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2"
+    },
+    {
+      "album": {
+        "name": "TDP20 - Nossa Hist\u00f3ria - EP4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300457,
+      "name": "Fato Consumado / J\u00e1 Virou Rotina / T\u00e1 Louco Hein - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EIzQ3F26YtTkvuZ9L5U52"
+    },
+    {
+      "album": {
+        "name": "Fato Consumado / Quem Muito Quer Nada Tem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5pvKDDsYNVadshky8QgXFZ"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 247078,
+      "name": "Fato Consumado / Quem Muito Quer Nada Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Gjg1gNghCaHMuiTT52Zzj"
+    },
+    {
+      "album": {
+        "name": "Fica / Vida Que Segue (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xq1jQHDLlCCRMJY6wsDKa"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255884,
+      "name": "Fica / Vida Que Segue - Ao Vivo",
+      "url": "https://open.spotify.com/track/0IPmfBhRrdt3KwNw8JT15R"
+    },
+    {
+      "album": {
+        "name": "Roda de Samba Tiee e Fala Comigo no Complexo Fora do Eixo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2bTSjpycK0HsuVZwHAcqqJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fala Comigo",
+          "url": "https://open.spotify.com/artist/12Crqy29kQcqbkELcZaEVq"
+        },
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595002,
+      "name": "Fortaleza / M\u00f4 / Fernando de Noronha / Acende o Celular / O Pai T\u00e1 On - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HxKNgDtFGJMd4BSGRNn9V"
+    },
+    {
+      "album": {
+        "name": "Pagod\u00e3o do Pamac\u00ea, Vol. 3",
+        "url": "https://open.spotify.com/album/6d39rZ3yO1fTNeZESHAh4R"
+      },
+      "artists": [
+        {
+          "name": "Pamac\u00ea",
+          "url": "https://open.spotify.com/artist/3g4B9ZEja7Gd4AJtthMz61"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 566778,
+      "name": "Grades do Cora\u00e7\u00e3o/Esqueci de Te Esquecer/ Igual a Voc\u00ea/Paci\u00eancia/Gra\u00e7a/ Sem Abuso/Supera",
+      "url": "https://open.spotify.com/track/55oozXwxo93VOCGI1YuRkF"
+    },
+    {
+      "album": {
+        "name": "Ilha da Felicidade / Madrugada / Onde Est\u00e1 (O Som da Rua)",
+        "url": "https://open.spotify.com/album/1B0bjDIuZfcVC8L4XnRHtx"
+      },
+      "artists": [
+        {
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+        },
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286271,
+      "name": "Ilha da Felicidade / Madrugada / Onde Est\u00e1 (O Som da Rua)",
+      "url": "https://open.spotify.com/track/7rJSwx2cUFC7NTpyVLnN09"
+    },
+    {
+      "album": {
+        "name": "Inigual\u00e1vel Paix\u00e3o / Pra Ser Minha Musa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0C6nYu2ouiXhjm1tFXq8og"
+      },
+      "artists": [
+        {
+          "name": "Vou Zuar",
+          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
+        },
+        {
+          "name": "Renato da Rocinha",
+          "url": "https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286396,
+      "name": "Inigual\u00e1vel Paix\u00e3o / Pra Ser Minha Musa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7rIzAG8RsiGHt6W0t1qRU6"
+    },
+    {
+      "album": {
+        "name": "Sub\u00farbio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291159,
+      "name": "Luz na Escurid\u00e3o / Adivinha / Fatalmente - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw"
+    },
+    {
+      "album": {
+        "name": "Ainda Bem Que \u00c9 Pagode (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/5UNh8ePd3qBocSxtwolCQ1"
+      },
+      "artists": [
+        {
+          "name": "Guga Nandes",
+          "url": "https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 239936,
+      "name": "Madrugada / Na Madrugada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4iO5B6PAmJMKSHHWwYb1TP"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 VVamo - EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w9CrDrne18DtlNmEBtYYq"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Andressa Hayalla",
+          "url": "https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml"
+        },
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Cinthia Ribeiro",
+          "url": "https://open.spotify.com/artist/3rVZKmpSf4WcJGc1Jzaa7b"
+        },
+        {
+          "name": "Gabi D'Paula",
+          "url": "https://open.spotify.com/artist/10Y44BMrAbtMBBeRIrhCCj"
+        },
+        {
+          "name": "Talitta",
+          "url": "https://open.spotify.com/artist/4XH4hV1skpoKQBte9CT6NW"
+        },
+        {
+          "name": "Ju Diniz",
+          "url": "https://open.spotify.com/artist/1NCCYvPcHYeEDvW3a64Ahr"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 274603,
+      "name": "Maliciosa / #Sextei / A Pagodeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eypkoR1OXiLpbZ59ZDWkQ"
+    },
+    {
+      "album": {
+        "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401025,
+      "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
+    },
+    {
+      "album": {
+        "name": "DVD Fases Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "Swing & Simpatia",
+          "url": "https://open.spotify.com/artist/07o97MiFEobUUwiIYcspmj"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299726,
+      "name": "Me Redimir / Preciso Desabafar / Felina - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe"
+    },
+    {
+      "album": {
+        "name": "Meu Jeito Moleque / S.O.S Paix\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gFpyj3gbMuOibXLUNkVa9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Envolv\u00eancia",
+          "url": "https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211451,
+      "name": "Meu Jeito Moleque / S.O.S Paix\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AKmZ7GOu4WJecD4TSTicI"
+    },
+    {
+      "album": {
+        "name": "Sub\u00farbio, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5XBQoMlbSi956F5MiEF1ar"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249808,
+      "name": "N\u00e3o Pedi Pra Me Apaixonar / S.O.S Paix\u00e3o / S\u00f3 De Olhar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1oaKVDCIe5k2JXVqcoehlD"
+    },
+    {
+      "album": {
+        "name": "Pagode do Adame Entre Amigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QnKMl7OAicnxWQh6qUyRY"
+      },
+      "artists": [
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264471,
+      "name": "N\u00e3o Tem Hora, Nem Lugar / Por Favor / Amor a Tr\u00eas - Ao Vivo",
+      "url": "https://open.spotify.com/track/3x1mtKBzPRU8tc8Ld6ujVV"
+    },
+    {
+      "album": {
+        "name": "Pra Lembrar, Beber e Cantar, Ep. 2",
+        "url": "https://open.spotify.com/album/3xpJoReW9bdHyU9uSg2kWK"
+      },
+      "artists": [
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395221,
+      "name": "Op\u00e7\u00f5es / Me Apaixonei pela Pessoa Errada / Sinais / Sobrenatural",
+      "url": "https://open.spotify.com/track/5aWiqE2DBa3IhzW74E8Dvy"
+    },
+    {
+      "album": {
+        "name": "Respeita Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1i3BOWNhLbF3v2Zk1YLiJP"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392302,
+      "name": "Papo Furado / Quero Mais / Hist\u00f3ria de Cinema / Amor Eterno",
+      "url": "https://open.spotify.com/track/2GfhSjgfkG601z4BLXnzNn"
+    },
+    {
+      "album": {
+        "name": "Para De Falar Tanta Besteira / Leite Condensado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221554,
+      "name": "Para De Falar Tanta Besteira / Leite Condensado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9"
+    },
+    {
+      "album": {
+        "name": "Rolezin Do Matheusinho (Ao Vivo / Vol. 2)",
+        "url": "https://open.spotify.com/album/1CBMT5KQIq9Sz5NUw6cDI7"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB"
+        },
+        {
+          "name": "Vou Zuar",
+          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276990,
+      "name": "Pela Vida Inteira / Preciso De Amor / Nuance - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PbAWFSP9A2s61f4aerHPq"
+    },
+    {
+      "album": {
+        "name": "Perfume / Sem Perceber / Lugares",
+        "url": "https://open.spotify.com/album/41z4uBj9buaIs1rvKJLpUZ"
+      },
+      "artists": [
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333699,
+      "name": "Perfume / Sem Perceber / Lugares",
+      "url": "https://open.spotify.com/track/19xCyaXBkWUkzn4vNIOVzH"
+    },
+    {
+      "album": {
+        "name": "Encontrin 2 - Parte 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7gleHQ8dWibosCKaBWYIJ3"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301685,
+      "name": "Ponto Fraco / Dividido / Sonhos e Planos - Sou Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M"
+    },
+    {
+      "album": {
+        "name": "Benza Em Brasa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397397,
+      "name": "Por Favor (O Que Fazer) / \u00c9 Natural / At\u00e9 Que Enfim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK"
+    },
+    {
+      "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395608,
+      "name": "Por T\u00e3o Pouco / Pagando Mal Com Mal / Faz Falta",
+      "url": "https://open.spotify.com/track/6UV2ISfKVLSam3ehPe8ej6"
+    },
+    {
+      "album": {
+        "name": "Roda de Samba do Pique Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AET67ZbtSAIMj3FwWvneM"
+      },
+      "artists": [
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        },
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289622,
+      "name": "Porrad\u00e3o / Eternamente Feliz / Dom de Sonhar / Supra Sumo do Amor / O Som do Tambor - Ao Vivo",
+      "url": "https://open.spotify.com/track/19fKKQIwCeNOEtyt4wNQsE"
+    },
+    {
+      "album": {
+        "name": "Diferent\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262765,
+      "name": "Porre / Trov\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dcErs8feFYweb9wTb2JSe"
+    },
+    {
+      "album": {
+        "name": "Ladr\u00e3o de Cora\u00e7\u00e3o, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/0SivEW9RNGz6yifXU4tvJ2"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302264,
+      "name": "Pot-Pourri: Fernando de Noronha / M\u00f4 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0F5c6zkojxAdk0X4qwot69"
+    },
+    {
+      "album": {
+        "name": "De Volta Pro Amanh\u00e3, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qzwgpW2dmXGDigu3mVbUv"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364831,
+      "name": "Pot-Pourri: Me Olha Nos Olhos / Futuro Prometido / Ainda Gosto de Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/07b6vu21xExj1m3DhqNP6o"
+    },
+    {
+      "album": {
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382050,
+      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
+      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
+    },
+    {
+      "album": {
+        "name": "Pout-Pourri: Eu Vacilei / A Gente Pega Fogo",
+        "url": "https://open.spotify.com/album/28F8x0ymWRUXl0Vcr7Z6Nc"
+      },
+      "artists": [
+        {
+          "name": "ESTD",
+          "url": "https://open.spotify.com/artist/7ub7UAJ0JTRQvRZDgVUvhM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196416,
+      "name": "Pout-Pourri: Eu Vacilei / A Gente Pega Fogo",
+      "url": "https://open.spotify.com/track/2lLvMPadTGcmYdOV4W3wj3"
+    },
+    {
+      "album": {
+        "name": "Pra N\u00e3o Dar Bandeira / Imposs\u00edvel Te Esquecer / Pensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1JqTNwM2AUW6ZlRLcX1hFN"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        },
+        {
+          "name": "Gustavo Lins",
+          "url": "https://open.spotify.com/artist/3BjwDUAFEmVPIoii9RI4kh"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294395,
+      "name": "Pra N\u00e3o Dar Bandeira / Imposs\u00edvel Te Esquecer / Pensa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5k5M3bCvS9I60G96PZgmoA"
+    },
+    {
+      "album": {
+        "name": "Pra Ser Feliz / Joguei a Toalha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pXdJyT1hbXp71lN0gsUtJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sem Abuso",
+          "url": "https://open.spotify.com/artist/0aUgRcBWIcYrBZv1tScUI3"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232557,
+      "name": "Pra Ser Feliz / Joguei a Toalha - Ao Vivo",
+      "url": "https://open.spotify.com/track/6VnNCf7lFTaEnjcxHOu4dS"
+    },
+    {
+      "album": {
+        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
+      },
+      "artists": [
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320199,
+      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+    },
+    {
+      "album": {
+        "name": "Quando Te Encontrei / Cigana / Cheia de Manias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1q2sGhdh3GTeCq5KWn38Lh"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311476,
+      "name": "Quando Te Encontrei / Cigana / Cheia de Manias - Ao Vivo",
+      "url": "https://open.spotify.com/track/2S2gZlCWZwJVhYotyrB2h7"
+    },
+    {
+      "album": {
+        "name": "Respeita Minha Hist\u00f3ria 2",
+        "url": "https://open.spotify.com/album/5nEWrZ8zyD5omIMxwhIFPZ"
+      },
+      "artists": [
+        {
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "Pique Novo",
+          "url": "https://open.spotify.com/artist/6PtYnpdPPbMSAG8sxFs8uz"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274313,
+      "name": "Quando \u00c9 Amor / Temporal / Meu Jeito de Amar",
+      "url": "https://open.spotify.com/track/49cQG4KjGXlgN5ICgyrdaH"
+    },
+    {
+      "album": {
+        "name": "Mania do Brasil (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/4x6saOWa3jIl2sN6hOchu5"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245812,
+      "name": "Que Situa\u00e7\u00e3o / Sem Abuso / Cora\u00e7\u00e3o Radiante - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VCAwBLGck4NWFPmotK85V"
+    },
+    {
+      "album": {
+        "name": "Na Pagodeira, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph"
+      },
+      "artists": [
+        {
+          "name": "Billy SP",
+          "url": "https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ"
+        },
+        {
+          "name": "Cleverson Luiz",
+          "url": "https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480234,
+      "name": "Quem / Deixa Rolar / Homem Perfeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH"
+    },
+    {
+      "album": {
+        "name": "Confia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300819,
+      "name": "Reca\u00edda / Vai Me Dando Corda / Adorei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0nk5xq5UgNNPFpq9LmDuiC"
+    },
+    {
+      "album": {
+        "name": "Reinventar / Alucinado / Dorme Com Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7amg22TylDWw2fC8XRAJIP"
+      },
+      "artists": [
+        {
+          "name": "Vitor Limma",
+          "url": "https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1"
+        },
+        {
+          "name": "Pata de Urso",
+          "url": "https://open.spotify.com/artist/3zZuSjl65xxjdtYUMTvbxA"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334636,
+      "name": "Reinventar / Alucinado / Dorme Com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ldNWf81VCAO68UIGA3AiU"
+    },
+    {
+      "album": {
+        "name": "Reinventar / Trai\u00e7\u00e3o / Sorria / S\u00f3 Pro Meu Prazer / Sem Radar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0d3V3vLN7mPs0xKTrwzbf8"
+      },
+      "artists": [
+        {
+          "name": "Pamac\u00ea",
+          "url": "https://open.spotify.com/artist/3g4B9ZEja7Gd4AJtthMz61"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601187,
+      "name": "Reinventar / Trai\u00e7\u00e3o / Sorria / S\u00f3 Pro Meu Prazer / Sem Radar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j6u9MYCgQmgGFqDKc4N6o"
+    },
+    {
+      "album": {
+        "name": "Resumo De Felicidade / Meu Querubim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n2ezZwYtZESccOpwEe6xu"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6"
+        },
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224926,
+      "name": "Resumo De Felicidade / Meu Querubim - Ao Vivo",
+      "url": "https://open.spotify.com/track/6IkBVdAk5rx7G148af6Cev"
+    },
+    {
+      "album": {
+        "name": "Live Mixturadin",
+        "url": "https://open.spotify.com/album/2KrDjAWQ4FR4M2QKwAhOCW"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300496,
+      "name": "Saudade de N\u00f3s / Coisas do Amor (F\u00e3 de Carteirinha) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0z2Avp7PJ31q4Cvp7GyH3R"
+    },
+    {
+      "album": {
+        "name": "Na Pagodeira, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4p9tR7nV4IFwayMrw5ZStz"
+      },
+      "artists": [
+        {
+          "name": "Billy SP",
+          "url": "https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419636,
+      "name": "Separa\u00e7\u00e3o / Meu Amor / S\u00fabita Paix\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1jJ4EDNRJtUf5nZn1KM4MD"
+    },
+    {
+      "album": {
+        "name": "Ontem, Hoje E Sempre \u2013 EP 2",
+        "url": "https://open.spotify.com/album/5ZO3TBLkM2lzOcxmm5MkNr"
+      },
+      "artists": [
+        {
+          "name": "Bokaloka",
+          "url": "https://open.spotify.com/artist/6XgJ4LQHTOtveWKH5V7X56"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249617,
+      "name": "Shortinho Saint-Tropez / Pare\u00e7o Um Menino - Medley",
+      "url": "https://open.spotify.com/track/0oqDk1YPvFcvJTLAFmoTHI"
+    },
+    {
+      "album": {
+        "name": "Sinto Sua Falta / Inseguran\u00e7a / Eu Nunca Amei Assim",
+        "url": "https://open.spotify.com/album/5zvgnjWB1IHjW7ueREQ2a1"
+      },
+      "artists": [
+        {
+          "name": "Vou Zuar",
+          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357868,
+      "name": "Sinto Sua Falta / Inseguran\u00e7a / Eu Nunca Amei Assim",
+      "url": "https://open.spotify.com/track/2YCx4I27GMSixz9IEwGqGP"
+    },
+    {
+      "album": {
+        "name": "Trajet\u00f3ria, Vol. 2",
+        "url": "https://open.spotify.com/album/2eCLz8mUNxl4V6V4xN2fHv"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400019,
+      "name": "Sobrenome / Deixa Eu Te Tocar / 12 de Junho",
+      "url": "https://open.spotify.com/track/2pHcmIrQPpCFvnmw2urBeW"
+    },
+    {
+      "album": {
+        "name": "Sos Paix\u00e3o / Ex Namorada / Melhor Amiga da Minha Namorada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ior50Dh3GyG3zXbyDhryV"
+      },
+      "artists": [
+        {
+          "name": "Robinho",
+          "url": "https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271835,
+      "name": "Sos Paix\u00e3o / Ex Namorada / Melhor Amiga da Minha Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0r6UTnQUk4cbvPDnHuXphH"
+    },
+    {
+      "album": {
+        "name": "Sou o Cara pra Voc\u00ea / Dividido / Tristinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3oXWzU89GrDpOaXJOkNQTF"
+      },
+      "artists": [
+        {
+          "name": "Vitor Limma",
+          "url": "https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349444,
+      "name": "Sou o Cara pra Voc\u00ea / Dividido / Tristinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Cm7BPymAPBOzKKXRoRHN4"
+    },
+    {
+      "album": {
+        "name": "Belo In Concert (Espa\u00e7o das Am\u00e9ricas), Ep. 03 [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0rLygQUqfnV7fWV4htfrbb"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360815,
+      "name": "Supera / Luz das Estrelas / Ainda \u00c9 Cedo pra Dizer Bye Bye / Desafio - Ao Vivo",
+      "url": "https://open.spotify.com/track/00kVj18BmiLmiB8PUJWZ4G"
+    },
+    {
+      "album": {
+        "name": "Trai\u00e7\u00e3o / Ref\u00e9m / Me Assume ou Me Esquece (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0mjy6Lxi1kfgRBolN7xDlk"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317980,
+      "name": "Trai\u00e7\u00e3o / Ref\u00e9m / Me Assume ou Me Esquece - Ao Vivo",
+      "url": "https://open.spotify.com/track/2l0HFGslPbDoyXGSVEn8sB"
+    },
+    {
+      "album": {
+        "name": "Pagodin do Vou Zuar 2.1",
+        "url": "https://open.spotify.com/album/6mNDUA0iE42NNDrwS8gOA2"
+      },
+      "artists": [
+        {
+          "name": "Vou Zuar",
+          "url": "https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD"
+        },
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483433,
+      "name": "Tu Mandas no Meu Cora\u00e7\u00e3o / Me Espera / Perfume / Temporal",
+      "url": "https://open.spotify.com/track/3dCaOHosieoKCWqwURJGp6"
+    },
+    {
+      "album": {
+        "name": "Vai Que Cola / Faz Falta / Me Diz (Por Favor) (feat. Vitinho) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3OHIhtEem0Eblrz7J52jbu"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300845,
+      "name": "Vai Que Cola / Faz Falta / Me Diz (Por Favor) (feat. Vitinho) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2NPWthQC6HGkCUPXEk3bFN"
+    },
+    {
+      "album": {
+        "name": "Jogando em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324661,
+      "name": "Vento dos Areais / Apelo / Pura Solid\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dVsSZMN7GRAC3xsWStJuB"
+    },
+    {
+      "album": {
+        "name": "Pixote House Music, EP 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5cSMxRT91NZn4o8BX1RG0h"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259815,
+      "name": "Voc\u00ea Pode / Voc\u00ea N\u00e3o Sabe Voltar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7BHsyBZDLiAzZ9rMCfY9I4"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Diferente / Preciso Te Amar",
+        "url": "https://open.spotify.com/album/41r0Pr6THbzh7NTqFhR63Q"
+      },
+      "artists": [
+        {
+          "name": "Cantor Jon",
+          "url": "https://open.spotify.com/artist/3mF0QHt4NBaji3FVAEGjdT"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173518,
+      "name": "\u00c9 Diferente / Preciso Te Amar",
+      "url": "https://open.spotify.com/track/3qQfwIth3DCwreZsze7zyz"
+    },
+    {
+      "album": {
+        "name": "Mensageiro do Amor, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7jVb3Lcaakq6q2P8OwqlZx"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287031,
+      "name": "\u00c9 no Pagode / J\u00e1 Que T\u00e1 Gostoso Deixa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rQUkdMGz5kvc9l9zt2bdb"
+    },
+    {
+      "album": {
+        "name": "Encontrin 2 - Parte 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5RlOWF7u2FMWqMBmwCDnca"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250525,
+      "name": "\u00c9 tarde Demais / Essa Tal Liberdade / Inara\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yt0zPxUhA5BGsbr2L9A3G"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXc1j0125Pa5C"
 }

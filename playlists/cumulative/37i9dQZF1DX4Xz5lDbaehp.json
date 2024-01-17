@@ -730,7 +730,7 @@
     {
       "album": {
         "name": "Death of a Cheerleader",
-        "url": "https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4"
+        "url": "https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3"
       },
       "artists": [
         {
@@ -741,6 +741,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 189222,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/0rwKOT4X35qJuA8Az5jJrh"
+    },
+    {
+      "album": {
+        "name": "Death of a Cheerleader",
+        "url": "https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 189222,
       "name": "Crying",
       "url": "https://open.spotify.com/track/5ZVlnixH0HeB6igKEkoO9f"

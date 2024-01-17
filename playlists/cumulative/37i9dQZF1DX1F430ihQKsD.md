@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Cédrik St\-Onge
+> La scène musicale montréalaise au premier plan\. Photo: Born At Midnite
 
-411 songs - 23 hr 46 min
+413 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 | 2023-07-07 |  |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-05-27 |
-| [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 |  |
+| [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 | 2024-01-13 |
 | [Alison](https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2) | [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn) | [The Mouth of Monte Cristo](https://open.spotify.com/album/5Kakth9mCCQob7NRrzSUGg) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [All Fucking Weekend](https://open.spotify.com/track/2S6Vm1e6C5r4yOeLk8sZAt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 3:42 | 2022-04-18 | 2022-05-28 |
 | [All Fucking Weekend](https://open.spotify.com/track/6qfwBFEZnmakt7GGXdsYzb) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [All Fucking Weekend](https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio) | 3:42 | 2022-04-15 | 2022-04-19 |
@@ -80,6 +80,7 @@
 | [Citadelle](https://open.spotify.com/track/4j4dIhycDWkN85AiuaiUFT) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 4:11 | 2023-09-08 | 2023-09-30 |
 | [CLOSER TO MY DREAMS](https://open.spotify.com/track/5Do0RgImAao120hKTxnhW8) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [JAYLIEN](https://open.spotify.com/artist/6t3YMGSTDtFDBUFfUHsJS0) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:29 | 2022-03-25 | 2022-09-24 |
 | [CNQDL](https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [CNQDL](https://open.spotify.com/album/7Cd3ZKbhCXofx7GwjvHWei) | 3:40 | 2022-05-06 | 2023-03-11 |
+| [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 | 2024-01-12 |  |
 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 | 2022-05-13 | 2023-05-20 |
 | [Cold](https://open.spotify.com/track/181IvC53BYaus1aK7cZ3ID) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/78KDFkGu8CF2E4imyMGCnY) | 2:59 | 2022-03-25 | 2022-07-29 |
 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 | 2022-10-28 | 2022-11-13 |
@@ -256,7 +257,7 @@
 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 | 2022-06-03 | 2022-07-02 |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-29 | 2022-08-27 |
 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 | 2022-03-25 | 2022-07-23 |
-| [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 |  |
+| [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 | 2024-01-06 |
 | [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2023-04-21 |  |
 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 | 2022-03-25 | 2022-04-16 |
 | [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-09-15 | 2023-10-28 |
@@ -406,6 +407,7 @@
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2022-03-25 | 2022-05-28 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |
 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 | 2023-01-27 | 2023-11-18 |
+| [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-01-05 |  |
 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 | 2022-03-25 | 2023-02-18 |
 | [Without You](https://open.spotify.com/track/2XfmOPlZzdmSqw8IkkQ5e9) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Without You](https://open.spotify.com/album/2jCR4qFSK6U0tgDQP88CFK) | 2:54 | 2023-09-29 |  |
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2022-09-30 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > SHINee's back!
 
-129 songs - 7 hr 33 min
+130 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Show Me](https://open.spotify.com/track/2citvEGmOgIoGl6Jend3cU) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:06 | 2021-12-29 |  |
 | [So Amazing \- Special Track](https://open.spotify.com/track/01IsDqqjCIo0VXdgHLwkFX) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:37 | 2023-06-26 | 2023-07-12 |
 | [Stand By Me \- Live](https://open.spotify.com/track/2loiab7rLHiw0hbWiIE2SC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SHINee World \(The 1st Asia Tour Album\)](https://open.spotify.com/album/54tsBVlzypjHHR4tRQYJSz) | 4:01 | 2021-12-29 |  |
+| [Stay for a night](https://open.spotify.com/track/5rzgBuzs1sYUm4FulagBnu) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Stay for a night](https://open.spotify.com/album/6jbFp6nxsfb6nqxWcShE1y) | 3:05 | 2024-01-16 |  |
 | [SUPERSTAR](https://open.spotify.com/track/7jiV2MnieeHtnYqTrXmQHD) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SUPERSTAR](https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S) | 2:54 | 2021-12-29 |  |
 | [Sweet Misery](https://open.spotify.com/track/3n8FLiCA7kzqfWdRk450VJ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [HARD \- The 8th Album](https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E) | 3:05 | 2023-07-11 |  |
 | [Tell Me What To Do](https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 and 1 \- The 5th Album Repackage](https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc) | 4:06 | 2021-12-29 |  |

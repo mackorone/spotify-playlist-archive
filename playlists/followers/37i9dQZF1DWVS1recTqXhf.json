@@ -1,105 +1,1865 @@
 {
-  "2023-09-21": 531527,
-  "2023-09-22": 531740,
-  "2023-09-23": 531881,
-  "2023-09-24": 532010,
-  "2023-09-25": 532326,
-  "2023-09-26": 532606,
-  "2023-09-27": 532763,
-  "2023-09-28": 532956,
-  "2023-09-29": 533127,
-  "2023-09-30": 533295,
-  "2023-10-01": 533441,
-  "2023-10-02": 533607,
-  "2023-10-03": 533850,
-  "2023-10-04": 534044,
-  "2023-10-05": 534230,
-  "2023-10-06": 534429,
-  "2023-10-07": 534592,
-  "2023-10-08": 534745,
-  "2023-10-09": 534926,
-  "2023-10-10": 535134,
-  "2023-10-11": 535522,
-  "2023-10-12": 535522,
-  "2023-10-13": 535707,
-  "2023-10-14": 535734,
-  "2023-10-15": 535856,
-  "2023-10-16": 536057,
-  "2023-10-17": 536270,
-  "2023-10-18": 536472,
-  "2023-10-19": 536679,
-  "2023-10-20": 536853,
-  "2023-10-21": 536977,
-  "2023-10-22": 537123,
-  "2023-10-23": 537326,
-  "2023-10-24": 537584,
-  "2023-10-25": 537816,
-  "2023-10-26": 538027,
-  "2023-10-27": 538246,
-  "2023-10-28": 538415,
-  "2023-10-29": 538566,
-  "2023-10-30": 539048,
-  "2023-10-31": 539048,
-  "2023-11-01": 539226,
-  "2023-11-02": 539461,
-  "2023-11-03": 539686,
-  "2023-11-04": 539852,
-  "2023-11-05": 540038,
-  "2023-11-06": 540263,
-  "2023-11-07": 540512,
-  "2023-11-08": 540753,
-  "2023-11-09": 540982,
-  "2023-11-10": 541189,
-  "2023-11-11": 541383,
-  "2023-11-12": 541539,
-  "2023-11-13": 541714,
-  "2023-11-14": 541936,
-  "2023-11-15": 541936,
-  "2023-11-16": 542397,
-  "2023-11-17": 542764,
-  "2023-11-18": 542764,
-  "2023-11-19": 542865,
-  "2023-11-20": 543009,
-  "2023-11-21": 543189,
-  "2023-11-22": 543355,
-  "2023-11-23": 543511,
-  "2023-11-24": 543661,
-  "2023-11-25": 543749,
-  "2023-11-26": 543854,
-  "2023-11-27": 544024,
-  "2023-11-28": 544209,
-  "2023-11-29": 544550,
-  "2023-11-30": 544550,
-  "2023-12-01": 544674,
-  "2023-12-02": 544821,
-  "2023-12-03": 544921,
-  "2023-12-04": 545037,
-  "2023-12-05": 545203,
-  "2023-12-06": 545396,
-  "2023-12-07": 545577,
-  "2023-12-08": 545708,
-  "2023-12-09": 545845,
-  "2023-12-10": 545954,
-  "2023-12-11": 546128,
-  "2023-12-12": 546345,
-  "2023-12-13": 546564,
-  "2023-12-14": 546810,
-  "2023-12-15": 546934,
-  "2023-12-16": 547082,
-  "2023-12-17": 547229,
-  "2023-12-18": 547392,
-  "2023-12-19": 547582,
-  "2023-12-20": 547760,
-  "2023-12-21": 547923,
-  "2023-12-22": 548061,
-  "2023-12-23": 548212,
-  "2023-12-24": 548347,
-  "2023-12-25": 548467,
-  "2023-12-26": 548582,
-  "2023-12-27": 548746,
-  "2023-12-30": 549305,
-  "2023-12-31": 549506,
-  "2024-01-01": 549640,
-  "2024-01-02": 549931,
-  "2024-01-03": 550318
+  "2024-01-17": 553394,
+  "date_first_scraped": "2023-09-21",
+  "description": "Guided meditations for a variety of needs.",
+  "name": "Guided Meditation",
+  "tracks": [
+    {
+      "album": {
+        "name": "Guided Meditations for Deep Sleep",
+        "url": "https://open.spotify.com/album/1g7mADMaeo7LhAU8apYhg8"
+      },
+      "artists": [
+        {
+          "name": "Guided Meditation",
+          "url": "https://open.spotify.com/artist/5lWKhMEB1HAYGo8i3AndCm"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "5 Minute Guided Meditation for Deep Sleep",
+      "url": "https://open.spotify.com/track/37dsjUA67eiuIxhyOrFQcm"
+    },
+    {
+      "album": {
+        "name": "5 Minute Guided Meditations",
+        "url": "https://open.spotify.com/album/25cQ9rlSnGdc5Ek7I8JsVg"
+      },
+      "artists": [
+        {
+          "name": "Meditation Family",
+          "url": "https://open.spotify.com/artist/7gUWbtZiWcLUxuhIqGrd2r"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399023,
+      "name": "5 Minute Guided Morning Meditation (Spiritual Morning)",
+      "url": "https://open.spotify.com/track/5jV01YQUUOQo9hWjKOOz0l"
+    },
+    {
+      "album": {
+        "name": "5 Minute Morning Meditation",
+        "url": "https://open.spotify.com/album/5b6Bcgxm2bYHl9PtHJEDMu"
+      },
+      "artists": [
+        {
+          "name": "Serenity Symphony",
+          "url": "https://open.spotify.com/artist/4uPsbe0BKt1O8ZxJUyly8z"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298800,
+      "name": "5 Minute Morning Meditation",
+      "url": "https://open.spotify.com/track/5BORc1Unb7pxS89vM1AHOS"
+    },
+    {
+      "album": {
+        "name": "Heart Frequencies",
+        "url": "https://open.spotify.com/album/5zySMArcWIzOOklmWyoF5o"
+      },
+      "artists": [
+        {
+          "name": "A Space Collective",
+          "url": "https://open.spotify.com/artist/4A31qtaeXzTd9oQy1o5Msg"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 939690,
+      "name": "A Centered Heart",
+      "url": "https://open.spotify.com/track/5ZEp0FJoApmDwNfegtM4Jk"
+    },
+    {
+      "album": {
+        "name": "Soul of Healing Affirmations",
+        "url": "https://open.spotify.com/album/2z4A7jYYtKSk1Dceafkip3"
+      },
+      "artists": [
+        {
+          "name": "Deepak Chopra",
+          "url": "https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6"
+        },
+        {
+          "name": "Adam Plack",
+          "url": "https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/0FsaEAmaYrm6Pxwg92be7e"
+    },
+    {
+      "album": {
+        "name": "Relax and Breathe, Vol. 2",
+        "url": "https://open.spotify.com/album/3N4Nl8ETa1ftKAVRd2uA4m"
+      },
+      "artists": [
+        {
+          "name": "Kate Harding",
+          "url": "https://open.spotify.com/artist/14JxP2DWfGKgBB9LE6xfob"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67746,
+      "name": "Anytime, Anywhere",
+      "url": "https://open.spotify.com/track/5iw3xnWclMJW4VJdyAweRH"
+    },
+    {
+      "album": {
+        "name": "Balancing Your Chakras",
+        "url": "https://open.spotify.com/album/07AJPYNzK3IhG1eGKwKQ85"
+      },
+      "artists": [
+        {
+          "name": "Meditune",
+          "url": "https://open.spotify.com/artist/3EtxE98J0a2CrOycun6SpQ"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Balancing Your Chakras",
+      "url": "https://open.spotify.com/track/7INHZwo7Lu1z2zSningjH9"
+    },
+    {
+      "album": {
+        "name": "Begin Your Day (Guided Morning Meditation)",
+        "url": "https://open.spotify.com/album/4MojRRGnPxRh4RqiHqdaiI"
+      },
+      "artists": [
+        {
+          "name": "Kristina Lindsey",
+          "url": "https://open.spotify.com/artist/529EkfijubAfQkj70B0e2N"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483508,
+      "name": "Begin Your Day (Guided Morning Meditation)",
+      "url": "https://open.spotify.com/track/29DJktpNetkgz7oJW9Gp0U"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations for Calming the Mind (with Music)",
+        "url": "https://open.spotify.com/album/64ipVNXPNfNrFDJFFYKUKX"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592000,
+      "name": "Beginner Introductory Guided Breathing Meditation (with Music)",
+      "url": "https://open.spotify.com/track/3kduhfwr6cZaZcJqUVebPp"
+    },
+    {
+      "album": {
+        "name": "Meditation Workshop",
+        "url": "https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4"
+      },
+      "artists": [
+        {
+          "name": "Philip Permutt",
+          "url": "https://open.spotify.com/artist/46HUBq8j4vz5rvVYjOGt8i"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570453,
+      "name": "Benefits of Meditation",
+      "url": "https://open.spotify.com/track/0MBVT01gL93pgaxVQUr3lH"
+    },
+    {
+      "album": {
+        "name": "Embracing the Body That Is - A guide to loving Yourself",
+        "url": "https://open.spotify.com/album/4hkAv7jQkalwKJcJmb27PA"
+      },
+      "artists": [
+        {
+          "name": "Sunny Dawn Johnston",
+          "url": "https://open.spotify.com/artist/0qQIB2R5iUVqGnbOW3saf5"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325986,
+      "name": "Body Image Affirmations",
+      "url": "https://open.spotify.com/track/5iIVSuleoxnWuU2uBsG7mf"
+    },
+    {
+      "album": {
+        "name": "Mindfulness Meditation and Stress Reduction for Beginners: The Garden of NOW (Audio CD)",
+        "url": "https://open.spotify.com/album/4y474ve7wvRhi7RP5Jr54k"
+      },
+      "artists": [
+        {
+          "name": "Derek Turesky",
+          "url": "https://open.spotify.com/artist/1FB0Zrw29XdrVIjq59gKWh"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1013970,
+      "name": "Body Scan",
+      "url": "https://open.spotify.com/track/3DOkD6eRjeX22pYW00ciYy"
+    },
+    {
+      "album": {
+        "name": "Body Scan",
+        "url": "https://open.spotify.com/album/1A8AJ8tu3F3qPXDwKEMVIi"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 504000,
+      "name": "Body Scan (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/43XY3SzRURlJEdqOpNZrlI"
+    },
+    {
+      "album": {
+        "name": "Inner Wisdom",
+        "url": "https://open.spotify.com/album/77XxGmJni54NviEx5Gs953"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 504000,
+      "name": "Body Scan (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/6wBwa8IaJjn9Yqlib6uQnr"
+    },
+    {
+      "album": {
+        "name": "Growing Mindfulness: Guided Meditations",
+        "url": "https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 976533,
+      "name": "Body Scan for Relaxation",
+      "url": "https://open.spotify.com/track/7DtlWpQFHLKSfyy3mKr8Sg"
+    },
+    {
+      "album": {
+        "name": "Guided Sleep Meditation",
+        "url": "https://open.spotify.com/album/3KxmwidmnvhpP6ioEbfWAy"
+      },
+      "artists": [
+        {
+          "name": "Sah D\u2019Simone",
+          "url": "https://open.spotify.com/artist/22voaG7ISWLCo2nF7JT5jH"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144936,
+      "name": "Body Scan I",
+      "url": "https://open.spotify.com/track/4XCnG1OFusCUNn9YkngprA"
+    },
+    {
+      "album": {
+        "name": "Meditation Workshop",
+        "url": "https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4"
+      },
+      "artists": [
+        {
+          "name": "Philip Permutt",
+          "url": "https://open.spotify.com/artist/46HUBq8j4vz5rvVYjOGt8i"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513960,
+      "name": "Breathe Meditation",
+      "url": "https://open.spotify.com/track/4xDLTJgQAuYdactBjYukl1"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations for Calming the Mind (with Music)",
+        "url": "https://open.spotify.com/album/64ipVNXPNfNrFDJFFYKUKX"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Breathing into the Body Guided Sleep Meditation (with Music)",
+      "url": "https://open.spotify.com/track/6kk91yMWvSOGnlS9T1T5nU"
+    },
+    {
+      "album": {
+        "name": "Mindfulness Meditations for Tranquility and Insight",
+        "url": "https://open.spotify.com/album/5I0h6smX9qKeBvO4GjL7wt"
+      },
+      "artists": [
+        {
+          "name": "Guided Meditation With Dr. Miles Neale",
+          "url": "https://open.spotify.com/artist/2ayhMBc10ml9bI8X35wX1Y"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434303,
+      "name": "Brief Mindfulness of Breathing",
+      "url": "https://open.spotify.com/track/4Esex0laFVPY2WxYbrdRl0"
+    },
+    {
+      "album": {
+        "name": "Binaural Deep Sleep Hypnosis",
+        "url": "https://open.spotify.com/album/0xs7b9Sh97J7Ae0YOyu8gS"
+      },
+      "artists": [
+        {
+          "name": "Glenn Harrold",
+          "url": "https://open.spotify.com/artist/2Yko0hxpnv3Nexh06aJgQf"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301725,
+      "name": "Chapter 1 - Binaural Deep Sleep Hypnosis",
+      "url": "https://open.spotify.com/track/1npHiUNIkmNkAbMAPg5EvC"
+    },
+    {
+      "album": {
+        "name": "Growing Mindfulness: Guided Meditations",
+        "url": "https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 645613,
+      "name": "Creating Space Meditation",
+      "url": "https://open.spotify.com/track/7pMx2LoFWKGcPfd1EPDOdK"
+    },
+    {
+      "album": {
+        "name": "De-stress For Deep Rest Guided Sleep Meditation",
+        "url": "https://open.spotify.com/album/2TUj24FZPbXNOlf8AeVuND"
+      },
+      "artists": [
+        {
+          "name": "Mindful Mental Meditations",
+          "url": "https://open.spotify.com/artist/4NU4cgUddV7hJ2Rq4MNWMC"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356500,
+      "name": "De-stress For Deep Rest Guided Sleep Meditation",
+      "url": "https://open.spotify.com/track/507qB43H4LsS3V9gZzTbjr"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep: Guided Meditation",
+        "url": "https://open.spotify.com/album/3FFTeK8TyVFa0oo7h1eFTg"
+      },
+      "artists": [
+        {
+          "name": "Mona Anand",
+          "url": "https://open.spotify.com/artist/4ZE0tfLSWuvX8VhVFHiYaT"
+        },
+        {
+          "name": "Into the Bliss",
+          "url": "https://open.spotify.com/artist/7s9mBl0PtKL63sKkhAtEdx"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331361,
+      "name": "Deep Sleep: Guided Meditation - Part 2",
+      "url": "https://open.spotify.com/track/0TDdxllPPSTDrfS3AkCJPf"
+    },
+    {
+      "album": {
+        "name": "Serenity Slumber: Guided Body Scan Meditation for Deep Sleep",
+        "url": "https://open.spotify.com/album/6AyZZ64fA5O9Wl84vtRIcg"
+      },
+      "artists": [
+        {
+          "name": "Sacred Body Scans",
+          "url": "https://open.spotify.com/artist/0mpuyeMeBxHhE1JTGLWyic"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124409,
+      "name": "Deepening Relaxation with Guided Sleep Visualization",
+      "url": "https://open.spotify.com/track/0gMTqpdHED35G1REqaPUK5"
+    },
+    {
+      "album": {
+        "name": "Growing Mindfulness: Guided Meditations",
+        "url": "https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1017506,
+      "name": "Deeply Letting Go Meditation",
+      "url": "https://open.spotify.com/track/5aQW72KlFdLt9Nwya9BnyJ"
+    },
+    {
+      "album": {
+        "name": "Fall Asleep in 10 Minutes: Guided Meditation for Sleep",
+        "url": "https://open.spotify.com/album/3Dd4WuCF8HvasKUWfoOlkw"
+      },
+      "artists": [
+        {
+          "name": "The Honest Guys",
+          "url": "https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595661,
+      "name": "Fall Asleep in 10 Minutes: Guided Meditation for Sleep",
+      "url": "https://open.spotify.com/track/2LuOb3ZBWt05ECgQgdfUOc"
+    },
+    {
+      "album": {
+        "name": "Soul of Healing Affirmations",
+        "url": "https://open.spotify.com/album/2z4A7jYYtKSk1Dceafkip3"
+      },
+      "artists": [
+        {
+          "name": "Deepak Chopra",
+          "url": "https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6"
+        },
+        {
+          "name": "Adam Plack",
+          "url": "https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117360,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/3z3MwJyOz8gfYJP3juPie1"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5ScFsECiROA6op1LT2lYkD"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Gratitude (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/1WhSiIdd2NR3RvWnO3mggO"
+    },
+    {
+      "album": {
+        "name": "Grounded - Guided Meditation",
+        "url": "https://open.spotify.com/album/3ghWlIj8OyoYPVj7af8KNc"
+      },
+      "artists": [
+        {
+          "name": "Eva Duarte",
+          "url": "https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364000,
+      "name": "Grounded - Guided Meditation",
+      "url": "https://open.spotify.com/track/7J6goi1udgaBa1nVAoeCoH"
+    },
+    {
+      "album": {
+        "name": "Mindful Guided Meditations",
+        "url": "https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 630000,
+      "name": "Guided Meditation (Full Body Decompression)",
+      "url": "https://open.spotify.com/track/5L3GvmG24jIZQh20jAGA37"
+    },
+    {
+      "album": {
+        "name": "Mindful Guided Meditations",
+        "url": "https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 630000,
+      "name": "Guided Meditation (Grassy Park Visualization)",
+      "url": "https://open.spotify.com/track/1EbTUSJ34UQzoDgQ2jGpok"
+    },
+    {
+      "album": {
+        "name": "Mindful Guided Meditations",
+        "url": "https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 630000,
+      "name": "Guided Meditation (Mindful Breathing)",
+      "url": "https://open.spotify.com/track/1m0ZmVzbIzp6hGS0az2pXG"
+    },
+    {
+      "album": {
+        "name": "Mindful Guided Meditations",
+        "url": "https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 630000,
+      "name": "Guided Meditation (Mountain Forest Visualization)",
+      "url": "https://open.spotify.com/track/3LfR0qWdCmQ6sqtKUTLUNl"
+    },
+    {
+      "album": {
+        "name": "Mindful Guided Meditations",
+        "url": "https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 634000,
+      "name": "Guided Meditation (Ocean Visualization)",
+      "url": "https://open.spotify.com/track/2mNeAEDvyBVqMJGHOaQ9pk"
+    },
+    {
+      "album": {
+        "name": "Spiritual Enlightenment",
+        "url": "https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287510,
+      "name": "Guided Meditation - Peace And Clarity (Hilltop)",
+      "url": "https://open.spotify.com/track/1ghWdElfluoIJKjfFazQ5G"
+    },
+    {
+      "album": {
+        "name": "Spiritual Enlightenment",
+        "url": "https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249579,
+      "name": "Guided Meditation - Presence (Forest)",
+      "url": "https://open.spotify.com/track/0AP0akzb0mORkCYfnShmbL"
+    },
+    {
+      "album": {
+        "name": "Spiritual Enlightenment",
+        "url": "https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58"
+      },
+      "artists": [
+        {
+          "name": "Melatonement",
+          "url": "https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Guided Meditation - Stress Relief (Beach)",
+      "url": "https://open.spotify.com/track/5t7Kx1DdVEHTZiBykwprjY"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation for Anxiety - Relaxing Music and Daily Meditation Guide for Mindfulness Exercises & Deep Breathing Techniques, Stress Relief and Anxiety",
+        "url": "https://open.spotify.com/album/65nBmBvbLnDlUG2uYcu49m"
+      },
+      "artists": [
+        {
+          "name": "Guided Meditation Maestro",
+          "url": "https://open.spotify.com/artist/6YWu7Ji2TZDduLHzBF1XMB"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512417,
+      "name": "Guided Meditation for Anxiety Relief",
+      "url": "https://open.spotify.com/track/0vOQBJ2CSlnpQrwsmYPKl4"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation for Higher Perspective",
+        "url": "https://open.spotify.com/album/1XHXCzIiccRMVPZTV9jZHl"
+      },
+      "artists": [
+        {
+          "name": "Rising Higher Meditation",
+          "url": "https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj"
+        },
+        {
+          "name": "Jess Shepherd",
+          "url": "https://open.spotify.com/artist/0tb8jNmVT0pAeMX72rbK0q"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645333,
+      "name": "Guided Meditation for Higher Perspective",
+      "url": "https://open.spotify.com/track/5v9E2NneragkpYB8Eaz8YO"
+    },
+    {
+      "album": {
+        "name": "Relaxation Meditations: Guided Meditations for Transformation",
+        "url": "https://open.spotify.com/album/55kJtnMk7LvCQVVpwYgneb"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ramdesh",
+          "url": "https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366226,
+      "name": "Guided Meditation for Sleep",
+      "url": "https://open.spotify.com/track/2ff6Ft4EUPp7xeU2hVpHwa"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation for Your Purpose and Potential",
+        "url": "https://open.spotify.com/album/6fkhe6HB9kZXsqqnjx9qMe"
+      },
+      "artists": [
+        {
+          "name": "Rising Higher Meditation",
+          "url": "https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj"
+        },
+        {
+          "name": "Jess Shepherd",
+          "url": "https://open.spotify.com/artist/0tb8jNmVT0pAeMX72rbK0q"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501818,
+      "name": "Guided Meditation for Your Purpose and Potential",
+      "url": "https://open.spotify.com/track/3QNrp6ILD7hlEZtUJP2Pfb"
+    },
+    {
+      "album": {
+        "name": "Finding Tranqulity-Guided Mindfulness Meditations for Stressful Times",
+        "url": "https://open.spotify.com/album/6mdcFb6iCsRo1W7gnPfLZP"
+      },
+      "artists": [
+        {
+          "name": "Erica Rayner-Horn",
+          "url": "https://open.spotify.com/artist/2S0OchnjJSc71aPbveHobS"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 816373,
+      "name": "Guided Meditation I - Breathing Calming Body & Mind",
+      "url": "https://open.spotify.com/track/0CRy7fd4oB33QI7celPmAl"
+    },
+    {
+      "album": {
+        "name": "Finding Tranqulity-Guided Mindfulness Meditations for Stressful Times",
+        "url": "https://open.spotify.com/album/6mdcFb6iCsRo1W7gnPfLZP"
+      },
+      "artists": [
+        {
+          "name": "Erica Rayner-Horn",
+          "url": "https://open.spotify.com/artist/2S0OchnjJSc71aPbveHobS"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 890373,
+      "name": "Guided Meditation II - Relaxing Releasing Tension in Body & Mind",
+      "url": "https://open.spotify.com/track/216LJHHrKJZNPZpPmMFifj"
+    },
+    {
+      "album": {
+        "name": "Guided Powerful Morning Meditation",
+        "url": "https://open.spotify.com/album/53mRYxGZzQWtdomScySk9K"
+      },
+      "artists": [
+        {
+          "name": "Meditation Family",
+          "url": "https://open.spotify.com/artist/7gUWbtZiWcLUxuhIqGrd2r"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348692,
+      "name": "Guided Meditation to A Rejuvinating Morning",
+      "url": "https://open.spotify.com/track/2rlT0YGHlVLUEwnZtzeO7q"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: 4 7 8 Breathing Exercise",
+        "url": "https://open.spotify.com/album/7557wdcwVPaLiiCsMubXaE"
+      },
+      "artists": [
+        {
+          "name": "James Burman",
+          "url": "https://open.spotify.com/artist/4Pkej3Ju2xHP32kAchyxG5"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193659,
+      "name": "Guided Meditation: 4 7 8 Breathing Exercise - Beach Waves",
+      "url": "https://open.spotify.com/track/0qSeYhxtyIk7tR12rc9NEr"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Affirmations For Manifesting",
+        "url": "https://open.spotify.com/album/5hvz2JZpYxhyQfypkEk289"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528760,
+      "name": "Guided Meditation: Affirmations For Manifesting",
+      "url": "https://open.spotify.com/track/1buvmZ3wdzJ2I7mqd1ifNs"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Affirmations For Overcoming Negative Emotions",
+        "url": "https://open.spotify.com/album/6JnvM3Dzs8air0RRkiWUw0"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 502827,
+      "name": "Guided Meditation: Affirmations For Overcoming Negative Emotions",
+      "url": "https://open.spotify.com/track/12Akdeh27iCvtXPRRTTXhe"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Affirmations For Success At Work",
+        "url": "https://open.spotify.com/album/1GNspOlVACerkMPeQZcure"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 383133,
+      "name": "Guided Meditation: Affirmations For Success At Work",
+      "url": "https://open.spotify.com/track/5fridyWtrxZJVPsGG7PreU"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Anxiety Relief",
+        "url": "https://open.spotify.com/album/18rjAheRYdBZmpyE5kU2Li"
+      },
+      "artists": [
+        {
+          "name": "Steve Chana",
+          "url": "https://open.spotify.com/artist/2jAGhFjb5yVKvSLjBceYqG"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251839,
+      "name": "Guided Meditation: Anxiety Relief - Rain Sound",
+      "url": "https://open.spotify.com/track/2eDMwRcUe83A6WYEYTWLrO"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Dealing With Negative Emotions",
+        "url": "https://open.spotify.com/album/6Sx31jlmccBswf17CAei3n"
+      },
+      "artists": [
+        {
+          "name": "Jessica Howard",
+          "url": "https://open.spotify.com/artist/7kbN5A8wO4DVOIGCQJfSGL"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231807,
+      "name": "Guided Meditation: Dealing With Negative Emotions - Pad",
+      "url": "https://open.spotify.com/track/2M53lPO1WQU3cHeUSv4lOw"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Deep Relaxation",
+        "url": "https://open.spotify.com/album/7MFqvY5d8VA1gaMP1zDOyV"
+      },
+      "artists": [
+        {
+          "name": "The Honest Guys",
+          "url": "https://open.spotify.com/artist/6n47s4smWR5T6mZnvHWv7V"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726200,
+      "name": "Guided Meditation: Deep Relaxation",
+      "url": "https://open.spotify.com/track/6gRNExpVbQAHTUPu6tnSo4"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Dreamtime Sleep Meditation For Children",
+        "url": "https://open.spotify.com/album/44v3TuhiuosoOdjcL4atip"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 680480,
+      "name": "Guided Meditation: Dreamtime Sleep Meditation For Children",
+      "url": "https://open.spotify.com/track/05VgIB8BfaBSwiKRI4biSW"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Empathy For Better Relationships",
+        "url": "https://open.spotify.com/album/6Dee8G8Q4oAIzMGYm6KlzM"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 621991,
+      "name": "Guided Meditation: Empathy For Better Relationships",
+      "url": "https://open.spotify.com/track/50vaDt9GSUUYEw5GlZA1Uz"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Ending The Day With Gratitude",
+        "url": "https://open.spotify.com/album/1hGonJyJ9ckRWCvJzOcpa1"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 366711,
+      "name": "Guided Meditation: Ending The Day With Gratitude",
+      "url": "https://open.spotify.com/track/2JHBuWOMSGHOWCoLrXAriB"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation; Focus On Chakra & Breathing",
+        "url": "https://open.spotify.com/album/2R84HRh7fTSdGAUGRk8o4H"
+      },
+      "artists": [
+        {
+          "name": "Zen Visions",
+          "url": "https://open.spotify.com/artist/3fzPeiMZXSuz2oy1C0LziF"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402075,
+      "name": "Guided Meditation: Focus On Chakra & Breathing",
+      "url": "https://open.spotify.com/track/4V2bCNZVBauPBKKfrJzSTB"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Focus Pt 1",
+        "url": "https://open.spotify.com/album/4Mv7VjrCFE40FcTifjHMU5"
+      },
+      "artists": [
+        {
+          "name": "Rhys Winton",
+          "url": "https://open.spotify.com/artist/3FG7Rqs5dLkptAL4zW4sGc"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240294,
+      "name": "Guided Meditation: Focus Pt 1 - Voice Only",
+      "url": "https://open.spotify.com/track/5T0BeNEv0U7xuiEwlCFBCc"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Focus Pt 2",
+        "url": "https://open.spotify.com/album/7mcVZ1B1GzUoeiYi9Ufhi4"
+      },
+      "artists": [
+        {
+          "name": "Rhys Winton",
+          "url": "https://open.spotify.com/artist/3FG7Rqs5dLkptAL4zW4sGc"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262957,
+      "name": "Guided Meditation: Focus Pt 2 - Voice Only",
+      "url": "https://open.spotify.com/track/1lZoEoyNBD2NNvAH4d4Omx"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Getting Ready To Focus",
+        "url": "https://open.spotify.com/album/3QiwGRx8nBYtlDMNBEnK5k"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 672506,
+      "name": "Guided Meditation: Getting Ready To Focus",
+      "url": "https://open.spotify.com/track/2RDrrVGeMyKL9V2hXhzM1v"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Good Morning",
+        "url": "https://open.spotify.com/album/4TM8QkF2fggnQKANDZZiTM"
+      },
+      "artists": [
+        {
+          "name": "Emily Pryce",
+          "url": "https://open.spotify.com/artist/0GnVvsn7YMDUpqOQLgoSzR"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262963,
+      "name": "Guided Meditation: Good Morning - Pad",
+      "url": "https://open.spotify.com/track/7doeCRERLqKcAzEufAi44e"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Good Morning",
+        "url": "https://open.spotify.com/album/4TM8QkF2fggnQKANDZZiTM"
+      },
+      "artists": [
+        {
+          "name": "Emily Pryce",
+          "url": "https://open.spotify.com/artist/0GnVvsn7YMDUpqOQLgoSzR"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262963,
+      "name": "Guided Meditation: Good Morning - River Streams",
+      "url": "https://open.spotify.com/track/7kRoBhB2RzKxrLDAoXQyam"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Imagination",
+        "url": "https://open.spotify.com/album/7siiOd6qoPSH5WblgYjauD"
+      },
+      "artists": [
+        {
+          "name": "Jessica Howard",
+          "url": "https://open.spotify.com/artist/7kbN5A8wO4DVOIGCQJfSGL"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238185,
+      "name": "Guided Meditation: Imagination - Voice Only",
+      "url": "https://open.spotify.com/track/7siOdhyPfaxJR4lMkTj8Ey"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Positive Affirmations For Mental Well-Being",
+        "url": "https://open.spotify.com/album/0UqpUI9TdMbxNsSSVdaeYs"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366387,
+      "name": "Guided Meditation: Positive Affirmations For Mental Well-Being",
+      "url": "https://open.spotify.com/track/0cvljlx8I3Xj0nN1d2yvC5"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Positive Affirmations To Fall Asleep At Night",
+        "url": "https://open.spotify.com/album/5ha824jOrXA3P29Iq804yB"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 549947,
+      "name": "Guided Meditation: Positive Affirmations To Fall Asleep At Night",
+      "url": "https://open.spotify.com/track/2xM6YzUtpHdPeT0JwyrVCX"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Positive Morning Affirmations For Children",
+        "url": "https://open.spotify.com/album/2LogslHZvkBIWfFScWGlb1"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 317987,
+      "name": "Guided Meditation: Positive Morning Affirmations For Children",
+      "url": "https://open.spotify.com/track/1oQaEV10ubBYIWYGtAQD0N"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Relieving Anxiety",
+        "url": "https://open.spotify.com/album/4OkuTHTQIyLm9LnCyFpyhJ"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 683628,
+      "name": "Guided Meditation: Relieving Anxiety",
+      "url": "https://open.spotify.com/track/711Nck544fyl23VbXlUB04"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Replenishing Yourself",
+        "url": "https://open.spotify.com/album/4CSsVB189rKZjAP9zPFq0a"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 614936,
+      "name": "Guided Meditation: Replenishing Yourself",
+      "url": "https://open.spotify.com/track/3wdROXnP25gPoEKLyubpqc"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Starting The Day Positively",
+        "url": "https://open.spotify.com/album/4S13TXWfVtJnYnUIR0RV9T"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 344144,
+      "name": "Guided Meditation: Starting The Day Positively",
+      "url": "https://open.spotify.com/track/5aP4bQuGcZIWzSoGGQeN0S"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Taking A Breather",
+        "url": "https://open.spotify.com/album/4AdlWaJyDudhb6sZs4rqvH"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 322111,
+      "name": "Guided Meditation: Taking A Breather",
+      "url": "https://open.spotify.com/track/46biZBPkwqTzB70Pabb9ks"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: The Secret Garden - A Safe Space For Children",
+        "url": "https://open.spotify.com/album/34EknrXU2O9bTifthijm87"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 646893,
+      "name": "Guided Meditation: The Secret Garden - A Safe Space For Children",
+      "url": "https://open.spotify.com/track/3fd1dXUQ92rRnxKWyqgwcx"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Tranquility Calm",
+        "url": "https://open.spotify.com/album/3qoFgjHr1DB3K1mhPZlrfB"
+      },
+      "artists": [
+        {
+          "name": "Steve Chana",
+          "url": "https://open.spotify.com/artist/2jAGhFjb5yVKvSLjBceYqG"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221708,
+      "name": "Guided Meditation: Tranquility Calm - River Streams",
+      "url": "https://open.spotify.com/track/1DIO5qAnnQZFelnIs7gZpg"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation: Wake-Up With Positive Morning Affirmations",
+        "url": "https://open.spotify.com/album/4w3uXukHe8BTeSRASMNMa4"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376680,
+      "name": "Guided Meditation: Wake-Up With Positive Morning Affirmations",
+      "url": "https://open.spotify.com/track/3i5ZTD4JckPekFUv8JGz3I"
+    },
+    {
+      "album": {
+        "name": "Affirmations to Manifest Success and Abundance",
+        "url": "https://open.spotify.com/album/0cVBDz4QftAgH4ttZnV9In"
+      },
+      "artists": [
+        {
+          "name": "Mindfulness Meditation Deep Relaxation",
+          "url": "https://open.spotify.com/artist/3aSxKJYXiBXOGuAY52qqNU"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322102,
+      "name": "Guided Sleep Meditation for Clearing Negativity",
+      "url": "https://open.spotify.com/track/0FM5PXXxFB2lTHagdByPfh"
+    },
+    {
+      "album": {
+        "name": "Guided Sleep Meditation",
+        "url": "https://open.spotify.com/album/1I9gIM27EJx8hSdpCsiaEI"
+      },
+      "artists": [
+        {
+          "name": "Anders Rhedin",
+          "url": "https://open.spotify.com/artist/4ywbRnYCXjL7Jnb0RVwJmM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Guided Sleep Meditation Part 1",
+      "url": "https://open.spotify.com/track/5uoJfHp1C2jjyr4nVPKKWG"
+    },
+    {
+      "album": {
+        "name": "Guided Sleep Meditation with Breath",
+        "url": "https://open.spotify.com/album/1HQMK7m6g84PdtvuPbAUHd"
+      },
+      "artists": [
+        {
+          "name": "Mindful Mental Meditations",
+          "url": "https://open.spotify.com/artist/4NU4cgUddV7hJ2Rq4MNWMC"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392500,
+      "name": "Guided Sleep Meditation with Breath",
+      "url": "https://open.spotify.com/track/1c6hZ7dPT9xs99GYwec0sT"
+    },
+    {
+      "album": {
+        "name": "Guided Yoga Nidra Meditation: Deep Sleep",
+        "url": "https://open.spotify.com/album/7j11IiWG2oApi1VdaKPVke"
+      },
+      "artists": [
+        {
+          "name": "Davina Ho",
+          "url": "https://open.spotify.com/artist/2G2rYw29NvOB5nWb9xFx7A"
+        },
+        {
+          "name": "Alex Couture",
+          "url": "https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 1581679,
+      "name": "Guided Yoga Nidra Meditation: Deep Sleep",
+      "url": "https://open.spotify.com/track/6WXHygQ3zRFw4VXmOneZKG"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations: Fill What Is Empty; Empty What Is Full",
+        "url": "https://open.spotify.com/album/7dD3mNgb0WBobpsdbAsl39"
+      },
+      "artists": [
+        {
+          "name": "Davidji",
+          "url": "https://open.spotify.com/artist/5xDhn69h8RGDjAuDHqUsQk"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Heal Your Body (physical healing meditation)",
+      "url": "https://open.spotify.com/track/5ldSTLuZRnC0Ub6pJDPwnX"
+    },
+    {
+      "album": {
+        "name": "Humility",
+        "url": "https://open.spotify.com/album/6jxkFSUXlunV0OT1Tpe8NM"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 269000,
+      "name": "Humility (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/2efJVNJWIZssXRLVekOvDy"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Guided Meditation Collection, Vol. 4",
+        "url": "https://open.spotify.com/album/6Z1tbABmGwXcgFsVJIcMe6"
+      },
+      "artists": [
+        {
+          "name": "Brad Austen",
+          "url": "https://open.spotify.com/artist/4WuEtfn195RUB0RVhWaUmO"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439771,
+      "name": "Inner Peace, World Peace Meditation",
+      "url": "https://open.spotify.com/track/53drMYyim9EjHRrOShHCyo"
+    },
+    {
+      "album": {
+        "name": "Inner Wisdom",
+        "url": "https://open.spotify.com/album/77XxGmJni54NviEx5Gs953"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Inner Wisdom (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/5LwWlY3RcRlD1WkZGphU4M"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/1G3QoQVeDAqVVPpJO5eiFW"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Intentions (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/2JtwMICkM36sP0JIEH29em"
+    },
+    {
+      "album": {
+        "name": "Mindfulness Meditation and Stress Reduction for Beginners: The Garden of NOW (Audio CD)",
+        "url": "https://open.spotify.com/album/4y474ve7wvRhi7RP5Jr54k"
+      },
+      "artists": [
+        {
+          "name": "Derek Turesky",
+          "url": "https://open.spotify.com/artist/1FB0Zrw29XdrVIjq59gKWh"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216530,
+      "name": "Introduction to Mindfulness",
+      "url": "https://open.spotify.com/track/7nd9g9KX6hHH7X5obIGIQL"
+    },
+    {
+      "album": {
+        "name": "New Year, New You - Letting Go",
+        "url": "https://open.spotify.com/album/2uuJEzzmnDAwhPlY2ljfmT"
+      },
+      "artists": [
+        {
+          "name": "Donna D'Cruz",
+          "url": "https://open.spotify.com/artist/5bERMLvnJzwhw3llF1yC52"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630048,
+      "name": "Letting Go Meditation (Alpha)",
+      "url": "https://open.spotify.com/track/3lDhtIzmnt6s6bYWjDZdcE"
+    },
+    {
+      "album": {
+        "name": "Growing Mindfulness: Guided Meditations",
+        "url": "https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 826693,
+      "name": "Letting It Be Meditation",
+      "url": "https://open.spotify.com/track/6dPU7DOvhY1dKIpyfgPNfj"
+    },
+    {
+      "album": {
+        "name": "Meet Your Spirit Guides (Guided Meditation)",
+        "url": "https://open.spotify.com/album/2KQftckPmNAjctqT3Hni0O"
+      },
+      "artists": [
+        {
+          "name": "Rising Higher Meditation",
+          "url": "https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj"
+        },
+        {
+          "name": "Jess Shepherd",
+          "url": "https://open.spotify.com/artist/0tb8jNmVT0pAeMX72rbK0q"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1422914,
+      "name": "Meet Your Spirit Guides (Guided Meditation)",
+      "url": "https://open.spotify.com/track/5WzcqMTMV1WoDmIwxL7FCS"
+    },
+    {
+      "album": {
+        "name": "Mind and Body",
+        "url": "https://open.spotify.com/album/4oHiSVkekyPev8UZT32Blt"
+      },
+      "artists": [
+        {
+          "name": "Mason Geer",
+          "url": "https://open.spotify.com/artist/2GQwJWKM6O2diVRqjbScDr"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279150,
+      "name": "Mind and Body",
+      "url": "https://open.spotify.com/track/3TN6sMspsyPFZclSbbCJuz"
+    },
+    {
+      "album": {
+        "name": "Becoming the Calm Amidst the Chaos",
+        "url": "https://open.spotify.com/album/4JAnMEHp6pw5M6jTNGahy4"
+      },
+      "artists": [
+        {
+          "name": "Davidji",
+          "url": "https://open.spotify.com/artist/5xDhn69h8RGDjAuDHqUsQk"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67423,
+      "name": "Mindful Minute",
+      "url": "https://open.spotify.com/track/0gngGMecGwBDBNhY6T71qG"
+    },
+    {
+      "album": {
+        "name": "Morning Affirmations",
+        "url": "https://open.spotify.com/album/0RD3l7K6NGs7E6JpSEAbZJ"
+      },
+      "artists": [
+        {
+          "name": "Defigo",
+          "url": "https://open.spotify.com/artist/2jSC6WxDUjLpADzGEBYlRz"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Morning Affirmations (Guided Meditation)",
+      "url": "https://open.spotify.com/track/0VYJ2uZPouPzkLroCkGpwT"
+    },
+    {
+      "album": {
+        "name": "Meditation Workshop",
+        "url": "https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4"
+      },
+      "artists": [
+        {
+          "name": "Philip Permutt",
+          "url": "https://open.spotify.com/artist/46HUBq8j4vz5rvVYjOGt8i"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570120,
+      "name": "Pool of the Soul",
+      "url": "https://open.spotify.com/track/0gVGe59Oew523S1dwcxrkN"
+    },
+    {
+      "album": {
+        "name": "Reflection and Resolution Guided Meditation",
+        "url": "https://open.spotify.com/album/6kpY4pHrHg6bRP4PrCF41n"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492000,
+      "name": "Reflection and Resolution Guided Meditation",
+      "url": "https://open.spotify.com/track/6jLivHMnUtJ4Da1qKLU8ZI"
+    },
+    {
+      "album": {
+        "name": "Imagine Believe Create (A Guided Visualization Meditation)",
+        "url": "https://open.spotify.com/album/5XOrjzm3uYsBaf0Jutxu1V"
+      },
+      "artists": [
+        {
+          "name": "Susan Kern",
+          "url": "https://open.spotify.com/artist/4VvDFZDYsaKCuk1SnFnrJE"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389616,
+      "name": "Reinvent Your Reality for Peace of Mind and Wisdom",
+      "url": "https://open.spotify.com/track/301zlbKp2knQJ75a1Wz9Yc"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations",
+        "url": "https://open.spotify.com/album/30UPjcn7tQ0HdNWwVoK8Ef"
+      },
+      "artists": [
+        {
+          "name": "Brad Austen",
+          "url": "https://open.spotify.com/artist/4WuEtfn195RUB0RVhWaUmO"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509997,
+      "name": "Relax at the Beach Meditation",
+      "url": "https://open.spotify.com/track/2gUM3sjwqfIB0R5PE31oTr"
+    },
+    {
+      "album": {
+        "name": "Inner Wisdom",
+        "url": "https://open.spotify.com/album/77XxGmJni54NviEx5Gs953"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 236500,
+      "name": "Relaxation (with Guided Meditation)",
+      "url": "https://open.spotify.com/track/5sEg1FUVbCHIDRXlgcc5wc"
+    },
+    {
+      "album": {
+        "name": "Guided Chakra Balancing Meditation",
+        "url": "https://open.spotify.com/album/1zMB5k4vsqHhOsYMuUpOq2"
+      },
+      "artists": [
+        {
+          "name": "Greg de Vries, The Meditation Coach",
+          "url": "https://open.spotify.com/artist/4ThK7qdI7QibViBo1V4Dt9"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293626,
+      "name": "Sacral Chakra",
+      "url": "https://open.spotify.com/track/52EwHsnjpOIUidc80IoUFd"
+    },
+    {
+      "album": {
+        "name": "Easy Practice for Beginners Meditations",
+        "url": "https://open.spotify.com/album/0OkVzsMHNnU128dvUy4NL0"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482000,
+      "name": "Settling Meditation",
+      "url": "https://open.spotify.com/track/5OzmdZcQO8JQ9Q6XS9TUtt"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations for Calming the Mind (with Music)",
+        "url": "https://open.spotify.com/album/64ipVNXPNfNrFDJFFYKUKX"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 336000,
+      "name": "Simple and Serene Guided Sleep Meditation (with Music)",
+      "url": "https://open.spotify.com/track/3VHbJLW9L7prera4aUPFDg"
+    },
+    {
+      "album": {
+        "name": "Growing Mindfulness: Guided Meditations",
+        "url": "https://open.spotify.com/album/6kAI5IzfCMoIKBCGaXws6L"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1068893,
+      "name": "Spotlight Meditation",
+      "url": "https://open.spotify.com/track/7BUPGThqVaucDxZB4mWrNj"
+    },
+    {
+      "album": {
+        "name": "Guided Meditations for Calming the Mind (with Music)",
+        "url": "https://open.spotify.com/album/64ipVNXPNfNrFDJFFYKUKX"
+      },
+      "artists": [
+        {
+          "name": "Balanced Mindful Meditations",
+          "url": "https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832000,
+      "name": "Stress Reducing Guided Breathing Sleep Meditation (with Music)",
+      "url": "https://open.spotify.com/track/6jpoc3s3Bg3mr4GRAk6rgB"
+    },
+    {
+      "album": {
+        "name": "Mindfulness for Beginners",
+        "url": "https://open.spotify.com/album/3lAdrHUsuGm6RESDtA8LDC"
+      },
+      "artists": [
+        {
+          "name": "Sean Fargo",
+          "url": "https://open.spotify.com/artist/5xhkbIHbtfoiWahxugkJUn"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424595,
+      "name": "Three Mindful Breaths",
+      "url": "https://open.spotify.com/track/2HNo24J81o49hTO9PoL2Gr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVS1recTqXhf"
 }

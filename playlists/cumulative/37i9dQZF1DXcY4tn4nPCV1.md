@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-388 songs - 16 hr 31 min
+392 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-04 | 2022-11-19 |
 | [Annapurna](https://open.spotify.com/track/5LzBkotVxLdY5Z37QBbd9L) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Annapurna](https://open.spotify.com/album/6t7E0Y8KfE8867S0IAHbrs) | 2:33 | 2022-11-18 |  |
 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 | 2023-08-01 |  |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-04 |  |
 | [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-04-04 |  |
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2023-12-12 |  |
 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 | 2022-04-04 |  |
@@ -135,6 +136,7 @@
 | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/5VVRELmvr0DhwDxeYWvVCf) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/album/21mDWW3R1U36MSVCBXUG5L) | 3:31 | 2022-04-04 | 2022-04-29 |
 | [Help me find a way](https://open.spotify.com/track/6OL7lU0n7HrNvxM22bHoxW) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Help me find a way](https://open.spotify.com/album/28W9ZCs4H4PenLaqNYYq2w) | 3:03 | 2022-04-04 | 2022-04-29 |
 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 | 2022-04-04 | 2022-05-21 |
+| [Heron](https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Heron](https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN) | 2:14 | 2024-01-04 |  |
 | [Hideaway](https://open.spotify.com/track/3MKCO2mNSbhTbRu7x5qxev) | [India Atanasie](https://open.spotify.com/artist/6yBWntJNNKBu66b5Jy6sVg) | [Hideaway](https://open.spotify.com/album/00wr0WdNovcbqyteByPHyc) | 2:21 | 2022-04-28 |  |
 | [Hiding Place](https://open.spotify.com/track/2zePaAERT1cj4MZKRtsiYt) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC), [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L) | [Hiding Place](https://open.spotify.com/album/4VX3JpR132r6qBSe5F9F4E) | 2:18 | 2022-10-14 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-04 | 2023-04-05 |
@@ -145,6 +147,7 @@
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2022-04-04 | 2022-11-19 |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2022-04-04 | 2022-11-19 |
 | [If I Could Tell You](https://open.spotify.com/track/11Qo1ZRy2R3aC12G33c210) | [Maude Eldridge](https://open.spotify.com/artist/21f60v74DrfHND4HjqmE1u) | [If I Could Tell You](https://open.spotify.com/album/2JPlNFaUONwpq8BiuuxG0z) | 2:23 | 2022-04-04 | 2022-04-29 |
+| [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-04 |  |
 | [Il mio cuore brucia per te](https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI) | [Oddo Fava](https://open.spotify.com/artist/3DbqhQZ1BfpxozIDPMjZDd) | [Il mio cuore brucia per te](https://open.spotify.com/album/65YsTIbDwGwTGVxGjpDMvy) | 2:10 | 2022-04-04 |  |
 | [Imagine](https://open.spotify.com/track/6Q0m7E33lcj6FOgdEsH448) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Imagine](https://open.spotify.com/album/7azCak0GgPVaSFelg61xYa) | 2:09 | 2023-09-18 |  |
 | [Imperceptible](https://open.spotify.com/track/3wowypV1ykrIueaXWRRYey) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Imperceptible](https://open.spotify.com/album/2jKPlE2WuGckCR1D1v5Gpq) | 2:55 | 2022-04-04 |  |
@@ -226,6 +229,7 @@
 | [Nádherný deň](https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Nádherný deň](https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI) | 1:59 | 2022-09-20 | 2023-07-19 |
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-02-28 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-04 |  |
+| [One Bruised Heart](https://open.spotify.com/track/5AVo8YiHWM8lTDitmzQ78u) | [Poets Heart](https://open.spotify.com/artist/3KmMTvlK6DdRGizAt8qrnG) | [One Bruised Heart](https://open.spotify.com/album/0BsjFU6YW2MZgz4Pf5lMp9) | 2:25 | 2024-01-04 |  |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2022-04-04 |  |
 | [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2023-11-20 |  |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-04 |  |

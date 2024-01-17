@@ -1,430 +1,1351 @@
 {
-  "2022-10-29": 19668,
-  "2022-10-30": 19679,
-  "2022-10-31": 19696,
-  "2022-11-01": 19711,
-  "2022-11-02": 19722,
-  "2022-11-03": 19741,
-  "2022-11-04": 19761,
-  "2022-11-05": 19777,
-  "2022-11-06": 19793,
-  "2022-11-07": 19799,
-  "2022-11-08": 19806,
-  "2022-11-09": 19824,
-  "2022-11-10": 19844,
-  "2022-11-11": 19868,
-  "2022-11-12": 19899,
-  "2022-11-13": 19962,
-  "2022-11-14": 19983,
-  "2022-11-15": 20002,
-  "2022-11-16": 20027,
-  "2022-11-17": 20047,
-  "2022-11-18": 20053,
-  "2022-11-19": 20061,
-  "2022-11-20": 20082,
-  "2022-11-21": 20101,
-  "2022-11-22": 20126,
-  "2022-11-23": 20148,
-  "2022-11-24": 20196,
-  "2022-11-25": 20235,
-  "2022-11-26": 20265,
-  "2022-11-27": 20299,
-  "2022-11-28": 20306,
-  "2022-11-29": 20336,
-  "2022-11-30": 20368,
-  "2022-12-01": 20410,
-  "2022-12-02": 20432,
-  "2022-12-03": 20470,
-  "2022-12-04": 20492,
-  "2022-12-05": 20532,
-  "2022-12-06": 20564,
-  "2022-12-07": 20602,
-  "2022-12-08": 20633,
-  "2022-12-09": 20656,
-  "2022-12-10": 20674,
-  "2022-12-11": 20720,
-  "2022-12-12": 20751,
-  "2022-12-13": 20804,
-  "2022-12-14": 20875,
-  "2022-12-15": 20940,
-  "2022-12-16": 20997,
-  "2022-12-17": 21061,
-  "2022-12-18": 21131,
-  "2022-12-19": 21177,
-  "2022-12-20": 21306,
-  "2022-12-21": 21306,
-  "2022-12-22": 21376,
-  "2022-12-24": 21496,
-  "2022-12-25": 21534,
-  "2022-12-26": 21548,
-  "2022-12-27": 21584,
-  "2022-12-28": 21627,
-  "2022-12-29": 21661,
-  "2022-12-30": 21705,
-  "2022-12-31": 21772,
-  "2023-01-01": 21820,
-  "2023-01-02": 21862,
-  "2023-01-03": 21893,
-  "2023-01-04": 21948,
-  "2023-01-05": 22014,
-  "2023-01-06": 22090,
-  "2023-01-07": 22205,
-  "2023-01-08": 22220,
-  "2023-01-09": 22290,
-  "2023-01-10": 22348,
-  "2023-01-11": 22391,
-  "2023-01-12": 22438,
-  "2023-01-13": 22500,
-  "2023-01-14": 22593,
-  "2023-01-15": 22611,
-  "2023-01-16": 22647,
-  "2023-01-17": 22688,
-  "2023-01-18": 22712,
-  "2023-01-19": 22771,
-  "2023-01-20": 22822,
-  "2023-01-21": 22856,
-  "2023-01-22": 22892,
-  "2023-01-23": 22927,
-  "2023-01-24": 22968,
-  "2023-01-25": 23007,
-  "2023-01-26": 23050,
-  "2023-01-27": 23076,
-  "2023-01-28": 23113,
-  "2023-01-29": 23161,
-  "2023-01-30": 23192,
-  "2023-01-31": 23192,
-  "2023-02-01": 23253,
-  "2023-02-02": 23282,
-  "2023-02-03": 23327,
-  "2023-02-04": 23374,
-  "2023-02-05": 23410,
-  "2023-02-06": 23438,
-  "2023-02-07": 23466,
-  "2023-02-08": 23554,
-  "2023-02-09": 23554,
-  "2023-02-10": 23600,
-  "2023-02-11": 23646,
-  "2023-02-12": 23747,
-  "2023-02-13": 23776,
-  "2023-02-14": 23776,
-  "2023-02-15": 23809,
-  "2023-02-16": 23837,
-  "2023-02-17": 23886,
-  "2023-02-18": 23946,
-  "2023-02-19": 23948,
-  "2023-02-20": 23996,
-  "2023-02-21": 24037,
-  "2023-02-22": 24076,
-  "2023-02-23": 24115,
-  "2023-02-24": 24149,
-  "2023-02-25": 24209,
-  "2023-02-26": 24254,
-  "2023-02-27": 24329,
-  "2023-02-28": 24329,
-  "2023-03-01": 24358,
-  "2023-03-02": 24403,
-  "2023-03-03": 24431,
-  "2023-03-04": 24455,
-  "2023-03-05": 24519,
-  "2023-03-06": 24519,
-  "2023-03-07": 24545,
-  "2023-03-08": 24566,
-  "2023-03-09": 24597,
-  "2023-03-10": 24633,
-  "2023-03-11": 24664,
-  "2023-03-12": 24684,
-  "2023-03-13": 24698,
-  "2023-03-14": 24734,
-  "2023-03-15": 24753,
-  "2023-03-16": 24753,
-  "2023-03-17": 24753,
-  "2023-03-18": 24815,
-  "2023-03-19": 24815,
-  "2023-03-20": 24862,
-  "2023-03-21": 24894,
-  "2023-03-22": 24912,
-  "2023-03-23": 24932,
-  "2023-03-24": 24932,
-  "2023-03-25": 24986,
-  "2023-03-26": 25026,
-  "2023-03-27": 25058,
-  "2023-03-28": 25082,
-  "2023-03-29": 25103,
-  "2023-03-30": 25180,
-  "2023-03-31": 25180,
-  "2023-04-01": 25210,
-  "2023-04-02": 25249,
-  "2023-04-03": 25278,
-  "2023-04-04": 25310,
-  "2023-04-05": 25344,
-  "2023-04-06": 25369,
-  "2023-04-07": 25396,
-  "2023-04-09": 25433,
-  "2023-04-10": 25448,
-  "2023-04-11": 25492,
-  "2023-04-12": 25492,
-  "2023-04-13": 25520,
-  "2023-04-14": 25551,
-  "2023-04-15": 25589,
-  "2023-04-16": 25635,
-  "2023-04-17": 25658,
-  "2023-04-18": 25684,
-  "2023-04-19": 25708,
-  "2023-04-20": 25741,
-  "2023-04-21": 25769,
-  "2023-04-22": 25792,
-  "2023-04-23": 25822,
-  "2023-04-24": 25844,
-  "2023-04-25": 25860,
-  "2023-04-26": 25873,
-  "2023-04-27": 25881,
-  "2023-04-28": 25907,
-  "2023-04-29": 25931,
-  "2023-04-30": 25966,
-  "2023-05-01": 25986,
-  "2023-05-02": 26000,
-  "2023-05-03": 26033,
-  "2023-05-04": 26064,
-  "2023-05-05": 26091,
-  "2023-05-06": 26117,
-  "2023-05-07": 26142,
-  "2023-05-08": 26168,
-  "2023-05-09": 26203,
-  "2023-05-10": 26243,
-  "2023-05-11": 26259,
-  "2023-05-12": 26289,
-  "2023-05-13": 26328,
-  "2023-05-14": 26356,
-  "2023-05-15": 26392,
-  "2023-05-16": 26430,
-  "2023-05-17": 26469,
-  "2023-05-18": 26513,
-  "2023-05-19": 26550,
-  "2023-05-20": 26610,
-  "2023-05-21": 26610,
-  "2023-05-22": 26610,
-  "2023-05-23": 26662,
-  "2023-05-24": 26705,
-  "2023-05-25": 26712,
-  "2023-05-26": 26734,
-  "2023-05-27": 26753,
-  "2023-05-28": 26771,
-  "2023-05-29": 26771,
-  "2023-05-30": 26829,
-  "2023-05-31": 26856,
-  "2023-06-01": 26894,
-  "2023-06-02": 26917,
-  "2023-06-03": 26945,
-  "2023-06-04": 26990,
-  "2023-06-05": 27016,
-  "2023-06-06": 27043,
-  "2023-06-07": 27070,
-  "2023-06-08": 27085,
-  "2023-06-09": 27141,
-  "2023-06-10": 27172,
-  "2023-06-11": 27196,
-  "2023-06-12": 27236,
-  "2023-06-13": 27269,
-  "2023-06-14": 27297,
-  "2023-06-15": 27334,
-  "2023-06-16": 27365,
-  "2023-06-17": 27410,
-  "2023-06-18": 27449,
-  "2023-06-19": 27487,
-  "2023-06-20": 27549,
-  "2023-06-21": 27595,
-  "2023-06-22": 27663,
-  "2023-06-23": 27764,
-  "2023-06-24": 27854,
-  "2023-06-25": 27943,
-  "2023-06-26": 28024,
-  "2023-06-27": 28111,
-  "2023-06-28": 28205,
-  "2023-06-29": 28292,
-  "2023-06-30": 28384,
-  "2023-07-01": 28543,
-  "2023-07-02": 28543,
-  "2023-07-03": 28624,
-  "2023-07-04": 28690,
-  "2023-07-05": 28781,
-  "2023-07-06": 28936,
-  "2023-07-07": 28936,
-  "2023-07-08": 28936,
-  "2023-07-09": 29101,
-  "2023-07-10": 29171,
-  "2023-07-11": 29246,
-  "2023-07-12": 29310,
-  "2023-07-13": 29366,
-  "2023-07-14": 29426,
-  "2023-07-15": 29474,
-  "2023-07-16": 29536,
-  "2023-07-17": 29589,
-  "2023-07-18": 29646,
-  "2023-07-19": 29694,
-  "2023-07-20": 29694,
-  "2023-07-21": 29821,
-  "2023-07-22": 29871,
-  "2023-07-23": 29927,
-  "2023-07-24": 29976,
-  "2023-07-25": 30033,
-  "2023-07-26": 30079,
-  "2023-07-27": 30139,
-  "2023-07-28": 30208,
-  "2023-07-29": 30287,
-  "2023-07-30": 30478,
-  "2023-07-31": 30606,
-  "2023-08-01": 30718,
-  "2023-08-02": 30877,
-  "2023-08-03": 31052,
-  "2023-08-04": 31161,
-  "2023-08-05": 31213,
-  "2023-08-06": 31320,
-  "2023-08-07": 31320,
-  "2023-08-08": 31374,
-  "2023-08-09": 31420,
-  "2023-08-10": 31466,
-  "2023-08-11": 31515,
-  "2023-08-12": 31515,
-  "2023-08-13": 31515,
-  "2023-08-14": 31760,
-  "2023-08-15": 31760,
-  "2023-08-16": 31760,
-  "2023-08-17": 31760,
-  "2023-08-18": 31760,
-  "2023-08-19": 31760,
-  "2023-08-20": 32117,
-  "2023-08-21": 32117,
-  "2023-08-22": 32198,
-  "2023-08-23": 32198,
-  "2023-08-24": 32198,
-  "2023-08-25": 32198,
-  "2023-08-26": 32366,
-  "2023-08-27": 32366,
-  "2023-08-28": 32477,
-  "2023-08-29": 32477,
-  "2023-08-30": 32477,
-  "2023-08-31": 32582,
-  "2023-09-01": 32626,
-  "2023-09-02": 32626,
-  "2023-09-03": 32626,
-  "2023-09-04": 32626,
-  "2023-09-05": 32626,
-  "2023-09-06": 32626,
-  "2023-09-07": 32626,
-  "2023-09-08": 32626,
-  "2023-09-09": 32626,
-  "2023-09-10": 32626,
-  "2023-09-11": 32626,
-  "2023-09-12": 32626,
-  "2023-09-13": 32626,
-  "2023-09-14": 32626,
-  "2023-09-15": 32626,
-  "2023-09-16": 33451,
-  "2023-09-17": 33451,
-  "2023-09-18": 33451,
-  "2023-09-19": 33599,
-  "2023-09-20": 33599,
-  "2023-09-21": 33599,
-  "2023-09-22": 33760,
-  "2023-09-23": 33760,
-  "2023-09-24": 33760,
-  "2023-09-25": 33760,
-  "2023-09-26": 33962,
-  "2023-09-27": 33962,
-  "2023-09-28": 33962,
-  "2023-09-29": 33962,
-  "2023-09-30": 33962,
-  "2023-10-01": 33962,
-  "2023-10-02": 33962,
-  "2023-10-03": 33962,
-  "2023-10-04": 33962,
-  "2023-10-05": 33962,
-  "2023-10-06": 33962,
-  "2023-10-07": 33962,
-  "2023-10-08": 33962,
-  "2023-10-09": 33962,
-  "2023-10-10": 33962,
-  "2023-10-11": 34758,
-  "2023-10-12": 34758,
-  "2023-10-13": 34758,
-  "2023-10-14": 34758,
-  "2023-10-15": 34758,
-  "2023-10-16": 34758,
-  "2023-10-17": 34758,
-  "2023-10-18": 34758,
-  "2023-10-19": 34758,
-  "2023-10-20": 34758,
-  "2023-10-21": 34758,
-  "2023-10-22": 34758,
-  "2023-10-23": 34758,
-  "2023-10-24": 34758,
-  "2023-10-25": 34758,
-  "2023-10-26": 34758,
-  "2023-10-27": 34758,
-  "2023-10-28": 34758,
-  "2023-10-29": 34758,
-  "2023-10-30": 34758,
-  "2023-10-31": 34758,
-  "2023-11-01": 34758,
-  "2023-11-02": 34758,
-  "2023-11-03": 34758,
-  "2023-11-04": 34758,
-  "2023-11-05": 34758,
-  "2023-11-06": 34758,
-  "2023-11-07": 34758,
-  "2023-11-08": 34758,
-  "2023-11-09": 34758,
-  "2023-11-10": 34758,
-  "2023-11-11": 35987,
-  "2023-11-12": 35987,
-  "2023-11-13": 35987,
-  "2023-11-14": 35987,
-  "2023-11-15": 35987,
-  "2023-11-16": 35987,
-  "2023-11-17": 35987,
-  "2023-11-18": 35987,
-  "2023-11-19": 35987,
-  "2023-11-20": 35987,
-  "2023-11-21": 35987,
-  "2023-11-22": 35987,
-  "2023-11-23": 35987,
-  "2023-11-24": 35987,
-  "2023-11-25": 35987,
-  "2023-11-26": 35987,
-  "2023-11-27": 35987,
-  "2023-11-28": 35987,
-  "2023-11-29": 35987,
-  "2023-11-30": 35987,
-  "2023-12-01": 35987,
-  "2023-12-02": 35987,
-  "2023-12-03": 35987,
-  "2023-12-04": 35987,
-  "2023-12-05": 35987,
-  "2023-12-06": 35987,
-  "2023-12-07": 35987,
-  "2023-12-08": 35987,
-  "2023-12-09": 35987,
-  "2023-12-10": 35987,
-  "2023-12-11": 35987,
-  "2023-12-12": 35987,
-  "2023-12-13": 35987,
-  "2023-12-14": 37137,
-  "2023-12-15": 37153,
-  "2023-12-16": 37184,
-  "2023-12-17": 37207,
-  "2023-12-18": 37251,
-  "2023-12-19": 37264,
-  "2023-12-20": 37298,
-  "2023-12-21": 37326,
-  "2023-12-22": 37354,
-  "2023-12-23": 37384,
-  "2023-12-24": 37412,
-  "2023-12-25": 37430,
-  "2023-12-26": 37447,
-  "2023-12-27": 37472,
-  "2023-12-30": 37544,
-  "2023-12-31": 37573,
-  "2024-01-01": 37578,
-  "2024-01-02": 37593,
-  "2024-01-03": 37628
+  "2024-01-17": 37969,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Little Simz. The essential tracks, all in one playlist.",
+  "name": "This Is Little Simz",
+  "tracks": [
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 191392,
+      "name": "101 FM",
+      "url": "https://open.spotify.com/track/4Vk4Yf7pDmB1dxLFSTjBUH"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191392,
+      "name": "101 FM",
+      "url": "https://open.spotify.com/track/5pSCNRGLvjjU9tMOh7mvq1"
+    },
+    {
+      "album": {
+        "name": "As If It Were Forever",
+        "url": "https://open.spotify.com/album/1N0M6NcjwI8CNXv8yGuBvZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Wise",
+          "url": "https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 246936,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/4sDvfEUH3NMH6Yet8V5rAD"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "album": {
+        "name": "Back to My Love",
+        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "Back to My Love",
+      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
+    },
+    {
+      "album": {
+        "name": "Back to My Love",
+        "url": "https://open.spotify.com/album/6maRYneeORJh2o9Ue0XVmZ"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 235294,
+      "name": "Back to My Love",
+      "url": "https://open.spotify.com/track/47MQM8HnhmsojJcvakgOyb"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 211285,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/2Rl7RvM8RNEyCj1bLidnaJ"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211285,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
+    },
+    {
+      "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95267,
+      "name": "Blank Canvas (Interlude)",
+      "url": "https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 185203,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/1TNLYKpEPZ0g6jQq34pDcU"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185203,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
+    },
+    {
+      "album": {
+        "name": "Cuckoo",
+        "url": "https://open.spotify.com/album/5n7NB4rs9T7dYKlsUZkSgl"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 252546,
+      "name": "Cuckoo (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7GIkNL7cGq9JBjtUcD5M28"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 120396,
+      "name": "damn right",
+      "url": "https://open.spotify.com/track/12sdOBTZdgxRalR74VwABF"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120396,
+      "name": "damn right",
+      "url": "https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 232138,
+      "name": "Dead Body",
+      "url": "https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF"
+    },
+    {
+      "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 187373,
+      "name": "Deranged",
+      "url": "https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 225255,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4GEV63x0iGcXTLdcJHH4mm"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225255,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
+    },
+    {
+      "album": {
+        "name": "Garage Palace (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Garage Palace (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 256600,
+      "name": "God Bless Mary",
+      "url": "https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "The Hics",
+          "url": "https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 217386,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
+    },
+    {
+      "album": {
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 117249,
+      "name": "Her - Interlude",
+      "url": "https://open.spotify.com/track/4dkq5eUifgGK5ESn5vYQq8"
+    },
+    {
+      "album": {
+        "name": "I Love You, I Hate You",
+        "url": "https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "I Love You, I Hate You",
+      "url": "https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 238026,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68413,
+      "name": "Little Q, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/0rq8WqfI2FMHYp84xNd53M"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 68413,
+      "name": "Little Q, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/4Apa0sGc1pEsBXjX8kqdNG"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 226453,
+      "name": "Little Q, Pt. 2",
+      "url": "https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226453,
+      "name": "Little Q, Pt. 2",
+      "url": "https://open.spotify.com/track/4W15aoR7Rl8ppUJxm05IFw"
+    },
+    {
+      "album": {
+        "name": "Location (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 245045,
+      "name": "Location (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 126462,
+      "name": "might bang, might not",
+      "url": "https://open.spotify.com/track/0lAenyfo765pFS0irWQ0sG"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126462,
+      "name": "might bang, might not",
+      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 235248,
+      "name": "One In Rotation + Wide Awake",
+      "url": "https://open.spotify.com/track/4HGabMXDHtjOYTNihq6YXF"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 363482,
+      "name": "Our Conversations w/ Badbadnotgood",
+      "url": "https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 124113,
+      "name": "Persons",
+      "url": "https://open.spotify.com/track/1s9vA3Z6u7Jn1KVzUBeRIB"
+    },
+    {
+      "album": {
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU"
+    },
+    {
+      "album": {
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 183197,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/35sOsFocK5HbM7iZ0kYuIM"
+    },
+    {
+      "album": {
+        "name": "Pink Youth",
+        "url": "https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240880,
+      "name": "Pink Youth",
+      "url": "https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Space Age",
+          "url": "https://open.spotify.com/artist/13QFYK4YHs8qXlj0E9THq2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367200,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/1mMIFLEa1IZJPfM7gVdssx"
+    },
+    {
+      "album": {
+        "name": "Proud of Me (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215862,
+      "name": "Proud of Me (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 188089,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/2KlgVJHyLEzEI4aBiGptij"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393280,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 241154,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/7G1azlIomvhZzgsMqgYwBh"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Two Worlds Apart",
+      "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/3A0ITFj6kbb9CggwtPe55f"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "where\u2019s my lighter",
+      "url": "https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 233497,
+      "name": "where\u2019s my lighter",
+      "url": "https://open.spotify.com/track/77pRtEdMOE9DpVJLjfmrwb"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 246528,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 279579,
+      "name": "Wounds",
+      "url": "https://open.spotify.com/track/4lrGIVT5CvwirFcBlb5lor"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 279579,
+      "name": "Wounds",
+      "url": "https://open.spotify.com/track/5yuRoOUHov0Y7TBEH0shOR"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364181,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr"
 }

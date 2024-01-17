@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2023-06-15 | 2023-07-28 |
-| [28 \- with Dean Lewis](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-09 |  |
+| [28](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-09 |  |
 | [A World Without You](https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Self Portrait Of A Woman Unravelling](https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ) | 3:32 | 2023-07-07 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-06-15 |  |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2023-06-15 | 2023-08-18 |

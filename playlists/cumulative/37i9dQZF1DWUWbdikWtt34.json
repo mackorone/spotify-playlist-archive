@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti, Mom Uung, Rizky Billar",
+  "description": "Dendang Dangdut teratas. Cover: Lesti",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 287579,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau"
+    },
+    {
+      "album": {
+        "name": "Angin",
+        "url": "https://open.spotify.com/album/461V9891s3vWJrkfouthY0"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287322,
+      "name": "Angin",
+      "url": "https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb"
     },
     {
       "album": {

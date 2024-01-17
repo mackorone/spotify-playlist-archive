@@ -1,474 +1,1605 @@
 {
-  "2022-09-15": 21804,
-  "2022-09-16": 21811,
-  "2022-09-17": 21819,
-  "2022-09-18": 21831,
-  "2022-09-19": 21835,
-  "2022-09-20": 21839,
-  "2022-09-21": 21843,
-  "2022-09-22": 21848,
-  "2022-09-23": 21855,
-  "2022-09-24": 21855,
-  "2022-09-25": 21868,
-  "2022-09-26": 21873,
-  "2022-09-27": 21880,
-  "2022-09-28": 21884,
-  "2022-09-29": 21885,
-  "2022-09-30": 21890,
-  "2022-10-01": 21901,
-  "2022-10-02": 21912,
-  "2022-10-03": 21921,
-  "2022-10-04": 21924,
-  "2022-10-05": 21932,
-  "2022-10-06": 21939,
-  "2022-10-07": 21948,
-  "2022-10-08": 21951,
-  "2022-10-09": 21961,
-  "2022-10-10": 21965,
-  "2022-10-11": 21978,
-  "2022-10-12": 21981,
-  "2022-10-13": 21997,
-  "2022-10-14": 22008,
-  "2022-10-15": 22016,
-  "2022-10-16": 22021,
-  "2022-10-17": 22030,
-  "2022-10-18": 22030,
-  "2022-10-19": 22039,
-  "2022-10-20": 22046,
-  "2022-10-21": 22050,
-  "2022-10-22": 22062,
-  "2022-10-23": 22069,
-  "2022-10-24": 22079,
-  "2022-10-25": 22089,
-  "2022-10-26": 22093,
-  "2022-10-27": 22106,
-  "2022-10-28": 22114,
-  "2022-10-29": 22124,
-  "2022-10-30": 22129,
-  "2022-10-31": 22140,
-  "2022-11-01": 22147,
-  "2022-11-02": 22151,
-  "2022-11-03": 22157,
-  "2022-11-04": 22160,
-  "2022-11-05": 22162,
-  "2022-11-06": 22172,
-  "2022-11-07": 22185,
-  "2022-11-08": 22193,
-  "2022-11-09": 22204,
-  "2022-11-10": 22211,
-  "2022-11-11": 22215,
-  "2022-11-12": 22230,
-  "2022-11-13": 22240,
-  "2022-11-14": 22249,
-  "2022-11-15": 22257,
-  "2022-11-16": 22262,
-  "2022-11-17": 22270,
-  "2022-11-18": 22273,
-  "2022-11-19": 22279,
-  "2022-11-20": 22285,
-  "2022-11-21": 22292,
-  "2022-11-22": 22306,
-  "2022-11-23": 22315,
-  "2022-11-24": 22335,
-  "2022-11-25": 22344,
-  "2022-11-26": 22353,
-  "2022-11-27": 22362,
-  "2022-11-28": 22374,
-  "2022-11-29": 22380,
-  "2022-11-30": 22385,
-  "2022-12-01": 22394,
-  "2022-12-02": 22400,
-  "2022-12-03": 22412,
-  "2022-12-04": 22418,
-  "2022-12-05": 22424,
-  "2022-12-06": 22432,
-  "2022-12-07": 22444,
-  "2022-12-08": 22450,
-  "2022-12-09": 22456,
-  "2022-12-10": 22459,
-  "2022-12-11": 22467,
-  "2022-12-12": 22471,
-  "2022-12-13": 22478,
-  "2022-12-14": 22487,
-  "2022-12-15": 22492,
-  "2022-12-16": 22498,
-  "2022-12-17": 22502,
-  "2022-12-18": 22508,
-  "2022-12-19": 22518,
-  "2022-12-20": 22527,
-  "2022-12-21": 22527,
-  "2022-12-22": 22527,
-  "2022-12-24": 22534,
-  "2022-12-25": 22539,
-  "2022-12-26": 22544,
-  "2022-12-27": 22552,
-  "2022-12-28": 22559,
-  "2022-12-29": 22565,
-  "2022-12-30": 22568,
-  "2022-12-31": 22574,
-  "2023-01-01": 22582,
-  "2023-01-02": 22596,
-  "2023-01-03": 22606,
-  "2023-01-04": 22617,
-  "2023-01-05": 22626,
-  "2023-01-06": 22638,
-  "2023-01-07": 22643,
-  "2023-01-08": 22644,
-  "2023-01-09": 22655,
-  "2023-01-10": 22661,
-  "2023-01-11": 22668,
-  "2023-01-12": 22675,
-  "2023-01-13": 22685,
-  "2023-01-14": 22705,
-  "2023-01-15": 22704,
-  "2023-01-16": 22719,
-  "2023-01-17": 22730,
-  "2023-01-18": 22738,
-  "2023-01-19": 22744,
-  "2023-01-20": 22755,
-  "2023-01-21": 22761,
-  "2023-01-22": 22770,
-  "2023-01-23": 22777,
-  "2023-01-24": 22787,
-  "2023-01-25": 22794,
-  "2023-01-26": 22800,
-  "2023-01-27": 22805,
-  "2023-01-28": 22807,
-  "2023-01-29": 22815,
-  "2023-01-30": 22824,
-  "2023-01-31": 22824,
-  "2023-02-01": 22843,
-  "2023-02-02": 22849,
-  "2023-02-03": 22860,
-  "2023-02-04": 22865,
-  "2023-02-05": 22873,
-  "2023-02-06": 22877,
-  "2023-02-07": 22887,
-  "2023-02-08": 22908,
-  "2023-02-09": 22908,
-  "2023-02-10": 22913,
-  "2023-02-11": 22917,
-  "2023-02-12": 22936,
-  "2023-02-13": 22945,
-  "2023-02-14": 22945,
-  "2023-02-15": 22947,
-  "2023-02-16": 22958,
-  "2023-02-17": 22966,
-  "2023-02-18": 22990,
-  "2023-02-19": 22994,
-  "2023-02-20": 23005,
-  "2023-02-21": 23010,
-  "2023-02-22": 23020,
-  "2023-02-23": 23027,
-  "2023-02-24": 23037,
-  "2023-02-25": 23056,
-  "2023-02-26": 23063,
-  "2023-02-27": 23079,
-  "2023-02-28": 23079,
-  "2023-03-01": 23087,
-  "2023-03-02": 23101,
-  "2023-03-03": 23123,
-  "2023-03-04": 23142,
-  "2023-03-05": 23169,
-  "2023-03-06": 23169,
-  "2023-03-07": 23181,
-  "2023-03-08": 23191,
-  "2023-03-09": 23197,
-  "2023-03-10": 23211,
-  "2023-03-11": 23222,
-  "2023-03-12": 23227,
-  "2023-03-13": 23238,
-  "2023-03-14": 23247,
-  "2023-03-15": 23251,
-  "2023-03-16": 23265,
-  "2023-03-17": 23265,
-  "2023-03-18": 23282,
-  "2023-03-19": 23290,
-  "2023-03-20": 23293,
-  "2023-03-21": 23304,
-  "2023-03-22": 23316,
-  "2023-03-23": 23329,
-  "2023-03-24": 23329,
-  "2023-03-25": 23344,
-  "2023-03-26": 23360,
-  "2023-03-27": 23372,
-  "2023-03-28": 23386,
-  "2023-03-29": 23398,
-  "2023-03-30": 23415,
-  "2023-03-31": 23415,
-  "2023-04-01": 23419,
-  "2023-04-02": 23422,
-  "2023-04-03": 23428,
-  "2023-04-04": 23434,
-  "2023-04-05": 23439,
-  "2023-04-06": 23446,
-  "2023-04-07": 23453,
-  "2023-04-09": 23475,
-  "2023-04-10": 23491,
-  "2023-04-11": 23517,
-  "2023-04-12": 23517,
-  "2023-04-13": 23526,
-  "2023-04-14": 23540,
-  "2023-04-15": 23553,
-  "2023-04-16": 23565,
-  "2023-04-17": 23579,
-  "2023-04-18": 23587,
-  "2023-04-19": 23590,
-  "2023-04-20": 23594,
-  "2023-04-21": 23605,
-  "2023-04-22": 23612,
-  "2023-04-23": 23626,
-  "2023-04-24": 23629,
-  "2023-04-25": 23634,
-  "2023-04-26": 23648,
-  "2023-04-27": 23651,
-  "2023-04-28": 23664,
-  "2023-04-29": 23668,
-  "2023-04-30": 23680,
-  "2023-05-01": 23686,
-  "2023-05-02": 23686,
-  "2023-05-03": 23687,
-  "2023-05-04": 23696,
-  "2023-05-05": 23708,
-  "2023-05-06": 23720,
-  "2023-05-07": 23733,
-  "2023-05-08": 23737,
-  "2023-05-09": 23754,
-  "2023-05-10": 23756,
-  "2023-05-11": 23761,
-  "2023-05-12": 23772,
-  "2023-05-13": 23781,
-  "2023-05-14": 23788,
-  "2023-05-15": 23797,
-  "2023-05-16": 23800,
-  "2023-05-17": 23810,
-  "2023-05-18": 23814,
-  "2023-05-19": 23823,
-  "2023-05-20": 23839,
-  "2023-05-21": 23839,
-  "2023-05-22": 23839,
-  "2023-05-23": 23852,
-  "2023-05-24": 23867,
-  "2023-05-25": 23870,
-  "2023-05-26": 23883,
-  "2023-05-27": 23891,
-  "2023-05-28": 23895,
-  "2023-05-29": 23895,
-  "2023-05-30": 23916,
-  "2023-05-31": 23919,
-  "2023-06-01": 23935,
-  "2023-06-02": 23953,
-  "2023-06-03": 23964,
-  "2023-06-04": 23977,
-  "2023-06-05": 23989,
-  "2023-06-06": 23997,
-  "2023-06-07": 24006,
-  "2023-06-08": 24012,
-  "2023-06-09": 24020,
-  "2023-06-10": 24030,
-  "2023-06-11": 24044,
-  "2023-06-12": 24066,
-  "2023-06-13": 24070,
-  "2023-06-14": 24075,
-  "2023-06-15": 24078,
-  "2023-06-16": 24088,
-  "2023-06-17": 24095,
-  "2023-06-18": 24098,
-  "2023-06-19": 24112,
-  "2023-06-20": 24118,
-  "2023-06-21": 24123,
-  "2023-06-22": 24125,
-  "2023-06-23": 24130,
-  "2023-06-24": 24132,
-  "2023-06-25": 24138,
-  "2023-06-26": 24143,
-  "2023-06-27": 24153,
-  "2023-06-28": 24162,
-  "2023-06-29": 24176,
-  "2023-06-30": 24184,
-  "2023-07-01": 24195,
-  "2023-07-02": 24195,
-  "2023-07-03": 24197,
-  "2023-07-04": 24209,
-  "2023-07-05": 24214,
-  "2023-07-06": 24223,
-  "2023-07-07": 24223,
-  "2023-07-08": 24230,
-  "2023-07-09": 24237,
-  "2023-07-10": 24241,
-  "2023-07-11": 24248,
-  "2023-07-12": 24254,
-  "2023-07-13": 24262,
-  "2023-07-14": 24265,
-  "2023-07-15": 24270,
-  "2023-07-16": 24284,
-  "2023-07-17": 24289,
-  "2023-07-18": 24298,
-  "2023-07-19": 24306,
-  "2023-07-20": 24314,
-  "2023-07-21": 24321,
-  "2023-07-22": 24330,
-  "2023-07-23": 24336,
-  "2023-07-24": 24345,
-  "2023-07-25": 24351,
-  "2023-07-26": 24354,
-  "2023-07-27": 24362,
-  "2023-07-28": 24368,
-  "2023-07-29": 24372,
-  "2023-07-30": 24382,
-  "2023-07-31": 24387,
-  "2023-08-01": 24401,
-  "2023-08-02": 24410,
-  "2023-08-03": 24414,
-  "2023-08-04": 24428,
-  "2023-08-05": 24437,
-  "2023-08-06": 24455,
-  "2023-08-07": 24455,
-  "2023-08-08": 24467,
-  "2023-08-09": 24477,
-  "2023-08-10": 24488,
-  "2023-08-11": 24497,
-  "2023-08-12": 24503,
-  "2023-08-13": 24503,
-  "2023-08-14": 24518,
-  "2023-08-15": 24529,
-  "2023-08-16": 24529,
-  "2023-08-17": 24537,
-  "2023-08-18": 24537,
-  "2023-08-19": 24544,
-  "2023-08-20": 24548,
-  "2023-08-21": 24558,
-  "2023-08-22": 24565,
-  "2023-08-23": 24573,
-  "2023-08-24": 24582,
-  "2023-08-25": 24592,
-  "2023-08-26": 24590,
-  "2023-08-27": 24599,
-  "2023-08-28": 24605,
-  "2023-08-29": 24612,
-  "2023-08-30": 24612,
-  "2023-08-31": 24628,
-  "2023-09-01": 24637,
-  "2023-09-02": 24637,
-  "2023-09-03": 24644,
-  "2023-09-04": 24644,
-  "2023-09-05": 24668,
-  "2023-09-06": 24677,
-  "2023-09-07": 24677,
-  "2023-09-08": 24677,
-  "2023-09-09": 24677,
-  "2023-09-10": 24694,
-  "2023-09-11": 24699,
-  "2023-09-12": 24699,
-  "2023-09-13": 24704,
-  "2023-09-14": 24704,
-  "2023-09-15": 24704,
-  "2023-09-16": 24723,
-  "2023-09-17": 24723,
-  "2023-09-18": 24723,
-  "2023-09-19": 24749,
-  "2023-09-20": 24749,
-  "2023-09-21": 24749,
-  "2023-09-22": 24773,
-  "2023-09-23": 24773,
-  "2023-09-24": 24773,
-  "2023-09-25": 24773,
-  "2023-09-26": 24800,
-  "2023-09-27": 24800,
-  "2023-09-28": 24800,
-  "2023-09-29": 24800,
-  "2023-09-30": 24800,
-  "2023-10-01": 24800,
-  "2023-10-02": 24834,
-  "2023-10-03": 24834,
-  "2023-10-04": 24834,
-  "2023-10-05": 24839,
-  "2023-10-06": 24845,
-  "2023-10-07": 24845,
-  "2023-10-08": 24845,
-  "2023-10-09": 24845,
-  "2023-10-10": 24845,
-  "2023-10-11": 24865,
-  "2023-10-12": 24865,
-  "2023-10-13": 24865,
-  "2023-10-14": 24865,
-  "2023-10-15": 24865,
-  "2023-10-16": 24865,
-  "2023-10-17": 24865,
-  "2023-10-18": 24865,
-  "2023-10-19": 24865,
-  "2023-10-20": 24865,
-  "2023-10-21": 24865,
-  "2023-10-22": 24865,
-  "2023-10-23": 24865,
-  "2023-10-24": 24865,
-  "2023-10-25": 24865,
-  "2023-10-26": 24865,
-  "2023-10-27": 24865,
-  "2023-10-28": 24865,
-  "2023-10-29": 24865,
-  "2023-10-30": 24865,
-  "2023-10-31": 24865,
-  "2023-11-01": 24865,
-  "2023-11-02": 24865,
-  "2023-11-03": 24865,
-  "2023-11-04": 24865,
-  "2023-11-05": 24865,
-  "2023-11-06": 24865,
-  "2023-11-07": 24865,
-  "2023-11-08": 24865,
-  "2023-11-09": 24865,
-  "2023-11-10": 24865,
-  "2023-11-11": 25054,
-  "2023-11-12": 25054,
-  "2023-11-13": 25054,
-  "2023-11-14": 25054,
-  "2023-11-15": 25054,
-  "2023-11-16": 25054,
-  "2023-11-17": 25054,
-  "2023-11-18": 25054,
-  "2023-11-19": 25054,
-  "2023-11-20": 25054,
-  "2023-11-21": 25054,
-  "2023-11-22": 25054,
-  "2023-11-23": 25054,
-  "2023-11-24": 25054,
-  "2023-11-25": 25054,
-  "2023-11-26": 25054,
-  "2023-11-27": 25054,
-  "2023-11-28": 25054,
-  "2023-11-29": 25054,
-  "2023-11-30": 25054,
-  "2023-12-01": 25054,
-  "2023-12-02": 25054,
-  "2023-12-03": 25054,
-  "2023-12-04": 25054,
-  "2023-12-05": 25054,
-  "2023-12-06": 25054,
-  "2023-12-07": 25054,
-  "2023-12-08": 25054,
-  "2023-12-09": 25054,
-  "2023-12-10": 25054,
-  "2023-12-11": 25054,
-  "2023-12-12": 25054,
-  "2023-12-13": 25054,
-  "2023-12-14": 25161,
-  "2023-12-15": 25161,
-  "2023-12-16": 25166,
-  "2023-12-17": 25171,
-  "2023-12-18": 25180,
-  "2023-12-19": 25187,
-  "2023-12-20": 25188,
-  "2023-12-21": 25193,
-  "2023-12-22": 25200,
-  "2023-12-23": 25206,
-  "2023-12-24": 25210,
-  "2023-12-25": 25214,
-  "2023-12-26": 25217,
-  "2023-12-27": 25226,
-  "2023-12-30": 25236,
-  "2023-12-31": 25239,
-  "2024-01-01": 25244,
-  "2024-01-02": 25247,
-  "2024-01-03": 25254
+  "2024-01-17": 25316,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Matt Maher. The essential tracks, all in one playlist.",
+  "name": "This Is Matt Maher",
+  "tracks": [
+    {
+      "album": {
+        "name": "Abide With Me (Radio Version)",
+        "url": "https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221546,
+      "name": "Abide With Me - Radio Version",
+      "url": "https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359973,
+      "name": "Adoration (Live)",
+      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242139,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239440,
+      "name": "Alive Again",
+      "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "All the People Said Amen",
+      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
+    },
+    {
+      "album": {
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 249066,
+      "name": "As It Is In Heaven",
+      "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231280,
+      "name": "Awake My Soul (A Thousand Tongues)",
+      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
+    },
+    {
+      "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200120,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing Vol. 2",
+        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 229821,
+      "name": "Because He Lives (Amen) - [Live]",
+      "url": "https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y"
+    },
+    {
+      "album": {
+        "name": "The End and the Beginning",
+        "url": "https://open.spotify.com/album/5erUuY58NJRbEGZexSoItl"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 266840,
+      "name": "Better Is One Day",
+      "url": "https://open.spotify.com/track/4B7IRlv7hkdyEOaqQ52zFD"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 207613,
+      "name": "Better Off Broken (feat. Ryan Ellis)",
+      "url": "https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna"
+    },
+    {
+      "album": {
+        "name": "Bigger Table",
+        "url": "https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Bigger Table",
+      "url": "https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw"
+    },
+    {
+      "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298640,
+      "name": "Bless The One - Live",
+      "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 218560,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/5dePXcixOAITAskyqkKe7O"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Burning Heart of God",
+      "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Burning In My Soul",
+      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
+    },
+    {
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262946,
+      "name": "Center of All History",
+      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
+    },
+    {
+      "album": {
+        "name": "Christ is Lower Still",
+        "url": "https://open.spotify.com/album/6WDO8iw502euvnrfushQDL"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 356666,
+      "name": "Christ is Lower Still",
+      "url": "https://open.spotify.com/track/3khXjhwcTYr2wcZX2umXUy"
+    },
+    {
+      "album": {
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356666,
+      "name": "Christ is Lower Still",
+      "url": "https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 272494,
+      "name": "Come As You Are (Live)",
+      "url": "https://open.spotify.com/track/2fZaAbJv0MYegwqjSmI10W"
+    },
+    {
+      "album": {
+        "name": "Come Now Is The Time To Worship (25th Anniversary)",
+        "url": "https://open.spotify.com/album/0twAjjiLbtNmQkkD0EfTyY"
+      },
+      "artists": [
+        {
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Sneha Reddy",
+          "url": "https://open.spotify.com/artist/324orFQbr7KjxGysLXx8S0"
+        },
+        {
+          "name": "Cobus",
+          "url": "https://open.spotify.com/artist/3DRbOQuxQVP2gTky9vWGE2"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250772,
+      "name": "Come Now Is The Time To Worship - 25th Anniversary",
+      "url": "https://open.spotify.com/track/2pD7cMxcoaCTwgj5Zz43rQ"
+    },
+    {
+      "album": {
+        "name": "Common Ground - EP",
+        "url": "https://open.spotify.com/album/7MJvVVKJZANsWfQfCz70r6"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Dee Wilson",
+          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 365909,
+      "name": "Common Ground (feat. Dee Wilson) - Live",
+      "url": "https://open.spotify.com/track/3armidhEXA4Ky23Wj97pFQ"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 89333,
+      "name": "Echoes One",
+      "url": "https://open.spotify.com/track/19oOSjEyj3ieUb3hamiUcA"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 254146,
+      "name": "Firelight",
+      "url": "https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 365653,
+      "name": "Flesh And Bone",
+      "url": "https://open.spotify.com/track/6ZY1RmNRqBosEHmgQP5I8B"
+    },
+    {
+      "album": {
+        "name": "Go Tell It (Gloria)",
+        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "Go Tell It (Gloria)",
+      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Anyway",
+        "url": "https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
+    },
+    {
+      "album": {
+        "name": "Worship And Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Hold Us Together",
+      "url": "https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG"
+    },
+    {
+      "album": {
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "album": {
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291057,
+      "name": "Hosanna! (Will You Rise?)",
+      "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
+    },
+    {
+      "album": {
+        "name": "The Worship EP",
+        "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221280,
+      "name": "How Great (Single Mix)",
+      "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "In the Room (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
+    },
+    {
+      "album": {
+        "name": "Grace Upon Grace",
+        "url": "https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481266,
+      "name": "Inheritance",
+      "url": "https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz"
+    },
+    {
+      "album": {
+        "name": "The St. Nemele Collab Sessions",
+        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Tide Electric",
+          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 238720,
+      "name": "It's You - Tide Electric Remix",
+      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252835,
+      "name": "Joyful Noise",
+      "url": "https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
+    },
+    {
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Jason Ingram",
+          "url": "https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231586,
+      "name": "Kyrie Eleison",
+      "url": "https://open.spotify.com/track/29pV4KdhjtBuBu9KapmseW"
+    },
+    {
+      "album": {
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 326573,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/4OV8vjuI9FAonqkWgYQpQe"
+    },
+    {
+      "album": {
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+    },
+    {
+      "album": {
+        "name": "Leaning (Live)",
+        "url": "https://open.spotify.com/album/6UGWowK96hTdQJyZadFfyJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476599,
+      "name": "Leaning - Live",
+      "url": "https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239256,
+      "name": "Lord of My Life",
+      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 315986,
+      "name": "Mighty Fortress",
+      "url": "https://open.spotify.com/track/0qbgAalYuLrgYKfEhwzUW4"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 203000,
+      "name": "My Old Friend (feat. Drew Holcomb)",
+      "url": "https://open.spotify.com/track/11DODMoytrztXjlZt3Umhm"
+    },
+    {
+      "album": {
+        "name": "The Love In Between",
+        "url": "https://open.spotify.com/album/0VatKO8y9ivCWD4obvX4U7"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 214213,
+      "name": "My Only Love",
+      "url": "https://open.spotify.com/track/3dSvjnkPXd7QqYdwGpBxxY"
+    },
+    {
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246627,
+      "name": "No Body (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
+    },
+    {
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "album": {
+        "name": "Only Good Will Grow",
+        "url": "https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Brian Elmquist",
+          "url": "https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 152119,
+      "name": "Only Good Will Grow (feat. Brian Elmquist)",
+      "url": "https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Remembrance (Communion Song)",
+      "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+    },
+    {
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 280693,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281187,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204167,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
+    },
+    {
+      "album": {
+        "name": "House Of Miracles (Live)",
+        "url": "https://open.spotify.com/album/17fDsLWssfoHLMcMLMF52K"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 931610,
+      "name": "Son Of Heaven - Live",
+      "url": "https://open.spotify.com/track/3Cf8qr0MolfdZ1EqxTSRG4"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 210097,
+      "name": "Soul On Fire (Live)",
+      "url": "https://open.spotify.com/track/6NudOEKNlGZphEHAzZuHEq"
+    },
+    {
+      "album": {
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228145,
+      "name": "Take it Easy",
+      "url": "https://open.spotify.com/track/1ET6peDpteC9VF12kh7v3z"
+    },
+    {
+      "album": {
+        "name": "Take it Easy",
+        "url": "https://open.spotify.com/album/6gPeYotOrxapVjV57zwImy"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 228145,
+      "name": "Take it Easy",
+      "url": "https://open.spotify.com/track/3k99dJlQ0vg3R6kiq6tQfF"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209506,
+      "name": "The Answer Is Yes",
+      "url": "https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+    },
+    {
+      "album": {
+        "name": "The In Between (from The Chosen)",
+        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238431,
+      "name": "The In Between - from The Chosen",
+      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
+    },
+    {
+      "album": {
+        "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
+      },
+      "artists": [
+        {
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157615,
+      "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
+      "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
+    },
+    {
+      "album": {
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "album": {
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 225866,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP"
+    },
+    {
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
+    },
+    {
+      "album": {
+        "name": "The Way You Love Me",
+        "url": "https://open.spotify.com/album/3qaxWqwTnFxw6VxGilFJbJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/5tJ4nghSBgH06CCqQzE1hd"
+    },
+    {
+      "album": {
+        "name": "Those Who Have Not Seen",
+        "url": "https://open.spotify.com/album/11dLtoHSJtWc3GCujubl5I"
+      },
+      "artists": [
+        {
+          "name": "Anchor Hymns",
+          "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
+        },
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 286146,
+      "name": "Those Who Have Not Seen",
+      "url": "https://open.spotify.com/track/6Ge2tZZ5GmsLKqKqAqczdS"
+    },
+    {
+      "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375019,
+      "name": "Unconditional - Live",
+      "url": "https://open.spotify.com/track/2oj68EY5FBOuXHjvauvKik"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "What a Friend",
+      "url": "https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8"
+    },
+    {
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
+    },
+    {
+      "album": {
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265386,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Your Love Defends Me",
+      "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F9kBy"
 }

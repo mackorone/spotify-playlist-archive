@@ -1,15 +1,15 @@
 {
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
-  "num_followers": 170,
+  "num_followers": 174,
   "original_name": "This Is Cheli Madrid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDAxYzRmYWY2NjE0ODBjYWUzYWYzMWVlMTVlNTBlMWFhYg==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDA3MTdiZDE3MmYzZGU4ZDFiMWMwZjUxNThmY2RhNGRlMQ==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "En Mi Destino Estabas Tu",
         "url": "https://open.spotify.com/album/4DAa9X3K3EywDoKc7Z3LS2"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6tyczwNk5TqYt9WdSZcZ1x"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Lo Raro de Mi Libreta",
         "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/32ung15IIZshuPRQBs2yXX"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Merec\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 181970,
+      "name": "Merec\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Si Alg\u00fan D\u00eda Te Encuentro",
         "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
@@ -97,39 +113,7 @@
       "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Merec\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 181970,
-      "name": "Merec\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 159717,
-      "name": "Me Lo Contaron Ayer - En Vivo",
-      "url": "https://open.spotify.com/track/67sQnKgLjqE8EJyYzZt8Ie"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
@@ -145,7 +129,7 @@
       "url": "https://open.spotify.com/track/4eGrp5JWRFZc2j5Zsho9Ge"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
         "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
@@ -173,7 +157,23 @@
       "url": "https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 159717,
+      "name": "Me Lo Contaron Ayer - En Vivo",
+      "url": "https://open.spotify.com/track/67sQnKgLjqE8EJyYzZt8Ie"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
@@ -189,23 +189,7 @@
       "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 209869,
-      "name": "Ac\u00e1 Entre Nos - En Vivo",
-      "url": "https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
@@ -221,7 +205,7 @@
       "url": "https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
         "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/33CrmjCt84VBCwbwYDHpdp"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 209869,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
@@ -297,7 +281,7 @@
       "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Ya No Recuerdo",
         "url": "https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ"
@@ -313,10 +297,10 @@
       "url": "https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
-        "name": "Causa Perdida",
-        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
       },
       "artists": [
         {
@@ -324,44 +308,12 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 194047,
-      "name": "Causa Perdida",
-      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+      "duration_ms": 271461,
+      "name": "Es Demasiado Tarde - En Vivo",
+      "url": "https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Me Convences",
-        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "Me Convences",
-      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 229774,
-      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
@@ -377,7 +329,55 @@
       "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Causa Perdida",
+        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Causa Perdida",
+      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Me Convences",
+        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "Me Convences",
+      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Rancheritas Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
@@ -388,28 +388,12 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 193110,
-      "name": "Tu Gab\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Lo de Anoche",
-        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Lo de Anoche",
-      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
@@ -425,39 +409,7 @@
       "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Debajo De Los Laureles - En Vivo",
-      "url": "https://open.spotify.com/track/1UiOn0z0Jfv5d863x6DIa8"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Un D\u00eda 27",
         "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
@@ -473,55 +425,7 @@
       "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "La Diferencia - En Vivo",
-      "url": "https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb"
-    },
-    {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
         "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
@@ -541,10 +445,10 @@
       "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
       "artists": [
         {
@@ -552,15 +456,15 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 192413,
-      "name": "Me Cae",
-      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
+      "duration_ms": 155120,
+      "name": "Debajo De Los Laureles - En Vivo",
+      "url": "https://open.spotify.com/track/1UiOn0z0Jfv5d863x6DIa8"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
       "artists": [
         {
@@ -568,12 +472,12 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 241456,
+      "name": "Mejor Me Voy - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4oz1JPgjMQjlX14vjlqEt7"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Te Metiste (En Vivo)",
         "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
@@ -605,7 +509,103 @@
       "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Lo de Anoche",
+        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Lo de Anoche",
+      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Me Cae",
+      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 186389,
+      "name": "La L\u00e1mpara - En Vivo",
+      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Hoy Que Te Vas",
         "url": "https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
@@ -632,12 +632,12 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Acuerdate de Mi",
-      "url": "https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD"
+      "duration_ms": 209392,
+      "name": "Har\u00e9 de Cuenta",
+      "url": "https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
@@ -648,12 +648,12 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 218814,
-      "name": "Caray - En Vivo",
-      "url": "https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh"
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Herencia de Reyes",
         "url": "https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
     },
     {
-      "added_at": "2024-01-02 12:15:47",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Canciones de Oro, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+      "duration_ms": 110116,
+      "name": "Dos Amores En Mi Vida - En Vivo",
+      "url": "https://open.spotify.com/track/7jp4rYlZ2cBEpRVZxeBoQe"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

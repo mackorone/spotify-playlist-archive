@@ -1,512 +1,1207 @@
 {
-  "2022-08-06": 114677,
-  "2022-08-07": 114753,
-  "2022-08-08": 114820,
-  "2022-08-09": 114861,
-  "2022-08-10": 114924,
-  "2022-08-11": 114986,
-  "2022-08-12": 115062,
-  "2022-08-13": 115125,
-  "2022-08-14": 115205,
-  "2022-08-15": 115284,
-  "2022-08-16": 115348,
-  "2022-08-17": 115412,
-  "2022-08-18": 115464,
-  "2022-08-19": 115538,
-  "2022-08-20": 115593,
-  "2022-08-21": 115652,
-  "2022-08-22": 115721,
-  "2022-08-23": 115780,
-  "2022-08-24": 115838,
-  "2022-08-25": 115892,
-  "2022-08-26": 115939,
-  "2022-08-27": 116010,
-  "2022-08-28": 116104,
-  "2022-08-29": 116194,
-  "2022-08-30": 116247,
-  "2022-08-31": 116274,
-  "2022-09-01": 116318,
-  "2022-09-02": 116349,
-  "2022-09-03": 116363,
-  "2022-09-04": 116429,
-  "2022-09-05": 116488,
-  "2022-09-06": 116553,
-  "2022-09-07": 116592,
-  "2022-09-09": 116716,
-  "2022-09-10": 116788,
-  "2022-09-11": 116854,
-  "2022-09-12": 116931,
-  "2022-09-13": 116992,
-  "2022-09-15": 117101,
-  "2022-09-16": 117159,
-  "2022-09-17": 117229,
-  "2022-09-18": 117288,
-  "2022-09-19": 117361,
-  "2022-09-20": 117417,
-  "2022-09-21": 117476,
-  "2022-09-22": 117528,
-  "2022-09-23": 117588,
-  "2022-09-24": 117588,
-  "2022-09-25": 117761,
-  "2022-09-26": 117811,
-  "2022-09-27": 117874,
-  "2022-09-28": 117945,
-  "2022-09-29": 118014,
-  "2022-09-30": 118073,
-  "2022-10-01": 118125,
-  "2022-10-02": 118198,
-  "2022-10-03": 118257,
-  "2022-10-04": 118345,
-  "2022-10-05": 118401,
-  "2022-10-06": 118468,
-  "2022-10-07": 118514,
-  "2022-10-08": 118577,
-  "2022-10-09": 118685,
-  "2022-10-10": 118706,
-  "2022-10-11": 118746,
-  "2022-10-12": 118796,
-  "2022-10-13": 118866,
-  "2022-10-14": 118951,
-  "2022-10-15": 119006,
-  "2022-10-16": 119075,
-  "2022-10-17": 119103,
-  "2022-10-18": 119150,
-  "2022-10-19": 119200,
-  "2022-10-20": 119269,
-  "2022-10-21": 119330,
-  "2022-10-22": 119393,
-  "2022-10-23": 119444,
-  "2022-10-24": 119499,
-  "2022-10-25": 119558,
-  "2022-10-26": 119614,
-  "2022-10-27": 119674,
-  "2022-10-28": 119743,
-  "2022-10-29": 119788,
-  "2022-10-30": 119854,
-  "2022-10-31": 119905,
-  "2022-11-01": 119947,
-  "2022-11-02": 119995,
-  "2022-11-03": 120042,
-  "2022-11-04": 120116,
-  "2022-11-05": 120190,
-  "2022-11-06": 120269,
-  "2022-11-07": 120317,
-  "2022-11-08": 120378,
-  "2022-11-09": 120438,
-  "2022-11-10": 120478,
-  "2022-11-11": 120546,
-  "2022-11-12": 120626,
-  "2022-11-13": 120684,
-  "2022-11-14": 120728,
-  "2022-11-15": 120762,
-  "2022-11-16": 120820,
-  "2022-11-17": 120865,
-  "2022-11-18": 120886,
-  "2022-11-19": 120912,
-  "2022-11-20": 120973,
-  "2022-11-21": 121037,
-  "2022-11-22": 121094,
-  "2022-11-23": 121147,
-  "2022-11-24": 121232,
-  "2022-11-25": 121314,
-  "2022-11-26": 121381,
-  "2022-11-27": 121438,
-  "2022-11-28": 121500,
-  "2022-11-29": 121550,
-  "2022-11-30": 121610,
-  "2022-12-01": 121657,
-  "2022-12-02": 121692,
-  "2022-12-03": 121771,
-  "2022-12-04": 121847,
-  "2022-12-05": 121895,
-  "2022-12-06": 121961,
-  "2022-12-07": 122015,
-  "2022-12-08": 122076,
-  "2022-12-09": 122153,
-  "2022-12-10": 122207,
-  "2022-12-11": 122266,
-  "2022-12-12": 122305,
-  "2022-12-13": 122345,
-  "2022-12-14": 122382,
-  "2022-12-15": 122451,
-  "2022-12-16": 122517,
-  "2022-12-17": 122583,
-  "2022-12-18": 122662,
-  "2022-12-19": 122719,
-  "2022-12-20": 122827,
-  "2022-12-21": 122827,
-  "2022-12-22": 122907,
-  "2022-12-24": 123031,
-  "2022-12-25": 123060,
-  "2022-12-26": 123115,
-  "2022-12-27": 123183,
-  "2022-12-28": 123246,
-  "2022-12-29": 123308,
-  "2022-12-30": 123379,
-  "2022-12-31": 123431,
-  "2023-01-01": 123518,
-  "2023-01-02": 123574,
-  "2023-01-03": 123642,
-  "2023-01-04": 123688,
-  "2023-01-05": 123717,
-  "2023-01-06": 123790,
-  "2023-01-07": 123874,
-  "2023-01-08": 123895,
-  "2023-01-09": 123957,
-  "2023-01-10": 124019,
-  "2023-01-11": 124109,
-  "2023-01-12": 124186,
-  "2023-01-13": 124283,
-  "2023-01-14": 124429,
-  "2023-01-15": 124451,
-  "2023-01-16": 124522,
-  "2023-01-17": 124600,
-  "2023-01-18": 124667,
-  "2023-01-19": 124754,
-  "2023-01-20": 124826,
-  "2023-01-21": 124907,
-  "2023-01-22": 124989,
-  "2023-01-23": 125085,
-  "2023-01-24": 125157,
-  "2023-01-25": 125225,
-  "2023-01-26": 125290,
-  "2023-01-27": 125367,
-  "2023-01-28": 125446,
-  "2023-01-29": 125528,
-  "2023-01-30": 125591,
-  "2023-01-31": 125591,
-  "2023-02-01": 125704,
-  "2023-02-02": 125777,
-  "2023-02-03": 125872,
-  "2023-02-04": 125947,
-  "2023-02-05": 126041,
-  "2023-02-06": 126113,
-  "2023-02-07": 126161,
-  "2023-02-08": 126260,
-  "2023-02-09": 126260,
-  "2023-02-10": 126330,
-  "2023-02-11": 126411,
-  "2023-02-12": 126531,
-  "2023-02-13": 126587,
-  "2023-02-14": 126587,
-  "2023-02-15": 126640,
-  "2023-02-16": 126701,
-  "2023-02-17": 126758,
-  "2023-02-18": 126933,
-  "2023-02-19": 126943,
-  "2023-02-20": 126999,
-  "2023-02-21": 127062,
-  "2023-02-22": 127131,
-  "2023-02-23": 127179,
-  "2023-02-24": 127245,
-  "2023-02-25": 127343,
-  "2023-02-26": 127389,
-  "2023-02-27": 127528,
-  "2023-02-28": 127528,
-  "2023-03-01": 127582,
-  "2023-03-02": 127658,
-  "2023-03-03": 127748,
-  "2023-03-04": 127825,
-  "2023-03-05": 127990,
-  "2023-03-06": 127990,
-  "2023-03-07": 128062,
-  "2023-03-08": 128116,
-  "2023-03-09": 128176,
-  "2023-03-10": 128243,
-  "2023-03-11": 128296,
-  "2023-03-12": 128372,
-  "2023-03-13": 128438,
-  "2023-03-14": 128485,
-  "2023-03-15": 128539,
-  "2023-03-16": 128539,
-  "2023-03-17": 128539,
-  "2023-03-18": 128734,
-  "2023-03-19": 128734,
-  "2023-03-20": 128883,
-  "2023-03-21": 128928,
-  "2023-03-22": 128990,
-  "2023-03-23": 129046,
-  "2023-03-24": 129046,
-  "2023-03-25": 129161,
-  "2023-03-26": 129235,
-  "2023-03-27": 129302,
-  "2023-03-28": 129350,
-  "2023-03-29": 129417,
-  "2023-03-30": 129538,
-  "2023-03-31": 129538,
-  "2023-04-01": 129614,
-  "2023-04-02": 129678,
-  "2023-04-03": 129735,
-  "2023-04-04": 129790,
-  "2023-04-05": 129857,
-  "2023-04-06": 129915,
-  "2023-04-07": 129981,
-  "2023-04-09": 130101,
-  "2023-04-10": 130162,
-  "2023-04-11": 130290,
-  "2023-04-12": 130290,
-  "2023-04-13": 130336,
-  "2023-04-14": 130401,
-  "2023-04-15": 130480,
-  "2023-04-16": 130550,
-  "2023-04-17": 130606,
-  "2023-04-18": 130652,
-  "2023-04-19": 130733,
-  "2023-04-20": 130786,
-  "2023-04-21": 130847,
-  "2023-04-22": 130913,
-  "2023-04-23": 130979,
-  "2023-04-24": 131029,
-  "2023-04-25": 131082,
-  "2023-04-26": 131159,
-  "2023-04-27": 131213,
-  "2023-04-28": 131284,
-  "2023-04-29": 131341,
-  "2023-04-30": 131415,
-  "2023-05-01": 131507,
-  "2023-05-02": 131566,
-  "2023-05-03": 131615,
-  "2023-05-04": 131697,
-  "2023-05-05": 131767,
-  "2023-05-06": 131845,
-  "2023-05-07": 131916,
-  "2023-05-08": 131979,
-  "2023-05-09": 132040,
-  "2023-05-10": 132101,
-  "2023-05-11": 132164,
-  "2023-05-12": 132233,
-  "2023-05-13": 132314,
-  "2023-05-14": 132412,
-  "2023-05-15": 132478,
-  "2023-05-16": 132534,
-  "2023-05-17": 132610,
-  "2023-05-18": 132671,
-  "2023-05-19": 132741,
-  "2023-05-20": 132883,
-  "2023-05-21": 132883,
-  "2023-05-22": 132883,
-  "2023-05-23": 133012,
-  "2023-05-24": 133104,
-  "2023-05-25": 133131,
-  "2023-05-26": 133193,
-  "2023-05-27": 133250,
-  "2023-05-28": 133325,
-  "2023-05-29": 133325,
-  "2023-05-30": 133426,
-  "2023-05-31": 133475,
-  "2023-06-01": 133543,
-  "2023-06-02": 133616,
-  "2023-06-03": 133690,
-  "2023-06-04": 133761,
-  "2023-06-05": 133816,
-  "2023-06-06": 133855,
-  "2023-06-07": 133916,
-  "2023-06-08": 133961,
-  "2023-06-09": 134014,
-  "2023-06-10": 134091,
-  "2023-06-11": 134146,
-  "2023-06-12": 134210,
-  "2023-06-13": 134262,
-  "2023-06-14": 134311,
-  "2023-06-15": 134367,
-  "2023-06-16": 134416,
-  "2023-06-17": 134492,
-  "2023-06-18": 134567,
-  "2023-06-19": 134625,
-  "2023-06-20": 134677,
-  "2023-06-21": 134731,
-  "2023-06-22": 134785,
-  "2023-06-23": 134848,
-  "2023-06-24": 134941,
-  "2023-06-25": 135032,
-  "2023-06-26": 135084,
-  "2023-06-27": 135140,
-  "2023-06-28": 135201,
-  "2023-06-29": 135256,
-  "2023-06-30": 135316,
-  "2023-07-01": 135446,
-  "2023-07-02": 135446,
-  "2023-07-03": 135513,
-  "2023-07-04": 135587,
-  "2023-07-05": 135649,
-  "2023-07-06": 135742,
-  "2023-07-07": 135742,
-  "2023-07-08": 135742,
-  "2023-07-09": 135863,
-  "2023-07-10": 135923,
-  "2023-07-11": 135994,
-  "2023-07-12": 136049,
-  "2023-07-13": 136119,
-  "2023-07-14": 136184,
-  "2023-07-15": 136240,
-  "2023-07-16": 136313,
-  "2023-07-17": 136395,
-  "2023-07-18": 136444,
-  "2023-07-19": 136508,
-  "2023-07-20": 136571,
-  "2023-07-21": 136628,
-  "2023-07-22": 136693,
-  "2023-07-23": 136765,
-  "2023-07-24": 136841,
-  "2023-07-25": 136904,
-  "2023-07-26": 136948,
-  "2023-07-27": 136989,
-  "2023-07-28": 137056,
-  "2023-07-29": 137134,
-  "2023-07-30": 137198,
-  "2023-07-31": 137254,
-  "2023-08-01": 137313,
-  "2023-08-02": 137358,
-  "2023-08-03": 137404,
-  "2023-08-04": 137450,
-  "2023-08-05": 137514,
-  "2023-08-06": 137639,
-  "2023-08-07": 137639,
-  "2023-08-08": 137699,
-  "2023-08-09": 137750,
-  "2023-08-10": 137802,
-  "2023-08-11": 137863,
-  "2023-08-12": 137863,
-  "2023-08-13": 137863,
-  "2023-08-14": 138043,
-  "2023-08-15": 138043,
-  "2023-08-16": 138043,
-  "2023-08-17": 138043,
-  "2023-08-18": 138043,
-  "2023-08-19": 138043,
-  "2023-08-20": 138444,
-  "2023-08-21": 138444,
-  "2023-08-22": 138567,
-  "2023-08-23": 138567,
-  "2023-08-24": 138567,
-  "2023-08-25": 138567,
-  "2023-08-26": 138829,
-  "2023-08-27": 138829,
-  "2023-08-28": 138945,
-  "2023-08-29": 138945,
-  "2023-08-30": 138945,
-  "2023-08-31": 139142,
-  "2023-09-01": 139220,
-  "2023-09-02": 139220,
-  "2023-09-03": 139220,
-  "2023-09-04": 139220,
-  "2023-09-05": 139220,
-  "2023-09-06": 139220,
-  "2023-09-07": 139220,
-  "2023-09-08": 139220,
-  "2023-09-09": 139220,
-  "2023-09-10": 139220,
-  "2023-09-11": 139220,
-  "2023-09-12": 139220,
-  "2023-09-13": 139220,
-  "2023-09-14": 139220,
-  "2023-09-15": 139220,
-  "2023-09-16": 140144,
-  "2023-09-17": 140144,
-  "2023-09-18": 140144,
-  "2023-09-19": 140282,
-  "2023-09-20": 140282,
-  "2023-09-21": 140282,
-  "2023-09-22": 140432,
-  "2023-09-23": 140432,
-  "2023-09-24": 140432,
-  "2023-09-25": 140432,
-  "2023-09-26": 140635,
-  "2023-09-27": 140635,
-  "2023-09-28": 140635,
-  "2023-09-29": 140635,
-  "2023-09-30": 140635,
-  "2023-10-01": 140635,
-  "2023-10-02": 140635,
-  "2023-10-03": 140635,
-  "2023-10-04": 140635,
-  "2023-10-05": 140635,
-  "2023-10-06": 140635,
-  "2023-10-07": 140635,
-  "2023-10-08": 140635,
-  "2023-10-09": 140635,
-  "2023-10-10": 140635,
-  "2023-10-11": 141403,
-  "2023-10-12": 141403,
-  "2023-10-13": 141403,
-  "2023-10-14": 141403,
-  "2023-10-15": 141403,
-  "2023-10-16": 141403,
-  "2023-10-17": 141403,
-  "2023-10-18": 141403,
-  "2023-10-19": 141403,
-  "2023-10-20": 141403,
-  "2023-10-21": 141403,
-  "2023-10-22": 141403,
-  "2023-10-23": 141403,
-  "2023-10-24": 141403,
-  "2023-10-25": 141403,
-  "2023-10-26": 141403,
-  "2023-10-27": 141403,
-  "2023-10-28": 141403,
-  "2023-10-29": 141403,
-  "2023-10-30": 141403,
-  "2023-10-31": 141403,
-  "2023-11-01": 141403,
-  "2023-11-02": 141403,
-  "2023-11-03": 141403,
-  "2023-11-04": 141403,
-  "2023-11-05": 141403,
-  "2023-11-06": 141403,
-  "2023-11-07": 141403,
-  "2023-11-08": 141403,
-  "2023-11-09": 141403,
-  "2023-11-10": 141403,
-  "2023-11-11": 142809,
-  "2023-11-12": 142809,
-  "2023-11-13": 142809,
-  "2023-11-14": 142809,
-  "2023-11-15": 142809,
-  "2023-11-16": 142809,
-  "2023-11-17": 142809,
-  "2023-11-18": 142809,
-  "2023-11-19": 142809,
-  "2023-11-20": 142809,
-  "2023-11-21": 142809,
-  "2023-11-22": 142809,
-  "2023-11-23": 142809,
-  "2023-11-24": 142809,
-  "2023-11-25": 142809,
-  "2023-11-26": 142809,
-  "2023-11-27": 142809,
-  "2023-11-28": 142809,
-  "2023-11-29": 142809,
-  "2023-11-30": 142809,
-  "2023-12-01": 142809,
-  "2023-12-02": 142809,
-  "2023-12-03": 142809,
-  "2023-12-04": 142809,
-  "2023-12-05": 142809,
-  "2023-12-06": 142809,
-  "2023-12-07": 142809,
-  "2023-12-08": 142809,
-  "2023-12-09": 142809,
-  "2023-12-10": 142809,
-  "2023-12-11": 142809,
-  "2023-12-12": 142809,
-  "2023-12-13": 142809,
-  "2023-12-14": 144072,
-  "2023-12-15": 144097,
-  "2023-12-16": 144139,
-  "2023-12-17": 144187,
-  "2023-12-18": 144216,
-  "2023-12-19": 144255,
-  "2023-12-20": 144303,
-  "2023-12-21": 144334,
-  "2023-12-22": 144384,
-  "2023-12-23": 144422,
-  "2023-12-24": 144469,
-  "2023-12-25": 144511,
-  "2023-12-26": 144544,
-  "2023-12-27": 144580,
-  "2023-12-30": 144714,
-  "2023-12-31": 144780,
-  "2024-01-01": 144815,
-  "2024-01-02": 144846,
-  "2024-01-03": 144879
+  "2024-01-17": 145294,
+  "date_first_scraped": "2022-08-06",
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "name": "This Is Stevie Ray Vaughan",
+  "tracks": [
+    {
+      "album": {
+        "name": "Live At Montreux 1982 & 1985",
+        "url": "https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384506,
+      "name": "Ain't Gone 'N' Give up on Love - Live at Montreux Casino, Montreux, Switzerland - July 1985",
+      "url": "https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1"
+    },
+    {
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 427066,
+      "name": "Albert's Shuffle - Live",
+      "url": "https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 910573,
+      "name": "Blues At Sunrise",
+      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+    },
+    {
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
+    },
+    {
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 332840,
+      "name": "C.O.D. - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/03OGCewZ3ZeyZNAzNkZSKo"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Change It",
+      "url": "https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt"
+    },
+    {
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+    },
+    {
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/0jlLHrrb4aR9evd3ZwNs5I"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 537226,
+      "name": "Don't Lie To Me",
+      "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
+    },
+    {
+      "album": {
+        "name": "Famous Blue Raincoat: 20th Anniversary Edition (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/3658N94yX3heWmnz4BToOA"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "First We Take Manhattan - Digitally Remastered",
+      "url": "https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
+    },
+    {
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 327986,
+      "name": "Goin' Down - Live",
+      "url": "https://open.spotify.com/track/6gAmnT5I6MCFQPbp1ghZ1o"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 184826,
+      "name": "Gone Home",
+      "url": "https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0W4EvXCjLH6OQjtDVzdPWg"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 223586,
+      "name": "I'm Cryin'",
+      "url": "https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn"
+    },
+    {
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+    },
+    {
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 311200,
+      "name": "Iced Over - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs"
+    },
+    {
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 353333,
+      "name": "In the Open - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/07DsSy1L0z2JsiUfwR0pu7"
+    },
+    {
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 129826,
+      "name": "Intro - Ken Dashow / John Hammond - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/240SjhK6MlhtKUdU7fLBxt"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297373,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx"
+    },
+    {
+      "album": {
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
+    },
+    {
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "Life by the Drop",
+      "url": "https://open.spotify.com/track/1cyftogE58xHzSgb77zcsn"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408480,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
+    },
+    {
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Look at Little Sister",
+      "url": "https://open.spotify.com/track/5He3kbhG04jAioqHVEytHq"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Lookin' out the Window",
+      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Love Me Darlin'",
+      "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/0nFZ2HQRnIxiwraCm2X6Uq"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 459493,
+      "name": "Match Box Blues",
+      "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
+    },
+    {
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348160,
+      "name": "May I Have a Talk with You",
+      "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 75600,
+      "name": "Old Times",
+      "url": "https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0"
+    },
+    {
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333480,
+      "name": "On The Run - Live",
+      "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
+    },
+    {
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 359266,
+      "name": "Pride And Joy",
+      "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528600,
+      "name": "Riviera Paradise",
+      "url": "https://open.spotify.com/track/4LSu0MjxfmqMgEJf4GMnlU"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "Rude Mood",
+      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323560,
+      "name": "Say What!",
+      "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111920,
+      "name": "Scuttle Buttin'",
+      "url": "https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy"
+    },
+    {
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Shake 'N Bake",
+      "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+    },
+    {
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
+    },
+    {
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101973,
+      "name": "Slip Slidin' Slim",
+      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
+    },
+    {
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather",
+        "url": "https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 68373,
+      "name": "SRV Speaks",
+      "url": "https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280826,
+      "name": "Superstition - Live",
+      "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6gp3kYsuZMeXJ7Oemoaups"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214000,
+      "name": "Taxman",
+      "url": "https://open.spotify.com/track/1ItH2kCl27zYWVecyU8NNS"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 167760,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/5c4m2ddmFaGhOnqZqvvnic"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143226,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "The Sky Is Crying - 1984 Version",
+      "url": "https://open.spotify.com/track/0rXcAvuQdrQakSPhIOZ6f8"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278266,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/6pFQLoJefvBCTXtjO2dn4t"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+    },
+    {
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 478746,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
+    },
+    {
+      "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 335400,
+      "name": "Wall of Denial",
+      "url": "https://open.spotify.com/track/02yhpGmQpkuYMDh6BRnDZA"
+    },
+    {
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Wham",
+      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 274800,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/1nwXca4jNGWDpowRQnEiEv"
+    },
+    {
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 223666,
+      "name": "You'll Be Mine",
+      "url": "https://open.spotify.com/track/39XMzGy9hJHGVHgUy8uPhE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4"
 }

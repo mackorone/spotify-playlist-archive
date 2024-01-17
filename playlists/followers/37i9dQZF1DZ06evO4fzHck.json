@@ -1,423 +1,1273 @@
 {
-  "2022-11-05": 421575,
-  "2022-11-06": 421860,
-  "2022-11-07": 422122,
-  "2022-11-08": 422366,
-  "2022-11-09": 422652,
-  "2022-11-10": 422889,
-  "2022-11-11": 423163,
-  "2022-11-12": 423500,
-  "2022-11-13": 423776,
-  "2022-11-14": 424066,
-  "2022-11-15": 424321,
-  "2022-11-16": 424560,
-  "2022-11-17": 424839,
-  "2022-11-18": 424922,
-  "2022-11-19": 424982,
-  "2022-11-20": 425234,
-  "2022-11-21": 425543,
-  "2022-11-22": 425818,
-  "2022-11-23": 426099,
-  "2022-11-24": 426668,
-  "2022-11-25": 427103,
-  "2022-11-26": 427467,
-  "2022-11-27": 427774,
-  "2022-11-28": 428071,
-  "2022-11-29": 428337,
-  "2022-11-30": 428589,
-  "2022-12-01": 428894,
-  "2022-12-02": 429103,
-  "2022-12-03": 429533,
-  "2022-12-04": 429862,
-  "2022-12-05": 430189,
-  "2022-12-06": 430496,
-  "2022-12-07": 430801,
-  "2022-12-08": 431070,
-  "2022-12-09": 431409,
-  "2022-12-10": 431694,
-  "2022-12-11": 431944,
-  "2022-12-12": 432188,
-  "2022-12-13": 432392,
-  "2022-12-14": 432672,
-  "2022-12-15": 432914,
-  "2022-12-16": 433117,
-  "2022-12-17": 433359,
-  "2022-12-18": 433631,
-  "2022-12-19": 433788,
-  "2022-12-20": 434237,
-  "2022-12-21": 434237,
-  "2022-12-22": 434475,
-  "2022-12-24": 434979,
-  "2022-12-25": 435250,
-  "2022-12-26": 435454,
-  "2022-12-27": 435713,
-  "2022-12-28": 435951,
-  "2022-12-29": 436213,
-  "2022-12-30": 436489,
-  "2022-12-31": 436788,
-  "2023-01-01": 437055,
-  "2023-01-02": 437252,
-  "2023-01-03": 437497,
-  "2023-01-04": 437697,
-  "2023-01-05": 437961,
-  "2023-01-06": 438268,
-  "2023-01-07": 438658,
-  "2023-01-08": 438738,
-  "2023-01-09": 438996,
-  "2023-01-10": 439265,
-  "2023-01-11": 439516,
-  "2023-01-12": 439733,
-  "2023-01-13": 439995,
-  "2023-01-14": 440466,
-  "2023-01-15": 440520,
-  "2023-01-16": 440811,
-  "2023-01-17": 441032,
-  "2023-01-18": 441278,
-  "2023-01-19": 441543,
-  "2023-01-20": 441793,
-  "2023-01-21": 442047,
-  "2023-01-22": 442376,
-  "2023-01-23": 442672,
-  "2023-01-24": 442911,
-  "2023-01-25": 443186,
-  "2023-01-26": 443431,
-  "2023-01-27": 443671,
-  "2023-01-28": 443947,
-  "2023-01-29": 444225,
-  "2023-01-30": 444485,
-  "2023-01-31": 444485,
-  "2023-02-01": 444955,
-  "2023-02-02": 445161,
-  "2023-02-03": 445412,
-  "2023-02-04": 445649,
-  "2023-02-05": 445933,
-  "2023-02-06": 446206,
-  "2023-02-07": 446408,
-  "2023-02-08": 446892,
-  "2023-02-09": 446892,
-  "2023-02-10": 447196,
-  "2023-02-11": 447430,
-  "2023-02-12": 447937,
-  "2023-02-13": 448161,
-  "2023-02-14": 448161,
-  "2023-02-15": 448374,
-  "2023-02-16": 448613,
-  "2023-02-17": 448838,
-  "2023-02-18": 449325,
-  "2023-02-19": 449365,
-  "2023-02-20": 449558,
-  "2023-02-21": 449804,
-  "2023-02-22": 450008,
-  "2023-02-23": 450267,
-  "2023-02-24": 450549,
-  "2023-02-25": 450916,
-  "2023-02-26": 451116,
-  "2023-02-27": 451677,
-  "2023-02-28": 451677,
-  "2023-03-01": 451892,
-  "2023-03-02": 452131,
-  "2023-03-03": 452415,
-  "2023-03-04": 452657,
-  "2023-03-05": 453193,
-  "2023-03-06": 453193,
-  "2023-03-07": 453471,
-  "2023-03-08": 453725,
-  "2023-03-09": 453959,
-  "2023-03-10": 454306,
-  "2023-03-11": 454632,
-  "2023-03-12": 454927,
-  "2023-03-13": 455232,
-  "2023-03-14": 455497,
-  "2023-03-15": 455753,
-  "2023-03-16": 455753,
-  "2023-03-17": 455753,
-  "2023-03-18": 456924,
-  "2023-03-19": 456924,
-  "2023-03-20": 457559,
-  "2023-03-21": 457832,
-  "2023-03-22": 458147,
-  "2023-03-23": 458429,
-  "2023-03-24": 458429,
-  "2023-03-25": 459052,
-  "2023-03-26": 459415,
-  "2023-03-27": 459705,
-  "2023-03-28": 459994,
-  "2023-03-29": 460303,
-  "2023-03-30": 460796,
-  "2023-03-31": 460796,
-  "2023-04-01": 461108,
-  "2023-04-02": 461393,
-  "2023-04-03": 461640,
-  "2023-04-04": 461900,
-  "2023-04-05": 462156,
-  "2023-04-06": 462503,
-  "2023-04-07": 462824,
-  "2023-04-09": 463451,
-  "2023-04-10": 463711,
-  "2023-04-11": 464228,
-  "2023-04-12": 464228,
-  "2023-04-13": 464484,
-  "2023-04-14": 464727,
-  "2023-04-15": 465031,
-  "2023-04-16": 465344,
-  "2023-04-17": 465589,
-  "2023-04-18": 465819,
-  "2023-04-19": 466054,
-  "2023-04-20": 466305,
-  "2023-04-21": 466574,
-  "2023-04-22": 466938,
-  "2023-04-23": 467204,
-  "2023-04-24": 467453,
-  "2023-04-25": 467695,
-  "2023-04-26": 467944,
-  "2023-04-27": 468210,
-  "2023-04-28": 468429,
-  "2023-04-29": 468664,
-  "2023-04-30": 468887,
-  "2023-05-01": 469101,
-  "2023-05-02": 469309,
-  "2023-05-03": 469506,
-  "2023-05-04": 469689,
-  "2023-05-05": 469951,
-  "2023-05-06": 470264,
-  "2023-05-07": 470500,
-  "2023-05-08": 470760,
-  "2023-05-09": 470956,
-  "2023-05-10": 471198,
-  "2023-05-11": 471459,
-  "2023-05-12": 471740,
-  "2023-05-13": 472059,
-  "2023-05-14": 472364,
-  "2023-05-15": 472638,
-  "2023-05-16": 472905,
-  "2023-05-17": 473169,
-  "2023-05-18": 473447,
-  "2023-05-19": 473743,
-  "2023-05-20": 474392,
-  "2023-05-21": 474392,
-  "2023-05-22": 474392,
-  "2023-05-23": 474946,
-  "2023-05-24": 475383,
-  "2023-05-25": 475440,
-  "2023-05-26": 475706,
-  "2023-05-27": 476015,
-  "2023-05-28": 476295,
-  "2023-05-29": 476295,
-  "2023-05-30": 476800,
-  "2023-05-31": 477040,
-  "2023-06-01": 477342,
-  "2023-06-02": 477573,
-  "2023-06-03": 477856,
-  "2023-06-04": 478166,
-  "2023-06-05": 478429,
-  "2023-06-06": 478685,
-  "2023-06-07": 479010,
-  "2023-06-08": 479329,
-  "2023-06-09": 479622,
-  "2023-06-10": 479881,
-  "2023-06-11": 480160,
-  "2023-06-12": 480416,
-  "2023-06-13": 480641,
-  "2023-06-14": 480877,
-  "2023-06-15": 481177,
-  "2023-06-16": 481440,
-  "2023-06-17": 481753,
-  "2023-06-18": 482064,
-  "2023-06-19": 482362,
-  "2023-06-20": 482594,
-  "2023-06-21": 482806,
-  "2023-06-22": 483121,
-  "2023-06-23": 483449,
-  "2023-06-24": 483831,
-  "2023-06-25": 484112,
-  "2023-06-26": 484373,
-  "2023-06-27": 484666,
-  "2023-06-28": 484933,
-  "2023-06-29": 485199,
-  "2023-06-30": 485473,
-  "2023-07-01": 485961,
-  "2023-07-02": 485961,
-  "2023-07-03": 486182,
-  "2023-07-04": 486389,
-  "2023-07-05": 486617,
-  "2023-07-06": 487028,
-  "2023-07-07": 487028,
-  "2023-07-08": 487028,
-  "2023-07-09": 487465,
-  "2023-07-10": 487635,
-  "2023-07-11": 487810,
-  "2023-07-12": 487951,
-  "2023-07-13": 488142,
-  "2023-07-14": 488295,
-  "2023-07-15": 488454,
-  "2023-07-16": 488706,
-  "2023-07-17": 488882,
-  "2023-07-18": 489072,
-  "2023-07-19": 489233,
-  "2023-07-20": 489233,
-  "2023-07-21": 489575,
-  "2023-07-22": 489790,
-  "2023-07-23": 489971,
-  "2023-07-24": 490147,
-  "2023-07-25": 490329,
-  "2023-07-26": 490473,
-  "2023-07-27": 490668,
-  "2023-07-28": 490668,
-  "2023-07-29": 491056,
-  "2023-07-30": 491056,
-  "2023-07-31": 491466,
-  "2023-08-01": 491648,
-  "2023-08-02": 491841,
-  "2023-08-03": 492006,
-  "2023-08-04": 492190,
-  "2023-08-05": 492366,
-  "2023-08-06": 492805,
-  "2023-08-07": 492805,
-  "2023-08-08": 492972,
-  "2023-08-09": 493157,
-  "2023-08-10": 493319,
-  "2023-08-11": 493475,
-  "2023-08-12": 493475,
-  "2023-08-13": 493475,
-  "2023-08-14": 493475,
-  "2023-08-15": 493475,
-  "2023-08-16": 493475,
-  "2023-08-17": 493475,
-  "2023-08-18": 493475,
-  "2023-08-19": 493475,
-  "2023-08-20": 495168,
-  "2023-08-21": 495168,
-  "2023-08-22": 495485,
-  "2023-08-23": 495485,
-  "2023-08-24": 495485,
-  "2023-08-25": 495485,
-  "2023-08-26": 496161,
-  "2023-08-27": 496161,
-  "2023-08-28": 496538,
-  "2023-08-29": 496538,
-  "2023-08-30": 496538,
-  "2023-08-31": 497027,
-  "2023-09-01": 497162,
-  "2023-09-02": 497162,
-  "2023-09-03": 497162,
-  "2023-09-04": 497162,
-  "2023-09-05": 497162,
-  "2023-09-06": 497162,
-  "2023-09-07": 497162,
-  "2023-09-08": 497162,
-  "2023-09-09": 497162,
-  "2023-09-10": 497162,
-  "2023-09-11": 497162,
-  "2023-09-12": 497162,
-  "2023-09-13": 497162,
-  "2023-09-14": 497162,
-  "2023-09-15": 497162,
-  "2023-09-16": 497162,
-  "2023-09-17": 497162,
-  "2023-09-18": 497162,
-  "2023-09-19": 497162,
-  "2023-09-20": 497162,
-  "2023-09-21": 497162,
-  "2023-09-22": 500661,
-  "2023-09-23": 500661,
-  "2023-09-24": 500661,
-  "2023-09-25": 500661,
-  "2023-09-26": 501356,
-  "2023-09-27": 501356,
-  "2023-09-28": 501356,
-  "2023-09-29": 501356,
-  "2023-09-30": 501356,
-  "2023-10-01": 501356,
-  "2023-10-02": 501356,
-  "2023-10-03": 501356,
-  "2023-10-04": 501356,
-  "2023-10-05": 501356,
-  "2023-10-06": 501356,
-  "2023-10-07": 501356,
-  "2023-10-08": 501356,
-  "2023-10-09": 501356,
-  "2023-10-10": 501356,
-  "2023-10-11": 501356,
-  "2023-10-12": 501356,
-  "2023-10-13": 501356,
-  "2023-10-14": 501356,
-  "2023-10-15": 501356,
-  "2023-10-16": 501356,
-  "2023-10-17": 501356,
-  "2023-10-18": 501356,
-  "2023-10-19": 501356,
-  "2023-10-20": 501356,
-  "2023-10-21": 501356,
-  "2023-10-22": 501356,
-  "2023-10-23": 501356,
-  "2023-10-24": 501356,
-  "2023-10-25": 501356,
-  "2023-10-26": 501356,
-  "2023-10-27": 501356,
-  "2023-10-28": 501356,
-  "2023-10-29": 501356,
-  "2023-10-30": 501356,
-  "2023-10-31": 501356,
-  "2023-11-01": 501356,
-  "2023-11-02": 501356,
-  "2023-11-03": 501356,
-  "2023-11-04": 501356,
-  "2023-11-05": 501356,
-  "2023-11-06": 501356,
-  "2023-11-07": 501356,
-  "2023-11-08": 501356,
-  "2023-11-09": 501356,
-  "2023-11-10": 501356,
-  "2023-11-11": 508164,
-  "2023-11-12": 508164,
-  "2023-11-13": 508164,
-  "2023-11-14": 508164,
-  "2023-11-15": 508164,
-  "2023-11-16": 508164,
-  "2023-11-17": 508164,
-  "2023-11-18": 508164,
-  "2023-11-19": 508164,
-  "2023-11-20": 508164,
-  "2023-11-21": 508164,
-  "2023-11-22": 508164,
-  "2023-11-23": 508164,
-  "2023-11-24": 508164,
-  "2023-11-25": 508164,
-  "2023-11-26": 508164,
-  "2023-11-27": 508164,
-  "2023-11-28": 508164,
-  "2023-11-29": 508164,
-  "2023-11-30": 508164,
-  "2023-12-01": 508164,
-  "2023-12-02": 508164,
-  "2023-12-03": 508164,
-  "2023-12-04": 508164,
-  "2023-12-05": 508164,
-  "2023-12-06": 508164,
-  "2023-12-07": 508164,
-  "2023-12-08": 508164,
-  "2023-12-09": 508164,
-  "2023-12-10": 508164,
-  "2023-12-11": 508164,
-  "2023-12-12": 508164,
-  "2023-12-13": 508164,
-  "2023-12-14": 514883,
-  "2023-12-15": 514978,
-  "2023-12-16": 515141,
-  "2023-12-17": 515256,
-  "2023-12-18": 515378,
-  "2023-12-19": 515475,
-  "2023-12-20": 515595,
-  "2023-12-21": 515695,
-  "2023-12-22": 515813,
-  "2023-12-23": 515931,
-  "2023-12-24": 516063,
-  "2023-12-25": 516177,
-  "2023-12-26": 516301,
-  "2023-12-27": 516409,
-  "2023-12-30": 516776,
-  "2023-12-31": 516903,
-  "2024-01-01": 517002,
-  "2024-01-02": 517110,
-  "2024-01-03": 517184
+  "2024-01-17": 518510,
+  "date_first_scraped": "2022-11-05",
+  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "name": "This Is The Cure",
+  "tracks": [
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "10:15 Saturday Night",
+      "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
+    },
+    {
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354640,
+      "name": "A Forest",
+      "url": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312240,
+      "name": "A Letter To Elise",
+      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 304640,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 393986,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
+    },
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "album": {
+        "name": "Bestival Live 2011",
+        "url": "https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185389,
+      "name": "Boys Don't Cry (Bestival Live 2011)",
+      "url": "https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl"
+    },
+    {
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
+    },
+    {
+      "album": {
+        "name": "Faith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single Version",
+      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door (Remastered)",
+        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 266573,
+      "name": "Cold - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary)",
+        "url": "https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/1Esj2DJR8Xlxru5RDQtcoP"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/6FMzcxqfyw7LKhgUPd3JWf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Cut Here",
+      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499853,
+      "name": "Disintegration - Remastered",
+      "url": "https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary)",
+        "url": "https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 520159,
+      "name": "End - Live In Paris / 1992",
+      "url": "https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315186,
+      "name": "Fascination Street - Remastered",
+      "url": "https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv"
+    },
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Fire In Cairo",
+      "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460293,
+      "name": "From The Edge Of The Deep Green Sea",
+      "url": "https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP"
+    },
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "Grinding Halt",
+      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Hot Hot Hot!!!",
+      "url": "https://open.spotify.com/track/0jOsN8OvRV2H5UhrokhRej"
+    },
+    {
+      "album": {
+        "name": "Anniversary: 1978 - 2018 Live In Hyde Park London",
+        "url": "https://open.spotify.com/album/3rK1q79KbTporCJVvbMNUX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 313880,
+      "name": "If Only Tonight We Could Sleep - Live",
+      "url": "https://open.spotify.com/track/2fqKtoic5F3mJW5JpnVScF"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
+    },
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Jumping Someone Else's Train",
+      "url": "https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
+    },
+    {
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141800,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283880,
+      "name": "Last Dance - Remastered",
+      "url": "https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "Let's Go To Bed",
+      "url": "https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Lovesong - Remastered",
+      "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248186,
+      "name": "Lullaby - Remastered",
+      "url": "https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE"
+    },
+    {
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "M",
+      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
+    },
+    {
+      "album": {
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306186,
+      "name": "Maybe Someday",
+      "url": "https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj"
+    },
+    {
+      "album": {
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Mint Car",
+      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 170720,
+      "name": "Miss Van Gogh - Instrumental Demo",
+      "url": "https://open.spotify.com/track/1XLLp6Kmlffuqp13rQKUHQ"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399866,
+      "name": "One Hundred Years",
+      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 401000,
+      "name": "One Hundred Years - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6o8bpkuFMRS2b25Vui9aDC"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/2ePzzwdioJqP6RsYMSMnlt"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 271693,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/7kcScp6Wrtm39tsUB4AmRn"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 410360,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/21BxZ4jL908jasBK4t1HqU"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 317346,
+      "name": "Plainsong - 2010 Remaster",
+      "url": "https://open.spotify.com/track/76rfUs6iZBa3OCf8tCBn27"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+    },
+    {
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367426,
+      "name": "Prayers For Rain - Remastered",
+      "url": "https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
+    },
+    {
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271293,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+    },
+    {
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 271293,
+      "name": "Push - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3oP4cJTo55Wc07vqoix8Z9"
+    },
+    {
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Six Different Ways - 2006 Remaster",
+      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 280306,
+      "name": "The Big Hand - 1990 Demo",
+      "url": "https://open.spotify.com/track/2Uj46H1Rj1zVKJY1U8gZZE"
+    },
+    {
+      "album": {
+        "name": "The Top (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "The Caterpillar",
+      "url": "https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX"
+    },
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "The Hanging Garden",
+      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
+    },
+    {
+      "album": {
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335746,
+      "name": "The Last Day Of Summer",
+      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 210146,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/3YjrW1eYPTtcDwfGyDwdtn"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Mark Saunders",
+          "url": "https://open.spotify.com/artist/3QoHE4hN2waHD2jELo0x9N"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/3Q7LdGxZZ5bao5mMu0wcqX"
+    },
+    {
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys",
+      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279826,
+      "name": "To Wish Impossible Things",
+      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
+    },
+    {
+      "album": {
+        "name": "4:13 Dream",
+        "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376586,
+      "name": "Underneath The Stars",
+      "url": "https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR"
+    },
+    {
+      "album": {
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/69XNTota6w88wrLZt4AX9n"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 306533,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4oFTz4lmtWtzURGJzWqdIX"
+    },
+    {
+      "album": {
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 307333,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/3sig1llmylqwzF6CXKJBcc"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/2ePzzwdioJqP6RsYMSMnlt"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 193200,
+      "name": "Why Can't I Be You?",
+      "url": "https://open.spotify.com/track/4yvLuzn3JWfasEnHFVBbdM"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Why Can't I Be You?",
+      "url": "https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL"
+    },
+    {
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 194133,
+      "name": "Why Can't I Be You?",
+      "url": "https://open.spotify.com/track/3RcrFgETR1QGjzV6ZzIRBy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck"
 }

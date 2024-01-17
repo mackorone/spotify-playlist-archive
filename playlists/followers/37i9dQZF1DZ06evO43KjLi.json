@@ -1,298 +1,755 @@
 {
-  "2023-03-11": 16970,
-  "2023-03-12": 16979,
-  "2023-03-13": 16986,
-  "2023-03-14": 16993,
-  "2023-03-15": 17000,
-  "2023-03-16": 17000,
-  "2023-03-17": 17000,
-  "2023-03-18": 17039,
-  "2023-03-19": 17039,
-  "2023-03-20": 17057,
-  "2023-03-21": 17063,
-  "2023-03-22": 17072,
-  "2023-03-23": 17083,
-  "2023-03-24": 17083,
-  "2023-03-25": 17114,
-  "2023-03-26": 17124,
-  "2023-03-27": 17135,
-  "2023-03-28": 17141,
-  "2023-03-29": 17159,
-  "2023-03-30": 17180,
-  "2023-03-31": 17180,
-  "2023-04-01": 17199,
-  "2023-04-02": 17209,
-  "2023-04-03": 17218,
-  "2023-04-04": 17228,
-  "2023-04-05": 17232,
-  "2023-04-06": 17249,
-  "2023-04-07": 17264,
-  "2023-04-09": 17282,
-  "2023-04-10": 17290,
-  "2023-04-11": 17314,
-  "2023-04-12": 17314,
-  "2023-04-13": 17324,
-  "2023-04-14": 17342,
-  "2023-04-15": 17344,
-  "2023-04-16": 17354,
-  "2023-04-17": 17357,
-  "2023-04-18": 17365,
-  "2023-04-19": 17372,
-  "2023-04-20": 17377,
-  "2023-04-21": 17390,
-  "2023-04-22": 17399,
-  "2023-04-23": 17407,
-  "2023-04-24": 17410,
-  "2023-04-25": 17416,
-  "2023-04-26": 17429,
-  "2023-04-27": 17445,
-  "2023-04-28": 17462,
-  "2023-04-29": 17476,
-  "2023-04-30": 17487,
-  "2023-05-01": 17495,
-  "2023-05-02": 17501,
-  "2023-05-03": 17519,
-  "2023-05-04": 17530,
-  "2023-05-05": 17537,
-  "2023-05-06": 17548,
-  "2023-05-07": 17551,
-  "2023-05-08": 17562,
-  "2023-05-09": 17573,
-  "2023-05-10": 17582,
-  "2023-05-11": 17590,
-  "2023-05-12": 17600,
-  "2023-05-13": 17616,
-  "2023-05-14": 17625,
-  "2023-05-15": 17638,
-  "2023-05-16": 17640,
-  "2023-05-17": 17649,
-  "2023-05-18": 17658,
-  "2023-05-19": 17672,
-  "2023-05-20": 17690,
-  "2023-05-21": 17690,
-  "2023-05-22": 17690,
-  "2023-05-23": 17703,
-  "2023-05-24": 17715,
-  "2023-05-25": 17718,
-  "2023-05-26": 17731,
-  "2023-05-27": 17737,
-  "2023-05-28": 17743,
-  "2023-05-29": 17743,
-  "2023-05-30": 17759,
-  "2023-05-31": 17771,
-  "2023-06-01": 17789,
-  "2023-06-02": 17799,
-  "2023-06-03": 17811,
-  "2023-06-04": 17826,
-  "2023-06-05": 17826,
-  "2023-06-06": 17832,
-  "2023-06-07": 17850,
-  "2023-06-08": 17865,
-  "2023-06-09": 17878,
-  "2023-06-10": 17896,
-  "2023-06-11": 17905,
-  "2023-06-12": 17917,
-  "2023-06-13": 17929,
-  "2023-06-14": 17938,
-  "2023-06-15": 17950,
-  "2023-06-16": 17954,
-  "2023-06-17": 17964,
-  "2023-06-18": 17968,
-  "2023-06-19": 17979,
-  "2023-06-20": 17991,
-  "2023-06-21": 18000,
-  "2023-06-22": 18003,
-  "2023-06-23": 18015,
-  "2023-06-24": 18029,
-  "2023-06-25": 18047,
-  "2023-06-26": 18058,
-  "2023-06-27": 18072,
-  "2023-06-28": 18081,
-  "2023-06-29": 18093,
-  "2023-06-30": 18099,
-  "2023-07-01": 18124,
-  "2023-07-02": 18124,
-  "2023-07-03": 18131,
-  "2023-07-04": 18144,
-  "2023-07-05": 18155,
-  "2023-07-06": 18176,
-  "2023-07-07": 18176,
-  "2023-07-08": 18176,
-  "2023-07-09": 18188,
-  "2023-07-10": 18190,
-  "2023-07-11": 18198,
-  "2023-07-12": 18206,
-  "2023-07-13": 18214,
-  "2023-07-14": 18224,
-  "2023-07-15": 18235,
-  "2023-07-16": 18257,
-  "2023-07-17": 18268,
-  "2023-07-18": 18276,
-  "2023-07-19": 18278,
-  "2023-07-20": 18278,
-  "2023-07-21": 18299,
-  "2023-07-22": 18307,
-  "2023-07-23": 18313,
-  "2023-07-24": 18330,
-  "2023-07-25": 18343,
-  "2023-07-26": 18357,
-  "2023-07-27": 18364,
-  "2023-07-28": 18364,
-  "2023-07-29": 18392,
-  "2023-07-30": 18392,
-  "2023-07-31": 18421,
-  "2023-08-01": 18433,
-  "2023-08-02": 18444,
-  "2023-08-03": 18447,
-  "2023-08-04": 18459,
-  "2023-08-05": 18466,
-  "2023-08-06": 18478,
-  "2023-08-07": 18478,
-  "2023-08-08": 18487,
-  "2023-08-09": 18503,
-  "2023-08-10": 18510,
-  "2023-08-11": 18521,
-  "2023-08-12": 18521,
-  "2023-08-13": 18521,
-  "2023-08-14": 18521,
-  "2023-08-15": 18521,
-  "2023-08-16": 18521,
-  "2023-08-17": 18521,
-  "2023-08-18": 18521,
-  "2023-08-19": 18521,
-  "2023-08-20": 18624,
-  "2023-08-21": 18624,
-  "2023-08-22": 18665,
-  "2023-08-23": 18665,
-  "2023-08-24": 18665,
-  "2023-08-25": 18665,
-  "2023-08-26": 18727,
-  "2023-08-27": 18727,
-  "2023-08-28": 18758,
-  "2023-08-29": 18758,
-  "2023-08-30": 18758,
-  "2023-08-31": 18784,
-  "2023-09-01": 18791,
-  "2023-09-02": 18791,
-  "2023-09-03": 18791,
-  "2023-09-04": 18791,
-  "2023-09-05": 18791,
-  "2023-09-06": 18791,
-  "2023-09-07": 18791,
-  "2023-09-08": 18791,
-  "2023-09-09": 18791,
-  "2023-09-10": 18791,
-  "2023-09-11": 18791,
-  "2023-09-12": 18791,
-  "2023-09-13": 18791,
-  "2023-09-14": 18791,
-  "2023-09-15": 18791,
-  "2023-09-16": 18952,
-  "2023-09-17": 18952,
-  "2023-09-18": 18952,
-  "2023-09-19": 18952,
-  "2023-09-20": 18952,
-  "2023-09-21": 18952,
-  "2023-09-22": 19028,
-  "2023-09-23": 19028,
-  "2023-09-24": 19028,
-  "2023-09-25": 19028,
-  "2023-09-26": 19076,
-  "2023-09-27": 19076,
-  "2023-09-28": 19076,
-  "2023-09-29": 19076,
-  "2023-09-30": 19076,
-  "2023-10-01": 19076,
-  "2023-10-02": 19076,
-  "2023-10-03": 19076,
-  "2023-10-04": 19076,
-  "2023-10-05": 19076,
-  "2023-10-06": 19076,
-  "2023-10-07": 19076,
-  "2023-10-08": 19076,
-  "2023-10-09": 19076,
-  "2023-10-10": 19076,
-  "2023-10-11": 19076,
-  "2023-10-12": 19076,
-  "2023-10-13": 19076,
-  "2023-10-14": 19076,
-  "2023-10-15": 19076,
-  "2023-10-16": 19076,
-  "2023-10-17": 19076,
-  "2023-10-18": 19076,
-  "2023-10-19": 19076,
-  "2023-10-20": 19076,
-  "2023-10-21": 19076,
-  "2023-10-22": 19076,
-  "2023-10-23": 19076,
-  "2023-10-24": 19076,
-  "2023-10-25": 19076,
-  "2023-10-26": 19076,
-  "2023-10-27": 19076,
-  "2023-10-28": 19076,
-  "2023-10-29": 19076,
-  "2023-10-30": 19076,
-  "2023-10-31": 19076,
-  "2023-11-01": 19076,
-  "2023-11-02": 19076,
-  "2023-11-03": 19076,
-  "2023-11-04": 19076,
-  "2023-11-05": 19076,
-  "2023-11-06": 19076,
-  "2023-11-07": 19076,
-  "2023-11-08": 19076,
-  "2023-11-09": 19076,
-  "2023-11-10": 19076,
-  "2023-11-11": 19570,
-  "2023-11-12": 19570,
-  "2023-11-13": 19570,
-  "2023-11-14": 19570,
-  "2023-11-15": 19570,
-  "2023-11-16": 19570,
-  "2023-11-17": 19570,
-  "2023-11-18": 19570,
-  "2023-11-19": 19570,
-  "2023-11-20": 19570,
-  "2023-11-21": 19570,
-  "2023-11-22": 19570,
-  "2023-11-23": 19570,
-  "2023-11-24": 19570,
-  "2023-11-25": 19570,
-  "2023-11-26": 19570,
-  "2023-11-27": 19570,
-  "2023-11-28": 19570,
-  "2023-11-29": 19570,
-  "2023-11-30": 19570,
-  "2023-12-01": 19570,
-  "2023-12-02": 19570,
-  "2023-12-03": 19570,
-  "2023-12-04": 19570,
-  "2023-12-05": 19570,
-  "2023-12-06": 19570,
-  "2023-12-07": 19570,
-  "2023-12-08": 19570,
-  "2023-12-09": 19570,
-  "2023-12-10": 19570,
-  "2023-12-11": 19570,
-  "2023-12-12": 19570,
-  "2023-12-13": 19570,
-  "2023-12-14": 19843,
-  "2023-12-15": 19848,
-  "2023-12-16": 19852,
-  "2023-12-17": 19853,
-  "2023-12-18": 19863,
-  "2023-12-19": 19873,
-  "2023-12-20": 19882,
-  "2023-12-21": 19883,
-  "2023-12-22": 19890,
-  "2023-12-23": 19896,
-  "2023-12-24": 19910,
-  "2023-12-25": 19916,
-  "2023-12-26": 19920,
-  "2023-12-27": 19928,
-  "2023-12-30": 19947,
-  "2023-12-31": 19958,
-  "2024-01-01": 19965,
-  "2024-01-02": 19974,
-  "2024-01-03": 19980
+  "2024-01-17": 20055,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
+  "name": "This Is Esteban Gabriel",
+  "tracks": [
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155588,
+      "name": "454",
+      "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
+    },
+    {
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162389,
+      "name": "5 Estrellas - En Vivo",
+      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205624,
+      "name": "Aqui Se Acaba Todo",
+      "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
+    },
+    {
+      "album": {
+        "name": "Bajo Efecto Del Alcohol",
+        "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Bajo Efecto Del Alcohol",
+      "url": "https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6"
+    },
+    {
+      "album": {
+        "name": "Buen Ejemplo",
+        "url": "https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Figueroa",
+          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205796,
+      "name": "Buen Ejemplo",
+      "url": "https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe"
+    },
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183871,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
+    },
+    {
+      "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216463,
+      "name": "Con Un Presidente",
+      "url": "https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135441,
+      "name": "Diablitos",
+      "url": "https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR"
+    },
+    {
+      "album": {
+        "name": "En Mis Dedos un Gallito",
+        "url": "https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "En Mis Dedos un Gallito",
+      "url": "https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170747,
+      "name": "Es Prohibido",
+      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
+    },
+    {
+      "album": {
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
+    },
+    {
+      "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122111,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
+    },
+    {
+      "album": {
+        "name": "Hoy Estamos Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Sfv1dYeT15BixCWHUSPgD"
+      },
+      "artists": [
+        {
+          "name": "LIL Mexico",
+          "url": "https://open.spotify.com/artist/2LEvYxGrWlnfqiKoqVcwi6"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143530,
+      "name": "Hoy Estamos Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2asBtHvhInFczfb4mMv3Iu"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152525,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/453sDOvAWU4QVvGegD46du"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177205,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Maryjane y Blancanieves",
+      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
+    },
+    {
+      "album": {
+        "name": "Me Ven Manejando",
+        "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205538,
+      "name": "Me Ven Manejando",
+      "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
+    },
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Mi Reyna",
+      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
+    },
+    {
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
+    },
+    {
+      "album": {
+        "name": "Morro Loco",
+        "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191944,
+      "name": "Morro Loco",
+      "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+    },
+    {
+      "album": {
+        "name": "Noche de Desmadre",
+        "url": "https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159738,
+      "name": "Noche de Desmadre",
+      "url": "https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG"
+    },
+    {
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141781,
+      "name": "Otra Noche Mas - En Vivo",
+      "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Piel de Seda",
+      "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
+    },
+    {
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188736,
+      "name": "Por las Ma\u00f1anas - En Vivo",
+      "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
+    },
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
+    },
+    {
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194793,
+      "name": "Sigue Vivo",
+      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
+    },
+    {
+      "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+    },
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208988,
+      "name": "Te Busque",
+      "url": "https://open.spotify.com/track/4RNBrR5tmuZKSAdNo9w5ht"
+    },
+    {
+      "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+    },
+    {
+      "album": {
+        "name": "Corridos Tumbados Vol. 2",
+        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156661,
+      "name": "Tirando La H",
+      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
+    },
+    {
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Todos los Dias - En Vivo",
+      "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
+    },
+    {
+      "album": {
+        "name": "Traguitos De Mezcal",
+        "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
+      },
+      "artists": [
+        {
+          "name": "Nueva Esencia",
+          "url": "https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159900,
+      "name": "Traguitos De Mezcal",
+      "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
+    },
+    {
+      "album": {
+        "name": "Tres Rayas",
+        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184168,
+      "name": "Tres Rayas",
+      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
+    },
+    {
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220570,
+      "name": "Videos y Fotos",
+      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
+    },
+    {
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203104,
+      "name": "Zumbando Terrenos",
+      "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO43KjLi"
 }

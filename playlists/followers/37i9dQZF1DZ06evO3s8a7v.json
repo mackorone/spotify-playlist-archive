@@ -1,54 +1,1131 @@
 {
-  "2023-11-11": 34071,
-  "2023-11-12": 34071,
-  "2023-11-13": 34071,
-  "2023-11-14": 34071,
-  "2023-11-15": 34071,
-  "2023-11-16": 34071,
-  "2023-11-17": 34071,
-  "2023-11-18": 34071,
-  "2023-11-19": 34071,
-  "2023-11-20": 34071,
-  "2023-11-21": 34071,
-  "2023-11-22": 34071,
-  "2023-11-23": 34071,
-  "2023-11-24": 34071,
-  "2023-11-25": 34071,
-  "2023-11-26": 34071,
-  "2023-11-27": 34071,
-  "2023-11-28": 34071,
-  "2023-11-29": 34071,
-  "2023-11-30": 34071,
-  "2023-12-01": 34071,
-  "2023-12-02": 34071,
-  "2023-12-03": 34071,
-  "2023-12-04": 34071,
-  "2023-12-05": 34071,
-  "2023-12-06": 34071,
-  "2023-12-07": 34071,
-  "2023-12-08": 34071,
-  "2023-12-09": 34071,
-  "2023-12-10": 34071,
-  "2023-12-11": 34071,
-  "2023-12-12": 34071,
-  "2023-12-13": 34071,
-  "2023-12-14": 35067,
-  "2023-12-15": 35092,
-  "2023-12-16": 35110,
-  "2023-12-17": 35139,
-  "2023-12-18": 35160,
-  "2023-12-19": 35185,
-  "2023-12-20": 35210,
-  "2023-12-21": 35249,
-  "2023-12-22": 35276,
-  "2023-12-23": 35329,
-  "2023-12-24": 35392,
-  "2023-12-25": 35426,
-  "2023-12-26": 35455,
-  "2023-12-27": 35484,
-  "2023-12-30": 35598,
-  "2023-12-31": 35629,
-  "2024-01-01": 35671,
-  "2024-01-02": 35693,
-  "2024-01-03": 35731
+  "2024-01-17": 36207,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is MYA. The essential tracks, all in one playlist.",
+  "name": "This Is MYA",
+  "tracks": [
+    {
+      "album": {
+        "name": "25 NOCHES (feat. Abraham Mateo)",
+        "url": "https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "25 NOCHES (feat. Abraham Mateo)",
+      "url": "https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A"
+    },
+    {
+      "album": {
+        "name": "250X",
+        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137293,
+      "name": "250X",
+      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
+    },
+    {
+      "album": {
+        "name": "2:50",
+        "url": "https://open.spotify.com/album/2mRxKQgVJXjIz7YNu7E7re"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "2:50",
+      "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
+    },
+    {
+      "album": {
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "4 Meses",
+      "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
+    },
+    {
+      "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148184,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ"
+    },
+    {
+      "album": {
+        "name": "Amarte As\u00ed",
+        "url": "https://open.spotify.com/album/1emxnc3NCP7GvPuqlZAiwE"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/40ex6T5HA2iRU6PDA3qoUN"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/2IX5QGaqanqswJATMe11Cq"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211584,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1oXcxpTLTHOsaW0XmzSxCc"
+    },
+    {
+      "album": {
+        "name": "Apenas Son Las 12",
+        "url": "https://open.spotify.com/album/4yOjVLHlGIW6UD195bsUqN"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178851,
+      "name": "Apenas Son Las 12",
+      "url": "https://open.spotify.com/track/1y4fiS3YGivkzD9JPySuEA"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156325,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
+    },
+    {
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
+    },
+    {
+      "album": {
+        "name": "Bronceado (Remix)",
+        "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Bronceado - Remix",
+      "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
+    },
+    {
+      "album": {
+        "name": "Calle 2 (Remix)",
+        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Coscu",
+          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Calle 2 - Remix",
+      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "Cobardes",
+      "url": "https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU"
+    },
+    {
+      "album": {
+        "name": "Como + Nadie",
+        "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "Como + Nadie",
+      "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Guerrero (En Vivo)",
+        "url": "https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186004,
+      "name": "Coraz\u00f3n Guerrero (En Vivo)",
+      "url": "https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303015,
+      "name": "Coraz\u00f3n Guerrero (Vivo en Buenos Aires)",
+      "url": "https://open.spotify.com/track/0lRZUkHlPqXjDsyapmPbsX"
+    },
+    {
+      "album": {
+        "name": "Desbloqueo",
+        "url": "https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192732,
+      "name": "Desbloqueo",
+      "url": "https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w"
+    },
+    {
+      "album": {
+        "name": "D\u00eda y Noche",
+        "url": "https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "D\u00eda y Noche",
+      "url": "https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/481GrNpsZ4fKzykR8FRxMi"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166833,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1sOQKZHaEo2SKzVfUqMriM"
+    },
+    {
+      "album": {
+        "name": "Fuiste M\u00eda",
+        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224098,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
+    },
+    {
+      "album": {
+        "name": "HISTERIQUEO",
+        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205809,
+      "name": "HISTERIQUEO",
+      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
+    },
+    {
+      "album": {
+        "name": "Insta (Remix)",
+        "url": "https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206772,
+      "name": "Insta - Remix",
+      "url": "https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165647,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6lobzm99pbHbAadY6VdMgd"
+    },
+    {
+      "album": {
+        "name": "Lado Triste (Remix)",
+        "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167038,
+      "name": "Lado Triste - Remix",
+      "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "album": {
+        "name": "Legendaria",
+        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179349,
+      "name": "Legendaria",
+      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
+    },
+    {
+      "album": {
+        "name": "Lejos (REMIX)",
+        "url": "https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I"
+      },
+      "artists": [
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190861,
+      "name": "Lejos - REMIX",
+      "url": "https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb"
+    },
+    {
+      "album": {
+        "name": "Loco por Ti",
+        "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194674,
+      "name": "Loco por Ti",
+      "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
+    },
+    {
+      "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "album": {
+        "name": "Indiscutibles",
+        "url": "https://open.spotify.com/album/0d7QAQ5aAXy74LiPFkWLBH"
+      },
+      "artists": [
+        {
+          "name": "Adexe & Nau",
+          "url": "https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169706,
+      "name": "Me Provoca",
+      "url": "https://open.spotify.com/track/4DLcXPP3FJ7FCyDWUCqOLM"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P1: Chanel de Coco",
+        "url": "https://open.spotify.com/album/6nHqLPHzm3hCdj7ptJArlZ"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209725,
+      "name": "MYA LIVE P1: Chanel de Coco",
+      "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+      "url": "https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P4: Prisionero",
+        "url": "https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177924,
+      "name": "MYA LIVE P4: Prisionero",
+      "url": "https://open.spotify.com/track/6QOrQAXGNn82dQd5tOCtTA"
+    },
+    {
+      "album": {
+        "name": "No Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171816,
+      "name": "No Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6CMH3PlVAObXs4aHHR4Hu8"
+    },
+    {
+      "album": {
+        "name": "Nunca Soltamos",
+        "url": "https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198353,
+      "name": "Nunca Soltamos",
+      "url": "https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165364,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Pi\u00e9nsalo (feat. Rombai)",
+      "url": "https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u"
+    },
+    {
+      "album": {
+        "name": "Suelta, Sola y Tranquila REMIX",
+        "url": "https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm"
+      },
+      "artists": [
+        {
+          "name": "FABRO",
+          "url": "https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202282,
+      "name": "Suelta, Sola y Tranquila REMIX",
+      "url": "https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ta Pa Estar",
+      "url": "https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5"
+    },
+    {
+      "album": {
+        "name": "TAZA TAZA",
+        "url": "https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158522,
+      "name": "TAZA TAZA",
+      "url": "https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o :( (feat. MYA & Montano) [Remix]",
+        "url": "https://open.spotify.com/album/2mn3fWHQIVvJULFcxP7lPh"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/1e6sjIgtXbpBtj6LBVBgNh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191153,
+      "name": "Te Extra\u00f1o :( (feat. MYA & Montano) - Remix",
+      "url": "https://open.spotify.com/track/7irS5mNikV0VcUmmPIZX41"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+    },
+    {
+      "album": {
+        "name": "Te Quiero X Eso",
+        "url": "https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Te Quiero X Eso",
+      "url": "https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
+    },
+    {
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT"
+    },
+    {
+      "album": {
+        "name": "SUENA MYA!",
+        "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163170,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk"
+    },
+    {
+      "album": {
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Guerrero / Universo Paralelo (Vivo en Buenos Aires)",
+        "url": "https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272551,
+      "name": "Universo Paralelo (Vivo en Buenos Aires) (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ"
+    },
+    {
+      "album": {
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v"
 }

@@ -1,246 +1,1009 @@
 {
-  "2023-05-03": 146876,
-  "2023-05-04": 146947,
-  "2023-05-05": 147073,
-  "2023-05-06": 147174,
-  "2023-05-07": 147302,
-  "2023-05-08": 147443,
-  "2023-05-09": 147563,
-  "2023-05-10": 147695,
-  "2023-05-11": 147831,
-  "2023-05-12": 147952,
-  "2023-05-13": 148111,
-  "2023-05-14": 148227,
-  "2023-05-15": 148371,
-  "2023-05-16": 148747,
-  "2023-05-17": 149614,
-  "2023-05-18": 150413,
-  "2023-05-19": 151205,
-  "2023-05-20": 152316,
-  "2023-05-21": 152316,
-  "2023-05-22": 152316,
-  "2023-05-23": 153186,
-  "2023-05-24": 153760,
-  "2023-05-25": 153839,
-  "2023-05-26": 154120,
-  "2023-05-27": 154355,
-  "2023-05-28": 154561,
-  "2023-05-29": 154561,
-  "2023-05-30": 154980,
-  "2023-05-31": 155174,
-  "2023-06-01": 155373,
-  "2023-06-02": 155551,
-  "2023-06-03": 155736,
-  "2023-06-04": 155905,
-  "2023-06-05": 156103,
-  "2023-06-06": 156274,
-  "2023-06-07": 156460,
-  "2023-06-08": 156655,
-  "2023-06-09": 156843,
-  "2023-06-10": 157009,
-  "2023-06-11": 157183,
-  "2023-06-12": 157346,
-  "2023-06-13": 157487,
-  "2023-06-14": 157648,
-  "2023-06-15": 157806,
-  "2023-06-16": 157952,
-  "2023-06-17": 158102,
-  "2023-06-18": 158257,
-  "2023-06-19": 158406,
-  "2023-06-20": 158559,
-  "2023-06-21": 158730,
-  "2023-06-22": 158896,
-  "2023-06-23": 159086,
-  "2023-06-24": 159247,
-  "2023-06-25": 159404,
-  "2023-06-26": 159542,
-  "2023-06-27": 159667,
-  "2023-06-28": 159823,
-  "2023-06-29": 159955,
-  "2023-06-30": 160117,
-  "2023-07-01": 160437,
-  "2023-07-02": 160437,
-  "2023-07-03": 160617,
-  "2023-07-04": 160783,
-  "2023-07-05": 160918,
-  "2023-07-06": 161218,
-  "2023-07-07": 161218,
-  "2023-07-08": 161364,
-  "2023-07-09": 161504,
-  "2023-07-10": 161667,
-  "2023-07-11": 161830,
-  "2023-07-12": 161949,
-  "2023-07-13": 162084,
-  "2023-07-14": 162209,
-  "2023-07-15": 162295,
-  "2023-07-16": 162439,
-  "2023-07-17": 162604,
-  "2023-07-18": 162793,
-  "2023-07-19": 162988,
-  "2023-07-20": 163132,
-  "2023-07-21": 163276,
-  "2023-07-22": 163449,
-  "2023-07-23": 163584,
-  "2023-07-24": 163721,
-  "2023-07-25": 163876,
-  "2023-07-26": 163994,
-  "2023-07-27": 164106,
-  "2023-07-28": 164255,
-  "2023-07-29": 164365,
-  "2023-07-30": 164463,
-  "2023-07-31": 164589,
-  "2023-08-01": 164720,
-  "2023-08-02": 164862,
-  "2023-08-03": 165025,
-  "2023-08-04": 165189,
-  "2023-08-05": 165349,
-  "2023-08-06": 165672,
-  "2023-08-07": 165672,
-  "2023-08-08": 165868,
-  "2023-08-09": 166027,
-  "2023-08-10": 166171,
-  "2023-08-11": 166338,
-  "2023-08-12": 166515,
-  "2023-08-13": 166676,
-  "2023-08-14": 166842,
-  "2023-08-15": 167178,
-  "2023-08-16": 167178,
-  "2023-08-17": 167361,
-  "2023-08-18": 167516,
-  "2023-08-19": 167669,
-  "2023-08-20": 167835,
-  "2023-08-21": 167963,
-  "2023-08-22": 168129,
-  "2023-08-23": 168256,
-  "2023-08-24": 168408,
-  "2023-08-25": 168544,
-  "2023-08-26": 168694,
-  "2023-08-27": 168824,
-  "2023-08-28": 168956,
-  "2023-08-29": 169095,
-  "2023-08-30": 169227,
-  "2023-08-31": 169336,
-  "2023-09-01": 169551,
-  "2023-09-02": 169551,
-  "2023-09-03": 169680,
-  "2023-09-04": 169822,
-  "2023-09-05": 169971,
-  "2023-09-06": 170132,
-  "2023-09-07": 170268,
-  "2023-09-08": 170415,
-  "2023-09-09": 170554,
-  "2023-09-10": 170708,
-  "2023-09-11": 170924,
-  "2023-09-12": 171138,
-  "2023-09-13": 171334,
-  "2023-09-14": 171627,
-  "2023-09-15": 172116,
-  "2023-09-16": 172512,
-  "2023-09-17": 172799,
-  "2023-09-18": 173111,
-  "2023-09-19": 173388,
-  "2023-09-20": 173607,
-  "2023-09-21": 173787,
-  "2023-09-22": 174060,
-  "2023-09-23": 174276,
-  "2023-09-24": 174472,
-  "2023-09-25": 174649,
-  "2023-09-26": 174887,
-  "2023-09-27": 175007,
-  "2023-09-28": 175221,
-  "2023-09-29": 175479,
-  "2023-09-30": 175736,
-  "2023-10-01": 175975,
-  "2023-10-02": 176234,
-  "2023-10-03": 176440,
-  "2023-10-04": 176619,
-  "2023-10-05": 176841,
-  "2023-10-06": 177030,
-  "2023-10-07": 177265,
-  "2023-10-08": 177434,
-  "2023-10-09": 177626,
-  "2023-10-10": 177747,
-  "2023-10-11": 178093,
-  "2023-10-12": 178093,
-  "2023-10-13": 178258,
-  "2023-10-14": 178429,
-  "2023-10-15": 178569,
-  "2023-10-16": 178761,
-  "2023-10-17": 178905,
-  "2023-10-18": 179047,
-  "2023-10-19": 179193,
-  "2023-10-20": 179344,
-  "2023-10-21": 179477,
-  "2023-10-22": 179632,
-  "2023-10-23": 179815,
-  "2023-10-24": 179965,
-  "2023-10-25": 180130,
-  "2023-10-26": 180304,
-  "2023-10-27": 180460,
-  "2023-10-28": 180608,
-  "2023-10-29": 180793,
-  "2023-10-30": 181147,
-  "2023-10-31": 181147,
-  "2023-11-01": 181279,
-  "2023-11-02": 181399,
-  "2023-11-03": 181566,
-  "2023-11-04": 181722,
-  "2023-11-05": 181907,
-  "2023-11-06": 182104,
-  "2023-11-07": 182267,
-  "2023-11-08": 182424,
-  "2023-11-09": 182632,
-  "2023-11-10": 182790,
-  "2023-11-11": 182944,
-  "2023-11-12": 183067,
-  "2023-11-13": 183231,
-  "2023-11-14": 183346,
-  "2023-11-15": 183346,
-  "2023-11-16": 183601,
-  "2023-11-17": 183888,
-  "2023-11-18": 183888,
-  "2023-11-19": 184017,
-  "2023-11-20": 184172,
-  "2023-11-21": 184304,
-  "2023-11-22": 184453,
-  "2023-11-23": 184594,
-  "2023-11-24": 184742,
-  "2023-11-25": 184882,
-  "2023-11-26": 185030,
-  "2023-11-27": 185162,
-  "2023-11-28": 185337,
-  "2023-11-29": 185685,
-  "2023-11-30": 185685,
-  "2023-12-01": 185980,
-  "2023-12-02": 186200,
-  "2023-12-03": 186367,
-  "2023-12-04": 186571,
-  "2023-12-05": 186751,
-  "2023-12-06": 186899,
-  "2023-12-07": 187059,
-  "2023-12-08": 187207,
-  "2023-12-09": 187413,
-  "2023-12-10": 187560,
-  "2023-12-11": 187741,
-  "2023-12-12": 187893,
-  "2023-12-13": 188085,
-  "2023-12-14": 188275,
-  "2023-12-15": 188363,
-  "2023-12-16": 188487,
-  "2023-12-17": 188644,
-  "2023-12-18": 188782,
-  "2023-12-19": 188919,
-  "2023-12-20": 189086,
-  "2023-12-21": 189256,
-  "2023-12-22": 189406,
-  "2023-12-23": 189571,
-  "2023-12-24": 189711,
-  "2023-12-25": 189831,
-  "2023-12-26": 189945,
-  "2023-12-27": 190101,
-  "2023-12-30": 190526,
-  "2023-12-31": 190641,
-  "2024-01-01": 190749,
-  "2024-01-02": 190881,
-  "2024-01-03": 190999
+  "2024-01-17": 192985,
+  "date_first_scraped": "2023-05-03",
+  "description": "Wrench your heart out with NIKI but she's letting go",
+  "name": "This is NIKI",
+  "tracks": [
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Always Rising",
+      "url": "https://open.spotify.com/track/7m4xUEEivwPGz4U0TA1TWD"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183546,
+      "name": "Around",
+      "url": "https://open.spotify.com/track/6tv9CzrMUHQFrm9VHHO1hv"
+    },
+    {
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF"
+    },
+    {
+      "album": {
+        "name": "California (feat. Jackson Wang & Warren Hue) [Remix]",
+        "url": "https://open.spotify.com/album/2gg6B0XKlAW0XwIMIrwk2n"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273927,
+      "name": "California (feat. Jackson Wang & Warren Hue) - [Remix]",
+      "url": "https://open.spotify.com/track/1SZcEr3Wo7vvK4UUn3bi8v"
+    },
+    {
+      "album": {
+        "name": "California (feat. Warren Hue)",
+        "url": "https://open.spotify.com/album/2gCRiVJ8w6f64f2rtb3TAD"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230395,
+      "name": "California (feat. Warren Hue)",
+      "url": "https://open.spotify.com/track/3Qj2f7BrpJNGj3dbxKpOlp"
+    },
+    {
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
+    },
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Clocked Out!",
+      "url": "https://open.spotify.com/track/4aZXxStzucuminkE8up916"
+    },
+    {
+      "album": {
+        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
+        "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210019,
+      "name": "COMING HOME (feat. NIKI)",
+      "url": "https://open.spotify.com/track/3hfRucio8TtptNiHFmBCOq"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Dancing With The Devil",
+      "url": "https://open.spotify.com/track/6sjlDvvIQskeRtipoastyN"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/6dB4Y5ydC6cc7jsqr71ip8"
+    },
+    {
+      "album": {
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/7lIManImBDxFptYJylm8mB"
+      },
+      "artists": [
+        {
+          "name": "End of the World",
+          "url": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176186,
+      "name": "Forever (feat. NIKI)",
+      "url": "https://open.spotify.com/track/2wyp1XPf7VKe7mTljnsMs8"
+    },
+    {
+      "album": {
+        "name": "Hallway Weather",
+        "url": "https://open.spotify.com/album/2SBsj6Pk4ZCY5lmsWDjjvi"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233673,
+      "name": "Hallway Weather",
+      "url": "https://open.spotify.com/track/0XYC5esjcwkqAYVtPvEUST"
+    },
+    {
+      "album": {
+        "name": "High School in Jakarta",
+        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219036,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
+    },
+    {
+      "album": {
+        "name": "I Like U",
+        "url": "https://open.spotify.com/album/4Hnz0SvIaKVJkuwe93fVy6"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267732,
+      "name": "I Like U",
+      "url": "https://open.spotify.com/track/6f7BE3VcZScJx6n3wsf5Z3"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150295,
+      "name": "I Want In",
+      "url": "https://open.spotify.com/track/5ZaaHM8HRizjncGBAIfK0C"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "If There's Nothing Left...",
+      "url": "https://open.spotify.com/track/5UKViIqKCbWcZnGEALL3GE"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173473,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/349Wc5mDu52d4Uv8Eg9WZv"
+    },
+    {
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192606,
+      "name": "La Cienega",
+      "url": "https://open.spotify.com/track/3iGz75NJkqHubYUMRELLyP"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La La Lost You",
+      "url": "https://open.spotify.com/track/5Htq8DDDN0Xce9MwqzAzui"
+    },
+    {
+      "album": {
+        "name": "NIKI Acoustic Sessions: Head In The Clouds II",
+        "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208510,
+      "name": "La La Lost You - Acoustic Version",
+      "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4Y2V5TihhuWyKGnUzLQEpH"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Little Prince (feat. NIKI)",
+      "url": "https://open.spotify.com/track/3jKJnHixssQxdCShjpirKQ"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256001,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b"
+    },
+    {
+      "album": {
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171355,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
+    },
+    {
+      "album": {
+        "name": "wanna take this downtown?",
+        "url": "https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "move!",
+      "url": "https://open.spotify.com/track/39rYdh4MkbRdoA7jvMUYYN"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "Newsflash!",
+      "url": "https://open.spotify.com/track/4jbA7VSQHZeWLktuUuHWbz"
+    },
+    {
+      "album": {
+        "name": "Five Stars",
+        "url": "https://open.spotify.com/album/3lnH9OOzXwxd8SlYOuJfyK"
+      },
+      "artists": [
+        {
+          "name": "Higher Brothers",
+          "url": "https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "No More (feat. NIKI)",
+      "url": "https://open.spotify.com/track/7lxcmd6V6iFDgtw9urFsGB"
+    },
+    {
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "album": {
+        "name": "wanna take this downtown?",
+        "url": "https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183271,
+      "name": "odds",
+      "url": "https://open.spotify.com/track/6PUtUVzOu0Wj6RvoJKini9"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/3VcvuUeWhOP0LAxtaRpWe5"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138390,
+      "name": "Plans (feat. Vory)",
+      "url": "https://open.spotify.com/track/2W8d6AkRCP2qD89z1zK5MJ"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/2JYYakgDf5R0Ych28NvYkS"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/5wDbCy1UXyCV79jpTm4xyF"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170527,
+      "name": "Poolside Manor",
+      "url": "https://open.spotify.com/track/6XexzlVsjQOuNQ5pcfWOdq"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192453,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/6RwOlJGjOcJavqKxqpYT73"
+    },
+    {
+      "album": {
+        "name": "See U Never",
+        "url": "https://open.spotify.com/album/3ZqxhYWOhGEXYrYUkuflL0"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221620,
+      "name": "See U Never",
+      "url": "https://open.spotify.com/track/5nPdol1JZWJqG4OSHVzSCF"
+    },
+    {
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/098kaaaRAjWOrvoLRQHU2i"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/0h11wE1hTwKMxYd1NACgNb"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195052,
+      "name": "Shouldn't Couldn't Wouldn't",
+      "url": "https://open.spotify.com/track/16ox7ZM0ozbzBOTjFecYuY"
+    },
+    {
+      "album": {
+        "name": "NIKI Acoustic Sessions: Head In The Clouds II",
+        "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Shouldn't Couldn't Wouldn't - Acoustic Version",
+      "url": "https://open.spotify.com/track/6tzaG5ceUaujYRR1pdTZcv"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/2Nle18pvNRfHpO8hmeJQrP"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "Strange Land",
+      "url": "https://open.spotify.com/track/5DrCWAaQ8zklweBa9abFIu"
+    },
+    {
+      "album": {
+        "name": "NIKI Acoustic Sessions: Head In The Clouds II",
+        "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        },
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Strange Land - Acoustic Version",
+      "url": "https://open.spotify.com/track/11cqsCFJayk8dLyJqPvGvp"
+    },
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv"
+    },
+    {
+      "album": {
+        "name": "MOONCHILD",
+        "url": "https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204299,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/7b6z03ctOD39o4Cez0wr0X"
+    },
+    {
+      "album": {
+        "name": "wanna take this downtown?",
+        "url": "https://open.spotify.com/album/3HLwiAL4LbHVwQaVCl3tnR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "urs",
+      "url": "https://open.spotify.com/track/50oEtTUNlce4TuZXQoJzXW"
+    },
+    {
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4E3FHEEdQkcuEd0D2GKRrX"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177320,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/1NCUe90ZCiWTnWn3umrwqw"
+    },
+    {
+      "album": {
+        "name": "Head In The Clouds",
+        "url": "https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213787,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/3j1fOrxmfuym91Cf9v397b"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT47jrFbmL3z"
 }

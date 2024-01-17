@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 85956,
       "name": "home:so long",
       "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
@@ -4332,6 +4332,24 @@
       "duration_ms": 206000,
       "name": "New York, Paris and London",
       "url": "https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom"
+    },
+    {
+      "album": {
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
     },
     {
       "album": {

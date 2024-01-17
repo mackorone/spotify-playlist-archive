@@ -1,595 +1,4095 @@
 {
-  "2022-05-15": 13234,
-  "2022-05-16": 13342,
-  "2022-05-17": 13438,
-  "2022-05-18": 13513,
-  "2022-05-19": 13590,
-  "2022-05-20": 13674,
-  "2022-05-21": 13872,
-  "2022-05-22": 13872,
-  "2022-05-23": 13989,
-  "2022-05-24": 14094,
-  "2022-05-25": 14168,
-  "2022-05-26": 14257,
-  "2022-05-27": 14376,
-  "2022-05-28": 14454,
-  "2022-05-29": 14565,
-  "2022-05-30": 14644,
-  "2022-05-31": 14731,
-  "2022-06-01": 14894,
-  "2022-06-02": 14912,
-  "2022-06-03": 14986,
-  "2022-06-04": 15065,
-  "2022-06-05": 15158,
-  "2022-06-06": 15279,
-  "2022-06-07": 15375,
-  "2022-06-08": 15472,
-  "2022-06-09": 15530,
-  "2022-06-10": 15619,
-  "2022-06-11": 15694,
-  "2022-06-12": 15780,
-  "2022-06-13": 15842,
-  "2022-06-14": 15921,
-  "2022-06-15": 15979,
-  "2022-06-16": 16057,
-  "2022-06-17": 16157,
-  "2022-06-18": 16224,
-  "2022-06-19": 16402,
-  "2022-06-20": 16402,
-  "2022-06-21": 16474,
-  "2022-06-22": 16599,
-  "2022-06-23": 16599,
-  "2022-06-24": 16669,
-  "2022-06-25": 16731,
-  "2022-06-26": 16809,
-  "2022-06-27": 16885,
-  "2022-06-28": 16957,
-  "2022-06-29": 17073,
-  "2022-06-30": 17150,
-  "2022-07-01": 17217,
-  "2022-07-02": 17266,
-  "2022-07-03": 17351,
-  "2022-07-04": 17424,
-  "2022-07-05": 17495,
-  "2022-07-06": 17537,
-  "2022-07-07": 17629,
-  "2022-07-08": 17703,
-  "2022-07-09": 17781,
-  "2022-07-10": 17869,
-  "2022-07-11": 17936,
-  "2022-07-12": 17992,
-  "2022-07-13": 18074,
-  "2022-07-14": 18141,
-  "2022-07-15": 18212,
-  "2022-07-16": 18262,
-  "2022-07-17": 18314,
-  "2022-07-18": 18389,
-  "2022-07-19": 18470,
-  "2022-07-20": 18546,
-  "2022-07-21": 18621,
-  "2022-07-22": 18701,
-  "2022-07-23": 18796,
-  "2022-07-24": 18866,
-  "2022-07-25": 18961,
-  "2022-07-26": 19030,
-  "2022-07-27": 19107,
-  "2022-07-28": 19170,
-  "2022-07-29": 19252,
-  "2022-07-30": 19387,
-  "2022-07-31": 19387,
-  "2022-08-01": 19485,
-  "2022-08-02": 19650,
-  "2022-08-03": 19650,
-  "2022-08-04": 19729,
-  "2022-08-05": 19811,
-  "2022-08-06": 19877,
-  "2022-08-07": 19948,
-  "2022-08-08": 20011,
-  "2022-08-09": 20088,
-  "2022-08-10": 20164,
-  "2022-08-11": 20232,
-  "2022-08-12": 20297,
-  "2022-08-13": 20397,
-  "2022-08-14": 20476,
-  "2022-08-15": 20567,
-  "2022-08-16": 20638,
-  "2022-08-17": 20684,
-  "2022-08-18": 20749,
-  "2022-08-19": 20816,
-  "2022-08-20": 20878,
-  "2022-08-21": 20942,
-  "2022-08-22": 21033,
-  "2022-08-23": 21140,
-  "2022-08-24": 21221,
-  "2022-08-25": 21318,
-  "2022-08-26": 21423,
-  "2022-08-27": 21521,
-  "2022-08-28": 21648,
-  "2022-08-29": 21786,
-  "2022-08-30": 21890,
-  "2022-08-31": 21970,
-  "2022-09-01": 22042,
-  "2022-09-02": 22151,
-  "2022-09-03": 22242,
-  "2022-09-04": 22345,
-  "2022-09-05": 22448,
-  "2022-09-06": 22553,
-  "2022-09-07": 22661,
-  "2022-09-09": 22851,
-  "2022-09-10": 22968,
-  "2022-09-11": 23113,
-  "2022-09-12": 23248,
-  "2022-09-13": 23323,
-  "2022-09-15": 23540,
-  "2022-09-16": 23630,
-  "2022-09-17": 23711,
-  "2022-09-18": 23835,
-  "2022-09-19": 23962,
-  "2022-09-20": 24039,
-  "2022-09-21": 24141,
-  "2022-09-22": 24244,
-  "2022-09-23": 24353,
-  "2022-09-24": 24457,
-  "2022-09-25": 24588,
-  "2022-09-26": 24707,
-  "2022-09-27": 24807,
-  "2022-09-28": 24921,
-  "2022-09-29": 25026,
-  "2022-09-30": 25137,
-  "2022-10-01": 25266,
-  "2022-10-02": 25367,
-  "2022-10-03": 25513,
-  "2022-10-04": 25612,
-  "2022-10-05": 25697,
-  "2022-10-06": 25807,
-  "2022-10-07": 25896,
-  "2022-10-08": 25998,
-  "2022-10-09": 26230,
-  "2022-10-10": 26249,
-  "2022-10-11": 26381,
-  "2022-10-12": 26496,
-  "2022-10-13": 26616,
-  "2022-10-14": 26731,
-  "2022-10-15": 26857,
-  "2022-10-16": 27002,
-  "2022-10-17": 27147,
-  "2022-10-18": 27223,
-  "2022-10-19": 27310,
-  "2022-10-20": 27441,
-  "2022-10-21": 27559,
-  "2022-10-22": 27679,
-  "2022-10-23": 27828,
-  "2022-10-24": 27981,
-  "2022-10-25": 28085,
-  "2022-10-26": 28190,
-  "2022-10-27": 28278,
-  "2022-10-28": 28380,
-  "2022-10-29": 28496,
-  "2022-10-30": 28612,
-  "2022-10-31": 28740,
-  "2022-11-01": 28844,
-  "2022-11-02": 28955,
-  "2022-11-03": 29061,
-  "2022-11-04": 29171,
-  "2022-11-05": 29296,
-  "2022-11-06": 29456,
-  "2022-11-07": 29600,
-  "2022-11-08": 29716,
-  "2022-11-09": 29840,
-  "2022-11-10": 29950,
-  "2022-11-11": 30090,
-  "2022-11-12": 30224,
-  "2022-11-13": 30380,
-  "2022-11-14": 30534,
-  "2022-11-15": 30647,
-  "2022-11-16": 30772,
-  "2022-11-17": 30900,
-  "2022-11-18": 30909,
-  "2022-11-19": 30871,
-  "2022-11-20": 30897,
-  "2022-11-21": 31000,
-  "2022-11-22": 31265,
-  "2022-11-23": 31463,
-  "2022-11-24": 31744,
-  "2022-11-25": 32020,
-  "2022-11-26": 32234,
-  "2022-11-27": 32391,
-  "2022-11-28": 32561,
-  "2022-11-29": 32665,
-  "2022-11-30": 32775,
-  "2022-12-01": 32895,
-  "2022-12-02": 32991,
-  "2022-12-03": 33070,
-  "2022-12-04": 33261,
-  "2022-12-05": 33414,
-  "2022-12-06": 33529,
-  "2022-12-07": 33625,
-  "2022-12-08": 33742,
-  "2022-12-09": 33858,
-  "2022-12-10": 33998,
-  "2022-12-11": 34154,
-  "2022-12-12": 34316,
-  "2022-12-13": 34428,
-  "2022-12-14": 34527,
-  "2022-12-15": 34627,
-  "2022-12-16": 34763,
-  "2022-12-17": 34878,
-  "2022-12-18": 35030,
-  "2022-12-19": 35155,
-  "2022-12-20": 35375,
-  "2022-12-21": 35375,
-  "2022-12-22": 35483,
-  "2022-12-24": 35717,
-  "2022-12-25": 35845,
-  "2022-12-26": 35929,
-  "2022-12-27": 36080,
-  "2022-12-28": 36230,
-  "2022-12-29": 36365,
-  "2022-12-30": 36479,
-  "2022-12-31": 36611,
-  "2023-01-01": 36727,
-  "2023-01-02": 36861,
-  "2023-01-03": 36997,
-  "2023-01-04": 37116,
-  "2023-01-05": 37254,
-  "2023-01-06": 37419,
-  "2023-01-07": 37668,
-  "2023-01-08": 37723,
-  "2023-01-09": 37925,
-  "2023-01-10": 38034,
-  "2023-01-11": 38131,
-  "2023-01-12": 38260,
-  "2023-01-13": 38380,
-  "2023-01-14": 38651,
-  "2023-01-15": 38685,
-  "2023-01-16": 38841,
-  "2023-01-17": 38982,
-  "2023-01-18": 39087,
-  "2023-01-19": 39214,
-  "2023-01-20": 39354,
-  "2023-01-21": 39497,
-  "2023-01-22": 39668,
-  "2023-01-23": 39825,
-  "2023-01-24": 39916,
-  "2023-01-25": 40026,
-  "2023-01-26": 40124,
-  "2023-01-27": 40239,
-  "2023-01-28": 40332,
-  "2023-01-29": 40460,
-  "2023-01-30": 40604,
-  "2023-01-31": 40604,
-  "2023-02-01": 40816,
-  "2023-02-02": 40932,
-  "2023-02-03": 41016,
-  "2023-02-04": 41131,
-  "2023-02-05": 41254,
-  "2023-02-06": 41398,
-  "2023-02-07": 41479,
-  "2023-02-08": 41675,
-  "2023-02-09": 41675,
-  "2023-02-10": 41778,
-  "2023-02-11": 41880,
-  "2023-02-12": 42132,
-  "2023-02-13": 42234,
-  "2023-02-14": 42234,
-  "2023-02-15": 42314,
-  "2023-02-16": 42416,
-  "2023-02-17": 42491,
-  "2023-02-18": 42672,
-  "2023-02-19": 42691,
-  "2023-02-20": 42747,
-  "2023-02-21": 42822,
-  "2023-02-22": 42879,
-  "2023-02-23": 42967,
-  "2023-02-24": 43030,
-  "2023-02-25": 43109,
-  "2023-02-26": 43174,
-  "2023-02-27": 43310,
-  "2023-02-28": 43310,
-  "2023-03-01": 43372,
-  "2023-03-02": 43437,
-  "2023-03-03": 43516,
-  "2023-03-04": 43603,
-  "2023-03-05": 43775,
-  "2023-03-06": 43775,
-  "2023-03-07": 43837,
-  "2023-03-08": 43887,
-  "2023-03-09": 43928,
-  "2023-03-10": 43978,
-  "2023-03-11": 44043,
-  "2023-03-12": 44152,
-  "2023-03-13": 44251,
-  "2023-03-14": 44305,
-  "2023-03-15": 44364,
-  "2023-03-16": 44432,
-  "2023-03-17": 44432,
-  "2023-03-18": 44559,
-  "2023-03-19": 44626,
-  "2023-03-20": 44713,
-  "2023-03-21": 44783,
-  "2023-03-22": 44842,
-  "2023-03-23": 44900,
-  "2023-03-24": 44900,
-  "2023-03-25": 45029,
-  "2023-03-26": 45080,
-  "2023-03-27": 45167,
-  "2023-03-28": 45209,
-  "2023-03-29": 45259,
-  "2023-03-30": 45353,
-  "2023-03-31": 45353,
-  "2023-04-01": 45406,
-  "2023-04-02": 45486,
-  "2023-04-03": 45554,
-  "2023-04-04": 45597,
-  "2023-04-05": 45669,
-  "2023-04-06": 45743,
-  "2023-04-07": 45806,
-  "2023-04-09": 45909,
-  "2023-04-10": 45962,
-  "2023-04-11": 46077,
-  "2023-04-12": 46077,
-  "2023-04-13": 46144,
-  "2023-04-14": 46189,
-  "2023-04-15": 46261,
-  "2023-04-16": 46347,
-  "2023-04-17": 46411,
-  "2023-04-18": 46463,
-  "2023-04-19": 46536,
-  "2023-04-20": 46595,
-  "2023-04-21": 46655,
-  "2023-04-22": 46720,
-  "2023-04-23": 46794,
-  "2023-04-24": 46875,
-  "2023-04-25": 46926,
-  "2023-04-26": 47004,
-  "2023-04-27": 47064,
-  "2023-04-28": 47145,
-  "2023-04-29": 47198,
-  "2023-04-30": 47270,
-  "2023-05-01": 47334,
-  "2023-05-02": 47404,
-  "2023-05-03": 47463,
-  "2023-05-04": 47533,
-  "2023-05-05": 47586,
-  "2023-05-06": 47658,
-  "2023-05-07": 47735,
-  "2023-05-08": 47797,
-  "2023-05-09": 47857,
-  "2023-05-10": 47922,
-  "2023-05-11": 47978,
-  "2023-05-12": 48039,
-  "2023-05-13": 48094,
-  "2023-05-14": 48172,
-  "2023-05-15": 48236,
-  "2023-05-16": 48292,
-  "2023-05-17": 48357,
-  "2023-05-18": 48428,
-  "2023-05-19": 48511,
-  "2023-05-20": 48642,
-  "2023-05-21": 48642,
-  "2023-05-22": 48642,
-  "2023-05-23": 48764,
-  "2023-05-24": 48894,
-  "2023-05-25": 48910,
-  "2023-05-26": 48969,
-  "2023-05-27": 49077,
-  "2023-05-28": 49215,
-  "2023-05-29": 49215,
-  "2023-05-30": 49405,
-  "2023-05-31": 49485,
-  "2023-06-01": 49555,
-  "2023-06-02": 49605,
-  "2023-06-03": 49685,
-  "2023-06-04": 49746,
-  "2023-06-05": 49822,
-  "2023-06-06": 49901,
-  "2023-06-07": 49969,
-  "2023-06-08": 50064,
-  "2023-06-09": 50121,
-  "2023-06-10": 50193,
-  "2023-06-11": 50254,
-  "2023-06-12": 50326,
-  "2023-06-13": 50374,
-  "2023-06-14": 50455,
-  "2023-06-15": 50517,
-  "2023-06-16": 50570,
-  "2023-06-17": 50629,
-  "2023-06-18": 50708,
-  "2023-06-19": 50774,
-  "2023-06-20": 50833,
-  "2023-06-21": 50889,
-  "2023-06-22": 50964,
-  "2023-06-23": 51030,
-  "2023-06-24": 51100,
-  "2023-06-25": 51164,
-  "2023-06-26": 51243,
-  "2023-06-27": 51306,
-  "2023-06-28": 51374,
-  "2023-06-29": 51458,
-  "2023-06-30": 51536,
-  "2023-07-01": 51674,
-  "2023-07-02": 51674,
-  "2023-07-03": 51752,
-  "2023-07-04": 51792,
-  "2023-07-05": 51861,
-  "2023-07-06": 51988,
-  "2023-07-07": 51988,
-  "2023-07-08": 52037,
-  "2023-07-09": 52108,
-  "2023-07-10": 52183,
-  "2023-07-11": 52242,
-  "2023-07-12": 52292,
-  "2023-07-13": 52341,
-  "2023-07-14": 52388,
-  "2023-07-15": 52433,
-  "2023-07-16": 52505,
-  "2023-07-17": 52595,
-  "2023-07-18": 52659,
-  "2023-07-19": 52723,
-  "2023-07-20": 52758,
-  "2023-07-21": 52798,
-  "2023-07-22": 52856,
-  "2023-07-23": 52914,
-  "2023-07-24": 52979,
-  "2023-07-25": 53041,
-  "2023-07-26": 53088,
-  "2023-07-27": 53158,
-  "2023-07-28": 53211,
-  "2023-07-29": 53279,
-  "2023-07-30": 53351,
-  "2023-07-31": 53426,
-  "2023-08-01": 53473,
-  "2023-08-02": 53537,
-  "2023-08-03": 53589,
-  "2023-08-04": 53644,
-  "2023-08-05": 53696,
-  "2023-08-06": 53850,
-  "2023-08-07": 53850,
-  "2023-08-08": 53908,
-  "2023-08-09": 53971,
-  "2023-08-10": 54010,
-  "2023-08-11": 54068,
-  "2023-08-12": 54144,
-  "2023-08-13": 54218,
-  "2023-08-14": 54267,
-  "2023-08-15": 54384,
-  "2023-08-16": 54384,
-  "2023-08-17": 54452,
-  "2023-08-18": 54506,
-  "2023-08-19": 54564,
-  "2023-08-20": 54645,
-  "2023-08-21": 54717,
-  "2023-08-22": 54784,
-  "2023-08-23": 54844,
-  "2023-08-24": 54904,
-  "2023-08-25": 54952,
-  "2023-08-26": 54998,
-  "2023-08-27": 55086,
-  "2023-08-28": 55151,
-  "2023-08-29": 55189,
-  "2023-08-30": 55248,
-  "2023-08-31": 55300,
-  "2023-09-01": 55354,
-  "2023-09-02": 55354,
-  "2023-09-03": 55356,
-  "2023-09-04": 55368,
-  "2023-09-05": 55370,
-  "2023-09-06": 55374,
-  "2023-09-07": 55386,
-  "2023-09-08": 55390,
-  "2023-09-09": 55402,
-  "2023-09-10": 55433,
-  "2023-09-11": 55455,
-  "2023-09-12": 55462,
-  "2023-09-13": 55474,
-  "2023-09-14": 55477,
-  "2023-09-15": 55490,
-  "2023-09-16": 55514,
-  "2023-09-17": 55536,
-  "2023-09-18": 55561,
-  "2023-09-19": 55567,
-  "2023-09-20": 55568,
-  "2023-09-21": 55582,
-  "2023-09-22": 55586,
-  "2023-09-23": 55608,
-  "2023-09-24": 55641,
-  "2023-09-25": 55660,
-  "2023-09-26": 55670,
-  "2023-09-27": 55674,
-  "2023-09-28": 55685,
-  "2023-09-29": 55695,
-  "2023-09-30": 55723,
-  "2023-10-01": 55735,
-  "2023-10-02": 55768,
-  "2023-10-03": 55790,
-  "2023-10-04": 55796,
-  "2023-10-05": 55804,
-  "2023-10-06": 55821,
-  "2023-10-07": 55833,
-  "2023-10-08": 55843,
-  "2023-10-09": 55847,
-  "2023-10-10": 55850,
-  "2023-10-11": 55858,
-  "2023-10-12": 55858,
-  "2023-10-13": 55866,
-  "2023-10-14": 55866,
-  "2023-10-15": 55864,
-  "2023-10-16": 55870,
-  "2023-10-17": 55885,
-  "2023-10-18": 55877,
-  "2023-10-19": 55872,
-  "2023-10-20": 55884,
-  "2023-10-21": 55894,
-  "2023-10-22": 55902,
-  "2023-10-23": 55917,
-  "2023-10-24": 55924,
-  "2023-10-25": 55924,
-  "2023-10-26": 55929,
-  "2023-10-27": 55930,
-  "2023-10-28": 55934,
-  "2023-10-29": 55937,
-  "2023-10-30": 55946,
-  "2023-10-31": 55946,
-  "2023-11-01": 55952,
-  "2023-11-02": 55961,
-  "2023-11-03": 55967,
-  "2023-11-04": 55972,
-  "2023-11-05": 55979,
-  "2023-11-06": 55979,
-  "2023-11-07": 55980,
-  "2023-11-08": 55994,
-  "2023-11-09": 55995,
-  "2023-11-10": 55993,
-  "2023-11-11": 55985,
-  "2023-11-12": 55987,
-  "2023-11-13": 55990,
-  "2023-11-14": 55996,
-  "2023-11-15": 55996,
-  "2023-11-16": 56000,
-  "2023-11-17": 55992,
-  "2023-11-18": 55992,
-  "2023-11-19": 56006,
-  "2023-11-20": 56018,
-  "2023-11-21": 56018,
-  "2023-11-22": 56012,
-  "2023-11-23": 56017,
-  "2023-11-24": 56014,
-  "2023-11-25": 56015,
-  "2023-11-26": 56011,
-  "2023-11-27": 56014,
-  "2023-11-28": 56014,
-  "2023-11-29": 56014,
-  "2023-11-30": 56014,
-  "2023-12-01": 56010,
-  "2023-12-02": 56003,
-  "2023-12-03": 56007,
-  "2023-12-04": 56001,
-  "2023-12-05": 55992,
-  "2023-12-06": 55990,
-  "2023-12-07": 55988,
-  "2023-12-08": 55999,
-  "2023-12-09": 56027,
-  "2023-12-10": 56066,
-  "2023-12-11": 56072,
-  "2023-12-12": 56086,
-  "2023-12-13": 56103,
-  "2023-12-14": 56118,
-  "2023-12-15": 56133,
-  "2023-12-16": 56148,
-  "2023-12-17": 56174,
-  "2023-12-18": 56194,
-  "2023-12-19": 56206,
-  "2023-12-20": 56217,
-  "2023-12-21": 56229,
-  "2023-12-22": 56240,
-  "2023-12-23": 56246,
-  "2023-12-24": 56257,
-  "2023-12-25": 56276,
-  "2023-12-26": 56295,
-  "2023-12-27": 56310,
-  "2023-12-30": 56349,
-  "2023-12-31": 56374,
-  "2024-01-01": 56392,
-  "2024-01-02": 56401,
-  "2024-01-03": 56414
+  "2024-01-17": 56612,
+  "date_first_scraped": "2022-05-15",
+  "description": "\ub514\uc988\ub2c8+\uc758 \uc778\uae30\uace1\ub4e4\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694. \ub514\uc988\ub2c8, \ud53d\uc0ac, \ub9c8\ube14, \uc2a4\ud0c0\uc6cc\uc988, \ub124\uc154\ub110 \uc9c0\uc624\uadf8\ub798\ud53d \ub4f1\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4.",
+  "name": "\ub514\uc988\ub2c8+ \uc778\uae30\uace1",
+  "tracks": [
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "1 True Love",
+      "url": "https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi"
+    },
+    {
+      "album": {
+        "name": "1-2-3 [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6FFbCgeoptrthFnJkwTOYA"
+      },
+      "artists": [
+        {
+          "name": "Julia Lester",
+          "url": "https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG"
+        },
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Sofia Wylie",
+          "url": "https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 135872,
+      "name": "1-2-3 - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/1plqabzIfQSClRiFqVcgBl"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/1RkM5944j07AUqI5lFjb10"
+    },
+    {
+      "album": {
+        "name": "A Dancer's Heart [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/5sOminVZZxaUIKfKVec6yP"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wylie",
+          "url": "https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 152987,
+      "name": "A Dancer's Heart - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/5zLM7kR8cPsXnE7HWRPE0I"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
+      },
+      "artists": [
+        {
+          "name": "A-bee",
+          "url": "https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/3AP3GrI8DwcMK7lX8x5aiX"
+    },
+    {
+      "album": {
+        "name": "WandaVision: Episode 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Eric Bradley",
+          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
+        },
+        {
+          "name": "Greg Whipple",
+          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
+        },
+        {
+          "name": "Jasper Randall",
+          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
+        },
+        {
+          "name": "Gerald White",
+          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62613,
+      "name": "Agatha All Along",
+      "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65590,
+      "name": "AKAKIRI",
+      "url": "https://open.spotify.com/track/1Rka4cXrabu8LvAVBHiZls"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236737,
+      "name": "Alexander Hamilton",
+      "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240984,
+      "name": "Alien Invasion",
+      "url": "https://open.spotify.com/track/0pNzaDt5Bey6LWbCZZzUYK"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 177322,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT"
+    },
+    {
+      "album": {
+        "name": "All I Want (Live at Vevo)",
+        "url": "https://open.spotify.com/album/3gCOecuQTwZ7valkVff49c"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "All I Want - Live at Vevo",
+      "url": "https://open.spotify.com/track/6HGDoEWNbeIyUbJHelPEbZ"
+    },
+    {
+      "album": {
+        "name": "All I Want (Love That Lasts Mix)",
+        "url": "https://open.spotify.com/album/2VcY9Ks3xBxPSSWESzhCYu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175388,
+      "name": "All I Want - Love That Lasts Mix",
+      "url": "https://open.spotify.com/track/05ZA9WD25P4ynY41Bd15Km"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 120085,
+      "name": "Anthem of Imperial (Am's Theme)",
+      "url": "https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ"
+    },
+    {
+      "album": {
+        "name": "Around You [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/38DxaENMs70gnLocCDQB0m"
+      },
+      "artists": [
+        {
+          "name": "Kate Reinders",
+          "url": "https://open.spotify.com/artist/5iEmISzYjAAPXDheLBOmM2"
+        },
+        {
+          "name": "Derek Hough",
+          "url": "https://open.spotify.com/artist/43rycrdudlg4j0MRLSzPFE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Around You - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/32T0Qna0xwKjr1opg3ecnT"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 36362,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/468bBcYnJJF1hRAefZZqus"
+    },
+    {
+      "album": {
+        "name": "Music from The Wonderful World of Mickey Mouse",
+        "url": "https://open.spotify.com/album/1OLXel73Mf74Mzb2mUaxAH"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73629,
+      "name": "As Long As I'm With You",
+      "url": "https://open.spotify.com/track/5N4ts6KTGAAx1s2OnEoBBj"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 129231,
+      "name": "Bad Batch Heroics",
+      "url": "https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl"
+    },
+    {
+      "album": {
+        "name": "Bad Batch Theme (From \"Star Wars: The Clone Wars - The Final Season\")",
+        "url": "https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 120122,
+      "name": "Bad Batch Theme - From \"Star Wars: The Clone Wars - The Final Season\"",
+      "url": "https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 229373,
+      "name": "Battle of New York",
+      "url": "https://open.spotify.com/track/19svu34uFyJDk9pRAzrFj2"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72030,
+      "name": "Battle Rela",
+      "url": "https://open.spotify.com/track/5JniadiDSQ28PEvcUQDYmW"
+    },
+    {
+      "album": {
+        "name": "Baymax! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2E3E0PkCX0I3kjTbGFtDWh"
+      },
+      "artists": [
+        {
+          "name": "Dominic Lewis",
+          "url": "https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32612,
+      "name": "Baymax",
+      "url": "https://open.spotify.com/track/5f3FwyyiZ1UPXNPVwJY2VN"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        },
+        {
+          "name": "Stolen Jars",
+          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 207713,
+      "name": "Be Nice",
+      "url": "https://open.spotify.com/track/5Wynzy6ZVxuy0oejmZWmPQ"
+    },
+    {
+      "album": {
+        "name": "Be Our Guest [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/2ai0DGWD7exT3TOr0jLc0G"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162249,
+      "name": "Be Our Guest - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6lWNDjtSTWxZQphAwVJDJg"
+    },
+    {
+      "album": {
+        "name": "Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/06RI8dBqhOmEpC2WZtPuiX"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 136040,
+      "name": "Be True to Your School",
+      "url": "https://open.spotify.com/track/73HuK6WkyCOGEn54I7ruuP"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/124ANgorD54TmJNMv3xVYI"
+      },
+      "artists": [
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 144277,
+      "name": "Beauty and the Beast - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/32QgojzuGH3CF5li8MYmRf"
+    },
+    {
+      "album": {
+        "name": "Belle [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/0qLwx4zWdXwZy6EutqMgDu"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 184168,
+      "name": "Belle - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/4sVAXE3uusAsS3ReJyhgE6"
+    },
+    {
+      "album": {
+        "name": "Sneakerella (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4jSAGgdEtpkPzZa1JqH0mp"
+      },
+      "artists": [
+        {
+          "name": "Chosen Jacobs",
+          "url": "https://open.spotify.com/artist/7aoYhHQQOaTUlBzSoGg1kG"
+        },
+        {
+          "name": "Lexi Underwood",
+          "url": "https://open.spotify.com/artist/1GlP4avs6JcuA6PJMjiWu0"
+        },
+        {
+          "name": "Sneakerella - Cast",
+          "url": "https://open.spotify.com/artist/78i014EDOnmTmju1EzXsvf"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197148,
+      "name": "Best Ever",
+      "url": "https://open.spotify.com/track/6QAnkiAUPBBp3PTkjAreMR"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33557,
+      "name": "Boba Fett Chase",
+      "url": "https://open.spotify.com/track/1mwIqHg6hmhskLz7esemEg"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Matt Cornett",
+          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 156548,
+      "name": "Breaking Free - Nini, Ricky & E.J. Version",
+      "url": "https://open.spotify.com/track/41EgG6zD47crJxHLgD42CO"
+    },
+    {
+      "album": {
+        "name": "Cruella (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127413,
+      "name": "Call me Cruella",
+      "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
+    },
+    {
+      "album": {
+        "name": "Disney Entrelazados (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/0Ju1JPnf4y65pmURCZBpzo"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Disney Entrelazados",
+          "url": "https://open.spotify.com/artist/0cclefDtASc1YCDSOVbLNf"
+        },
+        {
+          "name": "El Purre",
+          "url": "https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel"
+        },
+        {
+          "name": "Caro Domenech",
+          "url": "https://open.spotify.com/artist/103no5I7NXgjROEu77t1GP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240199,
+      "name": "Carnaval toda la vida",
+      "url": "https://open.spotify.com/track/0rxlNKsWMCNARnPEEQ3Oxt"
+    },
+    {
+      "album": {
+        "name": "Chip 'n Dale: Rescue Rangers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4ziA2GytdOLHhglQEjsH"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144720,
+      "name": "Chip 'n Dale Rescue Rangers Theme",
+      "url": "https://open.spotify.com/track/1X60krj9l60b8IPvKlfYmh"
+    },
+    {
+      "album": {
+        "name": "Ciao Alberto (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/47HsHsUpMcNW59wk2CVxkR"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50093,
+      "name": "Ciao Alberto",
+      "url": "https://open.spotify.com/track/38fQqnhQm0EaL0vL3nSfVP"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0uzKhGu9eB20CuMv1WB4Op"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139426,
+      "name": "Clock",
+      "url": "https://open.spotify.com/track/1rQrACX6IfR4iVxJCLvviS"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318901,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/5b103AHlWbxVww1PEHloRW"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Colombia, Mi Encanto",
+      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
+    },
+    {
+      "album": {
+        "name": "Monsters at Work (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3hWE0SToC8n3y78kcpls1s"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48141,
+      "name": "Comedy Can Be Dangerous",
+      "url": "https://open.spotify.com/track/3wVleHR6TqJzDvcoPjBb2B"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1bkozCtowFTMroJ5v3DJRv"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 53880,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/4Y0tAluCNkFahFgp9V2kKS"
+    },
+    {
+      "album": {
+        "name": "Disney Entrelazados (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/0Ju1JPnf4y65pmURCZBpzo"
+      },
+      "artists": [
+        {
+          "name": "El Purre",
+          "url": "https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185276,
+      "name": "Conv\u00e9nceme",
+      "url": "https://open.spotify.com/track/2Om9HOYWDPAE7za080bC4k"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164851,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/1IxLye7jNrLzwv4CT2hw6q"
+    },
+    {
+      "album": {
+        "name": "Ciao Alberto (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/47HsHsUpMcNW59wk2CVxkR"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85080,
+      "name": "Dear Luca",
+      "url": "https://open.spotify.com/track/1b1QqoCxqKQlrQUGWAPqTe"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 59373,
+      "name": "Different Prince",
+      "url": "https://open.spotify.com/track/4CZcdzmI77SZWt1btg0anv"
+    },
+    {
+      "album": {
+        "name": "Disney Entrelazados (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/0Ju1JPnf4y65pmURCZBpzo"
+      },
+      "artists": [
+        {
+          "name": "El Purre",
+          "url": "https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel"
+        },
+        {
+          "name": "Manuel Ramos",
+          "url": "https://open.spotify.com/artist/7wWCQJN4eKa1n5Oun2ReyS"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143913,
+      "name": "Donde Voy",
+      "url": "https://open.spotify.com/track/4gG0ctQxP6AwoHHSWTRv2m"
+    },
+    {
+      "album": {
+        "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39405,
+      "name": "Doogie Kamealoha, M.D. Main Title",
+      "url": "https://open.spotify.com/track/6QcNl3pApYE98IcBXjblRh"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
+      },
+      "artists": [
+        {
+          "name": "A-bee",
+          "url": "https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 203690,
+      "name": "E-J-K (Electronic Jedi Knight)",
+      "url": "https://open.spotify.com/track/4Vv4Vods2KxBO7c1G4hxpk"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "William Ross",
+          "url": "https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "End Credit",
+      "url": "https://open.spotify.com/track/0w7FfQ63g3DFNYasRv0l6J"
+    },
+    {
+      "album": {
+        "name": "Chip 'n' Dale: Park Life (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1jILgqqn9dnMzhJTPuJY1z"
+      },
+      "artists": [
+        {
+          "name": "Vincent Artaud",
+          "url": "https://open.spotify.com/artist/4pKvp1QwYQOfYr6Qbgm9Fn"
+        },
+        {
+          "name": "Thomas Savy",
+          "url": "https://open.spotify.com/artist/1Bhjk9ozaPEoGohTuvErI1"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105534,
+      "name": "End Credits Theme (Chip 'n' Dale: Park Life)",
+      "url": "https://open.spotify.com/track/56jWIjDHqTWf0HDDRhbluQ"
+    },
+    {
+      "album": {
+        "name": "Even When [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/0Ondm3jow6eraw5Zdd0rP8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 107486,
+      "name": "Even When - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/1rvXEuwKW2W3mQC6FGWYcv"
+    },
+    {
+      "album": {
+        "name": "Even When/The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 106880,
+      "name": "Even When/The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/61zBoHQeZ0swPHAQZZvxDS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 104120,
+      "name": "Evening Handsome",
+      "url": "https://open.spotify.com/track/6W481sQkpt9oh77qcnlkE9"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199020,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/69cTqxNCHIr1afPVDbgi06"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151451,
+      "name": "Exceptional Zed",
+      "url": "https://open.spotify.com/track/1hEYnDxgrg2zcITOZgaU3J"
+    },
+    {
+      "album": {
+        "name": "Hollywood Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4ik6GdmWEqAUSOvN7x7LBz"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        },
+        {
+          "name": "Elijah Richardson",
+          "url": "https://open.spotify.com/artist/6bQuiSqG39YareKYcmJs86"
+        },
+        {
+          "name": "Hollywood Stargirl - Cast",
+          "url": "https://open.spotify.com/artist/7zRlzRBtwFNeeIFeMOfShF"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209889,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/3wIsp0tTQSuU3tAD16dke0"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series Season 3 (Episode 1) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
+        "url": "https://open.spotify.com/album/6lKBnP2FxDAFxUHVIxuvDC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/5qELFdy1PLLinCg5462HES"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41710,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2TveaBL9SwE5ERQP9HtwE5"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170837,
+      "name": "Flying Is a Feeling",
+      "url": "https://open.spotify.com/track/2hM7evxI96ObLXdsNhYLuw"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196565,
+      "name": "For MY Family",
+      "url": "https://open.spotify.com/track/6Jxe3v2gAydPT9dXG0TXPh"
+    },
+    {
+      "album": {
+        "name": "The One and Only Ivan (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1pgnjcM4HhB9bRIAbh3lne"
+    },
+    {
+      "album": {
+        "name": "Free (From Disney's \"The One And Only Ivan\")",
+        "url": "https://open.spotify.com/album/5hDTfO5ce0O7PiSbyLlsmT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228821,
+      "name": "Free - From Disney's \"The One And Only Ivan\"",
+      "url": "https://open.spotify.com/track/14Sr5vbW1kBUuMCOBf8Oru"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
+      },
+      "artists": [
+        {
+          "name": "Nonpe",
+          "url": "https://open.spotify.com/artist/18dBodXqnQFoktjaBtBrM0"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123208,
+      "name": "Galactic Dreamer",
+      "url": "https://open.spotify.com/track/6eukKVQ3OA8bsfAdTsX3lH"
+    },
+    {
+      "album": {
+        "name": "The Proud Family: Louder and Prouder (Music from the Series)",
+        "url": "https://open.spotify.com/album/7cIC8kaKH2zkVhTTBLcWtG"
+      },
+      "artists": [
+        {
+          "name": "Cedric The Entertainer",
+          "url": "https://open.spotify.com/artist/0yccWzWOIxvYVmZaRQkSg5"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74023,
+      "name": "Gas Station Nachos",
+      "url": "https://open.spotify.com/track/68PgzLszPN2kQFcUkmRzs4"
+    },
+    {
+      "album": {
+        "name": "Gaston [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/4O0FkMqPWd6WPIEQvBCGRG"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 121446,
+      "name": "Gaston - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/2tlz55ud7VZRb8KB7rvwjO"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 182586,
+      "name": "Give 'Em Hell",
+      "url": "https://open.spotify.com/track/6VSPr0auBUN2WoP7oTnaCP"
+    },
+    {
+      "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 154000,
+      "name": "Glorious Purpose",
+      "url": "https://open.spotify.com/track/2lYt2cQkAJRTpQ8BHMBbgz"
+    },
+    {
+      "album": {
+        "name": "Luca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 99360,
+      "name": "Go Find Out for Me",
+      "url": "https://open.spotify.com/track/3EwGfyOpbJqLGVAkXkuGmq"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 9) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/354NAHE8RbpW19mOhKJnfv"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34800,
+      "name": "Good Dancer",
+      "url": "https://open.spotify.com/track/7mc6DgO8Pcw2o817Jo0qH0"
+    },
+    {
+      "album": {
+        "name": "Granted [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6MWhePcEWDnC3dG4tJumu7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 154040,
+      "name": "Granted - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/71JGK9HPfjQNtKq5AhgbTg"
+    },
+    {
+      "album": {
+        "name": "Black Widow (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166546,
+      "name": "Hand in Hand",
+      "url": "https://open.spotify.com/track/5wwH9ftsbQDtfOSx2HZXDw"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/0gLXF5LtNkqDoeVVGjCsEu"
+    },
+    {
+      "album": {
+        "name": "Togo (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jFNC2kqLcNTauJxstFoqH"
+      },
+      "artists": [
+        {
+          "name": "Mark Isham",
+          "url": "https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 406840,
+      "name": "Harnessed to Your Heart",
+      "url": "https://open.spotify.com/track/3rQLlXFI7cBglIj4DE7KwQ"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108866,
+      "name": "Hawkeye's Theme",
+      "url": "https://open.spotify.com/track/31YHdtc3RN5X8JYIaNm1Lp"
+    },
+    {
+      "album": {
+        "name": "Lady and the Tramp (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3uyV8fsSaBo1DNmIO15gBR"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94413,
+      "name": "He's a Tramp (2019)",
+      "url": "https://open.spotify.com/track/4URoA5VLm6tl1XtlOedzhk"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 133738,
+      "name": "Hey Mando!",
+      "url": "https://open.spotify.com/track/5VYWqoXSXY26NYW68hMWwa"
+    },
+    {
+      "album": {
+        "name": "Hold the Line (From \"Twenty Something\")",
+        "url": "https://open.spotify.com/album/2s9HtXOi5nmc6niGtGjRLU"
+      },
+      "artists": [
+        {
+          "name": "ASTU",
+          "url": "https://open.spotify.com/artist/7im6YMNQQpdI06Yn764gAi"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Hold the Line - From \"Twenty Something\"",
+      "url": "https://open.spotify.com/track/2uuxbAeEmptkYKQgaK3ELB"
+    },
+    {
+      "album": {
+        "name": "Home [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/4rJwHJsjGiQow6fUsZvb0W"
+      },
+      "artists": [
+        {
+          "name": "Julia Lester",
+          "url": "https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 227629,
+      "name": "Home - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/2h47YpknAGia00Nqc2kEZs"
+    },
+    {
+      "album": {
+        "name": "Disney Entrelazados (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/0Ju1JPnf4y65pmURCZBpzo"
+      },
+      "artists": [
+        {
+          "name": "Caro Domenech",
+          "url": "https://open.spotify.com/artist/103no5I7NXgjROEu77t1GP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Hoy el miedo se va - Freaky Friday: A New Musical",
+      "url": "https://open.spotify.com/track/3bucVmEnTugFH9Fg3paUwr"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 172253,
+      "name": "I Think I Kinda, You Know - Duet",
+      "url": "https://open.spotify.com/track/6ss60Og7gFGvoYPEgeULaL"
+    },
+    {
+      "album": {
+        "name": "Monsters at Work (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3hWE0SToC8n3y78kcpls1s"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 64362,
+      "name": "I'm Not Gonna Sing You a Song",
+      "url": "https://open.spotify.com/track/3KPoadUPq5thlwBMcnEdVg"
+    },
+    {
+      "album": {
+        "name": "101 Dalmatian Street (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/6eHp4Ho9B2llALUsOhapke"
+      },
+      "artists": [
+        {
+          "name": "Kathryn D. Rende",
+          "url": "https://open.spotify.com/artist/4CTEjBfH4Yxd96D9lpNmmt"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 54960,
+      "name": "I've Got My Pups with Me",
+      "url": "https://open.spotify.com/track/1e1a0XIz3ASAOHdmjHOjqm"
+    },
+    {
+      "album": {
+        "name": "101 Dalmatian Street (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3F70MtxwGPY4g5Dp2walWu"
+      },
+      "artists": [
+        {
+          "name": "Kathryn D. Rende",
+          "url": "https://open.spotify.com/artist/4CTEjBfH4Yxd96D9lpNmmt"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 54960,
+      "name": "I've Got My Pups with Me",
+      "url": "https://open.spotify.com/track/4TrwiRjmPJmV0IEuCOwkSD"
+    },
+    {
+      "album": {
+        "name": "If I Can't Love Her [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/3kfULyHXSsV9Ki6rkTBcbY"
+      },
+      "artists": [
+        {
+          "name": "Roman Banks",
+          "url": "https://open.spotify.com/artist/6ZySbCCkS4CgURXpC9tuCR"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 227433,
+      "name": "If I Can't Love Her - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/55sEttUljNOT18aG3KzroO"
+    },
+    {
+      "album": {
+        "name": "In a Heartbeat [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/74IhNGnLOUG3axqObPH4KL"
+      },
+      "artists": [
+        {
+          "name": "Frankie Rodriguez",
+          "url": "https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 181241,
+      "name": "In a Heartbeat - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/62kXSLQGhoBLhxQW44ennt"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Inquisitors' Hunt",
+      "url": "https://open.spotify.com/track/2vFMaqgyFB3PZMnC3AI3vZ"
+    },
+    {
+      "album": {
+        "name": "It's All Right (From \"Soul\"/Duet Version)",
+        "url": "https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "It's All Right - From \"Soul\"/Duet Version",
+      "url": "https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe"
+    },
+    {
+      "album": {
+        "name": "It's On [From \"High School Musical: The Musical: The Series (Season 3)\"/Camp Rock 2: The Final Jam]",
+        "url": "https://open.spotify.com/album/5aAT0At7qA2oH2CkVN1Iy9"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182591,
+      "name": "It's On - From \"High School Musical: The Musical: The Series (Season 3)\"/Camp Rock 2: The Final Jam",
+      "url": "https://open.spotify.com/track/0cUUqEzIs5KfFMMoUMQuGO"
+    },
+    {
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113853,
+      "name": "Jungle Cruise",
+      "url": "https://open.spotify.com/track/2UR1SjkRe4SXqVG6gAi9QS"
+    },
+    {
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500160,
+      "name": "Jungle Cruise Suite",
+      "url": "https://open.spotify.com/track/0pZ0pTcxluL1hHy33OWume"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197322,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/0fyNdwiOqyXyZ1OHhtRZ5y"
+    },
+    {
+      "album": {
+        "name": "Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/06RI8dBqhOmEpC2WZtPuiX"
+      },
+      "artists": [
+        {
+          "name": "Graham Verchere",
+          "url": "https://open.spotify.com/artist/3KbKJamG0Q6VpHXeiNwdcW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 224702,
+      "name": "Just What I Needed",
+      "url": "https://open.spotify.com/track/14iv0MgGuHrHby3pQVSinZ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 227120,
+      "name": "Kara and Father",
+      "url": "https://open.spotify.com/track/5diAxn9AwjFu4xLe8YDXT3"
+    },
+    {
+      "album": {
+        "name": "Secret Society of Second-Born Royals (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36ir2thEBb41ysGBTMlSD1"
+      },
+      "artists": [
+        {
+          "name": "Bramblebone",
+          "url": "https://open.spotify.com/artist/06vPe2z86TIio2YyTpEfU5"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 172669,
+      "name": "Kickin' In",
+      "url": "https://open.spotify.com/track/3wsVNshb2dKhlq84xRIlep"
+    },
+    {
+      "album": {
+        "name": "Sneakerella (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4jSAGgdEtpkPzZa1JqH0mp"
+      },
+      "artists": [
+        {
+          "name": "Chosen Jacobs",
+          "url": "https://open.spotify.com/artist/7aoYhHQQOaTUlBzSoGg1kG"
+        },
+        {
+          "name": "Sneakerella - Cast",
+          "url": "https://open.spotify.com/artist/78i014EDOnmTmju1EzXsvf"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166839,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/1aAxR5vtjCKuHoNRfwYGik"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103426,
+      "name": "Lady Hawk",
+      "url": "https://open.spotify.com/track/6nnIiHAuSqf34eP5xhap4G"
+    },
+    {
+      "album": {
+        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223835,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
+    },
+    {
+      "album": {
+        "name": "Lamp Life (Original Score)",
+        "url": "https://open.spotify.com/album/76E4to5cdgZenQw6D9bZaE"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Waters",
+          "url": "https://open.spotify.com/artist/2BweIiktOR9WCsl3L7MtQ7"
+        },
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        },
+        {
+          "name": "Zach Marsh",
+          "url": "https://open.spotify.com/artist/6EsBX7yyHfR6CbXnCQhQ2z"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 130820,
+      "name": "Leave the Light On",
+      "url": "https://open.spotify.com/track/2QANkUGgH46JOrlnFMhxnz"
+    },
+    {
+      "album": {
+        "name": "Let You Go [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/00RbJr4cHi7aSucGIYXdS6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 188852,
+      "name": "Let You Go - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/5EiFKhKYr10nVFCYFjAomH"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        },
+        {
+          "name": "Will Arnett",
+          "url": "https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217210,
+      "name": "Life Hereafter",
+      "url": "https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR"
+    },
+    {
+      "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 144761,
+      "name": "Loki Green Theme",
+      "url": "https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz"
+    },
+    {
+      "album": {
+        "name": "Loop (Original Score)",
+        "url": "https://open.spotify.com/album/6ZZI4Hl7XhTkxR3vrBbemP"
+      },
+      "artists": [
+        {
+          "name": "Mark Orton",
+          "url": "https://open.spotify.com/artist/1Z8O4oak7dssF0X1ybKE2A"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 98076,
+      "name": "Loop Theme",
+      "url": "https://open.spotify.com/track/2AsTYdyNUiObtdYnQ8euYr"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 166199,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Village Bride (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        },
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/0WgqipmDarta23FAzzhDer"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 141200,
+      "name": "MAGINA x FORCE",
+      "url": "https://open.spotify.com/track/1S0WpJqbLSC9iEVyu7Da7C"
+    },
+    {
+      "album": {
+        "name": "Lady and the Tramp (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3uyV8fsSaBo1DNmIO15gBR"
+      },
+      "artists": [
+        {
+          "name": "Lady and the Tramp Studio Choir",
+          "url": "https://open.spotify.com/artist/4Y5BVA2RHsccAQF7t2sDAN"
+        },
+        {
+          "name": "Donald Novis",
+          "url": "https://open.spotify.com/artist/5LHO9r02sohoceAPhXPnBp"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 143026,
+      "name": "Main Title (Bella Notte)/Peace on Earth",
+      "url": "https://open.spotify.com/track/3WOF9sAU1at5n7CumSkTyu"
+    },
+    {
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 165333,
+      "name": "Market Chase",
+      "url": "https://open.spotify.com/track/4m6zUjyJjdrC5gUT64XFSh"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 250786,
+      "name": "Maya's Theme",
+      "url": "https://open.spotify.com/track/6jqliDGEulKN5RvAIsg5mM"
+    },
+    {
+      "album": {
+        "name": "Forky Asks a Question (Original Score)",
+        "url": "https://open.spotify.com/album/6oTrbxONYY1ifPmt4QWncd"
+      },
+      "artists": [
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 133888,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/5gqIpuL2UoHEjhS0Rqc1Uu"
+    },
+    {
+      "album": {
+        "name": "Moon Knight (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8"
+      },
+      "artists": [
+        {
+          "name": "Hesham Nazih",
+          "url": "https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130453,
+      "name": "Moon Knight",
+      "url": "https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk"
+    },
+    {
+      "album": {
+        "name": "Ms. Marvel Suite (From \"Ms. Marvel\")",
+        "url": "https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269765,
+      "name": "Ms. Marvel Suite - From \"Ms. Marvel\"",
+      "url": "https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR"
+    },
+    {
+      "album": {
+        "name": "Secret Society of Second-Born Royals (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36ir2thEBb41ysGBTMlSD1"
+      },
+      "artists": [
+        {
+          "name": "Bramblebone",
+          "url": "https://open.spotify.com/artist/06vPe2z86TIio2YyTpEfU5"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 186252,
+      "name": "Music Is My Weapon",
+      "url": "https://open.spotify.com/track/2yhUH7g1iZ4TIwwX0U1lX5"
+    },
+    {
+      "album": {
+        "name": "Timmy Failure: Mistakes Were Made (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7BNf08upFEC94VFXiOKgXw"
+      },
+      "artists": [
+        {
+          "name": "Rolfe Kent",
+          "url": "https://open.spotify.com/artist/3B0bZAXnHTpGuPsuQo5fEd"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 144293,
+      "name": "My Name Is Failure",
+      "url": "https://open.spotify.com/track/0lErKLH61iMHh7PzVaShld"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        },
+        {
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Natasha",
+      "url": "https://open.spotify.com/track/3FJPS6N8yqWpEbXL3B17Iq"
+    },
+    {
+      "album": {
+        "name": "Black Widow (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Natasha's Lullaby",
+      "url": "https://open.spotify.com/track/7DXVDRuzfxi6Qoo1hH0G0I"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Nobody Like U (From \"Turning Red\")",
+        "url": "https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160958,
+      "name": "Nobody Like U - From \"Turning Red\"",
+      "url": "https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8"
+    },
+    {
+      "album": {
+        "name": "Cheaper by the Dozen (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0VWzYjdFJfSx27dmYSEtns"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Sy'Rai",
+          "url": "https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/4RNiHm6IUHR19JQZSUvEDI"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+    },
+    {
+      "album": {
+        "name": "Lamp Life (Original Score)",
+        "url": "https://open.spotify.com/album/76E4to5cdgZenQw6D9bZaE"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Waters",
+          "url": "https://open.spotify.com/artist/2BweIiktOR9WCsl3L7MtQ7"
+        },
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        },
+        {
+          "name": "Brittany Dunton",
+          "url": "https://open.spotify.com/artist/4DrncAGT27LaCL9eiFumZy"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 98353,
+      "name": "Off the Shelf",
+      "url": "https://open.spotify.com/track/7FSVbVfPE6s8sCm8BJvIQF"
+    },
+    {
+      "album": {
+        "name": "Chip 'n' Dale: Park Life (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1jILgqqn9dnMzhJTPuJY1z"
+      },
+      "artists": [
+        {
+          "name": "Vincent Artaud",
+          "url": "https://open.spotify.com/artist/4pKvp1QwYQOfYr6Qbgm9Fn"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33265,
+      "name": "Opening Theme (Chip 'n' Dale: Park Life)",
+      "url": "https://open.spotify.com/track/5MGfauxQ7HCoCyxXJhFuKC"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100960,
+      "name": "Order 66",
+      "url": "https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 168688,
+      "name": "Out of the Old",
+      "url": "https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4"
+    },
+    {
+      "album": {
+        "name": "The Imagineering Story (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/38byU44wY3wyx6CXfbaOxH"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kryka",
+          "url": "https://open.spotify.com/artist/000vMR3cHSTJ88w3PJWHJB"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 155527,
+      "name": "Overture to Imagineering",
+      "url": "https://open.spotify.com/track/3NMFOqzCyIVL0VzANAXVIv"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0uzKhGu9eB20CuMv1WB4Op"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58560,
+      "name": "Path to Peace",
+      "url": "https://open.spotify.com/track/0sNO0ut8a1tHEZZTjRg0z0"
+    },
+    {
+      "album": {
+        "name": "Luca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96053,
+      "name": "Portorosso",
+      "url": "https://open.spotify.com/track/7Kiw0qwDBYzXUVAXpNeNGk"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 9) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/354NAHE8RbpW19mOhKJnfv"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69280,
+      "name": "Prot\u00e9g\u00e9",
+      "url": "https://open.spotify.com/track/5nSPOKR9ZwAabZ8IyNZTuh"
+    },
+    {
+      "album": {
+        "name": "Loki: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0KRhT6YRtWbgIhMqyOGAfa"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 164668,
+      "name": "Pruned",
+      "url": "https://open.spotify.com/track/3su6P1ExjmvB8noNcq2sK3"
+    },
+    {
+      "album": {
+        "name": "The Muppets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
+      },
+      "artists": [
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 188933,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG"
+    },
+    {
+      "album": {
+        "name": "Red Means Love [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6Sxqqz14Tohou6I6qK77bV"
+      },
+      "artists": [
+        {
+          "name": "Julia Lester",
+          "url": "https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG"
+        },
+        {
+          "name": "Larry Saperstein",
+          "url": "https://open.spotify.com/artist/3kVNx1UKVbk2KGkFECQRf0"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 129899,
+      "name": "Red Means Love - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/7iLQz461jIUyj2we0PNS28"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 9) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/354NAHE8RbpW19mOhKJnfv"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35746,
+      "name": "Relax Son",
+      "url": "https://open.spotify.com/track/0XsMH9KaWt8u1xwV22e5J1"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Village Bride (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 81120,
+      "name": "Requiem for Blasters",
+      "url": "https://open.spotify.com/track/3rpd2CDwDkSrFGE5M8EvWO"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112647,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/3KH9W2vmr8uap6KTBDEFUO"
+    },
+    {
+      "album": {
+        "name": "Rise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6fLuIl5tZ5dN3Xk7n18AfS"
+      },
+      "artists": [
+        {
+          "name": "Ofili",
+          "url": "https://open.spotify.com/artist/6LK9KusfU5S8J4S5E6rrxi"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/6MxaXaxkod9sadpxQtkLqV"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
+      },
+      "artists": [
+        {
+          "name": "Keiji Inai",
+          "url": "https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 226500,
+      "name": "Ronin's Theme",
+      "url": "https://open.spotify.com/track/0GLicEZFv5LCu2HBtNEEmu"
+    },
+    {
+      "album": {
+        "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC"
+      },
+      "artists": [
+        {
+          "name": "Adam Pascal",
+          "url": "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        {
+          "name": "Ty Taylor",
+          "url": "https://open.spotify.com/artist/7FxLKkFmNsDT54KrzN2HJn"
+        },
+        {
+          "name": "Rory Donovan",
+          "url": "https://open.spotify.com/artist/0grxoC9qsB0dfpVxjOTmxx"
+        },
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        },
+        {
+          "name": "Bonnie Milligan",
+          "url": "https://open.spotify.com/artist/2dWTkKrPGvkwSTSuRSwJNc"
+        },
+        {
+          "name": "Christopher Sieber",
+          "url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
+        },
+        {
+          "name": "Shayna Steele",
+          "url": "https://open.spotify.com/artist/7tJc7ubifEnRE29FLtCHTE"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Save The City",
+      "url": "https://open.spotify.com/track/4Bt0pQudNqNlEkCY4yGlOR"
+    },
+    {
+      "album": {
+        "name": "Save The City (From \"Hawkeye\")",
+        "url": "https://open.spotify.com/album/5SEGrKDeuv50w7NgQsUVjj"
+      },
+      "artists": [
+        {
+          "name": "Adam Pascal",
+          "url": "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        {
+          "name": "Ty Taylor",
+          "url": "https://open.spotify.com/artist/7FxLKkFmNsDT54KrzN2HJn"
+        },
+        {
+          "name": "Rory Donovan",
+          "url": "https://open.spotify.com/artist/0grxoC9qsB0dfpVxjOTmxx"
+        },
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        },
+        {
+          "name": "Bonnie Milligan",
+          "url": "https://open.spotify.com/artist/2dWTkKrPGvkwSTSuRSwJNc"
+        },
+        {
+          "name": "Christopher Sieber",
+          "url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
+        },
+        {
+          "name": "Shayna Steele",
+          "url": "https://open.spotify.com/artist/7tJc7ubifEnRE29FLtCHTE"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266840,
+      "name": "Save The City - From \"Hawkeye\"",
+      "url": "https://open.spotify.com/track/0PHauckLejmBj8MwTDCUkK"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1bkozCtowFTMroJ5v3DJRv"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 69253,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/6RuePqikJj7BCpEXA2UKvL"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 2)",
+        "url": "https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/38kSyZ90BcMkHc5FfTluXs"
+    },
+    {
+      "album": {
+        "name": "Seguir viviendo sin tu amor (De \"Disney Entrelazados\" I Disney+)",
+        "url": "https://open.spotify.com/album/7viJ45qdk5ag9zP9qmwga7"
+      },
+      "artists": [
+        {
+          "name": "El Purre",
+          "url": "https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel"
+        },
+        {
+          "name": "Caro Domenech",
+          "url": "https://open.spotify.com/artist/103no5I7NXgjROEu77t1GP"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144512,
+      "name": "Seguir viviendo sin tu amor - De \"Disney Entrelazados\" I Disney+",
+      "url": "https://open.spotify.com/track/6fi5xol2MwgcW58knblcwI"
+    },
+    {
+      "album": {
+        "name": "Flora & Ulysses (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2VXt4CcgwKTkcsJMHP1U6z"
+      },
+      "artists": [
+        {
+          "name": "Joel P West",
+          "url": "https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 168710,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4vhIYjKQ5FbhiblRJNTJjD"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 85226,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/6AoEYaZND2lOjN8vGpbUfP"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196323,
+      "name": "Something in the Air",
+      "url": "https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/61zBoHQeZ0swPHAQZZvxDS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 57680,
+      "name": "Something Reckless",
+      "url": "https://open.spotify.com/track/4SoEIPElzgfDEzRR6HbWvl"
+    },
+    {
+      "album": {
+        "name": "Something There [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/3gSnMI2spnFKvuu7FwMoWR"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109918,
+      "name": "Something There - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/19nov5aokA3dNbKZPZy6rI"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 90620,
+      "name": "Speederbike Chase",
+      "url": "https://open.spotify.com/track/7wqxs1FM5OdVzr4OZ7qe0p"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Chapter 5 (Original Score)",
+        "url": "https://open.spotify.com/album/249DL9DzLAZRyxkpOa5w5w"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 81294,
+      "name": "Speederbikes",
+      "url": "https://open.spotify.com/track/3cWw8SCOVveJp9OADmF0QR"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241877,
+      "name": "Standoff",
+      "url": "https://open.spotify.com/track/2aLFi3vrMRt0AhnqNJQipa"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52842,
+      "name": "Star Waver",
+      "url": "https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101176,
+      "name": "Start of Something New - Nini Version",
+      "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
+      },
+      "artists": [
+        {
+          "name": "A-bee",
+          "url": "https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111978,
+      "name": "Start the Droids",
+      "url": "https://open.spotify.com/track/30IJ19GLTJ9Q169KJwxfNb"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "album": {
+        "name": "Lady and the Tramp (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3uyV8fsSaBo1DNmIO15gBR"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 131039,
+      "name": "That's Enough",
+      "url": "https://open.spotify.com/track/2XTU32QBbPHSWLE8RyfolZ"
+    },
+    {
+      "album": {
+        "name": "That's Enough (from \"Lady and the Tramp\")",
+        "url": "https://open.spotify.com/album/3nYJKq8UFbGryYyNpyCWMa"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "That's Enough (from \"Lady and the Tramp\")",
+      "url": "https://open.spotify.com/track/6e0Xi53pC0I4DCMSCmX0yA"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/61zBoHQeZ0swPHAQZZvxDS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 132200,
+      "name": "The Absolute Point",
+      "url": "https://open.spotify.com/track/6Ekz4owNWxKT0aBjopbJlM"
+    },
+    {
+      "album": {
+        "name": "Rise (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6fLuIl5tZ5dN3Xk7n18AfS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9 Olunuga",
+          "url": "https://open.spotify.com/artist/1BWGBPB5N1TrJKcBXiDbxF"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58506,
+      "name": "The Adetokunbos",
+      "url": "https://open.spotify.com/track/6jAR8uqySTCglvZTaGXEu6"
+    },
+    {
+      "album": {
+        "name": "The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 107276,
+      "name": "The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/0nZkXIhuH183AKwF1LAZUy"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett",
+      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett (From \"The Book of Boba Fett\")",
+        "url": "https://open.spotify.com/album/1JJlW7PNpoGxBVPTftZmHP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
+      "url": "https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC"
+    },
+    {
+      "album": {
+        "name": "The Climb [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2NszME6o0e2RtdaGF6fwni"
+      },
+      "artists": [
+        {
+          "name": "Joe Serafini",
+          "url": "https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214309,
+      "name": "The Climb - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/0F5RhxfT5Z0ONGPPFHpdHg"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 37084,
+      "name": "The Contacts of the Heart",
+      "url": "https://open.spotify.com/track/1kDq05NT6YWUG6DOYjxslU"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0uzKhGu9eB20CuMv1WB4Op"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 54000,
+      "name": "The Distinction",
+      "url": "https://open.spotify.com/track/1vaAWBnzH9rjMU2NDKzrdH"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
+      },
+      "artists": [
+        {
+          "name": "Keiji Inai",
+          "url": "https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 227258,
+      "name": "The Duel",
+      "url": "https://open.spotify.com/track/5zcAxtO4veMV9vq8SuHgKf"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 55175,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/1iV33yjaj3BojLVuYHSg2V"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46336,
+      "name": "The Empire",
+      "url": "https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 84960,
+      "name": "The Fate of Dark Side",
+      "url": "https://open.spotify.com/track/6yrBMcPI6qXG6LKGQfM2Jv"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 198861,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Chapter 7 (Original Score)",
+        "url": "https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 140441,
+      "name": "The Mandalorian - Orchestral Version",
+      "url": "https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi"
+    },
+    {
+      "album": {
+        "name": "The Mob Song [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
+        "url": "https://open.spotify.com/album/590iiTPr907zsonkF2HRvJ"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 150824,
+      "name": "The Mob Song - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
+      "url": "https://open.spotify.com/track/1CHE2EksioDWhZjDjJr5Hv"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 127850,
+      "name": "The Ninth Jedi - Prologue",
+      "url": "https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu"
+    },
+    {
+      "album": {
+        "name": "Secret Society of Second-Born Royals (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/36ir2thEBb41ysGBTMlSD1"
+      },
+      "artists": [
+        {
+          "name": "Peyton Elizabeth Lee",
+          "url": "https://open.spotify.com/artist/3OLjZAdNwOKd5lNwvcXzwH"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 124200,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/0PiY8eWMch7TAAukd0FU8p"
+    },
+    {
+      "album": {
+        "name": "The Proud Family: Louder and Prouder Opening Theme (From \"The Proud Family: Louder and Prouder\")",
+        "url": "https://open.spotify.com/album/4qsW88T4KHoo8HMQFAmFr2"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95240,
+      "name": "The Proud Family: Louder and Prouder Opening Theme - From \"The Proud Family: Louder and Prouder\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1Gm51ZsgLcCdtTTgQEHqil"
+    },
+    {
+      "album": {
+        "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174380,
+      "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 94986,
+      "name": "THE TWINS",
+      "url": "https://open.spotify.com/track/1d4F7iP8huzSxNHAA7y2wp"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Village Bride (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        },
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/0WgqipmDarta23FAzzhDer"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 270986,
+      "name": "The Village Bride",
+      "url": "https://open.spotify.com/track/4xbc2NEgK7K2NXgldhfhMq"
+    },
+    {
+      "album": {
+        "name": "What If...? (Episode 7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 68186,
+      "name": "They're Here",
+      "url": "https://open.spotify.com/track/0yPfAQRkDGbZzD7KKeyUoL"
+    },
+    {
+      "album": {
+        "name": "Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/06RI8dBqhOmEpC2WZtPuiX"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        },
+        {
+          "name": "Graham Verchere",
+          "url": "https://open.spotify.com/artist/3KbKJamG0Q6VpHXeiNwdcW"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 129912,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/51fmDWqyPEsAXG8GXkMp5l"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/2A1Ht3FU1Y3zVyYbbGHVt1"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "Taraji P. Henson",
+          "url": "https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio"
+        },
+        {
+          "name": "Pep\u00e9 the King Prawn",
+          "url": "https://open.spotify.com/artist/1iMTLjdRyIo58maQgO0F1a"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103254,
+      "name": "Tie the Knot Tango",
+      "url": "https://open.spotify.com/track/23c50sgUoawToa6LvPmWuO"
+    },
+    {
+      "album": {
+        "name": "Togo (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jFNC2kqLcNTauJxstFoqH"
+      },
+      "artists": [
+        {
+          "name": "Mark Isham",
+          "url": "https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 183346,
+      "name": "To Nome",
+      "url": "https://open.spotify.com/track/4DNUWKhIcnqTm6xvXSCtwi"
+    },
+    {
+      "album": {
+        "name": "Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/06RI8dBqhOmEpC2WZtPuiX"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270145,
+      "name": "Today and Tomorrow",
+      "url": "https://open.spotify.com/track/1Ie3DHiJy4q4HfcQypt2FQ"
+    },
+    {
+      "album": {
+        "name": "Today and Tomorrow (From Disney's Stargirl)",
+        "url": "https://open.spotify.com/album/10hUcPRytinZlsgaPvKLP3"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 268130,
+      "name": "Today and Tomorrow (From Disney's Stargirl)",
+      "url": "https://open.spotify.com/track/71YKvjk57xURhhN9jJbuOu"
+    },
+    {
+      "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 148680,
+      "name": "TVA",
+      "url": "https://open.spotify.com/track/50dHgEzyYyytE1JxxBUDgj"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "U Know What's Up",
+      "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
+    },
+    {
+      "album": {
+        "name": "Us Again (From \"Us Again\")",
+        "url": "https://open.spotify.com/album/1aO0hgUqQcsmLZdGf2pHkm"
+      },
+      "artists": [
+        {
+          "name": "Pinar Toprak",
+          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 403719,
+      "name": "Us Again - From \"Us Again\"",
+      "url": "https://open.spotify.com/track/1wedEc2Fn5AVKTQGDLOl4I"
+    },
+    {
+      "album": {
+        "name": "WandaVision: Episode 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Sara Mann",
+          "url": "https://open.spotify.com/artist/3C9XpXXMzu9C4ZrtfVu7nx"
+        },
+        {
+          "name": "Jessica Rotter",
+          "url": "https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF"
+        },
+        {
+          "name": "Cindy Bourquin",
+          "url": "https://open.spotify.com/artist/5z25CHFEWooGOieYYw4j3T"
+        },
+        {
+          "name": "Elyse Willis",
+          "url": "https://open.spotify.com/artist/7iS9ltSyOIaj4fHeP954mq"
+        },
+        {
+          "name": "Laura Dickinson",
+          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
+        },
+        {
+          "name": "Eric Bradley",
+          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
+        },
+        {
+          "name": "Greg Whipple",
+          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
+        },
+        {
+          "name": "Jasper Randall",
+          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
+        },
+        {
+          "name": "Gerald White",
+          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 53626,
+      "name": "WandaVision!",
+      "url": "https://open.spotify.com/track/2lD3POsCEgFZGH5F2cT46Y"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "WandaVision: Episode 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/130DD1WPUCsr30RKqAmiQI"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Elyse Willis",
+          "url": "https://open.spotify.com/artist/7iS9ltSyOIaj4fHeP954mq"
+        },
+        {
+          "name": "Laura Dickinson",
+          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
+        },
+        {
+          "name": "Eric Bradley",
+          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
+        },
+        {
+          "name": "Gerald White",
+          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 67186,
+      "name": "We Got Something Cooking",
+      "url": "https://open.spotify.com/track/7wy016ZmoaeapFpte30sK1"
+    },
+    {
+      "album": {
+        "name": "Stargirl (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/06RI8dBqhOmEpC2WZtPuiX"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 90289,
+      "name": "We Got the Beat",
+      "url": "https://open.spotify.com/track/11sQWewNyGN1pWWXuQrDWa"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "What Else Can I Do?",
+      "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Julia Lester",
+          "url": "https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 225381,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/6vGnPFWExk8QXcRmxaoX3e"
+    },
+    {
+      "album": {
+        "name": "YAC Alma Mater [From \"High School Musical: The Musical: The Series (Season 2)\"/Glee Club Version]",
+        "url": "https://open.spotify.com/album/0Wmipr1oAsTqGnFCkBOkbb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Mann",
+          "url": "https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 62718,
+      "name": "YAC Alma Mater - From \"High School Musical: The Musical: The Series (Season 2)\"/Glee Club Version",
+      "url": "https://open.spotify.com/track/4ygyZOauhHAVY6OjFREhhT"
+    },
+    {
+      "album": {
+        "name": "YAC Alma Mater [From \"High School Musical: The Musical: The Series (Season 2)\"/Nini Version]",
+        "url": "https://open.spotify.com/album/49FiXLGSYfX9TKAOND3S6l"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 59418,
+      "name": "YAC Alma Mater - From \"High School Musical: The Musical: The Series (Season 2)\"/Nini Version",
+      "url": "https://open.spotify.com/track/7kykl0pcJjoDhuL9Minuh9"
+    },
+    {
+      "album": {
+        "name": "You Ain't Seen Nothin' [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/3hIQN4sQK8PDif9eCSLA85"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157405,
+      "name": "You Ain't Seen Nothin' - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/1UWfwaRW6FJvGQZX37iTnS"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series Season 3 (Episode 2) [From \"High School Musical: The Musical: The Series (Season 3)\"]",
+        "url": "https://open.spotify.com/album/1XlNDgxQd2Tsqu6pK0iNkd"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/01tNpXoTjrqvb1zhG6wmop"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVLLXSxmZy0O"
 }

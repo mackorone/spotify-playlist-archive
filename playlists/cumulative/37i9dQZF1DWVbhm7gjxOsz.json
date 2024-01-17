@@ -1885,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "Pure Intentions",
+        "url": "https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176879,
+      "name": "Pure Intentions (feat. Gabriella)",
+      "url": "https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd"
+    },
+    {
+      "album": {
         "name": "Reaper of Love",
         "url": "https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc"
       },
@@ -2438,7 +2460,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 160063,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA"
@@ -2976,10 +2998,32 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 329146,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
+    },
+    {
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVbhm7gjxOsz"

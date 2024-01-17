@@ -1,15 +1,15 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 849084,
+  "num_followers": 850109,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDBjOWNmMWFhNzU4Njk5YzAzN2JkZmZiNjIxNmU2NTA5Mw==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAzM2QwNmVlOGU1NTFkNjYwNzcxY2ZkNzkyNTliN2IzYw==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
@@ -105,23 +105,7 @@
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
@@ -169,23 +169,7 @@
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 52600,
-      "name": "Interlude: I'm Not Angry Anymore",
-      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -201,7 +185,23 @@
       "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 52600,
+      "name": "Interlude: I'm Not Angry Anymore",
+      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -233,23 +233,7 @@
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 245521,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 245521,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -297,23 +297,7 @@
       "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 235012,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 235012,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -361,39 +361,7 @@
       "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 204966,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "I Caught Myself",
         "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
@@ -409,7 +377,39 @@
       "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 204966,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -425,39 +425,7 @@
       "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 187696,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C"
@@ -473,7 +441,39 @@
       "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -489,23 +489,7 @@
       "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 260384,
-      "name": "Big Man, Little Dignity",
-      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
@@ -521,10 +505,10 @@
       "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
-        "name": "Re: This Is Why",
-        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
@@ -532,12 +516,12 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 210620,
-      "name": "Sanity (demo)",
-      "url": "https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv"
+      "duration_ms": 260384,
+      "name": "Big Man, Little Dignity",
+      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
@@ -553,7 +537,7 @@
       "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
@@ -569,7 +553,23 @@
       "url": "https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 210620,
+      "name": "Sanity (demo)",
+      "url": "https://open.spotify.com/track/2ZbHgxLSjIzqzTuZAwvbZv"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
@@ -585,23 +585,7 @@
       "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
-      "album": {
-        "name": "Paramore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 163517,
-      "name": "Tell Me It's Okay - Demo",
-      "url": "https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z"
-    },
-    {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
@@ -617,7 +601,23 @@
       "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
+      "album": {
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 163517,
+      "name": "Tell Me It's Okay - Demo",
+      "url": "https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z"
+    },
+    {
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Singles Club",
         "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Singles Club",
         "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
     },
     {
-      "added_at": "2024-01-02 12:15:51",
+      "added_at": "2024-01-16 12:10:49",
       "album": {
         "name": "Singles Club",
         "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"

@@ -1,735 +1,4879 @@
 {
-  "2021-12-25": 582,
-  "2021-12-26": 582,
-  "2021-12-27": 582,
-  "2021-12-28": 582,
-  "2021-12-29": 582,
-  "2021-12-30": 582,
-  "2021-12-31": 582,
-  "2022-01-01": 582,
-  "2022-01-02": 582,
-  "2022-01-03": 582,
-  "2022-01-04": 582,
-  "2022-01-05": 582,
-  "2022-01-06": 582,
-  "2022-01-07": 582,
-  "2022-01-08": 581,
-  "2022-01-09": 581,
-  "2022-01-10": 581,
-  "2022-01-11": 581,
-  "2022-01-12": 581,
-  "2022-01-13": 581,
-  "2022-01-14": 581,
-  "2022-01-15": 581,
-  "2022-01-16": 581,
-  "2022-01-17": 581,
-  "2022-01-18": 581,
-  "2022-01-19": 581,
-  "2022-01-20": 581,
-  "2022-01-21": 581,
-  "2022-01-22": 581,
-  "2022-01-23": 581,
-  "2022-01-24": 581,
-  "2022-01-25": 581,
-  "2022-01-26": 581,
-  "2022-01-27": 581,
-  "2022-01-28": 581,
-  "2022-01-29": 581,
-  "2022-01-30": 581,
-  "2022-01-31": 581,
-  "2022-02-01": 581,
-  "2022-02-02": 581,
-  "2022-02-03": 581,
-  "2022-02-04": 581,
-  "2022-02-05": 581,
-  "2022-02-06": 581,
-  "2022-02-07": 581,
-  "2022-02-08": 581,
-  "2022-02-09": 581,
-  "2022-02-10": 581,
-  "2022-02-11": 581,
-  "2022-02-12": 581,
-  "2022-02-13": 581,
-  "2022-02-14": 581,
-  "2022-02-15": 581,
-  "2022-02-16": 581,
-  "2022-02-17": 581,
-  "2022-02-18": 581,
-  "2022-02-19": 581,
-  "2022-02-20": 581,
-  "2022-02-21": 581,
-  "2022-02-22": 581,
-  "2022-02-23": 581,
-  "2022-02-24": 581,
-  "2022-02-25": 581,
-  "2022-02-26": 581,
-  "2022-02-27": 581,
-  "2022-02-28": 581,
-  "2022-03-01": 581,
-  "2022-03-02": 581,
-  "2022-03-03": 581,
-  "2022-03-04": 581,
-  "2022-03-05": 581,
-  "2022-03-06": 581,
-  "2022-03-07": 581,
-  "2022-03-08": 581,
-  "2022-03-09": 581,
-  "2022-03-10": 581,
-  "2022-03-11": 581,
-  "2022-03-12": 581,
-  "2022-03-13": 581,
-  "2022-03-14": 581,
-  "2022-03-15": 581,
-  "2022-03-16": 581,
-  "2022-03-17": 581,
-  "2022-03-18": 581,
-  "2022-03-19": 581,
-  "2022-03-20": 581,
-  "2022-03-21": 581,
-  "2022-03-22": 581,
-  "2022-03-23": 581,
-  "2022-03-24": 581,
-  "2022-03-25": 581,
-  "2022-03-26": 581,
-  "2022-03-27": 581,
-  "2022-03-28": 581,
-  "2022-03-30": 581,
-  "2022-03-31": 581,
-  "2022-04-01": 581,
-  "2022-04-02": 581,
-  "2022-04-03": 581,
-  "2022-04-04": 581,
-  "2022-04-05": 581,
-  "2022-04-06": 581,
-  "2022-04-07": 581,
-  "2022-04-08": 581,
-  "2022-04-09": 581,
-  "2022-04-10": 581,
-  "2022-04-11": 581,
-  "2022-04-12": 581,
-  "2022-04-13": 581,
-  "2022-04-14": 581,
-  "2022-04-15": 581,
-  "2022-04-16": 581,
-  "2022-04-17": 581,
-  "2022-04-18": 581,
-  "2022-04-19": 580,
-  "2022-04-20": 580,
-  "2022-04-21": 580,
-  "2022-04-22": 580,
-  "2022-04-23": 580,
-  "2022-04-24": 580,
-  "2022-04-25": 580,
-  "2022-04-26": 580,
-  "2022-04-27": 580,
-  "2022-04-28": 580,
-  "2022-04-29": 580,
-  "2022-04-30": 580,
-  "2022-05-01": 580,
-  "2022-05-02": 580,
-  "2022-05-03": 580,
-  "2022-05-04": 580,
-  "2022-05-05": 580,
-  "2022-05-06": 580,
-  "2022-05-07": 580,
-  "2022-05-08": 580,
-  "2022-05-09": 580,
-  "2022-05-10": 580,
-  "2022-05-11": 580,
-  "2022-05-12": 580,
-  "2022-05-13": 580,
-  "2022-05-14": 580,
-  "2022-05-15": 580,
-  "2022-05-16": 580,
-  "2022-05-17": 580,
-  "2022-05-18": 580,
-  "2022-05-19": 580,
-  "2022-05-20": 579,
-  "2022-05-21": 579,
-  "2022-05-22": 579,
-  "2022-05-23": 579,
-  "2022-05-24": 579,
-  "2022-05-25": 579,
-  "2022-05-26": 579,
-  "2022-05-27": 579,
-  "2022-05-28": 579,
-  "2022-05-29": 579,
-  "2022-05-30": 579,
-  "2022-05-31": 579,
-  "2022-06-01": 579,
-  "2022-06-02": 579,
-  "2022-06-03": 579,
-  "2022-06-04": 579,
-  "2022-06-05": 579,
-  "2022-06-06": 579,
-  "2022-06-07": 579,
-  "2022-06-08": 579,
-  "2022-06-09": 579,
-  "2022-06-10": 579,
-  "2022-06-11": 579,
-  "2022-06-12": 579,
-  "2022-06-13": 579,
-  "2022-06-14": 579,
-  "2022-06-15": 579,
-  "2022-06-16": 579,
-  "2022-06-17": 579,
-  "2022-06-18": 579,
-  "2022-06-19": 579,
-  "2022-06-20": 579,
-  "2022-06-21": 579,
-  "2022-06-22": 579,
-  "2022-06-23": 579,
-  "2022-06-24": 579,
-  "2022-06-25": 579,
-  "2022-06-26": 579,
-  "2022-06-27": 579,
-  "2022-06-28": 579,
-  "2022-06-29": 579,
-  "2022-06-30": 579,
-  "2022-07-01": 579,
-  "2022-07-02": 579,
-  "2022-07-03": 579,
-  "2022-07-04": 579,
-  "2022-07-05": 579,
-  "2022-07-06": 579,
-  "2022-07-07": 579,
-  "2022-07-08": 579,
-  "2022-07-09": 579,
-  "2022-07-10": 579,
-  "2022-07-11": 579,
-  "2022-07-12": 579,
-  "2022-07-13": 579,
-  "2022-07-14": 579,
-  "2022-07-15": 579,
-  "2022-07-16": 579,
-  "2022-07-17": 579,
-  "2022-07-18": 579,
-  "2022-07-19": 579,
-  "2022-07-20": 579,
-  "2022-07-21": 579,
-  "2022-07-22": 579,
-  "2022-07-23": 579,
-  "2022-07-24": 578,
-  "2022-07-25": 578,
-  "2022-07-26": 578,
-  "2022-07-27": 578,
-  "2022-07-28": 578,
-  "2022-07-29": 578,
-  "2022-07-30": 578,
-  "2022-07-31": 578,
-  "2022-08-01": 578,
-  "2022-08-02": 578,
-  "2022-08-03": 578,
-  "2022-08-04": 578,
-  "2022-08-05": 578,
-  "2022-08-06": 578,
-  "2022-08-07": 578,
-  "2022-08-08": 578,
-  "2022-08-09": 578,
-  "2022-08-10": 578,
-  "2022-08-11": 578,
-  "2022-08-12": 578,
-  "2022-08-13": 578,
-  "2022-08-14": 578,
-  "2022-08-15": 578,
-  "2022-08-16": 578,
-  "2022-08-17": 578,
-  "2022-08-18": 578,
-  "2022-08-19": 578,
-  "2022-08-20": 578,
-  "2022-08-21": 578,
-  "2022-08-22": 578,
-  "2022-08-23": 578,
-  "2022-08-24": 578,
-  "2022-08-25": 578,
-  "2022-08-26": 578,
-  "2022-08-27": 578,
-  "2022-08-28": 578,
-  "2022-08-29": 578,
-  "2022-08-30": 578,
-  "2022-08-31": 578,
-  "2022-09-01": 578,
-  "2022-09-02": 578,
-  "2022-09-03": 578,
-  "2022-09-04": 578,
-  "2022-09-05": 578,
-  "2022-09-06": 578,
-  "2022-09-07": 578,
-  "2022-09-09": 578,
-  "2022-09-10": 578,
-  "2022-09-11": 578,
-  "2022-09-12": 578,
-  "2022-09-13": 578,
-  "2022-09-15": 578,
-  "2022-09-16": 578,
-  "2022-09-17": 578,
-  "2022-09-18": 578,
-  "2022-09-19": 578,
-  "2022-09-20": 578,
-  "2022-09-21": 578,
-  "2022-09-22": 578,
-  "2022-09-23": 578,
-  "2022-09-24": 578,
-  "2022-09-25": 578,
-  "2022-09-26": 578,
-  "2022-09-27": 578,
-  "2022-09-28": 578,
-  "2022-09-29": 578,
-  "2022-09-30": 578,
-  "2022-10-01": 578,
-  "2022-10-02": 578,
-  "2022-10-03": 578,
-  "2022-10-04": 578,
-  "2022-10-05": 578,
-  "2022-10-06": 578,
-  "2022-10-07": 578,
-  "2022-10-08": 578,
-  "2022-10-09": 578,
-  "2022-10-10": 578,
-  "2022-10-11": 578,
-  "2022-10-12": 578,
-  "2022-10-13": 578,
-  "2022-10-14": 577,
-  "2022-10-15": 577,
-  "2022-10-16": 577,
-  "2022-10-17": 577,
-  "2022-10-18": 577,
-  "2022-10-19": 577,
-  "2022-10-20": 577,
-  "2022-10-21": 577,
-  "2022-10-22": 577,
-  "2022-10-23": 577,
-  "2022-10-24": 577,
-  "2022-10-25": 577,
-  "2022-10-26": 577,
-  "2022-10-27": 577,
-  "2022-10-28": 577,
-  "2022-10-29": 577,
-  "2022-10-30": 577,
-  "2022-10-31": 577,
-  "2022-11-01": 578,
-  "2022-11-02": 578,
-  "2022-11-03": 578,
-  "2022-11-04": 580,
-  "2022-11-05": 579,
-  "2022-11-06": 579,
-  "2022-11-07": 579,
-  "2022-11-08": 580,
-  "2022-11-09": 579,
-  "2022-11-10": 582,
-  "2022-11-11": 583,
-  "2022-11-12": 583,
-  "2022-11-13": 583,
-  "2022-11-14": 583,
-  "2022-11-15": 583,
-  "2022-11-16": 583,
-  "2022-11-17": 582,
-  "2022-11-18": 582,
-  "2022-11-19": 581,
-  "2022-11-20": 581,
-  "2022-11-21": 578,
-  "2022-11-22": 578,
-  "2022-11-23": 578,
-  "2022-11-24": 578,
-  "2022-11-25": 578,
-  "2022-11-26": 576,
-  "2022-11-27": 577,
-  "2022-11-28": 576,
-  "2022-11-29": 576,
-  "2022-11-30": 576,
-  "2022-12-01": 576,
-  "2022-12-02": 576,
-  "2022-12-03": 576,
-  "2022-12-04": 576,
-  "2022-12-05": 576,
-  "2022-12-06": 576,
-  "2022-12-07": 576,
-  "2022-12-08": 576,
-  "2022-12-09": 576,
-  "2022-12-10": 576,
-  "2022-12-11": 576,
-  "2022-12-12": 576,
-  "2022-12-13": 576,
-  "2022-12-14": 576,
-  "2022-12-15": 576,
-  "2022-12-16": 576,
-  "2022-12-17": 576,
-  "2022-12-18": 576,
-  "2022-12-19": 576,
-  "2022-12-20": 576,
-  "2022-12-21": 576,
-  "2022-12-22": 576,
-  "2022-12-24": 576,
-  "2022-12-25": 576,
-  "2022-12-26": 576,
-  "2022-12-27": 576,
-  "2022-12-28": 576,
-  "2022-12-29": 576,
-  "2022-12-30": 576,
-  "2022-12-31": 576,
-  "2023-01-01": 576,
-  "2023-01-02": 576,
-  "2023-01-03": 576,
-  "2023-01-04": 576,
-  "2023-01-05": 576,
-  "2023-01-06": 576,
-  "2023-01-07": 575,
-  "2023-01-08": 575,
-  "2023-01-09": 575,
-  "2023-01-10": 575,
-  "2023-01-11": 575,
-  "2023-01-12": 575,
-  "2023-01-13": 575,
-  "2023-01-14": 575,
-  "2023-01-15": 575,
-  "2023-01-16": 575,
-  "2023-01-17": 575,
-  "2023-01-18": 575,
-  "2023-01-19": 575,
-  "2023-01-20": 575,
-  "2023-01-21": 575,
-  "2023-01-22": 575,
-  "2023-01-23": 575,
-  "2023-01-24": 575,
-  "2023-01-25": 575,
-  "2023-01-26": 575,
-  "2023-01-27": 575,
-  "2023-01-28": 575,
-  "2023-01-29": 575,
-  "2023-01-30": 575,
-  "2023-01-31": 575,
-  "2023-02-01": 575,
-  "2023-02-02": 574,
-  "2023-02-03": 574,
-  "2023-02-04": 574,
-  "2023-02-05": 574,
-  "2023-02-06": 574,
-  "2023-02-07": 574,
-  "2023-02-08": 574,
-  "2023-02-09": 574,
-  "2023-02-10": 574,
-  "2023-02-11": 574,
-  "2023-02-12": 574,
-  "2023-02-13": 574,
-  "2023-02-14": 574,
-  "2023-02-15": 574,
-  "2023-02-16": 574,
-  "2023-02-17": 574,
-  "2023-02-18": 574,
-  "2023-02-19": 574,
-  "2023-02-20": 574,
-  "2023-02-21": 574,
-  "2023-02-22": 574,
-  "2023-02-23": 574,
-  "2023-02-24": 574,
-  "2023-02-25": 574,
-  "2023-02-26": 574,
-  "2023-02-27": 574,
-  "2023-02-28": 574,
-  "2023-03-01": 574,
-  "2023-03-02": 574,
-  "2023-03-03": 574,
-  "2023-03-04": 574,
-  "2023-03-05": 574,
-  "2023-03-06": 574,
-  "2023-03-07": 574,
-  "2023-03-08": 574,
-  "2023-03-09": 574,
-  "2023-03-10": 574,
-  "2023-03-11": 574,
-  "2023-03-12": 574,
-  "2023-03-13": 574,
-  "2023-03-14": 574,
-  "2023-03-15": 574,
-  "2023-03-16": 574,
-  "2023-03-17": 574,
-  "2023-03-18": 574,
-  "2023-03-19": 574,
-  "2023-03-20": 574,
-  "2023-03-21": 573,
-  "2023-03-22": 573,
-  "2023-03-23": 573,
-  "2023-03-24": 573,
-  "2023-03-25": 573,
-  "2023-03-26": 573,
-  "2023-03-27": 573,
-  "2023-03-28": 573,
-  "2023-03-29": 573,
-  "2023-03-30": 573,
-  "2023-03-31": 573,
-  "2023-04-01": 573,
-  "2023-04-02": 573,
-  "2023-04-03": 573,
-  "2023-04-04": 573,
-  "2023-04-05": 573,
-  "2023-04-06": 573,
-  "2023-04-07": 573,
-  "2023-04-09": 573,
-  "2023-04-10": 573,
-  "2023-04-11": 573,
-  "2023-04-12": 573,
-  "2023-04-13": 573,
-  "2023-04-14": 573,
-  "2023-04-15": 573,
-  "2023-04-16": 573,
-  "2023-04-17": 573,
-  "2023-04-18": 573,
-  "2023-04-19": 573,
-  "2023-04-20": 573,
-  "2023-04-21": 573,
-  "2023-04-22": 573,
-  "2023-04-23": 573,
-  "2023-04-24": 573,
-  "2023-04-25": 573,
-  "2023-04-26": 573,
-  "2023-04-27": 573,
-  "2023-04-28": 573,
-  "2023-04-29": 573,
-  "2023-04-30": 573,
-  "2023-05-01": 573,
-  "2023-05-02": 573,
-  "2023-05-03": 573,
-  "2023-05-04": 573,
-  "2023-05-05": 573,
-  "2023-05-06": 573,
-  "2023-05-07": 573,
-  "2023-05-08": 573,
-  "2023-05-09": 573,
-  "2023-05-10": 573,
-  "2023-05-11": 573,
-  "2023-05-12": 573,
-  "2023-05-13": 573,
-  "2023-05-14": 573,
-  "2023-05-15": 573,
-  "2023-05-16": 573,
-  "2023-05-17": 573,
-  "2023-05-18": 573,
-  "2023-05-19": 573,
-  "2023-05-20": 573,
-  "2023-05-21": 573,
-  "2023-05-22": 573,
-  "2023-05-23": 573,
-  "2023-05-24": 573,
-  "2023-05-25": 573,
-  "2023-05-26": 573,
-  "2023-05-27": 573,
-  "2023-05-28": 573,
-  "2023-05-29": 573,
-  "2023-05-30": 573,
-  "2023-05-31": 573,
-  "2023-06-01": 573,
-  "2023-06-02": 573,
-  "2023-06-03": 573,
-  "2023-06-04": 573,
-  "2023-06-05": 573,
-  "2023-06-06": 573,
-  "2023-06-07": 573,
-  "2023-06-08": 573,
-  "2023-06-09": 573,
-  "2023-06-10": 573,
-  "2023-06-11": 573,
-  "2023-06-12": 573,
-  "2023-06-13": 573,
-  "2023-06-14": 572,
-  "2023-06-15": 572,
-  "2023-06-16": 572,
-  "2023-06-17": 572,
-  "2023-06-18": 572,
-  "2023-06-19": 572,
-  "2023-06-20": 572,
-  "2023-06-21": 572,
-  "2023-06-22": 572,
-  "2023-06-23": 572,
-  "2023-06-24": 572,
-  "2023-06-25": 572,
-  "2023-06-26": 572,
-  "2023-06-27": 573,
-  "2023-06-28": 573,
-  "2023-06-29": 573,
-  "2023-06-30": 573,
-  "2023-07-01": 573,
-  "2023-07-02": 573,
-  "2023-07-03": 573,
-  "2023-07-04": 573,
-  "2023-07-05": 573,
-  "2023-07-06": 573,
-  "2023-07-07": 573,
-  "2023-07-08": 573,
-  "2023-07-09": 572,
-  "2023-07-10": 572,
-  "2023-07-11": 572,
-  "2023-07-12": 572,
-  "2023-07-13": 572,
-  "2023-07-14": 572,
-  "2023-07-15": 572,
-  "2023-07-16": 572,
-  "2023-07-17": 572,
-  "2023-07-18": 572,
-  "2023-07-19": 572,
-  "2023-07-20": 572,
-  "2023-07-21": 572,
-  "2023-07-22": 572,
-  "2023-07-23": 572,
-  "2023-07-24": 572,
-  "2023-07-25": 572,
-  "2023-07-26": 572,
-  "2023-07-27": 572,
-  "2023-07-28": 572,
-  "2023-07-29": 572,
-  "2023-07-30": 572,
-  "2023-07-31": 572,
-  "2023-08-01": 572,
-  "2023-08-02": 572,
-  "2023-08-03": 572,
-  "2023-08-04": 572,
-  "2023-08-05": 572,
-  "2023-08-06": 572,
-  "2023-08-07": 572,
-  "2023-08-08": 572,
-  "2023-08-09": 572,
-  "2023-08-10": 572,
-  "2023-08-11": 572,
-  "2023-08-12": 572,
-  "2023-08-13": 572,
-  "2023-08-14": 572,
-  "2023-08-15": 572,
-  "2023-08-16": 572,
-  "2023-08-17": 572,
-  "2023-08-18": 572,
-  "2023-08-19": 572,
-  "2023-08-20": 572,
-  "2023-08-21": 572,
-  "2023-08-22": 572,
-  "2023-08-23": 572,
-  "2023-08-24": 572,
-  "2023-08-25": 572,
-  "2023-08-26": 572,
-  "2023-08-27": 572,
-  "2023-08-28": 572,
-  "2023-08-29": 572,
-  "2023-08-30": 572,
-  "2023-08-31": 572,
-  "2023-09-01": 572,
-  "2023-09-02": 572,
-  "2023-09-03": 572,
-  "2023-09-04": 572,
-  "2023-09-05": 572,
-  "2023-09-06": 572,
-  "2023-09-07": 572,
-  "2023-09-08": 572,
-  "2023-09-09": 572,
-  "2023-09-10": 572,
-  "2023-09-11": 572,
-  "2023-09-12": 572,
-  "2023-09-13": 572,
-  "2023-09-14": 572,
-  "2023-09-15": 572,
-  "2023-09-16": 572,
-  "2023-09-17": 572,
-  "2023-09-18": 572,
-  "2023-09-19": 572,
-  "2023-09-20": 572,
-  "2023-09-21": 572,
-  "2023-09-22": 572,
-  "2023-09-23": 572,
-  "2023-09-24": 571,
-  "2023-09-25": 571,
-  "2023-09-26": 571,
-  "2023-09-27": 571,
-  "2023-09-28": 571,
-  "2023-09-29": 571,
-  "2023-09-30": 571,
-  "2023-10-01": 571,
-  "2023-10-02": 571,
-  "2023-10-03": 571,
-  "2023-10-04": 571,
-  "2023-10-05": 571,
-  "2023-10-06": 571,
-  "2023-10-07": 571,
-  "2023-10-08": 571,
-  "2023-10-09": 571,
-  "2023-10-10": 567,
-  "2023-10-11": 564,
-  "2023-10-12": 564,
-  "2023-10-13": 564,
-  "2023-10-14": 562,
-  "2023-10-15": 562,
-  "2023-10-16": 562,
-  "2023-10-17": 562,
-  "2023-10-18": 562,
-  "2023-10-19": 562,
-  "2023-10-20": 562,
-  "2023-10-21": 562,
-  "2023-10-22": 562,
-  "2023-10-23": 562,
-  "2023-10-24": 562,
-  "2023-10-25": 562,
-  "2023-10-26": 562,
-  "2023-10-27": 562,
-  "2023-10-28": 562,
-  "2023-10-29": 562,
-  "2023-10-30": 562,
-  "2023-10-31": 562,
-  "2023-11-01": 562,
-  "2023-11-02": 562,
-  "2023-11-03": 562,
-  "2023-11-04": 562,
-  "2023-11-05": 562,
-  "2023-11-06": 562,
-  "2023-11-07": 562,
-  "2023-11-08": 562,
-  "2023-11-09": 562,
-  "2023-11-10": 562,
-  "2023-11-11": 562,
-  "2023-11-12": 562,
-  "2023-11-13": 562,
-  "2023-11-14": 562,
-  "2023-11-15": 562,
-  "2023-11-16": 562,
-  "2023-11-17": 562,
-  "2023-11-18": 562,
-  "2023-11-19": 562,
-  "2023-11-20": 562,
-  "2023-11-21": 562,
-  "2023-11-22": 562,
-  "2023-11-23": 562,
-  "2023-11-24": 562,
-  "2023-11-25": 562,
-  "2023-11-26": 562,
-  "2023-11-27": 562,
-  "2023-11-28": 562,
-  "2023-11-29": 562,
-  "2023-11-30": 562,
-  "2023-12-01": 562,
-  "2023-12-02": 562,
-  "2023-12-03": 562,
-  "2023-12-04": 562,
-  "2023-12-05": 562,
-  "2023-12-06": 562,
-  "2023-12-07": 562,
-  "2023-12-08": 562,
-  "2023-12-09": 562,
-  "2023-12-10": 562,
-  "2023-12-11": 562,
-  "2023-12-12": 562,
-  "2023-12-13": 562,
-  "2023-12-14": 562,
-  "2023-12-15": 562,
-  "2023-12-16": 562,
-  "2023-12-17": 562,
-  "2023-12-18": 562,
-  "2023-12-19": 562,
-  "2023-12-20": 562,
-  "2023-12-21": 562,
-  "2023-12-22": 562,
-  "2023-12-23": 562,
-  "2023-12-24": 561,
-  "2023-12-25": 561,
-  "2023-12-26": 561,
-  "2023-12-27": 561,
-  "2023-12-30": 561,
-  "2023-12-31": 560,
-  "2024-01-01": 560,
-  "2024-01-02": 560,
-  "2024-01-03": 560
+  "2024-01-17": 550,
+  "date_first_scraped": "2021-12-21",
+  "description": "Wind down for the evening with your special someone and this soothing selection of serenades.\n",
+  "name": "Evening Serenades",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sibelius: 6 Humoresques / 2 Serenades",
+        "url": "https://open.spotify.com/album/3TuwgIz8mBsWzuWHvMhZ6h"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "2 Serenades, Op. 69: Serenade No. 1 in D Major, Op. 69, No. 1",
+      "url": "https://open.spotify.com/track/1YklMisLq3aZDqChPq2L2A"
+    },
+    {
+      "album": {
+        "name": "Sibelius: 6 Humoresques / 2 Serenades",
+        "url": "https://open.spotify.com/album/3TuwgIz8mBsWzuWHvMhZ6h"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "2 Serenades, Op. 69: Serenade No. 2 in G Minor, Op. 69, No. 2",
+      "url": "https://open.spotify.com/track/1ZR9zA3MxtB1DEd6GHlQYk"
+    },
+    {
+      "album": {
+        "name": "Gnarly Buttons/John's Book Of Alleged Dances",
+        "url": "https://open.spotify.com/album/14REzeZXg4IDKmA3CiWb04"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "Adams: John's Book Of Alleged Dances - Standchen: The Little Serenade",
+      "url": "https://open.spotify.com/track/74WA0arJKvbfwHW01rMSUd"
+    },
+    {
+      "album": {
+        "name": "Rodrigo: Complete Concertos for Guitar & Harp (2 CDs)",
+        "url": "https://open.spotify.com/album/7jUPHapFaa31P2UD8FbNk6"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Catherine Michel",
+          "url": "https://open.spotify.com/artist/3VXf0RCnHBKqix91KCP4lD"
+        },
+        {
+          "name": "Orchestre National de l'Op\u00e9ra de Monte-Carlo",
+          "url": "https://open.spotify.com/artist/2EIsRuqHyxuYU1b3Ja3U8U"
+        },
+        {
+          "name": "Antonio de Almeida",
+          "url": "https://open.spotify.com/artist/3ycPnKlZj0kBkn1FkCTxhp"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487000,
+      "name": "Concerto Serenade for Harp and Orchestra: 1. Estudiantina (Allegro ma non troppo - Andante)",
+      "url": "https://open.spotify.com/track/2VWD68b1YZCcSb2xz0nlnu"
+    },
+    {
+      "album": {
+        "name": "Rodrigo: Complete Concertos for Guitar & Harp (2 CDs)",
+        "url": "https://open.spotify.com/album/7jUPHapFaa31P2UD8FbNk6"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Orchestre National de l'Op\u00e9ra de Monte-Carlo",
+          "url": "https://open.spotify.com/artist/2EIsRuqHyxuYU1b3Ja3U8U"
+        },
+        {
+          "name": "Catherine Michel",
+          "url": "https://open.spotify.com/artist/3VXf0RCnHBKqix91KCP4lD"
+        },
+        {
+          "name": "Antonio de Almeida",
+          "url": "https://open.spotify.com/artist/3ycPnKlZj0kBkn1FkCTxhp"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544000,
+      "name": "Concerto Serenade for Harp and Orchestra: 2. Intermezzo con aria (Adagio - Allegro moderato)",
+      "url": "https://open.spotify.com/track/5zjBihiCVgjcYsQB0YRicz"
+    },
+    {
+      "album": {
+        "name": "Rodrigo: Complete Concertos for Guitar & Harp (2 CDs)",
+        "url": "https://open.spotify.com/album/7jUPHapFaa31P2UD8FbNk6"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Orchestre National de l'Op\u00e9ra de Monte-Carlo",
+          "url": "https://open.spotify.com/artist/2EIsRuqHyxuYU1b3Ja3U8U"
+        },
+        {
+          "name": "Catherine Michel",
+          "url": "https://open.spotify.com/artist/3VXf0RCnHBKqix91KCP4lD"
+        },
+        {
+          "name": "Antonio de Almeida",
+          "url": "https://open.spotify.com/artist/3ycPnKlZj0kBkn1FkCTxhp"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "Concerto Serenade for Harp and Orchestra: 3. Sarao (Allegro deciso)",
+      "url": "https://open.spotify.com/track/6CJwLaWH3RF1eieczJvHtd"
+    },
+    {
+      "album": {
+        "name": "Sir Adrian Boult : Great Conductors of the 20th Century",
+        "url": "https://open.spotify.com/album/5A3jzyGbCerZIsmC4xRPtQ"
+      },
+      "artists": [
+        {
+          "name": "Hugo Wolf",
+          "url": "https://open.spotify.com/artist/3JvFTHGx6J55BUnjL8l04T"
+        },
+        {
+          "name": "Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413760,
+      "name": "Italian Serenade (1887) - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/1hL6mmlK80gImufKWY3846"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1cek: String Quartets Nos.1 & 2 / Wolf: Italian Serenade",
+        "url": "https://open.spotify.com/album/77oVVNmvp7nmqqSieydcB9"
+      },
+      "artists": [
+        {
+          "name": "Hugo Wolf",
+          "url": "https://open.spotify.com/artist/3JvFTHGx6J55BUnjL8l04T"
+        },
+        {
+          "name": "Hagen Quartett",
+          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392500,
+      "name": "Italian Serenade in G major WW XV / 3",
+      "url": "https://open.spotify.com/track/3zcjUgmUBdfEX1vwKgygR1"
+    },
+    {
+      "album": {
+        "name": "Carlstedt, J.: Metamorphosi / Larsson, L.-E.: Little Serenade",
+        "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
+      },
+      "artists": [
+        {
+          "name": "Musica Vitae Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
+        },
+        {
+          "name": "Wojciech Rajski",
+          "url": "https://open.spotify.com/artist/0z6k3er48WTYLUei3x8V4h"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Little Serenade, Op. 12: I. Allegro",
+      "url": "https://open.spotify.com/track/5HT90Bo242EnrSfwFXHErI"
+    },
+    {
+      "album": {
+        "name": "Carlstedt, J.: Metamorphosi / Larsson, L.-E.: Little Serenade",
+        "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
+      },
+      "artists": [
+        {
+          "name": "Musica Vitae Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
+        },
+        {
+          "name": "Wojciech Rajski",
+          "url": "https://open.spotify.com/artist/0z6k3er48WTYLUei3x8V4h"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290160,
+      "name": "Little Serenade, Op. 12: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1RaU5nTc5is6q3FTcCsNUP"
+    },
+    {
+      "album": {
+        "name": "Carlstedt, J.: Metamorphosi / Larsson, L.-E.: Little Serenade",
+        "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
+      },
+      "artists": [
+        {
+          "name": "Musica Vitae Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
+        },
+        {
+          "name": "Wojciech Rajski",
+          "url": "https://open.spotify.com/artist/0z6k3er48WTYLUei3x8V4h"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94320,
+      "name": "Little Serenade, Op. 12: III. Allegro vivace",
+      "url": "https://open.spotify.com/track/1p2u6PSrAbffpnwBCZGwsp"
+    },
+    {
+      "album": {
+        "name": "Carlstedt, J.: Metamorphosi / Larsson, L.-E.: Little Serenade",
+        "url": "https://open.spotify.com/album/0gZf6zOKYSoK6j7eFno2PZ"
+      },
+      "artists": [
+        {
+          "name": "Musica Vitae Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/43GH1vjVg0rs6uu6APET05"
+        },
+        {
+          "name": "Wojciech Rajski",
+          "url": "https://open.spotify.com/artist/0z6k3er48WTYLUei3x8V4h"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "Little Serenade, Op. 12: IV. Allegro",
+      "url": "https://open.spotify.com/track/5p71kZFVNQjTZLJgFaLQ75"
+    },
+    {
+      "album": {
+        "name": "The Ying Quartet Play LifeMusic",
+        "url": "https://open.spotify.com/album/1IWc2m8YIROFJmXYpnUKim"
+      },
+      "artists": [
+        {
+          "name": "Carter Pann",
+          "url": "https://open.spotify.com/artist/3mE4FyAUwpdDUwJIsZxypt"
+        },
+        {
+          "name": "Ying Quartet",
+          "url": "https://open.spotify.com/artist/7LOa5KEvERLChy8XYO4gbb"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390600,
+      "name": "Love Letters: II. Serenade",
+      "url": "https://open.spotify.com/track/3T0RiOW50umXnwNU02H1lt"
+    },
+    {
+      "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415040,
+      "name": "Rondo (Haffner Serenade)",
+      "url": "https://open.spotify.com/track/5AjbWa2zlNu3vucztzklGC"
+    },
+    {
+      "album": {
+        "name": "Scarlatti: Concerti e Sinfonie",
+        "url": "https://open.spotify.com/album/4E7CCiWvxsw02kSyje067R"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Europa Galante",
+          "url": "https://open.spotify.com/artist/2U5grycWMciHdeNQGUH7dO"
+        },
+        {
+          "name": "Fabio Biondi",
+          "url": "https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "Scarlatti, A: Clori, Dorino e Amore: Sinfonia avanti la Serenata. I. Largo",
+      "url": "https://open.spotify.com/track/0UVnKVOrBhaBT4dS6sYbSh"
+    },
+    {
+      "album": {
+        "name": "Scarlatti: Concerti e Sinfonie",
+        "url": "https://open.spotify.com/album/4E7CCiWvxsw02kSyje067R"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Scarlatti",
+          "url": "https://open.spotify.com/artist/5HGksnSVY91s4g1SOHHACw"
+        },
+        {
+          "name": "Europa Galante",
+          "url": "https://open.spotify.com/artist/2U5grycWMciHdeNQGUH7dO"
+        },
+        {
+          "name": "Fabio Biondi",
+          "url": "https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47546,
+      "name": "Scarlatti, A: Clori, Dorino e Amore: Sinfonia avanti la Serenata. II. Presto",
+      "url": "https://open.spotify.com/track/5nNT4OIt3ZfSRSNQYS0wDm"
+    },
+    {
+      "album": {
+        "name": "Scarlatti: Concerti e Sinfonie",
+        "url": "https://open.spotify.com/album/4E7CCiWvxsw02kSyje067R"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Scarlatti",
+          "url": "https://open.spotify.com/artist/5HGksnSVY91s4g1SOHHACw"
+        },
+        {
+          "name": "Europa Galante",
+          "url": "https://open.spotify.com/artist/2U5grycWMciHdeNQGUH7dO"
+        },
+        {
+          "name": "Fabio Biondi",
+          "url": "https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48013,
+      "name": "Scarlatti, A: Clori, Dorino e Amore: Sinfonia avanti la Serenata. III. Minuet",
+      "url": "https://open.spotify.com/track/3QCitdybXxsJXl9bye7gxk"
+    },
+    {
+      "album": {
+        "name": "Scarlatti: Concerti e Sinfonie",
+        "url": "https://open.spotify.com/album/4E7CCiWvxsw02kSyje067R"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Scarlatti",
+          "url": "https://open.spotify.com/artist/5HGksnSVY91s4g1SOHHACw"
+        },
+        {
+          "name": "Europa Galante",
+          "url": "https://open.spotify.com/artist/2U5grycWMciHdeNQGUH7dO"
+        },
+        {
+          "name": "Fabio Biondi",
+          "url": "https://open.spotify.com/artist/3r1dphXjVBOwbUAYrrkEkQ"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49760,
+      "name": "Scarlatti, A: Clori, Dorino e Amore: Sinfonia avanti la Serenata. IV. Grave",
+      "url": "https://open.spotify.com/track/0ypuYOw0S40k2AFXl45jAN"
+    },
+    {
+      "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/4zcsiZUaRp72HPm5vEFPDr"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Thomas Quasthoff",
+          "url": "https://open.spotify.com/artist/2F9wlqbFp62pIdVrjnhdZi"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Schwanengesang, D.957 (Cycle) - Orchestrated By Jacques Offenbach As \"La S\u00e9r\u00e9nade de Schubert\": St\u00e4ndchen - Live",
+      "url": "https://open.spotify.com/track/4ofPXrHlk4hCd7UHcOcNLv"
+    },
+    {
+      "album": {
+        "name": "Bridge: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2FR2fnFgEBJ6ozg4tOo2R3"
+      },
+      "artists": [
+        {
+          "name": "Frank Bridge",
+          "url": "https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/1tyFHDk6hKz3kCfG46ZwMl"
+    },
+    {
+      "album": {
+        "name": "Bernstein conducts Bernstein (7 CDs)",
+        "url": "https://open.spotify.com/album/3APcsWCMgaevC7P5xz88t4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Serenade After Plato's \"Symposium\": 1. Phaedrus - Pausanias: Lento - Allegro marcato - Live",
+      "url": "https://open.spotify.com/track/6l9ZJRvl7CP70U7cyI84he"
+    },
+    {
+      "album": {
+        "name": "Bernstein conducts Bernstein (7 CDs)",
+        "url": "https://open.spotify.com/album/3APcsWCMgaevC7P5xz88t4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Serenade After Plato's \"Symposium\": 2. Aristophanes: Allegretto - Live",
+      "url": "https://open.spotify.com/track/1C6QdTK65SUjjrLaYKdqpa"
+    },
+    {
+      "album": {
+        "name": "Bernstein conducts Bernstein (7 CDs)",
+        "url": "https://open.spotify.com/album/3APcsWCMgaevC7P5xz88t4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89560,
+      "name": "Serenade After Plato's \"Symposium\": 3. Erixymachus: Presto - Live",
+      "url": "https://open.spotify.com/track/4QcLYASnVZRiszSpIkq2Q1"
+    },
+    {
+      "album": {
+        "name": "Bernstein conducts Bernstein (7 CDs)",
+        "url": "https://open.spotify.com/album/3APcsWCMgaevC7P5xz88t4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391000,
+      "name": "Serenade After Plato's \"Symposium\": 4. Agathon: Adagio - Live",
+      "url": "https://open.spotify.com/track/1P45RCDQ6P11XC4UTiL0UH"
+    },
+    {
+      "album": {
+        "name": "Bernstein conducts Bernstein (7 CDs)",
+        "url": "https://open.spotify.com/album/3APcsWCMgaevC7P5xz88t4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628000,
+      "name": "Serenade After Plato's \"Symposium\": 5. Socrates - Alcibiades: Molto tenuto - Allegro molto vivace - Live",
+      "url": "https://open.spotify.com/track/2dXH2rzvBpiLecyqeFBaVP"
+    },
+    {
+      "album": {
+        "name": "Woud: Serenade / Bourgeois: Fantasia On the Hexachord",
+        "url": "https://open.spotify.com/album/0Uemn3RyGErf4olNg4M5EN"
+      },
+      "artists": [
+        {
+          "name": "Nick Woud",
+          "url": "https://open.spotify.com/artist/5rHNeRBsUAuq1YOMGZi2Un"
+        },
+        {
+          "name": "Bjorn Kare Moe",
+          "url": "https://open.spotify.com/artist/2uTMUqYNVjugJ8Kr4PASzG"
+        },
+        {
+          "name": "Ingo Petry",
+          "url": "https://open.spotify.com/artist/0t55uTI9ZufzSMmsiHPSxu"
+        },
+        {
+          "name": "Ben van Dijk",
+          "url": "https://open.spotify.com/artist/46JmNfEU8p9z6ZCSVwNoH0"
+        },
+        {
+          "name": "Triton Trombone Quartet",
+          "url": "https://open.spotify.com/artist/3eoGd5aNuKPqFnIc6bb2e0"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334440,
+      "name": "Serenade for Bass Trombone solo and four Tenor Trombones: II. Movement 2: Adagio",
+      "url": "https://open.spotify.com/track/6IeY5swXTgbc70H4PkRyPg"
+    },
+    {
+      "album": {
+        "name": "Woud: Serenade / Bourgeois: Fantasia On the Hexachord",
+        "url": "https://open.spotify.com/album/0Uemn3RyGErf4olNg4M5EN"
+      },
+      "artists": [
+        {
+          "name": "Nick Woud",
+          "url": "https://open.spotify.com/artist/5rHNeRBsUAuq1YOMGZi2Un"
+        },
+        {
+          "name": "Bjorn Kare Moe",
+          "url": "https://open.spotify.com/artist/2uTMUqYNVjugJ8Kr4PASzG"
+        },
+        {
+          "name": "Ingo Petry",
+          "url": "https://open.spotify.com/artist/0t55uTI9ZufzSMmsiHPSxu"
+        },
+        {
+          "name": "Ben van Dijk",
+          "url": "https://open.spotify.com/artist/46JmNfEU8p9z6ZCSVwNoH0"
+        },
+        {
+          "name": "Triton Trombone Quartet",
+          "url": "https://open.spotify.com/artist/3eoGd5aNuKPqFnIc6bb2e0"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405360,
+      "name": "Serenade for Bass Trombone solo and four Tenor Trombones: III. Movement 3: Allegro furioso",
+      "url": "https://open.spotify.com/track/46cc5ePSWsQwjkP5jxTtjD"
+    },
+    {
+      "album": {
+        "name": "A Passion For Music (5 CDs)",
+        "url": "https://open.spotify.com/album/58DA0odhIkSoDrSpzEw8AJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3 Weiner",
+          "url": "https://open.spotify.com/artist/1emaGd6t7KihZTyIePqseu"
+        },
+        {
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351426,
+      "name": "Serenade for small orchestra, Op.3: 1. Allegretto, quasi andantino",
+      "url": "https://open.spotify.com/track/3NcV0o8UrvfgRqQv00oJsK"
+    },
+    {
+      "album": {
+        "name": "A Passion For Music (5 CDs)",
+        "url": "https://open.spotify.com/album/58DA0odhIkSoDrSpzEw8AJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3 Weiner",
+          "url": "https://open.spotify.com/artist/1emaGd6t7KihZTyIePqseu"
+        },
+        {
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309150,
+      "name": "Serenade for small orchestra, Op.3: 2. Lebhaft, sehr rhythmisch",
+      "url": "https://open.spotify.com/track/638Oy77f74Joq7HVKYwRn8"
+    },
+    {
+      "album": {
+        "name": "A Passion For Music (5 CDs)",
+        "url": "https://open.spotify.com/album/58DA0odhIkSoDrSpzEw8AJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3 Weiner",
+          "url": "https://open.spotify.com/artist/1emaGd6t7KihZTyIePqseu"
+        },
+        {
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "Serenade for small orchestra, Op.3: 3. Andantino",
+      "url": "https://open.spotify.com/track/0P0sAWPfqVTktO4HIpmy4c"
+    },
+    {
+      "album": {
+        "name": "A Passion For Music (5 CDs)",
+        "url": "https://open.spotify.com/album/58DA0odhIkSoDrSpzEw8AJ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3 Weiner",
+          "url": "https://open.spotify.com/artist/1emaGd6t7KihZTyIePqseu"
+        },
+        {
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305360,
+      "name": "Serenade for small orchestra, Op.3: 4. Allegro molto",
+      "url": "https://open.spotify.com/track/3xIiziHx2vARSCV9zom7F9"
+    },
+    {
+      "album": {
+        "name": "Bassoon Fireworks: Late Twentieth-Century Virtuoso Works - Sofia Gubaidulina, Lewis Neilsen, William Davis",
+        "url": "https://open.spotify.com/album/1ub0ZEtAfeE91GntzxjOYC"
+      },
+      "artists": [
+        {
+          "name": "William Davis",
+          "url": "https://open.spotify.com/artist/6NL89Uz1WOJd9mL5PFMvYM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315373,
+      "name": "Serenade for Solo Bassoon (William Davis)",
+      "url": "https://open.spotify.com/track/359RJ3tsIikozC8I90hsBx"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi: Serenade & Sonatas",
+        "url": "https://open.spotify.com/album/5Zl6iBGecE0MWNE96cTidy"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Marc Coppey",
+          "url": "https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf"
+        },
+        {
+          "name": "David Grimal",
+          "url": "https://open.spotify.com/artist/1DOVYZQwMSvbseEj5PEaSr"
+        },
+        {
+          "name": "G\u00e9rard Causs\u00e9",
+          "url": "https://open.spotify.com/artist/7raZI8CqxKC0EVExPP9EIS"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124066,
+      "name": "Serenade for String Trio in C Major, Op. 10: I. Marcia",
+      "url": "https://open.spotify.com/track/2rkuna9rz1SnogvJLX0tDm"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi: Serenade & Sonatas",
+        "url": "https://open.spotify.com/album/5Zl6iBGecE0MWNE96cTidy"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Marc Coppey",
+          "url": "https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf"
+        },
+        {
+          "name": "David Grimal",
+          "url": "https://open.spotify.com/artist/1DOVYZQwMSvbseEj5PEaSr"
+        },
+        {
+          "name": "G\u00e9rard Causs\u00e9",
+          "url": "https://open.spotify.com/artist/7raZI8CqxKC0EVExPP9EIS"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Serenade for String Trio in C Major, Op. 10: II. Romance",
+      "url": "https://open.spotify.com/track/4eKRK9fh4gIt03bnywAVoD"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi: Serenade & Sonatas",
+        "url": "https://open.spotify.com/album/5Zl6iBGecE0MWNE96cTidy"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Marc Coppey",
+          "url": "https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf"
+        },
+        {
+          "name": "David Grimal",
+          "url": "https://open.spotify.com/artist/1DOVYZQwMSvbseEj5PEaSr"
+        },
+        {
+          "name": "G\u00e9rard Causs\u00e9",
+          "url": "https://open.spotify.com/artist/7raZI8CqxKC0EVExPP9EIS"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256506,
+      "name": "Serenade for String Trio in C Major, Op. 10: III. Scherzo",
+      "url": "https://open.spotify.com/track/2TN6L6SlWbMU9zHRh976ll"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi: Serenade & Sonatas",
+        "url": "https://open.spotify.com/album/5Zl6iBGecE0MWNE96cTidy"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Marc Coppey",
+          "url": "https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf"
+        },
+        {
+          "name": "David Grimal",
+          "url": "https://open.spotify.com/artist/1DOVYZQwMSvbseEj5PEaSr"
+        },
+        {
+          "name": "G\u00e9rard Causs\u00e9",
+          "url": "https://open.spotify.com/artist/7raZI8CqxKC0EVExPP9EIS"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378520,
+      "name": "Serenade for String Trio in C Major, Op. 10: IV. Tema Con Variazione",
+      "url": "https://open.spotify.com/track/6qzU5vtZ2YcVhDRaJuzO4o"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi: Serenade & Sonatas",
+        "url": "https://open.spotify.com/album/5Zl6iBGecE0MWNE96cTidy"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Marc Coppey",
+          "url": "https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf"
+        },
+        {
+          "name": "David Grimal",
+          "url": "https://open.spotify.com/artist/1DOVYZQwMSvbseEj5PEaSr"
+        },
+        {
+          "name": "G\u00e9rard Causs\u00e9",
+          "url": "https://open.spotify.com/artist/7raZI8CqxKC0EVExPP9EIS"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "Serenade for String Trio in C Major, Op. 10: V. Finale",
+      "url": "https://open.spotify.com/track/5WHFblJHLeU7trn2ubPDzv"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The String Trios",
+        "url": "https://open.spotify.com/album/0l38RERzOm7qtks3EBkm5S"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Bruno Giuranna",
+          "url": "https://open.spotify.com/artist/5dUIvvshncBdiCDNQD6BCy"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444760,
+      "name": "Serenade For String Trio In D, Op.8: 1. Marcia (Allegro - Adagio)",
+      "url": "https://open.spotify.com/track/5nPCsVwQ7gs5hPtKZYFf2X"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The String Trios",
+        "url": "https://open.spotify.com/album/0l38RERzOm7qtks3EBkm5S"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Bruno Giuranna",
+          "url": "https://open.spotify.com/artist/5dUIvvshncBdiCDNQD6BCy"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "Serenade For String Trio In D, Op.8: 2. Menuetto (Allegretto)",
+      "url": "https://open.spotify.com/track/4zetgBGALMETYtrHQrzLLc"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The String Trios",
+        "url": "https://open.spotify.com/album/0l38RERzOm7qtks3EBkm5S"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Bruno Giuranna",
+          "url": "https://open.spotify.com/artist/5dUIvvshncBdiCDNQD6BCy"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294733,
+      "name": "Serenade For String Trio In D, Op.8: 3. Adagio - Scherzo (Allegro molto) - Adagio (Tempo I) - Allegro molto",
+      "url": "https://open.spotify.com/track/4NyZ3iNk4SisxSuWD410Lv"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The String Trios",
+        "url": "https://open.spotify.com/album/0l38RERzOm7qtks3EBkm5S"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Bruno Giuranna",
+          "url": "https://open.spotify.com/artist/5dUIvvshncBdiCDNQD6BCy"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Serenade For String Trio In D, Op.8: 4. Allegretto alla Polacca",
+      "url": "https://open.spotify.com/track/3vyqy9mwoPQEw4reeHTEnj"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The String Trios",
+        "url": "https://open.spotify.com/album/0l38RERzOm7qtks3EBkm5S"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Bruno Giuranna",
+          "url": "https://open.spotify.com/artist/5dUIvvshncBdiCDNQD6BCy"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557000,
+      "name": "Serenade For String Trio In D, Op.8: 5. Thema con Variazioni: Andante quasi Allegretto - Variations I -IV - Marcia. Allegro",
+      "url": "https://open.spotify.com/track/3GREpczaR0tPUjB2vVtoLN"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto & Serenade for Strings",
+        "url": "https://open.spotify.com/album/5RmUAVbA4nqozLPw4yvgy5"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665600,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: I. Pezzo in forma di sonatina",
+      "url": "https://open.spotify.com/track/0pqXHFVgUM2bCDI03vNWyT"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto & Serenade for Strings",
+        "url": "https://open.spotify.com/album/5RmUAVbA4nqozLPw4yvgy5"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: II. Valse",
+      "url": "https://open.spotify.com/track/1Tk3SUk1XycYWT311uRe8Q"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto & Serenade for Strings",
+        "url": "https://open.spotify.com/album/5RmUAVbA4nqozLPw4yvgy5"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647666,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: III. Elegia",
+      "url": "https://open.spotify.com/track/3ejMl8VCZ5VDp4pQ5bLB7k"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto & Serenade for Strings",
+        "url": "https://open.spotify.com/album/5RmUAVbA4nqozLPw4yvgy5"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485026,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: IV. Finale",
+      "url": "https://open.spotify.com/track/3pbxY0hzyfDI43js6RUJRH"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No.2/Dvor\u00e1k: Serenade for Strings",
+        "url": "https://open.spotify.com/album/1vLAd8yJrZzsMJFWnSI37W"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Serenade for Strings in E, Op.22: 1. Moderato",
+      "url": "https://open.spotify.com/track/7JSjd4vAZwHwS5YYBmQEa2"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No.2/Dvor\u00e1k: Serenade for Strings",
+        "url": "https://open.spotify.com/album/1vLAd8yJrZzsMJFWnSI37W"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427500,
+      "name": "Serenade for Strings in E, Op.22: 2. Tempo di valse",
+      "url": "https://open.spotify.com/track/46Ud1nEivBVXBiWXBGCNjr"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No.2/Dvor\u00e1k: Serenade for Strings",
+        "url": "https://open.spotify.com/album/1vLAd8yJrZzsMJFWnSI37W"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332500,
+      "name": "Serenade for Strings in E, Op.22: 3. Scherzo (Vivace)",
+      "url": "https://open.spotify.com/track/7hLCnBuamIfNBb6m480P9z"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No.2/Dvor\u00e1k: Serenade for Strings",
+        "url": "https://open.spotify.com/album/1vLAd8yJrZzsMJFWnSI37W"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305750,
+      "name": "Serenade for Strings in E, Op.22: 4. Larghetto",
+      "url": "https://open.spotify.com/track/1hiy9BYQYvx7AFCUiV21G7"
+    },
+    {
+      "album": {
+        "name": "Brahms: Symphony No.2/Dvor\u00e1k: Serenade for Strings",
+        "url": "https://open.spotify.com/album/1vLAd8yJrZzsMJFWnSI37W"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423000,
+      "name": "Serenade for Strings in E, Op.22: 5. Finale (Allegro vivace)",
+      "url": "https://open.spotify.com/track/4xwVMBPE7YU6EssdvRj6Yx"
+    },
+    {
+      "album": {
+        "name": "Suk: Asrael / Fairy Tale / Serenade for Strings",
+        "url": "https://open.spotify.com/album/7gx3vmyzIS2QtPwAXAX5fC"
+      },
+      "artists": [
+        {
+          "name": "Josef Suk",
+          "url": "https://open.spotify.com/artist/6xV7WL4etX4sILBdTz6fYN"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Serenade for Strings in E-Flat Major, Op. 6: I. Andante con moto",
+      "url": "https://open.spotify.com/track/0z2XSrQJ33HLu5zbPdpKyu"
+    },
+    {
+      "album": {
+        "name": "Suk: Asrael / Fairy Tale / Serenade for Strings",
+        "url": "https://open.spotify.com/album/7gx3vmyzIS2QtPwAXAX5fC"
+      },
+      "artists": [
+        {
+          "name": "Josef Suk",
+          "url": "https://open.spotify.com/artist/6xV7WL4etX4sILBdTz6fYN"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364320,
+      "name": "Serenade for Strings in E-Flat Major, Op. 6: II. Allegro, ma non troppo e grazioso",
+      "url": "https://open.spotify.com/track/0aGaVprExuJ6ApdCjumMfz"
+    },
+    {
+      "album": {
+        "name": "Suk: Asrael / Fairy Tale / Serenade for Strings",
+        "url": "https://open.spotify.com/album/7gx3vmyzIS2QtPwAXAX5fC"
+      },
+      "artists": [
+        {
+          "name": "Josef Suk",
+          "url": "https://open.spotify.com/artist/6xV7WL4etX4sILBdTz6fYN"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578520,
+      "name": "Serenade for Strings in E-Flat Major, Op. 6: III. Adagio - Pi\u00f9 andante - Tempo I",
+      "url": "https://open.spotify.com/track/3P4ks1FwOk08Uuxy3YYbuw"
+    },
+    {
+      "album": {
+        "name": "Suk: Asrael / Fairy Tale / Serenade for Strings",
+        "url": "https://open.spotify.com/album/7gx3vmyzIS2QtPwAXAX5fC"
+      },
+      "artists": [
+        {
+          "name": "Josef Suk",
+          "url": "https://open.spotify.com/artist/6xV7WL4etX4sILBdTz6fYN"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478800,
+      "name": "Serenade for Strings in E-Flat Major, Op. 6: IV. Allegro giocoso, ma non troppo presto - Vivace",
+      "url": "https://open.spotify.com/track/5kZhBiOVkEoT4XOMUAwM5X"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "Serenade for tenor, horn & strings, Op.31: Dirge - This Ae Night",
+      "url": "https://open.spotify.com/track/0lw4EX39lPFhZqvWyJpMb0"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Serenade for tenor, horn & strings, Op.31: Elegy - O Rose, Thou Art Sick",
+      "url": "https://open.spotify.com/track/6SQyAGbZame9iqgdnluHGO"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93226,
+      "name": "Serenade for tenor, horn & strings, Op.31: Epilogue",
+      "url": "https://open.spotify.com/track/5qzPw6DYesDPKHZReWYjzL"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122906,
+      "name": "Serenade for tenor, horn & strings, Op.31: Hymn - Queen and Huntress Chaste and Fair",
+      "url": "https://open.spotify.com/track/2rFsOBD9USXmldFftcERE8"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Serenade for tenor, horn & strings, Op.31: Nocturne - The Splendour Falls on Castle Walls",
+      "url": "https://open.spotify.com/track/5HsHo5g6GI2FCKEE8uqHAg"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Serenade for tenor, horn & strings, Op.31: Pastoral - The Day's Grown Old",
+      "url": "https://open.spotify.com/track/6cRiqnKmqKPAw9bSoauFkV"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87400,
+      "name": "Serenade for tenor, horn & strings, Op.31: Prologue",
+      "url": "https://open.spotify.com/track/315CMAUtGRQevJMCgLAMyt"
+    },
+    {
+      "album": {
+        "name": "Britten: Serenade for tenor, horn and strings; Les Illuminations; Nocturne",
+        "url": "https://open.spotify.com/album/1BaKkuqMLhqmA4AHnEHNfb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Sir Peter Pears",
+          "url": "https://open.spotify.com/artist/2B4N612xGjNj2cAAYsP4MO"
+        },
+        {
+          "name": "Barry Tuckwell",
+          "url": "https://open.spotify.com/artist/4FhjvKJ6w2iX3q8p2LpN8y"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Serenade for tenor, horn & strings, Op.31: Sonnet - O Soft Embalmer of the Still Midnight",
+      "url": "https://open.spotify.com/track/5OoNPdy7KZPEZD8lb6NQIT"
+    },
+    {
+      "album": {
+        "name": "Bax / Lambert / Rieti",
+        "url": "https://open.spotify.com/album/7cse8RtbPmMXNf2VPJQAVA"
+      },
+      "artists": [
+        {
+          "name": "Harmonia Ensemble & Giuseppe Grazioli",
+          "url": "https://open.spotify.com/artist/1kRzrpAfP6d6Ls2GsY2Uh9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Serenade For Violin & Little Orchestra (Paris 1931): I. Allegro - Cadenza - Tempo I (Rieti)",
+      "url": "https://open.spotify.com/track/5AA9wuOzVk3Z6mFeYvA5zd"
+    },
+    {
+      "album": {
+        "name": "Bax / Lambert / Rieti",
+        "url": "https://open.spotify.com/album/7cse8RtbPmMXNf2VPJQAVA"
+      },
+      "artists": [
+        {
+          "name": "Harmonia Ensemble & Giuseppe Grazioli",
+          "url": "https://open.spotify.com/artist/1kRzrpAfP6d6Ls2GsY2Uh9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472533,
+      "name": "Serenade For Violin & Little Orchestra (Paris 1931): II. Cadenza - Adagio Non Troppo - In Tempo - Siciliana (Rieti)",
+      "url": "https://open.spotify.com/track/76svHO4BYRgDYT75B2mqrj"
+    },
+    {
+      "album": {
+        "name": "Bax / Lambert / Rieti",
+        "url": "https://open.spotify.com/album/7cse8RtbPmMXNf2VPJQAVA"
+      },
+      "artists": [
+        {
+          "name": "Harmonia Ensemble & Giuseppe Grazioli",
+          "url": "https://open.spotify.com/artist/1kRzrpAfP6d6Ls2GsY2Uh9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141307,
+      "name": "Serenade For Violin & Little Orchestra (Paris 1931): III. Allegretto (Rieti)",
+      "url": "https://open.spotify.com/track/4BvxdapBpoWcDXqFVExxyX"
+    },
+    {
+      "album": {
+        "name": "Bax / Lambert / Rieti",
+        "url": "https://open.spotify.com/album/7cse8RtbPmMXNf2VPJQAVA"
+      },
+      "artists": [
+        {
+          "name": "Harmonia Ensemble & Giuseppe Grazioli",
+          "url": "https://open.spotify.com/artist/1kRzrpAfP6d6Ls2GsY2Uh9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135427,
+      "name": "Serenade For Violin & Little Orchestra (Paris 1931): IV. Allegro Vivace (Rieti)",
+      "url": "https://open.spotify.com/track/6Ok0dCj7SoZDvfbrut1gOG"
+    },
+    {
+      "album": {
+        "name": "Bruch: The Complete Violin Concertos (2 CDs)",
+        "url": "https://open.spotify.com/album/31ZzTSo8YhNmfHlxOiZjaK"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Salvatore Accardo",
+          "url": "https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565000,
+      "name": "Serenade for Violin and Orchestra, Op.75: 1. Andante con moto",
+      "url": "https://open.spotify.com/track/0wwlIQIO1tBwp2kACDwOk2"
+    },
+    {
+      "album": {
+        "name": "Bruch: The Complete Violin Concertos (2 CDs)",
+        "url": "https://open.spotify.com/album/31ZzTSo8YhNmfHlxOiZjaK"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Salvatore Accardo",
+          "url": "https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562000,
+      "name": "Serenade for Violin and Orchestra, Op.75: 2. Allegro moderato, alla marcia",
+      "url": "https://open.spotify.com/track/3CzlKqg7RSxZySgd8G9awE"
+    },
+    {
+      "album": {
+        "name": "Bruch: The Complete Violin Concertos (2 CDs)",
+        "url": "https://open.spotify.com/album/31ZzTSo8YhNmfHlxOiZjaK"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Salvatore Accardo",
+          "url": "https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581000,
+      "name": "Serenade for Violin and Orchestra, Op.75: 3. Notturno",
+      "url": "https://open.spotify.com/track/4I4JxWFPegebWNz0CJnqBl"
+    },
+    {
+      "album": {
+        "name": "Bruch: The Complete Violin Concertos (2 CDs)",
+        "url": "https://open.spotify.com/album/31ZzTSo8YhNmfHlxOiZjaK"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Salvatore Accardo",
+          "url": "https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553426,
+      "name": "Serenade for Violin and Orchestra, Op.75: 4. Allegro energico e vivace",
+      "url": "https://open.spotify.com/track/68PxO2B6DbqESYaRW8IAy7"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in D-Dur, Op. 77a: I. Allegro",
+      "url": "https://open.spotify.com/track/7i0hBJUtFPY46bMQXUqzkh"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in D-Dur, Op. 77a: II. Andante semplice con variazione",
+      "url": "https://open.spotify.com/track/2IbjuPaQaq3WJmtylYOYcS"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in D-Dur, Op. 77a: III. Presto",
+      "url": "https://open.spotify.com/track/0v5srFWHbMc7pkEgf5nNDE"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in G-Dur, Op. 141a: I. Vivace",
+      "url": "https://open.spotify.com/track/1CqMWE5A9d01hrh83jspbC"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in G-Dur, Op. 141a: II. Larghetto",
+      "url": "https://open.spotify.com/track/2NSlMAslxFAGXl0ly2O9LC"
+    },
+    {
+      "album": {
+        "name": "Reger: Serenaden Op. 141a & 77a, Klarinettenquintett Op. 146",
+        "url": "https://open.spotify.com/album/4Rc66mm2EetoNJTXmb2BUh"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "Toon Fret",
+          "url": "https://open.spotify.com/artist/1begsNTfCv9bOmp8XEzrOE"
+        },
+        {
+          "name": "Shirly Laub",
+          "url": "https://open.spotify.com/artist/4tSWEXPW4F3unnyNZQetQh"
+        },
+        {
+          "name": "Elisabeth Smalt",
+          "url": "https://open.spotify.com/artist/2ehjGWZ27VV9Tr9E2QGLWc"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Serenade f\u00fcr Fl\u00f6te, Violine und Viola in G-Dur, Op. 141a: III. Presto",
+      "url": "https://open.spotify.com/track/29hihR8FZp3X1yEwHi33Eg"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519773,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 1. Largo - Allegro molto",
+      "url": "https://open.spotify.com/track/4r9mUATz9unezEspVFTAaa"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573200,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 2. Menuetto (Allegretto) - Trio I-II",
+      "url": "https://open.spotify.com/track/1WiDQAmnq7d91E2GrHh03j"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301613,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 3. Adagio",
+      "url": "https://open.spotify.com/track/0skZDuOn9t8VOBKvTCDESb"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 4. Menuetto (Allegretto) - Trio I-II",
+      "url": "https://open.spotify.com/track/5FcdtnLa0hEIu63bc76A9t"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399306,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 5. Romanze: Adagio - Allegretto",
+      "url": "https://open.spotify.com/track/2dySx1eVsTvVk4fn2ZeD42"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566640,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 6. Tema con Variazioni: Andante",
+      "url": "https://open.spotify.com/track/2V2yWV3t6qKffyCHXcOVEZ"
+    },
+    {
+      "album": {
+        "name": "Mozart: Gran Partita / Berg: Kammerkonzert",
+        "url": "https://open.spotify.com/album/6dXHGDvL5y06N1FvZcLMgZ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ensemble Intercontemporain",
+          "url": "https://open.spotify.com/artist/6auEkE1nJDzSod1SE6aVmZ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Serenade in B flat, K.361 \"Gran partita\": 7. Rondo: Allegro molto",
+      "url": "https://open.spotify.com/track/6yMS0f8mtv4zj05GHhxGQT"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Serenade, Op. 7 & Symphony for Winds - Antonin Dvorak: Serenade, Op. 44",
+        "url": "https://open.spotify.com/album/5VWhzP2aIk28uxtNKkFZjV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bl\u00e4serensemble Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6Xh7v5MIGGv7AmQAlkXYTj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Serenade in D Minor, Op. 44: I. Moderato, quasi marcia",
+      "url": "https://open.spotify.com/track/5kKtEVgP9ULAXZhdnSG8zs"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Serenade, Op. 7 & Symphony for Winds - Antonin Dvorak: Serenade, Op. 44",
+        "url": "https://open.spotify.com/album/5VWhzP2aIk28uxtNKkFZjV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bl\u00e4serensemble Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6Xh7v5MIGGv7AmQAlkXYTj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366386,
+      "name": "Serenade in D Minor, Op. 44: II. Minuetto",
+      "url": "https://open.spotify.com/track/4JLx2zzJ4bTwnaG6uZneic"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Serenade, Op. 7 & Symphony for Winds - Antonin Dvorak: Serenade, Op. 44",
+        "url": "https://open.spotify.com/album/5VWhzP2aIk28uxtNKkFZjV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bl\u00e4serensemble Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6Xh7v5MIGGv7AmQAlkXYTj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500360,
+      "name": "Serenade in D Minor, Op. 44: III. Andante con moto",
+      "url": "https://open.spotify.com/track/1pMrxgUtDoe6kCA4lTpd2o"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Serenade, Op. 7 & Symphony for Winds - Antonin Dvorak: Serenade, Op. 44",
+        "url": "https://open.spotify.com/album/5VWhzP2aIk28uxtNKkFZjV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Bl\u00e4serensemble Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6Xh7v5MIGGv7AmQAlkXYTj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Serenade in D Minor, Op. 44: IV. Finale. Allegro molto",
+      "url": "https://open.spotify.com/track/5oSstUnDDpusGfG9uL45rh"
+    },
+    {
+      "album": {
+        "name": "The World of Elgar",
+        "url": "https://open.spotify.com/album/18k7xwVRHE1esssYnd6Yxr"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205750,
+      "name": "Serenade in E minor for String Orchestra, Op.20: 1. Allegro piacevole",
+      "url": "https://open.spotify.com/track/2dDp571X7snGFMXDp6QDmm"
+    },
+    {
+      "album": {
+        "name": "The World of Elgar",
+        "url": "https://open.spotify.com/album/18k7xwVRHE1esssYnd6Yxr"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366826,
+      "name": "Serenade in E minor for String Orchestra, Op.20: 2. Larghetto",
+      "url": "https://open.spotify.com/track/5kpOEYxx6xyl7vSgZ49u3n"
+    },
+    {
+      "album": {
+        "name": "The World of Elgar",
+        "url": "https://open.spotify.com/album/18k7xwVRHE1esssYnd6Yxr"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "Serenade in E minor for String Orchestra, Op.20: 3. Allegretto",
+      "url": "https://open.spotify.com/track/1LarXEFXqOObMeWgpxZu8P"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Serenade, Op. 7 & Symphony for Winds - Antonin Dvorak: Serenade, Op. 44",
+        "url": "https://open.spotify.com/album/5VWhzP2aIk28uxtNKkFZjV"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Bl\u00e4serensemble Sabine Meyer",
+          "url": "https://open.spotify.com/artist/6Xh7v5MIGGv7AmQAlkXYTj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547293,
+      "name": "Serenade in E-Flat Major, Op. 7",
+      "url": "https://open.spotify.com/track/2TbWYo6tzVvPOzS7fPhEED"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421560,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): I. Ouvertura. Allegrissimo",
+      "url": "https://open.spotify.com/track/0Q0SrDsgcM1hTQiFnuoh8J"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422280,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): II. Reverenza. Tempo di menuetto, tranquillo e graziozo",
+      "url": "https://open.spotify.com/track/05uOI1iNPpxhOoLS0pyBG1"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394920,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): III. Canzonetta. Tempo di valse, ma poco tranquillo",
+      "url": "https://open.spotify.com/track/69pX7YVRqt7AGtqf9zxma3"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408240,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): IV. Scherzo. Presto",
+      "url": "https://open.spotify.com/track/4DwAywxqq5q9YqOoLaUj9c"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455760,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): V. Notturno. Andante sostenuto",
+      "url": "https://open.spotify.com/track/1amSd9Ap2It36dGn6AMw1s"
+    },
+    {
+      "album": {
+        "name": "Five Nordic Masters: Svendsen / Stenhammer / Nielsen / Sibelius / Tubin",
+        "url": "https://open.spotify.com/album/5AYdWSXle6SS6vcgCPDpXR"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Stenhammar",
+          "url": "https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513000,
+      "name": "Serenade in F Major, Op. 31 (original 1913 version): VI. Finale. Tempo moderato",
+      "url": "https://open.spotify.com/track/0IpQYHbf8OuIwOk0sheTIj"
+    },
+    {
+      "album": {
+        "name": "Loeffler: 2 Rhapsodies / Hindemith: Trios / Klughardt: Schilflieder / Kahn: Serenade",
+        "url": "https://open.spotify.com/album/2H8DIRXx978Y4QleUhnuHR"
+      },
+      "artists": [
+        {
+          "name": "Robert Kahn",
+          "url": "https://open.spotify.com/artist/4l5gHZPtVdQOlXQMOKwAtP"
+        },
+        {
+          "name": "Han De Vries",
+          "url": "https://open.spotify.com/artist/2NlMknkFHs1pFS1Tg8aybx"
+        },
+        {
+          "name": "Henk Guittart",
+          "url": "https://open.spotify.com/artist/69ucfMxBxyH4p4cyE4xuXH"
+        },
+        {
+          "name": "Ivo Janssen",
+          "url": "https://open.spotify.com/artist/7B55XT7tPKevTZZh9kwpNB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638640,
+      "name": "Serenade in F Minor, Op. 73",
+      "url": "https://open.spotify.com/track/1Z2bzmFfk06XH0CtCAigNP"
+    },
+    {
+      "album": {
+        "name": "National Chamber Players: Strauss, Reger, Brahms",
+        "url": "https://open.spotify.com/album/2g4W5ajMXjlfXpOUswVaqY"
+      },
+      "artists": [
+        {
+          "name": "Max Reger",
+          "url": "https://open.spotify.com/artist/2qpchAUtJNY45rG7auwQgz"
+        },
+        {
+          "name": "National Chamber Players",
+          "url": "https://open.spotify.com/artist/04z3HbXXEN7lAUaGlhnYrN"
+        },
+        {
+          "name": "Lowell Graham",
+          "url": "https://open.spotify.com/artist/00gpmX5co5L1QxeiNlWkDa"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361720,
+      "name": "Serenade in G Major, Op. 95",
+      "url": "https://open.spotify.com/track/6EwJZwghTOSvfYvSegrHMO"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Serenade in G Major: I. Prologue: Allegro (Original Version)",
+      "url": "https://open.spotify.com/track/3f2qpHO8PlNtFjlNjUvf6v"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Serenade in G Major: II. Intermezzo. Allegretto (Original Version)",
+      "url": "https://open.spotify.com/track/0yNOo0QL6JYFnCxBFXvZq2"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Serenade in G Major: III. Air. Lento, ma non troppo (Original Version)",
+      "url": "https://open.spotify.com/track/6r6hZwJxQh4y7Rc1mCRbKx"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139320,
+      "name": "Serenade in G Major: IV. Galop: Presto (Original Version)",
+      "url": "https://open.spotify.com/track/0R4uoYG5hNwz9lNygGegoy"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236520,
+      "name": "Serenade in G Major: V. Minuet: Tempo di minuetto (Original Version)",
+      "url": "https://open.spotify.com/track/2IoqTWYsaZkrCRvRPkGCls"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "Serenade in G Major: VI. Forlana: Andante con moto (Original Version)",
+      "url": "https://open.spotify.com/track/25jlfDzEfpBxgI6SYAHbsc"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107280,
+      "name": "Serenade in G Major: VII. Rigadoon: Con brio, ma tempo moderato \u2014 (Original Version)",
+      "url": "https://open.spotify.com/track/3EzIBuNybG7foIPr9JJgfz"
+    },
+    {
+      "album": {
+        "name": "Moeran: Serenade in G Major / Rhapsodies Nos. 1 and 2 / in the Mountain Country / Nocturne",
+        "url": "https://open.spotify.com/album/4vImFqFRDAp5ALy2Y3vS4q"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Ulster Orchestra",
+          "url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91440,
+      "name": "Serenade in G Major: VIII. Epilogue. Allegro un poco maestoso (Original Version)",
+      "url": "https://open.spotify.com/track/4oYRlomrrYt9eOKriAWyok"
+    },
+    {
+      "album": {
+        "name": "Mozart: Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\"",
+        "url": "https://open.spotify.com/album/303HrRDObsgxT5kMvawk4c"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Bruno Walter",
+          "url": "https://open.spotify.com/artist/1p4YAX8Nh6LiW3uPd49oAR"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274400,
+      "name": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro",
+      "url": "https://open.spotify.com/track/3cQyDc7JN7weRmNVjxw5n9"
+    },
+    {
+      "album": {
+        "name": "Mozart: Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\"",
+        "url": "https://open.spotify.com/album/303HrRDObsgxT5kMvawk4c"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Bruno Walter",
+          "url": "https://open.spotify.com/artist/1p4YAX8Nh6LiW3uPd49oAR"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327840,
+      "name": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": II. Romanze. Andante",
+      "url": "https://open.spotify.com/track/2rZXL378ZUOSj8Wt90SNdG"
+    },
+    {
+      "album": {
+        "name": "Mozart: Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\"",
+        "url": "https://open.spotify.com/album/303HrRDObsgxT5kMvawk4c"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Bruno Walter",
+          "url": "https://open.spotify.com/artist/1p4YAX8Nh6LiW3uPd49oAR"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135573,
+      "name": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": III. Menuetto. Allegretto",
+      "url": "https://open.spotify.com/track/2iarKECN8cX2PMM3kwkq8m"
+    },
+    {
+      "album": {
+        "name": "Mozart: Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\"",
+        "url": "https://open.spotify.com/album/303HrRDObsgxT5kMvawk4c"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Bruno Walter",
+          "url": "https://open.spotify.com/artist/1p4YAX8Nh6LiW3uPd49oAR"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": IV. Rondo. Allegro",
+      "url": "https://open.spotify.com/track/13xP3nllchjCK21LYWfEq8"
+    },
+    {
+      "album": {
+        "name": "George Perle: Serenade No. 3/Ballade/Concertino",
+        "url": "https://open.spotify.com/album/2R2DJ2DCYaVsBWJvbcZzgG"
+      },
+      "artists": [
+        {
+          "name": "George Perle",
+          "url": "https://open.spotify.com/artist/5k6Bxi6gfjQPYRnNDvZgNi"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        },
+        {
+          "name": "George Schwarz",
+          "url": "https://open.spotify.com/artist/06Yw6rkNy99MnpnuLEhMU1"
+        },
+        {
+          "name": "Music Today Ensemble",
+          "url": "https://open.spotify.com/artist/6rzKIB2Lpy1RZbRmFMGeBg"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291933,
+      "name": "Serenade No. 3 for Piano and Chamber Orchestra (1983) - Allegro",
+      "url": "https://open.spotify.com/track/3ZNX7pl7N5W9vZpbh4GAvu"
+    },
+    {
+      "album": {
+        "name": "George Perle: Serenade No. 3/Ballade/Concertino",
+        "url": "https://open.spotify.com/album/2R2DJ2DCYaVsBWJvbcZzgG"
+      },
+      "artists": [
+        {
+          "name": "George Perle",
+          "url": "https://open.spotify.com/artist/5k6Bxi6gfjQPYRnNDvZgNi"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        },
+        {
+          "name": "George Schwarz",
+          "url": "https://open.spotify.com/artist/06Yw6rkNy99MnpnuLEhMU1"
+        },
+        {
+          "name": "Music Today Ensemble",
+          "url": "https://open.spotify.com/artist/6rzKIB2Lpy1RZbRmFMGeBg"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Serenade No. 3 for Piano and Chamber Orchestra (1983) - Burlesco",
+      "url": "https://open.spotify.com/track/6iH6xwWBRuW67EU4qfZeJ3"
+    },
+    {
+      "album": {
+        "name": "George Perle: Serenade No. 3/Ballade/Concertino",
+        "url": "https://open.spotify.com/album/2R2DJ2DCYaVsBWJvbcZzgG"
+      },
+      "artists": [
+        {
+          "name": "George Perle",
+          "url": "https://open.spotify.com/artist/5k6Bxi6gfjQPYRnNDvZgNi"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        },
+        {
+          "name": "George Schwarz",
+          "url": "https://open.spotify.com/artist/06Yw6rkNy99MnpnuLEhMU1"
+        },
+        {
+          "name": "Music Today Ensemble",
+          "url": "https://open.spotify.com/artist/6rzKIB2Lpy1RZbRmFMGeBg"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291066,
+      "name": "Serenade No. 3 for Piano and Chamber Orchestra (1983) - Elegy In Memory of George Balanchine",
+      "url": "https://open.spotify.com/track/64IBbw6YB35fIK3xkrM9Cc"
+    },
+    {
+      "album": {
+        "name": "George Perle: Serenade No. 3/Ballade/Concertino",
+        "url": "https://open.spotify.com/album/2R2DJ2DCYaVsBWJvbcZzgG"
+      },
+      "artists": [
+        {
+          "name": "George Perle",
+          "url": "https://open.spotify.com/artist/5k6Bxi6gfjQPYRnNDvZgNi"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        },
+        {
+          "name": "George Schwarz",
+          "url": "https://open.spotify.com/artist/06Yw6rkNy99MnpnuLEhMU1"
+        },
+        {
+          "name": "Music Today Ensemble",
+          "url": "https://open.spotify.com/artist/6rzKIB2Lpy1RZbRmFMGeBg"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Serenade No. 3 for Piano and Chamber Orchestra (1983) - Finale",
+      "url": "https://open.spotify.com/track/3m6BRx79q1MrAGY2zZjsTB"
+    },
+    {
+      "album": {
+        "name": "George Perle: Serenade No. 3/Ballade/Concertino",
+        "url": "https://open.spotify.com/album/2R2DJ2DCYaVsBWJvbcZzgG"
+      },
+      "artists": [
+        {
+          "name": "George Perle",
+          "url": "https://open.spotify.com/artist/5k6Bxi6gfjQPYRnNDvZgNi"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        },
+        {
+          "name": "George Schwarz",
+          "url": "https://open.spotify.com/artist/06Yw6rkNy99MnpnuLEhMU1"
+        },
+        {
+          "name": "Music Today Ensemble",
+          "url": "https://open.spotify.com/artist/6rzKIB2Lpy1RZbRmFMGeBg"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100026,
+      "name": "Serenade No. 3 for Piano and Chamber Orchestra (1983) - Perpetuum Mobile",
+      "url": "https://open.spotify.com/track/0voSzK4F8hx0uCikrSjp0P"
+    },
+    {
+      "album": {
+        "name": "Brahms: Complete Edition",
+        "url": "https://open.spotify.com/album/50v3ywdVyJu9MTqqbimOuW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575000,
+      "name": "Serenade No.2 In A, Op.16: 1. Allegro moderato",
+      "url": "https://open.spotify.com/track/6BWMixb1y2D8zy4DnvpwoP"
+    },
+    {
+      "album": {
+        "name": "Brahms: Complete Edition",
+        "url": "https://open.spotify.com/album/50v3ywdVyJu9MTqqbimOuW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Serenade No.2 In A, Op.16: 2. Scherzo (Vivace)",
+      "url": "https://open.spotify.com/track/2dG69rHwKk3fcXOxAV92po"
+    },
+    {
+      "album": {
+        "name": "Brahms: Complete Edition",
+        "url": "https://open.spotify.com/album/50v3ywdVyJu9MTqqbimOuW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581000,
+      "name": "Serenade No.2 In A, Op.16: 3. Adagio non troppo",
+      "url": "https://open.spotify.com/track/3NNu2rhwCRqJtsSzO7ohvO"
+    },
+    {
+      "album": {
+        "name": "Brahms: Complete Edition",
+        "url": "https://open.spotify.com/album/50v3ywdVyJu9MTqqbimOuW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Serenade No.2 In A, Op.16: 4. Quasi menuetto - Trio",
+      "url": "https://open.spotify.com/track/4H2ijBH92ip3yQ5IUeuliS"
+    },
+    {
+      "album": {
+        "name": "Brahms: Complete Edition",
+        "url": "https://open.spotify.com/album/50v3ywdVyJu9MTqqbimOuW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "Serenade No.2 In A, Op.16: 5. Rondo (Allegro)",
+      "url": "https://open.spotify.com/track/3nDmmgH4xWxF96j707sfRo"
+    },
+    {
+      "album": {
+        "name": "Hickox conducts Vaughan Williams",
+        "url": "https://open.spotify.com/album/4mrVKyk8cIfVoOBfjY8bLK"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Northern Sinfonia of England/Bradley Creswick/Richard Hickox",
+          "url": "https://open.spotify.com/artist/6lF6NyjpvhKMc9PZnhY1Fs"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        },
+        {
+          "name": "Northern Sinfonia Of England",
+          "url": "https://open.spotify.com/artist/3SsiIuVEan2wxTDA6q6Uz1"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 700693,
+      "name": "Serenade to Music (orchestral version)",
+      "url": "https://open.spotify.com/track/3DQJNSo4oY0nMxAPEp7Z5a"
+    },
+    {
+      "album": {
+        "name": "Giuliani: Complete Works for Flute and Guitar, Vol. 2",
+        "url": "https://open.spotify.com/album/3Z5WxHRSpMJx8TJRZYoMZX"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Serenade, Op. 127*: I. Maestoso",
+      "url": "https://open.spotify.com/track/4YjsNXLurC69AfGwg5k9cx"
+    },
+    {
+      "album": {
+        "name": "Giuliani: Complete Works for Flute and Guitar, Vol. 2",
+        "url": "https://open.spotify.com/album/3Z5WxHRSpMJx8TJRZYoMZX"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "Serenade, Op. 127*: II. Minuetto. Allegretto",
+      "url": "https://open.spotify.com/track/0R7TAoaYPbRayGTZaAzAwG"
+    },
+    {
+      "album": {
+        "name": "Giuliani: Complete Works for Flute and Guitar, Vol. 2",
+        "url": "https://open.spotify.com/album/3Z5WxHRSpMJx8TJRZYoMZX"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378360,
+      "name": "Serenade, Op. 127*: III. Andantino mosso (Theme and three variations)",
+      "url": "https://open.spotify.com/track/7lLl6Xqu7OdCWYuGLnYyHA"
+    },
+    {
+      "album": {
+        "name": "Giuliani: Complete Works for Flute and Guitar, Vol. 2",
+        "url": "https://open.spotify.com/album/3Z5WxHRSpMJx8TJRZYoMZX"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Serenade, Op. 127*: IV. Rondo. Allegro",
+      "url": "https://open.spotify.com/track/0bH0PE9t0dLePS7CfkU5S7"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi, E.: Serenade in C Major / Kodaly, Z.: Serenade / Bartok, B.: Sonata for 2 Pianos and Percussion",
+        "url": "https://open.spotify.com/album/1xpXP8FFiqjIjT8AytV95z"
+      },
+      "artists": [
+        {
+          "name": "Zolt\u00e1n Kod\u00e1ly",
+          "url": "https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE"
+        },
+        {
+          "name": "Ani Kavafian",
+          "url": "https://open.spotify.com/artist/57WDs6FYvI03RhSUlkq4e0"
+        },
+        {
+          "name": "Joseph Silverstein",
+          "url": "https://open.spotify.com/artist/3Nd3IdPZ8CDPAkwjGuz1MS"
+        },
+        {
+          "name": "Paul Neubauer",
+          "url": "https://open.spotify.com/artist/5nvlMH00De22gRrSrRJO0i"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281026,
+      "name": "Serenade, Op. 12: I. Allegramente - Sostenuto ma non troppo",
+      "url": "https://open.spotify.com/track/5mQaY127Z4EmGSV2lMzJNQ"
+    },
+    {
+      "album": {
+        "name": "Berkeley: Symphony No. 1 / Serenade / Berkeley, M.: Horn Concerto / Coronach",
+        "url": "https://open.spotify.com/album/7jSVvmaQAtDoznjudFNe5y"
+      },
+      "artists": [
+        {
+          "name": "Lennox Berkeley",
+          "url": "https://open.spotify.com/artist/2V0VrZFIcWB3jB8FXrYyQs"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "Serenade, Op. 12: I. Vivace",
+      "url": "https://open.spotify.com/track/5Pdfh0OSsUu6OoPXz115bw"
+    },
+    {
+      "album": {
+        "name": "Berkeley: Symphony No. 1 / Serenade / Berkeley, M.: Horn Concerto / Coronach",
+        "url": "https://open.spotify.com/album/7jSVvmaQAtDoznjudFNe5y"
+      },
+      "artists": [
+        {
+          "name": "Lennox Berkeley",
+          "url": "https://open.spotify.com/artist/2V0VrZFIcWB3jB8FXrYyQs"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252720,
+      "name": "Serenade, Op. 12: II. Andantino",
+      "url": "https://open.spotify.com/track/3hJ0LqnXuwok10nOfqoKjp"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi, E.: Serenade in C Major / Kodaly, Z.: Serenade / Bartok, B.: Sonata for 2 Pianos and Percussion",
+        "url": "https://open.spotify.com/album/1xpXP8FFiqjIjT8AytV95z"
+      },
+      "artists": [
+        {
+          "name": "Zolt\u00e1n Kod\u00e1ly",
+          "url": "https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE"
+        },
+        {
+          "name": "Ani Kavafian",
+          "url": "https://open.spotify.com/artist/57WDs6FYvI03RhSUlkq4e0"
+        },
+        {
+          "name": "Joseph Silverstein",
+          "url": "https://open.spotify.com/artist/3Nd3IdPZ8CDPAkwjGuz1MS"
+        },
+        {
+          "name": "Paul Neubauer",
+          "url": "https://open.spotify.com/artist/5nvlMH00De22gRrSrRJO0i"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442800,
+      "name": "Serenade, Op. 12: II. Lento ma non troppo",
+      "url": "https://open.spotify.com/track/4F1YrFWNyrpe4Z3UeejqSs"
+    },
+    {
+      "album": {
+        "name": "Berkeley: Symphony No. 1 / Serenade / Berkeley, M.: Horn Concerto / Coronach",
+        "url": "https://open.spotify.com/album/7jSVvmaQAtDoznjudFNe5y"
+      },
+      "artists": [
+        {
+          "name": "Lennox Berkeley",
+          "url": "https://open.spotify.com/artist/2V0VrZFIcWB3jB8FXrYyQs"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Serenade, Op. 12: III. Allegro moderato",
+      "url": "https://open.spotify.com/track/4rg96gMSFSNX0MUPFSZE0e"
+    },
+    {
+      "album": {
+        "name": "Dohnanyi, E.: Serenade in C Major / Kodaly, Z.: Serenade / Bartok, B.: Sonata for 2 Pianos and Percussion",
+        "url": "https://open.spotify.com/album/1xpXP8FFiqjIjT8AytV95z"
+      },
+      "artists": [
+        {
+          "name": "Zolt\u00e1n Kod\u00e1ly",
+          "url": "https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE"
+        },
+        {
+          "name": "Ani Kavafian",
+          "url": "https://open.spotify.com/artist/57WDs6FYvI03RhSUlkq4e0"
+        },
+        {
+          "name": "Joseph Silverstein",
+          "url": "https://open.spotify.com/artist/3Nd3IdPZ8CDPAkwjGuz1MS"
+        },
+        {
+          "name": "Paul Neubauer",
+          "url": "https://open.spotify.com/artist/5nvlMH00De22gRrSrRJO0i"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548706,
+      "name": "Serenade, Op. 12: III. Vivo",
+      "url": "https://open.spotify.com/track/3ZbM0YniaD2JDOcpllSdvP"
+    },
+    {
+      "album": {
+        "name": "Berkeley: Symphony No. 1 / Serenade / Berkeley, M.: Horn Concerto / Coronach",
+        "url": "https://open.spotify.com/album/7jSVvmaQAtDoznjudFNe5y"
+      },
+      "artists": [
+        {
+          "name": "Lennox Berkeley",
+          "url": "https://open.spotify.com/artist/2V0VrZFIcWB3jB8FXrYyQs"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Serenade, Op. 12: IV. Lento",
+      "url": "https://open.spotify.com/track/2Nz59i1SrNisAYDz9WVKlb"
+    },
+    {
+      "album": {
+        "name": "Karlowicz: Serenade / Rebirth Symphony / Bianca Da Molena",
+        "url": "https://open.spotify.com/album/2KHqTmVEmb6MDmajNpCNbK"
+      },
+      "artists": [
+        {
+          "name": "Mieczys\u0142aw Kar\u0142owicz",
+          "url": "https://open.spotify.com/artist/1LcHglsYAuDXNlNlxHWpmJ"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308160,
+      "name": "Serenade, Op. 2: I. March: Allegro moderato - Tempo di marcia - Trio. Meno mosso",
+      "url": "https://open.spotify.com/track/4H48zpPtQN0jFnMVQW1N0O"
+    },
+    {
+      "album": {
+        "name": "Karlowicz: Serenade / Rebirth Symphony / Bianca Da Molena",
+        "url": "https://open.spotify.com/album/2KHqTmVEmb6MDmajNpCNbK"
+      },
+      "artists": [
+        {
+          "name": "Mieczys\u0142aw Kar\u0142owicz",
+          "url": "https://open.spotify.com/artist/1LcHglsYAuDXNlNlxHWpmJ"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417240,
+      "name": "Serenade, Op. 2: II. Romance. Andante con moto",
+      "url": "https://open.spotify.com/track/0MIJu0eK8pb9sZFPvTWYjF"
+    },
+    {
+      "album": {
+        "name": "Karlowicz: Serenade / Rebirth Symphony / Bianca Da Molena",
+        "url": "https://open.spotify.com/album/2KHqTmVEmb6MDmajNpCNbK"
+      },
+      "artists": [
+        {
+          "name": "Mieczys\u0142aw Kar\u0142owicz",
+          "url": "https://open.spotify.com/artist/1LcHglsYAuDXNlNlxHWpmJ"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365040,
+      "name": "Serenade, Op. 2: III. Waltz. Allegro moderato - Poco pi\u00f9 mosso - Tempo I",
+      "url": "https://open.spotify.com/track/419qBE9ifUIbSzGK7IZCUo"
+    },
+    {
+      "album": {
+        "name": "Karlowicz: Serenade / Rebirth Symphony / Bianca Da Molena",
+        "url": "https://open.spotify.com/album/2KHqTmVEmb6MDmajNpCNbK"
+      },
+      "artists": [
+        {
+          "name": "Mieczys\u0142aw Kar\u0142owicz",
+          "url": "https://open.spotify.com/artist/1LcHglsYAuDXNlNlxHWpmJ"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Serenade, Op. 2: IV. Finale. Allegretto non troppo",
+      "url": "https://open.spotify.com/track/5qvyi9KaWHNjfxQRpj96lO"
+    },
+    {
+      "album": {
+        "name": "English Guitar Concertos",
+        "url": "https://open.spotify.com/album/7KD6JmCRBIvPD3OUgFZPmo"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Arnold",
+          "url": "https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        },
+        {
+          "name": "Royal Northern Sinfonia",
+          "url": "https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272520,
+      "name": "Serenade, Op. 50",
+      "url": "https://open.spotify.com/track/0sbiUvl86WqTGjQYXYFJQx"
+    },
+    {
+      "album": {
+        "name": "Barber: String Quartet, Serenade, Dover Beach & Songs",
+        "url": "https://open.spotify.com/album/3cY4O6mdYwFFHYq96E69Rv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Serenade, Op.1: I. Un poco adagio - Allegro con spirito",
+      "url": "https://open.spotify.com/track/4J9JOrXcbjNYXgCKsjz1O6"
+    },
+    {
+      "album": {
+        "name": "Barber: String Quartet, Serenade, Dover Beach & Songs",
+        "url": "https://open.spotify.com/album/3cY4O6mdYwFFHYq96E69Rv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Serenade, Op.1: II. Andante con moto",
+      "url": "https://open.spotify.com/track/7HL1GQ7o7GgHFRc8mkxPCv"
+    },
+    {
+      "album": {
+        "name": "Barber: String Quartet, Serenade, Dover Beach & Songs",
+        "url": "https://open.spotify.com/album/3cY4O6mdYwFFHYq96E69Rv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Serenade, Op.1: III. Dance (Allegro giocoso)",
+      "url": "https://open.spotify.com/track/2QcTxmKrWNdjaxOXjXl6oA"
+    },
+    {
+      "album": {
+        "name": "Lloyd Webber: Serenade for Strings / Invocation / Lento / 3 Spring Miniatures / Aurora / Nocturne",
+        "url": "https://open.spotify.com/album/1nKGWXjs3Hpb6ws1gAr3F1"
+      },
+      "artists": [
+        {
+          "name": "William Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4qNj7MDugKEhRNC8F32tNE"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Serenade: I. Barcarolle",
+      "url": "https://open.spotify.com/track/2twQvG2Jkx3YKIF49UwTvQ"
+    },
+    {
+      "album": {
+        "name": "Lloyd Webber: Serenade for Strings / Invocation / Lento / 3 Spring Miniatures / Aurora / Nocturne",
+        "url": "https://open.spotify.com/album/1nKGWXjs3Hpb6ws1gAr3F1"
+      },
+      "artists": [
+        {
+          "name": "William Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4qNj7MDugKEhRNC8F32tNE"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272520,
+      "name": "Serenade: II. Romance",
+      "url": "https://open.spotify.com/track/60j7DCaHNnFgQpdl8tYL3b"
+    },
+    {
+      "album": {
+        "name": "Lloyd Webber: Serenade for Strings / Invocation / Lento / 3 Spring Miniatures / Aurora / Nocturne",
+        "url": "https://open.spotify.com/album/1nKGWXjs3Hpb6ws1gAr3F1"
+      },
+      "artists": [
+        {
+          "name": "William Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4qNj7MDugKEhRNC8F32tNE"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Serenade: III. Elegy",
+      "url": "https://open.spotify.com/track/5Mwy7pIFSmJ8ATc8nSJ8x5"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79253,
+      "name": "Serenata concertante, Op. 105: I. Andante sostenuto",
+      "url": "https://open.spotify.com/track/1LoymV5SJQLiam2yiTAiky"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480946,
+      "name": "Serenata concertante, Op. 105: II. Allegro moderato",
+      "url": "https://open.spotify.com/track/68Gwj1XmfLRSz8iyBHQfMz"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68373,
+      "name": "Serenata concertante, Op. 105: III. Adagio non tanto",
+      "url": "https://open.spotify.com/track/7cliEZYz5x5JoBBI3bGO6i"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147106,
+      "name": "Serenata concertante, Op. 105: IV. Scherzo: Presto",
+      "url": "https://open.spotify.com/track/6iNkMfOYBs7fl1lTgp47Zh"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266613,
+      "name": "Serenata concertante, Op. 105: V. Allegro non tanto",
+      "url": "https://open.spotify.com/track/5ICNzFzsKPlTTWWfuavIbN"
+    },
+    {
+      "album": {
+        "name": "Diabelli, A.: Serenate Concertante / Grande Serenade / Gesange Fur Herz Und Gefuhl / Gran Variazioni",
+        "url": "https://open.spotify.com/album/0uyKKjDhzITGxhm9hlKO8O"
+      },
+      "artists": [
+        {
+          "name": "Anton Diabelli",
+          "url": "https://open.spotify.com/artist/5S07yOKHJQw62NK0u0r00D"
+        },
+        {
+          "name": "Mikael Helasvuo",
+          "url": "https://open.spotify.com/artist/1he1BT0n6FCx1GBAjaDXZY"
+        },
+        {
+          "name": "Jukka Savijoki",
+          "url": "https://open.spotify.com/artist/3Sk67TEbJeTBlWuNRsdHjB"
+        },
+        {
+          "name": "Jouko Mansnerus",
+          "url": "https://open.spotify.com/artist/3wxvhucEJ6LQnxYS68QcZM"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301813,
+      "name": "Serenata concertante, Op. 105: VI. Marcia: Allegro moderato",
+      "url": "https://open.spotify.com/track/1LHGOySIh9gjxzQWhKK1jM"
+    },
+    {
+      "album": {
+        "name": "Spectrum: New American Music",
+        "url": "https://open.spotify.com/album/0eLUtOPVuHoNpkmaPwaFKX"
+      },
+      "artists": [
+        {
+          "name": "George Rochberg",
+          "url": "https://open.spotify.com/artist/4vvc9NXosBukqi6XPrWI60"
+        },
+        {
+          "name": "The Contemporary Chamber Ensemble",
+          "url": "https://open.spotify.com/artist/47qoGJqWG8jdFV0f1toXRb"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679240,
+      "name": "Serenata d'estate",
+      "url": "https://open.spotify.com/track/6qEYrNCg7uiR2pTZdzlbQz"
+    },
+    {
+      "album": {
+        "name": "String Serenades",
+        "url": "https://open.spotify.com/album/0VlOePLQRcVunIf4XDtmg8"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "The Helsinki Strings",
+          "url": "https://open.spotify.com/artist/2pPoEW4Ch9LsTTJzdKNWth"
+        },
+        {
+          "name": "Csaba Szilvay",
+          "url": "https://open.spotify.com/artist/54IEEq3pl5ttgQw9Ib9W6N"
+        },
+        {
+          "name": "G\u00e9za Szilvay",
+          "url": "https://open.spotify.com/artist/5dOMtTCO7QNw52OIcpGjKw"
+        },
+        {
+          "name": "Csaba & G\u00e8za Szilvay",
+          "url": "https://open.spotify.com/artist/4WuhA64lvaLK0xaSH9ZfEu"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97906,
+      "name": "Sibelius: Suite caract\u00e9ristique, Op. 100: I. Vivo",
+      "url": "https://open.spotify.com/track/4Sk0o7oW5CXlL4ornOMC0N"
+    },
+    {
+      "album": {
+        "name": "String Serenades",
+        "url": "https://open.spotify.com/album/0VlOePLQRcVunIf4XDtmg8"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "The Helsinki Strings",
+          "url": "https://open.spotify.com/artist/2pPoEW4Ch9LsTTJzdKNWth"
+        },
+        {
+          "name": "Csaba Szilvay",
+          "url": "https://open.spotify.com/artist/54IEEq3pl5ttgQw9Ib9W6N"
+        },
+        {
+          "name": "G\u00e9za Szilvay",
+          "url": "https://open.spotify.com/artist/5dOMtTCO7QNw52OIcpGjKw"
+        },
+        {
+          "name": "Csaba & G\u00e8za Szilvay",
+          "url": "https://open.spotify.com/artist/4WuhA64lvaLK0xaSH9ZfEu"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125346,
+      "name": "Sibelius: Suite caract\u00e9ristique, Op. 100: II. Lento",
+      "url": "https://open.spotify.com/track/63QehFsNQhzcTP1p48UGUm"
+    },
+    {
+      "album": {
+        "name": "String Serenades",
+        "url": "https://open.spotify.com/album/0VlOePLQRcVunIf4XDtmg8"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "The Helsinki Strings",
+          "url": "https://open.spotify.com/artist/2pPoEW4Ch9LsTTJzdKNWth"
+        },
+        {
+          "name": "Csaba Szilvay",
+          "url": "https://open.spotify.com/artist/54IEEq3pl5ttgQw9Ib9W6N"
+        },
+        {
+          "name": "G\u00e9za Szilvay",
+          "url": "https://open.spotify.com/artist/5dOMtTCO7QNw52OIcpGjKw"
+        },
+        {
+          "name": "Csaba & G\u00e8za Szilvay",
+          "url": "https://open.spotify.com/artist/4WuhA64lvaLK0xaSH9ZfEu"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104066,
+      "name": "Sibelius: Suite caract\u00e9ristique, Op. 100: III. Commodo",
+      "url": "https://open.spotify.com/track/16cfRlkDXMjkV3qqOKEu5K"
+    },
+    {
+      "album": {
+        "name": "Scott Joplin Piano Rags",
+        "url": "https://open.spotify.com/album/3EKlROHx6QjV1V8ABeckbb"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Joshua Rifkin",
+          "url": "https://open.spotify.com/artist/3GFsxlO8P0FZ3kZNgNCBww"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405666,
+      "name": "Solace - A Mexican Serenade",
+      "url": "https://open.spotify.com/track/0NXam9VF5SgO4WeDgLxGSr"
+    },
+    {
+      "album": {
+        "name": "Schubert/Schumann/Debussy: Works for Cello & Piano",
+        "url": "https://open.spotify.com/album/4Avkxl2gvwmK6YAMuIAoZJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208979,
+      "name": "Sonata in D Minor for Cello & Piano, L.135: 2. S\u00e9r\u00e9nade (Mod\u00e9r\u00e9ment anim\u00e9)",
+      "url": "https://open.spotify.com/track/1FzgxY2ulBFeRmucqMtIE7"
+    },
+    {
+      "album": {
+        "name": "Glazunov: Waltz in D - Spanish Serenade - March in E-Flat Major - Lyrical Poem - Fantasy for Symphony Orchestra",
+        "url": "https://open.spotify.com/album/1Hc8SFL5L8P8MuP0udBq8B"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Moscow RTV Symphony Orchestra, Karl Elyasberg",
+          "url": "https://open.spotify.com/artist/3aGAkPrJyOgmcNVPfNk09X"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "Spanish Serenade in A Major, Op. 20",
+      "url": "https://open.spotify.com/track/2TYittaDPtccMR1q5MR7Ow"
+    },
+    {
+      "album": {
+        "name": "Stravinsky: 3 Movements from Petrushka, Piano-Rag Music, Tango, S\u00e9r\u00e9nade, Sonata for Piano & Bart\u00f3k: Im Freien, Suite, Op. 14",
+        "url": "https://open.spotify.com/album/4ff4TKU96FMGzB1FwcGBMI"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Dezs\u00f6 Ranki",
+          "url": "https://open.spotify.com/artist/1a8z4Ju7ZgjDRG0w7ORgKk"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Stravinsky: Serenade in A: I. Hymne",
+      "url": "https://open.spotify.com/track/0IPwWBKgvJ5oKLslttWfj4"
+    },
+    {
+      "album": {
+        "name": "Stravinsky: 3 Movements from Petrushka, Piano-Rag Music, Tango, S\u00e9r\u00e9nade, Sonata for Piano & Bart\u00f3k: Im Freien, Suite, Op. 14",
+        "url": "https://open.spotify.com/album/4ff4TKU96FMGzB1FwcGBMI"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Dezs\u00f6 Ranki",
+          "url": "https://open.spotify.com/artist/1a8z4Ju7ZgjDRG0w7ORgKk"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "Stravinsky: Serenade in A: II. Romanza",
+      "url": "https://open.spotify.com/track/4W5zO7qlei4lFJGFqd7i4q"
+    },
+    {
+      "album": {
+        "name": "Stravinsky: 3 Movements from Petrushka, Piano-Rag Music, Tango, S\u00e9r\u00e9nade, Sonata for Piano & Bart\u00f3k: Im Freien, Suite, Op. 14",
+        "url": "https://open.spotify.com/album/4ff4TKU96FMGzB1FwcGBMI"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Dezs\u00f6 Ranki",
+          "url": "https://open.spotify.com/artist/1a8z4Ju7ZgjDRG0w7ORgKk"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Stravinsky: Serenade in A: III. Rondoletto",
+      "url": "https://open.spotify.com/track/27AxJVs2Ek7Le1M7XO2MYK"
+    },
+    {
+      "album": {
+        "name": "Stravinsky: 3 Movements from Petrushka, Piano-Rag Music, Tango, S\u00e9r\u00e9nade, Sonata for Piano & Bart\u00f3k: Im Freien, Suite, Op. 14",
+        "url": "https://open.spotify.com/album/4ff4TKU96FMGzB1FwcGBMI"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Dezs\u00f6 Ranki",
+          "url": "https://open.spotify.com/artist/1a8z4Ju7ZgjDRG0w7ORgKk"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Stravinsky: Serenade in A: IV. Cadenza finala",
+      "url": "https://open.spotify.com/track/08gGlg3FV8j3nvVee6ZhEW"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1cek Quartet: The Complete Recordings (7 CDs)",
+        "url": "https://open.spotify.com/album/2mtgt8iq4RRQXjwo0rqIbd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jan\u00e1\u010dek Quartet",
+          "url": "https://open.spotify.com/artist/6op8DuHzQfL9NrWn7yIH5d"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282386,
+      "name": "String Quartet in F, H.III No.17, Op.3 No.5 - \"Serenade\": 1. Presto",
+      "url": "https://open.spotify.com/track/1ui0FVDsjqbIh2Avp0cg7J"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1cek Quartet: The Complete Recordings (7 CDs)",
+        "url": "https://open.spotify.com/album/2mtgt8iq4RRQXjwo0rqIbd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jan\u00e1\u010dek Quartet",
+          "url": "https://open.spotify.com/artist/6op8DuHzQfL9NrWn7yIH5d"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257092,
+      "name": "String Quartet in F, H.III No.17, Op.3 No.5 - \"Serenade\": 2. Andante cantabile",
+      "url": "https://open.spotify.com/track/421DZSAuG4g1s3AYFHQw9s"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1cek Quartet: The Complete Recordings (7 CDs)",
+        "url": "https://open.spotify.com/album/2mtgt8iq4RRQXjwo0rqIbd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jan\u00e1\u010dek Quartet",
+          "url": "https://open.spotify.com/artist/6op8DuHzQfL9NrWn7yIH5d"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178106,
+      "name": "String Quartet in F, H.III No.17, Op.3 No.5 - \"Serenade\": 3. Minuetto",
+      "url": "https://open.spotify.com/track/4N6ip3UXSVhl9OS9544Zlh"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1cek Quartet: The Complete Recordings (7 CDs)",
+        "url": "https://open.spotify.com/album/2mtgt8iq4RRQXjwo0rqIbd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Jan\u00e1\u010dek Quartet",
+          "url": "https://open.spotify.com/artist/6op8DuHzQfL9NrWn7yIH5d"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "String Quartet in F, H.III No.17, Op.3 No.5 - \"Serenade\": 4. Scherzando",
+      "url": "https://open.spotify.com/track/2hX4JARHbBHehEHwvXZ0IW"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: The String Quartets (6 CDs)",
+        "url": "https://open.spotify.com/album/4UC3bVq6PXVSOPpnUYLOgv"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Fitzwilliam Quartet",
+          "url": "https://open.spotify.com/artist/11LWo8e1cER3XfYzySKzQj"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325600,
+      "name": "String Quartet No.15 in E flat minor, Op.144: 2. Serenade",
+      "url": "https://open.spotify.com/track/4pvnvnLAhfsBdGSFQhsrgB"
+    },
+    {
+      "album": {
+        "name": "Howells: Works for Strings",
+        "url": "https://open.spotify.com/album/0iGz9tDb6hInAEe5D6iVVT"
+      },
+      "artists": [
+        {
+          "name": "Herbert Howells",
+          "url": "https://open.spotify.com/artist/0Artcj84fSLUN93JectewP"
+        },
+        {
+          "name": "Alison Kelly",
+          "url": "https://open.spotify.com/artist/2TydsHxmt9CyTgNIijjNXH"
+        },
+        {
+          "name": "Edward Roberts",
+          "url": "https://open.spotify.com/artist/3US00SxO5YXWVj1krAxCfo"
+        },
+        {
+          "name": "Erika Klemperer",
+          "url": "https://open.spotify.com/artist/38FMdtmvyNszJEDUSS9XXT"
+        },
+        {
+          "name": "Michael de Saulles",
+          "url": "https://open.spotify.com/artist/7GwyyUWjiUj0eWkcYQJZWz"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Suite, Op. 16: III. Serenade (Version for 4 violins and strings)",
+      "url": "https://open.spotify.com/track/3xN3Oi1r5OvnsY8jnKmkM8"
+    },
+    {
+      "album": {
+        "name": "Sallinen: Sunrise Serenade / Symphony No. 2 / Symphony No. 6",
+        "url": "https://open.spotify.com/album/3nlxqEO7JpBv5lkxdwa6in"
+      },
+      "artists": [
+        {
+          "name": "Aulis Sallinen",
+          "url": "https://open.spotify.com/artist/1LavcNBtg6Lwe3lH8RKWPI"
+        },
+        {
+          "name": "Kjell-\u00c5ke Pettersson",
+          "url": "https://open.spotify.com/artist/54xPHTr2iNAij8Jq8ggRao"
+        },
+        {
+          "name": "Per Falck",
+          "url": "https://open.spotify.com/artist/5Nk9E95JB5h7GCbsuJXg0m"
+        },
+        {
+          "name": "Malm\u00f6 Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/24TyvSlEEO55MTNEJo5VFc"
+        },
+        {
+          "name": "Okko Kamu",
+          "url": "https://open.spotify.com/artist/0AONkUEodQkpkdO5Wul6hE"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447120,
+      "name": "Sunrise Serenade, Op. 63",
+      "url": "https://open.spotify.com/track/1TTy8OzzrQSXKndYzV9Ep2"
+    },
+    {
+      "album": {
+        "name": "Korngold: Between Two Worlds/Symphonic Serenade/Theme &",
+        "url": "https://open.spotify.com/album/0QlE45vpmrih7rK8X1Gf5q"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628160,
+      "name": "Symphonic Serenade: 1. Allegro moderato, semplice",
+      "url": "https://open.spotify.com/track/4PW7sRcRhxW9zGaXne8lGv"
+    },
+    {
+      "album": {
+        "name": "Korngold: Between Two Worlds/Symphonic Serenade/Theme &",
+        "url": "https://open.spotify.com/album/0QlE45vpmrih7rK8X1Gf5q"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Symphonic Serenade: 2. Intermezzo. Allegro molto",
+      "url": "https://open.spotify.com/track/4AgZ7eFOam2oaydGwkUrzb"
+    },
+    {
+      "album": {
+        "name": "Korngold: Between Two Worlds/Symphonic Serenade/Theme &",
+        "url": "https://open.spotify.com/album/0QlE45vpmrih7rK8X1Gf5q"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 837173,
+      "name": "Symphonic Serenade: 3. Lento religioso",
+      "url": "https://open.spotify.com/track/59JxYzLxvaOi2sw353cARR"
+    },
+    {
+      "album": {
+        "name": "Korngold: Between Two Worlds/Symphonic Serenade/Theme &",
+        "url": "https://open.spotify.com/album/0QlE45vpmrih7rK8X1Gf5q"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442000,
+      "name": "Symphonic Serenade: 4. Finale. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/4CO5dmswJwdDXu1UVEhlfc"
+    },
+    {
+      "album": {
+        "name": "Milhaud: The 6 Little Symphonies",
+        "url": "https://open.spotify.com/album/21tUdumdSGzP2Ha5BI09sl"
+      },
+      "artists": [
+        {
+          "name": "Darius Milhaud",
+          "url": "https://open.spotify.com/artist/6bwXuNL4AuC7w3AxspKXn6"
+        },
+        {
+          "name": "Luxembourg Radio Orchestra",
+          "url": "https://open.spotify.com/artist/2B52ezKQQbQfuytnGnu4IC"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Symphonie De Chambre No. 3, Op. 71, \"serenade\" - Symphonie De Chambre No. 3, Op. 71, \"serenade\"",
+      "url": "https://open.spotify.com/track/60X7afDmIr7kRD1A8hhkIZ"
+    },
+    {
+      "album": {
+        "name": "Shchedrin/Stravinsky/Tchaikovsky - Violin Works",
+        "url": "https://open.spotify.com/album/5JYTVsJInxejkHycv8xQq3"
+      },
+      "artists": [
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "Maxim Vengerov",
+          "url": "https://open.spotify.com/artist/2AL02x65Azh5v7Drur4KNp"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578026,
+      "name": "S\u00e9r\u00e9nade m\u00e9lancolique Op. 26",
+      "url": "https://open.spotify.com/track/1wFQLVE461AsjAtIO2Fm3B"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: Serenade to Music, The Lark Ascending, Fantasia on Greensleeves, English Folk Song Suite, In the Fen Country & Northfolk Rhapsody No. 1",
+        "url": "https://open.spotify.com/album/1zofOqcOpThYW3fj5pVDNW"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+        },
+        {
+          "name": "Alfreda Hodgson",
+          "url": "https://open.spotify.com/artist/2q0JrITHR6gBplwIAS2D7m"
+        },
+        {
+          "name": "Bernard Dickerson",
+          "url": "https://open.spotify.com/artist/6v9uHNMNkvxRVJczTJlpCa"
+        },
+        {
+          "name": "Christopher Keyte",
+          "url": "https://open.spotify.com/artist/0AJinp0fcYFhYlIDs2C2OT"
+        },
+        {
+          "name": "Gloria Jennings",
+          "url": "https://open.spotify.com/artist/3rXRIKgAHeZ0PCZD2ivhdX"
+        },
+        {
+          "name": "Ian Partridge",
+          "url": "https://open.spotify.com/artist/1ogZr305ivoaDijTaj5rpc"
+        },
+        {
+          "name": "John Carol Case",
+          "url": "https://open.spotify.com/artist/1cqH7PwUV7iw1EgfQBle9N"
+        },
+        {
+          "name": "John Noble",
+          "url": "https://open.spotify.com/artist/49aEEIhjqs9rLIr2T7AHzi"
+        },
+        {
+          "name": "Kenneth Bowen",
+          "url": "https://open.spotify.com/artist/4T0HbhrO8zQ65953fx3mra"
+        },
+        {
+          "name": "Marie Hayward",
+          "url": "https://open.spotify.com/artist/5SOhJ1gq8Ofo0GoQFrHXHk"
+        },
+        {
+          "name": "Meriel Dickinson",
+          "url": "https://open.spotify.com/artist/1yEKF0b3DQvedxGXjXCdnw"
+        },
+        {
+          "name": "Norma Burrowes",
+          "url": "https://open.spotify.com/artist/1SvpHA4t9VnXjIRCoi958Q"
+        },
+        {
+          "name": "Richard Angas",
+          "url": "https://open.spotify.com/artist/6MwPiDECFwM8YdU4rjt1OV"
+        },
+        {
+          "name": "Sheila Armstrong",
+          "url": "https://open.spotify.com/artist/6LCES9Lhr6Zs3IEE7IYjZA"
+        },
+        {
+          "name": "Shirley Minty",
+          "url": "https://open.spotify.com/artist/6zvtSD1UCs58XWJmsgpnJy"
+        },
+        {
+          "name": "Susan Longfield",
+          "url": "https://open.spotify.com/artist/3tqPfvIXb612UzuZaU8AkZ"
+        },
+        {
+          "name": "Wynford Evans",
+          "url": "https://open.spotify.com/artist/28Ke9E1VTwp9DBPjvANfKO"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797840,
+      "name": "Vaughan Williams: Serenade to Music",
+      "url": "https://open.spotify.com/track/3gctTCctKbZIDuWiDukMFR"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams Sinfonia antartica, Serenade to Music, Partita for double string orchestra",
+        "url": "https://open.spotify.com/album/1ErD1ea2E1rRN3LRcFkL6G"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/3qejGzi550hi108LJpvSpa"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773186,
+      "name": "Williams: Serenade to Music",
+      "url": "https://open.spotify.com/track/3cav1K02UUogOewsAw5zsZ"
+    },
+    {
+      "album": {
+        "name": "The Sound of Scandinavia",
+        "url": "https://open.spotify.com/album/3pkVq6cI9fN4OoUFjD865y"
+      },
+      "artists": [
+        {
+          "name": "Dag Wir\u00e9n",
+          "url": "https://open.spotify.com/artist/389NPmpKddT6XT214E4mFt"
+        },
+        {
+          "name": "Bournemouth Sinfonietta",
+          "url": "https://open.spotify.com/artist/3SrOlll9sjDBbH1kOTsALh"
+        },
+        {
+          "name": "Kenneth Montgomery",
+          "url": "https://open.spotify.com/artist/7FKsRtxUEc8LPiHtF2w5QD"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Wir\u00e9n: Serenade for Strings, Op. 11: I. Preludium",
+      "url": "https://open.spotify.com/track/3b7KNiSB0WL6kdacjaKwEk"
+    },
+    {
+      "album": {
+        "name": "The Sound of Scandinavia",
+        "url": "https://open.spotify.com/album/3pkVq6cI9fN4OoUFjD865y"
+      },
+      "artists": [
+        {
+          "name": "Dag Wir\u00e9n",
+          "url": "https://open.spotify.com/artist/389NPmpKddT6XT214E4mFt"
+        },
+        {
+          "name": "Bournemouth Sinfonietta",
+          "url": "https://open.spotify.com/artist/3SrOlll9sjDBbH1kOTsALh"
+        },
+        {
+          "name": "Kenneth Montgomery",
+          "url": "https://open.spotify.com/artist/7FKsRtxUEc8LPiHtF2w5QD"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303986,
+      "name": "Wir\u00e9n: Serenade for Strings, Op. 11: II. Andante espressivo",
+      "url": "https://open.spotify.com/track/1OTk8n4mP6EKyMUrsBter6"
+    },
+    {
+      "album": {
+        "name": "The Sound of Scandinavia",
+        "url": "https://open.spotify.com/album/3pkVq6cI9fN4OoUFjD865y"
+      },
+      "artists": [
+        {
+          "name": "Dag Wir\u00e9n",
+          "url": "https://open.spotify.com/artist/389NPmpKddT6XT214E4mFt"
+        },
+        {
+          "name": "Bournemouth Sinfonietta",
+          "url": "https://open.spotify.com/artist/3SrOlll9sjDBbH1kOTsALh"
+        },
+        {
+          "name": "Kenneth Montgomery",
+          "url": "https://open.spotify.com/artist/7FKsRtxUEc8LPiHtF2w5QD"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Wir\u00e9n: Serenade for Strings, Op. 11: III. Scherzo",
+      "url": "https://open.spotify.com/track/3nqGtRZ8bzKPhYP5pgF6bi"
+    },
+    {
+      "album": {
+        "name": "The Sound of Scandinavia",
+        "url": "https://open.spotify.com/album/3pkVq6cI9fN4OoUFjD865y"
+      },
+      "artists": [
+        {
+          "name": "Dag Wir\u00e9n",
+          "url": "https://open.spotify.com/artist/389NPmpKddT6XT214E4mFt"
+        },
+        {
+          "name": "Bournemouth Sinfonietta",
+          "url": "https://open.spotify.com/artist/3SrOlll9sjDBbH1kOTsALh"
+        },
+        {
+          "name": "Kenneth Montgomery",
+          "url": "https://open.spotify.com/artist/7FKsRtxUEc8LPiHtF2w5QD"
+        }
+      ],
+      "date_added": "2013-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "Wir\u00e9n: Serenade for Strings, Op. 11: IV. Marcia",
+      "url": "https://open.spotify.com/track/6sdyHsi7gD8G6Bdir2jOLN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2zlFpwRI7aroWy0ecv6O34"
 }

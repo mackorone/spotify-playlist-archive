@@ -1,472 +1,693 @@
 {
-  "2022-09-17": 551,
-  "2022-09-18": 551,
-  "2022-09-19": 552,
-  "2022-09-20": 552,
-  "2022-09-21": 557,
-  "2022-09-22": 557,
-  "2022-09-23": 560,
-  "2022-09-24": 560,
-  "2022-09-25": 561,
-  "2022-09-26": 561,
-  "2022-09-27": 562,
-  "2022-09-28": 563,
-  "2022-09-29": 565,
-  "2022-09-30": 567,
-  "2022-10-01": 567,
-  "2022-10-02": 570,
-  "2022-10-03": 571,
-  "2022-10-04": 574,
-  "2022-10-05": 575,
-  "2022-10-06": 575,
-  "2022-10-07": 575,
-  "2022-10-08": 576,
-  "2022-10-09": 577,
-  "2022-10-10": 576,
-  "2022-10-11": 578,
-  "2022-10-12": 578,
-  "2022-10-13": 579,
-  "2022-10-14": 579,
-  "2022-10-15": 579,
-  "2022-10-16": 580,
-  "2022-10-17": 580,
-  "2022-10-18": 582,
-  "2022-10-19": 582,
-  "2022-10-20": 583,
-  "2022-10-21": 587,
-  "2022-10-22": 589,
-  "2022-10-23": 590,
-  "2022-10-24": 590,
-  "2022-10-25": 592,
-  "2022-10-26": 592,
-  "2022-10-27": 594,
-  "2022-10-28": 594,
-  "2022-10-29": 595,
-  "2022-10-30": 596,
-  "2022-10-31": 596,
-  "2022-11-01": 599,
-  "2022-11-02": 599,
-  "2022-11-03": 601,
-  "2022-11-04": 605,
-  "2022-11-05": 604,
-  "2022-11-06": 606,
-  "2022-11-07": 608,
-  "2022-11-08": 613,
-  "2022-11-09": 616,
-  "2022-11-10": 620,
-  "2022-11-11": 621,
-  "2022-11-12": 622,
-  "2022-11-13": 625,
-  "2022-11-14": 627,
-  "2022-11-15": 629,
-  "2022-11-16": 630,
-  "2022-11-17": 631,
-  "2022-11-18": 632,
-  "2022-11-19": 633,
-  "2022-11-20": 637,
-  "2022-11-21": 640,
-  "2022-11-22": 641,
-  "2022-11-23": 642,
-  "2022-11-24": 642,
-  "2022-11-25": 644,
-  "2022-11-26": 646,
-  "2022-11-27": 648,
-  "2022-11-28": 648,
-  "2022-11-29": 651,
-  "2022-11-30": 653,
-  "2022-12-01": 653,
-  "2022-12-02": 654,
-  "2022-12-03": 658,
-  "2022-12-04": 660,
-  "2022-12-05": 662,
-  "2022-12-06": 663,
-  "2022-12-07": 665,
-  "2022-12-08": 667,
-  "2022-12-09": 671,
-  "2022-12-10": 674,
-  "2022-12-11": 673,
-  "2022-12-12": 675,
-  "2022-12-13": 678,
-  "2022-12-14": 680,
-  "2022-12-15": 680,
-  "2022-12-16": 681,
-  "2022-12-17": 684,
-  "2022-12-18": 683,
-  "2022-12-19": 685,
-  "2022-12-20": 687,
-  "2022-12-21": 687,
-  "2022-12-22": 692,
-  "2022-12-24": 692,
-  "2022-12-25": 693,
-  "2022-12-26": 694,
-  "2022-12-27": 693,
-  "2022-12-28": 696,
-  "2022-12-29": 698,
-  "2022-12-30": 704,
-  "2022-12-31": 706,
-  "2023-01-01": 707,
-  "2023-01-02": 710,
-  "2023-01-03": 712,
-  "2023-01-04": 714,
-  "2023-01-05": 714,
-  "2023-01-06": 718,
-  "2023-01-07": 726,
-  "2023-01-08": 726,
-  "2023-01-09": 729,
-  "2023-01-10": 735,
-  "2023-01-11": 739,
-  "2023-01-12": 741,
-  "2023-01-13": 743,
-  "2023-01-14": 745,
-  "2023-01-15": 746,
-  "2023-01-16": 744,
-  "2023-01-17": 745,
-  "2023-01-18": 750,
-  "2023-01-19": 751,
-  "2023-01-20": 755,
-  "2023-01-21": 757,
-  "2023-01-22": 757,
-  "2023-01-23": 759,
-  "2023-01-24": 765,
-  "2023-01-25": 767,
-  "2023-01-26": 769,
-  "2023-01-27": 771,
-  "2023-01-28": 773,
-  "2023-01-29": 774,
-  "2023-01-30": 776,
-  "2023-01-31": 776,
-  "2023-02-01": 780,
-  "2023-02-02": 781,
-  "2023-02-03": 782,
-  "2023-02-04": 786,
-  "2023-02-05": 787,
-  "2023-02-06": 792,
-  "2023-02-07": 795,
-  "2023-02-08": 804,
-  "2023-02-09": 804,
-  "2023-02-10": 811,
-  "2023-02-11": 818,
-  "2023-02-12": 826,
-  "2023-02-13": 829,
-  "2023-02-14": 829,
-  "2023-02-15": 829,
-  "2023-02-16": 831,
-  "2023-02-17": 832,
-  "2023-02-18": 839,
-  "2023-02-19": 839,
-  "2023-02-20": 840,
-  "2023-02-21": 845,
-  "2023-02-22": 847,
-  "2023-02-23": 845,
-  "2023-02-24": 850,
-  "2023-02-25": 854,
-  "2023-02-26": 854,
-  "2023-02-27": 859,
-  "2023-02-28": 859,
-  "2023-03-01": 862,
-  "2023-03-02": 865,
-  "2023-03-03": 869,
-  "2023-03-04": 870,
-  "2023-03-05": 874,
-  "2023-03-06": 874,
-  "2023-03-07": 879,
-  "2023-03-08": 879,
-  "2023-03-09": 881,
-  "2023-03-10": 881,
-  "2023-03-11": 883,
-  "2023-03-12": 882,
-  "2023-03-13": 887,
-  "2023-03-14": 889,
-  "2023-03-15": 890,
-  "2023-03-16": 890,
-  "2023-03-17": 890,
-  "2023-03-18": 894,
-  "2023-03-19": 894,
-  "2023-03-20": 895,
-  "2023-03-21": 897,
-  "2023-03-22": 899,
-  "2023-03-23": 901,
-  "2023-03-24": 901,
-  "2023-03-25": 907,
-  "2023-03-26": 911,
-  "2023-03-27": 913,
-  "2023-03-28": 915,
-  "2023-03-29": 918,
-  "2023-03-30": 920,
-  "2023-03-31": 920,
-  "2023-04-01": 924,
-  "2023-04-02": 925,
-  "2023-04-03": 927,
-  "2023-04-04": 929,
-  "2023-04-05": 932,
-  "2023-04-06": 934,
-  "2023-04-07": 935,
-  "2023-04-09": 939,
-  "2023-04-10": 943,
-  "2023-04-11": 944,
-  "2023-04-12": 944,
-  "2023-04-13": 950,
-  "2023-04-14": 956,
-  "2023-04-15": 957,
-  "2023-04-16": 958,
-  "2023-04-17": 959,
-  "2023-04-18": 962,
-  "2023-04-19": 963,
-  "2023-04-20": 964,
-  "2023-04-21": 967,
-  "2023-04-22": 970,
-  "2023-04-23": 969,
-  "2023-04-24": 972,
-  "2023-04-25": 976,
-  "2023-04-26": 978,
-  "2023-04-27": 984,
-  "2023-04-28": 987,
-  "2023-04-29": 991,
-  "2023-04-30": 991,
-  "2023-05-01": 992,
-  "2023-05-02": 992,
-  "2023-05-03": 998,
-  "2023-05-04": 1000,
-  "2023-05-05": 1002,
-  "2023-05-06": 1003,
-  "2023-05-07": 1006,
-  "2023-05-08": 1009,
-  "2023-05-09": 1011,
-  "2023-05-10": 1013,
-  "2023-05-11": 1017,
-  "2023-05-12": 1017,
-  "2023-05-13": 1018,
-  "2023-05-14": 1019,
-  "2023-05-15": 1026,
-  "2023-05-16": 1028,
-  "2023-05-17": 1032,
-  "2023-05-18": 1034,
-  "2023-05-19": 1035,
-  "2023-05-20": 1037,
-  "2023-05-21": 1037,
-  "2023-05-22": 1037,
-  "2023-05-23": 1042,
-  "2023-05-24": 1049,
-  "2023-05-25": 1049,
-  "2023-05-26": 1048,
-  "2023-05-27": 1050,
-  "2023-05-28": 1050,
-  "2023-05-29": 1050,
-  "2023-05-30": 1053,
-  "2023-05-31": 1056,
-  "2023-06-01": 1055,
-  "2023-06-02": 1058,
-  "2023-06-03": 1060,
-  "2023-06-04": 1059,
-  "2023-06-05": 1059,
-  "2023-06-06": 1061,
-  "2023-06-07": 1061,
-  "2023-06-08": 1062,
-  "2023-06-09": 1066,
-  "2023-06-10": 1069,
-  "2023-06-11": 1076,
-  "2023-06-12": 1077,
-  "2023-06-13": 1083,
-  "2023-06-14": 1083,
-  "2023-06-15": 1084,
-  "2023-06-16": 1088,
-  "2023-06-17": 1091,
-  "2023-06-18": 1091,
-  "2023-06-19": 1092,
-  "2023-06-20": 1094,
-  "2023-06-21": 1098,
-  "2023-06-22": 1099,
-  "2023-06-23": 1100,
-  "2023-06-24": 1100,
-  "2023-06-25": 1103,
-  "2023-06-26": 1103,
-  "2023-06-27": 1104,
-  "2023-06-28": 1104,
-  "2023-06-29": 1107,
-  "2023-06-30": 1107,
-  "2023-07-01": 1117,
-  "2023-07-02": 1117,
-  "2023-07-03": 1115,
-  "2023-07-04": 1118,
-  "2023-07-05": 1121,
-  "2023-07-06": 1124,
-  "2023-07-07": 1124,
-  "2023-07-08": 1124,
-  "2023-07-09": 1125,
-  "2023-07-10": 1125,
-  "2023-07-11": 1128,
-  "2023-07-12": 1128,
-  "2023-07-13": 1127,
-  "2023-07-14": 1129,
-  "2023-07-15": 1132,
-  "2023-07-16": 1130,
-  "2023-07-17": 1134,
-  "2023-07-18": 1139,
-  "2023-07-19": 1147,
-  "2023-07-20": 1150,
-  "2023-07-21": 1157,
-  "2023-07-22": 1159,
-  "2023-07-23": 1160,
-  "2023-07-24": 1162,
-  "2023-07-25": 1167,
-  "2023-07-26": 1172,
-  "2023-07-27": 1172,
-  "2023-07-28": 1173,
-  "2023-07-29": 1175,
-  "2023-07-30": 1176,
-  "2023-07-31": 1177,
-  "2023-08-01": 1179,
-  "2023-08-02": 1183,
-  "2023-08-03": 1186,
-  "2023-08-04": 1186,
-  "2023-08-05": 1187,
-  "2023-08-06": 1187,
-  "2023-08-07": 1187,
-  "2023-08-08": 1188,
-  "2023-08-09": 1191,
-  "2023-08-10": 1191,
-  "2023-08-11": 1194,
-  "2023-08-12": 1194,
-  "2023-08-13": 1194,
-  "2023-08-14": 1198,
-  "2023-08-15": 1198,
-  "2023-08-16": 1198,
-  "2023-08-17": 1198,
-  "2023-08-18": 1198,
-  "2023-08-19": 1198,
-  "2023-08-20": 1212,
-  "2023-08-21": 1212,
-  "2023-08-22": 1211,
-  "2023-08-23": 1211,
-  "2023-08-24": 1211,
-  "2023-08-25": 1211,
-  "2023-08-26": 1225,
-  "2023-08-27": 1225,
-  "2023-08-28": 1227,
-  "2023-08-29": 1227,
-  "2023-08-30": 1227,
-  "2023-08-31": 1229,
-  "2023-09-01": 1228,
-  "2023-09-02": 1228,
-  "2023-09-03": 1228,
-  "2023-09-04": 1228,
-  "2023-09-05": 1228,
-  "2023-09-06": 1228,
-  "2023-09-07": 1228,
-  "2023-09-08": 1228,
-  "2023-09-09": 1228,
-  "2023-09-10": 1228,
-  "2023-09-11": 1228,
-  "2023-09-12": 1228,
-  "2023-09-13": 1228,
-  "2023-09-14": 1228,
-  "2023-09-15": 1228,
-  "2023-09-16": 1252,
-  "2023-09-17": 1252,
-  "2023-09-18": 1252,
-  "2023-09-19": 1261,
-  "2023-09-20": 1261,
-  "2023-09-21": 1261,
-  "2023-09-22": 1273,
-  "2023-09-23": 1273,
-  "2023-09-24": 1273,
-  "2023-09-25": 1273,
-  "2023-09-26": 1287,
-  "2023-09-27": 1287,
-  "2023-09-28": 1287,
-  "2023-09-29": 1287,
-  "2023-09-30": 1287,
-  "2023-10-01": 1287,
-  "2023-10-02": 1287,
-  "2023-10-03": 1287,
-  "2023-10-04": 1287,
-  "2023-10-05": 1287,
-  "2023-10-06": 1287,
-  "2023-10-07": 1287,
-  "2023-10-08": 1287,
-  "2023-10-09": 1287,
-  "2023-10-10": 1287,
-  "2023-10-11": 1330,
-  "2023-10-12": 1330,
-  "2023-10-13": 1330,
-  "2023-10-14": 1330,
-  "2023-10-15": 1330,
-  "2023-10-16": 1330,
-  "2023-10-17": 1330,
-  "2023-10-18": 1330,
-  "2023-10-19": 1330,
-  "2023-10-20": 1330,
-  "2023-10-21": 1330,
-  "2023-10-22": 1330,
-  "2023-10-23": 1330,
-  "2023-10-24": 1330,
-  "2023-10-25": 1330,
-  "2023-10-26": 1330,
-  "2023-10-27": 1330,
-  "2023-10-28": 1330,
-  "2023-10-29": 1330,
-  "2023-10-30": 1330,
-  "2023-10-31": 1330,
-  "2023-11-01": 1330,
-  "2023-11-02": 1330,
-  "2023-11-03": 1330,
-  "2023-11-04": 1330,
-  "2023-11-05": 1330,
-  "2023-11-06": 1330,
-  "2023-11-07": 1330,
-  "2023-11-08": 1330,
-  "2023-11-09": 1330,
-  "2023-11-10": 1330,
-  "2023-11-11": 1413,
-  "2023-11-12": 1413,
-  "2023-11-13": 1413,
-  "2023-11-14": 1413,
-  "2023-11-15": 1413,
-  "2023-11-16": 1413,
-  "2023-11-17": 1413,
-  "2023-11-18": 1413,
-  "2023-11-19": 1413,
-  "2023-11-20": 1413,
-  "2023-11-21": 1413,
-  "2023-11-22": 1413,
-  "2023-11-23": 1413,
-  "2023-11-24": 1413,
-  "2023-11-25": 1413,
-  "2023-11-26": 1413,
-  "2023-11-27": 1413,
-  "2023-11-28": 1413,
-  "2023-11-29": 1413,
-  "2023-11-30": 1413,
-  "2023-12-01": 1413,
-  "2023-12-02": 1413,
-  "2023-12-03": 1413,
-  "2023-12-04": 1413,
-  "2023-12-05": 1413,
-  "2023-12-06": 1413,
-  "2023-12-07": 1413,
-  "2023-12-08": 1413,
-  "2023-12-09": 1413,
-  "2023-12-10": 1413,
-  "2023-12-11": 1413,
-  "2023-12-12": 1413,
-  "2023-12-13": 1413,
-  "2023-12-14": 1475,
-  "2023-12-15": 1480,
-  "2023-12-16": 1481,
-  "2023-12-17": 1482,
-  "2023-12-18": 1483,
-  "2023-12-19": 1486,
-  "2023-12-20": 1490,
-  "2023-12-21": 1491,
-  "2023-12-22": 1495,
-  "2023-12-23": 1497,
-  "2023-12-24": 1500,
-  "2023-12-25": 1500,
-  "2023-12-26": 1501,
-  "2023-12-27": 1505,
-  "2023-12-30": 1511,
-  "2023-12-31": 1514,
-  "2024-01-01": 1514,
-  "2024-01-02": 1515,
-  "2024-01-03": 1519
+  "2024-01-17": 1540,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Narrow Head. The essential tracks, all in one playlist.",
+  "name": "This Is Narrow Head",
+  "tracks": [
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88948,
+      "name": "12th House",
+      "url": "https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX"
+    },
+    {
+      "album": {
+        "name": "Coursing Through",
+        "url": "https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 328237,
+      "name": "Ash Anywhere",
+      "url": "https://open.spotify.com/track/7jH4ClqJQJT1l0SxU10OOb"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176621,
+      "name": "Ashtray",
+      "url": "https://open.spotify.com/track/1AmVWLPhCqTMt4y5t0cB8T"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
+        "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237179,
+      "name": "Brain Dead",
+      "url": "https://open.spotify.com/track/4JkPEQKAQ9Uwg1vTilKx5y"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 248792,
+      "name": "Breakup Song",
+      "url": "https://open.spotify.com/track/2T77w3UJGIj2ZTtjOaq5tv"
+    },
+    {
+      "album": {
+        "name": "Bulma - Single",
+        "url": "https://open.spotify.com/album/3q0oPKvM3rcpuGY8nOvWc4"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 171989,
+      "name": "Bulma",
+      "url": "https://open.spotify.com/track/3R7Gy621ZWHLd8kYl9Bz6s"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212902,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI"
+    },
+    {
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2yTkGlRAiUEZLxdqOR2ejq"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 212902,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/3OW0jmq5jeDiDnYKI0apJJ"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185640,
+      "name": "Cool in Motion",
+      "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119866,
+      "name": "Crankcase",
+      "url": "https://open.spotify.com/track/0RjC1vmqEEWPHWdgS8g0B3"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
+        "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230639,
+      "name": "Far Removed",
+      "url": "https://open.spotify.com/track/5NwYO5OtL5LBXAYCAkqSfe"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Feels Like Sand",
+      "url": "https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 325024,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/3RLBhVe1eGn1npfJbR8kCM"
+    },
+    {
+      "album": {
+        "name": "Gearhead",
+        "url": "https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 204228,
+      "name": "Gearhead",
+      "url": "https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204228,
+      "name": "Gearhead",
+      "url": "https://open.spotify.com/track/6U1gILtopcOcOZo4elN0Uw"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166027,
+      "name": "Hard to Swallow",
+      "url": "https://open.spotify.com/track/6XSR3rZzQRQ7oaRYqbe408"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
+        "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "In Slow Time",
+      "url": "https://open.spotify.com/track/3C7Qjn5zpc6xJ81pamYWtJ"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
+        "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242196,
+      "name": "Make It Hurt",
+      "url": "https://open.spotify.com/track/69jVsEla1GaZYEzinH4kDb"
+    },
+    {
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3R4BxYnIdB6GwbCZjk88af"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 230935,
+      "name": "Moments of Clarity",
+      "url": "https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115865,
+      "name": "Nancy France",
+      "url": "https://open.spotify.com/track/0sg0JxIhkrB7xxQKLIa1F2"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Necrosis",
+      "url": "https://open.spotify.com/track/46FwqZts74DdH7mWvG1SpG"
+    },
+    {
+      "album": {
+        "name": "Far Removed",
+        "url": "https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231424,
+      "name": "Nervous Habits",
+      "url": "https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345408,
+      "name": "Nodding Off",
+      "url": "https://open.spotify.com/track/7jd5bSsJ3pdPVDU7PdFVJL"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 165666,
+      "name": "Paranoid Hands",
+      "url": "https://open.spotify.com/track/7s0E7MQg8ius1ygr0NndJs"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 236869,
+      "name": "Ponderosa Sun Club",
+      "url": "https://open.spotify.com/track/4E7rliVKRRxJWktIdZ7caE"
+    },
+    {
+      "album": {
+        "name": "Coursing Through",
+        "url": "https://open.spotify.com/album/7CKVvhRVZHbLCfOgsbUdxX"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 258166,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3No5gkFfVh2zW59XT67aNY"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238464,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6Glr1Wc0TZ5Ta1BCbrvaHG"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "Stuttering Stanley",
+      "url": "https://open.spotify.com/track/2bDcEAuUcRdqn7dkERCmqj"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198508,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "album": {
+        "name": "T.W.I.N.",
+        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187654,
+      "name": "T.W.I.N.",
+      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210974,
+      "name": "The Real",
+      "url": "https://open.spotify.com/track/6Ux3fUYIKunILT948gEFMM"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 195989,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2efigRjEb9z8FiCvh2Ff5M"
+    },
+    {
+      "album": {
+        "name": "Moments of Clarity",
+        "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209252,
+      "name": "Trepanation",
+      "url": "https://open.spotify.com/track/79Sx3cIdMZNYxIpJX27O4P"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 213275,
+      "name": "Uncover",
+      "url": "https://open.spotify.com/track/0Ee742cXNq3mVu6itU590B"
+    },
+    {
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 336600,
+      "name": "Yer' Song",
+      "url": "https://open.spotify.com/track/3ue1pNiUCSLZrND9sEEjSB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2urtMA"
 }

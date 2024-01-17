@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,928 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,808 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

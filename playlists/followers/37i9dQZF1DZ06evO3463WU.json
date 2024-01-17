@@ -1,577 +1,1799 @@
 {
-  "2022-06-02": 107332,
-  "2022-06-03": 107374,
-  "2022-06-04": 107428,
-  "2022-06-05": 107479,
-  "2022-06-06": 107535,
-  "2022-06-07": 107573,
-  "2022-06-08": 107611,
-  "2022-06-09": 107631,
-  "2022-06-10": 107663,
-  "2022-06-11": 107711,
-  "2022-06-12": 107759,
-  "2022-06-13": 107816,
-  "2022-06-14": 107853,
-  "2022-06-15": 107872,
-  "2022-06-16": 107905,
-  "2022-06-17": 107937,
-  "2022-06-18": 107987,
-  "2022-06-19": 108119,
-  "2022-06-20": 108119,
-  "2022-06-21": 108160,
-  "2022-06-22": 108250,
-  "2022-06-23": 108250,
-  "2022-06-24": 108296,
-  "2022-06-25": 108339,
-  "2022-06-26": 108402,
-  "2022-06-27": 108449,
-  "2022-06-28": 108500,
-  "2022-06-29": 108530,
-  "2022-06-30": 108564,
-  "2022-07-01": 108612,
-  "2022-07-02": 108669,
-  "2022-07-03": 108751,
-  "2022-07-04": 108807,
-  "2022-07-05": 108807,
-  "2022-07-06": 108807,
-  "2022-07-07": 108919,
-  "2022-07-08": 108973,
-  "2022-07-09": 109033,
-  "2022-07-10": 109084,
-  "2022-07-11": 109126,
-  "2022-07-12": 109158,
-  "2022-07-13": 109193,
-  "2022-07-14": 109227,
-  "2022-07-15": 109275,
-  "2022-07-16": 109327,
-  "2022-07-17": 109367,
-  "2022-07-18": 109414,
-  "2022-07-19": 109472,
-  "2022-07-20": 109514,
-  "2022-07-21": 109555,
-  "2022-07-22": 109604,
-  "2022-07-23": 109659,
-  "2022-07-24": 109724,
-  "2022-07-25": 109784,
-  "2022-07-26": 109816,
-  "2022-07-27": 109863,
-  "2022-07-28": 109901,
-  "2022-07-29": 109947,
-  "2022-07-30": 110053,
-  "2022-07-31": 110053,
-  "2022-08-01": 110095,
-  "2022-08-02": 110162,
-  "2022-08-03": 110162,
-  "2022-08-04": 110200,
-  "2022-08-05": 110249,
-  "2022-08-06": 110312,
-  "2022-08-07": 110378,
-  "2022-08-08": 110427,
-  "2022-08-09": 110467,
-  "2022-08-10": 110505,
-  "2022-08-11": 110567,
-  "2022-08-12": 110622,
-  "2022-08-13": 110682,
-  "2022-08-14": 110744,
-  "2022-08-15": 110792,
-  "2022-08-16": 110838,
-  "2022-08-17": 110873,
-  "2022-08-18": 110911,
-  "2022-08-19": 110953,
-  "2022-08-20": 111027,
-  "2022-08-21": 111083,
-  "2022-08-22": 111134,
-  "2022-08-23": 111171,
-  "2022-08-24": 111212,
-  "2022-08-25": 111255,
-  "2022-08-26": 111288,
-  "2022-08-27": 111323,
-  "2022-08-28": 111387,
-  "2022-08-29": 111437,
-  "2022-08-30": 111470,
-  "2022-08-31": 111507,
-  "2022-09-01": 111544,
-  "2022-09-02": 111611,
-  "2022-09-03": 111661,
-  "2022-09-04": 111723,
-  "2022-09-05": 111782,
-  "2022-09-06": 111835,
-  "2022-09-07": 111871,
-  "2022-09-09": 111954,
-  "2022-09-10": 112011,
-  "2022-09-11": 112084,
-  "2022-09-12": 112124,
-  "2022-09-13": 112165,
-  "2022-09-15": 112243,
-  "2022-09-16": 112296,
-  "2022-09-17": 112364,
-  "2022-09-18": 112429,
-  "2022-09-19": 112478,
-  "2022-09-20": 112518,
-  "2022-09-21": 112556,
-  "2022-09-22": 112603,
-  "2022-09-23": 112655,
-  "2022-09-24": 112655,
-  "2022-09-25": 112766,
-  "2022-09-26": 112832,
-  "2022-09-27": 112870,
-  "2022-09-28": 112920,
-  "2022-09-29": 112980,
-  "2022-09-30": 113022,
-  "2022-10-01": 113071,
-  "2022-10-02": 113145,
-  "2022-10-03": 113198,
-  "2022-10-04": 113228,
-  "2022-10-05": 113276,
-  "2022-10-06": 113324,
-  "2022-10-07": 113370,
-  "2022-10-08": 113427,
-  "2022-10-09": 113544,
-  "2022-10-10": 113579,
-  "2022-10-11": 113625,
-  "2022-10-12": 113683,
-  "2022-10-13": 113734,
-  "2022-10-14": 113782,
-  "2022-10-15": 113842,
-  "2022-10-16": 113915,
-  "2022-10-17": 113979,
-  "2022-10-18": 114014,
-  "2022-10-19": 114069,
-  "2022-10-20": 114124,
-  "2022-10-21": 114174,
-  "2022-10-22": 114224,
-  "2022-10-23": 114286,
-  "2022-10-24": 114345,
-  "2022-10-25": 114389,
-  "2022-10-26": 114421,
-  "2022-10-27": 114467,
-  "2022-10-28": 114525,
-  "2022-10-29": 114583,
-  "2022-10-30": 114652,
-  "2022-10-31": 114715,
-  "2022-11-01": 114762,
-  "2022-11-02": 114805,
-  "2022-11-03": 114833,
-  "2022-11-04": 114874,
-  "2022-11-05": 114919,
-  "2022-11-06": 114982,
-  "2022-11-07": 115032,
-  "2022-11-08": 115079,
-  "2022-11-09": 115123,
-  "2022-11-10": 115155,
-  "2022-11-11": 115221,
-  "2022-11-12": 115285,
-  "2022-11-13": 115336,
-  "2022-11-14": 115388,
-  "2022-11-15": 115421,
-  "2022-11-16": 115456,
-  "2022-11-17": 115494,
-  "2022-11-18": 115496,
-  "2022-11-19": 115498,
-  "2022-11-20": 115537,
-  "2022-11-21": 115595,
-  "2022-11-22": 115638,
-  "2022-11-23": 115681,
-  "2022-11-24": 115750,
-  "2022-11-25": 115812,
-  "2022-11-26": 115850,
-  "2022-11-27": 115900,
-  "2022-11-28": 115942,
-  "2022-11-29": 115980,
-  "2022-11-30": 116035,
-  "2022-12-01": 116064,
-  "2022-12-02": 116093,
-  "2022-12-03": 116153,
-  "2022-12-04": 116207,
-  "2022-12-05": 116266,
-  "2022-12-06": 116302,
-  "2022-12-07": 116342,
-  "2022-12-08": 116377,
-  "2022-12-09": 116433,
-  "2022-12-10": 116489,
-  "2022-12-11": 116555,
-  "2022-12-12": 116628,
-  "2022-12-13": 116666,
-  "2022-12-14": 116707,
-  "2022-12-15": 116753,
-  "2022-12-16": 116806,
-  "2022-12-17": 116857,
-  "2022-12-18": 116925,
-  "2022-12-19": 116976,
-  "2022-12-20": 117093,
-  "2022-12-21": 117093,
-  "2022-12-22": 117121,
-  "2022-12-24": 117239,
-  "2022-12-25": 117315,
-  "2022-12-26": 117412,
-  "2022-12-27": 117465,
-  "2022-12-28": 117509,
-  "2022-12-29": 117573,
-  "2022-12-30": 117629,
-  "2022-12-31": 117688,
-  "2023-01-01": 117763,
-  "2023-01-02": 117837,
-  "2023-01-03": 117865,
-  "2023-01-04": 117908,
-  "2023-01-05": 117959,
-  "2023-01-06": 117999,
-  "2023-01-07": 118086,
-  "2023-01-08": 118106,
-  "2023-01-09": 118158,
-  "2023-01-10": 118205,
-  "2023-01-11": 118257,
-  "2023-01-12": 118300,
-  "2023-01-13": 118351,
-  "2023-01-14": 118475,
-  "2023-01-15": 118487,
-  "2023-01-16": 118557,
-  "2023-01-17": 118598,
-  "2023-01-18": 118649,
-  "2023-01-19": 118700,
-  "2023-01-20": 118760,
-  "2023-01-21": 118812,
-  "2023-01-22": 118877,
-  "2023-01-23": 118952,
-  "2023-01-24": 119011,
-  "2023-01-25": 119060,
-  "2023-01-26": 119127,
-  "2023-01-27": 119177,
-  "2023-01-28": 119264,
-  "2023-01-29": 119366,
-  "2023-01-30": 119448,
-  "2023-01-31": 119448,
-  "2023-02-01": 119556,
-  "2023-02-02": 119595,
-  "2023-02-03": 119652,
-  "2023-02-04": 119717,
-  "2023-02-05": 119793,
-  "2023-02-06": 119842,
-  "2023-02-07": 119899,
-  "2023-02-08": 120001,
-  "2023-02-09": 120001,
-  "2023-02-10": 120048,
-  "2023-02-11": 120107,
-  "2023-02-12": 120248,
-  "2023-02-13": 120279,
-  "2023-02-14": 120279,
-  "2023-02-15": 120324,
-  "2023-02-16": 120367,
-  "2023-02-17": 120413,
-  "2023-02-18": 120546,
-  "2023-02-19": 120559,
-  "2023-02-20": 120595,
-  "2023-02-21": 120650,
-  "2023-02-22": 120702,
-  "2023-02-23": 120749,
-  "2023-02-24": 120817,
-  "2023-02-25": 120888,
-  "2023-02-26": 120930,
-  "2023-02-27": 121063,
-  "2023-02-28": 121063,
-  "2023-03-01": 121127,
-  "2023-03-02": 121185,
-  "2023-03-03": 121251,
-  "2023-03-04": 121313,
-  "2023-03-05": 121506,
-  "2023-03-06": 121506,
-  "2023-03-07": 121565,
-  "2023-03-08": 121624,
-  "2023-03-09": 121662,
-  "2023-03-10": 121713,
-  "2023-03-11": 121770,
-  "2023-03-12": 121827,
-  "2023-03-13": 121886,
-  "2023-03-14": 121926,
-  "2023-03-15": 121972,
-  "2023-03-16": 121972,
-  "2023-03-17": 121972,
-  "2023-03-18": 122132,
-  "2023-03-19": 122132,
-  "2023-03-20": 122291,
-  "2023-03-21": 122341,
-  "2023-03-22": 122380,
-  "2023-03-23": 122428,
-  "2023-03-24": 122428,
-  "2023-03-25": 122547,
-  "2023-03-26": 122607,
-  "2023-03-27": 122691,
-  "2023-03-28": 122738,
-  "2023-03-29": 122803,
-  "2023-03-30": 122911,
-  "2023-03-31": 122911,
-  "2023-04-01": 122992,
-  "2023-04-02": 123076,
-  "2023-04-03": 123153,
-  "2023-04-04": 123206,
-  "2023-04-05": 123260,
-  "2023-04-06": 123344,
-  "2023-04-07": 123424,
-  "2023-04-09": 123568,
-  "2023-04-10": 123628,
-  "2023-04-11": 123715,
-  "2023-04-12": 123715,
-  "2023-04-13": 123770,
-  "2023-04-14": 123835,
-  "2023-04-15": 123909,
-  "2023-04-16": 123994,
-  "2023-04-17": 124072,
-  "2023-04-18": 124129,
-  "2023-04-19": 124192,
-  "2023-04-20": 124245,
-  "2023-04-21": 124301,
-  "2023-04-22": 124390,
-  "2023-04-23": 124499,
-  "2023-04-24": 124588,
-  "2023-04-25": 124645,
-  "2023-04-26": 124695,
-  "2023-04-27": 124842,
-  "2023-04-28": 125070,
-  "2023-04-29": 125215,
-  "2023-04-30": 125357,
-  "2023-05-01": 125462,
-  "2023-05-02": 125555,
-  "2023-05-03": 125646,
-  "2023-05-04": 125715,
-  "2023-05-05": 125813,
-  "2023-05-06": 125903,
-  "2023-05-07": 125986,
-  "2023-05-08": 126065,
-  "2023-05-09": 126165,
-  "2023-05-10": 126228,
-  "2023-05-11": 126315,
-  "2023-05-12": 126392,
-  "2023-05-13": 126464,
-  "2023-05-14": 126554,
-  "2023-05-15": 126628,
-  "2023-05-16": 126679,
-  "2023-05-17": 126736,
-  "2023-05-18": 126782,
-  "2023-05-19": 126845,
-  "2023-05-20": 127018,
-  "2023-05-21": 127018,
-  "2023-05-22": 127018,
-  "2023-05-23": 127162,
-  "2023-05-24": 127277,
-  "2023-05-25": 127300,
-  "2023-05-26": 127361,
-  "2023-05-27": 127428,
-  "2023-05-28": 127512,
-  "2023-05-29": 127512,
-  "2023-05-30": 127606,
-  "2023-05-31": 127656,
-  "2023-06-01": 127739,
-  "2023-06-02": 127802,
-  "2023-06-03": 127863,
-  "2023-06-04": 127964,
-  "2023-06-05": 128165,
-  "2023-06-06": 128223,
-  "2023-06-07": 128294,
-  "2023-06-08": 128352,
-  "2023-06-09": 128416,
-  "2023-06-10": 128498,
-  "2023-06-11": 128593,
-  "2023-06-12": 128693,
-  "2023-06-13": 128746,
-  "2023-06-14": 128746,
-  "2023-06-15": 128875,
-  "2023-06-16": 128942,
-  "2023-06-17": 129000,
-  "2023-06-18": 129061,
-  "2023-06-19": 129170,
-  "2023-06-20": 129244,
-  "2023-06-21": 129297,
-  "2023-06-22": 129357,
-  "2023-06-23": 129408,
-  "2023-06-24": 129489,
-  "2023-06-25": 129565,
-  "2023-06-26": 129649,
-  "2023-06-27": 129704,
-  "2023-06-28": 129777,
-  "2023-06-29": 129837,
-  "2023-06-30": 129905,
-  "2023-07-01": 130079,
-  "2023-07-02": 130079,
-  "2023-07-03": 130173,
-  "2023-07-04": 130219,
-  "2023-07-05": 130282,
-  "2023-07-06": 130383,
-  "2023-07-07": 130383,
-  "2023-07-08": 130383,
-  "2023-07-09": 130490,
-  "2023-07-10": 130551,
-  "2023-07-11": 130588,
-  "2023-07-12": 130628,
-  "2023-07-13": 130698,
-  "2023-07-14": 130761,
-  "2023-07-15": 130804,
-  "2023-07-16": 130909,
-  "2023-07-17": 130985,
-  "2023-07-18": 131048,
-  "2023-07-19": 131103,
-  "2023-07-20": 131166,
-  "2023-07-21": 131228,
-  "2023-07-22": 131314,
-  "2023-07-23": 131395,
-  "2023-07-24": 131478,
-  "2023-07-25": 131527,
-  "2023-07-26": 131586,
-  "2023-07-27": 131661,
-  "2023-07-28": 131714,
-  "2023-07-29": 131800,
-  "2023-07-30": 131874,
-  "2023-07-31": 131946,
-  "2023-08-01": 131993,
-  "2023-08-02": 132052,
-  "2023-08-03": 132118,
-  "2023-08-04": 132172,
-  "2023-08-05": 132229,
-  "2023-08-06": 132377,
-  "2023-08-07": 132377,
-  "2023-08-08": 132433,
-  "2023-08-09": 132486,
-  "2023-08-10": 132533,
-  "2023-08-11": 132590,
-  "2023-08-12": 132590,
-  "2023-08-13": 132590,
-  "2023-08-14": 132791,
-  "2023-08-15": 132791,
-  "2023-08-16": 132791,
-  "2023-08-17": 132791,
-  "2023-08-18": 132791,
-  "2023-08-19": 132791,
-  "2023-08-20": 133118,
-  "2023-08-21": 133118,
-  "2023-08-22": 133219,
-  "2023-08-23": 133219,
-  "2023-08-24": 133219,
-  "2023-08-25": 133219,
-  "2023-08-26": 133482,
-  "2023-08-27": 133482,
-  "2023-08-28": 133661,
-  "2023-08-29": 133661,
-  "2023-08-30": 133661,
-  "2023-08-31": 133840,
-  "2023-09-01": 133903,
-  "2023-09-02": 133903,
-  "2023-09-03": 133903,
-  "2023-09-04": 133903,
-  "2023-09-05": 133903,
-  "2023-09-06": 133903,
-  "2023-09-07": 133903,
-  "2023-09-08": 133903,
-  "2023-09-09": 133903,
-  "2023-09-10": 133903,
-  "2023-09-11": 133903,
-  "2023-09-12": 133903,
-  "2023-09-13": 133903,
-  "2023-09-14": 133903,
-  "2023-09-15": 133903,
-  "2023-09-16": 134913,
-  "2023-09-17": 134913,
-  "2023-09-18": 134913,
-  "2023-09-19": 135135,
-  "2023-09-20": 135135,
-  "2023-09-21": 135135,
-  "2023-09-22": 135277,
-  "2023-09-23": 135277,
-  "2023-09-24": 135277,
-  "2023-09-25": 135277,
-  "2023-09-26": 135482,
-  "2023-09-27": 135482,
-  "2023-09-28": 135482,
-  "2023-09-29": 135482,
-  "2023-09-30": 135482,
-  "2023-10-01": 135482,
-  "2023-10-02": 135482,
-  "2023-10-03": 135482,
-  "2023-10-04": 135482,
-  "2023-10-05": 135482,
-  "2023-10-06": 135482,
-  "2023-10-07": 135482,
-  "2023-10-08": 135482,
-  "2023-10-09": 135482,
-  "2023-10-10": 135482,
-  "2023-10-11": 136009,
-  "2023-10-12": 136009,
-  "2023-10-13": 136009,
-  "2023-10-14": 136009,
-  "2023-10-15": 136009,
-  "2023-10-16": 136009,
-  "2023-10-17": 136009,
-  "2023-10-18": 136009,
-  "2023-10-19": 136009,
-  "2023-10-20": 136009,
-  "2023-10-21": 136009,
-  "2023-10-22": 136009,
-  "2023-10-23": 136009,
-  "2023-10-24": 136009,
-  "2023-10-25": 136009,
-  "2023-10-26": 136009,
-  "2023-10-27": 136009,
-  "2023-10-28": 136009,
-  "2023-10-29": 136009,
-  "2023-10-30": 136009,
-  "2023-10-31": 136009,
-  "2023-11-01": 136009,
-  "2023-11-02": 136009,
-  "2023-11-03": 136009,
-  "2023-11-04": 136009,
-  "2023-11-05": 136009,
-  "2023-11-06": 136009,
-  "2023-11-07": 136009,
-  "2023-11-08": 136009,
-  "2023-11-09": 136009,
-  "2023-11-10": 136009,
-  "2023-11-11": 137409,
-  "2023-11-12": 137409,
-  "2023-11-13": 137409,
-  "2023-11-14": 137409,
-  "2023-11-15": 137409,
-  "2023-11-16": 137409,
-  "2023-11-17": 137409,
-  "2023-11-18": 137409,
-  "2023-11-19": 137409,
-  "2023-11-20": 137409,
-  "2023-11-21": 137409,
-  "2023-11-22": 137409,
-  "2023-11-23": 137409,
-  "2023-11-24": 137409,
-  "2023-11-25": 137409,
-  "2023-11-26": 137409,
-  "2023-11-27": 137409,
-  "2023-11-28": 137409,
-  "2023-11-29": 137409,
-  "2023-11-30": 137409,
-  "2023-12-01": 137409,
-  "2023-12-02": 137409,
-  "2023-12-03": 137409,
-  "2023-12-04": 137409,
-  "2023-12-05": 137409,
-  "2023-12-06": 137409,
-  "2023-12-07": 137409,
-  "2023-12-08": 137409,
-  "2023-12-09": 137409,
-  "2023-12-10": 137409,
-  "2023-12-11": 137409,
-  "2023-12-12": 137409,
-  "2023-12-13": 137409,
-  "2023-12-14": 138994,
-  "2023-12-15": 139026,
-  "2023-12-16": 139067,
-  "2023-12-17": 139118,
-  "2023-12-18": 139173,
-  "2023-12-19": 139206,
-  "2023-12-20": 139245,
-  "2023-12-21": 139291,
-  "2023-12-22": 139350,
-  "2023-12-23": 139401,
-  "2023-12-24": 139454,
-  "2023-12-25": 139528,
-  "2023-12-26": 139595,
-  "2023-12-27": 139634,
-  "2023-12-30": 139766,
-  "2023-12-31": 139832,
-  "2024-01-01": 139898,
-  "2024-01-02": 139952,
-  "2024-01-03": 139970
+  "2024-01-17": 140041,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "name": "This Is Pancho Barraza",
+  "tracks": [
+    {
+      "album": {
+        "name": "Viva M\u00e9xico (En Vivo)",
+        "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254368,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/5ck9PhKtvFsuCN8zEAG4C4"
+    },
+    {
+      "album": {
+        "name": "Bendita Mujer",
+        "url": "https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "Adios Mi Vida",
+      "url": "https://open.spotify.com/track/6XwAxF4iekTzTgsyZA6mpa"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207934,
+      "name": "Al Final De Tu Camino",
+      "url": "https://open.spotify.com/track/7rVKFsz6ZjweGb6zFIRVs4"
+    },
+    {
+      "album": {
+        "name": "Al Sabor Del Champagne",
+        "url": "https://open.spotify.com/album/2Fg4m6JftW78wXMQ1bEaUG"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 172068,
+      "name": "Al Sabor Del Champagne",
+      "url": "https://open.spotify.com/track/31CBLt8Zkp2kEE6JX8aWx0"
+    },
+    {
+      "album": {
+        "name": "Pap\u00e1 Soltero",
+        "url": "https://open.spotify.com/album/4NKlh20RRbz0jXGOnFwMLP"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 255233,
+      "name": "Amor Que Mata",
+      "url": "https://open.spotify.com/track/7uJyOoVV7xBVUpx14QXRVu"
+    },
+    {
+      "album": {
+        "name": "Desde La Playa Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194875,
+      "name": "Andamos Borrachos Todos - En Vivo",
+      "url": "https://open.spotify.com/track/0OiBmdNifHrKDer8l1bUUJ"
+    },
+    {
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/61O9K0fxUAMCqIziOECeYp"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/5MY7W7y0XXZEV5DMRDXrPo"
+    },
+    {
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb"
+    },
+    {
+      "album": {
+        "name": "Con El Alma Marchita",
+        "url": "https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Con El Alma Marchita",
+      "url": "https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw"
+    },
+    {
+      "album": {
+        "name": "YakiFest, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 210000,
+      "name": "Cuando El Amor Se Acaba - En Vivo",
+      "url": "https://open.spotify.com/track/3UJ0tRfPzbphNOhNBqBn7a"
+    },
+    {
+      "album": {
+        "name": "En Vivo Palenque De Guadalajara",
+        "url": "https://open.spotify.com/album/6D5WggwYmVOJGqQpl57Tm2"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 315512,
+      "name": "Cuando Nadie Te Quiera - En Vivo",
+      "url": "https://open.spotify.com/track/0ActR7aXd8BMfMZ0zVPkRp"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185736,
+      "name": "De Frente Al Mar",
+      "url": "https://open.spotify.com/track/4GSIoYyjKvTU7NieBjI2Dp"
+    },
+    {
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 186038,
+      "name": "Dejate Querer",
+      "url": "https://open.spotify.com/track/32DvELW4Q2jkrEmPvuzeFz"
+    },
+    {
+      "album": {
+        "name": "Del Campo a la Ciudad",
+        "url": "https://open.spotify.com/album/1YVcOrdEEN3xZSSRMI5288"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227079,
+      "name": "Donde Andar\u00e1",
+      "url": "https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l"
+    },
+    {
+      "album": {
+        "name": "Dos Gotas De Agua",
+        "url": "https://open.spotify.com/album/7yEy8rEkjEDUjb8xUHLt59"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 178189,
+      "name": "Dos Gotas De Agua",
+      "url": "https://open.spotify.com/track/1pQFw81rRvhmkxkC9ntDeq"
+    },
+    {
+      "album": {
+        "name": "Desde La Playa Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 225104,
+      "name": "El Baleado - En Vivo",
+      "url": "https://open.spotify.com/track/4eAMrahsJUpJipw0mqJDtn"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "El Vagabundo Que Te Ama",
+      "url": "https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe"
+    },
+    {
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/4VKzrLSmmMEfzmwHW7QtfQ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 175588,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7LX4opeQXK9t3geiA5iCcp"
+    },
+    {
+      "album": {
+        "name": "Esta Va por Ti",
+        "url": "https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205111,
+      "name": "Esta Va por Ti",
+      "url": "https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ"
+    },
+    {
+      "album": {
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "album": {
+        "name": "Mis \u00cddolos, Hoy Mis Amigos!!!",
+        "url": "https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa"
+    },
+    {
+      "album": {
+        "name": "Hay Amores",
+        "url": "https://open.spotify.com/album/0IwsHryRrCHJlXK5L8hjft"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 195448,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/3Or8cDhc3YUL1N9pElO6zN"
+    },
+    {
+      "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/1rDuAQCkEgIQlI8c6MIN97"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 356293,
+      "name": "Hoy M\u00e1s Que Nunca",
+      "url": "https://open.spotify.com/track/5tzFhFJLFWuuLvlqgWi7uK"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174265,
+      "name": "Ignoraste Mis Lagrimas",
+      "url": "https://open.spotify.com/track/3uIpPg75d1L8uIKAQBBz9I"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241359,
+      "name": "Inventame Un Amor",
+      "url": "https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa"
+    },
+    {
+      "album": {
+        "name": "La Fuerza Del Amor",
+        "url": "https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 257213,
+      "name": "La Fuerza Del Amor",
+      "url": "https://open.spotify.com/track/7IYqBfbJyLX1e2MYf04ezI"
+    },
+    {
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 172895,
+      "name": "Las Llaves De Mi Alma",
+      "url": "https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V"
+    },
+    {
+      "album": {
+        "name": "Rancheras Con Banda Y Mariachi",
+        "url": "https://open.spotify.com/album/7MuIdXN7rXlX4qVgHjrT1Q"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200504,
+      "name": "Llorando Una Pena",
+      "url": "https://open.spotify.com/track/5CawfH4wFANfiOQU4wMW2S"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208399,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
+    },
+    {
+      "album": {
+        "name": "Luchar\u00e9 Por Ti",
+        "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Luchar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218360,
+      "name": "Me Haces Falta Pap\u00e1",
+      "url": "https://open.spotify.com/track/4pnJfqCFduVTCKveD7VCCq"
+    },
+    {
+      "album": {
+        "name": "Me Voy A Alejar",
+        "url": "https://open.spotify.com/album/38rMvKBQVe0yHY5iDGX35E"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199714,
+      "name": "Me Voy A Alejar",
+      "url": "https://open.spotify.com/track/1zdPjLtWjmwRKKCMAK3Dpj"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192992,
+      "name": "Mi Amor Sin Ella",
+      "url": "https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "Mi Amor Y Mi Agonia",
+      "url": "https://open.spotify.com/track/6GQkrXZHNg4EzgP0Q6exy3"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3gYgHcEBcuySZwZ2dcTPXV"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "album": {
+        "name": "Viva M\u00e9xico (En Vivo)",
+        "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 392672,
+      "name": "Mi Enemigo el Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2SssFfEcX8XyYjJmMdQXzT"
+    },
+    {
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/41biWbuI9FIa4Kk3d53q1Z"
+    },
+    {
+      "album": {
+        "name": "Cien Por Ciento",
+        "url": "https://open.spotify.com/album/4Wm2IxN5wuPAvBALzbF7Tt"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 189590,
+      "name": "Mira, Mira, Mirala",
+      "url": "https://open.spotify.com/track/4VwCdk0DCQD0rnOhAR9Vab"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170945,
+      "name": "Mis Canciones de Amor",
+      "url": "https://open.spotify.com/track/54c9K5pPOCH7vsd0SF9eoC"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "album": {
+        "name": "Viva M\u00e9xico (En Vivo)",
+        "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 200810,
+      "name": "Ni El Dinero Ni Nada - En Vivo",
+      "url": "https://open.spotify.com/track/0O6BWkzIBc6JdsAiNoJDoK"
+    },
+    {
+      "album": {
+        "name": "No Creo Merecerte",
+        "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 185853,
+      "name": "No Creo Merecerte",
+      "url": "https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3"
+    },
+    {
+      "album": {
+        "name": "No La Valore",
+        "url": "https://open.spotify.com/album/6sDAvAJMMTXwdmk2IKkxjc"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Mando Real",
+          "url": "https://open.spotify.com/artist/3gov5qdMWdsKd64zywvQcj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 205440,
+      "name": "No La Valore",
+      "url": "https://open.spotify.com/track/02oJHzicjj75CMLmfQZ4NB"
+    },
+    {
+      "album": {
+        "name": "Viva M\u00e9xico (En Vivo)",
+        "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272234,
+      "name": "No Llega el Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 251994,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
+    },
+    {
+      "album": {
+        "name": "No Va a Matarme Tu Amor",
+        "url": "https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "No Va a Matarme Tu Amor",
+      "url": "https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT"
+    },
+    {
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/2qbFmJ80D79YBITLEAgxlh"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 167369,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/5Z1KeebCVT8PsUrNhKfZtm"
+    },
+    {
+      "album": {
+        "name": "Hombre Enamorado",
+        "url": "https://open.spotify.com/album/5D77PYz1WHp9nna1DkA48I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211417,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/4gfCFNZiohK3xpwCQUUifT"
+    },
+    {
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157175,
+      "name": "Nunca Cambies",
+      "url": "https://open.spotify.com/track/2GV9Q5prIUhhIfnlQG0VzL"
+    },
+    {
+      "album": {
+        "name": "Oh Carol",
+        "url": "https://open.spotify.com/album/1qXOg0IGKb4tk2dUSuULWB"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Banda AT",
+          "url": "https://open.spotify.com/artist/3yNkh615RFz50gE4kRlXto"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 157808,
+      "name": "Oh Carol",
+      "url": "https://open.spotify.com/track/0oyTIk8169r7VcZJdcty20"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "Ojal\u00e1 Sea Cierto",
+      "url": "https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218012,
+      "name": "Pasion de Amor",
+      "url": "https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB"
+    },
+    {
+      "album": {
+        "name": "Pero La Recuerdo",
+        "url": "https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 242906,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR"
+    },
+    {
+      "album": {
+        "name": "Pero La Recuerdo",
+        "url": "https://open.spotify.com/album/4DyzbrPk5fhYt9vqzCSDWG"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "Pero La Recuerdo",
+      "url": "https://open.spotify.com/track/7l2k7zrU50Xhc6yIps4Brq"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227288,
+      "name": "Pero La Recuerdo (Cumbia Santa Maria)",
+      "url": "https://open.spotify.com/track/3Z0qp959lgropPTzCnMbkU"
+    },
+    {
+      "album": {
+        "name": "Poeta del Amor",
+        "url": "https://open.spotify.com/album/1igXDXmd3Z4qH4amNvkSyN"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 241514,
+      "name": "Poeta del Amor",
+      "url": "https://open.spotify.com/track/3us0Mk89vSIIWzuowa9ieK"
+    },
+    {
+      "album": {
+        "name": "Polvo Y Nada",
+        "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214505,
+      "name": "Polvo Y Nada",
+      "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
+    },
+    {
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 181765,
+      "name": "Por Una Sonrisa",
+      "url": "https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA"
+    },
+    {
+      "album": {
+        "name": "La Fuerza Del Amor",
+        "url": "https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 214320,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/4hHLcpYdCXA9nlnES0gkA4"
+    },
+    {
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 157431,
+      "name": "Que Te Paso",
+      "url": "https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 189451,
+      "name": "Quiero Dormir Contigo",
+      "url": "https://open.spotify.com/track/3RTUCcYjlntHPOFrA9pteD"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Te Amo y Te Lo Digo",
+      "url": "https://open.spotify.com/track/3oyseqmvN8v73vcp7z0yx8"
+    },
+    {
+      "album": {
+        "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
+    },
+    {
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/6Xes51EPRhxPClnSVFA9qq"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212044,
+      "name": "Te Esperare",
+      "url": "https://open.spotify.com/track/54tmAoMDUoz4a1WSZJEkhU"
+    },
+    {
+      "album": {
+        "name": "Mis 30 Aniversario, Vol. 1",
+        "url": "https://open.spotify.com/album/2yhPl0BDdZuzCtYkp25URQ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 160346,
+      "name": "Tu Abandono",
+      "url": "https://open.spotify.com/track/1V6KK9ACJVPkawtPILt4N6"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171049,
+      "name": "T\u00fa Me Dejaste",
+      "url": "https://open.spotify.com/track/3qnIp4WqxmHg0aTywpXElX"
+    },
+    {
+      "album": {
+        "name": "La Fuerza Del Amor",
+        "url": "https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 252693,
+      "name": "Un Hombre Diferente",
+      "url": "https://open.spotify.com/track/1x6hdO613h1Br7CYIxxFyU"
+    },
+    {
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/61O9K0fxUAMCqIziOECeYp"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 167299,
+      "name": "Un Indio Quiere Llorar",
+      "url": "https://open.spotify.com/track/53nzQq7wFXLx0xXEQf7jOy"
+    },
+    {
+      "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
+    },
+    {
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "album": {
+        "name": "Bendita Mujer",
+        "url": "https://open.spotify.com/album/5jzKBAq7ZRUCTCMGX6h5WV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/78DazlfpGkIVK2qLsgMemf"
+    },
+    {
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+    },
+    {
+      "album": {
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "album": {
+        "name": "Ya No Me Mires As\u00ed",
+        "url": "https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"
+    },
+    {
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n A Mi Esposa",
+        "url": "https://open.spotify.com/album/71tWoppXnMo6QppOCPnucN"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 170422,
+      "name": "Ya Para Que (Para Que)",
+      "url": "https://open.spotify.com/track/2PAo61DllW05LIFB5NPtCy"
+    },
+    {
+      "album": {
+        "name": "Aqui En El Rancho",
+        "url": "https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 200520,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6neA2wcgD9CrHwsvKhGpqH"
+    },
+    {
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU"
 }

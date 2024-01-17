@@ -1,375 +1,1287 @@
 {
-  "2022-12-24": 104664,
-  "2022-12-25": 104732,
-  "2022-12-26": 104798,
-  "2022-12-27": 104878,
-  "2022-12-28": 104989,
-  "2022-12-29": 105188,
-  "2022-12-30": 105366,
-  "2022-12-31": 105556,
-  "2023-01-01": 105717,
-  "2023-01-02": 105848,
-  "2023-01-03": 105977,
-  "2023-01-04": 106119,
-  "2023-01-05": 106252,
-  "2023-01-06": 106400,
-  "2023-01-07": 106648,
-  "2023-01-08": 106676,
-  "2023-01-09": 106841,
-  "2023-01-10": 106984,
-  "2023-01-11": 107113,
-  "2023-01-12": 107273,
-  "2023-01-13": 107438,
-  "2023-01-14": 107675,
-  "2023-01-15": 107715,
-  "2023-01-16": 107815,
-  "2023-01-17": 107961,
-  "2023-01-18": 108078,
-  "2023-01-19": 108201,
-  "2023-01-20": 108297,
-  "2023-01-21": 108435,
-  "2023-01-22": 108569,
-  "2023-01-23": 108651,
-  "2023-01-24": 108751,
-  "2023-01-25": 108846,
-  "2023-01-26": 108943,
-  "2023-01-27": 109089,
-  "2023-01-28": 109187,
-  "2023-01-29": 109282,
-  "2023-01-30": 109380,
-  "2023-01-31": 109380,
-  "2023-02-01": 109578,
-  "2023-02-02": 109656,
-  "2023-02-03": 109731,
-  "2023-02-04": 109807,
-  "2023-02-05": 109888,
-  "2023-02-06": 109988,
-  "2023-02-07": 110078,
-  "2023-02-08": 110250,
-  "2023-02-09": 110250,
-  "2023-02-10": 110333,
-  "2023-02-11": 110409,
-  "2023-02-12": 110593,
-  "2023-02-13": 110666,
-  "2023-02-14": 110666,
-  "2023-02-15": 110762,
-  "2023-02-16": 110838,
-  "2023-02-17": 110918,
-  "2023-02-18": 111072,
-  "2023-02-19": 111102,
-  "2023-02-20": 111171,
-  "2023-02-21": 111268,
-  "2023-02-22": 111353,
-  "2023-02-23": 111441,
-  "2023-02-24": 111537,
-  "2023-02-25": 111662,
-  "2023-02-26": 111715,
-  "2023-02-27": 111884,
-  "2023-02-28": 111884,
-  "2023-03-01": 111958,
-  "2023-03-02": 112035,
-  "2023-03-03": 112125,
-  "2023-03-04": 112204,
-  "2023-03-05": 112389,
-  "2023-03-06": 112389,
-  "2023-03-07": 112446,
-  "2023-03-08": 112531,
-  "2023-03-09": 112604,
-  "2023-03-10": 112675,
-  "2023-03-11": 112755,
-  "2023-03-12": 112839,
-  "2023-03-13": 112942,
-  "2023-03-14": 113026,
-  "2023-03-15": 113096,
-  "2023-03-16": 113181,
-  "2023-03-17": 113181,
-  "2023-03-18": 113323,
-  "2023-03-19": 113393,
-  "2023-03-20": 113451,
-  "2023-03-21": 113523,
-  "2023-03-22": 113596,
-  "2023-03-23": 113691,
-  "2023-03-24": 113691,
-  "2023-03-25": 113878,
-  "2023-03-26": 113986,
-  "2023-03-27": 114076,
-  "2023-03-28": 114159,
-  "2023-03-29": 114263,
-  "2023-03-30": 114425,
-  "2023-03-31": 114425,
-  "2023-04-01": 114530,
-  "2023-04-02": 114604,
-  "2023-04-03": 114685,
-  "2023-04-04": 114775,
-  "2023-04-05": 114854,
-  "2023-04-06": 114955,
-  "2023-04-07": 115025,
-  "2023-04-09": 115159,
-  "2023-04-10": 115232,
-  "2023-04-11": 115390,
-  "2023-04-12": 115390,
-  "2023-04-13": 115462,
-  "2023-04-14": 115526,
-  "2023-04-15": 115615,
-  "2023-04-16": 115698,
-  "2023-04-17": 115755,
-  "2023-04-18": 115841,
-  "2023-04-19": 115926,
-  "2023-04-20": 116005,
-  "2023-04-21": 116122,
-  "2023-04-22": 116189,
-  "2023-04-23": 116244,
-  "2023-04-24": 116328,
-  "2023-04-25": 116415,
-  "2023-04-26": 116503,
-  "2023-04-27": 116581,
-  "2023-04-28": 116658,
-  "2023-04-29": 116725,
-  "2023-04-30": 116787,
-  "2023-05-01": 116875,
-  "2023-05-02": 116959,
-  "2023-05-03": 117015,
-  "2023-05-04": 117080,
-  "2023-05-05": 117172,
-  "2023-05-06": 117261,
-  "2023-05-07": 117329,
-  "2023-05-08": 117431,
-  "2023-05-09": 117514,
-  "2023-05-10": 117586,
-  "2023-05-11": 117674,
-  "2023-05-12": 117753,
-  "2023-05-13": 117823,
-  "2023-05-14": 117899,
-  "2023-05-15": 117962,
-  "2023-05-16": 118046,
-  "2023-05-17": 118126,
-  "2023-05-18": 118214,
-  "2023-05-19": 118270,
-  "2023-05-20": 118427,
-  "2023-05-21": 118427,
-  "2023-05-22": 118427,
-  "2023-05-23": 118620,
-  "2023-05-24": 118756,
-  "2023-05-25": 118767,
-  "2023-05-26": 118824,
-  "2023-05-27": 118903,
-  "2023-05-28": 118967,
-  "2023-05-29": 118967,
-  "2023-05-30": 119087,
-  "2023-05-31": 119147,
-  "2023-06-01": 119218,
-  "2023-06-02": 119256,
-  "2023-06-03": 119330,
-  "2023-06-04": 119405,
-  "2023-06-05": 119471,
-  "2023-06-06": 119532,
-  "2023-06-07": 119598,
-  "2023-06-08": 119660,
-  "2023-06-09": 119740,
-  "2023-06-10": 119820,
-  "2023-06-11": 119889,
-  "2023-06-12": 119973,
-  "2023-06-13": 120057,
-  "2023-06-14": 120117,
-  "2023-06-15": 120189,
-  "2023-06-16": 120242,
-  "2023-06-17": 120314,
-  "2023-06-18": 120428,
-  "2023-06-19": 120513,
-  "2023-06-20": 120603,
-  "2023-06-21": 120660,
-  "2023-06-22": 120754,
-  "2023-06-23": 120844,
-  "2023-06-24": 120926,
-  "2023-06-25": 121015,
-  "2023-06-26": 121113,
-  "2023-06-27": 121184,
-  "2023-06-28": 121270,
-  "2023-06-29": 121341,
-  "2023-06-30": 121421,
-  "2023-07-01": 121549,
-  "2023-07-02": 121549,
-  "2023-07-03": 121609,
-  "2023-07-04": 121678,
-  "2023-07-05": 121738,
-  "2023-07-06": 121879,
-  "2023-07-07": 121879,
-  "2023-07-08": 121955,
-  "2023-07-09": 122020,
-  "2023-07-10": 122645,
-  "2023-07-11": 122777,
-  "2023-07-12": 122832,
-  "2023-07-13": 122934,
-  "2023-07-14": 123002,
-  "2023-07-15": 123066,
-  "2023-07-16": 123141,
-  "2023-07-17": 123216,
-  "2023-07-18": 123318,
-  "2023-07-19": 123430,
-  "2023-07-20": 123488,
-  "2023-07-21": 123580,
-  "2023-07-22": 123637,
-  "2023-07-23": 123732,
-  "2023-07-24": 123801,
-  "2023-07-25": 123872,
-  "2023-07-26": 123927,
-  "2023-07-27": 124014,
-  "2023-07-28": 124073,
-  "2023-07-29": 124127,
-  "2023-07-30": 124218,
-  "2023-07-31": 124289,
-  "2023-08-01": 124370,
-  "2023-08-02": 124467,
-  "2023-08-03": 124545,
-  "2023-08-04": 124606,
-  "2023-08-05": 124672,
-  "2023-08-06": 124796,
-  "2023-08-07": 124796,
-  "2023-08-08": 124856,
-  "2023-08-09": 124913,
-  "2023-08-10": 124976,
-  "2023-08-11": 125038,
-  "2023-08-12": 125155,
-  "2023-08-13": 125214,
-  "2023-08-14": 125271,
-  "2023-08-15": 125444,
-  "2023-08-16": 125444,
-  "2023-08-17": 125511,
-  "2023-08-18": 125587,
-  "2023-08-19": 125729,
-  "2023-08-20": 125824,
-  "2023-08-21": 125920,
-  "2023-08-22": 125997,
-  "2023-08-23": 126075,
-  "2023-08-24": 126141,
-  "2023-08-25": 126216,
-  "2023-08-26": 126270,
-  "2023-08-27": 126314,
-  "2023-08-28": 126394,
-  "2023-08-29": 126481,
-  "2023-08-30": 126556,
-  "2023-08-31": 126627,
-  "2023-09-01": 126826,
-  "2023-09-02": 126826,
-  "2023-09-03": 126901,
-  "2023-09-04": 127028,
-  "2023-09-05": 127116,
-  "2023-09-06": 127227,
-  "2023-09-07": 127341,
-  "2023-09-08": 127450,
-  "2023-09-09": 127545,
-  "2023-09-10": 127651,
-  "2023-09-11": 127739,
-  "2023-09-12": 127850,
-  "2023-09-13": 127940,
-  "2023-09-14": 128034,
-  "2023-09-15": 128130,
-  "2023-09-16": 128223,
-  "2023-09-17": 128311,
-  "2023-09-18": 128404,
-  "2023-09-19": 128517,
-  "2023-09-20": 128598,
-  "2023-09-21": 128691,
-  "2023-09-22": 128769,
-  "2023-09-23": 128879,
-  "2023-09-24": 128997,
-  "2023-09-25": 129094,
-  "2023-09-26": 129223,
-  "2023-09-27": 129295,
-  "2023-09-28": 129396,
-  "2023-09-29": 129508,
-  "2023-09-30": 129601,
-  "2023-10-01": 129699,
-  "2023-10-02": 129843,
-  "2023-10-03": 129948,
-  "2023-10-04": 130059,
-  "2023-10-05": 130157,
-  "2023-10-06": 130255,
-  "2023-10-07": 130366,
-  "2023-10-08": 130482,
-  "2023-10-09": 130589,
-  "2023-10-10": 130679,
-  "2023-10-11": 130893,
-  "2023-10-12": 130893,
-  "2023-10-13": 130989,
-  "2023-10-14": 131068,
-  "2023-10-15": 131143,
-  "2023-10-16": 131216,
-  "2023-10-17": 131299,
-  "2023-10-18": 131375,
-  "2023-10-19": 131460,
-  "2023-10-20": 131516,
-  "2023-10-21": 131606,
-  "2023-10-22": 131655,
-  "2023-10-23": 131746,
-  "2023-10-24": 131821,
-  "2023-10-25": 131888,
-  "2023-10-26": 131954,
-  "2023-10-27": 132027,
-  "2023-10-28": 132121,
-  "2023-10-29": 132182,
-  "2023-10-30": 132342,
-  "2023-10-31": 132342,
-  "2023-11-01": 132405,
-  "2023-11-02": 132472,
-  "2023-11-03": 132536,
-  "2023-11-04": 132598,
-  "2023-11-05": 132665,
-  "2023-11-06": 132731,
-  "2023-11-07": 132792,
-  "2023-11-08": 132857,
-  "2023-11-09": 132934,
-  "2023-11-10": 132997,
-  "2023-11-11": 133068,
-  "2023-11-12": 133123,
-  "2023-11-13": 133193,
-  "2023-11-14": 133264,
-  "2023-11-15": 133264,
-  "2023-11-16": 133373,
-  "2023-11-17": 133482,
-  "2023-11-18": 133482,
-  "2023-11-19": 133528,
-  "2023-11-20": 133589,
-  "2023-11-21": 133638,
-  "2023-11-22": 133701,
-  "2023-11-23": 133760,
-  "2023-11-24": 133848,
-  "2023-11-25": 133925,
-  "2023-11-26": 133973,
-  "2023-11-27": 134091,
-  "2023-11-28": 134202,
-  "2023-11-29": 134424,
-  "2023-11-30": 134424,
-  "2023-12-01": 134753,
-  "2023-12-02": 134919,
-  "2023-12-03": 135114,
-  "2023-12-04": 135198,
-  "2023-12-05": 135296,
-  "2023-12-06": 135371,
-  "2023-12-07": 135446,
-  "2023-12-08": 135508,
-  "2023-12-09": 135556,
-  "2023-12-10": 135607,
-  "2023-12-11": 135670,
-  "2023-12-12": 135727,
-  "2023-12-13": 135784,
-  "2023-12-14": 135823,
-  "2023-12-15": 135852,
-  "2023-12-16": 135875,
-  "2023-12-17": 135902,
-  "2023-12-18": 135929,
-  "2023-12-19": 135946,
-  "2023-12-20": 135965,
-  "2023-12-21": 136013,
-  "2023-12-22": 136044,
-  "2023-12-23": 136064,
-  "2023-12-24": 136106,
-  "2023-12-25": 136175,
-  "2023-12-26": 136230,
-  "2023-12-27": 136280,
-  "2023-12-30": 136463,
-  "2023-12-31": 136521,
-  "2024-01-01": 136544,
-  "2024-01-02": 136576,
-  "2024-01-03": 136608
+  "2024-01-17": 137063,
+  "date_first_scraped": "2022-12-24",
+  "description": "\u30cd\u30c3\u30c8\u767a\u306e\u65b0\u305f\u306a\u624d\u80fd\u3068\u3057\u3066\u6ce8\u76ee\u3092\u96c6\u3081\u308b\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001Eve\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Essential tracks from Japanese singer-songwriter, Eve.",
+  "name": "This Is Eve",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258685,
+      "name": "Aisai",
+      "url": "https://open.spotify.com/track/44z0ijVFwQhEKgvUwQtj6t"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221867,
+      "name": "Ambivalent",
+      "url": "https://open.spotify.com/track/0lKhq1jbS0C1SGM7XRvbva"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Anoko secret",
+      "url": "https://open.spotify.com/track/67gYAheGPb06KwCkuAaHbF"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277337,
+      "name": "Ao No Waltz",
+      "url": "https://open.spotify.com/track/1AfFUID69eG8hOkkc3asNM"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244981,
+      "name": "Asa Ga Furu",
+      "url": "https://open.spotify.com/track/3BDZyESMdsPvAdSfdTBmAv"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204086,
+      "name": "Avant",
+      "url": "https://open.spotify.com/track/4tscsbUMuX7EUZE2m97C6d"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209901,
+      "name": "Baumkuchen End",
+      "url": "https://open.spotify.com/track/0IdFvNmljpZ2xCN58GHLwH"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284338,
+      "name": "Bokuramadaunderground",
+      "url": "https://open.spotify.com/track/0baarNEChTM8MVb77ygFlT"
+    },
+    {
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
+    },
+    {
+      "album": {
+        "name": "Boukenroku",
+        "url": "https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227323,
+      "name": "Boukenroku",
+      "url": "https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225178,
+      "name": "Bouto",
+      "url": "https://open.spotify.com/track/1DqAeuDzc5uUQeAggxmZk5"
+    },
+    {
+      "album": {
+        "name": "Bubble (feat. Uta)",
+        "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Uta",
+          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Bubble (feat. Uta)",
+      "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244376,
+      "name": "Byouka",
+      "url": "https://open.spotify.com/track/4p6uyqSCeH1rawrEVn07JT"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201097,
+      "name": "Chocolate town",
+      "url": "https://open.spotify.com/track/4iCeWE5MkIHt9xrgl9YVSa"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240319,
+      "name": "Demon dance tokyo",
+      "url": "https://open.spotify.com/track/1rozSWFaumcSqLVFHd0nB5"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197029,
+      "name": "Doshiyomonaikuraini kimigasuki",
+      "url": "https://open.spotify.com/track/1hqe6NBh1h7jbwwyXl5mzU"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233601,
+      "name": "Dr.",
+      "url": "https://open.spotify.com/track/5tSvyb7RMd24kLEpVw57yQ"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238181,
+      "name": "Dramaturgy",
+      "url": "https://open.spotify.com/track/72uSoNIf7eScfGZFQjNHrR"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219524,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/3rxvZZmcbp4KtMxhxydRaQ"
+    },
+    {
+      "album": {
+        "name": "FightSong",
+        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208964,
+      "name": "FightSong",
+      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235387,
+      "name": "Furiwoshita",
+      "url": "https://open.spotify.com/track/4hGG4KDQmxMnKjUc9Fi5KL"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Fuyukan",
+      "url": "https://open.spotify.com/track/2QerQi2fdfatbYKX2MJWx5"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276614,
+      "name": "Gunjo Sanka",
+      "url": "https://open.spotify.com/track/5rq7yhcpsofB04NgTqlY8r"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245022,
+      "name": "Hakugin",
+      "url": "https://open.spotify.com/track/3cwykuEbMGkt1iza7QOb2p"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269149,
+      "name": "Hakushi no haru",
+      "url": "https://open.spotify.com/track/2qtCthv8huqIS2Wg5CsWBT"
+    },
+    {
+      "album": {
+        "name": "Hanaarashi",
+        "url": "https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223600,
+      "name": "Hanaarashi",
+      "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279054,
+      "name": "Heikousen",
+      "url": "https://open.spotify.com/track/5hdYHlf3e2x2XtWI8gr9mB"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291322,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1MafB8R0qpi0qALqFOqQxO"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224218,
+      "name": "Inochi No Tabekata",
+      "url": "https://open.spotify.com/track/0maSUktGFelOHPjTP8c1Kd"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276387,
+      "name": "Kaishingeki",
+      "url": "https://open.spotify.com/track/0m7tpV83VZcbKbYQGBFFSt"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58826,
+      "name": "Kaizin",
+      "url": "https://open.spotify.com/track/7DIJPVGJuPBjWTvj4Pwuom"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229249,
+      "name": "Kara No Kioku",
+      "url": "https://open.spotify.com/track/3kHIqWVLgUi9eqiqrD4Q91"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235175,
+      "name": "Kiminisekai",
+      "url": "https://open.spotify.com/track/3urEGiZYgpZlFxSkffWPOo"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199995,
+      "name": "Kokoroyohou",
+      "url": "https://open.spotify.com/track/1pjXUZFaDSgf9wV1X76aXw"
+    },
+    {
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235797,
+      "name": "Kororon",
+      "url": "https://open.spotify.com/track/7fKFmrw1RSwU5a9vCwk155"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282172,
+      "name": "Kotonoha",
+      "url": "https://open.spotify.com/track/1ZSznxT0bJLPGbWTzzLGLz"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240496,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/1GsAU0aPUjNcYDbZErzVmI"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+",
+        "url": "https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP"
+      },
+      "artists": [
+        {
+          "name": "Liner Voice+",
+          "url": "https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4733062,
+      "name": "Liner Voice+ Eve \u300c\u5efb\u4eba\u300d",
+      "url": "https://open.spotify.com/episode/0q7eP2rIrff1NGcyg6NbLC"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286865,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188001,
+      "name": "Myojo Galactica",
+      "url": "https://open.spotify.com/track/5GJP8H6Qe9K0EN8U6jp5cl"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205331,
+      "name": "Nonsence philosophy",
+      "url": "https://open.spotify.com/track/2KqTXUP2FyUQ8MXDYKtjZ9"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203761,
+      "name": "Nonsense Bungaku",
+      "url": "https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn"
+    },
+    {
+      "album": {
+        "name": "Bunka",
+        "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246713,
+      "name": "Okinimesumama",
+      "url": "https://open.spotify.com/track/4ly9rdCe3PvcYZdAN72T3b"
+    },
+    {
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206036,
+      "name": "Ougon No Hibi",
+      "url": "https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/316BhPQ7kG9yPqZeLPTanl"
+    },
+    {
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221310,
+      "name": "Rabbit gray",
+      "url": "https://open.spotify.com/track/5FS79PQGFG4MGqsi0UIA5J"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266308,
+      "name": "Shinkai",
+      "url": "https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a"
+    },
+    {
+      "album": {
+        "name": "Shirayuki",
+        "url": "https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221643,
+      "name": "Shirayuki",
+      "url": "https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247326,
+      "name": "sister - Re arrange ver",
+      "url": "https://open.spotify.com/track/5DjszFQHnH2MtZLrOduvQy"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228728,
+      "name": "Taikutsuwo Saienshinaide",
+      "url": "https://open.spotify.com/track/0Ca4nK97pypPdmpZcUeGZb"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240323,
+      "name": "Tokyo Ghetto",
+      "url": "https://open.spotify.com/track/4iiImoJUNnE4MpH3r1l5P4"
+    },
+    {
+      "album": {
+        "name": "Touhikou",
+        "url": "https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176312,
+      "name": "Touhikou",
+      "url": "https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL NUMBER",
+        "url": "https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207504,
+      "name": "Wakusei loop",
+      "url": "https://open.spotify.com/track/08oABwy91rrSwXd5I36QdE"
+    },
+    {
+      "album": {
+        "name": "Otogi",
+        "url": "https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230211,
+      "name": "Yadorigi",
+      "url": "https://open.spotify.com/track/1PrTeEDCnjZdlfQFl97rkp"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Yakusoku",
+      "url": "https://open.spotify.com/track/64LPuxHb07MU9Pqmkd4knj"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256528,
+      "name": "Yoino Myojo",
+      "url": "https://open.spotify.com/track/3tFq9arkcubkFhDswd43nw"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168209,
+      "name": "Yoku",
+      "url": "https://open.spotify.com/track/0ac12GgX8LZK0VNC4N91o2"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193921,
+      "name": "Yoruwahonoka",
+      "url": "https://open.spotify.com/track/4yfJpqnjxWd7iHFyYUVC26"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196008,
+      "name": "Yuseiboushi",
+      "url": "https://open.spotify.com/track/5QkNlpfeEmsZYbtCqHdPDl"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30d9\u30b9\u30c8\u301c\u77e5\u3089\u306a\u3044\u306e\uff1f\u5df7\u3067\u5642\u306e\u30c0\u30e1\u5929\u4f7f\u301c",
+        "url": "https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC"
+      },
+      "artists": [
+        {
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30d8\u30f4\u30f3",
+      "url": "https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30fc\u30be\u30f3\u30c7\u30fc\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222489,
+      "name": "\u30ec\u30fc\u30be\u30f3\u30c7\u30fc\u30c8\u30eb",
+      "url": "https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs"
+    },
+    {
+      "album": {
+        "name": "\u5192\u967a\u9332",
+        "url": "https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 227323,
+      "name": "\u5192\u967a\u9332",
+      "url": "https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2"
+    },
+    {
+      "album": {
+        "name": "\u307c\u304f\u3089\u306e",
+        "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 235797,
+      "name": "\u864e\u72fc\u6765",
+      "url": "https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ"
+    },
+    {
+      "album": {
+        "name": "\u9003\u907f\u884c",
+        "url": "https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 176312,
+      "name": "\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5"
+    },
+    {
+      "album": {
+        "name": "\u95c7\u591c",
+        "url": "https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229394,
+      "name": "\u95c7\u591c",
+      "url": "https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL"
+    },
+    {
+      "album": {
+        "name": "\u307c\u304f\u3089\u306e",
+        "url": "https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 206036,
+      "name": "\u9ec4\u91d1\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2EwG4p1ArpU"
 }

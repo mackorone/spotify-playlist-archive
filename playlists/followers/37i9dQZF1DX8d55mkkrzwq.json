@@ -1,621 +1,1049 @@
 {
-  "2022-04-19": 677,
-  "2022-04-20": 678,
-  "2022-04-21": 678,
-  "2022-04-22": 679,
-  "2022-04-23": 682,
-  "2022-04-24": 685,
-  "2022-04-25": 686,
-  "2022-04-26": 690,
-  "2022-04-27": 691,
-  "2022-04-28": 692,
-  "2022-04-29": 695,
-  "2022-04-30": 700,
-  "2022-05-01": 701,
-  "2022-05-02": 701,
-  "2022-05-03": 705,
-  "2022-05-04": 707,
-  "2022-05-05": 706,
-  "2022-05-06": 707,
-  "2022-05-07": 709,
-  "2022-05-08": 709,
-  "2022-05-09": 709,
-  "2022-05-10": 709,
-  "2022-05-11": 710,
-  "2022-05-12": 710,
-  "2022-05-13": 710,
-  "2022-05-14": 711,
-  "2022-05-15": 712,
-  "2022-05-16": 715,
-  "2022-05-17": 719,
-  "2022-05-18": 721,
-  "2022-05-19": 723,
-  "2022-05-20": 723,
-  "2022-05-21": 724,
-  "2022-05-22": 724,
-  "2022-05-23": 725,
-  "2022-05-24": 725,
-  "2022-05-25": 726,
-  "2022-05-26": 726,
-  "2022-05-27": 727,
-  "2022-05-28": 729,
-  "2022-05-29": 732,
-  "2022-05-30": 732,
-  "2022-05-31": 733,
-  "2022-06-01": 735,
-  "2022-06-02": 736,
-  "2022-06-03": 738,
-  "2022-06-04": 739,
-  "2022-06-05": 738,
-  "2022-06-06": 740,
-  "2022-06-07": 742,
-  "2022-06-08": 742,
-  "2022-06-09": 743,
-  "2022-06-10": 745,
-  "2022-06-11": 744,
-  "2022-06-12": 744,
-  "2022-06-13": 745,
-  "2022-06-14": 745,
-  "2022-06-15": 745,
-  "2022-06-16": 746,
-  "2022-06-17": 749,
-  "2022-06-18": 749,
-  "2022-06-19": 753,
-  "2022-06-20": 753,
-  "2022-06-21": 752,
-  "2022-06-22": 753,
-  "2022-06-23": 753,
-  "2022-06-24": 754,
-  "2022-06-25": 755,
-  "2022-06-26": 756,
-  "2022-06-27": 757,
-  "2022-06-28": 758,
-  "2022-06-29": 758,
-  "2022-06-30": 759,
-  "2022-07-01": 760,
-  "2022-07-02": 760,
-  "2022-07-03": 761,
-  "2022-07-04": 761,
-  "2022-07-05": 762,
-  "2022-07-06": 763,
-  "2022-07-07": 762,
-  "2022-07-08": 762,
-  "2022-07-09": 761,
-  "2022-07-10": 763,
-  "2022-07-11": 762,
-  "2022-07-12": 763,
-  "2022-07-13": 764,
-  "2022-07-14": 765,
-  "2022-07-15": 765,
-  "2022-07-16": 768,
-  "2022-07-17": 768,
-  "2022-07-18": 769,
-  "2022-07-19": 769,
-  "2022-07-20": 770,
-  "2022-07-21": 771,
-  "2022-07-22": 772,
-  "2022-07-23": 773,
-  "2022-07-24": 773,
-  "2022-07-25": 774,
-  "2022-07-26": 775,
-  "2022-07-27": 775,
-  "2022-07-28": 775,
-  "2022-07-29": 776,
-  "2022-07-30": 782,
-  "2022-07-31": 782,
-  "2022-08-01": 782,
-  "2022-08-02": 783,
-  "2022-08-03": 783,
-  "2022-08-04": 783,
-  "2022-08-05": 783,
-  "2022-08-06": 783,
-  "2022-08-07": 784,
-  "2022-08-08": 785,
-  "2022-08-09": 786,
-  "2022-08-10": 786,
-  "2022-08-11": 786,
-  "2022-08-12": 788,
-  "2022-08-13": 788,
-  "2022-08-14": 788,
-  "2022-08-15": 794,
-  "2022-08-16": 795,
-  "2022-08-17": 795,
-  "2022-08-18": 796,
-  "2022-08-19": 796,
-  "2022-08-20": 795,
-  "2022-08-21": 795,
-  "2022-08-22": 796,
-  "2022-08-23": 797,
-  "2022-08-24": 798,
-  "2022-08-25": 798,
-  "2022-08-26": 798,
-  "2022-08-27": 798,
-  "2022-08-28": 798,
-  "2022-08-29": 799,
-  "2022-08-30": 801,
-  "2022-08-31": 802,
-  "2022-09-01": 802,
-  "2022-09-02": 802,
-  "2022-09-03": 802,
-  "2022-09-04": 803,
-  "2022-09-05": 803,
-  "2022-09-06": 804,
-  "2022-09-07": 805,
-  "2022-09-09": 805,
-  "2022-09-10": 805,
-  "2022-09-11": 807,
-  "2022-09-12": 809,
-  "2022-09-13": 809,
-  "2022-09-15": 811,
-  "2022-09-16": 811,
-  "2022-09-17": 815,
-  "2022-09-18": 814,
-  "2022-09-19": 814,
-  "2022-09-20": 814,
-  "2022-09-21": 814,
-  "2022-09-22": 815,
-  "2022-09-23": 815,
-  "2022-09-24": 815,
-  "2022-09-25": 819,
-  "2022-09-26": 820,
-  "2022-09-27": 822,
-  "2022-09-28": 823,
-  "2022-09-29": 823,
-  "2022-09-30": 825,
-  "2022-10-01": 826,
-  "2022-10-02": 825,
-  "2022-10-03": 826,
-  "2022-10-04": 828,
-  "2022-10-05": 827,
-  "2022-10-06": 830,
-  "2022-10-07": 830,
-  "2022-10-08": 832,
-  "2022-10-09": 835,
-  "2022-10-10": 835,
-  "2022-10-11": 836,
-  "2022-10-12": 839,
-  "2022-10-13": 839,
-  "2022-10-14": 840,
-  "2022-10-15": 840,
-  "2022-10-16": 841,
-  "2022-10-17": 842,
-  "2022-10-18": 844,
-  "2022-10-19": 844,
-  "2022-10-20": 847,
-  "2022-10-21": 847,
-  "2022-10-22": 848,
-  "2022-10-23": 849,
-  "2022-10-24": 848,
-  "2022-10-25": 850,
-  "2022-10-26": 852,
-  "2022-10-27": 853,
-  "2022-10-28": 855,
-  "2022-10-29": 858,
-  "2022-10-30": 860,
-  "2022-10-31": 860,
-  "2022-11-01": 863,
-  "2022-11-02": 864,
-  "2022-11-03": 867,
-  "2022-11-04": 871,
-  "2022-11-05": 876,
-  "2022-11-06": 876,
-  "2022-11-07": 878,
-  "2022-11-08": 879,
-  "2022-11-09": 880,
-  "2022-11-10": 883,
-  "2022-11-11": 883,
-  "2022-11-12": 886,
-  "2022-11-13": 887,
-  "2022-11-14": 889,
-  "2022-11-15": 889,
-  "2022-11-16": 890,
-  "2022-11-17": 889,
-  "2022-11-18": 889,
-  "2022-11-19": 890,
-  "2022-11-20": 891,
-  "2022-11-21": 891,
-  "2022-11-22": 892,
-  "2022-11-23": 900,
-  "2022-11-24": 897,
-  "2022-11-25": 900,
-  "2022-11-26": 900,
-  "2022-11-27": 903,
-  "2022-11-28": 903,
-  "2022-11-29": 905,
-  "2022-11-30": 907,
-  "2022-12-01": 908,
-  "2022-12-02": 908,
-  "2022-12-03": 908,
-  "2022-12-04": 910,
-  "2022-12-05": 911,
-  "2022-12-06": 911,
-  "2022-12-07": 912,
-  "2022-12-08": 912,
-  "2022-12-09": 913,
-  "2022-12-10": 913,
-  "2022-12-11": 913,
-  "2022-12-12": 913,
-  "2022-12-13": 915,
-  "2022-12-14": 915,
-  "2022-12-15": 915,
-  "2022-12-16": 916,
-  "2022-12-17": 918,
-  "2022-12-18": 920,
-  "2022-12-19": 921,
-  "2022-12-20": 925,
-  "2022-12-21": 925,
-  "2022-12-22": 924,
-  "2022-12-24": 926,
-  "2022-12-25": 926,
-  "2022-12-26": 929,
-  "2022-12-27": 930,
-  "2022-12-28": 929,
-  "2022-12-29": 931,
-  "2022-12-30": 932,
-  "2022-12-31": 932,
-  "2023-01-01": 937,
-  "2023-01-02": 938,
-  "2023-01-03": 937,
-  "2023-01-04": 941,
-  "2023-01-05": 944,
-  "2023-01-06": 947,
-  "2023-01-07": 947,
-  "2023-01-08": 949,
-  "2023-01-09": 949,
-  "2023-01-10": 950,
-  "2023-01-11": 952,
-  "2023-01-12": 952,
-  "2023-01-13": 953,
-  "2023-01-14": 956,
-  "2023-01-15": 956,
-  "2023-01-16": 955,
-  "2023-01-17": 957,
-  "2023-01-18": 960,
-  "2023-01-19": 961,
-  "2023-01-20": 961,
-  "2023-01-21": 962,
-  "2023-01-22": 965,
-  "2023-01-23": 966,
-  "2023-01-24": 966,
-  "2023-01-25": 968,
-  "2023-01-26": 970,
-  "2023-01-27": 971,
-  "2023-01-28": 973,
-  "2023-01-29": 977,
-  "2023-01-30": 979,
-  "2023-01-31": 979,
-  "2023-02-01": 981,
-  "2023-02-02": 981,
-  "2023-02-03": 983,
-  "2023-02-04": 986,
-  "2023-02-05": 986,
-  "2023-02-06": 987,
-  "2023-02-07": 989,
-  "2023-02-08": 995,
-  "2023-02-09": 995,
-  "2023-02-10": 998,
-  "2023-02-11": 1000,
-  "2023-02-12": 1001,
-  "2023-02-13": 1004,
-  "2023-02-14": 1004,
-  "2023-02-15": 1005,
-  "2023-02-16": 1006,
-  "2023-02-17": 1006,
-  "2023-02-18": 1009,
-  "2023-02-19": 1009,
-  "2023-02-20": 1011,
-  "2023-02-21": 1011,
-  "2023-02-22": 1012,
-  "2023-02-23": 1012,
-  "2023-02-24": 1012,
-  "2023-02-25": 1015,
-  "2023-02-26": 1016,
-  "2023-02-27": 1017,
-  "2023-02-28": 1017,
-  "2023-03-01": 1017,
-  "2023-03-02": 1017,
-  "2023-03-03": 1017,
-  "2023-03-04": 1017,
-  "2023-03-05": 1017,
-  "2023-03-06": 1017,
-  "2023-03-07": 1017,
-  "2023-03-08": 1018,
-  "2023-03-09": 1017,
-  "2023-03-10": 1018,
-  "2023-03-11": 1019,
-  "2023-03-12": 1019,
-  "2023-03-13": 1017,
-  "2023-03-14": 1017,
-  "2023-03-15": 1017,
-  "2023-03-16": 1017,
-  "2023-03-17": 1017,
-  "2023-03-18": 1019,
-  "2023-03-19": 1020,
-  "2023-03-20": 1020,
-  "2023-03-21": 1021,
-  "2023-03-22": 1021,
-  "2023-03-23": 1021,
-  "2023-03-24": 1021,
-  "2023-03-25": 1021,
-  "2023-03-26": 1021,
-  "2023-03-27": 1021,
-  "2023-03-28": 1022,
-  "2023-03-29": 1022,
-  "2023-03-30": 1022,
-  "2023-03-31": 1022,
-  "2023-04-01": 1022,
-  "2023-04-02": 1022,
-  "2023-04-03": 1024,
-  "2023-04-04": 1025,
-  "2023-04-05": 1025,
-  "2023-04-06": 1025,
-  "2023-04-07": 1025,
-  "2023-04-09": 1027,
-  "2023-04-10": 1028,
-  "2023-04-11": 1030,
-  "2023-04-12": 1030,
-  "2023-04-13": 1030,
-  "2023-04-14": 1030,
-  "2023-04-15": 1030,
-  "2023-04-16": 1030,
-  "2023-04-17": 1030,
-  "2023-04-18": 1031,
-  "2023-04-19": 1031,
-  "2023-04-20": 1030,
-  "2023-04-21": 1030,
-  "2023-04-22": 1030,
-  "2023-04-23": 1030,
-  "2023-04-24": 1030,
-  "2023-04-25": 1030,
-  "2023-04-26": 1030,
-  "2023-04-27": 1031,
-  "2023-04-28": 1031,
-  "2023-04-29": 1032,
-  "2023-04-30": 1033,
-  "2023-05-01": 1033,
-  "2023-05-02": 1033,
-  "2023-05-03": 1033,
-  "2023-05-04": 1033,
-  "2023-05-05": 1033,
-  "2023-05-06": 1033,
-  "2023-05-07": 1033,
-  "2023-05-08": 1034,
-  "2023-05-09": 1034,
-  "2023-05-10": 1034,
-  "2023-05-11": 1035,
-  "2023-05-12": 1037,
-  "2023-05-13": 1038,
-  "2023-05-14": 1039,
-  "2023-05-15": 1038,
-  "2023-05-16": 1039,
-  "2023-05-17": 1038,
-  "2023-05-18": 1038,
-  "2023-05-19": 1038,
-  "2023-05-20": 1038,
-  "2023-05-21": 1038,
-  "2023-05-22": 1038,
-  "2023-05-23": 1038,
-  "2023-05-24": 1038,
-  "2023-05-25": 1038,
-  "2023-05-26": 1038,
-  "2023-05-27": 1038,
-  "2023-05-28": 1038,
-  "2023-05-29": 1038,
-  "2023-05-30": 1038,
-  "2023-05-31": 1038,
-  "2023-06-01": 1037,
-  "2023-06-02": 1037,
-  "2023-06-03": 1037,
-  "2023-06-04": 1037,
-  "2023-06-05": 1037,
-  "2023-06-06": 1038,
-  "2023-06-07": 1039,
-  "2023-06-08": 1038,
-  "2023-06-09": 1038,
-  "2023-06-10": 1038,
-  "2023-06-11": 1038,
-  "2023-06-12": 1039,
-  "2023-06-13": 1039,
-  "2023-06-14": 1040,
-  "2023-06-15": 1040,
-  "2023-06-16": 1038,
-  "2023-06-17": 1038,
-  "2023-06-18": 1039,
-  "2023-06-19": 1040,
-  "2023-06-20": 1040,
-  "2023-06-21": 1039,
-  "2023-06-22": 1038,
-  "2023-06-23": 1038,
-  "2023-06-24": 1038,
-  "2023-06-25": 1038,
-  "2023-06-26": 1038,
-  "2023-06-27": 1042,
-  "2023-06-28": 1042,
-  "2023-06-29": 1042,
-  "2023-06-30": 1041,
-  "2023-07-01": 1042,
-  "2023-07-02": 1042,
-  "2023-07-03": 1042,
-  "2023-07-04": 1041,
-  "2023-07-05": 1041,
-  "2023-07-06": 1042,
-  "2023-07-07": 1042,
-  "2023-07-08": 1042,
-  "2023-07-09": 1044,
-  "2023-07-10": 1044,
-  "2023-07-11": 1044,
-  "2023-07-12": 1045,
-  "2023-07-13": 1044,
-  "2023-07-14": 1044,
-  "2023-07-15": 1044,
-  "2023-07-16": 1045,
-  "2023-07-17": 1046,
-  "2023-07-18": 1046,
-  "2023-07-19": 1045,
-  "2023-07-20": 1045,
-  "2023-07-21": 1045,
-  "2023-07-22": 1046,
-  "2023-07-23": 1046,
-  "2023-07-24": 1047,
-  "2023-07-25": 1047,
-  "2023-07-26": 1047,
-  "2023-07-27": 1049,
-  "2023-07-28": 1051,
-  "2023-07-29": 1051,
-  "2023-07-30": 1053,
-  "2023-07-31": 1053,
-  "2023-08-01": 1053,
-  "2023-08-02": 1052,
-  "2023-08-03": 1053,
-  "2023-08-04": 1054,
-  "2023-08-05": 1054,
-  "2023-08-06": 1055,
-  "2023-08-07": 1055,
-  "2023-08-08": 1055,
-  "2023-08-09": 1055,
-  "2023-08-10": 1055,
-  "2023-08-11": 1056,
-  "2023-08-12": 1055,
-  "2023-08-13": 1055,
-  "2023-08-14": 1055,
-  "2023-08-15": 1056,
-  "2023-08-16": 1056,
-  "2023-08-17": 1056,
-  "2023-08-18": 1056,
-  "2023-08-19": 1056,
-  "2023-08-20": 1057,
-  "2023-08-21": 1057,
-  "2023-08-22": 1057,
-  "2023-08-23": 1057,
-  "2023-08-24": 1058,
-  "2023-08-25": 1059,
-  "2023-08-26": 1060,
-  "2023-08-27": 1059,
-  "2023-08-28": 1059,
-  "2023-08-29": 1059,
-  "2023-08-30": 1059,
-  "2023-08-31": 1059,
-  "2023-09-01": 1061,
-  "2023-09-02": 1061,
-  "2023-09-03": 1062,
-  "2023-09-04": 1065,
-  "2023-09-05": 1066,
-  "2023-09-06": 1065,
-  "2023-09-07": 1064,
-  "2023-09-08": 1064,
-  "2023-09-09": 1065,
-  "2023-09-10": 1067,
-  "2023-09-11": 1067,
-  "2023-09-12": 1069,
-  "2023-09-13": 1069,
-  "2023-09-14": 1069,
-  "2023-09-15": 1069,
-  "2023-09-16": 1068,
-  "2023-09-17": 1069,
-  "2023-09-18": 1069,
-  "2023-09-19": 1069,
-  "2023-09-20": 1070,
-  "2023-09-21": 1071,
-  "2023-09-22": 1071,
-  "2023-09-23": 1071,
-  "2023-09-24": 1071,
-  "2023-09-25": 1070,
-  "2023-09-26": 1071,
-  "2023-09-27": 1070,
-  "2023-09-28": 1070,
-  "2023-09-29": 1070,
-  "2023-09-30": 1070,
-  "2023-10-01": 1071,
-  "2023-10-02": 1071,
-  "2023-10-03": 1070,
-  "2023-10-04": 1070,
-  "2023-10-05": 1071,
-  "2023-10-06": 1071,
-  "2023-10-07": 1071,
-  "2023-10-08": 1071,
-  "2023-10-09": 1071,
-  "2023-10-10": 1071,
-  "2023-10-11": 1071,
-  "2023-10-12": 1071,
-  "2023-10-13": 1072,
-  "2023-10-14": 1072,
-  "2023-10-15": 1072,
-  "2023-10-16": 1071,
-  "2023-10-17": 1071,
-  "2023-10-18": 1071,
-  "2023-10-19": 1071,
-  "2023-10-20": 1071,
-  "2023-10-21": 1070,
-  "2023-10-22": 1070,
-  "2023-10-23": 1070,
-  "2023-10-24": 1069,
-  "2023-10-25": 1069,
-  "2023-10-26": 1069,
-  "2023-10-27": 1069,
-  "2023-10-28": 1069,
-  "2023-10-29": 1070,
-  "2023-10-30": 1070,
-  "2023-10-31": 1070,
-  "2023-11-01": 1070,
-  "2023-11-02": 1070,
-  "2023-11-03": 1071,
-  "2023-11-04": 1072,
-  "2023-11-05": 1072,
-  "2023-11-06": 1072,
-  "2023-11-07": 1072,
-  "2023-11-08": 1073,
-  "2023-11-09": 1072,
-  "2023-11-10": 1072,
-  "2023-11-11": 1072,
-  "2023-11-12": 1072,
-  "2023-11-13": 1072,
-  "2023-11-14": 1073,
-  "2023-11-15": 1073,
-  "2023-11-16": 1073,
-  "2023-11-17": 1072,
-  "2023-11-18": 1072,
-  "2023-11-19": 1072,
-  "2023-11-20": 1072,
-  "2023-11-21": 1072,
-  "2023-11-22": 1071,
-  "2023-11-23": 1072,
-  "2023-11-24": 1072,
-  "2023-11-25": 1070,
-  "2023-11-26": 1071,
-  "2023-11-27": 1071,
-  "2023-11-28": 1070,
-  "2023-11-29": 1069,
-  "2023-11-30": 1069,
-  "2023-12-01": 1069,
-  "2023-12-02": 1069,
-  "2023-12-03": 1069,
-  "2023-12-04": 1069,
-  "2023-12-05": 1068,
-  "2023-12-06": 1068,
-  "2023-12-07": 1068,
-  "2023-12-08": 1067,
-  "2023-12-09": 1066,
-  "2023-12-10": 1067,
-  "2023-12-11": 1067,
-  "2023-12-12": 1067,
-  "2023-12-13": 1066,
-  "2023-12-14": 1066,
-  "2023-12-15": 1065,
-  "2023-12-16": 1065,
-  "2023-12-17": 1065,
-  "2023-12-18": 1064,
-  "2023-12-19": 1064,
-  "2023-12-20": 1063,
-  "2023-12-21": 1062,
-  "2023-12-22": 1062,
-  "2023-12-23": 1062,
-  "2023-12-24": 1062,
-  "2023-12-25": 1062,
-  "2023-12-26": 1062,
-  "2023-12-27": 1062,
-  "2023-12-30": 1061,
-  "2023-12-31": 1060,
-  "2024-01-01": 1060,
-  "2024-01-02": 1061,
-  "2024-01-03": 1060
+  "2024-01-17": 1052,
+  "date_first_scraped": "2022-04-19",
+  "description": "Get moving with these family-friendly dance hits!",
+  "name": "Dance Challenge",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kids Birthday Party",
+        "url": "https://open.spotify.com/album/5qbA8ZAip6UvEK9rTqIlbT"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150508,
+      "name": "Animal Dance and Freeze",
+      "url": "https://open.spotify.com/track/1KvIzAZTFPM4YSA6MYCky8"
+    },
+    {
+      "album": {
+        "name": "Kids Birthday Party",
+        "url": "https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Animal Dance and Freeze",
+      "url": "https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Animal Songs",
+        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80927,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
+    },
+    {
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M"
+    },
+    {
+      "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126930,
+      "name": "Bounce! Bounce!",
+      "url": "https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/7Hn2C8QRMdpQXcHunLe58K"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        },
+        {
+          "name": "The Live Platinum Band",
+          "url": "https://open.spotify.com/artist/5SoQwLbYZZSk1imly5wLFJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 387506,
+      "name": "Casper Cha-Cha Slide",
+      "url": "https://open.spotify.com/track/0ie0OWIrhVAivVhAfjpZN0"
+    },
+    {
+      "album": {
+        "name": "The Slide Album",
+        "url": "https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS"
+      },
+      "artists": [
+        {
+          "name": "Casper & Col'ta",
+          "url": "https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387500,
+      "name": "Casper Cha-Cha Slide (Live Platinum Band)",
+      "url": "https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 387493,
+      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
+      "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/3Ogg26ibNmxL8uIVwZVqsJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 387493,
+      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
+      "url": "https://open.spotify.com/track/3Xv5C02Wxlek0dmrYAM5A8"
+    },
+    {
+      "album": {
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
+      },
+      "artists": [
+        {
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128426,
+      "name": "Chicken Dance",
+      "url": "https://open.spotify.com/track/64WbwrNCZkNiS91TEDAp1L"
+    },
+    {
+      "album": {
+        "name": "Chickie Chickie Beat",
+        "url": "https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99914,
+      "name": "Chickie Chickie Beat",
+      "url": "https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8"
+    },
+    {
+      "album": {
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
+      },
+      "artists": [
+        {
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92920,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD"
+    },
+    {
+      "album": {
+        "name": "Macarena Kids",
+        "url": "https://open.spotify.com/album/3O4JZycOK2GcM079we6urz"
+      },
+      "artists": [
+        {
+          "name": "Macarena Party Kids",
+          "url": "https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253451,
+      "name": "Cotton Eyed Joe",
+      "url": "https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe"
+    },
+    {
+      "album": {
+        "name": "Time for a Change",
+        "url": "https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu"
+      },
+      "artists": [
+        {
+          "name": "Cupid",
+          "url": "https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Cupid Shuffle",
+      "url": "https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH"
+    },
+    {
+      "album": {
+        "name": "The BeeeeeOOP Walk",
+        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd"
+    },
+    {
+      "album": {
+        "name": "Dance Silly",
+        "url": "https://open.spotify.com/album/4Kd1PKvFJR37T0PL7fTn84"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Dance Silly",
+      "url": "https://open.spotify.com/track/7jY4Uj5MaWxxhswF96X65F"
+    },
+    {
+      "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/3Q8rbBIpOAWd4QlD2F33KO"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/1DepfYD1ZxKedQyOnAPPwF"
+    },
+    {
+      "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/1WPDUEohi6ZRZuMKOH4lLa"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/5oVTyy9JZ6RIXxiZ3nNaMm"
+    },
+    {
+      "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6"
+    },
+    {
+      "album": {
+        "name": "Do as I'm Doing",
+        "url": "https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116956,
+      "name": "Do as I'm Doing",
+      "url": "https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK"
+    },
+    {
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151780,
+      "name": "Do Your Own Dance",
+      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
+    },
+    {
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151780,
+      "name": "Do Your Own Dance",
+      "url": "https://open.spotify.com/track/5OFRH7DX66YJxWMWxEZt4b"
+    },
+    {
+      "album": {
+        "name": "Electric Slide: with friends...",
+        "url": "https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8"
+      },
+      "artists": [
+        {
+          "name": "Electric Slide Music Makers",
+          "url": "https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Electric Slide",
+      "url": "https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU"
+    },
+    {
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "album": {
+        "name": "Whoopty Whoop",
+        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117136,
+      "name": "Get Yo Body Movin'",
+      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
+    },
+    {
+      "album": {
+        "name": "Dance! Sing! Move!",
+        "url": "https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179297,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/60GhTHlRCZuM1NOuHll3NY"
+    },
+    {
+      "album": {
+        "name": "Jump, Wiggle and Hop",
+        "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179297,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir"
+    },
+    {
+      "album": {
+        "name": "Happy Feet!",
+        "url": "https://open.spotify.com/album/0pwxpuimvtMPrprGYEw3Dr"
+      },
+      "artists": [
+        {
+          "name": "Ashley Mills Monaghan",
+          "url": "https://open.spotify.com/artist/3gTG7Lc7QV8tmYk9sSaeZm"
+        },
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184659,
+      "name": "Happy Feet!",
+      "url": "https://open.spotify.com/track/2pdM6c8v8ffUq6PBBnPmJa"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90277,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
+    },
+    {
+      "album": {
+        "name": "Dance! Sing! Move!",
+        "url": "https://open.spotify.com/album/691W7vodFTYvZXrlqYhiNP"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170614,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/4pM7P3snklLvAG2J3cWL6o"
+    },
+    {
+      "album": {
+        "name": "Play With Me, Sing Along!",
+        "url": "https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ"
+      },
+      "artists": [
+        {
+          "name": "Patty Shukla",
+          "url": "https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170614,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161068,
+      "name": "Let's Samba",
+      "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
+    },
+    {
+      "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121472,
+      "name": "Let's Shake About!",
+      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
+    },
+    {
+      "album": {
+        "name": "Chubby Checker Classics",
+        "url": "https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Limbo Rock",
+      "url": "https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw"
+    },
+    {
+      "album": {
+        "name": "The Loco-Motion",
+        "url": "https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 193000,
+      "name": "Locomotion",
+      "url": "https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq"
+    },
+    {
+      "album": {
+        "name": "Macarena Christmas (Remasterizado)",
+        "url": "https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Macarena (Bayside Boys Remix) - Remasterizado",
+      "url": "https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs"
+    },
+    {
+      "album": {
+        "name": "MOVE YOUR BODY",
+        "url": "https://open.spotify.com/album/0mPdAgH86rN9Yt48HrpnOG"
+      },
+      "artists": [
+        {
+          "name": "Zindzi & The Zillionaires",
+          "url": "https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126546,
+      "name": "MOVE YOUR BODY",
+      "url": "https://open.spotify.com/track/2vp7HOVvYo7Z5ZqCAuRCli"
+    },
+    {
+      "album": {
+        "name": "Kids Dance Party",
+        "url": "https://open.spotify.com/album/5ciGZZ391k8bagg6lMIkOV"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188067,
+      "name": "Musical Statues - Party Version",
+      "url": "https://open.spotify.com/track/22kJuKZbHez63HBaUfThig"
+    },
+    {
+      "album": {
+        "name": "Kids Dance Party",
+        "url": "https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT"
+      },
+      "artists": [
+        {
+          "name": "Toddler Fun Learning",
+          "url": "https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q"
+        },
+        {
+          "name": "Gecko's Garage",
+          "url": "https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188067,
+      "name": "Musical Statues - Party Version",
+      "url": "https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld"
+    },
+    {
+      "album": {
+        "name": "Freeze Dance Songs for Learning",
+        "url": "https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128627,
+      "name": "Party Freeze Dance Song",
+      "url": "https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd"
+    },
+    {
+      "album": {
+        "name": "Preschool Songs Volume 2",
+        "url": "https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ"
+      },
+      "artists": [
+        {
+          "name": "Michael & The Rockness Monsters",
+          "url": "https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193802,
+      "name": "Robot Song",
+      "url": "https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP"
+    },
+    {
+      "album": {
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/6y0xVay2XCLcDK3HW6VdYs"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95253,
+      "name": "Shake Break",
+      "url": "https://open.spotify.com/track/50jELX08A9U7fUFgC7cAWJ"
+    },
+    {
+      "album": {
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95253,
+      "name": "Shake Break",
+      "url": "https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186427,
+      "name": "Shake Your Body Down",
+      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "album": {
+        "name": "Stomp & Clap Dance",
+        "url": "https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Stomp & Clap Dance",
+      "url": "https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm"
+    },
+    {
+      "album": {
+        "name": "The BeeeeeOOP Walk",
+        "url": "https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138971,
+      "name": "The BeeeeeOOP Walk",
+      "url": "https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
+    },
+    {
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+    },
+    {
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 6: Fun Baby Songs",
+        "url": "https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144138,
+      "name": "The Hokey Pokey",
+      "url": "https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU"
+    },
+    {
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193540,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "album": {
+        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+        },
+        {
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+    },
+    {
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 30",
+        "url": "https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155266,
+      "name": "Watch Me (Whip / Nae Nae)",
+      "url": "https://open.spotify.com/track/2bQJ43ZimZo5FkVMhxXcv7"
+    },
+    {
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8d55mkkrzwq"
 }

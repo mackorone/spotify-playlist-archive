@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "New music and timeless tracks from legends only. Cover: Shane MacGowan ",
+  "description": "New music and timeless tracks from legends only. Cover: Liam Gallagher & John Squire",
   "name": "Legends Only",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": "2024-01-16",
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
@@ -2075,6 +2075,28 @@
     },
     {
       "album": {
+        "name": "Just Another Rainbow",
+        "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336218,
+      "name": "Just Another Rainbow",
+      "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "album": {
         "name": "Speak And Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -2436,7 +2458,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 270773,
       "name": "Love You 'Till the End - 2006 Remaster",
       "url": "https://open.spotify.com/track/0etUdU5dmPy7jOMS2tt5TG"

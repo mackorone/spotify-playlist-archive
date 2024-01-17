@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-531 songs - 20 hr 28 min
+533 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Crushin](https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8) | [The Man from Mexico](https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb) | [La Muchacha Ochentas](https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh) | 2:36 | 2022-07-01 |  |
 | [Cuban Espresso](https://open.spotify.com/track/018eCZOO9nxil7tpgSpGIe) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Cuban Espresso](https://open.spotify.com/album/6zQkhy5nZVSpTC6tgKX8ru) | 1:45 | 2022-07-29 | 2022-10-14 |
 | [Curated Light](https://open.spotify.com/track/3IpACziWRGwdAPA4BxoUo0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:32 | 2023-09-04 | 2023-09-23 |
+| [cycle of life](https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [cycle of life](https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r) | 2:04 | 2024-01-05 |  |
 | [Da Roberta](https://open.spotify.com/track/5PSCnbrMwcLmal3eAIW0GB) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Da Roberta](https://open.spotify.com/album/2ORUYbFLMK8jLF9EBJgfNP) | 2:24 | 2022-10-14 |  |
 | [Daiquiri](https://open.spotify.com/track/4frKqpptdMc64k9rvkLYFD) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Daiquiri](https://open.spotify.com/album/2NLbM9792a08XFlMGTCoa4) | 2:26 | 2022-06-24 | 2022-08-19 |
 | [de la bell\-mére](https://open.spotify.com/track/5tjs8JIPAWEMXXt5WKSZbX) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [de la bell\-mére](https://open.spotify.com/album/0QIgwejCiO4kxYmp6q9YzX) | 1:48 | 2022-07-22 |  |
@@ -398,6 +399,7 @@
 | [Sault](https://open.spotify.com/track/65q3kfyuiECf7SyL4lL0oO) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 3:14 | 2022-05-20 |  |
 | [Second Moon](https://open.spotify.com/track/6c6O3C07YbA6oSNSmQqkMB) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Second Moon](https://open.spotify.com/album/30ccm4YshBL3AD1sBxNUWq) | 1:49 | 2022-07-15 | 2023-09-29 |
 | [Secret Village](https://open.spotify.com/track/6boOSC8VmhBre8fg6sCnau) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Secret Village of Chill](https://open.spotify.com/album/4xHXC1XtNxxSZCHxT2eoFs) | 1:52 | 2022-05-20 |  |
+| [see you tomorrow](https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [see you tomorrow](https://open.spotify.com/album/2be7X7Fmq8snlAbYf0eEtn) | 2:51 | 2024-01-05 |  |
 | [Sem Calor](https://open.spotify.com/track/4cLt1671HlBWnIb6ToetRF) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Sem Calor](https://open.spotify.com/album/0SZFWK3pJUdi9OC7F4zhhS) | 2:12 | 2022-06-24 | 2022-08-19 |
 | [Sentimental Mood](https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:49 | 2022-05-20 |  |
 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 | 2022-05-20 |  |

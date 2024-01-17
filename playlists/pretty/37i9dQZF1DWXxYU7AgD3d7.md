@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 60 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,019 likes - 60 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 59 | [I Like It](https://open.spotify.com/track/3UedDxQdGoEdw3cV5eLCJS) | [Madcliff](https://open.spotify.com/artist/4XVNXuvUEcareBngNTDDX5) | [Mad Cliff](https://open.spotify.com/album/0OxzPeW4hJ6GLOqGu4xKpN) | 3:56 |
 | 60 | [I Can't Help but Love](https://open.spotify.com/track/2svuSVmTq5WdHHVDBlobVS) | [David R\. Trask](https://open.spotify.com/artist/7G37dqQpR4pzSxS553aBJG) | [I Can't Help but Love](https://open.spotify.com/album/0IqxR7phNjVfHArCG7LEMR) | 3:39 |
 
-Snapshot ID: `MCxkOWM1ZWJlY2NiNGY5MjdiOWQ3NmViODlmZGQyY2M5ZWI1N2NmNDIz`
+Snapshot ID: `MCxmMjVjZWI1OTdmNGYyZDg1NmZiZjllNTc2M2M1YjdlZmRkN2I4OWRm`

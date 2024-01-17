@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": "2024-01-10",
       "duration_ms": 194893,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": "2024-01-16",
       "duration_ms": 260778,
       "name": "Club 7",
       "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Du ga m\u00e6 viljestyrke",
+      "url": "https://open.spotify.com/track/1HM7GMU2CPPAxXMTJVtmCw"
+    },
+    {
+      "album": {
         "name": "Du ga m\u00e6 viljestyrke",
         "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": "2024-01-15",
       "duration_ms": 178116,
       "name": "Eg glemmer deg aldri",
       "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
@@ -1452,6 +1474,24 @@
       "duration_ms": 179545,
       "name": "Fremmed",
       "url": "https://open.spotify.com/track/2liMUVPm6WJu5dG2DD7ZRt"
+    },
+    {
+      "album": {
+        "name": "Stor gutt",
+        "url": "https://open.spotify.com/album/7uLvStRUQ1E0VoUlnhRhwy"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359600,
+      "name": "Frennings vei",
+      "url": "https://open.spotify.com/track/3IiRhQoTkjEPd1Dwzh8nnm"
     },
     {
       "album": {
@@ -3272,7 +3312,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 210173,
       "name": "Siste sang",
       "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
@@ -3370,7 +3410,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
@@ -3785,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "To over tolv",
+        "url": "https://open.spotify.com/album/4GTkEgihqBor6a1tLBLWXM"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295093,
+      "name": "To over tolv",
+      "url": "https://open.spotify.com/track/4UJssXJzy7oUAkPz0A0R1R"
+    },
+    {
+      "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
       },
@@ -3902,7 +3960,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"

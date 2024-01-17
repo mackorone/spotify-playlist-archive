@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-92 songs - 5 hr 50 min
+95 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Love Is Real](https://open.spotify.com/track/78Rw0uZPyN64o8OUi2UKpu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Boogie Angst Edition One](https://open.spotify.com/album/1oTdlldt4xLZ16CMgaxYJ8) | 3:22 | 2022-10-10 | 2022-11-13 |
 | [Ms\. Ho](https://open.spotify.com/track/6Ns2JyCa5xtANadq8gJ67u) | [Onra](https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8) | [Chinoiseries pt 2](https://open.spotify.com/album/74ZSI0MFZgtgBn3SL7JyZO) | 1:56 | 2021-10-15 |  |
 | [Ms\. Ho](https://open.spotify.com/track/6vQHxIHj6mFAsHgP6F52tf) | [Onra](https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8) | [Chinoiseries pt 2](https://open.spotify.com/album/5bl0ylxUoBnIMB1Fn2oSYF) | 1:56 | 2021-10-15 | 2022-07-29 |
-| [Muy Tranquilo](https://open.spotify.com/track/6O7qFEXmLQcOsV37wrgJDz) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6zRPOKKIiUEQPGYnLoavVj) | 3:53 | 2021-10-15 |  |
+| [Muy Tranquilo](https://open.spotify.com/track/3aCkU7zRK9YtA9KyoTIqnb) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6j2Wx4RkUxeD4HsB64fwjt) | 3:53 | 2022-10-10 |  |
+| [Muy Tranquilo](https://open.spotify.com/track/6O7qFEXmLQcOsV37wrgJDz) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB3](https://open.spotify.com/album/6zRPOKKIiUEQPGYnLoavVj) | 3:53 | 2021-10-15 | 2024-01-10 |
 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/5S4eqUfWSOIk4DMzgTwfuU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/7eAYCzrJin96tMT4SPumyo) | 2:54 | 2022-10-10 |  |
 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/6FEESiC65oKkgebXZlPc5J) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 2:54 | 2021-10-15 | 2023-04-30 |
 | [Noble Metals](https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:32 | 2022-10-10 |  |
@@ -79,7 +80,8 @@
 | [Someone Like You \(Instrumental\)](https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 | 2021-10-15 | 2023-11-04 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2021-10-15 |  |
 | [Tea Thyme](https://open.spotify.com/track/2APXQ9ONhqK1GDexegeSdv) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [How It Should Sound, Vol\. 1 & 2](https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU) | 2:42 | 2021-10-15 |  |
-| [The Anthem \(Instrumental\)](https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r) | 3:00 | 2021-10-15 |  |
+| [The Anthem \(Instrumental\)](https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r) | 3:00 | 2021-10-15 | 2024-01-10 |
+| [The Anthem \- Instrumental](https://open.spotify.com/track/5nIM5EBgxVgRmihw9WDrgV) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/5bDIsljjV1bLzZzFPV2nFz) | 3:00 | 2022-10-10 |  |
 | [The Traitor](https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 2:42 | 2021-10-15 | 2023-04-30 |
 | [The Traitor](https://open.spotify.com/track/4hVGW01fTaqMbYXJyA8YWn) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 2:42 | 2022-10-10 |  |
 | [The World \(Is Going Up in Flames\) \- Instrumental](https://open.spotify.com/track/1svVkDlWJxvHHWxervwVwl) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/7eAYCzrJin96tMT4SPumyo) | 3:23 | 2022-10-10 |  |
@@ -88,7 +90,8 @@
 | [This Girl \- Instrumental](https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/4Fan1WsiMLAtgeycJNvzs4) | 4:01 | 2021-10-15 | 2022-10-14 |
 | [This Girl \- Instrumental](https://open.spotify.com/track/5i7UCAOx9N6F6LIuVtEpRP) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [This Girl \(Special Edition\)](https://open.spotify.com/album/5cHvz35TwKvzmdald8wL8E) | 4:01 | 2022-10-10 |  |
 | [U Can Get It](https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Curses from Past Times EP](https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael) | 4:28 | 2021-10-15 |  |
-| [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 | 2021-10-15 |  |
+| [Watch Baby](https://open.spotify.com/track/30GVvvMmR1JYmlfRM29DvV) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/372Eb8Moh2dOzwo0UbzQhm) | 2:21 | 2022-10-10 |  |
+| [Watch Baby](https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB4](https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa) | 2:21 | 2021-10-15 | 2024-01-10 |
 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 | 2021-10-15 |  |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2021-10-15 | 2022-11-20 |
 | [White Crayon](https://open.spotify.com/track/3a1CnmO9A2hb1B42dMTxel) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/3DPTrgC3Ee2cZN6lUGWdaq) | 4:31 | 2022-10-10 |  |

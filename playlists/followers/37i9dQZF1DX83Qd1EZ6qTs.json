@@ -1,180 +1,1103 @@
 {
-  "2023-07-08": 534,
-  "2023-07-09": 549,
-  "2023-07-10": 565,
-  "2023-07-11": 584,
-  "2023-07-12": 608,
-  "2023-07-13": 635,
-  "2023-07-14": 654,
-  "2023-07-15": 664,
-  "2023-07-16": 684,
-  "2023-07-17": 695,
-  "2023-07-18": 701,
-  "2023-07-19": 715,
-  "2023-07-20": 729,
-  "2023-07-21": 742,
-  "2023-07-22": 757,
-  "2023-07-23": 768,
-  "2023-07-24": 782,
-  "2023-07-25": 797,
-  "2023-07-26": 811,
-  "2023-07-27": 816,
-  "2023-07-28": 832,
-  "2023-07-29": 843,
-  "2023-07-30": 857,
-  "2023-07-31": 866,
-  "2023-08-01": 881,
-  "2023-08-02": 891,
-  "2023-08-03": 1014,
-  "2023-08-04": 1090,
-  "2023-08-05": 1112,
-  "2023-08-06": 1157,
-  "2023-08-07": 1157,
-  "2023-08-08": 1214,
-  "2023-08-09": 1263,
-  "2023-08-10": 1329,
-  "2023-08-11": 1391,
-  "2023-08-12": 1417,
-  "2023-08-13": 1443,
-  "2023-08-14": 1470,
-  "2023-08-15": 1603,
-  "2023-08-16": 1603,
-  "2023-08-17": 2148,
-  "2023-08-18": 2562,
-  "2023-08-19": 2939,
-  "2023-08-20": 3246,
-  "2023-08-21": 3450,
-  "2023-08-22": 3499,
-  "2023-08-23": 3525,
-  "2023-08-24": 3546,
-  "2023-08-25": 3666,
-  "2023-08-26": 3848,
-  "2023-08-27": 3957,
-  "2023-08-28": 4029,
-  "2023-08-29": 4164,
-  "2023-08-30": 4225,
-  "2023-08-31": 4312,
-  "2023-09-01": 4379,
-  "2023-09-02": 4379,
-  "2023-09-03": 4400,
-  "2023-09-04": 4416,
-  "2023-09-05": 4424,
-  "2023-09-06": 4435,
-  "2023-09-07": 4448,
-  "2023-09-08": 4460,
-  "2023-09-09": 4473,
-  "2023-09-10": 4496,
-  "2023-09-11": 4500,
-  "2023-09-12": 4511,
-  "2023-09-13": 4526,
-  "2023-09-14": 4539,
-  "2023-09-15": 4551,
-  "2023-09-16": 4575,
-  "2023-09-17": 4680,
-  "2023-09-18": 4767,
-  "2023-09-19": 4820,
-  "2023-09-20": 4832,
-  "2023-09-21": 4850,
-  "2023-09-22": 4862,
-  "2023-09-23": 4876,
-  "2023-09-24": 4894,
-  "2023-09-25": 4913,
-  "2023-09-26": 4929,
-  "2023-09-27": 4940,
-  "2023-09-28": 4960,
-  "2023-09-29": 4973,
-  "2023-09-30": 4990,
-  "2023-10-01": 5008,
-  "2023-10-02": 5026,
-  "2023-10-03": 5036,
-  "2023-10-04": 5057,
-  "2023-10-05": 5072,
-  "2023-10-06": 5081,
-  "2023-10-07": 5092,
-  "2023-10-08": 5106,
-  "2023-10-09": 5110,
-  "2023-10-10": 5130,
-  "2023-10-11": 5148,
-  "2023-10-12": 5148,
-  "2023-10-13": 5156,
-  "2023-10-14": 5160,
-  "2023-10-15": 5166,
-  "2023-10-16": 5177,
-  "2023-10-17": 5187,
-  "2023-10-18": 5211,
-  "2023-10-19": 5229,
-  "2023-10-20": 5239,
-  "2023-10-21": 5255,
-  "2023-10-22": 5273,
-  "2023-10-23": 5287,
-  "2023-10-24": 5305,
-  "2023-10-25": 5311,
-  "2023-10-26": 5322,
-  "2023-10-27": 5332,
-  "2023-10-28": 5332,
-  "2023-10-29": 5377,
-  "2023-10-30": 5413,
-  "2023-10-31": 5413,
-  "2023-11-01": 5423,
-  "2023-11-02": 5434,
-  "2023-11-03": 5450,
-  "2023-11-04": 5460,
-  "2023-11-05": 5471,
-  "2023-11-06": 5482,
-  "2023-11-07": 5498,
-  "2023-11-08": 5508,
-  "2023-11-09": 5523,
-  "2023-11-10": 5536,
-  "2023-11-11": 5547,
-  "2023-11-12": 5551,
-  "2023-11-13": 5564,
-  "2023-11-14": 5579,
-  "2023-11-15": 5579,
-  "2023-11-16": 5596,
-  "2023-11-17": 5617,
-  "2023-11-18": 5617,
-  "2023-11-19": 5630,
-  "2023-11-20": 5635,
-  "2023-11-21": 5643,
-  "2023-11-22": 5649,
-  "2023-11-23": 5658,
-  "2023-11-24": 5664,
-  "2023-11-25": 5676,
-  "2023-11-26": 5686,
-  "2023-11-27": 5695,
-  "2023-11-28": 5706,
-  "2023-11-29": 5720,
-  "2023-11-30": 5720,
-  "2023-12-01": 5729,
-  "2023-12-02": 5741,
-  "2023-12-03": 5746,
-  "2023-12-04": 5753,
-  "2023-12-05": 5757,
-  "2023-12-06": 5759,
-  "2023-12-07": 5769,
-  "2023-12-08": 5777,
-  "2023-12-09": 5784,
-  "2023-12-10": 5797,
-  "2023-12-11": 5809,
-  "2023-12-12": 5820,
-  "2023-12-13": 5827,
-  "2023-12-14": 5841,
-  "2023-12-15": 5844,
-  "2023-12-16": 5847,
-  "2023-12-17": 5856,
-  "2023-12-18": 5867,
-  "2023-12-19": 5871,
-  "2023-12-20": 5876,
-  "2023-12-21": 5884,
-  "2023-12-22": 5887,
-  "2023-12-23": 5890,
-  "2023-12-24": 5897,
-  "2023-12-25": 5899,
-  "2023-12-26": 5903,
-  "2023-12-27": 5908,
-  "2023-12-30": 5921,
-  "2023-12-31": 5930,
-  "2024-01-01": 5942,
-  "2024-01-02": 5947,
-  "2024-01-03": 5952
+  "2024-01-17": 6045,
+  "date_first_scraped": "2023-07-08",
+  "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
+  "name": "ECHO : Tabla Rhythms",
+  "tracks": [
+    {
+      "album": {
+        "name": "Top 25 Fusion Ringtunes",
+        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        },
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116122,
+      "name": "Ananta (Tabla & Sitar)",
+      "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
+    },
+    {
+      "album": {
+        "name": "Ardha Jai Taal (Tabla solo in 6.5 beats)",
+        "url": "https://open.spotify.com/album/3nSESdpvZodJSBiGPwHSN0"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 544640,
+      "name": "Ardha Jai Taal (Tabla solo in 6.5 beats)",
+      "url": "https://open.spotify.com/track/3EvGdsfkKcUChBnEuWCed1"
+    },
+    {
+      "album": {
+        "name": "The Sound of Indian Tabla",
+        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "Dana Pandey",
+          "url": "https://open.spotify.com/artist/6ZNiKkCIGJqrJIkcyWGyiB"
+        },
+        {
+          "name": "Mickey Hart",
+          "url": "https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU"
+        },
+        {
+          "name": "Syed Arshad",
+          "url": "https://open.spotify.com/artist/5133gOOsLNGTDEdRBf8OvJ"
+        },
+        {
+          "name": "Vince Delgado",
+          "url": "https://open.spotify.com/artist/30iufXAcbiAyoV3CgunYNg"
+        },
+        {
+          "name": "Aushim Chaudhuri",
+          "url": "https://open.spotify.com/artist/6eHtMIbxdeGtNFVQuPVXk8"
+        },
+        {
+          "name": "Anthony Hindson",
+          "url": "https://open.spotify.com/artist/4SxNRoFulwosvUXRmsBPQs"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Balinese Fantasy (feat. Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri & Anthony Hindson)",
+      "url": "https://open.spotify.com/track/4gX8zohTKh60fGL3jZgxHV"
+    },
+    {
+      "album": {
+        "name": "Bless The Rains In India",
+        "url": "https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU"
+      },
+      "artists": [
+        {
+          "name": "Goa Gubhar",
+          "url": "https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132521,
+      "name": "Bless The Rains In India",
+      "url": "https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE"
+    },
+    {
+      "album": {
+        "name": "Blue Curry",
+        "url": "https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt"
+      },
+      "artists": [
+        {
+          "name": "Bhangra Beats",
+          "url": "https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Blue Curry",
+      "url": "https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS"
+    },
+    {
+      "album": {
+        "name": "Recharge Plus",
+        "url": "https://open.spotify.com/album/2waR7Z2Qr4orET07iN0HPK"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 479217,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6Md9w2RDK3EhZCWetowEih"
+    },
+    {
+      "album": {
+        "name": "Recharge Plus",
+        "url": "https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 479217,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
+    },
+    {
+      "album": {
+        "name": "Traditional Indian Music",
+        "url": "https://open.spotify.com/album/4G68NOYmVqfFeivPLyIbfJ"
+      },
+      "artists": [
+        {
+          "name": "Downing And Mayer",
+          "url": "https://open.spotify.com/artist/0dL8zlZTSHT5M4TPVMRO9V"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "Cool Tabla",
+      "url": "https://open.spotify.com/track/0cmMW0IFIidorlM2KN1iRG"
+    },
+    {
+      "album": {
+        "name": "Taaleem",
+        "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570506,
+      "name": "Drut Teentaal (Tabla solo)",
+      "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
+    },
+    {
+      "album": {
+        "name": "Inde: Hommage \u00e0 Latif Ahmed Khan (India: A Tribute to Latif Ahmed Khan)",
+        "url": "https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a"
+      },
+      "artists": [
+        {
+          "name": "Latif Ahmed Khan",
+          "url": "https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf"
+        },
+        {
+          "name": "Asif Ali Khan",
+          "url": "https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8"
+        },
+        {
+          "name": "Ma Deva Prashanti",
+          "url": "https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Drut Tint\u00e2l",
+      "url": "https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG"
+    },
+    {
+      "album": {
+        "name": "Tabla Yoga Healing",
+        "url": "https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB"
+      },
+      "artists": [
+        {
+          "name": "Nagawa Meditation",
+          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205571,
+      "name": "Earth Kingdom",
+      "url": "https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc"
+    },
+    {
+      "album": {
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408888,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/62gA8TSuoUyiT1Hj5uoN51"
+      },
+      "artists": [
+        {
+          "name": "Swarupa Ananth",
+          "url": "https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-29",
+      "duration_ms": 182857,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/4zBFZioNYT5O1jnkq5eILg"
+    },
+    {
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        },
+        {
+          "name": "Latha Ramachar",
+          "url": "https://open.spotify.com/artist/3bSLWyTN0Z2OyERTWrQ7xs"
+        },
+        {
+          "name": "Sukanya Ramgopal",
+          "url": "https://open.spotify.com/artist/3r9MZSoBYfVqoWQOrwhCsY"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 719878,
+      "name": "Heartbeat - Hindolam - Taal Vadya Kacheri in Aditala",
+      "url": "https://open.spotify.com/track/38HbEPHhFRPfxF0lhQnsb8"
+    },
+    {
+      "album": {
+        "name": "Royalty Free Music For Films & TV - Vol. 2",
+        "url": "https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq"
+      },
+      "artists": [
+        {
+          "name": "Sandeep Khurana",
+          "url": "https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51513,
+      "name": "Indian Ethnic Tabla Sitar Drums",
+      "url": "https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E"
+    },
+    {
+      "album": {
+        "name": "Kautilya (The Echo Project)",
+        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191063,
+      "name": "Kautilya (The Echo Project)",
+      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
+    },
+    {
+      "album": {
+        "name": "The Sound of Indian Tabla",
+        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Khandam",
+      "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
+    },
+    {
+      "album": {
+        "name": "Morning in Jaipur",
+        "url": "https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy"
+      },
+      "artists": [
+        {
+          "name": "Sola Vimi",
+          "url": "https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Morning in Jaipur",
+      "url": "https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC"
+    },
+    {
+      "album": {
+        "name": "Indian Tabla Meditations",
+        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+      },
+      "artists": [
+        {
+          "name": "Music Of Tabla",
+          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272718,
+      "name": "Mumbai",
+      "url": "https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF"
+    },
+    {
+      "album": {
+        "name": "Tala Matrix",
+        "url": "https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu"
+      },
+      "artists": [
+        {
+          "name": "Tabla Beat Science",
+          "url": "https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279800,
+      "name": "Palmistry",
+      "url": "https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6"
+    },
+    {
+      "album": {
+        "name": "Pakhawaj",
+        "url": "https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4"
+      },
+      "artists": [
+        {
+          "name": "Bhavani Shankar",
+          "url": "https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375785,
+      "name": "Peace and Meditation",
+      "url": "https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm"
+    },
+    {
+      "album": {
+        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
+        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
+      },
+      "artists": [
+        {
+          "name": "Kamalesh Maitra",
+          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588133,
+      "name": "Raag Bhupal Todi",
+      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
+    },
+    {
+      "album": {
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 320640,
+      "name": "Rhythmic Passion",
+      "url": "https://open.spotify.com/track/7sxcB99i4Bm0RJ3qwY3hrl"
+    },
+    {
+      "album": {
+        "name": "Rise of the Capital",
+        "url": "https://open.spotify.com/album/3F6VwgcXAuKBiicVZAzu7i"
+      },
+      "artists": [
+        {
+          "name": "Takano Marise",
+          "url": "https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Rise of the Capital",
+      "url": "https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm"
+    },
+    {
+      "album": {
+        "name": "CHAKRA",
+        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
+      },
+      "artists": [
+        {
+          "name": "ARAJ",
+          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300444,
+      "name": "Sargam Crossing",
+      "url": "https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1"
+    },
+    {
+      "album": {
+        "name": "CHAKRA",
+        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
+      },
+      "artists": [
+        {
+          "name": "ARAJ",
+          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
+        },
+        {
+          "name": "Shikhar Naad Qureshi",
+          "url": "https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 952999,
+      "name": "Summing Up",
+      "url": "https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH"
+    },
+    {
+      "album": {
+        "name": "Dum Tak Revolution, Vol. 3",
+        "url": "https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs"
+      },
+      "artists": [
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253045,
+      "name": "Tab Tabla",
+      "url": "https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI"
+    },
+    {
+      "album": {
+        "name": "Ustad Alla Rakha - The Multifaceted Genius",
+        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+      },
+      "artists": [
+        {
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640906,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
+    },
+    {
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3MmALvzReDtQbeX9EEE3rn"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcdi Siebert",
+          "url": "https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da"
+        },
+        {
+          "name": "Suman Sarkar",
+          "url": "https://open.spotify.com/artist/0YKkpqAbai806ElUCqVpc0"
+        },
+        {
+          "name": "Helmut Weber",
+          "url": "https://open.spotify.com/artist/3OyyuzAEaz2ZXWEjlBxlXL"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3H5cOjtgzcmqibnmYxxuIU"
+    },
+    {
+      "album": {
+        "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
+        "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
+      },
+      "artists": [
+        {
+          "name": "Jnan Prakash Ghosh",
+          "url": "https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771373,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Ravi Shankar",
+        "url": "https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292666,
+      "name": "Tabla - Dhwani - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
+    },
+    {
+      "album": {
+        "name": "Wonderwall Music",
+        "url": "https://open.spotify.com/album/4dzKcTYMoSVsMfAxrreptk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64922,
+      "name": "Tabla and Pakavaj",
+      "url": "https://open.spotify.com/track/2Qaub4qLQsrBlUyz9oCawK"
+    },
+    {
+      "album": {
+        "name": "Wonderwall Music",
+        "url": "https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 64922,
+      "name": "Tabla and Pakavaj",
+      "url": "https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z"
+    },
+    {
+      "album": {
+        "name": "Harem: Club & Chillout Remixes",
+        "url": "https://open.spotify.com/album/3tmsEhA1K6ZCp68mdOiocv"
+      },
+      "artists": [
+        {
+          "name": "Drumspyder",
+          "url": "https://open.spotify.com/artist/7dCTyOTIdbIvCxox9ocZlv"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "Tabla and the Beat",
+      "url": "https://open.spotify.com/track/6CJS8wSAtOvd6oDSzPefCH"
+    },
+    {
+      "album": {
+        "name": "One River",
+        "url": "https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g"
+      },
+      "artists": [
+        {
+          "name": "Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
+        },
+        {
+          "name": "John De Kadt",
+          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Tabla Breath",
+      "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
+    },
+    {
+      "album": {
+        "name": "Authentic India: Indian Percussion",
+        "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
+      },
+      "artists": [
+        {
+          "name": "K. Shruthi Raj",
+          "url": "https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog"
+        },
+        {
+          "name": "A. Kiran Kumar",
+          "url": "https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1"
+        },
+        {
+          "name": "Saravanan",
+          "url": "https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62932,
+      "name": "Tabla Duo",
+      "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
+    },
+    {
+      "album": {
+        "name": "Magnificent Indian Drums",
+        "url": "https://open.spotify.com/album/1cka9ySaQBsB7HDtKkUvtU"
+      },
+      "artists": [
+        {
+          "name": "Kedar Pandit",
+          "url": "https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358755,
+      "name": "Tabla Magic",
+      "url": "https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0"
+    },
+    {
+      "album": {
+        "name": "Indian Tabla Meditations",
+        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+      },
+      "artists": [
+        {
+          "name": "Music Of Tabla",
+          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236669,
+      "name": "Tabla Music",
+      "url": "https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6"
+    },
+    {
+      "album": {
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
+      },
+      "artists": [
+        {
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380995,
+      "name": "Tabla Music for Meditation",
+      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348615,
+      "name": "Tabla Solo - Taal Rupak",
+      "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
+    },
+    {
+      "album": {
+        "name": "Jalilah's Raks Sharki 1: Classic Egyptian Dance Music",
+        "url": "https://open.spotify.com/album/4SmGnBCcQndZSVcEguZkPV"
+      },
+      "artists": [
+        {
+          "name": "Mokhtar al Said",
+          "url": "https://open.spotify.com/artist/1hCS546hKLVJ7G7dIPc05W"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 104093,
+      "name": "Tabla Solo 2",
+      "url": "https://open.spotify.com/track/4NCqNjUa199fKTXNE7NNYf"
+    },
+    {
+      "album": {
+        "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
+        "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379626,
+      "name": "Tabla Solo In Ektal - Live",
+      "url": "https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ"
+    },
+    {
+      "album": {
+        "name": "Tabla Solo Part 02",
+        "url": "https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1"
+      },
+      "artists": [
+        {
+          "name": "Umesh Parmar",
+          "url": "https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125465,
+      "name": "Tabla Solo Part 02",
+      "url": "https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk"
+    },
+    {
+      "album": {
+        "name": "Authentic India: Indian Percussion",
+        "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
+      },
+      "artists": [
+        {
+          "name": "K. Shruthi Raj",
+          "url": "https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog"
+        },
+        {
+          "name": "A. Kiran Kumar",
+          "url": "https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1"
+        },
+        {
+          "name": "Saravanan",
+          "url": "https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "Tabla Solo, Pt. 1",
+      "url": "https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl"
+    },
+    {
+      "album": {
+        "name": "Angelika Unveiled",
+        "url": "https://open.spotify.com/album/4LFHh3Q8f0zPd8S79aDdWy"
+      },
+      "artists": [
+        {
+          "name": "Raul Ferrando",
+          "url": "https://open.spotify.com/artist/6RPOG0ZXoK3ZqCw3rfZ0oZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "Tabla Talk",
+      "url": "https://open.spotify.com/track/6KbQaRVqShlQt8gi5izmlN"
+    },
+    {
+      "album": {
+        "name": "Tabla Teental Kayda (Instrumental)",
+        "url": "https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI"
+      },
+      "artists": [
+        {
+          "name": "Aryan Gohariya",
+          "url": "https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326034,
+      "name": "Tabla Teental Kayda - Instrumental",
+      "url": "https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi"
+    },
+    {
+      "album": {
+        "name": "Tabla Tonic",
+        "url": "https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Tabla Tonic",
+      "url": "https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q"
+    },
+    {
+      "album": {
+        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
+        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
+      },
+      "artists": [
+        {
+          "name": "Tabla Pakuri",
+          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306995,
+      "name": "Tablas for Positive Vibes",
+      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
+    },
+    {
+      "album": {
+        "name": "TablaTrap",
+        "url": "https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ"
+      },
+      "artists": [
+        {
+          "name": "jomy george",
+          "url": "https://open.spotify.com/artist/4egqbOwBPdQgSvm89qHjEZ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220488,
+      "name": "TablaTrap",
+      "url": "https://open.spotify.com/track/0iw0rCaC2gw63fo8MqI0Hn"
+    },
+    {
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no"
+      },
+      "artists": [
+        {
+          "name": "Shaman Beats",
+          "url": "https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1"
+    },
+    {
+      "album": {
+        "name": "Shared Moments",
+        "url": "https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP"
+      },
+      "artists": [
+        {
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526767,
+      "name": "Tani Avartanam",
+      "url": "https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw"
+    },
+    {
+      "album": {
+        "name": "Timeless Tabla",
+        "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1000724,
+      "name": "The Beauty of Sangat (feat. Pt. Shivkumar Sharma)",
+      "url": "https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc"
+    },
+    {
+      "album": {
+        "name": "Tabla and Beyond",
+        "url": "https://open.spotify.com/album/0ejADj4ASGiKt2Tn9mlZHM"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 722400,
+      "name": "The Great Indian Desert",
+      "url": "https://open.spotify.com/track/2G79o24ysNqEFAu93OddNd"
+    },
+    {
+      "album": {
+        "name": "Pacifying Morning - Blissful Yoga Magic Rhythms",
+        "url": "https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Sound Clubb",
+          "url": "https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Uttam Tabla - Original Mix",
+      "url": "https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD"
+    },
+    {
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX83Qd1EZ6qTs"
 }

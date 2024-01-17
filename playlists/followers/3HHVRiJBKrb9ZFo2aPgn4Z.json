@@ -1,226 +1,433 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 1,
-  "2023-06-03": 1,
-  "2023-06-04": 1,
-  "2023-06-05": 1,
-  "2023-06-06": 1,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 1,
-  "2023-06-22": 1,
-  "2023-06-23": 1,
-  "2023-06-24": 1,
-  "2023-06-25": 1,
-  "2023-06-26": 1,
-  "2023-06-27": 1,
-  "2023-06-28": 1,
-  "2023-06-29": 1,
-  "2023-06-30": 1,
-  "2023-07-01": 1,
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "who do you do the work for? ",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Princess and the Frog",
+        "url": "https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/2dlxN435ZY9ruxGYND2Hq0"
+    },
+    {
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "album": {
+        "name": "Dirty Computer",
+        "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Brian Wilson",
+          "url": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119667,
+      "name": "Dirty Computer (feat. Brian Wilson)",
+      "url": "https://open.spotify.com/track/7nJZ9LplJ3ZAyhQyJCJk0K"
+    },
+    {
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "album": {
+        "name": "Heretic Pride",
+        "url": "https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Heretic Pride",
+      "url": "https://open.spotify.com/track/3LsPToq3yB7g5IKfw829e1"
+    },
+    {
+      "album": {
+        "name": "The Hamilton Mixtape",
+        "url": "https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281596,
+      "name": "Immigrants (We Get The Job Done)",
+      "url": "https://open.spotify.com/track/0bPREZOF43e3EIu0zdfLBp"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350120,
+      "name": "m.A.A.d city",
+      "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
+    },
+    {
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2019-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Moment's Silence (Common Tongue)",
+      "url": "https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333154,
+      "name": "My Shot",
+      "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
+    },
+    {
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Nina Cried Power (feat. Mavis Staples)",
+      "url": "https://open.spotify.com/track/7wR5r0KYGXBpyWXCdyYs3F"
+    },
+    {
+      "album": {
+        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3fNVnjSRQ3oW4PUIKvrThu"
+      },
+      "artists": [
+        {
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "name": "Zach Callison",
+          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Deedee Magno Hall",
+          "url": "https://open.spotify.com/artist/5QGswxSXQUHzQoc2r9hVPI"
+        },
+        {
+          "name": "Michaela Dietz",
+          "url": "https://open.spotify.com/artist/3MBBCjjwCjbeikYXPswyZc"
+        },
+        {
+          "name": "Shelby Rabara",
+          "url": "https://open.spotify.com/artist/6fYhIfhfeVpKztZc4Eqag7"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112198,
+      "name": "Peace and Love on the Planet Earth",
+      "url": "https://open.spotify.com/track/6Y2VzNDBghZuYv18sr0AYO"
+    },
+    {
+      "album": {
+        "name": "Amidst the Chaos",
+        "url": "https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228349,
+      "name": "Poetry by Dead Men",
+      "url": "https://open.spotify.com/track/4FR7fPfbZwNFajVLn4Bg4q"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "See America Right",
+      "url": "https://open.spotify.com/track/7hdUxFqRnuX6j1xNu6eQ9B"
+    },
+    {
+      "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336440,
+      "name": "Take The Power Back",
+      "url": "https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186542,
+      "name": "The Schuyler Sisters",
+      "url": "https://open.spotify.com/track/71X7bPDljJHrmEGYCe7kQ8"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Okieriete Onaodowan",
+          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115879,
+      "name": "The Story of Tonight - Reprise",
+      "url": "https://open.spotify.com/track/1CzeuSrm71wHP9qsjg7p3F"
+    },
+    {
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "date_added": "2019-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Wait for It",
+      "url": "https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo"
+    },
+    {
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2019-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/3HHVRiJBKrb9ZFo2aPgn4Z"
 }

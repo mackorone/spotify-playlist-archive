@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,251 likes - 66 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 66 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OG4PTOnovS.md) - [plain]
 | 65 | [This is Amazing Grace](https://open.spotify.com/track/6saLHwRKrJIleVAizsRhoV) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Ian Escalante](https://open.spotify.com/artist/4VdTEoEk67dYLvPALOIXIT) | [Brave](https://open.spotify.com/album/1JM1e0eP26O8eXfLJxYOom) | 4:34 |
 | 66 | [Praise Goes On](https://open.spotify.com/track/7jRcvNpCOtgkoHQO8i4o37) | [Elevation Church Kids](https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5) | [One In a Million](https://open.spotify.com/album/2NV57pQNW911GnUj1koyTj) | 3:09 |
 
-Snapshot ID: `MCxjZDk5ZjE5YjAwZGIwNTYxM2RjMDFjY2E0Y2ZhM2ZjZGJlZTQxMDZh`
+Snapshot ID: `MCxlMjhiNWJhYjY0YzkxZTc5MDExODhjMjY5YTU4YTBjZDkyMTliNWU4`

@@ -4,11 +4,12 @@
 
 > as novas de pop rock br / Foto: TINN
 
-141 songs - 7 hr 11 min
+143 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [144](https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [144](https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo) | 2:19 | 2023-11-10 | 2023-12-16 |
+| [31](https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [31](https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C) | 4:11 | 2024-01-05 |  |
 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 | 2023-07-21 |  |
 | [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 | 2023-11-10 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2023-07-21 | 2023-10-21 |
@@ -26,7 +27,7 @@
 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 | 2023-07-21 | 2023-12-16 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2023-10-20 | 2023-11-11 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 |  |
-| [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-07-21 |  |
+| [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-07-21 | 2024-01-06 |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-07-21 |  |
 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 | 2023-07-21 |  |
 | [CINZEIRO](https://open.spotify.com/track/5NBf1xo9YYuG0zPZDQ1Yca) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [CINZEIRO](https://open.spotify.com/album/1PGgZ935Sqb7fKIZKyuMjQ) | 2:26 | 2023-08-14 |  |
@@ -65,6 +66,7 @@
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-07-21 | 2023-10-21 |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-07-21 |  |
 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 | 2023-10-20 | 2023-11-11 |
+| [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 | 2024-01-05 |  |
 | [honey](https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:53 | 2023-07-21 |  |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-10-20 | 2023-11-11 |
 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2023-07-21 |  |
@@ -112,7 +114,7 @@
 | [RESPIRAR](https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [RESPIRAR](https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy) | 3:05 | 2023-11-17 |  |
 | [SAUDADE DE MIM :\(](https://open.spotify.com/track/776Pu6WRVJgr1UVu2ub0J1) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8), [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [SAUDADE DE MIM :\(](https://open.spotify.com/album/33TVGzMe4QEkVCGFhwHZ6g) | 2:29 | 2023-07-21 | 2023-10-07 |
 | [sempre estrago tudo](https://open.spotify.com/track/1We5W9pJwrKFmFfI0c0v2y) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [SEMPRE ESTRAGO TUDO + CARENTE PRA SEMPRE](https://open.spotify.com/album/3ZMnjFJjAodqKyzFzn55kK) | 3:08 | 2023-07-21 |  |
-| [sen\(ti\)r perdeu a graça](https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [sen\(ti\)r perdeu a graça](https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA) | 2:45 | 2023-07-21 |  |
+| [sen\(ti\)r perdeu a graça](https://open.spotify.com/track/13aQ68ATviZZcPIPkicZwr) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [sen\(ti\)r perdeu a graça](https://open.spotify.com/album/42Kb3As74Bj48lVftnynCA) | 2:45 | 2023-07-21 | 2024-01-06 |
 | [Sexy MF](https://open.spotify.com/track/1ph7yHAVYzeq1MdcYBfAA8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:58 | 2023-10-20 | 2023-11-11 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-07-21 |  |
 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 | 2023-07-21 | 2023-10-26 |

@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-437 songs - 1 day 3 hr 3 min
+438 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,12 +91,13 @@
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 2:50 | 2021-02-17 |  |
 | [Electric \(feat\. Khalid\)](https://open.spotify.com/track/20TYNq9o5sdBAbkCWE9ih7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Electric \(feat\. Khalid\)](https://open.spotify.com/album/4xcjwu5Lyyu0uYTknhuK7X) | 4:06 | 2021-06-15 |  |
 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 | 2021-02-17 |  |
-| [Everlasting](https://open.spotify.com/track/2kb3LGpIdib7c2npWf4Kp3) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Everlasting](https://open.spotify.com/album/5oQ8I2jtpVbCBcbt5FLTel) | 3:49 | 2022-01-05 |  |
+| [Everlasting](https://open.spotify.com/track/2kb3LGpIdib7c2npWf4Kp3) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Everlasting](https://open.spotify.com/album/5oQ8I2jtpVbCBcbt5FLTel) | 3:49 | 2022-01-05 | 2024-01-06 |
 | [Everything Has Changed](https://open.spotify.com/track/7gdwoOmi258QJq0hmQ4hto) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Deluxe Edition\)](https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV) | 4:03 | 2022-07-09 | 2022-11-13 |
 | [Everything Has Changed](https://open.spotify.com/track/3Z1kZKYfRC8iRXnYeC5sCJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 4:05 | 2022-07-09 |  |
 | [Everything Has Changed](https://open.spotify.com/track/5PjfMmF06QtxTPZBZHdhoZ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Deluxe Edition\)](https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29) | 4:05 | 2021-02-17 | 2022-07-29 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2021-02-17 |  |
 | [EX](https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Selfless](https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP) | 3:42 | 2021-02-17 |  |
+| [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 | 2024-01-05 |  |
 | [Eyes Shut](https://open.spotify.com/track/2xzzSkFGtf0w5ZATRYa1Tg) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 3:18 | 2021-02-17 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-02-17 |  |
 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 | 2022-07-09 |  |

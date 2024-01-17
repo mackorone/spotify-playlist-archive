@@ -1,271 +1,1407 @@
 {
-  "2023-04-07": 5,
-  "2023-04-09": 25,
-  "2023-04-10": 32,
-  "2023-04-11": 81,
-  "2023-04-12": 81,
-  "2023-04-13": 157,
-  "2023-04-14": 234,
-  "2023-04-15": 310,
-  "2023-04-16": 373,
-  "2023-04-17": 464,
-  "2023-04-18": 544,
-  "2023-04-19": 614,
-  "2023-04-20": 696,
-  "2023-04-21": 768,
-  "2023-04-22": 826,
-  "2023-04-23": 884,
-  "2023-04-24": 948,
-  "2023-04-25": 1034,
-  "2023-04-26": 1108,
-  "2023-04-27": 1171,
-  "2023-04-28": 1242,
-  "2023-04-29": 1323,
-  "2023-04-30": 1388,
-  "2023-05-01": 1471,
-  "2023-05-02": 1532,
-  "2023-05-03": 1597,
-  "2023-05-04": 1655,
-  "2023-05-05": 1727,
-  "2023-05-06": 1819,
-  "2023-05-07": 1900,
-  "2023-05-08": 1994,
-  "2023-05-09": 2093,
-  "2023-05-10": 2186,
-  "2023-05-11": 2275,
-  "2023-05-12": 2365,
-  "2023-05-13": 2449,
-  "2023-05-14": 2517,
-  "2023-05-15": 2597,
-  "2023-05-16": 2692,
-  "2023-05-17": 2771,
-  "2023-05-18": 2855,
-  "2023-05-19": 2954,
-  "2023-05-20": 3091,
-  "2023-05-21": 3091,
-  "2023-05-22": 3091,
-  "2023-05-23": 3241,
-  "2023-05-24": 3447,
-  "2023-05-25": 3472,
-  "2023-05-26": 3576,
-  "2023-05-27": 3659,
-  "2023-05-28": 3723,
-  "2023-05-29": 3723,
-  "2023-05-30": 3883,
-  "2023-05-31": 3974,
-  "2023-06-01": 4049,
-  "2023-06-02": 4104,
-  "2023-06-03": 4155,
-  "2023-06-04": 4210,
-  "2023-06-05": 4274,
-  "2023-06-06": 4342,
-  "2023-06-07": 4419,
-  "2023-06-08": 4514,
-  "2023-06-09": 4584,
-  "2023-06-10": 4661,
-  "2023-06-11": 4722,
-  "2023-06-12": 4806,
-  "2023-06-13": 4870,
-  "2023-06-14": 4928,
-  "2023-06-15": 4996,
-  "2023-06-16": 5059,
-  "2023-06-17": 5115,
-  "2023-06-18": 5166,
-  "2023-06-19": 5222,
-  "2023-06-20": 5280,
-  "2023-06-21": 5359,
-  "2023-06-22": 5454,
-  "2023-06-23": 5521,
-  "2023-06-24": 5583,
-  "2023-06-25": 5648,
-  "2023-06-26": 5718,
-  "2023-06-27": 5767,
-  "2023-06-28": 5834,
-  "2023-06-29": 5906,
-  "2023-06-30": 5990,
-  "2023-07-01": 6104,
-  "2023-07-02": 6104,
-  "2023-07-03": 6165,
-  "2023-07-04": 6229,
-  "2023-07-05": 6298,
-  "2023-07-06": 6439,
-  "2023-07-07": 6439,
-  "2023-07-08": 6485,
-  "2023-07-09": 6546,
-  "2023-07-10": 6589,
-  "2023-07-11": 6640,
-  "2023-07-12": 6709,
-  "2023-07-13": 6777,
-  "2023-07-14": 6839,
-  "2023-07-15": 6880,
-  "2023-07-16": 6948,
-  "2023-07-17": 7020,
-  "2023-07-18": 7084,
-  "2023-07-19": 7147,
-  "2023-07-20": 7216,
-  "2023-07-21": 7275,
-  "2023-07-22": 7344,
-  "2023-07-23": 7405,
-  "2023-07-24": 7486,
-  "2023-07-25": 7558,
-  "2023-07-26": 7622,
-  "2023-07-27": 7695,
-  "2023-07-28": 7775,
-  "2023-07-29": 7829,
-  "2023-07-30": 7881,
-  "2023-07-31": 7951,
-  "2023-08-01": 8011,
-  "2023-08-02": 8090,
-  "2023-08-03": 8191,
-  "2023-08-04": 8287,
-  "2023-08-05": 8349,
-  "2023-08-06": 8499,
-  "2023-08-07": 8499,
-  "2023-08-08": 8567,
-  "2023-08-09": 8635,
-  "2023-08-10": 8704,
-  "2023-08-11": 8773,
-  "2023-08-12": 8840,
-  "2023-08-13": 8901,
-  "2023-08-14": 8956,
-  "2023-08-15": 9093,
-  "2023-08-16": 9093,
-  "2023-08-17": 9162,
-  "2023-08-18": 9216,
-  "2023-08-19": 9245,
-  "2023-08-20": 9291,
-  "2023-08-21": 9344,
-  "2023-08-22": 9395,
-  "2023-08-23": 9460,
-  "2023-08-24": 9520,
-  "2023-08-25": 9580,
-  "2023-08-26": 9666,
-  "2023-08-27": 9721,
-  "2023-08-28": 9790,
-  "2023-08-29": 9859,
-  "2023-08-30": 9935,
-  "2023-08-31": 10016,
-  "2023-09-01": 10225,
-  "2023-09-02": 10225,
-  "2023-09-03": 10296,
-  "2023-09-04": 10425,
-  "2023-09-05": 10541,
-  "2023-09-06": 10646,
-  "2023-09-07": 10737,
-  "2023-09-08": 10837,
-  "2023-09-09": 10930,
-  "2023-09-10": 11027,
-  "2023-09-11": 11146,
-  "2023-09-12": 11233,
-  "2023-09-13": 11360,
-  "2023-09-14": 11458,
-  "2023-09-15": 11559,
-  "2023-09-16": 11650,
-  "2023-09-17": 11737,
-  "2023-09-18": 11851,
-  "2023-09-19": 11951,
-  "2023-09-20": 12043,
-  "2023-09-21": 12139,
-  "2023-09-22": 12232,
-  "2023-09-23": 12388,
-  "2023-09-24": 12545,
-  "2023-09-25": 12717,
-  "2023-09-26": 12859,
-  "2023-09-27": 12920,
-  "2023-09-28": 13038,
-  "2023-09-29": 13148,
-  "2023-09-30": 13234,
-  "2023-10-01": 13328,
-  "2023-10-02": 13432,
-  "2023-10-03": 13525,
-  "2023-10-04": 13631,
-  "2023-10-05": 13735,
-  "2023-10-06": 13817,
-  "2023-10-07": 13911,
-  "2023-10-08": 13997,
-  "2023-10-09": 14105,
-  "2023-10-10": 14197,
-  "2023-10-11": 14375,
-  "2023-10-12": 14375,
-  "2023-10-13": 14461,
-  "2023-10-14": 14551,
-  "2023-10-15": 14649,
-  "2023-10-16": 14771,
-  "2023-10-17": 14860,
-  "2023-10-18": 14957,
-  "2023-10-19": 15052,
-  "2023-10-20": 15137,
-  "2023-10-21": 15229,
-  "2023-10-22": 15319,
-  "2023-10-23": 15410,
-  "2023-10-24": 15510,
-  "2023-10-25": 15604,
-  "2023-10-26": 15728,
-  "2023-10-27": 15830,
-  "2023-10-28": 15916,
-  "2023-10-29": 15990,
-  "2023-10-30": 16208,
-  "2023-10-31": 16208,
-  "2023-11-01": 16313,
-  "2023-11-02": 16429,
-  "2023-11-03": 16517,
-  "2023-11-04": 16605,
-  "2023-11-05": 16684,
-  "2023-11-06": 16765,
-  "2023-11-07": 16878,
-  "2023-11-08": 16978,
-  "2023-11-09": 17075,
-  "2023-11-10": 17179,
-  "2023-11-11": 17265,
-  "2023-11-12": 17332,
-  "2023-11-13": 17441,
-  "2023-11-14": 17556,
-  "2023-11-15": 17556,
-  "2023-11-16": 17762,
-  "2023-11-17": 17976,
-  "2023-11-18": 17976,
-  "2023-11-19": 18061,
-  "2023-11-20": 18164,
-  "2023-11-21": 18264,
-  "2023-11-22": 18375,
-  "2023-11-23": 18465,
-  "2023-11-24": 18557,
-  "2023-11-25": 18638,
-  "2023-11-26": 18722,
-  "2023-11-27": 18811,
-  "2023-11-28": 18915,
-  "2023-11-29": 19124,
-  "2023-11-30": 19124,
-  "2023-12-01": 19246,
-  "2023-12-02": 19334,
-  "2023-12-03": 19449,
-  "2023-12-04": 19562,
-  "2023-12-05": 19697,
-  "2023-12-06": 19828,
-  "2023-12-07": 19927,
-  "2023-12-08": 20016,
-  "2023-12-09": 20169,
-  "2023-12-10": 20298,
-  "2023-12-11": 20387,
-  "2023-12-12": 20488,
-  "2023-12-13": 20583,
-  "2023-12-14": 20665,
-  "2023-12-15": 20703,
-  "2023-12-16": 20757,
-  "2023-12-17": 20801,
-  "2023-12-18": 20852,
-  "2023-12-19": 20917,
-  "2023-12-20": 20997,
-  "2023-12-21": 21055,
-  "2023-12-22": 21095,
-  "2023-12-23": 21143,
-  "2023-12-24": 21180,
-  "2023-12-25": 21223,
-  "2023-12-26": 21283,
-  "2023-12-27": 21362,
-  "2023-12-30": 21570,
-  "2023-12-31": 21632,
-  "2024-01-01": 21726,
-  "2024-01-02": 21803,
-  "2024-01-03": 21886
+  "2024-01-17": 22899,
+  "date_first_scraped": "2023-04-07",
+  "description": "Knees go down and the prayers go up",
+  "name": "On Bended Knees",
+  "tracks": [
+    {
+      "album": {
+        "name": "All I Have Is You",
+        "url": "https://open.spotify.com/album/6Rhao26zetb6OYBlMM7hqf"
+      },
+      "artists": [
+        {
+          "name": "Mr Mekoyo",
+          "url": "https://open.spotify.com/artist/5atQbVe5DeUlSlDCamrC3n"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 340807,
+      "name": "All I Have Is You",
+      "url": "https://open.spotify.com/track/6SSydoQ1h6OPTJ4JxoSRAS"
+    },
+    {
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317204,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
+    },
+    {
+      "album": {
+        "name": "Suddenly + Amazing God (Double Single)",
+        "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296147,
+      "name": "Amazing God",
+      "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 317675,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/5EZB6od9Xce4q2WinCfhIM"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4bX0rleUG0RmqtdsI9A45P"
+    },
+    {
+      "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462000,
+      "name": "Awurade Kasa",
+      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
+    },
+    {
+      "album": {
+        "name": "Lost in His Glory",
+        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 355800,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY"
+    },
+    {
+      "album": {
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "album": {
+        "name": "Lost in His Glory",
+        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190946,
+      "name": "Covenant Keeping God",
+      "url": "https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo"
+    },
+    {
+      "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "album": {
+        "name": "Dependable God (Medley)",
+        "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232071,
+      "name": "Dependable God (Medley)",
+      "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
+    },
+    {
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507376,
+      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
+      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
+    },
+    {
+      "album": {
+        "name": "Miracle Worker (Live)",
+        "url": "https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-27",
+      "duration_ms": 507400,
+      "name": "Excess Love - Live",
+      "url": "https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL"
+    },
+    {
+      "album": {
+        "name": "Journey To The Deep (Prayer Chants)",
+        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131640,
+      "name": "Eyes of The Spirit Chant (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
+    },
+    {
+      "album": {
+        "name": "Fathered by the best",
+        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285354,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM"
+    },
+    {
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657059,
+      "name": "Fragrance to Fire",
+      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+    },
+    {
+      "album": {
+        "name": "Xperience with Love",
+        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586443,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
+    },
+    {
+      "album": {
+        "name": "Yahwey",
+        "url": "https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x"
+      },
+      "artists": [
+        {
+          "name": "Uwana Etuk",
+          "url": "https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 480079,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p"
+    },
+    {
+      "album": {
+        "name": "I No Dey Barb (Live)",
+        "url": "https://open.spotify.com/album/2Txpw7FNGiW196XcEyaymm"
+      },
+      "artists": [
+        {
+          "name": "Vessel Chordrick",
+          "url": "https://open.spotify.com/artist/6EGiCuki3lR2xk4PuoGCbr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 503379,
+      "name": "I No Dey Barb - Live",
+      "url": "https://open.spotify.com/track/0uciaLe3hi9e3DajkIfgQ9"
+    },
+    {
+      "album": {
+        "name": "The Name of Jesus: Sinach Live in Concert",
+        "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 444630,
+      "name": "I Stand Amazed (Live)",
+      "url": "https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26"
+    },
+    {
+      "album": {
+        "name": "The Name of Jesus (Live in Concert)",
+        "url": "https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446000,
+      "name": "I Stand Amazed - Live in Concert",
+      "url": "https://open.spotify.com/track/01kooC8X78M0UE81EtZPYX"
+    },
+    {
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319346,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
+    },
+    {
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-30",
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "album": {
+        "name": "The Son of God (& Imela)",
+        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Enitan Adaba",
+          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354572,
+      "name": "Imela (feat. Enitan Adaba)",
+      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
+    },
+    {
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
+    },
+    {
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB"
+      },
+      "artists": [
+        {
+          "name": "TESTIMONY JAGA",
+          "url": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-13",
+      "duration_ms": 530381,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-17",
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
+    },
+    {
+      "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "album": {
+        "name": "Life and Worship Chapter 1",
+        "url": "https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X"
+      },
+      "artists": [
+        {
+          "name": "Victor Olayeni",
+          "url": "https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 257645,
+      "name": "Kabi O Osi O",
+      "url": "https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2"
+    },
+    {
+      "album": {
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "album": {
+        "name": "Kosi",
+        "url": "https://open.spotify.com/album/6dq8hFqLFD216W2jcwvVC4"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965224,
+      "name": "Kosi",
+      "url": "https://open.spotify.com/track/1dEluidOg9H7NhHkJlcMiM"
+    },
+    {
+      "album": {
+        "name": "Kumama",
+        "url": "https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6"
+      },
+      "artists": [
+        {
+          "name": "ABOSEDE",
+          "url": "https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92316,
+      "name": "Kumama",
+      "url": "https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA"
+    },
+    {
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-24",
+      "duration_ms": 455206,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I"
+    },
+    {
+      "album": {
+        "name": "Love in My Heart",
+        "url": "https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq"
+      },
+      "artists": [
+        {
+          "name": "Elijah Oyelade",
+          "url": "https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 430320,
+      "name": "Love in My Heart",
+      "url": "https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH"
+    },
+    {
+      "album": {
+        "name": "Master of the World",
+        "url": "https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 336065,
+      "name": "Master of the World",
+      "url": "https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF"
+    },
+    {
+      "album": {
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 331990,
+      "name": "Metease yi",
+      "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "album": {
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
+      },
+      "artists": [
+        {
+          "name": "Glowreeyah Braimah",
+          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290530,
+      "name": "Miracle Worker (feat. Nathaniel Bassey)",
+      "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
+    },
+    {
+      "album": {
+        "name": "Unlimited Verse 2",
+        "url": "https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281093,
+      "name": "Mma Mma",
+      "url": "https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 455418,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1ECetasD2CDQ9sCxlX9y6G"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5Eqt1I1I5S1yWgqj1TCysK"
+    },
+    {
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295262,
+      "name": "More Than Gold",
+      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
+    },
+    {
+      "album": {
+        "name": "My Altar (Cover)",
+        "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417572,
+      "name": "My Altar (Cover)",
+      "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
+    },
+    {
+      "album": {
+        "name": "God of Love",
+        "url": "https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Love Song",
+          "url": "https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341226,
+      "name": "No Other God",
+      "url": "https://open.spotify.com/track/5erufNGesKhTwtxeJa8wZD"
+    },
+    {
+      "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552855,
+      "name": "Obinigwe",
+      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
+    },
+    {
+      "album": {
+        "name": "Olorun To Da Awon Oke Igbani",
+        "url": "https://open.spotify.com/album/4dUydP6zld6up2WophkzOB"
+      },
+      "artists": [
+        {
+          "name": "Remi Collins",
+          "url": "https://open.spotify.com/artist/6abZcudasOy2dIeZhAtuRU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 202500,
+      "name": "Olorun To Da Awon Oke Igbani",
+      "url": "https://open.spotify.com/track/2ERPRtRjsz7roLK29Bu9b0"
+    },
+    {
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394170,
+      "name": "Omekannaya",
+      "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
+    },
+    {
+      "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+    },
+    {
+      "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Micah Stampley",
+          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366497,
+      "name": "Onise Iyanu (feat. Micah Stampley)",
+      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
+    },
+    {
+      "album": {
+        "name": "Onye (Here by Your Grace)",
+        "url": "https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496285,
+      "name": "Onye (Here by Your Grace)",
+      "url": "https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY"
+    },
+    {
+      "album": {
+        "name": "Out of My Belly (Live)",
+        "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        },
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 864287,
+      "name": "Out of My Belly - Live",
+      "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
+    },
+    {
+      "album": {
+        "name": "Psalm 91",
+        "url": "https://open.spotify.com/album/2YHyz9WLok9J3TIczP37Tk"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423471,
+      "name": "Psalm 91",
+      "url": "https://open.spotify.com/track/0hW0946E5rXXNbmABvEKco"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 187317,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD"
+    },
+    {
+      "album": {
+        "name": "Ruach Hakodesh",
+        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552000,
+      "name": "Ruach Hakodesh",
+      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+    },
+    {
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454829,
+      "name": "See What the Lord Has Done",
+      "url": "https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt"
+    },
+    {
+      "album": {
+        "name": "Fearless Wrshp",
+        "url": "https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373613,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7"
+    },
+    {
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
+      "album": {
+        "name": "Take over (Soaking)",
+        "url": "https://open.spotify.com/album/2iXLwgho6Ld7PQDurpDXNG"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187128,
+      "name": "Take over (Soaking)",
+      "url": "https://open.spotify.com/track/35ftVLfBb19KBacBlWzAzw"
+    },
+    {
+      "album": {
+        "name": "Testimony Worship",
+        "url": "https://open.spotify.com/album/57GsttRZ4CBjyW9Ab5EUPs"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535295,
+      "name": "Testimony Worship",
+      "url": "https://open.spotify.com/track/7dtW1HbJwH2XFugoTyoB9T"
+    },
+    {
+      "album": {
+        "name": "Testimony Worship Medley",
+        "url": "https://open.spotify.com/album/2BuAF8tPTeBEuB4Az545gX"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 535296,
+      "name": "Testimony Worship Medley",
+      "url": "https://open.spotify.com/track/1Z1U6teGq96pTchS4pix5B"
+    },
+    {
+      "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545506,
+      "name": "The Kadosh (Live)",
+      "url": "https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb"
+    },
+    {
+      "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 526421,
+      "name": "There Is a Place",
+      "url": "https://open.spotify.com/track/64rX585EFtuNmqIwPERF7y"
+    },
+    {
+      "album": {
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
+    },
+    {
+      "album": {
+        "name": "TOBECHUKWU",
+        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487711,
+      "name": "TOBECHUKWU",
+      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+    },
+    {
+      "album": {
+        "name": "Wonders (Live)",
+        "url": "https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ"
+      },
+      "artists": [
+        {
+          "name": "Jedidiaah",
+          "url": "https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 581147,
+      "name": "Wonders - Live",
+      "url": "https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+      },
+      "artists": [
+        {
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324154,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ"
+    },
+    {
+      "album": {
+        "name": "A Sound from Heaven",
+        "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        },
+        {
+          "name": "Danny Nettey",
+          "url": "https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK"
+        },
+        {
+          "name": "Emmit Jim Konadu",
+          "url": "https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx"
+        },
+        {
+          "name": "Negar Wujanji",
+          "url": "https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402782,
+      "name": "Yes You Are the Lord",
+      "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+    },
+    {
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2AVLsx6wOL64vO5bd01g78"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533914,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1CCmVTHzUjJT70rcyFDCpM"
+    },
+    {
+      "album": {
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318066,
+      "name": "You I Live For",
+      "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Trs8959dKn"
 }

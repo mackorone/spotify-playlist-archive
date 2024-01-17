@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
@@ -178,10 +178,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
+    },
+    {
+      "album": {
+        "name": "The Smile Sessions",
+        "url": "https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 47786,
+      "name": "Barnyard",
+      "url": "https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp"
     },
     {
       "album": {
@@ -416,7 +434,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 189502,
       "name": "Christmas Eve - Instrumental Mix",
       "url": "https://open.spotify.com/track/4unPoTl8WZeUouTgSjTMmj"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 161813,
       "name": "Don't Go Near The Water - Remastered 2009",
       "url": "https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 179745,
       "name": "Getcha Back",
       "url": "https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 134133,
       "name": "In My Room - Remastered",
       "url": "https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9"
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 167266,
       "name": "Please Let Me Wonder - Remastered",
       "url": "https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": "2024-01-17",
       "duration_ms": 149013,
       "name": "Rock And Roll Music - Remastered 2012",
       "url": "https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 173933,
       "name": "The Warmth Of The Sun - Remastered",
       "url": "https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z"

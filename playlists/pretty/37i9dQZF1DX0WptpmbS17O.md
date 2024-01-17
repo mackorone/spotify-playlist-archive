@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 
 > I'd come back if you'd just call
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,331 likes - 82 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,004 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WptpmbS17O.md) - [plain]
 | 81 | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej), [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S) | [Would You Mind Please Pulling Me Close?](https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu) | 4:03 |
 | 82 | [Mend](https://open.spotify.com/track/4cPfB5tsbx3qLOAguHIsFS) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:53 |
 
-Snapshot ID: `MCw4Yzk0ODEwMjU0YTM4MWJkZTA2Y2IyMzIyNjI0YmE1OTRhMjE2YjJk`
+Snapshot ID: `MCw1MTM2NjEzODI0YmZlYzg4NjgwNGQyY2JkMzFmYTE3M2E3YTY3M2Rj`

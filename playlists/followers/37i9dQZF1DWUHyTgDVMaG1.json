@@ -1,735 +1,1051 @@
 {
-  "2021-12-25": 229933,
-  "2021-12-26": 229988,
-  "2021-12-27": 230140,
-  "2021-12-28": 230140,
-  "2021-12-29": 230219,
-  "2021-12-30": 230267,
-  "2021-12-31": 230341,
-  "2022-01-01": 230517,
-  "2022-01-02": 230543,
-  "2022-01-03": 230584,
-  "2022-01-04": 230667,
-  "2022-01-05": 230724,
-  "2022-01-06": 230776,
-  "2022-01-07": 230850,
-  "2022-01-08": 230996,
-  "2022-01-09": 231002,
-  "2022-01-10": 231065,
-  "2022-01-11": 231065,
-  "2022-01-12": 231133,
-  "2022-01-13": 231133,
-  "2022-01-14": 231133,
-  "2022-01-15": 231133,
-  "2022-01-16": 231133,
-  "2022-01-17": 231133,
-  "2022-01-18": 231133,
-  "2022-01-19": 231133,
-  "2022-01-20": 231133,
-  "2022-01-21": 231133,
-  "2022-01-22": 231133,
-  "2022-01-23": 231133,
-  "2022-01-24": 231133,
-  "2022-01-25": 231133,
-  "2022-01-26": 231133,
-  "2022-01-27": 231133,
-  "2022-01-28": 231133,
-  "2022-01-29": 231133,
-  "2022-01-30": 231133,
-  "2022-01-31": 231133,
-  "2022-02-01": 231133,
-  "2022-02-02": 231133,
-  "2022-02-03": 231133,
-  "2022-02-04": 231133,
-  "2022-02-05": 231133,
-  "2022-02-06": 231133,
-  "2022-02-07": 231133,
-  "2022-02-08": 231133,
-  "2022-02-09": 231133,
-  "2022-02-10": 231133,
-  "2022-02-11": 231133,
-  "2022-02-12": 231133,
-  "2022-02-13": 231133,
-  "2022-02-14": 231133,
-  "2022-02-15": 231133,
-  "2022-02-16": 231133,
-  "2022-02-17": 231133,
-  "2022-02-18": 231133,
-  "2022-02-19": 231133,
-  "2022-02-20": 231133,
-  "2022-02-21": 231133,
-  "2022-02-22": 231133,
-  "2022-02-23": 231133,
-  "2022-02-24": 231133,
-  "2022-02-25": 231133,
-  "2022-02-26": 231133,
-  "2022-02-27": 231133,
-  "2022-02-28": 231133,
-  "2022-03-01": 231133,
-  "2022-03-02": 231133,
-  "2022-03-03": 231133,
-  "2022-03-04": 231133,
-  "2022-03-05": 231133,
-  "2022-03-06": 231133,
-  "2022-03-07": 231133,
-  "2022-03-08": 231133,
-  "2022-03-09": 231133,
-  "2022-03-10": 231133,
-  "2022-03-11": 231133,
-  "2022-03-12": 231133,
-  "2022-03-13": 231133,
-  "2022-03-14": 231133,
-  "2022-03-15": 231133,
-  "2022-03-16": 231133,
-  "2022-03-17": 231133,
-  "2022-03-18": 231133,
-  "2022-03-19": 231133,
-  "2022-03-20": 231133,
-  "2022-03-21": 231133,
-  "2022-03-22": 231133,
-  "2022-03-23": 231133,
-  "2022-03-24": 231133,
-  "2022-03-25": 231133,
-  "2022-03-26": 231133,
-  "2022-03-27": 231133,
-  "2022-03-28": 231133,
-  "2022-03-30": 231133,
-  "2022-03-31": 231133,
-  "2022-04-01": 231133,
-  "2022-04-02": 231133,
-  "2022-04-03": 231133,
-  "2022-04-04": 231133,
-  "2022-04-05": 231133,
-  "2022-04-06": 231133,
-  "2022-04-07": 231133,
-  "2022-04-08": 231133,
-  "2022-04-09": 231133,
-  "2022-04-10": 231133,
-  "2022-04-11": 231133,
-  "2022-04-12": 231133,
-  "2022-04-13": 231133,
-  "2022-04-14": 231133,
-  "2022-04-15": 231133,
-  "2022-04-16": 231133,
-  "2022-04-17": 231133,
-  "2022-04-18": 231133,
-  "2022-04-19": 231133,
-  "2022-04-20": 231133,
-  "2022-04-21": 231133,
-  "2022-04-22": 231133,
-  "2022-04-23": 231133,
-  "2022-04-24": 231133,
-  "2022-04-25": 231133,
-  "2022-04-26": 231133,
-  "2022-04-27": 231133,
-  "2022-04-28": 231133,
-  "2022-04-29": 231133,
-  "2022-04-30": 231133,
-  "2022-05-01": 231133,
-  "2022-05-02": 231133,
-  "2022-05-03": 231133,
-  "2022-05-04": 231133,
-  "2022-05-05": 231133,
-  "2022-05-06": 231133,
-  "2022-05-07": 231133,
-  "2022-05-08": 231133,
-  "2022-05-09": 231133,
-  "2022-05-10": 231133,
-  "2022-05-11": 231133,
-  "2022-05-12": 231133,
-  "2022-05-13": 231133,
-  "2022-05-14": 231133,
-  "2022-05-15": 231133,
-  "2022-05-16": 231133,
-  "2022-05-17": 231133,
-  "2022-05-18": 231133,
-  "2022-05-19": 231133,
-  "2022-05-20": 231133,
-  "2022-05-21": 231133,
-  "2022-05-22": 231133,
-  "2022-05-23": 231133,
-  "2022-05-24": 231133,
-  "2022-05-25": 231133,
-  "2022-05-26": 231133,
-  "2022-05-27": 231133,
-  "2022-05-28": 231133,
-  "2022-05-29": 231133,
-  "2022-05-30": 231133,
-  "2022-05-31": 231133,
-  "2022-06-01": 231133,
-  "2022-06-02": 231133,
-  "2022-06-03": 231133,
-  "2022-06-04": 231133,
-  "2022-06-05": 231133,
-  "2022-06-06": 231133,
-  "2022-06-07": 231133,
-  "2022-06-08": 231133,
-  "2022-06-09": 231133,
-  "2022-06-10": 231133,
-  "2022-06-11": 231133,
-  "2022-06-12": 231133,
-  "2022-06-13": 231133,
-  "2022-06-14": 231133,
-  "2022-06-15": 231133,
-  "2022-06-16": 231133,
-  "2022-06-17": 231133,
-  "2022-06-18": 231133,
-  "2022-06-19": 231133,
-  "2022-06-20": 231133,
-  "2022-06-21": 231133,
-  "2022-06-22": 231133,
-  "2022-06-23": 231133,
-  "2022-06-24": 231133,
-  "2022-06-25": 231133,
-  "2022-06-26": 231133,
-  "2022-06-27": 231133,
-  "2022-06-28": 231133,
-  "2022-06-29": 231133,
-  "2022-06-30": 231133,
-  "2022-07-01": 231133,
-  "2022-07-02": 231133,
-  "2022-07-03": 231133,
-  "2022-07-04": 231133,
-  "2022-07-05": 231133,
-  "2022-07-06": 231133,
-  "2022-07-07": 231133,
-  "2022-07-08": 231133,
-  "2022-07-09": 231133,
-  "2022-07-10": 231133,
-  "2022-07-11": 231133,
-  "2022-07-12": 231133,
-  "2022-07-13": 231133,
-  "2022-07-14": 231133,
-  "2022-07-15": 231133,
-  "2022-07-16": 231133,
-  "2022-07-17": 231133,
-  "2022-07-18": 231133,
-  "2022-07-19": 231133,
-  "2022-07-20": 231133,
-  "2022-07-21": 231133,
-  "2022-07-22": 231133,
-  "2022-07-23": 231133,
-  "2022-07-24": 231133,
-  "2022-07-25": 231133,
-  "2022-07-26": 231133,
-  "2022-07-27": 231133,
-  "2022-07-28": 231133,
-  "2022-07-29": 231133,
-  "2022-07-30": 231133,
-  "2022-07-31": 231133,
-  "2022-08-01": 231133,
-  "2022-08-02": 231133,
-  "2022-08-03": 231133,
-  "2022-08-04": 231133,
-  "2022-08-05": 231133,
-  "2022-08-06": 231133,
-  "2022-08-07": 231133,
-  "2022-08-08": 231133,
-  "2022-08-09": 231133,
-  "2022-08-10": 231133,
-  "2022-08-11": 231133,
-  "2022-08-12": 231133,
-  "2022-08-13": 231133,
-  "2022-08-14": 231133,
-  "2022-08-15": 231133,
-  "2022-08-16": 231133,
-  "2022-08-17": 231133,
-  "2022-08-18": 231133,
-  "2022-08-19": 231133,
-  "2022-08-20": 231133,
-  "2022-08-21": 231133,
-  "2022-08-22": 231133,
-  "2022-08-23": 231133,
-  "2022-08-24": 231133,
-  "2022-08-25": 231133,
-  "2022-08-26": 231133,
-  "2022-08-27": 231133,
-  "2022-08-28": 231133,
-  "2022-08-29": 231133,
-  "2022-08-30": 231133,
-  "2022-08-31": 231133,
-  "2022-09-01": 231133,
-  "2022-09-02": 231133,
-  "2022-09-03": 231133,
-  "2022-09-04": 231133,
-  "2022-09-05": 231133,
-  "2022-09-06": 231133,
-  "2022-09-07": 231133,
-  "2022-09-09": 231133,
-  "2022-09-10": 231133,
-  "2022-09-11": 231133,
-  "2022-09-12": 231133,
-  "2022-09-13": 231133,
-  "2022-09-15": 231133,
-  "2022-09-16": 231133,
-  "2022-09-17": 231133,
-  "2022-09-18": 231133,
-  "2022-09-19": 231133,
-  "2022-09-20": 231133,
-  "2022-09-21": 231133,
-  "2022-09-22": 231133,
-  "2022-09-23": 231133,
-  "2022-09-24": 231133,
-  "2022-09-25": 231133,
-  "2022-09-26": 231133,
-  "2022-09-27": 231133,
-  "2022-09-28": 231133,
-  "2022-09-29": 231133,
-  "2022-09-30": 231133,
-  "2022-10-01": 231133,
-  "2022-10-02": 231133,
-  "2022-10-03": 231133,
-  "2022-10-04": 231133,
-  "2022-10-05": 231133,
-  "2022-10-06": 231133,
-  "2022-10-07": 231133,
-  "2022-10-08": 231133,
-  "2022-10-09": 231133,
-  "2022-10-10": 231133,
-  "2022-10-11": 231133,
-  "2022-10-12": 231133,
-  "2022-10-13": 231133,
-  "2022-10-14": 231133,
-  "2022-10-15": 231133,
-  "2022-10-16": 231133,
-  "2022-10-17": 231133,
-  "2022-10-18": 231133,
-  "2022-10-19": 231133,
-  "2022-10-20": 231133,
-  "2022-10-21": 231133,
-  "2022-10-22": 231133,
-  "2022-10-23": 231133,
-  "2022-10-24": 231133,
-  "2022-10-25": 231133,
-  "2022-10-26": 231133,
-  "2022-10-27": 231133,
-  "2022-10-28": 231133,
-  "2022-10-29": 231133,
-  "2022-10-30": 231133,
-  "2022-10-31": 231133,
-  "2022-11-01": 231133,
-  "2022-11-02": 231133,
-  "2022-11-03": 231133,
-  "2022-11-04": 231133,
-  "2022-11-05": 231133,
-  "2022-11-06": 231133,
-  "2022-11-07": 231133,
-  "2022-11-08": 231133,
-  "2022-11-09": 231133,
-  "2022-11-10": 231133,
-  "2022-11-11": 231133,
-  "2022-11-12": 231133,
-  "2022-11-13": 231133,
-  "2022-11-14": 231133,
-  "2022-11-15": 231133,
-  "2022-11-16": 231133,
-  "2022-11-17": 231133,
-  "2022-11-18": 231133,
-  "2022-11-19": 231133,
-  "2022-11-20": 231133,
-  "2022-11-21": 231133,
-  "2022-11-22": 231133,
-  "2022-11-23": 231133,
-  "2022-11-24": 231133,
-  "2022-11-25": 231133,
-  "2022-11-26": 231133,
-  "2022-11-27": 231133,
-  "2022-11-28": 231133,
-  "2022-11-29": 231133,
-  "2022-11-30": 231133,
-  "2022-12-01": 231133,
-  "2022-12-02": 231133,
-  "2022-12-03": 231133,
-  "2022-12-04": 231133,
-  "2022-12-05": 231133,
-  "2022-12-06": 231133,
-  "2022-12-07": 231133,
-  "2022-12-08": 231133,
-  "2022-12-09": 231133,
-  "2022-12-10": 231133,
-  "2022-12-11": 231133,
-  "2022-12-12": 231133,
-  "2022-12-13": 231133,
-  "2022-12-14": 231133,
-  "2022-12-15": 231133,
-  "2022-12-16": 231133,
-  "2022-12-17": 231133,
-  "2022-12-18": 231133,
-  "2022-12-19": 231133,
-  "2022-12-20": 231133,
-  "2022-12-21": 231133,
-  "2022-12-22": 231133,
-  "2022-12-24": 231133,
-  "2022-12-25": 231133,
-  "2022-12-26": 231133,
-  "2022-12-27": 231133,
-  "2022-12-28": 231133,
-  "2022-12-29": 231133,
-  "2022-12-30": 231133,
-  "2022-12-31": 231133,
-  "2023-01-01": 231133,
-  "2023-01-02": 231133,
-  "2023-01-03": 231133,
-  "2023-01-04": 231133,
-  "2023-01-05": 231133,
-  "2023-01-06": 231133,
-  "2023-01-07": 231133,
-  "2023-01-08": 231133,
-  "2023-01-09": 231133,
-  "2023-01-10": 231133,
-  "2023-01-11": 231133,
-  "2023-01-12": 231133,
-  "2023-01-13": 231133,
-  "2023-01-14": 231133,
-  "2023-01-15": 231133,
-  "2023-01-16": 231133,
-  "2023-01-17": 231133,
-  "2023-01-18": 231133,
-  "2023-01-19": 231133,
-  "2023-01-20": 231133,
-  "2023-01-21": 231133,
-  "2023-01-22": 231133,
-  "2023-01-23": 231133,
-  "2023-01-24": 231133,
-  "2023-01-25": 231133,
-  "2023-01-26": 231133,
-  "2023-01-27": 231133,
-  "2023-01-28": 231133,
-  "2023-01-29": 231133,
-  "2023-01-30": 231133,
-  "2023-01-31": 231133,
-  "2023-02-01": 231133,
-  "2023-02-02": 231133,
-  "2023-02-03": 231133,
-  "2023-02-04": 231133,
-  "2023-02-05": 231133,
-  "2023-02-06": 231133,
-  "2023-02-07": 231133,
-  "2023-02-08": 231133,
-  "2023-02-09": 231133,
-  "2023-02-10": 231133,
-  "2023-02-11": 231133,
-  "2023-02-12": 231133,
-  "2023-02-13": 231133,
-  "2023-02-14": 231133,
-  "2023-02-15": 231133,
-  "2023-02-16": 231133,
-  "2023-02-17": 231133,
-  "2023-02-18": 231133,
-  "2023-02-19": 231133,
-  "2023-02-20": 231133,
-  "2023-02-21": 231133,
-  "2023-02-22": 231133,
-  "2023-02-23": 231133,
-  "2023-02-24": 231133,
-  "2023-02-25": 231133,
-  "2023-02-26": 231133,
-  "2023-02-27": 231133,
-  "2023-02-28": 231133,
-  "2023-03-01": 231133,
-  "2023-03-02": 231133,
-  "2023-03-03": 231133,
-  "2023-03-04": 231133,
-  "2023-03-05": 231133,
-  "2023-03-06": 231133,
-  "2023-03-07": 231133,
-  "2023-03-08": 231133,
-  "2023-03-09": 231133,
-  "2023-03-10": 231133,
-  "2023-03-11": 231133,
-  "2023-03-12": 231133,
-  "2023-03-13": 231133,
-  "2023-03-14": 231133,
-  "2023-03-15": 231133,
-  "2023-03-16": 231133,
-  "2023-03-17": 231133,
-  "2023-03-18": 231133,
-  "2023-03-19": 231133,
-  "2023-03-20": 231133,
-  "2023-03-21": 231133,
-  "2023-03-22": 231133,
-  "2023-03-23": 231133,
-  "2023-03-24": 231133,
-  "2023-03-25": 231133,
-  "2023-03-26": 231133,
-  "2023-03-27": 231133,
-  "2023-03-28": 231133,
-  "2023-03-29": 231133,
-  "2023-03-30": 231133,
-  "2023-03-31": 231133,
-  "2023-04-01": 231133,
-  "2023-04-02": 231133,
-  "2023-04-03": 231133,
-  "2023-04-04": 231133,
-  "2023-04-05": 231133,
-  "2023-04-06": 231133,
-  "2023-04-07": 231133,
-  "2023-04-09": 231133,
-  "2023-04-10": 231133,
-  "2023-04-11": 231133,
-  "2023-04-12": 231133,
-  "2023-04-13": 231133,
-  "2023-04-14": 231133,
-  "2023-04-15": 231133,
-  "2023-04-16": 231133,
-  "2023-04-17": 231133,
-  "2023-04-18": 231133,
-  "2023-04-19": 231133,
-  "2023-04-20": 231133,
-  "2023-04-21": 231133,
-  "2023-04-22": 231133,
-  "2023-04-23": 231133,
-  "2023-04-24": 231133,
-  "2023-04-25": 231133,
-  "2023-04-26": 231133,
-  "2023-04-27": 231133,
-  "2023-04-28": 231133,
-  "2023-04-29": 231133,
-  "2023-04-30": 231133,
-  "2023-05-01": 231133,
-  "2023-05-02": 231133,
-  "2023-05-03": 231133,
-  "2023-05-04": 231133,
-  "2023-05-05": 231133,
-  "2023-05-06": 231133,
-  "2023-05-07": 231133,
-  "2023-05-08": 231133,
-  "2023-05-09": 231133,
-  "2023-05-10": 231133,
-  "2023-05-11": 231133,
-  "2023-05-12": 231133,
-  "2023-05-13": 231133,
-  "2023-05-14": 231133,
-  "2023-05-15": 231133,
-  "2023-05-16": 231133,
-  "2023-05-17": 231133,
-  "2023-05-18": 231133,
-  "2023-05-19": 231133,
-  "2023-05-20": 231133,
-  "2023-05-21": 231133,
-  "2023-05-22": 231133,
-  "2023-05-23": 231133,
-  "2023-05-24": 231133,
-  "2023-05-25": 231133,
-  "2023-05-26": 231133,
-  "2023-05-27": 231133,
-  "2023-05-28": 231133,
-  "2023-05-29": 231133,
-  "2023-05-30": 231133,
-  "2023-05-31": 231133,
-  "2023-06-01": 231133,
-  "2023-06-02": 231133,
-  "2023-06-03": 231133,
-  "2023-06-04": 231133,
-  "2023-06-05": 231133,
-  "2023-06-06": 231133,
-  "2023-06-07": 231133,
-  "2023-06-08": 231133,
-  "2023-06-09": 231133,
-  "2023-06-10": 231133,
-  "2023-06-11": 231133,
-  "2023-06-12": 231133,
-  "2023-06-13": 231133,
-  "2023-06-14": 231133,
-  "2023-06-15": 231133,
-  "2023-06-16": 231133,
-  "2023-06-17": 231133,
-  "2023-06-18": 231133,
-  "2023-06-19": 231133,
-  "2023-06-20": 231133,
-  "2023-06-21": 231133,
-  "2023-06-22": 231133,
-  "2023-06-23": 231133,
-  "2023-06-24": 231133,
-  "2023-06-25": 231133,
-  "2023-06-26": 231133,
-  "2023-06-27": 231133,
-  "2023-06-28": 231133,
-  "2023-06-29": 231133,
-  "2023-06-30": 231133,
-  "2023-07-01": 231133,
-  "2023-07-02": 231133,
-  "2023-07-03": 231133,
-  "2023-07-04": 231133,
-  "2023-07-05": 231133,
-  "2023-07-06": 231133,
-  "2023-07-07": 231133,
-  "2023-07-08": 231133,
-  "2023-07-09": 231133,
-  "2023-07-10": 231133,
-  "2023-07-11": 231133,
-  "2023-07-12": 231133,
-  "2023-07-13": 231133,
-  "2023-07-14": 231133,
-  "2023-07-15": 231133,
-  "2023-07-16": 231133,
-  "2023-07-17": 231133,
-  "2023-07-18": 231133,
-  "2023-07-19": 231133,
-  "2023-07-20": 231133,
-  "2023-07-21": 231133,
-  "2023-07-22": 231133,
-  "2023-07-23": 231133,
-  "2023-07-24": 231133,
-  "2023-07-25": 231133,
-  "2023-07-26": 231133,
-  "2023-07-27": 231133,
-  "2023-07-28": 231133,
-  "2023-07-29": 231133,
-  "2023-07-30": 231133,
-  "2023-07-31": 231133,
-  "2023-08-01": 231133,
-  "2023-08-02": 231133,
-  "2023-08-03": 231133,
-  "2023-08-04": 231133,
-  "2023-08-05": 231133,
-  "2023-08-06": 231133,
-  "2023-08-07": 231133,
-  "2023-08-08": 231133,
-  "2023-08-09": 231133,
-  "2023-08-10": 231133,
-  "2023-08-11": 231133,
-  "2023-08-12": 231133,
-  "2023-08-13": 231133,
-  "2023-08-14": 231133,
-  "2023-08-15": 231133,
-  "2023-08-16": 231133,
-  "2023-08-17": 231133,
-  "2023-08-18": 231133,
-  "2023-08-19": 231133,
-  "2023-08-20": 231133,
-  "2023-08-21": 231133,
-  "2023-08-22": 231133,
-  "2023-08-23": 231133,
-  "2023-08-24": 231133,
-  "2023-08-25": 231133,
-  "2023-08-26": 231133,
-  "2023-08-27": 231133,
-  "2023-08-28": 231133,
-  "2023-08-29": 231133,
-  "2023-08-30": 231133,
-  "2023-08-31": 231133,
-  "2023-09-01": 231133,
-  "2023-09-02": 231133,
-  "2023-09-03": 231133,
-  "2023-09-04": 231133,
-  "2023-09-05": 231133,
-  "2023-09-06": 231133,
-  "2023-09-07": 231133,
-  "2023-09-08": 231133,
-  "2023-09-09": 231133,
-  "2023-09-10": 231133,
-  "2023-09-11": 231133,
-  "2023-09-12": 231133,
-  "2023-09-13": 231133,
-  "2023-09-14": 231133,
-  "2023-09-15": 231133,
-  "2023-09-16": 231133,
-  "2023-09-17": 231133,
-  "2023-09-18": 231133,
-  "2023-09-19": 231133,
-  "2023-09-20": 231133,
-  "2023-09-21": 231133,
-  "2023-09-22": 231133,
-  "2023-09-23": 231133,
-  "2023-09-24": 231133,
-  "2023-09-25": 231133,
-  "2023-09-26": 231133,
-  "2023-09-27": 231133,
-  "2023-09-28": 231133,
-  "2023-09-29": 231133,
-  "2023-09-30": 231133,
-  "2023-10-01": 231133,
-  "2023-10-02": 231133,
-  "2023-10-03": 231133,
-  "2023-10-04": 231133,
-  "2023-10-05": 231133,
-  "2023-10-06": 231133,
-  "2023-10-07": 231133,
-  "2023-10-08": 231133,
-  "2023-10-09": 231133,
-  "2023-10-10": 231133,
-  "2023-10-11": 231133,
-  "2023-10-12": 231133,
-  "2023-10-13": 231133,
-  "2023-10-14": 231133,
-  "2023-10-15": 231133,
-  "2023-10-16": 231133,
-  "2023-10-17": 231133,
-  "2023-10-18": 231133,
-  "2023-10-19": 231133,
-  "2023-10-20": 231133,
-  "2023-10-21": 231133,
-  "2023-10-22": 231133,
-  "2023-10-23": 231133,
-  "2023-10-24": 231133,
-  "2023-10-25": 231133,
-  "2023-10-26": 231133,
-  "2023-10-27": 231133,
-  "2023-10-28": 231133,
-  "2023-10-29": 231133,
-  "2023-10-30": 231133,
-  "2023-10-31": 231133,
-  "2023-11-01": 231133,
-  "2023-11-02": 231133,
-  "2023-11-03": 231133,
-  "2023-11-04": 231133,
-  "2023-11-05": 231133,
-  "2023-11-06": 231133,
-  "2023-11-07": 231133,
-  "2023-11-08": 231133,
-  "2023-11-09": 231133,
-  "2023-11-10": 231133,
-  "2023-11-11": 231133,
-  "2023-11-12": 231133,
-  "2023-11-13": 231133,
-  "2023-11-14": 231133,
-  "2023-11-15": 231133,
-  "2023-11-16": 231133,
-  "2023-11-17": 231133,
-  "2023-11-18": 231133,
-  "2023-11-19": 231133,
-  "2023-11-20": 231133,
-  "2023-11-21": 231133,
-  "2023-11-22": 231133,
-  "2023-11-23": 231133,
-  "2023-11-24": 231133,
-  "2023-11-25": 231133,
-  "2023-11-26": 231133,
-  "2023-11-27": 231133,
-  "2023-11-28": 231133,
-  "2023-11-29": 231133,
-  "2023-11-30": 231133,
-  "2023-12-01": 231133,
-  "2023-12-02": 231133,
-  "2023-12-03": 231133,
-  "2023-12-04": 231133,
-  "2023-12-05": 231133,
-  "2023-12-06": 231133,
-  "2023-12-07": 231133,
-  "2023-12-08": 231133,
-  "2023-12-09": 231133,
-  "2023-12-10": 231133,
-  "2023-12-11": 231133,
-  "2023-12-12": 231133,
-  "2023-12-13": 231133,
-  "2023-12-14": 231133,
-  "2023-12-15": 231133,
-  "2023-12-16": 231133,
-  "2023-12-17": 231133,
-  "2023-12-18": 231133,
-  "2023-12-19": 231133,
-  "2023-12-20": 231133,
-  "2023-12-21": 231133,
-  "2023-12-22": 231133,
-  "2023-12-23": 231133,
-  "2023-12-24": 231133,
-  "2023-12-25": 231133,
-  "2023-12-26": 231133,
-  "2023-12-27": 231133,
-  "2023-12-30": 231133,
-  "2023-12-31": 231133,
-  "2024-01-01": 231133,
-  "2024-01-02": 231133,
-  "2024-01-03": 231133
+  "2024-01-17": 231133,
+  "date_first_scraped": "2021-12-21",
+  "description": "Van Morrison, the essential tracks, all in one playlist.",
+  "name": "This Is Van Morrison",
+  "tracks": [
+    {
+      "album": {
+        "name": "Into the Music",
+        "url": "https://open.spotify.com/album/11q2kAICayamyzbVlZvE90"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "Bright Side of the Road",
+      "url": "https://open.spotify.com/track/4w4Shi3xjbZBDGuhLw5LsQ"
+    },
+    {
+      "album": {
+        "name": "..It's Too Late to Stop Now...Volume I",
+        "url": "https://open.spotify.com/album/7ycOIZnRNdpnAEaHXZwah4"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282373,
+      "name": "Bring It on Home to Me - Live",
+      "url": "https://open.spotify.com/track/6SvztZbxAJyRZZJOv5tC51"
+    },
+    {
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/2TT94cmhSem2lYGjIyvfw9"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/0PWTBqQLucbGS5FfK7t4AQ"
+    },
+    {
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "album": {
+        "name": "Veedon Fleece",
+        "url": "https://open.spotify.com/album/1zvI5Kkxus94lhz0RvZWBf"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "Bulbs",
+      "url": "https://open.spotify.com/track/4lLl4MNS8l5ACAcAZuUgYP"
+    },
+    {
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300800,
+      "name": "Caravan - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
+    },
+    {
+      "album": {
+        "name": "Close Enough for Jazz",
+        "url": "https://open.spotify.com/album/6ZMv5jBbwIwrmJ3zOtfJ8r"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        },
+        {
+          "name": "Joey DeFrancesco",
+          "url": "https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Close Enough for Jazz",
+      "url": "https://open.spotify.com/track/2zklLOZ3s5Nqf4rCEc5ptE"
+    },
+    {
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123133,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/5JhvJM164OomPRkQq9eO5t"
+    },
+    {
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Crazy Love - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TEq8wpp3h8FTbjM5zhYKu"
+    },
+    {
+      "album": {
+        "name": "Astral Weeks",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419813,
+      "name": "Cyprus Avenue - 1999 Remaster",
+      "url": "https://open.spotify.com/track/7msn6OoGXrNOaBGvIH1eqT"
+    },
+    {
+      "album": {
+        "name": "Dark Night Of The Soul",
+        "url": "https://open.spotify.com/album/5KhH1gOH2LCuSZkznJcxUQ"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356774,
+      "name": "Dark Night Of The Soul",
+      "url": "https://open.spotify.com/track/5uqmyJLQAsGhzykrI01yJI"
+    },
+    {
+      "album": {
+        "name": "Days Gone By",
+        "url": "https://open.spotify.com/album/6sZTihTdgqrzx7pdnuNcrC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463400,
+      "name": "Days Gone By",
+      "url": "https://open.spotify.com/track/7mHKh4SM1RrPfGqcSLnzkq"
+    },
+    {
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D"
+    },
+    {
+      "album": {
+        "name": "His Band and the Street Choir",
+        "url": "https://open.spotify.com/album/3YdFToTF5Mr2HLx7zRUIQA"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Domino - 1999 Remaster",
+      "url": "https://open.spotify.com/track/0eti3iRdEgUxwcIcN2N9DY"
+    },
+    {
+      "album": {
+        "name": "Beautiful Vision",
+        "url": "https://open.spotify.com/album/73R5G9rjAuJGv3oWfMddjM"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "Dweller On the Threshold",
+      "url": "https://open.spotify.com/track/4aHNpAIE8kD1NLIsyhQ6Kl"
+    },
+    {
+      "album": {
+        "name": "What's Wrong with This Picture?",
+        "url": "https://open.spotify.com/album/5EPVIBCVtKKWbyuEgreyCY"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Evening in June",
+      "url": "https://open.spotify.com/track/3Pu8J62fAyNI1CHEXslM5j"
+    },
+    {
+      "album": {
+        "name": "Everyday I Have the Blues",
+        "url": "https://open.spotify.com/album/7vuJehYbjAUsTiiS8tzOF1"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        },
+        {
+          "name": "Joey DeFrancesco",
+          "url": "https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338293,
+      "name": "Everyday I Have the Blues",
+      "url": "https://open.spotify.com/track/1fUJpQRC1vWFnBvtUzFtGK"
+    },
+    {
+      "album": {
+        "name": "The Philosopher's Stone",
+        "url": "https://open.spotify.com/album/3fqbgLpJg4ICPDfJkxHh0S"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388786,
+      "name": "Flamingoes Fly",
+      "url": "https://open.spotify.com/track/3kPDybDKRGGPYBZqfh8Zag"
+    },
+    {
+      "album": {
+        "name": "Into the Music",
+        "url": "https://open.spotify.com/album/11q2kAICayamyzbVlZvE90"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "Full Force Gale",
+      "url": "https://open.spotify.com/track/3KSxtCOb0dc5qBMRvYyv2l"
+    },
+    {
+      "album": {
+        "name": "The Essential Van Morrison",
+        "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Gloria (feat. Van Morrison) - Stereo Version",
+      "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
+    },
+    {
+      "album": {
+        "name": "Hard Nose the Highway",
+        "url": "https://open.spotify.com/album/2F6h5yYUVNcqqeCG55O8Rw"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315133,
+      "name": "Hard Nose the Highway",
+      "url": "https://open.spotify.com/track/0bPjvlScO0C5v8bSvk3OOt"
+    },
+    {
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
+    },
+    {
+      "album": {
+        "name": "Complete Them (1964-1967) (feat. Van Morrison)",
+        "url": "https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167346,
+      "name": "Here Comes the Night (feat. Van Morrison)",
+      "url": "https://open.spotify.com/track/3OfttbJAJNvkI4VwtZD2E7"
+    },
+    {
+      "album": {
+        "name": "I Get A Kick Out Of You",
+        "url": "https://open.spotify.com/album/5qbyhtM5VBzytQMNCLF50Z"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/4zfYMCRuWVzZAuOgiUx2FH"
+    },
+    {
+      "album": {
+        "name": "Hymns to the Silence",
+        "url": "https://open.spotify.com/album/0xJpmuJPncL86sIMY1h0lF"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396213,
+      "name": "I'm Not Feeling It Anymore",
+      "url": "https://open.spotify.com/track/4h5YKBdOncDaKN4jXavfSm"
+    },
+    {
+      "album": {
+        "name": "If We Wait For Mountains",
+        "url": "https://open.spotify.com/album/6rkBYA1I3t4S9bOsDcrznC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "If We Wait For Mountains",
+      "url": "https://open.spotify.com/track/72fSnuSJOgp3TkdwhhwYhU"
+    },
+    {
+      "album": {
+        "name": "No Guru, No Method, No Teacher",
+        "url": "https://open.spotify.com/album/1s9pyp2esxBxLKEjEeSc5N"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347160,
+      "name": "In the Garden",
+      "url": "https://open.spotify.com/track/2Tsc8d03lxrsXiiuWpqGkn"
+    },
+    {
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6"
+    },
+    {
+      "album": {
+        "name": "Inarticulate Speech of the Heart",
+        "url": "https://open.spotify.com/album/6fodulHc9HOv0xVm9cnaO9"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281266,
+      "name": "Irish Heartbeat - 1999 Remaster",
+      "url": "https://open.spotify.com/track/3BHDeR64xp6zXanN8rZRUi"
+    },
+    {
+      "album": {
+        "name": "Saint Dominic's Preview",
+        "url": "https://open.spotify.com/album/0i3c1sR3poI6S2VIH2VP7Q"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Jackie Wilson Said (I'm in Heaven When You Smile)",
+      "url": "https://open.spotify.com/track/1hmPyDaLxfscy8AJpJsKJI"
+    },
+    {
+      "album": {
+        "name": "Latest Record Project",
+        "url": "https://open.spotify.com/album/7lYcnj8LJJ5wRfup0veESZ"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "Latest Record Project",
+      "url": "https://open.spotify.com/track/1Jsqzled83s9OW2qmgKNX4"
+    },
+    {
+      "album": {
+        "name": "Veedon Fleece",
+        "url": "https://open.spotify.com/album/1zvI5Kkxus94lhz0RvZWBf"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157026,
+      "name": "Linden Arden Stole the Highlights",
+      "url": "https://open.spotify.com/track/2rqzOXZEUyV3OHzT2J3id7"
+    },
+    {
+      "album": {
+        "name": "Saint Dominic's Preview",
+        "url": "https://open.spotify.com/album/0i3c1sR3poI6S2VIH2VP7Q"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671133,
+      "name": "Listen to the Lion",
+      "url": "https://open.spotify.com/track/4gXwWfGICSNmWHwvtbZfby"
+    },
+    {
+      "album": {
+        "name": "Astral Weeks",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585173,
+      "name": "Madame George - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1N4MKISvC1ddfRCRQDXDd2"
+    },
+    {
+      "album": {
+        "name": "Makin\u2019 Whoopee",
+        "url": "https://open.spotify.com/album/4LNa2jiFeML1lIHQiVA9cn"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291573,
+      "name": "Makin\u2019 Whoopee",
+      "url": "https://open.spotify.com/track/7aGzJsaolmAsa5IzE1fK2I"
+    },
+    {
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU"
+    },
+    {
+      "album": {
+        "name": "Back on Top",
+        "url": "https://open.spotify.com/album/6sBbb0X9PRAyoVfeKQtbaV"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324520,
+      "name": "New Biography - Remastered",
+      "url": "https://open.spotify.com/track/5a6kG1yZ7IXCmWkoke48ZR"
+    },
+    {
+      "album": {
+        "name": "Latest Record Project Volume I",
+        "url": "https://open.spotify.com/album/0a4R67uk3jP90Y4F6QYTpV"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Only a Song",
+      "url": "https://open.spotify.com/track/70bSAKlzmRnvzD558Rbxg8"
+    },
+    {
+      "album": {
+        "name": "Hard Nose the Highway",
+        "url": "https://open.spotify.com/album/2F6h5yYUVNcqqeCG55O8Rw"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343733,
+      "name": "Purple Heather",
+      "url": "https://open.spotify.com/track/6HOEvcvvRU6eMtI96SA2Es"
+    },
+    {
+      "album": {
+        "name": "Enlightenment",
+        "url": "https://open.spotify.com/album/3LznBz5zOUG9nTPbsUFprz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Real Real Gone",
+      "url": "https://open.spotify.com/track/4pGWgMDgwUQiKOHBUJquKd"
+    },
+    {
+      "album": {
+        "name": "Saint Dominic's Preview",
+        "url": "https://open.spotify.com/album/0i3c1sR3poI6S2VIH2VP7Q"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/1mII4seqf75hdRck1MzKwz"
+    },
+    {
+      "album": {
+        "name": "The Healing Game",
+        "url": "https://open.spotify.com/album/6rtHawqH9k8k8MmOQeCUyd"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378293,
+      "name": "Rough God Goes Riding",
+      "url": "https://open.spotify.com/track/4Fm4dyENRyVQtJnae9EHPE"
+    },
+    {
+      "album": {
+        "name": "Saint Dominic's Preview",
+        "url": "https://open.spotify.com/album/0i3c1sR3poI6S2VIH2VP7Q"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391320,
+      "name": "Saint Dominic's Preview",
+      "url": "https://open.spotify.com/track/0MgfdN0hWlNeQCSLqjfn6C"
+    },
+    {
+      "album": {
+        "name": "Poetic Champions Compose",
+        "url": "https://open.spotify.com/album/5xGLnJnhmvRq9miVlfeWRN"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4beWEVoUbjSziAFPy8voaF"
+    },
+    {
+      "album": {
+        "name": "Magic Time",
+        "url": "https://open.spotify.com/album/2Y4iYwTsE3Xx5kcI6HCiXi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338106,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/0M75UQAXb91A02Mmmxc8sh"
+    },
+    {
+      "album": {
+        "name": "Veedon Fleece",
+        "url": "https://open.spotify.com/album/1zvI5Kkxus94lhz0RvZWBf"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Streets of Arklow",
+      "url": "https://open.spotify.com/track/2mJs4kzVnNaCwT8mxiT3kw"
+    },
+    {
+      "album": {
+        "name": "Common One",
+        "url": "https://open.spotify.com/album/4uUNf38ZQYcbVQqsPxfFNx"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 939240,
+      "name": "Summertime In England",
+      "url": "https://open.spotify.com/track/23nrnDUwKNU6dUsZb2FLxY"
+    },
+    {
+      "album": {
+        "name": "Astral Weeks (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PBbOTrlaXQauwwcq2ZiWO"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "Sweet Thing - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7rPsF218CASDaDEoMkEe03"
+    },
+    {
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/1SGveypuDZtRrDUcB3f5kA"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 584600,
+      "name": "T. B. Sheets",
+      "url": "https://open.spotify.com/track/2Ftkeb8VLLCf06mLapw86S"
+    },
+    {
+      "album": {
+        "name": "Wavelength",
+        "url": "https://open.spotify.com/album/47nhRTYeYBKV5mEfXLV4fb"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530800,
+      "name": "Take It Where You Find It - Remastered",
+      "url": "https://open.spotify.com/track/0ahlxoGhqZFNFtBNzmapbs"
+    },
+    {
+      "album": {
+        "name": "Astral Weeks",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "The Way Young Lovers Do - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6lFrlUB7dEKJXftFNCCR8A"
+    },
+    {
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319266,
+      "name": "These Are the Days",
+      "url": "https://open.spotify.com/track/0qyAgwtnMU6AOszUw0DWTe"
+    },
+    {
+      "album": {
+        "name": "Pay the Devil",
+        "url": "https://open.spotify.com/album/0YdHRHdFAcYXbQAfvNoIix"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357306,
+      "name": "Till I Gain Control Again",
+      "url": "https://open.spotify.com/track/3Ux5V24J1UL2jeiRloQnqA"
+    },
+    {
+      "album": {
+        "name": "The Essential Van Morrison",
+        "url": "https://open.spotify.com/album/0RTU4KkKPJ5n8KnV18OaJs"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415040,
+      "name": "Tupelo Honey",
+      "url": "https://open.spotify.com/track/0cxEPV4gEmfyZ5Lhja3ks1"
+    },
+    {
+      "album": {
+        "name": "Beautiful Vision",
+        "url": "https://open.spotify.com/album/73R5G9rjAuJGv3oWfMddjM"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "Vanlose Stairway",
+      "url": "https://open.spotify.com/track/4sq3wtuQK7roUlG5cIrTad"
+    },
+    {
+      "album": {
+        "name": "Wavelength",
+        "url": "https://open.spotify.com/album/47nhRTYeYBKV5mEfXLV4fb"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346986,
+      "name": "Wavelength - Remastered",
+      "url": "https://open.spotify.com/track/6KrMDGTp9CtkMLKyftDUTD"
+    },
+    {
+      "album": {
+        "name": "Veedon Fleece",
+        "url": "https://open.spotify.com/album/1zvI5Kkxus94lhz0RvZWBf"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530106,
+      "name": "You Don't Pull No Punches, But You Don't Push the River",
+      "url": "https://open.spotify.com/track/64DWUaa8tCzi96lCthtrMW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHyTgDVMaG1"
 }

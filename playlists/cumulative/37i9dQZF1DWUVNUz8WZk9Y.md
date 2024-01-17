@@ -2,9 +2,9 @@
 
 ### [映画ドラえもん \-Doraemon The Movie\-](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
 
-> 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2023
+> 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
-37 songs - 2 hr 32 min
+38 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 | 2023-02-28 |  |
 | [ひまわりの約束](https://open.spotify.com/track/4SWzCUmuOQiPb6MJhrqZlJ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [All Time Best ハタモトヒロ](https://open.spotify.com/album/0JacmVkCsfYIAUSwVXfc7q) | 5:08 | 2023-02-28 |  |
 | [ココロありがとう](https://open.spotify.com/track/6yDOyzVDOs4ZA7YNcMZoTK) | [Billy Ban Ban](https://open.spotify.com/artist/3hoe4fPtz7MtwwPWypVO7n) | [ココロありがとう](https://open.spotify.com/album/6UCI4YWvsA408oCtlYN44R) | 5:03 | 2023-02-28 |  |
+| [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-06 |  |
 | [ドラえもんのうた](https://open.spotify.com/track/6rZW4S32ocga4upgydixZ0) | [Satoko Yamano](https://open.spotify.com/artist/6RN3CWxzQHF7m1txkot9Bm), [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 3:01 | 2023-02-28 |  |
 | [パオパオダンス](https://open.spotify.com/track/2liVyrBKYjEt0jUXXLZrnY) | [Mao](https://open.spotify.com/artist/3FqWvozs0flehtWPsXuNdo), [ひばり児童合唱団](https://open.spotify.com/artist/2uTsoHGIkGX1Yz0VKOSD4l) | [映画ドラえもん のび太の南極カチコチ大冒険「パオパオダンス」](https://open.spotify.com/album/0w5MMmPIDAFdpEdDmOaAQ9) | 2:39 | 2023-02-28 |  |
 | [ボクノート](https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夕風ブレンド](https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL) | 5:36 | 2023-02-28 |  |

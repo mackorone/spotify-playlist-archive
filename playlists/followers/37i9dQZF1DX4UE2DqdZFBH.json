@@ -1,180 +1,2379 @@
 {
-  "2023-07-08": 43085,
-  "2023-07-09": 43120,
-  "2023-07-10": 43171,
-  "2023-07-11": 43214,
-  "2023-07-12": 43263,
-  "2023-07-13": 43306,
-  "2023-07-14": 43354,
-  "2023-07-15": 43380,
-  "2023-07-16": 43414,
-  "2023-07-17": 43440,
-  "2023-07-18": 43466,
-  "2023-07-19": 43492,
-  "2023-07-20": 43515,
-  "2023-07-21": 43535,
-  "2023-07-22": 43561,
-  "2023-07-23": 43589,
-  "2023-07-24": 43622,
-  "2023-07-25": 43650,
-  "2023-07-26": 43668,
-  "2023-07-27": 43689,
-  "2023-07-28": 43720,
-  "2023-07-29": 43756,
-  "2023-07-30": 43785,
-  "2023-07-31": 43820,
-  "2023-08-01": 43859,
-  "2023-08-02": 43881,
-  "2023-08-03": 43910,
-  "2023-08-04": 43945,
-  "2023-08-05": 43976,
-  "2023-08-06": 44043,
-  "2023-08-07": 44043,
-  "2023-08-08": 44061,
-  "2023-08-09": 44079,
-  "2023-08-10": 44110,
-  "2023-08-11": 44127,
-  "2023-08-12": 44155,
-  "2023-08-13": 44183,
-  "2023-08-14": 44201,
-  "2023-08-15": 44240,
-  "2023-08-16": 44240,
-  "2023-08-17": 44272,
-  "2023-08-18": 44297,
-  "2023-08-19": 44330,
-  "2023-08-20": 44368,
-  "2023-08-21": 44409,
-  "2023-08-22": 44434,
-  "2023-08-23": 44462,
-  "2023-08-24": 44484,
-  "2023-08-25": 44513,
-  "2023-08-26": 44549,
-  "2023-08-27": 44575,
-  "2023-08-28": 44605,
-  "2023-08-29": 44628,
-  "2023-08-30": 44646,
-  "2023-08-31": 44664,
-  "2023-09-01": 44701,
-  "2023-09-02": 44701,
-  "2023-09-03": 44712,
-  "2023-09-04": 44735,
-  "2023-09-05": 44750,
-  "2023-09-06": 44763,
-  "2023-09-07": 44789,
-  "2023-09-08": 44817,
-  "2023-09-09": 44852,
-  "2023-09-10": 44892,
-  "2023-09-11": 44923,
-  "2023-09-12": 44956,
-  "2023-09-13": 45006,
-  "2023-09-14": 45031,
-  "2023-09-15": 45061,
-  "2023-09-16": 45083,
-  "2023-09-17": 45102,
-  "2023-09-18": 45127,
-  "2023-09-19": 45156,
-  "2023-09-20": 45179,
-  "2023-09-21": 45211,
-  "2023-09-22": 45243,
-  "2023-09-23": 45260,
-  "2023-09-24": 45286,
-  "2023-09-25": 45311,
-  "2023-09-26": 45340,
-  "2023-09-27": 45359,
-  "2023-09-28": 45374,
-  "2023-09-29": 45395,
-  "2023-09-30": 45413,
-  "2023-10-01": 45438,
-  "2023-10-02": 45460,
-  "2023-10-03": 45481,
-  "2023-10-04": 45509,
-  "2023-10-05": 45526,
-  "2023-10-06": 45537,
-  "2023-10-07": 45550,
-  "2023-10-08": 45561,
-  "2023-10-09": 45581,
-  "2023-10-10": 45586,
-  "2023-10-11": 45615,
-  "2023-10-12": 45615,
-  "2023-10-13": 45621,
-  "2023-10-14": 45637,
-  "2023-10-15": 45659,
-  "2023-10-16": 45681,
-  "2023-10-17": 45694,
-  "2023-10-18": 45714,
-  "2023-10-19": 45721,
-  "2023-10-20": 45729,
-  "2023-10-21": 45738,
-  "2023-10-22": 45753,
-  "2023-10-23": 45762,
-  "2023-10-24": 45775,
-  "2023-10-25": 45788,
-  "2023-10-26": 45801,
-  "2023-10-27": 45819,
-  "2023-10-28": 45839,
-  "2023-10-29": 45862,
-  "2023-10-30": 45895,
-  "2023-10-31": 45895,
-  "2023-11-01": 45913,
-  "2023-11-02": 45920,
-  "2023-11-03": 45937,
-  "2023-11-04": 45953,
-  "2023-11-05": 45971,
-  "2023-11-06": 45993,
-  "2023-11-07": 46004,
-  "2023-11-08": 46010,
-  "2023-11-09": 46032,
-  "2023-11-10": 46037,
-  "2023-11-11": 46054,
-  "2023-11-12": 46066,
-  "2023-11-13": 46080,
-  "2023-11-14": 46098,
-  "2023-11-15": 46098,
-  "2023-11-16": 46127,
-  "2023-11-17": 46157,
-  "2023-11-18": 46157,
-  "2023-11-19": 46175,
-  "2023-11-20": 46187,
-  "2023-11-21": 46205,
-  "2023-11-22": 46219,
-  "2023-11-23": 46229,
-  "2023-11-24": 46246,
-  "2023-11-25": 46268,
-  "2023-11-26": 46285,
-  "2023-11-27": 46309,
-  "2023-11-28": 46319,
-  "2023-11-29": 46344,
-  "2023-11-30": 46344,
-  "2023-12-01": 46353,
-  "2023-12-02": 46371,
-  "2023-12-03": 46383,
-  "2023-12-04": 46394,
-  "2023-12-05": 46408,
-  "2023-12-06": 46423,
-  "2023-12-07": 46434,
-  "2023-12-08": 46448,
-  "2023-12-09": 46460,
-  "2023-12-10": 46470,
-  "2023-12-11": 46492,
-  "2023-12-12": 46505,
-  "2023-12-13": 46510,
-  "2023-12-14": 46524,
-  "2023-12-15": 46529,
-  "2023-12-16": 46543,
-  "2023-12-17": 46551,
-  "2023-12-18": 46561,
-  "2023-12-19": 46573,
-  "2023-12-20": 46583,
-  "2023-12-21": 46594,
-  "2023-12-22": 46606,
-  "2023-12-23": 46614,
-  "2023-12-24": 46625,
-  "2023-12-25": 46645,
-  "2023-12-26": 46653,
-  "2023-12-27": 46666,
-  "2023-12-30": 46708,
-  "2023-12-31": 46717,
-  "2024-01-01": 46727,
-  "2024-01-02": 46731,
-  "2024-01-03": 46742
+  "2024-01-17": 46853,
+  "date_first_scraped": "2023-07-08",
+  "description": "Unwind to the real beauty of Instrumentals!",
+  "name": "Indie Instrumental",
+  "tracks": [
+    {
+      "album": {
+        "name": "Live at Gray Spark Audio",
+        "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
+      },
+      "artists": [
+        {
+          "name": "Bharath Kashyap",
+          "url": "https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300132,
+      "name": "A Mother's Lullaby - Live",
+      "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
+    },
+    {
+      "album": {
+        "name": "Naked on a Train",
+        "url": "https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i"
+      },
+      "artists": [
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224455,
+      "name": "A Tune for Peace - an Interlude",
+      "url": "https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs"
+    },
+    {
+      "album": {
+        "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+        "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
+      },
+      "artists": [
+        {
+          "name": "Devan Ekambaram",
+          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
+        },
+        {
+          "name": "Vijay Gopal",
+          "url": "https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F"
+        },
+        {
+          "name": "Nel Bucktowar",
+          "url": "https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268157,
+      "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+      "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
+    },
+    {
+      "album": {
+        "name": "Acoustic Pasanga - 100 Secs'HOPE",
+        "url": "https://open.spotify.com/album/2IKp7F6bgfXTLPrJUB4Pkg"
+      },
+      "artists": [
+        {
+          "name": "Ramkumar Ramji",
+          "url": "https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 105855,
+      "name": "Acoustic Pasanga - 100 Secs'HOPE",
+      "url": "https://open.spotify.com/track/4Grji4PmopcGloCI5bXn0Y"
+    },
+    {
+      "album": {
+        "name": "Acoustic Pasanga - 100 Secs'HOPE",
+        "url": "https://open.spotify.com/album/6mfrZvmEIGwEaGdyenlwNi"
+      },
+      "artists": [
+        {
+          "name": "Ramkumar Ramji",
+          "url": "https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105855,
+      "name": "Acoustic Pasanga - 100 Secs'HOPE",
+      "url": "https://open.spotify.com/track/5Hdn5UXEBrbhQsk1QbJdVK"
+    },
+    {
+      "album": {
+        "name": "Across The Ocean",
+        "url": "https://open.spotify.com/album/3l7zRvlnVnE8qhGAYIn7iy"
+      },
+      "artists": [
+        {
+          "name": "Karsh Kale",
+          "url": "https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Priya Darshini",
+          "url": "https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV"
+        },
+        {
+          "name": "Warren Mendonsa",
+          "url": "https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn"
+        },
+        {
+          "name": "Max ZT",
+          "url": "https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx"
+        },
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        },
+        {
+          "name": "Currency Audio",
+          "url": "https://open.spotify.com/artist/4NWJPLnZxRYQCb2mYOZCR5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313888,
+      "name": "Across The Ocean",
+      "url": "https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR"
+    },
+    {
+      "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Across the River",
+      "url": "https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8"
+    },
+    {
+      "album": {
+        "name": "Opening Act",
+        "url": "https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "All I Was Thinking Of",
+      "url": "https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f"
+    },
+    {
+      "album": {
+        "name": "Arabic Crown BGM",
+        "url": "https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113842,
+      "name": "Arabic Crown BGM",
+      "url": "https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy"
+    },
+    {
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
+      },
+      "artists": [
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Arjun K. Verma",
+          "url": "https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk"
+        },
+        {
+          "name": "Del Sol Quartet",
+          "url": "https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119850,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe"
+    },
+    {
+      "album": {
+        "name": "Moods of Yoga - Asana",
+        "url": "https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH"
+      },
+      "artists": [
+        {
+          "name": "Satish Vyas",
+          "url": "https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1041200,
+      "name": "Awakening The Soul 2",
+      "url": "https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF"
+    },
+    {
+      "album": {
+        "name": "Back to One",
+        "url": "https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28"
+      },
+      "artists": [
+        {
+          "name": "Chris Jason",
+          "url": "https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Back to One",
+      "url": "https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9"
+    },
+    {
+      "album": {
+        "name": "Instrumental India",
+        "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491520,
+      "name": "Bageshri",
+      "url": "https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "thommyknoles",
+          "url": "https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Ballad Of Krishna (feat. Sandeep Chowta & thommyknoles)",
+      "url": "https://open.spotify.com/track/3zxYkGwyk2ZXzFI6r72NlM"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "thommyknoles",
+          "url": "https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 363000,
+      "name": "Ballad Of Krishna (feat. Sandeep Chowta & thommyknoles)",
+      "url": "https://open.spotify.com/track/5JE4bVp3peKYimBL6FtXiE"
+    },
+    {
+      "album": {
+        "name": "This is Carnatic Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261626,
+      "name": "Bantureethi Koluvu - Instrumental",
+      "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
+    },
+    {
+      "album": {
+        "name": "Bhagyada Lakshmi Baramma (Instrumental) - Single",
+        "url": "https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv"
+      },
+      "artists": [
+        {
+          "name": "Veena Srivani",
+          "url": "https://open.spotify.com/artist/2IXmArsz1OFUyiIFLZIUsD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352622,
+      "name": "Bhagyada Lakshmi Baramma - Instrumental",
+      "url": "https://open.spotify.com/track/0cckP8UhJqr6XhQ3ijAuTD"
+    },
+    {
+      "album": {
+        "name": "Ragas: Classical Indian music for sarod, sitar and tabla",
+        "url": "https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY"
+      },
+      "artists": [
+        {
+          "name": "Bidyut Khan Band",
+          "url": "https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd"
+        },
+        {
+          "name": "Lucyan",
+          "url": "https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305560,
+      "name": "Bhatiyali - Based on : Pahadi Jhinjhit",
+      "url": "https://open.spotify.com/track/7LRkmYtrvZjH4nZaYlEEAs"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436611,
+      "name": "Bhatiyali Dhun",
+      "url": "https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP"
+    },
+    {
+      "album": {
+        "name": "A Reclaimed Interval",
+        "url": "https://open.spotify.com/album/0IcL9FQ2Tz0LLhPi2vhiPa"
+      },
+      "artists": [
+        {
+          "name": "Bombay Acoustic People",
+          "url": "https://open.spotify.com/artist/50m59tvsDkckztXUDOaZwU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275551,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/4XEpk6upsPlA9lWkggG1B5"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/6dZTgBjODMPiJZrijZ5MQN"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        },
+        {
+          "name": "Aaron Sinclair",
+          "url": "https://open.spotify.com/artist/30qeoFS7dHDWrD9idbcpLf"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/1fSASLRRwjPfVPF4vpQ3Gu"
+    },
+    {
+      "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426413,
+      "name": "Bowling For Peace",
+      "url": "https://open.spotify.com/track/7AkQooU3Nmt0TpXMAdTqiH"
+    },
+    {
+      "album": {
+        "name": "East Blends West \u2013 Western Classical",
+        "url": "https://open.spotify.com/album/7c06bfeylH7I7IwNEarLo8"
+      },
+      "artists": [
+        {
+          "name": "Sharat Chandra Srivastava",
+          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424373,
+      "name": "Carmina Burana, O Fortuna (Orff)",
+      "url": "https://open.spotify.com/track/3UIma3jo9jbfcvbBJxAUAB"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "Bakithi Kumalo",
+          "url": "https://open.spotify.com/artist/5vAp2vESGTyXYSHDR5VLGU"
+        },
+        {
+          "name": "Hector Moreno Guerrero",
+          "url": "https://open.spotify.com/artist/6LuJ7WzPMHLkehcZsZt36d"
+        },
+        {
+          "name": "King Robinson Jr",
+          "url": "https://open.spotify.com/artist/6yktcf2ozrAJwbdz14EYzu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262200,
+      "name": "Celebration (feat. Bakithi Kumalo, Hector Moreno Guerrero & King Robinson Jr)",
+      "url": "https://open.spotify.com/track/4WbHyu9yKeXH4RivwNZcks"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "Bakithi Kumalo",
+          "url": "https://open.spotify.com/artist/5vAp2vESGTyXYSHDR5VLGU"
+        },
+        {
+          "name": "Hector Moreno Guerrero",
+          "url": "https://open.spotify.com/artist/6LuJ7WzPMHLkehcZsZt36d"
+        },
+        {
+          "name": "King Robinson Jr",
+          "url": "https://open.spotify.com/artist/6yktcf2ozrAJwbdz14EYzu"
+        },
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 262200,
+      "name": "Celebration (feat. Bakithi Kumalo, Hector Moreno Guerrero & King Robinson Jr)",
+      "url": "https://open.spotify.com/track/79sGync0whBmdkOFc1Myde"
+    },
+    {
+      "album": {
+        "name": "One Big Sky",
+        "url": "https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw"
+      },
+      "artists": [
+        {
+          "name": "Celestial Teapot",
+          "url": "https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404696,
+      "name": "Change Is Constant",
+      "url": "https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r"
+    },
+    {
+      "album": {
+        "name": "Vynikam, Vol. 1",
+        "url": "https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320992,
+      "name": "Cheri Yasodaku",
+      "url": "https://open.spotify.com/track/5V0thaq4RnmZDC26yrvVZG"
+    },
+    {
+      "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410893,
+      "name": "Dark Sundae in Triplicane",
+      "url": "https://open.spotify.com/track/17FtPFUyO6v4VwdYKR2Vl1"
+    },
+    {
+      "album": {
+        "name": "What Colour Is Your Raindrop",
+        "url": "https://open.spotify.com/album/1frVusPqxFh2Q5GzqdTDvC"
+      },
+      "artists": [
+        {
+          "name": "Tajdar Junaid",
+          "url": "https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 207363,
+      "name": "Dastaan",
+      "url": "https://open.spotify.com/track/2Bu8OV53cpcpVRgx1JRYte"
+    },
+    {
+      "album": {
+        "name": "Namaste",
+        "url": "https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi"
+      },
+      "artists": [
+        {
+          "name": "Karnatriix",
+          "url": "https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429706,
+      "name": "Delicately Tuned",
+      "url": "https://open.spotify.com/track/6HNNqCMbrENJxDvUGsow3D"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2779kgLwGYn8NP2tk14AB7"
+      },
+      "artists": [
+        {
+          "name": "Rasika Shekar",
+          "url": "https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238549,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/43tRzHQb2OziLUOgFJELuI"
+    },
+    {
+      "album": {
+        "name": "The Lost Cause",
+        "url": "https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174015,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/6Syd5k9s9HnBfTk5aEpCMh"
+    },
+    {
+      "album": {
+        "name": "Epic Shit",
+        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
+      },
+      "artists": [
+        {
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316006,
+      "name": "Electric Pranaam",
+      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
+    },
+    {
+      "album": {
+        "name": "Emotive Conversation",
+        "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Emotive Conversation",
+      "url": "https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP"
+    },
+    {
+      "album": {
+        "name": "This Is Carnatic Fusion, Vol. 3",
+        "url": "https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257561,
+      "name": "Enna Thavam Seithanai - Instrumental",
+      "url": "https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a"
+    },
+    {
+      "album": {
+        "name": "Namaste",
+        "url": "https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi"
+      },
+      "artists": [
+        {
+          "name": "Karnatriix",
+          "url": "https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294013,
+      "name": "Entharo Pallavi & Charanam",
+      "url": "https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Ex-Animo",
+      "url": "https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 204800,
+      "name": "Ex-Animo",
+      "url": "https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm"
+    },
+    {
+      "album": {
+        "name": "No Passport Control",
+        "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
+      },
+      "artists": [
+        {
+          "name": "Sharat Chandra Srivastava",
+          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582000,
+      "name": "Garden Lounge",
+      "url": "https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp"
+    },
+    {
+      "album": {
+        "name": "Divine Melodies - The Greatest Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        },
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346920,
+      "name": "Govind Bolo, Shri Krishna Govind - Instrumental",
+      "url": "https://open.spotify.com/track/51PKSVnXdhOKA9JD1Hs2UU"
+    },
+    {
+      "album": {
+        "name": "Hmayra",
+        "url": "https://open.spotify.com/album/3ZqJ9lLpVNWNBxd3nV8TeY"
+      },
+      "artists": [
+        {
+          "name": "Shubh Saran",
+          "url": "https://open.spotify.com/artist/2F9WG9ugzneeesOZfmQ18V"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 364114,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/5tzJJvvmTxVf5D4hchXVu8"
+    },
+    {
+      "album": {
+        "name": "Hindsight Is 2020",
+        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
+      },
+      "artists": [
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177531,
+      "name": "Hey 2020",
+      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "Seb Read",
+          "url": "https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 343010,
+      "name": "Hues (feat. Seb Read & Sandeep Chowta)",
+      "url": "https://open.spotify.com/track/0T80o0Ah5dUVZMsX710Fn0"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        },
+        {
+          "name": "Sandeep Chowta",
+          "url": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        {
+          "name": "Seb Read",
+          "url": "https://open.spotify.com/artist/5IdebZbdwhXbLRj9dVVPOR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343010,
+      "name": "Hues (feat. Seb Read & Sandeep Chowta)",
+      "url": "https://open.spotify.com/track/6sQVBmXclpJicLCPM2hZ6G"
+    },
+    {
+      "album": {
+        "name": "Look up and Smile",
+        "url": "https://open.spotify.com/album/4kRz9aLUskgpbGtSwQyKyE"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Saxena",
+          "url": "https://open.spotify.com/artist/6DnllNEDcZEheXYPuDKM40"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "Indian Sunrise",
+      "url": "https://open.spotify.com/track/7MQBHGabpM1KU2ZtjCpPHb"
+    },
+    {
+      "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "Indra's Necklace",
+      "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
+    },
+    {
+      "album": {
+        "name": "No Passport Control",
+        "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
+      },
+      "artists": [
+        {
+          "name": "Sharat Chandra Srivastava",
+          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Inspired",
+      "url": "https://open.spotify.com/track/36lMru2HEErt8tz9MBxDoi"
+    },
+    {
+      "album": {
+        "name": "It Could be Rain",
+        "url": "https://open.spotify.com/album/6nbpfPyyk6ifJNekEevxM1"
+      },
+      "artists": [
+        {
+          "name": "Neil Mukherjee",
+          "url": "https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "It Could Be Rain",
+      "url": "https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7"
+    },
+    {
+      "album": {
+        "name": "Justaju: The Essence of Love",
+        "url": "https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45"
+      },
+      "artists": [
+        {
+          "name": "Raahein Gharana",
+          "url": "https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302704,
+      "name": "Justaju: The Essence of Love",
+      "url": "https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV"
+    },
+    {
+      "album": {
+        "name": "Compass Box Music: Unboxed, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/7iSN503ApELtn6u9dF77yB"
+      },
+      "artists": [
+        {
+          "name": "Samar Mehdi",
+          "url": "https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338117,
+      "name": "Kashmakash-Qa'ar-Urooj - Live",
+      "url": "https://open.spotify.com/track/43dxGK0P7JILrPcgwQG3Za"
+    },
+    {
+      "album": {
+        "name": "Kautilya (The Echo Project)",
+        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191063,
+      "name": "Kautilya (The Echo Project)",
+      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
+    },
+    {
+      "album": {
+        "name": "Kesariya Balam (Instrumental) - Single",
+        "url": "https://open.spotify.com/album/70nK4Pk1toi9xnhP4MhSQt"
+      },
+      "artists": [
+        {
+          "name": "Vishwa Mohan Bhatt",
+          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
+        },
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429741,
+      "name": "Kesariya Balam - Instrumental",
+      "url": "https://open.spotify.com/track/4u6wbiXg3RdAKYGJ1QnacW"
+    },
+    {
+      "album": {
+        "name": "Vynikam, Vol. 1",
+        "url": "https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442853,
+      "name": "Kondalalo Nelakonna",
+      "url": "https://open.spotify.com/track/5AISJvIwHAQeErVjr13SAi"
+    },
+    {
+      "album": {
+        "name": "Krishna's Flute - Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/48vj2VtppnRR5KeNxmYjA1"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        },
+        {
+          "name": "Sai Madhukar",
+          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385253,
+      "name": "Krishna Nee Begane Baro - Instrumental",
+      "url": "https://open.spotify.com/track/1QJixYwyE09rwszSsKvmXE"
+    },
+    {
+      "album": {
+        "name": "Kshmir",
+        "url": "https://open.spotify.com/album/6atUtSjZE35KPsm7HJGSpC"
+      },
+      "artists": [
+        {
+          "name": "Nilotpal Sinha",
+          "url": "https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Kshmir",
+      "url": "https://open.spotify.com/track/4ltbZuwUu7eLPMrWhQzACk"
+    },
+    {
+      "album": {
+        "name": "Soul of South India \u2013 Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/1F7BbdBXypkLKRo9Wpfs5n"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        },
+        {
+          "name": "S. Jaykumar",
+          "url": "https://open.spotify.com/artist/2Zckj2XgTkTG1mUIvzYpVj"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333506,
+      "name": "Kurai Ondrum Illai - Ragamalika - Adi",
+      "url": "https://open.spotify.com/track/4pyjLWakoRXClNU2jRGVHJ"
+    },
+    {
+      "album": {
+        "name": "J'ai Fame",
+        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
+      },
+      "artists": [
+        {
+          "name": "Leprofici",
+          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213718,
+      "name": "La Lune (Prelude)",
+      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
+    },
+    {
+      "album": {
+        "name": "Lalitha",
+        "url": "https://open.spotify.com/album/09ww2kgps2B9CPtVNJqH2U"
+      },
+      "artists": [
+        {
+          "name": "Rasika Shekar",
+          "url": "https://open.spotify.com/artist/0v8Vu84KyjZUxCD1P8LpDp"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Lalitha",
+      "url": "https://open.spotify.com/track/58rPweB9GHlIvpxuR2oje1"
+    },
+    {
+      "album": {
+        "name": "Better Than Sax",
+        "url": "https://open.spotify.com/album/4WIsMlGITAMy1QUYUY1zx2"
+      },
+      "artists": [
+        {
+          "name": "Darshan Doshi",
+          "url": "https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy"
+        },
+        {
+          "name": "Mark Hartsuch",
+          "url": "https://open.spotify.com/artist/0YHxyyD4PHmFZipMtvH5K5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Legacy Makers",
+      "url": "https://open.spotify.com/track/65skfrGCGs0RCaGC3cHOaH"
+    },
+    {
+      "album": {
+        "name": "Beginners Luck",
+        "url": "https://open.spotify.com/album/5SLwlEBEjeU0emMvRpxB3v"
+      },
+      "artists": [
+        {
+          "name": "Wabisabi",
+          "url": "https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA"
+        },
+        {
+          "name": "Abhishek Dasgupta",
+          "url": "https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj"
+        },
+        {
+          "name": "Sanglap Sengupta",
+          "url": "https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V"
+        },
+        {
+          "name": "Rajeev Prasanna",
+          "url": "https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2"
+        },
+        {
+          "name": "Jairaj Joshi",
+          "url": "https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/54E4eQqdmgVVasIVQPtD7V"
+    },
+    {
+      "album": {
+        "name": "Beginners Luck",
+        "url": "https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz"
+      },
+      "artists": [
+        {
+          "name": "Wabisabi",
+          "url": "https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA"
+        },
+        {
+          "name": "Rajeev Prasanna",
+          "url": "https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2"
+        },
+        {
+          "name": "Abhishek Dasgupta",
+          "url": "https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj"
+        },
+        {
+          "name": "Sanglap Sengupta",
+          "url": "https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V"
+        },
+        {
+          "name": "Jairaj Joshi",
+          "url": "https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 178800,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z"
+    },
+    {
+      "album": {
+        "name": "Lost Still Dreaming",
+        "url": "https://open.spotify.com/album/3V6e65LtNHnzOVLIoBahUY"
+      },
+      "artists": [
+        {
+          "name": "Deepayan Deep Maitra",
+          "url": "https://open.spotify.com/artist/6B17cD6lXJeb08B2MvRx2b"
+        },
+        {
+          "name": "Debangshu Bhattacharjee",
+          "url": "https://open.spotify.com/artist/6ehWecw14JSzcx7W9Kc0A7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311100,
+      "name": "Lost Still Dreaming",
+      "url": "https://open.spotify.com/track/5uV8ERbSoQBlPeBmfKvLKq"
+    },
+    {
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU"
+    },
+    {
+      "album": {
+        "name": "Maybe Someday",
+        "url": "https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Maybe Someday",
+      "url": "https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy"
+    },
+    {
+      "album": {
+        "name": "The Lost Cause",
+        "url": "https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185638,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2pntmG4VcHfJm1jkncXbGe"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
+      },
+      "artists": [
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        },
+        {
+          "name": "Shirish Malhotra",
+          "url": "https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328285,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
+    },
+    {
+      "album": {
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215722,
+      "name": "Mind In Wonderland",
+      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
+    },
+    {
+      "album": {
+        "name": "Moham",
+        "url": "https://open.spotify.com/album/1UVHplxcDWk2hRZXtUJoCx"
+      },
+      "artists": [
+        {
+          "name": "Baiju Dharmajan",
+          "url": "https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316553,
+      "name": "Moham",
+      "url": "https://open.spotify.com/track/4PfJiqveZXLbVBFtjs0x49"
+    },
+    {
+      "album": {
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
+    },
+    {
+      "album": {
+        "name": "Monsoon Melodies",
+        "url": "https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60"
+      },
+      "artists": [
+        {
+          "name": "Bhooshan Gogad",
+          "url": "https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296275,
+      "name": "Monsoon Melodies",
+      "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
+    },
+    {
+      "album": {
+        "name": "Mukti",
+        "url": "https://open.spotify.com/album/6sqUHY8P1HVLfMCLJng7tY"
+      },
+      "artists": [
+        {
+          "name": "Madhav Gopi Nair",
+          "url": "https://open.spotify.com/artist/40Ww8FrhtcfhUOkCZdS3W0"
+        },
+        {
+          "name": "Akash S Menon",
+          "url": "https://open.spotify.com/artist/4Ymsfydwf88TZH86sHDW8D"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111764,
+      "name": "Mukti",
+      "url": "https://open.spotify.com/track/6n5ZoPiavpCUYSl9pmDXIj"
+    },
+    {
+      "album": {
+        "name": "Bombay Dub Orchestra",
+        "url": "https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV"
+      },
+      "artists": [
+        {
+          "name": "Bombay Dub Orchestra",
+          "url": "https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 251693,
+      "name": "Mumtaz",
+      "url": "https://open.spotify.com/track/2Fehmrt3lh2kBdFjRI8v3f"
+    },
+    {
+      "album": {
+        "name": "Two Sides of Karma",
+        "url": "https://open.spotify.com/album/4WawflRDbhDVOY3H6KAWZi"
+      },
+      "artists": [
+        {
+          "name": "Indosoul by Karthick Iyer",
+          "url": "https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380815,
+      "name": "Need I Say More",
+      "url": "https://open.spotify.com/track/5kYAOHvOI5nkG2KUsmccSr"
+    },
+    {
+      "album": {
+        "name": "The Last Analog Generation",
+        "url": "https://open.spotify.com/album/6MklN1XPeTWjhxLIiKTzPU"
+      },
+      "artists": [
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485518,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/3HdZsBbSejCw7VQMdT0D5f"
+    },
+    {
+      "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459080,
+      "name": "Oceans Apart",
+      "url": "https://open.spotify.com/track/5Mx3iBTphi0gdJwh6oYGrD"
+    },
+    {
+      "album": {
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+      },
+      "artists": [
+        {
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402375,
+      "name": "Offering",
+      "url": "https://open.spotify.com/track/0gB0Mz7xptPg2mbGQ0PC49"
+    },
+    {
+      "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215063,
+      "name": "Offering at Dawn",
+      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
+    },
+    {
+      "album": {
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+      },
+      "artists": [
+        {
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+        },
+        {
+          "name": "Anjna Swaminathan",
+          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249063,
+      "name": "Peregrination (feat. Anjna Swaminathan)",
+      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
+    },
+    {
+      "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301933,
+      "name": "Raghuvamsa Sudha",
+      "url": "https://open.spotify.com/track/6M8POyaH3uih6V5hsSi4N9"
+    },
+    {
+      "album": {
+        "name": "Postcards EP",
+        "url": "https://open.spotify.com/album/0AvlpY2VvSefbrRXaXbYW8"
+      },
+      "artists": [
+        {
+          "name": "Bombay Acoustic People",
+          "url": "https://open.spotify.com/artist/50m59tvsDkckztXUDOaZwU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174665,
+      "name": "Rain Over Breakfast",
+      "url": "https://open.spotify.com/track/0mwYAgGRpgGhGtLWrbSMeh"
+    },
+    {
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/24dP5sZgOex0EQun8x4ddk"
+      },
+      "artists": [
+        {
+          "name": "Tajdar Junaid",
+          "url": "https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216116,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5XTkSCwVY9X0rGrOqxtR3S"
+    },
+    {
+      "album": {
+        "name": "IndoSoul (Looking Within to Look Beyond)",
+        "url": "https://open.spotify.com/album/60buPwAjLPReMTOAeIrX4m"
+      },
+      "artists": [
+        {
+          "name": "Indosoul by Karthick Iyer",
+          "url": "https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285048,
+      "name": "Rejoicing in Raghuvamsa",
+      "url": "https://open.spotify.com/track/6VdHchCHuXKHoM6rz2ovRM"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+      },
+      "artists": [
+        {
+          "name": "The Gap",
+          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173388,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
+    },
+    {
+      "album": {
+        "name": "Rough and Straight",
+        "url": "https://open.spotify.com/album/4fkvTRzMgyRG3z6PfUpQgU"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 373894,
+      "name": "Rough and Straight",
+      "url": "https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z"
+    },
+    {
+      "album": {
+        "name": "Pustaka: Origins (Instrumental Version)",
+        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248727,
+      "name": "Rupantara - Instrumental Version",
+      "url": "https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Baiju Dharmajan",
+          "url": "https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 291956,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4AqmSaPB6tGxM3ixvyK49d"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Baiju Dharmajan",
+          "url": "https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291956,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/1Pt8y4GsNLCj4Rpojr1D2Q"
+    },
+    {
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743595,
+      "name": "Shuddh Sarang",
+      "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
+    },
+    {
+      "album": {
+        "name": "Sitar On Drumz",
+        "url": "https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx"
+      },
+      "artists": [
+        {
+          "name": "Bhagirath Bhatt",
+          "url": "https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1"
+        },
+        {
+          "name": "Mann Bipin",
+          "url": "https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311470,
+      "name": "Sitar On Drumz",
+      "url": "https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ"
+    },
+    {
+      "album": {
+        "name": "Siya",
+        "url": "https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Siya",
+      "url": "https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT"
+    },
+    {
+      "album": {
+        "name": "Imperfect Things",
+        "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
+      },
+      "artists": [
+        {
+          "name": "Sridhar Varadarajan",
+          "url": "https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg"
+        },
+        {
+          "name": "Prakash Sontakke",
+          "url": "https://open.spotify.com/artist/0ITgqMxxKYSUZNUOGVBX2X"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185685,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309818,
+      "name": "So...Now Hear This",
+      "url": "https://open.spotify.com/track/0qA1raigGUBHtn8AIU1sj0"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/1GPA0YRqvXXVNO4YiklJKl"
+      },
+      "artists": [
+        {
+          "name": "Mansij",
+          "url": "https://open.spotify.com/artist/5HJY6bwnId2sOzXwlcdRY5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/5QEHJD6fYLzMHBYMuIE3zh"
+    },
+    {
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 309818,
+      "name": "So\u2026Now Hear This",
+      "url": "https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA"
+      },
+      "artists": [
+        {
+          "name": "Ketan Mohite",
+          "url": "https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA"
+        },
+        {
+          "name": "Yadhunandan Nagaraj",
+          "url": "https://open.spotify.com/artist/5i1uUQMGXoNSVeNHpT2Zaf"
+        },
+        {
+          "name": "Rajeev Prasanna",
+          "url": "https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Space Trip",
+      "url": "https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv"
+    },
+    {
+      "album": {
+        "name": "Strings of Serenity",
+        "url": "https://open.spotify.com/album/4MY9EVXf6y9UuDrGsXh85v"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        },
+        {
+          "name": "Pratik Shrivastava",
+          "url": "https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140526,
+      "name": "Strings of Serenity",
+      "url": "https://open.spotify.com/track/4zK8HjRTipwsfWLQqS04A4"
+    },
+    {
+      "album": {
+        "name": "Pustaka: Origins (Instrumental Version)",
+        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317538,
+      "name": "Suka - Instrumental Version",
+      "url": "https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V"
+    },
+    {
+      "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ"
+      },
+      "artists": [
+        {
+          "name": "Neil Mukherjee",
+          "url": "https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9"
+    },
+    {
+      "album": {
+        "name": "Tabla Tonic",
+        "url": "https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Tabla Tonic",
+      "url": "https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q"
+    },
+    {
+      "album": {
+        "name": "The Namesake (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW"
+      },
+      "artists": [
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 40640,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs"
+    },
+    {
+      "album": {
+        "name": "Wavelengths",
+        "url": "https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05"
+      },
+      "artists": [
+        {
+          "name": "Submarine in Space",
+          "url": "https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461310,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML"
+    },
+    {
+      "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "The Comeback Trail",
+      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
+    },
+    {
+      "album": {
+        "name": "The Violin Player (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar Dutta",
+          "url": "https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347379,
+      "name": "The Last Cadenza",
+      "url": "https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4"
+    },
+    {
+      "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/6lXcwcAYbcjnbVmCvOifh6"
+      },
+      "artists": [
+        {
+          "name": "aswekeepsearching",
+          "url": "https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/4GEzdXpbeGB97W1C3gH8Hh"
+    },
+    {
+      "album": {
+        "name": "The Namesake (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW"
+      },
+      "artists": [
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304080,
+      "name": "The Namesake Reprise",
+      "url": "https://open.spotify.com/track/6z3MOi8XJ6t3lFL74IFyJ6"
+    },
+    {
+      "album": {
+        "name": "The Winds of Bihu",
+        "url": "https://open.spotify.com/album/4nRuBUtdDgERyKwEZ67EiX"
+      },
+      "artists": [
+        {
+          "name": "Kartikeya Vashist",
+          "url": "https://open.spotify.com/artist/0TVGGswr1g8UtlHyf0kQuq"
+        },
+        {
+          "name": "Vishrut Pande",
+          "url": "https://open.spotify.com/artist/4420Ou4ucpvZ2YCJjUILsa"
+        },
+        {
+          "name": "SMESH",
+          "url": "https://open.spotify.com/artist/6ztIFgQ8kYiJ7VRIkvJiHr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "The Winds of Bihu",
+      "url": "https://open.spotify.com/track/0PDxa6S8gvRZlcxXafiuQ5"
+    },
+    {
+      "album": {
+        "name": "Rajesh Vaidhya - Evergreen Melodies",
+        "url": "https://open.spotify.com/album/6EQrbQbE2Q1m8pOECWxowJ"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Thillana - Dhanashree - Adi",
+      "url": "https://open.spotify.com/track/2uz8tJWTg8hXUVG8llUl0E"
+    },
+    {
+      "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547186,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6yPIsdN9uXp0uRCWxTvq1c"
+    },
+    {
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/3Ox4brenAwA37r3RPNoXjB"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        },
+        {
+          "name": "William Cepeda",
+          "url": "https://open.spotify.com/artist/0w2oHz4dH8krp7aEc7zTWc"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577000,
+      "name": "Transcend",
+      "url": "https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn"
+    },
+    {
+      "album": {
+        "name": "Brown Man's Funk",
+        "url": "https://open.spotify.com/album/4iznu2dfLMbDad818PFzLc"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350930,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/5q2fh6DMLlFQYjjLBCC4I4"
+    },
+    {
+      "album": {
+        "name": "Uncooked Blues",
+        "url": "https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2"
+      },
+      "artists": [
+        {
+          "name": "Pratik Tushar",
+          "url": "https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179003,
+      "name": "Uncooked Blues",
+      "url": "https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/1F3O6qshrBwito065TLN17"
+      },
+      "artists": [
+        {
+          "name": "Karthick Iyer",
+          "url": "https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100137,
+      "name": "Unfold",
+      "url": "https://open.spotify.com/track/0qgeMWjLSn8O4Lyy22E2Ye"
+    },
+    {
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294999,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr"
+    },
+    {
+      "album": {
+        "name": "Veenai Jayanthi Kumaresh",
+        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
+      },
+      "artists": [
+        {
+          "name": "Jayanthi Kumaresh",
+          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
+    },
+    {
+      "album": {
+        "name": "St.",
+        "url": "https://open.spotify.com/album/2NBFBbCFVhFDOTAEMZg4kw"
+      },
+      "artists": [
+        {
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308970,
+      "name": "Wake up Rama",
+      "url": "https://open.spotify.com/track/5bNZHTX9GlngnP0tyRbDZ8"
+    },
+    {
+      "album": {
+        "name": "Watching Her Dance",
+        "url": "https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ"
+      },
+      "artists": [
+        {
+          "name": "Varun Nimbolkar",
+          "url": "https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256200,
+      "name": "Watching Her Dance",
+      "url": "https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6"
+    },
+    {
+      "album": {
+        "name": "Whispering Hues (feat. Rajhesh Vaidhya)",
+        "url": "https://open.spotify.com/album/5wNdD3ZDfrx3cxpiSdwmUK"
+      },
+      "artists": [
+        {
+          "name": "Varun Sunil",
+          "url": "https://open.spotify.com/artist/6L9N1bZKr4hKm1jAJ9a1K2"
+        },
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Whispering Hues (feat. Rajhesh Vaidhya)",
+      "url": "https://open.spotify.com/track/7tCpcJ53Z7uslT4sjjZsSc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4UE2DqdZFBH"
 }

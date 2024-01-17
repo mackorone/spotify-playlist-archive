@@ -1,479 +1,1337 @@
 {
-  "2022-09-09": 46475,
-  "2022-09-10": 46511,
-  "2022-09-11": 46547,
-  "2022-09-12": 46575,
-  "2022-09-13": 46606,
-  "2022-09-15": 46656,
-  "2022-09-16": 46685,
-  "2022-09-17": 46709,
-  "2022-09-18": 46746,
-  "2022-09-19": 46777,
-  "2022-09-20": 46803,
-  "2022-09-21": 46830,
-  "2022-09-22": 46862,
-  "2022-09-23": 46892,
-  "2022-09-24": 46892,
-  "2022-09-25": 46973,
-  "2022-09-26": 47001,
-  "2022-09-27": 47029,
-  "2022-09-28": 47055,
-  "2022-09-29": 47069,
-  "2022-09-30": 47102,
-  "2022-10-01": 47137,
-  "2022-10-02": 47164,
-  "2022-10-03": 47194,
-  "2022-10-04": 47213,
-  "2022-10-05": 47233,
-  "2022-10-06": 47258,
-  "2022-10-07": 47290,
-  "2022-10-08": 47321,
-  "2022-10-09": 47387,
-  "2022-10-10": 47395,
-  "2022-10-11": 47427,
-  "2022-10-12": 47451,
-  "2022-10-13": 47480,
-  "2022-10-14": 47513,
-  "2022-10-15": 47550,
-  "2022-10-16": 47576,
-  "2022-10-17": 47606,
-  "2022-10-18": 47631,
-  "2022-10-19": 47659,
-  "2022-10-20": 47689,
-  "2022-10-21": 47720,
-  "2022-10-22": 47750,
-  "2022-10-23": 47786,
-  "2022-10-24": 47809,
-  "2022-10-25": 47826,
-  "2022-10-26": 47858,
-  "2022-10-27": 47892,
-  "2022-10-28": 47924,
-  "2022-10-29": 47956,
-  "2022-10-30": 47991,
-  "2022-10-31": 48037,
-  "2022-11-01": 48070,
-  "2022-11-02": 48096,
-  "2022-11-03": 48118,
-  "2022-11-04": 48149,
-  "2022-11-05": 48187,
-  "2022-11-06": 48234,
-  "2022-11-07": 48281,
-  "2022-11-08": 48304,
-  "2022-11-09": 48342,
-  "2022-11-10": 48363,
-  "2022-11-11": 48391,
-  "2022-11-12": 48445,
-  "2022-11-13": 48482,
-  "2022-11-14": 48531,
-  "2022-11-15": 48564,
-  "2022-11-16": 48591,
-  "2022-11-17": 48617,
-  "2022-11-18": 48625,
-  "2022-11-19": 48639,
-  "2022-11-20": 48676,
-  "2022-11-21": 48728,
-  "2022-11-22": 48745,
-  "2022-11-23": 48779,
-  "2022-11-24": 48829,
-  "2022-11-25": 48871,
-  "2022-11-26": 48901,
-  "2022-11-27": 48928,
-  "2022-11-28": 48962,
-  "2022-11-29": 48980,
-  "2022-11-30": 49016,
-  "2022-12-01": 49050,
-  "2022-12-02": 49072,
-  "2022-12-03": 49120,
-  "2022-12-04": 49151,
-  "2022-12-05": 49185,
-  "2022-12-06": 49210,
-  "2022-12-07": 49241,
-  "2022-12-08": 49273,
-  "2022-12-09": 49320,
-  "2022-12-10": 49344,
-  "2022-12-11": 49367,
-  "2022-12-12": 49409,
-  "2022-12-13": 49438,
-  "2022-12-14": 49463,
-  "2022-12-15": 49495,
-  "2022-12-16": 49522,
-  "2022-12-17": 49547,
-  "2022-12-18": 49584,
-  "2022-12-19": 49621,
-  "2022-12-20": 49663,
-  "2022-12-21": 49663,
-  "2022-12-22": 49702,
-  "2022-12-24": 49795,
-  "2022-12-25": 49853,
-  "2022-12-26": 49893,
-  "2022-12-27": 49920,
-  "2022-12-28": 49948,
-  "2022-12-29": 49986,
-  "2022-12-30": 50021,
-  "2022-12-31": 50074,
-  "2023-01-01": 50116,
-  "2023-01-02": 50161,
-  "2023-01-03": 50199,
-  "2023-01-04": 50232,
-  "2023-01-05": 50258,
-  "2023-01-06": 50299,
-  "2023-01-07": 50358,
-  "2023-01-08": 50361,
-  "2023-01-09": 50412,
-  "2023-01-10": 50440,
-  "2023-01-11": 50469,
-  "2023-01-12": 50497,
-  "2023-01-13": 50535,
-  "2023-01-14": 50596,
-  "2023-01-15": 50608,
-  "2023-01-16": 50654,
-  "2023-01-17": 50682,
-  "2023-01-18": 50706,
-  "2023-01-19": 50730,
-  "2023-01-20": 50750,
-  "2023-01-21": 50788,
-  "2023-01-22": 50822,
-  "2023-01-23": 50854,
-  "2023-01-24": 50881,
-  "2023-01-25": 50926,
-  "2023-01-26": 50958,
-  "2023-01-27": 50982,
-  "2023-01-28": 51009,
-  "2023-01-29": 51050,
-  "2023-01-30": 51102,
-  "2023-01-31": 51102,
-  "2023-02-01": 51159,
-  "2023-02-02": 51188,
-  "2023-02-03": 51222,
-  "2023-02-04": 51261,
-  "2023-02-05": 51306,
-  "2023-02-06": 51347,
-  "2023-02-07": 51356,
-  "2023-02-08": 51398,
-  "2023-02-09": 51398,
-  "2023-02-10": 51418,
-  "2023-02-11": 51446,
-  "2023-02-12": 51505,
-  "2023-02-13": 51538,
-  "2023-02-14": 51538,
-  "2023-02-15": 51561,
-  "2023-02-16": 51588,
-  "2023-02-17": 51615,
-  "2023-02-18": 51695,
-  "2023-02-19": 51695,
-  "2023-02-20": 51718,
-  "2023-02-21": 51763,
-  "2023-02-22": 51790,
-  "2023-02-23": 51820,
-  "2023-02-24": 51858,
-  "2023-02-25": 51897,
-  "2023-02-26": 51917,
-  "2023-02-27": 51972,
-  "2023-02-28": 51972,
-  "2023-03-01": 52016,
-  "2023-03-02": 52037,
-  "2023-03-03": 52067,
-  "2023-03-04": 52095,
-  "2023-03-05": 52169,
-  "2023-03-06": 52169,
-  "2023-03-07": 52194,
-  "2023-03-08": 52218,
-  "2023-03-09": 52248,
-  "2023-03-10": 52274,
-  "2023-03-11": 52314,
-  "2023-03-12": 52350,
-  "2023-03-13": 52388,
-  "2023-03-14": 52418,
-  "2023-03-15": 52450,
-  "2023-03-16": 52450,
-  "2023-03-17": 52450,
-  "2023-03-18": 52546,
-  "2023-03-19": 52546,
-  "2023-03-20": 52601,
-  "2023-03-21": 52627,
-  "2023-03-22": 52652,
-  "2023-03-23": 52680,
-  "2023-03-24": 52680,
-  "2023-03-25": 52746,
-  "2023-03-26": 52812,
-  "2023-03-27": 52854,
-  "2023-03-28": 52885,
-  "2023-03-29": 52927,
-  "2023-03-30": 52978,
-  "2023-03-31": 52978,
-  "2023-04-01": 53017,
-  "2023-04-02": 53063,
-  "2023-04-03": 53100,
-  "2023-04-04": 53139,
-  "2023-04-05": 53170,
-  "2023-04-06": 53201,
-  "2023-04-07": 53234,
-  "2023-04-09": 53310,
-  "2023-04-10": 53350,
-  "2023-04-11": 53401,
-  "2023-04-12": 53401,
-  "2023-04-13": 53431,
-  "2023-04-14": 53466,
-  "2023-04-15": 53508,
-  "2023-04-16": 53539,
-  "2023-04-17": 53569,
-  "2023-04-18": 53611,
-  "2023-04-19": 53633,
-  "2023-04-20": 53670,
-  "2023-04-21": 53698,
-  "2023-04-22": 53753,
-  "2023-04-23": 53808,
-  "2023-04-24": 53844,
-  "2023-04-25": 53874,
-  "2023-04-26": 53902,
-  "2023-04-27": 53923,
-  "2023-04-28": 53957,
-  "2023-04-29": 54007,
-  "2023-04-30": 54065,
-  "2023-05-01": 54096,
-  "2023-05-02": 54135,
-  "2023-05-03": 54167,
-  "2023-05-04": 54191,
-  "2023-05-05": 54227,
-  "2023-05-06": 54265,
-  "2023-05-07": 54315,
-  "2023-05-08": 54355,
-  "2023-05-09": 54392,
-  "2023-05-10": 54426,
-  "2023-05-11": 54462,
-  "2023-05-12": 54488,
-  "2023-05-13": 54537,
-  "2023-05-14": 54576,
-  "2023-05-15": 54619,
-  "2023-05-16": 54658,
-  "2023-05-17": 54689,
-  "2023-05-18": 54723,
-  "2023-05-19": 54769,
-  "2023-05-20": 54849,
-  "2023-05-21": 54849,
-  "2023-05-22": 54849,
-  "2023-05-23": 54906,
-  "2023-05-24": 54979,
-  "2023-05-25": 54993,
-  "2023-05-26": 55056,
-  "2023-05-27": 55101,
-  "2023-05-28": 55144,
-  "2023-05-29": 55144,
-  "2023-05-30": 55213,
-  "2023-05-31": 55248,
-  "2023-06-01": 55286,
-  "2023-06-02": 55325,
-  "2023-06-03": 55367,
-  "2023-06-04": 55408,
-  "2023-06-05": 55440,
-  "2023-06-06": 55472,
-  "2023-06-07": 55507,
-  "2023-06-08": 55556,
-  "2023-06-09": 55592,
-  "2023-06-10": 55637,
-  "2023-06-11": 55685,
-  "2023-06-12": 55734,
-  "2023-06-13": 55771,
-  "2023-06-14": 55801,
-  "2023-06-15": 55829,
-  "2023-06-16": 55864,
-  "2023-06-17": 55909,
-  "2023-06-18": 55964,
-  "2023-06-19": 56010,
-  "2023-06-20": 56041,
-  "2023-06-21": 56087,
-  "2023-06-22": 56113,
-  "2023-06-23": 56163,
-  "2023-06-24": 56191,
-  "2023-06-25": 56239,
-  "2023-06-26": 56288,
-  "2023-06-27": 56329,
-  "2023-06-28": 56366,
-  "2023-06-29": 56398,
-  "2023-06-30": 56425,
-  "2023-07-01": 56501,
-  "2023-07-02": 56501,
-  "2023-07-03": 56533,
-  "2023-07-04": 56563,
-  "2023-07-05": 56599,
-  "2023-07-06": 56675,
-  "2023-07-07": 56675,
-  "2023-07-08": 56675,
-  "2023-07-09": 56752,
-  "2023-07-10": 56752,
-  "2023-07-11": 56820,
-  "2023-07-12": 56849,
-  "2023-07-13": 56849,
-  "2023-07-14": 56936,
-  "2023-07-15": 56960,
-  "2023-07-16": 56998,
-  "2023-07-17": 57042,
-  "2023-07-18": 57075,
-  "2023-07-19": 57110,
-  "2023-07-20": 57110,
-  "2023-07-21": 57168,
-  "2023-07-22": 57206,
-  "2023-07-23": 57244,
-  "2023-07-24": 57280,
-  "2023-07-25": 57309,
-  "2023-07-26": 57347,
-  "2023-07-27": 57389,
-  "2023-07-28": 57389,
-  "2023-07-29": 57485,
-  "2023-07-30": 57485,
-  "2023-07-31": 57561,
-  "2023-08-01": 57590,
-  "2023-08-02": 57631,
-  "2023-08-03": 57677,
-  "2023-08-04": 57701,
-  "2023-08-05": 57743,
-  "2023-08-06": 57820,
-  "2023-08-07": 57820,
-  "2023-08-08": 57852,
-  "2023-08-09": 57890,
-  "2023-08-10": 57922,
-  "2023-08-11": 57965,
-  "2023-08-12": 57965,
-  "2023-08-13": 57965,
-  "2023-08-14": 57965,
-  "2023-08-15": 57965,
-  "2023-08-16": 57965,
-  "2023-08-17": 57965,
-  "2023-08-18": 57965,
-  "2023-08-19": 57965,
-  "2023-08-20": 58371,
-  "2023-08-21": 58371,
-  "2023-08-22": 58447,
-  "2023-08-23": 58447,
-  "2023-08-24": 58447,
-  "2023-08-25": 58447,
-  "2023-08-26": 58619,
-  "2023-08-27": 58619,
-  "2023-08-28": 58701,
-  "2023-08-29": 58701,
-  "2023-08-30": 58701,
-  "2023-08-31": 58811,
-  "2023-09-01": 58845,
-  "2023-09-02": 58845,
-  "2023-09-03": 58845,
-  "2023-09-04": 58845,
-  "2023-09-05": 58845,
-  "2023-09-06": 58845,
-  "2023-09-07": 58845,
-  "2023-09-08": 58845,
-  "2023-09-09": 58845,
-  "2023-09-10": 58845,
-  "2023-09-11": 58845,
-  "2023-09-12": 58845,
-  "2023-09-13": 58845,
-  "2023-09-14": 58845,
-  "2023-09-15": 58845,
-  "2023-09-16": 58845,
-  "2023-09-17": 58845,
-  "2023-09-18": 58845,
-  "2023-09-19": 58845,
-  "2023-09-20": 58845,
-  "2023-09-21": 58845,
-  "2023-09-22": 59625,
-  "2023-09-23": 59625,
-  "2023-09-24": 59625,
-  "2023-09-25": 59625,
-  "2023-09-26": 59753,
-  "2023-09-27": 59753,
-  "2023-09-28": 59753,
-  "2023-09-29": 59753,
-  "2023-09-30": 59753,
-  "2023-10-01": 59753,
-  "2023-10-02": 59753,
-  "2023-10-03": 59753,
-  "2023-10-04": 59753,
-  "2023-10-05": 59753,
-  "2023-10-06": 59753,
-  "2023-10-07": 59753,
-  "2023-10-08": 59753,
-  "2023-10-09": 59753,
-  "2023-10-10": 59753,
-  "2023-10-11": 59753,
-  "2023-10-12": 59753,
-  "2023-10-13": 59753,
-  "2023-10-14": 59753,
-  "2023-10-15": 59753,
-  "2023-10-16": 59753,
-  "2023-10-17": 59753,
-  "2023-10-18": 59753,
-  "2023-10-19": 59753,
-  "2023-10-20": 59753,
-  "2023-10-21": 59753,
-  "2023-10-22": 59753,
-  "2023-10-23": 59753,
-  "2023-10-24": 59753,
-  "2023-10-25": 59753,
-  "2023-10-26": 59753,
-  "2023-10-27": 59753,
-  "2023-10-28": 59753,
-  "2023-10-29": 59753,
-  "2023-10-30": 59753,
-  "2023-10-31": 59753,
-  "2023-11-01": 59753,
-  "2023-11-02": 59753,
-  "2023-11-03": 59753,
-  "2023-11-04": 59753,
-  "2023-11-05": 59753,
-  "2023-11-06": 59753,
-  "2023-11-07": 59753,
-  "2023-11-08": 59753,
-  "2023-11-09": 59753,
-  "2023-11-10": 59753,
-  "2023-11-11": 61087,
-  "2023-11-12": 61087,
-  "2023-11-13": 61087,
-  "2023-11-14": 61087,
-  "2023-11-15": 61087,
-  "2023-11-16": 61087,
-  "2023-11-17": 61087,
-  "2023-11-18": 61087,
-  "2023-11-19": 61087,
-  "2023-11-20": 61087,
-  "2023-11-21": 61087,
-  "2023-11-22": 61087,
-  "2023-11-23": 61087,
-  "2023-11-24": 61087,
-  "2023-11-25": 61087,
-  "2023-11-26": 61087,
-  "2023-11-27": 61087,
-  "2023-11-28": 61087,
-  "2023-11-29": 61087,
-  "2023-11-30": 61087,
-  "2023-12-01": 61087,
-  "2023-12-02": 61087,
-  "2023-12-03": 61087,
-  "2023-12-04": 61087,
-  "2023-12-05": 61087,
-  "2023-12-06": 61087,
-  "2023-12-07": 61087,
-  "2023-12-08": 61087,
-  "2023-12-09": 61087,
-  "2023-12-10": 61087,
-  "2023-12-11": 61087,
-  "2023-12-12": 61087,
-  "2023-12-13": 61087,
-  "2023-12-14": 62168,
-  "2023-12-15": 62200,
-  "2023-12-16": 62229,
-  "2023-12-17": 62277,
-  "2023-12-18": 62310,
-  "2023-12-19": 62336,
-  "2023-12-20": 62374,
-  "2023-12-21": 62411,
-  "2023-12-22": 62457,
-  "2023-12-23": 62510,
-  "2023-12-24": 62561,
-  "2023-12-25": 62621,
-  "2023-12-26": 62666,
-  "2023-12-27": 62715,
-  "2023-12-30": 62847,
-  "2023-12-31": 62911,
-  "2024-01-01": 62982,
-  "2024-01-02": 63038,
-  "2024-01-03": 63085
+  "2024-01-17": 63573,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
+  "name": "This Is Willie Col\u00f3n",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263773,
+      "name": "Abuelita",
+      "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
+    },
+    {
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+    },
+    {
+      "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+    },
+    {
+      "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF"
+    },
+    {
+      "album": {
+        "name": "Top Secrets",
+        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Legal Alien",
+          "url": "https://open.spotify.com/artist/7vfizYhRy90JbEGQHUih3T"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 353773,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306640,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
+    },
+    {
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/0oCentzpU5hprEWJtggVIc"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347280,
+      "name": "Buscando Guayaba",
+      "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
+    },
+    {
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "Calle Luna Calle Sol",
+      "url": "https://open.spotify.com/track/1Ics9ai6jbcHHBRaTy1HiD"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
+    },
+    {
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 241512,
+      "name": "Celo",
+      "url": "https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy"
+    },
+    {
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318520,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
+    },
+    {
+      "album": {
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
+    },
+    {
+      "album": {
+        "name": "Siembra (Special Edition)",
+        "url": "https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421200,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r"
+    },
+    {
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
+    },
+    {
+      "album": {
+        "name": "Top Secrets",
+        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414706,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+    },
+    {
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1fIjc50dmcl9PkH3E4iG4E"
+    },
+    {
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "album": {
+        "name": "Estar Lejos",
+        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247092,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
+    },
+    {
+      "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414266,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt"
+    },
+    {
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 248280,
+      "name": "Guajira Ven",
+      "url": "https://open.spotify.com/track/60SzOJfsiQmP6tjB9t1pIA"
+    },
+    {
+      "album": {
+        "name": "The Good, The Bad, And The Ugly",
+        "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 308520,
+      "name": "G\u00fcaracha",
+      "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338013,
+      "name": "Juana Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
+    },
+    {
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364160,
+      "name": "Ligia Elena",
+      "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
+    },
+    {
+      "album": {
+        "name": "Durando...",
+        "url": "https://open.spotify.com/album/0yNoH92hDL674j5VHPLdCQ"
+      },
+      "artists": [
+        {
+          "name": "Amilcar Boscan",
+          "url": "https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254930,
+      "name": "Los Olores Del Amor",
+      "url": "https://open.spotify.com/track/7IohE5vxO2AdL0Amc5b8Qc"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331440,
+      "name": "Mar\u00eda Lionza",
+      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
+    },
+    {
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396048,
+      "name": "Mi Sueno",
+      "url": "https://open.spotify.com/track/7L1SGKE5a8GeCY03uY4XUS"
+    },
+    {
+      "album": {
+        "name": "Doble Energ\u00eda",
+        "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412106,
+      "name": "No Me Digan Que Es Muy Tarde",
+      "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337680,
+      "name": "No Me Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294120,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/5VjFc9kiG81CsUpViDXcdo"
+    },
+    {
+      "album": {
+        "name": "A Man And His Music: Poeta del Pueblo",
+        "url": "https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 239400,
+      "name": "Pablo Pueblo",
+      "url": "https://open.spotify.com/track/3DnFqj6qx4xyNTfdaoNI5V"
+    },
+    {
+      "album": {
+        "name": "La Gran Fuga",
+        "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 354600,
+      "name": "Paname\u00f1a",
+      "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
+    },
+    {
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 704466,
+      "name": "Pas\u00e9 La Noche Fumando",
+      "url": "https://open.spotify.com/track/2VcX1Y1jsmtNtyjdyN7eMS"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "album": {
+        "name": "Siembra (Special Edition)",
+        "url": "https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 385320,
+      "name": "Pedro Navaja - (Take 2)",
+      "url": "https://open.spotify.com/track/1aTfOFpmTPx8NVtOf6cPUM"
+    },
+    {
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316680,
+      "name": "Pira\u00f1a",
+      "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
+    },
+    {
+      "album": {
+        "name": "Metiendo Mano",
+        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Plantaci\u00f3n Adentro",
+      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
+    },
+    {
+      "album": {
+        "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
+        "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 173226,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401880,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    {
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389560,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
+    },
+    {
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277186,
+      "name": "Qu\u00e9 L\u00edo",
+      "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
+    },
+    {
+      "album": {
+        "name": "A Band And Their Music: Campeones",
+        "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Santos Col\u00f3n",
+          "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331720,
+      "name": "Qu\u00edtate T\u00fa - Live",
+      "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 157320,
+      "name": "Si Te Contara",
+      "url": "https://open.spotify.com/track/0m0H3qiOm8hJtXQpSZaEpL"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325080,
+      "name": "Siembra",
+      "url": "https://open.spotify.com/track/362GCFRPvy9wChpMudJMAx"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Sin Poderte Hablar",
+      "url": "https://open.spotify.com/track/0cG5FL1bWUhhZTCaiRQVsg"
+    },
+    {
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/6ROTUtQlp130rdHDff3nhE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 245400,
+      "name": "Skinny Papa",
+      "url": "https://open.spotify.com/track/0zT2GVZPi7pubacS64Cjab"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295480,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
+    },
+    {
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388160,
+      "name": "Te Est\u00e1n Buscando",
+      "url": "https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac"
+    },
+    {
+      "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420666,
+      "name": "Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
+    },
+    {
+      "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    {
+      "album": {
+        "name": "49 Minutes",
+        "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497640,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+    },
+    {
+      "album": {
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303373,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7"
+    },
+    {
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371773,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+    },
+    {
+      "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "album": {
+        "name": "The Last Fight",
+        "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513320,
+      "name": "Yo Puedo Vivir Del Amor",
+      "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4szWAU"
 }

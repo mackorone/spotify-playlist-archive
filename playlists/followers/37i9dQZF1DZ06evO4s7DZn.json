@@ -1,577 +1,1903 @@
 {
-  "2022-06-02": 3907,
-  "2022-06-03": 3908,
-  "2022-06-04": 3912,
-  "2022-06-05": 3917,
-  "2022-06-06": 3918,
-  "2022-06-07": 3921,
-  "2022-06-08": 3924,
-  "2022-06-09": 3928,
-  "2022-06-10": 3929,
-  "2022-06-11": 3934,
-  "2022-06-12": 3936,
-  "2022-06-13": 3940,
-  "2022-06-14": 3942,
-  "2022-06-15": 3946,
-  "2022-06-16": 3945,
-  "2022-06-17": 3950,
-  "2022-06-18": 3954,
-  "2022-06-19": 3962,
-  "2022-06-20": 3962,
-  "2022-06-21": 3962,
-  "2022-06-22": 3967,
-  "2022-06-23": 3967,
-  "2022-06-24": 3975,
-  "2022-06-25": 3977,
-  "2022-06-26": 3983,
-  "2022-06-27": 3989,
-  "2022-06-28": 3991,
-  "2022-06-29": 3993,
-  "2022-06-30": 3994,
-  "2022-07-01": 3997,
-  "2022-07-02": 4003,
-  "2022-07-03": 4006,
-  "2022-07-04": 4006,
-  "2022-07-05": 4006,
-  "2022-07-06": 4006,
-  "2022-07-07": 4013,
-  "2022-07-08": 4010,
-  "2022-07-09": 4011,
-  "2022-07-10": 4016,
-  "2022-07-11": 4020,
-  "2022-07-12": 4022,
-  "2022-07-13": 4029,
-  "2022-07-14": 4031,
-  "2022-07-15": 4031,
-  "2022-07-16": 4035,
-  "2022-07-17": 4037,
-  "2022-07-18": 4040,
-  "2022-07-19": 4040,
-  "2022-07-20": 4041,
-  "2022-07-21": 4043,
-  "2022-07-22": 4043,
-  "2022-07-23": 4046,
-  "2022-07-24": 4047,
-  "2022-07-25": 4051,
-  "2022-07-26": 4054,
-  "2022-07-27": 4059,
-  "2022-07-28": 4065,
-  "2022-07-29": 4072,
-  "2022-07-30": 4081,
-  "2022-07-31": 4081,
-  "2022-08-01": 4084,
-  "2022-08-02": 4091,
-  "2022-08-03": 4091,
-  "2022-08-04": 4096,
-  "2022-08-05": 4102,
-  "2022-08-06": 4104,
-  "2022-08-07": 4113,
-  "2022-08-08": 4120,
-  "2022-08-09": 4123,
-  "2022-08-10": 4125,
-  "2022-08-11": 4125,
-  "2022-08-12": 4128,
-  "2022-08-13": 4133,
-  "2022-08-14": 4137,
-  "2022-08-15": 4142,
-  "2022-08-16": 4145,
-  "2022-08-17": 4146,
-  "2022-08-18": 4153,
-  "2022-08-19": 4159,
-  "2022-08-20": 4162,
-  "2022-08-21": 4166,
-  "2022-08-22": 4172,
-  "2022-08-23": 4173,
-  "2022-08-24": 4177,
-  "2022-08-25": 4181,
-  "2022-08-26": 4182,
-  "2022-08-27": 4185,
-  "2022-08-28": 4188,
-  "2022-08-29": 4190,
-  "2022-08-30": 4194,
-  "2022-08-31": 4199,
-  "2022-09-01": 4202,
-  "2022-09-02": 4209,
-  "2022-09-03": 4212,
-  "2022-09-04": 4216,
-  "2022-09-05": 4221,
-  "2022-09-06": 4221,
-  "2022-09-07": 4224,
-  "2022-09-09": 4233,
-  "2022-09-10": 4237,
-  "2022-09-11": 4243,
-  "2022-09-12": 4246,
-  "2022-09-13": 4249,
-  "2022-09-15": 4254,
-  "2022-09-16": 4258,
-  "2022-09-17": 4258,
-  "2022-09-18": 4263,
-  "2022-09-19": 4271,
-  "2022-09-20": 4278,
-  "2022-09-21": 4284,
-  "2022-09-22": 4288,
-  "2022-09-23": 4293,
-  "2022-09-24": 4293,
-  "2022-09-25": 4304,
-  "2022-09-26": 4311,
-  "2022-09-27": 4312,
-  "2022-09-28": 4318,
-  "2022-09-29": 4318,
-  "2022-09-30": 4324,
-  "2022-10-01": 4325,
-  "2022-10-02": 4329,
-  "2022-10-03": 4332,
-  "2022-10-04": 4334,
-  "2022-10-05": 4335,
-  "2022-10-06": 4338,
-  "2022-10-07": 4340,
-  "2022-10-08": 4343,
-  "2022-10-09": 4350,
-  "2022-10-10": 4349,
-  "2022-10-11": 4353,
-  "2022-10-12": 4355,
-  "2022-10-13": 4360,
-  "2022-10-14": 4364,
-  "2022-10-15": 4372,
-  "2022-10-16": 4375,
-  "2022-10-17": 4383,
-  "2022-10-18": 4386,
-  "2022-10-19": 4390,
-  "2022-10-20": 4393,
-  "2022-10-21": 4397,
-  "2022-10-22": 4403,
-  "2022-10-23": 4409,
-  "2022-10-24": 4413,
-  "2022-10-25": 4415,
-  "2022-10-26": 4417,
-  "2022-10-27": 4418,
-  "2022-10-28": 4424,
-  "2022-10-29": 4426,
-  "2022-10-30": 4432,
-  "2022-10-31": 4436,
-  "2022-11-01": 4440,
-  "2022-11-02": 4445,
-  "2022-11-03": 4452,
-  "2022-11-04": 4454,
-  "2022-11-05": 4456,
-  "2022-11-06": 4464,
-  "2022-11-07": 4467,
-  "2022-11-08": 4473,
-  "2022-11-09": 4478,
-  "2022-11-10": 4480,
-  "2022-11-11": 4484,
-  "2022-11-12": 4495,
-  "2022-11-13": 4500,
-  "2022-11-14": 4505,
-  "2022-11-15": 4513,
-  "2022-11-16": 4519,
-  "2022-11-17": 4525,
-  "2022-11-18": 4525,
-  "2022-11-19": 4528,
-  "2022-11-20": 4530,
-  "2022-11-21": 4533,
-  "2022-11-22": 4537,
-  "2022-11-23": 4540,
-  "2022-11-24": 4542,
-  "2022-11-25": 4548,
-  "2022-11-26": 4554,
-  "2022-11-27": 4560,
-  "2022-11-28": 4564,
-  "2022-11-29": 4565,
-  "2022-11-30": 4569,
-  "2022-12-01": 4572,
-  "2022-12-02": 4572,
-  "2022-12-03": 4579,
-  "2022-12-04": 4582,
-  "2022-12-05": 4586,
-  "2022-12-06": 4593,
-  "2022-12-07": 4599,
-  "2022-12-08": 4606,
-  "2022-12-09": 4610,
-  "2022-12-10": 4613,
-  "2022-12-11": 4616,
-  "2022-12-12": 4618,
-  "2022-12-13": 4619,
-  "2022-12-14": 4622,
-  "2022-12-15": 4624,
-  "2022-12-16": 4630,
-  "2022-12-17": 4637,
-  "2022-12-18": 4641,
-  "2022-12-19": 4646,
-  "2022-12-20": 4655,
-  "2022-12-21": 4655,
-  "2022-12-22": 4663,
-  "2022-12-24": 4677,
-  "2022-12-25": 4683,
-  "2022-12-26": 4689,
-  "2022-12-27": 4692,
-  "2022-12-28": 4698,
-  "2022-12-29": 4702,
-  "2022-12-30": 4706,
-  "2022-12-31": 4711,
-  "2023-01-01": 4717,
-  "2023-01-02": 4719,
-  "2023-01-03": 4727,
-  "2023-01-04": 4735,
-  "2023-01-05": 4738,
-  "2023-01-06": 4751,
-  "2023-01-07": 4755,
-  "2023-01-08": 4752,
-  "2023-01-09": 4757,
-  "2023-01-10": 4760,
-  "2023-01-11": 4761,
-  "2023-01-12": 4769,
-  "2023-01-13": 4774,
-  "2023-01-14": 4785,
-  "2023-01-15": 4789,
-  "2023-01-16": 4801,
-  "2023-01-17": 4805,
-  "2023-01-18": 4805,
-  "2023-01-19": 4810,
-  "2023-01-20": 4815,
-  "2023-01-21": 4825,
-  "2023-01-22": 4828,
-  "2023-01-23": 4834,
-  "2023-01-24": 4839,
-  "2023-01-25": 4849,
-  "2023-01-26": 4850,
-  "2023-01-27": 4853,
-  "2023-01-28": 4856,
-  "2023-01-29": 4860,
-  "2023-01-30": 4868,
-  "2023-01-31": 4868,
-  "2023-02-01": 4878,
-  "2023-02-02": 4883,
-  "2023-02-03": 4888,
-  "2023-02-04": 4897,
-  "2023-02-05": 4900,
-  "2023-02-06": 4908,
-  "2023-02-07": 4911,
-  "2023-02-08": 4921,
-  "2023-02-09": 4921,
-  "2023-02-10": 4923,
-  "2023-02-11": 4928,
-  "2023-02-12": 4938,
-  "2023-02-13": 4941,
-  "2023-02-14": 4941,
-  "2023-02-15": 4946,
-  "2023-02-16": 4946,
-  "2023-02-17": 4948,
-  "2023-02-18": 4958,
-  "2023-02-19": 4958,
-  "2023-02-20": 4960,
-  "2023-02-21": 4961,
-  "2023-02-22": 4970,
-  "2023-02-23": 4973,
-  "2023-02-24": 4978,
-  "2023-02-25": 4985,
-  "2023-02-26": 4987,
-  "2023-02-27": 5003,
-  "2023-02-28": 5003,
-  "2023-03-01": 5007,
-  "2023-03-02": 5013,
-  "2023-03-03": 5019,
-  "2023-03-04": 5025,
-  "2023-03-05": 5035,
-  "2023-03-06": 5035,
-  "2023-03-07": 5037,
-  "2023-03-08": 5038,
-  "2023-03-09": 5037,
-  "2023-03-10": 5040,
-  "2023-03-11": 5044,
-  "2023-03-12": 5051,
-  "2023-03-13": 5057,
-  "2023-03-14": 5062,
-  "2023-03-15": 5065,
-  "2023-03-16": 5065,
-  "2023-03-17": 5065,
-  "2023-03-18": 5079,
-  "2023-03-19": 5079,
-  "2023-03-20": 5092,
-  "2023-03-21": 5094,
-  "2023-03-22": 5101,
-  "2023-03-23": 5109,
-  "2023-03-24": 5109,
-  "2023-03-25": 5120,
-  "2023-03-26": 5121,
-  "2023-03-27": 5124,
-  "2023-03-28": 5130,
-  "2023-03-29": 5132,
-  "2023-03-30": 5138,
-  "2023-03-31": 5138,
-  "2023-04-01": 5146,
-  "2023-04-02": 5149,
-  "2023-04-03": 5157,
-  "2023-04-04": 5156,
-  "2023-04-05": 5160,
-  "2023-04-06": 5166,
-  "2023-04-07": 5173,
-  "2023-04-09": 5178,
-  "2023-04-10": 5181,
-  "2023-04-11": 5188,
-  "2023-04-12": 5188,
-  "2023-04-13": 5195,
-  "2023-04-14": 5198,
-  "2023-04-15": 5203,
-  "2023-04-16": 5202,
-  "2023-04-17": 5205,
-  "2023-04-18": 5212,
-  "2023-04-19": 5212,
-  "2023-04-20": 5213,
-  "2023-04-21": 5219,
-  "2023-04-22": 5220,
-  "2023-04-23": 5231,
-  "2023-04-24": 5236,
-  "2023-04-25": 5241,
-  "2023-04-26": 5244,
-  "2023-04-27": 5252,
-  "2023-04-28": 5256,
-  "2023-04-29": 5262,
-  "2023-04-30": 5268,
-  "2023-05-01": 5271,
-  "2023-05-02": 5280,
-  "2023-05-03": 5285,
-  "2023-05-04": 5288,
-  "2023-05-05": 5294,
-  "2023-05-06": 5299,
-  "2023-05-07": 5303,
-  "2023-05-08": 5309,
-  "2023-05-09": 5318,
-  "2023-05-10": 5323,
-  "2023-05-11": 5327,
-  "2023-05-12": 5332,
-  "2023-05-13": 5336,
-  "2023-05-14": 5341,
-  "2023-05-15": 5346,
-  "2023-05-16": 5350,
-  "2023-05-17": 5354,
-  "2023-05-18": 5355,
-  "2023-05-19": 5363,
-  "2023-05-20": 5367,
-  "2023-05-21": 5367,
-  "2023-05-22": 5367,
-  "2023-05-23": 5370,
-  "2023-05-24": 5372,
-  "2023-05-25": 5376,
-  "2023-05-26": 5382,
-  "2023-05-27": 5387,
-  "2023-05-28": 5394,
-  "2023-05-29": 5394,
-  "2023-05-30": 5400,
-  "2023-05-31": 5401,
-  "2023-06-01": 5404,
-  "2023-06-02": 5413,
-  "2023-06-03": 5417,
-  "2023-06-04": 5419,
-  "2023-06-05": 5421,
-  "2023-06-06": 5423,
-  "2023-06-07": 5428,
-  "2023-06-08": 5433,
-  "2023-06-09": 5434,
-  "2023-06-10": 5438,
-  "2023-06-11": 5445,
-  "2023-06-12": 5446,
-  "2023-06-13": 5447,
-  "2023-06-14": 5451,
-  "2023-06-15": 5458,
-  "2023-06-16": 5462,
-  "2023-06-17": 5467,
-  "2023-06-18": 5472,
-  "2023-06-19": 5475,
-  "2023-06-20": 5479,
-  "2023-06-21": 5486,
-  "2023-06-22": 5492,
-  "2023-06-23": 5496,
-  "2023-06-24": 5500,
-  "2023-06-25": 5503,
-  "2023-06-26": 5509,
-  "2023-06-27": 5514,
-  "2023-06-28": 5517,
-  "2023-06-29": 5522,
-  "2023-06-30": 5524,
-  "2023-07-01": 5527,
-  "2023-07-02": 5527,
-  "2023-07-03": 5533,
-  "2023-07-04": 5535,
-  "2023-07-05": 5539,
-  "2023-07-06": 5541,
-  "2023-07-07": 5541,
-  "2023-07-08": 5541,
-  "2023-07-09": 5550,
-  "2023-07-10": 5557,
-  "2023-07-11": 5561,
-  "2023-07-12": 5563,
-  "2023-07-13": 5563,
-  "2023-07-14": 5569,
-  "2023-07-15": 5573,
-  "2023-07-16": 5577,
-  "2023-07-17": 5580,
-  "2023-07-18": 5582,
-  "2023-07-19": 5587,
-  "2023-07-20": 5587,
-  "2023-07-21": 5599,
-  "2023-07-22": 5603,
-  "2023-07-23": 5607,
-  "2023-07-24": 5613,
-  "2023-07-25": 5615,
-  "2023-07-26": 5618,
-  "2023-07-27": 5625,
-  "2023-07-28": 5625,
-  "2023-07-29": 5636,
-  "2023-07-30": 5636,
-  "2023-07-31": 5640,
-  "2023-08-01": 5651,
-  "2023-08-02": 5654,
-  "2023-08-03": 5661,
-  "2023-08-04": 5664,
-  "2023-08-05": 5672,
-  "2023-08-06": 5680,
-  "2023-08-07": 5680,
-  "2023-08-08": 5680,
-  "2023-08-09": 5683,
-  "2023-08-10": 5690,
-  "2023-08-11": 5696,
-  "2023-08-12": 5696,
-  "2023-08-13": 5696,
-  "2023-08-14": 5696,
-  "2023-08-15": 5696,
-  "2023-08-16": 5696,
-  "2023-08-17": 5696,
-  "2023-08-18": 5696,
-  "2023-08-19": 5696,
-  "2023-08-20": 5743,
-  "2023-08-21": 5743,
-  "2023-08-22": 5757,
-  "2023-08-23": 5757,
-  "2023-08-24": 5757,
-  "2023-08-25": 5757,
-  "2023-08-26": 5773,
-  "2023-08-27": 5773,
-  "2023-08-28": 5785,
-  "2023-08-29": 5785,
-  "2023-08-30": 5785,
-  "2023-08-31": 5802,
-  "2023-09-01": 5806,
-  "2023-09-02": 5806,
-  "2023-09-03": 5806,
-  "2023-09-04": 5806,
-  "2023-09-05": 5806,
-  "2023-09-06": 5806,
-  "2023-09-07": 5806,
-  "2023-09-08": 5806,
-  "2023-09-09": 5806,
-  "2023-09-10": 5806,
-  "2023-09-11": 5806,
-  "2023-09-12": 5806,
-  "2023-09-13": 5806,
-  "2023-09-14": 5806,
-  "2023-09-15": 5806,
-  "2023-09-16": 5806,
-  "2023-09-17": 5806,
-  "2023-09-18": 5806,
-  "2023-09-19": 5806,
-  "2023-09-20": 5806,
-  "2023-09-21": 5806,
-  "2023-09-22": 5921,
-  "2023-09-23": 5921,
-  "2023-09-24": 5921,
-  "2023-09-25": 5921,
-  "2023-09-26": 5936,
-  "2023-09-27": 5936,
-  "2023-09-28": 5936,
-  "2023-09-29": 5936,
-  "2023-09-30": 5936,
-  "2023-10-01": 5936,
-  "2023-10-02": 5936,
-  "2023-10-03": 5936,
-  "2023-10-04": 5936,
-  "2023-10-05": 5936,
-  "2023-10-06": 5936,
-  "2023-10-07": 5936,
-  "2023-10-08": 5936,
-  "2023-10-09": 5936,
-  "2023-10-10": 5936,
-  "2023-10-11": 5936,
-  "2023-10-12": 5936,
-  "2023-10-13": 5936,
-  "2023-10-14": 5936,
-  "2023-10-15": 5936,
-  "2023-10-16": 5936,
-  "2023-10-17": 5936,
-  "2023-10-18": 5936,
-  "2023-10-19": 5936,
-  "2023-10-20": 5936,
-  "2023-10-21": 5936,
-  "2023-10-22": 5936,
-  "2023-10-23": 5936,
-  "2023-10-24": 5936,
-  "2023-10-25": 5936,
-  "2023-10-26": 5936,
-  "2023-10-27": 5936,
-  "2023-10-28": 5936,
-  "2023-10-29": 5936,
-  "2023-10-30": 5936,
-  "2023-10-31": 5936,
-  "2023-11-01": 5936,
-  "2023-11-02": 5936,
-  "2023-11-03": 5936,
-  "2023-11-04": 5936,
-  "2023-11-05": 5936,
-  "2023-11-06": 5936,
-  "2023-11-07": 5936,
-  "2023-11-08": 5936,
-  "2023-11-09": 5936,
-  "2023-11-10": 5936,
-  "2023-11-11": 6119,
-  "2023-11-12": 6119,
-  "2023-11-13": 6119,
-  "2023-11-14": 6119,
-  "2023-11-15": 6119,
-  "2023-11-16": 6119,
-  "2023-11-17": 6119,
-  "2023-11-18": 6119,
-  "2023-11-19": 6119,
-  "2023-11-20": 6119,
-  "2023-11-21": 6119,
-  "2023-11-22": 6119,
-  "2023-11-23": 6119,
-  "2023-11-24": 6119,
-  "2023-11-25": 6119,
-  "2023-11-26": 6119,
-  "2023-11-27": 6119,
-  "2023-11-28": 6119,
-  "2023-11-29": 6119,
-  "2023-11-30": 6119,
-  "2023-12-01": 6119,
-  "2023-12-02": 6119,
-  "2023-12-03": 6119,
-  "2023-12-04": 6119,
-  "2023-12-05": 6119,
-  "2023-12-06": 6119,
-  "2023-12-07": 6119,
-  "2023-12-08": 6119,
-  "2023-12-09": 6119,
-  "2023-12-10": 6119,
-  "2023-12-11": 6119,
-  "2023-12-12": 6119,
-  "2023-12-13": 6119,
-  "2023-12-14": 6270,
-  "2023-12-15": 6274,
-  "2023-12-16": 6276,
-  "2023-12-17": 6283,
-  "2023-12-18": 6285,
-  "2023-12-19": 6291,
-  "2023-12-20": 6300,
-  "2023-12-21": 6307,
-  "2023-12-22": 6310,
-  "2023-12-23": 6311,
-  "2023-12-24": 6315,
-  "2023-12-25": 6320,
-  "2023-12-26": 6329,
-  "2023-12-27": 6329,
-  "2023-12-30": 6341,
-  "2023-12-31": 6344,
-  "2024-01-01": 6347,
-  "2024-01-02": 6352,
-  "2024-01-03": 6361
+  "2024-01-17": 6406,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Rafaga",
+  "tracks": [
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186592,
+      "name": "25 Horas al Dia",
+      "url": "https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208169,
+      "name": "Aca Entre Nos",
+      "url": "https://open.spotify.com/track/2GTh342TXtGwUWf9PRBKXP"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 211986,
+      "name": "Aca\u0301 Entre Nos",
+      "url": "https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m"
+    },
+    {
+      "album": {
+        "name": "No Le Digas a Nadie",
+        "url": "https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 190320,
+      "name": "Al Ver Que Te Vas",
+      "url": "https://open.spotify.com/track/5itRE7txzHA6KVh3YYqq7D"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Algo Sin Igual",
+      "url": "https://open.spotify.com/track/0rpugJvfFm3y9UQ244wfXX"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Ambicion",
+      "url": "https://open.spotify.com/track/4Y4SYABTqT3YwOnmybIvU8"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186546,
+      "name": "Amigo Mesero",
+      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
+    },
+    {
+      "album": {
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143848,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/27O9E19mmoq8vzMmju1cYi"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 367061,
+      "name": "Arreando la Mula (En Vivo)",
+      "url": "https://open.spotify.com/track/2EkP0U9x1onGPj26aeIdvb"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Ay Maria",
+      "url": "https://open.spotify.com/track/3bp4N1zh3mq0nSX2NXv6Yd"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "Bota Y Tambora",
+      "url": "https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "Brinquito",
+      "url": "https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 301000,
+      "name": "Carola (En Vivo)",
+      "url": "https://open.spotify.com/track/3Z5Z9x4pwlSM2OG2cccr5c"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414000,
+      "name": "Carola - En Vivo",
+      "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 179920,
+      "name": "Chica Morena",
+      "url": "https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 209640,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174093,
+      "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 205782,
+      "name": "Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/5Bw0TMUnKPQjgrylJehdFq"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205797,
+      "name": "Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 176306,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/5wzPYuHhdRdqMFerU4bGVS"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/20WWOcsooLMpsxCroHVAEP"
+    },
+    {
+      "album": {
+        "name": "De Punta a Punta",
+        "url": "https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 133360,
+      "name": "Dime Porqu\u00e9",
+      "url": "https://open.spotify.com/track/2GQCB6gEcgPUYF2N9Zbqxd"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 1",
+        "url": "https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 222848,
+      "name": "Dulce Veneno (En Vivo)",
+      "url": "https://open.spotify.com/track/33ohDUP2ekfFkKMsSnfXPS"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 1",
+        "url": "https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 224800,
+      "name": "El Amor De Mi Vida (En Vivo)",
+      "url": "https://open.spotify.com/track/7oM97CJuWWbqVl1LB4929o"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 181274,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/5t1g30K4DhRSkiIgichk5f"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 183333,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/3OanacoRGMSYjnedeXkUhQ"
+    },
+    {
+      "album": {
+        "name": "No Le Digas a Nadie",
+        "url": "https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 215666,
+      "name": "El Peor de Tus Antojos",
+      "url": "https://open.spotify.com/track/39TLzNkNXqhNe0E3zvOHWl"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 143066,
+      "name": "El Ultimo Trago",
+      "url": "https://open.spotify.com/track/4pJvdhRnOhkK6JwRXcUEO0"
+    },
+    {
+      "album": {
+        "name": "3 Veces Mas",
+        "url": "https://open.spotify.com/album/787AdBK6Xs24dPAcVKauGZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 207190,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/0hs5E1AZGedwCVKMUpgPZ5"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357500,
+      "name": "Frios Enemigos/noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
+    },
+    {
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189022,
+      "name": "Hasta La Miel Amarga",
+      "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 333500,
+      "name": "Hasta la Miel Amarga - En Vivo",
+      "url": "https://open.spotify.com/track/21Jo6m8rR3FLptYB4Htpk7"
+    },
+    {
+      "album": {
+        "name": "Historia De Borrachos",
+        "url": "https://open.spotify.com/album/4C7w3HoXjcKIboGrBF2u3D"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 209953,
+      "name": "Historia De Borrachos",
+      "url": "https://open.spotify.com/track/23oKmx3F0s8neCbCBa320q"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Hoja en Blanco",
+      "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 159680,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2ddBgXnu6BB9pQNTbf0v5t"
+    },
+    {
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135012,
+      "name": "La Carcachita",
+      "url": "https://open.spotify.com/track/1c27a82906o3Vuy6gdDJzC"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 183133,
+      "name": "La Danza Del Coyote",
+      "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/3Jw3jrSecqtTkc8F4uPvV4"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 232750,
+      "name": "La Guitarra de Lolo - En Vivo",
+      "url": "https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 156000,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1d7fUmpDbiG9YFyDWh7991"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0YpsxKYxDNx3eE2zWliaDm"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 156000,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/6sd1ZlB4aJBr4QB3d4ZArm"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 1",
+        "url": "https://open.spotify.com/album/2qUPiJ1BajcT1xtC3fdO4a"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 164400,
+      "name": "La Otra Espa\u00f1a (En Vivo)",
+      "url": "https://open.spotify.com/track/78ZsuXjwAzs0hezu9LYQ5B"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! , Vol.1",
+        "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "La Otra Espa\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "Lagrimas Del Corazon",
+      "url": "https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM"
+    },
+    {
+      "album": {
+        "name": "Las G\u00fcilotas",
+        "url": "https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 151000,
+      "name": "Las Medias Negras - En Vivo",
+      "url": "https://open.spotify.com/track/4yPlCcF26zH7EqXHZ9k6xD"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 233906,
+      "name": "La\u0301grimas Del Corazo\u0301n",
+      "url": "https://open.spotify.com/track/3QGhTa9qbJbTqrNdYJMF0z"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Llegaste A Mi Vida",
+      "url": "https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 176320,
+      "name": "Llevame Contigo",
+      "url": "https://open.spotify.com/track/78fUf903N8dzejWIZ8NLz3"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Lo Aprendi De Ti",
+      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 212760,
+      "name": "Lo Aprend\u00ed De Ti",
+      "url": "https://open.spotify.com/track/032qb1vSAmnIvg6rz2axRo"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 2",
+        "url": "https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 209148,
+      "name": "Maria (En Vivo)",
+      "url": "https://open.spotify.com/track/2h365HybcKLxGGyyTphQhy"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 156666,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/1lL1b0bvPS9CrGiKrLIlFq"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158928,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Mi Amor Bendito",
+      "url": "https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 210250,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/0yJqmBLDWBGsCqjTR26B2V"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 213000,
+      "name": "Mi Ultima Parranda (En Vivo)",
+      "url": "https://open.spotify.com/track/7n9VbJdI8uT7Wh3qi0eWdd"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207625,
+      "name": "Mi Ultima Parranda - En Vivo",
+      "url": "https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 286950,
+      "name": "Miel Amarga / Amigo (En Vivo)",
+      "url": "https://open.spotify.com/track/5wKMMywmELffQUw61t3jhx"
+    },
+    {
+      "album": {
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286950,
+      "name": "Miel Amarga / Amigo - En Vivo",
+      "url": "https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k"
+    },
+    {
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201108,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 225883,
+      "name": "Mil Cartas (En Vivo)",
+      "url": "https://open.spotify.com/track/2STXme6kGlOn40oJwgpZH4"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 199500,
+      "name": "Mil Cartas - En Vivo",
+      "url": "https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173706,
+      "name": "Mismo Nivel",
+      "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga En Vivo! Vol. 2",
+        "url": "https://open.spotify.com/album/3FEiGlYvGOUMf4w0HA0EDr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 167020,
+      "name": "Morenita (En Vivo)",
+      "url": "https://open.spotify.com/track/0AHH8XJjFXeIaRQu8i1T1w"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167020,
+      "name": "Morenita - En Vivo",
+      "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/1gmDN60KqlsUwKsZC0PVwO"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 222600,
+      "name": "Muchacha Triste",
+      "url": "https://open.spotify.com/track/6c8cEuIVJWZ251jfCunb0T"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 204721,
+      "name": "Ni Como Amigos",
+      "url": "https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI"
+    },
+    {
+      "album": {
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "No Hay Vacante",
+      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
+    },
+    {
+      "album": {
+        "name": "No Le Digas a Nadie",
+        "url": "https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 178466,
+      "name": "No Le Digas a Nadie",
+      "url": "https://open.spotify.com/track/31X7Ra9TlstdzHE4zTaEJu"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 187080,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 193000,
+      "name": "No Se Vivir - En Vivo",
+      "url": "https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270351,
+      "name": "No Vas a Creer/Te Preguntaras - En Vivo",
+      "url": "https://open.spotify.com/track/3puernBYuD2jnlq3732oG0"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Oh Gran Dios",
+      "url": "https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 154723,
+      "name": "Pelao de Rancho",
+      "url": "https://open.spotify.com/track/5ygvVYQlBgHV2SfvfikJcq"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Popotitos - En Vivo",
+      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
+    },
+    {
+      "album": {
+        "name": "No Le Digas a Nadie",
+        "url": "https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 197480,
+      "name": "Por las Parrandas",
+      "url": "https://open.spotify.com/track/7gi9iHWtxeFMTTq3LUo9Up"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 157906,
+      "name": "Porque Tu",
+      "url": "https://open.spotify.com/track/6jYOXlxZGcJSGbIAfAtlG6"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne y Hueso",
+        "url": "https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 248036,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/7cVpSomkGnX5IpQbeP1vXB"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 249000,
+      "name": "Que Le Vaya Bien - En Vivo",
+      "url": "https://open.spotify.com/track/7aCSchlgYsQbkfKxLISveJ"
+    },
+    {
+      "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Quiero Que Me Vuelas Queder - En Vivo",
+      "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/4qMiExdPt18UlftnXrZitv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 177160,
+      "name": "Qui\u00e9reme \u00c1mame",
+      "url": "https://open.spotify.com/track/6cFIyDNYKW4nCog6YoFz6V"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4FTYTe4HEV7K7mcRLC1MlC"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 205400,
+      "name": "Se Termino\u0301 Lo Nuestro",
+      "url": "https://open.spotify.com/track/4i3HvUEFP36nhC0jw6aOr7"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Signo Libra",
+      "url": "https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 227746,
+      "name": "Signo Libra",
+      "url": "https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Sue\u00f1o Realidad",
+      "url": "https://open.spotify.com/track/7Gv1d49D60wRv7n6LU6eRk"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 178213,
+      "name": "Te Compro",
+      "url": "https://open.spotify.com/track/3Pcegr0VNqNjsgXufxho4J"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 274880,
+      "name": "Te Dejo Libre",
+      "url": "https://open.spotify.com/track/2hVWSTTHlCOkm666RyUXgb"
+    },
+    {
+      "album": {
+        "name": "Tomando Cerveza",
+        "url": "https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 181500,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk"
+    },
+    {
+      "album": {
+        "name": "En Vivo! Desde Pico Rivera, Ca",
+        "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 221000,
+      "name": "Una Noche de Banda (En Vivo)",
+      "url": "https://open.spotify.com/track/3ElZIDd1aUw8YXCmyB9FIi"
+    },
+    {
+      "album": {
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221006,
+      "name": "Una Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/06lla8LEMeZ7zV4YILOpA2"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196101,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
+    },
+    {
+      "album": {
+        "name": "Medias Negras",
+        "url": "https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 199906,
+      "name": "Ya Para Que",
+      "url": "https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s7DZn"
 }

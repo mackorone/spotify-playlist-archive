@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed",
         "url": "https://open.spotify.com/album/5o7nLsK9eATubVEy1NCdfv"
       },
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 257255,
       "name": "Es Real",
       "url": "https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9"
@@ -1534,7 +1556,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -2212,7 +2234,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 212470,
       "name": "Let it Be",
       "url": "https://open.spotify.com/track/1sd0Y0rWsV3Y7RH0UnoZ5M"
@@ -3928,7 +3950,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 260000,
       "name": "This Strange Effect",
       "url": "https://open.spotify.com/track/5XfpYQ0Mj24oHVJ3c0JMOX"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"

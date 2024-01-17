@@ -1,621 +1,553 @@
 {
-  "2022-04-19": 17226,
-  "2022-04-20": 17253,
-  "2022-04-21": 17293,
-  "2022-04-22": 17319,
-  "2022-04-23": 17346,
-  "2022-04-24": 17366,
-  "2022-04-25": 17409,
-  "2022-04-26": 17429,
-  "2022-04-27": 17475,
-  "2022-04-28": 17502,
-  "2022-04-29": 17559,
-  "2022-04-30": 17596,
-  "2022-05-01": 17620,
-  "2022-05-02": 17620,
-  "2022-05-03": 17646,
-  "2022-05-04": 17664,
-  "2022-05-05": 17699,
-  "2022-05-06": 17737,
-  "2022-05-07": 17773,
-  "2022-05-08": 17820,
-  "2022-05-09": 17826,
-  "2022-05-10": 17847,
-  "2022-05-11": 17856,
-  "2022-05-12": 17891,
-  "2022-05-13": 17917,
-  "2022-05-14": 17944,
-  "2022-05-15": 17976,
-  "2022-05-16": 18015,
-  "2022-05-17": 18050,
-  "2022-05-18": 18089,
-  "2022-05-19": 18120,
-  "2022-05-20": 18164,
-  "2022-05-21": 18221,
-  "2022-05-22": 18221,
-  "2022-05-23": 18264,
-  "2022-05-24": 18291,
-  "2022-05-25": 18319,
-  "2022-05-26": 18348,
-  "2022-05-27": 18385,
-  "2022-05-28": 18424,
-  "2022-05-29": 18465,
-  "2022-05-30": 18506,
-  "2022-05-31": 18530,
-  "2022-06-01": 18587,
-  "2022-06-02": 18596,
-  "2022-06-03": 18607,
-  "2022-06-04": 18638,
-  "2022-06-05": 18682,
-  "2022-06-06": 18714,
-  "2022-06-07": 18736,
-  "2022-06-08": 18779,
-  "2022-06-09": 18802,
-  "2022-06-10": 18828,
-  "2022-06-11": 18867,
-  "2022-06-12": 18904,
-  "2022-06-13": 18934,
-  "2022-06-14": 18965,
-  "2022-06-15": 18993,
-  "2022-06-16": 19029,
-  "2022-06-17": 19053,
-  "2022-06-18": 19089,
-  "2022-06-19": 19125,
-  "2022-06-20": 19125,
-  "2022-06-21": 19150,
-  "2022-06-22": 19204,
-  "2022-06-23": 19204,
-  "2022-06-24": 19216,
-  "2022-06-25": 19250,
-  "2022-06-26": 19273,
-  "2022-06-27": 19312,
-  "2022-06-28": 19348,
-  "2022-06-29": 19385,
-  "2022-06-30": 19404,
-  "2022-07-01": 19437,
-  "2022-07-02": 19468,
-  "2022-07-03": 19482,
-  "2022-07-04": 19507,
-  "2022-07-05": 19530,
-  "2022-07-06": 19565,
-  "2022-07-07": 19603,
-  "2022-07-08": 19627,
-  "2022-07-09": 19652,
-  "2022-07-10": 19680,
-  "2022-07-11": 19706,
-  "2022-07-12": 19731,
-  "2022-07-13": 19761,
-  "2022-07-14": 19788,
-  "2022-07-15": 19824,
-  "2022-07-16": 19837,
-  "2022-07-17": 19868,
-  "2022-07-18": 19895,
-  "2022-07-19": 19923,
-  "2022-07-20": 19949,
-  "2022-07-21": 19983,
-  "2022-07-22": 20023,
-  "2022-07-23": 20050,
-  "2022-07-24": 20078,
-  "2022-07-25": 20124,
-  "2022-07-26": 20147,
-  "2022-07-27": 20176,
-  "2022-07-28": 20212,
-  "2022-07-29": 20244,
-  "2022-07-30": 20296,
-  "2022-07-31": 20296,
-  "2022-08-01": 20327,
-  "2022-08-02": 20394,
-  "2022-08-03": 20394,
-  "2022-08-04": 20422,
-  "2022-08-05": 20456,
-  "2022-08-06": 20501,
-  "2022-08-07": 20524,
-  "2022-08-08": 20560,
-  "2022-08-09": 20593,
-  "2022-08-10": 20627,
-  "2022-08-11": 20661,
-  "2022-08-12": 20691,
-  "2022-08-13": 20717,
-  "2022-08-14": 20753,
-  "2022-08-15": 20787,
-  "2022-08-16": 20819,
-  "2022-08-17": 20844,
-  "2022-08-18": 20876,
-  "2022-08-19": 20917,
-  "2022-08-20": 20941,
-  "2022-08-21": 20968,
-  "2022-08-22": 20996,
-  "2022-08-23": 21032,
-  "2022-08-24": 21062,
-  "2022-08-25": 21083,
-  "2022-08-26": 21117,
-  "2022-08-27": 21151,
-  "2022-08-28": 21180,
-  "2022-08-29": 21209,
-  "2022-08-30": 21238,
-  "2022-08-31": 21266,
-  "2022-09-01": 21294,
-  "2022-09-02": 21331,
-  "2022-09-03": 21377,
-  "2022-09-04": 21416,
-  "2022-09-05": 21453,
-  "2022-09-06": 21494,
-  "2022-09-07": 21539,
-  "2022-09-09": 21615,
-  "2022-09-10": 21649,
-  "2022-09-11": 21699,
-  "2022-09-12": 21746,
-  "2022-09-13": 21789,
-  "2022-09-15": 21876,
-  "2022-09-16": 21910,
-  "2022-09-17": 21951,
-  "2022-09-18": 21987,
-  "2022-09-19": 22027,
-  "2022-09-20": 22054,
-  "2022-09-21": 22080,
-  "2022-09-22": 22133,
-  "2022-09-23": 22163,
-  "2022-09-24": 22217,
-  "2022-09-25": 22256,
-  "2022-09-26": 22310,
-  "2022-09-27": 22354,
-  "2022-09-28": 22388,
-  "2022-09-29": 22431,
-  "2022-09-30": 22480,
-  "2022-10-01": 22529,
-  "2022-10-02": 22567,
-  "2022-10-03": 22600,
-  "2022-10-04": 22627,
-  "2022-10-05": 22652,
-  "2022-10-06": 22682,
-  "2022-10-07": 22721,
-  "2022-10-08": 22766,
-  "2022-10-09": 22841,
-  "2022-10-10": 22848,
-  "2022-10-11": 22885,
-  "2022-10-12": 22923,
-  "2022-10-13": 22975,
-  "2022-10-14": 23021,
-  "2022-10-15": 23069,
-  "2022-10-16": 23101,
-  "2022-10-17": 23135,
-  "2022-10-18": 23173,
-  "2022-10-19": 23211,
-  "2022-10-20": 23246,
-  "2022-10-21": 23293,
-  "2022-10-22": 23328,
-  "2022-10-23": 23365,
-  "2022-10-24": 23384,
-  "2022-10-25": 23417,
-  "2022-10-26": 23460,
-  "2022-10-27": 23493,
-  "2022-10-28": 23520,
-  "2022-10-29": 23558,
-  "2022-10-30": 23592,
-  "2022-10-31": 23620,
-  "2022-11-01": 23657,
-  "2022-11-02": 23688,
-  "2022-11-03": 23733,
-  "2022-11-04": 23766,
-  "2022-11-05": 23816,
-  "2022-11-06": 23836,
-  "2022-11-07": 23885,
-  "2022-11-08": 23930,
-  "2022-11-09": 23975,
-  "2022-11-10": 24011,
-  "2022-11-11": 24043,
-  "2022-11-12": 24097,
-  "2022-11-13": 24134,
-  "2022-11-14": 24160,
-  "2022-11-15": 24207,
-  "2022-11-16": 24257,
-  "2022-11-17": 24282,
-  "2022-11-18": 24292,
-  "2022-11-19": 24282,
-  "2022-11-20": 24301,
-  "2022-11-21": 24335,
-  "2022-11-22": 24330,
-  "2022-11-23": 24389,
-  "2022-11-24": 24472,
-  "2022-11-25": 24551,
-  "2022-11-26": 24622,
-  "2022-11-27": 24666,
-  "2022-11-28": 24702,
-  "2022-11-29": 24740,
-  "2022-11-30": 24781,
-  "2022-12-01": 24815,
-  "2022-12-02": 24847,
-  "2022-12-03": 24867,
-  "2022-12-04": 24912,
-  "2022-12-05": 24945,
-  "2022-12-06": 24969,
-  "2022-12-07": 24999,
-  "2022-12-08": 25018,
-  "2022-12-09": 25049,
-  "2022-12-10": 25068,
-  "2022-12-11": 25098,
-  "2022-12-12": 25115,
-  "2022-12-13": 25142,
-  "2022-12-14": 25160,
-  "2022-12-15": 25183,
-  "2022-12-16": 25217,
-  "2022-12-17": 25240,
-  "2022-12-18": 25272,
-  "2022-12-19": 25302,
-  "2022-12-20": 25356,
-  "2022-12-21": 25356,
-  "2022-12-22": 25377,
-  "2022-12-24": 25437,
-  "2022-12-25": 25455,
-  "2022-12-26": 25474,
-  "2022-12-27": 25501,
-  "2022-12-28": 25528,
-  "2022-12-29": 25573,
-  "2022-12-30": 25617,
-  "2022-12-31": 25651,
-  "2023-01-01": 25697,
-  "2023-01-02": 25732,
-  "2023-01-03": 25765,
-  "2023-01-04": 25803,
-  "2023-01-05": 25843,
-  "2023-01-06": 25894,
-  "2023-01-07": 25937,
-  "2023-01-08": 25958,
-  "2023-01-09": 26010,
-  "2023-01-10": 26027,
-  "2023-01-11": 26057,
-  "2023-01-12": 26092,
-  "2023-01-13": 26136,
-  "2023-01-14": 26199,
-  "2023-01-15": 26218,
-  "2023-01-16": 26249,
-  "2023-01-17": 26309,
-  "2023-01-18": 26352,
-  "2023-01-19": 26399,
-  "2023-01-20": 26446,
-  "2023-01-21": 26510,
-  "2023-01-22": 26551,
-  "2023-01-23": 26606,
-  "2023-01-24": 26657,
-  "2023-01-25": 26698,
-  "2023-01-26": 26736,
-  "2023-01-27": 26776,
-  "2023-01-28": 26833,
-  "2023-01-29": 26880,
-  "2023-01-30": 26932,
-  "2023-01-31": 26932,
-  "2023-02-01": 27024,
-  "2023-02-02": 27057,
-  "2023-02-03": 27097,
-  "2023-02-04": 27139,
-  "2023-02-05": 27177,
-  "2023-02-06": 27229,
-  "2023-02-07": 27263,
-  "2023-02-08": 27351,
-  "2023-02-09": 27351,
-  "2023-02-10": 27392,
-  "2023-02-11": 27423,
-  "2023-02-12": 27479,
-  "2023-02-13": 27516,
-  "2023-02-14": 27516,
-  "2023-02-15": 27550,
-  "2023-02-16": 27595,
-  "2023-02-17": 27627,
-  "2023-02-18": 27742,
-  "2023-02-19": 27754,
-  "2023-02-20": 27784,
-  "2023-02-21": 27836,
-  "2023-02-22": 27883,
-  "2023-02-23": 27955,
-  "2023-02-24": 28034,
-  "2023-02-25": 28127,
-  "2023-02-26": 28166,
-  "2023-02-27": 28335,
-  "2023-02-28": 28335,
-  "2023-03-01": 28413,
-  "2023-03-02": 28483,
-  "2023-03-03": 28580,
-  "2023-03-04": 28669,
-  "2023-03-05": 28804,
-  "2023-03-06": 28804,
-  "2023-03-07": 28903,
-  "2023-03-08": 28975,
-  "2023-03-09": 29047,
-  "2023-03-10": 29119,
-  "2023-03-11": 29187,
-  "2023-03-12": 29257,
-  "2023-03-13": 29326,
-  "2023-03-14": 29397,
-  "2023-03-15": 29467,
-  "2023-03-16": 29537,
-  "2023-03-17": 29537,
-  "2023-03-18": 29733,
-  "2023-03-19": 29809,
-  "2023-03-20": 29893,
-  "2023-03-21": 29980,
-  "2023-03-22": 30052,
-  "2023-03-23": 30137,
-  "2023-03-24": 30137,
-  "2023-03-25": 30297,
-  "2023-03-26": 30397,
-  "2023-03-27": 30490,
-  "2023-03-28": 30569,
-  "2023-03-29": 30673,
-  "2023-03-30": 30816,
-  "2023-03-31": 30816,
-  "2023-04-01": 30885,
-  "2023-04-02": 30962,
-  "2023-04-03": 31024,
-  "2023-04-04": 31104,
-  "2023-04-05": 31175,
-  "2023-04-06": 31242,
-  "2023-04-07": 31318,
-  "2023-04-09": 31459,
-  "2023-04-10": 31521,
-  "2023-04-11": 31675,
-  "2023-04-12": 31675,
-  "2023-04-13": 31735,
-  "2023-04-14": 31794,
-  "2023-04-15": 31870,
-  "2023-04-16": 31943,
-  "2023-04-17": 32026,
-  "2023-04-18": 32094,
-  "2023-04-19": 32163,
-  "2023-04-20": 32237,
-  "2023-04-21": 32288,
-  "2023-04-22": 32363,
-  "2023-04-23": 32429,
-  "2023-04-24": 32498,
-  "2023-04-25": 32572,
-  "2023-04-26": 32653,
-  "2023-04-27": 32717,
-  "2023-04-28": 32787,
-  "2023-04-29": 32850,
-  "2023-04-30": 32919,
-  "2023-05-01": 32999,
-  "2023-05-02": 33065,
-  "2023-05-03": 33143,
-  "2023-05-04": 33210,
-  "2023-05-05": 33266,
-  "2023-05-06": 33334,
-  "2023-05-07": 33436,
-  "2023-05-08": 33493,
-  "2023-05-09": 33575,
-  "2023-05-10": 33627,
-  "2023-05-11": 33689,
-  "2023-05-12": 33762,
-  "2023-05-13": 33827,
-  "2023-05-14": 33895,
-  "2023-05-15": 33957,
-  "2023-05-16": 34024,
-  "2023-05-17": 34091,
-  "2023-05-18": 34142,
-  "2023-05-19": 34215,
-  "2023-05-20": 34330,
-  "2023-05-21": 34330,
-  "2023-05-22": 34330,
-  "2023-05-23": 34464,
-  "2023-05-24": 34563,
-  "2023-05-25": 34583,
-  "2023-05-26": 34644,
-  "2023-05-27": 34714,
-  "2023-05-28": 34772,
-  "2023-05-29": 34772,
-  "2023-05-30": 34886,
-  "2023-05-31": 34937,
-  "2023-06-01": 34998,
-  "2023-06-02": 35072,
-  "2023-06-03": 35146,
-  "2023-06-04": 35213,
-  "2023-06-05": 35281,
-  "2023-06-06": 35339,
-  "2023-06-07": 35409,
-  "2023-06-08": 35478,
-  "2023-06-09": 35545,
-  "2023-06-10": 35601,
-  "2023-06-11": 35676,
-  "2023-06-12": 35731,
-  "2023-06-13": 35787,
-  "2023-06-14": 35857,
-  "2023-06-15": 35912,
-  "2023-06-16": 35989,
-  "2023-06-17": 36067,
-  "2023-06-18": 36114,
-  "2023-06-19": 36170,
-  "2023-06-20": 36240,
-  "2023-06-21": 36310,
-  "2023-06-22": 36373,
-  "2023-06-23": 36440,
-  "2023-06-24": 36495,
-  "2023-06-25": 36565,
-  "2023-06-26": 36625,
-  "2023-06-27": 36686,
-  "2023-06-28": 36764,
-  "2023-06-29": 36845,
-  "2023-06-30": 36912,
-  "2023-07-01": 37040,
-  "2023-07-02": 37040,
-  "2023-07-03": 37123,
-  "2023-07-04": 37189,
-  "2023-07-05": 37278,
-  "2023-07-06": 37424,
-  "2023-07-07": 37424,
-  "2023-07-08": 37516,
-  "2023-07-09": 37598,
-  "2023-07-10": 37686,
-  "2023-07-11": 37760,
-  "2023-07-12": 37818,
-  "2023-07-13": 37894,
-  "2023-07-14": 37960,
-  "2023-07-15": 38024,
-  "2023-07-16": 38112,
-  "2023-07-17": 38175,
-  "2023-07-18": 38235,
-  "2023-07-19": 38302,
-  "2023-07-20": 38353,
-  "2023-07-21": 38426,
-  "2023-07-22": 38483,
-  "2023-07-23": 38565,
-  "2023-07-24": 38649,
-  "2023-07-25": 38716,
-  "2023-07-26": 38783,
-  "2023-07-27": 38862,
-  "2023-07-28": 38940,
-  "2023-07-29": 39020,
-  "2023-07-30": 39084,
-  "2023-07-31": 39150,
-  "2023-08-01": 39223,
-  "2023-08-02": 39288,
-  "2023-08-03": 39360,
-  "2023-08-04": 39436,
-  "2023-08-05": 39507,
-  "2023-08-06": 39656,
-  "2023-08-07": 39656,
-  "2023-08-08": 39721,
-  "2023-08-09": 39805,
-  "2023-08-10": 39868,
-  "2023-08-11": 39944,
-  "2023-08-12": 40011,
-  "2023-08-13": 40106,
-  "2023-08-14": 40179,
-  "2023-08-15": 40347,
-  "2023-08-16": 40347,
-  "2023-08-17": 40418,
-  "2023-08-18": 40492,
-  "2023-08-19": 40558,
-  "2023-08-20": 40657,
-  "2023-08-21": 40740,
-  "2023-08-22": 40810,
-  "2023-08-23": 40880,
-  "2023-08-24": 40974,
-  "2023-08-25": 41056,
-  "2023-08-26": 41145,
-  "2023-08-27": 41221,
-  "2023-08-28": 41308,
-  "2023-08-29": 41400,
-  "2023-08-30": 41475,
-  "2023-08-31": 41582,
-  "2023-09-01": 41780,
-  "2023-09-02": 41780,
-  "2023-09-03": 41868,
-  "2023-09-04": 41964,
-  "2023-09-05": 42088,
-  "2023-09-06": 42189,
-  "2023-09-07": 42313,
-  "2023-09-08": 42430,
-  "2023-09-09": 42506,
-  "2023-09-10": 42624,
-  "2023-09-11": 42765,
-  "2023-09-12": 42919,
-  "2023-09-13": 43045,
-  "2023-09-14": 43147,
-  "2023-09-15": 43262,
-  "2023-09-16": 43377,
-  "2023-09-17": 43482,
-  "2023-09-18": 43639,
-  "2023-09-19": 43777,
-  "2023-09-20": 43902,
-  "2023-09-21": 44035,
-  "2023-09-22": 44151,
-  "2023-09-23": 44275,
-  "2023-09-24": 44407,
-  "2023-09-25": 44537,
-  "2023-09-26": 44740,
-  "2023-09-27": 44835,
-  "2023-09-28": 44975,
-  "2023-09-29": 45096,
-  "2023-09-30": 45235,
-  "2023-10-01": 45364,
-  "2023-10-02": 45478,
-  "2023-10-03": 45608,
-  "2023-10-04": 45712,
-  "2023-10-05": 45851,
-  "2023-10-06": 45977,
-  "2023-10-07": 46090,
-  "2023-10-08": 46222,
-  "2023-10-09": 46354,
-  "2023-10-10": 46463,
-  "2023-10-11": 46677,
-  "2023-10-12": 46677,
-  "2023-10-13": 46795,
-  "2023-10-14": 46888,
-  "2023-10-15": 46992,
-  "2023-10-16": 47126,
-  "2023-10-17": 47239,
-  "2023-10-18": 47350,
-  "2023-10-19": 47470,
-  "2023-10-20": 47606,
-  "2023-10-21": 47706,
-  "2023-10-22": 47817,
-  "2023-10-23": 47944,
-  "2023-10-24": 48072,
-  "2023-10-25": 48177,
-  "2023-10-26": 48307,
-  "2023-10-27": 48447,
-  "2023-10-28": 48568,
-  "2023-10-29": 48662,
-  "2023-10-30": 48890,
-  "2023-10-31": 48890,
-  "2023-11-01": 48977,
-  "2023-11-02": 49100,
-  "2023-11-03": 49222,
-  "2023-11-04": 49341,
-  "2023-11-05": 49471,
-  "2023-11-06": 49579,
-  "2023-11-07": 49711,
-  "2023-11-08": 49870,
-  "2023-11-09": 50014,
-  "2023-11-10": 50128,
-  "2023-11-11": 50262,
-  "2023-11-12": 50380,
-  "2023-11-13": 50512,
-  "2023-11-14": 50630,
-  "2023-11-15": 50630,
-  "2023-11-16": 50903,
-  "2023-11-17": 51129,
-  "2023-11-18": 51129,
-  "2023-11-19": 51265,
-  "2023-11-20": 51396,
-  "2023-11-21": 51525,
-  "2023-11-22": 51660,
-  "2023-11-23": 51800,
-  "2023-11-24": 51924,
-  "2023-11-25": 52011,
-  "2023-11-26": 52146,
-  "2023-11-27": 52256,
-  "2023-11-28": 52367,
-  "2023-11-29": 52646,
-  "2023-11-30": 52646,
-  "2023-12-01": 52770,
-  "2023-12-02": 52854,
-  "2023-12-03": 52973,
-  "2023-12-04": 53091,
-  "2023-12-05": 53189,
-  "2023-12-06": 53277,
-  "2023-12-07": 53388,
-  "2023-12-08": 53500,
-  "2023-12-09": 53579,
-  "2023-12-10": 53677,
-  "2023-12-11": 53779,
-  "2023-12-12": 53869,
-  "2023-12-13": 53930,
-  "2023-12-14": 54042,
-  "2023-12-15": 54118,
-  "2023-12-16": 54196,
-  "2023-12-17": 54298,
-  "2023-12-18": 54381,
-  "2023-12-19": 54458,
-  "2023-12-20": 54538,
-  "2023-12-21": 54647,
-  "2023-12-22": 54724,
-  "2023-12-23": 54816,
-  "2023-12-24": 54923,
-  "2023-12-25": 55011,
-  "2023-12-26": 55119,
-  "2023-12-27": 55261,
-  "2023-12-30": 55686,
-  "2023-12-31": 55792,
-  "2024-01-01": 55894,
-  "2024-01-02": 55979,
-  "2024-01-03": 56105
+  "2024-01-17": 57950,
+  "date_first_scraped": "2022-04-19",
+  "description": "Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.",
+  "name": "Disney Storytime",
+  "tracks": [
+    {
+      "album": {
+        "name": "101 Dalmatians (Animated) [Storyteller]",
+        "url": "https://open.spotify.com/album/62SOQWaxuV2EzQwyqOSOpQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Gough",
+          "url": "https://open.spotify.com/artist/1UUNseJdZHwfIUzoaGUD3l"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569533,
+      "name": "101 Dalmatians (Animated) - Storyteller",
+      "url": "https://open.spotify.com/track/7862XC8i1wphnOtlspiSyA"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Beauty and the Beast",
+        "url": "https://open.spotify.com/album/6xHfaSDeF1brCSHBeBmMSG"
+      },
+      "artists": [
+        {
+          "name": "Roy Dotrice",
+          "url": "https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 927213,
+      "name": "Beauty and the Beast - Storyteller",
+      "url": "https://open.spotify.com/track/6G7rgYtkZyixcRWs7HiByE"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Cars",
+        "url": "https://open.spotify.com/album/33hGKXr2ZQKt8dU1PRHvoW"
+      },
+      "artists": [
+        {
+          "name": "David Jeremiah",
+          "url": "https://open.spotify.com/artist/6xfFLUCUej7qZquVQL2NNL"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1270946,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/4xZ2V2v1et5VjIEluggjU6"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Cinderella",
+        "url": "https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Stearns",
+          "url": "https://open.spotify.com/artist/3gUxQ3NNbJmUZgZ2wtFcBl"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 712893,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/758ehxhBBJFGukUrEgnTjD"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Finding Nemo",
+        "url": "https://open.spotify.com/album/2LZ46md4ArNMnuJXA8kpuX"
+      },
+      "artists": [
+        {
+          "name": "Matt Frewer",
+          "url": "https://open.spotify.com/artist/0ikq8TVuhiHn7ZJDWNbAgS"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1103040,
+      "name": "Finding Nemo",
+      "url": "https://open.spotify.com/track/2DLn7ObdemNc73MhPSRdBN"
+    },
+    {
+      "album": {
+        "name": "Frozen Storyette",
+        "url": "https://open.spotify.com/album/1q4t1CM7JOIR6HhMwzQtKr"
+      },
+      "artists": [
+        {
+          "name": "Nolan North",
+          "url": "https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163492,
+      "name": "Frozen Storyette Pt. 1",
+      "url": "https://open.spotify.com/track/5QyxZGonXF7bV7Cs4FEVNT"
+    },
+    {
+      "album": {
+        "name": "Frozen Storyette",
+        "url": "https://open.spotify.com/album/1q4t1CM7JOIR6HhMwzQtKr"
+      },
+      "artists": [
+        {
+          "name": "Nolan North",
+          "url": "https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193357,
+      "name": "Frozen Storyette Pt. 2",
+      "url": "https://open.spotify.com/track/2uEFakDjYJ83pcQZaFauzb"
+    },
+    {
+      "album": {
+        "name": "Frozen Storyette",
+        "url": "https://open.spotify.com/album/1q4t1CM7JOIR6HhMwzQtKr"
+      },
+      "artists": [
+        {
+          "name": "Nolan North",
+          "url": "https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240776,
+      "name": "Frozen Storyette Pt. 3",
+      "url": "https://open.spotify.com/track/2JjVwdiEkZAcsuLJ8nUJef"
+    },
+    {
+      "album": {
+        "name": "Mary Poppins",
+        "url": "https://open.spotify.com/album/2xjTIjw6eUd2lXPxC9uxAb"
+      },
+      "artists": [
+        {
+          "name": "Karen Dotrice",
+          "url": "https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 937600,
+      "name": "Mary Poppins - Storyteller",
+      "url": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul"
+    },
+    {
+      "album": {
+        "name": "Moana Storyette",
+        "url": "https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4"
+      },
+      "artists": [
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260220,
+      "name": "Moana Storyette Pt. 1",
+      "url": "https://open.spotify.com/track/1I6H2p3cWeBNoEakXnY58G"
+    },
+    {
+      "album": {
+        "name": "Moana Storyette",
+        "url": "https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4"
+      },
+      "artists": [
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300550,
+      "name": "Moana Storyette Pt. 2",
+      "url": "https://open.spotify.com/track/6oQoHy85zaMXxlkue6XENN"
+    },
+    {
+      "album": {
+        "name": "Moana Storyette",
+        "url": "https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4"
+      },
+      "artists": [
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233902,
+      "name": "Moana Storyette Pt. 3",
+      "url": "https://open.spotify.com/track/6yYwjVzl2JsqfecmRxqvOk"
+    },
+    {
+      "album": {
+        "name": "Moana Storyette",
+        "url": "https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4"
+      },
+      "artists": [
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "Moana Storyette Pt. 4",
+      "url": "https://open.spotify.com/track/6QwXGukcE0K9cdQUcyrBUE"
+    },
+    {
+      "album": {
+        "name": "Moana Storyette",
+        "url": "https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4"
+      },
+      "artists": [
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277736,
+      "name": "Moana Storyette Pt. 5",
+      "url": "https://open.spotify.com/track/2kV2w875efCDW2cEtGAtvP"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Monsters, Inc.",
+        "url": "https://open.spotify.com/album/6PekV9VFO61iS9M1qqUZPg"
+      },
+      "artists": [
+        {
+          "name": "Dom De Luise",
+          "url": "https://open.spotify.com/artist/2o76Naw3g8vbPe18S9Hscy"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1343240,
+      "name": "Monsters, Inc.",
+      "url": "https://open.spotify.com/track/7ETl2ZrFKwLjS9Lzivpg3G"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mulan",
+        "url": "https://open.spotify.com/album/1VAL3EDyf93TIh7DvHsUZJ"
+      },
+      "artists": [
+        {
+          "name": "June Foray",
+          "url": "https://open.spotify.com/artist/74QodIrto2Mb8RcA06EuUa"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1120573,
+      "name": "Mulan",
+      "url": "https://open.spotify.com/track/7hbhqm0b0MZkxmvy4koUtV"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Peter Pan",
+        "url": "https://open.spotify.com/album/1PYq2vd60V10HsdOWjfpTH"
+      },
+      "artists": [
+        {
+          "name": "Nolan North",
+          "url": "https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470386,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/6DcUpWBWAM3Ayqhs8vdqrW"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Pocahontas",
+        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
+      },
+      "artists": [
+        {
+          "name": "Roy Dotrice",
+          "url": "https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 947146,
+      "name": "Pocahontas",
+      "url": "https://open.spotify.com/track/5OOJEvD0XGaLo02p4bswY6"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Sleeping Beauty",
+        "url": "https://open.spotify.com/album/0g9VcAua5r6AIaQs2BINWu"
+      },
+      "artists": [
+        {
+          "name": "Cindy Robinson",
+          "url": "https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1143653,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/5igPvKQ6hLqSVLGibysbSw"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Snow White",
+        "url": "https://open.spotify.com/album/2cWFLGizkUaUWDjMeh7wP8"
+      },
+      "artists": [
+        {
+          "name": "Mary D'Arcy",
+          "url": "https://open.spotify.com/artist/6QSxC78BCVazLwA28o0sDc"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 804853,
+      "name": "Snow White and the Seven Dwarfs",
+      "url": "https://open.spotify.com/track/0x7Q063J96VqFLKIKnlZEM"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Tangled",
+        "url": "https://open.spotify.com/album/1E8pqXmmxlhn8soDCXabfF"
+      },
+      "artists": [
+        {
+          "name": "Cindy Robinson",
+          "url": "https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1221026,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/16IKUZbb64LoX2sOrdxFeb"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: The Lion King",
+        "url": "https://open.spotify.com/album/3EnWuUDDMGoDKX3V8QwRdg"
+      },
+      "artists": [
+        {
+          "name": "Robert Guillaume",
+          "url": "https://open.spotify.com/artist/5ohxmJ6nh8Dx2WFzudufCl"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1005146,
+      "name": "The Lion King",
+      "url": "https://open.spotify.com/track/6PetSewV4L1gKLOAcHDLcD"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: The Little Mermaid",
+        "url": "https://open.spotify.com/album/487TgoOliAew4DIQTr7Ak8"
+      },
+      "artists": [
+        {
+          "name": "Roy Dotrice",
+          "url": "https://open.spotify.com/artist/5DB0TjFJRAPRUdfIVWYJXm"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850013,
+      "name": "The Little Mermaid",
+      "url": "https://open.spotify.com/track/175Hp7R2vZCPJSB0PcYuqp"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: The Princess and the Frog",
+        "url": "https://open.spotify.com/album/1tbd2iI63LXvBon9yEP4gT"
+      },
+      "artists": [
+        {
+          "name": "Cindy Robinson",
+          "url": "https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1258893,
+      "name": "The Princess and the Frog",
+      "url": "https://open.spotify.com/track/68dktL7vR4B95u3CruMGUt"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Toy Story",
+        "url": "https://open.spotify.com/album/7wVXtE61CeppA7IDVJqYa2"
+      },
+      "artists": [
+        {
+          "name": "Tracy Fraim",
+          "url": "https://open.spotify.com/artist/2xwU2gl00FjOwi144I95pT"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1029880,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/1Wmh8p0aXrmsHr9SIDa2C0"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Toy Story 2",
+        "url": "https://open.spotify.com/album/6uRo9YVZYotOAT7YiAn21c"
+      },
+      "artists": [
+        {
+          "name": "Steven Weber",
+          "url": "https://open.spotify.com/artist/5q29Mh9QFJpcnPSZXMwjQ6"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 967453,
+      "name": "Toy Story 2",
+      "url": "https://open.spotify.com/track/5oY2u1iRFNoFy0ScuxoFjX"
+    },
+    {
+      "album": {
+        "name": "Toy Story 3",
+        "url": "https://open.spotify.com/album/2B7fuddDJd5ZT2P096Wmyv"
+      },
+      "artists": [
+        {
+          "name": "Rick Zieff",
+          "url": "https://open.spotify.com/artist/5TYQBrQvIuhdPPP3TjP5aA"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965413,
+      "name": "Toy Story 3",
+      "url": "https://open.spotify.com/track/2Yf0fbv6Ph0kxTOuqvfWpY"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Up",
+        "url": "https://open.spotify.com/album/4DntPIfqiquBzgbmFee7u2"
+      },
+      "artists": [
+        {
+          "name": "Kirk Thornton",
+          "url": "https://open.spotify.com/artist/15unNxeCj0UZ7g3RM1bdt1"
+        },
+        {
+          "name": "Bob Peterson",
+          "url": "https://open.spotify.com/artist/2YgtFNJmLJ0DzhaTWRiO5O"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 994773,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/4qaG0e6gWNuuxGBnNuyzuW"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Winnie the Pooh and the Honey Tree",
+        "url": "https://open.spotify.com/album/2h7GDf31ar6zI2SkHrQ9TE"
+      },
+      "artists": [
+        {
+          "name": "Laurie Main",
+          "url": "https://open.spotify.com/artist/4ViMrlaRqnmthdHRk0NDQy"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608826,
+      "name": "Winnie the Pooh and the Honey Tree",
+      "url": "https://open.spotify.com/track/081NFksE4D3T6AaQd6hMIx"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Wreck-It Ralph",
+        "url": "https://open.spotify.com/album/6IAqezhgjV6UskVCCcwK10"
+      },
+      "artists": [
+        {
+          "name": "Nolan North",
+          "url": "https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU"
+        }
+      ],
+      "date_added": "2021-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575146,
+      "name": "Wreck-It Ralph",
+      "url": "https://open.spotify.com/track/3FEx5KiBaGmrJq0u094qjo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUpLoMa4BXi9"
 }

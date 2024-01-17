@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Arariyo",
+        "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270007,
+      "name": "Arariyo",
+      "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
+    },
+    {
+      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -860,7 +878,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 136747,
       "name": "El Universo",
       "url": "https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV"
@@ -908,6 +926,24 @@
     {
       "album": {
         "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/0lafFIfGSFtYsXFIVoIyl5"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/1buwr89mlvxbaqArqmvCYS"
+    },
+    {
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
         "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
       },
       "artists": [
@@ -918,7 +954,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 176173,
       "name": "Esa Estrella Era Mi Lujo",
       "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
@@ -944,6 +980,24 @@
     {
       "album": {
         "name": "Cordero Atado",
+        "url": "https://open.spotify.com/album/3zUMPvVgeOb3Fx9SmTCU4m"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336546,
+      "name": "Etiqueta Negra",
+      "url": "https://open.spotify.com/track/5CgpbO9nbKKDQaeI7x5BDl"
+    },
+    {
+      "album": {
+        "name": "Cordero Atado",
         "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
       },
       "artists": [
@@ -954,7 +1008,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 336546,
       "name": "Etiqueta Negra",
       "url": "https://open.spotify.com/track/6XaH8Mw8EvzVrFQ5ww5rLm"
@@ -1574,10 +1628,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 296133,
       "name": "Motor Psico",
       "url": "https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa"
+    },
+    {
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
     },
     {
       "album": {

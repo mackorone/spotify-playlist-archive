@@ -1,735 +1,1539 @@
 {
-  "2021-12-25": 17333,
-  "2021-12-26": 17334,
-  "2021-12-27": 17333,
-  "2021-12-28": 17333,
-  "2021-12-29": 17332,
-  "2021-12-30": 17332,
-  "2021-12-31": 17330,
-  "2022-01-01": 17327,
-  "2022-01-02": 17328,
-  "2022-01-03": 17328,
-  "2022-01-04": 17326,
-  "2022-01-05": 17325,
-  "2022-01-06": 17324,
-  "2022-01-07": 17321,
-  "2022-01-08": 17319,
-  "2022-01-09": 17319,
-  "2022-01-10": 17316,
-  "2022-01-11": 17315,
-  "2022-01-12": 17316,
-  "2022-01-13": 17315,
-  "2022-01-14": 17315,
-  "2022-01-15": 17312,
-  "2022-01-16": 17312,
-  "2022-01-17": 17312,
-  "2022-01-18": 17311,
-  "2022-01-19": 17310,
-  "2022-01-20": 17310,
-  "2022-01-21": 17307,
-  "2022-01-22": 17302,
-  "2022-01-23": 17301,
-  "2022-01-24": 17297,
-  "2022-01-25": 17296,
-  "2022-01-26": 17295,
-  "2022-01-27": 17294,
-  "2022-01-28": 17291,
-  "2022-01-29": 17288,
-  "2022-01-30": 17287,
-  "2022-01-31": 17285,
-  "2022-02-01": 17281,
-  "2022-02-02": 17279,
-  "2022-02-03": 17276,
-  "2022-02-04": 17274,
-  "2022-02-05": 17275,
-  "2022-02-06": 17275,
-  "2022-02-07": 17273,
-  "2022-02-08": 17273,
-  "2022-02-09": 17271,
-  "2022-02-10": 17271,
-  "2022-02-11": 17270,
-  "2022-02-12": 17270,
-  "2022-02-13": 17268,
-  "2022-02-14": 17267,
-  "2022-02-15": 17264,
-  "2022-02-16": 17260,
-  "2022-02-17": 17257,
-  "2022-02-18": 17256,
-  "2022-02-19": 17255,
-  "2022-02-20": 17254,
-  "2022-02-21": 17254,
-  "2022-02-22": 17251,
-  "2022-02-23": 17251,
-  "2022-02-24": 17246,
-  "2022-02-25": 17247,
-  "2022-02-26": 17246,
-  "2022-02-27": 17245,
-  "2022-02-28": 17245,
-  "2022-03-01": 17244,
-  "2022-03-02": 17245,
-  "2022-03-03": 17246,
-  "2022-03-04": 17243,
-  "2022-03-05": 17241,
-  "2022-03-06": 17240,
-  "2022-03-07": 17240,
-  "2022-03-08": 17239,
-  "2022-03-09": 17235,
-  "2022-03-10": 17234,
-  "2022-03-11": 17231,
-  "2022-03-12": 17233,
-  "2022-03-13": 17230,
-  "2022-03-14": 17229,
-  "2022-03-15": 17229,
-  "2022-03-16": 17229,
-  "2022-03-17": 17227,
-  "2022-03-18": 17227,
-  "2022-03-19": 17227,
-  "2022-03-20": 17227,
-  "2022-03-21": 17225,
-  "2022-03-22": 17225,
-  "2022-03-23": 17225,
-  "2022-03-24": 17225,
-  "2022-03-25": 17223,
-  "2022-03-26": 17223,
-  "2022-03-27": 17222,
-  "2022-03-28": 17222,
-  "2022-03-30": 17221,
-  "2022-03-31": 17219,
-  "2022-04-01": 17219,
-  "2022-04-02": 17219,
-  "2022-04-03": 17219,
-  "2022-04-04": 17219,
-  "2022-04-05": 17219,
-  "2022-04-06": 17219,
-  "2022-04-07": 17219,
-  "2022-04-08": 17219,
-  "2022-04-09": 17219,
-  "2022-04-10": 17219,
-  "2022-04-11": 17219,
-  "2022-04-12": 17219,
-  "2022-04-13": 17219,
-  "2022-04-14": 17219,
-  "2022-04-15": 17219,
-  "2022-04-16": 17219,
-  "2022-04-17": 17219,
-  "2022-04-18": 17219,
-  "2022-04-19": 17219,
-  "2022-04-20": 17219,
-  "2022-04-21": 17219,
-  "2022-04-22": 17219,
-  "2022-04-23": 17219,
-  "2022-04-24": 17219,
-  "2022-04-25": 17219,
-  "2022-04-26": 17219,
-  "2022-04-27": 17219,
-  "2022-04-28": 17219,
-  "2022-04-29": 17219,
-  "2022-04-30": 17219,
-  "2022-05-01": 17219,
-  "2022-05-02": 17219,
-  "2022-05-03": 17219,
-  "2022-05-04": 17219,
-  "2022-05-05": 17219,
-  "2022-05-06": 17219,
-  "2022-05-07": 17219,
-  "2022-05-08": 17219,
-  "2022-05-09": 17219,
-  "2022-05-10": 17219,
-  "2022-05-11": 17219,
-  "2022-05-12": 17219,
-  "2022-05-13": 17219,
-  "2022-05-14": 17219,
-  "2022-05-15": 17219,
-  "2022-05-16": 17219,
-  "2022-05-17": 17219,
-  "2022-05-18": 17219,
-  "2022-05-19": 17219,
-  "2022-05-20": 17219,
-  "2022-05-21": 17219,
-  "2022-05-22": 17219,
-  "2022-05-23": 17219,
-  "2022-05-24": 17219,
-  "2022-05-25": 17219,
-  "2022-05-26": 17219,
-  "2022-05-27": 17219,
-  "2022-05-28": 17219,
-  "2022-05-29": 17219,
-  "2022-05-30": 17219,
-  "2022-05-31": 17219,
-  "2022-06-01": 17219,
-  "2022-06-02": 17219,
-  "2022-06-03": 17219,
-  "2022-06-04": 17219,
-  "2022-06-05": 17219,
-  "2022-06-06": 17219,
-  "2022-06-07": 17219,
-  "2022-06-08": 17219,
-  "2022-06-09": 17219,
-  "2022-06-10": 17219,
-  "2022-06-11": 17219,
-  "2022-06-12": 17219,
-  "2022-06-13": 17219,
-  "2022-06-14": 17219,
-  "2022-06-15": 17219,
-  "2022-06-16": 17219,
-  "2022-06-17": 17219,
-  "2022-06-18": 17219,
-  "2022-06-19": 17219,
-  "2022-06-20": 17219,
-  "2022-06-21": 17219,
-  "2022-06-22": 17219,
-  "2022-06-23": 17219,
-  "2022-06-24": 17219,
-  "2022-06-25": 17219,
-  "2022-06-26": 17219,
-  "2022-06-27": 17219,
-  "2022-06-28": 17219,
-  "2022-06-29": 17219,
-  "2022-06-30": 17219,
-  "2022-07-01": 17219,
-  "2022-07-02": 17219,
-  "2022-07-03": 17219,
-  "2022-07-04": 17219,
-  "2022-07-05": 17219,
-  "2022-07-06": 17219,
-  "2022-07-07": 17219,
-  "2022-07-08": 17219,
-  "2022-07-09": 17219,
-  "2022-07-10": 17219,
-  "2022-07-11": 17219,
-  "2022-07-12": 17219,
-  "2022-07-13": 17219,
-  "2022-07-14": 17219,
-  "2022-07-15": 17219,
-  "2022-07-16": 17219,
-  "2022-07-17": 17219,
-  "2022-07-18": 17219,
-  "2022-07-19": 17219,
-  "2022-07-20": 17219,
-  "2022-07-21": 17219,
-  "2022-07-22": 17219,
-  "2022-07-23": 17219,
-  "2022-07-24": 17219,
-  "2022-07-25": 17219,
-  "2022-07-26": 17219,
-  "2022-07-27": 17219,
-  "2022-07-28": 17219,
-  "2022-07-29": 17219,
-  "2022-07-30": 17219,
-  "2022-07-31": 17219,
-  "2022-08-01": 17219,
-  "2022-08-02": 17219,
-  "2022-08-03": 17219,
-  "2022-08-04": 17219,
-  "2022-08-05": 17219,
-  "2022-08-06": 17219,
-  "2022-08-07": 17219,
-  "2022-08-08": 17219,
-  "2022-08-09": 17219,
-  "2022-08-10": 17219,
-  "2022-08-11": 17219,
-  "2022-08-12": 17219,
-  "2022-08-13": 17219,
-  "2022-08-14": 17219,
-  "2022-08-15": 17219,
-  "2022-08-16": 17219,
-  "2022-08-17": 17219,
-  "2022-08-18": 17219,
-  "2022-08-19": 17219,
-  "2022-08-20": 17219,
-  "2022-08-21": 17219,
-  "2022-08-22": 17219,
-  "2022-08-23": 17219,
-  "2022-08-24": 17219,
-  "2022-08-25": 17219,
-  "2022-08-26": 17219,
-  "2022-08-27": 17219,
-  "2022-08-28": 17219,
-  "2022-08-29": 17219,
-  "2022-08-30": 17219,
-  "2022-08-31": 17219,
-  "2022-09-01": 17219,
-  "2022-09-02": 17219,
-  "2022-09-03": 17219,
-  "2022-09-04": 17219,
-  "2022-09-05": 17219,
-  "2022-09-06": 17219,
-  "2022-09-07": 17219,
-  "2022-09-09": 17219,
-  "2022-09-10": 17219,
-  "2022-09-11": 17219,
-  "2022-09-12": 17219,
-  "2022-09-13": 17219,
-  "2022-09-15": 17219,
-  "2022-09-16": 17219,
-  "2022-09-17": 17219,
-  "2022-09-18": 17219,
-  "2022-09-19": 17219,
-  "2022-09-20": 17219,
-  "2022-09-21": 17219,
-  "2022-09-22": 17219,
-  "2022-09-23": 17219,
-  "2022-09-24": 17219,
-  "2022-09-25": 17219,
-  "2022-09-26": 17219,
-  "2022-09-27": 17219,
-  "2022-09-28": 17219,
-  "2022-09-29": 17219,
-  "2022-09-30": 17219,
-  "2022-10-01": 17219,
-  "2022-10-02": 17219,
-  "2022-10-03": 17219,
-  "2022-10-04": 17219,
-  "2022-10-05": 17219,
-  "2022-10-06": 17219,
-  "2022-10-07": 17219,
-  "2022-10-08": 17219,
-  "2022-10-09": 17219,
-  "2022-10-10": 17219,
-  "2022-10-11": 17219,
-  "2022-10-12": 17219,
-  "2022-10-13": 17219,
-  "2022-10-14": 17219,
-  "2022-10-15": 17219,
-  "2022-10-16": 17219,
-  "2022-10-17": 17219,
-  "2022-10-18": 17219,
-  "2022-10-19": 17219,
-  "2022-10-20": 17219,
-  "2022-10-21": 17219,
-  "2022-10-22": 17219,
-  "2022-10-23": 17219,
-  "2022-10-24": 17219,
-  "2022-10-25": 17219,
-  "2022-10-26": 17219,
-  "2022-10-27": 17219,
-  "2022-10-28": 17219,
-  "2022-10-29": 17219,
-  "2022-10-30": 17219,
-  "2022-10-31": 17219,
-  "2022-11-01": 17219,
-  "2022-11-02": 17219,
-  "2022-11-03": 17219,
-  "2022-11-04": 17219,
-  "2022-11-05": 17219,
-  "2022-11-06": 17219,
-  "2022-11-07": 17219,
-  "2022-11-08": 17219,
-  "2022-11-09": 17219,
-  "2022-11-10": 17219,
-  "2022-11-11": 17219,
-  "2022-11-12": 17219,
-  "2022-11-13": 17219,
-  "2022-11-14": 17219,
-  "2022-11-15": 17219,
-  "2022-11-16": 17219,
-  "2022-11-17": 17219,
-  "2022-11-18": 17219,
-  "2022-11-19": 17219,
-  "2022-11-20": 17219,
-  "2022-11-21": 17219,
-  "2022-11-22": 17219,
-  "2022-11-23": 17219,
-  "2022-11-24": 17219,
-  "2022-11-25": 17219,
-  "2022-11-26": 17219,
-  "2022-11-27": 17219,
-  "2022-11-28": 17219,
-  "2022-11-29": 17219,
-  "2022-11-30": 17219,
-  "2022-12-01": 17219,
-  "2022-12-02": 17219,
-  "2022-12-03": 17219,
-  "2022-12-04": 17219,
-  "2022-12-05": 17219,
-  "2022-12-06": 17219,
-  "2022-12-07": 17219,
-  "2022-12-08": 17219,
-  "2022-12-09": 17219,
-  "2022-12-10": 17219,
-  "2022-12-11": 17219,
-  "2022-12-12": 17219,
-  "2022-12-13": 17219,
-  "2022-12-14": 17219,
-  "2022-12-15": 17219,
-  "2022-12-16": 17219,
-  "2022-12-17": 17219,
-  "2022-12-18": 17219,
-  "2022-12-19": 17219,
-  "2022-12-20": 17219,
-  "2022-12-21": 17219,
-  "2022-12-22": 17219,
-  "2022-12-24": 17219,
-  "2022-12-25": 17219,
-  "2022-12-26": 17219,
-  "2022-12-27": 17219,
-  "2022-12-28": 17219,
-  "2022-12-29": 17219,
-  "2022-12-30": 17219,
-  "2022-12-31": 17219,
-  "2023-01-01": 17219,
-  "2023-01-02": 17219,
-  "2023-01-03": 17219,
-  "2023-01-04": 17219,
-  "2023-01-05": 17219,
-  "2023-01-06": 17219,
-  "2023-01-07": 17219,
-  "2023-01-08": 17219,
-  "2023-01-09": 17219,
-  "2023-01-10": 17219,
-  "2023-01-11": 17219,
-  "2023-01-12": 17219,
-  "2023-01-13": 17219,
-  "2023-01-14": 17219,
-  "2023-01-15": 17219,
-  "2023-01-16": 17219,
-  "2023-01-17": 17219,
-  "2023-01-18": 17219,
-  "2023-01-19": 17219,
-  "2023-01-20": 17219,
-  "2023-01-21": 17219,
-  "2023-01-22": 17219,
-  "2023-01-23": 17219,
-  "2023-01-24": 17219,
-  "2023-01-25": 17219,
-  "2023-01-26": 17219,
-  "2023-01-27": 17219,
-  "2023-01-28": 17219,
-  "2023-01-29": 17219,
-  "2023-01-30": 17219,
-  "2023-01-31": 17219,
-  "2023-02-01": 17219,
-  "2023-02-02": 17219,
-  "2023-02-03": 17219,
-  "2023-02-04": 17219,
-  "2023-02-05": 17219,
-  "2023-02-06": 17219,
-  "2023-02-07": 17219,
-  "2023-02-08": 17219,
-  "2023-02-09": 17219,
-  "2023-02-10": 17219,
-  "2023-02-11": 17219,
-  "2023-02-12": 17219,
-  "2023-02-13": 17219,
-  "2023-02-14": 17219,
-  "2023-02-15": 17219,
-  "2023-02-16": 17219,
-  "2023-02-17": 17219,
-  "2023-02-18": 17219,
-  "2023-02-19": 17219,
-  "2023-02-20": 17219,
-  "2023-02-21": 17219,
-  "2023-02-22": 17219,
-  "2023-02-23": 17219,
-  "2023-02-24": 17219,
-  "2023-02-25": 17219,
-  "2023-02-26": 17219,
-  "2023-02-27": 17219,
-  "2023-02-28": 17219,
-  "2023-03-01": 17219,
-  "2023-03-02": 17219,
-  "2023-03-03": 17219,
-  "2023-03-04": 17219,
-  "2023-03-05": 17219,
-  "2023-03-06": 17219,
-  "2023-03-07": 17219,
-  "2023-03-08": 17219,
-  "2023-03-09": 17219,
-  "2023-03-10": 17219,
-  "2023-03-11": 17219,
-  "2023-03-12": 17219,
-  "2023-03-13": 17219,
-  "2023-03-14": 17219,
-  "2023-03-15": 17219,
-  "2023-03-16": 17219,
-  "2023-03-17": 17219,
-  "2023-03-18": 17219,
-  "2023-03-19": 17219,
-  "2023-03-20": 17219,
-  "2023-03-21": 17219,
-  "2023-03-22": 17219,
-  "2023-03-23": 17219,
-  "2023-03-24": 17219,
-  "2023-03-25": 17219,
-  "2023-03-26": 17219,
-  "2023-03-27": 17219,
-  "2023-03-28": 17219,
-  "2023-03-29": 17219,
-  "2023-03-30": 17219,
-  "2023-03-31": 17219,
-  "2023-04-01": 17219,
-  "2023-04-02": 17219,
-  "2023-04-03": 17219,
-  "2023-04-04": 17219,
-  "2023-04-05": 17219,
-  "2023-04-06": 17219,
-  "2023-04-07": 17219,
-  "2023-04-09": 17219,
-  "2023-04-10": 17219,
-  "2023-04-11": 17219,
-  "2023-04-12": 17219,
-  "2023-04-13": 17219,
-  "2023-04-14": 17219,
-  "2023-04-15": 17219,
-  "2023-04-16": 17219,
-  "2023-04-17": 17219,
-  "2023-04-18": 17219,
-  "2023-04-19": 17219,
-  "2023-04-20": 17219,
-  "2023-04-21": 17219,
-  "2023-04-22": 17219,
-  "2023-04-23": 17219,
-  "2023-04-24": 17219,
-  "2023-04-25": 17219,
-  "2023-04-26": 17219,
-  "2023-04-27": 17219,
-  "2023-04-28": 17219,
-  "2023-04-29": 17219,
-  "2023-04-30": 17219,
-  "2023-05-01": 17219,
-  "2023-05-02": 17219,
-  "2023-05-03": 17219,
-  "2023-05-04": 17219,
-  "2023-05-05": 17219,
-  "2023-05-06": 17219,
-  "2023-05-07": 17219,
-  "2023-05-08": 17219,
-  "2023-05-09": 17219,
-  "2023-05-10": 17219,
-  "2023-05-11": 17219,
-  "2023-05-12": 17219,
-  "2023-05-13": 17219,
-  "2023-05-14": 17219,
-  "2023-05-15": 17219,
-  "2023-05-16": 17219,
-  "2023-05-17": 17219,
-  "2023-05-18": 17219,
-  "2023-05-19": 17219,
-  "2023-05-20": 17219,
-  "2023-05-21": 17219,
-  "2023-05-22": 17219,
-  "2023-05-23": 17219,
-  "2023-05-24": 17219,
-  "2023-05-25": 17219,
-  "2023-05-26": 17219,
-  "2023-05-27": 17219,
-  "2023-05-28": 17219,
-  "2023-05-29": 17219,
-  "2023-05-30": 17219,
-  "2023-05-31": 17219,
-  "2023-06-01": 17219,
-  "2023-06-02": 17219,
-  "2023-06-03": 17219,
-  "2023-06-04": 17219,
-  "2023-06-05": 17219,
-  "2023-06-06": 17219,
-  "2023-06-07": 17219,
-  "2023-06-08": 17219,
-  "2023-06-09": 17219,
-  "2023-06-10": 17219,
-  "2023-06-11": 17219,
-  "2023-06-12": 17219,
-  "2023-06-13": 17219,
-  "2023-06-14": 17219,
-  "2023-06-15": 17219,
-  "2023-06-16": 17219,
-  "2023-06-17": 17219,
-  "2023-06-18": 17219,
-  "2023-06-19": 17219,
-  "2023-06-20": 17219,
-  "2023-06-21": 17219,
-  "2023-06-22": 17219,
-  "2023-06-23": 17219,
-  "2023-06-24": 17219,
-  "2023-06-25": 17219,
-  "2023-06-26": 17219,
-  "2023-06-27": 17219,
-  "2023-06-28": 17219,
-  "2023-06-29": 17219,
-  "2023-06-30": 17219,
-  "2023-07-01": 17219,
-  "2023-07-02": 17219,
-  "2023-07-03": 17219,
-  "2023-07-04": 17219,
-  "2023-07-05": 17219,
-  "2023-07-06": 17219,
-  "2023-07-07": 17219,
-  "2023-07-08": 17219,
-  "2023-07-09": 17219,
-  "2023-07-10": 17219,
-  "2023-07-11": 17219,
-  "2023-07-12": 17219,
-  "2023-07-13": 17219,
-  "2023-07-14": 17219,
-  "2023-07-15": 17219,
-  "2023-07-16": 17219,
-  "2023-07-17": 17219,
-  "2023-07-18": 17219,
-  "2023-07-19": 17219,
-  "2023-07-20": 17219,
-  "2023-07-21": 17219,
-  "2023-07-22": 17219,
-  "2023-07-23": 17219,
-  "2023-07-24": 17219,
-  "2023-07-25": 17219,
-  "2023-07-26": 17219,
-  "2023-07-27": 17219,
-  "2023-07-28": 17219,
-  "2023-07-29": 17219,
-  "2023-07-30": 17219,
-  "2023-07-31": 17219,
-  "2023-08-01": 17219,
-  "2023-08-02": 17219,
-  "2023-08-03": 17219,
-  "2023-08-04": 17219,
-  "2023-08-05": 17219,
-  "2023-08-06": 17219,
-  "2023-08-07": 17219,
-  "2023-08-08": 17219,
-  "2023-08-09": 17219,
-  "2023-08-10": 17219,
-  "2023-08-11": 17219,
-  "2023-08-12": 17219,
-  "2023-08-13": 17219,
-  "2023-08-14": 17219,
-  "2023-08-15": 17219,
-  "2023-08-16": 17219,
-  "2023-08-17": 17219,
-  "2023-08-18": 17219,
-  "2023-08-19": 17219,
-  "2023-08-20": 17219,
-  "2023-08-21": 17219,
-  "2023-08-22": 17219,
-  "2023-08-23": 17219,
-  "2023-08-24": 17219,
-  "2023-08-25": 17219,
-  "2023-08-26": 17219,
-  "2023-08-27": 17219,
-  "2023-08-28": 17219,
-  "2023-08-29": 17219,
-  "2023-08-30": 17219,
-  "2023-08-31": 17219,
-  "2023-09-01": 17219,
-  "2023-09-02": 17219,
-  "2023-09-03": 17219,
-  "2023-09-04": 17219,
-  "2023-09-05": 17219,
-  "2023-09-06": 17219,
-  "2023-09-07": 17219,
-  "2023-09-08": 17219,
-  "2023-09-09": 17219,
-  "2023-09-10": 17219,
-  "2023-09-11": 17219,
-  "2023-09-12": 17219,
-  "2023-09-13": 17219,
-  "2023-09-14": 17219,
-  "2023-09-15": 17219,
-  "2023-09-16": 17219,
-  "2023-09-17": 17219,
-  "2023-09-18": 17219,
-  "2023-09-19": 17219,
-  "2023-09-20": 17219,
-  "2023-09-21": 17219,
-  "2023-09-22": 17219,
-  "2023-09-23": 17219,
-  "2023-09-24": 17219,
-  "2023-09-25": 17219,
-  "2023-09-26": 17219,
-  "2023-09-27": 17219,
-  "2023-09-28": 17219,
-  "2023-09-29": 17219,
-  "2023-09-30": 17219,
-  "2023-10-01": 17219,
-  "2023-10-02": 17219,
-  "2023-10-03": 17219,
-  "2023-10-04": 17219,
-  "2023-10-05": 17219,
-  "2023-10-06": 17219,
-  "2023-10-07": 17219,
-  "2023-10-08": 17219,
-  "2023-10-09": 17219,
-  "2023-10-10": 17219,
-  "2023-10-11": 17219,
-  "2023-10-12": 17219,
-  "2023-10-13": 17219,
-  "2023-10-14": 17219,
-  "2023-10-15": 17219,
-  "2023-10-16": 17219,
-  "2023-10-17": 17219,
-  "2023-10-18": 17219,
-  "2023-10-19": 17219,
-  "2023-10-20": 17219,
-  "2023-10-21": 17219,
-  "2023-10-22": 17219,
-  "2023-10-23": 17219,
-  "2023-10-24": 17219,
-  "2023-10-25": 17219,
-  "2023-10-26": 17219,
-  "2023-10-27": 17219,
-  "2023-10-28": 17219,
-  "2023-10-29": 17219,
-  "2023-10-30": 17219,
-  "2023-10-31": 17219,
-  "2023-11-01": 17219,
-  "2023-11-02": 17219,
-  "2023-11-03": 17219,
-  "2023-11-04": 17219,
-  "2023-11-05": 17219,
-  "2023-11-06": 17219,
-  "2023-11-07": 17219,
-  "2023-11-08": 17219,
-  "2023-11-09": 17219,
-  "2023-11-10": 17219,
-  "2023-11-11": 17219,
-  "2023-11-12": 17219,
-  "2023-11-13": 17219,
-  "2023-11-14": 17219,
-  "2023-11-15": 17219,
-  "2023-11-16": 17219,
-  "2023-11-17": 17219,
-  "2023-11-18": 17219,
-  "2023-11-19": 17219,
-  "2023-11-20": 17219,
-  "2023-11-21": 17219,
-  "2023-11-22": 17219,
-  "2023-11-23": 17219,
-  "2023-11-24": 17219,
-  "2023-11-25": 17219,
-  "2023-11-26": 17219,
-  "2023-11-27": 17219,
-  "2023-11-28": 17219,
-  "2023-11-29": 17219,
-  "2023-11-30": 17219,
-  "2023-12-01": 17219,
-  "2023-12-02": 17219,
-  "2023-12-03": 17219,
-  "2023-12-04": 17219,
-  "2023-12-05": 17219,
-  "2023-12-06": 17219,
-  "2023-12-07": 17219,
-  "2023-12-08": 17219,
-  "2023-12-09": 17219,
-  "2023-12-10": 17219,
-  "2023-12-11": 17219,
-  "2023-12-12": 17219,
-  "2023-12-13": 17219,
-  "2023-12-14": 17219,
-  "2023-12-15": 17219,
-  "2023-12-16": 17219,
-  "2023-12-17": 17219,
-  "2023-12-18": 17219,
-  "2023-12-19": 17219,
-  "2023-12-20": 17219,
-  "2023-12-21": 17219,
-  "2023-12-22": 17219,
-  "2023-12-23": 17219,
-  "2023-12-24": 17219,
-  "2023-12-25": 17219,
-  "2023-12-26": 17219,
-  "2023-12-27": 17219,
-  "2023-12-30": 17219,
-  "2023-12-31": 17219,
-  "2024-01-01": 17219,
-  "2024-01-02": 17219,
-  "2024-01-03": 17219
+  "2024-01-17": 17219,
+  "date_first_scraped": "2021-12-21",
+  "description": "Learn some essential Swedish and master useful travel vocabulary in under seven hours \u2013 perfect for a transatlantic flight!",
+  "name": "Learn Swedish",
+  "tracks": [
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7413,
+      "name": "A Church A Doctor",
+      "url": "https://open.spotify.com/track/19bkLNFILud4n3mvVkvjQ8"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 721533,
+      "name": "Adjectives, Adverbs, Prepositions, Conjunctions 1",
+      "url": "https://open.spotify.com/track/7oxVf1QDdF6VZYRCm3UhNW"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 701226,
+      "name": "Adjectives, Adverbs, Prepositions, Conjunctions 2",
+      "url": "https://open.spotify.com/track/4X0nyHsQkPDTjoLaaCMedr"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635026,
+      "name": "Adjectives, Adverbs, Prepositions, Conjunctions 3",
+      "url": "https://open.spotify.com/track/12XrkYHNle7eQXXF9DpuLx"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570506,
+      "name": "Adjectives, Adverbs, Prepositions, Conjunctions 4",
+      "url": "https://open.spotify.com/track/4sT59o61rpYM9OUM9X64xQ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "At __o'clock",
+      "url": "https://open.spotify.com/track/2mmayGa88praxoApeE4GUd"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4333,
+      "name": "At Hotels And Restaurants",
+      "url": "https://open.spotify.com/track/0Jg1u2WKSV0p1zeKBD0B3x"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5613,
+      "name": "At Shops Do You Sell",
+      "url": "https://open.spotify.com/track/58VbSPvcJKGSTXofeB3U0G"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6466,
+      "name": "Beef Lamb Pork",
+      "url": "https://open.spotify.com/track/7DiNls5iZAqPunMgUheFDA"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Bread Butter",
+      "url": "https://open.spotify.com/track/4mYynQrKnmjiYvSmtXptkP"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4373,
+      "name": "Call Me At __o'clock",
+      "url": "https://open.spotify.com/track/715aHVJ1FGa58a0rRH36yv"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7066,
+      "name": "Chicken Fish Eggs",
+      "url": "https://open.spotify.com/track/3AdeKhr2PefWkeuXIr5Cgt"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5466,
+      "name": "Coffee Tea Milk",
+      "url": "https://open.spotify.com/track/57cqIENj7KQcy4xYKQT62o"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5400,
+      "name": "Courtesies Please",
+      "url": "https://open.spotify.com/track/2G9fjJY52jdQB8zEiusaHQ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Day And Time",
+      "url": "https://open.spotify.com/track/4YqwXMjCR4hlyHYZnjE8pJ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "English To Swedish Intro",
+      "url": "https://open.spotify.com/track/3kXQrnMcphSOpXh5C3mOMg"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631266,
+      "name": "Expressions 1",
+      "url": "https://open.spotify.com/track/5uAe5x4R3MQhKBeEjhXoAp"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 651800,
+      "name": "Expressions 2",
+      "url": "https://open.spotify.com/track/1SnBemZhxAzJCZWtAZ2bCW"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696133,
+      "name": "Expressions 3",
+      "url": "https://open.spotify.com/track/4O2Af7yIvnEDbnWmwU5l85"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770320,
+      "name": "Expressions 4",
+      "url": "https://open.spotify.com/track/3pUUcoGjF0oho4Gya8l2qF"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7653,
+      "name": "Five Six Seven Eight",
+      "url": "https://open.spotify.com/track/3TvF8mmS1HFC0383CjEXCE"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4120,
+      "name": "For Better Understanding",
+      "url": "https://open.spotify.com/track/3asLVGeofVTMEzbIKNPp9v"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4066,
+      "name": "Good Bad",
+      "url": "https://open.spotify.com/track/7bdQ0QzLFMWWchookdV3ik"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5066,
+      "name": "Good Night How Are You?",
+      "url": "https://open.spotify.com/track/7jrfXMEtwhxGilAh7DW65v"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4440,
+      "name": "Have A Good Trip",
+      "url": "https://open.spotify.com/track/32hoBeJzUFF7CcBjCM7Wl0"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4026,
+      "name": "Hello Goodbye",
+      "url": "https://open.spotify.com/track/4ccTVNwiUsvWcpO7pQe38u"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4120,
+      "name": "Hour Minute",
+      "url": "https://open.spotify.com/track/5XI6HqYpBIOKNCGis9MIcm"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6280,
+      "name": "How Much Is That? It Is Too Expensive",
+      "url": "https://open.spotify.com/track/3NLLgae6sctmVzbM2AFNqk"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9240,
+      "name": "I Don't Speak Please Call Somebody Who Can Speak",
+      "url": "https://open.spotify.com/track/6di9Q6C96eKeM79PbRae63"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9360,
+      "name": "I Understand I Do Not Understand Do You Understand?",
+      "url": "https://open.spotify.com/track/05ArpbzXLu7ZjWEBZVPfOA"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6466,
+      "name": "I Will Take This Send It To",
+      "url": "https://open.spotify.com/track/6zsNJIj8sblVqmIJaPgOoj"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6466,
+      "name": "I Would Like This Pressed",
+      "url": "https://open.spotify.com/track/45N7dcGMQPvQQjYG09hDsQ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4880,
+      "name": "Ice Water",
+      "url": "https://open.spotify.com/track/6YtwrMLqxtEKMSjA6eb76M"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "My Bill Please",
+      "url": "https://open.spotify.com/track/4wIfPGZUtsg603Ro2YOFfd"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7853,
+      "name": "Nine Ten Eleven Twelve",
+      "url": "https://open.spotify.com/track/36FInCBhU2wDE6Q8IE8KK8"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4813,
+      "name": "Nineteen Twenty",
+      "url": "https://open.spotify.com/track/0bEVJERUNkIiisLhsQsGKo"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749640,
+      "name": "Nouns 1",
+      "url": "https://open.spotify.com/track/7rgN5SmAseJ8GYWxicxBD4"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510426,
+      "name": "Nouns 2",
+      "url": "https://open.spotify.com/track/0JP5SS2HdfsW1mO7BOp8oi"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 802186,
+      "name": "Nouns 3",
+      "url": "https://open.spotify.com/track/7AYgIVZjmtGF37dCimrmK0"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 691706,
+      "name": "Nouns 4",
+      "url": "https://open.spotify.com/track/2B4aHP3OgqQckEJ617FtoP"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10893,
+      "name": "Numbers One Two Three Four",
+      "url": "https://open.spotify.com/track/3SBufSzIlmA9S4RkzN5PTu"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8026,
+      "name": "One Hundred One Thousand Ten Thousand",
+      "url": "https://open.spotify.com/track/71VHPQQ9O5UoAFNJpkuZzz"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7506,
+      "name": "Please Drive Slower I Am In A Hurry",
+      "url": "https://open.spotify.com/track/5RPwPzsvYUcnM61YIxjQCx"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7786,
+      "name": "Please Write It Down Please Go And Ask",
+      "url": "https://open.spotify.com/track/3TLBdelRBvUolzQVYg2BWo"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4080,
+      "name": "Right Left",
+      "url": "https://open.spotify.com/track/42Qe9d4Qmsc2N0wmVAVteJ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9600,
+      "name": "Salt Pepper Sugar Dessert",
+      "url": "https://open.spotify.com/track/6i0Zox5jNhCp5mteZCe1Kg"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7746,
+      "name": "Sixteen Seventeen Eighteen",
+      "url": "https://open.spotify.com/track/0om2yQOrlOqch9Kos48dTz"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7013,
+      "name": "Something Cheaper Something Better",
+      "url": "https://open.spotify.com/track/6Bm17XcyKgjXhhpkfn9a8Q"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4706,
+      "name": "Stop Go",
+      "url": "https://open.spotify.com/track/16iEKt5OGah21bXgmBr6Ev"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/16kyJMYaMNBL28gJ9g62vG"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Easily, Effectively, and Fluently",
+        "url": "https://open.spotify.com/album/2WQq6oSkt9uVCgHb3OM5YJ"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668177,
+      "name": "Swedish Language Lesson 4",
+      "url": "https://open.spotify.com/track/7HQ8kBRQCdhRtCBwu8a4a7"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Easily, Effectively, and Fluently",
+        "url": "https://open.spotify.com/album/2WQq6oSkt9uVCgHb3OM5YJ"
+      },
+      "artists": [
+        {
+          "name": "Complete Language Lessons",
+          "url": "https://open.spotify.com/artist/3sp7NtPgyjKKqYobNw8q6B"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 886073,
+      "name": "Swedish Language Lesson 8",
+      "url": "https://open.spotify.com/track/1122KhWYRsihe9H3iql3Y0"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1908308,
+      "name": "Swedish Lesson 1",
+      "url": "https://open.spotify.com/track/0c8qOUrQybYAOaQAAatoVK"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1824345,
+      "name": "Swedish Lesson 2",
+      "url": "https://open.spotify.com/track/1WB5NXWfxmhp3xL6dYWKZX"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1488491,
+      "name": "Swedish Lesson 3",
+      "url": "https://open.spotify.com/track/0DgnPVBuoauSyOdlv3hlGO"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1671650,
+      "name": "Swedish Lesson 5",
+      "url": "https://open.spotify.com/track/4C5pVssfnzn8OmRp1Nx12g"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442107,
+      "name": "Swedish Lesson 6",
+      "url": "https://open.spotify.com/track/4L3hMXAdi2NpMtvOilDoO4"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1638585,
+      "name": "Swedish Lesson 7",
+      "url": "https://open.spotify.com/track/1jxhet5tNbtwqM0wR39rIX"
+    },
+    {
+      "album": {
+        "name": "Learn Swedish Fast",
+        "url": "https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF"
+      },
+      "artists": [
+        {
+          "name": "Language Superstar",
+          "url": "https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1737967,
+      "name": "Swedish Lesson 9",
+      "url": "https://open.spotify.com/track/4vgjr7vmwWE7xcbgiHoyWC"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4080,
+      "name": "Take Me To",
+      "url": "https://open.spotify.com/track/6RrG21SPUd1b0ZNh0vVJNI"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4613,
+      "name": "Talk Slower Please",
+      "url": "https://open.spotify.com/track/3km4pJDYpBpuIIkHE2J6K1"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4960,
+      "name": "Thank You You Are Welcome",
+      "url": "https://open.spotify.com/track/0lnS5YSMjMTHRAEFlhEvG1"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6053,
+      "name": "The Hotel A Bank",
+      "url": "https://open.spotify.com/track/0o1ZsgTa4yzmXPUY4QcD8M"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6840,
+      "name": "The Mens' Room The Ladies' Room",
+      "url": "https://open.spotify.com/track/6Cl8M9JPV8Mz5fHm6npCvC"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4040,
+      "name": "There Here",
+      "url": "https://open.spotify.com/track/6K2Nw5Q4QjhEPUUGSk81M5"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7213,
+      "name": "Thirteen Fourteen Fifteen",
+      "url": "https://open.spotify.com/track/4NJmdPI9GQEomUIOW80JxE"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7106,
+      "name": "This Washed This Drycleaned",
+      "url": "https://open.spotify.com/track/0ZxBiYrtISscCs1cNn4GaE"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5506,
+      "name": "To Eat A Menu",
+      "url": "https://open.spotify.com/track/3rWZO30Ri3F9eR2RXYyk22"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4386,
+      "name": "Today Tonight",
+      "url": "https://open.spotify.com/track/3manyeLAaAY3gNj3txVzFe"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7693,
+      "name": "Transportation Please Call A Taxi",
+      "url": "https://open.spotify.com/track/4XVNKgVSIoExJcyncBKm6b"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8986,
+      "name": "Vegetabel Salad Fruit Potatoes",
+      "url": "https://open.spotify.com/track/5jbSj3lPtkrIWhkANHXkfI"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618720,
+      "name": "Verbs 1",
+      "url": "https://open.spotify.com/track/3wF4wGne7j2Cz4T1ZVEnyi"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 705786,
+      "name": "Verbs 2",
+      "url": "https://open.spotify.com/track/1GmhMtOLkTzOEldPttee5S"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 755053,
+      "name": "Verbs 3",
+      "url": "https://open.spotify.com/track/5pyJPDJ7ySJIu5bUV3gL3i"
+    },
+    {
+      "album": {
+        "name": "Vocabulearn\u00ae Swedish / English Level 1",
+        "url": "https://open.spotify.com/album/4oSUnTtTTs6o5H2GzlwQsY"
+      },
+      "artists": [
+        {
+          "name": "Penton Overseas, Inc",
+          "url": "https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685533,
+      "name": "Verbs 4",
+      "url": "https://open.spotify.com/track/1SySw5rudTs6tWiKX1K3qZ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Wait For Me Here",
+      "url": "https://open.spotify.com/track/0B4BwYbX7dhwXSRqb2o2i9"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4973,
+      "name": "Ways Of Locating Places And People",
+      "url": "https://open.spotify.com/track/4AaoZHeAZsWN5EuS2fJq9q"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7680,
+      "name": "What Do You Call That? Would You Repeat That Please?",
+      "url": "https://open.spotify.com/track/3BuAamtIpPOmxGqwoOdBBZ"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7093,
+      "name": "Where Can I Buy Please Show Me",
+      "url": "https://open.spotify.com/track/237fFzFvdFvAKAMVSyfICk"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6333,
+      "name": "Where Is The Consulate",
+      "url": "https://open.spotify.com/track/0PpWzmqrr1J2MlwoxNkQ9x"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4400,
+      "name": "Where When",
+      "url": "https://open.spotify.com/track/2TjCKhHn7fagAtjqihrZkO"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5186,
+      "name": "Would You Write Out The Directions Please?",
+      "url": "https://open.spotify.com/track/2PgwILb0B01OMzioqM8Jyn"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4013,
+      "name": "Yes No",
+      "url": "https://open.spotify.com/track/4iK9boQo7i0cXSyZiMTpJf"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4000,
+      "name": "Yesterday Tomorrow",
+      "url": "https://open.spotify.com/track/4PfTY5LZDYIBn2arp0bbu4"
+    },
+    {
+      "album": {
+        "name": "English To Swedish",
+        "url": "https://open.spotify.com/album/3EE7gDHq8ac7ErcihW2054"
+      },
+      "artists": [
+        {
+          "name": "Travelanguage",
+          "url": "https://open.spotify.com/artist/76CfPESQSDDAUluTJH76G4"
+        }
+      ],
+      "date_added": "2014-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5786,
+      "name": "You Are Very Kind Excuse Me",
+      "url": "https://open.spotify.com/track/0q0mILcGVtrh6ykg6DLknv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1QCg8MO15wF"
 }

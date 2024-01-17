@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "ABC KIDS SONGS \u3048\u3044\u3054\u3067\u3046\u305f\u304a\uff01",
+        "url": "https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT"
+    },
+    {
+      "album": {
         "name": "52 Sing-A-Long Silly Songs",
         "url": "https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX"
       },
@@ -96,24 +114,6 @@
       "duration_ms": 106706,
       "name": "Alphabet Song",
       "url": "https://open.spotify.com/track/5ddiqtnKYhGULuJATEAJsM"
-    },
-    {
-      "album": {
-        "name": "ABC KIDS SONGS \u3048\u3044\u3054\u3067\u3046\u305f\u304a!",
-        "url": "https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1"
-      },
-      "artists": [
-        {
-          "name": "Cooltime Kids",
-          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106706,
-      "name": "Alphabet Song",
-      "url": "https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT"
     },
     {
       "album": {

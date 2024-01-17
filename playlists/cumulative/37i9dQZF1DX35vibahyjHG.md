@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [Best of EQUAL Africa 2023](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
+### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Highlights of 2023, listen to women at full volume Cover: <a href="https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8?si=2rweaO8cQg6QJJVXDfF1Mw"> Abigail Chams </a>
+> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8?si=2rweaO8cQg6QJJVXDfF1Mw"> Abigail Chams </a>
 
 314 songs - 17 hr 12 min
 

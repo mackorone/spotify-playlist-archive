@@ -4527,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "lentamente",
+        "url": "https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199611,
+      "name": "lentamente",
+      "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
+    },
+    {
+      "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/31LNhs3PMNI7Epfjjs1Wge"
       },
@@ -9056,6 +9074,28 @@
       "duration_ms": 126514,
       "name": "Todo Mundo (Menos Eu)",
       "url": "https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT"
+    },
+    {
+      "album": {
+        "name": "Todos os Santos Permitidos",
+        "url": "https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S"
+      },
+      "artists": [
+        {
+          "name": "Apeles",
+          "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
+        },
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Todos os Santos Permitidos",
+      "url": "https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm"
     },
     {
       "album": {

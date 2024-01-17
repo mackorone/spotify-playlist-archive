@@ -4,7 +4,7 @@
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-48 songs - 3 hr 23 min
+49 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Cornfield](https://open.spotify.com/track/1UEYOhlSSnx7D8NW8sKGxj) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Always Stay Sweet](https://open.spotify.com/album/31Ne7kRAa0M156FCmzAc4O) | 3:17 | 2023-10-23 |  |
 | [Cut Up Piano & Xylophone \- Remastered](https://open.spotify.com/track/1Ein8esT4WjvsYXSsa2wAJ) | [Fridge](https://open.spotify.com/artist/5g9s6dQAhse0qgjQOKQXHG) | [Happiness \(Anniversary Edition\)](https://open.spotify.com/album/248Bgo68wTNh9mCNNNYEfE) | 2:34 | 2023-10-23 |  |
 | [Darling Effect](https://open.spotify.com/track/0aHHMatRvp6oJdVzdxgHAD) | [Insides](https://open.spotify.com/artist/7oFNZi5wfNdERJPWeH3gmd) | [Euphoria](https://open.spotify.com/album/38TVnnFHcoPrVNheaR6Y7t) | 5:03 | 2023-10-23 |  |
-| [Die Dinge des Lebens](https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/5zXCkTQBeSfeSxEG82DRRM) | 4:56 | 2023-10-23 |  |
+| [Die Dinge des Lebens](https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/5zXCkTQBeSfeSxEG82DRRM) | 4:56 | 2023-10-23 | 2024-01-13 |
+| [Die Dinge des Lebens](https://open.spotify.com/track/0mZpVZRhcTWJXa6TQQPjNV) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/7cxuhgQC5uExNMyeT1k56y) | 4:56 | 2023-10-23 |  |
 | [Distance is Near](https://open.spotify.com/track/0hsPMgd7WTG4RyYDsK1Pes) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/5lNtJpNTrgKgCmzBrIAbVr) | 2:39 | 2023-10-23 |  |
 | [Distance is Near](https://open.spotify.com/track/24v0izdu7vlwg6NZMpvKN4) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3) | 2:39 | 2023-10-23 | 2023-12-24 |
 | [Eleven Eight](https://open.spotify.com/track/1kHLyQhgdqNJm7L6cCR2cj) | [Greg Davis](https://open.spotify.com/artist/4paVd8Xh0qCuX09r68eMMj) | [Arbor](https://open.spotify.com/album/6kpuSIEsLA5f48eZsMJeQq) | 3:52 | 2023-10-23 |  |

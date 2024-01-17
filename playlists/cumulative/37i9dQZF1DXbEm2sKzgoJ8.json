@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "act ii: date @ 8",
+        "url": "https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "act ii: date @ 8",
+      "url": "https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 137903,
       "name": "Blue Butterflies",
       "url": "https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd"
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 235360,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np"
@@ -1714,7 +1732,7 @@
       },
       "artists": [
         {
-          "name": "dhruv",
+          "name": "Dhruv",
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
@@ -4800,7 +4818,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194607,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
@@ -5032,6 +5050,24 @@
       "duration_ms": 205893,
       "name": "Ride (feat. Kehlani)",
       "url": "https://open.spotify.com/track/6FmnsSVdJJojBYzecDlpPO"
+    },
+    {
+      "album": {
+        "name": "Safe Word",
+        "url": "https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Safe Word",
+      "url": "https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It"
     },
     {
       "album": {
@@ -5990,7 +6026,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-13",
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
@@ -6735,6 +6771,24 @@
     },
     {
       "album": {
+        "name": "VIBES: IMMACULATE",
+        "url": "https://open.spotify.com/album/1eMrY7FmHadueIGAWru6zF"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "VIBES: IMMACULATE",
+      "url": "https://open.spotify.com/track/1NAG1AiDx6FR4JbinPWzzi"
+    },
+    {
+      "album": {
         "name": "Vibez",
         "url": "https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt"
       },
@@ -7276,6 +7330,24 @@
       "duration_ms": 187124,
       "name": "You, Dear",
       "url": "https://open.spotify.com/track/318GlwGP0P1jr3FrSiQWZq"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "Young Rich & In Love",
+      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
     },
     {
       "album": {

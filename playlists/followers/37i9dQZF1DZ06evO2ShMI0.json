@@ -1,432 +1,1255 @@
 {
-  "2022-10-27": 152996,
-  "2022-10-28": 153079,
-  "2022-10-29": 153154,
-  "2022-10-30": 153242,
-  "2022-10-31": 153332,
-  "2022-11-01": 153393,
-  "2022-11-02": 153452,
-  "2022-11-03": 153508,
-  "2022-11-04": 153587,
-  "2022-11-05": 153674,
-  "2022-11-06": 153731,
-  "2022-11-07": 153802,
-  "2022-11-08": 153863,
-  "2022-11-09": 153923,
-  "2022-11-10": 153977,
-  "2022-11-11": 154057,
-  "2022-11-12": 154139,
-  "2022-11-13": 154207,
-  "2022-11-14": 154302,
-  "2022-11-15": 154365,
-  "2022-11-16": 154446,
-  "2022-11-17": 154514,
-  "2022-11-18": 154533,
-  "2022-11-19": 154548,
-  "2022-11-20": 154619,
-  "2022-11-21": 154681,
-  "2022-11-22": 154735,
-  "2022-11-23": 154796,
-  "2022-11-24": 154908,
-  "2022-11-25": 154994,
-  "2022-11-26": 155075,
-  "2022-11-27": 155131,
-  "2022-11-28": 155190,
-  "2022-11-29": 155253,
-  "2022-11-30": 155320,
-  "2022-12-01": 155385,
-  "2022-12-02": 155412,
-  "2022-12-03": 155487,
-  "2022-12-04": 155572,
-  "2022-12-05": 155650,
-  "2022-12-06": 155713,
-  "2022-12-07": 155797,
-  "2022-12-08": 155880,
-  "2022-12-09": 155980,
-  "2022-12-10": 156056,
-  "2022-12-11": 156118,
-  "2022-12-12": 156204,
-  "2022-12-13": 156267,
-  "2022-12-14": 156343,
-  "2022-12-15": 156408,
-  "2022-12-16": 156468,
-  "2022-12-17": 156539,
-  "2022-12-18": 156621,
-  "2022-12-19": 156672,
-  "2022-12-20": 156821,
-  "2022-12-21": 156821,
-  "2022-12-22": 156883,
-  "2022-12-24": 157022,
-  "2022-12-25": 157081,
-  "2022-12-26": 157146,
-  "2022-12-27": 157206,
-  "2022-12-28": 157279,
-  "2022-12-29": 157339,
-  "2022-12-30": 157413,
-  "2022-12-31": 157492,
-  "2023-01-01": 157568,
-  "2023-01-02": 157647,
-  "2023-01-03": 157727,
-  "2023-01-04": 157782,
-  "2023-01-05": 157841,
-  "2023-01-06": 157923,
-  "2023-01-07": 158027,
-  "2023-01-08": 158044,
-  "2023-01-09": 158141,
-  "2023-01-10": 158214,
-  "2023-01-11": 158264,
-  "2023-01-12": 158345,
-  "2023-01-13": 158428,
-  "2023-01-14": 158567,
-  "2023-01-15": 158591,
-  "2023-01-16": 158663,
-  "2023-01-17": 158740,
-  "2023-01-18": 158815,
-  "2023-01-19": 158882,
-  "2023-01-20": 158970,
-  "2023-01-21": 159037,
-  "2023-01-22": 159133,
-  "2023-01-23": 159210,
-  "2023-01-24": 159279,
-  "2023-01-25": 159354,
-  "2023-01-26": 159425,
-  "2023-01-27": 159494,
-  "2023-01-28": 159577,
-  "2023-01-29": 159646,
-  "2023-01-30": 159735,
-  "2023-01-31": 159735,
-  "2023-02-01": 159875,
-  "2023-02-02": 159931,
-  "2023-02-03": 159990,
-  "2023-02-04": 160054,
-  "2023-02-05": 160127,
-  "2023-02-06": 160201,
-  "2023-02-07": 160256,
-  "2023-02-08": 160398,
-  "2023-02-09": 160398,
-  "2023-02-10": 160485,
-  "2023-02-11": 160581,
-  "2023-02-12": 160746,
-  "2023-02-13": 160823,
-  "2023-02-14": 160823,
-  "2023-02-15": 160883,
-  "2023-02-16": 160959,
-  "2023-02-17": 161025,
-  "2023-02-18": 161190,
-  "2023-02-19": 161215,
-  "2023-02-20": 161267,
-  "2023-02-21": 161343,
-  "2023-02-22": 161417,
-  "2023-02-23": 161492,
-  "2023-02-24": 161591,
-  "2023-02-25": 161687,
-  "2023-02-26": 161745,
-  "2023-02-27": 161867,
-  "2023-02-28": 161867,
-  "2023-03-01": 161932,
-  "2023-03-02": 162001,
-  "2023-03-03": 162117,
-  "2023-03-04": 162193,
-  "2023-03-05": 162371,
-  "2023-03-06": 162371,
-  "2023-03-07": 162457,
-  "2023-03-08": 162517,
-  "2023-03-09": 162569,
-  "2023-03-10": 162626,
-  "2023-03-11": 162702,
-  "2023-03-12": 162786,
-  "2023-03-13": 162855,
-  "2023-03-14": 162915,
-  "2023-03-15": 162993,
-  "2023-03-16": 162993,
-  "2023-03-17": 162993,
-  "2023-03-18": 163223,
-  "2023-03-19": 163223,
-  "2023-03-20": 163346,
-  "2023-03-21": 163399,
-  "2023-03-22": 163459,
-  "2023-03-23": 163520,
-  "2023-03-24": 163520,
-  "2023-03-25": 163647,
-  "2023-03-26": 163726,
-  "2023-03-27": 163798,
-  "2023-03-28": 163852,
-  "2023-03-29": 163924,
-  "2023-03-30": 164029,
-  "2023-03-31": 164029,
-  "2023-04-01": 164098,
-  "2023-04-02": 164157,
-  "2023-04-03": 164237,
-  "2023-04-04": 164315,
-  "2023-04-05": 164371,
-  "2023-04-06": 164460,
-  "2023-04-07": 164546,
-  "2023-04-09": 164671,
-  "2023-04-10": 164745,
-  "2023-04-11": 164860,
-  "2023-04-12": 164860,
-  "2023-04-13": 164929,
-  "2023-04-14": 165003,
-  "2023-04-15": 165052,
-  "2023-04-16": 165119,
-  "2023-04-17": 165185,
-  "2023-04-18": 165251,
-  "2023-04-19": 165305,
-  "2023-04-20": 165379,
-  "2023-04-21": 165454,
-  "2023-04-22": 165501,
-  "2023-04-23": 165579,
-  "2023-04-24": 165641,
-  "2023-04-25": 165712,
-  "2023-04-26": 165787,
-  "2023-04-27": 165853,
-  "2023-04-28": 165912,
-  "2023-04-29": 165994,
-  "2023-04-30": 166082,
-  "2023-05-01": 166156,
-  "2023-05-02": 166212,
-  "2023-05-03": 166263,
-  "2023-05-04": 166337,
-  "2023-05-05": 166396,
-  "2023-05-06": 166465,
-  "2023-05-07": 166535,
-  "2023-05-08": 166617,
-  "2023-05-09": 166692,
-  "2023-05-10": 166766,
-  "2023-05-11": 166841,
-  "2023-05-12": 166898,
-  "2023-05-13": 166971,
-  "2023-05-14": 167023,
-  "2023-05-15": 167088,
-  "2023-05-16": 167162,
-  "2023-05-17": 167227,
-  "2023-05-18": 167317,
-  "2023-05-19": 167380,
-  "2023-05-20": 167560,
-  "2023-05-21": 167560,
-  "2023-05-22": 167560,
-  "2023-05-23": 167689,
-  "2023-05-24": 167793,
-  "2023-05-25": 167805,
-  "2023-05-26": 167880,
-  "2023-05-27": 167966,
-  "2023-05-28": 168051,
-  "2023-05-29": 168051,
-  "2023-05-30": 168190,
-  "2023-05-31": 168243,
-  "2023-06-01": 168308,
-  "2023-06-02": 168375,
-  "2023-06-03": 168429,
-  "2023-06-04": 168523,
-  "2023-06-05": 168606,
-  "2023-06-06": 168676,
-  "2023-06-07": 168736,
-  "2023-06-08": 168813,
-  "2023-06-09": 168878,
-  "2023-06-10": 168945,
-  "2023-06-11": 169011,
-  "2023-06-12": 169070,
-  "2023-06-13": 169135,
-  "2023-06-14": 169192,
-  "2023-06-15": 169262,
-  "2023-06-16": 169346,
-  "2023-06-17": 169403,
-  "2023-06-18": 169493,
-  "2023-06-19": 169573,
-  "2023-06-20": 169633,
-  "2023-06-21": 169716,
-  "2023-06-22": 169775,
-  "2023-06-23": 169861,
-  "2023-06-24": 169948,
-  "2023-06-25": 170009,
-  "2023-06-26": 170076,
-  "2023-06-27": 170149,
-  "2023-06-28": 170215,
-  "2023-06-29": 170267,
-  "2023-06-30": 170329,
-  "2023-07-01": 170502,
-  "2023-07-02": 170502,
-  "2023-07-03": 170577,
-  "2023-07-04": 170658,
-  "2023-07-05": 170720,
-  "2023-07-06": 170843,
-  "2023-07-07": 170843,
-  "2023-07-08": 170843,
-  "2023-07-09": 170987,
-  "2023-07-10": 171049,
-  "2023-07-11": 171098,
-  "2023-07-12": 171154,
-  "2023-07-13": 171213,
-  "2023-07-14": 171276,
-  "2023-07-15": 171321,
-  "2023-07-16": 171433,
-  "2023-07-17": 171492,
-  "2023-07-18": 171541,
-  "2023-07-19": 171600,
-  "2023-07-20": 171660,
-  "2023-07-21": 171721,
-  "2023-07-22": 171789,
-  "2023-07-23": 171875,
-  "2023-07-24": 171946,
-  "2023-07-25": 172003,
-  "2023-07-26": 172074,
-  "2023-07-27": 172140,
-  "2023-07-28": 172235,
-  "2023-07-29": 172314,
-  "2023-07-30": 172383,
-  "2023-07-31": 172447,
-  "2023-08-01": 172493,
-  "2023-08-02": 172577,
-  "2023-08-03": 172632,
-  "2023-08-04": 172692,
-  "2023-08-05": 172761,
-  "2023-08-06": 172914,
-  "2023-08-07": 172914,
-  "2023-08-08": 172982,
-  "2023-08-09": 173051,
-  "2023-08-10": 173143,
-  "2023-08-11": 173217,
-  "2023-08-12": 173217,
-  "2023-08-13": 173217,
-  "2023-08-14": 173458,
-  "2023-08-15": 173458,
-  "2023-08-16": 173458,
-  "2023-08-17": 173458,
-  "2023-08-18": 173458,
-  "2023-08-19": 173458,
-  "2023-08-20": 173907,
-  "2023-08-21": 173907,
-  "2023-08-22": 174043,
-  "2023-08-23": 174043,
-  "2023-08-24": 174043,
-  "2023-08-25": 174043,
-  "2023-08-26": 174372,
-  "2023-08-27": 174372,
-  "2023-08-28": 174530,
-  "2023-08-29": 174530,
-  "2023-08-30": 174530,
-  "2023-08-31": 174760,
-  "2023-09-01": 174823,
-  "2023-09-02": 174823,
-  "2023-09-03": 174823,
-  "2023-09-04": 174823,
-  "2023-09-05": 174823,
-  "2023-09-06": 175246,
-  "2023-09-07": 175246,
-  "2023-09-08": 175246,
-  "2023-09-09": 175246,
-  "2023-09-10": 175598,
-  "2023-09-11": 175598,
-  "2023-09-12": 175598,
-  "2023-09-13": 175598,
-  "2023-09-14": 175598,
-  "2023-09-15": 175598,
-  "2023-09-16": 176120,
-  "2023-09-17": 176120,
-  "2023-09-18": 176120,
-  "2023-09-19": 176397,
-  "2023-09-20": 176397,
-  "2023-09-21": 176397,
-  "2023-09-22": 176630,
-  "2023-09-23": 176630,
-  "2023-09-24": 176630,
-  "2023-09-25": 176630,
-  "2023-09-26": 176880,
-  "2023-09-27": 176880,
-  "2023-09-28": 176880,
-  "2023-09-29": 176880,
-  "2023-09-30": 176880,
-  "2023-10-01": 176880,
-  "2023-10-02": 176880,
-  "2023-10-03": 176880,
-  "2023-10-04": 176880,
-  "2023-10-05": 176880,
-  "2023-10-06": 176880,
-  "2023-10-07": 176880,
-  "2023-10-08": 176880,
-  "2023-10-09": 176880,
-  "2023-10-10": 176880,
-  "2023-10-11": 177747,
-  "2023-10-12": 177747,
-  "2023-10-13": 177747,
-  "2023-10-14": 177747,
-  "2023-10-15": 177747,
-  "2023-10-16": 177747,
-  "2023-10-17": 177747,
-  "2023-10-18": 177747,
-  "2023-10-19": 177747,
-  "2023-10-20": 177747,
-  "2023-10-21": 177747,
-  "2023-10-22": 177747,
-  "2023-10-23": 177747,
-  "2023-10-24": 177747,
-  "2023-10-25": 177747,
-  "2023-10-26": 177747,
-  "2023-10-27": 177747,
-  "2023-10-28": 177747,
-  "2023-10-29": 177747,
-  "2023-10-30": 177747,
-  "2023-10-31": 177747,
-  "2023-11-01": 177747,
-  "2023-11-02": 177747,
-  "2023-11-03": 177747,
-  "2023-11-04": 177747,
-  "2023-11-05": 177747,
-  "2023-11-06": 177747,
-  "2023-11-07": 177747,
-  "2023-11-08": 177747,
-  "2023-11-09": 177747,
-  "2023-11-10": 177747,
-  "2023-11-11": 179634,
-  "2023-11-12": 179634,
-  "2023-11-13": 179634,
-  "2023-11-14": 179634,
-  "2023-11-15": 179634,
-  "2023-11-16": 179634,
-  "2023-11-17": 179634,
-  "2023-11-18": 179634,
-  "2023-11-19": 179634,
-  "2023-11-20": 179634,
-  "2023-11-21": 179634,
-  "2023-11-22": 179634,
-  "2023-11-23": 179634,
-  "2023-11-24": 179634,
-  "2023-11-25": 179634,
-  "2023-11-26": 179634,
-  "2023-11-27": 179634,
-  "2023-11-28": 179634,
-  "2023-11-29": 179634,
-  "2023-11-30": 179634,
-  "2023-12-01": 179634,
-  "2023-12-02": 179634,
-  "2023-12-03": 179634,
-  "2023-12-04": 179634,
-  "2023-12-05": 179634,
-  "2023-12-06": 179634,
-  "2023-12-07": 179634,
-  "2023-12-08": 179634,
-  "2023-12-09": 179634,
-  "2023-12-10": 179634,
-  "2023-12-11": 179634,
-  "2023-12-12": 179634,
-  "2023-12-13": 179634,
-  "2023-12-14": 181770,
-  "2023-12-15": 181809,
-  "2023-12-16": 181864,
-  "2023-12-17": 181917,
-  "2023-12-18": 181971,
-  "2023-12-19": 182032,
-  "2023-12-20": 182072,
-  "2023-12-21": 182115,
-  "2023-12-22": 182192,
-  "2023-12-23": 182248,
-  "2023-12-24": 182303,
-  "2023-12-25": 182354,
-  "2023-12-26": 182383,
-  "2023-12-27": 182439,
-  "2023-12-30": 182574,
-  "2023-12-31": 182627,
-  "2024-01-01": 182686,
-  "2024-01-02": 182737,
-  "2024-01-03": 182784
+  "2024-01-17": 183032,
+  "date_first_scraped": "2022-10-27",
+  "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
+  "name": "This Is Los Enanitos Verdes",
+  "tracks": [
+    {
+      "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174753,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G"
+    },
+    {
+      "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295013,
+      "name": "Amores Lejanos",
+      "url": "https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O"
+    },
+    {
+      "album": {
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261839,
+      "name": "Aun Sigo Cantando",
+      "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 206800,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/1RqkEHe0MHSIJQpuq5Sey1"
+    },
+    {
+      "album": {
+        "name": "Habia Una Vez",
+        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Buscando la Manera",
+      "url": "https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Cada Vez Que Digo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 223200,
+      "name": "Celdas",
+      "url": "https://open.spotify.com/track/7o3Uk9WyFL5ukE1LuKSU5O"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Conciencia Contrareloj",
+      "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 271706,
+      "name": "Cuando Habla El Corazon",
+      "url": "https://open.spotify.com/track/5DE8nkIWwejWJuT00yeHDq"
+    },
+    {
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Dale Pascual",
+      "url": "https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp"
+    },
+    {
+      "album": {
+        "name": "Recupera tus Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 284093,
+      "name": "De Hoy en M\u00e1s",
+      "url": "https://open.spotify.com/track/3UZugfa6dzHfOFshHwLarc"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 178306,
+      "name": "Derribando Sue\u00f1os",
+      "url": "https://open.spotify.com/track/2YjGwesn29FXUXA21uXQ6y"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "El Ataque de las Chicas Cocodrilo (En Vivo)",
+      "url": "https://open.spotify.com/track/7qQTnO5dsxAn6iNDqC7w9l"
+    },
+    {
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "El Dia Es Claro",
+      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/04A1a0YZUY9PKFhW06WSnd"
+    },
+    {
+      "album": {
+        "name": "Tracci\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247720,
+      "name": "El Guerrero",
+      "url": "https://open.spotify.com/track/0hN91uQEZegJM3bUAxhflV"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Retrovisor",
+        "url": "https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj"
+      },
+      "artists": [
+        {
+          "name": "Caramelos De Cianuro",
+          "url": "https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "El Instante Pas\u00f3",
+      "url": "https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO"
+    },
+    {
+      "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215806,
+      "name": "Era Un Angel",
+      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
+    },
+    {
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Eterna Soledad",
+      "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
+    },
+    {
+      "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317320,
+      "name": "Frances Limon",
+      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266826,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 209626,
+      "name": "H.I.V.",
+      "url": "https://open.spotify.com/track/3zrHD1q0GXkmhcv7s6HDJZ"
+    },
+    {
+      "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290063,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os Celebrando",
+        "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Ingrata",
+      "url": "https://open.spotify.com/track/2N9jetcWOeeqQZMiWmIAPI"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 214840,
+      "name": "La Luz del R\u00edo",
+      "url": "https://open.spotify.com/track/6aXBEcw6UoPghrscy13xH5"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236773,
+      "name": "La Muralla Verde (En Vivo)",
+      "url": "https://open.spotify.com/track/20M5B3RNyJlmI7zOhb5iv4"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Lamento Boliviano (En Vivo)",
+      "url": "https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355293,
+      "name": "Lamento Boliviano - En Vivo",
+      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+    },
+    {
+      "album": {
+        "name": "Iconos del Urbano",
+        "url": "https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293226,
+      "name": "Luz De Dia - En Vivo",
+      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325986,
+      "name": "Luz de D\u00eda (En Vivo)",
+      "url": "https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5"
+    },
+    {
+      "album": {
+        "name": "Pescado Original",
+        "url": "https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Mariposas (En Vivo)",
+      "url": "https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Mejor No Hablemos De Amor",
+      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256560,
+      "name": "Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP"
+    },
+    {
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "No Me Ver\u00e1s",
+      "url": "https://open.spotify.com/track/0ejL46eF26IFunBiRSIlmz"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 230666,
+      "name": "No Me Ver\u00e1s",
+      "url": "https://open.spotify.com/track/3AjM2wjIMGYrq3xTo0AzCP"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 258560,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 172933,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4nvvqTwFJtkuWHcl4AATjJ"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Piel De Nopal",
+      "url": "https://open.spotify.com/track/7dTbN5bleSdRYghCppUAUI"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 265626,
+      "name": "Por el Resto",
+      "url": "https://open.spotify.com/track/2tgUxOJHTjFxKHmfhyZGuS"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Por el Resto",
+      "url": "https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 230826,
+      "name": "Resplandor De Afecto",
+      "url": "https://open.spotify.com/track/5MI3exdi79w0zDhD9vlXVA"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150106,
+      "name": "Simulacro de Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
+    },
+    {
+      "album": {
+        "name": "Recupera tus Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 160146,
+      "name": "Solo Alguien Como Vos",
+      "url": "https://open.spotify.com/track/2A4TWy24vrDNFektqrH2As"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Solo Alguien Como Vos",
+      "url": "https://open.spotify.com/track/7dRylKD54RbLojze30yWPS"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271640,
+      "name": "Solo Dame Otra Oportunidad",
+      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
+    },
+    {
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "Sos un Perdedor",
+      "url": "https://open.spotify.com/track/3ksGCNSE0jPcGPA1hTH9Ij"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
+    },
+    {
+      "album": {
+        "name": "Recupera tus Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 222040,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/7sfcKVh3shDjlb1djxFuyq"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Tan Solo Un Instante",
+      "url": "https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 245266,
+      "name": "Te V\u00ed en un Tren",
+      "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Te V\u00ed en un Tren",
+      "url": "https://open.spotify.com/track/1RsoepHup9zTCiOPHlR0pQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Tequila - En Vivo",
+      "url": "https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52"
+    },
+    {
+      "album": {
+        "name": "Planetario",
+        "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Tibio Corazon",
+      "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242413,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"
+    },
+    {
+      "album": {
+        "name": "Huevos Revueltos (En Vivo)",
+        "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "Tu C\u00e1rcel (En Vivo)",
+      "url": "https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO"
+    },
+    {
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Tus Viejas Cartas",
+      "url": "https://open.spotify.com/track/4HfB46YTIChEV3Z3LoOFCD"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 212306,
+      "name": "Tus Viejas Cartas",
+      "url": "https://open.spotify.com/track/3C4tV3EN4GuNrrD65b9iMa"
+    },
+    {
+      "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
+    },
+    {
+      "album": {
+        "name": "Y Ahora Te Vas",
+        "url": "https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ShMI0"
 }

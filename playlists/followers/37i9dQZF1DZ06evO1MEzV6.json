@@ -1,291 +1,913 @@
 {
-  "2023-03-18": 47274,
-  "2023-03-19": 47274,
-  "2023-03-20": 47474,
-  "2023-03-21": 47561,
-  "2023-03-22": 47647,
-  "2023-03-23": 47740,
-  "2023-03-24": 47740,
-  "2023-03-25": 47937,
-  "2023-03-26": 48085,
-  "2023-03-27": 48193,
-  "2023-03-28": 48286,
-  "2023-03-29": 48408,
-  "2023-03-30": 48552,
-  "2023-03-31": 48552,
-  "2023-04-01": 48646,
-  "2023-04-02": 48768,
-  "2023-04-03": 48850,
-  "2023-04-04": 48938,
-  "2023-04-05": 49025,
-  "2023-04-06": 49097,
-  "2023-04-07": 49187,
-  "2023-04-09": 49346,
-  "2023-04-10": 49403,
-  "2023-04-11": 49544,
-  "2023-04-12": 49544,
-  "2023-04-13": 49616,
-  "2023-04-14": 49687,
-  "2023-04-15": 49758,
-  "2023-04-16": 49819,
-  "2023-04-17": 49886,
-  "2023-04-18": 49954,
-  "2023-04-19": 50042,
-  "2023-04-20": 50124,
-  "2023-04-21": 50222,
-  "2023-04-22": 50325,
-  "2023-04-23": 50413,
-  "2023-04-24": 50489,
-  "2023-04-25": 50610,
-  "2023-04-26": 50711,
-  "2023-04-27": 50811,
-  "2023-04-28": 50923,
-  "2023-04-29": 51017,
-  "2023-04-30": 51105,
-  "2023-05-01": 51186,
-  "2023-05-02": 51321,
-  "2023-05-03": 51463,
-  "2023-05-04": 51575,
-  "2023-05-05": 51690,
-  "2023-05-06": 51783,
-  "2023-05-07": 51877,
-  "2023-05-08": 52003,
-  "2023-05-09": 52686,
-  "2023-05-10": 53460,
-  "2023-05-11": 54018,
-  "2023-05-12": 54198,
-  "2023-05-13": 54305,
-  "2023-05-14": 54387,
-  "2023-05-15": 54505,
-  "2023-05-16": 54582,
-  "2023-05-17": 54668,
-  "2023-05-18": 54763,
-  "2023-05-19": 54846,
-  "2023-05-20": 55015,
-  "2023-05-21": 55015,
-  "2023-05-22": 55015,
-  "2023-05-23": 55179,
-  "2023-05-24": 55339,
-  "2023-05-25": 55365,
-  "2023-05-26": 55447,
-  "2023-05-27": 55534,
-  "2023-05-28": 55627,
-  "2023-05-29": 55627,
-  "2023-05-30": 55788,
-  "2023-05-31": 55879,
-  "2023-06-01": 55964,
-  "2023-06-02": 56042,
-  "2023-06-03": 56127,
-  "2023-06-04": 56214,
-  "2023-06-05": 56313,
-  "2023-06-06": 56404,
-  "2023-06-07": 56503,
-  "2023-06-08": 56588,
-  "2023-06-09": 56651,
-  "2023-06-10": 56742,
-  "2023-06-11": 56841,
-  "2023-06-12": 56942,
-  "2023-06-13": 57011,
-  "2023-06-14": 57092,
-  "2023-06-15": 57148,
-  "2023-06-16": 57203,
-  "2023-06-17": 57259,
-  "2023-06-18": 57330,
-  "2023-06-19": 57395,
-  "2023-06-20": 57459,
-  "2023-06-21": 57518,
-  "2023-06-22": 57586,
-  "2023-06-23": 57666,
-  "2023-06-24": 57748,
-  "2023-06-25": 57818,
-  "2023-06-26": 57887,
-  "2023-06-27": 57955,
-  "2023-06-28": 58238,
-  "2023-06-29": 58376,
-  "2023-06-30": 58444,
-  "2023-07-01": 58594,
-  "2023-07-02": 58594,
-  "2023-07-03": 58680,
-  "2023-07-04": 58947,
-  "2023-07-05": 59097,
-  "2023-07-06": 59384,
-  "2023-07-07": 59384,
-  "2023-07-08": 59597,
-  "2023-07-09": 59745,
-  "2023-07-10": 59841,
-  "2023-07-11": 60031,
-  "2023-07-12": 60305,
-  "2023-07-13": 60492,
-  "2023-07-14": 60603,
-  "2023-07-15": 60732,
-  "2023-07-16": 60891,
-  "2023-07-17": 61028,
-  "2023-07-18": 61209,
-  "2023-07-19": 61426,
-  "2023-07-20": 61586,
-  "2023-07-21": 61721,
-  "2023-07-22": 61878,
-  "2023-07-23": 61999,
-  "2023-07-24": 62119,
-  "2023-07-25": 62253,
-  "2023-07-26": 62375,
-  "2023-07-27": 62527,
-  "2023-07-28": 62675,
-  "2023-07-29": 62774,
-  "2023-07-30": 62869,
-  "2023-07-31": 62992,
-  "2023-08-01": 63091,
-  "2023-08-02": 63173,
-  "2023-08-03": 63323,
-  "2023-08-04": 63417,
-  "2023-08-05": 63538,
-  "2023-08-06": 63780,
-  "2023-08-07": 63780,
-  "2023-08-08": 63890,
-  "2023-08-09": 63993,
-  "2023-08-10": 64089,
-  "2023-08-11": 64211,
-  "2023-08-12": 64211,
-  "2023-08-13": 64211,
-  "2023-08-14": 64539,
-  "2023-08-15": 64539,
-  "2023-08-16": 64539,
-  "2023-08-17": 64869,
-  "2023-08-18": 64869,
-  "2023-08-19": 64869,
-  "2023-08-20": 65159,
-  "2023-08-21": 65159,
-  "2023-08-22": 65346,
-  "2023-08-23": 65346,
-  "2023-08-24": 65515,
-  "2023-08-25": 65515,
-  "2023-08-26": 65700,
-  "2023-08-27": 65700,
-  "2023-08-28": 65855,
-  "2023-08-29": 65855,
-  "2023-08-30": 65855,
-  "2023-08-31": 66098,
-  "2023-09-01": 66146,
-  "2023-09-02": 66146,
-  "2023-09-03": 66306,
-  "2023-09-04": 66306,
-  "2023-09-05": 66306,
-  "2023-09-06": 66520,
-  "2023-09-07": 66520,
-  "2023-09-08": 66520,
-  "2023-09-09": 66520,
-  "2023-09-10": 66781,
-  "2023-09-11": 66781,
-  "2023-09-12": 66781,
-  "2023-09-13": 67016,
-  "2023-09-14": 67016,
-  "2023-09-15": 67016,
-  "2023-09-16": 67229,
-  "2023-09-17": 67229,
-  "2023-09-18": 67229,
-  "2023-09-19": 67442,
-  "2023-09-20": 67442,
-  "2023-09-21": 67442,
-  "2023-09-22": 67660,
-  "2023-09-23": 67660,
-  "2023-09-24": 67660,
-  "2023-09-25": 67660,
-  "2023-09-26": 67916,
-  "2023-09-27": 67916,
-  "2023-09-28": 67916,
-  "2023-09-29": 67916,
-  "2023-09-30": 67916,
-  "2023-10-01": 67916,
-  "2023-10-02": 68332,
-  "2023-10-03": 68332,
-  "2023-10-04": 68332,
-  "2023-10-05": 68529,
-  "2023-10-06": 68529,
-  "2023-10-07": 68529,
-  "2023-10-08": 68529,
-  "2023-10-09": 68529,
-  "2023-10-10": 68529,
-  "2023-10-11": 68869,
-  "2023-10-12": 68869,
-  "2023-10-13": 68869,
-  "2023-10-14": 68869,
-  "2023-10-15": 68869,
-  "2023-10-16": 68869,
-  "2023-10-17": 68869,
-  "2023-10-18": 68869,
-  "2023-10-19": 68869,
-  "2023-10-20": 68869,
-  "2023-10-21": 68869,
-  "2023-10-22": 68869,
-  "2023-10-23": 68869,
-  "2023-10-24": 68869,
-  "2023-10-25": 68869,
-  "2023-10-26": 68869,
-  "2023-10-27": 68869,
-  "2023-10-28": 68869,
-  "2023-10-29": 68869,
-  "2023-10-30": 68869,
-  "2023-10-31": 68869,
-  "2023-11-01": 68869,
-  "2023-11-02": 68869,
-  "2023-11-03": 68869,
-  "2023-11-04": 68869,
-  "2023-11-05": 68869,
-  "2023-11-06": 68869,
-  "2023-11-07": 68869,
-  "2023-11-08": 68869,
-  "2023-11-09": 68869,
-  "2023-11-10": 68869,
-  "2023-11-11": 71113,
-  "2023-11-12": 71113,
-  "2023-11-13": 71113,
-  "2023-11-14": 71113,
-  "2023-11-15": 71113,
-  "2023-11-16": 71113,
-  "2023-11-17": 71113,
-  "2023-11-18": 71113,
-  "2023-11-19": 71113,
-  "2023-11-20": 71113,
-  "2023-11-21": 71113,
-  "2023-11-22": 71113,
-  "2023-11-23": 71113,
-  "2023-11-24": 71113,
-  "2023-11-25": 71113,
-  "2023-11-26": 71113,
-  "2023-11-27": 71113,
-  "2023-11-28": 71113,
-  "2023-11-29": 71113,
-  "2023-11-30": 71113,
-  "2023-12-01": 71113,
-  "2023-12-02": 71113,
-  "2023-12-03": 71113,
-  "2023-12-04": 71113,
-  "2023-12-05": 71113,
-  "2023-12-06": 71113,
-  "2023-12-07": 71113,
-  "2023-12-08": 71113,
-  "2023-12-09": 71113,
-  "2023-12-10": 71113,
-  "2023-12-11": 71113,
-  "2023-12-12": 71113,
-  "2023-12-13": 71113,
-  "2023-12-14": 73198,
-  "2023-12-15": 73245,
-  "2023-12-16": 73318,
-  "2023-12-17": 73369,
-  "2023-12-18": 73438,
-  "2023-12-19": 73506,
-  "2023-12-20": 73542,
-  "2023-12-21": 73572,
-  "2023-12-22": 73629,
-  "2023-12-23": 73711,
-  "2023-12-24": 73774,
-  "2023-12-25": 73837,
-  "2023-12-26": 73889,
-  "2023-12-27": 73956,
-  "2023-12-30": 74191,
-  "2023-12-31": 74236,
-  "2024-01-01": 74289,
-  "2024-01-02": 74349,
-  "2024-01-03": 74406
+  "2024-01-17": 75343,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is beabadoobee. The essential tracks, all in one playlist.",
+  "name": "This Is beabadoobee",
+  "tracks": [
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV"
+    },
+    {
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f"
+    },
+    {
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68293,
+      "name": "Angry Song",
+      "url": "https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4"
+    },
+    {
+      "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214128,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
+    },
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178918,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247584,
+      "name": "Art Class",
+      "url": "https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90928,
+      "name": "Back To Mars",
+      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
+    },
+    {
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205176,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
+    },
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239975,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126824,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
+    },
+    {
+      "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164690,
+      "name": "Cologne",
+      "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234282,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX"
+    },
+    {
+      "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248883,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189932,
+      "name": "Dye It Red",
+      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158195,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
+    },
+    {
+      "album": {
+        "name": "Fall In Love With A Girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
+    },
+    {
+      "album": {
+        "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+        "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
+      },
+      "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131215,
+      "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+      "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
+    },
+    {
+      "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165682,
+      "name": "He Gets Me So High",
+      "url": "https://open.spotify.com/track/6PvxbkegGnVGxd1NDYS6fZ"
+    },
+    {
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140335,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+    },
+    {
+      "album": {
+        "name": "Hurry Home (with beabadoobee & Jay Som)",
+        "url": "https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236048,
+      "name": "Hurry Home (with beabadoobee & Jay Som)",
+      "url": "https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT"
+    },
+    {
+      "album": {
+        "name": "I Wish I Was Stephen Malkmus",
+        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231860,
+      "name": "I Wish I Was Stephen Malkmus",
+      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223638,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
+    },
+    {
+      "album": {
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222357,
+      "name": "Last Day On Earth",
+      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2qkb3hhx8iCBvYzX9SvVxj"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X"
+    },
+    {
+      "album": {
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+    },
+    {
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241944,
+      "name": "Soren",
+      "url": "https://open.spotify.com/track/6kp9czhrGZrP0hr9Y6opEr"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233301,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6U2tdXbNc2MLcgSTvDrb5L"
+    },
+    {
+      "album": {
+        "name": "Space Cadet",
+        "url": "https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264013,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/0DuGEqN0pRJ5QAVFvnLe6P"
+    },
+    {
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100560,
+      "name": "Spacing Out",
+      "url": "https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH"
+    },
+    {
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/7KylYQE83iLriEOCeOWpd7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316606,
+      "name": "Speed Dial",
+      "url": "https://open.spotify.com/track/2NyB1mSR0rm5zxMwjryLa5"
+    },
+    {
+      "album": {
+        "name": "Space Cadet",
+        "url": "https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241109,
+      "name": "Sun More Often",
+      "url": "https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Susie May",
+        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266756,
+      "name": "Susie May",
+      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "album": {
+        "name": "The Moon Song",
+        "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "The Moon Song",
+      "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255021,
+      "name": "The Way I Spoke",
+      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
+    },
+    {
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199514,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+    },
+    {
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
+    },
+    {
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "You\u2019re here that\u2019s the thing",
+      "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1MEzV6"
 }

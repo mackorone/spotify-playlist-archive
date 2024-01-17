@@ -1,735 +1,2029 @@
 {
-  "2021-12-25": 57178,
-  "2021-12-26": 57177,
-  "2021-12-27": 57183,
-  "2021-12-28": 57183,
-  "2021-12-29": 57188,
-  "2021-12-30": 57193,
-  "2021-12-31": 57197,
-  "2022-01-01": 57205,
-  "2022-01-02": 57205,
-  "2022-01-03": 57210,
-  "2022-01-04": 57223,
-  "2022-01-05": 57234,
-  "2022-01-06": 57246,
-  "2022-01-07": 57257,
-  "2022-01-08": 57282,
-  "2022-01-09": 57282,
-  "2022-01-10": 57371,
-  "2022-01-11": 57384,
-  "2022-01-12": 57390,
-  "2022-01-13": 57401,
-  "2022-01-14": 57417,
-  "2022-01-15": 57439,
-  "2022-01-16": 57440,
-  "2022-01-17": 57462,
-  "2022-01-18": 57463,
-  "2022-01-19": 57470,
-  "2022-01-20": 57485,
-  "2022-01-21": 57502,
-  "2022-01-22": 57514,
-  "2022-01-23": 57526,
-  "2022-01-24": 57538,
-  "2022-01-25": 57549,
-  "2022-01-26": 57570,
-  "2022-01-27": 57584,
-  "2022-01-28": 57601,
-  "2022-01-29": 57608,
-  "2022-01-30": 57614,
-  "2022-01-31": 57628,
-  "2022-02-01": 57639,
-  "2022-02-02": 57646,
-  "2022-02-03": 57657,
-  "2022-02-04": 57668,
-  "2022-02-05": 57673,
-  "2022-02-06": 57684,
-  "2022-02-07": 57694,
-  "2022-02-08": 57705,
-  "2022-02-09": 57708,
-  "2022-02-10": 57715,
-  "2022-02-11": 57719,
-  "2022-02-12": 57726,
-  "2022-02-13": 57739,
-  "2022-02-14": 57743,
-  "2022-02-15": 57752,
-  "2022-02-16": 57759,
-  "2022-02-17": 57768,
-  "2022-02-18": 57768,
-  "2022-02-19": 57779,
-  "2022-02-20": 57782,
-  "2022-02-21": 57785,
-  "2022-02-22": 57790,
-  "2022-02-23": 57799,
-  "2022-02-24": 57808,
-  "2022-02-25": 57812,
-  "2022-02-26": 57818,
-  "2022-02-27": 57839,
-  "2022-02-28": 57839,
-  "2022-03-01": 57851,
-  "2022-03-02": 57860,
-  "2022-03-03": 57862,
-  "2022-03-04": 57872,
-  "2022-03-05": 57883,
-  "2022-03-06": 57900,
-  "2022-03-07": 57907,
-  "2022-03-08": 57913,
-  "2022-03-09": 57920,
-  "2022-03-10": 57923,
-  "2022-03-11": 57928,
-  "2022-03-12": 57938,
-  "2022-03-13": 57942,
-  "2022-03-14": 57946,
-  "2022-03-15": 57956,
-  "2022-03-16": 57965,
-  "2022-03-17": 57968,
-  "2022-03-18": 57983,
-  "2022-03-19": 57987,
-  "2022-03-20": 57987,
-  "2022-03-21": 58002,
-  "2022-03-22": 58010,
-  "2022-03-23": 58016,
-  "2022-03-24": 58025,
-  "2022-03-25": 58026,
-  "2022-03-26": 58029,
-  "2022-03-27": 58045,
-  "2022-03-28": 58054,
-  "2022-03-30": 58065,
-  "2022-03-31": 58068,
-  "2022-04-01": 58071,
-  "2022-04-02": 58083,
-  "2022-04-03": 58098,
-  "2022-04-04": 58104,
-  "2022-04-05": 58111,
-  "2022-04-06": 58120,
-  "2022-04-07": 58128,
-  "2022-04-08": 58135,
-  "2022-04-09": 58149,
-  "2022-04-10": 58167,
-  "2022-04-11": 58177,
-  "2022-04-12": 58179,
-  "2022-04-13": 58182,
-  "2022-04-14": 58190,
-  "2022-04-15": 58202,
-  "2022-04-16": 58211,
-  "2022-04-17": 58213,
-  "2022-04-18": 58227,
-  "2022-04-19": 58233,
-  "2022-04-20": 58246,
-  "2022-04-21": 58248,
-  "2022-04-22": 58264,
-  "2022-04-23": 58276,
-  "2022-04-24": 58285,
-  "2022-04-25": 58286,
-  "2022-04-26": 58290,
-  "2022-04-27": 58303,
-  "2022-04-28": 58316,
-  "2022-04-29": 58336,
-  "2022-04-30": 58342,
-  "2022-05-01": 58357,
-  "2022-05-02": 58357,
-  "2022-05-03": 58370,
-  "2022-05-04": 58385,
-  "2022-05-05": 58396,
-  "2022-05-06": 58414,
-  "2022-05-07": 58434,
-  "2022-05-08": 58444,
-  "2022-05-09": 58447,
-  "2022-05-10": 58459,
-  "2022-05-11": 58464,
-  "2022-05-12": 58476,
-  "2022-05-13": 58483,
-  "2022-05-14": 58497,
-  "2022-05-15": 58500,
-  "2022-05-16": 58508,
-  "2022-05-17": 58520,
-  "2022-05-18": 58524,
-  "2022-05-19": 58528,
-  "2022-05-20": 58536,
-  "2022-05-21": 58549,
-  "2022-05-22": 58549,
-  "2022-05-23": 58563,
-  "2022-05-24": 58572,
-  "2022-05-25": 58580,
-  "2022-05-26": 58579,
-  "2022-05-27": 58591,
-  "2022-05-28": 58605,
-  "2022-05-29": 58620,
-  "2022-05-30": 58628,
-  "2022-05-31": 58635,
-  "2022-06-01": 58646,
-  "2022-06-02": 58650,
-  "2022-06-03": 58658,
-  "2022-06-04": 58666,
-  "2022-06-05": 58666,
-  "2022-06-06": 58673,
-  "2022-06-07": 58681,
-  "2022-06-08": 58693,
-  "2022-06-09": 58702,
-  "2022-06-10": 58703,
-  "2022-06-11": 58708,
-  "2022-06-12": 58713,
-  "2022-06-13": 58722,
-  "2022-06-14": 58737,
-  "2022-06-15": 58747,
-  "2022-06-16": 58760,
-  "2022-06-17": 58776,
-  "2022-06-18": 58787,
-  "2022-06-19": 58796,
-  "2022-06-20": 58796,
-  "2022-06-21": 58805,
-  "2022-06-22": 58811,
-  "2022-06-23": 58811,
-  "2022-06-24": 58820,
-  "2022-06-25": 58820,
-  "2022-06-26": 58818,
-  "2022-06-27": 58822,
-  "2022-06-28": 58830,
-  "2022-06-29": 58836,
-  "2022-06-30": 58832,
-  "2022-07-01": 58837,
-  "2022-07-02": 58848,
-  "2022-07-03": 58861,
-  "2022-07-04": 58868,
-  "2022-07-05": 58870,
-  "2022-07-06": 58877,
-  "2022-07-07": 58885,
-  "2022-07-08": 58891,
-  "2022-07-09": 58894,
-  "2022-07-10": 58890,
-  "2022-07-11": 58892,
-  "2022-07-12": 58900,
-  "2022-07-13": 58899,
-  "2022-07-14": 58908,
-  "2022-07-15": 58910,
-  "2022-07-16": 58915,
-  "2022-07-17": 58921,
-  "2022-07-18": 58931,
-  "2022-07-19": 58934,
-  "2022-07-20": 58945,
-  "2022-07-21": 58963,
-  "2022-07-22": 58973,
-  "2022-07-23": 58981,
-  "2022-07-24": 58981,
-  "2022-07-25": 58986,
-  "2022-07-26": 58993,
-  "2022-07-27": 59005,
-  "2022-07-28": 59005,
-  "2022-07-29": 59011,
-  "2022-07-30": 59033,
-  "2022-07-31": 59033,
-  "2022-08-01": 59041,
-  "2022-08-02": 59071,
-  "2022-08-03": 59071,
-  "2022-08-04": 59090,
-  "2022-08-05": 59098,
-  "2022-08-06": 59109,
-  "2022-08-07": 59119,
-  "2022-08-08": 59127,
-  "2022-08-09": 59134,
-  "2022-08-10": 59143,
-  "2022-08-11": 59153,
-  "2022-08-12": 59164,
-  "2022-08-13": 59183,
-  "2022-08-14": 59190,
-  "2022-08-15": 59194,
-  "2022-08-16": 59216,
-  "2022-08-17": 59240,
-  "2022-08-18": 59252,
-  "2022-08-19": 59265,
-  "2022-08-20": 59294,
-  "2022-08-21": 59308,
-  "2022-08-22": 59316,
-  "2022-08-23": 59332,
-  "2022-08-24": 59347,
-  "2022-08-25": 59361,
-  "2022-08-26": 59373,
-  "2022-08-27": 59388,
-  "2022-08-28": 59398,
-  "2022-08-29": 59404,
-  "2022-08-30": 59412,
-  "2022-08-31": 59406,
-  "2022-09-01": 59393,
-  "2022-09-02": 59409,
-  "2022-09-03": 59396,
-  "2022-09-04": 59356,
-  "2022-09-05": 59333,
-  "2022-09-06": 59345,
-  "2022-09-07": 59350,
-  "2022-09-09": 59376,
-  "2022-09-10": 59385,
-  "2022-09-11": 59390,
-  "2022-09-12": 59398,
-  "2022-09-13": 59406,
-  "2022-09-15": 59419,
-  "2022-09-16": 59423,
-  "2022-09-17": 59434,
-  "2022-09-18": 59435,
-  "2022-09-19": 59439,
-  "2022-09-20": 59462,
-  "2022-09-21": 59474,
-  "2022-09-22": 59486,
-  "2022-09-23": 59493,
-  "2022-09-24": 59506,
-  "2022-09-25": 59516,
-  "2022-09-26": 59523,
-  "2022-09-27": 59537,
-  "2022-09-28": 59552,
-  "2022-09-29": 59555,
-  "2022-09-30": 59573,
-  "2022-10-01": 59584,
-  "2022-10-02": 59589,
-  "2022-10-03": 59598,
-  "2022-10-04": 59607,
-  "2022-10-05": 59614,
-  "2022-10-06": 59617,
-  "2022-10-07": 59626,
-  "2022-10-08": 59627,
-  "2022-10-09": 59637,
-  "2022-10-10": 59640,
-  "2022-10-11": 59655,
-  "2022-10-12": 59660,
-  "2022-10-13": 59669,
-  "2022-10-14": 59675,
-  "2022-10-15": 59683,
-  "2022-10-16": 59696,
-  "2022-10-17": 59704,
-  "2022-10-18": 59711,
-  "2022-10-19": 59726,
-  "2022-10-20": 59738,
-  "2022-10-21": 59747,
-  "2022-10-22": 59758,
-  "2022-10-23": 59769,
-  "2022-10-24": 59781,
-  "2022-10-25": 59787,
-  "2022-10-26": 59798,
-  "2022-10-27": 59815,
-  "2022-10-28": 59823,
-  "2022-10-29": 59833,
-  "2022-10-30": 59840,
-  "2022-10-31": 59851,
-  "2022-11-01": 59855,
-  "2022-11-02": 59867,
-  "2022-11-03": 59874,
-  "2022-11-04": 59881,
-  "2022-11-05": 59892,
-  "2022-11-06": 59895,
-  "2022-11-07": 59906,
-  "2022-11-08": 59916,
-  "2022-11-09": 59930,
-  "2022-11-10": 59941,
-  "2022-11-11": 59954,
-  "2022-11-12": 59978,
-  "2022-11-13": 59988,
-  "2022-11-14": 59998,
-  "2022-11-15": 60006,
-  "2022-11-16": 60010,
-  "2022-11-17": 60018,
-  "2022-11-18": 60019,
-  "2022-11-19": 60013,
-  "2022-11-20": 60015,
-  "2022-11-21": 60022,
-  "2022-11-22": 60051,
-  "2022-11-23": 60042,
-  "2022-11-24": 60063,
-  "2022-11-25": 60096,
-  "2022-11-26": 60125,
-  "2022-11-27": 60135,
-  "2022-11-28": 60149,
-  "2022-11-29": 60160,
-  "2022-11-30": 60177,
-  "2022-12-01": 60189,
-  "2022-12-02": 60198,
-  "2022-12-03": 60204,
-  "2022-12-04": 60215,
-  "2022-12-05": 60225,
-  "2022-12-06": 60229,
-  "2022-12-07": 60232,
-  "2022-12-08": 60239,
-  "2022-12-09": 60248,
-  "2022-12-10": 60258,
-  "2022-12-11": 60262,
-  "2022-12-12": 60259,
-  "2022-12-13": 60263,
-  "2022-12-14": 60273,
-  "2022-12-15": 60275,
-  "2022-12-16": 60277,
-  "2022-12-17": 60287,
-  "2022-12-18": 60297,
-  "2022-12-19": 60305,
-  "2022-12-20": 60318,
-  "2022-12-21": 60318,
-  "2022-12-22": 60314,
-  "2022-12-24": 60327,
-  "2022-12-25": 60333,
-  "2022-12-26": 60337,
-  "2022-12-27": 60348,
-  "2022-12-28": 60352,
-  "2022-12-29": 60354,
-  "2022-12-30": 60368,
-  "2022-12-31": 60382,
-  "2023-01-01": 60397,
-  "2023-01-02": 60402,
-  "2023-01-03": 60408,
-  "2023-01-04": 60412,
-  "2023-01-05": 60436,
-  "2023-01-06": 60458,
-  "2023-01-07": 60487,
-  "2023-01-08": 60491,
-  "2023-01-09": 60508,
-  "2023-01-10": 60517,
-  "2023-01-11": 60531,
-  "2023-01-12": 60561,
-  "2023-01-13": 60582,
-  "2023-01-14": 60596,
-  "2023-01-15": 60599,
-  "2023-01-16": 60613,
-  "2023-01-17": 60623,
-  "2023-01-18": 60642,
-  "2023-01-19": 60665,
-  "2023-01-20": 60675,
-  "2023-01-21": 60692,
-  "2023-01-22": 60715,
-  "2023-01-23": 60727,
-  "2023-01-24": 60742,
-  "2023-01-25": 60758,
-  "2023-01-26": 60761,
-  "2023-01-27": 60774,
-  "2023-01-28": 60787,
-  "2023-01-29": 60793,
-  "2023-01-30": 60809,
-  "2023-01-31": 60809,
-  "2023-02-01": 60838,
-  "2023-02-02": 60850,
-  "2023-02-03": 60864,
-  "2023-02-04": 60875,
-  "2023-02-05": 60894,
-  "2023-02-06": 60913,
-  "2023-02-07": 60926,
-  "2023-02-08": 60966,
-  "2023-02-09": 60966,
-  "2023-02-10": 60972,
-  "2023-02-11": 60976,
-  "2023-02-12": 60998,
-  "2023-02-13": 61007,
-  "2023-02-14": 61007,
-  "2023-02-15": 61016,
-  "2023-02-16": 61026,
-  "2023-02-17": 61028,
-  "2023-02-18": 61047,
-  "2023-02-19": 61049,
-  "2023-02-20": 61062,
-  "2023-02-21": 61072,
-  "2023-02-22": 61074,
-  "2023-02-23": 61080,
-  "2023-02-24": 61087,
-  "2023-02-25": 61102,
-  "2023-02-26": 61107,
-  "2023-02-27": 61120,
-  "2023-02-28": 61120,
-  "2023-03-01": 61133,
-  "2023-03-02": 61141,
-  "2023-03-03": 61152,
-  "2023-03-04": 61160,
-  "2023-03-05": 61177,
-  "2023-03-06": 61177,
-  "2023-03-07": 61186,
-  "2023-03-08": 61196,
-  "2023-03-09": 61199,
-  "2023-03-10": 61199,
-  "2023-03-11": 61203,
-  "2023-03-12": 61209,
-  "2023-03-13": 61222,
-  "2023-03-14": 61227,
-  "2023-03-15": 61234,
-  "2023-03-16": 61246,
-  "2023-03-17": 61246,
-  "2023-03-18": 61261,
-  "2023-03-19": 61265,
-  "2023-03-20": 61275,
-  "2023-03-21": 61274,
-  "2023-03-22": 61285,
-  "2023-03-23": 61286,
-  "2023-03-24": 61286,
-  "2023-03-25": 61301,
-  "2023-03-26": 61308,
-  "2023-03-27": 61315,
-  "2023-03-28": 61321,
-  "2023-03-29": 61328,
-  "2023-03-30": 61340,
-  "2023-03-31": 61340,
-  "2023-04-01": 61353,
-  "2023-04-02": 61355,
-  "2023-04-03": 61360,
-  "2023-04-04": 61360,
-  "2023-04-05": 61360,
-  "2023-04-06": 61372,
-  "2023-04-07": 61376,
-  "2023-04-09": 61390,
-  "2023-04-10": 61394,
-  "2023-04-11": 61408,
-  "2023-04-12": 61408,
-  "2023-04-13": 61412,
-  "2023-04-14": 61419,
-  "2023-04-15": 61418,
-  "2023-04-16": 61417,
-  "2023-04-17": 61420,
-  "2023-04-18": 61425,
-  "2023-04-19": 61431,
-  "2023-04-20": 61439,
-  "2023-04-21": 61442,
-  "2023-04-22": 61443,
-  "2023-04-23": 61448,
-  "2023-04-24": 61448,
-  "2023-04-25": 61456,
-  "2023-04-26": 61464,
-  "2023-04-27": 61470,
-  "2023-04-28": 61481,
-  "2023-04-29": 61491,
-  "2023-04-30": 61497,
-  "2023-05-01": 61500,
-  "2023-05-02": 61504,
-  "2023-05-03": 61513,
-  "2023-05-04": 61518,
-  "2023-05-05": 61524,
-  "2023-05-06": 61522,
-  "2023-05-07": 61532,
-  "2023-05-08": 61540,
-  "2023-05-09": 61536,
-  "2023-05-10": 61537,
-  "2023-05-11": 61539,
-  "2023-05-12": 61543,
-  "2023-05-13": 61551,
-  "2023-05-14": 61562,
-  "2023-05-15": 61568,
-  "2023-05-16": 61567,
-  "2023-05-17": 61566,
-  "2023-05-18": 61575,
-  "2023-05-19": 61579,
-  "2023-05-20": 61596,
-  "2023-05-21": 61596,
-  "2023-05-22": 61596,
-  "2023-05-23": 61608,
-  "2023-05-24": 61614,
-  "2023-05-25": 61617,
-  "2023-05-26": 61626,
-  "2023-05-27": 61633,
-  "2023-05-28": 61631,
-  "2023-05-29": 61631,
-  "2023-05-30": 61640,
-  "2023-05-31": 61642,
-  "2023-06-01": 61639,
-  "2023-06-02": 61640,
-  "2023-06-03": 61641,
-  "2023-06-04": 61640,
-  "2023-06-05": 61651,
-  "2023-06-06": 61650,
-  "2023-06-07": 61658,
-  "2023-06-08": 61661,
-  "2023-06-09": 61658,
-  "2023-06-10": 61662,
-  "2023-06-11": 61661,
-  "2023-06-12": 61664,
-  "2023-06-13": 61660,
-  "2023-06-14": 61661,
-  "2023-06-15": 61664,
-  "2023-06-16": 61664,
-  "2023-06-17": 61665,
-  "2023-06-18": 61673,
-  "2023-06-19": 61672,
-  "2023-06-20": 61679,
-  "2023-06-21": 61685,
-  "2023-06-22": 61684,
-  "2023-06-23": 61689,
-  "2023-06-24": 61687,
-  "2023-06-25": 61686,
-  "2023-06-26": 61690,
-  "2023-06-27": 61691,
-  "2023-06-28": 61691,
-  "2023-06-29": 61693,
-  "2023-06-30": 61690,
-  "2023-07-01": 61697,
-  "2023-07-02": 61697,
-  "2023-07-03": 61699,
-  "2023-07-04": 61701,
-  "2023-07-05": 61700,
-  "2023-07-06": 61702,
-  "2023-07-07": 61702,
-  "2023-07-08": 61699,
-  "2023-07-09": 61697,
-  "2023-07-10": 61695,
-  "2023-07-11": 61698,
-  "2023-07-12": 61699,
-  "2023-07-13": 61701,
-  "2023-07-14": 61704,
-  "2023-07-15": 61707,
-  "2023-07-16": 61706,
-  "2023-07-17": 61705,
-  "2023-07-18": 61705,
-  "2023-07-19": 61705,
-  "2023-07-20": 61704,
-  "2023-07-21": 61708,
-  "2023-07-22": 61715,
-  "2023-07-23": 61716,
-  "2023-07-24": 61722,
-  "2023-07-25": 61724,
-  "2023-07-26": 61723,
-  "2023-07-27": 61726,
-  "2023-07-28": 61724,
-  "2023-07-29": 61731,
-  "2023-07-30": 61732,
-  "2023-07-31": 61734,
-  "2023-08-01": 61736,
-  "2023-08-02": 61742,
-  "2023-08-03": 61745,
-  "2023-08-04": 61753,
-  "2023-08-05": 61758,
-  "2023-08-06": 61766,
-  "2023-08-07": 61766,
-  "2023-08-08": 61766,
-  "2023-08-09": 61769,
-  "2023-08-10": 61768,
-  "2023-08-11": 61767,
-  "2023-08-12": 61768,
-  "2023-08-13": 61769,
-  "2023-08-14": 61773,
-  "2023-08-15": 61778,
-  "2023-08-16": 61778,
-  "2023-08-17": 61790,
-  "2023-08-18": 61789,
-  "2023-08-19": 61792,
-  "2023-08-20": 61796,
-  "2023-08-21": 61798,
-  "2023-08-22": 61803,
-  "2023-08-23": 61809,
-  "2023-08-24": 61815,
-  "2023-08-25": 61816,
-  "2023-08-26": 61814,
-  "2023-08-27": 61810,
-  "2023-08-28": 61816,
-  "2023-08-29": 61817,
-  "2023-08-30": 61819,
-  "2023-08-31": 61815,
-  "2023-09-01": 61820,
-  "2023-09-02": 61820,
-  "2023-09-03": 61822,
-  "2023-09-04": 61825,
-  "2023-09-05": 61829,
-  "2023-09-06": 61830,
-  "2023-09-07": 61832,
-  "2023-09-08": 61834,
-  "2023-09-09": 61836,
-  "2023-09-10": 61841,
-  "2023-09-11": 61841,
-  "2023-09-12": 61843,
-  "2023-09-13": 61843,
-  "2023-09-14": 61844,
-  "2023-09-15": 61843,
-  "2023-09-16": 61837,
-  "2023-09-17": 61840,
-  "2023-09-18": 61844,
-  "2023-09-19": 61842,
-  "2023-09-20": 61843,
-  "2023-09-21": 61842,
-  "2023-09-22": 61844,
-  "2023-09-23": 61845,
-  "2023-09-24": 61845,
-  "2023-09-25": 61847,
-  "2023-09-26": 61847,
-  "2023-09-27": 61846,
-  "2023-09-28": 61845,
-  "2023-09-29": 61845,
-  "2023-09-30": 61849,
-  "2023-10-01": 61849,
-  "2023-10-02": 61846,
-  "2023-10-03": 61847,
-  "2023-10-04": 61843,
-  "2023-10-05": 61840,
-  "2023-10-06": 61838,
-  "2023-10-07": 61839,
-  "2023-10-08": 61844,
-  "2023-10-09": 61848,
-  "2023-10-10": 61748,
-  "2023-10-11": 61649,
-  "2023-10-12": 61649,
-  "2023-10-13": 61561,
-  "2023-10-14": 61500,
-  "2023-10-15": 61484,
-  "2023-10-16": 61482,
-  "2023-10-17": 61482,
-  "2023-10-18": 61479,
-  "2023-10-19": 61478,
-  "2023-10-20": 61481,
-  "2023-10-21": 61481,
-  "2023-10-22": 61483,
-  "2023-10-23": 61487,
-  "2023-10-24": 61485,
-  "2023-10-25": 61484,
-  "2023-10-26": 61484,
-  "2023-10-27": 61485,
-  "2023-10-28": 61489,
-  "2023-10-29": 61487,
-  "2023-10-30": 61482,
-  "2023-10-31": 61482,
-  "2023-11-01": 61480,
-  "2023-11-02": 61483,
-  "2023-11-03": 61488,
-  "2023-11-04": 61484,
-  "2023-11-05": 61482,
-  "2023-11-06": 61482,
-  "2023-11-07": 61483,
-  "2023-11-08": 61484,
-  "2023-11-09": 61486,
-  "2023-11-10": 61488,
-  "2023-11-11": 61492,
-  "2023-11-12": 61490,
-  "2023-11-13": 61485,
-  "2023-11-14": 61481,
-  "2023-11-15": 61481,
-  "2023-11-16": 61480,
-  "2023-11-17": 61478,
-  "2023-11-18": 61478,
-  "2023-11-19": 61475,
-  "2023-11-20": 61477,
-  "2023-11-21": 61479,
-  "2023-11-22": 61476,
-  "2023-11-23": 61474,
-  "2023-11-24": 61471,
-  "2023-11-25": 61467,
-  "2023-11-26": 61469,
-  "2023-11-27": 61468,
-  "2023-11-28": 61468,
-  "2023-11-29": 61469,
-  "2023-11-30": 61469,
-  "2023-12-01": 61462,
-  "2023-12-02": 61459,
-  "2023-12-03": 61461,
-  "2023-12-04": 61459,
-  "2023-12-05": 61461,
-  "2023-12-06": 61456,
-  "2023-12-07": 61461,
-  "2023-12-08": 61463,
-  "2023-12-09": 61465,
-  "2023-12-10": 61462,
-  "2023-12-11": 61457,
-  "2023-12-12": 61458,
-  "2023-12-13": 61454,
-  "2023-12-14": 61453,
-  "2023-12-15": 61456,
-  "2023-12-16": 61454,
-  "2023-12-17": 61455,
-  "2023-12-18": 61455,
-  "2023-12-19": 61455,
-  "2023-12-20": 61454,
-  "2023-12-21": 61453,
-  "2023-12-22": 61456,
-  "2023-12-23": 61456,
-  "2023-12-24": 61456,
-  "2023-12-25": 61457,
-  "2023-12-26": 61454,
-  "2023-12-27": 61450,
-  "2023-12-30": 61445,
-  "2023-12-31": 61443,
-  "2024-01-01": 61442,
-  "2024-01-02": 61444,
-  "2024-01-03": 61444
+  "2024-01-17": 60908,
+  "date_first_scraped": "2021-12-21",
+  "description": "Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!",
+  "name": "Your Daily Routine",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126688,
+      "name": "Affirmation Song",
+      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
+    },
+    {
+      "album": {
+        "name": "ABC KIDS SONGS \u3048\u3044\u3054\u3067\u3046\u305f\u304a\uff01",
+        "url": "https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT"
+    },
+    {
+      "album": {
+        "name": "52 Sing-A-Long Silly Songs",
+        "url": "https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/1eiqW0DFMojEwi6jXmmePS"
+    },
+    {
+      "album": {
+        "name": "De regreso al colegio",
+        "url": "https://open.spotify.com/album/5LTozJDLwFaF6eK46YIeVa"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/48J2LOgzd87JK4SUfdu38H"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday Canzoni per bambini",
+        "url": "https://open.spotify.com/album/6zDcHdfsjeWQep0hlu6MXi"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/4ESq7KLdbgVz4RTAF10UBu"
+    },
+    {
+      "album": {
+        "name": "EVVIVA Canzoni per Bambini",
+        "url": "https://open.spotify.com/album/1zmp6rEy0zlInq8O5jHkfQ"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/5ddiqtnKYhGULuJATEAJsM"
+    },
+    {
+      "album": {
+        "name": "Great Indoors",
+        "url": "https://open.spotify.com/album/0UHnvtbbdIIOkcm6eAlzxR"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124691,
+      "name": "Bed Time",
+      "url": "https://open.spotify.com/track/1joefUsccvoRXCu6mnLlDi"
+    },
+    {
+      "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/3KEPRnqIELnO99csbeizVy"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194000,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5k31cAfP8yymw8v0AYQIjr"
+    },
+    {
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "album": {
+        "name": "Lunchtime",
+        "url": "https://open.spotify.com/album/5fUSu7UJxB5jvs2NgjNFxP"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194186,
+      "name": "Best Day Of My Life - Single Version",
+      "url": "https://open.spotify.com/track/7kC61aMy8hJQpOPiCY4WVM"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: The Best of Ernie",
+        "url": "https://open.spotify.com/album/2FfezAox7B3ID7VSlXK6aF"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285107,
+      "name": "Breakfast Time",
+      "url": "https://open.spotify.com/track/1UBx6DWSSHPuJf1iXwPxBq"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: The Best of Ernie",
+        "url": "https://open.spotify.com/album/1fhIDv64tgPDmIE6Sh4jER"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285107,
+      "name": "Breakfast Time",
+      "url": "https://open.spotify.com/track/43RVCy6x0pOYvqQ6QXpyWv"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: What Time Is It On Sesame Street?",
+        "url": "https://open.spotify.com/album/0V5l87JG04WWn0atQZCtg7"
+      },
+      "artists": [
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285862,
+      "name": "Breakfast Time",
+      "url": "https://open.spotify.com/track/1ALm4pWP1oCkiDCjyhuG3s"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92170,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Music Is Awesome",
+        "url": "https://open.spotify.com/album/0fV96421uGWnFH44asBBCB"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 92640,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/54lGRLnXxiFd9TjQfWijzG"
+    },
+    {
+      "album": {
+        "name": "The BeatBuds, Vol. 3",
+        "url": "https://open.spotify.com/album/2hHYn4OtrO7CWesvPQJhRf"
+      },
+      "artists": [
+        {
+          "name": "The BeatBuds",
+          "url": "https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172477,
+      "name": "Brush My Teeth",
+      "url": "https://open.spotify.com/track/3RUrBxda1Gx2kBJKeQ0eMf"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mornings",
+        "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121654,
+      "name": "Brush to the Beat",
+      "url": "https://open.spotify.com/track/2TDrxx01O6iKxi5SGGKwo6"
+    },
+    {
+      "album": {
+        "name": "Singable Songs for the Very Young",
+        "url": "https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72173,
+      "name": "Brush Your Teeth",
+      "url": "https://open.spotify.com/track/1NtMwloRp8OIVwWGipngkw"
+    },
+    {
+      "album": {
+        "name": "Summertime Jams",
+        "url": "https://open.spotify.com/album/7aMzjz4XbFsDUmnhINcqpj"
+      },
+      "artists": [
+        {
+          "name": "Caillou",
+          "url": "https://open.spotify.com/artist/5UtrFOo0vH241oQGb28vKP"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45004,
+      "name": "Caillou Theme",
+      "url": "https://open.spotify.com/track/3wEH6ICVXNmBARGVcUh6cJ"
+    },
+    {
+      "album": {
+        "name": "Clean Up Your Room",
+        "url": "https://open.spotify.com/album/17CeLbSIgFMMycpcgFtGuX"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131541,
+      "name": "Clean Up Your Room",
+      "url": "https://open.spotify.com/track/5p3QRQTza7Tu3I2KxEYYeP"
+    },
+    {
+      "album": {
+        "name": "Echo Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Cleaning So Clean",
+      "url": "https://open.spotify.com/track/7AIAzWtSyzlCFImgYigdsr"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
+        "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71192,
+      "name": "Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!",
+      "url": "https://open.spotify.com/track/2NbgM4HZP1DUvzKOVqkUZw"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Music Is Awesome: Vol. 4",
+        "url": "https://open.spotify.com/album/3TmM9wQILguHtXEsfr2P7K"
+      },
+      "artists": [
+        {
+          "name": "the bird and the bee",
+          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 87506,
+      "name": "Cover Your Mouth",
+      "url": "https://open.spotify.com/track/7CbFr2nUvRO2P6D4A2rUrO"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "the bird and the bee",
+          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87687,
+      "name": "Cover Your Mouth",
+      "url": "https://open.spotify.com/track/505V33VqHWNtVt5Hlosb9B"
+    },
+    {
+      "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "album": {
+        "name": "Ralph's World",
+        "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
+      },
+      "artists": [
+        {
+          "name": "Ralph's World",
+          "url": "https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Drivin' in My Car",
+      "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "album": {
+        "name": "Eat Every Bean and Pea On Your Plate",
+        "url": "https://open.spotify.com/album/6TO9Na7oOfWU2oXkYawv7O"
+      },
+      "artists": [
+        {
+          "name": "Daddy A Go Go",
+          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160186,
+      "name": "Eat Every Bean and Pea On Your Plate",
+      "url": "https://open.spotify.com/track/35VWkcDXuptVfuMCP8B1xy"
+    },
+    {
+      "album": {
+        "name": "Healthy Habits Collection",
+        "url": "https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD"
+      },
+      "artists": [
+        {
+          "name": "Bert & Ernie",
+          "url": "https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 109826,
+      "name": "Everybody Wash",
+      "url": "https://open.spotify.com/track/6awn1KS0M5mhC4AZEHBdYd"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Splish Splash - Bath Time Fun",
+        "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
+      },
+      "artists": [
+        {
+          "name": "Bert & Ernie",
+          "url": "https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109826,
+      "name": "Everybody Wash",
+      "url": "https://open.spotify.com/track/2wbXooFlbk0HyoPkGFPeq0"
+    },
+    {
+      "album": {
+        "name": "Feeling Thankful",
+        "url": "https://open.spotify.com/album/2h7S8wRJ1JAOC8GOFKcDd3"
+      },
+      "artists": [
+        {
+          "name": "Lingokids",
+          "url": "https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Feeling Thankful",
+      "url": "https://open.spotify.com/track/1NbZ40TzTKFdGLhcVoRG8p"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mornings",
+        "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101487,
+      "name": "Get Ready!",
+      "url": "https://open.spotify.com/track/4SgACaaXujpvB2xwyWWmUx"
+    },
+    {
+      "album": {
+        "name": "Moey's Music Party",
+        "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
+      },
+      "artists": [
+        {
+          "name": "Moey",
+          "url": "https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Getting Dressed Is the Best",
+      "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Sleepytime Bird",
+        "url": "https://open.spotify.com/album/3ui1XUEdB8yEsUsErwagLZ"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/4zah4rU5OUBevujURjnSwK"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173336,
+      "name": "Golden Slumbers II",
+      "url": "https://open.spotify.com/track/5jABwS9XsRXRWyXLiQHXfG"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Sleepytime Bird",
+        "url": "https://open.spotify.com/album/31dSAA4skFKZC6nz1wqStv"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173336,
+      "name": "Golden Slumbers II",
+      "url": "https://open.spotify.com/track/7xV9CP3wzZEm5xDvheoLtI"
+    },
+    {
+      "album": {
+        "name": "Thoughtful Songs for Little People",
+        "url": "https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173436,
+      "name": "Good for Your Health",
+      "url": "https://open.spotify.com/track/2wJeabIxz0dDSLuZmGL3ut"
+    },
+    {
+      "album": {
+        "name": "Good For Your Health",
+        "url": "https://open.spotify.com/album/4cySD9fTU7p2wmXA8qQMad"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173436,
+      "name": "Good For Your Health",
+      "url": "https://open.spotify.com/track/4J3UropiLFSm6ry96nSZxs"
+    },
+    {
+      "album": {
+        "name": "Welcome to Diver City",
+        "url": "https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/0xHzSnfmVCvc6rOfS2MIxV"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7KoVdfDW3LkNzRrtGf9e4w"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2n52iiGidUvefECbYumJ8I"
+    },
+    {
+      "album": {
+        "name": "Welcome To Diver City",
+        "url": "https://open.spotify.com/album/1h0o47rwKxIbprZ21r0LxT"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178500,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5P0dCQ9sg5i1SPs0uVcSlT"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7qZlj8JaGC91YZb2jklkhG"
+      },
+      "artists": [
+        {
+          "name": "Peanut Butter Jams",
+          "url": "https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217428,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/7mwyLcoz7a4YwWg2vWrs24"
+    },
+    {
+      "album": {
+        "name": "Everybody Sing!",
+        "url": "https://open.spotify.com/album/2af6i5dnpvJd95k1rRUDQF"
+      },
+      "artists": [
+        {
+          "name": "Orange Kids Music",
+          "url": "https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu"
+        },
+        {
+          "name": "Casey Darnell",
+          "url": "https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118144,
+      "name": "Good Morning Time",
+      "url": "https://open.spotify.com/track/6xb4OAYBf3uBUcRakOf2Rb"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Sesame Road, Vol. 1",
+        "url": "https://open.spotify.com/album/7JQELJJIIFEjJamSQpQrRE"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Healthy Food",
+      "url": "https://open.spotify.com/track/72v8hMTVwRZYkiHpvqONAv"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: \"C\" is for Cookie: Cookie's Favorite Songs",
+        "url": "https://open.spotify.com/album/2nKOwus5mZu7zvpZP2Dxxh"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172255,
+      "name": "Healthy Food",
+      "url": "https://open.spotify.com/track/2tu1mk48oI5H0p2TMqWAEP"
+    },
+    {
+      "album": {
+        "name": "Healthy Habits Collection",
+        "url": "https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster and the Fly Girls",
+          "url": "https://open.spotify.com/artist/37W4ZhBniW9ML46Z8YRJxM"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172320,
+      "name": "Healthy Food",
+      "url": "https://open.spotify.com/track/4BwCkTVjD6VqIYh01DCVyk"
+    },
+    {
+      "album": {
+        "name": "The Cool Chips",
+        "url": "https://open.spotify.com/album/6PvCW7eCqVVOIRwfVW0sMD"
+      },
+      "artists": [
+        {
+          "name": "The Cool Chips",
+          "url": "https://open.spotify.com/artist/6tpEDMWC8SoJDtYYNBthcD"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "I Don't Wanna Brush My Teeth",
+      "url": "https://open.spotify.com/track/5XCvvgKzlDEMrAuyMASlDt"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Elevator",
+        "url": "https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "I Know How That Works",
+      "url": "https://open.spotify.com/track/0Y4KNaikHIbPgCGWg87ar2"
+    },
+    {
+      "album": {
+        "name": "Helpsters: Apple TV+ Original Series Soundtrack, Vol. 1",
+        "url": "https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO"
+      },
+      "artists": [
+        {
+          "name": "Cody",
+          "url": "https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE"
+        },
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7"
+        },
+        {
+          "name": "Mr. Primm",
+          "url": "https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb"
+        },
+        {
+          "name": "Scatter",
+          "url": "https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97996,
+      "name": "I Like the Morning",
+      "url": "https://open.spotify.com/track/7LkD43kJfWQAeNR83cXTLG"
+    },
+    {
+      "album": {
+        "name": "It's Such A Good Feeling: The Best Of Mister Rogers",
+        "url": "https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D"
+      },
+      "artists": [
+        {
+          "name": "Mister Rogers",
+          "url": "https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69310,
+      "name": "I Think I'm Going To Like Today",
+      "url": "https://open.spotify.com/track/1iEgIS12nXTNU5v5t73qee"
+    },
+    {
+      "album": {
+        "name": "It's Such a Good Feeling: The Best of Mister Rogers",
+        "url": "https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL"
+      },
+      "artists": [
+        {
+          "name": "Mister Rogers",
+          "url": "https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 69310,
+      "name": "I Think I'm Going to Like Today",
+      "url": "https://open.spotify.com/track/5rJ5iLWPhWmAO4sjCsLXiY"
+    },
+    {
+      "album": {
+        "name": "The Bath Song & More Kids Songs",
+        "url": "https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 110846,
+      "name": "If You're Happy",
+      "url": "https://open.spotify.com/track/7HDs6BkJumMnN00yV9GuC4"
+    },
+    {
+      "album": {
+        "name": "The Bath Song & More Kids Songs",
+        "url": "https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110846,
+      "name": "If You're Happy",
+      "url": "https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125904,
+      "name": "Let's Get Ready!",
+      "url": "https://open.spotify.com/track/2kpfbfFJxnbMysLSp8zAIc"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 125904,
+      "name": "Let's Get Ready!",
+      "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125906,
+      "name": "Let's Get Ready!",
+      "url": "https://open.spotify.com/track/5rmOdU3gZptrnflhfPedCM"
+    },
+    {
+      "album": {
+        "name": "Colour the World",
+        "url": "https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130686,
+      "name": "Let's Play Pack Away! (Tidy Up Game)",
+      "url": "https://open.spotify.com/track/05vmTdz8fo6yVcb9gIRmXU"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Go!",
+        "url": "https://open.spotify.com/album/0z61UND9eDh45w40p50rWp"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73612,
+      "name": "Let\u2019s Go!",
+      "url": "https://open.spotify.com/track/4s2e30fGKP8pzjU9Tm2Jlh"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Ernie's Hits",
+        "url": "https://open.spotify.com/album/1khiMdacF2ijj0uXhsCpVf"
+      },
+      "artists": [
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174196,
+      "name": "Listening Game",
+      "url": "https://open.spotify.com/track/4bdLb2NcJ7UXLNTAJr1G0f"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Ernie's Hits",
+        "url": "https://open.spotify.com/album/7HqK03LXtk738EUrlbaHqg"
+      },
+      "artists": [
+        {
+          "name": "Bert & Ernie",
+          "url": "https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174196,
+      "name": "Listening Game",
+      "url": "https://open.spotify.com/track/2mY8DgcfGh1dh4DiWcd75Y"
+    },
+    {
+      "album": {
+        "name": "Look At All The Letters",
+        "url": "https://open.spotify.com/album/61APcLVK3Sok8ur4c5aKA1"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156453,
+      "name": "Look At All The Letters",
+      "url": "https://open.spotify.com/track/5zif2TsjlvUDhe4PEa1gvE"
+    },
+    {
+      "album": {
+        "name": "Waiting For The Elevator",
+        "url": "https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "Look At All The Letters",
+      "url": "https://open.spotify.com/track/66amatHrD8i2JcuQsufI05"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Doc McStuffins - The Doc Is In Vol. 2",
+        "url": "https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41678,
+      "name": "Not the Bedtime Blues",
+      "url": "https://open.spotify.com/track/0aYi1rYHSrLNHvfECrHdqf"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166477,
+      "name": "Peppa's Lullaby",
+      "url": "https://open.spotify.com/track/0Sm4DvlXdNiyD2qfqGK1Wx"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 166477,
+      "name": "Peppa's Lullaby",
+      "url": "https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166520,
+      "name": "Peppa's Lullaby",
+      "url": "https://open.spotify.com/track/05mpNCdBnlCFKhXva3ta98"
+    },
+    {
+      "album": {
+        "name": "Family Trip",
+        "url": "https://open.spotify.com/album/4waSd5lIVV49KspfwtyOoC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 63280,
+      "name": "Potties Everywhere",
+      "url": "https://open.spotify.com/track/5AGPLE6WQThe3T5mr3z1Jr"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Tiger Family Trip",
+        "url": "https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63280,
+      "name": "Potties Everywhere",
+      "url": "https://open.spotify.com/track/6kfee9Z4wWfxxPkl2Bxcmd"
+    },
+    {
+      "album": {
+        "name": "Potty Song",
+        "url": "https://open.spotify.com/album/4WpQeM7aNt1HrzK90O5Lok"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96822,
+      "name": "Potty Song",
+      "url": "https://open.spotify.com/track/4bLWZAsy89pgfwJMZIFX9o"
+    },
+    {
+      "album": {
+        "name": "The Bath Song & More Kids Songs",
+        "url": "https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Put On Your Shoes",
+      "url": "https://open.spotify.com/track/1fgKsdPNOj8QGPpFfXQhz3"
+    },
+    {
+      "album": {
+        "name": "The Bath Song & More Kids Songs",
+        "url": "https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174428,
+      "name": "Put on Your Shoes",
+      "url": "https://open.spotify.com/track/3bNi3mZx9va7ziwT6b3DOb"
+    },
+    {
+      "album": {
+        "name": "Rise & Shine (Good Morning Song)",
+        "url": "https://open.spotify.com/album/7wD7g1SKFWi1aIrWWCPTgo"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131654,
+      "name": "Rise & Shine (Good Morning Song)",
+      "url": "https://open.spotify.com/track/6RvXhPFmWba1sJxd4M7jPK"
+    },
+    {
+      "album": {
+        "name": "Sofia the First: Once Upon a Princess",
+        "url": "https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Rise And Shine",
+      "url": "https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs"
+    },
+    {
+      "album": {
+        "name": "Rock to Get Ready",
+        "url": "https://open.spotify.com/album/5E8gzylfGNVaDHylqoydus"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120843,
+      "name": "Rock to Get Ready for School",
+      "url": "https://open.spotify.com/track/7owkxvRgVyrLCGJ9mCGOtL"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Ernie's Hits",
+        "url": "https://open.spotify.com/album/1khiMdacF2ijj0uXhsCpVf"
+      },
+      "artists": [
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148546,
+      "name": "Rubber Duckie",
+      "url": "https://open.spotify.com/track/51WUuwbqSq4MkG87wVg1eu"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Ernie's Hits",
+        "url": "https://open.spotify.com/album/7HqK03LXtk738EUrlbaHqg"
+      },
+      "artists": [
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148546,
+      "name": "Rubber Duckie",
+      "url": "https://open.spotify.com/track/66avoTjnpc1Wv6AFX07mhm"
+    },
+    {
+      "album": {
+        "name": "Noise Factory",
+        "url": "https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240245,
+      "name": "Safe with Me",
+      "url": "https://open.spotify.com/track/020JgfARy40ho6uIBdodIb"
+    },
+    {
+      "album": {
+        "name": "Safe With Me",
+        "url": "https://open.spotify.com/album/1yPhLfNcpvG7v5hMGTwcGF"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240245,
+      "name": "Safe With Me",
+      "url": "https://open.spotify.com/track/0vPh7jK17iqBfS9WxmzCh6"
+    },
+    {
+      "album": {
+        "name": "More Singable Songs",
+        "url": "https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65053,
+      "name": "Shake My Sillies Out",
+      "url": "https://open.spotify.com/track/0e1mUAXE8jSG9ExAS4AWU7"
+    },
+    {
+      "album": {
+        "name": "Welcome To Diver City",
+        "url": "https://open.spotify.com/album/1h0o47rwKxIbprZ21r0LxT"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91500,
+      "name": "Sharing Is Caring",
+      "url": "https://open.spotify.com/track/2d5pY4qhaqjOT0ittjdHao"
+    },
+    {
+      "album": {
+        "name": "Welcome to Diver City",
+        "url": "https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ"
+      },
+      "artists": [
+        {
+          "name": "Diver City",
+          "url": "https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91500,
+      "name": "Sharing Is Caring",
+      "url": "https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB"
+    },
+    {
+      "album": {
+        "name": "Songs from the Boot",
+        "url": "https://open.spotify.com/album/65SxrlHBwGvVIzNAF2Q1fk"
+      },
+      "artists": [
+        {
+          "name": "Splash'N Boots",
+          "url": "https://open.spotify.com/artist/1XVWPwiCysDYBWGhnjQPUP"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116186,
+      "name": "Sleepy Bug",
+      "url": "https://open.spotify.com/track/2eRtkBw6kaS0DxS4SkkaXv"
+    },
+    {
+      "album": {
+        "name": "All The Songs (Vol. 1)",
+        "url": "https://open.spotify.com/album/0n3mrhnJn9cd6i17A0zGTP"
+      },
+      "artists": [
+        {
+          "name": "VeggieTales",
+          "url": "https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "The Hairbrush Song",
+      "url": "https://open.spotify.com/track/7byEE1H59Byz5yuUhFPQaa"
+    },
+    {
+      "album": {
+        "name": "The Hand Washing Song",
+        "url": "https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157363,
+      "name": "The Hand Washing Song",
+      "url": "https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl"
+    },
+    {
+      "album": {
+        "name": "Hit Songs & Rarities",
+        "url": "https://open.spotify.com/album/6XFTvklE8rQN0eLEeZ23Bd"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 103360,
+      "name": "The Monkey Dance",
+      "url": "https://open.spotify.com/track/2PercMdOvYCCYJVixHHeXy"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy",
+        "url": "https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103440,
+      "name": "The Monkey Dance",
+      "url": "https://open.spotify.com/track/0AdwySo2rN6vc9XXEQLv7J"
+    },
+    {
+      "album": {
+        "name": "Please Come To My Party",
+        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
+      },
+      "artists": [
+        {
+          "name": "Miss Kitty",
+          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "The Potty Song",
+      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+    },
+    {
+      "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/7t7NcQkBgeFVIWkyTlPr7T"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "The Sharing Song",
+      "url": "https://open.spotify.com/track/6e6xQtf4rTPHWTAvquUQat"
+    },
+    {
+      "album": {
+        "name": "Healthy Habits Collection",
+        "url": "https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD"
+      },
+      "artists": [
+        {
+          "name": "Dr. Thad & the Medications",
+          "url": "https://open.spotify.com/artist/6akLyh9euCqdiZDAslC9zI"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163266,
+      "name": "The Ten Commandments of Health",
+      "url": "https://open.spotify.com/track/2XOoedFvDIlHQuClNnzmVs"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Born to Add",
+        "url": "https://open.spotify.com/album/0uW4hUoGTWzXTfRv2X9fRV"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street's Dr. Thad & The Medications",
+          "url": "https://open.spotify.com/artist/7bxoCDrJANgPEoKqr48bJw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "The Ten Commandments of Health",
+      "url": "https://open.spotify.com/track/2XAIhZKrdCRVhaFAIqW3iJ"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Healthy Habits Collection",
+        "url": "https://open.spotify.com/album/0hXghboLYgKYW7DuSofJap"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street's Dr. Thad & The Medications",
+          "url": "https://open.spotify.com/artist/7bxoCDrJANgPEoKqr48bJw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 163266,
+      "name": "The Ten Commandments of Health",
+      "url": "https://open.spotify.com/track/2oUY5r55VKcINh7pQHbbkC"
+    },
+    {
+      "album": {
+        "name": "It's Time for Bed",
+        "url": "https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113633,
+      "name": "This Is the Way We Go to Bed",
+      "url": "https://open.spotify.com/track/0KCeyKDukuYfbAoTTb60e6"
+    },
+    {
+      "album": {
+        "name": "Tied My Shoes",
+        "url": "https://open.spotify.com/album/19J5uNmKXqKlbJPVanBACR"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36419,
+      "name": "Tied My Shoes",
+      "url": "https://open.spotify.com/track/53H4l93nIcnpvn3sw748I7"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 18250,
+      "name": "Time for Lunch!",
+      "url": "https://open.spotify.com/track/077JeCz1IRuuDWQY2NZRGR"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 18250,
+      "name": "Time for Lunch!",
+      "url": "https://open.spotify.com/track/12mk07K4k0nPOwne3URsN9"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18250,
+      "name": "Time for Lunch!",
+      "url": "https://open.spotify.com/track/2bbWvWAjA8Kdumm92D4Fdc"
+    },
+    {
+      "album": {
+        "name": "Time To Eat",
+        "url": "https://open.spotify.com/album/6mnhHmyuS8dZtSEuTjoUu7"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95868,
+      "name": "Time To Eat",
+      "url": "https://open.spotify.com/track/2J2hDDcafkw4EVQmGNpcAx"
+    },
+    {
+      "album": {
+        "name": "It's Such A Good Feeling: The Best Of Mister Rogers",
+        "url": "https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D"
+      },
+      "artists": [
+        {
+          "name": "Mister Rogers",
+          "url": "https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63763,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/30T5lRceVlbzHFSehhv8xb"
+    },
+    {
+      "album": {
+        "name": "It's Such a Good Feeling: The Best of Mister Rogers",
+        "url": "https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL"
+      },
+      "artists": [
+        {
+          "name": "Mister Rogers",
+          "url": "https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 63763,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R"
+    },
+    {
+      "album": {
+        "name": "D.A.D",
+        "url": "https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181279,
+      "name": "Tooth Bruh",
+      "url": "https://open.spotify.com/track/5bvaITsHUeVEdPLA2rGple"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
+        "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62855,
+      "name": "Try a New Food, It Might Taste Good!",
+      "url": "https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Big Feelings",
+        "url": "https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65040,
+      "name": "Use Your Words",
+      "url": "https://open.spotify.com/track/1qcQTqDZLWEC6dB5shIiPw"
+    },
+    {
+      "album": {
+        "name": "Big Feelings",
+        "url": "https://open.spotify.com/album/7DdJfGhgMSKGvKjtEdIuNN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 65040,
+      "name": "Use Your Words",
+      "url": "https://open.spotify.com/track/6TmmVQ9qSm1ZrUNRKsZTPt"
+    },
+    {
+      "album": {
+        "name": "Wash My Hair (Lather It Up)",
+        "url": "https://open.spotify.com/album/3JfQybhmeJhumU42CQxUol"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112363,
+      "name": "Wash My Hair (Lather It Up)",
+      "url": "https://open.spotify.com/track/0hiqelocDwLc0hKFrT92M1"
+    },
+    {
+      "album": {
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
+      },
+      "artists": [
+        {
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79009,
+      "name": "Wash Your Hands",
+      "url": "https://open.spotify.com/track/7uOEZmRLh8RdTK4QqBI2dS"
+    },
+    {
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "Wash Your Hands",
+      "url": "https://open.spotify.com/track/78drmvufFnkaEa4t4il2wH"
+    },
+    {
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102400,
+      "name": "Wash Your Hands",
+      "url": "https://open.spotify.com/track/7hm9JdXORZV6oRtzuioEsi"
+    },
+    {
+      "album": {
+        "name": "Wash Your Hands with Baby Shark",
+        "url": "https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87849,
+      "name": "Wash Your Hands with Baby Shark",
+      "url": "https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
+        "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71262,
+      "name": "When You Feel so Mad That You Want to Roar",
+      "url": "https://open.spotify.com/track/7l3UAWarILo16GB3y42PJf"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Life's Little Lessons",
+        "url": "https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63280,
+      "name": "When You Have to Go Potty, Stop\u2026 and Go Right Away!",
+      "url": "https://open.spotify.com/track/0h5ReKPbN5NUReonYfDYtx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWVwtV5Pv39d"
 }

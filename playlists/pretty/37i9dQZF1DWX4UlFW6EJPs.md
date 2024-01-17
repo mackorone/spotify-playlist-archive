@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,049 likes - 87 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,142 likes - 87 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

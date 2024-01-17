@@ -1,735 +1,955 @@
 {
-  "2021-12-25": 329313,
-  "2021-12-26": 329391,
-  "2021-12-27": 329552,
-  "2021-12-28": 329554,
-  "2021-12-29": 329633,
-  "2021-12-30": 329730,
-  "2021-12-31": 329805,
-  "2022-01-01": 329998,
-  "2022-01-02": 330033,
-  "2022-01-03": 330111,
-  "2022-01-04": 330189,
-  "2022-01-05": 330276,
-  "2022-01-06": 330345,
-  "2022-01-07": 330435,
-  "2022-01-08": 330661,
-  "2022-01-09": 330662,
-  "2022-01-10": 330767,
-  "2022-01-11": 330814,
-  "2022-01-12": 330854,
-  "2022-01-13": 330854,
-  "2022-01-14": 330854,
-  "2022-01-15": 330854,
-  "2022-01-16": 330854,
-  "2022-01-17": 330854,
-  "2022-01-18": 330854,
-  "2022-01-19": 330854,
-  "2022-01-20": 330854,
-  "2022-01-21": 330854,
-  "2022-01-22": 330854,
-  "2022-01-23": 330854,
-  "2022-01-24": 330854,
-  "2022-01-25": 330854,
-  "2022-01-26": 330854,
-  "2022-01-27": 330854,
-  "2022-01-28": 330854,
-  "2022-01-29": 330854,
-  "2022-01-30": 330854,
-  "2022-01-31": 330854,
-  "2022-02-01": 330854,
-  "2022-02-02": 330854,
-  "2022-02-03": 330854,
-  "2022-02-04": 330854,
-  "2022-02-05": 330854,
-  "2022-02-06": 330854,
-  "2022-02-07": 330854,
-  "2022-02-08": 330854,
-  "2022-02-09": 330854,
-  "2022-02-10": 330854,
-  "2022-02-11": 330854,
-  "2022-02-12": 330854,
-  "2022-02-13": 330854,
-  "2022-02-14": 330854,
-  "2022-02-15": 330854,
-  "2022-02-16": 330854,
-  "2022-02-17": 330854,
-  "2022-02-18": 330854,
-  "2022-02-19": 330854,
-  "2022-02-20": 330854,
-  "2022-02-21": 330854,
-  "2022-02-22": 330854,
-  "2022-02-23": 330854,
-  "2022-02-24": 330854,
-  "2022-02-25": 330854,
-  "2022-02-26": 330854,
-  "2022-02-27": 330854,
-  "2022-02-28": 330854,
-  "2022-03-01": 330854,
-  "2022-03-02": 330854,
-  "2022-03-03": 330854,
-  "2022-03-04": 330854,
-  "2022-03-05": 330854,
-  "2022-03-06": 330854,
-  "2022-03-07": 330854,
-  "2022-03-08": 330854,
-  "2022-03-09": 330854,
-  "2022-03-10": 330854,
-  "2022-03-11": 330854,
-  "2022-03-12": 330854,
-  "2022-03-13": 330854,
-  "2022-03-14": 330854,
-  "2022-03-15": 330854,
-  "2022-03-16": 330854,
-  "2022-03-17": 330854,
-  "2022-03-18": 330854,
-  "2022-03-19": 330854,
-  "2022-03-20": 330854,
-  "2022-03-21": 330854,
-  "2022-03-22": 330854,
-  "2022-03-23": 330854,
-  "2022-03-24": 330854,
-  "2022-03-25": 330854,
-  "2022-03-26": 330854,
-  "2022-03-27": 330854,
-  "2022-03-28": 330854,
-  "2022-03-30": 330854,
-  "2022-03-31": 330854,
-  "2022-04-01": 330854,
-  "2022-04-02": 330854,
-  "2022-04-03": 330854,
-  "2022-04-04": 330854,
-  "2022-04-05": 330854,
-  "2022-04-06": 330854,
-  "2022-04-07": 330854,
-  "2022-04-08": 330854,
-  "2022-04-09": 330854,
-  "2022-04-10": 330854,
-  "2022-04-11": 330854,
-  "2022-04-12": 330854,
-  "2022-04-13": 330854,
-  "2022-04-14": 330854,
-  "2022-04-15": 330854,
-  "2022-04-16": 330854,
-  "2022-04-17": 330854,
-  "2022-04-18": 330854,
-  "2022-04-19": 330854,
-  "2022-04-20": 330854,
-  "2022-04-21": 330854,
-  "2022-04-22": 330854,
-  "2022-04-23": 330854,
-  "2022-04-24": 330854,
-  "2022-04-25": 330854,
-  "2022-04-26": 330854,
-  "2022-04-27": 330854,
-  "2022-04-28": 330854,
-  "2022-04-29": 330854,
-  "2022-04-30": 330854,
-  "2022-05-01": 330854,
-  "2022-05-02": 330854,
-  "2022-05-03": 330854,
-  "2022-05-04": 330854,
-  "2022-05-05": 330854,
-  "2022-05-06": 330854,
-  "2022-05-07": 330854,
-  "2022-05-08": 330854,
-  "2022-05-09": 330854,
-  "2022-05-10": 330854,
-  "2022-05-11": 330854,
-  "2022-05-12": 330854,
-  "2022-05-13": 330854,
-  "2022-05-14": 330854,
-  "2022-05-15": 330854,
-  "2022-05-16": 330854,
-  "2022-05-17": 330854,
-  "2022-05-18": 330854,
-  "2022-05-19": 330854,
-  "2022-05-20": 330854,
-  "2022-05-21": 330854,
-  "2022-05-22": 330854,
-  "2022-05-23": 330854,
-  "2022-05-24": 330854,
-  "2022-05-25": 330854,
-  "2022-05-26": 330854,
-  "2022-05-27": 330854,
-  "2022-05-28": 330854,
-  "2022-05-29": 330854,
-  "2022-05-30": 330854,
-  "2022-05-31": 330854,
-  "2022-06-01": 330854,
-  "2022-06-02": 330854,
-  "2022-06-03": 330854,
-  "2022-06-04": 330854,
-  "2022-06-05": 330854,
-  "2022-06-06": 330854,
-  "2022-06-07": 330854,
-  "2022-06-08": 330854,
-  "2022-06-09": 330854,
-  "2022-06-10": 330854,
-  "2022-06-11": 330854,
-  "2022-06-12": 330854,
-  "2022-06-13": 330854,
-  "2022-06-14": 330854,
-  "2022-06-15": 330854,
-  "2022-06-16": 330854,
-  "2022-06-17": 330854,
-  "2022-06-18": 330854,
-  "2022-06-19": 330854,
-  "2022-06-20": 330854,
-  "2022-06-21": 330854,
-  "2022-06-22": 330854,
-  "2022-06-23": 330854,
-  "2022-06-24": 330854,
-  "2022-06-25": 330854,
-  "2022-06-26": 330854,
-  "2022-06-27": 330854,
-  "2022-06-28": 330854,
-  "2022-06-29": 330854,
-  "2022-06-30": 330854,
-  "2022-07-01": 330854,
-  "2022-07-02": 330854,
-  "2022-07-03": 330854,
-  "2022-07-04": 330854,
-  "2022-07-05": 330854,
-  "2022-07-06": 330854,
-  "2022-07-07": 330854,
-  "2022-07-08": 330854,
-  "2022-07-09": 330854,
-  "2022-07-10": 330854,
-  "2022-07-11": 330854,
-  "2022-07-12": 330854,
-  "2022-07-13": 330854,
-  "2022-07-14": 330854,
-  "2022-07-15": 330854,
-  "2022-07-16": 330854,
-  "2022-07-17": 330854,
-  "2022-07-18": 330854,
-  "2022-07-19": 330854,
-  "2022-07-20": 330854,
-  "2022-07-21": 330854,
-  "2022-07-22": 330854,
-  "2022-07-23": 330854,
-  "2022-07-24": 330854,
-  "2022-07-25": 330854,
-  "2022-07-26": 330854,
-  "2022-07-27": 330854,
-  "2022-07-28": 330854,
-  "2022-07-29": 330854,
-  "2022-07-30": 330854,
-  "2022-07-31": 330854,
-  "2022-08-01": 330854,
-  "2022-08-02": 330854,
-  "2022-08-03": 330854,
-  "2022-08-04": 330854,
-  "2022-08-05": 330854,
-  "2022-08-06": 330854,
-  "2022-08-07": 330854,
-  "2022-08-08": 330854,
-  "2022-08-09": 330854,
-  "2022-08-10": 330854,
-  "2022-08-11": 330854,
-  "2022-08-12": 330854,
-  "2022-08-13": 330854,
-  "2022-08-14": 330854,
-  "2022-08-15": 330854,
-  "2022-08-16": 330854,
-  "2022-08-17": 330854,
-  "2022-08-18": 330854,
-  "2022-08-19": 330854,
-  "2022-08-20": 330854,
-  "2022-08-21": 330854,
-  "2022-08-22": 330854,
-  "2022-08-23": 330854,
-  "2022-08-24": 330854,
-  "2022-08-25": 330854,
-  "2022-08-26": 330854,
-  "2022-08-27": 330854,
-  "2022-08-28": 330854,
-  "2022-08-29": 330854,
-  "2022-08-30": 330854,
-  "2022-08-31": 330854,
-  "2022-09-01": 330854,
-  "2022-09-02": 330854,
-  "2022-09-03": 330854,
-  "2022-09-04": 330854,
-  "2022-09-05": 330854,
-  "2022-09-06": 330854,
-  "2022-09-07": 330854,
-  "2022-09-09": 330854,
-  "2022-09-10": 330854,
-  "2022-09-11": 330854,
-  "2022-09-12": 330854,
-  "2022-09-13": 330854,
-  "2022-09-15": 330854,
-  "2022-09-16": 330854,
-  "2022-09-17": 330854,
-  "2022-09-18": 330854,
-  "2022-09-19": 330854,
-  "2022-09-20": 330854,
-  "2022-09-21": 330854,
-  "2022-09-22": 330854,
-  "2022-09-23": 330854,
-  "2022-09-24": 330854,
-  "2022-09-25": 330854,
-  "2022-09-26": 330854,
-  "2022-09-27": 330854,
-  "2022-09-28": 330854,
-  "2022-09-29": 330854,
-  "2022-09-30": 330854,
-  "2022-10-01": 330854,
-  "2022-10-02": 330854,
-  "2022-10-03": 330854,
-  "2022-10-04": 330854,
-  "2022-10-05": 330854,
-  "2022-10-06": 330854,
-  "2022-10-07": 330854,
-  "2022-10-08": 330854,
-  "2022-10-09": 330854,
-  "2022-10-10": 330854,
-  "2022-10-11": 330854,
-  "2022-10-12": 330854,
-  "2022-10-13": 330854,
-  "2022-10-14": 330854,
-  "2022-10-15": 330854,
-  "2022-10-16": 330854,
-  "2022-10-17": 330854,
-  "2022-10-18": 330854,
-  "2022-10-19": 330854,
-  "2022-10-20": 330854,
-  "2022-10-21": 330854,
-  "2022-10-22": 330854,
-  "2022-10-23": 330854,
-  "2022-10-24": 330854,
-  "2022-10-25": 330854,
-  "2022-10-26": 330854,
-  "2022-10-27": 330854,
-  "2022-10-28": 330854,
-  "2022-10-29": 330854,
-  "2022-10-30": 330854,
-  "2022-10-31": 330854,
-  "2022-11-01": 330854,
-  "2022-11-02": 330854,
-  "2022-11-03": 330854,
-  "2022-11-04": 330854,
-  "2022-11-05": 330854,
-  "2022-11-06": 330854,
-  "2022-11-07": 330854,
-  "2022-11-08": 330854,
-  "2022-11-09": 330854,
-  "2022-11-10": 330854,
-  "2022-11-11": 330854,
-  "2022-11-12": 330854,
-  "2022-11-13": 330854,
-  "2022-11-14": 330854,
-  "2022-11-15": 330854,
-  "2022-11-16": 330854,
-  "2022-11-17": 330854,
-  "2022-11-18": 330854,
-  "2022-11-19": 330854,
-  "2022-11-20": 330854,
-  "2022-11-21": 330854,
-  "2022-11-22": 330854,
-  "2022-11-23": 330854,
-  "2022-11-24": 330854,
-  "2022-11-25": 330854,
-  "2022-11-26": 330854,
-  "2022-11-27": 330854,
-  "2022-11-28": 330854,
-  "2022-11-29": 330854,
-  "2022-11-30": 330854,
-  "2022-12-01": 330854,
-  "2022-12-02": 330854,
-  "2022-12-03": 330854,
-  "2022-12-04": 330854,
-  "2022-12-05": 330854,
-  "2022-12-06": 330854,
-  "2022-12-07": 330854,
-  "2022-12-08": 330854,
-  "2022-12-09": 330854,
-  "2022-12-10": 330854,
-  "2022-12-11": 330854,
-  "2022-12-12": 330854,
-  "2022-12-13": 330854,
-  "2022-12-14": 330854,
-  "2022-12-15": 330854,
-  "2022-12-16": 330854,
-  "2022-12-17": 330854,
-  "2022-12-18": 330854,
-  "2022-12-19": 330854,
-  "2022-12-20": 330854,
-  "2022-12-21": 330854,
-  "2022-12-22": 330854,
-  "2022-12-24": 330854,
-  "2022-12-25": 330854,
-  "2022-12-26": 330854,
-  "2022-12-27": 330854,
-  "2022-12-28": 330854,
-  "2022-12-29": 330854,
-  "2022-12-30": 330854,
-  "2022-12-31": 330854,
-  "2023-01-01": 330854,
-  "2023-01-02": 330854,
-  "2023-01-03": 330854,
-  "2023-01-04": 330854,
-  "2023-01-05": 330854,
-  "2023-01-06": 330854,
-  "2023-01-07": 330854,
-  "2023-01-08": 330854,
-  "2023-01-09": 330854,
-  "2023-01-10": 330854,
-  "2023-01-11": 330854,
-  "2023-01-12": 330854,
-  "2023-01-13": 330854,
-  "2023-01-14": 330854,
-  "2023-01-15": 330854,
-  "2023-01-16": 330854,
-  "2023-01-17": 330854,
-  "2023-01-18": 330854,
-  "2023-01-19": 330854,
-  "2023-01-20": 330854,
-  "2023-01-21": 330854,
-  "2023-01-22": 330854,
-  "2023-01-23": 330854,
-  "2023-01-24": 330854,
-  "2023-01-25": 330854,
-  "2023-01-26": 330854,
-  "2023-01-27": 330854,
-  "2023-01-28": 330854,
-  "2023-01-29": 330854,
-  "2023-01-30": 330854,
-  "2023-01-31": 330854,
-  "2023-02-01": 330854,
-  "2023-02-02": 330854,
-  "2023-02-03": 330854,
-  "2023-02-04": 330854,
-  "2023-02-05": 330854,
-  "2023-02-06": 330854,
-  "2023-02-07": 330854,
-  "2023-02-08": 330854,
-  "2023-02-09": 330854,
-  "2023-02-10": 330854,
-  "2023-02-11": 330854,
-  "2023-02-12": 330854,
-  "2023-02-13": 330854,
-  "2023-02-14": 330854,
-  "2023-02-15": 330854,
-  "2023-02-16": 330854,
-  "2023-02-17": 330854,
-  "2023-02-18": 330854,
-  "2023-02-19": 330854,
-  "2023-02-20": 330854,
-  "2023-02-21": 330854,
-  "2023-02-22": 330854,
-  "2023-02-23": 330854,
-  "2023-02-24": 330854,
-  "2023-02-25": 330854,
-  "2023-02-26": 330854,
-  "2023-02-27": 330854,
-  "2023-02-28": 330854,
-  "2023-03-01": 330854,
-  "2023-03-02": 330854,
-  "2023-03-03": 330854,
-  "2023-03-04": 330854,
-  "2023-03-05": 330854,
-  "2023-03-06": 330854,
-  "2023-03-07": 330854,
-  "2023-03-08": 330854,
-  "2023-03-09": 330854,
-  "2023-03-10": 330854,
-  "2023-03-11": 330854,
-  "2023-03-12": 330854,
-  "2023-03-13": 330854,
-  "2023-03-14": 330854,
-  "2023-03-15": 330854,
-  "2023-03-16": 330854,
-  "2023-03-17": 330854,
-  "2023-03-18": 330854,
-  "2023-03-19": 330854,
-  "2023-03-20": 330854,
-  "2023-03-21": 330854,
-  "2023-03-22": 330854,
-  "2023-03-23": 330854,
-  "2023-03-24": 330854,
-  "2023-03-25": 330854,
-  "2023-03-26": 330854,
-  "2023-03-27": 330854,
-  "2023-03-28": 330854,
-  "2023-03-29": 330854,
-  "2023-03-30": 330854,
-  "2023-03-31": 330854,
-  "2023-04-01": 330854,
-  "2023-04-02": 330854,
-  "2023-04-03": 330854,
-  "2023-04-04": 330854,
-  "2023-04-05": 330854,
-  "2023-04-06": 330854,
-  "2023-04-07": 330854,
-  "2023-04-09": 330854,
-  "2023-04-10": 330854,
-  "2023-04-11": 330854,
-  "2023-04-12": 330854,
-  "2023-04-13": 330854,
-  "2023-04-14": 330854,
-  "2023-04-15": 330854,
-  "2023-04-16": 330854,
-  "2023-04-17": 330854,
-  "2023-04-18": 330854,
-  "2023-04-19": 330854,
-  "2023-04-20": 330854,
-  "2023-04-21": 330854,
-  "2023-04-22": 330854,
-  "2023-04-23": 330854,
-  "2023-04-24": 330854,
-  "2023-04-25": 330854,
-  "2023-04-26": 330854,
-  "2023-04-27": 330854,
-  "2023-04-28": 330854,
-  "2023-04-29": 330854,
-  "2023-04-30": 330854,
-  "2023-05-01": 330854,
-  "2023-05-02": 330854,
-  "2023-05-03": 330854,
-  "2023-05-04": 330854,
-  "2023-05-05": 330854,
-  "2023-05-06": 330854,
-  "2023-05-07": 330854,
-  "2023-05-08": 330854,
-  "2023-05-09": 330854,
-  "2023-05-10": 330854,
-  "2023-05-11": 330854,
-  "2023-05-12": 330854,
-  "2023-05-13": 330854,
-  "2023-05-14": 330854,
-  "2023-05-15": 330854,
-  "2023-05-16": 330854,
-  "2023-05-17": 330854,
-  "2023-05-18": 330854,
-  "2023-05-19": 330854,
-  "2023-05-20": 330854,
-  "2023-05-21": 330854,
-  "2023-05-22": 330854,
-  "2023-05-23": 330854,
-  "2023-05-24": 330854,
-  "2023-05-25": 330854,
-  "2023-05-26": 330854,
-  "2023-05-27": 330854,
-  "2023-05-28": 330854,
-  "2023-05-29": 330854,
-  "2023-05-30": 330854,
-  "2023-05-31": 330854,
-  "2023-06-01": 330854,
-  "2023-06-02": 330854,
-  "2023-06-03": 330854,
-  "2023-06-04": 330854,
-  "2023-06-05": 330854,
-  "2023-06-06": 330854,
-  "2023-06-07": 330854,
-  "2023-06-08": 330854,
-  "2023-06-09": 330854,
-  "2023-06-10": 330854,
-  "2023-06-11": 330854,
-  "2023-06-12": 330854,
-  "2023-06-13": 330854,
-  "2023-06-14": 330854,
-  "2023-06-15": 330854,
-  "2023-06-16": 330854,
-  "2023-06-17": 330854,
-  "2023-06-18": 330854,
-  "2023-06-19": 330854,
-  "2023-06-20": 330854,
-  "2023-06-21": 330854,
-  "2023-06-22": 330854,
-  "2023-06-23": 330854,
-  "2023-06-24": 330854,
-  "2023-06-25": 330854,
-  "2023-06-26": 330854,
-  "2023-06-27": 330854,
-  "2023-06-28": 330854,
-  "2023-06-29": 330854,
-  "2023-06-30": 330854,
-  "2023-07-01": 330854,
-  "2023-07-02": 330854,
-  "2023-07-03": 330854,
-  "2023-07-04": 330854,
-  "2023-07-05": 330854,
-  "2023-07-06": 330854,
-  "2023-07-07": 330854,
-  "2023-07-08": 330854,
-  "2023-07-09": 330854,
-  "2023-07-10": 330854,
-  "2023-07-11": 330854,
-  "2023-07-12": 330854,
-  "2023-07-13": 330854,
-  "2023-07-14": 330854,
-  "2023-07-15": 330854,
-  "2023-07-16": 330854,
-  "2023-07-17": 330854,
-  "2023-07-18": 330854,
-  "2023-07-19": 330854,
-  "2023-07-20": 330854,
-  "2023-07-21": 330854,
-  "2023-07-22": 330854,
-  "2023-07-23": 330854,
-  "2023-07-24": 330854,
-  "2023-07-25": 330854,
-  "2023-07-26": 330854,
-  "2023-07-27": 330854,
-  "2023-07-28": 330854,
-  "2023-07-29": 330854,
-  "2023-07-30": 330854,
-  "2023-07-31": 330854,
-  "2023-08-01": 330854,
-  "2023-08-02": 330854,
-  "2023-08-03": 330854,
-  "2023-08-04": 330854,
-  "2023-08-05": 330854,
-  "2023-08-06": 330854,
-  "2023-08-07": 330854,
-  "2023-08-08": 330854,
-  "2023-08-09": 330854,
-  "2023-08-10": 330854,
-  "2023-08-11": 330854,
-  "2023-08-12": 330854,
-  "2023-08-13": 330854,
-  "2023-08-14": 330854,
-  "2023-08-15": 330854,
-  "2023-08-16": 330854,
-  "2023-08-17": 330854,
-  "2023-08-18": 330854,
-  "2023-08-19": 330854,
-  "2023-08-20": 330854,
-  "2023-08-21": 330854,
-  "2023-08-22": 330854,
-  "2023-08-23": 330854,
-  "2023-08-24": 330854,
-  "2023-08-25": 330854,
-  "2023-08-26": 330854,
-  "2023-08-27": 330854,
-  "2023-08-28": 330854,
-  "2023-08-29": 330854,
-  "2023-08-30": 330854,
-  "2023-08-31": 330854,
-  "2023-09-01": 330854,
-  "2023-09-02": 330854,
-  "2023-09-03": 330854,
-  "2023-09-04": 330854,
-  "2023-09-05": 330854,
-  "2023-09-06": 330854,
-  "2023-09-07": 330854,
-  "2023-09-08": 330854,
-  "2023-09-09": 330854,
-  "2023-09-10": 330854,
-  "2023-09-11": 330854,
-  "2023-09-12": 330854,
-  "2023-09-13": 330854,
-  "2023-09-14": 330854,
-  "2023-09-15": 330854,
-  "2023-09-16": 330854,
-  "2023-09-17": 330854,
-  "2023-09-18": 330854,
-  "2023-09-19": 330854,
-  "2023-09-20": 330854,
-  "2023-09-21": 330854,
-  "2023-09-22": 330854,
-  "2023-09-23": 330854,
-  "2023-09-24": 330854,
-  "2023-09-25": 330854,
-  "2023-09-26": 330854,
-  "2023-09-27": 330854,
-  "2023-09-28": 330854,
-  "2023-09-29": 330854,
-  "2023-09-30": 330854,
-  "2023-10-01": 330854,
-  "2023-10-02": 330854,
-  "2023-10-03": 330854,
-  "2023-10-04": 330854,
-  "2023-10-05": 330854,
-  "2023-10-06": 330854,
-  "2023-10-07": 330854,
-  "2023-10-08": 330854,
-  "2023-10-09": 330854,
-  "2023-10-10": 330854,
-  "2023-10-11": 330854,
-  "2023-10-12": 330854,
-  "2023-10-13": 330854,
-  "2023-10-14": 330854,
-  "2023-10-15": 330854,
-  "2023-10-16": 330854,
-  "2023-10-17": 330854,
-  "2023-10-18": 330854,
-  "2023-10-19": 330854,
-  "2023-10-20": 330854,
-  "2023-10-21": 330854,
-  "2023-10-22": 330854,
-  "2023-10-23": 330854,
-  "2023-10-24": 330854,
-  "2023-10-25": 330854,
-  "2023-10-26": 330854,
-  "2023-10-27": 330854,
-  "2023-10-28": 330854,
-  "2023-10-29": 330854,
-  "2023-10-30": 330854,
-  "2023-10-31": 330854,
-  "2023-11-01": 330854,
-  "2023-11-02": 330854,
-  "2023-11-03": 330854,
-  "2023-11-04": 330854,
-  "2023-11-05": 330854,
-  "2023-11-06": 330854,
-  "2023-11-07": 330854,
-  "2023-11-08": 330854,
-  "2023-11-09": 330854,
-  "2023-11-10": 330854,
-  "2023-11-11": 330854,
-  "2023-11-12": 330854,
-  "2023-11-13": 330854,
-  "2023-11-14": 330854,
-  "2023-11-15": 330854,
-  "2023-11-16": 330854,
-  "2023-11-17": 330854,
-  "2023-11-18": 330854,
-  "2023-11-19": 330854,
-  "2023-11-20": 330854,
-  "2023-11-21": 330854,
-  "2023-11-22": 330854,
-  "2023-11-23": 330854,
-  "2023-11-24": 330854,
-  "2023-11-25": 330854,
-  "2023-11-26": 330854,
-  "2023-11-27": 330854,
-  "2023-11-28": 330854,
-  "2023-11-29": 330854,
-  "2023-11-30": 330854,
-  "2023-12-01": 330854,
-  "2023-12-02": 330854,
-  "2023-12-03": 330854,
-  "2023-12-04": 330854,
-  "2023-12-05": 330854,
-  "2023-12-06": 330854,
-  "2023-12-07": 330854,
-  "2023-12-08": 330854,
-  "2023-12-09": 330854,
-  "2023-12-10": 330854,
-  "2023-12-11": 330854,
-  "2023-12-12": 330854,
-  "2023-12-13": 330854,
-  "2023-12-14": 330854,
-  "2023-12-15": 330854,
-  "2023-12-16": 330854,
-  "2023-12-17": 330854,
-  "2023-12-18": 330854,
-  "2023-12-19": 330854,
-  "2023-12-20": 330854,
-  "2023-12-21": 330854,
-  "2023-12-22": 330854,
-  "2023-12-23": 330854,
-  "2023-12-24": 330854,
-  "2023-12-25": 330854,
-  "2023-12-26": 330854,
-  "2023-12-27": 330854,
-  "2023-12-30": 330854,
-  "2023-12-31": 330854,
-  "2024-01-01": 330854,
-  "2024-01-02": 330854,
-  "2024-01-03": 330854
+  "2024-01-17": 330854,
+  "date_first_scraped": "2021-12-21",
+  "description": "Celebrating the legacy of the undisputed Queen of Soul, Aretha Franklin.  Her most essential tracks, all in one playlist.",
+  "name": "This Is Aretha Franklin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "(Sweet Sweet Baby) Since You've Been Gone",
+      "url": "https://open.spotify.com/track/3lrSnngQqNWgvQmcFbCJCx"
+    },
+    {
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260106,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/4jeEaCq9omzcX5cOFKhT5O"
+    },
+    {
+      "album": {
+        "name": "A Rose Is Still A Rose",
+        "url": "https://open.spotify.com/album/7m8JwiXdpiR01n6TdWozcY"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "A Rose Is Still a Rose",
+      "url": "https://open.spotify.com/track/3pi27Gt4NetgWmEMFOCjBQ"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254399,
+      "name": "Ain't No Way",
+      "url": "https://open.spotify.com/track/3BucMqBqIR5Aw7MrUkF00y"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72)",
+        "url": "https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648826,
+      "name": "Amazing Grace - Live at New Missionary Baptist Church, Los Angeles, CA, 01/13/72",
+      "url": "https://open.spotify.com/track/62aEe7mLn8wdWr0o26shwx"
+    },
+    {
+      "album": {
+        "name": "Chain of Fools",
+        "url": "https://open.spotify.com/album/3m1QOZksdlPeoQsdSgCdvc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159106,
+      "name": "Baby, I Love You",
+      "url": "https://open.spotify.com/track/2vWpexnqyNzFoUpmLHxGVb"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331360,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/3MGNretkjfPdtL1YfZY34Z"
+    },
+    {
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj"
+    },
+    {
+      "album": {
+        "name": "Queen of Soul - The Best of Aretha Franklin",
+        "url": "https://open.spotify.com/album/6OxXVtZwExAmdrUIG2afFf"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163039,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/0sUe1KY92PKd8tpkf7hvDa"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace (Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72)",
+        "url": "https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "Climbing Higher Mountains - Live at New Missionary Baptist Church, Los Angeles, CA, 01/13/72",
+      "url": "https://open.spotify.com/track/5otMvPo1PQITyVcJZ1Xg86"
+    },
+    {
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239960,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX"
+    },
+    {
+      "album": {
+        "name": "Spirit in the Dark",
+        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Dr. Feelgood (Love Is a Serious Business)",
+      "url": "https://open.spotify.com/track/0xGcAq56TXf3RnSHkCiL9k"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247733,
+      "name": "Drown in My Own Tears",
+      "url": "https://open.spotify.com/track/4ioNP12wZS8rcMZRf1vwko"
+    },
+    {
+      "album": {
+        "name": "Who's Zoomin' Who?",
+        "url": "https://open.spotify.com/album/2d3WbGqfYOKrKNcDliIF6L"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351266,
+      "name": "Freeway Of Love",
+      "url": "https://open.spotify.com/track/5VsAiXtW0ApEaGsZypEUxL"
+    },
+    {
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/0iZk0jnDp3JDE8etYCzKcC"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/4LTa2DALHWoAvFKQwsRugj"
+    },
+    {
+      "album": {
+        "name": "Aretha",
+        "url": "https://open.spotify.com/album/7ykbGO2RgrrdQ1Yc6svUFy"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "I Knew You Were Waiting (For Me)",
+      "url": "https://open.spotify.com/track/0f6pHbsLzpWxl5CfhOUjBA"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166226,
+      "name": "I Never Loved a Man (The Way I Love You) - Stereo",
+      "url": "https://open.spotify.com/track/6soyMRtt1bM1ba5e8Hg4o6"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH"
+    },
+    {
+      "album": {
+        "name": "Aretha Franklin Sings The Great Diva Classics",
+        "url": "https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271506,
+      "name": "I Will Survive (The Aretha Version)",
+      "url": "https://open.spotify.com/track/44CUaeAUvLLgCqslAx1GmU"
+    },
+    {
+      "album": {
+        "name": "Aretha Franklin Sings The Great Diva Classics",
+        "url": "https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296040,
+      "name": "I'm Every Woman / Respect",
+      "url": "https://open.spotify.com/track/5NUUMjnvKiw0mSLQd5vRA6"
+    },
+    {
+      "album": {
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259640,
+      "name": "It Hurts Like Hell - from Waiting to Exhale - Original Soundtrack",
+      "url": "https://open.spotify.com/track/3gMrH8OIROYCrFskiBaNsA"
+    },
+    {
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291293,
+      "name": "It Isn't, It Wasn't, It Ain't Never Gonna Be (with Whitney Houston) - Album Edit",
+      "url": "https://open.spotify.com/track/47TXwjVRQ9I4MVKg3TXNdZ"
+    },
+    {
+      "album": {
+        "name": "Jump To It",
+        "url": "https://open.spotify.com/album/3fqdce2BXF9TgBD7smHb0o"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401266,
+      "name": "Jump To It - Original Extended Version",
+      "url": "https://open.spotify.com/track/1wGqSAH3JAMNoxL72pOWO3"
+    },
+    {
+      "album": {
+        "name": "Jewels In The Crown: All Star Duets With The Queen",
+        "url": "https://open.spotify.com/album/3EeAD6RoOoCEBSj4ks8GqY"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306213,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/28MEFW24ikUUIhJELPYHXb"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/3lv9TUA15PFRHtMaPhjKKj"
+    },
+    {
+      "album": {
+        "name": "Aretha Franklin Sings The Great Diva Classics",
+        "url": "https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261320,
+      "name": "Midnight Train To Georgia",
+      "url": "https://open.spotify.com/track/34e1mfaKrX6Z1HiusQM3lf"
+    },
+    {
+      "album": {
+        "name": "Tiny Sparrow: The Bobby Scott Sessions",
+        "url": "https://open.spotify.com/album/33AskkgHfrmFsTi7AINGzZ"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2ymtLLDnyWlDb6CeZgDCiF"
+    },
+    {
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "album": {
+        "name": "The Electrifying Aretha Franklin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142693,
+      "name": "Rock-A-Bye Your Baby with a Dixie Melody",
+      "url": "https://open.spotify.com/track/7vNq9awmDqVRUhA0HW1OaL"
+    },
+    {
+      "album": {
+        "name": "Aretha Franklin Sings The Great Diva Classics",
+        "url": "https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "Rolling In the Deep (The Aretha Version)",
+      "url": "https://open.spotify.com/track/0UdRGHCSRvn85nN0IfHFmq"
+    },
+    {
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "See Saw",
+      "url": "https://open.spotify.com/track/1vrJWHhhDQ5JcB9xtF2VMq"
+    },
+    {
+      "album": {
+        "name": "Who's Zoomin' Who?",
+        "url": "https://open.spotify.com/album/2d3WbGqfYOKrKNcDliIF6L"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354133,
+      "name": "Sisters Are Doin' It for Themselves",
+      "url": "https://open.spotify.com/track/61oEC3ZjyitXj5KUzqCsYr"
+    },
+    {
+      "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381826,
+      "name": "Something He Can Feel",
+      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+    },
+    {
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "Soul Serenade",
+      "url": "https://open.spotify.com/track/7JTOzgSUnVvn4RagIEJjDn"
+    },
+    {
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/01XurvYS4xSvViTd1jXYXZ"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3jg3ECrVJM63ylcqhWF7xE"
+    },
+    {
+      "album": {
+        "name": "Spirit in the Dark",
+        "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Spirit in the Dark",
+      "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139920,
+      "name": "The House That Jack Built",
+      "url": "https://open.spotify.com/track/3uK6SqdNXutPBNi6vUenpt"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/2VdHRWJeGpIY0WJcQD2mYd"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/0jkBzn7J5jc889TYxwvXy6"
+    },
+    {
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/01XurvYS4xSvViTd1jXYXZ"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206213,
+      "name": "Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/5mymaL5wREERekNoPojzyG"
+    },
+    {
+      "album": {
+        "name": "Who's Zoomin' Who?",
+        "url": "https://open.spotify.com/album/2d3WbGqfYOKrKNcDliIF6L"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283293,
+      "name": "Who's Zoomin' Who?",
+      "url": "https://open.spotify.com/track/3AjF4xWPO8vnALeZRGzn2d"
+    },
+    {
+      "album": {
+        "name": "Aretha Franklin Sings The Great Diva Classics",
+        "url": "https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/59FVyaSxXzvoTQKNw4Rz0q"
+    },
+    {
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "album": {
+        "name": "Rare & Unreleased Recordings From The Golden Reign Of The Queen Of Soul",
+        "url": "https://open.spotify.com/album/2oyxkNkpfi9anarmactB1a"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "You're All I Need to Get By - Take 2",
+      "url": "https://open.spotify.com/track/2Es8ZXN2SONtK73rOp44xz"
+    },
+    {
+      "album": {
+        "name": "Mr. I",
+        "url": "https://open.spotify.com/album/7FkcsRzZNmU9WFGxKIhUvy"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2018-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295440,
+      "name": "You've Got A Friend",
+      "url": "https://open.spotify.com/track/2igEkhy9y8dob8AfqjfXVC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6bJVMtDYJHx"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,889 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,977 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 32 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 33 | [On Bro](https://open.spotify.com/track/3a0Z4hgH8p4TKY7I9CI4Q0) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Bricks to the 6](https://open.spotify.com/album/0A7ysybrltD9LWB6zPTLWQ) | 2:12 |
 | 34 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
-| 35 | [Freak In My Text](https://open.spotify.com/track/2vZZisoNv6wQPLEFSTFU3m) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/0mLZuSI6w4zuL2jDefZ6Ws) | 1:57 |
+| 35 | [Freak In My Text](https://open.spotify.com/track/53lBl07yag3J4INgFLDrVt) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/10viiAWF01z1b6njB4oar1) | 1:57 |
 | 36 | [Blow The Whistle](https://open.spotify.com/track/3vAMHGDTZGHRA9k4of5C35) | [DamnGirll](https://open.spotify.com/artist/4JvZoaoJB8gsIG31W9jILH) | [Blow The Whistle](https://open.spotify.com/album/3KLafUW9JmD9vVc3llQTAr) | 2:22 |
 | 37 | [BOW](https://open.spotify.com/track/1Y93ygr761F2rzrynY6Ez7) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [BOW](https://open.spotify.com/album/0Uq95hcAUmm6ukCiqYZH7t) | 1:21 |
 | 38 | [No Sleep \(feat\. FL3A\)](https://open.spotify.com/track/4ODYV5cDISLLR3WYW0uLZB) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh), [FL3A](https://open.spotify.com/artist/4UDVoRK7CwP9XdB3m4xOYU) | [No Sleep \(feat\. FL3A\)](https://open.spotify.com/album/0KrveSk6DAeunc4HH41pT6) | 2:39 |

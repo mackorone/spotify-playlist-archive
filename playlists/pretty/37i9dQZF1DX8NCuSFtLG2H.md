@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,975 likes - 111 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,801 likes - 111 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

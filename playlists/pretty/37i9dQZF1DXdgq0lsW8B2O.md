@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,121 likes - 46 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,052 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 32 | [An Index Of Metals V](https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 4:23 |
 | 33 | [Moon\-Light](https://open.spotify.com/track/32Qa5p0zqBIC5VEYK5ReHD) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 3:34 |
 | 34 | [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 |
-| 35 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 |
+| 35 | [Ancient Leaves](https://open.spotify.com/track/2DmQQYVJwZl9Bb83bDJIzM) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/4ACAUURTiEs4lsnHL3em0x) | 4:35 |
 | 36 | [The Heavenly Music Corporation I](https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J) | 6:17 |
 | 37 | [Rubycon \- Extended Introduction](https://open.spotify.com/track/2GaP0vbAfvycEjeAbeddDa) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 15:04 |
 | 38 | [Borkenkind](https://open.spotify.com/track/1L061cNbIeJy2ElX3wibGF) | [Stephan Micus](https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj) | [Implosions](https://open.spotify.com/album/281XqYzKBklgLJKNV1H2ah) | 7:15 |

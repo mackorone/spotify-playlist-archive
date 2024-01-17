@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,212 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,247 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 91 | [Eva Mendes](https://open.spotify.com/track/1vYWhDlMNMKZBGcPxCH7CV) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Eva Mendes EP](https://open.spotify.com/album/63QooHT7lnLu2jYqBZnFBP) | 6:10 |
 | 92 | [Sweepstake \- Original Mix](https://open.spotify.com/track/2oZSHNqsyvAlUuhpSxZ5ij) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Sweepstake EP](https://open.spotify.com/album/1VYO9ML8qqUfpUUhf95HVk) | 6:18 |
 | 93 | [Fat Stacks](https://open.spotify.com/track/3vRxNd0PBWJWaLWpkekiiV) | [Arkwright](https://open.spotify.com/artist/3Cvn5nYWAJ7GPUAM1Ea5QV) | [Instinct EP](https://open.spotify.com/album/0OFeoaOOtoZa7hwtUzf20x) | 5:01 |
-| 94 | [Ocean Drive](https://open.spotify.com/track/55NdNir1D7TTBKKBITlJBD) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Muppet Anthem](https://open.spotify.com/album/4LNvAckfjyAPWt4uoZzxpZ) | 7:25 |
+| 94 | [Ocean Drive](https://open.spotify.com/track/0thtDHQ4LsCJQQS4W7zQWc) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Muppet Anthem](https://open.spotify.com/album/75YVBBtjk5wyKifAwumWLe) | 7:25 |
 | 95 | [Doiicie \- A](https://open.spotify.com/track/3a5sbseoseoN4XG0SeS4r9) | [Minilogue](https://open.spotify.com/artist/3q7XOzzlff7iCLz2JNalDV) | [Carry On, Pretend We're Not In The Room](https://open.spotify.com/album/3kWEPAoR8O7A6NUyrXcmOZ) | 8:10 |
 | 96 | [Everless](https://open.spotify.com/track/6ubQKsbaMHgDwe55fUENmR) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Workparty Three](https://open.spotify.com/album/2kUSJNURZgt8mzAlEm1b9s) | 7:27 |
 | 97 | [Trojan](https://open.spotify.com/track/00m6m26lE6LZlOGLesqg8g) | [Mark Henning](https://open.spotify.com/artist/5r2arxIZMtFSBFC25AynTW) | [Chicago Sunrise EP](https://open.spotify.com/album/2nfNNNXNAG5nJ0au7QHr6I) | 6:57 |
-| 98 | [Hydra](https://open.spotify.com/track/312VCWI9JHNtSF2xJH4zLT) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/4NgsJCcFODkEBPbdan0GPN) | 7:31 |
+| 98 | [Hydra](https://open.spotify.com/track/6qxyMoLo0J27GfZcKJtF7o) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Hydra](https://open.spotify.com/album/3u5F50SdWg1F75ugsG11CE) | 7:31 |
 | 99 | [Groove Dealer](https://open.spotify.com/track/15DbcMMMTNN9RmK50FmnmR) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Groove Dealer EP](https://open.spotify.com/album/51gGEMAk03iyIcxlvrFnmd) | 6:58 |
 | 100 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 

@@ -1,734 +1,2217 @@
 {
-  "2021-12-25": 154578,
-  "2021-12-26": 154638,
-  "2021-12-27": 154767,
-  "2021-12-28": 154766,
-  "2021-12-29": 154839,
-  "2021-12-30": 154894,
-  "2021-12-31": 154954,
-  "2022-01-01": 155058,
-  "2022-01-02": 155091,
-  "2022-01-03": 155143,
-  "2022-01-04": 155208,
-  "2022-01-05": 155298,
-  "2022-01-06": 155366,
-  "2022-01-07": 155439,
-  "2022-01-08": 155569,
-  "2022-01-09": 155570,
-  "2022-01-10": 155643,
-  "2022-01-11": 155732,
-  "2022-01-12": 155843,
-  "2022-01-13": 155928,
-  "2022-01-14": 156003,
-  "2022-01-15": 156160,
-  "2022-01-16": 156171,
-  "2022-01-17": 156358,
-  "2022-01-18": 156369,
-  "2022-01-19": 156415,
-  "2022-01-20": 156482,
-  "2022-01-21": 156577,
-  "2022-01-22": 156646,
-  "2022-01-23": 156749,
-  "2022-01-24": 156835,
-  "2022-01-25": 156919,
-  "2022-01-26": 157027,
-  "2022-01-27": 157092,
-  "2022-01-28": 157188,
-  "2022-01-29": 157271,
-  "2022-01-30": 157349,
-  "2022-01-31": 157461,
-  "2022-02-01": 157541,
-  "2022-02-02": 157612,
-  "2022-02-03": 157679,
-  "2022-02-04": 157776,
-  "2022-02-05": 157855,
-  "2022-02-06": 157952,
-  "2022-02-07": 158035,
-  "2022-02-08": 158138,
-  "2022-02-09": 158215,
-  "2022-02-10": 158297,
-  "2022-02-11": 158374,
-  "2022-02-12": 158464,
-  "2022-02-13": 158561,
-  "2022-02-14": 158645,
-  "2022-02-15": 158733,
-  "2022-02-16": 158811,
-  "2022-02-17": 158882,
-  "2022-02-18": 158959,
-  "2022-02-19": 159034,
-  "2022-02-20": 159116,
-  "2022-02-21": 159205,
-  "2022-02-22": 159306,
-  "2022-02-23": 159389,
-  "2022-02-24": 159485,
-  "2022-02-25": 159560,
-  "2022-02-26": 159637,
-  "2022-02-27": 159767,
-  "2022-02-28": 159767,
-  "2022-03-01": 159859,
-  "2022-03-02": 159934,
-  "2022-03-03": 160017,
-  "2022-03-04": 160102,
-  "2022-03-05": 160175,
-  "2022-03-06": 160248,
-  "2022-03-07": 160350,
-  "2022-03-08": 160446,
-  "2022-03-09": 160512,
-  "2022-03-10": 160594,
-  "2022-03-11": 160672,
-  "2022-03-12": 160760,
-  "2022-03-13": 160814,
-  "2022-03-14": 160910,
-  "2022-03-15": 160988,
-  "2022-03-16": 161057,
-  "2022-03-17": 161139,
-  "2022-03-18": 161243,
-  "2022-03-19": 161288,
-  "2022-03-20": 161288,
-  "2022-03-21": 161464,
-  "2022-03-22": 161528,
-  "2022-03-23": 161610,
-  "2022-03-24": 161694,
-  "2022-03-25": 161774,
-  "2022-03-26": 161850,
-  "2022-03-27": 161932,
-  "2022-03-28": 162009,
-  "2022-03-30": 162156,
-  "2022-03-31": 162240,
-  "2022-04-01": 162323,
-  "2022-04-02": 162398,
-  "2022-04-03": 162477,
-  "2022-04-04": 162565,
-  "2022-04-05": 162632,
-  "2022-04-06": 162750,
-  "2022-04-07": 162823,
-  "2022-04-08": 162911,
-  "2022-04-09": 162995,
-  "2022-04-10": 163166,
-  "2022-04-11": 163260,
-  "2022-04-12": 163263,
-  "2022-04-13": 163359,
-  "2022-04-14": 163440,
-  "2022-04-15": 163496,
-  "2022-04-16": 163568,
-  "2022-04-17": 163646,
-  "2022-04-18": 163749,
-  "2022-04-19": 163794,
-  "2022-04-20": 163883,
-  "2022-04-21": 163942,
-  "2022-04-22": 164003,
-  "2022-04-23": 164062,
-  "2022-04-24": 164126,
-  "2022-04-25": 164218,
-  "2022-04-26": 164288,
-  "2022-04-27": 164378,
-  "2022-04-28": 164459,
-  "2022-04-29": 164557,
-  "2022-04-30": 164630,
-  "2022-05-01": 164722,
-  "2022-05-02": 164722,
-  "2022-05-03": 164803,
-  "2022-05-04": 164890,
-  "2022-05-05": 164961,
-  "2022-05-06": 165057,
-  "2022-05-07": 165133,
-  "2022-05-08": 165239,
-  "2022-05-09": 165258,
-  "2022-05-10": 165337,
-  "2022-05-11": 165417,
-  "2022-05-12": 165496,
-  "2022-05-13": 165570,
-  "2022-05-14": 165648,
-  "2022-05-15": 165724,
-  "2022-05-16": 165809,
-  "2022-05-17": 165862,
-  "2022-05-18": 165933,
-  "2022-05-19": 166007,
-  "2022-05-20": 166073,
-  "2022-05-21": 166206,
-  "2022-05-22": 166206,
-  "2022-05-23": 166277,
-  "2022-05-24": 166340,
-  "2022-05-25": 166413,
-  "2022-05-26": 166475,
-  "2022-05-27": 166541,
-  "2022-05-28": 166611,
-  "2022-05-29": 166691,
-  "2022-05-30": 166748,
-  "2022-05-31": 166812,
-  "2022-06-01": 166941,
-  "2022-06-02": 166959,
-  "2022-06-03": 167004,
-  "2022-06-04": 167062,
-  "2022-06-05": 167145,
-  "2022-06-06": 167234,
-  "2022-06-07": 167315,
-  "2022-06-08": 167403,
-  "2022-06-09": 167449,
-  "2022-06-10": 167509,
-  "2022-06-11": 167603,
-  "2022-06-12": 167687,
-  "2022-06-13": 167759,
-  "2022-06-14": 167836,
-  "2022-06-15": 167916,
-  "2022-06-16": 168016,
-  "2022-06-17": 168079,
-  "2022-06-18": 168138,
-  "2022-06-19": 168251,
-  "2022-06-20": 168251,
-  "2022-06-21": 168290,
-  "2022-06-22": 168451,
-  "2022-06-23": 168451,
-  "2022-06-24": 168537,
-  "2022-06-25": 168537,
-  "2022-06-26": 168681,
-  "2022-06-27": 168748,
-  "2022-06-28": 168815,
-  "2022-06-29": 168863,
-  "2022-06-30": 168912,
-  "2022-07-01": 168990,
-  "2022-07-02": 169049,
-  "2022-07-03": 169100,
-  "2022-07-04": 169174,
-  "2022-07-05": 169231,
-  "2022-07-06": 169308,
-  "2022-07-07": 169388,
-  "2022-07-08": 169474,
-  "2022-07-09": 169539,
-  "2022-07-10": 169584,
-  "2022-07-11": 169650,
-  "2022-07-12": 169734,
-  "2022-07-13": 169797,
-  "2022-07-14": 169859,
-  "2022-07-15": 169952,
-  "2022-07-16": 170010,
-  "2022-07-17": 170099,
-  "2022-07-18": 170174,
-  "2022-07-19": 170252,
-  "2022-07-20": 170323,
-  "2022-07-21": 170382,
-  "2022-07-22": 170427,
-  "2022-07-23": 170502,
-  "2022-07-24": 170558,
-  "2022-07-25": 170639,
-  "2022-07-26": 170715,
-  "2022-07-27": 170786,
-  "2022-07-28": 170860,
-  "2022-07-29": 170935,
-  "2022-07-30": 171052,
-  "2022-07-31": 171052,
-  "2022-08-01": 171140,
-  "2022-08-02": 171283,
-  "2022-08-03": 171283,
-  "2022-08-04": 171369,
-  "2022-08-05": 171430,
-  "2022-08-06": 171493,
-  "2022-08-07": 171543,
-  "2022-08-08": 171622,
-  "2022-08-09": 171713,
-  "2022-08-10": 171788,
-  "2022-08-11": 171845,
-  "2022-08-12": 171914,
-  "2022-08-13": 171981,
-  "2022-08-14": 172058,
-  "2022-08-16": 172235,
-  "2022-08-17": 172304,
-  "2022-08-18": 172393,
-  "2022-08-19": 172454,
-  "2022-08-20": 172533,
-  "2022-08-21": 172599,
-  "2022-08-22": 172712,
-  "2022-08-23": 172802,
-  "2022-08-24": 172898,
-  "2022-08-25": 172984,
-  "2022-08-26": 173077,
-  "2022-08-27": 173139,
-  "2022-08-28": 173232,
-  "2022-08-29": 173335,
-  "2022-08-30": 173320,
-  "2022-08-31": 173227,
-  "2022-09-01": 173138,
-  "2022-09-02": 173251,
-  "2022-09-03": 173137,
-  "2022-09-04": 172862,
-  "2022-09-05": 172753,
-  "2022-09-06": 172847,
-  "2022-09-07": 172946,
-  "2022-09-09": 173130,
-  "2022-09-10": 173199,
-  "2022-09-11": 173306,
-  "2022-09-12": 173403,
-  "2022-09-13": 173520,
-  "2022-09-15": 173710,
-  "2022-09-16": 173787,
-  "2022-09-17": 173852,
-  "2022-09-18": 173957,
-  "2022-09-19": 174051,
-  "2022-09-20": 174151,
-  "2022-09-21": 174244,
-  "2022-09-22": 174357,
-  "2022-09-23": 174459,
-  "2022-09-24": 174542,
-  "2022-09-25": 174616,
-  "2022-09-26": 174722,
-  "2022-09-27": 174851,
-  "2022-09-28": 174988,
-  "2022-09-29": 175112,
-  "2022-09-30": 175218,
-  "2022-10-01": 175310,
-  "2022-10-02": 175388,
-  "2022-10-03": 175489,
-  "2022-10-04": 175576,
-  "2022-10-05": 175650,
-  "2022-10-06": 175757,
-  "2022-10-07": 175838,
-  "2022-10-08": 175929,
-  "2022-10-09": 176097,
-  "2022-10-10": 176119,
-  "2022-10-11": 176216,
-  "2022-10-12": 176337,
-  "2022-10-13": 176405,
-  "2022-10-14": 176531,
-  "2022-10-15": 176598,
-  "2022-10-16": 176678,
-  "2022-10-17": 176786,
-  "2022-10-18": 176892,
-  "2022-10-19": 176961,
-  "2022-10-20": 177047,
-  "2022-10-21": 177157,
-  "2022-10-22": 177246,
-  "2022-10-23": 177339,
-  "2022-10-24": 177448,
-  "2022-10-25": 177548,
-  "2022-10-26": 177637,
-  "2022-10-27": 177741,
-  "2022-10-28": 177844,
-  "2022-10-29": 177937,
-  "2022-10-30": 178014,
-  "2022-10-31": 178086,
-  "2022-11-01": 178177,
-  "2022-11-02": 178274,
-  "2022-11-03": 178378,
-  "2022-11-04": 178483,
-  "2022-11-05": 178571,
-  "2022-11-06": 178669,
-  "2022-11-07": 178764,
-  "2022-11-08": 178878,
-  "2022-11-09": 178992,
-  "2022-11-10": 179089,
-  "2022-11-11": 179204,
-  "2022-11-12": 179301,
-  "2022-11-13": 179382,
-  "2022-11-14": 179485,
-  "2022-11-15": 179592,
-  "2022-11-16": 179686,
-  "2022-11-17": 179792,
-  "2022-11-18": 179829,
-  "2022-11-19": 179794,
-  "2022-11-20": 179804,
-  "2022-11-21": 179885,
-  "2022-11-22": 180091,
-  "2022-11-23": 180057,
-  "2022-11-24": 180230,
-  "2022-11-25": 180457,
-  "2022-11-26": 180615,
-  "2022-11-27": 180727,
-  "2022-11-28": 180882,
-  "2022-11-29": 180989,
-  "2022-11-30": 181085,
-  "2022-12-01": 181214,
-  "2022-12-02": 181378,
-  "2022-12-03": 181433,
-  "2022-12-04": 181624,
-  "2022-12-05": 181787,
-  "2022-12-06": 181919,
-  "2022-12-07": 182018,
-  "2022-12-08": 182115,
-  "2022-12-09": 182214,
-  "2022-12-10": 182342,
-  "2022-12-11": 182462,
-  "2022-12-12": 182629,
-  "2022-12-13": 182720,
-  "2022-12-14": 182847,
-  "2022-12-15": 182957,
-  "2022-12-16": 183054,
-  "2022-12-17": 183140,
-  "2022-12-18": 183226,
-  "2022-12-19": 183324,
-  "2022-12-20": 183518,
-  "2022-12-21": 183518,
-  "2022-12-22": 183612,
-  "2022-12-24": 183777,
-  "2022-12-25": 183872,
-  "2022-12-26": 183962,
-  "2022-12-27": 184063,
-  "2022-12-28": 184163,
-  "2022-12-29": 184266,
-  "2022-12-30": 184364,
-  "2022-12-31": 184465,
-  "2023-01-01": 184552,
-  "2023-01-02": 184648,
-  "2023-01-03": 184748,
-  "2023-01-04": 184859,
-  "2023-01-05": 184964,
-  "2023-01-06": 185091,
-  "2023-01-07": 185255,
-  "2023-01-08": 185280,
-  "2023-01-09": 185414,
-  "2023-01-10": 185553,
-  "2023-01-11": 185686,
-  "2023-01-12": 185782,
-  "2023-01-13": 185911,
-  "2023-01-14": 186111,
-  "2023-01-15": 186139,
-  "2023-01-16": 186257,
-  "2023-01-17": 186397,
-  "2023-01-18": 186497,
-  "2023-01-19": 186612,
-  "2023-01-20": 186738,
-  "2023-01-21": 186858,
-  "2023-01-22": 186979,
-  "2023-01-23": 187097,
-  "2023-01-24": 187214,
-  "2023-01-25": 187326,
-  "2023-01-26": 187459,
-  "2023-01-27": 187570,
-  "2023-01-28": 187676,
-  "2023-01-29": 187809,
-  "2023-01-30": 187947,
-  "2023-01-31": 187947,
-  "2023-02-01": 188141,
-  "2023-02-02": 188261,
-  "2023-02-03": 188357,
-  "2023-02-04": 188460,
-  "2023-02-05": 188565,
-  "2023-02-06": 188678,
-  "2023-02-07": 188782,
-  "2023-02-08": 189015,
-  "2023-02-09": 189015,
-  "2023-02-10": 189096,
-  "2023-02-11": 189184,
-  "2023-02-12": 189438,
-  "2023-02-13": 189569,
-  "2023-02-14": 189569,
-  "2023-02-15": 189702,
-  "2023-02-16": 189820,
-  "2023-02-17": 189950,
-  "2023-02-18": 190202,
-  "2023-02-19": 190229,
-  "2023-02-20": 190354,
-  "2023-02-21": 190445,
-  "2023-02-22": 190577,
-  "2023-02-23": 190688,
-  "2023-02-24": 190796,
-  "2023-02-25": 190960,
-  "2023-02-26": 191059,
-  "2023-02-27": 191292,
-  "2023-02-28": 191292,
-  "2023-03-01": 191417,
-  "2023-03-02": 191501,
-  "2023-03-03": 191630,
-  "2023-03-04": 191737,
-  "2023-03-05": 191957,
-  "2023-03-06": 191957,
-  "2023-03-07": 192063,
-  "2023-03-08": 192174,
-  "2023-03-09": 192291,
-  "2023-03-10": 192380,
-  "2023-03-11": 192449,
-  "2023-03-12": 192557,
-  "2023-03-13": 192663,
-  "2023-03-14": 192775,
-  "2023-03-15": 192886,
-  "2023-03-16": 193032,
-  "2023-03-17": 193032,
-  "2023-03-18": 193278,
-  "2023-03-19": 193395,
-  "2023-03-20": 193540,
-  "2023-03-21": 193652,
-  "2023-03-22": 193768,
-  "2023-03-23": 193879,
-  "2023-03-24": 193879,
-  "2023-03-25": 194085,
-  "2023-03-26": 194226,
-  "2023-03-27": 194352,
-  "2023-03-28": 194472,
-  "2023-03-29": 194597,
-  "2023-03-30": 194781,
-  "2023-03-31": 194781,
-  "2023-04-01": 194877,
-  "2023-04-02": 194997,
-  "2023-04-03": 195124,
-  "2023-04-04": 195240,
-  "2023-04-05": 195357,
-  "2023-04-06": 195470,
-  "2023-04-07": 195583,
-  "2023-04-09": 195829,
-  "2023-04-10": 195942,
-  "2023-04-11": 196194,
-  "2023-04-12": 196194,
-  "2023-04-13": 196308,
-  "2023-04-14": 196415,
-  "2023-04-15": 196511,
-  "2023-04-16": 196614,
-  "2023-04-17": 196745,
-  "2023-04-18": 196830,
-  "2023-04-19": 196970,
-  "2023-04-20": 197067,
-  "2023-04-21": 197175,
-  "2023-04-22": 197289,
-  "2023-04-23": 197389,
-  "2023-04-24": 197530,
-  "2023-04-25": 197674,
-  "2023-04-26": 197804,
-  "2023-04-27": 197915,
-  "2023-04-28": 198039,
-  "2023-04-29": 198138,
-  "2023-04-30": 198277,
-  "2023-05-01": 198388,
-  "2023-05-02": 198522,
-  "2023-05-03": 198607,
-  "2023-05-04": 198723,
-  "2023-05-05": 198823,
-  "2023-05-06": 198918,
-  "2023-05-07": 199018,
-  "2023-05-08": 199141,
-  "2023-05-09": 199258,
-  "2023-05-10": 199371,
-  "2023-05-11": 199476,
-  "2023-05-12": 199562,
-  "2023-05-13": 199647,
-  "2023-05-14": 199751,
-  "2023-05-15": 199858,
-  "2023-05-16": 200003,
-  "2023-05-17": 200108,
-  "2023-05-18": 200217,
-  "2023-05-19": 200338,
-  "2023-05-20": 200563,
-  "2023-05-21": 200563,
-  "2023-05-22": 200563,
-  "2023-05-23": 200759,
-  "2023-05-24": 200939,
-  "2023-05-25": 200965,
-  "2023-05-26": 201067,
-  "2023-05-27": 201159,
-  "2023-05-28": 201257,
-  "2023-05-29": 201257,
-  "2023-05-30": 201520,
-  "2023-05-31": 201626,
-  "2023-06-01": 201742,
-  "2023-06-02": 201861,
-  "2023-06-03": 201946,
-  "2023-06-04": 202073,
-  "2023-06-05": 202168,
-  "2023-06-06": 202261,
-  "2023-06-07": 202380,
-  "2023-06-08": 202463,
-  "2023-06-09": 202566,
-  "2023-06-10": 202663,
-  "2023-06-11": 202760,
-  "2023-06-12": 202863,
-  "2023-06-13": 202977,
-  "2023-06-14": 203098,
-  "2023-06-15": 203174,
-  "2023-06-16": 203235,
-  "2023-06-17": 203309,
-  "2023-06-18": 203370,
-  "2023-06-19": 203444,
-  "2023-06-20": 203516,
-  "2023-06-21": 203609,
-  "2023-06-22": 203662,
-  "2023-06-23": 203739,
-  "2023-06-24": 203803,
-  "2023-06-25": 203865,
-  "2023-06-26": 203955,
-  "2023-06-27": 204006,
-  "2023-06-28": 204068,
-  "2023-06-29": 204123,
-  "2023-06-30": 204178,
-  "2023-07-01": 204295,
-  "2023-07-02": 204295,
-  "2023-07-03": 204379,
-  "2023-07-04": 204421,
-  "2023-07-05": 204476,
-  "2023-07-06": 204596,
-  "2023-07-07": 204596,
-  "2023-07-08": 204646,
-  "2023-07-09": 204699,
-  "2023-07-10": 204767,
-  "2023-07-11": 204834,
-  "2023-07-12": 204876,
-  "2023-07-13": 204931,
-  "2023-07-14": 204989,
-  "2023-07-15": 205029,
-  "2023-07-16": 205117,
-  "2023-07-17": 205186,
-  "2023-07-18": 205244,
-  "2023-07-19": 205297,
-  "2023-07-20": 205347,
-  "2023-07-21": 205421,
-  "2023-07-22": 205485,
-  "2023-07-23": 205544,
-  "2023-07-24": 205611,
-  "2023-07-25": 205685,
-  "2023-07-26": 205736,
-  "2023-07-27": 205804,
-  "2023-07-28": 205893,
-  "2023-07-29": 205961,
-  "2023-07-30": 206029,
-  "2023-07-31": 206081,
-  "2023-08-01": 206161,
-  "2023-08-02": 206240,
-  "2023-08-03": 206307,
-  "2023-08-04": 206355,
-  "2023-08-05": 206420,
-  "2023-08-06": 206553,
-  "2023-08-07": 206553,
-  "2023-08-08": 206621,
-  "2023-08-09": 206681,
-  "2023-08-10": 206738,
-  "2023-08-11": 206818,
-  "2023-08-12": 206880,
-  "2023-08-13": 206937,
-  "2023-08-14": 206986,
-  "2023-08-15": 207128,
-  "2023-08-16": 207128,
-  "2023-08-17": 207183,
-  "2023-08-18": 207234,
-  "2023-08-19": 207294,
-  "2023-08-20": 207361,
-  "2023-08-21": 207418,
-  "2023-08-22": 207491,
-  "2023-08-23": 207566,
-  "2023-08-24": 207647,
-  "2023-08-25": 207700,
-  "2023-08-26": 207783,
-  "2023-08-27": 207858,
-  "2023-08-28": 207948,
-  "2023-08-29": 208040,
-  "2023-08-30": 208114,
-  "2023-08-31": 208179,
-  "2023-09-01": 208306,
-  "2023-09-02": 208306,
-  "2023-09-03": 208388,
-  "2023-09-04": 208467,
-  "2023-09-05": 208542,
-  "2023-09-06": 208599,
-  "2023-09-07": 208666,
-  "2023-09-08": 208736,
-  "2023-09-09": 208794,
-  "2023-09-10": 208858,
-  "2023-09-11": 208929,
-  "2023-09-12": 209001,
-  "2023-09-13": 209079,
-  "2023-09-14": 209154,
-  "2023-09-15": 209210,
-  "2023-09-16": 209281,
-  "2023-09-17": 209359,
-  "2023-09-18": 209455,
-  "2023-09-19": 209547,
-  "2023-09-20": 209615,
-  "2023-09-21": 209677,
-  "2023-09-22": 209741,
-  "2023-09-23": 209817,
-  "2023-09-24": 209887,
-  "2023-09-25": 209968,
-  "2023-09-26": 210078,
-  "2023-09-27": 210145,
-  "2023-09-28": 210224,
-  "2023-09-29": 210278,
-  "2023-09-30": 210345,
-  "2023-10-01": 210385,
-  "2023-10-02": 210450,
-  "2023-10-03": 210521,
-  "2023-10-04": 210575,
-  "2023-10-05": 210636,
-  "2023-10-06": 210696,
-  "2023-10-07": 210780,
-  "2023-10-08": 210840,
-  "2023-10-09": 210911,
-  "2023-10-10": 210957,
-  "2023-10-11": 211052,
-  "2023-10-12": 211052,
-  "2023-10-13": 211094,
-  "2023-10-14": 211121,
-  "2023-10-15": 211189,
-  "2023-10-16": 211256,
-  "2023-10-17": 211340,
-  "2023-10-18": 211399,
-  "2023-10-19": 211465,
-  "2023-10-20": 211534,
-  "2023-10-21": 211617,
-  "2023-10-22": 211695,
-  "2023-10-23": 211772,
-  "2023-10-24": 211825,
-  "2023-10-25": 211917,
-  "2023-10-26": 212009,
-  "2023-10-27": 212099,
-  "2023-10-28": 212172,
-  "2023-10-29": 212270,
-  "2023-10-30": 212401,
-  "2023-10-31": 212401,
-  "2023-11-01": 212479,
-  "2023-11-02": 212556,
-  "2023-11-03": 212618,
-  "2023-11-04": 212697,
-  "2023-11-05": 212775,
-  "2023-11-06": 212882,
-  "2023-11-07": 212953,
-  "2023-11-08": 213048,
-  "2023-11-09": 213121,
-  "2023-11-10": 213199,
-  "2023-11-11": 213273,
-  "2023-11-12": 213362,
-  "2023-11-13": 213453,
-  "2023-11-14": 213512,
-  "2023-11-15": 213512,
-  "2023-11-16": 213755,
-  "2023-11-17": 213950,
-  "2023-11-18": 213950,
-  "2023-11-19": 214044,
-  "2023-11-20": 214124,
-  "2023-11-21": 214192,
-  "2023-11-22": 214260,
-  "2023-11-23": 214315,
-  "2023-11-24": 214382,
-  "2023-11-25": 214433,
-  "2023-11-26": 214493,
-  "2023-11-27": 214572,
-  "2023-11-28": 214639,
-  "2023-11-29": 214776,
-  "2023-11-30": 214776,
-  "2023-12-01": 214871,
-  "2023-12-02": 214946,
-  "2023-12-03": 215018,
-  "2023-12-04": 215119,
-  "2023-12-05": 215189,
-  "2023-12-06": 215276,
-  "2023-12-07": 215337,
-  "2023-12-08": 215404,
-  "2023-12-09": 215465,
-  "2023-12-10": 215515,
-  "2023-12-11": 215593,
-  "2023-12-12": 215659,
-  "2023-12-13": 215721,
-  "2023-12-14": 215807,
-  "2023-12-15": 215836,
-  "2023-12-16": 215901,
-  "2023-12-17": 215951,
-  "2023-12-18": 216014,
-  "2023-12-19": 216053,
-  "2023-12-20": 216107,
-  "2023-12-21": 216144,
-  "2023-12-22": 216190,
-  "2023-12-23": 216247,
-  "2023-12-24": 216289,
-  "2023-12-25": 216331,
-  "2023-12-26": 216374,
-  "2023-12-27": 216429,
-  "2023-12-30": 216636,
-  "2023-12-31": 216683,
-  "2024-01-01": 216748,
-  "2024-01-02": 216780,
-  "2024-01-03": 216836
+  "2024-01-17": 217514,
+  "date_first_scraped": "2021-12-21",
+  "description": "Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism. Discover his dreamlike preludes, suites and songs right here.",
+  "name": "This Is Debussy",
+  "tracks": [
+    {
+      "album": {
+        "name": "Debussy: 12 Etudes",
+        "url": "https://open.spotify.com/album/2BzOIvIl6ma2xys1RhWJvr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "12 Etudes, L.136: 11. Pour les Arp\u00e8ges compos\u00e9s",
+      "url": "https://open.spotify.com/track/2u22XYHmJiVBl0HSW8jQFt"
+    },
+    {
+      "album": {
+        "name": "Debussy: Beau soir, L. 6 (L. 84) (Arr. Heifetz for Violin and Piano)",
+        "url": "https://open.spotify.com/album/5esfhWFVQ9W6lsipK8l9Sn"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Lisa Batiashvili",
+          "url": "https://open.spotify.com/artist/7nstqHP5wRNlaUeSByC86I"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134929,
+      "name": "Beau soir, L. 6 (L. 84) (Arr. Heifetz for Violin and Piano)",
+      "url": "https://open.spotify.com/track/4VpLwqzkob5lUeTE9rCqcK"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 5",
+        "url": "https://open.spotify.com/album/2MyzLNFmjhRKQe3XXyplih"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229400,
+      "name": "Berceuse heroique",
+      "url": "https://open.spotify.com/track/3H8TgQUHL6fqSPFgF8VhcD"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 5",
+        "url": "https://open.spotify.com/album/464JJSMldVr51xSFYjMErK"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Berceuse heroique",
+      "url": "https://open.spotify.com/track/4izbys5DvvPgyQTnONJvn6"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 5",
+        "url": "https://open.spotify.com/album/5y4ZeX8LqmUF1Q9ZSxjSWh"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 229400,
+      "name": "Berceuse heroique",
+      "url": "https://open.spotify.com/track/6p0IWPEws004IOl4nSYhMx"
+    },
+    {
+      "album": {
+        "name": "A French Recital",
+        "url": "https://open.spotify.com/album/28SvD0RFhoC0G40PFvoRfS"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Sebastian Klinger",
+          "url": "https://open.spotify.com/artist/6MbHiJ49KZGRgx49D2TgIm"
+        },
+        {
+          "name": "Milana Chernyavska",
+          "url": "https://open.spotify.com/artist/4TVSMizsOByGhEwo3cAqnY"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223026,
+      "name": "Cello Sonata in D Minor, L. 135: III. Finale",
+      "url": "https://open.spotify.com/track/5Q5mff3MsQhl7SFLRpI6PB"
+    },
+    {
+      "album": {
+        "name": "A French Recital",
+        "url": "https://open.spotify.com/album/7dyagW18FtlvugB6FUSewX"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Sebastian Klinger",
+          "url": "https://open.spotify.com/artist/6MbHiJ49KZGRgx49D2TgIm"
+        },
+        {
+          "name": "Milana Chernyavska",
+          "url": "https://open.spotify.com/artist/4TVSMizsOByGhEwo3cAqnY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Cello Sonata in D Minor: III. Finale",
+      "url": "https://open.spotify.com/track/6fRoD8ZqLd1cQnrT4e9Rko"
+    },
+    {
+      "album": {
+        "name": "Debussy: Children's Corner, CD 119: VI. Cakewalk",
+        "url": "https://open.spotify.com/album/7ovIbuxHK1jRdrwpLOgjun"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Children's Corner, CD 119: VI. Cakewalk",
+      "url": "https://open.spotify.com/track/1sSkBaP2bKPT7WmYBVBtzI"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Book 1; Children's Corner",
+        "url": "https://open.spotify.com/album/2Oi2aHZGEYJdDMcaiaxIfe"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 167493,
+      "name": "Children's Corner, CD 119: VI. Golliwogg's Cakewalk",
+      "url": "https://open.spotify.com/track/46ZR5wsSguPakRDDEzBvYh"
+    },
+    {
+      "album": {
+        "name": "Debussy: Children's Corner, Suite bergamasque, Images",
+        "url": "https://open.spotify.com/album/6kdiApKnIe8xQ1cTo9mWJJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Children's Corner, L. 113: IV. The Snow is Dancing (Mod\u00e9r\u00e9ment anim\u00e9)",
+      "url": "https://open.spotify.com/track/4qOJpSWTdiuLX6tJQIZNBO"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Book 1; Children's Corner",
+        "url": "https://open.spotify.com/album/2Oi2aHZGEYJdDMcaiaxIfe"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293160,
+      "name": "D'un cahier d'esquisses, CD 112",
+      "url": "https://open.spotify.com/track/42otkYq3PyuQ0SONYv8Q6n"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "Dances for Harp and Orchestra, L. 103: 1. Danse sacr\u00e9e",
+      "url": "https://open.spotify.com/track/4yEvEcPG62YgX0WdvCCToq"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279653,
+      "name": "Dances for Harp and Orchestra, L. 103: 2. Danse profane",
+      "url": "https://open.spotify.com/track/3qzNMOAMWvzMtl3aPv9rOB"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 1",
+        "url": "https://open.spotify.com/album/0TITPCUdO0Tjvht1ZgJv2P"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Danse, \"Tarentelle styrienne\"",
+      "url": "https://open.spotify.com/track/1jrGWKc71OVjVSM9i7odXS"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 1",
+        "url": "https://open.spotify.com/album/42CU3pUb6kWdvl5czulCAP"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316666,
+      "name": "Danse, L. 69",
+      "url": "https://open.spotify.com/track/7Ag2UiGqfKy33recIs95z9"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 4",
+        "url": "https://open.spotify.com/album/4xKPAmuxxJxD8GSOq53y2N"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "James Conlon",
+          "url": "https://open.spotify.com/artist/5dCokwmhQtMw1dxLg3ka2x"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1250360,
+      "name": "Debussy / Orch. Koechlin: Khamma, CD 132, L. 125",
+      "url": "https://open.spotify.com/track/6aLZuGc4f9eQmW2ojjEjOs"
+    },
+    {
+      "album": {
+        "name": "Debussy: Images & Children's Corner",
+        "url": "https://open.spotify.com/album/5zVsLnQ6yPHydWo8Pe7XpH"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Simon Trp\u010deski",
+          "url": "https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "Debussy: 2 Arabesques, CD 74, L. 66: No. 1, Andantino con moto",
+      "url": "https://open.spotify.com/track/5Ebm8OIFGeyoK25ZzXuju5"
+    },
+    {
+      "album": {
+        "name": "Debussy: Images & Children's Corner",
+        "url": "https://open.spotify.com/album/5zVsLnQ6yPHydWo8Pe7XpH"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Simon Trp\u010deski",
+          "url": "https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Debussy: 2 Arabesques, CD 74, L. 66: No. 2, Allegretto scherzando",
+      "url": "https://open.spotify.com/track/6ZBotdsY19n5Jpfb9eXeSF"
+    },
+    {
+      "album": {
+        "name": "Debussy: The Complete Songs",
+        "url": "https://open.spotify.com/album/0r2TAyrGwqey8by7uCh7qo"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "V\u00e9ronique Gens",
+          "url": "https://open.spotify.com/artist/1RyVStjzi2FZFBnXr0WUQ6"
+        },
+        {
+          "name": "Roger Vignoles",
+          "url": "https://open.spotify.com/artist/5XVtByLJ0QFGXg7MwG0YKZ"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 149026,
+      "name": "Debussy: 3 Chansons de Bilitis, L. 97: I. La Fl\u00fbte de Pan",
+      "url": "https://open.spotify.com/track/7lsQdLpf8jyLPGq1zDJtKH"
+    },
+    {
+      "album": {
+        "name": "Debussy: Sonatas and Piano Trio",
+        "url": "https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229786,
+      "name": "Debussy: Cello Sonata in D Minor, L. 135: I. Prologue",
+      "url": "https://open.spotify.com/track/4lbFG9bdGJO8z3ERHwxMyl"
+    },
+    {
+      "album": {
+        "name": "Debussy: Images & Children's Corner",
+        "url": "https://open.spotify.com/album/5zVsLnQ6yPHydWo8Pe7XpH"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Simon Trp\u010deski",
+          "url": "https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Debussy: Children's Corner, CD 119, L. 113: No. 3, Serenade for the Doll",
+      "url": "https://open.spotify.com/track/1qFelTJth8g0iPsqtSqPXi"
+    },
+    {
+      "album": {
+        "name": "Martha Argerich and Friends Live from the Lugano Festival 2015",
+        "url": "https://open.spotify.com/album/5VN6FapA9qZGXVGoApUrKf"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Stephen Kovacevich",
+          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Debussy: En blanc et noir, pour piano \u00e0 quatre mains, CD 142, L. 134: I. Avec emportement (Live)",
+      "url": "https://open.spotify.com/track/55p8usSB1X20vzeS8RQgzH"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/4166fqGvG8SQrxkX3Zg7yq"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Ren\u00e9 Duch\u00e2ble",
+          "url": "https://open.spotify.com/artist/71614brq8tRSUF55BGFIlR"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442266,
+      "name": "Debussy: Fantaisie for Piano and Orchestra, CD 72, L. 73: I. Andante - Allegro",
+      "url": "https://open.spotify.com/track/1I3dhZcmI5Eu98vEfb9g9d"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/4166fqGvG8SQrxkX3Zg7yq"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Ren\u00e9 Duch\u00e2ble",
+          "url": "https://open.spotify.com/artist/71614brq8tRSUF55BGFIlR"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        },
+        {
+          "name": "Orchestre Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/5fzSy6oTpL9NifxnEd9rBb"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 401706,
+      "name": "Debussy: Fantaisie for Piano and Orchestra, L. 72b: III Allegro molto (Second Version)",
+      "url": "https://open.spotify.com/track/5r2nbIFkimezrToTyLBQCw"
+    },
+    {
+      "album": {
+        "name": "Debussy: Sonatas and Piano Trio",
+        "url": "https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        },
+        {
+          "name": "Edgar Moreau",
+          "url": "https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Debussy: Piano Trio in G Major, CD 5, L. 3: III. Andante espressivo",
+      "url": "https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL"
+    },
+    {
+      "album": {
+        "name": "Debussy: Sonatas and Piano Trio",
+        "url": "https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496066,
+      "name": "Debussy: Piano Trio in G Major, L. 5: I. Andantino con moto allegro",
+      "url": "https://open.spotify.com/track/0q3gYSY1xn5JjmaFsiblHl"
+    },
+    {
+      "album": {
+        "name": "Debussy: Sonatas and Piano Trio",
+        "url": "https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192573,
+      "name": "Debussy: Piano Trio in G Major, L. 5: II. Scherzo - Intermezzo - Moderato con allegro",
+      "url": "https://open.spotify.com/track/33Rc0lbQc5w45w9ASaG9oP"
+    },
+    {
+      "album": {
+        "name": "Debussy: Sonatas and Piano Trio",
+        "url": "https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313573,
+      "name": "Debussy: Piano Trio in G Major, L. 5: IV. Finale - Appassionato",
+      "url": "https://open.spotify.com/track/2sdhgaUlGB4WhHAw15GSwg"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes, Book 1 - Satie: 3 Gymnop\u00e9dies & 6 Gnossiennes",
+        "url": "https://open.spotify.com/album/1llL7D4K2EuSUHJ5CXj17r"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246453,
+      "name": "Debussy: Preludes, Book 1, L. 117: II. Voiles",
+      "url": "https://open.spotify.com/track/4tHjDWRTJCNcsZyN3qohXS"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes, Book 1 - Satie: 3 Gymnop\u00e9dies & 6 Gnossiennes",
+        "url": "https://open.spotify.com/album/1llL7D4K2EuSUHJ5CXj17r"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Faz\u0131l Say",
+          "url": "https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155160,
+      "name": "Debussy: Preludes, Book 1, L. 117: V. Les collines d'Anacapri",
+      "url": "https://open.spotify.com/track/1bkDCG0kw4zgjMHpewwnVQ"
+    },
+    {
+      "album": {
+        "name": "Debussy, Dutilleux & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/00PgELS3TnenZZtCeWqSFG"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Belcea Quartet",
+          "url": "https://open.spotify.com/artist/3w7DwDLRBfI6SfZnLVj7AB"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "Debussy: String Quartet in G Minor, Op. 10, CD 91, L. 85: I. Anim\u00e9 et tr\u00e8s d\u00e9cid\u00e9",
+      "url": "https://open.spotify.com/track/7xVe34ISJHMWoMQm2pthok"
+    },
+    {
+      "album": {
+        "name": "Debussy, Dutilleux & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/00PgELS3TnenZZtCeWqSFG"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Belcea Quartet",
+          "url": "https://open.spotify.com/artist/3w7DwDLRBfI6SfZnLVj7AB"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Debussy: String Quartet in G Minor, Op. 10, CD 91, L. 85: II. Assez vif et bien rythm\u00e9",
+      "url": "https://open.spotify.com/track/7LBJq7x5egGaaF8NkWMVq7"
+    },
+    {
+      "album": {
+        "name": "Debussy: Estampes; Pour le piano; 6 \u00e9pigraphes antiques",
+        "url": "https://open.spotify.com/album/7jCCOwIktM4dGS6YfQuqTq"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368533,
+      "name": "Estampes, L. 100: I. Pagodes (mod\u00e9r\u00e9ment anim\u00e9)",
+      "url": "https://open.spotify.com/track/05utSpK1EFNOnj98Aqy5Si"
+    },
+    {
+      "album": {
+        "name": "Autumn Nights: Debussy",
+        "url": "https://open.spotify.com/album/6gVzDDUjje0PNUj5TXjXu7"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 142000,
+      "name": "Hommage \u00e0 Haydn, L. 115",
+      "url": "https://open.spotify.com/track/0dpGfwbLftKH6sRpkjZGUz"
+    },
+    {
+      "album": {
+        "name": "Debussy: Images Books 1 & 2/Arabesques/R\u00eaverie etc.",
+        "url": "https://open.spotify.com/album/02JTufCkm8BKjqwHVDlvJr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Hommage \u00e0 Haydn, L. 115",
+      "url": "https://open.spotify.com/track/1YcK1A1oCoHFTf4jgVQE50"
+    },
+    {
+      "album": {
+        "name": "The Debussy Edition",
+        "url": "https://open.spotify.com/album/65YLzvhQgye36MsOVkHd1Y"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142706,
+      "name": "Hommage \u00e0 Haydn, L. 115",
+      "url": "https://open.spotify.com/track/5VK4Z6CU4qVCBEiOtkCAi9"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune; Nocturnes; Images",
+        "url": "https://open.spotify.com/album/6A8FwTpvzYMNFBzqsTUV5I"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Pierre Monteux",
+          "url": "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 431013,
+      "name": "Images For Orchestra, L. 122 / 2. Ib\u00e9ria: 1. Par les rues et par les chemins",
+      "url": "https://open.spotify.com/track/1GC6iDuEKiWhmaPyydzp7S"
+    },
+    {
+      "album": {
+        "name": "Debussy",
+        "url": "https://open.spotify.com/album/2hp2fmMa8Av2CKnTx8B5yS"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Pierre Monteux",
+          "url": "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431013,
+      "name": "Images For Orchestra, L. 122 / 2. Ib\u00e9ria: 1. Par les rues et par les chemins",
+      "url": "https://open.spotify.com/track/2r5k34u94dT3HvexVNoKp7"
+    },
+    {
+      "album": {
+        "name": "A Soundtrack for Walking: Debussy",
+        "url": "https://open.spotify.com/album/5kXaW2mAphWO0VDz1p7sOZ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Pierre Monteux",
+          "url": "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 431013,
+      "name": "Images For Orchestra, L. 122 / 2. Ib\u00e9ria: 1. Par les rues et par les chemins",
+      "url": "https://open.spotify.com/track/3c9Ho7kBlBaJp52msxMJtp"
+    },
+    {
+      "album": {
+        "name": "A Soundtrack for Walking: Debussy",
+        "url": "https://open.spotify.com/album/2czCt66HYxawAJ0RNnnScS"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Pierre Monteux",
+          "url": "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 431013,
+      "name": "Images For Orchestra, L. 122 / 2. Ib\u00e9ria: 1. Par les rues et par les chemins",
+      "url": "https://open.spotify.com/track/5EEwLIBELv64BIyDe5koBR"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1GLsfbRuuxJxbg8Vm0Cuv2"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 425626,
+      "name": "Images pour orchestre, L. 122: No. 2, Iberia: Par les rues et par les chemins -",
+      "url": "https://open.spotify.com/track/5o3xSh8Z9IVIQPpAdRjpN4"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1GLsfbRuuxJxbg8Vm0Cuv2"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 485506,
+      "name": "Images pour orchestre, L. 122: No. 3, Rondes de printemps",
+      "url": "https://open.spotify.com/track/6YgRkFU1RNps1CsRvZrZ7e"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 3",
+        "url": "https://open.spotify.com/album/7GTFbtieJYQdKGefASmlW7"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320293,
+      "name": "Images, Book 1, L. 110: No. 1, Reflets dans l'eau",
+      "url": "https://open.spotify.com/track/3NEePlNYUkEW3Ur8H3AVPe"
+    },
+    {
+      "album": {
+        "name": "Art & Music: Monet - Music of His Time",
+        "url": "https://open.spotify.com/album/69j9vxpGJnhcl9Zcq1MeSD"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 315360,
+      "name": "Images, Book 1: No. 1. Reflets dans l'eau (Reflections in the water)",
+      "url": "https://open.spotify.com/track/65uDWBe68zKrqYse3Yd6A7"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Works, Vol. 3",
+        "url": "https://open.spotify.com/album/5pAmz12nOEt3R1wbSnSbBg"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320293,
+      "name": "Images, Book 1: No. 1. Reflets dans l'eau (Reflections in the water)",
+      "url": "https://open.spotify.com/track/7bUIMBHbFjZ9ZcEWcMalzh"
+    },
+    {
+      "album": {
+        "name": "Debussy: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 425626,
+      "name": "Images: No. 2. Iberia: Par les rues et par les chemins -",
+      "url": "https://open.spotify.com/track/3kIayHBQCjQrUgus7ng5TE"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1l4raAwI399j2Cq3Hitsps"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425626,
+      "name": "Images: No. 2. Iberia: Par les rues et par les chemins -",
+      "url": "https://open.spotify.com/track/6XFeHVVePTjhSgdL3sECTN"
+    },
+    {
+      "album": {
+        "name": "Debussy: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 485506,
+      "name": "Images: No. 3. Rondes de printemps",
+      "url": "https://open.spotify.com/track/1uNcmmg8nNCSFbMjAz1xmx"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1l4raAwI399j2Cq3Hitsps"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485506,
+      "name": "Images: No. 3. Rondes de printemps",
+      "url": "https://open.spotify.com/track/2wRZsRMlNPhp3DXBo8Y7ns"
+    },
+    {
+      "album": {
+        "name": "Debussy",
+        "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375186,
+      "name": "L'isle joyeuse, L. 106",
+      "url": "https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa"
+    },
+    {
+      "album": {
+        "name": "Jeux, La Boite A Joujoux, Prelude A L'Apres Midi D'Un Faune",
+        "url": "https://open.spotify.com/album/6vlVXvipNeWgRf3WkZHTej"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662040,
+      "name": "La bo\u00eete \u00e0 joujoux, L. 128: I. Le magasin de jouets",
+      "url": "https://open.spotify.com/track/4ceNa5kkIOckvN2cR8PXwA"
+    },
+    {
+      "album": {
+        "name": "Jeux, La Boite A Joujoux, Prelude A L'Apres Midi D'Un Faune",
+        "url": "https://open.spotify.com/album/6vlVXvipNeWgRf3WkZHTej"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428573,
+      "name": "La bo\u00eete \u00e0 joujoux, L. 128: III. La bergerie \u00e0 vendre",
+      "url": "https://open.spotify.com/track/2vqpvRc2fOowGpcMoauBY1"
+    },
+    {
+      "album": {
+        "name": "Jeux, La Boite A Joujoux, Prelude A L'Apres Midi D'Un Faune",
+        "url": "https://open.spotify.com/album/6vlVXvipNeWgRf3WkZHTej"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96400,
+      "name": "La bo\u00eete \u00e0 joujoux, L. 128: \u00c9pilogue",
+      "url": "https://open.spotify.com/track/6FZ18Qgmi9yAlXZ3vYm0ax"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "La Fille aux cheveux de lin, L. 117",
+      "url": "https://open.spotify.com/track/35DU3XqGKvHCPDh8PPv8sD"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/6g1fmfWxKFdqwEWgejHAvx"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425520,
+      "name": "La mer, L. 109: II. Jeux de vagues",
+      "url": "https://open.spotify.com/track/5NG6Zg4J9aUWpWE7ptaDXj"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/7uDEkotJBcyemDwEhXPW5T"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 425520,
+      "name": "La mer, L. 109: II. Jeux de vagues",
+      "url": "https://open.spotify.com/track/7qFSRL5gr06q2wBwMND1Y7"
+    },
+    {
+      "album": {
+        "name": "Debussy: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 425520,
+      "name": "La mer: No. 2. Jeux de vagues",
+      "url": "https://open.spotify.com/track/1KmejtfBQxGTjdzeeJhiBw"
+    },
+    {
+      "album": {
+        "name": "Debussy: Nocturnes, L. 91, La damoiselle \u00e9lue, L. 62 & Le martyre de saint S\u00e9bastien, L. 124",
+        "url": "https://open.spotify.com/album/3UhETw5JjwFnbCVU7bhe2s"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "Le martyre de saint S\u00e9bastien, Fragments symphoniques, L. 124: No. 1, La cour de lys",
+      "url": "https://open.spotify.com/track/0NRgB8PqxCblIH7B7WfDBO"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9lude \u00e0 l'apr\u00e9s-midi d'un faune; Trois Nocturnes; Pell\u00e9as et M\u00e9lisande Suite",
+        "url": "https://open.spotify.com/album/2P2SSKhBOR1X6wAZ3vZO7Z"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 375773,
+      "name": "Nocturnes, L. 91: 2. F\u00eates",
+      "url": "https://open.spotify.com/track/12UQFcARHb8f6q8wLYOKoG"
+    },
+    {
+      "album": {
+        "name": "Classic Collection - Debussy, C: La Mer / Nocturnes / Prelude A L'Apres-Midi D'Un Faune / Petite Suite / La Boite A Joujoux",
+        "url": "https://open.spotify.com/album/5aHS3BRNJttVDvfAH8Jk0r"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "MDR Leipzig Radio Chorus",
+          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
+        },
+        {
+          "name": "Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3lUTFoSxhZ8fIwmOnNGXwt"
+        },
+        {
+          "name": "Max Pommer",
+          "url": "https://open.spotify.com/artist/7KTFZSAt2pE7UwCLseG81I"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 497400,
+      "name": "Nocturnes, L. 91: No. 1, Nuages",
+      "url": "https://open.spotify.com/track/78PC78DlQ37gZapLI11JOg"
+    },
+    {
+      "album": {
+        "name": "Classic Collection - Debussy, C: La Mer / Nocturnes / Prelude A L'Apres-Midi D'Un Faune / Petite Suite / La Boite A Joujoux",
+        "url": "https://open.spotify.com/album/7qNSh0kQC1BG72uQCScorB"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "MDR Leipzig Radio Chorus",
+          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
+        },
+        {
+          "name": "Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3lUTFoSxhZ8fIwmOnNGXwt"
+        },
+        {
+          "name": "Max Pommer",
+          "url": "https://open.spotify.com/artist/7KTFZSAt2pE7UwCLseG81I"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497400,
+      "name": "Nocturnes: No. 1. Nuages",
+      "url": "https://open.spotify.com/track/0Fu7Fy14fmBjWHxp23YfhA"
+    },
+    {
+      "album": {
+        "name": "Passion: Most Famous Orchestal Spectaculars - Debussy: La Mer - Nocturnes & Prelude To The Afternoon Of A Faun",
+        "url": "https://open.spotify.com/album/6ZA9aSzCzqPZ5N1sEpzsp8"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3lUTFoSxhZ8fIwmOnNGXwt"
+        },
+        {
+          "name": "Max Pommer",
+          "url": "https://open.spotify.com/artist/7KTFZSAt2pE7UwCLseG81I"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 496333,
+      "name": "Nocturnes: Symphonic Triptych For Orchestra And Chorus - Clouds",
+      "url": "https://open.spotify.com/track/23ryjvC8IvQeUHGx5iOJ06"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pell\u00e9as et M\u00e9lisande",
+        "url": "https://open.spotify.com/album/2di2PTy22oLL6jU9PASpDe"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 746600,
+      "name": "Pell\u00e9as et M\u00e9lisande, L. 88: Act I: Scene I, Une for\u00eat \"Je ne pourrai plus sortir de cette for\u00eat\"",
+      "url": "https://open.spotify.com/track/3J0Z89yUwyoMC6Tph95Xj6"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/28JrlwnGD3nKrUTmWoShwW"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227973,
+      "name": "Petite suite, L. 65: No. 1, En bateau (Orch. H. Buser)",
+      "url": "https://open.spotify.com/track/4zCxFnvD9HWIaDPImLSOq4"
+    },
+    {
+      "album": {
+        "name": "The Sea in Music",
+        "url": "https://open.spotify.com/album/20ebGSWoN3s5zr334ebcdQ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Henri B\u00fcsser",
+          "url": "https://open.spotify.com/artist/1fwyJSa1gMDMKqsn6BLGBp"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227973,
+      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra)",
+      "url": "https://open.spotify.com/track/3VmwyP84cYuq1Ha8vh9VpL"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Henri B\u00fcsser",
+          "url": "https://open.spotify.com/artist/1fwyJSa1gMDMKqsn6BLGBp"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra): I. En bateau",
+      "url": "https://open.spotify.com/track/3rL2blyeOBnUBq3yYA1KcE"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9lude \u00e0 l'apr\u00e8s-midi d'un faune, La mer & Jeux",
+        "url": "https://open.spotify.com/album/6gH1Exwegyqrb1jDnG6Ug9"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 705512,
+      "name": "Prelude a l'apres-midi d'un faune, L. 86",
+      "url": "https://open.spotify.com/track/4eY2bxGE2ykwefZ3adjetE"
+    },
+    {
+      "album": {
+        "name": "Debussy (The Very Best Of)",
+        "url": "https://open.spotify.com/album/6NRZI5JVcgjQoar3eEMvSz"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351133,
+      "name": "Preludes, Book 1: No. 10. La cathedrale engloutie (The sunken cathedral)",
+      "url": "https://open.spotify.com/track/2QflZ6CHNhegVZcOXLAlPw"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Music, Vol. 4 - Preludes, Books 1 and 2",
+        "url": "https://open.spotify.com/album/463iHZYV6jqDUVWJCAtLli"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352026,
+      "name": "Preludes, Book 1: No. 10: La cathedrale engloutie",
+      "url": "https://open.spotify.com/track/5UV0qwd8kE1Mnq6OKK2mue"
+    },
+    {
+      "album": {
+        "name": "Debussy (The Very Best Of)",
+        "url": "https://open.spotify.com/album/6NRZI5JVcgjQoar3eEMvSz"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 128560,
+      "name": "Preludes, Book 1: No. 12. Minstrels",
+      "url": "https://open.spotify.com/track/5HkzCrrZML6mQ8FpGNetH5"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Music, Vol. 4 - Preludes, Books 1 and 2",
+        "url": "https://open.spotify.com/album/463iHZYV6jqDUVWJCAtLli"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "Preludes, Book 1: No. 12: Minstrels",
+      "url": "https://open.spotify.com/track/2oWssoQZzx2Jkf0XArAYYS"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/3HAxkTZlKYzaB1OeKqOI3c"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Francesco Piemontesi",
+          "url": "https://open.spotify.com/artist/1snFy8CL2AGHTrQiWcvQR2"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "Preludes, L. 123, Book II: II. Feuilles mortes",
+      "url": "https://open.spotify.com/track/33L1CeBG99GEw08R1Rxsmr"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes",
+        "url": "https://open.spotify.com/album/3HAxkTZlKYzaB1OeKqOI3c"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Francesco Piemontesi",
+          "url": "https://open.spotify.com/artist/1snFy8CL2AGHTrQiWcvQR2"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Preludes, L. 123, Book II: V. Bruy\u00e8res",
+      "url": "https://open.spotify.com/track/5XXcbdqH3sLRCtAAk4WPmI"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/0aPPdRFxy4wAuedoO02pRV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "Pr\u00e9ludes - Book 2, L.123: 10. Canope",
+      "url": "https://open.spotify.com/track/5qNJQ1AAFa6Dcj8HriGWOH"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/0aPPdRFxy4wAuedoO02pRV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Pr\u00e9ludes - Book 2, L.123: 11. Les tierces altern\u00e9es",
+      "url": "https://open.spotify.com/track/1WCcz5d39LWAHyqmAxfqjW"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/0aPPdRFxy4wAuedoO02pRV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "Pr\u00e9ludes - Book 2, L.123: 6. \"General Lavine\" - eccentric",
+      "url": "https://open.spotify.com/track/6VoZLvtdR4aRyiTy4zf4Nb"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/0aPPdRFxy4wAuedoO02pRV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Pr\u00e9ludes - Book 2, L.123: 7. La terrasse des audiences du clair de lune",
+      "url": "https://open.spotify.com/track/27WTvg8dL8CaMyg5kgrYZN"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/0aPPdRFxy4wAuedoO02pRV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Pr\u00e9ludes - Book 2, L.123: 8. Ondine",
+      "url": "https://open.spotify.com/track/4Jh7WUSJsfFKZtaGlGQy4m"
+    },
+    {
+      "album": {
+        "name": "Claude Debussy",
+        "url": "https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151440,
+      "name": "Pr\u00e9ludes / Book 1, L. 117: VIII. La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/5NAIQcA3vCUOC9AxNteyfD"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/0IB9q0Paqhbvm141lWL3Hr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 352026,
+      "name": "Pr\u00e9ludes, Book 1, L. 117: No. 10, La cath\u00e9drale engloutie",
+      "url": "https://open.spotify.com/track/0SZo3FSQ7S3uvDzYAwsgZp"
+    },
+    {
+      "album": {
+        "name": "Debussy: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/0IB9q0Paqhbvm141lWL3Hr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130093,
+      "name": "Pr\u00e9ludes, Book 1, L. 117: No. 12, Minstrels",
+      "url": "https://open.spotify.com/track/60KJS93iCTUt1vL7uNwwbr"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes & Children's Corner",
+        "url": "https://open.spotify.com/album/3n3umLoHmmI84D3gPO1Y0u"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paavali Jumppanen",
+          "url": "https://open.spotify.com/artist/2JJt1fJt5ORY0mCtYADW5N"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257732,
+      "name": "Pr\u00e9ludes, Book 1, L. 117: No. 6, Des pas sur la neige",
+      "url": "https://open.spotify.com/track/1zIzysunKc1KAqdA11AGmF"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes & Children's Corner",
+        "url": "https://open.spotify.com/album/3k3CQZWtkCm8bVurrw6H1Z"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paavali Jumppanen",
+          "url": "https://open.spotify.com/artist/2JJt1fJt5ORY0mCtYADW5N"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257732,
+      "name": "Pr\u00e9ludes, Book 1, L. 117: No. 6, Des pas sur la neige",
+      "url": "https://open.spotify.com/track/2keOLW9QTdPQZCqemb3PvZ"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes & Children's Corner",
+        "url": "https://open.spotify.com/album/3k3CQZWtkCm8bVurrw6H1Z"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paavali Jumppanen",
+          "url": "https://open.spotify.com/artist/2JJt1fJt5ORY0mCtYADW5N"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295777,
+      "name": "Pr\u00e9ludes, Book 2, L. 123: No. 12, Feux d'artifice",
+      "url": "https://open.spotify.com/track/0Ti94IweT3up4u8Kaq0xlf"
+    },
+    {
+      "album": {
+        "name": "Debussy: Pr\u00e9ludes & Children's Corner",
+        "url": "https://open.spotify.com/album/3n3umLoHmmI84D3gPO1Y0u"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paavali Jumppanen",
+          "url": "https://open.spotify.com/artist/2JJt1fJt5ORY0mCtYADW5N"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295777,
+      "name": "Pr\u00e9ludes, Book 2, L. 123: No. 12, Feux d'artifice",
+      "url": "https://open.spotify.com/track/2k0FLtuTBYwGGyvNQ66Eqo"
+    },
+    {
+      "album": {
+        "name": "Debussy Piano Edition",
+        "url": "https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "R\u00eaverie, L. 68: R\u00eaverie",
+      "url": "https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 294960,
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx"
+    },
+    {
+      "album": {
+        "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
+        "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/26KykHLogeIep4OrurliDS"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Tony Finno",
+          "url": "https://open.spotify.com/artist/1jmB0TSy13Ay5DNmNKpVU3"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250413,
+      "name": "Symphony in B Minor (arr. T. Finno for orchestra): I. Allegro ben marcato",
+      "url": "https://open.spotify.com/track/7xmWJYNnSFnMqMVdKPHRq0"
+    },
+    {
+      "album": {
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Tony Finno",
+          "url": "https://open.spotify.com/artist/1jmB0TSy13Ay5DNmNKpVU3"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "Symphony in B Minor (arr. T. Finno for orchestra): II. Un poco lento, cantabile",
+      "url": "https://open.spotify.com/track/0YNY0I3Hkspqe2NlhuWAQu"
+    },
+    {
+      "album": {
+        "name": "French Violin Sonatas",
+        "url": "https://open.spotify.com/album/6WNU2iBWLZyLu9RMmAeNFj"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        }
+      ],
+      "date_added": "2020-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 292466,
+      "name": "Violin Sonata in G Minor: I. Allegro vivo",
+      "url": "https://open.spotify.com/track/1HiZmYO2nTKI71vLKy9usk"
+    },
+    {
+      "album": {
+        "name": "French Violin Sonatas",
+        "url": "https://open.spotify.com/album/6PNmFsAnmtoJGeTQ7I7RFK"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Dong-Suk Kang",
+          "url": "https://open.spotify.com/artist/0WCoABe0nCuX2ffSdYkU6c"
+        },
+        {
+          "name": "Pascal Devoyon",
+          "url": "https://open.spotify.com/artist/62LQUUl6THxN3wFMqmSx08"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "Violin Sonata in G Minor: I. Allegro vivo",
+      "url": "https://open.spotify.com/track/6zRFaAS5BU6nys6gyzhtS3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXnRw5VvmZDb"
 }

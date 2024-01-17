@@ -1,178 +1,1299 @@
 {
-  "2023-07-10": 156902,
-  "2023-07-11": 156933,
-  "2023-07-12": 156966,
-  "2023-07-13": 156998,
-  "2023-07-14": 157032,
-  "2023-07-15": 157063,
-  "2023-07-16": 157094,
-  "2023-07-17": 157127,
-  "2023-07-18": 157166,
-  "2023-07-19": 157221,
-  "2023-07-20": 157263,
-  "2023-07-21": 157314,
-  "2023-07-22": 157343,
-  "2023-07-23": 157377,
-  "2023-07-24": 157397,
-  "2023-07-25": 157431,
-  "2023-07-26": 157464,
-  "2023-07-27": 157507,
-  "2023-07-28": 157566,
-  "2023-07-29": 157612,
-  "2023-07-30": 157649,
-  "2023-07-31": 157699,
-  "2023-08-01": 157750,
-  "2023-08-02": 157798,
-  "2023-08-03": 157829,
-  "2023-08-04": 157875,
-  "2023-08-05": 157903,
-  "2023-08-06": 157966,
-  "2023-08-07": 157966,
-  "2023-08-08": 158012,
-  "2023-08-09": 158059,
-  "2023-08-10": 158102,
-  "2023-08-11": 158139,
-  "2023-08-12": 158139,
-  "2023-08-13": 158139,
-  "2023-08-14": 158237,
-  "2023-08-15": 158237,
-  "2023-08-16": 158237,
-  "2023-08-17": 158331,
-  "2023-08-18": 158331,
-  "2023-08-19": 158331,
-  "2023-08-20": 158453,
-  "2023-08-21": 158453,
-  "2023-08-22": 158523,
-  "2023-08-23": 158523,
-  "2023-08-24": 158523,
-  "2023-08-25": 158523,
-  "2023-08-26": 158658,
-  "2023-08-27": 158658,
-  "2023-08-28": 158729,
-  "2023-08-29": 158729,
-  "2023-08-30": 158729,
-  "2023-08-31": 158841,
-  "2023-09-01": 158897,
-  "2023-09-02": 158897,
-  "2023-09-03": 158979,
-  "2023-09-04": 158979,
-  "2023-09-05": 158979,
-  "2023-09-06": 159117,
-  "2023-09-07": 159117,
-  "2023-09-08": 159117,
-  "2023-09-09": 159117,
-  "2023-09-10": 159298,
-  "2023-09-11": 159298,
-  "2023-09-12": 159298,
-  "2023-09-13": 159416,
-  "2023-09-14": 159416,
-  "2023-09-15": 159416,
-  "2023-09-16": 159534,
-  "2023-09-17": 159534,
-  "2023-09-18": 159534,
-  "2023-09-19": 159822,
-  "2023-09-20": 159822,
-  "2023-09-21": 159822,
-  "2023-09-22": 159946,
-  "2023-09-23": 159946,
-  "2023-09-24": 159946,
-  "2023-09-25": 159946,
-  "2023-09-26": 160075,
-  "2023-09-27": 160075,
-  "2023-09-28": 160075,
-  "2023-09-29": 160075,
-  "2023-09-30": 160075,
-  "2023-10-01": 160075,
-  "2023-10-02": 160312,
-  "2023-10-03": 160312,
-  "2023-10-04": 160312,
-  "2023-10-05": 160426,
-  "2023-10-06": 160426,
-  "2023-10-07": 160426,
-  "2023-10-08": 160426,
-  "2023-10-09": 160426,
-  "2023-10-10": 160426,
-  "2023-10-11": 160317,
-  "2023-10-12": 160317,
-  "2023-10-13": 160317,
-  "2023-10-14": 160317,
-  "2023-10-15": 160317,
-  "2023-10-16": 160317,
-  "2023-10-17": 160317,
-  "2023-10-18": 160317,
-  "2023-10-19": 160317,
-  "2023-10-20": 160317,
-  "2023-10-21": 160317,
-  "2023-10-22": 160317,
-  "2023-10-23": 160317,
-  "2023-10-24": 160317,
-  "2023-10-25": 160317,
-  "2023-10-26": 160317,
-  "2023-10-27": 160317,
-  "2023-10-28": 160317,
-  "2023-10-29": 160317,
-  "2023-10-30": 160317,
-  "2023-10-31": 160317,
-  "2023-11-01": 160317,
-  "2023-11-02": 160317,
-  "2023-11-03": 160317,
-  "2023-11-04": 160317,
-  "2023-11-05": 160317,
-  "2023-11-06": 160317,
-  "2023-11-07": 160317,
-  "2023-11-08": 160317,
-  "2023-11-09": 160317,
-  "2023-11-10": 160317,
-  "2023-11-11": 160850,
-  "2023-11-12": 160850,
-  "2023-11-13": 160850,
-  "2023-11-14": 160850,
-  "2023-11-15": 160850,
-  "2023-11-16": 160850,
-  "2023-11-17": 160850,
-  "2023-11-18": 160850,
-  "2023-11-19": 160850,
-  "2023-11-20": 160850,
-  "2023-11-21": 160850,
-  "2023-11-22": 160850,
-  "2023-11-23": 160850,
-  "2023-11-24": 160850,
-  "2023-11-25": 160850,
-  "2023-11-26": 160850,
-  "2023-11-27": 160850,
-  "2023-11-28": 160850,
-  "2023-11-29": 160850,
-  "2023-11-30": 160850,
-  "2023-12-01": 160850,
-  "2023-12-02": 160850,
-  "2023-12-03": 160850,
-  "2023-12-04": 160850,
-  "2023-12-05": 160850,
-  "2023-12-06": 160850,
-  "2023-12-07": 160850,
-  "2023-12-08": 160850,
-  "2023-12-09": 160850,
-  "2023-12-10": 160850,
-  "2023-12-11": 160850,
-  "2023-12-12": 160850,
-  "2023-12-13": 160850,
-  "2023-12-14": 161570,
-  "2023-12-15": 161581,
-  "2023-12-16": 161601,
-  "2023-12-17": 161608,
-  "2023-12-18": 161620,
-  "2023-12-19": 161644,
-  "2023-12-20": 161665,
-  "2023-12-21": 161689,
-  "2023-12-22": 161693,
-  "2023-12-23": 161712,
-  "2023-12-24": 161728,
-  "2023-12-25": 161740,
-  "2023-12-26": 161751,
-  "2023-12-27": 161762,
-  "2023-12-30": 161802,
-  "2023-12-31": 161823,
-  "2024-01-01": 161823,
-  "2024-01-02": 161840,
-  "2024-01-03": 161862
+  "2024-01-17": 160569,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "name": "This Is Aline Barros",
+  "tracks": [
+    {
+      "album": {
+        "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
+        "url": "https://open.spotify.com/album/2zWbRGUOKL6S39wFpdd5zW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427365,
+      "name": "A B\u00ean\u00e7\u00e3o (The Blessing) (feat. Lukas Agustinho)",
+      "url": "https://open.spotify.com/track/2ei5FBkatI52VChwfJjRPC"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "A Dan\u00e7a do Quaquito",
+      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
+    },
+    {
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 252234,
+      "name": "Amen (Am\u00e9m)",
+      "url": "https://open.spotify.com/track/4BqBBL859cZTWGEwCVa99g"
+    },
+    {
+      "album": {
+        "name": "O Poder do Teu Amor",
+        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+    },
+    {
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+    },
+    {
+      "album": {
+        "name": "Autor da Vida",
+        "url": "https://open.spotify.com/album/4gHZbXybaO7k9sQducvAeN"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/2iCrDCZRIiqXkoRY6eDviQ"
+    },
+    {
+      "album": {
+        "name": "Autor de Vida (Autor da Vida)",
+        "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296578,
+      "name": "Autor de Vida (Autor da Vida)",
+      "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
+    },
+    {
+      "album": {
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286393,
+      "name": "Bem Mais Que Tudo",
+      "url": "https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK"
+    },
+    {
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368454,
+      "name": "Bem-Aventurado (Blessed)",
+      "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
+    },
+    {
+      "album": {
+        "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
+        "url": "https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
+      "url": "https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm"
+    },
+    {
+      "album": {
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240743,
+      "name": "Cantarei Desse Amor",
+      "url": "https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284862,
+      "name": "Casa do Pai",
+      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
+    },
+    {
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "album": {
+        "name": "Corra para os Bra\u00e7os do Pai (If This World) [Ao Vivo Em Paris]",
+        "url": "https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 289266,
+      "name": "Corra para os Bra\u00e7os do Pai (If This World) [Ao Vivo Em Paris]",
+      "url": "https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173267,
+      "name": "Dan\u00e7a do Canguru",
+      "url": "https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+    },
+    {
+      "album": {
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+    },
+    {
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355265,
+      "name": "Diante da Cruz (At the Cross)",
+      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "Digno \u00e9 o Senhor (Worthy Is The Lamb) - Ao Vivo",
+      "url": "https://open.spotify.com/track/66WaKTCLP5nUwOrwn7Oet0"
+    },
+    {
+      "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "album": {
+        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329586,
+      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 306527,
+      "name": "Ele \u00e9",
+      "url": "https://open.spotify.com/track/1DyTbkLa3Vwcn06YyjPTuY"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272741,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx"
+    },
+    {
+      "album": {
+        "name": "Eternidade",
+        "url": "https://open.spotify.com/album/18geYBOh1mkkyADKGYZJd2"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 292068,
+      "name": "Eternidade",
+      "url": "https://open.spotify.com/track/6iDmxlmZnSxgLA2JBDFbT4"
+    },
+    {
+      "album": {
+        "name": "Guarda Tua F\u00e9 (Ao Vivo Em Los Angeles)",
+        "url": "https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 250586,
+      "name": "Guarda Tua F\u00e9 (Ao Vivo Em Los Angeles)",
+      "url": "https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5"
+    },
+    {
+      "album": {
+        "name": "Habr\u00e1 Victoria",
+        "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247376,
+      "name": "Habr\u00e1 Victoria",
+      "url": "https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+    },
+    {
+      "album": {
+        "name": "Imensur\u00e1vel",
+        "url": "https://open.spotify.com/album/4G9RmSVTkpZWqXjdX6l8tX"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358557,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/3acR6F3KuMXVGTk9dwIrKB"
+    },
+    {
+      "album": {
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
+    },
+    {
+      "album": {
+        "name": "Jeov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390953,
+      "name": "Jeov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4"
+    },
+    {
+      "album": {
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250682,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj"
+    },
+    {
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Meu Melhor Amigo",
+      "url": "https://open.spotify.com/track/6apees47ViBG319vgVmYnJ"
+    },
+    {
+      "album": {
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 372720,
+      "name": "O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo",
+      "url": "https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf"
+    },
+    {
+      "album": {
+        "name": "Pai Presente",
+        "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293684,
+      "name": "Pai Presente",
+      "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Para Sempre Te Adorarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/7H7jSRnfa1N935jR0MlJKa"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+    },
+    {
+      "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
+    },
+    {
+      "album": {
+        "name": "El Poder De Tu Amor",
+        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 269640,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
+    },
+    {
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256441,
+      "name": "Primeira Ess\u00eancia (Jardim Particular)",
+      "url": "https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj"
+    },
+    {
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Nicolas Barros",
+          "url": "https://open.spotify.com/artist/1tRRhPZ76eosj8BXhLc9Dx"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Pula Pula",
+      "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252506,
+      "name": "Recome\u00e7ar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Thc7almZ2P5sHtx2AeImo"
+    },
+    {
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273488,
+      "name": "Redenci\u00f3n (Reden\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo"
+    },
+    {
+      "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307250,
+      "name": "Refinador (Refiner)",
+      "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "album": {
+        "name": "Rendido Estou (Arms Open Wide)",
+        "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462355,
+      "name": "Rendido Estou (Arms Open Wide)",
+      "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
+    },
+    {
+      "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Renova-Me - Ao Vivo",
+      "url": "https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR"
+    },
+    {
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
+    },
+    {
+      "album": {
+        "name": "Rompendo em F\u00e9",
+        "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Comunidade Evang\u00e9lica Internacional da Zona Sul",
+          "url": "https://open.spotify.com/artist/1NuQ2vlJpm8ZS9HfEOmB4j"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289459,
+      "name": "Rompendo em F\u00e9",
+      "url": "https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 160914,
+      "name": "Samuel",
+      "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
+    },
+    {
+      "album": {
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+    },
+    {
+      "album": {
+        "name": "Minha Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341962,
+      "name": "Sol da Justi\u00e7a",
+      "url": "https://open.spotify.com/track/0lQ4GwEPOT2mS4ClVpiLJ3"
+    },
+    {
+      "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 281173,
+      "name": "Sonda-Me - Ao Vivo",
+      "url": "https://open.spotify.com/track/05LEhK6vQi7SbdWguMm8Ti"
+    },
+    {
+      "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 281173,
+      "name": "Sonda-Me - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GHrsxy6V3FNNJxbsWo8xf"
+    },
+    {
+      "album": {
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367349,
+      "name": "Sonda-me Usa-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8"
+    },
+    {
+      "album": {
+        "name": "Aline Barros - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 239815,
+      "name": "Sonda-me, Usa-me",
+      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343666,
+      "name": "Te Adorar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0AwC67lMYvENDvORGIb15B"
+    },
+    {
+      "album": {
+        "name": "30 Anos (Vol. I)",
+        "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 295706,
+      "name": "Te Adorar \u00e9 meu Prazer (Ao Vivo Em Portugal)",
+      "url": "https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG"
+    },
+    {
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394924,
+      "name": "Te Adorar \u00e9 o Meu Prazer",
+      "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+    },
+    {
+      "album": {
+        "name": "Vivo Est\u00e1s",
+        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 392026,
+      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
+      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
+    },
+    {
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383968,
+      "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Vit\u00f3ria no Deserto",
+      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
+    },
+    {
+      "album": {
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0"
 }

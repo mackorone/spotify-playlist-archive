@@ -1,717 +1,1505 @@
 {
-  "2022-01-12": 631189,
-  "2022-01-13": 631542,
-  "2022-01-14": 631873,
-  "2022-01-15": 632819,
-  "2022-01-16": 632834,
-  "2022-01-17": 633368,
-  "2022-01-18": 633405,
-  "2022-01-19": 633623,
-  "2022-01-20": 633851,
-  "2022-01-21": 634058,
-  "2022-01-22": 634297,
-  "2022-01-23": 634524,
-  "2022-01-24": 634757,
-  "2022-01-25": 634917,
-  "2022-01-26": 635053,
-  "2022-01-27": 635240,
-  "2022-01-28": 635400,
-  "2022-01-29": 635615,
-  "2022-01-30": 635781,
-  "2022-01-31": 635940,
-  "2022-02-01": 636858,
-  "2022-02-02": 637024,
-  "2022-02-03": 637176,
-  "2022-02-04": 637305,
-  "2022-02-05": 637493,
-  "2022-02-06": 637677,
-  "2022-02-07": 637801,
-  "2022-02-08": 637965,
-  "2022-02-09": 638116,
-  "2022-02-10": 638241,
-  "2022-02-11": 638423,
-  "2022-02-12": 638636,
-  "2022-02-13": 638786,
-  "2022-02-14": 638909,
-  "2022-02-15": 639018,
-  "2022-02-16": 639119,
-  "2022-02-17": 639220,
-  "2022-02-18": 639333,
-  "2022-02-19": 639478,
-  "2022-02-20": 639622,
-  "2022-02-21": 639768,
-  "2022-02-22": 639905,
-  "2022-02-23": 640015,
-  "2022-02-24": 640147,
-  "2022-02-25": 640289,
-  "2022-02-26": 640437,
-  "2022-02-27": 640717,
-  "2022-02-28": 640717,
-  "2022-03-01": 640852,
-  "2022-03-02": 640951,
-  "2022-03-03": 641076,
-  "2022-03-04": 641204,
-  "2022-03-05": 641373,
-  "2022-03-06": 641519,
-  "2022-03-07": 641639,
-  "2022-03-08": 641757,
-  "2022-03-09": 641934,
-  "2022-03-10": 642082,
-  "2022-03-11": 642233,
-  "2022-03-12": 642386,
-  "2022-03-13": 642528,
-  "2022-03-14": 642662,
-  "2022-03-15": 642820,
-  "2022-03-16": 643000,
-  "2022-03-17": 643173,
-  "2022-03-18": 643507,
-  "2022-03-19": 643678,
-  "2022-03-20": 643678,
-  "2022-03-21": 644054,
-  "2022-03-22": 644198,
-  "2022-03-23": 644400,
-  "2022-03-24": 644613,
-  "2022-03-25": 644801,
-  "2022-03-26": 644960,
-  "2022-03-27": 645139,
-  "2022-03-28": 645264,
-  "2022-03-30": 645595,
-  "2022-03-31": 645766,
-  "2022-04-01": 645948,
-  "2022-04-02": 646129,
-  "2022-04-03": 646285,
-  "2022-04-04": 646424,
-  "2022-04-05": 646539,
-  "2022-04-06": 646696,
-  "2022-04-07": 646837,
-  "2022-04-08": 646980,
-  "2022-04-09": 647162,
-  "2022-04-10": 647494,
-  "2022-04-11": 647628,
-  "2022-04-12": 647638,
-  "2022-04-13": 647750,
-  "2022-04-14": 647888,
-  "2022-04-15": 648021,
-  "2022-04-16": 648157,
-  "2022-04-17": 648316,
-  "2022-04-18": 648436,
-  "2022-04-19": 648583,
-  "2022-04-20": 648735,
-  "2022-04-21": 648930,
-  "2022-04-22": 649079,
-  "2022-04-23": 649229,
-  "2022-04-24": 649408,
-  "2022-04-25": 649563,
-  "2022-04-26": 649712,
-  "2022-04-27": 649886,
-  "2022-04-28": 650002,
-  "2022-04-29": 650259,
-  "2022-04-30": 650394,
-  "2022-05-01": 650544,
-  "2022-05-02": 650544,
-  "2022-05-03": 650693,
-  "2022-05-04": 650830,
-  "2022-05-05": 650970,
-  "2022-05-06": 651140,
-  "2022-05-07": 651309,
-  "2022-05-08": 651532,
-  "2022-05-09": 651567,
-  "2022-05-10": 651717,
-  "2022-05-11": 651901,
-  "2022-05-12": 652027,
-  "2022-05-13": 652205,
-  "2022-05-14": 652380,
-  "2022-05-15": 652550,
-  "2022-05-16": 652674,
-  "2022-05-17": 652831,
-  "2022-05-18": 652975,
-  "2022-05-19": 653157,
-  "2022-05-20": 653305,
-  "2022-05-21": 653601,
-  "2022-05-22": 653601,
-  "2022-05-23": 653770,
-  "2022-05-24": 653910,
-  "2022-05-25": 654060,
-  "2022-05-26": 654223,
-  "2022-05-27": 654371,
-  "2022-05-28": 654519,
-  "2022-05-29": 654674,
-  "2022-05-30": 654810,
-  "2022-05-31": 654967,
-  "2022-06-01": 655299,
-  "2022-06-02": 655325,
-  "2022-06-03": 655532,
-  "2022-06-04": 655753,
-  "2022-06-05": 655940,
-  "2022-06-06": 656185,
-  "2022-06-07": 656422,
-  "2022-06-08": 656681,
-  "2022-06-09": 656857,
-  "2022-06-10": 657096,
-  "2022-06-11": 657347,
-  "2022-06-12": 657576,
-  "2022-06-13": 657803,
-  "2022-06-14": 658021,
-  "2022-06-15": 658222,
-  "2022-06-16": 658446,
-  "2022-06-17": 658629,
-  "2022-06-18": 658826,
-  "2022-06-19": 659340,
-  "2022-06-20": 659340,
-  "2022-06-21": 659600,
-  "2022-06-22": 659984,
-  "2022-06-23": 659984,
-  "2022-06-24": 660137,
-  "2022-06-25": 660330,
-  "2022-06-26": 660481,
-  "2022-06-27": 660639,
-  "2022-06-28": 660810,
-  "2022-06-29": 660958,
-  "2022-06-30": 661133,
-  "2022-07-01": 661333,
-  "2022-07-02": 661528,
-  "2022-07-03": 661724,
-  "2022-07-04": 661903,
-  "2022-07-05": 662068,
-  "2022-07-06": 662068,
-  "2022-07-07": 662431,
-  "2022-07-08": 662603,
-  "2022-07-09": 662835,
-  "2022-07-10": 663039,
-  "2022-07-11": 663181,
-  "2022-07-12": 663328,
-  "2022-07-13": 663483,
-  "2022-07-14": 663619,
-  "2022-07-15": 663783,
-  "2022-07-16": 663947,
-  "2022-07-17": 664146,
-  "2022-07-18": 664292,
-  "2022-07-19": 664427,
-  "2022-07-20": 664561,
-  "2022-07-21": 664678,
-  "2022-07-22": 664808,
-  "2022-07-23": 665022,
-  "2022-07-24": 665216,
-  "2022-07-25": 665407,
-  "2022-07-26": 665580,
-  "2022-07-27": 665770,
-  "2022-07-28": 665947,
-  "2022-07-29": 666107,
-  "2022-07-30": 666482,
-  "2022-07-31": 666482,
-  "2022-08-01": 666629,
-  "2022-08-02": 666885,
-  "2022-08-03": 666885,
-  "2022-08-04": 667020,
-  "2022-08-05": 667169,
-  "2022-08-06": 667331,
-  "2022-08-07": 667512,
-  "2022-08-08": 667648,
-  "2022-08-09": 667782,
-  "2022-08-10": 667928,
-  "2022-08-11": 668078,
-  "2022-08-12": 668237,
-  "2022-08-13": 668433,
-  "2022-08-14": 668600,
-  "2022-08-15": 668754,
-  "2022-08-16": 668916,
-  "2022-08-17": 669088,
-  "2022-08-18": 669252,
-  "2022-08-19": 669387,
-  "2022-08-20": 669570,
-  "2022-08-21": 669746,
-  "2022-08-22": 669900,
-  "2022-08-23": 670052,
-  "2022-08-24": 670232,
-  "2022-08-25": 670426,
-  "2022-08-26": 670685,
-  "2022-08-27": 671057,
-  "2022-08-28": 671353,
-  "2022-08-29": 671581,
-  "2022-08-30": 671600,
-  "2022-08-31": 671336,
-  "2022-09-01": 671055,
-  "2022-09-02": 670784,
-  "2022-09-03": 670155,
-  "2022-09-04": 669959,
-  "2022-09-05": 670025,
-  "2022-09-06": 670160,
-  "2022-09-07": 670325,
-  "2022-09-09": 670684,
-  "2022-09-10": 670861,
-  "2022-09-11": 671055,
-  "2022-09-12": 671253,
-  "2022-09-13": 671461,
-  "2022-09-15": 671902,
-  "2022-09-16": 672115,
-  "2022-09-17": 672357,
-  "2022-09-18": 672554,
-  "2022-09-19": 672708,
-  "2022-09-20": 672850,
-  "2022-09-21": 673022,
-  "2022-09-22": 673206,
-  "2022-09-23": 673386,
-  "2022-09-24": 673386,
-  "2022-09-25": 673721,
-  "2022-09-26": 673872,
-  "2022-09-27": 674036,
-  "2022-09-28": 674166,
-  "2022-09-29": 674329,
-  "2022-09-30": 674558,
-  "2022-10-01": 674769,
-  "2022-10-02": 674949,
-  "2022-10-03": 675111,
-  "2022-10-04": 675282,
-  "2022-10-05": 675444,
-  "2022-10-06": 675611,
-  "2022-10-07": 675818,
-  "2022-10-08": 676214,
-  "2022-10-09": 676745,
-  "2022-10-10": 676803,
-  "2022-10-11": 677054,
-  "2022-10-12": 677301,
-  "2022-10-13": 677538,
-  "2022-10-14": 677816,
-  "2022-10-15": 678158,
-  "2022-10-16": 678427,
-  "2022-10-17": 678639,
-  "2022-10-18": 678835,
-  "2022-10-19": 679012,
-  "2022-10-20": 679173,
-  "2022-10-21": 679363,
-  "2022-10-22": 679579,
-  "2022-10-23": 679776,
-  "2022-10-24": 679941,
-  "2022-10-25": 680124,
-  "2022-10-26": 680302,
-  "2022-10-27": 680455,
-  "2022-10-28": 680663,
-  "2022-10-29": 680865,
-  "2022-10-30": 681027,
-  "2022-10-31": 681165,
-  "2022-11-01": 681317,
-  "2022-11-02": 681469,
-  "2022-11-03": 681630,
-  "2022-11-04": 681808,
-  "2022-11-05": 682002,
-  "2022-11-06": 682163,
-  "2022-11-07": 682318,
-  "2022-11-08": 682460,
-  "2022-11-09": 682660,
-  "2022-11-10": 682821,
-  "2022-11-11": 683011,
-  "2022-11-12": 683227,
-  "2022-11-13": 683363,
-  "2022-11-14": 683500,
-  "2022-11-15": 683697,
-  "2022-11-16": 683852,
-  "2022-11-17": 684024,
-  "2022-11-18": 684046,
-  "2022-11-19": 684067,
-  "2022-11-20": 684207,
-  "2022-11-21": 684356,
-  "2022-11-22": 684494,
-  "2022-11-23": 684617,
-  "2022-11-24": 684927,
-  "2022-11-25": 685180,
-  "2022-11-26": 685364,
-  "2022-11-27": 685518,
-  "2022-11-28": 685658,
-  "2022-11-29": 685824,
-  "2022-11-30": 686000,
-  "2022-12-01": 686190,
-  "2022-12-02": 686327,
-  "2022-12-03": 686560,
-  "2022-12-04": 686732,
-  "2022-12-05": 686886,
-  "2022-12-06": 687056,
-  "2022-12-07": 687198,
-  "2022-12-08": 687383,
-  "2022-12-09": 687558,
-  "2022-12-10": 687733,
-  "2022-12-11": 687850,
-  "2022-12-12": 688037,
-  "2022-12-13": 688179,
-  "2022-12-14": 688357,
-  "2022-12-15": 688498,
-  "2022-12-16": 688646,
-  "2022-12-17": 688841,
-  "2022-12-18": 688993,
-  "2022-12-19": 689107,
-  "2022-12-20": 689376,
-  "2022-12-21": 689376,
-  "2022-12-22": 689555,
-  "2022-12-24": 689946,
-  "2022-12-25": 690089,
-  "2022-12-26": 690214,
-  "2022-12-27": 690380,
-  "2022-12-28": 690570,
-  "2022-12-29": 690782,
-  "2022-12-30": 690962,
-  "2022-12-31": 691174,
-  "2023-01-01": 691360,
-  "2023-01-02": 691524,
-  "2023-01-03": 691734,
-  "2023-01-04": 691926,
-  "2023-01-05": 692139,
-  "2023-01-06": 692394,
-  "2023-01-07": 692740,
-  "2023-01-08": 692787,
-  "2023-01-09": 692968,
-  "2023-01-10": 693243,
-  "2023-01-11": 693513,
-  "2023-01-12": 693803,
-  "2023-01-13": 694072,
-  "2023-01-14": 694596,
-  "2023-01-15": 694639,
-  "2023-01-16": 694863,
-  "2023-01-17": 695175,
-  "2023-01-18": 695527,
-  "2023-01-19": 695896,
-  "2023-01-20": 696348,
-  "2023-01-21": 696744,
-  "2023-01-22": 697147,
-  "2023-01-23": 697576,
-  "2023-01-24": 698075,
-  "2023-01-25": 698611,
-  "2023-01-26": 698979,
-  "2023-01-27": 699268,
-  "2023-01-28": 699541,
-  "2023-01-29": 699789,
-  "2023-01-30": 699982,
-  "2023-01-31": 699982,
-  "2023-02-01": 700391,
-  "2023-02-02": 700600,
-  "2023-02-03": 700820,
-  "2023-02-04": 701039,
-  "2023-02-05": 701228,
-  "2023-02-06": 701440,
-  "2023-02-07": 701603,
-  "2023-02-08": 701939,
-  "2023-02-09": 701939,
-  "2023-02-10": 702105,
-  "2023-02-11": 702326,
-  "2023-02-12": 702669,
-  "2023-02-13": 702823,
-  "2023-02-14": 702823,
-  "2023-02-15": 702999,
-  "2023-02-16": 703174,
-  "2023-02-17": 703353,
-  "2023-02-18": 703785,
-  "2023-02-19": 703817,
-  "2023-02-20": 703950,
-  "2023-02-21": 704115,
-  "2023-02-22": 704248,
-  "2023-02-23": 704410,
-  "2023-02-24": 704650,
-  "2023-02-25": 704957,
-  "2023-02-26": 705126,
-  "2023-02-27": 705553,
-  "2023-02-28": 705553,
-  "2023-03-01": 705734,
-  "2023-03-02": 705922,
-  "2023-03-03": 706126,
-  "2023-03-04": 706339,
-  "2023-03-05": 706721,
-  "2023-03-06": 706721,
-  "2023-03-07": 706900,
-  "2023-03-08": 707102,
-  "2023-03-09": 707254,
-  "2023-03-10": 707453,
-  "2023-03-11": 707665,
-  "2023-03-12": 707883,
-  "2023-03-13": 708077,
-  "2023-03-14": 708238,
-  "2023-03-15": 708439,
-  "2023-03-16": 708439,
-  "2023-03-17": 708439,
-  "2023-03-18": 709016,
-  "2023-03-19": 709016,
-  "2023-03-20": 709335,
-  "2023-03-21": 709528,
-  "2023-03-22": 709699,
-  "2023-03-23": 709896,
-  "2023-03-24": 709896,
-  "2023-03-25": 710281,
-  "2023-03-26": 710499,
-  "2023-03-27": 710662,
-  "2023-03-28": 710809,
-  "2023-03-29": 711017,
-  "2023-03-30": 711337,
-  "2023-03-31": 711337,
-  "2023-04-01": 711565,
-  "2023-04-02": 711741,
-  "2023-04-03": 711907,
-  "2023-04-04": 712097,
-  "2023-04-05": 712253,
-  "2023-04-06": 712464,
-  "2023-04-07": 712679,
-  "2023-04-09": 713073,
-  "2023-04-10": 713239,
-  "2023-04-11": 713623,
-  "2023-04-12": 713623,
-  "2023-04-13": 713784,
-  "2023-04-14": 713970,
-  "2023-04-15": 714159,
-  "2023-04-16": 714338,
-  "2023-04-17": 714471,
-  "2023-04-18": 714661,
-  "2023-04-19": 714832,
-  "2023-04-20": 715012,
-  "2023-04-21": 715170,
-  "2023-04-22": 715411,
-  "2023-04-23": 715600,
-  "2023-04-24": 715746,
-  "2023-04-25": 715902,
-  "2023-04-26": 716088,
-  "2023-04-27": 716270,
-  "2023-04-28": 716444,
-  "2023-04-29": 716620,
-  "2023-04-30": 716802,
-  "2023-05-01": 716944,
-  "2023-05-02": 717063,
-  "2023-05-03": 717185,
-  "2023-05-04": 717341,
-  "2023-05-05": 717506,
-  "2023-05-06": 717696,
-  "2023-05-07": 717867,
-  "2023-05-08": 718022,
-  "2023-05-09": 718189,
-  "2023-05-10": 718368,
-  "2023-05-11": 718553,
-  "2023-05-12": 718736,
-  "2023-05-13": 718930,
-  "2023-05-14": 719083,
-  "2023-05-15": 719265,
-  "2023-05-16": 719405,
-  "2023-05-17": 719567,
-  "2023-05-18": 719747,
-  "2023-05-19": 719943,
-  "2023-05-20": 720297,
-  "2023-05-21": 720297,
-  "2023-05-22": 720297,
-  "2023-05-23": 720665,
-  "2023-05-24": 721057,
-  "2023-05-25": 721099,
-  "2023-05-26": 721311,
-  "2023-05-27": 721494,
-  "2023-05-28": 721701,
-  "2023-05-29": 721701,
-  "2023-05-30": 722045,
-  "2023-05-31": 722284,
-  "2023-06-01": 722496,
-  "2023-06-02": 722729,
-  "2023-06-03": 722954,
-  "2023-06-04": 723178,
-  "2023-06-05": 723386,
-  "2023-06-06": 723589,
-  "2023-06-07": 723880,
-  "2023-06-08": 724213,
-  "2023-06-09": 724570,
-  "2023-06-10": 724904,
-  "2023-06-11": 725180,
-  "2023-06-12": 725402,
-  "2023-06-13": 725613,
-  "2023-06-14": 725835,
-  "2023-06-15": 726078,
-  "2023-06-16": 726318,
-  "2023-06-17": 726567,
-  "2023-06-18": 726882,
-  "2023-06-19": 727154,
-  "2023-06-20": 727406,
-  "2023-06-21": 727680,
-  "2023-06-22": 727928,
-  "2023-06-23": 728252,
-  "2023-06-24": 728539,
-  "2023-06-25": 728812,
-  "2023-06-26": 729113,
-  "2023-06-27": 729352,
-  "2023-06-28": 729628,
-  "2023-06-29": 729922,
-  "2023-06-30": 730168,
-  "2023-07-01": 730738,
-  "2023-07-02": 730738,
-  "2023-07-03": 730971,
-  "2023-07-04": 731231,
-  "2023-07-05": 731480,
-  "2023-07-06": 731959,
-  "2023-07-07": 731959,
-  "2023-07-08": 732237,
-  "2023-07-09": 732514,
-  "2023-07-10": 732738,
-  "2023-07-11": 732970,
-  "2023-07-12": 733174,
-  "2023-07-13": 733415,
-  "2023-07-14": 733687,
-  "2023-07-15": 733878,
-  "2023-07-16": 734153,
-  "2023-07-17": 734387,
-  "2023-07-18": 734562,
-  "2023-07-19": 734796,
-  "2023-07-20": 735040,
-  "2023-07-21": 735241,
-  "2023-07-22": 735473,
-  "2023-07-23": 735691,
-  "2023-07-24": 735918,
-  "2023-07-25": 736119,
-  "2023-07-26": 736324,
-  "2023-07-27": 736561,
-  "2023-07-28": 736831,
-  "2023-07-29": 737095,
-  "2023-07-30": 737345,
-  "2023-07-31": 737587,
-  "2023-08-01": 737834,
-  "2023-08-02": 738062,
-  "2023-08-03": 738246,
-  "2023-08-04": 738439,
-  "2023-08-05": 738653,
-  "2023-08-06": 738989,
-  "2023-08-07": 738989,
-  "2023-08-08": 739169,
-  "2023-08-09": 739322,
-  "2023-08-10": 739494,
-  "2023-08-11": 739685,
-  "2023-08-12": 739685,
-  "2023-08-13": 739685,
-  "2023-08-14": 740187,
-  "2023-08-15": 740187,
-  "2023-08-16": 740187,
-  "2023-08-17": 740729,
-  "2023-08-18": 740729,
-  "2023-08-19": 741089,
-  "2023-08-20": 741264,
-  "2023-08-21": 741264,
-  "2023-08-22": 741614,
-  "2023-08-23": 741614,
-  "2023-08-24": 741961,
-  "2023-08-25": 741961,
-  "2023-08-26": 742418,
-  "2023-08-27": 742418,
-  "2023-08-28": 742772,
-  "2023-08-29": 742772,
-  "2023-08-30": 742772,
-  "2023-08-31": 743297,
-  "2023-09-01": 743627,
-  "2023-09-02": 743627,
-  "2023-09-03": 743776,
-  "2023-09-04": 743776,
-  "2023-09-05": 743776,
-  "2023-09-06": 744198,
-  "2023-09-07": 744198,
-  "2023-09-08": 744198,
-  "2023-09-09": 744198,
-  "2023-09-10": 744838,
-  "2023-09-11": 744973,
-  "2023-09-12": 744973,
-  "2023-09-13": 745259,
-  "2023-09-14": 745259,
-  "2023-09-15": 745259,
-  "2023-09-16": 745735,
-  "2023-09-17": 745735,
-  "2023-09-18": 745735,
-  "2023-09-19": 746166,
-  "2023-09-20": 746166,
-  "2023-09-21": 746166,
-  "2023-09-22": 746549,
-  "2023-09-23": 746549,
-  "2023-09-24": 746549,
-  "2023-09-25": 746549,
-  "2023-09-26": 747215,
-  "2023-09-27": 747215,
-  "2023-09-28": 747215,
-  "2023-09-29": 747215,
-  "2023-09-30": 747215,
-  "2023-10-01": 747215,
-  "2023-10-02": 748256,
-  "2023-10-03": 748256,
-  "2023-10-04": 748256,
-  "2023-10-05": 748739,
-  "2023-10-06": 748914,
-  "2023-10-07": 748914,
-  "2023-10-08": 748914,
-  "2023-10-09": 748914,
-  "2023-10-10": 748914,
-  "2023-10-11": 749379,
-  "2023-10-12": 749379,
-  "2023-10-13": 749379,
-  "2023-10-14": 749379,
-  "2023-10-15": 749379,
-  "2023-10-16": 749379,
-  "2023-10-17": 749379,
-  "2023-10-18": 749379,
-  "2023-10-19": 749379,
-  "2023-10-20": 749379,
-  "2023-10-21": 749379,
-  "2023-10-22": 749379,
-  "2023-10-23": 749379,
-  "2023-10-24": 749379,
-  "2023-10-25": 749379,
-  "2023-10-26": 749379,
-  "2023-10-27": 749379,
-  "2023-10-28": 749379,
-  "2023-10-29": 749379,
-  "2023-10-30": 749379,
-  "2023-10-31": 749379,
-  "2023-11-01": 749379,
-  "2023-11-02": 749379,
-  "2023-11-03": 749379,
-  "2023-11-04": 749379,
-  "2023-11-05": 749379,
-  "2023-11-06": 749379,
-  "2023-11-07": 749379,
-  "2023-11-08": 749379,
-  "2023-11-09": 749379,
-  "2023-11-10": 749379,
-  "2023-11-11": 753197,
-  "2023-11-12": 753197,
-  "2023-11-13": 753197,
-  "2023-11-14": 753197,
-  "2023-11-15": 753197,
-  "2023-11-16": 753197,
-  "2023-11-17": 753197,
-  "2023-11-18": 753197,
-  "2023-11-19": 753197,
-  "2023-11-20": 753197,
-  "2023-11-21": 753197,
-  "2023-11-22": 753197,
-  "2023-11-23": 753197,
-  "2023-11-24": 753197,
-  "2023-11-25": 753197,
-  "2023-11-26": 753197,
-  "2023-11-27": 753197,
-  "2023-11-28": 753197,
-  "2023-11-29": 753197,
-  "2023-11-30": 753197,
-  "2023-12-01": 753197,
-  "2023-12-02": 753197,
-  "2023-12-03": 753197,
-  "2023-12-04": 753197,
-  "2023-12-05": 753197,
-  "2023-12-06": 753197,
-  "2023-12-07": 753197,
-  "2023-12-08": 753197,
-  "2023-12-09": 753197,
-  "2023-12-10": 753197,
-  "2023-12-11": 753197,
-  "2023-12-12": 753197,
-  "2023-12-13": 753197,
-  "2023-12-14": 756973,
-  "2023-12-15": 757062,
-  "2023-12-16": 757195,
-  "2023-12-17": 757279,
-  "2023-12-18": 757404,
-  "2023-12-19": 757525,
-  "2023-12-20": 757619,
-  "2023-12-21": 757725,
-  "2023-12-22": 757827,
-  "2023-12-23": 757950,
-  "2023-12-24": 758038,
-  "2023-12-25": 758141,
-  "2023-12-26": 758214,
-  "2023-12-27": 758322,
-  "2023-12-30": 758664,
-  "2023-12-31": 758813,
-  "2024-01-01": 758914,
-  "2024-01-02": 758965,
-  "2024-01-03": 759034
+  "2024-01-17": 759422,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is Muse. The essential tracks, all in one playlist.",
+  "name": "This Is Muse",
+  "tracks": [
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 245960,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262813,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U"
+    },
+    {
+      "album": {
+        "name": "Absolution XX Anniversary",
+        "url": "https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252496,
+      "name": "Apocalypse Please",
+      "url": "https://open.spotify.com/track/5MmvKstpiYPetHQ7TfyTJz"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211133,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
+    },
+    {
+      "album": {
+        "name": "Absolution XX Anniversary",
+        "url": "https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 262064,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/4Q0CesDHTEoo7HqgE7QPY6"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 262200,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/2nTgdpxwpXTk5x1c9yaO3W"
+    },
+    {
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/0j3obufLXq5toSs592dX9U"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302505,
+      "name": "Butterflies & Hurricanes",
+      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 301733,
+      "name": "Butterflies and Hurricanes",
+      "url": "https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS"
+    },
+    {
+      "album": {
+        "name": "Dead Star / In Your World",
+        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
+    },
+    {
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 286933,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/6Jf7Sx68vsWFKeWjOxcLhQ"
+    },
+    {
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 441093,
+      "name": "Citizen Erased",
+      "url": "https://open.spotify.com/track/177MZraDAxjRqqtZBz5Vhn"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 288266,
+      "name": "City of Delusion",
+      "url": "https://open.spotify.com/track/3Sno9FE8r2uz8QP0MtnTPL"
+    },
+    {
+      "album": {
+        "name": "Compliance",
+        "url": "https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/6tpl3yuDnYHAHb6dY60p5O"
+    },
+    {
+      "album": {
+        "name": "Compliance (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/7wKiQy5WoppfuiRGltIogr"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 196846,
+      "name": "Compliance (Purple Disco Machine Remix) - Edit",
+      "url": "https://open.spotify.com/track/4tLB7Y41bkQSnJRqfJ7k4x"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262947,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+    },
+    {
+      "album": {
+        "name": "Dead Star / In Your World",
+        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 220740,
+      "name": "Dead Star",
+      "url": "https://open.spotify.com/track/2sP2TwYA3zewyBDrZsGahr"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 273004,
+      "name": "Defector",
+      "url": "https://open.spotify.com/track/4FnAEvbT3mjxpkUKpGwXYM"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 203177,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC"
+    },
+    {
+      "album": {
+        "name": "Euphoria (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 173079,
+      "name": "Euphoria (Solomun Remix) - Edit",
+      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
+    },
+    {
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217034,
+      "name": "Ghosts (How Can I Move On)",
+      "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
+    },
+    {
+      "album": {
+        "name": "Ghosts (How Can I Move On) [feat. Elisa]",
+        "url": "https://open.spotify.com/album/7uz5nvQUPKp2veCYlfOFQe"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 217301,
+      "name": "Ghosts (How Can I Move On) [feat. Elisa]",
+      "url": "https://open.spotify.com/track/4ggQZbM68glGfoH1kImIwO"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 281026,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227023,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 227440,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 338813,
+      "name": "I Belong to You (+Mon Coeur S'Ouvre a Ta Voix)",
+      "url": "https://open.spotify.com/track/114rzL6VEy9bb3amPcY3tw"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 37666,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7gmQ329Ocmvb9OImqevFBF"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38469,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301386,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2zmR3FG7iOGDAdwrVPzdg9"
+    },
+    {
+      "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4scqfHWE0J9dgdbjqstjS3"
+    },
+    {
+      "album": {
+        "name": "Kill Or Be Killed (Felsmann + Tiley Reinterpretation)",
+        "url": "https://open.spotify.com/album/2KS2e5L7diPrmbjOeL58qv"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Felsmann + Tiley",
+          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 171702,
+      "name": "Kill Or Be Killed - Felsmann + Tiley Reinterpretation",
+      "url": "https://open.spotify.com/track/4giarhA9W5oPE7fprx7fcx"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366213,
+      "name": "Knights of Cydonia",
+      "url": "https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 186815,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281040,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258066,
+      "name": "Map of the Problematique",
+      "url": "https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231973,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246093,
+      "name": "MK Ultra",
+      "url": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh"
+    },
+    {
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Muscle Museum",
+      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+    },
+    {
+      "album": {
+        "name": "Neutron Star Collision [Love Is Forever]",
+        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230256,
+      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
+    },
+    {
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363266,
+      "name": "New Born",
+      "url": "https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Panic Station",
+      "url": "https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs"
+    },
+    {
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Plug in Baby",
+      "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316717,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359520,
+      "name": "Reapers",
+      "url": "https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346693,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
+    },
+    {
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 317000,
+      "name": "Showbiz",
+      "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 294866,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/1hHuyqVCZCbhYQixEkdQCo"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295767,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Something Human",
+      "url": "https://open.spotify.com/track/1esX5rtwwssnsEQNQk0HGg"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296173,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 297000,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9"
+    },
+    {
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
+    },
+    {
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295373,
+      "name": "Supremacy",
+      "url": "https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/2IFqUmfW8oQoKn6ToxKsMs"
+    },
+    {
+      "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 299986,
+      "name": "The 2nd Law: Isolated System",
+      "url": "https://open.spotify.com/track/4nr4gSTFGmTTSbumSY3kfH"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "The Dark Side",
+      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
+    },
+    {
+      "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "The Handler",
+      "url": "https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW"
+    },
+    {
+      "album": {
+        "name": "Absolution XX Anniversary",
+        "url": "https://open.spotify.com/album/5jVU78xvmaqPWJV7HaZqqj"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208737,
+      "name": "The Small Print",
+      "url": "https://open.spotify.com/track/56GmHcDzlfcKCFtg242xfG"
+    },
+    {
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Thought Contagion",
+      "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236535,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/0EdMqiKs9LKXhspeQhl4RZ"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 237039,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Undisclosed Desires",
+      "url": "https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq"
+    },
+    {
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 347813,
+      "name": "United States of Eurasia (+Collateral Damage)",
+      "url": "https://open.spotify.com/track/0tHbQRjL5phd8OoYl2Bdnd"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414960,
+      "name": "Unnatural Selection",
+      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
+    },
+    {
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297962,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/35E8of4u0B5PI8o4Hy0tWq"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 216729,
+      "name": "We Are Fucking Fucked",
+      "url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/68J2rIUZze8X3hAa8ali4k"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/3EDKy3jIiw1OJqqZcdOCxm"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yp56w"
 }

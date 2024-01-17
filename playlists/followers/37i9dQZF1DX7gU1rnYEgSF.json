@@ -1,621 +1,2173 @@
 {
-  "2022-04-19": 4181,
-  "2022-04-20": 4183,
-  "2022-04-21": 4184,
-  "2022-04-22": 4183,
-  "2022-04-23": 4182,
-  "2022-04-24": 4185,
-  "2022-04-25": 4188,
-  "2022-04-26": 4191,
-  "2022-04-27": 4190,
-  "2022-04-28": 4190,
-  "2022-04-29": 4194,
-  "2022-04-30": 4197,
-  "2022-05-01": 4198,
-  "2022-05-02": 4198,
-  "2022-05-03": 4205,
-  "2022-05-04": 4206,
-  "2022-05-05": 4207,
-  "2022-05-06": 4209,
-  "2022-05-07": 4210,
-  "2022-05-08": 4215,
-  "2022-05-09": 4216,
-  "2022-05-10": 4219,
-  "2022-05-11": 4220,
-  "2022-05-12": 4221,
-  "2022-05-13": 4220,
-  "2022-05-14": 4218,
-  "2022-05-15": 4220,
-  "2022-05-16": 4221,
-  "2022-05-17": 4223,
-  "2022-05-18": 4224,
-  "2022-05-19": 4225,
-  "2022-05-20": 4226,
-  "2022-05-21": 4229,
-  "2022-05-22": 4229,
-  "2022-05-23": 4230,
-  "2022-05-24": 4233,
-  "2022-05-25": 4235,
-  "2022-05-26": 4238,
-  "2022-05-27": 4239,
-  "2022-05-28": 4242,
-  "2022-05-29": 4245,
-  "2022-05-30": 4252,
-  "2022-05-31": 4258,
-  "2022-06-01": 4263,
-  "2022-06-02": 4264,
-  "2022-06-03": 4264,
-  "2022-06-04": 4264,
-  "2022-06-05": 4266,
-  "2022-06-06": 4268,
-  "2022-06-07": 4269,
-  "2022-06-08": 4271,
-  "2022-06-09": 4271,
-  "2022-06-10": 4271,
-  "2022-06-11": 4272,
-  "2022-06-12": 4276,
-  "2022-06-13": 4278,
-  "2022-06-14": 4279,
-  "2022-06-15": 4280,
-  "2022-06-16": 4284,
-  "2022-06-17": 4285,
-  "2022-06-18": 4292,
-  "2022-06-19": 4298,
-  "2022-06-20": 4298,
-  "2022-06-21": 4299,
-  "2022-06-22": 4298,
-  "2022-06-23": 4298,
-  "2022-06-24": 4302,
-  "2022-06-25": 4302,
-  "2022-06-26": 4306,
-  "2022-06-27": 4307,
-  "2022-06-28": 4307,
-  "2022-06-29": 4309,
-  "2022-06-30": 4313,
-  "2022-07-01": 4315,
-  "2022-07-02": 4319,
-  "2022-07-03": 4318,
-  "2022-07-04": 4321,
-  "2022-07-05": 4326,
-  "2022-07-06": 4327,
-  "2022-07-07": 4328,
-  "2022-07-08": 4330,
-  "2022-07-09": 4333,
-  "2022-07-10": 4335,
-  "2022-07-11": 4337,
-  "2022-07-12": 4343,
-  "2022-07-13": 4341,
-  "2022-07-14": 4341,
-  "2022-07-15": 4343,
-  "2022-07-16": 4342,
-  "2022-07-17": 4342,
-  "2022-07-18": 4345,
-  "2022-07-19": 4351,
-  "2022-07-20": 4353,
-  "2022-07-21": 4356,
-  "2022-07-22": 4355,
-  "2022-07-23": 4358,
-  "2022-07-24": 4361,
-  "2022-07-25": 4363,
-  "2022-07-26": 4367,
-  "2022-07-27": 4366,
-  "2022-07-28": 4369,
-  "2022-07-29": 4373,
-  "2022-07-30": 4379,
-  "2022-07-31": 4379,
-  "2022-08-01": 4382,
-  "2022-08-02": 4382,
-  "2022-08-03": 4382,
-  "2022-08-04": 4382,
-  "2022-08-05": 4383,
-  "2022-08-06": 4386,
-  "2022-08-07": 4389,
-  "2022-08-08": 4389,
-  "2022-08-09": 4391,
-  "2022-08-10": 4392,
-  "2022-08-11": 4392,
-  "2022-08-12": 4396,
-  "2022-08-13": 4400,
-  "2022-08-14": 4402,
-  "2022-08-15": 4403,
-  "2022-08-16": 4402,
-  "2022-08-17": 4402,
-  "2022-08-18": 4404,
-  "2022-08-19": 4405,
-  "2022-08-20": 4406,
-  "2022-08-21": 4413,
-  "2022-08-22": 4415,
-  "2022-08-23": 4417,
-  "2022-08-24": 4417,
-  "2022-08-25": 4422,
-  "2022-08-26": 4425,
-  "2022-08-27": 4427,
-  "2022-08-28": 4430,
-  "2022-08-29": 4430,
-  "2022-08-30": 4431,
-  "2022-08-31": 4434,
-  "2022-09-01": 4438,
-  "2022-09-02": 4442,
-  "2022-09-03": 4443,
-  "2022-09-04": 4446,
-  "2022-09-05": 4448,
-  "2022-09-06": 4447,
-  "2022-09-07": 4445,
-  "2022-09-09": 4448,
-  "2022-09-10": 4451,
-  "2022-09-11": 4458,
-  "2022-09-12": 4459,
-  "2022-09-13": 4464,
-  "2022-09-15": 4465,
-  "2022-09-16": 4466,
-  "2022-09-17": 4468,
-  "2022-09-18": 4473,
-  "2022-09-19": 4476,
-  "2022-09-20": 4479,
-  "2022-09-21": 4483,
-  "2022-09-22": 4486,
-  "2022-09-23": 4490,
-  "2022-09-24": 4494,
-  "2022-09-25": 4498,
-  "2022-09-26": 4502,
-  "2022-09-27": 4503,
-  "2022-09-28": 4505,
-  "2022-09-29": 4508,
-  "2022-09-30": 4513,
-  "2022-10-01": 4517,
-  "2022-10-02": 4520,
-  "2022-10-03": 4523,
-  "2022-10-04": 4525,
-  "2022-10-05": 4526,
-  "2022-10-06": 4528,
-  "2022-10-07": 4531,
-  "2022-10-08": 4537,
-  "2022-10-09": 4542,
-  "2022-10-10": 4542,
-  "2022-10-11": 4547,
-  "2022-10-12": 4549,
-  "2022-10-13": 4550,
-  "2022-10-14": 4552,
-  "2022-10-15": 4555,
-  "2022-10-16": 4557,
-  "2022-10-17": 4558,
-  "2022-10-18": 4560,
-  "2022-10-19": 4565,
-  "2022-10-20": 4573,
-  "2022-10-21": 4570,
-  "2022-10-22": 4572,
-  "2022-10-23": 4574,
-  "2022-10-24": 4576,
-  "2022-10-25": 4576,
-  "2022-10-26": 4577,
-  "2022-10-27": 4578,
-  "2022-10-28": 4583,
-  "2022-10-29": 4586,
-  "2022-10-30": 4587,
-  "2022-10-31": 4593,
-  "2022-11-01": 4594,
-  "2022-11-02": 4598,
-  "2022-11-03": 4598,
-  "2022-11-04": 4598,
-  "2022-11-05": 4601,
-  "2022-11-06": 4604,
-  "2022-11-07": 4602,
-  "2022-11-08": 4604,
-  "2022-11-09": 4606,
-  "2022-11-10": 4609,
-  "2022-11-11": 4611,
-  "2022-11-12": 4618,
-  "2022-11-13": 4621,
-  "2022-11-14": 4622,
-  "2022-11-15": 4625,
-  "2022-11-16": 4628,
-  "2022-11-17": 4633,
-  "2022-11-18": 4634,
-  "2022-11-19": 4633,
-  "2022-11-20": 4635,
-  "2022-11-21": 4637,
-  "2022-11-22": 4638,
-  "2022-11-23": 4637,
-  "2022-11-24": 4640,
-  "2022-11-25": 4640,
-  "2022-11-26": 4642,
-  "2022-11-27": 4649,
-  "2022-11-28": 4650,
-  "2022-11-29": 4651,
-  "2022-11-30": 4653,
-  "2022-12-01": 4651,
-  "2022-12-02": 4651,
-  "2022-12-03": 4654,
-  "2022-12-04": 4658,
-  "2022-12-05": 4660,
-  "2022-12-06": 4659,
-  "2022-12-07": 4659,
-  "2022-12-08": 4659,
-  "2022-12-09": 4657,
-  "2022-12-10": 4658,
-  "2022-12-11": 4657,
-  "2022-12-12": 4657,
-  "2022-12-13": 4658,
-  "2022-12-14": 4660,
-  "2022-12-15": 4659,
-  "2022-12-16": 4661,
-  "2022-12-17": 4661,
-  "2022-12-18": 4664,
-  "2022-12-19": 4669,
-  "2022-12-20": 4671,
-  "2022-12-21": 4671,
-  "2022-12-22": 4671,
-  "2022-12-24": 4671,
-  "2022-12-25": 4671,
-  "2022-12-26": 4672,
-  "2022-12-27": 4677,
-  "2022-12-28": 4681,
-  "2022-12-29": 4680,
-  "2022-12-30": 4684,
-  "2022-12-31": 4685,
-  "2023-01-01": 4689,
-  "2023-01-02": 4697,
-  "2023-01-03": 4699,
-  "2023-01-04": 4706,
-  "2023-01-05": 4707,
-  "2023-01-06": 4717,
-  "2023-01-07": 4722,
-  "2023-01-08": 4723,
-  "2023-01-09": 4728,
-  "2023-01-10": 4729,
-  "2023-01-11": 4732,
-  "2023-01-12": 4733,
-  "2023-01-13": 4734,
-  "2023-01-14": 4742,
-  "2023-01-15": 4743,
-  "2023-01-16": 4752,
-  "2023-01-17": 4753,
-  "2023-01-18": 4755,
-  "2023-01-19": 4761,
-  "2023-01-20": 4763,
-  "2023-01-21": 4765,
-  "2023-01-22": 4768,
-  "2023-01-23": 4774,
-  "2023-01-24": 4776,
-  "2023-01-25": 4779,
-  "2023-01-26": 4783,
-  "2023-01-27": 4786,
-  "2023-01-28": 4785,
-  "2023-01-29": 4789,
-  "2023-01-30": 4795,
-  "2023-01-31": 4795,
-  "2023-02-01": 4802,
-  "2023-02-02": 4805,
-  "2023-02-03": 4808,
-  "2023-02-04": 4814,
-  "2023-02-05": 4817,
-  "2023-02-06": 4820,
-  "2023-02-07": 4823,
-  "2023-02-08": 4825,
-  "2023-02-09": 4825,
-  "2023-02-10": 4829,
-  "2023-02-11": 4833,
-  "2023-02-12": 4843,
-  "2023-02-13": 4844,
-  "2023-02-14": 4844,
-  "2023-02-15": 4850,
-  "2023-02-16": 4850,
-  "2023-02-17": 4849,
-  "2023-02-18": 4850,
-  "2023-02-19": 4850,
-  "2023-02-20": 4855,
-  "2023-02-21": 4857,
-  "2023-02-22": 4859,
-  "2023-02-23": 4863,
-  "2023-02-24": 4866,
-  "2023-02-25": 4866,
-  "2023-02-26": 4870,
-  "2023-02-27": 4873,
-  "2023-02-28": 4873,
-  "2023-03-01": 4873,
-  "2023-03-02": 4874,
-  "2023-03-03": 4878,
-  "2023-03-04": 4878,
-  "2023-03-05": 4883,
-  "2023-03-06": 4883,
-  "2023-03-07": 4887,
-  "2023-03-08": 4891,
-  "2023-03-09": 4892,
-  "2023-03-10": 4890,
-  "2023-03-11": 4893,
-  "2023-03-12": 4894,
-  "2023-03-13": 4897,
-  "2023-03-14": 4902,
-  "2023-03-15": 4903,
-  "2023-03-16": 4902,
-  "2023-03-17": 4902,
-  "2023-03-18": 4900,
-  "2023-03-19": 4904,
-  "2023-03-20": 4906,
-  "2023-03-21": 4907,
-  "2023-03-22": 4906,
-  "2023-03-23": 4910,
-  "2023-03-24": 4910,
-  "2023-03-25": 4914,
-  "2023-03-26": 4918,
-  "2023-03-27": 4920,
-  "2023-03-28": 4923,
-  "2023-03-29": 4928,
-  "2023-03-30": 4930,
-  "2023-03-31": 4930,
-  "2023-04-01": 4937,
-  "2023-04-02": 4938,
-  "2023-04-03": 4939,
-  "2023-04-04": 4940,
-  "2023-04-05": 4941,
-  "2023-04-06": 4944,
-  "2023-04-07": 4942,
-  "2023-04-09": 4941,
-  "2023-04-10": 4941,
-  "2023-04-11": 4948,
-  "2023-04-12": 4948,
-  "2023-04-13": 4950,
-  "2023-04-14": 4950,
-  "2023-04-15": 4953,
-  "2023-04-16": 4955,
-  "2023-04-17": 4957,
-  "2023-04-18": 4957,
-  "2023-04-19": 4955,
-  "2023-04-20": 4957,
-  "2023-04-21": 4961,
-  "2023-04-22": 4962,
-  "2023-04-23": 4966,
-  "2023-04-24": 4969,
-  "2023-04-25": 4973,
-  "2023-04-26": 4973,
-  "2023-04-27": 4973,
-  "2023-04-28": 4976,
-  "2023-04-29": 4980,
-  "2023-04-30": 4983,
-  "2023-05-01": 4984,
-  "2023-05-02": 4985,
-  "2023-05-03": 4986,
-  "2023-05-04": 4987,
-  "2023-05-05": 4987,
-  "2023-05-06": 4991,
-  "2023-05-07": 4994,
-  "2023-05-08": 4998,
-  "2023-05-09": 5000,
-  "2023-05-10": 5000,
-  "2023-05-11": 5008,
-  "2023-05-12": 5009,
-  "2023-05-13": 5009,
-  "2023-05-14": 5012,
-  "2023-05-15": 5012,
-  "2023-05-16": 5014,
-  "2023-05-17": 5017,
-  "2023-05-18": 5017,
-  "2023-05-19": 5021,
-  "2023-05-20": 5032,
-  "2023-05-21": 5032,
-  "2023-05-22": 5032,
-  "2023-05-23": 5036,
-  "2023-05-24": 5036,
-  "2023-05-25": 5036,
-  "2023-05-26": 5039,
-  "2023-05-27": 5042,
-  "2023-05-28": 5043,
-  "2023-05-29": 5043,
-  "2023-05-30": 5044,
-  "2023-05-31": 5045,
-  "2023-06-01": 5045,
-  "2023-06-02": 5049,
-  "2023-06-03": 5051,
-  "2023-06-04": 5057,
-  "2023-06-05": 5061,
-  "2023-06-06": 5065,
-  "2023-06-07": 5066,
-  "2023-06-08": 5065,
-  "2023-06-09": 5068,
-  "2023-06-10": 5071,
-  "2023-06-11": 5076,
-  "2023-06-12": 5078,
-  "2023-06-13": 5077,
-  "2023-06-14": 5079,
-  "2023-06-15": 5083,
-  "2023-06-16": 5084,
-  "2023-06-17": 5086,
-  "2023-06-18": 5088,
-  "2023-06-19": 5092,
-  "2023-06-20": 5092,
-  "2023-06-21": 5094,
-  "2023-06-22": 5097,
-  "2023-06-23": 5098,
-  "2023-06-24": 5103,
-  "2023-06-25": 5104,
-  "2023-06-26": 5111,
-  "2023-06-27": 5110,
-  "2023-06-28": 5112,
-  "2023-06-29": 5115,
-  "2023-06-30": 5120,
-  "2023-07-01": 5129,
-  "2023-07-02": 5129,
-  "2023-07-03": 5129,
-  "2023-07-04": 5132,
-  "2023-07-05": 5135,
-  "2023-07-06": 5135,
-  "2023-07-07": 5135,
-  "2023-07-08": 5135,
-  "2023-07-09": 5138,
-  "2023-07-10": 5140,
-  "2023-07-11": 5141,
-  "2023-07-12": 5143,
-  "2023-07-13": 5146,
-  "2023-07-14": 5149,
-  "2023-07-15": 5149,
-  "2023-07-16": 5149,
-  "2023-07-17": 5151,
-  "2023-07-18": 5152,
-  "2023-07-19": 5152,
-  "2023-07-20": 5157,
-  "2023-07-21": 5158,
-  "2023-07-22": 5164,
-  "2023-07-23": 5166,
-  "2023-07-24": 5166,
-  "2023-07-25": 5169,
-  "2023-07-26": 5168,
-  "2023-07-27": 5170,
-  "2023-07-28": 5170,
-  "2023-07-29": 5174,
-  "2023-07-30": 5175,
-  "2023-07-31": 5177,
-  "2023-08-01": 5180,
-  "2023-08-02": 5180,
-  "2023-08-03": 5183,
-  "2023-08-04": 5187,
-  "2023-08-05": 5191,
-  "2023-08-06": 5193,
-  "2023-08-07": 5193,
-  "2023-08-08": 5191,
-  "2023-08-09": 5195,
-  "2023-08-10": 5198,
-  "2023-08-11": 5202,
-  "2023-08-12": 5205,
-  "2023-08-13": 5208,
-  "2023-08-14": 5211,
-  "2023-08-15": 5214,
-  "2023-08-16": 5214,
-  "2023-08-17": 5217,
-  "2023-08-18": 5215,
-  "2023-08-19": 5218,
-  "2023-08-20": 5220,
-  "2023-08-21": 5222,
-  "2023-08-22": 5222,
-  "2023-08-23": 5222,
-  "2023-08-24": 5223,
-  "2023-08-25": 5228,
-  "2023-08-26": 5232,
-  "2023-08-27": 5237,
-  "2023-08-28": 5240,
-  "2023-08-29": 5240,
-  "2023-08-30": 5242,
-  "2023-08-31": 5245,
-  "2023-09-01": 5254,
-  "2023-09-02": 5254,
-  "2023-09-03": 5258,
-  "2023-09-04": 5258,
-  "2023-09-05": 5261,
-  "2023-09-06": 5262,
-  "2023-09-07": 5262,
-  "2023-09-08": 5264,
-  "2023-09-09": 5264,
-  "2023-09-10": 5264,
-  "2023-09-11": 5265,
-  "2023-09-12": 5268,
-  "2023-09-13": 5267,
-  "2023-09-14": 5269,
-  "2023-09-15": 5268,
-  "2023-09-16": 5273,
-  "2023-09-17": 5276,
-  "2023-09-18": 5278,
-  "2023-09-19": 5284,
-  "2023-09-20": 5282,
-  "2023-09-21": 5284,
-  "2023-09-22": 5287,
-  "2023-09-23": 5291,
-  "2023-09-24": 5292,
-  "2023-09-25": 5292,
-  "2023-09-26": 5295,
-  "2023-09-27": 5295,
-  "2023-09-28": 5296,
-  "2023-09-29": 5296,
-  "2023-09-30": 5298,
-  "2023-10-01": 5297,
-  "2023-10-02": 5301,
-  "2023-10-03": 5301,
-  "2023-10-04": 5302,
-  "2023-10-05": 5301,
-  "2023-10-06": 5301,
-  "2023-10-07": 5301,
-  "2023-10-08": 5301,
-  "2023-10-09": 5305,
-  "2023-10-10": 5307,
-  "2023-10-11": 5304,
-  "2023-10-12": 5304,
-  "2023-10-13": 5306,
-  "2023-10-14": 5305,
-  "2023-10-15": 5302,
-  "2023-10-16": 5303,
-  "2023-10-17": 5304,
-  "2023-10-18": 5303,
-  "2023-10-19": 5302,
-  "2023-10-20": 5305,
-  "2023-10-21": 5309,
-  "2023-10-22": 5308,
-  "2023-10-23": 5309,
-  "2023-10-24": 5310,
-  "2023-10-25": 5311,
-  "2023-10-26": 5312,
-  "2023-10-27": 5312,
-  "2023-10-28": 5314,
-  "2023-10-29": 5315,
-  "2023-10-30": 5321,
-  "2023-10-31": 5321,
-  "2023-11-01": 5321,
-  "2023-11-02": 5323,
-  "2023-11-03": 5322,
-  "2023-11-04": 5322,
-  "2023-11-05": 5324,
-  "2023-11-06": 5327,
-  "2023-11-07": 5327,
-  "2023-11-08": 5327,
-  "2023-11-09": 5327,
-  "2023-11-10": 5331,
-  "2023-11-11": 5329,
-  "2023-11-12": 5330,
-  "2023-11-13": 5330,
-  "2023-11-14": 5333,
-  "2023-11-15": 5333,
-  "2023-11-16": 5335,
-  "2023-11-17": 5334,
-  "2023-11-18": 5334,
-  "2023-11-19": 5335,
-  "2023-11-20": 5335,
-  "2023-11-21": 5335,
-  "2023-11-22": 5336,
-  "2023-11-23": 5339,
-  "2023-11-24": 5338,
-  "2023-11-25": 5338,
-  "2023-11-26": 5340,
-  "2023-11-27": 5340,
-  "2023-11-28": 5342,
-  "2023-11-29": 5335,
-  "2023-11-30": 5335,
-  "2023-12-01": 5337,
-  "2023-12-02": 5335,
-  "2023-12-03": 5340,
-  "2023-12-04": 5341,
-  "2023-12-05": 5342,
-  "2023-12-06": 5344,
-  "2023-12-07": 5346,
-  "2023-12-08": 5346,
-  "2023-12-09": 5345,
-  "2023-12-10": 5347,
-  "2023-12-11": 5348,
-  "2023-12-12": 5347,
-  "2023-12-13": 5346,
-  "2023-12-14": 5343,
-  "2023-12-15": 5344,
-  "2023-12-16": 5345,
-  "2023-12-17": 5347,
-  "2023-12-18": 5348,
-  "2023-12-19": 5347,
-  "2023-12-20": 5348,
-  "2023-12-21": 5347,
-  "2023-12-22": 5346,
-  "2023-12-23": 5348,
-  "2023-12-24": 5348,
-  "2023-12-25": 5348,
-  "2023-12-26": 5348,
-  "2023-12-27": 5350,
-  "2023-12-30": 5356,
-  "2023-12-31": 5356,
-  "2024-01-01": 5356,
-  "2024-01-02": 5355,
-  "2024-01-03": 5355
+  "2024-01-17": 5367,
+  "date_first_scraped": "2022-04-19",
+  "description": "Your family can stomp, roar, and growl along to these songs about dinosaurs!",
+  "name": "Dinosaurs",
+  "tracks": [
+    {
+      "album": {
+        "name": "Baby Shark & More Kids Songs",
+        "url": "https://open.spotify.com/album/1dwFkP5vsgDV8m2IGQ8pz0"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124859,
+      "name": "10 Little Dinosaurs",
+      "url": "https://open.spotify.com/track/5WXRZkgxmzYElM110tFGSG"
+    },
+    {
+      "album": {
+        "name": "Baby Shark & More Kids Songs",
+        "url": "https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124859,
+      "name": "10 Little Dinosaurs",
+      "url": "https://open.spotify.com/track/72WIO8u5uOWTLqxunXtbK2"
+    },
+    {
+      "album": {
+        "name": "Counting Songs for Kids",
+        "url": "https://open.spotify.com/album/0dlw2wtrVmAo6plmmVLFcy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 124859,
+      "name": "10 Little Dinosaurs",
+      "url": "https://open.spotify.com/track/7gEWzSXQT5LaTT0AoQTq7d"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Kids Music Underground!",
+        "url": "https://open.spotify.com/album/32PAZRCdKh3JaHpmelqvbi"
+      },
+      "artists": [
+        {
+          "name": "John Carlin & The Kids Music Underground",
+          "url": "https://open.spotify.com/artist/4UR5iKIPZusk5yg9EOnUVz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "A Dinosaur Named Fred",
+      "url": "https://open.spotify.com/track/3jUodqBmrwg01iZAcU9vZI"
+    },
+    {
+      "album": {
+        "name": "A Round of Applause for the Dinosaurs",
+        "url": "https://open.spotify.com/album/1OaQfTlykd1cM2bmoCqmvz"
+      },
+      "artists": [
+        {
+          "name": "nick cope",
+          "url": "https://open.spotify.com/artist/6RR9MIMTusJiW4XvJRjWRa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128400,
+      "name": "A Round of Applause for the Dinosaurs",
+      "url": "https://open.spotify.com/track/3n82x8SRjR2wKW1y9iGusn"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63705,
+      "name": "Ankylosaurus",
+      "url": "https://open.spotify.com/track/39T2r3i93ZYfAQbbaFAn7b"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52906,
+      "name": "Big, Bigger, Biggest",
+      "url": "https://open.spotify.com/track/7dq82eB7J5gLBoxf4dl4zK"
+    },
+    {
+      "album": {
+        "name": "Bop Bop Dinosaur",
+        "url": "https://open.spotify.com/album/7FxeCEgB4sdFDEuGhjq6Ba"
+      },
+      "artists": [
+        {
+          "name": "Jim Cosgrove",
+          "url": "https://open.spotify.com/artist/0PXZmqJE07mJxt5QUQQc5u"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148853,
+      "name": "Bop Bop Dinosaur",
+      "url": "https://open.spotify.com/track/5LVZNyQokQj5KsuQciJWDZ"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54690,
+      "name": "Brachiosaurus",
+      "url": "https://open.spotify.com/track/6xqdW4SdfgrlmteNr0z0SO"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90909,
+      "name": "Brachiosaurus Song",
+      "url": "https://open.spotify.com/track/3uJmMKTwR7dK9tfBPgik2N"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111177,
+      "name": "Did You See a Dinosaur Today?",
+      "url": "https://open.spotify.com/track/4Pygb5NREJO6pXEXdOd6Ah"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111177,
+      "name": "Did You See A Dinosaur Today?",
+      "url": "https://open.spotify.com/track/7sOX44wOMbYEJrhdoYkf97"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76982,
+      "name": "Dig It Up",
+      "url": "https://open.spotify.com/track/7lVGjuWs3hxEK40eAL6cSO"
+    },
+    {
+      "album": {
+        "name": "Blippi's Treehouse Vol.1",
+        "url": "https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 159272,
+      "name": "Dino Groove",
+      "url": "https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1"
+    },
+    {
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Dino Groove",
+      "url": "https://open.spotify.com/track/5Um0oX2EdKjq3Jb5lzKZPA"
+    },
+    {
+      "album": {
+        "name": "Walk On",
+        "url": "https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86"
+      },
+      "artists": [
+        {
+          "name": "The Kerplunks",
+          "url": "https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123600,
+      "name": "Dino Rap",
+      "url": "https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw"
+    },
+    {
+      "album": {
+        "name": "Imagine That!",
+        "url": "https://open.spotify.com/album/6kE0BtzzksGe9Gsh6f5F3X"
+      },
+      "artists": [
+        {
+          "name": "Rick & Audrey",
+          "url": "https://open.spotify.com/artist/6osU6dIAUuyqlnv9kzly6a"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Dino-dino-dinosaur",
+      "url": "https://open.spotify.com/track/3YUewYkLTxa4Out5wF9bsr"
+    },
+    {
+      "album": {
+        "name": "CoComelon Fun Learning",
+        "url": "https://open.spotify.com/album/35spzlfd5pY8DoEQaVXcS1"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139704,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/38a59nQuRmFI5AqXBMWfm6"
+    },
+    {
+      "album": {
+        "name": "CoComelon Fun Learning",
+        "url": "https://open.spotify.com/album/68pllW49tJvjL0TPwGpQIM"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
+      "duration_ms": 139704,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/3exDuR6wcyLuT2qoiykN2A"
+    },
+    {
+      "album": {
+        "name": "Let The Sun Shine",
+        "url": "https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx"
+      },
+      "artists": [
+        {
+          "name": "We Kids Rock",
+          "url": "https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128146,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/4cPnCfFTy0ytbq9JkmqUNg"
+    },
+    {
+      "album": {
+        "name": "Helpsters: Apple TV+ Original Series Soundtrack, Vol. 1",
+        "url": "https://open.spotify.com/album/1iUfQktugNa5K7QmP5PukO"
+      },
+      "artists": [
+        {
+          "name": "Cody",
+          "url": "https://open.spotify.com/artist/7rAaRqIDuMiQuG4oy8vygE"
+        },
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/6UEVx8BU4FwqzFHO4U72R7"
+        },
+        {
+          "name": "Mr. Primm",
+          "url": "https://open.spotify.com/artist/1LWRjmEu1mWd95oX6Vqlyb"
+        },
+        {
+          "name": "Scatter",
+          "url": "https://open.spotify.com/artist/745OTOZLsTL84LJrF4szKm"
+        },
+        {
+          "name": "Paleontologist Paloma",
+          "url": "https://open.spotify.com/artist/5G0YQqdQPR8gnBfap8cUFv"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95826,
+      "name": "Dinosaur Bones",
+      "url": "https://open.spotify.com/track/2OVW2YkuliLysSriq6dARo"
+    },
+    {
+      "album": {
+        "name": "Best of Kids Music",
+        "url": "https://open.spotify.com/album/5jxyozu7nLcgyhMFaMuVmi"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 79855,
+      "name": "Dinosaur Bones",
+      "url": "https://open.spotify.com/track/12Jcwk5fRzlCKKn0xhECoL"
+    },
+    {
+      "album": {
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79855,
+      "name": "Dinosaur Bones",
+      "url": "https://open.spotify.com/track/1cHMpmuOIKGLTq9cPO22Vm"
+    },
+    {
+      "album": {
+        "name": "Pancake Manor",
+        "url": "https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79855,
+      "name": "Dinosaur Bones",
+      "url": "https://open.spotify.com/track/56UczceUY5do7JigeiuVhn"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63600,
+      "name": "Dinosaur Detective",
+      "url": "https://open.spotify.com/track/0A3q7zqwx8fhhSdSN2IW4M"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89055,
+      "name": "Dinosaur Dinosaur",
+      "url": "https://open.spotify.com/track/6eNvLNNROfrzfnhhoykexF"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152416,
+      "name": "Dinosaur in the Bath",
+      "url": "https://open.spotify.com/track/6JK5IcoWhzbgRS6y60cR1z"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67108,
+      "name": "Dinosaur Parade",
+      "url": "https://open.spotify.com/track/2t8r8VEdC4aaROMbyYTqcF"
+    },
+    {
+      "album": {
+        "name": "Happy Lemons",
+        "url": "https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3"
+      },
+      "artists": [
+        {
+          "name": "Ralph's World",
+          "url": "https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114194,
+      "name": "Dinosaur Rumble",
+      "url": "https://open.spotify.com/track/47zUyDgK31EGxzxu9B9i2Z"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184617,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C"
+    },
+    {
+      "album": {
+        "name": "Cocomelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/2zqrEm5X1cQwyJBzpP1snW"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184617,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/4kBpATscIriT91BZaI0mh4"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Song",
+        "url": "https://open.spotify.com/album/5AXypWo2PE4LHa3UsVGRsY"
+      },
+      "artists": [
+        {
+          "name": "ITS MUSIC",
+          "url": "https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108278,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/0GxRQtlH4J3YbSIw1zshle"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Song",
+        "url": "https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa"
+      },
+      "artists": [
+        {
+          "name": "ITS MUSIC",
+          "url": "https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 108278,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/6eGrP5UF9ysYwIprgtBTiT"
+    },
+    {
+      "album": {
+        "name": "The Johnny Cash Children's Album",
+        "url": "https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/5qDAVN0mwalEcpBxeLukSc"
+    },
+    {
+      "album": {
+        "name": "Learning Lessons, Telling Time, Please & Thank You! Songs about Concepts, Development & Life Skills for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/6E3neJrYCA8ssrfuWsZF6I"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95217,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/2JmJzeCjaihJKvmrRvQVf2"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 15 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95217,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/2hgDsY9oLhVlazuyr6FRyj"
+    },
+    {
+      "album": {
+        "name": "Animal Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/5Pf03M2kgAKGuSQU2sTDD7"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 95217,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/4O2xH89juk0LbwDOYi2rgq"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103573,
+      "name": "Dinosaur Sounds",
+      "url": "https://open.spotify.com/track/6xAuHtb4cmeZSgKvbyehHV"
+    },
+    {
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes Vol. 4: Row, Row, Row Your Rhyme",
+        "url": "https://open.spotify.com/album/1j268hisybBFDdSwuYbD30"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106897,
+      "name": "Dinosaur Stomp",
+      "url": "https://open.spotify.com/track/1j4qgMhS4E9yxCcNlnxMqQ"
+    },
+    {
+      "album": {
+        "name": "Can You Make Music?",
+        "url": "https://open.spotify.com/album/5NZgvrWTdnPLkJDt7FBgBd"
+      },
+      "artists": [
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Dinosaur Zoo",
+      "url": "https://open.spotify.com/track/46SyqeO89eAoLhpzL7Tzzc"
+    },
+    {
+      "album": {
+        "name": "Have You Seen My Dinosaur?",
+        "url": "https://open.spotify.com/album/1CjRVkI5hBWvzUXWL8S3R8"
+      },
+      "artists": [
+        {
+          "name": "Animalooza",
+          "url": "https://open.spotify.com/artist/6M1XDs0tn92hksswEEIPTw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/3IAQoJtKhuGCOy4X7gA1LZ"
+    },
+    {
+      "album": {
+        "name": "Kids Trap",
+        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128674,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/5vYhA0rQB298cOPvIup5vy"
+    },
+    {
+      "album": {
+        "name": "Dinosaurs",
+        "url": "https://open.spotify.com/album/6tXNn4MnqUi7XeQdPGZKCy"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127238,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/41RBdPyRsBlEFvFVyJBSAM"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102034,
+      "name": "Dinosaurs a to Z",
+      "url": "https://open.spotify.com/track/63vBOhNQ7H5bUJSpmgl6fH"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/6yO1UM2nOiheT7quK201d9"
+      },
+      "artists": [
+        {
+          "name": "ABC Kids",
+          "url": "https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111960,
+      "name": "Dinosaurs Lived Long Ago",
+      "url": "https://open.spotify.com/track/3AAacPnJJnNzApDzmh7G7W"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/7l9AkIwUIzyiJnhfogzHr6"
+      },
+      "artists": [
+        {
+          "name": "Juice Music",
+          "url": "https://open.spotify.com/artist/1oiqHgUyH0H4EPJ8UZhUnB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111960,
+      "name": "Dinosaurs Lived Long Ago",
+      "url": "https://open.spotify.com/track/55EaxdWwByTuUWx0yWZ4Zy"
+    },
+    {
+      "album": {
+        "name": "Dinosaurs On The Earth",
+        "url": "https://open.spotify.com/album/2aTYtXpXHJlmusCycUz25p"
+      },
+      "artists": [
+        {
+          "name": "Deano Yipadee",
+          "url": "https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1"
+        },
+        {
+          "name": "Mr Yipadee",
+          "url": "https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151431,
+      "name": "Dinosaurs On The Earth",
+      "url": "https://open.spotify.com/track/4sk1P4o0fwfAxjTyrofHk2"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51409,
+      "name": "Diplodocus",
+      "url": "https://open.spotify.com/track/3IahtDw3h490pYlf4qEAPV"
+    },
+    {
+      "album": {
+        "name": "Do the Dinosaur Stomp!!",
+        "url": "https://open.spotify.com/album/0wCuEugnQlLrAuwJ7RtJRJ"
+      },
+      "artists": [
+        {
+          "name": "Dan and Dani",
+          "url": "https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 141613,
+      "name": "Do the Dinosaur Stomp",
+      "url": "https://open.spotify.com/track/1IHFP0JpPkwSnHu2qHzbY8"
+    },
+    {
+      "album": {
+        "name": "Do the Dinosaur Stomp!!",
+        "url": "https://open.spotify.com/album/6wMYg2zM3u0ndxNpvSFNhZ"
+      },
+      "artists": [
+        {
+          "name": "Dan and Dani",
+          "url": "https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141613,
+      "name": "Do the Dinosaur Stomp",
+      "url": "https://open.spotify.com/track/6rCMaxiENR7l3m3Vrsv2Mt"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75840,
+      "name": "Eggs",
+      "url": "https://open.spotify.com/track/16M3rhSB3M0cQnRYBnC5wv"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72195,
+      "name": "Elasmosaurus",
+      "url": "https://open.spotify.com/track/7bjofqDcOORj16dVlFh3xL"
+    },
+    {
+      "album": {
+        "name": "Future Dinosaur",
+        "url": "https://open.spotify.com/album/17923sUaKpO4osXta791hP"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156794,
+      "name": "Future Dinosaur",
+      "url": "https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ"
+    },
+    {
+      "album": {
+        "name": "Sha Doo Be Doop",
+        "url": "https://open.spotify.com/album/1djqfg4Ff7SQr11qDwlhda"
+      },
+      "artists": [
+        {
+          "name": "Miss Nina",
+          "url": "https://open.spotify.com/artist/5KEhjdWM9S9VlQ23cl0nvq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209853,
+      "name": "How Do Dinosaurs Say Goodnight",
+      "url": "https://open.spotify.com/track/3AlNkt4yLvvhVwuIKdiu7P"
+    },
+    {
+      "album": {
+        "name": "Echo Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU"
+      },
+      "artists": [
+        {
+          "name": "Noodle Loaf",
+          "url": "https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "I Am a Lonely T-Rex",
+      "url": "https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Danny Weinkauf",
+          "url": "https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "I Am a Paleontologist",
+      "url": "https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D"
+    },
+    {
+      "album": {
+        "name": "The Mik Maks",
+        "url": "https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110257,
+      "name": "I Love Dinosaurs",
+      "url": "https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4"
+    },
+    {
+      "album": {
+        "name": "The MikMaks",
+        "url": "https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI"
+      },
+      "artists": [
+        {
+          "name": "The MikMaks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 112546,
+      "name": "I Love Dinosaurs",
+      "url": "https://open.spotify.com/track/4VR721woI4keJB0FEexftt"
+    },
+    {
+      "album": {
+        "name": "Monkey Rock Music",
+        "url": "https://open.spotify.com/album/5mNZjlGPSFy80rU9tqD6R0"
+      },
+      "artists": [
+        {
+          "name": "Monkey Rock Music",
+          "url": "https://open.spotify.com/artist/1Nb0YH1uQpQOnLlYDYwEiM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173646,
+      "name": "I Want to Be a Dinosaur",
+      "url": "https://open.spotify.com/track/67jLpM4I2DwzgdkEkpYMqH"
+    },
+    {
+      "album": {
+        "name": "Welcome To Andyland",
+        "url": "https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU"
+      },
+      "artists": [
+        {
+          "name": "Andy Z",
+          "url": "https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "I Went To A Party With Dinosaurs",
+      "url": "https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA"
+    },
+    {
+      "album": {
+        "name": "Five Cent Piece",
+        "url": "https://open.spotify.com/album/2qwZ5mxHuycIXdohstoXpX"
+      },
+      "artists": [
+        {
+          "name": "Randy Kaplan",
+          "url": "https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134213,
+      "name": "I'm A Little Dinosaur",
+      "url": "https://open.spotify.com/track/5JC3RVsVRhkeG0Zw2T2bs1"
+    },
+    {
+      "album": {
+        "name": "I've Got a Dinosaur in My Back Yard!",
+        "url": "https://open.spotify.com/album/0G7vEZn46mvoQG3qOK91QX"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263893,
+      "name": "I've Got a Dinosaur in My Back Yard!",
+      "url": "https://open.spotify.com/track/2MBCVpOqGaVHncwaikBYa3"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81606,
+      "name": "If Dinosaurs Were Still Alive",
+      "url": "https://open.spotify.com/track/77gY2Dpk26t4U6s3NbDTpF"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46600,
+      "name": "If I Could Be a Dinosaur",
+      "url": "https://open.spotify.com/track/1hUsRrItLCkz53gK7v6K1K"
+    },
+    {
+      "album": {
+        "name": "More Singable Songs",
+        "url": "https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66280,
+      "name": "If I Had a Dinosaur",
+      "url": "https://open.spotify.com/track/5xKHWLaim1EWKC3Rn8lgLW"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125318,
+      "name": "Itsy Bitsy Tinysaur",
+      "url": "https://open.spotify.com/track/6Zvl2WPJN9Gvj34VhUvfqE"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125318,
+      "name": "Itsy Bitsy Tinysaur",
+      "url": "https://open.spotify.com/track/7pgHPi3Oofl7Hb9X4xjSfS"
+    },
+    {
+      "album": {
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/1wKjCVsykLnMVSD1GjnoFa"
+      },
+      "artists": [
+        {
+          "name": "Laura Doherty",
+          "url": "https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140746,
+      "name": "Jazzasaurus",
+      "url": "https://open.spotify.com/track/0iaLGnGlvDJ9buO8NEicBk"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Let's Sing About Dinosaurs",
+      "url": "https://open.spotify.com/track/6Gs7Cv18lX5p2ebusnbO0D"
+    },
+    {
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC"
+      },
+      "artists": [
+        {
+          "name": "Wonderpop",
+          "url": "https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120421,
+      "name": "Like a Dinosaur",
+      "url": "https://open.spotify.com/track/0WCxbXhATh4GdrHPnMia7y"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39266,
+      "name": "Little Dinosaurs",
+      "url": "https://open.spotify.com/track/7a9hz7C7Vo8arrqw4yDnup"
+    },
+    {
+      "album": {
+        "name": "Let's Go!",
+        "url": "https://open.spotify.com/album/5MKBjVit4lM7LXjsvmvUL8"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Little Dinosaurus",
+      "url": "https://open.spotify.com/track/4wWzk1ppZh3xfKd7l4NP4E"
+    },
+    {
+      "album": {
+        "name": "Little Dinosaurus",
+        "url": "https://open.spotify.com/album/35fmGM7Rl5Q2TGin2D2IOl"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174000,
+      "name": "Little Dinosaurus",
+      "url": "https://open.spotify.com/track/70FDE0VqXyKSgcHKs1hZKe"
+    },
+    {
+      "album": {
+        "name": "Little Dinosaurus",
+        "url": "https://open.spotify.com/album/7vZDYV2dhWDOFK0U5lXqOX"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174000,
+      "name": "Little Dinosaurus",
+      "url": "https://open.spotify.com/track/75BMWyxzuLWrnHz6PoZTXY"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52007,
+      "name": "Maiasaura",
+      "url": "https://open.spotify.com/track/5EDveaoH763e9je0R32NGl"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56764,
+      "name": "Move Like the Dinosaurs",
+      "url": "https://open.spotify.com/track/1NbtFH2EqLOhSxk5M3cQhQ"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/6yO1UM2nOiheT7quK201d9"
+      },
+      "artists": [
+        {
+          "name": "ABC Kids",
+          "url": "https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111853,
+      "name": "My Name Is Stegosaurus",
+      "url": "https://open.spotify.com/track/0qNMaN0y55aysvGIfWvIUP"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/7DoZuwaUfWSwxUCuBLJP8z"
+      },
+      "artists": [
+        {
+          "name": "Juice Music",
+          "url": "https://open.spotify.com/artist/1oiqHgUyH0H4EPJ8UZhUnB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111853,
+      "name": "My Name Is Stegosaurus",
+      "url": "https://open.spotify.com/track/2UTzezawBFaGFO1fUDIekl"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "My Pet Dinosaur",
+      "url": "https://open.spotify.com/track/6t4mhUUMUbOKYa6qDvFdjv"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43466,
+      "name": "My Tail",
+      "url": "https://open.spotify.com/track/1agRqmzkgbXOFUDxI2iNZB"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55172,
+      "name": "Pachycephalosaurus",
+      "url": "https://open.spotify.com/track/05tcDylboUbDWv7Clu0oz7"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64247,
+      "name": "Parasaurolophus",
+      "url": "https://open.spotify.com/track/6jN9bEYtPmPkhQr8R6svX3"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78666,
+      "name": "Pteranodon",
+      "url": "https://open.spotify.com/track/4Ur8zcWidsOLADat4BhaSr"
+    },
+    {
+      "album": {
+        "name": "Dance Party!",
+        "url": "https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159721,
+      "name": "Roar Like a Dinosaur",
+      "url": "https://open.spotify.com/track/5V8PN3AF3IEckdMJo9Zunq"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157483,
+      "name": "Shopping With A Brontosaurus",
+      "url": "https://open.spotify.com/track/2KxMOKCYqehX3XKVtpnrIf"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157483,
+      "name": "Shopping With a Brontosaurus",
+      "url": "https://open.spotify.com/track/4OR0NngTLpPoqlmr8KQU22"
+    },
+    {
+      "album": {
+        "name": "Danger Danger Dinosaur",
+        "url": "https://open.spotify.com/album/1zLWbI6BRhEkLEdqf142D7"
+      },
+      "artists": [
+        {
+          "name": "Jurassic Joe",
+          "url": "https://open.spotify.com/artist/3SVdZYt3fcPEWmC6iT2Jeb"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Sleepy Stegosaurus Stomp",
+      "url": "https://open.spotify.com/track/0hyiw8JiGwxAYZskcumGnT"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Spinosaurus Song",
+      "url": "https://open.spotify.com/track/3Iv6FnnVSOZRPlm6yR8Doi"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203125,
+      "name": "Stack up the Dinosaurs",
+      "url": "https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw"
+    },
+    {
+      "album": {
+        "name": "Stomp Stomp Stomp Like A Dinosaur",
+        "url": "https://open.spotify.com/album/2nws6EE5XnutZte6uH6zGF"
+      },
+      "artists": [
+        {
+          "name": "Deano Yipadee",
+          "url": "https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1"
+        },
+        {
+          "name": "Mr Yipadee",
+          "url": "https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68675,
+      "name": "Stomp Stomp Stomp Like A Dinosaur",
+      "url": "https://open.spotify.com/track/6flehrW6bvOEjgKnh0mAls"
+    },
+    {
+      "album": {
+        "name": "Stomp! Soar! Swish!",
+        "url": "https://open.spotify.com/album/68VW9HyYfm0u4eVEJeKarN"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107937,
+      "name": "Stomp! Soar! Swish!",
+      "url": "https://open.spotify.com/track/5qJi35QJrauAR3aGABurwr"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244909,
+      "name": "T-Rex Has Big Feet - Tyrannosaurus Rex Song",
+      "url": "https://open.spotify.com/track/52s0HzJRBNauo9GduiTnqU"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59694,
+      "name": "The Best Hunter, Tyrannosaurus",
+      "url": "https://open.spotify.com/track/6DiAaMqHinjIYgwPZfcb8J"
+    },
+    {
+      "album": {
+        "name": "The BeatBuds, Vol. 3",
+        "url": "https://open.spotify.com/album/2hHYn4OtrO7CWesvPQJhRf"
+      },
+      "artists": [
+        {
+          "name": "The BeatBuds",
+          "url": "https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214965,
+      "name": "The Dino Dance!",
+      "url": "https://open.spotify.com/track/3UmbpHb6wSstg3JjcUQwhP"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80066,
+      "name": "The Dinosaur Party",
+      "url": "https://open.spotify.com/track/3LiiYyVTv7LzLWiMyvlwdF"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs for Kids",
+        "url": "https://open.spotify.com/album/1ahlpmJ38I8iPl8OAfdpQb"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "The Dinosaurs Are Coming!",
+      "url": "https://open.spotify.com/track/0q1Ic9QRtXtxzEVgwS1trW"
+    },
+    {
+      "album": {
+        "name": "The Dinosaurs Are Coming!",
+        "url": "https://open.spotify.com/album/0Kgwp2M5Vqw13O0iJX8jPo"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 134000,
+      "name": "The Dinosaurs Are Coming!",
+      "url": "https://open.spotify.com/track/4anOZJiTLR5Ai1qcjOMb2c"
+    },
+    {
+      "album": {
+        "name": "The Dinosaurs Are Coming!",
+        "url": "https://open.spotify.com/album/0YhthjscJzCmS47adxhpgt"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134000,
+      "name": "The Dinosaurs are Coming!",
+      "url": "https://open.spotify.com/track/6Q9tvBijQ1FVn6DWrVPdL9"
+    },
+    {
+      "album": {
+        "name": "Mostly for Kids",
+        "url": "https://open.spotify.com/album/2J9M4hXifZTCo4cKs0DHjd"
+      },
+      "artists": [
+        {
+          "name": "The Beach Road Band",
+          "url": "https://open.spotify.com/artist/0iLv7uczQ9v49LRixReBZ9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147018,
+      "name": "The Dinosaurs Are Marching",
+      "url": "https://open.spotify.com/track/7icOxR2HseYGvziIjUj2jq"
+    },
+    {
+      "album": {
+        "name": "Josephine's Action Songs For Children",
+        "url": "https://open.spotify.com/album/06peWfIUvm1WiVqaAnUBnr"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/67tX1fo6AJmnLmpU2BqPLl"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "The Prehistoric Animal Brigade",
+      "url": "https://open.spotify.com/track/4kYK8umjwWrPSQqENmeSGM"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71675,
+      "name": "The Three Mimuses",
+      "url": "https://open.spotify.com/track/3ObyNz4RoJsrH7dwvxE1SM"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "The Velociraptor Song",
+      "url": "https://open.spotify.com/track/5hALGujboRj2HrjNOnqvbt"
+    },
+    {
+      "album": {
+        "name": "Singin' With Susan, Too!",
+        "url": "https://open.spotify.com/album/2zT7vrhzsTrf31OJSKfecH"
+      },
+      "artists": [
+        {
+          "name": "Susan Shane-Linder",
+          "url": "https://open.spotify.com/artist/24hTKVtx1aWKa04LRIMdW1"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "There's A Dinosaur Knocking At My Door",
+      "url": "https://open.spotify.com/track/3B0ELI0yd3h0BpSpw1z5FK"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs 2",
+        "url": "https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61935,
+      "name": "Triceratops",
+      "url": "https://open.spotify.com/track/5nEXWgWZ2SuLsZSdeP8ves"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113777,
+      "name": "Trixie Triceratops",
+      "url": "https://open.spotify.com/track/38k0VJ7DzzvLHtsUwGAbUV"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "Trixie Triceratops",
+      "url": "https://open.spotify.com/track/3l5fE0FzmZI8iHaXnInFZ4"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78674,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/2E0PvfB0DgRIcNVbnW8MOr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79603,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/669aoYopY8BdyiTOSTuMtk"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
+    },
+    {
+      "album": {
+        "name": "Future Dinosaur",
+        "url": "https://open.spotify.com/album/17923sUaKpO4osXta791hP"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97530,
+      "name": "Tyrannosaurus Rock",
+      "url": "https://open.spotify.com/track/6l9TZzAXzDzdSy47XjPx0N"
+    },
+    {
+      "album": {
+        "name": "Whaddaya Think Of That?",
+        "url": "https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137066,
+      "name": "We Are The Dinosaurs",
+      "url": "https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA"
+    },
+    {
+      "album": {
+        "name": "Mostly for Kids",
+        "url": "https://open.spotify.com/album/2J9M4hXifZTCo4cKs0DHjd"
+      },
+      "artists": [
+        {
+          "name": "The Beach Road Band",
+          "url": "https://open.spotify.com/artist/0iLv7uczQ9v49LRixReBZ9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "What Do Dinosaurs Eat?",
+      "url": "https://open.spotify.com/track/2sOst7SwrSQW9Uwuf3PpdK"
+    },
+    {
+      "album": {
+        "name": "What If Dinosaurs Weren't Extinct?",
+        "url": "https://open.spotify.com/album/6K2fxfeYDqGzKdaeBiEJpi"
+      },
+      "artists": [
+        {
+          "name": "The New Fangles",
+          "url": "https://open.spotify.com/artist/6oZcoOXMpv9ubyQIxAwoWB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152854,
+      "name": "What If Dinosaurs Weren't Extinct?",
+      "url": "https://open.spotify.com/track/3zVY16C5qignSsHk9JBwHq"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30733,
+      "name": "What's for Lunch?",
+      "url": "https://open.spotify.com/track/3CO1awO3kYXHU4YqowCnHR"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Dinosaur Songs",
+        "url": "https://open.spotify.com/album/4C2baITZMPwU2M5zB2VIjj"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88764,
+      "name": "Where Did the Dinosaurs Go?",
+      "url": "https://open.spotify.com/track/1n4DalloVO6HmwdS7BweSd"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57266,
+      "name": "Whew!",
+      "url": "https://open.spotify.com/track/1guk4SGLVPEXw30FIBSDDD"
+    },
+    {
+      "album": {
+        "name": "Wee Sing Dinosaurs",
+        "url": "https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1"
+      },
+      "artists": [
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69706,
+      "name": "Who Named the Dinosaur?",
+      "url": "https://open.spotify.com/track/7bDaPngCjBKnWdp37sHJjU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7gU1rnYEgSF"
 }

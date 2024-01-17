@@ -4,7 +4,7 @@
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-73 songs - 4 hr 3 min
+74 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 | 2023-12-12 | 2023-12-15 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 | 2023-12-12 |  |
 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 | 2023-12-12 |  |
-| [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2023-12-12 |  |
+| [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 | 2023-12-12 | 2024-01-05 |
+| [Holly Jolly Christmas](https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:01 | 2023-12-19 |  |
 | [I Don't Know What Christmas Is \(But Christmastime Is Here\)](https://open.spotify.com/track/7AD4sAsJJQm0Bog0zhwYrf) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [The Guardians of the Galaxy Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M) | 3:02 | 2023-12-12 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 | 2023-12-12 |  |
 | [I've Been Bad, Santa](https://open.spotify.com/track/0NZFXkjFEneg4svPnAqKzs) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [I've Been Bad, Santa](https://open.spotify.com/album/7vvFBzfng56A0n7LUR7koJ) | 2:47 | 2023-12-12 |  |

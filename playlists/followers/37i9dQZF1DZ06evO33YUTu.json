@@ -1,289 +1,1261 @@
 {
-  "2023-03-20": 103077,
-  "2023-03-21": 103112,
-  "2023-03-22": 103151,
-  "2023-03-23": 103191,
-  "2023-03-24": 103191,
-  "2023-03-25": 103273,
-  "2023-03-26": 103326,
-  "2023-03-27": 103358,
-  "2023-03-28": 103386,
-  "2023-03-29": 103449,
-  "2023-03-30": 103507,
-  "2023-03-31": 103507,
-  "2023-04-01": 103561,
-  "2023-04-02": 103599,
-  "2023-04-03": 103630,
-  "2023-04-04": 103665,
-  "2023-04-05": 103727,
-  "2023-04-06": 103783,
-  "2023-04-07": 103831,
-  "2023-04-09": 103919,
-  "2023-04-10": 103950,
-  "2023-04-11": 104021,
-  "2023-04-12": 104021,
-  "2023-04-13": 104068,
-  "2023-04-14": 104114,
-  "2023-04-15": 104150,
-  "2023-04-16": 104195,
-  "2023-04-17": 104238,
-  "2023-04-18": 104282,
-  "2023-04-19": 104325,
-  "2023-04-20": 104368,
-  "2023-04-21": 104399,
-  "2023-04-22": 104432,
-  "2023-04-23": 104487,
-  "2023-04-24": 104535,
-  "2023-04-25": 104573,
-  "2023-04-26": 104609,
-  "2023-04-27": 104658,
-  "2023-04-28": 104714,
-  "2023-04-29": 104762,
-  "2023-04-30": 104802,
-  "2023-05-01": 104823,
-  "2023-05-02": 104856,
-  "2023-05-03": 104873,
-  "2023-05-04": 104915,
-  "2023-05-05": 104965,
-  "2023-05-06": 105014,
-  "2023-05-07": 105051,
-  "2023-05-08": 105099,
-  "2023-05-09": 105146,
-  "2023-05-10": 105186,
-  "2023-05-11": 105221,
-  "2023-05-12": 105290,
-  "2023-05-13": 105335,
-  "2023-05-14": 105384,
-  "2023-05-15": 105430,
-  "2023-05-16": 105473,
-  "2023-05-17": 105524,
-  "2023-05-18": 105566,
-  "2023-05-19": 105604,
-  "2023-05-20": 105702,
-  "2023-05-21": 105702,
-  "2023-05-22": 105702,
-  "2023-05-23": 105787,
-  "2023-05-24": 105858,
-  "2023-05-25": 105868,
-  "2023-05-26": 105918,
-  "2023-05-27": 105967,
-  "2023-05-28": 106024,
-  "2023-05-29": 106024,
-  "2023-05-30": 106136,
-  "2023-05-31": 106171,
-  "2023-06-01": 106219,
-  "2023-06-02": 106275,
-  "2023-06-03": 106351,
-  "2023-06-04": 106414,
-  "2023-06-05": 106466,
-  "2023-06-06": 106516,
-  "2023-06-07": 106576,
-  "2023-06-08": 106632,
-  "2023-06-09": 106697,
-  "2023-06-10": 106773,
-  "2023-06-11": 106835,
-  "2023-06-12": 106901,
-  "2023-06-13": 106963,
-  "2023-06-14": 106963,
-  "2023-06-15": 107091,
-  "2023-06-16": 107146,
-  "2023-06-17": 107204,
-  "2023-06-18": 107254,
-  "2023-06-19": 107298,
-  "2023-06-20": 107348,
-  "2023-06-21": 107396,
-  "2023-06-22": 107433,
-  "2023-06-23": 107480,
-  "2023-06-24": 107513,
-  "2023-06-25": 107548,
-  "2023-06-26": 107584,
-  "2023-06-27": 107615,
-  "2023-06-28": 107648,
-  "2023-06-29": 107681,
-  "2023-06-30": 107712,
-  "2023-07-01": 107822,
-  "2023-07-02": 107822,
-  "2023-07-03": 107852,
-  "2023-07-04": 107881,
-  "2023-07-05": 107934,
-  "2023-07-06": 108022,
-  "2023-07-07": 108022,
-  "2023-07-08": 108022,
-  "2023-07-09": 108115,
-  "2023-07-10": 108171,
-  "2023-07-11": 108212,
-  "2023-07-12": 108260,
-  "2023-07-13": 108316,
-  "2023-07-14": 108363,
-  "2023-07-15": 108408,
-  "2023-07-16": 108483,
-  "2023-07-17": 108521,
-  "2023-07-18": 108553,
-  "2023-07-19": 108594,
-  "2023-07-20": 108638,
-  "2023-07-21": 108682,
-  "2023-07-22": 108709,
-  "2023-07-23": 108749,
-  "2023-07-24": 108770,
-  "2023-07-25": 108801,
-  "2023-07-26": 108838,
-  "2023-07-27": 108877,
-  "2023-07-28": 108973,
-  "2023-07-29": 109186,
-  "2023-07-30": 109251,
-  "2023-07-31": 109320,
-  "2023-08-01": 109370,
-  "2023-08-02": 109425,
-  "2023-08-03": 109475,
-  "2023-08-04": 109533,
-  "2023-08-05": 109584,
-  "2023-08-06": 109676,
-  "2023-08-07": 109676,
-  "2023-08-08": 109717,
-  "2023-08-09": 109767,
-  "2023-08-10": 109817,
-  "2023-08-11": 109850,
-  "2023-08-12": 109850,
-  "2023-08-13": 109850,
-  "2023-08-14": 109964,
-  "2023-08-15": 109964,
-  "2023-08-16": 109964,
-  "2023-08-17": 109964,
-  "2023-08-18": 109964,
-  "2023-08-19": 109964,
-  "2023-08-20": 110197,
-  "2023-08-21": 110197,
-  "2023-08-22": 110280,
-  "2023-08-23": 110280,
-  "2023-08-24": 110280,
-  "2023-08-25": 110280,
-  "2023-08-26": 110429,
-  "2023-08-27": 110429,
-  "2023-08-28": 110537,
-  "2023-08-29": 110537,
-  "2023-08-30": 110537,
-  "2023-08-31": 110711,
-  "2023-09-01": 110752,
-  "2023-09-02": 110752,
-  "2023-09-03": 110752,
-  "2023-09-04": 110752,
-  "2023-09-05": 110752,
-  "2023-09-06": 110752,
-  "2023-09-07": 110752,
-  "2023-09-08": 110752,
-  "2023-09-09": 110752,
-  "2023-09-10": 110752,
-  "2023-09-11": 110752,
-  "2023-09-12": 110752,
-  "2023-09-13": 110752,
-  "2023-09-14": 110752,
-  "2023-09-15": 110752,
-  "2023-09-16": 111378,
-  "2023-09-17": 111378,
-  "2023-09-18": 111378,
-  "2023-09-19": 111485,
-  "2023-09-20": 111485,
-  "2023-09-21": 111485,
-  "2023-09-22": 111594,
-  "2023-09-23": 111594,
-  "2023-09-24": 111594,
-  "2023-09-25": 111594,
-  "2023-09-26": 111709,
-  "2023-09-27": 111709,
-  "2023-09-28": 111709,
-  "2023-09-29": 111709,
-  "2023-09-30": 111709,
-  "2023-10-01": 111709,
-  "2023-10-02": 111709,
-  "2023-10-03": 111709,
-  "2023-10-04": 111709,
-  "2023-10-05": 111709,
-  "2023-10-06": 111709,
-  "2023-10-07": 111709,
-  "2023-10-08": 111709,
-  "2023-10-09": 111709,
-  "2023-10-10": 111709,
-  "2023-10-11": 112194,
-  "2023-10-12": 112194,
-  "2023-10-13": 112194,
-  "2023-10-14": 112194,
-  "2023-10-15": 112194,
-  "2023-10-16": 112194,
-  "2023-10-17": 112194,
-  "2023-10-18": 112194,
-  "2023-10-19": 112194,
-  "2023-10-20": 112194,
-  "2023-10-21": 112194,
-  "2023-10-22": 112194,
-  "2023-10-23": 112194,
-  "2023-10-24": 112194,
-  "2023-10-25": 112194,
-  "2023-10-26": 112194,
-  "2023-10-27": 112194,
-  "2023-10-28": 112194,
-  "2023-10-29": 112194,
-  "2023-10-30": 112194,
-  "2023-10-31": 112194,
-  "2023-11-01": 112194,
-  "2023-11-02": 112194,
-  "2023-11-03": 112194,
-  "2023-11-04": 112194,
-  "2023-11-05": 112194,
-  "2023-11-06": 112194,
-  "2023-11-07": 112194,
-  "2023-11-08": 112194,
-  "2023-11-09": 112194,
-  "2023-11-10": 112194,
-  "2023-11-11": 113251,
-  "2023-11-12": 113251,
-  "2023-11-13": 113251,
-  "2023-11-14": 113251,
-  "2023-11-15": 113251,
-  "2023-11-16": 113251,
-  "2023-11-17": 113251,
-  "2023-11-18": 113251,
-  "2023-11-19": 113251,
-  "2023-11-20": 113251,
-  "2023-11-21": 113251,
-  "2023-11-22": 113251,
-  "2023-11-23": 113251,
-  "2023-11-24": 113251,
-  "2023-11-25": 113251,
-  "2023-11-26": 113251,
-  "2023-11-27": 113251,
-  "2023-11-28": 113251,
-  "2023-11-29": 113251,
-  "2023-11-30": 113251,
-  "2023-12-01": 113251,
-  "2023-12-02": 113251,
-  "2023-12-03": 113251,
-  "2023-12-04": 113251,
-  "2023-12-05": 113251,
-  "2023-12-06": 113251,
-  "2023-12-07": 113251,
-  "2023-12-08": 113251,
-  "2023-12-09": 113251,
-  "2023-12-10": 113251,
-  "2023-12-11": 113251,
-  "2023-12-12": 113251,
-  "2023-12-13": 113251,
-  "2023-12-14": 114320,
-  "2023-12-15": 114334,
-  "2023-12-16": 114370,
-  "2023-12-17": 114398,
-  "2023-12-18": 114417,
-  "2023-12-19": 114420,
-  "2023-12-20": 114451,
-  "2023-12-21": 114479,
-  "2023-12-22": 114513,
-  "2023-12-23": 114544,
-  "2023-12-24": 114586,
-  "2023-12-25": 114621,
-  "2023-12-26": 114645,
-  "2023-12-27": 114678,
-  "2023-12-30": 114774,
-  "2023-12-31": 114814,
-  "2024-01-01": 114843,
-  "2024-01-02": 114859,
-  "2024-01-03": 114880
+  "2024-01-17": 115160,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Greeicy. The essential tracks, all in one playlist.",
+  "name": "This Is Greeicy",
+  "tracks": [
+    {
+      "album": {
+        "name": "VIAJANTE",
+        "url": "https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208859,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/6hY6LMOTZOWUOZMk4wPW92"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159187,
+      "name": "22",
+      "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "A M\u00ed No",
+      "url": "https://open.spotify.com/track/5UJ0ekAw8exus0fvaUWSZ8"
+    },
+    {
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6mzdHLMTM2swBdvWCQ8ZfF"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135320,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/7ex5TNhdJsNNVpovfntqg3"
+    },
+    {
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "album": {
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "album": {
+        "name": "Brindemos",
+        "url": "https://open.spotify.com/album/109eecGsDwd2Mz5QGy7m95"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188935,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/3JzxVjdPHJTaqLx2Usc1EY"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 163438,
+      "name": "Cartagena ft. Greeicy",
+      "url": "https://open.spotify.com/track/3VG2UqE5YM89gamF9Ibn88"
+    },
+    {
+      "album": {
+        "name": "Cartagena ft. Greeicy",
+        "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163438,
+      "name": "Cartagena ft. Greeicy",
+      "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6eaeqYb01HV1kwgA0GSiS6"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7f8FPVZ0frAO4aWtgzGrXr"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Cuando Te Vi",
+      "url": "https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB"
+    },
+    {
+      "album": {
+        "name": "Desesperado (Voy A Tomar)",
+        "url": "https://open.spotify.com/album/3zIhxSQpieLvjXLpZSXdDa"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253173,
+      "name": "Desesperado (Voy A Tomar)",
+      "url": "https://open.spotify.com/track/4tvtsvgrIksr7iqzPeADXB"
+    },
+    {
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/6MegrXexsY8lv0nzzpIcTh"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 189375,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/2g3ktWJ3T0gTyj6UkNKGho"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG"
+    },
+    {
+      "album": {
+        "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]",
+        "url": "https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
+      "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
+    },
+    {
+      "album": {
+        "name": "SIM (Deluxe) (ao Vivo)",
+        "url": "https://open.spotify.com/album/66zKNTVsVlOHWW0Cq8uNf3"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 172908,
+      "name": "Ela \u00c9 Hit - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YAvFOhGCLSE7MkWonlMX3"
+    },
+    {
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
+    },
+    {
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117973,
+      "name": "Esta Vez",
+      "url": "https://open.spotify.com/track/36MMDlQwvVLVH0In2L9P8s"
+    },
+    {
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/3O383fCaaKgZuKQhWy3KVC"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214413,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1aryOmpoGVqiZm7GwPWiqY"
+    },
+    {
+      "album": {
+        "name": "I Love You (432 Hz) (with Greeicy)",
+        "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "I Love You (432 Hz) (with Greeicy)",
+      "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
+    },
+    {
+      "album": {
+        "name": "YELIANA - Cap. 2 - I Try For You / Qu\u00edmica",
+        "url": "https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136426,
+      "name": "I Try For You",
+      "url": "https://open.spotify.com/track/5rVbqzznJzjD8VnlwBdbsC"
+    },
+    {
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184106,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
+    },
+    {
+      "album": {
+        "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
+        "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218981,
+      "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
+      "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
+    },
+    {
+      "album": {
+        "name": "La Ducha Remix (con Becky G, Tini)",
+        "url": "https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274437,
+      "name": "La Ducha Remix (con Becky G, Tini)",
+      "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "album": {
+        "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
+        "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+    },
+    {
+      "album": {
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173796,
+      "name": "Le Viene Bien",
+      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Lejos Conmigo",
+      "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "album": {
+        "name": "Lo Malo (Remix)",
+        "url": "https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ana Guerra",
+          "url": "https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184009,
+      "name": "Lo Malo - Remix",
+      "url": "https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT"
+    },
+    {
+      "album": {
+        "name": "Locos Dementes",
+        "url": "https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 215961,
+      "name": "Locos Dementes",
+      "url": "https://open.spotify.com/track/1avccdZyIOpCisznKwu47H"
+    },
+    {
+      "album": {
+        "name": "Desde Mi Ventana",
+        "url": "https://open.spotify.com/album/6CbW8IB927ZyoQzG5r4yUV"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215961,
+      "name": "Locos Dementes",
+      "url": "https://open.spotify.com/track/1sUMlYx18k1f9oIvuNO16B"
+    },
+    {
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126586,
+      "name": "Lokita",
+      "url": "https://open.spotify.com/track/6FLuiqBet9aqtsipah7g4T"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/50SFVefoyzWnJy1oQWfRtr"
+    },
+    {
+      "album": {
+        "name": "Los Besos",
+        "url": "https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 202733,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
+    },
+    {
+      "album": {
+        "name": "Los Besos (Versi\u00f3n Piano)",
+        "url": "https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230840,
+      "name": "Los Besos - Versi\u00f3n Piano",
+      "url": "https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Andr\u00e9s Saavedra",
+          "url": "https://open.spotify.com/artist/5KG8PVgup7Rd3VJ3SGTVvN"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Mala Fama - Remix",
+      "url": "https://open.spotify.com/track/1H3o2Pde9RlIa0V2crN3kb"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 168626,
+      "name": "Menos De Ti",
+      "url": "https://open.spotify.com/track/5HGiC7IuudTnIu8Eg9p4dM"
+    },
+    {
+      "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "album": {
+        "name": "Minifalda",
+        "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "Minifalda",
+      "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0"
+    },
+    {
+      "album": {
+        "name": "La Piti",
+        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx"
+    },
+    {
+      "album": {
+        "name": "No Te Equivoques",
+        "url": "https://open.spotify.com/album/5tGZBD6za4M23dbQbLExY0"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214828,
+      "name": "No Te Equivoques",
+      "url": "https://open.spotify.com/track/4JXN8t3V1vdl75IczGJcpK"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206497,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
+    },
+    {
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "album": {
+        "name": "YELIANA - Cap. 2 - I Try For You / Qu\u00edmica",
+        "url": "https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137680,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF"
+    },
+    {
+      "album": {
+        "name": "Ravin'",
+        "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 198120,
+      "name": "Ravin'",
+      "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
+    },
+    {
+      "album": {
+        "name": "Si Tu Amor No Vuelve",
+        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo M\u00eda",
+        "url": "https://open.spotify.com/album/4JhTqi7hgyUVxDzw5nFANE"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "S\u00f3lo M\u00eda",
+      "url": "https://open.spotify.com/track/3eXD7hq9tUrQ5gmdKNaSKQ"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242413,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
+    },
+    {
+      "album": {
+        "name": "Te Est\u00e1s Enamorando de M\u00ed",
+        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Te Est\u00e1s Enamorando de M\u00ed",
+      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
+    },
+    {
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 198413,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
+    },
+    {
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "Ya Para Qu\u00e9",
+      "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
+    },
+    {
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu"
 }

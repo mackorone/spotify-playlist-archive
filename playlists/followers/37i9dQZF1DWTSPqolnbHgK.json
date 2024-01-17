@@ -1,735 +1,5605 @@
 {
-  "2021-12-25": 58077,
-  "2021-12-26": 58070,
-  "2021-12-27": 58059,
-  "2021-12-28": 58059,
-  "2021-12-29": 58058,
-  "2021-12-30": 58053,
-  "2021-12-31": 58052,
-  "2022-01-01": 58043,
-  "2022-01-02": 58041,
-  "2022-01-03": 58039,
-  "2022-01-04": 58028,
-  "2022-01-05": 58025,
-  "2022-01-06": 58019,
-  "2022-01-07": 58013,
-  "2022-01-08": 58006,
-  "2022-01-09": 58005,
-  "2022-01-10": 57999,
-  "2022-01-11": 57994,
-  "2022-01-12": 57991,
-  "2022-01-13": 57989,
-  "2022-01-14": 57984,
-  "2022-01-15": 57969,
-  "2022-01-16": 57968,
-  "2022-01-17": 57960,
-  "2022-01-18": 57959,
-  "2022-01-19": 57954,
-  "2022-01-20": 57954,
-  "2022-01-21": 57952,
-  "2022-01-22": 57953,
-  "2022-01-23": 57946,
-  "2022-01-24": 57940,
-  "2022-01-25": 57936,
-  "2022-01-26": 57931,
-  "2022-01-27": 57921,
-  "2022-01-28": 57916,
-  "2022-01-29": 57914,
-  "2022-01-30": 57908,
-  "2022-01-31": 57900,
-  "2022-02-01": 57898,
-  "2022-02-02": 57899,
-  "2022-02-03": 57898,
-  "2022-02-04": 57893,
-  "2022-02-05": 57891,
-  "2022-02-06": 57886,
-  "2022-02-07": 57884,
-  "2022-02-08": 57877,
-  "2022-02-09": 57871,
-  "2022-02-10": 57868,
-  "2022-02-11": 57864,
-  "2022-02-12": 57861,
-  "2022-02-13": 57855,
-  "2022-02-14": 57845,
-  "2022-02-15": 57841,
-  "2022-02-16": 57838,
-  "2022-02-17": 57829,
-  "2022-02-18": 57822,
-  "2022-02-19": 57812,
-  "2022-02-20": 57807,
-  "2022-02-21": 57803,
-  "2022-02-22": 57801,
-  "2022-02-23": 57795,
-  "2022-02-24": 57791,
-  "2022-02-25": 57789,
-  "2022-02-26": 57786,
-  "2022-02-27": 57785,
-  "2022-02-28": 57785,
-  "2022-03-01": 57783,
-  "2022-03-02": 57781,
-  "2022-03-03": 57778,
-  "2022-03-04": 57774,
-  "2022-03-05": 57775,
-  "2022-03-06": 57775,
-  "2022-03-07": 57772,
-  "2022-03-08": 57767,
-  "2022-03-09": 57759,
-  "2022-03-10": 57757,
-  "2022-03-11": 57754,
-  "2022-03-12": 57752,
-  "2022-03-13": 57750,
-  "2022-03-14": 57745,
-  "2022-03-15": 57742,
-  "2022-03-16": 57743,
-  "2022-03-17": 57740,
-  "2022-03-18": 57735,
-  "2022-03-19": 57733,
-  "2022-03-20": 57733,
-  "2022-03-21": 57728,
-  "2022-03-22": 57728,
-  "2022-03-23": 57725,
-  "2022-03-24": 57719,
-  "2022-03-25": 57718,
-  "2022-03-26": 57716,
-  "2022-03-27": 57713,
-  "2022-03-28": 57711,
-  "2022-03-30": 57705,
-  "2022-03-31": 57706,
-  "2022-04-01": 57702,
-  "2022-04-02": 57700,
-  "2022-04-03": 57697,
-  "2022-04-04": 57695,
-  "2022-04-05": 57695,
-  "2022-04-06": 57693,
-  "2022-04-07": 57691,
-  "2022-04-08": 57690,
-  "2022-04-09": 57685,
-  "2022-04-10": 57680,
-  "2022-04-11": 57678,
-  "2022-04-12": 57677,
-  "2022-04-13": 57673,
-  "2022-04-14": 57668,
-  "2022-04-15": 57668,
-  "2022-04-16": 57666,
-  "2022-04-17": 57663,
-  "2022-04-18": 57661,
-  "2022-04-19": 57660,
-  "2022-04-20": 57660,
-  "2022-04-21": 57659,
-  "2022-04-22": 57654,
-  "2022-04-23": 57656,
-  "2022-04-24": 57652,
-  "2022-04-25": 57649,
-  "2022-04-26": 57646,
-  "2022-04-27": 57639,
-  "2022-04-28": 57636,
-  "2022-04-29": 57633,
-  "2022-04-30": 57630,
-  "2022-05-01": 57630,
-  "2022-05-02": 57630,
-  "2022-05-03": 57628,
-  "2022-05-04": 57623,
-  "2022-05-05": 57618,
-  "2022-05-06": 57618,
-  "2022-05-07": 57616,
-  "2022-05-08": 57613,
-  "2022-05-09": 57612,
-  "2022-05-10": 57609,
-  "2022-05-11": 57606,
-  "2022-05-12": 57599,
-  "2022-05-13": 57596,
-  "2022-05-14": 57596,
-  "2022-05-15": 57594,
-  "2022-05-16": 57592,
-  "2022-05-17": 57590,
-  "2022-05-18": 57588,
-  "2022-05-19": 57581,
-  "2022-05-20": 57579,
-  "2022-05-21": 57575,
-  "2022-05-22": 57575,
-  "2022-05-23": 57569,
-  "2022-05-24": 57568,
-  "2022-05-25": 57566,
-  "2022-05-26": 57565,
-  "2022-05-27": 57564,
-  "2022-05-28": 57563,
-  "2022-05-29": 57557,
-  "2022-05-30": 57556,
-  "2022-05-31": 57551,
-  "2022-06-01": 57544,
-  "2022-06-02": 57544,
-  "2022-06-03": 57540,
-  "2022-06-04": 57537,
-  "2022-06-05": 57536,
-  "2022-06-06": 57534,
-  "2022-06-07": 57531,
-  "2022-06-08": 57530,
-  "2022-06-09": 57528,
-  "2022-06-10": 57524,
-  "2022-06-11": 57519,
-  "2022-06-12": 57516,
-  "2022-06-13": 57517,
-  "2022-06-14": 57515,
-  "2022-06-15": 57513,
-  "2022-06-16": 57512,
-  "2022-06-17": 57509,
-  "2022-06-18": 57507,
-  "2022-06-19": 57498,
-  "2022-06-20": 57498,
-  "2022-06-21": 57497,
-  "2022-06-22": 57498,
-  "2022-06-23": 57498,
-  "2022-06-24": 57496,
-  "2022-06-25": 57491,
-  "2022-06-26": 57488,
-  "2022-06-27": 57486,
-  "2022-06-28": 57480,
-  "2022-06-29": 57479,
-  "2022-06-30": 57477,
-  "2022-07-01": 57477,
-  "2022-07-02": 57475,
-  "2022-07-03": 57475,
-  "2022-07-04": 57473,
-  "2022-07-05": 57472,
-  "2022-07-06": 57470,
-  "2022-07-07": 57468,
-  "2022-07-08": 57464,
-  "2022-07-09": 57462,
-  "2022-07-10": 57458,
-  "2022-07-11": 57458,
-  "2022-07-12": 57455,
-  "2022-07-13": 57455,
-  "2022-07-14": 57454,
-  "2022-07-15": 57450,
-  "2022-07-16": 57447,
-  "2022-07-17": 57447,
-  "2022-07-18": 57447,
-  "2022-07-19": 57447,
-  "2022-07-20": 57443,
-  "2022-07-21": 57440,
-  "2022-07-22": 57438,
-  "2022-07-23": 57437,
-  "2022-07-24": 57437,
-  "2022-07-25": 57437,
-  "2022-07-26": 57437,
-  "2022-07-27": 57431,
-  "2022-07-28": 57429,
-  "2022-07-29": 57427,
-  "2022-07-30": 57429,
-  "2022-07-31": 57429,
-  "2022-08-01": 57428,
-  "2022-08-02": 57422,
-  "2022-08-03": 57422,
-  "2022-08-04": 57421,
-  "2022-08-05": 57417,
-  "2022-08-06": 57413,
-  "2022-08-07": 57412,
-  "2022-08-08": 57417,
-  "2022-08-09": 57417,
-  "2022-08-10": 57414,
-  "2022-08-11": 57413,
-  "2022-08-12": 57410,
-  "2022-08-13": 57405,
-  "2022-08-14": 57405,
-  "2022-08-15": 57404,
-  "2022-08-16": 57401,
-  "2022-08-17": 57397,
-  "2022-08-18": 57400,
-  "2022-08-19": 57396,
-  "2022-08-20": 57393,
-  "2022-08-21": 57397,
-  "2022-08-22": 57395,
-  "2022-08-23": 57396,
-  "2022-08-24": 57398,
-  "2022-08-25": 57406,
-  "2022-08-26": 57407,
-  "2022-08-27": 57413,
-  "2022-08-28": 57421,
-  "2022-08-29": 57420,
-  "2022-08-30": 57422,
-  "2022-08-31": 57431,
-  "2022-09-01": 57432,
-  "2022-09-02": 57436,
-  "2022-09-03": 57450,
-  "2022-09-04": 57463,
-  "2022-09-05": 57486,
-  "2022-09-06": 57516,
-  "2022-09-07": 57541,
-  "2022-09-09": 57584,
-  "2022-09-10": 57607,
-  "2022-09-11": 57624,
-  "2022-09-12": 57654,
-  "2022-09-13": 57677,
-  "2022-09-15": 57724,
-  "2022-09-16": 57753,
-  "2022-09-17": 57774,
-  "2022-09-18": 57798,
-  "2022-09-19": 57820,
-  "2022-09-20": 57841,
-  "2022-09-21": 57860,
-  "2022-09-22": 57887,
-  "2022-09-23": 57917,
-  "2022-09-24": 57940,
-  "2022-09-25": 57970,
-  "2022-09-26": 57985,
-  "2022-09-27": 58000,
-  "2022-09-28": 58002,
-  "2022-09-29": 58022,
-  "2022-09-30": 58035,
-  "2022-10-01": 58046,
-  "2022-10-02": 58056,
-  "2022-10-03": 58071,
-  "2022-10-04": 58087,
-  "2022-10-05": 58096,
-  "2022-10-06": 58113,
-  "2022-10-07": 58126,
-  "2022-10-08": 58131,
-  "2022-10-09": 58165,
-  "2022-10-10": 58173,
-  "2022-10-11": 58190,
-  "2022-10-12": 58195,
-  "2022-10-13": 58202,
-  "2022-10-14": 58218,
-  "2022-10-15": 58223,
-  "2022-10-16": 58235,
-  "2022-10-17": 58247,
-  "2022-10-18": 58253,
-  "2022-10-19": 58267,
-  "2022-10-20": 58277,
-  "2022-10-21": 58285,
-  "2022-10-22": 58297,
-  "2022-10-23": 58309,
-  "2022-10-24": 58317,
-  "2022-10-25": 58321,
-  "2022-10-26": 58326,
-  "2022-10-27": 58320,
-  "2022-10-28": 58328,
-  "2022-10-29": 58330,
-  "2022-10-30": 58338,
-  "2022-10-31": 58349,
-  "2022-11-01": 58348,
-  "2022-11-02": 58361,
-  "2022-11-03": 58358,
-  "2022-11-04": 58361,
-  "2022-11-05": 58362,
-  "2022-11-06": 58367,
-  "2022-11-07": 58372,
-  "2022-11-08": 58380,
-  "2022-11-09": 58385,
-  "2022-11-10": 58391,
-  "2022-11-11": 58390,
-  "2022-11-12": 58392,
-  "2022-11-13": 58401,
-  "2022-11-14": 58400,
-  "2022-11-15": 58403,
-  "2022-11-16": 58412,
-  "2022-11-17": 58415,
-  "2022-11-18": 58419,
-  "2022-11-19": 58415,
-  "2022-11-20": 58411,
-  "2022-11-21": 58411,
-  "2022-11-22": 58410,
-  "2022-11-23": 58411,
-  "2022-11-24": 58416,
-  "2022-11-25": 58426,
-  "2022-11-26": 58429,
-  "2022-11-27": 58433,
-  "2022-11-28": 58432,
-  "2022-11-29": 58435,
-  "2022-11-30": 58434,
-  "2022-12-01": 58425,
-  "2022-12-02": 58421,
-  "2022-12-03": 58416,
-  "2022-12-04": 58408,
-  "2022-12-05": 58404,
-  "2022-12-06": 58401,
-  "2022-12-07": 58396,
-  "2022-12-08": 58388,
-  "2022-12-09": 58384,
-  "2022-12-10": 58378,
-  "2022-12-11": 58373,
-  "2022-12-12": 58367,
-  "2022-12-13": 58365,
-  "2022-12-14": 58361,
-  "2022-12-15": 58360,
-  "2022-12-16": 58360,
-  "2022-12-17": 58359,
-  "2022-12-18": 58357,
-  "2022-12-19": 58355,
-  "2022-12-20": 58351,
-  "2022-12-21": 58351,
-  "2022-12-22": 58346,
-  "2022-12-24": 58340,
-  "2022-12-25": 58334,
-  "2022-12-26": 58332,
-  "2022-12-27": 58326,
-  "2022-12-28": 58323,
-  "2022-12-29": 58322,
-  "2022-12-30": 58317,
-  "2022-12-31": 58311,
-  "2023-01-01": 58308,
-  "2023-01-02": 58303,
-  "2023-01-03": 58296,
-  "2023-01-04": 58295,
-  "2023-01-05": 58294,
-  "2023-01-06": 58293,
-  "2023-01-07": 58287,
-  "2023-01-08": 58285,
-  "2023-01-09": 58275,
-  "2023-01-10": 58272,
-  "2023-01-11": 58270,
-  "2023-01-12": 58267,
-  "2023-01-13": 58266,
-  "2023-01-14": 58261,
-  "2023-01-15": 58260,
-  "2023-01-16": 58254,
-  "2023-01-17": 58249,
-  "2023-01-18": 58247,
-  "2023-01-19": 58240,
-  "2023-01-20": 58237,
-  "2023-01-21": 58234,
-  "2023-01-22": 58229,
-  "2023-01-23": 58226,
-  "2023-01-24": 58226,
-  "2023-01-25": 58221,
-  "2023-01-26": 58218,
-  "2023-01-27": 58218,
-  "2023-01-28": 58214,
-  "2023-01-29": 58209,
-  "2023-01-30": 58203,
-  "2023-01-31": 58203,
-  "2023-02-01": 58200,
-  "2023-02-02": 58200,
-  "2023-02-03": 58197,
-  "2023-02-04": 58196,
-  "2023-02-05": 58194,
-  "2023-02-06": 58194,
-  "2023-02-07": 58190,
-  "2023-02-08": 58186,
-  "2023-02-09": 58186,
-  "2023-02-10": 58185,
-  "2023-02-11": 58184,
-  "2023-02-12": 58176,
-  "2023-02-13": 58170,
-  "2023-02-14": 58170,
-  "2023-02-15": 58169,
-  "2023-02-16": 58168,
-  "2023-02-17": 58168,
-  "2023-02-18": 58164,
-  "2023-02-19": 58163,
-  "2023-02-20": 58160,
-  "2023-02-21": 58156,
-  "2023-02-22": 58156,
-  "2023-02-23": 58156,
-  "2023-02-24": 58151,
-  "2023-02-25": 58149,
-  "2023-02-26": 58149,
-  "2023-02-27": 58139,
-  "2023-02-28": 58139,
-  "2023-03-01": 58136,
-  "2023-03-02": 58135,
-  "2023-03-03": 58132,
-  "2023-03-04": 58131,
-  "2023-03-05": 58128,
-  "2023-03-06": 58128,
-  "2023-03-07": 58123,
-  "2023-03-08": 58122,
-  "2023-03-09": 58120,
-  "2023-03-10": 58116,
-  "2023-03-11": 58113,
-  "2023-03-12": 58112,
-  "2023-03-13": 58111,
-  "2023-03-14": 58106,
-  "2023-03-15": 58102,
-  "2023-03-16": 58097,
-  "2023-03-17": 58097,
-  "2023-03-18": 58094,
-  "2023-03-19": 58095,
-  "2023-03-20": 58095,
-  "2023-03-21": 58093,
-  "2023-03-22": 58089,
-  "2023-03-23": 58083,
-  "2023-03-24": 58083,
-  "2023-03-25": 58076,
-  "2023-03-26": 58073,
-  "2023-03-27": 58072,
-  "2023-03-28": 58071,
-  "2023-03-29": 58065,
-  "2023-03-30": 58061,
-  "2023-03-31": 58061,
-  "2023-04-01": 58058,
-  "2023-04-02": 58057,
-  "2023-04-03": 58055,
-  "2023-04-04": 58056,
-  "2023-04-05": 58053,
-  "2023-04-06": 58051,
-  "2023-04-07": 58050,
-  "2023-04-09": 58043,
-  "2023-04-10": 58040,
-  "2023-04-11": 58031,
-  "2023-04-12": 58031,
-  "2023-04-13": 58026,
-  "2023-04-14": 58026,
-  "2023-04-15": 58022,
-  "2023-04-16": 58022,
-  "2023-04-17": 58019,
-  "2023-04-18": 58018,
-  "2023-04-19": 58017,
-  "2023-04-20": 58015,
-  "2023-04-21": 58014,
-  "2023-04-22": 58014,
-  "2023-04-23": 58007,
-  "2023-04-24": 58008,
-  "2023-04-25": 58009,
-  "2023-04-26": 58004,
-  "2023-04-27": 58000,
-  "2023-04-28": 58000,
-  "2023-04-29": 58000,
-  "2023-04-30": 58000,
-  "2023-05-01": 57999,
-  "2023-05-02": 57998,
-  "2023-05-03": 57993,
-  "2023-05-04": 57989,
-  "2023-05-05": 57988,
-  "2023-05-06": 57987,
-  "2023-05-07": 57982,
-  "2023-05-08": 57980,
-  "2023-05-09": 57978,
-  "2023-05-10": 57979,
-  "2023-05-11": 57974,
-  "2023-05-12": 57972,
-  "2023-05-13": 57971,
-  "2023-05-14": 57971,
-  "2023-05-15": 57970,
-  "2023-05-16": 57967,
-  "2023-05-17": 57964,
-  "2023-05-18": 57960,
-  "2023-05-19": 57955,
-  "2023-05-20": 57951,
-  "2023-05-21": 57951,
-  "2023-05-22": 57951,
-  "2023-05-23": 57945,
-  "2023-05-24": 57942,
-  "2023-05-25": 57942,
-  "2023-05-26": 57941,
-  "2023-05-27": 57937,
-  "2023-05-28": 57934,
-  "2023-05-29": 57934,
-  "2023-05-30": 57929,
-  "2023-05-31": 57925,
-  "2023-06-01": 57928,
-  "2023-06-02": 57926,
-  "2023-06-03": 57928,
-  "2023-06-04": 57927,
-  "2023-06-05": 57924,
-  "2023-06-06": 57922,
-  "2023-06-07": 57918,
-  "2023-06-08": 57914,
-  "2023-06-09": 57912,
-  "2023-06-10": 57912,
-  "2023-06-11": 57911,
-  "2023-06-12": 57904,
-  "2023-06-13": 57903,
-  "2023-06-14": 57901,
-  "2023-06-15": 57900,
-  "2023-06-16": 57900,
-  "2023-06-17": 57899,
-  "2023-06-18": 57896,
-  "2023-06-19": 57893,
-  "2023-06-20": 57888,
-  "2023-06-21": 57887,
-  "2023-06-22": 57887,
-  "2023-06-23": 57885,
-  "2023-06-24": 57884,
-  "2023-06-25": 57880,
-  "2023-06-26": 57881,
-  "2023-06-27": 57881,
-  "2023-06-28": 57883,
-  "2023-06-29": 57886,
-  "2023-06-30": 57885,
-  "2023-07-01": 57885,
-  "2023-07-02": 57885,
-  "2023-07-03": 57883,
-  "2023-07-04": 57883,
-  "2023-07-05": 57881,
-  "2023-07-06": 57879,
-  "2023-07-07": 57879,
-  "2023-07-08": 57882,
-  "2023-07-09": 57881,
-  "2023-07-10": 57885,
-  "2023-07-11": 57881,
-  "2023-07-12": 57878,
-  "2023-07-13": 57876,
-  "2023-07-14": 57876,
-  "2023-07-15": 57876,
-  "2023-07-16": 57875,
-  "2023-07-17": 57868,
-  "2023-07-18": 57868,
-  "2023-07-19": 57865,
-  "2023-07-20": 57868,
-  "2023-07-21": 57869,
-  "2023-07-22": 57866,
-  "2023-07-23": 57864,
-  "2023-07-24": 57864,
-  "2023-07-25": 57864,
-  "2023-07-26": 57864,
-  "2023-07-27": 57866,
-  "2023-07-28": 57866,
-  "2023-07-29": 57866,
-  "2023-07-30": 57864,
-  "2023-07-31": 57867,
-  "2023-08-01": 57864,
-  "2023-08-02": 57869,
-  "2023-08-03": 57866,
-  "2023-08-04": 57867,
-  "2023-08-05": 57868,
-  "2023-08-06": 57864,
-  "2023-08-07": 57864,
-  "2023-08-08": 57867,
-  "2023-08-09": 57871,
-  "2023-08-10": 57867,
-  "2023-08-11": 57869,
-  "2023-08-12": 57872,
-  "2023-08-13": 57870,
-  "2023-08-14": 57871,
-  "2023-08-15": 57880,
-  "2023-08-16": 57880,
-  "2023-08-17": 57883,
-  "2023-08-18": 57889,
-  "2023-08-19": 57890,
-  "2023-08-20": 57889,
-  "2023-08-21": 57891,
-  "2023-08-22": 57889,
-  "2023-08-23": 57891,
-  "2023-08-24": 57895,
-  "2023-08-25": 57896,
-  "2023-08-26": 57901,
-  "2023-08-27": 57907,
-  "2023-08-28": 57906,
-  "2023-08-29": 57911,
-  "2023-08-30": 57917,
-  "2023-08-31": 57916,
-  "2023-09-01": 57943,
-  "2023-09-02": 57943,
-  "2023-09-03": 57962,
-  "2023-09-04": 57964,
-  "2023-09-05": 57966,
-  "2023-09-06": 57978,
-  "2023-09-07": 57981,
-  "2023-09-08": 57981,
-  "2023-09-09": 57989,
-  "2023-09-10": 57994,
-  "2023-09-11": 57999,
-  "2023-09-12": 58004,
-  "2023-09-13": 58005,
-  "2023-09-14": 58017,
-  "2023-09-15": 58026,
-  "2023-09-16": 58031,
-  "2023-09-17": 58042,
-  "2023-09-18": 58050,
-  "2023-09-19": 58056,
-  "2023-09-20": 58066,
-  "2023-09-21": 58074,
-  "2023-09-22": 58079,
-  "2023-09-23": 58093,
-  "2023-09-24": 58109,
-  "2023-09-25": 58116,
-  "2023-09-26": 58118,
-  "2023-09-27": 58121,
-  "2023-09-28": 58121,
-  "2023-09-29": 58125,
-  "2023-09-30": 58126,
-  "2023-10-01": 58124,
-  "2023-10-02": 58128,
-  "2023-10-03": 58130,
-  "2023-10-04": 58135,
-  "2023-10-05": 58135,
-  "2023-10-06": 58134,
-  "2023-10-07": 58139,
-  "2023-10-08": 58137,
-  "2023-10-09": 58137,
-  "2023-10-10": 58054,
-  "2023-10-11": 57977,
-  "2023-10-12": 57977,
-  "2023-10-13": 57978,
-  "2023-10-14": 57924,
-  "2023-10-15": 57846,
-  "2023-10-16": 57837,
-  "2023-10-17": 57843,
-  "2023-10-18": 57843,
-  "2023-10-19": 57844,
-  "2023-10-20": 57846,
-  "2023-10-21": 57847,
-  "2023-10-22": 57846,
-  "2023-10-23": 57843,
-  "2023-10-24": 57842,
-  "2023-10-25": 57841,
-  "2023-10-26": 57838,
-  "2023-10-27": 57836,
-  "2023-10-28": 57835,
-  "2023-10-29": 57832,
-  "2023-10-30": 57833,
-  "2023-10-31": 57833,
-  "2023-11-01": 57829,
-  "2023-11-02": 57824,
-  "2023-11-03": 57822,
-  "2023-11-04": 57820,
-  "2023-11-05": 57820,
-  "2023-11-06": 57818,
-  "2023-11-07": 57817,
-  "2023-11-08": 57816,
-  "2023-11-09": 57819,
-  "2023-11-10": 57819,
-  "2023-11-11": 57817,
-  "2023-11-12": 57818,
-  "2023-11-13": 57818,
-  "2023-11-14": 57821,
-  "2023-11-15": 57821,
-  "2023-11-16": 57823,
-  "2023-11-17": 57824,
-  "2023-11-18": 57824,
-  "2023-11-19": 57823,
-  "2023-11-20": 57821,
-  "2023-11-21": 57819,
-  "2023-11-22": 57823,
-  "2023-11-23": 57824,
-  "2023-11-24": 57824,
-  "2023-11-25": 57822,
-  "2023-11-26": 57818,
-  "2023-11-27": 57813,
-  "2023-11-28": 57813,
-  "2023-11-29": 57810,
-  "2023-11-30": 57810,
-  "2023-12-01": 57803,
-  "2023-12-02": 57800,
-  "2023-12-03": 57797,
-  "2023-12-04": 57797,
-  "2023-12-05": 57796,
-  "2023-12-06": 57796,
-  "2023-12-07": 57794,
-  "2023-12-08": 57792,
-  "2023-12-09": 57790,
-  "2023-12-10": 57787,
-  "2023-12-11": 57787,
-  "2023-12-12": 57786,
-  "2023-12-13": 57786,
-  "2023-12-14": 57784,
-  "2023-12-15": 57783,
-  "2023-12-16": 57783,
-  "2023-12-17": 57782,
-  "2023-12-18": 57779,
-  "2023-12-19": 57773,
-  "2023-12-20": 57770,
-  "2023-12-21": 57767,
-  "2023-12-22": 57762,
-  "2023-12-23": 57758,
-  "2023-12-24": 57755,
-  "2023-12-25": 57753,
-  "2023-12-26": 57752,
-  "2023-12-27": 57753,
-  "2023-12-30": 57743,
-  "2023-12-31": 57737,
-  "2024-01-01": 57732,
-  "2024-01-02": 57727,
-  "2024-01-03": 57724
+  "2024-01-17": 57308,
+  "date_first_scraped": "2021-12-21",
+  "description": "With autumn comes darker days and colder weather.",
+  "name": "Autumn Lounge",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293647,
+      "name": "A Drop In The Ocean",
+      "url": "https://open.spotify.com/track/3Ye35OVl8UAIZv9cwrZBHU"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293647,
+      "name": "A Drop In The Ocean",
+      "url": "https://open.spotify.com/track/4ea3AmukxE51LpUlmI1DcC"
+    },
+    {
+      "album": {
+        "name": "This is Music for Relaxing, Vol. 5",
+        "url": "https://open.spotify.com/album/4kZeDq5OkkSlSJamDrotPU"
+      },
+      "artists": [
+        {
+          "name": "Barfalk",
+          "url": "https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO"
+        },
+        {
+          "name": "Honey Belle Pears",
+          "url": "https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 293357,
+      "name": "A Thousand Years - Lounge Mix",
+      "url": "https://open.spotify.com/track/1F11fXxe0GirHHA1WLzp0N"
+    },
+    {
+      "album": {
+        "name": "Wedding/Boda Lounge (Vol 1)",
+        "url": "https://open.spotify.com/album/2Wdxd1GmnitsUZ0auR6nkk"
+      },
+      "artists": [
+        {
+          "name": "Barfalk",
+          "url": "https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO"
+        },
+        {
+          "name": "Honey Belle Pears",
+          "url": "https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293357,
+      "name": "A Thousand Years - Lounge Mix",
+      "url": "https://open.spotify.com/track/1G3z4B17vCGuKhR8bWfDHZ"
+    },
+    {
+      "album": {
+        "name": "Wedding/Boda Lounge (Vol 1)",
+        "url": "https://open.spotify.com/album/2wG8ZvuasMAkyv8tSGhPIC"
+      },
+      "artists": [
+        {
+          "name": "Barfalk",
+          "url": "https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO"
+        },
+        {
+          "name": "Honey Belle Pears",
+          "url": "https://open.spotify.com/artist/00ftJM3LBf1E5uoGPe5bz2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293357,
+      "name": "A Thousand Years - Lounge Mix",
+      "url": "https://open.spotify.com/track/6oAEaetwv2uPyfhrGAHXnf"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/2g8TsCyheFHrtpGeOxG3JV"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Abalone Cove",
+      "url": "https://open.spotify.com/track/2gW9UiOh1YacsOvSNngW9r"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220000,
+      "name": "Abalone Cove",
+      "url": "https://open.spotify.com/track/3KN3YtptG4i5pyXfpFU2RS"
+    },
+    {
+      "album": {
+        "name": "ECO SPA MUSIC, Vol. 2",
+        "url": "https://open.spotify.com/album/0eKaAVjQtbz6Y3gjf4FD7J"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220000,
+      "name": "Abalone Cove",
+      "url": "https://open.spotify.com/track/508ZzModU3NEN00zPQSzV8"
+    },
+    {
+      "album": {
+        "name": "Glowstick - The Album",
+        "url": "https://open.spotify.com/album/1I6sRGwWvojREESocowdhT"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257092,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/0mq73qB2JpwnFLCjicRNhi"
+    },
+    {
+      "album": {
+        "name": "Je Suis Neptune",
+        "url": "https://open.spotify.com/album/7MtD5L7kRzVNOequRsk8n8"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257092,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/5JDpprHM2zRg7bYDzGUKOr"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/02ri4OGqlvQ1eyWnlCoiMi"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211304,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/29fnMwA8A3OXtEp8LuIGkS"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/4DTUz85RW2bct7BOzeiA1n"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/6JQnLRtGoNC8jG885O7vn5"
+    },
+    {
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/1CaBqpThKCXKVrvuf6a8db"
+      },
+      "artists": [
+        {
+          "name": "ST*RMAN",
+          "url": "https://open.spotify.com/artist/2xZqfja7IiTqVsTKSDzHcl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255517,
+      "name": "Across The Universe - Chill Out Version",
+      "url": "https://open.spotify.com/track/68oyMWuYAJzjKuICnRXTQr"
+    },
+    {
+      "album": {
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/6fyiK81mBXTL9cNTDwF9rd"
+      },
+      "artists": [
+        {
+          "name": "ST*RMAN",
+          "url": "https://open.spotify.com/artist/2xZqfja7IiTqVsTKSDzHcl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255517,
+      "name": "Across The Universe - Chill Out Version",
+      "url": "https://open.spotify.com/track/71aguAfeWB0ATRDzrgPh3F"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/39RIFCPXj2XjmxfyMj4wHi"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280263,
+      "name": "All Passing By",
+      "url": "https://open.spotify.com/track/18aADolCwmcimoILllm01Q"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280263,
+      "name": "All Passing By",
+      "url": "https://open.spotify.com/track/3PEyUxxkmKsIcdi0A1bWVH"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280263,
+      "name": "All Passing By",
+      "url": "https://open.spotify.com/track/3pYerL8vEQPiWRRlNFy1Aj"
+    },
+    {
+      "album": {
+        "name": "Answers Within",
+        "url": "https://open.spotify.com/album/7JEFuCpIefYZ8wmFkChAat"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
+        },
+        {
+          "name": "Thyra",
+          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 269310,
+      "name": "Answers Within - Chill Version",
+      "url": "https://open.spotify.com/track/1PG6ztRkDSxErxsXJfhz1h"
+    },
+    {
+      "album": {
+        "name": "Answers Within",
+        "url": "https://open.spotify.com/album/54J4pqsVKYdLuNBiKe4MG3"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
+        },
+        {
+          "name": "Thyra",
+          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269310,
+      "name": "Answers Within - Chill Version",
+      "url": "https://open.spotify.com/track/4gWeXrXr8c3Mdj1SMFaeMc"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/3z0jLxZij4JRBX7QdXkafC"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/1bN9eLNTo4xbCdNSbvwHPB"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274000,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/2makm63e7ZL93iOZZ79ucu"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253090,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1JE4xlyoPIy0qWV3pE2Cfy"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/4pjzzCLYxJEVFrQuSzOOIV"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/3EsaWNpxeJEMPEWQ7delht"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250285,
+      "name": "Barceloneta",
+      "url": "https://open.spotify.com/track/1jBmAt2PKYf86TeUPdamF3"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Barceloneta",
+      "url": "https://open.spotify.com/track/3QqzetyQKijl46bHYKOGzW"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/2AvDTPf8fW8qxNaIvIfk4L"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 366869,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/3f6kU6FghUAdak3afpymtX"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/5DyYwXM1w3jSQn4AMLkxsF"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366869,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/7pPieL5nLGlMXBgrxkHDWn"
+    },
+    {
+      "album": {
+        "name": "Beyond The Clouds",
+        "url": "https://open.spotify.com/album/6C3hMw2m1Yn4HrNTaTu3y8"
+      },
+      "artists": [
+        {
+          "name": "Elton S",
+          "url": "https://open.spotify.com/artist/6Z6DPzgZWGsygZTxnpvPqq"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207130,
+      "name": "Beyond The Clouds - Lounge Mix",
+      "url": "https://open.spotify.com/track/20p4k0AdZHoIlGZ8Om54Vk"
+    },
+    {
+      "album": {
+        "name": "Beyond The Clouds",
+        "url": "https://open.spotify.com/album/1tDm8PJILgsCcMWOsSXdQB"
+      },
+      "artists": [
+        {
+          "name": "Elton S",
+          "url": "https://open.spotify.com/artist/6Z6DPzgZWGsygZTxnpvPqq"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207130,
+      "name": "Beyond The Clouds - Lounge Mix",
+      "url": "https://open.spotify.com/track/2GsHyQwI50J6aIKjh6KDUT"
+    },
+    {
+      "album": {
+        "name": "Spa Music",
+        "url": "https://open.spotify.com/album/7khZn089iLpp3qjd0mGVum"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263041,
+      "name": "Bilitis",
+      "url": "https://open.spotify.com/track/0e8c8u2ibmJV3gSyMtDQS8"
+    },
+    {
+      "album": {
+        "name": "Bilitis",
+        "url": "https://open.spotify.com/album/3dBvTEs2VjD0qdIN3CV23S"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263041,
+      "name": "Bilitis",
+      "url": "https://open.spotify.com/track/2oGF6uYbJedBfVFJlbOxaY"
+    },
+    {
+      "album": {
+        "name": "Movie Dreams",
+        "url": "https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263041,
+      "name": "Bilitis",
+      "url": "https://open.spotify.com/track/4MapiBIqUDowqFALnqSqrm"
+    },
+    {
+      "album": {
+        "name": "Blank Space",
+        "url": "https://open.spotify.com/album/24pvIaPsj7z5ZBEkv5Ttiw"
+      },
+      "artists": [
+        {
+          "name": "Safari",
+          "url": "https://open.spotify.com/artist/2064gVxX01k0MWouz6iITE"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/0TC0Mv8ql2x5g06bq1oMPs"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261558,
+      "name": "Blank Space - Focus Version",
+      "url": "https://open.spotify.com/track/1HNdw6CPdClwclR95AaHCh"
+    },
+    {
+      "album": {
+        "name": "Blank Space",
+        "url": "https://open.spotify.com/album/48dQOVAyGXy0atWE3lrv5F"
+      },
+      "artists": [
+        {
+          "name": "SAFARI",
+          "url": "https://open.spotify.com/artist/3wmvyaz5agDmQ5oT9QYDaK"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/0TC0Mv8ql2x5g06bq1oMPs"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261558,
+      "name": "Blank Space - Focus Version",
+      "url": "https://open.spotify.com/track/63mcxkwgSBPuZA1ADr3bsc"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/1qZ5mnvaYGt30bEo63Htn0"
+      },
+      "artists": [
+        {
+          "name": "Random Rab",
+          "url": "https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385693,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2ytaqTjaDdJljeFgU2YEsm"
+    },
+    {
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Covent",
+          "url": "https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287786,
+      "name": "Blue But Free",
+      "url": "https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj"
+    },
+    {
+      "album": {
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/4VuEWJbWhQjMFbxPwKakau"
+      },
+      "artists": [
+        {
+          "name": "Bobby Covent",
+          "url": "https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287786,
+      "name": "Blue But Free",
+      "url": "https://open.spotify.com/track/7M6FXgNWSh7Mc0gQOBFC7G"
+    },
+    {
+      "album": {
+        "name": "Relax Edition 4",
+        "url": "https://open.spotify.com/album/2wtmiOWkQOc7mzcvCZvxce"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 311692,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/0L1uh6vRPBxUkoIdF9WGBE"
+    },
+    {
+      "album": {
+        "name": "Relax Edition 4",
+        "url": "https://open.spotify.com/album/1nqdDOD2DNT9sGHlETFvpa"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311692,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4YyyBvaownoCebsTV2iAYA"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/55bruOlAwY37mbozhVVgVf"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188061,
+      "name": "Blue Waves",
+      "url": "https://open.spotify.com/track/0ReI7PN5C8mQ2VCeL7PtgQ"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/1EyApfjtsiJl0xkKbo9LPj"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188061,
+      "name": "Blue Waves",
+      "url": "https://open.spotify.com/track/1pxfDAgTgtel8aXqskQ0x5"
+    },
+    {
+      "album": {
+        "name": "This is Music for Relaxing, Vol. 5",
+        "url": "https://open.spotify.com/album/4kZeDq5OkkSlSJamDrotPU"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 188061,
+      "name": "Blue Waves",
+      "url": "https://open.spotify.com/track/460bi31WRnbyz05HVRchHy"
+    },
+    {
+      "album": {
+        "name": "Chill Out Radio",
+        "url": "https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr"
+      },
+      "artists": [
+        {
+          "name": "Atomi",
+          "url": "https://open.spotify.com/artist/6QMdCMfvuhc7FgXBn2vynI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 248571,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/06FAxnHc5v0fYJsv045JB3"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1xZMoyHt8QREDrrmwMIxLO"
+      },
+      "artists": [
+        {
+          "name": "Atomi",
+          "url": "https://open.spotify.com/artist/6QMdCMfvuhc7FgXBn2vynI"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248571,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/0GFVykwGpZg27JkqpOvM9z"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/38L1m4GSyEFATUcpbPG2sL"
+      },
+      "artists": [
+        {
+          "name": "Atomi",
+          "url": "https://open.spotify.com/artist/6QMdCMfvuhc7FgXBn2vynI"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1Y8s8asRDHA6Iz1gO9C7fl"
+    },
+    {
+      "album": {
+        "name": "Gambino",
+        "url": "https://open.spotify.com/album/6M5lJKPcQsbRP0TqZri6U7"
+      },
+      "artists": [
+        {
+          "name": "Cafe Gambino",
+          "url": "https://open.spotify.com/artist/2GiNYQnROtl7XKjYvuboY3"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216974,
+      "name": "By the Sea",
+      "url": "https://open.spotify.com/track/5ucGyWVWQBwucGjzTMHXsW"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Calmative",
+      "url": "https://open.spotify.com/track/08uQmwPw9ZbJW82ikavFKL"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222000,
+      "name": "Calmative",
+      "url": "https://open.spotify.com/track/6k1DasduiT5LjawgYPg3pF"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 del Mar 35th Anniversary (1980-2015)",
+        "url": "https://open.spotify.com/album/4eIrWkH0gh7MfShOg4oJTZ"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 377573,
+      "name": "Charles",
+      "url": "https://open.spotify.com/track/1RoFpgEJ8VT6dDVcmuqeam"
+    },
+    {
+      "album": {
+        "name": "Beanfield",
+        "url": "https://open.spotify.com/album/03HlGSi5iTjitt1dSXk3dB"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 380626,
+      "name": "Charles",
+      "url": "https://open.spotify.com/track/3OsBbIwYl6juCO5AZvzGIK"
+    },
+    {
+      "album": {
+        "name": "Beanfield",
+        "url": "https://open.spotify.com/album/2I7stGBwrFJxtg37whLxvj"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 380626,
+      "name": "Charles",
+      "url": "https://open.spotify.com/track/5kjoBVjxyIvxbl3kwgubH8"
+    },
+    {
+      "album": {
+        "name": "Beanfield",
+        "url": "https://open.spotify.com/album/6d7iZSJBM3GlVWF7LX8AWJ"
+      },
+      "artists": [
+        {
+          "name": "Beanfield",
+          "url": "https://open.spotify.com/artist/66pwO4VzpMLwntaQ9DPLvH"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380626,
+      "name": "Charles",
+      "url": "https://open.spotify.com/track/6tHe3Wh0lmuvbvEKS8B7sX"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 353333,
+      "name": "Clear Sky",
+      "url": "https://open.spotify.com/track/3rvNNaoCyHMQpTxvaPM2ko"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out Vol. 1",
+        "url": "https://open.spotify.com/album/6Wf8QeSOXF5kghQk99DpZb"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/534G91HPzKsyd52ke8xJe2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353333,
+      "name": "Clear Sky",
+      "url": "https://open.spotify.com/track/6lkmtKLtuXXgq57mUZbUAd"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 1)",
+        "url": "https://open.spotify.com/album/69UR42xROShbe69CoqCjSI"
+      },
+      "artists": [
+        {
+          "name": "4 PM",
+          "url": "https://open.spotify.com/artist/6n4LC99DYefuU6icCPk1zU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240713,
+      "name": "Cool Hot Love",
+      "url": "https://open.spotify.com/track/3K5iMtqjpefs3MvxUd9EXd"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 1)",
+        "url": "https://open.spotify.com/album/0sfIcE0Wdh9uVgyB7tDcwk"
+      },
+      "artists": [
+        {
+          "name": "4 PM",
+          "url": "https://open.spotify.com/artist/6n4LC99DYefuU6icCPk1zU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240713,
+      "name": "Cool Hot Love",
+      "url": "https://open.spotify.com/track/479XlupY13N0JCUmvkqgxr"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/5x5FiSc99Lmplte6KTyk9N"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232000,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/65qU5EsQb12UUdUFCH7FBY"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289979,
+      "name": "Deep Feelings",
+      "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289979,
+      "name": "Deep Feelings",
+      "url": "https://open.spotify.com/track/5Own2KkXmnsn6Zn2O88OA3"
+    },
+    {
+      "album": {
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/0y7yNyWqp4Jyqo6Wiq1mQR"
+      },
+      "artists": [
+        {
+          "name": "Sublime Harmonics",
+          "url": "https://open.spotify.com/artist/2Bkb4UN9i1sAVcwnsmGsTU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272769,
+      "name": "Deep in the Ocean",
+      "url": "https://open.spotify.com/track/3ufLG3QpdoDUgHhMl42hYp"
+    },
+    {
+      "album": {
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/1WsuGTsF5FHwDNdwiDGzyD"
+      },
+      "artists": [
+        {
+          "name": "Sublime Harmonics",
+          "url": "https://open.spotify.com/artist/2Bkb4UN9i1sAVcwnsmGsTU"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 272769,
+      "name": "Deep in the Ocean",
+      "url": "https://open.spotify.com/track/59wkbkj5o5sQ3JeoH7hBCw"
+    },
+    {
+      "album": {
+        "name": "Dream With Me",
+        "url": "https://open.spotify.com/album/2r8eJJH51rqvJJHp23a3qe"
+      },
+      "artists": [
+        {
+          "name": "Sublime Harmonics",
+          "url": "https://open.spotify.com/artist/2Bkb4UN9i1sAVcwnsmGsTU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272769,
+      "name": "Deep in the Ocean",
+      "url": "https://open.spotify.com/track/77TKRQBPoPAGNuIKRdL7e2"
+    },
+    {
+      "album": {
+        "name": "Autumn Lounge Edition",
+        "url": "https://open.spotify.com/album/4IdPfvlptwxudETNh2g2eI"
+      },
+      "artists": [
+        {
+          "name": "Enrico Donner",
+          "url": "https://open.spotify.com/artist/2D0DId36GpUGwIz9D2ecsb"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306750,
+      "name": "Deep Rooted",
+      "url": "https://open.spotify.com/track/4de4rmFtArBteFUy6TqYuY"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 318000,
+      "name": "Diamond Shine",
+      "url": "https://open.spotify.com/track/3xcztXKdCQVxuQtPibei57"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Diamond Shine",
+      "url": "https://open.spotify.com/track/69IOxGl9w4WiqmlFIND2es"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR"
+      },
+      "artists": [
+        {
+          "name": "Barfalk",
+          "url": "https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267692,
+      "name": "Divine Sorrow",
+      "url": "https://open.spotify.com/track/0yplat8BWBy2vHAUZIGh2p"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/0Dt0D2Y09ovWZDRu7nyM2s"
+      },
+      "artists": [
+        {
+          "name": "Barfalk",
+          "url": "https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Divine Sorrow",
+      "url": "https://open.spotify.com/track/24WR9VLI7XK7PzUU37njkb"
+    },
+    {
+      "album": {
+        "name": "Music For Brainwash, Vol. 2",
+        "url": "https://open.spotify.com/album/4UoOcknlZFyd5MPj7yRI44"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 295679,
+      "name": "Dreamer Lounge",
+      "url": "https://open.spotify.com/track/1CtkY8ZAlSzew2xMONreDV"
+    },
+    {
+      "album": {
+        "name": "Dreamer Lounge",
+        "url": "https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295679,
+      "name": "Dreamer Lounge",
+      "url": "https://open.spotify.com/track/2cAp2tBDCzIXqiqiKe0IMa"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0pLEchfzKxpswPTtQMYecl"
+      },
+      "artists": [
+        {
+          "name": "Space Lounge",
+          "url": "https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206142,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/1Y8NBltB7DDkfPqCeTFMUi"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/2cmDzCpicqmlcVG7iwuROY"
+      },
+      "artists": [
+        {
+          "name": "Space Lounge",
+          "url": "https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206142,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4gTRdw2hjTIDKhDDQk7Gq0"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR"
+      },
+      "artists": [
+        {
+          "name": "Chalk Duo",
+          "url": "https://open.spotify.com/artist/7aClfS41O3Xw6rtG12gLql"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224923,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1mz1TC8JxjmU9FkCKIwAfp"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out, Vol. 4",
+        "url": "https://open.spotify.com/album/19NSMX2otZSFGd9VVPxFrd"
+      },
+      "artists": [
+        {
+          "name": "Chalk Duo",
+          "url": "https://open.spotify.com/artist/7aClfS41O3Xw6rtG12gLql"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224923,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6iyT2dEfIKDhymQogV8eHx"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/0Dt0D2Y09ovWZDRu7nyM2s"
+      },
+      "artists": [
+        {
+          "name": "Chalk Duo",
+          "url": "https://open.spotify.com/artist/7aClfS41O3Xw6rtG12gLql"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224923,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7jY2ix9W0ZnzoJwyJZdBDT"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Enter",
+      "url": "https://open.spotify.com/track/0HGfi3MdwooOvUhwztursU"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230000,
+      "name": "Enter",
+      "url": "https://open.spotify.com/track/3zmaWVi1TqIsXLSIPHgtSe"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/02ri4OGqlvQ1eyWnlCoiMi"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217142,
+      "name": "Enzolin",
+      "url": "https://open.spotify.com/track/6723pl3ReCaq3HSeqVTG1n"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/4DTUz85RW2bct7BOzeiA1n"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Enzolin",
+      "url": "https://open.spotify.com/track/6Y1OyJnZ85JhzbKx3lVQz0"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232317,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2yxJwUtqKnLAhCBfbTsc0s"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232317,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/7vMsxiJUq0rqarcVLZe1sf"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273333,
+      "name": "Eternal Winds",
+      "url": "https://open.spotify.com/track/01QIxeatz3wbjaO7RJKfbs"
+    },
+    {
+      "album": {
+        "name": "Lounge Kaviar, Vol. 2",
+        "url": "https://open.spotify.com/album/3etDN3h1UYjrYS8KoZEIpl"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273333,
+      "name": "Eternal Winds",
+      "url": "https://open.spotify.com/track/3AHN5yfohr5wEArvi2U8au"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/2qhEuGhshsDs1g5hp9uaZh"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Eternal Winds",
+      "url": "https://open.spotify.com/track/7tM75J5wQABqUBNXx9jAxr"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214945,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6ILOMqjC2nX80Rg1ACdUvZ"
+    },
+    {
+      "album": {
+        "name": "Enter",
+        "url": "https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214945,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
+    },
+    {
+      "album": {
+        "name": "Sunday Relax",
+        "url": "https://open.spotify.com/album/7eHfJFYAp1tfJxYQmrA9Zu"
+      },
+      "artists": [
+        {
+          "name": "J. Morgan",
+          "url": "https://open.spotify.com/artist/7qGkvQyBQixSUMLTZ7LYIU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/40SbiqQbMyh5TqRKydetEA"
+    },
+    {
+      "album": {
+        "name": "Sunday Relax",
+        "url": "https://open.spotify.com/album/2cLBREfhW9ia3dUnweAMHT"
+      },
+      "artists": [
+        {
+          "name": "J. Morgan",
+          "url": "https://open.spotify.com/artist/7qGkvQyBQixSUMLTZ7LYIU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ReecC2awd1HxcdY46KwAq"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "First Flower",
+      "url": "https://open.spotify.com/track/1qjLzirZt50H0f2vFYKRg9"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212000,
+      "name": "First Flower",
+      "url": "https://open.spotify.com/track/2xrzeCo6r8L31gYS0GmmEK"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "First Step Moving On",
+      "url": "https://open.spotify.com/track/2nyMkz7kccpZaemJjG8eQY"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250000,
+      "name": "First Step Moving On",
+      "url": "https://open.spotify.com/track/5u0STWxn6D1SI0nxhKHzgu"
+    },
+    {
+      "album": {
+        "name": "Fluffy Cloud Day",
+        "url": "https://open.spotify.com/album/2fqStX1nS8UvNmN8N3wkfq"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kiim",
+          "url": "https://open.spotify.com/artist/5QYlzH1gCKkSYWQS7IoCnP"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206511,
+      "name": "Flyffy Cloudy Day - Spa Mix",
+      "url": "https://open.spotify.com/track/3ZQ0kxaHgNGeXLrcLfuL2z"
+    },
+    {
+      "album": {
+        "name": "Fluffy Cloud Day",
+        "url": "https://open.spotify.com/album/1OrtgcOb8RrYtvZuXJ8EFB"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kiim",
+          "url": "https://open.spotify.com/artist/5QYlzH1gCKkSYWQS7IoCnP"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Flyffy Cloudy Day - Spa Mix",
+      "url": "https://open.spotify.com/track/73CxADetWaVo072oaDt1RT"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/55bruOlAwY37mbozhVVgVf"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284869,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2Qb77IqgpVEy2Gr0ikEK6U"
+    },
+    {
+      "album": {
+        "name": "Sweet Feeling",
+        "url": "https://open.spotify.com/album/2HNIxzVUo0dUcyWMI5f7iR"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284869,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4JpDfdQ3bUdOphfGfUSrKX"
+    },
+    {
+      "album": {
+        "name": "Bending Time",
+        "url": "https://open.spotify.com/album/5fBVtzorLnUUibwcPdnE5b"
+      },
+      "artists": [
+        {
+          "name": "Justin Zimm",
+          "url": "https://open.spotify.com/artist/5uwUqgwD6yB922XX2bwbTs"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243428,
+      "name": "Forever You",
+      "url": "https://open.spotify.com/track/2pcI377FA7YORQ7zREODlE"
+    },
+    {
+      "album": {
+        "name": "Bending Time",
+        "url": "https://open.spotify.com/album/5fa7FmbGF2VOG4rEWO0Gb3"
+      },
+      "artists": [
+        {
+          "name": "Justin Zimm",
+          "url": "https://open.spotify.com/artist/5uwUqgwD6yB922XX2bwbTs"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Forever You",
+      "url": "https://open.spotify.com/track/7neB9c0qhNdlobIZJ2oggm"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Fragments Cafe\u0301",
+      "url": "https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234666,
+      "name": "Fragments Cafe\u0301",
+      "url": "https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0"
+    },
+    {
+      "album": {
+        "name": "Music For Brainwash, Vol. 1",
+        "url": "https://open.spotify.com/album/3dNga5PFlIBbjQhBdV0kYl"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234666,
+      "name": "Fragments Caf\u00e9",
+      "url": "https://open.spotify.com/track/5oZOOcYruL6mi0EhdxGXrb"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out Vol. 1",
+        "url": "https://open.spotify.com/album/6Wf8QeSOXF5kghQk99DpZb"
+      },
+      "artists": [
+        {
+          "name": "Magic Flow",
+          "url": "https://open.spotify.com/artist/6O84LJSQWfk7vJyYDtIuU3"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239826,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2SJlHXX7uVFbs9Ed91ek8j"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R"
+      },
+      "artists": [
+        {
+          "name": "Magic Flow",
+          "url": "https://open.spotify.com/artist/6O84LJSQWfk7vJyYDtIuU3"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239826,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6OyMZ3dGr2oDgyeLItuBCX"
+    },
+    {
+      "album": {
+        "name": "Dirty Lounging",
+        "url": "https://open.spotify.com/album/0rb4T59OePfEmPxxCrBLLx"
+      },
+      "artists": [
+        {
+          "name": "Eddie Silverton",
+          "url": "https://open.spotify.com/artist/6znVlolumkFwHyJRe3ufzn"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340096,
+      "name": "Gardens Of History",
+      "url": "https://open.spotify.com/track/2VyYnRQyoke9agw8xATKyK"
+    },
+    {
+      "album": {
+        "name": "Gardens Of History",
+        "url": "https://open.spotify.com/album/5viM6JKDNLUMyidmkk5ugZ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Silverton",
+          "url": "https://open.spotify.com/artist/6znVlolumkFwHyJRe3ufzn"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340096,
+      "name": "Gardens Of History",
+      "url": "https://open.spotify.com/track/3X7m2zRekRd2bQuaCajgzZ"
+    },
+    {
+      "album": {
+        "name": "Big Bud Smokers Lounge",
+        "url": "https://open.spotify.com/album/1H1U2ZOrJoPtsMD3n3MQ9A"
+      },
+      "artists": [
+        {
+          "name": "Eddie Silverton",
+          "url": "https://open.spotify.com/artist/6znVlolumkFwHyJRe3ufzn"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 340096,
+      "name": "Gardens of History",
+      "url": "https://open.spotify.com/track/5t0ITTJvORZtB8Plea2WWg"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out, Vol. 4",
+        "url": "https://open.spotify.com/album/19NSMX2otZSFGd9VVPxFrd"
+      },
+      "artists": [
+        {
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 352758,
+      "name": "Gliding",
+      "url": "https://open.spotify.com/track/3JW9QCENYPbZ67JhZ5knXM"
+    },
+    {
+      "album": {
+        "name": "MInd Travel",
+        "url": "https://open.spotify.com/album/3Yz4r6OcddUHtyu9bctq8V"
+      },
+      "artists": [
+        {
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352758,
+      "name": "Gliding",
+      "url": "https://open.spotify.com/track/5hDGNY2DE7MWtlnaLthQho"
+    },
+    {
+      "album": {
+        "name": "MInd Travel",
+        "url": "https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3"
+      },
+      "artists": [
+        {
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 352758,
+      "name": "Gliding",
+      "url": "https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj"
+    },
+    {
+      "album": {
+        "name": "This Is Music For SPA, Vol. 1",
+        "url": "https://open.spotify.com/album/11lKh2eM2KessQXJMaWGMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 234000,
+      "name": "Hong Kong Skyline",
+      "url": "https://open.spotify.com/track/0Za8cZzfTovCSFqwghmxPQ"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234000,
+      "name": "Hong Kong Skyline",
+      "url": "https://open.spotify.com/track/4Dj3FMZMMBXCxNkJ25o2Ta"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Hong Kong Skyline",
+      "url": "https://open.spotify.com/track/5EZbXvnbK2Cu59gVM31rWS"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214579,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0BnOGTQYYZYEXsgA1ryRYT"
+    },
+    {
+      "album": {
+        "name": "Calm Morning (Vol 3)",
+        "url": "https://open.spotify.com/album/7ktnzXmO3bJvW5Jg7Uyi1t"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214579,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0ghXBxhbgRroeqyk0flbwc"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214579,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177462,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/1k1IqFrUKBfeXjcKBIKXFQ"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177462,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/69K9acndzo6nVMHyCe8kC7"
+    },
+    {
+      "album": {
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/3PYyD3d5rnPbiadDM2DoKc"
+      },
+      "artists": [
+        {
+          "name": "Chris Call",
+          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "I Feel It Coming - Spa Version",
+      "url": "https://open.spotify.com/track/4DseBWbLvyeQ2EdJt0gUyP"
+    },
+    {
+      "album": {
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/25cMNrmzNBL5KAO0boiagc"
+      },
+      "artists": [
+        {
+          "name": "Chris Call",
+          "url": "https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217043,
+      "name": "I Feel It Coming - Spa Version",
+      "url": "https://open.spotify.com/track/7xi53ZOh7WteuEa0tpf9Yi"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/0B2AnHHSVlWSt2TWKjEV39"
+    },
+    {
+      "album": {
+        "name": "Sunrise Caf\u00e9 (A Lounge Experience)",
+        "url": "https://open.spotify.com/album/7LAQOj3zZ6S8SLRjopHSAE"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1ipop34E45JS2OT16Zhg6T"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/2qhEuGhshsDs1g5hp9uaZh"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3xU8BEPWEfTY73koMvg3kZ"
+    },
+    {
+      "album": {
+        "name": "i'll wait",
+        "url": "https://open.spotify.com/album/65pbEbYVJPV3jLBvB7Unsw"
+      },
+      "artists": [
+        {
+          "name": "Oats",
+          "url": "https://open.spotify.com/artist/2ys8HYJ7vMa2SsKNWyzJ5f"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290863,
+      "name": "i'll wait - Ambient version",
+      "url": "https://open.spotify.com/track/31iuZioQE8Ujyqy5Dt86cK"
+    },
+    {
+      "album": {
+        "name": "i'll wait",
+        "url": "https://open.spotify.com/album/1K2umbOpoxnW9MIJyIv1qJ"
+      },
+      "artists": [
+        {
+          "name": "Oats",
+          "url": "https://open.spotify.com/artist/2ys8HYJ7vMa2SsKNWyzJ5f"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290863,
+      "name": "i'll wait - Ambient version",
+      "url": "https://open.spotify.com/track/6yzIgtNRvEbdycdztrGg3n"
+    },
+    {
+      "album": {
+        "name": "i'll wait",
+        "url": "https://open.spotify.com/album/65pbEbYVJPV3jLBvB7Unsw"
+      },
+      "artists": [
+        {
+          "name": "Oats",
+          "url": "https://open.spotify.com/artist/2ys8HYJ7vMa2SsKNWyzJ5f"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275516,
+      "name": "i'll wait - Chill version",
+      "url": "https://open.spotify.com/track/0LTwnZUZrgxutRBRBgVlPq"
+    },
+    {
+      "album": {
+        "name": "i'll wait",
+        "url": "https://open.spotify.com/album/1K2umbOpoxnW9MIJyIv1qJ"
+      },
+      "artists": [
+        {
+          "name": "Oats",
+          "url": "https://open.spotify.com/artist/2ys8HYJ7vMa2SsKNWyzJ5f"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275516,
+      "name": "i'll wait - Chill version",
+      "url": "https://open.spotify.com/track/34R40FJNGoFg0WIaAVtxoj"
+    },
+    {
+      "album": {
+        "name": "I'm Her",
+        "url": "https://open.spotify.com/album/1Czu7sNKFHhed5od3eMPYN"
+      },
+      "artists": [
+        {
+          "name": "Ji Nilsson",
+          "url": "https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "I'm Her",
+      "url": "https://open.spotify.com/track/0BFGtoNGEkqKbgwxpFo3Nb"
+    },
+    {
+      "album": {
+        "name": "I'm Her",
+        "url": "https://open.spotify.com/album/5Ox5Z3ig4jlbDUt7XmDrYk"
+      },
+      "artists": [
+        {
+          "name": "Ji Nilsson",
+          "url": "https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227933,
+      "name": "I'm Her",
+      "url": "https://open.spotify.com/track/3RljyrxpDrKOtJwnajQfs4"
+    },
+    {
+      "album": {
+        "name": "I'm Not The Only One (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241463,
+      "name": "I'm Not The Only One - Make Love Mix",
+      "url": "https://open.spotify.com/track/1Ohs0YaWraGgovdbzXn8RI"
+    },
+    {
+      "album": {
+        "name": "I'm Not The Only One (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2gxlfkg9P9LA35vbx5JTGJ"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241463,
+      "name": "I'm Not The Only One - Make Love Mix",
+      "url": "https://open.spotify.com/track/1dapViHuHrI1qXzeawXnyq"
+    },
+    {
+      "album": {
+        "name": "This is Music for Relaxing, Vol. 5",
+        "url": "https://open.spotify.com/album/4kZeDq5OkkSlSJamDrotPU"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241463,
+      "name": "I'm Not The Only One - Make Love Mix",
+      "url": "https://open.spotify.com/track/5daqZUfCU0JmerXjapvclf"
+    },
+    {
+      "album": {
+        "name": "Into The Stillness",
+        "url": "https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Into The Stillness",
+      "url": "https://open.spotify.com/track/4kfjpXzoniZO0HCvGEN101"
+    },
+    {
+      "album": {
+        "name": "Into The Stillness",
+        "url": "https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270000,
+      "name": "Into The Stillness",
+      "url": "https://open.spotify.com/track/75fAuBve4yrsUPUisGQWac"
+    },
+    {
+      "album": {
+        "name": "Late Night Lovers (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm"
+      },
+      "artists": [
+        {
+          "name": "Private Pleasure",
+          "url": "https://open.spotify.com/artist/6vAAORnNRyyZRG3wR8ztyo"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277920,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4yJZ05LDnUjrmBWZhuDDw1"
+    },
+    {
+      "album": {
+        "name": "Sunrise Caf\u00e9 (A Lounge Experience)",
+        "url": "https://open.spotify.com/album/7LAQOj3zZ6S8SLRjopHSAE"
+      },
+      "artists": [
+        {
+          "name": "Private Pleasure",
+          "url": "https://open.spotify.com/artist/6vAAORnNRyyZRG3wR8ztyo"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 277920,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7BKOE5YxnRDip5LJP0HPPu"
+    },
+    {
+      "album": {
+        "name": "Late Night Lovers",
+        "url": "https://open.spotify.com/album/6khKd1BuK5EuX6Fw4XGggm"
+      },
+      "artists": [
+        {
+          "name": "Private Pleasure",
+          "url": "https://open.spotify.com/artist/6vAAORnNRyyZRG3wR8ztyo"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277920,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7ujhSgKsqftKzwtymBC8yZ"
+    },
+    {
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/2wghfoEovVMJC68P6zf8vS"
+      },
+      "artists": [
+        {
+          "name": "Peaceful",
+          "url": "https://open.spotify.com/artist/4Ad4MISReUiMKMwPtuzBrH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/5Lcl71NE0tmghOigIK9zsS"
+    },
+    {
+      "album": {
+        "name": "Je Suis Neptune",
+        "url": "https://open.spotify.com/album/5pNA3ZWtNLV8sySGgyJZaa"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Je Suis Neptune",
+      "url": "https://open.spotify.com/track/0R2or2APAmovjkSdj5rOaC"
+    },
+    {
+      "album": {
+        "name": "Je Suis Neptune",
+        "url": "https://open.spotify.com/album/7MtD5L7kRzVNOequRsk8n8"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178714,
+      "name": "Je Suis Neptune",
+      "url": "https://open.spotify.com/track/7yNKlJpMHXAtEe79zwJ8h1"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0pLEchfzKxpswPTtQMYecl"
+      },
+      "artists": [
+        {
+          "name": "Space Lounge",
+          "url": "https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228000,
+      "name": "Jupiter And Back",
+      "url": "https://open.spotify.com/track/0JvVjFvRmXNpj2QErDjjr7"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/2cmDzCpicqmlcVG7iwuROY"
+      },
+      "artists": [
+        {
+          "name": "Space Lounge",
+          "url": "https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Jupiter And Back",
+      "url": "https://open.spotify.com/track/0wdXAUHb6rmqZ2VAYFDIq4"
+    },
+    {
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192057,
+      "name": "Keep On Shining, Keep On Moving - Chill Mix",
+      "url": "https://open.spotify.com/track/0ckFXXvnWjAeTiVaL9fWEf"
+    },
+    {
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/3FulCsnoWcOEuHPmh17atn"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192057,
+      "name": "Keep On Shining, Keep On Moving - Chill Mix",
+      "url": "https://open.spotify.com/track/1RwOdVLRKj65oBgXuiPrBV"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198426,
+      "name": "Keep The Focus",
+      "url": "https://open.spotify.com/track/2SIPESR4JkGhpmMgq3ebgG"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of The Horizon",
+        "url": "https://open.spotify.com/album/1W1RRw9eeGuoxoAhdr6APP"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198426,
+      "name": "Keep The Focus",
+      "url": "https://open.spotify.com/track/5tTq0iDLp5d8yX3sSe5Ppy"
+    },
+    {
+      "album": {
+        "name": "ECO SPA MUSIC, Vol. 1",
+        "url": "https://open.spotify.com/album/0TRZ2ieyLcZuk7MPqqtAbA"
+      },
+      "artists": [
+        {
+          "name": "Landscapes Of Joy",
+          "url": "https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 198426,
+      "name": "Keep The Focus",
+      "url": "https://open.spotify.com/track/6mTorOvKpoJDvRG3sNLKZL"
+    },
+    {
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/2fJ3dl4x89GzX8Cl9qHZIB"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Calientas",
+          "url": "https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276000,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/0n67zDyiWpACPtalTqP9zl"
+    },
+    {
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/4p3DmBNU92j6czKpCWUJ3L"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Calientas",
+          "url": "https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/27KdIIWu4fjYAyV2xLaJIg"
+    },
+    {
+      "album": {
+        "name": "Spa Music",
+        "url": "https://open.spotify.com/album/7khZn089iLpp3qjd0mGVum"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Calientas",
+          "url": "https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 276000,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/4YOJ0daUymRUFR8oNwy6g7"
+    },
+    {
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/5FtfeKC9KKiCfTor3NHrRR"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "La Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/1dz2zrpKL5NzlporGTGs9n"
+    },
+    {
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222068,
+      "name": "La Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU"
+    },
+    {
+      "album": {
+        "name": "This Is Music for RELAXING",
+        "url": "https://open.spotify.com/album/4g4mEONDxo9Xvoz636GiZw"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222068,
+      "name": "La Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/5uoEuuFcc273htRuPpxLxo"
+    },
+    {
+      "album": {
+        "name": "La Naissance De La Vie",
+        "url": "https://open.spotify.com/album/07iQHudx9je9Dcxoy1oO2K"
+      },
+      "artists": [
+        {
+          "name": "Givenchy",
+          "url": "https://open.spotify.com/artist/1aFxylC9yg8cev7ALY5gM1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243157,
+      "name": "La Naissance De La Vie",
+      "url": "https://open.spotify.com/track/0E9vvaUGZRAzPtQOg3yIOl"
+    },
+    {
+      "album": {
+        "name": "La Naissance De La Vie",
+        "url": "https://open.spotify.com/album/2J2U6bVwpfVuNbnrtOImpp"
+      },
+      "artists": [
+        {
+          "name": "Givenchy",
+          "url": "https://open.spotify.com/artist/1aFxylC9yg8cev7ALY5gM1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243157,
+      "name": "La Naissance De La Vie",
+      "url": "https://open.spotify.com/track/59ra1Nr7APkpRnTovjzQp9"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/2AvDTPf8fW8qxNaIvIfk4L"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 327251,
+      "name": "Landscapes Below",
+      "url": "https://open.spotify.com/track/6dyL8SYZIILRMDZXvf7D78"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/5DyYwXM1w3jSQn4AMLkxsF"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327251,
+      "name": "Landscapes Below",
+      "url": "https://open.spotify.com/track/705ezQYLqzglKqEmK6Xyn1"
+    },
+    {
+      "album": {
+        "name": "Calm Morning (Vol 3)",
+        "url": "https://open.spotify.com/album/7ktnzXmO3bJvW5Jg7Uyi1t"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270000,
+      "name": "Lantau Island",
+      "url": "https://open.spotify.com/track/1izAYbHM4D0k0HPkYqGGL2"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270000,
+      "name": "Lantau Island",
+      "url": "https://open.spotify.com/track/3yMlCr3Hqa940RLXT0QiJG"
+    },
+    {
+      "album": {
+        "name": "Bar Talk",
+        "url": "https://open.spotify.com/album/2ttve2pKLds5sHvoMRgKm8"
+      },
+      "artists": [
+        {
+          "name": "Frank Blade",
+          "url": "https://open.spotify.com/artist/2PrWHsPomjuloEvNNObYvr"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190813,
+      "name": "Late Bar Talk - Jazzy Lounge Mix",
+      "url": "https://open.spotify.com/track/2Qpij2FY9Uc3eOFGioE7UT"
+    },
+    {
+      "album": {
+        "name": "Bar Talk",
+        "url": "https://open.spotify.com/album/5DRBDBDA7q19HzFfALv6xZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Blade",
+          "url": "https://open.spotify.com/artist/2PrWHsPomjuloEvNNObYvr"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Late Bar Talk - Jazzy Lounge Mix",
+      "url": "https://open.spotify.com/track/6PD4acXxKUddEgJsmCkCe3"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289568,
+      "name": "Late Night Talk",
+      "url": "https://open.spotify.com/track/0MUntFeM4CFaAMWIiTGavi"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289568,
+      "name": "Late Night Talk",
+      "url": "https://open.spotify.com/track/2B7JZV58HEWhuv0bJLk3PH"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 2)",
+        "url": "https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX"
+      },
+      "artists": [
+        {
+          "name": "Uniq",
+          "url": "https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm"
+        },
+        {
+          "name": "A&J",
+          "url": "https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218336,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/2CjQadRHjMyUsJDi3P2pQP"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 2)",
+        "url": "https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6"
+      },
+      "artists": [
+        {
+          "name": "Uniq",
+          "url": "https://open.spotify.com/artist/4bb4qHR1Nl65kHOqtK3unm"
+        },
+        {
+          "name": "A&J",
+          "url": "https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218336,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/62JHhd8RJkdfVnUrdD5p7b"
+    },
+    {
+      "album": {
+        "name": "La Naissance De La Vie",
+        "url": "https://open.spotify.com/album/07iQHudx9je9Dcxoy1oO2K"
+      },
+      "artists": [
+        {
+          "name": "Givenchy",
+          "url": "https://open.spotify.com/artist/1aFxylC9yg8cev7ALY5gM1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289345,
+      "name": "Le Manifeste",
+      "url": "https://open.spotify.com/track/0flT3iND2ZSXwnhbbblWHP"
+    },
+    {
+      "album": {
+        "name": "La Naissance De La Vie",
+        "url": "https://open.spotify.com/album/2J2U6bVwpfVuNbnrtOImpp"
+      },
+      "artists": [
+        {
+          "name": "Givenchy",
+          "url": "https://open.spotify.com/artist/1aFxylC9yg8cev7ALY5gM1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289345,
+      "name": "Le Manifeste",
+      "url": "https://open.spotify.com/track/0x61nzsjrtdkL4PNG4XxXg"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236400,
+      "name": "Life Cykles",
+      "url": "https://open.spotify.com/track/1K5AeX3Jz7kcLtLS4QAomn"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/2qhEuGhshsDs1g5hp9uaZh"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Life Cykles",
+      "url": "https://open.spotify.com/track/5plUVU9cRofKk8Zf2jWIqF"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/3AlqTb00fGy16aduQpgk5e"
+      },
+      "artists": [
+        {
+          "name": "Melwin Z",
+          "url": "https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "Lifeline - Spa Version",
+      "url": "https://open.spotify.com/track/5nOCB0q9sVv5CReeRPoUMS"
+    },
+    {
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej"
+      },
+      "artists": [
+        {
+          "name": "Melwin Z",
+          "url": "https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234782,
+      "name": "Lifeline - Spa Version",
+      "url": "https://open.spotify.com/track/5qZzkhTtNx5T7hkXr2coqH"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/2qhEuGhshsDs1g5hp9uaZh"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Lips in motion",
+      "url": "https://open.spotify.com/track/4CXQ2xSCc7eOzI7OzsP4hS"
+    },
+    {
+      "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236571,
+      "name": "Lips in motion",
+      "url": "https://open.spotify.com/track/5iAxhHxcKg9qjejLfj9am5"
+    },
+    {
+      "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/6k7wDdNqWtQEtaUk3sqJ7m"
+      },
+      "artists": [
+        {
+          "name": "High Flyers",
+          "url": "https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230806,
+      "name": "Listen To Your Soul",
+      "url": "https://open.spotify.com/track/0Y09IAZSAawjPp34xkHWvX"
+    },
+    {
+      "album": {
+        "name": "Fly With Me",
+        "url": "https://open.spotify.com/album/3jw3aOwpCYR38l4ca35zQq"
+      },
+      "artists": [
+        {
+          "name": "High Flyers",
+          "url": "https://open.spotify.com/artist/5MObop57iZqWE3o1nXtFVc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230806,
+      "name": "Listen To Your Soul",
+      "url": "https://open.spotify.com/track/3aLtpuIBWobnJ5O1n8EpR1"
+    },
+    {
+      "album": {
+        "name": "Seven Succulents",
+        "url": "https://open.spotify.com/album/3BEF1oNx2m4dHR8tgpqxvz"
+      },
+      "artists": [
+        {
+          "name": "KiloWatts",
+          "url": "https://open.spotify.com/artist/6bfMuPt1W4fIDD0nIR7ea2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377755,
+      "name": "Living Stones",
+      "url": "https://open.spotify.com/track/4K2Gz8DzhVZ4Ja4vlxWi2C"
+    },
+    {
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295679,
+      "name": "Lounge de Reveur",
+      "url": "https://open.spotify.com/track/2PKXBJC3Yewk65fBXmTTlq"
+    },
+    {
+      "album": {
+        "name": "Back To School \u2013 Study Music Background, Vol. 2",
+        "url": "https://open.spotify.com/album/2NOmS5C3uJvXwoZEzNVqtm"
+      },
+      "artists": [
+        {
+          "name": "Christian Hornbostel",
+          "url": "https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 259148,
+      "name": "Love Supreme - Lovelight Mix",
+      "url": "https://open.spotify.com/track/4xghEwOIREf7QKzvg34PZD"
+    },
+    {
+      "album": {
+        "name": "Don Gorda Project & Friends Smooth Lounge Collection",
+        "url": "https://open.spotify.com/album/33XWWJ6rTcYNYeh7k9RsTb"
+      },
+      "artists": [
+        {
+          "name": "Christian Hornbostel",
+          "url": "https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259148,
+      "name": "Love Supreme - Lovelight Mix",
+      "url": "https://open.spotify.com/track/578UeyzO3gRYV9l92UVSIg"
+    },
+    {
+      "album": {
+        "name": "Solanos Presents Bar Chill Out Collection With Friends",
+        "url": "https://open.spotify.com/album/2cmhEdPpprx02H0kL6yMkP"
+      },
+      "artists": [
+        {
+          "name": "Christian Hornbostel",
+          "url": "https://open.spotify.com/artist/2q2lnF9Vc1tio0AGOPFJ78"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259148,
+      "name": "Love Supreme - Lovelight Mix",
+      "url": "https://open.spotify.com/track/7njkWZb9K3oEPXGhkiWSea"
+    },
+    {
+      "album": {
+        "name": "Loving You (One Last Time) [Lounge Version]",
+        "url": "https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
+        },
+        {
+          "name": "Thyra",
+          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214629,
+      "name": "Loving You (One Last Time) - Lounge Version",
+      "url": "https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx"
+    },
+    {
+      "album": {
+        "name": "Loving You (One Last Time) [Lounge Version]",
+        "url": "https://open.spotify.com/album/0HAV9XctY755FwIUsfqGkO"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
+        },
+        {
+          "name": "Thyra",
+          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214629,
+      "name": "Loving You (One Last Time) - Lounge Version",
+      "url": "https://open.spotify.com/track/7jYPOUQNUXYYRAIBu3qfVj"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/7KLVnIYwRybc9vVLWZYTCM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245600,
+      "name": "Lullabies",
+      "url": "https://open.spotify.com/track/4XLuvPPVWy2ZjLexSCiYB4"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Lullabies",
+      "url": "https://open.spotify.com/track/65NgzrJQYejo06ddrg8tbp"
+    },
+    {
+      "album": {
+        "name": "Chill out Lago di Como Edition",
+        "url": "https://open.spotify.com/album/6q0CCqkvvU0merL8uzkQdE"
+      },
+      "artists": [
+        {
+          "name": "Lounge Makers",
+          "url": "https://open.spotify.com/artist/0XvFAxZkwdF0w0b8YD2FNT"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248332,
+      "name": "Lustre",
+      "url": "https://open.spotify.com/track/1tqQXpP03a9csZTXJboDWr"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out Vol. 1",
+        "url": "https://open.spotify.com/album/6Wf8QeSOXF5kghQk99DpZb"
+      },
+      "artists": [
+        {
+          "name": "Studio Lodge",
+          "url": "https://open.spotify.com/artist/5Ogwa5QHd5v7KdyGG8wlLi"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398680,
+      "name": "Maximillian",
+      "url": "https://open.spotify.com/track/2ihBPuEXv1Mpp9FKiFKY8G"
+    },
+    {
+      "album": {
+        "name": "Music For Dreams",
+        "url": "https://open.spotify.com/album/7FVXnDsiClWsdbjZz0v6Ic"
+      },
+      "artists": [
+        {
+          "name": "Studio Lodge",
+          "url": "https://open.spotify.com/artist/5Ogwa5QHd5v7KdyGG8wlLi"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 398680,
+      "name": "Maximillian",
+      "url": "https://open.spotify.com/track/3kQuRpq4nreem7XwjRJ6uA"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R"
+      },
+      "artists": [
+        {
+          "name": "Studio Lodge",
+          "url": "https://open.spotify.com/artist/5Ogwa5QHd5v7KdyGG8wlLi"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 398680,
+      "name": "Maximillian",
+      "url": "https://open.spotify.com/track/7jvv6kofcYT1qoitMejhxd"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/2prutZgrFTEzBNo2x6NRBR"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Band",
+          "url": "https://open.spotify.com/artist/6hAU9c2V56GFBl1bt0418S"
+        },
+        {
+          "name": "A&J",
+          "url": "https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253373,
+      "name": "Meet Me In The Shades",
+      "url": "https://open.spotify.com/track/0Dy1Lp7leAQJ5FEAZugV7k"
+    },
+    {
+      "album": {
+        "name": "Atmosphere Mood",
+        "url": "https://open.spotify.com/album/0Dt0D2Y09ovWZDRu7nyM2s"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Band",
+          "url": "https://open.spotify.com/artist/6hAU9c2V56GFBl1bt0418S"
+        },
+        {
+          "name": "A&J",
+          "url": "https://open.spotify.com/artist/7bls5wO56OdhDj3hYIfWd2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Meet Me In The Shades",
+      "url": "https://open.spotify.com/track/6u3WrFimTJKx0hQhhI5Tnz"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 311997,
+      "name": "Memory Shrine",
+      "url": "https://open.spotify.com/track/0bTqN3b37nOBTenHSOeaMt"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311997,
+      "name": "Memory Shrine",
+      "url": "https://open.spotify.com/track/4KGavUzvU2IBcKJV8lZtmA"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/4DTUz85RW2bct7BOzeiA1n"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286956,
+      "name": "Metafor",
+      "url": "https://open.spotify.com/track/2ZDAjQF7v380MRyvRi7Rx7"
+    },
+    {
+      "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/02ri4OGqlvQ1eyWnlCoiMi"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286956,
+      "name": "Metafor",
+      "url": "https://open.spotify.com/track/7KQiIiKZLvfhKUQxCSNbOa"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Midnight Rambla",
+      "url": "https://open.spotify.com/track/4NgLkRgcdq2KYA3nieWJX0"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210461,
+      "name": "Midnight Rambla",
+      "url": "https://open.spotify.com/track/4sMVYjkdBXbQQx0qK2YZTi"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/1ECP6AT6Jcxi0UCbHoByl6"
+    },
+    {
+      "album": {
+        "name": "Spa Music",
+        "url": "https://open.spotify.com/album/7khZn089iLpp3qjd0mGVum"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202000,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/1HHoTMwBMIm5ebqOhqLGNf"
+    },
+    {
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/0kRICOLMCYoy7QoN40sSJO"
+      },
+      "artists": [
+        {
+          "name": "Vincente M",
+          "url": "https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202000,
+      "name": "Midsummer",
+      "url": "https://open.spotify.com/track/7n9GNIshLB6CEUiy8zj7oK"
+    },
+    {
+      "album": {
+        "name": "Coffeehouse Lounge Best Of 2014-2016",
+        "url": "https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231933,
+      "name": "Moody Caf\u00e9",
+      "url": "https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M"
+    },
+    {
+      "album": {
+        "name": "Slow Love",
+        "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Moody Caf\u00e9",
+      "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258000,
+      "name": "My Promise",
+      "url": "https://open.spotify.com/track/0E5yoXqSoH5r452yMSBzkA"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "My Promise",
+      "url": "https://open.spotify.com/track/2ovW1cVVJMLvs3o13fJYWU"
+    },
+    {
+      "album": {
+        "name": "Mystic River",
+        "url": "https://open.spotify.com/album/7j2xCs3s8IOhdLAmjkLUny"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 327703,
+      "name": "Mystic River",
+      "url": "https://open.spotify.com/track/2il6iPIXEEK3NrAHPpMqbM"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327703,
+      "name": "Mystic River",
+      "url": "https://open.spotify.com/track/3NjfxqIJdxJ8wmRMRrf72h"
+    },
+    {
+      "album": {
+        "name": "Mystic River",
+        "url": "https://open.spotify.com/album/5Sjvs0c4MD9He6Ige8rPKk"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 327703,
+      "name": "Mystic River",
+      "url": "https://open.spotify.com/track/54VRxTPDkLeKnuatjUuYIh"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Ocean Park",
+      "url": "https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282000,
+      "name": "Ocean Park",
+      "url": "https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX"
+    },
+    {
+      "album": {
+        "name": "Sunbed Chill Out (Vol 1)",
+        "url": "https://open.spotify.com/album/1jaXFHo9NBqKIXoB6BYy67"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214358,
+      "name": "Once In A Dream - Chill Original",
+      "url": "https://open.spotify.com/track/0zKJM7xXnbhrBcdzPwXCpb"
+    },
+    {
+      "album": {
+        "name": "Once In A dream",
+        "url": "https://open.spotify.com/album/0QaawGzGKcp7KYhiucUtgV"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214358,
+      "name": "Once In A Dream - Chill Original",
+      "url": "https://open.spotify.com/track/15axDyGsxMRMbdblfSjSxI"
+    },
+    {
+      "album": {
+        "name": "Once In A dream",
+        "url": "https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214358,
+      "name": "Once In A Dream - Chill Original",
+      "url": "https://open.spotify.com/track/5tuNgB2oA7edy3Nw9mIQ6W"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/7rpKRo2Wd80NYMd0rz4VJR"
+      },
+      "artists": [
+        {
+          "name": "Rena Jones",
+          "url": "https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341960,
+      "name": "Open Me Slowly",
+      "url": "https://open.spotify.com/track/1DDXDrp9MHoL5rESiyyrLi"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/1CSz1kwa9uSIFOqPBYnCC5"
+      },
+      "artists": [
+        {
+          "name": "Rena Jones",
+          "url": "https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341960,
+      "name": "Open Me Slowly",
+      "url": "https://open.spotify.com/track/5gIo9sRiusJH9f3mMRqZa1"
+    },
+    {
+      "album": {
+        "name": "Oxygene (Part IV)",
+        "url": "https://open.spotify.com/album/6flgDnTFnVBQJiFwcijsT1"
+      },
+      "artists": [
+        {
+          "name": "ST*RMAN",
+          "url": "https://open.spotify.com/artist/2xZqfja7IiTqVsTKSDzHcl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309428,
+      "name": "Oxygene - Spa Version",
+      "url": "https://open.spotify.com/track/2nSZUB39Wj9iwvFD9kqqqV"
+    },
+    {
+      "album": {
+        "name": "Oxygene (Part IV)",
+        "url": "https://open.spotify.com/album/7riat2USMIq2dh5HJBZtu7"
+      },
+      "artists": [
+        {
+          "name": "ST*RMAN",
+          "url": "https://open.spotify.com/artist/2xZqfja7IiTqVsTKSDzHcl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309428,
+      "name": "Oxygene - Spa Version",
+      "url": "https://open.spotify.com/track/6M9VrzaX7lUuB2mXSnsRaU"
+    },
+    {
+      "album": {
+        "name": "Big Blue Chill",
+        "url": "https://open.spotify.com/album/4xhtuLPu0OoihegPNdy2Sk"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313562,
+      "name": "Pacific",
+      "url": "https://open.spotify.com/track/2IUOujqpbIi67mGsX9rKTg"
+    },
+    {
+      "album": {
+        "name": "Big Blue Chill",
+        "url": "https://open.spotify.com/album/318OTrigg1vRXXtQ9sKnNd"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313562,
+      "name": "Pacific",
+      "url": "https://open.spotify.com/track/2S7Wm3xZZUcuIejlDBSmZO"
+    },
+    {
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/5FtfeKC9KKiCfTor3NHrRR"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300689,
+      "name": "Paradis sur Terre",
+      "url": "https://open.spotify.com/track/0bS7E7lP1RAqXqOwdsqJ7I"
+    },
+    {
+      "album": {
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej"
+      },
+      "artists": [
+        {
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300689,
+      "name": "Paradis sur Terre",
+      "url": "https://open.spotify.com/track/5jTkeZUvk2b2yVRG12cN6q"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Parc Gu\u0308ell",
+      "url": "https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208000,
+      "name": "Parc Gu\u0308ell",
+      "url": "https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL"
+    },
+    {
+      "album": {
+        "name": "Calm Morning (Vol 2)",
+        "url": "https://open.spotify.com/album/4euXG3fDA9DV7MtGXX1qeK"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208000,
+      "name": "Parc G\u00fcell",
+      "url": "https://open.spotify.com/track/1qSdFNSzlFfHq0dTJCAGjE"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235500,
+      "name": "Paris Romance",
+      "url": "https://open.spotify.com/track/40lIS5y4IvPlF4UPy2yJwR"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Paris Romance",
+      "url": "https://open.spotify.com/track/4JDuT5Xl7cAZIb6Ybd2zAT"
+    },
+    {
+      "album": {
+        "name": "This Is Music For SPA, Vol. 1",
+        "url": "https://open.spotify.com/album/11lKh2eM2KessQXJMaWGMU"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 235500,
+      "name": "Paris Romance",
+      "url": "https://open.spotify.com/track/5Y0GKoXU9xR3iN4bRX4QTE"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/4pjzzCLYxJEVFrQuSzOOIV"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Patio Groove",
+      "url": "https://open.spotify.com/track/2zxUKcmp7jkVX5JnUpOCDF"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233693,
+      "name": "Patio Groove",
+      "url": "https://open.spotify.com/track/5usVzIWJyYcwYeSjfPA7T2"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Peaceful Steps",
+      "url": "https://open.spotify.com/track/0aYMZokpkck2E0q0tahWXX"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202250,
+      "name": "Peaceful Steps",
+      "url": "https://open.spotify.com/track/0uQp5uVoeiERuDd9ld0eqw"
+    },
+    {
+      "album": {
+        "name": "Calm Evening (Vol 1)",
+        "url": "https://open.spotify.com/album/0owL5Cz469wE4tQlz3WLRJ"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202250,
+      "name": "Peaceful Steps",
+      "url": "https://open.spotify.com/track/5gtXdxVPbcskjvWk39Hxwi"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200000,
+      "name": "Place Dauphine",
+      "url": "https://open.spotify.com/track/3lHMjgITe0bwhIm65A7wA6"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Place Dauphine",
+      "url": "https://open.spotify.com/track/6Edz5jDqogvCfkVqd0rAJ4"
+    },
+    {
+      "album": {
+        "name": "Groove Closet: Downtempo Bedroom Beats from Ball of Waxx",
+        "url": "https://open.spotify.com/album/2H4xtVe00gOht4hD4aCNli"
+      },
+      "artists": [
+        {
+          "name": "Eastern Sun and John Kelley",
+          "url": "https://open.spotify.com/artist/4D5cSvOcT0aMNlD3LDF6rx"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457520,
+      "name": "Rapture at Sea",
+      "url": "https://open.spotify.com/track/0HdeZ0MFWni6PQhWp5htQj"
+    },
+    {
+      "album": {
+        "name": "Sunday Relax",
+        "url": "https://open.spotify.com/album/2cLBREfhW9ia3dUnweAMHT"
+      },
+      "artists": [
+        {
+          "name": "The Maples",
+          "url": "https://open.spotify.com/artist/0YYP9shmooHpq4LAw8vM3e"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/4e3X7MlmO7Aq9JSdxUMp4j"
+    },
+    {
+      "album": {
+        "name": "Sunday Relax",
+        "url": "https://open.spotify.com/album/7eHfJFYAp1tfJxYQmrA9Zu"
+      },
+      "artists": [
+        {
+          "name": "The Maples",
+          "url": "https://open.spotify.com/artist/0YYP9shmooHpq4LAw8vM3e"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233400,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/6ILZs7AFyKdBy6qOupfSpm"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260727,
+      "name": "Rock Solid",
+      "url": "https://open.spotify.com/track/11ptupg7FHAwbzOnEp20Dc"
+    },
+    {
+      "album": {
+        "name": "This Is Music For RELAXING, Vol. 4",
+        "url": "https://open.spotify.com/album/4nZYcFUaifA9ihqusIZNbU"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260727,
+      "name": "Rock Solid",
+      "url": "https://open.spotify.com/track/1dgst9i0bYqZ9lP5mQcAuV"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/4pjzzCLYxJEVFrQuSzOOIV"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260727,
+      "name": "Rock Solid",
+      "url": "https://open.spotify.com/track/5sQVe1MWy6QobV0jdHjRq6"
+    },
+    {
+      "album": {
+        "name": "Waterfront - The Album",
+        "url": "https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235650,
+      "name": "Rude - Chill Out Version",
+      "url": "https://open.spotify.com/track/1LziOv3kuVGEyJ3CDc0PjR"
+    },
+    {
+      "album": {
+        "name": "Rude (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4SB9X0y3XwslRC5ar3e9pr"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235650,
+      "name": "Rude - Chill Out Version",
+      "url": "https://open.spotify.com/track/1VNDneAugTRutenMvYGZMH"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221500,
+      "name": "Sagrada Familia",
+      "url": "https://open.spotify.com/track/1uD7jXI56I75xeUZYGIi0Y"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Sagrada Familia",
+      "url": "https://open.spotify.com/track/6E2lu70wN3clIVblQ2Xot5"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232000,
+      "name": "Sandstone Peak",
+      "url": "https://open.spotify.com/track/0QVBZQhbTjOXjlSUzUoJKq"
+    },
+    {
+      "album": {
+        "name": "This Is Music For FOCUS (Vol 3)",
+        "url": "https://open.spotify.com/album/0XEJzyi26BXFDp5bqXWyk3"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232000,
+      "name": "Sandstone Peak",
+      "url": "https://open.spotify.com/track/3R3T8vJdvSveEx2JL05T7V"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/2g8TsCyheFHrtpGeOxG3JV"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Sandstone Peak",
+      "url": "https://open.spotify.com/track/78RU2XSpY3ucT0xEBI9bFF"
+    },
+    {
+      "album": {
+        "name": "ECO SPA MUSIC, Vol. 1",
+        "url": "https://open.spotify.com/album/0TRZ2ieyLcZuk7MPqqtAbA"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 246153,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/0PidIzN457TWLdAVIZlopx"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246153,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/5qGa6klw09gmP6cdKnK65C"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Santa Maria",
+      "url": "https://open.spotify.com/track/6pI6qH82gpKJ24niPlZISC"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245714,
+      "name": "Sette Oche",
+      "url": "https://open.spotify.com/track/4rvJ51RdJZmBlE0Dr6GmuM"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245714,
+      "name": "Sette Oche",
+      "url": "https://open.spotify.com/track/5R9ukMX7BDIy1WJYsAhBD6"
+    },
+    {
+      "album": {
+        "name": "Music For Brainwash, Vol. 2",
+        "url": "https://open.spotify.com/album/4UoOcknlZFyd5MPj7yRI44"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 245714,
+      "name": "Sette Oche",
+      "url": "https://open.spotify.com/track/6iSzRZ7jGi7euMVFVbznAN"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223606,
+      "name": "Smokey Room",
+      "url": "https://open.spotify.com/track/5Tnc22QRALE0jlKaMsAG95"
+    },
+    {
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/4pjzzCLYxJEVFrQuSzOOIV"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223606,
+      "name": "Smokey Room",
+      "url": "https://open.spotify.com/track/5zWohbbNkgIxTZ6Wb06lE6"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 2)",
+        "url": "https://open.spotify.com/album/2leWLr9dNRyi1QBUak1QB6"
+      },
+      "artists": [
+        {
+          "name": "Aqua Club",
+          "url": "https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234977,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/38npxBNsIKBi1Fe0tJAb1I"
+    },
+    {
+      "album": {
+        "name": "By The Seaside (Vol 2)",
+        "url": "https://open.spotify.com/album/0g8FK5yjAMJoUiZDPi8bYX"
+      },
+      "artists": [
+        {
+          "name": "Aqua Club",
+          "url": "https://open.spotify.com/artist/62pwBPqHsz8O243t6m0E9B"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234977,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/49V82zU6qm1e1B3qZANfIc"
+    },
+    {
+      "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/3HrMtl0ZYK194zU8sfcpZx"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241227,
+      "name": "Soul Blanket",
+      "url": "https://open.spotify.com/track/3udiwLxQnr2lr0higOdi8Z"
+    },
+    {
+      "album": {
+        "name": "Into The Stillness",
+        "url": "https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241227,
+      "name": "Soul Blanket",
+      "url": "https://open.spotify.com/track/44McOkwrQvgCzDxd5NZV6a"
+    },
+    {
+      "album": {
+        "name": "Into The Stillness",
+        "url": "https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241227,
+      "name": "Soul Blanket",
+      "url": "https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD"
+    },
+    {
+      "album": {
+        "name": "Sky Full Of Stars",
+        "url": "https://open.spotify.com/album/2mxv4t7AEq271eqKmLBEDa"
+      },
+      "artists": [
+        {
+          "name": "Silent Waves",
+          "url": "https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280800,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/2RtUajbIhcuADmMS2cu1Ks"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/1eVHScWfp6iWpXrNaeTCWS"
+      },
+      "artists": [
+        {
+          "name": "Silent Waves",
+          "url": "https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/4gPOgqHBVrWxq1l4TTHaXT"
+    },
+    {
+      "album": {
+        "name": "Sky Full Of Stars",
+        "url": "https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR"
+      },
+      "artists": [
+        {
+          "name": "Silent Waves",
+          "url": "https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280800,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7qvln6B5KSUedHG3lB0dFm"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174000,
+      "name": "St Germain 54",
+      "url": "https://open.spotify.com/track/21TG8QkajgXY6rWjIK5dFO"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "St Germain 54",
+      "url": "https://open.spotify.com/track/3mlFgJl3Q1rc3xadkS2fz4"
+    },
+    {
+      "album": {
+        "name": "Music For Brainwash, Vol. 2",
+        "url": "https://open.spotify.com/album/4UoOcknlZFyd5MPj7yRI44"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174000,
+      "name": "St Germain 54",
+      "url": "https://open.spotify.com/track/70YyOADoleQTTHcrEkV30V"
+    },
+    {
+      "album": {
+        "name": "Once In A dream",
+        "url": "https://open.spotify.com/album/0QaawGzGKcp7KYhiucUtgV"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193310,
+      "name": "Stay Lo Get Go - Chill Original",
+      "url": "https://open.spotify.com/track/3a6NDuesWXRxyMggVIwVe7"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193310,
+      "name": "Stay Lo Get Go - Chill Original",
+      "url": "https://open.spotify.com/track/3wJOPLmX9cqFmaDLo3Cz2i"
+    },
+    {
+      "album": {
+        "name": "Once In A dream",
+        "url": "https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193310,
+      "name": "Stay Lo Get Go - Chill Original",
+      "url": "https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM"
+    },
+    {
+      "album": {
+        "name": "Dark Lights",
+        "url": "https://open.spotify.com/album/76bTJuH3WByeFftVYBhCJu"
+      },
+      "artists": [
+        {
+          "name": "Gina Miranda",
+          "url": "https://open.spotify.com/artist/05poPo0WUc0sSmi5SFlxtl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216000,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/0fIXb6fNwg6ZFlJWznFZxC"
+    },
+    {
+      "album": {
+        "name": "Dark Lights",
+        "url": "https://open.spotify.com/album/0fYyffiPA9yxb1MA1ltzMS"
+      },
+      "artists": [
+        {
+          "name": "Gina Miranda",
+          "url": "https://open.spotify.com/artist/05poPo0WUc0sSmi5SFlxtl"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/2DCnWJTabSQoG9Ilu9Kqyb"
+    },
+    {
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/4p3DmBNU92j6czKpCWUJ3L"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Calientas",
+          "url": "https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/14b5cSGM4OS7zfFDCf2ipo"
+    },
+    {
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/2fJ3dl4x89GzX8Cl9qHZIB"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Calientas",
+          "url": "https://open.spotify.com/artist/6ElNAiKEtqWnJMrdYxVP2G"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211200,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/1RFA5RnMV4CRi4LUVXsPQJ"
+    },
+    {
+      "album": {
+        "name": "Into The Stillness",
+        "url": "https://open.spotify.com/album/1flvmX3ZrUV6I4XPXugSJ6"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217000,
+      "name": "Sweet Feelings",
+      "url": "https://open.spotify.com/track/3pG3G1lRhmuxIndGtEQ3Hz"
+    },
+    {
+      "album": {
+        "name": "Sweet Feeling",
+        "url": "https://open.spotify.com/album/2HNIxzVUo0dUcyWMI5f7iR"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Sweet Feelings",
+      "url": "https://open.spotify.com/track/4kdbwH3JqAzhSYhJyVllro"
+    },
+    {
+      "album": {
+        "name": "Chill Out Radio",
+        "url": "https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr"
+      },
+      "artists": [
+        {
+          "name": "Sofia's Choice",
+          "url": "https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217000,
+      "name": "Sweet Feelings",
+      "url": "https://open.spotify.com/track/6REcPKu2cOxitLoFioV63z"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224615,
+      "name": "Terme di Caracalla",
+      "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224615,
+      "name": "Terme di Caracalla",
+      "url": "https://open.spotify.com/track/7rPWpqAcS9yArMDgx8GBRu"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/5DyYwXM1w3jSQn4AMLkxsF"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328193,
+      "name": "Through The Summer Fields",
+      "url": "https://open.spotify.com/track/3NOUNCVdujzsFJfwes1aJ9"
+    },
+    {
+      "album": {
+        "name": "This Is Music For SPA, Vol. 1",
+        "url": "https://open.spotify.com/album/11lKh2eM2KessQXJMaWGMU"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 328193,
+      "name": "Through The Summer Fields",
+      "url": "https://open.spotify.com/track/4g07HWCRJ7P9zpbKeKoLmq"
+    },
+    {
+      "album": {
+        "name": "Landscapes Below",
+        "url": "https://open.spotify.com/album/2AvDTPf8fW8qxNaIvIfk4L"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328193,
+      "name": "Through The Summer Fields",
+      "url": "https://open.spotify.com/track/5nGUQM7GL3OgpCYCY7TkUv"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Tian Tan Buddha",
+      "url": "https://open.spotify.com/track/6DX9uyJmVv8aLUKjvHyI4q"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202000,
+      "name": "Tian Tan Buddha",
+      "url": "https://open.spotify.com/track/6QkNz8cAf8Bo8DuExHAWPj"
+    },
+    {
+      "album": {
+        "name": "Too Much Heaven",
+        "url": "https://open.spotify.com/album/6AvRr4ajCVBRCrc2Pqfuch"
+      },
+      "artists": [
+        {
+          "name": "Bonfire City",
+          "url": "https://open.spotify.com/artist/3TzQm1HbQVLR0V8xJ4H5hS"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242512,
+      "name": "Too Much Heaven - Chill Out Version",
+      "url": "https://open.spotify.com/track/0zh6XWuKHebBF2AFnk9cHA"
+    },
+    {
+      "album": {
+        "name": "Too Much Heaven",
+        "url": "https://open.spotify.com/album/7uEXIK2VQRjf5bIsRR7RrZ"
+      },
+      "artists": [
+        {
+          "name": "Bonfire City",
+          "url": "https://open.spotify.com/artist/3TzQm1HbQVLR0V8xJ4H5hS"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242512,
+      "name": "Too Much Heaven - Chill Out Version",
+      "url": "https://open.spotify.com/track/43uelqKBIyy0TNVkRJQdZE"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221538,
+      "name": "Villa Borghese",
+      "url": "https://open.spotify.com/track/5N69GHuuvue74rYozPlBJ2"
+    },
+    {
+      "album": {
+        "name": "Roma Atmosphere",
+        "url": "https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc"
+      },
+      "artists": [
+        {
+          "name": "Roma Atmosphere",
+          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Villa Borghese",
+      "url": "https://open.spotify.com/track/7mgRNwdm9onGJz8y0neIos"
+    },
+    {
+      "album": {
+        "name": "Waterfront",
+        "url": "https://open.spotify.com/album/6D23vKPt8tFY61gZehl5pw"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270000,
+      "name": "Waterfront - Focus Version",
+      "url": "https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P"
+    },
+    {
+      "album": {
+        "name": "Waterfront - The Album",
+        "url": "https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Waterfront - Focus Version",
+      "url": "https://open.spotify.com/track/5hjZLLuxbMa4p7VW36b2v8"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/2g8TsCyheFHrtpGeOxG3JV"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Wayfarers Chapel",
+      "url": "https://open.spotify.com/track/14WK20NXgssPAUqRtA4Wfk"
+    },
+    {
+      "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207600,
+      "name": "Wayfarers Chapel",
+      "url": "https://open.spotify.com/track/7mHTs36ERX5DHulVY03z8f"
+    },
+    {
+      "album": {
+        "name": "Dark Lounge - Deep Chillout Music",
+        "url": "https://open.spotify.com/album/6doWcuZPtgwfzTgWFracaM"
+      },
+      "artists": [
+        {
+          "name": "Conrad Hawk",
+          "url": "https://open.spotify.com/artist/6f4q4QzavzCcEztlxnnVcv"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284835,
+      "name": "We Start Slowly",
+      "url": "https://open.spotify.com/track/4zQwQhXTMQOSrx5BW5HZU1"
+    },
+    {
+      "album": {
+        "name": "Ambient Chill Emotions , Vol. 2",
+        "url": "https://open.spotify.com/album/3gCSQ4lTowhwtEG67nSaz5"
+      },
+      "artists": [
+        {
+          "name": "Conrad Hawk",
+          "url": "https://open.spotify.com/artist/6f4q4QzavzCcEztlxnnVcv"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284835,
+      "name": "We Start Slowly - Original Mix",
+      "url": "https://open.spotify.com/track/4WZ45eTNAXdigNDhAc8Yq6"
+    },
+    {
+      "album": {
+        "name": "Orange Seaside - Chill Out Dreams",
+        "url": "https://open.spotify.com/album/4aW1gJJuEMRaUmvM70RmPs"
+      },
+      "artists": [
+        {
+          "name": "Conrad Hawk",
+          "url": "https://open.spotify.com/artist/6f4q4QzavzCcEztlxnnVcv"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284835,
+      "name": "We Start Slowly - Original Mix",
+      "url": "https://open.spotify.com/track/6taioLJSWiSQhvRJJ2xNtt"
+    },
+    {
+      "album": {
+        "name": "Lounge Kaviar, Vol. 1",
+        "url": "https://open.spotify.com/album/74vhyGzuGciq7R8v8SL2ee"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184480,
+      "name": "When We Used To Know - Chill Mix",
+      "url": "https://open.spotify.com/track/07WyHJAiQ5tqNGkrmyvpRU"
+    },
+    {
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184480,
+      "name": "When We Used To Know - Chill Mix",
+      "url": "https://open.spotify.com/track/2RbfbOY1a1NutRFZTrwK6u"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "When We Used To Know - Chill Mix",
+      "url": "https://open.spotify.com/track/6YOyJYhOr08eEmr25qa3T8"
+    },
+    {
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215633,
+      "name": "When We Used To Know - Sleep",
+      "url": "https://open.spotify.com/track/4jlalNYQPBima5LqbYhiPa"
+    },
+    {
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/3FulCsnoWcOEuHPmh17atn"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215633,
+      "name": "When We Used To Know - Sleep",
+      "url": "https://open.spotify.com/track/4r1zPuDp1FXGbABKth5QWC"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7vcup8lAJR5fbLqOpoRqDw"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353354,
+      "name": "White Rim Road",
+      "url": "https://open.spotify.com/track/21IrjGlg2fktPvhGdbcL3g"
+    },
+    {
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 353354,
+      "name": "White Rim Road",
+      "url": "https://open.spotify.com/track/2O8QBB2QBXgIEgdVmUyT1N"
+    },
+    {
+      "album": {
+        "name": "So Far Away, But Still At Home",
+        "url": "https://open.spotify.com/album/7gGiVu6kqGTNr8Fprm34sk"
+      },
+      "artists": [
+        {
+          "name": "Soul Secret",
+          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248863,
+      "name": "Without Air",
+      "url": "https://open.spotify.com/track/0eHSM0MnAb2KWqwpgVkkqt"
+    },
+    {
+      "album": {
+        "name": "So Far Away, But Still At Home",
+        "url": "https://open.spotify.com/album/7nuDIZ0i9y7qPEAw2NY8ve"
+      },
+      "artists": [
+        {
+          "name": "Soul Secret",
+          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248863,
+      "name": "Without Air",
+      "url": "https://open.spotify.com/track/12w47FVgIR9nFWsP4IPBNG"
+    },
+    {
+      "album": {
+        "name": "Blade Runner Love Theme",
+        "url": "https://open.spotify.com/album/5ypkLt6kcPwl396D2fFESw"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234666,
+      "name": "X-Files Love Theme",
+      "url": "https://open.spotify.com/track/3dZ7UNoazs7GH29y3Urwde"
+    },
+    {
+      "album": {
+        "name": "Blade Runner Love Theme",
+        "url": "https://open.spotify.com/album/51SVqgsB15Cccyu0BRWVEZ"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234666,
+      "name": "X-Files Love Theme",
+      "url": "https://open.spotify.com/track/5iJQIaytwroEt33W2Kgu6Q"
+    },
+    {
+      "album": {
+        "name": "Movie Dreams",
+        "url": "https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "X-Files Love Theme",
+      "url": "https://open.spotify.com/track/6iUeRJ4W0UmEJ9LkH5Q7Q4"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/3z0jLxZij4JRBX7QdXkafC"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/4zScM9FmI5Z9Ohmgi6PVCz"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/7LQpg0w7maGxH5uzSMi1Jm"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/5P8ysr5kiAe0KFWoFDCdQH"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213789,
+      "name": "Yes/No - Full Mix",
+      "url": "https://open.spotify.com/track/0IBlZhDoCH9YCFyZcgcbm1"
+    },
+    {
+      "album": {
+        "name": "Yes/No",
+        "url": "https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 213789,
+      "name": "Yes/No - Full Mix",
+      "url": "https://open.spotify.com/track/0RLBkVUnvitKTXDwUVSs3n"
+    },
+    {
+      "album": {
+        "name": "Yes/No",
+        "url": "https://open.spotify.com/album/0AuCl70u1UOvujYyoAbMH3"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "date_added": "2019-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213789,
+      "name": "Yes/No - Full Mix",
+      "url": "https://open.spotify.com/track/1zptSZsj3Bm5cREZjENoKn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTSPqolnbHgK"
 }

@@ -1,472 +1,1525 @@
 {
-  "2022-09-17": 867,
-  "2022-09-18": 868,
-  "2022-09-19": 869,
-  "2022-09-20": 869,
-  "2022-09-21": 870,
-  "2022-09-22": 873,
-  "2022-09-23": 874,
-  "2022-09-24": 877,
-  "2022-09-25": 878,
-  "2022-09-26": 879,
-  "2022-09-27": 879,
-  "2022-09-28": 882,
-  "2022-09-29": 881,
-  "2022-09-30": 882,
-  "2022-10-01": 882,
-  "2022-10-02": 883,
-  "2022-10-03": 883,
-  "2022-10-04": 883,
-  "2022-10-05": 885,
-  "2022-10-06": 885,
-  "2022-10-07": 885,
-  "2022-10-08": 885,
-  "2022-10-09": 886,
-  "2022-10-10": 886,
-  "2022-10-11": 887,
-  "2022-10-12": 887,
-  "2022-10-13": 887,
-  "2022-10-14": 890,
-  "2022-10-15": 890,
-  "2022-10-16": 890,
-  "2022-10-17": 890,
-  "2022-10-18": 891,
-  "2022-10-19": 891,
-  "2022-10-20": 890,
-  "2022-10-21": 891,
-  "2022-10-22": 891,
-  "2022-10-23": 891,
-  "2022-10-24": 890,
-  "2022-10-25": 889,
-  "2022-10-26": 890,
-  "2022-10-27": 891,
-  "2022-10-28": 891,
-  "2022-10-29": 891,
-  "2022-10-30": 891,
-  "2022-10-31": 892,
-  "2022-11-01": 893,
-  "2022-11-02": 895,
-  "2022-11-03": 894,
-  "2022-11-04": 893,
-  "2022-11-05": 894,
-  "2022-11-06": 896,
-  "2022-11-07": 896,
-  "2022-11-08": 897,
-  "2022-11-09": 898,
-  "2022-11-10": 897,
-  "2022-11-11": 897,
-  "2022-11-12": 900,
-  "2022-11-13": 900,
-  "2022-11-14": 901,
-  "2022-11-15": 902,
-  "2022-11-16": 902,
-  "2022-11-17": 903,
-  "2022-11-18": 903,
-  "2022-11-19": 903,
-  "2022-11-20": 903,
-  "2022-11-21": 905,
-  "2022-11-22": 906,
-  "2022-11-23": 909,
-  "2022-11-24": 910,
-  "2022-11-25": 911,
-  "2022-11-26": 913,
-  "2022-11-27": 913,
-  "2022-11-28": 913,
-  "2022-11-29": 912,
-  "2022-11-30": 913,
-  "2022-12-01": 914,
-  "2022-12-02": 913,
-  "2022-12-03": 917,
-  "2022-12-04": 917,
-  "2022-12-05": 916,
-  "2022-12-06": 916,
-  "2022-12-07": 917,
-  "2022-12-08": 918,
-  "2022-12-09": 918,
-  "2022-12-10": 919,
-  "2022-12-11": 919,
-  "2022-12-12": 919,
-  "2022-12-13": 920,
-  "2022-12-14": 921,
-  "2022-12-15": 922,
-  "2022-12-16": 923,
-  "2022-12-17": 922,
-  "2022-12-18": 922,
-  "2022-12-19": 923,
-  "2022-12-20": 924,
-  "2022-12-21": 924,
-  "2022-12-22": 924,
-  "2022-12-24": 925,
-  "2022-12-25": 924,
-  "2022-12-26": 925,
-  "2022-12-27": 926,
-  "2022-12-28": 928,
-  "2022-12-29": 927,
-  "2022-12-30": 927,
-  "2022-12-31": 927,
-  "2023-01-01": 928,
-  "2023-01-02": 930,
-  "2023-01-03": 933,
-  "2023-01-04": 933,
-  "2023-01-05": 934,
-  "2023-01-06": 936,
-  "2023-01-07": 937,
-  "2023-01-08": 937,
-  "2023-01-09": 937,
-  "2023-01-10": 936,
-  "2023-01-11": 936,
-  "2023-01-12": 937,
-  "2023-01-13": 938,
-  "2023-01-14": 937,
-  "2023-01-15": 937,
-  "2023-01-16": 935,
-  "2023-01-17": 935,
-  "2023-01-18": 935,
-  "2023-01-19": 935,
-  "2023-01-20": 937,
-  "2023-01-21": 937,
-  "2023-01-22": 939,
-  "2023-01-23": 939,
-  "2023-01-24": 937,
-  "2023-01-25": 937,
-  "2023-01-26": 940,
-  "2023-01-27": 939,
-  "2023-01-28": 939,
-  "2023-01-29": 939,
-  "2023-01-30": 940,
-  "2023-01-31": 940,
-  "2023-02-01": 942,
-  "2023-02-02": 942,
-  "2023-02-03": 942,
-  "2023-02-04": 943,
-  "2023-02-05": 943,
-  "2023-02-06": 944,
-  "2023-02-07": 945,
-  "2023-02-08": 944,
-  "2023-02-09": 944,
-  "2023-02-10": 944,
-  "2023-02-11": 943,
-  "2023-02-12": 944,
-  "2023-02-13": 943,
-  "2023-02-14": 943,
-  "2023-02-15": 944,
-  "2023-02-16": 944,
-  "2023-02-17": 944,
-  "2023-02-18": 945,
-  "2023-02-19": 945,
-  "2023-02-20": 946,
-  "2023-02-21": 946,
-  "2023-02-22": 947,
-  "2023-02-23": 948,
-  "2023-02-24": 948,
-  "2023-02-25": 948,
-  "2023-02-26": 948,
-  "2023-02-27": 950,
-  "2023-02-28": 950,
-  "2023-03-01": 950,
-  "2023-03-02": 952,
-  "2023-03-03": 952,
-  "2023-03-04": 952,
-  "2023-03-05": 953,
-  "2023-03-06": 953,
-  "2023-03-07": 953,
-  "2023-03-08": 953,
-  "2023-03-09": 955,
-  "2023-03-10": 955,
-  "2023-03-11": 953,
-  "2023-03-12": 953,
-  "2023-03-13": 958,
-  "2023-03-14": 958,
-  "2023-03-15": 958,
-  "2023-03-16": 958,
-  "2023-03-17": 958,
-  "2023-03-18": 963,
-  "2023-03-19": 963,
-  "2023-03-20": 964,
-  "2023-03-21": 963,
-  "2023-03-22": 964,
-  "2023-03-23": 964,
-  "2023-03-24": 964,
-  "2023-03-25": 964,
-  "2023-03-26": 966,
-  "2023-03-27": 965,
-  "2023-03-28": 965,
-  "2023-03-29": 964,
-  "2023-03-30": 966,
-  "2023-03-31": 966,
-  "2023-04-01": 966,
-  "2023-04-02": 967,
-  "2023-04-03": 968,
-  "2023-04-04": 969,
-  "2023-04-05": 971,
-  "2023-04-06": 971,
-  "2023-04-07": 971,
-  "2023-04-09": 975,
-  "2023-04-10": 975,
-  "2023-04-11": 978,
-  "2023-04-12": 978,
-  "2023-04-13": 978,
-  "2023-04-14": 977,
-  "2023-04-15": 977,
-  "2023-04-16": 977,
-  "2023-04-17": 976,
-  "2023-04-18": 976,
-  "2023-04-19": 977,
-  "2023-04-20": 978,
-  "2023-04-21": 980,
-  "2023-04-22": 981,
-  "2023-04-23": 981,
-  "2023-04-24": 983,
-  "2023-04-25": 983,
-  "2023-04-26": 982,
-  "2023-04-27": 982,
-  "2023-04-28": 983,
-  "2023-04-29": 983,
-  "2023-04-30": 983,
-  "2023-05-01": 983,
-  "2023-05-02": 983,
-  "2023-05-03": 982,
-  "2023-05-04": 983,
-  "2023-05-05": 984,
-  "2023-05-06": 983,
-  "2023-05-07": 983,
-  "2023-05-08": 983,
-  "2023-05-09": 983,
-  "2023-05-10": 984,
-  "2023-05-11": 984,
-  "2023-05-12": 984,
-  "2023-05-13": 986,
-  "2023-05-14": 988,
-  "2023-05-15": 989,
-  "2023-05-16": 989,
-  "2023-05-17": 993,
-  "2023-05-18": 992,
-  "2023-05-19": 995,
-  "2023-05-20": 997,
-  "2023-05-21": 997,
-  "2023-05-22": 997,
-  "2023-05-23": 998,
-  "2023-05-24": 998,
-  "2023-05-25": 998,
-  "2023-05-26": 999,
-  "2023-05-27": 1000,
-  "2023-05-28": 1000,
-  "2023-05-29": 1000,
-  "2023-05-30": 1002,
-  "2023-05-31": 1003,
-  "2023-06-01": 1003,
-  "2023-06-02": 1005,
-  "2023-06-03": 1006,
-  "2023-06-04": 1006,
-  "2023-06-05": 1006,
-  "2023-06-06": 1007,
-  "2023-06-07": 1009,
-  "2023-06-08": 1010,
-  "2023-06-09": 1010,
-  "2023-06-10": 1010,
-  "2023-06-11": 1010,
-  "2023-06-12": 1010,
-  "2023-06-13": 1010,
-  "2023-06-14": 1012,
-  "2023-06-15": 1012,
-  "2023-06-16": 1013,
-  "2023-06-17": 1012,
-  "2023-06-18": 1014,
-  "2023-06-19": 1016,
-  "2023-06-20": 1016,
-  "2023-06-21": 1018,
-  "2023-06-22": 1019,
-  "2023-06-23": 1019,
-  "2023-06-24": 1020,
-  "2023-06-25": 1022,
-  "2023-06-26": 1021,
-  "2023-06-27": 1022,
-  "2023-06-28": 1021,
-  "2023-06-29": 1021,
-  "2023-06-30": 1020,
-  "2023-07-01": 1022,
-  "2023-07-02": 1022,
-  "2023-07-03": 1022,
-  "2023-07-04": 1021,
-  "2023-07-05": 1022,
-  "2023-07-06": 1024,
-  "2023-07-07": 1024,
-  "2023-07-08": 1024,
-  "2023-07-09": 1024,
-  "2023-07-10": 1024,
-  "2023-07-11": 1023,
-  "2023-07-12": 1024,
-  "2023-07-13": 1025,
-  "2023-07-14": 1025,
-  "2023-07-15": 1025,
-  "2023-07-16": 1028,
-  "2023-07-17": 1029,
-  "2023-07-18": 1030,
-  "2023-07-19": 1030,
-  "2023-07-20": 1031,
-  "2023-07-21": 1034,
-  "2023-07-22": 1035,
-  "2023-07-23": 1036,
-  "2023-07-24": 1036,
-  "2023-07-25": 1040,
-  "2023-07-26": 1039,
-  "2023-07-27": 1039,
-  "2023-07-28": 1041,
-  "2023-07-29": 1040,
-  "2023-07-30": 1041,
-  "2023-07-31": 1043,
-  "2023-08-01": 1045,
-  "2023-08-02": 1045,
-  "2023-08-03": 1047,
-  "2023-08-04": 1044,
-  "2023-08-05": 1044,
-  "2023-08-06": 1046,
-  "2023-08-07": 1046,
-  "2023-08-08": 1047,
-  "2023-08-09": 1048,
-  "2023-08-10": 1049,
-  "2023-08-11": 1050,
-  "2023-08-12": 1050,
-  "2023-08-13": 1050,
-  "2023-08-14": 1054,
-  "2023-08-15": 1054,
-  "2023-08-16": 1054,
-  "2023-08-17": 1056,
-  "2023-08-18": 1056,
-  "2023-08-19": 1059,
-  "2023-08-20": 1059,
-  "2023-08-21": 1060,
-  "2023-08-22": 1061,
-  "2023-08-23": 1061,
-  "2023-08-24": 1064,
-  "2023-08-25": 1064,
-  "2023-08-26": 1063,
-  "2023-08-27": 1063,
-  "2023-08-28": 1063,
-  "2023-08-29": 1063,
-  "2023-08-30": 1063,
-  "2023-08-31": 1065,
-  "2023-09-01": 1067,
-  "2023-09-02": 1067,
-  "2023-09-03": 1069,
-  "2023-09-04": 1069,
-  "2023-09-05": 1069,
-  "2023-09-06": 1070,
-  "2023-09-07": 1070,
-  "2023-09-08": 1070,
-  "2023-09-09": 1070,
-  "2023-09-10": 1071,
-  "2023-09-11": 1071,
-  "2023-09-12": 1071,
-  "2023-09-13": 1075,
-  "2023-09-14": 1075,
-  "2023-09-15": 1075,
-  "2023-09-16": 1079,
-  "2023-09-17": 1079,
-  "2023-09-18": 1079,
-  "2023-09-19": 1081,
-  "2023-09-20": 1081,
-  "2023-09-21": 1081,
-  "2023-09-22": 1083,
-  "2023-09-23": 1083,
-  "2023-09-24": 1083,
-  "2023-09-25": 1083,
-  "2023-09-26": 1086,
-  "2023-09-27": 1086,
-  "2023-09-28": 1086,
-  "2023-09-29": 1086,
-  "2023-09-30": 1086,
-  "2023-10-01": 1086,
-  "2023-10-02": 1087,
-  "2023-10-03": 1087,
-  "2023-10-04": 1087,
-  "2023-10-05": 1087,
-  "2023-10-06": 1088,
-  "2023-10-07": 1088,
-  "2023-10-08": 1088,
-  "2023-10-09": 1088,
-  "2023-10-10": 1088,
-  "2023-10-11": 1087,
-  "2023-10-12": 1087,
-  "2023-10-13": 1087,
-  "2023-10-14": 1087,
-  "2023-10-15": 1087,
-  "2023-10-16": 1087,
-  "2023-10-17": 1087,
-  "2023-10-18": 1087,
-  "2023-10-19": 1087,
-  "2023-10-20": 1087,
-  "2023-10-21": 1087,
-  "2023-10-22": 1087,
-  "2023-10-23": 1087,
-  "2023-10-24": 1087,
-  "2023-10-25": 1087,
-  "2023-10-26": 1087,
-  "2023-10-27": 1087,
-  "2023-10-28": 1087,
-  "2023-10-29": 1087,
-  "2023-10-30": 1087,
-  "2023-10-31": 1087,
-  "2023-11-01": 1087,
-  "2023-11-02": 1087,
-  "2023-11-03": 1087,
-  "2023-11-04": 1087,
-  "2023-11-05": 1087,
-  "2023-11-06": 1087,
-  "2023-11-07": 1087,
-  "2023-11-08": 1087,
-  "2023-11-09": 1087,
-  "2023-11-10": 1087,
-  "2023-11-11": 1098,
-  "2023-11-12": 1098,
-  "2023-11-13": 1098,
-  "2023-11-14": 1098,
-  "2023-11-15": 1098,
-  "2023-11-16": 1098,
-  "2023-11-17": 1098,
-  "2023-11-18": 1098,
-  "2023-11-19": 1098,
-  "2023-11-20": 1098,
-  "2023-11-21": 1098,
-  "2023-11-22": 1098,
-  "2023-11-23": 1098,
-  "2023-11-24": 1098,
-  "2023-11-25": 1098,
-  "2023-11-26": 1098,
-  "2023-11-27": 1098,
-  "2023-11-28": 1098,
-  "2023-11-29": 1098,
-  "2023-11-30": 1098,
-  "2023-12-01": 1098,
-  "2023-12-02": 1098,
-  "2023-12-03": 1098,
-  "2023-12-04": 1098,
-  "2023-12-05": 1098,
-  "2023-12-06": 1098,
-  "2023-12-07": 1098,
-  "2023-12-08": 1098,
-  "2023-12-09": 1098,
-  "2023-12-10": 1098,
-  "2023-12-11": 1098,
-  "2023-12-12": 1098,
-  "2023-12-13": 1098,
-  "2023-12-14": 1117,
-  "2023-12-15": 1118,
-  "2023-12-16": 1120,
-  "2023-12-17": 1120,
-  "2023-12-18": 1121,
-  "2023-12-19": 1120,
-  "2023-12-20": 1121,
-  "2023-12-21": 1120,
-  "2023-12-22": 1124,
-  "2023-12-23": 1124,
-  "2023-12-24": 1125,
-  "2023-12-25": 1126,
-  "2023-12-26": 1128,
-  "2023-12-27": 1128,
-  "2023-12-30": 1129,
-  "2023-12-31": 1131,
-  "2024-01-01": 1131,
-  "2024-01-02": 1132,
-  "2024-01-03": 1132
+  "2024-01-17": 1138,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
+  "name": "This Is DZ Deathrays",
+  "tracks": [
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 258053,
+      "name": "A Lot To Lose",
+      "url": "https://open.spotify.com/track/6RztnbZ0tlFTeNpghqo29X"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210958,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
+    },
+    {
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 197530,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/2znjtyMFFWu1Zpt4yQ2TCF"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70529,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/6VDywWJSLDBGJfKTx0cP7j"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 211426,
+      "name": "Black Rat",
+      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
+    },
+    {
+      "album": {
+        "name": "Blood On My Leather",
+        "url": "https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153862,
+      "name": "Blood On My Leather",
+      "url": "https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 195200,
+      "name": "Brains",
+      "url": "https://open.spotify.com/track/7x1Uhtkt9UGQrffVwplBT4"
+    },
+    {
+      "album": {
+        "name": "The DZ Deathrays Spotify Margarita Monday Monster Mash Mix",
+        "url": "https://open.spotify.com/album/1Q2YJt77QN5LWZVZaUO2yU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 39148,
+      "name": "Come down - Crooked colours",
+      "url": "https://open.spotify.com/track/7rZB2xn83Wymu6r8en1bby"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Cops / Capacity",
+      "url": "https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 168693,
+      "name": "Cops Capacity",
+      "url": "https://open.spotify.com/track/4Twx8RQYPsnBq1ZK3j11LN"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175680,
+      "name": "Dollar Chills",
+      "url": "https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 176786,
+      "name": "Dollar Chills",
+      "url": "https://open.spotify.com/track/1tF5Tf1WHJJTedZGmcxE5g"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 274440,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/3UL7AvXv3J6EHKa4VJGg0e"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276880,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "Eat You Up",
+      "url": "https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9"
+    },
+    {
+      "album": {
+        "name": "Positive Rising (Pt. 2/ Deluxe)",
+        "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114920,
+      "name": "Fear The Anchor",
+      "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 114920,
+      "name": "Fear The Anchor (feat. Ecca Vandal)",
+      "url": "https://open.spotify.com/track/3EJA61z43vLiRaWhzGJnEC"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 198692,
+      "name": "Feeling Good, Feeling Great",
+      "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
+    },
+    {
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191653,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 191653,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7fsAHho0Ua3DcsNg2piKEj"
+    },
+    {
+      "album": {
+        "name": "Front Row Hustle",
+        "url": "https://open.spotify.com/album/09TdDGWBeDqdEx4TjZkDPk"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Briggs",
+          "url": "https://open.spotify.com/artist/7w4WTXFJlYzm8Zv90ilzfu"
+        },
+        {
+          "name": "Jesswar",
+          "url": "https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl"
+        },
+        {
+          "name": "trials",
+          "url": "https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223499,
+      "name": "Front Row Hustle",
+      "url": "https://open.spotify.com/track/0JNmthvbaoZlUaHfhpBo4V"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 227053,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/2GuykC5STG35b3Z9qUnVQ4"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235080,
+      "name": "Gebbie Street",
+      "url": "https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/70EcL4uWQPwy6tXI5L2004"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 217346,
+      "name": "Gina Works At Hearts",
+      "url": "https://open.spotify.com/track/1pmYyUaRadqP14vF2U4YjC"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Gina Works At Hearts",
+      "url": "https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "Golden Retriever",
+      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 233253,
+      "name": "Grounded or Dead",
+      "url": "https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131101,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 204835,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "Hope for the Best",
+      "url": "https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW"
+    },
+    {
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
+    },
+    {
+      "album": {
+        "name": "IN-TO-IT",
+        "url": "https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 196413,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 59960,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1bHC1H7tuDpfq2h7y2n5uf"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Keep Myself on Edge",
+      "url": "https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC"
+    },
+    {
+      "album": {
+        "name": "King B",
+        "url": "https://open.spotify.com/album/5ZzynEKb0pettc13vWULTE"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "King B",
+      "url": "https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 196813,
+      "name": "LA Lightning",
+      "url": "https://open.spotify.com/track/6bv660I7JXw2FjGVjih77E"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Less Out Of Sync",
+      "url": "https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241756,
+      "name": "Like People",
+      "url": "https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 217186,
+      "name": "Love & Destruction",
+      "url": "https://open.spotify.com/track/2S9kwb2VoCxX8jY5SuLNiX"
+    },
+    {
+      "album": {
+        "name": "Make Yourself Mad",
+        "url": "https://open.spotify.com/album/7gRumG1rTgiTrHuH6S7Fxe"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Make Yourself Mad",
+      "url": "https://open.spotify.com/track/575WHTkmnohs1agEfIoRGS"
+    },
+    {
+      "album": {
+        "name": "MURDER ME (DZ Deathrays Remix)",
+        "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        },
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245009,
+      "name": "MURDER ME - DZ Deathrays Remix",
+      "url": "https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218739,
+      "name": "My Mind is Eating Me Alive",
+      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "album": {
+        "name": "My Mind Is Eating Me Alive (GAUCI Remix)",
+        "url": "https://open.spotify.com/album/6PN1mpBJUn8a8Ytp6Sz1R1"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "GAUCI",
+          "url": "https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 209988,
+      "name": "My Mind Is Eating Me Alive - GAUCI Remix",
+      "url": "https://open.spotify.com/track/4mbIZepv1eFGIAQiuuDP7r"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159826,
+      "name": "Nightmare Wrecker",
+      "url": "https://open.spotify.com/track/5yuaGKyNmZ4km7BaD5vB0I"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 171173,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/33HdvPWpwQHJzOynfS2YNa"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 125640,
+      "name": "No Talk",
+      "url": "https://open.spotify.com/track/4Awbf323AEomDwRCfo9Yjv"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/7rqT91xTSrCx2pzjBvBYZ7"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Ocean Exploder",
+      "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 210405,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0g3IOrs9DNu9OYx8uZxKw7"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI"
+    },
+    {
+      "album": {
+        "name": "Paranoid (NERVE Remix)",
+        "url": "https://open.spotify.com/album/31WrHIA3RqdOrJMV7whBHA"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 237000,
+      "name": "Paranoid - NERVE Remix",
+      "url": "https://open.spotify.com/track/2n9EcqhwgDO5cgGIMMCHHb"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 242973,
+      "name": "Play Dead Until You're Dead",
+      "url": "https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje"
+    },
+    {
+      "album": {
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161461,
+      "name": "Pollyanna",
+      "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
+    },
+    {
+      "album": {
+        "name": "Brutal Tapes",
+        "url": "https://open.spotify.com/album/1I1o9EWBFxbWkY1wO4tTGu"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 105013,
+      "name": "Rad Solar",
+      "url": "https://open.spotify.com/track/6pQb4fJwH1WY21wfiYiSB9"
+    },
+    {
+      "album": {
+        "name": "Black Rat",
+        "url": "https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Reflective Skull",
+      "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66960,
+      "name": "Riff City",
+      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
+    },
+    {
+      "album": {
+        "name": "Rock Star (triple j Like a Version)",
+        "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246716,
+      "name": "Rock Star - triple j Like a Version",
+      "url": "https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 232320,
+      "name": "Run The Red",
+      "url": "https://open.spotify.com/track/4FF3FPm05xCwjGBDp6JVzn"
+    },
+    {
+      "album": {
+        "name": "Run To Paradise",
+        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Run To Paradise",
+      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 161186,
+      "name": "Say It To My Face",
+      "url": "https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239521,
+      "name": "Shred For Summer",
+      "url": "https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 159546,
+      "name": "Skeleton Key",
+      "url": "https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 192346,
+      "name": "Swept Up",
+      "url": "https://open.spotify.com/track/6SCv4UuNG89w6ld4w5x82N"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/4JPYQvTQIjdvkJ4L5CTvgt"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 124480,
+      "name": "Teenage Kickstarts",
+      "url": "https://open.spotify.com/track/377CEyPCIbt9eIcJ5wzgGp"
+    },
+    {
+      "album": {
+        "name": "Bloodstreams",
+        "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 134213,
+      "name": "Teenage Kickstarts",
+      "url": "https://open.spotify.com/track/32nFZO5UrPg0VxQQvbNnUa"
+    },
+    {
+      "album": {
+        "name": "Ruined My Life",
+        "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "The Mess Up",
+      "url": "https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Total Meltdown",
+      "url": "https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5"
+    },
+    {
+      "album": {
+        "name": "Tuff Luck",
+        "url": "https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx"
+    },
+    {
+      "album": {
+        "name": "R.I.F.F",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135373,
+      "name": "Tuff Luck",
+      "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 336456,
+      "name": "Witchcraft Pt. II",
+      "url": "https://open.spotify.com/track/19ZiwAWlBDsgmqLUiCejKL"
+    },
+    {
+      "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Matt Caughthran",
+          "url": "https://open.spotify.com/artist/36eJW9b5iJvlz5p6rk8MgX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Year Of The Dog (feat. Matt Caughthran)",
+      "url": "https://open.spotify.com/track/0sUONUFb9ZgIoDXKVJgTZI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bAity"
 }

@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 7509,
+  "num_followers": 7819,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzgwYjAzNDNhMmQ4OTViYjE1ZDJhY2UyMThkYzFiYTc2NmNiNjQ2",
+  "snapshot_id": "MCxiZGEwMWIzMjAzMTU3MDg2MDljNjU0MjFkYWY1YWRiNjhhZmYwNjdm",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Barbie World",
+        "url": "https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 110928,
+      "name": "Barbie World",
+      "url": "https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9"
+    },
     {
       "added_at": "2023-10-13 13:32:43",
       "album": {

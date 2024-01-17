@@ -1,6 +1,6 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1352,
+  "num_followers": 1345,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Ralph's World",
+        "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
+      },
+      "artists": [
+        {
+          "name": "Ralph's World",
+          "url": "https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Drivin' in My Car",
+      "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Algo Que Decirte",
         "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 67120,
       "name": "Tres Pecesitos",
       "url": "https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Ralph's World",
-        "url": "https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa"
-      },
-      "artists": [
-        {
-          "name": "Ralph's World",
-          "url": "https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Drivin' in My Car",
-      "url": "https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Juguemos a cantar con Barney",
         "url": "https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 113034,
       "name": "Me cepillo los dientes",
       "url": "https://open.spotify.com/track/0zi6orW9DLawYdACuAf7QZ"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Leoncito Alado",
-        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
-      },
-      "artists": [
-        {
-          "name": "Leoncito Alado",
-          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
-        }
-      ],
-      "duration_ms": 83018,
-      "name": "El Ba\u00f1o del Elefantito",
-      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Leoncito Alado",
+        "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
+      },
+      "artists": [
+        {
+          "name": "Leoncito Alado",
+          "url": "https://open.spotify.com/artist/19pX8AEyaqJBjAprZ0Itr5"
+        }
+      ],
+      "duration_ms": 83018,
+      "name": "El Ba\u00f1o del Elefantito",
+      "url": "https://open.spotify.com/track/1poO0BVtZGS6ISJPgL2iKC"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Wash Your Hands with Baby Shark",
         "url": "https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC"
       },
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Fantastic Voyages",
-        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+        "name": "Please Come To My Party",
+        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
       },
       "artists": [
         {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+          "name": "Miss Kitty",
+          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
         }
       ],
-      "duration_ms": 92170,
-      "name": "Brush Brush Brush",
-      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+      "duration_ms": 144666,
+      "name": "The Potty Song",
+      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -443,18 +443,50 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Please Come To My Party",
-        "url": "https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9"
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
       "artists": [
         {
-          "name": "Miss Kitty",
-          "url": "https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx"
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
         }
       ],
-      "duration_ms": 144666,
-      "name": "The Potty Song",
-      "url": "https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW"
+      "duration_ms": 92170,
+      "name": "Brush Brush Brush",
+      "url": "https://open.spotify.com/track/7HzQisHGh5gaizlXEuXtBx"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -479,22 +511,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200920,
       "name": "Getting Dressed Is the Best",
       "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Songs to Brush Your Teeth To",
-        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
-      },
-      "artists": [
-        {
-          "name": "Chompers",
-          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
-        }
-      ],
-      "duration_ms": 109388,
-      "name": "Cover Your Sneeze",
-      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "Songs to Brush Your Teeth To",
+        "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Chompers",
+          "url": "https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 109388,
+      "name": "Cover Your Sneeze",
+      "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Mojo A Go Go - Real Rock For Kids",
-        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Daddy A Go Go",
-          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 193840,
-      "name": "Do The Chores",
-      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -707,18 +691,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Canciones Para Chicos",
-        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Elena Walsh",
-          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Olivia",
+          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
         }
       ],
-      "duration_ms": 110960,
-      "name": "Canci\u00f3n De Tomar El T\u00e9",
-      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+      "duration_ms": 93812,
+      "name": "Snack Time (Juice and Cookies)",
+      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -735,6 +723,38 @@
       "duration_ms": 174511,
       "name": "Cuantos Tacos (The Taco Song)",
       "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Canciones Para Chicos",
+        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Elena Walsh",
+          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+        }
+      ],
+      "duration_ms": 110960,
+      "name": "Canci\u00f3n De Tomar El T\u00e9",
+      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Mojo A Go Go - Real Rock For Kids",
+        "url": "https://open.spotify.com/album/17unav8C6QE4UmvLGxMPVu"
+      },
+      "artists": [
+        {
+          "name": "Daddy A Go Go",
+          "url": "https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Do The Chores",
+      "url": "https://open.spotify.com/track/0cZ4s1F7yUuroClNhCyllT"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -767,26 +787,6 @@
       "duration_ms": 129560,
       "name": "I Always Sit When I Eat",
       "url": "https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Sesame Street: Getting Ready for School",
-        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
-      },
-      "artists": [
-        {
-          "name": "Big Bird",
-          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
-        },
-        {
-          "name": "Sesame Street's Olivia",
-          "url": "https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr"
-        }
-      ],
-      "duration_ms": 93812,
-      "name": "Snack Time (Juice and Cookies)",
-      "url": "https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Papa Goose",
-        "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
+        "name": "Sesame Street: Getting Ready for School",
+        "url": "https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM"
       },
       "artists": [
         {
-          "name": "Nat Hussey",
-          "url": "https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA"
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street's Gordon",
+          "url": "https://open.spotify.com/artist/3gC3iIFCSULaG9w18MsSJe"
         }
       ],
-      "duration_ms": 89306,
-      "name": "Wash The Dishes",
-      "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
+      "duration_ms": 103147,
+      "name": "Exercise Time",
+      "url": "https://open.spotify.com/track/0qquzf6BNSWNIDPqj83c3Q"
     }
   ],
   "unique_name": "Daily Rutina",

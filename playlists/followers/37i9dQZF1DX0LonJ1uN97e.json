@@ -1,735 +1,1035 @@
 {
-  "2021-12-25": 102863,
-  "2021-12-26": 102937,
-  "2021-12-27": 103039,
-  "2021-12-28": 103039,
-  "2021-12-29": 103082,
-  "2021-12-30": 103125,
-  "2021-12-31": 103178,
-  "2022-01-01": 103276,
-  "2022-01-02": 103289,
-  "2022-01-03": 103345,
-  "2022-01-04": 103384,
-  "2022-01-05": 103425,
-  "2022-01-06": 103471,
-  "2022-01-07": 103506,
-  "2022-01-08": 103633,
-  "2022-01-09": 103634,
-  "2022-01-10": 103678,
-  "2022-01-11": 103716,
-  "2022-01-12": 103742,
-  "2022-01-13": 103742,
-  "2022-01-14": 103742,
-  "2022-01-15": 103742,
-  "2022-01-16": 103742,
-  "2022-01-17": 103742,
-  "2022-01-18": 103742,
-  "2022-01-19": 103742,
-  "2022-01-20": 103742,
-  "2022-01-21": 103742,
-  "2022-01-22": 103742,
-  "2022-01-23": 103742,
-  "2022-01-24": 103742,
-  "2022-01-25": 103742,
-  "2022-01-26": 103742,
-  "2022-01-27": 103742,
-  "2022-01-28": 103742,
-  "2022-01-29": 103742,
-  "2022-01-30": 103742,
-  "2022-01-31": 103742,
-  "2022-02-01": 103742,
-  "2022-02-02": 103742,
-  "2022-02-03": 103742,
-  "2022-02-04": 103742,
-  "2022-02-05": 103742,
-  "2022-02-06": 103742,
-  "2022-02-07": 103742,
-  "2022-02-08": 103742,
-  "2022-02-09": 103742,
-  "2022-02-10": 103742,
-  "2022-02-11": 103742,
-  "2022-02-12": 103742,
-  "2022-02-13": 103742,
-  "2022-02-14": 103742,
-  "2022-02-15": 103742,
-  "2022-02-16": 103742,
-  "2022-02-17": 103742,
-  "2022-02-18": 103742,
-  "2022-02-19": 103742,
-  "2022-02-20": 103742,
-  "2022-02-21": 103742,
-  "2022-02-22": 103742,
-  "2022-02-23": 103742,
-  "2022-02-24": 103742,
-  "2022-02-25": 103742,
-  "2022-02-26": 103742,
-  "2022-02-27": 103742,
-  "2022-02-28": 103742,
-  "2022-03-01": 103742,
-  "2022-03-02": 103742,
-  "2022-03-03": 103742,
-  "2022-03-04": 103742,
-  "2022-03-05": 103742,
-  "2022-03-06": 103742,
-  "2022-03-07": 103742,
-  "2022-03-08": 103742,
-  "2022-03-09": 103742,
-  "2022-03-10": 103742,
-  "2022-03-11": 103742,
-  "2022-03-12": 103742,
-  "2022-03-13": 103742,
-  "2022-03-14": 103742,
-  "2022-03-15": 103742,
-  "2022-03-16": 103742,
-  "2022-03-17": 103742,
-  "2022-03-18": 103742,
-  "2022-03-19": 103742,
-  "2022-03-20": 103742,
-  "2022-03-21": 103742,
-  "2022-03-22": 103742,
-  "2022-03-23": 103742,
-  "2022-03-24": 103742,
-  "2022-03-25": 103742,
-  "2022-03-26": 103742,
-  "2022-03-27": 103742,
-  "2022-03-28": 103742,
-  "2022-03-30": 103742,
-  "2022-03-31": 103742,
-  "2022-04-01": 103742,
-  "2022-04-02": 103742,
-  "2022-04-03": 103742,
-  "2022-04-04": 103742,
-  "2022-04-05": 103742,
-  "2022-04-06": 103742,
-  "2022-04-07": 103742,
-  "2022-04-08": 103742,
-  "2022-04-09": 103742,
-  "2022-04-10": 103742,
-  "2022-04-11": 103742,
-  "2022-04-12": 103742,
-  "2022-04-13": 103742,
-  "2022-04-14": 103742,
-  "2022-04-15": 103742,
-  "2022-04-16": 103742,
-  "2022-04-17": 103742,
-  "2022-04-18": 103742,
-  "2022-04-19": 103742,
-  "2022-04-20": 103742,
-  "2022-04-21": 103742,
-  "2022-04-22": 103742,
-  "2022-04-23": 103742,
-  "2022-04-24": 103742,
-  "2022-04-25": 103742,
-  "2022-04-26": 103742,
-  "2022-04-27": 103742,
-  "2022-04-28": 103742,
-  "2022-04-29": 103742,
-  "2022-04-30": 103742,
-  "2022-05-01": 103742,
-  "2022-05-02": 103742,
-  "2022-05-03": 103742,
-  "2022-05-04": 103742,
-  "2022-05-05": 103742,
-  "2022-05-06": 103742,
-  "2022-05-07": 103742,
-  "2022-05-08": 103742,
-  "2022-05-09": 103742,
-  "2022-05-10": 103742,
-  "2022-05-11": 103742,
-  "2022-05-12": 103742,
-  "2022-05-13": 103742,
-  "2022-05-14": 103742,
-  "2022-05-15": 103742,
-  "2022-05-16": 103742,
-  "2022-05-17": 103742,
-  "2022-05-18": 103742,
-  "2022-05-19": 103742,
-  "2022-05-20": 103742,
-  "2022-05-21": 103742,
-  "2022-05-22": 103742,
-  "2022-05-23": 103742,
-  "2022-05-24": 103742,
-  "2022-05-25": 103742,
-  "2022-05-26": 103742,
-  "2022-05-27": 103742,
-  "2022-05-28": 103742,
-  "2022-05-29": 103742,
-  "2022-05-30": 103742,
-  "2022-05-31": 103742,
-  "2022-06-01": 103742,
-  "2022-06-02": 103742,
-  "2022-06-03": 103742,
-  "2022-06-04": 103742,
-  "2022-06-05": 103742,
-  "2022-06-06": 103742,
-  "2022-06-07": 103742,
-  "2022-06-08": 103742,
-  "2022-06-09": 103742,
-  "2022-06-10": 103742,
-  "2022-06-11": 103742,
-  "2022-06-12": 103742,
-  "2022-06-13": 103742,
-  "2022-06-14": 103742,
-  "2022-06-15": 103742,
-  "2022-06-16": 103742,
-  "2022-06-17": 103742,
-  "2022-06-18": 103742,
-  "2022-06-19": 103742,
-  "2022-06-20": 103742,
-  "2022-06-21": 103742,
-  "2022-06-22": 103742,
-  "2022-06-23": 103742,
-  "2022-06-24": 103742,
-  "2022-06-25": 103742,
-  "2022-06-26": 103742,
-  "2022-06-27": 103742,
-  "2022-06-28": 103742,
-  "2022-06-29": 103742,
-  "2022-06-30": 103742,
-  "2022-07-01": 103742,
-  "2022-07-02": 103742,
-  "2022-07-03": 103742,
-  "2022-07-04": 103742,
-  "2022-07-05": 103742,
-  "2022-07-06": 103742,
-  "2022-07-07": 103742,
-  "2022-07-08": 103742,
-  "2022-07-09": 103742,
-  "2022-07-10": 103742,
-  "2022-07-11": 103742,
-  "2022-07-12": 103742,
-  "2022-07-13": 103742,
-  "2022-07-14": 103742,
-  "2022-07-15": 103742,
-  "2022-07-16": 103742,
-  "2022-07-17": 103742,
-  "2022-07-18": 103742,
-  "2022-07-19": 103742,
-  "2022-07-20": 103742,
-  "2022-07-21": 103742,
-  "2022-07-22": 103742,
-  "2022-07-23": 103742,
-  "2022-07-24": 103742,
-  "2022-07-25": 103742,
-  "2022-07-26": 103742,
-  "2022-07-27": 103742,
-  "2022-07-28": 103742,
-  "2022-07-29": 103742,
-  "2022-07-30": 103742,
-  "2022-07-31": 103742,
-  "2022-08-01": 103742,
-  "2022-08-02": 103742,
-  "2022-08-03": 103742,
-  "2022-08-04": 103742,
-  "2022-08-05": 103742,
-  "2022-08-06": 103742,
-  "2022-08-07": 103742,
-  "2022-08-08": 103742,
-  "2022-08-09": 103742,
-  "2022-08-10": 103742,
-  "2022-08-11": 103742,
-  "2022-08-12": 103742,
-  "2022-08-13": 103742,
-  "2022-08-14": 103742,
-  "2022-08-15": 103742,
-  "2022-08-16": 103742,
-  "2022-08-17": 103742,
-  "2022-08-18": 103742,
-  "2022-08-19": 103742,
-  "2022-08-20": 103742,
-  "2022-08-21": 103742,
-  "2022-08-22": 103742,
-  "2022-08-23": 103742,
-  "2022-08-24": 103742,
-  "2022-08-25": 103742,
-  "2022-08-26": 103742,
-  "2022-08-27": 103742,
-  "2022-08-28": 103742,
-  "2022-08-29": 103742,
-  "2022-08-30": 103742,
-  "2022-08-31": 103742,
-  "2022-09-01": 103742,
-  "2022-09-02": 103742,
-  "2022-09-03": 103742,
-  "2022-09-04": 103742,
-  "2022-09-05": 103742,
-  "2022-09-06": 103742,
-  "2022-09-07": 103742,
-  "2022-09-09": 103742,
-  "2022-09-10": 103742,
-  "2022-09-11": 103742,
-  "2022-09-12": 103742,
-  "2022-09-13": 103742,
-  "2022-09-15": 103742,
-  "2022-09-16": 103742,
-  "2022-09-17": 103742,
-  "2022-09-18": 103742,
-  "2022-09-19": 103742,
-  "2022-09-20": 103742,
-  "2022-09-21": 103742,
-  "2022-09-22": 103742,
-  "2022-09-23": 103742,
-  "2022-09-24": 103742,
-  "2022-09-25": 103742,
-  "2022-09-26": 103742,
-  "2022-09-27": 103742,
-  "2022-09-28": 103742,
-  "2022-09-29": 103742,
-  "2022-09-30": 103742,
-  "2022-10-01": 103742,
-  "2022-10-02": 103742,
-  "2022-10-03": 103742,
-  "2022-10-04": 103742,
-  "2022-10-05": 103742,
-  "2022-10-06": 103742,
-  "2022-10-07": 103742,
-  "2022-10-08": 103742,
-  "2022-10-09": 103742,
-  "2022-10-10": 103742,
-  "2022-10-11": 103742,
-  "2022-10-12": 103742,
-  "2022-10-13": 103742,
-  "2022-10-14": 103742,
-  "2022-10-15": 103742,
-  "2022-10-16": 103742,
-  "2022-10-17": 103742,
-  "2022-10-18": 103742,
-  "2022-10-19": 103742,
-  "2022-10-20": 103742,
-  "2022-10-21": 103742,
-  "2022-10-22": 103742,
-  "2022-10-23": 103742,
-  "2022-10-24": 103742,
-  "2022-10-25": 103742,
-  "2022-10-26": 103742,
-  "2022-10-27": 103742,
-  "2022-10-28": 103742,
-  "2022-10-29": 103742,
-  "2022-10-30": 103742,
-  "2022-10-31": 103742,
-  "2022-11-01": 103742,
-  "2022-11-02": 103742,
-  "2022-11-03": 103742,
-  "2022-11-04": 103742,
-  "2022-11-05": 103742,
-  "2022-11-06": 103742,
-  "2022-11-07": 103742,
-  "2022-11-08": 103742,
-  "2022-11-09": 103742,
-  "2022-11-10": 103742,
-  "2022-11-11": 103742,
-  "2022-11-12": 103742,
-  "2022-11-13": 103742,
-  "2022-11-14": 103742,
-  "2022-11-15": 103742,
-  "2022-11-16": 103742,
-  "2022-11-17": 103742,
-  "2022-11-18": 103742,
-  "2022-11-19": 103742,
-  "2022-11-20": 103742,
-  "2022-11-21": 103742,
-  "2022-11-22": 103742,
-  "2022-11-23": 103742,
-  "2022-11-24": 103742,
-  "2022-11-25": 103742,
-  "2022-11-26": 103742,
-  "2022-11-27": 103742,
-  "2022-11-28": 103742,
-  "2022-11-29": 103742,
-  "2022-11-30": 103742,
-  "2022-12-01": 103742,
-  "2022-12-02": 103742,
-  "2022-12-03": 103742,
-  "2022-12-04": 103742,
-  "2022-12-05": 103742,
-  "2022-12-06": 103742,
-  "2022-12-07": 103742,
-  "2022-12-08": 103742,
-  "2022-12-09": 103742,
-  "2022-12-10": 103742,
-  "2022-12-11": 103742,
-  "2022-12-12": 103742,
-  "2022-12-13": 103742,
-  "2022-12-14": 103742,
-  "2022-12-15": 103742,
-  "2022-12-16": 103742,
-  "2022-12-17": 103742,
-  "2022-12-18": 103742,
-  "2022-12-19": 103742,
-  "2022-12-20": 103742,
-  "2022-12-21": 103742,
-  "2022-12-22": 103742,
-  "2022-12-24": 103742,
-  "2022-12-25": 103742,
-  "2022-12-26": 103742,
-  "2022-12-27": 103742,
-  "2022-12-28": 103742,
-  "2022-12-29": 103742,
-  "2022-12-30": 103742,
-  "2022-12-31": 103742,
-  "2023-01-01": 103742,
-  "2023-01-02": 103742,
-  "2023-01-03": 103742,
-  "2023-01-04": 103742,
-  "2023-01-05": 103742,
-  "2023-01-06": 103742,
-  "2023-01-07": 103742,
-  "2023-01-08": 103742,
-  "2023-01-09": 103742,
-  "2023-01-10": 103742,
-  "2023-01-11": 103742,
-  "2023-01-12": 103742,
-  "2023-01-13": 103742,
-  "2023-01-14": 103742,
-  "2023-01-15": 103742,
-  "2023-01-16": 103742,
-  "2023-01-17": 103742,
-  "2023-01-18": 103742,
-  "2023-01-19": 103742,
-  "2023-01-20": 103742,
-  "2023-01-21": 103742,
-  "2023-01-22": 103742,
-  "2023-01-23": 103742,
-  "2023-01-24": 103742,
-  "2023-01-25": 103742,
-  "2023-01-26": 103742,
-  "2023-01-27": 103742,
-  "2023-01-28": 103742,
-  "2023-01-29": 103742,
-  "2023-01-30": 103742,
-  "2023-01-31": 103742,
-  "2023-02-01": 103742,
-  "2023-02-02": 103742,
-  "2023-02-03": 103742,
-  "2023-02-04": 103742,
-  "2023-02-05": 103742,
-  "2023-02-06": 103742,
-  "2023-02-07": 103742,
-  "2023-02-08": 103742,
-  "2023-02-09": 103742,
-  "2023-02-10": 103742,
-  "2023-02-11": 103742,
-  "2023-02-12": 103742,
-  "2023-02-13": 103742,
-  "2023-02-14": 103742,
-  "2023-02-15": 103742,
-  "2023-02-16": 103742,
-  "2023-02-17": 103742,
-  "2023-02-18": 103742,
-  "2023-02-19": 103742,
-  "2023-02-20": 103742,
-  "2023-02-21": 103742,
-  "2023-02-22": 103742,
-  "2023-02-23": 103742,
-  "2023-02-24": 103742,
-  "2023-02-25": 103742,
-  "2023-02-26": 103742,
-  "2023-02-27": 103742,
-  "2023-02-28": 103742,
-  "2023-03-01": 103742,
-  "2023-03-02": 103742,
-  "2023-03-03": 103742,
-  "2023-03-04": 103742,
-  "2023-03-05": 103742,
-  "2023-03-06": 103742,
-  "2023-03-07": 103742,
-  "2023-03-08": 103742,
-  "2023-03-09": 103742,
-  "2023-03-10": 103742,
-  "2023-03-11": 103742,
-  "2023-03-12": 103742,
-  "2023-03-13": 103742,
-  "2023-03-14": 103742,
-  "2023-03-15": 103742,
-  "2023-03-16": 103742,
-  "2023-03-17": 103742,
-  "2023-03-18": 103742,
-  "2023-03-19": 103742,
-  "2023-03-20": 103742,
-  "2023-03-21": 103742,
-  "2023-03-22": 103742,
-  "2023-03-23": 103742,
-  "2023-03-24": 103742,
-  "2023-03-25": 103742,
-  "2023-03-26": 103742,
-  "2023-03-27": 103742,
-  "2023-03-28": 103742,
-  "2023-03-29": 103742,
-  "2023-03-30": 103742,
-  "2023-03-31": 103742,
-  "2023-04-01": 103742,
-  "2023-04-02": 103742,
-  "2023-04-03": 103742,
-  "2023-04-04": 103742,
-  "2023-04-05": 103742,
-  "2023-04-06": 103742,
-  "2023-04-07": 103742,
-  "2023-04-09": 103742,
-  "2023-04-10": 103742,
-  "2023-04-11": 103742,
-  "2023-04-12": 103742,
-  "2023-04-13": 103742,
-  "2023-04-14": 103742,
-  "2023-04-15": 103742,
-  "2023-04-16": 103742,
-  "2023-04-17": 103742,
-  "2023-04-18": 103742,
-  "2023-04-19": 103742,
-  "2023-04-20": 103742,
-  "2023-04-21": 103742,
-  "2023-04-22": 103742,
-  "2023-04-23": 103742,
-  "2023-04-24": 103742,
-  "2023-04-25": 103742,
-  "2023-04-26": 103742,
-  "2023-04-27": 103742,
-  "2023-04-28": 103742,
-  "2023-04-29": 103742,
-  "2023-04-30": 103742,
-  "2023-05-01": 103742,
-  "2023-05-02": 103742,
-  "2023-05-03": 103742,
-  "2023-05-04": 103742,
-  "2023-05-05": 103742,
-  "2023-05-06": 103742,
-  "2023-05-07": 103742,
-  "2023-05-08": 103742,
-  "2023-05-09": 103742,
-  "2023-05-10": 103742,
-  "2023-05-11": 103742,
-  "2023-05-12": 103742,
-  "2023-05-13": 103742,
-  "2023-05-14": 103742,
-  "2023-05-15": 103742,
-  "2023-05-16": 103742,
-  "2023-05-17": 103742,
-  "2023-05-18": 103742,
-  "2023-05-19": 103742,
-  "2023-05-20": 103742,
-  "2023-05-21": 103742,
-  "2023-05-22": 103742,
-  "2023-05-23": 103742,
-  "2023-05-24": 103742,
-  "2023-05-25": 103742,
-  "2023-05-26": 103742,
-  "2023-05-27": 103742,
-  "2023-05-28": 103742,
-  "2023-05-29": 103742,
-  "2023-05-30": 103742,
-  "2023-05-31": 103742,
-  "2023-06-01": 103742,
-  "2023-06-02": 103742,
-  "2023-06-03": 103742,
-  "2023-06-04": 103742,
-  "2023-06-05": 103742,
-  "2023-06-06": 103742,
-  "2023-06-07": 103742,
-  "2023-06-08": 103742,
-  "2023-06-09": 103742,
-  "2023-06-10": 103742,
-  "2023-06-11": 103742,
-  "2023-06-12": 103742,
-  "2023-06-13": 103742,
-  "2023-06-14": 103742,
-  "2023-06-15": 103742,
-  "2023-06-16": 103742,
-  "2023-06-17": 103742,
-  "2023-06-18": 103742,
-  "2023-06-19": 103742,
-  "2023-06-20": 103742,
-  "2023-06-21": 103742,
-  "2023-06-22": 103742,
-  "2023-06-23": 103742,
-  "2023-06-24": 103742,
-  "2023-06-25": 103742,
-  "2023-06-26": 103742,
-  "2023-06-27": 103742,
-  "2023-06-28": 103742,
-  "2023-06-29": 103742,
-  "2023-06-30": 103742,
-  "2023-07-01": 103742,
-  "2023-07-02": 103742,
-  "2023-07-03": 103742,
-  "2023-07-04": 103742,
-  "2023-07-05": 103742,
-  "2023-07-06": 103742,
-  "2023-07-07": 103742,
-  "2023-07-08": 103742,
-  "2023-07-09": 103742,
-  "2023-07-10": 103742,
-  "2023-07-11": 103742,
-  "2023-07-12": 103742,
-  "2023-07-13": 103742,
-  "2023-07-14": 103742,
-  "2023-07-15": 103742,
-  "2023-07-16": 103742,
-  "2023-07-17": 103742,
-  "2023-07-18": 103742,
-  "2023-07-19": 103742,
-  "2023-07-20": 103742,
-  "2023-07-21": 103742,
-  "2023-07-22": 103742,
-  "2023-07-23": 103742,
-  "2023-07-24": 103742,
-  "2023-07-25": 103742,
-  "2023-07-26": 103742,
-  "2023-07-27": 103742,
-  "2023-07-28": 103742,
-  "2023-07-29": 103742,
-  "2023-07-30": 103742,
-  "2023-07-31": 103742,
-  "2023-08-01": 103742,
-  "2023-08-02": 103742,
-  "2023-08-03": 103742,
-  "2023-08-04": 103742,
-  "2023-08-05": 103742,
-  "2023-08-06": 103742,
-  "2023-08-07": 103742,
-  "2023-08-08": 103742,
-  "2023-08-09": 103742,
-  "2023-08-10": 103742,
-  "2023-08-11": 103742,
-  "2023-08-12": 103742,
-  "2023-08-13": 103742,
-  "2023-08-14": 103742,
-  "2023-08-15": 103742,
-  "2023-08-16": 103742,
-  "2023-08-17": 103742,
-  "2023-08-18": 103742,
-  "2023-08-19": 103742,
-  "2023-08-20": 103742,
-  "2023-08-21": 103742,
-  "2023-08-22": 103742,
-  "2023-08-23": 103742,
-  "2023-08-24": 103742,
-  "2023-08-25": 103742,
-  "2023-08-26": 103742,
-  "2023-08-27": 103742,
-  "2023-08-28": 103742,
-  "2023-08-29": 103742,
-  "2023-08-30": 103742,
-  "2023-08-31": 103742,
-  "2023-09-01": 103742,
-  "2023-09-02": 103742,
-  "2023-09-03": 103742,
-  "2023-09-04": 103742,
-  "2023-09-05": 103742,
-  "2023-09-06": 103742,
-  "2023-09-07": 103742,
-  "2023-09-08": 103742,
-  "2023-09-09": 103742,
-  "2023-09-10": 103742,
-  "2023-09-11": 103742,
-  "2023-09-12": 103742,
-  "2023-09-13": 103742,
-  "2023-09-14": 103742,
-  "2023-09-15": 103742,
-  "2023-09-16": 103742,
-  "2023-09-17": 103742,
-  "2023-09-18": 103742,
-  "2023-09-19": 103742,
-  "2023-09-20": 103742,
-  "2023-09-21": 103742,
-  "2023-09-22": 103742,
-  "2023-09-23": 103742,
-  "2023-09-24": 103742,
-  "2023-09-25": 103742,
-  "2023-09-26": 103742,
-  "2023-09-27": 103742,
-  "2023-09-28": 103742,
-  "2023-09-29": 103742,
-  "2023-09-30": 103742,
-  "2023-10-01": 103742,
-  "2023-10-02": 103742,
-  "2023-10-03": 103742,
-  "2023-10-04": 103742,
-  "2023-10-05": 103742,
-  "2023-10-06": 103742,
-  "2023-10-07": 103742,
-  "2023-10-08": 103742,
-  "2023-10-09": 103742,
-  "2023-10-10": 103742,
-  "2023-10-11": 103742,
-  "2023-10-12": 103742,
-  "2023-10-13": 103742,
-  "2023-10-14": 103742,
-  "2023-10-15": 103742,
-  "2023-10-16": 103742,
-  "2023-10-17": 103742,
-  "2023-10-18": 103742,
-  "2023-10-19": 103742,
-  "2023-10-20": 103742,
-  "2023-10-21": 103742,
-  "2023-10-22": 103742,
-  "2023-10-23": 103742,
-  "2023-10-24": 103742,
-  "2023-10-25": 103742,
-  "2023-10-26": 103742,
-  "2023-10-27": 103742,
-  "2023-10-28": 103742,
-  "2023-10-29": 103742,
-  "2023-10-30": 103742,
-  "2023-10-31": 103742,
-  "2023-11-01": 103742,
-  "2023-11-02": 103742,
-  "2023-11-03": 103742,
-  "2023-11-04": 103742,
-  "2023-11-05": 103742,
-  "2023-11-06": 103742,
-  "2023-11-07": 103742,
-  "2023-11-08": 103742,
-  "2023-11-09": 103742,
-  "2023-11-10": 103742,
-  "2023-11-11": 103742,
-  "2023-11-12": 103742,
-  "2023-11-13": 103742,
-  "2023-11-14": 103742,
-  "2023-11-15": 103742,
-  "2023-11-16": 103742,
-  "2023-11-17": 103742,
-  "2023-11-18": 103742,
-  "2023-11-19": 103742,
-  "2023-11-20": 103742,
-  "2023-11-21": 103742,
-  "2023-11-22": 103742,
-  "2023-11-23": 103742,
-  "2023-11-24": 103742,
-  "2023-11-25": 103742,
-  "2023-11-26": 103742,
-  "2023-11-27": 103742,
-  "2023-11-28": 103742,
-  "2023-11-29": 103742,
-  "2023-11-30": 103742,
-  "2023-12-01": 103742,
-  "2023-12-02": 103742,
-  "2023-12-03": 103742,
-  "2023-12-04": 103742,
-  "2023-12-05": 103742,
-  "2023-12-06": 103742,
-  "2023-12-07": 103742,
-  "2023-12-08": 103742,
-  "2023-12-09": 103742,
-  "2023-12-10": 103742,
-  "2023-12-11": 103742,
-  "2023-12-12": 103742,
-  "2023-12-13": 103742,
-  "2023-12-14": 103742,
-  "2023-12-15": 103742,
-  "2023-12-16": 103742,
-  "2023-12-17": 103742,
-  "2023-12-18": 103742,
-  "2023-12-19": 103742,
-  "2023-12-20": 103742,
-  "2023-12-21": 103742,
-  "2023-12-22": 103742,
-  "2023-12-23": 103742,
-  "2023-12-24": 103742,
-  "2023-12-25": 103742,
-  "2023-12-26": 103742,
-  "2023-12-27": 103742,
-  "2023-12-30": 103742,
-  "2023-12-31": 103742,
-  "2024-01-01": 103742,
-  "2024-01-02": 103742,
-  "2024-01-03": 103742
+  "2024-01-17": 103742,
+  "date_first_scraped": "2021-12-21",
+  "description": "Chuck Berry, the essential tracks, all in one playlist.",
+  "name": "This Is Chuck Berry (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227292,
+      "name": "3/4 Time (Enchiladas)",
+      "url": "https://open.spotify.com/track/66c7hgyw8CuyQXrqZuWit2"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "Almost Grown",
+      "url": "https://open.spotify.com/track/05k0JUkZjGB7VRaOb0gqFr"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0zIezirCdDHKPkxbkAZSA2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "Around And Around - Single Version",
+      "url": "https://open.spotify.com/track/7uD64V2TdYFr9iRR07ddPW"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/5EGQbWizRpBTNZOffKE1YR"
+    },
+    {
+      "album": {
+        "name": "Big Boys",
+        "url": "https://open.spotify.com/album/3uQldXx6zh6T0DV6ztOW0J"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/44ljyjfLTjjS3XuzoFh3Z5"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6797FWDUgY9RgtlcKbaNLd"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264066,
+      "name": "Bio",
+      "url": "https://open.spotify.com/track/2J4yxbvsKbzSxOW4jMHRh6"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/2v7zCFsnfuxykZoRkH5zmN"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2iBM7XvFItUTs69cjYXW9c"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/0EZA9HYcmCaew0WdPIepn7"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny - Single Version",
+      "url": "https://open.spotify.com/track/0jZ3qybHF3vgDncHiaUsDA"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167573,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/38ine5ElPWJfe4ndHdt8XN"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Childhood Sweetheart",
+      "url": "https://open.spotify.com/track/30g15ElNASP3QH5JBmBZqk"
+    },
+    {
+      "album": {
+        "name": "The Great Twenty-Eight",
+        "url": "https://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108200,
+      "name": "Come On - Single Version (Mono)",
+      "url": "https://open.spotify.com/track/2bSSHA7slbAnM9E9VPoafS"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4yGYG9Md4QOkr8mIGGEbWn"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138762,
+      "name": "Deep Feeling",
+      "url": "https://open.spotify.com/track/5prdcGHWUAPxipEShWCt9B"
+    },
+    {
+      "album": {
+        "name": "Soul Train",
+        "url": "https://open.spotify.com/album/2xX9SOtRB9on6YHNsZOjSL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/16FisHkup3L75wW1CvFzec"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227606,
+      "name": "Dutchman",
+      "url": "https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147177,
+      "name": "Eyes Of Man",
+      "url": "https://open.spotify.com/track/5Ct3NYsxo6hZm67Vy0kqQl"
+    },
+    {
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/5NkVd9xseDSILmtIhMUnAo"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/5qTz8Gadfbi2PDqbhjPtpM"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/0mnvXXNuLQb8XPe7WbGC40"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Have Mercy Judge",
+      "url": "https://open.spotify.com/track/4Xp6n3ViMb0Zq24KGrVvcA"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146760,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/7gwiE2IHDhH3FQqWcZBi34"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "I Do Really Love You",
+      "url": "https://open.spotify.com/track/2RecPTEaIKJLvhdGtAEejZ"
+    },
+    {
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134773,
+      "name": "I Got To Find My Baby",
+      "url": "https://open.spotify.com/track/3GfAfNtnDLcsjQUTJlcoou"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/0mnvXXNuLQb8XPe7WbGC40"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/561Y8on8rdXUpx0HVxQgFJ"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230214,
+      "name": "Jamaica Moon",
+      "url": "https://open.spotify.com/track/4omDeJHx4Lh8mJ91dxcERz"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6797FWDUgY9RgtlcKbaNLd"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Jo Jo Gunne - Single Version",
+      "url": "https://open.spotify.com/track/290JnLgjJYpg1IAqvPGBLY"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/4GHF75LwRT2Hsv9z3ZXpM8"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Lady B. Goode",
+      "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
+    },
+    {
+      "album": {
+        "name": "Happy Days",
+        "url": "https://open.spotify.com/album/07mdxE1ESLNEGZZVZaRE6S"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "Let It Rock - Single Version",
+      "url": "https://open.spotify.com/track/5Bbo2hV3SNH2eMA7NEnnYa"
+    },
+    {
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154613,
+      "name": "Little Marie",
+      "url": "https://open.spotify.com/track/06BfsUsNDjgPZCvOatfAXO"
+    },
+    {
+      "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/5bPEg1h4gWev1ELAJ0SgAb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/5Hpwji60N7OQrAse19gdeV"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/2v7zCFsnfuxykZoRkH5zmN"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Maybellene - Single Version",
+      "url": "https://open.spotify.com/track/6cYSSiMroBAZj6dFxSlwVY"
+    },
+    {
+      "album": {
+        "name": "The Great Twenty-Eight",
+        "url": "https://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Memphis, Tennessee - Single Version",
+      "url": "https://open.spotify.com/track/0F3RFAD3gmx5Wpj1WIYj1e"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/0mnvXXNuLQb8XPe7WbGC40"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling - Live",
+      "url": "https://open.spotify.com/track/5rJvilorz6UVTvjEHoPZV4"
+    },
+    {
+      "album": {
+        "name": "The Great Twenty-Eight",
+        "url": "https://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Nadine - Single Version",
+      "url": "https://open.spotify.com/track/1A3YfBV8LBBKgu6QwnWcUB"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Night Beat - Previously Unreleased",
+      "url": "https://open.spotify.com/track/6JyHGHCEIaMYn2kKiY9YZT"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7EAya7Hj01YTP9mxLK12SY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "No Money Down - Single Version",
+      "url": "https://open.spotify.com/track/5krmslCy7BtTKGj7nOonBC"
+    },
+    {
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/0mTtWQ6A4zKzlDfUvXDmwe"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/0mnvXXNuLQb8XPe7WbGC40"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "Oh Louisiana",
+      "url": "https://open.spotify.com/track/7mLDS58f3LlGBaST0uVSge"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0zIezirCdDHKPkxbkAZSA2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143373,
+      "name": "Promised Land - Single Version",
+      "url": "https://open.spotify.com/track/4FrXyorWVvMe2j7ON2HMw6"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/7gwiE2IHDhH3FQqWcZBi34"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "Ramblin' Rose",
+      "url": "https://open.spotify.com/track/3HzenmYa0tPpxcHZnNtWuC"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "Reelin' And Rockin'",
+      "url": "https://open.spotify.com/track/6inKbOVUyJxnA9laEG5k82"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158933,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/6tpjQpGdl8jM34o9ey61xP"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7gJRNa3xHyTB9HKwo2SFPz"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/1zQrrkkPL23VZJTiG57hfa"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode/His Complete `50s Chess Recordings",
+        "url": "https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163760,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2YRAHBcCATVlCgVQg8Mitd"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/2v7zCFsnfuxykZoRkH5zmN"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "School Day (Ring Ring Goes The Bell)",
+      "url": "https://open.spotify.com/track/3hNcrk8Ypht0x5CuT7pJnS"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180926,
+      "name": "She Still Loves You",
+      "url": "https://open.spotify.com/track/4ab2Xz6vsOVt9ZI1s3B1Gm"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/4YEazjzvlcISh0lLTHnSIy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158560,
+      "name": "Swanee River",
+      "url": "https://open.spotify.com/track/0u7jB7FDK3Byrl59jdslHY"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4ppwgsqRj1oT8sN9tsfVHk"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141400,
+      "name": "Sweet Little Rock 'N' Roller - Single Version",
+      "url": "https://open.spotify.com/track/2xhqH3KUOTeU4siaNQnerm"
+    },
+    {
+      "album": {
+        "name": "Rock and Roll Music",
+        "url": "https://open.spotify.com/album/7xz7W4YesM8zIwiQkDt93n"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Sweet Little Sixteen",
+      "url": "https://open.spotify.com/track/1MXXvEOpYKbF25J2YiWPXD"
+    },
+    {
+      "album": {
+        "name": "The Great Twenty-Eight",
+        "url": "https://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Thirty Days (To Come Back Home) - Single Version",
+      "url": "https://open.spotify.com/track/4mOF1z5HEmaFyaWkyYKxC6"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/2v7zCFsnfuxykZoRkH5zmN"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Too Much Monkey Business",
+      "url": "https://open.spotify.com/track/0GUtRIpAtAocBMPMnZx15M"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/0mnvXXNuLQb8XPe7WbGC40"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/1RLuW6WTizsdDg3aMJyqqS"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6797FWDUgY9RgtlcKbaNLd"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/3oLszVCfaFIfUrfGV1CyNu"
+    },
+    {
+      "album": {
+        "name": "Wonderful Woman",
+        "url": "https://open.spotify.com/album/3ybOkYFPByDRpMNTgXnRLK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319798,
+      "name": "Wonderful Woman",
+      "url": "https://open.spotify.com/track/5C7cYOlblj9G0YQhKMG47n"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6797FWDUgY9RgtlcKbaNLd"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "You Can't Catch Me - Single Version",
+      "url": "https://open.spotify.com/track/4yj3XyAu7rsAvbTvARVnzj"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201125,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/3ZQYM8r861tLmDBpkVKvCN"
+    },
+    {
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0LonJ1uN97e"
 }

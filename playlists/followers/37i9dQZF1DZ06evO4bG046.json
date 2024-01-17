@@ -1,472 +1,1281 @@
 {
-  "2022-09-17": 24570,
-  "2022-09-18": 24611,
-  "2022-09-19": 24678,
-  "2022-09-20": 24709,
-  "2022-09-21": 24724,
-  "2022-09-22": 24737,
-  "2022-09-23": 24754,
-  "2022-09-24": 24754,
-  "2022-09-25": 24785,
-  "2022-09-26": 24803,
-  "2022-09-27": 24808,
-  "2022-09-28": 24821,
-  "2022-09-29": 24828,
-  "2022-09-30": 24843,
-  "2022-10-01": 24854,
-  "2022-10-02": 24866,
-  "2022-10-03": 24881,
-  "2022-10-04": 24881,
-  "2022-10-05": 24893,
-  "2022-10-06": 24906,
-  "2022-10-07": 24920,
-  "2022-10-08": 24928,
-  "2022-10-09": 24951,
-  "2022-10-10": 24962,
-  "2022-10-11": 24975,
-  "2022-10-12": 24984,
-  "2022-10-13": 24993,
-  "2022-10-14": 24998,
-  "2022-10-15": 25003,
-  "2022-10-16": 25012,
-  "2022-10-17": 25023,
-  "2022-10-18": 25031,
-  "2022-10-19": 25039,
-  "2022-10-20": 25044,
-  "2022-10-21": 25060,
-  "2022-10-22": 25071,
-  "2022-10-23": 25078,
-  "2022-10-24": 25087,
-  "2022-10-25": 25092,
-  "2022-10-26": 25101,
-  "2022-10-27": 25114,
-  "2022-10-28": 25120,
-  "2022-10-29": 25138,
-  "2022-10-30": 25152,
-  "2022-10-31": 25165,
-  "2022-11-01": 25183,
-  "2022-11-02": 25194,
-  "2022-11-03": 25197,
-  "2022-11-04": 25211,
-  "2022-11-05": 25224,
-  "2022-11-06": 25234,
-  "2022-11-07": 25243,
-  "2022-11-08": 25243,
-  "2022-11-09": 25254,
-  "2022-11-10": 25259,
-  "2022-11-11": 25268,
-  "2022-11-12": 25285,
-  "2022-11-13": 25297,
-  "2022-11-14": 25302,
-  "2022-11-15": 25318,
-  "2022-11-16": 25321,
-  "2022-11-17": 25329,
-  "2022-11-18": 25323,
-  "2022-11-19": 25323,
-  "2022-11-20": 25327,
-  "2022-11-21": 25336,
-  "2022-11-22": 25348,
-  "2022-11-23": 25358,
-  "2022-11-24": 25367,
-  "2022-11-25": 25381,
-  "2022-11-26": 25398,
-  "2022-11-27": 25409,
-  "2022-11-28": 25426,
-  "2022-11-29": 25435,
-  "2022-11-30": 25440,
-  "2022-12-01": 25449,
-  "2022-12-02": 25456,
-  "2022-12-03": 25467,
-  "2022-12-04": 25475,
-  "2022-12-05": 25487,
-  "2022-12-06": 25486,
-  "2022-12-07": 25491,
-  "2022-12-08": 25496,
-  "2022-12-09": 25505,
-  "2022-12-10": 25512,
-  "2022-12-11": 25520,
-  "2022-12-12": 25532,
-  "2022-12-13": 25540,
-  "2022-12-14": 25549,
-  "2022-12-15": 25554,
-  "2022-12-16": 25565,
-  "2022-12-17": 25573,
-  "2022-12-18": 25584,
-  "2022-12-19": 25596,
-  "2022-12-20": 25620,
-  "2022-12-21": 25620,
-  "2022-12-22": 25635,
-  "2022-12-24": 25654,
-  "2022-12-25": 25665,
-  "2022-12-26": 25683,
-  "2022-12-27": 25689,
-  "2022-12-28": 25699,
-  "2022-12-29": 25712,
-  "2022-12-30": 25723,
-  "2022-12-31": 25735,
-  "2023-01-01": 25747,
-  "2023-01-02": 25762,
-  "2023-01-03": 25777,
-  "2023-01-04": 25781,
-  "2023-01-05": 25791,
-  "2023-01-06": 25806,
-  "2023-01-07": 25833,
-  "2023-01-08": 25835,
-  "2023-01-09": 25845,
-  "2023-01-10": 25849,
-  "2023-01-11": 25859,
-  "2023-01-12": 25873,
-  "2023-01-13": 25888,
-  "2023-01-14": 25909,
-  "2023-01-15": 25908,
-  "2023-01-16": 25932,
-  "2023-01-17": 25947,
-  "2023-01-18": 25971,
-  "2023-01-19": 25993,
-  "2023-01-20": 26017,
-  "2023-01-21": 26036,
-  "2023-01-22": 26063,
-  "2023-01-23": 26085,
-  "2023-01-24": 26102,
-  "2023-01-25": 26123,
-  "2023-01-26": 26144,
-  "2023-01-27": 26163,
-  "2023-01-28": 26184,
-  "2023-01-29": 26206,
-  "2023-01-30": 26219,
-  "2023-01-31": 26219,
-  "2023-02-01": 26243,
-  "2023-02-02": 26257,
-  "2023-02-03": 26267,
-  "2023-02-04": 26283,
-  "2023-02-05": 26298,
-  "2023-02-06": 26317,
-  "2023-02-07": 26335,
-  "2023-02-08": 26365,
-  "2023-02-09": 26365,
-  "2023-02-10": 26380,
-  "2023-02-11": 26402,
-  "2023-02-12": 26450,
-  "2023-02-13": 26462,
-  "2023-02-14": 26462,
-  "2023-02-15": 26477,
-  "2023-02-16": 26499,
-  "2023-02-17": 26518,
-  "2023-02-18": 26555,
-  "2023-02-19": 26555,
-  "2023-02-20": 26569,
-  "2023-02-21": 26585,
-  "2023-02-22": 26631,
-  "2023-02-23": 26999,
-  "2023-02-24": 27133,
-  "2023-02-25": 27245,
-  "2023-02-26": 27332,
-  "2023-02-27": 27456,
-  "2023-02-28": 27456,
-  "2023-03-01": 27503,
-  "2023-03-02": 27537,
-  "2023-03-03": 27580,
-  "2023-03-04": 27616,
-  "2023-03-05": 27697,
-  "2023-03-06": 27697,
-  "2023-03-07": 27735,
-  "2023-03-08": 27753,
-  "2023-03-09": 27782,
-  "2023-03-10": 27811,
-  "2023-03-11": 27832,
-  "2023-03-12": 27857,
-  "2023-03-13": 27883,
-  "2023-03-14": 27896,
-  "2023-03-15": 27906,
-  "2023-03-16": 27906,
-  "2023-03-17": 27906,
-  "2023-03-18": 27971,
-  "2023-03-19": 27971,
-  "2023-03-20": 28018,
-  "2023-03-21": 28029,
-  "2023-03-22": 28050,
-  "2023-03-23": 28063,
-  "2023-03-24": 28063,
-  "2023-03-25": 28088,
-  "2023-03-26": 28111,
-  "2023-03-27": 28133,
-  "2023-03-28": 28143,
-  "2023-03-29": 28156,
-  "2023-03-30": 28192,
-  "2023-03-31": 28192,
-  "2023-04-01": 28196,
-  "2023-04-02": 28214,
-  "2023-04-03": 28228,
-  "2023-04-04": 28237,
-  "2023-04-05": 28242,
-  "2023-04-06": 28253,
-  "2023-04-07": 28264,
-  "2023-04-09": 28299,
-  "2023-04-10": 28319,
-  "2023-04-11": 28327,
-  "2023-04-12": 28327,
-  "2023-04-13": 28337,
-  "2023-04-14": 28353,
-  "2023-04-15": 28368,
-  "2023-04-16": 28383,
-  "2023-04-17": 28400,
-  "2023-04-18": 28406,
-  "2023-04-19": 28423,
-  "2023-04-20": 28432,
-  "2023-04-21": 28442,
-  "2023-04-22": 28447,
-  "2023-04-23": 28462,
-  "2023-04-24": 28479,
-  "2023-04-25": 28491,
-  "2023-04-26": 28504,
-  "2023-04-27": 28519,
-  "2023-04-28": 28529,
-  "2023-04-29": 28549,
-  "2023-04-30": 28559,
-  "2023-05-01": 28580,
-  "2023-05-02": 28588,
-  "2023-05-03": 28596,
-  "2023-05-04": 28606,
-  "2023-05-05": 28619,
-  "2023-05-06": 28634,
-  "2023-05-07": 28648,
-  "2023-05-08": 28659,
-  "2023-05-09": 28673,
-  "2023-05-10": 28680,
-  "2023-05-11": 28697,
-  "2023-05-12": 28709,
-  "2023-05-13": 28723,
-  "2023-05-14": 28733,
-  "2023-05-15": 28745,
-  "2023-05-16": 28756,
-  "2023-05-17": 28761,
-  "2023-05-18": 28775,
-  "2023-05-19": 28789,
-  "2023-05-20": 28808,
-  "2023-05-21": 28808,
-  "2023-05-22": 28808,
-  "2023-05-23": 28827,
-  "2023-05-24": 28845,
-  "2023-05-25": 28845,
-  "2023-05-26": 28851,
-  "2023-05-27": 28857,
-  "2023-05-28": 28868,
-  "2023-05-29": 28868,
-  "2023-05-30": 28890,
-  "2023-05-31": 28902,
-  "2023-06-01": 28909,
-  "2023-06-02": 28923,
-  "2023-06-03": 28937,
-  "2023-06-04": 28953,
-  "2023-06-05": 28960,
-  "2023-06-06": 28968,
-  "2023-06-07": 28983,
-  "2023-06-08": 28988,
-  "2023-06-09": 29001,
-  "2023-06-10": 29010,
-  "2023-06-11": 29023,
-  "2023-06-12": 29032,
-  "2023-06-13": 29037,
-  "2023-06-14": 29050,
-  "2023-06-15": 29063,
-  "2023-06-16": 29072,
-  "2023-06-17": 29094,
-  "2023-06-18": 29103,
-  "2023-06-19": 29117,
-  "2023-06-20": 29134,
-  "2023-06-21": 29147,
-  "2023-06-22": 29159,
-  "2023-06-23": 29170,
-  "2023-06-24": 29184,
-  "2023-06-25": 29198,
-  "2023-06-26": 29212,
-  "2023-06-27": 29222,
-  "2023-06-28": 29228,
-  "2023-06-29": 29229,
-  "2023-06-30": 29241,
-  "2023-07-01": 29268,
-  "2023-07-02": 29268,
-  "2023-07-03": 29285,
-  "2023-07-04": 29299,
-  "2023-07-05": 29310,
-  "2023-07-06": 29334,
-  "2023-07-07": 29334,
-  "2023-07-08": 29334,
-  "2023-07-09": 29364,
-  "2023-07-10": 29396,
-  "2023-07-11": 29405,
-  "2023-07-12": 29417,
-  "2023-07-13": 29435,
-  "2023-07-14": 29452,
-  "2023-07-15": 29457,
-  "2023-07-16": 29473,
-  "2023-07-17": 29485,
-  "2023-07-18": 29500,
-  "2023-07-19": 29508,
-  "2023-07-20": 29508,
-  "2023-07-21": 29529,
-  "2023-07-22": 29545,
-  "2023-07-23": 29557,
-  "2023-07-24": 29574,
-  "2023-07-25": 29580,
-  "2023-07-26": 29589,
-  "2023-07-27": 29598,
-  "2023-07-28": 29598,
-  "2023-07-29": 29636,
-  "2023-07-30": 29636,
-  "2023-07-31": 29660,
-  "2023-08-01": 29675,
-  "2023-08-02": 29693,
-  "2023-08-03": 29703,
-  "2023-08-04": 29721,
-  "2023-08-05": 29734,
-  "2023-08-06": 29763,
-  "2023-08-07": 29763,
-  "2023-08-08": 29768,
-  "2023-08-09": 29787,
-  "2023-08-10": 29804,
-  "2023-08-11": 29818,
-  "2023-08-12": 29818,
-  "2023-08-13": 29818,
-  "2023-08-14": 29818,
-  "2023-08-15": 29818,
-  "2023-08-16": 29818,
-  "2023-08-17": 29818,
-  "2023-08-18": 29818,
-  "2023-08-19": 29818,
-  "2023-08-20": 30031,
-  "2023-08-21": 30031,
-  "2023-08-22": 30072,
-  "2023-08-23": 30072,
-  "2023-08-24": 30072,
-  "2023-08-25": 30072,
-  "2023-08-26": 30128,
-  "2023-08-27": 30128,
-  "2023-08-28": 30160,
-  "2023-08-29": 30160,
-  "2023-08-30": 30160,
-  "2023-08-31": 30199,
-  "2023-09-01": 30207,
-  "2023-09-02": 30207,
-  "2023-09-03": 30207,
-  "2023-09-04": 30207,
-  "2023-09-05": 30207,
-  "2023-09-06": 30207,
-  "2023-09-07": 30207,
-  "2023-09-08": 30207,
-  "2023-09-09": 30207,
-  "2023-09-10": 30207,
-  "2023-09-11": 30207,
-  "2023-09-12": 30207,
-  "2023-09-13": 30207,
-  "2023-09-14": 30207,
-  "2023-09-15": 30207,
-  "2023-09-16": 30207,
-  "2023-09-17": 30207,
-  "2023-09-18": 30207,
-  "2023-09-19": 30207,
-  "2023-09-20": 30207,
-  "2023-09-21": 30207,
-  "2023-09-22": 30753,
-  "2023-09-23": 30753,
-  "2023-09-24": 30753,
-  "2023-09-25": 30753,
-  "2023-09-26": 30833,
-  "2023-09-27": 30833,
-  "2023-09-28": 30833,
-  "2023-09-29": 30833,
-  "2023-09-30": 30833,
-  "2023-10-01": 30833,
-  "2023-10-02": 30833,
-  "2023-10-03": 30833,
-  "2023-10-04": 30833,
-  "2023-10-05": 30833,
-  "2023-10-06": 30833,
-  "2023-10-07": 30833,
-  "2023-10-08": 30833,
-  "2023-10-09": 30833,
-  "2023-10-10": 30833,
-  "2023-10-11": 30833,
-  "2023-10-12": 30833,
-  "2023-10-13": 30833,
-  "2023-10-14": 30833,
-  "2023-10-15": 30833,
-  "2023-10-16": 30833,
-  "2023-10-17": 30833,
-  "2023-10-18": 30833,
-  "2023-10-19": 30833,
-  "2023-10-20": 30833,
-  "2023-10-21": 30833,
-  "2023-10-22": 30833,
-  "2023-10-23": 30833,
-  "2023-10-24": 30833,
-  "2023-10-25": 30833,
-  "2023-10-26": 30833,
-  "2023-10-27": 30833,
-  "2023-10-28": 30833,
-  "2023-10-29": 30833,
-  "2023-10-30": 30833,
-  "2023-10-31": 30833,
-  "2023-11-01": 30833,
-  "2023-11-02": 30833,
-  "2023-11-03": 30833,
-  "2023-11-04": 30833,
-  "2023-11-05": 30833,
-  "2023-11-06": 30833,
-  "2023-11-07": 30833,
-  "2023-11-08": 30833,
-  "2023-11-09": 30833,
-  "2023-11-10": 30833,
-  "2023-11-11": 31363,
-  "2023-11-12": 31363,
-  "2023-11-13": 31363,
-  "2023-11-14": 31363,
-  "2023-11-15": 31363,
-  "2023-11-16": 31363,
-  "2023-11-17": 31363,
-  "2023-11-18": 31363,
-  "2023-11-19": 31363,
-  "2023-11-20": 31363,
-  "2023-11-21": 31363,
-  "2023-11-22": 31363,
-  "2023-11-23": 31363,
-  "2023-11-24": 31363,
-  "2023-11-25": 31363,
-  "2023-11-26": 31363,
-  "2023-11-27": 31363,
-  "2023-11-28": 31363,
-  "2023-11-29": 31363,
-  "2023-11-30": 31363,
-  "2023-12-01": 31363,
-  "2023-12-02": 31363,
-  "2023-12-03": 31363,
-  "2023-12-04": 31363,
-  "2023-12-05": 31363,
-  "2023-12-06": 31363,
-  "2023-12-07": 31363,
-  "2023-12-08": 31363,
-  "2023-12-09": 31363,
-  "2023-12-10": 31363,
-  "2023-12-11": 31363,
-  "2023-12-12": 31363,
-  "2023-12-13": 31363,
-  "2023-12-14": 31675,
-  "2023-12-15": 31677,
-  "2023-12-16": 31691,
-  "2023-12-17": 31700,
-  "2023-12-18": 31706,
-  "2023-12-19": 31707,
-  "2023-12-20": 31711,
-  "2023-12-21": 31725,
-  "2023-12-22": 31733,
-  "2023-12-23": 31746,
-  "2023-12-24": 31752,
-  "2023-12-25": 31762,
-  "2023-12-26": 31780,
-  "2023-12-27": 31784,
-  "2023-12-30": 31811,
-  "2023-12-31": 31828,
-  "2024-01-01": 31839,
-  "2024-01-02": 31852,
-  "2024-01-03": 31859
+  "2024-01-17": 31966,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
+  "name": "This Is Los Jaivas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Aguamarina",
+      "url": "https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 83240,
+      "name": "Alumno",
+      "url": "https://open.spotify.com/track/7oDgG2GrSs6xEMHGEKVXeF"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "Amor Americano",
+      "url": "https://open.spotify.com/track/2devOvQdt2r3lLOWu92O4x"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Antigua Am\u00e9rica",
+      "url": "https://open.spotify.com/track/08d3JzTtDDivrdsOGuiv35"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
+    },
+    {
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
+    },
+    {
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "Ayer Cache (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 587266,
+      "name": "Bosques Virginales",
+      "url": "https://open.spotify.com/track/3B9Ld3SEdRplZ15L5nCoOo"
+    },
+    {
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 194080,
+      "name": "Cancion De Los Pajaros",
+      "url": "https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 461928,
+      "name": "Canci\u00f3n del Sur",
+      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415653,
+      "name": "Cerro de la Virgen",
+      "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586893,
+      "name": "Corre Que Te Pillo",
+      "url": "https://open.spotify.com/track/1tqU1TAZpCp5WqLMI1yHpL"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 524064,
+      "name": "Danzas",
+      "url": "https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136560,
+      "name": "Del Aire al Aire",
+      "url": "https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328733,
+      "name": "Desde un Barrial",
+      "url": "https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ"
+    },
+    {
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "Donde Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 527000,
+      "name": "El Guillat\u00fan",
+      "url": "https://open.spotify.com/track/13TCqLr84jJcEkQfjFcigu"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290813,
+      "name": "El Tambo",
+      "url": "https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270200,
+      "name": "En el Tren a Paisand\u00fa",
+      "url": "https://open.spotify.com/track/62Ul4vrKeJB2aDhJ6WSZU8"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 309048,
+      "name": "En la Cumbre de un Cerro",
+      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 156840,
+      "name": "Final",
+      "url": "https://open.spotify.com/track/5zoXo9EwMCYbcBMpHFE9li"
+    },
+    {
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 192672,
+      "name": "Frescura Antigua",
+      "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 167706,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/4xMkzqdCWyOWfXhJKGNsXv"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479186,
+      "name": "Guajira Cosmica",
+      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296693,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/1rXl4pZQWZva8whEQENrI9"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra (En Vivo)",
+        "url": "https://open.spotify.com/album/2EOP4MmPOOAXYtXHuHSZC3"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Ankatu Alquinta",
+          "url": "https://open.spotify.com/artist/589TezEaFGuNyZkaiq97Es"
+        },
+        {
+          "name": "Eloy Alquinta",
+          "url": "https://open.spotify.com/artist/0KIMeyA9BADCcGD15YeOS0"
+        },
+        {
+          "name": "Aurora Alquinta Monsalve",
+          "url": "https://open.spotify.com/artist/0YVr9RHlXx2emUtkjzeczI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 289290,
+      "name": "Hijos de la Tierra - En Vivo",
+      "url": "https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 181573,
+      "name": "Huairuro",
+      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361533,
+      "name": "Indio Hermano (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304933,
+      "name": "La Centinela (Versi\u00f3n 1997)",
+      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433386,
+      "name": "La Conquistada",
+      "url": "https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672253,
+      "name": "La Poderosa Muerte",
+      "url": "https://open.spotify.com/track/21fooaqsdHnfEX6I2xszdD"
+    },
+    {
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
+    },
+    {
+      "album": {
+        "name": "En el Bar-Restaurant \"Lo Que Nunca Se Supo\"",
+        "url": "https://open.spotify.com/album/6U7nBpYnjEoCZih1oL2ohZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "La Vida M\u00e1gica \u00a1Ay Si! (En Vivo, Concierto en Londres 1979)",
+      "url": "https://open.spotify.com/track/4A8IFmoeWBY7cHtAdUllur"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 461800,
+      "name": "Litorale\u00f1a",
+      "url": "https://open.spotify.com/track/3esByw2hRuImonKHLeU5AA"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Eduardo Gatti",
+          "url": "https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Los Momentos (Versi\u00f3n 1997)",
+      "url": "https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296026,
+      "name": "Mambo de Machaguay",
+      "url": "https://open.spotify.com/track/7eDAcrYSFM2vNWrCefc9Sm"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Ma\u00f1ana Me Voy Pa'l Norte",
+      "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"
+    },
+    {
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421311,
+      "name": "Mira Ni\u00f1ita (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/6Lg1r56wubG76t2fOF9iNa"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 387400,
+      "name": "Mira Ni\u00f1ita (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/6GYbTb3eLDVdEoRSu6L3iU"
+    },
+    {
+      "album": {
+        "name": "Jaivas En Vivo: Gira Chile '88",
+        "url": "https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255153,
+      "name": "Ni\u00f1a Serrana (En Vivo)",
+      "url": "https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317786,
+      "name": "Pregon Para Iluminarse",
+      "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "P\u00e1jaro Errante",
+      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
+    },
+    {
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 282906,
+      "name": "Rosas en el Jard\u00edn",
+      "url": "https://open.spotify.com/track/6dg0PZQs7WR8MMcz2SJdBh"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+    },
+    {
+      "album": {
+        "name": "Jaivas En Vivo: Gira Chile '88",
+        "url": "https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 109516,
+      "name": "Solo de Bater\u00eda (En Vivo)",
+      "url": "https://open.spotify.com/track/3q5YrTFqG64ywvX6nxdKt1"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286506,
+      "name": "Sube a Nacer Conmigo Hermano",
+      "url": "https://open.spotify.com/track/0gWHg31biasRElqCjQ8RuM"
+    },
+    {
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Sue\u00f1o Del Inca",
+      "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388800,
+      "name": "Tan Lejos del Sol",
+      "url": "https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 798626,
+      "name": "Tarka y Ocarina (Diablada-Trote-Kotaiki)",
+      "url": "https://open.spotify.com/track/3sbeeC62ewTzE1ywXAx0WI"
+    },
+    {
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 293026,
+      "name": "Todos Americanos",
+      "url": "https://open.spotify.com/track/69Evt4yslyJhrDYmkD3DHV"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295626,
+      "name": "Todos Juntos (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/1xUWqYaqqGLXFBMMbQ4ZMI"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Un Dia De Tus Dias",
+      "url": "https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Valpara\u00edso (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv"
+    },
+    {
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192986,
+      "name": "Vamos por Ancho Camino",
+      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
+    },
+    {
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "Verg\u00fcenza Ajena",
+      "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306026,
+      "name": "Violeta Ausente",
+      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
+    },
+    {
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663000,
+      "name": "Y Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/0qarO5TEf1JwiJMyV6GQ23"
+    },
+    {
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322413,
+      "name": "\u00c1guila Sideral",
+      "url": "https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046"
 }

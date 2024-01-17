@@ -1,569 +1,4551 @@
 {
-  "2022-06-10": 15570,
-  "2022-06-11": 15587,
-  "2022-06-12": 15610,
-  "2022-06-13": 15629,
-  "2022-06-14": 15639,
-  "2022-06-15": 15653,
-  "2022-06-16": 15670,
-  "2022-06-17": 15680,
-  "2022-06-18": 15688,
-  "2022-06-19": 15705,
-  "2022-06-20": 15705,
-  "2022-06-21": 15714,
-  "2022-06-22": 15740,
-  "2022-06-23": 15740,
-  "2022-06-24": 15751,
-  "2022-06-25": 15761,
-  "2022-06-26": 15767,
-  "2022-06-27": 15783,
-  "2022-06-28": 15803,
-  "2022-06-29": 15818,
-  "2022-06-30": 15834,
-  "2022-07-01": 15841,
-  "2022-07-02": 15853,
-  "2022-07-03": 15856,
-  "2022-07-04": 15863,
-  "2022-07-05": 15876,
-  "2022-07-06": 15891,
-  "2022-07-07": 15898,
-  "2022-07-08": 15910,
-  "2022-07-09": 15925,
-  "2022-07-10": 15942,
-  "2022-07-11": 15954,
-  "2022-07-12": 15957,
-  "2022-07-13": 15966,
-  "2022-07-14": 15978,
-  "2022-07-15": 15991,
-  "2022-07-16": 15996,
-  "2022-07-17": 16001,
-  "2022-07-18": 16016,
-  "2022-07-19": 16032,
-  "2022-07-20": 16042,
-  "2022-07-21": 16052,
-  "2022-07-22": 16060,
-  "2022-07-23": 16064,
-  "2022-07-24": 16084,
-  "2022-07-25": 16102,
-  "2022-07-26": 16110,
-  "2022-07-27": 16132,
-  "2022-07-28": 16151,
-  "2022-07-29": 16166,
-  "2022-07-30": 16203,
-  "2022-07-31": 16203,
-  "2022-08-01": 16216,
-  "2022-08-02": 16262,
-  "2022-08-03": 16262,
-  "2022-08-04": 16274,
-  "2022-08-05": 16293,
-  "2022-08-06": 16304,
-  "2022-08-07": 16312,
-  "2022-08-08": 16327,
-  "2022-08-09": 16331,
-  "2022-08-10": 16341,
-  "2022-08-11": 16348,
-  "2022-08-12": 16354,
-  "2022-08-13": 16365,
-  "2022-08-14": 16379,
-  "2022-08-15": 16389,
-  "2022-08-16": 16404,
-  "2022-08-17": 16420,
-  "2022-08-18": 16427,
-  "2022-08-19": 16436,
-  "2022-08-20": 16455,
-  "2022-08-21": 16458,
-  "2022-08-22": 16476,
-  "2022-08-23": 16490,
-  "2022-08-24": 16500,
-  "2022-08-25": 16513,
-  "2022-08-26": 16521,
-  "2022-08-27": 16542,
-  "2022-08-28": 16547,
-  "2022-08-29": 16560,
-  "2022-08-30": 16555,
-  "2022-08-31": 16544,
-  "2022-09-01": 16528,
-  "2022-09-02": 16519,
-  "2022-09-03": 16527,
-  "2022-09-04": 16467,
-  "2022-09-05": 16475,
-  "2022-09-06": 16482,
-  "2022-09-07": 16496,
-  "2022-09-09": 16518,
-  "2022-09-10": 16526,
-  "2022-09-11": 16540,
-  "2022-09-12": 16542,
-  "2022-09-13": 16551,
-  "2022-09-15": 16575,
-  "2022-09-16": 16583,
-  "2022-09-17": 16589,
-  "2022-09-18": 16595,
-  "2022-09-19": 16611,
-  "2022-09-20": 16619,
-  "2022-09-21": 16628,
-  "2022-09-22": 16633,
-  "2022-09-23": 16646,
-  "2022-09-24": 16652,
-  "2022-09-25": 16663,
-  "2022-09-26": 16683,
-  "2022-09-27": 16692,
-  "2022-09-28": 16702,
-  "2022-09-29": 16717,
-  "2022-09-30": 16720,
-  "2022-10-01": 16725,
-  "2022-10-02": 16732,
-  "2022-10-03": 16746,
-  "2022-10-04": 16750,
-  "2022-10-05": 16758,
-  "2022-10-06": 16762,
-  "2022-10-07": 16764,
-  "2022-10-08": 16770,
-  "2022-10-09": 16790,
-  "2022-10-10": 16791,
-  "2022-10-11": 16802,
-  "2022-10-12": 16813,
-  "2022-10-13": 16822,
-  "2022-10-14": 16837,
-  "2022-10-15": 16842,
-  "2022-10-16": 16851,
-  "2022-10-17": 16861,
-  "2022-10-18": 16868,
-  "2022-10-19": 16879,
-  "2022-10-20": 16893,
-  "2022-10-21": 16909,
-  "2022-10-22": 16916,
-  "2022-10-23": 16929,
-  "2022-10-24": 16935,
-  "2022-10-25": 16941,
-  "2022-10-26": 16951,
-  "2022-10-27": 16961,
-  "2022-10-28": 16967,
-  "2022-10-29": 16978,
-  "2022-10-30": 16989,
-  "2022-10-31": 17002,
-  "2022-11-01": 17015,
-  "2022-11-02": 17025,
-  "2022-11-03": 17038,
-  "2022-11-04": 17048,
-  "2022-11-05": 17058,
-  "2022-11-06": 17073,
-  "2022-11-07": 17090,
-  "2022-11-08": 17095,
-  "2022-11-09": 17103,
-  "2022-11-10": 17111,
-  "2022-11-11": 17126,
-  "2022-11-12": 17141,
-  "2022-11-13": 17154,
-  "2022-11-14": 17167,
-  "2022-11-15": 17176,
-  "2022-11-16": 17184,
-  "2022-11-17": 17198,
-  "2022-11-18": 17207,
-  "2022-11-19": 17203,
-  "2022-11-20": 17225,
-  "2022-11-21": 17217,
-  "2022-11-22": 17253,
-  "2022-11-23": 17251,
-  "2022-11-24": 17286,
-  "2022-11-25": 17306,
-  "2022-11-26": 17325,
-  "2022-11-27": 17343,
-  "2022-11-28": 17348,
-  "2022-11-29": 17356,
-  "2022-11-30": 17366,
-  "2022-12-01": 17371,
-  "2022-12-02": 17383,
-  "2022-12-03": 17409,
-  "2022-12-04": 17422,
-  "2022-12-05": 17435,
-  "2022-12-06": 17443,
-  "2022-12-07": 17447,
-  "2022-12-08": 17470,
-  "2022-12-09": 17496,
-  "2022-12-10": 17506,
-  "2022-12-11": 17526,
-  "2022-12-12": 17541,
-  "2022-12-13": 17551,
-  "2022-12-14": 17564,
-  "2022-12-15": 17576,
-  "2022-12-16": 17598,
-  "2022-12-17": 17605,
-  "2022-12-18": 17621,
-  "2022-12-19": 17635,
-  "2022-12-20": 17659,
-  "2022-12-21": 17659,
-  "2022-12-22": 17666,
-  "2022-12-24": 17699,
-  "2022-12-25": 17709,
-  "2022-12-26": 17714,
-  "2022-12-27": 17722,
-  "2022-12-28": 17726,
-  "2022-12-29": 17736,
-  "2022-12-30": 17747,
-  "2022-12-31": 17760,
-  "2023-01-01": 17763,
-  "2023-01-02": 17769,
-  "2023-01-03": 17774,
-  "2023-01-04": 17779,
-  "2023-01-05": 17782,
-  "2023-01-06": 17794,
-  "2023-01-07": 17815,
-  "2023-01-08": 17817,
-  "2023-01-09": 17826,
-  "2023-01-10": 17837,
-  "2023-01-11": 17847,
-  "2023-01-12": 17857,
-  "2023-01-13": 17869,
-  "2023-01-14": 17884,
-  "2023-01-15": 17889,
-  "2023-01-16": 17900,
-  "2023-01-17": 17907,
-  "2023-01-18": 17912,
-  "2023-01-19": 17922,
-  "2023-01-20": 17935,
-  "2023-01-21": 17938,
-  "2023-01-22": 17950,
-  "2023-01-23": 17964,
-  "2023-01-24": 17973,
-  "2023-01-25": 17983,
-  "2023-01-26": 17989,
-  "2023-01-27": 17998,
-  "2023-01-28": 18015,
-  "2023-01-29": 18017,
-  "2023-01-30": 18023,
-  "2023-01-31": 18023,
-  "2023-02-01": 18034,
-  "2023-02-02": 18040,
-  "2023-02-03": 18051,
-  "2023-02-04": 18061,
-  "2023-02-05": 18075,
-  "2023-02-06": 18083,
-  "2023-02-07": 18095,
-  "2023-02-08": 18111,
-  "2023-02-09": 18111,
-  "2023-02-10": 18117,
-  "2023-02-11": 18125,
-  "2023-02-12": 18136,
-  "2023-02-13": 18140,
-  "2023-02-14": 18140,
-  "2023-02-15": 18152,
-  "2023-02-16": 18160,
-  "2023-02-17": 18165,
-  "2023-02-18": 18194,
-  "2023-02-19": 18196,
-  "2023-02-20": 18205,
-  "2023-02-21": 18211,
-  "2023-02-22": 18221,
-  "2023-02-23": 18230,
-  "2023-02-24": 18239,
-  "2023-02-25": 18251,
-  "2023-02-26": 18257,
-  "2023-02-27": 18278,
-  "2023-02-28": 18278,
-  "2023-03-01": 18294,
-  "2023-03-02": 18307,
-  "2023-03-03": 18314,
-  "2023-03-04": 18315,
-  "2023-03-05": 18337,
-  "2023-03-06": 18337,
-  "2023-03-07": 18349,
-  "2023-03-08": 18355,
-  "2023-03-09": 18372,
-  "2023-03-10": 18382,
-  "2023-03-11": 18388,
-  "2023-03-12": 18402,
-  "2023-03-13": 18425,
-  "2023-03-14": 18458,
-  "2023-03-15": 18487,
-  "2023-03-16": 18507,
-  "2023-03-17": 18507,
-  "2023-03-18": 18549,
-  "2023-03-19": 18570,
-  "2023-03-20": 18603,
-  "2023-03-21": 18611,
-  "2023-03-22": 18636,
-  "2023-03-23": 18661,
-  "2023-03-24": 18661,
-  "2023-03-25": 18686,
-  "2023-03-26": 18714,
-  "2023-03-27": 18740,
-  "2023-03-28": 18756,
-  "2023-03-29": 18777,
-  "2023-03-30": 18811,
-  "2023-03-31": 18811,
-  "2023-04-01": 18836,
-  "2023-04-02": 18863,
-  "2023-04-03": 18893,
-  "2023-04-04": 18915,
-  "2023-04-05": 18945,
-  "2023-04-06": 18967,
-  "2023-04-07": 18986,
-  "2023-04-09": 19032,
-  "2023-04-10": 19057,
-  "2023-04-11": 19096,
-  "2023-04-12": 19096,
-  "2023-04-13": 19125,
-  "2023-04-14": 19148,
-  "2023-04-15": 19164,
-  "2023-04-16": 19186,
-  "2023-04-17": 19211,
-  "2023-04-18": 19238,
-  "2023-04-19": 19260,
-  "2023-04-20": 19281,
-  "2023-04-21": 19300,
-  "2023-04-22": 19319,
-  "2023-04-23": 19338,
-  "2023-04-24": 19361,
-  "2023-04-25": 19391,
-  "2023-04-26": 19414,
-  "2023-04-27": 19426,
-  "2023-04-28": 19446,
-  "2023-04-29": 19461,
-  "2023-04-30": 19491,
-  "2023-05-01": 19503,
-  "2023-05-02": 19523,
-  "2023-05-03": 19547,
-  "2023-05-04": 19564,
-  "2023-05-05": 19593,
-  "2023-05-06": 19633,
-  "2023-05-07": 19658,
-  "2023-05-08": 19694,
-  "2023-05-09": 19712,
-  "2023-05-10": 19732,
-  "2023-05-11": 19756,
-  "2023-05-12": 19784,
-  "2023-05-13": 19801,
-  "2023-05-14": 19813,
-  "2023-05-15": 19826,
-  "2023-05-16": 19847,
-  "2023-05-17": 19858,
-  "2023-05-18": 19876,
-  "2023-05-19": 19890,
-  "2023-05-20": 19922,
-  "2023-05-21": 19922,
-  "2023-05-22": 19922,
-  "2023-05-23": 19950,
-  "2023-05-24": 19982,
-  "2023-05-25": 19985,
-  "2023-05-26": 20008,
-  "2023-05-27": 20023,
-  "2023-05-28": 20039,
-  "2023-05-29": 20039,
-  "2023-05-30": 20077,
-  "2023-05-31": 20093,
-  "2023-06-01": 20113,
-  "2023-06-02": 20127,
-  "2023-06-03": 20145,
-  "2023-06-04": 20163,
-  "2023-06-05": 20187,
-  "2023-06-06": 20215,
-  "2023-06-07": 20232,
-  "2023-06-08": 20247,
-  "2023-06-09": 20264,
-  "2023-06-10": 20285,
-  "2023-06-11": 20303,
-  "2023-06-12": 20318,
-  "2023-06-13": 20337,
-  "2023-06-14": 20347,
-  "2023-06-15": 20367,
-  "2023-06-16": 20387,
-  "2023-06-17": 20404,
-  "2023-06-18": 20419,
-  "2023-06-19": 20435,
-  "2023-06-20": 20441,
-  "2023-06-21": 20464,
-  "2023-06-22": 20489,
-  "2023-06-23": 20502,
-  "2023-06-24": 20514,
-  "2023-06-25": 20531,
-  "2023-06-26": 20549,
-  "2023-06-27": 20568,
-  "2023-06-28": 20590,
-  "2023-06-29": 20607,
-  "2023-06-30": 20622,
-  "2023-07-01": 20647,
-  "2023-07-02": 20647,
-  "2023-07-03": 20661,
-  "2023-07-04": 20683,
-  "2023-07-05": 20687,
-  "2023-07-06": 20718,
-  "2023-07-07": 20718,
-  "2023-07-08": 20723,
-  "2023-07-09": 20741,
-  "2023-07-10": 20751,
-  "2023-07-11": 20768,
-  "2023-07-12": 20777,
-  "2023-07-13": 20797,
-  "2023-07-14": 20810,
-  "2023-07-15": 20815,
-  "2023-07-16": 20831,
-  "2023-07-17": 20846,
-  "2023-07-18": 20861,
-  "2023-07-19": 20876,
-  "2023-07-20": 20891,
-  "2023-07-21": 20908,
-  "2023-07-22": 20931,
-  "2023-07-23": 20940,
-  "2023-07-24": 20954,
-  "2023-07-25": 20966,
-  "2023-07-26": 20982,
-  "2023-07-27": 21000,
-  "2023-07-28": 21014,
-  "2023-07-29": 21028,
-  "2023-07-30": 21045,
-  "2023-07-31": 21064,
-  "2023-08-01": 21083,
-  "2023-08-02": 21096,
-  "2023-08-03": 21106,
-  "2023-08-04": 21127,
-  "2023-08-05": 21139,
-  "2023-08-06": 21166,
-  "2023-08-07": 21166,
-  "2023-08-08": 21187,
-  "2023-08-09": 21202,
-  "2023-08-10": 21211,
-  "2023-08-11": 21225,
-  "2023-08-12": 21237,
-  "2023-08-13": 21249,
-  "2023-08-14": 21261,
-  "2023-08-15": 21277,
-  "2023-08-16": 21277,
-  "2023-08-17": 21297,
-  "2023-08-18": 21314,
-  "2023-08-19": 21322,
-  "2023-08-20": 21328,
-  "2023-08-21": 21345,
-  "2023-08-22": 21361,
-  "2023-08-23": 21373,
-  "2023-08-24": 21385,
-  "2023-08-25": 21401,
-  "2023-08-26": 21410,
-  "2023-08-27": 21415,
-  "2023-08-28": 21433,
-  "2023-08-29": 21440,
-  "2023-08-30": 21452,
-  "2023-08-31": 21457,
-  "2023-09-01": 21488,
-  "2023-09-02": 21488,
-  "2023-09-03": 21502,
-  "2023-09-04": 21509,
-  "2023-09-05": 21518,
-  "2023-09-06": 21528,
-  "2023-09-07": 21538,
-  "2023-09-08": 21554,
-  "2023-09-09": 21565,
-  "2023-09-10": 21577,
-  "2023-09-11": 21590,
-  "2023-09-12": 21586,
-  "2023-09-13": 21598,
-  "2023-09-14": 21608,
-  "2023-09-15": 21610,
-  "2023-09-16": 21617,
-  "2023-09-17": 21623,
-  "2023-09-18": 21631,
-  "2023-09-19": 21641,
-  "2023-09-20": 21644,
-  "2023-09-21": 21651,
-  "2023-09-22": 21659,
-  "2023-09-23": 21676,
-  "2023-09-24": 21687,
-  "2023-09-25": 21704,
-  "2023-09-26": 21717,
-  "2023-09-27": 21722,
-  "2023-09-28": 21734,
-  "2023-09-29": 21745,
-  "2023-09-30": 21755,
-  "2023-10-01": 21763,
-  "2023-10-02": 21773,
-  "2023-10-03": 21781,
-  "2023-10-04": 21790,
-  "2023-10-05": 21802,
-  "2023-10-06": 21812,
-  "2023-10-07": 21820,
-  "2023-10-08": 21821,
-  "2023-10-09": 21838,
-  "2023-10-10": 21841,
-  "2023-10-11": 21867,
-  "2023-10-12": 21867,
-  "2023-10-13": 21874,
-  "2023-10-14": 21886,
-  "2023-10-15": 21896,
-  "2023-10-16": 21910,
-  "2023-10-17": 21915,
-  "2023-10-18": 21922,
-  "2023-10-19": 21928,
-  "2023-10-20": 21939,
-  "2023-10-21": 21939,
-  "2023-10-22": 21951,
-  "2023-10-23": 21966,
-  "2023-10-24": 21977,
-  "2023-10-25": 21987,
-  "2023-10-26": 21994,
-  "2023-10-27": 22008,
-  "2023-10-28": 22012,
-  "2023-10-29": 22019,
-  "2023-10-30": 22036,
-  "2023-10-31": 22036,
-  "2023-11-01": 22046,
-  "2023-11-02": 22057,
-  "2023-11-03": 22067,
-  "2023-11-04": 22078,
-  "2023-11-05": 22083,
-  "2023-11-06": 22090,
-  "2023-11-07": 22100,
-  "2023-11-08": 22109,
-  "2023-11-09": 22122,
-  "2023-11-10": 22131,
-  "2023-11-11": 22141,
-  "2023-11-12": 22156,
-  "2023-11-13": 22164,
-  "2023-11-14": 22170,
-  "2023-11-15": 22170,
-  "2023-11-16": 22189,
-  "2023-11-17": 22202,
-  "2023-11-18": 22202,
-  "2023-11-19": 22206,
-  "2023-11-20": 22219,
-  "2023-11-21": 22225,
-  "2023-11-22": 22230,
-  "2023-11-23": 22239,
-  "2023-11-24": 22252,
-  "2023-11-25": 22256,
-  "2023-11-26": 22261,
-  "2023-11-27": 22273,
-  "2023-11-28": 22279,
-  "2023-11-29": 22302,
-  "2023-11-30": 22302,
-  "2023-12-01": 22318,
-  "2023-12-02": 22331,
-  "2023-12-03": 22352,
-  "2023-12-04": 22359,
-  "2023-12-05": 22368,
-  "2023-12-06": 22373,
-  "2023-12-07": 22394,
-  "2023-12-08": 22401,
-  "2023-12-09": 22410,
-  "2023-12-10": 22418,
-  "2023-12-11": 22434,
-  "2023-12-12": 22444,
-  "2023-12-13": 22452,
-  "2023-12-14": 22464,
-  "2023-12-15": 22466,
-  "2023-12-16": 22478,
-  "2023-12-17": 22487,
-  "2023-12-18": 22488,
-  "2023-12-19": 22498,
-  "2023-12-20": 22507,
-  "2023-12-21": 22512,
-  "2023-12-22": 22524,
-  "2023-12-23": 22534,
-  "2023-12-24": 22542,
-  "2023-12-25": 22550,
-  "2023-12-26": 22563,
-  "2023-12-27": 22573,
-  "2023-12-30": 22594,
-  "2023-12-31": 22601,
-  "2024-01-01": 22608,
-  "2024-01-02": 22621,
-  "2024-01-03": 22626
+  "2024-01-17": 22760,
+  "date_first_scraped": "2022-06-10",
+  "description": "The world of\u201dTOUKEN RANBU\u201d! PC\u30d6\u30e9\u30a6\u30b6\u30fb\u30b9\u30de\u30db\u30a2\u30d7\u30ea\u30b2\u30fc\u30e0\u300c\u5200\u5263\u4e71\u821e-ONLINE-\u300d\u3002\nMusical\u3001Animation\u3001Movie\u3068\u5e83\u304c\u308b\u9769\u547d\u7684\u306a\u4e16\u754c\u3092\u5f69\u308b\u697d\u66f2\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 (C)2015 EXNOA LLC/Nitroplus",
+  "name": "\u5200\u5263\u4e71\u821e-ONLINE- TOUKEN RANBU",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4A)",
+        "url": "https://open.spotify.com/album/1HzcG8TbZnGq8LSV7N1WSh"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199789,
+      "name": "Additional Times",
+      "url": "https://open.spotify.com/track/4hON8qLuhKNgrC1PtLUmpP"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250306,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/3NA26OZ9WR7eXGQK9JOotP"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 250306,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/6U0IzO8x0zbmISCVFDVo3n"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "Be Cool!! song by Urashima Kotetsu\u30fbHyuuga Masamune",
+      "url": "https://open.spotify.com/track/6vm1UrbImhFPlK59RNdLCy"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308693,
+      "name": "Be Cool!! song by \u6d66\u5cf6\u864e\u5fb9\u30fb\u65e5\u5411\u6b63\u5b97",
+      "url": "https://open.spotify.com/track/1EokE5BYBt2nGjwGLWNS6j"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 308680,
+      "name": "Be Cool!!\u3000song by Urashima Kotetsu\u30fbHyuuga Masamune",
+      "url": "https://open.spotify.com/track/3ZRB9tzOiR8Jnd0tSe8ETd"
+    },
+    {
+      "album": {
+        "name": "BE IN SIGHT (Type A)",
+        "url": "https://open.spotify.com/album/1Cov6huyPRROOEYa2oo19v"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 269642,
+      "name": "BE IN SIGHT",
+      "url": "https://open.spotify.com/track/3srU6EeBHkXVJ6wnxqeXGE"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "BE IN SIGHT",
+      "url": "https://open.spotify.com/track/28OYtZNIs02lzFycRO13qn"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 271133,
+      "name": "BE IN SIGHT",
+      "url": "https://open.spotify.com/track/3djsvruhTOCBmQedsJZPkc"
+    },
+    {
+      "album": {
+        "name": "BE IN SIGHT (Type D)",
+        "url": "https://open.spotify.com/album/21FaNSlRqq0VXBibdclNBB"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 201318,
+      "name": "Beautiful Life!!",
+      "url": "https://open.spotify.com/track/2kYTNAqhInwSAdQAceHWFf"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 202600,
+      "name": "Beautiful Life!!",
+      "url": "https://open.spotify.com/track/3YNhIK3AtIRn5foyDjTkQm"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Beautiful Life!!",
+      "url": "https://open.spotify.com/track/5coOkmm1PAjRap1oHx7jva"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "Blackout song by Sengo Muramasa",
+      "url": "https://open.spotify.com/track/3COxpX9nZrbsmdlWSEZviY"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f\u306e\u7a7a (Type B)",
+        "url": "https://open.spotify.com/album/4YKDeslkaabjXQPCQENo61"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224240,
+      "name": "Blackout song by \u5343\u5b50\u6751\u6b63",
+      "url": "https://open.spotify.com/track/1rP0J5GKNc9iUqFWy5C7uE"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type A)",
+        "url": "https://open.spotify.com/album/0hxdquAf6u4vv4YXTqP8qA"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290733,
+      "name": "Blue Light song by Kashuu Kiyomitsu",
+      "url": "https://open.spotify.com/track/7LXOrFey4DvaUge67hqMtM"
+    },
+    {
+      "album": {
+        "name": "Kessennotoki (Type D)",
+        "url": "https://open.spotify.com/album/4V12MwQeuxsOPgG0orsdAQ"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 240213,
+      "name": "Bokugairubasho song by Horikawakunihiro",
+      "url": "https://open.spotify.com/track/5LD8fnANdpXtfGxzEdIudf"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Bokugairubasho song by Horikawakunihiro",
+      "url": "https://open.spotify.com/track/51lTPVhpQjGcgnIwK1xkI6"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "Bokutachi no asuhe",
+      "url": "https://open.spotify.com/track/2xMcWeHgq6UMdRPqSbc4Yc"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292245,
+      "name": "Can you guess what?",
+      "url": "https://open.spotify.com/track/4nLXsjqCgSnAkCrvcZmQgY"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type A)",
+        "url": "https://open.spotify.com/album/2XV7y5wCJs8wGPRvwFixyF"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 292245,
+      "name": "Can you guess what?",
+      "url": "https://open.spotify.com/track/6dLx7yqMlZnfQG2CEfoZKZ"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type A)",
+        "url": "https://open.spotify.com/album/4PCJN1Q2vcXmSqxvSuaOsy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 292245,
+      "name": "Can you guess what?",
+      "url": "https://open.spotify.com/track/1d4soSWVhtEkZu1uAxWBca"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Colors\u3000song by kuwanagou",
+      "url": "https://open.spotify.com/track/3eWClSGTpO7JV0gGChjTKt"
+    },
+    {
+      "album": {
+        "name": "Lost The Memory (Type E)",
+        "url": "https://open.spotify.com/album/56JBWMzu9Qo7Yspvrqz47C"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268268,
+      "name": "Danzen, kimi ni koishiteru! song by Ishikirimaru\u30fbIwatooshi\u30fbImanotsurugi",
+      "url": "https://open.spotify.com/track/7omzoqt9UAejsJ16MhGh3T"
+    },
+    {
+      "album": {
+        "name": "Kessennotoki (Type F)",
+        "url": "https://open.spotify.com/album/5L76De5Z45rZnKB8u0B87P"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 246173,
+      "name": "Darenomonodemonaijinsei song by Izuminokamikanesada\u30fbTomoegatanaginata",
+      "url": "https://open.spotify.com/track/49aOQ28lBPEYr7yALZ1LtF"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Darenomonodemonaijinsei song by Izuminokamikanesada\u30fbTomoegatanaginata",
+      "url": "https://open.spotify.com/track/6rWcpbx9tP5fMjpZ0gBNYV"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272426,
+      "name": "Dear you",
+      "url": "https://open.spotify.com/track/4TzDm4nBjd6DpkW4xImqXg"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type E)",
+        "url": "https://open.spotify.com/album/5MOxaKbuMTPYcNBXQjoCRU"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279960,
+      "name": "Dreamless Dreamer song by Yamatonokamiyasusada\uff65 Hachisukakotetsu",
+      "url": "https://open.spotify.com/track/2qOketwZtQnThIXMIrhHwX"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30df\u306e\u8a69 (Type A)",
+        "url": "https://open.spotify.com/album/5PxVGbFzwoK5FEFqTSZdAT"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u4e09\u65e5\u6708\u5b97\u8fd1",
+          "url": "https://open.spotify.com/artist/2vjGWPWlr1yKcblPJCeKHQ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282040,
+      "name": "Endless Night",
+      "url": "https://open.spotify.com/track/3zfV4yoMEH9HG6ywAlADjC"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Fairytale\u3000song by samidaregou\u30fbmurakumogou",
+      "url": "https://open.spotify.com/track/2BbXAKL6kKSbe64CAdp2PZ"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "Free Style",
+      "url": "https://open.spotify.com/track/3V7jqjBL1MQ1dcDS2Pf6rq"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254733,
+      "name": "Free Style",
+      "url": "https://open.spotify.com/track/2ih2v1L7bmpn9KwyfMi5cb"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254733,
+      "name": "Free Style",
+      "url": "https://open.spotify.com/track/7dFRAoXHspP0NRkLYUl6tz"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Futatsunokiseki~tonari~ song by Higekiri\u30fbHizamaru",
+      "url": "https://open.spotify.com/track/0tpIQUMTvBEJRXwIebVhhW"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4C)",
+        "url": "https://open.spotify.com/album/3UShJVkNlcbu7xkUsYusWf"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225869,
+      "name": "Gateway",
+      "url": "https://open.spotify.com/track/47s9cRPxinttv275qcEOEf"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261506,
+      "name": "Get your Dream",
+      "url": "https://open.spotify.com/track/425wohMyK0f3zvlKmoUmGl"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u9577\u66fd\u88ae\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/07wH0MydXfKHy0H26NUlqm"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Heart-To-Heart song by \u8702\u9808\u8cc0\u864e\u5fb9\u30fb\u9577\u66fd\u88ae\u864e\u5fb9",
+      "url": "https://open.spotify.com/track/6Gb1S8P7DzNgEM4pMWnGz2"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Mihotose no Komoriuta- Tsuujouban",
+        "url": "https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Impulse song by Sengo Muramasa\u30fbTonbokiri",
+      "url": "https://open.spotify.com/track/1UnkdPzrXJ2SkkCEIiBoxO"
+    },
+    {
+      "album": {
+        "name": "Kodou (Type D)",
+        "url": "https://open.spotify.com/album/7yA3ycjI5Mp3gWMR7pDBD1"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243093,
+      "name": "Impulse song by Sengomuramasa\u30fbTonbokiri",
+      "url": "https://open.spotify.com/track/2eK1Srknw1v6H90FJl0eWE"
+    },
+    {
+      "album": {
+        "name": "\u9f13\u52d5 (Type D)",
+        "url": "https://open.spotify.com/album/7drHriF1f0j4e2pPYgyUQR"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243093,
+      "name": "Impulse song by \u5343\u5b50\u6751\u6b63\u30fb\u873b\u86c9\u5207",
+      "url": "https://open.spotify.com/track/6BKX5e0AwAhKlEW3iKTBdX"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265146,
+      "name": "In My Groove song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/2ALXJBth2tCqElEkRRkHsk"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265146,
+      "name": "In My Groove song by \u9db4\u4e38\u56fd\u6c38",
+      "url": "https://open.spotify.com/track/5j416AmJfL8GE0gIm4wJWj"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 264573,
+      "name": "In My Groove\u3000song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/7KFv73QXKE2HOcQCE9sqoG"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type C)",
+        "url": "https://open.spotify.com/album/1GuLV990xSg70hJVxa7prf"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229034,
+      "name": "Jackal",
+      "url": "https://open.spotify.com/track/2TxDhkiiCq4a318MPfMwhB"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229034,
+      "name": "Jackal",
+      "url": "https://open.spotify.com/track/2UiA8DKoAlRVXNdpQ83GHB"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/1lzUtHyJTB4fYMxpTkeBcO"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229034,
+      "name": "Jackal",
+      "url": "https://open.spotify.com/track/3jk5qcSwlOjOq9H5PTcAvw"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "Just Time song by Higekiri\u30fbHizamaru",
+      "url": "https://open.spotify.com/track/7lj2WC4qZctOf1tbY2MH0v"
+    },
+    {
+      "album": {
+        "name": "BE IN SIGHT (Type E)",
+        "url": "https://open.spotify.com/album/7DeO0LGRoAqBe5sHbIHuOF"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 225461,
+      "name": "Just Time song by \u9aed\u5207\u30fb\u819d\u4e38",
+      "url": "https://open.spotify.com/track/3lRRqgKZS9WcMNRPln0sOv"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 227320,
+      "name": "Just Time song by \u9aed\u5207\u30fb\u819d\u4e38",
+      "url": "https://open.spotify.com/track/1yVJrx7Ubk4jit93xbLqpC"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248306,
+      "name": "Kachi ni ikuze baby",
+      "url": "https://open.spotify.com/track/0IzMZp2uGmLF30YnAffbtc"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Mihotose no Komoriuta- Tsuujouban",
+        "url": "https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206386,
+      "name": "Kazenosakie song by Monoyoshi Sadamune\u30fbOokurikara",
+      "url": "https://open.spotify.com/track/15kdjdWI7AP6YBi2RXYTxe"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Kemono",
+      "url": "https://open.spotify.com/track/3S7nVmctqQqRdq3aSY34s4"
+    },
+    {
+      "album": {
+        "name": "Kessennotoki (Type B)",
+        "url": "https://open.spotify.com/album/3uaxDUiSXRZM86KyxA0ujo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 241786,
+      "name": "Kemono",
+      "url": "https://open.spotify.com/track/4KaGisBsgnGpd4tJUshjNE"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291760,
+      "name": "Kessennotoki",
+      "url": "https://open.spotify.com/track/2cpDMutpW3j6LsaH1DA0Ok"
+    },
+    {
+      "album": {
+        "name": "Kessennotoki (Type E)",
+        "url": "https://open.spotify.com/album/1htG8GSQpapPOXlswFAdot"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 293146,
+      "name": "Kessennotoki",
+      "url": "https://open.spotify.com/track/1OF80Sqs7jwItIAsCuIYzA"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type B)",
+        "url": "https://open.spotify.com/album/6dTvLfH0mrTiHnNaAtLy3I"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "KEY MAN",
+      "url": "https://open.spotify.com/track/4tKW4baJjCPmUvUGMs2eBV"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "KEY MAN",
+      "url": "https://open.spotify.com/track/3nd4pCBza4c7Rgx6NqV4Sp"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "Kimi to miageta anohi no sora ni song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/0uqsXm1pMh5XBJ4rNeJ6Hq"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type D)",
+        "url": "https://open.spotify.com/album/3uL8D6DxmMxMgA2zD3c5o2"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "Kimiwosagashiteta song by Horikawakunihiro",
+      "url": "https://open.spotify.com/track/0cXg8FUU9jPhxKhJFznpbQ"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Mihotose no Komoriuta- Tsuujouban",
+        "url": "https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293560,
+      "name": "Kodou",
+      "url": "https://open.spotify.com/track/0vM5j5XDbX41eTM7tYmejw"
+    },
+    {
+      "album": {
+        "name": "Kodou (Type F)",
+        "url": "https://open.spotify.com/album/7mLyfxfFXBCgemevr5mnzP"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 294746,
+      "name": "Kodou",
+      "url": "https://open.spotify.com/track/3ZETOHlBzrd1t9mBqJ4571"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Lose Your Mind\u3000Song By Oodenta Mitsuyo\u30fbSuishinshi Masahide",
+      "url": "https://open.spotify.com/track/4zg6I3gJDpQAVVtZSB6WPN"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4B)",
+        "url": "https://open.spotify.com/album/48mjcpdcVkmdRWJarbliTT"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278485,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1e8jvWXSQnOaGLDHoTPcJQ"
+    },
+    {
+      "album": {
+        "name": "Hogiuta",
+        "url": "https://open.spotify.com/album/5NUMzaHKpGKOA0VSL77V3p"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u5927\u7de8\u6210 \u58fd2021",
+          "url": "https://open.spotify.com/artist/2pBAx7TMWSq0K2tZvsk65L"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293680,
+      "name": "Mahoroba ni",
+      "url": "https://open.spotify.com/track/5MDsbvzfTraFDaEtdPCZmL"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271800,
+      "name": "Million Melodies",
+      "url": "https://open.spotify.com/track/38MKsKtQgJiUGsbqV0lpQu"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~ (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 271800,
+      "name": "Million Melodies",
+      "url": "https://open.spotify.com/track/6g2czfw2i7xi2Zwd59We2O"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u963f\u6d25\u8cc0\u5fd7\u5c71\u7570\u805e\uff5e",
+        "url": "https://open.spotify.com/album/4JWftAfzMc1Pd1dK61nQKE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "mistake",
+      "url": "https://open.spotify.com/track/3Aeg5yxxu0fX80CgyKDBMS"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u306b\u3063\u304b\u308a\u9752\u6c5f",
+          "url": "https://open.spotify.com/artist/2lHuU6Ms7WbqqbkcayH0GX"
+        },
+        {
+          "name": "\u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/4f5vdL86Piwkqs8iNb0fNA"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267269,
+      "name": "Nameless Fighter",
+      "url": "https://open.spotify.com/track/0lfwbSXbEAuDX48jyJMRe4"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/1lzUtHyJTB4fYMxpTkeBcO"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u306b\u3063\u304b\u308a\u9752\u6c5f",
+          "url": "https://open.spotify.com/artist/2lHuU6Ms7WbqqbkcayH0GX"
+        },
+        {
+          "name": "\u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/4f5vdL86Piwkqs8iNb0fNA"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267269,
+      "name": "Nameless Fighter song by \u306b\u3063\u304b\u308a\u9752\u6c5f\u30fb\u5927\u5036\u5229\u4f3d\u7f85",
+      "url": "https://open.spotify.com/track/0qjQYb0saPaYv36pCuVShT"
+    },
+    {
+      "album": {
+        "name": "Omae ga shitteru (Press Genteiban E)",
+        "url": "https://open.spotify.com/album/42nr7oKez1DMwxISJZpFZX"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/2EE6B4g0TDixqGPCdjTbt8"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 249106,
+      "name": "Omae ga shitteru",
+      "url": "https://open.spotify.com/track/3rs4QZJv8uqdUjRLEnlhFX"
+    },
+    {
+      "album": {
+        "name": "Omae ga shitteru (Press Genteiban A)",
+        "url": "https://open.spotify.com/album/3Dj9cIv8ksTSoBVTJ3fGZo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/4D6QBJCOCzdYjg0cQP72q0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 249106,
+      "name": "Omae ga shitteru",
+      "url": "https://open.spotify.com/track/3wM1WvTw0OHxHe065vp7wt"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical \u201dKosui sanka no yuki\u201d (Tsuujouban)",
+        "url": "https://open.spotify.com/album/3gX1N8LLwmTa5hgU07KuL6"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/2EE6B4g0TDixqGPCdjTbt8"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Omae ga shitteru",
+      "url": "https://open.spotify.com/track/1idG7q6yyMBteSI760qXXm"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Omoi no kanata",
+      "url": "https://open.spotify.com/track/6gZJzvsUjCgnWiuz6zKkDA"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type F)",
+        "url": "https://open.spotify.com/album/5djFjrpGsC1Vc8cwvxxCCL"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Osu",
+      "url": "https://open.spotify.com/track/2z8mT3wFxAyTWRESigWHkU"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175453,
+      "name": "Parasaito\u3000song by kotegirigou\u30fbmatsuigou",
+      "url": "https://open.spotify.com/track/39KH24TkQ8Mpps3KPiTQCK"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u873b\u86c9\u5207",
+          "url": "https://open.spotify.com/artist/6OhDqYEtREqJ7DM0FI8G1X"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239618,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Ym3rc1ShMpWTCzTGIVs6a"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type D)",
+        "url": "https://open.spotify.com/album/7d3hugcRkn8jpi8ci9pBP2"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u873b\u86c9\u5207",
+          "url": "https://open.spotify.com/artist/6OhDqYEtREqJ7DM0FI8G1X"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239618,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/5mY5GyIeHxgzpVUCq1kVF2"
+    },
+    {
+      "album": {
+        "name": "\u52dd\u5229\u306e\u51f1\u6b4c (Type D)",
+        "url": "https://open.spotify.com/album/3MFgNPJeLDWhkTYWd5mynb"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u873b\u86c9\u5207",
+          "url": "https://open.spotify.com/artist/6OhDqYEtREqJ7DM0FI8G1X"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239618,
+      "name": "Real Love song by \u873b\u86c9\u5207",
+      "url": "https://open.spotify.com/track/5fikFpyjuxgkiP8nxtkpSR"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c",
+        "url": "https://open.spotify.com/album/1CYmZ9TBrvwX7gUtZf5iwc"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 229720,
+      "name": "REASON song by Ookurikara",
+      "url": "https://open.spotify.com/track/7AbDSnOk65e3wiXbEHEdux"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
+        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "REASON\u3000song by Ookurikara",
+      "url": "https://open.spotify.com/track/4Xh4oCGr4ye4f2TUBg40pv"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254173,
+      "name": "S song by Akashi Kuniyuki\u30fbOtegine\u30fbKotegirigou",
+      "url": "https://open.spotify.com/track/0JUnWU0lxSwYtzlTLMC7po"
+    },
+    {
+      "album": {
+        "name": "Yakusoku no sora (Type A)",
+        "url": "https://open.spotify.com/album/1DyPjHH5DRVH5DB66ODBc5"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 254173,
+      "name": "S song by Akashi Kuniyuki\u30fbOtegine\u30fbKotegirigou",
+      "url": "https://open.spotify.com/track/4iCi9dpuQgRQENfujNnQR8"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f\u306e\u7a7a (Type A)",
+        "url": "https://open.spotify.com/album/3bik46Z9B5rVrvsaHd2kCA"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254173,
+      "name": "S song by \u660e\u77f3\u56fd\u884c\u30fb\u5fa1\u624b\u6775\u30fb\u7bed\u624b\u5207\u6c5f",
+      "url": "https://open.spotify.com/track/2rpNJD4YQXEXn1bDe0e5QN"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Tsuwamonodomo ga Yumenoato-",
+        "url": "https://open.spotify.com/album/2HXGMpYx1GEn6xg5yXCpVo"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259760,
+      "name": "SA\u30fbKA\u30fbZU\u30fbKI hanakyoudai song by Iwatoshi\u30fbImanotsurugi",
+      "url": "https://open.spotify.com/track/6u7qqn2MZKKVSM3vvIGibz"
+    },
+    {
+      "album": {
+        "name": "BE IN SIGHT (Type C)",
+        "url": "https://open.spotify.com/album/21LcGSyMqx3rORtta9Gl30"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 259362,
+      "name": "SA\u30fbKA\u30fbZU\u30fbKI \u83ef\u5144\u5f1f! song by \u5ca9\u878d\u30fb\u4eca\u5263",
+      "url": "https://open.spotify.com/track/4bYELOSXLyauCw8MIM9Pls"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 259760,
+      "name": "SA\u30fbKA\u30fbZU\u30fbKI \u83ef\u5144\u5f1f! song by \u5ca9\u878d\u30fb\u4eca\u5263",
+      "url": "https://open.spotify.com/track/1asXfq9oasHgSDvB1Ztvb4"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u306e\u9b28 (Type A)",
+        "url": "https://open.spotify.com/album/2jlV1nFV5gurte1db1IaFf"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227853,
+      "name": "Secret Sign",
+      "url": "https://open.spotify.com/track/4dCu7fDfROiWPhUBm5CKU2"
+    },
+    {
+      "album": {
+        "name": "Kessennotoki (Type A)",
+        "url": "https://open.spotify.com/album/3DJ6Xymo5YX21KhgUUPCQz"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 227853,
+      "name": "Secret Sign",
+      "url": "https://open.spotify.com/track/5g4BjF3wWollvYgBbBqpjN"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 228320,
+      "name": "Secret Sign",
+      "url": "https://open.spotify.com/track/0l9zbev6rrCKYtpkH9Mb6F"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Musubi no Hibiki, Hajimari no Ne- (Tsujouban)",
+        "url": "https://open.spotify.com/album/7AtIy4JCAjvv4Ez2haXHSK"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Secret Sign",
+      "url": "https://open.spotify.com/track/1sfqn5UgJrMPC1BBkKkx5u"
+    },
+    {
+      "album": {
+        "name": "Seijyaku no toushi (Type A)",
+        "url": "https://open.spotify.com/album/0rQgGcNC5ms057zlU2PYzT"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9aed\u5207\u819d\u4e38",
+          "url": "https://open.spotify.com/artist/0UAh5oJzG94gxvfG2BqfAR"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "Seijyaku no toushi",
+      "url": "https://open.spotify.com/track/5dCoFY7jxKLVAlIoQoZnuY"
+    },
+    {
+      "album": {
+        "name": "STARTING NOW song by kotegirigou\u30fbbuzengou\u30fbkuwanagou\u30fbmatsuigou\u30fbsamidaregou\u30fbmurakumogou",
+        "url": "https://open.spotify.com/album/46qBqMPBjvzFQpjkYgtRdZ"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 248301,
+      "name": "STARTING NOW song by kotegirigou\u30fbbuzengou\u30fbkuwanagou\u30fbmatsuigou\u30fbsamidaregou\u30fbmurakumogou",
+      "url": "https://open.spotify.com/track/6pxEcZlAtLd1Zv66GRoaHO"
+    },
+    {
+      "album": {
+        "name": "STARTING NOW song by \u7bed\u624b\u5207\u6c5f\u30fb\u8c4a\u524d\u6c5f\u30fb\u6851\u540d\u6c5f\u30fb\u677e\u4e95\u6c5f\u30fb\u4e94\u6708\u96e8\u6c5f\u30fb\u6751\u96f2\u6c5f",
+        "url": "https://open.spotify.com/album/6cukVb2S7Xe9GSEPDYjEmx"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 248301,
+      "name": "STARTING NOW song by \u7bed\u624b\u5207\u6c5f\u30fb\u8c4a\u524d\u6c5f\u30fb\u6851\u540d\u6c5f\u30fb\u677e\u4e95\u6c5f\u30fb\u4e94\u6708\u96e8\u6c5f\u30fb\u6751\u96f2\u6c5f",
+      "url": "https://open.spotify.com/track/5kkOIi2OvVoAvJj8dC19N1"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "STARTING NOW\u3000Song By Kotegirigou\u30fbBuzengou\u30fbKuwanagou\u30fbMatsuigou\u30fbSamidaregou\u30fbMurakumogou",
+      "url": "https://open.spotify.com/track/5YlshFy804mSNsd5vrRqnA"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Mihotose no Komoriuta- Tsuujouban",
+        "url": "https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Stay with me",
+      "url": "https://open.spotify.com/track/4QA5AWRV4vK0WL5Ogctmhb"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u55042019~ (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/6YFckZPiDHWcNWDoxYg6yS"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197333,
+      "name": "Stay with me",
+      "url": "https://open.spotify.com/track/5R4AKXqfS1pRzAAtD9tLOb"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Supernova song by Matsuigou",
+      "url": "https://open.spotify.com/track/0uLyrydEdCf9dtbieozMct"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249066,
+      "name": "Supernova song by \u677e\u4e95\u6c5f",
+      "url": "https://open.spotify.com/track/00zCNF7QI81NUN1sAmEzTH"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 248680,
+      "name": "Supernova\u3000song by Matsuigou",
+      "url": "https://open.spotify.com/track/0sOfc5BMWCWRx9FE0WW68l"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u9aed\u5207\u819d\u4e38 \u53cc\u9a0e\u51fa\u96632019 ~SOGA~",
+        "url": "https://open.spotify.com/album/1E9xMIPQZcUNBRPJv1KdiH"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9aed\u5207\u819d\u4e38",
+          "url": "https://open.spotify.com/artist/0UAh5oJzG94gxvfG2BqfAR"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220176,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1ZEnY90ivr06e6hMd52GOb"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical \u201dHIGEKIRI HIZAMARU DUO PERFORMANCE2019 ~SOGA~\u201d/Touken Danshi Higekiri Hizamaru",
+        "url": "https://open.spotify.com/album/2SOZKy25E1nawmUp97C92U"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9aed\u5207\u819d\u4e38",
+          "url": "https://open.spotify.com/artist/0UAh5oJzG94gxvfG2BqfAR"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220176,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4qdyL8wmAX2hJSFuMdst59"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272213,
+      "name": "Sutorenjaa\u3000song by buzengou",
+      "url": "https://open.spotify.com/track/4cjYUsmYrQOguV2NHOO87q"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Mihotose no Komoriuta- Tsuujouban",
+        "url": "https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "Tegatodokumade song by Ishikirimaru\u30fbNikkari Aoe",
+      "url": "https://open.spotify.com/track/5oLsyUkJhHcUUpQMCGOUfr"
+    },
+    {
+      "album": {
+        "name": "Kodou (Type B)",
+        "url": "https://open.spotify.com/album/2RbrWrbLj6HyHXzfkqrazV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234400,
+      "name": "Tegatodokumade song by Ishikirimaru\u30fbNikkariaoe",
+      "url": "https://open.spotify.com/track/10tgNtRvYSK3VsWRm6IM9e"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Bakumatsu Tenroden- 2020 Tsuujouban",
+        "url": "https://open.spotify.com/album/43CWWNEdsi2yOvV1aU4MGT"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174093,
+      "name": "Tenrou song by Kondou Isami\uff65Hijikata Toshizou\uff65Okita Souji",
+      "url": "https://open.spotify.com/track/44dEFDfC6iw1XuVdFEnKaY"
+    },
+    {
+      "album": {
+        "name": "UNBROKEN",
+        "url": "https://open.spotify.com/album/5brIGDzKED1UKQoQpxmQSG"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        },
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271252,
+      "name": "UNBROKEN",
+      "url": "https://open.spotify.com/track/0J2hwhXPxrXSDH86x28fTU"
+    },
+    {
+      "album": {
+        "name": "UNBROKEN",
+        "url": "https://open.spotify.com/album/5MG59WBRNGgZrPgpvpRuNa"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        },
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271252,
+      "name": "UNBROKEN",
+      "url": "https://open.spotify.com/track/38Cv1Cm222FE3Hqo6ZatYt"
+    },
+    {
+      "album": {
+        "name": "SINGularity",
+        "url": "https://open.spotify.com/album/0z6d7zSYf9ZFkQA9kFsmEe"
+      },
+      "artists": [
+        {
+          "name": "Takanori Nishikawa",
+          "url": "https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz"
+        },
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275880,
+      "name": "UNBROKEN",
+      "url": "https://open.spotify.com/track/2CZoAt0yAQbKtgPfEDGdHO"
+    },
+    {
+      "album": {
+        "name": "VIVA CARNIVAL",
+        "url": "https://open.spotify.com/album/68dM7ZvgcYv1YMX9MZDbGC"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f \u304a\u3093 \u3059\u3066\u3044\u3058",
+          "url": "https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "VIVA CARNIVAL",
+      "url": "https://open.spotify.com/track/4QgN6XqVa3TtzD8WMfTXQn"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Kishouhongi- Tsuujouban",
+        "url": "https://open.spotify.com/album/2KjVK5OAKenxaLlOXpZtGM"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Yakusoku no sora",
+      "url": "https://open.spotify.com/track/0Q44ZJhH1iWbjpxLvT95Hc"
+    },
+    {
+      "album": {
+        "name": "Yakusoku no sora (Type C)",
+        "url": "https://open.spotify.com/album/1QWg1BAdbJOMg0P299biri"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257746,
+      "name": "Yakusoku no sora",
+      "url": "https://open.spotify.com/track/6GVOXFLLbappnAXc62mtlF"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 199693,
+      "name": "Yellow Sac Spider song by Ookurikara\u30fbBuzengou",
+      "url": "https://open.spotify.com/track/7tar2x21EFNywex6gJ5YF7"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199693,
+      "name": "Yellow Sac Spider song by \u5927\u5036\u5229\u4f3d\u7f85\u30fb\u8c4a\u524d\u6c5f",
+      "url": "https://open.spotify.com/track/4UYO6FBrspx76RfO49BgOD"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Yellow Sac Spider\u3000song by Ookurikara\u30fbBuzengou",
+      "url": "https://open.spotify.com/track/3k224h3gmbCOc32CnaWBi5"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231573,
+      "name": "YUKARI",
+      "url": "https://open.spotify.com/track/0jUoi8hH8JFkNaVHxV7xC5"
+    },
+    {
+      "album": {
+        "name": "Free Style",
+        "url": "https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 231573,
+      "name": "YUKARI",
+      "url": "https://open.spotify.com/track/1IkRC7RBWK7JrlFP5BIEXA"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical -Shizuka no Umi no Para\u00edso- (Tsuujouban)",
+        "url": "https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "YUKARI",
+      "url": "https://open.spotify.com/track/4diJhuOfSnpjCwUuooN9Fc"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c",
+        "url": "https://open.spotify.com/album/1CYmZ9TBrvwX7gUtZf5iwc"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 196226,
+      "name": "Zanzou song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/7Lbs8crXdkBoikjFGZGkKH"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu\uff1aThe Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE \u301cShunpu Touri no Sakazuki\u301c (Tsujoban)",
+        "url": "https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9db4\u4e38\u56fd\u6c38 \u5927\u5036\u5229\u4f3d\u7f85",
+          "url": "https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "Zanzou\u3000song by Tsurumaru Kuninaga",
+      "url": "https://open.spotify.com/track/5eitqCfIugK63QNXzMIEC0"
+    },
+    {
+      "album": {
+        "name": "Touken Ranbu:The Musical -Bakumatsu Tenroden- 2020 Tsuujouban",
+        "url": "https://open.spotify.com/album/43CWWNEdsi2yOvV1aU4MGT"
+      },
+      "artists": [
+        {
+          "name": "Touken Danshi team Shinsengumi with Hachisukakotetsu",
+          "url": "https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "\u300eTouken Ranbu\u300f -Bakumatsu Tenroden-",
+      "url": "https://open.spotify.com/track/33IOXADTEX1rpKYRhyNCuP"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u3068 \u79c1\u3068",
+        "url": "https://open.spotify.com/album/5JEKcuuo1FlmE8ikipcLfV"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "\u3042\u306a\u305f\u3068 \u79c1\u3068",
+      "url": "https://open.spotify.com/track/6rdm0329S3A3HGXKTKKtCv"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e-ONLINE- \u6b4c\u66f2\u96c6\u3068\u7269\u8a9e\u300c\u3042\u306a\u305f\u3068 \u79c1\u3068\u300d",
+        "url": "https://open.spotify.com/album/4FHscZmVKgCyqgFIViPBoB"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251453,
+      "name": "\u3042\u306a\u305f\u3068 \u79c1\u3068",
+      "url": "https://open.spotify.com/track/4DsknIfnPWztaAqO8wcTIy"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u516d)",
+        "url": "https://open.spotify.com/album/4IQnaxZh3zPwDziEcXYkeC"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "\u3044\u3064\u3001\u4f55\u6642\u3082",
+      "url": "https://open.spotify.com/track/5EXqsVGF5mash2CMwawhyH"
+    },
+    {
+      "album": {
+        "name": "\u304a\u524d\u304c\u77e5\u3063\u3066\u308b (\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4A)",
+        "url": "https://open.spotify.com/album/3LFG8fBwxWAPwHiie2iZmh"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u6c5f\u6c34\u6563\u82b1\u96ea",
+          "url": "https://open.spotify.com/artist/4D6QBJCOCzdYjg0cQP72q0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 249106,
+      "name": "\u304a\u524d\u304c\u77e5\u3063\u3066\u308b",
+      "url": "https://open.spotify.com/track/11VzxgwfMSAegCjrR5xFt5"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4E)",
+        "url": "https://open.spotify.com/album/1ZhgZNjMNR7q0Z3UvDqOW2"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u4eca\u5263",
+          "url": "https://open.spotify.com/artist/3rYTbf1KoWmW1fpqRlV9lO"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137464,
+      "name": "\u304d\u3089\u304d\u3089",
+      "url": "https://open.spotify.com/track/5hmZSiFUS3CuSfZ03EMYri"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "\u3072\u3068\u3072\u3089\u306e\u98a8",
+      "url": "https://open.spotify.com/track/2dsVuSylvf0M2zUmnYLSUK"
+    },
+    {
+      "album": {
+        "name": "\u58fd\u6b4c(\u307b\u304e\u3046\u305f)",
+        "url": "https://open.spotify.com/album/67prESJgJHlkbsMLTG7SwP"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u5927\u7de8\u6210 \u58fd2021",
+          "url": "https://open.spotify.com/artist/2pBAx7TMWSq0K2tZvsk65L"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293680,
+      "name": "\u307e\u307b\u308d\u3070\u306b",
+      "url": "https://open.spotify.com/track/4JWB4K8BqWbZRfFzNZKtL4"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e94)",
+        "url": "https://open.spotify.com/album/0kiTMmUArhRpStDQj6rAvn"
+      },
+      "artists": [
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9(CV:\u8208\u6d25\u548c\u5e78)",
+          "url": "https://open.spotify.com/artist/0tXgVxV7LyBxJ9KtAQ9K3C"
+        },
+        {
+          "name": "\u6d66\u5cf6\u864e\u5fb9(CV:\u798f\u5cf6\u6f64)",
+          "url": "https://open.spotify.com/artist/6kCqBtuwQ55PmRHiZARoiF"
+        },
+        {
+          "name": "\u9577\u66fd\u7962\u864e\u5fb9(CV:\u65b0\u57a3\u6a3d\u52a9)",
+          "url": "https://open.spotify.com/artist/52sCUwcsnxZwughHOHctHj"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "\u307f\u3061\u3086\u304d\u3001\u5bc4\u308a\u5408\u3044",
+      "url": "https://open.spotify.com/track/3WuVMDvKiDYY56YTocYWfP"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f\u306e\u7a7a (Type D)",
+        "url": "https://open.spotify.com/album/5LLkpequyk2cclOpldsfZh"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263666,
+      "name": "\u30ad\u30df\u3068\u898b\u4e0a\u3052\u305f\u3042\u306e\u65e5\u306e\u7a7a\u306b song by \u9db4\u4e38\u56fd\u6c38",
+      "url": "https://open.spotify.com/track/72aTx1b0buHhui9N36rL8Y"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u963f\u6d25\u8cc0\u5fd7\u5c71\u7570\u805e\uff5e",
+        "url": "https://open.spotify.com/album/4JWftAfzMc1Pd1dK61nQKE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "\u30ad\u30df\u306e\u8a69",
+      "url": "https://open.spotify.com/track/0D2SIWCINYZSm81lT6dFEV"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "\u30e6\u30e1\u3072\u3068\u3064",
+      "url": "https://open.spotify.com/track/2aw1WID9wXzr4m3cvwLGIj"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u516b)",
+        "url": "https://open.spotify.com/album/2e1QdAumZ1cD6Y6DBUXmjw"
+      },
+      "artists": [
+        {
+          "name": "\u4e80\u7532\u8c9e\u5b97(CV:\u5c71\u4e2d\u771f\u5c0b)",
+          "url": "https://open.spotify.com/artist/1dW0DzUMQrwPcBnlo1M15q"
+        },
+        {
+          "name": "\u5343\u5b50\u6751\u6b63(CV:\u8acf\u8a2a\u90e8\u9806\u4e00)",
+          "url": "https://open.spotify.com/artist/7nkycLDQ6E9sx4jue2yyAb"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287253,
+      "name": "\u4e00\u5bfe\u306e\u706b\u82b1\u3001\u79d8\u3081\u4e8b\u306b\u89e6\u308c",
+      "url": "https://open.spotify.com/track/72xRbMQVczvYIxh1q6l2CP"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u306e\u9b28 (Type D)",
+        "url": "https://open.spotify.com/album/3wc9Yuii7Ig2iLbepPvm0H"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240213,
+      "name": "\u50d5\u304c\u3044\u308b\u5834\u6240 song by \u5800\u5ddd\u56fd\u5e83",
+      "url": "https://open.spotify.com/track/1rKebM5HnjvnD8pNipvPDI"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 240320,
+      "name": "\u50d5\u304c\u3044\u308b\u5834\u6240 song by \u5800\u5ddd\u56fd\u5e83",
+      "url": "https://open.spotify.com/track/6cz40aS8Ulxl96ey1sJYEL"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u8475\u54b2\u672c\u7d00~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4EzSFTCI5nnBbrcJpXtoV9"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260640,
+      "name": "\u50d5\u305f\u3061\u306e\u660e\u65e5\u3078",
+      "url": "https://open.spotify.com/track/0q2KhIQuJiPngGg7M4EYUw"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u963f\u6d25\u8cc0\u5fd7\u5c71\u7570\u805e\uff5e",
+        "url": "https://open.spotify.com/album/4JWftAfzMc1Pd1dK61nQKE"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283600,
+      "name": "\u5200\u5263\u4e71\u821e",
+      "url": "https://open.spotify.com/track/17lsS5Q2p1oOyAV7Jo8yLQ"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f\u306e\u7a7a (Type F)",
+        "url": "https://open.spotify.com/album/3Pv7nTYTI6aLsUVtEyDGyL"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248306,
+      "name": "\u52dd\u3061\u306b\u884c\u304f\u305c\u30d9\u30a4\u30d9\u30fc",
+      "url": "https://open.spotify.com/track/2X0QeyfHYQXTJD8xx9X8S0"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504\uff5e (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/3BeYuxZwzbuOhtDtegfM6K"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273426,
+      "name": "\u52dd\u5229\u306e\u51f1\u6b4c",
+      "url": "https://open.spotify.com/track/5Z2x4nIep4hrUNcolg1XnD"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u4e09\u767e\u5e74\u306e\u5b50\u5b88\u5504~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/1lzUtHyJTB4fYMxpTkeBcO"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273426,
+      "name": "\u52dd\u5229\u306e\u51f1\u6b4c",
+      "url": "https://open.spotify.com/track/6kGuchq96ZJ4JkABzbnGXm"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u3064\u306f\u3082\u306e\u3069\u3082\u304c\u3086\u3081\u306e\u3042\u3068~",
+        "url": "https://open.spotify.com/album/6hqtv0hP6FSldh8U9sdWtk"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u3064\u306f\u3082\u306e",
+          "url": "https://open.spotify.com/artist/4EuE7tmw1nUsxGGsuvhW7D"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 146840,
+      "name": "\u53cc\u3064\u306e\u8ecc\u8de1~\u3068\u306a\u308a~ song by \u9aed\u5207\u30fb\u819d\u4e38",
+      "url": "https://open.spotify.com/track/7e5tkhaK9FrBhx0dAIoZTT"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4D)",
+        "url": "https://open.spotify.com/album/3hpQONJfb1WqAC76ycf02V"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u5ca9\u878d",
+          "url": "https://open.spotify.com/artist/38TMuaHVygtqHhu8E3nXTa"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137693,
+      "name": "\u540d\u6b8b\u6708",
+      "url": "https://open.spotify.com/track/26vtCmoXfMoqSYVom3DFmq"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f~\u96ea\u30ce\u5dfb~ \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/6sMOYDhrMSCeshAtA7RR5e"
+      },
+      "artists": [
+        {
+          "name": "\u9678\u5965\u5b88\u5409\u884c(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/3uqu8kSwAaGi2unDKlImEM"
+        },
+        {
+          "name": "\u80a5\u524d\u5fe0\u5e83(CV:\u5c0f\u677e\u660c\u5e73)",
+          "url": "https://open.spotify.com/artist/1oR27Q14ppUHJd1ByQRx4z"
+        },
+        {
+          "name": "\u5357\u6d77\u592a\u90ce\u671d\u5c0a(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/36MRr15kK9cLYDSiXojU4c"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245516,
+      "name": "\u591c\u660e\u3051\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/1rOnhlXojrSA7ouuabKIqp"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f\uff5e\u96ea\u30ce\u5dfb\uff5e \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/1Y580xCXoD5BNMuqnIEFr0"
+      },
+      "artists": [
+        {
+          "name": "\u9678\u5965\u5b88\u5409\u884c(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/3uqu8kSwAaGi2unDKlImEM"
+        },
+        {
+          "name": "\u80a5\u524d\u5fe0\u5e83(CV:\u5c0f\u677e\u660c\u5e73)",
+          "url": "https://open.spotify.com/artist/1oR27Q14ppUHJd1ByQRx4z"
+        },
+        {
+          "name": "\u5357\u6d77\u592a\u90ce\u671d\u5c0a(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/36MRr15kK9cLYDSiXojU4c"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245516,
+      "name": "\u591c\u660e\u3051\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/5gINtO8cGUANtWDwKF6wxm"
+    },
+    {
+      "album": {
+        "name": "\u5922\u73fe\u4e71\u821e\u6284",
+        "url": "https://open.spotify.com/album/21PptJk8PSOwDeefiUAgNM"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u57a3\u594f\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/40Wb4bvDlpYoYehqerhDzo"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258187,
+      "name": "\u5922\u73fe\u4e71\u821e\u6284",
+      "url": "https://open.spotify.com/track/3wEaymaPWw5pL06jrSweMx"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e00)",
+        "url": "https://open.spotify.com/album/2FAhYSDgFB036wWxgNqyb0"
+      },
+      "artists": [
+        {
+          "name": "\u9aed\u5207(CV:\u82b1\u6c5f\u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/3JocUqtRvFCFJ58kuSs5Ha"
+        },
+        {
+          "name": "\u819d\u4e38(CV:\u5ca1\u672c\u4fe1\u5f66)",
+          "url": "https://open.spotify.com/artist/0sulAfHDZkLor0HCD0d2W2"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244253,
+      "name": "\u5929\u3068\u66a6",
+      "url": "https://open.spotify.com/track/32rHqIAh7nl8hKR3O5wl3b"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e-ONLINE- \u6b4c\u66f2\u96c6\u3068\u7269\u8a9e\u300c\u3042\u306a\u305f\u3068 \u79c1\u3068\u300d",
+        "url": "https://open.spotify.com/album/4FHscZmVKgCyqgFIViPBoB"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u6b4c\u4ed9\u517c\u5b9a(CV:\u77f3\u5ddd\u754c\u4eba)",
+          "url": "https://open.spotify.com/artist/3rNKAOUOON9e58l3mKEhBX"
+        },
+        {
+          "name": "\u9678\u5965\u5b88\u5409\u884c(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/3uqu8kSwAaGi2unDKlImEM"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u56fd\u5e83(CV:\u524d\u91ce\u667a\u662d)",
+          "url": "https://open.spotify.com/artist/1Ygn4oDpyPm1kxO2dACSqC"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9(CV:\u8208\u6d25\u548c\u5e78)",
+          "url": "https://open.spotify.com/artist/0tXgVxV7LyBxJ9KtAQ9K3C"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294466,
+      "name": "\u59cb\u307e\u308a\u306e\u4e94\u632f\u308a\u5408\u5531\u300c\u3042\u306a\u305f\u3068 \u79c1\u3068\u300d",
+      "url": "https://open.spotify.com/track/71usyNugffZgHeGBZXPi9u"
+    },
+    {
+      "album": {
+        "name": "\u5e0c\u671b\u306e\u706f",
+        "url": "https://open.spotify.com/album/5XC0iszzPuhN3iYcrgFDM7"
+      },
+      "artists": [
+        {
+          "name": "\u7bed\u624b\u5207\u6c5f(CV:\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/115BIEA328byOypbI6OKgi"
+        },
+        {
+          "name": "\u8c4a\u524d\u6c5f(CV:\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/5AtjDGX0Rr0I1dKCgBTrAj"
+        },
+        {
+          "name": "\u6851\u540d\u6c5f(CV:\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/5Egef4yElwDggJ5CZzIs4g"
+        },
+        {
+          "name": "\u677e\u4e95\u6c5f(CV:\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4UvMb1xm0aRLJGuO8fFBfb"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 270714,
+      "name": "\u5e0c\u671b\u306e\u706f",
+      "url": "https://open.spotify.com/track/2Onx7YcYE8Ar7c594F7c5k"
+    },
+    {
+      "album": {
+        "name": "\u5e0c\u671b\u306e\u706f",
+        "url": "https://open.spotify.com/album/7HOa41pJQoVeu2byCMTsWf"
+      },
+      "artists": [
+        {
+          "name": "\u7bed\u624b\u5207\u6c5f(CV:\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/115BIEA328byOypbI6OKgi"
+        },
+        {
+          "name": "\u8c4a\u524d\u6c5f(CV:\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/5AtjDGX0Rr0I1dKCgBTrAj"
+        },
+        {
+          "name": "\u6851\u540d\u6c5f(CV:\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/5Egef4yElwDggJ5CZzIs4g"
+        },
+        {
+          "name": "\u677e\u4e95\u6c5f(CV:\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4UvMb1xm0aRLJGuO8fFBfb"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270714,
+      "name": "\u5e0c\u671b\u306e\u706f",
+      "url": "https://open.spotify.com/track/7wOS2WUls4cMZq84NZIJKx"
+    },
+    {
+      "album": {
+        "name": "\u5e55\u9593\u9591\u8a71",
+        "url": "https://open.spotify.com/album/6G1I2NZmgqJdtYnxBbz4Vv"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u864e\u9000(CV:\u7c95\u8c37\u96c4\u592a)",
+          "url": "https://open.spotify.com/artist/7AIPHtuowFNc60zpUTV3XV"
+        },
+        {
+          "name": "\u5357\u6cc9\u4e00\u6587\u5b57(CV:\u6cb3\u897f\u5065\u543e)",
+          "url": "https://open.spotify.com/artist/2VYC3YSxh1iEEYWf1JfcKA"
+        },
+        {
+          "name": "\u5c0f\u8c46\u9577\u5149(CV:\u5ddd\u539f\u6176\u4e45)",
+          "url": "https://open.spotify.com/artist/2bXHqT7IdN9DKwQgQ2AEOi"
+        },
+        {
+          "name": "\u8b19\u4fe1\u666f\u5149(CV:\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/3xr8EatLzuhDWPKRBgfYHx"
+        },
+        {
+          "name": "\u5c71\u9ce5\u6bdb(CV:\u4e95\u4e0a\u548c\u5f66)",
+          "url": "https://open.spotify.com/artist/3gA8sPXakqhww74Nybrdjm"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286885,
+      "name": "\u5e55\u9593\u9591\u8a71",
+      "url": "https://open.spotify.com/track/1Hp4fKK01jOEIZcKh77jmz"
+    },
+    {
+      "album": {
+        "name": "\u5e55\u9593\u9591\u8a71",
+        "url": "https://open.spotify.com/album/6autK23KQE3FJKI2aVLGxy"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u864e\u9000(CV:\u7c95\u8c37\u96c4\u592a)",
+          "url": "https://open.spotify.com/artist/7AIPHtuowFNc60zpUTV3XV"
+        },
+        {
+          "name": "\u5357\u6cc9\u4e00\u6587\u5b57(CV:\u6cb3\u897f\u5065\u543e)",
+          "url": "https://open.spotify.com/artist/2VYC3YSxh1iEEYWf1JfcKA"
+        },
+        {
+          "name": "\u5c0f\u8c46\u9577\u5149(CV:\u5ddd\u539f\u6176\u4e45)",
+          "url": "https://open.spotify.com/artist/2bXHqT7IdN9DKwQgQ2AEOi"
+        },
+        {
+          "name": "\u8b19\u4fe1\u666f\u5149(CV:\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/3xr8EatLzuhDWPKRBgfYHx"
+        },
+        {
+          "name": "\u5c71\u9ce5\u6bdb(CV:\u4e95\u4e0a\u548c\u5f66)",
+          "url": "https://open.spotify.com/artist/3gA8sPXakqhww74Nybrdjm"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286885,
+      "name": "\u5e55\u9593\u9591\u8a71",
+      "url": "https://open.spotify.com/track/5pFod8Sf5PE19nsmWve7TW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e8c)",
+        "url": "https://open.spotify.com/album/7ExK4q11IO8UUVxHLn66q7"
+      },
+      "artists": [
+        {
+          "name": "\u3078\u3057\u5207\u9577\u8c37\u90e8(CV:\u65b0\u57a3\u6a3d\u52a9)",
+          "url": "https://open.spotify.com/artist/7rNYTxMPMCkqDQU6rXvLEM"
+        },
+        {
+          "name": "\u5b97\u4e09\u5de6\u6587\u5b57(CV:\u6cf0\u52c7\u6c17)",
+          "url": "https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo"
+        },
+        {
+          "name": "\u85ac\u7814\u85e4\u56db\u90ce(CV:\u5c71\u4e0b\u8aa0\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212240,
+      "name": "\u5fc3\u9b42\u306e\u5728\u51e6",
+      "url": "https://open.spotify.com/track/5GjmkFhEjtY1MF5IGDyz9f"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u9759\u304b\u306e\u6d77\u306e\u30d1\u30e9\u30a4\u30bd~ (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/2TU5uyKCXabUYqkQ82liA1"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259000,
+      "name": "\u60f3\u3044\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/64CKsB9w305TRYeDucjH3l"
+    },
+    {
+      "album": {
+        "name": "\u9f13\u52d5 (Type B)",
+        "url": "https://open.spotify.com/album/7zugVFCn4Bio4gaHFkU1pP"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234400,
+      "name": "\u624b\u304c\u5c4a\u304f\u307e\u3067 song by \u77f3\u5207\u4e38\u30fb\u306b\u3063\u304b\u308a\u9752\u6c5f",
+      "url": "https://open.spotify.com/track/4J5sxlinrGC1m5zU3E49VU"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lips (Type F)",
+        "url": "https://open.spotify.com/album/3WvRrTdlel605ALczxJLUc"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238346,
+      "name": "\u62bc\u5fcd!",
+      "url": "https://open.spotify.com/track/7lPtmnyG1j39rU5hVcdgkf"
+    },
+    {
+      "album": {
+        "name": "Lost The Memory (Type E)",
+        "url": "https://open.spotify.com/album/2c5PHmFwT6Ox7JWTbdtMp0"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268268,
+      "name": "\u65ad\u7136\u3001\u541b\u306b\u604b\u3057\u3066\u308b! song by \u77f3\u5207\u4e38\u30fb\u5ca9\u878d\u30fb\u4eca\u5263",
+      "url": "https://open.spotify.com/track/5Ya27p05Aoh2wVmv1uEeEi"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e8c)",
+        "url": "https://open.spotify.com/album/1KcWLRnX1XWPqGmTbxVEYA"
+      },
+      "artists": [
+        {
+          "name": "\u9bf0\u5c3e\u85e4\u56db\u90ce(CV:\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0sjh3pJxfTNquKFYffVeMp"
+        },
+        {
+          "name": "\u9aa8\u55b0\u85e4\u56db\u90ce(CV:\u9234\u6728\u88d5\u6597)",
+          "url": "https://open.spotify.com/artist/7Cy0oeosGKHEUayLVg80hQ"
+        },
+        {
+          "name": "\u4e00\u671f\u4e00\u632f(CV:\u7530\u4e38\u7be4\u5fd7)",
+          "url": "https://open.spotify.com/artist/6DrDhW6NisUoNwoSviiJsY"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262453,
+      "name": "\u660e\u65e5\u5929\u6c17\u306b\u306a\u3042\u308c",
+      "url": "https://open.spotify.com/track/7gqsz2fubrN3hi3yakr13O"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e94)",
+        "url": "https://open.spotify.com/album/0dJxH139yZliv4pQwRZF4U"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u5263(CV:\u5c71\u4e0b\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/3AOne5vyjHnAJPKkwNMUTF"
+        },
+        {
+          "name": "\u5ca9\u878d(CV:\u5bae\u4e0b\u6804\u6cbb)",
+          "url": "https://open.spotify.com/artist/5ktX6MzxuJI1aUjuDERekU"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "\u6681\u306e\u661f",
+      "url": "https://open.spotify.com/track/7zOs9DNp0yNCiPK1OTtYea"
+    },
+    {
+      "album": {
+        "name": "\u685c\u82b1\u306e\u4fbf\u308a",
+        "url": "https://open.spotify.com/album/12LTmx876s16KyTXS2JqXD"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 283014,
+      "name": "\u685c\u82b1\u306e\u4fbf\u308a",
+      "url": "https://open.spotify.com/track/3GS3tPz7N6dw6ynNH0or8X"
+    },
+    {
+      "album": {
+        "name": "\u685c\u82b1\u306e\u4fbf\u308a",
+        "url": "https://open.spotify.com/album/2S853ffNnU0ZHME0wJVYrV"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283014,
+      "name": "\u685c\u82b1\u306e\u4fbf\u308a",
+      "url": "https://open.spotify.com/track/48NznNev2ziqjrSQ1FB3PL"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 291760,
+      "name": "\u6c7a\u6226\u306e\u9b28",
+      "url": "https://open.spotify.com/track/6YB3M6PQcBsoLuTcFIqNlC"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u306e\u9b28 (Type F)",
+        "url": "https://open.spotify.com/album/6Fg4MFZdLdhQrg8qnjcIfB"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293146,
+      "name": "\u6c7a\u6226\u306e\u9b28",
+      "url": "https://open.spotify.com/track/5B0Gr3g3bcPbcca8W9Q243"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 241586,
+      "name": "\u7363",
+      "url": "https://open.spotify.com/track/6ST8INBu0YPFK2jVAqZMx8"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u306e\u9b28 (Type B)",
+        "url": "https://open.spotify.com/album/2ynStnU7dUYMWXKkcmCnKh"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241786,
+      "name": "\u7363",
+      "url": "https://open.spotify.com/track/6lgHHQv6LrIzJWHQvaGRn2"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f\u306e\u7a7a (Type E)",
+        "url": "https://open.spotify.com/album/5BcqYaFQDqn0sCgzPtdoRO"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u8475\u54b2",
+          "url": "https://open.spotify.com/artist/0VJVGW9NDCdDMdrOXmJ6lf"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257746,
+      "name": "\u7d04\u675f\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/5GZANCdIOUvIJaKRZYPi1a"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u5341\u4e00)",
+        "url": "https://open.spotify.com/album/0d6WwtcAHQ7XktJzMfBTcV"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275253,
+      "name": "\u7e59\u304f\u547d",
+      "url": "https://open.spotify.com/track/3xegSU2T9O7j0x4SXFaiGf"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \uff5e\u5e55\u672b\u5929\u72fc\u50b3\uff5e(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/5rhZ5AJWFFF08WxF9XCRmV"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u65b0\u64b0\u7d44",
+          "url": "https://open.spotify.com/artist/0OSoNG9yGYEekdxevQeGHR"
+        },
+        {
+          "name": "\u8702\u9808\u8cc0\u864e\u5fb9",
+          "url": "https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki"
+        },
+        {
+          "name": "\u548c\u6cc9\u5b88\u517c\u5b9a",
+          "url": "https://open.spotify.com/artist/78TAC4erxSOlhvH9fqXUje"
+        },
+        {
+          "name": "\u5800\u5ddd\u56fd\u5e83",
+          "url": "https://open.spotify.com/artist/3yNFtmFzmhdtpPe31XwAXq"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "\u7f8e\u3057\u3044\u60b2\u5287 song by \u548c\u6cc9\u5b88\u517c\u5b9a\u30fb\u5800\u5ddd\u56fd\u5e83",
+      "url": "https://open.spotify.com/track/15Mh0Q8iETRGWWqQMwogb4"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f\uff5e\u6708\u30ce\u5dfb\uff5e \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/24fU1DpsFZLcPUl33YVpgW"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u65e5\u5411\u6b63\u5b97(CV:\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/3wx3nNIx9jMcAz9ifRHZwv"
+        },
+        {
+          "name": "\u5c0f\u8c46\u9577\u5149(CV:\u5ddd\u539f\u6176\u4e45)",
+          "url": "https://open.spotify.com/artist/2bXHqT7IdN9DKwQgQ2AEOi"
+        },
+        {
+          "name": "\u8b19\u4fe1\u666f\u5149(CV:\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/3xr8EatLzuhDWPKRBgfYHx"
+        },
+        {
+          "name": "\u7bed\u624b\u5207\u6c5f(CV:\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/115BIEA328byOypbI6OKgi"
+        },
+        {
+          "name": "\u8c4a\u524d\u6c5f(CV:\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/5AtjDGX0Rr0I1dKCgBTrAj"
+        },
+        {
+          "name": "\u5343\u4ee3\u91d1\u4e38(CV:\u65b0\u57a3\u6a3d\u52a9)",
+          "url": "https://open.spotify.com/artist/0ZuSJjGp5CgKaYSHTHWBo0"
+        },
+        {
+          "name": "\u5317\u8c37\u83dc\u5207(CV:\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/0qXIQKcM5i1qo0RswR6f2R"
+        },
+        {
+          "name": "\u7962\u3005\u5207\u4e38(CV:\u677e\u7530\u5065\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/7FtPil5bTc5PHGhaAgZWEq"
+        },
+        {
+          "name": "\u6851\u540d\u6c5f(CV:\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/5Egef4yElwDggJ5CZzIs4g"
+        },
+        {
+          "name": "\u677e\u4e95\u6c5f(CV:\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4UvMb1xm0aRLJGuO8fFBfb"
+        },
+        {
+          "name": "\u6c34\u5fc3\u5b50\u6b63\u79c0(CV:\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/59kvpMLfR4ATWz7dTSeGgp"
+        },
+        {
+          "name": "\u6e90\u6e05\u9ebf(CV:\u8d64\u7fbd\u6839\u5065\u6cbb)",
+          "url": "https://open.spotify.com/artist/6krkgFqkB5q2s8agxIK9vp"
+        },
+        {
+          "name": "\u9b3c\u4e38\u56fd\u7db1(CV:\u68ee\u5ddd\u667a\u4e4b)",
+          "url": "https://open.spotify.com/artist/6qrX55VP5WBJivW1TjloYz"
+        },
+        {
+          "name": "\u5c71\u9ce5\u6bdb(CV:\u4e95\u4e0a\u548c\u5f66)",
+          "url": "https://open.spotify.com/artist/3gA8sPXakqhww74Nybrdjm"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252327,
+      "name": "\u82b1\u306e\u5bb4",
+      "url": "https://open.spotify.com/track/1CIFToRqSO3AyvL5VsQr0E"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f~\u6708\u30ce\u5dfb~ \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/0l4bV2gCuPUStBbjovqBz0"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u65e5\u5411\u6b63\u5b97(CV:\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/3wx3nNIx9jMcAz9ifRHZwv"
+        },
+        {
+          "name": "\u5c0f\u8c46\u9577\u5149(CV:\u5ddd\u539f\u6176\u4e45)",
+          "url": "https://open.spotify.com/artist/2bXHqT7IdN9DKwQgQ2AEOi"
+        },
+        {
+          "name": "\u8b19\u4fe1\u666f\u5149(CV:\u4ee3\u6c38 \u7ffc)",
+          "url": "https://open.spotify.com/artist/3xr8EatLzuhDWPKRBgfYHx"
+        },
+        {
+          "name": "\u7bed\u624b\u5207\u6c5f(CV:\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/115BIEA328byOypbI6OKgi"
+        },
+        {
+          "name": "\u8c4a\u524d\u6c5f(CV:\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/5AtjDGX0Rr0I1dKCgBTrAj"
+        },
+        {
+          "name": "\u5343\u4ee3\u91d1\u4e38(CV:\u65b0\u57a3\u6a3d\u52a9)",
+          "url": "https://open.spotify.com/artist/0ZuSJjGp5CgKaYSHTHWBo0"
+        },
+        {
+          "name": "\u5317\u8c37\u83dc\u5207(CV:\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/0qXIQKcM5i1qo0RswR6f2R"
+        },
+        {
+          "name": "\u7962\u3005\u5207\u4e38(CV:\u677e\u7530\u5065\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/7FtPil5bTc5PHGhaAgZWEq"
+        },
+        {
+          "name": "\u6851\u540d\u6c5f(CV:\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/5Egef4yElwDggJ5CZzIs4g"
+        },
+        {
+          "name": "\u677e\u4e95\u6c5f(CV:\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4UvMb1xm0aRLJGuO8fFBfb"
+        },
+        {
+          "name": "\u6c34\u5fc3\u5b50\u6b63\u79c0(CV:\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/59kvpMLfR4ATWz7dTSeGgp"
+        },
+        {
+          "name": "\u6e90\u6e05\u9ebf(CV:\u8d64\u7fbd\u6839\u5065\u6cbb)",
+          "url": "https://open.spotify.com/artist/6krkgFqkB5q2s8agxIK9vp"
+        },
+        {
+          "name": "\u9b3c\u4e38\u56fd\u7db1(CV:\u68ee\u5ddd\u667a\u4e4b)",
+          "url": "https://open.spotify.com/artist/6qrX55VP5WBJivW1TjloYz"
+        },
+        {
+          "name": "\u5c71\u9ce5\u6bdb(CV:\u4e95\u4e0a\u548c\u5f66)",
+          "url": "https://open.spotify.com/artist/3gA8sPXakqhww74Nybrdjm"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252327,
+      "name": "\u82b1\u306e\u5bb4",
+      "url": "https://open.spotify.com/track/5ZgERvdpSA8ykb1X9aLa6v"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e00)",
+        "url": "https://open.spotify.com/album/53xXSywofTigyM2yX7TuEf"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "\u82b1\u4e38\u25ce\u65e5\u548c!",
+      "url": "https://open.spotify.com/track/0jNL3WnMQz0tOU5qHwht9P"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f~\u96ea\u30ce\u5dfb~ \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/5bGyUpgvC0XMWbfwlm4Wjn"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200(CV:\u91ce\u5cf6\u88d5\u53f2)",
+          "url": "https://open.spotify.com/artist/7spymm3s8k1P80upupuLnw"
+        },
+        {
+          "name": "\u6bdb\u5229\u85e4\u56db\u90ce(CV:\u9ad8\u57ce\u5143\u6c17)",
+          "url": "https://open.spotify.com/artist/6KcvBtVlMF0yFieFh5og4u"
+        },
+        {
+          "name": "\u5927\u822c\u82e5\u9577\u5149(CV:\u4e09\u6728\u771e\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/5h9KbwFEuRLNeiGlLAwA5b"
+        },
+        {
+          "name": "\u5357\u6cc9\u4e00\u6587\u5b57(CV:\u6cb3\u897f\u5065\u543e)",
+          "url": "https://open.spotify.com/artist/2VYC3YSxh1iEEYWf1JfcKA"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u9577\u7fa9(CV:\u9ad8\u68a8\u8b19\u543e)",
+          "url": "https://open.spotify.com/artist/1ALPhCy7z0z5qwHlH6PqRQ"
+        },
+        {
+          "name": "\u767d\u5c71\u5409\u5149(CV:\u4e0b\u91ce \u7d18)",
+          "url": "https://open.spotify.com/artist/7EJ6dXSkx2ZGqbp3hfE2jK"
+        },
+        {
+          "name": "\u5c0f\u7adc\u666f\u5149(CV:\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/6biGdwjBy21M78CAkRGaZA"
+        },
+        {
+          "name": "\u9759\u5f62\u8599\u5200(CV:\u963f\u5ea7\u4e0a\u6d0b\u5e73)",
+          "url": "https://open.spotify.com/artist/0jVC6jSEwNMScRimqlbOBY"
+        },
+        {
+          "name": "\u80a5\u524d\u5fe0\u5e83(CV:\u5c0f\u677e\u660c\u5e73)",
+          "url": "https://open.spotify.com/artist/1oR27Q14ppUHJd1ByQRx4z"
+        },
+        {
+          "name": "\u5357\u6d77\u592a\u90ce\u671d\u5c0a(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/36MRr15kK9cLYDSiXojU4c"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281601,
+      "name": "\u82b1\u4e38\u4fbf\u308a\u306e\u821e\u3046\u9803\u306b",
+      "url": "https://open.spotify.com/track/2ZcUSZB35Vr7s2WVzxtVmy"
+    },
+    {
+      "album": {
+        "name": "\u7279\u300e\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300f~\u96ea\u30ce\u5dfb~ \u6b4c\u8a60\u96c6",
+        "url": "https://open.spotify.com/album/2SChSVL3j9bPhUfWkZDnoD"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u548c\u5b88\u5b89\u5b9a(CV:\u5e02\u6765\u5149\u5f18)",
+          "url": "https://open.spotify.com/artist/71ONyAs2WV835p9i2fPLiV"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149(CV:\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/2N9w1FRrpdw3A8LpfDGgTJ"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200(CV:\u91ce\u5cf6\u88d5\u53f2)",
+          "url": "https://open.spotify.com/artist/7spymm3s8k1P80upupuLnw"
+        },
+        {
+          "name": "\u6bdb\u5229\u85e4\u56db\u90ce(CV:\u9ad8\u57ce\u5143\u6c17)",
+          "url": "https://open.spotify.com/artist/6KcvBtVlMF0yFieFh5og4u"
+        },
+        {
+          "name": "\u5927\u822c\u82e5\u9577\u5149(CV:\u4e09\u6728\u771e\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/5h9KbwFEuRLNeiGlLAwA5b"
+        },
+        {
+          "name": "\u5357\u6cc9\u4e00\u6587\u5b57(CV:\u6cb3\u897f\u5065\u543e)",
+          "url": "https://open.spotify.com/artist/2VYC3YSxh1iEEYWf1JfcKA"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u9577\u7fa9(CV:\u9ad8\u68a8\u8b19\u543e)",
+          "url": "https://open.spotify.com/artist/1ALPhCy7z0z5qwHlH6PqRQ"
+        },
+        {
+          "name": "\u767d\u5c71\u5409\u5149(CV:\u4e0b\u91ce \u7d18)",
+          "url": "https://open.spotify.com/artist/7EJ6dXSkx2ZGqbp3hfE2jK"
+        },
+        {
+          "name": "\u5c0f\u7adc\u666f\u5149(CV:\u7acb\u82b1\u614e\u4e4b\u4ecb)",
+          "url": "https://open.spotify.com/artist/6biGdwjBy21M78CAkRGaZA"
+        },
+        {
+          "name": "\u9759\u5f62\u8599\u5200(CV:\u963f\u5ea7\u4e0a\u6d0b\u5e73)",
+          "url": "https://open.spotify.com/artist/0jVC6jSEwNMScRimqlbOBY"
+        },
+        {
+          "name": "\u80a5\u524d\u5fe0\u5e83(CV:\u5c0f\u677e\u660c\u5e73)",
+          "url": "https://open.spotify.com/artist/1oR27Q14ppUHJd1ByQRx4z"
+        },
+        {
+          "name": "\u5357\u6d77\u592a\u90ce\u671d\u5c0a(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/36MRr15kK9cLYDSiXojU4c"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281601,
+      "name": "\u82b1\u4e38\u4fbf\u308a\u306e\u821e\u3046\u9803\u306b",
+      "url": "https://open.spotify.com/track/2lUteA8uCWxsrUP8VcL2Ib"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u516d)",
+        "url": "https://open.spotify.com/album/64Bfdy5JPEs8PQHvlTIKZ4"
+      },
+      "artists": [
+        {
+          "name": "\u5b97\u4e09\u5de6\u6587\u5b57(CV:\u6cf0\u52c7\u6c17)",
+          "url": "https://open.spotify.com/artist/02PmNSUpGAJ2h0r8kRlOAo"
+        },
+        {
+          "name": "\u5c0f\u591c\u5de6\u6587\u5b57(CV:\u6751\u702c\u6b69)",
+          "url": "https://open.spotify.com/artist/5WUKPIOIKm7N9uYfsWN46b"
+        },
+        {
+          "name": "\u6c5f\u96ea\u5de6\u6587\u5b57(CV:\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/6xbDKWGC8Ouvjd9XGYg667"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264253,
+      "name": "\u82b1\u8272\u8863",
+      "url": "https://open.spotify.com/track/3sOTMd8hET09j9tYdnwcnr"
+    },
+    {
+      "album": {
+        "name": "\u5200\u5263\u4e71\u821e(\u30d7\u30ec\u30b9\u9650\u5b9a\u76e4F)",
+        "url": "https://open.spotify.com/album/6arnYeego9yaPIvGTKNDQZ"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u4e09\u6761",
+          "url": "https://open.spotify.com/artist/3A4zMuLEJU8cyb7LlRQYVx"
+        },
+        {
+          "name": "\u52a0\u5dde\u6e05\u5149",
+          "url": "https://open.spotify.com/artist/7ydbpjs8MWyiVXyfr4dWJz"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256770,
+      "name": "\u89e3\u3051\u306a\u3044\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/5jHbUEF596juTSvrX5xu1T"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u7d50\u3073\u306e\u97ff\u3001\u59cb\u307e\u308a\u306e\u97f3~(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb team\u5e55\u672b",
+          "url": "https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        },
+        {
+          "name": "\u5df4\u5f62\u8599\u5200",
+          "url": "https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 246666,
+      "name": "\u8ab0\u306e\u30e2\u30ce\u3067\u3082\u306a\u3044\u4eba\u751f song by \u548c\u6cc9\u5b88\u517c\u5b9a\u30fb\u5df4\u5f62\u8599\u5200",
+      "url": "https://open.spotify.com/track/5qfr646vNAaQe9TqroGRQq"
+    },
+    {
+      "album": {
+        "name": "\u7d9a\u300c\u5200\u5263\u4e71\u821e-\u82b1\u4e38-\u300d\u6b4c\u8a60\u96c6 (\u5176\u306e\u4e03)",
+        "url": "https://open.spotify.com/album/1q5E0UFC0qliFhYkqj4PZa"
+      },
+      "artists": [
+        {
+          "name": "\u524d\u7530\u85e4\u56db\u90ce(CV:\u5165\u6c5f\u73b2\u65bc\u5948)",
+          "url": "https://open.spotify.com/artist/3neAk5zZY4CF19wPXhdXtv"
+        },
+        {
+          "name": "\u9bf0\u5c3e\u85e4\u56db\u90ce(CV:\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0sjh3pJxfTNquKFYffVeMp"
+        },
+        {
+          "name": "\u85ac\u7814\u85e4\u56db\u90ce(CV:\u5c71\u4e0b\u8aa0\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/4cGZ8RazSokp3IiVGR96aF"
+        },
+        {
+          "name": "\u4e94\u864e\u9000(CV:\u7c95\u8c37\u96c4\u592a)",
+          "url": "https://open.spotify.com/artist/7AIPHtuowFNc60zpUTV3XV"
+        },
+        {
+          "name": "\u79cb\u7530\u85e4\u56db\u90ce(CV:\u5c71\u8c37\u7965\u751f)",
+          "url": "https://open.spotify.com/artist/2DkxVnGIVbfcnVMVbprVEM"
+        },
+        {
+          "name": "\u4e71\u85e4\u56db\u90ce(CV:\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/0J6ZZjZ4ejM3TFxv7iAUXe"
+        },
+        {
+          "name": "\u5e73\u91ce\u85e4\u56db\u90ce(CV:\u6d45\u5229\u907c\u592a)",
+          "url": "https://open.spotify.com/artist/7tHauitEy7MZ84sLm27JeQ"
+        },
+        {
+          "name": "\u9aa8\u55b0\u85e4\u56db\u90ce(CV:\u9234\u6728\u88d5\u6597)",
+          "url": "https://open.spotify.com/artist/7Cy0oeosGKHEUayLVg80hQ"
+        },
+        {
+          "name": "\u539a\u85e4\u56db\u90ce(CV:\u5c71\u4e0b\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/5kvq0YyrUdtLYo920t4Snt"
+        },
+        {
+          "name": "\u535a\u591a\u85e4\u56db\u90ce(CV:\u5927\u9808\u8cc0\u7d14)",
+          "url": "https://open.spotify.com/artist/2jih9oXUAAU3KXBcyXx8yE"
+        },
+        {
+          "name": "\u4e00\u671f\u4e00\u632f(CV:\u7530\u4e38\u7be4\u5fd7)",
+          "url": "https://open.spotify.com/artist/6DrDhW6NisUoNwoSviiJsY"
+        },
+        {
+          "name": "\u5f8c\u85e4\u85e4\u56db\u90ce(CV:\u6751\u7530\u592a\u5fd7)",
+          "url": "https://open.spotify.com/artist/7wTL9MnwqkiQPzJXYIPbkR"
+        },
+        {
+          "name": "\u4fe1\u6fc3\u85e4\u56db\u90ce(CV:\u5c0f\u6797\u88d5\u4ecb)",
+          "url": "https://open.spotify.com/artist/7AoZ3zC7lVSv60NfAf3F0t"
+        },
+        {
+          "name": "\u5305\u4e01\u85e4\u56db\u90ce(CV:\u5bae\u7530\u5e78\u5b63)",
+          "url": "https://open.spotify.com/artist/5UnYH45xoqwf4ZlWFOnmYK"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "\u9234\u751f\u308a\u6642\u306b\u3066",
+      "url": "https://open.spotify.com/track/2AbCMAIPk7nhKEI4924mxn"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u308c\u706f\u7bed\u3001\u9053\u3059\u304c\u3089",
+        "url": "https://open.spotify.com/album/32cJ5uzBfC6PFapUqyxCvm"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u59e5\u5207\u56fd\u5e83(CV:\u524d\u91ce\u667a\u662d)",
+          "url": "https://open.spotify.com/artist/1Ygn4oDpyPm1kxO2dACSqC"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u9577\u7fa9(CV:\u9ad8\u68a8\u8b19\u543e)",
+          "url": "https://open.spotify.com/artist/1ALPhCy7z0z5qwHlH6PqRQ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 242319,
+      "name": "\u96e2\u308c\u706f\u7bed\u3001\u9053\u3059\u304c\u3089",
+      "url": "https://open.spotify.com/track/2oNo7220sUbbCfQVpNyVvU"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u308c\u706f\u7bed\u3001\u9053\u3059\u304c\u3089",
+        "url": "https://open.spotify.com/album/7HaHtT216qcOtt9MnkmhM2"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u59e5\u5207\u56fd\u5e83(CV:\u524d\u91ce\u667a\u662d)",
+          "url": "https://open.spotify.com/artist/1Ygn4oDpyPm1kxO2dACSqC"
+        },
+        {
+          "name": "\u5c71\u59e5\u5207\u9577\u7fa9(CV:\u9ad8\u68a8\u8b19\u543e)",
+          "url": "https://open.spotify.com/artist/1ALPhCy7z0z5qwHlH6PqRQ"
+        },
+        {
+          "name": "\u5200\u5263\u4e71\u821e-\u82b1\u4e38-",
+          "url": "https://open.spotify.com/artist/23LPazGYVmQyqQv0n9R116"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242319,
+      "name": "\u96e2\u308c\u706f\u7bed\u3001\u9053\u3059\u304c\u3089",
+      "url": "https://open.spotify.com/track/4FbcN5lKYiBlmuVuU42Aqd"
+    },
+    {
+      "album": {
+        "name": "\u9759\u5bc2\u306e\u95d8\u5fd7 (Type A)",
+        "url": "https://open.spotify.com/album/3AGPsa7Uk8q2pE494731Pd"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb \u9aed\u5207\u819d\u4e38",
+          "url": "https://open.spotify.com/artist/0UAh5oJzG94gxvfG2BqfAR"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233240,
+      "name": "\u9759\u5bc2\u306e\u95d8\u5fd7",
+      "url": "https://open.spotify.com/track/4KlizNzJDJ9qiG6E43RsDo"
+    },
+    {
+      "album": {
+        "name": "\u9f13\u52d5 (Type E)",
+        "url": "https://open.spotify.com/album/0rIWuOJyZTwYdg2UGfrKAT"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208880,
+      "name": "\u98a8\u306e\u5148\u3078 song by \u7269\u5409\u8c9e\u5b97\u30fb\u5927\u5036\u5229\u4f3d\u7f85",
+      "url": "https://open.spotify.com/track/7jPgU6FXgb6MgDUG389QGq"
+    },
+    {
+      "album": {
+        "name": "\u9f13\u52d5 (Type F)",
+        "url": "https://open.spotify.com/album/78sZOa6ivKBKExRiHXkW53"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u4e09\u767e\u5e74",
+          "url": "https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294746,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/4WJNLI1T8798H2sGKbULDo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3FlJOXGyE6c"
 }

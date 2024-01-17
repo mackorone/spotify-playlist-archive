@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5boXKbYwAF.md) - [plain]
 
 > Music from "The Imaginary"\. スタジオポノック最新作「屋根裏のラジャー 」の楽曲を1つのプレイリストで。　© 2023 Ponoc
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 54 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 345 likes - 54 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5boXKbYwAF.md) - [plain]
 | 53 | [イマジナリ賛歌](https://open.spotify.com/track/1HoUmEHK9NhVQfJc6cBh0D) | [玉井健二](https://open.spotify.com/artist/60mNzFaJyXwRcr69MqVEtg), [agehasprings](https://open.spotify.com/artist/2henVu4hR7FuLhRSwR9vZQ) | [屋根裏のラジャー \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4) | 3:01 |
 | 54 | [ナッシングズ・インポッシブル \- ウィズ・ドラムス](https://open.spotify.com/track/1U0ju9g8yGAykCHme5hga1) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [屋根裏のラジャー \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6WlH2tGJUlgyQuByIpCLZ4) | 4:22 |
 
-Snapshot ID: `MCwwM2NiYmYzOWEwMjM2Y2UwMjljMzZhMDIwM2UzOTdiYTUxODgwNTU3`
+Snapshot ID: `MCw2OWE1ZGQxOTA4ZDEwMDMyYzRiZWI5YTkyNmRkNTY3MTA1OGFkNDFm`

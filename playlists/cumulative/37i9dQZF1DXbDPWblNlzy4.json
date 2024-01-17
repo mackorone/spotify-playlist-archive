@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: LATIN MAFIA y Humbe",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Kali Uchis y Peso Pluma",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 130602,
       "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 185822,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB"
@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
         "name": "Inevitable (Cinco de Mil Pedazos)",
         "url": "https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe"
       },
@@ -2105,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "la otra cara",
+        "url": "https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147275,
+      "name": "la otra cara",
+      "url": "https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj"
+    },
+    {
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
       },
@@ -2160,7 +2200,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 193213,
       "name": "La Versi\u00f3n En Mi Cabeza",
       "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
@@ -2942,6 +2982,28 @@
       "duration_ms": 213463,
       "name": "No Creo En Mujeres",
       "url": "https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw"
+    },
+    {
+      "album": {
+        "name": "No Es Suficiente",
+        "url": "https://open.spotify.com/album/7KQ3Uvk69GpWX2xqr0UXDV"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182825,
+      "name": "No Es Suficiente",
+      "url": "https://open.spotify.com/track/6HtDbgyCH4O0SeOkoQ4yGm"
     },
     {
       "album": {
@@ -4086,6 +4148,24 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "album": {
+        "name": "Antes De Que Amanezca",
+        "url": "https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
     },
     {
       "album": {

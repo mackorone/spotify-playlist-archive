@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
+    },
+    {
+      "album": {
         "name": "Bad Guy",
         "url": "https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 229447,
       "name": "Better Than Him",
       "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
@@ -1066,7 +1084,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 138157,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
@@ -1142,6 +1160,24 @@
       "duration_ms": 249917,
       "name": "Blame Yourself",
       "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
+    },
+    {
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
     },
     {
       "album": {
@@ -3198,7 +3234,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
@@ -5012,7 +5048,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 156624,
       "name": "ISN'T THE SAME",
       "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
@@ -5176,6 +5212,28 @@
     {
       "album": {
         "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
         "url": "https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n"
       },
       "artists": [
@@ -5208,7 +5266,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
@@ -6568,7 +6626,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 172666,
       "name": "No Rules (Slut Me Out)",
       "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
@@ -9512,7 +9570,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
@@ -10260,7 +10318,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 154473,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
@@ -10966,7 +11024,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 190188,
       "name": "Worked Up",
       "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"

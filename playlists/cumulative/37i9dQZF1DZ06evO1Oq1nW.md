@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 47 min
+72 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 | 2022-05-25 |  |
 | [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 | 2023-04-15 |
 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 | 2022-05-25 | 2023-07-21 |
-| [I Dig Your Act](https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:16 | 2023-04-18 |  |
+| [I Dig Your Act](https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:16 | 2023-04-18 | 2024-01-12 |
 | [I Just Want to Satisfy You](https://open.spotify.com/track/0267uAv5AfvWzFCvnRGM04) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:06 | 2022-06-11 | 2022-06-13 |
 | [I Love Music](https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:53 | 2022-05-25 |  |
 | [I Swear, I Love No One But You](https://open.spotify.com/track/0nbq5U1czg0RyHqmOwskR1) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 5:13 | 2022-05-25 | 2022-11-21 |
@@ -65,11 +65,12 @@
 | [Street Corner Felines](https://open.spotify.com/track/5Ril8bEQeqlPmaoK6lrWd4) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Eddie Levert](https://open.spotify.com/artist/2IvCFI40bNhf40fRPO7cA0), [Walter Williams](https://open.spotify.com/artist/7l643twfn8Rq1l4iON1aKp) | [Dragged Across Concrete \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DwVnQZjHgq0AwEfXoqxhm) | 4:48 | 2023-05-16 | 2023-05-18 |
 | [Sunshine](https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:41 | 2022-05-25 |  |
 | [Survival](https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:42 | 2022-06-13 |  |
+| [The Big Gangster](https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:17 | 2024-01-14 | 2024-01-16 |
 | [This Air I Breathe](https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 3:53 | 2022-05-31 | 2023-08-02 |
-| [This Time Baby](https://open.spotify.com/track/4rrvpJUUWEtdjuwrcRO2i9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:24 | 2022-05-26 | 2024-01-03 |
+| [This Time Baby](https://open.spotify.com/track/4rrvpJUUWEtdjuwrcRO2i9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:24 | 2022-05-26 | 2024-01-08 |
 | [Time to Get Down](https://open.spotify.com/track/2mhVy5a8BmJ1t3YFk9DlWi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:52 | 2022-05-25 |  |
 | [Use ta Be My Girl \- Single Version](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 | 2022-05-25 |  |
-| [What Am I Waiting For](https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:56 | 2022-05-25 | 2024-01-03 |
+| [What Am I Waiting For](https://open.spotify.com/track/7uWj004PAUVTlu7kqlb8wn) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:56 | 2022-05-25 |  |
 | [When the World's at Peace](https://open.spotify.com/track/5Z52756ttqY4zJMFhK1clR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:18 | 2022-05-25 | 2023-05-28 |
 | [Who Am I](https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:11 | 2022-05-25 |  |
 | [Wildflower \- Live at Hammersmith Odeon, London, England \- December 1973](https://open.spotify.com/track/7rMPj6IZQGoLT75rC8m1m3) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In London](https://open.spotify.com/album/3hfWpCxiuNDogbYIbx4ZQg) | 9:43 | 2022-05-25 |  |

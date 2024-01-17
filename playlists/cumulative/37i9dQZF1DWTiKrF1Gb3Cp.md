@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-150 songs - 8 hr 51 min
+151 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-31 |  |
 | [Asi La Navegamos](https://open.spotify.com/track/7K6GYIQnXC9bxmVT9bhvpU) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV), [Felix Ocampo](https://open.spotify.com/artist/1V2UI1IRMJoM1qFCJZxokh) | [Asi La Navegamos](https://open.spotify.com/album/1EtraO6LvGVasHCeZKiIrH) | 3:05 | 2023-07-28 | 2023-09-02 |
 | [Bandido](https://open.spotify.com/track/5oWfTPK3ZFRuW82NsIXlEb) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Bandido](https://open.spotify.com/album/3qDY0aopQhxmECwnQOqPmR) | 3:24 | 2023-05-19 | 2023-06-03 |
-| [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 |  |
+| [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 | 2024-01-09 |
 | [BELICONTENTO](https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [BELICONTENTO](https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7) | 2:31 | 2023-12-22 |  |
 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 | 2023-02-23 |  |
 | [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 | 2023-06-09 | 2023-07-06 |
@@ -116,6 +116,7 @@
 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 | 2023-02-23 |  |
 | [PERRO](https://open.spotify.com/track/4awqf3n2Wv26V2qxYV1H2s) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [PERRO](https://open.spotify.com/album/6umFNw6BRGDgECCNJQDxpj) | 2:13 | 2023-03-31 | 2023-04-09 |
 | [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 | 2023-03-31 | 2023-11-25 |
+| [Pixelados](https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:55 | 2024-01-08 |  |
 | [Pollo y Conejo](https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv) | 3:34 | 2023-02-23 |  |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2023-02-23 |  |
 | [Pow Wow Wow](https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Pow Wow Wow](https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy) | 2:46 | 2023-02-23 |  |

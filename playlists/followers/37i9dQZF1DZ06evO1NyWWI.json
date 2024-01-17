@@ -1,471 +1,1071 @@
 {
-  "2022-09-18": 966805,
-  "2022-09-19": 967257,
-  "2022-09-20": 967550,
-  "2022-09-21": 967912,
-  "2022-09-22": 968278,
-  "2022-09-23": 968579,
-  "2022-09-24": 968579,
-  "2022-09-25": 969326,
-  "2022-09-26": 969660,
-  "2022-09-27": 970001,
-  "2022-09-28": 970362,
-  "2022-09-29": 970754,
-  "2022-09-30": 971068,
-  "2022-10-01": 971470,
-  "2022-10-02": 971879,
-  "2022-10-03": 972262,
-  "2022-10-04": 972569,
-  "2022-10-05": 972895,
-  "2022-10-06": 973202,
-  "2022-10-07": 973546,
-  "2022-10-08": 973932,
-  "2022-10-09": 974632,
-  "2022-10-10": 974725,
-  "2022-10-11": 975061,
-  "2022-10-12": 975348,
-  "2022-10-13": 975712,
-  "2022-10-14": 976056,
-  "2022-10-15": 976400,
-  "2022-10-16": 976802,
-  "2022-10-17": 977125,
-  "2022-10-18": 977432,
-  "2022-10-19": 977761,
-  "2022-10-20": 978081,
-  "2022-10-21": 978441,
-  "2022-10-22": 978726,
-  "2022-10-23": 979102,
-  "2022-10-24": 979377,
-  "2022-10-25": 979663,
-  "2022-10-26": 979935,
-  "2022-10-27": 980253,
-  "2022-10-28": 980558,
-  "2022-10-29": 980936,
-  "2022-10-30": 981306,
-  "2022-10-31": 981595,
-  "2022-11-01": 981867,
-  "2022-11-02": 982154,
-  "2022-11-03": 982451,
-  "2022-11-04": 982765,
-  "2022-11-05": 983067,
-  "2022-11-06": 983396,
-  "2022-11-07": 983727,
-  "2022-11-08": 984040,
-  "2022-11-09": 984418,
-  "2022-11-10": 984737,
-  "2022-11-11": 985057,
-  "2022-11-12": 985467,
-  "2022-11-13": 985816,
-  "2022-11-14": 986162,
-  "2022-11-15": 986407,
-  "2022-11-16": 986704,
-  "2022-11-17": 986957,
-  "2022-11-18": 987032,
-  "2022-11-19": 987106,
-  "2022-11-20": 987418,
-  "2022-11-21": 987756,
-  "2022-11-22": 988109,
-  "2022-11-23": 988364,
-  "2022-11-24": 988967,
-  "2022-11-25": 989466,
-  "2022-11-26": 989813,
-  "2022-11-27": 990131,
-  "2022-11-28": 990401,
-  "2022-11-29": 990702,
-  "2022-11-30": 991023,
-  "2022-12-01": 991408,
-  "2022-12-02": 991640,
-  "2022-12-03": 992130,
-  "2022-12-04": 992526,
-  "2022-12-05": 992903,
-  "2022-12-06": 993216,
-  "2022-12-07": 993575,
-  "2022-12-08": 993967,
-  "2022-12-09": 994309,
-  "2022-12-10": 994609,
-  "2022-12-11": 994967,
-  "2022-12-12": 995367,
-  "2022-12-13": 995684,
-  "2022-12-14": 996011,
-  "2022-12-15": 996333,
-  "2022-12-16": 996676,
-  "2022-12-17": 997064,
-  "2022-12-18": 997462,
-  "2022-12-19": 997711,
-  "2022-12-20": 998333,
-  "2022-12-21": 998333,
-  "2022-12-22": 998664,
-  "2022-12-24": 999396,
-  "2022-12-25": 999790,
-  "2022-12-26": 1000126,
-  "2022-12-27": 1000464,
-  "2022-12-28": 1000876,
-  "2022-12-29": 1001272,
-  "2022-12-30": 1001706,
-  "2022-12-31": 1002124,
-  "2023-01-01": 1002501,
-  "2023-01-02": 1002815,
-  "2023-01-03": 1003205,
-  "2023-01-04": 1003506,
-  "2023-01-05": 1003878,
-  "2023-01-06": 1004316,
-  "2023-01-07": 1004886,
-  "2023-01-08": 1004980,
-  "2023-01-09": 1005402,
-  "2023-01-10": 1005772,
-  "2023-01-11": 1006139,
-  "2023-01-12": 1006538,
-  "2023-01-13": 1006886,
-  "2023-01-14": 1007630,
-  "2023-01-15": 1007718,
-  "2023-01-16": 1008160,
-  "2023-01-17": 1008522,
-  "2023-01-18": 1008895,
-  "2023-01-19": 1009314,
-  "2023-01-20": 1009764,
-  "2023-01-21": 1010224,
-  "2023-01-22": 1010689,
-  "2023-01-23": 1011120,
-  "2023-01-24": 1011479,
-  "2023-01-25": 1011872,
-  "2023-01-26": 1012261,
-  "2023-01-27": 1012704,
-  "2023-01-28": 1013085,
-  "2023-01-29": 1013544,
-  "2023-01-30": 1013989,
-  "2023-01-31": 1013989,
-  "2023-02-01": 1014721,
-  "2023-02-02": 1015094,
-  "2023-02-03": 1015472,
-  "2023-02-04": 1015932,
-  "2023-02-05": 1016396,
-  "2023-02-06": 1016804,
-  "2023-02-07": 1017174,
-  "2023-02-08": 1017844,
-  "2023-02-09": 1017844,
-  "2023-02-10": 1018214,
-  "2023-02-11": 1018601,
-  "2023-02-12": 1019342,
-  "2023-02-13": 1019642,
-  "2023-02-14": 1019642,
-  "2023-02-15": 1019934,
-  "2023-02-16": 1020323,
-  "2023-02-17": 1020685,
-  "2023-02-18": 1021459,
-  "2023-02-19": 1021523,
-  "2023-02-20": 1021851,
-  "2023-02-21": 1022185,
-  "2023-02-22": 1022487,
-  "2023-02-23": 1022790,
-  "2023-02-24": 1023201,
-  "2023-02-25": 1023748,
-  "2023-02-26": 1024111,
-  "2023-02-27": 1024816,
-  "2023-02-28": 1024816,
-  "2023-03-01": 1025101,
-  "2023-03-02": 1025492,
-  "2023-03-03": 1025879,
-  "2023-03-04": 1026269,
-  "2023-03-05": 1027062,
-  "2023-03-06": 1027062,
-  "2023-03-07": 1027443,
-  "2023-03-08": 1027772,
-  "2023-03-09": 1028102,
-  "2023-03-10": 1028466,
-  "2023-03-11": 1028864,
-  "2023-03-12": 1029296,
-  "2023-03-13": 1029631,
-  "2023-03-14": 1029966,
-  "2023-03-15": 1030322,
-  "2023-03-16": 1030322,
-  "2023-03-17": 1030322,
-  "2023-03-18": 1031414,
-  "2023-03-19": 1031414,
-  "2023-03-20": 1032196,
-  "2023-03-21": 1032530,
-  "2023-03-22": 1032888,
-  "2023-03-23": 1033172,
-  "2023-03-24": 1033172,
-  "2023-03-25": 1033948,
-  "2023-03-26": 1034383,
-  "2023-03-27": 1034854,
-  "2023-03-28": 1035203,
-  "2023-03-29": 1035648,
-  "2023-03-30": 1036341,
-  "2023-03-31": 1036341,
-  "2023-04-01": 1036783,
-  "2023-04-02": 1037182,
-  "2023-04-03": 1037628,
-  "2023-04-04": 1037957,
-  "2023-04-05": 1038298,
-  "2023-04-06": 1038665,
-  "2023-04-07": 1039010,
-  "2023-04-09": 1039729,
-  "2023-04-10": 1040087,
-  "2023-04-11": 1040725,
-  "2023-04-12": 1040725,
-  "2023-04-13": 1041054,
-  "2023-04-14": 1041414,
-  "2023-04-15": 1041798,
-  "2023-04-16": 1042146,
-  "2023-04-17": 1042503,
-  "2023-04-18": 1042800,
-  "2023-04-19": 1043124,
-  "2023-04-20": 1043511,
-  "2023-04-21": 1043847,
-  "2023-04-22": 1044213,
-  "2023-04-23": 1044631,
-  "2023-04-24": 1045006,
-  "2023-04-25": 1045360,
-  "2023-04-26": 1045731,
-  "2023-04-27": 1046123,
-  "2023-04-28": 1046583,
-  "2023-04-29": 1047016,
-  "2023-04-30": 1047466,
-  "2023-05-01": 1047847,
-  "2023-05-02": 1048240,
-  "2023-05-03": 1048575,
-  "2023-05-04": 1048892,
-  "2023-05-05": 1049231,
-  "2023-05-06": 1049604,
-  "2023-05-07": 1049926,
-  "2023-05-08": 1050243,
-  "2023-05-09": 1050577,
-  "2023-05-10": 1050893,
-  "2023-05-11": 1051220,
-  "2023-05-12": 1051598,
-  "2023-05-13": 1051957,
-  "2023-05-14": 1052366,
-  "2023-05-15": 1052669,
-  "2023-05-16": 1052955,
-  "2023-05-17": 1053285,
-  "2023-05-18": 1053644,
-  "2023-05-19": 1053989,
-  "2023-05-20": 1054786,
-  "2023-05-21": 1054786,
-  "2023-05-22": 1054786,
-  "2023-05-23": 1055463,
-  "2023-05-24": 1056053,
-  "2023-05-25": 1056165,
-  "2023-05-26": 1056472,
-  "2023-05-27": 1056848,
-  "2023-05-28": 1057234,
-  "2023-05-29": 1057234,
-  "2023-05-30": 1057894,
-  "2023-05-31": 1058205,
-  "2023-06-01": 1058561,
-  "2023-06-02": 1058920,
-  "2023-06-03": 1059302,
-  "2023-06-04": 1059747,
-  "2023-06-05": 1060084,
-  "2023-06-06": 1060340,
-  "2023-06-07": 1060661,
-  "2023-06-08": 1060997,
-  "2023-06-09": 1061358,
-  "2023-06-10": 1061641,
-  "2023-06-11": 1061920,
-  "2023-06-12": 1062120,
-  "2023-06-13": 1062309,
-  "2023-06-14": 1062512,
-  "2023-06-15": 1062745,
-  "2023-06-16": 1062969,
-  "2023-06-17": 1063255,
-  "2023-06-18": 1063523,
-  "2023-06-19": 1063775,
-  "2023-06-20": 1063957,
-  "2023-06-21": 1064163,
-  "2023-06-22": 1064385,
-  "2023-06-23": 1064609,
-  "2023-06-24": 1064845,
-  "2023-06-25": 1065115,
-  "2023-06-26": 1065345,
-  "2023-06-27": 1065545,
-  "2023-06-28": 1065782,
-  "2023-06-29": 1065979,
-  "2023-06-30": 1066206,
-  "2023-07-01": 1066757,
-  "2023-07-02": 1066757,
-  "2023-07-03": 1066972,
-  "2023-07-04": 1067157,
-  "2023-07-05": 1067374,
-  "2023-07-06": 1067828,
-  "2023-07-07": 1067828,
-  "2023-07-08": 1068112,
-  "2023-07-09": 1068398,
-  "2023-07-10": 1068654,
-  "2023-07-11": 1068871,
-  "2023-07-12": 1069069,
-  "2023-07-13": 1069303,
-  "2023-07-14": 1069602,
-  "2023-07-15": 1069823,
-  "2023-07-16": 1070163,
-  "2023-07-17": 1070384,
-  "2023-07-18": 1070609,
-  "2023-07-19": 1070779,
-  "2023-07-20": 1071035,
-  "2023-07-21": 1071216,
-  "2023-07-22": 1071501,
-  "2023-07-23": 1071778,
-  "2023-07-24": 1072029,
-  "2023-07-25": 1072226,
-  "2023-07-26": 1072416,
-  "2023-07-27": 1072634,
-  "2023-07-28": 1072910,
-  "2023-07-29": 1073097,
-  "2023-07-30": 1073312,
-  "2023-07-31": 1073569,
-  "2023-08-01": 1073769,
-  "2023-08-02": 1073982,
-  "2023-08-03": 1074194,
-  "2023-08-04": 1074384,
-  "2023-08-05": 1074627,
-  "2023-08-06": 1075104,
-  "2023-08-07": 1075104,
-  "2023-08-08": 1075298,
-  "2023-08-09": 1075524,
-  "2023-08-10": 1075711,
-  "2023-08-11": 1075909,
-  "2023-08-12": 1075909,
-  "2023-08-13": 1075909,
-  "2023-08-14": 1076616,
-  "2023-08-15": 1076616,
-  "2023-08-16": 1076616,
-  "2023-08-17": 1077275,
-  "2023-08-18": 1077275,
-  "2023-08-19": 1077275,
-  "2023-08-20": 1078083,
-  "2023-08-21": 1078083,
-  "2023-08-22": 1078595,
-  "2023-08-23": 1078595,
-  "2023-08-24": 1079095,
-  "2023-08-25": 1079095,
-  "2023-08-26": 1079601,
-  "2023-08-27": 1079601,
-  "2023-08-28": 1080142,
-  "2023-08-29": 1080142,
-  "2023-08-30": 1080142,
-  "2023-08-31": 1080821,
-  "2023-09-01": 1081099,
-  "2023-09-02": 1081099,
-  "2023-09-03": 1081704,
-  "2023-09-04": 1081704,
-  "2023-09-05": 1081704,
-  "2023-09-06": 1082377,
-  "2023-09-07": 1082377,
-  "2023-09-08": 1082377,
-  "2023-09-09": 1082377,
-  "2023-09-10": 1083376,
-  "2023-09-11": 1083376,
-  "2023-09-12": 1083376,
-  "2023-09-13": 1084061,
-  "2023-09-14": 1084061,
-  "2023-09-15": 1084061,
-  "2023-09-16": 1084802,
-  "2023-09-17": 1084802,
-  "2023-09-18": 1084802,
-  "2023-09-19": 1085519,
-  "2023-09-20": 1085519,
-  "2023-09-21": 1085519,
-  "2023-09-22": 1086077,
-  "2023-09-23": 1086077,
-  "2023-09-24": 1086077,
-  "2023-09-25": 1086077,
-  "2023-09-26": 1087036,
-  "2023-09-27": 1087036,
-  "2023-09-28": 1087036,
-  "2023-09-29": 1087036,
-  "2023-09-30": 1087036,
-  "2023-10-01": 1087036,
-  "2023-10-02": 1088448,
-  "2023-10-03": 1088448,
-  "2023-10-04": 1088448,
-  "2023-10-05": 1089071,
-  "2023-10-06": 1089071,
-  "2023-10-07": 1089071,
-  "2023-10-08": 1089071,
-  "2023-10-09": 1089071,
-  "2023-10-10": 1089071,
-  "2023-10-11": 1090051,
-  "2023-10-12": 1090051,
-  "2023-10-13": 1090051,
-  "2023-10-14": 1090051,
-  "2023-10-15": 1090051,
-  "2023-10-16": 1090051,
-  "2023-10-17": 1090051,
-  "2023-10-18": 1090051,
-  "2023-10-19": 1090051,
-  "2023-10-20": 1090051,
-  "2023-10-21": 1090051,
-  "2023-10-22": 1090051,
-  "2023-10-23": 1090051,
-  "2023-10-24": 1090051,
-  "2023-10-25": 1090051,
-  "2023-10-26": 1090051,
-  "2023-10-27": 1090051,
-  "2023-10-28": 1090051,
-  "2023-10-29": 1090051,
-  "2023-10-30": 1090051,
-  "2023-10-31": 1090051,
-  "2023-11-01": 1090051,
-  "2023-11-02": 1090051,
-  "2023-11-03": 1090051,
-  "2023-11-04": 1090051,
-  "2023-11-05": 1090051,
-  "2023-11-06": 1090051,
-  "2023-11-07": 1090051,
-  "2023-11-08": 1090051,
-  "2023-11-09": 1090051,
-  "2023-11-10": 1090051,
-  "2023-11-11": 1095333,
-  "2023-11-12": 1095333,
-  "2023-11-13": 1095333,
-  "2023-11-14": 1095333,
-  "2023-11-15": 1095333,
-  "2023-11-16": 1095333,
-  "2023-11-17": 1095333,
-  "2023-11-18": 1095333,
-  "2023-11-19": 1095333,
-  "2023-11-20": 1095333,
-  "2023-11-21": 1095333,
-  "2023-11-22": 1095333,
-  "2023-11-23": 1095333,
-  "2023-11-24": 1095333,
-  "2023-11-25": 1095333,
-  "2023-11-26": 1095333,
-  "2023-11-27": 1095333,
-  "2023-11-28": 1095333,
-  "2023-11-29": 1095333,
-  "2023-11-30": 1095333,
-  "2023-12-01": 1095333,
-  "2023-12-02": 1095333,
-  "2023-12-03": 1095333,
-  "2023-12-04": 1095333,
-  "2023-12-05": 1095333,
-  "2023-12-06": 1095333,
-  "2023-12-07": 1095333,
-  "2023-12-08": 1095333,
-  "2023-12-09": 1095333,
-  "2023-12-10": 1095333,
-  "2023-12-11": 1095333,
-  "2023-12-12": 1095333,
-  "2023-12-13": 1095333,
-  "2023-12-14": 1100659,
-  "2023-12-15": 1100801,
-  "2023-12-16": 1100974,
-  "2023-12-17": 1101150,
-  "2023-12-18": 1101347,
-  "2023-12-19": 1101489,
-  "2023-12-20": 1101651,
-  "2023-12-21": 1101799,
-  "2023-12-22": 1101942,
-  "2023-12-23": 1102142,
-  "2023-12-24": 1102316,
-  "2023-12-25": 1102500,
-  "2023-12-26": 1102613,
-  "2023-12-27": 1102795,
-  "2023-12-30": 1103357,
-  "2023-12-31": 1103531,
-  "2024-01-01": 1103724,
-  "2024-01-02": 1103816,
-  "2024-01-03": 1103922
+  "2024-01-17": 1104950,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is Led Zeppelin. The essential tracks, all in one playlist.",
+  "name": "This Is Led Zeppelin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Presence (Remaster)",
+        "url": "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631720,
+      "name": "Achilles Last Stand - Remaster",
+      "url": "https://open.spotify.com/track/1ibHApXtb0pgplmNDRLHrJ"
+    },
+    {
+      "album": {
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353720,
+      "name": "All My Love - Remaster",
+      "url": "https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401066,
+      "name": "Babe I'm Gonna Leave You - 1990 Remaster",
+      "url": "https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "Black Dog - Remaster",
+      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (Remaster)",
+        "url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 259741,
+      "name": "Bring It on Home - Remaster",
+      "url": "https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257346,
+      "name": "Bron-Y-Aur Stomp - Remaster",
+      "url": "https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126560,
+      "name": "Bron-Yr-Aur - Remaster",
+      "url": "https://open.spotify.com/track/5rgWj8h7lzbSmwpp0wFkXD"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Communication Breakdown - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255701,
+      "name": "Custard Pie - Remaster",
+      "url": "https://open.spotify.com/track/5HlLgmHL8qafp46jMtlxZJ"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 223464,
+      "name": "Dancing Days - Remaster",
+      "url": "https://open.spotify.com/track/4YsNkF22bkppExAF3kOTYv"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386373,
+      "name": "Dazed and Confused - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy"
+    },
+    {
+      "album": {
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370920,
+      "name": "Fool in the Rain - Remaster",
+      "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
+    },
+    {
+      "album": {
+        "name": "Presence (Remaster)",
+        "url": "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 385080,
+      "name": "For Your Life - Remaster",
+      "url": "https://open.spotify.com/track/6ly5DBm7QhjU8RQWl2neJg"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 285227,
+      "name": "Four Sticks - Remaster",
+      "url": "https://open.spotify.com/track/4Sc5qEOSFI5rfS9IDyu0GO"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 233901,
+      "name": "Friends - Remaster",
+      "url": "https://open.spotify.com/track/7jP44G0vKQLkfJ3x19pqPn"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297929,
+      "name": "Gallows Pole - Remaster",
+      "url": "https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Going to California - Remaster",
+      "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "Heartbreaker - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
+    },
+    {
+      "album": {
+        "name": "Coda (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236760,
+      "name": "Hey, Hey, What Can I Do - Remaster",
+      "url": "https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1"
+    },
+    {
+      "album": {
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Hot Dog - Remaster",
+      "url": "https://open.spotify.com/track/5K2yYEoc9ljOlzoMnhQSgm"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244686,
+      "name": "Houses of the Holy - Remaster",
+      "url": "https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 508000,
+      "name": "How Many More Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/5VBzIn9cBH4BNa1c6Zilba"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282426,
+      "name": "I Can't Quit You Baby - 1990 Remaster",
+      "url": "https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (1994 Remaster)",
+        "url": "https://open.spotify.com/album/1u5BsuBK45mLwrbqdASN3g"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145066,
+      "name": "Immigrant Song - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6kjlvJLh2DBsSQtqVzFh8I"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 668440,
+      "name": "In My Time of Dying - Remaster",
+      "url": "https://open.spotify.com/track/4EUe6BsZm5wZLxOTaV3kDX"
+    },
+    {
+      "album": {
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413906,
+      "name": "In the Evening - Remaster",
+      "url": "https://open.spotify.com/track/5OGPjlTOXvKFhnCy9zSdpv"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517125,
+      "name": "Kashmir - Remaster",
+      "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (Remaster)",
+        "url": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159300,
+      "name": "Living Loving Maid (She's Just a Woman) - Remaster",
+      "url": "https://open.spotify.com/track/49C6EGQhCUSgyADHYvJ7ez"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278907,
+      "name": "Misty Mountain Hop - Remaster",
+      "url": "https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 98373,
+      "name": "Moby Dick - Intro / Outro Rough Mix",
+      "url": "https://open.spotify.com/track/4lZjT7PLaWPIcm2InIDU2k"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422517,
+      "name": "No Quarter - Remaster",
+      "url": "https://open.spotify.com/track/0GRBFjza23Im7Xb16c9AaK"
+    },
+    {
+      "album": {
+        "name": "Presence (Remaster)",
+        "url": "https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388093,
+      "name": "Nobody's Fault but Mine - Remaster",
+      "url": "https://open.spotify.com/track/6unmtLYQ2LQ1Cg4IdAiU9g"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247344,
+      "name": "Out on the Tiles - Remaster",
+      "url": "https://open.spotify.com/track/6fxcpQMUoX0ofnbIHVnVWN"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290933,
+      "name": "Over the Hills and Far Away - Remaster",
+      "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263333,
+      "name": "Ramble On - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444148,
+      "name": "Since I've Been Loving You - Remaster",
+      "url": "https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ"
+    },
+    {
+      "album": {
+        "name": "The Song Remains the Same (Remaster)",
+        "url": "https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 653026,
+      "name": "Stairway to Heaven - (Live at MSG 1973) [Remaster]",
+      "url": "https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Tangerine - Remaster",
+      "url": "https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394920,
+      "name": "Ten Years Gone - Remaster",
+      "url": "https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289466,
+      "name": "Thank You - 1990 Remaster",
+      "url": "https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337109,
+      "name": "That's the Way - Remaster",
+      "url": "https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Remaster)",
+        "url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351677,
+      "name": "The Battle of Evermore - Remaster",
+      "url": "https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197704,
+      "name": "The Crunge - Remaster",
+      "url": "https://open.spotify.com/track/7IgBLFklu75pp8Y1vphChS"
+    },
+    {
+      "album": {
+        "name": "The Complete BBC Sessions (Remastered)",
+        "url": "https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "The Girl I Love She Got Long Black Wavy Hair - Live on Tasty Pop Sundae from BBC Sessions;Remaster",
+      "url": "https://open.spotify.com/track/7ecVrUYlhj6OrKTAK0oDzo"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271397,
+      "name": "The Ocean - Remaster",
+      "url": "https://open.spotify.com/track/0AqjkVFqa1ujle4Lb1k9wR"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459093,
+      "name": "The Rain Song - Remaster",
+      "url": "https://open.spotify.com/track/3JLrri1xSCui3bzITDJbkk"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339474,
+      "name": "The Rover - Remaster",
+      "url": "https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD"
+    },
+    {
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329093,
+      "name": "The Song Remains the Same - Remaster",
+      "url": "https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 336835,
+      "name": "Trampled Under Foot - Remaster",
+      "url": "https://open.spotify.com/track/4lPJoKw24HizeIcDLqaWeE"
+    },
+    {
+      "album": {
+        "name": "Coda (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311640,
+      "name": "Travelling Riverside Blues (BBC Session) - Remastered",
+      "url": "https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a"
+    },
+    {
+      "album": {
+        "name": "Coda (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "We're Gonna Groove - Remaster",
+      "url": "https://open.spotify.com/track/49gK7IgvdjZDcei0HJ8yYu"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283973,
+      "name": "What Is and What Should Never Be - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428851,
+      "name": "When the Levee Breaks - Remaster",
+      "url": "https://open.spotify.com/track/05f8Hg3RSfiPSCBQOtxl3i"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin (Remaster)",
+        "url": "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "Your Time Is Gonna Come - Remaster",
+      "url": "https://open.spotify.com/track/5RPiBNQVmuEm7YlVVotrLa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NyWWI"
 }

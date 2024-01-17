@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-07",
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": "2024-01-15",
       "duration_ms": 178200,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 170487,
       "name": "Ll\u00e9vate",
       "url": "https://open.spotify.com/track/6cpGWvX109d5I9Cx13sPMy"
@@ -4017,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 207727,
       "name": "Wu Wu",
       "url": "https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Parteum
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,691 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,240 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Linhas de Fogo](https://open.spotify.com/track/7rVlzobevLRio65jZum1qc) | [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2) | [Linhas de Fogo](https://open.spotify.com/album/6IWUjideWJcH9PsuTE8V9R) | 4:40 |
 | 75 | [Pacific Ocean](https://open.spotify.com/track/59V8dcTq8zMG4WgeNYyKLY) | [vinicreizi](https://open.spotify.com/artist/3IJMUMn5Id2E18JigLSCxf), [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV) | [Pacific Ocean](https://open.spotify.com/album/6RLJMF5qowSqkBHD1bqyUe) | 1:35 |
 
-Snapshot ID: `MCxmZTUzOGI2ZWUyNDcyODQ3OTEwYzYyZTg0NjRhZDJmZThjNmVkYWQy`
+Snapshot ID: `MCwyZjBkMTEyNTc3NDQzNWQ2ZjdiMzE1ZjU5YzllNTRkZTJjZWYxMTE3`

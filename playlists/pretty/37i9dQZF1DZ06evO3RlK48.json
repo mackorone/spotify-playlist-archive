@@ -1,15 +1,15 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 12649,
+  "num_followers": 12803,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDA2YjhjYWNhYWY5ZjNmNGU4OWI0MTMzMDhlMWY0NzQ2YQ==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAzNWI1NDA0ZDRkMGQ4MGNkOGIwMzllNGIzZGRkMjJlMg==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Into Your Room (with MUNA)",
         "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -165,7 +165,23 @@
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Winterbreak",
-      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -233,7 +233,23 @@
       "url": "https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 297040,
+      "name": "Winterbreak",
+      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
@@ -265,23 +281,7 @@
       "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "Crying On The Bathroom Floor",
-      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -297,7 +297,23 @@
       "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "Crying On The Bathroom Floor",
+      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "My Heart Will Go On (triple j Like A Version)",
         "url": "https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Loudspeaker",
-      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
@@ -356,44 +356,12 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 190692,
-      "name": "Loose Garment",
-      "url": "https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl"
+      "duration_ms": 174179,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "Saves The World",
-        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Navy Blue",
-      "url": "https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "Tegan and Sara Present the Con X: Covers",
-        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Relief Next to Me",
-      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
@@ -409,7 +377,23 @@
       "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Navy Blue",
+      "url": "https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
@@ -425,7 +409,39 @@
       "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Loudspeaker",
+      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/3OQXqukbEw1EKu9veODhFi"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Empathy (MUNA Remix)",
         "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
@@ -461,23 +477,7 @@
       "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
@@ -493,7 +493,23 @@
       "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
     },
     {
-      "added_at": "2024-01-02 12:15:40",
+      "added_at": "2024-01-16 12:10:33",
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
+    },
+    {
+      "added_at": "2024-01-16 12:10:33",
       "album": {
         "name": "With Myself (MUNA Remix)",
         "url": "https://open.spotify.com/album/2H6mRDnIJw7cpXSeSdC9XY"
@@ -511,22 +527,6 @@
       "duration_ms": 189793,
       "name": "With Myself - MUNA Remix",
       "url": "https://open.spotify.com/track/1e2HAlEuK8NAEYwXbr1BAO"
-    },
-    {
-      "added_at": "2024-01-02 12:15:40",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 313253,
-      "name": "Around U",
-      "url": "https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw"
     }
   ],
   "unique_name": "This Is MUNA",

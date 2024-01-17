@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Manuel Turizo & Grupo Frontera
 
-139 songs - 8 hr 5 min
+141 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,10 +118,12 @@
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2023-02-03 | 2023-10-21 |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-08-18 |  |
 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 | 2022-08-18 | 2023-02-04 |
-| [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 | 2022-08-18 |  |
+| [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:20 | 2023-12-08 |  |
+| [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 | 2022-08-18 | 2024-01-05 |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/7CFcADHXs2wjUxNyyoScEn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:58 | 2022-08-18 |  |
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-14 | 2022-11-13 |
-| [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-08-18 |  |
+| [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-08-18 | 2024-01-05 |
+| [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 | 2023-12-08 |  |
 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-08-18 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 | 2022-08-18 |  |
 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 | 2022-08-18 |  |

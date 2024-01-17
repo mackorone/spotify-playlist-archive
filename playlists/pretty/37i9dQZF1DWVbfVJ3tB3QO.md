@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,358 likes - 66 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,927 likes - 66 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 65 | [Charade \- Dick Johnson Remix](https://open.spotify.com/track/4lhXFwSLXY5yYgyluYmwUe) | [Sandy Mill](https://open.spotify.com/artist/5U68oNUNfoLKbPqoxFq6qB), [Dick Johnson](https://open.spotify.com/artist/1aJC3HAG67ndsncUrUCj5m) | [Charade \(Dick Johnson Remix\)](https://open.spotify.com/album/6Zkp96aoHOId6LBZjyDbjc) | 6:08 |
 | 66 | [Emmanuel's Groove](https://open.spotify.com/track/6e1id4vHQHd57s9PYYlUse) | [Azuro](https://open.spotify.com/artist/29rsvX8tM1cbyZhn554CFk) | [Chapter Four Edits](https://open.spotify.com/album/2hA0WWK54BvOtBVuFsb3ki) | 5:08 |
 
-Snapshot ID: `MCxmNzMwNWMwN2E2Zjc0MDc2ZTlmMDQxNmIxYTQ5MmE3NzAwOWI1ZjNj`
+Snapshot ID: `MCw0OTI2MWQwOTE4ODJmY2EzNjkzNjVmZDcwNDIxOTQxOTQ1MTA3Zjhj`

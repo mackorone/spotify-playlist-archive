@@ -1,410 +1,737 @@
 {
-  "2022-11-18": 371,
-  "2022-11-19": 371,
-  "2022-11-20": 372,
-  "2022-11-21": 371,
-  "2022-11-22": 372,
-  "2022-11-23": 372,
-  "2022-11-24": 374,
-  "2022-11-25": 377,
-  "2022-11-26": 377,
-  "2022-11-27": 379,
-  "2022-11-28": 379,
-  "2022-11-29": 378,
-  "2022-11-30": 376,
-  "2022-12-01": 376,
-  "2022-12-02": 377,
-  "2022-12-03": 378,
-  "2022-12-04": 378,
-  "2022-12-05": 381,
-  "2022-12-06": 383,
-  "2022-12-07": 386,
-  "2022-12-08": 385,
-  "2022-12-09": 387,
-  "2022-12-10": 388,
-  "2022-12-11": 389,
-  "2022-12-12": 391,
-  "2022-12-13": 392,
-  "2022-12-14": 394,
-  "2022-12-15": 394,
-  "2022-12-16": 396,
-  "2022-12-17": 396,
-  "2022-12-18": 397,
-  "2022-12-19": 399,
-  "2022-12-20": 403,
-  "2022-12-21": 403,
-  "2022-12-22": 404,
-  "2022-12-24": 407,
-  "2022-12-25": 408,
-  "2022-12-26": 408,
-  "2022-12-27": 411,
-  "2022-12-28": 411,
-  "2022-12-29": 412,
-  "2022-12-30": 412,
-  "2022-12-31": 413,
-  "2023-01-01": 415,
-  "2023-01-02": 417,
-  "2023-01-03": 418,
-  "2023-01-04": 419,
-  "2023-01-05": 419,
-  "2023-01-06": 420,
-  "2023-01-07": 420,
-  "2023-01-08": 420,
-  "2023-01-09": 422,
-  "2023-01-10": 425,
-  "2023-01-11": 427,
-  "2023-01-12": 429,
-  "2023-01-13": 429,
-  "2023-01-14": 431,
-  "2023-01-15": 432,
-  "2023-01-16": 431,
-  "2023-01-17": 434,
-  "2023-01-18": 437,
-  "2023-01-19": 438,
-  "2023-01-20": 437,
-  "2023-01-21": 437,
-  "2023-01-22": 441,
-  "2023-01-23": 441,
-  "2023-01-24": 441,
-  "2023-01-25": 443,
-  "2023-01-26": 448,
-  "2023-01-27": 449,
-  "2023-01-28": 449,
-  "2023-01-29": 450,
-  "2023-01-30": 451,
-  "2023-01-31": 451,
-  "2023-02-01": 456,
-  "2023-02-02": 458,
-  "2023-02-03": 457,
-  "2023-02-04": 458,
-  "2023-02-05": 460,
-  "2023-02-06": 460,
-  "2023-02-07": 463,
-  "2023-02-08": 464,
-  "2023-02-09": 464,
-  "2023-02-10": 466,
-  "2023-02-11": 469,
-  "2023-02-12": 473,
-  "2023-02-13": 476,
-  "2023-02-14": 476,
-  "2023-02-15": 477,
-  "2023-02-16": 478,
-  "2023-02-17": 481,
-  "2023-02-18": 484,
-  "2023-02-19": 484,
-  "2023-02-20": 485,
-  "2023-02-21": 488,
-  "2023-02-22": 488,
-  "2023-02-23": 487,
-  "2023-02-24": 488,
-  "2023-02-25": 490,
-  "2023-02-26": 491,
-  "2023-02-27": 494,
-  "2023-02-28": 494,
-  "2023-03-01": 496,
-  "2023-03-02": 497,
-  "2023-03-03": 497,
-  "2023-03-04": 503,
-  "2023-03-05": 505,
-  "2023-03-06": 505,
-  "2023-03-07": 506,
-  "2023-03-08": 510,
-  "2023-03-09": 511,
-  "2023-03-10": 511,
-  "2023-03-11": 512,
-  "2023-03-12": 517,
-  "2023-03-13": 518,
-  "2023-03-14": 521,
-  "2023-03-15": 522,
-  "2023-03-16": 522,
-  "2023-03-17": 522,
-  "2023-03-18": 526,
-  "2023-03-19": 526,
-  "2023-03-20": 529,
-  "2023-03-21": 533,
-  "2023-03-22": 535,
-  "2023-03-23": 536,
-  "2023-03-24": 536,
-  "2023-03-25": 540,
-  "2023-03-26": 542,
-  "2023-03-27": 541,
-  "2023-03-28": 542,
-  "2023-03-29": 544,
-  "2023-03-30": 547,
-  "2023-03-31": 547,
-  "2023-04-01": 547,
-  "2023-04-02": 548,
-  "2023-04-03": 547,
-  "2023-04-04": 549,
-  "2023-04-05": 548,
-  "2023-04-06": 548,
-  "2023-04-07": 548,
-  "2023-04-09": 556,
-  "2023-04-10": 555,
-  "2023-04-11": 558,
-  "2023-04-12": 558,
-  "2023-04-13": 558,
-  "2023-04-14": 558,
-  "2023-04-15": 559,
-  "2023-04-16": 559,
-  "2023-04-17": 559,
-  "2023-04-18": 561,
-  "2023-04-19": 563,
-  "2023-04-20": 564,
-  "2023-04-21": 565,
-  "2023-04-22": 570,
-  "2023-04-23": 572,
-  "2023-04-24": 573,
-  "2023-04-25": 575,
-  "2023-04-26": 576,
-  "2023-04-27": 579,
-  "2023-04-28": 583,
-  "2023-04-29": 585,
-  "2023-04-30": 590,
-  "2023-05-01": 592,
-  "2023-05-02": 594,
-  "2023-05-03": 592,
-  "2023-05-04": 593,
-  "2023-05-05": 593,
-  "2023-05-06": 596,
-  "2023-05-07": 597,
-  "2023-05-08": 599,
-  "2023-05-09": 601,
-  "2023-05-10": 602,
-  "2023-05-11": 601,
-  "2023-05-12": 599,
-  "2023-05-13": 600,
-  "2023-05-14": 601,
-  "2023-05-15": 602,
-  "2023-05-16": 602,
-  "2023-05-17": 605,
-  "2023-05-18": 607,
-  "2023-05-19": 610,
-  "2023-05-20": 611,
-  "2023-05-21": 611,
-  "2023-05-22": 611,
-  "2023-05-23": 615,
-  "2023-05-24": 613,
-  "2023-05-25": 613,
-  "2023-05-26": 616,
-  "2023-05-27": 616,
-  "2023-05-28": 617,
-  "2023-05-29": 617,
-  "2023-05-30": 620,
-  "2023-05-31": 620,
-  "2023-06-01": 621,
-  "2023-06-02": 621,
-  "2023-06-03": 621,
-  "2023-06-04": 621,
-  "2023-06-05": 622,
-  "2023-06-06": 622,
-  "2023-06-07": 623,
-  "2023-06-08": 623,
-  "2023-06-09": 623,
-  "2023-06-10": 623,
-  "2023-06-11": 622,
-  "2023-06-12": 622,
-  "2023-06-13": 621,
-  "2023-06-14": 622,
-  "2023-06-15": 624,
-  "2023-06-16": 623,
-  "2023-06-17": 625,
-  "2023-06-18": 628,
-  "2023-06-19": 628,
-  "2023-06-20": 629,
-  "2023-06-21": 630,
-  "2023-06-22": 632,
-  "2023-06-23": 633,
-  "2023-06-24": 633,
-  "2023-06-25": 635,
-  "2023-06-26": 638,
-  "2023-06-27": 638,
-  "2023-06-28": 642,
-  "2023-06-29": 644,
-  "2023-06-30": 646,
-  "2023-07-01": 644,
-  "2023-07-02": 644,
-  "2023-07-03": 645,
-  "2023-07-04": 645,
-  "2023-07-05": 647,
-  "2023-07-06": 648,
-  "2023-07-07": 648,
-  "2023-07-08": 648,
-  "2023-07-09": 649,
-  "2023-07-10": 650,
-  "2023-07-11": 651,
-  "2023-07-12": 652,
-  "2023-07-13": 652,
-  "2023-07-14": 653,
-  "2023-07-15": 653,
-  "2023-07-16": 655,
-  "2023-07-17": 656,
-  "2023-07-18": 655,
-  "2023-07-19": 656,
-  "2023-07-20": 659,
-  "2023-07-21": 662,
-  "2023-07-22": 664,
-  "2023-07-23": 667,
-  "2023-07-24": 668,
-  "2023-07-25": 670,
-  "2023-07-26": 672,
-  "2023-07-27": 674,
-  "2023-07-28": 678,
-  "2023-07-29": 680,
-  "2023-07-30": 682,
-  "2023-07-31": 684,
-  "2023-08-01": 688,
-  "2023-08-02": 691,
-  "2023-08-03": 696,
-  "2023-08-04": 699,
-  "2023-08-05": 700,
-  "2023-08-06": 701,
-  "2023-08-07": 701,
-  "2023-08-08": 706,
-  "2023-08-09": 708,
-  "2023-08-10": 712,
-  "2023-08-11": 712,
-  "2023-08-12": 718,
-  "2023-08-13": 718,
-  "2023-08-14": 720,
-  "2023-08-15": 720,
-  "2023-08-16": 720,
-  "2023-08-17": 727,
-  "2023-08-18": 727,
-  "2023-08-19": 728,
-  "2023-08-20": 730,
-  "2023-08-21": 733,
-  "2023-08-22": 736,
-  "2023-08-23": 736,
-  "2023-08-24": 736,
-  "2023-08-25": 736,
-  "2023-08-26": 738,
-  "2023-08-27": 741,
-  "2023-08-28": 742,
-  "2023-08-29": 742,
-  "2023-08-30": 742,
-  "2023-08-31": 748,
-  "2023-09-01": 753,
-  "2023-09-02": 753,
-  "2023-09-03": 755,
-  "2023-09-04": 755,
-  "2023-09-05": 755,
-  "2023-09-06": 757,
-  "2023-09-07": 757,
-  "2023-09-08": 757,
-  "2023-09-09": 757,
-  "2023-09-10": 761,
-  "2023-09-11": 763,
-  "2023-09-12": 763,
-  "2023-09-13": 767,
-  "2023-09-14": 767,
-  "2023-09-15": 767,
-  "2023-09-16": 771,
-  "2023-09-17": 771,
-  "2023-09-18": 771,
-  "2023-09-19": 775,
-  "2023-09-20": 775,
-  "2023-09-21": 775,
-  "2023-09-22": 773,
-  "2023-09-23": 773,
-  "2023-09-24": 773,
-  "2023-09-25": 773,
-  "2023-09-26": 772,
-  "2023-09-27": 772,
-  "2023-09-28": 772,
-  "2023-09-29": 772,
-  "2023-09-30": 772,
-  "2023-10-01": 772,
-  "2023-10-02": 776,
-  "2023-10-03": 776,
-  "2023-10-04": 776,
-  "2023-10-05": 780,
-  "2023-10-06": 782,
-  "2023-10-07": 782,
-  "2023-10-08": 782,
-  "2023-10-09": 782,
-  "2023-10-10": 782,
-  "2023-10-11": 785,
-  "2023-10-12": 785,
-  "2023-10-13": 785,
-  "2023-10-14": 785,
-  "2023-10-15": 785,
-  "2023-10-16": 785,
-  "2023-10-17": 785,
-  "2023-10-18": 785,
-  "2023-10-19": 785,
-  "2023-10-20": 785,
-  "2023-10-21": 785,
-  "2023-10-22": 785,
-  "2023-10-23": 785,
-  "2023-10-24": 785,
-  "2023-10-25": 785,
-  "2023-10-26": 785,
-  "2023-10-27": 785,
-  "2023-10-28": 785,
-  "2023-10-29": 785,
-  "2023-10-30": 785,
-  "2023-10-31": 785,
-  "2023-11-01": 785,
-  "2023-11-02": 785,
-  "2023-11-03": 785,
-  "2023-11-04": 785,
-  "2023-11-05": 785,
-  "2023-11-06": 785,
-  "2023-11-07": 785,
-  "2023-11-08": 785,
-  "2023-11-09": 785,
-  "2023-11-10": 785,
-  "2023-11-11": 840,
-  "2023-11-12": 840,
-  "2023-11-13": 840,
-  "2023-11-14": 840,
-  "2023-11-15": 840,
-  "2023-11-16": 840,
-  "2023-11-17": 840,
-  "2023-11-18": 840,
-  "2023-11-19": 840,
-  "2023-11-20": 840,
-  "2023-11-21": 840,
-  "2023-11-22": 840,
-  "2023-11-23": 840,
-  "2023-11-24": 840,
-  "2023-11-25": 840,
-  "2023-11-26": 840,
-  "2023-11-27": 840,
-  "2023-11-28": 840,
-  "2023-11-29": 840,
-  "2023-11-30": 840,
-  "2023-12-01": 840,
-  "2023-12-02": 840,
-  "2023-12-03": 840,
-  "2023-12-04": 840,
-  "2023-12-05": 840,
-  "2023-12-06": 840,
-  "2023-12-07": 840,
-  "2023-12-08": 840,
-  "2023-12-09": 840,
-  "2023-12-10": 840,
-  "2023-12-11": 840,
-  "2023-12-12": 840,
-  "2023-12-13": 840,
-  "2023-12-14": 891,
-  "2023-12-15": 894,
-  "2023-12-16": 894,
-  "2023-12-17": 895,
-  "2023-12-18": 895,
-  "2023-12-19": 895,
-  "2023-12-20": 897,
-  "2023-12-21": 896,
-  "2023-12-22": 895,
-  "2023-12-23": 896,
-  "2023-12-24": 896,
-  "2023-12-25": 897,
-  "2023-12-26": 898,
-  "2023-12-27": 899,
-  "2023-12-30": 900,
-  "2023-12-31": 901,
-  "2024-01-01": 901,
-  "2024-01-02": 901,
-  "2024-01-03": 902
+  "2024-01-17": 914,
+  "date_first_scraped": "2022-11-18",
+  "description": "This is Quicksand. The essential tracks, all in one playlist.",
+  "name": "This Is Quicksand",
+  "tracks": [
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47426,
+      "name": ">",
+      "url": "https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103421,
+      "name": "Backward",
+      "url": "https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128600,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215856,
+      "name": "Brushed",
+      "url": "https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 169333,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198241,
+      "name": "Colossus",
+      "url": "https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 70704,
+      "name": "Compacted Infinity",
+      "url": "https://open.spotify.com/track/20EI8dSK9gLe3tYD82VXpj"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248981,
+      "name": "Cosmonauts",
+      "url": "https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0Qp6B1ZS2LbMNKdjLgYWMC"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 91042,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1uRdil0iAVexdNLcBBjZJQ"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "Dine Alone",
+      "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104840,
+      "name": "Divorce",
+      "url": "https://open.spotify.com/track/6sOB7Q3V0k6mJBv6wPe4NN"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Fazer",
+      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 215222,
+      "name": "Feels Like A Weight Has Been Lifted",
+      "url": "https://open.spotify.com/track/6CoD3wMYARMmkjaaxiWJmZ"
+    },
+    {
+      "album": {
+        "name": "Fel\u00edz",
+        "url": "https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167654,
+      "name": "Fel\u00edz",
+      "url": "https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202631,
+      "name": "Fire This Time",
+      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 199160,
+      "name": "Freezing Process",
+      "url": "https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx"
+    },
+    {
+      "album": {
+        "name": "Giving The Past Away",
+        "url": "https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211237,
+      "name": "Giving The Past Away",
+      "url": "https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187199,
+      "name": "Head To Wall",
+      "url": "https://open.spotify.com/track/75EwFbw7cPAoTFDAxtFfzm"
+    },
+    {
+      "album": {
+        "name": "Holy Dub (Hallowed Be Thy Name)",
+        "url": "https://open.spotify.com/album/2fQxNB6cAEwzIrpvbkOlwW"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 223943,
+      "name": "Holy Dub (Hallowed Be Thy Name)",
+      "url": "https://open.spotify.com/track/5WMjstig44rt0AbrlhLeMH"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 274216,
+      "name": "Hyperion",
+      "url": "https://open.spotify.com/track/24ZZPWkt2ELVI26tpiZZ1K"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 117293,
+      "name": "Hypno Jam With Dan",
+      "url": "https://open.spotify.com/track/05i8S2cGUeh0cIxS8mJfBa"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233214,
+      "name": "Illuminant",
+      "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 298204,
+      "name": "Interiors",
+      "url": "https://open.spotify.com/track/600rxqKGJUS6gMD5klZj5l"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "Inversion",
+      "url": "https://open.spotify.com/track/6mX2BJMkmr2JvXyLRXhR0d"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Katakana",
+      "url": "https://open.spotify.com/track/32BYPMEddd8a8LXToTelRw"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220973,
+      "name": "Landmine Spring",
+      "url": "https://open.spotify.com/track/4kqAUoDhmGzFw8BCl2X5vA"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Lie And Wait",
+      "url": "https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143952,
+      "name": "Lightning Field",
+      "url": "https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "Missile Command",
+      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
+    },
+    {
+      "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206130,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 214920,
+      "name": "Phase 90",
+      "url": "https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 155066,
+      "name": "Simpleton",
+      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Skinny (It's Overflowing)",
+      "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
+    },
+    {
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/4Z3zmjixkCoawWXC4IbBan"
+    },
+    {
+      "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187595,
+      "name": "Spoken Through Clouds",
+      "url": "https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 208269,
+      "name": "The Philosopher",
+      "url": "https://open.spotify.com/track/4784qRJpsaPr7oZPPTOha6"
+    },
+    {
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176050,
+      "name": "Under The Screw",
+      "url": "https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg"
+    },
+    {
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228149,
+      "name": "Warm And Low",
+      "url": "https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WtXCH"
 }

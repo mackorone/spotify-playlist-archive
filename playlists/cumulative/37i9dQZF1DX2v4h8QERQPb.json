@@ -3335,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "No Cap - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130069,
+      "name": "No Cap - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+    },
+    {
+      "album": {
         "name": "Con la Bolsa al Hombro",
         "url": "https://open.spotify.com/album/2Z7KnlhpsX8JPzaFdnWBSV"
       },
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 151306,
       "name": "THROW UP SESSION #1",
       "url": "https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u"

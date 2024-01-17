@@ -1,178 +1,1113 @@
 {
-  "2023-07-10": 19980,
-  "2023-07-11": 19988,
-  "2023-07-12": 20001,
-  "2023-07-13": 20017,
-  "2023-07-14": 20029,
-  "2023-07-15": 20039,
-  "2023-07-16": 20057,
-  "2023-07-17": 20070,
-  "2023-07-18": 20083,
-  "2023-07-19": 20099,
-  "2023-07-20": 20112,
-  "2023-07-21": 20129,
-  "2023-07-22": 20141,
-  "2023-07-23": 20152,
-  "2023-07-24": 20167,
-  "2023-07-25": 20182,
-  "2023-07-26": 20197,
-  "2023-07-27": 20217,
-  "2023-07-28": 20237,
-  "2023-07-29": 20255,
-  "2023-07-30": 20270,
-  "2023-07-31": 20280,
-  "2023-08-01": 20299,
-  "2023-08-02": 20320,
-  "2023-08-03": 20339,
-  "2023-08-04": 20354,
-  "2023-08-05": 20363,
-  "2023-08-06": 20398,
-  "2023-08-07": 20398,
-  "2023-08-08": 20409,
-  "2023-08-09": 20424,
-  "2023-08-10": 20441,
-  "2023-08-11": 20452,
-  "2023-08-12": 20452,
-  "2023-08-13": 20452,
-  "2023-08-14": 20483,
-  "2023-08-15": 20483,
-  "2023-08-16": 20483,
-  "2023-08-17": 20483,
-  "2023-08-18": 20483,
-  "2023-08-19": 20483,
-  "2023-08-20": 20570,
-  "2023-08-21": 20570,
-  "2023-08-22": 20584,
-  "2023-08-23": 20584,
-  "2023-08-24": 20584,
-  "2023-08-25": 20584,
-  "2023-08-26": 20652,
-  "2023-08-27": 20652,
-  "2023-08-28": 20674,
-  "2023-08-29": 20674,
-  "2023-08-30": 20674,
-  "2023-08-31": 20709,
-  "2023-09-01": 20730,
-  "2023-09-02": 20730,
-  "2023-09-03": 20730,
-  "2023-09-04": 20730,
-  "2023-09-05": 20730,
-  "2023-09-06": 20730,
-  "2023-09-07": 20730,
-  "2023-09-08": 20730,
-  "2023-09-09": 20730,
-  "2023-09-10": 20861,
-  "2023-09-11": 20861,
-  "2023-09-12": 20861,
-  "2023-09-13": 20861,
-  "2023-09-14": 20861,
-  "2023-09-15": 20861,
-  "2023-09-16": 20938,
-  "2023-09-17": 20938,
-  "2023-09-18": 20938,
-  "2023-09-19": 20977,
-  "2023-09-20": 20977,
-  "2023-09-21": 20977,
-  "2023-09-22": 21011,
-  "2023-09-23": 21011,
-  "2023-09-24": 21011,
-  "2023-09-25": 21011,
-  "2023-09-26": 21046,
-  "2023-09-27": 21046,
-  "2023-09-28": 21046,
-  "2023-09-29": 21046,
-  "2023-09-30": 21046,
-  "2023-10-01": 21046,
-  "2023-10-02": 21046,
-  "2023-10-03": 21046,
-  "2023-10-04": 21046,
-  "2023-10-05": 21046,
-  "2023-10-06": 21046,
-  "2023-10-07": 21046,
-  "2023-10-08": 21046,
-  "2023-10-09": 21046,
-  "2023-10-10": 21046,
-  "2023-10-11": 21184,
-  "2023-10-12": 21184,
-  "2023-10-13": 21184,
-  "2023-10-14": 21184,
-  "2023-10-15": 21184,
-  "2023-10-16": 21184,
-  "2023-10-17": 21184,
-  "2023-10-18": 21184,
-  "2023-10-19": 21184,
-  "2023-10-20": 21184,
-  "2023-10-21": 21184,
-  "2023-10-22": 21184,
-  "2023-10-23": 21184,
-  "2023-10-24": 21184,
-  "2023-10-25": 21184,
-  "2023-10-26": 21184,
-  "2023-10-27": 21184,
-  "2023-10-28": 21184,
-  "2023-10-29": 21184,
-  "2023-10-30": 21184,
-  "2023-10-31": 21184,
-  "2023-11-01": 21184,
-  "2023-11-02": 21184,
-  "2023-11-03": 21184,
-  "2023-11-04": 21184,
-  "2023-11-05": 21184,
-  "2023-11-06": 21184,
-  "2023-11-07": 21184,
-  "2023-11-08": 21184,
-  "2023-11-09": 21184,
-  "2023-11-10": 21184,
-  "2023-11-11": 21510,
-  "2023-11-12": 21510,
-  "2023-11-13": 21510,
-  "2023-11-14": 21510,
-  "2023-11-15": 21510,
-  "2023-11-16": 21510,
-  "2023-11-17": 21510,
-  "2023-11-18": 21510,
-  "2023-11-19": 21510,
-  "2023-11-20": 21510,
-  "2023-11-21": 21510,
-  "2023-11-22": 21510,
-  "2023-11-23": 21510,
-  "2023-11-24": 21510,
-  "2023-11-25": 21510,
-  "2023-11-26": 21510,
-  "2023-11-27": 21510,
-  "2023-11-28": 21510,
-  "2023-11-29": 21510,
-  "2023-11-30": 21510,
-  "2023-12-01": 21510,
-  "2023-12-02": 21510,
-  "2023-12-03": 21510,
-  "2023-12-04": 21510,
-  "2023-12-05": 21510,
-  "2023-12-06": 21510,
-  "2023-12-07": 21510,
-  "2023-12-08": 21510,
-  "2023-12-09": 21510,
-  "2023-12-10": 21510,
-  "2023-12-11": 21510,
-  "2023-12-12": 21510,
-  "2023-12-13": 21510,
-  "2023-12-14": 21741,
-  "2023-12-15": 21746,
-  "2023-12-16": 21758,
-  "2023-12-17": 21763,
-  "2023-12-18": 21768,
-  "2023-12-19": 21779,
-  "2023-12-20": 21782,
-  "2023-12-21": 21791,
-  "2023-12-22": 21799,
-  "2023-12-23": 21807,
-  "2023-12-24": 21815,
-  "2023-12-25": 21819,
-  "2023-12-26": 21825,
-  "2023-12-27": 21832,
-  "2023-12-30": 21849,
-  "2023-12-31": 21854,
-  "2024-01-01": 21859,
-  "2024-01-02": 21865,
-  "2024-01-03": 21877
+  "2024-01-17": 21930,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
+  "name": "This Is Ludmila Ferber",
+  "tracks": [
+    {
+      "album": {
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "24 Horas por Dia",
+      "url": "https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 3: Tempo de Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5lQDYxPghIjoC7FR7JeLnc"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391760,
+      "name": "A Decis\u00e3o",
+      "url": "https://open.spotify.com/track/1PsuRU8oyFeEGpKCMh9GHj"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353746,
+      "name": "A Do\u00e7ura do Teu Falar",
+      "url": "https://open.spotify.com/track/20yEVa5CgZ4rzTPX1tLmBH"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 5: Coragem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368013,
+      "name": "Aguenta Firme - Ao Vivo",
+      "url": "https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj"
+    },
+    {
+      "album": {
+        "name": "Deus \u00c9 Bom Demais",
+        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243205,
+      "name": "Andar com Deus",
+      "url": "https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395346,
+      "name": "Buscar Tua Face \u00e9 Preciso - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453866,
+      "name": "Calma - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FiJiqNE9OGXX924PBxDqW"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342693,
+      "name": "Can\u00e7\u00e3o do Amigo",
+      "url": "https://open.spotify.com/track/3uiy3qcfjRJFwhH68iR74V"
+    },
+    {
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp"
+    },
+    {
+      "album": {
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
+    },
+    {
+      "album": {
+        "name": "O Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212276,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 319400,
+      "name": "D\u00e1-me Ouvidos",
+      "url": "https://open.spotify.com/track/23o46vvYcaJLGQomYj24c0"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "Eu Vou Vencer",
+      "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 4 - 24h por Dia",
+        "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281493,
+      "name": "Fala Comigo",
+      "url": "https://open.spotify.com/track/0muW7QDLTKANNZunJUR3j1"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387573,
+      "name": "Faz Chover",
+      "url": "https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369853,
+      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166295,
+      "name": "Hosana",
+      "url": "https://open.spotify.com/track/230D5FncrRu4KggaMrlpqQ"
+    },
+    {
+      "album": {
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Paulo Figueir\u00f3",
+          "url": "https://open.spotify.com/artist/78jkf2tGpyXw7OSnCrIFPz"
+        },
+        {
+          "name": "L\u00edgia Rosana Borba",
+          "url": "https://open.spotify.com/artist/1ehwaCFeyMExOtwC2kjs2F"
+        },
+        {
+          "name": "Christie Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
+        },
+        {
+          "name": "Massao Sughihara",
+          "url": "https://open.spotify.com/artist/4WFSZj3tmRuxnh1PxZha4c"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Carm\u00e9lia Tonin",
+          "url": "https://open.spotify.com/artist/1D395OIHUKfTf3PUjwqzN9"
+        },
+        {
+          "name": "DANIEL DE SOUZA",
+          "url": "https://open.spotify.com/artist/1uHg6TlW57YOJQS04ffj7e"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Gerson Ortega",
+          "url": "https://open.spotify.com/artist/6HY61ZWvyi9VDNTvB6ydTo"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Andr\u00e9 Borba",
+          "url": "https://open.spotify.com/artist/6EtZBYi9o5tLMHcYCUBC05"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3st",
+          "url": "https://open.spotify.com/artist/3sDHlT1fgAbyE3GmknrDGZ"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "H\u00e1 Muito Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b"
+    },
+    {
+      "album": {
+        "name": "Imenso Amor",
+        "url": "https://open.spotify.com/album/59iK9EtIpGxwHQco49f6Qa"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203235,
+      "name": "Imenso Amor",
+      "url": "https://open.spotify.com/track/3TwQlZ1YUhFQOrDT7aJDFh"
+    },
+    {
+      "album": {
+        "name": "Imenso Amor",
+        "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203235,
+      "name": "Imenso Amor",
+      "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+    },
+    {
+      "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "Jesus, A Rocha Eterna - Ao Vivo",
+      "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
+    },
+    {
+      "album": {
+        "name": "O Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182044,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/6lf9YkAg9nzxfcMHAtz6uW"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200176,
+      "name": "Maior Amor",
+      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311173,
+      "name": "Maior \u00e9 Jesus",
+      "url": "https://open.spotify.com/track/3kXERD0Bbh4gQYuObnB8lC"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 11 - O Ano da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/0TikZHgk6FGo9Aoo4KfKY1"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Maior \u00e9 Jesus",
+      "url": "https://open.spotify.com/track/2top1l3nzYWOeVWCssxoBx"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 8 - Maravilhoso \u00c9s",
+        "url": "https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272770,
+      "name": "Maravilhoso",
+      "url": "https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
+        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "M\u00e1rcio Pereira",
+          "url": "https://open.spotify.com/artist/0qdCtA4DBrgIcS3hdL6ZcB"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307644,
+      "name": "Meu Prazer",
+      "url": "https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418733,
+      "name": "Milhares de Milhares",
+      "url": "https://open.spotify.com/track/2Hkp20ozKGXEj6cBsCWpbq"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 334777,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/08N7NWeuMRKPNM86GZDcCP"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
+    },
+    {
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/0i6enCvQLwM7dXVPKUET6I"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ"
+    },
+    {
+      "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303808,
+      "name": "O Mover do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/6hDhsbyAXQbHdCEo258lNP"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340373,
+      "name": "O Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/6k8I0zBxqa5V3hTIWCRTFw"
+    },
+    {
+      "album": {
+        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391586,
+      "name": "Orar e Adorar (feat. David Quinlan)",
+      "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326960,
+      "name": "Ou\u00e7a e Tome Posse",
+      "url": "https://open.spotify.com/track/6Oh73zhneF8DSBZ3K3qe9J"
+    },
+    {
+      "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439266,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "Senhor que Cura",
+      "url": "https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR"
+    },
+    {
+      "album": {
+        "name": "Deus \u00c9 Bom Demais",
+        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332788,
+      "name": "Sopra Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348893,
+      "name": "S\u00f3 o Senhor \u00e9 Deus",
+      "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372800,
+      "name": "Tempo de Cura",
+      "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 8 - Maravilhoso \u00c9s",
+        "url": "https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Silv\u00e9rio Peres",
+          "url": "https://open.spotify.com/artist/20osU0MGKViBjY7vgDj57D"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196780,
+      "name": "Toda Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421866,
+      "name": "Toma Teu Trono",
+      "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
+        "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201430,
+      "name": "Totalmente aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/5PmmggoakMGj00jQPJbOVz"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337982,
+      "name": "Um Novo Come\u00e7o",
+      "url": "https://open.spotify.com/track/4Oc780FqTA7ZqnK9zeL3Tf"
+    },
+    {
+      "album": {
+        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316413,
+      "name": "Un\u00e7\u00e3o Sem Limites",
+      "url": "https://open.spotify.com/track/5TFqXjqtCGvqxA9WSmgjPR"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jluEL"
 }

@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "The Dance Beat of Xavier Cugat",
+        "url": "https://open.spotify.com/album/0I0zwKVL1SCPMuzC6GVKj4"
+      },
+      "artists": [
+        {
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+        }
+      ],
+      "date_added": "2021-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 205893,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3Rc950NhMyavCGmxhGSmnw"
+    },
+    {
+      "album": {
         "name": "Xavier Cugat - M\u00fasica para Bailar!",
         "url": "https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O"
       },

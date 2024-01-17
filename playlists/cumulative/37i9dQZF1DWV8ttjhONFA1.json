@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Los Besos",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mi Amigo Invencible",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
+    },
+    {
+      "album": {
         "name": "Hola Precioso",
         "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
       },
@@ -768,6 +786,24 @@
       "duration_ms": 206515,
       "name": "Ir derecho",
       "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
+    },
+    {
+      "album": {
+        "name": "La Celebraci\u00f3n",
+        "url": "https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1ecas",
+          "url": "https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224739,
+      "name": "La Celebraci\u00f3n",
+      "url": "https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy"
     },
     {
       "album": {
@@ -804,6 +840,24 @@
       "duration_ms": 198405,
       "name": "Las Flores Sangran",
       "url": "https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU"
+    },
+    {
+      "album": {
+        "name": "Leopardos",
+        "url": "https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Leopardos",
+      "url": "https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ"
     },
     {
       "album": {
@@ -1485,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Todo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111534,
+      "name": "Todo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN"
+    },
+    {
+      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -1550,7 +1622,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 152393,
       "name": "Tutank\u2019mon",
       "url": "https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP"

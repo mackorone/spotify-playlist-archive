@@ -2,9 +2,9 @@
 
 ### [Sleep Frequency](https://open.spotify.com/playlist/37i9dQZF1DWXlntHTG08uC)
 
-> 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
+> Frecuencia solfeggio de 528 Hz, ritmos y música para un sueño profundo y noches de descanso.
 
-184 songs - 8 hr 43 min
+185 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Instincts 528 Hz](https://open.spotify.com/track/0Zhgcle6jS4c3q046sGnPU) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:49 | 2023-02-08 |  |
 | [Into Nothing 528 Hz](https://open.spotify.com/track/1k3qD89JD6WzlYuWlvopph) | [The Anodic](https://open.spotify.com/artist/6fZhUg52Jqu49syExDuKII) | [Into Nothing 528 Hz](https://open.spotify.com/album/0KUwBzQ5rFWHGoBvKCj2zD) | 2:31 | 2023-04-06 |  |
 | [Liberation \- 528 Hz](https://open.spotify.com/track/4ITXSBweS8G37iXDug06O5) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Healing Balance](https://open.spotify.com/album/2P18J2YqmbZPIW61GZNrSo) | 2:41 | 2023-02-08 |  |
-| [Manipura](https://open.spotify.com/track/0ckOIcIEpVucmnRPLXUMVX) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Solar Plexus](https://open.spotify.com/album/39xElyPS5xwUCLdozReOem) | 2:00 | 2023-02-08 |  |
+| [Manipura](https://open.spotify.com/track/0ckOIcIEpVucmnRPLXUMVX) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Solar Plexus](https://open.spotify.com/album/39xElyPS5xwUCLdozReOem) | 2:00 | 2023-02-08 | 2024-01-07 |
+| [Manipura](https://open.spotify.com/track/0kr9VuHRhE6GcCguZ1djgx) | [Kula Kriya](https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn) | [Solar Plexus](https://open.spotify.com/album/2QzhtOdUdwmg8gEuHaDBEm) | 2:00 | 2023-12-20 |  |
 | [Milagro 528 Hz](https://open.spotify.com/track/4VS81707YRft2fY6YsuOwC) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Milagro 528 Hz](https://open.spotify.com/album/0KtSHbk0hm2bLZUm08K8y1) | 2:52 | 2023-02-08 |  |
 | [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 | 2023-02-08 |  |
 | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/track/7ytJp03Bb2wkKPYD01Y3Yg) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k) | 2:14 | 2023-02-08 |  |

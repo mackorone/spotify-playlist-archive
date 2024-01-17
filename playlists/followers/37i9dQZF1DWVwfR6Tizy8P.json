@@ -1,165 +1,809 @@
 {
-  "2023-07-23": 11346,
-  "2023-07-24": 11545,
-  "2023-07-25": 11767,
-  "2023-07-26": 11991,
-  "2023-07-27": 12245,
-  "2023-07-28": 12479,
-  "2023-07-29": 12736,
-  "2023-07-30": 12953,
-  "2023-07-31": 13157,
-  "2023-08-01": 13330,
-  "2023-08-02": 13496,
-  "2023-08-03": 13738,
-  "2023-08-04": 13949,
-  "2023-08-05": 14163,
-  "2023-08-06": 14574,
-  "2023-08-07": 14574,
-  "2023-08-08": 14747,
-  "2023-08-09": 14952,
-  "2023-08-10": 15188,
-  "2023-08-11": 15407,
-  "2023-08-12": 15611,
-  "2023-08-13": 15808,
-  "2023-08-14": 15977,
-  "2023-08-15": 16437,
-  "2023-08-16": 16437,
-  "2023-08-17": 16673,
-  "2023-08-18": 16922,
-  "2023-08-19": 17208,
-  "2023-08-20": 17432,
-  "2023-08-21": 17635,
-  "2023-08-22": 17887,
-  "2023-08-23": 18091,
-  "2023-08-24": 18357,
-  "2023-08-25": 18614,
-  "2023-08-26": 18868,
-  "2023-08-27": 19099,
-  "2023-08-28": 19320,
-  "2023-08-29": 19562,
-  "2023-08-30": 19769,
-  "2023-08-31": 19998,
-  "2023-09-01": 20561,
-  "2023-09-02": 20561,
-  "2023-09-03": 20736,
-  "2023-09-04": 20990,
-  "2023-09-05": 21263,
-  "2023-09-06": 21545,
-  "2023-09-07": 21833,
-  "2023-09-08": 22065,
-  "2023-09-09": 22389,
-  "2023-09-10": 22660,
-  "2023-09-11": 22900,
-  "2023-09-12": 23189,
-  "2023-09-13": 23480,
-  "2023-09-14": 23709,
-  "2023-09-15": 23956,
-  "2023-09-16": 24182,
-  "2023-09-17": 24395,
-  "2023-09-18": 24601,
-  "2023-09-19": 24829,
-  "2023-09-20": 25019,
-  "2023-09-21": 25359,
-  "2023-09-22": 25572,
-  "2023-09-23": 25784,
-  "2023-09-24": 26006,
-  "2023-09-25": 26207,
-  "2023-09-26": 26437,
-  "2023-09-27": 26610,
-  "2023-09-28": 26786,
-  "2023-09-29": 27010,
-  "2023-09-30": 27252,
-  "2023-10-01": 27404,
-  "2023-10-02": 27560,
-  "2023-10-03": 27691,
-  "2023-10-04": 27882,
-  "2023-10-05": 28066,
-  "2023-10-06": 28226,
-  "2023-10-07": 28399,
-  "2023-10-08": 28664,
-  "2023-10-09": 28826,
-  "2023-10-10": 29001,
-  "2023-10-11": 29336,
-  "2023-10-12": 29336,
-  "2023-10-13": 29509,
-  "2023-10-14": 29668,
-  "2023-10-15": 29828,
-  "2023-10-16": 30012,
-  "2023-10-17": 30213,
-  "2023-10-18": 30412,
-  "2023-10-19": 30612,
-  "2023-10-20": 30816,
-  "2023-10-21": 31004,
-  "2023-10-22": 31185,
-  "2023-10-23": 31331,
-  "2023-10-24": 31577,
-  "2023-10-25": 31817,
-  "2023-10-26": 31989,
-  "2023-10-27": 32198,
-  "2023-10-28": 32425,
-  "2023-10-29": 32594,
-  "2023-10-30": 32936,
-  "2023-10-31": 32936,
-  "2023-11-01": 33150,
-  "2023-11-02": 33331,
-  "2023-11-03": 33520,
-  "2023-11-04": 33681,
-  "2023-11-05": 33848,
-  "2023-11-06": 34003,
-  "2023-11-07": 34174,
-  "2023-11-08": 34359,
-  "2023-11-09": 34567,
-  "2023-11-10": 34756,
-  "2023-11-11": 34924,
-  "2023-11-12": 35056,
-  "2023-11-13": 35175,
-  "2023-11-14": 35345,
-  "2023-11-15": 35345,
-  "2023-11-16": 35645,
-  "2023-11-17": 35929,
-  "2023-11-18": 35929,
-  "2023-11-19": 36061,
-  "2023-11-20": 36201,
-  "2023-11-21": 36371,
-  "2023-11-22": 36513,
-  "2023-11-23": 36661,
-  "2023-11-24": 36801,
-  "2023-11-25": 36949,
-  "2023-11-26": 37096,
-  "2023-11-27": 37238,
-  "2023-11-28": 37377,
-  "2023-11-29": 37724,
-  "2023-11-30": 37724,
-  "2023-12-01": 37898,
-  "2023-12-02": 38061,
-  "2023-12-03": 38208,
-  "2023-12-04": 38335,
-  "2023-12-05": 38486,
-  "2023-12-06": 38651,
-  "2023-12-07": 38797,
-  "2023-12-08": 38938,
-  "2023-12-09": 39107,
-  "2023-12-10": 39267,
-  "2023-12-11": 39426,
-  "2023-12-12": 39578,
-  "2023-12-13": 39780,
-  "2023-12-14": 39964,
-  "2023-12-15": 40098,
-  "2023-12-16": 40229,
-  "2023-12-17": 40363,
-  "2023-12-18": 40507,
-  "2023-12-19": 40641,
-  "2023-12-20": 40772,
-  "2023-12-21": 40934,
-  "2023-12-22": 41088,
-  "2023-12-23": 41238,
-  "2023-12-24": 41409,
-  "2023-12-25": 41576,
-  "2023-12-26": 41695,
-  "2023-12-27": 41847,
-  "2023-12-30": 42330,
-  "2023-12-31": 42493,
-  "2024-01-01": 42646,
-  "2024-01-02": 42802,
-  "2024-01-03": 43008
+  "2024-01-17": 45827,
+  "date_first_scraped": "2023-07-23",
+  "description": "Pura malha\u00e7\u00e3o retr\u00f4 para voc\u00ea suar as pol\u00e2inas.",
+  "name": "Treino Anos 80",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
+    },
+    {
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "All Night Long - Single Version",
+      "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "album": {
+        "name": "PopArt: The Hits",
+        "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Always on My Mind - 2003 Remaster",
+      "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "Bad - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Bette Davis Eyes - Re-Recorded",
+      "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"
+    },
+    {
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Gloria Estefan (English Version)",
+        "url": "https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359733,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
+    },
+    {
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+    },
+    {
+      "album": {
+        "name": "Introspective (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460360,
+      "name": "Domino Dancing - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl"
+    },
+    {
+      "album": {
+        "name": "Flash Back Internacional",
+        "url": "https://open.spotify.com/album/0xHBgcc8mjG1FILI9NPrg9"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249653,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/3DtK601PJiNPe8COo67unB"
+    },
+    {
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "album": {
+        "name": "Flash Back Internacional",
+        "url": "https://open.spotify.com/album/0xHBgcc8mjG1FILI9NPrg9"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/06P77CTyiezgBWK6EZvkvq"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "Dressed For Success",
+      "url": "https://open.spotify.com/track/7dOyP04azUFikPvAkhRBeJ"
+    },
+    {
+      "album": {
+        "name": "101 Punk & New Wave Anthem",
+        "url": "https://open.spotify.com/album/1jlLwwlXgz9i3UriurwBHQ"
+      },
+      "artists": [
+        {
+          "name": "Electric Avenue",
+          "url": "https://open.spotify.com/artist/4zZltZN52KGWA53x8ILybr"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198436,
+      "name": "Electric Avenue",
+      "url": "https://open.spotify.com/track/7CnKqkn1OxLyRPBIxpMQZl"
+    },
+    {
+      "album": {
+        "name": "The Best Of Survivor",
+        "url": "https://open.spotify.com/album/7gdUVn0UOUaKcv1RM3iroQ"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/0cKuO2BdECtbVQDCGx1dqa"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
+    },
+    {
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Maniac - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/4owSXetN7Yeq8h3ppIPdkF"
+    },
+    {
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Save a Prayer - Single Version",
+      "url": "https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt"
+    },
+    {
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
+    },
+    {
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
+      },
+      "artists": [
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sweet Dreams (Are Made of This) - Remastered",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "album": {
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e2nticas Anos 80",
+        "url": "https://open.spotify.com/album/79WstOylBF1QpisjWDNUdG"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256200,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/62pKSuFKEcUM1RHSzb8PMT"
+    },
+    {
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "album": {
+        "name": "Love Cinema (The Best Songs Soundtrack)",
+        "url": "https://open.spotify.com/album/1226k9590dLCZVD4oM6RuT"
+      },
+      "artists": [
+        {
+          "name": "The Sailors",
+          "url": "https://open.spotify.com/artist/3aBgxVk0w19PHmk16hsTYd"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "What a Feeling - From \"Flashdance\"",
+      "url": "https://open.spotify.com/track/2eOlCbpQQIy6aRNHV9hg3o"
+    },
+    {
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221840,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVwfR6Tizy8P"
 }

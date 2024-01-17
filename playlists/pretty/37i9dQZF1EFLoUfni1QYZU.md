@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669 likes - 84 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 84 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 36 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 |
 | 37 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 |
 | 38 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 |
-| 39 | [Long Way To Go To Die](https://open.spotify.com/track/7ECRCvKNHUEUH7vEPD9P4I) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:05 |
-| 40 | [Lolita](https://open.spotify.com/track/1CksYfCiy5yqIWQspL9kBQ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW) | 3:25 |
-| 41 | [Dreamcatcher](https://open.spotify.com/track/5NQx7QdCOMx7GS77eOlzzI) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:15 |
-| 42 | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T) | [2kMay](https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9) | 3:33 |
+| 39 | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T) | [2kMay](https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt), [iGodzilla](https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez) | [I'll Do It \(feat\. iGodzilla\)](https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9) | 3:33 |
+| 40 | [Long Way To Go To Die](https://open.spotify.com/track/7ECRCvKNHUEUH7vEPD9P4I) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:05 |
+| 41 | [Lolita](https://open.spotify.com/track/1CksYfCiy5yqIWQspL9kBQ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Untouched](https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW) | 3:25 |
+| 42 | [Dreamcatcher](https://open.spotify.com/track/5NQx7QdCOMx7GS77eOlzzI) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:15 |
 | 43 | [One Night In the Sun](https://open.spotify.com/track/2c5qi47dEK3F44KGKdNpuS) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 4:24 |
 | 44 | [The Power](https://open.spotify.com/track/62uBN2MTdEPpPFnT3xVs1U) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 4:38 |
 | 45 | [One Last Mistake](https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:35 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDA4ZmU3M2U3ZDIwODBmZjBmNjUwMGQxZTJjNTc1NWVjYg==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDBhYzMwNjA1YTVjMjc5YzM3ZWE4YTFjMmY5ZTcxZDlhZQ==`

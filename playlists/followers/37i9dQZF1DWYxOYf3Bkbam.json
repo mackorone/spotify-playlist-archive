@@ -1,727 +1,3153 @@
 {
-  "2022-01-02": 22625,
-  "2022-01-03": 22669,
-  "2022-01-04": 22697,
-  "2022-01-05": 22724,
-  "2022-01-06": 22741,
-  "2022-01-07": 22762,
-  "2022-01-08": 22827,
-  "2022-01-09": 22830,
-  "2022-01-10": 22869,
-  "2022-01-11": 22889,
-  "2022-01-12": 22917,
-  "2022-01-13": 22938,
-  "2022-01-14": 22966,
-  "2022-01-15": 23050,
-  "2022-01-16": 23054,
-  "2022-01-17": 23122,
-  "2022-01-18": 23124,
-  "2022-01-19": 23137,
-  "2022-01-20": 23162,
-  "2022-01-21": 23190,
-  "2022-01-22": 23216,
-  "2022-01-23": 23257,
-  "2022-01-24": 23298,
-  "2022-01-25": 23334,
-  "2022-01-26": 23352,
-  "2022-01-27": 23384,
-  "2022-01-28": 23403,
-  "2022-01-29": 23431,
-  "2022-01-30": 23464,
-  "2022-01-31": 23504,
-  "2022-02-01": 23524,
-  "2022-02-02": 23545,
-  "2022-02-03": 23563,
-  "2022-02-04": 23588,
-  "2022-02-05": 23623,
-  "2022-02-06": 23653,
-  "2022-02-07": 23705,
-  "2022-02-08": 23730,
-  "2022-02-09": 23761,
-  "2022-02-10": 23789,
-  "2022-02-11": 23810,
-  "2022-02-12": 23828,
-  "2022-02-13": 23866,
-  "2022-02-14": 23916,
-  "2022-02-15": 23941,
-  "2022-02-16": 23960,
-  "2022-02-17": 23982,
-  "2022-02-18": 24004,
-  "2022-02-19": 24035,
-  "2022-02-20": 24081,
-  "2022-02-21": 24124,
-  "2022-02-22": 24139,
-  "2022-02-23": 24169,
-  "2022-02-24": 24210,
-  "2022-02-25": 24229,
-  "2022-02-26": 24268,
-  "2022-02-27": 24333,
-  "2022-02-28": 24333,
-  "2022-03-01": 24357,
-  "2022-03-02": 24385,
-  "2022-03-03": 24401,
-  "2022-03-04": 24412,
-  "2022-03-05": 24433,
-  "2022-03-06": 24470,
-  "2022-03-07": 24509,
-  "2022-03-08": 24525,
-  "2022-03-09": 24551,
-  "2022-03-10": 24558,
-  "2022-03-11": 24582,
-  "2022-03-12": 24604,
-  "2022-03-13": 24617,
-  "2022-03-14": 24650,
-  "2022-03-15": 24668,
-  "2022-03-16": 24689,
-  "2022-03-17": 24715,
-  "2022-03-18": 24741,
-  "2022-03-19": 24754,
-  "2022-03-20": 24754,
-  "2022-03-21": 24826,
-  "2022-03-22": 24840,
-  "2022-03-23": 24858,
-  "2022-03-24": 24884,
-  "2022-03-25": 24896,
-  "2022-03-26": 24916,
-  "2022-03-27": 24939,
-  "2022-03-28": 24972,
-  "2022-03-30": 25021,
-  "2022-03-31": 25050,
-  "2022-04-01": 25068,
-  "2022-04-02": 25085,
-  "2022-04-03": 25113,
-  "2022-04-04": 25143,
-  "2022-04-05": 25159,
-  "2022-04-06": 25172,
-  "2022-04-07": 25190,
-  "2022-04-08": 25216,
-  "2022-04-09": 25230,
-  "2022-04-10": 25284,
-  "2022-04-11": 25303,
-  "2022-04-12": 25305,
-  "2022-04-13": 25325,
-  "2022-04-14": 25350,
-  "2022-04-15": 25381,
-  "2022-04-16": 25409,
-  "2022-04-17": 25434,
-  "2022-04-18": 25482,
-  "2022-04-19": 25498,
-  "2022-04-20": 25519,
-  "2022-04-21": 25531,
-  "2022-04-22": 25549,
-  "2022-04-23": 25572,
-  "2022-04-24": 25596,
-  "2022-04-25": 25621,
-  "2022-04-26": 25645,
-  "2022-04-27": 25658,
-  "2022-04-28": 25673,
-  "2022-04-29": 25703,
-  "2022-04-30": 25741,
-  "2022-05-01": 25790,
-  "2022-05-02": 25790,
-  "2022-05-03": 25805,
-  "2022-05-04": 25826,
-  "2022-05-05": 25842,
-  "2022-05-06": 25861,
-  "2022-05-07": 25908,
-  "2022-05-08": 25952,
-  "2022-05-09": 25956,
-  "2022-05-10": 25963,
-  "2022-05-11": 25985,
-  "2022-05-12": 26005,
-  "2022-05-13": 26027,
-  "2022-05-14": 26050,
-  "2022-05-15": 26078,
-  "2022-05-16": 26119,
-  "2022-05-17": 26131,
-  "2022-05-18": 26155,
-  "2022-05-19": 26183,
-  "2022-05-20": 26208,
-  "2022-05-21": 26239,
-  "2022-05-22": 26239,
-  "2022-05-23": 26270,
-  "2022-05-24": 26283,
-  "2022-05-25": 26304,
-  "2022-05-26": 26343,
-  "2022-05-27": 26361,
-  "2022-05-28": 26385,
-  "2022-05-29": 26405,
-  "2022-05-30": 26435,
-  "2022-05-31": 26448,
-  "2022-06-01": 26495,
-  "2022-06-02": 26500,
-  "2022-06-03": 26516,
-  "2022-06-04": 26534,
-  "2022-06-05": 26558,
-  "2022-06-06": 26584,
-  "2022-06-07": 26597,
-  "2022-06-08": 26610,
-  "2022-06-09": 26627,
-  "2022-06-10": 26644,
-  "2022-06-11": 26670,
-  "2022-06-12": 26688,
-  "2022-06-13": 26723,
-  "2022-06-14": 26741,
-  "2022-06-15": 26764,
-  "2022-06-16": 26784,
-  "2022-06-17": 26808,
-  "2022-06-18": 26827,
-  "2022-06-19": 26912,
-  "2022-06-20": 26912,
-  "2022-06-21": 26929,
-  "2022-06-22": 26960,
-  "2022-06-23": 26960,
-  "2022-06-24": 26982,
-  "2022-06-25": 27005,
-  "2022-06-26": 27021,
-  "2022-06-27": 27056,
-  "2022-06-28": 27070,
-  "2022-06-29": 27087,
-  "2022-06-30": 27101,
-  "2022-07-01": 27120,
-  "2022-07-02": 27139,
-  "2022-07-03": 27166,
-  "2022-07-04": 27192,
-  "2022-07-05": 27216,
-  "2022-07-06": 27232,
-  "2022-07-07": 27257,
-  "2022-07-08": 27285,
-  "2022-07-09": 27309,
-  "2022-07-10": 27341,
-  "2022-07-11": 27370,
-  "2022-07-12": 27391,
-  "2022-07-13": 27409,
-  "2022-07-14": 27440,
-  "2022-07-15": 27460,
-  "2022-07-16": 27481,
-  "2022-07-17": 27514,
-  "2022-07-18": 27544,
-  "2022-07-19": 27573,
-  "2022-07-20": 27591,
-  "2022-07-21": 27604,
-  "2022-07-22": 27631,
-  "2022-07-23": 27666,
-  "2022-07-24": 27694,
-  "2022-07-25": 27731,
-  "2022-07-26": 27745,
-  "2022-07-27": 27773,
-  "2022-07-28": 27785,
-  "2022-07-29": 27808,
-  "2022-07-30": 27856,
-  "2022-07-31": 27856,
-  "2022-08-01": 27875,
-  "2022-08-02": 27920,
-  "2022-08-03": 27920,
-  "2022-08-04": 27947,
-  "2022-08-05": 27967,
-  "2022-08-06": 27994,
-  "2022-08-07": 28023,
-  "2022-08-08": 28057,
-  "2022-08-09": 28081,
-  "2022-08-10": 28112,
-  "2022-08-11": 28132,
-  "2022-08-12": 28160,
-  "2022-08-13": 28184,
-  "2022-08-14": 28204,
-  "2022-08-15": 28251,
-  "2022-08-16": 28274,
-  "2022-08-17": 28301,
-  "2022-08-18": 28324,
-  "2022-08-19": 28341,
-  "2022-08-20": 28365,
-  "2022-08-21": 28400,
-  "2022-08-22": 28440,
-  "2022-08-23": 28463,
-  "2022-08-24": 28484,
-  "2022-08-25": 28505,
-  "2022-08-26": 28533,
-  "2022-08-27": 28563,
-  "2022-08-28": 28607,
-  "2022-08-29": 28648,
-  "2022-08-30": 28673,
-  "2022-08-31": 28702,
-  "2022-09-01": 28720,
-  "2022-09-02": 28738,
-  "2022-09-03": 28754,
-  "2022-09-04": 28787,
-  "2022-09-05": 28820,
-  "2022-09-06": 28847,
-  "2022-09-07": 28867,
-  "2022-09-09": 28907,
-  "2022-09-10": 28933,
-  "2022-09-11": 28958,
-  "2022-09-12": 28993,
-  "2022-09-13": 29013,
-  "2022-09-15": 29055,
-  "2022-09-16": 29081,
-  "2022-09-17": 29104,
-  "2022-09-18": 29137,
-  "2022-09-19": 29187,
-  "2022-09-20": 29209,
-  "2022-09-21": 29226,
-  "2022-09-22": 29249,
-  "2022-09-23": 29288,
-  "2022-09-24": 29304,
-  "2022-09-25": 29346,
-  "2022-09-26": 29389,
-  "2022-09-27": 29406,
-  "2022-09-28": 29423,
-  "2022-09-29": 29444,
-  "2022-09-30": 29481,
-  "2022-10-01": 29505,
-  "2022-10-02": 29533,
-  "2022-10-03": 29570,
-  "2022-10-04": 29583,
-  "2022-10-05": 29602,
-  "2022-10-06": 29627,
-  "2022-10-07": 29643,
-  "2022-10-08": 29684,
-  "2022-10-09": 29755,
-  "2022-10-10": 29769,
-  "2022-10-11": 29809,
-  "2022-10-12": 29826,
-  "2022-10-13": 29851,
-  "2022-10-14": 29875,
-  "2022-10-15": 29905,
-  "2022-10-16": 29946,
-  "2022-10-17": 29985,
-  "2022-10-18": 30003,
-  "2022-10-19": 30022,
-  "2022-10-20": 30040,
-  "2022-10-21": 30073,
-  "2022-10-22": 30093,
-  "2022-10-23": 30128,
-  "2022-10-24": 30159,
-  "2022-10-25": 30178,
-  "2022-10-26": 30200,
-  "2022-10-27": 30226,
-  "2022-10-28": 30248,
-  "2022-10-29": 30276,
-  "2022-10-30": 30302,
-  "2022-10-31": 30331,
-  "2022-11-01": 30358,
-  "2022-11-02": 30384,
-  "2022-11-03": 30412,
-  "2022-11-04": 30438,
-  "2022-11-05": 30467,
-  "2022-11-06": 30501,
-  "2022-11-07": 30546,
-  "2022-11-08": 30566,
-  "2022-11-09": 30596,
-  "2022-11-10": 30610,
-  "2022-11-11": 30646,
-  "2022-11-12": 30680,
-  "2022-11-13": 30704,
-  "2022-11-14": 30765,
-  "2022-11-15": 30786,
-  "2022-11-16": 30804,
-  "2022-11-17": 30818,
-  "2022-11-18": 30814,
-  "2022-11-19": 30811,
-  "2022-11-20": 30810,
-  "2022-11-21": 30842,
-  "2022-11-22": 30915,
-  "2022-11-23": 30909,
-  "2022-11-24": 30952,
-  "2022-11-25": 30980,
-  "2022-11-26": 31011,
-  "2022-11-27": 31039,
-  "2022-11-28": 31084,
-  "2022-11-29": 31099,
-  "2022-11-30": 31118,
-  "2022-12-01": 31131,
-  "2022-12-02": 31145,
-  "2022-12-03": 31164,
-  "2022-12-04": 31188,
-  "2022-12-05": 31231,
-  "2022-12-06": 31252,
-  "2022-12-07": 31273,
-  "2022-12-08": 31304,
-  "2022-12-09": 31347,
-  "2022-12-10": 31367,
-  "2022-12-11": 31389,
-  "2022-12-12": 31429,
-  "2022-12-13": 31442,
-  "2022-12-14": 31463,
-  "2022-12-15": 31491,
-  "2022-12-16": 31503,
-  "2022-12-17": 31529,
-  "2022-12-18": 31572,
-  "2022-12-19": 31593,
-  "2022-12-20": 31636,
-  "2022-12-21": 31636,
-  "2022-12-22": 31657,
-  "2022-12-24": 31719,
-  "2022-12-25": 31796,
-  "2022-12-26": 31867,
-  "2022-12-27": 31883,
-  "2022-12-28": 31917,
-  "2022-12-29": 31950,
-  "2022-12-30": 31987,
-  "2022-12-31": 32025,
-  "2023-01-01": 32087,
-  "2023-01-02": 32143,
-  "2023-01-03": 32170,
-  "2023-01-04": 32187,
-  "2023-01-05": 32217,
-  "2023-01-06": 32244,
-  "2023-01-07": 32309,
-  "2023-01-08": 32319,
-  "2023-01-09": 32377,
-  "2023-01-10": 32405,
-  "2023-01-11": 32443,
-  "2023-01-12": 32459,
-  "2023-01-13": 32498,
-  "2023-01-14": 32580,
-  "2023-01-15": 32595,
-  "2023-01-16": 32639,
-  "2023-01-17": 32674,
-  "2023-01-18": 32723,
-  "2023-01-19": 32763,
-  "2023-01-20": 32802,
-  "2023-01-21": 32833,
-  "2023-01-22": 32887,
-  "2023-01-23": 32947,
-  "2023-01-24": 32966,
-  "2023-01-25": 33010,
-  "2023-01-26": 33028,
-  "2023-01-27": 33065,
-  "2023-01-28": 33117,
-  "2023-01-29": 33149,
-  "2023-01-30": 33184,
-  "2023-01-31": 33184,
-  "2023-02-01": 33234,
-  "2023-02-02": 33260,
-  "2023-02-03": 33287,
-  "2023-02-04": 33328,
-  "2023-02-05": 33373,
-  "2023-02-06": 33413,
-  "2023-02-07": 33435,
-  "2023-02-08": 33488,
-  "2023-02-09": 33488,
-  "2023-02-10": 33514,
-  "2023-02-11": 33544,
-  "2023-02-12": 33618,
-  "2023-02-13": 33645,
-  "2023-02-14": 33645,
-  "2023-02-15": 33677,
-  "2023-02-16": 33702,
-  "2023-02-17": 33741,
-  "2023-02-18": 33814,
-  "2023-02-19": 33830,
-  "2023-02-20": 33850,
-  "2023-02-21": 33884,
-  "2023-02-22": 33918,
-  "2023-02-23": 33946,
-  "2023-02-24": 33985,
-  "2023-02-25": 34026,
-  "2023-02-26": 34056,
-  "2023-02-27": 34103,
-  "2023-02-28": 34103,
-  "2023-03-01": 34120,
-  "2023-03-02": 34148,
-  "2023-03-03": 34188,
-  "2023-03-04": 34212,
-  "2023-03-05": 34294,
-  "2023-03-06": 34294,
-  "2023-03-07": 34314,
-  "2023-03-08": 34342,
-  "2023-03-09": 34371,
-  "2023-03-10": 34400,
-  "2023-03-11": 34446,
-  "2023-03-12": 34479,
-  "2023-03-13": 34523,
-  "2023-03-14": 34536,
-  "2023-03-15": 34558,
-  "2023-03-16": 34575,
-  "2023-03-17": 34575,
-  "2023-03-18": 34615,
-  "2023-03-19": 34651,
-  "2023-03-20": 34680,
-  "2023-03-21": 34704,
-  "2023-03-22": 34722,
-  "2023-03-23": 34756,
-  "2023-03-24": 34756,
-  "2023-03-25": 34794,
-  "2023-03-26": 34819,
-  "2023-03-27": 34867,
-  "2023-03-28": 34883,
-  "2023-03-29": 34925,
-  "2023-03-30": 34967,
-  "2023-03-31": 34967,
-  "2023-04-01": 34989,
-  "2023-04-02": 35023,
-  "2023-04-03": 35064,
-  "2023-04-04": 35085,
-  "2023-04-05": 35113,
-  "2023-04-06": 35138,
-  "2023-04-07": 35183,
-  "2023-04-09": 35257,
-  "2023-04-10": 35289,
-  "2023-04-11": 35335,
-  "2023-04-12": 35335,
-  "2023-04-13": 35354,
-  "2023-04-14": 35375,
-  "2023-04-15": 35402,
-  "2023-04-16": 35446,
-  "2023-04-17": 35501,
-  "2023-04-18": 35530,
-  "2023-04-19": 35566,
-  "2023-04-20": 35593,
-  "2023-04-21": 35626,
-  "2023-04-22": 35670,
-  "2023-04-23": 35698,
-  "2023-04-24": 35750,
-  "2023-04-25": 35765,
-  "2023-04-26": 35804,
-  "2023-04-27": 35832,
-  "2023-04-28": 35871,
-  "2023-04-29": 35915,
-  "2023-04-30": 35951,
-  "2023-05-01": 35994,
-  "2023-05-02": 36036,
-  "2023-05-03": 36057,
-  "2023-05-04": 36083,
-  "2023-05-05": 36115,
-  "2023-05-06": 36137,
-  "2023-05-07": 36176,
-  "2023-05-08": 36208,
-  "2023-05-09": 36241,
-  "2023-05-10": 36272,
-  "2023-05-11": 36296,
-  "2023-05-12": 36326,
-  "2023-05-13": 36359,
-  "2023-05-14": 36397,
-  "2023-05-15": 36461,
-  "2023-05-16": 36486,
-  "2023-05-17": 36522,
-  "2023-05-18": 36553,
-  "2023-05-19": 36588,
-  "2023-05-20": 36662,
-  "2023-05-21": 36662,
-  "2023-05-22": 36662,
-  "2023-05-23": 36728,
-  "2023-05-24": 36781,
-  "2023-05-25": 36795,
-  "2023-05-26": 36848,
-  "2023-05-27": 36884,
-  "2023-05-28": 36926,
-  "2023-05-29": 36926,
-  "2023-05-30": 36984,
-  "2023-05-31": 37015,
-  "2023-06-01": 37046,
-  "2023-06-02": 37065,
-  "2023-06-03": 37090,
-  "2023-06-04": 37126,
-  "2023-06-05": 37175,
-  "2023-06-06": 37200,
-  "2023-06-07": 37231,
-  "2023-06-08": 37263,
-  "2023-06-09": 37286,
-  "2023-06-10": 37316,
-  "2023-06-11": 37354,
-  "2023-06-12": 37388,
-  "2023-06-13": 37412,
-  "2023-06-14": 37412,
-  "2023-06-15": 37472,
-  "2023-06-16": 37504,
-  "2023-06-17": 37549,
-  "2023-06-18": 37601,
-  "2023-06-19": 37680,
-  "2023-06-20": 37728,
-  "2023-06-21": 37762,
-  "2023-06-22": 37785,
-  "2023-06-23": 37808,
-  "2023-06-24": 37842,
-  "2023-06-25": 37886,
-  "2023-06-26": 37925,
-  "2023-06-27": 37953,
-  "2023-06-28": 37983,
-  "2023-06-29": 38012,
-  "2023-06-30": 38043,
-  "2023-07-01": 38125,
-  "2023-07-02": 38125,
-  "2023-07-03": 38169,
-  "2023-07-04": 38211,
-  "2023-07-05": 38246,
-  "2023-07-06": 38311,
-  "2023-07-07": 38311,
-  "2023-07-08": 38345,
-  "2023-07-09": 38398,
-  "2023-07-10": 38437,
-  "2023-07-11": 38463,
-  "2023-07-12": 38484,
-  "2023-07-13": 38508,
-  "2023-07-14": 38552,
-  "2023-07-15": 38578,
-  "2023-07-16": 38625,
-  "2023-07-17": 38679,
-  "2023-07-18": 38725,
-  "2023-07-19": 38766,
-  "2023-07-20": 38798,
-  "2023-07-21": 38837,
-  "2023-07-22": 38873,
-  "2023-07-23": 38909,
-  "2023-07-24": 38954,
-  "2023-07-25": 38976,
-  "2023-07-26": 39013,
-  "2023-07-27": 39042,
-  "2023-07-28": 39083,
-  "2023-07-29": 39136,
-  "2023-07-30": 39179,
-  "2023-07-31": 39240,
-  "2023-08-01": 39274,
-  "2023-08-02": 39303,
-  "2023-08-03": 39345,
-  "2023-08-04": 39377,
-  "2023-08-05": 39425,
-  "2023-08-06": 39543,
-  "2023-08-07": 39543,
-  "2023-08-08": 39569,
-  "2023-08-09": 39593,
-  "2023-08-10": 39631,
-  "2023-08-11": 39656,
-  "2023-08-12": 39689,
-  "2023-08-13": 39723,
-  "2023-08-14": 39778,
-  "2023-08-15": 39837,
-  "2023-08-16": 39837,
-  "2023-08-17": 39863,
-  "2023-08-18": 39899,
-  "2023-08-19": 39948,
-  "2023-08-20": 40009,
-  "2023-08-21": 40062,
-  "2023-08-22": 40103,
-  "2023-08-23": 40137,
-  "2023-08-24": 40166,
-  "2023-08-25": 40201,
-  "2023-08-26": 40248,
-  "2023-08-27": 40305,
-  "2023-08-28": 40376,
-  "2023-08-29": 40410,
-  "2023-08-30": 40450,
-  "2023-08-31": 40481,
-  "2023-09-01": 40553,
-  "2023-09-02": 40553,
-  "2023-09-03": 40597,
-  "2023-09-04": 40676,
-  "2023-09-05": 40718,
-  "2023-09-06": 40763,
-  "2023-09-07": 40808,
-  "2023-09-08": 40861,
-  "2023-09-09": 40911,
-  "2023-09-10": 40956,
-  "2023-09-11": 41015,
-  "2023-09-12": 41054,
-  "2023-09-13": 41103,
-  "2023-09-14": 41148,
-  "2023-09-15": 41201,
-  "2023-09-16": 41243,
-  "2023-09-17": 41307,
-  "2023-09-18": 41362,
-  "2023-09-19": 41399,
-  "2023-09-20": 41438,
-  "2023-09-21": 41471,
-  "2023-09-22": 41507,
-  "2023-09-23": 41553,
-  "2023-09-24": 41603,
-  "2023-09-25": 41646,
-  "2023-09-26": 41686,
-  "2023-09-27": 41725,
-  "2023-09-28": 41754,
-  "2023-09-29": 41789,
-  "2023-09-30": 41835,
-  "2023-10-01": 41875,
-  "2023-10-02": 41918,
-  "2023-10-03": 41943,
-  "2023-10-04": 41977,
-  "2023-10-05": 41999,
-  "2023-10-06": 42031,
-  "2023-10-07": 42068,
-  "2023-10-08": 42125,
-  "2023-10-09": 42168,
-  "2023-10-10": 42191,
-  "2023-10-11": 42236,
-  "2023-10-12": 42236,
-  "2023-10-13": 42257,
-  "2023-10-14": 42307,
-  "2023-10-15": 42364,
-  "2023-10-16": 42434,
-  "2023-10-17": 42480,
-  "2023-10-18": 42501,
-  "2023-10-19": 42524,
-  "2023-10-20": 42544,
-  "2023-10-21": 42572,
-  "2023-10-22": 42605,
-  "2023-10-23": 42650,
-  "2023-10-24": 42672,
-  "2023-10-25": 42710,
-  "2023-10-26": 42744,
-  "2023-10-27": 42772,
-  "2023-10-28": 42816,
-  "2023-10-29": 42851,
-  "2023-10-30": 42940,
-  "2023-10-31": 42940,
-  "2023-11-01": 42968,
-  "2023-11-02": 43003,
-  "2023-11-03": 43031,
-  "2023-11-04": 43082,
-  "2023-11-05": 43119,
-  "2023-11-06": 43163,
-  "2023-11-07": 43186,
-  "2023-11-08": 43207,
-  "2023-11-09": 43240,
-  "2023-11-10": 43271,
-  "2023-11-11": 43311,
-  "2023-11-12": 43347,
-  "2023-11-13": 43384,
-  "2023-11-14": 43409,
-  "2023-11-15": 43409,
-  "2023-11-16": 43479,
-  "2023-11-17": 43561,
-  "2023-11-18": 43561,
-  "2023-11-19": 43600,
-  "2023-11-20": 43655,
-  "2023-11-21": 43685,
-  "2023-11-22": 43704,
-  "2023-11-23": 43718,
-  "2023-11-24": 43741,
-  "2023-11-25": 43778,
-  "2023-11-26": 43817,
-  "2023-11-27": 43856,
-  "2023-11-28": 43882,
-  "2023-11-29": 43936,
-  "2023-11-30": 43936,
-  "2023-12-01": 43966,
-  "2023-12-02": 43990,
-  "2023-12-03": 44033,
-  "2023-12-04": 44070,
-  "2023-12-05": 44090,
-  "2023-12-06": 44120,
-  "2023-12-07": 44142,
-  "2023-12-08": 44165,
-  "2023-12-09": 44201,
-  "2023-12-10": 44231,
-  "2023-12-11": 44260,
-  "2023-12-12": 44278,
-  "2023-12-13": 44292,
-  "2023-12-14": 44311,
-  "2023-12-15": 44321,
-  "2023-12-16": 44348,
-  "2023-12-17": 44373,
-  "2023-12-18": 44405,
-  "2023-12-19": 44416,
-  "2023-12-20": 44441,
-  "2023-12-21": 44461,
-  "2023-12-22": 44481,
-  "2023-12-23": 44500,
-  "2023-12-24": 44540,
-  "2023-12-25": 44611,
-  "2023-12-26": 44676,
-  "2023-12-27": 44709,
-  "2023-12-30": 44831,
-  "2023-12-31": 44870,
-  "2024-01-01": 44950,
-  "2024-01-02": 45005,
-  "2024-01-03": 45031
+  "2024-01-17": 45441,
+  "date_first_scraped": "2022-01-02",
+  "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
+  "name": "Mundo Chamam\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Chamam\u00e9, Lazo y Rebenque",
+        "url": "https://open.spotify.com/album/40jDtqFvgrikiG9vj3gddX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Vera y sus Chamameceros",
+          "url": "https://open.spotify.com/artist/2SIhciEoKQ94mNxTMjgtrL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 370044,
+      "name": "A Chamam\u00e9, Lazo y Rebenque / el Quincho de la Historia - Salud Apadrinador",
+      "url": "https://open.spotify.com/track/7C3UsYAWwZ2Ijg2DUj6qYL"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+    },
+    {
+      "album": {
+        "name": "El Sal\u00f3n De La Fama Del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ"
+      },
+      "artists": [
+        {
+          "name": "Blasito Mart\u00ednez Riera",
+          "url": "https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 159741,
+      "name": "Academia Corrientes (Remix 2020)",
+      "url": "https://open.spotify.com/track/5Xs59QjuahLS5smYdlLzin"
+    },
+    {
+      "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191311,
+      "name": "Acordeona No Llores",
+      "url": "https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+    },
+    {
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130785,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
+    },
+    {
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 130786,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
+    },
+    {
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "album": {
+        "name": "No Le Mezquine la Marca",
+        "url": "https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 129412,
+      "name": "Al Tigre de los Arenales",
+      "url": "https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU"
+    },
+    {
+      "album": {
+        "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
+        "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
+      },
+      "artists": [
+        {
+          "name": "Maxi Bravo Arde Chamame",
+          "url": "https://open.spotify.com/artist/5AbgxJSizZTrjThFK9k4yS"
+        },
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313344,
+      "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
+      "url": "https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic"
+    },
+    {
+      "album": {
+        "name": "Correntinas II",
+        "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Alma Guaran\u00ed",
+      "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+    },
+    {
+      "album": {
+        "name": "Me Dicen el Rey",
+        "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "Amanecer Campero",
+      "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
+    },
+    {
+      "album": {
+        "name": "Lluvia, Campo Y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy"
+      },
+      "artists": [
+        {
+          "name": "Crescencio Lezcano",
+          "url": "https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172333,
+      "name": "Arroyo San Juan",
+      "url": "https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+    },
+    {
+      "album": {
+        "name": "Miguel \u00c1ngel Romero Presenta: Como Mi Gente, una Pasi\u00f3n por el Chamam\u00e9 (Vol. 1)",
+        "url": "https://open.spotify.com/album/3aeraO34vjYSGGZb8W1bYJ"
+      },
+      "artists": [
+        {
+          "name": "Como Mi Gente",
+          "url": "https://open.spotify.com/artist/1Z2tnCkidMo8OzPxBtlLbf"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 180224,
+      "name": "Asi, Como Mi Gente",
+      "url": "https://open.spotify.com/track/2yybit8zXj60xJM13hBpgL"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Es Mi Chamam\u00e9",
+        "url": "https://open.spotify.com/album/7tZfEd2CtS7PFMydDiid3o"
+      },
+      "artists": [
+        {
+          "name": "Litoral mit\u00e1",
+          "url": "https://open.spotify.com/artist/28NfOpqo5X92plpqxfxlYz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 145453,
+      "name": "As\u00ed Es Mi Chamam\u00e9",
+      "url": "https://open.spotify.com/track/5OV5YuUZeu01IwKMJQgasL"
+    },
+    {
+      "album": {
+        "name": "Consagraci\u00f3n del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ofelia",
+          "url": "https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf"
+        },
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
+    },
+    {
+      "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
+    },
+    {
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 142200,
+      "name": "Barrio la Toma",
+      "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
+    },
+    {
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
+    },
+    {
+      "album": {
+        "name": "Los Palmare\u00f1os 23 A\u00f1os",
+        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+      },
+      "artists": [
+        {
+          "name": "Los Palmare\u00f1os",
+          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "Borracho Sin Destino",
+      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+    },
+    {
+      "album": {
+        "name": "Los Enganchados del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6m64svyEEse5Comaes3tLP"
+      },
+      "artists": [
+        {
+          "name": "La Barra Chamamecera",
+          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 131613,
+      "name": "Camino a Tres Cruces",
+      "url": "https://open.spotify.com/track/10cnNuZPuSuSdkP6tH2tzh"
+    },
+    {
+      "album": {
+        "name": "Los Enganchados del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK"
+      },
+      "artists": [
+        {
+          "name": "La Barra Chamamecera",
+          "url": "https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131613,
+      "name": "Camino a Tres Cruces",
+      "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n para Mi Muerte",
+        "url": "https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9 Manso",
+          "url": "https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Lucas Colque",
+          "url": "https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 214727,
+      "name": "Canci\u00f3n para Mi Muerte",
+      "url": "https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR"
+    },
+    {
+      "album": {
+        "name": "Mano a mano",
+        "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144866,
+      "name": "Canto al Cresp\u00edn",
+      "url": "https://open.spotify.com/track/0EGMfCkZ251JssY5acfmbV"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano",
+        "url": "https://open.spotify.com/album/03U5sBArVssSAc9Ej6sm0k"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 144866,
+      "name": "Canto al Cresp\u00edn",
+      "url": "https://open.spotify.com/track/2IvYJlWuc1crOuO0b5rxZn"
+    },
+    {
+      "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Ca\u00f1a Doble para Mi Padre",
+      "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "album": {
+        "name": "Como el Laurel",
+        "url": "https://open.spotify.com/album/2QInxL8q9EhoFNGOw3mv1y"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Ver\u00f3nica Noguera",
+          "url": "https://open.spotify.com/artist/0YqZyiurOmsnCgquztYHBO"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 207630,
+      "name": "Como el Laurel",
+      "url": "https://open.spotify.com/track/3rOiQfTjbaIQqQzTzxKK04"
+    },
+    {
+      "album": {
+        "name": "Los 20 Mejores",
+        "url": "https://open.spotify.com/album/5WvWYMsen3UKz22IuCOd4p"
+      },
+      "artists": [
+        {
+          "name": "Los de Imaguar\u00e9",
+          "url": "https://open.spotify.com/artist/4qLcigWa3gzKaEPr2kQhIr"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 395786,
+      "name": "Compadre, Que Tiene El Vino",
+      "url": "https://open.spotify.com/track/6ztmVc64twt0cRhb44QCrZ"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+    },
+    {
+      "album": {
+        "name": "Duendes Puebleros",
+        "url": "https://open.spotify.com/album/5Y0XgeRdlZ4KxPXtikSKiI"
+      },
+      "artists": [
+        {
+          "name": "Mario Bofill",
+          "url": "https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "Conjunto Pena Y Olvido",
+      "url": "https://open.spotify.com/track/3RT7zu5eneQhb16dY5cSUh"
+    },
+    {
+      "album": {
+        "name": "Duendes Puebleros",
+        "url": "https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO"
+      },
+      "artists": [
+        {
+          "name": "Mario Bofill",
+          "url": "https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 199373,
+      "name": "Conjunto Pena Y Olvido",
+      "url": "https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd"
+    },
+    {
+      "album": {
+        "name": "A Puro Sapucay",
+        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 169506,
+      "name": "Creciendo el Gualeguay",
+      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
+    },
+    {
+      "album": {
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+    },
+    {
+      "album": {
+        "name": "Su Poes\u00eda y Su Voz, Vol. 2",
+        "url": "https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Jensen",
+          "url": "https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "De P\u00e1jaros y Campanas",
+      "url": "https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO"
+    },
+    {
+      "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        },
+        {
+          "name": "Luis Angel Torres",
+          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379080,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
+    },
+    {
+      "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183220,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
+    },
+    {
+      "album": {
+        "name": "Hilvanando Recuerdos",
+        "url": "https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS"
+      },
+      "artists": [
+        {
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "El Gateao",
+      "url": "https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I"
+    },
+    {
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 139253,
+      "name": "El Gato Blanco",
+      "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+    },
+    {
+      "album": {
+        "name": "Desde el Coraz\u00f3n de Corrientes",
+        "url": "https://open.spotify.com/album/79qBF7mZkeyaPFbykHAnIo"
+      },
+      "artists": [
+        {
+          "name": "Lacho Sena",
+          "url": "https://open.spotify.com/artist/6mdVeA18EaI5CBBs0X3dK3"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 171226,
+      "name": "El Jazm\u00edn de Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1wLFjUwgQFsbuYrdkJhICz"
+    },
+    {
+      "album": {
+        "name": "Chamam\u00e9 Con Estilo Propio",
+        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 156025,
+      "name": "El Petizo Maceta",
+      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano",
+        "url": "https://open.spotify.com/album/03U5sBArVssSAc9Ej6sm0k"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144906,
+      "name": "El Pe\u00f3n de Obraje",
+      "url": "https://open.spotify.com/track/2GNEWWMSqDq24BbXA5uEJb"
+    },
+    {
+      "album": {
+        "name": "Mano a mano",
+        "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        },
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "El pe\u00f3n de Obraje",
+      "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
+    },
+    {
+      "album": {
+        "name": "El Remanso",
+        "url": "https://open.spotify.com/album/4uuATNDzXPRQliiiPkIjSl"
+      },
+      "artists": [
+        {
+          "name": "Litoral mit\u00e1",
+          "url": "https://open.spotify.com/artist/28NfOpqo5X92plpqxfxlYz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153482,
+      "name": "El Remanso",
+      "url": "https://open.spotify.com/track/6yU5qgjYt71Q866xCCIXmk"
+    },
+    {
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL"
+    },
+    {
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Chamameceros Que Nunca",
+        "url": "https://open.spotify.com/album/3wY1MLgAnz9BZlxKTuWvvs"
+      },
+      "artists": [
+        {
+          "name": "Marito Ramirez y La Nueva Yunta",
+          "url": "https://open.spotify.com/artist/4nPL8VxkgLWUkFgObncTRV"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151175,
+      "name": "El Tronar del Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/0OlRmpbUKvqKch4gUw9Urj"
+    },
+    {
+      "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197283,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
+    },
+    {
+      "album": {
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+    },
+    {
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Ivoti",
+          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143653,
+      "name": "Entre amigos y chamam\u00e9",
+      "url": "https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5BSGqrWI8EBtBiwHm87fyf"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 173480,
+      "name": "Entre Amigos Y Chamam\u00e9",
+      "url": "https://open.spotify.com/track/68lfXFiREjevJ2Xm05cp0S"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os Unidos Por El Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1jUXuKAKPH0aDtT7Z5FRwY"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Entre Amigos Y Chamam\u00e9",
+      "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
+    },
+    {
+      "album": {
+        "name": "Entre Chamam\u00e9 Y Sapucay",
+        "url": "https://open.spotify.com/album/4imYHcjeMZ3xOQAQd8P2GY"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155226,
+      "name": "Entre Chamam\u00e9 Y Sapucay",
+      "url": "https://open.spotify.com/track/7sBr9fBWX2ro0LTHnUZQyk"
+    },
+    {
+      "album": {
+        "name": "Entre Chamam\u00e9 y Sapucay",
+        "url": "https://open.spotify.com/album/1icp40IGBQgUVHtyqdxRSX"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155246,
+      "name": "Entre Chamam\u00e9 y Sapucay",
+      "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
+    },
+    {
+      "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+    },
+    {
+      "album": {
+        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
+        "url": "https://open.spotify.com/album/42K8yPrtPSTl0euZc5mSPV"
+      },
+      "artists": [
+        {
+          "name": "El Angel De Las 2 Hileras",
+          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 445173,
+      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/3Yc00UqGAZi5TipPSqHrxM"
+    },
+    {
+      "album": {
+        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
+        "url": "https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc"
+      },
+      "artists": [
+        {
+          "name": "El Angel De Las 2 Hileras",
+          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445173,
+      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+    },
+    {
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-16",
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+    },
+    {
+      "album": {
+        "name": "Gastando Taco y Suela",
+        "url": "https://open.spotify.com/album/2QCMPsSHLHeK2NkgsWmuXO"
+      },
+      "artists": [
+        {
+          "name": "Azul Carrizo La Dama Del Acorde\u00f3n",
+          "url": "https://open.spotify.com/artist/2DeJ9SnWMsoaImaAeXjmqt"
+        },
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178973,
+      "name": "Gastando Taco y Suela",
+      "url": "https://open.spotify.com/track/1PLxI6MfKHbuGA4F6M0Ph4"
+    },
+    {
+      "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
+      },
+      "artists": [
+        {
+          "name": "Litoral Tag\u00fce",
+          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189360,
+      "name": "General Madariaga",
+      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Damasio Esquivel",
+          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111893,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
+    },
+    {
+      "album": {
+        "name": "El Sal\u00f3n De La Fama Del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ"
+      },
+      "artists": [
+        {
+          "name": "Blasito Mart\u00ednez Riera",
+          "url": "https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f"
+        },
+        {
+          "name": "Los Hermanos Galarza",
+          "url": "https://open.spotify.com/artist/26gtKLyvl6iWJHGrIvOdLc"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 206998,
+      "name": "Guainita Posade\u00f1a",
+      "url": "https://open.spotify.com/track/6rplTcstMbtUp4iRxOGgvT"
+    },
+    {
+      "album": {
+        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
+        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
+      },
+      "artists": [
+        {
+          "name": "Rosendo y Ofelia",
+          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 143466,
+      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv"
+    },
+    {
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+    },
+    {
+      "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171399,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+    },
+    {
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
+    },
+    {
+      "album": {
+        "name": "Dos Orillas",
+        "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
+      },
+      "artists": [
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
+    },
+    {
+      "album": {
+        "name": "Dos Orillas",
+        "url": "https://open.spotify.com/album/6u9jJjRtjBrhHkimmdzKug"
+      },
+      "artists": [
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196733,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/4wLUQQ6hyMqEnHd46crGSm"
+    },
+    {
+      "album": {
+        "name": "Recuerdo Costero",
+        "url": "https://open.spotify.com/album/5Vly7mmcsFF7FXLu1Ada5b"
+      },
+      "artists": [
+        {
+          "name": "Los Chamarriteros",
+          "url": "https://open.spotify.com/artist/2rTlKNAJmNsd0YU9l5OHJ9"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 155093,
+      "name": "La Ca\u00f1ada De Figueroa",
+      "url": "https://open.spotify.com/track/4bWFuGbNCuzGlqEb4W9kKk"
+    },
+    {
+      "album": {
+        "name": "Si el Campo Crece, Crece el Pa\u00eds",
+        "url": "https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ"
+      },
+      "artists": [
+        {
+          "name": "Anibal Maldonado",
+          "url": "https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi"
+        },
+        {
+          "name": "Silvio Quintana",
+          "url": "https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 247240,
+      "name": "La Changa de los Domingos - Chamam\u00e9",
+      "url": "https://open.spotify.com/track/1C58csh64wznZj64hwV9gx"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
+    },
+    {
+      "album": {
+        "name": "Alegr\u00eda y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        },
+        {
+          "name": "Los Cardocitos",
+          "url": "https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "La Due\u00f1a del Monte",
+      "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
+    },
+    {
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "album": {
+        "name": "Con Los Grandes",
+        "url": "https://open.spotify.com/album/5D16HXouyYBIJAPgqMpvMA"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-30",
+      "duration_ms": 129693,
+      "name": "La Flecha",
+      "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
+    },
+    {
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
+    },
+    {
+      "album": {
+        "name": "Hecho en el Cielo, Vol. 4",
+        "url": "https://open.spotify.com/album/5ipomHffIPANoGbDtdTm7W"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 156333,
+      "name": "La Pialada",
+      "url": "https://open.spotify.com/track/2K6uQ3ljKIiMkEqXylFbuc"
+    },
+    {
+      "album": {
+        "name": "Hecho en el Cielo, Vol. 4",
+        "url": "https://open.spotify.com/album/2sxfM5PFdnAoi22Vk62smo"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 156333,
+      "name": "La Pialada",
+      "url": "https://open.spotify.com/track/39t5Ge5nDd988fAXJY7xbL"
+    },
+    {
+      "album": {
+        "name": "Chamame Del Bueno",
+        "url": "https://open.spotify.com/album/1QsYkWmNqx8IOeVAwqC06P"
+      },
+      "artists": [
+        {
+          "name": "Grupo Reencuentro",
+          "url": "https://open.spotify.com/artist/3YIxe11W03QO7HdnoW6UIJ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 180480,
+      "name": "La Tierra No Tiene due\u00f1o",
+      "url": "https://open.spotify.com/track/4zpEvUobp6hf9gDtjRkGcn"
+    },
+    {
+      "album": {
+        "name": "El Sal\u00f3n De La Fama Del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ"
+      },
+      "artists": [
+        {
+          "name": "Blasito Mart\u00ednez Riera",
+          "url": "https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 122398,
+      "name": "La Volanta (Remix 2020)",
+      "url": "https://open.spotify.com/track/4E26Xb0Aqv62gNL9Q23oUj"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99333,
+      "name": "Laguna Totora",
+      "url": "https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0"
+    },
+    {
+      "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120946,
+      "name": "Las Tres Marias",
+      "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+    },
+    {
+      "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252018,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
+    },
+    {
+      "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7EfD8N86opzofn0FQscApz"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 252018,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5QeKcJzR4XP7c0LKuAlsvU"
+    },
+    {
+      "album": {
+        "name": "La Juventud Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/1NYSKVbrcZ0xdTadj7GaVt"
+      },
+      "artists": [
+        {
+          "name": "Potencia Chamamecera",
+          "url": "https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252040,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5yVfdKJZguW0weseChuXeo"
+    },
+    {
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/7Cst086ZWREiL7EBlfUKFb"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Crespo",
+          "url": "https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285500,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/433tgTjS9hL0yL58s6nCUM"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
+    },
+    {
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O"
+      },
+      "artists": [
+        {
+          "name": "Los Chamameceros de Federal",
+          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298893,
+      "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
+      "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "album": {
+        "name": "Pastor Luna - Chamemecero de Ley",
+        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Meta lonja y chamam\u00e9",
+      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
+    },
+    {
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 164440,
+      "name": "Mi Anhelo",
+      "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/29qdVczira2f72fAfz51fB"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Ivoti",
+          "url": "https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP"
+        },
+        {
+          "name": "J. C. Mansilla",
+          "url": "https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg"
+    },
+    {
+      "album": {
+        "name": "Mi Estrella Perdida",
+        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248320,
+      "name": "Mi Estrella Perdida",
+      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Mario Mill\u00e1n Medina",
+          "url": "https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204746,
+      "name": "Mi ponchillo colorado",
+      "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+    },
+    {
+      "album": {
+        "name": "Eik\u00e9! - Entrar en el alma",
+        "url": "https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        },
+        {
+          "name": "Jacques Morelenbaum",
+          "url": "https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302419,
+      "name": "Mi pueblo, mi casa, la soledad",
+      "url": "https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p"
+    },
+    {
+      "album": {
+        "name": "Mi pueblo, mi casa, la soledad",
+        "url": "https://open.spotify.com/album/1jZPXH4WVGKacnfL7Si41p"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 302419,
+      "name": "Mi pueblo, mi casa, la soledad",
+      "url": "https://open.spotify.com/track/3M1TkSTS4amqgMhRK70mu3"
+    },
+    {
+      "album": {
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 126173,
+      "name": "Mi Triste Fantasia",
+      "url": "https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC"
+    },
+    {
+      "album": {
+        "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
+        "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455840,
+      "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
+      "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
+    },
+    {
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+    },
+    {
+      "album": {
+        "name": "No Le Mezquine la Marca",
+        "url": "https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153504,
+      "name": "Mis Harapos",
+      "url": "https://open.spotify.com/track/3gjICraXtcv9m4eFhKHYVC"
+    },
+    {
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
+    },
+    {
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
+    },
+    {
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/6iYwUTIBeOwE3NptAXPIwx"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/72CLLuAm4shF2M28CmTUPe"
+    },
+    {
+      "album": {
+        "name": "Los 55 Anos del Cuarteto Santa Ana",
+        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
+      },
+      "artists": [
+        {
+          "name": "Carlos Talavera con el Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
+        },
+        {
+          "name": "Ernesto Montiel",
+          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146320,
+      "name": "Neique Chamigo",
+      "url": "https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
+      },
+      "artists": [
+        {
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133173,
+      "name": "No Cualquiera Es Correntino",
+      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
+    },
+    {
+      "album": {
+        "name": "Sencillito Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Fuerza del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "No Hay Mal Que por Bien No Venga",
+      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+    },
+    {
+      "album": {
+        "name": "Sencillito Nom\u00e1s...",
+        "url": "https://open.spotify.com/album/49mIdGfcj0OzVOCHgUK15K"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Fuerza del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 184253,
+      "name": "No Hay Mal Que por Bien No Venga",
+      "url": "https://open.spotify.com/track/2yYkSIrfPJu1V43674yMHv"
+    },
+    {
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/2yh0lii3e569wf1VjKM3s5"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 256170,
+      "name": "Noche de Tormenta",
+      "url": "https://open.spotify.com/track/0VKDr2ahMc4vYKw8tzFudQ"
+    },
+    {
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "D\u00fao Ubeda / Chavez",
+          "url": "https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 154893,
+      "name": "Nostalgias Camperas",
+      "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
+    },
+    {
+      "album": {
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+    },
+    {
+      "album": {
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+      },
+      "artists": [
+        {
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 122733,
+      "name": "Palomita Mensajera",
+      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
+    },
+    {
+      "album": {
+        "name": "Che Rembiapo Kue. 12 Obras In\u00e9ditas",
+        "url": "https://open.spotify.com/album/28DbkqoXjPLQDpQ8HOeCyH"
+      },
+      "artists": [
+        {
+          "name": "Avelino Flores",
+          "url": "https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173440,
+      "name": "Para Nini",
+      "url": "https://open.spotify.com/track/4viehCpYj32rBEg1nZYt9S"
+    },
+    {
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 3",
+        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
+      },
+      "artists": [
+        {
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 145280,
+      "name": "Pasion oculta",
+      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
+    },
+    {
+      "album": {
+        "name": "Paso Laguna",
+        "url": "https://open.spotify.com/album/4I1lb4vOQESc7NRVdQPBen"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141270,
+      "name": "Paso Laguna",
+      "url": "https://open.spotify.com/track/2WP6iDiRkM516XJExoN3No"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131813,
+      "name": "Pastor Luna y Su Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
+    },
+    {
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/5QsqieeTxaAsqIm91OukJS"
+      },
+      "artists": [
+        {
+          "name": "Los Chamameceros de Federal",
+          "url": "https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298893,
+      "name": "Pegaditos de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/3DTTYtuqJTFwAr8A0qlJEx"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Pobre Mi Caballo Bayo",
+      "url": "https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5"
+    },
+    {
+      "album": {
+        "name": "14 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0TnVgnauPO8YZXWGnC3lmr"
+      },
+      "artists": [
+        {
+          "name": "Los Del Mail\u00edn",
+          "url": "https://open.spotify.com/artist/57npkvLwQmcP4Jh9vEJ86o"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 137346,
+      "name": "Poncho Soro",
+      "url": "https://open.spotify.com/track/0N5vO8qRLqPmbFFMz0fAiO"
+    },
+    {
+      "album": {
+        "name": "Por Siempre Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 145840,
+      "name": "Por Siempre Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
+    },
+    {
+      "album": {
+        "name": "Por Siempre Majestuosos",
+        "url": "https://open.spotify.com/album/1CbZtYPRt6SaIdgIzZM9e3"
+      },
+      "artists": [
+        {
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Por Siempre Majestuoso",
+      "url": "https://open.spotify.com/track/38SQAkDTVEJUPxjAXHcsUf"
+    },
+    {
+      "album": {
+        "name": "Por Siempre Majestuosos",
+        "url": "https://open.spotify.com/album/1Hd5FjcxWKsQvvQrnE1Jyv"
+      },
+      "artists": [
+        {
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227386,
+      "name": "Por Siempre Majestuoso",
+      "url": "https://open.spotify.com/track/57G4jEVAXzI2dpLpA8LDMw"
+    },
+    {
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Duo Aranda Palacio",
+          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 124360,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+    },
+    {
+      "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159363,
+      "name": "Puerto Tirol",
+      "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro Chog\u00fc\u00ed",
+        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Dominguez",
+          "url": "https://open.spotify.com/artist/62JdZQLVhEnorpnkE2VdPo"
+        },
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "P\u00e1jaro Chog\u00fc\u00ed",
+      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "album": {
+        "name": "Refugio de So\u00f1adores",
+        "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
+      },
+      "artists": [
+        {
+          "name": "Rudi y Nini Flores",
+          "url": "https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt"
+        },
+        {
+          "name": "Miguel \u00c1ngel Porra",
+          "url": "https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202025,
+      "name": "Refugio de So\u00f1adores",
+      "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "album": {
+        "name": "20 Super\u00e9xitos Originales, Vol. 2",
+        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
+      },
+      "artists": [
+        {
+          "name": "Trio Cocomarola",
+          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Retorno",
+      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "album": {
+        "name": "Los 55 Anos del Cuarteto Santa Ana",
+        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
+      },
+      "artists": [
+        {
+          "name": "Carlos Talavera con el Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
+        },
+        {
+          "name": "Ernesto Montiel",
+          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Rumbeando Pal Litoral",
+      "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "album": {
+        "name": "Festejando los 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142320,
+      "name": "Sargento Sapo",
+      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Pancho Escalada",
+          "url": "https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Seleccion de temas enganchados",
+      "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
+    },
+    {
+      "album": {
+        "name": "Sembrador de Esperanza",
+        "url": "https://open.spotify.com/album/2GtsBdivtsUEDKILnnT91c"
+      },
+      "artists": [
+        {
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201055,
+      "name": "Sembrador de Esperanza",
+      "url": "https://open.spotify.com/track/3sova4l2K0UmdbfbGeJxO3"
+    },
+    {
+      "album": {
+        "name": "Muchachita Sos Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A"
+      },
+      "artists": [
+        {
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
+        },
+        {
+          "name": "\u00d3scar Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 139173,
+      "name": "Sentimiento Correntino",
+      "url": "https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1"
+    },
+    {
+      "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "album": {
+        "name": "Sobredosis De Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Sobredosis de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
+    },
+    {
+      "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
+    },
+    {
+      "album": {
+        "name": "Soy Lo Que Canto",
+        "url": "https://open.spotify.com/album/2KyOhfgwU6yc2qJXNWuAFV"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Caballero",
+          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147173,
+      "name": "Soy Lo Que Canto",
+      "url": "https://open.spotify.com/track/0JBMLCpKihqJejxN8OjMz4"
+    },
+    {
+      "album": {
+        "name": "Soy lo Que Canto",
+        "url": "https://open.spotify.com/album/3qxE3A06Gx78kuQOGrxoMt"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro Caballero",
+          "url": "https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "Soy lo Que Canto",
+      "url": "https://open.spotify.com/track/1egiP2FrBoDdX5dhahAbaT"
+    },
+    {
+      "album": {
+        "name": "Taipero Poriahu",
+        "url": "https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Tarrag\u00f3 Ros",
+          "url": "https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Taipero Poriahu",
+      "url": "https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 3",
+        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
+      },
+      "artists": [
+        {
+          "name": "Avelino Flores",
+          "url": "https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 152133,
+      "name": "Te sigo queriendo",
+      "url": "https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB"
+    },
+    {
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+    },
+    {
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+    },
+    {
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Crespo",
+          "url": "https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR"
+        },
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        },
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 270000,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
+    },
+    {
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto",
+        "url": "https://open.spotify.com/album/3iTwMKOnbPJvE4SH12yj3s"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"
+    },
+    {
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo en el Teatro Col\u00f3n)",
+        "url": "https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9"
+    },
+    {
+      "album": {
+        "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo) [En Vivo en el Teatro Col\u00f3n]",
+        "url": "https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288866,
+      "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
+      "url": "https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy"
+    },
+    {
+      "album": {
+        "name": "Pura Sangre",
+        "url": "https://open.spotify.com/album/30xKVoMy4ivn5IgYBvwXO7"
+      },
+      "artists": [
+        {
+          "name": "Omar Pineda",
+          "url": "https://open.spotify.com/artist/5H0JGPUzSOvn793JjTy90E"
+        },
+        {
+          "name": "Pit\u00edn Zalazar",
+          "url": "https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 148053,
+      "name": "Troja de Amor",
+      "url": "https://open.spotify.com/track/4oaloCE4Y8QL1wMyaIIo8s"
+    },
+    {
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
+    },
+    {
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Estefan\u00eda Morand",
+          "url": "https://open.spotify.com/artist/6I9ucOWNcE59ZepDGWGCus"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181290,
+      "name": "Vieja Canoita",
+      "url": "https://open.spotify.com/track/59vynfRyWX8XFYCZHZFLDf"
+    },
+    {
+      "album": {
+        "name": "Bodas de Oro Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3"
+      },
+      "artists": [
+        {
+          "name": "Hipolito Sosa y su conjunto",
+          "url": "https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136400,
+      "name": "Viejo Jinete Argentino",
+      "url": "https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYxOYf3Bkbam"
 }

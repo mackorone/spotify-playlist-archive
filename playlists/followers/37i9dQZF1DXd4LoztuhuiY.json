@@ -1,569 +1,981 @@
 {
-  "2022-06-10": 82,
-  "2022-06-11": 123,
-  "2022-06-12": 171,
-  "2022-06-13": 279,
-  "2022-06-14": 408,
-  "2022-06-15": 537,
-  "2022-06-16": 647,
-  "2022-06-17": 752,
-  "2022-06-18": 849,
-  "2022-06-19": 1041,
-  "2022-06-20": 1041,
-  "2022-06-21": 1132,
-  "2022-06-22": 1334,
-  "2022-06-23": 1334,
-  "2022-06-24": 1421,
-  "2022-06-25": 1507,
-  "2022-06-26": 1594,
-  "2022-06-27": 1691,
-  "2022-06-28": 1767,
-  "2022-06-29": 1854,
-  "2022-06-30": 1936,
-  "2022-07-01": 2000,
-  "2022-07-02": 2070,
-  "2022-07-03": 2155,
-  "2022-07-04": 2230,
-  "2022-07-05": 2300,
-  "2022-07-06": 2362,
-  "2022-07-07": 2424,
-  "2022-07-08": 2487,
-  "2022-07-09": 2565,
-  "2022-07-10": 2621,
-  "2022-07-11": 2696,
-  "2022-07-12": 2759,
-  "2022-07-13": 2831,
-  "2022-07-14": 2907,
-  "2022-07-15": 2958,
-  "2022-07-16": 3017,
-  "2022-07-17": 3101,
-  "2022-07-18": 3172,
-  "2022-07-19": 3244,
-  "2022-07-20": 3311,
-  "2022-07-21": 3380,
-  "2022-07-22": 3450,
-  "2022-07-23": 3513,
-  "2022-07-24": 3582,
-  "2022-07-25": 3641,
-  "2022-07-26": 3682,
-  "2022-07-27": 3747,
-  "2022-07-28": 3803,
-  "2022-07-29": 3853,
-  "2022-07-30": 3931,
-  "2022-07-31": 3931,
-  "2022-08-01": 3983,
-  "2022-08-02": 4098,
-  "2022-08-03": 4098,
-  "2022-08-04": 4154,
-  "2022-08-05": 4208,
-  "2022-08-06": 4253,
-  "2022-08-07": 4296,
-  "2022-08-08": 4366,
-  "2022-08-09": 4410,
-  "2022-08-10": 4458,
-  "2022-08-11": 4498,
-  "2022-08-12": 4532,
-  "2022-08-13": 4581,
-  "2022-08-14": 4614,
-  "2022-08-15": 4659,
-  "2022-08-16": 4701,
-  "2022-08-17": 4742,
-  "2022-08-18": 4782,
-  "2022-08-19": 4814,
-  "2022-08-20": 4867,
-  "2022-08-21": 4921,
-  "2022-08-22": 4964,
-  "2022-08-23": 5013,
-  "2022-08-24": 5052,
-  "2022-08-25": 5091,
-  "2022-08-26": 5131,
-  "2022-08-27": 5157,
-  "2022-08-28": 5195,
-  "2022-08-29": 5240,
-  "2022-08-30": 5265,
-  "2022-08-31": 5305,
-  "2022-09-01": 5338,
-  "2022-09-02": 5371,
-  "2022-09-03": 5400,
-  "2022-09-04": 5424,
-  "2022-09-05": 5463,
-  "2022-09-06": 5490,
-  "2022-09-07": 5535,
-  "2022-09-09": 5608,
-  "2022-09-10": 5652,
-  "2022-09-11": 5680,
-  "2022-09-12": 5717,
-  "2022-09-13": 5741,
-  "2022-09-15": 5787,
-  "2022-09-16": 5809,
-  "2022-09-17": 5840,
-  "2022-09-18": 5859,
-  "2022-09-19": 5885,
-  "2022-09-20": 5912,
-  "2022-09-21": 5937,
-  "2022-09-22": 5971,
-  "2022-09-23": 6004,
-  "2022-09-24": 6039,
-  "2022-09-25": 6075,
-  "2022-09-26": 6119,
-  "2022-09-27": 6143,
-  "2022-09-28": 6160,
-  "2022-09-29": 6192,
-  "2022-09-30": 6232,
-  "2022-10-01": 6266,
-  "2022-10-02": 6289,
-  "2022-10-03": 6318,
-  "2022-10-04": 6340,
-  "2022-10-05": 6366,
-  "2022-10-06": 6384,
-  "2022-10-07": 6406,
-  "2022-10-08": 6438,
-  "2022-10-09": 6484,
-  "2022-10-10": 6489,
-  "2022-10-11": 6526,
-  "2022-10-12": 6556,
-  "2022-10-13": 6594,
-  "2022-10-14": 6634,
-  "2022-10-15": 6659,
-  "2022-10-16": 6696,
-  "2022-10-17": 6721,
-  "2022-10-18": 6761,
-  "2022-10-19": 6797,
-  "2022-10-20": 6836,
-  "2022-10-21": 6872,
-  "2022-10-22": 6896,
-  "2022-10-23": 6918,
-  "2022-10-24": 6940,
-  "2022-10-25": 6978,
-  "2022-10-26": 7016,
-  "2022-10-27": 7044,
-  "2022-10-28": 7076,
-  "2022-10-29": 7101,
-  "2022-10-30": 7131,
-  "2022-10-31": 7148,
-  "2022-11-01": 7178,
-  "2022-11-02": 7201,
-  "2022-11-03": 7228,
-  "2022-11-04": 7258,
-  "2022-11-05": 7276,
-  "2022-11-06": 7316,
-  "2022-11-07": 7347,
-  "2022-11-08": 7369,
-  "2022-11-09": 7394,
-  "2022-11-10": 7411,
-  "2022-11-11": 7445,
-  "2022-11-12": 7483,
-  "2022-11-13": 7504,
-  "2022-11-14": 7544,
-  "2022-11-15": 7572,
-  "2022-11-16": 7601,
-  "2022-11-17": 7622,
-  "2022-11-18": 7637,
-  "2022-11-19": 7643,
-  "2022-11-20": 7673,
-  "2022-11-21": 7700,
-  "2022-11-22": 7730,
-  "2022-11-23": 7768,
-  "2022-11-24": 7816,
-  "2022-11-25": 7866,
-  "2022-11-26": 7888,
-  "2022-11-27": 7917,
-  "2022-11-28": 7945,
-  "2022-11-29": 7968,
-  "2022-11-30": 7990,
-  "2022-12-01": 8021,
-  "2022-12-02": 8046,
-  "2022-12-03": 8091,
-  "2022-12-04": 8137,
-  "2022-12-05": 8178,
-  "2022-12-06": 8214,
-  "2022-12-07": 8238,
-  "2022-12-08": 8269,
-  "2022-12-09": 8295,
-  "2022-12-10": 8323,
-  "2022-12-11": 8363,
-  "2022-12-12": 8395,
-  "2022-12-13": 8419,
-  "2022-12-14": 8457,
-  "2022-12-15": 8489,
-  "2022-12-16": 8522,
-  "2022-12-17": 8543,
-  "2022-12-18": 8566,
-  "2022-12-19": 8590,
-  "2022-12-20": 8643,
-  "2022-12-21": 8643,
-  "2022-12-22": 8678,
-  "2022-12-24": 8727,
-  "2022-12-25": 8752,
-  "2022-12-26": 8777,
-  "2022-12-27": 8803,
-  "2022-12-28": 8832,
-  "2022-12-29": 8868,
-  "2022-12-30": 8891,
-  "2022-12-31": 8915,
-  "2023-01-01": 8939,
-  "2023-01-02": 8966,
-  "2023-01-03": 9000,
-  "2023-01-04": 9018,
-  "2023-01-05": 9051,
-  "2023-01-06": 9089,
-  "2023-01-07": 9135,
-  "2023-01-08": 9143,
-  "2023-01-09": 9181,
-  "2023-01-10": 9214,
-  "2023-01-11": 9245,
-  "2023-01-12": 9274,
-  "2023-01-13": 9300,
-  "2023-01-14": 9366,
-  "2023-01-15": 9370,
-  "2023-01-16": 9397,
-  "2023-01-17": 9425,
-  "2023-01-18": 9437,
-  "2023-01-19": 9458,
-  "2023-01-20": 9481,
-  "2023-01-21": 9503,
-  "2023-01-22": 9530,
-  "2023-01-23": 9564,
-  "2023-01-24": 9588,
-  "2023-01-25": 9611,
-  "2023-01-26": 9628,
-  "2023-01-27": 9649,
-  "2023-01-28": 9680,
-  "2023-01-29": 9709,
-  "2023-01-30": 9739,
-  "2023-01-31": 9739,
-  "2023-02-01": 9789,
-  "2023-02-02": 9826,
-  "2023-02-03": 9841,
-  "2023-02-04": 9865,
-  "2023-02-05": 9894,
-  "2023-02-06": 9926,
-  "2023-02-07": 9949,
-  "2023-02-08": 9995,
-  "2023-02-09": 9995,
-  "2023-02-10": 10010,
-  "2023-02-11": 10040,
-  "2023-02-12": 10095,
-  "2023-02-13": 10113,
-  "2023-02-14": 10113,
-  "2023-02-15": 10137,
-  "2023-02-16": 10153,
-  "2023-02-17": 10176,
-  "2023-02-18": 10207,
-  "2023-02-19": 10212,
-  "2023-02-20": 10236,
-  "2023-02-21": 10252,
-  "2023-02-22": 10264,
-  "2023-02-23": 10284,
-  "2023-02-24": 10295,
-  "2023-02-25": 10344,
-  "2023-02-26": 10360,
-  "2023-02-27": 10410,
-  "2023-02-28": 10410,
-  "2023-03-01": 10425,
-  "2023-03-02": 10444,
-  "2023-03-03": 10467,
-  "2023-03-04": 10480,
-  "2023-03-05": 10519,
-  "2023-03-06": 10519,
-  "2023-03-07": 10540,
-  "2023-03-08": 10550,
-  "2023-03-09": 10563,
-  "2023-03-10": 10582,
-  "2023-03-11": 10592,
-  "2023-03-12": 10601,
-  "2023-03-13": 10622,
-  "2023-03-14": 10637,
-  "2023-03-15": 10660,
-  "2023-03-16": 10665,
-  "2023-03-17": 10665,
-  "2023-03-18": 10704,
-  "2023-03-19": 10725,
-  "2023-03-20": 10739,
-  "2023-03-21": 10767,
-  "2023-03-22": 10797,
-  "2023-03-23": 10815,
-  "2023-03-24": 10815,
-  "2023-03-25": 10856,
-  "2023-03-26": 10874,
-  "2023-03-27": 10894,
-  "2023-03-28": 10909,
-  "2023-03-29": 10932,
-  "2023-03-30": 10960,
-  "2023-03-31": 10960,
-  "2023-04-01": 10980,
-  "2023-04-02": 10999,
-  "2023-04-03": 11025,
-  "2023-04-04": 11052,
-  "2023-04-05": 11073,
-  "2023-04-06": 11077,
-  "2023-04-07": 11083,
-  "2023-04-09": 11127,
-  "2023-04-10": 11152,
-  "2023-04-11": 11203,
-  "2023-04-12": 11203,
-  "2023-04-13": 11225,
-  "2023-04-14": 11237,
-  "2023-04-15": 11263,
-  "2023-04-16": 11286,
-  "2023-04-17": 11299,
-  "2023-04-18": 11321,
-  "2023-04-19": 11348,
-  "2023-04-20": 11363,
-  "2023-04-21": 11387,
-  "2023-04-22": 11402,
-  "2023-04-23": 11416,
-  "2023-04-24": 11440,
-  "2023-04-25": 11453,
-  "2023-04-26": 11473,
-  "2023-04-27": 11496,
-  "2023-04-28": 11514,
-  "2023-04-29": 11533,
-  "2023-04-30": 11545,
-  "2023-05-01": 11563,
-  "2023-05-02": 11588,
-  "2023-05-03": 11610,
-  "2023-05-04": 11643,
-  "2023-05-05": 11666,
-  "2023-05-06": 11690,
-  "2023-05-07": 11704,
-  "2023-05-08": 11723,
-  "2023-05-09": 11746,
-  "2023-05-10": 11756,
-  "2023-05-11": 11771,
-  "2023-05-12": 11793,
-  "2023-05-13": 11811,
-  "2023-05-14": 11829,
-  "2023-05-15": 11851,
-  "2023-05-16": 11872,
-  "2023-05-17": 11882,
-  "2023-05-18": 11900,
-  "2023-05-19": 11924,
-  "2023-05-20": 11955,
-  "2023-05-21": 11955,
-  "2023-05-22": 11955,
-  "2023-05-23": 11989,
-  "2023-05-24": 12015,
-  "2023-05-25": 12014,
-  "2023-05-26": 12034,
-  "2023-05-27": 12047,
-  "2023-05-28": 12065,
-  "2023-05-29": 12065,
-  "2023-05-30": 12092,
-  "2023-05-31": 12110,
-  "2023-06-01": 12126,
-  "2023-06-02": 12144,
-  "2023-06-03": 12153,
-  "2023-06-04": 12179,
-  "2023-06-05": 12198,
-  "2023-06-06": 12210,
-  "2023-06-07": 12227,
-  "2023-06-08": 12245,
-  "2023-06-09": 12258,
-  "2023-06-10": 12274,
-  "2023-06-11": 12300,
-  "2023-06-12": 12318,
-  "2023-06-13": 12337,
-  "2023-06-14": 12351,
-  "2023-06-15": 12356,
-  "2023-06-16": 12367,
-  "2023-06-17": 12378,
-  "2023-06-18": 12387,
-  "2023-06-19": 12394,
-  "2023-06-20": 12412,
-  "2023-06-21": 12431,
-  "2023-06-22": 12437,
-  "2023-06-23": 12459,
-  "2023-06-24": 12471,
-  "2023-06-25": 12485,
-  "2023-06-26": 12500,
-  "2023-06-27": 12506,
-  "2023-06-28": 12524,
-  "2023-06-29": 12537,
-  "2023-06-30": 12554,
-  "2023-07-01": 12583,
-  "2023-07-02": 12583,
-  "2023-07-03": 12591,
-  "2023-07-04": 12606,
-  "2023-07-05": 12621,
-  "2023-07-06": 12652,
-  "2023-07-07": 12652,
-  "2023-07-08": 12672,
-  "2023-07-09": 12695,
-  "2023-07-10": 12715,
-  "2023-07-11": 12722,
-  "2023-07-12": 12738,
-  "2023-07-13": 12750,
-  "2023-07-14": 12771,
-  "2023-07-15": 12783,
-  "2023-07-16": 12796,
-  "2023-07-17": 12821,
-  "2023-07-18": 12831,
-  "2023-07-19": 12848,
-  "2023-07-20": 12870,
-  "2023-07-21": 12882,
-  "2023-07-22": 12897,
-  "2023-07-23": 12905,
-  "2023-07-24": 12925,
-  "2023-07-25": 12934,
-  "2023-07-26": 12945,
-  "2023-07-27": 12957,
-  "2023-07-28": 12972,
-  "2023-07-29": 12995,
-  "2023-07-30": 13009,
-  "2023-07-31": 13021,
-  "2023-08-01": 13035,
-  "2023-08-02": 13050,
-  "2023-08-03": 13066,
-  "2023-08-04": 13087,
-  "2023-08-05": 13105,
-  "2023-08-06": 13141,
-  "2023-08-07": 13141,
-  "2023-08-08": 13160,
-  "2023-08-09": 13182,
-  "2023-08-10": 13200,
-  "2023-08-11": 13216,
-  "2023-08-12": 13236,
-  "2023-08-13": 13249,
-  "2023-08-14": 13266,
-  "2023-08-15": 13303,
-  "2023-08-16": 13303,
-  "2023-08-17": 13315,
-  "2023-08-18": 13328,
-  "2023-08-19": 13338,
-  "2023-08-20": 13349,
-  "2023-08-21": 13374,
-  "2023-08-22": 13393,
-  "2023-08-23": 13406,
-  "2023-08-24": 13428,
-  "2023-08-25": 13448,
-  "2023-08-26": 13464,
-  "2023-08-27": 13478,
-  "2023-08-28": 13491,
-  "2023-08-29": 13505,
-  "2023-08-30": 13520,
-  "2023-08-31": 13538,
-  "2023-09-01": 13566,
-  "2023-09-02": 13566,
-  "2023-09-03": 13578,
-  "2023-09-04": 13594,
-  "2023-09-05": 13606,
-  "2023-09-06": 13607,
-  "2023-09-07": 13618,
-  "2023-09-08": 13630,
-  "2023-09-09": 13640,
-  "2023-09-10": 13644,
-  "2023-09-11": 13660,
-  "2023-09-12": 13660,
-  "2023-09-13": 13687,
-  "2023-09-14": 13687,
-  "2023-09-15": 13707,
-  "2023-09-16": 13714,
-  "2023-09-17": 13714,
-  "2023-09-18": 13714,
-  "2023-09-19": 13754,
-  "2023-09-20": 13758,
-  "2023-09-21": 13771,
-  "2023-09-22": 13770,
-  "2023-09-23": 13770,
-  "2023-09-24": 13770,
-  "2023-09-25": 13770,
-  "2023-09-26": 13816,
-  "2023-09-27": 13823,
-  "2023-09-28": 13833,
-  "2023-09-29": 13844,
-  "2023-09-30": 13844,
-  "2023-10-01": 13864,
-  "2023-10-02": 13878,
-  "2023-10-03": 13883,
-  "2023-10-04": 13903,
-  "2023-10-05": 13907,
-  "2023-10-06": 13915,
-  "2023-10-07": 13915,
-  "2023-10-08": 13929,
-  "2023-10-09": 13929,
-  "2023-10-10": 13929,
-  "2023-10-11": 13956,
-  "2023-10-12": 13956,
-  "2023-10-13": 13976,
-  "2023-10-14": 13976,
-  "2023-10-15": 13976,
-  "2023-10-16": 13976,
-  "2023-10-17": 13976,
-  "2023-10-18": 13976,
-  "2023-10-19": 13976,
-  "2023-10-20": 13976,
-  "2023-10-21": 13976,
-  "2023-10-22": 13976,
-  "2023-10-23": 13976,
-  "2023-10-24": 14037,
-  "2023-10-25": 14037,
-  "2023-10-26": 14037,
-  "2023-10-27": 14037,
-  "2023-10-28": 14037,
-  "2023-10-29": 14037,
-  "2023-10-30": 14037,
-  "2023-10-31": 14037,
-  "2023-11-01": 14037,
-  "2023-11-02": 14037,
-  "2023-11-03": 14037,
-  "2023-11-04": 14037,
-  "2023-11-05": 14037,
-  "2023-11-06": 14037,
-  "2023-11-07": 14037,
-  "2023-11-08": 14037,
-  "2023-11-09": 14037,
-  "2023-11-10": 14037,
-  "2023-11-11": 14127,
-  "2023-11-12": 14127,
-  "2023-11-13": 14127,
-  "2023-11-14": 14127,
-  "2023-11-15": 14127,
-  "2023-11-16": 14127,
-  "2023-11-17": 14172,
-  "2023-11-18": 14172,
-  "2023-11-19": 14172,
-  "2023-11-20": 14172,
-  "2023-11-21": 14172,
-  "2023-11-22": 14172,
-  "2023-11-23": 14198,
-  "2023-11-24": 14198,
-  "2023-11-25": 14198,
-  "2023-11-26": 14198,
-  "2023-11-27": 14198,
-  "2023-11-28": 14198,
-  "2023-11-29": 14198,
-  "2023-11-30": 14198,
-  "2023-12-01": 14198,
-  "2023-12-02": 14198,
-  "2023-12-03": 14198,
-  "2023-12-04": 14198,
-  "2023-12-05": 14198,
-  "2023-12-06": 14198,
-  "2023-12-07": 14198,
-  "2023-12-08": 14198,
-  "2023-12-09": 14298,
-  "2023-12-10": 14298,
-  "2023-12-11": 14301,
-  "2023-12-12": 14301,
-  "2023-12-13": 14301,
-  "2023-12-14": 14315,
-  "2023-12-15": 14317,
-  "2023-12-16": 14319,
-  "2023-12-17": 14325,
-  "2023-12-18": 14331,
-  "2023-12-19": 14339,
-  "2023-12-20": 14348,
-  "2023-12-21": 14352,
-  "2023-12-22": 14355,
-  "2023-12-23": 14352,
-  "2023-12-24": 14364,
-  "2023-12-25": 14368,
-  "2023-12-26": 14382,
-  "2023-12-27": 14384,
-  "2023-12-30": 14416,
-  "2023-12-31": 14420,
-  "2024-01-01": 14420,
-  "2024-01-02": 14434,
-  "2024-01-03": 14444
+  "2024-01-17": 14530,
+  "date_first_scraped": "2022-06-10",
+  "description": "Enjoy the soundtrack of My Liberation Notes! (\ub4dc\ub77c\ub9c8 \ub098\uc758 \ud574\ubc29\uc77c\uc9c0\uc758 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "My Liberation Notes (\ub098\uc758 \ud574\ubc29\uc77c\uc9c0)",
+  "tracks": [
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142866,
+      "name": "1234!",
+      "url": "https://open.spotify.com/track/1Jdcmtk0DPneFAv8BuK07T"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 9",
+        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "A Kind Of Confession (Female Ver.)",
+      "url": "https://open.spotify.com/track/2JulabkZjteUbO2oOawKXi"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 9",
+        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
+      },
+      "artists": [
+        {
+          "name": "Kwak jineon",
+          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236097,
+      "name": "A Kind Of Confession (Male Ver.)",
+      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "A Pastoral Song",
+      "url": "https://open.spotify.com/track/3VUBY1wqMF0GVcjfXJ81tH"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 5",
+        "url": "https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194291,
+      "name": "Be My Birthday",
+      "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 5",
+        "url": "https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194291,
+      "name": "Be My Birthday (Inst.)",
+      "url": "https://open.spotify.com/track/7Mkt2BILldW6AM23BpH0ld"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE YOUNG",
+          "url": "https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "Border",
+      "url": "https://open.spotify.com/track/56P7I6iY9mKsVKdCMBabay"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149986,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2q4aiHMpz5rR4mUlswgBjU"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218621,
+      "name": "Deeply (Inst.)",
+      "url": "https://open.spotify.com/track/74Fvz84C8kP3qFxrOWUk1j"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "Default",
+      "url": "https://open.spotify.com/track/1SWeAbtTPT3cAFrV14oc5H"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 8",
+        "url": "https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV"
+      },
+      "artists": [
+        {
+          "name": "9duck",
+          "url": "https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 8",
+        "url": "https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV"
+      },
+      "artists": [
+        {
+          "name": "9duck",
+          "url": "https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Diamond (Inst.)",
+      "url": "https://open.spotify.com/track/6OIfJrlxajf9JPMyCafnCh"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/10DlY6fnhTaWxdHf7rIFKA"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/3phEdscTqute4yrqRwl0nd"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE YOUNG",
+          "url": "https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86840,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/2Ya6w0aZbfzejyxKeAHZay"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259056,
+      "name": "Here We Are (Inst.)",
+      "url": "https://open.spotify.com/track/6tcpKxDjXsUXypRzxPQYre"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146346,
+      "name": "Homeground",
+      "url": "https://open.spotify.com/track/3CgVQDDq902NtzGJRSQZ2Y"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "SHIN HYUN PILL",
+          "url": "https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116880,
+      "name": "I Got A Feeling",
+      "url": "https://open.spotify.com/track/1vzi3faEszdqmSLTqyUDPT"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/525mC5gAtNtdIc3kVPIeKB"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 10",
+        "url": "https://open.spotify.com/album/294GsETEHK2D4pm8O9KcnP"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "I Think I Know",
+      "url": "https://open.spotify.com/track/4pL5tzAF9bgXIBjXVG5MjE"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 10",
+        "url": "https://open.spotify.com/album/294GsETEHK2D4pm8O9KcnP"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "I Think I Know (Inst.)",
+      "url": "https://open.spotify.com/track/6Lu75sdDi17emdR55GleLL"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE YOUNG",
+          "url": "https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94440,
+      "name": "I'm Exhausted",
+      "url": "https://open.spotify.com/track/1mxBTLBfWkzAqoEGoCdPep"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178529,
+      "name": "Kind Of Confession (Female Ver.) (Inst.)",
+      "url": "https://open.spotify.com/track/4QKysMfaQEXXUVZXkMFcuH"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Kwak jineon",
+          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236097,
+      "name": "Kind Of Confession (Male Ver.) (Inst.)",
+      "url": "https://open.spotify.com/track/0w3NqeBrtrZ0afIrgG5y5u"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 3",
+        "url": "https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh"
+      },
+      "artists": [
+        {
+          "name": "Shin Youme",
+          "url": "https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208683,
+      "name": "Laggard",
+      "url": "https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 3",
+        "url": "https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh"
+      },
+      "artists": [
+        {
+          "name": "Shin Youme",
+          "url": "https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208683,
+      "name": "Laggard (Inst.)",
+      "url": "https://open.spotify.com/track/0Qf4L4k49yjhqUPwhwGpsE"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90080,
+      "name": "Low-Key",
+      "url": "https://open.spotify.com/track/1xB804XqqHIkr1kYPS5Ct0"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "My Liberation Notes",
+      "url": "https://open.spotify.com/track/1zADRXiR2KlqzdLsAtKi6s"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 7",
+        "url": "https://open.spotify.com/album/4GxoEwxFNoMkDLbammppO8"
+      },
+      "artists": [
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252498,
+      "name": "My Spring",
+      "url": "https://open.spotify.com/track/01hBpZaHVwgAyxkuegRrS4"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 7",
+        "url": "https://open.spotify.com/album/4GxoEwxFNoMkDLbammppO8"
+      },
+      "artists": [
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253010,
+      "name": "My Spring (Inst.)",
+      "url": "https://open.spotify.com/track/3wu0OPkZ1xh0EMVvmTCqrO"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117066,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/3M4LF7w5wwI1vRbLBkDTgI"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156120,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/3EucDVLOQMHbIMcpqkYb3q"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5TpRoq71FEFJow6bs5rObS"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147386,
+      "name": "Not a Thing",
+      "url": "https://open.spotify.com/track/4lcaKVTxXU410f5JZUM5ZB"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/1K30RaOANLwcPjwzBOpLo7"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187973,
+      "name": "Save You, Save Me",
+      "url": "https://open.spotify.com/track/1ZuUhGUUDVgEg8PrZKVNRN"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/3PwfHCw4bExubpejZtWjq2"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "LIM MI HYUN",
+          "url": "https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/0ZPpgtakaqbmW4NDf3HnSW"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "LIM MI HYUN",
+          "url": "https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Sunshiny",
+      "url": "https://open.spotify.com/track/1yM3BSV25rbO7eoZa0Qqcq"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "SHIN HYUN PILL",
+          "url": "https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112480,
+      "name": "Tell Me Your Name",
+      "url": "https://open.spotify.com/track/0y9PHBis48kjHkNdBKBOwl"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 4",
+        "url": "https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ"
+      },
+      "artists": [
+        {
+          "name": "the orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182641,
+      "name": "That Day",
+      "url": "https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 4",
+        "url": "https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ"
+      },
+      "artists": [
+        {
+          "name": "the orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182641,
+      "name": "That Day (Inst.)",
+      "url": "https://open.spotify.com/track/04hk0UIuZRaD4UdK9Llmnj"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "\uc639\uc131\uc740",
+          "url": "https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145440,
+      "name": "The Liberation Club",
+      "url": "https://open.spotify.com/track/3lhocbXIipaIj73gw62eU9"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135080,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/5W1ljocELoZb6aHXYySZE2"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 2",
+        "url": "https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r"
+      },
+      "artists": [
+        {
+          "name": "Jun Hyung Lee",
+          "url": "https://open.spotify.com/artist/2e16jYQp62uFmY1W2Uror6"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233698,
+      "name": "To be together",
+      "url": "https://open.spotify.com/track/4xS2lHe3YAOgYO0XDicVMr"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 2",
+        "url": "https://open.spotify.com/album/4awtf4spRfq4reEe5CDn3r"
+      },
+      "artists": [
+        {
+          "name": "Jun Hyung Lee",
+          "url": "https://open.spotify.com/artist/2e16jYQp62uFmY1W2Uror6"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233698,
+      "name": "To be together (Inst.)",
+      "url": "https://open.spotify.com/track/6jgLkgZaZsqI4x1PD4zskq"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "SHIN HYUN PILL",
+          "url": "https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117226,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/1qcamjKBf9V2LsT8cJxcIO"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 6",
+        "url": "https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8"
+      },
+      "artists": [
+        {
+          "name": "SWAY",
+          "url": "https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206970,
+      "name": "We Sink",
+      "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST Part 6",
+        "url": "https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8"
+      },
+      "artists": [
+        {
+          "name": "SWAY",
+          "url": "https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206970,
+      "name": "We Sink (Inst.)",
+      "url": "https://open.spotify.com/track/0TqZWgjQV6Vt1x2YsJqAbD"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "LIM MI HYUN",
+          "url": "https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Wind Blows",
+      "url": "https://open.spotify.com/track/1XoVEuLjhpAO5osz1W558m"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE YOUNG",
+          "url": "https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126893,
+      "name": "Worship Me",
+      "url": "https://open.spotify.com/track/66ElK296sXKesjI0khAJk8"
+    },
+    {
+      "album": {
+        "name": "My Liberation Notes OST",
+        "url": "https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw"
+      },
+      "artists": [
+        {
+          "name": "YOON CHAE YOUNG",
+          "url": "https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111480,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/6xe4oFTuLlqjSamteJeP4t"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXd4LoztuhuiY"
 }

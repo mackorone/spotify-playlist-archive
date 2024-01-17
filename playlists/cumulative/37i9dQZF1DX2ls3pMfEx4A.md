@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Animals Sound Fun](https://open.spotify.com/track/77b2tRlrJMrtxu0439JMaL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:14 | 2022-03-11 |  |
-| [B\-I\-N\-G\-O](https://open.spotify.com/track/2q67HZ25Viu7m1wJM1AwkM) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Kids Morning Jams](https://open.spotify.com/album/5Gkg4FVFKZRAj7yfc0ANka) | 1:57 | 2022-03-11 |  |
+| [B\-I\-N\-G\-O](https://open.spotify.com/track/2q67HZ25Viu7m1wJM1AwkM) | [Cooltime](https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf) | [Kids Morning Jams](https://open.spotify.com/album/5Gkg4FVFKZRAj7yfc0ANka) | 1:57 | 2022-03-11 |  |
 | [B\-I\-N\-G\-O](https://open.spotify.com/track/3MSRNKg2OkHvOcnxYBctHD) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5Q66shHyQ34bAAtgotKWW8) | 1:57 | 2022-03-11 | 2022-11-13 |
 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 | 2022-03-11 | 2023-12-16 |
 | [B\-I\-N\-G\-O](https://open.spotify.com/track/7e0f3POtMu3Msxj5nssikz) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX) | 1:57 | 2022-03-11 | 2022-07-29 |

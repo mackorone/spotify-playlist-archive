@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 164821,
       "name": "Caballo R-15 - En Vivo",
       "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": "2024-01-09",
       "duration_ms": 179346,
       "name": "El Cadete",
       "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 131573,
       "name": "El Durango Contra El Peligro",
       "url": "https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1"
@@ -784,10 +784,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 159125,
       "name": "El Panam\u00e1 West - En Vivo",
       "url": "https://open.spotify.com/track/0xO3zB3JW9Fb4hnzdxGAQ5"
+    },
+    {
+      "album": {
+        "name": "De Nuestro Rancho Hasta Tu Casa (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCZy3dHGrhKAeH1XrGeha"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159125,
+      "name": "El Panam\u00e1 West - En Vivo",
+      "url": "https://open.spotify.com/track/3OeFODCXmoLMWrr8qRhL4d"
     },
     {
       "album": {
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 184186,
       "name": "La Huesos",
       "url": "https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol"
@@ -1354,10 +1372,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 181401,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/3QeRFO2Ie216g4BCgpaqbJ"
+    },
+    {
+      "album": {
+        "name": "La Historia Contin\u00faa",
+        "url": "https://open.spotify.com/album/47B0D4XplKAbjQ3k0WyD37"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181401,
+      "name": "Mi Potra",
+      "url": "https://open.spotify.com/track/50aNYSEuvsp0p20elTwI8W"
     },
     {
       "album": {
@@ -1372,7 +1408,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 210800,
       "name": "Mi Potrillo",
       "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"

@@ -1,8 +1,1089 @@
 {
-  "2023-12-27": 6105,
-  "2023-12-30": 6658,
-  "2023-12-31": 6819,
-  "2024-01-01": 6967,
-  "2024-01-02": 6998,
-  "2024-01-03": 7026
+  "2024-01-17": 7428,
+  "date_first_scraped": "2023-12-27",
+  "description": "Hear the world in new ways with music from National Geographic\u2019s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.",
+  "name": "National Geographic Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123150,
+      "name": "A Baby Is Born",
+      "url": "https://open.spotify.com/track/2nFmDGWDKWHvylfXJQokX0"
+    },
+    {
+      "album": {
+        "name": "A Small Light (Original Score)",
+        "url": "https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5"
+      },
+      "artists": [
+        {
+          "name": "Ariel Marx",
+          "url": "https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81946,
+      "name": "A Chicken More Like You",
+      "url": "https://open.spotify.com/track/3F5MBcdicCIupmlwD0c2wd"
+    },
+    {
+      "album": {
+        "name": "Jane (Original National Geographic Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "A New Generation",
+      "url": "https://open.spotify.com/track/0DcsIiTE6l7PqI4DVA1oCe"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196448,
+      "name": "Beach Living",
+      "url": "https://open.spotify.com/track/2BlWGB7wM2dSiQ9JUjJMND"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102220,
+      "name": "Bulls Built Different",
+      "url": "https://open.spotify.com/track/6i59Uwwlsu8dwippavNLOx"
+    },
+    {
+      "album": {
+        "name": "Clotilda: Last American Slave Ship (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6JuZRY8T58wqEtLU04UH1E"
+      },
+      "artists": [
+        {
+          "name": "Mikey J",
+          "url": "https://open.spotify.com/artist/3sTWxXZXify7sB3qVuAiet"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57138,
+      "name": "By Moonlight",
+      "url": "https://open.spotify.com/track/5STKqRZzOPigoYVnUk0kcJ"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111472,
+      "name": "Coda (Then Everything Changed)",
+      "url": "https://open.spotify.com/track/77ioL0510r3qGHiDgHUky4"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246677,
+      "name": "Earth Stars",
+      "url": "https://open.spotify.com/track/5NAGmtVv5y9lpM9F4RL7S5"
+    },
+    {
+      "album": {
+        "name": "Welcome to Earth (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1hvkCG5N7XxYzM1VGiwuOV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "Earth Tides",
+      "url": "https://open.spotify.com/track/0YE2poy8nH2iXVyNxgJaK1"
+    },
+    {
+      "album": {
+        "name": "Everything Is Gonna Be Alright",
+        "url": "https://open.spotify.com/album/1vdb0jkqoNi8AQc6WFQrpp"
+      },
+      "artists": [
+        {
+          "name": "Bobi Wine",
+          "url": "https://open.spotify.com/artist/6d7TH1WmN4YI15WAygkuMR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Everything Is Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1OascjK1jVlEjrAN30OdC6"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "Finding Elephants",
+      "url": "https://open.spotify.com/track/11MrKQXwynEhHxAbDyNPXG"
+    },
+    {
+      "album": {
+        "name": "Incredible Animal Journeys (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z"
+      },
+      "artists": [
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Flamingos: Finding the Perfect Lake",
+      "url": "https://open.spotify.com/track/1ZgpuRulxbldoxlF9wRpNg"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256469,
+      "name": "High Above the Ice Fields",
+      "url": "https://open.spotify.com/track/15NVC8IVxifOhUOkqiGRjn"
+    },
+    {
+      "album": {
+        "name": "Clotilda: Last American Slave Ship (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6JuZRY8T58wqEtLU04UH1E"
+      },
+      "artists": [
+        {
+          "name": "Mikey J",
+          "url": "https://open.spotify.com/artist/3sTWxXZXify7sB3qVuAiet"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103599,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0jFhLrxZf801Ia9BPrun67"
+    },
+    {
+      "album": {
+        "name": "Music from Secrets of the Whales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi"
+      },
+      "artists": [
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386655,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/46Oi6cAgJztjH3JL9iOJ6O"
+    },
+    {
+      "album": {
+        "name": "Symphony for Our World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS"
+      },
+      "artists": [
+        {
+          "name": "Austin Fray",
+          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89293,
+      "name": "Hummingbirds",
+      "url": "https://open.spotify.com/track/4SZXecAyjbZdMd7j2m1hPi"
+    },
+    {
+      "album": {
+        "name": "Incredible Animal Journeys (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z"
+      },
+      "artists": [
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225620,
+      "name": "Humpback Whales II: The Great Feast",
+      "url": "https://open.spotify.com/track/1JS8SQStfqPbrnfPGZUw4k"
+    },
+    {
+      "album": {
+        "name": "Welcome to Earth (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1hvkCG5N7XxYzM1VGiwuOV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Illusions of Colour",
+      "url": "https://open.spotify.com/track/4EZ8L0rqcXq91URsvkPbPO"
+    },
+    {
+      "album": {
+        "name": "Jane (Original National Geographic Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256519,
+      "name": "In the Shadow of Man",
+      "url": "https://open.spotify.com/track/0EQGC3MA6bn3z8Cpv3JkIt"
+    },
+    {
+      "album": {
+        "name": "Incredible Animal Journeys (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z"
+      },
+      "artists": [
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122540,
+      "name": "Incredible Animal Journeys",
+      "url": "https://open.spotify.com/track/2dlvfOFTNlXG7J69nIKBU0"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284074,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/6UUP1m27crml8wE9XPF53N"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180730,
+      "name": "Kenya",
+      "url": "https://open.spotify.com/track/745PDHBEq9IAk492Ct1zaZ"
+    },
+    {
+      "album": {
+        "name": "America the Beautiful (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3OuNMUn7WiZLlkxdMX8tET"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241546,
+      "name": "L.A. Coast",
+      "url": "https://open.spotify.com/track/4v86zin4NZ8ZvgGdm1tdel"
+    },
+    {
+      "album": {
+        "name": "Super/Natural (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7KBwpPJEGr3pFVc6bByfQm"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jones",
+          "url": "https://open.spotify.com/artist/6pXyaY5c2GT6ccfsV8kF8J"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276324,
+      "name": "Lar Gibbons",
+      "url": "https://open.spotify.com/track/3LxHK7LsmRWRLjvwZcGbJk"
+    },
+    {
+      "album": {
+        "name": "Music from Secrets of the Whales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi"
+      },
+      "artists": [
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75306,
+      "name": "Majestic Dances",
+      "url": "https://open.spotify.com/track/2cwySCGbLIRKgLPnha1NoL"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176670,
+      "name": "Make a Change",
+      "url": "https://open.spotify.com/track/4WDiIU0wKZGiDuDDHP1vdI"
+    },
+    {
+      "album": {
+        "name": "A Small Light (Original Score)",
+        "url": "https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5"
+      },
+      "artists": [
+        {
+          "name": "Ariel Marx",
+          "url": "https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Miep and Jan",
+      "url": "https://open.spotify.com/track/05lHGulLZrvJNmfgMR5KkN"
+    },
+    {
+      "album": {
+        "name": "Incredible Animal Journeys (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z"
+      },
+      "artists": [
+        {
+          "name": "Jake Monaco",
+          "url": "https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174340,
+      "name": "Monarch Butterflys II: The Super Generation",
+      "url": "https://open.spotify.com/track/1gS5qqQOp85sKCHwQ3qtwa"
+    },
+    {
+      "album": {
+        "name": "National Geographic Theme",
+        "url": "https://open.spotify.com/album/3INMMOrvQxw8nokGvSciPu"
+      },
+      "artists": [
+        {
+          "name": "An\u017ee Rozman",
+          "url": "https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152887,
+      "name": "National Geographic Theme - Symphony of Our World Version",
+      "url": "https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290986,
+      "name": "Opening Suite",
+      "url": "https://open.spotify.com/track/2GTDej7cAmZrRkkaxrEQHE"
+    },
+    {
+      "album": {
+        "name": "Music from Secrets of the Whales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi"
+      },
+      "artists": [
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130024,
+      "name": "Orca Dynasty",
+      "url": "https://open.spotify.com/track/7hMI8rxSBeUi3R6lWhna9U"
+    },
+    {
+      "album": {
+        "name": "Super/Natural (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7KBwpPJEGr3pFVc6bByfQm"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jones",
+          "url": "https://open.spotify.com/artist/6pXyaY5c2GT6ccfsV8kF8J"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302716,
+      "name": "Orca Hunt",
+      "url": "https://open.spotify.com/track/1Vthmp1CashinriDE9zHqc"
+    },
+    {
+      "album": {
+        "name": "One Strange Rock (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4dZsbLj46oJBifrProWgG6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "OSR I - I",
+      "url": "https://open.spotify.com/track/13qZ7N4ODXqGRsDf5Oo8tu"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139168,
+      "name": "Our Mountain",
+      "url": "https://open.spotify.com/track/5JuAq0ECVpUiXYs6cU8gFl"
+    },
+    {
+      "album": {
+        "name": "Fire of Love (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Godin",
+          "url": "https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99373,
+      "name": "Pedagogic",
+      "url": "https://open.spotify.com/track/3tXLYJhJktVZpwxKAK2gi2"
+    },
+    {
+      "album": {
+        "name": "Symphony for Our World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Christie",
+          "url": "https://open.spotify.com/artist/3yJPmPcckAkvSN8nCX3MFW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "Penguins",
+      "url": "https://open.spotify.com/track/4VlLEFdAfKiFVMkzSHV7qT"
+    },
+    {
+      "album": {
+        "name": "Jane (Original National Geographic Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44xzwymvbCtNwgDAxe9otW"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "Perfect Life",
+      "url": "https://open.spotify.com/track/6aDerNa8GOuJGIqa13gdmg"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Salt Lake to Antelope",
+      "url": "https://open.spotify.com/track/08fZDhN62EQZ9R8GnvhJlG"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153216,
+      "name": "Sea Turtle",
+      "url": "https://open.spotify.com/track/3vAnvSdQJLDgWH2NxSEOic"
+    },
+    {
+      "album": {
+        "name": "Music from Secrets of the Whales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi"
+      },
+      "artists": [
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154951,
+      "name": "Sperm Whales Clicks",
+      "url": "https://open.spotify.com/track/7r2C6F3MqPoNrw5vuFeeUF"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Sundown in the City",
+      "url": "https://open.spotify.com/track/6HVNj9RZqKEtTbg4GQMrpq"
+    },
+    {
+      "album": {
+        "name": "Symphony for Our World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS"
+      },
+      "artists": [
+        {
+          "name": "Austin Fray",
+          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "Symphony for Our World",
+      "url": "https://open.spotify.com/track/72iOjb3X2JbEGcYfITXCxO"
+    },
+    {
+      "album": {
+        "name": "Symphony for Our World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS"
+      },
+      "artists": [
+        {
+          "name": "Austin Fray",
+          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211586,
+      "name": "Symphony for the Sea",
+      "url": "https://open.spotify.com/track/6uOLcIc4XZmewbvmeAknDv"
+    },
+    {
+      "album": {
+        "name": "Take Pictures (From \"National Geographic: Pictures of the Year\")",
+        "url": "https://open.spotify.com/album/171T2mabdPGk7mQNCjuL0u"
+      },
+      "artists": [
+        {
+          "name": "Ella Joy Meir",
+          "url": "https://open.spotify.com/artist/5Hj1mPglZe5DoUmdGBwsnZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60722,
+      "name": "Take Pictures - From \"National Geographic: Pictures of the Year\"",
+      "url": "https://open.spotify.com/track/2h5mYpCbGdtUxqFM9UEwzC"
+    },
+    {
+      "album": {
+        "name": "Fire of Love (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Godin",
+          "url": "https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105826,
+      "name": "Team Vulcan",
+      "url": "https://open.spotify.com/track/0jdKh9behc0NYo3OkGgwzu"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283210,
+      "name": "Thailand",
+      "url": "https://open.spotify.com/track/0Pxc87ovMTg1jscgYgx1cj"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113232,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/3T9AAWv6sAgPUGvxjFiTHE"
+    },
+    {
+      "album": {
+        "name": "Secrets of the Elephants (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe"
+      },
+      "artists": [
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "The Desert",
+      "url": "https://open.spotify.com/track/5gt2zp3pYmqlrLCZ697GPr"
+    },
+    {
+      "album": {
+        "name": "A Small Light (Original Score)",
+        "url": "https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5"
+      },
+      "artists": [
+        {
+          "name": "Ariel Marx",
+          "url": "https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168080,
+      "name": "The Happiest Girl in the World",
+      "url": "https://open.spotify.com/track/6v1w4DVsL4Ggj510FXcJvK"
+    },
+    {
+      "album": {
+        "name": "Hostile Planet: Volume 1 (Original Series Score)",
+        "url": "https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127413,
+      "name": "The Hostile Planet",
+      "url": "https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU"
+    },
+    {
+      "album": {
+        "name": "Symphony for Our World (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS"
+      },
+      "artists": [
+        {
+          "name": "Austin Fray",
+          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "The Northern Reaches",
+      "url": "https://open.spotify.com/track/1h2LmFZz0xyuKSPeqx1rgJ"
+    },
+    {
+      "album": {
+        "name": "LA 92 (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/2o8yuykY3WBWSlNRkGvSIu"
+      },
+      "artists": [
+        {
+          "name": "Danny Bensi and Saunder Jurriaans",
+          "url": "https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150325,
+      "name": "Titles - LA 92 (Original Soundtrack Album)",
+      "url": "https://open.spotify.com/track/7C2Y6UiQG8fttWPoCldYHM"
+    },
+    {
+      "album": {
+        "name": "Music from Secrets of the Whales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2rOsbsGPCBwXaXRqR68WRi"
+      },
+      "artists": [
+        {
+          "name": "Raphaelle Thibaut",
+          "url": "https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152573,
+      "name": "Underwater Maze",
+      "url": "https://open.spotify.com/track/5HTyLBUSfDrjJewSpXTF0A"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193792,
+      "name": "Water Falls to Rainbow",
+      "url": "https://open.spotify.com/track/6EVBEgIh4ZYjhliESq4XzL"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98474,
+      "name": "What a Life",
+      "url": "https://open.spotify.com/track/2wOk6utK45cS6WQ9IyhmIV"
+    },
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171050,
+      "name": "When the Surf Comes Up",
+      "url": "https://open.spotify.com/track/7D6ZZoa9dhnSQrCsdKVHCK"
+    },
+    {
+      "album": {
+        "name": "Music from Earth Moods (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv"
+      },
+      "artists": [
+        {
+          "name": "Neil Davidge",
+          "url": "https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240896,
+      "name": "Working Late, Going Out",
+      "url": "https://open.spotify.com/track/6SXgrXgn9U4cUd31bsbw2H"
+    },
+    {
+      "album": {
+        "name": "Fire of Love (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/1A2FqRl103QAef0Uqu9WcW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Godin",
+          "url": "https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Zaire 73",
+      "url": "https://open.spotify.com/track/19SztVDdRIuV0raHvmN7qJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4pt8v2CyS4b"
 }

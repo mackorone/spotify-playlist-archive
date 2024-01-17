@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts para ampliar seus horizontes.
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:6yTHTc5kaZj85vstsFV7GP">fiz o que pude ¯\\\_\(ツ\)\_/¯</a>
 
 0 song - 0 sec
 

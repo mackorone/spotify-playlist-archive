@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7BiX5U19t.md) - [plain]
 
 > セットリスト公開！2023年3月24日\(金\), 25日\(土\)に開催されたHarry Styles来日公演<a href="https://harrystylesjapantour.com/">"Love On Tour"</a>のセットリストをプレイリストで楽しもう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,554 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,567 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

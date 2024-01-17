@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot! Featuring: <a href=\"https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ?si=-bxSNr4lRvqjq2NTBmpykA\">Jack Harlow</a>, Gunna, Gucci Mane,  Lil Uzi Vert,  Young Thug, A Boogie Wit da Hoodie,  Portion, Rundown Spaz, LUM &amp; many more.",
+  "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot! Featuring: <a href=\"https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ?si=-bxSNr4lRvqjq2NTBmpykA\">Jack Harlow</a>, Gunna, Gucci Mane,  Lil Uzi Vert,  Young Thug, A Boogie Wit da Hoodie,  Rundown Spaz, &amp; many more.",
   "name": "Hip Hop Weekly",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 155200,
       "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "BLACKBALLED",
+        "url": "https://open.spotify.com/album/045ra7EkY07W66G8CP2BjK"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123522,
+      "name": "FAH",
+      "url": "https://open.spotify.com/track/2lVzafLeERgnVY9NIzWXWu"
+    },
+    {
+      "album": {
         "name": "First Day Out (Freestyle)",
         "url": "https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 207133,
       "name": "From A Man",
       "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
@@ -1015,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Nash n Dirk (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/6zhsxQCBNlgpy8VFWa1Wsk"
+      },
+      "artists": [
+        {
+          "name": "Brezden",
+          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161515,
+      "name": "Nash n Dirk (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/3svqa1eDB8ezS2cDD4NakK"
+    },
+    {
+      "album": {
         "name": "Chosen 1K",
         "url": "https://open.spotify.com/album/2MZMbxoGvgp5cQjPXcQZYZ"
       },
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 176551,
       "name": "NIGHT WE MET (feat. Veronica Elizabeth)",
       "url": "https://open.spotify.com/track/4zEacEOMttSocwk0HkP7yK"
@@ -1144,6 +1184,24 @@
       "duration_ms": 119016,
       "name": "On You",
       "url": "https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6"
+    },
+    {
+      "album": {
+        "name": "ONE CALL",
+        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
     },
     {
       "album": {
@@ -1228,6 +1286,42 @@
       "duration_ms": 185453,
       "name": "Presha (with Lil Wayne)",
       "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
+    },
+    {
+      "album": {
+        "name": "Rasputia",
+        "url": "https://open.spotify.com/album/7BhtC8TtWM2Ab5SNi9Q1x1"
+      },
+      "artists": [
+        {
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165876,
+      "name": "Rasputia",
+      "url": "https://open.spotify.com/track/00O5okVKe7BteRoU66doSg"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "album": {
@@ -1348,7 +1442,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 165433,
       "name": "Shotta Flow 7",
       "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
@@ -1558,7 +1652,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 230625,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/4LuIEWBrI7NWMsPrQvEQOa"
@@ -1642,10 +1736,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 129899,
       "name": "WAKENBAKE (feat. Juicy J)",
       "url": "https://open.spotify.com/track/7MDkJNfmHY6eAD7M9G41WZ"
+    },
+    {
+      "album": {
+        "name": "Xho Sex",
+        "url": "https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192479,
+      "name": "Xho Sex",
+      "url": "https://open.spotify.com/track/4pNgQB56Yr0t8pMXut6Zvv"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka?si=BrZ\_qy7VTQqtW6k5J6oDQQ">QUE DJ</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom?si=IzDcDqJSQz\-G5cFoehBhNQ">Griffit Vigo</a>
 
-163 songs - 14 hr 38 min
+164 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dirty Scooter](https://open.spotify.com/track/4al36LCHp4eEYc5op7O76p) | [Vida\-Soul](https://open.spotify.com/artist/6u8wlBgWGcHLUvSDNfAYXu) | [Green Light](https://open.spotify.com/album/6wc5kA4Opm6zkyoSAXjQTt) | 6:36 | 2023-04-27 | 2023-11-11 |
 | [E\-Wallet](https://open.spotify.com/track/7sVmYrSWOesRwonaTcsZ6u) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [E\-Wallet](https://open.spotify.com/album/6eZg6Qdgq93kjkRpYJkw5f) | 5:39 | 2023-08-24 |  |
 | [Easy Easy](https://open.spotify.com/track/6O204o4Ojj74CJOVRjbU00) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [G\_Star](https://open.spotify.com/artist/2id4IQA32X5qeaPDgaZ7v2) | [Beast Mode EP](https://open.spotify.com/album/3FhSGQv2CT1ki1IiqMjPx4) | 5:38 | 2023-08-24 |  |
+| [EGM](https://open.spotify.com/track/2xxlQN3Po6V8EOu0IY7bGH) | [Griffit Vigo](https://open.spotify.com/artist/3HU5DXz2taeMRxafimOgom) | [EGM](https://open.spotify.com/album/2B45Vlv5hmsKXsVUWjF0E6) | 7:44 | 2024-01-11 |  |
 | [Elevate](https://open.spotify.com/track/24TbpmQWrUYjSnLMWaEhbv) | [Nangu Simjay](https://open.spotify.com/artist/2Wa3qKIqHyxQXqkXBX1My6), [Sva The Dominator](https://open.spotify.com/artist/4JWpvSHnttQ6VNcreD7ZWN) | [Elevate](https://open.spotify.com/album/0oR6mfFuulK6jJHX7Vi0Lk) | 5:57 | 2022-07-28 | 2023-08-25 |
 | [eRoundini](https://open.spotify.com/track/5EAiMT0YjRE8OeALSRtYEC) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Siboniso Shozi](https://open.spotify.com/artist/0yRWLoXtyD7ydwpDkIizlT) | [Amaketanga](https://open.spotify.com/album/6nrUhUWLwowLQvJKDeuCx0) | 4:35 | 2023-05-25 |  |
 | [Ey’Ntabeni](https://open.spotify.com/track/2WfJW9YQct5kBICCRVv4NX) | [Bello no Gallo](https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Sizwe Mdlalose](https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X), [Dezzodigo](https://open.spotify.com/artist/5PWY0kEF14p1jEAtwRJRKn), [Major Lab](https://open.spotify.com/artist/0LBTQn1xCpwqsLPxnfzLy5) | [Ey’Ntabeni](https://open.spotify.com/album/2H8eY3UvbpLjYvI87mB4lQ) | 3:58 | 2022-11-07 | 2023-08-25 |

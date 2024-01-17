@@ -1,226 +1,513 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 1,
-  "2023-06-03": 1,
-  "2023-06-04": 1,
-  "2023-06-05": 1,
-  "2023-06-06": 1,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 1,
-  "2023-06-22": 1,
-  "2023-06-23": 1,
-  "2023-06-24": 1,
-  "2023-06-25": 1,
-  "2023-06-26": 1,
-  "2023-06-27": 1,
-  "2023-06-28": 1,
-  "2023-06-29": 1,
-  "2023-06-30": 1,
-  "2023-07-01": 1,
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "EJ#3?",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
+      },
+      "artists": [
+        {
+          "name": "Devarrow",
+          "url": "https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB"
+    },
+    {
+      "album": {
+        "name": "Science Will Figure You Out",
+        "url": "https://open.spotify.com/album/6k2vwLlQvuVqZW8fj0kPsx"
+      },
+      "artists": [
+        {
+          "name": "Soltero",
+          "url": "https://open.spotify.com/artist/7407UR5CvlJRYClGHhO33F"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "communist love song",
+      "url": "https://open.spotify.com/track/5syQxLfvGTORKxZ4qjkfdT"
+    },
+    {
+      "album": {
+        "name": "Ripely Pine",
+        "url": "https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387693,
+      "name": "Crane Your Neck - Remastered",
+      "url": "https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO"
+    },
+    {
+      "album": {
+        "name": "Mushroom Melancholia",
+        "url": "https://open.spotify.com/album/3nZNzHJXPAJeLo4ia8L7yy"
+      },
+      "artists": [
+        {
+          "name": "Ratwyfe",
+          "url": "https://open.spotify.com/artist/5OlARALdX4igefmFOROcjB"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185292,
+      "name": "Cryptid (Mothman)",
+      "url": "https://open.spotify.com/track/6jRrFtoVDukFAgwugqUQx5"
+    },
+    {
+      "album": {
+        "name": "Opening for Steinbeck (Live)",
+        "url": "https://open.spotify.com/album/0RbkBhEX3DQ48o07gCrBqZ"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318408,
+      "name": "Dissect the Bird (Live)",
+      "url": "https://open.spotify.com/track/52Cc6qv2MckQgLjeR5Eai0"
+    },
+    {
+      "album": {
+        "name": "Clocks and Hearts Keep Going",
+        "url": "https://open.spotify.com/album/6pVc6U23QjLEH2a0O4c5nj"
+      },
+      "artists": [
+        {
+          "name": "Tanya Davis",
+          "url": "https://open.spotify.com/artist/4m8uSUMBrDsx5Ym1LKRfEj"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251533,
+      "name": "Eulogy for You and Me",
+      "url": "https://open.spotify.com/track/6JXhaWfyUr1EwFK01GM2or"
+    },
+    {
+      "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "album": {
+        "name": "There Will Be Nights When I'm Lonely",
+        "url": "https://open.spotify.com/album/2lUhtEbuVWlZXPHSeYqSwe"
+      },
+      "artists": [
+        {
+          "name": "Possessed by Paul James",
+          "url": "https://open.spotify.com/artist/3OKWUEJ7JsoqJdsgtviUvk"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0AWTnLjsI35kcKI3uCR5Bp"
+    },
+    {
+      "album": {
+        "name": "This City Isn't Big Enough",
+        "url": "https://open.spotify.com/album/33HIE0PoNIJRwjvgGB6iXL"
+      },
+      "artists": [
+        {
+          "name": "Apes of the State",
+          "url": "https://open.spotify.com/artist/4HemfSCDgnPiHQh8Z6iyd6"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243408,
+      "name": "I Listened",
+      "url": "https://open.spotify.com/track/4SYZZNgqbsyH3FveJFrYUA"
+    },
+    {
+      "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/1zpq0chaNa9dxWINjdlWLD"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284226,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4C0P5aJsVTkqXgVeAl83Iy"
+    },
+    {
+      "album": {
+        "name": "Lost On The River (Deluxe)",
+        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
+    },
+    {
+      "album": {
+        "name": "Unlovely",
+        "url": "https://open.spotify.com/album/2m3noMJ9uRE96xWFOczIfv"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Love Is Easy",
+      "url": "https://open.spotify.com/track/4vzworOIWdZBa77q7SPCTa"
+    },
+    {
+      "album": {
+        "name": "Melee Range",
+        "url": "https://open.spotify.com/album/5ret7vts2OW7HshF7P2LlB"
+      },
+      "artists": [
+        {
+          "name": "Ginny Di",
+          "url": "https://open.spotify.com/artist/3hNRxHveKzuhnqzjtvoyoJ"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175803,
+      "name": "Melee Range",
+      "url": "https://open.spotify.com/track/69PRVkUg97jOnWRPWVcF9g"
+    },
+    {
+      "album": {
+        "name": "Psychic Reader",
+        "url": "https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184871,
+      "name": "Midway",
+      "url": "https://open.spotify.com/track/4RFQqoOFw0pdropkjrPnh3"
+    },
+    {
+      "album": {
+        "name": "Club Sofa",
+        "url": "https://open.spotify.com/album/4nlQPNGxvztljoNL8S86sm"
+      },
+      "artists": [
+        {
+          "name": "Club Sofa",
+          "url": "https://open.spotify.com/artist/53MzTrUYiFkAx2KHPlJFrL"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159568,
+      "name": "Myspace 2009",
+      "url": "https://open.spotify.com/track/4rpKFAoXABSkMR4FZymUWA"
+    },
+    {
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177339,
+      "name": "Oom Sha La La",
+      "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
+    },
+    {
+      "album": {
+        "name": "Soup for My Girlfriend",
+        "url": "https://open.spotify.com/album/1ds2fS4oqyWURFwmfHs3vH"
+      },
+      "artists": [
+        {
+          "name": "Crooks & Nannies",
+          "url": "https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk"
+        }
+      ],
+      "date_added": "2021-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248080,
+      "name": "Perpetual Mild Illness",
+      "url": "https://open.spotify.com/track/2fyn2C9PQyd0stf9DLjiKR"
+    },
+    {
+      "album": {
+        "name": "Transgender Street Legend, Vol. 1",
+        "url": "https://open.spotify.com/album/3d6LObGaY1hWjNP4LsrYqk"
+      },
+      "artists": [
+        {
+          "name": "Left at London",
+          "url": "https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Revolution Lover",
+      "url": "https://open.spotify.com/track/3qBg6BeHJlGgwl5aCa09EC"
+    },
+    {
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/4hqsg6viSC2UoLKUydMFOO"
+    },
+    {
+      "album": {
+        "name": "Sexier",
+        "url": "https://open.spotify.com/album/5lpz1rEunLWrqpKLZ09IGT"
+      },
+      "artists": [
+        {
+          "name": "My Name Is Ian",
+          "url": "https://open.spotify.com/artist/0w4ZAa01uZC7QGNVBr6IkM"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274264,
+      "name": "Sexier",
+      "url": "https://open.spotify.com/track/4f8KtFdbiKQpsTx0tT6NJT"
+    },
+    {
+      "album": {
+        "name": "It Hurts",
+        "url": "https://open.spotify.com/album/4xHS9yXb5JCAqdxu7fhOpw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Super America",
+      "url": "https://open.spotify.com/track/2PFtst7Dy48ZLqgxjTQ3es"
+    },
+    {
+      "album": {
+        "name": "Stadium Cake",
+        "url": "https://open.spotify.com/album/4oU7G77nSuinqIVpTpwXEp"
+      },
+      "artists": [
+        {
+          "name": "Oh Pep!",
+          "url": "https://open.spotify.com/artist/3L9rqEIsNSaOcx2QIstn7v"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322180,
+      "name": "Tea, Milk & Honey",
+      "url": "https://open.spotify.com/track/655up14t6xqU5K4wLSvtI2"
+    },
+    {
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
+    },
+    {
+      "album": {
+        "name": "The Room Is Filled With People That Love You",
+        "url": "https://open.spotify.com/album/1aQtgMxt2n65MaAdve9iXt"
+      },
+      "artists": [
+        {
+          "name": "Foresight",
+          "url": "https://open.spotify.com/artist/3XcSsKSKxFCeZkomI2xBHW"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231114,
+      "name": "The Room Is Filled With People That Love You",
+      "url": "https://open.spotify.com/track/1TeKvnR9Xkdh9KaqR4X2Od"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "album": {
+        "name": "Life Will See You Now",
+        "url": "https://open.spotify.com/album/1hXSxD7wpxEHXiLkk69EaQ"
+      },
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "Wedding in Finist\u00e8re",
+      "url": "https://open.spotify.com/track/0wmU5ejlvQighweIC7etum"
+    },
+    {
+      "album": {
+        "name": "Midwestern Minutes",
+        "url": "https://open.spotify.com/album/3ZYbEB9IYzSAVwYRIyLe9w"
+      },
+      "artists": [
+        {
+          "name": "Defiance, Ohio",
+          "url": "https://open.spotify.com/artist/275dFoyS7o1g1O4rFgy3Ix"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/5n7VRrWOauM64haQHKd8QM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1Isxwx6KPIdsb79GOLL0nS"
 }

@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "Get Your Back Into It!",
+        "url": "https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244386,
+      "name": "Choose Wisely",
+      "url": "https://open.spotify.com/track/3e8FtZefLisPiLXh6MCSS6"
+    },
+    {
+      "album": {
         "name": "Back to the Blues (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
       },
@@ -510,7 +532,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 260773,
       "name": "Don't Want No Woman",
       "url": "https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u"
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 225133,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 172440,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
@@ -1380,6 +1402,24 @@
       "duration_ms": 164893,
       "name": "Juke",
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+    },
+    {
+      "album": {
+        "name": "Just As Gone",
+        "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "Just As Gone",
+      "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
     },
     {
       "album": {
@@ -2326,7 +2366,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 207255,
       "name": "Proud Man's Blues (Radio Mix)",
       "url": "https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH"
@@ -2344,10 +2384,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "album": {
+        "name": "Upstate",
+        "url": "https://open.spotify.com/album/6nySaFGbYGGVcR2CKGs64l"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
     },
     {
       "album": {
@@ -2643,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
+      },
+      "artists": [
+        {
+          "name": "Willie J. Campbell",
+          "url": "https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196570,
+      "name": "She's a Twister",
+      "url": "https://open.spotify.com/track/3KQHzgBg8a5B5uVKnghe1K"
+    },
+    {
+      "album": {
         "name": "Sho Been Worse",
         "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
       },
@@ -2672,7 +2748,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 210827,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
@@ -2766,6 +2842,24 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250970,
+      "name": "Sounds Like The Road",
+      "url": "https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn"
     },
     {
       "album": {
@@ -2864,6 +2958,24 @@
       "duration_ms": 171746,
       "name": "Stormy Monday Blues - Remastered 2022",
       "url": "https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY"
+    },
+    {
+      "album": {
+        "name": "Life Don\u2019t Miss Nobody",
+        "url": "https://open.spotify.com/album/6wLNDDWOMPE9leLWmhDw7C"
+      },
+      "artists": [
+        {
+          "name": "Tracy Nelson",
+          "url": "https://open.spotify.com/artist/41D1NBo5Ib5aJ7Aavt3cWS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/1mZnYPZKrIzS5AEjXa5fzC"
     },
     {
       "album": {
@@ -3042,7 +3154,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 266640,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e"

@@ -1,156 +1,1123 @@
 {
-  "2023-08-01": 34,
-  "2023-08-02": 62,
-  "2023-08-03": 94,
-  "2023-08-04": 131,
-  "2023-08-05": 218,
-  "2023-08-06": 376,
-  "2023-08-07": 376,
-  "2023-08-08": 437,
-  "2023-08-09": 501,
-  "2023-08-10": 1569,
-  "2023-08-11": 2465,
-  "2023-08-12": 3216,
-  "2023-08-13": 3499,
-  "2023-08-14": 3564,
-  "2023-08-15": 3652,
-  "2023-08-16": 3652,
-  "2023-08-17": 3694,
-  "2023-08-18": 3740,
-  "2023-08-19": 3773,
-  "2023-08-20": 3810,
-  "2023-08-21": 3834,
-  "2023-08-22": 3857,
-  "2023-08-23": 3895,
-  "2023-08-24": 3925,
-  "2023-08-25": 3948,
-  "2023-08-26": 3980,
-  "2023-08-27": 4006,
-  "2023-08-28": 4028,
-  "2023-08-29": 4064,
-  "2023-08-30": 4087,
-  "2023-08-31": 4110,
-  "2023-09-01": 4159,
-  "2023-09-02": 4159,
-  "2023-09-03": 4179,
-  "2023-09-04": 4200,
-  "2023-09-05": 4213,
-  "2023-09-06": 4238,
-  "2023-09-07": 4245,
-  "2023-09-08": 4264,
-  "2023-09-09": 4282,
-  "2023-09-10": 4297,
-  "2023-09-11": 4312,
-  "2023-09-12": 4327,
-  "2023-09-13": 4350,
-  "2023-09-14": 4368,
-  "2023-09-15": 4382,
-  "2023-09-16": 4408,
-  "2023-09-17": 4408,
-  "2023-09-18": 4438,
-  "2023-09-19": 4445,
-  "2023-09-20": 4453,
-  "2023-09-21": 4474,
-  "2023-09-22": 4489,
-  "2023-09-23": 4502,
-  "2023-09-24": 4502,
-  "2023-09-25": 4536,
-  "2023-09-26": 4560,
-  "2023-09-27": 4571,
-  "2023-09-28": 4581,
-  "2023-09-29": 4595,
-  "2023-09-30": 4615,
-  "2023-10-01": 4621,
-  "2023-10-02": 4638,
-  "2023-10-03": 4649,
-  "2023-10-04": 4659,
-  "2023-10-05": 4677,
-  "2023-10-06": 4687,
-  "2023-10-07": 4707,
-  "2023-10-08": 4725,
-  "2023-10-09": 4735,
-  "2023-10-10": 4751,
-  "2023-10-11": 4782,
-  "2023-10-12": 4782,
-  "2023-10-13": 4793,
-  "2023-10-14": 4793,
-  "2023-10-15": 4793,
-  "2023-10-16": 4793,
-  "2023-10-17": 4793,
-  "2023-10-18": 4793,
-  "2023-10-19": 4883,
-  "2023-10-20": 4883,
-  "2023-10-21": 4883,
-  "2023-10-22": 4883,
-  "2023-10-23": 4935,
-  "2023-10-24": 4947,
-  "2023-10-25": 4947,
-  "2023-10-26": 4947,
-  "2023-10-27": 4947,
-  "2023-10-28": 4947,
-  "2023-10-29": 4947,
-  "2023-10-30": 4947,
-  "2023-10-31": 4947,
-  "2023-11-01": 4947,
-  "2023-11-02": 5069,
-  "2023-11-03": 5069,
-  "2023-11-04": 5069,
-  "2023-11-05": 5069,
-  "2023-11-06": 5069,
-  "2023-11-07": 5069,
-  "2023-11-08": 5069,
-  "2023-11-09": 5069,
-  "2023-11-10": 5069,
-  "2023-11-11": 5172,
-  "2023-11-12": 5182,
-  "2023-11-13": 5182,
-  "2023-11-14": 5182,
-  "2023-11-15": 5182,
-  "2023-11-16": 5182,
-  "2023-11-17": 5237,
-  "2023-11-18": 5237,
-  "2023-11-19": 5237,
-  "2023-11-20": 5237,
-  "2023-11-21": 5259,
-  "2023-11-22": 5259,
-  "2023-11-23": 5279,
-  "2023-11-24": 5279,
-  "2023-11-25": 5279,
-  "2023-11-26": 5279,
-  "2023-11-27": 5279,
-  "2023-11-28": 5279,
-  "2023-11-29": 5279,
-  "2023-11-30": 5279,
-  "2023-12-01": 5279,
-  "2023-12-02": 5279,
-  "2023-12-03": 5279,
-  "2023-12-04": 5279,
-  "2023-12-05": 5279,
-  "2023-12-06": 5279,
-  "2023-12-07": 5279,
-  "2023-12-08": 5279,
-  "2023-12-09": 5427,
-  "2023-12-10": 5427,
-  "2023-12-11": 5446,
-  "2023-12-12": 5446,
-  "2023-12-13": 5446,
-  "2023-12-14": 5475,
-  "2023-12-15": 5482,
-  "2023-12-16": 5494,
-  "2023-12-17": 5504,
-  "2023-12-18": 5525,
-  "2023-12-19": 5534,
-  "2023-12-20": 5539,
-  "2023-12-21": 5545,
-  "2023-12-22": 5560,
-  "2023-12-23": 5576,
-  "2023-12-24": 5582,
-  "2023-12-25": 5597,
-  "2023-12-26": 5601,
-  "2023-12-27": 5617,
-  "2023-12-30": 5666,
-  "2023-12-31": 5683,
-  "2024-01-01": 5699,
-  "2024-01-02": 5704,
-  "2024-01-03": 5707
+  "2024-01-17": 5924,
+  "date_first_scraped": "2023-08-01",
+  "description": "Listen to the soundtracks of the show Bro and Marble. (\ube0c\ub85c \uc564 \ub9c8\ube14\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c '\uc5ec\ud589 \uac08 \ub54c \ub4e3\uae30 \uc88b\uc740 \ub178\ub798'\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "Bro and Marble (\ube0c\ub85c \uc564 \ub9c8\ube14)",
+  "tracks": [
+    {
+      "album": {
+        "name": "5882 (OPPA ASAP)",
+        "url": "https://open.spotify.com/album/1ibbXLP3T1UE7ve7MTqMsr"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "5882 (OPPA ASAP)",
+      "url": "https://open.spotify.com/track/2mXkL3ZE9eCncPwc4aTsvC"
+    },
+    {
+      "album": {
+        "name": "A-TEEN2 Part.2",
+        "url": "https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197898,
+      "name": "9-TEEN",
+      "url": "https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "album": {
+        "name": "Season Songs",
+        "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242062,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
+    },
+    {
+      "album": {
+        "name": "Beach Again",
+        "url": "https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW"
+      },
+      "artists": [
+        {
+          "name": "SSAK3",
+          "url": "https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "Beach Again",
+      "url": "https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js"
+    },
+    {
+      "album": {
+        "name": "Seventeen 3rd Mini Album \u2019Going Seventeen\u2019",
+        "url": "https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206227,
+      "name": "BOOMBOOM",
+      "url": "https://open.spotify.com/track/0pWxUlYb3EM2WkcTJfwBdP"
+    },
+    {
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/77jgit97Awso1HWgnklOpm"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/4gUzVXtJJ6UWTWobd18HqJ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264813,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.1",
+        "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "JiHee Hong",
+          "url": "https://open.spotify.com/artist/7gisISRD4r3kQDtsrHuQb6"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70628,
+      "name": "City of Dubai",
+      "url": "https://open.spotify.com/track/0gj6OldtmlWCNWqQCHyCe7"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7zsbPbKYFE7pt9qkkGaJdI"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/0oUZJfeFYxPUNuVC0wp0T3"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
+    },
+    {
+      "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Departure",
+      "url": "https://open.spotify.com/track/5FKdWT5A7vDTEnPiHrruFY"
+    },
+    {
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
+        "name": "MY",
+        "url": "https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Happy Together inst.",
+      "url": "https://open.spotify.com/track/3mnJXZVpQhjKa4GkBCkbzZ"
+    },
+    {
+      "album": {
+        "name": "An Ode",
+        "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'",
+        "url": "https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205349,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5nR49Yw6tAlOd1DLfuwWAA"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'",
+        "url": "https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 205350,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/6BrBfpzwv7ovcXVaZrULuJ"
+    },
+    {
+      "album": {
+        "name": "; [Semicolon]",
+        "url": "https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "HOME;RUN",
+      "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "I",
+      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "Jaemin Yeo",
+          "url": "https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame"
+        },
+        {
+          "name": "Junhwan Cha",
+          "url": "https://open.spotify.com/artist/0eqKH7IBYJvM5voY2rRjfE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83442,
+      "name": "In One's Dreams",
+      "url": "https://open.spotify.com/track/6XRtqKNFW2alVW18X2KB1Q"
+    },
+    {
+      "album": {
+        "name": "In The Summer by SSAK3",
+        "url": "https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8"
+      },
+      "artists": [
+        {
+          "name": "SSAK3",
+          "url": "https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M"
+        },
+        {
+          "name": "Kwang Hee Hwang",
+          "url": "https://open.spotify.com/artist/2aU36OPcjBFlI8lkXrnxxE"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281016,
+      "name": "In The Summer by SSAK3 (Feat. Kwang Hee Hwang)",
+      "url": "https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK"
+    },
+    {
+      "album": {
+        "name": "The Project",
+        "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206973,
+      "name": "Like a flower",
+      "url": "https://open.spotify.com/track/3oM6vTO5WGgHP3DOIGWXfU"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "Jungyoon Lee",
+          "url": "https://open.spotify.com/artist/6DpDCmthcA8ziK9jBAhr5y"
+        },
+        {
+          "name": "Jaemin Yeo",
+          "url": "https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164361,
+      "name": "LOVE 2023",
+      "url": "https://open.spotify.com/track/3HXRUmGkg85hbFhtBdpHOw"
+    },
+    {
+      "album": {
+        "name": "The Road : Keep on Going - The 11th Album Vol.1",
+        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199213,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 2nd Mini Album \u2018BOYS BE\u2019",
+        "url": "https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Mansae",
+      "url": "https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh"
+    },
+    {
+      "album": {
+        "name": "Ape Into Space",
+        "url": "https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW"
+      },
+      "artists": [
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Mull",
+      "url": "https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.1",
+        "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        },
+        {
+          "name": "Jee Seok Jin",
+          "url": "https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO"
+        },
+        {
+          "name": "Lee Dong Hwi",
+          "url": "https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46"
+        },
+        {
+          "name": "\uc870\uc138\ud638",
+          "url": "https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6"
+        },
+        {
+          "name": "JOSHUA",
+          "url": "https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8"
+        },
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "Our Vacation",
+      "url": "https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.1",
+        "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        },
+        {
+          "name": "Jee Seok Jin",
+          "url": "https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO"
+        },
+        {
+          "name": "Lee Dong Hwi",
+          "url": "https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46"
+        },
+        {
+          "name": "\uc870\uc138\ud638",
+          "url": "https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6"
+        },
+        {
+          "name": "JOSHUA",
+          "url": "https://open.spotify.com/artist/4ZsnF3kaoNUuBhCyYJEJi8"
+        },
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "Our Vacation (inst.)",
+      "url": "https://open.spotify.com/track/5bKujbBWXGRvuIlfsKzoKh"
+    },
+    {
+      "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
+    },
+    {
+      "album": {
+        "name": "Play the Summer",
+        "url": "https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e"
+      },
+      "artists": [
+        {
+          "name": "SSAK3",
+          "url": "https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M"
+        },
+        {
+          "name": "LINDA.G",
+          "url": "https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh"
+        },
+        {
+          "name": "B.RYONG",
+          "url": "https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Play the Summer",
+      "url": "https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.1",
+        "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "Mingi Kim",
+          "url": "https://open.spotify.com/artist/3iteeBY9vjrLqBFcp8bE9Y"
+        },
+        {
+          "name": "Junho Kim",
+          "url": "https://open.spotify.com/artist/2nCrZeQrj4qQdqqyeTIB9r"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172071,
+      "name": "RUN!",
+      "url": "https://open.spotify.com/track/2TxJXu2vzyeY3JoD8tzvDx"
+    },
+    {
+      "album": {
+        "name": "She calls me a friend",
+        "url": "https://open.spotify.com/album/1uyU3xWIr4unlXxQA220aF"
+      },
+      "artists": [
+        {
+          "name": "ChoNam Zone \uc870\ub0a8\uc9c0\ub300",
+          "url": "https://open.spotify.com/artist/1VVKrefeDn6On0h1GZJWO8"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "She calls me a friend",
+      "url": "https://open.spotify.com/track/69RqKGmZBs4scLKSiSqmtU"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.2",
+        "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA (SEVENTEEN)",
+          "url": "https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0"
+        },
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "SHINGIRU",
+      "url": "https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.2",
+        "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA (SEVENTEEN)",
+          "url": "https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0"
+        },
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "SHINGIRU (Inst.)",
+      "url": "https://open.spotify.com/track/4xaRPXbCiUgM00T66o6x9G"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.2",
+        "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "HARING",
+          "url": "https://open.spotify.com/artist/5dCuGRpqkdmsi5oq4Ge3na"
+        },
+        {
+          "name": "BILDUP",
+          "url": "https://open.spotify.com/artist/5pruUf1v3c3xn6OrsNRCih"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71400,
+      "name": "Solar Dance",
+      "url": "https://open.spotify.com/track/3tw5SouIap8N4FFXKU0jRl"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
+    },
+    {
+      "album": {
+        "name": "The Blue Night of Jeju Island",
+        "url": "https://open.spotify.com/album/5iW0uj451v2676mosJU16B"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223903,
+      "name": "The Blue Night of Jeju Island",
+      "url": "https://open.spotify.com/track/1bkVIRImvamFobcgE8aVW0"
+    },
+    {
+      "album": {
+        "name": "Crazy for You",
+        "url": "https://open.spotify.com/album/0elA3F3PRa68MMFk6YsmpI"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "The First Kiss",
+      "url": "https://open.spotify.com/track/2dPbi4dhP5nl2f2NOiuZ6n"
+    },
+    {
+      "album": {
+        "name": "Bro & Marble OST Part.2",
+        "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "MusikPanzer",
+          "url": "https://open.spotify.com/artist/2XgSZAdmglxdgJV2FX51jE"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109760,
+      "name": "The Winner's Dice",
+      "url": "https://open.spotify.com/track/1gtx1K4Rqmqy60ZaDgerea"
+    },
+    {
+      "album": {
+        "name": "Time with you",
+        "url": "https://open.spotify.com/album/3vzzNhNXG0AlugKvvQxgNy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Time with you",
+      "url": "https://open.spotify.com/track/4M2WocWA6Qx0xn47zTNkoF"
+    },
+    {
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
+    },
+    {
+      "album": {
+        "name": "Red Diary Page.2",
+        "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220980,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/4dMGKGfaWMZNLQEjkd8lme"
+    },
+    {
+      "album": {
+        "name": "take off",
+        "url": "https://open.spotify.com/album/625ivX8eMxwFimRAETnB7I"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "travel",
+      "url": "https://open.spotify.com/track/4u2FbOea0GhffHHLDpTQpp"
+    },
+    {
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Travel Again (Feat. Cautious Clay)",
+      "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
+    },
+    {
+      "album": {
+        "name": "Love&Letter repackage album",
+        "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192092,
+      "name": "VERY NICE",
+      "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "album": {
+        "name": "Monthly Project 2013 Yoon Jong Shin",
+        "url": "https://open.spotify.com/album/1ib7DxM4rEQ0damSRUjodk"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241789,
+      "name": "\uace0\uc18d\ub3c4\ub85c \ub85c\ub9e8\uc2a4",
+      "url": "https://open.spotify.com/track/1xdH1zWqnARyIJOJvSBQBH"
+    },
+    {
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\ub098\uc5d0\uac8c\ub85c \ub5a0\ub098\ub294 \uc5ec\ud589",
+      "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
+    },
+    {
+      "album": {
+        "name": "\uc5ec\ud589",
+        "url": "https://open.spotify.com/album/67GM8yJoJ5bqAwiGZaU9lL"
+      },
+      "artists": [
+        {
+          "name": "Breezy Wind",
+          "url": "https://open.spotify.com/artist/3G8Ey6RVhwUZfBmr9d9ZxK"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212578,
+      "name": "\uc5ec\ud589",
+      "url": "https://open.spotify.com/track/5jGfFWGRVQ2KblXUZRdR1B"
+    },
+    {
+      "album": {
+        "name": "45TH ANNIVERSARY CONCERT HELLO",
+        "url": "https://open.spotify.com/album/7joDrhz7vXTcrBO6kaZjEK"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323666,
+      "name": "\uc5ec\ud589\uc744 \ub5a0\ub098\uc694",
+      "url": "https://open.spotify.com/track/1pfPCfU2VhUDeGvmICPPKA"
+    },
+    {
+      "album": {
+        "name": "\uc5ec\ud589\uc744 \ub5a0\ub098\uc694",
+        "url": "https://open.spotify.com/album/0Ek3BX61Zf3ohYIyXyYT1R"
+      },
+      "artists": [
+        {
+          "name": "Errday Jinju",
+          "url": "https://open.spotify.com/artist/7MejBVJq65YLKaDosnUmcD"
+        },
+        {
+          "name": "Wet Boyz",
+          "url": "https://open.spotify.com/artist/5811c8TlheprCwQcsrYwBA"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213264,
+      "name": "\uc5ec\ud589\uc744 \ub5a0\ub098\uc694",
+      "url": "https://open.spotify.com/track/1a9jSlzefI3nneLfmYG9dt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbpJ5ASfvLOo"
 }

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aibu",
+        "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137368,
+      "name": "Aibu",
+      "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
+    },
+    {
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6q4Lu34c463AMK6sV4IgPG"
       },
@@ -641,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Nipende",
+        "url": "https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55"
+      },
+      "artists": [
+        {
+          "name": "Zaituni Wambui",
+          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315051,
+      "name": "Nipende",
+      "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"
+    },
+    {
+      "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
       },
@@ -746,7 +786,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 399999,
       "name": "Oh! My Dear...",
       "url": "https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE"
@@ -914,7 +954,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 157740,
       "name": "Save My Soul (Who Will Remain?)",
       "url": "https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN"
@@ -954,7 +994,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 260668,
       "name": "Silaha",
       "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
@@ -1338,6 +1378,28 @@
       "duration_ms": 258461,
       "name": "Wild Trip",
       "url": "https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh"
+    },
+    {
+      "album": {
+        "name": "YOU'LL NEVER LEAVE ME",
+        "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "MARISA AYUNTA",
+          "url": "https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "YOU'LL NEVER LEAVE ME",
+      "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq"

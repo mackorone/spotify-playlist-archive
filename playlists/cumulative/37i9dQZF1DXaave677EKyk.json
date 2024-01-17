@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Undisputed Anthems from professional party starters. Cover: Chase & Status\n",
+  "description": "Undisputed Anthems from professional party starters. Cover: Joel Corry\n",
   "name": "Party Starters",
   "tracks": [
     {
@@ -578,6 +578,24 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "album": {
+        "name": "Birds In The Sky",
+        "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Birds In The Sky",
+      "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
     },
     {
       "album": {
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 203750,
       "name": "Feels Darker (Feel It)",
       "url": "https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO"
@@ -1710,6 +1728,24 @@
       "duration_ms": 361960,
       "name": "Heather Park",
       "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
+    },
+    {
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
     },
     {
       "album": {
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 144000,
       "name": "Torta",
       "url": "https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s"

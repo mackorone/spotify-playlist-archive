@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,390 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,404 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 49 | [She Lied](https://open.spotify.com/track/1FIMA2TNS2poopXXrpL5hh) | [Rockin' Ramrods](https://open.spotify.com/artist/1sSFqRg1plYYDDID9UURcc) | [Rockin' Ramrods \- Best](https://open.spotify.com/album/3qXKOQgebyUeOxWfmrCNjA) | 2:07 |
 | 50 | [Always See Your Face](https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Four Sail \(Expanded Edition\)](https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs) | 3:29 |
 | 51 | [Outside Chance](https://open.spotify.com/track/16vpy0qZfJdorlcPWTRNQv) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Save the Turtles: the Turtles Greatest Hits](https://open.spotify.com/album/4cOmonGdWQvqlspEm5M2Ry) | 2:07 |
-| 52 | [Master Race Rock](https://open.spotify.com/track/0lXYFIJhajqDxlIn900fSE) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/3FakgwdUfKXPuvj4Kj0iZy) | 4:11 |
+| 52 | [Master Race Rock](https://open.spotify.com/track/5G8tB7knYL2BcP7fzynxCl) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/2R7I24kPHfcwAP5oezINnE) | 4:11 |
 | 53 | [Pushin' Too Hard](https://open.spotify.com/track/4yQRczx7diWEf7Yvps3kmC) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:38 |
 | 54 | [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 |
 | 55 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |

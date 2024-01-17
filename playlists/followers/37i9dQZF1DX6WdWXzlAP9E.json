@@ -1,619 +1,2405 @@
 {
-  "2022-04-20": 141560,
-  "2022-04-21": 141599,
-  "2022-04-22": 141640,
-  "2022-04-23": 141684,
-  "2022-04-24": 141750,
-  "2022-04-25": 141820,
-  "2022-04-26": 141863,
-  "2022-04-27": 141924,
-  "2022-04-28": 141964,
-  "2022-04-29": 142036,
-  "2022-04-30": 142107,
-  "2022-05-01": 142176,
-  "2022-05-02": 142176,
-  "2022-05-03": 142228,
-  "2022-05-04": 142285,
-  "2022-05-05": 142338,
-  "2022-05-06": 142401,
-  "2022-05-07": 142470,
-  "2022-05-08": 142588,
-  "2022-05-09": 142603,
-  "2022-05-10": 142644,
-  "2022-05-11": 142687,
-  "2022-05-12": 142741,
-  "2022-05-13": 142797,
-  "2022-05-14": 142865,
-  "2022-05-15": 142942,
-  "2022-05-16": 142994,
-  "2022-05-17": 143047,
-  "2022-05-18": 143105,
-  "2022-05-19": 143163,
-  "2022-05-20": 143228,
-  "2022-05-21": 143342,
-  "2022-05-22": 143342,
-  "2022-05-23": 143393,
-  "2022-05-24": 143437,
-  "2022-05-25": 143502,
-  "2022-05-26": 143542,
-  "2022-05-27": 143607,
-  "2022-05-28": 143656,
-  "2022-05-29": 143724,
-  "2022-05-30": 143784,
-  "2022-05-31": 143834,
-  "2022-06-01": 143954,
-  "2022-06-02": 143960,
-  "2022-06-03": 144007,
-  "2022-06-04": 144054,
-  "2022-06-05": 144105,
-  "2022-06-06": 144168,
-  "2022-06-07": 144232,
-  "2022-06-08": 144313,
-  "2022-06-09": 144355,
-  "2022-06-10": 144415,
-  "2022-06-11": 144484,
-  "2022-06-12": 144539,
-  "2022-06-13": 144599,
-  "2022-06-14": 144654,
-  "2022-06-15": 144712,
-  "2022-06-16": 144783,
-  "2022-06-17": 144845,
-  "2022-06-18": 144899,
-  "2022-06-19": 145045,
-  "2022-06-20": 145045,
-  "2022-06-21": 145105,
-  "2022-06-22": 145215,
-  "2022-06-23": 145215,
-  "2022-06-24": 145294,
-  "2022-06-25": 145294,
-  "2022-06-26": 145398,
-  "2022-06-27": 145460,
-  "2022-06-28": 145501,
-  "2022-06-29": 145548,
-  "2022-06-30": 145591,
-  "2022-07-01": 145655,
-  "2022-07-02": 145707,
-  "2022-07-03": 145773,
-  "2022-07-04": 145837,
-  "2022-07-05": 145919,
-  "2022-07-06": 145989,
-  "2022-07-07": 146034,
-  "2022-07-08": 146090,
-  "2022-07-09": 146145,
-  "2022-07-10": 146221,
-  "2022-07-11": 146289,
-  "2022-07-12": 146351,
-  "2022-07-13": 146409,
-  "2022-07-14": 146466,
-  "2022-07-15": 146532,
-  "2022-07-16": 146620,
-  "2022-07-17": 146699,
-  "2022-07-18": 146769,
-  "2022-07-19": 146816,
-  "2022-07-20": 146897,
-  "2022-07-21": 146953,
-  "2022-07-22": 147005,
-  "2022-07-23": 147084,
-  "2022-07-24": 147158,
-  "2022-07-25": 147220,
-  "2022-07-26": 147295,
-  "2022-07-27": 147349,
-  "2022-07-28": 147421,
-  "2022-07-29": 147499,
-  "2022-07-30": 147624,
-  "2022-07-31": 147624,
-  "2022-08-01": 147694,
-  "2022-08-02": 147827,
-  "2022-08-03": 147827,
-  "2022-08-04": 147907,
-  "2022-08-05": 148019,
-  "2022-08-06": 148118,
-  "2022-08-07": 148204,
-  "2022-08-08": 148320,
-  "2022-08-09": 148393,
-  "2022-08-10": 148467,
-  "2022-08-11": 148568,
-  "2022-08-12": 148656,
-  "2022-08-13": 148747,
-  "2022-08-14": 148825,
-  "2022-08-15": 148904,
-  "2022-08-16": 149026,
-  "2022-08-17": 149134,
-  "2022-08-18": 149216,
-  "2022-08-19": 149301,
-  "2022-08-20": 149378,
-  "2022-08-21": 149445,
-  "2022-08-22": 149527,
-  "2022-08-23": 149593,
-  "2022-08-24": 149660,
-  "2022-08-25": 149744,
-  "2022-08-26": 149787,
-  "2022-08-27": 149853,
-  "2022-08-28": 149908,
-  "2022-08-29": 149970,
-  "2022-08-30": 149939,
-  "2022-08-31": 149815,
-  "2022-09-01": 149694,
-  "2022-09-02": 149587,
-  "2022-09-03": 149375,
-  "2022-09-04": 149306,
-  "2022-09-05": 149353,
-  "2022-09-06": 149415,
-  "2022-09-09": 149589,
-  "2022-09-10": 149633,
-  "2022-09-11": 149683,
-  "2022-09-12": 149711,
-  "2022-09-13": 149755,
-  "2022-09-15": 149841,
-  "2022-09-16": 149881,
-  "2022-09-17": 149918,
-  "2022-09-18": 149952,
-  "2022-09-19": 150005,
-  "2022-09-20": 150044,
-  "2022-09-21": 150088,
-  "2022-09-22": 150131,
-  "2022-09-23": 150172,
-  "2022-09-24": 150229,
-  "2022-09-25": 150274,
-  "2022-09-26": 150336,
-  "2022-09-27": 150367,
-  "2022-09-28": 150418,
-  "2022-09-29": 150465,
-  "2022-09-30": 150521,
-  "2022-10-01": 150574,
-  "2022-10-02": 150611,
-  "2022-10-03": 150652,
-  "2022-10-04": 150686,
-  "2022-10-05": 150740,
-  "2022-10-06": 150775,
-  "2022-10-07": 150799,
-  "2022-10-08": 150831,
-  "2022-10-09": 150903,
-  "2022-10-10": 150912,
-  "2022-10-11": 150955,
-  "2022-10-12": 151013,
-  "2022-10-13": 151057,
-  "2022-10-14": 151103,
-  "2022-10-15": 151140,
-  "2022-10-16": 151191,
-  "2022-10-17": 151243,
-  "2022-10-18": 151290,
-  "2022-10-19": 151328,
-  "2022-10-20": 151373,
-  "2022-10-21": 151421,
-  "2022-10-22": 151480,
-  "2022-10-23": 151532,
-  "2022-10-24": 151577,
-  "2022-10-25": 151605,
-  "2022-10-26": 151653,
-  "2022-10-27": 151681,
-  "2022-10-28": 151724,
-  "2022-10-29": 151780,
-  "2022-10-30": 151812,
-  "2022-10-31": 151861,
-  "2022-11-01": 151889,
-  "2022-11-02": 151924,
-  "2022-11-03": 151951,
-  "2022-11-04": 151985,
-  "2022-11-05": 152036,
-  "2022-11-06": 152079,
-  "2022-11-07": 152117,
-  "2022-11-08": 152152,
-  "2022-11-09": 152190,
-  "2022-11-10": 152252,
-  "2022-11-11": 152305,
-  "2022-11-12": 152372,
-  "2022-11-13": 152413,
-  "2022-11-14": 152465,
-  "2022-11-15": 152498,
-  "2022-11-16": 152544,
-  "2022-11-17": 152581,
-  "2022-11-18": 152583,
-  "2022-11-19": 152595,
-  "2022-11-20": 152629,
-  "2022-11-21": 152678,
-  "2022-11-22": 152729,
-  "2022-11-23": 152707,
-  "2022-11-24": 152863,
-  "2022-11-25": 152937,
-  "2022-11-26": 152982,
-  "2022-11-27": 153027,
-  "2022-11-28": 153066,
-  "2022-11-29": 153112,
-  "2022-11-30": 153148,
-  "2022-12-01": 153194,
-  "2022-12-02": 153218,
-  "2022-12-03": 153276,
-  "2022-12-04": 153324,
-  "2022-12-05": 153372,
-  "2022-12-06": 153428,
-  "2022-12-07": 153487,
-  "2022-12-08": 153549,
-  "2022-12-09": 153621,
-  "2022-12-10": 153686,
-  "2022-12-11": 153735,
-  "2022-12-12": 153780,
-  "2022-12-13": 153815,
-  "2022-12-14": 153853,
-  "2022-12-15": 153865,
-  "2022-12-16": 153907,
-  "2022-12-17": 153943,
-  "2022-12-18": 154010,
-  "2022-12-19": 154041,
-  "2022-12-20": 154124,
-  "2022-12-21": 154124,
-  "2022-12-22": 154177,
-  "2022-12-24": 154265,
-  "2022-12-25": 154303,
-  "2022-12-26": 154352,
-  "2022-12-27": 154400,
-  "2022-12-28": 154419,
-  "2022-12-29": 154468,
-  "2022-12-30": 154506,
-  "2022-12-31": 154545,
-  "2023-01-01": 154583,
-  "2023-01-02": 154626,
-  "2023-01-03": 154669,
-  "2023-01-04": 154704,
-  "2023-01-05": 154758,
-  "2023-01-06": 154839,
-  "2023-01-07": 154923,
-  "2023-01-08": 154938,
-  "2023-01-09": 155012,
-  "2023-01-10": 155043,
-  "2023-01-11": 155089,
-  "2023-01-12": 155138,
-  "2023-01-13": 155186,
-  "2023-01-14": 155291,
-  "2023-01-15": 155315,
-  "2023-01-16": 155357,
-  "2023-01-17": 155402,
-  "2023-01-18": 155458,
-  "2023-01-19": 155531,
-  "2023-01-20": 155620,
-  "2023-01-21": 155844,
-  "2023-01-22": 155984,
-  "2023-01-23": 156081,
-  "2023-01-24": 156148,
-  "2023-01-25": 156206,
-  "2023-01-26": 156255,
-  "2023-01-27": 156315,
-  "2023-01-28": 156379,
-  "2023-01-29": 156451,
-  "2023-01-30": 156500,
-  "2023-01-31": 156500,
-  "2023-02-01": 156603,
-  "2023-02-02": 156658,
-  "2023-02-03": 156696,
-  "2023-02-04": 156744,
-  "2023-02-05": 156815,
-  "2023-02-06": 156853,
-  "2023-02-07": 156907,
-  "2023-02-08": 156993,
-  "2023-02-09": 156993,
-  "2023-02-10": 157038,
-  "2023-02-11": 157084,
-  "2023-02-12": 157176,
-  "2023-02-13": 157216,
-  "2023-02-14": 157216,
-  "2023-02-15": 157265,
-  "2023-02-16": 157304,
-  "2023-02-17": 157343,
-  "2023-02-18": 157482,
-  "2023-02-19": 157489,
-  "2023-02-20": 157532,
-  "2023-02-21": 157570,
-  "2023-02-22": 157629,
-  "2023-02-23": 157674,
-  "2023-02-24": 157716,
-  "2023-02-25": 157767,
-  "2023-02-26": 157810,
-  "2023-02-27": 157884,
-  "2023-02-28": 157884,
-  "2023-03-01": 157914,
-  "2023-03-02": 157961,
-  "2023-03-03": 158007,
-  "2023-03-04": 158036,
-  "2023-03-05": 158165,
-  "2023-03-06": 158165,
-  "2023-03-07": 158206,
-  "2023-03-08": 158248,
-  "2023-03-09": 158301,
-  "2023-03-10": 158338,
-  "2023-03-11": 158382,
-  "2023-03-12": 158422,
-  "2023-03-13": 158474,
-  "2023-03-14": 158502,
-  "2023-03-15": 158553,
-  "2023-03-16": 158602,
-  "2023-03-17": 158602,
-  "2023-03-18": 158682,
-  "2023-03-19": 158732,
-  "2023-03-20": 158773,
-  "2023-03-21": 158813,
-  "2023-03-22": 158850,
-  "2023-03-23": 158892,
-  "2023-03-24": 158892,
-  "2023-03-25": 158978,
-  "2023-03-26": 159034,
-  "2023-03-27": 159077,
-  "2023-03-28": 159094,
-  "2023-03-29": 159139,
-  "2023-03-30": 159210,
-  "2023-03-31": 159210,
-  "2023-04-01": 159272,
-  "2023-04-02": 159312,
-  "2023-04-03": 159351,
-  "2023-04-04": 159394,
-  "2023-04-05": 159426,
-  "2023-04-06": 159462,
-  "2023-04-07": 159505,
-  "2023-04-09": 159626,
-  "2023-04-10": 159663,
-  "2023-04-11": 159750,
-  "2023-04-12": 159750,
-  "2023-04-13": 159781,
-  "2023-04-14": 159836,
-  "2023-04-15": 159889,
-  "2023-04-16": 159941,
-  "2023-04-17": 159993,
-  "2023-04-18": 160036,
-  "2023-04-19": 160098,
-  "2023-04-20": 160132,
-  "2023-04-21": 160181,
-  "2023-04-22": 160228,
-  "2023-04-23": 160274,
-  "2023-04-24": 160328,
-  "2023-04-25": 160376,
-  "2023-04-26": 160445,
-  "2023-04-27": 160507,
-  "2023-04-28": 160577,
-  "2023-04-29": 160641,
-  "2023-04-30": 160688,
-  "2023-05-01": 160740,
-  "2023-05-02": 160783,
-  "2023-05-03": 160826,
-  "2023-05-04": 160891,
-  "2023-05-05": 160947,
-  "2023-05-06": 161003,
-  "2023-05-07": 161057,
-  "2023-05-08": 161102,
-  "2023-05-09": 161142,
-  "2023-05-10": 161190,
-  "2023-05-11": 161254,
-  "2023-05-12": 161305,
-  "2023-05-13": 161361,
-  "2023-05-14": 161421,
-  "2023-05-15": 161482,
-  "2023-05-16": 161523,
-  "2023-05-17": 161558,
-  "2023-05-18": 161603,
-  "2023-05-19": 161646,
-  "2023-05-20": 161761,
-  "2023-05-21": 161761,
-  "2023-05-22": 161761,
-  "2023-05-23": 161843,
-  "2023-05-24": 161918,
-  "2023-05-25": 161928,
-  "2023-05-26": 161984,
-  "2023-05-27": 162043,
-  "2023-05-28": 162108,
-  "2023-05-29": 162108,
-  "2023-05-30": 162192,
-  "2023-05-31": 162257,
-  "2023-06-01": 162324,
-  "2023-06-02": 162354,
-  "2023-06-03": 162399,
-  "2023-06-04": 162444,
-  "2023-06-05": 162494,
-  "2023-06-06": 162530,
-  "2023-06-07": 162559,
-  "2023-06-08": 162604,
-  "2023-06-09": 162646,
-  "2023-06-10": 162699,
-  "2023-06-11": 162762,
-  "2023-06-12": 162814,
-  "2023-06-13": 162856,
-  "2023-06-14": 162856,
-  "2023-06-15": 162954,
-  "2023-06-16": 163004,
-  "2023-06-17": 163042,
-  "2023-06-18": 163090,
-  "2023-06-19": 163141,
-  "2023-06-20": 163187,
-  "2023-06-21": 163217,
-  "2023-06-22": 163262,
-  "2023-06-23": 163301,
-  "2023-06-24": 163348,
-  "2023-06-25": 163409,
-  "2023-06-26": 163436,
-  "2023-06-27": 163472,
-  "2023-06-28": 163504,
-  "2023-06-29": 163544,
-  "2023-06-30": 163599,
-  "2023-07-01": 163690,
-  "2023-07-02": 163690,
-  "2023-07-03": 163713,
-  "2023-07-04": 163761,
-  "2023-07-05": 163804,
-  "2023-07-06": 163910,
-  "2023-07-07": 163910,
-  "2023-07-08": 163966,
-  "2023-07-09": 164003,
-  "2023-07-10": 164040,
-  "2023-07-11": 164072,
-  "2023-07-12": 164104,
-  "2023-07-13": 164141,
-  "2023-07-14": 164169,
-  "2023-07-15": 164183,
-  "2023-07-16": 164246,
-  "2023-07-17": 164299,
-  "2023-07-18": 164341,
-  "2023-07-19": 164381,
-  "2023-07-20": 164433,
-  "2023-07-21": 164464,
-  "2023-07-22": 164509,
-  "2023-07-23": 164567,
-  "2023-07-24": 164596,
-  "2023-07-25": 164645,
-  "2023-07-26": 164682,
-  "2023-07-27": 164738,
-  "2023-07-28": 164791,
-  "2023-07-29": 164843,
-  "2023-07-30": 164902,
-  "2023-07-31": 164949,
-  "2023-08-01": 164988,
-  "2023-08-02": 165037,
-  "2023-08-03": 165087,
-  "2023-08-04": 165137,
-  "2023-08-05": 165190,
-  "2023-08-06": 165312,
-  "2023-08-07": 165312,
-  "2023-08-08": 165352,
-  "2023-08-09": 165387,
-  "2023-08-10": 165424,
-  "2023-08-11": 165464,
-  "2023-08-12": 165510,
-  "2023-08-13": 165544,
-  "2023-08-14": 165584,
-  "2023-08-15": 165676,
-  "2023-08-16": 165676,
-  "2023-08-17": 165750,
-  "2023-08-18": 165891,
-  "2023-08-19": 165971,
-  "2023-08-20": 166043,
-  "2023-08-21": 166101,
-  "2023-08-22": 166144,
-  "2023-08-23": 166191,
-  "2023-08-24": 166218,
-  "2023-08-25": 166248,
-  "2023-08-26": 166291,
-  "2023-08-27": 166321,
-  "2023-08-28": 166352,
-  "2023-08-29": 166380,
-  "2023-08-30": 166429,
-  "2023-08-31": 166461,
-  "2023-09-01": 166620,
-  "2023-09-02": 166620,
-  "2023-09-03": 166679,
-  "2023-09-04": 166768,
-  "2023-09-05": 166856,
-  "2023-09-06": 166930,
-  "2023-09-07": 167033,
-  "2023-09-08": 167104,
-  "2023-09-09": 167199,
-  "2023-09-10": 167276,
-  "2023-09-11": 167357,
-  "2023-09-12": 167429,
-  "2023-09-13": 167488,
-  "2023-09-14": 167579,
-  "2023-09-15": 167663,
-  "2023-09-16": 167753,
-  "2023-09-17": 167833,
-  "2023-09-18": 167902,
-  "2023-09-19": 167992,
-  "2023-09-20": 168064,
-  "2023-09-21": 168158,
-  "2023-09-22": 168269,
-  "2023-09-23": 168360,
-  "2023-09-24": 168461,
-  "2023-09-25": 168549,
-  "2023-09-26": 168671,
-  "2023-09-27": 168762,
-  "2023-09-28": 168841,
-  "2023-09-29": 168934,
-  "2023-09-30": 169038,
-  "2023-10-01": 169146,
-  "2023-10-02": 169256,
-  "2023-10-03": 169324,
-  "2023-10-04": 169421,
-  "2023-10-05": 169489,
-  "2023-10-06": 169567,
-  "2023-10-07": 169657,
-  "2023-10-08": 169752,
-  "2023-10-09": 169819,
-  "2023-10-10": 169860,
-  "2023-10-11": 169985,
-  "2023-10-12": 169985,
-  "2023-10-13": 170049,
-  "2023-10-14": 170146,
-  "2023-10-15": 170220,
-  "2023-10-16": 170286,
-  "2023-10-17": 170357,
-  "2023-10-18": 170413,
-  "2023-10-19": 170491,
-  "2023-10-20": 170551,
-  "2023-10-21": 170621,
-  "2023-10-22": 170698,
-  "2023-10-23": 170778,
-  "2023-10-24": 170838,
-  "2023-10-25": 170905,
-  "2023-10-26": 170995,
-  "2023-10-27": 171058,
-  "2023-10-28": 171142,
-  "2023-10-29": 171226,
-  "2023-10-30": 171352,
-  "2023-10-31": 171352,
-  "2023-11-01": 171434,
-  "2023-11-02": 171506,
-  "2023-11-03": 171577,
-  "2023-11-04": 171655,
-  "2023-11-05": 171752,
-  "2023-11-06": 171805,
-  "2023-11-07": 171876,
-  "2023-11-08": 171957,
-  "2023-11-09": 172021,
-  "2023-11-10": 172107,
-  "2023-11-11": 172193,
-  "2023-11-12": 172248,
-  "2023-11-13": 172326,
-  "2023-11-14": 172387,
-  "2023-11-15": 172387,
-  "2023-11-16": 172580,
-  "2023-11-17": 172729,
-  "2023-11-18": 172729,
-  "2023-11-19": 172799,
-  "2023-11-20": 172871,
-  "2023-11-21": 172937,
-  "2023-11-22": 173036,
-  "2023-11-23": 173101,
-  "2023-11-24": 173179,
-  "2023-11-25": 173244,
-  "2023-11-26": 173303,
-  "2023-11-27": 173361,
-  "2023-11-28": 173433,
-  "2023-11-29": 173576,
-  "2023-11-30": 173576,
-  "2023-12-01": 173643,
-  "2023-12-02": 173710,
-  "2023-12-03": 173791,
-  "2023-12-04": 173864,
-  "2023-12-05": 173917,
-  "2023-12-06": 173976,
-  "2023-12-07": 174049,
-  "2023-12-08": 174112,
-  "2023-12-09": 174172,
-  "2023-12-10": 174253,
-  "2023-12-11": 174336,
-  "2023-12-12": 174382,
-  "2023-12-13": 174454,
-  "2023-12-14": 174521,
-  "2023-12-15": 174565,
-  "2023-12-16": 174644,
-  "2023-12-17": 174709,
-  "2023-12-18": 174774,
-  "2023-12-19": 174841,
-  "2023-12-20": 174902,
-  "2023-12-21": 174976,
-  "2023-12-22": 175040,
-  "2023-12-23": 175124,
-  "2023-12-24": 175194,
-  "2023-12-25": 175276,
-  "2023-12-26": 175354,
-  "2023-12-27": 175435,
-  "2023-12-30": 175679,
-  "2023-12-31": 175765,
-  "2024-01-01": 175850,
-  "2024-01-02": 175906,
-  "2024-01-03": 175977
+  "2024-01-17": 176872,
+  "date_first_scraped": "2022-04-20",
+  "description": "Live recordings from the iconic 1969 Woodstock Music Festival",
+  "name": "Woodstock",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jefferson Airplane: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 330840,
+      "name": "3/5 Of A Mile In 10 Seconds - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/7GSz1Iqg9Af72pYRmacd6Z"
+    },
+    {
+      "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269866,
+      "name": "Ain't No More Cane on the Brazos - Live At Woodstock, 8/17/69",
+      "url": "https://open.spotify.com/track/5lPbt2YkuIJ1XiZvf15flw"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 205066,
+      "name": "Amazing Journey - Remixed Album Version",
+      "url": "https://open.spotify.com/track/6hezLoA5gqsiaPY8TmIE30"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/2zlv17M05aUbvb0C802lIT"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 173760,
+      "name": "Animal Crackers - Live at Woodstock",
+      "url": "https://open.spotify.com/track/0Qf6vpZlHGDQHIpcIaNWo6"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9"
+      },
+      "artists": [
+        {
+          "name": "Sha Na Na",
+          "url": "https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "At the Hop - Live at Woodstock",
+      "url": "https://open.spotify.com/track/1kJIUu4t43CkKkoC3ER5WT"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "Bad Moon Rising - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/2akJIE6FLmtnnO0DJcWjOj"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314626,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/1Xs64aoXlXgBrfG0BolL10"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/2zlv17M05aUbvb0C802lIT"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 222106,
+      "name": "Birthday Of The Sun - Live at Woodstock",
+      "url": "https://open.spotify.com/track/6XrZB8gnnuSqXZJKHUZ55C"
+    },
+    {
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/5ItlhE82QeQDM0j3aUKDPK"
+      },
+      "artists": [
+        {
+          "name": "Leslie West",
+          "url": "https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 155026,
+      "name": "Blood of the Sun",
+      "url": "https://open.spotify.com/track/48XhSqd0MLFUhWuh82nHV6"
+    },
+    {
+      "album": {
+        "name": "The Man and the Mountain",
+        "url": "https://open.spotify.com/album/7o3XOGq5glKXpRXmaVAaPJ"
+      },
+      "artists": [
+        {
+          "name": "Leslie West",
+          "url": "https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE"
+        },
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 202040,
+      "name": "Blood of the Sun",
+      "url": "https://open.spotify.com/track/5eNfF5EULCAqGcHjIhCUCF"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3Sw7a2O0dqOw54mxSDkoKJ"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Blood of the Sun - Live at Woodstock, Bethel, NY - August 1969",
+      "url": "https://open.spotify.com/track/1d0nyp32OqkfRxMoZ1bOLT"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9"
+      },
+      "artists": [
+        {
+          "name": "Sha Na Na",
+          "url": "https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 121746,
+      "name": "Book of Love - Live at Woodstock",
+      "url": "https://open.spotify.com/track/1RdMPj01AMZSL6K8jFx5Wh"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 333493,
+      "name": "Born On The Bayou - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/5NXnwFgYVD54fLxQrFGO66"
+    },
+    {
+      "album": {
+        "name": "Jefferson Airplane: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 365080,
+      "name": "Come Back Baby - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/1tYmjbecdTdxYTc9Qvh677"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9"
+      },
+      "artists": [
+        {
+          "name": "Sha Na Na",
+          "url": "https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "Come Go with Me - Live at Woodstock",
+      "url": "https://open.spotify.com/track/2jQ0NSbhI7hHzCFWlVZYbx"
+    },
+    {
+      "album": {
+        "name": "Taking Woodstock [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6oN7rDjXg03uGblQzuk52p"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132880,
+      "name": "Coming into Los Angeles (Taking Woodstock - Original Motion Picture Soundtrack) - Live",
+      "url": "https://open.spotify.com/track/0mJgYBqXh1B1KetCUVe3QT"
+    },
+    {
+      "album": {
+        "name": "Running Down the Road (Remastered)",
+        "url": "https://open.spotify.com/album/0VvEtqKWykMyG0HaBx6cHN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Guthrie",
+          "url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 186506,
+      "name": "Coming into Los Angeles - Remastered",
+      "url": "https://open.spotify.com/track/7vCAPGfk46iIyikreugUay"
+    },
+    {
+      "album": {
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268013,
+      "name": "Dance To The Music - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/1ONoh5Aag3erFA42iiqYO4"
+    },
+    {
+      "album": {
+        "name": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+        "url": "https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 161800,
+      "name": "Dark Star - Single Version",
+      "url": "https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw"
+    },
+    {
+      "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Don't Ya Tell Henry - Live At Woodstock, 8/17/69",
+      "url": "https://open.spotify.com/track/0vOPfs8I5RCAOqAY1MW7jq"
+    },
+    {
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/5ItlhE82QeQDM0j3aUKDPK"
+      },
+      "artists": [
+        {
+          "name": "Leslie West",
+          "url": "https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 213733,
+      "name": "Dreams of Milk & Honey",
+      "url": "https://open.spotify.com/track/43JgiU6YxZXsjfg3RvMBc7"
+    },
+    {
+      "album": {
+        "name": "The Resurrection Of Pigboy Crabshaw",
+        "url": "https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 549466,
+      "name": "Driftin' and Driftin'",
+      "url": "https://open.spotify.com/track/690y2K7VeXxOpXOA14snTd"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Jeffrey Shurtleff",
+          "url": "https://open.spotify.com/artist/3Ek5Fzr1vbkPI5AUYWtwBv"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169957,
+      "name": "Drug Store Truck Drivin' Man - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/0rl1mAu2HBkIptk1rUtzlI"
+    },
+    {
+      "album": {
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 195586,
+      "name": "Everyday People - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/4IQcNZVrKNumO9BYsw4QY2"
+    },
+    {
+      "album": {
+        "name": "Complete Albums 1965-1980",
+        "url": "https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 178760,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2xDBsjOW7TQCYVXz0jOGBS"
+    },
+    {
+      "album": {
+        "name": "Woodstock Saturday August 16, 1969 (Live)",
+        "url": "https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Evil Ways - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/4F5TR6iwpnbA80Q83JR7pW"
+    },
+    {
+      "album": {
+        "name": "Santana: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/2gZoPer2HmitHniKZcWj7G"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 240640,
+      "name": "Evil Ways - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/2OaSG6zv8GYDOVTyiOF468"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323800,
+      "name": "Feelin' Alright - Live At Woodstock 1969",
+      "url": "https://open.spotify.com/track/3SfuiaNcH3gMwBf9VsMrU5"
+    },
+    {
+      "album": {
+        "name": "Eat Flowers & Kiss Babies",
+        "url": "https://open.spotify.com/album/5u4BOGmsRbVpL0uJVGYXWF"
+      },
+      "artists": [
+        {
+          "name": "Country Joe McDonald",
+          "url": "https://open.spotify.com/artist/4fsh5BPGWt8oGFUwQ6msCk"
+        },
+        {
+          "name": "The Bevis Frond",
+          "url": "https://open.spotify.com/artist/2UWJVpm81yeOuzFWmaYEAF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 243533,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/5RUgnQidch09MhML8MgRw7"
+    },
+    {
+      "album": {
+        "name": "Wild in Woodstock: The Isley Brothers Live at Bearsville Sound Studio (1980)",
+        "url": "https://open.spotify.com/album/72MfvP136wxG7aeTUKzyJ7"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 299066,
+      "name": "For the Love of You - Live",
+      "url": "https://open.spotify.com/track/0IyPHXV5RwZZcT7KJvy0BP"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306640,
+      "name": "Foxey Lady - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/1RfZD13DmitXpTekmSUIh8"
+    },
+    {
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "Green River - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/67TuRJQf89xTR8DNnFgdgn"
+    },
+    {
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 277813,
+      "name": "Guinnevere - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3CZ4BXMk4xpCJcWeowNERh"
+    },
+    {
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352733,
+      "name": "Hey Joe - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/3CPLiX94bQmtr0vGbl38MR"
+    },
+    {
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 315794,
+      "name": "High Time - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5vmGZ4645Pyx1vHNBgFGDI"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/4VmjVpyer7H3NkDGqr79Ta"
+      },
+      "artists": [
+        {
+          "name": "Tim Hardin",
+          "url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "How Can We Hang On to a Dream - Live at Woodstock - 8/15/69",
+      "url": "https://open.spotify.com/track/0NlS8U09m91sam9SboKNpA"
+    },
+    {
+      "album": {
+        "name": "Woodstock 1969 - Live & Remastered",
+        "url": "https://open.spotify.com/album/2Doo5Mn2uVMbpYFg8sE7TZ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146280,
+      "name": "I Can't Explain - Live",
+      "url": "https://open.spotify.com/track/6YXsOAC4x6YBifzrLeTC5H"
+    },
+    {
+      "album": {
+        "name": "My Generation (50th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 125320,
+      "name": "I Can't Explain - Mono Version",
+      "url": "https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 369893,
+      "name": "I Can't Stand It - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/0oH7ImFJsq2Z3v817RnHe2"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 268080,
+      "name": "I Put A Spell On You - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/5gHpG5x4uyXWylwxTXSAIx"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/0iNGQ0jChQG1tuigTqv7jJ"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403026,
+      "name": "I Want To Take You Higher - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/195aICfK4glxqLdxVqNLSf"
+    },
+    {
+      "album": {
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 403026,
+      "name": "I Want To Take You Higher - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/3IilTrLtKkHLUpZNhNRD4V"
+    },
+    {
+      "album": {
+        "name": "Goin' Home!",
+        "url": "https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571666,
+      "name": "I'm Going Home - Live at Woodstock",
+      "url": "https://open.spotify.com/track/3ZWnDoJGBgFErNgccN9gMj"
+    },
+    {
+      "album": {
+        "name": "Goin' Home!",
+        "url": "https://open.spotify.com/album/2J1Z2Ty5Jz2OjvekrAwnVd"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 571666,
+      "name": "I'm Going Home - Live at Woodstock",
+      "url": "https://open.spotify.com/track/6gOm4w7mbeIsouBWpRc9Qj"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/4VmjVpyer7H3NkDGqr79Ta"
+      },
+      "artists": [
+        {
+          "name": "Tim Hardin",
+          "url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339320,
+      "name": "If I Were a Carpenter - Live at Woodstock - 8/15/69",
+      "url": "https://open.spotify.com/track/2obv0TqY1j7Vb4upuhA8Q8"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 141106,
+      "name": "Introduction (Live At Woodstock) - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/6uqJmPKlBK5WkGCjC4IpZH"
+    },
+    {
+      "album": {
+        "name": "Jefferson Airplane: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 23320,
+      "name": "Introduction - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/70hTO83svEhoecughCHlCl"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 38600,
+      "name": "It's A Boy - Remixed Album Version",
+      "url": "https://open.spotify.com/track/7vdWwT6E020E9AupxB30eP"
+    },
+    {
+      "album": {
+        "name": "Woodstock Saturday August 16, 1969 (Live)",
+        "url": "https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "Jingo - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/5rkZeOyAJsJAtPISozG60l"
+    },
+    {
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 314400,
+      "name": "Jingo - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/3GGt2kbKX4VFCs3VM5JcsH"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182754,
+      "name": "Joe Hill - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/5gY8wQDDolFKj9mAgsetFJ"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 336400,
+      "name": "Johnny B. Goode - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/4E1aPqbaOZB1GkbIQeuk68"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 383426,
+      "name": "Just Like A Woman - Live At Woodstock 1969",
+      "url": "https://open.spotify.com/track/7KeaMIjw9tZbTn0s1jmBal"
+    },
+    {
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 380133,
+      "name": "Just To Cry",
+      "url": "https://open.spotify.com/track/7vcDAwjl3uDJCR5ALWvEfh"
+    },
+    {
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 356360,
+      "name": "Leavin' Trunk",
+      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
+    },
+    {
+      "album": {
+        "name": "True to the Blues: The Johnny Winter Story",
+        "url": "https://open.spotify.com/album/0oFDwNRiWxP8E7CdUIV7Cx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 290946,
+      "name": "Leland Mississippi Blues - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6SmMcblMz9r4AGvWQNvbBM"
+    },
+    {
+      "album": {
+        "name": "Setlist: The Very Best of Mountain LIVE",
+        "url": "https://open.spotify.com/album/2vT1BkVDM4wVSUNnBniqH9"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 343240,
+      "name": "Long Red - Live at Woodstock, Bethel, NY - August 1969",
+      "url": "https://open.spotify.com/track/6Y5VZsAiaWIThMqHGN0GST"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3Sw7a2O0dqOw54mxSDkoKJ"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345346,
+      "name": "Long Red - Live at Woodstock, Bethel, NY - August 1969",
+      "url": "https://open.spotify.com/track/6OXCZPDdCCKN759Y2Aa26Y"
+    },
+    {
+      "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305893,
+      "name": "Loving You Is Sweeter Than Ever - Live At Woodstock, 8/17/69",
+      "url": "https://open.spotify.com/track/0rllda4hA3GqRhsF6SazEw"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/2XhJ2dWqUhMGJqHBuG4Xbf"
+    },
+    {
+      "album": {
+        "name": "Sly & The Family Stone: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 470666,
+      "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/39u1Cmgnxje992ji09FYun"
+      },
+      "artists": [
+        {
+          "name": "Blood, Sweat & Tears",
+          "url": "https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "More and More - Live at Woodstock",
+      "url": "https://open.spotify.com/track/76ANjVKK4QGkDzEIrnzC7d"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/2zlv17M05aUbvb0C802lIT"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 146306,
+      "name": "Mr. Tambourine Man - Live at Woodstock",
+      "url": "https://open.spotify.com/track/2jNn5LOOEUswQHJNnO3LkH"
+    },
+    {
+      "album": {
+        "name": "Woodstock 1969 - Live & Remastered",
+        "url": "https://open.spotify.com/album/2Doo5Mn2uVMbpYFg8sE7TZ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144192,
+      "name": "My Generation - Live",
+      "url": "https://open.spotify.com/track/63AW5FZAu1eptxUpyznD2l"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+    },
+    {
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 264000,
+      "name": "Not So Sweet Martha Lorraine",
+      "url": "https://open.spotify.com/track/1JMJZYMdMY3Wl4WAAejSj6"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 271353,
+      "name": "Oh Happy Day - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/1gQkBFhxuDAfp5QQ2SP7ik"
+    },
+    {
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 206333,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 275495,
+      "name": "One Day At A Time - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/5mChZj2DkveQkSqC6tXHdZ"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2HB7HwpDdUvoasS9m41Gvs"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297066,
+      "name": "Piece of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/5E973fI2FcBL8r7Nogpwpu"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "album": {
+        "name": "Woodstock 1969 - Live & Remastered",
+        "url": "https://open.spotify.com/album/2Doo5Mn2uVMbpYFg8sE7TZ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Pinball Wizard - Live",
+      "url": "https://open.spotify.com/track/4TKBVwKV22OC244Uv0gfQp"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181666,
+      "name": "Pinball Wizard - Remixed Studio Version",
+      "url": "https://open.spotify.com/track/1lZD4bW0ttt10jAtDmJ2E6"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 231666,
+      "name": "Proud Mary - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/3OhxEn7mrESfZguYIgornM"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263866,
+      "name": "Purple Haze - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/2lk8WgD5OirqjGNaY8M3hO"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/4VmjVpyer7H3NkDGqr79Ta"
+      },
+      "artists": [
+        {
+          "name": "Tim Hardin",
+          "url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 282906,
+      "name": "Reason to Believe - Live at Woodstock - 8/15/69",
+      "url": "https://open.spotify.com/track/4VuM1LN6q2w3BUWnKKiYLT"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324346,
+      "name": "Red House - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/3Vs6cdkM3qIWItjoiiI5p2"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6R42AO3pSU2WXVCPs13buk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 414240,
+      "name": "Rock And Soul Music",
+      "url": "https://open.spotify.com/track/4w2qXIjtwE9zIB7SQlNNoj"
+    },
+    {
+      "album": {
+        "name": "The Life And Time Of Country Joe And The Fish From Haight-Ashbury To Woodstock",
+        "url": "https://open.spotify.com/album/5ObC7ha3cFQl9XZeRrTiPI"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379133,
+      "name": "Rock And Soul Music/Love",
+      "url": "https://open.spotify.com/track/50O14Q8ITBn1V0QyQD1zFJ"
+    },
+    {
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 325266,
+      "name": "Savor - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/6sSafLNnD2kljo012VSdRu"
+    },
+    {
+      "album": {
+        "name": "Neil Young Archives Vol. I (1963 - 1972)",
+        "url": "https://open.spotify.com/album/7KB2kvAO7bj7X6HRQmuZ4Q"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 196506,
+      "name": "Sea of Madness - Live at Woodstock",
+      "url": "https://open.spotify.com/track/4Llc9Qm1Oag9Pl5TTF1jnq"
+    },
+    {
+      "album": {
+        "name": "The Who Hits 50 (Deluxe)",
+        "url": "https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 216596,
+      "name": "See Me, Feel Me - Single Version",
+      "url": "https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9"
+      },
+      "artists": [
+        {
+          "name": "Sha Na Na",
+          "url": "https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 177640,
+      "name": "Silhouettes - Live at Woodstock",
+      "url": "https://open.spotify.com/track/1P8COWrsm2a4dXL5puZrqQ"
+    },
+    {
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 350760,
+      "name": "Sinnin' For You",
+      "url": "https://open.spotify.com/track/3PdayPRO99dPqD0XaiuRsq"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/39u1Cmgnxje992ji09FYun"
+      },
+      "artists": [
+        {
+          "name": "Blood, Sweat & Tears",
+          "url": "https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 621893,
+      "name": "Smiling Phases - Live at Woodstock",
+      "url": "https://open.spotify.com/track/1eMHdqM2HFTutDlVZKYxgY"
+    },
+    {
+      "album": {
+        "name": "Jefferson Airplane: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 271880,
+      "name": "Somebody to Love - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/0Mlt9aKcyMpkm28EjKrwQR"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/590O6qPRSB5H50LrF9oNhp"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271880,
+      "name": "Somebody to Love - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/0xhdLsPZeSNjIZSbZz6tIt"
+    },
+    {
+      "album": {
+        "name": "Woodstock Saturday August 16, 1969 (Live)",
+        "url": "https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397333,
+      "name": "Soul Sacrifice - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/0poZiKnAaPxiJUGqNLtaKV"
+    },
+    {
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 709333,
+      "name": "Soul Sacrifice - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/7zAoVpCLJFsyRfCbGUIAFf"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/39u1Cmgnxje992ji09FYun"
+      },
+      "artists": [
+        {
+          "name": "Blood, Sweat & Tears",
+          "url": "https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296573,
+      "name": "Spinning Wheel - Live at Woodstock",
+      "url": "https://open.spotify.com/track/4QeytuNb5ec23iuWmidTED"
+    },
+    {
+      "album": {
+        "name": "Aoxomoxoa (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 267506,
+      "name": "St. Stephen - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1Hd5JgVdf45pyZJiUyIe9w"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "Star Spangled Banner - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/3lpa6fzS3rSAbRogEhWxu7"
+    },
+    {
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+    },
+    {
+      "album": {
+        "name": "Wild in Woodstock: The Isley Brothers Live at Bearsville Sound Studio (1980)",
+        "url": "https://open.spotify.com/album/72MfvP136wxG7aeTUKzyJ7"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 624493,
+      "name": "Summer Breeze - Live",
+      "url": "https://open.spotify.com/track/6vsIZiooOVARa5jvyKypOw"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2HB7HwpDdUvoasS9m41Gvs"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305266,
+      "name": "Summertime - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/2w2Cvbn66mO78M5frul4R1"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 652186,
+      "name": "Suzie Q - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/5r2LpFOMcl33DHi9tsIO0B"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231286,
+      "name": "Sweet Sir Galahad - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/4SlvWwyLPlNXo4jgl6PupU"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 164899,
+      "name": "Take Me Back To The Sweet Sunny South - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/4sYfCERMWBYDoHku3wAJYJ"
+    },
+    {
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 319950,
+      "name": "Tears Of Rage - Remastered 2000",
+      "url": "https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9"
+      },
+      "artists": [
+        {
+          "name": "Sha Na Na",
+          "url": "https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 211066,
+      "name": "Teen Angel - Live at Woodstock",
+      "url": "https://open.spotify.com/track/2xXRvMUpBA1NARlT56fFPW"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 411120,
+      "name": "Tell The Truth - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/2xZBk3McxhrcatEMSwL8KW"
+    },
+    {
+      "album": {
+        "name": "Wild in Woodstock: The Isley Brothers Live at Bearsville Sound Studio (1980)",
+        "url": "https://open.spotify.com/album/72MfvP136wxG7aeTUKzyJ7"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 216906,
+      "name": "That Lady - Live",
+      "url": "https://open.spotify.com/track/35Sp4BD5VE4QR42SGMLQhg"
+    },
+    {
+      "album": {
+        "name": "C.J. Fish",
+        "url": "https://open.spotify.com/album/7bZtqAqVEGS4Id0ZdFbbPF"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 348717,
+      "name": "The Love Machine",
+      "url": "https://open.spotify.com/track/6056d1Svol59ioexYWtoL7"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 209693,
+      "name": "The Night Time Is The Right Time - Live At The Woodstock Music & Art Fair / 1969",
+      "url": "https://open.spotify.com/track/1FcD3kWVQRYZnIe1S2ytnu"
+    },
+    {
+      "album": {
+        "name": "The Band (Deluxe Edition / 2019 Remix)",
+        "url": "https://open.spotify.com/album/5ZRYMtWMk8ha4YD73KtlR2"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284946,
+      "name": "The Weight - Live At Woodstock, 8/17/69",
+      "url": "https://open.spotify.com/track/417iXtY4ZypFB42bgaLdsw"
+    },
+    {
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+    },
+    {
+      "album": {
+        "name": "Ducks on a Pond",
+        "url": "https://open.spotify.com/album/6P9nz6gin6F26w8aOHMK9r"
+      },
+      "artists": [
+        {
+          "name": "Incredible String Band",
+          "url": "https://open.spotify.com/artist/5AhAOct54pkmwYMAXLSwwr"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 252320,
+      "name": "This Moment",
+      "url": "https://open.spotify.com/track/4tTZNDVL4TWKfIRVNqBBVj"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 316800,
+      "name": "To Love Somebody - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/0J7HtXZz0OzANDt7oE0aAz"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2HB7HwpDdUvoasS9m41Gvs"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "To Love Somebody - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/1fr0R23od05qpa1IB93BiX"
+    },
+    {
+      "album": {
+        "name": "Johnny Winter: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640733,
+      "name": "Tobacco Road - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/6gttrdKKRO56JPynr67ekw"
+    },
+    {
+      "album": {
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 313106,
+      "name": "Try (Just A Little Bit Harder) - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/45I632WnoYEUjYIkIMyTU0"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/2zlv17M05aUbvb0C802lIT"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316573,
+      "name": "Tuning My Guitar - Live at Woodstock",
+      "url": "https://open.spotify.com/track/3LZx7JD73a9oao8hT7lt9g"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/590O6qPRSB5H50LrF9oNhp"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Volunteers - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/3DMzABIl0i8zs9XebcJWap"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 820053,
+      "name": "Voodoo Child (Slight Return) - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/7kh56hGsZme1loWCPUETB9"
+    },
+    {
+      "album": {
+        "name": "Woodstock Saturday August 16, 1969 (Live)",
+        "url": "https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Waiting - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/36FeUohLd35CztS3R7Kx0r"
+    },
+    {
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 284426,
+      "name": "Waiting - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/5zLXUaYlIqhTcm7OJVSqgb"
+    },
+    {
+      "album": {
+        "name": "Live: The Road Goes Ever On",
+        "url": "https://open.spotify.com/album/73Lij8gmkU5zjhlrBh220A"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 279840,
+      "name": "Waiting To Take You Away - Live at Woodstock, Bethel, NY - August 1969",
+      "url": "https://open.spotify.com/track/1EzOhQiEtUYq8QtWVi1QVG"
+    },
+    {
+      "album": {
+        "name": "Woodstock 1969 - Live & Remastered",
+        "url": "https://open.spotify.com/album/2Doo5Mn2uVMbpYFg8sE7TZ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525506,
+      "name": "We're Not Gonna Take It - Live",
+      "url": "https://open.spotify.com/track/0nVjFDzXpUwRDkebNrYxI9"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/4lzu0HmhbocnBCQQDHiL40"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Andy Macpherson",
+          "url": "https://open.spotify.com/artist/3eLgh6OisMjiR9tWPyZCp5"
+        },
+        {
+          "name": "Jon Astley",
+          "url": "https://open.spotify.com/artist/1I8A3N4AgFS3geeMC8uh8I"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 428333,
+      "name": "We're Not Gonna Take It - Remixed Album Version",
+      "url": "https://open.spotify.com/track/34P7GzADn3f3SO54mI36bY"
+    },
+    {
+      "album": {
+        "name": "Cycles:The Reprise Collection",
+        "url": "https://open.spotify.com/album/6PDqW000XWsUb9Mlqe5phc"
+      },
+      "artists": [
+        {
+          "name": "Sweetwater",
+          "url": "https://open.spotify.com/artist/6f1OLKvr06mLIFI4UQaV8o"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623733,
+      "name": "What's Wrong - Live at Woodstock 1969 Version",
+      "url": "https://open.spotify.com/track/1FGolefVk3rQ2Vo4KvyGwb"
+    },
+    {
+      "album": {
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/590O6qPRSB5H50LrF9oNhp"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "White Rabbit - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/4HDBpCpts6GRkMFwmJ7uJN"
+    },
+    {
+      "album": {
+        "name": "Jefferson Airplane: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/625s2gdwGv9II76gXGAelS"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 147226,
+      "name": "White Rabbit - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/7bX1W9KGmgr3xN1jkNpNnz"
+    },
+    {
+      "album": {
+        "name": "Paris Live 1969",
+        "url": "https://open.spotify.com/album/0uJJCoTJdZYsx7mYMIIU2F"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 219628,
+      "name": "With a Little Help from My Friends",
+      "url": "https://open.spotify.com/track/2sfqqXVodMi9WFn5zokQO8"
+    },
+    {
+      "album": {
+        "name": "Live At Woodstock",
+        "url": "https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486466,
+      "name": "With A Little Help From My Friends - Live At Woodstock 1969",
+      "url": "https://open.spotify.com/track/1GUy6zvGXalO0RqI07ESvj"
+    },
+    {
+      "album": {
+        "name": "Live at Woodstock",
+        "url": "https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 239840,
+      "name": "Woodstock Inprovisation - Live at The Woodstock Music & Art Fair, August 18, 1969",
+      "url": "https://open.spotify.com/track/01CyjvhY0cA1T9XwST7FAH"
+    },
+    {
+      "album": {
+        "name": "Santana (Legacy Edition)",
+        "url": "https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 295600,
+      "name": "You Just Don't Care - Live at The Woodstock Music & Art Fair, August 16, 1969",
+      "url": "https://open.spotify.com/track/4Kj1bVGbCPcefOMXYPJkhV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6WdWXzlAP9E"
 }

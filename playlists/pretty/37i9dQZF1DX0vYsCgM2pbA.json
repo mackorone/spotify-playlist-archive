@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 131614,
+  "num_followers": 132657,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTNhOGYyZjU4NWJjNDVkNTY2MjBmMzNmMjI1NDU3ZjE3YjNjMTc5",
+  "snapshot_id": "MCxlMzk2YjQzZTNiNDQ4N2RmNWY0NzMwY2Q4MTJjYWU5OTQxNGViMTBl",
   "tracks": [
     {
       "added_at": "2023-12-21 12:31:21",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
@@ -455,6 +439,42 @@
       "duration_ms": 190000,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "See In Color",
+        "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "See In Color",
+      "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -479,26 +499,6 @@
       "duration_ms": 160116,
       "name": "Oh My (feat. Moby)",
       "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "See In Color",
-        "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "See In Color",
-      "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
         "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Rainfall (Praise You) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K"
       },
@@ -659,28 +627,24 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
@@ -688,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -715,6 +679,46 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -751,6 +755,38 @@
       "duration_ms": 278880,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -795,42 +831,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Oceanside Girl",
         "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
       },
@@ -883,22 +903,6 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -951,6 +955,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Do You Want Me",
-        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 272523,
-      "name": "Do You Want Me",
-      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1043,82 +1043,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 169658,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Sunny Day",
-        "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
-      },
-      "artists": [
-        {
-          "name": "Niicap",
-          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 128100,
-      "name": "Sunny Day",
-      "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -1135,6 +1059,42 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 248169,
+      "name": "Waiting For Nothing",
+      "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1159,22 +1119,62 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         },
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 248169,
-      "name": "Waiting For Nothing",
-      "url": "https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD"
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
+      },
+      "artists": [
+        {
+          "name": "Niicap",
+          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 128100,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Highest Building (feat. Oklou)",
+      "url": "https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf"
     }
   ],
   "unique_name": "Sunday Sessions",

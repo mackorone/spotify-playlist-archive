@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,354 likes - 108 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,710 likes - 108 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

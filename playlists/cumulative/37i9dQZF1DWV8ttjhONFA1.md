@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Los Besos
+> El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible
 
-87 songs - 4 hr 46 min
+91 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,12 @@
 | [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 | 2023-12-15 |  |
 | [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2023-12-15 |  |
 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 | 2023-12-15 |  |
+| [Imán](https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 3:15 | 2024-01-12 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-15 |  |
+| [La Celebración](https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [La Celebración](https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM) | 3:44 | 2024-01-05 |  |
 | [La Coincidencia](https://open.spotify.com/track/7EDOr0ZTrPhbySWoERZ5JZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [El Llamado del Sol](https://open.spotify.com/album/5q5mMvzCeORGiT24mwpUtb) | 2:28 | 2023-12-15 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-12-15 |  |
+| [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 | 2024-01-12 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-12-15 |  |
 | [MALA INFLUENCIA](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [MALA INFLUENCIA](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 |  |
 | [Mate Cocido](https://open.spotify.com/track/7pzaXobuXJswLGP90nJoLd) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Mate Cocido](https://open.spotify.com/album/0jW37dUj9crNPduuT0vlFc) | 3:55 | 2023-12-15 |  |
@@ -84,10 +87,11 @@
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 |  |
 | [TLDMPDFDS](https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [TLDMPDFDS](https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR) | 2:23 | 2023-12-15 |  |
 | [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 |  |
+| [Todo Lo Que Tengo](https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Todo Lo Que Tengo](https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn) | 1:51 | 2024-01-05 |  |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-12-15 |  |
 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 | 2023-12-15 |  |
 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 | 2023-12-15 |  |
-| [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-12-15 |  |
+| [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-12-15 | 2024-01-13 |
 | [Un Preámbulo](https://open.spotify.com/track/0VAwX3wYhvYrLojAl0Ld7f) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Un Preámbulo](https://open.spotify.com/album/4N4NgsGFXOaiAiQxk87lwZ) | 3:26 | 2023-12-15 |  |
 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 | 2023-12-15 |  |
 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 | 2023-12-15 |  |

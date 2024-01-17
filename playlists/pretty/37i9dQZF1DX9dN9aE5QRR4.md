@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,417 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,758 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 42 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 |
 | 43 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 |
 
-Snapshot ID: `MCwxMThjMjllZjNiZGQzNTQ4YmI3ZTQzYmFhNzg3YWE5OGI2ZmE5Y2Uy`
+Snapshot ID: `MCwyY2MzMmJiYzVjZTZhZTgxNmE0YzYwYTBjYWNhYjRlZGM0MzViZDZm`

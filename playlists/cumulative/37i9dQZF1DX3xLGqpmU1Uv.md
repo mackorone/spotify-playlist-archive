@@ -4,7 +4,7 @@
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-50 songs - 2 hr 6 min
+52 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,13 +19,14 @@
 | [Bule bule \- Remastered](https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT) | [Enrique Guzmán & Teen Tops](https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD) | [El rock de la cárcel \(Remastered\)](https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H) | 2:21 | 2020-03-18 |  |
 | [Cenicienta](https://open.spotify.com/track/6jxAf0wPyRLIAvDjpmV0Oz) | [Dyno](https://open.spotify.com/artist/1UCwxwpf10gITF13OoCyxG) | [No Te Pongas Pantalones](https://open.spotify.com/album/0Bdux2Q5ueclP7BLnf2g4l) | 2:32 | 2020-03-18 |  |
 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 | 2020-03-18 |  |
+| [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 | 2020-03-18 | 2024-01-16 |
 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 | 2020-03-18 |  |
 | [Creo Estar Soñando](https://open.spotify.com/track/76k8SMT9ALvTijx3EQiJP0) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:42 | 2020-03-18 |  |
 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 | 2020-03-18 |  |
 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 | 2020-03-18 |  |
 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 | 2020-03-18 |  |
 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 | 2020-03-18 |  |
-| [El Amor Es Triste \- Love Is Blue](https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 2:18 | 2020-03-18 |  |
+| [El Amor Es Triste \- Love Is Blue](https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 2:18 | 2020-03-18 | 2024-01-15 |
 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 | 2020-03-18 |  |
 | [El Juego De Simón](https://open.spotify.com/track/36mTmIiSJuC5eV9mFpjIn0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs) | [El Juego De Simón](https://open.spotify.com/album/0ZpyMevXIgGuTIzGRUCFkr) | 1:48 | 2020-03-18 |  |
 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 | 2020-03-18 |  |
@@ -54,6 +55,7 @@
 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 | 2022-05-04 |  |
 | [Si me quieres](https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4) | [Los Digers](https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV) | [Los Originales](https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy) | 2:45 | 2020-03-18 |  |
 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 | 2020-03-18 |  |
+| [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 | 2020-03-18 |  |
 | [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Enrique Guzmán \(El Llanto del Siglo\)](https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu) | 2:12 | 2020-03-18 |  |
 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 | 2020-03-18 |  |
 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 | 2020-03-18 |  |

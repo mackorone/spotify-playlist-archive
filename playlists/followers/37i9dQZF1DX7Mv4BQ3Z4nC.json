@@ -1,735 +1,585 @@
 {
-  "2021-12-25": 375,
-  "2021-12-26": 377,
-  "2021-12-27": 377,
-  "2021-12-28": 377,
-  "2021-12-29": 377,
-  "2021-12-30": 378,
-  "2021-12-31": 379,
-  "2022-01-01": 379,
-  "2022-01-02": 379,
-  "2022-01-03": 379,
-  "2022-01-04": 379,
-  "2022-01-05": 379,
-  "2022-01-06": 379,
-  "2022-01-07": 379,
-  "2022-01-08": 379,
-  "2022-01-09": 379,
-  "2022-01-10": 379,
-  "2022-01-11": 378,
-  "2022-01-12": 378,
-  "2022-01-13": 377,
-  "2022-01-14": 377,
-  "2022-01-15": 376,
-  "2022-01-16": 376,
-  "2022-01-17": 376,
-  "2022-01-18": 376,
-  "2022-01-19": 376,
-  "2022-01-20": 376,
-  "2022-01-21": 376,
-  "2022-01-22": 376,
-  "2022-01-23": 376,
-  "2022-01-24": 377,
-  "2022-01-25": 377,
-  "2022-01-26": 377,
-  "2022-01-27": 377,
-  "2022-01-28": 377,
-  "2022-01-29": 377,
-  "2022-01-30": 377,
-  "2022-01-31": 377,
-  "2022-02-01": 377,
-  "2022-02-02": 377,
-  "2022-02-03": 377,
-  "2022-02-04": 377,
-  "2022-02-05": 377,
-  "2022-02-06": 377,
-  "2022-02-07": 377,
-  "2022-02-08": 377,
-  "2022-02-09": 377,
-  "2022-02-10": 377,
-  "2022-02-11": 377,
-  "2022-02-12": 377,
-  "2022-02-13": 377,
-  "2022-02-14": 377,
-  "2022-02-15": 377,
-  "2022-02-16": 377,
-  "2022-02-17": 377,
-  "2022-02-18": 377,
-  "2022-02-19": 377,
-  "2022-02-20": 376,
-  "2022-02-21": 376,
-  "2022-02-22": 376,
-  "2022-02-23": 376,
-  "2022-02-24": 376,
-  "2022-02-25": 376,
-  "2022-02-26": 376,
-  "2022-02-27": 376,
-  "2022-02-28": 376,
-  "2022-03-01": 376,
-  "2022-03-02": 376,
-  "2022-03-03": 376,
-  "2022-03-04": 376,
-  "2022-03-05": 376,
-  "2022-03-06": 376,
-  "2022-03-07": 376,
-  "2022-03-08": 376,
-  "2022-03-09": 376,
-  "2022-03-10": 376,
-  "2022-03-11": 376,
-  "2022-03-12": 376,
-  "2022-03-13": 376,
-  "2022-03-14": 376,
-  "2022-03-15": 376,
-  "2022-03-16": 376,
-  "2022-03-17": 376,
-  "2022-03-18": 376,
-  "2022-03-19": 376,
-  "2022-03-20": 376,
-  "2022-03-21": 376,
-  "2022-03-22": 376,
-  "2022-03-23": 376,
-  "2022-03-24": 375,
-  "2022-03-25": 375,
-  "2022-03-26": 375,
-  "2022-03-27": 375,
-  "2022-03-28": 375,
-  "2022-03-30": 375,
-  "2022-03-31": 375,
-  "2022-04-01": 375,
-  "2022-04-02": 375,
-  "2022-04-03": 375,
-  "2022-04-04": 375,
-  "2022-04-05": 375,
-  "2022-04-06": 375,
-  "2022-04-07": 375,
-  "2022-04-08": 375,
-  "2022-04-09": 375,
-  "2022-04-10": 375,
-  "2022-04-11": 375,
-  "2022-04-12": 375,
-  "2022-04-13": 375,
-  "2022-04-14": 375,
-  "2022-04-15": 375,
-  "2022-04-16": 375,
-  "2022-04-17": 375,
-  "2022-04-18": 375,
-  "2022-04-19": 375,
-  "2022-04-20": 375,
-  "2022-04-21": 375,
-  "2022-04-22": 375,
-  "2022-04-23": 375,
-  "2022-04-24": 375,
-  "2022-04-25": 375,
-  "2022-04-26": 375,
-  "2022-04-27": 375,
-  "2022-04-28": 375,
-  "2022-04-29": 375,
-  "2022-04-30": 375,
-  "2022-05-01": 375,
-  "2022-05-02": 375,
-  "2022-05-03": 375,
-  "2022-05-04": 375,
-  "2022-05-05": 375,
-  "2022-05-06": 375,
-  "2022-05-07": 375,
-  "2022-05-08": 375,
-  "2022-05-09": 375,
-  "2022-05-10": 375,
-  "2022-05-11": 375,
-  "2022-05-12": 375,
-  "2022-05-13": 375,
-  "2022-05-14": 375,
-  "2022-05-15": 375,
-  "2022-05-16": 375,
-  "2022-05-17": 375,
-  "2022-05-18": 375,
-  "2022-05-19": 375,
-  "2022-05-20": 375,
-  "2022-05-21": 375,
-  "2022-05-22": 375,
-  "2022-05-23": 375,
-  "2022-05-24": 375,
-  "2022-05-25": 375,
-  "2022-05-26": 375,
-  "2022-05-27": 375,
-  "2022-05-28": 375,
-  "2022-05-29": 375,
-  "2022-05-30": 375,
-  "2022-05-31": 375,
-  "2022-06-01": 375,
-  "2022-06-02": 375,
-  "2022-06-03": 375,
-  "2022-06-04": 375,
-  "2022-06-05": 375,
-  "2022-06-06": 375,
-  "2022-06-07": 375,
-  "2022-06-08": 375,
-  "2022-06-09": 375,
-  "2022-06-10": 375,
-  "2022-06-11": 375,
-  "2022-06-12": 375,
-  "2022-06-13": 375,
-  "2022-06-14": 375,
-  "2022-06-15": 375,
-  "2022-06-16": 375,
-  "2022-06-17": 375,
-  "2022-06-18": 375,
-  "2022-06-19": 375,
-  "2022-06-20": 375,
-  "2022-06-21": 375,
-  "2022-06-22": 375,
-  "2022-06-23": 375,
-  "2022-06-24": 375,
-  "2022-06-25": 375,
-  "2022-06-26": 375,
-  "2022-06-27": 375,
-  "2022-06-28": 375,
-  "2022-06-29": 375,
-  "2022-06-30": 375,
-  "2022-07-01": 375,
-  "2022-07-02": 375,
-  "2022-07-03": 375,
-  "2022-07-04": 375,
-  "2022-07-05": 375,
-  "2022-07-06": 375,
-  "2022-07-07": 375,
-  "2022-07-08": 375,
-  "2022-07-09": 375,
-  "2022-07-10": 375,
-  "2022-07-11": 375,
-  "2022-07-12": 375,
-  "2022-07-13": 375,
-  "2022-07-14": 375,
-  "2022-07-15": 375,
-  "2022-07-16": 375,
-  "2022-07-17": 375,
-  "2022-07-18": 375,
-  "2022-07-19": 375,
-  "2022-07-20": 375,
-  "2022-07-21": 375,
-  "2022-07-22": 375,
-  "2022-07-23": 375,
-  "2022-07-24": 375,
-  "2022-07-25": 375,
-  "2022-07-26": 375,
-  "2022-07-27": 375,
-  "2022-07-28": 375,
-  "2022-07-29": 375,
-  "2022-07-30": 375,
-  "2022-07-31": 375,
-  "2022-08-01": 375,
-  "2022-08-02": 375,
-  "2022-08-03": 375,
-  "2022-08-04": 375,
-  "2022-08-05": 375,
-  "2022-08-06": 375,
-  "2022-08-07": 375,
-  "2022-08-08": 375,
-  "2022-08-09": 375,
-  "2022-08-10": 375,
-  "2022-08-11": 375,
-  "2022-08-12": 375,
-  "2022-08-13": 375,
-  "2022-08-14": 375,
-  "2022-08-15": 375,
-  "2022-08-16": 375,
-  "2022-08-17": 375,
-  "2022-08-18": 375,
-  "2022-08-19": 375,
-  "2022-08-20": 375,
-  "2022-08-21": 375,
-  "2022-08-22": 375,
-  "2022-08-23": 375,
-  "2022-08-24": 375,
-  "2022-08-25": 375,
-  "2022-08-26": 375,
-  "2022-08-27": 375,
-  "2022-08-28": 375,
-  "2022-08-29": 375,
-  "2022-08-30": 375,
-  "2022-08-31": 375,
-  "2022-09-01": 375,
-  "2022-09-02": 375,
-  "2022-09-03": 375,
-  "2022-09-04": 375,
-  "2022-09-05": 375,
-  "2022-09-06": 375,
-  "2022-09-07": 375,
-  "2022-09-09": 375,
-  "2022-09-10": 375,
-  "2022-09-11": 375,
-  "2022-09-12": 375,
-  "2022-09-13": 375,
-  "2022-09-15": 375,
-  "2022-09-16": 375,
-  "2022-09-17": 375,
-  "2022-09-18": 375,
-  "2022-09-19": 375,
-  "2022-09-20": 375,
-  "2022-09-21": 375,
-  "2022-09-22": 375,
-  "2022-09-23": 375,
-  "2022-09-24": 375,
-  "2022-09-25": 375,
-  "2022-09-26": 375,
-  "2022-09-27": 375,
-  "2022-09-28": 375,
-  "2022-09-29": 375,
-  "2022-09-30": 375,
-  "2022-10-01": 375,
-  "2022-10-02": 375,
-  "2022-10-03": 375,
-  "2022-10-04": 375,
-  "2022-10-05": 375,
-  "2022-10-06": 375,
-  "2022-10-07": 375,
-  "2022-10-08": 375,
-  "2022-10-09": 375,
-  "2022-10-10": 375,
-  "2022-10-11": 375,
-  "2022-10-12": 375,
-  "2022-10-13": 375,
-  "2022-10-14": 375,
-  "2022-10-15": 375,
-  "2022-10-16": 375,
-  "2022-10-17": 375,
-  "2022-10-18": 375,
-  "2022-10-19": 375,
-  "2022-10-20": 375,
-  "2022-10-21": 375,
-  "2022-10-22": 375,
-  "2022-10-23": 375,
-  "2022-10-24": 375,
-  "2022-10-25": 375,
-  "2022-10-26": 375,
-  "2022-10-27": 375,
-  "2022-10-28": 375,
-  "2022-10-29": 375,
-  "2022-10-30": 375,
-  "2022-10-31": 375,
-  "2022-11-01": 375,
-  "2022-11-02": 375,
-  "2022-11-03": 375,
-  "2022-11-04": 375,
-  "2022-11-05": 375,
-  "2022-11-06": 375,
-  "2022-11-07": 375,
-  "2022-11-08": 375,
-  "2022-11-09": 375,
-  "2022-11-10": 375,
-  "2022-11-11": 375,
-  "2022-11-12": 375,
-  "2022-11-13": 375,
-  "2022-11-14": 375,
-  "2022-11-15": 375,
-  "2022-11-16": 375,
-  "2022-11-17": 375,
-  "2022-11-18": 375,
-  "2022-11-19": 375,
-  "2022-11-20": 375,
-  "2022-11-21": 375,
-  "2022-11-22": 375,
-  "2022-11-23": 375,
-  "2022-11-24": 375,
-  "2022-11-25": 375,
-  "2022-11-26": 375,
-  "2022-11-27": 375,
-  "2022-11-28": 375,
-  "2022-11-29": 375,
-  "2022-11-30": 375,
-  "2022-12-01": 375,
-  "2022-12-02": 375,
-  "2022-12-03": 375,
-  "2022-12-04": 375,
-  "2022-12-05": 375,
-  "2022-12-06": 375,
-  "2022-12-07": 375,
-  "2022-12-08": 375,
-  "2022-12-09": 375,
-  "2022-12-10": 375,
-  "2022-12-11": 375,
-  "2022-12-12": 375,
-  "2022-12-13": 375,
-  "2022-12-14": 375,
-  "2022-12-15": 375,
-  "2022-12-16": 375,
-  "2022-12-17": 375,
-  "2022-12-18": 375,
-  "2022-12-19": 375,
-  "2022-12-20": 375,
-  "2022-12-21": 375,
-  "2022-12-22": 375,
-  "2022-12-24": 375,
-  "2022-12-25": 375,
-  "2022-12-26": 375,
-  "2022-12-27": 375,
-  "2022-12-28": 375,
-  "2022-12-29": 375,
-  "2022-12-30": 375,
-  "2022-12-31": 375,
-  "2023-01-01": 375,
-  "2023-01-02": 375,
-  "2023-01-03": 375,
-  "2023-01-04": 375,
-  "2023-01-05": 375,
-  "2023-01-06": 375,
-  "2023-01-07": 375,
-  "2023-01-08": 375,
-  "2023-01-09": 375,
-  "2023-01-10": 375,
-  "2023-01-11": 375,
-  "2023-01-12": 375,
-  "2023-01-13": 375,
-  "2023-01-14": 375,
-  "2023-01-15": 375,
-  "2023-01-16": 375,
-  "2023-01-17": 375,
-  "2023-01-18": 375,
-  "2023-01-19": 375,
-  "2023-01-20": 375,
-  "2023-01-21": 375,
-  "2023-01-22": 375,
-  "2023-01-23": 375,
-  "2023-01-24": 375,
-  "2023-01-25": 375,
-  "2023-01-26": 375,
-  "2023-01-27": 375,
-  "2023-01-28": 375,
-  "2023-01-29": 375,
-  "2023-01-30": 375,
-  "2023-01-31": 375,
-  "2023-02-01": 375,
-  "2023-02-02": 375,
-  "2023-02-03": 375,
-  "2023-02-04": 375,
-  "2023-02-05": 375,
-  "2023-02-06": 375,
-  "2023-02-07": 375,
-  "2023-02-08": 375,
-  "2023-02-09": 375,
-  "2023-02-10": 375,
-  "2023-02-11": 375,
-  "2023-02-12": 375,
-  "2023-02-13": 375,
-  "2023-02-14": 375,
-  "2023-02-15": 375,
-  "2023-02-16": 375,
-  "2023-02-17": 375,
-  "2023-02-18": 375,
-  "2023-02-19": 375,
-  "2023-02-20": 375,
-  "2023-02-21": 375,
-  "2023-02-22": 375,
-  "2023-02-23": 375,
-  "2023-02-24": 375,
-  "2023-02-25": 375,
-  "2023-02-26": 375,
-  "2023-02-27": 375,
-  "2023-02-28": 375,
-  "2023-03-01": 375,
-  "2023-03-02": 375,
-  "2023-03-03": 375,
-  "2023-03-04": 375,
-  "2023-03-05": 375,
-  "2023-03-06": 375,
-  "2023-03-07": 375,
-  "2023-03-08": 375,
-  "2023-03-09": 375,
-  "2023-03-10": 375,
-  "2023-03-11": 375,
-  "2023-03-12": 375,
-  "2023-03-13": 375,
-  "2023-03-14": 375,
-  "2023-03-15": 375,
-  "2023-03-16": 375,
-  "2023-03-17": 375,
-  "2023-03-18": 375,
-  "2023-03-19": 375,
-  "2023-03-20": 375,
-  "2023-03-21": 375,
-  "2023-03-22": 375,
-  "2023-03-23": 375,
-  "2023-03-24": 375,
-  "2023-03-25": 375,
-  "2023-03-26": 375,
-  "2023-03-27": 375,
-  "2023-03-28": 375,
-  "2023-03-29": 375,
-  "2023-03-30": 375,
-  "2023-03-31": 375,
-  "2023-04-01": 375,
-  "2023-04-02": 375,
-  "2023-04-03": 375,
-  "2023-04-04": 375,
-  "2023-04-05": 375,
-  "2023-04-06": 375,
-  "2023-04-07": 375,
-  "2023-04-09": 375,
-  "2023-04-10": 375,
-  "2023-04-11": 375,
-  "2023-04-12": 375,
-  "2023-04-13": 375,
-  "2023-04-14": 375,
-  "2023-04-15": 375,
-  "2023-04-16": 375,
-  "2023-04-17": 375,
-  "2023-04-18": 375,
-  "2023-04-19": 375,
-  "2023-04-20": 375,
-  "2023-04-21": 375,
-  "2023-04-22": 375,
-  "2023-04-23": 375,
-  "2023-04-24": 375,
-  "2023-04-25": 375,
-  "2023-04-26": 375,
-  "2023-04-27": 375,
-  "2023-04-28": 375,
-  "2023-04-29": 375,
-  "2023-04-30": 375,
-  "2023-05-01": 375,
-  "2023-05-02": 375,
-  "2023-05-03": 375,
-  "2023-05-04": 375,
-  "2023-05-05": 375,
-  "2023-05-06": 375,
-  "2023-05-07": 375,
-  "2023-05-08": 375,
-  "2023-05-09": 375,
-  "2023-05-10": 375,
-  "2023-05-11": 375,
-  "2023-05-12": 375,
-  "2023-05-13": 375,
-  "2023-05-14": 375,
-  "2023-05-15": 375,
-  "2023-05-16": 375,
-  "2023-05-17": 375,
-  "2023-05-18": 375,
-  "2023-05-19": 375,
-  "2023-05-20": 375,
-  "2023-05-21": 375,
-  "2023-05-22": 375,
-  "2023-05-23": 375,
-  "2023-05-24": 375,
-  "2023-05-25": 375,
-  "2023-05-26": 375,
-  "2023-05-27": 375,
-  "2023-05-28": 375,
-  "2023-05-29": 375,
-  "2023-05-30": 375,
-  "2023-05-31": 375,
-  "2023-06-01": 375,
-  "2023-06-02": 375,
-  "2023-06-03": 375,
-  "2023-06-04": 375,
-  "2023-06-05": 375,
-  "2023-06-06": 375,
-  "2023-06-07": 375,
-  "2023-06-08": 375,
-  "2023-06-09": 375,
-  "2023-06-10": 375,
-  "2023-06-11": 375,
-  "2023-06-12": 375,
-  "2023-06-13": 375,
-  "2023-06-14": 375,
-  "2023-06-15": 375,
-  "2023-06-16": 375,
-  "2023-06-17": 375,
-  "2023-06-18": 375,
-  "2023-06-19": 375,
-  "2023-06-20": 375,
-  "2023-06-21": 375,
-  "2023-06-22": 375,
-  "2023-06-23": 375,
-  "2023-06-24": 375,
-  "2023-06-25": 375,
-  "2023-06-26": 375,
-  "2023-06-27": 375,
-  "2023-06-28": 375,
-  "2023-06-29": 375,
-  "2023-06-30": 375,
-  "2023-07-01": 375,
-  "2023-07-02": 375,
-  "2023-07-03": 375,
-  "2023-07-04": 375,
-  "2023-07-05": 375,
-  "2023-07-06": 375,
-  "2023-07-07": 375,
-  "2023-07-08": 375,
-  "2023-07-09": 375,
-  "2023-07-10": 375,
-  "2023-07-11": 375,
-  "2023-07-12": 375,
-  "2023-07-13": 375,
-  "2023-07-14": 375,
-  "2023-07-15": 375,
-  "2023-07-16": 375,
-  "2023-07-17": 375,
-  "2023-07-18": 375,
-  "2023-07-19": 375,
-  "2023-07-20": 375,
-  "2023-07-21": 375,
-  "2023-07-22": 375,
-  "2023-07-23": 375,
-  "2023-07-24": 375,
-  "2023-07-25": 375,
-  "2023-07-26": 375,
-  "2023-07-27": 375,
-  "2023-07-28": 375,
-  "2023-07-29": 375,
-  "2023-07-30": 375,
-  "2023-07-31": 375,
-  "2023-08-01": 375,
-  "2023-08-02": 375,
-  "2023-08-03": 375,
-  "2023-08-04": 375,
-  "2023-08-05": 375,
-  "2023-08-06": 375,
-  "2023-08-07": 375,
-  "2023-08-08": 375,
-  "2023-08-09": 375,
-  "2023-08-10": 375,
-  "2023-08-11": 375,
-  "2023-08-12": 375,
-  "2023-08-13": 375,
-  "2023-08-14": 375,
-  "2023-08-15": 375,
-  "2023-08-16": 375,
-  "2023-08-17": 375,
-  "2023-08-18": 375,
-  "2023-08-19": 375,
-  "2023-08-20": 375,
-  "2023-08-21": 375,
-  "2023-08-22": 375,
-  "2023-08-23": 375,
-  "2023-08-24": 375,
-  "2023-08-25": 375,
-  "2023-08-26": 375,
-  "2023-08-27": 375,
-  "2023-08-28": 375,
-  "2023-08-29": 375,
-  "2023-08-30": 375,
-  "2023-08-31": 375,
-  "2023-09-01": 375,
-  "2023-09-02": 375,
-  "2023-09-03": 375,
-  "2023-09-04": 375,
-  "2023-09-05": 375,
-  "2023-09-06": 375,
-  "2023-09-07": 375,
-  "2023-09-08": 375,
-  "2023-09-09": 375,
-  "2023-09-10": 375,
-  "2023-09-11": 375,
-  "2023-09-12": 375,
-  "2023-09-13": 375,
-  "2023-09-14": 375,
-  "2023-09-15": 375,
-  "2023-09-16": 375,
-  "2023-09-17": 375,
-  "2023-09-18": 375,
-  "2023-09-19": 375,
-  "2023-09-20": 375,
-  "2023-09-21": 375,
-  "2023-09-22": 375,
-  "2023-09-23": 375,
-  "2023-09-24": 375,
-  "2023-09-25": 375,
-  "2023-09-26": 375,
-  "2023-09-27": 375,
-  "2023-09-28": 375,
-  "2023-09-29": 375,
-  "2023-09-30": 375,
-  "2023-10-01": 375,
-  "2023-10-02": 375,
-  "2023-10-03": 375,
-  "2023-10-04": 375,
-  "2023-10-05": 375,
-  "2023-10-06": 375,
-  "2023-10-07": 375,
-  "2023-10-08": 375,
-  "2023-10-09": 375,
-  "2023-10-10": 375,
-  "2023-10-11": 375,
-  "2023-10-12": 375,
-  "2023-10-13": 375,
-  "2023-10-14": 375,
-  "2023-10-15": 375,
-  "2023-10-16": 375,
-  "2023-10-17": 375,
-  "2023-10-18": 375,
-  "2023-10-19": 375,
-  "2023-10-20": 375,
-  "2023-10-21": 375,
-  "2023-10-22": 375,
-  "2023-10-23": 375,
-  "2023-10-24": 375,
-  "2023-10-25": 375,
-  "2023-10-26": 375,
-  "2023-10-27": 375,
-  "2023-10-28": 375,
-  "2023-10-29": 375,
-  "2023-10-30": 375,
-  "2023-10-31": 375,
-  "2023-11-01": 375,
-  "2023-11-02": 375,
-  "2023-11-03": 375,
-  "2023-11-04": 375,
-  "2023-11-05": 375,
-  "2023-11-06": 375,
-  "2023-11-07": 375,
-  "2023-11-08": 375,
-  "2023-11-09": 375,
-  "2023-11-10": 375,
-  "2023-11-11": 375,
-  "2023-11-12": 375,
-  "2023-11-13": 375,
-  "2023-11-14": 375,
-  "2023-11-15": 375,
-  "2023-11-16": 375,
-  "2023-11-17": 375,
-  "2023-11-18": 375,
-  "2023-11-19": 375,
-  "2023-11-20": 375,
-  "2023-11-21": 375,
-  "2023-11-22": 375,
-  "2023-11-23": 375,
-  "2023-11-24": 375,
-  "2023-11-25": 375,
-  "2023-11-26": 375,
-  "2023-11-27": 375,
-  "2023-11-28": 375,
-  "2023-11-29": 375,
-  "2023-11-30": 375,
-  "2023-12-01": 375,
-  "2023-12-02": 375,
-  "2023-12-03": 375,
-  "2023-12-04": 375,
-  "2023-12-05": 375,
-  "2023-12-06": 375,
-  "2023-12-07": 375,
-  "2023-12-08": 375,
-  "2023-12-09": 375,
-  "2023-12-10": 375,
-  "2023-12-11": 375,
-  "2023-12-12": 375,
-  "2023-12-13": 375,
-  "2023-12-14": 375,
-  "2023-12-15": 375,
-  "2023-12-16": 375,
-  "2023-12-17": 375,
-  "2023-12-18": 375,
-  "2023-12-19": 375,
-  "2023-12-20": 375,
-  "2023-12-21": 375,
-  "2023-12-22": 375,
-  "2023-12-23": 375,
-  "2023-12-24": 375,
-  "2023-12-25": 375,
-  "2023-12-26": 375,
-  "2023-12-27": 375,
-  "2023-12-30": 375,
-  "2023-12-31": 375,
-  "2024-01-01": 375,
-  "2024-01-02": 375,
-  "2024-01-03": 375
+  "2024-01-17": 375,
+  "date_first_scraped": "2021-12-21",
+  "description": "Sometimes all you need is the sound of a cozy, crackling fireplace...",
+  "name": "The Yule Log",
+  "tracks": [
+    {
+      "album": {
+        "name": "10 min Daily Relaxation With Nature Sounds",
+        "url": "https://open.spotify.com/album/0yDoSAyZSnrZ05bRba3OOJ"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "Calming Fireplace",
+      "url": "https://open.spotify.com/track/7G65aOUwQLa38Px79hL74T"
+    },
+    {
+      "album": {
+        "name": "200 Nature Sounds",
+        "url": "https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Collection",
+          "url": "https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480078,
+      "name": "Cozy Indoor Fireplace",
+      "url": "https://open.spotify.com/track/0T6DybPGT0MpXhHSlA4FOC"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep",
+        "url": "https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Relaxation",
+          "url": "https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480078,
+      "name": "Crackling Fire in the Fireplace for Self Awareness and Inner Strength",
+      "url": "https://open.spotify.com/track/0NyzOPqPZAqMOU2NJrN03U"
+    },
+    {
+      "album": {
+        "name": "Crackling Fireplace (1 Hour)",
+        "url": "https://open.spotify.com/album/6Vjy9KKLJvaG78bWDqX9gD"
+      },
+      "artists": [
+        {
+          "name": "Ambiance",
+          "url": "https://open.spotify.com/artist/63Ih24ujnLfDjjQysUqMVc"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3601188,
+      "name": "Crackling Fireplace (1 Hour)",
+      "url": "https://open.spotify.com/track/6zJilg8bCTtSftYdFaZNaF"
+    },
+    {
+      "album": {
+        "name": "Insomnia Therapy - Fire",
+        "url": "https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu"
+      },
+      "artists": [
+        {
+          "name": "Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons",
+          "url": "https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126313,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/0ikeQ58rYKOGPw1IjCatnL"
+    },
+    {
+      "album": {
+        "name": "Insomnia Therapy - Fire",
+        "url": "https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu"
+      },
+      "artists": [
+        {
+          "name": "Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons",
+          "url": "https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138202,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2zJwbWw9zZYQv05PWPPVbL"
+    },
+    {
+      "album": {
+        "name": "Essential Sound Effects 7 - Miscellaneous Sound Effects",
+        "url": "https://open.spotify.com/album/0MNonRlUrJf54ubpV7sI3F"
+      },
+      "artists": [
+        {
+          "name": "Essential Sound Effects",
+          "url": "https://open.spotify.com/artist/3JyAQuSJuybJb4tLtCFGqK"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Fire Wood Firewood Log Logs Crack Crackle Crackles Crackling Burn Burning Campfire Fireplace Bonfire Flame Oven Forest Branch Sound Effects Sound Effect Other Miscellaneous Sounds Fire",
+      "url": "https://open.spotify.com/track/15UWdVjEVU4fNdFy1g8K0l"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds Collection",
+        "url": "https://open.spotify.com/album/4cV4lxp6KuqL8Z7zuxk0YF"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Fireplace",
+      "url": "https://open.spotify.com/track/4REPL2m8LF3XP8n4IpUSAX"
+    },
+    {
+      "album": {
+        "name": "Ambient Sound Effects",
+        "url": "https://open.spotify.com/album/7HPNuIK4pbQM2OZagzaZqS"
+      },
+      "artists": [
+        {
+          "name": "Finnolia Sound Effects",
+          "url": "https://open.spotify.com/artist/7piUznRWxNyKpaPvmOSdiZ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120053,
+      "name": "Fireplace Crackling (Wood Burning Fire Crackle Ambience Background Noise Soundscape Clip) [Sound Effect]",
+      "url": "https://open.spotify.com/track/29yhTDdokTIVdYxfvsRtf9"
+    },
+    {
+      "album": {
+        "name": "200 Nature Sounds",
+        "url": "https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Collection",
+          "url": "https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480078,
+      "name": "Fireplace Wood Burning",
+      "url": "https://open.spotify.com/track/2RFQGQ5WEZOMVTuKDr4EUj"
+    },
+    {
+      "album": {
+        "name": "Insomnia Therapy - Fire",
+        "url": "https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu"
+      },
+      "artists": [
+        {
+          "name": "Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons",
+          "url": "https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120369,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/3iF7j76Yw5HIO2Trh1L4uQ"
+    },
+    {
+      "album": {
+        "name": "Holiday Yule Log: The Christmas Fireplace (2 Hours of Relaxing Natural Sounds)",
+        "url": "https://open.spotify.com/album/3osgl3a72gqOOEMX1PkBWP"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Retreat",
+          "url": "https://open.spotify.com/artist/2fHeJ3ckaPjnUMkUsc19xs"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7221520,
+      "name": "Holiday Yule Log: The Christmas Fireplace (2 Hours of Relaxing Natural Sounds)",
+      "url": "https://open.spotify.com/track/18wMrFh4sIB4D8aHOBmOeT"
+    },
+    {
+      "album": {
+        "name": "Just Fire: 2 Hours of Sounds from the Natural World (Crackling Fireplace Flames for Sleep & Relaxation)",
+        "url": "https://open.spotify.com/album/4c9fGsh4XdRfasD7CjfuKb"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Retreat",
+          "url": "https://open.spotify.com/artist/2fHeJ3ckaPjnUMkUsc19xs"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7221520,
+      "name": "Just Fire: 2 Hours of Sounds from the Natural World (Crackling Fireplace Flames for Sleep & Relaxation)",
+      "url": "https://open.spotify.com/track/0RZVMByDP26ZgkrhLqctba"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570070,
+      "name": "Meditative Warm Crackling Cabin Fireplace",
+      "url": "https://open.spotify.com/track/4eJZ63htaxrFHSJQeNEB6B"
+    },
+    {
+      "album": {
+        "name": "Insomnia Therapy - Fire",
+        "url": "https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu"
+      },
+      "artists": [
+        {
+          "name": "Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons",
+          "url": "https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199131,
+      "name": "Real Warm",
+      "url": "https://open.spotify.com/track/2iF5LWZ8kvfvAXDDG6UjOX"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570002,
+      "name": "Relaxed Dancing Flames and Dry Kindling",
+      "url": "https://open.spotify.com/track/2KFLWIbES2IaA2WwJ9jmhT"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570202,
+      "name": "Relaxing Driftwood Fire at the Cabin",
+      "url": "https://open.spotify.com/track/3J6d6HHUo4asU5KfmakhVE"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570236,
+      "name": "Restful Bright and Warm Evening Campfire",
+      "url": "https://open.spotify.com/track/2YEx04KTg71DKXZZ2Knlja"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570303,
+      "name": "Serene Fire Starter",
+      "url": "https://open.spotify.com/track/6XapeXv5ZtUbevJJbWao0X"
+    },
+    {
+      "album": {
+        "name": "Snapping Fireplace Sound",
+        "url": "https://open.spotify.com/album/4G6Fn8WBSFxcIns9oi9Btn"
+      },
+      "artists": [
+        {
+          "name": "Tmsoft\u2019s White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3HykQi5PlnOTB8tjm11KkK"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590000,
+      "name": "Snapping Fireplace Sound",
+      "url": "https://open.spotify.com/track/7Hm8ktmgSFGbZgXHHtcFBH"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/5rUieTpdL2sUemMaB3GDTz"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2400164,
+      "name": "Thoughtful Open Hearth Fireplace",
+      "url": "https://open.spotify.com/track/4Nz8Pt4vPcMRnxPZMkZKwH"
+    },
+    {
+      "album": {
+        "name": "Crackling Fire - Sounds of Nature",
+        "url": "https://open.spotify.com/album/0yrMzC0wWWm80GUBHkKU8V"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570036,
+      "name": "Thoughtful Wood Burning in Cottage Fireplace",
+      "url": "https://open.spotify.com/track/4B4VSzN3zz11jVwGzAy8AG"
+    },
+    {
+      "album": {
+        "name": "Insomnia Therapy - Fire",
+        "url": "https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu"
+      },
+      "artists": [
+        {
+          "name": "Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons",
+          "url": "https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132257,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/5hLDOLWt7ptAKaSXbNLEzJ"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Nature - Fire",
+        "url": "https://open.spotify.com/album/3yl9fGl0UfxC9hTkMcfMyK"
+      },
+      "artists": [
+        {
+          "name": "Frauke Rotwein",
+          "url": "https://open.spotify.com/artist/7vU6huAdXub1DzRRyvoFeX"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 904786,
+      "name": "Winter By The Fireplace",
+      "url": "https://open.spotify.com/track/5nmgQOAxxyA3AAj4tU5ZZH"
+    },
+    {
+      "album": {
+        "name": "Relaxing by the Fire",
+        "url": "https://open.spotify.com/album/0bZiYWn68o9mEffztM7NuU"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482000,
+      "name": "Wood Burning Fireplace",
+      "url": "https://open.spotify.com/track/7EFUfp4N9IXRYpvBWeihR7"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep",
+        "url": "https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Relaxation",
+          "url": "https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480078,
+      "name": "Wood Burning in Cottage Fireplace for Stress Release and Total Relaxation",
+      "url": "https://open.spotify.com/track/4IDVTiPuYBGBYJX2rm3rX7"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 1",
+      "url": "https://open.spotify.com/track/4kFagL2P11vdhxS57hvVGH"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 2",
+      "url": "https://open.spotify.com/track/6KjDZfHZuslx61bi9IMLXO"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 3",
+      "url": "https://open.spotify.com/track/0aU71tosN9zZhXPjeICDHJ"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 4",
+      "url": "https://open.spotify.com/track/3D9dg3HiS8i4M4Rnfh8ueq"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 5",
+      "url": "https://open.spotify.com/track/6pwPyVYhgREwvAr1OgUG1G"
+    },
+    {
+      "album": {
+        "name": "Relax or Sleep to the Sound of Fire Burning Wood with Thunder and Rain",
+        "url": "https://open.spotify.com/album/2vUafE0WEzuHC4pCaNmZ56"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Wood, Fire, Thunder 6",
+      "url": "https://open.spotify.com/track/0EWXfIXk82IEUBJgYDu71U"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7Mv4BQ3Z4nC"
 }

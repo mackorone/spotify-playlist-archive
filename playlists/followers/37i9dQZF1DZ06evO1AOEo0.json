@@ -1,291 +1,1263 @@
 {
-  "2023-03-18": 28068,
-  "2023-03-19": 28068,
-  "2023-03-20": 28098,
-  "2023-03-21": 28113,
-  "2023-03-22": 28134,
-  "2023-03-23": 28147,
-  "2023-03-24": 28147,
-  "2023-03-25": 28184,
-  "2023-03-26": 28216,
-  "2023-03-27": 28238,
-  "2023-03-28": 28258,
-  "2023-03-29": 28275,
-  "2023-03-30": 28303,
-  "2023-03-31": 28303,
-  "2023-04-01": 28320,
-  "2023-04-02": 28335,
-  "2023-04-03": 28358,
-  "2023-04-04": 28385,
-  "2023-04-05": 28413,
-  "2023-04-06": 28423,
-  "2023-04-07": 28442,
-  "2023-04-09": 28493,
-  "2023-04-10": 28513,
-  "2023-04-11": 28555,
-  "2023-04-12": 28555,
-  "2023-04-13": 28557,
-  "2023-04-14": 28574,
-  "2023-04-15": 28592,
-  "2023-04-16": 28611,
-  "2023-04-17": 28621,
-  "2023-04-18": 28642,
-  "2023-04-19": 28665,
-  "2023-04-20": 28684,
-  "2023-04-21": 28695,
-  "2023-04-22": 28720,
-  "2023-04-23": 28744,
-  "2023-04-24": 28756,
-  "2023-04-25": 28766,
-  "2023-04-26": 28779,
-  "2023-04-27": 28797,
-  "2023-04-28": 28811,
-  "2023-04-29": 28831,
-  "2023-04-30": 28844,
-  "2023-05-01": 28857,
-  "2023-05-02": 28866,
-  "2023-05-03": 28878,
-  "2023-05-04": 28888,
-  "2023-05-05": 28898,
-  "2023-05-06": 28908,
-  "2023-05-07": 28925,
-  "2023-05-08": 28944,
-  "2023-05-09": 28958,
-  "2023-05-10": 28975,
-  "2023-05-11": 28995,
-  "2023-05-12": 29005,
-  "2023-05-13": 29019,
-  "2023-05-14": 29034,
-  "2023-05-15": 29041,
-  "2023-05-16": 29055,
-  "2023-05-17": 29067,
-  "2023-05-18": 29084,
-  "2023-05-19": 29095,
-  "2023-05-20": 29114,
-  "2023-05-21": 29114,
-  "2023-05-22": 29114,
-  "2023-05-23": 29146,
-  "2023-05-24": 29177,
-  "2023-05-25": 29176,
-  "2023-05-26": 29195,
-  "2023-05-27": 29215,
-  "2023-05-28": 29239,
-  "2023-05-29": 29239,
-  "2023-05-30": 29278,
-  "2023-05-31": 29291,
-  "2023-06-01": 29301,
-  "2023-06-02": 29316,
-  "2023-06-03": 29324,
-  "2023-06-04": 29334,
-  "2023-06-05": 29356,
-  "2023-06-06": 29378,
-  "2023-06-07": 29392,
-  "2023-06-08": 29404,
-  "2023-06-09": 29413,
-  "2023-06-10": 29429,
-  "2023-06-11": 29438,
-  "2023-06-12": 29454,
-  "2023-06-13": 29469,
-  "2023-06-14": 29469,
-  "2023-06-15": 29504,
-  "2023-06-16": 29516,
-  "2023-06-17": 29532,
-  "2023-06-18": 29542,
-  "2023-06-19": 29557,
-  "2023-06-20": 29576,
-  "2023-06-21": 29581,
-  "2023-06-22": 29589,
-  "2023-06-23": 29610,
-  "2023-06-24": 29622,
-  "2023-06-25": 29634,
-  "2023-06-26": 29650,
-  "2023-06-27": 29672,
-  "2023-06-28": 29678,
-  "2023-06-29": 29705,
-  "2023-06-30": 29716,
-  "2023-07-01": 29748,
-  "2023-07-02": 29748,
-  "2023-07-03": 29763,
-  "2023-07-04": 29771,
-  "2023-07-05": 29782,
-  "2023-07-06": 29796,
-  "2023-07-07": 29796,
-  "2023-07-08": 29808,
-  "2023-07-09": 29819,
-  "2023-07-10": 29835,
-  "2023-07-11": 29846,
-  "2023-07-12": 29855,
-  "2023-07-13": 29876,
-  "2023-07-14": 29888,
-  "2023-07-15": 29892,
-  "2023-07-16": 29911,
-  "2023-07-17": 29929,
-  "2023-07-18": 29939,
-  "2023-07-19": 29958,
-  "2023-07-20": 29963,
-  "2023-07-21": 29988,
-  "2023-07-22": 30008,
-  "2023-07-23": 30029,
-  "2023-07-24": 30039,
-  "2023-07-25": 30059,
-  "2023-07-26": 30072,
-  "2023-07-27": 30090,
-  "2023-07-28": 30107,
-  "2023-07-29": 30121,
-  "2023-07-30": 30130,
-  "2023-07-31": 30140,
-  "2023-08-01": 30162,
-  "2023-08-02": 30178,
-  "2023-08-03": 30203,
-  "2023-08-04": 30211,
-  "2023-08-05": 30227,
-  "2023-08-06": 30262,
-  "2023-08-07": 30262,
-  "2023-08-08": 30283,
-  "2023-08-09": 30304,
-  "2023-08-10": 30315,
-  "2023-08-11": 30331,
-  "2023-08-12": 30331,
-  "2023-08-13": 30331,
-  "2023-08-14": 30383,
-  "2023-08-15": 30383,
-  "2023-08-16": 30383,
-  "2023-08-17": 30437,
-  "2023-08-18": 30437,
-  "2023-08-19": 30437,
-  "2023-08-20": 30472,
-  "2023-08-21": 30472,
-  "2023-08-22": 30514,
-  "2023-08-23": 30514,
-  "2023-08-24": 30540,
-  "2023-08-25": 30540,
-  "2023-08-26": 30566,
-  "2023-08-27": 30566,
-  "2023-08-28": 30592,
-  "2023-08-29": 30592,
-  "2023-08-30": 30592,
-  "2023-08-31": 30641,
-  "2023-09-01": 30667,
-  "2023-09-02": 30667,
-  "2023-09-03": 30678,
-  "2023-09-04": 30678,
-  "2023-09-05": 30678,
-  "2023-09-06": 30737,
-  "2023-09-07": 30737,
-  "2023-09-08": 30737,
-  "2023-09-09": 30737,
-  "2023-09-10": 30805,
-  "2023-09-11": 30805,
-  "2023-09-12": 30805,
-  "2023-09-13": 30854,
-  "2023-09-14": 30854,
-  "2023-09-15": 30854,
-  "2023-09-16": 30898,
-  "2023-09-17": 30898,
-  "2023-09-18": 30898,
-  "2023-09-19": 30945,
-  "2023-09-20": 30945,
-  "2023-09-21": 30945,
-  "2023-09-22": 30999,
-  "2023-09-23": 30999,
-  "2023-09-24": 30999,
-  "2023-09-25": 30999,
-  "2023-09-26": 31084,
-  "2023-09-27": 31084,
-  "2023-09-28": 31084,
-  "2023-09-29": 31084,
-  "2023-09-30": 31084,
-  "2023-10-01": 31084,
-  "2023-10-02": 31177,
-  "2023-10-03": 31177,
-  "2023-10-04": 31177,
-  "2023-10-05": 31224,
-  "2023-10-06": 31240,
-  "2023-10-07": 31240,
-  "2023-10-08": 31240,
-  "2023-10-09": 31240,
-  "2023-10-10": 31240,
-  "2023-10-11": 31295,
-  "2023-10-12": 31295,
-  "2023-10-13": 31295,
-  "2023-10-14": 31295,
-  "2023-10-15": 31295,
-  "2023-10-16": 31295,
-  "2023-10-17": 31295,
-  "2023-10-18": 31295,
-  "2023-10-19": 31295,
-  "2023-10-20": 31295,
-  "2023-10-21": 31295,
-  "2023-10-22": 31295,
-  "2023-10-23": 31295,
-  "2023-10-24": 31295,
-  "2023-10-25": 31295,
-  "2023-10-26": 31295,
-  "2023-10-27": 31295,
-  "2023-10-28": 31295,
-  "2023-10-29": 31295,
-  "2023-10-30": 31295,
-  "2023-10-31": 31295,
-  "2023-11-01": 31295,
-  "2023-11-02": 31295,
-  "2023-11-03": 31295,
-  "2023-11-04": 31295,
-  "2023-11-05": 31295,
-  "2023-11-06": 31295,
-  "2023-11-07": 31295,
-  "2023-11-08": 31295,
-  "2023-11-09": 31295,
-  "2023-11-10": 31295,
-  "2023-11-11": 31773,
-  "2023-11-12": 31773,
-  "2023-11-13": 31773,
-  "2023-11-14": 31773,
-  "2023-11-15": 31773,
-  "2023-11-16": 31773,
-  "2023-11-17": 31773,
-  "2023-11-18": 31773,
-  "2023-11-19": 31773,
-  "2023-11-20": 31773,
-  "2023-11-21": 31773,
-  "2023-11-22": 31773,
-  "2023-11-23": 31773,
-  "2023-11-24": 31773,
-  "2023-11-25": 31773,
-  "2023-11-26": 31773,
-  "2023-11-27": 31773,
-  "2023-11-28": 31773,
-  "2023-11-29": 31773,
-  "2023-11-30": 31773,
-  "2023-12-01": 31773,
-  "2023-12-02": 31773,
-  "2023-12-03": 31773,
-  "2023-12-04": 31773,
-  "2023-12-05": 31773,
-  "2023-12-06": 31773,
-  "2023-12-07": 31773,
-  "2023-12-08": 31773,
-  "2023-12-09": 31773,
-  "2023-12-10": 31773,
-  "2023-12-11": 31773,
-  "2023-12-12": 31773,
-  "2023-12-13": 31773,
-  "2023-12-14": 32136,
-  "2023-12-15": 32148,
-  "2023-12-16": 32155,
-  "2023-12-17": 32166,
-  "2023-12-18": 32168,
-  "2023-12-19": 32172,
-  "2023-12-20": 32181,
-  "2023-12-21": 32183,
-  "2023-12-22": 32197,
-  "2023-12-23": 32204,
-  "2023-12-24": 32212,
-  "2023-12-25": 32217,
-  "2023-12-26": 32228,
-  "2023-12-27": 32238,
-  "2023-12-30": 32274,
-  "2023-12-31": 32284,
-  "2024-01-01": 32295,
-  "2024-01-02": 32308,
-  "2024-01-03": 32322
+  "2024-01-17": 32513,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
+  "name": "This Is Shane & Shane",
+  "tracks": [
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239857,
+      "name": "All Creatures (Sing the Harmony) - Live",
+      "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/1kRMXRlSPVnxvUv0EF8qwx"
+    },
+    {
+      "album": {
+        "name": "All Sufficient Merit (Live)",
+        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256379,
+      "name": "As the Deer",
+      "url": "https://open.spotify.com/track/2G83Bi2pnml8ZEskoheM0Y"
+    },
+    {
+      "album": {
+        "name": "Psalms from the Well",
+        "url": "https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Writers Well",
+          "url": "https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Mac Hays",
+          "url": "https://open.spotify.com/artist/76Pz0rXi6Hld2VW4gSdniI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Awake My Soul (Psalm 57)",
+      "url": "https://open.spotify.com/track/1fwc9pmEsXyuCH0Pt3iAck"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171062,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/1lMG8zOEc89JkZRuPhft7Y"
+    },
+    {
+      "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253406,
+      "name": "Be Thou My Vision (Lord You Are) [Acoustic]",
+      "url": "https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342625,
+      "name": "Before the Throne of God Above",
+      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 20",
+        "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 305054,
+      "name": "Behold The Lamb",
+      "url": "https://open.spotify.com/track/2L6oInj5KFDnxQs9cUIS6Q"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338422,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 20",
+        "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271267,
+      "name": "Christ Our Hope In Life And Death",
+      "url": "https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 12",
+        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275477,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351718,
+      "name": "Come Thou Fount (Above All Else)",
+      "url": "https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354666,
+      "name": "Draw Me Close",
+      "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282681,
+      "name": "Give Me Jesus",
+      "url": "https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 12",
+        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261182,
+      "name": "Great I Am",
+      "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 18",
+        "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 289742,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/7p00s4Ck6FW4cXMTkCZbah"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "He Is Exalted",
+      "url": "https://open.spotify.com/track/1hVqIbX3UyHC5gKb8rR6Xw"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282041,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 9",
+        "url": "https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306806,
+      "name": "Heart of Worship",
+      "url": "https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I"
+    },
+    {
+      "album": {
+        "name": "Worship in The Word, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 274697,
+      "name": "Help Me Live in Step - Live",
+      "url": "https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM"
+    },
+    {
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286851,
+      "name": "His Mercy Is More (Live)",
+      "url": "https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294386,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290682,
+      "name": "How He Loves Us",
+      "url": "https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261229,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem"
+    },
+    {
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378076,
+      "name": "I Will Wait for You (Psalm 130) [Live]",
+      "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276344,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/5fPwGIyhL82FEuX3ITXyuX"
+    },
+    {
+      "album": {
+        "name": "Hymns Live",
+        "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293802,
+      "name": "Is He Worthy (Live)",
+      "url": "https://open.spotify.com/track/2biU8EO9TFZ6lMz8q6A92W"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 5",
+        "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228330,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196022,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/7GyF1KwnX5YBxPw2gjbfOd"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 1",
+        "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 279973,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 345569,
+      "name": "My Portion",
+      "url": "https://open.spotify.com/track/4dEmWwUAXMKMyOkITc6N8L"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 352629,
+      "name": "My Portion - Live",
+      "url": "https://open.spotify.com/track/3mwWdYeDIXIN6tSLhU7EOf"
+    },
+    {
+      "album": {
+        "name": "O for a Thousand Tongues to Sing",
+        "url": "https://open.spotify.com/album/0pulAd7U6v0q0uUsXjcqYx"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "O for a Thousand Tongues to Sing",
+      "url": "https://open.spotify.com/track/1QVSsndsS0mi29RrT33f88"
+    },
+    {
+      "album": {
+        "name": "Psalms Live",
+        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292379,
+      "name": "O Praise the Name (Live)",
+      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
+    },
+    {
+      "album": {
+        "name": "Dare 2 Share - Unending Worship",
+        "url": "https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Our God Is Greater",
+      "url": "https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 22",
+        "url": "https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Trenton Bell",
+          "url": "https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301743,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "Psalm 23 (Surely Goodness, Surely Mercy)",
+      "url": "https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326652,
+      "name": "Psalm 34 (Taste and See)",
+      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
+    },
+    {
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325849,
+      "name": "Psalm 45 (Fairest of All)",
+      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302817,
+      "name": "Psalm 46 (Lord of Hosts)",
+      "url": "https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322753,
+      "name": "Psalm 8 (How Majestic Is Your Name)",
+      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302556,
+      "name": "Psalm 84 (I'm Home)",
+      "url": "https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315007,
+      "name": "Psalm 90 (Satisfy Us with Your Love)",
+      "url": "https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244639,
+      "name": "Psalm 91 (On Eagles' Wings)",
+      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348534,
+      "name": "Sovereign Over Us",
+      "url": "https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 261767,
+      "name": "Tell the Story (Psalm 8) - Live",
+      "url": "https://open.spotify.com/track/1sUB2adev4A2MPZaEFzsUk"
+    },
+    {
+      "album": {
+        "name": "Worship in The Word (Live)",
+        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 326273,
+      "name": "Tell the Story (Psalm 8) - Live",
+      "url": "https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 1",
+        "url": "https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371621,
+      "name": "The Lord Is My Salvation",
+      "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
+    },
+    {
+      "album": {
+        "name": "Bring Your Nothing",
+        "url": "https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278706,
+      "name": "Though You Slay Me",
+      "url": "https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6"
+    },
+    {
+      "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290566,
+      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
+      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
+    },
+    {
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs (Live)",
+        "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 273848,
+      "name": "Unto Him (Jude 24-25) - Live",
+      "url": "https://open.spotify.com/track/3xlbN7RNiqrpMo4YCzUrkR"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 25 (Live)",
+        "url": "https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381773,
+      "name": "Worthy of It All - Live",
+      "url": "https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4"
+    },
+    {
+      "album": {
+        "name": "Psalms from the Well",
+        "url": "https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Writers Well",
+          "url": "https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Max Dasher",
+          "url": "https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298800,
+      "name": "Yahweh (Psalm 84)",
+      "url": "https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 18",
+        "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Bethany Barnard",
+          "url": "https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352086,
+      "name": "Yet Not I but Through Christ in Me",
+      "url": "https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh"
+    },
+    {
+      "album": {
+        "name": "Worship in The Word (Live)",
+        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 208126,
+      "name": "You Know Everything (Psalm 139) - Live",
+      "url": "https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY"
+    },
+    {
+      "album": {
+        "name": "The Worship Initiative, Vol. 7",
+        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337954,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
+    },
+    {
+      "album": {
+        "name": "You've Already Won (Live)",
+        "url": "https://open.spotify.com/album/6EuY8HCOHsh4zV5Vukjgq3"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 377093,
+      "name": "You've Already Won - Live",
+      "url": "https://open.spotify.com/track/2DGndHnQPQo5ngrAwbEunV"
+    },
+    {
+      "album": {
+        "name": "You've Already Won (Radio Version)",
+        "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262540,
+      "name": "You've Already Won - Radio Version",
+      "url": "https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AOEo0"
 }

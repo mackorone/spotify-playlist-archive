@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-267 songs - 13 hr 22 min
+269 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Grenade](https://open.spotify.com/track/2vmsMQmSLSoZodKWYyuZrv) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Grenade](https://open.spotify.com/album/0aY7FDYkSzL2eT6Z4iFvZB) | 2:23 | 2023-05-05 |  |
 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 | 2022-05-20 | 2023-05-05 |
 | [Hang with me](https://open.spotify.com/track/2czKMSrneOvVEOf2siVEiq) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Hang with me](https://open.spotify.com/album/6FlFjvvHYpeFPDnNqkkowH) | 3:02 | 2023-03-17 | 2023-06-03 |
+| [Have I Told You Lately](https://open.spotify.com/track/7giDF8my2xaJIbyc7aWZhh) | [Ned Michaels](https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v) | [Have I Told You Lately](https://open.spotify.com/album/1AA75iErptW1VsXWGNvVS8) | 2:57 | 2024-01-05 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5NP4t2zPbqoOzeNDZWmE8U) | [Blake Wright](https://open.spotify.com/artist/3xmWhMwY31kqIzejidLlt8) | [Have You Ever Seen The Rain](https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu) | 2:25 | 2022-12-02 |  |
 | [Heart Of Gold](https://open.spotify.com/track/4F9OMPxtu1imufP9PRJMDs) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [Heart Of Gold](https://open.spotify.com/album/3TgtFNT15QX2cM7SrSxkkg) | 2:33 | 2023-12-08 |  |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/3ViX2a4RmIXOM0z3aeaxMc) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/4xLyBp6kJNpFjYP1OaLXlK) | 4:08 | 2023-03-17 |  |
@@ -221,6 +222,7 @@
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-05-05 |  |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |
+| [The Path of the Wind](https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [The Path of the Wind](https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ) | 1:42 | 2024-01-05 |  |
 | [The River](https://open.spotify.com/track/3PRRa4dwDkFCy9eSkJ9uDe) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [The River](https://open.spotify.com/album/4ANtz0euMNdAZS1NBXKf9E) | 2:25 | 2023-11-17 |  |
 | [The Scientist](https://open.spotify.com/track/0G5GJAPyg9f1jEn2BYay1r) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 3:07 | 2022-12-02 | 2023-06-03 |
 | [The Sound of Silence](https://open.spotify.com/track/6LwO9pzd8TTZ5SIUnmG5N9) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [The Sound of Silence](https://open.spotify.com/album/3Fa9MpSoql0TJLTYRuNK9p) | 2:33 | 2022-12-23 | 2023-08-11 |

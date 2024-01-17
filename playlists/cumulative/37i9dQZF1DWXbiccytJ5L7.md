@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-120 songs - 6 hr 37 min
+121 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cheatham County](https://open.spotify.com/track/29ad3oJC56R3hFO9XKSDgb) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Cheatham County](https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4) | 2:47 | 2023-03-17 |  |
 | [Chop An Axe](https://open.spotify.com/track/2pxzoKcBWd7rqrL63dnyqS) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/6FKwrKJ0Um0vgctjndxLNF) | 2:33 | 2023-04-21 |  |
 | [Chop An Axe](https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Chop An Axe](https://open.spotify.com/album/7xF5E4uHp1lOUXJFdTcBrb) | 2:33 | 2023-03-17 | 2023-05-18 |
+| [Cobain](https://open.spotify.com/track/5QCEu7LvgqZwQW1UbkLBYj) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j), [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Cobain](https://open.spotify.com/album/0PnNVejKg9bbz5uBi41K2A) | 2:17 | 2024-01-12 |  |
 | [Confetti](https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg) | 2:03 | 2023-04-21 |  |
 | [Confetti](https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv) | 2:03 | 2023-03-17 | 2023-05-19 |
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2023-03-17 |  |

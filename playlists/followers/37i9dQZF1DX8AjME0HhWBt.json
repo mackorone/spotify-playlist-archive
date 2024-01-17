@@ -1,732 +1,999 @@
 {
-  "2021-12-28": 80837,
-  "2021-12-29": 80876,
-  "2021-12-30": 80907,
-  "2021-12-31": 80953,
-  "2022-01-01": 81064,
-  "2022-01-02": 81080,
-  "2022-01-03": 81112,
-  "2022-01-04": 81150,
-  "2022-01-05": 81183,
-  "2022-01-06": 81213,
-  "2022-01-07": 81250,
-  "2022-01-08": 81349,
-  "2022-01-09": 81351,
-  "2022-01-10": 81394,
-  "2022-01-11": 81437,
-  "2022-01-12": 81473,
-  "2022-01-13": 81513,
-  "2022-01-14": 81554,
-  "2022-01-15": 81664,
-  "2022-01-16": 81670,
-  "2022-01-17": 81772,
-  "2022-01-18": 81773,
-  "2022-01-19": 81783,
-  "2022-01-20": 81814,
-  "2022-01-21": 81849,
-  "2022-01-22": 81881,
-  "2022-01-23": 81924,
-  "2022-01-24": 81967,
-  "2022-01-25": 81997,
-  "2022-01-26": 82042,
-  "2022-01-27": 82083,
-  "2022-01-28": 82119,
-  "2022-01-29": 82163,
-  "2022-01-30": 82208,
-  "2022-01-31": 82241,
-  "2022-02-01": 82265,
-  "2022-02-02": 82311,
-  "2022-02-03": 82335,
-  "2022-02-04": 82367,
-  "2022-02-05": 82398,
-  "2022-02-06": 82428,
-  "2022-02-07": 82465,
-  "2022-02-08": 82500,
-  "2022-02-09": 82530,
-  "2022-02-10": 82549,
-  "2022-02-11": 82578,
-  "2022-02-12": 82608,
-  "2022-02-13": 82638,
-  "2022-02-14": 82661,
-  "2022-02-15": 82673,
-  "2022-02-16": 82685,
-  "2022-02-17": 82700,
-  "2022-02-18": 82726,
-  "2022-02-19": 82749,
-  "2022-02-20": 82775,
-  "2022-02-21": 82800,
-  "2022-02-22": 82815,
-  "2022-02-23": 82827,
-  "2022-02-24": 82849,
-  "2022-02-25": 82862,
-  "2022-02-26": 82883,
-  "2022-02-27": 82943,
-  "2022-02-28": 82943,
-  "2022-03-01": 82964,
-  "2022-03-02": 82992,
-  "2022-03-03": 83009,
-  "2022-03-04": 83032,
-  "2022-03-05": 83050,
-  "2022-03-06": 83076,
-  "2022-03-07": 83091,
-  "2022-03-08": 83090,
-  "2022-03-09": 83094,
-  "2022-03-10": 83094,
-  "2022-03-11": 83112,
-  "2022-03-12": 83128,
-  "2022-03-13": 83142,
-  "2022-03-14": 83161,
-  "2022-03-15": 83180,
-  "2022-03-16": 83181,
-  "2022-03-17": 83184,
-  "2022-03-18": 83212,
-  "2022-03-19": 83224,
-  "2022-03-20": 83224,
-  "2022-03-21": 83242,
-  "2022-03-22": 83251,
-  "2022-03-23": 83267,
-  "2022-03-24": 83284,
-  "2022-03-25": 83291,
-  "2022-03-26": 83297,
-  "2022-03-27": 83312,
-  "2022-03-28": 83327,
-  "2022-03-30": 83338,
-  "2022-03-31": 83349,
-  "2022-04-01": 83356,
-  "2022-04-02": 83368,
-  "2022-04-03": 83382,
-  "2022-04-04": 83395,
-  "2022-04-05": 83402,
-  "2022-04-06": 83409,
-  "2022-04-07": 83420,
-  "2022-04-08": 83433,
-  "2022-04-09": 83446,
-  "2022-04-10": 83472,
-  "2022-04-11": 83480,
-  "2022-04-12": 83478,
-  "2022-04-13": 83492,
-  "2022-04-14": 83508,
-  "2022-04-15": 83532,
-  "2022-04-16": 83550,
-  "2022-04-17": 83563,
-  "2022-04-18": 83583,
-  "2022-04-19": 83589,
-  "2022-04-20": 83596,
-  "2022-04-21": 83614,
-  "2022-04-22": 83627,
-  "2022-04-23": 83636,
-  "2022-04-24": 83657,
-  "2022-04-25": 83667,
-  "2022-04-26": 83672,
-  "2022-04-27": 83691,
-  "2022-04-28": 83683,
-  "2022-04-29": 83706,
-  "2022-04-30": 83721,
-  "2022-05-01": 83737,
-  "2022-05-02": 83737,
-  "2022-05-03": 83753,
-  "2022-05-04": 83752,
-  "2022-05-05": 83757,
-  "2022-05-06": 83775,
-  "2022-05-07": 83794,
-  "2022-05-08": 83826,
-  "2022-05-09": 83830,
-  "2022-05-10": 83851,
-  "2022-05-11": 83862,
-  "2022-05-12": 83877,
-  "2022-05-13": 83887,
-  "2022-05-14": 83907,
-  "2022-05-15": 83930,
-  "2022-05-16": 83948,
-  "2022-05-17": 83955,
-  "2022-05-18": 83964,
-  "2022-05-19": 83971,
-  "2022-05-20": 83991,
-  "2022-05-21": 84024,
-  "2022-05-22": 84024,
-  "2022-05-23": 84033,
-  "2022-05-24": 84045,
-  "2022-05-25": 84066,
-  "2022-05-26": 84073,
-  "2022-05-27": 84079,
-  "2022-05-28": 84097,
-  "2022-05-29": 84108,
-  "2022-05-30": 84117,
-  "2022-05-31": 84126,
-  "2022-06-01": 84142,
-  "2022-06-02": 84142,
-  "2022-06-03": 84149,
-  "2022-06-04": 84163,
-  "2022-06-05": 84179,
-  "2022-06-06": 84207,
-  "2022-06-07": 84221,
-  "2022-06-08": 84238,
-  "2022-06-09": 84244,
-  "2022-06-10": 84252,
-  "2022-06-11": 84258,
-  "2022-06-12": 84274,
-  "2022-06-13": 84277,
-  "2022-06-14": 84282,
-  "2022-06-15": 84305,
-  "2022-06-16": 84313,
-  "2022-06-17": 84329,
-  "2022-06-18": 84344,
-  "2022-06-19": 84369,
-  "2022-06-20": 84369,
-  "2022-06-21": 84376,
-  "2022-06-22": 84401,
-  "2022-06-23": 84401,
-  "2022-06-24": 84420,
-  "2022-06-25": 84441,
-  "2022-06-26": 84450,
-  "2022-06-27": 84465,
-  "2022-06-28": 84476,
-  "2022-06-29": 84486,
-  "2022-06-30": 84501,
-  "2022-07-01": 84513,
-  "2022-07-02": 84525,
-  "2022-07-03": 84537,
-  "2022-07-04": 84544,
-  "2022-07-05": 84552,
-  "2022-07-06": 84553,
-  "2022-07-07": 84564,
-  "2022-07-08": 84578,
-  "2022-07-09": 84587,
-  "2022-07-10": 84600,
-  "2022-07-11": 84619,
-  "2022-07-12": 84630,
-  "2022-07-13": 84638,
-  "2022-07-14": 84658,
-  "2022-07-15": 84673,
-  "2022-07-16": 84696,
-  "2022-07-17": 84717,
-  "2022-07-18": 84729,
-  "2022-07-19": 84730,
-  "2022-07-20": 84746,
-  "2022-07-21": 84759,
-  "2022-07-22": 84773,
-  "2022-07-23": 84792,
-  "2022-07-24": 84812,
-  "2022-07-25": 84831,
-  "2022-07-26": 84842,
-  "2022-07-27": 84872,
-  "2022-07-28": 84891,
-  "2022-07-29": 84901,
-  "2022-07-30": 84925,
-  "2022-07-31": 84925,
-  "2022-08-01": 84940,
-  "2022-08-02": 84965,
-  "2022-08-03": 84965,
-  "2022-08-04": 84982,
-  "2022-08-05": 84998,
-  "2022-08-06": 85009,
-  "2022-08-07": 85023,
-  "2022-08-08": 85038,
-  "2022-08-09": 85056,
-  "2022-08-10": 85077,
-  "2022-08-11": 85093,
-  "2022-08-12": 85115,
-  "2022-08-13": 85140,
-  "2022-08-14": 85160,
-  "2022-08-15": 85182,
-  "2022-08-16": 85192,
-  "2022-08-17": 85208,
-  "2022-08-18": 85216,
-  "2022-08-19": 85228,
-  "2022-08-20": 85244,
-  "2022-08-21": 85272,
-  "2022-08-22": 85292,
-  "2022-08-23": 85310,
-  "2022-08-24": 85324,
-  "2022-08-25": 85340,
-  "2022-08-26": 85361,
-  "2022-08-27": 85385,
-  "2022-08-28": 85410,
-  "2022-08-29": 85424,
-  "2022-08-30": 85434,
-  "2022-08-31": 85455,
-  "2022-09-01": 85462,
-  "2022-09-02": 85477,
-  "2022-09-03": 85492,
-  "2022-09-04": 85503,
-  "2022-09-05": 85531,
-  "2022-09-06": 85540,
-  "2022-09-07": 85552,
-  "2022-09-09": 85598,
-  "2022-09-10": 85618,
-  "2022-09-11": 85640,
-  "2022-09-12": 85655,
-  "2022-09-13": 85676,
-  "2022-09-15": 85714,
-  "2022-09-16": 85743,
-  "2022-09-17": 85764,
-  "2022-09-18": 85788,
-  "2022-09-19": 85817,
-  "2022-09-20": 85848,
-  "2022-09-21": 85866,
-  "2022-09-22": 85904,
-  "2022-09-23": 85937,
-  "2022-09-24": 85973,
-  "2022-09-25": 86012,
-  "2022-09-26": 86034,
-  "2022-09-27": 86064,
-  "2022-09-28": 86091,
-  "2022-09-29": 86116,
-  "2022-09-30": 86145,
-  "2022-10-01": 86185,
-  "2022-10-02": 86240,
-  "2022-10-03": 86264,
-  "2022-10-04": 86292,
-  "2022-10-05": 86330,
-  "2022-10-06": 86357,
-  "2022-10-07": 86400,
-  "2022-10-08": 86451,
-  "2022-10-09": 86502,
-  "2022-10-10": 86513,
-  "2022-10-11": 86534,
-  "2022-10-12": 86561,
-  "2022-10-13": 86588,
-  "2022-10-14": 86604,
-  "2022-10-15": 86629,
-  "2022-10-16": 86654,
-  "2022-10-17": 86684,
-  "2022-10-18": 86693,
-  "2022-10-19": 86712,
-  "2022-10-20": 86739,
-  "2022-10-21": 86756,
-  "2022-10-22": 86782,
-  "2022-10-23": 86814,
-  "2022-10-24": 86840,
-  "2022-10-25": 86852,
-  "2022-10-26": 86872,
-  "2022-10-27": 86899,
-  "2022-10-28": 86926,
-  "2022-10-29": 86948,
-  "2022-10-30": 86993,
-  "2022-10-31": 87033,
-  "2022-11-01": 87052,
-  "2022-11-02": 87080,
-  "2022-11-03": 87111,
-  "2022-11-04": 87137,
-  "2022-11-05": 87161,
-  "2022-11-06": 87206,
-  "2022-11-07": 87237,
-  "2022-11-08": 87256,
-  "2022-11-09": 87274,
-  "2022-11-10": 87286,
-  "2022-11-11": 87306,
-  "2022-11-12": 87332,
-  "2022-11-13": 87351,
-  "2022-11-14": 87372,
-  "2022-11-15": 87393,
-  "2022-11-16": 87415,
-  "2022-11-17": 87440,
-  "2022-11-18": 87441,
-  "2022-11-19": 87448,
-  "2022-11-20": 87481,
-  "2022-11-21": 87510,
-  "2022-11-22": 87544,
-  "2022-11-23": 87573,
-  "2022-11-24": 87617,
-  "2022-11-25": 87655,
-  "2022-11-26": 87688,
-  "2022-11-27": 87702,
-  "2022-11-28": 87717,
-  "2022-11-29": 87745,
-  "2022-11-30": 87780,
-  "2022-12-01": 87804,
-  "2022-12-02": 87822,
-  "2022-12-03": 87859,
-  "2022-12-04": 87885,
-  "2022-12-05": 87918,
-  "2022-12-06": 87942,
-  "2022-12-07": 87964,
-  "2022-12-08": 88003,
-  "2022-12-09": 88050,
-  "2022-12-10": 88077,
-  "2022-12-11": 88115,
-  "2022-12-12": 88149,
-  "2022-12-13": 88189,
-  "2022-12-14": 88214,
-  "2022-12-15": 88246,
-  "2022-12-16": 88290,
-  "2022-12-17": 88326,
-  "2022-12-18": 88359,
-  "2022-12-19": 88378,
-  "2022-12-20": 88436,
-  "2022-12-21": 88436,
-  "2022-12-22": 88479,
-  "2022-12-24": 88568,
-  "2022-12-25": 88612,
-  "2022-12-26": 88655,
-  "2022-12-27": 88701,
-  "2022-12-28": 88744,
-  "2022-12-29": 88782,
-  "2022-12-30": 88836,
-  "2022-12-31": 88920,
-  "2023-01-01": 88971,
-  "2023-01-02": 89028,
-  "2023-01-03": 89076,
-  "2023-01-04": 89123,
-  "2023-01-05": 89168,
-  "2023-01-06": 89211,
-  "2023-01-07": 89310,
-  "2023-01-08": 89323,
-  "2023-01-09": 89378,
-  "2023-01-10": 89426,
-  "2023-01-11": 89473,
-  "2023-01-12": 89515,
-  "2023-01-13": 89559,
-  "2023-01-14": 89656,
-  "2023-01-15": 89665,
-  "2023-01-16": 89710,
-  "2023-01-17": 89747,
-  "2023-01-18": 89780,
-  "2023-01-19": 89817,
-  "2023-01-20": 89858,
-  "2023-01-21": 89899,
-  "2023-01-22": 89953,
-  "2023-01-23": 90000,
-  "2023-01-24": 90030,
-  "2023-01-25": 90069,
-  "2023-01-26": 90088,
-  "2023-01-27": 90114,
-  "2023-01-28": 90145,
-  "2023-01-29": 90177,
-  "2023-01-30": 90208,
-  "2023-01-31": 90208,
-  "2023-02-01": 90262,
-  "2023-02-02": 90298,
-  "2023-02-03": 90324,
-  "2023-02-04": 90353,
-  "2023-02-05": 90392,
-  "2023-02-06": 90434,
-  "2023-02-07": 90457,
-  "2023-02-08": 90518,
-  "2023-02-09": 90518,
-  "2023-02-10": 90549,
-  "2023-02-11": 90578,
-  "2023-02-12": 90623,
-  "2023-02-13": 90648,
-  "2023-02-14": 90648,
-  "2023-02-15": 90666,
-  "2023-02-16": 90699,
-  "2023-02-17": 90728,
-  "2023-02-18": 90806,
-  "2023-02-19": 90813,
-  "2023-02-20": 90837,
-  "2023-02-21": 90868,
-  "2023-02-22": 90900,
-  "2023-02-23": 90941,
-  "2023-02-24": 90970,
-  "2023-02-25": 90998,
-  "2023-02-26": 91028,
-  "2023-02-27": 91077,
-  "2023-02-28": 91077,
-  "2023-03-01": 91105,
-  "2023-03-02": 91129,
-  "2023-03-03": 91155,
-  "2023-03-04": 91172,
-  "2023-03-05": 91228,
-  "2023-03-06": 91228,
-  "2023-03-07": 91251,
-  "2023-03-08": 91270,
-  "2023-03-09": 91291,
-  "2023-03-10": 91298,
-  "2023-03-11": 91317,
-  "2023-03-12": 91336,
-  "2023-03-13": 91357,
-  "2023-03-14": 91375,
-  "2023-03-15": 91386,
-  "2023-03-16": 91400,
-  "2023-03-17": 91400,
-  "2023-03-18": 91427,
-  "2023-03-19": 91445,
-  "2023-03-20": 91461,
-  "2023-03-21": 91476,
-  "2023-03-22": 91495,
-  "2023-03-23": 91507,
-  "2023-03-24": 91507,
-  "2023-03-25": 91535,
-  "2023-03-26": 91559,
-  "2023-03-27": 91579,
-  "2023-03-28": 91580,
-  "2023-03-29": 91599,
-  "2023-03-30": 91625,
-  "2023-03-31": 91625,
-  "2023-04-01": 91650,
-  "2023-04-02": 91673,
-  "2023-04-03": 91689,
-  "2023-04-04": 91695,
-  "2023-04-05": 91712,
-  "2023-04-06": 91722,
-  "2023-04-07": 91737,
-  "2023-04-09": 91774,
-  "2023-04-10": 91807,
-  "2023-04-11": 91834,
-  "2023-04-12": 91834,
-  "2023-04-13": 91841,
-  "2023-04-14": 91846,
-  "2023-04-15": 91860,
-  "2023-04-16": 91879,
-  "2023-04-17": 91887,
-  "2023-04-18": 91900,
-  "2023-04-19": 91914,
-  "2023-04-20": 91921,
-  "2023-04-21": 91938,
-  "2023-04-22": 91959,
-  "2023-04-23": 91969,
-  "2023-04-24": 91979,
-  "2023-04-25": 91992,
-  "2023-04-26": 92003,
-  "2023-04-27": 92016,
-  "2023-04-28": 92041,
-  "2023-04-29": 92049,
-  "2023-04-30": 92061,
-  "2023-05-01": 92066,
-  "2023-05-02": 92076,
-  "2023-05-03": 92079,
-  "2023-05-04": 92090,
-  "2023-05-05": 92100,
-  "2023-05-06": 92114,
-  "2023-05-07": 92124,
-  "2023-05-08": 92131,
-  "2023-05-09": 92139,
-  "2023-05-10": 92152,
-  "2023-05-11": 92161,
-  "2023-05-12": 92170,
-  "2023-05-13": 92188,
-  "2023-05-14": 92207,
-  "2023-05-15": 92221,
-  "2023-05-16": 92234,
-  "2023-05-17": 92249,
-  "2023-05-18": 92264,
-  "2023-05-19": 92287,
-  "2023-05-20": 92313,
-  "2023-05-21": 92313,
-  "2023-05-22": 92313,
-  "2023-05-23": 92335,
-  "2023-05-24": 92362,
-  "2023-05-25": 92369,
-  "2023-05-26": 92377,
-  "2023-05-27": 92388,
-  "2023-05-28": 92408,
-  "2023-05-29": 92408,
-  "2023-05-30": 92423,
-  "2023-05-31": 92438,
-  "2023-06-01": 92445,
-  "2023-06-02": 92446,
-  "2023-06-03": 92467,
-  "2023-06-04": 92473,
-  "2023-06-05": 92473,
-  "2023-06-06": 92481,
-  "2023-06-07": 92485,
-  "2023-06-08": 92499,
-  "2023-06-09": 92519,
-  "2023-06-10": 92534,
-  "2023-06-11": 92538,
-  "2023-06-12": 92543,
-  "2023-06-13": 92553,
-  "2023-06-14": 92553,
-  "2023-06-15": 92562,
-  "2023-06-16": 92568,
-  "2023-06-17": 92568,
-  "2023-06-18": 92568,
-  "2023-06-19": 92568,
-  "2023-06-20": 92568,
-  "2023-06-21": 92568,
-  "2023-06-22": 92568,
-  "2023-06-23": 92568,
-  "2023-06-24": 92568,
-  "2023-06-25": 92568,
-  "2023-06-26": 92568,
-  "2023-06-27": 92568,
-  "2023-06-28": 92568,
-  "2023-06-29": 92568,
-  "2023-06-30": 92568,
-  "2023-07-01": 92568,
-  "2023-07-02": 92568,
-  "2023-07-03": 92568,
-  "2023-07-04": 92568,
-  "2023-07-05": 92568,
-  "2023-07-06": 92568,
-  "2023-07-07": 92568,
-  "2023-07-08": 92568,
-  "2023-07-09": 92568,
-  "2023-07-10": 92568,
-  "2023-07-11": 92568,
-  "2023-07-12": 92568,
-  "2023-07-13": 92568,
-  "2023-07-14": 92568,
-  "2023-07-15": 92568,
-  "2023-07-16": 92568,
-  "2023-07-17": 92568,
-  "2023-07-18": 92568,
-  "2023-07-19": 92568,
-  "2023-07-20": 92568,
-  "2023-07-21": 92568,
-  "2023-07-22": 92568,
-  "2023-07-23": 92568,
-  "2023-07-24": 92568,
-  "2023-07-25": 92568,
-  "2023-07-26": 92568,
-  "2023-07-27": 92568,
-  "2023-07-28": 92568,
-  "2023-07-29": 92568,
-  "2023-07-30": 92568,
-  "2023-07-31": 92568,
-  "2023-08-01": 92568,
-  "2023-08-02": 92568,
-  "2023-08-03": 92568,
-  "2023-08-04": 92568,
-  "2023-08-05": 92568,
-  "2023-08-06": 92568,
-  "2023-08-07": 92568,
-  "2023-08-08": 92568,
-  "2023-08-09": 92568,
-  "2023-08-10": 92568,
-  "2023-08-11": 92568,
-  "2023-08-12": 92568,
-  "2023-08-13": 92568,
-  "2023-08-14": 92568,
-  "2023-08-15": 92568,
-  "2023-08-16": 92568,
-  "2023-08-17": 92568,
-  "2023-08-18": 92568,
-  "2023-08-19": 92568,
-  "2023-08-20": 92568,
-  "2023-08-21": 92568,
-  "2023-08-22": 92568,
-  "2023-08-23": 92568,
-  "2023-08-24": 92568,
-  "2023-08-25": 92568,
-  "2023-08-26": 92568,
-  "2023-08-27": 92568,
-  "2023-08-28": 92568,
-  "2023-08-29": 92568,
-  "2023-08-30": 92568,
-  "2023-08-31": 92568,
-  "2023-09-01": 92568,
-  "2023-09-02": 92568,
-  "2023-09-03": 92568,
-  "2023-09-04": 92568,
-  "2023-09-05": 92568,
-  "2023-09-06": 92568,
-  "2023-09-07": 92568,
-  "2023-09-08": 92568,
-  "2023-09-09": 92568,
-  "2023-09-10": 92568,
-  "2023-09-11": 92568,
-  "2023-09-12": 92568,
-  "2023-09-13": 92568,
-  "2023-09-14": 92568,
-  "2023-09-15": 92568,
-  "2023-09-16": 92568,
-  "2023-09-17": 92568,
-  "2023-09-18": 92568,
-  "2023-09-19": 92568,
-  "2023-09-20": 92568,
-  "2023-09-21": 92568,
-  "2023-09-22": 92568,
-  "2023-09-23": 92568,
-  "2023-09-24": 92568,
-  "2023-09-25": 92568,
-  "2023-09-26": 92568,
-  "2023-09-27": 92568,
-  "2023-09-28": 92568,
-  "2023-09-29": 92568,
-  "2023-09-30": 92568,
-  "2023-10-01": 92568,
-  "2023-10-02": 92568,
-  "2023-10-03": 92568,
-  "2023-10-04": 92568,
-  "2023-10-05": 92568,
-  "2023-10-06": 92568,
-  "2023-10-07": 92568,
-  "2023-10-08": 92568,
-  "2023-10-09": 92568,
-  "2023-10-10": 92568,
-  "2023-10-11": 92568,
-  "2023-10-12": 92568,
-  "2023-10-13": 92568,
-  "2023-10-14": 92568,
-  "2023-10-15": 92568,
-  "2023-10-16": 92568,
-  "2023-10-17": 92568,
-  "2023-10-18": 92568,
-  "2023-10-19": 92568,
-  "2023-10-20": 92568,
-  "2023-10-21": 92568,
-  "2023-10-22": 92568,
-  "2023-10-23": 92568,
-  "2023-10-24": 92568,
-  "2023-10-25": 92568,
-  "2023-10-26": 92568,
-  "2023-10-27": 92568,
-  "2023-10-28": 92568,
-  "2023-10-29": 92568,
-  "2023-10-30": 92568,
-  "2023-10-31": 92568,
-  "2023-11-01": 92568,
-  "2023-11-02": 92568,
-  "2023-11-03": 92568,
-  "2023-11-04": 92568,
-  "2023-11-05": 92568,
-  "2023-11-06": 92568,
-  "2023-11-07": 92568,
-  "2023-11-08": 92568,
-  "2023-11-09": 92568,
-  "2023-11-10": 92568,
-  "2023-11-11": 92568,
-  "2023-11-12": 92568,
-  "2023-11-13": 92568,
-  "2023-11-14": 92568,
-  "2023-11-15": 92568,
-  "2023-11-16": 92568,
-  "2023-11-17": 92568,
-  "2023-11-18": 92568,
-  "2023-11-19": 92568,
-  "2023-11-20": 92568,
-  "2023-11-21": 92568,
-  "2023-11-22": 92568,
-  "2023-11-23": 92568,
-  "2023-11-24": 92568,
-  "2023-11-25": 92568,
-  "2023-11-26": 92568,
-  "2023-11-27": 92568,
-  "2023-11-28": 92568,
-  "2023-11-29": 92568,
-  "2023-11-30": 92568,
-  "2023-12-01": 92568,
-  "2023-12-02": 92568,
-  "2023-12-03": 92568,
-  "2023-12-04": 92568,
-  "2023-12-05": 92568,
-  "2023-12-06": 92568,
-  "2023-12-07": 92568,
-  "2023-12-08": 92568,
-  "2023-12-09": 92568,
-  "2023-12-10": 92568,
-  "2023-12-11": 92568,
-  "2023-12-12": 92568,
-  "2023-12-13": 92568,
-  "2023-12-14": 92568,
-  "2023-12-15": 92568,
-  "2023-12-16": 92568,
-  "2023-12-17": 92568,
-  "2023-12-18": 92568,
-  "2023-12-19": 92568,
-  "2023-12-20": 92568,
-  "2023-12-21": 92568,
-  "2023-12-22": 92568,
-  "2023-12-23": 92568,
-  "2023-12-24": 92568,
-  "2023-12-25": 92568,
-  "2023-12-26": 92568,
-  "2023-12-27": 92568,
-  "2023-12-30": 92568,
-  "2023-12-31": 92568,
-  "2024-01-01": 92568,
-  "2024-01-02": 92568,
-  "2024-01-03": 92568
+  "2024-01-17": 92568,
+  "date_first_scraped": "2021-12-28",
+  "description": "Disfruta toda la m\u00fasica de Rombai!",
+  "name": "This Is: Rombai",
+  "tracks": [
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182577,
+      "name": "2 Pa' 2",
+      "url": "https://open.spotify.com/track/4rKsZR2AI3kvvCP9DAFN1M"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Abrazame",
+      "url": "https://open.spotify.com/track/1n9hIe71hmoQKQpA7ClT9O"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Abrazame - Version Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1eimVE50IW5rjtGplhBT4Q"
+    },
+    {
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149812,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/6cwrN0Go9VBDFj4n7riKPU"
+    },
+    {
+      "album": {
+        "name": "Besarte",
+        "url": "https://open.spotify.com/album/1K9mpYF2LDuguAQk55h6W4"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179544,
+      "name": "Besarte",
+      "url": "https://open.spotify.com/track/6Ar0Rcqv4AMonCshpAIheB"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same (Remix)",
+        "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189510,
+      "name": "B\u00e9same - Remix",
+      "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144823,
+      "name": "CACHONDAX",
+      "url": "https://open.spotify.com/track/1InWKWQDrxa2nORGpkX0D0"
+    },
+    {
+      "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160783,
+      "name": "Curiosidad",
+      "url": "https://open.spotify.com/track/7pqVxvYvqMka8A92vUW9p9"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176503,
+      "name": "DIF\u00cdCIL",
+      "url": "https://open.spotify.com/track/6bAyAxWiNBzqLQogi6I140"
+    },
+    {
+      "album": {
+        "name": "DISTANCIA",
+        "url": "https://open.spotify.com/album/15zYwgMtafg7Uu3SwY2PyU"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149310,
+      "name": "DISTANCIA",
+      "url": "https://open.spotify.com/track/5QNeB6iBjDirQ7bqgfB5XP"
+    },
+    {
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216709,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
+    },
+    {
+      "album": {
+        "name": "Enamorao Total",
+        "url": "https://open.spotify.com/album/1omiuaEHZCvgEisT3VRHYs"
+      },
+      "artists": [
+        {
+          "name": "Nikki Mackliff",
+          "url": "https://open.spotify.com/artist/3xmukiHDMY7UkmqCtl8Eyu"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158399,
+      "name": "Enamorao Total",
+      "url": "https://open.spotify.com/track/6xnpkBUhIvcDSVbqJvYC2v"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Alvaro Apag\u00f3n",
+          "url": "https://open.spotify.com/artist/6JLmd0NOmDk2I5MdFBwMYh"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Enamorarnos No",
+      "url": "https://open.spotify.com/track/0vUUuWlWcJxtrcqxKcLW5C"
+    },
+    {
+      "album": {
+        "name": "Ganitas",
+        "url": "https://open.spotify.com/album/6dxj3w7guZu03ZiMNt2bJk"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Ganitas",
+      "url": "https://open.spotify.com/track/2O4ilW9fzFuy11r6Zt5P72"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Ganitas",
+      "url": "https://open.spotify.com/track/3ZJNAjfLsOrdocTDrlEYYV"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129442,
+      "name": "IMAGINATE",
+      "url": "https://open.spotify.com/track/0l5XvqUQ4tZHo95UsfiTbj"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146231,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/2jdb9uZtTF7bZuFDgi2sT1"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146740,
+      "name": "Ke tAL si NoS EsCApaMOs ?",
+      "url": "https://open.spotify.com/track/5LfPdiTd1BZyTzcZQocc36"
+    },
+    {
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+    },
+    {
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93400,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/0hGHFAyClFZ7TFFSLIcb6Q"
+    },
+    {
+      "album": {
+        "name": "Me Voy (Remix)",
+        "url": "https://open.spotify.com/album/0LSYvsOXAYkbTpkYfbUWyZ"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200633,
+      "name": "Me Voy - Remix",
+      "url": "https://open.spotify.com/track/1MGBV1Uj0sn2n6pNQOdCan"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "No llOreS m\u00e1s PoR \u00c9l",
+      "url": "https://open.spotify.com/track/2TDVgaXcHxAuNajFXdmNh4"
+    },
+    {
+      "album": {
+        "name": "No vas a cambiar",
+        "url": "https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154402,
+      "name": "No vas a cambiar",
+      "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/4pZ32dvFXW0PZD6ojA4Vri"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Olvida Ese Hombre",
+      "url": "https://open.spotify.com/track/1B4n454H1F5Hzn6IAHVL2t"
+    },
+    {
+      "album": {
+        "name": "Olvidate de Mi",
+        "url": "https://open.spotify.com/album/0yCeK4xylSq3GI5ysuBm3g"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "Olvidate de Mi",
+      "url": "https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154588,
+      "name": "pELigRoSo",
+      "url": "https://open.spotify.com/track/1l7TYXCytHPMqvBmR2Czw9"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146573,
+      "name": "Perd\u00ed Tu Amor",
+      "url": "https://open.spotify.com/track/0wYDNtnJnV9GDlg5DPkz7c"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "POSITIVO",
+      "url": "https://open.spotify.com/track/72NfY6CxWNQB4Ti6UoZmmK"
+    },
+    {
+      "album": {
+        "name": "Que Rico Baila",
+        "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178233,
+      "name": "Que Rico Baila",
+      "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156970,
+      "name": "Recon\u00f3celo",
+      "url": "https://open.spotify.com/track/3ViAKsQV3bxZR9xQz0et9S"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Reencuentro",
+      "url": "https://open.spotify.com/track/76YgA4rvOJillNjtpJvpf3"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163751,
+      "name": "Segundas Intenciones",
+      "url": "https://open.spotify.com/track/3bbNqaE6bgF5OMSz0t285P"
+    },
+    {
+      "album": {
+        "name": "Sent\u00ed el Sabor",
+        "url": "https://open.spotify.com/album/5yrii6Ut8ek3yHmmZhwLG9"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "Sent\u00ed el Sabor",
+      "url": "https://open.spotify.com/track/2TN5VueWaAxwkzHgmtDRMn"
+    },
+    {
+      "album": {
+        "name": "Si Me Tomo una Cerveza (Remix)",
+        "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237521,
+      "name": "Si Me Tomo una Cerveza - Remix",
+      "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135880,
+      "name": "SI T\u00da NO EST\u00c1S...",
+      "url": "https://open.spotify.com/track/1AbjdFxmu8sT3Ex17ZTTUE"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140495,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/78rcFJMlWNOufbxMk9fgHZ"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165024,
+      "name": "Te Extra\u00f1o :(",
+      "url": "https://open.spotify.com/track/5KBhWCtQNeghOSut1fnxRt"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o :( [[Lado B] - 001 Te Extra\u00f1o :( (Versi\u00f3n Ac\u00fastica)]",
+        "url": "https://open.spotify.com/album/5ccYgRi6j6TCmJC7AKMC3U"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187376,
+      "name": "Te Extra\u00f1o :( - [Lado B] - 001 Te Extra\u00f1o :( (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2hIMveQkWBfVoSnZmOfrP8"
+    },
+    {
+      "album": {
+        "name": "POSITIVO",
+        "url": "https://open.spotify.com/album/7ou9LKrsviR5Mmf6eoB3lp"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138702,
+      "name": "Te Va Doler",
+      "url": "https://open.spotify.com/track/5RFUe4JkcA6DyMB5VfVnVW"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160768,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/1cY0VTaJcTznfFQ44tNGdU"
+    },
+    {
+      "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/71mlOj56vndSW8GcB5Edfv"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199776,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT"
+    },
+    {
+      "album": {
+        "name": "Voy a Tomar",
+        "url": "https://open.spotify.com/album/7vKNPKtCY2o0jevnTs9EMx"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152449,
+      "name": "Voy a Tomar",
+      "url": "https://open.spotify.com/track/6DwFzfCgrnsC79Q0k52OD6"
+    },
+    {
+      "album": {
+        "name": "Ya Me Contaron",
+        "url": "https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 158788,
+      "name": "Ya Me Contaron",
+      "url": "https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx"
+    },
+    {
+      "album": {
+        "name": "Ya Me Contaron",
+        "url": "https://open.spotify.com/album/6wm12GSDilR8IlPZGSmo8A"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158788,
+      "name": "Ya Me Contaron",
+      "url": "https://open.spotify.com/track/70dc2zS1YS8YBeBGJLH3TA"
+    },
+    {
+      "album": {
+        "name": "De Fiesta (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160574,
+      "name": "Yo Tambien",
+      "url": "https://open.spotify.com/track/4tKTe9DxeL59oXydyBa3gA"
+    },
+    {
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150047,
+      "name": "Yo te propongo",
+      "url": "https://open.spotify.com/track/0YFoSD5VhoVrRbrnFERpVM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8AjME0HhWBt"
 }

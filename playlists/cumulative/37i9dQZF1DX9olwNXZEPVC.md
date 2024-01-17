@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-70 songs - 2 hr 18 min
+76 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,15 @@
 | [About Music](https://open.spotify.com/track/5qvdnTFa0JLQT4xQWqJzhs) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:18 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/0Q7eJJUCar0eX0AuZuP76e) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:23 | 2022-11-24 | 2023-08-07 |
 | [About NMIXX](https://open.spotify.com/track/2KzetNBtOhhqy9DE174LAp) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:23 | 2023-07-03 |  |
+| [BOOM](https://open.spotify.com/track/4UEXKi06Ykkx52mme7VvoH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:55 | 2024-01-15 |  |
+| [Break The Wall](https://open.spotify.com/track/1SmJafjGG3oM3sflmcZRXU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:24 | 2024-01-15 |  |
 | [Coming SOON!](https://open.spotify.com/track/2hUDKmh08dMdMMTBRt8ic9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 | 2023-07-03 |  |
 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 | 2022-11-24 | 2023-08-07 |
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/3D5t7S7W8BABJvA1SAIAHb) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-03-24 |  |
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2022-11-24 | 2023-06-07 |
 | [COOL \(Your rainbow\) \(Inst.\)](https://open.spotify.com/track/6TxvDCGRRXRpvtCuQkmglf) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:50 | 2023-03-24 |  |
 | [COOL \(Your rainbow\) \- Instrumental](https://open.spotify.com/track/3wFn8FZ5weDIl1xoYQtWxh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2022-11-24 | 2023-06-07 |
+| [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 |  |
 | [DICE](https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:45 | 2022-11-24 | 2023-06-07 |
 | [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-03-24 |  |
 | [DICE \(Inst.\)](https://open.spotify.com/track/78l55gIVLzyBQJFeqQ6tt8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2023-03-24 |  |
@@ -58,10 +61,12 @@
 | [O.O \(Inst.\)](https://open.spotify.com/track/4g7q1mmHaWcj9PkeUr4ghD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-11-24 | 2023-06-07 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 |  |
 | [Party O'Clock \(Inst.\)](https://open.spotify.com/track/71d89AbplK6XVkNpfHDkJg) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 |  |
+| [Passionfruit](https://open.spotify.com/track/773OzGjcoYdvfbRqpympVW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:40 | 2024-01-15 |  |
 | [PAXXWORD](https://open.spotify.com/track/4f8qVAD5rOWINdsT2rO4Mm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:12 | 2023-03-24 | 2023-06-07 |
 | [PAXXWORD](https://open.spotify.com/track/57IfwDNINXVRAWbmmaBcP9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:12 | 2023-03-24 |  |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 |  |
 | [Roller Coaster \(Inst.\)](https://open.spotify.com/track/17ZknLB4g6moyMKo5dOLLT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 2:59 | 2023-07-11 |  |
+| [Run For Roses](https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:35 | 2024-01-15 |  |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-04 |  |
 | [Sprinkle Party](https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 | 2023-06-16 |
 | [Sprinkle Party \- Instrumental](https://open.spotify.com/track/3MSimmvqsmIZ8gIkY2Lmws) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [GABBY'S DOLLHOUSE X NMIXX \(Original Soundtrack\)](https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N) | 2:16 | 2022-11-24 | 2023-06-16 |
@@ -72,6 +77,7 @@
 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 | 2022-11-24 | 2023-08-06 |
 | [Thank you for waiting us!](https://open.spotify.com/track/66Nedi5HluuBBCKMC5ykWe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We are NMIXX](https://open.spotify.com/album/5HT9Ife6Cu3E5xG4JCMmU6) | 0:21 | 2023-07-03 |  |
 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 | 2023-02-16 |  |
+| [XOXO](https://open.spotify.com/track/5jJgfoe8qJ59Dtp5nWmVVX) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:42 | 2024-01-15 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 | 2023-03-24 |  |
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-13 | 2023-06-08 |
 | [스프링클 파티 \(Sung by NMIXX\)](https://open.spotify.com/track/1nfT7zOpzdfaeuBoIlTEoP) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [개비의 매직하우스 OST X Nmixx](https://open.spotify.com/album/0uwtKGjwAJ9z1Hp74B5xWC) | 2:16 | 2023-03-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,725 likes - 53 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,226 likes - 53 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

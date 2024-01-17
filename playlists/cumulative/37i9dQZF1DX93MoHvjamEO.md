@@ -4,7 +4,7 @@
 
 > Featuring Papi Souza, Quevedo, Jhayco & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-29 songs - 1 hr 37 min
+30 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Sueños Húmedos](https://open.spotify.com/track/7lDjLRUBoWuABG7H9JU05m) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [El Pibe \(Vol.1\)](https://open.spotify.com/album/3Cqol64UqjB81EpDkvUH84) | 3:46 | 2023-04-27 |  |
 | [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 | 2023-04-27 |  |
 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 | 2023-04-27 |  |
-| [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-27 |  |
+| [XQ TAN SOLA?](https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 3:20 | 2023-04-27 |  |
+| [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-27 | 2024-01-15 |
 
 \*This playlist was first scraped on 2023-04-28. Prior content cannot be recovered.

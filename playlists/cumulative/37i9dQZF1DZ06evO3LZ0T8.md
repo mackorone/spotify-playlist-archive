@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 22 min
+48 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Oh Babe](https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ) | 2:49 | 2023-12-13 |  |
 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 | 2022-12-03 |  |
 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 | 2022-10-10 |  |
+| [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 | 2024-01-13 |  |
 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 |  |
 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 | 2022-10-10 |  |
 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 | 2023-06-10 |  |

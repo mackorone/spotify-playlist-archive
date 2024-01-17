@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,507 likes - 27 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,933 likes - 27 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

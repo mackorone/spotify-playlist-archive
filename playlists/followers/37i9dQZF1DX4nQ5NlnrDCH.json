@@ -1,97 +1,361 @@
 {
-  "2023-09-29": 2898,
-  "2023-09-30": 2914,
-  "2023-10-01": 2937,
-  "2023-10-02": 2959,
-  "2023-10-03": 2974,
-  "2023-10-04": 2985,
-  "2023-10-05": 3005,
-  "2023-10-06": 3020,
-  "2023-10-07": 3036,
-  "2023-10-08": 3056,
-  "2023-10-09": 3085,
-  "2023-10-10": 3104,
-  "2023-10-11": 3136,
-  "2023-10-12": 3136,
-  "2023-10-13": 3148,
-  "2023-10-14": 3162,
-  "2023-10-15": 3188,
-  "2023-10-16": 3204,
-  "2023-10-17": 3219,
-  "2023-10-18": 3232,
-  "2023-10-19": 3243,
-  "2023-10-20": 3258,
-  "2023-10-21": 3270,
-  "2023-10-22": 3291,
-  "2023-10-23": 3308,
-  "2023-10-24": 3327,
-  "2023-10-25": 3341,
-  "2023-10-26": 3360,
-  "2023-10-27": 3383,
-  "2023-10-28": 3400,
-  "2023-10-29": 3429,
-  "2023-10-30": 3481,
-  "2023-10-31": 3481,
-  "2023-11-01": 3498,
-  "2023-11-02": 3517,
-  "2023-11-03": 3538,
-  "2023-11-04": 3557,
-  "2023-11-05": 3587,
-  "2023-11-06": 3613,
-  "2023-11-07": 3628,
-  "2023-11-08": 3633,
-  "2023-11-09": 3648,
-  "2023-11-10": 3667,
-  "2023-11-11": 3680,
-  "2023-11-12": 3701,
-  "2023-11-13": 3728,
-  "2023-11-14": 3741,
-  "2023-11-15": 3741,
-  "2023-11-16": 3777,
-  "2023-11-17": 3815,
-  "2023-11-18": 3815,
-  "2023-11-19": 3828,
-  "2023-11-20": 3851,
-  "2023-11-21": 3868,
-  "2023-11-22": 3887,
-  "2023-11-23": 3907,
-  "2023-11-24": 3920,
-  "2023-11-25": 3946,
-  "2023-11-26": 3967,
-  "2023-11-27": 3991,
-  "2023-11-28": 4008,
-  "2023-11-29": 4036,
-  "2023-11-30": 4036,
-  "2023-12-01": 4057,
-  "2023-12-02": 4075,
-  "2023-12-03": 4093,
-  "2023-12-04": 4116,
-  "2023-12-05": 4135,
-  "2023-12-06": 4145,
-  "2023-12-07": 4166,
-  "2023-12-08": 4175,
-  "2023-12-09": 4185,
-  "2023-12-10": 4206,
-  "2023-12-11": 4224,
-  "2023-12-12": 4235,
-  "2023-12-13": 4244,
-  "2023-12-14": 4264,
-  "2023-12-15": 4263,
-  "2023-12-16": 4268,
-  "2023-12-17": 4281,
-  "2023-12-18": 4293,
-  "2023-12-19": 4298,
-  "2023-12-20": 4302,
-  "2023-12-21": 4315,
-  "2023-12-22": 4330,
-  "2023-12-23": 4346,
-  "2023-12-24": 4362,
-  "2023-12-25": 4374,
-  "2023-12-26": 4390,
-  "2023-12-27": 4411,
-  "2023-12-30": 4443,
-  "2023-12-31": 4454,
-  "2024-01-01": 4463,
-  "2024-01-02": 4471,
-  "2024-01-03": 4478
+  "2024-01-17": 4645,
+  "date_first_scraped": "2023-09-29",
+  "description": "Retrouvez les chansons trop trop rigolotes de L'\u00e2ne Trotro",
+  "name": "Chantons avec L'\u00e2ne Trotro",
+  "tracks": [
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        },
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        },
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157343,
+      "name": "C'est nous les clowns",
+      "url": "https://open.spotify.com/track/4QL3XZ3ofaiDvFdkNuYGe6"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53016,
+      "name": "Et patati et patata",
+      "url": "https://open.spotify.com/track/3Pnt37j8U0UlokhJh4IyD1"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Boron",
+          "url": "https://open.spotify.com/artist/0FJCiwCjX8j3BbLEq0bkBE"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120246,
+      "name": "Et ya ya",
+      "url": "https://open.spotify.com/track/4TwQCr28TnXymOj9Tm5o6B"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121939,
+      "name": "Hop",
+      "url": "https://open.spotify.com/track/3IbamJ5MUtVFCwizRBot1p"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Zut",
+          "url": "https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124529,
+      "name": "L'orchestre de Trotro",
+      "url": "https://open.spotify.com/track/2H9lISUOn8H9xfQPVmlXen"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Zut",
+          "url": "https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102968,
+      "name": "L'\u00e2ne Trotro",
+      "url": "https://open.spotify.com/track/1id1OAMvSRn2kJKJF5G0FE"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Zut",
+          "url": "https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O"
+        },
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159653,
+      "name": "Les chaussures de son papa",
+      "url": "https://open.spotify.com/track/2faZCRy8LzfVgOLWRHd2qY"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Estelle Micheau",
+          "url": "https://open.spotify.com/artist/6ekrHbMjAIMuWkr1fNEVUh"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63121,
+      "name": "Lulu",
+      "url": "https://open.spotify.com/track/1EIOJ3a5SEcFsQJYNXLmnI"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        },
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192542,
+      "name": "Magico Trotro",
+      "url": "https://open.spotify.com/track/4gBto3McYLQ98rTkgJMHDe"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89289,
+      "name": "Nana, je l'aime bien de tout mon coeur",
+      "url": "https://open.spotify.com/track/75oRD1ZDNqqElHsqjDaMlJ"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150189,
+      "name": "Nana, ma nana \u00e0 moi",
+      "url": "https://open.spotify.com/track/7MTgaCqbbUQdbyMhgWcayu"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        },
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        },
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        },
+        {
+          "name": "L\u00e9a Boron",
+          "url": "https://open.spotify.com/artist/0FJCiwCjX8j3BbLEq0bkBE"
+        },
+        {
+          "name": "Estelle Micheau",
+          "url": "https://open.spotify.com/artist/6ekrHbMjAIMuWkr1fNEVUh"
+        },
+        {
+          "name": "David Levadoux",
+          "url": "https://open.spotify.com/artist/3LqO5p0o93Hz6YGFgJjgmp"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67340,
+      "name": "Saluts",
+      "url": "https://open.spotify.com/track/7x34VKhTaoouC7W36SpJJT"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Zut",
+          "url": "https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114519,
+      "name": "Trotro et Nana",
+      "url": "https://open.spotify.com/track/3q4bBSUdINtpXeIzJTBBte"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        },
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        },
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        },
+        {
+          "name": "L\u00e9a Boron",
+          "url": "https://open.spotify.com/artist/0FJCiwCjX8j3BbLEq0bkBE"
+        },
+        {
+          "name": "Estelle Micheau",
+          "url": "https://open.spotify.com/artist/6ekrHbMjAIMuWkr1fNEVUh"
+        },
+        {
+          "name": "David Levadoux",
+          "url": "https://open.spotify.com/artist/3LqO5p0o93Hz6YGFgJjgmp"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147867,
+      "name": "Trotro fait son cirque",
+      "url": "https://open.spotify.com/track/5ZdgEsjgSd6AbEYQy5FPA0"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "David Levadoux",
+          "url": "https://open.spotify.com/artist/3LqO5p0o93Hz6YGFgJjgmp"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109190,
+      "name": "Trotro o\u00f9 es-tu?",
+      "url": "https://open.spotify.com/track/5AALsJLF8GWpjW6Teni412"
+    },
+    {
+      "album": {
+        "name": "Trotro fait son cirque (La musique du spectacle)",
+        "url": "https://open.spotify.com/album/01kUDeY5VhXIrfu7H73FF7"
+      },
+      "artists": [
+        {
+          "name": "Louis Goualard",
+          "url": "https://open.spotify.com/artist/6fFukyMGVgIql4JgJp2PIl"
+        },
+        {
+          "name": "Maxime Spanoudis",
+          "url": "https://open.spotify.com/artist/3vFBUB7YCPfah3jIsBy0mc"
+        },
+        {
+          "name": "Manon Spanoudis",
+          "url": "https://open.spotify.com/artist/3svEi0JDgoScaBacv6Y4Ix"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129491,
+      "name": "Un num\u00e9ro Trotro rigolo",
+      "url": "https://open.spotify.com/track/1ajl56063oqYydPLOyZSBt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4nQ5NlnrDCH"
 }

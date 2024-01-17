@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": "2024-01-10",
       "duration_ms": 200294,
       "name": "345",
       "url": "https://open.spotify.com/track/5uD2NZgs3MKQHj9fUiVIZN"
@@ -98,7 +98,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 277000,
       "name": "Alright (feat. Lucy Virji)",
       "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
@@ -138,7 +138,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/5utzfRVETLaJUETsgPyUBX"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 185530,
       "name": "Be the One (feat. MORGAN, Digga D & TIKE)",
       "url": "https://open.spotify.com/track/1kXHqvq1R8dkx1Mm52nH9g"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 130946,
       "name": "Bebey",
       "url": "https://open.spotify.com/track/6K8SmtE4jbK0E0MHOzWIIs"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 236363,
       "name": "Belly",
       "url": "https://open.spotify.com/track/2HpCoa9ca8wJJ16MfTCO2g"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 263000,
       "name": "Body Pump - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 152374,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/3JgvbAIabTHI9UvGStpxM1"
@@ -376,6 +376,28 @@
       "duration_ms": 152374,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/6zcs5NdnUypM6sCFYC7U5Y"
+    },
+    {
+      "album": {
+        "name": "Bringing Me Joy",
+        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "prettyboyface",
+          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180920,
+      "name": "Bringing Me Joy",
+      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
     },
     {
       "album": {
@@ -412,7 +434,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 232855,
       "name": "care 4",
       "url": "https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB"
@@ -452,7 +474,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 135409,
       "name": "Closer (Higgo Remix)",
       "url": "https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF"
@@ -780,10 +802,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 170381,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6ZPXu26XC5sKCp1adu84uj"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/7EtMCF0mdAksJoPalQxhE8"
     },
     {
       "album": {
@@ -828,7 +868,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Flex",
       "url": "https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk"
@@ -850,10 +890,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 136615,
       "name": "FOUND LOVE (feat. Carrie Baxter)",
       "url": "https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb"
+    },
+    {
+      "album": {
+        "name": "Friday Nights",
+        "url": "https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Friday Nights",
+      "url": "https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj"
     },
     {
       "album": {
@@ -970,7 +1028,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 188059,
       "name": "Hideout",
       "url": "https://open.spotify.com/track/1YHffsSjHbAFAsvwCD3U8A"
@@ -1058,7 +1116,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 237192,
       "name": "Home To You - Champion Remix",
       "url": "https://open.spotify.com/track/62Ov2zdV4Vb13eARWW89fT"
@@ -1120,7 +1178,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 142763,
       "name": "Hypnotize Me Baby",
       "url": "https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3"
@@ -1138,7 +1196,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 274399,
       "name": "I Could - Open Up Mix",
       "url": "https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu"
@@ -1163,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/7DE2X6ZVhSp0QXxxyMmZTr"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269067,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99"
+    },
+    {
+      "album": {
         "name": "It's Your Time",
         "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
       },
@@ -1182,6 +1258,28 @@
       "duration_ms": 186659,
       "name": "It's Your Time",
       "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "album": {
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
     },
     {
       "album": {
@@ -1232,7 +1330,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 300444,
       "name": "Like Home",
       "url": "https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH"
@@ -1290,7 +1388,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "lovergirl - Tommy Villiers VIP Mix",
       "url": "https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R"
@@ -1334,7 +1432,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 162104,
       "name": "Million Rings",
       "url": "https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB"
@@ -1374,7 +1472,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 152061,
       "name": "More To Give",
       "url": "https://open.spotify.com/track/0c7OcnAQz6H3IIzQA3MP6C"
@@ -1468,7 +1566,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 236307,
       "name": "nobody but u",
       "url": "https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw"
@@ -1494,7 +1592,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 165692,
       "name": "On A Beach - Champion Remix",
       "url": "https://open.spotify.com/track/7wmml75Sn2lhJjsyaXkOBE"
@@ -1732,6 +1830,24 @@
     {
       "album": {
         "name": "Show Me",
+        "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
+    },
+    {
+      "album": {
+        "name": "Show Me",
         "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
       },
       "artists": [
@@ -1778,7 +1894,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 343506,
       "name": "So U Kno",
       "url": "https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC"
@@ -1814,7 +1930,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 210909,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/47S3zvHZpNTj0tgUNYjVOO"
@@ -1890,7 +2006,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 180923,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa"
@@ -2050,7 +2166,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 220909,
       "name": "This Time of Morning - Mikey B Remix",
       "url": "https://open.spotify.com/track/2ZHeK3mdGj6IirKolEQ50z"
@@ -2126,7 +2242,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 228750,
       "name": "With Me (feat. S\u00e2lo)",
       "url": "https://open.spotify.com/track/7qERcHhtCTltMIGZl4nmYp"
@@ -2156,6 +2272,24 @@
       "duration_ms": 189960,
       "name": "words",
       "url": "https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6MNYaY0PcFh"

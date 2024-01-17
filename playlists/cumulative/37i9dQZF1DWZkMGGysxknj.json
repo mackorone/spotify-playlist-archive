@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
+        "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228520,
+      "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
+      "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -636,7 +658,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": "2024-01-12",
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo"
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
@@ -2168,6 +2190,24 @@
     {
       "album": {
         "name": "Aliso",
+        "url": "https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U"
+      },
+      "artists": [
+        {
+          "name": "Malena Zavala",
+          "url": "https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "If It Goes",
+      "url": "https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO"
+    },
+    {
+      "album": {
+        "name": "Aliso",
         "url": "https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c"
       },
       "artists": [
@@ -2178,7 +2218,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 224253,
       "name": "If It Goes",
       "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"

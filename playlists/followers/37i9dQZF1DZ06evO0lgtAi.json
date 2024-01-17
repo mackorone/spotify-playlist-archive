@@ -1,271 +1,1675 @@
 {
-  "2023-04-07": 8863,
-  "2023-04-09": 8882,
-  "2023-04-10": 8897,
-  "2023-04-11": 8919,
-  "2023-04-12": 8919,
-  "2023-04-13": 8964,
-  "2023-04-14": 9011,
-  "2023-04-15": 9034,
-  "2023-04-16": 9060,
-  "2023-04-17": 9088,
-  "2023-04-18": 9100,
-  "2023-04-19": 9118,
-  "2023-04-20": 9141,
-  "2023-04-21": 9152,
-  "2023-04-22": 9172,
-  "2023-04-23": 9188,
-  "2023-04-24": 9197,
-  "2023-04-25": 9218,
-  "2023-04-26": 9232,
-  "2023-04-27": 9243,
-  "2023-04-28": 9254,
-  "2023-04-29": 9274,
-  "2023-04-30": 9282,
-  "2023-05-01": 9288,
-  "2023-05-02": 9300,
-  "2023-05-03": 9313,
-  "2023-05-04": 9319,
-  "2023-05-05": 9335,
-  "2023-05-06": 9341,
-  "2023-05-07": 9353,
-  "2023-05-08": 9361,
-  "2023-05-09": 9365,
-  "2023-05-10": 9371,
-  "2023-05-11": 9382,
-  "2023-05-12": 9395,
-  "2023-05-13": 9397,
-  "2023-05-14": 9404,
-  "2023-05-15": 9415,
-  "2023-05-16": 9428,
-  "2023-05-17": 9432,
-  "2023-05-18": 9445,
-  "2023-05-19": 9452,
-  "2023-05-20": 9457,
-  "2023-05-21": 9457,
-  "2023-05-22": 9457,
-  "2023-05-23": 9468,
-  "2023-05-24": 9489,
-  "2023-05-25": 9494,
-  "2023-05-26": 9514,
-  "2023-05-27": 9553,
-  "2023-05-28": 9570,
-  "2023-05-29": 9570,
-  "2023-05-30": 9601,
-  "2023-05-31": 9618,
-  "2023-06-01": 9624,
-  "2023-06-02": 9645,
-  "2023-06-03": 9683,
-  "2023-06-04": 9708,
-  "2023-06-05": 9730,
-  "2023-06-06": 9750,
-  "2023-06-07": 9756,
-  "2023-06-08": 9771,
-  "2023-06-09": 9785,
-  "2023-06-10": 9804,
-  "2023-06-11": 9811,
-  "2023-06-12": 9823,
-  "2023-06-13": 9836,
-  "2023-06-14": 9848,
-  "2023-06-15": 9866,
-  "2023-06-16": 9908,
-  "2023-06-17": 9970,
-  "2023-06-18": 10004,
-  "2023-06-19": 10027,
-  "2023-06-20": 10053,
-  "2023-06-21": 10089,
-  "2023-06-22": 10126,
-  "2023-06-23": 10148,
-  "2023-06-24": 10176,
-  "2023-06-25": 10200,
-  "2023-06-26": 10223,
-  "2023-06-27": 10286,
-  "2023-06-28": 10330,
-  "2023-06-29": 10378,
-  "2023-06-30": 10524,
-  "2023-07-01": 10851,
-  "2023-07-02": 10851,
-  "2023-07-03": 10940,
-  "2023-07-04": 11036,
-  "2023-07-05": 11129,
-  "2023-07-06": 11305,
-  "2023-07-07": 11305,
-  "2023-07-08": 11402,
-  "2023-07-09": 11455,
-  "2023-07-10": 11534,
-  "2023-07-11": 11623,
-  "2023-07-12": 11698,
-  "2023-07-13": 11779,
-  "2023-07-14": 11837,
-  "2023-07-15": 11887,
-  "2023-07-16": 11959,
-  "2023-07-17": 12009,
-  "2023-07-18": 12067,
-  "2023-07-19": 12143,
-  "2023-07-20": 12206,
-  "2023-07-21": 12254,
-  "2023-07-22": 12311,
-  "2023-07-23": 12380,
-  "2023-07-24": 12441,
-  "2023-07-25": 12510,
-  "2023-07-26": 12555,
-  "2023-07-27": 12613,
-  "2023-07-28": 12672,
-  "2023-07-29": 12725,
-  "2023-07-30": 12763,
-  "2023-07-31": 12814,
-  "2023-08-01": 12858,
-  "2023-08-02": 12903,
-  "2023-08-03": 12938,
-  "2023-08-04": 12985,
-  "2023-08-05": 13024,
-  "2023-08-06": 13079,
-  "2023-08-07": 13079,
-  "2023-08-08": 13113,
-  "2023-08-09": 13149,
-  "2023-08-10": 13199,
-  "2023-08-11": 13251,
-  "2023-08-12": 13251,
-  "2023-08-13": 13251,
-  "2023-08-14": 13358,
-  "2023-08-15": 13405,
-  "2023-08-16": 13405,
-  "2023-08-17": 13481,
-  "2023-08-18": 13481,
-  "2023-08-19": 13568,
-  "2023-08-20": 13605,
-  "2023-08-21": 13605,
-  "2023-08-22": 13673,
-  "2023-08-23": 13709,
-  "2023-08-24": 13751,
-  "2023-08-25": 13751,
-  "2023-08-26": 13848,
-  "2023-08-27": 13872,
-  "2023-08-28": 13899,
-  "2023-08-29": 13899,
-  "2023-08-30": 13899,
-  "2023-08-31": 13985,
-  "2023-09-01": 14041,
-  "2023-09-02": 14041,
-  "2023-09-03": 14064,
-  "2023-09-04": 14064,
-  "2023-09-05": 14064,
-  "2023-09-06": 14138,
-  "2023-09-07": 14138,
-  "2023-09-08": 14138,
-  "2023-09-09": 14138,
-  "2023-09-10": 14256,
-  "2023-09-11": 14273,
-  "2023-09-12": 14273,
-  "2023-09-13": 14335,
-  "2023-09-14": 14335,
-  "2023-09-15": 14335,
-  "2023-09-16": 14406,
-  "2023-09-17": 14406,
-  "2023-09-18": 14406,
-  "2023-09-19": 14463,
-  "2023-09-20": 14463,
-  "2023-09-21": 14463,
-  "2023-09-22": 14540,
-  "2023-09-23": 14540,
-  "2023-09-24": 14540,
-  "2023-09-25": 14540,
-  "2023-09-26": 14629,
-  "2023-09-27": 14629,
-  "2023-09-28": 14629,
-  "2023-09-29": 14629,
-  "2023-09-30": 14629,
-  "2023-10-01": 14629,
-  "2023-10-02": 14774,
-  "2023-10-03": 14774,
-  "2023-10-04": 14774,
-  "2023-10-05": 14848,
-  "2023-10-06": 14871,
-  "2023-10-07": 14871,
-  "2023-10-08": 14871,
-  "2023-10-09": 14871,
-  "2023-10-10": 14871,
-  "2023-10-11": 14989,
-  "2023-10-12": 14989,
-  "2023-10-13": 14989,
-  "2023-10-14": 14989,
-  "2023-10-15": 14989,
-  "2023-10-16": 14989,
-  "2023-10-17": 14989,
-  "2023-10-18": 14989,
-  "2023-10-19": 14989,
-  "2023-10-20": 14989,
-  "2023-10-21": 14989,
-  "2023-10-22": 14989,
-  "2023-10-23": 14989,
-  "2023-10-24": 14989,
-  "2023-10-25": 14989,
-  "2023-10-26": 14989,
-  "2023-10-27": 14989,
-  "2023-10-28": 14989,
-  "2023-10-29": 14989,
-  "2023-10-30": 14989,
-  "2023-10-31": 14989,
-  "2023-11-01": 14989,
-  "2023-11-02": 14989,
-  "2023-11-03": 14989,
-  "2023-11-04": 14989,
-  "2023-11-05": 14989,
-  "2023-11-06": 14989,
-  "2023-11-07": 14989,
-  "2023-11-08": 14989,
-  "2023-11-09": 14989,
-  "2023-11-10": 14989,
-  "2023-11-11": 16200,
-  "2023-11-12": 16200,
-  "2023-11-13": 16200,
-  "2023-11-14": 16200,
-  "2023-11-15": 16200,
-  "2023-11-16": 16200,
-  "2023-11-17": 16200,
-  "2023-11-18": 16200,
-  "2023-11-19": 16200,
-  "2023-11-20": 16200,
-  "2023-11-21": 16200,
-  "2023-11-22": 16200,
-  "2023-11-23": 16200,
-  "2023-11-24": 16200,
-  "2023-11-25": 16200,
-  "2023-11-26": 16200,
-  "2023-11-27": 16200,
-  "2023-11-28": 16200,
-  "2023-11-29": 16200,
-  "2023-11-30": 16200,
-  "2023-12-01": 16200,
-  "2023-12-02": 16200,
-  "2023-12-03": 16200,
-  "2023-12-04": 16200,
-  "2023-12-05": 16200,
-  "2023-12-06": 16200,
-  "2023-12-07": 16200,
-  "2023-12-08": 16200,
-  "2023-12-09": 16200,
-  "2023-12-10": 16200,
-  "2023-12-11": 16200,
-  "2023-12-12": 16200,
-  "2023-12-13": 16200,
-  "2023-12-14": 17087,
-  "2023-12-15": 17102,
-  "2023-12-16": 17143,
-  "2023-12-17": 17162,
-  "2023-12-18": 17191,
-  "2023-12-19": 17231,
-  "2023-12-20": 17260,
-  "2023-12-21": 17287,
-  "2023-12-22": 17310,
-  "2023-12-23": 17330,
-  "2023-12-24": 17360,
-  "2023-12-25": 17385,
-  "2023-12-26": 17405,
-  "2023-12-27": 17423,
-  "2023-12-30": 17501,
-  "2023-12-31": 17533,
-  "2024-01-01": 17557,
-  "2024-01-02": 17567,
-  "2024-01-03": 17591
+  "2024-01-17": 18766,
+  "date_first_scraped": "2023-04-07",
+  "description": "This is Tainy. The essential tracks, all in one playlist.",
+  "name": "This Is Tainy",
+  "tracks": [
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 196701,
+      "name": "11 Y ONCE",
+      "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+    },
+    {
+      "album": {
+        "name": "Club Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171832,
+      "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
+      "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "album": {
+        "name": "Adicto (with Anuel AA & Ozuna)",
+        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270740,
+      "name": "Adicto (with Anuel AA & Ozuna)",
+      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+    },
+    {
+      "album": {
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159665,
+      "name": "Agua (with J Balvin)",
+      "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+    },
+    {
+      "album": {
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 148346,
+      "name": "Agua (with J Balvin) - Film Version",
+      "url": "https://open.spotify.com/track/7bycJ0EPTqYplxOkCBzUCf"
+    },
+    {
+      "album": {
+        "name": "Asi Eh (Remix)",
+        "url": "https://open.spotify.com/album/0rp5iUshTsvz8E4YakFOAw"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Asi Eh - Remix",
+      "url": "https://open.spotify.com/track/5yyxjJEMqSyCySMM9MAoJI"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173553,
+      "name": "BUSCANDO CALOR",
+      "url": "https://open.spotify.com/track/1AuakKBKABJveKizKBl9j7"
+    },
+    {
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164224,
+      "name": "Button (feat. Anuel AA & Tainy)",
+      "url": "https://open.spotify.com/track/6FDKYM0lBf6zqrg8cFokPd"
+    },
+    {
+      "album": {
+        "name": "B\u00e1rbaro",
+        "url": "https://open.spotify.com/album/6tt7XjJPdHmPzArSswOluS"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 128573,
+      "name": "B\u00e1rbaro",
+      "url": "https://open.spotify.com/track/0RYRX4bWykxlbDdonBnjmg"
+    },
+    {
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
+    },
+    {
+      "album": {
+        "name": "COLMILLO",
+        "url": "https://open.spotify.com/album/13ldB6ttaAq7okb9DHIscN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265999,
+      "name": "COLMILLO",
+      "url": "https://open.spotify.com/track/6tg97bZpaIpDSEcWMGXfOT"
+    },
+    {
+      "album": {
+        "name": "PO2054AZ (Vol.I)",
+        "url": "https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150986,
+      "name": "Completamente Loco",
+      "url": "https://open.spotify.com/track/7B646WX2daEPa4bjsnUv9o"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 153066,
+      "name": "C\u00c1MARA LENTA",
+      "url": "https://open.spotify.com/track/1m6yzbCrhxXXYKcCcrPgP0"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178375,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 60000,
+      "name": "desde las 10 (KANY\u2019S INTERLUDE)",
+      "url": "https://open.spotify.com/track/3kviwFPwSWwjgjRNBEBUSe"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159975,
+      "name": "EL PLAN",
+      "url": "https://open.spotify.com/track/4BEhYjP8feURPfmrHNc4dM"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153851,
+      "name": "EN VISTO",
+      "url": "https://open.spotify.com/track/1fFB8ahI0ZwU3X9mimCpjb"
+    },
+    {
+      "album": {
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 171097,
+      "name": "F Is For Friends (with Becky G & Tainy) - Music From \"Sponge On The Run\" Movie",
+      "url": "https://open.spotify.com/track/4OdWosI4ngItG5hn1EIZos"
+    },
+    {
+      "album": {
+        "name": "Falta",
+        "url": "https://open.spotify.com/album/6fViyRMZpRfXu93igpXDUc"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 190765,
+      "name": "Falta",
+      "url": "https://open.spotify.com/track/6lOrOSBGBDZXIQALvs8igt"
+    },
+    {
+      "album": {
+        "name": "FANTASMA | AVC",
+        "url": "https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 285074,
+      "name": "FANTASMA | AVC",
+      "url": "https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB"
+    },
+    {
+      "album": {
+        "name": "FATAL FANTASSY",
+        "url": "https://open.spotify.com/album/7k4Bir5CEDU14ZzW9FsWqn"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/0TZJzQCOkVtyzjOD8wzAHh"
+    },
+    {
+      "album": {
+        "name": "Feel It Too (with Jessie Reyez & Tory Lanez)",
+        "url": "https://open.spotify.com/album/4xOKqHPmVztXkOS7CSHcSN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 193055,
+      "name": "Feel It Too (with Jessie Reyez & Tory Lanez)",
+      "url": "https://open.spotify.com/track/0afSDk3PxzQGY6rIdf30Z0"
+    },
+    {
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Fuego (with Sean Paul & Anitta, feat. Tainy)",
+      "url": "https://open.spotify.com/track/660eekzsNZ7sdATvfIsAkR"
+    },
+    {
+      "album": {
+        "name": "Club Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 166900,
+      "name": "Gramos ft. Kris Floyd, Hozwal",
+      "url": "https://open.spotify.com/track/40XfhnuIEzqvuluAEAL9xa"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143257,
+      "name": "H\u00c1BLAME CLARO",
+      "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+        "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158027,
+      "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+      "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
+    },
+    {
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+    },
+    {
+      "album": {
+        "name": "LA BABY",
+        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182857,
+      "name": "LA BABY",
+      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
+    },
+    {
+      "album": {
+        "name": "La Gatita (Remix)",
+        "url": "https://open.spotify.com/album/4JzAbR7V4k5UWv8IOJ7lCM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "La Gatita - Remix",
+      "url": "https://open.spotify.com/track/1qihgOJwlXqB4LQrY40MRT"
+    },
+    {
+      "album": {
+        "name": "Club Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 125848,
+      "name": "La Pena ft. Dylan Fuentes",
+      "url": "https://open.spotify.com/track/0UY7P8WMXfeN8LUXw3zyCN"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5JoV39MFYbvWZwJlxq2722"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 171413,
+      "name": "LENTO (with Sean Paul & Mozart La Para feat. Cazzu)",
+      "url": "https://open.spotify.com/track/7k3WOO7KVwWKU94PNWxSsY"
+    },
+    {
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215026,
+      "name": "Llori Pari",
+      "url": "https://open.spotify.com/track/5dtzqRtiXKftAk6B6vxUmr"
+    },
+    {
+      "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 157628,
+      "name": "MALOS HABITOS (with Kris Floyd)",
+      "url": "https://open.spotify.com/track/3YQeGMWM2ZNak22CKeVlHQ"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140805,
+      "name": "MALVADA (with Kali Uchis & KHEA)",
+      "url": "https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175192,
+      "name": "ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
+    },
+    {
+      "album": {
+        "name": "MENTE (with Tainy & Mau y Ricky)",
+        "url": "https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 226338,
+      "name": "MENTE (with Tainy & Mau y Ricky)",
+      "url": "https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty"
+    },
+    {
+      "album": {
+        "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+        "url": "https://open.spotify.com/album/1jSaGmaAvSKgMa4whI89Cx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 188862,
+      "name": "MERA (with Dalex & \u00c1lvaro D\u00edaz)",
+      "url": "https://open.spotify.com/track/3mr13zNWprAzYYY0RinBCp"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188690,
+      "name": "NADA (with Lauren Jauregui & C. Tangana)",
+      "url": "https://open.spotify.com/track/1HxapZ1SrjH5LoYGz9aA4Z"
+    },
+    {
+      "album": {
+        "name": "No Le Bajamos",
+        "url": "https://open.spotify.com/album/10UVmswEcMMI6UjL4oEufc"
+      },
+      "artists": [
+        {
+          "name": "Jodosky",
+          "url": "https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 164049,
+      "name": "No Le Bajamos",
+      "url": "https://open.spotify.com/track/5z9BueVXyoqHHFk4eFvlpU"
+    },
+    {
+      "album": {
+        "name": "obst\u00e1culo",
+        "url": "https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 135704,
+      "name": "obst\u00e1culo",
+      "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+    },
+    {
+      "album": {
+        "name": "Oh Na Na",
+        "url": "https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203652,
+      "name": "Oh Na Na",
+      "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 197935,
+      "name": "PARANORMAL",
+      "url": "https://open.spotify.com/track/2m8V3evS07OnhatBWyh0Nt"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197935,
+      "name": "PARANORMAL",
+      "url": "https://open.spotify.com/track/2ynaxymuvgAHsRBOqE4XEq"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355795,
+      "name": "PASIEMPRE",
+      "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
+    },
+    {
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
+    },
+    {
+      "album": {
+        "name": "Sci-Fi",
+        "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 198540,
+      "name": "Sci-Fi",
+      "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 137871,
+      "name": "SI LA VES (with Las Villa)",
+      "url": "https://open.spotify.com/track/5lj0ISQvW88gNBqx9VO3an"
+    },
+    {
+      "album": {
+        "name": "SI TE VAS",
+        "url": "https://open.spotify.com/album/37LcMTVZS9ttzx0PdAM2Ss"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194700,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5Xx66nNmEkP4pIB3NtXsYX"
+    },
+    {
+      "album": {
+        "name": "Legacy, Vol. 1 (TBT)",
+        "url": "https://open.spotify.com/album/1xlEv4ilS9wdKy4etb7nlp"
+      },
+      "artists": [
+        {
+          "name": "Cruzito",
+          "url": "https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 191076,
+      "name": "Solo Contigo",
+      "url": "https://open.spotify.com/track/5D6BJHUUpOdNcsoGfmJqb9"
+    },
+    {
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+    },
+    {
+      "album": {
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
+    },
+    {
+      "album": {
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/5MAo8YKa2yJLXUlJ2e3WaG"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 136710,
+      "name": "Tate Quieto",
+      "url": "https://open.spotify.com/track/789DGCAVkUTSsCaJ7c1VIu"
+    },
+    {
+      "album": {
+        "name": "Club Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Todas Tus Amigas Est\u00e1n Mintiendo ft. Alvaro Diaz, Dylan Fuentes",
+      "url": "https://open.spotify.com/track/2re98x1aMO6BYuX9cWKqo8"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 203529,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5kvMHWJfoIgKTpP5HzpG25"
+    },
+    {
+      "album": {
+        "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
+        "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 232789,
+      "name": "TU AMIGA (with Justin Quiles & Dylan Fuentes feat. Lennox & Llane)",
+      "url": "https://open.spotify.com/track/0LUpKcgDmq08XoS4nSjIde"
+    },
+    {
+      "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "album": {
+        "name": "Montaner",
+        "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 214400,
+      "name": "Una Canci\u00f3n Para el Despecho (feat. Mau y Ricky & Tainy)",
+      "url": "https://open.spotify.com/track/3pHCeLTd4vyMn29JY3JxZA"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166929,
+      "name": "UNA M\u00c1S",
+      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259534,
+      "name": "VA Y VEN",
+      "url": "https://open.spotify.com/track/1Jo3PXI2jQY3kI2nZH3lyW"
+    },
+    {
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "album": {
+        "name": "Voodoo (with J Balvin & Tainy)",
+        "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198130,
+      "name": "Voodoo (with J Balvin & Tainy)",
+      "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
+    },
+    {
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "\u00bfCu\u00e1ndo Fue?",
+      "url": "https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lgtAi"
 }

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u0e44\u0e2e\u0e44\u0e25\u0e17\u0e4c\u0e1b\u0e35 2023 \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c RADAR Thailand. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
-  "name": "Best of RADAR Thailand 2023",
+  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
+  "name": "RADAR Thailand 2023",
   "tracks": [
     {
       "album": {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 298392,
       "name": "April",
       "url": "https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163928,
       "name": "BTS",
       "url": "https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 195163,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162461,
       "name": "How Are You",
       "url": "https://open.spotify.com/track/41TTWfDZYANqv7XXcZmOdb"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 227478,
       "name": "May I?",
       "url": "https://open.spotify.com/track/1MWPdQMZD2tPJmmFgH3wwW"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 248900,
       "name": "OK",
       "url": "https://open.spotify.com/track/4D3o6JnlbcU15KspRCVROS"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207127,
       "name": "R U OK?",
       "url": "https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij"
@@ -526,10 +526,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "album": {
+        "name": "Stand By - Single",
+        "url": "https://open.spotify.com/album/1a0KehRZqLKSK69TKsJcxK"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Stand By",
+      "url": "https://open.spotify.com/track/5gKIQRJmfu3x9F4a9nIKrg"
     },
     {
       "album": {
@@ -616,7 +634,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 162077,
       "name": "Today's mood",
       "url": "https://open.spotify.com/track/4kuYISPouD11LYYVjruC8b"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206966,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 207174,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 221000,
       "name": "\u0e15\u0e31\u0e14\u0e43\u0e08\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI"
@@ -1302,6 +1320,24 @@
       "duration_ms": 278873,
       "name": "\u0e15\u0e31\u0e14\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
     },
     {
       "album": {
@@ -1543,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e1a\u0e1e\u0e32...\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/46mSO7qWdGRPNSUChIzKQl"
+      },
+      "artists": [
+        {
+          "name": "YourMOOD",
+          "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175783,
+      "name": "\u0e1e\u0e1a\u0e1e\u0e32",
+      "url": "https://open.spotify.com/track/5MIAP06QVqn3qUN8Xg3Hqy"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e30\u0e08\u0e31\u0e19",
         "url": "https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4"
       },
@@ -1594,6 +1648,24 @@
       "duration_ms": 190851,
       "name": "\u0e21\u0e32\u0e46\u0e2b\u0e32\u0e22\u0e46 feat.Karn The Parkinson",
       "url": "https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e35\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1a\u0e34\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e17\u0e49\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/1fh1aCaZkBWUtCpjQSvkAq"
+      },
+      "artists": [
+        {
+          "name": "wish.",
+          "url": "https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215064,
+      "name": "\u0e21\u0e35\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e1a\u0e34\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e17\u0e49\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/4Jld23F1idfTmcSqClD0re"
     },
     {
       "album": {
@@ -1680,7 +1752,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 215675,
       "name": "\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19\u0e14\u0e35\u0e44\u0e2b\u0e21 (Next Chapter)",
       "url": "https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS"
@@ -1981,6 +2053,32 @@
     },
     {
       "album": {
+        "name": "Life is Love",
+        "url": "https://open.spotify.com/album/3tHyVcO5AtllOZnKboJuh6"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "SURE",
+          "url": "https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u0e40\u0e02\u0e15\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/796OGJlPA49xMfPVLxgZI5"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e04\u0e49\u0e32\u0e27\u0e48\u0e32",
         "url": "https://open.spotify.com/album/23hZGZbO7D3oiGp0Db1V4r"
       },
@@ -2112,6 +2210,24 @@
       "duration_ms": 278312,
       "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
       "url": "https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Crush)",
+        "url": "https://open.spotify.com/album/51qPtMul8AGoRI9aFkxHqz"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206408,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e42\u0e1b\u0e23\u0e14 (Crush)",
+      "url": "https://open.spotify.com/track/2576NYcj8CX3LupLcdNDVI"
     },
     {
       "album": {
@@ -2382,6 +2498,28 @@
       "duration_ms": 197432,
       "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e2b\u0e49\u0e14\u0e32\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e1b\u0e25\u0e2d\u0e1a\u0e1b\u0e23\u0e30\u0e42\u0e25\u0e21\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e2b\u0e32\u0e22\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/0tI7J3O2PfNmTwPrvrcE4P"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        },
+        {
+          "name": "Image Suthita",
+          "url": "https://open.spotify.com/artist/3BJnzsdoO0qbpDS8QNE5wJ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u0e43\u0e2b\u0e49\u0e14\u0e32\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e1b\u0e25\u0e2d\u0e1a\u0e1b\u0e23\u0e30\u0e42\u0e25\u0e21\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e49\u0e2b\u0e32\u0e22\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2sMQVWemwjA7olwdPoI2cT"
     },
     {
       "album": {

@@ -1,735 +1,1791 @@
 {
-  "2021-12-25": 430789,
-  "2021-12-26": 430844,
-  "2021-12-27": 430988,
-  "2021-12-28": 430991,
-  "2021-12-29": 431070,
-  "2021-12-30": 431171,
-  "2021-12-31": 431247,
-  "2022-01-01": 431417,
-  "2022-01-02": 431448,
-  "2022-01-03": 431525,
-  "2022-01-04": 431600,
-  "2022-01-05": 431694,
-  "2022-01-06": 431769,
-  "2022-01-07": 431863,
-  "2022-01-08": 432093,
-  "2022-01-09": 432089,
-  "2022-01-10": 432188,
-  "2022-01-11": 432264,
-  "2022-01-12": 432365,
-  "2022-01-13": 432484,
-  "2022-01-14": 432598,
-  "2022-01-15": 432784,
-  "2022-01-16": 432792,
-  "2022-01-17": 432969,
-  "2022-01-18": 432983,
-  "2022-01-19": 433057,
-  "2022-01-20": 433129,
-  "2022-01-21": 433239,
-  "2022-01-22": 433304,
-  "2022-01-23": 433380,
-  "2022-01-24": 433440,
-  "2022-01-25": 433511,
-  "2022-01-26": 433591,
-  "2022-01-27": 433666,
-  "2022-01-28": 433743,
-  "2022-01-29": 433828,
-  "2022-01-30": 433911,
-  "2022-01-31": 434016,
-  "2022-02-01": 434099,
-  "2022-02-02": 434176,
-  "2022-02-03": 434257,
-  "2022-02-04": 434312,
-  "2022-02-05": 434406,
-  "2022-02-06": 434500,
-  "2022-02-07": 434620,
-  "2022-02-08": 434714,
-  "2022-02-09": 434802,
-  "2022-02-10": 434894,
-  "2022-02-11": 434973,
-  "2022-02-12": 435075,
-  "2022-02-13": 435183,
-  "2022-02-14": 435261,
-  "2022-02-15": 435339,
-  "2022-02-16": 435418,
-  "2022-02-17": 435488,
-  "2022-02-18": 435561,
-  "2022-02-19": 435657,
-  "2022-02-20": 435739,
-  "2022-02-21": 435820,
-  "2022-02-22": 435886,
-  "2022-02-23": 435948,
-  "2022-02-24": 436044,
-  "2022-02-25": 436130,
-  "2022-02-26": 436209,
-  "2022-02-27": 436415,
-  "2022-02-28": 436415,
-  "2022-03-01": 436517,
-  "2022-03-02": 436623,
-  "2022-03-03": 436715,
-  "2022-03-04": 436803,
-  "2022-03-05": 436916,
-  "2022-03-06": 436994,
-  "2022-03-07": 437048,
-  "2022-03-08": 437125,
-  "2022-03-09": 437197,
-  "2022-03-10": 437284,
-  "2022-03-11": 437382,
-  "2022-03-12": 437475,
-  "2022-03-13": 437535,
-  "2022-03-14": 437600,
-  "2022-03-15": 437679,
-  "2022-03-16": 437751,
-  "2022-03-17": 437857,
-  "2022-03-18": 437978,
-  "2022-03-19": 438054,
-  "2022-03-20": 438054,
-  "2022-03-21": 438246,
-  "2022-03-22": 438314,
-  "2022-03-23": 438395,
-  "2022-03-24": 438477,
-  "2022-03-25": 438579,
-  "2022-03-26": 438634,
-  "2022-03-27": 438711,
-  "2022-03-28": 438814,
-  "2022-03-30": 438957,
-  "2022-03-31": 439046,
-  "2022-04-01": 439127,
-  "2022-04-02": 439213,
-  "2022-04-03": 439305,
-  "2022-04-04": 439396,
-  "2022-04-05": 439478,
-  "2022-04-06": 439586,
-  "2022-04-07": 439696,
-  "2022-04-08": 439806,
-  "2022-04-09": 439895,
-  "2022-04-10": 440108,
-  "2022-04-11": 440198,
-  "2022-04-12": 440203,
-  "2022-04-13": 440317,
-  "2022-04-14": 440428,
-  "2022-04-15": 440526,
-  "2022-04-16": 440651,
-  "2022-04-17": 440770,
-  "2022-04-18": 440921,
-  "2022-04-19": 441010,
-  "2022-04-20": 441092,
-  "2022-04-21": 441227,
-  "2022-04-22": 441374,
-  "2022-04-23": 441513,
-  "2022-04-24": 441657,
-  "2022-04-25": 441772,
-  "2022-04-26": 441871,
-  "2022-04-27": 442017,
-  "2022-04-28": 442140,
-  "2022-04-29": 442344,
-  "2022-04-30": 442459,
-  "2022-05-01": 442597,
-  "2022-05-02": 442597,
-  "2022-05-03": 442718,
-  "2022-05-04": 442834,
-  "2022-05-05": 442908,
-  "2022-05-06": 442965,
-  "2022-05-07": 443041,
-  "2022-05-08": 443150,
-  "2022-05-09": 443161,
-  "2022-05-10": 443245,
-  "2022-05-11": 443327,
-  "2022-05-12": 443408,
-  "2022-05-13": 443491,
-  "2022-05-14": 443554,
-  "2022-05-15": 443658,
-  "2022-05-16": 443729,
-  "2022-05-17": 443786,
-  "2022-05-18": 443882,
-  "2022-05-19": 443947,
-  "2022-05-20": 444018,
-  "2022-05-21": 444211,
-  "2022-05-22": 444211,
-  "2022-05-23": 444299,
-  "2022-05-24": 444384,
-  "2022-05-25": 444471,
-  "2022-05-26": 444543,
-  "2022-05-27": 444631,
-  "2022-05-28": 444720,
-  "2022-05-29": 444801,
-  "2022-05-30": 444892,
-  "2022-05-31": 444964,
-  "2022-06-01": 445122,
-  "2022-06-02": 445126,
-  "2022-06-03": 445186,
-  "2022-06-04": 445245,
-  "2022-06-05": 445344,
-  "2022-06-06": 445402,
-  "2022-06-07": 445472,
-  "2022-06-08": 445564,
-  "2022-06-09": 445609,
-  "2022-06-10": 445681,
-  "2022-06-11": 445756,
-  "2022-06-12": 445835,
-  "2022-06-13": 445899,
-  "2022-06-14": 445936,
-  "2022-06-15": 445997,
-  "2022-06-16": 446071,
-  "2022-06-17": 446138,
-  "2022-06-18": 446207,
-  "2022-06-19": 446333,
-  "2022-06-20": 446333,
-  "2022-06-21": 446424,
-  "2022-06-22": 446566,
-  "2022-06-23": 446566,
-  "2022-06-24": 446637,
-  "2022-06-25": 446718,
-  "2022-06-26": 446804,
-  "2022-06-27": 446804,
-  "2022-06-28": 446950,
-  "2022-06-29": 447032,
-  "2022-06-30": 447092,
-  "2022-07-01": 447164,
-  "2022-07-02": 447230,
-  "2022-07-03": 447329,
-  "2022-07-04": 447414,
-  "2022-07-05": 447472,
-  "2022-07-06": 447575,
-  "2022-07-07": 447652,
-  "2022-07-08": 447731,
-  "2022-07-09": 447776,
-  "2022-07-10": 447856,
-  "2022-07-11": 447938,
-  "2022-07-12": 448020,
-  "2022-07-13": 448111,
-  "2022-07-14": 448167,
-  "2022-07-15": 448241,
-  "2022-07-16": 448333,
-  "2022-07-17": 448422,
-  "2022-07-18": 448520,
-  "2022-07-19": 448592,
-  "2022-07-20": 448702,
-  "2022-07-21": 448767,
-  "2022-07-22": 448850,
-  "2022-07-23": 448960,
-  "2022-07-24": 449062,
-  "2022-07-25": 449170,
-  "2022-07-26": 449254,
-  "2022-07-27": 449364,
-  "2022-07-28": 449430,
-  "2022-07-29": 449511,
-  "2022-07-30": 449698,
-  "2022-07-31": 449698,
-  "2022-08-01": 449771,
-  "2022-08-02": 449901,
-  "2022-08-03": 449901,
-  "2022-08-04": 449992,
-  "2022-08-05": 450069,
-  "2022-08-06": 450165,
-  "2022-08-07": 450248,
-  "2022-08-08": 450341,
-  "2022-08-09": 450418,
-  "2022-08-10": 450507,
-  "2022-08-11": 450567,
-  "2022-08-12": 450645,
-  "2022-08-13": 450739,
-  "2022-08-14": 450855,
-  "2022-08-15": 450939,
-  "2022-08-16": 451030,
-  "2022-08-17": 451116,
-  "2022-08-18": 451188,
-  "2022-08-19": 451269,
-  "2022-08-20": 451352,
-  "2022-08-21": 451436,
-  "2022-08-22": 451529,
-  "2022-08-23": 451632,
-  "2022-08-24": 451707,
-  "2022-08-25": 451801,
-  "2022-08-26": 451905,
-  "2022-08-27": 452010,
-  "2022-08-28": 452102,
-  "2022-08-29": 452204,
-  "2022-08-30": 452214,
-  "2022-08-31": 452209,
-  "2022-09-01": 452173,
-  "2022-09-02": 452270,
-  "2022-09-03": 452273,
-  "2022-09-04": 452204,
-  "2022-09-05": 452205,
-  "2022-09-06": 452292,
-  "2022-09-07": 452365,
-  "2022-09-09": 452514,
-  "2022-09-10": 452589,
-  "2022-09-11": 452665,
-  "2022-09-12": 452744,
-  "2022-09-13": 452825,
-  "2022-09-15": 452960,
-  "2022-09-16": 453041,
-  "2022-09-17": 453128,
-  "2022-09-18": 453217,
-  "2022-09-19": 453298,
-  "2022-09-20": 453360,
-  "2022-09-21": 453405,
-  "2022-09-22": 453471,
-  "2022-09-23": 453546,
-  "2022-09-24": 453584,
-  "2022-09-25": 453650,
-  "2022-09-26": 453726,
-  "2022-09-27": 453772,
-  "2022-09-28": 453830,
-  "2022-09-29": 453889,
-  "2022-09-30": 453937,
-  "2022-10-01": 453979,
-  "2022-10-02": 454044,
-  "2022-10-03": 454088,
-  "2022-10-04": 454118,
-  "2022-10-05": 454153,
-  "2022-10-06": 454182,
-  "2022-10-07": 454213,
-  "2022-10-08": 454258,
-  "2022-10-09": 454350,
-  "2022-10-10": 454365,
-  "2022-10-11": 454413,
-  "2022-10-12": 454464,
-  "2022-10-13": 454523,
-  "2022-10-14": 454559,
-  "2022-10-15": 454603,
-  "2022-10-16": 454662,
-  "2022-10-17": 454719,
-  "2022-10-18": 454758,
-  "2022-10-19": 454798,
-  "2022-10-20": 454854,
-  "2022-10-21": 454890,
-  "2022-10-22": 454924,
-  "2022-10-23": 454983,
-  "2022-10-24": 455031,
-  "2022-10-25": 455070,
-  "2022-10-26": 455100,
-  "2022-10-27": 455137,
-  "2022-10-28": 455186,
-  "2022-10-29": 455217,
-  "2022-10-30": 455254,
-  "2022-10-31": 455300,
-  "2022-11-01": 455321,
-  "2022-11-02": 455357,
-  "2022-11-03": 455365,
-  "2022-11-04": 455404,
-  "2022-11-05": 455450,
-  "2022-11-06": 455491,
-  "2022-11-07": 455533,
-  "2022-11-08": 455558,
-  "2022-11-09": 455610,
-  "2022-11-10": 455641,
-  "2022-11-11": 455705,
-  "2022-11-12": 455758,
-  "2022-11-13": 455794,
-  "2022-11-14": 455844,
-  "2022-11-15": 455881,
-  "2022-11-16": 455931,
-  "2022-11-17": 455981,
-  "2022-11-18": 455980,
-  "2022-11-19": 455935,
-  "2022-11-20": 455943,
-  "2022-11-21": 455985,
-  "2022-11-22": 456112,
-  "2022-11-23": 456090,
-  "2022-11-24": 456187,
-  "2022-11-25": 456296,
-  "2022-11-26": 456375,
-  "2022-11-27": 456420,
-  "2022-11-28": 456460,
-  "2022-11-29": 456494,
-  "2022-11-30": 456541,
-  "2022-12-01": 456592,
-  "2022-12-02": 456634,
-  "2022-12-03": 456679,
-  "2022-12-04": 456760,
-  "2022-12-05": 456817,
-  "2022-12-06": 456861,
-  "2022-12-07": 456937,
-  "2022-12-08": 457006,
-  "2022-12-09": 457077,
-  "2022-12-10": 457127,
-  "2022-12-11": 457176,
-  "2022-12-12": 457222,
-  "2022-12-13": 457265,
-  "2022-12-14": 457284,
-  "2022-12-15": 457328,
-  "2022-12-16": 457396,
-  "2022-12-17": 457473,
-  "2022-12-18": 457548,
-  "2022-12-19": 457596,
-  "2022-12-20": 457749,
-  "2022-12-21": 457749,
-  "2022-12-22": 457796,
-  "2022-12-24": 457959,
-  "2022-12-25": 458039,
-  "2022-12-26": 458108,
-  "2022-12-27": 458161,
-  "2022-12-28": 458244,
-  "2022-12-29": 458337,
-  "2022-12-30": 458420,
-  "2022-12-31": 458483,
-  "2023-01-01": 458561,
-  "2023-01-02": 458641,
-  "2023-01-03": 458751,
-  "2023-01-04": 458807,
-  "2023-01-05": 458880,
-  "2023-01-06": 459002,
-  "2023-01-07": 459132,
-  "2023-01-08": 459164,
-  "2023-01-09": 459275,
-  "2023-01-10": 459369,
-  "2023-01-11": 459469,
-  "2023-01-12": 459569,
-  "2023-01-13": 459674,
-  "2023-01-14": 459871,
-  "2023-01-15": 459911,
-  "2023-01-16": 460034,
-  "2023-01-17": 460172,
-  "2023-01-18": 460290,
-  "2023-01-19": 460430,
-  "2023-01-20": 460571,
-  "2023-01-21": 460689,
-  "2023-01-22": 460802,
-  "2023-01-23": 460906,
-  "2023-01-24": 461008,
-  "2023-01-25": 461111,
-  "2023-01-26": 461219,
-  "2023-01-27": 461367,
-  "2023-01-28": 461474,
-  "2023-01-29": 461579,
-  "2023-01-30": 461670,
-  "2023-01-31": 461670,
-  "2023-02-01": 461909,
-  "2023-02-02": 461988,
-  "2023-02-03": 462100,
-  "2023-02-04": 462219,
-  "2023-02-05": 462310,
-  "2023-02-06": 462401,
-  "2023-02-07": 462506,
-  "2023-02-08": 462695,
-  "2023-02-09": 462695,
-  "2023-02-10": 462791,
-  "2023-02-11": 462914,
-  "2023-02-12": 463110,
-  "2023-02-13": 463225,
-  "2023-02-14": 463225,
-  "2023-02-15": 463295,
-  "2023-02-16": 463398,
-  "2023-02-17": 463548,
-  "2023-02-18": 463776,
-  "2023-02-19": 463797,
-  "2023-02-20": 463868,
-  "2023-02-21": 463966,
-  "2023-02-22": 464061,
-  "2023-02-23": 464153,
-  "2023-02-24": 464210,
-  "2023-02-25": 464322,
-  "2023-02-26": 464384,
-  "2023-02-27": 464549,
-  "2023-02-28": 464549,
-  "2023-03-01": 464622,
-  "2023-03-02": 464708,
-  "2023-03-03": 464772,
-  "2023-03-04": 464831,
-  "2023-03-05": 464957,
-  "2023-03-06": 464957,
-  "2023-03-07": 465008,
-  "2023-03-08": 465054,
-  "2023-03-09": 465091,
-  "2023-03-10": 465136,
-  "2023-03-11": 465175,
-  "2023-03-12": 465247,
-  "2023-03-13": 465286,
-  "2023-03-14": 465324,
-  "2023-03-15": 465351,
-  "2023-03-16": 465390,
-  "2023-03-17": 465390,
-  "2023-03-18": 465493,
-  "2023-03-19": 465561,
-  "2023-03-20": 465615,
-  "2023-03-21": 465641,
-  "2023-03-22": 465683,
-  "2023-03-23": 465736,
-  "2023-03-24": 465736,
-  "2023-03-25": 465858,
-  "2023-03-26": 465932,
-  "2023-03-27": 466038,
-  "2023-03-28": 466124,
-  "2023-03-29": 466217,
-  "2023-03-30": 466383,
-  "2023-03-31": 466383,
-  "2023-04-01": 466471,
-  "2023-04-02": 466570,
-  "2023-04-03": 466626,
-  "2023-04-04": 466675,
-  "2023-04-05": 466761,
-  "2023-04-06": 466851,
-  "2023-04-07": 466932,
-  "2023-04-09": 467100,
-  "2023-04-10": 467182,
-  "2023-04-11": 467301,
-  "2023-04-12": 467301,
-  "2023-04-13": 467400,
-  "2023-04-14": 467525,
-  "2023-04-15": 467644,
-  "2023-04-16": 467739,
-  "2023-04-17": 467842,
-  "2023-04-18": 467939,
-  "2023-04-19": 468057,
-  "2023-04-20": 468159,
-  "2023-04-21": 468283,
-  "2023-04-22": 468388,
-  "2023-04-23": 468508,
-  "2023-04-24": 468604,
-  "2023-04-25": 468677,
-  "2023-04-26": 468776,
-  "2023-04-27": 468863,
-  "2023-04-28": 468944,
-  "2023-04-29": 469037,
-  "2023-04-30": 469097,
-  "2023-05-01": 469179,
-  "2023-05-02": 469291,
-  "2023-05-03": 469386,
-  "2023-05-04": 469485,
-  "2023-05-05": 469579,
-  "2023-05-06": 469687,
-  "2023-05-07": 469772,
-  "2023-05-08": 469866,
-  "2023-05-09": 469945,
-  "2023-05-10": 470012,
-  "2023-05-11": 470094,
-  "2023-05-12": 470181,
-  "2023-05-13": 470267,
-  "2023-05-14": 470361,
-  "2023-05-15": 470445,
-  "2023-05-16": 470520,
-  "2023-05-17": 470608,
-  "2023-05-18": 470705,
-  "2023-05-19": 470827,
-  "2023-05-20": 471046,
-  "2023-05-21": 471046,
-  "2023-05-22": 471046,
-  "2023-05-23": 471224,
-  "2023-05-24": 471368,
-  "2023-05-25": 471400,
-  "2023-05-26": 471496,
-  "2023-05-27": 471600,
-  "2023-05-28": 471711,
-  "2023-05-29": 471711,
-  "2023-05-30": 471885,
-  "2023-05-31": 471978,
-  "2023-06-01": 472071,
-  "2023-06-02": 472170,
-  "2023-06-03": 472286,
-  "2023-06-04": 472399,
-  "2023-06-05": 472514,
-  "2023-06-06": 472634,
-  "2023-06-07": 472747,
-  "2023-06-08": 472838,
-  "2023-06-09": 472927,
-  "2023-06-10": 473027,
-  "2023-06-11": 473150,
-  "2023-06-12": 473239,
-  "2023-06-13": 473344,
-  "2023-06-14": 473422,
-  "2023-06-15": 473503,
-  "2023-06-16": 473614,
-  "2023-06-17": 473709,
-  "2023-06-18": 473807,
-  "2023-06-19": 473881,
-  "2023-06-20": 473977,
-  "2023-06-21": 474063,
-  "2023-06-22": 474129,
-  "2023-06-23": 474192,
-  "2023-06-24": 474265,
-  "2023-06-25": 474347,
-  "2023-06-26": 474437,
-  "2023-06-27": 474504,
-  "2023-06-28": 474573,
-  "2023-06-29": 474649,
-  "2023-06-30": 474751,
-  "2023-07-01": 474942,
-  "2023-07-02": 474942,
-  "2023-07-03": 475058,
-  "2023-07-04": 475149,
-  "2023-07-05": 475220,
-  "2023-07-06": 475406,
-  "2023-07-07": 475406,
-  "2023-07-08": 475509,
-  "2023-07-09": 475598,
-  "2023-07-10": 475719,
-  "2023-07-11": 475808,
-  "2023-07-12": 475909,
-  "2023-07-13": 475977,
-  "2023-07-14": 476059,
-  "2023-07-15": 476158,
-  "2023-07-16": 476249,
-  "2023-07-17": 476347,
-  "2023-07-18": 476437,
-  "2023-07-19": 476522,
-  "2023-07-20": 476617,
-  "2023-07-21": 476691,
-  "2023-07-22": 476761,
-  "2023-07-23": 476858,
-  "2023-07-24": 476943,
-  "2023-07-25": 477053,
-  "2023-07-26": 477135,
-  "2023-07-27": 477227,
-  "2023-07-28": 477315,
-  "2023-07-29": 477420,
-  "2023-07-30": 477559,
-  "2023-07-31": 477657,
-  "2023-08-01": 477755,
-  "2023-08-02": 477838,
-  "2023-08-03": 477929,
-  "2023-08-04": 478016,
-  "2023-08-05": 478150,
-  "2023-08-06": 478350,
-  "2023-08-07": 478350,
-  "2023-08-08": 478445,
-  "2023-08-09": 478540,
-  "2023-08-10": 478636,
-  "2023-08-11": 478721,
-  "2023-08-12": 478808,
-  "2023-08-13": 478883,
-  "2023-08-14": 479004,
-  "2023-08-15": 479196,
-  "2023-08-16": 479196,
-  "2023-08-17": 479295,
-  "2023-08-18": 479393,
-  "2023-08-19": 479484,
-  "2023-08-20": 479581,
-  "2023-08-21": 479666,
-  "2023-08-22": 479749,
-  "2023-08-23": 479849,
-  "2023-08-24": 479945,
-  "2023-08-25": 480060,
-  "2023-08-26": 480175,
-  "2023-08-27": 480304,
-  "2023-08-28": 480403,
-  "2023-08-29": 480484,
-  "2023-08-30": 480567,
-  "2023-08-31": 480666,
-  "2023-09-01": 480886,
-  "2023-09-02": 480886,
-  "2023-09-03": 480954,
-  "2023-09-04": 481039,
-  "2023-09-05": 481104,
-  "2023-09-06": 481190,
-  "2023-09-07": 481289,
-  "2023-09-08": 481391,
-  "2023-09-09": 481496,
-  "2023-09-10": 481579,
-  "2023-09-11": 481660,
-  "2023-09-12": 481731,
-  "2023-09-13": 481827,
-  "2023-09-14": 481886,
-  "2023-09-15": 481970,
-  "2023-09-16": 482039,
-  "2023-09-17": 482106,
-  "2023-09-18": 482185,
-  "2023-09-19": 482246,
-  "2023-09-20": 482315,
-  "2023-09-21": 482390,
-  "2023-09-22": 482454,
-  "2023-09-23": 482538,
-  "2023-09-24": 482618,
-  "2023-09-25": 482700,
-  "2023-09-26": 482796,
-  "2023-09-27": 482848,
-  "2023-09-28": 482912,
-  "2023-09-29": 482989,
-  "2023-09-30": 483074,
-  "2023-10-01": 483157,
-  "2023-10-02": 483208,
-  "2023-10-03": 483269,
-  "2023-10-04": 483323,
-  "2023-10-05": 483397,
-  "2023-10-06": 483446,
-  "2023-10-07": 483487,
-  "2023-10-08": 483562,
-  "2023-10-09": 483630,
-  "2023-10-10": 483058,
-  "2023-10-11": 482551,
-  "2023-10-12": 482551,
-  "2023-10-13": 482098,
-  "2023-10-14": 481745,
-  "2023-10-15": 481726,
-  "2023-10-16": 481783,
-  "2023-10-17": 481857,
-  "2023-10-18": 481908,
-  "2023-10-19": 481996,
-  "2023-10-20": 482058,
-  "2023-10-21": 482128,
-  "2023-10-22": 482206,
-  "2023-10-23": 482281,
-  "2023-10-24": 482341,
-  "2023-10-25": 482378,
-  "2023-10-26": 482437,
-  "2023-10-27": 482489,
-  "2023-10-28": 482558,
-  "2023-10-29": 482625,
-  "2023-10-30": 482723,
-  "2023-10-31": 482723,
-  "2023-11-01": 482754,
-  "2023-11-02": 482817,
-  "2023-11-03": 482883,
-  "2023-11-04": 482948,
-  "2023-11-05": 482995,
-  "2023-11-06": 483056,
-  "2023-11-07": 483110,
-  "2023-11-08": 483150,
-  "2023-11-09": 483206,
-  "2023-11-10": 483283,
-  "2023-11-11": 483356,
-  "2023-11-12": 483411,
-  "2023-11-13": 483477,
-  "2023-11-14": 483516,
-  "2023-11-15": 483516,
-  "2023-11-16": 483651,
-  "2023-11-17": 483740,
-  "2023-11-18": 483740,
-  "2023-11-19": 483794,
-  "2023-11-20": 483863,
-  "2023-11-21": 483908,
-  "2023-11-22": 483954,
-  "2023-11-23": 484016,
-  "2023-11-24": 484068,
-  "2023-11-25": 484120,
-  "2023-11-26": 484173,
-  "2023-11-27": 484228,
-  "2023-11-28": 484277,
-  "2023-11-29": 484374,
-  "2023-11-30": 484374,
-  "2023-12-01": 484436,
-  "2023-12-02": 484476,
-  "2023-12-03": 484525,
-  "2023-12-04": 484571,
-  "2023-12-05": 484602,
-  "2023-12-06": 484660,
-  "2023-12-07": 484709,
-  "2023-12-08": 484769,
-  "2023-12-09": 484823,
-  "2023-12-10": 484891,
-  "2023-12-11": 484949,
-  "2023-12-12": 485005,
-  "2023-12-13": 485060,
-  "2023-12-14": 485120,
-  "2023-12-15": 485172,
-  "2023-12-16": 485249,
-  "2023-12-17": 485323,
-  "2023-12-18": 485389,
-  "2023-12-19": 485435,
-  "2023-12-20": 485483,
-  "2023-12-21": 485533,
-  "2023-12-22": 485577,
-  "2023-12-23": 485646,
-  "2023-12-24": 485717,
-  "2023-12-25": 485781,
-  "2023-12-26": 485842,
-  "2023-12-27": 485893,
-  "2023-12-30": 486086,
-  "2023-12-31": 486148,
-  "2024-01-01": 486219,
-  "2024-01-02": 486270,
-  "2024-01-03": 486315
+  "2024-01-17": 484168,
+  "date_first_scraped": "2021-12-21",
+  "description": "Come on, man. Just smile!",
+  "name": "Just Smile",
+  "tracks": [
+    {
+      "album": {
+        "name": "100 Pound a Kali (feat. Kali Blaxx) - Single",
+        "url": "https://open.spotify.com/album/2gpLJUMuesqNvhRWastDjC"
+      },
+      "artists": [
+        {
+          "name": "Green Lion Crew",
+          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
+        },
+        {
+          "name": "Cut Stone",
+          "url": "https://open.spotify.com/artist/2n90OvLEoTFhRC0AT0bS48"
+        },
+        {
+          "name": "Kali Blaxx",
+          "url": "https://open.spotify.com/artist/6847AhFVSj1r1KknNDt6uz"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159705,
+      "name": "100 Pound a Kali",
+      "url": "https://open.spotify.com/track/4ueCKMfynKI8B2SzoPJaTr"
+    },
+    {
+      "album": {
+        "name": "A Vibe (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "A Vibe (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 224413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
+    },
+    {
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 224413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/6YvdsRy3lNHkjwK7L4ojMi"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188935,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/28XBIzpPzfgXwrno4B8U1f"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181434,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
+    },
+    {
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 225384,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/2JU83LnIrQS9kb3YS1B1ns"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225384,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/6RdojpAhP5ch1SznHxVyjC"
+    },
+    {
+      "album": {
+        "name": "Collie Buddz",
+        "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221506,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173251,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "album": {
+        "name": "Do You See",
+        "url": "https://open.spotify.com/album/2k8B3PeBWVB1y2RQx0ADav"
+      },
+      "artists": [
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235160,
+      "name": "Do You See",
+      "url": "https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8"
+    },
+    {
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Jemere Morgan",
+          "url": "https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212267,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6C76s0vqIxMnVH7ZOsdtS2"
+    },
+    {
+      "album": {
+        "name": "Feeling Irie",
+        "url": "https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH"
+      },
+      "artists": [
+        {
+          "name": "General Degree",
+          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "Feeling Irie",
+      "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
+    },
+    {
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
+      },
+      "artists": [
+        {
+          "name": "Clinton Fearon",
+          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2FmD1oi2Wna2jcQcYEEYn5"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290200,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/5tU3ADncFHfdDScnuzWTXa"
+      },
+      "artists": [
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 273792,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT"
+    },
+    {
+      "album": {
+        "name": "Yell Fire!",
+        "url": "https://open.spotify.com/album/5qYW0P0YKnMBOvbpIJWB51"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti",
+          "url": "https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo"
+        },
+        {
+          "name": "Spearhead",
+          "url": "https://open.spotify.com/artist/19hpf6aLV5qwTfGOGptzA3"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 336040,
+      "name": "Hey Now Now",
+      "url": "https://open.spotify.com/track/2kftb6UA1jan9BaDnYt6Xa"
+    },
+    {
+      "album": {
+        "name": "Yell Fire!",
+        "url": "https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336040,
+      "name": "Hey Now Now",
+      "url": "https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF"
+    },
+    {
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203077,
+      "name": "Higher Place",
+      "url": "https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl"
+    },
+    {
+      "album": {
+        "name": "We All Are One: The Best Of Jimmy Cliff",
+        "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "I Can See Clearly Now",
+      "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
+    },
+    {
+      "album": {
+        "name": "From Here To Now To You",
+        "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+    },
+    {
+      "album": {
+        "name": "Better Must Come Riddim",
+        "url": "https://open.spotify.com/album/5D2lB57hqgT7MHXPk7qltd"
+      },
+      "artists": [
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232413,
+      "name": "If You Know",
+      "url": "https://open.spotify.com/track/2PMXhooCONyFAJCcepLCph"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193586,
+      "name": "Iron Lion Zion",
+      "url": "https://open.spotify.com/track/4rQlB3oZ2YsUe976wCAPlD"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193586,
+      "name": "Iron Lion Zion",
+      "url": "https://open.spotify.com/track/7jzdw79XZtbF2HcX4ofHge"
+    },
+    {
+      "album": {
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202432,
+      "name": "Iron Lion Zion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
+    },
+    {
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 189173,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
+    },
+    {
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0"
+    },
+    {
+      "album": {
+        "name": "Trojan Lovers Collection",
+        "url": "https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt"
+    },
+    {
+      "album": {
+        "name": "Trojan Lovers Collection",
+        "url": "https://open.spotify.com/album/1nmApsog19BD430O3mPzXm"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204213,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz"
+    },
+    {
+      "album": {
+        "name": "Dread & Terrible Project - 5th Anniversary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3T5KaIlXqSnWUlnM99mOjv"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257194,
+      "name": "Jah Is There",
+      "url": "https://open.spotify.com/track/05aGKJ2UcIjF9DetAnU0qF"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5svnF9TMoMnerAMo3mmNnt"
+    },
+    {
+      "album": {
+        "name": "Better Must Come Riddim",
+        "url": "https://open.spotify.com/album/5D2lB57hqgT7MHXPk7qltd"
+      },
+      "artists": [
+        {
+          "name": "Pop Style",
+          "url": "https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H"
+        },
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168000,
+      "name": "Just U and I",
+      "url": "https://open.spotify.com/track/0FTxOb1jOXvonCIVtiuEvx"
+    },
+    {
+      "album": {
+        "name": "King Tubby's",
+        "url": "https://open.spotify.com/album/23ZnXnDhsyrNoKO9R8MLyw"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        },
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238463,
+      "name": "King Tubby's",
+      "url": "https://open.spotify.com/track/2gkLKPNT5YO4O8K0JJwVf6"
+    },
+    {
+      "album": {
+        "name": "The 8 Year Affair",
+        "url": "https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251204,
+      "name": "Kingston Be Wise",
+      "url": "https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz"
+    },
+    {
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+    },
+    {
+      "album": {
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "album": {
+        "name": "The Green",
+        "url": "https://open.spotify.com/album/5yZAQbR0tpWXBuMvKjxHjR"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216240,
+      "name": "Love I",
+      "url": "https://open.spotify.com/track/4Hrw5VbQ9xDPdHdLCqBsSA"
+    },
+    {
+      "album": {
+        "name": "The Green",
+        "url": "https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "Love I",
+      "url": "https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc"
+    },
+    {
+      "album": {
+        "name": "Love Me Easy",
+        "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
+      },
+      "artists": [
+        {
+          "name": "ANORA",
+          "url": "https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170016,
+      "name": "Love Me Easy",
+      "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6t0fYRoZlM5kQ9qT19JnbZ"
+    },
+    {
+      "album": {
+        "name": "Never B4 (feat. Mr. Williamz)",
+        "url": "https://open.spotify.com/album/2QsxDpuz7uGAls5FFuh1hz"
+      },
+      "artists": [
+        {
+          "name": "Reggae Roast",
+          "url": "https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259519,
+      "name": "Never B4 (feat. Mr. Williamz) (Gentleman's Dub Club Remix)",
+      "url": "https://open.spotify.com/track/3fHZsJCLlxawWj0VQpedEN"
+    },
+    {
+      "album": {
+        "name": "Never B4 (feat. Mr. Williamz)",
+        "url": "https://open.spotify.com/album/1oNd8JCWt5xazVoIjveTSE"
+      },
+      "artists": [
+        {
+          "name": "Reggae Roast",
+          "url": "https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 259519,
+      "name": "Never B4 (feat. Mr. Williamz) - Gentleman's Dub Club Remix",
+      "url": "https://open.spotify.com/track/2RVDc70wlyLx8iGO5vBgdR"
+    },
+    {
+      "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "album": {
+        "name": "Marley OST",
+        "url": "https://open.spotify.com/album/3GNhjIdkd87lLc19w2L1jS"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/7cRTzS9N5Mn25ZZkzmp6Uy"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172813,
+      "name": "One Love - Medley",
+      "url": "https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
+    },
+    {
+      "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 177440,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+    },
+    {
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 180213,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/65712VnJQ2jx2MrmIZzfhN"
+    },
+    {
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174960,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
+    },
+    {
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Pressure Drop - Single Version",
+      "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"
+    },
+    {
+      "album": {
+        "name": "Push Time",
+        "url": "https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG"
+      },
+      "artists": [
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        },
+        {
+          "name": "Super Cat",
+          "url": "https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Push Time",
+      "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+    },
+    {
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "album": {
+        "name": "Roots & Chalice",
+        "url": "https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252014,
+      "name": "Roots & Chalice",
+      "url": "https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG"
+    },
+    {
+      "album": {
+        "name": "BLEU, Vol. 1",
+        "url": "https://open.spotify.com/album/3latFGBYveRAfvYRDIVDYe"
+      },
+      "artists": [
+        {
+          "name": "Navy",
+          "url": "https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao"
+        },
+        {
+          "name": "Marwin",
+          "url": "https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA"
+        },
+        {
+          "name": "Taste of Pluto",
+          "url": "https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 175952,
+      "name": "Scorpio's Letter",
+      "url": "https://open.spotify.com/track/1YCa08t9po5O8BfuyzuCUE"
+    },
+    {
+      "album": {
+        "name": "Scorpio\u2019s Letter",
+        "url": "https://open.spotify.com/album/2lY0m3vfvgVafNQ05eMYVW"
+      },
+      "artists": [
+        {
+          "name": "Taste of Pluto",
+          "url": "https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT"
+        },
+        {
+          "name": "Navy",
+          "url": "https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao"
+        },
+        {
+          "name": "Marwin",
+          "url": "https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 175952,
+      "name": "Scorpio's Letter",
+      "url": "https://open.spotify.com/track/3VSqwaaVdUI2XN5qZqxoMc"
+    },
+    {
+      "album": {
+        "name": "Scorpio's Letter",
+        "url": "https://open.spotify.com/album/21IhZJZ2C8Mo0dDjjOqS7E"
+      },
+      "artists": [
+        {
+          "name": "Taste of Pluto",
+          "url": "https://open.spotify.com/artist/3828W36d9HZq4E5THoccvT"
+        },
+        {
+          "name": "Navy",
+          "url": "https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao"
+        },
+        {
+          "name": "Marwin",
+          "url": "https://open.spotify.com/artist/3vvASoIawDVzzybIsuFYyA"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176952,
+      "name": "Scorpio's Letter",
+      "url": "https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn"
+    },
+    {
+      "album": {
+        "name": "Strictly Roots",
+        "url": "https://open.spotify.com/album/2wF68GbQuZQxui1sOq385l"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/3gonK3rQEsWNMyETqnOyxl"
+    },
+    {
+      "album": {
+        "name": "Strictly Roots",
+        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236930,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
+    },
+    {
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Sunshine",
+        "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "The Sound Of Sunshine",
+      "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180533,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/26JRni5Lqiyd9GNnlaz6DI"
+    },
+    {
+      "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
+        "name": "Thy Will",
+        "url": "https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175285,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/3fmRr51BQGbdFUeFfyGn04"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/7aDfcYyGqvQ9eW5rzJfrML"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1IzmnrmW5mYDLXs30RddwN"
+    },
+    {
+      "album": {
+        "name": "Peace In A Time Of War",
+        "url": "https://open.spotify.com/album/5r9hBpqO48JZAUjZb3A8D1"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1yY9KKrsCOe5DUDstpvYke"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "True To Myself",
+      "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
+    },
+    {
+      "album": {
+        "name": "Ups And Downs",
+        "url": "https://open.spotify.com/album/11wUMGuN8BrCaeAdjbriic"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 214000,
+      "name": "Ups And Downs",
+      "url": "https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9"
+    },
+    {
+      "album": {
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
+    },
+    {
+      "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "album": {
+        "name": "Well Excellent",
+        "url": "https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Jr. Demus",
+          "url": "https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 216000,
+      "name": "Well Excellent",
+      "url": "https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL"
+    },
+    {
+      "album": {
+        "name": "Soundkilla Mindset",
+        "url": "https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K"
+      },
+      "artists": [
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "Junior Demus",
+          "url": "https://open.spotify.com/artist/5IFrtFQVF41xZVKgfCtnlj"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Well Excellent",
+      "url": "https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk"
+    },
+    {
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "album": {
+        "name": "Throwback Songs",
+        "url": "https://open.spotify.com/album/1FirK6WH5dVjMLSRpjjHAI"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/4m2jLCVMFoz9s2aig2w8mm"
+    },
+    {
+      "album": {
+        "name": "Sublime (Explicit Version)",
+        "url": "https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171066,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3oVSsJXNADnYAnZWiEWFJH"
+    },
+    {
+      "album": {
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208860,
+      "name": "Woii",
+      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
+    },
+    {
+      "album": {
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
+    },
+    {
+      "album": {
+        "name": "This Is Crucial Reggae - Desmond Dekker",
+        "url": "https://open.spotify.com/album/3GgZQFcYrGnJJb8MEV0qt9"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/7c4jhFb9hxGQ4UimhKPIWF"
+    },
+    {
+      "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ"
+    },
+    {
+      "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 162893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVu0D7Y8cYcs"
 }

@@ -4,7 +4,7 @@
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-627 songs - 1 day 10 hr 36 min
+628 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,8 @@
 | [被你遺忘的森林](https://open.spotify.com/track/7rseCP01wXUWKTbeNcoSd3) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [孤單會消失離開不見](https://open.spotify.com/album/5HZpd711NQpXFdrYjdmMpO) | 4:27 | 2023-09-21 |  |
 | [覺 Ft\. 大支 \(Prod\. Huangfu\)](https://open.spotify.com/track/663jMP0u7pzqbcO6Widk9H) | [草屯囝仔](https://open.spotify.com/artist/4iWbokr6sX6boUL1Jlxj28), [大支](https://open.spotify.com/artist/4SXx5pMoj7uGi1WPcZhvXA), [Huangfu](https://open.spotify.com/artist/3tWGUNAljQ0Le36qt4thBm) | [覺 Ft\. 大支 \(Prod\. Huangfu\)](https://open.spotify.com/album/061TdKzFq1tsk9ayl76tUc) | 3:30 | 2022-03-28 | 2022-04-12 |
 | [角落](https://open.spotify.com/track/379i6I2jj1QTGabQrjlMz3) | [湯捷](https://open.spotify.com/artist/6ppk3Nvwb2FrS1EGfzkSAh) | [角落](https://open.spotify.com/album/2YfOy6i9Ai4B2gBNUD4qdS) | 3:12 | 2022-10-17 | 2023-01-03 |
-| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2023-09-21 |  |
+| [說好不哭](https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 3:40 | 2023-09-21 |  |
+| [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2023-09-21 | 2024-01-09 |
 | [說走就走](https://open.spotify.com/track/4u2ZKOTSirSvlnEuY9KpWj) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [Zephyr Wu](https://open.spotify.com/artist/5eTBl95OAM2pdfOcTxrVYk) | [說走就走](https://open.spotify.com/album/2bM8neOD7vfiTdh3NPT6Bt) | 3:46 | 2022-06-06 | 2022-07-19 |
 | [說走就走](https://open.spotify.com/track/0ZiZmBsLAQb1hb0sJ25sUl) | [Psy.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [說走就走](https://open.spotify.com/album/2xxaHDXJlqL2TwvnGSt6FK) | 3:01 | 2022-08-01 | 2022-08-23 |
 | [誰](https://open.spotify.com/track/11DUHbs4Vu8M7ppePmszse) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [誰](https://open.spotify.com/album/4Gs0mmG0ey02lOz3bgqisF) | 4:11 | 2023-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BJVXVcrG6H.md) - [plain]
 
 > Representantes de la rima Charrúa\. Foto: Dostrescinco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,074 likes - 79 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,128 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

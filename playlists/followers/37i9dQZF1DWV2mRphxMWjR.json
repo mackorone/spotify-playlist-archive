@@ -1,569 +1,1525 @@
 {
-  "2022-06-10": 13197,
-  "2022-06-11": 14832,
-  "2022-06-12": 15574,
-  "2022-06-13": 16101,
-  "2022-06-14": 16501,
-  "2022-06-15": 16849,
-  "2022-06-16": 17166,
-  "2022-06-17": 17390,
-  "2022-06-18": 17588,
-  "2022-06-19": 17998,
-  "2022-06-20": 17998,
-  "2022-06-21": 18183,
-  "2022-06-22": 19251,
-  "2022-06-23": 19251,
-  "2022-06-24": 19610,
-  "2022-06-25": 19848,
-  "2022-06-26": 20026,
-  "2022-06-27": 20177,
-  "2022-06-28": 20314,
-  "2022-06-29": 20478,
-  "2022-06-30": 20654,
-  "2022-07-01": 20825,
-  "2022-07-02": 20985,
-  "2022-07-03": 21153,
-  "2022-07-04": 21320,
-  "2022-07-05": 21491,
-  "2022-07-06": 22446,
-  "2022-07-07": 23226,
-  "2022-07-08": 23933,
-  "2022-07-09": 24900,
-  "2022-07-10": 25473,
-  "2022-07-11": 26009,
-  "2022-07-12": 26424,
-  "2022-07-13": 26732,
-  "2022-07-14": 27246,
-  "2022-07-15": 27603,
-  "2022-07-16": 27937,
-  "2022-07-17": 28255,
-  "2022-07-18": 28513,
-  "2022-07-19": 28803,
-  "2022-07-20": 29066,
-  "2022-07-21": 29237,
-  "2022-07-22": 29402,
-  "2022-07-23": 29793,
-  "2022-07-24": 30119,
-  "2022-07-25": 30394,
-  "2022-07-26": 30655,
-  "2022-07-27": 31096,
-  "2022-07-28": 31425,
-  "2022-07-29": 31847,
-  "2022-07-30": 32382,
-  "2022-07-31": 32382,
-  "2022-08-01": 32684,
-  "2022-08-02": 33309,
-  "2022-08-03": 33309,
-  "2022-08-04": 33643,
-  "2022-08-05": 34039,
-  "2022-08-06": 34760,
-  "2022-08-07": 40652,
-  "2022-08-08": 45898,
-  "2022-08-09": 49818,
-  "2022-08-10": 54675,
-  "2022-08-11": 62278,
-  "2022-08-12": 68958,
-  "2022-08-13": 75406,
-  "2022-08-14": 82099,
-  "2022-08-15": 88352,
-  "2022-08-16": 93958,
-  "2022-08-17": 99375,
-  "2022-08-18": 104319,
-  "2022-08-19": 108556,
-  "2022-08-20": 113082,
-  "2022-08-21": 117437,
-  "2022-08-22": 122084,
-  "2022-08-23": 125987,
-  "2022-08-24": 128942,
-  "2022-08-25": 131541,
-  "2022-08-26": 133824,
-  "2022-08-27": 136058,
-  "2022-08-28": 138790,
-  "2022-08-29": 141402,
-  "2022-08-30": 143398,
-  "2022-08-31": 145085,
-  "2022-09-01": 146796,
-  "2022-09-02": 148505,
-  "2022-09-03": 149932,
-  "2022-09-04": 151619,
-  "2022-09-05": 153471,
-  "2022-09-06": 154804,
-  "2022-09-07": 155921,
-  "2022-09-09": 157916,
-  "2022-09-10": 158861,
-  "2022-09-11": 160003,
-  "2022-09-12": 161257,
-  "2022-09-13": 162134,
-  "2022-09-15": 163678,
-  "2022-09-16": 164390,
-  "2022-09-17": 165022,
-  "2022-09-18": 165946,
-  "2022-09-19": 166904,
-  "2022-09-20": 167782,
-  "2022-09-21": 168464,
-  "2022-09-22": 169574,
-  "2022-09-23": 170936,
-  "2022-09-24": 172619,
-  "2022-09-25": 174627,
-  "2022-09-26": 176745,
-  "2022-09-27": 178256,
-  "2022-09-28": 179499,
-  "2022-09-29": 180865,
-  "2022-09-30": 182187,
-  "2022-10-01": 183433,
-  "2022-10-02": 184982,
-  "2022-10-03": 186608,
-  "2022-10-04": 187793,
-  "2022-10-05": 188787,
-  "2022-10-06": 189663,
-  "2022-10-07": 190465,
-  "2022-10-08": 191476,
-  "2022-10-09": 194053,
-  "2022-10-10": 194217,
-  "2022-10-11": 195293,
-  "2022-10-12": 196122,
-  "2022-10-13": 196899,
-  "2022-10-14": 198469,
-  "2022-10-15": 199855,
-  "2022-10-16": 201507,
-  "2022-10-17": 203114,
-  "2022-10-18": 204211,
-  "2022-10-19": 205038,
-  "2022-10-20": 205881,
-  "2022-10-21": 206561,
-  "2022-10-22": 207223,
-  "2022-10-23": 208004,
-  "2022-10-24": 208718,
-  "2022-10-25": 209267,
-  "2022-10-26": 209833,
-  "2022-10-27": 210356,
-  "2022-10-28": 210835,
-  "2022-10-29": 211306,
-  "2022-10-30": 211847,
-  "2022-10-31": 212414,
-  "2022-11-01": 212849,
-  "2022-11-02": 213278,
-  "2022-11-03": 213957,
-  "2022-11-04": 216232,
-  "2022-11-05": 222238,
-  "2022-11-06": 228210,
-  "2022-11-07": 233169,
-  "2022-11-08": 238449,
-  "2022-11-09": 241518,
-  "2022-11-10": 243647,
-  "2022-11-11": 245288,
-  "2022-11-12": 247157,
-  "2022-11-13": 248400,
-  "2022-11-14": 249990,
-  "2022-11-15": 251295,
-  "2022-11-16": 252387,
-  "2022-11-17": 253423,
-  "2022-11-18": 253767,
-  "2022-11-19": 253516,
-  "2022-11-20": 253749,
-  "2022-11-21": 254436,
-  "2022-11-22": 255288,
-  "2022-11-23": 256183,
-  "2022-11-24": 257342,
-  "2022-11-25": 258603,
-  "2022-11-26": 259611,
-  "2022-11-27": 260325,
-  "2022-11-28": 260893,
-  "2022-11-29": 261334,
-  "2022-11-30": 261729,
-  "2022-12-01": 262132,
-  "2022-12-02": 262593,
-  "2022-12-03": 262827,
-  "2022-12-04": 263442,
-  "2022-12-05": 263951,
-  "2022-12-06": 264263,
-  "2022-12-07": 264565,
-  "2022-12-08": 264861,
-  "2022-12-09": 265110,
-  "2022-12-10": 265417,
-  "2022-12-11": 265681,
-  "2022-12-12": 265982,
-  "2022-12-13": 266202,
-  "2022-12-14": 266404,
-  "2022-12-15": 266655,
-  "2022-12-16": 266848,
-  "2022-12-17": 267035,
-  "2022-12-18": 267253,
-  "2022-12-19": 267435,
-  "2022-12-20": 267849,
-  "2022-12-21": 267849,
-  "2022-12-22": 268013,
-  "2022-12-24": 268399,
-  "2022-12-25": 268635,
-  "2022-12-26": 268854,
-  "2022-12-27": 269052,
-  "2022-12-28": 269204,
-  "2022-12-29": 269431,
-  "2022-12-30": 269631,
-  "2022-12-31": 269804,
-  "2023-01-01": 270015,
-  "2023-01-02": 270210,
-  "2023-01-03": 270456,
-  "2023-01-04": 270606,
-  "2023-01-05": 270757,
-  "2023-01-06": 270927,
-  "2023-01-07": 271171,
-  "2023-01-08": 271201,
-  "2023-01-09": 271386,
-  "2023-01-10": 271492,
-  "2023-01-11": 271621,
-  "2023-01-12": 271752,
-  "2023-01-13": 271909,
-  "2023-01-14": 272139,
-  "2023-01-15": 272174,
-  "2023-01-16": 272329,
-  "2023-01-17": 272463,
-  "2023-01-18": 272608,
-  "2023-01-19": 272732,
-  "2023-01-20": 272835,
-  "2023-01-21": 272981,
-  "2023-01-22": 273118,
-  "2023-01-23": 273284,
-  "2023-01-24": 273427,
-  "2023-01-25": 273559,
-  "2023-01-26": 273656,
-  "2023-01-27": 273781,
-  "2023-01-28": 273899,
-  "2023-01-29": 274032,
-  "2023-01-30": 274198,
-  "2023-01-31": 274198,
-  "2023-02-01": 274447,
-  "2023-02-02": 274583,
-  "2023-02-03": 274704,
-  "2023-02-04": 274808,
-  "2023-02-05": 274905,
-  "2023-02-06": 274988,
-  "2023-02-07": 275051,
-  "2023-02-08": 275204,
-  "2023-02-09": 275204,
-  "2023-02-10": 275301,
-  "2023-02-11": 275421,
-  "2023-02-12": 275643,
-  "2023-02-13": 275747,
-  "2023-02-14": 275747,
-  "2023-02-15": 275819,
-  "2023-02-16": 275902,
-  "2023-02-17": 276014,
-  "2023-02-18": 276195,
-  "2023-02-19": 276217,
-  "2023-02-20": 276281,
-  "2023-02-21": 276333,
-  "2023-02-22": 276408,
-  "2023-02-23": 276444,
-  "2023-02-24": 276492,
-  "2023-02-25": 276589,
-  "2023-02-26": 276640,
-  "2023-02-27": 276787,
-  "2023-02-28": 276787,
-  "2023-03-01": 276828,
-  "2023-03-02": 276897,
-  "2023-03-03": 276952,
-  "2023-03-04": 277010,
-  "2023-03-05": 277165,
-  "2023-03-06": 277165,
-  "2023-03-07": 277231,
-  "2023-03-08": 277299,
-  "2023-03-09": 277491,
-  "2023-03-10": 277730,
-  "2023-03-11": 277978,
-  "2023-03-12": 278215,
-  "2023-03-13": 278449,
-  "2023-03-14": 278666,
-  "2023-03-15": 278885,
-  "2023-03-16": 279052,
-  "2023-03-17": 279052,
-  "2023-03-18": 279439,
-  "2023-03-19": 279636,
-  "2023-03-20": 279842,
-  "2023-03-21": 280025,
-  "2023-03-22": 280211,
-  "2023-03-23": 280439,
-  "2023-03-24": 280439,
-  "2023-03-25": 280825,
-  "2023-03-26": 281026,
-  "2023-03-27": 281232,
-  "2023-03-28": 281411,
-  "2023-03-29": 281612,
-  "2023-03-30": 282092,
-  "2023-03-31": 282092,
-  "2023-04-01": 282282,
-  "2023-04-02": 282480,
-  "2023-04-03": 282675,
-  "2023-04-04": 282827,
-  "2023-04-05": 282977,
-  "2023-04-06": 283176,
-  "2023-04-07": 283331,
-  "2023-04-09": 283635,
-  "2023-04-10": 283798,
-  "2023-04-11": 284110,
-  "2023-04-12": 284110,
-  "2023-04-13": 284274,
-  "2023-04-14": 284447,
-  "2023-04-15": 284598,
-  "2023-04-16": 284766,
-  "2023-04-17": 284920,
-  "2023-04-18": 285037,
-  "2023-04-19": 285154,
-  "2023-04-20": 285286,
-  "2023-04-21": 285406,
-  "2023-04-22": 285509,
-  "2023-04-23": 285608,
-  "2023-04-24": 285718,
-  "2023-04-25": 285824,
-  "2023-04-26": 285915,
-  "2023-04-27": 286036,
-  "2023-04-28": 286136,
-  "2023-04-29": 286208,
-  "2023-04-30": 286262,
-  "2023-05-01": 286357,
-  "2023-05-02": 286422,
-  "2023-05-03": 286469,
-  "2023-05-04": 286540,
-  "2023-05-05": 286628,
-  "2023-05-06": 286698,
-  "2023-05-07": 286798,
-  "2023-05-08": 286862,
-  "2023-05-09": 286921,
-  "2023-05-10": 286984,
-  "2023-05-11": 287079,
-  "2023-05-12": 287168,
-  "2023-05-13": 287265,
-  "2023-05-14": 287308,
-  "2023-05-15": 287371,
-  "2023-05-16": 287429,
-  "2023-05-17": 287464,
-  "2023-05-18": 287520,
-  "2023-05-19": 287591,
-  "2023-05-20": 287753,
-  "2023-05-21": 287753,
-  "2023-05-22": 287753,
-  "2023-05-23": 287823,
-  "2023-05-24": 287893,
-  "2023-05-25": 287907,
-  "2023-05-26": 287956,
-  "2023-05-27": 288025,
-  "2023-05-28": 288112,
-  "2023-05-29": 288112,
-  "2023-05-30": 288220,
-  "2023-05-31": 288303,
-  "2023-06-01": 288368,
-  "2023-06-02": 288433,
-  "2023-06-03": 288488,
-  "2023-06-04": 288582,
-  "2023-06-05": 288660,
-  "2023-06-06": 288707,
-  "2023-06-07": 288782,
-  "2023-06-08": 288838,
-  "2023-06-09": 288927,
-  "2023-06-10": 288996,
-  "2023-06-11": 289090,
-  "2023-06-12": 289156,
-  "2023-06-13": 289224,
-  "2023-06-14": 289313,
-  "2023-06-15": 289377,
-  "2023-06-16": 289408,
-  "2023-06-17": 289482,
-  "2023-06-18": 289570,
-  "2023-06-19": 289669,
-  "2023-06-20": 289729,
-  "2023-06-21": 289807,
-  "2023-06-22": 289887,
-  "2023-06-23": 289960,
-  "2023-06-24": 290022,
-  "2023-06-25": 290093,
-  "2023-06-26": 290172,
-  "2023-06-27": 290222,
-  "2023-06-28": 290270,
-  "2023-06-29": 290293,
-  "2023-06-30": 290334,
-  "2023-07-01": 290457,
-  "2023-07-02": 290457,
-  "2023-07-03": 290491,
-  "2023-07-04": 290560,
-  "2023-07-05": 290635,
-  "2023-07-06": 290778,
-  "2023-07-07": 290778,
-  "2023-07-08": 290818,
-  "2023-07-09": 290884,
-  "2023-07-10": 290952,
-  "2023-07-11": 290987,
-  "2023-07-12": 291038,
-  "2023-07-13": 291120,
-  "2023-07-14": 291164,
-  "2023-07-15": 291243,
-  "2023-07-16": 291310,
-  "2023-07-17": 291351,
-  "2023-07-18": 291391,
-  "2023-07-19": 291492,
-  "2023-07-20": 291567,
-  "2023-07-21": 291647,
-  "2023-07-22": 291728,
-  "2023-07-23": 291810,
-  "2023-07-24": 291882,
-  "2023-07-25": 291944,
-  "2023-07-26": 292031,
-  "2023-07-27": 292105,
-  "2023-07-28": 292154,
-  "2023-07-29": 292255,
-  "2023-07-30": 292383,
-  "2023-07-31": 292486,
-  "2023-08-01": 292609,
-  "2023-08-02": 292734,
-  "2023-08-03": 292818,
-  "2023-08-04": 292918,
-  "2023-08-05": 293018,
-  "2023-08-06": 293292,
-  "2023-08-07": 293292,
-  "2023-08-08": 293409,
-  "2023-08-09": 293492,
-  "2023-08-10": 293577,
-  "2023-08-11": 293663,
-  "2023-08-12": 293760,
-  "2023-08-13": 293859,
-  "2023-08-14": 293932,
-  "2023-08-15": 294114,
-  "2023-08-16": 294114,
-  "2023-08-17": 294210,
-  "2023-08-18": 294270,
-  "2023-08-19": 294366,
-  "2023-08-20": 294449,
-  "2023-08-21": 294507,
-  "2023-08-22": 294604,
-  "2023-08-23": 294675,
-  "2023-08-24": 294738,
-  "2023-08-25": 294796,
-  "2023-08-26": 294841,
-  "2023-08-27": 294915,
-  "2023-08-28": 295000,
-  "2023-08-29": 295077,
-  "2023-08-30": 295155,
-  "2023-08-31": 295225,
-  "2023-09-01": 295349,
-  "2023-09-02": 295349,
-  "2023-09-03": 295383,
-  "2023-09-04": 295424,
-  "2023-09-05": 295495,
-  "2023-09-06": 295574,
-  "2023-09-07": 295626,
-  "2023-09-08": 295678,
-  "2023-09-09": 295760,
-  "2023-09-10": 295843,
-  "2023-09-11": 295908,
-  "2023-09-12": 295946,
-  "2023-09-13": 295997,
-  "2023-09-14": 296050,
-  "2023-09-15": 296110,
-  "2023-09-16": 296187,
-  "2023-09-17": 296225,
-  "2023-09-18": 296275,
-  "2023-09-19": 296310,
-  "2023-09-20": 296346,
-  "2023-09-21": 296389,
-  "2023-09-22": 296428,
-  "2023-09-23": 296486,
-  "2023-09-24": 296507,
-  "2023-09-25": 296538,
-  "2023-09-26": 296568,
-  "2023-09-27": 296583,
-  "2023-09-28": 296617,
-  "2023-09-29": 296633,
-  "2023-09-30": 296660,
-  "2023-10-01": 296688,
-  "2023-10-02": 296719,
-  "2023-10-03": 296742,
-  "2023-10-04": 296772,
-  "2023-10-05": 296796,
-  "2023-10-06": 296825,
-  "2023-10-07": 296853,
-  "2023-10-08": 296875,
-  "2023-10-09": 296911,
-  "2023-10-10": 296911,
-  "2023-10-11": 296957,
-  "2023-10-12": 296957,
-  "2023-10-13": 297009,
-  "2023-10-14": 297022,
-  "2023-10-15": 297054,
-  "2023-10-16": 297079,
-  "2023-10-17": 297104,
-  "2023-10-18": 297106,
-  "2023-10-19": 297125,
-  "2023-10-20": 297320,
-  "2023-10-21": 297792,
-  "2023-10-22": 298245,
-  "2023-10-23": 298486,
-  "2023-10-24": 298516,
-  "2023-10-25": 298579,
-  "2023-10-26": 298613,
-  "2023-10-27": 298665,
-  "2023-10-28": 298701,
-  "2023-10-29": 298734,
-  "2023-10-30": 298835,
-  "2023-10-31": 298835,
-  "2023-11-01": 298864,
-  "2023-11-02": 298894,
-  "2023-11-03": 298917,
-  "2023-11-04": 298959,
-  "2023-11-05": 298993,
-  "2023-11-06": 299007,
-  "2023-11-07": 299038,
-  "2023-11-08": 299080,
-  "2023-11-09": 299102,
-  "2023-11-10": 299101,
-  "2023-11-11": 299110,
-  "2023-11-12": 299131,
-  "2023-11-13": 299151,
-  "2023-11-14": 299175,
-  "2023-11-15": 299175,
-  "2023-11-16": 299220,
-  "2023-11-17": 299225,
-  "2023-11-18": 299225,
-  "2023-11-19": 299248,
-  "2023-11-20": 299259,
-  "2023-11-21": 299255,
-  "2023-11-22": 299265,
-  "2023-11-23": 299268,
-  "2023-11-24": 299251,
-  "2023-11-25": 299248,
-  "2023-11-26": 299226,
-  "2023-11-27": 299230,
-  "2023-11-28": 299231,
-  "2023-11-29": 299224,
-  "2023-11-30": 299224,
-  "2023-12-01": 299164,
-  "2023-12-02": 299104,
-  "2023-12-03": 299099,
-  "2023-12-04": 299066,
-  "2023-12-05": 299049,
-  "2023-12-06": 299023,
-  "2023-12-07": 298988,
-  "2023-12-08": 298966,
-  "2023-12-09": 298957,
-  "2023-12-10": 298946,
-  "2023-12-11": 298924,
-  "2023-12-12": 298931,
-  "2023-12-13": 298929,
-  "2023-12-14": 298934,
-  "2023-12-15": 298930,
-  "2023-12-16": 298953,
-  "2023-12-17": 298980,
-  "2023-12-18": 298995,
-  "2023-12-19": 299020,
-  "2023-12-20": 299037,
-  "2023-12-21": 299049,
-  "2023-12-22": 299075,
-  "2023-12-23": 299074,
-  "2023-12-24": 299063,
-  "2023-12-25": 299063,
-  "2023-12-26": 299085,
-  "2023-12-27": 299102,
-  "2023-12-30": 299076,
-  "2023-12-31": 299075,
-  "2024-01-01": 299078,
-  "2024-01-02": 299070,
-  "2024-01-03": 299058
+  "2024-01-17": 299036,
+  "date_first_scraped": "2022-06-10",
+  "description": "The official playlist for \"ONE PIECE FILM RED\". <a href=\"https://www.onepiece-film.jp/\">\u300eONE PIECE FILM RED\u300f</a>\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u300cONE PIECE\u300d\u6620\u753b\u4f5c\u54c1\u306e\u4e3b\u984c\u6b4c\u96c6\u3002 \u00a9\u5c3e\u7530\u6804\u4e00\u90ce\uff0f2022\u300c\u30ef\u30f3\u30d4\u30fc\u30b9\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "ONE PIECE FILM RED",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1876088,
+      "name": "#1 \u3010ONE PIECE FILM RED\u3011 \u540d\u585a\u4f73\u7e54\u00d7\u7530\u4e2d\u771f\u5f13\u300c\u30eb\u30d5\u30a3\u3092\u6f14\u3058\u3066\u3044\u3066\u597d\u304d\u306a\u77ac\u9593\u306f\u2026\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/09xxhQihwGvAuIuu9wmOyC"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1875121,
+      "name": "#2 \u3010ONE PIECE FILM RED\u3011 \u540d\u585a\u4f73\u7e54\u00d7\u7530\u4e2d\u771f\u5f13\u300c2\u4eba\u306e\u304a\u6c17\u306b\u5165\u308a\uff01\u3042\u306e\u30b7\u30fc\u30f3\u306e\u25cb\u25cb\u306b\u6ce8\u76ee\u300d",
+      "url": "https://open.spotify.com/episode/3YROqyKW3aeg5QzMFsIwh5"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1996721,
+      "name": "#3 \u3010ONE PIECE FILM RED\u3011 \u540d\u585a\u4f73\u7e54\u00d7\u8c37\u53e3\u609f\u6717\u76e3\u7763\u300c\u30a6\u30bf\u306e\u8a95\u751f\u3001Ado\u3055\u3093\u540d\u585a\u3055\u3093\u30ad\u30e3\u30b9\u30c6\u30a3\u30f3\u30b0\u3078\u306e\u9053\u300d",
+      "url": "https://open.spotify.com/episode/41UGFY0hMhU5ZoZ8UCgnd2"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2027676,
+      "name": "#4 \u3010ONE PIECE FILM RED\u3011 \u540d\u585a\u4f73\u7e54\u00d7\u8c37\u53e3\u609f\u6717\u76e3\u7763\u300c\u30b7\u30e3\u30f3\u30af\u30b9\u53c2\u6226\u306e\u7d4c\u7def\u3001\u5c3e\u7530\u6804\u4e00\u90ce\u5148\u751f\u3068\u306e\u30a8\u30d4\u30bd\u30fc\u30c9\u300d",
+      "url": "https://open.spotify.com/episode/281foh4yPeCWcuEGfuaYUR"
+    },
+    {
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
+    },
+    {
+      "album": {
+        "name": "HYPER GROOVE 1",
+        "url": "https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf"
+      },
+      "artists": [
+        {
+          "name": "Folder 5",
+          "url": "https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226700,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "BINKUSUNO SAKE",
+      "url": "https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X"
+    },
+    {
+      "album": {
+        "name": "Break into the Light \u301c\u7d04\u675f\u306e\u5e3d\u5b50\u301c/The Sharing Song \u301c\u30c8\u30ea\u30b3\u306e\u30c6\u30fc\u30de\u301c",
+        "url": "https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Break into the Light\u301c\u7d04\u675f\u306e\u5e3d\u5b50\u301c",
+      "url": "https://open.spotify.com/track/58XinNr00MVez9TV323KJZ"
+    },
+    {
+      "album": {
+        "name": "SINGLE BEST -A-",
+        "url": "https://open.spotify.com/album/0pIEJ9iEAHjW6JOK7f81sM"
+      },
+      "artists": [
+        {
+          "name": "Ai Kawashima",
+          "url": "https://open.spotify.com/artist/56VTXSeHb276rD1lVKcfiw"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341853,
+      "name": "compass",
+      "url": "https://open.spotify.com/track/7BOwJxoRer4Ol0tDUdrkKe"
+    },
+    {
+      "album": {
+        "name": "SENSE",
+        "url": "https://open.spotify.com/album/2AG5d3p14xkRoSQROC6O7k"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375533,
+      "name": "fanfare",
+      "url": "https://open.spotify.com/track/78thhWnYLGIBaEqNcmhyHL"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Fleeting Lullaby",
+      "url": "https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP"
+    },
+    {
+      "album": {
+        "name": "COMINATCHA!!",
+        "url": "https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268456,
+      "name": "GONG",
+      "url": "https://open.spotify.com/track/4TFUsim1NVJGvQjE2Ppeno"
+    },
+    {
+      "album": {
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245733,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/4H560RqZEEhrgOquGqTCvs"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71666,
+      "name": "Lonely Live",
+      "url": "https://open.spotify.com/track/1s5MI0FfhqEwrEAA3Vxx6n"
+    },
+    {
+      "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00"
+      },
+      "artists": [
+        {
+          "name": "Maki Otsuki",
+          "url": "https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "memories",
+      "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"
+    },
+    {
+      "album": {
+        "name": "HYPER GROOVE 1",
+        "url": "https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf"
+      },
+      "artists": [
+        {
+          "name": "Folder 5",
+          "url": "https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239966,
+      "name": "Ready !",
+      "url": "https://open.spotify.com/track/5r5AoULU7BLfy9G7Ux5PbE"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47973,
+      "name": "RED\u3000\u6d77\u8cca\u306e\u751f\u304d\u3056\u307e",
+      "url": "https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127226,
+      "name": "RED\u3000\u904b\u547d\u306e\u6c7a\u610f",
+      "url": "https://open.spotify.com/track/2f9G9tROsE1GbQ3EAM7aGL"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "sailing day",
+      "url": "https://open.spotify.com/track/3cQWusqyt053W56L3XBiIs"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30c6\u30a3\u30fc\u30f4\u30fb\u30a2\u30aa\u30ad",
+          "url": "https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257665,
+      "name": "Straw Hat Pirates Anthem Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+    },
+    {
+      "album": {
+        "name": "TOKYO - HALLOWEEN -",
+        "url": "https://open.spotify.com/album/3bl9atzKcDPSm6YM9zJyZN"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/4ca6LN5b17Qjo2GinxmA5v"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306e\u5834\u6240\u3078",
+        "url": "https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u6674\u309b",
+          "url": "https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "\u3042\u306e\u5834\u6240\u3078",
+      "url": "https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        },
+        {
+          "name": "Kohei Tanaka",
+          "url": "https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269626,
+      "name": "\u304a\u308c\u305f\u3061\u306e\u65b0\u6642\u4ee3",
+      "url": "https://open.spotify.com/track/2qAWBG8Mo1PxnQNhGmq293"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64733,
+      "name": "\u305d\u306e\u7537\u3001\u30b7\u30e3\u30f3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/2PJ6gThvCt0XsiJATfA1gE"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "\u307b\u306e\u304b\u306a\u5e0c\u671b\u3001\u305d\u3057\u3066\u2026\u2026",
+      "url": "https://open.spotify.com/track/7nCCnHFk5kgPoJSnFlbpvE"
+    },
+    {
+      "album": {
+        "name": "AND I LOVE YOU \uff08DIGITAL Ver\uff0e\uff09",
+        "url": "https://open.spotify.com/album/0t05o78TsDqFboiKRc5Tow"
+      },
+      "artists": [
+        {
+          "name": "DREAMS COME TRUE",
+          "url": "https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329133,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/6cnxxH19Szo8CQO38HMoPd"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54226,
+      "name": "\u307f\u3093\u306a\u660e\u308b\u3044\u672a\u6765\u3092\u5f85\u3063\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/2BpuWUNvEkEZYWqlpSvoR8"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28826,
+      "name": "\u30a2\u30cb\u30de\u30eb\u30d0\u30f3\u30c9\u30fb\u30a2\u30c9\u30ea\u30d6\u2460",
+      "url": "https://open.spotify.com/track/0Ed1dTGZb6ly50MCMTgMiC"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93040,
+      "name": "\u30a2\u30cb\u30de\u30eb\u30d0\u30f3\u30c9\u30fb\u30a2\u30c9\u30ea\u30d6\u2461",
+      "url": "https://open.spotify.com/track/2hqWiKkpzxnFdIRf0GjRyx"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30a3\u30fc\u30b4\u30fc!",
+        "url": "https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kitadani",
+          "url": "https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "\u30a6\u30a3\u30fc\u30a2\u30fc! for the new world",
+      "url": "https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7"
+    },
+    {
+      "album": {
+        "name": "\u300eONE PIECE FILM RED\u300f\u30a6\u30bf\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+        "url": "https://open.spotify.com/album/1b4Mf96hYgQfNzsrIifMEq"
+      },
+      "artists": [
+        {
+          "name": "\u300eONE PIECE FILM RED\u300f",
+          "url": "https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35253,
+      "name": "\u30a6\u30bf\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8\uff01",
+      "url": "https://open.spotify.com/track/3qGNnwphQxp49rF7PvZEHJ"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 173373,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 173373,
+      "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37800,
+      "name": "\u30a6\u30bf\u30ef\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/7HD0O2W3WOednmid8VmcSE"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101400,
+      "name": "\u30ab\u30ef\u30a4\u30a4\u30c7\u30f3\u30b8\u30e3\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/14k1kzxYZfEQzJPqkobtLy"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8106,
+      "name": "\u30b5\u30cb\u30fc\u304f\u3093\u304c\u6765\u305f\uff01",
+      "url": "https://open.spotify.com/track/0WaoVnnjdhv1G7fkiywtS7"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53440,
+      "name": "\u30c1\u30ad\u30f3\u30ec\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/4IoN7KD9xvVaWeuOUBm5j8"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 206053,
+      "name": "\u30d3\u30f3\u30af\u30b9\u306e\u9152",
+      "url": "https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46306,
+      "name": "\u30d5\u30a1\u30cb\u30fc\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/4UB0DNuVVfEfN4S56QPipN"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "\u30d5\u30a9\u30fc\u30e1\u30fc\u30b7\u30e7\u30f3\u30fb\u30b3\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/5Lomh2jFLmvOAkH3tCPT55"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 7000,
+      "name": "\u30d9\u30dd!!",
+      "url": "https://open.spotify.com/track/5CpmxK2tAls5TClXUmyeJg"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "\u30e9\u30a4\u30d6\u4f1a\u5834BGM",
+      "url": "https://open.spotify.com/track/2bexD0MTqUXQ7K1mBafiqJ"
+    },
+    {
+      "album": {
+        "name": "\u300eONE PIECE FILM RED\u300f\u30eb\u30d5\u30a3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/5MLfhQGhRuDBCzGPxBo4qi"
+      },
+      "artists": [
+        {
+          "name": "\u300eONE PIECE FILM RED\u300f",
+          "url": "https://open.spotify.com/artist/5ZcbyO3uLbSWaAka2Gesro"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 32467,
+      "name": "\u30eb\u30d5\u30a3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+      "url": "https://open.spotify.com/track/0JCQ1u56ZfhEZpGl0of9eE"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43306,
+      "name": "\u30eb\u30d5\u30a3\u306e\u610f\u601d",
+      "url": "https://open.spotify.com/track/30xfAgeDj8KeoHzJDgZMkg"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39133,
+      "name": "\u4e0d\u5b89\u3081\u3044\u3066",
+      "url": "https://open.spotify.com/track/1LHogaibwGSGsptj5taP8T"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 287986,
+      "name": "\u4e16\u754c\u306e\u3064\u3065\u304d",
+      "url": "https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96026,
+      "name": "\u4e16\u754c\u306e\u79e9\u5e8f",
+      "url": "https://open.spotify.com/track/0DGNRuq5tvT65TydvMKAiQ"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111493,
+      "name": "\u4e88\u611f\u30c8\u30c3\u30c8\u30e0\u30b8\u30ab",
+      "url": "https://open.spotify.com/track/3LavVHlBcQtSeGJryCAkeu"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Orisaka",
+          "url": "https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102466,
+      "name": "\u512a\u3057\u3044\u601d\u3044\u51fa - \u4e16\u754c\u306e\u3064\u3065\u304d \u30d4\u30a2\u30ceVer",
+      "url": "https://open.spotify.com/track/6jtf9OuaMtICxeh4GaINa4"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53626,
+      "name": "\u51e6\u5211\u3000\uff5e\u5927\u6d77\u8cca\u6642\u4ee3\u306e\u7d42\u308f\u308a\uff5e",
+      "url": "https://open.spotify.com/track/2CUdJ7TjqnQjqPqjd5aq2v"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27960,
+      "name": "\u524d\u5146\u30c8\u30c3\u30c8\u30e0\u30b8\u30ab",
+      "url": "https://open.spotify.com/track/5wi07q909E4weV5Ieu5IX1"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56466,
+      "name": "\u53cd\u6483\u958b\u59cb",
+      "url": "https://open.spotify.com/track/2Nvuqr9An3f9ewK9WzORyA"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42133,
+      "name": "\u5730\u4e0b\u3067\u306e\u6226\u3044",
+      "url": "https://open.spotify.com/track/482M4OkoMpLn668f9QzeI2"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21440,
+      "name": "\u5922\u306e\u884c\u9032",
+      "url": "https://open.spotify.com/track/0rh4JLAXaNZSIWTYTxKBbz"
+    },
+    {
+      "album": {
+        "name": "\u5922\u898b\u308b\u9803\u3092\u904e\u304e\u3066\u3082",
+        "url": "https://open.spotify.com/album/3iBS6W3PHjN9MSU2nzkPsm"
+      },
+      "artists": [
+        {
+          "name": "Kishidan",
+          "url": "https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "\u5922\u898b\u308b\u9803\u3092\u904e\u304e\u3066\u3082",
+      "url": "https://open.spotify.com/track/3AJFjE3EvPY8daYRK1JhsV"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "\u5929\u7adc\u4eba",
+      "url": "https://open.spotify.com/track/1sOlNIHawj9jvdCXjI5xUd"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72200,
+      "name": "\u5e0c\u671b\u306e\u884c\u9032",
+      "url": "https://open.spotify.com/track/00itojuLOlEBaCCFYfqLmE"
+    },
+    {
+      "album": {
+        "name": "Next One",
+        "url": "https://open.spotify.com/album/7e4Ohezjjyg28roi8wFxhZ"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "\u6012\u308a\u3092\u304f\u308c\u3088",
+      "url": "https://open.spotify.com/track/2FXtYLpJKHEbtLuCDGpRrr"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101893,
+      "name": "\u601d\u3044\u51fa\u306e\u30d5\u30fc\u30b7\u30e3",
+      "url": "https://open.spotify.com/track/7hjxPT23qB7SqX2wsgNu6L"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "\u60aa\u610f\u306b\u7acb\u3061\u5411\u304b\u3046\u306f\u9ea6\u308f\u3089\u306e\u4e00\u5473",
+      "url": "https://open.spotify.com/track/3qA4L8bzBDYGZrcrK72gqU"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\u61fa\u6094",
+      "url": "https://open.spotify.com/track/6uT9el96wQFvhE5llOtFnf"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56173,
+      "name": "\u6226\u3044\u306e\u679c\u3066\u306b",
+      "url": "https://open.spotify.com/track/1qjBxLbcGT6xtICKkfPgwF"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "\u6226\u4e71\u306e\u30a8\u30ec\u30b8\u30a2",
+      "url": "https://open.spotify.com/track/3B4wxpCiKKq09Az7ZlLPF5"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81200,
+      "name": "\u6297\u3046\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/4YJpXFOX4eSuJ6QF4eaVt3"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50026,
+      "name": "\u63a2\u7d22\u30df\u30c3\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3QxHk9mlvaAumUYm3lk2K8"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36200,
+      "name": "\u6d77\u8ecd\u306e\u79e9\u5e8f",
+      "url": "https://open.spotify.com/track/6Gul2gFRv2J7sj87JurJcr"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89133,
+      "name": "\u73fe\u5b9f\u3068\u5e7b\u60f3",
+      "url": "https://open.spotify.com/track/1qs2ji3UFNWWrapVLnyZA3"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "\u79e6\u57fa\u535a",
+          "url": "https://open.spotify.com/artist/6v9pschPobXmKOtIeckX6E"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100173,
+      "name": "\u79c1\u304c\u5927\u597d\u304d\u306a\u6d77\u8cca - \u98a8\u306e\u3086\u304f\u3048 \u30ea\u30b3\u30fc\u30c0\u30fc Ver.",
+      "url": "https://open.spotify.com/track/1rq31ywgghXvJ8WVgU2rdl"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u6700\u5f37 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257915,
+      "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42773,
+      "name": "\u7acb\u3061\u5411\u304b\u3046\u610f\u601d",
+      "url": "https://open.spotify.com/track/14CsKYjUsBFLnajAeJKQqe"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21866,
+      "name": "\u7acb\u3061\u5411\u304b\u3048\uff01",
+      "url": "https://open.spotify.com/track/5yNWaE2ULFzEXcime8uKZ6"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115026,
+      "name": "\u7d76\u5bfe\u7684\u6b63\u7fa9",
+      "url": "https://open.spotify.com/track/0bM7qAuutuqi9Wlnfwulzh"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69933,
+      "name": "\u7d76\u671b\u30c8\u30c3\u30c8\u30e0\u30b8\u30ab",
+      "url": "https://open.spotify.com/track/1481hejmBZuoeyZHOkARlM"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76733,
+      "name": "\u8a71\u3057\u5408\u3048\u308c\u3070\u2026\u2026",
+      "url": "https://open.spotify.com/track/2IMLpIuVd6fp16RkZnU81g"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54773,
+      "name": "\u8d64\u304f\u71c3\u3048\u308b",
+      "url": "https://open.spotify.com/track/0YGgxMFymMxMjIvfsSx7SH"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70106,
+      "name": "\u8feb\u308a\u304f\u308b\u53eb\u3073",
+      "url": "https://open.spotify.com/track/2EzgrdFy8mMj1Avyh0TLSP"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237862,
+      "name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME"
+    },
+    {
+      "album": {
+        "name": "ONE PIECE FILM RED Original Sound Track",
+        "url": "https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43066,
+      "name": "\u9759\u304b\u306a\u308b\u5305\u56f2\u7db2",
+      "url": "https://open.spotify.com/track/5vY93Mcueg3Jk0nx7rLxp3"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 272466,
+      "name": "\u98a8\u306e\u3086\u304f\u3048",
+      "url": "https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWV2mRphxMWjR"
 }

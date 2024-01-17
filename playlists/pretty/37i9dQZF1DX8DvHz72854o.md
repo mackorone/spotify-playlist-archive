@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvHz72854o.md) - [plain]
 
 > Soothing sounds and vibrations to settle in...
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,806 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,552 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

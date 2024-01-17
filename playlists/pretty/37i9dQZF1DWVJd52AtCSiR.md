@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,110 likes - 66 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,458 likes - 66 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

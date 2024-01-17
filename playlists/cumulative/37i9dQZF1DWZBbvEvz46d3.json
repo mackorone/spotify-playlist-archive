@@ -96,10 +96,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "album": {
+        "name": "Po prostu Krawczyk. Antologia przeboj\u00f3w",
+        "url": "https://open.spotify.com/album/0ugZB6bS4YDKSXr51CxHNu"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Krawczyk",
+          "url": "https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Bo Jeste\u015b Ty",
+      "url": "https://open.spotify.com/track/4YvQ9fgBWflsCa0hQWPSY0"
     },
     {
       "album": {
@@ -270,7 +288,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": "2024-01-13",
       "duration_ms": 326706,
       "name": "Dmuchawce, Latawce, Wiatr",
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 169813,
       "name": "Tylko mnie kochaj",
       "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
@@ -1518,6 +1536,24 @@
     {
       "album": {
         "name": "1984",
+        "url": "https://open.spotify.com/album/2tU5aSgKwBtZh9tAsHakk7"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262746,
+      "name": "We\u017a nie pytaj",
+      "url": "https://open.spotify.com/track/78pnMyqYaimkN3toWSXpte"
+    },
+    {
+      "album": {
+        "name": "1984",
         "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
       },
       "artists": [
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 262747,
       "name": "We\u017a nie pytaj",
       "url": "https://open.spotify.com/track/5jakU1mpB03Dkl1ao0XlyK"

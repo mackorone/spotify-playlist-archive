@@ -1,735 +1,2081 @@
 {
-  "2021-12-25": 2481896,
-  "2021-12-26": 2482633,
-  "2021-12-27": 2484511,
-  "2021-12-28": 2484527,
-  "2021-12-29": 2485519,
-  "2021-12-30": 2486532,
-  "2021-12-31": 2487433,
-  "2022-01-01": 2488989,
-  "2022-01-02": 2489282,
-  "2022-01-03": 2489893,
-  "2022-01-04": 2490744,
-  "2022-01-05": 2491561,
-  "2022-01-06": 2492507,
-  "2022-01-07": 2493345,
-  "2022-01-08": 2495282,
-  "2022-01-09": 2495325,
-  "2022-01-10": 2496174,
-  "2022-01-11": 2497034,
-  "2022-01-12": 2497941,
-  "2022-01-13": 2498932,
-  "2022-01-14": 2499814,
-  "2022-01-15": 2501537,
-  "2022-01-16": 2501604,
-  "2022-01-17": 2503525,
-  "2022-01-18": 2503639,
-  "2022-01-19": 2504281,
-  "2022-01-20": 2505146,
-  "2022-01-21": 2506070,
-  "2022-01-22": 2506963,
-  "2022-01-23": 2507831,
-  "2022-01-24": 2508640,
-  "2022-01-25": 2509484,
-  "2022-01-26": 2510387,
-  "2022-01-27": 2511218,
-  "2022-01-28": 2512115,
-  "2022-01-29": 2513078,
-  "2022-01-30": 2513910,
-  "2022-01-31": 2514747,
-  "2022-02-01": 2515464,
-  "2022-02-02": 2516300,
-  "2022-02-03": 2517043,
-  "2022-02-04": 2517846,
-  "2022-02-05": 2518712,
-  "2022-02-06": 2519545,
-  "2022-02-07": 2520343,
-  "2022-02-08": 2521147,
-  "2022-02-09": 2521970,
-  "2022-02-10": 2522871,
-  "2022-02-11": 2523723,
-  "2022-02-12": 2524492,
-  "2022-02-13": 2525318,
-  "2022-02-14": 2526062,
-  "2022-02-15": 2526733,
-  "2022-02-16": 2527449,
-  "2022-02-17": 2528146,
-  "2022-02-18": 2528948,
-  "2022-02-19": 2529819,
-  "2022-02-20": 2530775,
-  "2022-02-21": 2531623,
-  "2022-02-22": 2532485,
-  "2022-02-23": 2533278,
-  "2022-02-24": 2534237,
-  "2022-02-25": 2534985,
-  "2022-02-26": 2535876,
-  "2022-02-27": 2537552,
-  "2022-02-28": 2537552,
-  "2022-03-01": 2538348,
-  "2022-03-02": 2539426,
-  "2022-03-03": 2540249,
-  "2022-03-04": 2541123,
-  "2022-03-05": 2542190,
-  "2022-03-06": 2543151,
-  "2022-03-07": 2543974,
-  "2022-03-08": 2544787,
-  "2022-03-09": 2545590,
-  "2022-03-10": 2546708,
-  "2022-03-11": 2547923,
-  "2022-03-12": 2549108,
-  "2022-03-13": 2550230,
-  "2022-03-14": 2551254,
-  "2022-03-15": 2552199,
-  "2022-03-16": 2553187,
-  "2022-03-17": 2554209,
-  "2022-03-18": 2555694,
-  "2022-03-19": 2556451,
-  "2022-03-20": 2556451,
-  "2022-03-21": 2558529,
-  "2022-03-22": 2559363,
-  "2022-03-23": 2560312,
-  "2022-03-24": 2561474,
-  "2022-03-25": 2562891,
-  "2022-03-26": 2564374,
-  "2022-03-27": 2565643,
-  "2022-03-28": 2566736,
-  "2022-03-30": 2569359,
-  "2022-03-31": 2570758,
-  "2022-04-01": 2572064,
-  "2022-04-02": 2573327,
-  "2022-04-03": 2574507,
-  "2022-04-04": 2575514,
-  "2022-04-05": 2576917,
-  "2022-04-06": 2578338,
-  "2022-04-07": 2579658,
-  "2022-04-08": 2581007,
-  "2022-04-09": 2582720,
-  "2022-04-10": 2585193,
-  "2022-04-11": 2586383,
-  "2022-04-12": 2586545,
-  "2022-04-13": 2587655,
-  "2022-04-14": 2588891,
-  "2022-04-15": 2590370,
-  "2022-04-16": 2591549,
-  "2022-04-17": 2592782,
-  "2022-04-18": 2594194,
-  "2022-04-19": 2595136,
-  "2022-04-20": 2596402,
-  "2022-04-21": 2597681,
-  "2022-04-22": 2599034,
-  "2022-04-23": 2600284,
-  "2022-04-24": 2601477,
-  "2022-04-25": 2602523,
-  "2022-04-26": 2603629,
-  "2022-04-27": 2605039,
-  "2022-04-28": 2606010,
-  "2022-04-29": 2608011,
-  "2022-04-30": 2609268,
-  "2022-05-01": 2610409,
-  "2022-05-02": 2610409,
-  "2022-05-03": 2611408,
-  "2022-05-04": 2612323,
-  "2022-05-05": 2613193,
-  "2022-05-06": 2614216,
-  "2022-05-07": 2615348,
-  "2022-05-08": 2616628,
-  "2022-05-09": 2616744,
-  "2022-05-10": 2617476,
-  "2022-05-11": 2618250,
-  "2022-05-12": 2619074,
-  "2022-05-13": 2619961,
-  "2022-05-14": 2620947,
-  "2022-05-15": 2621742,
-  "2022-05-16": 2622463,
-  "2022-05-17": 2623263,
-  "2022-05-18": 2624090,
-  "2022-05-19": 2624909,
-  "2022-05-20": 2625916,
-  "2022-05-21": 2627413,
-  "2022-05-22": 2627413,
-  "2022-05-23": 2628155,
-  "2022-05-24": 2629155,
-  "2022-05-25": 2630261,
-  "2022-05-26": 2631491,
-  "2022-05-27": 2632959,
-  "2022-05-28": 2634492,
-  "2022-05-29": 2635604,
-  "2022-05-30": 2636563,
-  "2022-05-31": 2637622,
-  "2022-06-01": 2639579,
-  "2022-06-02": 2639654,
-  "2022-06-03": 2640627,
-  "2022-06-04": 2641598,
-  "2022-06-05": 2642398,
-  "2022-06-06": 2643293,
-  "2022-06-07": 2644137,
-  "2022-06-08": 2645208,
-  "2022-06-09": 2645857,
-  "2022-06-10": 2646714,
-  "2022-06-11": 2647642,
-  "2022-06-12": 2648485,
-  "2022-06-13": 2649263,
-  "2022-06-14": 2650040,
-  "2022-06-15": 2650925,
-  "2022-06-16": 2651782,
-  "2022-06-17": 2652770,
-  "2022-06-18": 2653756,
-  "2022-06-19": 2655654,
-  "2022-06-20": 2655654,
-  "2022-06-21": 2656640,
-  "2022-06-22": 2658490,
-  "2022-06-23": 2658490,
-  "2022-06-24": 2659389,
-  "2022-06-25": 2660324,
-  "2022-06-26": 2661148,
-  "2022-06-27": 2661910,
-  "2022-06-28": 2662717,
-  "2022-06-29": 2663526,
-  "2022-06-30": 2664343,
-  "2022-07-01": 2665101,
-  "2022-07-02": 2665827,
-  "2022-07-03": 2666611,
-  "2022-07-04": 2667237,
-  "2022-07-05": 2667821,
-  "2022-07-06": 2668404,
-  "2022-07-07": 2669001,
-  "2022-07-08": 2669677,
-  "2022-07-09": 2670508,
-  "2022-07-10": 2671313,
-  "2022-07-11": 2672118,
-  "2022-07-12": 2672893,
-  "2022-07-13": 2673722,
-  "2022-07-14": 2674590,
-  "2022-07-15": 2675532,
-  "2022-07-16": 2676538,
-  "2022-07-17": 2677430,
-  "2022-07-18": 2678229,
-  "2022-07-19": 2679120,
-  "2022-07-20": 2679901,
-  "2022-07-21": 2680744,
-  "2022-07-22": 2681566,
-  "2022-07-23": 2682230,
-  "2022-07-24": 2682945,
-  "2022-07-25": 2683511,
-  "2022-07-26": 2684111,
-  "2022-07-27": 2684784,
-  "2022-07-28": 2685402,
-  "2022-07-29": 2686139,
-  "2022-07-30": 2687555,
-  "2022-07-31": 2687555,
-  "2022-08-01": 2688160,
-  "2022-08-02": 2689600,
-  "2022-08-03": 2689600,
-  "2022-08-04": 2690410,
-  "2022-08-05": 2691280,
-  "2022-08-06": 2692104,
-  "2022-08-07": 2692955,
-  "2022-08-08": 2693681,
-  "2022-08-09": 2694455,
-  "2022-08-10": 2695318,
-  "2022-08-11": 2696082,
-  "2022-08-12": 2696929,
-  "2022-08-13": 2697768,
-  "2022-08-14": 2698539,
-  "2022-08-15": 2699252,
-  "2022-08-16": 2699963,
-  "2022-08-17": 2700728,
-  "2022-08-18": 2701372,
-  "2022-08-19": 2702089,
-  "2022-08-20": 2702810,
-  "2022-08-21": 2703555,
-  "2022-08-22": 2704221,
-  "2022-08-23": 2704945,
-  "2022-08-24": 2705667,
-  "2022-08-25": 2706531,
-  "2022-08-26": 2707421,
-  "2022-08-27": 2708255,
-  "2022-08-28": 2709020,
-  "2022-08-29": 2709747,
-  "2022-08-30": 2710390,
-  "2022-08-31": 2710882,
-  "2022-09-01": 2711401,
-  "2022-09-02": 2712001,
-  "2022-09-03": 2712430,
-  "2022-09-04": 2713157,
-  "2022-09-05": 2714454,
-  "2022-09-06": 2721201,
-  "2022-09-07": 2724263,
-  "2022-09-09": 2728169,
-  "2022-09-10": 2729665,
-  "2022-09-11": 2730960,
-  "2022-09-12": 2732067,
-  "2022-09-13": 2733051,
-  "2022-09-15": 2734859,
-  "2022-09-16": 2735827,
-  "2022-09-17": 2736708,
-  "2022-09-18": 2737596,
-  "2022-09-19": 2738361,
-  "2022-09-20": 2739095,
-  "2022-09-21": 2739929,
-  "2022-09-22": 2740838,
-  "2022-09-23": 2741681,
-  "2022-09-24": 2742597,
-  "2022-09-25": 2743436,
-  "2022-09-26": 2744131,
-  "2022-09-27": 2744909,
-  "2022-09-28": 2745768,
-  "2022-09-29": 2746622,
-  "2022-09-30": 2747592,
-  "2022-10-01": 2748512,
-  "2022-10-02": 2749249,
-  "2022-10-03": 2749835,
-  "2022-10-04": 2750565,
-  "2022-10-05": 2751296,
-  "2022-10-06": 2752107,
-  "2022-10-07": 2752892,
-  "2022-10-08": 2753740,
-  "2022-10-09": 2755152,
-  "2022-10-10": 2755254,
-  "2022-10-11": 2755990,
-  "2022-10-12": 2756646,
-  "2022-10-13": 2757392,
-  "2022-10-14": 2758177,
-  "2022-10-15": 2758883,
-  "2022-10-16": 2759593,
-  "2022-10-17": 2760311,
-  "2022-10-18": 2760976,
-  "2022-10-19": 2761733,
-  "2022-10-20": 2762425,
-  "2022-10-21": 2763111,
-  "2022-10-22": 2763878,
-  "2022-10-23": 2764551,
-  "2022-10-24": 2765122,
-  "2022-10-25": 2765738,
-  "2022-10-26": 2766331,
-  "2022-10-27": 2766945,
-  "2022-10-28": 2767569,
-  "2022-10-29": 2768265,
-  "2022-10-30": 2768913,
-  "2022-10-31": 2769447,
-  "2022-11-01": 2770025,
-  "2022-11-02": 2770695,
-  "2022-11-03": 2771301,
-  "2022-11-04": 2771983,
-  "2022-11-05": 2772664,
-  "2022-11-06": 2773296,
-  "2022-11-07": 2773830,
-  "2022-11-08": 2774431,
-  "2022-11-09": 2775124,
-  "2022-11-10": 2775783,
-  "2022-11-11": 2776466,
-  "2022-11-12": 2777310,
-  "2022-11-13": 2777922,
-  "2022-11-14": 2778566,
-  "2022-11-15": 2779179,
-  "2022-11-16": 2779854,
-  "2022-11-17": 2780540,
-  "2022-11-18": 2780702,
-  "2022-11-19": 2780775,
-  "2022-11-20": 2781343,
-  "2022-11-21": 2781999,
-  "2022-11-22": 2782604,
-  "2022-11-23": 2783213,
-  "2022-11-24": 2784532,
-  "2022-11-25": 2785632,
-  "2022-11-26": 2786440,
-  "2022-11-27": 2787120,
-  "2022-11-28": 2787750,
-  "2022-11-29": 2788384,
-  "2022-11-30": 2789091,
-  "2022-12-01": 2789831,
-  "2022-12-02": 2790258,
-  "2022-12-03": 2791328,
-  "2022-12-04": 2792157,
-  "2022-12-05": 2792992,
-  "2022-12-06": 2793689,
-  "2022-12-07": 2794425,
-  "2022-12-08": 2795229,
-  "2022-12-09": 2796052,
-  "2022-12-10": 2796751,
-  "2022-12-11": 2797505,
-  "2022-12-12": 2798105,
-  "2022-12-13": 2798756,
-  "2022-12-14": 2799465,
-  "2022-12-15": 2800150,
-  "2022-12-16": 2800872,
-  "2022-12-17": 2801607,
-  "2022-12-18": 2802373,
-  "2022-12-19": 2802961,
-  "2022-12-20": 2804239,
-  "2022-12-21": 2804239,
-  "2022-12-22": 2804919,
-  "2022-12-24": 2806477,
-  "2022-12-25": 2807166,
-  "2022-12-26": 2807744,
-  "2022-12-27": 2808542,
-  "2022-12-28": 2809342,
-  "2022-12-29": 2810153,
-  "2022-12-30": 2811046,
-  "2022-12-31": 2811940,
-  "2023-01-01": 2812648,
-  "2023-01-02": 2813244,
-  "2023-01-03": 2813928,
-  "2023-01-04": 2814631,
-  "2023-01-05": 2815400,
-  "2023-01-06": 2816326,
-  "2023-01-07": 2817543,
-  "2023-01-08": 2817706,
-  "2023-01-09": 2818471,
-  "2023-01-10": 2819214,
-  "2023-01-11": 2819856,
-  "2023-01-12": 2820577,
-  "2023-01-13": 2821327,
-  "2023-01-14": 2822804,
-  "2023-01-15": 2822878,
-  "2023-01-16": 2823623,
-  "2023-01-17": 2824517,
-  "2023-01-18": 2825347,
-  "2023-01-19": 2826116,
-  "2023-01-20": 2826958,
-  "2023-01-21": 2827789,
-  "2023-01-22": 2828556,
-  "2023-01-23": 2829327,
-  "2023-01-24": 2830162,
-  "2023-01-25": 2830939,
-  "2023-01-26": 2831754,
-  "2023-01-27": 2832518,
-  "2023-01-28": 2833319,
-  "2023-01-29": 2834070,
-  "2023-01-30": 2834774,
-  "2023-01-31": 2834774,
-  "2023-02-01": 2836143,
-  "2023-02-02": 2836865,
-  "2023-02-03": 2837574,
-  "2023-02-04": 2838216,
-  "2023-02-05": 2838950,
-  "2023-02-06": 2839644,
-  "2023-02-07": 2840278,
-  "2023-02-08": 2841641,
-  "2023-02-09": 2841641,
-  "2023-02-10": 2842315,
-  "2023-02-11": 2843046,
-  "2023-02-12": 2844412,
-  "2023-02-13": 2845168,
-  "2023-02-14": 2845168,
-  "2023-02-15": 2845801,
-  "2023-02-16": 2846510,
-  "2023-02-17": 2847242,
-  "2023-02-18": 2848765,
-  "2023-02-19": 2848872,
-  "2023-02-20": 2849326,
-  "2023-02-21": 2849830,
-  "2023-02-22": 2850414,
-  "2023-02-23": 2850971,
-  "2023-02-24": 2851664,
-  "2023-02-25": 2852692,
-  "2023-02-26": 2853152,
-  "2023-02-27": 2854675,
-  "2023-02-28": 2854675,
-  "2023-03-01": 2855690,
-  "2023-03-02": 2856984,
-  "2023-03-03": 2858411,
-  "2023-03-04": 2859569,
-  "2023-03-05": 2861758,
-  "2023-03-06": 2861758,
-  "2023-03-07": 2862973,
-  "2023-03-08": 2863990,
-  "2023-03-09": 2864999,
-  "2023-03-10": 2866010,
-  "2023-03-11": 2866989,
-  "2023-03-12": 2867843,
-  "2023-03-13": 2868605,
-  "2023-03-14": 2869281,
-  "2023-03-15": 2870048,
-  "2023-03-16": 2870824,
-  "2023-03-17": 2870824,
-  "2023-03-18": 2872401,
-  "2023-03-19": 2873168,
-  "2023-03-20": 2873850,
-  "2023-03-21": 2874508,
-  "2023-03-22": 2875278,
-  "2023-03-23": 2876074,
-  "2023-03-24": 2876074,
-  "2023-03-25": 2877590,
-  "2023-03-26": 2878246,
-  "2023-03-27": 2878871,
-  "2023-03-28": 2879604,
-  "2023-03-29": 2880345,
-  "2023-03-30": 2881663,
-  "2023-03-31": 2881663,
-  "2023-04-01": 2882395,
-  "2023-04-02": 2883106,
-  "2023-04-03": 2883700,
-  "2023-04-04": 2884426,
-  "2023-04-05": 2885115,
-  "2023-04-06": 2885775,
-  "2023-04-07": 2886527,
-  "2023-04-09": 2887763,
-  "2023-04-10": 2888381,
-  "2023-04-11": 2889694,
-  "2023-04-12": 2889694,
-  "2023-04-13": 2890375,
-  "2023-04-14": 2891092,
-  "2023-04-15": 2891814,
-  "2023-04-16": 2892434,
-  "2023-04-17": 2893013,
-  "2023-04-18": 2893698,
-  "2023-04-19": 2894359,
-  "2023-04-20": 2894936,
-  "2023-04-21": 2895605,
-  "2023-04-22": 2896319,
-  "2023-04-23": 2896979,
-  "2023-04-24": 2897614,
-  "2023-04-25": 2898269,
-  "2023-04-26": 2898958,
-  "2023-04-27": 2899650,
-  "2023-04-28": 2900375,
-  "2023-04-29": 2901103,
-  "2023-04-30": 2901760,
-  "2023-05-01": 2902379,
-  "2023-05-02": 2903032,
-  "2023-05-03": 2903624,
-  "2023-05-04": 2904269,
-  "2023-05-05": 2904910,
-  "2023-05-06": 2905590,
-  "2023-05-07": 2906205,
-  "2023-05-08": 2906791,
-  "2023-05-09": 2907392,
-  "2023-05-10": 2907948,
-  "2023-05-11": 2908578,
-  "2023-05-12": 2909231,
-  "2023-05-13": 2909921,
-  "2023-05-14": 2910583,
-  "2023-05-15": 2911166,
-  "2023-05-16": 2911768,
-  "2023-05-17": 2912412,
-  "2023-05-18": 2912968,
-  "2023-05-19": 2913636,
-  "2023-05-20": 2914928,
-  "2023-05-21": 2914928,
-  "2023-05-22": 2914928,
-  "2023-05-23": 2916118,
-  "2023-05-24": 2917280,
-  "2023-05-25": 2917449,
-  "2023-05-26": 2918161,
-  "2023-05-27": 2918846,
-  "2023-05-28": 2919467,
-  "2023-05-29": 2919467,
-  "2023-05-30": 2920553,
-  "2023-05-31": 2921191,
-  "2023-06-01": 2921775,
-  "2023-06-02": 2922423,
-  "2023-06-03": 2923060,
-  "2023-06-04": 2923701,
-  "2023-06-05": 2924184,
-  "2023-06-06": 2924760,
-  "2023-06-07": 2925434,
-  "2023-06-08": 2926120,
-  "2023-06-09": 2926793,
-  "2023-06-10": 2927523,
-  "2023-06-11": 2928210,
-  "2023-06-12": 2928878,
-  "2023-06-13": 2929513,
-  "2023-06-14": 2930113,
-  "2023-06-15": 2930853,
-  "2023-06-16": 2931520,
-  "2023-06-17": 2932192,
-  "2023-06-18": 2932801,
-  "2023-06-19": 2933388,
-  "2023-06-20": 2934013,
-  "2023-06-21": 2934652,
-  "2023-06-22": 2935330,
-  "2023-06-23": 2936007,
-  "2023-06-24": 2936655,
-  "2023-06-25": 2937345,
-  "2023-06-26": 2937983,
-  "2023-06-27": 2938589,
-  "2023-06-28": 2939222,
-  "2023-06-29": 2939871,
-  "2023-06-30": 2940504,
-  "2023-07-01": 2941691,
-  "2023-07-02": 2941691,
-  "2023-07-03": 2942258,
-  "2023-07-04": 2942831,
-  "2023-07-05": 2943500,
-  "2023-07-06": 2944713,
-  "2023-07-07": 2944713,
-  "2023-07-08": 2945366,
-  "2023-07-09": 2946038,
-  "2023-07-10": 2946617,
-  "2023-07-11": 2947194,
-  "2023-07-12": 2947814,
-  "2023-07-13": 2948416,
-  "2023-07-14": 2949084,
-  "2023-07-15": 2949612,
-  "2023-07-16": 2950325,
-  "2023-07-17": 2950908,
-  "2023-07-18": 2951545,
-  "2023-07-19": 2952203,
-  "2023-07-20": 2952855,
-  "2023-07-21": 2953502,
-  "2023-07-22": 2954262,
-  "2023-07-23": 2954861,
-  "2023-07-24": 2955392,
-  "2023-07-25": 2956011,
-  "2023-07-26": 2956645,
-  "2023-07-27": 2957401,
-  "2023-07-28": 2958141,
-  "2023-07-29": 2958795,
-  "2023-07-30": 2959504,
-  "2023-07-31": 2960090,
-  "2023-08-01": 2960804,
-  "2023-08-02": 2961442,
-  "2023-08-03": 2962210,
-  "2023-08-04": 2962907,
-  "2023-08-05": 2963648,
-  "2023-08-06": 2964937,
-  "2023-08-07": 2964937,
-  "2023-08-08": 2965549,
-  "2023-08-09": 2966182,
-  "2023-08-10": 2966853,
-  "2023-08-11": 2967562,
-  "2023-08-12": 2968385,
-  "2023-08-13": 2969098,
-  "2023-08-14": 2969713,
-  "2023-08-15": 2970996,
-  "2023-08-16": 2970996,
-  "2023-08-17": 2971630,
-  "2023-08-18": 2972353,
-  "2023-08-19": 2973121,
-  "2023-08-20": 2973778,
-  "2023-08-21": 2974395,
-  "2023-08-22": 2975108,
-  "2023-08-23": 2975768,
-  "2023-08-24": 2976469,
-  "2023-08-25": 2977184,
-  "2023-08-26": 2977915,
-  "2023-08-27": 2978610,
-  "2023-08-28": 2979205,
-  "2023-08-29": 2980008,
-  "2023-08-30": 2980756,
-  "2023-08-31": 2981555,
-  "2023-09-01": 2983182,
-  "2023-09-02": 2983182,
-  "2023-09-03": 2983848,
-  "2023-09-04": 2984494,
-  "2023-09-05": 2985175,
-  "2023-09-06": 2985825,
-  "2023-09-07": 2986613,
-  "2023-09-08": 2987275,
-  "2023-09-09": 2988101,
-  "2023-09-10": 2988774,
-  "2023-09-11": 2989389,
-  "2023-09-12": 2990021,
-  "2023-09-13": 2990692,
-  "2023-09-14": 2991341,
-  "2023-09-15": 2992032,
-  "2023-09-16": 2992784,
-  "2023-09-17": 2992784,
-  "2023-09-18": 2994150,
-  "2023-09-19": 2994836,
-  "2023-09-20": 2995320,
-  "2023-09-21": 2996024,
-  "2023-09-22": 2996696,
-  "2023-09-23": 2997364,
-  "2023-09-24": 2997364,
-  "2023-09-25": 2998613,
-  "2023-09-26": 2999380,
-  "2023-09-27": 2999859,
-  "2023-09-28": 3000529,
-  "2023-09-29": 3001194,
-  "2023-09-30": 3001194,
-  "2023-10-01": 3002433,
-  "2023-10-02": 3003017,
-  "2023-10-03": 3003617,
-  "2023-10-04": 3004346,
-  "2023-10-05": 3005055,
-  "2023-10-06": 3005833,
-  "2023-10-07": 3006578,
-  "2023-10-08": 3007197,
-  "2023-10-09": 3007197,
-  "2023-10-10": 3004685,
-  "2023-10-11": 3002117,
-  "2023-10-12": 3002117,
-  "2023-10-13": 2999539,
-  "2023-10-14": 2999539,
-  "2023-10-15": 2999539,
-  "2023-10-16": 2999539,
-  "2023-10-17": 2999539,
-  "2023-10-18": 2999539,
-  "2023-10-19": 2999539,
-  "2023-10-20": 2999539,
-  "2023-10-21": 2999539,
-  "2023-10-22": 2999539,
-  "2023-10-23": 3001961,
-  "2023-10-24": 3002548,
-  "2023-10-25": 3002548,
-  "2023-10-26": 3002548,
-  "2023-10-27": 3002548,
-  "2023-10-28": 3002548,
-  "2023-10-29": 3002548,
-  "2023-10-30": 3002548,
-  "2023-10-31": 3002548,
-  "2023-11-01": 3002548,
-  "2023-11-02": 3002548,
-  "2023-11-03": 3002548,
-  "2023-11-04": 3002548,
-  "2023-11-05": 3002548,
-  "2023-11-06": 3002548,
-  "2023-11-07": 3002548,
-  "2023-11-08": 3002548,
-  "2023-11-09": 3002548,
-  "2023-11-10": 3002548,
-  "2023-11-11": 3012291,
-  "2023-11-12": 3012728,
-  "2023-11-13": 3012728,
-  "2023-11-14": 3012728,
-  "2023-11-15": 3012728,
-  "2023-11-16": 3012728,
-  "2023-11-17": 3015614,
-  "2023-11-18": 3015614,
-  "2023-11-19": 3015614,
-  "2023-11-20": 3015614,
-  "2023-11-21": 3015614,
-  "2023-11-22": 3015614,
-  "2023-11-23": 3017868,
-  "2023-11-24": 3017868,
-  "2023-11-25": 3017868,
-  "2023-11-26": 3017868,
-  "2023-11-27": 3017868,
-  "2023-11-28": 3017868,
-  "2023-11-29": 3017868,
-  "2023-11-30": 3017868,
-  "2023-12-01": 3017868,
-  "2023-12-02": 3017868,
-  "2023-12-03": 3017868,
-  "2023-12-04": 3017868,
-  "2023-12-05": 3017868,
-  "2023-12-06": 3017868,
-  "2023-12-07": 3017868,
-  "2023-12-08": 3017868,
-  "2023-12-09": 3027334,
-  "2023-12-10": 3027334,
-  "2023-12-11": 3028529,
-  "2023-12-12": 3028529,
-  "2023-12-13": 3028529,
-  "2023-12-14": 3030430,
-  "2023-12-15": 3030890,
-  "2023-12-16": 3031596,
-  "2023-12-17": 3032127,
-  "2023-12-18": 3032578,
-  "2023-12-19": 3033118,
-  "2023-12-20": 3033760,
-  "2023-12-21": 3034412,
-  "2023-12-22": 3035065,
-  "2023-12-23": 3035725,
-  "2023-12-24": 3036370,
-  "2023-12-25": 3036929,
-  "2023-12-26": 3037342,
-  "2023-12-27": 3037894,
-  "2023-12-30": 3039873,
-  "2023-12-31": 3040448,
-  "2024-01-01": 3040917,
-  "2024-01-02": 3041296,
-  "2024-01-03": 3041777
+  "2024-01-17": 3029598,
+  "date_first_scraped": "2021-12-21",
+  "description": "This is the essential Justin Bieber. ",
+  "name": "This Is Justin Bieber",
+  "tracks": [
+    {
+      "album": {
+        "name": "#willpower (Deluxe)",
+        "url": "https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "#thatPOWER",
+      "url": "https://open.spotify.com/track/01TuObJVd7owWchVRuQbQw"
+    },
+    {
+      "album": {
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152796,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO"
+    },
+    {
+      "album": {
+        "name": "2U",
+        "url": "https://open.spotify.com/album/0EYVu7ginQ5nPsQj3woBAQ"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-25",
+      "duration_ms": 194906,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/762UXiwEHYY97VL45sAUPR"
+    },
+    {
+      "album": {
+        "name": "7: Anniversary Edition",
+        "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "2U (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/61WR5FfGNLJxpLsAc61qWQ"
+    },
+    {
+      "album": {
+        "name": "2U (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194896,
+      "name": "2U (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136906,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/5Py8zRKGkZvgHniVVtvNCN"
+    },
+    {
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244546,
+      "name": "All Around The World",
+      "url": "https://open.spotify.com/track/1Mg8vLBYwizu7AuhYQO64V"
+    },
+    {
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA"
+    },
+    {
+      "album": {
+        "name": "Justice (The Complete Edition)",
+        "url": "https://open.spotify.com/album/5v2lj0w9VJIbjcUUKYLvlo"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231667,
+      "name": "Angels Speak",
+      "url": "https://open.spotify.com/track/5G99lkpldkHJx6o1Z37ts7"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174406,
+      "name": "As I Am (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
+    },
+    {
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/0pwYLVXVknPSGUQb39cePC"
+    },
+    {
+      "album": {
+        "name": "attention (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "attention (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189653,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/0nxvFG50rGXkiGQqOO2MHr"
+    },
+    {
+      "album": {
+        "name": "Beautiful Love (Free Fire)",
+        "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207837,
+      "name": "Beautiful Love - Free Fire",
+      "url": "https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k"
+    },
+    {
+      "album": {
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6eknhm96vRigjwfcl49xKb"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171333,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/0171XsIM2xyeXRr6wsugEI"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt"
+    },
+    {
+      "album": {
+        "name": "Pop and Vibes",
+        "url": "https://open.spotify.com/album/4afL6Ie5qIcSNKYXhVYfi1"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173360,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/1tWgOr4bHpdYEX9sILhJ0J"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/521Os1SMlxmsoevsqyjNmJ"
+    },
+    {
+      "album": {
+        "name": "Cold Water",
+        "url": "https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss"
+    },
+    {
+      "album": {
+        "name": "Cold Water (feat. Justin Bieber & M\u00d8)",
+        "url": "https://open.spotify.com/album/3o99825qhG7K7D07naRs4F"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185351,
+      "name": "Cold Water (feat. Justin Bieber & M\u00d8)",
+      "url": "https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Come Around Me",
+      "url": "https://open.spotify.com/track/2o9LAypwGH4ctV0i9boo6d"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208120,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/09mhA1SJjMHniZPF4Hcihn"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
+    },
+    {
+      "album": {
+        "name": "At Home - Pop Edition",
+        "url": "https://open.spotify.com/album/1lSFTtWAzyjBnRhPbQDgu9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208413,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/0WDT85JdP601pgcCURAwSi"
+    },
+    {
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187238,
+      "name": "Deserve You",
+      "url": "https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg"
+    },
+    {
+      "album": {
+        "name": "Despacito Feat. Justin Bieber (Remix)",
+        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228826,
+      "name": "Despacito - Remix",
+      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Die For You (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/6Z2pe32hFnUd2x5NgO5KFc"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
+        "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
+      "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
+    },
+    {
+      "album": {
+        "name": "My Worlds (International Version)",
+        "url": "https://open.spotify.com/album/6gdLfnf2vdNlMTyhJHaDLs"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202626,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/1OLJJ3LRsRkin7XLvczaV9"
+    },
+    {
+      "album": {
+        "name": "Eenie Meenie EP",
+        "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT"
+    },
+    {
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "Forever (feat. Post Malone & Clever)",
+      "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "album": {
+        "name": "Friends (with BloodPop\u00ae)",
+        "url": "https://open.spotify.com/album/7huML9zDbY4thKH0xSuZTP"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Friends (with BloodPop\u00ae)",
+      "url": "https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va"
+    },
+    {
+      "album": {
+        "name": "Friends (with BloodPop\u00ae)",
+        "url": "https://open.spotify.com/album/6VABPTmDOYrO5cfyKZk7F7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189466,
+      "name": "Friends (with BloodPop\u00ae)",
+      "url": "https://open.spotify.com/track/7nZmah2llfvLDiUjm0kiyz"
+    },
+    {
+      "album": {
+        "name": "Spring Party 2018",
+        "url": "https://open.spotify.com/album/6Oe7PIFiEq9k1d4zzftFN7"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 190118,
+      "name": "Friends (with BloodPop\u00ae)",
+      "url": "https://open.spotify.com/track/3kFe702tmTSSpGc7S2esYZ"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Get Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Habitual",
+      "url": "https://open.spotify.com/track/40qyPyljksBEqlNw5sW37T"
+    },
+    {
+      "album": {
+        "name": "Justice (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193354,
+      "name": "Hailey",
+      "url": "https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu"
+    },
+    {
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262840,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/21pCToQdqcPi879auxjxKe"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170813,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193322,
+      "name": "Honest (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193359,
+      "name": "I Can't Be Myself (feat. Jaden)",
+      "url": "https://open.spotify.com/track/5dfjlWOwxxCQnM26MpsJjV"
+    },
+    {
+      "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199946,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/747eWJy8c3u09N30NSqSTp"
+    },
+    {
+      "album": {
+        "name": "New Year, New Me",
+        "url": "https://open.spotify.com/album/1hH7qWietZzjrHf4ub5J9N"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199946,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/77MMzKKT7ERZpdVgZbdeAR"
+    },
+    {
+      "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/7mRliFLzSnVPzjO0sSy3ar"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288876,
+      "name": "I'm the One",
+      "url": "https://open.spotify.com/track/72Q0FQQo32KJloivv5xge2"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288876,
+      "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
+      "url": "https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Intentions (feat. Quavo)",
+      "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161819,
+      "name": "Know No Better (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/2mHp4X0GDuzKr5ovAMHdpQ"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207020,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/3kZLeZr4StCy1tlOBRJrUH"
+    },
+    {
+      "album": {
+        "name": "Lolly",
+        "url": "https://open.spotify.com/album/0Jy2FoyFXxrHi6XIa8cHzU"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225506,
+      "name": "Lolly",
+      "url": "https://open.spotify.com/track/1x7QWWVpQdoiOGDRWuSK5l"
+    },
+    {
+      "album": {
+        "name": "Lolly",
+        "url": "https://open.spotify.com/album/4BPliemSu5BLyFuEX9luS5"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "Lolly",
+      "url": "https://open.spotify.com/track/2xtIAFJIMkzHGHiCrJ9iwd"
+    },
+    {
+      "album": {
+        "name": "Naughty Nights",
+        "url": "https://open.spotify.com/album/3DRKOa0RninKovyq9rR2j6"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225506,
+      "name": "Lolly - Single Version",
+      "url": "https://open.spotify.com/track/0VHp0azevcGGhiDBtoMlWN"
+    },
+    {
+      "album": {
+        "name": "Lonely (with benny blanco)",
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149297,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186695,
+      "name": "Love You Different (feat. BEAM)",
+      "url": "https://open.spotify.com/track/1EsTfiu26JucTyc5npjJU4"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "Name (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/2DDSdwVkrD2Jyhsycn9d3r"
+    },
+    {
+      "album": {
+        "name": "Never Say Never - The Remixes",
+        "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
+    },
+    {
+      "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/4bnq4LgObdAxU8mR9wvoi7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265813,
+      "name": "Next To You (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/2faDo9tBRN57TN4iK2XFWt"
+    },
+    {
+      "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "Next To You (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
+    },
+    {
+      "album": {
+        "name": "No Brainer",
+        "url": "https://open.spotify.com/album/02drHFQa59AoJWU6DXSSjd"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "No Brainer",
+      "url": "https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "album": {
+        "name": "Toddler and Children Singalong Vol. 5",
+        "url": "https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/5YaHat4YWCZcQNfgpTyj0F"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
+    },
+    {
+      "album": {
+        "name": "My Worlds (International Version)",
+        "url": "https://open.spotify.com/album/6gdLfnf2vdNlMTyhJHaDLs"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/7qUcqYzOtfZe65bednDxmz"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Private Landing (feat. Justin Bieber & Future)",
+        "url": "https://open.spotify.com/album/3UeapbH1wFSnDjCjraZMQ2"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/4EDTT4kSqfpc0FKuxfNo2E"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "album": {
+        "name": "Cozy Songs 2020",
+        "url": "https://open.spotify.com/album/4UkruAvphs0CweRwOdbiLb"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 210173,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/4akknPSIJH8JZOadthgXkR"
+    },
+    {
+      "album": {
+        "name": "Justice (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187452,
+      "name": "Red Eye (feat. TroyBoi)",
+      "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "Second Emotion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
+    },
+    {
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179414,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/0pYUyZ3aQR1fAOdhXfoD3R"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "That's What Love Is",
+      "url": "https://open.spotify.com/track/2hLu8L8SNfCN4yKyPdX0h3"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215019,
+      "name": "There She Go (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/59ltMnCjkPJqUM4pBlc1o2"
+    },
+    {
+      "album": {
+        "name": "My Worlds (International Version)",
+        "url": "https://open.spotify.com/album/6gdLfnf2vdNlMTyhJHaDLs"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196906,
+      "name": "U Smile",
+      "url": "https://open.spotify.com/track/4vojpVoYaj4myAkIcfNKIN"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "U Smile",
+      "url": "https://open.spotify.com/track/6Xw2FLih8m5ItDbyP992HH"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158324,
+      "name": "Unstable (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
+    },
+    {
+      "album": {
+        "name": "up at night (feat. justin bieber)",
+        "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "up at night (feat. justin bieber)",
+      "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "album": {
+        "name": "Skrillex and Diplo present Jack \u00dc",
+        "url": "https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd"
+      },
+      "artists": [
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Where Are \u00dc Now (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"
+    },
+    {
+      "album": {
+        "name": "Justice (Triple Chucks Deluxe)",
+        "url": "https://open.spotify.com/album/7DjqzdD8MYtzgiJDGHltsp"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241391,
+      "name": "Wish You Would (feat. Quavo)",
+      "url": "https://open.spotify.com/track/34q2wrKN8QvZG1EIy2TgFn"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXc2aPBXGmXrt"
 }

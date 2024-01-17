@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,547 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,157 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 9 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
 | 10 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 |
 | 11 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 |
-| 12 | [1 Chance](https://open.spotify.com/track/76am7pyRidCWxsrD4XIRpE) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:22 |
-| 13 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
+| 12 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
+| 13 | [1 Chance](https://open.spotify.com/track/76am7pyRidCWxsrD4XIRpE) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:22 |
 | 14 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 |
 | 15 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
 | 16 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 25 | [Speed Of Light](https://open.spotify.com/track/6Z1162p9kKYUAGbRWLN2eH) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:24 |
 | 26 | [Transport God](https://open.spotify.com/track/5pthouxnG0MLtbjmJvZ42v) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 2:12 |
 | 27 | [FORFEIT](https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [FORFEIT](https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5) | 2:50 |
-| 28 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
-| 29 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
+| 28 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
+| 29 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
 | 30 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 |
-| 31 | [We've Got A Good Thing Going](https://open.spotify.com/track/1lif9WxA6rqFfNiY7ADXY7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/706duPlQALlEPbsTrHPZFo) | 5:01 |
-| 32 | [Oceans](https://open.spotify.com/track/7LTCoTHHcnjdynFlryWhEA) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/2BxDSp6LSx39BL1j1oNqIA) | 4:53 |
+| 31 | [Oceans](https://open.spotify.com/track/7LTCoTHHcnjdynFlryWhEA) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/2BxDSp6LSx39BL1j1oNqIA) | 4:53 |
+| 32 | [We've Got A Good Thing Going](https://open.spotify.com/track/1lif9WxA6rqFfNiY7ADXY7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/706duPlQALlEPbsTrHPZFo) | 5:01 |
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/67WEy4DJcqynYh0bhbKpTM) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/55fk0TQ4Boke9w33eJIKlF) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/467CtGat3TdQctzbPKVLAq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/5wvAJhxQ7zCKJOFgUdsrp1) | 4:05 |
 

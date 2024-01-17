@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsTdT6RwMPp.md) - [plain]
 
 > 【セトリ公開】7月18日\(火\)に行われたSabrina Carpenterの来日公演<a href="https://kyodotokyo.com/pr/sabrina23.html">「emails i can't send tour」</a>セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,729 likes - 19 songs - 57 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,690 likes - 19 songs - 57 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

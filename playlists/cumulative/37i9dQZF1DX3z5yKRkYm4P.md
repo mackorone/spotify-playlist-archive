@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-88 songs - 4 hr 56 min
+90 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,9 @@
 | [Monstruo Verde](https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fui una Adolescente Terrosatánica](https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S) | 2:13 | 2022-10-10 |  |
 | [Morticia](https://open.spotify.com/track/4gPGW42siCv0bpq4eQIHSc) | [Combustible Edison](https://open.spotify.com/artist/6EBbqeUWMq6mWL0CQklRwh) | [Schizophonic](https://open.spotify.com/album/1oVhuDlylEyFlxJxDFBQ06) | 2:14 | 2022-10-10 |  |
 | [Mostros](https://open.spotify.com/track/51WjCESqaihA1mQskCEMnd) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 3:41 | 2022-10-10 |  |
-| [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 | 2022-10-10 |  |
+| [My Girlfriend Is a Witch](https://open.spotify.com/track/18DaSMSqc40nV8cDhdLemj) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/58DUHwOcuQZ62znoET7J2l) | 2:06 | 2022-10-10 | 2024-01-06 |
+| [My Girlfriend Is a Witch](https://open.spotify.com/track/34xaWdjPfkPPEcF2sVlG0U) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [Classic Halloween Hits](https://open.spotify.com/album/0VMOOJvuloNJH4zojPtMvh) | 2:06 | 2022-10-10 | 2024-01-07 |
+| [My Girlfriend Is a Witch](https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX) | 2:06 | 2022-10-10 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 | 2022-10-10 |  |
 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2022-10-10 |  |
 | [Nocturnal Me](https://open.spotify.com/track/5V9FrOjiLqd9eyiny1s78a) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 4:58 | 2022-10-10 |  |

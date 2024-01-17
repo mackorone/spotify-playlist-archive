@@ -4,7 +4,7 @@
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-182 songs - 10 hr 44 min
+183 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2022-08-25 |  |
 | [Don't Wanna Know \- Acoustic Version](https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 3:03 | 2022-08-25 |  |
 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 | 2022-08-25 |  |
-| [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2022-08-25 |  |
+| [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 | 2023-11-30 |  |
+| [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2022-08-25 | 2024-01-14 |
 | [False Alarm \- Acoustic Version](https://open.spotify.com/track/1HtZGloe3ovx3CadjR97dr) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [False Alarm \(Acoustic Version\)](https://open.spotify.com/album/5JSzayAPhpkf6RIRCn99el) | 2:57 | 2023-06-27 | 2023-12-09 |
 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 | 2023-06-27 |  |
 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 | 2023-06-27 | 2023-08-07 |
@@ -156,7 +157,7 @@
 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 | 2022-08-25 |  |
 | [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2022-08-25 |  |
 | [Strangers \- Acoustic](https://open.spotify.com/track/65he1nxW8DwdL0k7fpC5wg) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Strangers \(Remixes\)](https://open.spotify.com/album/05VQDdDhAfhZqGOFAVT809) | 3:23 | 2023-06-27 |  |
-| [Sugar \- Acoustic](https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(Acoustic\)](https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs) | 3:29 | 2023-06-27 | 2023-12-09 |
+| [Sugar \- Acoustic](https://open.spotify.com/track/3zjScixLevnImm0BErIHxQ) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar \(Acoustic\)](https://open.spotify.com/album/24TT3jzVoaZb4j8L5HKUNs) | 3:29 | 2023-06-27 | 2024-01-15 |
 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 | 2022-08-25 |  |
 | [Sunday Morning \- Acoustic](https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [1.22.03 Acoustic](https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu) | 4:14 | 2022-08-25 |  |
 | [Swalla \- Acoustic Version](https://open.spotify.com/track/02dcOQGdOgZyErpbJT4hr5) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Swalla \(Acoustic Version\)](https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy) | 3:37 | 2022-08-25 |  |

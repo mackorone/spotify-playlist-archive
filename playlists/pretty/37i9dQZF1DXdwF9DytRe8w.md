@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwF9DytRe8w.md) - [plain]
 
 > Start your day with The Beatles!
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,546 likes - 46 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,003 likes - 46 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

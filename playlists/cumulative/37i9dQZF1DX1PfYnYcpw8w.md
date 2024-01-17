@@ -2,14 +2,14 @@
 
 ### [This Is Ariana Grande](https://open.spotify.com/playlist/37i9dQZF1DX1PfYnYcpw8w)
 
-> Today she's Arianators' favourite pop princess.
+> The essential tracks, all in one playlist.
 
-72 songs - 4 hr 5 min
+73 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2022-10-14 |  |
-| [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2022-10-14 |  |
+| [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2022-10-14 | 2024-01-13 |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2022-10-14 |  |
 | [Almost Is Never Enough](https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 5:27 | 2022-10-14 |  |
 | [Baby I](https://open.spotify.com/track/6NmCCgnQcxKHPOAKgd9Nth) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:17 | 2022-10-14 |  |
@@ -37,10 +37,10 @@
 | [imagine](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:32 | 2022-10-14 |  |
 | [in my head](https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:42 | 2022-10-14 |  |
 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-10-14 |  |
-| [It Was A… \(Masked Christmas\) \(feat\. Ariana Grande & Megan Thee Stallion\)](https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [It Was A… \(Masked Christmas\)](https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs) | 3:00 | 2022-10-14 |  |
+| [It Was A… \(Masked Christmas\) \(feat\. Ariana Grande & Megan Thee Stallion\)](https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [It Was A… \(Masked Christmas\)](https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs) | 3:00 | 2022-10-14 | 2024-01-13 |
 | [Just A Little Bit Of Your Heart](https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:52 | 2022-10-14 |  |
 | [just like magic](https://open.spotify.com/track/7miR3W96BChuGCX8NZtz3a) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y) | 2:29 | 2022-10-14 |  |
-| [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4) | 3:21 | 2022-10-14 |  |
+| [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4) | 3:21 | 2022-10-14 | 2024-01-13 |
 | [Knew Better / Forever Boy](https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 4:59 | 2022-10-14 |  |
 | [Let Me Love You](https://open.spotify.com/track/49vZduMPCMnDDrl1WBxUDk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:43 | 2022-10-14 |  |
 | [love language](https://open.spotify.com/track/7GQzqBLZyjL69pAIKLx7ap) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y) | 2:59 | 2022-10-14 |  |
@@ -80,5 +80,6 @@
 | [The Way](https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 3:47 | 2022-10-14 |  |
 | [west side](https://open.spotify.com/track/5ctjuy2gyXUxr6DxUa2O1B) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y) | 2:12 | 2022-10-14 |  |
 | [Why Try](https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:31 | 2022-10-14 |  |
+| [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

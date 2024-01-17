@@ -1,430 +1,1087 @@
 {
-  "2022-10-29": 266468,
-  "2022-10-30": 266604,
-  "2022-10-31": 266714,
-  "2022-11-01": 266810,
-  "2022-11-02": 266927,
-  "2022-11-03": 267047,
-  "2022-11-04": 267161,
-  "2022-11-05": 267309,
-  "2022-11-06": 267422,
-  "2022-11-07": 267507,
-  "2022-11-08": 267615,
-  "2022-11-09": 267734,
-  "2022-11-10": 267832,
-  "2022-11-11": 267886,
-  "2022-11-12": 267951,
-  "2022-11-13": 267994,
-  "2022-11-14": 268011,
-  "2022-11-15": 268045,
-  "2022-11-16": 268082,
-  "2022-11-17": 268139,
-  "2022-11-18": 268147,
-  "2022-11-19": 268144,
-  "2022-11-20": 268170,
-  "2022-11-21": 268236,
-  "2022-11-22": 268285,
-  "2022-11-23": 268237,
-  "2022-11-24": 268412,
-  "2022-11-25": 268496,
-  "2022-11-26": 268558,
-  "2022-11-27": 268614,
-  "2022-11-28": 268652,
-  "2022-11-29": 268685,
-  "2022-11-30": 268719,
-  "2022-12-01": 268747,
-  "2022-12-02": 268763,
-  "2022-12-03": 268785,
-  "2022-12-04": 268807,
-  "2022-12-05": 268821,
-  "2022-12-06": 268849,
-  "2022-12-07": 268868,
-  "2022-12-08": 268923,
-  "2022-12-09": 268954,
-  "2022-12-10": 269001,
-  "2022-12-11": 269066,
-  "2022-12-12": 269112,
-  "2022-12-13": 269145,
-  "2022-12-14": 269190,
-  "2022-12-15": 269237,
-  "2022-12-16": 269280,
-  "2022-12-17": 269343,
-  "2022-12-18": 269396,
-  "2022-12-19": 269440,
-  "2022-12-20": 269548,
-  "2022-12-21": 269548,
-  "2022-12-22": 269594,
-  "2022-12-24": 269672,
-  "2022-12-25": 269715,
-  "2022-12-26": 269753,
-  "2022-12-27": 269788,
-  "2022-12-28": 269853,
-  "2022-12-29": 269896,
-  "2022-12-30": 269954,
-  "2022-12-31": 270050,
-  "2023-01-01": 270111,
-  "2023-01-02": 270160,
-  "2023-01-03": 270212,
-  "2023-01-04": 270236,
-  "2023-01-05": 270267,
-  "2023-01-06": 270330,
-  "2023-01-07": 270444,
-  "2023-01-08": 270453,
-  "2023-01-09": 270498,
-  "2023-01-10": 270547,
-  "2023-01-11": 270602,
-  "2023-01-12": 270657,
-  "2023-01-13": 270720,
-  "2023-01-14": 270867,
-  "2023-01-15": 270876,
-  "2023-01-16": 270958,
-  "2023-01-17": 271008,
-  "2023-01-18": 271071,
-  "2023-01-19": 271145,
-  "2023-01-20": 271206,
-  "2023-01-21": 271266,
-  "2023-01-22": 271332,
-  "2023-01-23": 271386,
-  "2023-01-24": 271441,
-  "2023-01-25": 271494,
-  "2023-01-26": 271553,
-  "2023-01-27": 271620,
-  "2023-01-28": 271688,
-  "2023-01-29": 271750,
-  "2023-01-30": 271811,
-  "2023-01-31": 271811,
-  "2023-02-01": 271914,
-  "2023-02-02": 271991,
-  "2023-02-03": 272049,
-  "2023-02-04": 272133,
-  "2023-02-05": 272208,
-  "2023-02-06": 272261,
-  "2023-02-07": 272362,
-  "2023-02-08": 272515,
-  "2023-02-09": 272515,
-  "2023-02-10": 272586,
-  "2023-02-11": 272670,
-  "2023-02-12": 272818,
-  "2023-02-13": 272872,
-  "2023-02-14": 272872,
-  "2023-02-15": 272919,
-  "2023-02-16": 272957,
-  "2023-02-17": 273022,
-  "2023-02-18": 273144,
-  "2023-02-19": 273160,
-  "2023-02-20": 273204,
-  "2023-02-21": 273239,
-  "2023-02-22": 273302,
-  "2023-02-23": 273348,
-  "2023-02-24": 273415,
-  "2023-02-25": 273487,
-  "2023-02-26": 273529,
-  "2023-02-27": 273610,
-  "2023-02-28": 273610,
-  "2023-03-01": 273649,
-  "2023-03-02": 273693,
-  "2023-03-03": 273732,
-  "2023-03-04": 273802,
-  "2023-03-05": 273954,
-  "2023-03-06": 273954,
-  "2023-03-07": 274034,
-  "2023-03-08": 274089,
-  "2023-03-09": 274187,
-  "2023-03-10": 274272,
-  "2023-03-11": 274348,
-  "2023-03-12": 274430,
-  "2023-03-13": 274461,
-  "2023-03-14": 274525,
-  "2023-03-15": 274608,
-  "2023-03-16": 274671,
-  "2023-03-17": 274671,
-  "2023-03-18": 274816,
-  "2023-03-19": 274895,
-  "2023-03-20": 274942,
-  "2023-03-21": 274996,
-  "2023-03-22": 275047,
-  "2023-03-23": 275108,
-  "2023-03-24": 275108,
-  "2023-03-25": 275250,
-  "2023-03-26": 275330,
-  "2023-03-27": 275393,
-  "2023-03-28": 275445,
-  "2023-03-29": 275502,
-  "2023-03-30": 275588,
-  "2023-03-31": 275588,
-  "2023-04-01": 275639,
-  "2023-04-02": 275694,
-  "2023-04-03": 275750,
-  "2023-04-04": 275799,
-  "2023-04-05": 275847,
-  "2023-04-06": 275919,
-  "2023-04-07": 275985,
-  "2023-04-09": 276088,
-  "2023-04-10": 276134,
-  "2023-04-11": 276204,
-  "2023-04-12": 276204,
-  "2023-04-13": 276260,
-  "2023-04-14": 276311,
-  "2023-04-15": 276365,
-  "2023-04-16": 276433,
-  "2023-04-17": 276483,
-  "2023-04-18": 276537,
-  "2023-04-19": 276589,
-  "2023-04-20": 276643,
-  "2023-04-21": 276684,
-  "2023-04-22": 276748,
-  "2023-04-23": 276825,
-  "2023-04-24": 276874,
-  "2023-04-25": 276907,
-  "2023-04-26": 276938,
-  "2023-04-27": 276938,
-  "2023-04-28": 276938,
-  "2023-04-29": 276938,
-  "2023-04-30": 276938,
-  "2023-05-01": 276938,
-  "2023-05-02": 276938,
-  "2023-05-03": 276938,
-  "2023-05-04": 276938,
-  "2023-05-05": 276938,
-  "2023-05-06": 276938,
-  "2023-05-07": 276938,
-  "2023-05-08": 276938,
-  "2023-05-09": 276938,
-  "2023-05-10": 276938,
-  "2023-05-11": 276938,
-  "2023-05-12": 276938,
-  "2023-05-13": 276938,
-  "2023-05-14": 276938,
-  "2023-05-15": 276938,
-  "2023-05-16": 276938,
-  "2023-05-17": 276938,
-  "2023-05-18": 276938,
-  "2023-05-19": 276938,
-  "2023-05-20": 276938,
-  "2023-05-21": 276938,
-  "2023-05-22": 276938,
-  "2023-05-23": 276938,
-  "2023-05-24": 276938,
-  "2023-05-25": 276938,
-  "2023-05-26": 276938,
-  "2023-05-27": 276938,
-  "2023-05-28": 276938,
-  "2023-05-29": 276938,
-  "2023-05-30": 276938,
-  "2023-05-31": 276938,
-  "2023-06-01": 276938,
-  "2023-06-02": 276938,
-  "2023-06-03": 276938,
-  "2023-06-04": 276938,
-  "2023-06-05": 276938,
-  "2023-06-06": 276938,
-  "2023-06-07": 276938,
-  "2023-06-08": 276938,
-  "2023-06-09": 276938,
-  "2023-06-10": 276938,
-  "2023-06-11": 276938,
-  "2023-06-12": 276938,
-  "2023-06-13": 276938,
-  "2023-06-14": 276938,
-  "2023-06-15": 276938,
-  "2023-06-16": 276938,
-  "2023-06-17": 276938,
-  "2023-06-18": 276938,
-  "2023-06-19": 276938,
-  "2023-06-20": 276938,
-  "2023-06-21": 276938,
-  "2023-06-22": 276938,
-  "2023-06-23": 276938,
-  "2023-06-24": 276938,
-  "2023-06-25": 276938,
-  "2023-06-26": 276938,
-  "2023-06-27": 276938,
-  "2023-06-28": 276938,
-  "2023-06-29": 276938,
-  "2023-06-30": 276938,
-  "2023-07-01": 276938,
-  "2023-07-02": 276938,
-  "2023-07-03": 276938,
-  "2023-07-04": 276938,
-  "2023-07-05": 276938,
-  "2023-07-06": 276938,
-  "2023-07-07": 276938,
-  "2023-07-08": 276938,
-  "2023-07-09": 276938,
-  "2023-07-10": 276938,
-  "2023-07-11": 276938,
-  "2023-07-12": 276938,
-  "2023-07-13": 276938,
-  "2023-07-14": 276938,
-  "2023-07-15": 276938,
-  "2023-07-16": 276938,
-  "2023-07-17": 276938,
-  "2023-07-18": 276938,
-  "2023-07-19": 276938,
-  "2023-07-20": 276938,
-  "2023-07-21": 276938,
-  "2023-07-22": 276938,
-  "2023-07-23": 276938,
-  "2023-07-24": 276938,
-  "2023-07-25": 276938,
-  "2023-07-26": 276938,
-  "2023-07-27": 276938,
-  "2023-07-28": 276938,
-  "2023-07-29": 276938,
-  "2023-07-30": 276938,
-  "2023-07-31": 276938,
-  "2023-08-01": 276938,
-  "2023-08-02": 276938,
-  "2023-08-03": 276938,
-  "2023-08-04": 276938,
-  "2023-08-05": 276938,
-  "2023-08-06": 276938,
-  "2023-08-07": 276938,
-  "2023-08-08": 276938,
-  "2023-08-09": 276938,
-  "2023-08-10": 276938,
-  "2023-08-11": 276938,
-  "2023-08-12": 276938,
-  "2023-08-13": 276938,
-  "2023-08-14": 276938,
-  "2023-08-15": 276938,
-  "2023-08-16": 276938,
-  "2023-08-17": 276938,
-  "2023-08-18": 276938,
-  "2023-08-19": 276938,
-  "2023-08-20": 276938,
-  "2023-08-21": 276938,
-  "2023-08-22": 276938,
-  "2023-08-23": 276938,
-  "2023-08-24": 276938,
-  "2023-08-25": 276938,
-  "2023-08-26": 276938,
-  "2023-08-27": 276938,
-  "2023-08-28": 276938,
-  "2023-08-29": 276938,
-  "2023-08-30": 276938,
-  "2023-08-31": 276938,
-  "2023-09-01": 276938,
-  "2023-09-02": 276938,
-  "2023-09-03": 276938,
-  "2023-09-04": 276938,
-  "2023-09-05": 276938,
-  "2023-09-06": 276938,
-  "2023-09-07": 276938,
-  "2023-09-08": 276938,
-  "2023-09-09": 276938,
-  "2023-09-10": 276938,
-  "2023-09-11": 276938,
-  "2023-09-12": 276938,
-  "2023-09-13": 276938,
-  "2023-09-14": 276938,
-  "2023-09-15": 276938,
-  "2023-09-16": 276938,
-  "2023-09-17": 276938,
-  "2023-09-18": 276938,
-  "2023-09-19": 276938,
-  "2023-09-20": 276938,
-  "2023-09-21": 276938,
-  "2023-09-22": 276938,
-  "2023-09-23": 276938,
-  "2023-09-24": 276938,
-  "2023-09-25": 276938,
-  "2023-09-26": 276938,
-  "2023-09-27": 276938,
-  "2023-09-28": 276938,
-  "2023-09-29": 276938,
-  "2023-09-30": 276938,
-  "2023-10-01": 276938,
-  "2023-10-02": 276938,
-  "2023-10-03": 276938,
-  "2023-10-04": 276938,
-  "2023-10-05": 276938,
-  "2023-10-06": 276938,
-  "2023-10-07": 276938,
-  "2023-10-08": 276938,
-  "2023-10-09": 276938,
-  "2023-10-10": 276938,
-  "2023-10-11": 276938,
-  "2023-10-12": 276938,
-  "2023-10-13": 276938,
-  "2023-10-14": 276938,
-  "2023-10-15": 276938,
-  "2023-10-16": 276938,
-  "2023-10-17": 276938,
-  "2023-10-18": 276938,
-  "2023-10-19": 276938,
-  "2023-10-20": 276938,
-  "2023-10-21": 276938,
-  "2023-10-22": 276938,
-  "2023-10-23": 276938,
-  "2023-10-24": 276938,
-  "2023-10-25": 276938,
-  "2023-10-26": 276938,
-  "2023-10-27": 276938,
-  "2023-10-28": 276938,
-  "2023-10-29": 276938,
-  "2023-10-30": 276938,
-  "2023-10-31": 276938,
-  "2023-11-01": 276938,
-  "2023-11-02": 276938,
-  "2023-11-03": 276938,
-  "2023-11-04": 276938,
-  "2023-11-05": 276938,
-  "2023-11-06": 276938,
-  "2023-11-07": 276938,
-  "2023-11-08": 276938,
-  "2023-11-09": 276938,
-  "2023-11-10": 276938,
-  "2023-11-11": 276938,
-  "2023-11-12": 276938,
-  "2023-11-13": 276938,
-  "2023-11-14": 276938,
-  "2023-11-15": 276938,
-  "2023-11-16": 276938,
-  "2023-11-17": 276938,
-  "2023-11-18": 276938,
-  "2023-11-19": 276938,
-  "2023-11-20": 276938,
-  "2023-11-21": 276938,
-  "2023-11-22": 276938,
-  "2023-11-23": 276938,
-  "2023-11-24": 276938,
-  "2023-11-25": 276938,
-  "2023-11-26": 276938,
-  "2023-11-27": 276938,
-  "2023-11-28": 276938,
-  "2023-11-29": 276938,
-  "2023-11-30": 276938,
-  "2023-12-01": 276938,
-  "2023-12-02": 276938,
-  "2023-12-03": 276938,
-  "2023-12-04": 276938,
-  "2023-12-05": 276938,
-  "2023-12-06": 276938,
-  "2023-12-07": 276938,
-  "2023-12-08": 276938,
-  "2023-12-09": 276938,
-  "2023-12-10": 276938,
-  "2023-12-11": 276938,
-  "2023-12-12": 276938,
-  "2023-12-13": 276938,
-  "2023-12-14": 276938,
-  "2023-12-15": 276938,
-  "2023-12-16": 276938,
-  "2023-12-17": 276938,
-  "2023-12-18": 276938,
-  "2023-12-19": 276938,
-  "2023-12-20": 276938,
-  "2023-12-21": 276938,
-  "2023-12-22": 276938,
-  "2023-12-23": 276938,
-  "2023-12-24": 276938,
-  "2023-12-25": 276938,
-  "2023-12-26": 276938,
-  "2023-12-27": 276938,
-  "2023-12-30": 276938,
-  "2023-12-31": 276938,
-  "2024-01-01": 276938,
-  "2024-01-02": 276938,
-  "2024-01-03": 276938
+  "2024-01-17": 276938,
+  "date_first_scraped": "2022-10-29",
+  "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
+  "name": "Hip-Hop Anthems: Def Jam",
+  "tracks": [
+    {
+      "album": {
+        "name": "Def Jam Classics, Vol.1",
+        "url": "https://open.spotify.com/album/3F579i3hQByHOyqIQUa6fq"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209906,
+      "name": "(You Gotta ) Fight For Your Right (To Party)",
+      "url": "https://open.spotify.com/track/5ODVxUulyknEVXwjDaZpkp"
+    },
+    {
+      "album": {
+        "name": "Mama Said Knock You Out (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246533,
+      "name": "Around The Way Girl",
+      "url": "https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8"
+    },
+    {
+      "album": {
+        "name": "Return Of The Product",
+        "url": "https://open.spotify.com/album/1GKpLQWG6h6r7CyYtEQ0N6"
+      },
+      "artists": [
+        {
+          "name": "MC Serch",
+          "url": "https://open.spotify.com/artist/40bZG5ihgjqtufTvy8dz2u"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303266,
+      "name": "Back To The Grill",
+      "url": "https://open.spotify.com/track/7rxeH2yGlCeDKEkNNTpY29"
+    },
+    {
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Brass Monkey",
+      "url": "https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 226173,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
+    },
+    {
+      "album": {
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
+    },
+    {
+      "album": {
+        "name": "El Nino",
+        "url": "https://open.spotify.com/album/1I3hHYnoz7lZsBZN0jZJ1G"
+      },
+      "artists": [
+        {
+          "name": "Def Squad",
+          "url": "https://open.spotify.com/artist/52karaTYZPcUZRPr3zy3X4"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Check N' Me Out",
+      "url": "https://open.spotify.com/track/6VqQjCxM21kapF2RxdTtYA"
+    },
+    {
+      "album": {
+        "name": "The Great Adventures Of Slick Rick",
+        "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "Children's Story",
+      "url": "https://open.spotify.com/track/71A6V5dh5Y8ikhm6NGwZ7p"
+    },
+    {
+      "album": {
+        "name": "Out Of Business (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
+    },
+    {
+      "album": {
+        "name": "Good Morning Music: Hip Hop Bangers",
+        "url": "https://open.spotify.com/album/5yRjtWycg6G2DUOnNGR8bQ"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208040,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/0YrijnoCwibZMUOShvJC9e"
+    },
+    {
+      "album": {
+        "name": "Daddy's Little Girl",
+        "url": "https://open.spotify.com/album/6ROlQudStSux3K7kuWU6uG"
+      },
+      "artists": [
+        {
+          "name": "Nikki D",
+          "url": "https://open.spotify.com/artist/3wHL6veDs4kliIKWrE2Bnb"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Daddy's Little Girl",
+      "url": "https://open.spotify.com/track/0ySoJyAbKGLI5yShGBOIQ8"
+    },
+    {
+      "album": {
+        "name": "Def Jam 25: DJ Bring That Back",
+        "url": "https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd"
+      },
+      "artists": [
+        {
+          "name": "Boss",
+          "url": "https://open.spotify.com/artist/2ptpFHeJc6Do5z8nyMSwHi"
+        },
+        {
+          "name": "Papa Juggy",
+          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237466,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3bjMwXzCljym8xBC34Rbqs"
+    },
+    {
+      "album": {
+        "name": "Def Jam's Greatest Hits - Hardcore",
+        "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
+      },
+      "artists": [
+        {
+          "name": "Boss",
+          "url": "https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT"
+        },
+        {
+          "name": "Papa Juggy",
+          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
+    },
+    {
+      "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 319493,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/0VAoDsKh7Or84V8xP7p1Fs"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Excuse Me Miss",
+      "url": "https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "album": {
+        "name": "Fear Of A Black Planet",
+        "url": "https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Fight The Power",
+      "url": "https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD"
+    },
+    {
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
+    {
+      "album": {
+        "name": "He Got Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7c6qrFOyCTUvmLcayRQ2G9"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        },
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286200,
+      "name": "He Got Game",
+      "url": "https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD"
+    },
+    {
+      "album": {
+        "name": "Out Of Business (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "K-Solo",
+          "url": "https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291133,
+      "name": "Headbanger",
+      "url": "https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW"
+    },
+    {
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272240,
+      "name": "Hey Young World",
+      "url": "https://open.spotify.com/track/38XOEv37waF4pd8Ztmna7K"
+    },
+    {
+      "album": {
+        "name": "Ain't A Damn Thing Changed",
+        "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
+      },
+      "artists": [
+        {
+          "name": "Nice & Smooth",
+          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Hip Hop Junkies",
+      "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
+    },
+    {
+      "album": {
+        "name": "The Dynasty",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "album": {
+        "name": "Bigger And Deffer",
+        "url": "https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322733,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV"
+    },
+    {
+      "album": {
+        "name": "Ill Na Na",
+        "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "I'll Be",
+      "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
+    },
+    {
+      "album": {
+        "name": "It's Yours",
+        "url": "https://open.spotify.com/album/0ZBs6IU80LLsNIzB3RRYEm"
+      },
+      "artists": [
+        {
+          "name": "T La Rock",
+          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261794,
+      "name": "It's Yours (Radio Mix)",
+      "url": "https://open.spotify.com/track/6SuIF8oh96UPJIIJjKvtIe"
+    },
+    {
+      "album": {
+        "name": "Mama Said Knock You Out",
+        "url": "https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw"
+    },
+    {
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5JV45IebgbfO3EylYV49rl"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246933,
+      "name": "No Sleep Till Brooklyn",
+      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Paul Revere",
+      "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
+    },
+    {
+      "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/7Jc0l11j0Ehx6smWHqDXtX"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
+    },
+    {
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 302800,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN"
+    },
+    {
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "album": {
+        "name": "Bacdafucup",
+        "url": "https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K"
+      },
+      "artists": [
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Slam",
+      "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
+    },
+    {
+      "album": {
+        "name": "Flesh Of My Flesh, Blood Of My Blood",
+        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305466,
+      "name": "Slippin'",
+      "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
+    },
+    {
+      "album": {
+        "name": "Muddy Waters",
+        "url": "https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Smoke Buddah",
+      "url": "https://open.spotify.com/track/3eY9pixHny3kVRLeqNezQx"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Stay Real",
+      "url": "https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ"
+    },
+    {
+      "album": {
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Strictly Business",
+      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "album": {
+        "name": "Out Of Business (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Lady Luck",
+          "url": "https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "Symphony 2000",
+      "url": "https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7"
+    },
+    {
+      "album": {
+        "name": "Best Of 3rd Bass",
+        "url": "https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc"
+      },
+      "artists": [
+        {
+          "name": "3rd Bass",
+          "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
+        },
+        {
+          "name": "Zev Love",
+          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229840,
+      "name": "The Gas Face",
+      "url": "https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR"
+    },
+    {
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275546,
+      "name": "The New Style",
+      "url": "https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK"
+    },
+    {
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336160,
+      "name": "The Ruler's Back",
+      "url": "https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD"
+    },
+    {
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "O.G.L.B.",
+          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "This D.J.",
+      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+    },
+    {
+      "album": {
+        "name": "Best Of Montell Jordan",
+        "url": "https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237546,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X"
+    },
+    {
+      "album": {
+        "name": "Bacdafucup",
+        "url": "https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K"
+      },
+      "artists": [
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Throw Ya Gunz",
+      "url": "https://open.spotify.com/track/2nCVH8UkoII2jWwx6SYVso"
+    },
+    {
+      "album": {
+        "name": "Greatest Misses",
+        "url": "https://open.spotify.com/album/6ViErzJ80VCeOnrTPvX2nW"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 257000,
+      "name": "Tie Goes To The Runner",
+      "url": "https://open.spotify.com/track/2TZuNkLb0J6oKLEdlZ0XX3"
+    },
+    {
+      "album": {
+        "name": "Whut? Thee Album",
+        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Time 4 Sumaksion",
+      "url": "https://open.spotify.com/track/7Afjy65bIVBMpFwCLTiuEe"
+    },
+    {
+      "album": {
+        "name": "Whut? Thee Album",
+        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Tonight's Da Night",
+      "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
+    },
+    {
+      "album": {
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "date_added": "2020-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261839,
+      "name": "You Gots To Chill",
+      "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7Mq3mO5SSDc"
 }

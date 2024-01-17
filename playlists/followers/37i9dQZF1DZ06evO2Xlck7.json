@@ -1,433 +1,733 @@
 {
-  "2022-10-26": 1954,
-  "2022-10-27": 1958,
-  "2022-10-28": 1960,
-  "2022-10-29": 1964,
-  "2022-10-30": 1966,
-  "2022-10-31": 1969,
-  "2022-11-01": 1970,
-  "2022-11-02": 1974,
-  "2022-11-03": 1974,
-  "2022-11-04": 1976,
-  "2022-11-05": 1978,
-  "2022-11-06": 1980,
-  "2022-11-07": 1981,
-  "2022-11-08": 1984,
-  "2022-11-09": 1988,
-  "2022-11-10": 1990,
-  "2022-11-11": 1989,
-  "2022-11-12": 1987,
-  "2022-11-13": 1987,
-  "2022-11-14": 1990,
-  "2022-11-15": 1991,
-  "2022-11-16": 1993,
-  "2022-11-17": 1996,
-  "2022-11-18": 1996,
-  "2022-11-19": 1996,
-  "2022-11-20": 1997,
-  "2022-11-21": 1998,
-  "2022-11-22": 1999,
-  "2022-11-23": 2000,
-  "2022-11-24": 2002,
-  "2022-11-25": 2006,
-  "2022-11-26": 2008,
-  "2022-11-27": 2011,
-  "2022-11-28": 2011,
-  "2022-11-29": 2014,
-  "2022-11-30": 2014,
-  "2022-12-01": 2017,
-  "2022-12-02": 2017,
-  "2022-12-03": 2017,
-  "2022-12-04": 2018,
-  "2022-12-05": 2021,
-  "2022-12-06": 2023,
-  "2022-12-07": 2024,
-  "2022-12-08": 2026,
-  "2022-12-09": 2027,
-  "2022-12-10": 2029,
-  "2022-12-11": 2030,
-  "2022-12-12": 2030,
-  "2022-12-13": 2033,
-  "2022-12-14": 2035,
-  "2022-12-15": 2038,
-  "2022-12-16": 2039,
-  "2022-12-17": 2042,
-  "2022-12-18": 2045,
-  "2022-12-19": 2046,
-  "2022-12-20": 2046,
-  "2022-12-21": 2046,
-  "2022-12-22": 2047,
-  "2022-12-24": 2050,
-  "2022-12-25": 2054,
-  "2022-12-26": 2057,
-  "2022-12-27": 2059,
-  "2022-12-28": 2063,
-  "2022-12-29": 2066,
-  "2022-12-30": 2065,
-  "2022-12-31": 2068,
-  "2023-01-01": 2070,
-  "2023-01-02": 2072,
-  "2023-01-03": 2072,
-  "2023-01-04": 2074,
-  "2023-01-05": 2075,
-  "2023-01-06": 2079,
-  "2023-01-07": 2080,
-  "2023-01-08": 2080,
-  "2023-01-09": 2081,
-  "2023-01-10": 2083,
-  "2023-01-11": 2084,
-  "2023-01-12": 2088,
-  "2023-01-13": 2091,
-  "2023-01-14": 2095,
-  "2023-01-15": 2096,
-  "2023-01-16": 2100,
-  "2023-01-17": 2101,
-  "2023-01-18": 2100,
-  "2023-01-19": 2102,
-  "2023-01-20": 2106,
-  "2023-01-21": 2110,
-  "2023-01-22": 2114,
-  "2023-01-23": 2118,
-  "2023-01-24": 2120,
-  "2023-01-25": 2122,
-  "2023-01-26": 2126,
-  "2023-01-27": 2126,
-  "2023-01-28": 2130,
-  "2023-01-29": 2135,
-  "2023-01-30": 2138,
-  "2023-01-31": 2138,
-  "2023-02-01": 2142,
-  "2023-02-02": 2143,
-  "2023-02-03": 2142,
-  "2023-02-04": 2144,
-  "2023-02-05": 2145,
-  "2023-02-06": 2147,
-  "2023-02-07": 2149,
-  "2023-02-08": 2154,
-  "2023-02-09": 2154,
-  "2023-02-10": 2155,
-  "2023-02-11": 2158,
-  "2023-02-12": 2158,
-  "2023-02-13": 2159,
-  "2023-02-14": 2159,
-  "2023-02-15": 2161,
-  "2023-02-16": 2164,
-  "2023-02-17": 2166,
-  "2023-02-18": 2169,
-  "2023-02-19": 2170,
-  "2023-02-20": 2171,
-  "2023-02-21": 2170,
-  "2023-02-22": 2171,
-  "2023-02-23": 2172,
-  "2023-02-24": 2173,
-  "2023-02-25": 2178,
-  "2023-02-26": 2180,
-  "2023-02-27": 2184,
-  "2023-02-28": 2184,
-  "2023-03-01": 2185,
-  "2023-03-02": 2188,
-  "2023-03-03": 2190,
-  "2023-03-04": 2195,
-  "2023-03-05": 2200,
-  "2023-03-06": 2200,
-  "2023-03-07": 2200,
-  "2023-03-08": 2200,
-  "2023-03-09": 2202,
-  "2023-03-10": 2206,
-  "2023-03-11": 2209,
-  "2023-03-12": 2209,
-  "2023-03-13": 2209,
-  "2023-03-14": 2210,
-  "2023-03-15": 2213,
-  "2023-03-16": 2213,
-  "2023-03-17": 2213,
-  "2023-03-18": 2218,
-  "2023-03-19": 2218,
-  "2023-03-20": 2222,
-  "2023-03-21": 2225,
-  "2023-03-22": 2225,
-  "2023-03-23": 2227,
-  "2023-03-24": 2227,
-  "2023-03-25": 2233,
-  "2023-03-26": 2238,
-  "2023-03-27": 2242,
-  "2023-03-28": 2246,
-  "2023-03-29": 2248,
-  "2023-03-30": 2250,
-  "2023-03-31": 2250,
-  "2023-04-01": 2253,
-  "2023-04-02": 2257,
-  "2023-04-03": 2260,
-  "2023-04-04": 2261,
-  "2023-04-05": 2265,
-  "2023-04-06": 2266,
-  "2023-04-07": 2270,
-  "2023-04-09": 2276,
-  "2023-04-10": 2275,
-  "2023-04-11": 2279,
-  "2023-04-12": 2279,
-  "2023-04-13": 2283,
-  "2023-04-14": 2283,
-  "2023-04-15": 2283,
-  "2023-04-16": 2285,
-  "2023-04-17": 2285,
-  "2023-04-18": 2286,
-  "2023-04-19": 2289,
-  "2023-04-20": 2290,
-  "2023-04-21": 2293,
-  "2023-04-22": 2298,
-  "2023-04-23": 2299,
-  "2023-04-24": 2300,
-  "2023-04-25": 2300,
-  "2023-04-26": 2302,
-  "2023-04-27": 2308,
-  "2023-04-28": 2311,
-  "2023-04-29": 2314,
-  "2023-04-30": 2315,
-  "2023-05-01": 2316,
-  "2023-05-02": 2320,
-  "2023-05-03": 2321,
-  "2023-05-04": 2325,
-  "2023-05-05": 2325,
-  "2023-05-06": 2327,
-  "2023-05-07": 2327,
-  "2023-05-08": 2328,
-  "2023-05-09": 2331,
-  "2023-05-10": 2332,
-  "2023-05-11": 2333,
-  "2023-05-12": 2334,
-  "2023-05-13": 2336,
-  "2023-05-14": 2341,
-  "2023-05-15": 2341,
-  "2023-05-16": 2344,
-  "2023-05-17": 2345,
-  "2023-05-18": 2346,
-  "2023-05-19": 2347,
-  "2023-05-20": 2353,
-  "2023-05-21": 2353,
-  "2023-05-22": 2353,
-  "2023-05-23": 2352,
-  "2023-05-24": 2353,
-  "2023-05-25": 2353,
-  "2023-05-26": 2356,
-  "2023-05-27": 2358,
-  "2023-05-28": 2361,
-  "2023-05-29": 2361,
-  "2023-05-30": 2359,
-  "2023-05-31": 2362,
-  "2023-06-01": 2365,
-  "2023-06-02": 2365,
-  "2023-06-03": 2368,
-  "2023-06-04": 2371,
-  "2023-06-05": 2370,
-  "2023-06-06": 2373,
-  "2023-06-07": 2375,
-  "2023-06-08": 2378,
-  "2023-06-09": 2378,
-  "2023-06-10": 2380,
-  "2023-06-11": 2380,
-  "2023-06-12": 2382,
-  "2023-06-13": 2385,
-  "2023-06-14": 2388,
-  "2023-06-15": 2389,
-  "2023-06-16": 2391,
-  "2023-06-17": 2391,
-  "2023-06-18": 2392,
-  "2023-06-19": 2398,
-  "2023-06-20": 2400,
-  "2023-06-21": 2400,
-  "2023-06-22": 2405,
-  "2023-06-23": 2404,
-  "2023-06-24": 2407,
-  "2023-06-25": 2407,
-  "2023-06-26": 2409,
-  "2023-06-27": 2410,
-  "2023-06-28": 2411,
-  "2023-06-29": 2412,
-  "2023-06-30": 2416,
-  "2023-07-01": 2417,
-  "2023-07-02": 2417,
-  "2023-07-03": 2417,
-  "2023-07-04": 2421,
-  "2023-07-05": 2421,
-  "2023-07-06": 2425,
-  "2023-07-07": 2425,
-  "2023-07-08": 2425,
-  "2023-07-09": 2430,
-  "2023-07-10": 2430,
-  "2023-07-11": 2431,
-  "2023-07-12": 2436,
-  "2023-07-13": 2439,
-  "2023-07-14": 2444,
-  "2023-07-15": 2444,
-  "2023-07-16": 2446,
-  "2023-07-17": 2447,
-  "2023-07-18": 2450,
-  "2023-07-19": 2451,
-  "2023-07-20": 2450,
-  "2023-07-21": 2454,
-  "2023-07-22": 2455,
-  "2023-07-23": 2455,
-  "2023-07-24": 2456,
-  "2023-07-25": 2458,
-  "2023-07-26": 2462,
-  "2023-07-27": 2465,
-  "2023-07-28": 2467,
-  "2023-07-29": 2470,
-  "2023-07-30": 2470,
-  "2023-07-31": 2469,
-  "2023-08-01": 2470,
-  "2023-08-02": 2472,
-  "2023-08-03": 2474,
-  "2023-08-04": 2477,
-  "2023-08-05": 2478,
-  "2023-08-06": 2480,
-  "2023-08-07": 2480,
-  "2023-08-08": 2481,
-  "2023-08-09": 2481,
-  "2023-08-10": 2481,
-  "2023-08-11": 2482,
-  "2023-08-12": 2482,
-  "2023-08-13": 2482,
-  "2023-08-14": 2488,
-  "2023-08-15": 2488,
-  "2023-08-16": 2488,
-  "2023-08-17": 2488,
-  "2023-08-18": 2488,
-  "2023-08-19": 2488,
-  "2023-08-20": 2499,
-  "2023-08-21": 2499,
-  "2023-08-22": 2503,
-  "2023-08-23": 2503,
-  "2023-08-24": 2503,
-  "2023-08-25": 2503,
-  "2023-08-26": 2509,
-  "2023-08-27": 2509,
-  "2023-08-28": 2509,
-  "2023-08-29": 2509,
-  "2023-08-30": 2509,
-  "2023-08-31": 2515,
-  "2023-09-01": 2516,
-  "2023-09-02": 2516,
-  "2023-09-03": 2516,
-  "2023-09-04": 2516,
-  "2023-09-05": 2516,
-  "2023-09-06": 2519,
-  "2023-09-07": 2519,
-  "2023-09-08": 2519,
-  "2023-09-09": 2519,
-  "2023-09-10": 2525,
-  "2023-09-11": 2525,
-  "2023-09-12": 2525,
-  "2023-09-13": 2525,
-  "2023-09-14": 2525,
-  "2023-09-15": 2525,
-  "2023-09-16": 2536,
-  "2023-09-17": 2536,
-  "2023-09-18": 2536,
-  "2023-09-19": 2543,
-  "2023-09-20": 2543,
-  "2023-09-21": 2543,
-  "2023-09-22": 2547,
-  "2023-09-23": 2547,
-  "2023-09-24": 2547,
-  "2023-09-25": 2547,
-  "2023-09-26": 2551,
-  "2023-09-27": 2551,
-  "2023-09-28": 2551,
-  "2023-09-29": 2551,
-  "2023-09-30": 2551,
-  "2023-10-01": 2551,
-  "2023-10-02": 2551,
-  "2023-10-03": 2551,
-  "2023-10-04": 2551,
-  "2023-10-05": 2551,
-  "2023-10-06": 2551,
-  "2023-10-07": 2551,
-  "2023-10-08": 2551,
-  "2023-10-09": 2551,
-  "2023-10-10": 2551,
-  "2023-10-11": 2569,
-  "2023-10-12": 2569,
-  "2023-10-13": 2569,
-  "2023-10-14": 2569,
-  "2023-10-15": 2569,
-  "2023-10-16": 2569,
-  "2023-10-17": 2569,
-  "2023-10-18": 2569,
-  "2023-10-19": 2569,
-  "2023-10-20": 2569,
-  "2023-10-21": 2569,
-  "2023-10-22": 2569,
-  "2023-10-23": 2569,
-  "2023-10-24": 2569,
-  "2023-10-25": 2569,
-  "2023-10-26": 2569,
-  "2023-10-27": 2569,
-  "2023-10-28": 2569,
-  "2023-10-29": 2569,
-  "2023-10-30": 2569,
-  "2023-10-31": 2569,
-  "2023-11-01": 2569,
-  "2023-11-02": 2569,
-  "2023-11-03": 2569,
-  "2023-11-04": 2569,
-  "2023-11-05": 2569,
-  "2023-11-06": 2569,
-  "2023-11-07": 2569,
-  "2023-11-08": 2569,
-  "2023-11-09": 2569,
-  "2023-11-10": 2569,
-  "2023-11-11": 2624,
-  "2023-11-12": 2624,
-  "2023-11-13": 2624,
-  "2023-11-14": 2624,
-  "2023-11-15": 2624,
-  "2023-11-16": 2624,
-  "2023-11-17": 2624,
-  "2023-11-18": 2624,
-  "2023-11-19": 2624,
-  "2023-11-20": 2624,
-  "2023-11-21": 2624,
-  "2023-11-22": 2624,
-  "2023-11-23": 2624,
-  "2023-11-24": 2624,
-  "2023-11-25": 2624,
-  "2023-11-26": 2624,
-  "2023-11-27": 2624,
-  "2023-11-28": 2624,
-  "2023-11-29": 2624,
-  "2023-11-30": 2624,
-  "2023-12-01": 2624,
-  "2023-12-02": 2624,
-  "2023-12-03": 2624,
-  "2023-12-04": 2624,
-  "2023-12-05": 2624,
-  "2023-12-06": 2624,
-  "2023-12-07": 2624,
-  "2023-12-08": 2624,
-  "2023-12-09": 2624,
-  "2023-12-10": 2624,
-  "2023-12-11": 2624,
-  "2023-12-12": 2624,
-  "2023-12-13": 2624,
-  "2023-12-14": 2659,
-  "2023-12-15": 2659,
-  "2023-12-16": 2660,
-  "2023-12-17": 2660,
-  "2023-12-18": 2660,
-  "2023-12-19": 2661,
-  "2023-12-20": 2659,
-  "2023-12-21": 2659,
-  "2023-12-22": 2663,
-  "2023-12-23": 2664,
-  "2023-12-24": 2665,
-  "2023-12-25": 2665,
-  "2023-12-26": 2667,
-  "2023-12-27": 2669,
-  "2023-12-30": 2670,
-  "2023-12-31": 2670,
-  "2024-01-01": 2670,
-  "2024-01-02": 2670,
-  "2024-01-03": 2668
+  "2024-01-17": 2691,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is Finch. The essential tracks, all in one playlist.",
+  "name": "This Is Finch",
+  "tracks": [
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185386,
+      "name": "A Piece Of Mind",
+      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/7yspkJ99ueJylCjxHGEH77"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/2jPYuI2SRCueYfdrMntkCq"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "Back To Oblivion",
+      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 203466,
+      "name": "Back To Oblivion",
+      "url": "https://open.spotify.com/track/6lmViGkDC9BbmBb5l856fl"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Bitemarks And Bloodstains",
+      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Brother Bleed Brother",
+      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
+    },
+    {
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 448320,
+      "name": "Chinese Organ Thieves",
+      "url": "https://open.spotify.com/track/49jEjCzhpgpIIar7HnIRpg"
+    },
+    {
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 256173,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7pJx8OGZ8fBbchaVLxveE2"
+    },
+    {
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 236813,
+      "name": "Famine Or Disease",
+      "url": "https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt"
+    },
+    {
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 218906,
+      "name": "From Hell",
+      "url": "https://open.spotify.com/track/23CtmrAxtou9iB43mfim6r"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/0qzSw9fY5VVZdlEeaP3wbw"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "Grey Matter",
+      "url": "https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215320,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264533,
+      "name": "Insomniatic Meat",
+      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/5ViK71JwQMOnWxzw4yHZYh"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1FS3D8JxrnCSkn20AvvleK"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/7yspkJ99ueJylCjxHGEH77"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/2QdBDeZ2pLn3JmCXxwlknX"
+    },
+    {
+      "album": {
+        "name": "Falling Into Place",
+        "url": "https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334733,
+      "name": "New Kid",
+      "url": "https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 248933,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/2ta5mi3SPDbzoZbl72tbwK"
+    },
+    {
+      "album": {
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+    },
+    {
+      "album": {
+        "name": "Galleons of Passion 2 (expanded & remastered)",
+        "url": "https://open.spotify.com/album/5LLhZh5gz8fPq1cBhm98Eu"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/5FkqKnWT3Uf7lhShflsViO"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 662926,
+      "name": "Paradoxical Moods - live 1975",
+      "url": "https://open.spotify.com/track/6mgB7miIa3f7Ftat2Tb73b"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Perfection Through Silence",
+      "url": "https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/6hbJCRM1jQDDCVcg6uMoLU"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169760,
+      "name": "Post Script",
+      "url": "https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw"
+    },
+    {
+      "album": {
+        "name": "Love My Vol.9",
+        "url": "https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh"
+      },
+      "artists": [
+        {
+          "name": "Ralphie",
+          "url": "https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz"
+        },
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Pre World - Main Floor House Mix",
+      "url": "https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6"
+    },
+    {
+      "album": {
+        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157693,
+      "name": "Spanish Fly (Bonus Track)",
+      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 110226,
+      "name": "The Casket Of Roderic Usher",
+      "url": "https://open.spotify.com/track/02GYMZb9sYAEcRLGgQYXaB"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 187253,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/29SyOOUe940ehXSe1jSAxg"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "Two Guns To The Temple",
+      "url": "https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269026,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+    },
+    {
+      "album": {
+        "name": "What It Is To Burn - X",
+        "url": "https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225408,
+      "name": "Worms Of The Earth - Live",
+      "url": "https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xlck7"
 }

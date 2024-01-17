@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Zc2C2regQe.md) - [plain]
 
 > "When I need to turn down the noise, I listen to songs that remind me of really good times in my life\. This helps to regulate my mood and really bring me back to earth." Cover: Eli Rallo
 
-[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 31 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 31 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

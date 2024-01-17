@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": "2024-01-13",
       "duration_ms": 259364,
       "name": "Influence - Edit",
       "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
@@ -2056,10 +2056,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 372906,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
+    },
+    {
+      "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N"
     },
     {
       "album": {

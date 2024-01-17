@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6r8hObcpBOeuCd7Zua3L5E.md) - cumulative - [plain](/playlists/plain/6r8hObcpBOeuCd7Zua3L5E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6r8hObcpBOeuCd7Zua3L5E)
 
-### [sped up songs \(2\)](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
+### [sped up songs \| TikTok Hits](https://open.spotify.com/playlist/6r8hObcpBOeuCd7Zua3L5E)
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on TikTok and around the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Sped up TikTok audios\. Sped up TikTok audios 2023\. Nightcore\. Sped up nightcore.
 

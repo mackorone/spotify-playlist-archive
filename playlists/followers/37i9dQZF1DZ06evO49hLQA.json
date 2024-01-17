@@ -1,717 +1,1125 @@
 {
-  "2022-01-12": 1714178,
-  "2022-01-13": 1714321,
-  "2022-01-14": 1714641,
-  "2022-01-15": 1716098,
-  "2022-01-16": 1716122,
-  "2022-01-17": 1716905,
-  "2022-01-18": 1716930,
-  "2022-01-19": 1717171,
-  "2022-01-20": 1717538,
-  "2022-01-21": 1717949,
-  "2022-01-22": 1718392,
-  "2022-01-23": 1718853,
-  "2022-01-24": 1719264,
-  "2022-01-25": 1719601,
-  "2022-01-26": 1719972,
-  "2022-01-27": 1720427,
-  "2022-01-28": 1720876,
-  "2022-01-29": 1721334,
-  "2022-01-30": 1721831,
-  "2022-01-31": 1722248,
-  "2022-02-01": 1722623,
-  "2022-02-02": 1723016,
-  "2022-02-03": 1723473,
-  "2022-02-04": 1723882,
-  "2022-02-05": 1724409,
-  "2022-02-06": 1724962,
-  "2022-02-07": 1725339,
-  "2022-02-08": 1725737,
-  "2022-02-09": 1726128,
-  "2022-02-10": 1726576,
-  "2022-02-11": 1727032,
-  "2022-02-12": 1727564,
-  "2022-02-13": 1728070,
-  "2022-02-14": 1728454,
-  "2022-02-15": 1728768,
-  "2022-02-16": 1729085,
-  "2022-02-17": 1729494,
-  "2022-02-18": 1729917,
-  "2022-02-19": 1730395,
-  "2022-02-20": 1730898,
-  "2022-02-21": 1731372,
-  "2022-02-22": 1731771,
-  "2022-02-23": 1732217,
-  "2022-02-24": 1732726,
-  "2022-02-25": 1733133,
-  "2022-02-26": 1733672,
-  "2022-02-27": 1734575,
-  "2022-02-28": 1734575,
-  "2022-03-01": 1734969,
-  "2022-03-02": 1735399,
-  "2022-03-03": 1735848,
-  "2022-03-04": 1736265,
-  "2022-03-05": 1736794,
-  "2022-03-06": 1737335,
-  "2022-03-07": 1737755,
-  "2022-03-08": 1738124,
-  "2022-03-09": 1738523,
-  "2022-03-10": 1739010,
-  "2022-03-11": 1739497,
-  "2022-03-12": 1739989,
-  "2022-03-13": 1740532,
-  "2022-03-14": 1740979,
-  "2022-03-15": 1741405,
-  "2022-03-16": 1741848,
-  "2022-03-17": 1742289,
-  "2022-03-18": 1742947,
-  "2022-03-19": 1743314,
-  "2022-03-20": 1743314,
-  "2022-03-21": 1744326,
-  "2022-03-22": 1744682,
-  "2022-03-23": 1745082,
-  "2022-03-24": 1745532,
-  "2022-03-25": 1746047,
-  "2022-03-26": 1746604,
-  "2022-03-27": 1747174,
-  "2022-03-28": 1747618,
-  "2022-03-30": 1748418,
-  "2022-03-31": 1748894,
-  "2022-04-01": 1749457,
-  "2022-04-02": 1749990,
-  "2022-04-03": 1750508,
-  "2022-04-04": 1750938,
-  "2022-04-05": 1751352,
-  "2022-04-06": 1751750,
-  "2022-04-07": 1752251,
-  "2022-04-08": 1752700,
-  "2022-04-09": 1753230,
-  "2022-04-10": 1754267,
-  "2022-04-11": 1754694,
-  "2022-04-12": 1754748,
-  "2022-04-13": 1755174,
-  "2022-04-14": 1755698,
-  "2022-04-15": 1756307,
-  "2022-04-16": 1756845,
-  "2022-04-17": 1757423,
-  "2022-04-18": 1757962,
-  "2022-04-19": 1758385,
-  "2022-04-20": 1758859,
-  "2022-04-21": 1759350,
-  "2022-04-22": 1759840,
-  "2022-04-23": 1760447,
-  "2022-04-24": 1761012,
-  "2022-04-25": 1761520,
-  "2022-04-26": 1761942,
-  "2022-04-27": 1762471,
-  "2022-04-28": 1762877,
-  "2022-04-29": 1763748,
-  "2022-04-30": 1764472,
-  "2022-05-01": 1765084,
-  "2022-05-02": 1765084,
-  "2022-05-03": 1765551,
-  "2022-05-04": 1765950,
-  "2022-05-05": 1766397,
-  "2022-05-06": 1766880,
-  "2022-05-07": 1767563,
-  "2022-05-08": 1768453,
-  "2022-05-09": 1768532,
-  "2022-05-10": 1769009,
-  "2022-05-11": 1769548,
-  "2022-05-12": 1770063,
-  "2022-05-13": 1770640,
-  "2022-05-14": 1771259,
-  "2022-05-15": 1771875,
-  "2022-05-16": 1772362,
-  "2022-05-17": 1772822,
-  "2022-05-18": 1773291,
-  "2022-05-19": 1773807,
-  "2022-05-20": 1774389,
-  "2022-05-21": 1775453,
-  "2022-05-22": 1775453,
-  "2022-05-23": 1775944,
-  "2022-05-24": 1776370,
-  "2022-05-25": 1776845,
-  "2022-05-26": 1777366,
-  "2022-05-27": 1777898,
-  "2022-05-28": 1778474,
-  "2022-05-29": 1779047,
-  "2022-05-30": 1779541,
-  "2022-05-31": 1780004,
-  "2022-06-01": 1780913,
-  "2022-06-02": 1780973,
-  "2022-06-03": 1781486,
-  "2022-06-04": 1782109,
-  "2022-06-05": 1782681,
-  "2022-06-06": 1783191,
-  "2022-06-07": 1783696,
-  "2022-06-08": 1784270,
-  "2022-06-09": 1784698,
-  "2022-06-10": 1785256,
-  "2022-06-11": 1785833,
-  "2022-06-12": 1786436,
-  "2022-06-13": 1786927,
-  "2022-06-14": 1787416,
-  "2022-06-15": 1787946,
-  "2022-06-16": 1788405,
-  "2022-06-17": 1788965,
-  "2022-06-18": 1789591,
-  "2022-06-19": 1790704,
-  "2022-06-20": 1790704,
-  "2022-06-21": 1791121,
-  "2022-06-22": 1792098,
-  "2022-06-23": 1792098,
-  "2022-06-24": 1792625,
-  "2022-06-25": 1793183,
-  "2022-06-26": 1793759,
-  "2022-06-27": 1794262,
-  "2022-06-28": 1794678,
-  "2022-06-29": 1795148,
-  "2022-06-30": 1795664,
-  "2022-07-01": 1796226,
-  "2022-07-02": 1796863,
-  "2022-07-03": 1797512,
-  "2022-07-04": 1798063,
-  "2022-07-05": 1798063,
-  "2022-07-06": 1798063,
-  "2022-07-07": 1799593,
-  "2022-07-08": 1800145,
-  "2022-07-09": 1800773,
-  "2022-07-10": 1801427,
-  "2022-07-11": 1801960,
-  "2022-07-12": 1802524,
-  "2022-07-13": 1803045,
-  "2022-07-14": 1803626,
-  "2022-07-15": 1804275,
-  "2022-07-16": 1804988,
-  "2022-07-17": 1805727,
-  "2022-07-18": 1806353,
-  "2022-07-19": 1806956,
-  "2022-07-20": 1807576,
-  "2022-07-21": 1808170,
-  "2022-07-22": 1808793,
-  "2022-07-23": 1809508,
-  "2022-07-24": 1810240,
-  "2022-07-25": 1810813,
-  "2022-07-26": 1811408,
-  "2022-07-27": 1811954,
-  "2022-07-28": 1812535,
-  "2022-07-29": 1813180,
-  "2022-07-30": 1814490,
-  "2022-07-31": 1814490,
-  "2022-08-01": 1815085,
-  "2022-08-02": 1816176,
-  "2022-08-03": 1816176,
-  "2022-08-04": 1816712,
-  "2022-08-05": 1817278,
-  "2022-08-06": 1817914,
-  "2022-08-07": 1818561,
-  "2022-08-08": 1819097,
-  "2022-08-09": 1819621,
-  "2022-08-10": 1820166,
-  "2022-08-11": 1820665,
-  "2022-08-12": 1821240,
-  "2022-08-13": 1821806,
-  "2022-08-14": 1822436,
-  "2022-08-15": 1822922,
-  "2022-08-16": 1823433,
-  "2022-08-17": 1823959,
-  "2022-08-18": 1824469,
-  "2022-08-19": 1825020,
-  "2022-08-20": 1825536,
-  "2022-08-21": 1826152,
-  "2022-08-22": 1826652,
-  "2022-08-23": 1827044,
-  "2022-08-24": 1827545,
-  "2022-08-25": 1828082,
-  "2022-08-26": 1828679,
-  "2022-08-27": 1829256,
-  "2022-08-28": 1829890,
-  "2022-08-29": 1830386,
-  "2022-08-30": 1830498,
-  "2022-08-31": 1830136,
-  "2022-09-01": 1829822,
-  "2022-09-02": 1829502,
-  "2022-09-03": 1828512,
-  "2022-09-04": 1828453,
-  "2022-09-05": 1828853,
-  "2022-09-06": 1829328,
-  "2022-09-07": 1829817,
-  "2022-09-09": 1830835,
-  "2022-09-10": 1831468,
-  "2022-09-11": 1832114,
-  "2022-09-12": 1832623,
-  "2022-09-13": 1833132,
-  "2022-09-15": 1834082,
-  "2022-09-16": 1834592,
-  "2022-09-17": 1835277,
-  "2022-09-18": 1836074,
-  "2022-09-19": 1836754,
-  "2022-09-20": 1837364,
-  "2022-09-21": 1838039,
-  "2022-09-22": 1838795,
-  "2022-09-23": 1839527,
-  "2022-09-24": 1839527,
-  "2022-09-25": 1841143,
-  "2022-09-26": 1841822,
-  "2022-09-27": 1842489,
-  "2022-09-28": 1843226,
-  "2022-09-29": 1844008,
-  "2022-09-30": 1844742,
-  "2022-10-01": 1845547,
-  "2022-10-02": 1846420,
-  "2022-10-03": 1847163,
-  "2022-10-04": 1847852,
-  "2022-10-05": 1848461,
-  "2022-10-06": 1849253,
-  "2022-10-07": 1850033,
-  "2022-10-08": 1850915,
-  "2022-10-09": 1852422,
-  "2022-10-10": 1852598,
-  "2022-10-11": 1853245,
-  "2022-10-12": 1853958,
-  "2022-10-13": 1854699,
-  "2022-10-14": 1855484,
-  "2022-10-15": 1856242,
-  "2022-10-16": 1857077,
-  "2022-10-17": 1857782,
-  "2022-10-18": 1858442,
-  "2022-10-19": 1859120,
-  "2022-10-20": 1859798,
-  "2022-10-21": 1860510,
-  "2022-10-22": 1861242,
-  "2022-10-23": 1862091,
-  "2022-10-24": 1862737,
-  "2022-10-25": 1863450,
-  "2022-10-26": 1864136,
-  "2022-10-27": 1864876,
-  "2022-10-28": 1865649,
-  "2022-10-29": 1866507,
-  "2022-10-30": 1867352,
-  "2022-10-31": 1868022,
-  "2022-11-01": 1868652,
-  "2022-11-02": 1869296,
-  "2022-11-03": 1869971,
-  "2022-11-04": 1870644,
-  "2022-11-05": 1871512,
-  "2022-11-06": 1872388,
-  "2022-11-07": 1873104,
-  "2022-11-08": 1873760,
-  "2022-11-09": 1874493,
-  "2022-11-10": 1875170,
-  "2022-11-11": 1875816,
-  "2022-11-12": 1876631,
-  "2022-11-13": 1877386,
-  "2022-11-14": 1878160,
-  "2022-11-15": 1878774,
-  "2022-11-16": 1879482,
-  "2022-11-17": 1880116,
-  "2022-11-18": 1880264,
-  "2022-11-19": 1880441,
-  "2022-11-20": 1881037,
-  "2022-11-21": 1881801,
-  "2022-11-22": 1882451,
-  "2022-11-23": 1883040,
-  "2022-11-24": 1884204,
-  "2022-11-25": 1885219,
-  "2022-11-26": 1885987,
-  "2022-11-27": 1886735,
-  "2022-11-28": 1887318,
-  "2022-11-29": 1887912,
-  "2022-11-30": 1888588,
-  "2022-12-01": 1889363,
-  "2022-12-02": 1889887,
-  "2022-12-03": 1890955,
-  "2022-12-04": 1891860,
-  "2022-12-05": 1892560,
-  "2022-12-06": 1893207,
-  "2022-12-07": 1893890,
-  "2022-12-08": 1894620,
-  "2022-12-09": 1895313,
-  "2022-12-10": 1896015,
-  "2022-12-11": 1896778,
-  "2022-12-12": 1897506,
-  "2022-12-13": 1898113,
-  "2022-12-14": 1898761,
-  "2022-12-15": 1899384,
-  "2022-12-16": 1900083,
-  "2022-12-17": 1900791,
-  "2022-12-18": 1901608,
-  "2022-12-19": 1902256,
-  "2022-12-20": 1903520,
-  "2022-12-21": 1903520,
-  "2022-12-22": 1904195,
-  "2022-12-24": 1905732,
-  "2022-12-25": 1906533,
-  "2022-12-26": 1907317,
-  "2022-12-27": 1908001,
-  "2022-12-28": 1908762,
-  "2022-12-29": 1909551,
-  "2022-12-30": 1910361,
-  "2022-12-31": 1911197,
-  "2023-01-01": 1912101,
-  "2023-01-02": 1912664,
-  "2023-01-03": 1913428,
-  "2023-01-04": 1914139,
-  "2023-01-05": 1914883,
-  "2023-01-06": 1915743,
-  "2023-01-07": 1917043,
-  "2023-01-08": 1917266,
-  "2023-01-09": 1918052,
-  "2023-01-10": 1918746,
-  "2023-01-11": 1919510,
-  "2023-01-12": 1920267,
-  "2023-01-13": 1921041,
-  "2023-01-14": 1922474,
-  "2023-01-15": 1922687,
-  "2023-01-16": 1923534,
-  "2023-01-17": 1924268,
-  "2023-01-18": 1925041,
-  "2023-01-19": 1925850,
-  "2023-01-20": 1926677,
-  "2023-01-21": 1927555,
-  "2023-01-22": 1928491,
-  "2023-01-23": 1929369,
-  "2023-01-24": 1930170,
-  "2023-01-25": 1930952,
-  "2023-01-26": 1931660,
-  "2023-01-27": 1932438,
-  "2023-01-28": 1933271,
-  "2023-01-29": 1934179,
-  "2023-01-30": 1934942,
-  "2023-01-31": 1934942,
-  "2023-02-01": 1936269,
-  "2023-02-02": 1936997,
-  "2023-02-03": 1937754,
-  "2023-02-04": 1938551,
-  "2023-02-05": 1939430,
-  "2023-02-06": 1940193,
-  "2023-02-07": 1940819,
-  "2023-02-08": 1942275,
-  "2023-02-09": 1942275,
-  "2023-02-10": 1942991,
-  "2023-02-11": 1943780,
-  "2023-02-12": 1945335,
-  "2023-02-13": 1945951,
-  "2023-02-14": 1945951,
-  "2023-02-15": 1946577,
-  "2023-02-16": 1947201,
-  "2023-02-17": 1947944,
-  "2023-02-18": 1949628,
-  "2023-02-19": 1949753,
-  "2023-02-20": 1950470,
-  "2023-02-21": 1951157,
-  "2023-02-22": 1951876,
-  "2023-02-23": 1952632,
-  "2023-02-24": 1953444,
-  "2023-02-25": 1954530,
-  "2023-02-26": 1955205,
-  "2023-02-27": 1956667,
-  "2023-02-28": 1956667,
-  "2023-03-01": 1957382,
-  "2023-03-02": 1958066,
-  "2023-03-03": 1958894,
-  "2023-03-04": 1959682,
-  "2023-03-05": 1961290,
-  "2023-03-06": 1961290,
-  "2023-03-07": 1962046,
-  "2023-03-08": 1962684,
-  "2023-03-09": 1963392,
-  "2023-03-10": 1964153,
-  "2023-03-11": 1964948,
-  "2023-03-12": 1965762,
-  "2023-03-13": 1966458,
-  "2023-03-14": 1967116,
-  "2023-03-15": 1967796,
-  "2023-03-16": 1967796,
-  "2023-03-17": 1967796,
-  "2023-03-18": 1970098,
-  "2023-03-19": 1970098,
-  "2023-03-20": 1971595,
-  "2023-03-21": 1972222,
-  "2023-03-22": 1972948,
-  "2023-03-23": 1973691,
-  "2023-03-24": 1973691,
-  "2023-03-25": 1975265,
-  "2023-03-26": 1976189,
-  "2023-03-27": 1976995,
-  "2023-03-28": 1977712,
-  "2023-03-29": 1978523,
-  "2023-03-30": 1979950,
-  "2023-03-31": 1979950,
-  "2023-04-01": 1980810,
-  "2023-04-02": 1981691,
-  "2023-04-03": 1982478,
-  "2023-04-04": 1983282,
-  "2023-04-05": 1984122,
-  "2023-04-06": 1984913,
-  "2023-04-07": 1985770,
-  "2023-04-09": 1987506,
-  "2023-04-10": 1988242,
-  "2023-04-11": 1989663,
-  "2023-04-12": 1989663,
-  "2023-04-13": 1990445,
-  "2023-04-14": 1991257,
-  "2023-04-15": 1992053,
-  "2023-04-16": 1992897,
-  "2023-04-17": 1993570,
-  "2023-04-18": 1994251,
-  "2023-04-19": 1994936,
-  "2023-04-20": 1995664,
-  "2023-04-21": 1996522,
-  "2023-04-22": 1997394,
-  "2023-04-23": 1998319,
-  "2023-04-24": 1999059,
-  "2023-04-25": 1999873,
-  "2023-04-26": 2000650,
-  "2023-04-27": 2001445,
-  "2023-04-28": 2002234,
-  "2023-04-29": 2003140,
-  "2023-04-30": 2004070,
-  "2023-05-01": 2004875,
-  "2023-05-02": 2005620,
-  "2023-05-03": 2006309,
-  "2023-05-04": 2007011,
-  "2023-05-05": 2007765,
-  "2023-05-06": 2008548,
-  "2023-05-07": 2009399,
-  "2023-05-08": 2010155,
-  "2023-05-09": 2010818,
-  "2023-05-10": 2011523,
-  "2023-05-11": 2012251,
-  "2023-05-12": 2013004,
-  "2023-05-13": 2013852,
-  "2023-05-14": 2014686,
-  "2023-05-15": 2015392,
-  "2023-05-16": 2016024,
-  "2023-05-17": 2016722,
-  "2023-05-18": 2017453,
-  "2023-05-19": 2018273,
-  "2023-05-20": 2019940,
-  "2023-05-21": 2019940,
-  "2023-05-22": 2019940,
-  "2023-05-23": 2021346,
-  "2023-05-24": 2022598,
-  "2023-05-25": 2022814,
-  "2023-05-26": 2023576,
-  "2023-05-27": 2024473,
-  "2023-05-28": 2025286,
-  "2023-05-29": 2025286,
-  "2023-05-30": 2026642,
-  "2023-05-31": 2027335,
-  "2023-06-01": 2028054,
-  "2023-06-02": 2028778,
-  "2023-06-03": 2029569,
-  "2023-06-04": 2030484,
-  "2023-06-05": 2031175,
-  "2023-06-06": 2031765,
-  "2023-06-07": 2032450,
-  "2023-06-08": 2033237,
-  "2023-06-09": 2034000,
-  "2023-06-10": 2034551,
-  "2023-06-11": 2035054,
-  "2023-06-12": 2035438,
-  "2023-06-13": 2035804,
-  "2023-06-14": 2036157,
-  "2023-06-15": 2036520,
-  "2023-06-16": 2036977,
-  "2023-06-17": 2037521,
-  "2023-06-18": 2038033,
-  "2023-06-19": 2038438,
-  "2023-06-20": 2038827,
-  "2023-06-21": 2039208,
-  "2023-06-22": 2039636,
-  "2023-06-23": 2040075,
-  "2023-06-24": 2040506,
-  "2023-06-25": 2041013,
-  "2023-06-26": 2041479,
-  "2023-06-27": 2041897,
-  "2023-06-28": 2042313,
-  "2023-06-29": 2042729,
-  "2023-06-30": 2043172,
-  "2023-07-01": 2044087,
-  "2023-07-02": 2044087,
-  "2023-07-03": 2044451,
-  "2023-07-04": 2044789,
-  "2023-07-05": 2045178,
-  "2023-07-06": 2046043,
-  "2023-07-07": 2046043,
-  "2023-07-08": 2046043,
-  "2023-07-09": 2047184,
-  "2023-07-10": 2047542,
-  "2023-07-11": 2047908,
-  "2023-07-12": 2048293,
-  "2023-07-13": 2048698,
-  "2023-07-14": 2049137,
-  "2023-07-15": 2049561,
-  "2023-07-16": 2050134,
-  "2023-07-17": 2050559,
-  "2023-07-18": 2050891,
-  "2023-07-19": 2051270,
-  "2023-07-20": 2051270,
-  "2023-07-21": 2052107,
-  "2023-07-22": 2052598,
-  "2023-07-23": 2053120,
-  "2023-07-24": 2053521,
-  "2023-07-25": 2053863,
-  "2023-07-26": 2054222,
-  "2023-07-27": 2054643,
-  "2023-07-28": 2054643,
-  "2023-07-29": 2055531,
-  "2023-07-30": 2055531,
-  "2023-07-31": 2056368,
-  "2023-08-01": 2056756,
-  "2023-08-02": 2057093,
-  "2023-08-03": 2057448,
-  "2023-08-04": 2057790,
-  "2023-08-05": 2058200,
-  "2023-08-06": 2059062,
-  "2023-08-07": 2059062,
-  "2023-08-08": 2059371,
-  "2023-08-09": 2059676,
-  "2023-08-10": 2059982,
-  "2023-08-11": 2060416,
-  "2023-08-12": 2060416,
-  "2023-08-13": 2060416,
-  "2023-08-14": 2060416,
-  "2023-08-15": 2060416,
-  "2023-08-16": 2060416,
-  "2023-08-17": 2060416,
-  "2023-08-18": 2060416,
-  "2023-08-19": 2060416,
-  "2023-08-20": 2064176,
-  "2023-08-21": 2064176,
-  "2023-08-22": 2064918,
-  "2023-08-23": 2064918,
-  "2023-08-24": 2064918,
-  "2023-08-25": 2064918,
-  "2023-08-26": 2066594,
-  "2023-08-27": 2066594,
-  "2023-08-28": 2067369,
-  "2023-08-29": 2067369,
-  "2023-08-30": 2067369,
-  "2023-08-31": 2068459,
-  "2023-09-01": 2068831,
-  "2023-09-02": 2068831,
-  "2023-09-03": 2068831,
-  "2023-09-04": 2068831,
-  "2023-09-05": 2068831,
-  "2023-09-06": 2068831,
-  "2023-09-07": 2068831,
-  "2023-09-08": 2068831,
-  "2023-09-09": 2068831,
-  "2023-09-10": 2068831,
-  "2023-09-11": 2068831,
-  "2023-09-12": 2068831,
-  "2023-09-13": 2068831,
-  "2023-09-14": 2068831,
-  "2023-09-15": 2068831,
-  "2023-09-16": 2068831,
-  "2023-09-17": 2068831,
-  "2023-09-18": 2068831,
-  "2023-09-19": 2068831,
-  "2023-09-20": 2068831,
-  "2023-09-21": 2068831,
-  "2023-09-22": 2076848,
-  "2023-09-23": 2076848,
-  "2023-09-24": 2076848,
-  "2023-09-25": 2076848,
-  "2023-09-26": 2078207,
-  "2023-09-27": 2078207,
-  "2023-09-28": 2078207,
-  "2023-09-29": 2078207,
-  "2023-09-30": 2078207,
-  "2023-10-01": 2078207,
-  "2023-10-02": 2078207,
-  "2023-10-03": 2078207,
-  "2023-10-04": 2078207,
-  "2023-10-05": 2078207,
-  "2023-10-06": 2078207,
-  "2023-10-07": 2078207,
-  "2023-10-08": 2078207,
-  "2023-10-09": 2078207,
-  "2023-10-10": 2078207,
-  "2023-10-11": 2078207,
-  "2023-10-12": 2078207,
-  "2023-10-13": 2078207,
-  "2023-10-14": 2078207,
-  "2023-10-15": 2078207,
-  "2023-10-16": 2078207,
-  "2023-10-17": 2078207,
-  "2023-10-18": 2078207,
-  "2023-10-19": 2078207,
-  "2023-10-20": 2078207,
-  "2023-10-21": 2078207,
-  "2023-10-22": 2078207,
-  "2023-10-23": 2078207,
-  "2023-10-24": 2078207,
-  "2023-10-25": 2078207,
-  "2023-10-26": 2078207,
-  "2023-10-27": 2078207,
-  "2023-10-28": 2078207,
-  "2023-10-29": 2078207,
-  "2023-10-30": 2078207,
-  "2023-10-31": 2078207,
-  "2023-11-01": 2078207,
-  "2023-11-02": 2078207,
-  "2023-11-03": 2078207,
-  "2023-11-04": 2078207,
-  "2023-11-05": 2078207,
-  "2023-11-06": 2078207,
-  "2023-11-07": 2078207,
-  "2023-11-08": 2078207,
-  "2023-11-09": 2078207,
-  "2023-11-10": 2078207,
-  "2023-11-11": 2089073,
-  "2023-11-12": 2089073,
-  "2023-11-13": 2089073,
-  "2023-11-14": 2089073,
-  "2023-11-15": 2089073,
-  "2023-11-16": 2089073,
-  "2023-11-17": 2089073,
-  "2023-11-18": 2089073,
-  "2023-11-19": 2089073,
-  "2023-11-20": 2089073,
-  "2023-11-21": 2089073,
-  "2023-11-22": 2089073,
-  "2023-11-23": 2089073,
-  "2023-11-24": 2089073,
-  "2023-11-25": 2089073,
-  "2023-11-26": 2089073,
-  "2023-11-27": 2089073,
-  "2023-11-28": 2089073,
-  "2023-11-29": 2089073,
-  "2023-11-30": 2089073,
-  "2023-12-01": 2089073,
-  "2023-12-02": 2089073,
-  "2023-12-03": 2089073,
-  "2023-12-04": 2089073,
-  "2023-12-05": 2089073,
-  "2023-12-06": 2089073,
-  "2023-12-07": 2089073,
-  "2023-12-08": 2089073,
-  "2023-12-09": 2089073,
-  "2023-12-10": 2089073,
-  "2023-12-11": 2089073,
-  "2023-12-12": 2089073,
-  "2023-12-13": 2089073,
-  "2023-12-14": 2098247,
-  "2023-12-15": 2098456,
-  "2023-12-16": 2098773,
-  "2023-12-17": 2099031,
-  "2023-12-18": 2099266,
-  "2023-12-19": 2099460,
-  "2023-12-20": 2099725,
-  "2023-12-21": 2100008,
-  "2023-12-22": 2100304,
-  "2023-12-23": 2100630,
-  "2023-12-24": 2100926,
-  "2023-12-25": 2101182,
-  "2023-12-26": 2101459,
-  "2023-12-27": 2101723,
-  "2023-12-30": 2102615,
-  "2023-12-31": 2102869,
-  "2024-01-01": 2103133,
-  "2024-01-02": 2103304,
-  "2024-01-03": 2103432
+  "2024-01-17": 2099998,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is AC/DC. The essential tracks, all in one playlist.",
+  "name": "This Is AC/DC",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/7A1odihHBrI8n9k0Fefh2j"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
+        "name": "Fly On the Wall",
+        "url": "https://open.spotify.com/album/0rOXa1wPbBrCNl6knMyDBW"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 264373,
+      "name": "Back in Business",
+      "url": "https://open.spotify.com/track/6FCp2G9cQKTBl2nd34vciA"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Baptism By Fire",
+      "url": "https://open.spotify.com/track/1ULNWGJD3skjg0jWjhCFHc"
+    },
+    {
+      "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "Big Balls",
+      "url": "https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a"
+    },
+    {
+      "album": {
+        "name": "Backtracks",
+        "url": "https://open.spotify.com/album/0I7FkYrckzJtK1ND8vzqoO"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259413,
+      "name": "Big Gun",
+      "url": "https://open.spotify.com/track/7zjzu90Q4mtNNaE9Ol9Zbv"
+    },
+    {
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/3Axmw41lmMoXih3NJYzbXb"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210360,
+      "name": "Demon Fire",
+      "url": "https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7"
+    },
+    {
+      "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Dirty Deeds Done Dirt Cheap",
+      "url": "https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 214853,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Fire Your Guns",
+      "url": "https://open.spotify.com/track/0cLvKgKkqlaJ9UajbitH4l"
+    },
+    {
+      "album": {
+        "name": "Flick of the Switch",
+        "url": "https://open.spotify.com/album/0ZD2tIjWo9fwzPndZ04wDY"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-07",
+      "duration_ms": 193600,
+      "name": "Flick of the Switch",
+      "url": "https://open.spotify.com/track/0oIox8T3bdGZnhQKnaDK2a"
+    },
+    {
+      "album": {
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344240,
+      "name": "For Those About to Rock (We Salute You)",
+      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 154506,
+      "name": "Get It Hot",
+      "url": "https://open.spotify.com/track/7HbHwtTGM3kCjDtmP00x4h"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Girls Got Rhythm",
+      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "album": {
+        "name": "Powerage",
+        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 305586,
+      "name": "Gone Shootin'",
+      "url": "https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7"
+    },
+    {
+      "album": {
+        "name": "Ballbreaker",
+        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Hard as a Rock",
+      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/5aoTIWdzgcjGo3SdjxqWSf"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Have a Drink on Me",
+      "url": "https://open.spotify.com/track/4dDurgTN3eGyU0ghzFJ0T1"
+    },
+    {
+      "album": {
+        "name": "Blow Up Your Video",
+        "url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Heatseeker",
+      "url": "https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254120,
+      "name": "Hell Ain't a Bad Place to Be",
+      "url": "https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254200,
+      "name": "High Voltage",
+      "url": "https://open.spotify.com/track/5pLgH1bCkBV3bbmvm0qvom"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274226,
+      "name": "If You Want Blood (You've Got It)",
+      "url": "https://open.spotify.com/track/7zscdQe9CjzXnqT3P1Ey7K"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301226,
+      "name": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "url": "https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y"
+    },
+    {
+      "album": {
+        "name": "'74 Jailbreak",
+        "url": "https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280960,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Kick You When You're Down",
+      "url": "https://open.spotify.com/track/0Kq6RzOqkHxnfiA9OGqReU"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366346,
+      "name": "Let There Be Rock",
+      "url": "https://open.spotify.com/track/753KutoAy00apPsplMRetG"
+    },
+    {
+      "album": {
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Let's Get It Up",
+      "url": "https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348600,
+      "name": "Live Wire",
+      "url": "https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-17",
+      "duration_ms": 257173,
+      "name": "Love Hungry Man",
+      "url": "https://open.spotify.com/track/1Kbc8nH6BhsWnTuM22qypl"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225946,
+      "name": "Moneytalks",
+      "url": "https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Play Ball",
+      "url": "https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 324693,
+      "name": "Problem Child",
+      "url": "https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 217466,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV"
+    },
+    {
+      "album": {
+        "name": "Dirty Deeds Done Dirt Cheap",
+        "url": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350266,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08"
+    },
+    {
+      "album": {
+        "name": "Powerage",
+        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Rock 'N' Roll Damnation",
+      "url": "https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 303666,
+      "name": "Rock 'N' Roll Singer",
+      "url": "https://open.spotify.com/track/65Wa8Fu1ASV3B0dz2vwKNQ"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266040,
+      "name": "Rock and Roll Ain't Noise Pollution",
+      "url": "https://open.spotify.com/track/6J17MkMmuzBiIOjRH6MOBZ"
+    },
+    {
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261506,
+      "name": "Rock N Roll Train",
+      "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Rock or Bust",
+      "url": "https://open.spotify.com/track/2vyae4DvSU2gs8OMOGwXF2"
+    },
+    {
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Rock the Blues Away",
+      "url": "https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn"
+    },
+    {
+      "album": {
+        "name": "Stiff Upper Lip",
+        "url": "https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 239466,
+      "name": "Safe in New York City",
+      "url": "https://open.spotify.com/track/6xs17NF4X10Y7UGwto7S7Z"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317426,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Shot Down in Flames",
+      "url": "https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+    },
+    {
+      "album": {
+        "name": "Powerage",
+        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285040,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
+    },
+    {
+      "album": {
+        "name": "Stiff Upper Lip",
+        "url": "https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Stiff Upper Lip",
+      "url": "https://open.spotify.com/track/1KBuhAHzia2qoD4u6YhvER"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "album": {
+        "name": "Blow Up Your Video",
+        "url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 225026,
+      "name": "That's the Way I Wanna Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/0u8J52fqQhQXKvAC23ICvO"
+    },
+    {
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352040,
+      "name": "The Jack",
+      "url": "https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Through The Mists Of Time",
+      "url": "https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "Touch Too Much",
+      "url": "https://open.spotify.com/track/2j0zExWFB0PowLOeoZosjK"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Walk All Over You",
+      "url": "https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ"
+    },
+    {
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "War Machine",
+      "url": "https://open.spotify.com/track/5YnNWHKCJaJKwbagXDb5Uf"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 215533,
+      "name": "What Do You Do for Money Honey",
+      "url": "https://open.spotify.com/track/6Th6ND8RQPywiyelecP5Lf"
+    },
+    {
+      "album": {
+        "name": "Who Made Who",
+        "url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Who Made Who",
+      "url": "https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd"
+    },
+    {
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
+    },
+    {
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Witch's Spell",
+      "url": "https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA"
 }

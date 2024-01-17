@@ -4,7 +4,7 @@
 
 > The perfect noughties blend.
 
-369 songs - 1 day 0 hr 18 min
+370 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Angels Brought Me Here](https://open.spotify.com/track/7vur3M2Dinfhod8CO0AA06) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Twenty Ten](https://open.spotify.com/album/0f8Xtk0NDPGz4PpwlzEMBT) | 4:00 | 2019-06-08 | 2021-10-16 |
 | [Another Day in Paradise \- R&B\-Version](https://open.spotify.com/track/7rBzAkopTL4baeJGCFU7M4) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Full Moon](https://open.spotify.com/album/3BdkiVzzAPNAxWFvdGjiEs) | 4:31 | 2020-06-18 | 2022-04-21 |
 | [Apologize](https://open.spotify.com/track/6fOPuabPdAJ0HgqJFcDGb1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud \(International Version\)](https://open.spotify.com/album/72c3ugX0yPaFCtEuHPDXaY) | 3:28 | 2019-06-21 | 2021-10-16 |
-| [Apologize](https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 3:04 | 2020-06-18 |  |
+| [Apologize](https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 3:04 | 2020-06-18 | 2024-01-07 |
 | [Apologize](https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:04 | 2020-06-18 | 2022-11-26 |
 | [Are You In?](https://open.spotify.com/track/0IRvfvDUVIvbvgCDY17wnp) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd) | 4:24 | 2020-06-12 | 2022-04-20 |
 | [Baby Blue](https://open.spotify.com/track/0dJkH3jzI3XO1w8qydF4UJ) | [Little Birdy](https://open.spotify.com/artist/3h18aXqdmm2F13t6LIbTpq) | [Little Birdy EP](https://open.spotify.com/album/5ooGD5EEPG9eXFutudj9wT) | 3:59 | 2020-06-12 | 2021-01-15 |
@@ -121,7 +121,7 @@
 | [Flake](https://open.spotify.com/track/3H7Uwnd6otphJsSBY2uSL6) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales](https://open.spotify.com/album/38kXZAqIY0MQgu0nDAwW1j) | 4:40 | 2020-06-18 | 2022-04-19 |
 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 | 2019-06-23 | 2022-11-13 |
 | [Foolish](https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3) | 3:47 | 2019-05-27 | 2021-01-15 |
-| [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2019-05-26\* |  |
+| [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2019-05-26\* | 2024-01-09 |
 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 | 2019-05-27 | 2022-07-29 |
 | [Forever Young](https://open.spotify.com/track/2Owgdm2WzETvnAfpW2UAFJ) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0NARyRsJpFR1wzhFIQwwsJ) | 3:58 | 2020-06-18 | 2022-04-20 |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2019-09-04 | 2022-11-13 |
@@ -216,6 +216,7 @@
 | [Monsters](https://open.spotify.com/track/7glzqUBop8ap2uWx9J0SC6) | [Something For Kate](https://open.spotify.com/artist/47yawJswuSfSvizYhItoOP) | [Echolalia \(Deluxe Edition\)](https://open.spotify.com/album/5s4K0h0B1ILpWyC0lrKe79) | 3:39 | 2020-06-12 | 2021-01-15 |
 | [Monsters](https://open.spotify.com/track/6F0aZM4vU2b0uTm4Ry5Cp5) | [Something For Kate](https://open.spotify.com/artist/47yawJswuSfSvizYhItoOP) | [Echolalia](https://open.spotify.com/album/28GvCEmdROOhpgVYwODp3y) | 3:39 | 2020-06-18 | 2022-04-19 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/0ndXb2CwhrqtyHK6o6eVNd) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/3WDbM110Rjj1ELU36QkQFr) | 3:50 | 2020-06-18 | 2022-04-19 |
+| [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2020-06-18 |  |
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2019-05-29 |  |
 | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:22 | 2020-06-18 | 2023-09-12 |
 | [My Kind Of Scene](https://open.spotify.com/track/4ewmL6GsJWrSfomqMF3CzV) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/5EmYAq4NagWeuaaEvzOmac) | 4:37 | 2020-06-18 | 2022-04-21 |
@@ -321,7 +322,7 @@
 | [This Love](https://open.spotify.com/track/5zF2zGPkL6Ipsn9AfAK6RP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 3:26 | 2019-06-22 | 2019-12-18 |
 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 | 2020-06-18 |  |
 | [Tim McGraw](https://open.spotify.com/track/5nujFRnp0zvNYqWgtk2HSl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/50wolXldayJCEtNKyzJERs) | 3:52 | 2019-06-20 | 2021-10-11 |
-| [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2020-06-18 | 2022-11-13 |
+| [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2020-06-18 |  |
 | [Too Little, Too Late](https://open.spotify.com/track/610NMdGkbuDhaJOkOx9RaO) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road \(International Version\)](https://open.spotify.com/album/66yYi2p2BNmb546VKkH1wy) | 3:39 | 2019-05-30 | 2021-10-14 |
 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 | 2020-06-12 | 2021-01-15 |
 | [Turn Off The Light](https://open.spotify.com/track/6P8pMrMxdkUtW7Ze6Zx2l1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/1Tm4dxG0SLeX7VgeHZO9Ix) | 4:36 | 2020-06-18 | 2022-04-21 |

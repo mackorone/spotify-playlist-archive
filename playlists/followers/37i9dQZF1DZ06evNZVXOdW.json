@@ -1,246 +1,931 @@
 {
-  "2023-05-03": 5039,
-  "2023-05-04": 5043,
-  "2023-05-05": 5046,
-  "2023-05-06": 5048,
-  "2023-05-07": 5056,
-  "2023-05-08": 5059,
-  "2023-05-09": 5061,
-  "2023-05-10": 5061,
-  "2023-05-11": 5062,
-  "2023-05-12": 5062,
-  "2023-05-13": 5068,
-  "2023-05-14": 5070,
-  "2023-05-15": 5074,
-  "2023-05-16": 5076,
-  "2023-05-17": 5083,
-  "2023-05-18": 5090,
-  "2023-05-19": 5092,
-  "2023-05-20": 5097,
-  "2023-05-21": 5097,
-  "2023-05-22": 5097,
-  "2023-05-23": 5102,
-  "2023-05-24": 5109,
-  "2023-05-25": 5108,
-  "2023-05-26": 5113,
-  "2023-05-27": 5116,
-  "2023-05-28": 5119,
-  "2023-05-29": 5119,
-  "2023-05-30": 5130,
-  "2023-05-31": 5138,
-  "2023-06-01": 5147,
-  "2023-06-02": 5150,
-  "2023-06-03": 5154,
-  "2023-06-04": 5161,
-  "2023-06-05": 5166,
-  "2023-06-06": 5165,
-  "2023-06-07": 5167,
-  "2023-06-08": 5169,
-  "2023-06-09": 5172,
-  "2023-06-10": 5176,
-  "2023-06-11": 5181,
-  "2023-06-12": 5186,
-  "2023-06-13": 5187,
-  "2023-06-14": 5193,
-  "2023-06-15": 5195,
-  "2023-06-16": 5198,
-  "2023-06-17": 5204,
-  "2023-06-18": 5208,
-  "2023-06-19": 5218,
-  "2023-06-20": 5218,
-  "2023-06-21": 5219,
-  "2023-06-22": 5220,
-  "2023-06-23": 5225,
-  "2023-06-24": 5225,
-  "2023-06-25": 5228,
-  "2023-06-26": 5230,
-  "2023-06-27": 5229,
-  "2023-06-28": 5232,
-  "2023-06-29": 5235,
-  "2023-06-30": 5236,
-  "2023-07-01": 5240,
-  "2023-07-02": 5240,
-  "2023-07-03": 5245,
-  "2023-07-04": 5245,
-  "2023-07-05": 5247,
-  "2023-07-06": 5256,
-  "2023-07-07": 5256,
-  "2023-07-08": 5270,
-  "2023-07-09": 5275,
-  "2023-07-10": 5284,
-  "2023-07-11": 5292,
-  "2023-07-12": 5298,
-  "2023-07-13": 5298,
-  "2023-07-14": 5301,
-  "2023-07-15": 5306,
-  "2023-07-16": 5308,
-  "2023-07-17": 5308,
-  "2023-07-18": 5313,
-  "2023-07-19": 5316,
-  "2023-07-20": 5319,
-  "2023-07-21": 5321,
-  "2023-07-22": 5326,
-  "2023-07-23": 5328,
-  "2023-07-24": 5333,
-  "2023-07-25": 5330,
-  "2023-07-26": 5328,
-  "2023-07-27": 5331,
-  "2023-07-28": 5333,
-  "2023-07-29": 5334,
-  "2023-07-30": 5337,
-  "2023-07-31": 5342,
-  "2023-08-01": 5346,
-  "2023-08-02": 5346,
-  "2023-08-03": 5346,
-  "2023-08-04": 5347,
-  "2023-08-05": 5352,
-  "2023-08-06": 5356,
-  "2023-08-07": 5356,
-  "2023-08-08": 5361,
-  "2023-08-09": 5366,
-  "2023-08-10": 5370,
-  "2023-08-11": 5372,
-  "2023-08-12": 5375,
-  "2023-08-13": 5375,
-  "2023-08-14": 5381,
-  "2023-08-15": 5390,
-  "2023-08-16": 5390,
-  "2023-08-17": 5389,
-  "2023-08-18": 5388,
-  "2023-08-19": 5396,
-  "2023-08-20": 5396,
-  "2023-08-21": 5398,
-  "2023-08-22": 5399,
-  "2023-08-23": 5402,
-  "2023-08-24": 5407,
-  "2023-08-25": 5416,
-  "2023-08-26": 5419,
-  "2023-08-27": 5420,
-  "2023-08-28": 5420,
-  "2023-08-29": 5421,
-  "2023-08-30": 5421,
-  "2023-08-31": 5428,
-  "2023-09-01": 5435,
-  "2023-09-02": 5435,
-  "2023-09-03": 5437,
-  "2023-09-04": 5437,
-  "2023-09-05": 5444,
-  "2023-09-06": 5447,
-  "2023-09-07": 5447,
-  "2023-09-08": 5447,
-  "2023-09-09": 5447,
-  "2023-09-10": 5455,
-  "2023-09-11": 5458,
-  "2023-09-12": 5458,
-  "2023-09-13": 5466,
-  "2023-09-14": 5466,
-  "2023-09-15": 5468,
-  "2023-09-16": 5472,
-  "2023-09-17": 5472,
-  "2023-09-18": 5472,
-  "2023-09-19": 5477,
-  "2023-09-20": 5479,
-  "2023-09-21": 5482,
-  "2023-09-22": 5486,
-  "2023-09-23": 5486,
-  "2023-09-24": 5486,
-  "2023-09-25": 5486,
-  "2023-09-26": 5500,
-  "2023-09-27": 5500,
-  "2023-09-28": 5500,
-  "2023-09-29": 5500,
-  "2023-09-30": 5500,
-  "2023-10-01": 5500,
-  "2023-10-02": 5522,
-  "2023-10-03": 5522,
-  "2023-10-04": 5522,
-  "2023-10-05": 5526,
-  "2023-10-06": 5532,
-  "2023-10-07": 5532,
-  "2023-10-08": 5532,
-  "2023-10-09": 5532,
-  "2023-10-10": 5532,
-  "2023-10-11": 5549,
-  "2023-10-12": 5549,
-  "2023-10-13": 5553,
-  "2023-10-14": 5553,
-  "2023-10-15": 5553,
-  "2023-10-16": 5553,
-  "2023-10-17": 5553,
-  "2023-10-18": 5553,
-  "2023-10-19": 5553,
-  "2023-10-20": 5553,
-  "2023-10-21": 5553,
-  "2023-10-22": 5553,
-  "2023-10-23": 5553,
-  "2023-10-24": 5553,
-  "2023-10-25": 5553,
-  "2023-10-26": 5553,
-  "2023-10-27": 5553,
-  "2023-10-28": 5553,
-  "2023-10-29": 5553,
-  "2023-10-30": 5553,
-  "2023-10-31": 5553,
-  "2023-11-01": 5553,
-  "2023-11-02": 5553,
-  "2023-11-03": 5553,
-  "2023-11-04": 5553,
-  "2023-11-05": 5553,
-  "2023-11-06": 5553,
-  "2023-11-07": 5553,
-  "2023-11-08": 5553,
-  "2023-11-09": 5553,
-  "2023-11-10": 5553,
-  "2023-11-11": 5627,
-  "2023-11-12": 5627,
-  "2023-11-13": 5627,
-  "2023-11-14": 5627,
-  "2023-11-15": 5627,
-  "2023-11-16": 5627,
-  "2023-11-17": 5656,
-  "2023-11-18": 5656,
-  "2023-11-19": 5656,
-  "2023-11-20": 5656,
-  "2023-11-21": 5656,
-  "2023-11-22": 5656,
-  "2023-11-23": 5656,
-  "2023-11-24": 5656,
-  "2023-11-25": 5656,
-  "2023-11-26": 5656,
-  "2023-11-27": 5656,
-  "2023-11-28": 5656,
-  "2023-11-29": 5656,
-  "2023-11-30": 5656,
-  "2023-12-01": 5656,
-  "2023-12-02": 5656,
-  "2023-12-03": 5656,
-  "2023-12-04": 5656,
-  "2023-12-05": 5656,
-  "2023-12-06": 5656,
-  "2023-12-07": 5656,
-  "2023-12-08": 5656,
-  "2023-12-09": 5656,
-  "2023-12-10": 5656,
-  "2023-12-11": 5656,
-  "2023-12-12": 5656,
-  "2023-12-13": 5656,
-  "2023-12-14": 5721,
-  "2023-12-15": 5724,
-  "2023-12-16": 5725,
-  "2023-12-17": 5728,
-  "2023-12-18": 5731,
-  "2023-12-19": 5736,
-  "2023-12-20": 5737,
-  "2023-12-21": 5739,
-  "2023-12-22": 5746,
-  "2023-12-23": 5748,
-  "2023-12-24": 5749,
-  "2023-12-25": 5754,
-  "2023-12-26": 5759,
-  "2023-12-27": 5763,
-  "2023-12-30": 5769,
-  "2023-12-31": 5772,
-  "2024-01-01": 5770,
-  "2024-01-02": 5774,
-  "2024-01-03": 5778
+  "2024-01-17": 5873,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
+  "name": "This Is Arooj Aftab",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+    },
+    {
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Darian Donovan Thomas",
+          "url": "https://open.spotify.com/artist/4hJmlJAgDI3ivZouvwnCEJ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404261,
+      "name": "Baghon Main",
+      "url": "https://open.spotify.com/track/4VGFLMTNy3jr4Q1JLqV5LL"
+    },
+    {
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 168565,
+      "name": "Coming Home, Pt. 2",
+      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
+    },
+    {
+      "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Badi Assad",
+          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340041,
+      "name": "Diya Hai",
+      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
+    },
+    {
+      "album": {
+        "name": "Resonant Bodies (Live)",
+        "url": "https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 826911,
+      "name": "En Route to Unfriending (Live)",
+      "url": "https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx"
+    },
+    {
+      "album": {
+        "name": "Backbone (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 224154,
+      "name": "Endless February, Pt. 1",
+      "url": "https://open.spotify.com/track/52HqnlUppYvrfPlDeXUF36"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 879797,
+      "name": "Eyes Of The Endless",
+      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
+    },
+    {
+      "album": {
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
+      },
+      "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+    },
+    {
+      "album": {
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728064,
+      "name": "Haseen Thi",
+      "url": "https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 314564,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467240,
+      "name": "Inayaat",
+      "url": "https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K"
+    },
+    {
+      "album": {
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+    },
+    {
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481220,
+      "name": "Island No. 1",
+      "url": "https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c"
+    },
+    {
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad"
+    },
+    {
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/0E4l6jS1tqDw8QCdtoclMz"
+    },
+    {
+      "album": {
+        "name": "Deeper Rising, Vol. 1",
+        "url": "https://open.spotify.com/album/1eYv7Pw6Ou9fPhim8EdmwT"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 515124,
+      "name": "Jiya - Original Mix",
+      "url": "https://open.spotify.com/track/4MNTdvcuYe7hdVlUR4HCF2"
+    },
+    {
+      "album": {
+        "name": "Kand",
+        "url": "https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 551334,
+      "name": "Kand",
+      "url": "https://open.spotify.com/track/76Ijr5E3UvOtzjaNcc3AXx"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358601,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
+    },
+    {
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232360,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7g4891487QfCuRrENM8vUs"
+    },
+    {
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+    },
+    {
+      "album": {
+        "name": "Mehram",
+        "url": "https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq"
+      },
+      "artists": [
+        {
+          "name": "Asfar Hussain",
+          "url": "https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338973,
+      "name": "Mehram",
+      "url": "https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462500,
+      "name": "Mohabbat",
+      "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
+    },
+    {
+      "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327373,
+      "name": "Na Ja Balam",
+      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+    },
+    {
+      "album": {
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542837,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245787,
+      "name": "Not Your Usual Night",
+      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
+    },
+    {
+      "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 911913,
+      "name": "Ovid's Metamorphoses",
+      "url": "https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+    },
+    {
+      "album": {
+        "name": "Dobara Phir Se",
+        "url": "https://open.spotify.com/album/4WqRol95V0451jfUlVyJYA"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176170,
+      "name": "Raske Bhare Tore Nain",
+      "url": "https://open.spotify.com/track/30gVSqUPmJMYNkBSdjVybD"
+    },
+    {
+      "album": {
+        "name": "Vulture Prince",
+        "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451383,
+      "name": "Saans Lo",
+      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486598,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56597,
+      "name": "Seawall",
+      "url": "https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 844005,
+      "name": "Shadow Forces",
+      "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 815804,
+      "name": "Sharabi",
+      "url": "https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 221642,
+      "name": "The Warmth of Parents' Hands",
+      "url": "https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "There Go the Clouds",
+      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
+    },
+    {
+      "album": {
+        "name": "Love In Exile",
+        "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+        },
+        {
+          "name": "Shahzad Ismaily",
+          "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556525,
+      "name": "To Remain/To Return",
+      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
+    },
+    {
+      "album": {
+        "name": "Udhero Na",
+        "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVXOdW"
 }

@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-147 songs - 8 hr 23 min
+148 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Wouldn't It Be Nice \- Ukulele Style](https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits Vol.2](https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB) | 2:14 | 2022-05-20 | 2022-12-02 |
 | [Yellow](https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Yellow](https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse) | 4:24 | 2022-07-01 | 2023-04-28 |
 | [You Are My Sunshine](https://open.spotify.com/track/04gUsUY4i2Ub6UISNOOB5h) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [You Are My Sunshine](https://open.spotify.com/album/5V0h41DsGHXiwNiMKSU3d1) | 2:40 | 2023-12-08 |  |
+| [You Are the Best Thing](https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [You Are The Best Thing](https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk) | 3:29 | 2024-01-05 |  |
 | [You Proof](https://open.spotify.com/track/275wR3R7C99obZy129fe8B) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [New Light](https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu) | 2:36 | 2022-12-22 |  |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:13 | 2022-05-20 |  |
 

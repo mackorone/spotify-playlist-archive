@@ -494,7 +494,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 245889,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 231250,
       "name": "Blue & Sentimental",
       "url": "https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-08",
       "duration_ms": 202069,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/15KUq0bDg8d0WxYmo2IK9N"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 227224,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/6SrhbwzEATeafnd0DmkiuA"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 183578,
       "name": "Southern Comfort - Acoustic",
       "url": "https://open.spotify.com/track/5OBOCcThLq02lhY0KnkHAj"
@@ -2532,6 +2532,24 @@
       "duration_ms": 135879,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1Vi3gGQLYS28QwyTNXz9Im"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 135879,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/5DNIg169F45rpChp5E6a6L"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w"

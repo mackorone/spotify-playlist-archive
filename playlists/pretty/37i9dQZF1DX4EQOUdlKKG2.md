@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EQOUdlKKG2.md) - [plain]
 
 > i'm glad i didn't die before i met you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,481 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,174 likes - 67 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,118 +1,1611 @@
 {
-  "2023-09-08": 29,
-  "2023-09-09": 77,
-  "2023-09-10": 258,
-  "2023-09-11": 645,
-  "2023-09-12": 1009,
-  "2023-09-13": 1369,
-  "2023-09-14": 1694,
-  "2023-09-15": 2041,
-  "2023-09-16": 2434,
-  "2023-09-17": 2861,
-  "2023-09-18": 3275,
-  "2023-09-19": 3593,
-  "2023-09-20": 3913,
-  "2023-09-21": 4288,
-  "2023-09-22": 4612,
-  "2023-09-23": 5017,
-  "2023-09-24": 5429,
-  "2023-09-25": 5815,
-  "2023-09-26": 6224,
-  "2023-09-27": 6514,
-  "2023-09-28": 6849,
-  "2023-09-29": 7185,
-  "2023-09-30": 7583,
-  "2023-10-01": 8034,
-  "2023-10-02": 8460,
-  "2023-10-03": 8764,
-  "2023-10-04": 9106,
-  "2023-10-05": 9461,
-  "2023-10-06": 9786,
-  "2023-10-07": 10122,
-  "2023-10-08": 10533,
-  "2023-10-09": 10925,
-  "2023-10-10": 11244,
-  "2023-10-11": 11961,
-  "2023-10-12": 11961,
-  "2023-10-13": 12344,
-  "2023-10-14": 12344,
-  "2023-10-15": 12344,
-  "2023-10-16": 13557,
-  "2023-10-17": 13557,
-  "2023-10-18": 14227,
-  "2023-10-19": 14607,
-  "2023-10-20": 14607,
-  "2023-10-21": 14607,
-  "2023-10-22": 14607,
-  "2023-10-23": 16112,
-  "2023-10-24": 16395,
-  "2023-10-25": 16395,
-  "2023-10-26": 16395,
-  "2023-10-27": 17493,
-  "2023-10-28": 17493,
-  "2023-10-29": 17493,
-  "2023-10-30": 18641,
-  "2023-10-31": 18641,
-  "2023-11-01": 19237,
-  "2023-11-02": 19567,
-  "2023-11-03": 19954,
-  "2023-11-04": 19954,
-  "2023-11-05": 19954,
-  "2023-11-06": 19954,
-  "2023-11-07": 19954,
-  "2023-11-08": 19954,
-  "2023-11-09": 19954,
-  "2023-11-10": 22625,
-  "2023-11-11": 23051,
-  "2023-11-12": 23421,
-  "2023-11-13": 23421,
-  "2023-11-14": 23421,
-  "2023-11-15": 23421,
-  "2023-11-16": 23421,
-  "2023-11-17": 25446,
-  "2023-11-18": 25446,
-  "2023-11-19": 25446,
-  "2023-11-20": 25446,
-  "2023-11-21": 26550,
-  "2023-11-22": 26896,
-  "2023-11-23": 27232,
-  "2023-11-24": 27232,
-  "2023-11-25": 27875,
-  "2023-11-26": 27875,
-  "2023-11-27": 27875,
-  "2023-11-28": 27875,
-  "2023-11-29": 27875,
-  "2023-11-30": 27875,
-  "2023-12-01": 27875,
-  "2023-12-02": 27875,
-  "2023-12-03": 27875,
-  "2023-12-04": 27875,
-  "2023-12-05": 27875,
-  "2023-12-06": 27875,
-  "2023-12-07": 27875,
-  "2023-12-08": 27875,
-  "2023-12-09": 32529,
-  "2023-12-10": 32529,
-  "2023-12-11": 33443,
-  "2023-12-12": 33443,
-  "2023-12-13": 34210,
-  "2023-12-14": 34694,
-  "2023-12-15": 34980,
-  "2023-12-16": 35404,
-  "2023-12-17": 35879,
-  "2023-12-18": 36336,
-  "2023-12-19": 36712,
-  "2023-12-20": 37059,
-  "2023-12-21": 37452,
-  "2023-12-22": 37878,
-  "2023-12-23": 38335,
-  "2023-12-24": 38851,
-  "2023-12-25": 39258,
-  "2023-12-26": 39673,
-  "2023-12-27": 40113,
-  "2023-12-30": 41449,
-  "2023-12-31": 41964,
-  "2024-01-01": 42442,
-  "2024-01-02": 42853,
-  "2024-01-03": 43277
+  "2024-01-17": 49476,
+  "date_first_scraped": "2023-09-08",
+  "description": "Groove to your favorite tracks from CoComelon! ",
+  "name": "CoComelon Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 6",
+        "url": "https://open.spotify.com/album/6oGuepMubkd3bVOvPpAoeA"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "12345 Once I Caught A Fish Alive!",
+      "url": "https://open.spotify.com/track/5qlJKhxZUZt6PqDmK94Q3p"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184843,
+      "name": "A Package from JJ",
+      "url": "https://open.spotify.com/track/2Zx3PCjLfqsPRp3bWUhKY0"
+    },
+    {
+      "album": {
+        "name": "CoComelon Learns at School",
+        "url": "https://open.spotify.com/album/134uqlmfJzyxOIOxsYfLrR"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "ABC Phonics Song",
+      "url": "https://open.spotify.com/track/49lLWsSRMKbEcVGfk77Poh"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189055,
+      "name": "Abc Song with Balloons",
+      "url": "https://open.spotify.com/track/0N11kzLp426b4jIz445WgW"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92008,
+      "name": "Alice the Camel",
+      "url": "https://open.spotify.com/track/5T3lK7MInJBhzfxbP8ut4W"
+    },
+    {
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171804,
+      "name": "Animal Dance Song",
+      "url": "https://open.spotify.com/track/4FwDRTQdk1FmiVTCLLeeKn"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233454,
+      "name": "Ants Go Marching",
+      "url": "https://open.spotify.com/track/2YaXGn18P9C25tAJYXUUqR"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Apples And Bananas (Phonics Song)",
+      "url": "https://open.spotify.com/track/3gQeoqayS6qcoH8FtAlCh8"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148081,
+      "name": "Are We There Yet?",
+      "url": "https://open.spotify.com/track/4uAgWZfhL1Znf7YgRuUk0G"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 6",
+        "url": "https://open.spotify.com/album/6oGuepMubkd3bVOvPpAoeA"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Are You Sleeping? (Brother John)",
+      "url": "https://open.spotify.com/track/34amhIU6nxkixKnsLSWqR4"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147780,
+      "name": "Baa Baa Black Sheep",
+      "url": "https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Baby Beluga",
+      "url": "https://open.spotify.com/track/60jGG2mIHoFvhQup1L6Lsz"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127203,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/7zD97mcPo9fng0aJqUhFvd"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Backyard Bug Safari",
+      "url": "https://open.spotify.com/track/43IPVj6fmmyI7Ap1fOVp4q"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154087,
+      "name": "Bath Song",
+      "url": "https://open.spotify.com/track/17NymnDl7GVw0HvT6pXFKU"
+    },
+    {
+      "album": {
+        "name": "Belly Button Song",
+        "url": "https://open.spotify.com/album/1lY0r5OMOwuImX9dLsK0oz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Belly Button Song",
+      "url": "https://open.spotify.com/track/5AHRFT8ZqvSGZxCl5Fv1oy"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 5",
+        "url": "https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141841,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/2msAZWdW4DLjLAphyKJnTJ"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Bingo (Was His Name-O)",
+      "url": "https://open.spotify.com/track/2EgNS8QmA8Ma31cR2F1xdj"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183124,
+      "name": "Bingo - (Sing Along)",
+      "url": "https://open.spotify.com/track/3RIS32uy5KFccsC9X89jYM"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 5",
+        "url": "https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142509,
+      "name": "Breakfast Song",
+      "url": "https://open.spotify.com/track/44ZCbIUyIvHkq3zdx6zoiG"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154437,
+      "name": "Catch a Falling Star",
+      "url": "https://open.spotify.com/track/4VyY7SSsbYW2MAM5iPdmDI"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157824,
+      "name": "Clean up Song",
+      "url": "https://open.spotify.com/track/2GToYdregYT3o89jbo9daC"
+    },
+    {
+      "album": {
+        "name": "Kids Birthday Party",
+        "url": "https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36666,
+      "name": "CoComelon Theme Tune",
+      "url": "https://open.spotify.com/track/2bLucn4kUiOxo6QgldEM8c"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/5slUGltSRqRqoRi1geDUmK"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184617,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Down by the Bay - (Dance Version)",
+      "url": "https://open.spotify.com/track/4G403RRa3h9Dz9WIhsQsst"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180593,
+      "name": "Family Game Night",
+      "url": "https://open.spotify.com/track/0flcUakKpWukMMnzCzCVNf"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136002,
+      "name": "Finger Family",
+      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159125,
+      "name": "First Day of School",
+      "url": "https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Five Little Monkeys Jumping on the Bed",
+      "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169765,
+      "name": "Five Little Speckled Frogs",
+      "url": "https://open.spotify.com/track/2oi26hzvmT9mbOGMBoEWtG"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62228,
+      "name": "Happy Birthday Song",
+      "url": "https://open.spotify.com/track/2R5iTxkCln6NLTw6l0kjWw"
+    },
+    {
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127026,
+      "name": "Head Shoulder Knees and Toes",
+      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144844,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2UTkYyycHc6q8eLAA9raDu"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Home on the Range - (Sing Along)",
+      "url": "https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151090,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/78RBF5yhod2Oc20aaeMOuU"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128127,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/7mFYASuwFDuAQvR8nwytux"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104205,
+      "name": "I Am the Music Man",
+      "url": "https://open.spotify.com/track/4uxhJp1bmlq4CbcIdazq5s"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhyme Classics",
+        "url": "https://open.spotify.com/album/29iLGIe0w8xfJBVbhnsU6V"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104971,
+      "name": "I'm a Little Teapot",
+      "url": "https://open.spotify.com/track/16nVTwiUhQdOD8BWh8SfXP"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/6kkD5wZyq1L1ousAXSvqsI"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79200,
+      "name": "It's Raining It's Pouring",
+      "url": "https://open.spotify.com/track/5qS1nvrq4PHSUAiOQMexYl"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110593,
+      "name": "Jack Be Nimble",
+      "url": "https://open.spotify.com/track/2l7Qgiu10HXap2V5mOyHPS"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 8",
+        "url": "https://open.spotify.com/album/2LakWuI48PPkrR8dQdyWty"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110031,
+      "name": "Johny Johny Yes Papa",
+      "url": "https://open.spotify.com/track/4kMNsYiyy6jkDqXLBhpd44"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Knick Knack Jam",
+      "url": "https://open.spotify.com/track/4vZBuQk8DLfraxg9VSMhJQ"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125158,
+      "name": "London Bridge Is Falling Down",
+      "url": "https://open.spotify.com/track/6zY4JAgARtLxqLasf3RDm2"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149983,
+      "name": "Looby Loo",
+      "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160212,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/4ThaT2zAl53ah6uxOdWUMs"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160360,
+      "name": "My Dog Song (Bingo)",
+      "url": "https://open.spotify.com/track/3tBWiiKF79JoxYLCmgx28Z"
+    },
+    {
+      "album": {
+        "name": "CoComelon Hobbies and Activities",
+        "url": "https://open.spotify.com/album/6XTMA6RvjoTKfYwuXCtoPt"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178393,
+      "name": "Nap Time Song",
+      "url": "https://open.spotify.com/track/5E8kvFy2sxqwHM7NABU20E"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Oh Where Oh Where is JJ's Blue Shoe?",
+      "url": "https://open.spotify.com/track/0C3llHb6COTwgPSecakXF7"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147147,
+      "name": "Old MacDonald",
+      "url": "https://open.spotify.com/track/5txSLkf7BeYIgTtUnVDDG8"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118218,
+      "name": "One Potato, Two Potatoes",
+      "url": "https://open.spotify.com/track/1yon4uhxW75G48LGFarDZe"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "Open Shut Them",
+      "url": "https://open.spotify.com/track/0GkggUIRAzhAvvtcoma2Af"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125558,
+      "name": "Pat a Cake",
+      "url": "https://open.spotify.com/track/5WHCi4KWEVEda8zsuVKRtN"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108208,
+      "name": "Peek a Boo",
+      "url": "https://open.spotify.com/track/2Gwr0pH5khUHZDhFpyM1iS"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185952,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/6hmzgYLfxy1S5E24rNuPO1"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Polly Put the Kettle On",
+      "url": "https://open.spotify.com/track/7gH0AalGuL5JdoIv2CrBM4"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Pop's the Bubbles",
+      "url": "https://open.spotify.com/track/7kE4pQwbkFq1s7rifctDKq"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135001,
+      "name": "Rain Rain Go Away",
+      "url": "https://open.spotify.com/track/1k95ZBpBH1e8ZG61pjYwih"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ring Around the Rosy",
+      "url": "https://open.spotify.com/track/3LRICCIlx05my3iFtjsNfr"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130496,
+      "name": "Rock-a-Bye Baby",
+      "url": "https://open.spotify.com/track/4PU1y3MwA0S2weaQ7DAw2F"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "Row Row Your Boat - (Sing Along)",
+      "url": "https://open.spotify.com/track/3k9bcVGmjBKBv6Uit8PJHS"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135234,
+      "name": "Row, Row, Row Your Boat",
+      "url": "https://open.spotify.com/track/2zhqBdbprnVQux9m6SKm9C"
+    },
+    {
+      "album": {
+        "name": "Learning with JJ",
+        "url": "https://open.spotify.com/album/5kunIlf9hIKsfU8mmNtxrK"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192773,
+      "name": "Same and Different Superhero Song",
+      "url": "https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon Vol.2",
+        "url": "https://open.spotify.com/album/1ofhhcoIElSAi2AhIplmmk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "She'll Be Coming Round the Mountain",
+      "url": "https://open.spotify.com/track/1Z7tsmCvV0QboBo37Iykri"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 6",
+        "url": "https://open.spotify.com/album/6oGuepMubkd3bVOvPpAoeA"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161458,
+      "name": "Skidamarink",
+      "url": "https://open.spotify.com/track/63rY51rmghCWZt1jQnEwEs"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Stop and Go",
+      "url": "https://open.spotify.com/track/4821SzPIcIxYnePgIrtDQU"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 6",
+        "url": "https://open.spotify.com/album/6oGuepMubkd3bVOvPpAoeA"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Take Me Out to the Ball Game",
+      "url": "https://open.spotify.com/track/0dD7Sdb7NCbkXdW4kcXcac"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229718,
+      "name": "Ten Little Dinos",
+      "url": "https://open.spotify.com/track/5j4HezRIhFb6P8EDcePGwH"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 5",
+        "url": "https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183917,
+      "name": "Thank you Song",
+      "url": "https://open.spotify.com/track/1TohQ1NkOm8B954rG4O0dV"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156545,
+      "name": "The Ant and the Grasshopper",
+      "url": "https://open.spotify.com/track/5o0oIgZ4BcBlqMTywVegI9"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211077,
+      "name": "The Boo Boo Song",
+      "url": "https://open.spotify.com/track/6RmASv3WxtDZDyaHjc6FDn"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "The Four Seasons Song",
+      "url": "https://open.spotify.com/track/5QNwMLqyc1zJBtRxD8Vb5s"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "The Holding Hands Song",
+      "url": "https://open.spotify.com/track/4EhmrQCMqeQZJsjUIGlsfa"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126493,
+      "name": "The Laughing Song",
+      "url": "https://open.spotify.com/track/2k2FxrUiLsriOUcScZCcbv"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/2HgI3IdwgAAYhy6dHQyzlN"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "The Muffin Man",
+      "url": "https://open.spotify.com/track/5t6bcAFdtjRTrmqoofa6CN"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170770,
+      "name": "The Soccer Song (Football Song)",
+      "url": "https://open.spotify.com/track/27iOGgZhoVyb7FWuukbwus"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181948,
+      "name": "The Teacher Song",
+      "url": "https://open.spotify.com/track/16jfafeVhzDQe5QAr7sOqJ"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135401,
+      "name": "This Is the Way",
+      "url": "https://open.spotify.com/track/47bUyxG4UYJG2DKLdWrz2e"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "This Little Light of Mine - (Sing Along)",
+      "url": "https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes by CoComelon",
+        "url": "https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154328,
+      "name": "Three Little Kittens",
+      "url": "https://open.spotify.com/track/6tn6OAdWQY9zj6vJyqrgVj"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 5",
+        "url": "https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189789,
+      "name": "Three Little Pigs",
+      "url": "https://open.spotify.com/track/6tvZ0W9XvXEKpQsk4P5vro"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "ToTom and the Three Forts",
+      "url": "https://open.spotify.com/track/3PqPPVU3OdNVQa1ErJfIma"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177477,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/097ftnCPnGHhn93lS0HHlO"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207340,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227994,
+      "name": "Yes Yes Playground Song",
+      "url": "https://open.spotify.com/track/1BDzCATEWGKriNZVNRRoam"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Yes Yes Vegetables Song",
+      "url": "https://open.spotify.com/track/76r1P6yfRpuicgw5pxTvae"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Yes, Yes Haircut Song",
+      "url": "https://open.spotify.com/track/3Rxaogea2Q96KicB0mD0t3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbK946dWgdUn"
 }

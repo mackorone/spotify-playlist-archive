@@ -1,100 +1,1083 @@
 {
-  "2023-09-26": 40740,
-  "2023-09-27": 40740,
-  "2023-09-28": 40740,
-  "2023-09-29": 40740,
-  "2023-09-30": 40740,
-  "2023-10-01": 40740,
-  "2023-10-02": 40740,
-  "2023-10-03": 40740,
-  "2023-10-04": 40740,
-  "2023-10-05": 40740,
-  "2023-10-06": 40740,
-  "2023-10-07": 40740,
-  "2023-10-08": 40740,
-  "2023-10-09": 40740,
-  "2023-10-10": 40740,
-  "2023-10-11": 41293,
-  "2023-10-12": 41293,
-  "2023-10-13": 41293,
-  "2023-10-14": 41293,
-  "2023-10-15": 41293,
-  "2023-10-16": 41293,
-  "2023-10-17": 41293,
-  "2023-10-18": 41293,
-  "2023-10-19": 41293,
-  "2023-10-20": 41293,
-  "2023-10-21": 41293,
-  "2023-10-22": 41293,
-  "2023-10-23": 41293,
-  "2023-10-24": 41293,
-  "2023-10-25": 41293,
-  "2023-10-26": 41293,
-  "2023-10-27": 41293,
-  "2023-10-28": 41293,
-  "2023-10-29": 41293,
-  "2023-10-30": 41293,
-  "2023-10-31": 41293,
-  "2023-11-01": 41293,
-  "2023-11-02": 41293,
-  "2023-11-03": 41293,
-  "2023-11-04": 41293,
-  "2023-11-05": 41293,
-  "2023-11-06": 41293,
-  "2023-11-07": 41293,
-  "2023-11-08": 41293,
-  "2023-11-09": 41293,
-  "2023-11-10": 41293,
-  "2023-11-11": 41872,
-  "2023-11-12": 41872,
-  "2023-11-13": 41872,
-  "2023-11-14": 41872,
-  "2023-11-15": 41872,
-  "2023-11-16": 41872,
-  "2023-11-17": 41872,
-  "2023-11-18": 41872,
-  "2023-11-19": 41872,
-  "2023-11-20": 41872,
-  "2023-11-21": 41872,
-  "2023-11-22": 41872,
-  "2023-11-23": 41872,
-  "2023-11-24": 41872,
-  "2023-11-25": 41872,
-  "2023-11-26": 41872,
-  "2023-11-27": 41872,
-  "2023-11-28": 41872,
-  "2023-11-29": 41872,
-  "2023-11-30": 41872,
-  "2023-12-01": 41872,
-  "2023-12-02": 41872,
-  "2023-12-03": 41872,
-  "2023-12-04": 41872,
-  "2023-12-05": 41872,
-  "2023-12-06": 41872,
-  "2023-12-07": 41872,
-  "2023-12-08": 41872,
-  "2023-12-09": 41872,
-  "2023-12-10": 41872,
-  "2023-12-11": 41872,
-  "2023-12-12": 41872,
-  "2023-12-13": 41872,
-  "2023-12-14": 42344,
-  "2023-12-15": 42364,
-  "2023-12-16": 42391,
-  "2023-12-17": 42402,
-  "2023-12-18": 42408,
-  "2023-12-19": 42421,
-  "2023-12-20": 42425,
-  "2023-12-21": 42443,
-  "2023-12-22": 42454,
-  "2023-12-23": 42473,
-  "2023-12-24": 42490,
-  "2023-12-25": 42498,
-  "2023-12-26": 42512,
-  "2023-12-27": 42522,
-  "2023-12-30": 42561,
-  "2023-12-31": 42581,
-  "2024-01-01": 42590,
-  "2024-01-02": 42605,
-  "2024-01-03": 42610
+  "2024-01-17": 42856,
+  "date_first_scraped": "2023-09-26",
+  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
+  "name": "This Is Yeah Yeah Yeahs",
+  "tracks": [
+    {
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
+    },
+    {
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 224906,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/3BSJ49olmhRL54ajuiBZkJ"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120773,
+      "name": "Art Star",
+      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Blacktop",
+      "url": "https://open.spotify.com/track/7qcfqmg6Zf1uwdlVR2ocpP"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/10PqqH5f9vRVmwhIB5KS7n"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135906,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155320,
+      "name": "Date With The Night",
+      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "Different Today",
+      "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
+    },
+    {
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 232933,
+      "name": "Down Boy",
+      "url": "https://open.spotify.com/track/3rJKyc4VZJtIVXHoNnZA4d"
+    },
+    {
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "Down Boy",
+      "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 248386,
+      "name": "Dull Life",
+      "url": "https://open.spotify.com/track/5AfDcCcS8fZVtimT1mGy08"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Fleez",
+      "url": "https://open.spotify.com/track/65w1d96FbYPmccz3ZdNOdA"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
+    },
+    {
+      "album": {
+        "name": "Heads Will Roll (A-Trak Remix)",
+        "url": "https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383893,
+      "name": "Heads Will Roll - A-Trak Remix",
+      "url": "https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230346,
+      "name": "Hysteric",
+      "url": "https://open.spotify.com/track/0sYM2UAQhOvrFGj9C3HARt"
+    },
+    {
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240106,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
+    },
+    {
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 240760,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/6EMJFayg2XYkd03FTLiGXi"
+    },
+    {
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Kiss, Kiss",
+      "url": "https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr"
+    },
+    {
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306733,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd"
+    },
+    {
+      "album": {
+        "name": "Lovebomb (ADULT. Remix)",
+        "url": "https://open.spotify.com/album/7IBpc2dxngfcegWqGhkPm2"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "ADULT.",
+          "url": "https://open.spotify.com/artist/2jh27vMWRDaPgtwvluMomC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 331084,
+      "name": "Lovebomb - ADULT. Remix",
+      "url": "https://open.spotify.com/track/7rcrXeDplCYc1s3rRAmu00"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 115880,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/247Id2zeNIXiAVpG0wVZTt"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/4W3nSbpunIWQmrhnkpiyE0"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Mystery Girl",
+      "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
+    },
+    {
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120080,
+      "name": "Pin",
+      "url": "https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184126,
+      "name": "Poor Song",
+      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216173,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
+    },
+    {
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 190986,
+      "name": "Rockers To Swallow",
+      "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
+    },
+    {
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191093,
+      "name": "Rockers To Swallow",
+      "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230213,
+      "name": "Sacrilege",
+      "url": "https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w"
+    },
+    {
+      "album": {
+        "name": "War Child Presents Heroes Vol. 1",
+        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Sheena Is A Punk Rocker",
+      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/4vMyguvxYgpVfn6m9obaEY"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246146,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233106,
+      "name": "Soft Shock",
+      "url": "https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v"
+    },
+    {
+      "album": {
+        "name": "Spitting Off the Edge of the World",
+        "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197759,
+      "name": "Thirteen - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245640,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258533,
+      "name": "Under The Earth",
+      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 171426,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6SRm5IeWfgFq3rMhOYZwhu"
+    },
+    {
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
+    },
+    {
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294013,
+      "name": "Wedding Song",
+      "url": "https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253026,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265786,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h0PGU"
 }

@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/0WA5fU4NhSv5TDIs4tOR7F"
+      },
+      "artists": [
+        {
+          "name": "Volturian",
+          "url": "https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219132,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/69BhJ2YVTYR5EltHFH2wfg"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/0KFP8PnNDxR1UHqRGfaztl"
       },
@@ -2321,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY"
+    },
+    {
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J"
       },
@@ -2942,7 +2978,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 351354,
       "name": "METAL KINGDOM",
       "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 136156,
       "name": "molotov [OK]",
       "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"

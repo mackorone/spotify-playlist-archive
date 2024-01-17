@@ -1,423 +1,1743 @@
 {
-  "2022-11-05": 57737,
-  "2022-11-06": 57771,
-  "2022-11-07": 57808,
-  "2022-11-08": 57837,
-  "2022-11-09": 57873,
-  "2022-11-10": 57905,
-  "2022-11-11": 57939,
-  "2022-11-12": 57984,
-  "2022-11-13": 58033,
-  "2022-11-14": 58077,
-  "2022-11-15": 58106,
-  "2022-11-16": 58142,
-  "2022-11-17": 58162,
-  "2022-11-18": 58169,
-  "2022-11-19": 58179,
-  "2022-11-20": 58203,
-  "2022-11-21": 58232,
-  "2022-11-22": 58264,
-  "2022-11-23": 58294,
-  "2022-11-24": 58352,
-  "2022-11-25": 58402,
-  "2022-11-26": 58436,
-  "2022-11-27": 58461,
-  "2022-11-28": 58491,
-  "2022-11-29": 58519,
-  "2022-11-30": 58540,
-  "2022-12-01": 58580,
-  "2022-12-02": 58599,
-  "2022-12-03": 58646,
-  "2022-12-04": 58678,
-  "2022-12-05": 58710,
-  "2022-12-06": 58748,
-  "2022-12-07": 58780,
-  "2022-12-08": 58814,
-  "2022-12-09": 58859,
-  "2022-12-10": 58897,
-  "2022-12-11": 58929,
-  "2022-12-12": 58975,
-  "2022-12-13": 59005,
-  "2022-12-14": 59033,
-  "2022-12-15": 59060,
-  "2022-12-16": 59087,
-  "2022-12-17": 59122,
-  "2022-12-18": 59162,
-  "2022-12-19": 59188,
-  "2022-12-20": 59257,
-  "2022-12-21": 59257,
-  "2022-12-22": 59284,
-  "2022-12-24": 59339,
-  "2022-12-25": 59369,
-  "2022-12-26": 59401,
-  "2022-12-27": 59435,
-  "2022-12-28": 59470,
-  "2022-12-29": 59503,
-  "2022-12-30": 59547,
-  "2022-12-31": 59586,
-  "2023-01-01": 59620,
-  "2023-01-02": 59656,
-  "2023-01-03": 59683,
-  "2023-01-04": 59730,
-  "2023-01-05": 59769,
-  "2023-01-06": 59829,
-  "2023-01-07": 59937,
-  "2023-01-08": 59957,
-  "2023-01-09": 60012,
-  "2023-01-10": 60058,
-  "2023-01-11": 60107,
-  "2023-01-12": 60154,
-  "2023-01-13": 60208,
-  "2023-01-14": 60297,
-  "2023-01-15": 60309,
-  "2023-01-16": 60362,
-  "2023-01-17": 60396,
-  "2023-01-18": 60426,
-  "2023-01-19": 60471,
-  "2023-01-20": 60504,
-  "2023-01-21": 60546,
-  "2023-01-22": 60584,
-  "2023-01-23": 60633,
-  "2023-01-24": 60666,
-  "2023-01-25": 60706,
-  "2023-01-26": 60755,
-  "2023-01-27": 60787,
-  "2023-01-28": 60833,
-  "2023-01-29": 60876,
-  "2023-01-30": 60930,
-  "2023-01-31": 60930,
-  "2023-02-01": 61000,
-  "2023-02-02": 61029,
-  "2023-02-03": 61065,
-  "2023-02-04": 61108,
-  "2023-02-05": 61150,
-  "2023-02-06": 61193,
-  "2023-02-07": 61223,
-  "2023-02-08": 61300,
-  "2023-02-09": 61300,
-  "2023-02-10": 61330,
-  "2023-02-11": 61360,
-  "2023-02-12": 61437,
-  "2023-02-13": 61468,
-  "2023-02-14": 61468,
-  "2023-02-15": 61490,
-  "2023-02-16": 61518,
-  "2023-02-17": 61546,
-  "2023-02-18": 61614,
-  "2023-02-19": 61617,
-  "2023-02-20": 61655,
-  "2023-02-21": 61671,
-  "2023-02-22": 61698,
-  "2023-02-23": 61723,
-  "2023-02-24": 61763,
-  "2023-02-25": 61809,
-  "2023-02-26": 61834,
-  "2023-02-27": 61900,
-  "2023-02-28": 61900,
-  "2023-03-01": 61933,
-  "2023-03-02": 61972,
-  "2023-03-03": 62022,
-  "2023-03-04": 62058,
-  "2023-03-05": 62143,
-  "2023-03-06": 62143,
-  "2023-03-07": 62182,
-  "2023-03-08": 62210,
-  "2023-03-09": 62238,
-  "2023-03-10": 62271,
-  "2023-03-11": 62313,
-  "2023-03-12": 62346,
-  "2023-03-13": 62383,
-  "2023-03-14": 62412,
-  "2023-03-15": 62436,
-  "2023-03-16": 62436,
-  "2023-03-17": 62436,
-  "2023-03-18": 62535,
-  "2023-03-19": 62535,
-  "2023-03-20": 62625,
-  "2023-03-21": 62668,
-  "2023-03-22": 62703,
-  "2023-03-23": 62739,
-  "2023-03-24": 62739,
-  "2023-03-25": 62783,
-  "2023-03-26": 62822,
-  "2023-03-27": 62846,
-  "2023-03-28": 62864,
-  "2023-03-29": 62901,
-  "2023-03-30": 62947,
-  "2023-03-31": 62947,
-  "2023-04-01": 62975,
-  "2023-04-02": 63020,
-  "2023-04-03": 63043,
-  "2023-04-04": 63069,
-  "2023-04-05": 63090,
-  "2023-04-06": 63126,
-  "2023-04-07": 63149,
-  "2023-04-09": 63208,
-  "2023-04-10": 63232,
-  "2023-04-11": 63295,
-  "2023-04-12": 63295,
-  "2023-04-13": 63320,
-  "2023-04-14": 63362,
-  "2023-04-15": 63414,
-  "2023-04-16": 63452,
-  "2023-04-17": 63482,
-  "2023-04-18": 63504,
-  "2023-04-19": 63539,
-  "2023-04-20": 63582,
-  "2023-04-21": 63614,
-  "2023-04-22": 63658,
-  "2023-04-23": 63707,
-  "2023-04-24": 63745,
-  "2023-04-25": 63771,
-  "2023-04-26": 63803,
-  "2023-04-27": 63833,
-  "2023-04-28": 63877,
-  "2023-04-29": 63905,
-  "2023-04-30": 63946,
-  "2023-05-01": 63983,
-  "2023-05-02": 64000,
-  "2023-05-03": 64021,
-  "2023-05-04": 64043,
-  "2023-05-05": 64071,
-  "2023-05-06": 64101,
-  "2023-05-07": 64127,
-  "2023-05-08": 64160,
-  "2023-05-09": 64186,
-  "2023-05-10": 64210,
-  "2023-05-11": 64231,
-  "2023-05-12": 64258,
-  "2023-05-13": 64304,
-  "2023-05-14": 64334,
-  "2023-05-15": 64360,
-  "2023-05-16": 64392,
-  "2023-05-17": 64421,
-  "2023-05-18": 64457,
-  "2023-05-19": 64490,
-  "2023-05-20": 64549,
-  "2023-05-21": 64549,
-  "2023-05-22": 64549,
-  "2023-05-23": 64614,
-  "2023-05-24": 64679,
-  "2023-05-25": 64682,
-  "2023-05-26": 64716,
-  "2023-05-27": 64736,
-  "2023-05-28": 64775,
-  "2023-05-29": 64775,
-  "2023-05-30": 64826,
-  "2023-05-31": 64854,
-  "2023-06-01": 64895,
-  "2023-06-02": 64924,
-  "2023-06-03": 64949,
-  "2023-06-04": 64997,
-  "2023-06-05": 65022,
-  "2023-06-06": 65054,
-  "2023-06-07": 65087,
-  "2023-06-08": 65111,
-  "2023-06-09": 65141,
-  "2023-06-10": 65153,
-  "2023-06-11": 65170,
-  "2023-06-12": 65186,
-  "2023-06-13": 65201,
-  "2023-06-14": 65214,
-  "2023-06-15": 65225,
-  "2023-06-16": 65247,
-  "2023-06-17": 65267,
-  "2023-06-18": 65278,
-  "2023-06-19": 65293,
-  "2023-06-20": 65304,
-  "2023-06-21": 65325,
-  "2023-06-22": 65347,
-  "2023-06-23": 65369,
-  "2023-06-24": 65403,
-  "2023-06-25": 65435,
-  "2023-06-26": 65467,
-  "2023-06-27": 65503,
-  "2023-06-28": 65524,
-  "2023-06-29": 65551,
-  "2023-06-30": 65572,
-  "2023-07-01": 65642,
-  "2023-07-02": 65642,
-  "2023-07-03": 65668,
-  "2023-07-04": 65678,
-  "2023-07-05": 65687,
-  "2023-07-06": 65722,
-  "2023-07-07": 65722,
-  "2023-07-08": 65751,
-  "2023-07-09": 65775,
-  "2023-07-10": 65794,
-  "2023-07-11": 65814,
-  "2023-07-12": 65832,
-  "2023-07-13": 65867,
-  "2023-07-14": 65890,
-  "2023-07-15": 65910,
-  "2023-07-16": 65931,
-  "2023-07-17": 65950,
-  "2023-07-18": 65970,
-  "2023-07-19": 65982,
-  "2023-07-20": 65997,
-  "2023-07-21": 66007,
-  "2023-07-22": 66037,
-  "2023-07-23": 66054,
-  "2023-07-24": 66071,
-  "2023-07-25": 66088,
-  "2023-07-26": 66104,
-  "2023-07-27": 66123,
-  "2023-07-28": 66142,
-  "2023-07-29": 66158,
-  "2023-07-30": 66175,
-  "2023-07-31": 66185,
-  "2023-08-01": 66195,
-  "2023-08-02": 66213,
-  "2023-08-03": 66234,
-  "2023-08-04": 66244,
-  "2023-08-05": 66265,
-  "2023-08-06": 66298,
-  "2023-08-07": 66298,
-  "2023-08-08": 66322,
-  "2023-08-09": 66331,
-  "2023-08-10": 66346,
-  "2023-08-11": 66359,
-  "2023-08-12": 66359,
-  "2023-08-13": 66359,
-  "2023-08-14": 66420,
-  "2023-08-15": 66420,
-  "2023-08-16": 66420,
-  "2023-08-17": 66460,
-  "2023-08-18": 66460,
-  "2023-08-19": 66460,
-  "2023-08-20": 66519,
-  "2023-08-21": 66519,
-  "2023-08-22": 66544,
-  "2023-08-23": 66544,
-  "2023-08-24": 66576,
-  "2023-08-25": 66576,
-  "2023-08-26": 66599,
-  "2023-08-27": 66599,
-  "2023-08-28": 66638,
-  "2023-08-29": 66638,
-  "2023-08-30": 66638,
-  "2023-08-31": 66653,
-  "2023-09-01": 66666,
-  "2023-09-02": 66666,
-  "2023-09-03": 66681,
-  "2023-09-04": 66681,
-  "2023-09-05": 66681,
-  "2023-09-06": 66725,
-  "2023-09-07": 66725,
-  "2023-09-08": 66725,
-  "2023-09-09": 66725,
-  "2023-09-10": 66777,
-  "2023-09-11": 66777,
-  "2023-09-12": 66777,
-  "2023-09-13": 66830,
-  "2023-09-14": 66830,
-  "2023-09-15": 66830,
-  "2023-09-16": 66873,
-  "2023-09-17": 66873,
-  "2023-09-18": 66873,
-  "2023-09-19": 66922,
-  "2023-09-20": 66922,
-  "2023-09-21": 66922,
-  "2023-09-22": 66951,
-  "2023-09-23": 66951,
-  "2023-09-24": 66951,
-  "2023-09-25": 66951,
-  "2023-09-26": 66996,
-  "2023-09-27": 66996,
-  "2023-09-28": 66996,
-  "2023-09-29": 66996,
-  "2023-09-30": 66996,
-  "2023-10-01": 66996,
-  "2023-10-02": 67061,
-  "2023-10-03": 67061,
-  "2023-10-04": 67061,
-  "2023-10-05": 67083,
-  "2023-10-06": 67083,
-  "2023-10-07": 67083,
-  "2023-10-08": 67083,
-  "2023-10-09": 67083,
-  "2023-10-10": 67083,
-  "2023-10-11": 67134,
-  "2023-10-12": 67134,
-  "2023-10-13": 67134,
-  "2023-10-14": 67134,
-  "2023-10-15": 67134,
-  "2023-10-16": 67134,
-  "2023-10-17": 67134,
-  "2023-10-18": 67134,
-  "2023-10-19": 67134,
-  "2023-10-20": 67134,
-  "2023-10-21": 67134,
-  "2023-10-22": 67134,
-  "2023-10-23": 67134,
-  "2023-10-24": 67134,
-  "2023-10-25": 67134,
-  "2023-10-26": 67134,
-  "2023-10-27": 67134,
-  "2023-10-28": 67134,
-  "2023-10-29": 67134,
-  "2023-10-30": 67134,
-  "2023-10-31": 67134,
-  "2023-11-01": 67134,
-  "2023-11-02": 67134,
-  "2023-11-03": 67134,
-  "2023-11-04": 67134,
-  "2023-11-05": 67134,
-  "2023-11-06": 67134,
-  "2023-11-07": 67134,
-  "2023-11-08": 67134,
-  "2023-11-09": 67134,
-  "2023-11-10": 67134,
-  "2023-11-11": 67428,
-  "2023-11-12": 67428,
-  "2023-11-13": 67428,
-  "2023-11-14": 67428,
-  "2023-11-15": 67428,
-  "2023-11-16": 67428,
-  "2023-11-17": 67428,
-  "2023-11-18": 67428,
-  "2023-11-19": 67428,
-  "2023-11-20": 67428,
-  "2023-11-21": 67428,
-  "2023-11-22": 67428,
-  "2023-11-23": 67428,
-  "2023-11-24": 67428,
-  "2023-11-25": 67428,
-  "2023-11-26": 67428,
-  "2023-11-27": 67428,
-  "2023-11-28": 67428,
-  "2023-11-29": 67428,
-  "2023-11-30": 67428,
-  "2023-12-01": 67428,
-  "2023-12-02": 67428,
-  "2023-12-03": 67428,
-  "2023-12-04": 67428,
-  "2023-12-05": 67428,
-  "2023-12-06": 67428,
-  "2023-12-07": 67428,
-  "2023-12-08": 67428,
-  "2023-12-09": 67428,
-  "2023-12-10": 67428,
-  "2023-12-11": 67428,
-  "2023-12-12": 67428,
-  "2023-12-13": 67428,
-  "2023-12-14": 67820,
-  "2023-12-15": 67824,
-  "2023-12-16": 67837,
-  "2023-12-17": 67845,
-  "2023-12-18": 67854,
-  "2023-12-19": 67857,
-  "2023-12-20": 67864,
-  "2023-12-21": 67871,
-  "2023-12-22": 67886,
-  "2023-12-23": 67892,
-  "2023-12-24": 67906,
-  "2023-12-25": 67920,
-  "2023-12-26": 67928,
-  "2023-12-27": 67934,
-  "2023-12-30": 67964,
-  "2023-12-31": 67974,
-  "2024-01-01": 67987,
-  "2024-01-02": 67995,
-  "2024-01-03": 67991
+  "2024-01-17": 68115,
+  "date_first_scraped": "2022-11-05",
+  "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
+  "name": "This Is Iggy Pop",
+  "tracks": [
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 269324,
+      "name": "All The Way Down",
+      "url": "https://open.spotify.com/track/3jtj4d3J255nvdEu6vKUK1"
+    },
+    {
+      "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
+    },
+    {
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Black Sunshine",
+      "url": "https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG"
+    },
+    {
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 234561,
+      "name": "Break Into Your Heart",
+      "url": "https://open.spotify.com/track/16KCcwE616Sk4qTsW26wFf"
+    },
+    {
+      "album": {
+        "name": "Broken Boy (feat. Iggy Pop)",
+        "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Broken Boy (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
+    },
+    {
+      "album": {
+        "name": "C\u2019est si bon",
+        "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
+    },
+    {
+      "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+    },
+    {
+      "album": {
+        "name": "The Bowie Years: Edits + Out-Takes",
+        "url": "https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313333,
+      "name": "China Girl - Alternative Mix",
+      "url": "https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z"
+    },
+    {
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233752,
+      "name": "Comments",
+      "url": "https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8"
+    },
+    {
+      "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
+    },
+    {
+      "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 164306,
+      "name": "Dirty Love (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/5qhRMJY1TQwljFlC6aW8OJ"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 108019,
+      "name": "Do Not Go Gentle Into That Good Night",
+      "url": "https://open.spotify.com/track/06de1At9cfYJEsktmw4Ec0"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 433357,
+      "name": "Dum Dum Boys",
+      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "Et Si Tu n'existais Pas",
+      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+    },
+    {
+      "album": {
+        "name": "Rare Trax (2023 Remaster)",
+        "url": "https://open.spotify.com/album/1pkHXP581drtcsa8BhpxHt"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 176657,
+      "name": "Family Affair - 2023 Remaster",
+      "url": "https://open.spotify.com/track/7yuLHjKdoHJ0jRAJiSfCVB"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 108205,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QHHnMIBZlwgWhPy1dind0"
+    },
+    {
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+    },
+    {
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254120,
+      "name": "Gardenia",
+      "url": "https://open.spotify.com/track/72t2ISFNIeG6oy3SE49u2N"
+    },
+    {
+      "album": {
+        "name": "Get Your Shirt",
+        "url": "https://open.spotify.com/album/3rDxl1B5omPun9ehMgNpgo"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 450560,
+      "name": "Get Your Shirt",
+      "url": "https://open.spotify.com/track/7mhsxGnDd4Hjz7g5luuCd8"
+    },
+    {
+      "album": {
+        "name": "Gold (From The Original Motion Picture Soundtrack \"Gold\")",
+        "url": "https://open.spotify.com/album/3Enwyua0EjFqREWX2s2zpE"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Gold - From The Original Motion Picture Soundtrack \"Gold\"",
+      "url": "https://open.spotify.com/track/04AJSn0D3BHwT8FQ9q5FVp"
+    },
+    {
+      "album": {
+        "name": "He's Frank (Slight Return)",
+        "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
+      },
+      "artists": [
+        {
+          "name": "The BPA",
+          "url": "https://open.spotify.com/artist/1YJaPNfbWVIItItFlBrEK2"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "He's Frank - Slight Return",
+      "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
+    },
+    {
+      "album": {
+        "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
+        "url": "https://open.spotify.com/album/7B8oP2SSsvnshUidrYYgqg"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "I WANNA BE YOUR SLAVE (with Iggy Pop)",
+      "url": "https://open.spotify.com/track/1ojRut8t5RYNmLpJkEdJ3V"
+    },
+    {
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "album": {
+        "name": "Clair Obscur",
+        "url": "https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A"
+    },
+    {
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "I'm Going Away Smiling",
+      "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"
+    },
+    {
+      "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 121853,
+      "name": "King Of The Dogs",
+      "url": "https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 184240,
+      "name": "La Belle Vie",
+      "url": "https://open.spotify.com/track/6ZiyU4U2GlSz814vTTBBDo"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 150453,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
+    },
+    {
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 250000,
+      "name": "Les passantes",
+      "url": "https://open.spotify.com/track/0PNBQlTTJT5Mpjk2qCSHa7"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/1yiipBDOi6JJZecycXOlE7"
+      },
+      "artists": [
+        {
+          "name": "Duff McKagan",
+          "url": "https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 92158,
+      "name": "Lighthouse - Reprise",
+      "url": "https://open.spotify.com/track/6aFLOe3ypzyUM2FG4Qd5f2"
+    },
+    {
+      "album": {
+        "name": "Skull Ring",
+        "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Little Know It All",
+      "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
+    },
+    {
+      "album": {
+        "name": "Brick By Brick",
+        "url": "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Livin' On The Edge Of The Night",
+      "url": "https://open.spotify.com/track/0xGFngTneJV4OzN310i8Qh"
+    },
+    {
+      "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 228466,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259113,
+      "name": "Loves Missing",
+      "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313925,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "album": {
+        "name": "Lust For Life (The Prodigy Remix)",
+        "url": "https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        {
+          "name": "Liam Howlett",
+          "url": "https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300133,
+      "name": "Lust For Life - The Prodigy Remix",
+      "url": "https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R"
+    },
+    {
+      "album": {
+        "name": "L'amour h\u00e9las",
+        "url": "https://open.spotify.com/album/1tW64D92Fbvas6G28g75Jf"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 190493,
+      "name": "L\u2019appartement - en duo avec Iggy Pop",
+      "url": "https://open.spotify.com/track/0lpF25LpCVWZevST9ZLYDh"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 209492,
+      "name": "Modern Day Ripoff",
+      "url": "https://open.spotify.com/track/02BJIKaqW5LixrTYP3AsOP"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62567,
+      "name": "My Animus (Interlude)",
+      "url": "https://open.spotify.com/track/0fwyr7AWGLlUgQbu4jTnY4"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 205280,
+      "name": "Neighborhood Threat",
+      "url": "https://open.spotify.com/track/0pBBiZIVHbcmHbwacGGLhR"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 135425,
+      "name": "Neo Punk",
+      "url": "https://open.spotify.com/track/1DX0TkV2vX5T8tUQrTOmlH"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248095,
+      "name": "New Atlantis",
+      "url": "https://open.spotify.com/track/6XMvpM1luxKj9gCwvifL2D"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255831,
+      "name": "Nightclubbing",
+      "url": "https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ"
+    },
+    {
+      "album": {
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/3CVnxmcJy6gCrkh6lFY0fm"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80960,
+      "name": "No Shit",
+      "url": "https://open.spotify.com/track/0l2vXaJQDNz9deAITHdpST"
+    },
+    {
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 385264,
+      "name": "Paraguay",
+      "url": "https://open.spotify.com/track/0NxkgttWBebPhJhQkW6t8n"
+    },
+    {
+      "album": {
+        "name": "Personal Jesus",
+        "url": "https://open.spotify.com/album/18dZevcCy8WBDLu4kchXiN"
+      },
+      "artists": [
+        {
+          "name": "Trevor Horn",
+          "url": "https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/39T5kfrzZZ1I6BgUk5Pmv2"
+    },
+    {
+      "album": {
+        "name": "Post Punk (feat. Iggy Pop)",
+        "url": "https://open.spotify.com/album/6sl0F7alKr5VWHTpdSRXZS"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+        },
+        {
+          "name": "Hyper",
+          "url": "https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 275966,
+      "name": "Post Punk (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/1LfZVlZg1JMxOS1W1fmWOK"
+    },
+    {
+      "album": {
+        "name": "Soft Machine",
+        "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
+    },
+    {
+      "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Real Wild Child (Wild One)",
+      "url": "https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR"
+    },
+    {
+      "album": {
+        "name": "Tainted Lunch",
+        "url": "https://open.spotify.com/album/0awOXgqBtA1bUu44W08g6q"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 69389,
+      "name": "Rules of the Game",
+      "url": "https://open.spotify.com/track/12VVjfk4RaMj1gBcS3QsLh"
+    },
+    {
+      "album": {
+        "name": "Tainted Lunch",
+        "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69389,
+      "name": "Rules of the Game",
+      "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
+    },
+    {
+      "album": {
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5"
+    },
+    {
+      "album": {
+        "name": "Nude & Rude: The Best Of Iggy",
+        "url": "https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Search & Destroy",
+      "url": "https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C"
+    },
+    {
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 209333,
+      "name": "Search And Destroy",
+      "url": "https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221374,
+      "name": "Some Weird Sin",
+      "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+    },
+    {
+      "album": {
+        "name": "Strung Out Johnny",
+        "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 253893,
+      "name": "Strung Out Johnny",
+      "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Strung Out Johnny",
+      "url": "https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 265581,
+      "name": "Success",
+      "url": "https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1"
+    },
+    {
+      "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+    },
+    {
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 123720,
+      "name": "Syracuse",
+      "url": "https://open.spotify.com/track/7fM0p7hgm5Ktr77vDEeuSP"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 128961,
+      "name": "The Dawn",
+      "url": "https://open.spotify.com/track/20NX3eoG5vBF91b25T6dao"
+    },
+    {
+      "album": {
+        "name": "The Dictator",
+        "url": "https://open.spotify.com/album/6uUjKtXEyeTAB49DKY8fuX"
+      },
+      "artists": [
+        {
+          "name": "Catherine Graindorge",
+          "url": "https://open.spotify.com/artist/5iqpZ9ybJy7ERVcWwBIPXQ"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 285865,
+      "name": "The Dictator",
+      "url": "https://open.spotify.com/track/4oTpPvKIgu1erI6yCxfnhh"
+    },
+    {
+      "album": {
+        "name": "New Values",
+        "url": "https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 291600,
+      "name": "The Endless Sea",
+      "url": "https://open.spotify.com/track/38lgHi3Mggg8cIvlCSsxQm"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55265,
+      "name": "The News For Andy (Interlude)",
+      "url": "https://open.spotify.com/track/5Fc2Y9ICh4f8weUhqS5Co9"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+    },
+    {
+      "album": {
+        "name": "Good Time Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269461,
+      "name": "The Pure and the Damned",
+      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+    },
+    {
+      "album": {
+        "name": "Good Time Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 269461,
+      "name": "The Pure and the Damned",
+      "url": "https://open.spotify.com/track/4x79863wyp2dhJOiZYKPZN"
+    },
+    {
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "album": {
+        "name": "Ederlezi",
+        "url": "https://open.spotify.com/album/2EQJq127u4ihk7QU0Voas2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 318906,
+      "name": "TV Screen - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5Ioy9ZoOzXYXIcaX3Ent6m"
+    },
+    {
+      "album": {
+        "name": "Slash",
+        "url": "https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 271906,
+      "name": "We're All Gonna Die",
+      "url": "https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VmQzWa2H4IRjpVReN8LDY"
+      },
+      "artists": [
+        {
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 464992,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/4ehjDSjvxRMWlB4aExCJQV"
+    },
+    {
+      "album": {
+        "name": "Louie Louie",
+        "url": "https://open.spotify.com/album/1AoiNcmFsAfTp0UiPne3JF"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 274014,
+      "name": "Wild Love - 2023 Mix",
+      "url": "https://open.spotify.com/track/7hwFJ4XTiVOrk12z7SvQUT"
+    },
+    {
+      "album": {
+        "name": "Working Class Hero",
+        "url": "https://open.spotify.com/album/4yKyXtKhmN6izhfnpPNlqg"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 283274,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/4E0dnwU0VhvJydUOEiq6IB"
+    },
+    {
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 304680,
+      "name": "You Want It Darker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK"
 }

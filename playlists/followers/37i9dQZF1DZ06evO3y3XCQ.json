@@ -1,431 +1,971 @@
 {
-  "2022-10-28": 2948,
-  "2022-10-29": 2952,
-  "2022-10-30": 2956,
-  "2022-10-31": 2959,
-  "2022-11-01": 2956,
-  "2022-11-02": 2956,
-  "2022-11-03": 2953,
-  "2022-11-04": 2959,
-  "2022-11-05": 2962,
-  "2022-11-06": 2965,
-  "2022-11-07": 2967,
-  "2022-11-08": 2970,
-  "2022-11-09": 2977,
-  "2022-11-10": 2984,
-  "2022-11-11": 2984,
-  "2022-11-12": 2985,
-  "2022-11-13": 2987,
-  "2022-11-14": 2989,
-  "2022-11-15": 2991,
-  "2022-11-16": 2996,
-  "2022-11-17": 2997,
-  "2022-11-18": 2998,
-  "2022-11-19": 2999,
-  "2022-11-20": 3000,
-  "2022-11-21": 3002,
-  "2022-11-22": 3005,
-  "2022-11-23": 3007,
-  "2022-11-24": 3014,
-  "2022-11-25": 3018,
-  "2022-11-26": 3018,
-  "2022-11-27": 3017,
-  "2022-11-28": 3017,
-  "2022-11-29": 3017,
-  "2022-11-30": 3019,
-  "2022-12-01": 3024,
-  "2022-12-02": 3026,
-  "2022-12-03": 3033,
-  "2022-12-04": 3032,
-  "2022-12-05": 3036,
-  "2022-12-06": 3038,
-  "2022-12-07": 3040,
-  "2022-12-08": 3044,
-  "2022-12-09": 3046,
-  "2022-12-10": 3050,
-  "2022-12-11": 3053,
-  "2022-12-12": 3055,
-  "2022-12-13": 3060,
-  "2022-12-14": 3061,
-  "2022-12-15": 3064,
-  "2022-12-16": 3068,
-  "2022-12-17": 3071,
-  "2022-12-18": 3077,
-  "2022-12-19": 3077,
-  "2022-12-20": 3080,
-  "2022-12-21": 3080,
-  "2022-12-22": 3080,
-  "2022-12-24": 3083,
-  "2022-12-25": 3087,
-  "2022-12-26": 3086,
-  "2022-12-27": 3090,
-  "2022-12-28": 3090,
-  "2022-12-29": 3093,
-  "2022-12-30": 3095,
-  "2022-12-31": 3094,
-  "2023-01-01": 3099,
-  "2023-01-02": 3100,
-  "2023-01-03": 3106,
-  "2023-01-04": 3105,
-  "2023-01-05": 3109,
-  "2023-01-06": 3112,
-  "2023-01-07": 3119,
-  "2023-01-08": 3119,
-  "2023-01-09": 3119,
-  "2023-01-10": 3119,
-  "2023-01-11": 3120,
-  "2023-01-12": 3125,
-  "2023-01-13": 3125,
-  "2023-01-14": 3127,
-  "2023-01-15": 3127,
-  "2023-01-16": 3134,
-  "2023-01-17": 3135,
-  "2023-01-18": 3137,
-  "2023-01-19": 3137,
-  "2023-01-20": 3140,
-  "2023-01-21": 3139,
-  "2023-01-22": 3140,
-  "2023-01-23": 3140,
-  "2023-01-24": 3142,
-  "2023-01-25": 3143,
-  "2023-01-26": 3142,
-  "2023-01-27": 3144,
-  "2023-01-28": 3147,
-  "2023-01-29": 3148,
-  "2023-01-30": 3146,
-  "2023-01-31": 3146,
-  "2023-02-01": 3156,
-  "2023-02-02": 3159,
-  "2023-02-03": 3163,
-  "2023-02-04": 3164,
-  "2023-02-05": 3166,
-  "2023-02-06": 3168,
-  "2023-02-07": 3169,
-  "2023-02-08": 3176,
-  "2023-02-09": 3176,
-  "2023-02-10": 3184,
-  "2023-02-11": 3186,
-  "2023-02-12": 3182,
-  "2023-02-13": 3183,
-  "2023-02-14": 3183,
-  "2023-02-15": 3183,
-  "2023-02-16": 3185,
-  "2023-02-17": 3187,
-  "2023-02-18": 3193,
-  "2023-02-19": 3193,
-  "2023-02-20": 3195,
-  "2023-02-21": 3195,
-  "2023-02-22": 3195,
-  "2023-02-23": 3199,
-  "2023-02-24": 3203,
-  "2023-02-25": 3203,
-  "2023-02-26": 3203,
-  "2023-02-27": 3206,
-  "2023-02-28": 3206,
-  "2023-03-01": 3206,
-  "2023-03-02": 3207,
-  "2023-03-03": 3210,
-  "2023-03-04": 3211,
-  "2023-03-05": 3217,
-  "2023-03-06": 3217,
-  "2023-03-07": 3215,
-  "2023-03-08": 3217,
-  "2023-03-09": 3219,
-  "2023-03-10": 3221,
-  "2023-03-11": 3224,
-  "2023-03-12": 3223,
-  "2023-03-13": 3226,
-  "2023-03-14": 3226,
-  "2023-03-15": 3227,
-  "2023-03-16": 3227,
-  "2023-03-17": 3227,
-  "2023-03-18": 3234,
-  "2023-03-19": 3234,
-  "2023-03-20": 3237,
-  "2023-03-21": 3239,
-  "2023-03-22": 3240,
-  "2023-03-23": 3243,
-  "2023-03-24": 3243,
-  "2023-03-25": 3248,
-  "2023-03-26": 3246,
-  "2023-03-27": 3250,
-  "2023-03-28": 3253,
-  "2023-03-29": 3258,
-  "2023-03-30": 3264,
-  "2023-03-31": 3264,
-  "2023-04-01": 3267,
-  "2023-04-02": 3269,
-  "2023-04-03": 3270,
-  "2023-04-04": 3271,
-  "2023-04-05": 3273,
-  "2023-04-06": 3276,
-  "2023-04-07": 3280,
-  "2023-04-09": 3286,
-  "2023-04-10": 3288,
-  "2023-04-11": 3292,
-  "2023-04-12": 3292,
-  "2023-04-13": 3294,
-  "2023-04-14": 3294,
-  "2023-04-15": 3295,
-  "2023-04-16": 3300,
-  "2023-04-17": 3300,
-  "2023-04-18": 3301,
-  "2023-04-19": 3303,
-  "2023-04-20": 3304,
-  "2023-04-21": 3306,
-  "2023-04-22": 3307,
-  "2023-04-23": 3309,
-  "2023-04-24": 3310,
-  "2023-04-25": 3311,
-  "2023-04-26": 3311,
-  "2023-04-27": 3311,
-  "2023-04-28": 3312,
-  "2023-04-29": 3317,
-  "2023-04-30": 3321,
-  "2023-05-01": 3326,
-  "2023-05-02": 3329,
-  "2023-05-03": 3327,
-  "2023-05-04": 3328,
-  "2023-05-05": 3328,
-  "2023-05-06": 3332,
-  "2023-05-07": 3329,
-  "2023-05-08": 3333,
-  "2023-05-09": 3334,
-  "2023-05-10": 3337,
-  "2023-05-11": 3341,
-  "2023-05-12": 3342,
-  "2023-05-13": 3346,
-  "2023-05-14": 3353,
-  "2023-05-15": 3353,
-  "2023-05-16": 3353,
-  "2023-05-17": 3353,
-  "2023-05-18": 3357,
-  "2023-05-19": 3357,
-  "2023-05-20": 3359,
-  "2023-05-21": 3359,
-  "2023-05-22": 3359,
-  "2023-05-23": 3361,
-  "2023-05-24": 3363,
-  "2023-05-25": 3366,
-  "2023-05-26": 3369,
-  "2023-05-27": 3369,
-  "2023-05-28": 3369,
-  "2023-05-29": 3369,
-  "2023-05-30": 3371,
-  "2023-05-31": 3372,
-  "2023-06-01": 3373,
-  "2023-06-02": 3373,
-  "2023-06-03": 3375,
-  "2023-06-04": 3374,
-  "2023-06-05": 3375,
-  "2023-06-06": 3379,
-  "2023-06-07": 3379,
-  "2023-06-08": 3382,
-  "2023-06-09": 3380,
-  "2023-06-10": 3381,
-  "2023-06-11": 3383,
-  "2023-06-12": 3384,
-  "2023-06-13": 3386,
-  "2023-06-14": 3392,
-  "2023-06-15": 3398,
-  "2023-06-16": 3402,
-  "2023-06-17": 3403,
-  "2023-06-18": 3404,
-  "2023-06-19": 3407,
-  "2023-06-20": 3407,
-  "2023-06-21": 3409,
-  "2023-06-22": 3410,
-  "2023-06-23": 3409,
-  "2023-06-24": 3410,
-  "2023-06-25": 3410,
-  "2023-06-26": 3416,
-  "2023-06-27": 3418,
-  "2023-06-28": 3418,
-  "2023-06-29": 3419,
-  "2023-06-30": 3420,
-  "2023-07-01": 3428,
-  "2023-07-02": 3428,
-  "2023-07-03": 3430,
-  "2023-07-04": 3433,
-  "2023-07-05": 3434,
-  "2023-07-06": 3438,
-  "2023-07-07": 3438,
-  "2023-07-08": 3438,
-  "2023-07-09": 3446,
-  "2023-07-10": 3448,
-  "2023-07-11": 3448,
-  "2023-07-12": 3449,
-  "2023-07-13": 3452,
-  "2023-07-14": 3454,
-  "2023-07-15": 3457,
-  "2023-07-16": 3460,
-  "2023-07-17": 3463,
-  "2023-07-18": 3462,
-  "2023-07-19": 3467,
-  "2023-07-20": 3467,
-  "2023-07-21": 3479,
-  "2023-07-22": 3480,
-  "2023-07-23": 3482,
-  "2023-07-24": 3482,
-  "2023-07-25": 3481,
-  "2023-07-26": 3484,
-  "2023-07-27": 3486,
-  "2023-07-28": 3493,
-  "2023-07-29": 3496,
-  "2023-07-30": 3496,
-  "2023-07-31": 3502,
-  "2023-08-01": 3504,
-  "2023-08-02": 3509,
-  "2023-08-03": 3514,
-  "2023-08-04": 3515,
-  "2023-08-05": 3518,
-  "2023-08-06": 3523,
-  "2023-08-07": 3523,
-  "2023-08-08": 3524,
-  "2023-08-09": 3528,
-  "2023-08-10": 3529,
-  "2023-08-11": 3526,
-  "2023-08-12": 3526,
-  "2023-08-13": 3526,
-  "2023-08-14": 3526,
-  "2023-08-15": 3526,
-  "2023-08-16": 3526,
-  "2023-08-17": 3526,
-  "2023-08-18": 3526,
-  "2023-08-19": 3526,
-  "2023-08-20": 3543,
-  "2023-08-21": 3543,
-  "2023-08-22": 3546,
-  "2023-08-23": 3546,
-  "2023-08-24": 3546,
-  "2023-08-25": 3546,
-  "2023-08-26": 3555,
-  "2023-08-27": 3555,
-  "2023-08-28": 3561,
-  "2023-08-29": 3561,
-  "2023-08-30": 3561,
-  "2023-08-31": 3572,
-  "2023-09-01": 3576,
-  "2023-09-02": 3576,
-  "2023-09-03": 3576,
-  "2023-09-04": 3576,
-  "2023-09-05": 3576,
-  "2023-09-06": 3576,
-  "2023-09-07": 3576,
-  "2023-09-08": 3576,
-  "2023-09-09": 3576,
-  "2023-09-10": 3576,
-  "2023-09-11": 3576,
-  "2023-09-12": 3576,
-  "2023-09-13": 3576,
-  "2023-09-14": 3576,
-  "2023-09-15": 3576,
-  "2023-09-16": 3615,
-  "2023-09-17": 3615,
-  "2023-09-18": 3615,
-  "2023-09-19": 3615,
-  "2023-09-20": 3615,
-  "2023-09-21": 3615,
-  "2023-09-22": 3625,
-  "2023-09-23": 3625,
-  "2023-09-24": 3625,
-  "2023-09-25": 3625,
-  "2023-09-26": 3634,
-  "2023-09-27": 3634,
-  "2023-09-28": 3634,
-  "2023-09-29": 3634,
-  "2023-09-30": 3634,
-  "2023-10-01": 3634,
-  "2023-10-02": 3634,
-  "2023-10-03": 3634,
-  "2023-10-04": 3634,
-  "2023-10-05": 3634,
-  "2023-10-06": 3634,
-  "2023-10-07": 3634,
-  "2023-10-08": 3634,
-  "2023-10-09": 3634,
-  "2023-10-10": 3634,
-  "2023-10-11": 3634,
-  "2023-10-12": 3634,
-  "2023-10-13": 3634,
-  "2023-10-14": 3634,
-  "2023-10-15": 3634,
-  "2023-10-16": 3634,
-  "2023-10-17": 3634,
-  "2023-10-18": 3634,
-  "2023-10-19": 3634,
-  "2023-10-20": 3634,
-  "2023-10-21": 3634,
-  "2023-10-22": 3634,
-  "2023-10-23": 3634,
-  "2023-10-24": 3634,
-  "2023-10-25": 3634,
-  "2023-10-26": 3634,
-  "2023-10-27": 3634,
-  "2023-10-28": 3634,
-  "2023-10-29": 3634,
-  "2023-10-30": 3634,
-  "2023-10-31": 3634,
-  "2023-11-01": 3634,
-  "2023-11-02": 3634,
-  "2023-11-03": 3634,
-  "2023-11-04": 3634,
-  "2023-11-05": 3634,
-  "2023-11-06": 3634,
-  "2023-11-07": 3634,
-  "2023-11-08": 3634,
-  "2023-11-09": 3634,
-  "2023-11-10": 3634,
-  "2023-11-11": 3708,
-  "2023-11-12": 3708,
-  "2023-11-13": 3708,
-  "2023-11-14": 3708,
-  "2023-11-15": 3708,
-  "2023-11-16": 3708,
-  "2023-11-17": 3708,
-  "2023-11-18": 3708,
-  "2023-11-19": 3708,
-  "2023-11-20": 3708,
-  "2023-11-21": 3708,
-  "2023-11-22": 3708,
-  "2023-11-23": 3708,
-  "2023-11-24": 3708,
-  "2023-11-25": 3708,
-  "2023-11-26": 3708,
-  "2023-11-27": 3708,
-  "2023-11-28": 3708,
-  "2023-11-29": 3708,
-  "2023-11-30": 3708,
-  "2023-12-01": 3708,
-  "2023-12-02": 3708,
-  "2023-12-03": 3708,
-  "2023-12-04": 3708,
-  "2023-12-05": 3708,
-  "2023-12-06": 3708,
-  "2023-12-07": 3708,
-  "2023-12-08": 3708,
-  "2023-12-09": 3708,
-  "2023-12-10": 3708,
-  "2023-12-11": 3708,
-  "2023-12-12": 3708,
-  "2023-12-13": 3708,
-  "2023-12-14": 3744,
-  "2023-12-15": 3745,
-  "2023-12-16": 3746,
-  "2023-12-17": 3748,
-  "2023-12-18": 3749,
-  "2023-12-19": 3750,
-  "2023-12-20": 3752,
-  "2023-12-21": 3753,
-  "2023-12-22": 3754,
-  "2023-12-23": 3756,
-  "2023-12-24": 3758,
-  "2023-12-25": 3762,
-  "2023-12-26": 3766,
-  "2023-12-27": 3764,
-  "2023-12-30": 3768,
-  "2023-12-31": 3769,
-  "2024-01-01": 3770,
-  "2024-01-02": 3772,
-  "2024-01-03": 3772
+  "2024-01-17": 3790,
+  "date_first_scraped": "2022-10-28",
+  "description": "This is Thursday. The essential tracks, all in one playlist.",
+  "name": "This Is Thursday",
+  "tracks": [
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "A Darker Forest",
+      "url": "https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "A Hole In The World",
+      "url": "https://open.spotify.com/track/5fNCiYldS7oqIuOuTuKRGM"
+    },
+    {
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 98800,
+      "name": "A Sketch For Time's Arrow",
+      "url": "https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Arc-Lamps, Signal Flares, A Shower Of White (The Light)",
+      "url": "https://open.spotify.com/track/2FvNGLhY5aUH9c0UOo8ONb"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "As He Climbed The Dark Mountain",
+      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "Asleep In The Chapel",
+      "url": "https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "At This Velocity",
+      "url": "https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235626,
+      "name": "Autobiography Of A Nation",
+      "url": "https://open.spotify.com/track/0ALZo8QRVF93qCVyseIjNF"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 414040,
+      "name": "Autumn Leaves Revisited",
+      "url": "https://open.spotify.com/track/0nty9GkUJ6CD4Uj60IFT4B"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Between Rupture And Rapture",
+      "url": "https://open.spotify.com/track/49ie1J8zRI73U2ve8dPuPq"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "Beyond The Visible Spectrum",
+      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139040,
+      "name": "Concealer",
+      "url": "https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Counting 5-4-3-2-1",
+      "url": "https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248466,
+      "name": "Cross Out The Eyes",
+      "url": "https://open.spotify.com/track/1HiBAaHMxp8Adf2XEqobn5"
+    },
+    {
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Dead Songs",
+      "url": "https://open.spotify.com/track/6n8fU7QWxnywGUQbCFqyTF"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254893,
+      "name": "Division St.",
+      "url": "https://open.spotify.com/track/3CzZpfMmfvB8ybUkqAYqvD"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+    },
+    {
+      "album": {
+        "name": "Tony Hawk's American Wasteland Soundtrack",
+        "url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 172059,
+      "name": "Ever Fallen In Love",
+      "url": "https://open.spotify.com/track/1UHmaVttRXoEd1ADmLgRIx"
+    },
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "For The Workforce, Drowning",
+      "url": "https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250853,
+      "name": "Friends In The Armed Forces",
+      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118440,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/530YND7Asd4qwUgcXXVQ8b"
+    },
+    {
+      "album": {
+        "name": "Five Stories Falling",
+        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289080,
+      "name": "Jet Black New Year",
+      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
+    },
+    {
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Love Has Led Us Astray",
+      "url": "https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4"
+    },
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Magnets Caught in a Metal Heart",
+      "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
+    },
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292573,
+      "name": "No Answers",
+      "url": "https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P"
+    },
+    {
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 194626,
+      "name": "Panic On The Streets Of Health Care City",
+      "url": "https://open.spotify.com/track/3bVrg3T1DUbhHYGVdcK78x"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 273026,
+      "name": "Paris In Flames",
+      "url": "https://open.spotify.com/track/1WCTdTsR7PTHtuTXIzg5BZ"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202598,
+      "name": "Resuscitation of a Dead Man",
+      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "Running From The Rain",
+      "url": "https://open.spotify.com/track/4CRaYUB98nYPtL5P9TxMnD"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Signals Over The Air",
+      "url": "https://open.spotify.com/track/5k8viPkN0jExLQTlKsakKZ"
+    },
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285226,
+      "name": "Sparks Against the Sun",
+      "url": "https://open.spotify.com/track/3Z6YLC5MoKWjqepMsH7k6k"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Standing On The Edge Of Summer",
+      "url": "https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266653,
+      "name": "Streaks in the Sky",
+      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 310360,
+      "name": "Sugar In The Sacrament",
+      "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 215906,
+      "name": "Telegraph Avenue Kiss",
+      "url": "https://open.spotify.com/track/1WoMpFgv2rLgEFzKJqIvwH"
+    },
+    {
+      "album": {
+        "name": "Violent Waves",
+        "url": "https://open.spotify.com/album/5y5C2nONFCsDjw4mB6Azm2"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        },
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283746,
+      "name": "The Lottery",
+      "url": "https://open.spotify.com/track/6T3YSsiLwPrq9yVSKvmQSX"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318226,
+      "name": "The Lovesong Writer",
+      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281213,
+      "name": "The Other Side Of The Crash/Over And Out (Of Control)",
+      "url": "https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 136333,
+      "name": "This Song Brought To You By A Falling Bomb",
+      "url": "https://open.spotify.com/track/6VYMzpPyB6QVdPwXP0fTMw"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 253253,
+      "name": "Time's Arrow",
+      "url": "https://open.spotify.com/track/2EPYehgxIsqGvxUcxwgxkH"
+    },
+    {
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Turnpike Divides",
+      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
+    },
+    {
+      "album": {
+        "name": "Full Collapse",
+        "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264546,
+      "name": "Understanding In A Car Crash",
+      "url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 138466,
+      "name": "Unintended Long Term Effects",
+      "url": "https://open.spotify.com/track/4Fk7H0RzcBmh0rw19px9Yp"
+    },
+    {
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Voices On A String",
+      "url": "https://open.spotify.com/track/1x4hsESxhGafiTFQDIAsCx"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "War All The Time",
+      "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+    },
+    {
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 219733,
+      "name": "We Will Overcome",
+      "url": "https://open.spotify.com/track/3yiQQBneouNH6dNpUAUadr"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 349253,
+      "name": "You Were The Cancer",
+      "url": "https://open.spotify.com/track/5T3aOfEHkhipnFkPqBADjj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3y3XCQ"
 }

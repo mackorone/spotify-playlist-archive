@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKqMj3d8wqM.md) - [plain]
 
 > Your favorite tunes from classic family movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,852 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,581 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

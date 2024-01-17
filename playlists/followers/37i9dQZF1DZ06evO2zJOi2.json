@@ -1,479 +1,1191 @@
 {
-  "2022-09-09": 321902,
-  "2022-09-10": 322300,
-  "2022-09-11": 322685,
-  "2022-09-12": 322992,
-  "2022-09-13": 323334,
-  "2022-09-15": 324194,
-  "2022-09-16": 324607,
-  "2022-09-17": 325059,
-  "2022-09-18": 325442,
-  "2022-09-19": 325835,
-  "2022-09-20": 326202,
-  "2022-09-21": 326549,
-  "2022-09-22": 326929,
-  "2022-09-23": 327313,
-  "2022-09-24": 327313,
-  "2022-09-25": 328046,
-  "2022-09-26": 328371,
-  "2022-09-27": 328746,
-  "2022-09-28": 329098,
-  "2022-09-29": 329436,
-  "2022-09-30": 329801,
-  "2022-10-01": 330156,
-  "2022-10-02": 330520,
-  "2022-10-03": 330870,
-  "2022-10-04": 331216,
-  "2022-10-05": 331586,
-  "2022-10-06": 331937,
-  "2022-10-07": 332372,
-  "2022-10-08": 332806,
-  "2022-10-09": 333479,
-  "2022-10-10": 333625,
-  "2022-10-11": 334008,
-  "2022-10-12": 334437,
-  "2022-10-13": 334841,
-  "2022-10-14": 335262,
-  "2022-10-15": 335666,
-  "2022-10-16": 336054,
-  "2022-10-17": 336402,
-  "2022-10-18": 336731,
-  "2022-10-19": 337075,
-  "2022-10-20": 337413,
-  "2022-10-21": 337745,
-  "2022-10-22": 338115,
-  "2022-10-23": 338440,
-  "2022-10-24": 338808,
-  "2022-10-25": 339069,
-  "2022-10-26": 339372,
-  "2022-10-27": 339651,
-  "2022-10-28": 339987,
-  "2022-10-29": 340296,
-  "2022-10-30": 340622,
-  "2022-10-31": 340852,
-  "2022-11-01": 341111,
-  "2022-11-02": 341384,
-  "2022-11-03": 341650,
-  "2022-11-04": 341936,
-  "2022-11-05": 342259,
-  "2022-11-06": 342556,
-  "2022-11-07": 342815,
-  "2022-11-08": 343085,
-  "2022-11-09": 343356,
-  "2022-11-10": 343600,
-  "2022-11-11": 344037,
-  "2022-11-12": 344470,
-  "2022-11-13": 344703,
-  "2022-11-14": 344961,
-  "2022-11-15": 345305,
-  "2022-11-16": 345697,
-  "2022-11-17": 346167,
-  "2022-11-18": 346323,
-  "2022-11-19": 346520,
-  "2022-11-20": 347027,
-  "2022-11-21": 347528,
-  "2022-11-22": 347998,
-  "2022-11-23": 348458,
-  "2022-11-24": 349322,
-  "2022-11-25": 350048,
-  "2022-11-26": 350595,
-  "2022-11-27": 351105,
-  "2022-11-28": 351567,
-  "2022-11-29": 351944,
-  "2022-11-30": 352248,
-  "2022-12-01": 352630,
-  "2022-12-02": 353501,
-  "2022-12-03": 354832,
-  "2022-12-04": 355659,
-  "2022-12-05": 356330,
-  "2022-12-06": 357008,
-  "2022-12-07": 357734,
-  "2022-12-08": 358712,
-  "2022-12-09": 359669,
-  "2022-12-10": 360544,
-  "2022-12-11": 361307,
-  "2022-12-12": 361902,
-  "2022-12-13": 362408,
-  "2022-12-14": 362943,
-  "2022-12-15": 363420,
-  "2022-12-16": 363816,
-  "2022-12-17": 364247,
-  "2022-12-18": 364706,
-  "2022-12-19": 365124,
-  "2022-12-20": 365833,
-  "2022-12-21": 365833,
-  "2022-12-22": 366247,
-  "2022-12-24": 367145,
-  "2022-12-25": 367553,
-  "2022-12-26": 367937,
-  "2022-12-27": 368470,
-  "2022-12-28": 369023,
-  "2022-12-29": 369499,
-  "2022-12-30": 370059,
-  "2022-12-31": 370689,
-  "2023-01-01": 371206,
-  "2023-01-02": 371695,
-  "2023-01-03": 372206,
-  "2023-01-04": 372646,
-  "2023-01-05": 373069,
-  "2023-01-06": 373680,
-  "2023-01-07": 374424,
-  "2023-01-08": 374586,
-  "2023-01-09": 375042,
-  "2023-01-10": 375451,
-  "2023-01-11": 375854,
-  "2023-01-12": 376287,
-  "2023-01-13": 376748,
-  "2023-01-14": 377580,
-  "2023-01-15": 377683,
-  "2023-01-16": 378232,
-  "2023-01-17": 378699,
-  "2023-01-18": 379111,
-  "2023-01-19": 379548,
-  "2023-01-20": 380008,
-  "2023-01-21": 380434,
-  "2023-01-22": 380966,
-  "2023-01-23": 381361,
-  "2023-01-24": 381773,
-  "2023-01-25": 382106,
-  "2023-01-26": 382420,
-  "2023-01-27": 382775,
-  "2023-01-28": 383099,
-  "2023-01-29": 383439,
-  "2023-01-30": 383756,
-  "2023-01-31": 383756,
-  "2023-02-01": 384505,
-  "2023-02-02": 384939,
-  "2023-02-03": 385447,
-  "2023-02-04": 385988,
-  "2023-02-05": 386543,
-  "2023-02-06": 387065,
-  "2023-02-07": 387570,
-  "2023-02-08": 388680,
-  "2023-02-09": 388680,
-  "2023-02-10": 389262,
-  "2023-02-11": 389909,
-  "2023-02-12": 390981,
-  "2023-02-13": 391417,
-  "2023-02-14": 391417,
-  "2023-02-15": 391885,
-  "2023-02-16": 392395,
-  "2023-02-17": 392941,
-  "2023-02-18": 394115,
-  "2023-02-19": 394223,
-  "2023-02-20": 394609,
-  "2023-02-21": 395026,
-  "2023-02-22": 395526,
-  "2023-02-23": 396065,
-  "2023-02-24": 396580,
-  "2023-02-25": 397385,
-  "2023-02-26": 397902,
-  "2023-02-27": 399042,
-  "2023-02-28": 399042,
-  "2023-03-01": 399584,
-  "2023-03-02": 400176,
-  "2023-03-03": 401110,
-  "2023-03-04": 402655,
-  "2023-03-05": 405055,
-  "2023-03-06": 405055,
-  "2023-03-07": 406015,
-  "2023-03-08": 406803,
-  "2023-03-09": 407731,
-  "2023-03-10": 408675,
-  "2023-03-11": 409757,
-  "2023-03-12": 410767,
-  "2023-03-13": 411608,
-  "2023-03-14": 412383,
-  "2023-03-15": 413195,
-  "2023-03-16": 413195,
-  "2023-03-17": 413195,
-  "2023-03-18": 415858,
-  "2023-03-19": 415858,
-  "2023-03-20": 417541,
-  "2023-03-21": 418385,
-  "2023-03-22": 419266,
-  "2023-03-23": 420247,
-  "2023-03-24": 420247,
-  "2023-03-25": 422226,
-  "2023-03-26": 423385,
-  "2023-03-27": 424482,
-  "2023-03-28": 425308,
-  "2023-03-29": 426187,
-  "2023-03-30": 427754,
-  "2023-03-31": 427754,
-  "2023-04-01": 428612,
-  "2023-04-02": 429445,
-  "2023-04-03": 430273,
-  "2023-04-04": 431100,
-  "2023-04-05": 431941,
-  "2023-04-06": 432792,
-  "2023-04-07": 433694,
-  "2023-04-09": 435447,
-  "2023-04-10": 436166,
-  "2023-04-11": 437635,
-  "2023-04-12": 437635,
-  "2023-04-13": 438438,
-  "2023-04-14": 439270,
-  "2023-04-15": 440136,
-  "2023-04-16": 440958,
-  "2023-04-17": 441658,
-  "2023-04-18": 442365,
-  "2023-04-19": 443069,
-  "2023-04-20": 443858,
-  "2023-04-21": 444652,
-  "2023-04-22": 445585,
-  "2023-04-23": 446400,
-  "2023-04-24": 447096,
-  "2023-04-25": 447746,
-  "2023-04-26": 448376,
-  "2023-04-27": 448976,
-  "2023-04-28": 449721,
-  "2023-04-29": 450526,
-  "2023-04-30": 451261,
-  "2023-05-01": 451961,
-  "2023-05-02": 452577,
-  "2023-05-03": 453162,
-  "2023-05-04": 453776,
-  "2023-05-05": 454402,
-  "2023-05-06": 455063,
-  "2023-05-07": 455731,
-  "2023-05-08": 456440,
-  "2023-05-09": 457048,
-  "2023-05-10": 457600,
-  "2023-05-11": 458193,
-  "2023-05-12": 458803,
-  "2023-05-13": 459509,
-  "2023-05-14": 460077,
-  "2023-05-15": 460663,
-  "2023-05-16": 461168,
-  "2023-05-17": 461691,
-  "2023-05-18": 462237,
-  "2023-05-19": 462847,
-  "2023-05-20": 464231,
-  "2023-05-21": 464231,
-  "2023-05-22": 464231,
-  "2023-05-23": 465435,
-  "2023-05-24": 466376,
-  "2023-05-25": 466556,
-  "2023-05-26": 467127,
-  "2023-05-27": 467823,
-  "2023-05-28": 468532,
-  "2023-05-29": 468532,
-  "2023-05-30": 469743,
-  "2023-05-31": 470308,
-  "2023-06-01": 470933,
-  "2023-06-02": 471515,
-  "2023-06-03": 472204,
-  "2023-06-04": 472894,
-  "2023-06-05": 473502,
-  "2023-06-06": 474076,
-  "2023-06-07": 474639,
-  "2023-06-08": 475205,
-  "2023-06-09": 475843,
-  "2023-06-10": 476499,
-  "2023-06-11": 477149,
-  "2023-06-12": 477803,
-  "2023-06-13": 478514,
-  "2023-06-14": 479032,
-  "2023-06-15": 479630,
-  "2023-06-16": 480217,
-  "2023-06-17": 480906,
-  "2023-06-18": 481588,
-  "2023-06-19": 482160,
-  "2023-06-20": 482728,
-  "2023-06-21": 483307,
-  "2023-06-22": 483901,
-  "2023-06-23": 484497,
-  "2023-06-24": 485195,
-  "2023-06-25": 485894,
-  "2023-06-26": 486532,
-  "2023-06-27": 487083,
-  "2023-06-28": 487681,
-  "2023-06-29": 488268,
-  "2023-06-30": 488913,
-  "2023-07-01": 490392,
-  "2023-07-02": 490392,
-  "2023-07-03": 490962,
-  "2023-07-04": 491574,
-  "2023-07-05": 492168,
-  "2023-07-06": 493350,
-  "2023-07-07": 493350,
-  "2023-07-08": 493350,
-  "2023-07-09": 494634,
-  "2023-07-10": 495255,
-  "2023-07-11": 495817,
-  "2023-07-12": 496321,
-  "2023-07-13": 496807,
-  "2023-07-14": 497391,
-  "2023-07-15": 497977,
-  "2023-07-16": 498740,
-  "2023-07-17": 499433,
-  "2023-07-18": 500027,
-  "2023-07-19": 500658,
-  "2023-07-20": 501234,
-  "2023-07-21": 501848,
-  "2023-07-22": 502551,
-  "2023-07-23": 503242,
-  "2023-07-24": 503862,
-  "2023-07-25": 504443,
-  "2023-07-26": 504941,
-  "2023-07-27": 505482,
-  "2023-07-28": 506070,
-  "2023-07-29": 506620,
-  "2023-07-30": 507189,
-  "2023-07-31": 507706,
-  "2023-08-01": 508184,
-  "2023-08-02": 508675,
-  "2023-08-03": 509166,
-  "2023-08-04": 509644,
-  "2023-08-05": 510232,
-  "2023-08-06": 511330,
-  "2023-08-07": 511330,
-  "2023-08-08": 511864,
-  "2023-08-09": 512334,
-  "2023-08-10": 512856,
-  "2023-08-11": 513388,
-  "2023-08-12": 513388,
-  "2023-08-13": 513388,
-  "2023-08-14": 515101,
-  "2023-08-15": 515101,
-  "2023-08-16": 515101,
-  "2023-08-17": 515101,
-  "2023-08-18": 515101,
-  "2023-08-19": 515101,
-  "2023-08-20": 518275,
-  "2023-08-21": 518275,
-  "2023-08-22": 519282,
-  "2023-08-23": 519282,
-  "2023-08-24": 519282,
-  "2023-08-25": 519282,
-  "2023-08-26": 521120,
-  "2023-08-27": 521120,
-  "2023-08-28": 522049,
-  "2023-08-29": 522049,
-  "2023-08-30": 522049,
-  "2023-08-31": 523200,
-  "2023-09-01": 523699,
-  "2023-09-02": 523699,
-  "2023-09-03": 523699,
-  "2023-09-04": 523699,
-  "2023-09-05": 523699,
-  "2023-09-06": 523699,
-  "2023-09-07": 523699,
-  "2023-09-08": 523699,
-  "2023-09-09": 523699,
-  "2023-09-10": 523699,
-  "2023-09-11": 523699,
-  "2023-09-12": 523699,
-  "2023-09-13": 523699,
-  "2023-09-14": 523699,
-  "2023-09-15": 523699,
-  "2023-09-16": 529843,
-  "2023-09-17": 529843,
-  "2023-09-18": 529843,
-  "2023-09-19": 530965,
-  "2023-09-20": 530965,
-  "2023-09-21": 530965,
-  "2023-09-22": 532074,
-  "2023-09-23": 532074,
-  "2023-09-24": 532074,
-  "2023-09-25": 532074,
-  "2023-09-26": 533742,
-  "2023-09-27": 533742,
-  "2023-09-28": 533742,
-  "2023-09-29": 533742,
-  "2023-09-30": 533742,
-  "2023-10-01": 533742,
-  "2023-10-02": 533742,
-  "2023-10-03": 533742,
-  "2023-10-04": 533742,
-  "2023-10-05": 533742,
-  "2023-10-06": 533742,
-  "2023-10-07": 533742,
-  "2023-10-08": 533742,
-  "2023-10-09": 533742,
-  "2023-10-10": 533742,
-  "2023-10-11": 539989,
-  "2023-10-12": 539989,
-  "2023-10-13": 539989,
-  "2023-10-14": 539989,
-  "2023-10-15": 539989,
-  "2023-10-16": 539989,
-  "2023-10-17": 539989,
-  "2023-10-18": 539989,
-  "2023-10-19": 539989,
-  "2023-10-20": 539989,
-  "2023-10-21": 539989,
-  "2023-10-22": 539989,
-  "2023-10-23": 539989,
-  "2023-10-24": 539989,
-  "2023-10-25": 539989,
-  "2023-10-26": 539989,
-  "2023-10-27": 539989,
-  "2023-10-28": 539989,
-  "2023-10-29": 539989,
-  "2023-10-30": 539989,
-  "2023-10-31": 539989,
-  "2023-11-01": 539989,
-  "2023-11-02": 539989,
-  "2023-11-03": 539989,
-  "2023-11-04": 539989,
-  "2023-11-05": 539989,
-  "2023-11-06": 539989,
-  "2023-11-07": 539989,
-  "2023-11-08": 539989,
-  "2023-11-09": 539989,
-  "2023-11-10": 539989,
-  "2023-11-11": 549399,
-  "2023-11-12": 549399,
-  "2023-11-13": 549399,
-  "2023-11-14": 549399,
-  "2023-11-15": 549399,
-  "2023-11-16": 549399,
-  "2023-11-17": 549399,
-  "2023-11-18": 549399,
-  "2023-11-19": 549399,
-  "2023-11-20": 549399,
-  "2023-11-21": 549399,
-  "2023-11-22": 549399,
-  "2023-11-23": 549399,
-  "2023-11-24": 549399,
-  "2023-11-25": 549399,
-  "2023-11-26": 549399,
-  "2023-11-27": 549399,
-  "2023-11-28": 549399,
-  "2023-11-29": 549399,
-  "2023-11-30": 549399,
-  "2023-12-01": 549399,
-  "2023-12-02": 549399,
-  "2023-12-03": 549399,
-  "2023-12-04": 549399,
-  "2023-12-05": 549399,
-  "2023-12-06": 549399,
-  "2023-12-07": 549399,
-  "2023-12-08": 549399,
-  "2023-12-09": 549399,
-  "2023-12-10": 549399,
-  "2023-12-11": 549399,
-  "2023-12-12": 549399,
-  "2023-12-13": 549399,
-  "2023-12-14": 558388,
-  "2023-12-15": 558567,
-  "2023-12-16": 558806,
-  "2023-12-17": 559030,
-  "2023-12-18": 559225,
-  "2023-12-19": 559393,
-  "2023-12-20": 559571,
-  "2023-12-21": 559777,
-  "2023-12-22": 560022,
-  "2023-12-23": 560304,
-  "2023-12-24": 560528,
-  "2023-12-25": 560723,
-  "2023-12-26": 560930,
-  "2023-12-27": 561160,
-  "2023-12-30": 561899,
-  "2023-12-31": 562115,
-  "2024-01-01": 562350,
-  "2024-01-02": 562597,
-  "2024-01-03": 562816
+  "2024-01-17": 566084,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
+  "name": "This Is Morgan Wallen",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 190680,
+      "name": "865",
+      "url": "https://open.spotify.com/track/0sKEilrw1GrBlG6qsTCrP4"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158003,
+      "name": "Ain\u2019t That Some",
+      "url": "https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX"
+    },
+    {
+      "album": {
+        "name": "American Nights",
+        "url": "https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 202266,
+      "name": "American Nights",
+      "url": "https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Bandaid On A Bullet Hole",
+      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 188523,
+      "name": "Born With A Beer In My Hand",
+      "url": "https://open.spotify.com/track/1BAU6v0fuAV914qMUEESR1"
+    },
+    {
+      "album": {
+        "name": "Broadway Girls (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+    },
+    {
+      "album": {
+        "name": "7220 (Reloaded)",
+        "url": "https://open.spotify.com/album/1ImQBMrMvxZZqwTnFSRvhT"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7qTaDOcld0VmBWXnkbUj45"
+    },
+    {
+      "album": {
+        "name": "Chain Smokin'",
+        "url": "https://open.spotify.com/album/1Ci07wKuqbEHE1j6Ff5jVX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 222133,
+      "name": "Chain Smokin'",
+      "url": "https://open.spotify.com/track/1PTQ22h4JKA2u6BTbuZ5Oc"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Cowgirls (feat. ERNEST)",
+      "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 162475,
+      "name": "Days That End In Why",
+      "url": "https://open.spotify.com/track/4tn5fOYDtxFldIMVOVcKkc"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 205182,
+      "name": "Devil Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2PsbT927UanvyH9VprlNOu"
+    },
+    {
+      "album": {
+        "name": "Don't Think Jesus",
+        "url": "https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 226975,
+      "name": "Don't Think Jesus",
+      "url": "https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Dying Man",
+      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
+    },
+    {
+      "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 187047,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/62L9AbfPmUm8gV578rxC51"
+    },
+    {
+      "album": {
+        "name": "FLOWER SHOPS (THE ALBUM)",
+        "url": "https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1"
+    },
+    {
+      "album": {
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
+    },
+    {
+      "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "He Went To Jared (HARDY feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Heartless (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+    },
+    {
+      "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 181766,
+      "name": "I Wrote The Book",
+      "url": "https://open.spotify.com/track/76FeKAU0A4dpFGrVSg2TX2"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 181766,
+      "name": "I Wrote The Book",
+      "url": "https://open.spotify.com/track/7phmBo7bB9I9YifAXqnlqV"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157693,
+      "name": "If I Know Me",
+      "url": "https://open.spotify.com/track/03d8S7FBY2kIzhP0E7l4rn"
+    },
+    {
+      "album": {
+        "name": "HIXTAPE Vol. 3: DIFFTAPE (Small Batch)",
+        "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267341,
+      "name": "John Deere Green (feat. Morgan Wallen & HARDY)",
+      "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+    },
+    {
+      "album": {
+        "name": "3 Songs At A Time Sampler",
+        "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "album": {
+        "name": "Livin\u2019 The Dream",
+        "url": "https://open.spotify.com/album/6HALwpatS8fPZ62DgZbttt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 239120,
+      "name": "Livin\u2019 The Dream",
+      "url": "https://open.spotify.com/track/2L4YgbxxwmwafMqLIjSx8q"
+    },
+    {
+      "album": {
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191231,
+      "name": "Man Made A Bar (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
+    },
+    {
+      "album": {
+        "name": "Stand Alone - EP",
+        "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 213348,
+      "name": "Man of the South",
+      "url": "https://open.spotify.com/track/2S1YzIHFyLxLop7XCdYrTp"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216573,
+      "name": "More Than My Hometown",
+      "url": "https://open.spotify.com/track/5OELUCYgOHKFAvCERnAvfS"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206864,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 206864,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Only Thing That\u2019s Gone (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0CfPMZ1DSdzglsMRpLDM2H"
+    },
+    {
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
+    },
+    {
+      "album": {
+        "name": "Stand Alone - EP",
+        "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 261641,
+      "name": "Sleep When We're Dead",
+      "url": "https://open.spotify.com/track/77Q8V48a8jGsghvaVNWMaP"
+    },
+    {
+      "album": {
+        "name": "Stand Alone - EP",
+        "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212850,
+      "name": "Spin You Around",
+      "url": "https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c"
+    },
+    {
+      "album": {
+        "name": "Stand Alone - EP",
+        "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 249754,
+      "name": "Stand Alone",
+      "url": "https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P"
+    },
+    {
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "Stand By Me (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
+    },
+    {
+      "album": {
+        "name": "Stand Out",
+        "url": "https://open.spotify.com/album/1Kj2VOGUUTdOoZRplfR2rL"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 194106,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/1obSAv22xGzYYrPWRcC4PD"
+    },
+    {
+      "album": {
+        "name": "Still Goin Down",
+        "url": "https://open.spotify.com/album/1pizuXyasoOyxRbQFfmQqa"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 186293,
+      "name": "Still Goin Down",
+      "url": "https://open.spotify.com/track/096YtKWNRXdmYKFLelSBto"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 182522,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0JtgoDDf0ggWaoXCGhcOoT"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/7szRiHu6r91o2Po9GTPN4c"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 198255,
+      "name": "Tennessee Fan",
+      "url": "https://open.spotify.com/track/3Ga7Uele3zN57vQ4F0HPTW"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177387,
+      "name": "Thinkin\u2019 Bout Me",
+      "url": "https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 185280,
+      "name": "This Bar",
+      "url": "https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 199946,
+      "name": "This Side Of A Dust Cloud",
+      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb"
+    },
+    {
+      "album": {
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+    },
+    {
+      "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Zakk Wylde",
+          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
+      "url": "https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/12ZPTkxy23YJSeMvKpY7iK"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 198120,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/1zQMvZU0A2De2oaYo3DLRE"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
+    },
+    {
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 205579,
+      "name": "Whiskey Friends",
+      "url": "https://open.spotify.com/track/2ewSCWOL7EAjgmgqfI1UlS"
+    },
+    {
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+    },
+    {
+      "album": {
+        "name": "Stand Alone - EP",
+        "url": "https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 207826,
+      "name": "Yin Yang Girl",
+      "url": "https://open.spotify.com/track/1jYHeWuwdAcaI7D97GTxF2"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW"
+    },
+    {
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 178704,
+      "name": "\u201998 Braves",
+      "url": "https://open.spotify.com/track/3oZ6dlSfCE9gZ55MGPJctc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zJOi2"
 }

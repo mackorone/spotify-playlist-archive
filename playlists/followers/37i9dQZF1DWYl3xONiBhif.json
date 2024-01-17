@@ -1,732 +1,2607 @@
 {
-  "2021-12-28": 154435,
-  "2021-12-29": 154567,
-  "2021-12-30": 154663,
-  "2021-12-31": 154796,
-  "2022-01-01": 155112,
-  "2022-01-02": 155165,
-  "2022-01-03": 155255,
-  "2022-01-04": 155398,
-  "2022-01-05": 155540,
-  "2022-01-06": 155741,
-  "2022-01-07": 155893,
-  "2022-01-08": 156189,
-  "2022-01-09": 156194,
-  "2022-01-10": 156327,
-  "2022-01-11": 156421,
-  "2022-01-12": 156515,
-  "2022-01-13": 156515,
-  "2022-01-14": 156515,
-  "2022-01-15": 156515,
-  "2022-01-16": 156515,
-  "2022-01-17": 156515,
-  "2022-01-18": 156515,
-  "2022-01-19": 156515,
-  "2022-01-20": 156515,
-  "2022-01-21": 156515,
-  "2022-01-22": 156515,
-  "2022-01-23": 156515,
-  "2022-01-24": 156515,
-  "2022-01-25": 156515,
-  "2022-01-26": 156515,
-  "2022-01-27": 156515,
-  "2022-01-28": 156515,
-  "2022-01-29": 156515,
-  "2022-01-30": 156515,
-  "2022-01-31": 156515,
-  "2022-02-01": 156515,
-  "2022-02-02": 156515,
-  "2022-02-03": 156515,
-  "2022-02-04": 156515,
-  "2022-02-05": 156515,
-  "2022-02-06": 156515,
-  "2022-02-07": 156515,
-  "2022-02-08": 156515,
-  "2022-02-09": 156515,
-  "2022-02-10": 156515,
-  "2022-02-11": 156515,
-  "2022-02-12": 156515,
-  "2022-02-13": 156515,
-  "2022-02-14": 156515,
-  "2022-02-15": 156515,
-  "2022-02-16": 156515,
-  "2022-02-17": 156515,
-  "2022-02-18": 156515,
-  "2022-02-19": 156515,
-  "2022-02-20": 156515,
-  "2022-02-21": 156515,
-  "2022-02-22": 156515,
-  "2022-02-23": 156515,
-  "2022-02-24": 156515,
-  "2022-02-25": 156515,
-  "2022-02-26": 156515,
-  "2022-02-27": 156515,
-  "2022-02-28": 156515,
-  "2022-03-01": 156515,
-  "2022-03-02": 156515,
-  "2022-03-03": 156515,
-  "2022-03-04": 156515,
-  "2022-03-05": 156515,
-  "2022-03-06": 156515,
-  "2022-03-07": 156515,
-  "2022-03-08": 156515,
-  "2022-03-09": 156515,
-  "2022-03-10": 156515,
-  "2022-03-11": 156515,
-  "2022-03-12": 156515,
-  "2022-03-13": 156515,
-  "2022-03-14": 156515,
-  "2022-03-15": 156515,
-  "2022-03-16": 156515,
-  "2022-03-17": 156515,
-  "2022-03-18": 156515,
-  "2022-03-19": 156515,
-  "2022-03-20": 156515,
-  "2022-03-21": 156515,
-  "2022-03-22": 156515,
-  "2022-03-23": 156515,
-  "2022-03-24": 156515,
-  "2022-03-25": 156515,
-  "2022-03-26": 156515,
-  "2022-03-27": 156515,
-  "2022-03-28": 156515,
-  "2022-03-30": 156515,
-  "2022-03-31": 156515,
-  "2022-04-01": 156515,
-  "2022-04-02": 156515,
-  "2022-04-03": 156515,
-  "2022-04-04": 156515,
-  "2022-04-05": 156515,
-  "2022-04-06": 156515,
-  "2022-04-07": 156515,
-  "2022-04-08": 156515,
-  "2022-04-09": 156515,
-  "2022-04-10": 156515,
-  "2022-04-11": 156515,
-  "2022-04-12": 156515,
-  "2022-04-13": 156515,
-  "2022-04-14": 156515,
-  "2022-04-15": 156515,
-  "2022-04-16": 156515,
-  "2022-04-17": 156515,
-  "2022-04-18": 156515,
-  "2022-04-19": 156515,
-  "2022-04-20": 156515,
-  "2022-04-21": 156515,
-  "2022-04-22": 156515,
-  "2022-04-23": 156515,
-  "2022-04-24": 156515,
-  "2022-04-25": 156515,
-  "2022-04-26": 156515,
-  "2022-04-27": 156515,
-  "2022-04-28": 156515,
-  "2022-04-29": 156515,
-  "2022-04-30": 156515,
-  "2022-05-01": 156515,
-  "2022-05-02": 156515,
-  "2022-05-03": 156515,
-  "2022-05-04": 156515,
-  "2022-05-05": 156515,
-  "2022-05-06": 156515,
-  "2022-05-07": 156515,
-  "2022-05-08": 156515,
-  "2022-05-09": 156515,
-  "2022-05-10": 156515,
-  "2022-05-11": 156515,
-  "2022-05-12": 156515,
-  "2022-05-13": 156515,
-  "2022-05-14": 156515,
-  "2022-05-15": 156515,
-  "2022-05-16": 156515,
-  "2022-05-17": 156515,
-  "2022-05-18": 156515,
-  "2022-05-19": 156515,
-  "2022-05-20": 156515,
-  "2022-05-21": 156515,
-  "2022-05-22": 156515,
-  "2022-05-23": 156515,
-  "2022-05-24": 156515,
-  "2022-05-25": 156515,
-  "2022-05-26": 156515,
-  "2022-05-27": 156515,
-  "2022-05-28": 156515,
-  "2022-05-29": 156515,
-  "2022-05-30": 156515,
-  "2022-05-31": 156515,
-  "2022-06-01": 156515,
-  "2022-06-02": 156515,
-  "2022-06-03": 156515,
-  "2022-06-04": 156515,
-  "2022-06-05": 156515,
-  "2022-06-06": 156515,
-  "2022-06-07": 156515,
-  "2022-06-08": 156515,
-  "2022-06-09": 156515,
-  "2022-06-10": 156515,
-  "2022-06-11": 156515,
-  "2022-06-12": 156515,
-  "2022-06-13": 156515,
-  "2022-06-14": 156515,
-  "2022-06-15": 156515,
-  "2022-06-16": 156515,
-  "2022-06-17": 156515,
-  "2022-06-18": 156515,
-  "2022-06-19": 156515,
-  "2022-06-20": 156515,
-  "2022-06-21": 156515,
-  "2022-06-22": 156515,
-  "2022-06-23": 156515,
-  "2022-06-24": 156515,
-  "2022-06-25": 156515,
-  "2022-06-26": 156515,
-  "2022-06-27": 156515,
-  "2022-06-28": 156515,
-  "2022-06-29": 156515,
-  "2022-06-30": 156515,
-  "2022-07-01": 156515,
-  "2022-07-02": 156515,
-  "2022-07-03": 156515,
-  "2022-07-04": 156515,
-  "2022-07-05": 156515,
-  "2022-07-06": 156515,
-  "2022-07-07": 156515,
-  "2022-07-08": 156515,
-  "2022-07-09": 156515,
-  "2022-07-10": 156515,
-  "2022-07-11": 156515,
-  "2022-07-12": 156515,
-  "2022-07-13": 156515,
-  "2022-07-14": 156515,
-  "2022-07-15": 156515,
-  "2022-07-16": 156515,
-  "2022-07-17": 156515,
-  "2022-07-18": 156515,
-  "2022-07-19": 156515,
-  "2022-07-20": 156515,
-  "2022-07-21": 156515,
-  "2022-07-22": 156515,
-  "2022-07-23": 156515,
-  "2022-07-24": 156515,
-  "2022-07-25": 156515,
-  "2022-07-26": 156515,
-  "2022-07-27": 156515,
-  "2022-07-28": 156515,
-  "2022-07-29": 156515,
-  "2022-07-30": 156515,
-  "2022-07-31": 156515,
-  "2022-08-01": 156515,
-  "2022-08-02": 156515,
-  "2022-08-03": 156515,
-  "2022-08-04": 156515,
-  "2022-08-05": 156515,
-  "2022-08-06": 156515,
-  "2022-08-07": 156515,
-  "2022-08-08": 156515,
-  "2022-08-09": 156515,
-  "2022-08-10": 156515,
-  "2022-08-11": 156515,
-  "2022-08-12": 156515,
-  "2022-08-13": 156515,
-  "2022-08-14": 156515,
-  "2022-08-15": 156515,
-  "2022-08-16": 156515,
-  "2022-08-17": 156515,
-  "2022-08-18": 156515,
-  "2022-08-19": 156515,
-  "2022-08-20": 156515,
-  "2022-08-21": 156515,
-  "2022-08-22": 156515,
-  "2022-08-23": 156515,
-  "2022-08-24": 156515,
-  "2022-08-25": 156515,
-  "2022-08-26": 156515,
-  "2022-08-27": 156515,
-  "2022-08-28": 156515,
-  "2022-08-29": 156515,
-  "2022-08-30": 156515,
-  "2022-08-31": 156515,
-  "2022-09-01": 156515,
-  "2022-09-02": 156515,
-  "2022-09-03": 156515,
-  "2022-09-04": 156515,
-  "2022-09-05": 156515,
-  "2022-09-06": 156515,
-  "2022-09-07": 156515,
-  "2022-09-09": 156515,
-  "2022-09-10": 156515,
-  "2022-09-11": 156515,
-  "2022-09-12": 156515,
-  "2022-09-13": 156515,
-  "2022-09-15": 156515,
-  "2022-09-16": 156515,
-  "2022-09-17": 156515,
-  "2022-09-18": 156515,
-  "2022-09-19": 156515,
-  "2022-09-20": 156515,
-  "2022-09-21": 156515,
-  "2022-09-22": 156515,
-  "2022-09-23": 156515,
-  "2022-09-24": 156515,
-  "2022-09-25": 156515,
-  "2022-09-26": 156515,
-  "2022-09-27": 156515,
-  "2022-09-28": 156515,
-  "2022-09-29": 156515,
-  "2022-09-30": 156515,
-  "2022-10-01": 156515,
-  "2022-10-02": 156515,
-  "2022-10-03": 156515,
-  "2022-10-04": 156515,
-  "2022-10-05": 156515,
-  "2022-10-06": 156515,
-  "2022-10-07": 156515,
-  "2022-10-08": 156515,
-  "2022-10-09": 156515,
-  "2022-10-10": 156515,
-  "2022-10-11": 156515,
-  "2022-10-12": 156515,
-  "2022-10-13": 156515,
-  "2022-10-14": 156515,
-  "2022-10-15": 156515,
-  "2022-10-16": 156515,
-  "2022-10-17": 156515,
-  "2022-10-18": 156515,
-  "2022-10-19": 156515,
-  "2022-10-20": 156515,
-  "2022-10-21": 156515,
-  "2022-10-22": 156515,
-  "2022-10-23": 156515,
-  "2022-10-24": 156515,
-  "2022-10-25": 156515,
-  "2022-10-26": 156515,
-  "2022-10-27": 156515,
-  "2022-10-28": 156515,
-  "2022-10-29": 156515,
-  "2022-10-30": 156515,
-  "2022-10-31": 156515,
-  "2022-11-01": 156515,
-  "2022-11-02": 156515,
-  "2022-11-03": 156515,
-  "2022-11-04": 156515,
-  "2022-11-05": 156515,
-  "2022-11-06": 156515,
-  "2022-11-07": 156515,
-  "2022-11-08": 156515,
-  "2022-11-09": 156515,
-  "2022-11-10": 156515,
-  "2022-11-11": 156515,
-  "2022-11-12": 156515,
-  "2022-11-13": 156515,
-  "2022-11-14": 156515,
-  "2022-11-15": 156515,
-  "2022-11-16": 156515,
-  "2022-11-17": 156515,
-  "2022-11-18": 156515,
-  "2022-11-19": 156515,
-  "2022-11-20": 156515,
-  "2022-11-21": 156515,
-  "2022-11-22": 156515,
-  "2022-11-23": 156515,
-  "2022-11-24": 156515,
-  "2022-11-25": 156515,
-  "2022-11-26": 156515,
-  "2022-11-27": 156515,
-  "2022-11-28": 156515,
-  "2022-11-29": 156515,
-  "2022-11-30": 156515,
-  "2022-12-01": 156515,
-  "2022-12-02": 156515,
-  "2022-12-03": 156515,
-  "2022-12-04": 156515,
-  "2022-12-05": 156515,
-  "2022-12-06": 156515,
-  "2022-12-07": 156515,
-  "2022-12-08": 156515,
-  "2022-12-09": 156515,
-  "2022-12-10": 156515,
-  "2022-12-11": 156515,
-  "2022-12-12": 156515,
-  "2022-12-13": 156515,
-  "2022-12-14": 156515,
-  "2022-12-15": 156515,
-  "2022-12-16": 156515,
-  "2022-12-17": 156515,
-  "2022-12-18": 156515,
-  "2022-12-19": 156515,
-  "2022-12-20": 156515,
-  "2022-12-21": 156515,
-  "2022-12-22": 156515,
-  "2022-12-24": 156515,
-  "2022-12-25": 156515,
-  "2022-12-26": 156515,
-  "2022-12-27": 156515,
-  "2022-12-28": 156515,
-  "2022-12-29": 156515,
-  "2022-12-30": 156515,
-  "2022-12-31": 156515,
-  "2023-01-01": 156515,
-  "2023-01-02": 156515,
-  "2023-01-03": 156515,
-  "2023-01-04": 156515,
-  "2023-01-05": 156515,
-  "2023-01-06": 156515,
-  "2023-01-07": 156515,
-  "2023-01-08": 156515,
-  "2023-01-09": 156515,
-  "2023-01-10": 156515,
-  "2023-01-11": 156515,
-  "2023-01-12": 156515,
-  "2023-01-13": 156515,
-  "2023-01-14": 156515,
-  "2023-01-15": 156515,
-  "2023-01-16": 156515,
-  "2023-01-17": 156515,
-  "2023-01-18": 156515,
-  "2023-01-19": 156515,
-  "2023-01-20": 156515,
-  "2023-01-21": 156515,
-  "2023-01-22": 156515,
-  "2023-01-23": 156515,
-  "2023-01-24": 156515,
-  "2023-01-25": 156515,
-  "2023-01-26": 156515,
-  "2023-01-27": 156515,
-  "2023-01-28": 156515,
-  "2023-01-29": 156515,
-  "2023-01-30": 156515,
-  "2023-01-31": 156515,
-  "2023-02-01": 156515,
-  "2023-02-02": 156515,
-  "2023-02-03": 156515,
-  "2023-02-04": 156515,
-  "2023-02-05": 156515,
-  "2023-02-06": 156515,
-  "2023-02-07": 156515,
-  "2023-02-08": 156515,
-  "2023-02-09": 156515,
-  "2023-02-10": 156515,
-  "2023-02-11": 156515,
-  "2023-02-12": 156515,
-  "2023-02-13": 156515,
-  "2023-02-14": 156515,
-  "2023-02-15": 156515,
-  "2023-02-16": 156515,
-  "2023-02-17": 156515,
-  "2023-02-18": 156515,
-  "2023-02-19": 156515,
-  "2023-02-20": 156515,
-  "2023-02-21": 156515,
-  "2023-02-22": 156515,
-  "2023-02-23": 156515,
-  "2023-02-24": 156515,
-  "2023-02-25": 156515,
-  "2023-02-26": 156515,
-  "2023-02-27": 156515,
-  "2023-02-28": 156515,
-  "2023-03-01": 156515,
-  "2023-03-02": 156515,
-  "2023-03-03": 156515,
-  "2023-03-04": 156515,
-  "2023-03-05": 156515,
-  "2023-03-06": 156515,
-  "2023-03-07": 156515,
-  "2023-03-08": 156515,
-  "2023-03-09": 156515,
-  "2023-03-10": 156515,
-  "2023-03-11": 156515,
-  "2023-03-12": 156515,
-  "2023-03-13": 156515,
-  "2023-03-14": 156515,
-  "2023-03-15": 156515,
-  "2023-03-16": 156515,
-  "2023-03-17": 156515,
-  "2023-03-18": 156515,
-  "2023-03-19": 156515,
-  "2023-03-20": 156515,
-  "2023-03-21": 156515,
-  "2023-03-22": 156515,
-  "2023-03-23": 156515,
-  "2023-03-24": 156515,
-  "2023-03-25": 156515,
-  "2023-03-26": 156515,
-  "2023-03-27": 156515,
-  "2023-03-28": 156515,
-  "2023-03-29": 156515,
-  "2023-03-30": 156515,
-  "2023-03-31": 156515,
-  "2023-04-01": 156515,
-  "2023-04-02": 156515,
-  "2023-04-03": 156515,
-  "2023-04-04": 156515,
-  "2023-04-05": 156515,
-  "2023-04-06": 156515,
-  "2023-04-07": 156515,
-  "2023-04-09": 156515,
-  "2023-04-10": 156515,
-  "2023-04-11": 156515,
-  "2023-04-12": 156515,
-  "2023-04-13": 156515,
-  "2023-04-14": 156515,
-  "2023-04-15": 156515,
-  "2023-04-16": 156515,
-  "2023-04-17": 156515,
-  "2023-04-18": 156515,
-  "2023-04-19": 156515,
-  "2023-04-20": 156515,
-  "2023-04-21": 156515,
-  "2023-04-22": 156515,
-  "2023-04-23": 156515,
-  "2023-04-24": 156515,
-  "2023-04-25": 156515,
-  "2023-04-26": 156515,
-  "2023-04-27": 156515,
-  "2023-04-28": 156515,
-  "2023-04-29": 156515,
-  "2023-04-30": 156515,
-  "2023-05-01": 156515,
-  "2023-05-02": 156515,
-  "2023-05-03": 156515,
-  "2023-05-04": 156515,
-  "2023-05-05": 156515,
-  "2023-05-06": 156515,
-  "2023-05-07": 156515,
-  "2023-05-08": 156515,
-  "2023-05-09": 156515,
-  "2023-05-10": 156515,
-  "2023-05-11": 156515,
-  "2023-05-12": 156515,
-  "2023-05-13": 156515,
-  "2023-05-14": 156515,
-  "2023-05-15": 156515,
-  "2023-05-16": 156515,
-  "2023-05-17": 156515,
-  "2023-05-18": 156515,
-  "2023-05-19": 156515,
-  "2023-05-20": 156515,
-  "2023-05-21": 156515,
-  "2023-05-22": 156515,
-  "2023-05-23": 156515,
-  "2023-05-24": 156515,
-  "2023-05-25": 156515,
-  "2023-05-26": 156515,
-  "2023-05-27": 156515,
-  "2023-05-28": 156515,
-  "2023-05-29": 156515,
-  "2023-05-30": 156515,
-  "2023-05-31": 156515,
-  "2023-06-01": 156515,
-  "2023-06-02": 156515,
-  "2023-06-03": 156515,
-  "2023-06-04": 156515,
-  "2023-06-05": 156515,
-  "2023-06-06": 156515,
-  "2023-06-07": 156515,
-  "2023-06-08": 156515,
-  "2023-06-09": 156515,
-  "2023-06-10": 156515,
-  "2023-06-11": 156515,
-  "2023-06-12": 156515,
-  "2023-06-13": 156515,
-  "2023-06-14": 156515,
-  "2023-06-15": 156515,
-  "2023-06-16": 156515,
-  "2023-06-17": 156515,
-  "2023-06-18": 156515,
-  "2023-06-19": 156515,
-  "2023-06-20": 156515,
-  "2023-06-21": 156515,
-  "2023-06-22": 156515,
-  "2023-06-23": 156515,
-  "2023-06-24": 156515,
-  "2023-06-25": 156515,
-  "2023-06-26": 156515,
-  "2023-06-27": 156515,
-  "2023-06-28": 156515,
-  "2023-06-29": 156515,
-  "2023-06-30": 156515,
-  "2023-07-01": 156515,
-  "2023-07-02": 156515,
-  "2023-07-03": 156515,
-  "2023-07-04": 156515,
-  "2023-07-05": 156515,
-  "2023-07-06": 156515,
-  "2023-07-07": 156515,
-  "2023-07-08": 156515,
-  "2023-07-09": 156515,
-  "2023-07-10": 156515,
-  "2023-07-11": 156515,
-  "2023-07-12": 156515,
-  "2023-07-13": 156515,
-  "2023-07-14": 156515,
-  "2023-07-15": 156515,
-  "2023-07-16": 156515,
-  "2023-07-17": 156515,
-  "2023-07-18": 156515,
-  "2023-07-19": 156515,
-  "2023-07-20": 156515,
-  "2023-07-21": 156515,
-  "2023-07-22": 156515,
-  "2023-07-23": 156515,
-  "2023-07-24": 156515,
-  "2023-07-25": 156515,
-  "2023-07-26": 156515,
-  "2023-07-27": 156515,
-  "2023-07-28": 156515,
-  "2023-07-29": 156515,
-  "2023-07-30": 156515,
-  "2023-07-31": 156515,
-  "2023-08-01": 156515,
-  "2023-08-02": 156515,
-  "2023-08-03": 156515,
-  "2023-08-04": 156515,
-  "2023-08-05": 156515,
-  "2023-08-06": 156515,
-  "2023-08-07": 156515,
-  "2023-08-08": 156515,
-  "2023-08-09": 156515,
-  "2023-08-10": 156515,
-  "2023-08-11": 156515,
-  "2023-08-12": 156515,
-  "2023-08-13": 156515,
-  "2023-08-14": 156515,
-  "2023-08-15": 156515,
-  "2023-08-16": 156515,
-  "2023-08-17": 156515,
-  "2023-08-18": 156515,
-  "2023-08-19": 156515,
-  "2023-08-20": 156515,
-  "2023-08-21": 156515,
-  "2023-08-22": 156515,
-  "2023-08-23": 156515,
-  "2023-08-24": 156515,
-  "2023-08-25": 156515,
-  "2023-08-26": 156515,
-  "2023-08-27": 156515,
-  "2023-08-28": 156515,
-  "2023-08-29": 156515,
-  "2023-08-30": 156515,
-  "2023-08-31": 156515,
-  "2023-09-01": 156515,
-  "2023-09-02": 156515,
-  "2023-09-03": 156515,
-  "2023-09-04": 156515,
-  "2023-09-05": 156515,
-  "2023-09-06": 156515,
-  "2023-09-07": 156515,
-  "2023-09-08": 156515,
-  "2023-09-09": 156515,
-  "2023-09-10": 156515,
-  "2023-09-11": 156515,
-  "2023-09-12": 156515,
-  "2023-09-13": 156515,
-  "2023-09-14": 156515,
-  "2023-09-15": 156515,
-  "2023-09-16": 156515,
-  "2023-09-17": 156515,
-  "2023-09-18": 156515,
-  "2023-09-19": 156515,
-  "2023-09-20": 156515,
-  "2023-09-21": 156515,
-  "2023-09-22": 156515,
-  "2023-09-23": 156515,
-  "2023-09-24": 156515,
-  "2023-09-25": 156515,
-  "2023-09-26": 156515,
-  "2023-09-27": 156515,
-  "2023-09-28": 156515,
-  "2023-09-29": 156515,
-  "2023-09-30": 156515,
-  "2023-10-01": 156515,
-  "2023-10-02": 156515,
-  "2023-10-03": 156515,
-  "2023-10-04": 156515,
-  "2023-10-05": 156515,
-  "2023-10-06": 156515,
-  "2023-10-07": 156515,
-  "2023-10-08": 156515,
-  "2023-10-09": 156515,
-  "2023-10-10": 156515,
-  "2023-10-11": 156515,
-  "2023-10-12": 156515,
-  "2023-10-13": 156515,
-  "2023-10-14": 156515,
-  "2023-10-15": 156515,
-  "2023-10-16": 156515,
-  "2023-10-17": 156515,
-  "2023-10-18": 156515,
-  "2023-10-19": 156515,
-  "2023-10-20": 156515,
-  "2023-10-21": 156515,
-  "2023-10-22": 156515,
-  "2023-10-23": 156515,
-  "2023-10-24": 156515,
-  "2023-10-25": 156515,
-  "2023-10-26": 156515,
-  "2023-10-27": 156515,
-  "2023-10-28": 156515,
-  "2023-10-29": 156515,
-  "2023-10-30": 156515,
-  "2023-10-31": 156515,
-  "2023-11-01": 156515,
-  "2023-11-02": 156515,
-  "2023-11-03": 156515,
-  "2023-11-04": 156515,
-  "2023-11-05": 156515,
-  "2023-11-06": 156515,
-  "2023-11-07": 156515,
-  "2023-11-08": 156515,
-  "2023-11-09": 156515,
-  "2023-11-10": 156515,
-  "2023-11-11": 156515,
-  "2023-11-12": 156515,
-  "2023-11-13": 156515,
-  "2023-11-14": 156515,
-  "2023-11-15": 156515,
-  "2023-11-16": 156515,
-  "2023-11-17": 156515,
-  "2023-11-18": 156515,
-  "2023-11-19": 156515,
-  "2023-11-20": 156515,
-  "2023-11-21": 156515,
-  "2023-11-22": 156515,
-  "2023-11-23": 156515,
-  "2023-11-24": 156515,
-  "2023-11-25": 156515,
-  "2023-11-26": 156515,
-  "2023-11-27": 156515,
-  "2023-11-28": 156515,
-  "2023-11-29": 156515,
-  "2023-11-30": 156515,
-  "2023-12-01": 156515,
-  "2023-12-02": 156515,
-  "2023-12-03": 156515,
-  "2023-12-04": 156515,
-  "2023-12-05": 156515,
-  "2023-12-06": 156515,
-  "2023-12-07": 156515,
-  "2023-12-08": 156515,
-  "2023-12-09": 156515,
-  "2023-12-10": 156515,
-  "2023-12-11": 156515,
-  "2023-12-12": 156515,
-  "2023-12-13": 156515,
-  "2023-12-14": 156515,
-  "2023-12-15": 156515,
-  "2023-12-16": 156515,
-  "2023-12-17": 156515,
-  "2023-12-18": 156515,
-  "2023-12-19": 156515,
-  "2023-12-20": 156515,
-  "2023-12-21": 156515,
-  "2023-12-22": 156515,
-  "2023-12-23": 156515,
-  "2023-12-24": 156515,
-  "2023-12-25": 156515,
-  "2023-12-26": 156515,
-  "2023-12-27": 156515,
-  "2023-12-30": 156515,
-  "2023-12-31": 156515,
-  "2024-01-01": 156515,
-  "2024-01-02": 156515,
-  "2024-01-03": 156515
+  "2024-01-17": 156515,
+  "date_first_scraped": "2021-12-28",
+  "description": "Todo lo nuevo y lo esencial de El Alfa.",
+  "name": "This Is El Alfa",
+  "tracks": [
+    {
+      "album": {
+        "name": "4K",
+        "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "4K",
+      "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "A Caco Pelao",
+      "url": "https://open.spotify.com/track/6OjgtPe2y5cPtXbSQoIgGW"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176254,
+      "name": "A Correr los Lakers",
+      "url": "https://open.spotify.com/track/1i14jDizhAPxpfZRxAOtnc"
+    },
+    {
+      "album": {
+        "name": "A Correr los Lakers (Remix)",
+        "url": "https://open.spotify.com/album/7Acd73tdwlxK04hIx8obfa"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347264,
+      "name": "A Correr los Lakers (Remix)",
+      "url": "https://open.spotify.com/track/29KkQi7wKF6IdOjwU8infb"
+    },
+    {
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/5zU2SQAOUTmQvRm6O1Gs3X"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154581,
+      "name": "Abofetiao",
+      "url": "https://open.spotify.com/track/0H7dV7zV2Cgi9TNwq1GZGE"
+    },
+    {
+      "album": {
+        "name": "Abuso",
+        "url": "https://open.spotify.com/album/1qZvtHEGyUjYSzDDgDU8CJ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "Abuso",
+      "url": "https://open.spotify.com/track/0hrCAW23TSWA2LQlaIekjX"
+    },
+    {
+      "album": {
+        "name": "Acuetate",
+        "url": "https://open.spotify.com/album/2yzn76Jz0OhnP5VqwRb426"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Capitan Aloo",
+          "url": "https://open.spotify.com/artist/6wR3Uihi08MTiX5QGK5d7k"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Acuetate",
+      "url": "https://open.spotify.com/track/028MkfDdEe6uyIkuJVj0cb"
+    },
+    {
+      "album": {
+        "name": "Arrebatao",
+        "url": "https://open.spotify.com/album/6e5ASvmKNtNVXzxtNgx6Xx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171355,
+      "name": "Arrebatao",
+      "url": "https://open.spotify.com/track/5rm5rdDxzqSY2JjK7cAUhc"
+    },
+    {
+      "album": {
+        "name": "badwine (Extended Remix)",
+        "url": "https://open.spotify.com/album/33rFXfv76EqEnR1N3qtJW7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "badwine - Extended Remix",
+      "url": "https://open.spotify.com/track/44DCGBt8P6iZPd0RRsZiMw"
+    },
+    {
+      "album": {
+        "name": "Banda De Cami\u00f3n (Remix) [feat. Farruko, De La Ghetto, Bryant Myers, Zion, Noriel & Villano Sam]",
+        "url": "https://open.spotify.com/album/5wd4IHMrJCnZqFxmOwX05s"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Villanosam",
+          "url": "https://open.spotify.com/artist/4y9i0THzpXUR3gdaeHNME1"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357053,
+      "name": "Banda De Cami\u00f3n (Remix) [feat. Farruko, De La Ghetto, Bryant Myers, Zion, Noriel & Villano Sam]",
+      "url": "https://open.spotify.com/track/7jpUBLaFhqzu6Wy4Ud3v93"
+    },
+    {
+      "album": {
+        "name": "Bebida Hookah Party",
+        "url": "https://open.spotify.com/album/4q263nHiUhb8azYHegUKtq"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Bebida Hookah Party",
+      "url": "https://open.spotify.com/track/2UWBxYXPZa5j90pazGkEL1"
+    },
+    {
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
+    },
+    {
+      "album": {
+        "name": "Botando Chispa - Single",
+        "url": "https://open.spotify.com/album/0XGxcBhGVsS0aKDTNkMWv0"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "Botando Chispa",
+      "url": "https://open.spotify.com/track/4PCFtVbqfSOfOJ5o5PJtl6"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos",
+        "url": "https://open.spotify.com/album/4mDjlwLI6EL6dP2f7qNxYg"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Cacao",
+      "url": "https://open.spotify.com/track/66pasDZqv03zKaxEvaM06B"
+    },
+    {
+      "album": {
+        "name": "Caso Bugatti",
+        "url": "https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197540,
+      "name": "Caso Bugatti",
+      "url": "https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Chapon",
+      "url": "https://open.spotify.com/track/5hblKZHcaEfEjbnLHsWxy8"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5uZUBnJDzBQAonZTM8PMLc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Como Yo Me Muevo",
+      "url": "https://open.spotify.com/track/4apCtWKV39QyY7HUM6CTjY"
+    },
+    {
+      "album": {
+        "name": "Con Silenciador",
+        "url": "https://open.spotify.com/album/6SrUzC5JnlKBSs5CUrXhDU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174827,
+      "name": "Con Silenciador",
+      "url": "https://open.spotify.com/track/38QUqCz132DT89ej2Jro1s"
+    },
+    {
+      "album": {
+        "name": "Coronao Now",
+        "url": "https://open.spotify.com/album/5VVkOFYXmjtYd6hoasaWKQ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217881,
+      "name": "Coronao Now",
+      "url": "https://open.spotify.com/track/7FbKipScVxkjQxQXwTd0gL"
+    },
+    {
+      "album": {
+        "name": "Coronao Now (Remix)",
+        "url": "https://open.spotify.com/album/1xa9UULO7qcENdAkmUzAZP"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Vin Diesel",
+          "url": "https://open.spotify.com/artist/3dtkct6MUrKfxCUWLgnGAD"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250169,
+      "name": "Coronao Now (Remix)",
+      "url": "https://open.spotify.com/track/047WmwIeerHyIUstFAEz5A"
+    },
+    {
+      "album": {
+        "name": "Curazao",
+        "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239577,
+      "name": "Curazao",
+      "url": "https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Demaga Ge Gi Go Gu",
+      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
+    },
+    {
+      "album": {
+        "name": "Dembow y Reggaeton",
+        "url": "https://open.spotify.com/album/1t8Ejb6IGicAvFSaMFUMBg"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Dembow y Reggaeton",
+      "url": "https://open.spotify.com/track/1U3CZqgtekCchvUXV6o9l1"
+    },
+    {
+      "album": {
+        "name": "Donde Estan",
+        "url": "https://open.spotify.com/album/7zXj9DTiFulLH4Ynjg3CPf"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189522,
+      "name": "Donde Estan",
+      "url": "https://open.spotify.com/track/1StjQHjCyI6xmC0Mihqmkl"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "El Due\u00f1o del Bizcocho",
+      "url": "https://open.spotify.com/track/2FNQm9fm9WhGlOzuRdTEhB"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "El Lobo de Wall Street",
+      "url": "https://open.spotify.com/track/60v6ddnvl0UEeVHGxPHsoI"
+    },
+    {
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/5zU2SQAOUTmQvRm6O1Gs3X"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "En una Caja de Muerto",
+      "url": "https://open.spotify.com/track/3pfYos3Izt62V2aWTgJ8jC"
+    },
+    {
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/5zU2SQAOUTmQvRm6O1Gs3X"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165718,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/4w7XiqzLIZzpbx0hbx0UZg"
+    },
+    {
+      "album": {
+        "name": "FEKA",
+        "url": "https://open.spotify.com/album/3Bo71imwMfIPpgN6QLMTtr"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "FEKA",
+      "url": "https://open.spotify.com/track/2vX3rTKKQCK4a86PKINYw6"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5uZUBnJDzBQAonZTM8PMLc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Fuin Fuan",
+      "url": "https://open.spotify.com/track/5SKRLHHocMdzb3vQQGwNri"
+    },
+    {
+      "album": {
+        "name": "Fulanito",
+        "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158531,
+      "name": "Fulanito",
+      "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
+    },
+    {
+      "album": {
+        "name": "GOTA GOTA",
+        "url": "https://open.spotify.com/album/2ua6Bo808O7PYttNeBNYD1"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "GOTA GOTA",
+      "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151518,
+      "name": "Guaremate de por Vida",
+      "url": "https://open.spotify.com/track/7tZ3d59BG8yFc5P68R5XXk"
+    },
+    {
+      "album": {
+        "name": "Gustoso - Single",
+        "url": "https://open.spotify.com/album/4YIu5MSgFym3Q8ipP8yq9s"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "Gustoso",
+      "url": "https://open.spotify.com/track/0y13EBpE8DLcuLg8aZsCLq"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Bethoven Villaman",
+          "url": "https://open.spotify.com/artist/12hOsHuAjZNBhQl2Tawwuf"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Hablamos Nunca",
+      "url": "https://open.spotify.com/track/6RZml1KyHkEaCSV7VaeQHY"
+    },
+    {
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/6SvaUC7HWHLhNndUbiwUv3"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/0a41S6Hf3njfUbQTZyxWDq"
+    },
+    {
+      "album": {
+        "name": "Jalape\u00f1o",
+        "url": "https://open.spotify.com/album/1gKw6JjsG3cBe6lmE07IhP"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Doble T & El Crok",
+          "url": "https://open.spotify.com/artist/3Anf3i96TXH6hfimL1F6MY"
+        },
+        {
+          "name": "El Jefe",
+          "url": "https://open.spotify.com/artist/4GtHkn283Y8BxxevOgFTb9"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184033,
+      "name": "Jalape\u00f1o",
+      "url": "https://open.spotify.com/track/6nce2UZqXMmjqGaS3ifK1k"
+    },
+    {
+      "album": {
+        "name": "Jarabito",
+        "url": "https://open.spotify.com/album/2HTiDtOTtg9Ri1qPeoB0ud"
+      },
+      "artists": [
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Jarabito",
+      "url": "https://open.spotify.com/track/7y509djdQxE44sohaOcmxQ"
+    },
+    {
+      "album": {
+        "name": "La Mam\u00e1 de la Mam\u00e1",
+        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "album": {
+        "name": "La Mam\u00e1 de la Mam\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/1ubYagKmXunmu8XSa3jVt2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258923,
+      "name": "La Mam\u00e1 de la Mam\u00e1 (Remix)",
+      "url": "https://open.spotify.com/track/72LVZma2Bd7Y6imwoSecR6"
+    },
+    {
+      "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/5zU2SQAOUTmQvRm6O1Gs3X"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157096,
+      "name": "La Pegajosa",
+      "url": "https://open.spotify.com/track/5hx7ZmbaAEiwST2gfRI1nl"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300579,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "La \u00d1apa",
+      "url": "https://open.spotify.com/track/6g3nXe5uFs9C4WTxoKS475"
+    },
+    {
+      "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/1ZwWUZfjVTc8ieu7SaCDCI"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Light GM",
+          "url": "https://open.spotify.com/artist/3rSw7umKFLoUIP95mKQG5f"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183347,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/3KZOfVEsBkN5nSbBIRd7q5"
+    },
+    {
+      "album": {
+        "name": "Las Terrenas",
+        "url": "https://open.spotify.com/album/4YfJVxjRhfOA7oXvBzemYU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "Guariboa",
+          "url": "https://open.spotify.com/artist/276sMtyUmlkO7N2SgZvbpB"
+        },
+        {
+          "name": "El Boke",
+          "url": "https://open.spotify.com/artist/4CeU1RMEIalbzrjqbp3UyZ"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266218,
+      "name": "Las Terrenas",
+      "url": "https://open.spotify.com/track/0uiBeT5qKWBJTip054oL9Q"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Llego el Moreno",
+      "url": "https://open.spotify.com/track/5VMg1UvquJtANDhn42p2ML"
+    },
+    {
+      "album": {
+        "name": "Lo Que Yo Diga (Dema Ga Ge Gi Go Gu Remix)",
+        "url": "https://open.spotify.com/album/5YeYDFrUbbP4l37OsrWrR1"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389489,
+      "name": "Lo Que Yo Diga (Dema Ga Ge Gi Go Gu Remix)",
+      "url": "https://open.spotify.com/track/7xgRU6IXWSXaOgMeufGtVa"
+    },
+    {
+      "album": {
+        "name": "Lo Tenemo (Remix)",
+        "url": "https://open.spotify.com/album/65VY3fMqd5sop5iyCjK7kP"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "La Manta Rd",
+          "url": "https://open.spotify.com/artist/4zEkMRxNAtvWhnaUr3ukOJ"
+        },
+        {
+          "name": "Anonimus",
+          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
+        },
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        },
+        {
+          "name": "Neno Man",
+          "url": "https://open.spotify.com/artist/143I1xeiJLsFTxHvcDHSEr"
+        },
+        {
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327958,
+      "name": "Lo Tenemo - Remix",
+      "url": "https://open.spotify.com/track/3TC1dZ8lFjy6eNqexzdPgL"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Mark b",
+          "url": "https://open.spotify.com/artist/4qGsI8j55oq5Ll3knUmj86"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Los Cajeros",
+      "url": "https://open.spotify.com/track/6UrSlYQMDO7aEiDmUSmRrx"
+    },
+    {
+      "album": {
+        "name": "Los Deos Quemao",
+        "url": "https://open.spotify.com/album/5mKY2AGkEhzaZYJoP5G4Rw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Quimico",
+          "url": "https://open.spotify.com/artist/1g2AsdCl9c1SqL9g4ELWf4"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "Los Deos Quemao",
+      "url": "https://open.spotify.com/track/0qNDLXdeUHfGU4rLcU06jq"
+    },
+    {
+      "album": {
+        "name": "Los Patrones",
+        "url": "https://open.spotify.com/album/19pG64aOIpWukVlMqagKuX"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289650,
+      "name": "Los Patrones",
+      "url": "https://open.spotify.com/track/3XblFpafoRPGUj6UukxMeC"
+    },
+    {
+      "album": {
+        "name": "Me da Lo Mismo",
+        "url": "https://open.spotify.com/album/4EEec32x21JUb7JvhAU98k"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Me da Lo Mismo",
+      "url": "https://open.spotify.com/track/7mFDv6NNIn7Iq5kzMmoTSG"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229915,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/05tNrQNICAOfX8ohVpfkBb"
+    },
+    {
+      "album": {
+        "name": "Mera Woo",
+        "url": "https://open.spotify.com/album/0UneoDNRVbr639NsyPRSyw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182677,
+      "name": "Mera Woo",
+      "url": "https://open.spotify.com/track/7gPRIgwzddQ7jga1sBQtJ6"
+    },
+    {
+      "album": {
+        "name": "Mi Bom Bom",
+        "url": "https://open.spotify.com/album/3YiZkLFhpyZRQNju4VjNyW"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Mi Bom Bom",
+      "url": "https://open.spotify.com/track/1iUfBsWrQejyW8cgS2zUDb"
+    },
+    {
+      "album": {
+        "name": "Mi Cumplea\u00f1os (Remix) [feat. Watussi, Og Black & El Alfa] - Single",
+        "url": "https://open.spotify.com/album/3YHmkwv0eR0jy8hYQ1Rjpu"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Watussi",
+          "url": "https://open.spotify.com/artist/3cjEOnq8YXtjt7QiCEMhMO"
+        },
+        {
+          "name": "O.G. Black",
+          "url": "https://open.spotify.com/artist/7Eoz1XWTaDoN3rVTS1d5UT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "Mi Cumplea\u00f1os (Remix) [feat. Watussi, Og Black & El Alfa]",
+      "url": "https://open.spotify.com/track/5ZxqiZhS12Xi5mXu5XduPg"
+    },
+    {
+      "album": {
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Mi Mami (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/1uUW9fIeM7z3GBi2fRJxD5"
+    },
+    {
+      "album": {
+        "name": "Mi Patron, Mi Papa (Remix)",
+        "url": "https://open.spotify.com/album/4Zrwj5HsyEvxwJodezv2ev"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Maceo El Perro Blanco",
+          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Mi Patron, Mi Papa (Remix)",
+      "url": "https://open.spotify.com/track/4OiQdjeghmXFxALStZ7Bpc"
+    },
+    {
+      "album": {
+        "name": "Millonario al Tiro",
+        "url": "https://open.spotify.com/album/1jdDYlCeTNaQ8kL4NFOXZW"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254253,
+      "name": "Millonario al Tiro",
+      "url": "https://open.spotify.com/track/3j0fZOhHb9wlA1rsxGoMEz"
+    },
+    {
+      "album": {
+        "name": "Millones",
+        "url": "https://open.spotify.com/album/0NZkGI7pgZ8lJeczt7CfSB"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Jay Menez",
+          "url": "https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334153,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3AMjach3UjnwFdcx3q2hIF"
+    },
+    {
+      "album": {
+        "name": "Mueve la Cadera",
+        "url": "https://open.spotify.com/album/66ZcBTNw5EkcVq5Z9LQCHC"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Mueve la Cadera",
+      "url": "https://open.spotify.com/track/5uAe6AXcN2SEOcOAy0Txkh"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos",
+        "url": "https://open.spotify.com/album/4mDjlwLI6EL6dP2f7qNxYg"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192708,
+      "name": "Muevete Jevi",
+      "url": "https://open.spotify.com/track/5kPwL6WDISXxt74V7tCsOV"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Nadie Como T\u00fa (feat. El Alfa)",
+      "url": "https://open.spotify.com/track/67516e5MX4gWorbGQGRlhq"
+    },
+    {
+      "album": {
+        "name": "No Hago Coro (Remix)",
+        "url": "https://open.spotify.com/album/3VRZrkuj8fsZu3AHqB0Dwt"
+      },
+      "artists": [
+        {
+          "name": "Ghetto",
+          "url": "https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346186,
+      "name": "No Hago Coro - Remix",
+      "url": "https://open.spotify.com/track/72VsmYY68ihcJuKNaIYT28"
+    },
+    {
+      "album": {
+        "name": "Pa Jamaica (Remix)",
+        "url": "https://open.spotify.com/album/7JeeTDbc7TUgsx92s46zY7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Big O",
+          "url": "https://open.spotify.com/artist/4ugjGOdPHp6UBsePanFIAR"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304871,
+      "name": "Pa Jamaica (Remix)",
+      "url": "https://open.spotify.com/track/5nV7nX6XszQgXnGZG2Dofx"
+    },
+    {
+      "album": {
+        "name": "Pa Pa Pa",
+        "url": "https://open.spotify.com/album/5nADu92shlbVig8uuISOsu"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165641,
+      "name": "Pa Pa Pa",
+      "url": "https://open.spotify.com/track/1rUy1s64zGDWDX7t4Wmp4M"
+    },
+    {
+      "album": {
+        "name": "PAKATA",
+        "url": "https://open.spotify.com/album/1DJ8Ix9b7yJhtrqus02M3w"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "PAKATA",
+      "url": "https://open.spotify.com/track/59rRvUjxSrKnimSsg678f9"
+    },
+    {
+      "album": {
+        "name": "Pal De Velitas (Remix) [feat. J Alvarez, El Alfa, Don Miguelo, El Mayor, Nfasis, Mark B & El Batallon]",
+        "url": "https://open.spotify.com/album/7zckDzTE3lkIsmbQROm5GF"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Mark b",
+          "url": "https://open.spotify.com/artist/4qGsI8j55oq5Ll3knUmj86"
+        },
+        {
+          "name": "El Batallon",
+          "url": "https://open.spotify.com/artist/4evYVSOfFKO5fL4BUPQLlm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384052,
+      "name": "Pal De Velitas (Remix) [feat. J Alvarez, El Alfa, Don Miguelo, El Mayor, Nfasis, Mark B & El Batallon]",
+      "url": "https://open.spotify.com/track/7pCu2byq336pwIuPxqmCQZ"
+    },
+    {
+      "album": {
+        "name": "PAM",
+        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
+    },
+    {
+      "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
+    },
+    {
+      "album": {
+        "name": "Pomposo (Remix)",
+        "url": "https://open.spotify.com/album/6Jdgp88W5bfzxvS2ZutrcW"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Pomposo (Remix)",
+      "url": "https://open.spotify.com/track/38I8OemgIPYHdP5uBNY8BO"
+    },
+    {
+      "album": {
+        "name": "Popi (Remix)",
+        "url": "https://open.spotify.com/album/4tdLPkvMhz3lvCVRaGjPfA"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227141,
+      "name": "Popi - Remix",
+      "url": "https://open.spotify.com/track/7E5Auner2DXPjnIyJELlyJ"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Maceo",
+          "url": "https://open.spotify.com/artist/0XzgLGuOJwBrRSmkDDn4RA"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "Prestamelo",
+      "url": "https://open.spotify.com/track/1NPJnjKHCDroJXuWpxFPv5"
+    },
+    {
+      "album": {
+        "name": "Que Calor (feat. J Balvin & El Alfa)",
+        "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169997,
+      "name": "Que Calor (feat. J Balvin & El Alfa)",
+      "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Que Yo Le De",
+      "url": "https://open.spotify.com/track/44qrCTtmJehByCa76UBar9"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171282,
+      "name": "Recogelo",
+      "url": "https://open.spotify.com/track/1VDSBoi7eGLGxh10nVHUfN"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "El Ken",
+          "url": "https://open.spotify.com/artist/6WAU0ZTUmcKHZxfG1bK2Pz"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264560,
+      "name": "Recojan los Cartuchos",
+      "url": "https://open.spotify.com/track/19M94fCA814ppw4OFYyHz9"
+    },
+    {
+      "album": {
+        "name": "Ruleta",
+        "url": "https://open.spotify.com/album/6q9qNOYLKvhDdyZV66Od4y"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yomel",
+          "url": "https://open.spotify.com/artist/0UhUyqIGtwYPQCCecADVqq"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242228,
+      "name": "Ruleta (feat. Yomel)",
+      "url": "https://open.spotify.com/track/2Kv260HhGMRlEMbyimzNzP"
+    },
+    {
+      "album": {
+        "name": "Scarface",
+        "url": "https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Scarface",
+      "url": "https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5uZUBnJDzBQAonZTM8PMLc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Se Armo el Corre Corre",
+      "url": "https://open.spotify.com/track/5zpmRIBH9ND1MyaAw3oKKz"
+    },
+    {
+      "album": {
+        "name": "Segueta (Official Remix) - Single",
+        "url": "https://open.spotify.com/album/3yfHUUJ2O4fHVrMtCqROgu"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Segueta (Official Remix)",
+      "url": "https://open.spotify.com/track/0iwSlQEq4CvuUsParJ2ipH"
+    },
+    {
+      "album": {
+        "name": "Seguidilla - Single",
+        "url": "https://open.spotify.com/album/1G2jS6DWWM0426Iv1TQNHs"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "Seguidilla",
+      "url": "https://open.spotify.com/track/6QiDU3ObcnH9xlHXj9ZoVM"
+    },
+    {
+      "album": {
+        "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
+        "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213785,
+      "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
+      "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"
+    },
+    {
+      "album": {
+        "name": "Sientate en Ese Deo",
+        "url": "https://open.spotify.com/album/5pD0TILVdNQl0PySXZsprA"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221896,
+      "name": "Sientate en Ese Deo",
+      "url": "https://open.spotify.com/track/7no50s2we7Ap7UsvHtn6Px"
+    },
+    {
+      "album": {
+        "name": "Siga Boyando",
+        "url": "https://open.spotify.com/album/2V0EJnhO0UKhnPlzN0oJgE"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250510,
+      "name": "Siga Boyando",
+      "url": "https://open.spotify.com/track/3pfmXyxD0SzpVVMjK57x1r"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
+    },
+    {
+      "album": {
+        "name": "Singapur (Remix)",
+        "url": "https://open.spotify.com/album/14aKCMITcHqD5xYDwhng5z"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287787,
+      "name": "Singapur (Remix)",
+      "url": "https://open.spotify.com/track/0lCHRVlRZCEyLj3Gkc1nv1"
+    },
+    {
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/0ccgB65isfALJfUtH5rsfb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211515,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6NtlO37F4rjD1Z11jnV1rJ"
+    },
+    {
+      "album": {
+        "name": "Suave (Remix)",
+        "url": "https://open.spotify.com/album/4zZxWI1kbPaUgE0PTRPBVt"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305500,
+      "name": "Suave (Remix)",
+      "url": "https://open.spotify.com/track/0alWUvsJHk83HVWCnyCG51"
+    },
+    {
+      "album": {
+        "name": "S\u00fabete (Remix)",
+        "url": "https://open.spotify.com/album/78QWGK9gFkGl3eB2Iur6Q5"
+      },
+      "artists": [
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "S\u00fabete - Remix",
+      "url": "https://open.spotify.com/track/05WXONH3xdiHxSu5DhpiEn"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/5uZUBnJDzBQAonZTM8PMLc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/4NPIdgshmCnFjhtTquiJkl"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237011,
+      "name": "Te la Gua Deja Pisa",
+      "url": "https://open.spotify.com/track/4ChxeF3mqZvi8bQ2rVw6sV"
+    },
+    {
+      "album": {
+        "name": "Tecnobow (feat. Diplo)",
+        "url": "https://open.spotify.com/album/1NXHBXc274I6ssiCV4tAUJ"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228655,
+      "name": "Tecnobow (feat. Diplo)",
+      "url": "https://open.spotify.com/track/1roaN9AUTbYfiSDcpxdjr9"
+    },
+    {
+      "album": {
+        "name": "Trap Pea",
+        "url": "https://open.spotify.com/album/7c0cZeRY7STVHbapBKujen"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Trap Pea",
+      "url": "https://open.spotify.com/track/7d9ybTfliQ5iOJB0i364OS"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210827,
+      "name": "Tu Me Gusta Pila",
+      "url": "https://open.spotify.com/track/2LfcfLSF8rh5OnYP8aS13k"
+    },
+    {
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Un Dia Si",
+      "url": "https://open.spotify.com/track/5qRhzFjGqvJN9RSQRFV2J2"
+    },
+    {
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/5QmZNcdq0h1NuL1G7t2yGp"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242497,
+      "name": "Un Papi Que la Mima",
+      "url": "https://open.spotify.com/track/2jGSSQXYZfmHgnUwJXzWUk"
+    },
+    {
+      "album": {
+        "name": "Viajo Sin Ver (Remix)",
+        "url": "https://open.spotify.com/album/78Vq2BIBBewM12xytYST3b"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Lyan",
+          "url": "https://open.spotify.com/artist/2GzKA5uPf3Nef6JjkUNk4H"
+        },
+        {
+          "name": "Juanka El Problematik",
+          "url": "https://open.spotify.com/artist/4lYCHDsGD7sbyyiTzMdXZ1"
+        },
+        {
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
+        },
+        {
+          "name": "Jeycyn",
+          "url": "https://open.spotify.com/artist/6qU8kNW9LTeq1jH0uc4Oft"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569260,
+      "name": "Viajo Sin Ver (Remix) [feat. De La Ghetto, Almighty, Miky Woodz, El Alfa, Noriel, Ele A El Dominio, Lyan, Juanka El Problematik, Pusho, Jeycyn]",
+      "url": "https://open.spotify.com/track/6InhAZgp7qVG2DGCPN9dCL"
+    },
+    {
+      "album": {
+        "name": "XOXA (Premium)",
+        "url": "https://open.spotify.com/album/5mBpz2HEntRDpRrQCVr1v7"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233680,
+      "name": "XOXA - Premium",
+      "url": "https://open.spotify.com/track/2K1mqI6DBj5qv83oif1Zj5"
+    },
+    {
+      "album": {
+        "name": "Fue el Hombre Que Dijo",
+        "url": "https://open.spotify.com/album/0kYE2XwuQ5AMrQVKNcSFH4"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216158,
+      "name": "Yo No Cojo Fiao",
+      "url": "https://open.spotify.com/track/4wN66HOyeTIno3emNfXGST"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Date (Pu\u00f1ala de Carne)",
+        "url": "https://open.spotify.com/album/2zTUoa7WDnwyvNgcJGakSy"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Shick",
+          "url": "https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Yo Quiero Date (Pu\u00f1ala de Carne)",
+      "url": "https://open.spotify.com/track/0wz0ebRAxoneNOwRMvHoc3"
+    },
+    {
+      "album": {
+        "name": "Yo Te Amo Tu Me Ama - Single",
+        "url": "https://open.spotify.com/album/2FQtwdMN4nrKu4CgTJp84f"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Yo Te Amo Tu Me Ama",
+      "url": "https://open.spotify.com/track/6O0J33erbP4opTitNBydSf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYl3xONiBhif"
 }

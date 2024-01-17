@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,223 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,482 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 59 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 60 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 |
 
-Snapshot ID: `MCwyNjk5OGNiYjc3OTBjMjBlNmEyOGYwOWY5NDE3Y2ViNzFlMzI5ZjBl`
+Snapshot ID: `MCw4OWE4YWVlNWUwY2E5ZjU1YTk5NjA3ZTE1YzE5NWIxMWExZmIzNWUw`

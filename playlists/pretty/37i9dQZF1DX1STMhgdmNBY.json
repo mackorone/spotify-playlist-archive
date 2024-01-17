@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 68609,
+  "num_followers": 69555,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Tin Pan Alley",
+        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Cold Hearted Woman",
+      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -227,38 +243,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Tin Pan Alley",
-        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Cold Hearted Woman",
-      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Call It Stormy Monday",
-      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -271,54 +255,6 @@
       "duration_ms": 432200,
       "name": "Married To The Blues",
       "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -339,6 +275,38 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Had to Cry Today",
         "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
@@ -351,6 +319,54 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -375,6 +391,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -391,34 +423,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 383200,
-      "name": "A Man And The Blues",
-      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -435,6 +451,22 @@
       "duration_ms": 271200,
       "name": "Ball N' Chain",
       "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 383200,
+      "name": "A Man And The Blues",
+      "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -459,38 +491,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Blues To The Bone",
-        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
+        "name": "The Natch'l Blues",
+        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 215333,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+      "duration_ms": 208733,
+      "name": "She Caught the Katy and Left Me a Mule to Ride",
+      "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Natch'l Blues",
-        "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
+        "name": "Blues To The Bone",
+        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 208733,
-      "name": "She Caught the Katy and Left Me a Mule to Ride",
-      "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
+      "duration_ms": 215333,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
       "artists": [
         {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
         }
       ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -639,34 +639,34 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
       },
       "artists": [
         {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
         }
       ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+        "name": "The Country Side Of Esther",
+        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
       },
       "artists": [
         {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
         }
       ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+      "duration_ms": 199226,
+      "name": "No Headstone on My Grave",
+      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Country Side Of Esther",
-        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
-      },
-      "artists": [
-        {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "No Headstone on My Grave",
-      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "I Must Be In A Good Place Now",
         "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 187265,
       "name": "I Must Be In A Good Place Now",
       "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Faith And Grace: A Family Journey 1953-1976",
         "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 157640,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Willie's Blues",
-        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        },
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Sittin' And Cryin' The Blues",
-      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -948,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -967,6 +947,26 @@
       "duration_ms": 270103,
       "name": "Is It Over",
       "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Willie's Blues",
+        "url": "https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Sittin' And Cryin' The Blues",
+      "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 270752,
       "name": "Violet Nights",
       "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
       "artists": [
         {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 170893,
-      "name": "Change is Inevitable (feat. AJ Fullerton)",
-      "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+      "duration_ms": 199706,
+      "name": "A Touch Of The Blues - Single Version",
+      "url": "https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+        "name": "Porch Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        },
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
         }
       ],
-      "duration_ms": 199706,
-      "name": "A Touch Of The Blues - Single Version",
-      "url": "https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo"
+      "duration_ms": 170893,
+      "name": "Change is Inevitable (feat. AJ Fullerton)",
+      "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
     },
     {
       "added_at": "2023-10-05 13:06:44",

@@ -4,7 +4,7 @@
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-62 songs - 3 hr 46 min
+63 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,12 @@
 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 | 2022-12-06 |  |
 | [J'aurais bien voulu](https://open.spotify.com/track/04sJ4GGfVm1fVpJvBQGngk) | [Babylon Circus](https://open.spotify.com/artist/3crfLODQuodxW8R8iLqkPH) | [Dances of Resistance](https://open.spotify.com/album/3EhDGfnsl1tRX5ZA62qpgA) | 3:22 | 2022-12-06 |  |
 | [J'veux du soleil](https://open.spotify.com/track/2vAlAKLQ0Kpi1hoatLsWOi) | [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b) | [Le Mal De Vivre](https://open.spotify.com/album/7nZfdMDBpPzOv1p6Du4TAg) | 2:59 | 2022-12-06 | 2023-10-07 |
-| [Je fume pu d'shit](https://open.spotify.com/track/629jpUceKSDgSLVDHdpz9l) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/7yE2SzDQMWqSAYoczBfqh4) | 3:16 | 2022-12-06 |  |
+| [Je fume pu d'shit](https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a) | 3:16 | 2023-10-06 |  |
+| [Je fume pu d'shit](https://open.spotify.com/track/629jpUceKSDgSLVDHdpz9l) | [Stupeflip](https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai), [Jacno](https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m) | [Stupeflip](https://open.spotify.com/album/7yE2SzDQMWqSAYoczBfqh4) | 3:16 | 2022-12-06 | 2024-01-07 |
 | [Kana diskan](https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3) | [Rasta Bigoud](https://open.spotify.com/artist/6bEut48ficVPo2kEIuxwSY) | [Kana diskan](https://open.spotify.com/album/3GH2MvtPq2yI84Em13I0GU) | 3:46 | 2022-12-06 | 2023-11-21 |
 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements D'leo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 | 2022-12-06 |  |
 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/0tcFkV7zLOGWgUbYtD6ROz) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 3:25 | 2022-12-06 |  |
-| [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 | 2022-12-06 | 2023-12-02 |
+| [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 | 2022-12-06 |  |
 | [La déclaration](https://open.spotify.com/track/2FjRMq1w9EEhelyBtTjCE8) | [Debout Sur Le Zinc](https://open.spotify.com/artist/2IScPq8PNlEgMrxY22iufh) | [Les promesses](https://open.spotify.com/album/5AcVrPhhrMyFAgQNRkhK9B) | 4:15 | 2022-12-06 |  |
 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 | 2022-12-06 |  |
 | [La main verte \- Live](https://open.spotify.com/track/6t84yOrkPAouma0bbGGYOO) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/5nFS7n7hpqlDOXI8e4ggsL) | 2:13 | 2022-12-06 |  |
@@ -65,7 +66,7 @@
 | [Sur les sentiers du monde](https://open.spotify.com/track/5Ix00M85PPm8X0BFhiDQhT) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Nulle ombre](https://open.spotify.com/album/5OZT0zftB7q4lSB1zXorjD) | 3:46 | 2022-12-06 |  |
 | [T'as la touche Manouche](https://open.spotify.com/track/6vRGcTdpMrjxAxj4302PUD) | [La Caravane Passe](https://open.spotify.com/artist/4vO18v8Dw9XI62zhwWbBqE) | [Gypsy for One Day](https://open.spotify.com/album/6NtD3bZjTHojg0S7fp6VxR) | 3:23 | 2022-12-06 |  |
 | [Toujours \(Et Toujours\)](https://open.spotify.com/track/4CQl5fRLrMnYtqNhJQHrEm) | [Massilia Sound System](https://open.spotify.com/artist/6OQvEmzlyemB8CjQGgIKqr) | [Òai E Libertat](https://open.spotify.com/album/1pIVpF6nz2h15csekrsiAQ) | 4:35 | 2022-12-06 |  |
-| [Tout le monde est là](https://open.spotify.com/track/63BT1ZA8NSk0soGSmKQVfq) | [Mister Gang](https://open.spotify.com/artist/0g9joi70vEh2c7i9U141ao) | [Liberté illégale](https://open.spotify.com/album/4KoQ7ZbiBN4itXhGVAiR5Q) | 2:58 | 2022-12-06 |  |
+| [Tout le monde est là](https://open.spotify.com/track/63BT1ZA8NSk0soGSmKQVfq) | [Mister Gang](https://open.spotify.com/artist/0g9joi70vEh2c7i9U141ao) | [Liberté illégale](https://open.spotify.com/album/4KoQ7ZbiBN4itXhGVAiR5Q) | 2:58 | 2022-12-06 | 2024-01-15 |
 | [Vitrolles](https://open.spotify.com/track/6b3Hgev5YOJrqbF9IRaTka) | [Raspigaous](https://open.spotify.com/artist/6hOwWmb5Hl7HZ0J8tQLe4u) | [Chaud time](https://open.spotify.com/album/50sNVGEowGVYHhaxyazz8S) | 5:04 | 2022-12-06 |  |
 | [Vivant](https://open.spotify.com/track/0khmGOdZlWxnB6hKLeE2y4) | [Collectif 13](https://open.spotify.com/artist/3i55ORsQQWzrt0Z9jqXqOs) | [13](https://open.spotify.com/album/4xXPBiX2FKkajqrfGvUO6w) | 2:57 | 2022-12-06 | 2023-10-07 |
 | [Y' a pas d'arrangement](https://open.spotify.com/track/7sUzkDEQVDowGyLgyjTuDv) | [Zebda](https://open.spotify.com/artist/0eOdRJIL6L8AInJLre2uIP) | [Essence Ordinaire](https://open.spotify.com/album/7otu4JDWUXUIosul8HLfMF) | 4:31 | 2022-12-06 |  |

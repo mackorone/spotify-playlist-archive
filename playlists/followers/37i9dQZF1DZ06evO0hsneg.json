@@ -1,246 +1,953 @@
 {
-  "2023-05-03": 214,
-  "2023-05-04": 216,
-  "2023-05-05": 217,
-  "2023-05-06": 217,
-  "2023-05-07": 217,
-  "2023-05-08": 218,
-  "2023-05-09": 220,
-  "2023-05-10": 221,
-  "2023-05-11": 221,
-  "2023-05-12": 221,
-  "2023-05-13": 223,
-  "2023-05-14": 224,
-  "2023-05-15": 224,
-  "2023-05-16": 224,
-  "2023-05-17": 223,
-  "2023-05-18": 225,
-  "2023-05-19": 226,
-  "2023-05-20": 227,
-  "2023-05-21": 227,
-  "2023-05-22": 227,
-  "2023-05-23": 228,
-  "2023-05-24": 230,
-  "2023-05-25": 230,
-  "2023-05-26": 230,
-  "2023-05-27": 231,
-  "2023-05-28": 232,
-  "2023-05-29": 232,
-  "2023-05-30": 235,
-  "2023-05-31": 234,
-  "2023-06-01": 235,
-  "2023-06-02": 235,
-  "2023-06-03": 238,
-  "2023-06-04": 238,
-  "2023-06-05": 237,
-  "2023-06-06": 237,
-  "2023-06-07": 238,
-  "2023-06-08": 239,
-  "2023-06-09": 241,
-  "2023-06-10": 241,
-  "2023-06-11": 241,
-  "2023-06-12": 241,
-  "2023-06-13": 241,
-  "2023-06-14": 242,
-  "2023-06-15": 243,
-  "2023-06-16": 244,
-  "2023-06-17": 246,
-  "2023-06-18": 247,
-  "2023-06-19": 249,
-  "2023-06-20": 249,
-  "2023-06-21": 250,
-  "2023-06-22": 251,
-  "2023-06-23": 251,
-  "2023-06-24": 251,
-  "2023-06-25": 252,
-  "2023-06-26": 252,
-  "2023-06-27": 252,
-  "2023-06-28": 252,
-  "2023-06-29": 251,
-  "2023-06-30": 251,
-  "2023-07-01": 252,
-  "2023-07-02": 252,
-  "2023-07-03": 253,
-  "2023-07-04": 255,
-  "2023-07-05": 256,
-  "2023-07-06": 261,
-  "2023-07-07": 261,
-  "2023-07-08": 263,
-  "2023-07-09": 264,
-  "2023-07-10": 264,
-  "2023-07-11": 264,
-  "2023-07-12": 264,
-  "2023-07-13": 264,
-  "2023-07-14": 265,
-  "2023-07-15": 265,
-  "2023-07-16": 265,
-  "2023-07-17": 265,
-  "2023-07-18": 265,
-  "2023-07-19": 265,
-  "2023-07-20": 265,
-  "2023-07-21": 264,
-  "2023-07-22": 264,
-  "2023-07-23": 265,
-  "2023-07-24": 265,
-  "2023-07-25": 265,
-  "2023-07-26": 266,
-  "2023-07-27": 266,
-  "2023-07-28": 266,
-  "2023-07-29": 266,
-  "2023-07-30": 266,
-  "2023-07-31": 267,
-  "2023-08-01": 268,
-  "2023-08-02": 269,
-  "2023-08-03": 270,
-  "2023-08-04": 272,
-  "2023-08-05": 276,
-  "2023-08-06": 285,
-  "2023-08-07": 285,
-  "2023-08-08": 290,
-  "2023-08-09": 291,
-  "2023-08-10": 294,
-  "2023-08-11": 298,
-  "2023-08-12": 298,
-  "2023-08-13": 298,
-  "2023-08-14": 302,
-  "2023-08-15": 308,
-  "2023-08-16": 308,
-  "2023-08-17": 309,
-  "2023-08-18": 309,
-  "2023-08-19": 310,
-  "2023-08-20": 310,
-  "2023-08-21": 311,
-  "2023-08-22": 313,
-  "2023-08-23": 313,
-  "2023-08-24": 314,
-  "2023-08-25": 314,
-  "2023-08-26": 318,
-  "2023-08-27": 319,
-  "2023-08-28": 323,
-  "2023-08-29": 323,
-  "2023-08-30": 323,
-  "2023-08-31": 327,
-  "2023-09-01": 329,
-  "2023-09-02": 329,
-  "2023-09-03": 331,
-  "2023-09-04": 331,
-  "2023-09-05": 331,
-  "2023-09-06": 333,
-  "2023-09-07": 333,
-  "2023-09-08": 333,
-  "2023-09-09": 333,
-  "2023-09-10": 339,
-  "2023-09-11": 342,
-  "2023-09-12": 342,
-  "2023-09-13": 354,
-  "2023-09-14": 354,
-  "2023-09-15": 354,
-  "2023-09-16": 359,
-  "2023-09-17": 359,
-  "2023-09-18": 359,
-  "2023-09-19": 365,
-  "2023-09-20": 365,
-  "2023-09-21": 365,
-  "2023-09-22": 368,
-  "2023-09-23": 368,
-  "2023-09-24": 368,
-  "2023-09-25": 368,
-  "2023-09-26": 375,
-  "2023-09-27": 375,
-  "2023-09-28": 375,
-  "2023-09-29": 375,
-  "2023-09-30": 375,
-  "2023-10-01": 375,
-  "2023-10-02": 380,
-  "2023-10-03": 380,
-  "2023-10-04": 380,
-  "2023-10-05": 383,
-  "2023-10-06": 383,
-  "2023-10-07": 383,
-  "2023-10-08": 383,
-  "2023-10-09": 383,
-  "2023-10-10": 383,
-  "2023-10-11": 384,
-  "2023-10-12": 384,
-  "2023-10-13": 384,
-  "2023-10-14": 384,
-  "2023-10-15": 384,
-  "2023-10-16": 384,
-  "2023-10-17": 384,
-  "2023-10-18": 384,
-  "2023-10-19": 384,
-  "2023-10-20": 384,
-  "2023-10-21": 384,
-  "2023-10-22": 384,
-  "2023-10-23": 384,
-  "2023-10-24": 384,
-  "2023-10-25": 384,
-  "2023-10-26": 384,
-  "2023-10-27": 384,
-  "2023-10-28": 384,
-  "2023-10-29": 384,
-  "2023-10-30": 384,
-  "2023-10-31": 384,
-  "2023-11-01": 384,
-  "2023-11-02": 384,
-  "2023-11-03": 384,
-  "2023-11-04": 384,
-  "2023-11-05": 384,
-  "2023-11-06": 384,
-  "2023-11-07": 384,
-  "2023-11-08": 384,
-  "2023-11-09": 384,
-  "2023-11-10": 384,
-  "2023-11-11": 419,
-  "2023-11-12": 419,
-  "2023-11-13": 419,
-  "2023-11-14": 419,
-  "2023-11-15": 419,
-  "2023-11-16": 419,
-  "2023-11-17": 419,
-  "2023-11-18": 419,
-  "2023-11-19": 419,
-  "2023-11-20": 419,
-  "2023-11-21": 419,
-  "2023-11-22": 419,
-  "2023-11-23": 419,
-  "2023-11-24": 419,
-  "2023-11-25": 419,
-  "2023-11-26": 419,
-  "2023-11-27": 419,
-  "2023-11-28": 419,
-  "2023-11-29": 419,
-  "2023-11-30": 419,
-  "2023-12-01": 419,
-  "2023-12-02": 419,
-  "2023-12-03": 419,
-  "2023-12-04": 419,
-  "2023-12-05": 419,
-  "2023-12-06": 419,
-  "2023-12-07": 419,
-  "2023-12-08": 419,
-  "2023-12-09": 419,
-  "2023-12-10": 419,
-  "2023-12-11": 419,
-  "2023-12-12": 419,
-  "2023-12-13": 419,
-  "2023-12-14": 445,
-  "2023-12-15": 446,
-  "2023-12-16": 446,
-  "2023-12-17": 446,
-  "2023-12-18": 446,
-  "2023-12-19": 446,
-  "2023-12-20": 446,
-  "2023-12-21": 446,
-  "2023-12-22": 446,
-  "2023-12-23": 447,
-  "2023-12-24": 447,
-  "2023-12-25": 448,
-  "2023-12-26": 448,
-  "2023-12-27": 448,
-  "2023-12-30": 451,
-  "2023-12-31": 452,
-  "2024-01-01": 452,
-  "2024-01-02": 451,
-  "2024-01-03": 451
+  "2024-01-17": 455,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
+  "name": "This Is Ramengvrl",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
+    },
+    {
+      "album": {
+        "name": "Ain't No MF (feat. pH-1)",
+        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149783,
+      "name": "Ain't No MF (feat. pH-1)",
+      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
+    },
+    {
+      "album": {
+        "name": "Xpressionizm",
+        "url": "https://open.spotify.com/album/0Gu6vQSTNQAEz8CCvqyMpj"
+      },
+      "artists": [
+        {
+          "name": "JRSCK",
+          "url": "https://open.spotify.com/artist/5gvWjdRl83QGWMxpbjq1uI"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 379672,
+      "name": "Alpha Girl - Array Remix",
+      "url": "https://open.spotify.com/track/0ONxHOgJt0q2UIw37WbW0q"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Hullera",
+          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212675,
+      "name": "bad minah (feat. Hullera)",
+      "url": "https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL"
+    },
+    {
+      "album": {
+        "name": "Bassgod",
+        "url": "https://open.spotify.com/album/4Yi5FlWp2CuxQsP0ORMlRg"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Juyen Sebulba",
+          "url": "https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187503,
+      "name": "Bassgod",
+      "url": "https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV"
+    },
+    {
+      "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Cinta Laura Kiehl",
+          "url": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134947,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+    },
+    {
+      "album": {
+        "name": "CA$HMERE",
+        "url": "https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214811,
+      "name": "CA$HMERE",
+      "url": "https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM"
+    },
+    {
+      "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO"
+      },
+      "artists": [
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268051,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc"
+    },
+    {
+      "album": {
+        "name": "Mardial & Friends",
+        "url": "https://open.spotify.com/album/2WO5hG0cG3imkLfb7BU0j1"
+      },
+      "artists": [
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185892,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+    },
+    {
+      "album": {
+        "name": "Don't Touch Me",
+        "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Danilla",
+          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281642,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
+    },
+    {
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147928,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+    },
+    {
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154583,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu"
+    },
+    {
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222357,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165262,
+      "name": "go commando",
+      "url": "https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
+    },
+    {
+      "album": {
+        "name": "Go Get That B",
+        "url": "https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152695,
+      "name": "Go Get That B",
+      "url": "https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx"
+    },
+    {
+      "album": {
+        "name": "Go! (I Can Be Your)",
+        "url": "https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Go! (I Can Be Your)",
+      "url": "https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM"
+    },
+    {
+      "album": {
+        "name": "Hyperballin",
+        "url": "https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq"
+      },
+      "artists": [
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150028,
+      "name": "Hyperballin",
+      "url": "https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4"
+    },
+    {
+      "album": {
+        "name": "I AM ME",
+        "url": "https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218141,
+      "name": "I AM ME",
+      "url": "https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
+    },
+    {
+      "album": {
+        "name": "I'm Da Man",
+        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184663,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+    },
+    {
+      "album": {
+        "name": "I'm Ugly",
+        "url": "https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142018,
+      "name": "I'm Ugly",
+      "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "album": {
+        "name": "Indo ME",
+        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200899,
+      "name": "Indo ME",
+      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
+    },
+    {
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+    },
+    {
+      "album": {
+        "name": "The Holy Bassgod EP",
+        "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Crisis Era",
+          "url": "https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166263,
+      "name": "Kawaii 808",
+      "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Let Em Be",
+      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "album": {
+        "name": "MING LING (feat. Yung Raja)",
+        "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163780,
+      "name": "MING LING (feat. Yung Raja)",
+      "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
+    },
+    {
+      "album": {
+        "name": "No Tinder",
+        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254062,
+      "name": "No Tinder",
+      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+    },
+    {
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "album": {
+        "name": "MULTIVERSES (Revisi Final Fix Banget)",
+        "url": "https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e"
+      },
+      "artists": [
+        {
+          "name": ".Feast",
+          "url": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+        },
+        {
+          "name": "Mardial",
+          "url": "https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Bam Mastro",
+          "url": "https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253018,
+      "name": "Riphunter",
+      "url": "https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 177014,
+      "name": "Tsundere",
+      "url": "https://open.spotify.com/track/6ejAsuq9xOqhb9hlFE2h6m"
+    },
+    {
+      "album": {
+        "name": "Unreleased Project, Vol. 1",
+        "url": "https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi"
+      },
+      "artists": [
+        {
+          "name": "Rock N Roll Mafia",
+          "url": "https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc"
+        },
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230960,
+      "name": "Us vs",
+      "url": "https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr"
+    },
+    {
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
+    },
+    {
+      "album": {
+        "name": "WHACHU MEAN",
+        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214159,
+      "name": "WHACHU MEAN",
+      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
+    },
+    {
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "whats ur problem",
+      "url": "https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7"
+    },
+    {
+      "album": {
+        "name": "WHO DIS?",
+        "url": "https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124987,
+      "name": "WHO DIS?",
+      "url": "https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM"
+    },
+    {
+      "album": {
+        "name": "yellow fever (feat. Ramengvrl & YAYOI DAIMON)",
+        "url": "https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "YAYOI DAIMON",
+          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166623,
+      "name": "yellow fever (feat. Ramengvrl & YAYOI DAIMON)",
+      "url": "https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hsneg"
 }

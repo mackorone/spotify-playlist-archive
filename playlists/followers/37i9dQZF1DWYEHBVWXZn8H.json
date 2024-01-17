@@ -1,735 +1,2495 @@
 {
-  "2021-12-25": 135018,
-  "2021-12-26": 135089,
-  "2021-12-27": 135205,
-  "2021-12-28": 135207,
-  "2021-12-29": 135275,
-  "2021-12-30": 135340,
-  "2021-12-31": 135411,
-  "2022-01-01": 135556,
-  "2022-01-02": 135622,
-  "2022-01-03": 135707,
-  "2022-01-04": 135818,
-  "2022-01-05": 135905,
-  "2022-01-06": 135988,
-  "2022-01-07": 136069,
-  "2022-01-08": 136240,
-  "2022-01-09": 136242,
-  "2022-01-10": 136320,
-  "2022-01-11": 136353,
-  "2022-01-12": 136388,
-  "2022-01-13": 140288,
-  "2022-01-14": 140360,
-  "2022-01-15": 140534,
-  "2022-01-16": 140541,
-  "2022-01-17": 140744,
-  "2022-01-18": 140747,
-  "2022-01-19": 140817,
-  "2022-01-20": 140893,
-  "2022-01-21": 140967,
-  "2022-01-22": 141059,
-  "2022-01-23": 141144,
-  "2022-01-24": 141263,
-  "2022-01-25": 141332,
-  "2022-01-26": 141398,
-  "2022-01-27": 141456,
-  "2022-01-28": 141546,
-  "2022-01-29": 141620,
-  "2022-01-30": 141704,
-  "2022-01-31": 141788,
-  "2022-02-01": 141842,
-  "2022-02-02": 141901,
-  "2022-02-03": 141962,
-  "2022-02-04": 142027,
-  "2022-02-05": 142107,
-  "2022-02-06": 142203,
-  "2022-02-07": 142258,
-  "2022-02-08": 142318,
-  "2022-02-09": 142388,
-  "2022-02-10": 142457,
-  "2022-02-11": 142517,
-  "2022-02-12": 142599,
-  "2022-02-13": 142685,
-  "2022-02-14": 142770,
-  "2022-02-15": 142811,
-  "2022-02-16": 142882,
-  "2022-02-17": 142926,
-  "2022-02-18": 142979,
-  "2022-02-19": 143037,
-  "2022-02-20": 143125,
-  "2022-02-21": 143179,
-  "2022-02-22": 143239,
-  "2022-02-23": 143327,
-  "2022-02-24": 143436,
-  "2022-02-25": 143513,
-  "2022-02-26": 143585,
-  "2022-02-27": 143744,
-  "2022-02-28": 143744,
-  "2022-03-01": 143829,
-  "2022-03-02": 143910,
-  "2022-03-03": 143957,
-  "2022-03-04": 144027,
-  "2022-03-05": 144108,
-  "2022-03-06": 144207,
-  "2022-03-07": 144283,
-  "2022-03-08": 144338,
-  "2022-03-09": 144409,
-  "2022-03-10": 144483,
-  "2022-03-11": 144565,
-  "2022-03-12": 144640,
-  "2022-03-13": 144726,
-  "2022-03-14": 144795,
-  "2022-03-15": 144847,
-  "2022-03-16": 144918,
-  "2022-03-17": 144993,
-  "2022-03-18": 145084,
-  "2022-03-19": 145135,
-  "2022-03-20": 145135,
-  "2022-03-21": 145329,
-  "2022-03-22": 145391,
-  "2022-03-23": 145432,
-  "2022-03-24": 145496,
-  "2022-03-25": 145557,
-  "2022-03-26": 145635,
-  "2022-03-27": 145705,
-  "2022-03-28": 145791,
-  "2022-03-30": 145916,
-  "2022-03-31": 145987,
-  "2022-04-01": 146040,
-  "2022-04-02": 146101,
-  "2022-04-03": 146208,
-  "2022-04-04": 146284,
-  "2022-04-05": 146332,
-  "2022-04-06": 146407,
-  "2022-04-07": 146474,
-  "2022-04-08": 146543,
-  "2022-04-09": 146610,
-  "2022-04-10": 146762,
-  "2022-04-11": 146831,
-  "2022-04-12": 146838,
-  "2022-04-13": 146902,
-  "2022-04-14": 146976,
-  "2022-04-15": 147041,
-  "2022-04-16": 147129,
-  "2022-04-17": 147220,
-  "2022-04-18": 147289,
-  "2022-04-19": 147340,
-  "2022-04-20": 147401,
-  "2022-04-21": 147469,
-  "2022-04-22": 147525,
-  "2022-04-23": 147594,
-  "2022-04-24": 147674,
-  "2022-04-25": 147780,
-  "2022-04-26": 147853,
-  "2022-04-27": 147910,
-  "2022-04-28": 147953,
-  "2022-04-29": 148047,
-  "2022-04-30": 148124,
-  "2022-05-01": 148216,
-  "2022-05-02": 148216,
-  "2022-05-03": 148274,
-  "2022-05-04": 148329,
-  "2022-05-05": 148382,
-  "2022-05-06": 148462,
-  "2022-05-07": 148527,
-  "2022-05-08": 148674,
-  "2022-05-09": 148689,
-  "2022-05-10": 148830,
-  "2022-05-11": 148978,
-  "2022-05-12": 149082,
-  "2022-05-13": 149183,
-  "2022-05-14": 149274,
-  "2022-05-15": 149329,
-  "2022-05-16": 149404,
-  "2022-05-17": 149459,
-  "2022-05-18": 149528,
-  "2022-05-19": 149597,
-  "2022-05-20": 149694,
-  "2022-05-21": 149850,
-  "2022-05-22": 149850,
-  "2022-05-23": 149934,
-  "2022-05-24": 150000,
-  "2022-05-25": 150087,
-  "2022-05-26": 150167,
-  "2022-05-27": 150240,
-  "2022-05-28": 150307,
-  "2022-05-29": 150383,
-  "2022-05-30": 150460,
-  "2022-05-31": 150536,
-  "2022-06-01": 150676,
-  "2022-06-02": 150690,
-  "2022-06-03": 150756,
-  "2022-06-04": 150833,
-  "2022-06-05": 150925,
-  "2022-06-06": 151061,
-  "2022-06-07": 151162,
-  "2022-06-08": 151267,
-  "2022-06-09": 151348,
-  "2022-06-10": 151443,
-  "2022-06-11": 151551,
-  "2022-06-12": 151643,
-  "2022-06-13": 151745,
-  "2022-06-14": 151898,
-  "2022-06-15": 152012,
-  "2022-06-16": 152153,
-  "2022-06-17": 152255,
-  "2022-06-18": 152347,
-  "2022-06-19": 152593,
-  "2022-06-20": 152593,
-  "2022-06-21": 152688,
-  "2022-06-22": 152887,
-  "2022-06-23": 152887,
-  "2022-06-24": 152966,
-  "2022-06-25": 153087,
-  "2022-06-26": 153183,
-  "2022-06-27": 153348,
-  "2022-06-28": 153461,
-  "2022-06-29": 153598,
-  "2022-06-30": 153722,
-  "2022-07-01": 153844,
-  "2022-07-02": 153953,
-  "2022-07-03": 154071,
-  "2022-07-04": 154196,
-  "2022-07-05": 154283,
-  "2022-07-06": 154407,
-  "2022-07-07": 154479,
-  "2022-07-08": 154570,
-  "2022-07-09": 154667,
-  "2022-07-10": 154784,
-  "2022-07-11": 154877,
-  "2022-07-12": 154960,
-  "2022-07-13": 155036,
-  "2022-07-14": 155115,
-  "2022-07-15": 155201,
-  "2022-07-16": 155294,
-  "2022-07-17": 155394,
-  "2022-07-18": 155473,
-  "2022-07-19": 155540,
-  "2022-07-20": 155599,
-  "2022-07-21": 155662,
-  "2022-07-22": 155728,
-  "2022-07-23": 155808,
-  "2022-07-24": 155898,
-  "2022-07-25": 155975,
-  "2022-07-26": 156049,
-  "2022-07-27": 156142,
-  "2022-07-28": 156205,
-  "2022-07-29": 156278,
-  "2022-07-30": 156470,
-  "2022-07-31": 156470,
-  "2022-08-01": 156550,
-  "2022-08-02": 156717,
-  "2022-08-03": 156717,
-  "2022-08-04": 156814,
-  "2022-08-05": 156910,
-  "2022-08-06": 157011,
-  "2022-08-07": 157129,
-  "2022-08-08": 157251,
-  "2022-08-09": 157365,
-  "2022-08-10": 157470,
-  "2022-08-11": 157561,
-  "2022-08-12": 157682,
-  "2022-08-13": 157808,
-  "2022-08-14": 157935,
-  "2022-08-15": 158042,
-  "2022-08-16": 158135,
-  "2022-08-17": 158230,
-  "2022-08-18": 158329,
-  "2022-08-19": 158425,
-  "2022-08-20": 158518,
-  "2022-08-21": 158635,
-  "2022-08-22": 158763,
-  "2022-08-23": 158900,
-  "2022-08-24": 159018,
-  "2022-08-25": 159131,
-  "2022-08-26": 159230,
-  "2022-08-27": 159355,
-  "2022-08-28": 159510,
-  "2022-08-29": 159649,
-  "2022-08-30": 159718,
-  "2022-08-31": 159701,
-  "2022-09-01": 159658,
-  "2022-09-02": 159740,
-  "2022-09-03": 159689,
-  "2022-09-04": 159578,
-  "2022-09-05": 159574,
-  "2022-09-06": 159664,
-  "2022-09-07": 159760,
-  "2022-09-09": 159929,
-  "2022-09-10": 160004,
-  "2022-09-11": 160101,
-  "2022-09-12": 160184,
-  "2022-09-13": 160262,
-  "2022-09-15": 160427,
-  "2022-09-16": 160507,
-  "2022-09-17": 160581,
-  "2022-09-18": 160675,
-  "2022-09-19": 160746,
-  "2022-09-20": 160814,
-  "2022-09-21": 160873,
-  "2022-09-22": 160988,
-  "2022-09-23": 161096,
-  "2022-09-24": 161198,
-  "2022-09-25": 161313,
-  "2022-09-26": 161405,
-  "2022-09-27": 161471,
-  "2022-09-28": 161542,
-  "2022-09-29": 161614,
-  "2022-09-30": 161695,
-  "2022-10-01": 161781,
-  "2022-10-02": 161857,
-  "2022-10-03": 161942,
-  "2022-10-04": 162007,
-  "2022-10-05": 162097,
-  "2022-10-06": 162164,
-  "2022-10-07": 162211,
-  "2022-10-08": 162272,
-  "2022-10-09": 162393,
-  "2022-10-10": 162398,
-  "2022-10-11": 162445,
-  "2022-10-12": 162488,
-  "2022-10-13": 162529,
-  "2022-10-14": 162580,
-  "2022-10-15": 162647,
-  "2022-10-16": 162696,
-  "2022-10-17": 162763,
-  "2022-10-18": 162813,
-  "2022-10-19": 162857,
-  "2022-10-20": 162920,
-  "2022-10-21": 162965,
-  "2022-10-22": 163026,
-  "2022-10-23": 163083,
-  "2022-10-24": 163124,
-  "2022-10-25": 163164,
-  "2022-10-26": 163224,
-  "2022-10-27": 163267,
-  "2022-10-28": 163316,
-  "2022-10-29": 163378,
-  "2022-10-30": 163432,
-  "2022-10-31": 163491,
-  "2022-11-01": 163543,
-  "2022-11-02": 163595,
-  "2022-11-03": 163658,
-  "2022-11-04": 163712,
-  "2022-11-05": 163768,
-  "2022-11-06": 163832,
-  "2022-11-07": 163894,
-  "2022-11-08": 163958,
-  "2022-11-09": 164008,
-  "2022-11-10": 164064,
-  "2022-11-11": 164118,
-  "2022-11-12": 164175,
-  "2022-11-13": 164256,
-  "2022-11-14": 164327,
-  "2022-11-15": 164376,
-  "2022-11-16": 164427,
-  "2022-11-17": 164470,
-  "2022-11-18": 164472,
-  "2022-11-19": 164435,
-  "2022-11-20": 164453,
-  "2022-11-21": 164489,
-  "2022-11-22": 164620,
-  "2022-11-23": 164598,
-  "2022-11-24": 164683,
-  "2022-11-25": 164803,
-  "2022-11-26": 164906,
-  "2022-11-27": 164989,
-  "2022-11-28": 165074,
-  "2022-11-29": 165137,
-  "2022-11-30": 165203,
-  "2022-12-01": 165314,
-  "2022-12-02": 165424,
-  "2022-12-03": 165510,
-  "2022-12-04": 165648,
-  "2022-12-05": 165790,
-  "2022-12-06": 165872,
-  "2022-12-07": 165946,
-  "2022-12-08": 166038,
-  "2022-12-09": 166134,
-  "2022-12-10": 166227,
-  "2022-12-11": 166334,
-  "2022-12-12": 166416,
-  "2022-12-13": 166498,
-  "2022-12-14": 166579,
-  "2022-12-15": 166627,
-  "2022-12-16": 166663,
-  "2022-12-17": 166721,
-  "2022-12-18": 166787,
-  "2022-12-19": 166852,
-  "2022-12-20": 166968,
-  "2022-12-21": 166968,
-  "2022-12-22": 167026,
-  "2022-12-24": 167151,
-  "2022-12-25": 167200,
-  "2022-12-26": 167257,
-  "2022-12-27": 167356,
-  "2022-12-28": 167434,
-  "2022-12-29": 167520,
-  "2022-12-30": 167587,
-  "2022-12-31": 167638,
-  "2023-01-01": 167707,
-  "2023-01-02": 167759,
-  "2023-01-03": 167838,
-  "2023-01-04": 167895,
-  "2023-01-05": 167961,
-  "2023-01-06": 168033,
-  "2023-01-07": 168141,
-  "2023-01-08": 168161,
-  "2023-01-09": 168235,
-  "2023-01-10": 168282,
-  "2023-01-11": 168324,
-  "2023-01-12": 168359,
-  "2023-01-13": 168417,
-  "2023-01-14": 168533,
-  "2023-01-15": 168542,
-  "2023-01-16": 168594,
-  "2023-01-17": 168631,
-  "2023-01-18": 168689,
-  "2023-01-19": 168754,
-  "2023-01-20": 168806,
-  "2023-01-21": 168872,
-  "2023-01-22": 168934,
-  "2023-01-23": 169010,
-  "2023-01-24": 169059,
-  "2023-01-25": 169107,
-  "2023-01-26": 169166,
-  "2023-01-27": 169220,
-  "2023-01-28": 169267,
-  "2023-01-29": 169341,
-  "2023-01-30": 169407,
-  "2023-01-31": 169407,
-  "2023-02-01": 169483,
-  "2023-02-02": 169538,
-  "2023-02-03": 169578,
-  "2023-02-04": 169631,
-  "2023-02-05": 169685,
-  "2023-02-06": 169747,
-  "2023-02-07": 169796,
-  "2023-02-08": 169902,
-  "2023-02-09": 169902,
-  "2023-02-10": 169945,
-  "2023-02-11": 170011,
-  "2023-02-12": 170131,
-  "2023-02-13": 170184,
-  "2023-02-14": 170184,
-  "2023-02-15": 170223,
-  "2023-02-16": 170273,
-  "2023-02-17": 170325,
-  "2023-02-18": 170436,
-  "2023-02-19": 170454,
-  "2023-02-20": 170488,
-  "2023-02-21": 170530,
-  "2023-02-22": 170567,
-  "2023-02-23": 170605,
-  "2023-02-24": 170652,
-  "2023-02-25": 170725,
-  "2023-02-26": 170762,
-  "2023-02-27": 170872,
-  "2023-02-28": 170872,
-  "2023-03-01": 170908,
-  "2023-03-02": 170958,
-  "2023-03-03": 171013,
-  "2023-03-04": 171061,
-  "2023-03-05": 171188,
-  "2023-03-06": 171188,
-  "2023-03-07": 171218,
-  "2023-03-08": 171276,
-  "2023-03-09": 171323,
-  "2023-03-10": 171371,
-  "2023-03-11": 171421,
-  "2023-03-12": 171489,
-  "2023-03-13": 171531,
-  "2023-03-14": 171563,
-  "2023-03-15": 171614,
-  "2023-03-16": 171655,
-  "2023-03-17": 171655,
-  "2023-03-18": 171747,
-  "2023-03-19": 171805,
-  "2023-03-20": 171855,
-  "2023-03-21": 171900,
-  "2023-03-22": 171943,
-  "2023-03-23": 171993,
-  "2023-03-24": 171993,
-  "2023-03-25": 172119,
-  "2023-03-26": 172194,
-  "2023-03-27": 172247,
-  "2023-03-28": 172284,
-  "2023-03-29": 172326,
-  "2023-03-30": 172410,
-  "2023-03-31": 172410,
-  "2023-04-01": 172454,
-  "2023-04-02": 172507,
-  "2023-04-03": 172549,
-  "2023-04-04": 172598,
-  "2023-04-05": 172630,
-  "2023-04-06": 172676,
-  "2023-04-07": 172715,
-  "2023-04-09": 172823,
-  "2023-04-10": 172872,
-  "2023-04-11": 172944,
-  "2023-04-12": 172944,
-  "2023-04-13": 172973,
-  "2023-04-14": 173001,
-  "2023-04-15": 173057,
-  "2023-04-16": 173109,
-  "2023-04-17": 173168,
-  "2023-04-18": 173217,
-  "2023-04-19": 173280,
-  "2023-04-20": 173335,
-  "2023-04-21": 173383,
-  "2023-04-22": 173434,
-  "2023-04-23": 173495,
-  "2023-04-24": 173538,
-  "2023-04-25": 173593,
-  "2023-04-26": 173647,
-  "2023-04-27": 173689,
-  "2023-04-28": 173719,
-  "2023-04-29": 173766,
-  "2023-04-30": 173801,
-  "2023-05-01": 173849,
-  "2023-05-02": 173893,
-  "2023-05-03": 173940,
-  "2023-05-04": 173998,
-  "2023-05-05": 174035,
-  "2023-05-06": 174078,
-  "2023-05-07": 174165,
-  "2023-05-08": 174245,
-  "2023-05-09": 174285,
-  "2023-05-10": 174320,
-  "2023-05-11": 174371,
-  "2023-05-12": 174429,
-  "2023-05-13": 174464,
-  "2023-05-14": 174519,
-  "2023-05-15": 174568,
-  "2023-05-16": 174596,
-  "2023-05-17": 174645,
-  "2023-05-18": 174675,
-  "2023-05-19": 174728,
-  "2023-05-20": 174837,
-  "2023-05-21": 174837,
-  "2023-05-22": 174837,
-  "2023-05-23": 174940,
-  "2023-05-24": 175031,
-  "2023-05-25": 175047,
-  "2023-05-26": 175100,
-  "2023-05-27": 175157,
-  "2023-05-28": 175210,
-  "2023-05-29": 175210,
-  "2023-05-30": 175307,
-  "2023-05-31": 175351,
-  "2023-06-01": 175385,
-  "2023-06-02": 175437,
-  "2023-06-03": 175478,
-  "2023-06-04": 175542,
-  "2023-06-05": 175602,
-  "2023-06-06": 175643,
-  "2023-06-07": 175689,
-  "2023-06-08": 175737,
-  "2023-06-09": 175789,
-  "2023-06-10": 175835,
-  "2023-06-11": 175888,
-  "2023-06-12": 175933,
-  "2023-06-13": 175975,
-  "2023-06-14": 175992,
-  "2023-06-15": 176024,
-  "2023-06-16": 176052,
-  "2023-06-17": 176052,
-  "2023-06-18": 176052,
-  "2023-06-19": 176052,
-  "2023-06-20": 176052,
-  "2023-06-21": 176052,
-  "2023-06-22": 176052,
-  "2023-06-23": 176052,
-  "2023-06-24": 176052,
-  "2023-06-25": 176052,
-  "2023-06-26": 176052,
-  "2023-06-27": 176052,
-  "2023-06-28": 176052,
-  "2023-06-29": 176052,
-  "2023-06-30": 176052,
-  "2023-07-01": 176052,
-  "2023-07-02": 176052,
-  "2023-07-03": 176052,
-  "2023-07-04": 176052,
-  "2023-07-05": 176052,
-  "2023-07-06": 176052,
-  "2023-07-07": 176052,
-  "2023-07-08": 176052,
-  "2023-07-09": 176052,
-  "2023-07-10": 176052,
-  "2023-07-11": 176052,
-  "2023-07-12": 176052,
-  "2023-07-13": 176052,
-  "2023-07-14": 176052,
-  "2023-07-15": 176052,
-  "2023-07-16": 176052,
-  "2023-07-17": 176052,
-  "2023-07-18": 176052,
-  "2023-07-19": 176052,
-  "2023-07-20": 176052,
-  "2023-07-21": 176052,
-  "2023-07-22": 176052,
-  "2023-07-23": 176052,
-  "2023-07-24": 176052,
-  "2023-07-25": 176052,
-  "2023-07-26": 176052,
-  "2023-07-27": 176052,
-  "2023-07-28": 176052,
-  "2023-07-29": 176052,
-  "2023-07-30": 176052,
-  "2023-07-31": 176052,
-  "2023-08-01": 176052,
-  "2023-08-02": 176052,
-  "2023-08-03": 176052,
-  "2023-08-04": 176052,
-  "2023-08-05": 176052,
-  "2023-08-06": 176052,
-  "2023-08-07": 176052,
-  "2023-08-08": 176052,
-  "2023-08-09": 176052,
-  "2023-08-10": 176052,
-  "2023-08-11": 176052,
-  "2023-08-12": 176052,
-  "2023-08-13": 176052,
-  "2023-08-14": 176052,
-  "2023-08-15": 176052,
-  "2023-08-16": 176052,
-  "2023-08-17": 176052,
-  "2023-08-18": 176052,
-  "2023-08-19": 176052,
-  "2023-08-20": 176052,
-  "2023-08-21": 176052,
-  "2023-08-22": 176052,
-  "2023-08-23": 176052,
-  "2023-08-24": 176052,
-  "2023-08-25": 176052,
-  "2023-08-26": 176052,
-  "2023-08-27": 176052,
-  "2023-08-28": 176052,
-  "2023-08-29": 176052,
-  "2023-08-30": 176052,
-  "2023-08-31": 176052,
-  "2023-09-01": 176052,
-  "2023-09-02": 176052,
-  "2023-09-03": 176052,
-  "2023-09-04": 176052,
-  "2023-09-05": 176052,
-  "2023-09-06": 176052,
-  "2023-09-07": 176052,
-  "2023-09-08": 176052,
-  "2023-09-09": 176052,
-  "2023-09-10": 176052,
-  "2023-09-11": 176052,
-  "2023-09-12": 176052,
-  "2023-09-13": 176052,
-  "2023-09-14": 176052,
-  "2023-09-15": 176052,
-  "2023-09-16": 176052,
-  "2023-09-17": 176052,
-  "2023-09-18": 176052,
-  "2023-09-19": 176052,
-  "2023-09-20": 176052,
-  "2023-09-21": 176052,
-  "2023-09-22": 176052,
-  "2023-09-23": 176052,
-  "2023-09-24": 176052,
-  "2023-09-25": 176052,
-  "2023-09-26": 176052,
-  "2023-09-27": 176052,
-  "2023-09-28": 176052,
-  "2023-09-29": 176052,
-  "2023-09-30": 176052,
-  "2023-10-01": 176052,
-  "2023-10-02": 176052,
-  "2023-10-03": 176052,
-  "2023-10-04": 176052,
-  "2023-10-05": 176052,
-  "2023-10-06": 176052,
-  "2023-10-07": 176052,
-  "2023-10-08": 176052,
-  "2023-10-09": 176052,
-  "2023-10-10": 176052,
-  "2023-10-11": 176052,
-  "2023-10-12": 176052,
-  "2023-10-13": 176052,
-  "2023-10-14": 176052,
-  "2023-10-15": 176052,
-  "2023-10-16": 176052,
-  "2023-10-17": 176052,
-  "2023-10-18": 176052,
-  "2023-10-19": 176052,
-  "2023-10-20": 176052,
-  "2023-10-21": 176052,
-  "2023-10-22": 176052,
-  "2023-10-23": 176052,
-  "2023-10-24": 176052,
-  "2023-10-25": 176052,
-  "2023-10-26": 176052,
-  "2023-10-27": 176052,
-  "2023-10-28": 176052,
-  "2023-10-29": 176052,
-  "2023-10-30": 176052,
-  "2023-10-31": 176052,
-  "2023-11-01": 176052,
-  "2023-11-02": 176052,
-  "2023-11-03": 176052,
-  "2023-11-04": 176052,
-  "2023-11-05": 176052,
-  "2023-11-06": 176052,
-  "2023-11-07": 176052,
-  "2023-11-08": 176052,
-  "2023-11-09": 176052,
-  "2023-11-10": 176052,
-  "2023-11-11": 176052,
-  "2023-11-12": 176052,
-  "2023-11-13": 176052,
-  "2023-11-14": 176052,
-  "2023-11-15": 176052,
-  "2023-11-16": 176052,
-  "2023-11-17": 176052,
-  "2023-11-18": 176052,
-  "2023-11-19": 176052,
-  "2023-11-20": 176052,
-  "2023-11-21": 176052,
-  "2023-11-22": 176052,
-  "2023-11-23": 176052,
-  "2023-11-24": 176052,
-  "2023-11-25": 176052,
-  "2023-11-26": 176052,
-  "2023-11-27": 176052,
-  "2023-11-28": 176052,
-  "2023-11-29": 176052,
-  "2023-11-30": 176052,
-  "2023-12-01": 176052,
-  "2023-12-02": 176052,
-  "2023-12-03": 176052,
-  "2023-12-04": 176052,
-  "2023-12-05": 176052,
-  "2023-12-06": 176052,
-  "2023-12-07": 176052,
-  "2023-12-08": 176052,
-  "2023-12-09": 176052,
-  "2023-12-10": 176052,
-  "2023-12-11": 176052,
-  "2023-12-12": 176052,
-  "2023-12-13": 176052,
-  "2023-12-14": 176052,
-  "2023-12-15": 176052,
-  "2023-12-16": 176052,
-  "2023-12-17": 176052,
-  "2023-12-18": 176052,
-  "2023-12-19": 176052,
-  "2023-12-20": 176052,
-  "2023-12-21": 176052,
-  "2023-12-22": 176052,
-  "2023-12-23": 176052,
-  "2023-12-24": 176052,
-  "2023-12-25": 176052,
-  "2023-12-26": 176052,
-  "2023-12-27": 176052,
-  "2023-12-30": 176052,
-  "2023-12-31": 176052,
-  "2024-01-01": 176052,
-  "2024-01-02": 176052,
-  "2024-01-03": 176052
+  "2024-01-17": 176052,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is Nick Cave",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Boatman's Call (Remastered)",
+        "url": "https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245466,
+      "name": "(Are You) the One That I've Been Waiting For?",
+      "url": "https://open.spotify.com/track/1cFYFeniVjSqQswDGyYLyM"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "(Are You) the One That I've Been Waiting For? - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0dH8cQPWcuczLRJrLDPn6r"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/7pr4eZjcBv6WQ1eeACmo8u"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238626,
+      "name": "Abattoir Blues",
+      "url": "https://open.spotify.com/track/3p7fb3iSfrBDaB9eulcyXr"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Abattoir Blues",
+      "url": "https://open.spotify.com/track/6TWmr2xe0fHvcxs8mIj8Qp"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (Remastered)",
+        "url": "https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240533,
+      "name": "And No More Shall We Part",
+      "url": "https://open.spotify.com/track/4l1UJ6UDINUMKu5Cd0hu4m"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "And No More Shall We Part - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6amCSRyUCXzlEoybtwVvHx"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (Remastered)",
+        "url": "https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375320,
+      "name": "As I Sat Sadly By Her Side",
+      "url": "https://open.spotify.com/track/6hdDjvUH3TUOeknVlXrJiQ"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375320,
+      "name": "As I Sat Sadly By Her Side - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6OpnfAOr0fTok9HfJCflvl"
+    },
+    {
+      "album": {
+        "name": "Lethal Weapons (Remastered)",
+        "url": "https://open.spotify.com/album/1SzfOXTSuTfAtT1CHkqF5Y"
+      },
+      "artists": [
+        {
+          "name": "The Boys Next Door",
+          "url": "https://open.spotify.com/artist/5FNUQUX6l8xV7dmOaBIMqN"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Boy Here",
+      "url": "https://open.spotify.com/track/4yUXxtKJTYgV1Rb42RL2kh"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292536,
+      "name": "Bright Horses",
+      "url": "https://open.spotify.com/track/3a4gRmHTuTRghmw3LirDQ8"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 292536,
+      "name": "Bright Horses",
+      "url": "https://open.spotify.com/track/6wIwQaux8ooqB7nDGBfPuv"
+    },
+    {
+      "album": {
+        "name": "Nocturama",
+        "url": "https://open.spotify.com/album/3FgAZqG6AJyYxpLQkHckxS"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323453,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/61Xoj0dPObu3YXCo8lCRAc"
+    },
+    {
+      "album": {
+        "name": "Nocturama",
+        "url": "https://open.spotify.com/album/1FYypn4W4j6NubKmE8g8nD"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 323453,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/6NFbHY4EuhbfU9DDWvCXtk"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "Come Into My Sleep - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5At6HGlwIUZcoSBiyiDlNJ"
+    },
+    {
+      "album": {
+        "name": "Cosmic Dancer",
+        "url": "https://open.spotify.com/album/7nh1StyLTh6HXzYDKwp3tk"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354093,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/4HPW1XR0LM2SDP4tysLWGa"
+    },
+    {
+      "album": {
+        "name": "Tender Prey (Remastered)",
+        "url": "https://open.spotify.com/album/2EhuR1lADKDSLUbhyPhu7K"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225626,
+      "name": "Deanna",
+      "url": "https://open.spotify.com/track/7IpotoEpiWeYAkvrt2gbxF"
+    },
+    {
+      "album": {
+        "name": "Tender Prey (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/5OSsPdLhUCoI5g5ASRxLwr"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225626,
+      "name": "Deanna - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6t8IzZHIb9fXRDgxNEj8TS"
+    },
+    {
+      "album": {
+        "name": "Dig, Lazarus, Dig!!!",
+        "url": "https://open.spotify.com/album/22OxY6VhKgyd6Tx7ioi5L4"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251813,
+      "name": "Dig, Lazarus, Dig!!!",
+      "url": "https://open.spotify.com/track/0mI9EWu1Ka6PyCCaYUKc7u"
+    },
+    {
+      "album": {
+        "name": "Dig, Lazarus, Dig!!!",
+        "url": "https://open.spotify.com/album/6Ctfs0lQ8K44Q0EfSCeYuy"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251813,
+      "name": "Dig, Lazarus, Dig!!!",
+      "url": "https://open.spotify.com/track/35KhiTHl9m38DWgRLudDuF"
+    },
+    {
+      "album": {
+        "name": "Let Love In",
+        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 357173,
+      "name": "Do You Love Me?",
+      "url": "https://open.spotify.com/track/7B199ImYh0piGXOghItMje"
+    },
+    {
+      "album": {
+        "name": "Let Love In (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357173,
+      "name": "Do You Love Me? - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/26sLRGYCSYSnK0cJVtcCAf"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 357173,
+      "name": "Do You Love Me? - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/3GamG3rHttt3NUPHA0cx35"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178813,
+      "name": "Euthanasia - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/2EULDfdBQhz98FI78SMkE7"
+    },
+    {
+      "album": {
+        "name": "Euthanasia (Live at Alexandra Palace, 2020)",
+        "url": "https://open.spotify.com/album/7zWjxGgEiddD0seNQKDl67"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 178813,
+      "name": "Euthanasia - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/7mpXyNgLepnBooVUBpnIxX"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (Remastered)",
+        "url": "https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 333826,
+      "name": "Far from Me",
+      "url": "https://open.spotify.com/track/6ZzUJOQ7uc6HjINNOPE2GO"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333826,
+      "name": "Far from Me - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5yaEpOusXCZVG476E9Uwp4"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 203286,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/0LBKTXsZNNMYEasgRiks5H"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203286,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/0sT2dYnYDzUiBbbZ9xb0d7"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 254509,
+      "name": "Galleon Ship",
+      "url": "https://open.spotify.com/track/0Z04fUQyKGls1iV1LLHVER"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254509,
+      "name": "Galleon Ship",
+      "url": "https://open.spotify.com/track/4B1uwPgjl263qMNHys2J7h"
+    },
+    {
+      "album": {
+        "name": "Galleon Ship (Live at Alexandra Palace, 2020)",
+        "url": "https://open.spotify.com/album/3zd4hgsgOKLqVQV0hYjp79"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 211040,
+      "name": "Galleon Ship - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/017TPZ6gzpiFAl6ZUfaKjX"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "Galleon Ship - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/07oPh9IBRYjXOL5gjhwqze"
+    },
+    {
+      "album": {
+        "name": "Galleon Ship (Live at Alexandra Palace, 2020)",
+        "url": "https://open.spotify.com/album/0S84iwo050uUhcMftftHa4"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 211040,
+      "name": "Galleon Ship - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/3Cl2DI4LYmODqznXOI6Ula"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0qisvR69tGS6M5IHbsB1ZN"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187600,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/19ZFTaUTeQwdj4qtobTyx7"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 730677,
+      "name": "Ghosteen",
+      "url": "https://open.spotify.com/track/3H44zNYVAnMM5vqAHVOZ6X"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 730677,
+      "name": "Ghosteen",
+      "url": "https://open.spotify.com/track/6tEFvxPkn2FRDmTPuu2GZV"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 242556,
+      "name": "Ghosteen Speaks",
+      "url": "https://open.spotify.com/track/5SBzfFTXKKcyv6hGR0IVqg"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242556,
+      "name": "Ghosteen Speaks",
+      "url": "https://open.spotify.com/track/7jSJkyPZFnA44t1sM3pkil"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291026,
+      "name": "Girl In Amber",
+      "url": "https://open.spotify.com/track/1upEynw2Rpcp7IKvihjQW1"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 291026,
+      "name": "Girl In Amber",
+      "url": "https://open.spotify.com/track/6nL1A5WUhZWCrPhz07yKtU"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 271573,
+      "name": "Girl in Amber - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/2eqgekiAkHxSJr0DfowhK2"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271573,
+      "name": "Girl in Amber - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/4S1uc1TY67F09RK6VSqy1P"
+    },
+    {
+      "album": {
+        "name": "Give Us a Kiss",
+        "url": "https://open.spotify.com/album/2XyULUK9a00BF3fcHjkDrq"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211026,
+      "name": "Give Us a Kiss",
+      "url": "https://open.spotify.com/track/5gM0aZK9iW8r92uqDIQVMo"
+    },
+    {
+      "album": {
+        "name": "Give Us a Kiss",
+        "url": "https://open.spotify.com/album/1PhMYef0yI5YgybarsQXe9"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 211035,
+      "name": "Give Us a Kiss",
+      "url": "https://open.spotify.com/track/6Qj27142tZoPcuZbzFDr1T"
+    },
+    {
+      "album": {
+        "name": "B-Sides & Rarities (Part II)",
+        "url": "https://open.spotify.com/album/70BESZ62GkFlBw0O3mxKo9"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Give Us a Kiss",
+      "url": "https://open.spotify.com/track/6Ey2XKLjRuyWE5U3pqedvR"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Go Tell the Women",
+      "url": "https://open.spotify.com/track/6hGQJxLMEFPmW29Ii8zI2G"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204413,
+      "name": "Go Tell the Women",
+      "url": "https://open.spotify.com/track/7nRxExZ44NG0qBQk45S9Sz"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (Remastered)",
+        "url": "https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 344320,
+      "name": "God Is in the House",
+      "url": "https://open.spotify.com/track/7fYGgIxMkN72otrha570z1"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 344320,
+      "name": "God Is in the House - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/2M6zjaW4Dcb8luZmuZzEdL"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344320,
+      "name": "God Is in the House - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5Flyry8kwnmeuvdSHE4mNj"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305440,
+      "name": "Grief Came Riding",
+      "url": "https://open.spotify.com/track/0j4WEjwlD6xt3xuJZ1n4iR"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/5tXQ0mmpJ7eyEIUL6MPPtR"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305440,
+      "name": "Grief Came Riding",
+      "url": "https://open.spotify.com/track/6nGiEqNWkBTfXLlAWsKqyn"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "He Wants You",
+      "url": "https://open.spotify.com/track/1VBoU7OLK8Vg0OV4qhvS5n"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (Remastered)",
+        "url": "https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238186,
+      "name": "Henry Lee",
+      "url": "https://open.spotify.com/track/0pdA0ql6eFzL55C1WwktC5"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "Henry Lee (feat. PJ Harvey) - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/04e1VQ69ll2TR5Jp8F2n5B"
+    },
+    {
+      "album": {
+        "name": "Let Love In",
+        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254733,
+      "name": "I Let Love In",
+      "url": "https://open.spotify.com/track/2KWhAUuJB7zkW2r3nLU5N6"
+    },
+    {
+      "album": {
+        "name": "Let Love In (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254733,
+      "name": "I Let Love In - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/32XQ4QT6Pz0ld6Ev0KDI3V"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 358026,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2MWyl7mj5wM75B3t3D5z4E"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358026,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3znwa5cRLwHlQoJQ9Sgwqf"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189106,
+      "name": "Idiot Prayer - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/1wM8Ob7C63nDCh1AvRmQby"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Idiot Prayer - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/3GB4MnE6plOWsdrlS3tWkn"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (Remastered)",
+        "url": "https://open.spotify.com/album/4ij84pOJd9kY2uNdT2dOH1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256120,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/0dDDB5Y0USPabzqBmajLJr"
+    },
+    {
+      "album": {
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Into My Arms - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
+    },
+    {
+      "album": {
+        "name": "Henry's Dream",
+        "url": "https://open.spotify.com/album/05wEDivrJlju67zESWvwDe"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313400,
+      "name": "John Finn's Wife",
+      "url": "https://open.spotify.com/track/4SHrYghMp47vJik5WAaCx4"
+    },
+    {
+      "album": {
+        "name": "Henry's Dream (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/5WtxUsdAkyi39GlR9yhD1k"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313400,
+      "name": "John Finn's Wife - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7mBM4S8Hh9T5tT3IR0l6ik"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/2q5FE0HvayCsZ0iz2CBjIp"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271800,
+      "name": "Jubilee Street - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/4dUk5w6p2cwZWKp0Cch8tA"
+    },
+    {
+      "album": {
+        "name": "Idiot Prayer (Nick Cave Alone at Alexandra Palace)",
+        "url": "https://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 271800,
+      "name": "Jubilee Street - Live at Alexandra Palace, 2020",
+      "url": "https://open.spotify.com/track/7nzawV8badgt9VqSSTolnq"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287971,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0YS4LeFZt5WBZLjUqetSQT"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 287971,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/45VfmXBlB2Ej0fOTbt9h1l"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Little Janey's Gone",
+      "url": "https://open.spotify.com/track/1GY2FzjvyJjmbaJcVwJYFS"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/5tXQ0mmpJ7eyEIUL6MPPtR"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178520,
+      "name": "Little Janey's Gone",
+      "url": "https://open.spotify.com/track/5WjgdiWDDGfktLq0WrrySh"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (Remastered)",
+        "url": "https://open.spotify.com/album/4zdod6lsBznzFBYqQ7IR4I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248506,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/1cATi3Qr8HyModnrFDdoYb"
+    },
+    {
+      "album": {
+        "name": "No More Shall We Part (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/5JpkwEcDxy92C3e9vSJTVX"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "Love Letter - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0aKozTzglADfnFue4Vwuif"
+    },
+    {
+      "album": {
+        "name": "Let Love In",
+        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 381480,
+      "name": "Loverman",
+      "url": "https://open.spotify.com/track/7i4ZsMyfr9wYHJJP2xHrUR"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 381480,
+      "name": "Loverman - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5E7hQtltnGgqIpBiVspGAY"
+    },
+    {
+      "album": {
+        "name": "Let Love In (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381480,
+      "name": "Loverman - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/7pr4eZjcBv6WQ1eeACmo8u"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294400,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/3RJoYOzCfODKm5xZcBAJRG"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/3SV2yDeosH5WpfE7FvJyTa"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 307584,
+      "name": "Night Raid",
+      "url": "https://open.spotify.com/track/2qt4bd29McCoSrY6Y7LAT8"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307584,
+      "name": "Night Raid",
+      "url": "https://open.spotify.com/track/3ZEWMwjhfXjSMQYvucBQeN"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/1XoOjHBybK9RhUh1If9R5O"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260826,
+      "name": "No Pussy Blues",
+      "url": "https://open.spotify.com/track/0FyzNG0LYImrT14lGGJezQ"
+    },
+    {
+      "album": {
+        "name": "Grinderman",
+        "url": "https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "No Pussy Blues",
+      "url": "https://open.spotify.com/track/3hYm7ds6bY7jgyxGtXv9N8"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411386,
+      "name": "O Children",
+      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
+    },
+    {
+      "album": {
+        "name": "Grinderman 2",
+        "url": "https://open.spotify.com/album/13v92RQAMAswi6KpZPWTuY"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212226,
+      "name": "Palaces Of Montezuma",
+      "url": "https://open.spotify.com/track/33qCADPKZvNLx5uBvVrwfd"
+    },
+    {
+      "album": {
+        "name": "Grinderman 2",
+        "url": "https://open.spotify.com/album/5XqENSDSTSveo4eBTwjrW1"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Palaces of Montezuma",
+      "url": "https://open.spotify.com/track/6wPTh6wPe6B3QcsNSWFSFA"
+    },
+    {
+      "album": {
+        "name": "Let Love In",
+        "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 370573,
+      "name": "Red Right Hand - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0TiYwuMsemJ0Q9JLWxTjSx"
+    },
+    {
+      "album": {
+        "name": "Let Love In (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370573,
+      "name": "Red Right Hand - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj"
+    },
+    {
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ"
+    },
+    {
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
+    },
+    {
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/1oiC3mdgLddL5kHZsf4DK7"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151733,
+      "name": "Release the Bats",
+      "url": "https://open.spotify.com/track/3TLjvoo96RxZlg9iBOi8Jb"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 208520,
+      "name": "Rings Of Saturn",
+      "url": "https://open.spotify.com/track/2DJm8k4qUOF5m9yiDPt6gE"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208520,
+      "name": "Rings Of Saturn",
+      "url": "https://open.spotify.com/track/6pQS5tBcCecz8cTwQ60oYX"
+    },
+    {
+      "album": {
+        "name": "Nocturama",
+        "url": "https://open.spotify.com/album/3FgAZqG6AJyYxpLQkHckxS"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Rock of Gibraltar",
+      "url": "https://open.spotify.com/track/4VsoKFc549YXzcJ2gNdIko"
+    },
+    {
+      "album": {
+        "name": "Nocturama",
+        "url": "https://open.spotify.com/album/1FYypn4W4j6NubKmE8g8nD"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180173,
+      "name": "Rock of Gibraltar",
+      "url": "https://open.spotify.com/track/5VJbIXSPuF7oEIYo3DCely"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Shoot Me Down",
+      "url": "https://open.spotify.com/track/0XmdbrkYXtuT4lFUX6Re8w"
+    },
+    {
+      "album": {
+        "name": "B-Sides and Rarities",
+        "url": "https://open.spotify.com/album/5tXQ0mmpJ7eyEIUL6MPPtR"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213866,
+      "name": "Shoot Me Down",
+      "url": "https://open.spotify.com/track/24WrMxKya8W6vcS1ryN7Ol"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 241533,
+      "name": "Skeleton Tree",
+      "url": "https://open.spotify.com/track/3iC4tcs4MfcTBXMV2ptj1M"
+    },
+    {
+      "album": {
+        "name": "Skeleton Tree",
+        "url": "https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Skeleton Tree",
+      "url": "https://open.spotify.com/track/7qOQLkVimlB4Ptonb1yuse"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (Remastered)",
+        "url": "https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 315146,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/6t6icbMp2CSOMrihpApmrT"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 315146,
+      "name": "Stagger Lee - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/1KtQfUi6ZqDv7uZseXMjwc"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315146,
+      "name": "Stagger Lee - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/3tPJiyCky7ILbEc3LezFkT"
+    },
+    {
+      "album": {
+        "name": "Henry's Dream",
+        "url": "https://open.spotify.com/album/05wEDivrJlju67zESWvwDe"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274973,
+      "name": "Straight to You",
+      "url": "https://open.spotify.com/track/664vh9DsZPCjyzM9WAcfYB"
+    },
+    {
+      "album": {
+        "name": "Henry's Dream (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/5WtxUsdAkyi39GlR9yhD1k"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274973,
+      "name": "Straight to You - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3ZMQOrCj7exXxV7NmCiorW"
+    },
+    {
+      "album": {
+        "name": "Your Funeral... My Trial",
+        "url": "https://open.spotify.com/album/2tCVmRY54oIgYASh50Ra4Q"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286800,
+      "name": "Stranger Than Kindness",
+      "url": "https://open.spotify.com/track/3eZ9swCNg9PqPwUfutnpbb"
+    },
+    {
+      "album": {
+        "name": "Your Funeral... My Trial (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/0aI0m1pMuUgp8QT9eLjSWh"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286800,
+      "name": "Stranger Than Kindness - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/7G2NKBqxdVEK2tApKua3td"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 406186,
+      "name": "Sun Forest",
+      "url": "https://open.spotify.com/track/0fK6y3TqnsEoKnN8L4ZXSH"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406186,
+      "name": "Sun Forest",
+      "url": "https://open.spotify.com/track/73BhSTfagWUth0eS0BtaXH"
+    },
+    {
+      "album": {
+        "name": "Kicking Against the Pricks",
+        "url": "https://open.spotify.com/album/0y2LwFbEWh3uHbFA9TVnv1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230173,
+      "name": "The Hammer Song",
+      "url": "https://open.spotify.com/track/7GslOGyGJfksVFvjcjsqO3"
+    },
+    {
+      "album": {
+        "name": "Kicking Against The Pricks (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/1de47EBZzSOv5vqwIPWklr"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "The Hammer Song - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/75Lt84BK3tJnprqjsyf1Xb"
+    },
+    {
+      "album": {
+        "name": "The Good Son (Remastered)",
+        "url": "https://open.spotify.com/album/6SkHG0iUVIsQ5mkuGb2z6y"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 314146,
+      "name": "The Ship Song",
+      "url": "https://open.spotify.com/track/0aEjy8nRopYMmDsPnJSvKw"
+    },
+    {
+      "album": {
+        "name": "The Good Son (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/5SbAOlKlCsosN6Aalgwt1L"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314146,
+      "name": "The Ship Song - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3Ybl3DyPcWsz5ZCliEo3l1"
+    },
+    {
+      "album": {
+        "name": "The Good Son (Remastered)",
+        "url": "https://open.spotify.com/album/6SkHG0iUVIsQ5mkuGb2z6y"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265146,
+      "name": "The Weeping Song",
+      "url": "https://open.spotify.com/track/4EJMcb2uszweuVknubh7GV"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265146,
+      "name": "The Weeping Song - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/2fs5Qa59zJAUeTzSRP4V65"
+    },
+    {
+      "album": {
+        "name": "The Good Son (2010 Remastered Version)",
+        "url": "https://open.spotify.com/album/5SbAOlKlCsosN6Aalgwt1L"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265146,
+      "name": "The Weeping Song - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7A4qkJulbEMvveTLvj7Tbo"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/7pr4eZjcBv6WQ1eeACmo8u"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 317026,
+      "name": "There She Goes, My Beautiful World",
+      "url": "https://open.spotify.com/track/0q5fFuKaLTkpI9n7ioMO3r"
+    },
+    {
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317026,
+      "name": "There She Goes, My Beautiful World",
+      "url": "https://open.spotify.com/track/4KQOt8UvwZmUF8sjT4Za50"
+    },
+    {
+      "album": {
+        "name": "The Firstborn Is Dead (Remastered)",
+        "url": "https://open.spotify.com/album/66bFqbM5tSiXXkm6LzvqF3"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 438226,
+      "name": "Tupelo",
+      "url": "https://open.spotify.com/track/5uCpAObUf6ZAhyl5qQ4TUg"
+    },
+    {
+      "album": {
+        "name": "The Firstborn Is Dead (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438226,
+      "name": "Tupelo - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/02TlBa3Yd1NEJtZP016QAB"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 438226,
+      "name": "Tupelo - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/60tOkZmqKwh8RlTMPhbKLd"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 234394,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/1aaUv9RdPa2zEKvaxbHHpc"
+    },
+    {
+      "album": {
+        "name": "Ghosteen",
+        "url": "https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234394,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/1cmlwljf7RpV5t0KGLWR9O"
+    },
+    {
+      "album": {
+        "name": "Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311506,
+      "name": "We Call Upon the Author",
+      "url": "https://open.spotify.com/track/6Xy8yTxhKworfQRuMfG3a9"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 258693,
+      "name": "We Real Cool",
+      "url": "https://open.spotify.com/track/2ZzMJjMfJEUtOCYXLX9NqY"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away",
+        "url": "https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "We Real Cool",
+      "url": "https://open.spotify.com/track/4FcdvAtBFWP1KSNKs9vRmy"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JcaeDpIypZIBQH5zWQy8g"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258693,
+      "name": "We Real Cool",
+      "url": "https://open.spotify.com/track/7hzBn8tHgbiYNNg9A0yqMT"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (Remastered)",
+        "url": "https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237080,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/1L8SrVwjhIRsUdM7TkQprW"
+    },
+    {
+      "album": {
+        "name": "Step Back In Time: The Definitive Collection (Expanded)",
+        "url": "https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 235946,
+      "name": "Where the Wild Roses Grow - 2011 - Remaster",
+      "url": "https://open.spotify.com/track/4lKtuFVbBcQP7nwpLS0V8K"
+    },
+    {
+      "album": {
+        "name": "Murder Ballads (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237080,
+      "name": "Where the Wild Roses Grow - 2011 - Remaster",
+      "url": "https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away",
+        "url": "https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220147,
+      "name": "Wide Lovely Eyes",
+      "url": "https://open.spotify.com/track/1Bd9l1oY7kbsW3VaVKjtjw"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 220147,
+      "name": "Wide Lovely Eyes",
+      "url": "https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac"
+    },
+    {
+      "album": {
+        "name": "Push the Sky Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JcaeDpIypZIBQH5zWQy8g"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220147,
+      "name": "Wide Lovely Eyes",
+      "url": "https://open.spotify.com/track/483SUOm03Sou4Xj7LPkKy6"
+    },
+    {
+      "album": {
+        "name": "Grinderman 2",
+        "url": "https://open.spotify.com/album/13v92RQAMAswi6KpZPWTuY"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193133,
+      "name": "Worm Tamer",
+      "url": "https://open.spotify.com/track/51Or6IasXwy1X0CSEvgPRx"
+    },
+    {
+      "album": {
+        "name": "Grinderman 2",
+        "url": "https://open.spotify.com/album/5XqENSDSTSveo4eBTwjrW1"
+      },
+      "artists": [
+        {
+          "name": "Grinderman",
+          "url": "https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Worm Tamer",
+      "url": "https://open.spotify.com/track/6LYZrlstXYeh83TPvWssqt"
+    },
+    {
+      "album": {
+        "name": "Your Funeral... My Trial",
+        "url": "https://open.spotify.com/album/2tCVmRY54oIgYASh50Ra4Q"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236440,
+      "name": "Your Funeral My Trial",
+      "url": "https://open.spotify.com/track/1jKpEzpSFhtt7hQOkv43xO"
+    },
+    {
+      "album": {
+        "name": "Your Funeral... My Trial (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/0aI0m1pMuUgp8QT9eLjSWh"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Your Funeral My Trial - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/4OTC1dgMqtVPJIbbi56O2R"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYEHBVWXZn8H"
 }

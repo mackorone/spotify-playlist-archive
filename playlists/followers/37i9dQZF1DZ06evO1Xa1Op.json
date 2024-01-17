@@ -1,729 +1,2037 @@
 {
-  "2021-12-29": 12734,
-  "2021-12-30": 12739,
-  "2021-12-31": 12743,
-  "2022-01-01": 12755,
-  "2022-01-02": 12761,
-  "2022-01-03": 12767,
-  "2022-01-04": 12775,
-  "2022-01-05": 12787,
-  "2022-01-06": 12801,
-  "2022-01-07": 12805,
-  "2022-01-08": 12822,
-  "2022-01-09": 12823,
-  "2022-01-10": 12831,
-  "2022-01-11": 12838,
-  "2022-01-12": 12839,
-  "2022-01-13": 12844,
-  "2022-01-14": 12850,
-  "2022-01-15": 12871,
-  "2022-01-16": 12873,
-  "2022-01-17": 12883,
-  "2022-01-18": 12884,
-  "2022-01-19": 12885,
-  "2022-01-20": 12894,
-  "2022-01-21": 12901,
-  "2022-01-22": 12913,
-  "2022-01-23": 12922,
-  "2022-01-24": 12932,
-  "2022-01-25": 12941,
-  "2022-01-26": 12950,
-  "2022-01-27": 12962,
-  "2022-01-28": 12969,
-  "2022-01-29": 12977,
-  "2022-01-30": 12986,
-  "2022-01-31": 12996,
-  "2022-02-01": 13006,
-  "2022-02-02": 13014,
-  "2022-02-03": 13020,
-  "2022-02-04": 13026,
-  "2022-02-05": 13033,
-  "2022-02-06": 13043,
-  "2022-02-07": 13046,
-  "2022-02-08": 13051,
-  "2022-02-09": 13058,
-  "2022-02-10": 13067,
-  "2022-02-11": 13074,
-  "2022-02-12": 13083,
-  "2022-02-13": 13094,
-  "2022-02-14": 13105,
-  "2022-02-15": 13109,
-  "2022-02-16": 13121,
-  "2022-02-17": 13130,
-  "2022-02-18": 13137,
-  "2022-02-19": 13140,
-  "2022-02-20": 13148,
-  "2022-02-21": 13156,
-  "2022-02-22": 13163,
-  "2022-02-23": 13167,
-  "2022-02-24": 13169,
-  "2022-02-25": 13176,
-  "2022-02-26": 13181,
-  "2022-02-27": 13189,
-  "2022-02-28": 13189,
-  "2022-03-01": 13197,
-  "2022-03-02": 13206,
-  "2022-03-03": 13215,
-  "2022-03-04": 13223,
-  "2022-03-05": 13225,
-  "2022-03-06": 13240,
-  "2022-03-07": 13246,
-  "2022-03-08": 13250,
-  "2022-03-09": 13257,
-  "2022-03-10": 13264,
-  "2022-03-11": 13274,
-  "2022-03-12": 13280,
-  "2022-03-13": 13293,
-  "2022-03-14": 13304,
-  "2022-03-15": 13314,
-  "2022-03-16": 13326,
-  "2022-03-17": 13333,
-  "2022-03-18": 13349,
-  "2022-03-19": 13359,
-  "2022-03-20": 13359,
-  "2022-03-21": 13375,
-  "2022-03-22": 13383,
-  "2022-03-23": 13390,
-  "2022-03-24": 13396,
-  "2022-03-25": 13403,
-  "2022-03-26": 13412,
-  "2022-03-27": 13423,
-  "2022-03-28": 13430,
-  "2022-03-30": 13439,
-  "2022-03-31": 13442,
-  "2022-04-01": 13448,
-  "2022-04-02": 13455,
-  "2022-04-03": 13460,
-  "2022-04-04": 13466,
-  "2022-04-05": 13474,
-  "2022-04-06": 13480,
-  "2022-04-07": 13492,
-  "2022-04-08": 13499,
-  "2022-04-09": 13511,
-  "2022-04-10": 13533,
-  "2022-04-11": 13537,
-  "2022-04-12": 13538,
-  "2022-04-13": 13546,
-  "2022-04-14": 13552,
-  "2022-04-15": 13561,
-  "2022-04-16": 13569,
-  "2022-04-17": 13574,
-  "2022-04-18": 13584,
-  "2022-04-19": 13590,
-  "2022-04-20": 13591,
-  "2022-04-21": 13596,
-  "2022-04-22": 13605,
-  "2022-04-23": 13609,
-  "2022-04-24": 13620,
-  "2022-04-25": 13630,
-  "2022-04-26": 13637,
-  "2022-04-27": 13643,
-  "2022-04-28": 13645,
-  "2022-04-29": 13653,
-  "2022-04-30": 13661,
-  "2022-05-01": 13684,
-  "2022-05-02": 13684,
-  "2022-05-03": 13692,
-  "2022-05-04": 13704,
-  "2022-05-05": 13706,
-  "2022-05-06": 13716,
-  "2022-05-07": 13724,
-  "2022-05-08": 13730,
-  "2022-05-09": 13733,
-  "2022-05-10": 13736,
-  "2022-05-11": 13740,
-  "2022-05-12": 13745,
-  "2022-05-13": 13749,
-  "2022-05-14": 13761,
-  "2022-05-15": 13772,
-  "2022-05-16": 13777,
-  "2022-05-17": 13786,
-  "2022-05-18": 13792,
-  "2022-05-19": 13797,
-  "2022-05-20": 13805,
-  "2022-05-21": 13827,
-  "2022-05-22": 13827,
-  "2022-05-23": 13834,
-  "2022-05-24": 13842,
-  "2022-05-25": 13845,
-  "2022-05-26": 13853,
-  "2022-05-27": 13857,
-  "2022-05-28": 13862,
-  "2022-05-29": 13868,
-  "2022-05-30": 13876,
-  "2022-05-31": 13883,
-  "2022-06-01": 13894,
-  "2022-06-02": 13893,
-  "2022-06-03": 13899,
-  "2022-06-04": 13906,
-  "2022-06-05": 13914,
-  "2022-06-06": 13922,
-  "2022-06-07": 13928,
-  "2022-06-08": 13933,
-  "2022-06-09": 13938,
-  "2022-06-10": 13942,
-  "2022-06-11": 13949,
-  "2022-06-12": 13962,
-  "2022-06-13": 13975,
-  "2022-06-14": 13976,
-  "2022-06-15": 13978,
-  "2022-06-16": 13982,
-  "2022-06-17": 13995,
-  "2022-06-18": 13998,
-  "2022-06-19": 14022,
-  "2022-06-20": 14022,
-  "2022-06-21": 14025,
-  "2022-06-22": 14036,
-  "2022-06-23": 14036,
-  "2022-06-24": 14045,
-  "2022-06-25": 14054,
-  "2022-06-26": 14063,
-  "2022-06-27": 14073,
-  "2022-06-28": 14080,
-  "2022-06-29": 14085,
-  "2022-06-30": 14094,
-  "2022-07-01": 14098,
-  "2022-07-02": 14101,
-  "2022-07-03": 14102,
-  "2022-07-04": 14114,
-  "2022-07-07": 14135,
-  "2022-07-08": 14147,
-  "2022-07-09": 14159,
-  "2022-07-10": 14174,
-  "2022-07-11": 14189,
-  "2022-07-12": 14199,
-  "2022-07-13": 14204,
-  "2022-07-14": 14210,
-  "2022-07-15": 14215,
-  "2022-07-16": 14219,
-  "2022-07-17": 14228,
-  "2022-07-18": 14243,
-  "2022-07-19": 14252,
-  "2022-07-20": 14255,
-  "2022-07-21": 14260,
-  "2022-07-22": 14268,
-  "2022-07-23": 14281,
-  "2022-07-24": 14288,
-  "2022-07-25": 14296,
-  "2022-07-26": 14308,
-  "2022-07-27": 14316,
-  "2022-07-28": 14327,
-  "2022-07-29": 14340,
-  "2022-07-30": 14353,
-  "2022-07-31": 14353,
-  "2022-08-01": 14362,
-  "2022-08-02": 14381,
-  "2022-08-03": 14381,
-  "2022-08-04": 14384,
-  "2022-08-05": 14391,
-  "2022-08-06": 14400,
-  "2022-08-07": 14410,
-  "2022-08-08": 14417,
-  "2022-08-09": 14425,
-  "2022-08-10": 14441,
-  "2022-08-11": 14446,
-  "2022-08-12": 14460,
-  "2022-08-13": 14467,
-  "2022-08-14": 14475,
-  "2022-08-15": 14483,
-  "2022-08-16": 14482,
-  "2022-08-17": 14497,
-  "2022-08-18": 14504,
-  "2022-08-19": 14514,
-  "2022-08-20": 14523,
-  "2022-08-21": 14529,
-  "2022-08-22": 14540,
-  "2022-08-23": 14548,
-  "2022-08-24": 14554,
-  "2022-08-25": 14561,
-  "2022-08-26": 14567,
-  "2022-08-27": 14574,
-  "2022-08-28": 14590,
-  "2022-08-29": 14598,
-  "2022-08-30": 14607,
-  "2022-08-31": 14610,
-  "2022-09-01": 14615,
-  "2022-09-02": 14614,
-  "2022-09-03": 14623,
-  "2022-09-04": 14633,
-  "2022-09-05": 14642,
-  "2022-09-06": 14655,
-  "2022-09-07": 14661,
-  "2022-09-09": 14671,
-  "2022-09-10": 14681,
-  "2022-09-11": 14693,
-  "2022-09-12": 14708,
-  "2022-09-13": 14714,
-  "2022-09-15": 14734,
-  "2022-09-16": 14741,
-  "2022-09-17": 14761,
-  "2022-09-18": 14770,
-  "2022-09-19": 14776,
-  "2022-09-20": 14783,
-  "2022-09-21": 14795,
-  "2022-09-22": 14800,
-  "2022-09-23": 14821,
-  "2022-09-24": 14821,
-  "2022-09-25": 14853,
-  "2022-09-26": 14863,
-  "2022-09-27": 14874,
-  "2022-09-28": 14886,
-  "2022-09-29": 14900,
-  "2022-09-30": 14913,
-  "2022-10-01": 14921,
-  "2022-10-02": 14934,
-  "2022-10-03": 14948,
-  "2022-10-04": 14949,
-  "2022-10-05": 14956,
-  "2022-10-06": 14964,
-  "2022-10-07": 14974,
-  "2022-10-08": 14982,
-  "2022-10-09": 14996,
-  "2022-10-10": 15002,
-  "2022-10-11": 15009,
-  "2022-10-12": 15019,
-  "2022-10-13": 15026,
-  "2022-10-14": 15036,
-  "2022-10-15": 15038,
-  "2022-10-16": 15049,
-  "2022-10-17": 15057,
-  "2022-10-18": 15074,
-  "2022-10-19": 15076,
-  "2022-10-20": 15089,
-  "2022-10-21": 15094,
-  "2022-10-22": 15100,
-  "2022-10-23": 15111,
-  "2022-10-24": 15116,
-  "2022-10-25": 15123,
-  "2022-10-26": 15130,
-  "2022-10-27": 15140,
-  "2022-10-28": 15155,
-  "2022-10-29": 15165,
-  "2022-10-30": 15177,
-  "2022-10-31": 15192,
-  "2022-11-01": 15196,
-  "2022-11-02": 15203,
-  "2022-11-03": 15209,
-  "2022-11-04": 15223,
-  "2022-11-05": 15233,
-  "2022-11-06": 15247,
-  "2022-11-07": 15267,
-  "2022-11-08": 15282,
-  "2022-11-09": 15289,
-  "2022-11-10": 15299,
-  "2022-11-11": 15304,
-  "2022-11-12": 15313,
-  "2022-11-13": 15321,
-  "2022-11-14": 15328,
-  "2022-11-15": 15340,
-  "2022-11-16": 15349,
-  "2022-11-17": 15353,
-  "2022-11-18": 15355,
-  "2022-11-19": 15360,
-  "2022-11-20": 15365,
-  "2022-11-21": 15371,
-  "2022-11-22": 15376,
-  "2022-11-23": 15383,
-  "2022-11-24": 15395,
-  "2022-11-25": 15408,
-  "2022-11-26": 15417,
-  "2022-11-27": 15427,
-  "2022-11-28": 15438,
-  "2022-11-29": 15446,
-  "2022-11-30": 15456,
-  "2022-12-01": 15462,
-  "2022-12-02": 15465,
-  "2022-12-03": 15473,
-  "2022-12-04": 15477,
-  "2022-12-05": 15479,
-  "2022-12-06": 15486,
-  "2022-12-07": 15494,
-  "2022-12-08": 15503,
-  "2022-12-09": 15509,
-  "2022-12-10": 15523,
-  "2022-12-11": 15534,
-  "2022-12-12": 15538,
-  "2022-12-13": 15542,
-  "2022-12-14": 15547,
-  "2022-12-15": 15553,
-  "2022-12-16": 15564,
-  "2022-12-17": 15567,
-  "2022-12-18": 15580,
-  "2022-12-19": 15591,
-  "2022-12-20": 15603,
-  "2022-12-21": 15603,
-  "2022-12-22": 15619,
-  "2022-12-24": 15640,
-  "2022-12-25": 15651,
-  "2022-12-26": 15660,
-  "2022-12-27": 15671,
-  "2022-12-28": 15686,
-  "2022-12-29": 15688,
-  "2022-12-30": 15701,
-  "2022-12-31": 15705,
-  "2023-01-01": 15716,
-  "2023-01-02": 15721,
-  "2023-01-03": 15740,
-  "2023-01-04": 15750,
-  "2023-01-05": 15761,
-  "2023-01-06": 15772,
-  "2023-01-07": 15789,
-  "2023-01-08": 15792,
-  "2023-01-09": 15806,
-  "2023-01-10": 15815,
-  "2023-01-11": 15816,
-  "2023-01-12": 15824,
-  "2023-01-13": 15837,
-  "2023-01-14": 15862,
-  "2023-01-15": 15863,
-  "2023-01-16": 15879,
-  "2023-01-17": 15890,
-  "2023-01-18": 15899,
-  "2023-01-19": 15904,
-  "2023-01-20": 15909,
-  "2023-01-21": 15926,
-  "2023-01-22": 15936,
-  "2023-01-23": 15940,
-  "2023-01-24": 15955,
-  "2023-01-25": 15958,
-  "2023-01-26": 15972,
-  "2023-01-27": 15981,
-  "2023-01-28": 15996,
-  "2023-01-29": 16008,
-  "2023-01-30": 16022,
-  "2023-01-31": 16022,
-  "2023-02-01": 16034,
-  "2023-02-02": 16043,
-  "2023-02-03": 16062,
-  "2023-02-04": 16077,
-  "2023-02-05": 16094,
-  "2023-02-06": 16111,
-  "2023-02-07": 16116,
-  "2023-02-08": 16142,
-  "2023-02-09": 16142,
-  "2023-02-10": 16155,
-  "2023-02-11": 16160,
-  "2023-02-12": 16175,
-  "2023-02-13": 16183,
-  "2023-02-14": 16183,
-  "2023-02-15": 16187,
-  "2023-02-16": 16189,
-  "2023-02-17": 16196,
-  "2023-02-18": 16219,
-  "2023-02-19": 16218,
-  "2023-02-20": 16228,
-  "2023-02-21": 16232,
-  "2023-02-22": 16247,
-  "2023-02-23": 16255,
-  "2023-02-24": 16261,
-  "2023-02-25": 16279,
-  "2023-02-26": 16288,
-  "2023-02-27": 16306,
-  "2023-02-28": 16306,
-  "2023-03-01": 16316,
-  "2023-03-02": 16324,
-  "2023-03-03": 16346,
-  "2023-03-04": 16362,
-  "2023-03-05": 16396,
-  "2023-03-06": 16396,
-  "2023-03-07": 16402,
-  "2023-03-08": 16406,
-  "2023-03-09": 16416,
-  "2023-03-10": 16424,
-  "2023-03-11": 16435,
-  "2023-03-12": 16445,
-  "2023-03-13": 16463,
-  "2023-03-14": 16472,
-  "2023-03-15": 16482,
-  "2023-03-16": 16482,
-  "2023-03-17": 16482,
-  "2023-03-18": 16521,
-  "2023-03-19": 16521,
-  "2023-03-20": 16548,
-  "2023-03-21": 16558,
-  "2023-03-22": 16569,
-  "2023-03-23": 16583,
-  "2023-03-24": 16583,
-  "2023-03-25": 16605,
-  "2023-03-26": 16609,
-  "2023-03-27": 16621,
-  "2023-03-28": 16631,
-  "2023-03-29": 16639,
-  "2023-03-30": 16658,
-  "2023-03-31": 16658,
-  "2023-04-01": 16665,
-  "2023-04-02": 16673,
-  "2023-04-03": 16685,
-  "2023-04-04": 16694,
-  "2023-04-05": 16711,
-  "2023-04-06": 16732,
-  "2023-04-07": 16743,
-  "2023-04-09": 16773,
-  "2023-04-10": 16785,
-  "2023-04-11": 16805,
-  "2023-04-12": 16805,
-  "2023-04-13": 16816,
-  "2023-04-14": 16829,
-  "2023-04-15": 16831,
-  "2023-04-16": 16845,
-  "2023-04-17": 16861,
-  "2023-04-18": 16869,
-  "2023-04-19": 16877,
-  "2023-04-20": 16888,
-  "2023-04-21": 16893,
-  "2023-04-22": 16907,
-  "2023-04-23": 16921,
-  "2023-04-24": 16933,
-  "2023-04-25": 17001,
-  "2023-04-26": 17027,
-  "2023-04-27": 17039,
-  "2023-04-28": 17052,
-  "2023-04-29": 17070,
-  "2023-04-30": 17081,
-  "2023-05-01": 17098,
-  "2023-05-02": 17112,
-  "2023-05-03": 17113,
-  "2023-05-04": 17124,
-  "2023-05-05": 17131,
-  "2023-05-06": 17141,
-  "2023-05-07": 17152,
-  "2023-05-08": 17164,
-  "2023-05-09": 17168,
-  "2023-05-10": 17177,
-  "2023-05-11": 17178,
-  "2023-05-12": 17182,
-  "2023-05-13": 17188,
-  "2023-05-14": 17204,
-  "2023-05-15": 17217,
-  "2023-05-16": 17228,
-  "2023-05-17": 17237,
-  "2023-05-18": 17244,
-  "2023-05-19": 17258,
-  "2023-05-20": 17278,
-  "2023-05-21": 17278,
-  "2023-05-22": 17278,
-  "2023-05-23": 17302,
-  "2023-05-24": 17315,
-  "2023-05-25": 17320,
-  "2023-05-26": 17330,
-  "2023-05-27": 17342,
-  "2023-05-28": 17351,
-  "2023-05-29": 17351,
-  "2023-05-30": 17372,
-  "2023-05-31": 17381,
-  "2023-06-01": 17393,
-  "2023-06-02": 17398,
-  "2023-06-03": 17405,
-  "2023-06-04": 17414,
-  "2023-06-05": 17415,
-  "2023-06-06": 17428,
-  "2023-06-07": 17436,
-  "2023-06-08": 17449,
-  "2023-06-09": 17464,
-  "2023-06-10": 17474,
-  "2023-06-11": 17484,
-  "2023-06-12": 17486,
-  "2023-06-13": 17493,
-  "2023-06-14": 17498,
-  "2023-06-15": 17504,
-  "2023-06-16": 17514,
-  "2023-06-17": 17528,
-  "2023-06-18": 17533,
-  "2023-06-19": 17544,
-  "2023-06-20": 17554,
-  "2023-06-21": 17564,
-  "2023-06-22": 17565,
-  "2023-06-23": 17575,
-  "2023-06-24": 17580,
-  "2023-06-25": 17587,
-  "2023-06-26": 17597,
-  "2023-06-27": 17609,
-  "2023-06-28": 17615,
-  "2023-06-29": 17623,
-  "2023-06-30": 17629,
-  "2023-07-01": 17667,
-  "2023-07-02": 17667,
-  "2023-07-03": 17680,
-  "2023-07-04": 17685,
-  "2023-07-05": 17698,
-  "2023-07-06": 17714,
-  "2023-07-07": 17714,
-  "2023-07-08": 17722,
-  "2023-07-09": 17736,
-  "2023-07-10": 17738,
-  "2023-07-11": 17738,
-  "2023-07-12": 17741,
-  "2023-07-13": 17746,
-  "2023-07-14": 17751,
-  "2023-07-15": 17758,
-  "2023-07-16": 17769,
-  "2023-07-17": 17778,
-  "2023-07-18": 17782,
-  "2023-07-19": 17788,
-  "2023-07-20": 17794,
-  "2023-07-21": 17801,
-  "2023-07-22": 17805,
-  "2023-07-23": 17819,
-  "2023-07-24": 17824,
-  "2023-07-25": 17833,
-  "2023-07-26": 17843,
-  "2023-07-27": 17852,
-  "2023-07-28": 17858,
-  "2023-07-29": 17869,
-  "2023-07-30": 17882,
-  "2023-07-31": 17889,
-  "2023-08-01": 17895,
-  "2023-08-02": 17896,
-  "2023-08-03": 17903,
-  "2023-08-04": 17907,
-  "2023-08-05": 17917,
-  "2023-08-06": 17942,
-  "2023-08-07": 17942,
-  "2023-08-08": 17941,
-  "2023-08-09": 17949,
-  "2023-08-10": 17959,
-  "2023-08-11": 17967,
-  "2023-08-12": 17967,
-  "2023-08-13": 17967,
-  "2023-08-14": 17996,
-  "2023-08-15": 17996,
-  "2023-08-16": 17996,
-  "2023-08-17": 18021,
-  "2023-08-18": 18021,
-  "2023-08-19": 18021,
-  "2023-08-20": 18043,
-  "2023-08-21": 18043,
-  "2023-08-22": 18056,
-  "2023-08-23": 18056,
-  "2023-08-24": 18056,
-  "2023-08-25": 18056,
-  "2023-08-26": 18085,
-  "2023-08-27": 18085,
-  "2023-08-28": 18095,
-  "2023-08-29": 18095,
-  "2023-08-30": 18095,
-  "2023-08-31": 18122,
-  "2023-09-01": 18123,
-  "2023-09-02": 18123,
-  "2023-09-03": 18142,
-  "2023-09-04": 18142,
-  "2023-09-05": 18142,
-  "2023-09-06": 18167,
-  "2023-09-07": 18167,
-  "2023-09-08": 18167,
-  "2023-09-09": 18167,
-  "2023-09-10": 18198,
-  "2023-09-11": 18198,
-  "2023-09-12": 18198,
-  "2023-09-13": 18215,
-  "2023-09-14": 18215,
-  "2023-09-15": 18215,
-  "2023-09-16": 18232,
-  "2023-09-17": 18232,
-  "2023-09-18": 18232,
-  "2023-09-19": 18267,
-  "2023-09-20": 18267,
-  "2023-09-21": 18267,
-  "2023-09-22": 18283,
-  "2023-09-23": 18283,
-  "2023-09-24": 18283,
-  "2023-09-25": 18283,
-  "2023-09-26": 18315,
-  "2023-09-27": 18315,
-  "2023-09-28": 18315,
-  "2023-09-29": 18315,
-  "2023-09-30": 18315,
-  "2023-10-01": 18315,
-  "2023-10-02": 18355,
-  "2023-10-03": 18355,
-  "2023-10-04": 18355,
-  "2023-10-05": 18373,
-  "2023-10-06": 18373,
-  "2023-10-07": 18373,
-  "2023-10-08": 18373,
-  "2023-10-09": 18373,
-  "2023-10-10": 18373,
-  "2023-10-11": 18417,
-  "2023-10-12": 18417,
-  "2023-10-13": 18417,
-  "2023-10-14": 18417,
-  "2023-10-15": 18417,
-  "2023-10-16": 18417,
-  "2023-10-17": 18417,
-  "2023-10-18": 18417,
-  "2023-10-19": 18417,
-  "2023-10-20": 18417,
-  "2023-10-21": 18417,
-  "2023-10-22": 18417,
-  "2023-10-23": 18417,
-  "2023-10-24": 18417,
-  "2023-10-25": 18417,
-  "2023-10-26": 18417,
-  "2023-10-27": 18417,
-  "2023-10-28": 18417,
-  "2023-10-29": 18417,
-  "2023-10-30": 18417,
-  "2023-10-31": 18417,
-  "2023-11-01": 18417,
-  "2023-11-02": 18417,
-  "2023-11-03": 18417,
-  "2023-11-04": 18417,
-  "2023-11-05": 18417,
-  "2023-11-06": 18417,
-  "2023-11-07": 18417,
-  "2023-11-08": 18417,
-  "2023-11-09": 18417,
-  "2023-11-10": 18417,
-  "2023-11-11": 18668,
-  "2023-11-12": 18668,
-  "2023-11-13": 18668,
-  "2023-11-14": 18668,
-  "2023-11-15": 18668,
-  "2023-11-16": 18668,
-  "2023-11-17": 18668,
-  "2023-11-18": 18668,
-  "2023-11-19": 18668,
-  "2023-11-20": 18668,
-  "2023-11-21": 18668,
-  "2023-11-22": 18668,
-  "2023-11-23": 18668,
-  "2023-11-24": 18668,
-  "2023-11-25": 18668,
-  "2023-11-26": 18668,
-  "2023-11-27": 18668,
-  "2023-11-28": 18668,
-  "2023-11-29": 18668,
-  "2023-11-30": 18668,
-  "2023-12-01": 18668,
-  "2023-12-02": 18668,
-  "2023-12-03": 18668,
-  "2023-12-04": 18668,
-  "2023-12-05": 18668,
-  "2023-12-06": 18668,
-  "2023-12-07": 18668,
-  "2023-12-08": 18668,
-  "2023-12-09": 18668,
-  "2023-12-10": 18668,
-  "2023-12-11": 18668,
-  "2023-12-12": 18668,
-  "2023-12-13": 18668,
-  "2023-12-14": 18884,
-  "2023-12-15": 18885,
-  "2023-12-16": 18892,
-  "2023-12-17": 18898,
-  "2023-12-18": 18902,
-  "2023-12-19": 18899,
-  "2023-12-20": 18903,
-  "2023-12-21": 18909,
-  "2023-12-22": 18916,
-  "2023-12-23": 18921,
-  "2023-12-24": 18927,
-  "2023-12-25": 18937,
-  "2023-12-26": 18944,
-  "2023-12-27": 18957,
-  "2023-12-30": 18975,
-  "2023-12-31": 18980,
-  "2024-01-01": 18985,
-  "2024-01-02": 18987,
-  "2024-01-03": 18983
+  "2024-01-17": 19052,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
+  "name": "This Is Ali Farka Tour\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 417186,
+      "name": "56",
+      "url": "https://open.spotify.com/track/4ML8gLVDid1m2pRDHGUQQ7"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/4xkNHzlCNBkJrL0PlOLDRP"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 429973,
+      "name": "Ai Du (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/3c6wivu78aLN7ZXp8UbpaI"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 271986,
+      "name": "Ai ga bani",
+      "url": "https://open.spotify.com/track/2VloJArbBxVBjVP6S98zw0"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274453,
+      "name": "Ai Ga Bani",
+      "url": "https://open.spotify.com/track/4SyLJdsiZNIU6TS6xJckgU"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/5lCQmJD3tz2UjCNCsjJM22"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 563800,
+      "name": "Amandrai (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/4wHbmF84ypSrqSdOBVHPLR"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 349640,
+      "name": "ASCO",
+      "url": "https://open.spotify.com/track/21blxUn7Ttcrj5iPpNz1DH"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349640,
+      "name": "ASCO",
+      "url": "https://open.spotify.com/track/5fr5nbpHcQdbkNjxmYmmzr"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 392226,
+      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/08GUN9ZldEFK7tUjEE4wcA"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392226,
+      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Banga (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7igrwMUTjiZLYxXr5SnUBq"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 152826,
+      "name": "Banga (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5vVCBgdymto1nkFyTOHEO4"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306960,
+      "name": "Be Mankan",
+      "url": "https://open.spotify.com/track/1IrPSbGITPaMwMMEXfb2DJ"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 306960,
+      "name": "Be Mankan",
+      "url": "https://open.spotify.com/track/7CA7jcMHe5pnXA7QQmgGBR"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 285360,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/3Jzc8txMyjGj0OQU1DsEl6"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328826,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 324920,
+      "name": "Bonde (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
+    },
+    {
+      "album": {
+        "name": "Cherie (feat. Oumou Sangar\u00e9)",
+        "url": "https://open.spotify.com/album/5Wwjx8vMkSFPNzxF7wZ35R"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347200,
+      "name": "Cherie (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/2CrbTDdZUASqSWBfpvCydn"
+    },
+    {
+      "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331800,
+      "name": "Cinquante six",
+      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 328373,
+      "name": "Cinquante six - Instrumental;2017 Remastered Version",
+      "url": "https://open.spotify.com/track/0mfFiMRU8Xr79DL97XPv7O"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259826,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 259826,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/2OZPtOzY6dSRz5XC8VIKLP"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 293640,
+      "name": "Debe",
+      "url": "https://open.spotify.com/track/3SYhGK2d8LAkhNCFtOfv0c"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446826,
+      "name": "Diaraby (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5nK18JPh71fznLrmiDT2wo"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 446826,
+      "name": "Diaraby (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 287146,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 281946,
+      "name": "Erdi",
+      "url": "https://open.spotify.com/track/7oLZWt9WYY6MebC8RMXOdR"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3XFCgzW3ZikK6wuajGQqMV"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420800,
+      "name": "Gomni (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/1Rh5IPkuSCl17yPs9UiTtt"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 420800,
+      "name": "Gomni (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/4ezXKef6PFAaunWQ0IFyyq"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 384866,
+      "name": "Goydiotodam",
+      "url": "https://open.spotify.com/track/2fqcpLdEA1wVrL3mGNQ32v"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 377840,
+      "name": "Goye Kur - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/5VkD522syW1UKAEMHPNhF2"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Hanana",
+      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 298920,
+      "name": "Hawa dolo",
+      "url": "https://open.spotify.com/track/5STlvzO9CX7G8xdk0oNVSi"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300920,
+      "name": "Hawa Dolo",
+      "url": "https://open.spotify.com/track/3fHV9JUITZcOUvmoVzr3gK"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 219480,
+      "name": "Hilly Yoro",
+      "url": "https://open.spotify.com/track/3eeuqMWGPDgKVdH0WzEGzO"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 241333,
+      "name": "I Go Ka - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/6J2fUEVtSk5oDxJnloWs7g"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 308213,
+      "name": "Inchana Massina (feat. Nitin Sawhney) - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/3wvU3SK6KD2m4y5eOEAGjR"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 443440,
+      "name": "Jungou",
+      "url": "https://open.spotify.com/track/4BYctbh0cJOBwoTv8U8tym"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-11",
+      "duration_ms": 199080,
+      "name": "Kadi kadi",
+      "url": "https://open.spotify.com/track/5tJEyk2wHEkTdcEbuUzLua"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 304973,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/0cXMDLtctwEmb7V8usAdPV"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 207146,
+      "name": "Kala Djula",
+      "url": "https://open.spotify.com/track/2p361jV44d4AtfNevM8GAy"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250013,
+      "name": "Kana Kassy",
+      "url": "https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Kenouna",
+      "url": "https://open.spotify.com/track/0jzUByh0WRJ9ywHMLIStkJ"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203800,
+      "name": "Kenouna",
+      "url": "https://open.spotify.com/track/7duw8z4D3A66llLyquL7ra"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 302000,
+      "name": "Kenouna",
+      "url": "https://open.spotify.com/track/3Ddx0d6CGil3D7AfvrwTV4"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 267372,
+      "name": "Kombo Galia",
+      "url": "https://open.spotify.com/track/05cF4pOa6TdLPG153zWJif"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 366306,
+      "name": "Lasidan (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/6Yq9dTtHeuMkvnfcEZZFex"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 324253,
+      "name": "Mahini Me (feat. Taj Mahal) - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/1No6xpDnfTqDIpON5Zqnmd"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 339626,
+      "name": "Mali Dje",
+      "url": "https://open.spotify.com/track/1CHKHF1roftcIHOp2jPzc1"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 303573,
+      "name": "Mamadou boutiquier",
+      "url": "https://open.spotify.com/track/4IaqsaM4hrXiSep5zQIVku"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304960,
+      "name": "Mamadou boutiquier",
+      "url": "https://open.spotify.com/track/3YEapZUXtzO9S6FKLhfn97"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 235320,
+      "name": "Monsieur le Maire de Niafunk\u00e9",
+      "url": "https://open.spotify.com/track/00lcn90nnKszEEuVgO8VzK"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "Monsieur le Maire de Niafunk\u00e9",
+      "url": "https://open.spotify.com/track/0504BmZ0EdVRO4faj6q0Yc"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200560,
+      "name": "Pieter Botha",
+      "url": "https://open.spotify.com/track/0CvXpSINDjnhWI8YCzNOMp"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "Pieter Botha",
+      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 334520,
+      "name": "Roucky (feat. Taj Mahal) - 2017 Remastered Version",
+      "url": "https://open.spotify.com/track/5VJpfs13Kfbc4Ti455wZ4e"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355840,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 355840,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "Sabu Yerkoy",
+      "url": "https://open.spotify.com/track/3JIKbZm4XjwM2BcuK5pSHw"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 248986,
+      "name": "Sabu Yerkoy",
+      "url": "https://open.spotify.com/track/5wUA6MSNGGORassu6tHnAJ"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/7nOgkPegqkCUSTbGP1X7d9"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/0ypEcB9ug8CUMUcVw4xRa9"
+    },
+    {
+      "album": {
+        "name": "Cherie (feat. Oumou Sangar\u00e9)",
+        "url": "https://open.spotify.com/album/5Wwjx8vMkSFPNzxF7wZ35R"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/3Y4UX2YxkMorsW5yDVvuoi"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/21FynyuRsfsnWNoLkmPDt9"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/5ato8bqvBy7nR8eaG7lR3z"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312840,
+      "name": "Sambadio (Acoustic)",
+      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
+    },
+    {
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 312840,
+      "name": "Sambadio - Acoustic",
+      "url": "https://open.spotify.com/track/1JgCWF9ECm5wR5Ws6nIBE6"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463266,
+      "name": "Savane",
+      "url": "https://open.spotify.com/track/0Ya5bHuA3kyiePOhIQfQtW"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 239173,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/39M353KyEDfl468Bm69s3L"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
+    },
+    {
+      "album": {
+        "name": "Ali Farka Tour\u00e9",
+        "url": "https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 325973,
+      "name": "Singya",
+      "url": "https://open.spotify.com/track/48ugorCHzJLtcw59Kk0NQh"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu",
+        "url": "https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365173,
+      "name": "Soukora (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/5pm9QJLqinadjJD5vXpn2q"
+    },
+    {
+      "album": {
+        "name": "Talking Timbuktu (with Ry Cooder)",
+        "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 362546,
+      "name": "Soukora (with Ry Cooder)",
+      "url": "https://open.spotify.com/track/0WON7ccM42foBwZikHsf7v"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 208066,
+      "name": "Soumbou ya ya",
+      "url": "https://open.spotify.com/track/1NLomex6hDLDMCej9NR0BN"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Soumbou Ya Ya",
+      "url": "https://open.spotify.com/track/05tAeEZpxFRnYnrb4LUrSz"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Soya",
+      "url": "https://open.spotify.com/track/0rRHVtJft0VMnKQSFV8uup"
+    },
+    {
+      "album": {
+        "name": "The Source (2017 Remastered Version)",
+        "url": "https://open.spotify.com/album/1Q3cxh12wxlKuF6k4obzbj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 293840,
+      "name": "Takamba - Instrumental;2017 Remastered Version",
+      "url": "https://open.spotify.com/track/6XbqbfuoZNMU7CREhL5JaO"
+    },
+    {
+      "album": {
+        "name": "The Secret",
+        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411013,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+    },
+    {
+      "album": {
+        "name": "Ali Farka Tour\u00e9",
+        "url": "https://open.spotify.com/album/1aX7oOVYryzsfu2wWk9hok"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 308493,
+      "name": "Timbarma",
+      "url": "https://open.spotify.com/track/2DMNbBoZnuDkQcoFjRiAMb"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 451533,
+      "name": "Toungere",
+      "url": "https://open.spotify.com/track/0K3W6FrcGzkgYJjYwa8m17"
+    },
+    {
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 322920,
+      "name": "Tulumba",
+      "url": "https://open.spotify.com/track/3dDuNtU56FIC8crdNgqDrJ"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/4JiLV9qrmMyP1xmgl3B4HH"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291226,
+      "name": "Warb\u00e9",
+      "url": "https://open.spotify.com/track/4fb7CtOq5pb3gNcC6ebfQF"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 291293,
+      "name": "Warb\u00e9",
+      "url": "https://open.spotify.com/track/3T5vxl7qadr3rh7YVV296S"
+    },
+    {
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256853,
+      "name": "Yer Bounda Fara",
+      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+    },
+    {
+      "album": {
+        "name": "Radio Mali",
+        "url": "https://open.spotify.com/album/2GCbmW2Rtrs9hg7XrwdXgP"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 288360,
+      "name": "Yer Mali Gakoyoyo",
+      "url": "https://open.spotify.com/track/7ezY0xMgRoKDiBHjnUzOJT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xa1Op"
 }

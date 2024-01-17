@@ -1,178 +1,907 @@
 {
-  "2023-07-10": 14235,
-  "2023-07-11": 14257,
-  "2023-07-12": 14284,
-  "2023-07-13": 14302,
-  "2023-07-14": 14322,
-  "2023-07-15": 14332,
-  "2023-07-16": 14348,
-  "2023-07-17": 14374,
-  "2023-07-18": 14397,
-  "2023-07-19": 14422,
-  "2023-07-20": 14422,
-  "2023-07-21": 14462,
-  "2023-07-22": 14483,
-  "2023-07-23": 14503,
-  "2023-07-24": 14518,
-  "2023-07-25": 14547,
-  "2023-07-26": 14566,
-  "2023-07-27": 14586,
-  "2023-07-28": 14603,
-  "2023-07-29": 14624,
-  "2023-07-30": 14648,
-  "2023-07-31": 14665,
-  "2023-08-01": 14690,
-  "2023-08-02": 14714,
-  "2023-08-03": 14725,
-  "2023-08-04": 14740,
-  "2023-08-05": 14760,
-  "2023-08-06": 14784,
-  "2023-08-07": 14784,
-  "2023-08-08": 14799,
-  "2023-08-09": 14824,
-  "2023-08-10": 14833,
-  "2023-08-11": 14862,
-  "2023-08-12": 14862,
-  "2023-08-13": 14862,
-  "2023-08-14": 14862,
-  "2023-08-15": 14862,
-  "2023-08-16": 14862,
-  "2023-08-17": 14862,
-  "2023-08-18": 14862,
-  "2023-08-19": 14862,
-  "2023-08-20": 15062,
-  "2023-08-21": 15062,
-  "2023-08-22": 15110,
-  "2023-08-23": 15110,
-  "2023-08-24": 15110,
-  "2023-08-25": 15110,
-  "2023-08-26": 15182,
-  "2023-08-27": 15182,
-  "2023-08-28": 15225,
-  "2023-08-29": 15225,
-  "2023-08-30": 15225,
-  "2023-08-31": 15391,
-  "2023-09-01": 15415,
-  "2023-09-02": 15415,
-  "2023-09-03": 15415,
-  "2023-09-04": 15415,
-  "2023-09-05": 15415,
-  "2023-09-06": 15415,
-  "2023-09-07": 15415,
-  "2023-09-08": 15415,
-  "2023-09-09": 15415,
-  "2023-09-10": 15415,
-  "2023-09-11": 15415,
-  "2023-09-12": 15415,
-  "2023-09-13": 15415,
-  "2023-09-14": 15415,
-  "2023-09-15": 15415,
-  "2023-09-16": 15739,
-  "2023-09-17": 15739,
-  "2023-09-18": 15739,
-  "2023-09-19": 15793,
-  "2023-09-20": 15793,
-  "2023-09-21": 15793,
-  "2023-09-22": 15848,
-  "2023-09-23": 15848,
-  "2023-09-24": 15848,
-  "2023-09-25": 15848,
-  "2023-09-26": 15910,
-  "2023-09-27": 15910,
-  "2023-09-28": 15910,
-  "2023-09-29": 15910,
-  "2023-09-30": 15910,
-  "2023-10-01": 15910,
-  "2023-10-02": 15910,
-  "2023-10-03": 15910,
-  "2023-10-04": 15910,
-  "2023-10-05": 15910,
-  "2023-10-06": 15910,
-  "2023-10-07": 15910,
-  "2023-10-08": 15910,
-  "2023-10-09": 15910,
-  "2023-10-10": 15910,
-  "2023-10-11": 16172,
-  "2023-10-12": 16172,
-  "2023-10-13": 16172,
-  "2023-10-14": 16172,
-  "2023-10-15": 16172,
-  "2023-10-16": 16172,
-  "2023-10-17": 16172,
-  "2023-10-18": 16172,
-  "2023-10-19": 16172,
-  "2023-10-20": 16172,
-  "2023-10-21": 16172,
-  "2023-10-22": 16172,
-  "2023-10-23": 16172,
-  "2023-10-24": 16172,
-  "2023-10-25": 16172,
-  "2023-10-26": 16172,
-  "2023-10-27": 16172,
-  "2023-10-28": 16172,
-  "2023-10-29": 16172,
-  "2023-10-30": 16172,
-  "2023-10-31": 16172,
-  "2023-11-01": 16172,
-  "2023-11-02": 16172,
-  "2023-11-03": 16172,
-  "2023-11-04": 16172,
-  "2023-11-05": 16172,
-  "2023-11-06": 16172,
-  "2023-11-07": 16172,
-  "2023-11-08": 16172,
-  "2023-11-09": 16172,
-  "2023-11-10": 16172,
-  "2023-11-11": 16744,
-  "2023-11-12": 16744,
-  "2023-11-13": 16744,
-  "2023-11-14": 16744,
-  "2023-11-15": 16744,
-  "2023-11-16": 16744,
-  "2023-11-17": 16744,
-  "2023-11-18": 16744,
-  "2023-11-19": 16744,
-  "2023-11-20": 16744,
-  "2023-11-21": 16744,
-  "2023-11-22": 16744,
-  "2023-11-23": 16744,
-  "2023-11-24": 16744,
-  "2023-11-25": 16744,
-  "2023-11-26": 16744,
-  "2023-11-27": 16744,
-  "2023-11-28": 16744,
-  "2023-11-29": 16744,
-  "2023-11-30": 16744,
-  "2023-12-01": 16744,
-  "2023-12-02": 16744,
-  "2023-12-03": 16744,
-  "2023-12-04": 16744,
-  "2023-12-05": 16744,
-  "2023-12-06": 16744,
-  "2023-12-07": 16744,
-  "2023-12-08": 16744,
-  "2023-12-09": 16744,
-  "2023-12-10": 16744,
-  "2023-12-11": 16744,
-  "2023-12-12": 16744,
-  "2023-12-13": 16744,
-  "2023-12-14": 17585,
-  "2023-12-15": 17597,
-  "2023-12-16": 17610,
-  "2023-12-17": 17621,
-  "2023-12-18": 17629,
-  "2023-12-19": 17648,
-  "2023-12-20": 17660,
-  "2023-12-21": 17672,
-  "2023-12-22": 17681,
-  "2023-12-23": 17695,
-  "2023-12-24": 17705,
-  "2023-12-25": 17710,
-  "2023-12-26": 17714,
-  "2023-12-27": 17724,
-  "2023-12-30": 17748,
-  "2023-12-31": 17755,
-  "2024-01-01": 17766,
-  "2024-01-02": 17774,
-  "2024-01-03": 17778
+  "2024-01-17": 17907,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "name": "This Is Julia Vit\u00f3ria",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9m do Rio Azul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281480,
+      "name": "Al\u00e9m do Rio Azul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6"
+    },
+    {
+      "album": {
+        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
+    },
+    {
+      "album": {
+        "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
+        "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Lucy Grimble",
+          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Ana Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554498,
+      "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
+      "url": "https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ"
+    },
+    {
+      "album": {
+        "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337840,
+      "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
+    },
+    {
+      "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
+    },
+    {
+      "album": {
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "album": {
+        "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329586,
+      "name": "Ele Vem / A Cidade Santa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293426,
+      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+    },
+    {
+      "album": {
+        "name": "Ess\u00eancia Da Adora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3"
+      },
+      "artists": [
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317360,
+      "name": "Ess\u00eancia Da Adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C"
+    },
+    {
+      "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "album": {
+        "name": "Hambre Y Sed",
+        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361826,
+      "name": "Hambre Y Sed",
+      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
+    },
+    {
+      "album": {
+        "name": "H\u00e1 Liberdade Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568958,
+      "name": "H\u00e1 Liberdade Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk"
+    },
+    {
+      "album": {
+        "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296053,
+      "name": "Jesus At The Center (Bonus Track) - Acoustic",
+      "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
+    },
+    {
+      "album": {
+        "name": "Jesus \u00e9 o Centro (Jesus At The Center) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346346,
+      "name": "Jesus \u00e9 o Centro (Jesus At The Center) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS"
+    },
+    {
+      "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281414,
+      "name": "Lindo Jesus",
+      "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
+    },
+    {
+      "album": {
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
+    },
+    {
+      "album": {
+        "name": "Meu Abrigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299746,
+      "name": "Meu Abrigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/772WkZcBta5D8Ny4efwOiB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 229712,
+      "name": "Noite de Paz (Silent Night)",
+      "url": "https://open.spotify.com/track/3I9Y9ZbUAd26uX44pqrgt0"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312386,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
+    },
+    {
+      "album": {
+        "name": "N\u00f3s Te Adoramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438080,
+      "name": "N\u00f3s Te Adoramos - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
+    },
+    {
+      "album": {
+        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283365,
+      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
+    },
+    {
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "album": {
+        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245133,
+      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+    },
+    {
+      "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264693,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z"
+    },
+    {
+      "album": {
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
+    },
+    {
+      "album": {
+        "name": "Redimido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347413,
+      "name": "Redimido - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
+    },
+    {
+      "album": {
+        "name": "Risen Savior (Sing My Soul) [Live]",
+        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
+    },
+    {
+      "album": {
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+    },
+    {
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "album": {
+        "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330940,
+      "name": "Sou Humano (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
+    },
+    {
+      "album": {
+        "name": "Tu \u00e9s Bom",
+        "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Tu \u00e9s Bom",
+      "url": "https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Rei",
+        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421395,
+      "name": "Tu \u00c9s Rei",
+      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Santo",
+        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "Tu \u00c9s Santo",
+      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "album": {
+        "name": "Tudo O Que Sou",
+        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270053,
+      "name": "Tudo O Que Sou",
+      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "album": {
+        "name": "Um Refr\u00e3o Pra Sua Alma",
+        "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256023,
+      "name": "Um Refr\u00e3o Pra Sua Alma",
+      "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
+    },
+    {
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382880,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b"
+    },
+    {
+      "album": {
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
+    },
+    {
+      "album": {
+        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327866,
+      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+    },
+    {
+      "album": {
+        "name": "Your Waters",
+        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Your Waters",
+      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PgM80"
 }

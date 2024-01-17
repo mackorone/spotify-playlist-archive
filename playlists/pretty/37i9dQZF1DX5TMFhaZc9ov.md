@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,341 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,762 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 81 | [GMF](https://open.spotify.com/track/79jZxBuAkhT368GOeocKjb) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Pale Green Ghosts](https://open.spotify.com/album/5JL2oa838e8fLVPgvt5cVO) | 5:13 |
 | 82 | [Take Something Beautiful](https://open.spotify.com/track/4UgxabijzuXvv2dATYQJwH) | [Jen Cloher](https://open.spotify.com/artist/5L8TWHTc67vWhQhL15r4i5) | [Take Something Beautiful: The Songs of Jesse Younan](https://open.spotify.com/album/4gB8Miv66c5YwIa8nV70JW) | 4:30 |
 | 83 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
-| 84 | [Holding On](https://open.spotify.com/track/0E4fhaczqrhhqKiSvzAt1C) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/1IBJ3RkCnITNbskSXr1FU3) | 3:38 |
+| 84 | [Holding On](https://open.spotify.com/track/4L1mk9pkD00CPiDsDSVJZp) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/01N959BoJNKJyXS7ML7465) | 3:38 |
 | 85 | [Departures](https://open.spotify.com/track/3pkyGQVfdP0xI1evK7Efq6) | [Grace Petrie](https://open.spotify.com/artist/4bFdVUzXSr2unwjEoOe5dY) | [Queer As Folk](https://open.spotify.com/album/3m2LYhF9CGykcn6akFTPJH) | 5:39 |
 | 86 | [The Rose Gardener](https://open.spotify.com/track/2AOREe0skCzK3eN7uBBr3q) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/7Ee56Uw8pfwPWSej8GGGpL) | 3:44 |
 | 87 | [letters to the hospital](https://open.spotify.com/track/22Pipp3pEZF2mRv5UHerSd) | [Mae Krell](https://open.spotify.com/artist/5OJHIYwDJ1TfeaFLYMSqqe) | [anabasis](https://open.spotify.com/album/4jK4azaPNIe9YHSsFxVU0C) | 3:23 |

@@ -1,130 +1,673 @@
 {
-  "2023-08-27": 16580,
-  "2023-08-28": 16599,
-  "2023-08-29": 16626,
-  "2023-08-30": 16645,
-  "2023-08-31": 16672,
-  "2023-09-01": 16699,
-  "2023-09-02": 16699,
-  "2023-09-03": 16718,
-  "2023-09-04": 16731,
-  "2023-09-05": 16740,
-  "2023-09-06": 16751,
-  "2023-09-07": 16769,
-  "2023-09-08": 16779,
-  "2023-09-09": 16786,
-  "2023-09-10": 16796,
-  "2023-09-11": 16805,
-  "2023-09-12": 16816,
-  "2023-09-13": 16836,
-  "2023-09-14": 16843,
-  "2023-09-15": 16858,
-  "2023-09-16": 16869,
-  "2023-09-17": 16884,
-  "2023-09-18": 16898,
-  "2023-09-19": 16913,
-  "2023-09-20": 16919,
-  "2023-09-21": 16928,
-  "2023-09-22": 16948,
-  "2023-09-23": 16959,
-  "2023-09-24": 16976,
-  "2023-09-25": 16986,
-  "2023-09-26": 17005,
-  "2023-09-27": 17016,
-  "2023-09-28": 17025,
-  "2023-09-29": 17037,
-  "2023-09-30": 17047,
-  "2023-10-01": 17064,
-  "2023-10-02": 17079,
-  "2023-10-03": 17085,
-  "2023-10-04": 17106,
-  "2023-10-05": 17119,
-  "2023-10-06": 17127,
-  "2023-10-07": 17134,
-  "2023-10-08": 17149,
-  "2023-10-09": 17162,
-  "2023-10-10": 17169,
-  "2023-10-11": 17200,
-  "2023-10-12": 17200,
-  "2023-10-13": 17212,
-  "2023-10-14": 17237,
-  "2023-10-15": 17254,
-  "2023-10-16": 17277,
-  "2023-10-17": 17289,
-  "2023-10-18": 17306,
-  "2023-10-19": 17316,
-  "2023-10-20": 17327,
-  "2023-10-21": 17339,
-  "2023-10-22": 17340,
-  "2023-10-23": 17350,
-  "2023-10-24": 17363,
-  "2023-10-25": 17374,
-  "2023-10-26": 17385,
-  "2023-10-27": 17396,
-  "2023-10-28": 17396,
-  "2023-10-29": 17396,
-  "2023-10-30": 17437,
-  "2023-10-31": 17437,
-  "2023-11-01": 17455,
-  "2023-11-02": 17469,
-  "2023-11-03": 17478,
-  "2023-11-04": 17492,
-  "2023-11-05": 17495,
-  "2023-11-06": 17507,
-  "2023-11-07": 17518,
-  "2023-11-08": 17527,
-  "2023-11-09": 17538,
-  "2023-11-10": 17549,
-  "2023-11-11": 17560,
-  "2023-11-12": 17566,
-  "2023-11-13": 17571,
-  "2023-11-14": 17579,
-  "2023-11-15": 17579,
-  "2023-11-16": 17598,
-  "2023-11-17": 17618,
-  "2023-11-18": 17618,
-  "2023-11-19": 17634,
-  "2023-11-20": 17636,
-  "2023-11-21": 17644,
-  "2023-11-22": 17654,
-  "2023-11-23": 17661,
-  "2023-11-24": 17661,
-  "2023-11-25": 17691,
-  "2023-11-26": 17700,
-  "2023-11-27": 17716,
-  "2023-11-28": 17727,
-  "2023-11-29": 17753,
-  "2023-11-30": 17753,
-  "2023-12-01": 17766,
-  "2023-12-02": 17778,
-  "2023-12-03": 17796,
-  "2023-12-04": 17811,
-  "2023-12-05": 17818,
-  "2023-12-06": 17833,
-  "2023-12-07": 17846,
-  "2023-12-08": 17863,
-  "2023-12-09": 17888,
-  "2023-12-10": 17907,
-  "2023-12-11": 17928,
-  "2023-12-12": 17928,
-  "2023-12-13": 17960,
-  "2023-12-14": 17969,
-  "2023-12-15": 17981,
-  "2023-12-16": 17995,
-  "2023-12-17": 18018,
-  "2023-12-18": 18036,
-  "2023-12-19": 18059,
-  "2023-12-20": 18076,
-  "2023-12-21": 18092,
-  "2023-12-22": 18110,
-  "2023-12-23": 18126,
-  "2023-12-24": 18145,
-  "2023-12-25": 18164,
-  "2023-12-26": 18170,
-  "2023-12-27": 18182,
-  "2023-12-30": 18236,
-  "2023-12-31": 18256,
-  "2024-01-01": 18269,
-  "2024-01-02": 18291,
-  "2024-01-03": 18310
+  "2024-01-17": 18585,
+  "date_first_scraped": "2023-08-27",
+  "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Jagjit Singh",
+  "name": "Punjabi Ghazals & Qawwalis",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ishq, Vol. 60",
+        "url": "https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925964,
+      "name": "Ae Athra Ishq Naeen Saun Denda",
+      "url": "https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo"
+    },
+    {
+      "album": {
+        "name": "Mystic Rahat",
+        "url": "https://open.spotify.com/album/4wtUXYCYE2gdwT8qiJ0wy8"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 821218,
+      "name": "Akhiyan Udeek Diyaan",
+      "url": "https://open.spotify.com/track/34I8KaDsPoVv6F6gItatrz"
+    },
+    {
+      "album": {
+        "name": "Bemisaal Punjabi Hits, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u"
+      },
+      "artists": [
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320306,
+      "name": "Bawa",
+      "url": "https://open.spotify.com/track/7MMZySuMHhENxAWnSiJahb"
+    },
+    {
+      "album": {
+        "name": "Punjabi Ghulam Ali",
+        "url": "https://open.spotify.com/album/7K6GeMzj26jpImrxEcDmBh"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345119,
+      "name": "Beh Ja Mere Kol",
+      "url": "https://open.spotify.com/track/0Ar5BVE6zI2I9NtDuqZ0uz"
+    },
+    {
+      "album": {
+        "name": "Chamkan Na Maar Ishqa",
+        "url": "https://open.spotify.com/album/1L7lKynuyDWgzZyidhh4LY"
+      },
+      "artists": [
+        {
+          "name": "Ghazal",
+          "url": "https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha"
+        },
+        {
+          "name": "Ustad Latafat Ali Khan",
+          "url": "https://open.spotify.com/artist/35owzUPphfxg4YGQLGsBZG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482835,
+      "name": "Chamkan Na Maar Ishqa",
+      "url": "https://open.spotify.com/track/524toU5JcvYhXVFhGLrUa7"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 5",
+        "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
+      },
+      "artists": [
+        {
+          "name": "Abid Ali Abid",
+          "url": "https://open.spotify.com/artist/2qAa4xDmS5pcvAhtGRfPYI"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 723961,
+      "name": "Das Kee Milia Ea",
+      "url": "https://open.spotify.com/track/56ByUNq7ZRqyyMEu52UFVX"
+    },
+    {
+      "album": {
+        "name": "Ichhabal - Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Ghamaan Di Raat Lammi Ae",
+      "url": "https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+      },
+      "artists": [
+        {
+          "name": "Afshan",
+          "url": "https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Guddi Wangoo Aj Menoon",
+      "url": "https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq"
+    },
+    {
+      "album": {
+        "name": "Bemisaal Punjabi Hits, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 3",
+        "url": "https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a"
+      },
+      "artists": [
+        {
+          "name": "Parvez Mehdi",
+          "url": "https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345476,
+      "name": "Ja Ve Pardesia",
+      "url": "https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Mera Dil Luteya",
+        "url": "https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ"
+      },
+      "artists": [
+        {
+          "name": "Gulam Ali",
+          "url": "https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425506,
+      "name": "Jadon Kadi Tainu Mera Pyar Satavega",
+      "url": "https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK"
+    },
+    {
+      "album": {
+        "name": "Golden Punjab, Vol. 1",
+        "url": "https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-29",
+      "duration_ms": 312111,
+      "name": "Jo Tere Gham Nu",
+      "url": "https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL"
+    },
+    {
+      "album": {
+        "name": "Golden Voice of Punjab",
+        "url": "https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312163,
+      "name": "Jo Tere Gham Nu",
+      "url": "https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Of Manmohan Waris",
+        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
+      },
+      "artists": [
+        {
+          "name": "Manmohan Waris",
+          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417213,
+      "name": "Kalli Beh Ke Sochni",
+      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
+    },
+    {
+      "album": {
+        "name": "30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers",
+        "url": "https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578176,
+      "name": "Kinna Sohna Tainu",
+      "url": "https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su"
+    },
+    {
+      "album": {
+        "name": "Kanday Utte Mehrma Ve",
+        "url": "https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1270520,
+      "name": "Kiven Mukhre Ton Nazran Hatawan",
+      "url": "https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs"
+    },
+    {
+      "album": {
+        "name": "Night Song",
+        "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335600,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
+    },
+    {
+      "album": {
+        "name": "Sartaaj",
+        "url": "https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455000,
+      "name": "Meri Heeriye Fakiriye",
+      "url": "https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+      },
+      "artists": [
+        {
+          "name": "Fida Hussain",
+          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395589,
+      "name": "Merian Gallan Yaad Karengee",
+      "url": "https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ"
+    },
+    {
+      "album": {
+        "name": "Nit Khair Mangan Vol. 17",
+        "url": "https://open.spotify.com/album/5GcDQZI62w1Wf7napXHxwE"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 917826,
+      "name": "Nit Khair Mangan Sohnia Main Teri",
+      "url": "https://open.spotify.com/track/59uJINektNnYnbMTd1IxAy"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 3",
+        "url": "https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 869983,
+      "name": "Nitt De Vichhore Saada Sukh Chain",
+      "url": "https://open.spotify.com/track/29351vA9iRgtYyDsXbrMOp"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 3",
+        "url": "https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 767343,
+      "name": "Pattnaa Te Mil Mahiya",
+      "url": "https://open.spotify.com/track/4ktefCdaBCcVZO79dNF3Am"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473261,
+      "name": "Pehli Wari Ehnan Akhian",
+      "url": "https://open.spotify.com/track/1rv170ZsobLD7RP5mLGQW7"
+    },
+    {
+      "album": {
+        "name": "Ek Buta Ambi Da",
+        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
+      },
+      "artists": [
+        {
+          "name": "Deedar Singh Pardesi",
+          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248554,
+      "name": "Raat Chanani Maen Turan",
+      "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
+    },
+    {
+      "album": {
+        "name": "Dil Mera Dol Da",
+        "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        },
+        {
+          "name": "Tarranum Naaz",
+          "url": "https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548127,
+      "name": "Ruh Le Gaya Dil da Jani",
+      "url": "https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB"
+    },
+    {
+      "album": {
+        "name": "Abr Barsa Na Hawa Tez Chali",
+        "url": "https://open.spotify.com/album/7m7GoFsaFxblSjZ2tFcZ7d"
+      },
+      "artists": [
+        {
+          "name": "Ustad Hussain Baksh Gullo",
+          "url": "https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370960,
+      "name": "Ruttan Aaiyan Mera Yaar Ni Aaya",
+      "url": "https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy"
+    },
+    {
+      "album": {
+        "name": "Ichhabal - Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY"
+      },
+      "artists": [
+        {
+          "name": "Dilraj Kaur",
+          "url": "https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414589,
+      "name": "Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry",
+      "url": "https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 5",
+        "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624113,
+      "name": "Sohnia Mukh Tera Sajri Saver Ay",
+      "url": "https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v"
+    },
+    {
+      "album": {
+        "name": "Aa Mil Yaar",
+        "url": "https://open.spotify.com/album/6nzQRybk8TXsl30nIYR3Vt"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315840,
+      "name": "Sone Yaar",
+      "url": "https://open.spotify.com/track/3vStONhgB10kDvs0ctmuPI"
+    },
+    {
+      "album": {
+        "name": "Deedar Mahi Da",
+        "url": "https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc"
+      },
+      "artists": [
+        {
+          "name": "Saleem",
+          "url": "https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598680,
+      "name": "Sun Charkhe De Mitthi (Medley)",
+      "url": "https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS"
+    },
+    {
+      "album": {
+        "name": "Dil Mera Dol Da",
+        "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374974,
+      "name": "Tenu Mein Pyaar Karaa - Version 1",
+      "url": "https://open.spotify.com/track/4m78k5BYJz2hSch5AW8KYw"
+    },
+    {
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Nargis Fakhri",
+          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310658,
+      "name": "Tere Vaastey",
+      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil, Vol. 5",
+        "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
+      },
+      "artists": [
+        {
+          "name": "Fida Hussain",
+          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 919273,
+      "name": "Terian Mithian Gallan Da",
+      "url": "https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8"
+    },
+    {
+      "album": {
+        "name": "Tu Mane Ya Na Mane",
+        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 868387,
+      "name": "Tu Mane Ya Na Mane - Edit Version",
+      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
+    },
+    {
+      "album": {
+        "name": "Treasured Moments",
+        "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1174226,
+      "name": "Ve Sone Diyan Kangna",
+      "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
+    },
+    {
+      "album": {
+        "name": "Ichhabal - Modern Punjabi Poerty",
+        "url": "https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "Yarian Rab Kar Ke",
+      "url": "https://open.spotify.com/track/1u6HlSO8HipfhVJuO48CGB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9WDOjoils23"
 }

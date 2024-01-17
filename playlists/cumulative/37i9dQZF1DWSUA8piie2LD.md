@@ -4,7 +4,7 @@
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-142 songs - 11 hr 5 min
+143 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 | 2022-05-13 |  |
 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 | 2022-05-13 |  |
 | [Are You Ready?](https://open.spotify.com/track/3Rm78lWA4PNL8TFlJBQD01) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 5:04 | 2022-06-22 | 2022-10-06 |
-| [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 | 2023-08-03 |  |
+| [Bedtime Story](https://open.spotify.com/track/3SkljL4PezsMZJVoZyfb56) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 5:20 | 2023-08-03 | 2024-01-06 |
 | [Bird Island](https://open.spotify.com/track/5IJsB3d0lCO9sstn4odorM) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/61tvHMNjOY8wXboWWeNA8D) | 4:26 | 2022-08-11 |  |
 | [Bird Island](https://open.spotify.com/track/7Hum40xexcHsivuPoY1Bhq) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Hardcastle 2](https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq) | 4:28 | 2022-05-13 | 2022-07-29 |
 | [Bliss](https://open.spotify.com/track/2mWoRefRFZf9tg5IIORaQ5) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [The Ultimate Smooth Jazz \#1's Vol 4](https://open.spotify.com/album/7H8KSdYO6eucH8SUb63ZhE) | 5:13 | 2022-11-09 | 2022-11-13 |
@@ -50,6 +50,7 @@
 | [Fiona's Song](https://open.spotify.com/track/3u3nv5xPUKAkaP6ERwNZuQ) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:30 | 2022-05-13 | 2023-08-10 |
 | [Floating in Bahia](https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [GK](https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu) | 4:47 | 2022-05-13 | 2023-08-26 |
 | [Forever And A Day](https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:49 | 2022-05-13 | 2023-08-26 |
+| [Get Here](https://open.spotify.com/track/4VmammPhpmq60VnL6s0xOE) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 4:27 | 2023-12-22 |  |
 | [Get Here](https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 4:27 | 2022-05-13 | 2023-12-23 |
 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 | 2022-05-13 |  |
 | [Grace](https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Destiny](https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf) | 5:32 | 2022-06-22 |  |
@@ -106,7 +107,7 @@
 | [Personal Touch](https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3) | 3:44 | 2022-05-13 |  |
 | [Pleasure Seeker](https://open.spotify.com/track/5SvuXJKhqhw8jnQnqKegA5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Pleasure Seeker](https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA) | 4:29 | 2022-05-13 |  |
 | [Puerto Banus](https://open.spotify.com/track/5aWFVn8VxQcoV5QtjFrZ28) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 4](https://open.spotify.com/album/59EZIGuewk99mkPphgvBRS) | 3:46 | 2022-06-29 | 2022-07-29 |
-| [Puerto Banus](https://open.spotify.com/track/4pFIja5qZFrSt2H38xitfu) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1), [The Jazzmasters](https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB) | [The Jazzmasters 4](https://open.spotify.com/album/2rQtSRZcfqYN8UzvXo9tBW) | 3:44 | 2022-06-29 | 2023-12-31 |
+| [Puerto Banus](https://open.spotify.com/track/4pFIja5qZFrSt2H38xitfu) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1), [The Jazzmasters](https://open.spotify.com/artist/66YzLGFlfe2aBpyH5Y13dB) | [The Jazzmasters 4](https://open.spotify.com/album/2rQtSRZcfqYN8UzvXo9tBW) | 3:44 | 2022-06-29 | 2024-01-16 |
 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 | 2022-05-13 |  |
 | [Round and Round](https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 4:53 | 2022-05-13 | 2023-05-09 |
 | [S7ven Large](https://open.spotify.com/track/2kPNYomaQbtevw21YarPiu) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 5:26 | 2022-06-29 | 2022-10-06 |

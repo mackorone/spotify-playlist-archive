@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 
 > Versiones que andan por el camino del rey de la canción ranchera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,769 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,652 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

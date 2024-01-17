@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 87884,
+  "num_followers": 88278,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Innovator (Mayday)",
+        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+      },
+      "artists": [
+        {
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+        }
+      ],
+      "duration_ms": 362946,
+      "name": "Strings of Life",
+      "url": "https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Silentintroduction",
         "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Innovator (Mayday)",
-        "url": "https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL"
+        "name": "Neptune's Lair",
+        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
       },
       "artists": [
         {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
         }
       ],
-      "duration_ms": 362946,
-      "name": "Strings of Life",
-      "url": "https://open.spotify.com/track/7N3FfUFMud1rjI6Vgw71mm"
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -203,22 +219,6 @@
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Neptune's Lair",
-        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Album Formerly Known As ...",
-        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
-        }
-      ],
-      "duration_ms": 415759,
-      "name": "A Wonderful Life - Version",
-      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "A Walk in the Park",
         "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 325880,
       "name": "A Walk in the Park",
       "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Back To Basics (Part 1)",
+        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Track Ten",
+      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "No Ufo's (Original Version)",
         "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Back To Basics (Part 1)",
-        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
         }
       ],
-      "duration_ms": 361400,
-      "name": "Track Ten",
-      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -451,22 +467,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "The Golden Ratio (Version)",
-      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -479,38 +479,6 @@
       "duration_ms": 334959,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Right There / Holy Ghost",
-        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 177885,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Into The Dark",
-        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
-      },
-      "artists": [
-        {
-          "name": "The Saunderson Brothers",
-          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
-        }
-      ],
-      "duration_ms": 221199,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -535,42 +503,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -587,6 +519,74 @@
       "duration_ms": 554692,
       "name": "Riod",
       "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/0EKfOlx4buzvQPIRcITgqe"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/5bPOMaHvchTI5nlnvl9VJB"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Into The Dark",
+        "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
+      },
+      "artists": [
+        {
+          "name": "The Saunderson Brothers",
+          "url": "https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR"
+        }
+      ],
+      "duration_ms": 221199,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+      },
+      "artists": [
+        {
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+        }
+      ],
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -631,6 +631,42 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Best of Techno (Compilation Tracks)",
         "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
@@ -643,46 +679,6 @@
       "duration_ms": 223626,
       "name": "Throw",
       "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
-      },
-      "artists": [
-        {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
-        }
-      ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -707,34 +703,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -751,6 +735,22 @@
       "duration_ms": 320866,
       "name": "Telekinesis",
       "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Blueprint EP",
+        "url": "https://open.spotify.com/album/5Hol3dzXCzMHZ7Tx7LKrbV"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 337462,
+      "name": "Chroma Light",
+      "url": "https://open.spotify.com/track/5CiCxQ4pUAFG396mSxT72x"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Blueprint EP",
-        "url": "https://open.spotify.com/album/5Hol3dzXCzMHZ7Tx7LKrbV"
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 337462,
-      "name": "Chroma Light",
-      "url": "https://open.spotify.com/track/5CiCxQ4pUAFG396mSxT72x"
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -851,38 +851,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Detroit Love Vol. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+        "name": "The Bearer (feat. Karina Mia)",
+        "url": "https://open.spotify.com/album/3VWYKKPxpelqXTSWCdN2vd"
       },
       "artists": [
         {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
         },
         {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+          "name": "Karina Mia",
+          "url": "https://open.spotify.com/artist/7mFivvbdZvsw2An3wKB2cu"
         }
       ],
-      "duration_ms": 339336,
-      "name": "Do It All Night (C2 Edit) - Mixed",
-      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
-      },
-      "artists": [
-        {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+      "duration_ms": 360773,
+      "name": "The Bearer (feat. Karina Mia) - Brother's Burden Pt1",
+      "url": "https://open.spotify.com/track/3INuFzi0KoWmHsvsrboQMX"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -903,6 +887,26 @@
       "duration_ms": 369016,
       "name": "I Can't Believe - Extended Mix",
       "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Detroit Love Vol. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 339336,
+      "name": "Do It All Night (C2 Edit) - Mixed",
+      "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
     }
   ],
   "unique_name": "Detroit Techno",

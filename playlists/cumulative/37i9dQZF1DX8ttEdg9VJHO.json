@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 172000,
       "name": "Keep It Low",
       "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
@@ -1508,6 +1508,24 @@
       "duration_ms": 163500,
       "name": "Wer wenn nicht wir",
       "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171752,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
     },
     {
       "album": {

@@ -1,396 +1,1503 @@
 {
-  "2022-12-02": 6426,
-  "2022-12-03": 6450,
-  "2022-12-04": 6466,
-  "2022-12-05": 6483,
-  "2022-12-06": 6501,
-  "2022-12-07": 6524,
-  "2022-12-08": 6538,
-  "2022-12-09": 6555,
-  "2022-12-10": 6574,
-  "2022-12-11": 6598,
-  "2022-12-12": 6610,
-  "2022-12-13": 6624,
-  "2022-12-14": 6640,
-  "2022-12-15": 6659,
-  "2022-12-16": 6666,
-  "2022-12-17": 6677,
-  "2022-12-18": 6695,
-  "2022-12-19": 6707,
-  "2022-12-20": 6740,
-  "2022-12-21": 6740,
-  "2022-12-22": 6765,
-  "2022-12-24": 6811,
-  "2022-12-25": 6830,
-  "2022-12-26": 6846,
-  "2022-12-27": 6861,
-  "2022-12-28": 6878,
-  "2022-12-29": 6888,
-  "2022-12-30": 6896,
-  "2022-12-31": 6910,
-  "2023-01-01": 6933,
-  "2023-01-02": 6951,
-  "2023-01-03": 6967,
-  "2023-01-04": 6982,
-  "2023-01-05": 7013,
-  "2023-01-06": 7031,
-  "2023-01-07": 7072,
-  "2023-01-08": 7076,
-  "2023-01-09": 7094,
-  "2023-01-10": 7114,
-  "2023-01-11": 7136,
-  "2023-01-12": 7160,
-  "2023-01-13": 7180,
-  "2023-01-14": 7205,
-  "2023-01-15": 7214,
-  "2023-01-16": 7232,
-  "2023-01-17": 7246,
-  "2023-01-18": 7268,
-  "2023-01-19": 7281,
-  "2023-01-20": 7296,
-  "2023-01-21": 7304,
-  "2023-01-22": 7328,
-  "2023-01-23": 7347,
-  "2023-01-24": 7359,
-  "2023-01-25": 7383,
-  "2023-01-26": 7401,
-  "2023-01-27": 7421,
-  "2023-01-28": 7432,
-  "2023-01-29": 7449,
-  "2023-01-30": 7463,
-  "2023-01-31": 7463,
-  "2023-02-01": 7503,
-  "2023-02-02": 7513,
-  "2023-02-03": 7520,
-  "2023-02-04": 7523,
-  "2023-02-05": 7529,
-  "2023-02-06": 7536,
-  "2023-02-07": 7540,
-  "2023-02-08": 7552,
-  "2023-02-09": 7552,
-  "2023-02-10": 7551,
-  "2023-02-11": 7547,
-  "2023-02-12": 7556,
-  "2023-02-13": 7558,
-  "2023-02-14": 7558,
-  "2023-02-15": 7558,
-  "2023-02-16": 7562,
-  "2023-02-17": 7565,
-  "2023-02-18": 7571,
-  "2023-02-19": 7572,
-  "2023-02-20": 7577,
-  "2023-02-21": 7586,
-  "2023-02-22": 7592,
-  "2023-02-23": 7596,
-  "2023-02-24": 7601,
-  "2023-02-25": 7611,
-  "2023-02-26": 7614,
-  "2023-02-27": 7622,
-  "2023-02-28": 7622,
-  "2023-03-01": 7626,
-  "2023-03-02": 7628,
-  "2023-03-03": 7629,
-  "2023-03-04": 7634,
-  "2023-03-05": 7636,
-  "2023-03-06": 7636,
-  "2023-03-07": 7642,
-  "2023-03-08": 7645,
-  "2023-03-09": 7653,
-  "2023-03-10": 7655,
-  "2023-03-11": 7659,
-  "2023-03-12": 7661,
-  "2023-03-13": 7667,
-  "2023-03-14": 7676,
-  "2023-03-15": 7677,
-  "2023-03-16": 7677,
-  "2023-03-17": 7677,
-  "2023-03-18": 7683,
-  "2023-03-19": 7683,
-  "2023-03-20": 7688,
-  "2023-03-21": 7691,
-  "2023-03-22": 7696,
-  "2023-03-23": 7700,
-  "2023-03-24": 7700,
-  "2023-03-25": 7709,
-  "2023-03-26": 7717,
-  "2023-03-27": 7727,
-  "2023-03-28": 7729,
-  "2023-03-29": 7730,
-  "2023-03-30": 7735,
-  "2023-03-31": 7735,
-  "2023-04-01": 7740,
-  "2023-04-02": 7744,
-  "2023-04-03": 7747,
-  "2023-04-04": 7754,
-  "2023-04-05": 7757,
-  "2023-04-06": 7760,
-  "2023-04-07": 7761,
-  "2023-04-09": 7773,
-  "2023-04-10": 7776,
-  "2023-04-11": 7781,
-  "2023-04-12": 7781,
-  "2023-04-13": 7784,
-  "2023-04-14": 7792,
-  "2023-04-15": 7796,
-  "2023-04-16": 7796,
-  "2023-04-17": 7800,
-  "2023-04-18": 7798,
-  "2023-04-19": 7802,
-  "2023-04-20": 7801,
-  "2023-04-21": 7805,
-  "2023-04-22": 7808,
-  "2023-04-23": 7816,
-  "2023-04-24": 7824,
-  "2023-04-25": 7828,
-  "2023-04-26": 7833,
-  "2023-04-27": 7840,
-  "2023-04-28": 7849,
-  "2023-04-29": 7854,
-  "2023-04-30": 7855,
-  "2023-05-01": 7856,
-  "2023-05-02": 7859,
-  "2023-05-03": 7867,
-  "2023-05-04": 7871,
-  "2023-05-05": 7875,
-  "2023-05-06": 7883,
-  "2023-05-07": 7888,
-  "2023-05-08": 7891,
-  "2023-05-09": 7899,
-  "2023-05-10": 7902,
-  "2023-05-11": 7902,
-  "2023-05-12": 7906,
-  "2023-05-13": 7910,
-  "2023-05-14": 7917,
-  "2023-05-15": 7921,
-  "2023-05-16": 7929,
-  "2023-05-17": 7933,
-  "2023-05-18": 7933,
-  "2023-05-19": 7937,
-  "2023-05-20": 7944,
-  "2023-05-21": 7944,
-  "2023-05-22": 7944,
-  "2023-05-23": 7959,
-  "2023-05-24": 7968,
-  "2023-05-25": 7968,
-  "2023-05-26": 7971,
-  "2023-05-27": 7976,
-  "2023-05-28": 7976,
-  "2023-05-29": 7976,
-  "2023-05-30": 7987,
-  "2023-05-31": 7993,
-  "2023-06-01": 7998,
-  "2023-06-02": 8004,
-  "2023-06-03": 8006,
-  "2023-06-04": 8010,
-  "2023-06-05": 8014,
-  "2023-06-06": 8019,
-  "2023-06-07": 8024,
-  "2023-06-08": 8029,
-  "2023-06-09": 8035,
-  "2023-06-10": 8038,
-  "2023-06-11": 8039,
-  "2023-06-12": 8042,
-  "2023-06-13": 8044,
-  "2023-06-14": 8046,
-  "2023-06-15": 8050,
-  "2023-06-16": 8051,
-  "2023-06-17": 8055,
-  "2023-06-18": 8063,
-  "2023-06-19": 8070,
-  "2023-06-20": 8074,
-  "2023-06-21": 8078,
-  "2023-06-22": 8080,
-  "2023-06-23": 8083,
-  "2023-06-24": 8085,
-  "2023-06-25": 8090,
-  "2023-06-26": 8096,
-  "2023-06-27": 8099,
-  "2023-06-28": 8104,
-  "2023-06-29": 8109,
-  "2023-06-30": 8108,
-  "2023-07-01": 8117,
-  "2023-07-02": 8117,
-  "2023-07-03": 8123,
-  "2023-07-04": 8124,
-  "2023-07-05": 8130,
-  "2023-07-06": 8138,
-  "2023-07-07": 8138,
-  "2023-07-08": 8144,
-  "2023-07-09": 8145,
-  "2023-07-10": 8149,
-  "2023-07-11": 8157,
-  "2023-07-12": 8163,
-  "2023-07-13": 8163,
-  "2023-07-14": 8163,
-  "2023-07-15": 8162,
-  "2023-07-16": 8168,
-  "2023-07-17": 8172,
-  "2023-07-18": 8174,
-  "2023-07-19": 8173,
-  "2023-07-20": 8174,
-  "2023-07-21": 8180,
-  "2023-07-22": 8184,
-  "2023-07-23": 8191,
-  "2023-07-24": 8198,
-  "2023-07-25": 8201,
-  "2023-07-26": 8205,
-  "2023-07-27": 8207,
-  "2023-07-28": 8211,
-  "2023-07-29": 8218,
-  "2023-07-30": 8225,
-  "2023-07-31": 8233,
-  "2023-08-01": 8239,
-  "2023-08-02": 8244,
-  "2023-08-03": 8248,
-  "2023-08-04": 8251,
-  "2023-08-05": 8259,
-  "2023-08-06": 8275,
-  "2023-08-07": 8275,
-  "2023-08-08": 8281,
-  "2023-08-09": 8288,
-  "2023-08-10": 8295,
-  "2023-08-11": 8295,
-  "2023-08-12": 8295,
-  "2023-08-13": 8295,
-  "2023-08-14": 8312,
-  "2023-08-15": 8312,
-  "2023-08-16": 8312,
-  "2023-08-17": 8321,
-  "2023-08-18": 8321,
-  "2023-08-19": 8321,
-  "2023-08-20": 8339,
-  "2023-08-21": 8339,
-  "2023-08-22": 8347,
-  "2023-08-23": 8347,
-  "2023-08-24": 8347,
-  "2023-08-25": 8347,
-  "2023-08-26": 8364,
-  "2023-08-27": 8364,
-  "2023-08-28": 8377,
-  "2023-08-29": 8377,
-  "2023-08-30": 8377,
-  "2023-08-31": 8388,
-  "2023-09-01": 8390,
-  "2023-09-02": 8390,
-  "2023-09-03": 8408,
-  "2023-09-04": 8408,
-  "2023-09-05": 8408,
-  "2023-09-06": 8428,
-  "2023-09-07": 8428,
-  "2023-09-08": 8428,
-  "2023-09-09": 8428,
-  "2023-09-10": 8447,
-  "2023-09-11": 8447,
-  "2023-09-12": 8447,
-  "2023-09-13": 8459,
-  "2023-09-14": 8459,
-  "2023-09-15": 8459,
-  "2023-09-16": 8468,
-  "2023-09-17": 8468,
-  "2023-09-18": 8468,
-  "2023-09-19": 8480,
-  "2023-09-20": 8480,
-  "2023-09-21": 8480,
-  "2023-09-22": 8494,
-  "2023-09-23": 8494,
-  "2023-09-24": 8494,
-  "2023-09-25": 8494,
-  "2023-09-26": 8511,
-  "2023-09-27": 8511,
-  "2023-09-28": 8511,
-  "2023-09-29": 8511,
-  "2023-09-30": 8511,
-  "2023-10-01": 8511,
-  "2023-10-02": 8533,
-  "2023-10-03": 8533,
-  "2023-10-04": 8533,
-  "2023-10-05": 8550,
-  "2023-10-06": 8550,
-  "2023-10-07": 8550,
-  "2023-10-08": 8550,
-  "2023-10-09": 8550,
-  "2023-10-10": 8550,
-  "2023-10-11": 8576,
-  "2023-10-12": 8576,
-  "2023-10-13": 8576,
-  "2023-10-14": 8576,
-  "2023-10-15": 8576,
-  "2023-10-16": 8576,
-  "2023-10-17": 8576,
-  "2023-10-18": 8576,
-  "2023-10-19": 8576,
-  "2023-10-20": 8576,
-  "2023-10-21": 8576,
-  "2023-10-22": 8576,
-  "2023-10-23": 8576,
-  "2023-10-24": 8576,
-  "2023-10-25": 8576,
-  "2023-10-26": 8576,
-  "2023-10-27": 8576,
-  "2023-10-28": 8576,
-  "2023-10-29": 8576,
-  "2023-10-30": 8576,
-  "2023-10-31": 8576,
-  "2023-11-01": 8576,
-  "2023-11-02": 8576,
-  "2023-11-03": 8576,
-  "2023-11-04": 8576,
-  "2023-11-05": 8576,
-  "2023-11-06": 8576,
-  "2023-11-07": 8576,
-  "2023-11-08": 8576,
-  "2023-11-09": 8576,
-  "2023-11-10": 8576,
-  "2023-11-11": 8700,
-  "2023-11-12": 8700,
-  "2023-11-13": 8700,
-  "2023-11-14": 8700,
-  "2023-11-15": 8700,
-  "2023-11-16": 8700,
-  "2023-11-17": 8700,
-  "2023-11-18": 8700,
-  "2023-11-19": 8700,
-  "2023-11-20": 8700,
-  "2023-11-21": 8700,
-  "2023-11-22": 8700,
-  "2023-11-23": 8700,
-  "2023-11-24": 8700,
-  "2023-11-25": 8700,
-  "2023-11-26": 8700,
-  "2023-11-27": 8700,
-  "2023-11-28": 8700,
-  "2023-11-29": 8700,
-  "2023-11-30": 8700,
-  "2023-12-01": 8700,
-  "2023-12-02": 8700,
-  "2023-12-03": 8700,
-  "2023-12-04": 8700,
-  "2023-12-05": 8700,
-  "2023-12-06": 8700,
-  "2023-12-07": 8700,
-  "2023-12-08": 8700,
-  "2023-12-09": 8700,
-  "2023-12-10": 8700,
-  "2023-12-11": 8700,
-  "2023-12-12": 8700,
-  "2023-12-13": 8700,
-  "2023-12-14": 8821,
-  "2023-12-15": 8823,
-  "2023-12-16": 8829,
-  "2023-12-17": 8831,
-  "2023-12-18": 8836,
-  "2023-12-19": 8837,
-  "2023-12-20": 8841,
-  "2023-12-21": 8843,
-  "2023-12-22": 8848,
-  "2023-12-23": 8854,
-  "2023-12-24": 8857,
-  "2023-12-25": 8859,
-  "2023-12-26": 8860,
-  "2023-12-27": 8861,
-  "2023-12-30": 8874,
-  "2023-12-31": 8879,
-  "2024-01-01": 8881,
-  "2024-01-02": 8886,
-  "2024-01-03": 8891
+  "2024-01-17": 8941,
+  "date_first_scraped": "2022-12-02",
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
+  "name": "This Is Bear McCreary",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210970,
+      "name": "A Son's Path",
+      "url": "https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge"
+    },
+    {
+      "album": {
+        "name": "Marvel's Agents of S.H.I.E.L.D.",
+        "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "Agents of S.H.I.E.L.D. Overture",
+      "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Gillebr\u00ecde Macmillan",
+          "url": "https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95262,
+      "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
+      "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 465093,
+      "name": "As Long as We Both Shall Live",
+      "url": "https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369640,
+      "name": "Ashes (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
+    },
+    {
+      "album": {
+        "name": "Percy Jackson and the Olympians (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Aunty Em",
+      "url": "https://open.spotify.com/track/4RUWhQIRILXRYGRGFqjuRK"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 137800,
+      "name": "Blood of My Blood",
+      "url": "https://open.spotify.com/track/3VeVlnHMRhrUIpX9SvFu59"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Bronwyn and Arondir",
+      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353186,
+      "name": "Clearing the Mind",
+      "url": "https://open.spotify.com/track/7HBKEbxLboNg62hY7kU1dO"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Richard Rankin",
+          "url": "https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ"
+        },
+        {
+          "name": "Sophie Skelton",
+          "url": "https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105106,
+      "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
+      "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105760,
+      "name": "Comin' Thro' The Rye",
+      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+    },
+    {
+      "album": {
+        "name": "Da Vinci's Demons (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4U25uFdBkxGiOKOVOjN95m"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68133,
+      "name": "Da Vinci's Demons Main Title Theme",
+      "url": "https://open.spotify.com/track/0rIcf3rfCGyQYW5YK8udX1"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278946,
+      "name": "Dance of the Druids (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Elrond Half-elven",
+      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262360,
+      "name": "Face the Past, Face the Future",
+      "url": "https://open.spotify.com/track/55fVlftNAUPFlavuPk4NIY"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+    },
+    {
+      "album": {
+        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86546,
+      "name": "Foundation Main Title",
+      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
+    },
+    {
+      "album": {
+        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 244520,
+      "name": "Gaal Leaves Synnax",
+      "url": "https://open.spotify.com/track/0OiySMrhQf7XH0et96hyDT"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Galadriel",
+      "url": "https://open.spotify.com/track/4aLoiQsOE0oMx0pAFLOrow"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "God of War",
+      "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274666,
+      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
+    },
+    {
+      "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "Godzilla (feat. Serj Tankian)",
+      "url": "https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm"
+    },
+    {
+      "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 175573,
+      "name": "Halbrand",
+      "url": "https://open.spotify.com/track/58y5rtCFQxGMvWlXWSY9xU"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 213163,
+      "name": "Holding On (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Khazad-d\u00fbm",
+      "url": "https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565666,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 169720,
+      "name": "Magni and Modi",
+      "url": "https://open.spotify.com/track/2IQonQgsFc35BU5LUgF0ld"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Master Thyself",
+      "url": "https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U"
+    },
+    {
+      "album": {
+        "name": "Masters of the Universe: Revelation (Netflix Original Series Soundtrack, Vol. 1)",
+        "url": "https://open.spotify.com/album/1k5g35tSjZE4Rqqa96mbq1"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115186,
+      "name": "Masters of the Universe: Revelation - Extended Version",
+      "url": "https://open.spotify.com/track/6J7kQ0BC7okiBFwbxLo7Rw"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Memories of Mother (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 275106,
+      "name": "Moch Sa Mhadainn",
+      "url": "https://open.spotify.com/track/1QcJb3RpR83LVjbAmO4hXB"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 228600,
+      "name": "Murtagh's Oath",
+      "url": "https://open.spotify.com/track/5twcdm2xzUzGAW7VyUycaV"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/14QEvPK4ChqxgybGRtvREd"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 225213,
+      "name": "New Dawn at Fraser's Ridge",
+      "url": "https://open.spotify.com/track/28TQujqPTiHBSDO6QNcrZT"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Nori Brandyfoot",
+      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 271616,
+      "name": "N\u00famenor",
+      "url": "https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124626,
+      "name": "Outlander - The Skye Boat Song (Castle Leoch Version) [feat. Raya Yarbrough]",
+      "url": "https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "album": {
+        "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
+        "url": "https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96773,
+      "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
+      "url": "https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi"
+    },
+    {
+      "album": {
+        "name": "Unrest (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Ren",
+          "url": "https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227059,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "People Disappear All the Time",
+      "url": "https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT"
+    },
+    {
+      "album": {
+        "name": "Percy Jackson and the Olympians (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311906,
+      "name": "Percy Jackson and the Olympians",
+      "url": "https://open.spotify.com/track/4gePPZ5YAnLNA29IWUxy7w"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104680,
+      "name": "Pull of the Light (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264773,
+      "name": "Raeb's Lament",
+      "url": "https://open.spotify.com/track/404eOIgbr1qdzcJ7BE1Xtz"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 313663,
+      "name": "Svartalfheim (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Griogair",
+          "url": "https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 203333,
+      "name": "Tha Mi Sgith'n Fhogar Seo' (feat. Griogair Labhruidh)",
+      "url": "https://open.spotify.com/track/43B3H05TIJSGHeIN5Kqarz"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "The Black Rose",
+      "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
+    },
+    {
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "The Day Will Come",
+      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 223120,
+      "name": "The Dragon",
+      "url": "https://open.spotify.com/track/3y6ok4gZSvQkDLlu89CwlO"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 202133,
+      "name": "The Hammer of Thor",
+      "url": "https://open.spotify.com/track/33H8JSbgPQadjRsBxsNAc7"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429440,
+      "name": "The Key to Lallybroch",
+      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
+    },
+    {
+      "album": {
+        "name": "The Last Voyage of the Demeter",
+        "url": "https://open.spotify.com/album/445dy9NoSdHSkEa6BYa1h1"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 228973,
+      "name": "The Last Voyage of the Demeter",
+      "url": "https://open.spotify.com/track/0kxinHtO8XyKlXHg1XQ5HR"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "The New Fraser's Ridge",
+      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "album": {
+        "name": "Battlestar Galactica: Season 4 (Original Soundtrack) [Remastered]",
+        "url": "https://open.spotify.com/album/0UtUKe502MOiS0zH6S5RHB"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 69186,
+      "name": "The Passage of Time",
+      "url": "https://open.spotify.com/track/4VtzaoMcaQBSae0G7JIdNe"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507893,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 303255,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/4lRIrVALubeKxXQ9zDXnO6"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 201773,
+      "name": "The Summoning (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 117466,
+      "name": "The Uprising Begins",
+      "url": "https://open.spotify.com/track/3eEbDIMV2WLrvRYTLb2iGz"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226281,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/3yY78aWyfri4ewOKIQokna"
+    },
+    {
+      "album": {
+        "name": "Black Sails (A Starz Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Theme from Black Sails",
+      "url": "https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh"
+    },
+    {
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Megan Richards",
+          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128556,
+      "name": "This Wandering Day",
+      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 135893,
+      "name": "To the Begging I Will Go",
+      "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 170289,
+      "name": "Two Standing Stones",
+      "url": "https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292360,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/26pLszBCNN8d6T4XayY8i4"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Valinor",
+      "url": "https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308093,
+      "name": "Valkyries",
+      "url": "https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0XRd6sQYF5t6oCd3oQd8Dn"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 166266,
+      "name": "Willoughby",
+      "url": "https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej"
+    },
+    {
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 182186,
+      "name": "Witch of the Woods",
+      "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB"
 }

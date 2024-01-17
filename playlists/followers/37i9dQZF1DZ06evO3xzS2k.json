@@ -1,472 +1,1057 @@
 {
-  "2022-09-17": 1347,
-  "2022-09-18": 1350,
-  "2022-09-19": 1349,
-  "2022-09-20": 1350,
-  "2022-09-21": 1353,
-  "2022-09-22": 1356,
-  "2022-09-23": 1357,
-  "2022-09-24": 1357,
-  "2022-09-25": 1362,
-  "2022-09-26": 1364,
-  "2022-09-27": 1367,
-  "2022-09-28": 1369,
-  "2022-09-29": 1374,
-  "2022-09-30": 1380,
-  "2022-10-01": 1379,
-  "2022-10-02": 1382,
-  "2022-10-03": 1383,
-  "2022-10-04": 1381,
-  "2022-10-05": 1381,
-  "2022-10-06": 1382,
-  "2022-10-07": 1384,
-  "2022-10-08": 1384,
-  "2022-10-09": 1390,
-  "2022-10-10": 1390,
-  "2022-10-11": 1390,
-  "2022-10-12": 1391,
-  "2022-10-13": 1393,
-  "2022-10-14": 1396,
-  "2022-10-15": 1396,
-  "2022-10-16": 1396,
-  "2022-10-17": 1396,
-  "2022-10-18": 1398,
-  "2022-10-19": 1400,
-  "2022-10-20": 1403,
-  "2022-10-21": 1409,
-  "2022-10-22": 1410,
-  "2022-10-23": 1412,
-  "2022-10-24": 1413,
-  "2022-10-25": 1413,
-  "2022-10-26": 1417,
-  "2022-10-27": 1417,
-  "2022-10-28": 1417,
-  "2022-10-29": 1418,
-  "2022-10-30": 1419,
-  "2022-10-31": 1421,
-  "2022-11-01": 1421,
-  "2022-11-02": 1423,
-  "2022-11-03": 1424,
-  "2022-11-04": 1426,
-  "2022-11-05": 1425,
-  "2022-11-06": 1425,
-  "2022-11-07": 1425,
-  "2022-11-08": 1425,
-  "2022-11-09": 1427,
-  "2022-11-10": 1426,
-  "2022-11-11": 1425,
-  "2022-11-12": 1426,
-  "2022-11-13": 1426,
-  "2022-11-14": 1428,
-  "2022-11-15": 1428,
-  "2022-11-16": 1430,
-  "2022-11-17": 1430,
-  "2022-11-18": 1430,
-  "2022-11-19": 1430,
-  "2022-11-20": 1433,
-  "2022-11-21": 1434,
-  "2022-11-22": 1434,
-  "2022-11-23": 1437,
-  "2022-11-24": 1437,
-  "2022-11-25": 1439,
-  "2022-11-26": 1442,
-  "2022-11-27": 1442,
-  "2022-11-28": 1443,
-  "2022-11-29": 1448,
-  "2022-11-30": 1451,
-  "2022-12-01": 1453,
-  "2022-12-02": 1455,
-  "2022-12-03": 1458,
-  "2022-12-04": 1458,
-  "2022-12-05": 1458,
-  "2022-12-06": 1457,
-  "2022-12-07": 1457,
-  "2022-12-08": 1459,
-  "2022-12-09": 1462,
-  "2022-12-10": 1460,
-  "2022-12-11": 1462,
-  "2022-12-12": 1461,
-  "2022-12-13": 1459,
-  "2022-12-14": 1460,
-  "2022-12-15": 1462,
-  "2022-12-16": 1463,
-  "2022-12-17": 1464,
-  "2022-12-18": 1467,
-  "2022-12-19": 1468,
-  "2022-12-20": 1470,
-  "2022-12-21": 1470,
-  "2022-12-22": 1472,
-  "2022-12-24": 1480,
-  "2022-12-25": 1483,
-  "2022-12-26": 1483,
-  "2022-12-27": 1483,
-  "2022-12-28": 1482,
-  "2022-12-29": 1485,
-  "2022-12-30": 1484,
-  "2022-12-31": 1485,
-  "2023-01-01": 1484,
-  "2023-01-02": 1484,
-  "2023-01-03": 1486,
-  "2023-01-04": 1488,
-  "2023-01-05": 1487,
-  "2023-01-06": 1488,
-  "2023-01-07": 1494,
-  "2023-01-08": 1494,
-  "2023-01-09": 1494,
-  "2023-01-10": 1495,
-  "2023-01-11": 1496,
-  "2023-01-12": 1499,
-  "2023-01-13": 1501,
-  "2023-01-14": 1503,
-  "2023-01-15": 1505,
-  "2023-01-16": 1503,
-  "2023-01-17": 1505,
-  "2023-01-18": 1511,
-  "2023-01-19": 1515,
-  "2023-01-20": 1516,
-  "2023-01-21": 1516,
-  "2023-01-22": 1519,
-  "2023-01-23": 1522,
-  "2023-01-24": 1524,
-  "2023-01-25": 1525,
-  "2023-01-26": 1530,
-  "2023-01-27": 1531,
-  "2023-01-28": 1533,
-  "2023-01-29": 1534,
-  "2023-01-30": 1536,
-  "2023-01-31": 1536,
-  "2023-02-01": 1543,
-  "2023-02-02": 1545,
-  "2023-02-03": 1548,
-  "2023-02-04": 1551,
-  "2023-02-05": 1552,
-  "2023-02-06": 1554,
-  "2023-02-07": 1558,
-  "2023-02-08": 1563,
-  "2023-02-09": 1563,
-  "2023-02-10": 1566,
-  "2023-02-11": 1569,
-  "2023-02-12": 1570,
-  "2023-02-13": 1572,
-  "2023-02-14": 1572,
-  "2023-02-15": 1572,
-  "2023-02-16": 1571,
-  "2023-02-17": 1573,
-  "2023-02-18": 1581,
-  "2023-02-19": 1583,
-  "2023-02-20": 1585,
-  "2023-02-21": 1586,
-  "2023-02-22": 1587,
-  "2023-02-23": 1590,
-  "2023-02-24": 1597,
-  "2023-02-25": 1600,
-  "2023-02-26": 1606,
-  "2023-02-27": 1608,
-  "2023-02-28": 1608,
-  "2023-03-01": 1609,
-  "2023-03-02": 1611,
-  "2023-03-03": 1613,
-  "2023-03-04": 1620,
-  "2023-03-05": 1625,
-  "2023-03-06": 1625,
-  "2023-03-07": 1627,
-  "2023-03-08": 1628,
-  "2023-03-09": 1628,
-  "2023-03-10": 1630,
-  "2023-03-11": 1632,
-  "2023-03-12": 1634,
-  "2023-03-13": 1635,
-  "2023-03-14": 1638,
-  "2023-03-15": 1643,
-  "2023-03-16": 1643,
-  "2023-03-17": 1643,
-  "2023-03-18": 1652,
-  "2023-03-19": 1652,
-  "2023-03-20": 1654,
-  "2023-03-21": 1654,
-  "2023-03-22": 1658,
-  "2023-03-23": 1660,
-  "2023-03-24": 1660,
-  "2023-03-25": 1666,
-  "2023-03-26": 1667,
-  "2023-03-27": 1668,
-  "2023-03-28": 1670,
-  "2023-03-29": 1673,
-  "2023-03-30": 1678,
-  "2023-03-31": 1678,
-  "2023-04-01": 1679,
-  "2023-04-02": 1684,
-  "2023-04-03": 1683,
-  "2023-04-04": 1686,
-  "2023-04-05": 1689,
-  "2023-04-06": 1692,
-  "2023-04-07": 1693,
-  "2023-04-09": 1697,
-  "2023-04-10": 1698,
-  "2023-04-11": 1699,
-  "2023-04-12": 1699,
-  "2023-04-13": 1700,
-  "2023-04-14": 1704,
-  "2023-04-15": 1709,
-  "2023-04-16": 1711,
-  "2023-04-17": 1711,
-  "2023-04-18": 1715,
-  "2023-04-19": 1719,
-  "2023-04-20": 1718,
-  "2023-04-21": 1720,
-  "2023-04-22": 1724,
-  "2023-04-23": 1728,
-  "2023-04-24": 1729,
-  "2023-04-25": 1733,
-  "2023-04-26": 1734,
-  "2023-04-27": 1740,
-  "2023-04-28": 1746,
-  "2023-04-29": 1746,
-  "2023-04-30": 1748,
-  "2023-05-01": 1751,
-  "2023-05-02": 1752,
-  "2023-05-03": 1753,
-  "2023-05-04": 1758,
-  "2023-05-05": 1761,
-  "2023-05-06": 1762,
-  "2023-05-07": 1764,
-  "2023-05-08": 1765,
-  "2023-05-09": 1767,
-  "2023-05-10": 1769,
-  "2023-05-11": 1771,
-  "2023-05-12": 1772,
-  "2023-05-13": 1774,
-  "2023-05-14": 1775,
-  "2023-05-15": 1777,
-  "2023-05-16": 1781,
-  "2023-05-17": 1783,
-  "2023-05-18": 1782,
-  "2023-05-19": 1781,
-  "2023-05-20": 1781,
-  "2023-05-21": 1781,
-  "2023-05-22": 1781,
-  "2023-05-23": 1784,
-  "2023-05-24": 1786,
-  "2023-05-25": 1786,
-  "2023-05-26": 1785,
-  "2023-05-27": 1786,
-  "2023-05-28": 1786,
-  "2023-05-29": 1786,
-  "2023-05-30": 1788,
-  "2023-05-31": 1789,
-  "2023-06-01": 1793,
-  "2023-06-02": 1795,
-  "2023-06-03": 1796,
-  "2023-06-04": 1799,
-  "2023-06-05": 1799,
-  "2023-06-06": 1800,
-  "2023-06-07": 1802,
-  "2023-06-08": 1804,
-  "2023-06-09": 1805,
-  "2023-06-10": 1804,
-  "2023-06-11": 1807,
-  "2023-06-12": 1808,
-  "2023-06-13": 1807,
-  "2023-06-14": 1807,
-  "2023-06-15": 1808,
-  "2023-06-16": 1808,
-  "2023-06-17": 1812,
-  "2023-06-18": 1813,
-  "2023-06-19": 1815,
-  "2023-06-20": 1817,
-  "2023-06-21": 1818,
-  "2023-06-22": 1817,
-  "2023-06-23": 1816,
-  "2023-06-24": 1814,
-  "2023-06-25": 1815,
-  "2023-06-26": 1816,
-  "2023-06-27": 1816,
-  "2023-06-28": 1814,
-  "2023-06-29": 1815,
-  "2023-06-30": 1818,
-  "2023-07-01": 1820,
-  "2023-07-02": 1820,
-  "2023-07-03": 1820,
-  "2023-07-04": 1820,
-  "2023-07-05": 1822,
-  "2023-07-06": 1823,
-  "2023-07-07": 1823,
-  "2023-07-08": 1823,
-  "2023-07-09": 1823,
-  "2023-07-10": 1824,
-  "2023-07-11": 1829,
-  "2023-07-12": 1831,
-  "2023-07-13": 1832,
-  "2023-07-14": 1833,
-  "2023-07-15": 1832,
-  "2023-07-16": 1834,
-  "2023-07-17": 1834,
-  "2023-07-18": 1834,
-  "2023-07-19": 1836,
-  "2023-07-20": 1836,
-  "2023-07-21": 1842,
-  "2023-07-22": 1842,
-  "2023-07-23": 1843,
-  "2023-07-24": 1846,
-  "2023-07-25": 1849,
-  "2023-07-26": 1850,
-  "2023-07-27": 1851,
-  "2023-07-28": 1854,
-  "2023-07-29": 1854,
-  "2023-07-30": 1854,
-  "2023-07-31": 1856,
-  "2023-08-01": 1858,
-  "2023-08-02": 1861,
-  "2023-08-03": 1862,
-  "2023-08-04": 1862,
-  "2023-08-05": 1861,
-  "2023-08-06": 1865,
-  "2023-08-07": 1865,
-  "2023-08-08": 1866,
-  "2023-08-09": 1868,
-  "2023-08-10": 1869,
-  "2023-08-11": 1870,
-  "2023-08-12": 1870,
-  "2023-08-13": 1870,
-  "2023-08-14": 1870,
-  "2023-08-15": 1870,
-  "2023-08-16": 1870,
-  "2023-08-17": 1870,
-  "2023-08-18": 1870,
-  "2023-08-19": 1870,
-  "2023-08-20": 1878,
-  "2023-08-21": 1878,
-  "2023-08-22": 1879,
-  "2023-08-23": 1879,
-  "2023-08-24": 1879,
-  "2023-08-25": 1879,
-  "2023-08-26": 1880,
-  "2023-08-27": 1880,
-  "2023-08-28": 1886,
-  "2023-08-29": 1886,
-  "2023-08-30": 1886,
-  "2023-08-31": 1889,
-  "2023-09-01": 1889,
-  "2023-09-02": 1889,
-  "2023-09-03": 1889,
-  "2023-09-04": 1889,
-  "2023-09-05": 1889,
-  "2023-09-06": 1889,
-  "2023-09-07": 1889,
-  "2023-09-08": 1889,
-  "2023-09-09": 1889,
-  "2023-09-10": 1889,
-  "2023-09-11": 1889,
-  "2023-09-12": 1889,
-  "2023-09-13": 1889,
-  "2023-09-14": 1889,
-  "2023-09-15": 1889,
-  "2023-09-16": 1908,
-  "2023-09-17": 1908,
-  "2023-09-18": 1908,
-  "2023-09-19": 1908,
-  "2023-09-20": 1908,
-  "2023-09-21": 1908,
-  "2023-09-22": 1917,
-  "2023-09-23": 1917,
-  "2023-09-24": 1917,
-  "2023-09-25": 1917,
-  "2023-09-26": 1919,
-  "2023-09-27": 1919,
-  "2023-09-28": 1919,
-  "2023-09-29": 1919,
-  "2023-09-30": 1919,
-  "2023-10-01": 1919,
-  "2023-10-02": 1919,
-  "2023-10-03": 1919,
-  "2023-10-04": 1919,
-  "2023-10-05": 1919,
-  "2023-10-06": 1919,
-  "2023-10-07": 1919,
-  "2023-10-08": 1919,
-  "2023-10-09": 1919,
-  "2023-10-10": 1919,
-  "2023-10-11": 1919,
-  "2023-10-12": 1919,
-  "2023-10-13": 1919,
-  "2023-10-14": 1919,
-  "2023-10-15": 1919,
-  "2023-10-16": 1919,
-  "2023-10-17": 1919,
-  "2023-10-18": 1919,
-  "2023-10-19": 1919,
-  "2023-10-20": 1919,
-  "2023-10-21": 1919,
-  "2023-10-22": 1919,
-  "2023-10-23": 1919,
-  "2023-10-24": 1919,
-  "2023-10-25": 1919,
-  "2023-10-26": 1919,
-  "2023-10-27": 1919,
-  "2023-10-28": 1919,
-  "2023-10-29": 1919,
-  "2023-10-30": 1919,
-  "2023-10-31": 1919,
-  "2023-11-01": 1919,
-  "2023-11-02": 1919,
-  "2023-11-03": 1919,
-  "2023-11-04": 1919,
-  "2023-11-05": 1919,
-  "2023-11-06": 1919,
-  "2023-11-07": 1919,
-  "2023-11-08": 1919,
-  "2023-11-09": 1919,
-  "2023-11-10": 1919,
-  "2023-11-11": 1985,
-  "2023-11-12": 1985,
-  "2023-11-13": 1985,
-  "2023-11-14": 1985,
-  "2023-11-15": 1985,
-  "2023-11-16": 1985,
-  "2023-11-17": 1985,
-  "2023-11-18": 1985,
-  "2023-11-19": 1985,
-  "2023-11-20": 1985,
-  "2023-11-21": 1985,
-  "2023-11-22": 1985,
-  "2023-11-23": 1985,
-  "2023-11-24": 1985,
-  "2023-11-25": 1985,
-  "2023-11-26": 1985,
-  "2023-11-27": 1985,
-  "2023-11-28": 1985,
-  "2023-11-29": 1985,
-  "2023-11-30": 1985,
-  "2023-12-01": 1985,
-  "2023-12-02": 1985,
-  "2023-12-03": 1985,
-  "2023-12-04": 1985,
-  "2023-12-05": 1985,
-  "2023-12-06": 1985,
-  "2023-12-07": 1985,
-  "2023-12-08": 1985,
-  "2023-12-09": 1985,
-  "2023-12-10": 1985,
-  "2023-12-11": 1985,
-  "2023-12-12": 1985,
-  "2023-12-13": 1985,
-  "2023-12-14": 2042,
-  "2023-12-15": 2043,
-  "2023-12-16": 2046,
-  "2023-12-17": 2047,
-  "2023-12-18": 2048,
-  "2023-12-19": 2053,
-  "2023-12-20": 2053,
-  "2023-12-21": 2054,
-  "2023-12-22": 2055,
-  "2023-12-23": 2056,
-  "2023-12-24": 2057,
-  "2023-12-25": 2056,
-  "2023-12-26": 2056,
-  "2023-12-27": 2057,
-  "2023-12-30": 2061,
-  "2023-12-31": 2063,
-  "2024-01-01": 2067,
-  "2024-01-02": 2069,
-  "2024-01-03": 2068
+  "2024-01-17": 2082,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Nothing. The essential tracks, all in one playlist.",
+  "name": "This Is Nothing",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 346282,
+      "name": "A Fabricated Life",
+      "url": "https://open.spotify.com/track/4yIUZfyWZ5T6NiiV0khwzw"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219020,
+      "name": "A.C.D. (Abcessive Compulsive Disorder)",
+      "url": "https://open.spotify.com/track/72LCw6fk4YZL5cyoG1TOzU"
+    },
+    {
+      "album": {
+        "name": "Amber Gambler",
+        "url": "https://open.spotify.com/album/5UvGpxtzmA8xCTW0fCQ3ks"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 232598,
+      "name": "Amber Gambler",
+      "url": "https://open.spotify.com/track/08zfkE9pFeDtpW5sTQGNZN"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260458,
+      "name": "April Ha Ha",
+      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 318813,
+      "name": "B&E",
+      "url": "https://open.spotify.com/track/3ISyXQ2lSec1yltnvBbEEY"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177216,
+      "name": "Bent Nail",
+      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247231,
+      "name": "Bernie Sanders",
+      "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270853,
+      "name": "Blue Line Baby",
+      "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230437,
+      "name": "Catch a Fade",
+      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "album": {
+        "name": "Whirr & Nothing (Split Version)",
+        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280810,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/0dy0SvYPjImJVQcF83pPQM"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 287871,
+      "name": "Curse of the Sun",
+      "url": "https://open.spotify.com/track/75Dvic0pwX6eIrHZAcptoF"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 323160,
+      "name": "Dirty White Glove - DOTB B Side",
+      "url": "https://open.spotify.com/track/6TQ6PF2QeAFbIISlYOw0FR"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300660,
+      "name": "Eaten by Worms",
+      "url": "https://open.spotify.com/track/6cpbYfrmRRATj7MK89ZMox"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253664,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176435,
+      "name": "Fever Queen",
+      "url": "https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247746,
+      "name": "Forever Well",
+      "url": "https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272864,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 263567,
+      "name": "Guilty of Everything",
+      "url": "https://open.spotify.com/track/4X02SJMsjb6KZkH5QaAXGS"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 248280,
+      "name": "Heavy Water / I'd Rather Be Sleeping - DOTB B Side",
+      "url": "https://open.spotify.com/track/79KTG4D0tqWjAAU0eFcLYY"
+    },
+    {
+      "album": {
+        "name": "Guilty Of Everything 10 Year B Sides",
+        "url": "https://open.spotify.com/album/55eNrnAl6w7sLhUE19xE56"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278340,
+      "name": "Holocaust",
+      "url": "https://open.spotify.com/track/5GmSO2eJM2BBuYEmWao2Ta"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281004,
+      "name": "Hymn to the Pillory",
+      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "I Hate the Flowers",
+      "url": "https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 301240,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318709,
+      "name": "In Blueberry Memories",
+      "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
+    },
+    {
+      "album": {
+        "name": "Whirr & Nothing (Split Version)",
+        "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "July the Fourth",
+      "url": "https://open.spotify.com/track/0iuZ2P8O28jnsdJvECL3Y9"
+    },
+    {
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/7kyC678MEAE6ifa8rUaaq9"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 290706,
+      "name": "La La Means I Love You",
+      "url": "https://open.spotify.com/track/63W1HzRfGhhpY8PzdScNyh"
+    },
+    {
+      "album": {
+        "name": "Like Stars In The Firmament",
+        "url": "https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324053,
+      "name": "Like Stars In The Firmament",
+      "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
+    },
+    {
+      "album": {
+        "name": "Micha: Those Who Fear Tomorrow",
+        "url": "https://open.spotify.com/album/6eRY9vIZ4Hciev3sNrzqam"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 250903,
+      "name": "Micha: Those Who Fear Tomorrow",
+      "url": "https://open.spotify.com/track/69NyDmiOB8lfgtd1hH3l2S"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375933,
+      "name": "Mine Is Clouds",
+      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280477,
+      "name": "Nineteen Ninety Heaven",
+      "url": "https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Pattern After Us - DOTB B Side",
+      "url": "https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Plastic Migraine",
+      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
+    },
+    {
+      "album": {
+        "name": "Flowing Harmony: River's Serenading Tunes",
+        "url": "https://open.spotify.com/album/3nT0dPS7oXPAmf838XLmYR"
+      },
+      "artists": [
+        {
+          "name": "Ambient Quokka",
+          "url": "https://open.spotify.com/artist/11Fsp1uMcnrDlwjqM2kxzk"
+        },
+        {
+          "name": "At The End Of Times",
+          "url": "https://open.spotify.com/artist/7CoryHVKlglEp1s0zkchc5"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 120000,
+      "name": "Rhythmic Waterside Dreams",
+      "url": "https://open.spotify.com/track/03zzARsjqHmGksgczjTkK6"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491133,
+      "name": "Rose Tinted World",
+      "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255274,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
+    },
+    {
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270565,
+      "name": "Somersault",
+      "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 186694,
+      "name": "Spell - TOT B Side",
+      "url": "https://open.spotify.com/track/1o7HsCCBFqZTcMFwKTw03X"
+    },
+    {
+      "album": {
+        "name": "Spend The Grace",
+        "url": "https://open.spotify.com/album/5jLvPEJ0fENjxCQ41pq3ff"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/0oR8hCuNGBlHDY6bdiOVry"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347160,
+      "name": "Spend The Grace",
+      "url": "https://open.spotify.com/track/2wcVDlzVPDIGqPbL5Z3lSS"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158013,
+      "name": "The Dives (Lazarus in Ashes)",
+      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
+    },
+    {
+      "album": {
+        "name": "The Great Dismal B-Sides",
+        "url": "https://open.spotify.com/album/3hiV9e2rbXw9YMb6QI8F8M"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 342334,
+      "name": "The Great Dismal",
+      "url": "https://open.spotify.com/track/6F0PDcBcQuf2zq0EXU9iz6"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "The Mohegan - DOTB B Side",
+      "url": "https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG"
+    },
+    {
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 350292,
+      "name": "The Rites of Love and Death",
+      "url": "https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Us/We/are",
+      "url": "https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Stairs - B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 184072,
+      "name": "Vapour Trail - Live WKDU Philly 2011",
+      "url": "https://open.spotify.com/track/0raKnTjJ0hvTqEpN8Folvh"
+    },
+    {
+      "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204975,
+      "name": "Vertigo Flowers",
+      "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348493,
+      "name": "When No Birds Sang",
+      "url": "https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f"
+    },
+    {
+      "album": {
+        "name": "When No Birds Sang",
+        "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
+      },
+      "artists": [
+        {
+          "name": "Full Of Hell",
+          "url": "https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz"
+        },
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "You Wind Me Up",
+      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
+    },
+    {
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k"
 }

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214310,
+      "name": "Forever Alone",
+      "url": "https://open.spotify.com/track/4b2V2ZuTYELubat4l5qZaE"
+    },
+    {
+      "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
       },
@@ -354,7 +372,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"

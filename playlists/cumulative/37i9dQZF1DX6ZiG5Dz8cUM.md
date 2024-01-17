@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-370 songs - 23 hr 42 min
+373 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2021-12-14 | 2023-01-27 |
 | [Sander](https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Sander](https://open.spotify.com/album/0oEU4hwkt4cel4aE2S9rZI) | 4:16 | 2023-06-15 |  |
 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 | 2022-01-26 | 2022-08-18 |
+| [Shadow Play](https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Shadow Play](https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN) | 3:45 | 2024-01-05 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-14 | 2023-04-28 |
@@ -344,6 +345,7 @@
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-10 |  |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 | 2023-09-29 |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-11 |  |
+| [What about us?](https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [What about us?](https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ) | 2:49 | 2024-01-05 |  |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2022-04-07 | 2022-08-18 |
 | [What The Heart Wants](https://open.spotify.com/track/3REyVyWHPHPKQueGFnCYay) | [Vincent Hall Trio](https://open.spotify.com/artist/0INrFdPtyCkB0oyaxbvKLb) | [What The Heart Wants](https://open.spotify.com/album/4kiOZP3cb4a3mg6ZxhJA3R) | 2:01 | 2021-12-14 | 2023-04-21 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-29 | 2023-10-13 |
@@ -370,6 +372,7 @@
 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 | 2022-01-26 | 2022-08-18 |
 | [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-20 |  |
 | [You Go to My Head](https://open.spotify.com/track/2M0kwHGj606VbCDNo1I5YJ) | [Heidi Skjerve](https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB), [Daniel Formo](https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz), [Bjørn Marius Hegge](https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj), [Håkon Mjåset Johansen](https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I), [Mona Krogstad](https://open.spotify.com/artist/4VTic06AgSPI4CjWjxofOm) | [I'm Glad There Is You](https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl) | 4:55 | 2022-04-07 | 2022-11-18 |
+| [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-01-12 |  |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 | 2021-12-14 | 2022-08-31 |

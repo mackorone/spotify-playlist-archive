@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 458 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 51 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
 | 52 | [Me Voy](https://open.spotify.com/track/2d7H0OUOqsZMyi8hJpkKfC) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:49 |
 | 53 | [Enséñame a Vivir Sin Ti \- Bolero Version](https://open.spotify.com/track/0IC8wEVWUTXycJDQUTlTE4) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:03 |
-| 54 | [Arrebátate](https://open.spotify.com/track/1iBhYJjDcZGQLDb230wHY0) | [Charly Gitanos](https://open.spotify.com/artist/2qp47lfHVy80ot1ZMkeXBx) | [Arrebátate](https://open.spotify.com/album/3MLXDaXWUTYK5jM40IFYia) | 3:36 |
-| 55 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
+| 54 | [No Soy Como Tu](https://open.spotify.com/track/4KoVHqsM8yzcUbwqYlNRgR) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:01 |
+| 55 | [Arrebátate](https://open.spotify.com/track/1iBhYJjDcZGQLDb230wHY0) | [Charly Gitanos](https://open.spotify.com/artist/2qp47lfHVy80ot1ZMkeXBx) | [Arrebátate](https://open.spotify.com/album/3MLXDaXWUTYK5jM40IFYia) | 3:36 |
 | 56 | [La Mosquita Muerta](https://open.spotify.com/track/4c2zFtuFx2XeNLke7xFrgM) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:31 |
 | 57 | [Darnos Un Dia](https://open.spotify.com/track/7532bbUg9FJRPSmGvblQH1) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:06 |
 | 58 | [Como Hubiera Sido?](https://open.spotify.com/track/362tHCKRvCWmcYEdSsHG1E) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:40 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 73 | [Indestructible](https://open.spotify.com/track/1FWNaYZdL0npIuzxsHb8aK) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Juego De Valientes](https://open.spotify.com/album/4xUjdG7ySlpPVEFCmjCWG4) | 3:25 |
 | 74 | [Arena Movediza](https://open.spotify.com/track/2mcg0Nd75PVm0fcyOTHqmI) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
 | 75 | [Bien](https://open.spotify.com/track/6qcDwycoQlUXKEc5TntCKD) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:21 |
-| 76 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
-| 77 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
+| 76 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 77 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
 | 78 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
-| 79 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 79 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
 | 80 | [Panamá Mia](https://open.spotify.com/track/17UBnqRCNrqXRLtQizeRAL) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:34 |
 | 81 | [Besando Sapos](https://open.spotify.com/track/7xTF7xQO5j5eSVwcSGO7T0) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 2:35 |
 | 82 | [Cosas Que Echo de Menos](https://open.spotify.com/track/1ZQB2iLP6CmER6LNka3jR3) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:27 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 103 | [Donde \(Xeque\-Mate\)](https://open.spotify.com/track/314hiE2Yr06A9gDHNg7Pyr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Donde \(Xeque\-Mate\)](https://open.spotify.com/album/06ZepOfHjDSp99jAECXmjW) | 3:26 |
 | 104 | [Até Logo](https://open.spotify.com/track/5GN0ecahtja4wD7mpjvSyw) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:54 |
 | 105 | [In the Middle](https://open.spotify.com/track/07g2wuOZXmXnqPG1SOdmtt) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:00 |
-| 106 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
-| 107 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 |
+| 106 | [Somos Panamá](https://open.spotify.com/track/6h0h3gP5pNvoRv0MFGtIcW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:02 |
+| 107 | [Amor Intermitente](https://open.spotify.com/track/1y2O85jcjOw22kYt1uRDSE) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:59 |
 | 108 | [Soy Lo Que Soy](https://open.spotify.com/track/1wv1manNi61gGyXnKtrDDC) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Porque La Fortuna Es Tuya](https://open.spotify.com/album/6RsPPBohTTFjGyEa7sbf1g) | 3:00 |
 | 109 | [En Exclusiva](https://open.spotify.com/track/2DjMvChCKP3nOoQ9VlKcxW) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:26 |
 | 110 | [Back to the Basics](https://open.spotify.com/track/1u3e9Vhg9LYv6GvLN6xqUD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/6foXmtdGJFnpyzdolnSTpM) | 3:28 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 143 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 144 | [Aunque Nunca Te Deje de Amar](https://open.spotify.com/track/4RguNxvswwwSyInENLnqsx) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:36 |
 | 145 | [Fiesta](https://open.spotify.com/track/1FX7bD1aTcY81PzAP9OyTf) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
-| 146 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 |
-| 147 | [Quien Lo Iba a Decir](https://open.spotify.com/track/2gjO4E64337KQHLhEh2uvv) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:39 |
+| 146 | [Quien Lo Iba a Decir](https://open.spotify.com/track/2gjO4E64337KQHLhEh2uvv) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:39 |
+| 147 | [Dimelo Mi Amor](https://open.spotify.com/track/1WUmROl7NnLXEK6l4XM2eE) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:35 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 | 149 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 150 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDAyNGMxNjk0NjY2ZTUxYzQ5NjBkMzgxMjAzZGEwYmViOQ==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDA5OWRiMGQ0OGYwNzFmNmZiMzYzYzg3YzhlNDUzMDc0Ng==`

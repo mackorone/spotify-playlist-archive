@@ -1,364 +1,1741 @@
 {
-  "2023-01-04": 1,
-  "2023-01-05": 6,
-  "2023-01-06": 24,
-  "2023-01-07": 41,
-  "2023-01-08": 41,
-  "2023-01-09": 70,
-  "2023-01-10": 504,
-  "2023-01-11": 944,
-  "2023-01-12": 1120,
-  "2023-01-13": 1143,
-  "2023-01-14": 1148,
-  "2023-01-15": 1151,
-  "2023-01-16": 1154,
-  "2023-01-17": 1157,
-  "2023-01-18": 1159,
-  "2023-01-19": 1161,
-  "2023-01-20": 1163,
-  "2023-01-21": 1167,
-  "2023-01-22": 1174,
-  "2023-01-23": 1177,
-  "2023-01-24": 1177,
-  "2023-01-25": 1176,
-  "2023-01-26": 1175,
-  "2023-01-27": 1179,
-  "2023-01-28": 1180,
-  "2023-01-29": 1182,
-  "2023-01-30": 1183,
-  "2023-01-31": 1183,
-  "2023-02-01": 1191,
-  "2023-02-02": 1192,
-  "2023-02-03": 1192,
-  "2023-02-04": 1195,
-  "2023-02-05": 1196,
-  "2023-02-06": 1198,
-  "2023-02-07": 1196,
-  "2023-02-08": 1197,
-  "2023-02-09": 1197,
-  "2023-02-10": 1198,
-  "2023-02-11": 1202,
-  "2023-02-12": 1201,
-  "2023-02-13": 1205,
-  "2023-02-14": 1205,
-  "2023-02-15": 1211,
-  "2023-02-16": 1216,
-  "2023-02-17": 1215,
-  "2023-02-18": 1219,
-  "2023-02-19": 1220,
-  "2023-02-20": 1225,
-  "2023-02-21": 1230,
-  "2023-02-22": 1232,
-  "2023-02-23": 1234,
-  "2023-02-24": 1233,
-  "2023-02-25": 1238,
-  "2023-02-26": 1242,
-  "2023-02-27": 1249,
-  "2023-02-28": 1249,
-  "2023-03-01": 1248,
-  "2023-03-02": 1252,
-  "2023-03-03": 1255,
-  "2023-03-04": 1256,
-  "2023-03-05": 1265,
-  "2023-03-06": 1265,
-  "2023-03-07": 1269,
-  "2023-03-08": 1268,
-  "2023-03-09": 1269,
-  "2023-03-10": 1274,
-  "2023-03-11": 1275,
-  "2023-03-12": 1279,
-  "2023-03-13": 1280,
-  "2023-03-14": 1280,
-  "2023-03-15": 1285,
-  "2023-03-16": 1288,
-  "2023-03-17": 1288,
-  "2023-03-18": 1293,
-  "2023-03-19": 1295,
-  "2023-03-20": 1297,
-  "2023-03-21": 1298,
-  "2023-03-22": 1300,
-  "2023-03-23": 1299,
-  "2023-03-24": 1299,
-  "2023-03-25": 1306,
-  "2023-03-26": 1307,
-  "2023-03-27": 1307,
-  "2023-03-28": 1308,
-  "2023-03-29": 1313,
-  "2023-03-30": 1317,
-  "2023-03-31": 1317,
-  "2023-04-01": 1320,
-  "2023-04-02": 1321,
-  "2023-04-03": 1322,
-  "2023-04-04": 1323,
-  "2023-04-05": 1326,
-  "2023-04-06": 1326,
-  "2023-04-07": 1328,
-  "2023-04-09": 1329,
-  "2023-04-10": 1328,
-  "2023-04-11": 1330,
-  "2023-04-12": 1330,
-  "2023-04-13": 1334,
-  "2023-04-14": 1337,
-  "2023-04-15": 1337,
-  "2023-04-16": 1337,
-  "2023-04-17": 1337,
-  "2023-04-18": 1337,
-  "2023-04-19": 1338,
-  "2023-04-20": 1336,
-  "2023-04-21": 1337,
-  "2023-04-22": 1337,
-  "2023-04-23": 1345,
-  "2023-04-24": 1345,
-  "2023-04-25": 1348,
-  "2023-04-26": 1349,
-  "2023-04-27": 1349,
-  "2023-04-28": 1349,
-  "2023-04-29": 1348,
-  "2023-04-30": 1347,
-  "2023-05-01": 1349,
-  "2023-05-02": 1350,
-  "2023-05-03": 1349,
-  "2023-05-04": 1348,
-  "2023-05-05": 1350,
-  "2023-05-06": 1351,
-  "2023-05-07": 1352,
-  "2023-05-08": 1352,
-  "2023-05-09": 1356,
-  "2023-05-10": 1357,
-  "2023-05-11": 1359,
-  "2023-05-12": 1360,
-  "2023-05-13": 1361,
-  "2023-05-14": 1361,
-  "2023-05-15": 1363,
-  "2023-05-16": 1367,
-  "2023-05-17": 1367,
-  "2023-05-18": 1368,
-  "2023-05-19": 1370,
-  "2023-05-20": 1374,
-  "2023-05-21": 1374,
-  "2023-05-22": 1374,
-  "2023-05-23": 1375,
-  "2023-05-24": 1376,
-  "2023-05-25": 1376,
-  "2023-05-26": 1379,
-  "2023-05-27": 1378,
-  "2023-05-28": 1378,
-  "2023-05-29": 1378,
-  "2023-05-30": 1381,
-  "2023-05-31": 1382,
-  "2023-06-01": 1384,
-  "2023-06-02": 1384,
-  "2023-06-03": 1384,
-  "2023-06-04": 1385,
-  "2023-06-05": 1387,
-  "2023-06-06": 1391,
-  "2023-06-07": 1391,
-  "2023-06-08": 1391,
-  "2023-06-09": 1392,
-  "2023-06-10": 1393,
-  "2023-06-11": 1393,
-  "2023-06-12": 1395,
-  "2023-06-13": 1396,
-  "2023-06-14": 1398,
-  "2023-06-15": 1399,
-  "2023-06-16": 1399,
-  "2023-06-17": 1400,
-  "2023-06-18": 1400,
-  "2023-06-19": 1400,
-  "2023-06-20": 1399,
-  "2023-06-21": 1399,
-  "2023-06-22": 1399,
-  "2023-06-23": 1402,
-  "2023-06-24": 1402,
-  "2023-06-25": 1405,
-  "2023-06-26": 1406,
-  "2023-06-27": 1407,
-  "2023-06-28": 1408,
-  "2023-06-29": 1408,
-  "2023-06-30": 1407,
-  "2023-07-01": 1409,
-  "2023-07-02": 1409,
-  "2023-07-03": 1410,
-  "2023-07-04": 1412,
-  "2023-07-05": 1417,
-  "2023-07-06": 1419,
-  "2023-07-07": 1419,
-  "2023-07-08": 1419,
-  "2023-07-09": 1419,
-  "2023-07-10": 1420,
-  "2023-07-11": 1420,
-  "2023-07-12": 1422,
-  "2023-07-13": 1422,
-  "2023-07-14": 1422,
-  "2023-07-15": 1423,
-  "2023-07-16": 1425,
-  "2023-07-17": 1425,
-  "2023-07-18": 1425,
-  "2023-07-19": 1427,
-  "2023-07-20": 1428,
-  "2023-07-21": 1429,
-  "2023-07-22": 1429,
-  "2023-07-23": 1430,
-  "2023-07-24": 1431,
-  "2023-07-25": 1432,
-  "2023-07-26": 1433,
-  "2023-07-27": 1434,
-  "2023-07-28": 1434,
-  "2023-07-29": 1437,
-  "2023-07-30": 1437,
-  "2023-07-31": 1437,
-  "2023-08-01": 1438,
-  "2023-08-02": 1438,
-  "2023-08-03": 1439,
-  "2023-08-04": 1441,
-  "2023-08-05": 1441,
-  "2023-08-06": 1442,
-  "2023-08-07": 1442,
-  "2023-08-08": 1445,
-  "2023-08-09": 1446,
-  "2023-08-10": 1447,
-  "2023-08-11": 1447,
-  "2023-08-12": 1450,
-  "2023-08-13": 1451,
-  "2023-08-14": 1450,
-  "2023-08-15": 1456,
-  "2023-08-16": 1456,
-  "2023-08-17": 1456,
-  "2023-08-18": 1456,
-  "2023-08-19": 1456,
-  "2023-08-20": 1456,
-  "2023-08-21": 1456,
-  "2023-08-22": 1457,
-  "2023-08-23": 1460,
-  "2023-08-24": 1462,
-  "2023-08-25": 1465,
-  "2023-08-26": 1466,
-  "2023-08-27": 1468,
-  "2023-08-28": 1469,
-  "2023-08-29": 1470,
-  "2023-08-30": 1470,
-  "2023-08-31": 1472,
-  "2023-09-01": 1473,
-  "2023-09-02": 1473,
-  "2023-09-03": 1473,
-  "2023-09-04": 1472,
-  "2023-09-05": 1474,
-  "2023-09-06": 1474,
-  "2023-09-07": 1474,
-  "2023-09-08": 1473,
-  "2023-09-09": 1472,
-  "2023-09-10": 1471,
-  "2023-09-11": 1471,
-  "2023-09-12": 1471,
-  "2023-09-13": 1473,
-  "2023-09-14": 1474,
-  "2023-09-15": 1474,
-  "2023-09-16": 1473,
-  "2023-09-17": 1473,
-  "2023-09-18": 1474,
-  "2023-09-19": 1474,
-  "2023-09-20": 1472,
-  "2023-09-21": 1474,
-  "2023-09-22": 1475,
-  "2023-09-23": 1476,
-  "2023-09-24": 1478,
-  "2023-09-25": 1479,
-  "2023-09-26": 1480,
-  "2023-09-27": 1482,
-  "2023-09-28": 1482,
-  "2023-09-29": 1482,
-  "2023-09-30": 1483,
-  "2023-10-01": 1482,
-  "2023-10-02": 1483,
-  "2023-10-03": 1485,
-  "2023-10-04": 1487,
-  "2023-10-05": 1488,
-  "2023-10-06": 1489,
-  "2023-10-07": 1488,
-  "2023-10-08": 1487,
-  "2023-10-09": 1487,
-  "2023-10-10": 1490,
-  "2023-10-11": 1490,
-  "2023-10-12": 1490,
-  "2023-10-13": 1491,
-  "2023-10-14": 1493,
-  "2023-10-15": 1493,
-  "2023-10-16": 1492,
-  "2023-10-17": 1492,
-  "2023-10-18": 1492,
-  "2023-10-19": 1492,
-  "2023-10-20": 1491,
-  "2023-10-21": 1490,
-  "2023-10-22": 1489,
-  "2023-10-23": 1488,
-  "2023-10-24": 1488,
-  "2023-10-25": 1489,
-  "2023-10-26": 1490,
-  "2023-10-27": 1490,
-  "2023-10-28": 1489,
-  "2023-10-29": 1487,
-  "2023-10-30": 1487,
-  "2023-10-31": 1487,
-  "2023-11-01": 1487,
-  "2023-11-02": 1487,
-  "2023-11-03": 1487,
-  "2023-11-04": 1487,
-  "2023-11-05": 1488,
-  "2023-11-06": 1488,
-  "2023-11-07": 1488,
-  "2023-11-08": 1489,
-  "2023-11-09": 1489,
-  "2023-11-10": 1489,
-  "2023-11-11": 1487,
-  "2023-11-12": 1486,
-  "2023-11-13": 1487,
-  "2023-11-14": 1485,
-  "2023-11-15": 1485,
-  "2023-11-16": 1485,
-  "2023-11-17": 1486,
-  "2023-11-18": 1486,
-  "2023-11-19": 1486,
-  "2023-11-20": 1487,
-  "2023-11-21": 1488,
-  "2023-11-22": 1487,
-  "2023-11-23": 1487,
-  "2023-11-24": 1487,
-  "2023-11-25": 1485,
-  "2023-11-26": 1486,
-  "2023-11-27": 1487,
-  "2023-11-28": 1487,
-  "2023-11-29": 1485,
-  "2023-11-30": 1485,
-  "2023-12-01": 1485,
-  "2023-12-02": 1485,
-  "2023-12-03": 1485,
-  "2023-12-04": 1485,
-  "2023-12-05": 1486,
-  "2023-12-06": 1484,
-  "2023-12-07": 1484,
-  "2023-12-08": 1485,
-  "2023-12-09": 1485,
-  "2023-12-10": 1486,
-  "2023-12-11": 1485,
-  "2023-12-12": 1485,
-  "2023-12-13": 1485,
-  "2023-12-14": 1485,
-  "2023-12-15": 1486,
-  "2023-12-16": 1487,
-  "2023-12-17": 1487,
-  "2023-12-18": 1488,
-  "2023-12-19": 1489,
-  "2023-12-20": 1488,
-  "2023-12-21": 1488,
-  "2023-12-22": 1490,
-  "2023-12-23": 1490,
-  "2023-12-24": 1490,
-  "2023-12-25": 1490,
-  "2023-12-26": 1491,
-  "2023-12-27": 1491,
-  "2023-12-30": 1491,
-  "2023-12-31": 1491,
-  "2024-01-01": 1491,
-  "2024-01-02": 1495,
-  "2024-01-03": 1496
+  "2024-01-17": 1498,
+  "date_first_scraped": "2023-01-04",
+  "description": "Listen to the soundtracks of Disney+'s original drama Big Bet. (\ub514\uc988\ub2c8+ \uc624\ub9ac\uc9c0\ub110 \ub4dc\ub77c\ub9c8 \uce74\uc9c0\ub178\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "\uce74\uc9c0\ub178(Big Bet)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Big Bet Audio liners",
+        "url": "https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE"
+      },
+      "artists": [
+        {
+          "name": "Big Bet",
+          "url": "https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49344,
+      "name": "1. Message from Son Sukku",
+      "url": "https://open.spotify.com/track/00yuktaEDKcpNQ7tGd7oVv"
+    },
+    {
+      "album": {
+        "name": "Big Bet Audio liners",
+        "url": "https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE"
+      },
+      "artists": [
+        {
+          "name": "Big Bet",
+          "url": "https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52704,
+      "name": "2. Message from Lee Donghwi",
+      "url": "https://open.spotify.com/track/0vaRz5YeubnKMfaw0LGXaY"
+    },
+    {
+      "album": {
+        "name": "Big Bet Audio liners",
+        "url": "https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE"
+      },
+      "artists": [
+        {
+          "name": "Big Bet",
+          "url": "https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62952,
+      "name": "3. Message from Ha Hyun Woo",
+      "url": "https://open.spotify.com/track/2tnowOihX8582EqTnp3ifS"
+    },
+    {
+      "album": {
+        "name": "Big Bet Audio liners",
+        "url": "https://open.spotify.com/album/2DHYjtK6uC5oliPq56dRKE"
+      },
+      "artists": [
+        {
+          "name": "Big Bet",
+          "url": "https://open.spotify.com/artist/02GsOZ9KVl2ZDFdZ9yyRXk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44952,
+      "name": "4. Message from Heo Sungtae",
+      "url": "https://open.spotify.com/track/1TZ7ETIoO7IPzPkPk6i4kV"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64280,
+      "name": "A Last Supper",
+      "url": "https://open.spotify.com/track/5cYIhgs29x50dd8wVrwvOV"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/4eJENmzh5qk0Iq8EsjCDfT"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "All In Casino",
+      "url": "https://open.spotify.com/track/4qg2LiX5PIh6AyYOnVlCY7"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102440,
+      "name": "At The Beach",
+      "url": "https://open.spotify.com/track/19h0lRRAM57cQd1c6Z4GU0"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119906,
+      "name": "Baek-Gol-Dan",
+      "url": "https://open.spotify.com/track/4Zxf8xtoPnDBxLUwARrU6P"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61333,
+      "name": "Bankruptcy",
+      "url": "https://open.spotify.com/track/3FtCqPHebKaC3Th3cPomKS"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123360,
+      "name": "Big Boss",
+      "url": "https://open.spotify.com/track/7oYLNE58e4y3Od5mvVBxnl"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135093,
+      "name": "Can You Handle Me?",
+      "url": "https://open.spotify.com/track/5e2BJ7IopDA6qVl47fL3ZI"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103733,
+      "name": "Casino Life",
+      "url": "https://open.spotify.com/track/1w9TjwsrKhBpTKUZ6XdaTO"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34146,
+      "name": "Casino Not Over Yet",
+      "url": "https://open.spotify.com/track/4GzhO1OgjRO6QYeFFk5aJs"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160346,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/3vOvF9qxVtgv3DwnE9kUEa"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52626,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/1sSHMK8A2KrPbv0TgecNJD"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "Clumsy Heart",
+      "url": "https://open.spotify.com/track/37NvsPUDXxLwLECancTrW3"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67760,
+      "name": "Complex Mind 10",
+      "url": "https://open.spotify.com/track/1d9yZapz9TBctblUMkLaeQ"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69026,
+      "name": "Creche",
+      "url": "https://open.spotify.com/track/3Id0JTw8KHqSp2c3BAB0a4"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "Death Bodies",
+      "url": "https://open.spotify.com/track/78nUSW3Lw4bC7oB895vkTr"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "Death Bodies (Reprise)",
+      "url": "https://open.spotify.com/track/1JyaGKE2MXX1TQD5FpVIMX"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Don\u2032t Mess Around",
+      "url": "https://open.spotify.com/track/082Pvq30fSAhaY1X67fyJQ"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43533,
+      "name": "End Of Friendship",
+      "url": "https://open.spotify.com/track/5xqlMbKHK9XLcedYjKlHxA"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108240,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/3cgspBCVfDdmjmAZnztfNW"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Everyone Left",
+      "url": "https://open.spotify.com/track/6P9HVwYCq2G4xJLraBCzxo"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105133,
+      "name": "Father\u2032s Revenge",
+      "url": "https://open.spotify.com/track/106FHF6FXAWulVJMOaYv29"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54733,
+      "name": "Final Mission Part.1",
+      "url": "https://open.spotify.com/track/7hRRWp8WELhhpUR8U17Frs"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142293,
+      "name": "Final Mission Part.2",
+      "url": "https://open.spotify.com/track/2GpooIjxYVTTKy1a1eRD4t"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56280,
+      "name": "First Gamble",
+      "url": "https://open.spotify.com/track/6tkqncjsaxZvqI6FRLVO23"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47600,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/6yVIr3VcuTOZCBiqdTKGAS"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "Follow The Feeling",
+      "url": "https://open.spotify.com/track/0UazyWhi0RXnKELxNQjYv3"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134426,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/01TkJrx9EIZL0b4luDLSUC"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74720,
+      "name": "Gambling Story",
+      "url": "https://open.spotify.com/track/6oLUVX7qObN2jkknsDhLmc"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64400,
+      "name": "Get A Confession",
+      "url": "https://open.spotify.com/track/3HTX1Xv1YyQPRnVKPCNyDL"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67173,
+      "name": "Give Me The Power",
+      "url": "https://open.spotify.com/track/31ekgvuzopVDqKtYy1wTmz"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75760,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/1czah9oHj1xzXETiDWor6z"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "Good Luck (Reprise)",
+      "url": "https://open.spotify.com/track/0UqCPpBhN9ffYeKjflZIBK"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70106,
+      "name": "Hide Your Heart",
+      "url": "https://open.spotify.com/track/5yEMXTn1tJVb1ruxI0JYaz"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108853,
+      "name": "Hot Days",
+      "url": "https://open.spotify.com/track/5inTPZdc98BxsmXNvHmaZK"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90133,
+      "name": "I Don\u2032t Trust Anyone",
+      "url": "https://open.spotify.com/track/4KfAxhE31rudSXXYuFoqb3"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85600,
+      "name": "Insecure Sex",
+      "url": "https://open.spotify.com/track/0xuSb8SJgHxIur00o5SPNW"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        },
+        {
+          "name": "\uae40\uc2b9\ud604",
+          "url": "https://open.spotify.com/artist/4kkWl0rJnZvHtGPY3yAUBy"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126026,
+      "name": "Inspector Oh\u2032s Rumors",
+      "url": "https://open.spotify.com/track/0MWJhUxRfGWY5xLQ8fLxIC"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97453,
+      "name": "I\u2032m A Money",
+      "url": "https://open.spotify.com/track/4PxxcURkMfn3idw2y4KiQp"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "I\u2032m A Money - Extended Version",
+      "url": "https://open.spotify.com/track/17N5lSxck4j20w2mEnxD2d"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "I\u2032m A Monster",
+      "url": "https://open.spotify.com/track/5q2zURFaxCayQ2HtIeWVm0"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79173,
+      "name": "I\u2032m Going To You",
+      "url": "https://open.spotify.com/track/3QHPLfuH6fZDjfOrZy1kVL"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102986,
+      "name": "I\u2032m Sorry, I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/5j5rSqTDFtFVsHb97jLYKX"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39866,
+      "name": "Jeon-Dae-Hyub",
+      "url": "https://open.spotify.com/track/1qUOoWxdLEsuRAmJFfsLYf"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122840,
+      "name": "Just Follow Me",
+      "url": "https://open.spotify.com/track/6YFgaXaTNYLBnaGvX2m9x4"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106013,
+      "name": "Last Of Two Idiots",
+      "url": "https://open.spotify.com/track/3iNAICQG8iozQBXGW7iGpo"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65146,
+      "name": "Let\u2032s Start The Game.",
+      "url": "https://open.spotify.com/track/1O3vLVrTmRb7RaW7CeIo8x"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65800,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/0UmtnZgagbIf0aV3ILTSqa"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54426,
+      "name": "Meet Mother",
+      "url": "https://open.spotify.com/track/4Eh1MLYTNBDM6d1JBIpj7K"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "Monday Seminar",
+      "url": "https://open.spotify.com/track/2DfsWqbiuxlOWgMJ2eUMag"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Moo-Sik Blues",
+      "url": "https://open.spotify.com/track/4wiVI29Agqb2eNjZv3FuF4"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56800,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0V7MGXPyRUrOdCdCJdzycl"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111080,
+      "name": "NBI",
+      "url": "https://open.spotify.com/track/45aAHWnQhARLIZTd4ZWbQc"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "On The Table",
+      "url": "https://open.spotify.com/track/3v4CaWe5aZIEUVSb6dkAPF"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79666,
+      "name": "On The Table - Funky Version",
+      "url": "https://open.spotify.com/track/3IncfFTBNIqOzPGwvezVVC"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145453,
+      "name": "Operation",
+      "url": "https://open.spotify.com/track/0xsYlQDqJwqSLhrqFQzpwf"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164346,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/2GH6nAW4LmhPgzbS1C2gsB"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1SIgkmmMSaNieFLRoHiEPY"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85706,
+      "name": "Permission To Kill",
+      "url": "https://open.spotify.com/track/3BH3YtFpc26rvsJLrmUHCu"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82440,
+      "name": "Physical Examination",
+      "url": "https://open.spotify.com/track/04wh2Yy1shT9neulynKc1e"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98186,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/4qrLUJdQT4Ujg42WqhHKcf"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64266,
+      "name": "Pride Will Have A Fall",
+      "url": "https://open.spotify.com/track/1JYYoO6GGu5NAhnwRlVIvG"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53146,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/1FPyPPlSlLn8Qu0RsNkwTt"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Raul\u2032s End",
+      "url": "https://open.spotify.com/track/0o9827Izeb3SFzTZ61jw5g"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Reason For Life",
+      "url": "https://open.spotify.com/track/3h7efcuYk3bvh24Cy7JvKX"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "Reason For Life - Lite Version",
+      "url": "https://open.spotify.com/track/4UYxIDxcQeqaQXDwMTfUV4"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89586,
+      "name": "Rising Tension",
+      "url": "https://open.spotify.com/track/6WNez0S8rY3cZfPJlnByHk"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84960,
+      "name": "Road To Man",
+      "url": "https://open.spotify.com/track/5ZNtxNV3ZQUUtFqwYGod2G"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118653,
+      "name": "Road To Man - Extended Version",
+      "url": "https://open.spotify.com/track/3sT7KAHnhzZ0IHR7aNMtTt"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84586,
+      "name": "Road To Man - Guitar Version",
+      "url": "https://open.spotify.com/track/6y3zdtGLxeYn0XeVvWVPEy"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80973,
+      "name": "Rock-Paper-Scissors",
+      "url": "https://open.spotify.com/track/7A4Osr7QaxEubS5LKKDLxB"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60453,
+      "name": "Rock-Paper-Scissors - Slow Version",
+      "url": "https://open.spotify.com/track/3z3kTuoZNPSydpGs2r216P"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Rock-Paper-Scisssors - Reggae Version",
+      "url": "https://open.spotify.com/track/0VJzwC7Nq7yeIWSOpXQER9"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121493,
+      "name": "Run If You Possible",
+      "url": "https://open.spotify.com/track/4JmTOyBF6wxu8fPbdiSK4i"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Show Down",
+      "url": "https://open.spotify.com/track/1UZvyTwk3AUMtcKGV7F7Nd"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Show Down - Instrumental",
+      "url": "https://open.spotify.com/track/7aETIsrw0g3jtCoj4qOKk7"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Sinking Moo-Sik",
+      "url": "https://open.spotify.com/track/0fej5QU4ElAIQKzb59dQ64"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "Size Up",
+      "url": "https://open.spotify.com/track/28jIQJjTBtgg6J6T4CxAlT"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105333,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/4dgt4MlN92sICD1bdnpsRX"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69253,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/4PPP4OFFmi5YHpJWvMFMMo"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96280,
+      "name": "Tempting Offer",
+      "url": "https://open.spotify.com/track/72mzctOs1mwnz4ehUqL11V"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69720,
+      "name": "Test",
+      "url": "https://open.spotify.com/track/4ixcZdGOwg8AHihnH0LUZT"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63400,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4npsLgRxVULeUgTdfe6I3m"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77160,
+      "name": "Thanks My Friend",
+      "url": "https://open.spotify.com/track/18LWtX3xQ1q05Vsxrv4Exk"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50013,
+      "name": "The Smell Of Betrayal",
+      "url": "https://open.spotify.com/track/1gql2pRPrfuuNGqK7b7cm8"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74640,
+      "name": "This Is Fake",
+      "url": "https://open.spotify.com/track/7hWAfDgdNWSSb521IlJV6y"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97746,
+      "name": "Trap",
+      "url": "https://open.spotify.com/track/3G4yaPTZJ3BS0XXFICcB74"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173973,
+      "name": "Weird Guy",
+      "url": "https://open.spotify.com/track/0niEWDw8lEpRVCNA5fP7K1"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71213,
+      "name": "With Father",
+      "url": "https://open.spotify.com/track/7k8jX6rdagsb5puE7jUIsV"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93440,
+      "name": "Wound",
+      "url": "https://open.spotify.com/track/2GzQ4KeGgU0eeps7fzfmnX"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62613,
+      "name": "You Got Caught",
+      "url": "https://open.spotify.com/track/2F6ETLjwLSzUw6p3SQMcDZ"
+    },
+    {
+      "album": {
+        "name": "Big Bet (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs"
+      },
+      "artists": [
+        {
+          "name": "Yoon Il Sang",
+          "url": "https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68933,
+      "name": "Youth Cha Moo-Sik",
+      "url": "https://open.spotify.com/track/3mpmq1bbKA1YwCBnYm15dA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5UGBQjvGtvy"
 }

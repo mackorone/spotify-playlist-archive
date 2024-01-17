@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "A Class",
+        "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225574,
+      "name": "Good-bye Baby",
+      "url": "https://open.spotify.com/track/0HWzu5wDNPI1f365KKICdz"
+    },
+    {
+      "album": {
         "name": "Gotta Go",
         "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 234856,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
@@ -2047,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186017,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
+    },
+    {
+      "album": {
         "name": "Yanghwa BRDG",
         "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
@@ -2274,7 +2310,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 197672,
       "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
       "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"

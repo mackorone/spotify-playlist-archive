@@ -1,735 +1,2185 @@
 {
-  "2021-12-25": 36389,
-  "2021-12-26": 36386,
-  "2021-12-27": 36371,
-  "2021-12-28": 36371,
-  "2021-12-29": 36366,
-  "2021-12-30": 36359,
-  "2021-12-31": 36346,
-  "2022-01-01": 36340,
-  "2022-01-02": 36337,
-  "2022-01-03": 36329,
-  "2022-01-04": 36324,
-  "2022-01-05": 36314,
-  "2022-01-06": 36304,
-  "2022-01-07": 36296,
-  "2022-01-08": 36294,
-  "2022-01-09": 36291,
-  "2022-01-10": 36283,
-  "2022-01-11": 36278,
-  "2022-01-12": 36275,
-  "2022-01-13": 36268,
-  "2022-01-14": 36263,
-  "2022-01-15": 36252,
-  "2022-01-16": 36251,
-  "2022-01-17": 36245,
-  "2022-01-18": 36245,
-  "2022-01-19": 36235,
-  "2022-01-20": 36230,
-  "2022-01-21": 36220,
-  "2022-01-22": 36206,
-  "2022-01-23": 36201,
-  "2022-01-24": 36190,
-  "2022-01-25": 36182,
-  "2022-01-26": 36171,
-  "2022-01-27": 36164,
-  "2022-01-28": 36156,
-  "2022-01-29": 36148,
-  "2022-01-30": 36142,
-  "2022-01-31": 36138,
-  "2022-02-01": 36131,
-  "2022-02-02": 36128,
-  "2022-02-03": 36121,
-  "2022-02-04": 36119,
-  "2022-02-05": 36113,
-  "2022-02-06": 36105,
-  "2022-02-07": 36104,
-  "2022-02-08": 36096,
-  "2022-02-09": 36089,
-  "2022-02-10": 36081,
-  "2022-02-11": 36068,
-  "2022-02-12": 36065,
-  "2022-02-13": 36056,
-  "2022-02-14": 36051,
-  "2022-02-15": 36048,
-  "2022-02-16": 36038,
-  "2022-02-17": 36032,
-  "2022-02-18": 36023,
-  "2022-02-19": 36018,
-  "2022-02-20": 36016,
-  "2022-02-21": 36010,
-  "2022-02-22": 36001,
-  "2022-02-23": 35996,
-  "2022-02-24": 35982,
-  "2022-02-25": 35977,
-  "2022-02-26": 35971,
-  "2022-02-27": 35957,
-  "2022-02-28": 35957,
-  "2022-03-01": 35954,
-  "2022-03-02": 35946,
-  "2022-03-03": 35934,
-  "2022-03-04": 35929,
-  "2022-03-05": 35926,
-  "2022-03-06": 35918,
-  "2022-03-07": 35917,
-  "2022-03-08": 35912,
-  "2022-03-09": 35904,
-  "2022-03-10": 35896,
-  "2022-03-11": 35894,
-  "2022-03-12": 35889,
-  "2022-03-13": 35881,
-  "2022-03-14": 35873,
-  "2022-03-15": 35869,
-  "2022-03-16": 35864,
-  "2022-03-17": 35858,
-  "2022-03-18": 35850,
-  "2022-03-19": 35846,
-  "2022-03-20": 35846,
-  "2022-03-21": 35835,
-  "2022-03-22": 35829,
-  "2022-03-23": 35821,
-  "2022-03-24": 35817,
-  "2022-03-25": 35813,
-  "2022-03-26": 35798,
-  "2022-03-27": 35791,
-  "2022-03-28": 35785,
-  "2022-03-30": 35776,
-  "2022-03-31": 35767,
-  "2022-04-01": 35761,
-  "2022-04-02": 35756,
-  "2022-04-03": 35755,
-  "2022-04-04": 35750,
-  "2022-04-05": 35745,
-  "2022-04-06": 35738,
-  "2022-04-07": 35734,
-  "2022-04-08": 35729,
-  "2022-04-09": 35726,
-  "2022-04-10": 35712,
-  "2022-04-11": 35705,
-  "2022-04-12": 35704,
-  "2022-04-13": 35700,
-  "2022-04-14": 35696,
-  "2022-04-15": 35689,
-  "2022-04-16": 35684,
-  "2022-04-17": 35681,
-  "2022-04-18": 35672,
-  "2022-04-19": 35665,
-  "2022-04-20": 35655,
-  "2022-04-21": 35651,
-  "2022-04-22": 35642,
-  "2022-04-23": 35635,
-  "2022-04-24": 35629,
-  "2022-04-25": 35624,
-  "2022-04-26": 35617,
-  "2022-04-27": 35613,
-  "2022-04-28": 35605,
-  "2022-04-29": 35601,
-  "2022-04-30": 35592,
-  "2022-05-01": 35585,
-  "2022-05-02": 35585,
-  "2022-05-03": 35578,
-  "2022-05-04": 35573,
-  "2022-05-05": 35570,
-  "2022-05-06": 35563,
-  "2022-05-07": 35556,
-  "2022-05-08": 35546,
-  "2022-05-09": 35545,
-  "2022-05-10": 35540,
-  "2022-05-11": 35537,
-  "2022-05-12": 35530,
-  "2022-05-13": 35524,
-  "2022-05-14": 35516,
-  "2022-05-15": 35508,
-  "2022-05-16": 35504,
-  "2022-05-17": 35494,
-  "2022-05-18": 35486,
-  "2022-05-19": 35486,
-  "2022-05-20": 35479,
-  "2022-05-21": 35471,
-  "2022-05-22": 35471,
-  "2022-05-23": 35464,
-  "2022-05-24": 35459,
-  "2022-05-25": 35457,
-  "2022-05-26": 35452,
-  "2022-05-27": 35448,
-  "2022-05-28": 35444,
-  "2022-05-29": 35443,
-  "2022-05-30": 35441,
-  "2022-05-31": 35433,
-  "2022-06-01": 35416,
-  "2022-06-02": 35416,
-  "2022-06-03": 35411,
-  "2022-06-04": 35407,
-  "2022-06-05": 35401,
-  "2022-06-06": 35394,
-  "2022-06-07": 35387,
-  "2022-06-08": 35379,
-  "2022-06-09": 35375,
-  "2022-06-10": 35373,
-  "2022-06-11": 35368,
-  "2022-06-12": 35362,
-  "2022-06-13": 35358,
-  "2022-06-14": 35354,
-  "2022-06-15": 35351,
-  "2022-06-16": 35346,
-  "2022-06-17": 35342,
-  "2022-06-18": 35342,
-  "2022-06-19": 35321,
-  "2022-06-20": 35321,
-  "2022-06-21": 35315,
-  "2022-06-22": 35298,
-  "2022-06-23": 35298,
-  "2022-06-24": 35295,
-  "2022-06-25": 35288,
-  "2022-06-26": 35282,
-  "2022-06-27": 35277,
-  "2022-06-28": 35269,
-  "2022-06-29": 35258,
-  "2022-06-30": 35246,
-  "2022-07-01": 35238,
-  "2022-07-02": 35232,
-  "2022-07-03": 35224,
-  "2022-07-04": 35224,
-  "2022-07-05": 35224,
-  "2022-07-06": 35224,
-  "2022-07-07": 35207,
-  "2022-07-08": 35201,
-  "2022-07-09": 35197,
-  "2022-07-10": 35190,
-  "2022-07-11": 35184,
-  "2022-07-12": 35177,
-  "2022-07-13": 35173,
-  "2022-07-14": 35163,
-  "2022-07-15": 35156,
-  "2022-07-16": 35146,
-  "2022-07-17": 35141,
-  "2022-07-18": 35136,
-  "2022-07-19": 35132,
-  "2022-07-20": 35128,
-  "2022-07-21": 35119,
-  "2022-07-22": 35111,
-  "2022-07-23": 35107,
-  "2022-07-24": 35101,
-  "2022-07-25": 35091,
-  "2022-07-26": 35081,
-  "2022-07-27": 35075,
-  "2022-07-28": 35073,
-  "2022-07-29": 35065,
-  "2022-07-30": 35053,
-  "2022-07-31": 35053,
-  "2022-08-01": 35049,
-  "2022-08-02": 35039,
-  "2022-08-03": 35039,
-  "2022-08-04": 35038,
-  "2022-08-05": 35034,
-  "2022-08-06": 35028,
-  "2022-08-07": 35019,
-  "2022-08-08": 35013,
-  "2022-08-09": 35007,
-  "2022-08-10": 34998,
-  "2022-08-11": 34996,
-  "2022-08-12": 34991,
-  "2022-08-13": 34989,
-  "2022-08-14": 34983,
-  "2022-08-15": 34976,
-  "2022-08-16": 34972,
-  "2022-08-17": 34966,
-  "2022-08-18": 34963,
-  "2022-08-19": 34959,
-  "2022-08-20": 34955,
-  "2022-08-21": 34951,
-  "2022-08-22": 34947,
-  "2022-08-23": 34945,
-  "2022-08-24": 34941,
-  "2022-08-25": 34934,
-  "2022-08-26": 34930,
-  "2022-08-27": 34927,
-  "2022-08-28": 34925,
-  "2022-08-29": 34917,
-  "2022-08-30": 34905,
-  "2022-08-31": 34877,
-  "2022-09-01": 34854,
-  "2022-09-02": 34832,
-  "2022-09-03": 34798,
-  "2022-09-04": 34786,
-  "2022-09-05": 34779,
-  "2022-09-06": 34776,
-  "2022-09-07": 34773,
-  "2022-09-09": 34765,
-  "2022-09-10": 34757,
-  "2022-09-11": 34751,
-  "2022-09-12": 34744,
-  "2022-09-13": 34737,
-  "2022-09-15": 34730,
-  "2022-09-16": 34725,
-  "2022-09-17": 34719,
-  "2022-09-18": 34717,
-  "2022-09-19": 34717,
-  "2022-09-20": 34708,
-  "2022-09-21": 34703,
-  "2022-09-22": 34703,
-  "2022-09-23": 34694,
-  "2022-09-24": 34694,
-  "2022-09-25": 34687,
-  "2022-09-26": 34687,
-  "2022-09-27": 34679,
-  "2022-09-28": 34679,
-  "2022-09-29": 34669,
-  "2022-09-30": 34666,
-  "2022-10-01": 34663,
-  "2022-10-02": 34660,
-  "2022-10-03": 34655,
-  "2022-10-04": 34650,
-  "2022-10-05": 34641,
-  "2022-10-06": 34638,
-  "2022-10-07": 34634,
-  "2022-10-08": 34627,
-  "2022-10-09": 34617,
-  "2022-10-10": 34614,
-  "2022-10-11": 34613,
-  "2022-10-12": 34604,
-  "2022-10-13": 34600,
-  "2022-10-14": 34592,
-  "2022-10-15": 34588,
-  "2022-10-16": 34587,
-  "2022-10-17": 34582,
-  "2022-10-18": 34576,
-  "2022-10-19": 34571,
-  "2022-10-20": 34569,
-  "2022-10-21": 34564,
-  "2022-10-22": 34560,
-  "2022-10-23": 34557,
-  "2022-10-24": 34555,
-  "2022-10-25": 34548,
-  "2022-10-26": 34545,
-  "2022-10-27": 34542,
-  "2022-10-28": 34539,
-  "2022-10-29": 34533,
-  "2022-10-30": 34530,
-  "2022-10-31": 34525,
-  "2022-11-01": 34522,
-  "2022-11-02": 34519,
-  "2022-11-03": 34515,
-  "2022-11-04": 34508,
-  "2022-11-05": 34504,
-  "2022-11-06": 34500,
-  "2022-11-07": 34494,
-  "2022-11-08": 34488,
-  "2022-11-09": 34480,
-  "2022-11-10": 34474,
-  "2022-11-11": 34472,
-  "2022-11-12": 34467,
-  "2022-11-13": 34459,
-  "2022-11-14": 34454,
-  "2022-11-15": 34448,
-  "2022-11-16": 34447,
-  "2022-11-17": 34441,
-  "2022-11-18": 34436,
-  "2022-11-19": 34433,
-  "2022-11-20": 34425,
-  "2022-11-21": 34423,
-  "2022-11-22": 34417,
-  "2022-11-23": 34407,
-  "2022-11-24": 34400,
-  "2022-11-25": 34396,
-  "2022-11-26": 34392,
-  "2022-11-27": 34388,
-  "2022-11-28": 34381,
-  "2022-11-29": 34375,
-  "2022-11-30": 34367,
-  "2022-12-01": 34362,
-  "2022-12-02": 34357,
-  "2022-12-03": 34348,
-  "2022-12-04": 34343,
-  "2022-12-05": 34338,
-  "2022-12-06": 34332,
-  "2022-12-07": 34324,
-  "2022-12-08": 34315,
-  "2022-12-09": 34306,
-  "2022-12-10": 34305,
-  "2022-12-11": 34300,
-  "2022-12-12": 34299,
-  "2022-12-13": 34292,
-  "2022-12-14": 34286,
-  "2022-12-15": 34282,
-  "2022-12-16": 34276,
-  "2022-12-17": 34268,
-  "2022-12-18": 34260,
-  "2022-12-19": 34256,
-  "2022-12-20": 34243,
-  "2022-12-21": 34243,
-  "2022-12-22": 34239,
-  "2022-12-24": 34231,
-  "2022-12-25": 34228,
-  "2022-12-26": 34225,
-  "2022-12-27": 34222,
-  "2022-12-28": 34218,
-  "2022-12-29": 34213,
-  "2022-12-30": 34207,
-  "2022-12-31": 34201,
-  "2023-01-01": 34197,
-  "2023-01-02": 34188,
-  "2023-01-03": 34184,
-  "2023-01-04": 34178,
-  "2023-01-05": 34172,
-  "2023-01-06": 34168,
-  "2023-01-07": 34160,
-  "2023-01-08": 34156,
-  "2023-01-09": 34149,
-  "2023-01-10": 34146,
-  "2023-01-11": 34139,
-  "2023-01-12": 34137,
-  "2023-01-13": 34132,
-  "2023-01-14": 34127,
-  "2023-01-15": 34126,
-  "2023-01-16": 34119,
-  "2023-01-17": 34115,
-  "2023-01-18": 34112,
-  "2023-01-19": 34111,
-  "2023-01-20": 34106,
-  "2023-01-21": 34100,
-  "2023-01-22": 34099,
-  "2023-01-23": 34093,
-  "2023-01-24": 34085,
-  "2023-01-25": 34080,
-  "2023-01-26": 34077,
-  "2023-01-27": 34071,
-  "2023-01-28": 34066,
-  "2023-01-29": 34058,
-  "2023-01-30": 34053,
-  "2023-01-31": 34053,
-  "2023-02-01": 34040,
-  "2023-02-02": 34035,
-  "2023-02-03": 34028,
-  "2023-02-04": 34023,
-  "2023-02-05": 34021,
-  "2023-02-06": 34015,
-  "2023-02-07": 34012,
-  "2023-02-08": 34002,
-  "2023-02-09": 34002,
-  "2023-02-10": 33998,
-  "2023-02-11": 33989,
-  "2023-02-12": 33982,
-  "2023-02-13": 33981,
-  "2023-02-14": 33981,
-  "2023-02-15": 33977,
-  "2023-02-16": 33972,
-  "2023-02-17": 33968,
-  "2023-02-18": 33962,
-  "2023-02-19": 33961,
-  "2023-02-20": 33958,
-  "2023-02-21": 33954,
-  "2023-02-22": 33945,
-  "2023-02-23": 33938,
-  "2023-02-24": 33932,
-  "2023-02-25": 33927,
-  "2023-02-26": 33924,
-  "2023-02-27": 33918,
-  "2023-02-28": 33918,
-  "2023-03-01": 33917,
-  "2023-03-02": 33915,
-  "2023-03-03": 33910,
-  "2023-03-04": 33907,
-  "2023-03-05": 33904,
-  "2023-03-06": 33904,
-  "2023-03-07": 33898,
-  "2023-03-08": 33892,
-  "2023-03-09": 33885,
-  "2023-03-10": 33878,
-  "2023-03-11": 33875,
-  "2023-03-12": 33868,
-  "2023-03-13": 33862,
-  "2023-03-14": 33856,
-  "2023-03-15": 33854,
-  "2023-03-16": 33854,
-  "2023-03-17": 33854,
-  "2023-03-18": 33845,
-  "2023-03-19": 33845,
-  "2023-03-20": 33836,
-  "2023-03-21": 33830,
-  "2023-03-22": 33829,
-  "2023-03-23": 33828,
-  "2023-03-24": 33828,
-  "2023-03-25": 33820,
-  "2023-03-26": 33817,
-  "2023-03-27": 33813,
-  "2023-03-28": 33809,
-  "2023-03-29": 33805,
-  "2023-03-30": 33799,
-  "2023-03-31": 33799,
-  "2023-04-01": 33791,
-  "2023-04-02": 33790,
-  "2023-04-03": 33785,
-  "2023-04-04": 33780,
-  "2023-04-05": 33773,
-  "2023-04-06": 33769,
-  "2023-04-07": 33767,
-  "2023-04-09": 33756,
-  "2023-04-10": 33752,
-  "2023-04-11": 33745,
-  "2023-04-12": 33745,
-  "2023-04-13": 33743,
-  "2023-04-14": 33736,
-  "2023-04-15": 33728,
-  "2023-04-16": 33725,
-  "2023-04-17": 33720,
-  "2023-04-18": 33715,
-  "2023-04-19": 33711,
-  "2023-04-20": 33707,
-  "2023-04-21": 33702,
-  "2023-04-22": 33699,
-  "2023-04-23": 33693,
-  "2023-04-24": 33692,
-  "2023-04-25": 33688,
-  "2023-04-26": 33684,
-  "2023-04-27": 33678,
-  "2023-04-28": 33678,
-  "2023-04-29": 33669,
-  "2023-04-30": 33664,
-  "2023-05-01": 33662,
-  "2023-05-02": 33656,
-  "2023-05-03": 33651,
-  "2023-05-04": 33650,
-  "2023-05-05": 33647,
-  "2023-05-06": 33645,
-  "2023-05-07": 33642,
-  "2023-05-08": 33642,
-  "2023-05-09": 33638,
-  "2023-05-10": 33634,
-  "2023-05-11": 33632,
-  "2023-05-12": 33628,
-  "2023-05-13": 33626,
-  "2023-05-14": 33626,
-  "2023-05-15": 33623,
-  "2023-05-16": 33619,
-  "2023-05-17": 33619,
-  "2023-05-18": 33615,
-  "2023-05-19": 33611,
-  "2023-05-20": 33608,
-  "2023-05-21": 33608,
-  "2023-05-22": 33608,
-  "2023-05-23": 33605,
-  "2023-05-24": 33601,
-  "2023-05-25": 33600,
-  "2023-05-26": 33598,
-  "2023-05-27": 33598,
-  "2023-05-28": 33594,
-  "2023-05-29": 33594,
-  "2023-05-30": 33587,
-  "2023-05-31": 33586,
-  "2023-06-01": 33580,
-  "2023-06-02": 33580,
-  "2023-06-03": 33580,
-  "2023-06-04": 33577,
-  "2023-06-05": 33577,
-  "2023-06-06": 33572,
-  "2023-06-07": 33569,
-  "2023-06-08": 33567,
-  "2023-06-09": 33559,
-  "2023-06-10": 33557,
-  "2023-06-11": 33557,
-  "2023-06-12": 33552,
-  "2023-06-13": 33548,
-  "2023-06-14": 33547,
-  "2023-06-15": 33540,
-  "2023-06-16": 33539,
-  "2023-06-17": 33533,
-  "2023-06-18": 33533,
-  "2023-06-19": 33524,
-  "2023-06-20": 33524,
-  "2023-06-21": 33521,
-  "2023-06-22": 33521,
-  "2023-06-23": 33521,
-  "2023-06-24": 33505,
-  "2023-06-25": 33505,
-  "2023-06-26": 33505,
-  "2023-06-27": 33498,
-  "2023-06-28": 33490,
-  "2023-06-29": 33487,
-  "2023-06-30": 33483,
-  "2023-07-01": 33477,
-  "2023-07-02": 33477,
-  "2023-07-03": 33475,
-  "2023-07-04": 33475,
-  "2023-07-05": 33468,
-  "2023-07-06": 33463,
-  "2023-07-07": 33463,
-  "2023-07-08": 33463,
-  "2023-07-09": 33453,
-  "2023-07-10": 33453,
-  "2023-07-11": 33450,
-  "2023-07-12": 33450,
-  "2023-07-13": 33450,
-  "2023-07-14": 33441,
-  "2023-07-15": 33439,
-  "2023-07-16": 33439,
-  "2023-07-17": 33435,
-  "2023-07-18": 33432,
-  "2023-07-19": 33430,
-  "2023-07-20": 33430,
-  "2023-07-21": 33425,
-  "2023-07-22": 33422,
-  "2023-07-23": 33422,
-  "2023-07-24": 33415,
-  "2023-07-25": 33414,
-  "2023-07-26": 33414,
-  "2023-07-27": 33414,
-  "2023-07-28": 33414,
-  "2023-07-29": 33396,
-  "2023-07-30": 33396,
-  "2023-07-31": 33390,
-  "2023-08-01": 33390,
-  "2023-08-02": 33387,
-  "2023-08-03": 33383,
-  "2023-08-04": 33375,
-  "2023-08-05": 33375,
-  "2023-08-06": 33371,
-  "2023-08-07": 33371,
-  "2023-08-08": 33371,
-  "2023-08-09": 33364,
-  "2023-08-10": 33363,
-  "2023-08-11": 33360,
-  "2023-08-12": 33360,
-  "2023-08-13": 33360,
-  "2023-08-14": 33360,
-  "2023-08-15": 33360,
-  "2023-08-16": 33360,
-  "2023-08-17": 33360,
-  "2023-08-18": 33360,
-  "2023-08-19": 33360,
-  "2023-08-20": 33339,
-  "2023-08-21": 33339,
-  "2023-08-22": 33339,
-  "2023-08-23": 33339,
-  "2023-08-24": 33339,
-  "2023-08-25": 33339,
-  "2023-08-26": 33339,
-  "2023-08-27": 33339,
-  "2023-08-28": 33329,
-  "2023-08-29": 33329,
-  "2023-08-30": 33329,
-  "2023-08-31": 33329,
-  "2023-09-01": 33321,
-  "2023-09-02": 33321,
-  "2023-09-03": 33321,
-  "2023-09-04": 33321,
-  "2023-09-05": 33321,
-  "2023-09-06": 33321,
-  "2023-09-07": 33321,
-  "2023-09-08": 33321,
-  "2023-09-09": 33321,
-  "2023-09-10": 33321,
-  "2023-09-11": 33321,
-  "2023-09-12": 33321,
-  "2023-09-13": 33321,
-  "2023-09-14": 33321,
-  "2023-09-15": 33321,
-  "2023-09-16": 33321,
-  "2023-09-17": 33321,
-  "2023-09-18": 33321,
-  "2023-09-19": 33321,
-  "2023-09-20": 33321,
-  "2023-09-21": 33321,
-  "2023-09-22": 33321,
-  "2023-09-23": 33321,
-  "2023-09-24": 33321,
-  "2023-09-25": 33321,
-  "2023-09-26": 33268,
-  "2023-09-27": 33268,
-  "2023-09-28": 33268,
-  "2023-09-29": 33268,
-  "2023-09-30": 33268,
-  "2023-10-01": 33268,
-  "2023-10-02": 33268,
-  "2023-10-03": 33268,
-  "2023-10-04": 33268,
-  "2023-10-05": 33268,
-  "2023-10-06": 33268,
-  "2023-10-07": 33268,
-  "2023-10-08": 33268,
-  "2023-10-09": 33268,
-  "2023-10-10": 33268,
-  "2023-10-11": 33268,
-  "2023-10-12": 33268,
-  "2023-10-13": 33268,
-  "2023-10-14": 33268,
-  "2023-10-15": 33268,
-  "2023-10-16": 33268,
-  "2023-10-17": 33268,
-  "2023-10-18": 33268,
-  "2023-10-19": 33268,
-  "2023-10-20": 33268,
-  "2023-10-21": 33268,
-  "2023-10-22": 33268,
-  "2023-10-23": 33268,
-  "2023-10-24": 33268,
-  "2023-10-25": 33268,
-  "2023-10-26": 33268,
-  "2023-10-27": 33268,
-  "2023-10-28": 33268,
-  "2023-10-29": 33268,
-  "2023-10-30": 33268,
-  "2023-10-31": 33268,
-  "2023-11-01": 33268,
-  "2023-11-02": 33268,
-  "2023-11-03": 33268,
-  "2023-11-04": 33268,
-  "2023-11-05": 33268,
-  "2023-11-06": 33268,
-  "2023-11-07": 33268,
-  "2023-11-08": 33268,
-  "2023-11-09": 33268,
-  "2023-11-10": 33268,
-  "2023-11-11": 33268,
-  "2023-11-12": 33268,
-  "2023-11-13": 33268,
-  "2023-11-14": 33268,
-  "2023-11-15": 33268,
-  "2023-11-16": 33268,
-  "2023-11-17": 33268,
-  "2023-11-18": 33268,
-  "2023-11-19": 33268,
-  "2023-11-20": 33268,
-  "2023-11-21": 33268,
-  "2023-11-22": 33268,
-  "2023-11-23": 33268,
-  "2023-11-24": 33268,
-  "2023-11-25": 33268,
-  "2023-11-26": 33268,
-  "2023-11-27": 33268,
-  "2023-11-28": 33268,
-  "2023-11-29": 33268,
-  "2023-11-30": 33268,
-  "2023-12-01": 33268,
-  "2023-12-02": 33268,
-  "2023-12-03": 33268,
-  "2023-12-04": 33268,
-  "2023-12-05": 33268,
-  "2023-12-06": 33268,
-  "2023-12-07": 33268,
-  "2023-12-08": 33268,
-  "2023-12-09": 33268,
-  "2023-12-10": 33268,
-  "2023-12-11": 33268,
-  "2023-12-12": 33268,
-  "2023-12-13": 33268,
-  "2023-12-14": 33032,
-  "2023-12-15": 33030,
-  "2023-12-16": 33028,
-  "2023-12-17": 33026,
-  "2023-12-18": 33024,
-  "2023-12-19": 33020,
-  "2023-12-20": 33019,
-  "2023-12-21": 33018,
-  "2023-12-22": 33014,
-  "2023-12-23": 33012,
-  "2023-12-24": 33008,
-  "2023-12-25": 33006,
-  "2023-12-26": 33007,
-  "2023-12-27": 33003,
-  "2023-12-30": 32999,
-  "2023-12-31": 32995,
-  "2024-01-01": 32993,
-  "2024-01-02": 32991,
-  "2024-01-03": 32987
+  "2024-01-17": 32921,
+  "date_first_scraped": "2019-05-25",
+  "description": "",
+  "name": "Rocket League Soundtrack (Complete OST)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Eminence",
+          "url": "https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195063,
+      "name": "0202",
+      "url": "https://open.spotify.com/track/2ANKdOuasORRvSVF90CQLo"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "Vin",
+          "url": "https://open.spotify.com/artist/2aDShFDjvKxrb7FKzUvkz6"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175476,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/3YILsWIY9AT603IShPY9jZ"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "All Me",
+      "url": "https://open.spotify.com/track/2jZX8X0Ysjceol8yu916ie"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/6BnF0sftbRFCA2ScV6WENg"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225625,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6jokFmRmdTrvlcQoga5Zx8"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Avianna Acid",
+          "url": "https://open.spotify.com/artist/2ITuQAcgFooz0Un0mw5KfN"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367500,
+      "name": "Angel Wings (feat. Avianna Acid)",
+      "url": "https://open.spotify.com/track/5Yc037C8ERfOaYkiYV8kUt"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163069,
+      "name": "Apex",
+      "url": "https://open.spotify.com/track/3w9zx4WagMkb3G4lb28crX"
+    },
+    {
+      "album": {
+        "name": "Badlands",
+        "url": "https://open.spotify.com/album/7heb5MMzMff1XSwkquD2vu"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2018-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197527,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/5lyyezhTRF3zT5aIzBEDo4"
+    },
+    {
+      "album": {
+        "name": "Talk!",
+        "url": "https://open.spotify.com/album/2g2JBHxSF9mI6fEwQwFZdW"
+      },
+      "artists": [
+        {
+          "name": "Duumu",
+          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239062,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/6aTb3KzWpJLxRoGPBmJCei"
+    },
+    {
+      "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/4mDRIZ4BrOR14zUdF8JZUO"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293176,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4iM70UuzYLeQmD0Z6ozVEB"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Tristam",
+          "url": "https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Bone Dry",
+      "url": "https://open.spotify.com/track/18OFJJeEe9elOjnxSh3SQO"
+    },
+    {
+      "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/4TLTyvGS618bRi6UGtPoYc"
+      },
+      "artists": [
+        {
+          "name": "Aero Chord",
+          "url": "https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/1A0FWUsihHaPmAHxZZpKbY"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "Break Me (feat. Karra)",
+      "url": "https://open.spotify.com/track/4m3k0HciFar8Gzit2SoDSg"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        },
+        {
+          "name": "Ether",
+          "url": "https://open.spotify.com/artist/07PXLHOMh4k77DLNE0EolG"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277750,
+      "name": "Breathing Underwater (Ether Remix)",
+      "url": "https://open.spotify.com/track/1TCWucX5mKFWd1Z43qQAWD"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Dougal",
+          "url": "https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/1qcU01g82CpFHx7QUmn7xq"
+    },
+    {
+      "album": {
+        "name": "Bust It Out",
+        "url": "https://open.spotify.com/album/4Gw0C02XkYUICKOf2CwfUt"
+      },
+      "artists": [
+        {
+          "name": "FWLR",
+          "url": "https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190242,
+      "name": "Bust It Out",
+      "url": "https://open.spotify.com/track/1nehyPPIVvbeSK2ExzaWBF"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Subtact",
+          "url": "https://open.spotify.com/artist/6kx1NiHogZzkSU7lHMc3Ow"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242611,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7F7gzgR0Hoy2lOR7Iew9fZ"
+    },
+    {
+      "album": {
+        "name": "Carissa",
+        "url": "https://open.spotify.com/album/7kM93po7SUwOAmZCBLe8WI"
+      },
+      "artists": [
+        {
+          "name": "DESERT STAR",
+          "url": "https://open.spotify.com/artist/6OMzm6m3FqYxpnnYTWHJGO"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Carissa",
+      "url": "https://open.spotify.com/track/2kFY2mvtu8CdcSp8gkcPZY"
+    },
+    {
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/0pmdn2XTvFlZN8PnBtrzWR"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "Juneau",
+          "url": "https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34"
+        }
+      ],
+      "date_added": "2018-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198015,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/63psBh1jACfpWZtpZQZbVM"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Charge",
+      "url": "https://open.spotify.com/track/3nd2SsRvUfpEPKPBXFriT8"
+    },
+    {
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/2rYM0zyU8a2ZEzVIDAkFrO"
+      },
+      "artists": [
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/6z1LRCM39LEMh5UXvML0VM"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5gAtIDcgLUCQFvulRytLy3"
+    },
+    {
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/2ao1IFR95hM7ReDpfGEV8B"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "Juneau",
+          "url": "https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34"
+        }
+      ],
+      "date_added": "2019-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/5gneV1qwaIndUU4aZ3uhXP"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Sara Skinner",
+          "url": "https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Contra",
+      "url": "https://open.spotify.com/track/47JewTPgIssHW7aBFUieUu"
+    },
+    {
+      "album": {
+        "name": "Dads in Space",
+        "url": "https://open.spotify.com/album/3DRdLCQwOggCqImHwlv7Cp"
+      },
+      "artists": [
+        {
+          "name": "Stephen Walking",
+          "url": "https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249469,
+      "name": "Dads in Space",
+      "url": "https://open.spotify.com/track/68ahXxPJrxcEvQFjRmC2ja"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Christian de la Torre",
+          "url": "https://open.spotify.com/artist/3Ded4LIPmE5T5cWLYGtXdY"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450000,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/2aBc43ob5athlXVWnHz477"
+    },
+    {
+      "album": {
+        "name": "Don't Stop the Party (feat. Deanna)",
+        "url": "https://open.spotify.com/album/7630wlyyKny9cywLEP8DAz"
+      },
+      "artists": [
+        {
+          "name": "Drunk Girl",
+          "url": "https://open.spotify.com/artist/5NdEBXbMxOWTJNbZWcogo0"
+        },
+        {
+          "name": "Deanna",
+          "url": "https://open.spotify.com/artist/2t31Fn0ek174aXHIvlRVw1"
+        }
+      ],
+      "date_added": "2016-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196232,
+      "name": "Don't Stop the Party",
+      "url": "https://open.spotify.com/track/22MQaNqXOkTUdg4rawaBCg"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "WRLD",
+          "url": "https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231085,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/30GjHSnONCOiLVjsXShgX7"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Aero Chord",
+          "url": "https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/0S8hASSWF0TmEM21c2NLQt"
+    },
+    {
+      "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/7I0vViknKiQXFlaWp5NpEJ"
+      },
+      "artists": [
+        {
+          "name": "Notaker",
+          "url": "https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En"
+        },
+        {
+          "name": "Eric Lumiere",
+          "url": "https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB"
+        }
+      ],
+      "date_added": "2019-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199697,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/1RX7o9psT151nul0lEQaGX"
+    },
+    {
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/6QOpZHPu0hC8ts4JeT7SwP"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/0X5L64QO8VX9nUgI7Evti9"
+    },
+    {
+      "album": {
+        "name": "EPIC",
+        "url": "https://open.spotify.com/album/6jZRX6gNr7lZSFc92xiXk6"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "EPIC",
+      "url": "https://open.spotify.com/track/5O7KOryUNhEK5ev7OLWUGe"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Abandoned Carnival",
+          "url": "https://open.spotify.com/artist/58vgTZbfDwj5CU1QZ6mdAi"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320647,
+      "name": "Escape from L.A. (Instrumental)",
+      "url": "https://open.spotify.com/track/2j7WFfLoM12mfvvKoSp7FZ"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 5",
+        "url": "https://open.spotify.com/album/4YPdbdBWe5V3gBRTgk4Fab"
+      },
+      "artists": [
+        {
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
+        },
+        {
+          "name": "Nokae",
+          "url": "https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69"
+        }
+      ],
+      "date_added": "2018-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286500,
+      "name": "Expedition",
+      "url": "https://open.spotify.com/track/6MyLqKVEnNMB6UdR6n6lEZ"
+    },
+    {
+      "album": {
+        "name": "Get Crazy / Feeling Stronger (The Remixes)",
+        "url": "https://open.spotify.com/album/5YvvsKpSClP5pGTDuEclSz"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Charlotte Colley",
+          "url": "https://open.spotify.com/artist/6AahY7rodF2tNZlKD348pD"
+        },
+        {
+          "name": "High Maintenance",
+          "url": "https://open.spotify.com/artist/3XeMKGoCt5TwhUd7DSTg3V"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252215,
+      "name": "Feeling Stronger - High Maintenance Remix",
+      "url": "https://open.spotify.com/track/42ZwelVk9yQF4Twt9l43Ba"
+    },
+    {
+      "album": {
+        "name": "Fighters",
+        "url": "https://open.spotify.com/album/2qxTUvKQWhtozMgoiK8pLS"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Fighters",
+      "url": "https://open.spotify.com/track/7zgYDdPW1BmWzUkwodUsvp"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187375,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/06IVT9yqDiB70tCwzPe7qs"
+    },
+    {
+      "album": {
+        "name": "Firework (Melad Remix)",
+        "url": "https://open.spotify.com/album/6zJ7dE0pQz8JGFIlG3fquu"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        },
+        {
+          "name": "Melad",
+          "url": "https://open.spotify.com/artist/1LvAJlquMjiJlHPeY8RTIY"
+        }
+      ],
+      "date_added": "2017-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163357,
+      "name": "Firework (Melad Remix)",
+      "url": "https://open.spotify.com/track/3xQERbgJrsDgSNHOz9QN97"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/3TksFOHSQcCchswDLgb9G0"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229230,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5DNLtR4rcPcU9jqzVOd5ag"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/1kpPUvlb627MSK9pyk5x6d"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Morgan Perry",
+          "url": "https://open.spotify.com/artist/6KjiotExiyKsy9NzqwRVsf"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365483,
+      "name": "Flying Forever (feat. Morgan Perry)",
+      "url": "https://open.spotify.com/track/7iIaqMJgoXohyND7RfIOdN"
+    },
+    {
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/3oHP9Vh52kzdSZ0Pck0XBE"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        }
+      ],
+      "date_added": "2018-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199615,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/0ROCe58wXm7sBUPkZaRrnY"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244114,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/6xuhpe9vSmMaswlpy2c4kR"
+    },
+    {
+      "album": {
+        "name": "Galaxies",
+        "url": "https://open.spotify.com/album/3SwsN42cDKkdepUclsJMEz"
+      },
+      "artists": [
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245113,
+      "name": "Galaxies",
+      "url": "https://open.spotify.com/track/2xO3tUdbE42rjV81NrQJ0S"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Dr. Awkward",
+          "url": "https://open.spotify.com/artist/7sIs86SqYsV3rohDJfuP2K"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47980,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/5jwKzpF7HtMwLmqBORKjZy"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "Stephen Walking",
+          "url": "https://open.spotify.com/artist/0FvgCHaMG7KL6M83yJuhmL"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/3mOYyXu8dJq9xdLNBsQfjq"
+    },
+    {
+      "album": {
+        "name": "Gold / YES",
+        "url": "https://open.spotify.com/album/5OvG0ow70k4wROjF597ost"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260800,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2sm2f0mbOnfCi1MOLIegdV"
+    },
+    {
+      "album": {
+        "name": "Hang Up",
+        "url": "https://open.spotify.com/album/7x9Hnrw4bR0ML53r6BotLW"
+      },
+      "artists": [
+        {
+          "name": "WRLD",
+          "url": "https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co"
+        },
+        {
+          "name": "Savoi",
+          "url": "https://open.spotify.com/artist/4dRRQxDsUXpBkGqjS7vNcO"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Hang Up",
+      "url": "https://open.spotify.com/track/1F65NjLm6OQIpuiwGMAdBf"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Abandoned Carnival",
+          "url": "https://open.spotify.com/artist/58vgTZbfDwj5CU1QZ6mdAi"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "Hard Buzz",
+      "url": "https://open.spotify.com/track/0sRleWntQ5MZjemMZ2UauH"
+    },
+    {
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/16SZJlgv3bfU1h8UGc0Vm1"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/47cKmxMxNIxXnsMPju6hdn"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291986,
+      "name": "Horsepower",
+      "url": "https://open.spotify.com/track/4Vp9Tu1dJWd0S2kEkv37Lh"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/0nWLHsJI3g8wJrjKpqeuBS"
+      },
+      "artists": [
+        {
+          "name": "FWLR",
+          "url": "https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo"
+        }
+      ],
+      "date_added": "2019-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170481,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2qOS00vav7CVkOwfkkXktG"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "soupandreas",
+          "url": "https://open.spotify.com/artist/5dPMuKQtWLLl1Thw1Bf8h9"
+        },
+        {
+          "name": "inverness",
+          "url": "https://open.spotify.com/artist/17aCDXnpzF1XYVe0QrsRvs"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/08AMKuBqhpkptE4WeSH1Mu"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Crysta",
+          "url": "https://open.spotify.com/artist/6qN0zL1ewsn3g2hYqBQcTK"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "I Can Be (feat. Crysta)",
+      "url": "https://open.spotify.com/track/5oYzXxKof6mkdCX6lsvgGJ"
+    },
+    {
+      "album": {
+        "name": "Cold Ground",
+        "url": "https://open.spotify.com/album/2YemfCp5vOv128L36ySPOp"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Park Avenue",
+          "url": "https://open.spotify.com/artist/2InIVjILfVHmvET4a35JaF"
+        }
+      ],
+      "date_added": "2019-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261253,
+      "name": "I'll Go",
+      "url": "https://open.spotify.com/track/72pGB4XOzAE45n0Zt7wP5A"
+    },
+    {
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/7yibZaRsGVKgDoIPFkWyf7"
+      },
+      "artists": [
+        {
+          "name": "Tut Tut Child",
+          "url": "https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3"
+        },
+        {
+          "name": "Beth Cole",
+          "url": "https://open.spotify.com/artist/6nsig1J2LF9B2tsX9XDH7X"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195842,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7CJszP8UJJJ2LbUOdwdvjI"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Nikki Wilkins",
+          "url": "https://open.spotify.com/artist/0LQViYf3IKmNmomlsFWYT5"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384347,
+      "name": "In My Dreams (feat. Nikki Wilkins)",
+      "url": "https://open.spotify.com/track/3wW8Pog5y4zG7g6KkSOG5h"
+    },
+    {
+      "album": {
+        "name": "Infinite Power",
+        "url": "https://open.spotify.com/album/4Wqoe17scm2WDATpBOzB9P"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "date_added": "2016-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208787,
+      "name": "Infinite Power",
+      "url": "https://open.spotify.com/track/1326bnwC9n5ET98O7xwsJH"
+    },
+    {
+      "album": {
+        "name": "Internet Boy",
+        "url": "https://open.spotify.com/album/3y8XQwhBTFpRXEtB4Qp5xS"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2019-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198779,
+      "name": "Internet Boy",
+      "url": "https://open.spotify.com/track/51CH2y0j1gwlLu67pq5nPn"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "Duumu",
+          "url": "https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF"
+        },
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/2IC99ihmpLeoeTAXxNBOS7"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429850,
+      "name": "Lacuna",
+      "url": "https://open.spotify.com/track/0vCNA91jB2WzDOxJkxEvIf"
+    },
+    {
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/4Lb2JtUYcZRQdX8eDjXjxX"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230608,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/6n4K23HLzKb1SXxfhyFEks"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284041,
+      "name": "Looking to the Future",
+      "url": "https://open.spotify.com/track/1DKYM39oWTI79juSruYM3r"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Morgan Perry",
+          "url": "https://open.spotify.com/artist/6KjiotExiyKsy9NzqwRVsf"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307536,
+      "name": "Love Thru the Night (feat. Morgan Perry)",
+      "url": "https://open.spotify.com/track/6Z0LrMp5HXGawA4WKIPnFI"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146709,
+      "name": "LUV U NEED U",
+      "url": "https://open.spotify.com/track/3qkE87vHXbTzSdEvqcY8rr"
+    },
+    {
+      "album": {
+        "name": "Mostly We Grow Pt. 2",
+        "url": "https://open.spotify.com/album/74Q4qvrWZ61xiQNAXjsuk0"
+      },
+      "artists": [
+        {
+          "name": "Half an Orange",
+          "url": "https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "Mark Twain",
+      "url": "https://open.spotify.com/track/6tVUYXoARGbnPVegcWsIEt"
+    },
+    {
+      "album": {
+        "name": "Mirai Sekai",
+        "url": "https://open.spotify.com/album/6xQxSnemCtXtQg6Q4yV3aW"
+      },
+      "artists": [
+        {
+          "name": "7 Minutes Dead",
+          "url": "https://open.spotify.com/artist/6MXp12IK29WvwsSbj5j49p"
+        },
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235624,
+      "name": "Mirai Sekai Pt.3: Aeon Metropolis",
+      "url": "https://open.spotify.com/track/69GM8yiK14d9VwmHfEJha8"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/7cfe8SNguNDGn4KBLM7RZX"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228275,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0X0pNwpJKRaFaUNMpJ1E0R"
+    },
+    {
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/0t0jgCVHLUBRjzy9sl471a"
+      },
+      "artists": [
+        {
+          "name": "Televisor",
+          "url": "https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/59dMdGzQddUIRhBMCnBHDh"
+    },
+    {
+      "album": {
+        "name": "New Horizons",
+        "url": "https://open.spotify.com/album/3Zi0eAgBPwRiM95qIfQkxH"
+      },
+      "artists": [
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/697vKkzIgwsiA5xqzJ5Sqb"
+    },
+    {
+      "album": {
+        "name": "No Fear Anymore",
+        "url": "https://open.spotify.com/album/4E1pzyWvQTgHieT2pyrPrS"
+      },
+      "artists": [
+        {
+          "name": "Julian Calor",
+          "url": "https://open.spotify.com/artist/2y8eOaQNjiIuITkz6zGfgL"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2019-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "No Fear Anymore",
+      "url": "https://open.spotify.com/track/0vAXgfcS2hMaml2hAS1lgm"
+    },
+    {
+      "album": {
+        "name": "Oh You",
+        "url": "https://open.spotify.com/album/2Htm8dPcm31rGNnieuXNrE"
+      },
+      "artists": [
+        {
+          "name": "Rootkit",
+          "url": "https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm"
+        }
+      ],
+      "date_added": "2018-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "Oh You",
+      "url": "https://open.spotify.com/track/3335KpgBYhfxNPAZmkNist"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7px92U72qlg76omebWdDJV"
+      },
+      "artists": [
+        {
+          "name": "DEXTER KING",
+          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
+        },
+        {
+          "name": "Alexis Donn",
+          "url": "https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1OGldKGlJ8FYrKn3pDhYCO"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Feint",
+          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232114,
+      "name": "Outbreak (feat. MYLK)",
+      "url": "https://open.spotify.com/track/7diSt56oF2dhBBdl9tUB4V"
+    },
+    {
+      "album": {
+        "name": "Party Freaks",
+        "url": "https://open.spotify.com/album/4xqGpu3XpvrMhJBDBR4HdZ"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Anna Yvette",
+          "url": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213851,
+      "name": "Party Freaks",
+      "url": "https://open.spotify.com/track/38n5eHjYwOIXzcBw1mgMGx"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1dVqxYQRLfTQt1DFkUfY1e"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2019-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183949,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/1fRadkuwHEqwMuiY5ns15C"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Holly Drummond",
+          "url": "https://open.spotify.com/artist/24O8Ftz6AqboC3Uawbiw4r"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Play to Win (feat. Holly Drummond)",
+      "url": "https://open.spotify.com/track/1nud8CS3VC99R19i3GL2t6"
+    },
+    {
+      "album": {
+        "name": "Playing with the Boys",
+        "url": "https://open.spotify.com/album/2MuePTE0B8jaiKrBINK5f1"
+      },
+      "artists": [
+        {
+          "name": "Half an Orange",
+          "url": "https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp"
+        },
+        {
+          "name": "Alli Simms",
+          "url": "https://open.spotify.com/artist/7AVLzENiGAeB0Fc9nm8pjB"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208153,
+      "name": "Playing with the Boys",
+      "url": "https://open.spotify.com/track/6BiLeZhIlsJpTyIQMhV8W2"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2019-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Playing with the Boys - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/5mQYBoGU3BOAqiFq54b51i"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/1Y8W0BMWyIjKwY82yimLcX"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270907,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/5Gp2779W5p9qN3idmx0nLQ"
+    },
+    {
+      "album": {
+        "name": "Revenger",
+        "url": "https://open.spotify.com/album/6z5absG3SjLYPN8AhVcO0e"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222562,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/2Qd3WSAVk0JJ6xrJpJqUEd"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75916,
+      "name": "RLCS Theme",
+      "url": "https://open.spotify.com/track/1ByQCDDB16FDsNbvNL8dlM"
+    },
+    {
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/48dYh52S2pysDECvAnKpaF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2017-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0pAJpK8lD2I0Lv8vSTZhAZ"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88388,
+      "name": "Rocket League Theme",
+      "url": "https://open.spotify.com/track/6tFwEEnMrmdAqeotTbpHuO"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Adam B. Metal",
+          "url": "https://open.spotify.com/artist/6VBz1sCquAUs6AskeHyTbw"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98909,
+      "name": "Rocket League Throwback Anthem",
+      "url": "https://open.spotify.com/track/2l7M5px0P631NiGO2fQ9wF"
+    },
+    {
+      "album": {
+        "name": "Runnin",
+        "url": "https://open.spotify.com/album/3btxxdEFsK33O33mwMVxBH"
+      },
+      "artists": [
+        {
+          "name": "smle",
+          "url": "https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V"
+        },
+        {
+          "name": "Nick Smith",
+          "url": "https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc"
+        }
+      ],
+      "date_added": "2018-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175845,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/4lzezjVUnL8AU506mCOdhT"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Kevin Riepl",
+          "url": "https://open.spotify.com/artist/3KI5WbVoQx4UmqKi4dNqtM"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135811,
+      "name": "Scorched Earth",
+      "url": "https://open.spotify.com/track/3gyCdQfiaXuJoUhIsuWISp"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        },
+        {
+          "name": "Kev Frey",
+          "url": "https://open.spotify.com/artist/2UwyrnSigyJ6IayNA8fCH9"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305894,
+      "name": "Seeing What's Next (Kev Frey Remix)",
+      "url": "https://open.spotify.com/track/0akvD9y8NSgYiYSRSu3y1B"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Seeing Whats Next",
+      "url": "https://open.spotify.com/track/0rf5aGnwnGe77fh2MbCQeK"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217787,
+      "name": "Shiawase",
+      "url": "https://open.spotify.com/track/7MuYtvbNRRbrEHUd84xEQI"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 3",
+        "url": "https://open.spotify.com/album/5vtG1JcfmmPXo0seTXUlCj"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "date_added": "2018-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264375,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/2s85wLUTPgqepCrooMhK7o"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Ephixa",
+          "url": "https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200033,
+      "name": "Skyforth",
+      "url": "https://open.spotify.com/track/2a4oDgguN6hSX6euZVNQjK"
+    },
+    {
+      "album": {
+        "name": "Solar Eclipses",
+        "url": "https://open.spotify.com/album/2PGeNYKwJPCfImBFA1CcC8"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        },
+        {
+          "name": "Dr. Awkward",
+          "url": "https://open.spotify.com/artist/7sIs86SqYsV3rohDJfuP2K"
+        }
+      ],
+      "date_added": "2016-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157682,
+      "name": "Solar Eclipses (Radio Edit)",
+      "url": "https://open.spotify.com/track/5ceNBjsHTaLoJxUIfZ8ubg"
+    },
+    {
+      "album": {
+        "name": "Spell: The Remixes",
+        "url": "https://open.spotify.com/album/2jnwx610OS3WXbtHFQwgiK"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        },
+        {
+          "name": "Sando",
+          "url": "https://open.spotify.com/artist/45tWOXdTG42ZLNYJL3ukOd"
+        }
+      ],
+      "date_added": "2017-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213620,
+      "name": "Spell (Sando Remix) [Radio Edit]",
+      "url": "https://open.spotify.com/track/4dhqPvTeRDnti751EXPznk"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/5N1vJIbJI6AfNFZFRrQITH"
+      },
+      "artists": [
+        {
+          "name": "Glacier",
+          "url": "https://open.spotify.com/artist/7DS9AJjKnseiE7nVofoULL"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207997,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2hbdfMTQdbAAYwCrKC5P6M"
+    },
+    {
+      "album": {
+        "name": "Sundance",
+        "url": "https://open.spotify.com/album/3i79o60w7LVAfonuiZPzaH"
+      },
+      "artists": [
+        {
+          "name": "Ephixa",
+          "url": "https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc"
+        },
+        {
+          "name": "Heartful",
+          "url": "https://open.spotify.com/artist/0rSrqbsuGkhgPrg7jqk7Kk"
+        }
+      ],
+      "date_added": "2019-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193593,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/7FO2nKenGD27Eo95h2Eks9"
+    },
+    {
+      "album": {
+        "name": "Watch Yo Back",
+        "url": "https://open.spotify.com/album/60nbfXLI18M2vTXVwgsdT3"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184629,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7D3KNbOAbyR7dYLX0BZuyU"
+    },
+    {
+      "album": {
+        "name": "The Darkness",
+        "url": "https://open.spotify.com/album/07cYPt6c78qUGd0ECXEoCt"
+      },
+      "artists": [
+        {
+          "name": "Xilent",
+          "url": "https://open.spotify.com/artist/1k78cRCnTM3T7EhvhVeaKX"
+        }
+      ],
+      "date_added": "2019-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "The Darkness",
+      "url": "https://open.spotify.com/track/5gKsFQEvOKuRVN6WUBlHX1"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7jTjkekiP10wcRMtmcDLm8"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230288,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6U6nzpSvKxju6WA0Kojcxn"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4gITX0miY7CHCP4PukYZN2"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/159xvbYorYT12WDpHe8bD3"
+    },
+    {
+      "album": {
+        "name": "Truth and Malice",
+        "url": "https://open.spotify.com/album/1hQCGRMI6LKLUM8saYvpK9"
+      },
+      "artists": [
+        {
+          "name": "INTERCOM",
+          "url": "https://open.spotify.com/artist/6cHi0QWaBxWN71YpvTR4Jr"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272078,
+      "name": "Truth and Malice",
+      "url": "https://open.spotify.com/track/123QYCPba7ukesKyFDPq9J"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Zero Hero",
+          "url": "https://open.spotify.com/artist/3v6VDCGlWp2Kr4m4YbNKhD"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/24gYjiaTKffptpoiWbNMbp"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2020-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184273,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Notaker",
+          "url": "https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258647,
+      "name": "Wake up, You're Dreaming",
+      "url": "https://open.spotify.com/track/6N7uJ8Lk2m3bG2gLqBzPwF"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 4",
+        "url": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "date_added": "2018-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Walking on the Moon",
+      "url": "https://open.spotify.com/track/5B7cnGatcmj0EHX2keqeaU"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Abandoned Carnival",
+          "url": "https://open.spotify.com/artist/58vgTZbfDwj5CU1QZ6mdAi"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "We Speak Chinese",
+      "url": "https://open.spotify.com/track/5IF9uO7iFNZanDLzr2dpvC"
+    },
+    {
+      "album": {
+        "name": "Rocket League x Monstercat Vol. 1",
+        "url": "https://open.spotify.com/album/7r2p8wfr3ML0MsNUoW3I9H"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "BAUM",
+          "url": "https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ"
+        }
+      ],
+      "date_added": "2017-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188758,
+      "name": "Weapon (feat. Baum)",
+      "url": "https://open.spotify.com/track/2qHA4dcBELgLJphmkFGnLw"
+    },
+    {
+      "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/2Q5OSZyMTWvG6ew0zMAc5B"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255937,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/2WyOVDpENaCosxKSMuyGoA"
+    },
+    {
+      "album": {
+        "name": "Rocket League: Official Game Soundtrack, Vol. 2",
+        "url": "https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I"
+      },
+      "artists": [
+        {
+          "name": "Mike Ault",
+          "url": "https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ"
+        },
+        {
+          "name": "Abandoned Carnival",
+          "url": "https://open.spotify.com/artist/58vgTZbfDwj5CU1QZ6mdAi"
+        }
+      ],
+      "date_added": "2016-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354124,
+      "name": "When the Lights Come On (Instrumental)",
+      "url": "https://open.spotify.com/track/51dbbhs2gcXJSIvILIYCbm"
+    },
+    {
+      "album": {
+        "name": "Rocket League (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Principle",
+          "url": "https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9"
+        }
+      ],
+      "date_added": "2016-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437343,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/5UO4jjoVN7oqc52W4JjSfI"
+    },
+    {
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/0y58xcvf2s44yo7ETPyfpa"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "McCall",
+          "url": "https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT"
+        }
+      ],
+      "date_added": "2019-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241350,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/4H1FdAyWZBNzwcHFQYeGy6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/5jSM6lE56BKLKRiavRO4Aw"
 }

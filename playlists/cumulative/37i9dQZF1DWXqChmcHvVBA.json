@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 136853,
       "name": "Diablona",
       "url": "https://open.spotify.com/track/3jMjoQB51O6MITC91Izhj2"
@@ -802,8 +802,8 @@
           "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
         },
         {
-          "name": "PEREIRA REMIX",
-          "url": "https://open.spotify.com/artist/42FTHcctiPAvmVXXJkcsoF"
+          "name": "Pereiraremix",
+          "url": "https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0"
         },
         {
           "name": "VERNAZ",
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 114819,
       "name": "Frikitona - Remix",
       "url": "https://open.spotify.com/track/1PUyDB2OfOSS2jnl0ED4Wp"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 158334,
       "name": "Gusty Dj | Jordan23 - Session en el Barrio #9",
       "url": "https://open.spotify.com/track/2wBHsMud9cSITaoY32oeDo"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 137800,
       "name": "KALEB DI MASI | E12",
       "url": "https://open.spotify.com/track/10fiASgR8q70H1dUW9ZJvI"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 98469,
       "name": "LA MONEDA",
       "url": "https://open.spotify.com/track/7HBfy91fUKNz5ldpPcDczK"
@@ -1314,6 +1314,28 @@
       "duration_ms": 270612,
       "name": "Los Pibes de las Motos - Remix",
       "url": "https://open.spotify.com/track/5VJJk9fxh7J8pVASSgnFsC"
+    },
+    {
+      "album": {
+        "name": "Los Problematicos",
+        "url": "https://open.spotify.com/album/18ICcbfi1K5djIjkt8Ymlw"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "HDR",
+          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181230,
+      "name": "Los Problematicos",
+      "url": "https://open.spotify.com/track/39WNx2xHU4vTTfhMMo8wRg"
     },
     {
       "album": {
@@ -1840,7 +1862,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 185336,
       "name": "PERREO ROSSANI - Remix",
       "url": "https://open.spotify.com/track/6ksnSnzRToBGRCROXLd1mx"
@@ -1866,6 +1888,58 @@
       "duration_ms": 160909,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/2zWbjhfs4DoDJ3Lwl5GJ1n"
+    },
+    {
+      "album": {
+        "name": "PONTE SATA",
+        "url": "https://open.spotify.com/album/0i4KtfYghWTAvi9VYmqXXJ"
+      },
+      "artists": [
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "VERNAZ",
+          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "PONTE SATA",
+      "url": "https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC"
+    },
+    {
+      "album": {
+        "name": "Pusieron RKT Punky (Remix)",
+        "url": "https://open.spotify.com/album/2MeZsLoru0w1mzsI2Tyfz2"
+      },
+      "artists": [
+        {
+          "name": "Tomy DJ",
+          "url": "https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "El Kaio",
+          "url": "https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Pusieron RKT Punky - Remix",
+      "url": "https://open.spotify.com/track/2SMOc3XFpuhUOAJReX4qKX"
     },
     {
       "album": {
@@ -2017,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "Salimos Pa la Disco",
+        "url": "https://open.spotify.com/album/2nbr7mn8FSUQjAm6psw5wH"
+      },
+      "artists": [
+        {
+          "name": "Jorgito Barrionuevo",
+          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126281,
+      "name": "Salimos Pa la Disco",
+      "url": "https://open.spotify.com/track/4z4jJIU6DQKXEW1RPdY2T9"
+    },
+    {
+      "album": {
         "name": "Se Desacata (Remix)",
         "url": "https://open.spotify.com/album/5iUX0vXA9HqPxgxJedFc4K"
       },
@@ -2102,7 +2198,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 147322,
       "name": "Session en el Barrio #2",
       "url": "https://open.spotify.com/track/3uFhqnai1dXX5eI29VJRPY"
@@ -2179,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151224,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
+    },
+    {
+      "album": {
         "name": "TE AMO RMX (feat. Salastkbron)",
         "url": "https://open.spotify.com/album/5JVoimtJeq4plcNKU3rSMF"
       },
@@ -2250,6 +2364,24 @@
       "duration_ms": 173023,
       "name": "Te Parto RKT",
       "url": "https://open.spotify.com/track/0dsNaKnogOeaoKuObS6c9H"
+    },
+    {
+      "album": {
+        "name": "Te Re Doy",
+        "url": "https://open.spotify.com/album/7jg1XqhaI8ZlL3VWdTlhrn"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145669,
+      "name": "Te Re Doy",
+      "url": "https://open.spotify.com/track/3Ed4F7Tb2tdP5GcRH5oIqF"
     },
     {
       "album": {
@@ -2530,6 +2662,36 @@
       "duration_ms": 122500,
       "name": "Una Foto",
       "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
+    },
+    {
+      "album": {
+        "name": "Una Foto Remix (feat. Emilia)",
+        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243898,
+      "name": "Una Foto Remix (feat. Emilia)",
+      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
     },
     {
       "album": {

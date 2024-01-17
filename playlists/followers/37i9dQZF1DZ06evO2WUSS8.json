@@ -1,731 +1,2723 @@
 {
-  "2021-12-29": 6439,
-  "2021-12-30": 6441,
-  "2021-12-31": 6442,
-  "2022-01-01": 6453,
-  "2022-01-02": 6456,
-  "2022-01-03": 6458,
-  "2022-01-04": 6460,
-  "2022-01-05": 6461,
-  "2022-01-06": 6465,
-  "2022-01-07": 6469,
-  "2022-01-08": 6476,
-  "2022-01-09": 6477,
-  "2022-01-10": 6478,
-  "2022-01-11": 6479,
-  "2022-01-12": 6477,
-  "2022-01-13": 6477,
-  "2022-01-14": 6476,
-  "2022-01-15": 6483,
-  "2022-01-16": 6483,
-  "2022-01-17": 6486,
-  "2022-01-18": 6487,
-  "2022-01-19": 6491,
-  "2022-01-20": 6490,
-  "2022-01-21": 6491,
-  "2022-01-22": 6493,
-  "2022-01-23": 6500,
-  "2022-01-24": 6501,
-  "2022-01-25": 6501,
-  "2022-01-26": 6504,
-  "2022-01-27": 6513,
-  "2022-01-28": 6519,
-  "2022-01-29": 6521,
-  "2022-01-30": 6522,
-  "2022-01-31": 6522,
-  "2022-02-01": 6523,
-  "2022-02-02": 6526,
-  "2022-02-03": 6528,
-  "2022-02-04": 6531,
-  "2022-02-05": 6532,
-  "2022-02-06": 6532,
-  "2022-02-07": 6533,
-  "2022-02-08": 6534,
-  "2022-02-09": 6536,
-  "2022-02-10": 6536,
-  "2022-02-11": 6540,
-  "2022-02-12": 6545,
-  "2022-02-13": 6549,
-  "2022-02-14": 6551,
-  "2022-02-15": 6550,
-  "2022-02-16": 6558,
-  "2022-02-17": 6570,
-  "2022-02-18": 6575,
-  "2022-02-19": 6575,
-  "2022-02-20": 6577,
-  "2022-02-21": 6581,
-  "2022-02-22": 6585,
-  "2022-02-23": 6586,
-  "2022-02-24": 6586,
-  "2022-02-25": 6586,
-  "2022-02-26": 6588,
-  "2022-02-27": 6588,
-  "2022-02-28": 6588,
-  "2022-03-01": 6591,
-  "2022-03-02": 6595,
-  "2022-03-03": 6596,
-  "2022-03-04": 6598,
-  "2022-03-05": 6603,
-  "2022-03-06": 6608,
-  "2022-03-07": 6609,
-  "2022-03-08": 6612,
-  "2022-03-09": 6618,
-  "2022-03-10": 6622,
-  "2022-03-11": 6624,
-  "2022-03-12": 6629,
-  "2022-03-13": 6632,
-  "2022-03-14": 6635,
-  "2022-03-15": 6636,
-  "2022-03-16": 6636,
-  "2022-03-17": 6637,
-  "2022-03-18": 6636,
-  "2022-03-19": 6636,
-  "2022-03-20": 6636,
-  "2022-03-21": 6636,
-  "2022-03-22": 6636,
-  "2022-03-23": 6635,
-  "2022-03-24": 6633,
-  "2022-03-25": 6633,
-  "2022-03-26": 6632,
-  "2022-03-27": 6631,
-  "2022-03-28": 6631,
-  "2022-03-30": 1327,
-  "2022-03-31": 267,
-  "2022-04-01": 13,
-  "2022-04-02": 13,
-  "2022-04-03": 4,
-  "2022-04-04": 2,
-  "2022-04-05": 2,
-  "2022-04-06": 2,
-  "2022-04-07": 1,
-  "2022-04-08": 1,
-  "2022-04-09": 1,
-  "2022-04-10": 1,
-  "2022-04-11": 1,
-  "2022-04-12": 1,
-  "2022-04-13": 2,
-  "2022-04-14": 2,
-  "2022-04-15": 2,
-  "2022-04-16": 2,
-  "2022-04-17": 2,
-  "2022-04-18": 2,
-  "2022-04-19": 2,
-  "2022-04-20": 2,
-  "2022-04-21": 2,
-  "2022-04-22": 2,
-  "2022-04-23": 3,
-  "2022-04-24": 3,
-  "2022-04-25": 3,
-  "2022-04-26": 3,
-  "2022-04-27": 3,
-  "2022-04-28": 3,
-  "2022-04-29": 3,
-  "2022-04-30": 3,
-  "2022-05-01": 3,
-  "2022-05-02": 3,
-  "2022-05-03": 3,
-  "2022-05-04": 3,
-  "2022-05-05": 3,
-  "2022-05-06": 3,
-  "2022-05-07": 3,
-  "2022-05-08": 3,
-  "2022-05-09": 3,
-  "2022-05-10": 3,
-  "2022-05-11": 3,
-  "2022-05-12": 3,
-  "2022-05-13": 3,
-  "2022-05-14": 3,
-  "2022-05-15": 3,
-  "2022-05-16": 3,
-  "2022-05-17": 3,
-  "2022-05-18": 3,
-  "2022-05-19": 3,
-  "2022-05-20": 3,
-  "2022-05-21": 3,
-  "2022-05-22": 3,
-  "2022-05-23": 3,
-  "2022-05-24": 3,
-  "2022-05-25": 3,
-  "2022-05-26": 3,
-  "2022-05-27": 3,
-  "2022-05-28": 3,
-  "2022-05-29": 3,
-  "2022-05-30": 3,
-  "2022-05-31": 3,
-  "2022-06-01": 3,
-  "2022-06-02": 3,
-  "2022-06-03": 3,
-  "2022-06-04": 3,
-  "2022-06-05": 3,
-  "2022-06-06": 3,
-  "2022-06-07": 3,
-  "2022-06-08": 3,
-  "2022-06-09": 3,
-  "2022-06-10": 3,
-  "2022-06-11": 3,
-  "2022-06-12": 3,
-  "2022-06-13": 3,
-  "2022-06-14": 3,
-  "2022-06-15": 3,
-  "2022-06-16": 3,
-  "2022-06-17": 3,
-  "2022-06-18": 3,
-  "2022-06-19": 3,
-  "2022-06-20": 3,
-  "2022-06-21": 3,
-  "2022-06-22": 3,
-  "2022-06-23": 3,
-  "2022-06-24": 3,
-  "2022-06-25": 3,
-  "2022-06-26": 3,
-  "2022-06-27": 3,
-  "2022-06-28": 3,
-  "2022-06-29": 3,
-  "2022-06-30": 3,
-  "2022-07-01": 3,
-  "2022-07-02": 3,
-  "2022-07-03": 3,
-  "2022-07-04": 3,
-  "2022-07-05": 3,
-  "2022-07-06": 3,
-  "2022-07-07": 3,
-  "2022-07-08": 3,
-  "2022-07-09": 3,
-  "2022-07-10": 3,
-  "2022-07-11": 3,
-  "2022-07-12": 3,
-  "2022-07-13": 3,
-  "2022-07-14": 3,
-  "2022-07-15": 3,
-  "2022-07-16": 3,
-  "2022-07-17": 3,
-  "2022-07-18": 3,
-  "2022-07-19": 3,
-  "2022-07-20": 3,
-  "2022-07-21": 3,
-  "2022-07-22": 3,
-  "2022-07-23": 10430,
-  "2022-07-24": 10433,
-  "2022-07-25": 10435,
-  "2022-07-26": 10438,
-  "2022-07-27": 10439,
-  "2022-07-28": 10438,
-  "2022-07-29": 10443,
-  "2022-07-30": 10448,
-  "2022-07-31": 10448,
-  "2022-08-01": 10458,
-  "2022-08-02": 10471,
-  "2022-08-03": 10471,
-  "2022-08-04": 10476,
-  "2022-08-05": 10482,
-  "2022-08-06": 10480,
-  "2022-08-07": 10479,
-  "2022-08-08": 10479,
-  "2022-08-09": 10493,
-  "2022-08-10": 10496,
-  "2022-08-11": 10498,
-  "2022-08-12": 10502,
-  "2022-08-13": 10503,
-  "2022-08-14": 10503,
-  "2022-08-15": 10508,
-  "2022-08-16": 10515,
-  "2022-08-17": 10523,
-  "2022-08-18": 10531,
-  "2022-08-19": 10538,
-  "2022-08-20": 10544,
-  "2022-08-21": 10550,
-  "2022-08-22": 10550,
-  "2022-08-23": 10553,
-  "2022-08-24": 10556,
-  "2022-08-25": 10561,
-  "2022-08-26": 10560,
-  "2022-08-27": 10566,
-  "2022-08-28": 10570,
-  "2022-08-29": 10569,
-  "2022-08-30": 10576,
-  "2022-08-31": 10575,
-  "2022-09-01": 10578,
-  "2022-09-02": 10582,
-  "2022-09-03": 10581,
-  "2022-09-04": 10586,
-  "2022-09-05": 10593,
-  "2022-09-06": 10594,
-  "2022-09-07": 10597,
-  "2022-09-09": 10602,
-  "2022-09-10": 10607,
-  "2022-09-11": 10606,
-  "2022-09-12": 10612,
-  "2022-09-13": 10630,
-  "2022-09-15": 10655,
-  "2022-09-16": 10670,
-  "2022-09-17": 10681,
-  "2022-09-18": 10685,
-  "2022-09-19": 10691,
-  "2022-09-20": 10697,
-  "2022-09-21": 10704,
-  "2022-09-22": 10710,
-  "2022-09-23": 10710,
-  "2022-09-24": 10710,
-  "2022-09-25": 10724,
-  "2022-09-26": 10728,
-  "2022-09-27": 10731,
-  "2022-09-28": 10733,
-  "2022-09-29": 10738,
-  "2022-09-30": 10740,
-  "2022-10-01": 10742,
-  "2022-10-02": 10744,
-  "2022-10-03": 10748,
-  "2022-10-04": 10747,
-  "2022-10-05": 10751,
-  "2022-10-06": 10754,
-  "2022-10-07": 10752,
-  "2022-10-08": 10755,
-  "2022-10-09": 10764,
-  "2022-10-10": 10762,
-  "2022-10-11": 10758,
-  "2022-10-12": 10760,
-  "2022-10-13": 10763,
-  "2022-10-14": 10791,
-  "2022-10-15": 10793,
-  "2022-10-16": 10798,
-  "2022-10-17": 10804,
-  "2022-10-18": 10807,
-  "2022-10-19": 10810,
-  "2022-10-20": 10811,
-  "2022-10-21": 10813,
-  "2022-10-22": 10821,
-  "2022-10-23": 10822,
-  "2022-10-24": 10822,
-  "2022-10-25": 10826,
-  "2022-10-26": 10827,
-  "2022-10-27": 10833,
-  "2022-10-28": 10837,
-  "2022-10-29": 10841,
-  "2022-10-30": 10845,
-  "2022-10-31": 10849,
-  "2022-11-01": 10848,
-  "2022-11-02": 10848,
-  "2022-11-03": 10853,
-  "2022-11-04": 10853,
-  "2022-11-05": 10856,
-  "2022-11-06": 10864,
-  "2022-11-07": 10869,
-  "2022-11-08": 10869,
-  "2022-11-09": 10871,
-  "2022-11-10": 10870,
-  "2022-11-11": 10872,
-  "2022-11-12": 10877,
-  "2022-11-13": 10879,
-  "2022-11-14": 10882,
-  "2022-11-15": 10884,
-  "2022-11-16": 10884,
-  "2022-11-17": 10895,
-  "2022-11-18": 10897,
-  "2022-11-19": 10899,
-  "2022-11-20": 10900,
-  "2022-11-21": 10907,
-  "2022-11-22": 10911,
-  "2022-11-23": 10914,
-  "2022-11-24": 10922,
-  "2022-11-25": 10925,
-  "2022-11-26": 10926,
-  "2022-11-27": 10928,
-  "2022-11-28": 10933,
-  "2022-11-29": 10939,
-  "2022-11-30": 10943,
-  "2022-12-01": 10947,
-  "2022-12-02": 10950,
-  "2022-12-03": 10954,
-  "2022-12-04": 10957,
-  "2022-12-05": 10962,
-  "2022-12-06": 10968,
-  "2022-12-07": 10969,
-  "2022-12-08": 10972,
-  "2022-12-09": 10976,
-  "2022-12-10": 10979,
-  "2022-12-11": 10986,
-  "2022-12-12": 10995,
-  "2022-12-13": 11001,
-  "2022-12-14": 11001,
-  "2022-12-15": 11008,
-  "2022-12-16": 11013,
-  "2022-12-17": 11018,
-  "2022-12-18": 11026,
-  "2022-12-19": 11043,
-  "2022-12-20": 11050,
-  "2022-12-21": 11050,
-  "2022-12-22": 11059,
-  "2022-12-24": 11074,
-  "2022-12-25": 11080,
-  "2022-12-26": 11087,
-  "2022-12-27": 11097,
-  "2022-12-28": 11099,
-  "2022-12-29": 11103,
-  "2022-12-30": 11110,
-  "2022-12-31": 11117,
-  "2023-01-01": 11121,
-  "2023-01-02": 11128,
-  "2023-01-03": 11130,
-  "2023-01-04": 11137,
-  "2023-01-05": 11141,
-  "2023-01-06": 11142,
-  "2023-01-07": 11147,
-  "2023-01-08": 11147,
-  "2023-01-09": 11150,
-  "2023-01-10": 11161,
-  "2023-01-11": 11164,
-  "2023-01-12": 11177,
-  "2023-01-13": 11182,
-  "2023-01-14": 11187,
-  "2023-01-15": 11188,
-  "2023-01-16": 11195,
-  "2023-01-17": 11203,
-  "2023-01-18": 11209,
-  "2023-01-19": 11210,
-  "2023-01-20": 11213,
-  "2023-01-21": 11213,
-  "2023-01-22": 11218,
-  "2023-01-23": 11228,
-  "2023-01-24": 11231,
-  "2023-01-25": 11238,
-  "2023-01-26": 11241,
-  "2023-01-27": 11249,
-  "2023-01-28": 11254,
-  "2023-01-29": 11261,
-  "2023-01-30": 11265,
-  "2023-01-31": 11265,
-  "2023-02-01": 11274,
-  "2023-02-02": 11274,
-  "2023-02-03": 11283,
-  "2023-02-04": 11291,
-  "2023-02-05": 11301,
-  "2023-02-06": 11311,
-  "2023-02-07": 11315,
-  "2023-02-08": 11324,
-  "2023-02-09": 11324,
-  "2023-02-10": 11331,
-  "2023-02-11": 11335,
-  "2023-02-12": 11345,
-  "2023-02-13": 11347,
-  "2023-02-14": 11347,
-  "2023-02-15": 11355,
-  "2023-02-16": 11356,
-  "2023-02-17": 11359,
-  "2023-02-18": 11371,
-  "2023-02-19": 11374,
-  "2023-02-20": 11381,
-  "2023-02-21": 11382,
-  "2023-02-22": 11388,
-  "2023-02-23": 11388,
-  "2023-02-24": 11391,
-  "2023-02-25": 11402,
-  "2023-02-26": 11404,
-  "2023-02-27": 11414,
-  "2023-02-28": 11414,
-  "2023-03-01": 11422,
-  "2023-03-02": 11426,
-  "2023-03-03": 11434,
-  "2023-03-04": 11439,
-  "2023-03-05": 11451,
-  "2023-03-06": 11451,
-  "2023-03-07": 11454,
-  "2023-03-08": 11458,
-  "2023-03-09": 11462,
-  "2023-03-10": 11474,
-  "2023-03-11": 11484,
-  "2023-03-12": 11489,
-  "2023-03-13": 11502,
-  "2023-03-14": 11505,
-  "2023-03-15": 11509,
-  "2023-03-16": 11509,
-  "2023-03-17": 11509,
-  "2023-03-18": 11528,
-  "2023-03-19": 11528,
-  "2023-03-20": 11537,
-  "2023-03-21": 11546,
-  "2023-03-22": 11553,
-  "2023-03-23": 11559,
-  "2023-03-24": 11559,
-  "2023-03-25": 11566,
-  "2023-03-26": 11567,
-  "2023-03-27": 11570,
-  "2023-03-28": 11572,
-  "2023-03-29": 11715,
-  "2023-03-30": 11772,
-  "2023-03-31": 11772,
-  "2023-04-01": 11807,
-  "2023-04-02": 11846,
-  "2023-04-03": 11864,
-  "2023-04-04": 11871,
-  "2023-04-05": 11882,
-  "2023-04-06": 11888,
-  "2023-04-07": 11890,
-  "2023-04-09": 11912,
-  "2023-04-10": 11920,
-  "2023-04-11": 11934,
-  "2023-04-12": 11934,
-  "2023-04-13": 11942,
-  "2023-04-14": 11950,
-  "2023-04-15": 11959,
-  "2023-04-16": 11961,
-  "2023-04-17": 11971,
-  "2023-04-18": 11975,
-  "2023-04-19": 11980,
-  "2023-04-20": 11987,
-  "2023-04-21": 12001,
-  "2023-04-22": 12010,
-  "2023-04-23": 12013,
-  "2023-04-24": 12022,
-  "2023-04-25": 12024,
-  "2023-04-26": 12027,
-  "2023-04-27": 12029,
-  "2023-04-28": 12032,
-  "2023-04-29": 12061,
-  "2023-04-30": 12077,
-  "2023-05-01": 12091,
-  "2023-05-02": 12099,
-  "2023-05-03": 12100,
-  "2023-05-04": 12103,
-  "2023-05-05": 12112,
-  "2023-05-06": 12120,
-  "2023-05-07": 12130,
-  "2023-05-08": 12139,
-  "2023-05-09": 12163,
-  "2023-05-10": 12167,
-  "2023-05-11": 12171,
-  "2023-05-12": 12177,
-  "2023-05-13": 12181,
-  "2023-05-14": 12185,
-  "2023-05-15": 12188,
-  "2023-05-16": 12200,
-  "2023-05-17": 12203,
-  "2023-05-18": 12207,
-  "2023-05-19": 12212,
-  "2023-05-20": 12222,
-  "2023-05-21": 12222,
-  "2023-05-22": 12222,
-  "2023-05-23": 12234,
-  "2023-05-24": 12306,
-  "2023-05-25": 12308,
-  "2023-05-26": 12316,
-  "2023-05-27": 12324,
-  "2023-05-28": 12333,
-  "2023-05-29": 12333,
-  "2023-05-30": 12338,
-  "2023-05-31": 12345,
-  "2023-06-01": 12354,
-  "2023-06-02": 12358,
-  "2023-06-03": 12367,
-  "2023-06-04": 12372,
-  "2023-06-05": 12378,
-  "2023-06-06": 12384,
-  "2023-06-07": 12386,
-  "2023-06-08": 12389,
-  "2023-06-09": 12392,
-  "2023-06-10": 12406,
-  "2023-06-11": 12410,
-  "2023-06-12": 12414,
-  "2023-06-13": 12418,
-  "2023-06-14": 12418,
-  "2023-06-15": 12430,
-  "2023-06-16": 12436,
-  "2023-06-17": 12444,
-  "2023-06-18": 12451,
-  "2023-06-19": 12459,
-  "2023-06-20": 12459,
-  "2023-06-21": 12472,
-  "2023-06-22": 12478,
-  "2023-06-23": 12481,
-  "2023-06-24": 12489,
-  "2023-06-25": 12495,
-  "2023-06-26": 12507,
-  "2023-06-27": 12512,
-  "2023-06-28": 12513,
-  "2023-06-29": 12515,
-  "2023-06-30": 12520,
-  "2023-07-01": 12534,
-  "2023-07-02": 12534,
-  "2023-07-03": 12538,
-  "2023-07-04": 12547,
-  "2023-07-05": 12549,
-  "2023-07-06": 12566,
-  "2023-07-07": 12566,
-  "2023-07-08": 12566,
-  "2023-07-09": 12580,
-  "2023-07-10": 12588,
-  "2023-07-11": 12594,
-  "2023-07-12": 12631,
-  "2023-07-13": 12653,
-  "2023-07-14": 12662,
-  "2023-07-15": 12669,
-  "2023-07-16": 12675,
-  "2023-07-17": 12692,
-  "2023-07-18": 12697,
-  "2023-07-19": 12706,
-  "2023-07-20": 12710,
-  "2023-07-21": 12717,
-  "2023-07-22": 12728,
-  "2023-07-23": 12729,
-  "2023-07-24": 12730,
-  "2023-07-25": 12732,
-  "2023-07-26": 12731,
-  "2023-07-27": 12735,
-  "2023-07-28": 12746,
-  "2023-07-29": 12753,
-  "2023-07-30": 12763,
-  "2023-07-31": 12772,
-  "2023-08-01": 12778,
-  "2023-08-02": 12780,
-  "2023-08-03": 12781,
-  "2023-08-04": 12783,
-  "2023-08-05": 12786,
-  "2023-08-06": 12792,
-  "2023-08-07": 12792,
-  "2023-08-08": 12798,
-  "2023-08-09": 12806,
-  "2023-08-10": 12812,
-  "2023-08-11": 12818,
-  "2023-08-12": 12818,
-  "2023-08-13": 12818,
-  "2023-08-14": 12830,
-  "2023-08-15": 12830,
-  "2023-08-16": 12830,
-  "2023-08-17": 12830,
-  "2023-08-18": 12830,
-  "2023-08-19": 12830,
-  "2023-08-20": 12858,
-  "2023-08-21": 12858,
-  "2023-08-22": 12866,
-  "2023-08-23": 12866,
-  "2023-08-24": 12866,
-  "2023-08-25": 12866,
-  "2023-08-26": 12880,
-  "2023-08-27": 12880,
-  "2023-08-28": 12885,
-  "2023-08-29": 12885,
-  "2023-08-30": 12885,
-  "2023-08-31": 12898,
-  "2023-09-01": 12898,
-  "2023-09-02": 12898,
-  "2023-09-03": 12898,
-  "2023-09-04": 12898,
-  "2023-09-05": 12898,
-  "2023-09-06": 12924,
-  "2023-09-07": 12924,
-  "2023-09-08": 12924,
-  "2023-09-09": 12924,
-  "2023-09-10": 13068,
-  "2023-09-11": 13068,
-  "2023-09-12": 13068,
-  "2023-09-13": 13068,
-  "2023-09-14": 13068,
-  "2023-09-15": 13068,
-  "2023-09-16": 13101,
-  "2023-09-17": 13101,
-  "2023-09-18": 13101,
-  "2023-09-19": 13120,
-  "2023-09-20": 13120,
-  "2023-09-21": 13120,
-  "2023-09-22": 13132,
-  "2023-09-23": 13132,
-  "2023-09-24": 13132,
-  "2023-09-25": 13132,
-  "2023-09-26": 13182,
-  "2023-09-27": 13182,
-  "2023-09-28": 13182,
-  "2023-09-29": 13182,
-  "2023-09-30": 13182,
-  "2023-10-01": 13182,
-  "2023-10-02": 13182,
-  "2023-10-03": 13182,
-  "2023-10-04": 13182,
-  "2023-10-05": 13182,
-  "2023-10-06": 13182,
-  "2023-10-07": 13182,
-  "2023-10-08": 13182,
-  "2023-10-09": 13182,
-  "2023-10-10": 13182,
-  "2023-10-11": 13234,
-  "2023-10-12": 13234,
-  "2023-10-13": 13234,
-  "2023-10-14": 13234,
-  "2023-10-15": 13234,
-  "2023-10-16": 13234,
-  "2023-10-17": 13234,
-  "2023-10-18": 13234,
-  "2023-10-19": 13234,
-  "2023-10-20": 13234,
-  "2023-10-21": 13234,
-  "2023-10-22": 13234,
-  "2023-10-23": 13234,
-  "2023-10-24": 13234,
-  "2023-10-25": 13234,
-  "2023-10-26": 13234,
-  "2023-10-27": 13234,
-  "2023-10-28": 13234,
-  "2023-10-29": 13234,
-  "2023-10-30": 13234,
-  "2023-10-31": 13234,
-  "2023-11-01": 13234,
-  "2023-11-02": 13234,
-  "2023-11-03": 13234,
-  "2023-11-04": 13234,
-  "2023-11-05": 13234,
-  "2023-11-06": 13234,
-  "2023-11-07": 13234,
-  "2023-11-08": 13234,
-  "2023-11-09": 13234,
-  "2023-11-10": 13234,
-  "2023-11-11": 13407,
-  "2023-11-12": 13407,
-  "2023-11-13": 13407,
-  "2023-11-14": 13407,
-  "2023-11-15": 13407,
-  "2023-11-16": 13407,
-  "2023-11-17": 13407,
-  "2023-11-18": 13407,
-  "2023-11-19": 13407,
-  "2023-11-20": 13407,
-  "2023-11-21": 13407,
-  "2023-11-22": 13407,
-  "2023-11-23": 13407,
-  "2023-11-24": 13407,
-  "2023-11-25": 13407,
-  "2023-11-26": 13407,
-  "2023-11-27": 13407,
-  "2023-11-28": 13407,
-  "2023-11-29": 13407,
-  "2023-11-30": 13407,
-  "2023-12-01": 13407,
-  "2023-12-02": 13407,
-  "2023-12-03": 13407,
-  "2023-12-04": 13407,
-  "2023-12-05": 13407,
-  "2023-12-06": 13407,
-  "2023-12-07": 13407,
-  "2023-12-08": 13407,
-  "2023-12-09": 13407,
-  "2023-12-10": 13407,
-  "2023-12-11": 13407,
-  "2023-12-12": 13407,
-  "2023-12-13": 13407,
-  "2023-12-14": 13598,
-  "2023-12-15": 13599,
-  "2023-12-16": 13601,
-  "2023-12-17": 13606,
-  "2023-12-18": 13612,
-  "2023-12-19": 13615,
-  "2023-12-20": 13620,
-  "2023-12-21": 13623,
-  "2023-12-22": 13625,
-  "2023-12-23": 13627,
-  "2023-12-24": 13631,
-  "2023-12-25": 13633,
-  "2023-12-26": 13634,
-  "2023-12-27": 13636,
-  "2023-12-30": 13653,
-  "2023-12-31": 13661,
-  "2024-01-01": 13667,
-  "2024-01-02": 13668,
-  "2024-01-03": 13674
+  "2024-01-17": 13714,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
+  "name": "This Is Angelique Kidjo",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 268506,
+      "name": "Adouma",
+      "url": "https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 254866,
+      "name": "Afirika",
+      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Africa, One Of A Kind",
+      "url": "https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44"
+    },
+    {
+      "album": {
+        "name": "Afro Bolero",
+        "url": "https://open.spotify.com/album/6eyUDhcGyhx68IZXaVERl7"
+      },
+      "artists": [
+        {
+          "name": "Philippe Cohen Solal",
+          "url": "https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Mo Laudi",
+          "url": "https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 190462,
+      "name": "Afro Bolero",
+      "url": "https://open.spotify.com/track/45u9j7yYusneijsns98g12"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289493,
+      "name": "Agolo",
+      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
+    },
+    {
+      "album": {
+        "name": "Agolo (Da Capo's Touch)",
+        "url": "https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 370600,
+      "name": "Agolo - Da Capo\u2019s Touch",
+      "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
+    },
+    {
+      "album": {
+        "name": "Agolo (Shimza Remix)",
+        "url": "https://open.spotify.com/album/630OKkty5BNUedtiQIAra5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 343167,
+      "name": "Agolo - Shimza Remix",
+      "url": "https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 244600,
+      "name": "Ahan",
+      "url": "https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 339600,
+      "name": "Alikama",
+      "url": "https://open.spotify.com/track/2TCPfiaoY9FW1cc8lPHE8x"
+    },
+    {
+      "album": {
+        "name": "Human Race",
+        "url": "https://open.spotify.com/album/6DTsQ3rzC6BXgfRxoqomFa"
+      },
+      "artists": [
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 305986,
+      "name": "Alphaman Redemption (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/4jGl7gpSXzO1CkZVH0g8Wm"
+    },
+    {
+      "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278040,
+      "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
+      "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 250666,
+      "name": "Azan Nan Kpe",
+      "url": "https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/0FBELKNPRyQZ5XDG2V5vgI"
+    },
+    {
+      "album": {
+        "name": "Oyaya !",
+        "url": "https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 222053,
+      "name": "Bala Bala",
+      "url": "https://open.spotify.com/track/4fY90F0MrBT2EPXqYgfAMv"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276840,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "album": {
+        "name": "Care For Haiti",
+        "url": "https://open.spotify.com/album/5o4KCZHnzOSH9CiNg4GUku"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 169320,
+      "name": "Battu",
+      "url": "https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv"
+    },
+    {
+      "album": {
+        "name": "Best We Can",
+        "url": "https://open.spotify.com/album/27K8fhjjRtGrUPuPsIenCt"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218417,
+      "name": "Best We Can",
+      "url": "https://open.spotify.com/track/6Erm0FrDOHCE4oXru9jpyl"
+    },
+    {
+      "album": {
+        "name": "Bidonville (DJ Abdel Remix)",
+        "url": "https://open.spotify.com/album/6fYMpcmPuTrsJ5YnDHOvHx"
+      },
+      "artists": [
+        {
+          "name": "Gad Elmaleh",
+          "url": "https://open.spotify.com/artist/0uHamPJBu9r0cJAcZJyQpW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "DJ Abdel",
+          "url": "https://open.spotify.com/artist/2UhQHcRXyVTc6IO0bFIRh3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 158448,
+      "name": "Bidonville - DJ Abdel Remix",
+      "url": "https://open.spotify.com/track/7lxtk1QLtyojQiERY9muAF"
+    },
+    {
+      "album": {
+        "name": "EVE",
+        "url": "https://open.spotify.com/album/7809ieIOof167f7FIyLiCr"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 170466,
+      "name": "Blewu",
+      "url": "https://open.spotify.com/track/1nFJNqpJXnnkd9WG3oriqB"
+    },
+    {
+      "album": {
+        "name": "Notes for the Future",
+        "url": "https://open.spotify.com/album/3nxa5sJ1kyGqmSUDNW5VM5"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 171361,
+      "name": "Blewu",
+      "url": "https://open.spotify.com/track/5KV7qHIhx8nmuOiqvqti0Z"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 229626,
+      "name": "Born Under Punches",
+      "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
+    },
+    {
+      "album": {
+        "name": "C'est dr\u00f4le la vie",
+        "url": "https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161866,
+      "name": "C'est dr\u00f4le la vie",
+      "url": "https://open.spotify.com/track/2uMfVlGi30aHKy4ntQUzso"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "album": {
+        "name": "Cetam",
+        "url": "https://open.spotify.com/album/7LzbjP6z1iS4YWUjh2Ppuj"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Lura",
+          "url": "https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 220343,
+      "name": "Cetam",
+      "url": "https://open.spotify.com/track/0zRHtg2RwQ6v6xZBCXeKyR"
+    },
+    {
+      "album": {
+        "name": "MULTICOLOR",
+        "url": "https://open.spotify.com/album/28trbUyNBxZsVaLhWpwCjI"
+      },
+      "artists": [
+        {
+          "name": "Lura",
+          "url": "https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220343,
+      "name": "Cetam",
+      "url": "https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX"
+    },
+    {
+      "album": {
+        "name": "Choose Love (Synematik Remix)",
+        "url": "https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Synematik",
+          "url": "https://open.spotify.com/artist/35WTtFW3bwCshTiZUd8k5H"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 153040,
+      "name": "Choose Love - Synematik Remix",
+      "url": "https://open.spotify.com/track/1mn0Gp5CoKtlsMCEc89QDQ"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 328813,
+      "name": "Crosseyed and Painless",
+      "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199706,
+      "name": "Cucala",
+      "url": "https://open.spotify.com/track/1W2br69NXrIXRt0hEymD3z"
+    },
+    {
+      "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 201826,
+      "name": "dans nos murs (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1agkIHecFermCzDuxMrzDC"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196356,
+      "name": "Different (feat. Damian Marley & Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/6F5bERiTAIAVAP8ZUh0tqE"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 195720,
+      "name": "Dignity",
+      "url": "https://open.spotify.com/track/0j3uAYpq1xkuqekBjcEjdv"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 251333,
+      "name": "Djan Djan",
+      "url": "https://open.spotify.com/track/06HPCGeoRwYJe2qzPMIYbE"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 258226,
+      "name": "Djin Djin",
+      "url": "https://open.spotify.com/track/5N1mTgADSRUVGo7CAin1qc"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Do Yourself",
+      "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
+    },
+    {
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 209266,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/6HMMRTuMEf9xiZsVEaijiQ"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 238293,
+      "name": "Eyin",
+      "url": "https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j"
+    },
+    {
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Fifa",
+      "url": "https://open.spotify.com/track/35NQTarBzSMdsGKkGqUOy4"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 189080,
+      "name": "Free & Equal",
+      "url": "https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 248586,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 273066,
+      "name": "Houses in Motion",
+      "url": "https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 348840,
+      "name": "Idje Idje",
+      "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 266933,
+      "name": "Iemanja",
+      "url": "https://open.spotify.com/track/6G4KjSrcdbzrdh1SOMBXZ0"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 352573,
+      "name": "Ife",
+      "url": "https://open.spotify.com/track/6zfQjiEITpwiTf5qragUNj"
+    },
+    {
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285619,
+      "name": "Itarafo",
+      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Iwoya (feat. Dave Matthews)",
+      "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
+    },
+    {
+      "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 194800,
+      "name": "Jamaica Farewell",
+      "url": "https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J"
+    },
+    {
+      "album": {
+        "name": "Zenzile: The Reimagination of Miriam Makeba",
+        "url": "https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 268212,
+      "name": "Jike'lemaweni",
+      "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
+    },
+    {
+      "album": {
+        "name": "Keep Rising (The Woman King)",
+        "url": "https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ"
+      },
+      "artists": [
+        {
+          "name": "Jessy Wilson",
+          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194164,
+      "name": "Keep Rising - The Woman King",
+      "url": "https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Un Carnaval (Bomba Estereo Remix)",
+        "url": "https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 201369,
+      "name": "La Vida Es Un Carnaval - Bomba Estereo Remix",
+      "url": "https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Un Carnaval (Rollo Tomasi Remix)",
+        "url": "https://open.spotify.com/album/2QuHH0lBOUJ0jO5d1PlvVY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200769,
+      "name": "La Vida Es Un Carnaval - Rollo Tomasi Remix",
+      "url": "https://open.spotify.com/track/4VOYh2yzGAvclUpTE8Yy6e"
+    },
+    {
+      "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/7F0vKpkZTsklsKFaVEIUcr"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Akua Naru",
+          "url": "https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 316826,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5gvaAKMIFt0zrejxzHaDrU"
+    },
+    {
+      "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316813,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6FSRJ4uC0TF0p7uy4nN5Ew"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/1hssP3abybgapegXIY6NjW"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Akua Naru",
+          "url": "https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 315466,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9"
+    },
+    {
+      "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136106,
+      "name": "Lakutshona Llanga",
+      "url": "https://open.spotify.com/track/7zzn3IA6vULruHJ32GVPA4"
+    },
+    {
+      "album": {
+        "name": "Oyaya !",
+        "url": "https://open.spotify.com/album/5RnEFNyd3XdDRWTJE2qiW8"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "Le monde comme un b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/33xaQMAJxMJx61qIZA3zm4"
+    },
+    {
+      "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
+      "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 361546,
+      "name": "Listening Wind",
+      "url": "https://open.spotify.com/track/2vh0Wy3Jvyy3vy6X9S4FgU"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 232400,
+      "name": "Logozo",
+      "url": "https://open.spotify.com/track/0sVLGPd6FxdNyCOURUtiDn"
+    },
+    {
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Naima",
+          "url": "https://open.spotify.com/artist/6uWNfMnOigCpUDfjR4VyO7"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 232200,
+      "name": "Loloye",
+      "url": "https://open.spotify.com/track/0S3dVeVZ9xYpZNRpp2NFvu"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294533,
+      "name": "Lon Lon",
+      "url": "https://open.spotify.com/track/2OkyKCr8Mo41hwLBlzI9ci"
+    },
+    {
+      "album": {
+        "name": "Tenor",
+        "url": "https://open.spotify.com/album/3eI6T9HIJUSkuyJtKoMSSU"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Vincent Niclo",
+          "url": "https://open.spotify.com/artist/5LpggKE15lP08VnsYZYI5j"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 306226,
+      "name": "Lonlon - After Bol\u00e9ro, M. 81",
+      "url": "https://open.spotify.com/track/6xuZurmxQun2mCTZVqgZ3p"
+    },
+    {
+      "album": {
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254386,
+      "name": "Lonlon Ravel's Bolero - Live",
+      "url": "https://open.spotify.com/track/6rFMgbTxcAGRowwfZfzmfB"
+    },
+    {
+      "album": {
+        "name": "Love Song to the Earth",
+        "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Johnny Rzeznik",
+          "url": "https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Christina Grimmie",
+          "url": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+        },
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        },
+        {
+          "name": "Q'orianka Kilcher",
+          "url": "https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231679,
+      "name": "Love Song to the Earth",
+      "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/0tODdphY94KVzwtO3pm1fY"
+    },
+    {
+      "album": {
+        "name": "Forever United",
+        "url": "https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169578,
+      "name": "Mama Africa (feat. Ang\u00e9lique Kidjo et Youssou Ndour)",
+      "url": "https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP"
+    },
+    {
+      "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225624,
+      "name": "Manodzi",
+      "url": "https://open.spotify.com/track/5CPbFl3Y19J2VLlrk7Ms33"
+    },
+    {
+      "album": {
+        "name": "Milambi",
+        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193278,
+      "name": "Milambi",
+      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+    },
+    {
+      "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 193013,
+      "name": "Move On Up",
+      "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 228640,
+      "name": "Mycelium",
+      "url": "https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161002,
+      "name": "NA MONEY (feat. The Cavemen. & Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/0pLx3RsHPmZnD90h2yaL8V"
+    },
+    {
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Naima",
+      "url": "https://open.spotify.com/track/55srfvDH9udEULKjkDKgUP"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 259173,
+      "name": "Ogbo",
+      "url": "https://open.spotify.com/track/4vpq5g4p3h8xVDOdHIlrku"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214066,
+      "name": "Okan Bale",
+      "url": "https://open.spotify.com/track/5tXpgUhuzcqQQORHLxMPNA"
+    },
+    {
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Olofoofo",
+      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
+    },
+    {
+      "album": {
+        "name": "Queen of Sheba",
+        "url": "https://open.spotify.com/album/0HRNVgQeS6Ue3R1MwLdBQB"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 450440,
+      "name": "Omije",
+      "url": "https://open.spotify.com/track/66nZxjiOXRNRu4PziSyf7A"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123653,
+      "name": "Omon Oba",
+      "url": "https://open.spotify.com/track/2E85UM4qvRKVuYDwEfFif3"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199240,
+      "name": "One Africa (Ind\u00e9pendance Cha-Cha)",
+      "url": "https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK"
+    },
+    {
+      "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 188320,
+      "name": "Out Of Africa",
+      "url": "https://open.spotify.com/track/2AsieG1DqPvaWrcDmVeNvz"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-13",
+      "duration_ms": 207026,
+      "name": "Oya Diosa",
+      "url": "https://open.spotify.com/track/5W5xwZtuu2pUbBnTSJyTgR"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/43yhCd13mFeiOKLCo6bTUL"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 172880,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/55dFmFmGpUIAIM41VeGgAw"
+    },
+    {
+      "album": {
+        "name": "Quanto Mais Curtido Melhor",
+        "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255600,
+      "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
+    },
+    {
+      "album": {
+        "name": "Quimbara",
+        "url": "https://open.spotify.com/album/4QH5KPBE0XndcPGoGsSEdO"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 274133,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/5SvE1aqUInclPBCrgYwKYq"
+    },
+    {
+      "album": {
+        "name": "Oh Happy Day",
+        "url": "https://open.spotify.com/album/5JpbIBWZZOq79iipDBRtaq"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 215760,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/4ADxDfrGrTw6D1slX8wUVS"
+    },
+    {
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325773,
+      "name": "Safiatou (feat. Santana & Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 277093,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/2iqOFvioxmoazHhA86N7gS"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Salala",
+      "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
+    },
+    {
+      "album": {
+        "name": "OYO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217613,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
+    },
+    {
+      "album": {
+        "name": "Djin Djin",
+        "url": "https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "Sedjedo",
+      "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 184146,
+      "name": "Seen and Not Seen",
+      "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "Senie",
+      "url": "https://open.spotify.com/track/4q8o0Ri8QDQ1dQ7QL7VYul"
+    },
+    {
+      "album": {
+        "name": "Woman Of Steel",
+        "url": "https://open.spotify.com/album/4ZXoplCIksnmgPXcJBYtQ7"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 186271,
+      "name": "Shekere",
+      "url": "https://open.spotify.com/track/1unD6HbKuU0NIPDzEkYDbM"
+    },
+    {
+      "album": {
+        "name": "Woman Of Steel",
+        "url": "https://open.spotify.com/album/7y9bUCH7reYKiVEUs8FUV4"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 186311,
+      "name": "Shekere",
+      "url": "https://open.spotify.com/track/5SQPU5uLfvdznF43W5guwW"
+    },
+    {
+      "album": {
+        "name": "Keep On Moving - The Best Of",
+        "url": "https://open.spotify.com/album/5HOH5XeVjMwmcbb6PLrhJW"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 212520,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6ZoY4JuMpnTkQTLE8tYP5k"
+    },
+    {
+      "album": {
+        "name": "Spirit Rising (Live)",
+        "url": "https://open.spotify.com/album/0eWhzAxYEfHZ5nni4b3038"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244973,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/17m83WZGqAfGpnNUbpCDqF"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Symphony No.12 \"Lodger\" (from lyrics by David Bowie and Brian Eno)",
+        "url": "https://open.spotify.com/album/4do15U1IbTk9oZbmuIhvje"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Christian Schmitt",
+          "url": "https://open.spotify.com/artist/5dj2TPLbKWFIMkfUgXdPul"
+        },
+        {
+          "name": "Filharmonie Brno",
+          "url": "https://open.spotify.com/artist/7wkqgHCWQh885KiCSUvqH5"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-12",
+      "duration_ms": 162756,
+      "name": "Symphony No. 12, \"Lodger\": I. Fantastic Voyage",
+      "url": "https://open.spotify.com/track/5A5LXIwszHMeXW4CKGIiZz"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Symphony No.12 \"Lodger\" (from lyrics by David Bowie and Brian Eno)",
+        "url": "https://open.spotify.com/album/4do15U1IbTk9oZbmuIhvje"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Christian Schmitt",
+          "url": "https://open.spotify.com/artist/5dj2TPLbKWFIMkfUgXdPul"
+        },
+        {
+          "name": "Filharmonie Brno",
+          "url": "https://open.spotify.com/artist/7wkqgHCWQh885KiCSUvqH5"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-11",
+      "duration_ms": 404193,
+      "name": "Symphony No. 12, \"Lodger\": II. Move On",
+      "url": "https://open.spotify.com/track/7HJWIEkczmSKHm6Qf4CjQF"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 261000,
+      "name": "Tatchedogbe",
+      "url": "https://open.spotify.com/track/6nmkqN1prP1ExfKV1l2kzY"
+    },
+    {
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 248466,
+      "name": "The Great Curve",
+      "url": "https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0"
+    },
+    {
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 298840,
+      "name": "The Sound Of The Drums",
+      "url": "https://open.spotify.com/track/3fMxN0fDKOhSvZqU3f7BPb"
+    },
+    {
+      "album": {
+        "name": "Equal Strain On All Parts",
+        "url": "https://open.spotify.com/album/237Fbt0QgkCxkRDmBRvmiR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236918,
+      "name": "Ti Punch Caf\u00e9",
+      "url": "https://open.spotify.com/track/0GHiqo3CxI9pZvFHEzdvU5"
+    },
+    {
+      "album": {
+        "name": "Toast to Freedom",
+        "url": "https://open.spotify.com/album/3kvEJ7NfjBXi43bW7FF9PC"
+      },
+      "artists": [
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        {
+          "name": "Eric Burdon",
+          "url": "https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id"
+        },
+        {
+          "name": "Ewan McGregor",
+          "url": "https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        },
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/73WQWI3988afuKynwOhyuE"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Florent",
+          "url": "https://open.spotify.com/artist/0xbL5HzY6pDKOHm7RYURNQ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374508,
+      "name": "Toast to Freedom - Long Version",
+      "url": "https://open.spotify.com/track/0SQPaGnphdxWDKJxtQ7NY5"
+    },
+    {
+      "album": {
+        "name": "Toast to Freedom",
+        "url": "https://open.spotify.com/album/4oGH8ZRgR7bYMQTSjvYT2E"
+      },
+      "artists": [
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        },
+        {
+          "name": "Eric Burdon",
+          "url": "https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id"
+        },
+        {
+          "name": "Ewan McGregor",
+          "url": "https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1"
+        },
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        },
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/73WQWI3988afuKynwOhyuE"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Florent",
+          "url": "https://open.spotify.com/artist/0xbL5HzY6pDKOHm7RYURNQ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 374508,
+      "name": "Toast to Freedom - Long Version",
+      "url": "https://open.spotify.com/track/6g3ksFVdyDkIeQReZ4gT1h"
+    },
+    {
+      "album": {
+        "name": "Toda F\u00e9",
+        "url": "https://open.spotify.com/album/6vnLNyaf690RoQr6C2TKbg"
+      },
+      "artists": [
+        {
+          "name": "Gilmar Gomes",
+          "url": "https://open.spotify.com/artist/2WYBgInncdBPxLsQAdr0QH"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258393,
+      "name": "Toda F\u00e9",
+      "url": "https://open.spotify.com/track/3xV19rax2PyYyVETsVF5yx"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 270013,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/6BgKLB3tbI3RbbWnLuA7qG"
+    },
+    {
+      "album": {
+        "name": "Jazz Loves Disney 2 - A Kind Of Magic",
+        "url": "https://open.spotify.com/album/4WW0q6UgzpN1eJFqKZQzh7"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR"
+    },
+    {
+      "album": {
+        "name": "Jazz Loves Disney 2 - A Kind Of Magic",
+        "url": "https://open.spotify.com/album/7eMvIgsmcohS24bmJ5rckU"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 220493,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"
+    },
+    {
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
+    },
+    {
+      "album": {
+        "name": "So Calypso !",
+        "url": "https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX"
+      },
+      "artists": [
+        {
+          "name": "Calypso Rose",
+          "url": "https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Wah Fu Dance (feat. Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK"
+    },
+    {
+      "album": {
+        "name": "MHD",
+        "url": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 205773,
+      "name": "Wanyinyin",
+      "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"
+    },
+    {
+      "album": {
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
+    },
+    {
+      "album": {
+        "name": "Logozo",
+        "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 264560,
+      "name": "We We",
+      "url": "https://open.spotify.com/track/5QkeHNln4J9O3kEkxLZWey"
+    },
+    {
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+    },
+    {
+      "album": {
+        "name": "Wombo Lombo (Uncle Disco Club Mix)",
+        "url": "https://open.spotify.com/album/0v65VGJGnhlx3uPv0tUeb6"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Uncle Disco",
+          "url": "https://open.spotify.com/artist/4wY9pgwhfyfTSVZIufTlMe"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-23",
+      "duration_ms": 261173,
+      "name": "Wombo Lombo - Uncle Disco Club Edit",
+      "url": "https://open.spotify.com/track/02O5f0MCuFRPTxzU2Jkw0B"
+    },
+    {
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 222626,
+      "name": "Yaki Yaki",
+      "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 97266,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"
+    },
+    {
+      "album": {
+        "name": "OYO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 123453,
+      "name": "Zelie",
+      "url": "https://open.spotify.com/track/786PWkpZ8OMdwgk5Nx3xnf"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189283,
+      "name": "\u00d2r\u00f2k\u00f3r\u00f2",
+      "url": "https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8"
 }

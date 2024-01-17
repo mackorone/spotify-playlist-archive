@@ -1,732 +1,1105 @@
 {
-  "2021-12-28": 98576,
-  "2021-12-29": 98603,
-  "2021-12-30": 98622,
-  "2021-12-31": 98648,
-  "2022-01-01": 98700,
-  "2022-01-02": 98710,
-  "2022-01-03": 98730,
-  "2022-01-04": 98753,
-  "2022-01-05": 98770,
-  "2022-01-06": 98794,
-  "2022-01-07": 98823,
-  "2022-01-08": 98862,
-  "2022-01-09": 98863,
-  "2022-01-10": 98889,
-  "2022-01-11": 98921,
-  "2022-01-12": 98931,
-  "2022-01-13": 98931,
-  "2022-01-14": 98931,
-  "2022-01-15": 98931,
-  "2022-01-16": 98931,
-  "2022-01-17": 98931,
-  "2022-01-18": 98931,
-  "2022-01-19": 98931,
-  "2022-01-20": 98931,
-  "2022-01-21": 98931,
-  "2022-01-22": 98931,
-  "2022-01-23": 98931,
-  "2022-01-24": 98931,
-  "2022-01-25": 98931,
-  "2022-01-26": 98931,
-  "2022-01-27": 98931,
-  "2022-01-28": 98931,
-  "2022-01-29": 98931,
-  "2022-01-30": 98931,
-  "2022-01-31": 98931,
-  "2022-02-01": 98931,
-  "2022-02-02": 98931,
-  "2022-02-03": 98931,
-  "2022-02-04": 98931,
-  "2022-02-05": 98931,
-  "2022-02-06": 98931,
-  "2022-02-07": 98931,
-  "2022-02-08": 98931,
-  "2022-02-09": 98931,
-  "2022-02-10": 98931,
-  "2022-02-11": 98931,
-  "2022-02-12": 98931,
-  "2022-02-13": 98931,
-  "2022-02-14": 98931,
-  "2022-02-15": 98931,
-  "2022-02-16": 98931,
-  "2022-02-17": 98931,
-  "2022-02-18": 98931,
-  "2022-02-19": 98931,
-  "2022-02-20": 98931,
-  "2022-02-21": 98931,
-  "2022-02-22": 98931,
-  "2022-02-23": 98931,
-  "2022-02-24": 98931,
-  "2022-02-25": 98931,
-  "2022-02-26": 98931,
-  "2022-02-27": 98931,
-  "2022-02-28": 98931,
-  "2022-03-01": 98931,
-  "2022-03-02": 98931,
-  "2022-03-03": 98931,
-  "2022-03-04": 98931,
-  "2022-03-05": 98931,
-  "2022-03-06": 98931,
-  "2022-03-07": 98931,
-  "2022-03-08": 98931,
-  "2022-03-09": 98931,
-  "2022-03-10": 98931,
-  "2022-03-11": 98931,
-  "2022-03-12": 98931,
-  "2022-03-13": 98931,
-  "2022-03-14": 98931,
-  "2022-03-15": 98931,
-  "2022-03-16": 98931,
-  "2022-03-17": 98931,
-  "2022-03-18": 98931,
-  "2022-03-19": 98931,
-  "2022-03-20": 98931,
-  "2022-03-21": 98931,
-  "2022-03-22": 98931,
-  "2022-03-23": 98931,
-  "2022-03-24": 98931,
-  "2022-03-25": 98931,
-  "2022-03-26": 98931,
-  "2022-03-27": 98931,
-  "2022-03-28": 98931,
-  "2022-03-30": 98931,
-  "2022-03-31": 98931,
-  "2022-04-01": 98931,
-  "2022-04-02": 98931,
-  "2022-04-03": 98931,
-  "2022-04-04": 98931,
-  "2022-04-05": 98931,
-  "2022-04-06": 98931,
-  "2022-04-07": 98931,
-  "2022-04-08": 98931,
-  "2022-04-09": 98931,
-  "2022-04-10": 98931,
-  "2022-04-11": 98931,
-  "2022-04-12": 98931,
-  "2022-04-13": 98931,
-  "2022-04-14": 98931,
-  "2022-04-15": 98931,
-  "2022-04-16": 98931,
-  "2022-04-17": 98931,
-  "2022-04-18": 98931,
-  "2022-04-19": 98931,
-  "2022-04-20": 98931,
-  "2022-04-21": 98931,
-  "2022-04-22": 98931,
-  "2022-04-23": 98931,
-  "2022-04-24": 98931,
-  "2022-04-25": 98931,
-  "2022-04-26": 98931,
-  "2022-04-27": 98931,
-  "2022-04-28": 98931,
-  "2022-04-29": 98931,
-  "2022-04-30": 98931,
-  "2022-05-01": 98931,
-  "2022-05-02": 98931,
-  "2022-05-03": 98931,
-  "2022-05-04": 98931,
-  "2022-05-05": 98931,
-  "2022-05-06": 98931,
-  "2022-05-07": 98931,
-  "2022-05-08": 98931,
-  "2022-05-09": 98931,
-  "2022-05-10": 98931,
-  "2022-05-11": 98931,
-  "2022-05-12": 98931,
-  "2022-05-13": 98931,
-  "2022-05-14": 98931,
-  "2022-05-15": 98931,
-  "2022-05-16": 98931,
-  "2022-05-17": 98931,
-  "2022-05-18": 98931,
-  "2022-05-19": 98931,
-  "2022-05-20": 98931,
-  "2022-05-21": 98931,
-  "2022-05-22": 98931,
-  "2022-05-23": 98931,
-  "2022-05-24": 98931,
-  "2022-05-25": 98931,
-  "2022-05-26": 98931,
-  "2022-05-27": 98931,
-  "2022-05-28": 98931,
-  "2022-05-29": 98931,
-  "2022-05-30": 98931,
-  "2022-05-31": 98931,
-  "2022-06-01": 98931,
-  "2022-06-02": 98931,
-  "2022-06-03": 98931,
-  "2022-06-04": 98931,
-  "2022-06-05": 98931,
-  "2022-06-06": 98931,
-  "2022-06-07": 98931,
-  "2022-06-08": 98931,
-  "2022-06-09": 98931,
-  "2022-06-10": 98931,
-  "2022-06-11": 98931,
-  "2022-06-12": 98931,
-  "2022-06-13": 98931,
-  "2022-06-14": 98931,
-  "2022-06-15": 98931,
-  "2022-06-16": 98931,
-  "2022-06-17": 98931,
-  "2022-06-18": 98931,
-  "2022-06-19": 98931,
-  "2022-06-20": 98931,
-  "2022-06-21": 98931,
-  "2022-06-22": 98931,
-  "2022-06-23": 98931,
-  "2022-06-24": 98931,
-  "2022-06-25": 98931,
-  "2022-06-26": 98931,
-  "2022-06-27": 98931,
-  "2022-06-28": 98931,
-  "2022-06-29": 98931,
-  "2022-06-30": 98931,
-  "2022-07-01": 98931,
-  "2022-07-02": 98931,
-  "2022-07-03": 98931,
-  "2022-07-04": 98931,
-  "2022-07-05": 98931,
-  "2022-07-06": 98931,
-  "2022-07-07": 98931,
-  "2022-07-08": 98931,
-  "2022-07-09": 98931,
-  "2022-07-10": 98931,
-  "2022-07-11": 98931,
-  "2022-07-12": 98931,
-  "2022-07-13": 98931,
-  "2022-07-14": 98931,
-  "2022-07-15": 98931,
-  "2022-07-16": 98931,
-  "2022-07-17": 98931,
-  "2022-07-18": 98931,
-  "2022-07-19": 98931,
-  "2022-07-20": 98931,
-  "2022-07-21": 98931,
-  "2022-07-22": 98931,
-  "2022-07-23": 98931,
-  "2022-07-24": 98931,
-  "2022-07-25": 98931,
-  "2022-07-26": 98931,
-  "2022-07-27": 98931,
-  "2022-07-28": 98931,
-  "2022-07-29": 98931,
-  "2022-07-30": 98931,
-  "2022-07-31": 98931,
-  "2022-08-01": 98931,
-  "2022-08-02": 98931,
-  "2022-08-03": 98931,
-  "2022-08-04": 98931,
-  "2022-08-05": 98931,
-  "2022-08-06": 98931,
-  "2022-08-07": 98931,
-  "2022-08-08": 98931,
-  "2022-08-09": 98931,
-  "2022-08-10": 98931,
-  "2022-08-11": 98931,
-  "2022-08-12": 98931,
-  "2022-08-13": 98931,
-  "2022-08-14": 98931,
-  "2022-08-15": 98931,
-  "2022-08-16": 98931,
-  "2022-08-17": 98931,
-  "2022-08-18": 98931,
-  "2022-08-19": 98931,
-  "2022-08-20": 98931,
-  "2022-08-21": 98931,
-  "2022-08-22": 98931,
-  "2022-08-23": 98931,
-  "2022-08-24": 98931,
-  "2022-08-25": 98931,
-  "2022-08-26": 98931,
-  "2022-08-27": 98931,
-  "2022-08-28": 98931,
-  "2022-08-29": 98931,
-  "2022-08-30": 98931,
-  "2022-08-31": 98931,
-  "2022-09-01": 98931,
-  "2022-09-02": 98931,
-  "2022-09-03": 98931,
-  "2022-09-04": 98931,
-  "2022-09-05": 98931,
-  "2022-09-06": 98931,
-  "2022-09-07": 98931,
-  "2022-09-09": 98931,
-  "2022-09-10": 98931,
-  "2022-09-11": 98931,
-  "2022-09-12": 98931,
-  "2022-09-13": 98931,
-  "2022-09-15": 98931,
-  "2022-09-16": 98931,
-  "2022-09-17": 98931,
-  "2022-09-18": 98931,
-  "2022-09-19": 98931,
-  "2022-09-20": 98931,
-  "2022-09-21": 98931,
-  "2022-09-22": 98931,
-  "2022-09-23": 98931,
-  "2022-09-24": 98931,
-  "2022-09-25": 98931,
-  "2022-09-26": 98931,
-  "2022-09-27": 98931,
-  "2022-09-28": 98931,
-  "2022-09-29": 98931,
-  "2022-09-30": 98931,
-  "2022-10-01": 98931,
-  "2022-10-02": 98931,
-  "2022-10-03": 98931,
-  "2022-10-04": 98931,
-  "2022-10-05": 98931,
-  "2022-10-06": 98931,
-  "2022-10-07": 98931,
-  "2022-10-08": 98931,
-  "2022-10-09": 98931,
-  "2022-10-10": 98931,
-  "2022-10-11": 98931,
-  "2022-10-12": 98931,
-  "2022-10-13": 98931,
-  "2022-10-14": 98931,
-  "2022-10-15": 98931,
-  "2022-10-16": 98931,
-  "2022-10-17": 98931,
-  "2022-10-18": 98931,
-  "2022-10-19": 98931,
-  "2022-10-20": 98931,
-  "2022-10-21": 98931,
-  "2022-10-22": 98931,
-  "2022-10-23": 98931,
-  "2022-10-24": 98931,
-  "2022-10-25": 98931,
-  "2022-10-26": 98931,
-  "2022-10-27": 98931,
-  "2022-10-28": 98931,
-  "2022-10-29": 98931,
-  "2022-10-30": 98931,
-  "2022-10-31": 98931,
-  "2022-11-01": 98931,
-  "2022-11-02": 98931,
-  "2022-11-03": 98931,
-  "2022-11-04": 98931,
-  "2022-11-05": 98931,
-  "2022-11-06": 98931,
-  "2022-11-07": 98931,
-  "2022-11-08": 98931,
-  "2022-11-09": 98931,
-  "2022-11-10": 98931,
-  "2022-11-11": 98931,
-  "2022-11-12": 98931,
-  "2022-11-13": 98931,
-  "2022-11-14": 98931,
-  "2022-11-15": 98931,
-  "2022-11-16": 98931,
-  "2022-11-17": 98931,
-  "2022-11-18": 98931,
-  "2022-11-19": 98931,
-  "2022-11-20": 98931,
-  "2022-11-21": 98931,
-  "2022-11-22": 98931,
-  "2022-11-23": 98931,
-  "2022-11-24": 98931,
-  "2022-11-25": 98931,
-  "2022-11-26": 98931,
-  "2022-11-27": 98931,
-  "2022-11-28": 98931,
-  "2022-11-29": 98931,
-  "2022-11-30": 98931,
-  "2022-12-01": 98931,
-  "2022-12-02": 98931,
-  "2022-12-03": 98931,
-  "2022-12-04": 98931,
-  "2022-12-05": 98931,
-  "2022-12-06": 98931,
-  "2022-12-07": 98931,
-  "2022-12-08": 98931,
-  "2022-12-09": 98931,
-  "2022-12-10": 98931,
-  "2022-12-11": 98931,
-  "2022-12-12": 98931,
-  "2022-12-13": 98931,
-  "2022-12-14": 98931,
-  "2022-12-15": 98931,
-  "2022-12-16": 98931,
-  "2022-12-17": 98931,
-  "2022-12-18": 98931,
-  "2022-12-19": 98931,
-  "2022-12-20": 98931,
-  "2022-12-21": 98931,
-  "2022-12-22": 98931,
-  "2022-12-24": 98931,
-  "2022-12-25": 98931,
-  "2022-12-26": 98931,
-  "2022-12-27": 98931,
-  "2022-12-28": 98931,
-  "2022-12-29": 98931,
-  "2022-12-30": 98931,
-  "2022-12-31": 98931,
-  "2023-01-01": 98931,
-  "2023-01-02": 98931,
-  "2023-01-03": 98931,
-  "2023-01-04": 98931,
-  "2023-01-05": 98931,
-  "2023-01-06": 98931,
-  "2023-01-07": 98931,
-  "2023-01-08": 98931,
-  "2023-01-09": 98931,
-  "2023-01-10": 98931,
-  "2023-01-11": 98931,
-  "2023-01-12": 98931,
-  "2023-01-13": 98931,
-  "2023-01-14": 98931,
-  "2023-01-15": 98931,
-  "2023-01-16": 98931,
-  "2023-01-17": 98931,
-  "2023-01-18": 98931,
-  "2023-01-19": 98931,
-  "2023-01-20": 98931,
-  "2023-01-21": 98931,
-  "2023-01-22": 98931,
-  "2023-01-23": 98931,
-  "2023-01-24": 98931,
-  "2023-01-25": 98931,
-  "2023-01-26": 98931,
-  "2023-01-27": 98931,
-  "2023-01-28": 98931,
-  "2023-01-29": 98931,
-  "2023-01-30": 98931,
-  "2023-01-31": 98931,
-  "2023-02-01": 98931,
-  "2023-02-02": 98931,
-  "2023-02-03": 98931,
-  "2023-02-04": 98931,
-  "2023-02-05": 98931,
-  "2023-02-06": 98931,
-  "2023-02-07": 98931,
-  "2023-02-08": 98931,
-  "2023-02-09": 98931,
-  "2023-02-10": 98931,
-  "2023-02-11": 98931,
-  "2023-02-12": 98931,
-  "2023-02-13": 98931,
-  "2023-02-14": 98931,
-  "2023-02-15": 98931,
-  "2023-02-16": 98931,
-  "2023-02-17": 98931,
-  "2023-02-18": 98931,
-  "2023-02-19": 98931,
-  "2023-02-20": 98931,
-  "2023-02-21": 98931,
-  "2023-02-22": 98931,
-  "2023-02-23": 98931,
-  "2023-02-24": 98931,
-  "2023-02-25": 98931,
-  "2023-02-26": 98931,
-  "2023-02-27": 98931,
-  "2023-02-28": 98931,
-  "2023-03-01": 98931,
-  "2023-03-02": 98931,
-  "2023-03-03": 98931,
-  "2023-03-04": 98931,
-  "2023-03-05": 98931,
-  "2023-03-06": 98931,
-  "2023-03-07": 98931,
-  "2023-03-08": 98931,
-  "2023-03-09": 98931,
-  "2023-03-10": 98931,
-  "2023-03-11": 98931,
-  "2023-03-12": 98931,
-  "2023-03-13": 98931,
-  "2023-03-14": 98931,
-  "2023-03-15": 98931,
-  "2023-03-16": 98931,
-  "2023-03-17": 98931,
-  "2023-03-18": 98931,
-  "2023-03-19": 98931,
-  "2023-03-20": 98931,
-  "2023-03-21": 98931,
-  "2023-03-22": 98931,
-  "2023-03-23": 98931,
-  "2023-03-24": 98931,
-  "2023-03-25": 98931,
-  "2023-03-26": 98931,
-  "2023-03-27": 98931,
-  "2023-03-28": 98931,
-  "2023-03-29": 98931,
-  "2023-03-30": 98931,
-  "2023-03-31": 98931,
-  "2023-04-01": 98931,
-  "2023-04-02": 98931,
-  "2023-04-03": 98931,
-  "2023-04-04": 98931,
-  "2023-04-05": 98931,
-  "2023-04-06": 98931,
-  "2023-04-07": 98931,
-  "2023-04-09": 98931,
-  "2023-04-10": 98931,
-  "2023-04-11": 98931,
-  "2023-04-12": 98931,
-  "2023-04-13": 98931,
-  "2023-04-14": 98931,
-  "2023-04-15": 98931,
-  "2023-04-16": 98931,
-  "2023-04-17": 98931,
-  "2023-04-18": 98931,
-  "2023-04-19": 98931,
-  "2023-04-20": 98931,
-  "2023-04-21": 98931,
-  "2023-04-22": 98931,
-  "2023-04-23": 98931,
-  "2023-04-24": 98931,
-  "2023-04-25": 98931,
-  "2023-04-26": 98931,
-  "2023-04-27": 98931,
-  "2023-04-28": 98931,
-  "2023-04-29": 98931,
-  "2023-04-30": 98931,
-  "2023-05-01": 98931,
-  "2023-05-02": 98931,
-  "2023-05-03": 98931,
-  "2023-05-04": 98931,
-  "2023-05-05": 98931,
-  "2023-05-06": 98931,
-  "2023-05-07": 98931,
-  "2023-05-08": 98931,
-  "2023-05-09": 98931,
-  "2023-05-10": 98931,
-  "2023-05-11": 98931,
-  "2023-05-12": 98931,
-  "2023-05-13": 98931,
-  "2023-05-14": 98931,
-  "2023-05-15": 98931,
-  "2023-05-16": 98931,
-  "2023-05-17": 98931,
-  "2023-05-18": 98931,
-  "2023-05-19": 98931,
-  "2023-05-20": 98931,
-  "2023-05-21": 98931,
-  "2023-05-22": 98931,
-  "2023-05-23": 98931,
-  "2023-05-24": 98931,
-  "2023-05-25": 98931,
-  "2023-05-26": 98931,
-  "2023-05-27": 98931,
-  "2023-05-28": 98931,
-  "2023-05-29": 98931,
-  "2023-05-30": 98931,
-  "2023-05-31": 98931,
-  "2023-06-01": 98931,
-  "2023-06-02": 98931,
-  "2023-06-03": 98931,
-  "2023-06-04": 98931,
-  "2023-06-05": 98931,
-  "2023-06-06": 98931,
-  "2023-06-07": 98931,
-  "2023-06-08": 98931,
-  "2023-06-09": 98931,
-  "2023-06-10": 98931,
-  "2023-06-11": 98931,
-  "2023-06-12": 98931,
-  "2023-06-13": 98931,
-  "2023-06-14": 98931,
-  "2023-06-15": 98931,
-  "2023-06-16": 98931,
-  "2023-06-17": 98931,
-  "2023-06-18": 98931,
-  "2023-06-19": 98931,
-  "2023-06-20": 98931,
-  "2023-06-21": 98931,
-  "2023-06-22": 98931,
-  "2023-06-23": 98931,
-  "2023-06-24": 98931,
-  "2023-06-25": 98931,
-  "2023-06-26": 98931,
-  "2023-06-27": 98931,
-  "2023-06-28": 98931,
-  "2023-06-29": 98931,
-  "2023-06-30": 98931,
-  "2023-07-01": 98931,
-  "2023-07-02": 98931,
-  "2023-07-03": 98931,
-  "2023-07-04": 98931,
-  "2023-07-05": 98931,
-  "2023-07-06": 98931,
-  "2023-07-07": 98931,
-  "2023-07-08": 98931,
-  "2023-07-09": 98931,
-  "2023-07-10": 98931,
-  "2023-07-11": 98931,
-  "2023-07-12": 98931,
-  "2023-07-13": 98931,
-  "2023-07-14": 98931,
-  "2023-07-15": 98931,
-  "2023-07-16": 98931,
-  "2023-07-17": 98931,
-  "2023-07-18": 98931,
-  "2023-07-19": 98931,
-  "2023-07-20": 98931,
-  "2023-07-21": 98931,
-  "2023-07-22": 98931,
-  "2023-07-23": 98931,
-  "2023-07-24": 98931,
-  "2023-07-25": 98931,
-  "2023-07-26": 98931,
-  "2023-07-27": 98931,
-  "2023-07-28": 98931,
-  "2023-07-29": 98931,
-  "2023-07-30": 98931,
-  "2023-07-31": 98931,
-  "2023-08-01": 98931,
-  "2023-08-02": 98931,
-  "2023-08-03": 98931,
-  "2023-08-04": 98931,
-  "2023-08-05": 98931,
-  "2023-08-06": 98931,
-  "2023-08-07": 98931,
-  "2023-08-08": 98931,
-  "2023-08-09": 98931,
-  "2023-08-10": 98931,
-  "2023-08-11": 98931,
-  "2023-08-12": 98931,
-  "2023-08-13": 98931,
-  "2023-08-14": 98931,
-  "2023-08-15": 98931,
-  "2023-08-16": 98931,
-  "2023-08-17": 98931,
-  "2023-08-18": 98931,
-  "2023-08-19": 98931,
-  "2023-08-20": 98931,
-  "2023-08-21": 98931,
-  "2023-08-22": 98931,
-  "2023-08-23": 98931,
-  "2023-08-24": 98931,
-  "2023-08-25": 98931,
-  "2023-08-26": 98931,
-  "2023-08-27": 98931,
-  "2023-08-28": 98931,
-  "2023-08-29": 98931,
-  "2023-08-30": 98931,
-  "2023-08-31": 98931,
-  "2023-09-01": 98931,
-  "2023-09-02": 98931,
-  "2023-09-03": 98931,
-  "2023-09-04": 98931,
-  "2023-09-05": 98931,
-  "2023-09-06": 98931,
-  "2023-09-07": 98931,
-  "2023-09-08": 98931,
-  "2023-09-09": 98931,
-  "2023-09-10": 98931,
-  "2023-09-11": 98931,
-  "2023-09-12": 98931,
-  "2023-09-13": 98931,
-  "2023-09-14": 98931,
-  "2023-09-15": 98931,
-  "2023-09-16": 98931,
-  "2023-09-17": 98931,
-  "2023-09-18": 98931,
-  "2023-09-19": 98931,
-  "2023-09-20": 98931,
-  "2023-09-21": 98931,
-  "2023-09-22": 98931,
-  "2023-09-23": 98931,
-  "2023-09-24": 98931,
-  "2023-09-25": 98931,
-  "2023-09-26": 98931,
-  "2023-09-27": 98931,
-  "2023-09-28": 98931,
-  "2023-09-29": 98931,
-  "2023-09-30": 98931,
-  "2023-10-01": 98931,
-  "2023-10-02": 98931,
-  "2023-10-03": 98931,
-  "2023-10-04": 98931,
-  "2023-10-05": 98931,
-  "2023-10-06": 98931,
-  "2023-10-07": 98931,
-  "2023-10-08": 98931,
-  "2023-10-09": 98931,
-  "2023-10-10": 98931,
-  "2023-10-11": 98931,
-  "2023-10-12": 98931,
-  "2023-10-13": 98931,
-  "2023-10-14": 98931,
-  "2023-10-15": 98931,
-  "2023-10-16": 98931,
-  "2023-10-17": 98931,
-  "2023-10-18": 98931,
-  "2023-10-19": 98931,
-  "2023-10-20": 98931,
-  "2023-10-21": 98931,
-  "2023-10-22": 98931,
-  "2023-10-23": 98931,
-  "2023-10-24": 98931,
-  "2023-10-25": 98931,
-  "2023-10-26": 98931,
-  "2023-10-27": 98931,
-  "2023-10-28": 98931,
-  "2023-10-29": 98931,
-  "2023-10-30": 98931,
-  "2023-10-31": 98931,
-  "2023-11-01": 98931,
-  "2023-11-02": 98931,
-  "2023-11-03": 98931,
-  "2023-11-04": 98931,
-  "2023-11-05": 98931,
-  "2023-11-06": 98931,
-  "2023-11-07": 98931,
-  "2023-11-08": 98931,
-  "2023-11-09": 98931,
-  "2023-11-10": 98931,
-  "2023-11-11": 98931,
-  "2023-11-12": 98931,
-  "2023-11-13": 98931,
-  "2023-11-14": 98931,
-  "2023-11-15": 98931,
-  "2023-11-16": 98931,
-  "2023-11-17": 98931,
-  "2023-11-18": 98931,
-  "2023-11-19": 98931,
-  "2023-11-20": 98931,
-  "2023-11-21": 98931,
-  "2023-11-22": 98931,
-  "2023-11-23": 98931,
-  "2023-11-24": 98931,
-  "2023-11-25": 98931,
-  "2023-11-26": 98931,
-  "2023-11-27": 98931,
-  "2023-11-28": 98931,
-  "2023-11-29": 98931,
-  "2023-11-30": 98931,
-  "2023-12-01": 98931,
-  "2023-12-02": 98931,
-  "2023-12-03": 98931,
-  "2023-12-04": 98931,
-  "2023-12-05": 98931,
-  "2023-12-06": 98931,
-  "2023-12-07": 98931,
-  "2023-12-08": 98931,
-  "2023-12-09": 98931,
-  "2023-12-10": 98931,
-  "2023-12-11": 98931,
-  "2023-12-12": 98931,
-  "2023-12-13": 98931,
-  "2023-12-14": 98931,
-  "2023-12-15": 98931,
-  "2023-12-16": 98931,
-  "2023-12-17": 98931,
-  "2023-12-18": 98931,
-  "2023-12-19": 98931,
-  "2023-12-20": 98931,
-  "2023-12-21": 98931,
-  "2023-12-22": 98931,
-  "2023-12-23": 98931,
-  "2023-12-24": 98931,
-  "2023-12-25": 98931,
-  "2023-12-26": 98931,
-  "2023-12-27": 98931,
-  "2023-12-30": 98931,
-  "2023-12-31": 98931,
-  "2024-01-01": 98931,
-  "2024-01-02": 98931,
-  "2024-01-03": 98931
+  "2024-01-17": 98931,
+  "date_first_scraped": "2021-12-28",
+  "description": "Check out the latest album, Snow, as well as the best moments from Sydney's brother-and-sister <a href=\"spotify:artist:4tvKz56Tr39bkhcQUTO0Xr\">duo</a>.",
+  "name": "This Is Angus & Julia Stone",
+  "tracks": [
+    {
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256148,
+      "name": "A Heartbreak",
+      "url": "https://open.spotify.com/track/1QzaKWvpc9zASSiMM6ZTSc"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326413,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0H7oDJUSnQvsS74s5yRpTa"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249893,
+      "name": "And The Boys",
+      "url": "https://open.spotify.com/track/6HIElrRO0GdlFZB54iVyiI"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301160,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/1BLwpqlb8Mc4SYenlLAKX5"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254160,
+      "name": "Baudelaire",
+      "url": "https://open.spotify.com/track/1NLeCSzUlgmbl033nZgUFb"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248724,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5QYvnqvnZEQRUx4MgoxYj3"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
+    },
+    {
+      "album": {
+        "name": "Broken Brights",
+        "url": "https://open.spotify.com/album/4nDejsn0XbIfKZEnEZDhAS"
+      },
+      "artists": [
+        {
+          "name": "Angus Stone",
+          "url": "https://open.spotify.com/artist/4TBZbclpBnXENejnt0ZIpr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349746,
+      "name": "Bird On The Buffalo",
+      "url": "https://open.spotify.com/track/3ENEU4jkYLbsnTr51dGcfs"
+    },
+    {
+      "album": {
+        "name": "By The Horns",
+        "url": "https://open.spotify.com/album/2punzC4V0valeMW4EDisGE"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310839,
+      "name": "Bloodbuzz Ohio",
+      "url": "https://open.spotify.com/track/3ZEEONdSSnKYFdCCDicsqn"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238146,
+      "name": "Bloodhound",
+      "url": "https://open.spotify.com/track/6Z8IR0Qm4DxcUXkvhoSOCf"
+    },
+    {
+      "album": {
+        "name": "Broken Brights",
+        "url": "https://open.spotify.com/album/4nDejsn0XbIfKZEnEZDhAS"
+      },
+      "artists": [
+        {
+          "name": "Angus Stone",
+          "url": "https://open.spotify.com/artist/4TBZbclpBnXENejnt0ZIpr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "Broken Brights",
+      "url": "https://open.spotify.com/track/1Y9HTIfs6uO0KAbEkz8qew"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281266,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2yP5Vk1oUiBeXlSqLq9czN"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "For What It's Worth (feat. Angus & Julia Stone)",
+      "url": "https://open.spotify.com/track/6HsbMH5Bgkp4QgAp7MVZ8z"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319986,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/6fu6jAhWszU9lFYQevOsmQ"
+    },
+    {
+      "album": {
+        "name": "He Will Have His Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/6aiKwTrXj3GqBPFdtI1PpR"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        },
+        {
+          "name": "Angus Stone",
+          "url": "https://open.spotify.com/artist/4TBZbclpBnXENejnt0ZIpr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Four Seasons In One Day",
+      "url": "https://open.spotify.com/track/6QriYDObfGA8jO3NUcgWvP"
+    },
+    {
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271732,
+      "name": "Get Home",
+      "url": "https://open.spotify.com/track/50GnUk9cneFUL8heB2Jknb"
+    },
+    {
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL"
+    },
+    {
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275716,
+      "name": "Heart Beats Slow",
+      "url": "https://open.spotify.com/track/7nC7ci2Q3K4PaWS9g38Kss"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157951,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/1xTFVKEVtInuDEsJGQGT9I"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2kHN04RJM5fBvE8kkGh4fc"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273476,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/3aIaAYeBKIjaG9Q05VdT5U"
+    },
+    {
+      "album": {
+        "name": "I Was Only 19 (Live From 'The People Speak')",
+        "url": "https://open.spotify.com/album/11J6gsbJTSt8Oi3M09rey3"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "I Was Only 19 (Live From 'The People Speak')",
+      "url": "https://open.spotify.com/track/1dYGSsernyg8N0bMRgtO9Y"
+    },
+    {
+      "album": {
+        "name": "The Beast",
+        "url": "https://open.spotify.com/album/22sfcYSVtIy05lOCJamYXF"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2y1JfvaILm35TvATesRyMJ"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1heRfhlytdZ5y43Z1EmM4z"
+      },
+      "artists": [
+        {
+          "name": "Angus Stone",
+          "url": "https://open.spotify.com/artist/4TBZbclpBnXENejnt0ZIpr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "In the Glow",
+      "url": "https://open.spotify.com/track/3uCJIbnHyry28BhWwCqtPB"
+    },
+    {
+      "album": {
+        "name": "By The Horns",
+        "url": "https://open.spotify.com/album/2punzC4V0valeMW4EDisGE"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234002,
+      "name": "It's All Okay",
+      "url": "https://open.spotify.com/track/687qHVEeKTXIAsetCOwKJ6"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/5HC8WkLOJBYzv51EVoYbar"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Johnny & June - Angus' Version Of Hollywood",
+      "url": "https://open.spotify.com/track/1MbmTissQJQgVj12x4JtL1"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239378,
+      "name": "Just A Boy",
+      "url": "https://open.spotify.com/track/2EH1kCtF7nxfhaVDhrcYUo"
+    },
+    {
+      "album": {
+        "name": "By The Horns",
+        "url": "https://open.spotify.com/album/2punzC4V0valeMW4EDisGE"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214158,
+      "name": "Let's Forget All The Things That We Say",
+      "url": "https://open.spotify.com/track/2nAbnDRTlIbKy8U5y0S66N"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7mqdOMKqK4XcILuX8JYLv4"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/3KOvkNwe3m9OLwJWVgJl03"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288282,
+      "name": "Living On A Rainbow",
+      "url": "https://open.spotify.com/track/5ZVTxpaQ7PNbizvVNmk5PX"
+    },
+    {
+      "album": {
+        "name": "Just A Boy",
+        "url": "https://open.spotify.com/album/5cv9M9dFlLD3VJNT0JqAwV"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "Lonely Goat",
+      "url": "https://open.spotify.com/track/3UfOVu1CXUqKlb3opG0aGj"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "Lonely Hands - Julia's Version Of Just A Boy",
+      "url": "https://open.spotify.com/track/73P5by1r1Yl5kD1NVE5gGu"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Enbbg8VUylJt0X6VJS99V"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Love Will Take You",
+      "url": "https://open.spotify.com/track/4Kh0kLj0LUZvDeJN9T8cqk"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/080ojNNBYNTTlMp0xuOLpW"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225106,
+      "name": "Mango Tree",
+      "url": "https://open.spotify.com/track/0IGUZLfbNPrR5TFht2zBY6"
+    },
+    {
+      "album": {
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/1KowQyQwYDjQmh3Tt1hGxX"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237961,
+      "name": "Marinade",
+      "url": "https://open.spotify.com/track/6hEgxs180paMoUGrHQKarf"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282840,
+      "name": "My House Your House",
+      "url": "https://open.spotify.com/track/6KwJVfwX4Xoh2ySQebAvj9"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/4bO1ldlM0GrVbsiRZPZAAU"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Oakwood",
+      "url": "https://open.spotify.com/track/1IhNPITohas31W2uIhnR3r"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Paper Aeroplane",
+      "url": "https://open.spotify.com/track/2kzOzFR61orwLEIIgFwspG"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Private Lawns",
+      "url": "https://open.spotify.com/track/4xHrtDz03NaRCRkY6IDcHm"
+    },
+    {
+      "album": {
+        "name": "Just A Boy",
+        "url": "https://open.spotify.com/album/5cv9M9dFlLD3VJNT0JqAwV"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307813,
+      "name": "Red Berries",
+      "url": "https://open.spotify.com/track/3x2bCNzHzAHOcnBCLSAtfj"
+    },
+    {
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1kpbM1hlD3sQ2rDKbe2guE"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330200,
+      "name": "Santa Monica Dream",
+      "url": "https://open.spotify.com/track/2SAr2lP8GwNYcJvbAVTKxi"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300929,
+      "name": "Silver Coin",
+      "url": "https://open.spotify.com/track/6nxA5B6ukQIDJl94foBoL4"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Sleep Alone",
+      "url": "https://open.spotify.com/track/78cA8vu7yxsdr3uHmtcPFb"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252160,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/6GrXHVLIqFXdaXDzez5QDG"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/42E6z1hdry0FglTnZ1lLNn"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174368,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2dabJx1a1TLOSykXs1hXHa"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Sylvester Stallone",
+      "url": "https://open.spotify.com/track/0Raoe39eotMW2HLCJNubXF"
+    },
+    {
+      "album": {
+        "name": "Memories Of An Old Friend",
+        "url": "https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Take You Away",
+      "url": "https://open.spotify.com/track/34kn0WjxWYaOmi6xnVBWgi"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232263,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/0iqS89ddiD7vXNHr0s1ESk"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283367,
+      "name": "The Devil's Tears",
+      "url": "https://open.spotify.com/track/0gXrsjK7Gma5nEHYyMKznP"
+    },
+    {
+      "album": {
+        "name": "The Waiting City (OST)",
+        "url": "https://open.spotify.com/album/5yDQyG9TsC4ScMY01lOd06"
+      },
+      "artists": [
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208702,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/6trvIBKmx64nkKs2KrWgx4"
+    },
+    {
+      "album": {
+        "name": "Honey Bones",
+        "url": "https://open.spotify.com/album/1KowQyQwYDjQmh3Tt1hGxX"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "Uptown Folks",
+      "url": "https://open.spotify.com/track/2SFt8V7OKKyMpsToNXTd8j"
+    },
+    {
+      "album": {
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/25xEMKamYFIMjqdZHYyrL3"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227264,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4I8SjAgSnLZ4ZS606OOj2K"
+    },
+    {
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/5jc0NXBIwO2PGRUmcoPAPe"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411093,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/7ILVlOJHKRLA128jVjbSN1"
+    },
+    {
+      "album": {
+        "name": "Wolfie / Funeral",
+        "url": "https://open.spotify.com/album/5V471qxWMqGr8JnKIefaNJ"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Wolfie (feat. Julia Stone)",
+      "url": "https://open.spotify.com/track/6rKmnzp0nUpHvjLK7FXSnP"
+    },
+    {
+      "album": {
+        "name": "Broken Brights",
+        "url": "https://open.spotify.com/album/4nDejsn0XbIfKZEnEZDhAS"
+      },
+      "artists": [
+        {
+          "name": "Angus Stone",
+          "url": "https://open.spotify.com/artist/4TBZbclpBnXENejnt0ZIpr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Wooden Chair",
+      "url": "https://open.spotify.com/track/4kYcc0KecUUCV1c7kWSHht"
+    },
+    {
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456800,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/2F8vS39WACXMVEapj9ad7n"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0hImzzXX6Mw"
 }

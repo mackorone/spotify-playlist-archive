@@ -1,735 +1,1125 @@
 {
-  "2021-12-25": 761936,
-  "2021-12-26": 762112,
-  "2021-12-27": 762469,
-  "2021-12-28": 762470,
-  "2021-12-29": 762647,
-  "2021-12-30": 762840,
-  "2021-12-31": 763095,
-  "2022-01-01": 763522,
-  "2022-01-02": 763594,
-  "2022-01-03": 763756,
-  "2022-01-04": 763973,
-  "2022-01-05": 764148,
-  "2022-01-06": 764319,
-  "2022-01-07": 764482,
-  "2022-01-08": 764882,
-  "2022-01-09": 764888,
-  "2022-01-10": 765051,
-  "2022-01-11": 765105,
-  "2022-01-12": 765162,
-  "2022-01-13": 765162,
-  "2022-01-14": 765162,
-  "2022-01-15": 765162,
-  "2022-01-16": 765162,
-  "2022-01-17": 765162,
-  "2022-01-18": 765162,
-  "2022-01-19": 765162,
-  "2022-01-20": 765162,
-  "2022-01-21": 765162,
-  "2022-01-22": 765162,
-  "2022-01-23": 765065,
-  "2022-01-24": 765324,
-  "2022-01-25": 153807,
-  "2022-01-26": 764825,
-  "2022-01-27": 765436,
-  "2022-01-28": 765700,
-  "2022-01-29": 765979,
-  "2022-01-30": 766205,
-  "2022-01-31": 766421,
-  "2022-02-01": 766616,
-  "2022-02-02": 766797,
-  "2022-02-03": 766989,
-  "2022-02-04": 767168,
-  "2022-02-05": 767374,
-  "2022-02-06": 767609,
-  "2022-02-07": 767793,
-  "2022-02-08": 767965,
-  "2022-02-09": 768152,
-  "2022-02-10": 768382,
-  "2022-02-11": 768626,
-  "2022-02-12": 768852,
-  "2022-02-13": 769100,
-  "2022-02-14": 769327,
-  "2022-02-15": 769529,
-  "2022-02-16": 769745,
-  "2022-02-17": 769974,
-  "2022-02-18": 770275,
-  "2022-02-19": 770705,
-  "2022-02-20": 771234,
-  "2022-02-21": 771675,
-  "2022-02-22": 772034,
-  "2022-02-23": 773016,
-  "2022-02-24": 775649,
-  "2022-02-25": 776490,
-  "2022-02-26": 777228,
-  "2022-02-27": 778087,
-  "2022-02-28": 778087,
-  "2022-03-01": 778406,
-  "2022-03-02": 778732,
-  "2022-03-03": 779128,
-  "2022-03-04": 779480,
-  "2022-03-05": 779834,
-  "2022-03-06": 780189,
-  "2022-03-07": 780507,
-  "2022-03-08": 780831,
-  "2022-03-09": 781159,
-  "2022-03-10": 781530,
-  "2022-03-11": 781893,
-  "2022-03-12": 782215,
-  "2022-03-13": 782610,
-  "2022-03-14": 782878,
-  "2022-03-15": 783150,
-  "2022-03-16": 783468,
-  "2022-03-17": 783784,
-  "2022-03-18": 784302,
-  "2022-03-19": 784580,
-  "2022-03-20": 784580,
-  "2022-03-21": 785269,
-  "2022-03-22": 785517,
-  "2022-03-23": 785793,
-  "2022-03-24": 786075,
-  "2022-03-25": 786366,
-  "2022-03-26": 786678,
-  "2022-03-27": 786988,
-  "2022-03-28": 787237,
-  "2022-03-30": 787665,
-  "2022-03-31": 787935,
-  "2022-04-01": 788216,
-  "2022-04-02": 788463,
-  "2022-04-03": 788729,
-  "2022-04-04": 788983,
-  "2022-04-05": 789231,
-  "2022-04-06": 789492,
-  "2022-04-07": 789783,
-  "2022-04-08": 790093,
-  "2022-04-09": 790359,
-  "2022-04-10": 790901,
-  "2022-04-11": 791160,
-  "2022-04-12": 791193,
-  "2022-04-13": 791462,
-  "2022-04-14": 791752,
-  "2022-04-15": 792066,
-  "2022-04-16": 792390,
-  "2022-04-17": 792692,
-  "2022-04-18": 793020,
-  "2022-04-19": 793245,
-  "2022-04-20": 793516,
-  "2022-04-21": 793769,
-  "2022-04-22": 794013,
-  "2022-04-23": 794304,
-  "2022-04-24": 794600,
-  "2022-04-25": 794842,
-  "2022-04-26": 795054,
-  "2022-04-27": 795354,
-  "2022-04-28": 795629,
-  "2022-04-29": 796034,
-  "2022-04-30": 796341,
-  "2022-05-01": 796629,
-  "2022-05-02": 796629,
-  "2022-05-03": 796872,
-  "2022-05-04": 797068,
-  "2022-05-05": 797290,
-  "2022-05-06": 797532,
-  "2022-05-07": 797870,
-  "2022-05-08": 798209,
-  "2022-05-09": 798256,
-  "2022-05-10": 798462,
-  "2022-05-11": 798656,
-  "2022-05-12": 798883,
-  "2022-05-13": 799124,
-  "2022-05-14": 799371,
-  "2022-05-15": 799624,
-  "2022-05-16": 799834,
-  "2022-05-17": 800043,
-  "2022-05-18": 800301,
-  "2022-05-19": 800565,
-  "2022-05-20": 800837,
-  "2022-05-21": 801290,
-  "2022-05-22": 801290,
-  "2022-05-23": 801461,
-  "2022-05-24": 801680,
-  "2022-05-25": 801889,
-  "2022-05-26": 802044,
-  "2022-05-27": 802248,
-  "2022-05-28": 802457,
-  "2022-05-29": 802708,
-  "2022-05-30": 802906,
-  "2022-05-31": 803083,
-  "2022-06-01": 803536,
-  "2022-06-02": 803562,
-  "2022-06-03": 803762,
-  "2022-06-04": 803966,
-  "2022-06-05": 804193,
-  "2022-06-06": 804413,
-  "2022-06-07": 804595,
-  "2022-06-08": 804877,
-  "2022-06-09": 805034,
-  "2022-06-10": 805236,
-  "2022-06-11": 805473,
-  "2022-06-12": 805697,
-  "2022-06-13": 805876,
-  "2022-06-14": 806071,
-  "2022-06-15": 806306,
-  "2022-06-16": 806537,
-  "2022-06-17": 806750,
-  "2022-06-18": 806975,
-  "2022-06-19": 807428,
-  "2022-06-20": 807428,
-  "2022-06-21": 807559,
-  "2022-06-22": 807964,
-  "2022-06-23": 807964,
-  "2022-06-24": 808180,
-  "2022-06-25": 808443,
-  "2022-06-26": 808669,
-  "2022-06-27": 808854,
-  "2022-06-28": 809026,
-  "2022-06-29": 809235,
-  "2022-06-30": 809411,
-  "2022-07-01": 809637,
-  "2022-07-02": 809784,
-  "2022-07-03": 809987,
-  "2022-07-04": 810163,
-  "2022-07-05": 810337,
-  "2022-07-06": 810517,
-  "2022-07-07": 810690,
-  "2022-07-08": 810872,
-  "2022-07-09": 811117,
-  "2022-07-10": 811305,
-  "2022-07-11": 811480,
-  "2022-07-12": 811655,
-  "2022-07-13": 811843,
-  "2022-07-14": 812012,
-  "2022-07-15": 812198,
-  "2022-07-16": 812413,
-  "2022-07-17": 812634,
-  "2022-07-18": 812817,
-  "2022-07-19": 813026,
-  "2022-07-20": 813210,
-  "2022-07-21": 813400,
-  "2022-07-22": 813592,
-  "2022-07-23": 813783,
-  "2022-07-24": 813995,
-  "2022-07-25": 814176,
-  "2022-07-26": 814351,
-  "2022-07-27": 814541,
-  "2022-07-28": 814748,
-  "2022-07-29": 814946,
-  "2022-07-30": 815382,
-  "2022-07-31": 815382,
-  "2022-08-01": 815574,
-  "2022-08-02": 815914,
-  "2022-08-03": 815914,
-  "2022-08-04": 816071,
-  "2022-08-05": 816268,
-  "2022-08-06": 816510,
-  "2022-08-07": 816763,
-  "2022-08-08": 816951,
-  "2022-08-09": 817128,
-  "2022-08-10": 817322,
-  "2022-08-11": 817479,
-  "2022-08-12": 817689,
-  "2022-08-13": 817958,
-  "2022-08-14": 818206,
-  "2022-08-15": 818409,
-  "2022-08-16": 818591,
-  "2022-08-17": 818780,
-  "2022-08-18": 818958,
-  "2022-08-19": 819177,
-  "2022-08-20": 819385,
-  "2022-08-21": 819587,
-  "2022-08-22": 819781,
-  "2022-08-23": 819991,
-  "2022-08-24": 820205,
-  "2022-08-25": 820442,
-  "2022-08-26": 820663,
-  "2022-08-27": 820860,
-  "2022-08-28": 821063,
-  "2022-08-29": 821239,
-  "2022-08-30": 821091,
-  "2022-08-31": 820645,
-  "2022-09-01": 820157,
-  "2022-09-02": 820375,
-  "2022-09-03": 819922,
-  "2022-09-04": 819032,
-  "2022-09-05": 818605,
-  "2022-09-06": 818763,
-  "2022-09-07": 818942,
-  "2022-09-09": 819309,
-  "2022-09-10": 819505,
-  "2022-09-11": 819743,
-  "2022-09-12": 819931,
-  "2022-09-13": 820101,
-  "2022-09-15": 820429,
-  "2022-09-16": 820616,
-  "2022-09-17": 820802,
-  "2022-09-18": 821008,
-  "2022-09-19": 821182,
-  "2022-09-20": 821310,
-  "2022-09-21": 821493,
-  "2022-09-22": 821693,
-  "2022-09-23": 821946,
-  "2022-09-24": 822185,
-  "2022-09-25": 822353,
-  "2022-09-26": 822558,
-  "2022-09-27": 822773,
-  "2022-09-28": 822984,
-  "2022-09-29": 823181,
-  "2022-09-30": 823360,
-  "2022-10-01": 823537,
-  "2022-10-02": 823738,
-  "2022-10-03": 823928,
-  "2022-10-04": 824114,
-  "2022-10-05": 824281,
-  "2022-10-06": 824486,
-  "2022-10-07": 824691,
-  "2022-10-08": 824904,
-  "2022-10-09": 825227,
-  "2022-10-10": 825255,
-  "2022-10-11": 825423,
-  "2022-10-12": 825615,
-  "2022-10-13": 825791,
-  "2022-10-14": 825985,
-  "2022-10-15": 826235,
-  "2022-10-16": 826419,
-  "2022-10-17": 826596,
-  "2022-10-18": 826826,
-  "2022-10-19": 827049,
-  "2022-10-20": 827246,
-  "2022-10-21": 827439,
-  "2022-10-22": 827649,
-  "2022-10-23": 827885,
-  "2022-10-24": 828124,
-  "2022-10-25": 828284,
-  "2022-10-26": 828484,
-  "2022-10-27": 828677,
-  "2022-10-28": 828889,
-  "2022-10-29": 829109,
-  "2022-10-30": 829321,
-  "2022-10-31": 829522,
-  "2022-11-01": 829682,
-  "2022-11-02": 829893,
-  "2022-11-03": 830054,
-  "2022-11-04": 830212,
-  "2022-11-05": 830492,
-  "2022-11-06": 830723,
-  "2022-11-07": 830933,
-  "2022-11-08": 831127,
-  "2022-11-09": 831347,
-  "2022-11-10": 831581,
-  "2022-11-11": 831822,
-  "2022-11-12": 832098,
-  "2022-11-13": 832284,
-  "2022-11-14": 832459,
-  "2022-11-15": 832632,
-  "2022-11-16": 832847,
-  "2022-11-17": 833078,
-  "2022-11-18": 833098,
-  "2022-11-19": 832960,
-  "2022-11-20": 832987,
-  "2022-11-21": 833210,
-  "2022-11-22": 833730,
-  "2022-11-23": 833627,
-  "2022-11-24": 834052,
-  "2022-11-25": 834518,
-  "2022-11-26": 834876,
-  "2022-11-27": 835136,
-  "2022-11-28": 835344,
-  "2022-11-29": 835532,
-  "2022-11-30": 835704,
-  "2022-12-01": 835926,
-  "2022-12-02": 836158,
-  "2022-12-03": 836330,
-  "2022-12-04": 836508,
-  "2022-12-05": 836719,
-  "2022-12-06": 836901,
-  "2022-12-07": 837075,
-  "2022-12-08": 837280,
-  "2022-12-09": 837482,
-  "2022-12-10": 837688,
-  "2022-12-11": 837911,
-  "2022-12-12": 838097,
-  "2022-12-13": 838286,
-  "2022-12-14": 838479,
-  "2022-12-15": 838673,
-  "2022-12-16": 838903,
-  "2022-12-17": 839088,
-  "2022-12-18": 839308,
-  "2022-12-19": 839436,
-  "2022-12-20": 839840,
-  "2022-12-21": 839840,
-  "2022-12-22": 840115,
-  "2022-12-24": 840582,
-  "2022-12-25": 840822,
-  "2022-12-26": 840973,
-  "2022-12-27": 841181,
-  "2022-12-28": 841388,
-  "2022-12-29": 841605,
-  "2022-12-30": 841844,
-  "2022-12-31": 842168,
-  "2023-01-01": 842475,
-  "2023-01-02": 842690,
-  "2023-01-03": 842944,
-  "2023-01-04": 843160,
-  "2023-01-05": 843398,
-  "2023-01-06": 843746,
-  "2023-01-07": 844186,
-  "2023-01-08": 844258,
-  "2023-01-09": 844496,
-  "2023-01-10": 844745,
-  "2023-01-11": 844925,
-  "2023-01-12": 845131,
-  "2023-01-13": 845430,
-  "2023-01-14": 846035,
-  "2023-01-15": 846126,
-  "2023-01-16": 846353,
-  "2023-01-17": 846637,
-  "2023-01-18": 846923,
-  "2023-01-19": 847207,
-  "2023-01-20": 847505,
-  "2023-01-21": 847802,
-  "2023-01-22": 848108,
-  "2023-01-23": 848358,
-  "2023-01-24": 848627,
-  "2023-01-25": 848932,
-  "2023-01-26": 849266,
-  "2023-01-27": 849616,
-  "2023-01-28": 849935,
-  "2023-01-29": 850253,
-  "2023-01-30": 850531,
-  "2023-01-31": 850531,
-  "2023-02-01": 851076,
-  "2023-02-02": 851361,
-  "2023-02-03": 851651,
-  "2023-02-04": 851915,
-  "2023-02-05": 852224,
-  "2023-02-06": 852467,
-  "2023-02-07": 852686,
-  "2023-02-08": 853202,
-  "2023-02-09": 853202,
-  "2023-02-10": 853494,
-  "2023-02-11": 853766,
-  "2023-02-12": 854254,
-  "2023-02-13": 854509,
-  "2023-02-14": 854509,
-  "2023-02-15": 854716,
-  "2023-02-16": 854965,
-  "2023-02-17": 855196,
-  "2023-02-18": 855743,
-  "2023-02-19": 855785,
-  "2023-02-20": 855996,
-  "2023-02-21": 856259,
-  "2023-02-22": 856521,
-  "2023-02-23": 856871,
-  "2023-02-24": 857273,
-  "2023-02-25": 857745,
-  "2023-02-26": 858000,
-  "2023-02-27": 858677,
-  "2023-02-28": 858677,
-  "2023-03-01": 859022,
-  "2023-03-02": 859366,
-  "2023-03-03": 859753,
-  "2023-03-04": 860062,
-  "2023-03-05": 860659,
-  "2023-03-06": 860659,
-  "2023-03-07": 860949,
-  "2023-03-08": 861235,
-  "2023-03-09": 861496,
-  "2023-03-10": 861772,
-  "2023-03-11": 862076,
-  "2023-03-12": 862374,
-  "2023-03-13": 862613,
-  "2023-03-14": 862843,
-  "2023-03-15": 863071,
-  "2023-03-16": 863308,
-  "2023-03-17": 863308,
-  "2023-03-18": 863870,
-  "2023-03-19": 864147,
-  "2023-03-20": 864376,
-  "2023-03-21": 864580,
-  "2023-03-22": 864810,
-  "2023-03-23": 865108,
-  "2023-03-24": 865108,
-  "2023-03-25": 865696,
-  "2023-03-26": 866011,
-  "2023-03-27": 866258,
-  "2023-03-28": 866468,
-  "2023-03-29": 866790,
-  "2023-03-30": 867216,
-  "2023-03-31": 867216,
-  "2023-04-01": 867448,
-  "2023-04-02": 867677,
-  "2023-04-03": 867907,
-  "2023-04-04": 868129,
-  "2023-04-05": 868398,
-  "2023-04-06": 868676,
-  "2023-04-07": 869006,
-  "2023-04-09": 869534,
-  "2023-04-10": 869745,
-  "2023-04-11": 870262,
-  "2023-04-12": 870262,
-  "2023-04-13": 870504,
-  "2023-04-14": 870735,
-  "2023-04-15": 870987,
-  "2023-04-16": 871273,
-  "2023-04-17": 871488,
-  "2023-04-18": 871706,
-  "2023-04-19": 871943,
-  "2023-04-20": 872191,
-  "2023-04-21": 872510,
-  "2023-04-22": 872789,
-  "2023-04-23": 873039,
-  "2023-04-24": 873237,
-  "2023-04-25": 873444,
-  "2023-04-26": 873723,
-  "2023-04-27": 873994,
-  "2023-04-28": 874239,
-  "2023-04-29": 874483,
-  "2023-04-30": 874772,
-  "2023-05-01": 874957,
-  "2023-05-02": 875159,
-  "2023-05-03": 875327,
-  "2023-05-04": 875536,
-  "2023-05-05": 875753,
-  "2023-05-06": 876235,
-  "2023-05-07": 876675,
-  "2023-05-08": 877000,
-  "2023-05-09": 877319,
-  "2023-05-10": 877597,
-  "2023-05-11": 877879,
-  "2023-05-12": 878273,
-  "2023-05-13": 878947,
-  "2023-05-14": 879383,
-  "2023-05-15": 879777,
-  "2023-05-16": 880143,
-  "2023-05-17": 880533,
-  "2023-05-18": 880949,
-  "2023-05-19": 881344,
-  "2023-05-20": 882112,
-  "2023-05-21": 882112,
-  "2023-05-22": 882112,
-  "2023-05-23": 882630,
-  "2023-05-24": 883153,
-  "2023-05-25": 883224,
-  "2023-05-26": 883485,
-  "2023-05-27": 883763,
-  "2023-05-28": 884064,
-  "2023-05-29": 884064,
-  "2023-05-30": 884553,
-  "2023-05-31": 884802,
-  "2023-06-01": 885057,
-  "2023-06-02": 885334,
-  "2023-06-03": 885669,
-  "2023-06-04": 886004,
-  "2023-06-05": 886267,
-  "2023-06-06": 886524,
-  "2023-06-07": 886818,
-  "2023-06-08": 887118,
-  "2023-06-09": 887365,
-  "2023-06-10": 887710,
-  "2023-06-11": 887976,
-  "2023-06-12": 888208,
-  "2023-06-13": 888495,
-  "2023-06-14": 888614,
-  "2023-06-15": 888755,
-  "2023-06-16": 179721,
-  "2023-06-17": 179721,
-  "2023-06-18": 179721,
-  "2023-06-19": 179721,
-  "2023-06-20": 179721,
-  "2023-06-21": 179721,
-  "2023-06-22": 179721,
-  "2023-06-23": 179721,
-  "2023-06-24": 179721,
-  "2023-06-25": 179721,
-  "2023-06-26": 179721,
-  "2023-06-27": 179721,
-  "2023-06-28": 179721,
-  "2023-06-29": 179721,
-  "2023-06-30": 179721,
-  "2023-07-01": 179721,
-  "2023-07-02": 179721,
-  "2023-07-03": 179721,
-  "2023-07-04": 179721,
-  "2023-07-05": 179721,
-  "2023-07-06": 179721,
-  "2023-07-07": 179721,
-  "2023-07-08": 179721,
-  "2023-07-09": 179721,
-  "2023-07-10": 179721,
-  "2023-07-11": 179721,
-  "2023-07-12": 179721,
-  "2023-07-13": 179721,
-  "2023-07-14": 179721,
-  "2023-07-15": 179721,
-  "2023-07-16": 179721,
-  "2023-07-17": 179721,
-  "2023-07-18": 179721,
-  "2023-07-19": 179721,
-  "2023-07-20": 179721,
-  "2023-07-21": 179721,
-  "2023-07-22": 179721,
-  "2023-07-23": 179721,
-  "2023-07-24": 179721,
-  "2023-07-25": 179721,
-  "2023-07-26": 179721,
-  "2023-07-27": 179721,
-  "2023-07-28": 179721,
-  "2023-07-29": 179721,
-  "2023-07-30": 179721,
-  "2023-07-31": 179721,
-  "2023-08-01": 179721,
-  "2023-08-02": 179721,
-  "2023-08-03": 179721,
-  "2023-08-04": 179721,
-  "2023-08-05": 179721,
-  "2023-08-06": 179721,
-  "2023-08-07": 179721,
-  "2023-08-08": 179721,
-  "2023-08-09": 179721,
-  "2023-08-10": 179721,
-  "2023-08-11": 179721,
-  "2023-08-12": 179721,
-  "2023-08-13": 179721,
-  "2023-08-14": 179721,
-  "2023-08-15": 179721,
-  "2023-08-16": 179721,
-  "2023-08-17": 179721,
-  "2023-08-18": 179721,
-  "2023-08-19": 179721,
-  "2023-08-20": 179721,
-  "2023-08-21": 179721,
-  "2023-08-22": 179721,
-  "2023-08-23": 179721,
-  "2023-08-24": 179721,
-  "2023-08-25": 179721,
-  "2023-08-26": 179721,
-  "2023-08-27": 179721,
-  "2023-08-28": 179721,
-  "2023-08-29": 179721,
-  "2023-08-30": 179721,
-  "2023-08-31": 179721,
-  "2023-09-01": 179721,
-  "2023-09-02": 179721,
-  "2023-09-03": 179721,
-  "2023-09-04": 179721,
-  "2023-09-05": 179721,
-  "2023-09-06": 179721,
-  "2023-09-07": 179721,
-  "2023-09-08": 179721,
-  "2023-09-09": 179721,
-  "2023-09-10": 179721,
-  "2023-09-11": 179721,
-  "2023-09-12": 179721,
-  "2023-09-13": 179721,
-  "2023-09-14": 179721,
-  "2023-09-15": 179721,
-  "2023-09-16": 179721,
-  "2023-09-17": 179721,
-  "2023-09-18": 179721,
-  "2023-09-19": 179721,
-  "2023-09-20": 179721,
-  "2023-09-21": 179721,
-  "2023-09-22": 179721,
-  "2023-09-23": 179721,
-  "2023-09-24": 179721,
-  "2023-09-25": 179721,
-  "2023-09-26": 179721,
-  "2023-09-27": 179721,
-  "2023-09-28": 179721,
-  "2023-09-29": 179721,
-  "2023-09-30": 179721,
-  "2023-10-01": 179721,
-  "2023-10-02": 179721,
-  "2023-10-03": 179721,
-  "2023-10-04": 179721,
-  "2023-10-05": 179721,
-  "2023-10-06": 179721,
-  "2023-10-07": 179721,
-  "2023-10-08": 179721,
-  "2023-10-09": 179721,
-  "2023-10-10": 179721,
-  "2023-10-11": 179721,
-  "2023-10-12": 179721,
-  "2023-10-13": 179721,
-  "2023-10-14": 179721,
-  "2023-10-15": 179721,
-  "2023-10-16": 179721,
-  "2023-10-17": 179721,
-  "2023-10-18": 179721,
-  "2023-10-19": 179721,
-  "2023-10-20": 179721,
-  "2023-10-21": 179721,
-  "2023-10-22": 179721,
-  "2023-10-23": 179721,
-  "2023-10-24": 179721,
-  "2023-10-25": 179721,
-  "2023-10-26": 179721,
-  "2023-10-27": 179721,
-  "2023-10-28": 179721,
-  "2023-10-29": 179721,
-  "2023-10-30": 179721,
-  "2023-10-31": 179721,
-  "2023-11-01": 179721,
-  "2023-11-02": 179721,
-  "2023-11-03": 179721,
-  "2023-11-04": 179721,
-  "2023-11-05": 179721,
-  "2023-11-06": 179721,
-  "2023-11-07": 179721,
-  "2023-11-08": 179721,
-  "2023-11-09": 179721,
-  "2023-11-10": 179721,
-  "2023-11-11": 179721,
-  "2023-11-12": 179721,
-  "2023-11-13": 179721,
-  "2023-11-14": 179721,
-  "2023-11-15": 179721,
-  "2023-11-16": 179721,
-  "2023-11-17": 179721,
-  "2023-11-18": 179721,
-  "2023-11-19": 179721,
-  "2023-11-20": 179721,
-  "2023-11-21": 179721,
-  "2023-11-22": 179721,
-  "2023-11-23": 179721,
-  "2023-11-24": 179721,
-  "2023-11-25": 179721,
-  "2023-11-26": 179721,
-  "2023-11-27": 179721,
-  "2023-11-28": 179721,
-  "2023-11-29": 179721,
-  "2023-11-30": 179721,
-  "2023-12-01": 179721,
-  "2023-12-02": 179721,
-  "2023-12-03": 179721,
-  "2023-12-04": 179721,
-  "2023-12-05": 179721,
-  "2023-12-06": 179721,
-  "2023-12-07": 179721,
-  "2023-12-08": 179721,
-  "2023-12-09": 179721,
-  "2023-12-10": 179721,
-  "2023-12-11": 179721,
-  "2023-12-12": 179721,
-  "2023-12-13": 179721,
-  "2023-12-14": 179721,
-  "2023-12-15": 179721,
-  "2023-12-16": 179721,
-  "2023-12-17": 179721,
-  "2023-12-18": 179721,
-  "2023-12-19": 179721,
-  "2023-12-20": 179721,
-  "2023-12-21": 179721,
-  "2023-12-22": 179721,
-  "2023-12-23": 179721,
-  "2023-12-24": 179721,
-  "2023-12-25": 179721,
-  "2023-12-26": 179721,
-  "2023-12-27": 179721,
-  "2023-12-30": 179721,
-  "2023-12-31": 179721,
-  "2024-01-01": 179721,
-  "2024-01-02": 179721,
-  "2024-01-03": 179721
+  "2024-01-17": 179721,
+  "date_first_scraped": "2021-12-21",
+  "description": "Celebrated masters of 'French touch', This Is Daft Punk.",
+  "name": "This Is Daft Punk",
+  "tracks": [
+    {
+      "album": {
+        "name": "Daft Club",
+        "url": "https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370986,
+      "name": "Aerodynamic - Daft Punk Remix",
+      "url": "https://open.spotify.com/track/37YWwmlRl1GonSwjRuOiEq"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316253,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1PH5Es89c1cENU8WVuWwbp"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "album": {
+        "name": "Homework (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6JRaPcrT3cMBEmkgSqEPhI"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471453,
+      "name": "Around the World - Mellow Mix",
+      "url": "https://open.spotify.com/track/3MERln0wX0uCa8BRSbSxIz"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290240,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414173,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/6nSOhDfZOulWp0pnEHFrnn"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "album": {
+        "name": "TRON: Legacy",
+        "url": "https://open.spotify.com/album/2GC8kfyiyPjyheUUWyEY8F"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104120,
+      "name": "Derezzed",
+      "url": "https://open.spotify.com/track/5aZCwTIsfqv22p5bewcrgf"
+    },
+    {
+      "album": {
+        "name": "TRON: Legacy",
+        "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104120,
+      "name": "Derezzed - From \"TRON: Legacy\"/Score",
+      "url": "https://open.spotify.com/track/5X4ojuZG2mZ68EcLyBQ1D3"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301373,
+      "name": "Digital Love",
+      "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Doin' it Right (feat. Panda Bear)",
+      "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Face to Face",
+      "url": "https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279773,
+      "name": "Fragments of Time (feat. Todd Edwards)",
+      "url": "https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/78H72MElkOY9cRnaudxZFY"
+    },
+    {
+      "album": {
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544626,
+      "name": "Giorgio by Moroder",
+      "url": "https://open.spotify.com/track/0oks4FnzhNp5QPTZtoet7c"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275386,
+      "name": "Give Life Back to Music",
+      "url": "https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb"
+    },
+    {
+      "album": {
+        "name": "GLBTM (Studio Outtakes)",
+        "url": "https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158790,
+      "name": "GLBTM (Studio Outtakes) [Edit]",
+      "url": "https://open.spotify.com/track/6gLkmtXYQHitabChjGfiqy"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "High Life",
+      "url": "https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"
+    },
+    {
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 319879,
+      "name": "Human After All",
+      "url": "https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319879,
+      "name": "Human After All",
+      "url": "https://open.spotify.com/track/3aByRUC2BVL6Fs1zI723sd"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319879,
+      "name": "Human After All",
+      "url": "https://open.spotify.com/track/3aCKAkMx3yfaj3AO5Gz47e"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/09fggMHib4YkOtwQNXEBII"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/4RepvCWqsP6zBuzvwYibAS"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        },
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+      "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337560,
+      "name": "Instant Crush (feat. Julian Casablancas)",
+      "url": "https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353893,
+      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289680,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/1WnXCfO6oIxG0TbJj29MqR"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289680,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/4ABWPP59ItFKykdaDF09K5"
+    },
+    {
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Scott Grooves",
+          "url": "https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe"
+        },
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        },
+        {
+          "name": "Funkadelic",
+          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "Mothership Reconnection (feat. Parliament/Funkadelic) - (Daft Punk Remix)",
+      "url": "https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t"
+    },
+    {
+      "album": {
+        "name": "Da Funk",
+        "url": "https://open.spotify.com/album/4iPei0ERbLxTwUd888Hv5G"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413600,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/5N3FZ8eZ2mWwSWaJRAGHfS"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "album": {
+        "name": "Daft Club",
+        "url": "https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "Ouverture",
+      "url": "https://open.spotify.com/track/1pyTJdbGVBVvKXC3MtemHA"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335026,
+      "name": "Revolution 909",
+      "url": "https://open.spotify.com/track/5pgZpHqfv4TSomtkfGZGrG"
+    },
+    {
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287720,
+      "name": "Robot Rock",
+      "url": "https://open.spotify.com/track/247OK7W7ke06iripfvHDiw"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287720,
+      "name": "Robot Rock",
+      "url": "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287720,
+      "name": "Robot Rock",
+      "url": "https://open.spotify.com/track/7LL40F6YdZgeiQ6en1c7Lk"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448626,
+      "name": "Rollin' & Scratchin'",
+      "url": "https://open.spotify.com/track/6hgBJPTHoDJyxydmtFWHKf"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Short Circuit",
+      "url": "https://open.spotify.com/track/4npMbTuxrUA3Wd7edACZ2L"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "album": {
+        "name": "Domingo pero ma\u00f1ana es festivo",
+        "url": "https://open.spotify.com/album/22pFfQPkbXknfFGbmVA2HF"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230461,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/3dVIFQ5wpepj4hYv1tdvHc"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4rnl39iMQXOYZcw9J7ml4y"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230466,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7lQqaqZu0vjxzpdATOIsDt"
+    },
+    {
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Teachers",
+      "url": "https://open.spotify.com/track/4ZdjCuiWBv2weLftWPJ72c"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284280,
+      "name": "Technologic",
+      "url": "https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284280,
+      "name": "Technologic",
+      "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322146,
+      "name": "The Game of Love",
+      "url": "https://open.spotify.com/track/3ctALmweZBapfBdFiIVpji"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263240,
+      "name": "The Prime Time of Your Life",
+      "url": "https://open.spotify.com/track/0UZRFYMoz9xmeE2AQUhTDl"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263240,
+      "name": "The Prime Time of Your Life",
+      "url": "https://open.spotify.com/track/2ABpuao3ZbTjP2cSiX9KZc"
+    },
+    {
+      "album": {
+        "name": "TRON: Legacy",
+        "url": "https://open.spotify.com/album/2GC8kfyiyPjyheUUWyEY8F"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95226,
+      "name": "The Son of Flynn",
+      "url": "https://open.spotify.com/track/5JSkyPoYHVT85NSd60PVEz"
+    },
+    {
+      "album": {
+        "name": "TRON: Legacy",
+        "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2022-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95226,
+      "name": "The Son of Flynn - From \"TRON: Legacy\"/Score",
+      "url": "https://open.spotify.com/track/1xPec5BN0Zxv77zrWKq43S"
+    },
+    {
+      "album": {
+        "name": "The Writing of Fragments of Time (feat. Todd Edwards)",
+        "url": "https://open.spotify.com/album/0URgTo9T2POPAXgjqeVHVv"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 497146,
+      "name": "The Writing of Fragments of Time (feat. Todd Edwards)",
+      "url": "https://open.spotify.com/track/4VCDNR9AYxBZuGRfrhvnT4"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600293,
+      "name": "Too Long",
+      "url": "https://open.spotify.com/track/3zMvotMEQK3xvH01vA9wAP"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Paul Williams",
+          "url": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498960,
+      "name": "Touch (feat. Paul Williams)",
+      "url": "https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345186,
+      "name": "Veridis Quo",
+      "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j"
+    },
+    {
+      "album": {
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "Within",
+      "url": "https://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZAkrucRF6Gq"
 }

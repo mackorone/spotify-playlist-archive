@@ -1,298 +1,1203 @@
 {
-  "2023-03-11": 2447,
-  "2023-03-12": 2453,
-  "2023-03-13": 2459,
-  "2023-03-14": 2471,
-  "2023-03-15": 2478,
-  "2023-03-16": 2478,
-  "2023-03-17": 2478,
-  "2023-03-18": 2520,
-  "2023-03-19": 2520,
-  "2023-03-20": 2543,
-  "2023-03-21": 2552,
-  "2023-03-22": 2564,
-  "2023-03-23": 2572,
-  "2023-03-24": 2572,
-  "2023-03-25": 2592,
-  "2023-03-26": 2605,
-  "2023-03-27": 2615,
-  "2023-03-28": 2629,
-  "2023-03-29": 2640,
-  "2023-03-30": 2677,
-  "2023-03-31": 2677,
-  "2023-04-01": 2693,
-  "2023-04-02": 2706,
-  "2023-04-03": 2719,
-  "2023-04-04": 2724,
-  "2023-04-05": 2732,
-  "2023-04-06": 2744,
-  "2023-04-07": 2753,
-  "2023-04-09": 2764,
-  "2023-04-10": 2769,
-  "2023-04-11": 2782,
-  "2023-04-12": 2782,
-  "2023-04-13": 2793,
-  "2023-04-14": 2804,
-  "2023-04-15": 2812,
-  "2023-04-16": 2821,
-  "2023-04-17": 2827,
-  "2023-04-18": 2832,
-  "2023-04-19": 2837,
-  "2023-04-20": 2843,
-  "2023-04-21": 2854,
-  "2023-04-22": 2869,
-  "2023-04-23": 2881,
-  "2023-04-24": 2895,
-  "2023-04-25": 2910,
-  "2023-04-26": 2923,
-  "2023-04-27": 2931,
-  "2023-04-28": 2936,
-  "2023-04-29": 2943,
-  "2023-04-30": 2950,
-  "2023-05-01": 2952,
-  "2023-05-02": 2958,
-  "2023-05-03": 2964,
-  "2023-05-04": 2963,
-  "2023-05-05": 2970,
-  "2023-05-06": 2978,
-  "2023-05-07": 2984,
-  "2023-05-08": 2985,
-  "2023-05-09": 2989,
-  "2023-05-10": 2993,
-  "2023-05-11": 3001,
-  "2023-05-12": 3010,
-  "2023-05-13": 3014,
-  "2023-05-14": 3018,
-  "2023-05-15": 3024,
-  "2023-05-16": 3031,
-  "2023-05-17": 3036,
-  "2023-05-18": 3043,
-  "2023-05-19": 3047,
-  "2023-05-20": 3060,
-  "2023-05-21": 3060,
-  "2023-05-22": 3060,
-  "2023-05-23": 3071,
-  "2023-05-24": 3075,
-  "2023-05-25": 3076,
-  "2023-05-26": 3083,
-  "2023-05-27": 3090,
-  "2023-05-28": 3097,
-  "2023-05-29": 3097,
-  "2023-05-30": 3112,
-  "2023-05-31": 3123,
-  "2023-06-01": 3127,
-  "2023-06-02": 3126,
-  "2023-06-03": 3132,
-  "2023-06-04": 3138,
-  "2023-06-05": 3144,
-  "2023-06-06": 3146,
-  "2023-06-07": 3151,
-  "2023-06-08": 3155,
-  "2023-06-09": 3166,
-  "2023-06-10": 3171,
-  "2023-06-11": 3178,
-  "2023-06-12": 3182,
-  "2023-06-13": 3187,
-  "2023-06-14": 3188,
-  "2023-06-15": 3191,
-  "2023-06-16": 3198,
-  "2023-06-17": 3201,
-  "2023-06-18": 3206,
-  "2023-06-19": 3208,
-  "2023-06-20": 3209,
-  "2023-06-21": 3219,
-  "2023-06-22": 3220,
-  "2023-06-23": 3226,
-  "2023-06-24": 3232,
-  "2023-06-25": 3233,
-  "2023-06-26": 3236,
-  "2023-06-27": 3245,
-  "2023-06-28": 3250,
-  "2023-06-29": 3256,
-  "2023-06-30": 3259,
-  "2023-07-01": 3272,
-  "2023-07-02": 3272,
-  "2023-07-03": 3278,
-  "2023-07-04": 3286,
-  "2023-07-05": 3290,
-  "2023-07-06": 3309,
-  "2023-07-07": 3309,
-  "2023-07-08": 3309,
-  "2023-07-09": 3323,
-  "2023-07-10": 3330,
-  "2023-07-11": 3335,
-  "2023-07-12": 3340,
-  "2023-07-13": 3348,
-  "2023-07-14": 3352,
-  "2023-07-15": 3354,
-  "2023-07-16": 3358,
-  "2023-07-17": 3362,
-  "2023-07-18": 3364,
-  "2023-07-19": 3369,
-  "2023-07-20": 3369,
-  "2023-07-21": 3386,
-  "2023-07-22": 3397,
-  "2023-07-23": 3405,
-  "2023-07-24": 3407,
-  "2023-07-25": 3412,
-  "2023-07-26": 3420,
-  "2023-07-27": 3426,
-  "2023-07-28": 3439,
-  "2023-07-29": 3444,
-  "2023-07-30": 3444,
-  "2023-07-31": 3457,
-  "2023-08-01": 3462,
-  "2023-08-02": 3466,
-  "2023-08-03": 3472,
-  "2023-08-04": 3475,
-  "2023-08-05": 3480,
-  "2023-08-06": 3491,
-  "2023-08-07": 3491,
-  "2023-08-08": 3493,
-  "2023-08-09": 3501,
-  "2023-08-10": 3503,
-  "2023-08-11": 3510,
-  "2023-08-12": 3510,
-  "2023-08-13": 3510,
-  "2023-08-14": 3510,
-  "2023-08-15": 3510,
-  "2023-08-16": 3510,
-  "2023-08-17": 3510,
-  "2023-08-18": 3510,
-  "2023-08-19": 3510,
-  "2023-08-20": 3549,
-  "2023-08-21": 3549,
-  "2023-08-22": 3557,
-  "2023-08-23": 3557,
-  "2023-08-24": 3557,
-  "2023-08-25": 3557,
-  "2023-08-26": 3571,
-  "2023-08-27": 3571,
-  "2023-08-28": 3579,
-  "2023-08-29": 3579,
-  "2023-08-30": 3579,
-  "2023-08-31": 3597,
-  "2023-09-01": 3602,
-  "2023-09-02": 3602,
-  "2023-09-03": 3602,
-  "2023-09-04": 3602,
-  "2023-09-05": 3602,
-  "2023-09-06": 3602,
-  "2023-09-07": 3602,
-  "2023-09-08": 3602,
-  "2023-09-09": 3602,
-  "2023-09-10": 3602,
-  "2023-09-11": 3602,
-  "2023-09-12": 3602,
-  "2023-09-13": 3602,
-  "2023-09-14": 3602,
-  "2023-09-15": 3602,
-  "2023-09-16": 3795,
-  "2023-09-17": 3795,
-  "2023-09-18": 3795,
-  "2023-09-19": 3817,
-  "2023-09-20": 3817,
-  "2023-09-21": 3817,
-  "2023-09-22": 3835,
-  "2023-09-23": 3835,
-  "2023-09-24": 3835,
-  "2023-09-25": 3835,
-  "2023-09-26": 3870,
-  "2023-09-27": 3870,
-  "2023-09-28": 3870,
-  "2023-09-29": 3870,
-  "2023-09-30": 3870,
-  "2023-10-01": 3870,
-  "2023-10-02": 3870,
-  "2023-10-03": 3870,
-  "2023-10-04": 3870,
-  "2023-10-05": 3870,
-  "2023-10-06": 3870,
-  "2023-10-07": 3870,
-  "2023-10-08": 3870,
-  "2023-10-09": 3870,
-  "2023-10-10": 3870,
-  "2023-10-11": 3870,
-  "2023-10-12": 3870,
-  "2023-10-13": 3870,
-  "2023-10-14": 3870,
-  "2023-10-15": 3870,
-  "2023-10-16": 3870,
-  "2023-10-17": 3870,
-  "2023-10-18": 3870,
-  "2023-10-19": 3870,
-  "2023-10-20": 3870,
-  "2023-10-21": 3870,
-  "2023-10-22": 3870,
-  "2023-10-23": 3870,
-  "2023-10-24": 3870,
-  "2023-10-25": 3870,
-  "2023-10-26": 3870,
-  "2023-10-27": 3870,
-  "2023-10-28": 3870,
-  "2023-10-29": 3870,
-  "2023-10-30": 3870,
-  "2023-10-31": 3870,
-  "2023-11-01": 3870,
-  "2023-11-02": 3870,
-  "2023-11-03": 3870,
-  "2023-11-04": 3870,
-  "2023-11-05": 3870,
-  "2023-11-06": 3870,
-  "2023-11-07": 3870,
-  "2023-11-08": 3870,
-  "2023-11-09": 3870,
-  "2023-11-10": 3870,
-  "2023-11-11": 4103,
-  "2023-11-12": 4103,
-  "2023-11-13": 4103,
-  "2023-11-14": 4103,
-  "2023-11-15": 4103,
-  "2023-11-16": 4103,
-  "2023-11-17": 4103,
-  "2023-11-18": 4103,
-  "2023-11-19": 4103,
-  "2023-11-20": 4103,
-  "2023-11-21": 4103,
-  "2023-11-22": 4103,
-  "2023-11-23": 4103,
-  "2023-11-24": 4103,
-  "2023-11-25": 4103,
-  "2023-11-26": 4103,
-  "2023-11-27": 4103,
-  "2023-11-28": 4103,
-  "2023-11-29": 4103,
-  "2023-11-30": 4103,
-  "2023-12-01": 4103,
-  "2023-12-02": 4103,
-  "2023-12-03": 4103,
-  "2023-12-04": 4103,
-  "2023-12-05": 4103,
-  "2023-12-06": 4103,
-  "2023-12-07": 4103,
-  "2023-12-08": 4103,
-  "2023-12-09": 4103,
-  "2023-12-10": 4103,
-  "2023-12-11": 4103,
-  "2023-12-12": 4103,
-  "2023-12-13": 4103,
-  "2023-12-14": 4256,
-  "2023-12-15": 4259,
-  "2023-12-16": 4269,
-  "2023-12-17": 4274,
-  "2023-12-18": 4276,
-  "2023-12-19": 4277,
-  "2023-12-20": 4278,
-  "2023-12-21": 4280,
-  "2023-12-22": 4285,
-  "2023-12-23": 4291,
-  "2023-12-24": 4298,
-  "2023-12-25": 4303,
-  "2023-12-26": 4303,
-  "2023-12-27": 4310,
-  "2023-12-30": 4326,
-  "2023-12-31": 4330,
-  "2024-01-01": 4333,
-  "2024-01-02": 4334,
-  "2024-01-03": 4337
+  "2024-01-17": 4386,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Chiquis. The essential tracks, all in one playlist.",
+  "name": "This Is Chiquis",
+  "tracks": [
+    {
+      "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4yYClOIkFf8IgNNkZUhmax"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "55",
+      "url": "https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "A Lo Menso",
+      "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120120,
+      "name": "A Lo Menso / Quisieran Tener Mi Lugar - En Vivo",
+      "url": "https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Abeja Reina",
+      "url": "https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj"
+    },
+    {
+      "album": {
+        "name": "Amandote (Mariachi)",
+        "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181521,
+      "name": "Amandote - Mariachi",
+      "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 249200,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2Jba4ttLKDiYBW3zqFIHXK"
+    },
+    {
+      "album": {
+        "name": "An\u00edmate Y Ver\u00e1s",
+        "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144226,
+      "name": "An\u00edmate Y Ver\u00e1s",
+      "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Aprovechame",
+      "url": "https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo"
+    },
+    {
+      "album": {
+        "name": "Baila As\u00ed (feat. Chiquis)",
+        "url": "https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Baila As\u00ed (feat. Chiquis)",
+      "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86773,
+      "name": "Chuper Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181813,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Con La Misma Bala",
+      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/2bm3WtYeZKkr2bPp2i9goV"
+    },
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "CUIDADITO",
+      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
+    },
+    {
+      "album": {
+        "name": "Radio Universo",
+        "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 225920,
+      "name": "Devu\u00e9lveme El Amor",
+      "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "El Honor",
+      "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "Entre Besos Y Copas",
+      "url": "https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Esa No Soy Yo",
+      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+    },
+    {
+      "album": {
+        "name": "Este Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230466,
+      "name": "Est\u00e1 De Moda No Querer",
+      "url": "https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 205840,
+      "name": "Feliz de la vida",
+      "url": "https://open.spotify.com/track/1hR8dT8YKiUP8gM9XbUa3F"
+    },
+    {
+      "album": {
+        "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
+        "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
+      },
+      "artists": [
+        {
+          "name": "Dani Rose",
+          "url": "https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 198442,
+      "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
+      "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Gracias Por Tu Participaci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Horas Extras",
+      "url": "https://open.spotify.com/track/1bGuvf2hlATjmaZyOnC5KI"
+    },
+    {
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 39893,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/79QnZgmqW6AzWJaJBLcMII"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "La Malquerida",
+      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
+    },
+    {
+      "album": {
+        "name": "La Necia",
+        "url": "https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142117,
+      "name": "La Necia",
+      "url": "https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
+    },
+    {
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Ely Quintero",
+          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141373,
+      "name": "Las Destrampadas",
+      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
+    },
+    {
+      "album": {
+        "name": "Lo Que No Sirve, Estorba",
+        "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "Lo Que No Sirve, Estorba",
+      "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Lorenzo Mendez",
+          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166613,
+      "name": "Los Chismes",
+      "url": "https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP"
+    },
+    {
+      "album": {
+        "name": "Me Mocho Un Huevo",
+        "url": "https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136613,
+      "name": "Me Mocho Un Huevo",
+      "url": "https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG"
+    },
+    {
+      "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/6tlZI7LS7Kwk34qfyG5Zcp"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 248093,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/2IDLfzhNVnpwlloAZ8IFQG"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99586,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd"
+    },
+    {
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico",
+        "url": "https://open.spotify.com/album/3F8aZbqlYnHBBPc8qSnbgg"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 185880,
+      "name": "Mi Problema - En Vivo",
+      "url": "https://open.spotify.com/track/4ZkZXB9qHQzEdkWD3ZtCyT"
+    },
+    {
+      "album": {
+        "name": "Ni Muerta",
+        "url": "https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "NI MUERTA",
+      "url": "https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp"
+    },
+    {
+      "album": {
+        "name": "No Es S\u00f3lo Un Juego (The Official Concacaf Gold Cup 2023[TM] Theme)",
+        "url": "https://open.spotify.com/album/7EtV6Wqr1xceSUfxYANlTM"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "No Es S\u00f3lo Un Juego - The Official Concacaf Gold Cup 2023[TM] Theme",
+      "url": "https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "No Llega El Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
+    },
+    {
+      "album": {
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+    },
+    {
+      "album": {
+        "name": "Homenaje a la Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Ovarios (feat. Chiquis Rivera)",
+      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 146280,
+      "name": "Ovarios - En Vivo",
+      "url": "https://open.spotify.com/track/0HWGGvNTBFFljHmwUlW48V"
+    },
+    {
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "PA' TI",
+      "url": "https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS"
+    },
+    {
+      "album": {
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "PALOMA BLANCA",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "album": {
+        "name": "Misi\u00f3n Cumplida",
+        "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Pedacito de M\u00ed",
+      "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
+    },
+    {
+      "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
+    },
+    {
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "album": {
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/3va92qGHP3fn8ZU859S4nD"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196986,
+      "name": "Que Sera (Is This Love) (feat. Chiquis Rivera)",
+      "url": "https://open.spotify.com/track/39sx6ilqONhi4GbGBlEp16"
+    },
+    {
+      "album": {
+        "name": "Quiero Amanecer Con Alguien",
+        "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Quiero Amanecer Con Alguien",
+      "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Quisieran Tener Mi Lugar",
+      "url": "https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB"
+    },
+    {
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "MAS Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326330,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+        "url": "https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Ticket De Salida",
+      "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
+    },
+    {
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128186,
+      "name": "Ya Lo S\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/3gZK6bikZYLziuC4nSzTt6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS"
 }

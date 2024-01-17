@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,205 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,867 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

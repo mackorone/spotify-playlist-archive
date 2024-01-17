@@ -1509,6 +1509,32 @@
     },
     {
       "album": {
+        "name": "Dingo X BIG Naughty",
+        "url": "https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "INFJ (Feat. B.I, BANG YEDAM)",
+      "url": "https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT"
+    },
+    {
+      "album": {
         "name": "Not a fairytale",
         "url": "https://open.spotify.com/album/1g2VqUtlR2v6KJL8X0lSr7"
       },
@@ -1556,7 +1582,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 204013,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"

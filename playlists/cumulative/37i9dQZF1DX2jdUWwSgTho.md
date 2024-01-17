@@ -4,7 +4,7 @@
 
 > Les hits préférés des enfants.
 
-59 songs - 3 hr 20 min
+60 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [CP\_009\_ Évidemment](https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Civilisation Edition Ultime](https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP) | 3:26 | 2023-07-27 | 2023-12-09 |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2023-07-27 |  |
 | [Dommage](https://open.spotify.com/track/0J2a0afQcr63ymGo5hKCDo) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/2wEH54VuaObKvkn6PaLNaL) | 3:56 | 2024-01-02 |  |
-| [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 | 2023-12-08 |  |
+| [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 | 2023-12-08 | 2024-01-08 |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-12-08 |  |
 | [Elle me dit](https://open.spotify.com/track/2CFGQXM3exBO8U9WGve2GY) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love \(Deluxe\)](https://open.spotify.com/album/0zY3JRYHC0rycbFUqGcRpV) | 3:36 | 2024-01-02 |  |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-07-27 |  |
@@ -37,6 +37,7 @@
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2023-07-27 |  |
 | [Katchi \- Ofenbach vs\. Nick Waterhouse](https://open.spotify.com/track/2NF8A7C6tICScdRaZ0BrEe) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Katchi \(Ofenbach vs\. Nick Waterhouse\)](https://open.spotify.com/album/7fJMKBNqYWhvWDs560x6nn) | 2:31 | 2024-01-02 |  |
 | [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2023-12-08 |  |
+| [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 | 2024-01-07 |  |
 | [Le coach \(feat\. Vincenzo\)](https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Vincenzo](https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP) | [Phoenix](https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu) | 3:20 | 2023-07-27 |  |
 | [Magic in the Air \(feat\. Ahmed Chawki\)](https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Africainement vôtre](https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS) | 3:53 | 2023-07-27 |  |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-12-08 |  |

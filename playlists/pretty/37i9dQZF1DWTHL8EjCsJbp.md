@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTHL8EjCsJbp.md) - [plain]
 
 > 2023年4月24日に開催されたThe 1975来日公演@東京ガーデンシアターのセットリストをプレイリストで再現！
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,148 likes - 24 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 24 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

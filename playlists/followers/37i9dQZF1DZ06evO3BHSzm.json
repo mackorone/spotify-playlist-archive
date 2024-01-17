@@ -1,471 +1,1875 @@
 {
-  "2022-09-18": 170317,
-  "2022-09-19": 170394,
-  "2022-09-20": 170466,
-  "2022-09-21": 170537,
-  "2022-09-22": 170621,
-  "2022-09-23": 170709,
-  "2022-09-24": 170709,
-  "2022-09-25": 170875,
-  "2022-09-26": 170948,
-  "2022-09-27": 170998,
-  "2022-09-28": 171083,
-  "2022-09-29": 171177,
-  "2022-09-30": 171261,
-  "2022-10-01": 171335,
-  "2022-10-02": 171407,
-  "2022-10-03": 171511,
-  "2022-10-04": 171599,
-  "2022-10-05": 171661,
-  "2022-10-06": 171741,
-  "2022-10-07": 171821,
-  "2022-10-08": 171892,
-  "2022-10-09": 172053,
-  "2022-10-10": 172081,
-  "2022-10-11": 172148,
-  "2022-10-12": 172218,
-  "2022-10-13": 172313,
-  "2022-10-14": 172395,
-  "2022-10-15": 172460,
-  "2022-10-16": 172548,
-  "2022-10-17": 172612,
-  "2022-10-18": 172666,
-  "2022-10-19": 172726,
-  "2022-10-20": 172811,
-  "2022-10-21": 172889,
-  "2022-10-22": 172958,
-  "2022-10-23": 173045,
-  "2022-10-24": 173107,
-  "2022-10-25": 173168,
-  "2022-10-26": 173233,
-  "2022-10-27": 173307,
-  "2022-10-28": 173400,
-  "2022-10-29": 173488,
-  "2022-10-30": 173567,
-  "2022-10-31": 173657,
-  "2022-11-01": 173729,
-  "2022-11-02": 173803,
-  "2022-11-03": 173879,
-  "2022-11-04": 173964,
-  "2022-11-05": 174030,
-  "2022-11-06": 174116,
-  "2022-11-07": 174208,
-  "2022-11-08": 174265,
-  "2022-11-09": 174321,
-  "2022-11-10": 174394,
-  "2022-11-11": 174470,
-  "2022-11-12": 174549,
-  "2022-11-13": 174620,
-  "2022-11-14": 174702,
-  "2022-11-15": 174758,
-  "2022-11-16": 174817,
-  "2022-11-17": 174875,
-  "2022-11-18": 174898,
-  "2022-11-19": 174919,
-  "2022-11-20": 174974,
-  "2022-11-21": 175057,
-  "2022-11-22": 175142,
-  "2022-11-23": 175192,
-  "2022-11-24": 175377,
-  "2022-11-25": 175394,
-  "2022-11-26": 175447,
-  "2022-11-27": 175507,
-  "2022-11-28": 175542,
-  "2022-11-29": 175595,
-  "2022-11-30": 175669,
-  "2022-12-01": 175755,
-  "2022-12-02": 175805,
-  "2022-12-03": 175920,
-  "2022-12-04": 176020,
-  "2022-12-05": 176104,
-  "2022-12-06": 176168,
-  "2022-12-07": 176248,
-  "2022-12-08": 176344,
-  "2022-12-09": 176402,
-  "2022-12-10": 176466,
-  "2022-12-11": 176548,
-  "2022-12-12": 176621,
-  "2022-12-13": 176691,
-  "2022-12-14": 176752,
-  "2022-12-15": 176812,
-  "2022-12-16": 176881,
-  "2022-12-17": 176959,
-  "2022-12-18": 177048,
-  "2022-12-19": 177088,
-  "2022-12-20": 177240,
-  "2022-12-21": 177240,
-  "2022-12-22": 177304,
-  "2022-12-24": 177438,
-  "2022-12-25": 177519,
-  "2022-12-26": 177589,
-  "2022-12-27": 177664,
-  "2022-12-28": 177743,
-  "2022-12-29": 177810,
-  "2022-12-30": 177895,
-  "2022-12-31": 177973,
-  "2023-01-01": 178047,
-  "2023-01-02": 178126,
-  "2023-01-03": 178224,
-  "2023-01-04": 178270,
-  "2023-01-05": 178352,
-  "2023-01-06": 178445,
-  "2023-01-07": 178572,
-  "2023-01-08": 178611,
-  "2023-01-09": 178697,
-  "2023-01-10": 178766,
-  "2023-01-11": 178834,
-  "2023-01-12": 178921,
-  "2023-01-13": 179017,
-  "2023-01-14": 179153,
-  "2023-01-15": 179157,
-  "2023-01-16": 179251,
-  "2023-01-17": 179318,
-  "2023-01-18": 179394,
-  "2023-01-19": 179473,
-  "2023-01-20": 179566,
-  "2023-01-21": 179647,
-  "2023-01-22": 179732,
-  "2023-01-23": 179827,
-  "2023-01-24": 179906,
-  "2023-01-25": 179980,
-  "2023-01-26": 180047,
-  "2023-01-27": 180118,
-  "2023-01-28": 180212,
-  "2023-01-29": 180325,
-  "2023-01-30": 180396,
-  "2023-01-31": 180396,
-  "2023-02-01": 180548,
-  "2023-02-02": 180625,
-  "2023-02-03": 180709,
-  "2023-02-04": 180814,
-  "2023-02-05": 180919,
-  "2023-02-06": 181010,
-  "2023-02-07": 181087,
-  "2023-02-08": 181261,
-  "2023-02-09": 181261,
-  "2023-02-10": 181333,
-  "2023-02-11": 181440,
-  "2023-02-12": 181689,
-  "2023-02-13": 181796,
-  "2023-02-14": 181796,
-  "2023-02-15": 181878,
-  "2023-02-16": 181994,
-  "2023-02-17": 182097,
-  "2023-02-18": 182300,
-  "2023-02-19": 182313,
-  "2023-02-20": 182412,
-  "2023-02-21": 182494,
-  "2023-02-22": 182558,
-  "2023-02-23": 182645,
-  "2023-02-24": 182714,
-  "2023-02-25": 182813,
-  "2023-02-26": 182886,
-  "2023-02-27": 183035,
-  "2023-02-28": 183035,
-  "2023-03-01": 183109,
-  "2023-03-02": 183192,
-  "2023-03-03": 183286,
-  "2023-03-04": 183374,
-  "2023-03-05": 183611,
-  "2023-03-06": 183611,
-  "2023-03-07": 183713,
-  "2023-03-08": 183801,
-  "2023-03-09": 183895,
-  "2023-03-10": 183995,
-  "2023-03-11": 184089,
-  "2023-03-12": 184165,
-  "2023-03-13": 184250,
-  "2023-03-14": 184329,
-  "2023-03-15": 184414,
-  "2023-03-16": 184414,
-  "2023-03-17": 184414,
-  "2023-03-18": 184641,
-  "2023-03-19": 184641,
-  "2023-03-20": 184814,
-  "2023-03-21": 184901,
-  "2023-03-22": 184979,
-  "2023-03-23": 185049,
-  "2023-03-24": 185049,
-  "2023-03-25": 185223,
-  "2023-03-26": 185331,
-  "2023-03-27": 185432,
-  "2023-03-28": 185509,
-  "2023-03-29": 185594,
-  "2023-03-30": 185764,
-  "2023-03-31": 185764,
-  "2023-04-01": 185860,
-  "2023-04-02": 185961,
-  "2023-04-03": 186052,
-  "2023-04-04": 186150,
-  "2023-04-05": 186228,
-  "2023-04-06": 186301,
-  "2023-04-07": 186383,
-  "2023-04-09": 186543,
-  "2023-04-10": 186629,
-  "2023-04-11": 186779,
-  "2023-04-12": 186779,
-  "2023-04-13": 186876,
-  "2023-04-14": 186961,
-  "2023-04-15": 187045,
-  "2023-04-16": 187142,
-  "2023-04-17": 187226,
-  "2023-04-18": 187291,
-  "2023-04-19": 187360,
-  "2023-04-20": 187431,
-  "2023-04-21": 187520,
-  "2023-04-22": 187614,
-  "2023-04-23": 187684,
-  "2023-04-24": 187779,
-  "2023-04-25": 187841,
-  "2023-04-26": 187915,
-  "2023-04-27": 187990,
-  "2023-04-28": 188094,
-  "2023-04-29": 188170,
-  "2023-04-30": 188247,
-  "2023-05-01": 188344,
-  "2023-05-02": 188411,
-  "2023-05-03": 188486,
-  "2023-05-04": 188565,
-  "2023-05-05": 188630,
-  "2023-05-06": 188703,
-  "2023-05-07": 188782,
-  "2023-05-08": 188864,
-  "2023-05-09": 188938,
-  "2023-05-10": 189000,
-  "2023-05-11": 189080,
-  "2023-05-12": 189154,
-  "2023-05-13": 189242,
-  "2023-05-14": 189317,
-  "2023-05-15": 189373,
-  "2023-05-16": 189459,
-  "2023-05-17": 189523,
-  "2023-05-18": 189585,
-  "2023-05-19": 189645,
-  "2023-05-20": 189784,
-  "2023-05-21": 189784,
-  "2023-05-22": 189784,
-  "2023-05-23": 189968,
-  "2023-05-24": 190060,
-  "2023-05-25": 190070,
-  "2023-05-26": 190131,
-  "2023-05-27": 190224,
-  "2023-05-28": 190308,
-  "2023-05-29": 190308,
-  "2023-05-30": 190422,
-  "2023-05-31": 190501,
-  "2023-06-01": 190585,
-  "2023-06-02": 190657,
-  "2023-06-03": 190729,
-  "2023-06-04": 190819,
-  "2023-06-05": 190895,
-  "2023-06-06": 190975,
-  "2023-06-07": 191032,
-  "2023-06-08": 191094,
-  "2023-06-09": 191166,
-  "2023-06-10": 191210,
-  "2023-06-11": 191259,
-  "2023-06-12": 191306,
-  "2023-06-13": 191330,
-  "2023-06-14": 191387,
-  "2023-06-15": 191426,
-  "2023-06-16": 191467,
-  "2023-06-17": 191516,
-  "2023-06-18": 191579,
-  "2023-06-19": 191634,
-  "2023-06-20": 191672,
-  "2023-06-21": 191724,
-  "2023-06-22": 191762,
-  "2023-06-23": 191797,
-  "2023-06-24": 191847,
-  "2023-06-25": 191896,
-  "2023-06-26": 191949,
-  "2023-06-27": 191981,
-  "2023-06-28": 192038,
-  "2023-06-29": 192067,
-  "2023-06-30": 192107,
-  "2023-07-01": 192219,
-  "2023-07-02": 192219,
-  "2023-07-03": 192274,
-  "2023-07-04": 192305,
-  "2023-07-05": 192348,
-  "2023-07-06": 192424,
-  "2023-07-07": 192424,
-  "2023-07-08": 192424,
-  "2023-07-09": 192541,
-  "2023-07-10": 192592,
-  "2023-07-11": 192613,
-  "2023-07-12": 192666,
-  "2023-07-13": 192732,
-  "2023-07-14": 192786,
-  "2023-07-15": 192828,
-  "2023-07-16": 192925,
-  "2023-07-17": 192978,
-  "2023-07-18": 193032,
-  "2023-07-19": 193072,
-  "2023-07-20": 193131,
-  "2023-07-21": 193185,
-  "2023-07-22": 193233,
-  "2023-07-23": 193317,
-  "2023-07-24": 193397,
-  "2023-07-25": 193448,
-  "2023-07-26": 193496,
-  "2023-07-27": 193554,
-  "2023-07-28": 193614,
-  "2023-07-29": 193652,
-  "2023-07-30": 193695,
-  "2023-07-31": 193738,
-  "2023-08-01": 193778,
-  "2023-08-02": 193822,
-  "2023-08-03": 193872,
-  "2023-08-04": 193907,
-  "2023-08-05": 193972,
-  "2023-08-06": 194064,
-  "2023-08-07": 194064,
-  "2023-08-08": 194089,
-  "2023-08-09": 194138,
-  "2023-08-10": 194176,
-  "2023-08-11": 194212,
-  "2023-08-12": 194212,
-  "2023-08-13": 194212,
-  "2023-08-14": 194340,
-  "2023-08-15": 194340,
-  "2023-08-16": 194340,
-  "2023-08-17": 194340,
-  "2023-08-18": 194340,
-  "2023-08-19": 194340,
-  "2023-08-20": 194609,
-  "2023-08-21": 194609,
-  "2023-08-22": 194711,
-  "2023-08-23": 194711,
-  "2023-08-24": 194711,
-  "2023-08-25": 194711,
-  "2023-08-26": 194884,
-  "2023-08-27": 194884,
-  "2023-08-28": 194977,
-  "2023-08-29": 194977,
-  "2023-08-30": 194977,
-  "2023-08-31": 195124,
-  "2023-09-01": 195173,
-  "2023-09-02": 195173,
-  "2023-09-03": 195173,
-  "2023-09-04": 195173,
-  "2023-09-05": 195173,
-  "2023-09-06": 195173,
-  "2023-09-07": 195173,
-  "2023-09-08": 195173,
-  "2023-09-09": 195173,
-  "2023-09-10": 195173,
-  "2023-09-11": 195173,
-  "2023-09-12": 195173,
-  "2023-09-13": 195173,
-  "2023-09-14": 195173,
-  "2023-09-15": 195173,
-  "2023-09-16": 195809,
-  "2023-09-17": 195809,
-  "2023-09-18": 195809,
-  "2023-09-19": 195891,
-  "2023-09-20": 195891,
-  "2023-09-21": 195891,
-  "2023-09-22": 195999,
-  "2023-09-23": 195999,
-  "2023-09-24": 195999,
-  "2023-09-25": 195999,
-  "2023-09-26": 196156,
-  "2023-09-27": 196156,
-  "2023-09-28": 196156,
-  "2023-09-29": 196156,
-  "2023-09-30": 196156,
-  "2023-10-01": 196156,
-  "2023-10-02": 196156,
-  "2023-10-03": 196156,
-  "2023-10-04": 196156,
-  "2023-10-05": 196156,
-  "2023-10-06": 196156,
-  "2023-10-07": 196156,
-  "2023-10-08": 196156,
-  "2023-10-09": 196156,
-  "2023-10-10": 196156,
-  "2023-10-11": 196678,
-  "2023-10-12": 196678,
-  "2023-10-13": 196678,
-  "2023-10-14": 196678,
-  "2023-10-15": 196678,
-  "2023-10-16": 196678,
-  "2023-10-17": 196678,
-  "2023-10-18": 196678,
-  "2023-10-19": 196678,
-  "2023-10-20": 196678,
-  "2023-10-21": 196678,
-  "2023-10-22": 196678,
-  "2023-10-23": 196678,
-  "2023-10-24": 196678,
-  "2023-10-25": 196678,
-  "2023-10-26": 196678,
-  "2023-10-27": 196678,
-  "2023-10-28": 196678,
-  "2023-10-29": 196678,
-  "2023-10-30": 196678,
-  "2023-10-31": 196678,
-  "2023-11-01": 196678,
-  "2023-11-02": 196678,
-  "2023-11-03": 196678,
-  "2023-11-04": 196678,
-  "2023-11-05": 196678,
-  "2023-11-06": 196678,
-  "2023-11-07": 196678,
-  "2023-11-08": 196678,
-  "2023-11-09": 196678,
-  "2023-11-10": 196678,
-  "2023-11-11": 197624,
-  "2023-11-12": 197624,
-  "2023-11-13": 197624,
-  "2023-11-14": 197624,
-  "2023-11-15": 197624,
-  "2023-11-16": 197624,
-  "2023-11-17": 197624,
-  "2023-11-18": 197624,
-  "2023-11-19": 197624,
-  "2023-11-20": 197624,
-  "2023-11-21": 197624,
-  "2023-11-22": 197624,
-  "2023-11-23": 197624,
-  "2023-11-24": 197624,
-  "2023-11-25": 197624,
-  "2023-11-26": 197624,
-  "2023-11-27": 197624,
-  "2023-11-28": 197624,
-  "2023-11-29": 197624,
-  "2023-11-30": 197624,
-  "2023-12-01": 197624,
-  "2023-12-02": 197624,
-  "2023-12-03": 197624,
-  "2023-12-04": 197624,
-  "2023-12-05": 197624,
-  "2023-12-06": 197624,
-  "2023-12-07": 197624,
-  "2023-12-08": 197624,
-  "2023-12-09": 197624,
-  "2023-12-10": 197624,
-  "2023-12-11": 197624,
-  "2023-12-12": 197624,
-  "2023-12-13": 197624,
-  "2023-12-14": 198480,
-  "2023-12-15": 198502,
-  "2023-12-16": 198544,
-  "2023-12-17": 198578,
-  "2023-12-18": 198606,
-  "2023-12-19": 198633,
-  "2023-12-20": 198654,
-  "2023-12-21": 198681,
-  "2023-12-22": 198693,
-  "2023-12-23": 198735,
-  "2023-12-24": 198766,
-  "2023-12-25": 198795,
-  "2023-12-26": 198829,
-  "2023-12-27": 198866,
-  "2023-12-30": 198969,
-  "2023-12-31": 199011,
-  "2024-01-01": 199030,
-  "2024-01-02": 199061,
-  "2024-01-03": 199072
+  "2024-01-17": 199224,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is The Who. The essential tracks, all in one playlist.",
+  "name": "This Is The Who",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "1921",
+      "url": "https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 299600,
+      "name": "5:15",
+      "url": "https://open.spotify.com/track/73awNm2nHlTkUilOkrk7MR"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300386,
+      "name": "5:15",
+      "url": "https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 242600,
+      "name": "905",
+      "url": "https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones Rock And Roll Circus (Expanded)",
+        "url": "https://open.spotify.com/album/6HukFdvHHvXI3EAhjvtnF3"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 452106,
+      "name": "A Quick One While He's Away - Remastered 2018",
+      "url": "https://open.spotify.com/track/4611nkfmcc1bCYRVqeSCHN"
+    },
+    {
+      "album": {
+        "name": "Live At Leeds (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 521440,
+      "name": "A Quick One, While He's Away - Live",
+      "url": "https://open.spotify.com/track/1O2Fq87Y3QHOnE5NGjGzlu"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 200800,
+      "name": "All This Music Must Fade",
+      "url": "https://open.spotify.com/track/6Oi0qvf8bhPMdlmbfxBpYy"
+    },
+    {
+      "album": {
+        "name": "Face Dances",
+        "url": "https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296866,
+      "name": "Another Tricky Day",
+      "url": "https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "Anyway Anyhow Anywhere - Stereo Version",
+      "url": "https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL"
+    },
+    {
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Athena",
+      "url": "https://open.spotify.com/track/255k7GWdOau9yOsewX85lg"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269933,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333586,
+      "name": "Bargain",
+      "url": "https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR"
+    },
+    {
+      "album": {
+        "name": "A Quick One",
+        "url": "https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94306,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 220200,
+      "name": "Beads On One String",
+      "url": "https://open.spotify.com/track/2rsz7h4cJQViOCB2QgYT65"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208440,
+      "name": "Behind Blue Eyes - Lifehouse Chronicles / Demo / Remastered 2022",
+      "url": "https://open.spotify.com/track/6uzcfwr0YPe6hsL3rAY3uA"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 295466,
+      "name": "Bell Boy",
+      "url": "https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK"
+    },
+    {
+      "album": {
+        "name": "The Who By Numbers",
+        "url": "https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 166906,
+      "name": "Blue Red And Grey",
+      "url": "https://open.spotify.com/track/6XtsMEFQ0M0X2yzMcqLSF6"
+    },
+    {
+      "album": {
+        "name": "The Who By Numbers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Blue Red And Grey",
+      "url": "https://open.spotify.com/track/7EngpMPwriHk8e2WNfzU4l"
+    },
+    {
+      "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Boris The Spider",
+      "url": "https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o"
+    },
+    {
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 270400,
+      "name": "Break The News",
+      "url": "https://open.spotify.com/track/0d3Y9yuUwnq3jHTPRyw3io"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 226200,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0UA9nE47FbV0W5vhTjSy4N"
+    },
+    {
+      "album": {
+        "name": "Face Dances",
+        "url": "https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 228893,
+      "name": "Don't Let Go The Coat",
+      "url": "https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 326746,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/4ZT2Xki1u0HjBmMS6xbLsA"
+    },
+    {
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339106,
+      "name": "Eminence Front",
+      "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02qpXPd0YbBzTp6Aro9Rs4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 200145,
+      "name": "Four Faces",
+      "url": "https://open.spotify.com/track/6uZ3DqxJ6iKZ1wkmZrqTh5"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288453,
+      "name": "Getting In Tune",
+      "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 222066,
+      "name": "Going Mobile",
+      "url": "https://open.spotify.com/track/236pPQUEDapfH7Jn6rbhBa"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 189666,
+      "name": "Greyhound Girl - Lifehouse Chronicles / Demo / Remastered 2022",
+      "url": "https://open.spotify.com/track/2JlX5emTuvWBLXJf48V5tx"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270426,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/3b8wboATWjPGIpWgFFORxK"
+    },
+    {
+      "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Happy Jack",
+      "url": "https://open.spotify.com/track/4EQL3I68WEw20icaY5y6Cy"
+    },
+    {
+      "album": {
+        "name": "A Quick One (Mono Version)",
+        "url": "https://open.spotify.com/album/29Qv1bgwsrukJKDHU5MfY0"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 119038,
+      "name": "Heat Wave - Mono Version",
+      "url": "https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2nSduHVT17MPQCehfMRPG6"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 60426,
+      "name": "Heinz Baked Beans",
+      "url": "https://open.spotify.com/track/0e9e7vOTvNcofMQUOxoRbs"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 58840,
+      "name": "Heinz Baked Beans - Mono Version",
+      "url": "https://open.spotify.com/track/0iuIIska9fyaf6neCtenZY"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 153546,
+      "name": "Helpless Dancer",
+      "url": "https://open.spotify.com/track/6uIgXI1UPcHBmv377ZANgD"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153546,
+      "name": "Helpless Dancer",
+      "url": "https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b"
+    },
+    {
+      "album": {
+        "name": "The Who With Orchestra: Live At Wembley",
+        "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Isobel Griffiths Orchestra",
+          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 290666,
+      "name": "Hero Ground Zero - Live At Wembley, UK / 2019",
+      "url": "https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129880,
+      "name": "I Am The Sea",
+      "url": "https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "I Can See For Miles - Mono Version",
+      "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
+    },
+    {
+      "album": {
+        "name": "My Generation (50th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "I Can't Explain - Mono Version",
+      "url": "https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 125967,
+      "name": "I Can't Explain - Stereo Version",
+      "url": "https://open.spotify.com/track/0xHxeH4QTqlfNrQvczkoTA"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 280899,
+      "name": "I Don't Even Know Myself - Re-Make / Take 16",
+      "url": "https://open.spotify.com/track/51A3P16XI08faBpppfkrb0"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 156327,
+      "name": "I Don't Mind - Stereo Version",
+      "url": "https://open.spotify.com/track/10dFDqltx3vJbGXyjWyxIk"
+    },
+    {
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 234640,
+      "name": "I Don't Wanna Get Wise",
+      "url": "https://open.spotify.com/track/35cc8RpxVa5KaE07RB0iqj"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159204,
+      "name": "I'm Free",
+      "url": "https://open.spotify.com/track/7tbp39GZvDA0cItgHynVnG"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157853,
+      "name": "I'm One",
+      "url": "https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 157853,
+      "name": "I'm One",
+      "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
+    },
+    {
+      "album": {
+        "name": "The Who With Orchestra: Live At Wembley",
+        "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Isobel Griffiths Orchestra",
+          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 273613,
+      "name": "Imagine A Man - Live At Wembley, UK / 2019",
+      "url": "https://open.spotify.com/track/03eY6eU7XvvZ61ahRoWeeU"
+    },
+    {
+      "album": {
+        "name": "Imagine A Man (Live At Wembley, UK / 2019)",
+        "url": "https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        },
+        {
+          "name": "Isobel Griffiths Orchestra",
+          "url": "https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 273613,
+      "name": "Imagine A Man - Live At Wembley, UK / 2019",
+      "url": "https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 223453,
+      "name": "Is It In My Head?",
+      "url": "https://open.spotify.com/track/5XSKoePK44z8EbM736fY57"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38556,
+      "name": "It's A Boy",
+      "url": "https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 150055,
+      "name": "It's Not True - Stereo Version",
+      "url": "https://open.spotify.com/track/48DsNbafkIC8waIL7dT2iy"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Who",
+        "url": "https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 264440,
+      "name": "Join Together",
+      "url": "https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262170,
+      "name": "Join Together - Original Single A-Side Mix",
+      "url": "https://open.spotify.com/track/3L59mpFyXjfEOefwBfDKkj"
+    },
+    {
+      "album": {
+        "name": "The Kids Are Alright",
+        "url": "https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236573,
+      "name": "Long Live Rock - Single Mix",
+      "url": "https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Love Ain't For Keeping",
+      "url": "https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349600,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4Mqs0h95KAeNiGp7u4udlt"
+    },
+    {
+      "album": {
+        "name": "The Kids Are Alright",
+        "url": "https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Magic Bus - Mono Edit",
+      "url": "https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 213680,
+      "name": "My Wife",
+      "url": "https://open.spotify.com/track/04jUWHa4mIZKn7duaD2gXW"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359920,
+      "name": "Naked Eye - Remake Version",
+      "url": "https://open.spotify.com/track/7B6DdL3oTVHvq6HvQB8RH2"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 253000,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/0RqPDkzJYtVwmAUjjWRjVx"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320031,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK"
+    },
+    {
+      "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "Pictures Of Lily",
+      "url": "https://open.spotify.com/track/123RhEzztpTieeEd13NexC"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 163708,
+      "name": "Please, Please, Please - Stereo Version",
+      "url": "https://open.spotify.com/track/27J9JQLDfGgGWqfcSLFmNp"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House",
+        "url": "https://open.spotify.com/album/6cwiMSoaljYA0qOBqgq474"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 519533,
+      "name": "Pure And Easy - Lifehouse Chronicles / Home Studio Mix / Remastered 2022",
+      "url": "https://open.spotify.com/track/7uSFlWM3e4PIgi8ZzcGjqO"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373133,
+      "name": "Quadrophenia",
+      "url": "https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP"
+    },
+    {
+      "album": {
+        "name": "The Who- The Greatest Hits & More [International Version (Edited)]",
+        "url": "https://open.spotify.com/album/3DJhm4cXLwOuuV7YopBIrO"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 343346,
+      "name": "Real Good Looking Boy",
+      "url": "https://open.spotify.com/track/1CibGSnmmfeaob2a2hFT1i"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 301213,
+      "name": "Sea And Sand",
+      "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
+    },
+    {
+      "album": {
+        "name": "The Who Hits 50 (Deluxe)",
+        "url": "https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216596,
+      "name": "See Me, Feel Me - Single Version",
+      "url": "https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "Sister Disco",
+      "url": "https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN"
+    },
+    {
+      "album": {
+        "name": "The Who By Numbers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269733,
+      "name": "Slip Kid",
+      "url": "https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125087,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh"
+    },
+    {
+      "album": {
+        "name": "The Who By Numbers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "Squeeze Box",
+      "url": "https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X"
+    },
+    {
+      "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 158426,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out",
+        "url": "https://open.spotify.com/album/01Zc1xVpVQFnVKBc0SMMBO"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 186840,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/05EpBNu0hokMsuNc62SAAz"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 407680,
+      "name": "Teenage Wasteland - Lifehouse Chronicles / Remastered 2022",
+      "url": "https://open.spotify.com/track/2N6soaM7Cs8yeSiq5faLi9"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 268933,
+      "name": "The Dirty Jobs",
+      "url": "https://open.spotify.com/track/164fXVq2STSUorItsuHg6o"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268933,
+      "name": "The Dirty Jobs",
+      "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"
+    },
+    {
+      "album": {
+        "name": "My Generation (50th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "The Kids Are Alright",
+      "url": "https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 310933,
+      "name": "The Punk And The Godfather",
+      "url": "https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310933,
+      "name": "The Punk And The Godfather",
+      "url": "https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 200706,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/4rVvheUQ2wQpn5uXX5l0gS"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 397440,
+      "name": "The Rock",
+      "url": "https://open.spotify.com/track/7IgNgM3S0M3TqXEvSBWB73"
+    },
+    {
+      "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 190373,
+      "name": "The Seeker - Edit",
+      "url": "https://open.spotify.com/track/5orygsZ5Ga0jEOvftsXqw2"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "The Seeker - Original Single A-Side Mix",
+      "url": "https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 376613,
+      "name": "The Song Is Over",
+      "url": "https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 249800,
+      "name": "There's A Fortune In Those Hills - Demo / Remastered 2022",
+      "url": "https://open.spotify.com/track/3OWo2IdRFjbM3XoqMACb0M"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 95441,
+      "name": "Tommy Can You Hear Me?",
+      "url": "https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 337680,
+      "name": "Too Much - Lifehouse Chronicles / Demo / Remastered 2022",
+      "url": "https://open.spotify.com/track/7wMKxe4sp8O2AkCsXzAgrx"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287706,
+      "name": "Trick Of The Light",
+      "url": "https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN"
+    },
+    {
+      "album": {
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 157353,
+      "name": "Under My Thumb - UK Single Mix / Mono Version",
+      "url": "https://open.spotify.com/track/1W0VRuwNVPQ44zTomFOpSK"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 312920,
+      "name": "Water - Re-Make / Take 8",
+      "url": "https://open.spotify.com/track/6M4JSKUxDWN659lNxzn6v4"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 426136,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381626,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
+    },
+    {
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    },
+    {
+      "album": {
+        "name": "Face Dances",
+        "url": "https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337066,
+      "name": "You Better You Bet",
+      "url": "https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3BHSzm"
 }

@@ -2,9 +2,9 @@
 
 ### [君が生きてなくてよかった](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID\. cover:ゆこぴ
+> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-553 songs - 1 day 7 hr 26 min
+555 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alice in N.Y.](https://open.spotify.com/track/1iPRe1ptuXReCWKRjzjelt) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [If the world3](https://open.spotify.com/album/7pguOxS2emX530AOO34KC4) | 3:53 | 2022-06-23 | 2022-07-15 |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-10-13 |  |
 | [Amanojaku](https://open.spotify.com/track/2P8HxufC1uIUVFYGkyRkSm) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [Exit Tunes Presents Gumitive From Megpoid \(Vocaloid\)](https://open.spotify.com/album/0IhgpAb7bDAIFeFk6gfh3F) | 3:08 | 2023-06-13 | 2023-07-21 |
-| [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2023-11-28 | 2023-12-27 |
+| [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2023-11-28 | 2024-01-10 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/1W6l1pZR06xDwWi2nhb5YJ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC2](https://open.spotify.com/album/1zg4XTpXBFeAltnyQPSDbV) | 3:47 | 2023-03-09 | 2023-04-14 |
 | [Aoku Aoku Hikaru](https://open.spotify.com/track/4remMpKJioVgkTecTRvT52) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [Aoku Aoku Hikaru](https://open.spotify.com/album/6D1H5mmhfS3GwAPLDzeet3) | 3:47 | 2023-03-09 | 2023-03-13 |
 | [Apocalypse Now](https://open.spotify.com/track/2LbabPUGMd8EszPPvmiO6a) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Apocalypse Now](https://open.spotify.com/album/1vPm6olblhpMOw2kKjCesj) | 2:57 | 2023-08-22 | 2023-10-18 |
@@ -35,6 +35,7 @@
 | [Bakrom](https://open.spotify.com/track/3NV8rXGmXkmwnUb4XEx6aF) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Bakrom](https://open.spotify.com/album/7LwH7kDmcnOP5L6NcTVEW0) | 3:24 | 2022-06-23 | 2022-07-14 |
 | [Black Out](https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [PERSON](https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m) | 4:29 | 2022-06-09 | 2022-07-27 |
 | [Black Out](https://open.spotify.com/track/0My5K0w80efxzM1wOTAheP) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Black Out](https://open.spotify.com/album/4cKFsbtDAMnopqSzC1GZm5) | 2:15 | 2022-06-14 | 2022-07-27 |
+| [Bocca della Verità](https://open.spotify.com/track/7k7gLfNpXx0ZdaJtLOixnk) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK) | [Hateful](https://open.spotify.com/album/5KQEDITT9hD7p6gxbBAfz5) | 3:21 | 2024-01-09 |  |
 | [Brand New Day](https://open.spotify.com/track/1rknPfhsPCqHYWEB99H5sZ) | [irucaice](https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX) | [iceQuarium \-Strawberry\-](https://open.spotify.com/album/2aGFMGGOl4we3BJZdEz9FZ) | 4:31 | 2022-06-14 | 2022-07-13 |
 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 | 2022-12-13 | 2023-11-29 |
 | [BUTASANDER](https://open.spotify.com/track/6Qkh2aWAs6PC3f1F5R9klt) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:16 | 2023-11-28 | 2023-12-27 |
@@ -89,6 +90,7 @@
 | [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 | 2023-01-24 | 2023-02-24 |
 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 | 2023-02-10 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
+| [JUVENILE](https://open.spotify.com/track/44c0Lta1UEQ4gUDGjZaq9T) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [じん](https://open.spotify.com/artist/7eBDxrGrA7qOeDjn1HZept) | [JUVENILE](https://open.spotify.com/album/6yOptGxZiGjAYownFPeMV7) | 4:33 | 2024-01-04 |  |
 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 | 2023-08-24 |  |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
 | [Kashika](https://open.spotify.com/track/5fB9g1BgUXcmsRFr0YgePK) | [Ryo Haruka](https://open.spotify.com/artist/7kzVP3eplt8khwLbV5BKev), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Kashika](https://open.spotify.com/album/36xYHE6YjoI0klBipjeG44) | 3:58 | 2023-01-03 | 2023-02-17 |
@@ -121,7 +123,7 @@
 | [Nakakapagpabagabag](https://open.spotify.com/track/2wJ0w427Y3TPy4yQQ0igJF) | [Dasu](https://open.spotify.com/artist/6f4PGW1oaG5rWGgDqljLgZ), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [NAKAKAPAGPABAGABAG](https://open.spotify.com/album/3eCABPADaXoUs8BqycIrIU) | 2:58 | 2022-07-19 | 2022-07-29 |
 | [NEO](https://open.spotify.com/track/1xJ01BF4cAmMCJrfD78qBR) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [NEO](https://open.spotify.com/album/6aZeXROwLZMHTMRJMFryjp) | 3:02 | 2023-10-17 | 2023-11-29 |
 | [NEXT NEST](https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J) | [NEXT NEST](https://open.spotify.com/album/3vycT4TPayRb7x3kxkYhB5) | 3:55 | 2022-06-09 | 2022-07-19 |
-| [Noda](https://open.spotify.com/track/2mcfjrstoB777JtRmYYsds) | [大漠波新](https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h) | [Noda](https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp) | 2:57 | 2023-12-26 |  |
+| [Noda](https://open.spotify.com/track/2mcfjrstoB777JtRmYYsds) | [大漠波新](https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h) | [Noda](https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp) | 2:57 | 2023-12-26 | 2024-01-05 |
 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 |  |
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
@@ -180,7 +182,7 @@
 | [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 | 2023-03-09 | 2023-11-29 |
 | [Yueni](https://open.spotify.com/track/4pmdaKyK4eHEa8aZANEyna) | [Yurry Canon](https://open.spotify.com/artist/1m34pv256vfYU7zY1vozJT) | [Yueni](https://open.spotify.com/album/6rYAK7nGD6gu58uXQD9aWs) | 2:25 | 2022-06-14 | 2022-07-11 |
 | [YY](https://open.spotify.com/track/7MREY03s67e2toH9h84oUO) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 3:11 | 2022-07-05 | 2022-07-12 |
-| [Zero Talking](https://open.spotify.com/track/7E6Eo4TfaXSgXbGHPNmSSb) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Zero Talking](https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR) | 3:41 | 2023-11-07 |  |
+| [Zero Talking](https://open.spotify.com/track/7E6Eo4TfaXSgXbGHPNmSSb) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [Zero Talking](https://open.spotify.com/album/08EDcCxoefkH6TwGQ8NIpR) | 3:41 | 2023-11-07 | 2024-01-05 |
 | [『±0』](https://open.spotify.com/track/5L9RRxcfNKVXUEEsbyReSR) | [ぺぽよ](https://open.spotify.com/artist/5rUE6efKX1ZFMAiSDEkzcS) | [『±0』](https://open.spotify.com/album/0TwJtdrGXBbFs8zhKkp8b6) | 4:25 | 2022-06-09 | 2022-07-08 |
 | [『どっくっん。』 \(feat\. 初音ミク\)](https://open.spotify.com/track/4ikQKoseSxo4O2JnYalnoX) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [『どっくっん。』](https://open.spotify.com/album/0lEDycQKcbRxtJhcLcGRlJ) | 3:17 | 2022-07-10 | 2022-07-13 |
 | [『んっあっあっ。』 \(feat\. 初音ミク\)](https://open.spotify.com/track/3G2xJfPXUOoBGaV3uuDFAD) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [『んっあっあっ。』](https://open.spotify.com/album/7ACtFBFsP3LzZriuHEvmDd) | 3:33 | 2022-06-14 | 2022-07-28 |

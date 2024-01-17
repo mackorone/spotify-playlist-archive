@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > The official playlist for MO\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,765 likes - 42 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,867 likes - 42 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

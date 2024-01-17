@@ -1,472 +1,2037 @@
 {
-  "2022-09-17": 94484,
-  "2022-09-18": 94520,
-  "2022-09-19": 94554,
-  "2022-09-20": 94587,
-  "2022-09-21": 94640,
-  "2022-09-22": 94680,
-  "2022-09-23": 94721,
-  "2022-09-24": 94721,
-  "2022-09-25": 94803,
-  "2022-09-26": 94842,
-  "2022-09-27": 94869,
-  "2022-09-28": 94891,
-  "2022-09-29": 94937,
-  "2022-09-30": 94973,
-  "2022-10-01": 95030,
-  "2022-10-02": 95069,
-  "2022-10-03": 95114,
-  "2022-10-04": 95135,
-  "2022-10-05": 95173,
-  "2022-10-06": 95213,
-  "2022-10-07": 95256,
-  "2022-10-08": 95321,
-  "2022-10-09": 95399,
-  "2022-10-10": 95407,
-  "2022-10-11": 95457,
-  "2022-10-12": 95480,
-  "2022-10-13": 95523,
-  "2022-10-14": 95587,
-  "2022-10-15": 95642,
-  "2022-10-16": 95685,
-  "2022-10-17": 95720,
-  "2022-10-18": 95759,
-  "2022-10-19": 95784,
-  "2022-10-20": 95831,
-  "2022-10-21": 95875,
-  "2022-10-22": 95914,
-  "2022-10-23": 95957,
-  "2022-10-24": 95994,
-  "2022-10-25": 96017,
-  "2022-10-26": 96051,
-  "2022-10-27": 96072,
-  "2022-10-28": 96104,
-  "2022-10-29": 96152,
-  "2022-10-30": 96199,
-  "2022-10-31": 96229,
-  "2022-11-01": 96273,
-  "2022-11-02": 96301,
-  "2022-11-03": 96347,
-  "2022-11-04": 96386,
-  "2022-11-05": 96422,
-  "2022-11-06": 96454,
-  "2022-11-07": 96490,
-  "2022-11-08": 96515,
-  "2022-11-09": 96558,
-  "2022-11-10": 96586,
-  "2022-11-11": 96614,
-  "2022-11-12": 96662,
-  "2022-11-13": 96687,
-  "2022-11-14": 96708,
-  "2022-11-15": 96746,
-  "2022-11-16": 96779,
-  "2022-11-17": 96821,
-  "2022-11-18": 96826,
-  "2022-11-19": 96835,
-  "2022-11-20": 96867,
-  "2022-11-21": 96914,
-  "2022-11-22": 96949,
-  "2022-11-23": 96985,
-  "2022-11-24": 97070,
-  "2022-11-25": 97126,
-  "2022-11-26": 97169,
-  "2022-11-27": 97207,
-  "2022-11-28": 97233,
-  "2022-11-29": 97246,
-  "2022-11-30": 97277,
-  "2022-12-01": 97315,
-  "2022-12-02": 97331,
-  "2022-12-03": 97377,
-  "2022-12-04": 97410,
-  "2022-12-05": 97456,
-  "2022-12-06": 97476,
-  "2022-12-07": 97510,
-  "2022-12-08": 97540,
-  "2022-12-09": 97572,
-  "2022-12-10": 97617,
-  "2022-12-11": 97640,
-  "2022-12-12": 97677,
-  "2022-12-13": 97706,
-  "2022-12-14": 97736,
-  "2022-12-15": 97777,
-  "2022-12-16": 97812,
-  "2022-12-17": 97848,
-  "2022-12-18": 97902,
-  "2022-12-19": 97933,
-  "2022-12-20": 98000,
-  "2022-12-21": 98000,
-  "2022-12-22": 98038,
-  "2022-12-24": 98110,
-  "2022-12-25": 98176,
-  "2022-12-26": 98214,
-  "2022-12-27": 98243,
-  "2022-12-28": 98274,
-  "2022-12-29": 98308,
-  "2022-12-30": 98345,
-  "2022-12-31": 98386,
-  "2023-01-01": 98437,
-  "2023-01-02": 98453,
-  "2023-01-03": 98470,
-  "2023-01-04": 98498,
-  "2023-01-05": 98540,
-  "2023-01-06": 98580,
-  "2023-01-07": 98638,
-  "2023-01-08": 98653,
-  "2023-01-09": 98702,
-  "2023-01-10": 98741,
-  "2023-01-11": 98786,
-  "2023-01-12": 98855,
-  "2023-01-13": 98917,
-  "2023-01-14": 99062,
-  "2023-01-15": 99073,
-  "2023-01-16": 99134,
-  "2023-01-17": 99175,
-  "2023-01-18": 99225,
-  "2023-01-19": 99274,
-  "2023-01-20": 99322,
-  "2023-01-21": 99379,
-  "2023-01-22": 99454,
-  "2023-01-23": 99506,
-  "2023-01-24": 99570,
-  "2023-01-25": 99637,
-  "2023-01-26": 99716,
-  "2023-01-27": 99780,
-  "2023-01-28": 99849,
-  "2023-01-29": 99923,
-  "2023-01-30": 99973,
-  "2023-01-31": 99973,
-  "2023-02-01": 100064,
-  "2023-02-02": 100120,
-  "2023-02-03": 100169,
-  "2023-02-04": 100257,
-  "2023-02-05": 100312,
-  "2023-02-06": 100364,
-  "2023-02-07": 100398,
-  "2023-02-08": 100476,
-  "2023-02-09": 100476,
-  "2023-02-10": 100534,
-  "2023-02-11": 100582,
-  "2023-02-12": 100691,
-  "2023-02-13": 100750,
-  "2023-02-14": 100750,
-  "2023-02-15": 100828,
-  "2023-02-16": 100883,
-  "2023-02-17": 100927,
-  "2023-02-18": 101058,
-  "2023-02-19": 101065,
-  "2023-02-20": 101112,
-  "2023-02-21": 101145,
-  "2023-02-22": 101177,
-  "2023-02-23": 101204,
-  "2023-02-24": 101246,
-  "2023-02-25": 101385,
-  "2023-02-26": 101427,
-  "2023-02-27": 101529,
-  "2023-02-28": 101529,
-  "2023-03-01": 101563,
-  "2023-03-02": 101617,
-  "2023-03-03": 101671,
-  "2023-03-04": 101739,
-  "2023-03-05": 101843,
-  "2023-03-06": 101843,
-  "2023-03-07": 101876,
-  "2023-03-08": 101923,
-  "2023-03-09": 101983,
-  "2023-03-10": 102037,
-  "2023-03-11": 102130,
-  "2023-03-12": 102193,
-  "2023-03-13": 102265,
-  "2023-03-14": 102320,
-  "2023-03-15": 102384,
-  "2023-03-16": 102384,
-  "2023-03-17": 102384,
-  "2023-03-18": 103114,
-  "2023-03-19": 103114,
-  "2023-03-20": 103312,
-  "2023-03-21": 103363,
-  "2023-03-22": 103425,
-  "2023-03-23": 103469,
-  "2023-03-24": 103469,
-  "2023-03-25": 103545,
-  "2023-03-26": 103620,
-  "2023-03-27": 103664,
-  "2023-03-28": 103688,
-  "2023-03-29": 103724,
-  "2023-03-30": 103774,
-  "2023-03-31": 103774,
-  "2023-04-01": 103816,
-  "2023-04-02": 103863,
-  "2023-04-03": 103893,
-  "2023-04-04": 103921,
-  "2023-04-05": 103944,
-  "2023-04-06": 103984,
-  "2023-04-07": 104024,
-  "2023-04-09": 104095,
-  "2023-04-10": 104119,
-  "2023-04-11": 104162,
-  "2023-04-12": 104162,
-  "2023-04-13": 104184,
-  "2023-04-14": 104227,
-  "2023-04-15": 104266,
-  "2023-04-16": 104317,
-  "2023-04-17": 104377,
-  "2023-04-18": 104402,
-  "2023-04-19": 104451,
-  "2023-04-20": 104479,
-  "2023-04-21": 104520,
-  "2023-04-22": 104550,
-  "2023-04-23": 104598,
-  "2023-04-24": 104627,
-  "2023-04-25": 104649,
-  "2023-04-26": 104667,
-  "2023-04-27": 104698,
-  "2023-04-28": 104732,
-  "2023-04-29": 104774,
-  "2023-04-30": 104812,
-  "2023-05-01": 104843,
-  "2023-05-02": 104871,
-  "2023-05-03": 104904,
-  "2023-05-04": 104923,
-  "2023-05-05": 104950,
-  "2023-05-06": 104981,
-  "2023-05-07": 105019,
-  "2023-05-08": 105062,
-  "2023-05-09": 105093,
-  "2023-05-10": 105105,
-  "2023-05-11": 105136,
-  "2023-05-12": 105152,
-  "2023-05-13": 105208,
-  "2023-05-14": 105250,
-  "2023-05-15": 105264,
-  "2023-05-16": 105283,
-  "2023-05-17": 105319,
-  "2023-05-18": 105352,
-  "2023-05-19": 105405,
-  "2023-05-20": 105475,
-  "2023-05-21": 105475,
-  "2023-05-22": 105475,
-  "2023-05-23": 105537,
-  "2023-05-24": 105592,
-  "2023-05-25": 105598,
-  "2023-05-26": 105627,
-  "2023-05-27": 105652,
-  "2023-05-28": 105690,
-  "2023-05-29": 105690,
-  "2023-05-30": 105753,
-  "2023-05-31": 105784,
-  "2023-06-01": 105815,
-  "2023-06-02": 105857,
-  "2023-06-03": 105889,
-  "2023-06-04": 105929,
-  "2023-06-05": 105953,
-  "2023-06-06": 105986,
-  "2023-06-07": 106024,
-  "2023-06-08": 106062,
-  "2023-06-09": 106095,
-  "2023-06-10": 106137,
-  "2023-06-11": 106155,
-  "2023-06-12": 106182,
-  "2023-06-13": 106205,
-  "2023-06-14": 106233,
-  "2023-06-15": 106268,
-  "2023-06-16": 106306,
-  "2023-06-17": 106338,
-  "2023-06-18": 106375,
-  "2023-06-19": 106408,
-  "2023-06-20": 106432,
-  "2023-06-21": 106462,
-  "2023-06-22": 106499,
-  "2023-06-23": 106522,
-  "2023-06-24": 106550,
-  "2023-06-25": 106575,
-  "2023-06-26": 106589,
-  "2023-06-27": 106618,
-  "2023-06-28": 106649,
-  "2023-06-29": 106685,
-  "2023-06-30": 106719,
-  "2023-07-01": 106816,
-  "2023-07-02": 106816,
-  "2023-07-03": 106841,
-  "2023-07-04": 106860,
-  "2023-07-05": 106891,
-  "2023-07-06": 106952,
-  "2023-07-07": 106952,
-  "2023-07-08": 106952,
-  "2023-07-09": 106996,
-  "2023-07-10": 107021,
-  "2023-07-11": 107052,
-  "2023-07-12": 107092,
-  "2023-07-13": 107092,
-  "2023-07-14": 107154,
-  "2023-07-15": 107177,
-  "2023-07-16": 107216,
-  "2023-07-17": 107252,
-  "2023-07-18": 107277,
-  "2023-07-19": 107297,
-  "2023-07-20": 107297,
-  "2023-07-21": 107369,
-  "2023-07-22": 107396,
-  "2023-07-23": 107451,
-  "2023-07-24": 107487,
-  "2023-07-25": 107521,
-  "2023-07-26": 107541,
-  "2023-07-27": 107579,
-  "2023-07-28": 107579,
-  "2023-07-29": 107669,
-  "2023-07-30": 107669,
-  "2023-07-31": 107760,
-  "2023-08-01": 107807,
-  "2023-08-02": 107844,
-  "2023-08-03": 107864,
-  "2023-08-04": 107886,
-  "2023-08-05": 107932,
-  "2023-08-06": 108052,
-  "2023-08-07": 108052,
-  "2023-08-08": 108092,
-  "2023-08-09": 108111,
-  "2023-08-10": 108149,
-  "2023-08-11": 108193,
-  "2023-08-12": 108193,
-  "2023-08-13": 108193,
-  "2023-08-14": 108193,
-  "2023-08-15": 108193,
-  "2023-08-16": 108193,
-  "2023-08-17": 108193,
-  "2023-08-18": 108193,
-  "2023-08-19": 108193,
-  "2023-08-20": 108562,
-  "2023-08-21": 108562,
-  "2023-08-22": 108647,
-  "2023-08-23": 108647,
-  "2023-08-24": 108647,
-  "2023-08-25": 108647,
-  "2023-08-26": 108812,
-  "2023-08-27": 108812,
-  "2023-08-28": 108879,
-  "2023-08-29": 108879,
-  "2023-08-30": 108879,
-  "2023-08-31": 108959,
-  "2023-09-01": 108998,
-  "2023-09-02": 108998,
-  "2023-09-03": 108998,
-  "2023-09-04": 108998,
-  "2023-09-05": 108998,
-  "2023-09-06": 108998,
-  "2023-09-07": 108998,
-  "2023-09-08": 108998,
-  "2023-09-09": 108998,
-  "2023-09-10": 108998,
-  "2023-09-11": 108998,
-  "2023-09-12": 108998,
-  "2023-09-13": 108998,
-  "2023-09-14": 108998,
-  "2023-09-15": 108998,
-  "2023-09-16": 108998,
-  "2023-09-17": 108998,
-  "2023-09-18": 108998,
-  "2023-09-19": 108998,
-  "2023-09-20": 108998,
-  "2023-09-21": 108998,
-  "2023-09-22": 109515,
-  "2023-09-23": 109515,
-  "2023-09-24": 109515,
-  "2023-09-25": 109515,
-  "2023-09-26": 109643,
-  "2023-09-27": 109643,
-  "2023-09-28": 109643,
-  "2023-09-29": 109643,
-  "2023-09-30": 109643,
-  "2023-10-01": 109643,
-  "2023-10-02": 109643,
-  "2023-10-03": 109643,
-  "2023-10-04": 109643,
-  "2023-10-05": 109643,
-  "2023-10-06": 109643,
-  "2023-10-07": 109643,
-  "2023-10-08": 109643,
-  "2023-10-09": 109643,
-  "2023-10-10": 109643,
-  "2023-10-11": 109643,
-  "2023-10-12": 109643,
-  "2023-10-13": 109643,
-  "2023-10-14": 109643,
-  "2023-10-15": 109643,
-  "2023-10-16": 109643,
-  "2023-10-17": 109643,
-  "2023-10-18": 109643,
-  "2023-10-19": 109643,
-  "2023-10-20": 109643,
-  "2023-10-21": 109643,
-  "2023-10-22": 109643,
-  "2023-10-23": 109643,
-  "2023-10-24": 109643,
-  "2023-10-25": 109643,
-  "2023-10-26": 109643,
-  "2023-10-27": 109643,
-  "2023-10-28": 109643,
-  "2023-10-29": 109643,
-  "2023-10-30": 109643,
-  "2023-10-31": 109643,
-  "2023-11-01": 109643,
-  "2023-11-02": 109643,
-  "2023-11-03": 109643,
-  "2023-11-04": 109643,
-  "2023-11-05": 109643,
-  "2023-11-06": 109643,
-  "2023-11-07": 109643,
-  "2023-11-08": 109643,
-  "2023-11-09": 109643,
-  "2023-11-10": 109643,
-  "2023-11-11": 110773,
-  "2023-11-12": 110773,
-  "2023-11-13": 110773,
-  "2023-11-14": 110773,
-  "2023-11-15": 110773,
-  "2023-11-16": 110773,
-  "2023-11-17": 110773,
-  "2023-11-18": 110773,
-  "2023-11-19": 110773,
-  "2023-11-20": 110773,
-  "2023-11-21": 110773,
-  "2023-11-22": 110773,
-  "2023-11-23": 110773,
-  "2023-11-24": 110773,
-  "2023-11-25": 110773,
-  "2023-11-26": 110773,
-  "2023-11-27": 110773,
-  "2023-11-28": 110773,
-  "2023-11-29": 110773,
-  "2023-11-30": 110773,
-  "2023-12-01": 110773,
-  "2023-12-02": 110773,
-  "2023-12-03": 110773,
-  "2023-12-04": 110773,
-  "2023-12-05": 110773,
-  "2023-12-06": 110773,
-  "2023-12-07": 110773,
-  "2023-12-08": 110773,
-  "2023-12-09": 110773,
-  "2023-12-10": 110773,
-  "2023-12-11": 110773,
-  "2023-12-12": 110773,
-  "2023-12-13": 110773,
-  "2023-12-14": 111532,
-  "2023-12-15": 111547,
-  "2023-12-16": 111567,
-  "2023-12-17": 111589,
-  "2023-12-18": 111616,
-  "2023-12-19": 111635,
-  "2023-12-20": 111660,
-  "2023-12-21": 111681,
-  "2023-12-22": 111707,
-  "2023-12-23": 111729,
-  "2023-12-24": 111768,
-  "2023-12-25": 111782,
-  "2023-12-26": 111809,
-  "2023-12-27": 111831,
-  "2023-12-30": 111904,
-  "2023-12-31": 111931,
-  "2024-01-01": 111959,
-  "2024-01-02": 111976,
-  "2024-01-03": 111982
+  "2024-01-17": 112160,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
+  "name": "This Is Dropkick Murphys",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
+    },
+    {
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 114226,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/3sU3CRgvbFesquT8W4KqPv"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/5T7POXN2LUqLOfwmlW10gI"
+    },
+    {
+      "album": {
+        "name": "All You Fonies",
+        "url": "https://open.spotify.com/album/7wEv3shDfmxmPucrVDZgfE"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/5nMAPIuIxezwDgaeklUG07"
+    },
+    {
+      "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177887,
+      "name": "Barroom Hero",
+      "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 183306,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/2uOb4zNJahkxtCUNewkY6t"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 241760,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"
+    },
+    {
+      "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 107706,
+      "name": "Blood and Whiskey",
+      "url": "https://open.spotify.com/track/686FZUtOvjfdhSsyjbGfXb"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Boys on the Docks",
+      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Bring It Home (feat. Jaime Wyatt)",
+      "url": "https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 173402,
+      "name": "Cadillac, Cadillac",
+      "url": "https://open.spotify.com/track/3e46b4yxZyHMV2MEMvcU7n"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Sammy Amara",
+          "url": "https://open.spotify.com/artist/4RBEJH5AwRE4dQT2qBmi6p"
+        },
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 173402,
+      "name": "Cadillac, Cadillac (feat. Sammy Amara of Broilers) - Bonus Track",
+      "url": "https://open.spotify.com/track/3BI2VcceUXegNQ9WCzc7J3"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Captain Kelly's Kitchen",
+      "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 139872,
+      "name": "Caught In A Jar",
+      "url": "https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 189772,
+      "name": "Dig A Hole (feat. Woody Guthrie)",
+      "url": "https://open.spotify.com/track/6ExuAoRylhOacHhNp9aoKa"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 110625,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times",
+        "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 166973,
+      "name": "Famous for Nothing",
+      "url": "https://open.spotify.com/track/7752ly2fp6Pfktq8I7zsxR"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "Fields of Athenry",
+      "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 175306,
+      "name": "First Class Loser",
+      "url": "https://open.spotify.com/track/6z6Pay3JF7cxbFyw6eS1z0"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times",
+        "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 219280,
+      "name": "Flannigan's Ball",
+      "url": "https://open.spotify.com/track/2aYuJhVerZYSTZgpWPqdAa"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93373,
+      "name": "For Boston",
+      "url": "https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp"
+    },
+    {
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times",
+        "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/05EYDQNbnDUdWt3zyFzQ9Z"
+    },
+    {
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "Going Out In Style",
+      "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200773,
+      "name": "Good As Gold",
+      "url": "https://open.spotify.com/track/29w2i0wJXNtrHoY3uLpXlB"
+    },
+    {
+      "album": {
+        "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
+        "url": "https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 166065,
+      "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
+      "url": "https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184255,
+      "name": "Hear The Curfew Blowin",
+      "url": "https://open.spotify.com/track/1JkejsQonh89GAXG6GtsYI"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 210600,
+      "name": "Heroes From Our Past",
+      "url": "https://open.spotify.com/track/6woegjlrVelSK2Oy5vM2ge"
+    },
+    {
+      "album": {
+        "name": "I Know How It Feels",
+        "url": "https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 166805,
+      "name": "I Know How It Feels",
+      "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166805,
+      "name": "I Know How It Feels",
+      "url": "https://open.spotify.com/track/6HHOfCasAA4atEOl1EZppQ"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 261862,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 263326,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/1SwGLh5FjretgcJFf85QIw"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283680,
+      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
+      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
+    },
+    {
+      "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 179066,
+      "name": "Jimmy Collins Wake",
+      "url": "https://open.spotify.com/track/5ZdXqpvgDKP6LshnmgNRiE"
+    },
+    {
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 179066,
+      "name": "Jimmy Collins' Wake",
+      "url": "https://open.spotify.com/track/3YmC2Q6kZ4jIrSlxRDEFLZ"
+    },
+    {
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Johnny, I Hardly Knew Ya",
+      "url": "https://open.spotify.com/track/2JKG5gyxMeZaBazd8S6FGt"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times",
+        "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 234653,
+      "name": "Johnny, I Hardly Knew Ya",
+      "url": "https://open.spotify.com/track/6WNAhQVBolZgVfyxWd0z7I"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times Limited Edition",
+        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 234653,
+      "name": "Johnny, I Hardly Knew Ya",
+      "url": "https://open.spotify.com/track/7qjKgC94B30FRoOcHnMrfx"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334226,
+      "name": "Kiss Me I'm #!@'faced",
+      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
+    },
+    {
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145346,
+      "name": "Loyal To No One",
+      "url": "https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 158235,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2AYYP2v43sgjA8ygBnGyxy"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132393,
+      "name": "My Eyes Are Gonna Shine",
+      "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 205937,
+      "name": "Never Git Drunk No More (feat. Nikki Lane)",
+      "url": "https://open.spotify.com/track/0JuhSdmFY00TcRQZeslOep"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205937,
+      "name": "Never Git Drunk No More (feat. Nikki Lane)",
+      "url": "https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ"
+    },
+    {
+      "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 191506,
+      "name": "Out of Our Heads",
+      "url": "https://open.spotify.com/track/6pYfWV7I1M5vNU3DsVSXhS"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 234133,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
+    },
+    {
+      "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/1buzYFaWAwVlYPbXq3Bt4A"
+    },
+    {
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "Prisoner's Song",
+      "url": "https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/1CVbrlk5SiU2W1c1UoLHs3"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Jesse Ahern",
+          "url": "https://open.spotify.com/artist/6r0uPWjVNMn86oxk3A2jta"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207645,
+      "name": "Rippin Up The Boundary Line (feat. Jesse Ahern)",
+      "url": "https://open.spotify.com/track/4MRZXY4jBPHxGJ1nDr7Avi"
+    },
+    {
+      "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/3j5QcKYJ836ZBbcj1OoEod"
+    },
+    {
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 162063,
+      "name": "Run Hitler Run",
+      "url": "https://open.spotify.com/track/1qFIInOULGuxhOwnhYJWhu"
+    },
+    {
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 229200,
+      "name": "Skinhead on the MBTA",
+      "url": "https://open.spotify.com/track/5AtphKfJ4zmnEXOlZ2dWbW"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 227627,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193349,
+      "name": "Talking Jukebox",
+      "url": "https://open.spotify.com/track/4qF2ncOvyw04e8Cbe5WvO2"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 193349,
+      "name": "Talking Jukebox",
+      "url": "https://open.spotify.com/track/56cKEoN9Rdmv2QAGOHrqCr"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/4Wc4TZ1uXhiHm24DdRCDPo"
+    },
+    {
+      "album": {
+        "name": "Ten Times More",
+        "url": "https://open.spotify.com/album/1bhVg5b0MVqF120jXHGz7U"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/6ICSBwJIVzU7d5JnuUzmau"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 255533,
+      "name": "Tessie",
+      "url": "https://open.spotify.com/track/27hX5P9TCxw9LW8p8AkwMU"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "The Auld Triangle",
+      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
+    },
+    {
+      "album": {
+        "name": "Signed and Sealed In Blood",
+        "url": "https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 199093,
+      "name": "The Boys Are Back",
+      "url": "https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39"
+    },
+    {
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "The Boys Are Back",
+      "url": "https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 217866,
+      "name": "The Dirty Glass",
+      "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
+    },
+    {
+      "album": {
+        "name": "A Toast to St. Patrick! - Irish Drinking Songs",
+        "url": "https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 233640,
+      "name": "The Dirty Glass",
+      "url": "https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167866,
+      "name": "The Gauntlet",
+      "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285640,
+      "name": "The Green Fields Of France (No Man's Land)",
+      "url": "https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki"
+    },
+    {
+      "album": {
+        "name": "Going out in Style",
+        "url": "https://open.spotify.com/album/7LEa9eWXGV2DsPldRkD1qo"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 219249,
+      "name": "The Irish Rover",
+      "url": "https://open.spotify.com/track/4ezf7rIpqEU6GwwxBj7Y0R"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Evan Felker",
+          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213357,
+      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
+      "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Evan Felker",
+          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 213357,
+      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
+      "url": "https://open.spotify.com/track/4bHFIWlluSvc9MP8NQmqF1"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "The Lonesome Boatman",
+      "url": "https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 162853,
+      "name": "The Lonesome Boatman",
+      "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "The Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 207093,
+      "name": "The Spicy McHaggis Jig",
+      "url": "https://open.spotify.com/track/3Xw3UzQjdIWMuHvkOjOL8Q"
+    },
+    {
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "The State Of Massachusetts",
+      "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times Limited Edition",
+        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 232186,
+      "name": "The State Of Massachusetts",
+      "url": "https://open.spotify.com/track/4g9aB6nGJxQA1ZHtzAXirL"
+    },
+    {
+      "album": {
+        "name": "The Meanest of Times",
+        "url": "https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 234960,
+      "name": "The State of Massachusetts",
+      "url": "https://open.spotify.com/track/7b7mtUwxYqTCPsxBvfzbd2"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151840,
+      "name": "The Warrior's Code",
+      "url": "https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He"
+    },
+    {
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/42ef8hFlFvRtMYTEelfiTm"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209718,
+      "name": "Two 6's Upside Down",
+      "url": "https://open.spotify.com/track/0aE2HXcm7eoEGZG5i6rPXK"
+    },
+    {
+      "album": {
+        "name": "Two 6's Upside Down",
+        "url": "https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 209718,
+      "name": "Two 6's Upside Down",
+      "url": "https://open.spotify.com/track/33OFWa8o5rf99TIDEIslQG"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 209718,
+      "name": "Two 6's Upside Down",
+      "url": "https://open.spotify.com/track/6ZNEDdpGk4ToVof1gtMjNo"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217772,
+      "name": "Watchin The World Go By",
+      "url": "https://open.spotify.com/track/3H23O1qOJa99E7wFpPT6Ln"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 182913,
+      "name": "Waters Are A'risin",
+      "url": "https://open.spotify.com/track/2mANo8gSEKyw8Rdfc6PBML"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 182913,
+      "name": "Waters Are A'risin",
+      "url": "https://open.spotify.com/track/5Vj1Tsd7aTFt1AVPVQySqL"
+    },
+    {
+      "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 152501,
+      "name": "When I Was A Little Boy",
+      "url": "https://open.spotify.com/track/4AnsvntwCYKAuKkUaG851H"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 153644,
+      "name": "Where Trouble Is At",
+      "url": "https://open.spotify.com/track/2wMNOJzXVsTYBynwWu9l9F"
+    },
+    {
+      "album": {
+        "name": "This Machine Still Kills Fascists",
+        "url": "https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 153644,
+      "name": "Where Trouble Is At",
+      "url": "https://open.spotify.com/track/3NDnVXyl83rLQSALHn2HFT"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Worker's Song",
+      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 140781,
+      "name": "Your Spirit's Alive",
+      "url": "https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s0KkM"
 }

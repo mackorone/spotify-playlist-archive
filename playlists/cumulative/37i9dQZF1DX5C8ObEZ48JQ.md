@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5C8ObEZ48JQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5C8ObEZ48JQ)
 
-### [Fresh Finds Africa: Best of 2023](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
+### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> Our editors' picks of the best Fresh Finds tracks from Africa this year\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=XU\-hT4i7TO\-GoA1GLDBjRA"> YKB </a>\. Artwork: Isu Kim.
 
 623 songs - 1 day 7 hr 31 min
 

@@ -1,548 +1,1397 @@
 {
-  "2022-06-30": 18698,
-  "2022-07-01": 18708,
-  "2022-07-02": 18716,
-  "2022-07-03": 18728,
-  "2022-07-04": 18738,
-  "2022-07-05": 18749,
-  "2022-07-06": 18767,
-  "2022-07-07": 18774,
-  "2022-07-08": 18782,
-  "2022-07-09": 18788,
-  "2022-07-10": 18794,
-  "2022-07-11": 18804,
-  "2022-07-12": 18817,
-  "2022-07-13": 18831,
-  "2022-07-14": 18839,
-  "2022-07-15": 18848,
-  "2022-07-16": 18854,
-  "2022-07-17": 18866,
-  "2022-07-18": 18876,
-  "2022-07-19": 18887,
-  "2022-07-20": 18908,
-  "2022-07-21": 18916,
-  "2022-07-22": 18916,
-  "2022-07-23": 18923,
-  "2022-07-24": 18939,
-  "2022-07-25": 18951,
-  "2022-07-26": 18956,
-  "2022-07-27": 18968,
-  "2022-07-28": 18971,
-  "2022-07-29": 18984,
-  "2022-07-30": 19007,
-  "2022-07-31": 19007,
-  "2022-08-01": 19010,
-  "2022-08-02": 19020,
-  "2022-08-03": 19020,
-  "2022-08-04": 19028,
-  "2022-08-05": 19026,
-  "2022-08-06": 19033,
-  "2022-08-07": 19038,
-  "2022-08-08": 19054,
-  "2022-08-09": 19061,
-  "2022-08-10": 19072,
-  "2022-08-11": 19083,
-  "2022-08-12": 19092,
-  "2022-08-13": 19099,
-  "2022-08-14": 19104,
-  "2022-08-15": 19113,
-  "2022-08-16": 19129,
-  "2022-08-17": 19137,
-  "2022-08-18": 19155,
-  "2022-08-19": 19154,
-  "2022-08-20": 19163,
-  "2022-08-21": 19177,
-  "2022-08-23": 19196,
-  "2022-08-24": 19202,
-  "2022-08-25": 19209,
-  "2022-08-26": 19221,
-  "2022-08-27": 19235,
-  "2022-08-28": 19250,
-  "2022-08-29": 19254,
-  "2022-08-30": 19261,
-  "2022-08-31": 19274,
-  "2022-09-01": 19279,
-  "2022-09-02": 19290,
-  "2022-09-03": 19309,
-  "2022-09-04": 19320,
-  "2022-09-05": 19327,
-  "2022-09-06": 19335,
-  "2022-09-07": 19346,
-  "2022-09-09": 19365,
-  "2022-09-10": 19371,
-  "2022-09-11": 19381,
-  "2022-09-12": 19390,
-  "2022-09-13": 19401,
-  "2022-09-15": 19426,
-  "2022-09-16": 19438,
-  "2022-09-17": 19449,
-  "2022-09-18": 19457,
-  "2022-09-19": 19473,
-  "2022-09-20": 19480,
-  "2022-09-21": 19487,
-  "2022-09-22": 19499,
-  "2022-09-23": 19514,
-  "2022-09-24": 19527,
-  "2022-09-25": 19541,
-  "2022-09-26": 19557,
-  "2022-09-27": 19573,
-  "2022-09-28": 19583,
-  "2022-09-29": 19596,
-  "2022-09-30": 19613,
-  "2022-10-01": 19621,
-  "2022-10-02": 19633,
-  "2022-10-03": 19644,
-  "2022-10-04": 19655,
-  "2022-10-05": 19663,
-  "2022-10-06": 19675,
-  "2022-10-07": 19689,
-  "2022-10-08": 19699,
-  "2022-10-09": 19714,
-  "2022-10-10": 19719,
-  "2022-10-11": 19736,
-  "2022-10-12": 19748,
-  "2022-10-13": 19752,
-  "2022-10-14": 19763,
-  "2022-10-15": 19779,
-  "2022-10-16": 19791,
-  "2022-10-17": 19808,
-  "2022-10-18": 19818,
-  "2022-10-19": 19832,
-  "2022-10-20": 19833,
-  "2022-10-21": 19840,
-  "2022-10-22": 19846,
-  "2022-10-23": 19863,
-  "2022-10-24": 19874,
-  "2022-10-25": 19888,
-  "2022-10-26": 19901,
-  "2022-10-27": 19914,
-  "2022-10-28": 19928,
-  "2022-10-29": 19942,
-  "2022-10-30": 19959,
-  "2022-10-31": 19974,
-  "2022-11-01": 19984,
-  "2022-11-02": 19984,
-  "2022-11-03": 19994,
-  "2022-11-04": 20001,
-  "2022-11-05": 20018,
-  "2022-11-06": 20033,
-  "2022-11-07": 20044,
-  "2022-11-08": 20059,
-  "2022-11-09": 20068,
-  "2022-11-10": 20079,
-  "2022-11-11": 20087,
-  "2022-11-12": 20104,
-  "2022-11-13": 20115,
-  "2022-11-14": 20128,
-  "2022-11-15": 20129,
-  "2022-11-16": 20138,
-  "2022-11-17": 20145,
-  "2022-11-18": 20146,
-  "2022-11-19": 20146,
-  "2022-11-20": 20156,
-  "2022-11-21": 20172,
-  "2022-11-22": 20184,
-  "2022-11-23": 20198,
-  "2022-11-24": 20213,
-  "2022-11-25": 20227,
-  "2022-11-26": 20234,
-  "2022-11-27": 20240,
-  "2022-11-28": 20246,
-  "2022-11-29": 20248,
-  "2022-11-30": 20255,
-  "2022-12-01": 20267,
-  "2022-12-02": 20271,
-  "2022-12-03": 20285,
-  "2022-12-04": 20297,
-  "2022-12-05": 20306,
-  "2022-12-06": 20318,
-  "2022-12-07": 20317,
-  "2022-12-08": 20325,
-  "2022-12-09": 20341,
-  "2022-12-10": 20353,
-  "2022-12-11": 20359,
-  "2022-12-12": 20374,
-  "2022-12-13": 20380,
-  "2022-12-14": 20394,
-  "2022-12-15": 20406,
-  "2022-12-16": 20414,
-  "2022-12-17": 20422,
-  "2022-12-18": 20431,
-  "2022-12-19": 20431,
-  "2022-12-20": 20444,
-  "2022-12-21": 20444,
-  "2022-12-22": 20452,
-  "2022-12-24": 20471,
-  "2022-12-25": 20480,
-  "2022-12-26": 20496,
-  "2022-12-27": 20507,
-  "2022-12-28": 20511,
-  "2022-12-29": 20524,
-  "2022-12-30": 20536,
-  "2022-12-31": 20550,
-  "2023-01-01": 20567,
-  "2023-01-02": 20577,
-  "2023-01-03": 20601,
-  "2023-01-04": 20609,
-  "2023-01-05": 20627,
-  "2023-01-06": 20636,
-  "2023-01-07": 20660,
-  "2023-01-08": 20665,
-  "2023-01-09": 20678,
-  "2023-01-10": 20691,
-  "2023-01-11": 20699,
-  "2023-01-12": 20707,
-  "2023-01-13": 20722,
-  "2023-01-14": 20745,
-  "2023-01-15": 20747,
-  "2023-01-16": 20764,
-  "2023-01-17": 20765,
-  "2023-01-18": 20779,
-  "2023-01-19": 20793,
-  "2023-01-20": 20811,
-  "2023-01-21": 20832,
-  "2023-01-22": 20850,
-  "2023-01-23": 20867,
-  "2023-01-24": 20876,
-  "2023-01-25": 20885,
-  "2023-01-26": 20894,
-  "2023-01-27": 20907,
-  "2023-01-28": 20918,
-  "2023-01-29": 20935,
-  "2023-01-30": 20946,
-  "2023-01-31": 20946,
-  "2023-02-01": 20976,
-  "2023-02-02": 20989,
-  "2023-02-03": 20999,
-  "2023-02-04": 21011,
-  "2023-02-05": 21032,
-  "2023-02-06": 21042,
-  "2023-02-07": 21054,
-  "2023-02-08": 21063,
-  "2023-02-09": 21063,
-  "2023-02-10": 21071,
-  "2023-02-11": 21090,
-  "2023-02-12": 21119,
-  "2023-02-13": 21129,
-  "2023-02-14": 21129,
-  "2023-02-15": 21137,
-  "2023-02-16": 21143,
-  "2023-02-17": 21158,
-  "2023-02-18": 21182,
-  "2023-02-19": 21185,
-  "2023-02-20": 21203,
-  "2023-02-21": 21209,
-  "2023-02-22": 21218,
-  "2023-02-23": 21220,
-  "2023-02-24": 21238,
-  "2023-02-25": 21260,
-  "2023-02-26": 21268,
-  "2023-02-27": 21304,
-  "2023-02-28": 21304,
-  "2023-03-01": 21319,
-  "2023-03-02": 21330,
-  "2023-03-03": 21344,
-  "2023-03-04": 21352,
-  "2023-03-05": 21385,
-  "2023-03-06": 21385,
-  "2023-03-07": 21392,
-  "2023-03-08": 21397,
-  "2023-03-09": 21415,
-  "2023-03-10": 21432,
-  "2023-03-11": 21448,
-  "2023-03-12": 21464,
-  "2023-03-13": 21478,
-  "2023-03-14": 21488,
-  "2023-03-15": 21504,
-  "2023-03-16": 21529,
-  "2023-03-17": 21529,
-  "2023-03-18": 21559,
-  "2023-03-19": 21573,
-  "2023-03-20": 21595,
-  "2023-03-21": 21611,
-  "2023-03-22": 21624,
-  "2023-03-23": 21633,
-  "2023-03-24": 21633,
-  "2023-03-25": 21654,
-  "2023-03-26": 21666,
-  "2023-03-27": 21678,
-  "2023-03-28": 21694,
-  "2023-03-29": 21712,
-  "2023-03-30": 21739,
-  "2023-03-31": 21739,
-  "2023-04-01": 21750,
-  "2023-04-02": 21768,
-  "2023-04-03": 21776,
-  "2023-04-04": 21781,
-  "2023-04-05": 21793,
-  "2023-04-06": 21806,
-  "2023-04-07": 21826,
-  "2023-04-09": 21851,
-  "2023-04-10": 21862,
-  "2023-04-11": 21886,
-  "2023-04-12": 21886,
-  "2023-04-13": 21896,
-  "2023-04-14": 21915,
-  "2023-04-15": 21937,
-  "2023-04-16": 21947,
-  "2023-04-17": 21964,
-  "2023-04-18": 21974,
-  "2023-04-19": 22002,
-  "2023-04-20": 22020,
-  "2023-04-21": 22035,
-  "2023-04-22": 22051,
-  "2023-04-23": 22069,
-  "2023-04-24": 22080,
-  "2023-04-25": 22094,
-  "2023-04-26": 22107,
-  "2023-04-27": 22128,
-  "2023-04-28": 22151,
-  "2023-04-29": 22157,
-  "2023-04-30": 22178,
-  "2023-05-01": 22210,
-  "2023-05-02": 22236,
-  "2023-05-03": 22252,
-  "2023-05-04": 22267,
-  "2023-05-05": 22278,
-  "2023-05-06": 22307,
-  "2023-05-07": 22334,
-  "2023-05-08": 22353,
-  "2023-05-09": 22361,
-  "2023-05-10": 22373,
-  "2023-05-11": 22386,
-  "2023-05-12": 22401,
-  "2023-05-13": 22427,
-  "2023-05-14": 22444,
-  "2023-05-15": 22473,
-  "2023-05-16": 22493,
-  "2023-05-17": 22507,
-  "2023-05-18": 22522,
-  "2023-05-19": 22544,
-  "2023-05-20": 22580,
-  "2023-05-21": 22580,
-  "2023-05-22": 22580,
-  "2023-05-23": 22618,
-  "2023-05-24": 22649,
-  "2023-05-25": 22654,
-  "2023-05-26": 22680,
-  "2023-05-27": 22703,
-  "2023-05-28": 22722,
-  "2023-05-29": 22722,
-  "2023-05-30": 22744,
-  "2023-05-31": 22763,
-  "2023-06-01": 22773,
-  "2023-06-02": 22794,
-  "2023-06-03": 22818,
-  "2023-06-04": 22834,
-  "2023-06-05": 22853,
-  "2023-06-06": 22867,
-  "2023-06-07": 22883,
-  "2023-06-08": 22897,
-  "2023-06-09": 22909,
-  "2023-06-10": 22926,
-  "2023-06-11": 22949,
-  "2023-06-12": 22970,
-  "2023-06-13": 22989,
-  "2023-06-14": 22989,
-  "2023-06-15": 23009,
-  "2023-06-16": 23030,
-  "2023-06-17": 23043,
-  "2023-06-18": 23060,
-  "2023-06-19": 23075,
-  "2023-06-20": 23083,
-  "2023-06-21": 23106,
-  "2023-06-22": 23119,
-  "2023-06-23": 23130,
-  "2023-06-24": 23147,
-  "2023-06-25": 23161,
-  "2023-06-26": 23179,
-  "2023-06-27": 23190,
-  "2023-06-28": 23204,
-  "2023-06-29": 23218,
-  "2023-06-30": 23237,
-  "2023-07-01": 23269,
-  "2023-07-02": 23269,
-  "2023-07-03": 23296,
-  "2023-07-04": 23309,
-  "2023-07-05": 23314,
-  "2023-07-06": 23340,
-  "2023-07-07": 23340,
-  "2023-07-08": 23357,
-  "2023-07-09": 23374,
-  "2023-07-10": 23388,
-  "2023-07-11": 23400,
-  "2023-07-12": 23412,
-  "2023-07-13": 23429,
-  "2023-07-14": 23443,
-  "2023-07-15": 23463,
-  "2023-07-16": 23482,
-  "2023-07-17": 23504,
-  "2023-07-18": 23521,
-  "2023-07-19": 23531,
-  "2023-07-20": 23548,
-  "2023-07-21": 23558,
-  "2023-07-22": 23569,
-  "2023-07-23": 23587,
-  "2023-07-24": 23612,
-  "2023-07-25": 23628,
-  "2023-07-26": 23639,
-  "2023-07-27": 23661,
-  "2023-07-28": 23678,
-  "2023-07-29": 23700,
-  "2023-07-30": 23723,
-  "2023-07-31": 23738,
-  "2023-08-01": 23757,
-  "2023-08-02": 23773,
-  "2023-08-03": 23786,
-  "2023-08-04": 23795,
-  "2023-08-05": 23812,
-  "2023-08-06": 23846,
-  "2023-08-07": 23846,
-  "2023-08-08": 23854,
-  "2023-08-09": 23863,
-  "2023-08-10": 23875,
-  "2023-08-11": 23893,
-  "2023-08-12": 23907,
-  "2023-08-13": 23925,
-  "2023-08-14": 23946,
-  "2023-08-15": 23969,
-  "2023-08-16": 23969,
-  "2023-08-17": 23986,
-  "2023-08-18": 24008,
-  "2023-08-19": 24022,
-  "2023-08-20": 24037,
-  "2023-08-21": 24054,
-  "2023-08-22": 24071,
-  "2023-08-23": 24084,
-  "2023-08-24": 24094,
-  "2023-08-25": 24114,
-  "2023-08-26": 24126,
-  "2023-08-27": 24141,
-  "2023-08-28": 24159,
-  "2023-08-29": 24171,
-  "2023-08-30": 24187,
-  "2023-08-31": 24194,
-  "2023-09-01": 24235,
-  "2023-09-02": 24235,
-  "2023-09-03": 24250,
-  "2023-09-04": 24286,
-  "2023-09-05": 24317,
-  "2023-09-06": 24353,
-  "2023-09-07": 24381,
-  "2023-09-08": 24414,
-  "2023-09-09": 24442,
-  "2023-09-10": 24468,
-  "2023-09-11": 24499,
-  "2023-09-12": 24524,
-  "2023-09-13": 24566,
-  "2023-09-14": 24592,
-  "2023-09-15": 24614,
-  "2023-09-16": 24642,
-  "2023-09-17": 24674,
-  "2023-09-18": 24702,
-  "2023-09-19": 24724,
-  "2023-09-20": 24742,
-  "2023-09-21": 24764,
-  "2023-09-22": 24796,
-  "2023-09-23": 24823,
-  "2023-09-24": 24855,
-  "2023-09-25": 24870,
-  "2023-09-26": 24893,
-  "2023-09-27": 24911,
-  "2023-09-28": 24931,
-  "2023-09-29": 24960,
-  "2023-09-30": 24971,
-  "2023-10-01": 25009,
-  "2023-10-02": 25029,
-  "2023-10-03": 25046,
-  "2023-10-04": 25086,
-  "2023-10-05": 25113,
-  "2023-10-06": 25127,
-  "2023-10-07": 25140,
-  "2023-10-08": 25168,
-  "2023-10-09": 25193,
-  "2023-10-10": 25207,
-  "2023-10-11": 25235,
-  "2023-10-12": 25235,
-  "2023-10-13": 25253,
-  "2023-10-14": 25273,
-  "2023-10-15": 25292,
-  "2023-10-16": 25310,
-  "2023-10-17": 25343,
-  "2023-10-18": 25360,
-  "2023-10-19": 25388,
-  "2023-10-20": 25402,
-  "2023-10-21": 25424,
-  "2023-10-22": 25454,
-  "2023-10-23": 25486,
-  "2023-10-24": 25498,
-  "2023-10-25": 25518,
-  "2023-10-26": 25539,
-  "2023-10-27": 25571,
-  "2023-10-28": 25571,
-  "2023-10-29": 25571,
-  "2023-10-30": 25644,
-  "2023-10-31": 25644,
-  "2023-11-01": 25686,
-  "2023-11-02": 25710,
-  "2023-11-03": 25734,
-  "2023-11-04": 25734,
-  "2023-11-05": 25780,
-  "2023-11-06": 25810,
-  "2023-11-07": 25826,
-  "2023-11-08": 25842,
-  "2023-11-09": 25863,
-  "2023-11-10": 25887,
-  "2023-11-11": 25899,
-  "2023-11-12": 25927,
-  "2023-11-13": 25950,
-  "2023-11-14": 25967,
-  "2023-11-15": 25967,
-  "2023-11-16": 25993,
-  "2023-11-17": 26042,
-  "2023-11-18": 26042,
-  "2023-11-19": 26075,
-  "2023-11-20": 26085,
-  "2023-11-21": 26119,
-  "2023-11-22": 26135,
-  "2023-11-23": 26150,
-  "2023-11-24": 26150,
-  "2023-11-25": 26186,
-  "2023-11-26": 26218,
-  "2023-11-27": 26245,
-  "2023-11-28": 26258,
-  "2023-11-29": 26305,
-  "2023-11-30": 26305,
-  "2023-12-01": 26305,
-  "2023-12-02": 26346,
-  "2023-12-03": 26376,
-  "2023-12-04": 26376,
-  "2023-12-05": 26411,
-  "2023-12-06": 26439,
-  "2023-12-07": 26454,
-  "2023-12-08": 26454,
-  "2023-12-09": 26478,
-  "2023-12-10": 26478,
-  "2023-12-11": 26495,
-  "2023-12-12": 26495,
-  "2023-12-13": 26525,
-  "2023-12-14": 26539,
-  "2023-12-15": 26551,
-  "2023-12-16": 26564,
-  "2023-12-17": 26575,
-  "2023-12-18": 26591,
-  "2023-12-19": 26603,
-  "2023-12-20": 26619,
-  "2023-12-21": 26627,
-  "2023-12-22": 26638,
-  "2023-12-23": 26663,
-  "2023-12-24": 26681,
-  "2023-12-25": 26705,
-  "2023-12-26": 26724,
-  "2023-12-27": 26735,
-  "2023-12-30": 26791,
-  "2023-12-31": 26810,
-  "2024-01-01": 26826,
-  "2024-01-02": 26851,
-  "2024-01-03": 26856
+  "2024-01-17": 27062,
+  "date_first_scraped": "2022-06-30",
+  "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
+  "name": "Tango Rock",
+  "tracks": [
+    {
+      "album": {
+        "name": "Fisura Expuesta",
+        "url": "https://open.spotify.com/album/6ecr6nssE6FPGcQL4CGWqD"
+      },
+      "artists": [
+        {
+          "name": "Juan Subira",
+          "url": "https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk"
+        },
+        {
+          "name": "Gustavo Cordera",
+          "url": "https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264706,
+      "name": "Al Borde",
+      "url": "https://open.spotify.com/track/2YjHEsZ5CfMr5pQVKnzptX"
+    },
+    {
+      "album": {
+        "name": "Alas De Tango",
+        "url": "https://open.spotify.com/album/736iIVohWaDIGAjB3pJ8YD"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "Alas De Tango",
+      "url": "https://open.spotify.com/track/3agi6vqicsnCdtxMaibtmC"
+    },
+    {
+      "album": {
+        "name": "Bailemos",
+        "url": "https://open.spotify.com/album/1Y9yvMJ173jWvE0ho8WEOy"
+      },
+      "artists": [
+        {
+          "name": "Max Aguirre",
+          "url": "https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 271258,
+      "name": "Bailemos",
+      "url": "https://open.spotify.com/track/0AQsA3OPmd4zXQtiip1Gf4"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Mariano Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222208,
+      "name": "Barro Tal Vez",
+      "url": "https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO"
+    },
+    {
+      "album": {
+        "name": "Cacho de Buenos Aires",
+        "url": "https://open.spotify.com/album/0E3s1yVPKs8jp4DQoqK2GJ"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        },
+        {
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277061,
+      "name": "Cacho de Buenos Aires",
+      "url": "https://open.spotify.com/track/4PhXYZCCN94hBeWYBTiikR"
+    },
+    {
+      "album": {
+        "name": "Int\u00e9rpretes",
+        "url": "https://open.spotify.com/album/5aiz5TGgMyaJDnjbM8zpqR"
+      },
+      "artists": [
+        {
+          "name": "Hermetica",
+          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154266,
+      "name": "Cambalache",
+      "url": "https://open.spotify.com/track/6M7sooRPMxkicgcVlnXOnL"
+    },
+    {
+      "album": {
+        "name": "Int\u00e9rpretes",
+        "url": "https://open.spotify.com/album/1yTHFSLxUB82URToWd2EM3"
+      },
+      "artists": [
+        {
+          "name": "Hermetica",
+          "url": "https://open.spotify.com/artist/6j6Ld5h0aFgH0VQWQNazS7"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154266,
+      "name": "Cambalache",
+      "url": "https://open.spotify.com/track/7u7nVx9CuAsmEIubLgaH8a"
+    },
+    {
+      "album": {
+        "name": "Carabelas Nada",
+        "url": "https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz"
+      },
+      "artists": [
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "Carabelas Nada",
+      "url": "https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221934,
+      "name": "Chiquil\u00edn de Bach\u00edn",
+      "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "album": {
+        "name": "El Tango Es Puro Cuento",
+        "url": "https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Federico Mizrahi",
+          "url": "https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg"
+        },
+        {
+          "name": "Luis Longhi",
+          "url": "https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH"
+        },
+        {
+          "name": "Walter Chino Laborde",
+          "url": "https://open.spotify.com/artist/16dxgUOiCDItNawZjRwgOI"
+        },
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/1mgAJTJwXEJYkRdePQ5nEW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196773,
+      "name": "Ciudad de los Tangos Sarpados",
+      "url": "https://open.spotify.com/track/42aMjiZ6vLYCe7yD8RM0H9"
+    },
+    {
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Codigo de barra",
+      "url": "https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm"
+    },
+    {
+      "album": {
+        "name": "Cuerpo y Alma",
+        "url": "https://open.spotify.com/album/28vkzoDZhQP2sCdvzWfYTG"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        },
+        {
+          "name": "N\u00e9stor Marconi",
+          "url": "https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174146,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/7BUT4kOdIMMgcK1aniQVDy"
+    },
+    {
+      "album": {
+        "name": "Cuerpo y Alma",
+        "url": "https://open.spotify.com/album/7oJZTQbJsNJ5qKDdTBwpUH"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        },
+        {
+          "name": "N\u00e9stor Marconi",
+          "url": "https://open.spotify.com/artist/0ZWO3TxKWBb6QvvGEDe38H"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Como Dos Extra\u00f1os (feat. Nestor Marconi)",
+      "url": "https://open.spotify.com/track/3LhNWmhwBdNiaOd30U3Kwl"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141893,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74"
+    },
+    {
+      "album": {
+        "name": "Espiritango",
+        "url": "https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige"
+      },
+      "artists": [
+        {
+          "name": "Los Visitantes",
+          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115733,
+      "name": "El Deseo de Evita",
+      "url": "https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC"
+    },
+    {
+      "album": {
+        "name": "Espiritango",
+        "url": "https://open.spotify.com/album/6pSYfGyDBPH7mOFdGiSPUs"
+      },
+      "artists": [
+        {
+          "name": "Los Visitantes",
+          "url": "https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115733,
+      "name": "El Deseo de Evita",
+      "url": "https://open.spotify.com/track/6zbmkBpERTs2ZYJI4Gxo4y"
+    },
+    {
+      "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272599,
+      "name": "El d\u00eda que me quieras",
+      "url": "https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99"
+    },
+    {
+      "album": {
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/21FV8HUlwM4hlPvSRtULVf"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275040,
+      "name": "El Mareo",
+      "url": "https://open.spotify.com/track/3AlcdhlEh1n9zzymRNXGfi"
+    },
+    {
+      "album": {
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275093,
+      "name": "El Mareo",
+      "url": "https://open.spotify.com/track/7gmLydEZS9b8F0dNGZ6d8h"
+    },
+    {
+      "album": {
+        "name": "Hora de Argentinas",
+        "url": "https://open.spotify.com/album/53sFe6aGnPMbc1XC0L7F4T"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 275093,
+      "name": "El Mareo",
+      "url": "https://open.spotify.com/track/7zlslEmkDIUb6SH2UmK2WH"
+    },
+    {
+      "album": {
+        "name": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
+        "url": "https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Ra\u00fal Lavi\u00e9",
+          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "El Vino Triste",
+      "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
+    },
+    {
+      "album": {
+        "name": "Maldito Tango",
+        "url": "https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1"
+      },
+      "artists": [
+        {
+          "name": "Melingo",
+          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 216066,
+      "name": "En Un Bondi Color Humo",
+      "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
+    },
+    {
+      "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0"
+      },
+      "artists": [
+        {
+          "name": "Max Aguirre",
+          "url": "https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169762,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB"
+    },
+    {
+      "album": {
+        "name": "Giros",
+        "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Giros",
+      "url": "https://open.spotify.com/track/0XeDFZzIpnhUT4OAXsFjfx"
+    },
+    {
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Gricel",
+      "url": "https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY"
+    },
+    {
+      "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309680,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/2v7rhTFwDVQSdRiheHpYWS"
+    },
+    {
+      "album": {
+        "name": "3er Arco",
+        "url": "https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309680,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/6up6cF609S8wsSkDX0egNE"
+    },
+    {
+      "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142253,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
+    },
+    {
+      "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143533,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU"
+    },
+    {
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS"
+    },
+    {
+      "album": {
+        "name": "Avellaneda",
+        "url": "https://open.spotify.com/album/3x3jKURaXvI9G9r9i0cmeN"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Paula Pomeraniek",
+          "url": "https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279706,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/3ychP6Vv2nWv2LuC12H8CH"
+    },
+    {
+      "album": {
+        "name": "Avellaneda",
+        "url": "https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        },
+        {
+          "name": "Fito P\u00e1ez",
+          "url": "https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8"
+        },
+        {
+          "name": "Paula Pomeraniek",
+          "url": "https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279706,
+      "name": "La Despedida (feat. Fito P\u00e1ez & Paula Pomeraniek)",
+      "url": "https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH"
+    },
+    {
+      "album": {
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140426,
+      "name": "La Tang\u00f3mana",
+      "url": "https://open.spotify.com/track/2J4tKJ8yxPAwXCpJZsYAbf"
+    },
+    {
+      "album": {
+        "name": "El Tango Es Puro Cuento",
+        "url": "https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Federico Mizrahi",
+          "url": "https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg"
+        },
+        {
+          "name": "Luis Longhi",
+          "url": "https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/75pnGx561Mm7PQzlJ07z0G"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228560,
+      "name": "La Triste Historia de Rosa Brown",
+      "url": "https://open.spotify.com/track/6YO14y9tXHpZe1Km4eg83j"
+    },
+    {
+      "album": {
+        "name": "Seremos Tango",
+        "url": "https://open.spotify.com/album/7m7svuLhtOj342FEDVOevp"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219138,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/4MUaHpY0xqJK4Kmw7o4XOQ"
+    },
+    {
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225771,
+      "name": "Las Tribus",
+      "url": "https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc"
+    },
+    {
+      "album": {
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+      },
+      "artists": [
+        {
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 195704,
+      "name": "Laura Va",
+      "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
+    },
+    {
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Los Piratas - MTV Unplugged",
+      "url": "https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ"
+    },
+    {
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
+    },
+    {
+      "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198959,
+      "name": "Mano a mano",
+      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fernando Ruiz Diaz",
+          "url": "https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 231538,
+      "name": "Milonga de la Anunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt"
+    },
+    {
+      "album": {
+        "name": "Postales De Este Lado Del Mundo",
+        "url": "https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "Naranjo En Flor",
+      "url": "https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "No Soy Un Extra\u00f1o - Live",
+      "url": "https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V"
+    },
+    {
+      "album": {
+        "name": "Bagayo",
+        "url": "https://open.spotify.com/album/7CSdj0Rlyoc3INm3uCD1yl"
+      },
+      "artists": [
+        {
+          "name": "La Mississippi",
+          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-21",
+      "duration_ms": 140786,
+      "name": "Nocturno A Mi Barrio",
+      "url": "https://open.spotify.com/track/0c4oyNo6yqoX0MTwMzDhvM"
+    },
+    {
+      "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "Nostalgias",
+      "url": "https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42"
+    },
+    {
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Perro Amor Explota - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf"
+    },
+    {
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
+      },
+      "artists": [
+        {
+          "name": "Mariano Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227616,
+      "name": "Plegaria para un ni\u00f1o dormido",
+      "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
+    },
+    {
+      "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278133,
+      "name": "Por Una Cabeza",
+      "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
+    },
+    {
+      "album": {
+        "name": "Porque Canto Asi",
+        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
+      },
+      "artists": [
+        {
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 134272,
+      "name": "Porque Canto Asi",
+      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
+    },
+    {
+      "album": {
+        "name": "Fisura Expuesta",
+        "url": "https://open.spotify.com/album/6ecr6nssE6FPGcQL4CGWqD"
+      },
+      "artists": [
+        {
+          "name": "Juan Subira",
+          "url": "https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 404853,
+      "name": "Salvavidas de Plomo",
+      "url": "https://open.spotify.com/track/7cNvngqh1wKhEAAJ7bikHD"
+    },
+    {
+      "album": {
+        "name": "Fisura Expuesta",
+        "url": "https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3"
+      },
+      "artists": [
+        {
+          "name": "Juan Subira",
+          "url": "https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 404853,
+      "name": "Salvavidas de Plomo",
+      "url": "https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI"
+    },
+    {
+      "album": {
+        "name": "Obras Cumbres",
+        "url": "https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Alberto Castillo",
+          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149920,
+      "name": "Siga El Baile - Versi\u00f3n Cantada por Alberto Castillo",
+      "url": "https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247821,
+      "name": "Tango del Diablo",
+      "url": "https://open.spotify.com/track/7ecBAjx1GU25gkqgFkpIGA"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247821,
+      "name": "Tango del Diablo",
+      "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
+    },
+    {
+      "album": {
+        "name": "Pequenas An\u00e9cdotas Sobre Las Instituciones",
+        "url": "https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Tango en Segunda",
+      "url": "https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf"
+    },
+    {
+      "album": {
+        "name": "De Amores y Pasiones",
+        "url": "https://open.spotify.com/album/7fvzvMUMqEx5kVfoZuuN7H"
+      },
+      "artists": [
+        {
+          "name": "Miguel Cantilo",
+          "url": "https://open.spotify.com/artist/4MTd9MHb33LFgRKqWG0jZi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297480,
+      "name": "Tanguito Era Gardel",
+      "url": "https://open.spotify.com/track/3OcPG8z6KJbeB76gbc1hdp"
+    },
+    {
+      "album": {
+        "name": "De Amores y Pasiones",
+        "url": "https://open.spotify.com/album/1gqPjw0a1BMHZr2UuTf8Dr"
+      },
+      "artists": [
+        {
+          "name": "Miguel Cantilo",
+          "url": "https://open.spotify.com/artist/4MTd9MHb33LFgRKqWG0jZi"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297480,
+      "name": "Tanguito Era Gardel",
+      "url": "https://open.spotify.com/track/6NF7NL01DBuPpbopdEc0Ku"
+    },
+    {
+      "album": {
+        "name": "Cien Troilos",
+        "url": "https://open.spotify.com/album/3TvrHvdAHn3tLcDAI1CFxo"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9 Mentana",
+          "url": "https://open.spotify.com/artist/2YbZKgdAtwTIpabYIfUJ5X"
+        },
+        {
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 170520,
+      "name": "Toda Mi Vida",
+      "url": "https://open.spotify.com/track/75gpWV9FUZ1SfndAECb5qv"
+    },
+    {
+      "album": {
+        "name": "Villavicio",
+        "url": "https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh"
+      },
+      "artists": [
+        {
+          "name": "Javier Calamaro",
+          "url": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162866,
+      "name": "Tomo y Obligo",
+      "url": "https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ"
+    },
+    {
+      "album": {
+        "name": "Ritual Criollo",
+        "url": "https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt"
+      },
+      "artists": [
+        {
+          "name": "Palo Pandolfo",
+          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106693,
+      "name": "Turbias Golondrinas",
+      "url": "https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR"
+    },
+    {
+      "album": {
+        "name": "Otro Le Travaladna",
+        "url": "https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Volver Ni A Palos",
+      "url": "https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM"
+    },
+    {
+      "album": {
+        "name": "Pecado Capital",
+        "url": "https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303720,
+      "name": "Whisky Doble",
+      "url": "https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD"
+    },
+    {
+      "album": {
+        "name": "Cruces Urbanos",
+        "url": "https://open.spotify.com/album/1G8hdqse9sS1CP032rELMt"
+      },
+      "artists": [
+        {
+          "name": "Quinteto Negro La Boca",
+          "url": "https://open.spotify.com/artist/5bvLSQv0SB2cD7aWcDB3iR"
+        },
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "Ya No Sos Igual (with 2 Minutos)",
+      "url": "https://open.spotify.com/track/05W9ouh0IXab67HKIqBMYE"
+    },
+    {
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
+    },
+    {
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6ZLNLqqFwnoyqrzRxtHEzt"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256105,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/27JpiXdW4QmLwYQaQYymY2"
+    },
+    {
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/6kVObsiPuJyJbQfNh3zdfW"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Yira Yira",
+      "url": "https://open.spotify.com/track/0bTr3NCZi3bwrZs1xjZyxK"
+    },
+    {
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181266,
+      "name": "Yira Yira",
+      "url": "https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam"
+    },
+    {
+      "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181266,
+      "name": "Yira Yira",
+      "url": "https://open.spotify.com/track/5wfHhIh5hfVxZgwj5NyF3A"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa6vwC7tN28X"
 }

@@ -1,298 +1,1149 @@
 {
-  "2023-03-11": 3371,
-  "2023-03-12": 3402,
-  "2023-03-13": 3431,
-  "2023-03-14": 3458,
-  "2023-03-15": 3484,
-  "2023-03-16": 3484,
-  "2023-03-17": 3484,
-  "2023-03-18": 3575,
-  "2023-03-19": 3575,
-  "2023-03-20": 3627,
-  "2023-03-21": 3655,
-  "2023-03-22": 3682,
-  "2023-03-23": 3714,
-  "2023-03-24": 3714,
-  "2023-03-25": 3767,
-  "2023-03-26": 3798,
-  "2023-03-27": 3819,
-  "2023-03-28": 3839,
-  "2023-03-29": 3856,
-  "2023-03-30": 3896,
-  "2023-03-31": 3896,
-  "2023-04-01": 3919,
-  "2023-04-02": 3939,
-  "2023-04-03": 3951,
-  "2023-04-04": 3976,
-  "2023-04-05": 3997,
-  "2023-04-06": 4018,
-  "2023-04-07": 4044,
-  "2023-04-09": 4060,
-  "2023-04-10": 4082,
-  "2023-04-11": 4115,
-  "2023-04-12": 4115,
-  "2023-04-13": 4138,
-  "2023-04-14": 4169,
-  "2023-04-15": 4188,
-  "2023-04-16": 4197,
-  "2023-04-17": 4212,
-  "2023-04-18": 4220,
-  "2023-04-19": 4241,
-  "2023-04-20": 4249,
-  "2023-04-21": 4262,
-  "2023-04-22": 4275,
-  "2023-04-23": 4290,
-  "2023-04-24": 4314,
-  "2023-04-25": 4322,
-  "2023-04-26": 4338,
-  "2023-04-27": 4358,
-  "2023-04-28": 4382,
-  "2023-04-29": 4403,
-  "2023-04-30": 4413,
-  "2023-05-01": 4425,
-  "2023-05-02": 4429,
-  "2023-05-03": 4440,
-  "2023-05-04": 4450,
-  "2023-05-05": 4458,
-  "2023-05-06": 4471,
-  "2023-05-07": 4485,
-  "2023-05-08": 4500,
-  "2023-05-09": 4511,
-  "2023-05-10": 4528,
-  "2023-05-11": 4540,
-  "2023-05-12": 4549,
-  "2023-05-13": 4561,
-  "2023-05-14": 4575,
-  "2023-05-15": 4592,
-  "2023-05-16": 4612,
-  "2023-05-17": 4618,
-  "2023-05-18": 4637,
-  "2023-05-19": 4645,
-  "2023-05-20": 4671,
-  "2023-05-21": 4671,
-  "2023-05-22": 4671,
-  "2023-05-23": 4693,
-  "2023-05-24": 4708,
-  "2023-05-25": 4713,
-  "2023-05-26": 4730,
-  "2023-05-27": 4742,
-  "2023-05-28": 4759,
-  "2023-05-29": 4759,
-  "2023-05-30": 4780,
-  "2023-05-31": 4788,
-  "2023-06-01": 4795,
-  "2023-06-02": 4802,
-  "2023-06-03": 4816,
-  "2023-06-04": 4824,
-  "2023-06-05": 4834,
-  "2023-06-06": 4842,
-  "2023-06-07": 4852,
-  "2023-06-08": 4858,
-  "2023-06-09": 4868,
-  "2023-06-10": 4897,
-  "2023-06-11": 4915,
-  "2023-06-12": 4939,
-  "2023-06-13": 4960,
-  "2023-06-14": 4960,
-  "2023-06-15": 5008,
-  "2023-06-16": 5032,
-  "2023-06-17": 5060,
-  "2023-06-18": 5086,
-  "2023-06-19": 5110,
-  "2023-06-20": 5129,
-  "2023-06-21": 5153,
-  "2023-06-22": 5168,
-  "2023-06-23": 5184,
-  "2023-06-24": 5201,
-  "2023-06-25": 5218,
-  "2023-06-26": 5235,
-  "2023-06-27": 5250,
-  "2023-06-28": 5271,
-  "2023-06-29": 5283,
-  "2023-06-30": 5305,
-  "2023-07-01": 5330,
-  "2023-07-02": 5330,
-  "2023-07-03": 5342,
-  "2023-07-04": 5346,
-  "2023-07-05": 5352,
-  "2023-07-06": 5370,
-  "2023-07-07": 5370,
-  "2023-07-08": 5370,
-  "2023-07-09": 5399,
-  "2023-07-10": 5411,
-  "2023-07-11": 5422,
-  "2023-07-12": 5423,
-  "2023-07-13": 5432,
-  "2023-07-14": 5438,
-  "2023-07-15": 5443,
-  "2023-07-16": 5461,
-  "2023-07-17": 5480,
-  "2023-07-18": 5488,
-  "2023-07-19": 5506,
-  "2023-07-20": 5506,
-  "2023-07-21": 5533,
-  "2023-07-22": 5551,
-  "2023-07-23": 5563,
-  "2023-07-24": 5584,
-  "2023-07-25": 5593,
-  "2023-07-26": 5598,
-  "2023-07-27": 5616,
-  "2023-07-28": 5616,
-  "2023-07-29": 5636,
-  "2023-07-30": 5636,
-  "2023-07-31": 5671,
-  "2023-08-01": 5683,
-  "2023-08-02": 5696,
-  "2023-08-03": 5706,
-  "2023-08-04": 5716,
-  "2023-08-05": 5726,
-  "2023-08-06": 5755,
-  "2023-08-07": 5755,
-  "2023-08-08": 5764,
-  "2023-08-09": 5785,
-  "2023-08-10": 5794,
-  "2023-08-11": 5808,
-  "2023-08-12": 5808,
-  "2023-08-13": 5808,
-  "2023-08-14": 5808,
-  "2023-08-15": 5808,
-  "2023-08-16": 5808,
-  "2023-08-17": 5808,
-  "2023-08-18": 5808,
-  "2023-08-19": 5808,
-  "2023-08-20": 5928,
-  "2023-08-21": 5928,
-  "2023-08-22": 5952,
-  "2023-08-23": 5952,
-  "2023-08-24": 5952,
-  "2023-08-25": 5952,
-  "2023-08-26": 6009,
-  "2023-08-27": 6009,
-  "2023-08-28": 6049,
-  "2023-08-29": 6049,
-  "2023-08-30": 6049,
-  "2023-08-31": 6092,
-  "2023-09-01": 6099,
-  "2023-09-02": 6099,
-  "2023-09-03": 6099,
-  "2023-09-04": 6099,
-  "2023-09-05": 6099,
-  "2023-09-06": 6099,
-  "2023-09-07": 6099,
-  "2023-09-08": 6099,
-  "2023-09-09": 6099,
-  "2023-09-10": 6099,
-  "2023-09-11": 6099,
-  "2023-09-12": 6099,
-  "2023-09-13": 6099,
-  "2023-09-14": 6099,
-  "2023-09-15": 6099,
-  "2023-09-16": 6099,
-  "2023-09-17": 6099,
-  "2023-09-18": 6099,
-  "2023-09-19": 6099,
-  "2023-09-20": 6099,
-  "2023-09-21": 6099,
-  "2023-09-22": 6413,
-  "2023-09-23": 6413,
-  "2023-09-24": 6413,
-  "2023-09-25": 6413,
-  "2023-09-26": 6493,
-  "2023-09-27": 6493,
-  "2023-09-28": 6493,
-  "2023-09-29": 6493,
-  "2023-09-30": 6493,
-  "2023-10-01": 6493,
-  "2023-10-02": 6493,
-  "2023-10-03": 6493,
-  "2023-10-04": 6493,
-  "2023-10-05": 6493,
-  "2023-10-06": 6493,
-  "2023-10-07": 6493,
-  "2023-10-08": 6493,
-  "2023-10-09": 6493,
-  "2023-10-10": 6493,
-  "2023-10-11": 6493,
-  "2023-10-12": 6493,
-  "2023-10-13": 6493,
-  "2023-10-14": 6493,
-  "2023-10-15": 6493,
-  "2023-10-16": 6493,
-  "2023-10-17": 6493,
-  "2023-10-18": 6493,
-  "2023-10-19": 6493,
-  "2023-10-20": 6493,
-  "2023-10-21": 6493,
-  "2023-10-22": 6493,
-  "2023-10-23": 6493,
-  "2023-10-24": 6493,
-  "2023-10-25": 6493,
-  "2023-10-26": 6493,
-  "2023-10-27": 6493,
-  "2023-10-28": 6493,
-  "2023-10-29": 6493,
-  "2023-10-30": 6493,
-  "2023-10-31": 6493,
-  "2023-11-01": 6493,
-  "2023-11-02": 6493,
-  "2023-11-03": 6493,
-  "2023-11-04": 6493,
-  "2023-11-05": 6493,
-  "2023-11-06": 6493,
-  "2023-11-07": 6493,
-  "2023-11-08": 6493,
-  "2023-11-09": 6493,
-  "2023-11-10": 6493,
-  "2023-11-11": 8281,
-  "2023-11-12": 8281,
-  "2023-11-13": 8281,
-  "2023-11-14": 8281,
-  "2023-11-15": 8281,
-  "2023-11-16": 8281,
-  "2023-11-17": 8281,
-  "2023-11-18": 8281,
-  "2023-11-19": 8281,
-  "2023-11-20": 8281,
-  "2023-11-21": 8281,
-  "2023-11-22": 8281,
-  "2023-11-23": 8281,
-  "2023-11-24": 8281,
-  "2023-11-25": 8281,
-  "2023-11-26": 8281,
-  "2023-11-27": 8281,
-  "2023-11-28": 8281,
-  "2023-11-29": 8281,
-  "2023-11-30": 8281,
-  "2023-12-01": 8281,
-  "2023-12-02": 8281,
-  "2023-12-03": 8281,
-  "2023-12-04": 8281,
-  "2023-12-05": 8281,
-  "2023-12-06": 8281,
-  "2023-12-07": 8281,
-  "2023-12-08": 8281,
-  "2023-12-09": 8281,
-  "2023-12-10": 8281,
-  "2023-12-11": 8281,
-  "2023-12-12": 8281,
-  "2023-12-13": 8281,
-  "2023-12-14": 8818,
-  "2023-12-15": 8823,
-  "2023-12-16": 8839,
-  "2023-12-17": 8848,
-  "2023-12-18": 8856,
-  "2023-12-19": 8866,
-  "2023-12-20": 8875,
-  "2023-12-21": 8881,
-  "2023-12-22": 8896,
-  "2023-12-23": 8908,
-  "2023-12-24": 8919,
-  "2023-12-25": 8936,
-  "2023-12-26": 8944,
-  "2023-12-27": 8954,
-  "2023-12-30": 8990,
-  "2023-12-31": 9011,
-  "2024-01-01": 9022,
-  "2024-01-02": 9030,
-  "2024-01-03": 9044
+  "2024-01-17": 9220,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
+  "name": "This Is Majo Aguilar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
+    },
+    {
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169866,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/3ceovJ34rV8rdAW31Cpavk"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
+    },
+    {
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213413,
+      "name": "Aunque No Quiera",
+      "url": "https://open.spotify.com/track/4wthMC4Ui7lM2ITBgsOFXy"
+    },
+    {
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+    },
+    {
+      "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+    },
+    {
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "Culpable O No - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw"
+    },
+    {
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257640,
+      "name": "C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
+    },
+    {
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180586,
+      "name": "De Lo Que Te Perdiste",
+      "url": "https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq"
+    },
+    {
+      "album": {
+        "name": "Trap Ejecutivo",
+        "url": "https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh"
+      },
+      "artists": [
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 164000,
+      "name": "DESPEDIDA",
+      "url": "https://open.spotify.com/track/4uED1vVXU87UcmhJXGLHLv"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 171213,
+      "name": "El Son De La Negra - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs"
+    },
+    {
+      "album": {
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 170453,
+      "name": "Eternocumbia",
+      "url": "https://open.spotify.com/track/5Rqe0tS03rOu8Wbxhcmt38"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
+    },
+    {
+      "album": {
+        "name": "Hasta Que Regreses",
+        "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Hasta Que Regreses",
+      "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+    },
+    {
+      "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/0OFAMb4oOtIp0j5ENQWN4a"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV"
+    },
+    {
+      "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/1TDtJwm1KqlluPDxGQrOxF"
+    },
+    {
+      "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+    },
+    {
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7MGXwJHmW6l38uVkAQFuCQ"
+    },
+    {
+      "album": {
+        "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI"
+    },
+    {
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E"
+    },
+    {
+      "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+    },
+    {
+      "album": {
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/78Enbx43RDUgnAaDixSeGg"
+    },
+    {
+      "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "Quiero Un Amor",
+      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "album": {
+        "name": "Quiero Verte Bailar",
+        "url": "https://open.spotify.com/album/7MRiVAT9aZOwfOrpeHGKLg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Quiero Verte Bailar",
+      "url": "https://open.spotify.com/track/1XR4K9HjuQY7R990vhELZK"
+    },
+    {
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 202106,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/3ZVUnnt2yWbM40EIpS0NYz"
+    },
+    {
+      "album": {
+        "name": "Se Solicita",
+        "url": "https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Si Nos Dejan - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/156kSaEIxWoI5vZcqvnTxS"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 137426,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/5K4RG0AD6faGM1XIyj7Fms"
+    },
+    {
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
+    },
+    {
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/5SmRbNjy5vS5na3WKr49TF"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205266,
+      "name": "Te Solt\u00e9 La Rienda",
+      "url": "https://open.spotify.com/track/7raX70QMuOnywsxLEBzh5j"
+    },
+    {
+      "album": {
+        "name": "Tik Tik Tik",
+        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Tik Tik Tik",
+      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 203573,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "album": {
+        "name": "T\u00f3mbola",
+        "url": "https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218573,
+      "name": "T\u00fa A M\u00ed No Me Hundes",
+      "url": "https://open.spotify.com/track/4buqIpLCvctlto6dYluSTn"
+    },
+    {
+      "album": {
+        "name": "Un Beso a Medias",
+        "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233091,
+      "name": "Un Beso a Medias",
+      "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
+    },
+    {
+      "album": {
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "album": {
+        "name": "Un Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Antonio Aguilar Hijo",
+          "url": "https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 143880,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/39cA436fWZHRxdNaYDQL1p"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Enamores",
+        "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224586,
+      "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
+      "url": "https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz"
+    },
+    {
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199973,
+      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4drHIS"
 }

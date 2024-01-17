@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,600 likes - 97 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,620 likes - 97 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

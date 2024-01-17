@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Music from TV shows and films nominated for the 81st Golden Globe Awards. Watch Jan 7, 2024 on CBS and Paramount+.",
+  "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
   "name": "Golden Globes",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 93934,
       "name": "Forbidden Joy",
       "url": "https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7"
@@ -1136,6 +1136,28 @@
       "duration_ms": 134058,
       "name": "Today We Launch",
       "url": "https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA"
+    },
+    {
+      "album": {
+        "name": "Fargo Year 5 (Soundtrack from the MGM/ FXP Series)",
+        "url": "https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Toxic (feat. Lisa Hannigan)",
+      "url": "https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY"
     },
     {
       "album": {

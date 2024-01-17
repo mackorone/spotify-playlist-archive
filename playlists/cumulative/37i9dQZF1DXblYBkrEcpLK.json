@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 153143,
       "name": "Answer to Extreme",
       "url": "https://open.spotify.com/track/5dPzG4Qv2hAPV60adG25UC"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 234487,
       "name": "COLORFUL BOX",
       "url": "https://open.spotify.com/track/6oWnUUjCbBOwlfHQ6GcS6g"
@@ -1676,6 +1676,32 @@
       "duration_ms": 182966,
       "name": "Flower Crown",
       "url": "https://open.spotify.com/track/22aQEazDHyrOBJ3v0tXuuF"
+    },
+    {
+      "album": {
+        "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0JGpkt0mAvZvW1NRsdZkAj"
+      },
+      "artists": [
+        {
+          "name": "Kanako Kishi",
+          "url": "https://open.spotify.com/artist/6ZVNZWQr6wlsUlm9SKII0k"
+        },
+        {
+          "name": "Mashiro Uchida",
+          "url": "https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo"
+        },
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161166,
+      "name": "Flower in the Snow (from \"The Apothecary Diaries\" Soundtrack)",
+      "url": "https://open.spotify.com/track/2YMmUrQBXrkONqMyXXJCd3"
     },
     {
       "album": {
@@ -5332,7 +5358,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 214905,
       "name": "twilight little star",
       "url": "https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG"
@@ -7150,7 +7176,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": "2024-01-15",
       "duration_ms": 228960,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f",
       "url": "https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu"
@@ -8509,28 +8535,6 @@
     },
     {
       "album": {
-        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
-        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
-      },
-      "artists": [
-        {
-          "name": "CHiCO",
-          "url": "https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL"
-        },
-        {
-          "name": "HoneyWorks",
-          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 312826,
-      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5"
-    },
-    {
-      "album": {
         "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
         "url": "https://open.spotify.com/album/5gfX21tjkgqmlO1IGRYXmp"
       },
@@ -8546,6 +8550,24 @@
       "duration_ms": 311293,
       "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/3pCc4xUyz0IIOvrwBlGtDW"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312826,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5"
     },
     {
       "album": {
@@ -10149,6 +10171,24 @@
     },
     {
       "album": {
+        "name": "\u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240",
+        "url": "https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268360,
+      "name": "\u7d20\u6674\u3089\u3057\u304d\u4e16\u754c \u3067\u3082 \u3069\u3053\u306b\u3082\u306a\u3044\u5834\u6240",
+      "url": "https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1"
+    },
+    {
+      "album": {
         "name": "\u7d42\u7109\u306eDestiny",
         "url": "https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv"
       },
@@ -10622,6 +10662,24 @@
       "duration_ms": 334893,
       "name": "\u9752\u3044\u681e",
       "url": "https://open.spotify.com/track/6brI7miXQ375is9V8lOxLv"
+    },
+    {
+      "album": {
+        "name": "\u9752\u304f\u3001\u9752\u304f",
+        "url": "https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272300,
+      "name": "\u9752\u304f\u3001\u9752\u304f",
+      "url": "https://open.spotify.com/track/4x8y91an0erARwUUTifXWP"
     },
     {
       "album": {

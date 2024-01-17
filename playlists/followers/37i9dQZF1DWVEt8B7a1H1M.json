@@ -1,735 +1,2285 @@
 {
-  "2021-12-25": 151327,
-  "2021-12-26": 151380,
-  "2021-12-27": 151556,
-  "2021-12-28": 151557,
-  "2021-12-29": 151647,
-  "2021-12-30": 151757,
-  "2021-12-31": 151844,
-  "2022-01-01": 152019,
-  "2022-01-02": 152063,
-  "2022-01-03": 152147,
-  "2022-01-04": 152279,
-  "2022-01-05": 152406,
-  "2022-01-06": 152508,
-  "2022-01-07": 152634,
-  "2022-01-08": 152888,
-  "2022-01-09": 152893,
-  "2022-01-10": 153035,
-  "2022-01-11": 153183,
-  "2022-01-12": 153291,
-  "2022-01-13": 153430,
-  "2022-01-14": 153558,
-  "2022-01-15": 153790,
-  "2022-01-16": 153799,
-  "2022-01-17": 154095,
-  "2022-01-18": 154103,
-  "2022-01-19": 154213,
-  "2022-01-20": 154354,
-  "2022-01-21": 154488,
-  "2022-01-22": 154584,
-  "2022-01-23": 154735,
-  "2022-01-24": 154888,
-  "2022-01-25": 155020,
-  "2022-01-26": 155162,
-  "2022-01-27": 155295,
-  "2022-01-28": 155448,
-  "2022-01-29": 155565,
-  "2022-01-30": 155699,
-  "2022-01-31": 155887,
-  "2022-02-01": 156031,
-  "2022-02-02": 156176,
-  "2022-02-03": 156309,
-  "2022-02-04": 156444,
-  "2022-02-05": 156538,
-  "2022-02-06": 156639,
-  "2022-02-07": 156802,
-  "2022-02-08": 156919,
-  "2022-02-09": 157079,
-  "2022-02-10": 157247,
-  "2022-02-11": 157384,
-  "2022-02-12": 157528,
-  "2022-02-13": 157652,
-  "2022-02-14": 157815,
-  "2022-02-15": 157948,
-  "2022-02-16": 158086,
-  "2022-02-17": 158215,
-  "2022-02-18": 158336,
-  "2022-02-19": 158445,
-  "2022-02-20": 158568,
-  "2022-02-21": 158707,
-  "2022-02-22": 158873,
-  "2022-02-23": 158997,
-  "2022-02-24": 159150,
-  "2022-02-25": 159259,
-  "2022-02-26": 159370,
-  "2022-02-27": 159595,
-  "2022-02-28": 159595,
-  "2022-03-01": 159733,
-  "2022-03-02": 159857,
-  "2022-03-03": 160007,
-  "2022-03-04": 160125,
-  "2022-03-05": 160232,
-  "2022-03-06": 160353,
-  "2022-03-07": 160477,
-  "2022-03-08": 160628,
-  "2022-03-09": 160741,
-  "2022-03-10": 160876,
-  "2022-03-11": 161007,
-  "2022-03-12": 161125,
-  "2022-03-13": 161249,
-  "2022-03-14": 161366,
-  "2022-03-15": 161499,
-  "2022-03-16": 161641,
-  "2022-03-17": 161778,
-  "2022-03-18": 161945,
-  "2022-03-19": 162022,
-  "2022-03-20": 162022,
-  "2022-03-21": 162273,
-  "2022-03-22": 162357,
-  "2022-03-23": 162484,
-  "2022-03-24": 162612,
-  "2022-03-25": 162758,
-  "2022-03-26": 162862,
-  "2022-03-27": 162990,
-  "2022-03-28": 163141,
-  "2022-03-30": 163408,
-  "2022-03-31": 163515,
-  "2022-04-01": 163606,
-  "2022-04-02": 163710,
-  "2022-04-03": 163831,
-  "2022-04-04": 163954,
-  "2022-04-05": 164076,
-  "2022-04-06": 164195,
-  "2022-04-07": 164319,
-  "2022-04-08": 164452,
-  "2022-04-09": 164541,
-  "2022-04-10": 164795,
-  "2022-04-11": 164902,
-  "2022-04-12": 164916,
-  "2022-04-13": 165019,
-  "2022-04-14": 165126,
-  "2022-04-15": 165269,
-  "2022-04-16": 165383,
-  "2022-04-17": 165498,
-  "2022-04-18": 165623,
-  "2022-04-19": 165726,
-  "2022-04-20": 165849,
-  "2022-04-21": 165961,
-  "2022-04-22": 166041,
-  "2022-04-23": 166157,
-  "2022-04-24": 166260,
-  "2022-04-25": 166359,
-  "2022-04-26": 166470,
-  "2022-04-27": 166591,
-  "2022-04-28": 166676,
-  "2022-04-29": 166777,
-  "2022-04-30": 166850,
-  "2022-05-01": 166963,
-  "2022-05-02": 166963,
-  "2022-05-03": 167081,
-  "2022-05-04": 167167,
-  "2022-05-05": 167246,
-  "2022-05-06": 167345,
-  "2022-05-07": 167418,
-  "2022-05-08": 167548,
-  "2022-05-09": 167567,
-  "2022-05-10": 167641,
-  "2022-05-11": 167734,
-  "2022-05-12": 167808,
-  "2022-05-13": 167868,
-  "2022-05-14": 167966,
-  "2022-05-15": 168044,
-  "2022-05-16": 168127,
-  "2022-05-17": 168189,
-  "2022-05-18": 168267,
-  "2022-05-19": 168339,
-  "2022-05-20": 168422,
-  "2022-05-21": 168526,
-  "2022-05-22": 168526,
-  "2022-05-23": 168597,
-  "2022-05-24": 168680,
-  "2022-05-25": 168775,
-  "2022-05-26": 168833,
-  "2022-05-27": 168911,
-  "2022-05-28": 168974,
-  "2022-05-29": 169045,
-  "2022-05-30": 169130,
-  "2022-05-31": 169227,
-  "2022-06-01": 169359,
-  "2022-06-02": 169375,
-  "2022-06-03": 169461,
-  "2022-06-04": 169538,
-  "2022-06-05": 169626,
-  "2022-06-06": 169705,
-  "2022-06-07": 169792,
-  "2022-06-08": 169878,
-  "2022-06-09": 169954,
-  "2022-06-10": 170020,
-  "2022-06-11": 170068,
-  "2022-06-12": 170112,
-  "2022-06-13": 170186,
-  "2022-06-14": 170247,
-  "2022-06-15": 170305,
-  "2022-06-16": 170382,
-  "2022-06-17": 170433,
-  "2022-06-18": 170494,
-  "2022-06-19": 170613,
-  "2022-06-20": 170613,
-  "2022-06-21": 170673,
-  "2022-06-22": 170783,
-  "2022-06-23": 170783,
-  "2022-06-24": 170838,
-  "2022-06-25": 170896,
-  "2022-06-26": 170942,
-  "2022-06-27": 171005,
-  "2022-06-28": 171061,
-  "2022-06-29": 171104,
-  "2022-06-30": 171151,
-  "2022-07-01": 171231,
-  "2022-07-02": 171283,
-  "2022-07-03": 171348,
-  "2022-07-04": 171395,
-  "2022-07-05": 171453,
-  "2022-07-06": 171537,
-  "2022-07-07": 171620,
-  "2022-07-08": 171685,
-  "2022-07-09": 171728,
-  "2022-07-10": 171797,
-  "2022-07-11": 171858,
-  "2022-07-12": 171936,
-  "2022-07-13": 171996,
-  "2022-07-14": 172062,
-  "2022-07-15": 172112,
-  "2022-07-16": 172158,
-  "2022-07-17": 172211,
-  "2022-07-18": 172261,
-  "2022-07-19": 172317,
-  "2022-07-20": 172364,
-  "2022-07-21": 172408,
-  "2022-07-22": 172471,
-  "2022-07-23": 172528,
-  "2022-07-24": 172566,
-  "2022-07-25": 172642,
-  "2022-07-26": 172675,
-  "2022-07-27": 172732,
-  "2022-07-28": 172793,
-  "2022-07-29": 172832,
-  "2022-07-30": 172906,
-  "2022-07-31": 172906,
-  "2022-08-01": 172963,
-  "2022-08-02": 173048,
-  "2022-08-03": 173048,
-  "2022-08-04": 173094,
-  "2022-08-05": 173161,
-  "2022-08-06": 173219,
-  "2022-08-07": 173262,
-  "2022-08-08": 173317,
-  "2022-08-09": 173377,
-  "2022-08-10": 173430,
-  "2022-08-11": 173485,
-  "2022-08-12": 173539,
-  "2022-08-13": 173592,
-  "2022-08-14": 173638,
-  "2022-08-15": 173668,
-  "2022-08-16": 173731,
-  "2022-08-17": 173793,
-  "2022-08-18": 173841,
-  "2022-08-19": 173917,
-  "2022-08-20": 173970,
-  "2022-08-21": 174031,
-  "2022-08-22": 174107,
-  "2022-08-23": 174174,
-  "2022-08-24": 174256,
-  "2022-08-25": 174321,
-  "2022-08-26": 174407,
-  "2022-08-27": 174485,
-  "2022-08-28": 174553,
-  "2022-08-29": 174631,
-  "2022-08-30": 174564,
-  "2022-08-31": 174651,
-  "2022-09-01": 174053,
-  "2022-09-02": 174142,
-  "2022-09-03": 173857,
-  "2022-09-04": 173299,
-  "2022-09-05": 173062,
-  "2022-09-06": 173134,
-  "2022-09-07": 173209,
-  "2022-09-09": 173401,
-  "2022-09-10": 173468,
-  "2022-09-11": 173539,
-  "2022-09-12": 173626,
-  "2022-09-13": 173695,
-  "2022-09-15": 173874,
-  "2022-09-16": 173925,
-  "2022-09-17": 173984,
-  "2022-09-18": 174063,
-  "2022-09-19": 174171,
-  "2022-09-20": 174241,
-  "2022-09-21": 174311,
-  "2022-09-22": 174409,
-  "2022-09-23": 174506,
-  "2022-09-24": 174587,
-  "2022-09-25": 174676,
-  "2022-09-26": 174804,
-  "2022-09-27": 174910,
-  "2022-09-28": 175031,
-  "2022-09-29": 175163,
-  "2022-09-30": 175233,
-  "2022-10-01": 175312,
-  "2022-10-02": 175408,
-  "2022-10-03": 175498,
-  "2022-10-04": 175612,
-  "2022-10-05": 175691,
-  "2022-10-06": 175785,
-  "2022-10-07": 175886,
-  "2022-10-08": 175989,
-  "2022-10-09": 176144,
-  "2022-10-10": 176178,
-  "2022-10-11": 176303,
-  "2022-10-12": 176376,
-  "2022-10-13": 176494,
-  "2022-10-14": 176605,
-  "2022-10-15": 176713,
-  "2022-10-16": 176804,
-  "2022-10-17": 176944,
-  "2022-10-18": 177048,
-  "2022-10-19": 177126,
-  "2022-10-20": 177224,
-  "2022-10-21": 177334,
-  "2022-10-22": 177425,
-  "2022-10-23": 177540,
-  "2022-10-24": 177662,
-  "2022-10-25": 177779,
-  "2022-10-26": 177893,
-  "2022-10-27": 177996,
-  "2022-10-28": 178094,
-  "2022-10-29": 178225,
-  "2022-10-30": 178356,
-  "2022-10-31": 178471,
-  "2022-11-01": 178574,
-  "2022-11-02": 178695,
-  "2022-11-03": 178824,
-  "2022-11-04": 178927,
-  "2022-11-05": 179038,
-  "2022-11-06": 179139,
-  "2022-11-07": 179274,
-  "2022-11-08": 179369,
-  "2022-11-09": 179470,
-  "2022-11-10": 179574,
-  "2022-11-11": 179644,
-  "2022-11-12": 179756,
-  "2022-11-13": 179847,
-  "2022-11-14": 179969,
-  "2022-11-15": 180074,
-  "2022-11-16": 180168,
-  "2022-11-17": 180262,
-  "2022-11-18": 180281,
-  "2022-11-19": 180239,
-  "2022-11-20": 180254,
-  "2022-11-21": 180320,
-  "2022-11-22": 180404,
-  "2022-11-23": 180501,
-  "2022-11-24": 180668,
-  "2022-11-25": 180862,
-  "2022-11-26": 180975,
-  "2022-11-27": 181077,
-  "2022-11-28": 181182,
-  "2022-11-29": 181257,
-  "2022-11-30": 181325,
-  "2022-12-01": 181383,
-  "2022-12-02": 181455,
-  "2022-12-03": 181488,
-  "2022-12-04": 181586,
-  "2022-12-05": 181677,
-  "2022-12-06": 181757,
-  "2022-12-07": 181838,
-  "2022-12-08": 181907,
-  "2022-12-09": 181983,
-  "2022-12-10": 182041,
-  "2022-12-11": 182126,
-  "2022-12-12": 182213,
-  "2022-12-13": 182299,
-  "2022-12-14": 182336,
-  "2022-12-15": 182402,
-  "2022-12-16": 182459,
-  "2022-12-17": 182514,
-  "2022-12-18": 182577,
-  "2022-12-19": 182659,
-  "2022-12-20": 182757,
-  "2022-12-21": 182757,
-  "2022-12-22": 182835,
-  "2022-12-24": 182945,
-  "2022-12-25": 182996,
-  "2022-12-26": 183057,
-  "2022-12-27": 183142,
-  "2022-12-28": 183217,
-  "2022-12-29": 183288,
-  "2022-12-30": 183381,
-  "2022-12-31": 183536,
-  "2023-01-01": 183646,
-  "2023-01-02": 183767,
-  "2023-01-03": 183915,
-  "2023-01-04": 184055,
-  "2023-01-05": 184210,
-  "2023-01-06": 184365,
-  "2023-01-07": 184546,
-  "2023-01-08": 184568,
-  "2023-01-09": 184698,
-  "2023-01-10": 184841,
-  "2023-01-11": 184956,
-  "2023-01-12": 185101,
-  "2023-01-13": 185228,
-  "2023-01-14": 185442,
-  "2023-01-15": 185479,
-  "2023-01-16": 185578,
-  "2023-01-17": 185707,
-  "2023-01-18": 185832,
-  "2023-01-19": 185944,
-  "2023-01-20": 186106,
-  "2023-01-21": 186230,
-  "2023-01-22": 186357,
-  "2023-01-23": 186473,
-  "2023-01-24": 186624,
-  "2023-01-25": 186765,
-  "2023-01-26": 186896,
-  "2023-01-27": 187015,
-  "2023-01-28": 187143,
-  "2023-01-29": 187274,
-  "2023-01-30": 187395,
-  "2023-01-31": 187395,
-  "2023-02-01": 187624,
-  "2023-02-02": 187740,
-  "2023-02-03": 187883,
-  "2023-02-04": 187989,
-  "2023-02-05": 188137,
-  "2023-02-06": 188302,
-  "2023-02-07": 188416,
-  "2023-02-08": 188648,
-  "2023-02-09": 188648,
-  "2023-02-10": 188793,
-  "2023-02-11": 188888,
-  "2023-02-12": 189179,
-  "2023-02-13": 189307,
-  "2023-02-14": 189307,
-  "2023-02-15": 189433,
-  "2023-02-16": 189558,
-  "2023-02-17": 189684,
-  "2023-02-18": 189962,
-  "2023-02-19": 189979,
-  "2023-02-20": 190111,
-  "2023-02-21": 190250,
-  "2023-02-22": 190404,
-  "2023-02-23": 190581,
-  "2023-02-24": 190770,
-  "2023-02-25": 190955,
-  "2023-02-26": 191078,
-  "2023-02-27": 191427,
-  "2023-02-28": 191427,
-  "2023-03-01": 191600,
-  "2023-03-02": 191758,
-  "2023-03-03": 191929,
-  "2023-03-04": 192081,
-  "2023-03-05": 192410,
-  "2023-03-06": 192410,
-  "2023-03-07": 192610,
-  "2023-03-08": 192781,
-  "2023-03-09": 192945,
-  "2023-03-10": 193105,
-  "2023-03-11": 193261,
-  "2023-03-12": 193407,
-  "2023-03-13": 193609,
-  "2023-03-14": 193780,
-  "2023-03-15": 193940,
-  "2023-03-16": 194119,
-  "2023-03-17": 194119,
-  "2023-03-18": 194473,
-  "2023-03-19": 194656,
-  "2023-03-20": 194888,
-  "2023-03-21": 195108,
-  "2023-03-22": 195292,
-  "2023-03-23": 195466,
-  "2023-03-24": 195466,
-  "2023-03-25": 195807,
-  "2023-03-26": 195958,
-  "2023-03-27": 196113,
-  "2023-03-28": 196284,
-  "2023-03-29": 196473,
-  "2023-03-30": 196765,
-  "2023-03-31": 196765,
-  "2023-04-01": 196882,
-  "2023-04-02": 197017,
-  "2023-04-03": 197162,
-  "2023-04-04": 197315,
-  "2023-04-05": 197468,
-  "2023-04-06": 197601,
-  "2023-04-07": 197740,
-  "2023-04-09": 198019,
-  "2023-04-10": 198182,
-  "2023-04-11": 198503,
-  "2023-04-12": 198503,
-  "2023-04-13": 198631,
-  "2023-04-14": 198780,
-  "2023-04-15": 198921,
-  "2023-04-16": 199027,
-  "2023-04-17": 199164,
-  "2023-04-18": 199305,
-  "2023-04-19": 199480,
-  "2023-04-20": 199655,
-  "2023-04-21": 199794,
-  "2023-04-22": 199922,
-  "2023-04-23": 200083,
-  "2023-04-24": 200263,
-  "2023-04-25": 200427,
-  "2023-04-26": 200572,
-  "2023-04-27": 200718,
-  "2023-04-28": 200871,
-  "2023-04-29": 200981,
-  "2023-04-30": 201120,
-  "2023-05-01": 201281,
-  "2023-05-02": 201430,
-  "2023-05-03": 201566,
-  "2023-05-04": 201702,
-  "2023-05-05": 201872,
-  "2023-05-06": 201996,
-  "2023-05-07": 202148,
-  "2023-05-08": 202301,
-  "2023-05-09": 202461,
-  "2023-05-10": 202606,
-  "2023-05-11": 202747,
-  "2023-05-12": 202879,
-  "2023-05-13": 202999,
-  "2023-05-14": 203105,
-  "2023-05-15": 203237,
-  "2023-05-16": 203378,
-  "2023-05-17": 203496,
-  "2023-05-18": 203594,
-  "2023-05-19": 203741,
-  "2023-05-20": 203988,
-  "2023-05-21": 203988,
-  "2023-05-22": 203988,
-  "2023-05-23": 204309,
-  "2023-05-24": 204530,
-  "2023-05-25": 204557,
-  "2023-05-26": 204650,
-  "2023-05-27": 204750,
-  "2023-05-28": 204845,
-  "2023-05-29": 204845,
-  "2023-05-30": 205087,
-  "2023-05-31": 205171,
-  "2023-06-01": 205265,
-  "2023-06-02": 205351,
-  "2023-06-03": 205437,
-  "2023-06-04": 205557,
-  "2023-06-05": 205641,
-  "2023-06-06": 205768,
-  "2023-06-07": 205880,
-  "2023-06-08": 205972,
-  "2023-06-09": 206070,
-  "2023-06-10": 206162,
-  "2023-06-11": 206265,
-  "2023-06-12": 206376,
-  "2023-06-13": 206474,
-  "2023-06-14": 206556,
-  "2023-06-15": 206647,
-  "2023-06-16": 206745,
-  "2023-06-17": 206842,
-  "2023-06-18": 206949,
-  "2023-06-19": 207013,
-  "2023-06-20": 207113,
-  "2023-06-21": 207213,
-  "2023-06-22": 207316,
-  "2023-06-23": 207412,
-  "2023-06-24": 207471,
-  "2023-06-25": 207535,
-  "2023-06-26": 207621,
-  "2023-06-27": 207701,
-  "2023-06-28": 207780,
-  "2023-06-29": 207884,
-  "2023-06-30": 207982,
-  "2023-07-01": 208155,
-  "2023-07-02": 208155,
-  "2023-07-03": 208249,
-  "2023-07-04": 208312,
-  "2023-07-05": 208420,
-  "2023-07-06": 208633,
-  "2023-07-07": 208633,
-  "2023-07-08": 208719,
-  "2023-07-09": 208786,
-  "2023-07-10": 208890,
-  "2023-07-11": 208976,
-  "2023-07-12": 209050,
-  "2023-07-13": 209145,
-  "2023-07-14": 209213,
-  "2023-07-15": 209274,
-  "2023-07-16": 209358,
-  "2023-07-17": 209449,
-  "2023-07-18": 209515,
-  "2023-07-19": 209616,
-  "2023-07-20": 209698,
-  "2023-07-21": 209808,
-  "2023-07-22": 209908,
-  "2023-07-23": 210007,
-  "2023-07-24": 210086,
-  "2023-07-25": 210164,
-  "2023-07-26": 210277,
-  "2023-07-27": 210377,
-  "2023-07-28": 210462,
-  "2023-07-29": 210553,
-  "2023-07-30": 210621,
-  "2023-07-31": 210698,
-  "2023-08-01": 210780,
-  "2023-08-02": 210834,
-  "2023-08-03": 210914,
-  "2023-08-04": 210995,
-  "2023-08-05": 211081,
-  "2023-08-06": 211216,
-  "2023-08-07": 211216,
-  "2023-08-08": 211294,
-  "2023-08-09": 211358,
-  "2023-08-10": 211437,
-  "2023-08-11": 211516,
-  "2023-08-12": 211574,
-  "2023-08-13": 211630,
-  "2023-08-14": 211681,
-  "2023-08-15": 211850,
-  "2023-08-16": 211850,
-  "2023-08-17": 211930,
-  "2023-08-18": 211982,
-  "2023-08-19": 212056,
-  "2023-08-20": 212125,
-  "2023-08-21": 212209,
-  "2023-08-22": 212292,
-  "2023-08-23": 212378,
-  "2023-08-24": 212437,
-  "2023-08-25": 212523,
-  "2023-08-26": 212582,
-  "2023-08-27": 212663,
-  "2023-08-28": 212745,
-  "2023-08-29": 212841,
-  "2023-08-30": 212921,
-  "2023-08-31": 213000,
-  "2023-09-01": 213149,
-  "2023-09-02": 213149,
-  "2023-09-03": 213192,
-  "2023-09-04": 213273,
-  "2023-09-05": 213327,
-  "2023-09-06": 213408,
-  "2023-09-07": 213486,
-  "2023-09-08": 213577,
-  "2023-09-09": 213648,
-  "2023-09-10": 213733,
-  "2023-09-11": 213775,
-  "2023-09-12": 213873,
-  "2023-09-13": 213996,
-  "2023-09-14": 214090,
-  "2023-09-15": 214160,
-  "2023-09-16": 214222,
-  "2023-09-17": 214313,
-  "2023-09-18": 214401,
-  "2023-09-19": 214477,
-  "2023-09-20": 214558,
-  "2023-09-21": 214648,
-  "2023-09-22": 214706,
-  "2023-09-23": 214770,
-  "2023-09-24": 214816,
-  "2023-09-25": 214888,
-  "2023-09-26": 214979,
-  "2023-09-27": 215043,
-  "2023-09-28": 215114,
-  "2023-09-29": 215174,
-  "2023-09-30": 215224,
-  "2023-10-01": 215271,
-  "2023-10-02": 215336,
-  "2023-10-03": 215382,
-  "2023-10-04": 215417,
-  "2023-10-05": 215466,
-  "2023-10-06": 215515,
-  "2023-10-07": 215539,
-  "2023-10-08": 215580,
-  "2023-10-09": 215616,
-  "2023-10-10": 215595,
-  "2023-10-11": 215605,
-  "2023-10-12": 215605,
-  "2023-10-13": 215648,
-  "2023-10-14": 215560,
-  "2023-10-15": 215585,
-  "2023-10-16": 215627,
-  "2023-10-17": 215680,
-  "2023-10-18": 215728,
-  "2023-10-19": 215757,
-  "2023-10-20": 215809,
-  "2023-10-21": 215833,
-  "2023-10-22": 215862,
-  "2023-10-23": 215889,
-  "2023-10-24": 215927,
-  "2023-10-25": 215968,
-  "2023-10-26": 216002,
-  "2023-10-27": 216022,
-  "2023-10-28": 216054,
-  "2023-10-29": 216078,
-  "2023-10-30": 216150,
-  "2023-10-31": 216150,
-  "2023-11-01": 216183,
-  "2023-11-02": 216231,
-  "2023-11-03": 216276,
-  "2023-11-04": 216287,
-  "2023-11-05": 216300,
-  "2023-11-06": 216332,
-  "2023-11-07": 216360,
-  "2023-11-08": 216409,
-  "2023-11-09": 216434,
-  "2023-11-10": 216461,
-  "2023-11-11": 216488,
-  "2023-11-12": 216514,
-  "2023-11-13": 216545,
-  "2023-11-14": 216577,
-  "2023-11-15": 216577,
-  "2023-11-16": 216640,
-  "2023-11-17": 221270,
-  "2023-11-18": 221270,
-  "2023-11-19": 221337,
-  "2023-11-20": 221381,
-  "2023-11-21": 221422,
-  "2023-11-22": 221443,
-  "2023-11-23": 221475,
-  "2023-11-24": 221497,
-  "2023-11-25": 221525,
-  "2023-11-26": 221553,
-  "2023-11-27": 221561,
-  "2023-11-28": 221588,
-  "2023-11-29": 221631,
-  "2023-11-30": 221631,
-  "2023-12-01": 221650,
-  "2023-12-02": 221674,
-  "2023-12-03": 221682,
-  "2023-12-04": 221716,
-  "2023-12-05": 221758,
-  "2023-12-06": 221780,
-  "2023-12-07": 221810,
-  "2023-12-08": 221856,
-  "2023-12-09": 221871,
-  "2023-12-10": 221920,
-  "2023-12-11": 221964,
-  "2023-12-12": 222008,
-  "2023-12-13": 222033,
-  "2023-12-14": 222072,
-  "2023-12-15": 222099,
-  "2023-12-16": 222112,
-  "2023-12-17": 222138,
-  "2023-12-18": 222177,
-  "2023-12-19": 222209,
-  "2023-12-20": 222249,
-  "2023-12-21": 222279,
-  "2023-12-22": 222302,
-  "2023-12-23": 222335,
-  "2023-12-24": 222380,
-  "2023-12-25": 222422,
-  "2023-12-26": 222455,
-  "2023-12-27": 222507,
-  "2023-12-30": 222632,
-  "2023-12-31": 222671,
-  "2024-01-01": 222700,
-  "2024-01-02": 222751,
-  "2024-01-03": 222805
+  "2024-01-17": 223161,
+  "date_first_scraped": "2021-12-21",
+  "description": "Bird sounds in the background",
+  "name": "Birds in the Forest",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/3na52KNVuw7RpQO0txjnhY"
+      },
+      "artists": [
+        {
+          "name": "Nature Is Calling",
+          "url": "https://open.spotify.com/artist/5njWiMvAgKEJJTJTgRVST1"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 122601,
+      "name": "3 am Midsummer Birds",
+      "url": "https://open.spotify.com/track/1jxbWjMGGIp1ipXk5eLPv5"
+    },
+    {
+      "album": {
+        "name": "Forest Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "3am Midsummer Birds",
+      "url": "https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains",
+        "url": "https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 250000,
+      "name": "A Chit-Chat With Nature",
+      "url": "https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY"
+    },
+    {
+      "album": {
+        "name": "The Chirping Zoo",
+        "url": "https://open.spotify.com/album/7np01dKDdR0gvslYyj5jmL"
+      },
+      "artists": [
+        {
+          "name": "Our Glorious Nature",
+          "url": "https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 106326,
+      "name": "A Forest of Feathers",
+      "url": "https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD"
+    },
+    {
+      "album": {
+        "name": "A Symphony of the Sky",
+        "url": "https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft"
+      },
+      "artists": [
+        {
+          "name": "Ruidos de la Selva",
+          "url": "https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 90048,
+      "name": "A Symphony of the Sky",
+      "url": "https://open.spotify.com/track/7CLBE4V6hnqNyvziTRFxLd"
+    },
+    {
+      "album": {
+        "name": "Keep Calm With Nature Sounds: Switch Off and Relax With the Soothing Sound of Natural White Noise At It's Relaxing Best",
+        "url": "https://open.spotify.com/album/2HntqbsmDmZ6EzFU834b8H"
+      },
+      "artists": [
+        {
+          "name": "White Noise Research",
+          "url": "https://open.spotify.com/artist/2LFckOYhr4hG0PtLqHYWkz"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 598331,
+      "name": "A Woodland Clearing With Wildlife",
+      "url": "https://open.spotify.com/track/4L6Nd6cAxSg6e4qPW3dADt"
+    },
+    {
+      "album": {
+        "name": "Birds Sounds 1",
+        "url": "https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth"
+      },
+      "artists": [
+        {
+          "name": "Birds On Television",
+          "url": "https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 194676,
+      "name": "Afternoon Forest Birds for Calm and Peaceful",
+      "url": "https://open.spotify.com/track/3dajNRGucdNCwn6rpkClh8"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep",
+        "url": "https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Relaxation",
+          "url": "https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 300068,
+      "name": "Afternoon Forest Birds for Calm and Peaceful",
+      "url": "https://open.spotify.com/track/60KDOdj9i2A1v3ABF7rcGL"
+    },
+    {
+      "album": {
+        "name": "Singing Birds",
+        "url": "https://open.spotify.com/album/2L4PbW0puVu5cJKXiFET9l"
+      },
+      "artists": [
+        {
+          "name": "Bird Song Lullabies",
+          "url": "https://open.spotify.com/artist/0mcx3IzuoYgdmR0H7ateRv"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238515,
+      "name": "Afternoon in the Forest",
+      "url": "https://open.spotify.com/track/2bs9W4do8NBFvROkpmuOy8"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep",
+        "url": "https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Relaxation",
+          "url": "https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 360071,
+      "name": "Afternoon in the Marsh with Whippoorwills and Frogs for Serenity and Yoga Meditation",
+      "url": "https://open.spotify.com/track/3kwnHeGAbWGiGjuFXoZbWd"
+    },
+    {
+      "album": {
+        "name": "Insect Bird By The Day",
+        "url": "https://open.spotify.com/album/6T6lScQergcNtXtUlqirdA"
+      },
+      "artists": [
+        {
+          "name": "Experience Nature",
+          "url": "https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 120835,
+      "name": "Afternoon Light",
+      "url": "https://open.spotify.com/track/5fyJbNtzv7LAeKWntGGyeg"
+    },
+    {
+      "album": {
+        "name": "Lost in the Forest",
+        "url": "https://open.spotify.com/album/2U41ZL7Coe10QMDh8B8M2I"
+      },
+      "artists": [
+        {
+          "name": "Forest Sounds",
+          "url": "https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225772,
+      "name": "Beaks",
+      "url": "https://open.spotify.com/track/3alz6iZZ5bFW6X4zhtxnhx"
+    },
+    {
+      "album": {
+        "name": "Calm Bird Lunch",
+        "url": "https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf"
+      },
+      "artists": [
+        {
+          "name": "Calm Bird Sounds",
+          "url": "https://open.spotify.com/artist/1caNzGLMvuMlK2lODyKyxV"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 79975,
+      "name": "Beautiful Birds Above the Canopy",
+      "url": "https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7"
+    },
+    {
+      "album": {
+        "name": "The Cuckoo by the Lagoon",
+        "url": "https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5"
+      },
+      "artists": [
+        {
+          "name": "Actors of Nature",
+          "url": "https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102558,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/7C7yPNA7a8jRvVjYIDZqmT"
+    },
+    {
+      "album": {
+        "name": "Forest Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122601,
+      "name": "Beautiful Sound Of Spring Birds",
+      "url": "https://open.spotify.com/track/342GNSPKRkvYFTKSkEVvCn"
+    },
+    {
+      "album": {
+        "name": "Birdopia",
+        "url": "https://open.spotify.com/album/3e6UQ4ZftjswTJFXTfAdmO"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 1444000,
+      "name": "Beauty-Bird",
+      "url": "https://open.spotify.com/track/3TmVKdyc3YUACNpfkvzToj"
+    },
+    {
+      "album": {
+        "name": "Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej"
+      },
+      "artists": [
+        {
+          "name": "When Doves Cry (FX)",
+          "url": "https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Beauty-Bird",
+      "url": "https://open.spotify.com/track/63bDLpi7dByFnHFQEAMCh7"
+    },
+    {
+      "album": {
+        "name": "Deep Forest",
+        "url": "https://open.spotify.com/album/4tjeOFRimKcAXEXV7UzTdd"
+      },
+      "artists": [
+        {
+          "name": "Nature Of Sweden",
+          "url": "https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 184000,
+      "name": "Bird Forest HD",
+      "url": "https://open.spotify.com/track/2Izyk27LpbRZvXu6pQGpfo"
+    },
+    {
+      "album": {
+        "name": "The Cuckoo by the Lagoon",
+        "url": "https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5"
+      },
+      "artists": [
+        {
+          "name": "Actors of Nature",
+          "url": "https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 118604,
+      "name": "Bird-watching",
+      "url": "https://open.spotify.com/track/3q1utXbOrLhfUO3S1daLdE"
+    },
+    {
+      "album": {
+        "name": "Morning Forest Birds",
+        "url": "https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B"
+      },
+      "artists": [
+        {
+          "name": "Swedish Forest Birds",
+          "url": "https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Bird-watching",
+      "url": "https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo"
+    },
+    {
+      "album": {
+        "name": "My Forest",
+        "url": "https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172552,
+      "name": "Birds & Stream",
+      "url": "https://open.spotify.com/track/6SenwdFqWVglPfDRUJhBSl"
+    },
+    {
+      "album": {
+        "name": "Song Birds",
+        "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
+      },
+      "artists": [
+        {
+          "name": "Zen Master",
+          "url": "https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94874,
+      "name": "Birds & The Bees",
+      "url": "https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9"
+    },
+    {
+      "album": {
+        "name": "Peaceful Wildlife",
+        "url": "https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 189939,
+      "name": "Birds After The Rain",
+      "url": "https://open.spotify.com/track/3sgOhjx9zNhxEQIransTTP"
+    },
+    {
+      "album": {
+        "name": "A Symphony of the Sky",
+        "url": "https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft"
+      },
+      "artists": [
+        {
+          "name": "Ruidos de la Selva",
+          "url": "https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 139805,
+      "name": "Birds and Creeks",
+      "url": "https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8"
+    },
+    {
+      "album": {
+        "name": "Birds and Nest Noise",
+        "url": "https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1jaros De La Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 135817,
+      "name": "Birds and Nest noise",
+      "url": "https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB"
+      },
+      "artists": [
+        {
+          "name": "The Sound Of The Rain",
+          "url": "https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 205000,
+      "name": "Birds and Rain",
+      "url": "https://open.spotify.com/track/0eQgJL7i10K9jDSDwHUcEH"
+    },
+    {
+      "album": {
+        "name": "Ambient Nature Serenity",
+        "url": "https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds of Nature",
+          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 181739,
+      "name": "Birds Around The Brook",
+      "url": "https://open.spotify.com/track/62DNn8FKECcxRXw5Du456T"
+    },
+    {
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 175373,
+      "name": "Birds at the Cemetery",
+      "url": "https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt"
+    },
+    {
+      "album": {
+        "name": "Forest Sounds for Peace of Mind",
+        "url": "https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU"
+      },
+      "artists": [
+        {
+          "name": "Outside Broadcast Recordings",
+          "url": "https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 235074,
+      "name": "Birds by the Waterside",
+      "url": "https://open.spotify.com/track/4vknBBfaGO6ZnHw69a2Bi0"
+    },
+    {
+      "album": {
+        "name": "The Very Best Sound Of Birds And Nature (With Rain, Forest, Creek, River, Wind, Thunder)",
+        "url": "https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV"
+      },
+      "artists": [
+        {
+          "name": "Life Sounds Nature",
+          "url": "https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 204160,
+      "name": "Birds chirp In Kitsilano, Vancouver (V\u00f6gelgezwitscher)",
+      "url": "https://open.spotify.com/track/5nckb93IUcl7UNqPoQslHj"
+    },
+    {
+      "album": {
+        "name": "Birds Chorus",
+        "url": "https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds For Sleeping",
+          "url": "https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133989,
+      "name": "Birds Chorus",
+      "url": "https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz"
+    },
+    {
+      "album": {
+        "name": "Morning Forest Birds",
+        "url": "https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B"
+      },
+      "artists": [
+        {
+          "name": "Swedish Forest Birds",
+          "url": "https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Birds High up in the Trees",
+      "url": "https://open.spotify.com/track/0oT71mw0FfCo2zEhGcDHi2"
+    },
+    {
+      "album": {
+        "name": "Brook and Birds",
+        "url": "https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w"
+      },
+      "artists": [
+        {
+          "name": "Under Bare Sky",
+          "url": "https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 199534,
+      "name": "Birds High up in the Trees",
+      "url": "https://open.spotify.com/track/4kHAscEXKMWWTPG1pG4k9x"
+    },
+    {
+      "album": {
+        "name": "Birds by the Creek",
+        "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
+      },
+      "artists": [
+        {
+          "name": "Nature Lab",
+          "url": "https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86511,
+      "name": "Birds in Calm Forest",
+      "url": "https://open.spotify.com/track/23Hpf0InC4WVSmg9KaNxIy"
+    },
+    {
+      "album": {
+        "name": "Birds In The Barn",
+        "url": "https://open.spotify.com/album/2bSbBJixutzQ4ngTdrPDah"
+      },
+      "artists": [
+        {
+          "name": "Nature Nerd",
+          "url": "https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 155871,
+      "name": "Birds In The Barn",
+      "url": "https://open.spotify.com/track/0gbrNSQMLwcs8EbBVTIMmE"
+    },
+    {
+      "album": {
+        "name": "Birds by the Creek",
+        "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
+      },
+      "artists": [
+        {
+          "name": "Nature Lab",
+          "url": "https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 103255,
+      "name": "Birds in the Rain",
+      "url": "https://open.spotify.com/track/4Vq2DNGyQl6WCg0rNMJoaU"
+    },
+    {
+      "album": {
+        "name": "Early Summer Birds Vol. 1",
+        "url": "https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Birds In The Woods",
+      "url": "https://open.spotify.com/track/1jMqE6saRqcpmglq4B2Bcd"
+    },
+    {
+      "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 154338,
+      "name": "Birds in Village Park",
+      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
+    },
+    {
+      "album": {
+        "name": "Winter Streams",
+        "url": "https://open.spotify.com/album/5wE2T4cHSDg8xDgUOf9kb6"
+      },
+      "artists": [
+        {
+          "name": "Super Natural",
+          "url": "https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 135500,
+      "name": "Birds Near Icy Stream",
+      "url": "https://open.spotify.com/track/2DDZOmWgLnKyuBMotHjAC4"
+    },
+    {
+      "album": {
+        "name": "Idyllwild Placid",
+        "url": "https://open.spotify.com/album/3yEc4L6FBMR21lAlDZo5BG"
+      },
+      "artists": [
+        {
+          "name": "Luvbyrds",
+          "url": "https://open.spotify.com/artist/4Jej21yNK07VQxiJ30bllw"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 156000,
+      "name": "Birds Of Fern Valley - Seamless",
+      "url": "https://open.spotify.com/track/4dyxi3hwcorIIswprEjCPg"
+    },
+    {
+      "album": {
+        "name": "Peaceful Wildlife",
+        "url": "https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 222249,
+      "name": "Birds Of Sonoma",
+      "url": "https://open.spotify.com/track/3jl9eaLHME02Bt84BkXaXU"
+    },
+    {
+      "album": {
+        "name": "Birds in the Forest: Natural Birds Voices",
+        "url": "https://open.spotify.com/album/05DBlew7RGX0waWkarybnL"
+      },
+      "artists": [
+        {
+          "name": "Birds In The Forest",
+          "url": "https://open.spotify.com/artist/3Zo4WNsztJ80TsvnvjarTU"
+        },
+        {
+          "name": "Sounds of Nature Zone",
+          "url": "https://open.spotify.com/artist/00q2xMmecN41NpqjvO0z8R"
+        },
+        {
+          "name": "Nature Sounds Reserve",
+          "url": "https://open.spotify.com/artist/4468t4IVuB1IH8wBUnePR4"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 160000,
+      "name": "Birds on the Trees",
+      "url": "https://open.spotify.com/track/6ch7RYczmgPI83KO4D3Icq"
+    },
+    {
+      "album": {
+        "name": "Part 1",
+        "url": "https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK"
+      },
+      "artists": [
+        {
+          "name": "Rain In Spain",
+          "url": "https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 196000,
+      "name": "Birds Singin' In The Rain",
+      "url": "https://open.spotify.com/track/0aX8eoqvYKDzaxD6zVffNc"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds: Total Relaxation",
+        "url": "https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 599080,
+      "name": "Birdsong in the Spring Sunshine",
+      "url": "https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso"
+    },
+    {
+      "album": {
+        "name": "Birdsongs (Time to Relax)",
+        "url": "https://open.spotify.com/album/5PSS2R1nI1LXnBhYETJSKw"
+      },
+      "artists": [
+        {
+          "name": "Bird Robin",
+          "url": "https://open.spotify.com/artist/6kZucHZMt1r4kux254FH9E"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-04",
+      "duration_ms": 638658,
+      "name": "Birdsongs - Scene 2",
+      "url": "https://open.spotify.com/track/7g07ZG7iYJVhzxMv5KQ85B"
+    },
+    {
+      "album": {
+        "name": "Wonderful Morning",
+        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
+      },
+      "artists": [
+        {
+          "name": "Sounds on Earth",
+          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 166500,
+      "name": "Blackbird Singing",
+      "url": "https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq"
+    },
+    {
+      "album": {
+        "name": "Blackbird Spring Ambience",
+        "url": "https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Birds",
+          "url": "https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102840,
+      "name": "blackbird spring ambience",
+      "url": "https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp"
+    },
+    {
+      "album": {
+        "name": "Neighborhood Birds FX",
+        "url": "https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7"
+      },
+      "artists": [
+        {
+          "name": "Birdsongst",
+          "url": "https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150942,
+      "name": "Calm Forest Birds",
+      "url": "https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK"
+    },
+    {
+      "album": {
+        "name": "Calming River and Birds",
+        "url": "https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt"
+      },
+      "artists": [
+        {
+          "name": "Lucila Blanco",
+          "url": "https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 137017,
+      "name": "Calming River and Birds",
+      "url": "https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk"
+    },
+    {
+      "album": {
+        "name": "Peaceful Wildlife",
+        "url": "https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 197090,
+      "name": "Canyon Bird Life",
+      "url": "https://open.spotify.com/track/2kVnsq94gLLCiKj9ynxixY"
+    },
+    {
+      "album": {
+        "name": "The Cuckoo by the Lagoon",
+        "url": "https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5"
+      },
+      "artists": [
+        {
+          "name": "Actors of Nature",
+          "url": "https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79534,
+      "name": "Close to Nature",
+      "url": "https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf"
+    },
+    {
+      "album": {
+        "name": "Sounds of the Lone Forest",
+        "url": "https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212475,
+      "name": "Commander Piggins Call",
+      "url": "https://open.spotify.com/track/7aZQxpvaYihFp6Edwp7NMy"
+    },
+    {
+      "album": {
+        "name": "Cuckoo & Other Birds",
+        "url": "https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208409,
+      "name": "Cuckoo & Other Birds",
+      "url": "https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9"
+    },
+    {
+      "album": {
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD"
+      },
+      "artists": [
+        {
+          "name": "Aire Vega",
+          "url": "https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157671,
+      "name": "Early Birds Light Wind",
+      "url": "https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ"
+    },
+    {
+      "album": {
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/1YGbdo8psAn5frhg854Gcc"
+      },
+      "artists": [
+        {
+          "name": "Circular Gravity",
+          "url": "https://open.spotify.com/artist/5DoMCLazvudr0lnBVT2pwq"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 454730,
+      "name": "Early Morning Thunder",
+      "url": "https://open.spotify.com/track/2PMNQiqn4JFUdA9B18hTsC"
+    },
+    {
+      "album": {
+        "name": "Rain Forest Bird Sounds",
+        "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
+      },
+      "artists": [
+        {
+          "name": "S. Key",
+          "url": "https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130031,
+      "name": "Early Summer Birds",
+      "url": "https://open.spotify.com/track/3tvAaXiUZAyMPae7NZFGGI"
+    },
+    {
+      "album": {
+        "name": "Epic Birds - vol.1",
+        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172211,
+      "name": "Evening Twitter",
+      "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
+    },
+    {
+      "album": {
+        "name": "Animal and Bird Songs",
+        "url": "https://open.spotify.com/album/53k7LDIaR2N4NQa200VqHu"
+      },
+      "artists": [
+        {
+          "name": "Animal and Bird Songs",
+          "url": "https://open.spotify.com/artist/4owYobHUxEAkennAzpxvaX"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 194429,
+      "name": "Evergreens",
+      "url": "https://open.spotify.com/track/6MBUDYxqOsanFMkC1nKfe6"
+    },
+    {
+      "album": {
+        "name": "180 Nature Sounds",
+        "url": "https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 141557,
+      "name": "Flock Ofo Birds in Belize with Rooster Calls",
+      "url": "https://open.spotify.com/track/3exuMMSZbFc2IuLpTKJcmV"
+    },
+    {
+      "album": {
+        "name": "Epic Birds - vol.1",
+        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182083,
+      "name": "Forest Bird",
+      "url": "https://open.spotify.com/track/0GC8vCFKNHjC2myLf1o8v2"
+    },
+    {
+      "album": {
+        "name": "Early Summer Birds Vol. 1",
+        "url": "https://open.spotify.com/album/00rJPgbMjFWxp3taHNlH7A"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Forest Birds",
+      "url": "https://open.spotify.com/track/7rgTZWgO5JEPrLCmhy1ABE"
+    },
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
+      },
+      "artists": [
+        {
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "Forest Birds HD",
+      "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind",
+        "url": "https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds Artists",
+          "url": "https://open.spotify.com/artist/2wdilDjBFjtfm30BczhsPa"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 326000,
+      "name": "Forest Sounds",
+      "url": "https://open.spotify.com/track/4AmaFiPBTmiYs8UsRw1Zx3"
+    },
+    {
+      "album": {
+        "name": "Forest Sounds with Soft Rains & Gentle Winds: Nature Sounds for Deep Sleep, Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/3WW1217X3QbcyFugRShRb8"
+      },
+      "artists": [
+        {
+          "name": "Rest & Relax Nature Sounds Artists",
+          "url": "https://open.spotify.com/artist/2bxhaIpgn88a3qbFrzbgd5"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 998000,
+      "name": "Forest Sounds",
+      "url": "https://open.spotify.com/track/1TwRxVK7A61aXkRXxE0xa9"
+    },
+    {
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/185jgdGe8PCY7itko869IC"
+      },
+      "artists": [
+        {
+          "name": "Sound of the Wilderness",
+          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-22",
+      "duration_ms": 116288,
+      "name": "French Forest - Wind and Birds",
+      "url": "https://open.spotify.com/track/2DDO3exC1RktqvOrYSIpj5"
+    },
+    {
+      "album": {
+        "name": "Birds by the Creek",
+        "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
+      },
+      "artists": [
+        {
+          "name": "Nature Lab",
+          "url": "https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104651,
+      "name": "Happy Birds",
+      "url": "https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ"
+    },
+    {
+      "album": {
+        "name": "Highway Birds",
+        "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
+      },
+      "artists": [
+        {
+          "name": "Betweetle",
+          "url": "https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 107839,
+      "name": "Highway Birds",
+      "url": "https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk"
+    },
+    {
+      "album": {
+        "name": "180 Nature Sounds",
+        "url": "https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 59454,
+      "name": "House Wren Bird Calls Sound FX",
+      "url": "https://open.spotify.com/track/3PJSbBqYhH21pzskNEENjP"
+    },
+    {
+      "album": {
+        "name": "In the Midst of Nature",
+        "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
+      },
+      "artists": [
+        {
+          "name": "Neoaves",
+          "url": "https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121345,
+      "name": "In the Midst of Nature",
+      "url": "https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw"
+    },
+    {
+      "album": {
+        "name": "Rain Forest Bird Sounds",
+        "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
+      },
+      "artists": [
+        {
+          "name": "S. Key",
+          "url": "https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78019,
+      "name": "Joyful Birds",
+      "url": "https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc"
+    },
+    {
+      "album": {
+        "name": "Swedish Summer Birds",
+        "url": "https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE"
+      },
+      "artists": [
+        {
+          "name": "Birds In The Morning",
+          "url": "https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 186000,
+      "name": "June 1st Morning Birds",
+      "url": "https://open.spotify.com/track/1ulBrAV3XL3u9rFyccNvBk"
+    },
+    {
+      "album": {
+        "name": "Swedish Summer Birds",
+        "url": "https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE"
+      },
+      "artists": [
+        {
+          "name": "Birds In The Morning",
+          "url": "https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 188670,
+      "name": "June 2nd Morning Birds",
+      "url": "https://open.spotify.com/track/7j9lcDiBwyLNc5VNSKU6BD"
+    },
+    {
+      "album": {
+        "name": "Swedish Summer Birds",
+        "url": "https://open.spotify.com/album/6Ez8dWYBbORaLkjiZOgHQE"
+      },
+      "artists": [
+        {
+          "name": "Birds In The Morning",
+          "url": "https://open.spotify.com/artist/2N3AKClGs5tPexsen5EBvm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "June 3rd Morning Birds",
+      "url": "https://open.spotify.com/track/5sSrNaCZniGiJr4BsUgUZE"
+    },
+    {
+      "album": {
+        "name": "Soothing Birds",
+        "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
+      },
+      "artists": [
+        {
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "Kaupe Spring Birds",
+      "url": "https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK"
+    },
+    {
+      "album": {
+        "name": "Thicket Winging",
+        "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Forest",
+          "url": "https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 376298,
+      "name": "Lakeside Repose",
+      "url": "https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY"
+    },
+    {
+      "album": {
+        "name": "Early Morning Island Birds",
+        "url": "https://open.spotify.com/album/3mn2JY5cbEY1DtT0iSAV2B"
+      },
+      "artists": [
+        {
+          "name": "Singing Birds",
+          "url": "https://open.spotify.com/artist/41EnYap10lERFyb9cem7Qk"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 63439,
+      "name": "Light Wind Makes Happy Birds",
+      "url": "https://open.spotify.com/track/3SomCxh7ENRm5FiTLu4eih"
+    },
+    {
+      "album": {
+        "name": "Dreams & Bird Song",
+        "url": "https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88"
+      },
+      "artists": [
+        {
+          "name": "Dreamy Nature",
+          "url": "https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 144207,
+      "name": "Meadow Birds Chirp",
+      "url": "https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh"
+    },
+    {
+      "album": {
+        "name": "Soothing Birds",
+        "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
+      },
+      "artists": [
+        {
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122601,
+      "name": "Midsummer Evening Birds",
+      "url": "https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k"
+    },
+    {
+      "album": {
+        "name": "Forest Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154552,
+      "name": "Moment Of Peace (Forest Birds)",
+      "url": "https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk"
+    },
+    {
+      "album": {
+        "name": "Himalaya Bird Sounds",
+        "url": "https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x"
+      },
+      "artists": [
+        {
+          "name": "Himalaya Nature",
+          "url": "https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 276410,
+      "name": "Morning Bird Symphony",
+      "url": "https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq"
+    },
+    {
+      "album": {
+        "name": "Sounds of the Lone Forest",
+        "url": "https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78980,
+      "name": "Morning Bird Symphony",
+      "url": "https://open.spotify.com/track/1lFMvT4R4B2S0K3dSUTrlN"
+    },
+    {
+      "album": {
+        "name": "Morning Bird Symphony",
+        "url": "https://open.spotify.com/album/2815kNCpMBJS3tP20pmwFh"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Birds",
+          "url": "https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "Morning Bird Symphony",
+      "url": "https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz"
+    },
+    {
+      "album": {
+        "name": "Morning Forest Birds",
+        "url": "https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B"
+      },
+      "artists": [
+        {
+          "name": "Swedish Forest Birds",
+          "url": "https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "Morning Bird Symphony",
+      "url": "https://open.spotify.com/track/3oVqA93MPShAdao5iIKlE7"
+    },
+    {
+      "album": {
+        "name": "Natural Mornings",
+        "url": "https://open.spotify.com/album/5Cf0rw5SoOPtDjSkSwijAR"
+      },
+      "artists": [
+        {
+          "name": "Morning Nature",
+          "url": "https://open.spotify.com/artist/1nukVKo5upH1h2p9gpDE2V"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 294107,
+      "name": "Morning Birds and Wind in the Rainforest",
+      "url": "https://open.spotify.com/track/6pJk6WsZRbVSgs1jKY59y7"
+    },
+    {
+      "album": {
+        "name": "Morning Birds May",
+        "url": "https://open.spotify.com/album/0uB5c9Md8U2IKcniqFFkU5"
+      },
+      "artists": [
+        {
+          "name": "Drakir Nature",
+          "url": "https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163114,
+      "name": "Morning Birds May",
+      "url": "https://open.spotify.com/track/37jqgmiDN5ITZtxzQ9FFc0"
+    },
+    {
+      "album": {
+        "name": "Forest Ambience",
+        "url": "https://open.spotify.com/album/3YGbhSRV9TwZQieBr5ChcC"
+      },
+      "artists": [
+        {
+          "name": "In Beautiful Nature",
+          "url": "https://open.spotify.com/artist/0e5VJVfj2bG88EWUdgv7Qk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 148947,
+      "name": "Morning Countryside with Birds",
+      "url": "https://open.spotify.com/track/4q0yUiKbX6wQpX403QfnDr"
+    },
+    {
+      "album": {
+        "name": "Nature Nice",
+        "url": "https://open.spotify.com/album/3VBGYlSRKVgUOSE7YkI1a8"
+      },
+      "artists": [
+        {
+          "name": "Lissening",
+          "url": "https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 122250,
+      "name": "Morning In The Forest",
+      "url": "https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8"
+    },
+    {
+      "album": {
+        "name": "Woodlands",
+        "url": "https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq"
+      },
+      "artists": [
+        {
+          "name": "Wonders of Nature",
+          "url": "https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Morning in the Mist",
+      "url": "https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind",
+        "url": "https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds Artists",
+          "url": "https://open.spotify.com/artist/2wdilDjBFjtfm30BczhsPa"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 326000,
+      "name": "Morning Songbirds",
+      "url": "https://open.spotify.com/track/1JKRtDy8YnoW02hugwW3pl"
+    },
+    {
+      "album": {
+        "name": "My Forest",
+        "url": "https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 157525,
+      "name": "My Forest",
+      "url": "https://open.spotify.com/track/5CpOvsRAL1bGrQJkh6BhKp"
+    },
+    {
+      "album": {
+        "name": "Bird Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej"
+      },
+      "artists": [
+        {
+          "name": "When Doves Cry (FX)",
+          "url": "https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128545,
+      "name": "Nature Sounds",
+      "url": "https://open.spotify.com/track/0aiIxhhNwCZcUF4foUSpNa"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains",
+        "url": "https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9"
+      },
+      "artists": [
+        {
+          "name": "Robbins Island Music Group",
+          "url": "https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 252000,
+      "name": "Nature Sounds of Walden Pond",
+      "url": "https://open.spotify.com/track/5gEuYirrr93QjnpKunXCfZ"
+    },
+    {
+      "album": {
+        "name": "Nature Spa",
+        "url": "https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz"
+      },
+      "artists": [
+        {
+          "name": "Mindwhisper",
+          "url": "https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Nature Spa",
+      "url": "https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6"
+    },
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ"
+      },
+      "artists": [
+        {
+          "name": "Creatress",
+          "url": "https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Northern Birds",
+      "url": "https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm"
+    },
+    {
+      "album": {
+        "name": "Ambient Nature Serenity",
+        "url": "https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds of Nature",
+          "url": "https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 230233,
+      "name": "Park Bird Fountain",
+      "url": "https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa"
+    },
+    {
+      "album": {
+        "name": "Birds Chirping Blues",
+        "url": "https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK"
+      },
+      "artists": [
+        {
+          "name": "Sweet Sounds of Nature",
+          "url": "https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 132295,
+      "name": "Park Birds",
+      "url": "https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz"
+    },
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
+      },
+      "artists": [
+        {
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Peaceful Birds In Scandinavian Forest",
+      "url": "https://open.spotify.com/track/7AAsnLgmAxiZBuUtPJhHT9"
+    },
+    {
+      "album": {
+        "name": "Peaceful Birds Singing",
+        "url": "https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY"
+      },
+      "artists": [
+        {
+          "name": "Hola P\u00e1jaros",
+          "url": "https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 120820,
+      "name": "Peaceful Birds Singing",
+      "url": "https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw"
+    },
+    {
+      "album": {
+        "name": "Soothing Birds",
+        "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
+      },
+      "artists": [
+        {
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 178329,
+      "name": "Rain Forest (Bird Sounds)",
+      "url": "https://open.spotify.com/track/0gyems769d3r5O3CqBOGzG"
+    },
+    {
+      "album": {
+        "name": "Forest Bird Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 168669,
+      "name": "Rain Forest Bird Sounds",
+      "url": "https://open.spotify.com/track/05lsppV4srCvaDYOh7XeOB"
+    },
+    {
+      "album": {
+        "name": "Rain Forest Bird Sounds",
+        "url": "https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c"
+      },
+      "artists": [
+        {
+          "name": "S. Key",
+          "url": "https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 108483,
+      "name": "Rain Forest Birds",
+      "url": "https://open.spotify.com/track/15ovQxV8biA0iMQMrkJg6q"
+    },
+    {
+      "album": {
+        "name": "Swedish Morning Birds",
+        "url": "https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF"
+      },
+      "artists": [
+        {
+          "name": "Swedish-Bird-Sounds",
+          "url": "https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Rain Forest Birds",
+      "url": "https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142498,
+      "name": "River Birds (Green Noise 220Hz HP)",
+      "url": "https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY"
+    },
+    {
+      "album": {
+        "name": "Singing Birds",
+        "url": "https://open.spotify.com/album/5CZDUlLtKopRhg7lFaknDG"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 60000,
+      "name": "Singing Birds - In Swedish Forest",
+      "url": "https://open.spotify.com/track/2Rgp3Ah2JcdzFcIruAhDuz"
+    },
+    {
+      "album": {
+        "name": "180 Nature Sounds",
+        "url": "https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 65384,
+      "name": "Small Group of Loons",
+      "url": "https://open.spotify.com/track/5fCGGIlQNz3cBvKiMCRnfB"
+    },
+    {
+      "album": {
+        "name": "Forest Bird Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk"
+      },
+      "artists": [
+        {
+          "name": "KEI NATURE",
+          "url": "https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Soothing Morning Birds",
+      "url": "https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x"
+    },
+    {
+      "album": {
+        "name": "Nature Sounds: Ocean Waves, Forest Sounds, Rain, Soft Breezes Wind",
+        "url": "https://open.spotify.com/album/265JVBSN2QBT7X0OnhJltv"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds Artists",
+          "url": "https://open.spotify.com/artist/2wdilDjBFjtfm30BczhsPa"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 254000,
+      "name": "Sounds of Nature",
+      "url": "https://open.spotify.com/track/7c5hPP0yYpBgXKFcmzZzLK"
+    },
+    {
+      "album": {
+        "name": "180 Nature Sounds",
+        "url": "https://open.spotify.com/album/7rSeDxbt9mHcFcEisvhkqr"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 69250,
+      "name": "Sparrow Lark Bird Call Sound Effect",
+      "url": "https://open.spotify.com/track/6ktta1JElfVruwxDOhKNlH"
+    },
+    {
+      "album": {
+        "name": "Birds Sounds 1",
+        "url": "https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth"
+      },
+      "artists": [
+        {
+          "name": "Birds On Television",
+          "url": "https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263035,
+      "name": "Spring Birds Calling",
+      "url": "https://open.spotify.com/track/5JTIydAbaixj7wuulxKbKd"
+    },
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133092,
+      "name": "Spring Birds In The Afternoon",
+      "url": "https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS"
+    },
+    {
+      "album": {
+        "name": "Calming Bird Sounds",
+        "url": "https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ"
+      },
+      "artists": [
+        {
+          "name": "Birds 3AM",
+          "url": "https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Spring Birds In The Forest",
+      "url": "https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw"
+    },
+    {
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 144876,
+      "name": "Spring Birds In The Forest",
+      "url": "https://open.spotify.com/track/7a1XGxwYRr3YUW3NpKrBDX"
+    },
+    {
+      "album": {
+        "name": "Thunder, Birds and Rain",
+        "url": "https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 171500,
+      "name": "Springtime (Birds and Rain)",
+      "url": "https://open.spotify.com/track/0QOriHCerZiKVDkPTRmKjM"
+    },
+    {
+      "album": {
+        "name": "Singing Birds",
+        "url": "https://open.spotify.com/album/2L4PbW0puVu5cJKXiFET9l"
+      },
+      "artists": [
+        {
+          "name": "Bird Song Lullabies",
+          "url": "https://open.spotify.com/artist/0mcx3IzuoYgdmR0H7ateRv"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 162725,
+      "name": "Springtime Birds",
+      "url": "https://open.spotify.com/track/0iiGGPtHIblPML1N1C8HCS"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132472,
+      "name": "Still River - Green Noise",
+      "url": "https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0"
+    },
+    {
+      "album": {
+        "name": "Summer Afternoon Birds",
+        "url": "https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm"
+      },
+      "artists": [
+        {
+          "name": "Jungleur",
+          "url": "https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 140654,
+      "name": "Summer Afternoon Birds",
+      "url": "https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ"
+    },
+    {
+      "album": {
+        "name": "Calming River and Birds",
+        "url": "https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt"
+      },
+      "artists": [
+        {
+          "name": "Lucila Blanco",
+          "url": "https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 150243,
+      "name": "Summer Birds",
+      "url": "https://open.spotify.com/track/6vvQbEbMHApAqDnShNqwdW"
+    },
+    {
+      "album": {
+        "name": "Brook and Birds",
+        "url": "https://open.spotify.com/album/1d8yAL9vhDTbuf6ARhzR6w"
+      },
+      "artists": [
+        {
+          "name": "Under Bare Sky",
+          "url": "https://open.spotify.com/artist/7KcqBIpoFRx659XfOwH8NK"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/5SZN94c5Neyb7tUNMGmykq"
+    },
+    {
+      "album": {
+        "name": "Embrace The Nature",
+        "url": "https://open.spotify.com/album/6JXywUF1OsQZoNUfXc91xQ"
+      },
+      "artists": [
+        {
+          "name": "The Land Seven",
+          "url": "https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 112800,
+      "name": "Surrounded by Nature",
+      "url": "https://open.spotify.com/track/1U8CBdosDEnp44ghAVFxEg"
+    },
+    {
+      "album": {
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD"
+      },
+      "artists": [
+        {
+          "name": "Aire Vega",
+          "url": "https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 177290,
+      "name": "Swedish Spring Birds",
+      "url": "https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS"
+    },
+    {
+      "album": {
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+      },
+      "artists": [
+        {
+          "name": "Touch of Spades",
+          "url": "https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-07",
+      "duration_ms": 214888,
+      "name": "The Days of Sleep",
+      "url": "https://open.spotify.com/track/0Zll35HIjOvk4RvK733uR8"
+    },
+    {
+      "album": {
+        "name": "A Winged World",
+        "url": "https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig"
+      },
+      "artists": [
+        {
+          "name": "Hidden Gems Nature",
+          "url": "https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128339,
+      "name": "The Sounds of the Sky",
+      "url": "https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS"
+    },
+    {
+      "album": {
+        "name": "Birdopia",
+        "url": "https://open.spotify.com/album/3e6UQ4ZftjswTJFXTfAdmO"
+      },
+      "artists": [
+        {
+          "name": "Ambiworld",
+          "url": "https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 909482,
+      "name": "Up Above, Where Birds Sing",
+      "url": "https://open.spotify.com/track/7o5sqfEC5qffpmWxctGPAX"
+    },
+    {
+      "album": {
+        "name": "Vogelgezwitscher",
+        "url": "https://open.spotify.com/album/3d2efairwF2VEGbYPjDigj"
+      },
+      "artists": [
+        {
+          "name": "Berlin Rain",
+          "url": "https://open.spotify.com/artist/367WqYA55AUDT7u8TMBVsy"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 176100,
+      "name": "Vogelgezwitscher",
+      "url": "https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f"
+    },
+    {
+      "album": {
+        "name": "Wide Forest Birds",
+        "url": "https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5"
+      },
+      "artists": [
+        {
+          "name": "House Bird",
+          "url": "https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 157525,
+      "name": "Wide Forest Birds",
+      "url": "https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr"
+    },
+    {
+      "album": {
+        "name": "Relaxing Forest Harmony",
+        "url": "https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81"
+      },
+      "artists": [
+        {
+          "name": "Outside HD Samples",
+          "url": "https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236894,
+      "name": "Wildwood Meditation",
+      "url": "https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVEt8B7a1H1M"
 }

@@ -1,584 +1,1457 @@
 {
-  "2022-05-26": 22242,
-  "2022-05-27": 22252,
-  "2022-05-28": 22263,
-  "2022-05-29": 22280,
-  "2022-05-30": 22296,
-  "2022-05-31": 22314,
-  "2022-06-01": 22333,
-  "2022-06-02": 22340,
-  "2022-06-03": 22345,
-  "2022-06-04": 22356,
-  "2022-06-05": 22376,
-  "2022-06-06": 22397,
-  "2022-06-07": 22409,
-  "2022-06-08": 22429,
-  "2022-06-09": 22442,
-  "2022-06-10": 22457,
-  "2022-06-11": 22472,
-  "2022-06-12": 22486,
-  "2022-06-13": 22501,
-  "2022-06-14": 22513,
-  "2022-06-15": 22523,
-  "2022-06-16": 22529,
-  "2022-06-17": 22539,
-  "2022-06-18": 22556,
-  "2022-06-19": 22583,
-  "2022-06-20": 22583,
-  "2022-06-21": 22601,
-  "2022-06-22": 22624,
-  "2022-06-23": 22624,
-  "2022-06-24": 22633,
-  "2022-06-25": 22651,
-  "2022-06-26": 22667,
-  "2022-06-27": 22675,
-  "2022-06-28": 22687,
-  "2022-06-29": 22706,
-  "2022-06-30": 22718,
-  "2022-07-01": 22728,
-  "2022-07-02": 22736,
-  "2022-07-03": 22747,
-  "2022-07-04": 22769,
-  "2022-07-05": 22769,
-  "2022-07-06": 22769,
-  "2022-07-07": 22812,
-  "2022-07-08": 22829,
-  "2022-07-09": 22844,
-  "2022-07-10": 22859,
-  "2022-07-11": 22886,
-  "2022-07-12": 22897,
-  "2022-07-13": 22922,
-  "2022-07-14": 22928,
-  "2022-07-15": 22946,
-  "2022-07-16": 22961,
-  "2022-07-17": 22977,
-  "2022-07-18": 22994,
-  "2022-07-19": 23005,
-  "2022-07-20": 23017,
-  "2022-07-21": 23030,
-  "2022-07-22": 23057,
-  "2022-07-23": 23070,
-  "2022-07-24": 23085,
-  "2022-07-25": 23112,
-  "2022-07-26": 23121,
-  "2022-07-27": 23145,
-  "2022-07-28": 23171,
-  "2022-07-29": 23190,
-  "2022-07-30": 23227,
-  "2022-07-31": 23227,
-  "2022-08-01": 23259,
-  "2022-08-02": 23302,
-  "2022-08-03": 23302,
-  "2022-08-04": 23324,
-  "2022-08-05": 23336,
-  "2022-08-06": 23354,
-  "2022-08-07": 23379,
-  "2022-08-08": 23400,
-  "2022-08-09": 23419,
-  "2022-08-10": 23449,
-  "2022-08-11": 23468,
-  "2022-08-12": 23479,
-  "2022-08-13": 23493,
-  "2022-08-14": 23516,
-  "2022-08-15": 23536,
-  "2022-08-16": 23558,
-  "2022-08-17": 23573,
-  "2022-08-18": 23593,
-  "2022-08-19": 23608,
-  "2022-08-20": 23620,
-  "2022-08-21": 23636,
-  "2022-08-22": 23669,
-  "2022-08-23": 23686,
-  "2022-08-24": 23705,
-  "2022-08-25": 23722,
-  "2022-08-26": 23741,
-  "2022-08-27": 23761,
-  "2022-08-28": 23773,
-  "2022-08-29": 23793,
-  "2022-08-30": 23816,
-  "2022-08-31": 23834,
-  "2022-09-01": 23851,
-  "2022-09-02": 23862,
-  "2022-09-03": 23875,
-  "2022-09-04": 23894,
-  "2022-09-05": 23916,
-  "2022-09-06": 23934,
-  "2022-09-07": 23954,
-  "2022-09-09": 23999,
-  "2022-09-10": 24017,
-  "2022-09-11": 24042,
-  "2022-09-12": 24059,
-  "2022-09-13": 24073,
-  "2022-09-15": 24097,
-  "2022-09-16": 24109,
-  "2022-09-17": 24120,
-  "2022-09-18": 24143,
-  "2022-09-19": 24159,
-  "2022-09-20": 24178,
-  "2022-09-21": 24201,
-  "2022-09-22": 24228,
-  "2022-09-23": 24239,
-  "2022-09-24": 24239,
-  "2022-09-25": 24258,
-  "2022-09-26": 24280,
-  "2022-09-27": 24300,
-  "2022-09-28": 24310,
-  "2022-09-29": 24319,
-  "2022-09-30": 24341,
-  "2022-10-01": 24359,
-  "2022-10-02": 24373,
-  "2022-10-03": 24395,
-  "2022-10-04": 24406,
-  "2022-10-05": 24426,
-  "2022-10-06": 24451,
-  "2022-10-07": 24473,
-  "2022-10-08": 24484,
-  "2022-10-09": 24520,
-  "2022-10-10": 24526,
-  "2022-10-11": 24537,
-  "2022-10-12": 24550,
-  "2022-10-13": 24567,
-  "2022-10-14": 24584,
-  "2022-10-15": 24597,
-  "2022-10-16": 24621,
-  "2022-10-17": 24654,
-  "2022-10-18": 24680,
-  "2022-10-19": 24697,
-  "2022-10-20": 24712,
-  "2022-10-21": 24732,
-  "2022-10-22": 24758,
-  "2022-10-23": 24763,
-  "2022-10-24": 24786,
-  "2022-10-25": 24807,
-  "2022-10-26": 24826,
-  "2022-10-27": 24836,
-  "2022-10-28": 24856,
-  "2022-10-29": 24868,
-  "2022-10-30": 24886,
-  "2022-10-31": 24912,
-  "2022-11-01": 24927,
-  "2022-11-02": 24959,
-  "2022-11-03": 24972,
-  "2022-11-04": 24990,
-  "2022-11-05": 25001,
-  "2022-11-06": 25026,
-  "2022-11-07": 25049,
-  "2022-11-08": 25064,
-  "2022-11-09": 25091,
-  "2022-11-10": 25107,
-  "2022-11-11": 25119,
-  "2022-11-12": 25143,
-  "2022-11-13": 25159,
-  "2022-11-14": 25175,
-  "2022-11-15": 25189,
-  "2022-11-16": 25208,
-  "2022-11-17": 25225,
-  "2022-11-18": 25233,
-  "2022-11-19": 25240,
-  "2022-11-20": 25258,
-  "2022-11-21": 25276,
-  "2022-11-22": 25294,
-  "2022-11-23": 25313,
-  "2022-11-24": 25379,
-  "2022-11-25": 25450,
-  "2022-11-26": 25490,
-  "2022-11-27": 25511,
-  "2022-11-28": 25535,
-  "2022-11-29": 25560,
-  "2022-11-30": 25589,
-  "2022-12-01": 25616,
-  "2022-12-02": 25632,
-  "2022-12-03": 25660,
-  "2022-12-04": 25683,
-  "2022-12-05": 25705,
-  "2022-12-06": 25725,
-  "2022-12-07": 25744,
-  "2022-12-08": 25758,
-  "2022-12-09": 25772,
-  "2022-12-10": 25793,
-  "2022-12-11": 25802,
-  "2022-12-12": 25826,
-  "2022-12-13": 25832,
-  "2022-12-14": 25848,
-  "2022-12-15": 25862,
-  "2022-12-16": 25881,
-  "2022-12-17": 25905,
-  "2022-12-18": 25940,
-  "2022-12-19": 25958,
-  "2022-12-20": 26005,
-  "2022-12-21": 26005,
-  "2022-12-22": 26029,
-  "2022-12-24": 26065,
-  "2022-12-25": 26087,
-  "2022-12-26": 26097,
-  "2022-12-27": 26119,
-  "2022-12-28": 26136,
-  "2022-12-29": 26150,
-  "2022-12-30": 26173,
-  "2022-12-31": 26189,
-  "2023-01-01": 26214,
-  "2023-01-02": 26234,
-  "2023-01-03": 26252,
-  "2023-01-04": 26271,
-  "2023-01-05": 26285,
-  "2023-01-06": 26309,
-  "2023-01-07": 26349,
-  "2023-01-08": 26352,
-  "2023-01-09": 26375,
-  "2023-01-10": 26397,
-  "2023-01-11": 26417,
-  "2023-01-12": 26449,
-  "2023-01-13": 26469,
-  "2023-01-14": 26509,
-  "2023-01-15": 26519,
-  "2023-01-16": 26547,
-  "2023-01-17": 26570,
-  "2023-01-18": 26591,
-  "2023-01-19": 26616,
-  "2023-01-20": 26632,
-  "2023-01-21": 26660,
-  "2023-01-22": 26679,
-  "2023-01-23": 26710,
-  "2023-01-24": 26733,
-  "2023-01-25": 26750,
-  "2023-01-26": 26764,
-  "2023-01-27": 26786,
-  "2023-01-28": 26816,
-  "2023-01-29": 26842,
-  "2023-01-30": 26863,
-  "2023-01-31": 26863,
-  "2023-02-01": 26914,
-  "2023-02-02": 26923,
-  "2023-02-03": 26938,
-  "2023-02-04": 26960,
-  "2023-02-05": 26979,
-  "2023-02-06": 26999,
-  "2023-02-07": 27019,
-  "2023-02-08": 27059,
-  "2023-02-09": 27059,
-  "2023-02-10": 27095,
-  "2023-02-11": 27101,
-  "2023-02-12": 27142,
-  "2023-02-13": 27153,
-  "2023-02-14": 27153,
-  "2023-02-15": 27169,
-  "2023-02-16": 27193,
-  "2023-02-17": 27215,
-  "2023-02-18": 27237,
-  "2023-02-19": 27247,
-  "2023-02-20": 27287,
-  "2023-02-21": 27308,
-  "2023-02-22": 27335,
-  "2023-02-23": 27383,
-  "2023-02-24": 27420,
-  "2023-02-25": 27487,
-  "2023-02-26": 27509,
-  "2023-02-27": 27547,
-  "2023-02-28": 27547,
-  "2023-03-01": 27575,
-  "2023-03-02": 27591,
-  "2023-03-03": 27610,
-  "2023-03-04": 27630,
-  "2023-03-05": 27675,
-  "2023-03-06": 27675,
-  "2023-03-07": 27692,
-  "2023-03-08": 27716,
-  "2023-03-09": 27744,
-  "2023-03-10": 27768,
-  "2023-03-11": 27788,
-  "2023-03-12": 27816,
-  "2023-03-13": 27837,
-  "2023-03-14": 27856,
-  "2023-03-15": 27872,
-  "2023-03-16": 27872,
-  "2023-03-17": 27872,
-  "2023-03-18": 27935,
-  "2023-03-19": 27935,
-  "2023-03-20": 27972,
-  "2023-03-21": 27992,
-  "2023-03-22": 28011,
-  "2023-03-23": 28038,
-  "2023-03-24": 28038,
-  "2023-03-25": 28077,
-  "2023-03-26": 28106,
-  "2023-03-27": 28136,
-  "2023-03-28": 28149,
-  "2023-03-29": 28179,
-  "2023-03-30": 28215,
-  "2023-03-31": 28215,
-  "2023-04-01": 28237,
-  "2023-04-02": 28260,
-  "2023-04-03": 28282,
-  "2023-04-04": 28300,
-  "2023-04-05": 28316,
-  "2023-04-06": 28326,
-  "2023-04-07": 28346,
-  "2023-04-09": 28384,
-  "2023-04-10": 28400,
-  "2023-04-11": 28430,
-  "2023-04-12": 28430,
-  "2023-04-13": 28445,
-  "2023-04-14": 28462,
-  "2023-04-15": 28486,
-  "2023-04-16": 28501,
-  "2023-04-17": 28521,
-  "2023-04-18": 28528,
-  "2023-04-19": 28544,
-  "2023-04-20": 28565,
-  "2023-04-21": 28587,
-  "2023-04-22": 28602,
-  "2023-04-23": 28620,
-  "2023-04-24": 28632,
-  "2023-04-25": 28644,
-  "2023-04-26": 28662,
-  "2023-04-27": 28680,
-  "2023-04-28": 28693,
-  "2023-04-29": 28712,
-  "2023-04-30": 28730,
-  "2023-05-01": 28757,
-  "2023-05-02": 28770,
-  "2023-05-03": 28776,
-  "2023-05-04": 28801,
-  "2023-05-05": 28813,
-  "2023-05-06": 28839,
-  "2023-05-07": 28859,
-  "2023-05-08": 28872,
-  "2023-05-09": 28881,
-  "2023-05-10": 28901,
-  "2023-05-11": 28918,
-  "2023-05-12": 28937,
-  "2023-05-13": 28949,
-  "2023-05-14": 28973,
-  "2023-05-15": 28997,
-  "2023-05-16": 29017,
-  "2023-05-17": 29037,
-  "2023-05-18": 29047,
-  "2023-05-19": 29060,
-  "2023-05-20": 29102,
-  "2023-05-21": 29102,
-  "2023-05-22": 29102,
-  "2023-05-23": 29143,
-  "2023-05-24": 29170,
-  "2023-05-25": 29177,
-  "2023-05-26": 29193,
-  "2023-05-27": 29211,
-  "2023-05-28": 29229,
-  "2023-05-29": 29229,
-  "2023-05-30": 29266,
-  "2023-05-31": 29274,
-  "2023-06-01": 29292,
-  "2023-06-02": 29305,
-  "2023-06-03": 29322,
-  "2023-06-04": 29351,
-  "2023-06-05": 29363,
-  "2023-06-06": 29380,
-  "2023-06-07": 29401,
-  "2023-06-08": 29417,
-  "2023-06-09": 29442,
-  "2023-06-10": 29449,
-  "2023-06-11": 29474,
-  "2023-06-12": 29492,
-  "2023-06-13": 29503,
-  "2023-06-14": 29520,
-  "2023-06-15": 29529,
-  "2023-06-16": 29538,
-  "2023-06-17": 29556,
-  "2023-06-18": 29579,
-  "2023-06-19": 29600,
-  "2023-06-20": 29613,
-  "2023-06-21": 29630,
-  "2023-06-22": 29649,
-  "2023-06-23": 29666,
-  "2023-06-24": 29692,
-  "2023-06-25": 29719,
-  "2023-06-26": 29737,
-  "2023-06-27": 29756,
-  "2023-06-28": 29770,
-  "2023-06-29": 29787,
-  "2023-06-30": 29801,
-  "2023-07-01": 29835,
-  "2023-07-02": 29835,
-  "2023-07-03": 29854,
-  "2023-07-04": 29875,
-  "2023-07-05": 29889,
-  "2023-07-06": 29919,
-  "2023-07-07": 29919,
-  "2023-07-08": 29919,
-  "2023-07-09": 29953,
-  "2023-07-10": 29970,
-  "2023-07-11": 29978,
-  "2023-07-12": 29992,
-  "2023-07-13": 30011,
-  "2023-07-14": 30027,
-  "2023-07-15": 30039,
-  "2023-07-16": 30059,
-  "2023-07-17": 30081,
-  "2023-07-18": 30094,
-  "2023-07-19": 30112,
-  "2023-07-20": 30131,
-  "2023-07-21": 30150,
-  "2023-07-22": 30165,
-  "2023-07-23": 30196,
-  "2023-07-24": 30218,
-  "2023-07-25": 30234,
-  "2023-07-26": 30250,
-  "2023-07-27": 30269,
-  "2023-07-28": 30297,
-  "2023-07-29": 30321,
-  "2023-07-30": 30337,
-  "2023-07-31": 30357,
-  "2023-08-01": 30376,
-  "2023-08-02": 30389,
-  "2023-08-03": 30418,
-  "2023-08-04": 30443,
-  "2023-08-05": 30460,
-  "2023-08-06": 30506,
-  "2023-08-07": 30506,
-  "2023-08-08": 30523,
-  "2023-08-09": 30539,
-  "2023-08-10": 30564,
-  "2023-08-11": 30580,
-  "2023-08-12": 30580,
-  "2023-08-13": 30580,
-  "2023-08-14": 30653,
-  "2023-08-15": 30653,
-  "2023-08-16": 30653,
-  "2023-08-17": 30653,
-  "2023-08-18": 30653,
-  "2023-08-19": 30653,
-  "2023-08-20": 30768,
-  "2023-08-21": 30768,
-  "2023-08-22": 30793,
-  "2023-08-23": 30793,
-  "2023-08-24": 30793,
-  "2023-08-25": 30793,
-  "2023-08-26": 30870,
-  "2023-08-27": 30870,
-  "2023-08-28": 30924,
-  "2023-08-29": 30924,
-  "2023-08-30": 30924,
-  "2023-08-31": 30969,
-  "2023-09-01": 30993,
-  "2023-09-02": 30993,
-  "2023-09-03": 30993,
-  "2023-09-04": 30993,
-  "2023-09-05": 30993,
-  "2023-09-06": 30993,
-  "2023-09-07": 30993,
-  "2023-09-08": 30993,
-  "2023-09-09": 30993,
-  "2023-09-10": 30993,
-  "2023-09-11": 30993,
-  "2023-09-12": 30993,
-  "2023-09-13": 30993,
-  "2023-09-14": 30993,
-  "2023-09-15": 30993,
-  "2023-09-16": 31228,
-  "2023-09-17": 31228,
-  "2023-09-18": 31228,
-  "2023-09-19": 31274,
-  "2023-09-20": 31274,
-  "2023-09-21": 31274,
-  "2023-09-22": 31317,
-  "2023-09-23": 31317,
-  "2023-09-24": 31317,
-  "2023-09-25": 31317,
-  "2023-09-26": 31386,
-  "2023-09-27": 31386,
-  "2023-09-28": 31386,
-  "2023-09-29": 31386,
-  "2023-09-30": 31386,
-  "2023-10-01": 31386,
-  "2023-10-02": 31386,
-  "2023-10-03": 31386,
-  "2023-10-04": 31386,
-  "2023-10-05": 31386,
-  "2023-10-06": 31386,
-  "2023-10-07": 31386,
-  "2023-10-08": 31386,
-  "2023-10-09": 31386,
-  "2023-10-10": 31386,
-  "2023-10-11": 31630,
-  "2023-10-12": 31630,
-  "2023-10-13": 31630,
-  "2023-10-14": 31630,
-  "2023-10-15": 31630,
-  "2023-10-16": 31630,
-  "2023-10-17": 31630,
-  "2023-10-18": 31630,
-  "2023-10-19": 31630,
-  "2023-10-20": 31630,
-  "2023-10-21": 31630,
-  "2023-10-22": 31630,
-  "2023-10-23": 31630,
-  "2023-10-24": 31630,
-  "2023-10-25": 31630,
-  "2023-10-26": 31630,
-  "2023-10-27": 31630,
-  "2023-10-28": 31630,
-  "2023-10-29": 31630,
-  "2023-10-30": 31630,
-  "2023-10-31": 31630,
-  "2023-11-01": 31630,
-  "2023-11-02": 31630,
-  "2023-11-03": 31630,
-  "2023-11-04": 31630,
-  "2023-11-05": 31630,
-  "2023-11-06": 31630,
-  "2023-11-07": 31630,
-  "2023-11-08": 31630,
-  "2023-11-09": 31630,
-  "2023-11-10": 31630,
-  "2023-11-11": 32050,
-  "2023-11-12": 32050,
-  "2023-11-13": 32050,
-  "2023-11-14": 32050,
-  "2023-11-15": 32050,
-  "2023-11-16": 32050,
-  "2023-11-17": 32050,
-  "2023-11-18": 32050,
-  "2023-11-19": 32050,
-  "2023-11-20": 32050,
-  "2023-11-21": 32050,
-  "2023-11-22": 32050,
-  "2023-11-23": 32050,
-  "2023-11-24": 32050,
-  "2023-11-25": 32050,
-  "2023-11-26": 32050,
-  "2023-11-27": 32050,
-  "2023-11-28": 32050,
-  "2023-11-29": 32050,
-  "2023-11-30": 32050,
-  "2023-12-01": 32050,
-  "2023-12-02": 32050,
-  "2023-12-03": 32050,
-  "2023-12-04": 32050,
-  "2023-12-05": 32050,
-  "2023-12-06": 32050,
-  "2023-12-07": 32050,
-  "2023-12-08": 32050,
-  "2023-12-09": 32050,
-  "2023-12-10": 32050,
-  "2023-12-11": 32050,
-  "2023-12-12": 32050,
-  "2023-12-13": 32050,
-  "2023-12-14": 32459,
-  "2023-12-15": 32472,
-  "2023-12-16": 32486,
-  "2023-12-17": 32500,
-  "2023-12-18": 32516,
-  "2023-12-19": 32525,
-  "2023-12-20": 32532,
-  "2023-12-21": 32551,
-  "2023-12-22": 32566,
-  "2023-12-23": 32569,
-  "2023-12-24": 32582,
-  "2023-12-25": 32601,
-  "2023-12-26": 32610,
-  "2023-12-27": 32622,
-  "2023-12-30": 32644,
-  "2023-12-31": 32660,
-  "2024-01-01": 32672,
-  "2024-01-02": 32679,
-  "2024-01-03": 32688
+  "2024-01-17": 32854,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
+  "name": "This Is Teddy Pendergrass",
+  "tracks": [
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326800,
+      "name": "2 A.M.",
+      "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 261866,
+      "name": "And If I Had",
+      "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+    },
+    {
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449426,
+      "name": "Be for Real (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
+    },
+    {
+      "album": {
+        "name": "Believe In Love",
+        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "Believe In Love - Phat Phili Mix",
+      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327253,
+      "name": "Can We Be Lovers",
+      "url": "https://open.spotify.com/track/2OEvLFIpRNKOrDqEmu5xWL"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303720,
+      "name": "Can't We Try",
+      "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
+    },
+    {
+      "album": {
+        "name": "Christmas And You",
+        "url": "https://open.spotify.com/album/3ZPGJsHJEO8zafSvEJ7qhr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 249466,
+      "name": "Christmas And You",
+      "url": "https://open.spotify.com/track/2jwl7ZTUXkXqoKOvaspJgs"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272773,
+      "name": "Cold, Cold World",
+      "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347373,
+      "name": "Come Go with Me",
+      "url": "https://open.spotify.com/track/37rG6I6cbq7EdnOMyBxJjl"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "Concentrate On Me (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 278760,
+      "name": "Do Me",
+      "url": "https://open.spotify.com/track/0ogeo2q1bDMniTGp1auZIn"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363973,
+      "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292560,
+      "name": "Easy, Easy, Got To Take It Easy",
+      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332866,
+      "name": "Feel the Fire",
+      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+    },
+    {
+      "album": {
+        "name": "Get Up, Get Down, Get Funky, Get Loose",
+        "url": "https://open.spotify.com/album/3uFzBDPPhfjC8rpB38XmlY"
+      },
+      "artists": [
+        {
+          "name": "Don Arcadio",
+          "url": "https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 432080,
+      "name": "Get Up, Get Down, Get Funky, Get Loose",
+      "url": "https://open.spotify.com/track/45j8dDUMU4SLVL8xMYY8XE"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323546,
+      "name": "Get Up, Get Down, Get Funky, Get Loose",
+      "url": "https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 316240,
+      "name": "Good to You",
+      "url": "https://open.spotify.com/track/5xAj9r0FpQoTbSj9bg9R6G"
+    },
+    {
+      "album": {
+        "name": "This Christmas (I'd Rather Have Love)",
+        "url": "https://open.spotify.com/album/5ufLI1OiVQMhhNFmxF1A5v"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 338733,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/1WObBbayq5HgMVbzB18tCa"
+    },
+    {
+      "album": {
+        "name": "Happy Kwanzaa",
+        "url": "https://open.spotify.com/album/6oLdUzgbzV9OYFWWIgueUx"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 312600,
+      "name": "Happy Kwanzaa",
+      "url": "https://open.spotify.com/track/3G8MNUNRQSbPcihO71aekf"
+    },
+    {
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 250760,
+      "name": "Heaven Only Knows",
+      "url": "https://open.spotify.com/track/7324pZTc3ZcYNKBSGHKxOT"
+    },
+    {
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360733,
+      "name": "Hold Me (with Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
+    },
+    {
+      "album": {
+        "name": "Hold Me / Love [Digital 45]",
+        "url": "https://open.spotify.com/album/4D9avWhg4pxSzQSSVSClnQ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321453,
+      "name": "Hold Me - 45 Version",
+      "url": "https://open.spotify.com/track/5YJjCGmO9QfEvB7Ap1oHpp"
+    },
+    {
+      "album": {
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279013,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+    },
+    {
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
+    },
+    {
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518000,
+      "name": "I Miss You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
+    },
+    {
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 285480,
+      "name": "I'll Never See Heaven Again",
+      "url": "https://open.spotify.com/track/6Tc8ylJyphdbGoZiW4OxQK"
+    },
+    {
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-27",
+      "duration_ms": 303106,
+      "name": "If You Know Like I Know",
+      "url": "https://open.spotify.com/track/1tvX5f5hOIEQRbw4g08mt1"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "BILL SCHNEE",
+          "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "In My Time",
+      "url": "https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360400,
+      "name": "It Don't Hurt Now",
+      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
+    },
+    {
+      "album": {
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244053,
+      "name": "It Should've Been You",
+      "url": "https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 326853,
+      "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
+    },
+    {
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357333,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
+    },
+    {
+      "album": {
+        "name": "Live! Coast To Coast",
+        "url": "https://open.spotify.com/album/6FQv3uPAJEmlbIkqYC0fSD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 331906,
+      "name": "It's You I Love",
+      "url": "https://open.spotify.com/track/3TqsKtMxNs5gEAp0vhbNxI"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
+    },
+    {
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/2JT7bugcBLWQ4wOIjVoKdy"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 301426,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
+    },
+    {
+      "album": {
+        "name": "Mixmag Presents Teddy Pendergrass: The Remixes - EP",
+        "url": "https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 527986,
+      "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377466,
+      "name": "Love Is the Power",
+      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 303826,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2OH7gEuDmtdlUce6y0u7EP"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 304840,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2hQGpKLIdSx4SvpNtBwqI7"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "BILL SCHNEE",
+          "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200333,
+      "name": "So Sad the Song",
+      "url": "https://open.spotify.com/track/3kWjPq2O2bK8RzfoYutWPv"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 293826,
+      "name": "Somewhere Down the Line (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4ghUVSwZNOBmdaU587E60G"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 323133,
+      "name": "Take Me In Your Arms Tonight",
+      "url": "https://open.spotify.com/track/58DUJgWVp4b5tmFYHypnJQ"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352666,
+      "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267173,
+      "name": "The Whole Town's Laughing at Me",
+      "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "This Is the Last Time",
+      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+    },
+    {
+      "album": {
+        "name": "This One's For You",
+        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 378266,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298480,
+      "name": "Through the Falling Rain (Love Story)",
+      "url": "https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308333,
+      "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279426,
+      "name": "To Be True (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
+    },
+    {
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354626,
+      "name": "Turn off the Lights",
+      "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
+    },
+    {
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283720,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
+    },
+    {
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-07",
+      "duration_ms": 277306,
+      "name": "Two Hearts - Single Version",
+      "url": "https://open.spotify.com/track/7ikuX6GAuWaT5SAZytkBRi"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
+    },
+    {
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453200,
+      "name": "Yesterday I Had The Blues (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/43BQ041w9ryoC6TTVHTc7F"
+    },
+    {
+      "album": {
+        "name": "The Get Down: Original Soundtrack From The Netflix Original Series (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Grandmaster Flash",
+          "url": "https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "You Can't Hide / You Can't Hide From Yourself (Touch of Class GMF Remix)",
+      "url": "https://open.spotify.com/track/1mptorrisuiE0miwVYqW06"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
+    },
+    {
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321093,
+      "name": "You're My Latest, My Greatest Inspiration",
+      "url": "https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cn8UU"
 }

@@ -4,7 +4,7 @@
 
 > Música refrescante, para vencer el calor.
 
-52 songs - 3 hr 3 min
+53 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 | 2023-11-24 |  |
 | [Me Ilusione](https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:00 | 2023-11-24 |  |
 | [Me Liberé](https://open.spotify.com/track/32qhajow0UHHPmNudtmfKK) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [Me Liberé](https://open.spotify.com/album/251i0oXvNIWZW05XMycMZQ) | 3:37 | 2023-11-24 |  |
-| [Mi Dulce Niña \- Remasterizado 2017](https://open.spotify.com/track/5zxQLnG4DhQT1lUPQJSCC4) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:17 | 2023-11-24 |  |
+| [Mi Dulce Niña \- Remasterizado 2017](https://open.spotify.com/track/5zxQLnG4DhQT1lUPQJSCC4) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:17 | 2023-11-24 | 2024-01-17 |
 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 | 2023-11-24 |  |
 | [Máquina Del Tiempo](https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Invencible \(El Patrón\)](https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS) | 3:56 | 2023-11-24 |  |
 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2023-11-24 |  |
@@ -48,10 +48,11 @@
 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 | 2023-11-24 |  |
 | [Sera que nunca le sucedio](https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:02 | 2023-11-24 |  |
 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 | 2023-11-24 |  |
+| [Solito](https://open.spotify.com/track/3GyVh0ptPs7ttfbpex6Bmn) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/4bkPnI5gKmETlDyZe5BKEH) | 3:56 | 2024-01-12 |  |
 | [Solito](https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v) | [Salamandra](https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9) | [Alma en Peña](https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X) | 3:56 | 2023-11-24 | 2023-12-20 |
 | [Soñador Eterno](https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx) | [¡Anotate!](https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb) | 3:11 | 2023-11-24 |  |
-| [Tereré](https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [LaKittyCs](https://open.spotify.com/artist/2TVl7XNWbgsLWqJP5eQUFp) | [Tereré](https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY) | 2:39 | 2023-12-22 |  |
-| [Todo Biento](https://open.spotify.com/track/33noWMO0SPfWArA58YHLtr) | [Pipa Para Tabaco](https://open.spotify.com/artist/6Y1u9VzC9SOmr9pbUACwjg) | [Vas A Morir Con Eso](https://open.spotify.com/album/1VNzUYcY2Hi5YcjSu352pR) | 3:03 | 2023-11-24 | 2023-12-25 |
+| [Tereré](https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [LaKittyCs](https://open.spotify.com/artist/2TVl7XNWbgsLWqJP5eQUFp) | [Tereré](https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY) | 2:39 | 2023-12-22 | 2024-01-05 |
+| [Todo Biento](https://open.spotify.com/track/33noWMO0SPfWArA58YHLtr) | [Pipa Para Tabaco](https://open.spotify.com/artist/6Y1u9VzC9SOmr9pbUACwjg) | [Vas A Morir Con Eso](https://open.spotify.com/album/1VNzUYcY2Hi5YcjSu352pR) | 3:03 | 2023-11-24 |  |
 | [Todo va a estar mejor](https://open.spotify.com/track/7dho4N5H5etH68vQkROikt) | [Bohemia Urbana](https://open.spotify.com/artist/3291CCSyTY0umdaKwGbjdV) | [Macumba y Payé](https://open.spotify.com/album/5mGXFIhky9btBggWADmnPg) | 2:39 | 2023-11-24 |  |
 | [Tomame O Dejame](https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK) | [Tropical Caribe](https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f) | [A Bailar La Cumbia \- 20 Exitos](https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf) | 3:20 | 2023-11-24 |  |
 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 | 2023-11-24 |  |

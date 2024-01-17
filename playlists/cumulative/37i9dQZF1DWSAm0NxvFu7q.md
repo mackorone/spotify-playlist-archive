@@ -4,7 +4,7 @@
 
 > The rock & alternative tracks that took off in 2022\. Cover: Eddie Munson \(Stranger Things\) \#SpotifyWrapped
 
-46 songs - 2 hr 46 min
+47 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [She Keeps Me Up](https://open.spotify.com/track/60JMC8jYnJjSxBaUR8gTqc) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Fishing Music](https://open.spotify.com/album/3zGgy8bSsWxUVkJPyeLlCI) | 3:57 | 2022-11-30 |  |
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2022-11-30 | 2023-12-16 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-11-30 |  |
-| [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-11-30 |  |
+| [Sneakers](https://open.spotify.com/track/2tkoSHC3oBy5MqXA20GCQK) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:04 | 2022-11-30 |  |
+| [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-11-30 | 2024-01-06 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-11-30 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-11-30 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2022-11-30 |  |

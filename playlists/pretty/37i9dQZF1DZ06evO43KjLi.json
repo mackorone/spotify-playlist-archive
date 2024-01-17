@@ -1,15 +1,15 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 19980,
+  "num_followers": 20055,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDA0NGY5MzllNTM5NTEyYmRlMzcxNmU4MDMxZTU3OGY2Yw==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAzNjdiNmU5NDkyYTc1NGUxMGIyYjExOWYyZDkzN2IwZg==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Tirando la H",
         "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Hay Niveles",
         "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Bajo Efecto Del Alcohol",
         "url": "https://open.spotify.com/album/6rtYoViAmt2WvS55wt1nop"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1oxTXnbKs7l9s73H2fJXF6"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Tres Rayas",
-        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 184168,
-      "name": "Tres Rayas",
-      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "Maryjane y Blancanieves",
-      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Buen Ejemplo",
         "url": "https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW"
@@ -145,7 +113,39 @@
       "url": "https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "Maryjane y Blancanieves",
+      "url": "https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Tres Rayas",
+        "url": "https://open.spotify.com/album/6BVZbBwRnPASA4JmOtZQHV"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 184168,
+      "name": "Tres Rayas",
+      "url": "https://open.spotify.com/track/7HvBcWRqhjRco6if0FfRb7"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cruisin' with Junior H",
         "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Noche de Desmadre",
         "url": "https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu"
@@ -213,23 +213,7 @@
       "url": "https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 231378,
-      "name": "Que Tiene de Malo",
-      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "En Mis Dedos un Gallito",
         "url": "https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Corridos Tumbados Vol. 2",
         "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Morro Loco",
         "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -377,39 +377,7 @@
       "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Tragos y Cigarros",
-        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Aqui Se Acaba Todo",
-      "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
@@ -425,7 +393,39 @@
       "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Tragos y Cigarros",
+        "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Aqui Se Acaba Todo",
+      "url": "https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Mi Reyna",
+      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Traguitos De Mezcal",
         "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
@@ -477,23 +493,7 @@
       "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Mi Reyna",
-      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
@@ -509,7 +509,23 @@
       "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Te Busque",
+      "url": "https://open.spotify.com/track/4RNBrR5tmuZKSAdNo9w5ht"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
@@ -520,12 +536,12 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 170747,
-      "name": "Es Prohibido",
-      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
+      "duration_ms": 194793,
+      "name": "Sigue Vivo",
+      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Me Ven Manejando",
         "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
@@ -545,23 +561,7 @@
       "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Te Busque",
-      "url": "https://open.spotify.com/track/4RNBrR5tmuZKSAdNo9w5ht"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Gordo Pesado",
         "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
@@ -577,23 +577,7 @@
       "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 169929,
-      "name": "Damas y Placeres",
-      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Hoy Estamos Aqu\u00ed",
         "url": "https://open.spotify.com/album/3Sfv1dYeT15BixCWHUSPgD"
@@ -613,7 +597,39 @@
       "url": "https://open.spotify.com/track/2asBtHvhInFczfb4mMv3Iu"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 170747,
+      "name": "Es Prohibido",
+      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
+    },
+    {
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
@@ -629,23 +645,7 @@
       "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
-      "added_at": "2024-01-02 12:15:48",
-      "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 194793,
-      "name": "Sigue Vivo",
-      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:48",
+      "added_at": "2024-01-16 12:10:34",
       "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"

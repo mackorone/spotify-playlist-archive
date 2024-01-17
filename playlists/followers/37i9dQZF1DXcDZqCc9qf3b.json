@@ -1,621 +1,2531 @@
 {
-  "2022-04-19": 865,
-  "2022-04-20": 873,
-  "2022-04-21": 881,
-  "2022-04-22": 884,
-  "2022-04-23": 898,
-  "2022-04-24": 909,
-  "2022-04-25": 916,
-  "2022-04-26": 921,
-  "2022-04-27": 925,
-  "2022-04-28": 932,
-  "2022-04-29": 949,
-  "2022-04-30": 963,
-  "2022-05-01": 973,
-  "2022-05-02": 973,
-  "2022-05-03": 973,
-  "2022-05-04": 983,
-  "2022-05-05": 987,
-  "2022-05-06": 994,
-  "2022-05-07": 1000,
-  "2022-05-08": 1009,
-  "2022-05-09": 1011,
-  "2022-05-10": 1016,
-  "2022-05-11": 1019,
-  "2022-05-12": 1027,
-  "2022-05-13": 1038,
-  "2022-05-14": 1048,
-  "2022-05-15": 1055,
-  "2022-05-16": 1069,
-  "2022-05-17": 1076,
-  "2022-05-18": 1089,
-  "2022-05-19": 1091,
-  "2022-05-20": 1101,
-  "2022-05-21": 1107,
-  "2022-05-22": 1107,
-  "2022-05-23": 1112,
-  "2022-05-24": 1118,
-  "2022-05-25": 1124,
-  "2022-05-26": 1129,
-  "2022-05-27": 1133,
-  "2022-05-28": 1147,
-  "2022-05-29": 1153,
-  "2022-05-30": 1156,
-  "2022-05-31": 1164,
-  "2022-06-01": 1176,
-  "2022-06-02": 1180,
-  "2022-06-03": 1188,
-  "2022-06-04": 1194,
-  "2022-06-05": 1199,
-  "2022-06-06": 1208,
-  "2022-06-07": 1213,
-  "2022-06-08": 1222,
-  "2022-06-09": 1226,
-  "2022-06-10": 1231,
-  "2022-06-11": 1239,
-  "2022-06-12": 1248,
-  "2022-06-13": 1256,
-  "2022-06-14": 1262,
-  "2022-06-15": 1268,
-  "2022-06-16": 1274,
-  "2022-06-17": 1281,
-  "2022-06-18": 1290,
-  "2022-06-19": 1305,
-  "2022-06-20": 1305,
-  "2022-06-21": 1309,
-  "2022-06-22": 1324,
-  "2022-06-23": 1324,
-  "2022-06-24": 1332,
-  "2022-06-25": 1341,
-  "2022-06-26": 1345,
-  "2022-06-27": 1351,
-  "2022-06-28": 1354,
-  "2022-06-29": 1360,
-  "2022-06-30": 1363,
-  "2022-07-01": 1373,
-  "2022-07-02": 1380,
-  "2022-07-03": 1386,
-  "2022-07-04": 1394,
-  "2022-07-05": 1400,
-  "2022-07-06": 1410,
-  "2022-07-07": 1412,
-  "2022-07-08": 1424,
-  "2022-07-09": 1433,
-  "2022-07-10": 1438,
-  "2022-07-11": 1444,
-  "2022-07-12": 1452,
-  "2022-07-13": 1472,
-  "2022-07-14": 1496,
-  "2022-07-15": 1509,
-  "2022-07-16": 1526,
-  "2022-07-17": 1541,
-  "2022-07-18": 1562,
-  "2022-07-19": 1574,
-  "2022-07-20": 1591,
-  "2022-07-21": 1611,
-  "2022-07-22": 1628,
-  "2022-07-23": 1651,
-  "2022-07-24": 1673,
-  "2022-07-25": 1693,
-  "2022-07-26": 1708,
-  "2022-07-27": 1732,
-  "2022-07-28": 1752,
-  "2022-07-29": 1767,
-  "2022-07-30": 1795,
-  "2022-07-31": 1795,
-  "2022-08-01": 1803,
-  "2022-08-02": 1841,
-  "2022-08-03": 1841,
-  "2022-08-04": 1850,
-  "2022-08-05": 1866,
-  "2022-08-06": 1887,
-  "2022-08-07": 1913,
-  "2022-08-08": 1927,
-  "2022-08-09": 1954,
-  "2022-08-10": 1969,
-  "2022-08-11": 1986,
-  "2022-08-12": 2002,
-  "2022-08-13": 2020,
-  "2022-08-14": 2034,
-  "2022-08-15": 2049,
-  "2022-08-16": 2065,
-  "2022-08-17": 2080,
-  "2022-08-18": 2098,
-  "2022-08-19": 2123,
-  "2022-08-20": 2141,
-  "2022-08-21": 2155,
-  "2022-08-22": 2174,
-  "2022-08-23": 2190,
-  "2022-08-24": 2217,
-  "2022-08-25": 2240,
-  "2022-08-26": 2262,
-  "2022-08-27": 2278,
-  "2022-08-28": 2298,
-  "2022-08-29": 2327,
-  "2022-08-30": 2344,
-  "2022-08-31": 2356,
-  "2022-09-01": 2371,
-  "2022-09-02": 2388,
-  "2022-09-03": 2399,
-  "2022-09-04": 2431,
-  "2022-09-05": 2487,
-  "2022-09-06": 2527,
-  "2022-09-07": 2568,
-  "2022-09-09": 2663,
-  "2022-09-10": 2723,
-  "2022-09-11": 2794,
-  "2022-09-12": 2855,
-  "2022-09-13": 2890,
-  "2022-09-15": 2978,
-  "2022-09-16": 3018,
-  "2022-09-17": 3073,
-  "2022-09-18": 3127,
-  "2022-09-19": 3187,
-  "2022-09-20": 3214,
-  "2022-09-21": 3219,
-  "2022-09-22": 3234,
-  "2022-09-23": 3251,
-  "2022-09-24": 3269,
-  "2022-09-25": 3277,
-  "2022-09-26": 3287,
-  "2022-09-27": 3301,
-  "2022-09-28": 3310,
-  "2022-09-29": 3327,
-  "2022-09-30": 3341,
-  "2022-10-01": 3357,
-  "2022-10-02": 3373,
-  "2022-10-03": 3386,
-  "2022-10-04": 3401,
-  "2022-10-05": 3412,
-  "2022-10-06": 3423,
-  "2022-10-07": 3430,
-  "2022-10-08": 3453,
-  "2022-10-09": 3475,
-  "2022-10-10": 3475,
-  "2022-10-11": 3481,
-  "2022-10-12": 3491,
-  "2022-10-13": 3506,
-  "2022-10-14": 3514,
-  "2022-10-15": 3520,
-  "2022-10-16": 3537,
-  "2022-10-17": 3558,
-  "2022-10-18": 3566,
-  "2022-10-19": 3579,
-  "2022-10-20": 3587,
-  "2022-10-21": 3600,
-  "2022-10-22": 3610,
-  "2022-10-23": 3623,
-  "2022-10-24": 3637,
-  "2022-10-25": 3645,
-  "2022-10-26": 3651,
-  "2022-10-27": 3654,
-  "2022-10-28": 3658,
-  "2022-10-29": 3669,
-  "2022-10-30": 3691,
-  "2022-10-31": 3710,
-  "2022-11-01": 3720,
-  "2022-11-02": 3741,
-  "2022-11-03": 3766,
-  "2022-11-04": 3782,
-  "2022-11-05": 3811,
-  "2022-11-06": 3843,
-  "2022-11-07": 3884,
-  "2022-11-08": 3902,
-  "2022-11-09": 3922,
-  "2022-11-10": 3941,
-  "2022-11-11": 3960,
-  "2022-11-12": 3995,
-  "2022-11-13": 4017,
-  "2022-11-14": 4042,
-  "2022-11-15": 4062,
-  "2022-11-16": 4086,
-  "2022-11-17": 4107,
-  "2022-11-18": 4115,
-  "2022-11-19": 4118,
-  "2022-11-20": 4140,
-  "2022-11-21": 4161,
-  "2022-11-22": 4190,
-  "2022-11-23": 4218,
-  "2022-11-24": 4259,
-  "2022-11-25": 4297,
-  "2022-11-26": 4320,
-  "2022-11-27": 4343,
-  "2022-11-28": 4363,
-  "2022-11-29": 4396,
-  "2022-11-30": 4417,
-  "2022-12-01": 4432,
-  "2022-12-02": 4437,
-  "2022-12-03": 4463,
-  "2022-12-04": 4491,
-  "2022-12-05": 4503,
-  "2022-12-06": 4513,
-  "2022-12-07": 4534,
-  "2022-12-08": 4554,
-  "2022-12-09": 4588,
-  "2022-12-10": 4619,
-  "2022-12-11": 4655,
-  "2022-12-12": 4690,
-  "2022-12-13": 4717,
-  "2022-12-14": 4738,
-  "2022-12-15": 4771,
-  "2022-12-16": 4793,
-  "2022-12-17": 4823,
-  "2022-12-18": 4865,
-  "2022-12-19": 4891,
-  "2022-12-20": 4964,
-  "2022-12-21": 4964,
-  "2022-12-22": 4984,
-  "2022-12-24": 5050,
-  "2022-12-25": 5075,
-  "2022-12-26": 5097,
-  "2022-12-27": 5127,
-  "2022-12-28": 5145,
-  "2022-12-29": 5158,
-  "2022-12-30": 5178,
-  "2022-12-31": 5206,
-  "2023-01-01": 5233,
-  "2023-01-02": 5264,
-  "2023-01-03": 5291,
-  "2023-01-04": 5311,
-  "2023-01-05": 5338,
-  "2023-01-06": 5375,
-  "2023-01-07": 5412,
-  "2023-01-08": 5422,
-  "2023-01-09": 5463,
-  "2023-01-10": 5498,
-  "2023-01-11": 5527,
-  "2023-01-12": 5553,
-  "2023-01-13": 5583,
-  "2023-01-14": 5634,
-  "2023-01-15": 5638,
-  "2023-01-16": 5660,
-  "2023-01-17": 5675,
-  "2023-01-18": 5699,
-  "2023-01-19": 5723,
-  "2023-01-20": 5742,
-  "2023-01-21": 5770,
-  "2023-01-22": 5786,
-  "2023-01-23": 5807,
-  "2023-01-24": 5832,
-  "2023-01-25": 5847,
-  "2023-01-26": 5867,
-  "2023-01-27": 5878,
-  "2023-01-28": 5901,
-  "2023-01-29": 5915,
-  "2023-01-30": 5940,
-  "2023-01-31": 5940,
-  "2023-02-01": 5963,
-  "2023-02-02": 5975,
-  "2023-02-03": 5996,
-  "2023-02-04": 6009,
-  "2023-02-05": 6029,
-  "2023-02-06": 6047,
-  "2023-02-07": 6056,
-  "2023-02-08": 6095,
-  "2023-02-09": 6095,
-  "2023-02-10": 6106,
-  "2023-02-11": 6129,
-  "2023-02-12": 6332,
-  "2023-02-13": 6468,
-  "2023-02-14": 6468,
-  "2023-02-15": 6594,
-  "2023-02-16": 6720,
-  "2023-02-17": 6875,
-  "2023-02-18": 7155,
-  "2023-02-19": 7187,
-  "2023-02-20": 7299,
-  "2023-02-21": 7443,
-  "2023-02-22": 7548,
-  "2023-02-23": 7664,
-  "2023-02-24": 7791,
-  "2023-02-25": 7928,
-  "2023-02-26": 8027,
-  "2023-02-27": 8288,
-  "2023-02-28": 8288,
-  "2023-03-01": 8401,
-  "2023-03-02": 8521,
-  "2023-03-03": 8653,
-  "2023-03-04": 8787,
-  "2023-03-05": 9091,
-  "2023-03-06": 9091,
-  "2023-03-07": 9191,
-  "2023-03-08": 9309,
-  "2023-03-09": 9413,
-  "2023-03-10": 9538,
-  "2023-03-11": 9631,
-  "2023-03-12": 9730,
-  "2023-03-13": 9817,
-  "2023-03-14": 9897,
-  "2023-03-15": 9933,
-  "2023-03-16": 10026,
-  "2023-03-17": 10026,
-  "2023-03-18": 10174,
-  "2023-03-19": 10291,
-  "2023-03-20": 10388,
-  "2023-03-21": 10473,
-  "2023-03-22": 10567,
-  "2023-03-23": 10651,
-  "2023-03-24": 10651,
-  "2023-03-25": 10825,
-  "2023-03-26": 10952,
-  "2023-03-27": 11068,
-  "2023-03-28": 11147,
-  "2023-03-29": 11238,
-  "2023-03-30": 11389,
-  "2023-03-31": 11389,
-  "2023-04-01": 11477,
-  "2023-04-02": 11604,
-  "2023-04-03": 11702,
-  "2023-04-04": 11796,
-  "2023-04-05": 11886,
-  "2023-04-06": 11973,
-  "2023-04-07": 12069,
-  "2023-04-09": 12265,
-  "2023-04-10": 12352,
-  "2023-04-11": 12537,
-  "2023-04-12": 12537,
-  "2023-04-13": 12624,
-  "2023-04-14": 12711,
-  "2023-04-15": 12822,
-  "2023-04-16": 12932,
-  "2023-04-17": 13020,
-  "2023-04-18": 13114,
-  "2023-04-19": 13194,
-  "2023-04-20": 13264,
-  "2023-04-21": 13347,
-  "2023-04-22": 13427,
-  "2023-04-23": 13544,
-  "2023-04-24": 13629,
-  "2023-04-25": 13703,
-  "2023-04-26": 13785,
-  "2023-04-27": 13860,
-  "2023-04-28": 13937,
-  "2023-04-29": 14038,
-  "2023-04-30": 14142,
-  "2023-05-01": 14227,
-  "2023-05-02": 14309,
-  "2023-05-03": 14373,
-  "2023-05-04": 14422,
-  "2023-05-05": 14505,
-  "2023-05-06": 14607,
-  "2023-05-07": 14717,
-  "2023-05-08": 14840,
-  "2023-05-09": 14931,
-  "2023-05-10": 15033,
-  "2023-05-11": 15146,
-  "2023-05-12": 15255,
-  "2023-05-13": 15359,
-  "2023-05-14": 15487,
-  "2023-05-15": 15598,
-  "2023-05-16": 15695,
-  "2023-05-17": 15801,
-  "2023-05-18": 15897,
-  "2023-05-19": 16002,
-  "2023-05-20": 16212,
-  "2023-05-21": 16212,
-  "2023-05-22": 16212,
-  "2023-05-23": 16426,
-  "2023-05-24": 16584,
-  "2023-05-25": 16616,
-  "2023-05-26": 16706,
-  "2023-05-27": 16817,
-  "2023-05-28": 16925,
-  "2023-05-29": 16925,
-  "2023-05-30": 17136,
-  "2023-05-31": 17229,
-  "2023-06-01": 17312,
-  "2023-06-02": 17393,
-  "2023-06-03": 17499,
-  "2023-06-04": 17609,
-  "2023-06-05": 17683,
-  "2023-06-06": 17771,
-  "2023-06-07": 17853,
-  "2023-06-08": 17933,
-  "2023-06-09": 18034,
-  "2023-06-10": 18111,
-  "2023-06-11": 18197,
-  "2023-06-12": 18294,
-  "2023-06-13": 18365,
-  "2023-06-14": 18452,
-  "2023-06-15": 18532,
-  "2023-06-16": 18600,
-  "2023-06-17": 18702,
-  "2023-06-18": 18809,
-  "2023-06-19": 18916,
-  "2023-06-20": 18992,
-  "2023-06-21": 19078,
-  "2023-06-22": 19160,
-  "2023-06-23": 19237,
-  "2023-06-24": 19337,
-  "2023-06-25": 19435,
-  "2023-06-26": 19526,
-  "2023-06-27": 19604,
-  "2023-06-28": 19669,
-  "2023-06-29": 19764,
-  "2023-06-30": 19841,
-  "2023-07-01": 20036,
-  "2023-07-02": 20036,
-  "2023-07-03": 20099,
-  "2023-07-04": 20160,
-  "2023-07-05": 20253,
-  "2023-07-06": 20420,
-  "2023-07-07": 20420,
-  "2023-07-08": 20490,
-  "2023-07-09": 20581,
-  "2023-07-10": 20651,
-  "2023-07-11": 20723,
-  "2023-07-12": 20823,
-  "2023-07-13": 20905,
-  "2023-07-14": 20989,
-  "2023-07-15": 21063,
-  "2023-07-16": 21160,
-  "2023-07-17": 21236,
-  "2023-07-18": 21320,
-  "2023-07-19": 21409,
-  "2023-07-20": 21478,
-  "2023-07-21": 21554,
-  "2023-07-22": 21626,
-  "2023-07-23": 21715,
-  "2023-07-24": 21804,
-  "2023-07-25": 21886,
-  "2023-07-26": 21949,
-  "2023-07-27": 22016,
-  "2023-07-28": 22082,
-  "2023-07-29": 22428,
-  "2023-07-30": 22780,
-  "2023-07-31": 23076,
-  "2023-08-01": 23343,
-  "2023-08-02": 23578,
-  "2023-08-03": 23796,
-  "2023-08-04": 23999,
-  "2023-08-05": 24268,
-  "2023-08-06": 24772,
-  "2023-08-07": 24772,
-  "2023-08-08": 25019,
-  "2023-08-09": 25212,
-  "2023-08-10": 25429,
-  "2023-08-11": 25659,
-  "2023-08-12": 25883,
-  "2023-08-13": 26101,
-  "2023-08-14": 26311,
-  "2023-08-15": 26712,
-  "2023-08-16": 26712,
-  "2023-08-17": 26901,
-  "2023-08-18": 27004,
-  "2023-08-19": 27087,
-  "2023-08-20": 27181,
-  "2023-08-21": 27293,
-  "2023-08-22": 27369,
-  "2023-08-23": 27432,
-  "2023-08-24": 27514,
-  "2023-08-25": 27586,
-  "2023-08-26": 27673,
-  "2023-08-27": 27761,
-  "2023-08-28": 27851,
-  "2023-08-29": 27941,
-  "2023-08-30": 28026,
-  "2023-08-31": 28121,
-  "2023-09-01": 28398,
-  "2023-09-02": 28398,
-  "2023-09-03": 28505,
-  "2023-09-04": 28695,
-  "2023-09-05": 28845,
-  "2023-09-06": 28988,
-  "2023-09-07": 29126,
-  "2023-09-08": 29268,
-  "2023-09-09": 29394,
-  "2023-09-10": 29584,
-  "2023-09-11": 29747,
-  "2023-09-12": 29861,
-  "2023-09-13": 29999,
-  "2023-09-14": 30134,
-  "2023-09-15": 30237,
-  "2023-09-16": 30358,
-  "2023-09-17": 30358,
-  "2023-09-18": 30721,
-  "2023-09-19": 30832,
-  "2023-09-20": 30944,
-  "2023-09-21": 31056,
-  "2023-09-22": 31152,
-  "2023-09-23": 31295,
-  "2023-09-24": 31295,
-  "2023-09-25": 31295,
-  "2023-09-26": 31709,
-  "2023-09-27": 31789,
-  "2023-09-28": 31898,
-  "2023-09-29": 31986,
-  "2023-09-30": 31986,
-  "2023-10-01": 32231,
-  "2023-10-02": 32360,
-  "2023-10-03": 32448,
-  "2023-10-04": 32555,
-  "2023-10-05": 32641,
-  "2023-10-06": 32752,
-  "2023-10-07": 32879,
-  "2023-10-08": 33045,
-  "2023-10-09": 33045,
-  "2023-10-10": 33264,
-  "2023-10-11": 33444,
-  "2023-10-12": 33444,
-  "2023-10-13": 33548,
-  "2023-10-14": 33548,
-  "2023-10-15": 33548,
-  "2023-10-16": 33548,
-  "2023-10-17": 33548,
-  "2023-10-18": 33548,
-  "2023-10-19": 33548,
-  "2023-10-20": 33548,
-  "2023-10-21": 33548,
-  "2023-10-22": 33548,
-  "2023-10-23": 33548,
-  "2023-10-24": 34653,
-  "2023-10-25": 34653,
-  "2023-10-26": 34653,
-  "2023-10-27": 34653,
-  "2023-10-28": 34653,
-  "2023-10-29": 34653,
-  "2023-10-30": 34653,
-  "2023-10-31": 34653,
-  "2023-11-01": 34653,
-  "2023-11-02": 34653,
-  "2023-11-03": 34653,
-  "2023-11-04": 34653,
-  "2023-11-05": 34653,
-  "2023-11-06": 34653,
-  "2023-11-07": 34653,
-  "2023-11-08": 34653,
-  "2023-11-09": 34653,
-  "2023-11-10": 34653,
-  "2023-11-11": 36348,
-  "2023-11-12": 36451,
-  "2023-11-13": 36451,
-  "2023-11-14": 36451,
-  "2023-11-15": 36451,
-  "2023-11-16": 36451,
-  "2023-11-17": 36918,
-  "2023-11-18": 36918,
-  "2023-11-19": 36918,
-  "2023-11-20": 36918,
-  "2023-11-21": 36918,
-  "2023-11-22": 36918,
-  "2023-11-23": 37340,
-  "2023-11-24": 37340,
-  "2023-11-25": 37340,
-  "2023-11-26": 37340,
-  "2023-11-27": 37340,
-  "2023-11-28": 37340,
-  "2023-11-29": 37340,
-  "2023-11-30": 37340,
-  "2023-12-01": 37340,
-  "2023-12-02": 37340,
-  "2023-12-03": 37340,
-  "2023-12-04": 37340,
-  "2023-12-05": 37340,
-  "2023-12-06": 37340,
-  "2023-12-07": 37340,
-  "2023-12-08": 37340,
-  "2023-12-09": 38474,
-  "2023-12-10": 38474,
-  "2023-12-11": 38569,
-  "2023-12-12": 38569,
-  "2023-12-13": 38569,
-  "2023-12-14": 38720,
-  "2023-12-15": 38760,
-  "2023-12-16": 38796,
-  "2023-12-17": 38851,
-  "2023-12-18": 38901,
-  "2023-12-19": 38933,
-  "2023-12-20": 38964,
-  "2023-12-21": 39009,
-  "2023-12-22": 39034,
-  "2023-12-23": 39086,
-  "2023-12-24": 39141,
-  "2023-12-25": 39179,
-  "2023-12-26": 39221,
-  "2023-12-27": 39273,
-  "2023-12-30": 39439,
-  "2023-12-31": 39485,
-  "2024-01-01": 39535,
-  "2024-01-02": 39588,
-  "2024-01-03": 39633
+  "2024-01-17": 40380,
+  "date_first_scraped": "2022-04-19",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter",
+  "name": "Netflix Kids Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Action Pack Theme Song (Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5024rnCJURx7qI6ZSzEwsi"
+      },
+      "artists": [
+        {
+          "name": "The Action Pack Cast",
+          "url": "https://open.spotify.com/artist/23QdqFguNBL4XCEIoMDkoq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 121136,
+      "name": "Action Pack Theme Song (Music from the Netflix Series)",
+      "url": "https://open.spotify.com/track/0cVykhtY5lkIZh4RlOQVdV"
+    },
+    {
+      "album": {
+        "name": "Action Pack Theme Song (Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/72I8xPCKWrQGcD3qpNmyIv"
+      },
+      "artists": [
+        {
+          "name": "The Action Pack Cast",
+          "url": "https://open.spotify.com/artist/23QdqFguNBL4XCEIoMDkoq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121136,
+      "name": "Action Pack Theme Song (Music from the Netflix Series)",
+      "url": "https://open.spotify.com/track/2gDV2v7pECv2jEApJnrjXf"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        },
+        {
+          "name": "Renee Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47274,
+      "name": "Ada Twist, Scientist Theme Song (From \"Ada Twist, Scientist\")",
+      "url": "https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU"
+    },
+    {
+      "album": {
+        "name": "The Beat Bugs: Complete Season 1 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/27avWEEaNMlHSAAe6KQzdm"
+      },
+      "artists": [
+        {
+          "name": "The Beat Bugs",
+          "url": "https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/54BKvxfy3gCcDRr4HuXAvv"
+    },
+    {
+      "album": {
+        "name": "Feel The Beat (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/17H6aHxLyulUvrC344VSxX"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230434,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5H6Ams75Ab5rob7lfVx6LK"
+    },
+    {
+      "album": {
+        "name": "Feel The Beat (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/07xxY2XEhqPhAA6BFcvbIL"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230434,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6YgU97L7MkIcCJRoLJDtqn"
+    },
+    {
+      "album": {
+        "name": "Feel The Beat (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2vywm8aptsSE8OakDQIpY4"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 230434,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7rhF6rGZYiPEIXuJir5ATl"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 1 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/1SKApykupjLWWole4UiXoT"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 60098,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
+    },
+    {
+      "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60098,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/3HN39lt79CHXdsDMKPBc4X"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 60500,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/2kgD1iv8vZHeFA9ix1fKqS"
+    },
+    {
+      "album": {
+        "name": "True Tunes",
+        "url": "https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ"
+      },
+      "artists": [
+        {
+          "name": "True and the Rainbow Kingdom",
+          "url": "https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146744,
+      "name": "Bartleby Finnegan",
+      "url": "https://open.spotify.com/track/05iojOqYgGy4SU89O5paby"
+    },
+    {
+      "album": {
+        "name": "Beautiful Ugly (feat. Evie Irie) [from \"Back to the Outback\" soundtrack]",
+        "url": "https://open.spotify.com/album/6MWqVsBTfAcJ0WvzhPSvPw"
+      },
+      "artists": [
+        {
+          "name": "Tim Minchin",
+          "url": "https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2"
+        },
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164076,
+      "name": "Beautiful Ugly (feat. Evie Irie) - from \"Back to the Outback\" soundtrack",
+      "url": "https://open.spotify.com/track/5SIqvVcGc16MsnsVIw83aD"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On! (Music From Season 1)",
+        "url": "https://open.spotify.com/album/74G7ktttrog53aefGFcf41"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149838,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/2JSd29ATGEql12Ecx0UTnA"
+    },
+    {
+      "album": {
+        "name": "Battle Kitty (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/5d6p6H0Y7R0VOAyZr2pwEA"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 99586,
+      "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
+      "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
+    },
+    {
+      "album": {
+        "name": "Battle Kitty (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/0iDb14aXJw1F4fsGcDRaBJ"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99586,
+      "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
+      "url": "https://open.spotify.com/track/6ClXqnFK000PWmFiK2F3I6"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Nell Benjamin",
+          "url": "https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ"
+        },
+        {
+          "name": "Laurence O'Keefe",
+          "url": "https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97546,
+      "name": "Captain Crow - from \"The Sea Beast\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 63942,
+      "name": "Chicken Bop",
+      "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
+    },
+    {
+      "album": {
+        "name": "StoryBots Animals",
+        "url": "https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63942,
+      "name": "Chicken Bop",
+      "url": "https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs"
+    },
+    {
+      "album": {
+        "name": "Courage In Me (From Miraculous: Ladybug & Cat Noir, The Movie Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7FZYfXFTDr3kMm4OTAXsUp"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/1rLjqQu0qus0jEuP9eySii"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201906,
+      "name": "Courage In Me",
+      "url": "https://open.spotify.com/track/5QcKjwMMdHgarF0A1cMJyj"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
+      },
+      "artists": [
+        {
+          "name": "Alan Schmuckler",
+          "url": "https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 131649,
+      "name": "Danger, Danger",
+      "url": "https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f"
+      },
+      "artists": [
+        {
+          "name": "Alan Schmuckler",
+          "url": "https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131649,
+      "name": "Danger, Danger",
+      "url": "https://open.spotify.com/track/0ie7SrEYQQ8KXvgS6VuKX4"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1lObFcH6qNPWcoASyNwq8N"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61333,
+      "name": "Everyone Will Think (That You Stink)",
+      "url": "https://open.spotify.com/track/7BqS29AbWYfC5ldqOtOONE"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136002,
+      "name": "Finger Family",
+      "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "Five Little Monkeys Jumping on the Bed",
+      "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
+    },
+    {
+      "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+        },
+        {
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
+        },
+        {
+          "name": "Charlie Gillespie",
+          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
+        },
+        {
+          "name": "Owen Patrick Joyner",
+          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
+        },
+        {
+          "name": "Jeremy Shada",
+          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184807,
+      "name": "Flying Solo (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
+      "url": "https://open.spotify.com/track/2e3ZtFtjaPvcBgJy3xpXFT"
+    },
+    {
+      "album": {
+        "name": "Motown Magic (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174602,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/1aa4uizAfJZQJKycxZCWLo"
+    },
+    {
+      "album": {
+        "name": "Found (From the Netflix Film The Magician's Elephant)",
+        "url": "https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209087,
+      "name": "Found (From the Netflix Film The Magician's Elephant)",
+      "url": "https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M"
+    },
+    {
+      "album": {
+        "name": "Freezie Day (from the Netflix Special, Waffles + Mochi: Holiday Feast)",
+        "url": "https://open.spotify.com/album/2oJA40TLsVdiIa9SSzjXwy"
+      },
+      "artists": [
+        {
+          "name": "Waffles + Mochi Cast",
+          "url": "https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn"
+        },
+        {
+          "name": "Tracee Ellis Ross",
+          "url": "https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 157396,
+      "name": "Freezie Day",
+      "url": "https://open.spotify.com/track/2JQR4HGnpYSBeN6G6uJxef"
+    },
+    {
+      "album": {
+        "name": "Freezie Day (from the Netflix Special \"Waffles + Mochi: Holiday Feast\")",
+        "url": "https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0"
+      },
+      "artists": [
+        {
+          "name": "Waffles + Mochi Cast",
+          "url": "https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn"
+        },
+        {
+          "name": "Tracee Ellis Ross",
+          "url": "https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157396,
+      "name": "Freezie Day (from the Netflix Special \"Waffles + Mochi: Holiday Feast\")",
+      "url": "https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu"
+    },
+    {
+      "album": {
+        "name": "Dance and Sing with True",
+        "url": "https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW"
+      },
+      "artists": [
+        {
+          "name": "True and the Rainbow Kingdom",
+          "url": "https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130504,
+      "name": "Full Speed Fun",
+      "url": "https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 223800,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 191094,
+      "name": "Glowin' Up",
+      "url": "https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU"
+    },
+    {
+      "album": {
+        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
+        "url": "https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191094,
+      "name": "Glowin' Up",
+      "url": "https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158650,
+      "name": "Gonna Be My Day",
+      "url": "https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 158650,
+      "name": "Gonna Be My Day",
+      "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams Vol. 4",
+        "url": "https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 157999,
+      "name": "Good Good Day",
+      "url": "https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 4",
+        "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157999,
+      "name": "Good Good Day",
+      "url": "https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7"
+    },
+    {
+      "album": {
+        "name": "Vivo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
+      },
+      "artists": [
+        {
+          "name": "Ynairaly Simo",
+          "url": "https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Bryan Tyree Henry",
+          "url": "https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K"
+        },
+        {
+          "name": "Aneesa Folds",
+          "url": "https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P"
+        },
+        {
+          "name": "Bri Holland",
+          "url": "https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol"
+        },
+        {
+          "name": "Alana de Fonseca",
+          "url": "https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l"
+        },
+        {
+          "name": "Jada Banks-Mace",
+          "url": "https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R"
+        },
+        {
+          "name": "Zoe Saldana",
+          "url": "https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126735,
+      "name": "Grand Finale",
+      "url": "https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG"
+    },
+    {
+      "album": {
+        "name": "Dance and Sing with True",
+        "url": "https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW"
+      },
+      "artists": [
+        {
+          "name": "True and the Rainbow Kingdom",
+          "url": "https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141238,
+      "name": "Grizbot Groove",
+      "url": "https://open.spotify.com/track/4qiArbjA2EqcgnfYFMSbof"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On! (Music From Season 1)",
+        "url": "https://open.spotify.com/album/74G7ktttrog53aefGFcf41"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134500,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/2GMgGGx83x0QtJ2Q0qK0Vf"
+    },
+    {
+      "album": {
+        "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
+        "url": "https://open.spotify.com/album/2GLc1xUz0WScTTgGj9vT47"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        },
+        {
+          "name": "Allie Feder",
+          "url": "https://open.spotify.com/artist/7zmbSYjFlZh3KAHnLtPpY2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137229,
+      "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
+      "url": "https://open.spotify.com/track/1AW7Z5j6fAhV1iJGLnXrGb"
+    },
+    {
+      "album": {
+        "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
+        "url": "https://open.spotify.com/album/3dtJ8XF0YBeEZvD4QpWhJk"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        },
+        {
+          "name": "Allie Feder",
+          "url": "https://open.spotify.com/artist/7zmbSYjFlZh3KAHnLtPpY2"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 137229,
+      "name": "Hansel & Gretel's Lullaby (All Is Blind) [From The Netflix Series \"A Tale Dark & Grimm\"]",
+      "url": "https://open.spotify.com/track/3j5uSjiatPSFRyxcB7MZiJ"
+    },
+    {
+      "album": {
+        "name": "CoComelon Essentials",
+        "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127026,
+      "name": "Head Shoulder Knees and Toes",
+      "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
+    },
+    {
+      "album": {
+        "name": "Hello World (from \"Back to the Outback\" soundtrack)",
+        "url": "https://open.spotify.com/album/7obvzZVywrczcOAnSaOS91"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156365,
+      "name": "Hello World - from \"Back to the Outback\" soundtrack",
+      "url": "https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM"
+    },
+    {
+      "album": {
+        "name": "Beat Bugs (Music From The Netflix Original Series - Season 3)",
+        "url": "https://open.spotify.com/album/14DYbT6rMLn2LpxJjPS3DR"
+      },
+      "artists": [
+        {
+          "name": "The Beat Bugs",
+          "url": "https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p"
+        },
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/11p0T6y1TKZ913rlJm9H1N"
+    },
+    {
+      "album": {
+        "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+        "url": "https://open.spotify.com/album/3lkEtPQqGmOQVoYykSczSC"
+      },
+      "artists": [
+        {
+          "name": "PT Walkley",
+          "url": "https://open.spotify.com/artist/4PRBH61ujBc3VWylX0IGgG"
+        },
+        {
+          "name": "Michel Walkley",
+          "url": "https://open.spotify.com/artist/0wbtAw0LRnmB2cZYNkSXHJ"
+        },
+        {
+          "name": "Charlie Walkley",
+          "url": "https://open.spotify.com/artist/5yAhTBMRLXzUo50PIICGiA"
+        },
+        {
+          "name": "Nash Walkley",
+          "url": "https://open.spotify.com/artist/50toR6RTNrXKHJatsXHX4V"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120103,
+      "name": "Hey Gabby! (Theme Song from Gabby's Dollhouse)",
+      "url": "https://open.spotify.com/track/36xw27XcI4mUqFkGKh6LtO"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 3)",
+        "url": "https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74373,
+      "name": "Home (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Sutton Foster, Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW"
+    },
+    {
+      "album": {
+        "name": "I Choose (From The Netflix Original Film The Willoughbys)",
+        "url": "https://open.spotify.com/album/6k4ugOvti66x6xvnQpYSj7"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217347,
+      "name": "I Choose - From The Netflix Original Film \"The Willoughbys\"",
+      "url": "https://open.spotify.com/track/13QIjo2iGBgl56mNDjJOet"
+    },
+    {
+      "album": {
+        "name": "Motown Magic (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287331,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/5QCNav5MXT4un1jxr49qnB"
+    },
+    {
+      "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        },
+        {
+          "name": "Winter River",
+          "url": "https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173773,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        },
+        {
+          "name": "Winter River",
+          "url": "https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 173773,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        },
+        {
+          "name": "Winter River",
+          "url": "https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "I'll Always Love You",
+      "url": "https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        },
+        {
+          "name": "Iara Nemirovsky",
+          "url": "https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75786,
+      "name": "I'm Ready (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Iara Nemirovsky)",
+      "url": "https://open.spotify.com/track/0MqcYLLTOyScQwD8xAd7nz"
+    },
+    {
+      "album": {
+        "name": "If It's To Be (From \"Maya And The Three\" - A Netflix Animated Event)",
+        "url": "https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214625,
+      "name": "If It's To Be - From \"Maya And The Three\" - A Netflix Animated Event",
+      "url": "https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9"
+    },
+    {
+      "album": {
+        "name": "Barbie It Takes Two (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2mXF94JoueENMjvZFVhzth"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66928,
+      "name": "It Takes Two - Theme Song",
+      "url": "https://open.spotify.com/track/3WWpdKMbTca5o8d5yhWyaL"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Soundtrack From The Netflix Series Vol. 2)",
+        "url": "https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63186,
+      "name": "It's All Me (From The Netlix Series: \"Ridley Jones\" Vol. 2)",
+      "url": "https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u"
+    },
+    {
+      "album": {
+        "name": "Thai Cave Rescue (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7kDe7QIbUXeF4FrzIHmX8D"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250555,
+      "name": "Keep Holding On - Hybrid Version",
+      "url": "https://open.spotify.com/track/0f1rObddzYzuikkqBKF8o3"
+    },
+    {
+      "album": {
+        "name": "Thai Cave Rescue (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3VcxoYyUcIPoZU1yIVQvhi"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 250555,
+      "name": "Keep Holding On - Hybrid Version",
+      "url": "https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH"
+    },
+    {
+      "album": {
+        "name": "Kitti Katz Theme (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6U7BKPNbMqq3bmN829fUsu"
+      },
+      "artists": [
+        {
+          "name": "Kitti Katz",
+          "url": "https://open.spotify.com/artist/3pL0HFJmARZMJYyDFdyNXL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159208,
+      "name": "Kitti Katz Theme (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/0xiZP7XvD12u2jPcCPYPgR"
+    },
+    {
+      "album": {
+        "name": "A Week Away (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        },
+        {
+          "name": "Bailee Madison",
+          "url": "https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE"
+        },
+        {
+          "name": "Jahbril Cook",
+          "url": "https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT"
+        },
+        {
+          "name": "Kat Conner Sterling",
+          "url": "https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD"
+        },
+        {
+          "name": "Iain Tucker",
+          "url": "https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN"
+        },
+        {
+          "name": "The Cast Of Netflix's Film A Week Away",
+          "url": "https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "Let's Go Make A Memory",
+      "url": "https://open.spotify.com/track/2QE54qAFv2rEEKZf6eqY9P"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ"
+      },
+      "artists": [
+        {
+          "name": "Loudhouse",
+          "url": "https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149112,
+      "name": "Life Is Better Loud",
+      "url": "https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 149112,
+      "name": "Life Is Better Loud",
+      "url": "https://open.spotify.com/track/2MTvq0cuZi6Va3LLxFnNmr"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 149112,
+      "name": "Life Is Better Loud",
+      "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
+    },
+    {
+      "album": {
+        "name": "Jingle Jangle: A Christmas Journey (Music From The Netflix Original Film)",
+        "url": "https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv"
+      },
+      "artists": [
+        {
+          "name": "Forest Whitaker",
+          "url": "https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz"
+        },
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230895,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP"
+    },
+    {
+      "album": {
+        "name": "Mom the Bounty Hunter (from the Netflix Series \"My Dad the Bounty Hunter\")",
+        "url": "https://open.spotify.com/album/3rJ69PV57G5a5odY6QKxRH"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        },
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155710,
+      "name": "Mom the Bounty Hunter (from the Netflix Series \"My Dad the Bounty Hunter\")`",
+      "url": "https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc"
+    },
+    {
+      "album": {
+        "name": "John Mulaney & The Sack Lunch Bunch",
+        "url": "https://open.spotify.com/album/6voftk1KiRATintCChjvrW"
+      },
+      "artists": [
+        {
+          "name": "Jake Gyllenhaal",
+          "url": "https://open.spotify.com/artist/2bwGbnyOkPVvEkIH5ePcLa"
+        },
+        {
+          "name": "John Mulaney",
+          "url": "https://open.spotify.com/artist/5K6CrtQfpRipgTDZbaSj7k"
+        },
+        {
+          "name": "The Sack Lunch Bunch",
+          "url": "https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 317976,
+      "name": "Music, Music Everywhere!",
+      "url": "https://open.spotify.com/track/0Iks9tSmrtVI8kOnMrfmve"
+    },
+    {
+      "album": {
+        "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2"
+      },
+      "artists": [
+        {
+          "name": "EL3VATORS",
+          "url": "https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114963,
+      "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0"
+    },
+    {
+      "album": {
+        "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+        "url": "https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz"
+      },
+      "artists": [
+        {
+          "name": "Kody Kavitha",
+          "url": "https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156506,
+      "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+      "url": "https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ"
+    },
+    {
+      "album": {
+        "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+        "url": "https://open.spotify.com/album/45JlKj9dEb3cHiEnrlk6XQ"
+      },
+      "artists": [
+        {
+          "name": "Kody Kavitha",
+          "url": "https://open.spotify.com/artist/2NuXQfDlfJvqowQuCninFj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 156506,
+      "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
+      "url": "https://open.spotify.com/track/2iy3ZDCVJW2JAF2Jg69uk7"
+    },
+    {
+      "album": {
+        "name": "Vivo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
+      },
+      "artists": [
+        {
+          "name": "Ynairaly Simo",
+          "url": "https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142388,
+      "name": "My Own Drum",
+      "url": "https://open.spotify.com/track/2FmFDDnB387rOvN3hpcXuc"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1lObFcH6qNPWcoASyNwq8N"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        },
+        {
+          "name": "Shaun Taylor-Corbett",
+          "url": "https://open.spotify.com/artist/6G7liVqZX8ZUcMagOvH2Zi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68859,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/369cUfAg4WPjEH5DIWqYa0"
+    },
+    {
+      "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+        },
+        {
+          "name": "Charlie Gillespie",
+          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
+        },
+        {
+          "name": "Owen Patrick Joyner",
+          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
+        },
+        {
+          "name": "Jeremy Shada",
+          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184128,
+      "name": "Now or Never (feat. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
+      "url": "https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW"
+    },
+    {
+      "album": {
+        "name": "The Mitchells vs The Machines (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1"
+      },
+      "artists": [
+        {
+          "name": "Alex Lahey",
+          "url": "https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ"
+      },
+      "artists": [
+        {
+          "name": "Loudhouse",
+          "url": "https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc"
+        },
+        {
+          "name": "graywolfe",
+          "url": "https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6"
+        },
+        {
+          "name": "Oh, Hush!",
+          "url": "https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86939,
+      "name": "Ordinary Me",
+      "url": "https://open.spotify.com/track/6gGjGxycyFeXx4s7rWogvU"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        },
+        {
+          "name": "Oh, Hush!",
+          "url": "https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk"
+        },
+        {
+          "name": "graywolfe",
+          "url": "https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 86939,
+      "name": "Ordinary Me",
+      "url": "https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P"
+    },
+    {
+      "album": {
+        "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        },
+        {
+          "name": "Oh, Hush!",
+          "url": "https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk"
+        },
+        {
+          "name": "graywolfe",
+          "url": "https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 86939,
+      "name": "Ordinary Me",
+      "url": "https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/17xy5eOeUcNuJpAyIjKjIF"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        },
+        {
+          "name": "Rom\u00e1n Zaragoza",
+          "url": "https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 64986,
+      "name": "Paws Off",
+      "url": "https://open.spotify.com/track/4F0lrCxtYqDPsg5HXzEbPE"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        },
+        {
+          "name": "Rom\u00e1n Zaragoza",
+          "url": "https://open.spotify.com/artist/6RHHwTVRq68EP7uB86Krpj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64986,
+      "name": "Paws Off",
+      "url": "https://open.spotify.com/track/7qSk3rPjRoksldhlwcZdc7"
+    },
+    {
+      "album": {
+        "name": "Princess Power Theme Song (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1HZXJsFLRSufKj7HExLmG8"
+      },
+      "artists": [
+        {
+          "name": "Princess Power",
+          "url": "https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Princess Power Theme Song (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/3FRY7aHuPSHpmwIbmTYUr0"
+    },
+    {
+      "album": {
+        "name": "Karma\u2019s World",
+        "url": "https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130073,
+      "name": "Proud Of My Hair",
+      "url": "https://open.spotify.com/track/32Mar6wKUVHa886N2iwcG0"
+    },
+    {
+      "album": {
+        "name": "Motown Magic (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL"
+      },
+      "artists": [
+        {
+          "name": "Motown Magic Cast",
+          "url": "https://open.spotify.com/artist/2ejbZK38MVvz9L9lOx7cEw"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241189,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/7kMlkg1X3DTi2S5H11o626"
+    },
+    {
+      "album": {
+        "name": "Ridley Jones (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
+      },
+      "artists": [
+        {
+          "name": "Ridley Jones Cast",
+          "url": "https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61333,
+      "name": "Rise Above (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ridley Jones Cast)",
+      "url": "https://open.spotify.com/track/1LaGlSuXnL6px2J6OjXR5M"
+    },
+    {
+      "album": {
+        "name": "Back to the Outback (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5X85NobmlyfXSt649o21Y6"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235147,
+      "name": "ROAR",
+      "url": "https://open.spotify.com/track/2i84adxgZGi1ujHaLdKPSG"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Cathy Ang",
+          "url": "https://open.spotify.com/artist/3qLXQKIfWi7roh2tmVRjzn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228372,
+      "name": "Rocket to the Moon (From the Netflix Film \"Over the Moon\")",
+      "url": "https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t"
+    },
+    {
+      "album": {
+        "name": "The Cuphead Show! (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2JsgSQKGfM6Ea0uQ4Pn9DS"
+      },
+      "artists": [
+        {
+          "name": "Ego Plum",
+          "url": "https://open.spotify.com/artist/3aDfKWabc9t1ahXCREyKEt"
+        },
+        {
+          "name": "Wayne Brady",
+          "url": "https://open.spotify.com/artist/1wLJTOL6Mz0AOni5EcH4v3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141057,
+      "name": "Roll The Dice",
+      "url": "https://open.spotify.com/track/51VMGYFYpUnO9Aizfksbil"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "Rules R Made 2 B Broken",
+      "url": "https://open.spotify.com/track/0mtEUhkt4MwxtNtYOitnCp"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 158167,
+      "name": "Rules R Made 2 B Broken",
+      "url": "https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd"
+    },
+    {
+      "album": {
+        "name": "Vivo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Ynairaly Simo",
+          "url": "https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV"
+        },
+        {
+          "name": "Christopher Jackson",
+          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
+        },
+        {
+          "name": "Veronica Jackson",
+          "url": "https://open.spotify.com/artist/0t48kDWWLiHxareyz1cOm1"
+        },
+        {
+          "name": "Gloria Calder\u00f3n Kellett",
+          "url": "https://open.spotify.com/artist/2WSgR8zIBZd2iDH7oioWo5"
+        },
+        {
+          "name": "Bri Holland",
+          "url": "https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol"
+        },
+        {
+          "name": "Alana de Fonseca",
+          "url": "https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l"
+        },
+        {
+          "name": "Jada Banks-Mace",
+          "url": "https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Zoe Saldana",
+          "url": "https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1"
+        },
+        {
+          "name": "Leslie David Baker",
+          "url": "https://open.spotify.com/artist/2XrBgbRVHrQfJEQk4klLS5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134835,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/6ZYv8ozQzQr1ClAe8dnUZN"
+    },
+    {
+      "album": {
+        "name": "Say Hello to Your Friends (Music from the Netflix Series, The Baby-Sitters Club)",
+        "url": "https://open.spotify.com/album/2vk3zcRubs7ORUgVgZQH4S"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 193180,
+      "name": "Say Hello to Your Friends",
+      "url": "https://open.spotify.com/track/2MGc23qUgE1PiQ1dlGx9Eu"
+    },
+    {
+      "album": {
+        "name": "Say Hello to Your Friends (Music from the Netflix Series, The Baby-Sitters Club)",
+        "url": "https://open.spotify.com/album/0Xp4hAcSE9meSv3tZ9xNdk"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193180,
+      "name": "Say Hello to Your Friends",
+      "url": "https://open.spotify.com/track/2WAnnfktY5onWnQZdQFZRe"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87626,
+      "name": "Scientific Method",
+      "url": "https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/17xy5eOeUcNuJpAyIjKjIF"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        },
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 55693,
+      "name": "Spirit Rangers Theme Song",
+      "url": "https://open.spotify.com/track/55k4Rc5XuIwuF4v4ZFwZJO"
+    },
+    {
+      "album": {
+        "name": "Spirit Rangers: Season 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf"
+      },
+      "artists": [
+        {
+          "name": "Spirit Rangers",
+          "url": "https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze"
+        },
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55693,
+      "name": "Spirit Rangers Theme Song",
+      "url": "https://open.spotify.com/track/5ilCMUE33xFgGMzZGUw0KX"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 3",
+        "url": "https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161025,
+      "name": "The Gratitude Attitude",
+      "url": "https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe"
+    },
+    {
+      "album": {
+        "name": "Kid Cosmic and the Sonic Courage (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tTsRAyDRVi7NMqNSqxSbR"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fang and The Gang",
+          "url": "https://open.spotify.com/artist/3jXRb6lCRced5A1w4pikFh"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 121533,
+      "name": "The Kid (Kid Cosmic Theme)",
+      "url": "https://open.spotify.com/track/6i2A4dpAYVkIINr7ypBNJD"
+    },
+    {
+      "album": {
+        "name": "Kid Cosmic and the Sonic Courage (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1CUgbsRB4fcXPVTYQaTa7S"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fang and The Gang",
+          "url": "https://open.spotify.com/artist/3jXRb6lCRced5A1w4pikFh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121533,
+      "name": "The Kid (Kid Cosmic Theme)",
+      "url": "https://open.spotify.com/track/7FcW4LbjumvTOqVlsXULIS"
+    },
+    {
+      "album": {
+        "name": "The Music In You (From Gabby's Dollhouse)",
+        "url": "https://open.spotify.com/album/5dpKoCPEjVfPljzdyYruoK"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Franco",
+          "url": "https://open.spotify.com/artist/1PpNXrIz5vq9XtTkTZN6gN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "The Music In You (From Gabby's Dollhouse)",
+      "url": "https://open.spotify.com/track/6dawwS9u34unKdN6GpecGT"
+    },
+    {
+      "album": {
+        "name": "He-Man and the Masters of the Universe, Vol. 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3gTyS9vXB0WQERPLu11WhP"
+      },
+      "artists": [
+        {
+          "name": "Ali Dee",
+          "url": "https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174493,
+      "name": "The Power Is Ours",
+      "url": "https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Mark Mancina",
+          "url": "https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 143760,
+      "name": "The Sea Beast",
+      "url": "https://open.spotify.com/track/3YhPDdcQ5kz0MW4vTKyX8t"
+    },
+    {
+      "album": {
+        "name": "My Dad The Bounty Hunter (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/18hA5x8SmQG5FDATMx3wvp"
+      },
+      "artists": [
+        {
+          "name": "EL3VATORS",
+          "url": "https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K"
+        },
+        {
+          "name": "Jordan Mosley",
+          "url": "https://open.spotify.com/artist/3sdEAXDskGxSy9wwOsza6s"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147834,
+      "name": "The Slip",
+      "url": "https://open.spotify.com/track/7Jr9MNxJWexglBZJvHNTCk"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91624,
+      "name": "The Why Song",
+      "url": "https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad"
+    },
+    {
+      "album": {
+        "name": "Jingle Jangle: A Christmas Journey (Music From The Netflix Original Film)",
+        "url": "https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv"
+      },
+      "artists": [
+        {
+          "name": "Justin Cornwell",
+          "url": "https://open.spotify.com/artist/2A5eGxahQnw1LlZDMlzCWC"
+        },
+        {
+          "name": "Sharon Rose",
+          "url": "https://open.spotify.com/artist/4eeDtE1DM9kHdHyHi668JQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213958,
+      "name": "This Day",
+      "url": "https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 150800,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/70FZ0JbtD0BmEB3ekr8rcd"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/2XTEsFKRewMuGEWqtOcAjW"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/2tTNL53GjEEg9ah6g8Xc9J"
+    },
+    {
+      "album": {
+        "name": "StoryBots Dinosaurs Songs",
+        "url": "https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 82957,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ultraluminary (From the Netflix Film \"Over the Moon\")",
+      "url": "https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2"
+    },
+    {
+      "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+        },
+        {
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Wake Up (feat. Madison Reyes)",
+      "url": "https://open.spotify.com/track/3gy83YfNaZOsAvkbVgD6IQ"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6qNlSlebwkg2ZRq9W1obvj"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100925,
+      "name": "We Are The Planets",
+      "url": "https://open.spotify.com/track/3OQVXUIYVddmvvf8nnXopf"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 3 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 101000,
+      "name": "We Are The Planets",
+      "url": "https://open.spotify.com/track/6T6reDGarkisz8OraafLRy"
+    },
+    {
+      "album": {
+        "name": "Welcome To Karma's World",
+        "url": "https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57"
+      },
+      "artists": [
+        {
+          "name": "Karma's World",
+          "url": "https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165902,
+      "name": "Welcome To Karma's World",
+      "url": "https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o"
+    },
+    {
+      "album": {
+        "name": "CoComelon Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207340,
+      "name": "Wheels on the Bus",
+      "url": "https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS"
+    },
+    {
+      "album": {
+        "name": "The Beat Bugs: Complete Season 2 (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3WFTOCjaSVgBsi9msmnsFQ"
+      },
+      "artists": [
+        {
+          "name": "The Beat Bugs",
+          "url": "https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162266,
+      "name": "Yellow Submarine",
+      "url": "https://open.spotify.com/track/7uXZBavuyzvEKGQHLwL1Om"
+    },
+    {
+      "album": {
+        "name": "Spirit Untamed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196558,
+      "name": "You Belong (from Spirit Untamed)",
+      "url": "https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b"
 }

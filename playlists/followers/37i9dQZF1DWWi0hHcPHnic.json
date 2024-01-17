@@ -1,732 +1,4149 @@
 {
-  "2021-12-28": 160950,
-  "2021-12-29": 161072,
-  "2021-12-30": 161207,
-  "2021-12-31": 161358,
-  "2022-01-01": 161641,
-  "2022-01-02": 161697,
-  "2022-01-03": 161786,
-  "2022-01-04": 161884,
-  "2022-01-05": 161974,
-  "2022-01-06": 162069,
-  "2022-01-07": 162188,
-  "2022-01-08": 162443,
-  "2022-01-09": 162446,
-  "2022-01-10": 162596,
-  "2022-01-11": 162658,
-  "2022-01-12": 162725,
-  "2022-01-13": 162725,
-  "2022-01-14": 162725,
-  "2022-01-15": 162725,
-  "2022-01-16": 162725,
-  "2022-01-17": 162725,
-  "2022-01-18": 162725,
-  "2022-01-19": 162725,
-  "2022-01-20": 162725,
-  "2022-01-21": 162725,
-  "2022-01-22": 162725,
-  "2022-01-23": 162725,
-  "2022-01-24": 162725,
-  "2022-01-25": 162725,
-  "2022-01-26": 162725,
-  "2022-01-27": 162725,
-  "2022-01-28": 162725,
-  "2022-01-29": 162725,
-  "2022-01-30": 162725,
-  "2022-01-31": 162725,
-  "2022-02-01": 162725,
-  "2022-02-02": 162725,
-  "2022-02-03": 162725,
-  "2022-02-04": 162725,
-  "2022-02-05": 162725,
-  "2022-02-06": 162725,
-  "2022-02-07": 162725,
-  "2022-02-08": 162725,
-  "2022-02-09": 162725,
-  "2022-02-10": 162725,
-  "2022-02-11": 162725,
-  "2022-02-12": 162725,
-  "2022-02-13": 162725,
-  "2022-02-14": 162725,
-  "2022-02-15": 162725,
-  "2022-02-16": 162725,
-  "2022-02-17": 162725,
-  "2022-02-18": 162725,
-  "2022-02-19": 162725,
-  "2022-02-20": 162725,
-  "2022-02-21": 162725,
-  "2022-02-22": 162725,
-  "2022-02-23": 162725,
-  "2022-02-24": 162725,
-  "2022-02-25": 162725,
-  "2022-02-26": 162725,
-  "2022-02-27": 162725,
-  "2022-02-28": 162725,
-  "2022-03-01": 162725,
-  "2022-03-02": 162725,
-  "2022-03-03": 162725,
-  "2022-03-04": 162725,
-  "2022-03-05": 162725,
-  "2022-03-06": 162725,
-  "2022-03-07": 162725,
-  "2022-03-08": 162725,
-  "2022-03-09": 162725,
-  "2022-03-10": 162725,
-  "2022-03-11": 162725,
-  "2022-03-12": 162725,
-  "2022-03-13": 162725,
-  "2022-03-14": 162725,
-  "2022-03-15": 162725,
-  "2022-03-16": 162725,
-  "2022-03-17": 162725,
-  "2022-03-18": 162725,
-  "2022-03-19": 162725,
-  "2022-03-20": 162725,
-  "2022-03-21": 162725,
-  "2022-03-22": 162725,
-  "2022-03-23": 162725,
-  "2022-03-24": 162725,
-  "2022-03-25": 162725,
-  "2022-03-26": 162725,
-  "2022-03-27": 162725,
-  "2022-03-28": 162725,
-  "2022-03-30": 162725,
-  "2022-03-31": 162725,
-  "2022-04-01": 162725,
-  "2022-04-02": 162725,
-  "2022-04-03": 162725,
-  "2022-04-04": 162725,
-  "2022-04-05": 162725,
-  "2022-04-06": 162725,
-  "2022-04-07": 162725,
-  "2022-04-08": 162725,
-  "2022-04-09": 162725,
-  "2022-04-10": 162725,
-  "2022-04-11": 162725,
-  "2022-04-12": 162725,
-  "2022-04-13": 162725,
-  "2022-04-14": 162725,
-  "2022-04-15": 162725,
-  "2022-04-16": 162725,
-  "2022-04-17": 162725,
-  "2022-04-18": 162725,
-  "2022-04-19": 162725,
-  "2022-04-20": 162725,
-  "2022-04-21": 162725,
-  "2022-04-22": 162725,
-  "2022-04-23": 162725,
-  "2022-04-24": 162725,
-  "2022-04-25": 162725,
-  "2022-04-26": 162725,
-  "2022-04-27": 162725,
-  "2022-04-28": 162725,
-  "2022-04-29": 162725,
-  "2022-04-30": 162725,
-  "2022-05-01": 162725,
-  "2022-05-02": 162725,
-  "2022-05-03": 162725,
-  "2022-05-04": 162725,
-  "2022-05-05": 162725,
-  "2022-05-06": 162725,
-  "2022-05-07": 162725,
-  "2022-05-08": 162725,
-  "2022-05-09": 162725,
-  "2022-05-10": 162725,
-  "2022-05-11": 162725,
-  "2022-05-12": 162725,
-  "2022-05-13": 162725,
-  "2022-05-14": 162725,
-  "2022-05-15": 162725,
-  "2022-05-16": 162725,
-  "2022-05-17": 162725,
-  "2022-05-18": 162725,
-  "2022-05-19": 162725,
-  "2022-05-20": 162725,
-  "2022-05-21": 162725,
-  "2022-05-22": 162725,
-  "2022-05-23": 162725,
-  "2022-05-24": 162725,
-  "2022-05-25": 162725,
-  "2022-05-26": 162725,
-  "2022-05-27": 162725,
-  "2022-05-28": 162725,
-  "2022-05-29": 162725,
-  "2022-05-30": 162725,
-  "2022-05-31": 162725,
-  "2022-06-01": 162725,
-  "2022-06-02": 162725,
-  "2022-06-03": 162725,
-  "2022-06-04": 162725,
-  "2022-06-05": 162725,
-  "2022-06-06": 162725,
-  "2022-06-07": 162725,
-  "2022-06-08": 162725,
-  "2022-06-09": 162725,
-  "2022-06-10": 162725,
-  "2022-06-11": 162725,
-  "2022-06-12": 162725,
-  "2022-06-13": 162725,
-  "2022-06-14": 162725,
-  "2022-06-15": 162725,
-  "2022-06-16": 162725,
-  "2022-06-17": 162725,
-  "2022-06-18": 162725,
-  "2022-06-19": 162725,
-  "2022-06-20": 162725,
-  "2022-06-21": 162725,
-  "2022-06-22": 162725,
-  "2022-06-23": 162725,
-  "2022-06-24": 162725,
-  "2022-06-25": 162725,
-  "2022-06-26": 162725,
-  "2022-06-27": 162725,
-  "2022-06-28": 162725,
-  "2022-06-29": 162725,
-  "2022-06-30": 162725,
-  "2022-07-01": 162725,
-  "2022-07-02": 162725,
-  "2022-07-03": 162725,
-  "2022-07-04": 162725,
-  "2022-07-05": 162725,
-  "2022-07-06": 162725,
-  "2022-07-07": 162725,
-  "2022-07-08": 162725,
-  "2022-07-09": 162725,
-  "2022-07-10": 162725,
-  "2022-07-11": 162725,
-  "2022-07-12": 162725,
-  "2022-07-13": 162725,
-  "2022-07-14": 162725,
-  "2022-07-15": 162725,
-  "2022-07-16": 162725,
-  "2022-07-17": 162725,
-  "2022-07-18": 162725,
-  "2022-07-19": 162725,
-  "2022-07-20": 162725,
-  "2022-07-21": 162725,
-  "2022-07-22": 162725,
-  "2022-07-23": 162725,
-  "2022-07-24": 162725,
-  "2022-07-25": 162725,
-  "2022-07-26": 162725,
-  "2022-07-27": 162725,
-  "2022-07-28": 162725,
-  "2022-07-29": 162725,
-  "2022-07-30": 162725,
-  "2022-07-31": 162725,
-  "2022-08-01": 162725,
-  "2022-08-02": 162725,
-  "2022-08-03": 162725,
-  "2022-08-04": 162725,
-  "2022-08-05": 162725,
-  "2022-08-06": 162725,
-  "2022-08-07": 162725,
-  "2022-08-08": 162725,
-  "2022-08-09": 162725,
-  "2022-08-10": 162725,
-  "2022-08-11": 162725,
-  "2022-08-12": 162725,
-  "2022-08-13": 162725,
-  "2022-08-14": 162725,
-  "2022-08-15": 162725,
-  "2022-08-16": 162725,
-  "2022-08-17": 162725,
-  "2022-08-18": 162725,
-  "2022-08-19": 162725,
-  "2022-08-20": 162725,
-  "2022-08-21": 162725,
-  "2022-08-22": 162725,
-  "2022-08-23": 162725,
-  "2022-08-24": 162725,
-  "2022-08-25": 162725,
-  "2022-08-26": 162725,
-  "2022-08-27": 162725,
-  "2022-08-28": 162725,
-  "2022-08-29": 162725,
-  "2022-08-30": 162725,
-  "2022-08-31": 162725,
-  "2022-09-01": 162725,
-  "2022-09-02": 162725,
-  "2022-09-03": 162725,
-  "2022-09-04": 162725,
-  "2022-09-05": 162725,
-  "2022-09-06": 162725,
-  "2022-09-07": 162725,
-  "2022-09-09": 162725,
-  "2022-09-10": 162725,
-  "2022-09-11": 162725,
-  "2022-09-12": 162725,
-  "2022-09-13": 162725,
-  "2022-09-15": 162725,
-  "2022-09-16": 162725,
-  "2022-09-17": 162725,
-  "2022-09-18": 162725,
-  "2022-09-19": 162725,
-  "2022-09-20": 162725,
-  "2022-09-21": 162725,
-  "2022-09-22": 162725,
-  "2022-09-23": 162725,
-  "2022-09-24": 162725,
-  "2022-09-25": 162725,
-  "2022-09-26": 162725,
-  "2022-09-27": 162725,
-  "2022-09-28": 162725,
-  "2022-09-29": 162725,
-  "2022-09-30": 162725,
-  "2022-10-01": 162725,
-  "2022-10-02": 162725,
-  "2022-10-03": 162725,
-  "2022-10-04": 162725,
-  "2022-10-05": 162725,
-  "2022-10-06": 162725,
-  "2022-10-07": 162725,
-  "2022-10-08": 162725,
-  "2022-10-09": 162725,
-  "2022-10-10": 162725,
-  "2022-10-11": 162725,
-  "2022-10-12": 162725,
-  "2022-10-13": 162725,
-  "2022-10-14": 162725,
-  "2022-10-15": 162725,
-  "2022-10-16": 162725,
-  "2022-10-17": 162725,
-  "2022-10-18": 162725,
-  "2022-10-19": 162725,
-  "2022-10-20": 162725,
-  "2022-10-21": 162725,
-  "2022-10-22": 162725,
-  "2022-10-23": 162725,
-  "2022-10-24": 162725,
-  "2022-10-25": 162725,
-  "2022-10-26": 162725,
-  "2022-10-27": 162725,
-  "2022-10-28": 162725,
-  "2022-10-29": 162725,
-  "2022-10-30": 162725,
-  "2022-10-31": 162725,
-  "2022-11-01": 162725,
-  "2022-11-02": 162725,
-  "2022-11-03": 162725,
-  "2022-11-04": 162725,
-  "2022-11-05": 162725,
-  "2022-11-06": 162725,
-  "2022-11-07": 162725,
-  "2022-11-08": 162725,
-  "2022-11-09": 162725,
-  "2022-11-10": 162725,
-  "2022-11-11": 162725,
-  "2022-11-12": 162725,
-  "2022-11-13": 162725,
-  "2022-11-14": 162725,
-  "2022-11-15": 162725,
-  "2022-11-16": 162725,
-  "2022-11-17": 162725,
-  "2022-11-18": 162725,
-  "2022-11-19": 162725,
-  "2022-11-20": 162725,
-  "2022-11-21": 162725,
-  "2022-11-22": 162725,
-  "2022-11-23": 162725,
-  "2022-11-24": 162725,
-  "2022-11-25": 162725,
-  "2022-11-26": 162725,
-  "2022-11-27": 162725,
-  "2022-11-28": 162725,
-  "2022-11-29": 162725,
-  "2022-11-30": 162725,
-  "2022-12-01": 162725,
-  "2022-12-02": 162725,
-  "2022-12-03": 162725,
-  "2022-12-04": 162725,
-  "2022-12-05": 162725,
-  "2022-12-06": 162725,
-  "2022-12-07": 162725,
-  "2022-12-08": 162725,
-  "2022-12-09": 162725,
-  "2022-12-10": 162725,
-  "2022-12-11": 162725,
-  "2022-12-12": 162725,
-  "2022-12-13": 162725,
-  "2022-12-14": 162725,
-  "2022-12-15": 162725,
-  "2022-12-16": 162725,
-  "2022-12-17": 162725,
-  "2022-12-18": 162725,
-  "2022-12-19": 162725,
-  "2022-12-20": 162725,
-  "2022-12-21": 162725,
-  "2022-12-22": 162725,
-  "2022-12-24": 162725,
-  "2022-12-25": 162725,
-  "2022-12-26": 162725,
-  "2022-12-27": 162725,
-  "2022-12-28": 162725,
-  "2022-12-29": 162725,
-  "2022-12-30": 162725,
-  "2022-12-31": 162725,
-  "2023-01-01": 162725,
-  "2023-01-02": 162725,
-  "2023-01-03": 162725,
-  "2023-01-04": 162725,
-  "2023-01-05": 162725,
-  "2023-01-06": 162725,
-  "2023-01-07": 162725,
-  "2023-01-08": 162725,
-  "2023-01-09": 162725,
-  "2023-01-10": 162725,
-  "2023-01-11": 162725,
-  "2023-01-12": 162725,
-  "2023-01-13": 162725,
-  "2023-01-14": 162725,
-  "2023-01-15": 162725,
-  "2023-01-16": 162725,
-  "2023-01-17": 162725,
-  "2023-01-18": 162725,
-  "2023-01-19": 162725,
-  "2023-01-20": 162725,
-  "2023-01-21": 162725,
-  "2023-01-22": 162725,
-  "2023-01-23": 162725,
-  "2023-01-24": 162725,
-  "2023-01-25": 162725,
-  "2023-01-26": 162725,
-  "2023-01-27": 162725,
-  "2023-01-28": 162725,
-  "2023-01-29": 162725,
-  "2023-01-30": 162725,
-  "2023-01-31": 162725,
-  "2023-02-01": 162725,
-  "2023-02-02": 162725,
-  "2023-02-03": 162725,
-  "2023-02-04": 162725,
-  "2023-02-05": 162725,
-  "2023-02-06": 162725,
-  "2023-02-07": 162725,
-  "2023-02-08": 162725,
-  "2023-02-09": 162725,
-  "2023-02-10": 162725,
-  "2023-02-11": 162725,
-  "2023-02-12": 162725,
-  "2023-02-13": 162725,
-  "2023-02-14": 162725,
-  "2023-02-15": 162725,
-  "2023-02-16": 162725,
-  "2023-02-17": 162725,
-  "2023-02-18": 162725,
-  "2023-02-19": 162725,
-  "2023-02-20": 162725,
-  "2023-02-21": 162725,
-  "2023-02-22": 162725,
-  "2023-02-23": 162725,
-  "2023-02-24": 162725,
-  "2023-02-25": 162725,
-  "2023-02-26": 162725,
-  "2023-02-27": 162725,
-  "2023-02-28": 162725,
-  "2023-03-01": 162725,
-  "2023-03-02": 162725,
-  "2023-03-03": 162725,
-  "2023-03-04": 162725,
-  "2023-03-05": 162725,
-  "2023-03-06": 162725,
-  "2023-03-07": 162725,
-  "2023-03-08": 162725,
-  "2023-03-09": 162725,
-  "2023-03-10": 162725,
-  "2023-03-11": 162725,
-  "2023-03-12": 162725,
-  "2023-03-13": 162725,
-  "2023-03-14": 162725,
-  "2023-03-15": 162725,
-  "2023-03-16": 162725,
-  "2023-03-17": 162725,
-  "2023-03-18": 162725,
-  "2023-03-19": 162725,
-  "2023-03-20": 162725,
-  "2023-03-21": 162725,
-  "2023-03-22": 162725,
-  "2023-03-23": 162725,
-  "2023-03-24": 162725,
-  "2023-03-25": 162725,
-  "2023-03-26": 162725,
-  "2023-03-27": 162725,
-  "2023-03-28": 162725,
-  "2023-03-29": 162725,
-  "2023-03-30": 162725,
-  "2023-03-31": 162725,
-  "2023-04-01": 162725,
-  "2023-04-02": 162725,
-  "2023-04-03": 162725,
-  "2023-04-04": 162725,
-  "2023-04-05": 162725,
-  "2023-04-06": 162725,
-  "2023-04-07": 162725,
-  "2023-04-09": 162725,
-  "2023-04-10": 162725,
-  "2023-04-11": 162725,
-  "2023-04-12": 162725,
-  "2023-04-13": 162725,
-  "2023-04-14": 162725,
-  "2023-04-15": 162725,
-  "2023-04-16": 162725,
-  "2023-04-17": 162725,
-  "2023-04-18": 162725,
-  "2023-04-19": 162725,
-  "2023-04-20": 162725,
-  "2023-04-21": 162725,
-  "2023-04-22": 162725,
-  "2023-04-23": 162725,
-  "2023-04-24": 162725,
-  "2023-04-25": 162725,
-  "2023-04-26": 162725,
-  "2023-04-27": 162725,
-  "2023-04-28": 162725,
-  "2023-04-29": 162725,
-  "2023-04-30": 162725,
-  "2023-05-01": 162725,
-  "2023-05-02": 162725,
-  "2023-05-03": 162725,
-  "2023-05-04": 162725,
-  "2023-05-05": 162725,
-  "2023-05-06": 162725,
-  "2023-05-07": 162725,
-  "2023-05-08": 162725,
-  "2023-05-09": 162725,
-  "2023-05-10": 162725,
-  "2023-05-11": 162725,
-  "2023-05-12": 162725,
-  "2023-05-13": 162725,
-  "2023-05-14": 162725,
-  "2023-05-15": 162725,
-  "2023-05-16": 162725,
-  "2023-05-17": 162725,
-  "2023-05-18": 162725,
-  "2023-05-19": 162725,
-  "2023-05-20": 162725,
-  "2023-05-21": 162725,
-  "2023-05-22": 162725,
-  "2023-05-23": 162725,
-  "2023-05-24": 162725,
-  "2023-05-25": 162725,
-  "2023-05-26": 162725,
-  "2023-05-27": 162725,
-  "2023-05-28": 162725,
-  "2023-05-29": 162725,
-  "2023-05-30": 162725,
-  "2023-05-31": 162725,
-  "2023-06-01": 162725,
-  "2023-06-02": 162725,
-  "2023-06-03": 162725,
-  "2023-06-04": 162725,
-  "2023-06-05": 162725,
-  "2023-06-06": 162725,
-  "2023-06-07": 162725,
-  "2023-06-08": 162725,
-  "2023-06-09": 162725,
-  "2023-06-10": 162725,
-  "2023-06-11": 162725,
-  "2023-06-12": 162725,
-  "2023-06-13": 162725,
-  "2023-06-14": 162725,
-  "2023-06-15": 162725,
-  "2023-06-16": 162725,
-  "2023-06-17": 162725,
-  "2023-06-18": 162725,
-  "2023-06-19": 162725,
-  "2023-06-20": 162725,
-  "2023-06-21": 162725,
-  "2023-06-22": 162725,
-  "2023-06-23": 162725,
-  "2023-06-24": 162725,
-  "2023-06-25": 162725,
-  "2023-06-26": 162725,
-  "2023-06-27": 162725,
-  "2023-06-28": 162725,
-  "2023-06-29": 162725,
-  "2023-06-30": 162725,
-  "2023-07-01": 162725,
-  "2023-07-02": 162725,
-  "2023-07-03": 162725,
-  "2023-07-04": 162725,
-  "2023-07-05": 162725,
-  "2023-07-06": 162725,
-  "2023-07-07": 162725,
-  "2023-07-08": 162725,
-  "2023-07-09": 162725,
-  "2023-07-10": 162725,
-  "2023-07-11": 162725,
-  "2023-07-12": 162725,
-  "2023-07-13": 162725,
-  "2023-07-14": 162725,
-  "2023-07-15": 162725,
-  "2023-07-16": 162725,
-  "2023-07-17": 162725,
-  "2023-07-18": 162725,
-  "2023-07-19": 162725,
-  "2023-07-20": 162725,
-  "2023-07-21": 162725,
-  "2023-07-22": 162725,
-  "2023-07-23": 162725,
-  "2023-07-24": 162725,
-  "2023-07-25": 162725,
-  "2023-07-26": 162725,
-  "2023-07-27": 162725,
-  "2023-07-28": 162725,
-  "2023-07-29": 162725,
-  "2023-07-30": 162725,
-  "2023-07-31": 162725,
-  "2023-08-01": 162725,
-  "2023-08-02": 162725,
-  "2023-08-03": 162725,
-  "2023-08-04": 162725,
-  "2023-08-05": 162725,
-  "2023-08-06": 162725,
-  "2023-08-07": 162725,
-  "2023-08-08": 162725,
-  "2023-08-09": 162725,
-  "2023-08-10": 162725,
-  "2023-08-11": 162725,
-  "2023-08-12": 162725,
-  "2023-08-13": 162725,
-  "2023-08-14": 162725,
-  "2023-08-15": 162725,
-  "2023-08-16": 162725,
-  "2023-08-17": 162725,
-  "2023-08-18": 162725,
-  "2023-08-19": 162725,
-  "2023-08-20": 162725,
-  "2023-08-21": 162725,
-  "2023-08-22": 162725,
-  "2023-08-23": 162725,
-  "2023-08-24": 162725,
-  "2023-08-25": 162725,
-  "2023-08-26": 162725,
-  "2023-08-27": 162725,
-  "2023-08-28": 162725,
-  "2023-08-29": 162725,
-  "2023-08-30": 162725,
-  "2023-08-31": 162725,
-  "2023-09-01": 162725,
-  "2023-09-02": 162725,
-  "2023-09-03": 162725,
-  "2023-09-04": 162725,
-  "2023-09-05": 162725,
-  "2023-09-06": 162725,
-  "2023-09-07": 162725,
-  "2023-09-08": 162725,
-  "2023-09-09": 162725,
-  "2023-09-10": 162725,
-  "2023-09-11": 162725,
-  "2023-09-12": 162725,
-  "2023-09-13": 162725,
-  "2023-09-14": 162725,
-  "2023-09-15": 162725,
-  "2023-09-16": 162725,
-  "2023-09-17": 162725,
-  "2023-09-18": 162725,
-  "2023-09-19": 162725,
-  "2023-09-20": 162725,
-  "2023-09-21": 162725,
-  "2023-09-22": 162725,
-  "2023-09-23": 162725,
-  "2023-09-24": 162725,
-  "2023-09-25": 162725,
-  "2023-09-26": 162725,
-  "2023-09-27": 162725,
-  "2023-09-28": 162725,
-  "2023-09-29": 162725,
-  "2023-09-30": 162725,
-  "2023-10-01": 162725,
-  "2023-10-02": 162725,
-  "2023-10-03": 162725,
-  "2023-10-04": 162725,
-  "2023-10-05": 162725,
-  "2023-10-06": 162725,
-  "2023-10-07": 162725,
-  "2023-10-08": 162725,
-  "2023-10-09": 162725,
-  "2023-10-10": 162725,
-  "2023-10-11": 162725,
-  "2023-10-12": 162725,
-  "2023-10-13": 162725,
-  "2023-10-14": 162725,
-  "2023-10-15": 162725,
-  "2023-10-16": 162725,
-  "2023-10-17": 162725,
-  "2023-10-18": 162725,
-  "2023-10-19": 162725,
-  "2023-10-20": 162725,
-  "2023-10-21": 162725,
-  "2023-10-22": 162725,
-  "2023-10-23": 162725,
-  "2023-10-24": 162725,
-  "2023-10-25": 162725,
-  "2023-10-26": 162725,
-  "2023-10-27": 162725,
-  "2023-10-28": 162725,
-  "2023-10-29": 162725,
-  "2023-10-30": 162725,
-  "2023-10-31": 162725,
-  "2023-11-01": 162725,
-  "2023-11-02": 162725,
-  "2023-11-03": 162725,
-  "2023-11-04": 162725,
-  "2023-11-05": 162725,
-  "2023-11-06": 162725,
-  "2023-11-07": 162725,
-  "2023-11-08": 162725,
-  "2023-11-09": 162725,
-  "2023-11-10": 162725,
-  "2023-11-11": 162725,
-  "2023-11-12": 162725,
-  "2023-11-13": 162725,
-  "2023-11-14": 162725,
-  "2023-11-15": 162725,
-  "2023-11-16": 162725,
-  "2023-11-17": 162725,
-  "2023-11-18": 162725,
-  "2023-11-19": 162725,
-  "2023-11-20": 162725,
-  "2023-11-21": 162725,
-  "2023-11-22": 162725,
-  "2023-11-23": 162725,
-  "2023-11-24": 162725,
-  "2023-11-25": 162725,
-  "2023-11-26": 162725,
-  "2023-11-27": 162725,
-  "2023-11-28": 162725,
-  "2023-11-29": 162725,
-  "2023-11-30": 162725,
-  "2023-12-01": 162725,
-  "2023-12-02": 162725,
-  "2023-12-03": 162725,
-  "2023-12-04": 162725,
-  "2023-12-05": 162725,
-  "2023-12-06": 162725,
-  "2023-12-07": 162725,
-  "2023-12-08": 162725,
-  "2023-12-09": 162725,
-  "2023-12-10": 162725,
-  "2023-12-11": 162725,
-  "2023-12-12": 162725,
-  "2023-12-13": 162725,
-  "2023-12-14": 162725,
-  "2023-12-15": 162725,
-  "2023-12-16": 162725,
-  "2023-12-17": 162725,
-  "2023-12-18": 162725,
-  "2023-12-19": 162725,
-  "2023-12-20": 162725,
-  "2023-12-21": 162725,
-  "2023-12-22": 162725,
-  "2023-12-23": 162725,
-  "2023-12-24": 162725,
-  "2023-12-25": 162725,
-  "2023-12-26": 162725,
-  "2023-12-27": 162725,
-  "2023-12-30": 162725,
-  "2023-12-31": 162725,
-  "2024-01-01": 162725,
-  "2024-01-02": 162725,
-  "2024-01-03": 162725
+  "2024-01-17": 162725,
+  "date_first_scraped": "2021-12-28",
+  "description": "Your favorite KIDZ BOP hits, all in one place!",
+  "name": "This Is KIDZ BOP Kids",
+  "tracks": [
+    {
+      "album": {
+        "name": "2020 Vision",
+        "url": "https://open.spotify.com/album/2dKl4qgk9mp6IATdoN9N8s"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179519,
+      "name": "2020 Vision",
+      "url": "https://open.spotify.com/track/7aBAEgh5KKsVU29xYcYcI7"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 24",
+        "url": "https://open.spotify.com/album/2N60MpD5FLy6PRQ9ChG6oH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "22",
+      "url": "https://open.spotify.com/track/7v49kdJbC7w2PHYTm70QZW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "album": {
+        "name": "7 Rings",
+        "url": "https://open.spotify.com/album/3k7m8Vaavz5QNR07MrOcLx"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "7 Rings",
+      "url": "https://open.spotify.com/track/0bahbEb9kQs9QFdjfTyDkn"
+    },
+    {
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/0jHpxikHVyFl0sXAqDbEza"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189866,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/477bjz1LX3KEoosaElKjiY"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/6Foz7fbVYWGG3akWeb9AMd"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181817,
+      "name": "All The Stars",
+      "url": "https://open.spotify.com/track/2y9spYpUsVmJoIm2FnvINa"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 27",
+        "url": "https://open.spotify.com/album/6Othi4jGVwb5Ftpwg6p4aF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247186,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/0Bnvu7KR5TQB9ZVjabXsq8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/7GTOWL0UdKSRWAxVZyJdfX"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161426,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/0FEuqqPqMcxCCo3hXreTqF"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7x77wUbnZN92mib1EPbxBw"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5eAGfkd5BZ4opqUuZuNXWL"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/3jVZbT4hnwMEZhYHnvZvU2"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214639,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/4xCwVS0ASwgAFCQQMkEHeZ"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/67xRkeJLTEpBz8uadMo8sL"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/1CbPTt4CWx9IDr0mENr5vQ"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 25",
+        "url": "https://open.spotify.com/album/2HWxwuGylBWL1RymwjQorI"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/2bWrXd5h6KsC5Mto1f8bGf"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/25V5G0rMx9BWjhJMtOtlUw"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200147,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/33F3BR4N8wYtSZrJyKa9Pc"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/6jBD9kG6Ey9aZ2wy7Exwms"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/3jHssU22YrB5v9swSpuTyr"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/1wNqNP2pFo9PHNJZ4jmFQM"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0e5xc0NhC8ijMtVlH3LHl8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 27",
+        "url": "https://open.spotify.com/album/6Othi4jGVwb5Ftpwg6p4aF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/3iGsz8eT5puXh7fCo6H1C0"
+    },
+    {
+      "album": {
+        "name": "If I Can\u2019t Have You",
+        "url": "https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/4i9Rck1BrhdhiMadghoBh2"
+    },
+    {
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/4JVa6o1FQmGveuqb8OCEaZ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206012,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/7uUoIcJ1AtYuU9TW7eqsgh"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/7xeLaqRjeRvZtrsXPY3tob"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Break Up With Your Girlfriend, I'm Bored",
+      "url": "https://open.spotify.com/track/3sZaj5Dk3X4Jbq7JOxuYRL"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166898,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/5Psnv5I8JbiDvUADoRGTSW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 39 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Wd2OFVCVNm7OuwvtBydAT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Breathin",
+      "url": "https://open.spotify.com/track/6zsIqv0Jg6NuUcu4dwuJeV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183068,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/14EbA7Q8QhlrnlCanoD9iV"
+    },
+    {
+      "album": {
+        "name": "Butter",
+        "url": "https://open.spotify.com/album/5pj3zCJ1R5HnOsEwePVqN1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/3p1amIF17ryE70SnlK33eH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/7bmmPk5iDa4dVXRO6sGYXY"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/3JEL1FiSJYmAXmP4sKFSPD"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Can't Stop The Feeling!",
+      "url": "https://open.spotify.com/track/24RzM18cc4WMWwLCUhSkgy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Castle On The Hill",
+      "url": "https://open.spotify.com/track/5pt79ryWBYcXoL00zUi2h4"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/3EJp4dfSKIedIs5hdDife2"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/4vhc13Zr7Gbm721ldatzmr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/2yZa7VMSMsVekXjCvvlWhr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157266,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/5IrI18dBmWwvXfnrkyq2Ug"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/2VKacNvg7haZMLks1dUJpV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2yHbz21uTypbfv0CCQnfGW"
+    },
+    {
+      "album": {
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/3GsSaZnRS5U0IMvZmHNQ5d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/21wShvRGwZ3V12W786LplP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/15SPgMBrdO1QYl7SdMYFv8"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/2B40LQCDmhCvzvbCbEIeti"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168920,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/1WNqENtQ0P78VbrR1P29Am"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 27",
+        "url": "https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/4AVD73VlA51dr7bZVGOCuY"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 25",
+        "url": "https://open.spotify.com/album/1NDPqfE7xMA826wRfkmVJ3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126533,
+      "name": "Cups",
+      "url": "https://open.spotify.com/track/3hargi3xJHnCTw0H26nV2N"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172473,
+      "name": "Cuz I Love You",
+      "url": "https://open.spotify.com/track/4WmRC5ickQdEzf01vUq2w2"
+    },
+    {
+      "album": {
+        "name": "Dance Monkey",
+        "url": "https://open.spotify.com/album/6bTCZndNGeIrEYNq2jz6rm"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/0vYDq7sxxolzNLZv2KOFKd"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/0glgQAdemitAFAPEidey2p"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/2RUPGWHzWMM0YVAHNBvO6m"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me Up",
+        "url": "https://open.spotify.com/album/6FFP7as66B3nER10kdZyns"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159725,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/0do4cBQQj2zkiAhSG8rIZW"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Play",
+        "url": "https://open.spotify.com/album/4XpLGDeDtckAyynJztiFBC"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191396,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/6xFc0ANzlLgr0p3V3NeaZH"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Don\u2019t Let Me Down",
+      "url": "https://open.spotify.com/track/0yTGOMRv5oWECS6wqqQXOJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Don\u2019t Wanna Know",
+      "url": "https://open.spotify.com/track/6gENBnJkfS5xq1jzTqC0fg"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "Drag Me Down",
+      "url": "https://open.spotify.com/track/2apgv0sYuBqHPjRX1tF3PP"
+    },
+    {
+      "album": {
+        "name": "Drivers License",
+        "url": "https://open.spotify.com/album/52Lus3aDyQ3kswA4ANU67Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Drivers License",
+      "url": "https://open.spotify.com/track/5UbCk6tmzScVttHGvHJI2N"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/7KJU5kPZe3UhmPaaPEONrA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198679,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3QM0lGanZiKZpfQCqFRWgw"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/5xCqjI9lDCfsmqvxEjs6A1"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 39 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Wd2OFVCVNm7OuwvtBydAT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/4AgN4aM1nWK2tBGfUF8Ypu"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/4KjANrFBKn4gDa3xzkOs8P"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0fqAc3sysivgm4WtQhpwXO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/075ZkPKUhJBhCewYUTLYhP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "Everything Is Awesome!!!",
+      "url": "https://open.spotify.com/track/3UPYVL9OwAwkRZ18TyI3Zn"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Ex's and Oh's",
+      "url": "https://open.spotify.com/track/7oDvv7NvGGOLs9JQj8spuG"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/1S3pCrr8YCODTOUCiSpiuf"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155096,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/7639Kxry8ZPnnJhnjBuNId"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 27",
+        "url": "https://open.spotify.com/album/6Othi4jGVwb5Ftpwg6p4aF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3ToKL9qsj2jsw3yNsZ58rj"
+    },
+    {
+      "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/1ehUXlTzr8do0r4CIi4ECY"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210401,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/7hJTtScfftABTyjU4Ek3nX"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/02NQLQzsXIOFAO5QSIvSn4"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140955,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3tkBrXOx3LGwtAgSq09JaP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/2yiY9Rw9AEQT7zyslMqBNf"
+    },
+    {
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/05Ng6rWDWriqKF4EiHW9ru"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/1f4ZFB7M8wD1nXKjAxW57q"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130367,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/4VmM1zo7Lvmu4gj18OvY3O"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Gangnam Style",
+      "url": "https://open.spotify.com/track/7rTWz26HEryeqvpD2VwHZB"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137640,
+      "name": "GDFR",
+      "url": "https://open.spotify.com/track/385kYCdxGw3GrwDe84P9IE"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205866,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/435mhbcweLXXKZOIVay4qH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/7kEknr0RDlFdnQTa2S1Z1j"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 24",
+        "url": "https://open.spotify.com/album/2N60MpD5FLy6PRQ9ChG6oH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Girl On Fire",
+      "url": "https://open.spotify.com/track/1CUevdCoG7kb4qGgPlacP5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/2f7RXZkNKF0iWQiKamxbIr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0ctb6iU1vA2IQ0Q7uhnhyN"
+    },
+    {
+      "album": {
+        "name": "Good 4 U",
+        "url": "https://open.spotify.com/album/5RQDTCcp9XAI7lUqzG6mC6"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/3vZI1Oe6wPJKIHP0fP4z8F"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Monsters & Goosebumps",
+        "url": "https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141777,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2W9uqvkSUyhtYU4QHNtHjA"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3bBVGKs0efN45YGAVoBfCy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 37",
+        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j"
+    },
+    {
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/0EqjjiGf13tfAv1kPfsnwF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/2sHKcrZBckCroQWtUFPbrh"
+    },
+    {
+      "album": {
+        "name": "Head & Heart",
+        "url": "https://open.spotify.com/album/7wKqRHiQtENFdq6CRk70wn"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168999,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/7nYHHbyTiFEy760Wy07eLe"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157453,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5gY5Tixu6wV6V1EJIQ3zNI"
+    },
+    {
+      "album": {
+        "name": "If I Can\u2019t Have You",
+        "url": "https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Hey Look Ma, I Made It",
+      "url": "https://open.spotify.com/track/6EJrfpisIxba7EgbcTBNz2"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/03zjI8If9AronLXSgsAxa6"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Ultimate Hits",
+        "url": "https://open.spotify.com/album/30kv9MgYXcDI5ynIlfWsML"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Hey Soul Sister",
+      "url": "https://open.spotify.com/track/6Our8o7AiqE8DOWJrULurO"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1BLQ9Ms6x4EkXrIhmI7IT2"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Honey, I'm Good",
+      "url": "https://open.spotify.com/track/2EKr4UPBOCxmdgEnLIjE8P"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6urtuYSi0mjxqZS9Nr88It"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/2mqrs0rKVfldonic7ypVWh"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1DVdHvrk06tW5tbsJCkVFU"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Hits",
+        "url": "https://open.spotify.com/album/47csFKsG8K1WEQMBUiBEeL"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2aQpS6x3MBXAtnoHHI0wWy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/162mLj1BZaLlb1oD11I3k6"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "I Want You to Know",
+      "url": "https://open.spotify.com/track/58xnrkgMOjW66kJtN9sDl6"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/253LQdnZTDd0HddPoREscR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160080,
+      "name": "I'm So Tired...",
+      "url": "https://open.spotify.com/track/0cRCAhaVepKpnN6cDJ7H6R"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "I've Been Waiting",
+      "url": "https://open.spotify.com/track/3wGH1VUinFXAdOhpGuqS7E"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/1WIBXNqTOr8xqvhvagVtAH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "ily (i love you baby)",
+      "url": "https://open.spotify.com/track/1AijjSH5B1JZN8k1E7U2QV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/2nPRJ1sJLgUKSZrTo5Xd6W"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/5GJkaptoXzXzZ3NUw8MJy9"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220354,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/50CKF4Qi2k5wYJtLlwj2mI"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/4LyjoXBM9xPSRUQX8rdqkL"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165279,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/1w8WFf0FCkCNilBWGQVbUz"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163921,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/27MDvMekkmi0PivLqHSRfx"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/3jFWv2BqgGmp9ablyE1PK5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "It's Your Birthday",
+      "url": "https://open.spotify.com/track/5ZyfAb0o6FPnIZaA7tpzVM"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4VCZkci3woSEKkMwohfbLa"
+    },
+    {
+      "album": {
+        "name": "Juju On That Beat",
+        "url": "https://open.spotify.com/album/3tvSTCRH7FsJRc4i3SjbHv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128560,
+      "name": "Juju On That Beat",
+      "url": "https://open.spotify.com/track/0CTtuk7cXzcY5G3j6A3Htn"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "Just Got Paid",
+      "url": "https://open.spotify.com/track/0aIiJAPfxeB1qF4pbo4cGp"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+    },
+    {
+      "album": {
+        "name": "La Canci\u00f2n",
+        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "La Canci\u00f2n",
+      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158506,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/36iY5792JQZwzqJqfsNCaJ"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228746,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7m4nm70iS1GyZCIyvv4Lco"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0OpIRcElndLLm7jiTAA8eE"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Lips Are Movin",
+      "url": "https://open.spotify.com/track/6wHbprLz4EEBrItmSrS8NU"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190951,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2Pr4obublCnAFrec6Qq4lQ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 39 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Wd2OFVCVNm7OuwvtBydAT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Lost In Japan",
+      "url": "https://open.spotify.com/track/7wSfi9zizYiJ572cWq21vz"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/3ivJih3lAL774STV28v0r6"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206430,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/5Uae0Q3kmIVqrQUvWOMd7B"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176813,
+      "name": "MAKE SOME NOISE!",
+      "url": "https://open.spotify.com/track/2wUsOEYF9M8d56PcfhkXiF"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203266,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/0BH63TJgkEj8zKhBYM1M8d"
+    },
+    {
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/7uMQkBcRuS15XfdQ7C6dd3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191959,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/6BNGZGr0DktTX8RgXyz9pW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "me & ur ghost - US Version",
+      "url": "https://open.spotify.com/track/77UH1vblS56pqs9tVCkO6m"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/2xpHaFoallE1cEuyo9lawS"
+    },
+    {
+      "album": {
+        "name": "ME!",
+        "url": "https://open.spotify.com/album/1N84rNXQs87waWvPfNuEbq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "ME!",
+      "url": "https://open.spotify.com/track/5H68zLiXXQ48AB0aW6xs8W"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187113,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2R2alhmtiFv0zDwZEPvsG3"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2XzmJ4Xn5OdjvRHtHwJyd6"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/2KtrPdCrJJ7uJc6GNWDVjy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/2zvUbHRNbt7pcmf7zZH6X8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3bqwFpaMJ3cXRicPEqd1FW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Monsters & Goosebumps",
+        "url": "https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152531,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136569,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6Dpvk8uvQyrpyCiqG46E2d"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/2yKqWNvjhsPIHUevvXI2X6"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/5bv7kd7qy62Rl892AgHgd7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Moves Like Jagger",
+      "url": "https://open.spotify.com/track/3z9AB8vUhLrSHuFonCkNgw"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2g1iTkEs0VizCLGrkdzInK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205826,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/6ekMu8hU06ARmgBXFRmwYe"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/17DaNTlAY4qPjLJcalrCnD"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 39 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Wd2OFVCVNm7OuwvtBydAT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "No Brainer",
+      "url": "https://open.spotify.com/track/4JWhdTAmw3iOIOITldcy0n"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/3zZhpLd0X1MSLqvfiaFsre"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Nothing Breaks Like A Heart - US Version",
+      "url": "https://open.spotify.com/track/5TqfQ5U7SumwYrIMERVniU"
+    },
+    {
+      "album": {
+        "name": "Old Town Road",
+        "url": "https://open.spotify.com/album/4BAx7hzmBgjaGxs62oWcBn"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110346,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/3QpAo1aiTUVgsQBR8KmNHO"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/2zxUrCXazprsC7oOmAFgJe"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/0Mpgs2N5kVCrkqEcIIw6aV"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/3QNbdMKaud7dzPwPnfZNit"
+    },
+    {
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/5wMUxEAX1APPs9PKKwMlhf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117319,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/7LZXuhXXN03F1ndyQOzAZt"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/6jbHmuPvdELDl12KBSgsWD"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4eNbQ2QB3CVlMTzpzp3fuv"
+    },
+    {
+      "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/3o7jSgGFBcmCDAB9Fh5UfV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/2GcdfWGil49CTVzkOuvoNa"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/76qogBo9ZHJV4kHxWna5Qy"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Reggaet\u00f3n Lento",
+      "url": "https://open.spotify.com/track/1gyxTvxSZRxvn9fnoBY1gd"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 31",
+        "url": "https://open.spotify.com/album/5wZgeat7Y8E8dQP1F6hz42"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/4igKLrbLD2ZWWyVFilRSbo"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/6j7wThdlnSDdQHBfG1g51I"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/44blRNiipXlYR5O2eK9hzS"
+    },
+    {
+      "album": {
+        "name": "RITMO",
+        "url": "https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203519,
+      "name": "RITMO",
+      "url": "https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/670DehuXUvXSt7JX69BM1m"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 25",
+        "url": "https://open.spotify.com/album/1NDPqfE7xMA826wRfkmVJ3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/3eQpf8qLpqeHONYOjHH7R1"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 27",
+        "url": "https://open.spotify.com/album/6Othi4jGVwb5Ftpwg6p4aF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/3hSdAOIYEei9Gb9TP3w6UO"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/4kULemHPSiUKR8pq5oMjYu"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Rumour Has It",
+      "url": "https://open.spotify.com/track/1pl6PjgoyVuI5v553XO112"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Same Old Love",
+      "url": "https://open.spotify.com/track/0tSSu5nGF7Q6h9SNQwJAaf"
+    },
+    {
+      "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/0lLRDdi2OIFdczUdXZDYxP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170239,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/1kh71JiICbieS5mLdNzXyG"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187039,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/3S024kUI4pWKjmMPTu6bad"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Send My Love",
+      "url": "https://open.spotify.com/track/4qByrfXWzbj8Dmzd4LCzue"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6W5m2Xiabeu5NlhaplIl5D"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/2nf8SNVB5RbiOOayewJk1K"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/2de01LX2JCvsULDiZcmjFP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209346,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/4YTrXspnFsoKPIbK86Inhz"
+    },
+    {
+      "album": {
+        "name": "Shout Out To My Ex",
+        "url": "https://open.spotify.com/album/33xDDijCDwvaJ18D2bWdSg"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Shout Out To My Ex",
+      "url": "https://open.spotify.com/track/76lyNzw8wfegkVwF6xrWn8"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/0hmDx0YEZ15ooHHSWV90X0"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Sit Still, Look Pretty",
+      "url": "https://open.spotify.com/track/6aWv0cSQWrT2o3rqGhWEZJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4pOzzuXzniacK94vRP2b7m"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/6AYpIvWYcQZ1RXEic9L9eX"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6CgvLgw76mSC1oxKZ7ADmY"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/4beiC4EtRtovImB28vhtYk"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139840,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2IKHl3w9vstJH5bGuFOKnf"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5zLQvYw5L6deZ17kJyFc1W"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220437,
+      "name": "Stuck With U",
+      "url": "https://open.spotify.com/track/65MYefLJNESKpALeupGmFG"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/5KxGMX9yuctWnWrt0Mbggs"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/00RRqta7TN5R4HYWRVIKhe"
+    },
+    {
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/2tmMoAd2UXHtfoF35G08I9"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/3ynBdoO14ybiMn5laUGLqK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 29",
+        "url": "https://open.spotify.com/album/1i9FDCAKwfdcgN2pceudma"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1zzOlh3bSoLbM41CHeagML"
+    },
+    {
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/0cyEvpZ9aY7uiHKyeShtPa"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158519,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/1z9T4ooU6WfxDJMOwKHkuE"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/7xeLaqRjeRvZtrsXPY3tob"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162946,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6Mh1JHzFXhO2j6FDFrTkJ0"
+    },
+    {
+      "album": {
+        "name": "Supalonely",
+        "url": "https://open.spotify.com/album/7KYdXZ4O2Ur98LM9q4AVNk"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178492,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/0iSFkAGpUBYfNTDO1yPTHv"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7IczUNKOQ8Qx6CVw2sOWK5"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/5KJJsJxaVdoTMWoD30ciXy"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/40hqJWrPrL52pfZBhAQ1Dv"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Thank U, Next",
+      "url": "https://open.spotify.com/track/2ib7ZSf7JoaATNW6YjnJQo"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/6r6cCBdOYVDJWxWXN3tHIj"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "That\u2019s My Girl",
+      "url": "https://open.spotify.com/track/0OREflTP5IjjivoOmEoXR5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177294,
+      "name": "The Bones - US Version",
+      "url": "https://open.spotify.com/track/6ZmED3SkDaibDLP081MwZw"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "The Fox (What Does The Fox Say?)",
+      "url": "https://open.spotify.com/track/0yJxhzJ0NcW3wcNuHhX2QD"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/0ULpTH368zOwAgnPkxfSqR"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/4W63PdwxlreSGoEZg6e7FJ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/7cMgIormqvWF2pSlJg0IKM"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 35",
+        "url": "https://open.spotify.com/album/2ZV86caU22YKFpJVSn9GXE"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Thinking Out Loud",
+      "url": "https://open.spotify.com/track/6AdgEje8a8OQUQ1qJfe9j2"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/6dfYPoJRF1AM1yaTv17OLn"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/7jezqtj2lhxqeYAl9DMxka"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 34",
+        "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/47Ha5csY3c2DB3LMhzmwle"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2fUGb65Yc3cW1ysPebBtvg"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Ultimate Hits",
+        "url": "https://open.spotify.com/album/47csFKsG8K1WEQMBUiBEeL"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Tik Tok",
+      "url": "https://open.spotify.com/track/6hTDWjOH1v4nwBkozjlaJO"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 26",
+        "url": "https://open.spotify.com/album/0glgQAdemitAFAPEidey2p"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/0eSIxTu8qdm1AXpfBTJ9Up"
+    },
+    {
+      "album": {
+        "name": "Toosie Slide",
+        "url": "https://open.spotify.com/album/6W3YhNVmv0NnrftLGKhCPN"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183799,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/76UZm165d0jEQkDRKp4iK1"
+    },
+    {
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/4nwy1TZpVSYvtPeKy6RKmP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185092,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/0zgYADHtKBRxMYqsjCu3hm"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/0R9XoR6YH5nOptPFwVxd1o"
+    },
+    {
+      "album": {
+        "name": "Truth Hurts",
+        "url": "https://open.spotify.com/album/0NSleBYSq9pSxDqHrS9xnt"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/4JzAcIjtO0yQ3refHgCWfE"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 33",
+        "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/0QzLuNnWeOahQsz7hHfvHf"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Greatest Hits!",
+        "url": "https://open.spotify.com/album/7ou3RyZWPqkdA7laIpsO6Y"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/4XeaYPTgaleZ2WFAKf9uVE"
+    },
+    {
+      "album": {
+        "name": "Walk Me Home",
+        "url": "https://open.spotify.com/album/6mxOggBSVCOeazrjdKoGHm"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/3HPRqipXPgSKMYfwNnN5GR"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155266,
+      "name": "Watch Me (Whip / Nae Nae)",
+      "url": "https://open.spotify.com/track/2kJqmtDEyykUDdjfamKKlV"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5pSAbHhJFKhrxcoeyfJFmj"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 23",
+        "url": "https://open.spotify.com/album/0mWpeQ5FiYBVWnPRzRjYwQ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "We Are Never Ever Getting Back Together",
+      "url": "https://open.spotify.com/track/6AAXcOaBjvuq0RpPGULq5r"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177356,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/7xEmet7Q7e1tWhhFz7FtBp"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4EXFpkb5us87KDMOg1R00k"
+    },
+    {
+      "album": {
+        "name": "If I Can\u2019t Have You",
+        "url": "https://open.spotify.com/album/35gu6fn5CJIsME3dTqQSaV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "When The Party's Over",
+      "url": "https://open.spotify.com/track/76mXa7siHyqnjtfWGRcg51"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Where Are \u00dc Now",
+      "url": "https://open.spotify.com/track/2uBNzARLrGlITfKljfVFJr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/519eXuXDOHsb7SAIkBWEOy"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 31",
+        "url": "https://open.spotify.com/album/13C9NtzzO8K8m9qrAHv3qv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6bzhbN9L14Mp4KV1Pnc4n7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/0R6nFNa6SFnpslvU7DBa5F"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/0LmNg9pqYhCyuMriBekb3z"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 30",
+        "url": "https://open.spotify.com/album/3RvMWeDjgS1M7RmbEyQzK2"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/1am8HpiaiMLS4TcDxAra09"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/0uiYBV1Ja2ni1C0ovthBxf"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/0xGtQXLv0WYYXAopurQ7Qh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP World Tour",
+        "url": "https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/47SbZWvcfOAgzfAHzMWvdk"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "\u00c9chame la Culpa",
+      "url": "https://open.spotify.com/track/7M5jZ6i0vb3Ni5o56TN4CN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWi0hHcPHnic"
 }

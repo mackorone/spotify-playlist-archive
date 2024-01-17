@@ -1,620 +1,2091 @@
 {
-  "2022-04-20": 47524,
-  "2022-04-21": 47562,
-  "2022-04-22": 47611,
-  "2022-04-23": 47686,
-  "2022-04-24": 47741,
-  "2022-04-25": 47781,
-  "2022-04-26": 47824,
-  "2022-04-27": 47910,
-  "2022-04-28": 47961,
-  "2022-04-29": 48070,
-  "2022-04-30": 48142,
-  "2022-05-01": 48208,
-  "2022-05-02": 48208,
-  "2022-05-03": 48249,
-  "2022-05-04": 48315,
-  "2022-05-05": 48350,
-  "2022-05-06": 48403,
-  "2022-05-07": 48452,
-  "2022-05-08": 48524,
-  "2022-05-09": 48526,
-  "2022-05-10": 48563,
-  "2022-05-11": 48622,
-  "2022-05-12": 48651,
-  "2022-05-13": 48692,
-  "2022-05-14": 48740,
-  "2022-05-15": 48781,
-  "2022-05-16": 48826,
-  "2022-05-17": 48860,
-  "2022-05-18": 48876,
-  "2022-05-19": 48913,
-  "2022-05-20": 48962,
-  "2022-05-21": 49057,
-  "2022-05-22": 49057,
-  "2022-05-23": 49120,
-  "2022-05-24": 49153,
-  "2022-05-25": 49202,
-  "2022-05-26": 49239,
-  "2022-05-27": 49264,
-  "2022-05-28": 49293,
-  "2022-05-29": 49332,
-  "2022-05-30": 49381,
-  "2022-05-31": 49432,
-  "2022-06-01": 49509,
-  "2022-06-02": 49515,
-  "2022-06-03": 49553,
-  "2022-06-04": 49576,
-  "2022-06-05": 49594,
-  "2022-06-06": 49619,
-  "2022-06-07": 49657,
-  "2022-06-08": 49691,
-  "2022-06-09": 49728,
-  "2022-06-10": 49775,
-  "2022-06-11": 49813,
-  "2022-06-12": 49850,
-  "2022-06-13": 49891,
-  "2022-06-14": 49928,
-  "2022-06-15": 49970,
-  "2022-06-16": 49999,
-  "2022-06-17": 50047,
-  "2022-06-18": 50087,
-  "2022-06-19": 50193,
-  "2022-06-20": 50193,
-  "2022-06-21": 50240,
-  "2022-06-22": 50301,
-  "2022-06-23": 50301,
-  "2022-06-24": 50352,
-  "2022-06-25": 50373,
-  "2022-06-26": 50389,
-  "2022-06-27": 50414,
-  "2022-06-28": 50440,
-  "2022-06-29": 50477,
-  "2022-06-30": 50520,
-  "2022-07-01": 50559,
-  "2022-07-02": 50593,
-  "2022-07-03": 50622,
-  "2022-07-04": 50660,
-  "2022-07-05": 50708,
-  "2022-07-06": 50761,
-  "2022-07-07": 50795,
-  "2022-07-08": 50830,
-  "2022-07-09": 50859,
-  "2022-07-10": 50906,
-  "2022-07-11": 50940,
-  "2022-07-12": 50982,
-  "2022-07-13": 51027,
-  "2022-07-14": 51062,
-  "2022-07-15": 51115,
-  "2022-07-16": 51160,
-  "2022-07-17": 51214,
-  "2022-07-18": 51254,
-  "2022-07-19": 51294,
-  "2022-07-20": 51326,
-  "2022-07-21": 51356,
-  "2022-07-22": 51400,
-  "2022-07-23": 51437,
-  "2022-07-24": 51486,
-  "2022-07-25": 51554,
-  "2022-07-26": 51599,
-  "2022-07-27": 51655,
-  "2022-07-28": 51697,
-  "2022-07-29": 51747,
-  "2022-07-30": 51847,
-  "2022-07-31": 51847,
-  "2022-08-01": 51912,
-  "2022-08-02": 51999,
-  "2022-08-03": 51999,
-  "2022-08-04": 52057,
-  "2022-08-05": 52097,
-  "2022-08-06": 52155,
-  "2022-08-07": 52191,
-  "2022-08-08": 52247,
-  "2022-08-09": 52314,
-  "2022-08-10": 52353,
-  "2022-08-11": 52383,
-  "2022-08-12": 52430,
-  "2022-08-13": 52475,
-  "2022-08-14": 52513,
-  "2022-08-15": 52572,
-  "2022-08-16": 52616,
-  "2022-08-17": 52666,
-  "2022-08-18": 52705,
-  "2022-08-19": 52737,
-  "2022-08-20": 52801,
-  "2022-08-21": 52829,
-  "2022-08-22": 52865,
-  "2022-08-23": 52892,
-  "2022-08-24": 52934,
-  "2022-08-25": 52991,
-  "2022-08-26": 53021,
-  "2022-08-27": 53082,
-  "2022-08-28": 53118,
-  "2022-08-29": 53161,
-  "2022-08-30": 53157,
-  "2022-08-31": 53091,
-  "2022-09-01": 53009,
-  "2022-09-02": 53048,
-  "2022-09-03": 52998,
-  "2022-09-04": 52858,
-  "2022-09-05": 52804,
-  "2022-09-06": 52852,
-  "2022-09-07": 52889,
-  "2022-09-09": 52990,
-  "2022-09-10": 53035,
-  "2022-09-11": 53072,
-  "2022-09-12": 53093,
-  "2022-09-13": 53133,
-  "2022-09-15": 53205,
-  "2022-09-16": 53251,
-  "2022-09-17": 53282,
-  "2022-09-18": 53327,
-  "2022-09-19": 53387,
-  "2022-09-20": 53436,
-  "2022-09-21": 53483,
-  "2022-09-22": 53522,
-  "2022-09-23": 53553,
-  "2022-09-24": 53579,
-  "2022-09-25": 53632,
-  "2022-09-26": 53686,
-  "2022-09-27": 53717,
-  "2022-09-28": 53748,
-  "2022-09-29": 53784,
-  "2022-09-30": 53806,
-  "2022-10-01": 53834,
-  "2022-10-02": 53869,
-  "2022-10-03": 53927,
-  "2022-10-04": 53976,
-  "2022-10-05": 54019,
-  "2022-10-06": 54073,
-  "2022-10-07": 54107,
-  "2022-10-08": 54149,
-  "2022-10-09": 54263,
-  "2022-10-10": 54274,
-  "2022-10-11": 54316,
-  "2022-10-12": 54360,
-  "2022-10-13": 54400,
-  "2022-10-14": 54424,
-  "2022-10-15": 54464,
-  "2022-10-16": 54518,
-  "2022-10-17": 54576,
-  "2022-10-18": 54628,
-  "2022-10-19": 54662,
-  "2022-10-20": 54707,
-  "2022-10-21": 54759,
-  "2022-10-22": 54808,
-  "2022-10-23": 54847,
-  "2022-10-24": 54908,
-  "2022-10-25": 54951,
-  "2022-10-26": 55003,
-  "2022-10-27": 55035,
-  "2022-10-28": 55085,
-  "2022-10-29": 55132,
-  "2022-10-30": 55171,
-  "2022-10-31": 55201,
-  "2022-11-01": 55256,
-  "2022-11-02": 55304,
-  "2022-11-03": 55338,
-  "2022-11-04": 55372,
-  "2022-11-05": 55416,
-  "2022-11-06": 55464,
-  "2022-11-07": 55511,
-  "2022-11-08": 55549,
-  "2022-11-09": 55597,
-  "2022-11-10": 55616,
-  "2022-11-11": 55656,
-  "2022-11-12": 55706,
-  "2022-11-13": 55739,
-  "2022-11-14": 55798,
-  "2022-11-15": 55838,
-  "2022-11-16": 55878,
-  "2022-11-17": 55938,
-  "2022-11-18": 55948,
-  "2022-11-19": 55922,
-  "2022-11-20": 55932,
-  "2022-11-21": 55968,
-  "2022-11-22": 56110,
-  "2022-11-23": 56085,
-  "2022-11-24": 56181,
-  "2022-11-25": 56291,
-  "2022-11-26": 56356,
-  "2022-11-27": 56423,
-  "2022-11-28": 56473,
-  "2022-11-29": 56539,
-  "2022-11-30": 56577,
-  "2022-12-01": 56617,
-  "2022-12-02": 56676,
-  "2022-12-03": 56700,
-  "2022-12-04": 56770,
-  "2022-12-05": 56829,
-  "2022-12-06": 56873,
-  "2022-12-07": 56922,
-  "2022-12-08": 56974,
-  "2022-12-09": 57015,
-  "2022-12-10": 57047,
-  "2022-12-11": 57093,
-  "2022-12-12": 57145,
-  "2022-12-13": 57189,
-  "2022-12-14": 57255,
-  "2022-12-15": 57302,
-  "2022-12-16": 57338,
-  "2022-12-17": 57383,
-  "2022-12-18": 57437,
-  "2022-12-19": 57495,
-  "2022-12-20": 57606,
-  "2022-12-21": 57606,
-  "2022-12-22": 57662,
-  "2022-12-24": 57749,
-  "2022-12-25": 57791,
-  "2022-12-26": 57842,
-  "2022-12-27": 57887,
-  "2022-12-28": 57931,
-  "2022-12-29": 57982,
-  "2022-12-30": 58041,
-  "2022-12-31": 58104,
-  "2023-01-01": 58166,
-  "2023-01-02": 58218,
-  "2023-01-03": 58274,
-  "2023-01-04": 58343,
-  "2023-01-05": 58390,
-  "2023-01-06": 58458,
-  "2023-01-07": 58535,
-  "2023-01-08": 58552,
-  "2023-01-09": 58606,
-  "2023-01-10": 58659,
-  "2023-01-11": 58714,
-  "2023-01-12": 58778,
-  "2023-01-13": 58841,
-  "2023-01-14": 58932,
-  "2023-01-15": 58955,
-  "2023-01-16": 59010,
-  "2023-01-17": 59074,
-  "2023-01-18": 59133,
-  "2023-01-19": 59192,
-  "2023-01-20": 59232,
-  "2023-01-21": 59298,
-  "2023-01-22": 59361,
-  "2023-01-23": 59441,
-  "2023-01-24": 59507,
-  "2023-01-25": 59563,
-  "2023-01-26": 59615,
-  "2023-01-27": 59667,
-  "2023-01-28": 59712,
-  "2023-01-29": 59756,
-  "2023-01-30": 59823,
-  "2023-01-31": 59823,
-  "2023-02-01": 59928,
-  "2023-02-02": 59983,
-  "2023-02-03": 60043,
-  "2023-02-04": 60091,
-  "2023-02-05": 60143,
-  "2023-02-06": 60191,
-  "2023-02-07": 60226,
-  "2023-02-08": 60324,
-  "2023-02-09": 60324,
-  "2023-02-10": 60365,
-  "2023-02-11": 60383,
-  "2023-02-12": 60486,
-  "2023-02-13": 60535,
-  "2023-02-14": 60535,
-  "2023-02-15": 60589,
-  "2023-02-16": 60640,
-  "2023-02-17": 60675,
-  "2023-02-18": 60775,
-  "2023-02-19": 60787,
-  "2023-02-20": 60820,
-  "2023-02-21": 60881,
-  "2023-02-22": 60902,
-  "2023-02-23": 60943,
-  "2023-02-24": 60996,
-  "2023-02-25": 61052,
-  "2023-02-26": 61080,
-  "2023-02-27": 61169,
-  "2023-02-28": 61169,
-  "2023-03-01": 61210,
-  "2023-03-02": 61246,
-  "2023-03-03": 61304,
-  "2023-03-04": 61355,
-  "2023-03-05": 61436,
-  "2023-03-06": 61436,
-  "2023-03-07": 61492,
-  "2023-03-08": 61549,
-  "2023-03-09": 61610,
-  "2023-03-10": 61662,
-  "2023-03-11": 61726,
-  "2023-03-12": 61784,
-  "2023-03-13": 61825,
-  "2023-03-14": 61873,
-  "2023-03-15": 61902,
-  "2023-03-16": 61930,
-  "2023-03-17": 61930,
-  "2023-03-18": 62000,
-  "2023-03-19": 62037,
-  "2023-03-20": 62086,
-  "2023-03-21": 62132,
-  "2023-03-22": 62172,
-  "2023-03-23": 62215,
-  "2023-03-24": 62215,
-  "2023-03-25": 62277,
-  "2023-03-26": 62335,
-  "2023-03-27": 62390,
-  "2023-03-28": 62437,
-  "2023-03-29": 62475,
-  "2023-03-30": 62561,
-  "2023-03-31": 62561,
-  "2023-04-01": 62607,
-  "2023-04-02": 62646,
-  "2023-04-03": 62688,
-  "2023-04-04": 62723,
-  "2023-04-05": 62761,
-  "2023-04-06": 62792,
-  "2023-04-07": 62831,
-  "2023-04-09": 62909,
-  "2023-04-10": 62955,
-  "2023-04-11": 63035,
-  "2023-04-12": 63035,
-  "2023-04-13": 63074,
-  "2023-04-14": 63104,
-  "2023-04-15": 63143,
-  "2023-04-16": 63190,
-  "2023-04-17": 63221,
-  "2023-04-18": 63257,
-  "2023-04-19": 63292,
-  "2023-04-20": 63338,
-  "2023-04-21": 63383,
-  "2023-04-22": 63433,
-  "2023-04-23": 63482,
-  "2023-04-24": 63511,
-  "2023-04-25": 63548,
-  "2023-04-26": 63595,
-  "2023-04-27": 63635,
-  "2023-04-28": 63669,
-  "2023-04-29": 63723,
-  "2023-04-30": 63762,
-  "2023-05-01": 63823,
-  "2023-05-02": 63877,
-  "2023-05-03": 63926,
-  "2023-05-04": 63972,
-  "2023-05-05": 64001,
-  "2023-05-06": 64042,
-  "2023-05-07": 64095,
-  "2023-05-08": 64136,
-  "2023-05-09": 64172,
-  "2023-05-10": 64213,
-  "2023-05-11": 64246,
-  "2023-05-12": 64292,
-  "2023-05-13": 64314,
-  "2023-05-14": 64366,
-  "2023-05-15": 64424,
-  "2023-05-16": 64451,
-  "2023-05-17": 64490,
-  "2023-05-18": 64531,
-  "2023-05-19": 64577,
-  "2023-05-20": 64662,
-  "2023-05-21": 64662,
-  "2023-05-22": 64662,
-  "2023-05-23": 64753,
-  "2023-05-24": 64818,
-  "2023-05-25": 64827,
-  "2023-05-26": 64857,
-  "2023-05-27": 64891,
-  "2023-05-28": 64931,
-  "2023-05-29": 64931,
-  "2023-05-30": 65007,
-  "2023-05-31": 65045,
-  "2023-06-01": 65087,
-  "2023-06-02": 65137,
-  "2023-06-03": 65173,
-  "2023-06-04": 65221,
-  "2023-06-05": 65262,
-  "2023-06-06": 65317,
-  "2023-06-07": 65349,
-  "2023-06-08": 65398,
-  "2023-06-09": 65447,
-  "2023-06-10": 65475,
-  "2023-06-11": 65512,
-  "2023-06-12": 65564,
-  "2023-06-13": 65615,
-  "2023-06-14": 65658,
-  "2023-06-15": 65717,
-  "2023-06-16": 65809,
-  "2023-06-17": 65847,
-  "2023-06-18": 65885,
-  "2023-06-19": 65939,
-  "2023-06-20": 65979,
-  "2023-06-21": 66025,
-  "2023-06-22": 66058,
-  "2023-06-23": 66092,
-  "2023-06-24": 66126,
-  "2023-06-25": 66181,
-  "2023-06-26": 66210,
-  "2023-06-27": 66241,
-  "2023-06-28": 66305,
-  "2023-06-29": 66335,
-  "2023-06-30": 66374,
-  "2023-07-01": 66441,
-  "2023-07-02": 66441,
-  "2023-07-03": 66467,
-  "2023-07-04": 66500,
-  "2023-07-05": 66545,
-  "2023-07-06": 66619,
-  "2023-07-07": 66619,
-  "2023-07-08": 66677,
-  "2023-07-09": 66744,
-  "2023-07-10": 66792,
-  "2023-07-11": 66828,
-  "2023-07-12": 66863,
-  "2023-07-13": 66879,
-  "2023-07-14": 66927,
-  "2023-07-15": 66939,
-  "2023-07-16": 66984,
-  "2023-07-17": 67020,
-  "2023-07-18": 67057,
-  "2023-07-19": 67103,
-  "2023-07-20": 67142,
-  "2023-07-21": 67175,
-  "2023-07-22": 67218,
-  "2023-07-23": 67269,
-  "2023-07-24": 67291,
-  "2023-07-25": 67334,
-  "2023-07-26": 67361,
-  "2023-07-27": 67395,
-  "2023-07-28": 67428,
-  "2023-07-29": 67456,
-  "2023-07-30": 67517,
-  "2023-07-31": 67560,
-  "2023-08-01": 67597,
-  "2023-08-02": 67613,
-  "2023-08-03": 67660,
-  "2023-08-04": 67692,
-  "2023-08-05": 67718,
-  "2023-08-06": 67803,
-  "2023-08-07": 67803,
-  "2023-08-08": 67842,
-  "2023-08-09": 67878,
-  "2023-08-10": 67920,
-  "2023-08-11": 67945,
-  "2023-08-12": 67991,
-  "2023-08-13": 68031,
-  "2023-08-14": 68079,
-  "2023-08-15": 68148,
-  "2023-08-16": 68148,
-  "2023-08-17": 68176,
-  "2023-08-18": 68212,
-  "2023-08-19": 68249,
-  "2023-08-20": 68285,
-  "2023-08-21": 68316,
-  "2023-08-22": 68336,
-  "2023-08-23": 68365,
-  "2023-08-24": 68416,
-  "2023-08-25": 68466,
-  "2023-08-26": 68507,
-  "2023-08-27": 68551,
-  "2023-08-28": 68593,
-  "2023-08-29": 68621,
-  "2023-08-30": 68658,
-  "2023-08-31": 68709,
-  "2023-09-01": 68785,
-  "2023-09-02": 68785,
-  "2023-09-03": 68809,
-  "2023-09-04": 68851,
-  "2023-09-05": 68886,
-  "2023-09-06": 68925,
-  "2023-09-07": 68962,
-  "2023-09-08": 68981,
-  "2023-09-09": 69016,
-  "2023-09-10": 69052,
-  "2023-09-11": 69079,
-  "2023-09-12": 69118,
-  "2023-09-13": 69157,
-  "2023-09-14": 69187,
-  "2023-09-15": 69227,
-  "2023-09-16": 69265,
-  "2023-09-17": 69300,
-  "2023-09-18": 69336,
-  "2023-09-19": 69371,
-  "2023-09-20": 69414,
-  "2023-09-21": 69450,
-  "2023-09-22": 69471,
-  "2023-09-23": 69508,
-  "2023-09-24": 69524,
-  "2023-09-25": 69548,
-  "2023-09-26": 69598,
-  "2023-09-27": 69609,
-  "2023-09-28": 69643,
-  "2023-09-29": 69678,
-  "2023-09-30": 69698,
-  "2023-10-01": 69721,
-  "2023-10-02": 69756,
-  "2023-10-03": 69781,
-  "2023-10-04": 69811,
-  "2023-10-05": 69825,
-  "2023-10-06": 69852,
-  "2023-10-07": 69863,
-  "2023-10-08": 69886,
-  "2023-10-09": 69908,
-  "2023-10-10": 69928,
-  "2023-10-11": 69972,
-  "2023-10-12": 69972,
-  "2023-10-13": 69976,
-  "2023-10-14": 70006,
-  "2023-10-15": 70028,
-  "2023-10-16": 70063,
-  "2023-10-17": 70090,
-  "2023-10-18": 70109,
-  "2023-10-19": 70127,
-  "2023-10-20": 70156,
-  "2023-10-21": 70187,
-  "2023-10-22": 70209,
-  "2023-10-23": 70245,
-  "2023-10-24": 70275,
-  "2023-10-25": 70309,
-  "2023-10-26": 70334,
-  "2023-10-27": 70370,
-  "2023-10-28": 70412,
-  "2023-10-29": 70429,
-  "2023-10-30": 70485,
-  "2023-10-31": 70485,
-  "2023-11-01": 70509,
-  "2023-11-02": 70527,
-  "2023-11-03": 70533,
-  "2023-11-04": 70550,
-  "2023-11-05": 70576,
-  "2023-11-06": 70603,
-  "2023-11-07": 70631,
-  "2023-11-08": 70660,
-  "2023-11-09": 70672,
-  "2023-11-10": 70703,
-  "2023-11-11": 70736,
-  "2023-11-12": 70758,
-  "2023-11-13": 70784,
-  "2023-11-14": 70811,
-  "2023-11-15": 70811,
-  "2023-11-16": 70864,
-  "2023-11-17": 70906,
-  "2023-11-18": 70906,
-  "2023-11-19": 70919,
-  "2023-11-20": 70947,
-  "2023-11-21": 70950,
-  "2023-11-22": 70986,
-  "2023-11-23": 71008,
-  "2023-11-24": 71051,
-  "2023-11-25": 71082,
-  "2023-11-26": 71102,
-  "2023-11-27": 71134,
-  "2023-11-28": 71158,
-  "2023-11-29": 71232,
-  "2023-11-30": 71232,
-  "2023-12-01": 71247,
-  "2023-12-02": 71268,
-  "2023-12-03": 71292,
-  "2023-12-04": 71304,
-  "2023-12-05": 71334,
-  "2023-12-06": 71359,
-  "2023-12-07": 71366,
-  "2023-12-08": 71387,
-  "2023-12-09": 71411,
-  "2023-12-10": 71435,
-  "2023-12-11": 71458,
-  "2023-12-12": 71488,
-  "2023-12-13": 71506,
-  "2023-12-14": 71533,
-  "2023-12-15": 71555,
-  "2023-12-16": 71582,
-  "2023-12-17": 71599,
-  "2023-12-18": 71615,
-  "2023-12-19": 71641,
-  "2023-12-20": 71664,
-  "2023-12-21": 71686,
-  "2023-12-22": 71715,
-  "2023-12-23": 71734,
-  "2023-12-24": 71776,
-  "2023-12-25": 71787,
-  "2023-12-26": 71813,
-  "2023-12-27": 71833,
-  "2023-12-30": 71914,
-  "2023-12-31": 71929,
-  "2024-01-01": 71958,
-  "2024-01-02": 71986,
-  "2024-01-03": 72027
+  "2024-01-17": 72409,
+  "date_first_scraped": "2022-04-20",
+  "description": "Listen Korea's classic & old songs from 70's to 80's. (70-80\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "Korean Old Vinyls (\ud1b5\uae30\ud0c0\uc640 LP\ud310)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Because I love you",
+        "url": "https://open.spotify.com/album/3LhZDQXnc7FF2mtoHoJMBC"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jae-Ha",
+          "url": "https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 380539,
+      "name": "Because I love you",
+      "url": "https://open.spotify.com/track/5rEDiL9cFpaTaLLcHRbecd"
+    },
+    {
+      "album": {
+        "name": "Because I love you",
+        "url": "https://open.spotify.com/album/3LhZDQXnc7FF2mtoHoJMBC"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jae-Ha",
+          "url": "https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293029,
+      "name": "My reflection in my mind",
+      "url": "https://open.spotify.com/track/3B4iBBOAuKEjGfvPIfU529"
+    },
+    {
+      "album": {
+        "name": "oneday II",
+        "url": "https://open.spotify.com/album/2LUhNhSyrYyrkJoJUiiusi"
+      },
+      "artists": [
+        {
+          "name": "\uc5b4\ub5a4\ub0a0",
+          "url": "https://open.spotify.com/artist/1DfZ34LYlp8Q1VWSgDietf"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "On Those Days",
+      "url": "https://open.spotify.com/track/0ACRegRh3QSjCGgWw7xtGV"
+    },
+    {
+      "album": {
+        "name": "Lee Sun Hee Best",
+        "url": "https://open.spotify.com/album/2l6SJR2R6pFzKOlrtJGq37"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212396,
+      "name": "Take to the Road",
+      "url": "https://open.spotify.com/track/7Dsj9oV6bd5jF0vIBwy92a"
+    },
+    {
+      "album": {
+        "name": "Lee Mi-Ja's Setereo Hit Song Selection 12th Album",
+        "url": "https://open.spotify.com/album/2VCClwONd2mvbtAYAz51iX"
+      },
+      "artists": [
+        {
+          "name": "Lee Mi Ja",
+          "url": "https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 186369,
+      "name": "The Street With The First Snow",
+      "url": "https://open.spotify.com/track/1CaH7l3RuuCHd6k3VsWiMk"
+    },
+    {
+      "album": {
+        "name": "Lee Mi-Ja's Setereo Hit Song Selection 12th Album",
+        "url": "https://open.spotify.com/album/1B4BQ8KWrGbyxBoj0XICuI"
+      },
+      "artists": [
+        {
+          "name": "Lee Mi Ja",
+          "url": "https://open.spotify.com/artist/3ZQ97tFlkn5moDjvgQ3kpZ"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186369,
+      "name": "The Street With The First Snow",
+      "url": "https://open.spotify.com/track/70zAAYzecX27gWNka6RM94"
+    },
+    {
+      "album": {
+        "name": "\ud669\uce58\ud6c81\uc9d1",
+        "url": "https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524"
+      },
+      "artists": [
+        {
+          "name": "\ud669\uce58\ud6c8",
+          "url": "https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286368,
+      "name": "\uac00\uc744\uc774\uc9c0\ub098\uac00\ub294\uae38\ubaa9\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/0F8VPFPd53OxPYiINjc9bF"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X"
+      },
+      "artists": [
+        {
+          "name": "Sim Soo Bong",
+          "url": "https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208901,
+      "name": "\uadf8 \ub54c \uadf8 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0"
+      },
+      "artists": [
+        {
+          "name": "Sim Soo Bong",
+          "url": "https://open.spotify.com/artist/3MruauOzN01CjMYEM2TFjn"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208901,
+      "name": "\uadf8 \ub54c \uadf8 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/2q2cITx9yh5HSxwiPpgHCl"
+    },
+    {
+      "album": {
+        "name": "\uadf8 \uc544\ud514\uae4c\uc9c0 \uc0ac\ub791\ud55c\uac70\uc57c",
+        "url": "https://open.spotify.com/album/55UfHK7SkjcooSkHtougQf"
+      },
+      "artists": [
+        {
+          "name": "Jo Jung Hyun",
+          "url": "https://open.spotify.com/artist/5pGIThF8jQKXCNkr9u8632"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237688,
+      "name": "\uadf8 \uc544\ud514\uae4c\uc9c0 \uc0ac\ub791\ud55c\uac70\uc57c",
+      "url": "https://open.spotify.com/track/2ghebdwe2pNXT4eL34T7pW"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 1\uc9d1 \ud589\uc9c4/\uc0ac\ub791\uc77c \ubfd0\uc57c",
+        "url": "https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326347,
+      "name": "\uadf8\uac83\ub9cc\uc774 \ub0b4 \uc138\uc0c1",
+      "url": "https://open.spotify.com/track/5fUHeKHYntekbkf6FybjLs"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 1\uc9d1 \ud589\uc9c4/\uc0ac\ub791\uc77c \ubfd0\uc57c",
+        "url": "https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326347,
+      "name": "\uadf8\uac83\ub9cc\uc774 \ub0b4 \uc138\uc0c1",
+      "url": "https://open.spotify.com/track/5uNi1Bq4218eVbntEgNhrn"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 \ubca0\uc2a4\ud2b8 12",
+        "url": "https://open.spotify.com/album/79XXFl2LKEPkDI5KoubwQM"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 329273,
+      "name": "\uadf8\uac83\ub9cc\uc774 \ub0b4 \uc138\uc0c1",
+      "url": "https://open.spotify.com/track/7cP3HQ2Dq5PvHT29jlpZMO"
+    },
+    {
+      "album": {
+        "name": "Forever Best 002",
+        "url": "https://open.spotify.com/album/23mZqETtmrzTpk01kzokmB"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212506,
+      "name": "\uadf8\ub300\uc548\uc758 \ube14\ub8e8",
+      "url": "https://open.spotify.com/track/4PjGQG8DlyaHO3ggP12obh"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub300\uc548\uc758 \ube14\ub8e8 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215875,
+      "name": "\uadf8\ub300\uc548\uc758 \ube14\ub8e8",
+      "url": "https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub300\uc548\uc758 \ube14\ub8e8 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ZYu5hwriRTarKVPtCG23O"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        },
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215875,
+      "name": "\uadf8\ub300\uc548\uc758 \ube14\ub8e8",
+      "url": "https://open.spotify.com/track/6z0rk521a5u6FHB8HHjXov"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd \ubca0\uc2a4\ud2b8 16",
+        "url": "https://open.spotify.com/album/5o5vwPToWY8ejFgB6u0WNX"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221866,
+      "name": "\uadf8\ub300\uc640 \ub2e8\ub458\uc774\uc11c",
+      "url": "https://open.spotify.com/track/6KWqjRRTDLFETfvIwK4AuN"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221988,
+      "name": "\uadf8\ub300\uc640 \ub2e8\ub458\uc774\uc11c",
+      "url": "https://open.spotify.com/track/2lveF3dx8NO8KNuZQ3u16l"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221988,
+      "name": "\uadf8\ub300\uc640 \ub2e8\ub458\uc774\uc11c",
+      "url": "https://open.spotify.com/track/2oI3jwkViwaERvhJ5JyCGJ"
+    },
+    {
+      "album": {
+        "name": "B.C 603",
+        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "\uae30\ub2e4\ub9b0 \ub0a0\ub3c4 \uc9c0\uc6cc\uc9c8 \ub0a0\ub3c4 Days Of Longing, Days To Be Forgotten",
+      "url": "https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182866,
+      "name": "\uae4a\uc740 \ubc24\uc744 \ub0a0\uc544\uc11c",
+      "url": "https://open.spotify.com/track/3Al8ZAfFrZshzgTI6IPeF1"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "\uae4a\uc740 \ubc24\uc744 \ub0a0\uc544\uc11c",
+      "url": "https://open.spotify.com/track/5vVL45nncczKCWS0uIQpzN"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0"
+      },
+      "artists": [
+        {
+          "name": "\uc0cc\ub4dc\ud398\ube14\uc988",
+          "url": "https://open.spotify.com/artist/0gpJgwuqFaMRC8BL14WVEZ"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283533,
+      "name": "\ub098 \uc5b4\ub5a1\ud574",
+      "url": "https://open.spotify.com/track/0G15m2DrgQGBB6raFluurk"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X"
+      },
+      "artists": [
+        {
+          "name": "\uc0cc\ub4dc\ud398\ube14\uc988",
+          "url": "https://open.spotify.com/artist/0gpJgwuqFaMRC8BL14WVEZ"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283533,
+      "name": "\ub098 \uc5b4\ub5a1\ud574",
+      "url": "https://open.spotify.com/track/1uPNKGSvDn6qGYvB7Nf4ZO"
+    },
+    {
+      "album": {
+        "name": "\ub098 \ud56d\uc0c1 \uadf8\ub300\ub97c",
+        "url": "https://open.spotify.com/album/3HoiIlaN0TJEWKA2rhy3rX"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 216685,
+      "name": "\ub098 \ud56d\uc0c1 \uadf8\ub300\ub97c",
+      "url": "https://open.spotify.com/track/5PSj7PGrGLASjPkdOL318I"
+    },
+    {
+      "album": {
+        "name": "4\uc9d1 \uc0ac\ub791\uc774 \uc9c0\ub294 \uc774 \uc790\ub9ac",
+        "url": "https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216842,
+      "name": "\ub098 \ud56d\uc0c1 \uadf8\ub300\ub97c",
+      "url": "https://open.spotify.com/track/3M0WcSADmchmaHOpTu3E2q"
+    },
+    {
+      "album": {
+        "name": "\uc7a5\ub355 \ucd94\ubaa8 \uc568\ubc94(\ud558\uc580\ub0a0 \ud558\uc597\uac8c \ub5a0\ub09c \uce5c\uad6c\uc5d0\uac8c)",
+        "url": "https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh"
+      },
+      "artists": [
+        {
+          "name": "\uc9c0\uc608",
+          "url": "https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226873,
+      "name": "\ub0a0 \ucc3e\uc9c0 \ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud558\uae30 \ub54c\ubb38\uc5d0",
+        "url": "https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jae-Ha",
+          "url": "https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293044,
+      "name": "\ub0b4 \ub9c8\uc74c\uc5d0 \ube44\uce5c \ub0b4 \ubaa8\uc2b5",
+      "url": "https://open.spotify.com/track/4w5jHmaPBwNN2Q9rOuYHUC"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\uc6b8\ub9bc \uc81c2\uc9d1 - \ub0b4 \ub9c8\uc74c\uc5d0 \uc8fc\ub2e8\uc744 \uae54\uace0",
+        "url": "https://open.spotify.com/album/03mvS9BXXbLSk3JqplSADQ"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357066,
+      "name": "\ub0b4 \ub9c8\uc74c\uc5d0 \uc8fc\ub2e8\uc744 \uae54\uace0",
+      "url": "https://open.spotify.com/track/4uiY19nSBoYbRDWJ40vdaU"
+    },
+    {
+      "album": {
+        "name": "\uc81c2\uc9d1 Volume 2",
+        "url": "https://open.spotify.com/album/4xmgXry7YcKghRyzDiJv38"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 357853,
+      "name": "\ub0b4 \ub9c8\uc74c\uc5d0 \uc8fc\ub2e8\uc744 \uae54\uace0 Spread Silk On My Heart",
+      "url": "https://open.spotify.com/track/4Jp6egGKfX94Mva9fEizTZ"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 6\uc9d1",
+        "url": "https://open.spotify.com/album/3gR5zi7mJjPmX54c4BE8UP"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263836,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/3gAxHUsVXzbPIYXdSRcAS4"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 6\uc9d1",
+        "url": "https://open.spotify.com/album/2p3UEiaV7CfDmdqJ90nm7A"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263836,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/5BKRpouE6rMJiSIa3rlUGu"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac \ubaa8\ub450 \uc5ec\uae30\uc5d0 5",
+        "url": "https://open.spotify.com/album/7LSJZBxyyazs65q6z4RPQ5"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265665,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/3gDuKLWDJwL11e8QvFPwXP"
+    },
+    {
+      "album": {
+        "name": "\ubabb\ub2e4\ud540 \uaf43\ud55c\uc1a1\uc774",
+        "url": "https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\ucca0",
+          "url": "https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222211,
+      "name": "\ub0b4\uc77c",
+      "url": "https://open.spotify.com/track/6gcEFFs1w5D2Ud91Qb37u2"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 379013,
+      "name": "\ub108\ubb34 \uc544\ud508 \uc0ac\ub791\uc740 \uc0ac\ub791\uc774 \uc544\ub2c8\uc5c8\uc74c\uc744",
+      "url": "https://open.spotify.com/track/3cWu4jWhiZ3LY27ztZ8nnt"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379013,
+      "name": "\ub108\ubb34 \uc544\ud508 \uc0ac\ub791\uc740 \uc0ac\ub791\uc774 \uc544\ub2c8\uc5c8\uc74c\uc744",
+      "url": "https://open.spotify.com/track/42cwRiFR25LYJG6CCsjWo9"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\uc6b8\ub9bc \uc81c10\uc9d1 - \ub108\uc758 \uc758\ubbf8",
+        "url": "https://open.spotify.com/album/5B9oqFQy4vx5k03d8Y7nzl"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "\ub108\uc758 \uc758\ubbf8",
+      "url": "https://open.spotify.com/track/49uWXkinbydcksyObKqNVH"
+    },
+    {
+      "album": {
+        "name": "\uc81c10\uc9d1 Volume 10",
+        "url": "https://open.spotify.com/album/7KMnV0iErqXPklZ5L0Upts"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 223293,
+      "name": "\ub108\uc758 \uc758\ubbf8 The Meaning of You",
+      "url": "https://open.spotify.com/track/2p5TdDBoY6eEvTQuzyurTV"
+    },
+    {
+      "album": {
+        "name": "\ud478\ub978\ud558\ub298 2\uc9d1 - \ub208\ubb3c\ub098\ub294 \ub0a0\uc5d0\ub294",
+        "url": "https://open.spotify.com/album/05IgFhaM6DRo4Ad39FS6Rq"
+      },
+      "artists": [
+        {
+          "name": "Blue Sky",
+          "url": "https://open.spotify.com/artist/1pzkEz6aaXEEdzoT9iGJwg"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 304875,
+      "name": "\ub208\ubb3c\ub098\ub294 \ub0a0\uc5d0\ub294",
+      "url": "https://open.spotify.com/track/1SxruDTFPtDlDN4zy8I64q"
+    },
+    {
+      "album": {
+        "name": "\ud478\ub978\ud558\ub298 2\uc9d1 - \ub208\ubb3c\ub098\ub294 \ub0a0\uc5d0\ub294",
+        "url": "https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw"
+      },
+      "artists": [
+        {
+          "name": "\ud478\ub978\ud558\ub298",
+          "url": "https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304875,
+      "name": "\ub208\ubb3c\ub098\ub294 \ub0a0\uc5d0\ub294",
+      "url": "https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID"
+    },
+    {
+      "album": {
+        "name": "\uac00\ub77d \uccab\ubc88\uc9f8",
+        "url": "https://open.spotify.com/album/23rezae8qNV8XjU6mZY4UW"
+      },
+      "artists": [
+        {
+          "name": "\ud478\ub978\ud558\ub298",
+          "url": "https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 305826,
+      "name": "\ub208\ubb3c\ub098\ub294 \ub0a0\uc5d0\ub294",
+      "url": "https://open.spotify.com/track/5QtGcyKgRDQfQ2FvmaQlJK"
+    },
+    {
+      "album": {
+        "name": "\uae40\ucd94\uc790 \ubca0\uc2a4\ud2b8 20",
+        "url": "https://open.spotify.com/album/6c5ZjcTq5XQ0MDUKIvK4ko"
+      },
+      "artists": [
+        {
+          "name": "KIM CHOO JA",
+          "url": "https://open.spotify.com/artist/568Af2a3USDRQUXgYJnRKT"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "\ub2a6\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/6ubwzVoDeApVnsgVvjX3yx"
+    },
+    {
+      "album": {
+        "name": "\uae40\ucd94\uc790 \ubca0\uc2a4\ud2b8 20",
+        "url": "https://open.spotify.com/album/4FtLcx1wo35wEAFSCTwTRL"
+      },
+      "artists": [
+        {
+          "name": "KIM CHOO JA",
+          "url": "https://open.spotify.com/artist/568Af2a3USDRQUXgYJnRKT"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237333,
+      "name": "\ub2a6\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7EzA0tSoWKCpOCpFHw3jUF"
+    },
+    {
+      "album": {
+        "name": "\uc7a5\ub355 \ucd94\ubaa8 \uc568\ubc94(\ud558\uc580\ub0a0 \ud558\uc597\uac8c \ub5a0\ub09c \uce5c\uad6c\uc5d0\uac8c)",
+        "url": "https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh"
+      },
+      "artists": [
+        {
+          "name": "\uc9c4\ubbf8\ub839",
+          "url": "https://open.spotify.com/artist/72rPfSvwlkbec9TX46o25N"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184215,
+      "name": "\ub2d8 \ub5a0\ub09c \ud6c4",
+      "url": "https://open.spotify.com/track/0CxEZ9d82YyZXbenJNlZsr"
+    },
+    {
+      "album": {
+        "name": "\uae40\uc885\ucc2c \uace8\ub4e0 \ud79b\ud2b8\uace1 \ubaa8\uc74c",
+        "url": "https://open.spotify.com/album/0vtP6Xzc7lk12V7GEiQGvD"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc885\ucc2c",
+          "url": "https://open.spotify.com/artist/1j9e2bHfflVpMVW77MGWR4"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252905,
+      "name": "\ub2f9\uc2e0\ub3c4 \uc6b8\uace0 \uc788\ub124\uc694",
+      "url": "https://open.spotify.com/track/3uXGuJHfAoUke0TkDcvuBM"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB"
+      },
+      "artists": [
+        {
+          "name": "\ud61c\uc740\uc774",
+          "url": "https://open.spotify.com/artist/0wpePehw25BtABst49wTMa"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196048,
+      "name": "\ub2f9\uc2e0\uc740 \ubaa8\ub974\uc2e4\uaebc\uc57c",
+      "url": "https://open.spotify.com/track/1QFfbUtNS0BpWmUVZqHhbu"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao"
+      },
+      "artists": [
+        {
+          "name": "\ud61c\uc740\uc774",
+          "url": "https://open.spotify.com/artist/0wpePehw25BtABst49wTMa"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196048,
+      "name": "\ub2f9\uc2e0\uc740 \ubaa8\ub974\uc2e4\uaebc\uc57c",
+      "url": "https://open.spotify.com/track/51TasCMfQcoYiRvquIpF1S"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160391,
+      "name": "\ub3cc\uc544\uc640\uc694 \ubd80\uc0b0\ud56d\uc5d0",
+      "url": "https://open.spotify.com/track/4pr8oJG9Zq2DW1WNRflJxS"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160391,
+      "name": "\ub3cc\uc544\uc640\uc694 \ubd80\uc0b0\ud56d\uc5d0",
+      "url": "https://open.spotify.com/track/53seeZtu3v5FJoB15KiRPn"
+    },
+    {
+      "album": {
+        "name": "\uc870\uc6a9\ud544",
+        "url": "https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164426,
+      "name": "\ub3cc\uc544\uc640\uc694 \ubd80\uc0b0\ud56d\uc5d0",
+      "url": "https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW"
+    },
+    {
+      "album": {
+        "name": "\ub530\ub85c \ub610 \uac19\uc774 Vol.3",
+        "url": "https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB"
+      },
+      "artists": [
+        {
+          "name": "Apart and Together",
+          "url": "https://open.spotify.com/artist/1eIPxKC8UNMvpad5o6Qbg2"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278622,
+      "name": "\ub5a0\ub098\ubc84\ub9b0 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE"
+    },
+    {
+      "album": {
+        "name": "\ub530\ub85c \ub610 \uac19\uc774 Vol.3",
+        "url": "https://open.spotify.com/album/6fy6yeYkv7M3qVCz5HIHir"
+      },
+      "artists": [
+        {
+          "name": "\ub530\ub85c \ub610 \uac19\uc774",
+          "url": "https://open.spotify.com/artist/5xwMG3oq16KjZGGWHLeMNH"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278622,
+      "name": "\ub5a0\ub098\ubc84\ub9b0 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/2kiqna7MqAupWwZV8vb3mZ"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 1\uc9d1 \ud589\uc9c4/\uc0ac\ub791\uc77c \ubfd0\uc57c",
+        "url": "https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210076,
+      "name": "\ub9e4\uc77c \uadf8\ub300\uc640",
+      "url": "https://open.spotify.com/track/29WHJi4NkO3pRw5x3Ptfnl"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 1\uc9d1 \ud589\uc9c4/\uc0ac\ub791\uc77c \ubfd0\uc57c",
+        "url": "https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210076,
+      "name": "\ub9e4\uc77c \uadf8\ub300\uc640",
+      "url": "https://open.spotify.com/track/2T05Ub3H6NvMSO8Ohsam9I"
+    },
+    {
+      "album": {
+        "name": "\ub4e4\uad6d\ud654 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/59vZdctbNBDh09XL2ZMIWQ"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210076,
+      "name": "\ub9e4\uc77c \uadf8\ub300\uc640",
+      "url": "https://open.spotify.com/track/3uFyCAMYRbk77GdiORir77"
+    },
+    {
+      "album": {
+        "name": "\ubabb\ub2e4\ud540 \uaf43\ud55c\uc1a1\uc774",
+        "url": "https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\ucca0",
+          "url": "https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189245,
+      "name": "\ubabb\ub2e4\ud540 \uaf43\ud55c\uc1a1\uc774",
+      "url": "https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs"
+    },
+    {
+      "album": {
+        "name": "\uc7a5\ub355 \ucd94\ubaa8 \uc568\ubc94(\ud558\uc580\ub0a0 \ud558\uc597\uac8c \ub5a0\ub09c \uce5c\uad6c\uc5d0\uac8c)",
+        "url": "https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh"
+      },
+      "artists": [
+        {
+          "name": "Yeong Rok Jeon",
+          "url": "https://open.spotify.com/artist/4ekyRk7LiVxyzIlpRkHVqU"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217965,
+      "name": "\ubbf8\uc18c\ub97c \ub744\uc6b0\uba70 \ub098\ub97c \ubcf4\ub0b8 \uadf8 \ubaa8\uc2b5\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/1UtSVWsqsGkDphhxZkSsVb"
+    },
+    {
+      "album": {
+        "name": "\ud788\ud2b8\uac00\uc694 \uceec\ub809\uc158 VOL.6",
+        "url": "https://open.spotify.com/album/09t1pPMcq5OjT3CqVrYtfG"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253779,
+      "name": "\ubc24\uc774 \uba38\ubb34\ub294 \uacf3\uc5d0",
+      "url": "https://open.spotify.com/track/3QaxlRUhtAD7lVER9fEx5q"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "\ubc24\uc774 \uba38\ubb34\ub294 \uacf3\uc5d0",
+      "url": "https://open.spotify.com/track/14YOLgX7qM1iOfmgKRefTv"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255160,
+      "name": "\ubc24\uc774 \uba38\ubb34\ub294 \uacf3\uc5d0",
+      "url": "https://open.spotify.com/track/2ktxxkuEhqMAHjAUYWi8Os"
+    },
+    {
+      "album": {
+        "name": "\ucc98\uc74c\ud0c0\ubcf8 \ud0c0\uc784\uba38\uc2e0",
+        "url": "https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC"
+      },
+      "artists": [
+        {
+          "name": "\uc5ec\ud589\uc2a4\ucf00\uce58",
+          "url": "https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320600,
+      "name": "\ubcc4\uc774 \uc9c4\ub2e4\ub124",
+      "url": "https://open.spotify.com/track/0uGDaEPsUUYUtMFjr2QMrg"
+    },
+    {
+      "album": {
+        "name": "\uc591\ud76c\uc740 \uace8\ub4e0 \ubca0\uc2a4\ud2b8 18",
+        "url": "https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI"
+      },
+      "artists": [
+        {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "\ubcf4\uace0\uc2f6\uc740 \ub9c8\uc74c",
+      "url": "https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9"
+    },
+    {
+      "album": {
+        "name": "\uace8\ub4e0 \ubca0\uc2a4\ud2b8 18 (Best)",
+        "url": "https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I"
+      },
+      "artists": [
+        {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246506,
+      "name": "\ubcf4\uace0\uc2f6\uc740 \ub9c8\uc74c",
+      "url": "https://open.spotify.com/track/5I69xkBlJoa7v8T3saqcLN"
+    },
+    {
+      "album": {
+        "name": "\ucd94\uc5b5\ub9cc\ub4e4\uae30 5\uc9d1",
+        "url": "https://open.spotify.com/album/4Oah9J7cXalbhCP0BAPZ2a"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273005,
+      "name": "\ube44\ucc98\ub7fc \uc74c\uc545\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/5h49EK5qLdsIC6Ihsi3Lkr"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277580,
+      "name": "\ube44\ucc98\ub7fc \uc74c\uc545\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/6DVq2uRrYyQfChAlsTJ11g"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277580,
+      "name": "\ube44\ucc98\ub7fc \uc74c\uc545\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/6zMH0UAFuLt4JXVuEUIygG"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253240,
+      "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
+      "url": "https://open.spotify.com/track/1XwAV7ty94aIJgRXP7CETn"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138 4\uc9d1",
+        "url": "https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 253240,
+      "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
+      "url": "https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B"
+    },
+    {
+      "album": {
+        "name": "\uc774\ubb38\uc138, \uc591\ud76c\uc740 \uace8\ub4e0",
+        "url": "https://open.spotify.com/album/0gPxhylyjY1oWRKW0gh4Zx"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253306,
+      "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
+      "url": "https://open.spotify.com/track/65qlfeIbQfPBivU0UjhZtA"
+    },
+    {
+      "album": {
+        "name": "\uace8\ub4e0 15",
+        "url": "https://open.spotify.com/album/578HBEVIW0fGO7jmOGS3RM"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254493,
+      "name": "\uc0ac\ub791\uc774 \uc9c0\ub098\uac00\uba74",
+      "url": "https://open.spotify.com/track/3qSDRmurviaPC86bzoAkit"
+    },
+    {
+      "album": {
+        "name": "\ud478\ub978 \ub3db",
+        "url": "https://open.spotify.com/album/5ka1jbuOzofnAJUs5p02SQ"
+      },
+      "artists": [
+        {
+          "name": "Towner & Town Chief",
+          "url": "https://open.spotify.com/artist/3Qm5uwdUYz6Bz64XOqsiYD"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270420,
+      "name": "\uc0ac\ub791\uc77c\uae30",
+      "url": "https://open.spotify.com/track/5NA0wgvnUinGTFdT3p5tnD"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\ud558\uae30 \ub54c\ubb38\uc5d0",
+        "url": "https://open.spotify.com/album/2Kb78rmvg0suvhVPcjBtlm"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jae-Ha",
+          "url": "https://open.spotify.com/artist/2Qrs21XiQMxkddRognIjGC"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380555,
+      "name": "\uc0ac\ub791\ud558\uae30 \ub54c\ubb38\uc5d0",
+      "url": "https://open.spotify.com/track/0I9vXVUpijjek2ULH4UUJw"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET",
+        "url": "https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "\uc0ac\ub791\ud588\uc9c0\ub9cc",
+      "url": "https://open.spotify.com/track/2Wusb5km1CAQRDvmujySNO"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
+        "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267266,
+      "name": "\uc0ac\ub791\ud588\uc9c0\ub9cc",
+      "url": "https://open.spotify.com/track/6ezu6eBoivEKYMB5YIfYzg"
+    },
+    {
+      "album": {
+        "name": "\ucc98\uc74c\ud0c0\ubcf8 \ud0c0\uc784\uba38\uc2e0",
+        "url": "https://open.spotify.com/album/6aHpFexUPTYIGNL6uTLPSC"
+      },
+      "artists": [
+        {
+          "name": "\uc5ec\ud589\uc2a4\ucf00\uce58",
+          "url": "https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275539,
+      "name": "\uc0b0\ub2e4\ub294\uac74 \ub2e4 \uadf8\ub7f0\uac8c \uc544\ub2c8\uaca0\ub2c8",
+      "url": "https://open.spotify.com/track/4A8fWr7kzy3h2c1XW9QeF9"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282933,
+      "name": "\uc11c\ub978 \uc988\uc74c\uc5d0",
+      "url": "https://open.spotify.com/track/22hQftFZWw1XIowMmT8tAP"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282933,
+      "name": "\uc11c\ub978 \uc988\uc74c\uc5d0",
+      "url": "https://open.spotify.com/track/5wILTdpSIttgG7CWjq95Ld"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc815\uc120 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/0mUMsxy7sVoBxa6oLJDXtk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\uc120",
+          "url": "https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266187,
+      "name": "\uc12c\uc18c\ub144",
+      "url": "https://open.spotify.com/track/1wa0k35WmDhsNJv3jELfHK"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc815\uc120 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/4amIFXgjq2CMs0WOXhhzvZ"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\uc120",
+          "url": "https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266187,
+      "name": "\uc12c\uc18c\ub144",
+      "url": "https://open.spotify.com/track/3cbYRbgcXmJsPWVTDM37sW"
+    },
+    {
+      "album": {
+        "name": "\uace8\ub4e0 \ubca0\uc2a4\ud2b8 18 (Best)",
+        "url": "https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I"
+      },
+      "artists": [
+        {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201693,
+      "name": "\uc138\uc6d4\uc774 \uac00\uba74",
+      "url": "https://open.spotify.com/track/0jZO7JOi2GA2r32Svskcag"
+    },
+    {
+      "album": {
+        "name": "\uc591\ud76c\uc740 \uace8\ub4e0 \ubca0\uc2a4\ud2b8 18",
+        "url": "https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI"
+      },
+      "artists": [
+        {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201693,
+      "name": "\uc138\uc6d4\uc774 \uac00\uba74",
+      "url": "https://open.spotify.com/track/6khwEG0x8mkXNvTxt2lF00"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/3Eggr8LCQGMCitwZzzaSbY"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248581,
+      "name": "\uc2ac\ud37c\ud558\uc9c0 \ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/0aAJL7KZVKZiQV4QAY87vI"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 3\uc9d1",
+        "url": "https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248581,
+      "name": "\uc2ac\ud37c\ud558\uc9c0 \ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/6ia7CUmAFS7hIbo8IRNfZ9"
+    },
+    {
+      "album": {
+        "name": "A Long Winter",
+        "url": "https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy"
+      },
+      "artists": [
+        {
+          "name": "NAMI",
+          "url": "https://open.spotify.com/artist/41UwSuVCpnYFARIqfKoEG5"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274343,
+      "name": "\uc2ac\ud508 \uc778\uc5f0",
+      "url": "https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\uc6b8\ub9bc \uc0c8 \ub178\ub798 \ubaa8\uc74c - \uc544\ub2c8 \ubc8c\uc368",
+        "url": "https://open.spotify.com/album/348qDfPkg9JOms6C5aZmPv"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335693,
+      "name": "\uc544\ub2c8 \ubc8c\uc368",
+      "url": "https://open.spotify.com/track/3G29NaTgIthXfT0alMrTTH"
+    },
+    {
+      "album": {
+        "name": "\uc81c1\uc9d1 Volume 1",
+        "url": "https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 334893,
+      "name": "\uc544\ub2c8 \ubc8c\uc368 Already Now",
+      "url": "https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv"
+    },
+    {
+      "album": {
+        "name": "4\uc9d1 \uc0ac\ub791\uc774 \uc9c0\ub294 \uc774 \uc790\ub9ac",
+        "url": "https://open.spotify.com/album/29wEhPMsnGjOGfHVpz1hln"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347297,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uac15\uc0b0",
+      "url": "https://open.spotify.com/track/2A8dLLThu2LqfhD8SNuGbc"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB"
+      },
+      "artists": [
+        {
+          "name": "Shin Joong Hyun",
+          "url": "https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375510,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uac15\uc0b0",
+      "url": "https://open.spotify.com/track/1f0a2W5KRLRuKw2g8Qc2OR"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub9ac\uc9c0\ub0a0 \uac00\uc694 \ubca0\uc2a4\ud2b8 Vol.3",
+        "url": "https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao"
+      },
+      "artists": [
+        {
+          "name": "Shin Joong Hyun",
+          "url": "https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 375510,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uac15\uc0b0",
+      "url": "https://open.spotify.com/track/2PcJyD7fkbfUmmjL7cviOF"
+    },
+    {
+      "album": {
+        "name": "\uc2e0\uc911\ud604 \uace8\ub4e0",
+        "url": "https://open.spotify.com/album/0BnsLDVwgsCs1i5rEC0T3G"
+      },
+      "artists": [
+        {
+          "name": "Shin Joong Hyun",
+          "url": "https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376666,
+      "name": "\uc544\ub984\ub2e4\uc6b4 \uac15\uc0b0",
+      "url": "https://open.spotify.com/track/7qMFMdplBz3ySx7HdOOgDP"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
+        "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267973,
+      "name": "\uc5b4\ub290 60\ub300 \ub178\ubd80\ubd80 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/42VWQAEE0TlPiQ3wIM00GF"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d \ub2e4\uc2dc \ubd80\ub974\uae30 II",
+        "url": "https://open.spotify.com/album/6tpfhrWAd4X5YQCBE2HKUk"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "\uc5b4\ub290 60\ub300 \ub178\ubd80\ubd80 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/68yWj8JpveUGUsZLasK3k0"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 4\uc9d1 \uc5b8\uc81c\ub098 \uadf8\ub300 \ub0b4\uacc1\uc5d0",
+        "url": "https://open.spotify.com/album/1YfgZy6iR55PEiFNJzUFgi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280528,
+      "name": "\uc5b8\uc81c\ub098 \uadf8\ub300 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/44hldZaxIlzNDZ7VNhKKmC"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd 4\uc9d1 \uc5b8\uc81c\ub098 \uadf8\ub300 \ub0b4\uacc1\uc5d0",
+        "url": "https://open.spotify.com/album/1crwuXQHefD9jgUoJozIxG"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280528,
+      "name": "\uc5b8\uc81c\ub098 \uadf8\ub300 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/5eJJ00mrTWETqIi8T3BE5M"
+    },
+    {
+      "album": {
+        "name": "\uae40\ud604\uc2dd \ubca0\uc2a4\ud2b82",
+        "url": "https://open.spotify.com/album/4o0CqVpq04dQql9B2Wv86T"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunshik",
+          "url": "https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 280528,
+      "name": "\uc5b8\uc81c\ub098 \uadf8\ub300 \ub0b4\uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/6T14pXKPT2iK44RmOJuYiF"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc815\uc120 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/0mUMsxy7sVoBxa6oLJDXtk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\uc120",
+          "url": "https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238001,
+      "name": "\uc678\ub85c\uc6b4 \uc0ac\ub78c\ub4e4",
+      "url": "https://open.spotify.com/track/36xQoy0N9oIHkkrFgyDWJi"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc815\uc120 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/4amIFXgjq2CMs0WOXhhzvZ"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\uc120",
+          "url": "https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238001,
+      "name": "\uc678\ub85c\uc6b4 \uc0ac\ub78c\ub4e4",
+      "url": "https://open.spotify.com/track/5S09MykTFOkzgTYMK1XBGn"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d Best",
+        "url": "https://open.spotify.com/album/3xhQDmoeVwZG4giwQ2xQFF"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 286106,
+      "name": "\uc774\ub4f1\ubcd1\uc758 \ud3b8\uc9c0",
+      "url": "https://open.spotify.com/track/4RjpuRmSfzNtuKgqBurPGp"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d \ub2e4\uc2dc \ubd80\ub974\uae30 I",
+        "url": "https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288493,
+      "name": "\uc774\ub4f1\ubcd1\uc758 \ud3b8\uc9c0",
+      "url": "https://open.spotify.com/track/4paHAIeL4h8Tr0vbF1FOwZ"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
+        "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288560,
+      "name": "\uc774\ub4f1\ubcd1\uc758 \ud3b8\uc9c0",
+      "url": "https://open.spotify.com/track/6SgziFMUxu1CgOYlHYGwxF"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268240,
+      "name": "\uc77c\uc5b4\ub098",
+      "url": "https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268240,
+      "name": "\uc77c\uc5b4\ub098",
+      "url": "https://open.spotify.com/track/7DFOuHb86LlnLnQYQeCpTT"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d Best",
+        "url": "https://open.spotify.com/album/3xhQDmoeVwZG4giwQ2xQFF"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257799,
+      "name": "\uc78a\uc5b4\uc57c \ud55c\ub2e4\ub294 \ub9c8\uc74c\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/68QfkZAYTlNpTJiivNpA73"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
+        "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257933,
+      "name": "\uc78a\uc5b4\uc57c \ud55c\ub2e4\ub294 \ub9c8\uc74c\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/5PRFMb0iu0Ji3P9CNPeDpp"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 3\ubc88\uc9f8 \ub178\ub798\ubaa8\uc74c",
+        "url": "https://open.spotify.com/album/2KFcEdwyadcW50UUSMPgKZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257933,
+      "name": "\uc78a\uc5b4\uc57c \ud55c\ub2e4\ub294 \ub9c8\uc74c\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/67Yg0uYQB14o3gQ3RLwD7x"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeol",
+          "url": "https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289593,
+      "name": "\uc9c0\uae08 \uadf8\ub300\ub85c\uc758 \ubaa8\uc2b5\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/2jfxNjEWEem2EwKsXZY1Bp"
+    },
+    {
+      "album": {
+        "name": "\ub300\ud559\uac00\uc694\uc81c Golden Best",
+        "url": "https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeol",
+          "url": "https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289593,
+      "name": "\uc9c0\uae08 \uadf8\ub300\ub85c\uc758 \ubaa8\uc2b5\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/3jrpzS3xpGAuohZSNjh4lR"
+    },
+    {
+      "album": {
+        "name": "\uc2e0\ud574\ucca0",
+        "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
+      },
+      "artists": [
+        {
+          "name": "Byun Jin-Sub",
+          "url": "https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7"
+        },
+        {
+          "name": "Shin Hae Chul",
+          "url": "https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298297,
+      "name": "\uc9f8\uc988 \uce74\ud398",
+      "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
+    },
+    {
+      "album": {
+        "name": "\ud669\uce58\ud6c81\uc9d1",
+        "url": "https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524"
+      },
+      "artists": [
+        {
+          "name": "\ud669\uce58\ud6c8",
+          "url": "https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207008,
+      "name": "\ucd94\uc5b5\uc18d\uc758\uadf8\ub300",
+      "url": "https://open.spotify.com/track/5xtATcLzRFvpEAWlKcKivO"
+    },
+    {
+      "album": {
+        "name": "\ud788\ud2b8\uac00\uc694 \uceec\ub809\uc158 VOL.2",
+        "url": "https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7"
+      },
+      "artists": [
+        {
+          "name": "Eunbangul Sisters",
+          "url": "https://open.spotify.com/artist/0kBrnh1Onqubyc9XpWYYDE"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191817,
+      "name": "\uce74\uce04\uc0ac\uc758 \ub178\ub798",
+      "url": "https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC"
+    },
+    {
+      "album": {
+        "name": "\ud788\ud2b8\uac00\uc694 \uceec\ub809\uc158 VOL.2",
+        "url": "https://open.spotify.com/album/5o6ByXsWmlu1l0FQeFIQPd"
+      },
+      "artists": [
+        {
+          "name": "\uc740\ubc29\uc6b8\uc790\ub9e4",
+          "url": "https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191817,
+      "name": "\uce74\uce04\uc0ac\uc758 \ub178\ub798",
+      "url": "https://open.spotify.com/track/7smEXqdnD6oDjbG9zECVDd"
+    },
+    {
+      "album": {
+        "name": "B.C 603",
+        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249893,
+      "name": "\ud145 \ube48 \ub9c8\uc74c Empty Heart",
+      "url": "https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET",
+        "url": "https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 284026,
+      "name": "\ud750\ub9b0 \uac00\uc744 \ud558\ub298\uc5d0 \ud3b8\uc9c0\ub97c \uc368",
+      "url": "https://open.spotify.com/track/2dp6Ebn1FrsTFWD8VlUaGl"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
+        "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284026,
+      "name": "\ud750\ub9b0 \uac00\uc744 \ud558\ub298\uc5d0 \ud3b8\uc9c0\ub97c \uc368",
+      "url": "https://open.spotify.com/track/6KF4FS8RygWKc3vESndYe1"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d \ub2e4\uc2dc \ubd80\ub974\uae30 I",
+        "url": "https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284306,
+      "name": "\ud750\ub9b0 \uac00\uc744 \ud558\ub298\uc5d0 \ud3b8\uc9c0\ub97c \uc368",
+      "url": "https://open.spotify.com/track/64cuomBVoSkO27t6hG4RSl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX7FdKM0unn8"
 }

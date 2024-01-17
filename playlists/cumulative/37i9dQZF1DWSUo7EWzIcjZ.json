@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/3AH0wI0DQ5b1JSd8eTuvdf"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 273423,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw"
+    },
+    {
+      "album": {
         "name": "Latino! Greatest Hits - 56 Latin Top Hits (Original Versions!)",
         "url": "https://open.spotify.com/album/5YUPCo3qXbGL51X3XJ3TA5"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 322066,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 286520,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 285293,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/4GBckDRx31bcHW13OCV61W"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 316302,
       "name": "Caminando por la Vida",
       "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
@@ -4028,7 +4046,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 351026,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC"
@@ -6358,7 +6376,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 289957,
       "name": "Tu Eres Mi Hembra",
       "url": "https://open.spotify.com/track/4eHIBgC7bpDHt5FEX9VusR"

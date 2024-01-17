@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61?si=sl\-cqVdKSPmAltwj63V2jA">IZINGANE ZOMA<a>
 
-179 songs - 14 hr 14 min
+180 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 | 2023-01-05 |
 | [Eyokuza](https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET) | [Mzukulu](https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:31 | 2020-10-20 | 2023-02-01 |
 | [Fusegi Ngempela Manje!](https://open.spotify.com/track/5uCxT0vTqqJSgjUgZCBSmJ) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [NO CHANCE](https://open.spotify.com/album/6te22nhwMSwD2mlRwqLXhL) | 10:19 | 2023-11-27 |  |
+| [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 | 2024-01-11 |  |
 | [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 | 2023-08-03 | 2023-09-22 |
 | [I'm Happy](https://open.spotify.com/track/5wuZ7biZx3qqGnO1YBvjiG) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [I'm Happy](https://open.spotify.com/album/0DpvdwG7l5D2TbDyibQzG6) | 3:49 | 2023-08-24 | 2023-10-27 |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |

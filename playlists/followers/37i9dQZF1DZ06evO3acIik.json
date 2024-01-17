@@ -1,474 +1,1625 @@
 {
-  "2022-09-15": 34934,
-  "2022-09-16": 37701,
-  "2022-09-17": 37886,
-  "2022-09-18": 37852,
-  "2022-09-19": 37779,
-  "2022-09-20": 37734,
-  "2022-09-21": 37696,
-  "2022-09-22": 37680,
-  "2022-09-23": 37652,
-  "2022-09-24": 37652,
-  "2022-09-25": 37607,
-  "2022-09-26": 37573,
-  "2022-09-27": 37533,
-  "2022-09-28": 37522,
-  "2022-09-29": 37524,
-  "2022-09-30": 37554,
-  "2022-10-01": 37540,
-  "2022-10-02": 37537,
-  "2022-10-03": 37501,
-  "2022-10-04": 37494,
-  "2022-10-05": 37476,
-  "2022-10-06": 37477,
-  "2022-10-07": 37484,
-  "2022-10-08": 37470,
-  "2022-10-09": 37484,
-  "2022-10-10": 37481,
-  "2022-10-11": 37497,
-  "2022-10-12": 37485,
-  "2022-10-13": 38294,
-  "2022-10-14": 38950,
-  "2022-10-15": 39192,
-  "2022-10-16": 39268,
-  "2022-10-17": 39306,
-  "2022-10-18": 39338,
-  "2022-10-19": 39352,
-  "2022-10-20": 39407,
-  "2022-10-21": 39440,
-  "2022-10-22": 39458,
-  "2022-10-23": 39515,
-  "2022-10-24": 39558,
-  "2022-10-25": 39590,
-  "2022-10-26": 39703,
-  "2022-10-27": 39909,
-  "2022-10-28": 40080,
-  "2022-10-29": 40120,
-  "2022-10-30": 40123,
-  "2022-10-31": 40106,
-  "2022-11-01": 40101,
-  "2022-11-02": 40141,
-  "2022-11-03": 40156,
-  "2022-11-04": 40155,
-  "2022-11-05": 40144,
-  "2022-11-06": 40165,
-  "2022-11-07": 40172,
-  "2022-11-08": 40207,
-  "2022-11-09": 40228,
-  "2022-11-10": 40241,
-  "2022-11-11": 40303,
-  "2022-11-12": 40314,
-  "2022-11-13": 40319,
-  "2022-11-14": 40334,
-  "2022-11-15": 40358,
-  "2022-11-16": 40382,
-  "2022-11-17": 40365,
-  "2022-11-18": 40325,
-  "2022-11-19": 40292,
-  "2022-11-20": 40291,
-  "2022-11-21": 40261,
-  "2022-11-22": 40248,
-  "2022-11-23": 40259,
-  "2022-11-24": 40359,
-  "2022-11-25": 40420,
-  "2022-11-26": 40441,
-  "2022-11-27": 40430,
-  "2022-11-28": 40441,
-  "2022-11-29": 40444,
-  "2022-11-30": 40449,
-  "2022-12-01": 40465,
-  "2022-12-02": 40477,
-  "2022-12-03": 40498,
-  "2022-12-04": 40510,
-  "2022-12-05": 40482,
-  "2022-12-06": 40512,
-  "2022-12-07": 40527,
-  "2022-12-08": 40550,
-  "2022-12-09": 40567,
-  "2022-12-10": 40607,
-  "2022-12-11": 40624,
-  "2022-12-12": 40647,
-  "2022-12-13": 40671,
-  "2022-12-14": 40693,
-  "2022-12-15": 40735,
-  "2022-12-16": 40764,
-  "2022-12-17": 40784,
-  "2022-12-18": 40830,
-  "2022-12-19": 40871,
-  "2022-12-20": 40943,
-  "2022-12-21": 40943,
-  "2022-12-22": 40968,
-  "2022-12-24": 41004,
-  "2022-12-25": 41005,
-  "2022-12-26": 41007,
-  "2022-12-27": 41007,
-  "2022-12-28": 41033,
-  "2022-12-29": 41047,
-  "2022-12-30": 41066,
-  "2022-12-31": 41067,
-  "2023-01-01": 41059,
-  "2023-01-02": 41069,
-  "2023-01-03": 41073,
-  "2023-01-04": 41075,
-  "2023-01-05": 41097,
-  "2023-01-06": 41115,
-  "2023-01-07": 41149,
-  "2023-01-08": 41144,
-  "2023-01-09": 41141,
-  "2023-01-10": 41173,
-  "2023-01-11": 41193,
-  "2023-01-12": 41225,
-  "2023-01-13": 41230,
-  "2023-01-14": 41238,
-  "2023-01-15": 41256,
-  "2023-01-16": 41272,
-  "2023-01-17": 41283,
-  "2023-01-18": 41298,
-  "2023-01-19": 41312,
-  "2023-01-20": 41320,
-  "2023-01-21": 41354,
-  "2023-01-22": 41364,
-  "2023-01-23": 41368,
-  "2023-01-24": 41396,
-  "2023-01-25": 41414,
-  "2023-01-26": 41430,
-  "2023-01-27": 41440,
-  "2023-01-28": 41437,
-  "2023-01-29": 41463,
-  "2023-01-30": 41465,
-  "2023-01-31": 41465,
-  "2023-02-01": 41515,
-  "2023-02-02": 41525,
-  "2023-02-03": 41541,
-  "2023-02-04": 41541,
-  "2023-02-05": 41552,
-  "2023-02-06": 41551,
-  "2023-02-07": 41560,
-  "2023-02-08": 41578,
-  "2023-02-09": 41578,
-  "2023-02-10": 41591,
-  "2023-02-11": 41599,
-  "2023-02-12": 41586,
-  "2023-02-13": 41598,
-  "2023-02-14": 41598,
-  "2023-02-15": 41597,
-  "2023-02-16": 41611,
-  "2023-02-17": 41626,
-  "2023-02-18": 41642,
-  "2023-02-19": 41648,
-  "2023-02-20": 41653,
-  "2023-02-21": 41657,
-  "2023-02-22": 41675,
-  "2023-02-23": 41696,
-  "2023-02-24": 41742,
-  "2023-02-25": 41777,
-  "2023-02-26": 41796,
-  "2023-02-27": 41836,
-  "2023-02-28": 41836,
-  "2023-03-01": 41838,
-  "2023-03-02": 41839,
-  "2023-03-03": 41854,
-  "2023-03-04": 41860,
-  "2023-03-05": 41882,
-  "2023-03-06": 41882,
-  "2023-03-07": 41917,
-  "2023-03-08": 41942,
-  "2023-03-09": 41945,
-  "2023-03-10": 41961,
-  "2023-03-11": 41955,
-  "2023-03-12": 41962,
-  "2023-03-13": 41967,
-  "2023-03-14": 41980,
-  "2023-03-15": 41986,
-  "2023-03-16": 41986,
-  "2023-03-17": 41986,
-  "2023-03-18": 42043,
-  "2023-03-19": 42043,
-  "2023-03-20": 42089,
-  "2023-03-21": 42101,
-  "2023-03-22": 42112,
-  "2023-03-23": 42118,
-  "2023-03-24": 42118,
-  "2023-03-25": 42126,
-  "2023-03-26": 42167,
-  "2023-03-27": 42193,
-  "2023-03-28": 42225,
-  "2023-03-29": 42240,
-  "2023-03-30": 42282,
-  "2023-03-31": 42282,
-  "2023-04-01": 42286,
-  "2023-04-02": 42307,
-  "2023-04-03": 42318,
-  "2023-04-04": 42347,
-  "2023-04-05": 42383,
-  "2023-04-06": 42396,
-  "2023-04-07": 42401,
-  "2023-04-09": 42419,
-  "2023-04-10": 42425,
-  "2023-04-11": 42463,
-  "2023-04-12": 42463,
-  "2023-04-13": 42489,
-  "2023-04-14": 42500,
-  "2023-04-15": 42519,
-  "2023-04-16": 42509,
-  "2023-04-17": 42510,
-  "2023-04-18": 42534,
-  "2023-04-19": 42542,
-  "2023-04-20": 42571,
-  "2023-04-21": 42578,
-  "2023-04-22": 42602,
-  "2023-04-23": 42638,
-  "2023-04-24": 42631,
-  "2023-04-25": 42660,
-  "2023-04-26": 42662,
-  "2023-04-27": 42671,
-  "2023-04-28": 42685,
-  "2023-04-29": 42689,
-  "2023-04-30": 42697,
-  "2023-05-01": 42685,
-  "2023-05-02": 42691,
-  "2023-05-03": 42713,
-  "2023-05-04": 42746,
-  "2023-05-05": 42758,
-  "2023-05-06": 42777,
-  "2023-05-07": 42791,
-  "2023-05-08": 42810,
-  "2023-05-09": 42824,
-  "2023-05-10": 42839,
-  "2023-05-11": 42846,
-  "2023-05-12": 42855,
-  "2023-05-13": 42871,
-  "2023-05-14": 42891,
-  "2023-05-15": 42912,
-  "2023-05-16": 42941,
-  "2023-05-17": 42949,
-  "2023-05-18": 42965,
-  "2023-05-19": 42988,
-  "2023-05-20": 43034,
-  "2023-05-21": 43034,
-  "2023-05-22": 43034,
-  "2023-05-23": 43055,
-  "2023-05-24": 43082,
-  "2023-05-25": 43075,
-  "2023-05-26": 43085,
-  "2023-05-27": 43102,
-  "2023-05-28": 43117,
-  "2023-05-29": 43117,
-  "2023-05-30": 43139,
-  "2023-05-31": 43162,
-  "2023-06-01": 43182,
-  "2023-06-02": 43213,
-  "2023-06-03": 43231,
-  "2023-06-04": 43247,
-  "2023-06-05": 43268,
-  "2023-06-06": 43278,
-  "2023-06-07": 43293,
-  "2023-06-08": 43294,
-  "2023-06-09": 43304,
-  "2023-06-10": 43324,
-  "2023-06-11": 43341,
-  "2023-06-12": 43339,
-  "2023-06-13": 43348,
-  "2023-06-14": 43365,
-  "2023-06-15": 43387,
-  "2023-06-16": 43412,
-  "2023-06-17": 43439,
-  "2023-06-18": 43454,
-  "2023-06-19": 43477,
-  "2023-06-20": 43502,
-  "2023-06-21": 43508,
-  "2023-06-22": 43545,
-  "2023-06-23": 43555,
-  "2023-06-24": 43557,
-  "2023-06-25": 43578,
-  "2023-06-26": 43601,
-  "2023-06-27": 43663,
-  "2023-06-28": 43710,
-  "2023-06-29": 43742,
-  "2023-06-30": 43750,
-  "2023-07-01": 43839,
-  "2023-07-02": 43839,
-  "2023-07-03": 43876,
-  "2023-07-04": 43916,
-  "2023-07-05": 43935,
-  "2023-07-06": 43993,
-  "2023-07-07": 43993,
-  "2023-07-08": 43993,
-  "2023-07-09": 44050,
-  "2023-07-10": 44080,
-  "2023-07-11": 44126,
-  "2023-07-12": 44135,
-  "2023-07-13": 44183,
-  "2023-07-14": 44208,
-  "2023-07-15": 44227,
-  "2023-07-16": 44261,
-  "2023-07-17": 44302,
-  "2023-07-18": 44345,
-  "2023-07-19": 44371,
-  "2023-07-20": 44371,
-  "2023-07-21": 44418,
-  "2023-07-22": 44447,
-  "2023-07-23": 44505,
-  "2023-07-24": 44534,
-  "2023-07-25": 44575,
-  "2023-07-26": 44617,
-  "2023-07-27": 44686,
-  "2023-07-28": 44754,
-  "2023-07-29": 44800,
-  "2023-07-30": 44800,
-  "2023-07-31": 44897,
-  "2023-08-01": 44936,
-  "2023-08-02": 44988,
-  "2023-08-03": 45030,
-  "2023-08-04": 45085,
-  "2023-08-05": 45110,
-  "2023-08-06": 45181,
-  "2023-08-07": 45181,
-  "2023-08-08": 45240,
-  "2023-08-09": 45284,
-  "2023-08-10": 45320,
-  "2023-08-11": 45357,
-  "2023-08-12": 45357,
-  "2023-08-13": 45357,
-  "2023-08-14": 45357,
-  "2023-08-15": 45357,
-  "2023-08-16": 45357,
-  "2023-08-17": 45357,
-  "2023-08-18": 45357,
-  "2023-08-19": 45357,
-  "2023-08-20": 45789,
-  "2023-08-21": 45789,
-  "2023-08-22": 45890,
-  "2023-08-23": 45890,
-  "2023-08-24": 45890,
-  "2023-08-25": 45890,
-  "2023-08-26": 46069,
-  "2023-08-27": 46069,
-  "2023-08-28": 46146,
-  "2023-08-29": 46146,
-  "2023-08-30": 46146,
-  "2023-08-31": 46295,
-  "2023-09-01": 46343,
-  "2023-09-02": 46343,
-  "2023-09-03": 46343,
-  "2023-09-04": 46343,
-  "2023-09-05": 46343,
-  "2023-09-06": 46343,
-  "2023-09-07": 46343,
-  "2023-09-08": 46343,
-  "2023-09-09": 46343,
-  "2023-09-10": 46343,
-  "2023-09-11": 46343,
-  "2023-09-12": 46343,
-  "2023-09-13": 46343,
-  "2023-09-14": 46343,
-  "2023-09-15": 46343,
-  "2023-09-16": 46973,
-  "2023-09-17": 46973,
-  "2023-09-18": 46973,
-  "2023-09-19": 47089,
-  "2023-09-20": 47089,
-  "2023-09-21": 47089,
-  "2023-09-22": 47190,
-  "2023-09-23": 47190,
-  "2023-09-24": 47190,
-  "2023-09-25": 47190,
-  "2023-09-26": 47443,
-  "2023-09-27": 47443,
-  "2023-09-28": 47443,
-  "2023-09-29": 47443,
-  "2023-09-30": 47443,
-  "2023-10-01": 47443,
-  "2023-10-02": 47443,
-  "2023-10-03": 47443,
-  "2023-10-04": 47443,
-  "2023-10-05": 47443,
-  "2023-10-06": 47443,
-  "2023-10-07": 47443,
-  "2023-10-08": 47443,
-  "2023-10-09": 47443,
-  "2023-10-10": 47443,
-  "2023-10-11": 48095,
-  "2023-10-12": 48095,
-  "2023-10-13": 48095,
-  "2023-10-14": 48095,
-  "2023-10-15": 48095,
-  "2023-10-16": 48095,
-  "2023-10-17": 48095,
-  "2023-10-18": 48095,
-  "2023-10-19": 48095,
-  "2023-10-20": 48095,
-  "2023-10-21": 48095,
-  "2023-10-22": 48095,
-  "2023-10-23": 48095,
-  "2023-10-24": 48095,
-  "2023-10-25": 48095,
-  "2023-10-26": 48095,
-  "2023-10-27": 48095,
-  "2023-10-28": 48095,
-  "2023-10-29": 48095,
-  "2023-10-30": 48095,
-  "2023-10-31": 48095,
-  "2023-11-01": 48095,
-  "2023-11-02": 48095,
-  "2023-11-03": 48095,
-  "2023-11-04": 48095,
-  "2023-11-05": 48095,
-  "2023-11-06": 48095,
-  "2023-11-07": 48095,
-  "2023-11-08": 48095,
-  "2023-11-09": 48095,
-  "2023-11-10": 48095,
-  "2023-11-11": 49525,
-  "2023-11-12": 49525,
-  "2023-11-13": 49525,
-  "2023-11-14": 49525,
-  "2023-11-15": 49525,
-  "2023-11-16": 49525,
-  "2023-11-17": 49525,
-  "2023-11-18": 49525,
-  "2023-11-19": 49525,
-  "2023-11-20": 49525,
-  "2023-11-21": 49525,
-  "2023-11-22": 49525,
-  "2023-11-23": 49525,
-  "2023-11-24": 49525,
-  "2023-11-25": 49525,
-  "2023-11-26": 49525,
-  "2023-11-27": 49525,
-  "2023-11-28": 49525,
-  "2023-11-29": 49525,
-  "2023-11-30": 49525,
-  "2023-12-01": 49525,
-  "2023-12-02": 49525,
-  "2023-12-03": 49525,
-  "2023-12-04": 49525,
-  "2023-12-05": 49525,
-  "2023-12-06": 49525,
-  "2023-12-07": 49525,
-  "2023-12-08": 49525,
-  "2023-12-09": 49525,
-  "2023-12-10": 49525,
-  "2023-12-11": 49525,
-  "2023-12-12": 49525,
-  "2023-12-13": 49525,
-  "2023-12-14": 50556,
-  "2023-12-15": 50575,
-  "2023-12-16": 50607,
-  "2023-12-17": 50636,
-  "2023-12-18": 50657,
-  "2023-12-19": 50691,
-  "2023-12-20": 50700,
-  "2023-12-21": 50733,
-  "2023-12-22": 50778,
-  "2023-12-23": 50798,
-  "2023-12-24": 50814,
-  "2023-12-25": 50839,
-  "2023-12-26": 50853,
-  "2023-12-27": 50878,
-  "2023-12-30": 50953,
-  "2023-12-31": 50966,
-  "2024-01-01": 50975,
-  "2024-01-02": 50995,
-  "2024-01-03": 51030
+  "2024-01-17": 51364,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Montell Fish. The essential tracks, all in one playlist.",
+  "name": "This Is Montell Fish",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 362468,
+      "name": "11:47 Pm",
+      "url": "https://open.spotify.com/track/3EErEHQtBFXY7LTiRqqB4a"
+    },
+    {
+      "album": {
+        "name": "2 seater",
+        "url": "https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65982,
+      "name": "2 seater",
+      "url": "https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/3YAATSyfadxYQ3AKxzeDt2"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "7",
+      "url": "https://open.spotify.com/track/1601rgnttKbCiKaV83nY8K"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205734,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "And i'd go a thousand miles",
+      "url": "https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 225718,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/6mT8nJsctIeHQCo6zgtpdW"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 186000,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne"
+    },
+    {
+      "album": {
+        "name": "Call U Tomorrow",
+        "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Call U Tomorrow",
+      "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/2ld1XpKgcJ3mNcEFU47n0w"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 194509,
+      "name": "Camp",
+      "url": "https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 252352,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/32CnxcVBteDL2SsnxW0HSs"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "album": {
+        "name": "Clear Pictures (feat. CASS)",
+        "url": "https://open.spotify.com/album/2cF02UOWFfXNOt1X3mp0vq"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Cass",
+          "url": "https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 291031,
+      "name": "Clear Pictures (feat. Cass)",
+      "url": "https://open.spotify.com/track/0UZoBphVmcvmTZKSN8sHs9"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "SOPHIETHEHOMIE",
+          "url": "https://open.spotify.com/artist/1FiNaCwPk9tRjTH4gCqsWh"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 302000,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
+    },
+    {
+      "album": {
+        "name": "Don't Be Afraid to Fly",
+        "url": "https://open.spotify.com/album/5fvi8Ak4JKHq3O49Dz1011"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183461,
+      "name": "Don't Be Afraid to Fly",
+      "url": "https://open.spotify.com/track/54cthKyZakydPsIydH8PI5"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135562,
+      "name": "Don't Wait If Your Not Supposed To.",
+      "url": "https://open.spotify.com/track/5KjwW42ttM1o7KAt62WQ62"
+    },
+    {
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "Downfalls",
+      "url": "https://open.spotify.com/track/5fTEuJl6xp2kNWWO6O6LnH"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49076,
+      "name": "Enough For You",
+      "url": "https://open.spotify.com/track/37G1Mx1vZHxKia3aDPMQxd"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
+    },
+    {
+      "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Fallin Out of Love With You",
+      "url": "https://open.spotify.com/track/3Eq9N7ymMN0GNG7vSKjTrF"
+    },
+    {
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Endingheartfelt",
+          "url": "https://open.spotify.com/artist/7dW4V9pXNG2zSqNjb5I0wP"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 193135,
+      "name": "Far Lost Dreams (feat. Ending Heartfelt)",
+      "url": "https://open.spotify.com/track/6o2MGg17PBy117GKxWge7l"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 171468,
+      "name": "Father Show Me Who I Am",
+      "url": "https://open.spotify.com/track/3I9aCqv0W12kaHrwByZ2gD"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 137187,
+      "name": "Floating at 2:39am",
+      "url": "https://open.spotify.com/track/5RmGMJ0xonTn7fZkKhBypX"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Winter 2020",
+        "url": "https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 160678,
+      "name": "Getting Stronger",
+      "url": "https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO"
+    },
+    {
+      "album": {
+        "name": "Give U More",
+        "url": "https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF"
+      },
+      "artists": [
+        {
+          "name": "Miles Carter",
+          "url": "https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Give U More",
+      "url": "https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E"
+    },
+    {
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-01",
+      "duration_ms": 230823,
+      "name": "God Don't Make Mistakes (feat. Dante Bowe, Montell Fish & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172140,
+      "name": "God Given Dreams",
+      "url": "https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Kyng",
+          "url": "https://open.spotify.com/artist/1agj720VcWDnnT6y7SMbLI"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 304000,
+      "name": "Green Leaves (feat. Kyng)",
+      "url": "https://open.spotify.com/track/51hUaBDS30iiC4iQJlpBnN"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Gingi Bradley",
+          "url": "https://open.spotify.com/artist/0DIIlR40byWxfrXpPfV35Y"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248531,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 183656,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/5jEaWxWsplfntFOBaywhcC"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183656,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
+    },
+    {
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 151500,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
+    },
+    {
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh"
+    },
+    {
+      "album": {
+        "name": "Holding Me Down",
+        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
+    },
+    {
+      "album": {
+        "name": "Hollow Lover",
+        "url": "https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Hollow Lover",
+      "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233078,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2xWxHd24lHBTnjl7SnbXB0"
+    },
+    {
+      "album": {
+        "name": "A Lofi Christmas.",
+        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Home for the Holidays",
+      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+    },
+    {
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/7vnT0JGQIOvhmkvPuvO0Fe"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"
+    },
+    {
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "In the Ocean (feat. Montell Fish)",
+      "url": "https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 216000,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 220500,
+      "name": "Let Go of Your Pain",
+      "url": "https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 275046,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1p0krUFuFcLI9PugCfMTO9"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 164000,
+      "name": "Love Unite",
+      "url": "https://open.spotify.com/track/4ixb2UjT4Yu5CRHNXHHSdK"
+    },
+    {
+      "album": {
+        "name": "love you more than me",
+        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141081,
+      "name": "love you more than me",
+      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
+    },
+    {
+      "album": {
+        "name": "Minotaur's Song",
+        "url": "https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170414,
+      "name": "Minotaur's Song",
+      "url": "https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd"
+    },
+    {
+      "album": {
+        "name": "On My Way.",
+        "url": "https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187331,
+      "name": "On My Way.",
+      "url": "https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/1UAMrB661EhrxLbdxo1juW"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 159777,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/1Wpe4HpXyWvH8xSYogXOWY"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 219428,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/5cWbehuvJ9ebvE7RsTUBRz"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232992,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj"
+    },
+    {
+      "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193671,
+      "name": "Pretend Lovers",
+      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 563200,
+      "name": "Repentance",
+      "url": "https://open.spotify.com/track/7FvpySywGdCQjuTqm5zKWS"
+    },
+    {
+      "album": {
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103384,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
+    },
+    {
+      "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+    },
+    {
+      "album": {
+        "name": "Stay Patient.",
+        "url": "https://open.spotify.com/album/2XhxedyLppu92AMi3038ES"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 200062,
+      "name": "Stay Patient.",
+      "url": "https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276421,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 427437,
+      "name": "The Everlasting Father of Lights",
+      "url": "https://open.spotify.com/track/1yxyolS2aWCYo7ndctqjui"
+    },
+    {
+      "album": {
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        },
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Wars",
+      "url": "https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+    },
+    {
+      "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199406,
+      "name": "Wisdomless Boy",
+      "url": "https://open.spotify.com/track/1LATTtzqNO4o9MDxEbl2nC"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Wonderful God (feat. Jonathan Ogden)",
+      "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"
+    },
+    {
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118140,
+      "name": "Yes, You Love Me.",
+      "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
+    },
+    {
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244453,
+      "name": "Your Love Has Called Me Back",
+      "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3acIik"
 }

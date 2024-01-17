@@ -1,210 +1,1095 @@
 {
-  "2023-06-08": 315578,
-  "2023-06-09": 315683,
-  "2023-06-10": 315803,
-  "2023-06-11": 315893,
-  "2023-06-12": 315976,
-  "2023-06-13": 316059,
-  "2023-06-14": 316084,
-  "2023-06-15": 316139,
-  "2023-06-16": 316232,
-  "2023-06-17": 316232,
-  "2023-06-18": 316232,
-  "2023-06-19": 316232,
-  "2023-06-20": 316232,
-  "2023-06-21": 316232,
-  "2023-06-22": 316232,
-  "2023-06-23": 316232,
-  "2023-06-24": 316232,
-  "2023-06-25": 316232,
-  "2023-06-26": 316232,
-  "2023-06-27": 316232,
-  "2023-06-28": 316232,
-  "2023-06-29": 316232,
-  "2023-06-30": 316232,
-  "2023-07-01": 316232,
-  "2023-07-02": 316232,
-  "2023-07-03": 316232,
-  "2023-07-04": 316232,
-  "2023-07-05": 316232,
-  "2023-07-06": 316232,
-  "2023-07-07": 316232,
-  "2023-07-08": 316232,
-  "2023-07-09": 316232,
-  "2023-07-10": 316232,
-  "2023-07-11": 316232,
-  "2023-07-12": 316232,
-  "2023-07-13": 316232,
-  "2023-07-14": 316232,
-  "2023-07-15": 316232,
-  "2023-07-16": 316232,
-  "2023-07-17": 316232,
-  "2023-07-18": 316232,
-  "2023-07-19": 316232,
-  "2023-07-20": 316232,
-  "2023-07-21": 316232,
-  "2023-07-22": 316232,
-  "2023-07-23": 316232,
-  "2023-07-24": 316232,
-  "2023-07-25": 316232,
-  "2023-07-26": 316232,
-  "2023-07-27": 316232,
-  "2023-07-28": 316232,
-  "2023-07-29": 316232,
-  "2023-07-30": 316232,
-  "2023-07-31": 316232,
-  "2023-08-01": 316232,
-  "2023-08-02": 316232,
-  "2023-08-03": 316232,
-  "2023-08-04": 316232,
-  "2023-08-05": 316232,
-  "2023-08-06": 316232,
-  "2023-08-07": 316232,
-  "2023-08-08": 316232,
-  "2023-08-09": 316232,
-  "2023-08-10": 316232,
-  "2023-08-11": 316232,
-  "2023-08-12": 316232,
-  "2023-08-13": 316232,
-  "2023-08-14": 316232,
-  "2023-08-15": 316232,
-  "2023-08-16": 316232,
-  "2023-08-17": 316232,
-  "2023-08-18": 316232,
-  "2023-08-19": 316232,
-  "2023-08-20": 316232,
-  "2023-08-21": 316232,
-  "2023-08-22": 316232,
-  "2023-08-23": 316232,
-  "2023-08-24": 316232,
-  "2023-08-25": 316232,
-  "2023-08-26": 316232,
-  "2023-08-27": 316232,
-  "2023-08-28": 316232,
-  "2023-08-29": 316232,
-  "2023-08-30": 316232,
-  "2023-08-31": 316232,
-  "2023-09-01": 316232,
-  "2023-09-02": 316232,
-  "2023-09-03": 316232,
-  "2023-09-04": 316232,
-  "2023-09-05": 316232,
-  "2023-09-06": 316232,
-  "2023-09-07": 316232,
-  "2023-09-08": 316232,
-  "2023-09-09": 316232,
-  "2023-09-10": 316232,
-  "2023-09-11": 316232,
-  "2023-09-12": 316232,
-  "2023-09-13": 316232,
-  "2023-09-14": 316232,
-  "2023-09-15": 316232,
-  "2023-09-16": 316232,
-  "2023-09-17": 316232,
-  "2023-09-18": 316232,
-  "2023-09-19": 316232,
-  "2023-09-20": 316232,
-  "2023-09-21": 316232,
-  "2023-09-22": 316232,
-  "2023-09-23": 316232,
-  "2023-09-24": 316232,
-  "2023-09-25": 316232,
-  "2023-09-26": 316232,
-  "2023-09-27": 316232,
-  "2023-09-28": 316232,
-  "2023-09-29": 316232,
-  "2023-09-30": 316232,
-  "2023-10-01": 316232,
-  "2023-10-02": 316232,
-  "2023-10-03": 316232,
-  "2023-10-04": 316232,
-  "2023-10-05": 316232,
-  "2023-10-06": 316232,
-  "2023-10-07": 316232,
-  "2023-10-08": 316232,
-  "2023-10-09": 316232,
-  "2023-10-10": 316232,
-  "2023-10-11": 316232,
-  "2023-10-12": 316232,
-  "2023-10-13": 316232,
-  "2023-10-14": 316232,
-  "2023-10-15": 316232,
-  "2023-10-16": 316232,
-  "2023-10-17": 316232,
-  "2023-10-18": 316232,
-  "2023-10-19": 316232,
-  "2023-10-20": 316232,
-  "2023-10-21": 316232,
-  "2023-10-22": 316232,
-  "2023-10-23": 316232,
-  "2023-10-24": 316232,
-  "2023-10-25": 316232,
-  "2023-10-26": 316232,
-  "2023-10-27": 316232,
-  "2023-10-28": 316232,
-  "2023-10-29": 316232,
-  "2023-10-30": 316232,
-  "2023-10-31": 316232,
-  "2023-11-01": 316232,
-  "2023-11-02": 316232,
-  "2023-11-03": 316232,
-  "2023-11-04": 316232,
-  "2023-11-05": 316232,
-  "2023-11-06": 316232,
-  "2023-11-07": 316232,
-  "2023-11-08": 316232,
-  "2023-11-09": 316232,
-  "2023-11-10": 316232,
-  "2023-11-11": 316232,
-  "2023-11-12": 316232,
-  "2023-11-13": 316232,
-  "2023-11-14": 316232,
-  "2023-11-15": 316232,
-  "2023-11-16": 316232,
-  "2023-11-17": 316232,
-  "2023-11-18": 316232,
-  "2023-11-19": 316232,
-  "2023-11-20": 316232,
-  "2023-11-21": 316232,
-  "2023-11-22": 316232,
-  "2023-11-23": 316232,
-  "2023-11-24": 316232,
-  "2023-11-25": 316232,
-  "2023-11-26": 316232,
-  "2023-11-27": 316232,
-  "2023-11-28": 316232,
-  "2023-11-29": 316232,
-  "2023-11-30": 316232,
-  "2023-12-01": 316232,
-  "2023-12-02": 316232,
-  "2023-12-03": 316232,
-  "2023-12-04": 316232,
-  "2023-12-05": 316232,
-  "2023-12-06": 316232,
-  "2023-12-07": 316232,
-  "2023-12-08": 316232,
-  "2023-12-09": 316232,
-  "2023-12-10": 316232,
-  "2023-12-11": 316232,
-  "2023-12-12": 316232,
-  "2023-12-13": 316232,
-  "2023-12-14": 316232,
-  "2023-12-15": 316232,
-  "2023-12-16": 316232,
-  "2023-12-17": 316232,
-  "2023-12-18": 316232,
-  "2023-12-19": 316232,
-  "2023-12-20": 316232,
-  "2023-12-21": 316232,
-  "2023-12-22": 316232,
-  "2023-12-23": 316232,
-  "2023-12-24": 316232,
-  "2023-12-25": 316232,
-  "2023-12-26": 316232,
-  "2023-12-27": 316232,
-  "2023-12-30": 316232,
-  "2023-12-31": 316232,
-  "2024-01-01": 316232,
-  "2024-01-02": 316232,
-  "2024-01-03": 316232
+  "2024-01-17": 316232,
+  "date_first_scraped": "2023-06-08",
+  "description": "This Is DaBaby, The Essential tracks all in one playlist.",
+  "name": "This Is DaBaby",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI"
+    },
+    {
+      "album": {
+        "name": "Animal (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/17dU4Us5Clh5wb5Kw3tPvR"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Animal (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5Q6SwrBAWfshnXd5WIchdR"
+    },
+    {
+      "album": {
+        "name": "BIG 4x",
+        "url": "https://open.spotify.com/album/1ZnnZq7opRLmwMh8POrG72"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151858,
+      "name": "Ashley (with DaBaby)",
+      "url": "https://open.spotify.com/track/4gH4e5ENzVDg4N8fOp2vDP"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Baby (Lil Baby feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
+    },
+    {
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+    },
+    {
+      "album": {
+        "name": "Beat Box 3 (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/6QqwWNpKYbROin3Gq5pIrV"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200424,
+      "name": "Beat Box 3 (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125906,
+      "name": "BLAME IT ON BABY",
+      "url": "https://open.spotify.com/track/0jWm0VyD8p3MrSInczpows"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "album": {
+        "name": "Death (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/0wb2DaHDhLUUS5RRFa26U9"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172195,
+      "name": "Death (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6YfTl5YupXOQBKiJJLrxcw"
+    },
+    {
+      "album": {
+        "name": "RICH YOUNGIN",
+        "url": "https://open.spotify.com/album/3o5M2OXfUVRsUFrd7u4a5K"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "DO DAT (feat. DaBaby & Lil Baby)",
+      "url": "https://open.spotify.com/track/6eluAsb2ONjZ6tXFp062LZ"
+    },
+    {
+      "album": {
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63720,
+      "name": "DRAWS",
+      "url": "https://open.spotify.com/track/6szaOuH1zyuj9XOfZNcOvO"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "DROP (feat. A Boogie wit da Hoodie & London On Da Track)",
+      "url": "https://open.spotify.com/track/5rFGVn8fCFjnRwCebW0XbS"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126277,
+      "name": "GO AGAIN - Intro",
+      "url": "https://open.spotify.com/track/7gDBTPpsYhVi93lvhVTJWZ"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "Goin Baby",
+      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "INTRO",
+      "url": "https://open.spotify.com/track/77KMttn3Lic7ZQKDlPqp8v"
+    },
+    {
+      "album": {
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156115,
+      "name": "LEVELS (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/2UMWdssGd4rlT9oSeHUZh0"
+    },
+    {
+      "album": {
+        "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) [Remix]",
+        "url": "https://open.spotify.com/album/0YEH6ciBiMrVM4Rl1R10Wz"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315346,
+      "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/4iiWcajF1fEUpwcUewc464"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "jetsonmade",
+          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111173,
+      "name": "LIGHTSKIN SH*T (feat. Future & jetsonmade)",
+      "url": "https://open.spotify.com/track/16oi4OiKmkO51l60F5R9kR"
+    },
+    {
+      "album": {
+        "name": "Lonely (with Lil Wayne)",
+        "url": "https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154432,
+      "name": "Lonely (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215053,
+      "name": "NASTY (feat. Ashanti & Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235582,
+      "name": "Neighborhood Superstar",
+      "url": "https://open.spotify.com/track/0BN8fpOPq04txIG8VmxKOg"
+    },
+    {
+      "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79360,
+      "name": "Next Song",
+      "url": "https://open.spotify.com/track/0rrVn0KMlLHtAklzUrrfoj"
+    },
+    {
+      "album": {
+        "name": "NO DRIBBLE (with Stunna 4 Vegas)",
+        "url": "https://open.spotify.com/album/13IKhlfq1P8AEjfEu3s8yB"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2020-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "NO DRIBBLE (with Stunna 4 Vegas)",
+      "url": "https://open.spotify.com/track/69CQe4ekUZ7txcSfEXYFW9"
+    },
+    {
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Panini - DaBaby Remix",
+      "url": "https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD"
+    },
+    {
+      "album": {
+        "name": "PEEP HOLE",
+        "url": "https://open.spotify.com/album/3iN0xzE19FVAFK78ZUZhLo"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136586,
+      "name": "PEEP HOLE",
+      "url": "https://open.spotify.com/track/5l9A0gsS7w2GcQXQr3zxiC"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118546,
+      "name": "PICK UP (feat. Quavo)",
+      "url": "https://open.spotify.com/track/5gNOINI5dXZVom2b36LMOd"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217220,
+      "name": "Pink Toes (Offset, DaBaby feat. Gunna)",
+      "url": "https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/0SsTkfOhM7e87trwjEqBQN"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183144,
+      "name": "POP STAR (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180020,
+      "name": "Protect Da Brand (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0Pqix0NTfbuROfPbaZbBgp"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216677,
+      "name": "RAW SHIT (feat. Migos)",
+      "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
+    },
+    {
+      "album": {
+        "name": "Red Light Green Light",
+        "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159082,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR (feat. Roddy Ricch) [BLM REMIX]",
+        "url": "https://open.spotify.com/album/3xGZrrUdbVXu3CRXSSsPQZ"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204546,
+      "name": "ROCKSTAR (feat. Roddy Ricch) - BLM REMIX",
+      "url": "https://open.spotify.com/track/4Aykm3xrOFSHrAnv80KUhh"
+    },
+    {
+      "album": {
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94520,
+      "name": "ROOF",
+      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
+    },
+    {
+      "album": {
+        "name": "SHOWING OFF HER BODY (with Davido)",
+        "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212639,
+      "name": "SHOWING OFF HER BODY (with Davido)",
+      "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+    },
+    {
+      "album": {
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby 2",
+        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171123,
+      "name": "SOCKS",
+      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175128,
+      "name": "Stain (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0dIz1I7IwX5ardG47AHxCZ"
+    },
+    {
+      "album": {
+        "name": "4REAL 4REAL",
+        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Stop Snitchin (feat. DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/4rbYZZkMTz1TTty0if3oRv"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Suge",
+      "url": "https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB"
+    },
+    {
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118360,
+      "name": "Taking It Out",
+      "url": "https://open.spotify.com/track/6B4KWBeFdHrpVezjTqggWr"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1"
+    },
+    {
+      "album": {
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
+      "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144935,
+      "name": "VIBEZ",
+      "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
+    },
+    {
+      "album": {
+        "name": "WAITRESS",
+        "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132018,
+      "name": "WAITRESS",
+      "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
+    },
+    {
+      "album": {
+        "name": "Blank Blank",
+        "url": "https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "Walker Texas Ranger",
+      "url": "https://open.spotify.com/track/0eBOVXdnrVQ0rITgKXBAA7"
+    },
+    {
+      "album": {
+        "name": "WIG (with Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tZ8u9BGc4sSOlwWYsAWPB"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "WIG (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbdhJjehriAj"
 }

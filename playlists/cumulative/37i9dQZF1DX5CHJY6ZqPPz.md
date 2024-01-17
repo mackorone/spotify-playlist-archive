@@ -4,7 +4,7 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-47 songs - 2 hr 36 min
+48 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Next Level \- IMLAY Remix](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2022-07-08 |  |
 | [Next Level \- Lionclad Remix](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Lionclad](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2022-07-08 |  |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-07-08 |  |
+| [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-16 |  |
 | [Salty & Sweet](https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:21 | 2023-05-08 |  |
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2022-07-08 |  |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-08 |  |

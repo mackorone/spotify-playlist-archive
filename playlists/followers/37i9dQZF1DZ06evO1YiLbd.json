@@ -1,375 +1,1599 @@
 {
-  "2022-12-24": 6192,
-  "2022-12-25": 6193,
-  "2022-12-26": 6195,
-  "2022-12-27": 6198,
-  "2022-12-28": 6201,
-  "2022-12-29": 6201,
-  "2022-12-30": 6203,
-  "2022-12-31": 6205,
-  "2023-01-01": 6207,
-  "2023-01-02": 6211,
-  "2023-01-03": 6213,
-  "2023-01-04": 6221,
-  "2023-01-05": 6226,
-  "2023-01-06": 6226,
-  "2023-01-07": 6224,
-  "2023-01-08": 6224,
-  "2023-01-09": 6230,
-  "2023-01-10": 6234,
-  "2023-01-11": 6236,
-  "2023-01-12": 6239,
-  "2023-01-13": 6240,
-  "2023-01-14": 6241,
-  "2023-01-15": 6242,
-  "2023-01-16": 6244,
-  "2023-01-17": 6246,
-  "2023-01-18": 6246,
-  "2023-01-19": 6250,
-  "2023-01-20": 6249,
-  "2023-01-21": 6250,
-  "2023-01-22": 6256,
-  "2023-01-23": 6256,
-  "2023-01-24": 6259,
-  "2023-01-25": 6260,
-  "2023-01-26": 6261,
-  "2023-01-27": 6264,
-  "2023-01-28": 6266,
-  "2023-01-29": 6266,
-  "2023-01-30": 6271,
-  "2023-01-31": 6271,
-  "2023-02-01": 6276,
-  "2023-02-02": 6278,
-  "2023-02-03": 6277,
-  "2023-02-04": 6279,
-  "2023-02-05": 6284,
-  "2023-02-06": 6287,
-  "2023-02-07": 6289,
-  "2023-02-08": 6290,
-  "2023-02-09": 6290,
-  "2023-02-10": 6293,
-  "2023-02-11": 6295,
-  "2023-02-12": 6299,
-  "2023-02-13": 6299,
-  "2023-02-14": 6299,
-  "2023-02-15": 6301,
-  "2023-02-16": 6305,
-  "2023-02-17": 6307,
-  "2023-02-18": 6306,
-  "2023-02-19": 6306,
-  "2023-02-20": 6310,
-  "2023-02-21": 6317,
-  "2023-02-22": 6321,
-  "2023-02-23": 6318,
-  "2023-02-24": 6321,
-  "2023-02-25": 6328,
-  "2023-02-26": 6330,
-  "2023-02-27": 6340,
-  "2023-02-28": 6340,
-  "2023-03-01": 6346,
-  "2023-03-02": 6346,
-  "2023-03-03": 6349,
-  "2023-03-04": 6350,
-  "2023-03-05": 6357,
-  "2023-03-06": 6357,
-  "2023-03-07": 6359,
-  "2023-03-08": 6360,
-  "2023-03-09": 6359,
-  "2023-03-10": 6357,
-  "2023-03-11": 6360,
-  "2023-03-12": 6361,
-  "2023-03-13": 6359,
-  "2023-03-14": 6362,
-  "2023-03-15": 6364,
-  "2023-03-16": 6364,
-  "2023-03-17": 6364,
-  "2023-03-18": 6373,
-  "2023-03-19": 6373,
-  "2023-03-20": 6380,
-  "2023-03-21": 6384,
-  "2023-03-22": 6386,
-  "2023-03-23": 6386,
-  "2023-03-24": 6386,
-  "2023-03-25": 6394,
-  "2023-03-26": 6405,
-  "2023-03-27": 6414,
-  "2023-03-28": 6413,
-  "2023-03-29": 6417,
-  "2023-03-30": 6423,
-  "2023-03-31": 6423,
-  "2023-04-01": 6428,
-  "2023-04-02": 6433,
-  "2023-04-03": 6436,
-  "2023-04-04": 6443,
-  "2023-04-05": 6447,
-  "2023-04-06": 6447,
-  "2023-04-07": 6454,
-  "2023-04-09": 6460,
-  "2023-04-10": 6463,
-  "2023-04-11": 6473,
-  "2023-04-12": 6473,
-  "2023-04-13": 6475,
-  "2023-04-14": 6479,
-  "2023-04-15": 6481,
-  "2023-04-16": 6481,
-  "2023-04-17": 6484,
-  "2023-04-18": 6487,
-  "2023-04-19": 6489,
-  "2023-04-20": 6491,
-  "2023-04-21": 6493,
-  "2023-04-22": 6494,
-  "2023-04-23": 6500,
-  "2023-04-24": 6500,
-  "2023-04-25": 6499,
-  "2023-04-26": 6505,
-  "2023-04-27": 6508,
-  "2023-04-28": 6512,
-  "2023-04-29": 6517,
-  "2023-04-30": 6518,
-  "2023-05-01": 6521,
-  "2023-05-02": 6522,
-  "2023-05-03": 6525,
-  "2023-05-04": 6531,
-  "2023-05-05": 6530,
-  "2023-05-06": 6534,
-  "2023-05-07": 6536,
-  "2023-05-08": 6538,
-  "2023-05-09": 6539,
-  "2023-05-10": 6541,
-  "2023-05-11": 6543,
-  "2023-05-12": 6548,
-  "2023-05-13": 6552,
-  "2023-05-14": 6553,
-  "2023-05-15": 6557,
-  "2023-05-16": 6563,
-  "2023-05-17": 6560,
-  "2023-05-18": 6566,
-  "2023-05-19": 6567,
-  "2023-05-20": 6570,
-  "2023-05-21": 6570,
-  "2023-05-22": 6570,
-  "2023-05-23": 6573,
-  "2023-05-24": 6571,
-  "2023-05-25": 6573,
-  "2023-05-26": 6572,
-  "2023-05-27": 6573,
-  "2023-05-28": 6576,
-  "2023-05-29": 6576,
-  "2023-05-30": 6574,
-  "2023-05-31": 6573,
-  "2023-06-01": 6576,
-  "2023-06-02": 6578,
-  "2023-06-03": 6583,
-  "2023-06-04": 6587,
-  "2023-06-05": 6589,
-  "2023-06-06": 6592,
-  "2023-06-07": 6592,
-  "2023-06-08": 6591,
-  "2023-06-09": 6592,
-  "2023-06-10": 6596,
-  "2023-06-11": 6598,
-  "2023-06-12": 6599,
-  "2023-06-13": 6603,
-  "2023-06-14": 6605,
-  "2023-06-15": 6609,
-  "2023-06-16": 6610,
-  "2023-06-17": 6610,
-  "2023-06-18": 6615,
-  "2023-06-19": 6616,
-  "2023-06-20": 6619,
-  "2023-06-21": 6620,
-  "2023-06-22": 6622,
-  "2023-06-23": 6625,
-  "2023-06-24": 6628,
-  "2023-06-25": 6628,
-  "2023-06-26": 6631,
-  "2023-06-27": 6634,
-  "2023-06-28": 6638,
-  "2023-06-29": 6638,
-  "2023-06-30": 6641,
-  "2023-07-01": 6645,
-  "2023-07-02": 6645,
-  "2023-07-03": 6647,
-  "2023-07-04": 6649,
-  "2023-07-05": 6653,
-  "2023-07-06": 6660,
-  "2023-07-07": 6660,
-  "2023-07-08": 6661,
-  "2023-07-09": 6661,
-  "2023-07-10": 6661,
-  "2023-07-11": 6663,
-  "2023-07-12": 6668,
-  "2023-07-13": 6669,
-  "2023-07-14": 6672,
-  "2023-07-15": 6677,
-  "2023-07-16": 6678,
-  "2023-07-17": 6680,
-  "2023-07-18": 6681,
-  "2023-07-19": 6685,
-  "2023-07-20": 6690,
-  "2023-07-21": 6695,
-  "2023-07-22": 6697,
-  "2023-07-23": 6698,
-  "2023-07-24": 6702,
-  "2023-07-25": 6706,
-  "2023-07-26": 6709,
-  "2023-07-27": 6707,
-  "2023-07-28": 6708,
-  "2023-07-29": 6708,
-  "2023-07-30": 6713,
-  "2023-07-31": 6715,
-  "2023-08-01": 6717,
-  "2023-08-02": 6718,
-  "2023-08-03": 6718,
-  "2023-08-04": 6720,
-  "2023-08-05": 6724,
-  "2023-08-06": 6732,
-  "2023-08-07": 6732,
-  "2023-08-08": 6731,
-  "2023-08-09": 6736,
-  "2023-08-10": 6739,
-  "2023-08-11": 6743,
-  "2023-08-12": 6743,
-  "2023-08-13": 6743,
-  "2023-08-14": 6751,
-  "2023-08-15": 6751,
-  "2023-08-16": 6751,
-  "2023-08-17": 6759,
-  "2023-08-18": 6759,
-  "2023-08-19": 6759,
-  "2023-08-20": 6763,
-  "2023-08-21": 6763,
-  "2023-08-22": 6763,
-  "2023-08-23": 6763,
-  "2023-08-24": 6763,
-  "2023-08-25": 6763,
-  "2023-08-26": 6768,
-  "2023-08-27": 6768,
-  "2023-08-28": 6777,
-  "2023-08-29": 6777,
-  "2023-08-30": 6777,
-  "2023-08-31": 6790,
-  "2023-09-01": 6796,
-  "2023-09-02": 6796,
-  "2023-09-03": 6800,
-  "2023-09-04": 6800,
-  "2023-09-05": 6800,
-  "2023-09-06": 6808,
-  "2023-09-07": 6808,
-  "2023-09-08": 6808,
-  "2023-09-09": 6808,
-  "2023-09-10": 6821,
-  "2023-09-11": 6821,
-  "2023-09-12": 6821,
-  "2023-09-13": 6825,
-  "2023-09-14": 6825,
-  "2023-09-15": 6825,
-  "2023-09-16": 6836,
-  "2023-09-17": 6836,
-  "2023-09-18": 6836,
-  "2023-09-19": 6842,
-  "2023-09-20": 6842,
-  "2023-09-21": 6842,
-  "2023-09-22": 6849,
-  "2023-09-23": 6849,
-  "2023-09-24": 6849,
-  "2023-09-25": 6849,
-  "2023-09-26": 6858,
-  "2023-09-27": 6858,
-  "2023-09-28": 6858,
-  "2023-09-29": 6858,
-  "2023-09-30": 6858,
-  "2023-10-01": 6858,
-  "2023-10-02": 6875,
-  "2023-10-03": 6875,
-  "2023-10-04": 6875,
-  "2023-10-05": 6885,
-  "2023-10-06": 6885,
-  "2023-10-07": 6885,
-  "2023-10-08": 6885,
-  "2023-10-09": 6885,
-  "2023-10-10": 6885,
-  "2023-10-11": 6891,
-  "2023-10-12": 6891,
-  "2023-10-13": 6891,
-  "2023-10-14": 6891,
-  "2023-10-15": 6891,
-  "2023-10-16": 6891,
-  "2023-10-17": 6891,
-  "2023-10-18": 6891,
-  "2023-10-19": 6891,
-  "2023-10-20": 6891,
-  "2023-10-21": 6891,
-  "2023-10-22": 6891,
-  "2023-10-23": 6891,
-  "2023-10-24": 6891,
-  "2023-10-25": 6891,
-  "2023-10-26": 6891,
-  "2023-10-27": 6891,
-  "2023-10-28": 6891,
-  "2023-10-29": 6891,
-  "2023-10-30": 6891,
-  "2023-10-31": 6891,
-  "2023-11-01": 6891,
-  "2023-11-02": 6891,
-  "2023-11-03": 6891,
-  "2023-11-04": 6891,
-  "2023-11-05": 6891,
-  "2023-11-06": 6891,
-  "2023-11-07": 6891,
-  "2023-11-08": 6891,
-  "2023-11-09": 6891,
-  "2023-11-10": 6891,
-  "2023-11-11": 6952,
-  "2023-11-12": 6952,
-  "2023-11-13": 6952,
-  "2023-11-14": 6952,
-  "2023-11-15": 6952,
-  "2023-11-16": 6952,
-  "2023-11-17": 6952,
-  "2023-11-18": 6952,
-  "2023-11-19": 6952,
-  "2023-11-20": 6952,
-  "2023-11-21": 6952,
-  "2023-11-22": 6952,
-  "2023-11-23": 6952,
-  "2023-11-24": 6952,
-  "2023-11-25": 6952,
-  "2023-11-26": 6952,
-  "2023-11-27": 6952,
-  "2023-11-28": 6952,
-  "2023-11-29": 6952,
-  "2023-11-30": 6952,
-  "2023-12-01": 6952,
-  "2023-12-02": 6952,
-  "2023-12-03": 6952,
-  "2023-12-04": 6952,
-  "2023-12-05": 6952,
-  "2023-12-06": 6952,
-  "2023-12-07": 6952,
-  "2023-12-08": 6952,
-  "2023-12-09": 6952,
-  "2023-12-10": 6952,
-  "2023-12-11": 6952,
-  "2023-12-12": 6952,
-  "2023-12-13": 6952,
-  "2023-12-14": 7011,
-  "2023-12-15": 7013,
-  "2023-12-16": 7013,
-  "2023-12-17": 7015,
-  "2023-12-18": 7017,
-  "2023-12-19": 7020,
-  "2023-12-20": 7024,
-  "2023-12-21": 7026,
-  "2023-12-22": 7025,
-  "2023-12-23": 7029,
-  "2023-12-24": 7030,
-  "2023-12-25": 7029,
-  "2023-12-26": 7031,
-  "2023-12-27": 7032,
-  "2023-12-30": 7035,
-  "2023-12-31": 7034,
-  "2024-01-01": 7034,
-  "2024-01-02": 7035,
-  "2024-01-03": 7035
+  "2024-01-17": 7046,
+  "date_first_scraped": "2022-12-24",
+  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
+  "name": "This Is Yuki Hayashi",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "2 Heros",
+      "url": "https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149320,
+      "name": "All might with U.A. Students",
+      "url": "https://open.spotify.com/track/59h3i22MBicerNR1llNXqv"
+    },
+    {
+      "album": {
+        "name": "Insomniacs After School Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 110000,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak"
+    },
+    {
+      "album": {
+        "name": "Deku Vigilante (My Hero Academia)",
+        "url": "https://open.spotify.com/album/3d5nMhabrfLblSINhyiQ5D"
+      },
+      "artists": [
+        {
+          "name": "Bakrou",
+          "url": "https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh"
+        },
+        {
+          "name": "Anzar",
+          "url": "https://open.spotify.com/artist/5m1ntKpYHZpOVf8KjHudQI"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/6WREWcPKElbqTJ9UHevdbf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 131275,
+      "name": "Deku Vigilante (My Hero Academia)",
+      "url": "https://open.spotify.com/track/2uKvB7z8Iv1Qspw8wHfLCy"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81666,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113100,
+      "name": "Go Straight!",
+      "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "HERO A",
+      "url": "https://open.spotify.com/track/6LoC0DAzeIET4iA9gXG2Ly"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f4th \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE"
+      },
+      "artists": [
+        {
+          "name": "KYOKA JIRO Starring Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "Hero too",
+      "url": "https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK"
+    },
+    {
+      "album": {
+        "name": "Insomniacs After School Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 101000,
+      "name": "Hope for Clear Skies",
+      "url": "https://open.spotify.com/track/2Fr8POhGLOHBICP3EmfiUO"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia (Soundtrack Selection 2021-2023)",
+        "url": "https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 154880,
+      "name": "I'm Sorry for Everything I've done",
+      "url": "https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT"
+    },
+    {
+      "album": {
+        "name": "Insomniacs After School Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 383000,
+      "name": "Insomniacs After School",
+      "url": "https://open.spotify.com/track/5ytpdOFn9BFY00ZS8TgAiu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "Jet Set Run",
+      "url": "https://open.spotify.com/track/7L7XzsEDNRGgVsAixpiba4"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Steven McNair",
+          "url": "https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "Just Another Hero",
+      "url": "https://open.spotify.com/track/5MVgPvxtIi1OQTguhaHqVf"
+    },
+    {
+      "album": {
+        "name": "Lady Nagant (My Hero Academia) [Trap Remix]",
+        "url": "https://open.spotify.com/album/5z60YeNYIB8agSdzMtg65O"
+      },
+      "artists": [
+        {
+          "name": "Bakrou",
+          "url": "https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 136048,
+      "name": "Lady Nagant (My Hero Academia) - Trap Remix",
+      "url": "https://open.spotify.com/track/2Du2EWLDCzEQ9wiK500GFt"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f4th \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE"
+      },
+      "artists": [
+        {
+          "name": "Makayla Phillips",
+          "url": "https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "Might",
+      "url": "https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Heroes Rising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389160,
+      "name": "Might*U",
+      "url": "https://open.spotify.com/track/3YfBeHLGH9EhRPVHYaQMyD"
+    },
+    {
+      "album": {
+        "name": "Might+U (My Hero Academia) [Lofi Hip-Hop Remix]",
+        "url": "https://open.spotify.com/album/3apk7UeDKpWTQN7h7667x9"
+      },
+      "artists": [
+        {
+          "name": "Bakrou",
+          "url": "https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh"
+        },
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Makayla Phillips",
+          "url": "https://open.spotify.com/artist/1Cw3A1U3QHNBggwX7tYTNQ"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 103106,
+      "name": "Might+U (My Hero Academia) - Lofi Hip-Hop Remix",
+      "url": "https://open.spotify.com/track/44gC3afPlsaGhp36w8qbc0"
+    },
+    {
+      "album": {
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/5TOcbeM0HzV5EZFnpbmua8"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/3tKR4BC1txLrHW0Q7cWHwp"
+    },
+    {
+      "album": {
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "My Hero Academia",
+      "url": "https://open.spotify.com/track/50o13VmOJiUj3WfU7XmEAn"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 229093,
+      "name": "My Hero Is Our Hero",
+      "url": "https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU"
+    },
+    {
+      "album": {
+        "name": "Our Journey (feat. AKKOGORILLA)",
+        "url": "https://open.spotify.com/album/1dnWvIAu634Ph0NiOxdCQZ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Hulu Anime",
+          "url": "https://open.spotify.com/artist/4zO0OJ7PBiY6Sy3tiji0eS"
+        },
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 113302,
+      "name": "Our Journey (feat. AKKOGORILLA)",
+      "url": "https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Season 6 (Original Series Soundtrack EP)",
+        "url": "https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 147506,
+      "name": "Revengers",
+      "url": "https://open.spotify.com/track/0qWg7OtwyOJCWon829FVO0"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: World Heroes' Mission (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 130437,
+      "name": "Rody's Heart",
+      "url": "https://open.spotify.com/track/2RsFq9HSoesTiuEVArS1sN"
+    },
+    {
+      "album": {
+        "name": "Insomniacs After School Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 113000,
+      "name": "Shutter Speed, Aperture, ISO",
+      "url": "https://open.spotify.com/track/7LbFveevqPd2Vele8E6aQG"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113146,
+      "name": "The Force of All For One",
+      "url": "https://open.spotify.com/track/4QWMaW2NDLjREyxZa6qDGY"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia (Soundtrack Selection 2021-2023)",
+        "url": "https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 197746,
+      "name": "The Last Wielder",
+      "url": "https://open.spotify.com/track/391YmNKpOcOx5BQvAVBga4"
+    },
+    {
+      "album": {
+        "name": "Insomniacs After School Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 72000,
+      "name": "The Reason I Have Insomnia",
+      "url": "https://open.spotify.com/track/7bwns0di4JMdbrQm5rDKK2"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78680,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375266,
+      "name": "We Must Go",
+      "url": "https://open.spotify.com/track/04a6Tuzc3LHgM0I0IVh0aw"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Season 6 (Original Series Soundtrack EP)",
+        "url": "https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 114306,
+      "name": "We'll be everyone's heroes",
+      "url": "https://open.spotify.com/track/6LznbpWs5WcsIqymkDPUa6"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Heroes Rising (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 115693,
+      "name": "We'll Go All-Out to Stop You!",
+      "url": "https://open.spotify.com/track/5Q7KlVz4hFSkqsRwxkkx0l"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Season 6 (Original Series Soundtrack EP)",
+        "url": "https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 152253,
+      "name": "Weeee Are Fuxkin Super Hero!!",
+      "url": "https://open.spotify.com/track/4fvM3fAOG2BWgicIbVdSdz"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228746,
+      "name": "You Say Run",
+      "url": "https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 211000,
+      "name": "\u300e\u6b32\u300f",
+      "url": "https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124706,
+      "name": "\u304a\u4e92\u3044",
+      "url": "https://open.spotify.com/track/3xoR0KaRRbNGfJZwz2zm6n"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u70cf\u91ce\u9ad8\u6821 V S\u767d\u9ce5\u6ca2\u5b66\u5712\u9ad8\u6821\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121213,
+      "name": "\u3054\u3042\u3044\u3055\u3064",
+      "url": "https://open.spotify.com/track/66dqsdJHQmSNzzNH17QfyQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30dc\u30fc\u30eb\u30eb\u30fc\u30e0\u3078\u3088\u3046\u3053\u305d\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "\u307e\u3063\u305f\u308a\u3068\u3057\u305f\u65e5\u5e38",
+      "url": "https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8"
+    },
+    {
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132866,
+      "name": "\u30aa\u30fc\u30eb\u30fb\u30d5\u30a9\u30fc\u30fb\u30ef\u30f3",
+      "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125920,
+      "name": "\u30ab\u30e2\u30e1",
+      "url": "https://open.spotify.com/track/0dNliW8cZpIhwE9ZV1suFD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u70cf\u91ce\u9ad8\u6821 V S\u767d\u9ce5\u6ca2\u5b66\u5712\u9ad8\u6821\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7iODUgHHgyeo4fkH9E0w4Q"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242506,
+      "name": "\u30b3\u30f3\u30bb\u30d7\u30c8\u306e\u6226\u3044",
+      "url": "https://open.spotify.com/track/4ZRvNs46kXBjKJOl74tKZm"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "\u30c1\u30fc\u30e0\u306e\u5730\u529b",
+      "url": "https://open.spotify.com/track/0S5OaeNAC1RlO0ZkeuPmhq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "\u30cf\u30a4\u30ad\u30e5\u30fc!!",
+      "url": "https://open.spotify.com/track/4RN2wwg7BaUA3A40s1F9Gs"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "\u30d0\u30b1\u30e2\u30f3\u305f\u3061\u306e\u5bb4",
+      "url": "https://open.spotify.com/track/6UgPcdNdyLK96zqKs7nBCT"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30dc\u30fc\u30eb\u30eb\u30fc\u30e0\u3078\u3088\u3046\u3053\u305d\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149053,
+      "name": "\u30d1\u30fc\u30c8\u30ca\u30fc\u7d50\u6210 ver1",
+      "url": "https://open.spotify.com/track/62clUBYeugLjZ7GpTi7Kzy"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114800,
+      "name": "\u30d2\u30fc\u30ed\u30fc\u306e\u5f71",
+      "url": "https://open.spotify.com/track/7KKbK2GCMzIuwwS1Y90fDM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "\u4e09\u4f4d\u4e00\u4f53",
+      "url": "https://open.spotify.com/track/6mLaZxhLKgeeQBMh0Aj8Uw"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "\u4e0a",
+      "url": "https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f4th \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 179733,
+      "name": "\u4ffa\u304c\u541b\u306e\u30d2\u30fc\u30ed\u30fc\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/4wOATd2ihCOz8Qx662M8uJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 166893,
+      "name": "\u51fa\u4f1a\u3044\u306e\u5316\u5b66\u5909\u5316",
+      "url": "https://open.spotify.com/track/2bG0nbUU4uLEfSxUX6BxO2"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "\u5316\u5b66\u5909\u5316",
+      "url": "https://open.spotify.com/track/50uh6QzjefARNWguBT6ZWW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30dc\u30fc\u30eb\u30eb\u30fc\u30e0\u3078\u3088\u3046\u3053\u305d\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Vol.2",
+        "url": "https://open.spotify.com/album/7GBRwostYkUWpmoFpkou41"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 93896,
+      "name": "\u5343\u590f\u306e\u904e\u53bb",
+      "url": "https://open.spotify.com/track/2pPVV8dRriiFMDzEsueTVN"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 142893,
+      "name": "\u5408\u6d41",
+      "url": "https://open.spotify.com/track/34K68U7gox0nTZih04zKcL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "\u541b\u306e\u529b",
+      "url": "https://open.spotify.com/track/09SnuNW7yaGdUDjl5QcTt0"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "\u541b\u306f\u30d2\u30fc\u30ed\u30fc\u306b\u306a\u308c\u308b",
+      "url": "https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "\u5927\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/4vCVz22ndGRGASMt29CWwy"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 125746,
+      "name": "\u597d\u6575\u624b\u3068\u66f8\u3044\u3066\u300c\u3068\u3082\u300d\u3068\u8aad\u3080",
+      "url": "https://open.spotify.com/track/3PYLUvGhhkENSkwKT376Ns"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 122186,
+      "name": "\u5996\u602a\u305f\u3061",
+      "url": "https://open.spotify.com/track/31N8krI56apyaerBDrK8pL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "\u5f37\u304f\u306a\u308c",
+      "url": "https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u6094\u3057\u3055",
+      "url": "https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u6557\u8005",
+      "url": "https://open.spotify.com/track/3MKlI3y3MQjcAzmgG3VJoe"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112666,
+      "name": "\u66b4\u8d70\u3059\u308b\u60aa\u610f",
+      "url": "https://open.spotify.com/track/0u1McmvpOZsUIjIvhmm4fM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98226,
+      "name": "\u671f\u5f85",
+      "url": "https://open.spotify.com/track/1YtfQWbOClRDQ4oA4ZuwHl"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u4f0a\u85e4\u6f64\u4e8c\u300e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u300f\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1JUZQ5HwuxVdR6Z2jmvOyk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 98000,
+      "name": "\u6848\u5c71\u5b50 - Piano Solo",
+      "url": "https://open.spotify.com/track/4xBewpNzy4cIuWwkBJ7A6A"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "\u6975\u9650\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 199866,
+      "name": "\u6b6f\u8eca",
+      "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 191000,
+      "name": "\u6c7a\u7740",
+      "url": "https://open.spotify.com/track/6Br2dCwvGTvSO42V3c2pox"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 167253,
+      "name": "\u6c7a\u88c2",
+      "url": "https://open.spotify.com/track/6KXa4E3C3zIF9uTk60doYC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 131920,
+      "name": "\u7121\u500b\u6027\u306e\u82e6\u60a9",
+      "url": "https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 120160,
+      "name": "\u71b1(\u3072\u3060\u308a)\u306f\u7d76\u5bfe\u4f7f\u308f\u306d\u3048",
+      "url": "https://open.spotify.com/track/20y0vpnM5rKQH5Zy5y41Aw"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125240,
+      "name": "\u7206\u6bba\u738b!!",
+      "url": "https://open.spotify.com/track/6RJaCS5pLDVlxuzZ7JAi3B"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u76ee\u6a19",
+      "url": "https://open.spotify.com/track/0gLcLBhAQ1eolxfUaT711N"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "\u771f\u3063\u5411\u52dd\u8ca0",
+      "url": "https://open.spotify.com/track/0qJ7OecpYupx360N8havQm"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "\u795e\u696d\u901f\u653b",
+      "url": "https://open.spotify.com/track/4baWrKxnYjfhJbPoLSOS2K"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "\u79c1\u304b\u3089\u541b\u3078",
+      "url": "https://open.spotify.com/track/6FWJesWhdMt1Y9wMxYzhgl"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 173000,
+      "name": "\u7e4b\u3050\u3068\u3044\u3046\u3053\u3068",
+      "url": "https://open.spotify.com/track/6XJ9CFlQMEBCJgn6wS9HyX"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "\u8105\u8feb(\u3057\u3093\u3089\u3044)",
+      "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 134693,
+      "name": "\u8996\u70b9",
+      "url": "https://open.spotify.com/track/39wSItJOH200mFDJeClVyq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "\u8d70\u308b\u3068\u3044\u3046\u3053\u3068",
+      "url": "https://open.spotify.com/track/6vzRpOC0JpkWIwd9M5N2a9"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "\u8d85\u901f\u653b",
+      "url": "https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "\u9032\u5316",
+      "url": "https://open.spotify.com/track/4DRekX1RLo64233HPnQzhW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "\u96d1\u98df",
+      "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Asami Tachibana",
+          "url": "https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91973,
+      "name": "\u9802\u306e\u666f\u8272",
+      "url": "https://open.spotify.com/track/7796rbzMCNwvAUV0SfvsnE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd"
 }

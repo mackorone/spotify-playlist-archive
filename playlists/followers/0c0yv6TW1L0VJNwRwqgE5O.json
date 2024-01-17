@@ -1,0 +1,45 @@
+{
+  "2024-01-17": 0,
+  "date_first_scraped": "2024-01-09",
+  "description": "Exactly what you think",
+  "name": "Educational",
+  "tracks": [
+    {
+      "album": {
+        "name": "Who Are the Electors?",
+        "url": "https://open.spotify.com/album/12QiPGx9GDwoSIllJ2qcJS"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140446,
+      "name": "Who Are the Electors?",
+      "url": "https://open.spotify.com/track/0hiA5AH9DGZkfrajTZXFnl"
+    },
+    {
+      "album": {
+        "name": "Severe Tire Damage",
+        "url": "https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136893,
+      "name": "Why Does the Sun Shine? (The Sun Is a Mass of Incandescent Gas)",
+      "url": "https://open.spotify.com/track/406AmpTyUGfwp27kRg6EjT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0c0yv6TW1L0VJNwRwqgE5O"
+}

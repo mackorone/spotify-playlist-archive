@@ -4,7 +4,7 @@
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-271 songs - 22 hr 30 min
+272 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Iconoclasts](https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:38 | 2023-09-14 |  |
 | [Imprinting](https://open.spotify.com/track/0HlomuMRtN0V26CP2HfinH) | [The Necks](https://open.spotify.com/artist/2S0D6Vlt9T6z5MNm1UBJgf) | [Travel](https://open.spotify.com/album/6kLQCIVc5QB7B6pMd219Bl) | 17:14 | 2023-01-26 |  |
 | [Imprinting](https://open.spotify.com/track/175DcA478IXvonRxNPS1Za) | [The Necks](https://open.spotify.com/artist/2S0D6Vlt9T6z5MNm1UBJgf) | [Imprinting](https://open.spotify.com/album/7rhEXnXvMGz9XV2Qz8KsTS) | 17:14 | 2023-01-26 | 2023-04-30 |
-| [In Flux](https://open.spotify.com/track/6afThCtzmXjSGjcHZBK1tV) | [LOIF](https://open.spotify.com/artist/6rYEt4oSMROtwcwkP8yjNw) | [In Flux](https://open.spotify.com/album/6tNhDhPSTr00QQxe8ik5zR) | 6:38 | 2023-09-14 |  |
+| [In Flux](https://open.spotify.com/track/6afThCtzmXjSGjcHZBK1tV) | [LOIF](https://open.spotify.com/artist/6rYEt4oSMROtwcwkP8yjNw) | [In Flux](https://open.spotify.com/album/6tNhDhPSTr00QQxe8ik5zR) | 6:38 | 2023-09-14 | 2024-01-11 |
+| [In Flux](https://open.spotify.com/track/0aHuLXAoPFfOJugDzVuaoh) | [LOIF](https://open.spotify.com/artist/6rYEt4oSMROtwcwkP8yjNw), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Proximity II](https://open.spotify.com/album/5DwXSs7dVfWwivXonM020C) | 6:38 | 2023-11-30 |  |
 | [in the rite / for al + ac](https://open.spotify.com/track/1pZzUgXNQVBaNekThPTZ3k) | [Shoeb Ahmad](https://open.spotify.com/artist/2h708ZTAjPlRu96CjKqAK7) | [Facade](https://open.spotify.com/album/7kv2dAE6QCXLMTKj794rtw) | 4:05 | 2023-09-14 |  |
 | [INDIFFERENT \(With Gordi\)](https://open.spotify.com/track/35w8PwB14PiCQ2bUvXWlob) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [INDIFFERENT \(With Gordi\)](https://open.spotify.com/album/1ij4QjRc5lDtP7WZgK7otz) | 3:55 | 2020-10-20\* | 2021-08-21 |
 | [inky or lemon cream or lemon whiz saunters](https://open.spotify.com/track/2wbKHGGfPa4qi1uIGa3cQ2) | [Other Joe](https://open.spotify.com/artist/4qMhTSbkQKynDHWLvg1b5K) | [a cat can look at a king](https://open.spotify.com/album/5z2OcYZ93SfvhZGqEwcywo) | 4:27 | 2023-11-30 |  |

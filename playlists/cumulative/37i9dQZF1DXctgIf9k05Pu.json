@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Vibes 2",
+        "url": "https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0"
+      },
+      "artists": [
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136914,
+      "name": "5:32pm",
+      "url": "https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL"
+    },
+    {
+      "album": {
+        "name": "Vibes 2",
         "url": "https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz"
       },
       "artists": [
@@ -354,7 +372,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 112941,
       "name": "fountain",
       "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
@@ -484,6 +502,28 @@
       "duration_ms": 121051,
       "name": "I Just Want to Be the One You Love",
       "url": "https://open.spotify.com/track/5H92IwQV1tExrJPDXLyt9B"
+    },
+    {
+      "album": {
+        "name": "I Just Want to Be the One You Love",
+        "url": "https://open.spotify.com/album/0KOmsSXEsoSOvhxBpTQ1w9"
+      },
+      "artists": [
+        {
+          "name": "ibrk12",
+          "url": "https://open.spotify.com/artist/6tAS2a4TtQOaLYgsS74y3x"
+        },
+        {
+          "name": "Lwov",
+          "url": "https://open.spotify.com/artist/2F8Zi5vFQzxCjdi3NGJG16"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121150,
+      "name": "I Just Want to Be the One You Love",
+      "url": "https://open.spotify.com/track/14Piy75hBHDlrEDe6DyFKo"
     },
     {
       "album": {
@@ -1006,7 +1046,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 115384,
       "name": "Summer Picnic",
       "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
@@ -1169,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "To the Girl With Red Converse",
+        "url": "https://open.spotify.com/album/7h1W4dSDEbc1NUnK16MXhq"
+      },
+      "artists": [
+        {
+          "name": "Jackie Xan",
+          "url": "https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143844,
+      "name": "To the Girl With Red Converse",
+      "url": "https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB"
+    },
+    {
+      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1o6jIyr6byHhgU8Y1EpvZV"
       },
@@ -1292,7 +1350,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 151578,
       "name": "\u30b9\u30e2\u30fc\u30af",
       "url": "https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00"

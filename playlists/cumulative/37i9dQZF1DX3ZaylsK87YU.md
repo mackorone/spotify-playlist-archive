@@ -4,7 +4,7 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-212 songs - 16 hr 46 min
+213 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:33 | 2021-07-30 |  |
 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 | 2021-07-30 | 2023-08-10 |
 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 | 2021-07-30 | 2022-07-25 |
-| [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 | 2021-07-30 |  |
+| [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7L5YVihzHRC89rIBknxRDP) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc) | 2:04 | 2021-07-30 | 2024-01-17 |
 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4) | 2:04 | 2021-07-30 | 2022-11-20 |
 | [Doxology//Amen](https://open.spotify.com/track/6oJlEWCnw9lMejLEYlqH84) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE) | 4:38 | 2021-07-30 | 2022-07-29 |
 | [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2021-07-30 |  |
@@ -154,6 +154,7 @@
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2021-07-30 |  |
 | [O Praise the Name \(Anástasis\)](https://open.spotify.com/track/0uOFh6gGbvNdWZ20YZ9oAn) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:58 | 2021-07-30 | 2022-07-29 |
 | [Oceans \(Where Feet May FaiI\)](https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire II: Simplicity](https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm) | 4:43 | 2021-07-30 |  |
+| [Oh What a Father](https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q) | 3:56 | 2023-02-18 |  |
 | [Oh What a Father](https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Morning Sun, Rising Tide](https://open.spotify.com/album/5ZFrFQRF1EHUDh49toRT16) | 3:56 | 2021-07-30 | 2022-07-27 |
 | [Oh, the Deep, Deep Love of Jesus \(feat\. Fernando Ortega\)](https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 2:37 | 2021-07-30 |  |
 | [On Jordan's Stormy Banks \(Live\)](https://open.spotify.com/track/0zllW9HG3BQ1QHNNxEORCS) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [The Hymn Sing \(Live in Nashville\)](https://open.spotify.com/album/1DjEafJtRkGyO1VEAdn65y) | 5:27 | 2021-07-30 | 2022-07-27 |

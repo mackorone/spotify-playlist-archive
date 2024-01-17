@@ -1,479 +1,1629 @@
 {
-  "2022-09-09": 434105,
-  "2022-09-10": 437411,
-  "2022-09-11": 438885,
-  "2022-09-12": 440113,
-  "2022-09-13": 441414,
-  "2022-09-15": 443605,
-  "2022-09-16": 444486,
-  "2022-09-17": 445604,
-  "2022-09-18": 446426,
-  "2022-09-19": 447042,
-  "2022-09-20": 447488,
-  "2022-09-21": 447978,
-  "2022-09-22": 448469,
-  "2022-09-23": 448984,
-  "2022-09-24": 449481,
-  "2022-09-25": 449906,
-  "2022-09-26": 450329,
-  "2022-09-27": 450735,
-  "2022-09-28": 451118,
-  "2022-09-29": 451484,
-  "2022-09-30": 451907,
-  "2022-10-01": 452397,
-  "2022-10-02": 452776,
-  "2022-10-03": 453172,
-  "2022-10-04": 453521,
-  "2022-10-05": 453850,
-  "2022-10-06": 454212,
-  "2022-10-07": 454558,
-  "2022-10-08": 454958,
-  "2022-10-09": 455668,
-  "2022-10-10": 455745,
-  "2022-10-11": 456071,
-  "2022-10-12": 456375,
-  "2022-10-13": 456708,
-  "2022-10-14": 457043,
-  "2022-10-15": 457419,
-  "2022-10-16": 457807,
-  "2022-10-17": 458201,
-  "2022-10-18": 458499,
-  "2022-10-19": 458862,
-  "2022-10-20": 459216,
-  "2022-10-21": 459602,
-  "2022-10-22": 459994,
-  "2022-10-23": 460382,
-  "2022-10-24": 460726,
-  "2022-10-25": 461025,
-  "2022-10-26": 461338,
-  "2022-10-27": 461688,
-  "2022-10-28": 462036,
-  "2022-10-29": 462417,
-  "2022-10-30": 462734,
-  "2022-10-31": 462995,
-  "2022-11-01": 463244,
-  "2022-11-02": 463510,
-  "2022-11-03": 463766,
-  "2022-11-04": 464079,
-  "2022-11-05": 464441,
-  "2022-11-06": 464829,
-  "2022-11-07": 465114,
-  "2022-11-08": 465396,
-  "2022-11-09": 465656,
-  "2022-11-10": 465943,
-  "2022-11-11": 466597,
-  "2022-11-12": 467105,
-  "2022-11-13": 467463,
-  "2022-11-14": 467884,
-  "2022-11-15": 468232,
-  "2022-11-16": 468595,
-  "2022-11-17": 468966,
-  "2022-11-18": 469099,
-  "2022-11-19": 468989,
-  "2022-11-20": 469653,
-  "2022-11-21": 469555,
-  "2022-11-22": 470617,
-  "2022-11-23": 470515,
-  "2022-11-24": 471715,
-  "2022-11-25": 472273,
-  "2022-11-26": 472666,
-  "2022-11-27": 473028,
-  "2022-11-28": 473372,
-  "2022-11-29": 473685,
-  "2022-11-30": 473982,
-  "2022-12-01": 474373,
-  "2022-12-02": 474640,
-  "2022-12-03": 475170,
-  "2022-12-04": 475525,
-  "2022-12-05": 475851,
-  "2022-12-06": 476096,
-  "2022-12-07": 476375,
-  "2022-12-08": 476699,
-  "2022-12-09": 477022,
-  "2022-12-10": 477392,
-  "2022-12-11": 477714,
-  "2022-12-12": 478034,
-  "2022-12-13": 478310,
-  "2022-12-14": 478611,
-  "2022-12-15": 478871,
-  "2022-12-16": 479152,
-  "2022-12-17": 479491,
-  "2022-12-18": 479888,
-  "2022-12-19": 480185,
-  "2022-12-20": 480797,
-  "2022-12-21": 480797,
-  "2022-12-22": 481110,
-  "2022-12-24": 481691,
-  "2022-12-25": 481955,
-  "2022-12-26": 482284,
-  "2022-12-27": 482704,
-  "2022-12-28": 483079,
-  "2022-12-29": 483463,
-  "2022-12-30": 483840,
-  "2022-12-31": 484279,
-  "2023-01-01": 484661,
-  "2023-01-02": 484999,
-  "2023-01-03": 485381,
-  "2023-01-04": 485639,
-  "2023-01-05": 485942,
-  "2023-01-06": 486370,
-  "2023-01-07": 486961,
-  "2023-01-08": 487066,
-  "2023-01-09": 487444,
-  "2023-01-10": 487768,
-  "2023-01-11": 488106,
-  "2023-01-12": 488580,
-  "2023-01-13": 489026,
-  "2023-01-14": 489879,
-  "2023-01-15": 490048,
-  "2023-01-16": 490487,
-  "2023-01-17": 490920,
-  "2023-01-18": 491317,
-  "2023-01-19": 491687,
-  "2023-01-20": 492070,
-  "2023-01-21": 492579,
-  "2023-01-22": 493106,
-  "2023-01-23": 493586,
-  "2023-01-24": 494011,
-  "2023-01-25": 494466,
-  "2023-01-26": 495032,
-  "2023-01-27": 495613,
-  "2023-01-28": 499423,
-  "2023-01-29": 501463,
-  "2023-01-30": 502903,
-  "2023-01-31": 502903,
-  "2023-02-01": 504296,
-  "2023-02-02": 504883,
-  "2023-02-03": 505431,
-  "2023-02-04": 506127,
-  "2023-02-05": 506714,
-  "2023-02-06": 507210,
-  "2023-02-07": 508059,
-  "2023-02-08": 509226,
-  "2023-02-09": 509226,
-  "2023-02-10": 509830,
-  "2023-02-11": 510625,
-  "2023-02-12": 511894,
-  "2023-02-13": 512413,
-  "2023-02-14": 512413,
-  "2023-02-15": 512875,
-  "2023-02-16": 513372,
-  "2023-02-17": 513909,
-  "2023-02-18": 514977,
-  "2023-02-19": 515083,
-  "2023-02-20": 515475,
-  "2023-02-21": 515950,
-  "2023-02-22": 516436,
-  "2023-02-23": 516873,
-  "2023-02-24": 517335,
-  "2023-02-25": 518186,
-  "2023-02-26": 518594,
-  "2023-02-27": 519449,
-  "2023-02-28": 519449,
-  "2023-03-01": 519833,
-  "2023-03-02": 520277,
-  "2023-03-03": 520817,
-  "2023-03-04": 521270,
-  "2023-03-05": 522157,
-  "2023-03-06": 522157,
-  "2023-03-07": 522526,
-  "2023-03-08": 522856,
-  "2023-03-09": 523235,
-  "2023-03-10": 523654,
-  "2023-03-11": 524093,
-  "2023-03-12": 524526,
-  "2023-03-13": 524943,
-  "2023-03-14": 525273,
-  "2023-03-15": 525549,
-  "2023-03-16": 525963,
-  "2023-03-17": 525963,
-  "2023-03-18": 23118,
-  "2023-03-19": 7104,
-  "2023-03-20": 4567,
-  "2023-03-21": 4628,
-  "2023-03-22": 5325,
-  "2023-03-23": 6079,
-  "2023-03-24": 6079,
-  "2023-03-25": 624567,
-  "2023-03-26": 625336,
-  "2023-03-27": 626032,
-  "2023-03-28": 626816,
-  "2023-03-29": 627491,
-  "2023-03-30": 628519,
-  "2023-03-31": 628519,
-  "2023-04-01": 629064,
-  "2023-04-02": 629617,
-  "2023-04-03": 630137,
-  "2023-04-04": 630687,
-  "2023-04-05": 631177,
-  "2023-04-06": 631706,
-  "2023-04-07": 632246,
-  "2023-04-09": 633289,
-  "2023-04-10": 633764,
-  "2023-04-11": 634797,
-  "2023-04-12": 634797,
-  "2023-04-13": 635395,
-  "2023-04-14": 636008,
-  "2023-04-15": 636612,
-  "2023-04-16": 637185,
-  "2023-04-17": 637748,
-  "2023-04-18": 638223,
-  "2023-04-19": 638714,
-  "2023-04-20": 639232,
-  "2023-04-21": 639737,
-  "2023-04-22": 640312,
-  "2023-04-23": 640815,
-  "2023-04-24": 641320,
-  "2023-04-25": 641747,
-  "2023-04-26": 642168,
-  "2023-04-27": 642629,
-  "2023-04-28": 643163,
-  "2023-04-29": 643663,
-  "2023-04-30": 644121,
-  "2023-05-01": 644586,
-  "2023-05-02": 645005,
-  "2023-05-03": 645373,
-  "2023-05-04": 645747,
-  "2023-05-05": 646165,
-  "2023-05-06": 646610,
-  "2023-05-07": 647075,
-  "2023-05-08": 647557,
-  "2023-05-09": 647899,
-  "2023-05-10": 648308,
-  "2023-05-11": 648716,
-  "2023-05-12": 649140,
-  "2023-05-13": 649709,
-  "2023-05-14": 650296,
-  "2023-05-15": 650781,
-  "2023-05-16": 651263,
-  "2023-05-17": 651689,
-  "2023-05-18": 652124,
-  "2023-05-19": 652617,
-  "2023-05-20": 653727,
-  "2023-05-21": 653727,
-  "2023-05-22": 653727,
-  "2023-05-23": 654619,
-  "2023-05-24": 655375,
-  "2023-05-25": 655519,
-  "2023-05-26": 655998,
-  "2023-05-27": 656517,
-  "2023-05-28": 657122,
-  "2023-05-29": 657122,
-  "2023-05-30": 658034,
-  "2023-05-31": 658454,
-  "2023-06-01": 658847,
-  "2023-06-02": 659268,
-  "2023-06-03": 659851,
-  "2023-06-04": 660421,
-  "2023-06-05": 660912,
-  "2023-06-06": 661344,
-  "2023-06-07": 661777,
-  "2023-06-08": 662191,
-  "2023-06-09": 662654,
-  "2023-06-10": 663202,
-  "2023-06-11": 663763,
-  "2023-06-12": 664262,
-  "2023-06-13": 664645,
-  "2023-06-14": 664798,
-  "2023-06-15": 664893,
-  "2023-06-16": 665049,
-  "2023-06-17": 665049,
-  "2023-06-18": 665049,
-  "2023-06-19": 665049,
-  "2023-06-20": 665049,
-  "2023-06-21": 665049,
-  "2023-06-22": 665049,
-  "2023-06-23": 665049,
-  "2023-06-24": 665049,
-  "2023-06-25": 665049,
-  "2023-06-26": 665049,
-  "2023-06-27": 665049,
-  "2023-06-28": 665049,
-  "2023-06-29": 665049,
-  "2023-06-30": 665049,
-  "2023-07-01": 665049,
-  "2023-07-02": 665049,
-  "2023-07-03": 665049,
-  "2023-07-04": 665049,
-  "2023-07-05": 665049,
-  "2023-07-06": 665049,
-  "2023-07-07": 665049,
-  "2023-07-08": 665049,
-  "2023-07-09": 665049,
-  "2023-07-10": 665049,
-  "2023-07-11": 665049,
-  "2023-07-12": 665049,
-  "2023-07-13": 665049,
-  "2023-07-14": 665049,
-  "2023-07-15": 665049,
-  "2023-07-16": 665049,
-  "2023-07-17": 665049,
-  "2023-07-18": 665049,
-  "2023-07-19": 665049,
-  "2023-07-20": 665049,
-  "2023-07-21": 665049,
-  "2023-07-22": 665049,
-  "2023-07-23": 665049,
-  "2023-07-24": 665049,
-  "2023-07-25": 665049,
-  "2023-07-26": 665049,
-  "2023-07-27": 665049,
-  "2023-07-28": 665049,
-  "2023-07-29": 665049,
-  "2023-07-30": 665049,
-  "2023-07-31": 665049,
-  "2023-08-01": 665049,
-  "2023-08-02": 665049,
-  "2023-08-03": 665049,
-  "2023-08-04": 665049,
-  "2023-08-05": 665049,
-  "2023-08-06": 665049,
-  "2023-08-07": 665049,
-  "2023-08-08": 665049,
-  "2023-08-09": 665049,
-  "2023-08-10": 665049,
-  "2023-08-11": 665049,
-  "2023-08-12": 665049,
-  "2023-08-13": 665049,
-  "2023-08-14": 665049,
-  "2023-08-15": 665049,
-  "2023-08-16": 665049,
-  "2023-08-17": 665049,
-  "2023-08-18": 665049,
-  "2023-08-19": 665049,
-  "2023-08-20": 665049,
-  "2023-08-21": 665049,
-  "2023-08-22": 665049,
-  "2023-08-23": 665049,
-  "2023-08-24": 665049,
-  "2023-08-25": 665049,
-  "2023-08-26": 665049,
-  "2023-08-27": 665049,
-  "2023-08-28": 665049,
-  "2023-08-29": 665049,
-  "2023-08-30": 665049,
-  "2023-08-31": 665049,
-  "2023-09-01": 665049,
-  "2023-09-02": 665049,
-  "2023-09-03": 665049,
-  "2023-09-04": 665049,
-  "2023-09-05": 665049,
-  "2023-09-06": 665049,
-  "2023-09-07": 665049,
-  "2023-09-08": 665049,
-  "2023-09-09": 665049,
-  "2023-09-10": 665049,
-  "2023-09-11": 665049,
-  "2023-09-12": 665049,
-  "2023-09-13": 665049,
-  "2023-09-14": 665049,
-  "2023-09-15": 665049,
-  "2023-09-16": 665049,
-  "2023-09-17": 665049,
-  "2023-09-18": 665049,
-  "2023-09-19": 665049,
-  "2023-09-20": 665049,
-  "2023-09-21": 665049,
-  "2023-09-22": 665049,
-  "2023-09-23": 665049,
-  "2023-09-24": 665049,
-  "2023-09-25": 665049,
-  "2023-09-26": 665049,
-  "2023-09-27": 665049,
-  "2023-09-28": 665049,
-  "2023-09-29": 665049,
-  "2023-09-30": 665049,
-  "2023-10-01": 665049,
-  "2023-10-02": 665049,
-  "2023-10-03": 665049,
-  "2023-10-04": 665049,
-  "2023-10-05": 665049,
-  "2023-10-06": 665049,
-  "2023-10-07": 665049,
-  "2023-10-08": 665049,
-  "2023-10-09": 665049,
-  "2023-10-10": 665049,
-  "2023-10-11": 665049,
-  "2023-10-12": 665049,
-  "2023-10-13": 665049,
-  "2023-10-14": 665049,
-  "2023-10-15": 665049,
-  "2023-10-16": 665049,
-  "2023-10-17": 665049,
-  "2023-10-18": 665049,
-  "2023-10-19": 665049,
-  "2023-10-20": 665049,
-  "2023-10-21": 665049,
-  "2023-10-22": 665049,
-  "2023-10-23": 665049,
-  "2023-10-24": 665049,
-  "2023-10-25": 665049,
-  "2023-10-26": 665049,
-  "2023-10-27": 665049,
-  "2023-10-28": 665049,
-  "2023-10-29": 665049,
-  "2023-10-30": 665049,
-  "2023-10-31": 665049,
-  "2023-11-01": 665049,
-  "2023-11-02": 665049,
-  "2023-11-03": 665049,
-  "2023-11-04": 665049,
-  "2023-11-05": 665049,
-  "2023-11-06": 665049,
-  "2023-11-07": 665049,
-  "2023-11-08": 665049,
-  "2023-11-09": 665049,
-  "2023-11-10": 665049,
-  "2023-11-11": 665049,
-  "2023-11-12": 665049,
-  "2023-11-13": 665049,
-  "2023-11-14": 665049,
-  "2023-11-15": 665049,
-  "2023-11-16": 665049,
-  "2023-11-17": 665049,
-  "2023-11-18": 665049,
-  "2023-11-19": 665049,
-  "2023-11-20": 665049,
-  "2023-11-21": 665049,
-  "2023-11-22": 665049,
-  "2023-11-23": 665049,
-  "2023-11-24": 665049,
-  "2023-11-25": 665049,
-  "2023-11-26": 665049,
-  "2023-11-27": 665049,
-  "2023-11-28": 665049,
-  "2023-11-29": 665049,
-  "2023-11-30": 665049,
-  "2023-12-01": 665049,
-  "2023-12-02": 665049,
-  "2023-12-03": 665049,
-  "2023-12-04": 665049,
-  "2023-12-05": 665049,
-  "2023-12-06": 665049,
-  "2023-12-07": 665049,
-  "2023-12-08": 665049,
-  "2023-12-09": 665049,
-  "2023-12-10": 665049,
-  "2023-12-11": 665049,
-  "2023-12-12": 665049,
-  "2023-12-13": 665049,
-  "2023-12-14": 665049,
-  "2023-12-15": 665049,
-  "2023-12-16": 665049,
-  "2023-12-17": 665049,
-  "2023-12-18": 665049,
-  "2023-12-19": 665049,
-  "2023-12-20": 665049,
-  "2023-12-21": 665049,
-  "2023-12-22": 665049,
-  "2023-12-23": 665049,
-  "2023-12-24": 665049,
-  "2023-12-25": 665049,
-  "2023-12-26": 665049,
-  "2023-12-27": 665049,
-  "2023-12-30": 665049,
-  "2023-12-31": 665049,
-  "2024-01-01": 665049,
-  "2024-01-02": 665049,
-  "2024-01-03": 665049
+  "2024-01-17": 665049,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Luke Combs. The essential tracks, all in one playlist.\n",
+  "name": "This Is Luke Combs (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "1, 2 Many",
+      "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
+    },
+    {
+      "album": {
+        "name": "Yacht Rock Classics",
+        "url": "https://open.spotify.com/album/5GM9YXSwam3xB1SP6KKjQC"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180906,
+      "name": "1, 2 Many",
+      "url": "https://open.spotify.com/track/6qMjM19LLLahZuKSihYn0c"
+    },
+    {
+      "album": {
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "A Long Way",
+      "url": "https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "A Song Was Born",
+      "url": "https://open.spotify.com/track/4AhZSJyGTfYqUnFjn5eGQa"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217253,
+      "name": "Ain't Far From It",
+      "url": "https://open.spotify.com/track/14OiDZVhNtthziMLFViHoU"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/1qUIg2DIRjuSFLBzwZ4QyE"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253786,
+      "name": "Angels Workin' Overtime",
+      "url": "https://open.spotify.com/track/3owCCrMPs3IoEAkm0xo4K2"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Any Given Friday Night",
+      "url": "https://open.spotify.com/track/3jowVO7LtaViPc19EcAJKQ"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "Back 40 Back",
+      "url": "https://open.spotify.com/track/5inIeRExNFzOuqaYU7tpT9"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Be Careful What You Wish For",
+      "url": "https://open.spotify.com/track/5gfK6bZFaApxdSHsHXrwPD"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+      "album": {
+        "name": "Beautiful Crazy (feat. Leon Bridges) [Live]",
+        "url": "https://open.spotify.com/album/6reqV1RJWoivSKTkJNjhQO"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186419,
+      "name": "Beautiful Crazy (feat. Leon Bridges) - Live",
+      "url": "https://open.spotify.com/track/4uI6wu9V3heWDqweerxJYF"
+    },
+    {
+      "album": {
+        "name": "Beautiful Crazy (Acoustic)",
+        "url": "https://open.spotify.com/album/1rlTimWrsM4HYDhCVv5HMT"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193234,
+      "name": "Beautiful Crazy - Acoustic",
+      "url": "https://open.spotify.com/track/5v05DdK7dCqmImUj4PLxOE"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Beer Can",
+      "url": "https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/3t5CI2xqUBytrGJGsBqmUV"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Better Back When",
+      "url": "https://open.spotify.com/track/1jdnhRcv4WN78ZB9RigUaR"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
+    },
+    {
+      "album": {
+        "name": "Beyond (feat. Luke Combs) [Live]",
+        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246946,
+      "name": "Beyond (feat. Luke Combs) - Live",
+      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Blue Collar Boys",
+      "url": "https://open.spotify.com/track/0wovagMoJqtU8LUvDQnewu"
+    },
+    {
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Brand New Man - with Luke Combs",
+      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3sPIJzHiDC420uQa8ZitF1"
+    },
+    {
+      "album": {
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Can I Get an Outlaw",
+      "url": "https://open.spotify.com/track/7vVsDu0gTg6oZtrKy7pXcW"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219733,
+      "name": "Dear Today",
+      "url": "https://open.spotify.com/track/1qF3tGI2bBOPm6G5pygE15"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Dear Today",
+      "url": "https://open.spotify.com/track/4hRIRj7aJYKo14MxOb8ILh"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260862,
+      "name": "Dive - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/2VWBdFsDJVGlRTdz4PvYwy"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+    },
+    {
+      "album": {
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Don't Tempt Me",
+      "url": "https://open.spotify.com/track/2JPgcccyZ938uv9AjCGMWq"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Even Though I'm Leaving",
+      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247826,
+      "name": "Every Little Bit Helps",
+      "url": "https://open.spotify.com/track/4403SJ69vRequRi3bV57e4"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Fox in the Henhouse",
+      "url": "https://open.spotify.com/track/3GZSVedXaTqScGsewGuAyi"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Going, Going, Gone",
+      "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "album": {
+        "name": "Growin' Up and Gettin' Old",
+        "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "Hannah Ford Road",
+      "url": "https://open.spotify.com/track/5gy5oMthJa807ihJik4U3O"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "Honky Tonk Highway",
+      "url": "https://open.spotify.com/track/72DdM3q1npvvRUoa1YQEOd"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "Houston, We Got a Problem",
+      "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "I Got Away with You",
+      "url": "https://open.spotify.com/track/5FUKOLrwBWkUzJ0Du3dm5T"
+    },
+    {
+      "album": {
+        "name": "The Way She Rides",
+        "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "I Know She Ain't Ready",
+      "url": "https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445"
+    },
+    {
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/3SfvfIU7ttLjbdRuu3L9fI"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/5epEhWhXug9oAjJZVgIMVS"
+    },
+    {
+      "album": {
+        "name": "The Way She Rides",
+        "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Let the Moonshine",
+      "url": "https://open.spotify.com/track/05DejmhRYCktQogzOVX1H9"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/5w5fbyYHo5129Ce4c7qeWa"
+    },
+    {
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Lovin' On You",
+      "url": "https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Memories Are Made Of",
+      "url": "https://open.spotify.com/track/0h31TZMlv0ZLc5yppKngwk"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Middle of Somewhere",
+      "url": "https://open.spotify.com/track/6barxNSGzv0cRnD6Q2RfWu"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Moon Over Mexico",
+      "url": "https://open.spotify.com/track/2h4fQzNmlhTrqJmwpGus0N"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Must've Never Met You",
+      "url": "https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "My Kinda Folk",
+      "url": "https://open.spotify.com/track/3PwtBxiuJGVGHFfHjOjTpY"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "My Song Will Never Die",
+      "url": "https://open.spotify.com/track/2bPOr33Dh8usjH01h1wa3N"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "New Every Day",
+      "url": "https://open.spotify.com/track/429Ok92eZTbjnH8e2ytGh8"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Nothing Like You",
+      "url": "https://open.spotify.com/track/38gbVnKWI8xEd7AnqS9aiZ"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "On the Other Line",
+      "url": "https://open.spotify.com/track/1vmsUZWNYg41qrK76ZDcYj"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "One Number Away",
+      "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2cLbHhoGUUDFygKYSksKHV"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254746,
+      "name": "Outrunnin' Your Memory",
+      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/0zK0C1rgdcZTVHtUCh2FPW"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Refrigerator Door",
+      "url": "https://open.spotify.com/track/3bfuN2UbSYYqCLG3cdweGf"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "See Me Now",
+      "url": "https://open.spotify.com/track/5WxQEQJtrOYzobMBTsdPBb"
+    },
+    {
+      "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Seminole Wind",
+      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
+    },
+    {
+      "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "She Got the Best of Me",
+      "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
+    },
+    {
+      "album": {
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "Sheriff You Want To",
+      "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
+    },
+    {
+      "album": {
+        "name": "Six Feet Apart",
+        "url": "https://open.spotify.com/album/32lkvwsTJrI3SVQUuKTy2R"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199068,
+      "name": "Six Feet Apart",
+      "url": "https://open.spotify.com/track/3aMUiKCIXJeurR5ppEMJZD"
+    },
+    {
+      "album": {
+        "name": "South On Ya",
+        "url": "https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171864,
+      "name": "South On Ya",
+      "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6LuooOeUu4NOjkVOiT5CdS"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "Take You With Me",
+      "url": "https://open.spotify.com/track/4tgKstWpyU8mtWVQp7ojbM"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "Tattoo on a Sunburn",
+      "url": "https://open.spotify.com/track/0V75hy6x3cToema5BdJaj9"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "The Beer, the Band, and the Barstool",
+      "url": "https://open.spotify.com/track/4xXLSKNYTHLN00eZEzbqLr"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211990,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD"
+    },
+    {
+      "album": {
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190720,
+      "name": "The Other Guy",
+      "url": "https://open.spotify.com/track/0jcZ1uIHmvh6Is9T6hXOUk"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "The Part",
+      "url": "https://open.spotify.com/track/3v8e2n4bFrAeKRKgy3nha1"
+    },
+    {
+      "album": {
+        "name": "The Way She Rides",
+        "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "The Way She Rides",
+      "url": "https://open.spotify.com/track/4t2AnYhvH7gr59zLJ5Cn6c"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/02Ey48n33H3erWJRZAtTFj"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Me",
+        "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "Tomorrow Me",
+      "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Used To Wish I Was",
+      "url": "https://open.spotify.com/track/7vnYQ1R5XLWm9AgGbZmnKd"
+    },
+    {
+      "album": {
+        "name": "Used to You",
+        "url": "https://open.spotify.com/album/6FsIVrMeaJPxJIxfx9tBZs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236506,
+      "name": "Used to You",
+      "url": "https://open.spotify.com/track/2HR9wF4WR2sCJP4r6l9WVF"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171920,
+      "name": "What You See Is What You Get",
+      "url": "https://open.spotify.com/track/273TiTHLlHSRe5zrzs7wvD"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+    },
+    {
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/3zxAw8PaqpeGZ3Pakkxv3J"
+    },
+    {
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "You Found Yours",
+      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4XkcocBAgP3"
 }

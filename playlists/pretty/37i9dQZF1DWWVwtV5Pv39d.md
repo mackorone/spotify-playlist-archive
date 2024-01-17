@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,444 likes - 70 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,908 likes - 70 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 52 | [Potties Everywhere](https://open.spotify.com/track/6kfee9Z4wWfxxPkl2Bxcmd) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:03 |
 | 53 | [The Potty Song](https://open.spotify.com/track/2pl6yuX79AQJtn2gmBjLtW) | [Miss Kitty](https://open.spotify.com/artist/0Sm4L9Y9n0PDeNXTX7xTEx) | [Please Come To My Party](https://open.spotify.com/album/1VP9v0mRFiqjhzrzCj4lt9) | 2:24 |
 | 54 | [The Monkey Dance](https://open.spotify.com/track/0AdwySo2rN6vc9XXEQLv7J) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:43 |
-| 55 | [Alphabet Song](https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [ABC KIDS SONGS えいごでうたお!](https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1) | 1:46 |
+| 55 | [Alphabet Song](https://open.spotify.com/track/5zTwoZYH8PIzchYx1pkxIT) | [Cooltime](https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf) | [ABC KIDS SONGS えいごでうたお！](https://open.spotify.com/album/3rphDcWkCL4H40jKTOgYN1) | 1:46 |
 | 56 | [Look At All The Letters](https://open.spotify.com/track/66amatHrD8i2JcuQsufI05) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 2:36 |
 | 57 | [Shake My Sillies Out](https://open.spotify.com/track/0e1mUAXE8jSG9ExAS4AWU7) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 1:05 |
 | 58 | [Use Your Words](https://open.spotify.com/track/1qcQTqDZLWEC6dB5shIiPw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:05 |

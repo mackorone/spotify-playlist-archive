@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,638 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,981 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 131 | [No Idea \- Instrumental](https://open.spotify.com/track/1Auq1tUDJtQsfIdIuHbuOE) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52) | [Chasing The Sun \(Instrumentals\)](https://open.spotify.com/album/4SyosdPF7iHk2rJWzzDEYm) | 4:34 |
 | 132 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 |
 | 133 | [Feel It](https://open.spotify.com/track/0WAtS74vyltpvuINigLmqO) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Feel It](https://open.spotify.com/album/5ggshVcZ8TXYARYfgW8xV5) | 2:07 |
-| 134 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
+| 134 | [Dallas](https://open.spotify.com/track/6MqBw0PbsgNiGf1amzt3dZ) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/4ZBpVOHgTELhVKj3kHN5Mo) | 3:34 |
 | 135 | [A Wild Mad Beat \- Edit](https://open.spotify.com/track/44WPomHosQL0gwNyLykOzo) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [A Wild Mad Beat \(Edit\)](https://open.spotify.com/album/33DiXWQxPtC4HM2Pg2XqXn) | 4:07 |
 | 136 | [Missy's Strut](https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Songs from the House of Grease](https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH) | 3:55 |
 | 137 | [Test Drive \(Instrumental\)](https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 2:57 |

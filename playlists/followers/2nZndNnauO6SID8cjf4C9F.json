@@ -1,735 +1,917 @@
 {
-  "2021-12-25": 2126,
-  "2021-12-26": 2126,
-  "2021-12-27": 2126,
-  "2021-12-28": 2126,
-  "2021-12-29": 2126,
-  "2021-12-30": 2126,
-  "2021-12-31": 2126,
-  "2022-01-01": 2126,
-  "2022-01-02": 2126,
-  "2022-01-03": 2126,
-  "2022-01-04": 2126,
-  "2022-01-05": 2125,
-  "2022-01-06": 2125,
-  "2022-01-07": 2124,
-  "2022-01-08": 2124,
-  "2022-01-09": 2124,
-  "2022-01-10": 2124,
-  "2022-01-11": 2124,
-  "2022-01-12": 2124,
-  "2022-01-13": 2124,
-  "2022-01-14": 2124,
-  "2022-01-15": 2124,
-  "2022-01-16": 2124,
-  "2022-01-17": 2124,
-  "2022-01-18": 2124,
-  "2022-01-19": 2124,
-  "2022-01-20": 2124,
-  "2022-01-21": 2124,
-  "2022-01-22": 2124,
-  "2022-01-23": 2124,
-  "2022-01-24": 2124,
-  "2022-01-25": 2124,
-  "2022-01-26": 2124,
-  "2022-01-27": 2124,
-  "2022-01-28": 2123,
-  "2022-01-29": 2123,
-  "2022-01-30": 2123,
-  "2022-01-31": 2123,
-  "2022-02-01": 2123,
-  "2022-02-02": 2123,
-  "2022-02-03": 2123,
-  "2022-02-04": 2123,
-  "2022-02-05": 2123,
-  "2022-02-06": 2123,
-  "2022-02-07": 2123,
-  "2022-02-08": 2123,
-  "2022-02-09": 2123,
-  "2022-02-10": 2122,
-  "2022-02-11": 2121,
-  "2022-02-12": 2121,
-  "2022-02-13": 2121,
-  "2022-02-14": 2121,
-  "2022-02-15": 2121,
-  "2022-02-16": 2121,
-  "2022-02-17": 2121,
-  "2022-02-18": 2121,
-  "2022-02-19": 2121,
-  "2022-02-20": 2121,
-  "2022-02-21": 2121,
-  "2022-02-22": 2121,
-  "2022-02-23": 2121,
-  "2022-02-24": 2121,
-  "2022-02-25": 2121,
-  "2022-02-26": 2121,
-  "2022-02-27": 2121,
-  "2022-02-28": 2121,
-  "2022-03-01": 2121,
-  "2022-03-02": 2121,
-  "2022-03-03": 2121,
-  "2022-03-04": 2121,
-  "2022-03-05": 2121,
-  "2022-03-06": 2121,
-  "2022-03-07": 2121,
-  "2022-03-08": 2121,
-  "2022-03-09": 2121,
-  "2022-03-10": 2120,
-  "2022-03-11": 2120,
-  "2022-03-12": 2119,
-  "2022-03-13": 2119,
-  "2022-03-14": 2119,
-  "2022-03-15": 2119,
-  "2022-03-16": 2119,
-  "2022-03-17": 2119,
-  "2022-03-18": 2119,
-  "2022-03-19": 2119,
-  "2022-03-20": 2119,
-  "2022-03-21": 2119,
-  "2022-03-22": 2119,
-  "2022-03-23": 2119,
-  "2022-03-24": 2119,
-  "2022-03-25": 2118,
-  "2022-03-26": 2118,
-  "2022-03-27": 2118,
-  "2022-03-28": 2118,
-  "2022-03-30": 2118,
-  "2022-03-31": 2118,
-  "2022-04-01": 2118,
-  "2022-04-02": 2118,
-  "2022-04-03": 2118,
-  "2022-04-04": 2118,
-  "2022-04-05": 2118,
-  "2022-04-06": 2118,
-  "2022-04-07": 2118,
-  "2022-04-08": 2118,
-  "2022-04-09": 2117,
-  "2022-04-10": 2118,
-  "2022-04-11": 2118,
-  "2022-04-12": 2118,
-  "2022-04-13": 2118,
-  "2022-04-14": 2118,
-  "2022-04-15": 2118,
-  "2022-04-16": 2118,
-  "2022-04-17": 2118,
-  "2022-04-18": 2118,
-  "2022-04-19": 2118,
-  "2022-04-20": 2118,
-  "2022-04-21": 2118,
-  "2022-04-22": 2118,
-  "2022-04-23": 2118,
-  "2022-04-24": 2118,
-  "2022-04-25": 2118,
-  "2022-04-26": 2118,
-  "2022-04-27": 2118,
-  "2022-04-28": 2118,
-  "2022-04-29": 2118,
-  "2022-04-30": 2118,
-  "2022-05-01": 2118,
-  "2022-05-02": 2118,
-  "2022-05-03": 2118,
-  "2022-05-04": 2118,
-  "2022-05-05": 2118,
-  "2022-05-06": 2118,
-  "2022-05-07": 2118,
-  "2022-05-08": 2118,
-  "2022-05-09": 2118,
-  "2022-05-10": 2118,
-  "2022-05-11": 2118,
-  "2022-05-12": 2118,
-  "2022-05-13": 2118,
-  "2022-05-14": 2118,
-  "2022-05-15": 2118,
-  "2022-05-16": 2118,
-  "2022-05-17": 2118,
-  "2022-05-18": 2118,
-  "2022-05-19": 2118,
-  "2022-05-20": 2118,
-  "2022-05-21": 2118,
-  "2022-05-22": 2118,
-  "2022-05-23": 2118,
-  "2022-05-24": 2118,
-  "2022-05-25": 2118,
-  "2022-05-26": 2118,
-  "2022-05-27": 2118,
-  "2022-05-28": 2118,
-  "2022-05-29": 2118,
-  "2022-05-30": 2118,
-  "2022-05-31": 2118,
-  "2022-06-01": 2118,
-  "2022-06-02": 2118,
-  "2022-06-03": 2118,
-  "2022-06-04": 2118,
-  "2022-06-05": 2118,
-  "2022-06-06": 2118,
-  "2022-06-07": 2118,
-  "2022-06-08": 2118,
-  "2022-06-09": 2118,
-  "2022-06-10": 2118,
-  "2022-06-11": 2118,
-  "2022-06-12": 2118,
-  "2022-06-13": 2118,
-  "2022-06-14": 2118,
-  "2022-06-15": 2118,
-  "2022-06-16": 2118,
-  "2022-06-17": 2118,
-  "2022-06-18": 2118,
-  "2022-06-19": 2118,
-  "2022-06-20": 2118,
-  "2022-06-21": 2118,
-  "2022-06-22": 2118,
-  "2022-06-23": 2118,
-  "2022-06-24": 2118,
-  "2022-06-25": 2118,
-  "2022-06-26": 2118,
-  "2022-06-27": 2118,
-  "2022-06-28": 2118,
-  "2022-06-29": 2118,
-  "2022-06-30": 2118,
-  "2022-07-01": 2118,
-  "2022-07-02": 2118,
-  "2022-07-03": 2118,
-  "2022-07-04": 2118,
-  "2022-07-05": 2118,
-  "2022-07-06": 2118,
-  "2022-07-07": 2118,
-  "2022-07-08": 2118,
-  "2022-07-09": 2118,
-  "2022-07-10": 2118,
-  "2022-07-11": 2118,
-  "2022-07-12": 2118,
-  "2022-07-13": 2118,
-  "2022-07-14": 2118,
-  "2022-07-15": 2118,
-  "2022-07-16": 2118,
-  "2022-07-17": 2118,
-  "2022-07-18": 2118,
-  "2022-07-19": 2118,
-  "2022-07-20": 2118,
-  "2022-07-21": 2118,
-  "2022-07-22": 2118,
-  "2022-07-23": 2118,
-  "2022-07-24": 2118,
-  "2022-07-25": 2118,
-  "2022-07-26": 2118,
-  "2022-07-27": 2118,
-  "2022-07-28": 2118,
-  "2022-07-29": 2118,
-  "2022-07-30": 2118,
-  "2022-07-31": 2118,
-  "2022-08-01": 2118,
-  "2022-08-02": 2118,
-  "2022-08-03": 2118,
-  "2022-08-04": 2118,
-  "2022-08-05": 2118,
-  "2022-08-06": 2118,
-  "2022-08-07": 2118,
-  "2022-08-08": 2118,
-  "2022-08-09": 2118,
-  "2022-08-10": 2118,
-  "2022-08-11": 2118,
-  "2022-08-12": 2118,
-  "2022-08-13": 2118,
-  "2022-08-14": 2118,
-  "2022-08-15": 2118,
-  "2022-08-16": 2118,
-  "2022-08-17": 2118,
-  "2022-08-18": 2118,
-  "2022-08-19": 2118,
-  "2022-08-20": 2118,
-  "2022-08-21": 2118,
-  "2022-08-22": 2118,
-  "2022-08-23": 2118,
-  "2022-08-24": 2118,
-  "2022-08-25": 2118,
-  "2022-08-26": 2118,
-  "2022-08-27": 2118,
-  "2022-08-28": 2118,
-  "2022-08-29": 2118,
-  "2022-08-30": 2118,
-  "2022-08-31": 2118,
-  "2022-09-01": 2118,
-  "2022-09-02": 2118,
-  "2022-09-03": 2118,
-  "2022-09-04": 2118,
-  "2022-09-05": 2118,
-  "2022-09-06": 2118,
-  "2022-09-07": 2118,
-  "2022-09-09": 2118,
-  "2022-09-10": 2118,
-  "2022-09-11": 2118,
-  "2022-09-12": 2118,
-  "2022-09-13": 2118,
-  "2022-09-15": 2118,
-  "2022-09-16": 2118,
-  "2022-09-17": 2118,
-  "2022-09-18": 2118,
-  "2022-09-19": 2118,
-  "2022-09-20": 2118,
-  "2022-09-21": 2118,
-  "2022-09-22": 2118,
-  "2022-09-23": 2118,
-  "2022-09-24": 2118,
-  "2022-09-25": 2118,
-  "2022-09-26": 2119,
-  "2022-09-27": 2119,
-  "2022-09-28": 2119,
-  "2022-09-29": 2119,
-  "2022-09-30": 2119,
-  "2022-10-01": 2119,
-  "2022-10-02": 2119,
-  "2022-10-03": 2119,
-  "2022-10-04": 2119,
-  "2022-10-05": 2119,
-  "2022-10-06": 2119,
-  "2022-10-07": 2119,
-  "2022-10-08": 2119,
-  "2022-10-09": 2119,
-  "2022-10-10": 2119,
-  "2022-10-11": 2119,
-  "2022-10-12": 2119,
-  "2022-10-13": 2119,
-  "2022-10-14": 2119,
-  "2022-10-15": 2119,
-  "2022-10-16": 2119,
-  "2022-10-17": 2119,
-  "2022-10-18": 2119,
-  "2022-10-19": 2119,
-  "2022-10-20": 2119,
-  "2022-10-21": 2119,
-  "2022-10-22": 2119,
-  "2022-10-23": 2119,
-  "2022-10-24": 2119,
-  "2022-10-25": 2119,
-  "2022-10-26": 2119,
-  "2022-10-27": 2119,
-  "2022-10-28": 2118,
-  "2022-10-29": 2118,
-  "2022-10-30": 2118,
-  "2022-10-31": 2118,
-  "2022-11-01": 2118,
-  "2022-11-02": 2118,
-  "2022-11-03": 2118,
-  "2022-11-04": 2119,
-  "2022-11-05": 2119,
-  "2022-11-06": 2119,
-  "2022-11-07": 2119,
-  "2022-11-08": 2120,
-  "2022-11-09": 2121,
-  "2022-11-10": 2124,
-  "2022-11-11": 2126,
-  "2022-11-12": 2126,
-  "2022-11-13": 2126,
-  "2022-11-14": 2126,
-  "2022-11-15": 2126,
-  "2022-11-16": 2126,
-  "2022-11-17": 2126,
-  "2022-11-18": 2126,
-  "2022-11-19": 2126,
-  "2022-11-20": 2126,
-  "2022-11-21": 2122,
-  "2022-11-22": 2122,
-  "2022-11-23": 2120,
-  "2022-11-24": 2120,
-  "2022-11-25": 2120,
-  "2022-11-26": 2119,
-  "2022-11-27": 2119,
-  "2022-11-28": 2119,
-  "2022-11-29": 2119,
-  "2022-11-30": 2119,
-  "2022-12-01": 2119,
-  "2022-12-02": 2119,
-  "2022-12-03": 2119,
-  "2022-12-04": 2119,
-  "2022-12-05": 2119,
-  "2022-12-06": 2119,
-  "2022-12-07": 2119,
-  "2022-12-08": 2119,
-  "2022-12-09": 2119,
-  "2022-12-10": 2119,
-  "2022-12-11": 2119,
-  "2022-12-12": 2119,
-  "2022-12-13": 2119,
-  "2022-12-14": 2118,
-  "2022-12-15": 2118,
-  "2022-12-16": 2118,
-  "2022-12-17": 2118,
-  "2022-12-18": 2118,
-  "2022-12-19": 2118,
-  "2022-12-20": 2118,
-  "2022-12-21": 2118,
-  "2022-12-22": 2118,
-  "2022-12-24": 2118,
-  "2022-12-25": 2118,
-  "2022-12-26": 2117,
-  "2022-12-27": 2117,
-  "2022-12-28": 2117,
-  "2022-12-29": 2117,
-  "2022-12-30": 2117,
-  "2022-12-31": 2117,
-  "2023-01-01": 2116,
-  "2023-01-02": 2116,
-  "2023-01-03": 2116,
-  "2023-01-04": 2116,
-  "2023-01-05": 2116,
-  "2023-01-06": 2116,
-  "2023-01-07": 2116,
-  "2023-01-08": 2116,
-  "2023-01-09": 2116,
-  "2023-01-10": 2116,
-  "2023-01-11": 2116,
-  "2023-01-12": 2116,
-  "2023-01-13": 2116,
-  "2023-01-14": 2116,
-  "2023-01-15": 2116,
-  "2023-01-16": 2116,
-  "2023-01-17": 2116,
-  "2023-01-18": 2116,
-  "2023-01-19": 2116,
-  "2023-01-20": 2116,
-  "2023-01-21": 2116,
-  "2023-01-22": 2116,
-  "2023-01-23": 2116,
-  "2023-01-24": 2116,
-  "2023-01-25": 2116,
-  "2023-01-26": 2116,
-  "2023-01-27": 2116,
-  "2023-01-28": 2116,
-  "2023-01-29": 2116,
-  "2023-01-30": 2116,
-  "2023-01-31": 2116,
-  "2023-02-01": 2116,
-  "2023-02-02": 2116,
-  "2023-02-03": 2116,
-  "2023-02-04": 2116,
-  "2023-02-05": 2116,
-  "2023-02-06": 2116,
-  "2023-02-07": 2116,
-  "2023-02-08": 2116,
-  "2023-02-09": 2116,
-  "2023-02-10": 2116,
-  "2023-02-11": 2116,
-  "2023-02-12": 2116,
-  "2023-02-13": 2116,
-  "2023-02-14": 2116,
-  "2023-02-15": 2116,
-  "2023-02-16": 2116,
-  "2023-02-17": 2116,
-  "2023-02-18": 2116,
-  "2023-02-19": 2116,
-  "2023-02-20": 2116,
-  "2023-02-21": 2116,
-  "2023-02-22": 2116,
-  "2023-02-23": 2116,
-  "2023-02-24": 2115,
-  "2023-02-25": 2115,
-  "2023-02-26": 2115,
-  "2023-02-27": 2115,
-  "2023-02-28": 2115,
-  "2023-03-01": 2115,
-  "2023-03-02": 2115,
-  "2023-03-03": 2115,
-  "2023-03-04": 2115,
-  "2023-03-05": 2115,
-  "2023-03-06": 2115,
-  "2023-03-07": 2115,
-  "2023-03-08": 2115,
-  "2023-03-09": 2115,
-  "2023-03-10": 2115,
-  "2023-03-11": 2115,
-  "2023-03-12": 2115,
-  "2023-03-13": 2115,
-  "2023-03-14": 2115,
-  "2023-03-15": 2115,
-  "2023-03-16": 2115,
-  "2023-03-17": 2115,
-  "2023-03-18": 2115,
-  "2023-03-19": 2115,
-  "2023-03-20": 2115,
-  "2023-03-21": 2115,
-  "2023-03-22": 2115,
-  "2023-03-23": 2115,
-  "2023-03-24": 2115,
-  "2023-03-25": 2115,
-  "2023-03-26": 2115,
-  "2023-03-27": 2115,
-  "2023-03-28": 2115,
-  "2023-03-29": 2115,
-  "2023-03-30": 2115,
-  "2023-03-31": 2115,
-  "2023-04-01": 2115,
-  "2023-04-02": 2115,
-  "2023-04-03": 2115,
-  "2023-04-04": 2115,
-  "2023-04-05": 2115,
-  "2023-04-06": 2115,
-  "2023-04-07": 2115,
-  "2023-04-09": 2115,
-  "2023-04-10": 2115,
-  "2023-04-11": 2115,
-  "2023-04-12": 2115,
-  "2023-04-13": 2115,
-  "2023-04-14": 2115,
-  "2023-04-15": 2115,
-  "2023-04-16": 2115,
-  "2023-04-17": 2115,
-  "2023-04-18": 2115,
-  "2023-04-19": 2115,
-  "2023-04-20": 2115,
-  "2023-04-21": 2115,
-  "2023-04-22": 2115,
-  "2023-04-23": 2115,
-  "2023-04-24": 2115,
-  "2023-04-25": 2115,
-  "2023-04-26": 2115,
-  "2023-04-27": 2115,
-  "2023-04-28": 2115,
-  "2023-04-29": 2115,
-  "2023-04-30": 2114,
-  "2023-05-01": 2114,
-  "2023-05-02": 2114,
-  "2023-05-03": 2114,
-  "2023-05-04": 2114,
-  "2023-05-05": 2114,
-  "2023-05-06": 2114,
-  "2023-05-07": 2114,
-  "2023-05-08": 2114,
-  "2023-05-09": 2114,
-  "2023-05-10": 2114,
-  "2023-05-11": 2114,
-  "2023-05-12": 2114,
-  "2023-05-13": 2114,
-  "2023-05-14": 2114,
-  "2023-05-15": 2114,
-  "2023-05-16": 2114,
-  "2023-05-17": 2114,
-  "2023-05-18": 2114,
-  "2023-05-19": 2114,
-  "2023-05-20": 2114,
-  "2023-05-21": 2114,
-  "2023-05-22": 2114,
-  "2023-05-23": 2114,
-  "2023-05-24": 2114,
-  "2023-05-25": 2114,
-  "2023-05-26": 2114,
-  "2023-05-27": 2114,
-  "2023-05-28": 2114,
-  "2023-05-29": 2114,
-  "2023-05-30": 2114,
-  "2023-05-31": 2114,
-  "2023-06-01": 2114,
-  "2023-06-02": 2114,
-  "2023-06-03": 2114,
-  "2023-06-04": 2114,
-  "2023-06-05": 2114,
-  "2023-06-06": 2114,
-  "2023-06-07": 2114,
-  "2023-06-08": 2114,
-  "2023-06-09": 2114,
-  "2023-06-10": 2114,
-  "2023-06-11": 2114,
-  "2023-06-12": 2114,
-  "2023-06-13": 2114,
-  "2023-06-14": 2114,
-  "2023-06-15": 2114,
-  "2023-06-16": 2114,
-  "2023-06-17": 2114,
-  "2023-06-18": 2114,
-  "2023-06-19": 2114,
-  "2023-06-20": 2114,
-  "2023-06-21": 2114,
-  "2023-06-22": 2114,
-  "2023-06-23": 2114,
-  "2023-06-24": 2114,
-  "2023-06-25": 2114,
-  "2023-06-26": 2114,
-  "2023-06-27": 2115,
-  "2023-06-28": 2115,
-  "2023-06-29": 2115,
-  "2023-06-30": 2115,
-  "2023-07-01": 2115,
-  "2023-07-02": 2115,
-  "2023-07-03": 2115,
-  "2023-07-04": 2114,
-  "2023-07-05": 2114,
-  "2023-07-06": 2114,
-  "2023-07-07": 2114,
-  "2023-07-08": 2114,
-  "2023-07-09": 2113,
-  "2023-07-10": 2113,
-  "2023-07-11": 2113,
-  "2023-07-12": 2112,
-  "2023-07-13": 2112,
-  "2023-07-14": 2112,
-  "2023-07-15": 2112,
-  "2023-07-16": 2112,
-  "2023-07-17": 2112,
-  "2023-07-18": 2112,
-  "2023-07-19": 2112,
-  "2023-07-20": 2112,
-  "2023-07-21": 2112,
-  "2023-07-22": 2112,
-  "2023-07-23": 2112,
-  "2023-07-24": 2112,
-  "2023-07-25": 2112,
-  "2023-07-26": 2112,
-  "2023-07-27": 2112,
-  "2023-07-28": 2112,
-  "2023-07-29": 2112,
-  "2023-07-30": 2112,
-  "2023-07-31": 2112,
-  "2023-08-01": 2112,
-  "2023-08-02": 2112,
-  "2023-08-03": 2111,
-  "2023-08-04": 2111,
-  "2023-08-05": 2111,
-  "2023-08-06": 2111,
-  "2023-08-07": 2111,
-  "2023-08-08": 2111,
-  "2023-08-09": 2111,
-  "2023-08-10": 2111,
-  "2023-08-11": 2111,
-  "2023-08-12": 2111,
-  "2023-08-13": 2111,
-  "2023-08-14": 2111,
-  "2023-08-15": 2111,
-  "2023-08-16": 2111,
-  "2023-08-17": 2111,
-  "2023-08-18": 2111,
-  "2023-08-19": 2111,
-  "2023-08-20": 2111,
-  "2023-08-21": 2111,
-  "2023-08-22": 2111,
-  "2023-08-23": 2111,
-  "2023-08-24": 2111,
-  "2023-08-25": 2111,
-  "2023-08-26": 2111,
-  "2023-08-27": 2111,
-  "2023-08-28": 2111,
-  "2023-08-29": 2111,
-  "2023-08-30": 2110,
-  "2023-08-31": 2110,
-  "2023-09-01": 2110,
-  "2023-09-02": 2110,
-  "2023-09-03": 2110,
-  "2023-09-04": 2110,
-  "2023-09-05": 2110,
-  "2023-09-06": 2110,
-  "2023-09-07": 2110,
-  "2023-09-08": 2110,
-  "2023-09-09": 2110,
-  "2023-09-10": 2110,
-  "2023-09-11": 2110,
-  "2023-09-12": 2110,
-  "2023-09-13": 2110,
-  "2023-09-14": 2110,
-  "2023-09-15": 2110,
-  "2023-09-16": 2110,
-  "2023-09-17": 2110,
-  "2023-09-18": 2110,
-  "2023-09-19": 2110,
-  "2023-09-20": 2110,
-  "2023-09-21": 2110,
-  "2023-09-22": 2110,
-  "2023-09-23": 2110,
-  "2023-09-24": 2110,
-  "2023-09-25": 2110,
-  "2023-09-26": 2110,
-  "2023-09-27": 2110,
-  "2023-09-28": 2110,
-  "2023-09-29": 2110,
-  "2023-09-30": 2110,
-  "2023-10-01": 2110,
-  "2023-10-02": 2110,
-  "2023-10-03": 2110,
-  "2023-10-04": 2110,
-  "2023-10-05": 2110,
-  "2023-10-06": 2110,
-  "2023-10-07": 2110,
-  "2023-10-08": 2110,
-  "2023-10-09": 2109,
-  "2023-10-10": 2080,
-  "2023-10-11": 2058,
-  "2023-10-12": 2058,
-  "2023-10-13": 2058,
-  "2023-10-14": 2042,
-  "2023-10-15": 2031,
-  "2023-10-16": 2029,
-  "2023-10-17": 2029,
-  "2023-10-18": 2029,
-  "2023-10-19": 2029,
-  "2023-10-20": 2029,
-  "2023-10-21": 2029,
-  "2023-10-22": 2029,
-  "2023-10-23": 2029,
-  "2023-10-24": 2029,
-  "2023-10-25": 2029,
-  "2023-10-26": 2029,
-  "2023-10-27": 2029,
-  "2023-10-28": 2029,
-  "2023-10-29": 2029,
-  "2023-10-30": 2029,
-  "2023-10-31": 2029,
-  "2023-11-01": 2029,
-  "2023-11-02": 2029,
-  "2023-11-03": 2029,
-  "2023-11-04": 2028,
-  "2023-11-05": 2028,
-  "2023-11-06": 2028,
-  "2023-11-07": 2028,
-  "2023-11-08": 2028,
-  "2023-11-09": 2028,
-  "2023-11-10": 2028,
-  "2023-11-11": 2028,
-  "2023-11-12": 2028,
-  "2023-11-13": 2028,
-  "2023-11-14": 2028,
-  "2023-11-15": 2028,
-  "2023-11-16": 2028,
-  "2023-11-17": 2028,
-  "2023-11-18": 2028,
-  "2023-11-19": 2028,
-  "2023-11-20": 2028,
-  "2023-11-21": 2028,
-  "2023-11-22": 2028,
-  "2023-11-23": 2028,
-  "2023-11-24": 2028,
-  "2023-11-25": 2028,
-  "2023-11-26": 2028,
-  "2023-11-27": 2028,
-  "2023-11-28": 2028,
-  "2023-11-29": 2028,
-  "2023-11-30": 2028,
-  "2023-12-01": 2028,
-  "2023-12-02": 2028,
-  "2023-12-03": 2028,
-  "2023-12-04": 2028,
-  "2023-12-05": 2028,
-  "2023-12-06": 2028,
-  "2023-12-07": 2028,
-  "2023-12-08": 2028,
-  "2023-12-09": 2028,
-  "2023-12-10": 2028,
-  "2023-12-11": 2028,
-  "2023-12-12": 2028,
-  "2023-12-13": 2028,
-  "2023-12-14": 2028,
-  "2023-12-15": 2028,
-  "2023-12-16": 2028,
-  "2023-12-17": 2028,
-  "2023-12-18": 2028,
-  "2023-12-19": 2028,
-  "2023-12-20": 2028,
-  "2023-12-21": 2028,
-  "2023-12-22": 2028,
-  "2023-12-23": 2028,
-  "2023-12-24": 2028,
-  "2023-12-25": 2028,
-  "2023-12-26": 2028,
-  "2023-12-27": 2028,
-  "2023-12-30": 2028,
-  "2023-12-31": 2028,
-  "2024-01-01": 2028,
-  "2024-01-02": 2028,
-  "2024-01-03": 2028
+  "2024-01-17": 1935,
+  "date_first_scraped": "2021-12-21",
+  "description": "MMG top picks chosen by Spotify.",
+  "name": "MMG Spotify Picks",
+  "tracks": [
+    {
+      "album": {
+        "name": "God Forgives, I Don't (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1tNzdqkrtt6vwdCTj5gYCD"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "3 Kings - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/1uNqULK5Y6cKkjFCv0gljK"
+    },
+    {
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289706,
+      "name": "Amen (feat. Drake)",
+      "url": "https://open.spotify.com/track/32UIpKdyGzgTPTO8e5ge5c"
+    },
+    {
+      "album": {
+        "name": "Luxurious Undergrind",
+        "url": "https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260650,
+      "name": "Another Luvr",
+      "url": "https://open.spotify.com/track/7skVOyJoDimP45EO8TkEew"
+    },
+    {
+      "album": {
+        "name": "Bad (feat. Tiara Thomas)",
+        "url": "https://open.spotify.com/album/06oKL6rtXNlQxlPyZQeb1i"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Bad (feat. Tiara Thomas)",
+      "url": "https://open.spotify.com/track/64Nbnw22f8adeMuLd1nSBD"
+    },
+    {
+      "album": {
+        "name": "Bad Girls Club (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/7IyNUXrfIuRa2KYngZRYSU"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274746,
+      "name": "Bad Girls Club (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1CS4y2ml2YyisaXuXtqhiQ"
+    },
+    {
+      "album": {
+        "name": "Bag Of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+        "url": "https://open.spotify.com/album/6VW4wK2qi8mHeBGcgHYvBo"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Bag of Money (feat. Rick Ross & T-Pain)",
+      "url": "https://open.spotify.com/track/3fXYcpFvBCsfyZAtOWoPXz"
+    },
+    {
+      "album": {
+        "name": "Box Chevy",
+        "url": "https://open.spotify.com/album/0SqDuYLzfAlzcWyAF3KLl4"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "Box Chevy",
+      "url": "https://open.spotify.com/track/0UbPJq9RKKDXwXUAIMIHiq"
+    },
+    {
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Burn (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/1tv6IvWoOilhj0XbBoVVMo"
+    },
+    {
+      "album": {
+        "name": "DJ Rell Presents: Run FLA",
+        "url": "https://open.spotify.com/album/7oXwHc69dXdkzZMcSzH9bv"
+      },
+      "artists": [
+        {
+          "name": "Triple C's",
+          "url": "https://open.spotify.com/artist/6f6JuOZPACMc5Z3phFAc7A"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Bust Your Heart",
+      "url": "https://open.spotify.com/track/1wi6mDK0ExEGHGOVhP9XZB"
+    },
+    {
+      "album": {
+        "name": "Lincoln Way Nights",
+        "url": "https://open.spotify.com/album/5W2LyHQ0jWN7K2D7FITZUY"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Rashad",
+          "url": "https://open.spotify.com/artist/32jrK8iaARJvXrYarVcvZK"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Chimes of Freedumb",
+      "url": "https://open.spotify.com/track/3xDEU1NXjGF00Q8c4rjunW"
+    },
+    {
+      "album": {
+        "name": "Skky Miles 2 [Cozmic Cloudz]",
+        "url": "https://open.spotify.com/album/03EcqDQ9CJrPuqnehAlCX9"
+      },
+      "artists": [
+        {
+          "name": "Masspike Miles",
+          "url": "https://open.spotify.com/artist/3eOCF6hnzQa1MLLXOuxt45"
+        },
+        {
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253012,
+      "name": "Destination (feat. Ace Hood)",
+      "url": "https://open.spotify.com/track/3EZNOercdVwitsz0cB3brZ"
+    },
+    {
+      "album": {
+        "name": "Skky Miles 2 [Cozmic Cloudz]",
+        "url": "https://open.spotify.com/album/03EcqDQ9CJrPuqnehAlCX9"
+      },
+      "artists": [
+        {
+          "name": "Masspike Miles",
+          "url": "https://open.spotify.com/artist/3eOCF6hnzQa1MLLXOuxt45"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232452,
+      "name": "Flatline (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6UKtN5M9n4yeXhxojZBp8a"
+    },
+    {
+      "album": {
+        "name": "Skky Miles 2 [Cozmic Cloudz]",
+        "url": "https://open.spotify.com/album/03EcqDQ9CJrPuqnehAlCX9"
+      },
+      "artists": [
+        {
+          "name": "Masspike Miles",
+          "url": "https://open.spotify.com/artist/3eOCF6hnzQa1MLLXOuxt45"
+        },
+        {
+          "name": "Gunplay",
+          "url": "https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "Flight 69 (feat. Gunplay)",
+      "url": "https://open.spotify.com/track/2qxsNOo08iliA3WOf3LpKH"
+    },
+    {
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/1uD0P8P6EffbcGuAOeCUKP"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183280,
+      "name": "Freaks - Edit",
+      "url": "https://open.spotify.com/track/1qbXihVTHVDINrJ65D6HAF"
+    },
+    {
+      "album": {
+        "name": "Skky Miles 2 [Cozmic Cloudz]",
+        "url": "https://open.spotify.com/album/03EcqDQ9CJrPuqnehAlCX9"
+      },
+      "artists": [
+        {
+          "name": "Masspike Miles",
+          "url": "https://open.spotify.com/artist/3eOCF6hnzQa1MLLXOuxt45"
+        },
+        {
+          "name": "Don Lennon",
+          "url": "https://open.spotify.com/artist/4wDmh8bnOVTQxfEqfjx4Qd"
+        },
+        {
+          "name": "T'melle",
+          "url": "https://open.spotify.com/artist/6KxFzxrYZy4r5lDNPMSseT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232452,
+      "name": "Glimpse (feat. Don Lennon & T'melle)",
+      "url": "https://open.spotify.com/track/1trICUUAbmuoSPdVWTu9Au"
+    },
+    {
+      "album": {
+        "name": "Hood Rich Anthem (feat. 2 Chainz, Future, Waka Flocka Flame, Yo Gotti & Gucci Mane)",
+        "url": "https://open.spotify.com/album/0Qrzb2RajabRBNZlHvJgX0"
+      },
+      "artists": [
+        {
+          "name": "DJ Scream",
+          "url": "https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Hood Rich Anthem (feat. 2 Chainz, Future, Waka Flocka Flame, Yo Gotti & Gucci Mane)",
+      "url": "https://open.spotify.com/track/1TEOLUSBofsUUIdX7aGFEJ"
+    },
+    {
+      "album": {
+        "name": "I'm a Coke Boy",
+        "url": "https://open.spotify.com/album/3G9qLGnzFWIAZdjkzlJQFp"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Chinx",
+          "url": "https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158249,
+      "name": "I'm a Coke Boy",
+      "url": "https://open.spotify.com/track/00Tkkch9iCW0wrQXlnTPl1"
+    },
+    {
+      "album": {
+        "name": "Let's Talk (feat. Rick Ross)",
+        "url": "https://open.spotify.com/album/1dG2i4TsOiUMeHBoRcTBuR"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239866,
+      "name": "Let's Talk (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/28bA3DyM3UnDoGJolb55TY"
+    },
+    {
+      "album": {
+        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/4k3m5jtjErernuKolqKyt2"
+    },
+    {
+      "album": {
+        "name": "Marble Floors",
+        "url": "https://open.spotify.com/album/34G5z71tchgdTPhl1DbN9O"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231853,
+      "name": "Marble Floors",
+      "url": "https://open.spotify.com/track/6eoD4UZyqWIdSGapVI8uG0"
+    },
+    {
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292586,
+      "name": "Maybach Curtains (feat. Nas, John Legend & Rick Ross)",
+      "url": "https://open.spotify.com/track/4KozGhbYbcVPTJN2XhAAng"
+    },
+    {
+      "album": {
+        "name": "God Forgives, I Don't (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1tNzdqkrtt6vwdCTj5gYCD"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314253,
+      "name": "Maybach Music IV - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/5N8rcVUAN8f532d0ilF43W"
+    },
+    {
+      "album": {
+        "name": "The Albert Anastasia EP",
+        "url": "https://open.spotify.com/album/64Ag1BoE93IZC1UyFQHKIQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240240,
+      "name": "MC Hammer",
+      "url": "https://open.spotify.com/track/60Zvnyx75hKXeZysWBlEIl"
+    },
+    {
+      "album": {
+        "name": "The Albert Anastasia EP",
+        "url": "https://open.spotify.com/album/64Ag1BoE93IZC1UyFQHKIQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/4aX8n2fDEfOB2JRijB6vXy"
+    },
+    {
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Polo & Shell Tops",
+      "url": "https://open.spotify.com/track/3UfMVotysc0b4AfgcfiLEM"
+    },
+    {
+      "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/2Y84OSvajxc1ni7tQnRLg0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304880,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/53A20GH734aXpOF4cNakr4"
+    },
+    {
+      "album": {
+        "name": "Lincoln Way Nights",
+        "url": "https://open.spotify.com/album/5W2LyHQ0jWN7K2D7FITZUY"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Pound",
+      "url": "https://open.spotify.com/track/14CYHCAfOu9vGj14R2b6AZ"
+    },
+    {
+      "album": {
+        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2l6Ea6NWoJBM23iVKwxgV5"
+      },
+      "artists": [
+        {
+          "name": "Gunplay",
+          "url": "https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34"
+        },
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517266,
+      "name": "Power Circle (feat. Rick Ross & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6zvPkbH8xwDzjnqsjpVJVJ"
+    },
+    {
+      "album": {
+        "name": "Progression EP",
+        "url": "https://open.spotify.com/album/2S6oDwUtwTeIX89aFgvr3G"
+      },
+      "artists": [
+        {
+          "name": "Magazeen",
+          "url": "https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198069,
+      "name": "Progression",
+      "url": "https://open.spotify.com/track/5cxE1FqRwtyxOYbgFUwujG"
+    },
+    {
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Louie V",
+          "url": "https://open.spotify.com/artist/32NrBLeB2oXTyvftz7DUMG"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "Rich & Famous (feat. Louie V)",
+      "url": "https://open.spotify.com/track/2MaDN1zq0vftSQ21bGBSHq"
+    },
+    {
+      "album": {
+        "name": "She Get It",
+        "url": "https://open.spotify.com/album/2pMvhzZTqse5NZiMWEVypP"
+      },
+      "artists": [
+        {
+          "name": "Gunplay",
+          "url": "https://open.spotify.com/artist/7cvtOrIEaUrqbGmYA9Kj34"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227354,
+      "name": "She Get It",
+      "url": "https://open.spotify.com/track/2zlEzvVn58FIFAKvwt7gZR"
+    },
+    {
+      "album": {
+        "name": "So Sophisticated",
+        "url": "https://open.spotify.com/album/3CpAuvSlyfHW17Ff4bbAL8"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249440,
+      "name": "So Sophisticated",
+      "url": "https://open.spotify.com/track/2IR9MmoWsguzwzHmdByrQm"
+    },
+    {
+      "album": {
+        "name": "God Forgives, I Don't (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1tNzdqkrtt6vwdCTj5gYCD"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "So Sophisticated - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4JHVAL62ruABoAoGMsJvVs"
+    },
+    {
+      "album": {
+        "name": "Spotlight - Single",
+        "url": "https://open.spotify.com/album/4VeOZsBnSHKzkMIBDCSqSB"
+      },
+      "artists": [
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201641,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0SkiTWVrsZWXjyGnAEZZyp"
+    },
+    {
+      "album": {
+        "name": "More About Nothing",
+        "url": "https://open.spotify.com/album/5nq9ioskYcYPa7CYULSQ8T"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "The Problem",
+      "url": "https://open.spotify.com/track/5YvoU1Y6LzuoVqd49TMuRU"
+    },
+    {
+      "album": {
+        "name": "Lincoln Way Nights",
+        "url": "https://open.spotify.com/album/5W2LyHQ0jWN7K2D7FITZUY"
+      },
+      "artists": [
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "The Tune Up",
+      "url": "https://open.spotify.com/track/3yF8mnUmEWmwMxbEnzbZFt"
+    },
+    {
+      "album": {
+        "name": "More About Nothing",
+        "url": "https://open.spotify.com/album/5nq9ioskYcYPa7CYULSQ8T"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267360,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/4qaiKyqxcmZP8VPhfylMVv"
+    },
+    {
+      "album": {
+        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2l6Ea6NWoJBM23iVKwxgV5"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270480,
+      "name": "The Zenith (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/6mE4db2UrqbEDSxOvkkxIo"
+    },
+    {
+      "album": {
+        "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "This Thing of Ours (feat. Rick Ross & Nas)",
+      "url": "https://open.spotify.com/track/4Izv8YcbPkIXOZW76h68hG"
+    },
+    {
+      "album": {
+        "name": "Luxurious Undergrind",
+        "url": "https://open.spotify.com/album/2Ey4YxvrLth0qSj0sprlX8"
+      },
+      "artists": [
+        {
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207445,
+      "name": "To Hell With It",
+      "url": "https://open.spotify.com/track/1Yb7Brj9jmIdoHns2InldA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2nZndNnauO6SID8cjf4C9F"
 }

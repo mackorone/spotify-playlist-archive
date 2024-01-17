@@ -2,16 +2,16 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: MF DOOM
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Talib Kweli
 
-144 songs - 9 hr 37 min
+145 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 | 2020-09-25 |  |
 | [1999 \- Street](https://open.spotify.com/track/1379SGBOnPB6yNc3sj1Dj6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Rawkus Records \- Best of Decade I 1995\-2005 \(Explicit Version\)](https://open.spotify.com/album/3Uk9Cu2QdEwM1BHacXYp9W) | 4:16 | 2022-02-08 | 2022-07-29 |
 | [2000 Seasons](https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 4:13 | 2021-03-26 |  |
-| [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 | 2020-09-25 |  |
+| [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 | 2020-09-25 | 2024-01-13 |
 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 | 2022-09-30 |  |
 | [Accordion](https://open.spotify.com/track/5jAvbp8kEnRPToi4Bzcvzt) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax) | 1:58 | 2020-09-25 | 2022-07-29 |
 | [Accordion](https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 1:58 | 2020-09-25 | 2023-03-04 |
@@ -71,6 +71,7 @@
 | [If You Got Love](https://open.spotify.com/track/3lUFS9JWltJckovUrFbZqA) | [Non Phixion](https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW), [ILL Bill](https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V) | [The Future Is Now](https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD) | 0:29 | 2021-07-29 | 2022-07-02 |
 | [Innovations \- 2Rude Version](https://open.spotify.com/track/4EYbNjpEVHbyTEeVwaqtZI) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [The Underground Tapes](https://open.spotify.com/album/1SFbOwVUkUwtkO2r47YX3j) | 4:40 | 2020-09-25 | 2022-02-06 |
 | [Iron Galaxy](https://open.spotify.com/track/4NKdG9lTVjK8R9HfZQkTmk) | [Cannibal Ox](https://open.spotify.com/artist/3FjTqZ6SZYSYQMzY03O4RG) | [The Cold Vein \(Deluxe Edition\)](https://open.spotify.com/album/4iyCxURICjYcIERJt85C5W) | 5:56 | 2022-02-08 | 2022-07-29 |
+| [Just Begun \(feat\. Jay Electronica, J\. Cole and Mos Def\)](https://open.spotify.com/track/4lHN90buToyId0wJsdl7ij) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Revolutions Per Minute](https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR) | 3:47 | 2024-01-12 |  |
 | [Just Call My Name](https://open.spotify.com/track/5NRWFS53PZeS2tpcBvx4lH) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Jaysa](https://open.spotify.com/artist/04twvwjxYWB0moBWzKoynL) | [My Own Worst Enemy](https://open.spotify.com/album/5mjIKcythMEs1RyjgxbPIr) | 4:56 | 2022-02-08 | 2022-07-29 |
 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 | 2020-09-25 |  |
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2020-09-25 | 2022-11-26 |

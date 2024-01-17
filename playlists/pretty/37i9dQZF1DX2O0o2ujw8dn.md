@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,340 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,541 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 | 23 | [I Can't!](https://open.spotify.com/track/7Hc4jMa01bO5UKGuOGgBU1) | [mmmonika](https://open.spotify.com/artist/2kYklIrGwKMyDuVt6RiWgD) | [I Can't!](https://open.spotify.com/album/7lVoY3Nw5yr4FZQ1YAw9H0) | 3:05 |
 | 24 | [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 |
 | 25 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
-| 26 | [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/3rFsv0HmPQyh6WEbb8T4Ar) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/5FXgrFAzwOOZpT3KBhgfxy) | 4:06 |
+| 26 | [ACT!VE VOLCANO \(Feat\. Tabber\)](https://open.spotify.com/track/0uNk3id2mMHLog7B1jP1Xi) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [SYNDROMEZ](https://open.spotify.com/album/7yevXWpk0GN0jy79E5rs36) | 4:06 |
 | 27 | [BITCH X RICH TITLE](https://open.spotify.com/track/0QVmmnHlGDGhWK8bFkNFiN) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [PARK TAE HYEON](https://open.spotify.com/artist/1LE8HItkvqybiMuVlwl232) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 0:33 |
 | 28 | [Superficial](https://open.spotify.com/track/22MsDjb1gQwWDijrnOAtKW) | [Lee Gun Young](https://open.spotify.com/artist/067Zd1iIU68PkY5PqBOAkU) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 3:04 |
 | 29 | [Like you](https://open.spotify.com/track/3vYsmwu4VdX3DaUo8PcTPz) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [NA HYUN JU](https://open.spotify.com/artist/0e4pvP9GZ9piejGy8CO1EV) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 3:28 |

@@ -1,314 +1,1463 @@
 {
-  "2023-02-23": 6,
-  "2023-02-24": 6,
-  "2023-02-25": 6,
-  "2023-02-26": 6,
-  "2023-02-27": 6,
-  "2023-02-28": 6,
-  "2023-03-01": 6,
-  "2023-03-02": 6,
-  "2023-03-03": 6,
-  "2023-03-04": 6,
-  "2023-03-05": 6,
-  "2023-03-06": 6,
-  "2023-03-07": 6,
-  "2023-03-08": 6,
-  "2023-03-09": 6,
-  "2023-03-10": 6,
-  "2023-03-11": 6,
-  "2023-03-12": 6,
-  "2023-03-13": 6,
-  "2023-03-14": 6,
-  "2023-03-15": 6,
-  "2023-03-16": 6,
-  "2023-03-17": 6,
-  "2023-03-18": 6,
-  "2023-03-19": 6,
-  "2023-03-20": 6,
-  "2023-03-21": 6,
-  "2023-03-22": 6,
-  "2023-03-23": 6,
-  "2023-03-24": 6,
-  "2023-03-25": 6,
-  "2023-03-26": 6,
-  "2023-03-27": 6,
-  "2023-03-28": 6,
-  "2023-03-29": 6,
-  "2023-03-30": 6,
-  "2023-03-31": 6,
-  "2023-04-01": 6,
-  "2023-04-02": 6,
-  "2023-04-03": 6,
-  "2023-04-04": 6,
-  "2023-04-05": 6,
-  "2023-04-06": 6,
-  "2023-04-07": 6,
-  "2023-04-09": 6,
-  "2023-04-10": 6,
-  "2023-04-11": 6,
-  "2023-04-12": 6,
-  "2023-04-13": 6,
-  "2023-04-14": 6,
-  "2023-04-15": 6,
-  "2023-04-16": 6,
-  "2023-04-17": 6,
-  "2023-04-18": 6,
-  "2023-04-19": 6,
-  "2023-04-20": 6,
-  "2023-04-21": 6,
-  "2023-04-22": 6,
-  "2023-04-23": 6,
-  "2023-04-24": 6,
-  "2023-04-25": 6,
-  "2023-04-26": 6,
-  "2023-04-27": 6,
-  "2023-04-28": 6,
-  "2023-04-29": 6,
-  "2023-04-30": 6,
-  "2023-05-01": 6,
-  "2023-05-02": 6,
-  "2023-05-03": 6,
-  "2023-05-04": 6,
-  "2023-05-05": 6,
-  "2023-05-06": 6,
-  "2023-05-07": 6,
-  "2023-05-08": 6,
-  "2023-05-09": 6,
-  "2023-05-10": 6,
-  "2023-05-11": 6,
-  "2023-05-12": 6,
-  "2023-05-13": 6,
-  "2023-05-14": 6,
-  "2023-05-15": 6,
-  "2023-05-16": 6,
-  "2023-05-17": 6,
-  "2023-05-18": 6,
-  "2023-05-19": 6,
-  "2023-05-20": 6,
-  "2023-05-21": 6,
-  "2023-05-22": 6,
-  "2023-05-23": 6,
-  "2023-05-24": 6,
-  "2023-05-25": 6,
-  "2023-05-26": 6,
-  "2023-05-27": 6,
-  "2023-05-28": 6,
-  "2023-05-29": 6,
-  "2023-05-30": 6,
-  "2023-05-31": 6,
-  "2023-06-01": 6,
-  "2023-06-02": 6,
-  "2023-06-03": 6,
-  "2023-06-04": 6,
-  "2023-06-05": 6,
-  "2023-06-06": 6,
-  "2023-06-07": 6,
-  "2023-06-08": 6,
-  "2023-06-09": 6,
-  "2023-06-10": 6,
-  "2023-06-11": 6,
-  "2023-06-12": 6,
-  "2023-06-13": 6,
-  "2023-06-14": 6,
-  "2023-06-15": 6,
-  "2023-06-16": 6,
-  "2023-06-17": 6,
-  "2023-06-18": 6,
-  "2023-06-19": 6,
-  "2023-06-20": 6,
-  "2023-06-21": 6,
-  "2023-06-22": 6,
-  "2023-06-23": 6,
-  "2023-06-24": 6,
-  "2023-06-25": 6,
-  "2023-06-26": 6,
-  "2023-06-27": 6,
-  "2023-06-28": 6,
-  "2023-06-29": 6,
-  "2023-06-30": 6,
-  "2023-07-01": 6,
-  "2023-07-02": 6,
-  "2023-07-03": 6,
-  "2023-07-04": 6,
-  "2023-07-05": 6,
-  "2023-07-06": 6,
-  "2023-07-07": 6,
-  "2023-07-08": 6,
-  "2023-07-09": 6,
-  "2023-07-10": 6,
-  "2023-07-11": 6,
-  "2023-07-12": 6,
-  "2023-07-13": 6,
-  "2023-07-14": 6,
-  "2023-07-15": 6,
-  "2023-07-16": 6,
-  "2023-07-17": 6,
-  "2023-07-18": 6,
-  "2023-07-19": 6,
-  "2023-07-20": 6,
-  "2023-07-21": 6,
-  "2023-07-22": 6,
-  "2023-07-23": 6,
-  "2023-07-24": 6,
-  "2023-07-25": 6,
-  "2023-07-26": 6,
-  "2023-07-27": 6,
-  "2023-07-28": 6,
-  "2023-07-29": 6,
-  "2023-07-30": 6,
-  "2023-07-31": 6,
-  "2023-08-01": 6,
-  "2023-08-02": 6,
-  "2023-08-03": 6,
-  "2023-08-04": 6,
-  "2023-08-05": 6,
-  "2023-08-06": 6,
-  "2023-08-07": 6,
-  "2023-08-08": 6,
-  "2023-08-09": 7,
-  "2023-08-10": 7,
-  "2023-08-11": 7,
-  "2023-08-12": 7,
-  "2023-08-13": 7,
-  "2023-08-14": 7,
-  "2023-08-15": 7,
-  "2023-08-16": 7,
-  "2023-08-17": 7,
-  "2023-08-18": 7,
-  "2023-08-19": 7,
-  "2023-08-20": 7,
-  "2023-08-21": 7,
-  "2023-08-22": 7,
-  "2023-08-23": 7,
-  "2023-08-24": 7,
-  "2023-08-25": 7,
-  "2023-08-26": 7,
-  "2023-08-27": 7,
-  "2023-08-28": 7,
-  "2023-08-29": 7,
-  "2023-08-30": 7,
-  "2023-08-31": 7,
-  "2023-09-01": 7,
-  "2023-09-02": 7,
-  "2023-09-03": 7,
-  "2023-09-04": 7,
-  "2023-09-05": 7,
-  "2023-09-06": 7,
-  "2023-09-07": 7,
-  "2023-09-08": 7,
-  "2023-09-09": 7,
-  "2023-09-10": 8,
-  "2023-09-11": 8,
-  "2023-09-12": 8,
-  "2023-09-13": 8,
-  "2023-09-14": 7,
-  "2023-09-15": 7,
-  "2023-09-16": 7,
-  "2023-09-17": 7,
-  "2023-09-18": 7,
-  "2023-09-19": 7,
-  "2023-09-20": 7,
-  "2023-09-21": 7,
-  "2023-09-22": 7,
-  "2023-09-23": 7,
-  "2023-09-24": 7,
-  "2023-09-25": 7,
-  "2023-09-26": 7,
-  "2023-09-27": 7,
-  "2023-09-28": 7,
-  "2023-09-29": 7,
-  "2023-09-30": 7,
-  "2023-10-01": 7,
-  "2023-10-02": 7,
-  "2023-10-03": 7,
-  "2023-10-04": 7,
-  "2023-10-05": 7,
-  "2023-10-06": 7,
-  "2023-10-07": 7,
-  "2023-10-08": 7,
-  "2023-10-09": 7,
-  "2023-10-10": 7,
-  "2023-10-11": 7,
-  "2023-10-12": 7,
-  "2023-10-13": 7,
-  "2023-10-14": 7,
-  "2023-10-15": 7,
-  "2023-10-16": 7,
-  "2023-10-17": 7,
-  "2023-10-18": 7,
-  "2023-10-19": 7,
-  "2023-10-20": 7,
-  "2023-10-21": 7,
-  "2023-10-22": 7,
-  "2023-10-23": 7,
-  "2023-10-24": 7,
-  "2023-10-25": 7,
-  "2023-10-26": 7,
-  "2023-10-27": 7,
-  "2023-10-28": 7,
-  "2023-10-29": 7,
-  "2023-10-30": 7,
-  "2023-10-31": 7,
-  "2023-11-01": 7,
-  "2023-11-02": 7,
-  "2023-11-03": 7,
-  "2023-11-04": 7,
-  "2023-11-05": 7,
-  "2023-11-06": 7,
-  "2023-11-07": 7,
-  "2023-11-08": 7,
-  "2023-11-09": 7,
-  "2023-11-10": 7,
-  "2023-11-11": 7,
-  "2023-11-12": 7,
-  "2023-11-13": 7,
-  "2023-11-14": 7,
-  "2023-11-15": 7,
-  "2023-11-16": 7,
-  "2023-11-17": 7,
-  "2023-11-18": 7,
-  "2023-11-19": 7,
-  "2023-11-20": 7,
-  "2023-11-21": 7,
-  "2023-11-22": 7,
-  "2023-11-23": 7,
-  "2023-11-24": 7,
-  "2023-11-25": 7,
-  "2023-11-26": 7,
-  "2023-11-27": 7,
-  "2023-11-28": 7,
-  "2023-11-29": 7,
-  "2023-11-30": 7,
-  "2023-12-01": 7,
-  "2023-12-02": 7,
-  "2023-12-03": 7,
-  "2023-12-04": 7,
-  "2023-12-05": 7,
-  "2023-12-06": 7,
-  "2023-12-07": 7,
-  "2023-12-08": 7,
-  "2023-12-09": 7,
-  "2023-12-10": 7,
-  "2023-12-11": 7,
-  "2023-12-12": 7,
-  "2023-12-13": 7,
-  "2023-12-14": 7,
-  "2023-12-15": 7,
-  "2023-12-16": 7,
-  "2023-12-17": 7,
-  "2023-12-18": 7,
-  "2023-12-19": 7,
-  "2023-12-20": 7,
-  "2023-12-21": 7,
-  "2023-12-22": 7,
-  "2023-12-23": 7,
-  "2023-12-24": 7,
-  "2023-12-25": 7,
-  "2023-12-26": 7,
-  "2023-12-27": 7,
-  "2023-12-30": 7,
-  "2023-12-31": 7,
-  "2024-01-01": 7,
-  "2024-01-02": 7,
-  "2024-01-03": 7
+  "2024-01-17": 7,
+  "date_first_scraped": "2023-02-23",
+  "description": "Melodic Progressive, Progressive House and Vocal Trance. Selections from Chris Lyons DJ&#x27;s &quot;Riding The Soundwave&quot; webradio show.",
+  "name": "Riding the Soundwave: the playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Stimulate The Stars",
+        "url": "https://open.spotify.com/album/5ikKzPq0MLcsiV21QWywGx"
+      },
+      "artists": [
+        {
+          "name": "Veeshy",
+          "url": "https://open.spotify.com/artist/4I9gvXHCMWMzarL8yOyjIL"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434000,
+      "name": "2Am",
+      "url": "https://open.spotify.com/track/285mb5pHHFLYR8LFWOE8ov"
+    },
+    {
+      "album": {
+        "name": "Silk Music Pres. Trance Treasures 06",
+        "url": "https://open.spotify.com/album/3ZtUSUzGhMno1ylQmZ1JQi"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527013,
+      "name": "A Day At The Beach",
+      "url": "https://open.spotify.com/track/76i1fwdq0ffQ71KuhTNJgO"
+    },
+    {
+      "album": {
+        "name": "A Love That's Hard To Find",
+        "url": "https://open.spotify.com/album/0uHlUsS7W0B61Dwl2QmuHk"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "A Love That's Hard To Find - Swung Club Mix",
+      "url": "https://open.spotify.com/track/75yjbBYF5SV9UqLBiLn3WG"
+    },
+    {
+      "album": {
+        "name": "Only Silk 04",
+        "url": "https://open.spotify.com/album/2KcbzOFjjM1ErTXWTdDvkO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        },
+        {
+          "name": "Sam Davies",
+          "url": "https://open.spotify.com/artist/5fDK1GwOEyKqCjg7F9IiyG"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311042,
+      "name": "Ararat - Sam Davies Remix",
+      "url": "https://open.spotify.com/track/34bbmP1NAHml4bF23WDIz6"
+    },
+    {
+      "album": {
+        "name": "Atami",
+        "url": "https://open.spotify.com/album/45q746X1SBTkUXqUkkJSPb"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Masanori Yasuda",
+          "url": "https://open.spotify.com/artist/4t7SDTU2q6zEFW2Ecs9sNB"
+        },
+        {
+          "name": "TACT TOKYO",
+          "url": "https://open.spotify.com/artist/65mp3d4qkueCz4K882g7BW"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368203,
+      "name": "Atami",
+      "url": "https://open.spotify.com/track/29WoQT4qjUMLTovZVPNwle"
+    },
+    {
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB"
+      },
+      "artists": [
+        {
+          "name": "Japeboy",
+          "url": "https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ"
+        },
+        {
+          "name": "Roald Velden",
+          "url": "https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572908,
+      "name": "Azure - Roald Velden Remix",
+      "url": "https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/540jX1jXLiiThtaWfAC8ti"
+      },
+      "artists": [
+        {
+          "name": "Roald Velden",
+          "url": "https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP"
+        },
+        {
+          "name": "South Pole",
+          "url": "https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458852,
+      "name": "Billion Stars",
+      "url": "https://open.spotify.com/track/4xcRyEWsJ959FPBXBzJ4Sp"
+    },
+    {
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/2YeK30xFtdUbts875MttP7"
+      },
+      "artists": [
+        {
+          "name": "Vasily Goodkov",
+          "url": "https://open.spotify.com/artist/1oNOLGoVzt5vypyhplILbL"
+        }
+      ],
+      "date_added": "2021-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Black Hole - Original Mix",
+      "url": "https://open.spotify.com/track/5ysAQ68P78SBLdVwS29wZd"
+    },
+    {
+      "album": {
+        "name": "A Dark Forest",
+        "url": "https://open.spotify.com/album/7HTA0qF60vVwgP2Zd29dpm"
+      },
+      "artists": [
+        {
+          "name": "Katrin Souza",
+          "url": "https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400062,
+      "name": "Calm Before the Storm",
+      "url": "https://open.spotify.com/track/7dy1TqXaZhgjFLewy49Rh9"
+    },
+    {
+      "album": {
+        "name": "Silk Royal pres. Sundriver 01",
+        "url": "https://open.spotify.com/album/0iCV7dsyASuWlRaRykYTLs"
+      },
+      "artists": [
+        {
+          "name": "Sundriver",
+          "url": "https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508000,
+      "name": "Cast Away - Club Mix",
+      "url": "https://open.spotify.com/track/7skYxp5gHTNeuDYYkllFaQ"
+    },
+    {
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/0PvQHqQgjeRbMeIldyqtpy"
+      },
+      "artists": [
+        {
+          "name": "Sundriver",
+          "url": "https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427133,
+      "name": "City Lights - Daniel Kandi Remix",
+      "url": "https://open.spotify.com/track/0fKgmgDgmv6GqQ9ySj3SrW"
+    },
+    {
+      "album": {
+        "name": "My Guiding Star",
+        "url": "https://open.spotify.com/album/2e2IZdNI18RJh4pFwnjdNc"
+      },
+      "artists": [
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Coral Glasses",
+      "url": "https://open.spotify.com/track/7uG3JmCYrlnoVjQoa5PYzS"
+    },
+    {
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/1zuCSIITYKCja05xCcJIlO"
+      },
+      "artists": [
+        {
+          "name": "Chris Lyons",
+          "url": "https://open.spotify.com/artist/5yMaYx36CdBsH58F0wVyWB"
+        },
+        {
+          "name": "Katrin Souza",
+          "url": "https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333150,
+      "name": "Deep Dive - Katrin Souza Remix",
+      "url": "https://open.spotify.com/track/26zyTvsQjmTZBtjzima4rE"
+    },
+    {
+      "album": {
+        "name": "Poolside Trance 2011",
+        "url": "https://open.spotify.com/album/1u5MCVVkoqzZ3uk6PTVFR7"
+      },
+      "artists": [
+        {
+          "name": "Sundriver",
+          "url": "https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471736,
+      "name": "Dreamer - Original Mix",
+      "url": "https://open.spotify.com/track/3Di2byKcf7L3fw8zsYRlKG"
+    },
+    {
+      "album": {
+        "name": "Ethereal Concepts",
+        "url": "https://open.spotify.com/album/13rDbLucnXmgWVHfDE7lAh"
+      },
+      "artists": [
+        {
+          "name": "Blugazer",
+          "url": "https://open.spotify.com/artist/0xIrZp36YYSHSm5J5BKKW4"
+        },
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Ethereal Concepts - Shingo Nakamura Remix",
+      "url": "https://open.spotify.com/track/0BYPbWXayjoJF6EZgj0QaA"
+    },
+    {
+      "album": {
+        "name": "Feeling Like Yeah (Remixes)",
+        "url": "https://open.spotify.com/album/6VxzX8SVRshTILWma4OpMd"
+      },
+      "artists": [
+        {
+          "name": "LTN",
+          "url": "https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Feeling Like Yeah - LTN Sunrise Remix",
+      "url": "https://open.spotify.com/track/0iEO7hllUqL12VetydtOhn"
+    },
+    {
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/3Tq5W91Gj4a4eue4XMrOLl"
+      },
+      "artists": [
+        {
+          "name": "Will Canas",
+          "url": "https://open.spotify.com/artist/0a8NsAE46r4C9Xuy88l6l5"
+        },
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471269,
+      "name": "Find Our Way - Vintage & Morelli Remix",
+      "url": "https://open.spotify.com/track/4lIbhc5GyV5knhsUlAdtd3"
+    },
+    {
+      "album": {
+        "name": "Flying Spirals",
+        "url": "https://open.spotify.com/album/2KzoMjqvoK9p8sPEOEM6lq"
+      },
+      "artists": [
+        {
+          "name": "Matao",
+          "url": "https://open.spotify.com/artist/5PLRA790ho4NsP1UxO8fOr"
+        },
+        {
+          "name": "Sergey Tkachev",
+          "url": "https://open.spotify.com/artist/0CM1zfNSahgOz4HUDw8krR"
+        },
+        {
+          "name": "Alexey Sonar",
+          "url": "https://open.spotify.com/artist/3kylBPGbC27D97TR1JUwod"
+        }
+      ],
+      "date_added": "2021-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510236,
+      "name": "Flying Spirals - Matao Remix",
+      "url": "https://open.spotify.com/track/2k4PRvXNIsW2CI978aQvD2"
+    },
+    {
+      "album": {
+        "name": "Elliptical Sun Music 02",
+        "url": "https://open.spotify.com/album/7JpxDYwezDOys1Y9dQdG48"
+      },
+      "artists": [
+        {
+          "name": "Vasily Goodkov",
+          "url": "https://open.spotify.com/artist/1oNOLGoVzt5vypyhplILbL"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340249,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0vnRRlwueWJXPxYk6B0dMG"
+    },
+    {
+      "album": {
+        "name": "Spring Selections 03",
+        "url": "https://open.spotify.com/album/0f61TEc8VESryvFvPkBBzT"
+      },
+      "artists": [
+        {
+          "name": "Jay FM",
+          "url": "https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7fJ8CGg7Xw6ekHaiUDa5fk"
+    },
+    {
+      "album": {
+        "name": "Havana Dub",
+        "url": "https://open.spotify.com/album/0l7KttMdEJs9mcXWC0llks"
+      },
+      "artists": [
+        {
+          "name": "Albuquerque",
+          "url": "https://open.spotify.com/artist/0oGbLQeo6eK2278pQf4atC"
+        },
+        {
+          "name": "Foletto",
+          "url": "https://open.spotify.com/artist/6lLkJUWmFlKn2lF37IQ09F"
+        },
+        {
+          "name": "Enertia-sound",
+          "url": "https://open.spotify.com/artist/3vxsB8cK3xfVvM8naACURW"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493449,
+      "name": "Havana Dub - Enertia-Sound Remix",
+      "url": "https://open.spotify.com/track/1W1v99sbCY5H3zQM31QFG2"
+    },
+    {
+      "album": {
+        "name": "Heavens",
+        "url": "https://open.spotify.com/album/4V5fwELDjeeLNHRRWjtvQW"
+      },
+      "artists": [
+        {
+          "name": "Alex Pich",
+          "url": "https://open.spotify.com/artist/6Fg5tw2IVCqxHe0BbqLEpR"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455436,
+      "name": "Heavens - Mono Suono Remix",
+      "url": "https://open.spotify.com/track/2ka92kGIMOysEdBY2td6iN"
+    },
+    {
+      "album": {
+        "name": "Himalayas",
+        "url": "https://open.spotify.com/album/0lKnQBM2GfogWKJVRjevdL"
+      },
+      "artists": [
+        {
+          "name": "Eleve (NO)",
+          "url": "https://open.spotify.com/artist/1QtV1ORvBv1tSsqv8eQI0N"
+        },
+        {
+          "name": "Maiga",
+          "url": "https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533333,
+      "name": "Himalayas - Original mix",
+      "url": "https://open.spotify.com/track/7lFzbBAuu4DUEmNvZlfufq"
+    },
+    {
+      "album": {
+        "name": "Silk Remixed 03",
+        "url": "https://open.spotify.com/album/3fue71GveqwilSGaLEbIEu"
+      },
+      "artists": [
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        },
+        {
+          "name": "Dan & Sam",
+          "url": "https://open.spotify.com/artist/1jNFCmMEhZotuBe2jZtge8"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516922,
+      "name": "Innerspace - Dan & Sam Intro Mix",
+      "url": "https://open.spotify.com/track/1oz228zg8R4Yqth9OFooYX"
+    },
+    {
+      "album": {
+        "name": "Las Cosas Del Joder (Remixes)",
+        "url": "https://open.spotify.com/album/1rzrCOabMqdfLZE0a0ztnu"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412546,
+      "name": "Las Cosas Del Joder - Talamanca Vocal Remix",
+      "url": "https://open.spotify.com/track/6VVujJR7rIjy5R4Xqe52hA"
+    },
+    {
+      "album": {
+        "name": "Lazy Sundays",
+        "url": "https://open.spotify.com/album/3I1gEYq9EqZzMOQ4ApVofD"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        },
+        {
+          "name": "VITO (ES)",
+          "url": "https://open.spotify.com/artist/7E1pBq3xzrjj2fd8VAFpPj"
+        },
+        {
+          "name": "Jorn Van Deynhoven",
+          "url": "https://open.spotify.com/artist/6NuXlqTU1RF0aIoyD46z5v"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403193,
+      "name": "Lazy Sundays - Original Mix",
+      "url": "https://open.spotify.com/track/50iORwr4EAxDZvq7syHVYI"
+    },
+    {
+      "album": {
+        "name": "Let There Be Dark: Chase (Radio Edit)",
+        "url": "https://open.spotify.com/album/0q5gePrhK7dQdGtD9hQPrG"
+      },
+      "artists": [
+        {
+          "name": "Numatra",
+          "url": "https://open.spotify.com/artist/0BxefgliewSrvWmU3mPygK"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211471,
+      "name": "Let There Be Dark: Chase - Radio Edit",
+      "url": "https://open.spotify.com/track/2isvgH0UTSgt05KDEYznJn"
+    },
+    {
+      "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/2mNqECUaD239IK4TglrDwn"
+      },
+      "artists": [
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408035,
+      "name": "Lift - Original Mix",
+      "url": "https://open.spotify.com/track/5FbKOoXe30eYvPGDsdNeMD"
+    },
+    {
+      "album": {
+        "name": "Lonely Shore (Incl. Blood Groove & Kikis Remix)",
+        "url": "https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        },
+        {
+          "name": "Arielle Maren",
+          "url": "https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV"
+        },
+        {
+          "name": "RNX",
+          "url": "https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240148,
+      "name": "Lonely Shore",
+      "url": "https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3"
+    },
+    {
+      "album": {
+        "name": "Encanta's Winter Picks - 2015",
+        "url": "https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440390,
+      "name": "Malaga - Original Mix",
+      "url": "https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF"
+    },
+    {
+      "album": {
+        "name": "The Return / Medusa",
+        "url": "https://open.spotify.com/album/6y2bLVV4zYGe71QKCDwfEb"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453833,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VsjU6X1ktjYK8YbsVVDQ5"
+    },
+    {
+      "album": {
+        "name": "Progressive House United, Vol. 01",
+        "url": "https://open.spotify.com/album/4nn3oS5ktYuFxY1qmaTg21"
+      },
+      "artists": [
+        {
+          "name": "LTN",
+          "url": "https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3"
+        },
+        {
+          "name": "Ad Brown",
+          "url": "https://open.spotify.com/artist/3hVgQJzPG2c6oaKHC7lg4L"
+        },
+        {
+          "name": "Cat Martin",
+          "url": "https://open.spotify.com/artist/0F9B7n7fvl6Ko2a44pj2wp"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4VKPCBlM2Rhdh5LKf40BSi"
+    },
+    {
+      "album": {
+        "name": "Elliptical Sun Music 02",
+        "url": "https://open.spotify.com/album/7JpxDYwezDOys1Y9dQdG48"
+      },
+      "artists": [
+        {
+          "name": "Ron with Leeds",
+          "url": "https://open.spotify.com/artist/79sK3EbSBZHo7lAtlD2xJO"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350372,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/1o6XrbNz7vLsKSsyHZchWQ"
+    },
+    {
+      "album": {
+        "name": "Autumn Selections 03",
+        "url": "https://open.spotify.com/album/6j20r8bChGSY7XHKjtUABh"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/6knSX9x2aL37sVGWKQX1sE"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408500,
+      "name": "Murcia (Plz Stay)",
+      "url": "https://open.spotify.com/track/2VPaBNtP6eiMLIsPqX1rTd"
+    },
+    {
+      "album": {
+        "name": "Ocean Drive / Rip Curl",
+        "url": "https://open.spotify.com/album/2Ta0zfQJV7Q89xZ8BWVzZd"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480600,
+      "name": "Ocean Drive - Original Mix",
+      "url": "https://open.spotify.com/track/57yEcM7tpBdfvh80hSE2jU"
+    },
+    {
+      "album": {
+        "name": "Far From The Maddening Crowds",
+        "url": "https://open.spotify.com/album/38STXsjk42fP4pBr8dHgi3"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417807,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/4jy7tsWx2FZjXspLV5uZkQ"
+    },
+    {
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/565L3GWzcRtAp1IXPUjajN"
+      },
+      "artists": [
+        {
+          "name": "Maiga",
+          "url": "https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535851,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/6TBhb5MLV4DCAFCp0t7hD4"
+    },
+    {
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/565L3GWzcRtAp1IXPUjajN"
+      },
+      "artists": [
+        {
+          "name": "Maiga",
+          "url": "https://open.spotify.com/artist/0ecp1rT4umtmtcyx0ItXg8"
+        },
+        {
+          "name": "Ryo Nakamura",
+          "url": "https://open.spotify.com/artist/1N9XyrY6iMTLLpluZm6YlO"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Omen - Ryo Nakamura Remix",
+      "url": "https://open.spotify.com/track/2pimxlsdNqMYNSF7iafN7T"
+    },
+    {
+      "album": {
+        "name": "Oregon",
+        "url": "https://open.spotify.com/album/3NivBSiIh79qt5FNANx6qq"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "RNX",
+          "url": "https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Oregon - RNX Mix",
+      "url": "https://open.spotify.com/track/6lzwhEd3uGDvI8DO2iUPXI"
+    },
+    {
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/62rG5y4kCrfbYIowkunZWO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        },
+        {
+          "name": "Angel Falls",
+          "url": "https://open.spotify.com/artist/5rFJL8YA8t1lv8lgjL7X2E"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421946,
+      "name": "Part of Me - Original Mix",
+      "url": "https://open.spotify.com/track/4k8Z6zQPbbJYo5ld0fXvSL"
+    },
+    {
+      "album": {
+        "name": "Summer Melody 100: Sampler Part 3",
+        "url": "https://open.spotify.com/album/5aPJsvcEJgC2RQIqL6NLbT"
+      },
+      "artists": [
+        {
+          "name": "Mark Moncrieff",
+          "url": "https://open.spotify.com/artist/4K4hc4X2Dp2atIg6HBBmAd"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457044,
+      "name": "Point Nemo - Original Mix",
+      "url": "https://open.spotify.com/track/7AdUCqTinPTvw3ejzGycrg"
+    },
+    {
+      "album": {
+        "name": "Progressive Soul",
+        "url": "https://open.spotify.com/album/6lWCbs8MxC0euSMUuNxR5x"
+      },
+      "artists": [
+        {
+          "name": "kalsy",
+          "url": "https://open.spotify.com/artist/6vPghOkrVqxHkDHOV3l30R"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635036,
+      "name": "Progressive Soul",
+      "url": "https://open.spotify.com/track/1XCbbMW6DwpKHIKAhQ7xSs"
+    },
+    {
+      "album": {
+        "name": "Return to Paradise [The Remixes]",
+        "url": "https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Nipika",
+          "url": "https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432998,
+      "name": "Return to Paradise - Nipika Remix",
+      "url": "https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7LUv6Pi8Bxz3tY4iLqPwyf"
+      },
+      "artists": [
+        {
+          "name": "South Pole",
+          "url": "https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490387,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4Gs4NvoNjdLPi49TnVbx96"
+    },
+    {
+      "album": {
+        "name": "Elysees / RueSaintMartin",
+        "url": "https://open.spotify.com/album/4GuiqLGT4CgTnitsWe8h4W"
+      },
+      "artists": [
+        {
+          "name": "Mindset",
+          "url": "https://open.spotify.com/artist/5QZlVXDfcM8DDuK3aywb6a"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "RueSaintMartin",
+      "url": "https://open.spotify.com/track/31HGVpgj3htftDeluEfVXS"
+    },
+    {
+      "album": {
+        "name": "Sa Cova",
+        "url": "https://open.spotify.com/album/4skLoSvUK4kcKMWFUBNKsE"
+      },
+      "artists": [
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437600,
+      "name": "Sa Cova",
+      "url": "https://open.spotify.com/track/2lwwdI3pJBfY7L1ivkGJ60"
+    },
+    {
+      "album": {
+        "name": "San Marino",
+        "url": "https://open.spotify.com/album/06maOFraWs7xR2vzO2C1Bv"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2019-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410625,
+      "name": "San Marino",
+      "url": "https://open.spotify.com/track/6WwF02MPcfJgeswq0fhXNw"
+    },
+    {
+      "album": {
+        "name": "The Four / Sapporo (Remixes)",
+        "url": "https://open.spotify.com/album/2LxaxejgxCP7aBtLDh2SkG"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427250,
+      "name": "Sapporo - Talamanca Remix",
+      "url": "https://open.spotify.com/track/7bXRbBN0pMn3DHH4hzXsy2"
+    },
+    {
+      "album": {
+        "name": "Arrivals & Departures",
+        "url": "https://open.spotify.com/album/01UjkX9rj90zjSGnUjRN6u"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434500,
+      "name": "Seven Wonders",
+      "url": "https://open.spotify.com/track/1DzQgR7WR5c0LVjdZ6LhJh"
+    },
+    {
+      "album": {
+        "name": "Dance Allure Rome, Vol. 1",
+        "url": "https://open.spotify.com/album/55w5yEZHJQULnVDqaQhOd4"
+      },
+      "artists": [
+        {
+          "name": "Tasadi",
+          "url": "https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO"
+        },
+        {
+          "name": "Aryas",
+          "url": "https://open.spotify.com/artist/4OwOvJEVmB35upiv10sse5"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388571,
+      "name": "Seventh Kingdom - Mindset Remix",
+      "url": "https://open.spotify.com/track/1GwB6DcrYpJ8LkShKjrbO4"
+    },
+    {
+      "album": {
+        "name": "Something Useful",
+        "url": "https://open.spotify.com/album/7rsKKYhGeDRlymCfvtALZP"
+      },
+      "artists": [
+        {
+          "name": "Phrakture",
+          "url": "https://open.spotify.com/artist/4AlnXoFGT5zl3v85ScIOzK"
+        },
+        {
+          "name": "Maria Carmela",
+          "url": "https://open.spotify.com/artist/3qEwkiGT65QSBhuMr0BwtJ"
+        },
+        {
+          "name": "Lesh",
+          "url": "https://open.spotify.com/artist/00S6Yo4TScFQqqHB1N5eBh"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491612,
+      "name": "Something Useful - Lesh Remix",
+      "url": "https://open.spotify.com/track/3el0B32fMCE6mtKr6VHlBI"
+    },
+    {
+      "album": {
+        "name": "Taking You Higher (Mix)",
+        "url": "https://open.spotify.com/album/0O48MkNuWGKZ0YOUhNq9BF"
+      },
+      "artists": [
+        {
+          "name": "Helvetic Nerds",
+          "url": "https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450815,
+      "name": "Stormwatch (Chris Reece & Dinka Old Fashion Mix)",
+      "url": "https://open.spotify.com/track/6jyg6EghpRWzsyNYKBS4FJ"
+    },
+    {
+      "album": {
+        "name": "Stormwatch",
+        "url": "https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC"
+      },
+      "artists": [
+        {
+          "name": "Helvetic Nerds",
+          "url": "https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502616,
+      "name": "Stormwatch - Chris Reece & Dinka Old Fashion Mix",
+      "url": "https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu"
+    },
+    {
+      "album": {
+        "name": "Golden Shores (2017 Sunlight Respray) / Sunday Moning Sun EP",
+        "url": "https://open.spotify.com/album/7q3bZIvVgG5HG9chP3np4H"
+      },
+      "artists": [
+        {
+          "name": "Sunlight Project",
+          "url": "https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401904,
+      "name": "Sunday Morning Sun",
+      "url": "https://open.spotify.com/track/5FXSMA7Wr96CfLn6x7AyN4"
+    },
+    {
+      "album": {
+        "name": "Talamanca Beach",
+        "url": "https://open.spotify.com/album/1XQB9LHvFK3tXa0TaAvENU"
+      },
+      "artists": [
+        {
+          "name": "James Woods",
+          "url": "https://open.spotify.com/artist/5YeXBjCN7FLVoTLWu8dL6L"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426666,
+      "name": "Talamanca Beach - James Woods Remix",
+      "url": "https://open.spotify.com/track/6XCCnHfM4ve1yfgd3QibiL"
+    },
+    {
+      "album": {
+        "name": "Talamanca Beach",
+        "url": "https://open.spotify.com/album/1XQB9LHvFK3tXa0TaAvENU"
+      },
+      "artists": [
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438425,
+      "name": "Talamanca Beach - Vitodito Remix",
+      "url": "https://open.spotify.com/track/6rcdxRU4l2HMQWQeCYXEKT"
+    },
+    {
+      "album": {
+        "name": "Silk Music Pres. Shingo Nakamura 02",
+        "url": "https://open.spotify.com/album/0BBJJYA8GlxeM5O6hvnMhD"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371500,
+      "name": "The Four",
+      "url": "https://open.spotify.com/track/18uPpbVZSm2XiCta7xvC2K"
+    },
+    {
+      "album": {
+        "name": "The Four / Sapporo (Remixes)",
+        "url": "https://open.spotify.com/album/2LxaxejgxCP7aBtLDh2SkG"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Sundriver",
+          "url": "https://open.spotify.com/artist/3OKbvWLskv2IPnpFiL1BRr"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495000,
+      "name": "The Four - Sundriver Remix",
+      "url": "https://open.spotify.com/track/4w1HNFpUkcfKb2Jq4ImBZX"
+    },
+    {
+      "album": {
+        "name": "The Last Day Of Summer",
+        "url": "https://open.spotify.com/album/5gPzVzavRqAFYtyHbiIAYv"
+      },
+      "artists": [
+        {
+          "name": "Vasiliy GooDKov",
+          "url": "https://open.spotify.com/artist/5szViFkw2UWTmKyU10mCzu"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349158,
+      "name": "The Last Day Of Summer - Original Mix",
+      "url": "https://open.spotify.com/track/2EW06KoxLBiyfmEnMchoFW"
+    },
+    {
+      "album": {
+        "name": "There's No Turning Back, Dub Mixes, Pt. 2",
+        "url": "https://open.spotify.com/album/6eZmVN4yNS6Ls1NswsYi2z"
+      },
+      "artists": [
+        {
+          "name": "Alex H",
+          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 465000,
+      "name": "There's No Turning Back - Dub Mix",
+      "url": "https://open.spotify.com/track/0BFMmDzsiUq880u46I6nnc"
+    },
+    {
+      "album": {
+        "name": "No Turning Back (Remixed Pt. 1)",
+        "url": "https://open.spotify.com/album/12rBhVe9i8CRcRsn5ARliZ"
+      },
+      "artists": [
+        {
+          "name": "Alex H",
+          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
+        },
+        {
+          "name": "Mona Moua",
+          "url": "https://open.spotify.com/artist/7szwIliQiPcrgqWrm0RKwO"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "There's No Turning Back - Original Mix",
+      "url": "https://open.spotify.com/track/7GQbf15tyb2TEs75COfitm"
+    },
+    {
+      "album": {
+        "name": "This Is You",
+        "url": "https://open.spotify.com/album/3glegzH6M2LinCFFltJO4L"
+      },
+      "artists": [
+        {
+          "name": "Nigel Good",
+          "url": "https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2"
+        },
+        {
+          "name": "Sarah Clark",
+          "url": "https://open.spotify.com/artist/4cY0kNpSnRRXGXLLbb13Ey"
+        },
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462305,
+      "name": "This Is You - Blood Groove & Kikis Remix",
+      "url": "https://open.spotify.com/track/6eKLlj2pPtTdZL1SBEeGH7"
+    },
+    {
+      "album": {
+        "name": "Sapporo",
+        "url": "https://open.spotify.com/album/3DGSAOZ2ELyIcAIPkk6K08"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519150,
+      "name": "Thousands Of Sounds",
+      "url": "https://open.spotify.com/track/25ksmu1PgGCk4AlhVdyoAs"
+    },
+    {
+      "album": {
+        "name": "Twin Ride",
+        "url": "https://open.spotify.com/album/1QB3r24tNzM1aCUTUbr8Mq"
+      },
+      "artists": [
+        {
+          "name": "Chris Lyons DJ",
+          "url": "https://open.spotify.com/artist/1RRfa3irejE1cUjx1oqwzv"
+        }
+      ],
+      "date_added": "2019-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314634,
+      "name": "Twin Ride",
+      "url": "https://open.spotify.com/track/6NWgR0iSSR7hGvNCCRxZiS"
+    },
+    {
+      "album": {
+        "name": "Two Seasons",
+        "url": "https://open.spotify.com/album/4aI8ZG86jmY0joLuxgqyRb"
+      },
+      "artists": [
+        {
+          "name": "Alex H",
+          "url": "https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2021-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476160,
+      "name": "Two Seasons - Alex H Remix",
+      "url": "https://open.spotify.com/track/1TKVMPWUPMDNGf79SsLxuu"
+    },
+    {
+      "album": {
+        "name": "Unstable Turntable",
+        "url": "https://open.spotify.com/album/3TPcLNaRA8Mf7j5K7ANmFY"
+      },
+      "artists": [
+        {
+          "name": "Roald Velden",
+          "url": "https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP"
+        }
+      ],
+      "date_added": "2021-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210984,
+      "name": "Unstable Turntable - Radio Edit",
+      "url": "https://open.spotify.com/track/6zcaSuiOIODE72v3gS4sfC"
+    },
+    {
+      "album": {
+        "name": "Valencia (Remixes)",
+        "url": "https://open.spotify.com/album/7MNSCAOe0XzXlnkevsTwLq"
+      },
+      "artists": [
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455433,
+      "name": "Valencia - Original Mix",
+      "url": "https://open.spotify.com/track/5u7jgACtZ2DQuZbdqv6CDT"
+    },
+    {
+      "album": {
+        "name": "Wanderin Streams",
+        "url": "https://open.spotify.com/album/4imPKK9DvrdTT8oIJVNZBl"
+      },
+      "artists": [
+        {
+          "name": "Z8phyR",
+          "url": "https://open.spotify.com/artist/03cOmqTQ8PbUeqBAClCHM7"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369500,
+      "name": "Wandering Streams",
+      "url": "https://open.spotify.com/track/3t5ffnAzh6pesUNYKn9Dvk"
+    },
+    {
+      "album": {
+        "name": "When Winter Comes",
+        "url": "https://open.spotify.com/album/1rmBw57WO6Rcx1lQu7b8Hv"
+      },
+      "artists": [
+        {
+          "name": "Miroslav Vrlik",
+          "url": "https://open.spotify.com/artist/07OQnOSosaMwXDVH06Fgvh"
+        },
+        {
+          "name": "Mark & Lukas",
+          "url": "https://open.spotify.com/artist/5RO3il4O2kpXI6nAfLT9xr"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391885,
+      "name": "When Winter Comes - Original Mix",
+      "url": "https://open.spotify.com/track/3fSQth46qNodA9lF5M4B0I"
+    },
+    {
+      "album": {
+        "name": "Without You Remixes",
+        "url": "https://open.spotify.com/album/5TP036iONyqioBP1azdaCQ"
+      },
+      "artists": [
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423750,
+      "name": "Without You - Talamanca Remix",
+      "url": "https://open.spotify.com/track/36HizZHJizzPNislyyeqYc"
+    },
+    {
+      "album": {
+        "name": "Silk Music Showcase 06 (Mixed by Jacob Henry & Tom Fall)",
+        "url": "https://open.spotify.com/album/2ijKsn3vCglQ34m7mB6EgD"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359573,
+      "name": "You Are - Mixed",
+      "url": "https://open.spotify.com/track/3MgtQaRXeaaWoKHY7z0HbG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2MVOmcETWNEZHSxdhG5e9k"
 }

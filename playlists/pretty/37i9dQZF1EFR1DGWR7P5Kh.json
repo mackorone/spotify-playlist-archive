@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDQxMzAsMDAwMDAwMDA5MGRjMmUzNWYyMDE0MDA0NjczMWI4ODNiODE1Zjc2NQ==",
+  "snapshot_id": "Mjg0MjQyOTAsMDAwMDAwMDAxNTJiNzU1NWM3ZmNmNjNhNzdiMzJjOTc2M2FkNTk0OQ==",
   "tracks": [
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
+      "album": {
+        "name": "7 rings",
+        "url": "https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu"
+    },
+    {
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "thank u, next",
-        "url": "https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC"
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
@@ -36,12 +52,12 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 330496,
+      "duration_ms": 207320,
       "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e"
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4u5HvbM2akj3bhSuLKBVPp"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/0dg2Lzt2LdlD8ReTSI11se"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
@@ -165,10 +181,10 @@
       "url": "https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
-        "name": "Gold-Diggers Sound",
-        "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
+        "name": "Why Don't You Touch Me (Part 1 - Official Video)",
+        "url": "https://open.spotify.com/album/2Tv4to9QNN00K3RAZH9PNG"
       },
       "artists": [
         {
@@ -176,12 +192,12 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 197746,
+      "duration_ms": 255743,
       "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw"
+      "url": "https://open.spotify.com/track/7IIzlXlQ5zqMzVTcG5svrN"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/3Yrmzj5kIcASKndfutrJjC"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/6WC5YDTKztcTU3tWux0Jk1"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "It Was Divine",
         "url": "https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -253,7 +269,23 @@
       "url": "https://open.spotify.com/track/2vF4tAlCnTCQnIFWLQ2VbL"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Spirited Away",
+      "url": "https://open.spotify.com/track/13cpmGta0jcpakph0NoGZc"
+    },
+    {
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Rather Be (with Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/4l5OxJiSL2UXAvYjegmz4m"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/4A3ndoCydKhWbeny68qmNC"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/3TxvjfiCEb27MXPXGAW8JZ"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Freedom Rings",
         "url": "https://open.spotify.com/album/740GtdPevTeyubYLD00n4K"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/7eVrZuqpbbaFnZoT97dOBn"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Midwest Kids Can Make It Big",
         "url": "https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "\u30cf\u30ec\u30f3\u30c1",
         "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Quality Street Music",
         "url": "https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/3MUTO5VJza3DjSGyAcyFtb"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "missunderstood",
         "url": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/3SylZsUCrHAlag6Q4BmYD7"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "B7",
         "url": "https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/2JZRFfvZd8PmZftsGRwb1I"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "No Caption",
         "url": "https://open.spotify.com/album/79AFj3rfMfrKcXPaJVfUuE"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/0oxJLSSARMeex4ECEFa5jG"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Young And Free",
         "url": "https://open.spotify.com/album/2sIJD8kpK3RhvBKkMQLfKm"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/4o7jNKOHdwtgdZAGby2TV2"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "Timbaland\u2019s Beat Saber Music Pack by BeatClub",
         "url": "https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/5RcMLdjofr40JUqei7d5qf"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "With Opened Eyes",
         "url": "https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03"
     },
     {
-      "added_at": "2024-01-02 02:10:17",
+      "added_at": "2024-01-16 02:10:09",
       "album": {
         "name": "This Kind of Ocean",
         "url": "https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18"

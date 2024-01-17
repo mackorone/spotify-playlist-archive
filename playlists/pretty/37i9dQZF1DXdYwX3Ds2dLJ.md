@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,405 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,449 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 70 | [Cosmic Dust](https://open.spotify.com/track/5QxRlfnjp8ELreyz36iS5g) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:43 |
 | 71 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
 | 72 | [Week](https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Week](https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP) | 3:22 |
-| 73 | [Pit\-A\-Pat](https://open.spotify.com/track/2VI3BhUQPGgwFdkbnnZyEy) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Strong Woman Do Bong Soon, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7EL2MtMonriK4Tb2rh0IL5) | 3:30 |
+| 73 | [Pit\-A\-Pat](https://open.spotify.com/track/6fMSweBYKXSiY3mIbixgU7) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Strong Woman Do Bong Soon, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7LjpHP7KtIoRrqm5vtNel9) | 3:30 |
 | 74 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
 | 75 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 

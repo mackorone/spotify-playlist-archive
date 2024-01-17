@@ -1,584 +1,1219 @@
 {
-  "2022-05-26": 38,
-  "2022-05-27": 38,
-  "2022-05-28": 38,
-  "2022-05-29": 38,
-  "2022-05-30": 38,
-  "2022-05-31": 38,
-  "2022-06-01": 38,
-  "2022-06-02": 38,
-  "2022-06-03": 38,
-  "2022-06-04": 38,
-  "2022-06-05": 38,
-  "2022-06-06": 39,
-  "2022-06-07": 39,
-  "2022-06-08": 39,
-  "2022-06-09": 39,
-  "2022-06-10": 39,
-  "2022-06-11": 39,
-  "2022-06-12": 39,
-  "2022-06-13": 39,
-  "2022-06-14": 40,
-  "2022-06-15": 40,
-  "2022-06-16": 39,
-  "2022-06-17": 39,
-  "2022-06-18": 39,
-  "2022-06-19": 39,
-  "2022-06-20": 39,
-  "2022-06-21": 39,
-  "2022-06-22": 39,
-  "2022-06-23": 39,
-  "2022-06-24": 39,
-  "2022-06-25": 39,
-  "2022-06-26": 39,
-  "2022-06-27": 39,
-  "2022-06-28": 39,
-  "2022-06-29": 39,
-  "2022-06-30": 39,
-  "2022-07-01": 39,
-  "2022-07-02": 39,
-  "2022-07-03": 40,
-  "2022-07-04": 40,
-  "2022-07-05": 40,
-  "2022-07-06": 40,
-  "2022-07-07": 42,
-  "2022-07-08": 42,
-  "2022-07-09": 42,
-  "2022-07-10": 42,
-  "2022-07-11": 42,
-  "2022-07-12": 42,
-  "2022-07-13": 42,
-  "2022-07-14": 42,
-  "2022-07-15": 42,
-  "2022-07-16": 43,
-  "2022-07-17": 43,
-  "2022-07-18": 43,
-  "2022-07-19": 43,
-  "2022-07-20": 43,
-  "2022-07-21": 43,
-  "2022-07-22": 43,
-  "2022-07-23": 43,
-  "2022-07-24": 43,
-  "2022-07-25": 43,
-  "2022-07-26": 43,
-  "2022-07-27": 43,
-  "2022-07-28": 43,
-  "2022-07-29": 43,
-  "2022-07-30": 43,
-  "2022-07-31": 43,
-  "2022-08-01": 43,
-  "2022-08-02": 44,
-  "2022-08-03": 44,
-  "2022-08-04": 45,
-  "2022-08-05": 45,
-  "2022-08-06": 45,
-  "2022-08-07": 45,
-  "2022-08-08": 46,
-  "2022-08-09": 45,
-  "2022-08-10": 45,
-  "2022-08-11": 44,
-  "2022-08-12": 44,
-  "2022-08-13": 44,
-  "2022-08-14": 44,
-  "2022-08-15": 44,
-  "2022-08-16": 46,
-  "2022-08-17": 46,
-  "2022-08-18": 46,
-  "2022-08-19": 46,
-  "2022-08-20": 46,
-  "2022-08-21": 46,
-  "2022-08-22": 47,
-  "2022-08-23": 47,
-  "2022-08-24": 47,
-  "2022-08-25": 47,
-  "2022-08-26": 47,
-  "2022-08-27": 48,
-  "2022-08-28": 48,
-  "2022-08-29": 48,
-  "2022-08-30": 48,
-  "2022-08-31": 48,
-  "2022-09-01": 48,
-  "2022-09-02": 48,
-  "2022-09-03": 48,
-  "2022-09-04": 48,
-  "2022-09-05": 48,
-  "2022-09-06": 49,
-  "2022-09-07": 48,
-  "2022-09-09": 49,
-  "2022-09-10": 50,
-  "2022-09-11": 51,
-  "2022-09-12": 51,
-  "2022-09-13": 52,
-  "2022-09-15": 52,
-  "2022-09-16": 52,
-  "2022-09-17": 54,
-  "2022-09-18": 55,
-  "2022-09-19": 55,
-  "2022-09-20": 54,
-  "2022-09-21": 54,
-  "2022-09-22": 54,
-  "2022-09-23": 54,
-  "2022-09-24": 54,
-  "2022-09-25": 55,
-  "2022-09-26": 55,
-  "2022-09-27": 56,
-  "2022-09-28": 56,
-  "2022-09-29": 56,
-  "2022-09-30": 57,
-  "2022-10-01": 57,
-  "2022-10-02": 57,
-  "2022-10-03": 57,
-  "2022-10-04": 57,
-  "2022-10-05": 57,
-  "2022-10-06": 58,
-  "2022-10-07": 58,
-  "2022-10-08": 58,
-  "2022-10-09": 58,
-  "2022-10-10": 58,
-  "2022-10-11": 58,
-  "2022-10-12": 58,
-  "2022-10-13": 59,
-  "2022-10-14": 60,
-  "2022-10-15": 60,
-  "2022-10-16": 61,
-  "2022-10-17": 61,
-  "2022-10-18": 61,
-  "2022-10-19": 61,
-  "2022-10-20": 61,
-  "2022-10-21": 62,
-  "2022-10-22": 62,
-  "2022-10-23": 62,
-  "2022-10-24": 62,
-  "2022-10-25": 62,
-  "2022-10-26": 62,
-  "2022-10-27": 63,
-  "2022-10-28": 63,
-  "2022-10-29": 64,
-  "2022-10-30": 63,
-  "2022-10-31": 63,
-  "2022-11-01": 63,
-  "2022-11-02": 63,
-  "2022-11-03": 63,
-  "2022-11-04": 63,
-  "2022-11-05": 63,
-  "2022-11-06": 63,
-  "2022-11-07": 64,
-  "2022-11-08": 64,
-  "2022-11-09": 64,
-  "2022-11-10": 64,
-  "2022-11-11": 64,
-  "2022-11-12": 64,
-  "2022-11-13": 64,
-  "2022-11-14": 64,
-  "2022-11-15": 64,
-  "2022-11-16": 64,
-  "2022-11-17": 64,
-  "2022-11-18": 64,
-  "2022-11-19": 64,
-  "2022-11-20": 64,
-  "2022-11-21": 64,
-  "2022-11-22": 65,
-  "2022-11-23": 65,
-  "2022-11-24": 66,
-  "2022-11-25": 66,
-  "2022-11-26": 66,
-  "2022-11-27": 66,
-  "2022-11-28": 66,
-  "2022-11-29": 66,
-  "2022-11-30": 67,
-  "2022-12-01": 68,
-  "2022-12-02": 68,
-  "2022-12-03": 68,
-  "2022-12-04": 68,
-  "2022-12-05": 68,
-  "2022-12-06": 68,
-  "2022-12-07": 68,
-  "2022-12-08": 68,
-  "2022-12-09": 69,
-  "2022-12-10": 70,
-  "2022-12-11": 70,
-  "2022-12-12": 70,
-  "2022-12-13": 70,
-  "2022-12-14": 70,
-  "2022-12-15": 70,
-  "2022-12-16": 70,
-  "2022-12-17": 70,
-  "2022-12-18": 71,
-  "2022-12-19": 71,
-  "2022-12-20": 73,
-  "2022-12-21": 73,
-  "2022-12-22": 73,
-  "2022-12-24": 72,
-  "2022-12-25": 72,
-  "2022-12-26": 73,
-  "2022-12-27": 74,
-  "2022-12-28": 75,
-  "2022-12-29": 74,
-  "2022-12-30": 73,
-  "2022-12-31": 73,
-  "2023-01-01": 74,
-  "2023-01-02": 75,
-  "2023-01-03": 76,
-  "2023-01-04": 76,
-  "2023-01-05": 76,
-  "2023-01-06": 76,
-  "2023-01-07": 76,
-  "2023-01-08": 76,
-  "2023-01-09": 77,
-  "2023-01-10": 77,
-  "2023-01-11": 78,
-  "2023-01-12": 78,
-  "2023-01-13": 78,
-  "2023-01-14": 79,
-  "2023-01-15": 79,
-  "2023-01-16": 79,
-  "2023-01-17": 79,
-  "2023-01-18": 79,
-  "2023-01-19": 79,
-  "2023-01-20": 79,
-  "2023-01-21": 78,
-  "2023-01-22": 78,
-  "2023-01-23": 77,
-  "2023-01-24": 77,
-  "2023-01-25": 78,
-  "2023-01-26": 78,
-  "2023-01-27": 78,
-  "2023-01-28": 78,
-  "2023-01-29": 78,
-  "2023-01-30": 78,
-  "2023-01-31": 78,
-  "2023-02-01": 78,
-  "2023-02-02": 78,
-  "2023-02-03": 78,
-  "2023-02-04": 78,
-  "2023-02-05": 78,
-  "2023-02-06": 78,
-  "2023-02-07": 78,
-  "2023-02-08": 77,
-  "2023-02-09": 77,
-  "2023-02-10": 76,
-  "2023-02-11": 75,
-  "2023-02-12": 75,
-  "2023-02-13": 75,
-  "2023-02-14": 75,
-  "2023-02-15": 75,
-  "2023-02-16": 75,
-  "2023-02-17": 75,
-  "2023-02-18": 75,
-  "2023-02-19": 75,
-  "2023-02-20": 75,
-  "2023-02-21": 75,
-  "2023-02-22": 75,
-  "2023-02-23": 75,
-  "2023-02-24": 76,
-  "2023-02-25": 75,
-  "2023-02-26": 75,
-  "2023-02-27": 75,
-  "2023-02-28": 75,
-  "2023-03-01": 75,
-  "2023-03-02": 75,
-  "2023-03-03": 75,
-  "2023-03-04": 75,
-  "2023-03-05": 76,
-  "2023-03-06": 76,
-  "2023-03-07": 79,
-  "2023-03-08": 82,
-  "2023-03-09": 85,
-  "2023-03-10": 86,
-  "2023-03-11": 88,
-  "2023-03-12": 89,
-  "2023-03-13": 89,
-  "2023-03-14": 89,
-  "2023-03-15": 89,
-  "2023-03-16": 89,
-  "2023-03-17": 89,
-  "2023-03-18": 89,
-  "2023-03-19": 89,
-  "2023-03-20": 89,
-  "2023-03-21": 89,
-  "2023-03-22": 89,
-  "2023-03-23": 89,
-  "2023-03-24": 89,
-  "2023-03-25": 89,
-  "2023-03-26": 89,
-  "2023-03-27": 89,
-  "2023-03-28": 89,
-  "2023-03-29": 89,
-  "2023-03-30": 90,
-  "2023-03-31": 90,
-  "2023-04-01": 89,
-  "2023-04-02": 89,
-  "2023-04-03": 89,
-  "2023-04-04": 88,
-  "2023-04-05": 88,
-  "2023-04-06": 88,
-  "2023-04-07": 88,
-  "2023-04-09": 88,
-  "2023-04-10": 88,
-  "2023-04-11": 88,
-  "2023-04-12": 88,
-  "2023-04-13": 88,
-  "2023-04-14": 88,
-  "2023-04-15": 88,
-  "2023-04-16": 88,
-  "2023-04-17": 88,
-  "2023-04-18": 88,
-  "2023-04-19": 88,
-  "2023-04-20": 88,
-  "2023-04-21": 92,
-  "2023-04-22": 93,
-  "2023-04-23": 93,
-  "2023-04-24": 93,
-  "2023-04-25": 93,
-  "2023-04-26": 93,
-  "2023-04-27": 93,
-  "2023-04-28": 94,
-  "2023-04-29": 94,
-  "2023-04-30": 94,
-  "2023-05-01": 94,
-  "2023-05-02": 94,
-  "2023-05-03": 94,
-  "2023-05-04": 94,
-  "2023-05-05": 94,
-  "2023-05-06": 94,
-  "2023-05-07": 94,
-  "2023-05-08": 94,
-  "2023-05-09": 94,
-  "2023-05-10": 94,
-  "2023-05-11": 94,
-  "2023-05-12": 94,
-  "2023-05-13": 94,
-  "2023-05-14": 95,
-  "2023-05-15": 94,
-  "2023-05-16": 94,
-  "2023-05-17": 94,
-  "2023-05-18": 94,
-  "2023-05-19": 94,
-  "2023-05-20": 94,
-  "2023-05-21": 94,
-  "2023-05-22": 94,
-  "2023-05-23": 93,
-  "2023-05-24": 93,
-  "2023-05-25": 93,
-  "2023-05-26": 93,
-  "2023-05-27": 93,
-  "2023-05-28": 92,
-  "2023-05-29": 92,
-  "2023-05-30": 93,
-  "2023-05-31": 93,
-  "2023-06-01": 93,
-  "2023-06-02": 93,
-  "2023-06-03": 93,
-  "2023-06-04": 93,
-  "2023-06-05": 93,
-  "2023-06-06": 93,
-  "2023-06-07": 94,
-  "2023-06-08": 94,
-  "2023-06-09": 94,
-  "2023-06-10": 94,
-  "2023-06-11": 94,
-  "2023-06-12": 94,
-  "2023-06-13": 94,
-  "2023-06-14": 94,
-  "2023-06-15": 94,
-  "2023-06-16": 94,
-  "2023-06-17": 94,
-  "2023-06-18": 94,
-  "2023-06-19": 94,
-  "2023-06-20": 94,
-  "2023-06-21": 94,
-  "2023-06-22": 94,
-  "2023-06-23": 95,
-  "2023-06-24": 95,
-  "2023-06-25": 95,
-  "2023-06-26": 95,
-  "2023-06-27": 94,
-  "2023-06-28": 96,
-  "2023-06-29": 96,
-  "2023-06-30": 96,
-  "2023-07-01": 96,
-  "2023-07-02": 96,
-  "2023-07-03": 96,
-  "2023-07-04": 96,
-  "2023-07-05": 96,
-  "2023-07-06": 97,
-  "2023-07-07": 97,
-  "2023-07-08": 97,
-  "2023-07-09": 97,
-  "2023-07-10": 97,
-  "2023-07-11": 96,
-  "2023-07-12": 96,
-  "2023-07-13": 96,
-  "2023-07-14": 96,
-  "2023-07-15": 96,
-  "2023-07-16": 96,
-  "2023-07-17": 96,
-  "2023-07-18": 96,
-  "2023-07-19": 96,
-  "2023-07-20": 96,
-  "2023-07-21": 96,
-  "2023-07-22": 97,
-  "2023-07-23": 97,
-  "2023-07-24": 99,
-  "2023-07-25": 100,
-  "2023-07-26": 100,
-  "2023-07-27": 100,
-  "2023-07-28": 100,
-  "2023-07-29": 102,
-  "2023-07-30": 102,
-  "2023-07-31": 102,
-  "2023-08-01": 102,
-  "2023-08-02": 103,
-  "2023-08-03": 103,
-  "2023-08-04": 103,
-  "2023-08-05": 103,
-  "2023-08-06": 103,
-  "2023-08-07": 103,
-  "2023-08-08": 103,
-  "2023-08-09": 103,
-  "2023-08-10": 103,
-  "2023-08-11": 103,
-  "2023-08-12": 103,
-  "2023-08-13": 103,
-  "2023-08-14": 103,
-  "2023-08-15": 103,
-  "2023-08-16": 103,
-  "2023-08-17": 103,
-  "2023-08-18": 103,
-  "2023-08-19": 103,
-  "2023-08-20": 104,
-  "2023-08-21": 104,
-  "2023-08-22": 104,
-  "2023-08-23": 104,
-  "2023-08-24": 104,
-  "2023-08-25": 104,
-  "2023-08-26": 104,
-  "2023-08-27": 104,
-  "2023-08-28": 105,
-  "2023-08-29": 105,
-  "2023-08-30": 105,
-  "2023-08-31": 104,
-  "2023-09-01": 104,
-  "2023-09-02": 104,
-  "2023-09-03": 104,
-  "2023-09-04": 104,
-  "2023-09-05": 104,
-  "2023-09-06": 104,
-  "2023-09-07": 104,
-  "2023-09-08": 104,
-  "2023-09-09": 104,
-  "2023-09-10": 104,
-  "2023-09-11": 104,
-  "2023-09-12": 104,
-  "2023-09-13": 104,
-  "2023-09-14": 104,
-  "2023-09-15": 104,
-  "2023-09-16": 104,
-  "2023-09-17": 104,
-  "2023-09-18": 104,
-  "2023-09-19": 104,
-  "2023-09-20": 104,
-  "2023-09-21": 104,
-  "2023-09-22": 104,
-  "2023-09-23": 104,
-  "2023-09-24": 104,
-  "2023-09-25": 104,
-  "2023-09-26": 104,
-  "2023-09-27": 104,
-  "2023-09-28": 104,
-  "2023-09-29": 104,
-  "2023-09-30": 104,
-  "2023-10-01": 104,
-  "2023-10-02": 104,
-  "2023-10-03": 104,
-  "2023-10-04": 104,
-  "2023-10-05": 104,
-  "2023-10-06": 104,
-  "2023-10-07": 104,
-  "2023-10-08": 104,
-  "2023-10-09": 104,
-  "2023-10-10": 104,
-  "2023-10-11": 104,
-  "2023-10-12": 104,
-  "2023-10-13": 104,
-  "2023-10-14": 104,
-  "2023-10-15": 104,
-  "2023-10-16": 104,
-  "2023-10-17": 104,
-  "2023-10-18": 104,
-  "2023-10-19": 104,
-  "2023-10-20": 104,
-  "2023-10-21": 104,
-  "2023-10-22": 104,
-  "2023-10-23": 104,
-  "2023-10-24": 104,
-  "2023-10-25": 104,
-  "2023-10-26": 104,
-  "2023-10-27": 104,
-  "2023-10-28": 104,
-  "2023-10-29": 104,
-  "2023-10-30": 104,
-  "2023-10-31": 104,
-  "2023-11-01": 104,
-  "2023-11-02": 104,
-  "2023-11-03": 104,
-  "2023-11-04": 104,
-  "2023-11-05": 104,
-  "2023-11-06": 104,
-  "2023-11-07": 104,
-  "2023-11-08": 104,
-  "2023-11-09": 104,
-  "2023-11-10": 104,
-  "2023-11-11": 104,
-  "2023-11-12": 104,
-  "2023-11-13": 104,
-  "2023-11-14": 104,
-  "2023-11-15": 104,
-  "2023-11-16": 104,
-  "2023-11-17": 104,
-  "2023-11-18": 104,
-  "2023-11-19": 104,
-  "2023-11-20": 104,
-  "2023-11-21": 104,
-  "2023-11-22": 104,
-  "2023-11-23": 104,
-  "2023-11-24": 104,
-  "2023-11-25": 104,
-  "2023-11-26": 104,
-  "2023-11-27": 104,
-  "2023-11-28": 104,
-  "2023-11-29": 104,
-  "2023-11-30": 104,
-  "2023-12-01": 104,
-  "2023-12-02": 104,
-  "2023-12-03": 104,
-  "2023-12-04": 104,
-  "2023-12-05": 104,
-  "2023-12-06": 104,
-  "2023-12-07": 104,
-  "2023-12-08": 104,
-  "2023-12-09": 104,
-  "2023-12-10": 104,
-  "2023-12-11": 104,
-  "2023-12-12": 104,
-  "2023-12-13": 104,
-  "2023-12-14": 108,
-  "2023-12-15": 108,
-  "2023-12-16": 108,
-  "2023-12-17": 108,
-  "2023-12-18": 108,
-  "2023-12-19": 108,
-  "2023-12-20": 108,
-  "2023-12-21": 108,
-  "2023-12-22": 108,
-  "2023-12-23": 108,
-  "2023-12-24": 108,
-  "2023-12-25": 108,
-  "2023-12-26": 109,
-  "2023-12-27": 109,
-  "2023-12-30": 109,
-  "2023-12-31": 109,
-  "2024-01-01": 109,
-  "2024-01-02": 109,
-  "2024-01-03": 109
+  "2024-01-17": 109,
+  "date_first_scraped": "2022-05-26",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe\">Sigourney Korper</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Sigourney Korper",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Mehdi",
+        "url": "https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/3U1sLMV37PoS7i5aApZXIx"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 151028,
+      "name": "100 SMSjes",
+      "url": "https://open.spotify.com/track/3XavwzRdhEfcaKctZoGYIm"
+    },
+    {
+      "album": {
+        "name": "100 SMSjes",
+        "url": "https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 151028,
+      "name": "100 SMSjes",
+      "url": "https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151028,
+      "name": "100 SMSjes",
+      "url": "https://open.spotify.com/track/4mbyhUpYPjyAVCocUm0CGe"
+    },
+    {
+      "album": {
+        "name": "100 Vragen (feat. Philly Mor\u00e9)",
+        "url": "https://open.spotify.com/album/2mOezDvjuKh4SZAoLJxrM9"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 178618,
+      "name": "100 Vragen (feat. Philly Mor\u00e9)",
+      "url": "https://open.spotify.com/track/0Px30JH5M6rcKaAemQEAmV"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178618,
+      "name": "100 Vragen (feat. Philly Mor\u00e9)",
+      "url": "https://open.spotify.com/track/21bjqjI1bftvfyJHZMd0Al"
+    },
+    {
+      "album": {
+        "name": "El Mehdi",
+        "url": "https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/2pAH3VEtFved36wEMIn51X"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/0nOUrDieoBSKrXdK43me9u"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3ngW4Y9sxBoK8abawMEZ9C"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165855,
+      "name": "Als Ik Haar Was",
+      "url": "https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 165855,
+      "name": "Als Ik Haar Was",
+      "url": "https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr"
+    },
+    {
+      "album": {
+        "name": "Kids Top 100 2015",
+        "url": "https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh"
+      },
+      "artists": [
+        {
+          "name": "Zirkus Zirkus",
+          "url": "https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 200571,
+      "name": "Babyboy",
+      "url": "https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42"
+      },
+      "artists": [
+        {
+          "name": "TP4Y",
+          "url": "https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186077,
+      "name": "Bitter Candy",
+      "url": "https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt"
+    },
+    {
+      "album": {
+        "name": "In De Tent",
+        "url": "https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy"
+      },
+      "artists": [
+        {
+          "name": "Zirkus Zirkus",
+          "url": "https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Blockparty",
+      "url": "https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ"
+    },
+    {
+      "album": {
+        "name": "Door De Regen",
+        "url": "https://open.spotify.com/album/5uY8iQGj3xTG9ZeSviU9gI"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Door De Regen",
+      "url": "https://open.spotify.com/track/5t5TOLejRhyJ5Pe0VQTgXK"
+    },
+    {
+      "album": {
+        "name": "LOS",
+        "url": "https://open.spotify.com/album/5etXVNcFeL5oGCshH9ZWOx"
+      },
+      "artists": [
+        {
+          "name": "B-Brave",
+          "url": "https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151558,
+      "name": "Door Rood",
+      "url": "https://open.spotify.com/track/7huB5Xl7PbYNbAm1wQL3mo"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/5QjL1KT0rE9RIIJpGxJ2pm"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 137082,
+      "name": "Echte Meisjes Huilen Niet",
+      "url": "https://open.spotify.com/track/2khV5bt8Hdz8l8u1dQ9Odl"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137082,
+      "name": "Echte Meisjes Huilen Niet",
+      "url": "https://open.spotify.com/track/3Gp2CvHRdDWCMKxIkbDKZR"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 137082,
+      "name": "Echte Meisjes Huilen Niet",
+      "url": "https://open.spotify.com/track/5y4q9XVIM7py4YBVkkIcov"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 151080,
+      "name": "Hallo, Dit Is Je Ex",
+      "url": "https://open.spotify.com/track/4Xi6X8SbnOmlQDFeyWGVjW"
+    },
+    {
+      "album": {
+        "name": "Hallo, Dit Is Je Ex",
+        "url": "https://open.spotify.com/album/7IH3p6PifUKhzUcAzN5rCI"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 151080,
+      "name": "Hallo, Dit Is Je Ex",
+      "url": "https://open.spotify.com/track/4clTQ6iKsqPrqgnUPsDZMt"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151080,
+      "name": "Hallo, Dit Is Je Ex",
+      "url": "https://open.spotify.com/track/5E2TJEIkEaqv7gLqG2zWIz"
+    },
+    {
+      "album": {
+        "name": "Hete Vuren",
+        "url": "https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Melissa Lopes",
+          "url": "https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Hete Vuren",
+      "url": "https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Huilen In De Club)",
+        "url": "https://open.spotify.com/album/2mlIuSZyziihdNDRkaixBZ"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 175217,
+      "name": "Huilen In De Club",
+      "url": "https://open.spotify.com/track/5V4SzzyB2G4eGn7LsYJQaF"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175217,
+      "name": "Huilen In De Club",
+      "url": "https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156273,
+      "name": "IFHJ",
+      "url": "https://open.spotify.com/track/0ViO5pqTBt6RuuXor63QBP"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 156273,
+      "name": "IFHJ",
+      "url": "https://open.spotify.com/track/1vvarNSMNP1HyoQvRIzuMe"
+    },
+    {
+      "album": {
+        "name": "IFHJ",
+        "url": "https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 156273,
+      "name": "IFHJ",
+      "url": "https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv"
+    },
+    {
+      "album": {
+        "name": "De Eerste Date",
+        "url": "https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj"
+      },
+      "artists": [
+        {
+          "name": "B-Brave",
+          "url": "https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Ik Laat Je Los",
+      "url": "https://open.spotify.com/track/4uQbpGV07Epf8AkCmanh0j"
+    },
+    {
+      "album": {
+        "name": "Je Weet Ik Ben Een Slodder - Single",
+        "url": "https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "Sigourney",
+          "url": "https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "Je Weet Ik Ben Een Slodder (feat. Sigourney)",
+      "url": "https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162978,
+      "name": "Kingsize Bed",
+      "url": "https://open.spotify.com/track/3jh7HKGyhmSRjr5A8DbRW5"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Kingsize Bed)",
+        "url": "https://open.spotify.com/album/7ACJ5kj4bE4NKruP8Z5KPm"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 162978,
+      "name": "Kingsize Bed",
+      "url": "https://open.spotify.com/track/6cauHAAEIPoCtfPG8dQJW3"
+    },
+    {
+      "album": {
+        "name": "Leidseplein",
+        "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 161831,
+      "name": "Leidseplein",
+      "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 161831,
+      "name": "Leidseplein",
+      "url": "https://open.spotify.com/track/5hvuUTT6VobgCv72RoVJ6X"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Leidseplein",
+      "url": "https://open.spotify.com/track/7FIwsJx8sW2Jxio70sco4c"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2YzAm5UkVJSFANQNlSGFKj"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        },
+        {
+          "name": "Sarita Lorena",
+          "url": "https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188199,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6OG3E84PZPTWyI3unCiMV5"
+    },
+    {
+      "album": {
+        "name": "De Eerste Date",
+        "url": "https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj"
+      },
+      "artists": [
+        {
+          "name": "B-Brave",
+          "url": "https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6BpRusupbO3jjx89yQkuer"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165198,
+      "name": "Lovey Dovey",
+      "url": "https://open.spotify.com/track/5rPh4RtiNHH6zGZVaPcYEw"
+    },
+    {
+      "album": {
+        "name": "Ongelofelijk",
+        "url": "https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5"
+      },
+      "artists": [
+        {
+          "name": "Aliyah",
+          "url": "https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219307,
+      "name": "Ongelofelijk",
+      "url": "https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14"
+    },
+    {
+      "album": {
+        "name": "De Leukste Liedjes 2021",
+        "url": "https://open.spotify.com/album/1czwYtZdav91HjwNmppicN"
+      },
+      "artists": [
+        {
+          "name": "De Club van Sinterklaas",
+          "url": "https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1"
+        },
+        {
+          "name": "KADO",
+          "url": "https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Piet Pyama Party",
+      "url": "https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA"
+    },
+    {
+      "album": {
+        "name": "R\u00fcckw\u00e4rtsgang",
+        "url": "https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147761,
+      "name": "R\u00fcckw\u00e4rtsgang",
+      "url": "https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Side Eyes",
+      "url": "https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV"
+    },
+    {
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3"
+      },
+      "artists": [
+        {
+          "name": "Carmell",
+          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146956,
+      "name": "Slaaptekort",
+      "url": "https://open.spotify.com/track/4zAbjQvRdn3FLgoS3775Jx"
+    },
+    {
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155842,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz"
+    },
+    {
+      "album": {
+        "name": "Sniper (Remix) (feat. BKO, Jairzinho & Sevn Alias)",
+        "url": "https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 199512,
+      "name": "Sniper (Remix) (feat. BKO, Jairzinho & Sevn Alias)",
+      "url": "https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ"
+    },
+    {
+      "album": {
+        "name": "Zo\u00eb Tauran",
+        "url": "https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5qLeE1Rys5ILNB5TrZSNkI"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 129500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA"
+    },
+    {
+      "album": {
+        "name": "Sum Like That (feat. Sigourney K)",
+        "url": "https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Thomas Helsloot",
+          "url": "https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Sum Like That (feat. Sigourney K)",
+      "url": "https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI"
+    },
+    {
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/5NxPIBU1e2Ns6npLSNOKJ8"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 176131,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4JaziO9SplhqLt31vWXcX4"
+    },
+    {
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/2ZFvIiNdavC1ysz9gbUARw"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176131,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4gZD4q9gni74mpIvlG2tHz"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42"
+      },
+      "artists": [
+        {
+          "name": "TP4Y",
+          "url": "https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "Take It Like a Man",
+      "url": "https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145043,
+      "name": "Till The End",
+      "url": "https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL"
+    },
+    {
+      "album": {
+        "name": "Vanavond (Uit M'n Bol)",
+        "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Vanavond (Uit M'n Bol)",
+      "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "album": {
+        "name": "Vluchtstrook",
+        "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148467,
+      "name": "Vluchtstrook",
+      "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet",
+        "url": "https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175995,
+      "name": "Vreemde Voor Mij",
+      "url": "https://open.spotify.com/track/0PsiQvqiUjUfyYZKuG9056"
+    },
+    {
+      "album": {
+        "name": "Vreemde Voor Mij",
+        "url": "https://open.spotify.com/album/53kdqVn3CpeE1YCjuHpq2e"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 175995,
+      "name": "Vreemde Voor Mij",
+      "url": "https://open.spotify.com/track/2wCZt5PKfSE81iXdRlRhaU"
+    },
+    {
+      "album": {
+        "name": "Echte Meisjes Huilen Niet (Als Ik Haar Was)",
+        "url": "https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 175995,
+      "name": "Vreemde Voor Mij",
+      "url": "https://open.spotify.com/track/346Yc2vmeXMYk1KArkbg0F"
+    },
+    {
+      "album": {
+        "name": "De Eerste Date",
+        "url": "https://open.spotify.com/album/0M2THL33puKb2LJ4lvRrJj"
+      },
+      "artists": [
+        {
+          "name": "B-Brave",
+          "url": "https://open.spotify.com/artist/6m9HyOTTtMQ8fFrLeJyuNV"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Waddup (feat. CHO)",
+      "url": "https://open.spotify.com/track/3uAXtgzerGxO86OVxKz0ct"
+    },
+    {
+      "album": {
+        "name": "Wat Jij Ook Zegt",
+        "url": "https://open.spotify.com/album/3D1AJgS2JftiRpPGUF304Y"
+      },
+      "artists": [
+        {
+          "name": "FLORABWOYY",
+          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154843,
+      "name": "Wat Jij Ook Zegt",
+      "url": "https://open.spotify.com/track/2NJiiDb6ztLlPYChbQeNZF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFSbtdIJNST3R"
 }

@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-224 songs - 9 hr 55 min
+226 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 | 2022-05-27 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-05-27 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-18 |  |
+| [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 | 2024-01-05 |  |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2022-05-27 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-05-27 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2022-05-27 |  |
@@ -47,6 +48,7 @@
 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-05-27 | 2022-09-16 |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2022-05-27 |  |
 | [Displacement](https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm) | [Maximilian Power](https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6) | [Displacement](https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S) | 2:26 | 2023-06-28 |  |
+| [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-05 |  |
 | [Don't Ever Say Goodbye](https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5) | [Jane Andreassen](https://open.spotify.com/artist/2UxhGySCjRJKfBuEW3CdMJ) | [Don't Ever Say Goodbye](https://open.spotify.com/album/2SKbUJ83VZve2rKPWRhNeO) | 2:47 | 2022-05-27 |  |
 | [Doucement](https://open.spotify.com/track/3GwiRKRo65MohJVQ0U3HLG) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Doucement](https://open.spotify.com/album/4w9ZGct1aV16nmB0SjyJeV) | 2:06 | 2022-09-15 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2022-05-27 |  |

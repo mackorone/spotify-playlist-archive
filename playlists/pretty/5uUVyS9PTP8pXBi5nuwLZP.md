@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 430,701 likes - 68 songs - 4 hr 2 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 433,390 likes - 68 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 58 | [Lendaba](https://open.spotify.com/track/5K63uwftk6aY4LYttORIw1) | [Hunsolo](https://open.spotify.com/artist/5FpuRcnenptTRbtNvtgiT1), [Johnny Waller](https://open.spotify.com/artist/3hG3B04FvCSGiGPIc87xaj), [Tshego Makama](https://open.spotify.com/artist/3YfYqxR7T1BGF57mR3QJxb), [Boy](https://open.spotify.com/artist/0gntao7h7R5aY35HqJ7MVO) | [Sontuli](https://open.spotify.com/album/7Ds39ycdPRnLp2qMPDIedY) | 2:54 |
 | 59 | [Promise](https://open.spotify.com/track/79tnbhnROBQU9lgV1JusMh) | [Art Buddie n Soul](https://open.spotify.com/artist/12N7pUGZyoxtcVmrcE3xG9), [Jamal Damani](https://open.spotify.com/artist/5R3payipXfGm5bV2jwZwZY) | [Promise](https://open.spotify.com/album/6UDVAMbJeuLZhgEvFIWQ80) | 2:41 |
 | 60 | [Ditto \- Piano instrumental](https://open.spotify.com/track/7COnf8BbUV0dyjt89J6aNH) | [Jason James](https://open.spotify.com/artist/08EE0czn8yYapWJR9jIXja) | [Ditto \(Piano instrumental\)](https://open.spotify.com/album/2HucecUzWd1rbQz0ePjhg1) | 3:54 |
-| 61 | [涙のクリスマス](https://open.spotify.com/track/4Uwjji0OVk65mzZd7hblfC) | [Yuku\-p](https://open.spotify.com/artist/2WxNQril7jBPaMCCK7pLh4), [初音ミク](https://open.spotify.com/artist/5Ydos9gIgi6UrvEl760BGm) | [涙のクリスマス](https://open.spotify.com/album/5BkpWbAkZqpknmESGmsxyw) | 3:59 |
+| 61 | [涙のクリスマス](https://open.spotify.com/track/4Uwjji0OVk65mzZd7hblfC) | [Yuku\-p](https://open.spotify.com/artist/2WxNQril7jBPaMCCK7pLh4), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [涙のクリスマス](https://open.spotify.com/album/5BkpWbAkZqpknmESGmsxyw) | 3:59 |
 | 62 | [SWEET MEMORIES](https://open.spotify.com/track/0hziMc6ZMyZz28lU2qr0EE) | [Funky Scratch](https://open.spotify.com/artist/6byqjSnOuCbBzszHjB0Col) | [SWEET MEMORIES](https://open.spotify.com/album/4vRrjNDOjRqy9rMoau9U7r) | 4:19 |
 | 63 | [Paint The Town](https://open.spotify.com/track/5Hn0NVmvzLl5TPInf3hJlo) | [Fredawar](https://open.spotify.com/artist/3MVQWPVndHxuZosrQaSHdr) | [Paint The Town](https://open.spotify.com/album/7x3IBIWb9TMe0u5nnil90u) | 3:05 |
 | 64 | [Un regard](https://open.spotify.com/track/6ssPCiJGdBtTzGqoVLH4gg) | [Bousko](https://open.spotify.com/artist/3tReS5iVJiJ1VHGdIGz6Aw) | [Un regard](https://open.spotify.com/album/3IgB1LpDVosfkX1l6TL8bc) | 2:31 |

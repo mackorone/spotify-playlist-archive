@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
@@ -1464,7 +1482,7 @@
       },
       "artists": [
         {
-          "name": "dhruv",
+          "name": "Dhruv",
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
@@ -3070,7 +3088,7 @@
       },
       "artists": [
         {
-          "name": "dhruv",
+          "name": "Dhruv",
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 181935,
       "name": "Flying Fish",
       "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
@@ -6771,7 +6789,7 @@
     },
     {
       "album": {
-        "name": "locket",
+        "name": "Locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
       "artists": [
@@ -6784,7 +6802,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 104850,
-      "name": "locket",
+      "name": "Locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
     },
     {
@@ -9620,7 +9638,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 197500,
       "name": "SEEING PINK",
       "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
@@ -10708,6 +10726,32 @@
       "duration_ms": 194109,
       "name": "SUGAR DIVE",
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
+    },
+    {
+      "album": {
+        "name": "summer after senior year",
+        "url": "https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145059,
+      "name": "summer after senior year",
+      "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
     },
     {
       "album": {
@@ -13076,10 +13120,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 168944,
       "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
       "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
+    },
+    {
+      "album": {
+        "name": "\u53bb\u59b3\u7684\u5047\u65e5",
+        "url": "https://open.spotify.com/album/0xfotxxAto1JKcCwrI0oZv"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/5a0LiXM4FmxsR5zj8CDKLo"
     },
     {
       "album": {

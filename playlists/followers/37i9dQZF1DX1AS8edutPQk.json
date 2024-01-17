@@ -1,294 +1,3271 @@
 {
-  "2023-03-15": 135749,
-  "2023-03-16": 135913,
-  "2023-03-17": 135913,
-  "2023-03-18": 136214,
-  "2023-03-19": 136437,
-  "2023-03-20": 136625,
-  "2023-03-21": 136823,
-  "2023-03-22": 136946,
-  "2023-03-23": 137020,
-  "2023-03-24": 137020,
-  "2023-03-25": 137199,
-  "2023-03-26": 137275,
-  "2023-03-27": 137356,
-  "2023-03-28": 137433,
-  "2023-03-29": 137501,
-  "2023-03-30": 137732,
-  "2023-03-31": 137732,
-  "2023-04-01": 137863,
-  "2023-04-02": 137947,
-  "2023-04-03": 138000,
-  "2023-04-04": 138081,
-  "2023-04-05": 138180,
-  "2023-04-06": 138318,
-  "2023-04-07": 138371,
-  "2023-04-09": 138614,
-  "2023-04-10": 138715,
-  "2023-04-11": 138950,
-  "2023-04-12": 138950,
-  "2023-04-13": 139058,
-  "2023-04-14": 139144,
-  "2023-04-15": 139224,
-  "2023-04-16": 139290,
-  "2023-04-17": 139366,
-  "2023-04-18": 139432,
-  "2023-04-19": 139497,
-  "2023-04-20": 139565,
-  "2023-04-21": 139639,
-  "2023-04-22": 139691,
-  "2023-04-23": 139755,
-  "2023-04-24": 139814,
-  "2023-04-25": 139856,
-  "2023-04-26": 139971,
-  "2023-04-27": 140115,
-  "2023-04-28": 140253,
-  "2023-04-29": 140381,
-  "2023-04-30": 140470,
-  "2023-05-01": 140570,
-  "2023-05-02": 140664,
-  "2023-05-03": 140777,
-  "2023-05-04": 140862,
-  "2023-05-05": 140982,
-  "2023-05-06": 141066,
-  "2023-05-07": 141173,
-  "2023-05-08": 141286,
-  "2023-05-09": 141381,
-  "2023-05-10": 141487,
-  "2023-05-11": 141592,
-  "2023-05-12": 141677,
-  "2023-05-13": 141764,
-  "2023-05-14": 141848,
-  "2023-05-15": 141926,
-  "2023-05-16": 141995,
-  "2023-05-17": 142057,
-  "2023-05-18": 142124,
-  "2023-05-19": 142211,
-  "2023-05-20": 142375,
-  "2023-05-21": 142375,
-  "2023-05-22": 142375,
-  "2023-05-23": 142517,
-  "2023-05-24": 142634,
-  "2023-05-25": 142655,
-  "2023-05-26": 142716,
-  "2023-05-27": 142775,
-  "2023-05-28": 142814,
-  "2023-05-29": 142814,
-  "2023-05-30": 142928,
-  "2023-05-31": 142996,
-  "2023-06-01": 143025,
-  "2023-06-02": 143069,
-  "2023-06-03": 143152,
-  "2023-06-04": 143226,
-  "2023-06-05": 143312,
-  "2023-06-06": 143374,
-  "2023-06-07": 143476,
-  "2023-06-08": 143538,
-  "2023-06-09": 143597,
-  "2023-06-10": 143669,
-  "2023-06-11": 143749,
-  "2023-06-12": 143812,
-  "2023-06-13": 143896,
-  "2023-06-14": 143958,
-  "2023-06-15": 144016,
-  "2023-06-16": 144092,
-  "2023-06-17": 144159,
-  "2023-06-18": 144259,
-  "2023-06-19": 144324,
-  "2023-06-20": 144401,
-  "2023-06-21": 144469,
-  "2023-06-22": 144543,
-  "2023-06-23": 144594,
-  "2023-06-24": 144672,
-  "2023-06-25": 144720,
-  "2023-06-26": 144754,
-  "2023-06-27": 144794,
-  "2023-06-28": 144831,
-  "2023-06-29": 144870,
-  "2023-06-30": 144913,
-  "2023-07-01": 145016,
-  "2023-07-02": 145016,
-  "2023-07-03": 145070,
-  "2023-07-04": 145139,
-  "2023-07-05": 145193,
-  "2023-07-06": 145284,
-  "2023-07-07": 145284,
-  "2023-07-08": 145341,
-  "2023-07-09": 145397,
-  "2023-07-10": 145470,
-  "2023-07-11": 145514,
-  "2023-07-12": 145572,
-  "2023-07-13": 145622,
-  "2023-07-14": 145674,
-  "2023-07-15": 145705,
-  "2023-07-16": 145758,
-  "2023-07-17": 145806,
-  "2023-07-18": 145847,
-  "2023-07-19": 145879,
-  "2023-07-20": 145928,
-  "2023-07-21": 145971,
-  "2023-07-22": 146016,
-  "2023-07-23": 146066,
-  "2023-07-24": 146131,
-  "2023-07-25": 146190,
-  "2023-07-26": 146252,
-  "2023-07-27": 146312,
-  "2023-07-28": 146374,
-  "2023-07-29": 146436,
-  "2023-07-30": 146503,
-  "2023-07-31": 146554,
-  "2023-08-01": 146593,
-  "2023-08-02": 146683,
-  "2023-08-03": 146757,
-  "2023-08-04": 146827,
-  "2023-08-05": 146891,
-  "2023-08-06": 147015,
-  "2023-08-07": 147015,
-  "2023-08-08": 147068,
-  "2023-08-09": 147124,
-  "2023-08-10": 147215,
-  "2023-08-11": 147273,
-  "2023-08-12": 147405,
-  "2023-08-13": 147481,
-  "2023-08-14": 147565,
-  "2023-08-15": 147746,
-  "2023-08-16": 147746,
-  "2023-08-17": 147807,
-  "2023-08-18": 147859,
-  "2023-08-19": 147929,
-  "2023-08-20": 147981,
-  "2023-08-21": 148046,
-  "2023-08-22": 148094,
-  "2023-08-23": 148160,
-  "2023-08-24": 148209,
-  "2023-08-25": 148275,
-  "2023-08-26": 148332,
-  "2023-08-27": 148380,
-  "2023-08-28": 148438,
-  "2023-08-29": 148496,
-  "2023-08-30": 148573,
-  "2023-08-31": 148627,
-  "2023-09-01": 148757,
-  "2023-09-02": 148757,
-  "2023-09-03": 148838,
-  "2023-09-04": 148908,
-  "2023-09-05": 148975,
-  "2023-09-06": 149041,
-  "2023-09-07": 149100,
-  "2023-09-08": 149182,
-  "2023-09-09": 149248,
-  "2023-09-10": 149303,
-  "2023-09-11": 149360,
-  "2023-09-12": 149426,
-  "2023-09-13": 149521,
-  "2023-09-14": 149601,
-  "2023-09-15": 149700,
-  "2023-09-16": 149769,
-  "2023-09-17": 149859,
-  "2023-09-18": 149958,
-  "2023-09-19": 150046,
-  "2023-09-20": 150142,
-  "2023-09-21": 150260,
-  "2023-09-22": 150349,
-  "2023-09-23": 150435,
-  "2023-09-24": 150501,
-  "2023-09-25": 150577,
-  "2023-09-26": 150653,
-  "2023-09-27": 150710,
-  "2023-09-28": 150793,
-  "2023-09-29": 150893,
-  "2023-09-30": 150966,
-  "2023-10-01": 151046,
-  "2023-10-02": 151093,
-  "2023-10-03": 151138,
-  "2023-10-04": 151183,
-  "2023-10-05": 151214,
-  "2023-10-06": 151267,
-  "2023-10-07": 151349,
-  "2023-10-08": 151433,
-  "2023-10-09": 151497,
-  "2023-10-10": 151545,
-  "2023-10-11": 151656,
-  "2023-10-12": 151656,
-  "2023-10-13": 151715,
-  "2023-10-14": 151774,
-  "2023-10-15": 151841,
-  "2023-10-16": 151918,
-  "2023-10-17": 151973,
-  "2023-10-18": 152082,
-  "2023-10-19": 152143,
-  "2023-10-20": 152201,
-  "2023-10-21": 152273,
-  "2023-10-22": 152332,
-  "2023-10-23": 152380,
-  "2023-10-24": 152428,
-  "2023-10-25": 152493,
-  "2023-10-26": 152558,
-  "2023-10-27": 152622,
-  "2023-10-28": 152677,
-  "2023-10-29": 152735,
-  "2023-10-30": 152896,
-  "2023-10-31": 152896,
-  "2023-11-01": 152968,
-  "2023-11-02": 153067,
-  "2023-11-03": 153150,
-  "2023-11-04": 153222,
-  "2023-11-05": 153274,
-  "2023-11-06": 153331,
-  "2023-11-07": 153401,
-  "2023-11-08": 153468,
-  "2023-11-09": 153568,
-  "2023-11-10": 153646,
-  "2023-11-11": 153716,
-  "2023-11-12": 153790,
-  "2023-11-13": 153836,
-  "2023-11-14": 153897,
-  "2023-11-15": 153897,
-  "2023-11-16": 154030,
-  "2023-11-17": 154175,
-  "2023-11-18": 154175,
-  "2023-11-19": 154225,
-  "2023-11-20": 154267,
-  "2023-11-21": 154343,
-  "2023-11-22": 154393,
-  "2023-11-23": 154463,
-  "2023-11-24": 154550,
-  "2023-11-25": 154600,
-  "2023-11-26": 154631,
-  "2023-11-27": 154673,
-  "2023-11-28": 154718,
-  "2023-11-29": 154798,
-  "2023-11-30": 154798,
-  "2023-12-01": 154845,
-  "2023-12-02": 154877,
-  "2023-12-03": 154886,
-  "2023-12-04": 154901,
-  "2023-12-05": 154920,
-  "2023-12-06": 154925,
-  "2023-12-07": 154940,
-  "2023-12-08": 154954,
-  "2023-12-09": 154977,
-  "2023-12-10": 154987,
-  "2023-12-11": 155016,
-  "2023-12-12": 155035,
-  "2023-12-13": 155051,
-  "2023-12-14": 155064,
-  "2023-12-15": 155078,
-  "2023-12-16": 155087,
-  "2023-12-17": 155101,
-  "2023-12-18": 155118,
-  "2023-12-19": 155114,
-  "2023-12-20": 155132,
-  "2023-12-21": 155152,
-  "2023-12-22": 155155,
-  "2023-12-23": 155175,
-  "2023-12-24": 155194,
-  "2023-12-25": 155205,
-  "2023-12-26": 155207,
-  "2023-12-27": 155208,
-  "2023-12-30": 155245,
-  "2023-12-31": 155257,
-  "2024-01-01": 155276,
-  "2024-01-02": 155300,
-  "2024-01-03": 155324
+  "2024-01-17": 155458,
+  "date_first_scraped": "2023-03-15",
+  "description": "Sit back and relax by listening to piano renditions of your favorite Disney songs.",
+  "name": "Disney Piano",
+  "tracks": [
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148953,
+      "name": "A Dream Is a Wish Your Heart Makes",
+      "url": "https://open.spotify.com/track/6E5By4xxtTgxOP4JfP1CvX"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213048,
+      "name": "A Girl Worth Fighting For",
+      "url": "https://open.spotify.com/track/0jDmG7B9CzSVSFK1Cr4Ker"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132788,
+      "name": "A Spoonful of Sugar",
+      "url": "https://open.spotify.com/track/13AvXNsrOoSMEHWv03d6DR"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2",
+        "url": "https://open.spotify.com/album/5xqiazYmDnvESkBNLsBrHc"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169370,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/2kKq8UbCuwEXPXcgsMtdbR"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194656,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/0c5rB7E7bghYtOOKdmRUGC"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Break Time",
+        "url": "https://open.spotify.com/album/4DpqYlREaLzHRJ8nuzKh4O"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91140,
+      "name": "Agatha All Along",
+      "url": "https://open.spotify.com/track/1mPq0PDdJAbj2odG252ZWO"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163586,
+      "name": "Alice In Wonderland",
+      "url": "https://open.spotify.com/track/2upbLGUYs2F37e4tPz8MqQ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Blissful",
+        "url": "https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182322,
+      "name": "Alice in Wonderland",
+      "url": "https://open.spotify.com/track/6IamvcHp2XrLsYWIsXAs6W"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Self-Care Day",
+        "url": "https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248061,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/08BveIsRSMcBpvQ8nkNEn7"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158806,
+      "name": "All Is Found",
+      "url": "https://open.spotify.com/track/7q3qsU8mNnr1pANByJoQWK"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Peace",
+        "url": "https://open.spotify.com/album/7EKmT5c5WdYPLfwm8x8CRb"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291834,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/34DdtKtJn9YaahjFCof7Dy"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293346,
+      "name": "All Of You - Instrumental",
+      "url": "https://open.spotify.com/track/3bKY8qGrxlhZojriFo3Svh"
+    },
+    {
+      "album": {
+        "name": "Lofi Minnie: Focus",
+        "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
+      },
+      "artists": [
+        {
+          "name": "Otesla",
+          "url": "https://open.spotify.com/artist/4TcaTULxuMBvC57uafRGIE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Disney Lofi",
+          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128824,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/1QJGLE5QRvH3CBrMWnL95K"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Holiday",
+        "url": "https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 240462,
+      "name": "As Long As There's Christmas",
+      "url": "https://open.spotify.com/track/5JmULhQZ4LEWGhK5Y6BTFG"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169822,
+      "name": "Baby Mine",
+      "url": "https://open.spotify.com/track/7GiFkSkicsWCnlxjRaqMnl"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2",
+        "url": "https://open.spotify.com/album/5xqiazYmDnvESkBNLsBrHc"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154236,
+      "name": "Be Our Guest",
+      "url": "https://open.spotify.com/track/2phCnrP6hx2EdYNRFl8Kzc"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Balance",
+        "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218202,
+      "name": "Be Prepared",
+      "url": "https://open.spotify.com/track/3nv9TKtOSC1LGYdyU24vaK"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167055,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/1h9sbBtqXjji9nnBsxaxNR"
+    },
+    {
+      "album": {
+        "name": "Jim Brickman - The Disney Songbook",
+        "url": "https://open.spotify.com/album/4BFGx7Sy8C5qWqY6r6AIIa"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/5LzSj1aCPrWC8Gagklltes"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/63q4u4vtSfvEndymtMk22N"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/2fdrPfIOxRrYV9djNtKJNR"
+    },
+    {
+      "album": {
+        "name": "Disney Karaoke Series: Disney Princess Music Box",
+        "url": "https://open.spotify.com/album/0oZDzJhlBWhcGuHjciEjLd"
+      },
+      "artists": [
+        {
+          "name": "Disney Princess Music Box Karaoke",
+          "url": "https://open.spotify.com/artist/4UdIwOXkD2szRzHCtrpngp"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "Beauty and the Beast (Instrumental)",
+      "url": "https://open.spotify.com/track/5ew52UUKFk7KNb5m4Nxsim"
+    },
+    {
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249342,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243573,
+      "name": "Bella Notte",
+      "url": "https://open.spotify.com/track/5eY1eGGJfgiAKctwGoOZRD"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Balance",
+        "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168166,
+      "name": "Best of Friends",
+      "url": "https://open.spotify.com/track/77i3pnU23eRWNIaqi6ckcj"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220169,
+      "name": "Bibbidi Bobbidi Boo",
+      "url": "https://open.spotify.com/track/0pHRao01SYeq33XwAW7nG3"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Breaking Free",
+      "url": "https://open.spotify.com/track/4wW1GDOay9kRiVLfszCJq4"
+    },
+    {
+      "album": {
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/3eTgg18rKBD30Hef1gv0wz"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199860,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/3rKHQbK0pKqy0KUjamgHBc"
+    },
+    {
+      "album": {
+        "name": "Disney Lullaby & Goodnight",
+        "url": "https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247226,
+      "name": "Can You Feel the Love Tonight - Instrumental",
+      "url": "https://open.spotify.com/track/2H86PfbYcgKXf83fhMZkIp"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Break Time",
+        "url": "https://open.spotify.com/album/4DpqYlREaLzHRJ8nuzKh4O"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209006,
+      "name": "Chim Chim Cher-ee",
+      "url": "https://open.spotify.com/track/5wXwBY70r3Gu5i2IDhMGle"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240606,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/2QD4tDmmCIbbz6jPjlcK9i"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Spirit",
+        "url": "https://open.spotify.com/album/2UsDLgxVOmCtsiUsUBcCnJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "Colombia, Mi Encanto",
+      "url": "https://open.spotify.com/track/7AyvaOZMsqEqKl2Fjsb82n"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272747,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2QvigPejxD02hOHKzSvRL3"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Do You Want to Build a Snowman?",
+      "url": "https://open.spotify.com/track/3xF2Gejis04bdObgo1rxqv"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Family",
+        "url": "https://open.spotify.com/album/5GB60sKvsDFzxp1KHM4Ewv"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204165,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5yrbqTvILXJAIFm12ueQcK"
+    },
+    {
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282633,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/5SyFWAGIh1Z8v4HQEO9qsO"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359520,
+      "name": "Feed the Birds (Tuppence a Bag)",
+      "url": "https://open.spotify.com/track/3VhOg7rSQkv0VwvX2ZpfDo"
+    },
+    {
+      "album": {
+        "name": "Feed the Birds (From \"Mary Poppins\")",
+        "url": "https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261308,
+      "name": "Feed the Birds - From \"Mary Poppins\"",
+      "url": "https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Self-Care Day",
+        "url": "https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212550,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/7AGSjuuV5TRcIdbr5APBCV"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244404,
+      "name": "For the First Time in Forever",
+      "url": "https://open.spotify.com/track/6PmqBvdEaD2vnxMAukuvQu"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Holiday",
+        "url": "https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 167542,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/7K9XNIrvSMv3BqoxBWVGKf"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225232,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/2aIXa5jOgzteUDap5ACG56"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/3altWN4dlMvdmRdJG2yT35"
+    },
+    {
+      "album": {
+        "name": "Lofi Minnie: Focus",
+        "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Disney Lofi",
+          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Relax",
+        "url": "https://open.spotify.com/album/7FNfj52JTCxxGbaX2c2ky2"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154027,
+      "name": "Happy Working Song",
+      "url": "https://open.spotify.com/track/1v4uRGAMORpaj7E8Fc4V6z"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224486,
+      "name": "Honor to Us All",
+      "url": "https://open.spotify.com/track/04SdaEJVgtlT4BnrMCV7Rb"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277583,
+      "name": "How Does A Moment Last Forever",
+      "url": "https://open.spotify.com/track/0kITT5zK0J8Er57DvQD8sE"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189449,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/3TeDrql1cmJPIoo7fE39Hj"
+    },
+    {
+      "album": {
+        "name": "Lofi Minnie: Focus",
+        "url": "https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Disney Lofi",
+          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157147,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/5ukFZPFDJtUCAZOp7JCBB6"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164020,
+      "name": "I Just Can't Wait to Be King",
+      "url": "https://open.spotify.com/track/6MBBBLlg335SrCzCagXRRt"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292826,
+      "name": "I See the Light",
+      "url": "https://open.spotify.com/track/6IpiDT8fjPfNshau0f9KiY"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126132,
+      "name": "I Wan'na Be Like You (The Monkey Song)",
+      "url": "https://open.spotify.com/track/2HzVqRwteyisUJ0SafTwEZ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167477,
+      "name": "I Won't Say I'm in Love",
+      "url": "https://open.spotify.com/track/1F4023iF1vcQ2f8akTAv93"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110942,
+      "name": "I'll Make a Man Out of You",
+      "url": "https://open.spotify.com/track/27qwB0vi0HXGX7477DX2hg"
+    },
+    {
+      "album": {
+        "name": "Homeward Bound 2",
+        "url": "https://open.spotify.com/album/0yrSqMRj3Uj61rXCeoOAHi"
+      },
+      "artists": [
+        {
+          "name": "Bruce Broughton",
+          "url": "https://open.spotify.com/artist/2l8NfsHSrQV6cwfJrGqqDm"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "In the Park - Score Version",
+      "url": "https://open.spotify.com/track/75xMovAEyPZtexoEWHHcqW"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mindful",
+        "url": "https://open.spotify.com/album/31qCPFxPGehOvU9ysAeUqI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263077,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/15ZbeheZ4y21ruWjIlzUb1"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139444,
+      "name": "It's a Small World",
+      "url": "https://open.spotify.com/track/2SM7NR5iJD3P1vGt3U3Wzx"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279819,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4pflTuDsuR81FKKxtJVxUu"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252654,
+      "name": "Just Around the Riverbend",
+      "url": "https://open.spotify.com/track/2JcpDLB5KOiuRq4MrBOvqM"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173081,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/2huXICYr99NnodThC8me1m"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Self-Care Day",
+        "url": "https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117002,
+      "name": "Know Who You Are",
+      "url": "https://open.spotify.com/track/2gPZknA95eTef8yib3bXA8"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2",
+        "url": "https://open.spotify.com/album/5xqiazYmDnvESkBNLsBrHc"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120225,
+      "name": "Le Festin",
+      "url": "https://open.spotify.com/track/54LEDCUrZ7EkYYT6gh3wMR"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241673,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1rn2BdSE3eMh5UagUT91Ia"
+    },
+    {
+      "album": {
+        "name": "Pure Cinema",
+        "url": "https://open.spotify.com/album/7iIK3oTt4pQThRb0IXVe8R"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287160,
+      "name": "Let It Go - From \"Frozen\"",
+      "url": "https://open.spotify.com/track/4vUmjcfzSza82pAFGkJM8o"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146026,
+      "name": "Let's Go Fly A Kite",
+      "url": "https://open.spotify.com/track/0uxyEo3pC66CXzYMs7qlXt"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146612,
+      "name": "Let's Go Fly a Kite",
+      "url": "https://open.spotify.com/track/5ctixYZanoJiK4q32wAE2e"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Tranquility",
+        "url": "https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174516,
+      "name": "Love Is a Song",
+      "url": "https://open.spotify.com/track/0IkV2YqLBVsLrsm4ycVn2w"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144734,
+      "name": "Love Is an Open Door",
+      "url": "https://open.spotify.com/track/61rwlSKGf9nB2A0eWalrHA"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Balance",
+        "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263934,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/7sDBRbD8dY3mmTa39QON2M"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Dream",
+        "url": "https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208099,
+      "name": "Main Title - Cinderella",
+      "url": "https://open.spotify.com/track/3vvjknFxN9IzYNDsU3QoKo"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Blissful",
+        "url": "https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194169,
+      "name": "Man or Muppet",
+      "url": "https://open.spotify.com/track/0MYd36Y7EsybTbufyNRKAn"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/0v0V0FP3Ddpbd7aLQfMqmz"
+    },
+    {
+      "album": {
+        "name": "Jim Brickman - The Disney Songbook",
+        "url": "https://open.spotify.com/album/4BFGx7Sy8C5qWqY6r6AIIa"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259626,
+      "name": "Mary Poppins Medley",
+      "url": "https://open.spotify.com/track/77jdFbKeyVqhNn8BmgRzdV"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148489,
+      "name": "Mickey Mouse Club March",
+      "url": "https://open.spotify.com/track/4obXtNMjaPtI1on3oDPiTT"
+    },
+    {
+      "album": {
+        "name": "Disney Lullaby & Goodnight",
+        "url": "https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Morning Has Broken - Instrumental",
+      "url": "https://open.spotify.com/track/1GLpadEBSTSX69GpF6LnpW"
+    },
+    {
+      "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76133,
+      "name": "Nemo Egg (Main Title)",
+      "url": "https://open.spotify.com/track/7jSQaXLzpLHjSQTev2krvT"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Joy",
+        "url": "https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232469,
+      "name": "Nowhere to Go But Up",
+      "url": "https://open.spotify.com/track/6UIUumGM96FmXKtMuDibZS"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172760,
+      "name": "Once Upon A Dream",
+      "url": "https://open.spotify.com/track/1m5vmrWbcGAQtUUlbwNkOJ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197519,
+      "name": "Once Upon a Dream",
+      "url": "https://open.spotify.com/track/5t4Ysd832UYYBZL92258tn"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Self-Care Day",
+        "url": "https://open.spotify.com/album/2crUCxYkIcOdS25kaR5GgM"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150314,
+      "name": "Oo-De-Lally",
+      "url": "https://open.spotify.com/track/0mN7A2ZM2ZEKDnl6RjLRgt"
+    },
+    {
+      "album": {
+        "name": "Little Nightmares",
+        "url": "https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG"
+      },
+      "artists": [
+        {
+          "name": "Chantry Johnson",
+          "url": "https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265557,
+      "name": "Oogie Boogie's Song",
+      "url": "https://open.spotify.com/track/0ROW9eF2C9Lnf6B3tROI9O"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Blissful",
+        "url": "https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233897,
+      "name": "Our Town",
+      "url": "https://open.spotify.com/track/2DRTLUF6iPP9S0yJgANMxO"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331781,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2UxN5QUQK6LZx2kg8SYfsO"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250255,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/0dRJyiEdzeHyX06nifP0jI"
+    },
+    {
+      "album": {
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+    },
+    {
+      "album": {
+        "name": "Disney Karaoke Series: Disney Princess Music Box",
+        "url": "https://open.spotify.com/album/0oZDzJhlBWhcGuHjciEjLd"
+      },
+      "artists": [
+        {
+          "name": "Disney Princess Music Box Karaoke",
+          "url": "https://open.spotify.com/artist/4UdIwOXkD2szRzHCtrpngp"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Part of Your World (Instrumental)",
+      "url": "https://open.spotify.com/track/77N7pS5gFIOZ3XOGzsGZg0"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Balance",
+        "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179847,
+      "name": "Proud of Your Boy",
+      "url": "https://open.spotify.com/track/74kyZs3EDdJjWeTY2vPesG"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246548,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/4PLVaLz8Fjbsr56w2xzEYH"
+    },
+    {
+      "album": {
+        "name": "Rainbow Connection (From \"The Muppet Movie\")",
+        "url": "https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250828,
+      "name": "Rainbow Connection - From \"The Muppet Movie\"",
+      "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
+    },
+    {
+      "album": {
+        "name": "Disney Lullaby & Goodnight",
+        "url": "https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Rainbow Connection - Instrumental",
+      "url": "https://open.spotify.com/track/7GfYosS1lGRgC0mqqzcAE1"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Serenity",
+        "url": "https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144346,
+      "name": "Ratatouille Main Theme",
+      "url": "https://open.spotify.com/track/3TKBtgtJSnH7XZN2Z628vT"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195281,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2NyNNi0AOVKb2ER9TdzbRK"
+    },
+    {
+      "album": {
+        "name": "The Disney Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Guo Gan - Chinese Erhu Master",
+          "url": "https://open.spotify.com/artist/4tOUzNaDtg982MvZhzSoAL"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254667,
+      "name": "Reflection - From \"Mulan\" (Feat. Guo Gan)",
+      "url": "https://open.spotify.com/track/6zKNTyScKmZLxsIhh8HcdW"
+    },
+    {
+      "album": {
+        "name": "Jim Brickman - The Disney Songbook",
+        "url": "https://open.spotify.com/album/4BFGx7Sy8C5qWqY6r6AIIa"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Reflection - Instrumental",
+      "url": "https://open.spotify.com/track/121jHMUmLlQ24bViLY1btQ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mindful",
+        "url": "https://open.spotify.com/album/31qCPFxPGehOvU9ysAeUqI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132545,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1TJXLo7oTvo9whIY77tfXB"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Holiday",
+        "url": "https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 179444,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4EPhn7t0rwqUe6JHjBasmp"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Holiday",
+        "url": "https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 169677,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/13B0mgNEHhZSJkTxaKBTPG"
+    },
+    {
+      "album": {
+        "name": "Little Nightmares",
+        "url": "https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG"
+      },
+      "artists": [
+        {
+          "name": "Chantry Johnson",
+          "url": "https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139036,
+      "name": "Sally's Song",
+      "url": "https://open.spotify.com/track/1ozLWI0GC1f0BCafAaUdx7"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146441,
+      "name": "Sally's Song",
+      "url": "https://open.spotify.com/track/4flt4bSbk39lsFdi8sExFS"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292909,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/4IUazrVEupgZ1QCg8X97cx"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Serenity",
+        "url": "https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207995,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/6xzI65ujC9oFXr7jtYudZu"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213408,
+      "name": "So This Is Love",
+      "url": "https://open.spotify.com/track/7HNbBRZ26X1bbmOiC3wtGM"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138960,
+      "name": "Some Day My Prince Will Come",
+      "url": "https://open.spotify.com/track/6XAiBCTyvOrGH4eGujo05l"
+    },
+    {
+      "album": {
+        "name": "HIRAIDAI plays DISNEY",
+        "url": "https://open.spotify.com/album/2H6CcHK9u8IfG2BdgE9EBP"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82786,
+      "name": "Some Day My Prince Will Come - Instrumental",
+      "url": "https://open.spotify.com/track/0UxTGGuNhtAsPLnFMYCsxk"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Tranquility",
+        "url": "https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200218,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2Gp4snGHYn6rx4ivMrsvPy"
+    },
+    {
+      "album": {
+        "name": "Jim Brickman - The Disney Songbook",
+        "url": "https://open.spotify.com/album/4BFGx7Sy8C5qWqY6r6AIIa"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/5iday4nwx1UiUNyWzZy2fz"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211124,
+      "name": "Something There",
+      "url": "https://open.spotify.com/track/0ieCb0iyigq1kPGpkogkH1"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mindful",
+        "url": "https://open.spotify.com/album/31qCPFxPGehOvU9ysAeUqI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230997,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/2KMgXD6lt8fVOa2xIQwJdm"
+    },
+    {
+      "album": {
+        "name": "Speechless (From Disney Happy Piano Tunes)",
+        "url": "https://open.spotify.com/album/743UsWd3OxdXFmDMWD3YxU"
+      },
+      "artists": [
+        {
+          "name": "HARAMIchan",
+          "url": "https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Speechless - From Disney Happy Piano Tunes",
+      "url": "https://open.spotify.com/track/637F1RDXq7KygHPS9fE9Gv"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Break Time",
+        "url": "https://open.spotify.com/album/4DpqYlREaLzHRJ8nuzKh4O"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184068,
+      "name": "Start of Something New",
+      "url": "https://open.spotify.com/track/4GSttxZ8SfR0zXYUwI89mM"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Breathe",
+        "url": "https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169395,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/2T5VbKBxldxQzoWRRTVQSY"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162020,
+      "name": "Step in Time",
+      "url": "https://open.spotify.com/track/4l73X2HmQ1CMpBwKES4M8P"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213513,
+      "name": "Strangers Like Me",
+      "url": "https://open.spotify.com/track/32IDHtHTWLfFcWm474xsAw"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165206,
+      "name": "Supercalifragilisticexpialidocious",
+      "url": "https://open.spotify.com/track/6wkS25GESwbkxpY776m22P"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Spirit",
+        "url": "https://open.spotify.com/album/2UsDLgxVOmCtsiUsUBcCnJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206861,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/5TNMmzNJ6YicGTn0CO49ND"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Blissful",
+        "url": "https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167300,
+      "name": "That's How You Know",
+      "url": "https://open.spotify.com/track/1N4L4tieBkQ2i76xI7USZA"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Soothing",
+        "url": "https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "The Age of Not Believing",
+      "url": "https://open.spotify.com/track/4v9kt4EuGGUHy6lIgRhE08"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164020,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/5QvhwJXtCD6rJRxzeY2h7j"
+    },
+    {
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mellow",
+        "url": "https://open.spotify.com/album/4ovr3kfZ5mYWOgC7AJzdOC"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271496,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/2DiEazonuoT1dILJshK30F"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Magical",
+        "url": "https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254335,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Blissful",
+        "url": "https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "The Next Right Thing",
+      "url": "https://open.spotify.com/track/41vHygTXbqMuUo63j3IavF"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Tranquility",
+        "url": "https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "The Rose Song",
+      "url": "https://open.spotify.com/track/22BPRyDGzJcya0tB0nNjkw"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168591,
+      "name": "The Second Star to the Right",
+      "url": "https://open.spotify.com/track/6xCGeEPkWhshDnNIpqqUvS"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Joy",
+        "url": "https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145723,
+      "name": "The Tiki, Tiki, Tiki Room",
+      "url": "https://open.spotify.com/track/58cGVTWIpbFOdoB2IWTyHm"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184329,
+      "name": "There's a Great Big Beautiful Tomorrow",
+      "url": "https://open.spotify.com/track/0zBUg8I173W3PZEkkyskAr"
+    },
+    {
+      "album": {
+        "name": "Little Nightmares",
+        "url": "https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG"
+      },
+      "artists": [
+        {
+          "name": "Chantry Johnson",
+          "url": "https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275760,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Joy",
+        "url": "https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226781,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/7F22J5u8Qcud2sZWSpGwNv"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169520,
+      "name": "True Love's Kiss",
+      "url": "https://open.spotify.com/track/27FoQgtlApWh7oD1vVaiPx"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Balance",
+        "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167588,
+      "name": "True Love's Kiss",
+      "url": "https://open.spotify.com/track/1gQDe3rSARbQT2dzGeCDfa"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Happy",
+        "url": "https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223582,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/0m9hlDeFGY83pjCuFB3Ji0"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/3hY1WHSoTcXupacS3ffmz7"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Peace",
+        "url": "https://open.spotify.com/album/7EKmT5c5WdYPLfwm8x8CRb"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/7MiAxVXJ0VQHXxUZVZG8bJ"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246622,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/1UX5AmoFfi8aO0cVrHbiVR"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Family",
+        "url": "https://open.spotify.com/album/5GB60sKvsDFzxp1KHM4Ewv"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212631,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/3nveejcAcoLo0GbQ0meZ1K"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Chill",
+        "url": "https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190778,
+      "name": "We Know the Way",
+      "url": "https://open.spotify.com/track/35lOIFDSuEt8AQs0usTc6v"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Magical",
+        "url": "https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184780,
+      "name": "What Else Can I Do?",
+      "url": "https://open.spotify.com/track/5RE32waR7pe72PoTbQO6VS"
+    },
+    {
+      "album": {
+        "name": "Little Nightmares",
+        "url": "https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG"
+      },
+      "artists": [
+        {
+          "name": "Chantry Johnson",
+          "url": "https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334451,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3Ow2UnS46nGFXyl4UkYebK"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Love Songs",
+        "url": "https://open.spotify.com/album/4fJ9JA2YBDo8HWKAZya9A4"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220852,
+      "name": "When She Loved Me",
+      "url": "https://open.spotify.com/track/67CsbFYr4ujMM3rfsEjA5g"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Motivation",
+        "url": "https://open.spotify.com/album/5Kw2dnoZorNMGsW31AvbNh"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191530,
+      "name": "When Will My Life Begin?",
+      "url": "https://open.spotify.com/track/2tZkfwXrsGLvXu3MX0kO3F"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Dream",
+        "url": "https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200350,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3PaDJuJpMegwoZXFyQEt6C"
+    },
+    {
+      "album": {
+        "name": "Jim Brickman - The Disney Songbook",
+        "url": "https://open.spotify.com/album/4BFGx7Sy8C5qWqY6r6AIIa"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149773,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/2Mqrf0BFCP1M6xav09L86c"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183476,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1Z7f4SaBnd10XMpzgJ69Tr"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Break Time",
+        "url": "https://open.spotify.com/album/4DpqYlREaLzHRJ8nuzKh4O"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223367,
+      "name": "Wherever the Trail May Lead",
+      "url": "https://open.spotify.com/track/5uMtYRyqukpjLh24dKWoHP"
+    },
+    {
+      "album": {
+        "name": "The Circle Sessions (Piano Performances from Carthay Circle)",
+        "url": "https://open.spotify.com/album/5HTjemIOHxbtKCyxFNaJ55"
+      },
+      "artists": [
+        {
+          "name": "Bill Cantos",
+          "url": "https://open.spotify.com/artist/6WjNgC678BdeXKqJ1TrS9D"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176280,
+      "name": "Who's Afraid Of The Big Bad Wolf",
+      "url": "https://open.spotify.com/track/79n1CugWA1Sl1kHQTrDq4K"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174882,
+      "name": "Winnie the Pooh",
+      "url": "https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Serenity",
+        "url": "https://open.spotify.com/album/5y3dlSPOy0X6TG6iGQDs3e"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216332,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/2zOsOZFMCtPqhVS3rHwjUh"
+    },
+    {
+      "album": {
+        "name": "Finding Nemo (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151440,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/06NpidxT6Rx4Uz2LCEuk8X"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Dream",
+        "url": "https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168842,
+      "name": "You Can Fly! You Can Fly! You Can Fly!",
+      "url": "https://open.spotify.com/track/2NAwrDfkkSF2wmth8yrn2c"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Mellow",
+        "url": "https://open.spotify.com/album/4ovr3kfZ5mYWOgC7AJzdOC"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261288,
+      "name": "You'll Be in My Heart",
+      "url": "https://open.spotify.com/track/5CJESiEGXeuUmQofBRMKsn"
+    },
+    {
+      "album": {
+        "name": "Disney Lullaby & Goodnight",
+        "url": "https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270200,
+      "name": "You'll Be In My Heart - Instrumental",
+      "url": "https://open.spotify.com/track/2Kij021y6biW8YWwTM82Xo"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168286,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/5XQ9Q0bXlNv8q96OxjBhSm"
+    },
+    {
+      "album": {
+        "name": "You've Got A Friend In Me (From \"Toy Story\")",
+        "url": "https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252560,
+      "name": "You've Got A Friend In Me - From \"Toy Story\"",
+      "url": "https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1AS8edutPQk"
 }

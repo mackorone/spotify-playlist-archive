@@ -4,7 +4,7 @@
 
 > 
 
-188 songs - 13 hr 17 min
+190 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beautiful Lies](https://open.spotify.com/track/7jZyQWoAmpJI37saaOazd5) | [B\-complex](https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok) | [Hospital Mix 8](https://open.spotify.com/album/6S5cfzow4ZQkGSAzrwxC6q) | 6:45 | 2016-01-14 |  |
 | [Below Us \- Smooth Remix](https://open.spotify.com/track/6vlQYEyyuT9aF4Bc0GJFeR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Shaz Sparks](https://open.spotify.com/artist/3vpOtbQO2ue0zifLcgj58S), [Smooth](https://open.spotify.com/artist/7yRkgZyRXaO7oh1hTEyKNo) | [Polarize EP](https://open.spotify.com/album/5vvHfcPYmgqtMPAoRBZGEp) | 5:25 | 2016-10-04 |  |
 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 | 2018-11-12 |  |
+| [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2024-01-12 |  |
 | [Blinding \- Hybrid Minds Remix](https://open.spotify.com/track/2Dy8cTUIP0rf1WZUIWoN8w) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM) | [Blinding](https://open.spotify.com/album/5UIoVFQSTRve8tHCkdKCT1) | 5:14 | 2016-10-05 |  |
 | [Blue Skies \- Revoke Remix](https://open.spotify.com/track/1MKfplOg9xC8EIzL9nMBWi) | [Lenka](https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC), [REVOKE](https://open.spotify.com/artist/1jUWnDhXB6JyBLh1dyAOUc) | [Blue Skies: The Remixes](https://open.spotify.com/album/0kkBJyIlvu9I2NqpgPS4xq) | 3:26 | 2017-02-16 |  |
 | [Bring It Back](https://open.spotify.com/track/1n93IBxGlmQ53wkcmTDpIa) | [Two Thirds](https://open.spotify.com/artist/5EuLaMwYamree7kzPvrPds) | [Monstercat \- Best of DnB/Drumstep, Vol\. 1.](https://open.spotify.com/album/2XV1AsAcqOChVB8Hsevx3H) | 5:18 | 2016-06-27 |  |
@@ -151,6 +152,7 @@
 | [Someone \- The Prototypes Remix](https://open.spotify.com/track/0wfplXvoyb8vY4MjFw0pDz) | [Someone \(Feat\. Mclean\)](https://open.spotify.com/artist/606NobRCnZyp7gwy8bStHT), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [McLean](https://open.spotify.com/artist/4u4unPAmNsYPO7rtYgWeaz) | [Someone EP](https://open.spotify.com/album/4KUe6EEQlzIwz7SigCh96s) | 4:18 | 2018-01-31 |  |
 | [Spirit of Life](https://open.spotify.com/track/6eRPYyh1EPRqDhgb3Nardw) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Miracle](https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa) | 6:15 | 2016-01-14 |  |
 | [Starscapes \- Rameses B Remix](https://open.spotify.com/track/2aw6LCIiF9kqmKvZmm92wB) | [TwoThirds](https://open.spotify.com/artist/1Q0ug0ZkUQ3pyfY8vKE730), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Starscapes](https://open.spotify.com/album/1X0na0LkeuKTH5nGJAP7fA) | 4:51 | 2016-07-14 |  |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2024-01-16 |  |
 | [Stay High \- Habits Remix](https://open.spotify.com/track/4J8WVHRtXM6SMgsF7qohXy) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Truth Serum](https://open.spotify.com/album/11goDT4Xan4nsWpiFIsf6N) | 4:18 | 2016-01-15 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-29 |  |
 | [Strawberry Robots](https://open.spotify.com/track/6p6t7KpxaxceOf9MqqWYMK) | [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX), [Datsunn](https://open.spotify.com/artist/4zosWP0ung7qeYevTLfuXV), [austenyo](https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM) | [Strawberry Robots Pack](https://open.spotify.com/album/2Cj8NszoHAguiOTBJJ4M2y) | 3:00 | 2022-06-17 |  |

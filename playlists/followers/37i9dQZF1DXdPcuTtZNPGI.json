@@ -1,375 +1,1301 @@
 {
-  "2022-12-24": 73879,
-  "2022-12-25": 74015,
-  "2022-12-26": 74168,
-  "2022-12-27": 74302,
-  "2022-12-28": 74454,
-  "2022-12-29": 74609,
-  "2022-12-30": 74824,
-  "2022-12-31": 75066,
-  "2023-01-01": 75287,
-  "2023-01-02": 75475,
-  "2023-01-03": 75725,
-  "2023-01-04": 75904,
-  "2023-01-05": 76071,
-  "2023-01-06": 76289,
-  "2023-01-07": 76580,
-  "2023-01-08": 76614,
-  "2023-01-09": 76773,
-  "2023-01-10": 76939,
-  "2023-01-11": 77106,
-  "2023-01-12": 77275,
-  "2023-01-13": 77431,
-  "2023-01-14": 77770,
-  "2023-01-15": 77785,
-  "2023-01-16": 77971,
-  "2023-01-17": 78131,
-  "2023-01-18": 78281,
-  "2023-01-19": 78439,
-  "2023-01-20": 78574,
-  "2023-01-21": 78735,
-  "2023-01-22": 78885,
-  "2023-01-23": 79013,
-  "2023-01-24": 79122,
-  "2023-01-25": 79232,
-  "2023-01-26": 79321,
-  "2023-01-27": 79432,
-  "2023-01-28": 79547,
-  "2023-01-29": 79661,
-  "2023-01-30": 79777,
-  "2023-01-31": 79777,
-  "2023-02-01": 80001,
-  "2023-02-02": 80102,
-  "2023-02-03": 80208,
-  "2023-02-04": 80328,
-  "2023-02-05": 80473,
-  "2023-02-06": 80589,
-  "2023-02-07": 80714,
-  "2023-02-08": 80902,
-  "2023-02-09": 80902,
-  "2023-02-10": 81018,
-  "2023-02-11": 81103,
-  "2023-02-12": 81295,
-  "2023-02-13": 81392,
-  "2023-02-14": 81392,
-  "2023-02-15": 81489,
-  "2023-02-16": 81590,
-  "2023-02-17": 81678,
-  "2023-02-18": 81887,
-  "2023-02-19": 81924,
-  "2023-02-20": 82036,
-  "2023-02-21": 82636,
-  "2023-02-22": 83069,
-  "2023-02-23": 83353,
-  "2023-02-24": 83502,
-  "2023-02-25": 83670,
-  "2023-02-26": 83742,
-  "2023-02-27": 83974,
-  "2023-02-28": 83974,
-  "2023-03-01": 84102,
-  "2023-03-02": 84207,
-  "2023-03-03": 84313,
-  "2023-03-04": 84409,
-  "2023-03-05": 84615,
-  "2023-03-06": 84615,
-  "2023-03-07": 84711,
-  "2023-03-08": 84806,
-  "2023-03-09": 84918,
-  "2023-03-10": 85048,
-  "2023-03-11": 85184,
-  "2023-03-12": 85301,
-  "2023-03-13": 85437,
-  "2023-03-14": 85556,
-  "2023-03-15": 85689,
-  "2023-03-16": 85786,
-  "2023-03-17": 85786,
-  "2023-03-18": 86014,
-  "2023-03-19": 86161,
-  "2023-03-20": 86327,
-  "2023-03-21": 86424,
-  "2023-03-22": 86544,
-  "2023-03-23": 86666,
-  "2023-03-24": 86666,
-  "2023-03-25": 86867,
-  "2023-03-26": 86995,
-  "2023-03-27": 87133,
-  "2023-03-28": 87252,
-  "2023-03-29": 87413,
-  "2023-03-30": 87648,
-  "2023-03-31": 87648,
-  "2023-04-01": 87787,
-  "2023-04-02": 87937,
-  "2023-04-03": 88048,
-  "2023-04-04": 88174,
-  "2023-04-05": 88304,
-  "2023-04-06": 88429,
-  "2023-04-07": 88548,
-  "2023-04-09": 88794,
-  "2023-04-10": 88923,
-  "2023-04-11": 89246,
-  "2023-04-12": 89246,
-  "2023-04-13": 89413,
-  "2023-04-14": 89572,
-  "2023-04-15": 89744,
-  "2023-04-16": 89923,
-  "2023-04-17": 90089,
-  "2023-04-18": 90225,
-  "2023-04-19": 90363,
-  "2023-04-20": 90524,
-  "2023-04-21": 90669,
-  "2023-04-22": 90819,
-  "2023-04-23": 90987,
-  "2023-04-24": 91109,
-  "2023-04-25": 91207,
-  "2023-04-26": 91336,
-  "2023-04-27": 91453,
-  "2023-04-28": 91561,
-  "2023-04-29": 91664,
-  "2023-04-30": 91775,
-  "2023-05-01": 91881,
-  "2023-05-02": 91997,
-  "2023-05-03": 92153,
-  "2023-05-04": 92317,
-  "2023-05-05": 92461,
-  "2023-05-06": 92615,
-  "2023-05-07": 92724,
-  "2023-05-08": 92866,
-  "2023-05-09": 92979,
-  "2023-05-10": 93132,
-  "2023-05-11": 93270,
-  "2023-05-12": 93424,
-  "2023-05-13": 93560,
-  "2023-05-14": 93707,
-  "2023-05-15": 93884,
-  "2023-05-16": 94026,
-  "2023-05-17": 94199,
-  "2023-05-18": 94331,
-  "2023-05-19": 94460,
-  "2023-05-20": 94726,
-  "2023-05-21": 94726,
-  "2023-05-22": 94726,
-  "2023-05-23": 94965,
-  "2023-05-24": 95183,
-  "2023-05-25": 95215,
-  "2023-05-26": 95384,
-  "2023-05-27": 95528,
-  "2023-05-28": 95636,
-  "2023-05-29": 95636,
-  "2023-05-30": 95862,
-  "2023-05-31": 95969,
-  "2023-06-01": 96080,
-  "2023-06-02": 96173,
-  "2023-06-03": 96295,
-  "2023-06-04": 96407,
-  "2023-06-05": 96546,
-  "2023-06-06": 96681,
-  "2023-06-07": 96775,
-  "2023-06-08": 96893,
-  "2023-06-09": 96985,
-  "2023-06-10": 97126,
-  "2023-06-11": 97242,
-  "2023-06-12": 97360,
-  "2023-06-13": 97466,
-  "2023-06-14": 97581,
-  "2023-06-15": 97687,
-  "2023-06-16": 97781,
-  "2023-06-17": 97891,
-  "2023-06-18": 97995,
-  "2023-06-19": 98128,
-  "2023-06-20": 98235,
-  "2023-06-21": 98363,
-  "2023-06-22": 98496,
-  "2023-06-23": 98619,
-  "2023-06-24": 98718,
-  "2023-06-25": 98851,
-  "2023-06-26": 98965,
-  "2023-06-27": 99070,
-  "2023-06-28": 99177,
-  "2023-06-29": 99295,
-  "2023-06-30": 99416,
-  "2023-07-01": 99624,
-  "2023-07-02": 99624,
-  "2023-07-03": 99725,
-  "2023-07-04": 99835,
-  "2023-07-05": 99962,
-  "2023-07-06": 100186,
-  "2023-07-07": 100186,
-  "2023-07-08": 100294,
-  "2023-07-09": 100390,
-  "2023-07-10": 100483,
-  "2023-07-11": 100587,
-  "2023-07-12": 100716,
-  "2023-07-13": 100854,
-  "2023-07-14": 100984,
-  "2023-07-15": 101087,
-  "2023-07-16": 101238,
-  "2023-07-17": 101377,
-  "2023-07-18": 101506,
-  "2023-07-19": 101609,
-  "2023-07-20": 101707,
-  "2023-07-21": 101813,
-  "2023-07-22": 101932,
-  "2023-07-23": 102071,
-  "2023-07-24": 102196,
-  "2023-07-25": 102295,
-  "2023-07-26": 102383,
-  "2023-07-27": 102493,
-  "2023-07-28": 102609,
-  "2023-07-29": 102719,
-  "2023-07-30": 102839,
-  "2023-07-31": 102940,
-  "2023-08-01": 103067,
-  "2023-08-02": 103182,
-  "2023-08-03": 103290,
-  "2023-08-04": 103402,
-  "2023-08-05": 103488,
-  "2023-08-06": 103729,
-  "2023-08-07": 103729,
-  "2023-08-08": 103839,
-  "2023-08-09": 103962,
-  "2023-08-10": 104116,
-  "2023-08-11": 104317,
-  "2023-08-12": 104589,
-  "2023-08-13": 104775,
-  "2023-08-14": 104957,
-  "2023-08-15": 105345,
-  "2023-08-16": 105345,
-  "2023-08-17": 105525,
-  "2023-08-18": 105730,
-  "2023-08-19": 105897,
-  "2023-08-20": 106056,
-  "2023-08-21": 106213,
-  "2023-08-22": 106366,
-  "2023-08-23": 106505,
-  "2023-08-24": 106676,
-  "2023-08-25": 106840,
-  "2023-08-26": 106982,
-  "2023-08-27": 107105,
-  "2023-08-28": 107263,
-  "2023-08-29": 107463,
-  "2023-08-30": 107659,
-  "2023-08-31": 107865,
-  "2023-09-01": 108350,
-  "2023-09-02": 108350,
-  "2023-09-03": 108577,
-  "2023-09-04": 108577,
-  "2023-09-05": 109094,
-  "2023-09-06": 109380,
-  "2023-09-07": 109380,
-  "2023-09-08": 109380,
-  "2023-09-09": 110522,
-  "2023-09-10": 110891,
-  "2023-09-11": 111249,
-  "2023-09-12": 111249,
-  "2023-09-13": 111945,
-  "2023-09-14": 111945,
-  "2023-09-15": 112631,
-  "2023-09-16": 112989,
-  "2023-09-17": 112989,
-  "2023-09-18": 112989,
-  "2023-09-19": 114075,
-  "2023-09-20": 114361,
-  "2023-09-21": 114701,
-  "2023-09-22": 115015,
-  "2023-09-23": 115015,
-  "2023-09-24": 115015,
-  "2023-09-25": 115015,
-  "2023-09-26": 116493,
-  "2023-09-27": 116493,
-  "2023-09-28": 117065,
-  "2023-09-29": 117452,
-  "2023-09-30": 117452,
-  "2023-10-01": 118215,
-  "2023-10-02": 118559,
-  "2023-10-03": 118854,
-  "2023-10-04": 119161,
-  "2023-10-05": 119487,
-  "2023-10-06": 120260,
-  "2023-10-07": 120260,
-  "2023-10-08": 121562,
-  "2023-10-09": 121562,
-  "2023-10-10": 121562,
-  "2023-10-11": 122701,
-  "2023-10-12": 122701,
-  "2023-10-13": 123376,
-  "2023-10-14": 123376,
-  "2023-10-15": 123376,
-  "2023-10-16": 123376,
-  "2023-10-17": 123376,
-  "2023-10-18": 123376,
-  "2023-10-19": 123376,
-  "2023-10-20": 123376,
-  "2023-10-21": 123376,
-  "2023-10-22": 123376,
-  "2023-10-23": 123376,
-  "2023-10-24": 127456,
-  "2023-10-25": 127456,
-  "2023-10-26": 127456,
-  "2023-10-27": 127456,
-  "2023-10-28": 127456,
-  "2023-10-29": 127456,
-  "2023-10-30": 127456,
-  "2023-10-31": 127456,
-  "2023-11-01": 127456,
-  "2023-11-02": 127456,
-  "2023-11-03": 127456,
-  "2023-11-04": 127456,
-  "2023-11-05": 127456,
-  "2023-11-06": 127456,
-  "2023-11-07": 127456,
-  "2023-11-08": 127456,
-  "2023-11-09": 127456,
-  "2023-11-10": 127456,
-  "2023-11-11": 135403,
-  "2023-11-12": 135403,
-  "2023-11-13": 135403,
-  "2023-11-14": 135403,
-  "2023-11-15": 135403,
-  "2023-11-16": 135403,
-  "2023-11-17": 137731,
-  "2023-11-18": 137731,
-  "2023-11-19": 137731,
-  "2023-11-20": 137731,
-  "2023-11-21": 137731,
-  "2023-11-22": 137731,
-  "2023-11-23": 139466,
-  "2023-11-24": 139466,
-  "2023-11-25": 139466,
-  "2023-11-26": 139466,
-  "2023-11-27": 139466,
-  "2023-11-28": 139466,
-  "2023-11-29": 139466,
-  "2023-11-30": 139466,
-  "2023-12-01": 139466,
-  "2023-12-02": 139466,
-  "2023-12-03": 139466,
-  "2023-12-04": 139466,
-  "2023-12-05": 139466,
-  "2023-12-06": 139466,
-  "2023-12-07": 139466,
-  "2023-12-08": 139466,
-  "2023-12-09": 139466,
-  "2023-12-10": 139466,
-  "2023-12-11": 146756,
-  "2023-12-12": 146756,
-  "2023-12-13": 146756,
-  "2023-12-14": 148197,
-  "2023-12-15": 148436,
-  "2023-12-16": 148782,
-  "2023-12-17": 149118,
-  "2023-12-18": 149415,
-  "2023-12-19": 149793,
-  "2023-12-20": 150100,
-  "2023-12-21": 150372,
-  "2023-12-22": 150608,
-  "2023-12-23": 150885,
-  "2023-12-24": 151185,
-  "2023-12-25": 151424,
-  "2023-12-26": 151667,
-  "2023-12-27": 151919,
-  "2023-12-30": 152613,
-  "2023-12-31": 152861,
-  "2024-01-01": 153285,
-  "2024-01-02": 153582,
-  "2024-01-03": 153886
+  "2024-01-17": 157474,
+  "date_first_scraped": "2022-12-24",
+  "description": "\u591a\u5f69\u306a\u30dc\u30ab\u30edP\u306e\u4f5c\u54c1\u306b\u751f\u547d\u3092\u5439\u304d\u8fbc\u307f\u3001\u5909\u5e7b\u81ea\u5728\u306a\u30dc\u30fc\u30ab\u30eb\u306e\u8868\u73fe\u529b\u3067\u4e16\u9593\u3092\u5e2d\u5dfb\u4e2d\u306e\u65b0\u4e16\u4ee3\u5973\u6027\u30b7\u30f3\u30ac\u30fc\u3001Ado\u306e\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8\u3002The essential tracks of Ado, all in one playlist.",
+  "name": "This Is Ado",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258372,
+      "name": "Aishite Aishite Aishite",
+      "url": "https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295146,
+      "name": "Aitakute",
+      "url": "https://open.spotify.com/track/0fXWmy6Yfoj2tsKecBToC7"
+    },
+    {
+      "album": {
+        "name": "All Night Radio",
+        "url": "https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "All Night Radio",
+      "url": "https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci"
+    },
+    {
+      "album": {
+        "name": "ANEMONE",
+        "url": "https://open.spotify.com/album/4dCqHUfcsZEpUEHylxOweR"
+      },
+      "artists": [
+        {
+          "name": "Toiki",
+          "url": "https://open.spotify.com/artist/0aY8PnGurODkjLN9Zj1AvF"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "ANEMONE",
+      "url": "https://open.spotify.com/track/00EQfGOekbgxED9Nwg0j8b"
+    },
+    {
+      "album": {
+        "name": "AntiSystem's",
+        "url": "https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211683,
+      "name": "AntiSystem's",
+      "url": "https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Ashura-chan",
+      "url": "https://open.spotify.com/track/5N9wLoOxkCZcNhxRdMG70W"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "BINKUSUNO SAKE",
+      "url": "https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Buriki No Dance",
+      "url": "https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx"
+    },
+    {
+      "album": {
+        "name": "Buriki No Dance",
+        "url": "https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 199000,
+      "name": "Buriki No Dance",
+      "url": "https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290720,
+      "name": "Crime And Punishment",
+      "url": "https://open.spotify.com/track/7r46PpiDGgW7cQwXMHS5lU"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308840,
+      "name": "Dawn and Fireflies",
+      "url": "https://open.spotify.com/track/3i1dqflrqcLVxZeWi7r0pm"
+    },
+    {
+      "album": {
+        "name": "DIGNITY",
+        "url": "https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252396,
+      "name": "DIGNITY",
+      "url": "https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Domestic De Violence",
+      "url": "https://open.spotify.com/track/3uC62LIuJjBH7Ya8xLfcTi"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288800,
+      "name": "Dried Flowers",
+      "url": "https://open.spotify.com/track/4ybB34O2vsjSQRBIuWw3Cp"
+    },
+    {
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "Eat",
+      "url": "https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme"
+    },
+    {
+      "album": {
+        "name": "Faking of Comedy",
+        "url": "https://open.spotify.com/album/06KEdJm12PDRqbZItHVYPK"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190015,
+      "name": "Faking of Comedy",
+      "url": "https://open.spotify.com/track/1LPwg69oVYvGZLk62vDtdH"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/7xZ7sJDin1yxvcfjWxc5gv"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Fleeting Lullaby",
+      "url": "https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/6yx0b2fX0JegQZFsYdLFwl"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Gira Gira",
+      "url": "https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "God-ish",
+      "url": "https://open.spotify.com/track/17hYqocEK8xnY858FXd8uI"
+    },
+    {
+      "album": {
+        "name": "Himawari",
+        "url": "https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Himawari",
+      "url": "https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA"
+    },
+    {
+      "album": {
+        "name": "Ibara",
+        "url": "https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261045,
+      "name": "Ibara",
+      "url": "https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT"
+    },
+    {
+      "album": {
+        "name": "I\u2019m a Controversy",
+        "url": "https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194515,
+      "name": "I\u2019m a Controversy",
+      "url": "https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Kagakushu",
+      "url": "https://open.spotify.com/track/7MJgZqsnLjhGwcZpRuHyp0"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Kawaikute Gomen",
+      "url": "https://open.spotify.com/track/1gdZIt42CKuP5MjHbVW4T7"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "Kazarijyanainoyonamidawa",
+      "url": "https://open.spotify.com/track/33wcRXF7GnxnkC30k42TX3"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "KokoroToIuNaNoFukakai",
+      "url": "https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze"
+    },
+    {
+      "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+",
+        "url": "https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP"
+      },
+      "artists": [
+        {
+          "name": "Liner Voice+",
+          "url": "https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3796323,
+      "name": "Liner Voice+ Ado\u300c\u72c2\u8a00\u300d",
+      "url": "https://open.spotify.com/episode/2Smx3XvRVuNqjJLbed4du2"
+    },
+    {
+      "album": {
+        "name": "Love ka?",
+        "url": "https://open.spotify.com/album/60kWJEUezrtiM3czq7ubDI"
+      },
+      "artists": [
+        {
+          "name": "HiiragiKirai",
+          "url": "https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185235,
+      "name": "Love ka?",
+      "url": "https://open.spotify.com/track/1HVKbxwcF6VeP7n9CBzO9k"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Lucky Bruto",
+      "url": "https://open.spotify.com/track/5PxHyC1Wdth4CxlMsBSklO"
+    },
+    {
+      "album": {
+        "name": "missing",
+        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189565,
+      "name": "missing",
+      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Motherland",
+      "url": "https://open.spotify.com/track/4mNbJClAJtuwVnBIRlMYJB"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/37bNBNB332HXbSy6079cws"
+    },
+    {
+      "album": {
+        "name": "Nerenaiyoruni ka-tenwoakete",
+        "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
+      },
+      "artists": [
+        {
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "osmanthus",
+      "url": "https://open.spotify.com/track/0MJ5wsGpqu0gTJkx53ewxc"
+    },
+    {
+      "album": {
+        "name": "osyarebantyou",
+        "url": "https://open.spotify.com/album/03lldnDbmbAnn09eBuvRAX"
+      },
+      "artists": [
+        {
+          "name": "Linmu",
+          "url": "https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280065,
+      "name": "osyarebantyou",
+      "url": "https://open.spotify.com/track/639m4tI4S2HISJJg6SwW3g"
+    },
+    {
+      "album": {
+        "name": "Radio Noise",
+        "url": "https://open.spotify.com/album/3rIUUcpIFGEH1ImFRocpWA"
+      },
+      "artists": [
+        {
+          "name": "Mikokichi",
+          "url": "https://open.spotify.com/artist/6pSYccQdF3qxoSrnmDbq1n"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288300,
+      "name": "Radio Noise",
+      "url": "https://open.spotify.com/track/1LBgTD0zhYq2oGAdoQilvb"
+    },
+    {
+      "album": {
+        "name": "Rasen",
+        "url": "https://open.spotify.com/album/6scbAeadHMM5yWiW2SsFch"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231247,
+      "name": "Rasen",
+      "url": "https://open.spotify.com/track/5SGesS47gTWra708Z5LhVe"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243186,
+      "name": "Readymade",
+      "url": "https://open.spotify.com/track/3gKtkQp6cQ4wqsx3bzs4tk"
+    },
+    {
+      "album": {
+        "name": "Rebellion",
+        "url": "https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
+    },
+    {
+      "album": {
+        "name": "Rendez-vous",
+        "url": "https://open.spotify.com/album/4EZSq8rqqdS8s4awyx8l5x"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Shake It Now.",
+      "url": "https://open.spotify.com/track/4FYNJgCzWgaNAe4uHdrBYn"
+    },
+    {
+      "album": {
+        "name": "Shikabanese",
+        "url": "https://open.spotify.com/album/6u4UgWp2FnrOGIlfmgKFhi"
+      },
+      "artists": [
+        {
+          "name": "jon-YAKITORY",
+          "url": "https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Shikabanese",
+      "url": "https://open.spotify.com/track/4AwdxLIctXZhUnrTP9zGVy"
+    },
+    {
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189772,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
+    },
+    {
+      "album": {
+        "name": "Show (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/39RbmQuAmqNG6787RZ1Vqp"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "Show - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW"
+    },
+    {
+      "album": {
+        "name": "Stick Candy",
+        "url": "https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv"
+      },
+      "artists": [
+        {
+          "name": "Nagumoyuuki",
+          "url": "https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101217,
+      "name": "Stick Candy",
+      "url": "https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "The World's Continuation",
+      "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+    },
+    {
+      "album": {
+        "name": "TOKYO CANNIBALISM",
+        "url": "https://open.spotify.com/album/73Ia8AFLxx0Bh6mITDOOLu"
+      },
+      "artists": [
+        {
+          "name": "biz",
+          "url": "https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191228,
+      "name": "TOKYO CANNIBALISM",
+      "url": "https://open.spotify.com/track/4A75rI3sn3eBnL0wXMvovE"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Tot Musica",
+      "url": "https://open.spotify.com/track/4eChbtoFoOmWQt03aRDzaJ"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238360,
+      "name": "unravel",
+      "url": "https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU"
+    },
+    {
+      "album": {
+        "name": "unravel",
+        "url": "https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 239400,
+      "name": "unravel",
+      "url": "https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "Usseewa",
+      "url": "https://open.spotify.com/track/61KYsWS25JXUO4fGb1138X"
+    },
+    {
+      "album": {
+        "name": "Ado's Utattemita Album",
+        "url": "https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/6IYbB5G5hZ0P2DYwGLptqA"
+    },
+    {
+      "album": {
+        "name": "UTA'S SONGS ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Where the Wind Blows",
+      "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "album": {
+        "name": "Kyougen",
+        "url": "https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Yoru No Pierrot",
+      "url": "https://open.spotify.com/track/1imCxLL7UtQUkqL3NiAmmg"
+    },
+    {
+      "album": {
+        "name": "\u3046\u3063\u305b\u3047\u308f (Giga Remix)",
+        "url": "https://open.spotify.com/album/0LfBw9oEr73hmJzQS6QBqr"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "\u3046\u3063\u305b\u3047\u308f - Giga Remix",
+      "url": "https://open.spotify.com/track/0DT1nb0hytfdzS1J9piX1W"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30c7\u30a3\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "\u3046\u3063\u305b\u3047\u308f - Piano Ver.",
+      "url": "https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30bf\u30b7\u306f\u554f\u984c\u4f5c",
+        "url": "https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 194515,
+      "name": "\u30a2\u30bf\u30b7\u306f\u554f\u984c\u4f5c",
+      "url": "https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB"
+    },
+    {
+      "album": {
+        "name": "Ado/PARED/\u307e\u3072\u308b/\u3086\u3063\u3051 presents PALETTE4",
+        "url": "https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209889,
+      "name": "\u30b3\u30fc\u30eb\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u304f\u306e\u307b\u305d\u307f\u3061",
+          "url": "https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb\u30d5\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR"
+    },
+    {
+      "album": {
+        "name": "\u4f1a\u3044\u305f\u304f\u3066 (Piano & Strings Ver.)",
+        "url": "https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324772,
+      "name": "\u4f1a\u3044\u305f\u304f\u3066 - Piano & Strings Ver.",
+      "url": "https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR"
+    },
+    {
+      "album": {
+        "name": "\u5531",
+        "url": "https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 189772,
+      "name": "\u5531",
+      "url": "https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4"
+    },
+    {
+      "album": {
+        "name": "\u591c\u306e\u30d4\u30a8\u30ed (TeddyLoid Remix)",
+        "url": "https://open.spotify.com/album/0isciWk8sCLPlQQpocBftA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209062,
+      "name": "\u591c\u306e\u30d4\u30a8\u30ed - TeddyLoid Remix",
+      "url": "https://open.spotify.com/track/6OiZpa36iNzEmNiVszAkQv"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u9060\u306e\u3042\u304f\u308b\u65e5",
+        "url": "https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "\u6c38\u9060\u306e\u3042\u304f\u308b\u65e5",
+      "url": "https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u6700\u5f37 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257915,
+      "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
+    },
+    {
+      "album": {
+        "name": "Ado/PARED/\u307e\u3072\u308b/\u3086\u3063\u3051 presents PALETTE4",
+        "url": "https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "\u7d76\u3048\u9593\u306a\u304f\u85cd\u8272",
+      "url": "https://open.spotify.com/track/45LyS1iWuyYUGBlcFsyqyV"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237862,
+      "name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdPcuTtZNPGI"
 }

@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 272066,
       "name": "Ancient Mountains",
       "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": "2024-01-08",
       "duration_ms": 173093,
       "name": "Aussie Balladeer",
       "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 217800,
       "name": "Drovers Boy",
       "url": "https://open.spotify.com/track/1xHzFR5aBiIJH0IhWuJAxY"
@@ -798,10 +798,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 198240,
       "name": "Sail the Nullarbor",
       "url": "https://open.spotify.com/track/1ly3rS7ZDDSh8Fmk59Utbq"
+    },
+    {
+      "album": {
+        "name": "Boomerang Caf\u00e9",
+        "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Sail the Nullarbor",
+      "url": "https://open.spotify.com/track/6f8fJZWKhNcWTU51MujI6f"
     },
     {
       "album": {

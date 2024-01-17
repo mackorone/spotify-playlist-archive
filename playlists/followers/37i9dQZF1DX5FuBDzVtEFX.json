@@ -1,735 +1,1451 @@
 {
-  "2021-12-25": 382683,
-  "2021-12-26": 382683,
-  "2021-12-27": 382705,
-  "2021-12-28": 382707,
-  "2021-12-29": 382739,
-  "2021-12-30": 382734,
-  "2021-12-31": 382730,
-  "2022-01-01": 382754,
-  "2022-01-02": 382772,
-  "2022-01-03": 382794,
-  "2022-01-04": 382805,
-  "2022-01-05": 382801,
-  "2022-01-06": 382812,
-  "2022-01-07": 382825,
-  "2022-01-08": 382861,
-  "2022-01-09": 382862,
-  "2022-01-10": 382891,
-  "2022-01-11": 382954,
-  "2022-01-12": 383022,
-  "2022-01-13": 383034,
-  "2022-01-14": 383046,
-  "2022-01-15": 383127,
-  "2022-01-16": 383133,
-  "2022-01-17": 383275,
-  "2022-01-18": 383287,
-  "2022-01-19": 383316,
-  "2022-01-20": 383369,
-  "2022-01-21": 383432,
-  "2022-01-22": 383464,
-  "2022-01-23": 383517,
-  "2022-01-24": 383544,
-  "2022-01-25": 383615,
-  "2022-01-26": 383673,
-  "2022-01-27": 383715,
-  "2022-01-28": 383740,
-  "2022-01-29": 383788,
-  "2022-01-30": 383826,
-  "2022-01-31": 383881,
-  "2022-02-01": 383899,
-  "2022-02-02": 383934,
-  "2022-02-03": 383967,
-  "2022-02-04": 383989,
-  "2022-02-05": 384031,
-  "2022-02-06": 384056,
-  "2022-02-07": 384111,
-  "2022-02-08": 384145,
-  "2022-02-09": 384186,
-  "2022-02-10": 384214,
-  "2022-02-11": 384261,
-  "2022-02-12": 384295,
-  "2022-02-13": 384332,
-  "2022-02-14": 384375,
-  "2022-02-15": 384388,
-  "2022-02-16": 384422,
-  "2022-02-17": 384444,
-  "2022-02-18": 384455,
-  "2022-02-19": 384474,
-  "2022-02-20": 384479,
-  "2022-02-21": 384509,
-  "2022-02-22": 384542,
-  "2022-02-23": 384579,
-  "2022-02-24": 384612,
-  "2022-02-25": 384646,
-  "2022-02-26": 384684,
-  "2022-02-27": 384756,
-  "2022-02-28": 384756,
-  "2022-03-01": 384799,
-  "2022-03-02": 384840,
-  "2022-03-03": 384856,
-  "2022-03-04": 384905,
-  "2022-03-05": 384944,
-  "2022-03-06": 385017,
-  "2022-03-07": 385111,
-  "2022-03-08": 385174,
-  "2022-03-09": 385257,
-  "2022-03-10": 385359,
-  "2022-03-11": 385458,
-  "2022-03-12": 385561,
-  "2022-03-13": 385642,
-  "2022-03-14": 385742,
-  "2022-03-15": 385842,
-  "2022-03-16": 385945,
-  "2022-03-17": 386059,
-  "2022-03-18": 386213,
-  "2022-03-19": 386268,
-  "2022-03-20": 386268,
-  "2022-03-21": 386474,
-  "2022-03-22": 386536,
-  "2022-03-23": 386617,
-  "2022-03-24": 386714,
-  "2022-03-25": 386793,
-  "2022-03-26": 386892,
-  "2022-03-27": 386976,
-  "2022-03-28": 387056,
-  "2022-03-30": 387218,
-  "2022-03-31": 387292,
-  "2022-04-01": 387368,
-  "2022-04-02": 387450,
-  "2022-04-03": 387542,
-  "2022-04-04": 387618,
-  "2022-04-05": 387710,
-  "2022-04-06": 387801,
-  "2022-04-07": 387892,
-  "2022-04-08": 387968,
-  "2022-04-09": 388043,
-  "2022-04-10": 388238,
-  "2022-04-11": 388332,
-  "2022-04-12": 388358,
-  "2022-04-13": 388431,
-  "2022-04-14": 388500,
-  "2022-04-15": 388600,
-  "2022-04-16": 388708,
-  "2022-04-17": 388817,
-  "2022-04-18": 388973,
-  "2022-04-19": 389032,
-  "2022-04-20": 389146,
-  "2022-04-21": 389243,
-  "2022-04-22": 389357,
-  "2022-04-23": 389471,
-  "2022-04-24": 389596,
-  "2022-04-25": 389748,
-  "2022-04-26": 389881,
-  "2022-04-27": 390032,
-  "2022-04-28": 390116,
-  "2022-04-29": 390249,
-  "2022-04-30": 390317,
-  "2022-05-01": 390422,
-  "2022-05-02": 390422,
-  "2022-05-03": 390499,
-  "2022-05-04": 390588,
-  "2022-05-05": 390632,
-  "2022-05-06": 390698,
-  "2022-05-07": 390763,
-  "2022-05-08": 390860,
-  "2022-05-09": 390868,
-  "2022-05-10": 390936,
-  "2022-05-11": 391001,
-  "2022-05-12": 391075,
-  "2022-05-13": 391131,
-  "2022-05-14": 391174,
-  "2022-05-15": 391247,
-  "2022-05-16": 391323,
-  "2022-05-17": 391376,
-  "2022-05-18": 391451,
-  "2022-05-19": 391520,
-  "2022-05-20": 391597,
-  "2022-05-21": 391722,
-  "2022-05-22": 391722,
-  "2022-05-23": 391810,
-  "2022-05-24": 391865,
-  "2022-05-25": 391928,
-  "2022-05-26": 392031,
-  "2022-05-27": 392117,
-  "2022-05-28": 392192,
-  "2022-05-29": 392283,
-  "2022-05-30": 392392,
-  "2022-05-31": 392474,
-  "2022-06-01": 392595,
-  "2022-06-02": 392601,
-  "2022-06-03": 392690,
-  "2022-06-04": 392768,
-  "2022-06-05": 392882,
-  "2022-06-06": 392981,
-  "2022-06-07": 393073,
-  "2022-06-08": 393149,
-  "2022-06-09": 393192,
-  "2022-06-10": 393261,
-  "2022-06-11": 393325,
-  "2022-06-12": 393407,
-  "2022-06-13": 393489,
-  "2022-06-14": 393535,
-  "2022-06-15": 393606,
-  "2022-06-16": 393697,
-  "2022-06-17": 393759,
-  "2022-06-18": 393852,
-  "2022-06-19": 394073,
-  "2022-06-20": 394073,
-  "2022-06-21": 394147,
-  "2022-06-22": 394326,
-  "2022-06-23": 394326,
-  "2022-06-24": 394387,
-  "2022-06-25": 394460,
-  "2022-06-26": 394560,
-  "2022-06-27": 394669,
-  "2022-06-28": 394733,
-  "2022-06-29": 394839,
-  "2022-06-30": 394922,
-  "2022-07-01": 394991,
-  "2022-07-02": 395059,
-  "2022-07-03": 395177,
-  "2022-07-04": 395263,
-  "2022-07-05": 395342,
-  "2022-07-06": 395435,
-  "2022-07-07": 395506,
-  "2022-07-08": 395597,
-  "2022-07-09": 395696,
-  "2022-07-10": 395806,
-  "2022-07-11": 395923,
-  "2022-07-12": 395991,
-  "2022-07-13": 396081,
-  "2022-07-14": 396142,
-  "2022-07-15": 396239,
-  "2022-07-16": 396308,
-  "2022-07-17": 396418,
-  "2022-07-18": 396547,
-  "2022-07-19": 396648,
-  "2022-07-20": 396744,
-  "2022-07-21": 396815,
-  "2022-07-22": 396896,
-  "2022-07-23": 396966,
-  "2022-07-24": 397059,
-  "2022-07-25": 397178,
-  "2022-07-26": 397276,
-  "2022-07-27": 397361,
-  "2022-07-28": 397436,
-  "2022-07-29": 397512,
-  "2022-07-30": 397697,
-  "2022-07-31": 397697,
-  "2022-08-01": 397811,
-  "2022-08-02": 397956,
-  "2022-08-03": 397956,
-  "2022-08-04": 398023,
-  "2022-08-05": 398102,
-  "2022-08-06": 398176,
-  "2022-08-07": 398256,
-  "2022-08-08": 398346,
-  "2022-08-09": 398402,
-  "2022-08-10": 398494,
-  "2022-08-11": 398579,
-  "2022-08-12": 398661,
-  "2022-08-13": 398746,
-  "2022-08-14": 398826,
-  "2022-08-15": 398903,
-  "2022-08-16": 398961,
-  "2022-08-17": 399038,
-  "2022-08-18": 399115,
-  "2022-08-19": 399217,
-  "2022-08-20": 399322,
-  "2022-08-21": 399446,
-  "2022-08-22": 399588,
-  "2022-08-23": 399687,
-  "2022-08-24": 399811,
-  "2022-08-25": 399944,
-  "2022-08-26": 400043,
-  "2022-08-27": 400188,
-  "2022-08-28": 400289,
-  "2022-08-29": 400397,
-  "2022-08-30": 400504,
-  "2022-08-31": 400590,
-  "2022-09-01": 400686,
-  "2022-09-02": 400768,
-  "2022-09-03": 400882,
-  "2022-09-04": 400901,
-  "2022-09-05": 401030,
-  "2022-09-06": 401133,
-  "2022-09-07": 401241,
-  "2022-09-09": 401441,
-  "2022-09-10": 401523,
-  "2022-09-11": 401621,
-  "2022-09-12": 401707,
-  "2022-09-13": 401810,
-  "2022-09-15": 401999,
-  "2022-09-16": 402086,
-  "2022-09-17": 402170,
-  "2022-09-18": 402261,
-  "2022-09-19": 402350,
-  "2022-09-20": 402404,
-  "2022-09-21": 402498,
-  "2022-09-22": 402579,
-  "2022-09-23": 402654,
-  "2022-09-24": 402749,
-  "2022-09-25": 402852,
-  "2022-09-26": 402932,
-  "2022-09-27": 402983,
-  "2022-09-28": 403061,
-  "2022-09-29": 403102,
-  "2022-09-30": 403177,
-  "2022-10-01": 403225,
-  "2022-10-02": 403289,
-  "2022-10-03": 403356,
-  "2022-10-04": 403398,
-  "2022-10-05": 403468,
-  "2022-10-06": 403512,
-  "2022-10-07": 403572,
-  "2022-10-08": 403630,
-  "2022-10-09": 403765,
-  "2022-10-10": 403780,
-  "2022-10-11": 403851,
-  "2022-10-12": 403920,
-  "2022-10-13": 403996,
-  "2022-10-14": 404059,
-  "2022-10-15": 404131,
-  "2022-10-16": 404199,
-  "2022-10-17": 404272,
-  "2022-10-18": 404352,
-  "2022-10-19": 404415,
-  "2022-10-20": 404491,
-  "2022-10-21": 404583,
-  "2022-10-22": 404660,
-  "2022-10-23": 404752,
-  "2022-10-24": 404851,
-  "2022-10-25": 404950,
-  "2022-10-26": 405028,
-  "2022-10-27": 405098,
-  "2022-10-28": 405184,
-  "2022-10-29": 405260,
-  "2022-10-30": 405365,
-  "2022-10-31": 405474,
-  "2022-11-01": 405543,
-  "2022-11-02": 405601,
-  "2022-11-03": 405693,
-  "2022-11-04": 405772,
-  "2022-11-05": 405862,
-  "2022-11-06": 405935,
-  "2022-11-07": 406035,
-  "2022-11-08": 406118,
-  "2022-11-09": 406174,
-  "2022-11-10": 406245,
-  "2022-11-11": 406332,
-  "2022-11-12": 406455,
-  "2022-11-13": 406545,
-  "2022-11-14": 406623,
-  "2022-11-15": 406691,
-  "2022-11-16": 406775,
-  "2022-11-17": 406850,
-  "2022-11-18": 406868,
-  "2022-11-19": 406811,
-  "2022-11-20": 406942,
-  "2022-11-21": 406883,
-  "2022-11-22": 407100,
-  "2022-11-23": 407056,
-  "2022-11-24": 407339,
-  "2022-11-25": 407485,
-  "2022-11-26": 407585,
-  "2022-11-27": 407670,
-  "2022-11-28": 407732,
-  "2022-11-29": 407803,
-  "2022-11-30": 407886,
-  "2022-12-01": 407938,
-  "2022-12-02": 407967,
-  "2022-12-03": 408022,
-  "2022-12-04": 408072,
-  "2022-12-05": 408137,
-  "2022-12-06": 408196,
-  "2022-12-07": 408242,
-  "2022-12-08": 408337,
-  "2022-12-09": 408411,
-  "2022-12-10": 408440,
-  "2022-12-11": 408519,
-  "2022-12-12": 408591,
-  "2022-12-13": 408644,
-  "2022-12-14": 408724,
-  "2022-12-15": 408801,
-  "2022-12-16": 408868,
-  "2022-12-17": 408931,
-  "2022-12-18": 408992,
-  "2022-12-19": 409048,
-  "2022-12-20": 409172,
-  "2022-12-21": 409172,
-  "2022-12-22": 409221,
-  "2022-12-24": 409304,
-  "2022-12-25": 409348,
-  "2022-12-26": 409408,
-  "2022-12-27": 409478,
-  "2022-12-28": 409525,
-  "2022-12-29": 409593,
-  "2022-12-30": 409671,
-  "2022-12-31": 409753,
-  "2023-01-01": 409810,
-  "2023-01-02": 409865,
-  "2023-01-03": 409983,
-  "2023-01-04": 410037,
-  "2023-01-05": 410132,
-  "2023-01-06": 410247,
-  "2023-01-07": 410381,
-  "2023-01-08": 410409,
-  "2023-01-09": 410529,
-  "2023-01-10": 410597,
-  "2023-01-11": 410705,
-  "2023-01-12": 410845,
-  "2023-01-13": 410971,
-  "2023-01-14": 411179,
-  "2023-01-15": 411220,
-  "2023-01-16": 411322,
-  "2023-01-17": 411451,
-  "2023-01-18": 411558,
-  "2023-01-19": 411693,
-  "2023-01-20": 411824,
-  "2023-01-21": 411940,
-  "2023-01-22": 412068,
-  "2023-01-23": 412195,
-  "2023-01-24": 412286,
-  "2023-01-25": 412390,
-  "2023-01-26": 412471,
-  "2023-01-27": 412565,
-  "2023-01-28": 412668,
-  "2023-01-29": 412813,
-  "2023-01-30": 412911,
-  "2023-01-31": 412911,
-  "2023-02-01": 413132,
-  "2023-02-02": 413244,
-  "2023-02-03": 413348,
-  "2023-02-04": 413452,
-  "2023-02-05": 413595,
-  "2023-02-06": 413711,
-  "2023-02-07": 413837,
-  "2023-02-08": 414071,
-  "2023-02-09": 414071,
-  "2023-02-10": 414156,
-  "2023-02-11": 414276,
-  "2023-02-12": 414469,
-  "2023-02-13": 414565,
-  "2023-02-14": 414565,
-  "2023-02-15": 414657,
-  "2023-02-16": 414739,
-  "2023-02-17": 414850,
-  "2023-02-18": 415035,
-  "2023-02-19": 415059,
-  "2023-02-20": 415133,
-  "2023-02-21": 415224,
-  "2023-02-22": 415303,
-  "2023-02-23": 415424,
-  "2023-02-24": 415512,
-  "2023-02-25": 415596,
-  "2023-02-26": 415673,
-  "2023-02-27": 415861,
-  "2023-02-28": 415861,
-  "2023-03-01": 415937,
-  "2023-03-02": 416009,
-  "2023-03-03": 416097,
-  "2023-03-04": 416153,
-  "2023-03-05": 416351,
-  "2023-03-06": 416351,
-  "2023-03-07": 416468,
-  "2023-03-08": 416558,
-  "2023-03-09": 416650,
-  "2023-03-10": 416717,
-  "2023-03-11": 416799,
-  "2023-03-12": 416861,
-  "2023-03-13": 416956,
-  "2023-03-14": 417019,
-  "2023-03-15": 417107,
-  "2023-03-16": 417185,
-  "2023-03-17": 417185,
-  "2023-03-18": 417364,
-  "2023-03-19": 417444,
-  "2023-03-20": 417512,
-  "2023-03-21": 417573,
-  "2023-03-22": 417656,
-  "2023-03-23": 417752,
-  "2023-03-24": 417752,
-  "2023-03-25": 417910,
-  "2023-03-26": 418015,
-  "2023-03-27": 418117,
-  "2023-03-28": 418197,
-  "2023-03-29": 418280,
-  "2023-03-30": 418424,
-  "2023-03-31": 418424,
-  "2023-04-01": 418641,
-  "2023-04-02": 418770,
-  "2023-04-03": 418879,
-  "2023-04-04": 418962,
-  "2023-04-05": 419039,
-  "2023-04-06": 419127,
-  "2023-04-07": 419206,
-  "2023-04-09": 419392,
-  "2023-04-10": 419523,
-  "2023-04-11": 419726,
-  "2023-04-12": 419726,
-  "2023-04-13": 419801,
-  "2023-04-14": 419868,
-  "2023-04-15": 419976,
-  "2023-04-16": 420078,
-  "2023-04-17": 420201,
-  "2023-04-18": 420282,
-  "2023-04-19": 420402,
-  "2023-04-20": 420499,
-  "2023-04-21": 420605,
-  "2023-04-22": 420707,
-  "2023-04-23": 420810,
-  "2023-04-24": 420961,
-  "2023-04-25": 421068,
-  "2023-04-26": 421194,
-  "2023-04-27": 421279,
-  "2023-04-28": 421382,
-  "2023-04-29": 421484,
-  "2023-04-30": 421589,
-  "2023-05-01": 421713,
-  "2023-05-02": 421813,
-  "2023-05-03": 421931,
-  "2023-05-04": 422010,
-  "2023-05-05": 422125,
-  "2023-05-06": 422234,
-  "2023-05-07": 422344,
-  "2023-05-08": 422459,
-  "2023-05-09": 422554,
-  "2023-05-10": 422656,
-  "2023-05-11": 422753,
-  "2023-05-12": 422845,
-  "2023-05-13": 422947,
-  "2023-05-14": 423042,
-  "2023-05-15": 423155,
-  "2023-05-16": 423258,
-  "2023-05-17": 423363,
-  "2023-05-18": 423440,
-  "2023-05-19": 423553,
-  "2023-05-20": 423746,
-  "2023-05-21": 423746,
-  "2023-05-22": 423746,
-  "2023-05-23": 423965,
-  "2023-05-24": 424115,
-  "2023-05-25": 424131,
-  "2023-05-26": 424250,
-  "2023-05-27": 424363,
-  "2023-05-28": 424488,
-  "2023-05-29": 424488,
-  "2023-05-30": 424729,
-  "2023-05-31": 424819,
-  "2023-06-01": 424900,
-  "2023-06-02": 425001,
-  "2023-06-03": 425084,
-  "2023-06-04": 425184,
-  "2023-06-05": 425302,
-  "2023-06-06": 425369,
-  "2023-06-07": 425482,
-  "2023-06-08": 425587,
-  "2023-06-09": 425686,
-  "2023-06-10": 425791,
-  "2023-06-11": 425939,
-  "2023-06-12": 426064,
-  "2023-06-13": 426156,
-  "2023-06-14": 426245,
-  "2023-06-15": 426359,
-  "2023-06-16": 426463,
-  "2023-06-17": 426574,
-  "2023-06-18": 426697,
-  "2023-06-19": 426849,
-  "2023-06-20": 426943,
-  "2023-06-21": 427046,
-  "2023-06-22": 427144,
-  "2023-06-23": 427260,
-  "2023-06-24": 427395,
-  "2023-06-25": 427523,
-  "2023-06-26": 427659,
-  "2023-06-27": 427766,
-  "2023-06-28": 427858,
-  "2023-06-29": 427955,
-  "2023-06-30": 428065,
-  "2023-07-01": 428287,
-  "2023-07-02": 428287,
-  "2023-07-03": 428411,
-  "2023-07-04": 428535,
-  "2023-07-05": 428641,
-  "2023-07-06": 428839,
-  "2023-07-07": 428839,
-  "2023-07-08": 428962,
-  "2023-07-09": 429068,
-  "2023-07-10": 429190,
-  "2023-07-11": 429289,
-  "2023-07-12": 429385,
-  "2023-07-13": 429517,
-  "2023-07-14": 429610,
-  "2023-07-15": 429698,
-  "2023-07-16": 429824,
-  "2023-07-17": 429931,
-  "2023-07-18": 430024,
-  "2023-07-19": 430140,
-  "2023-07-20": 430225,
-  "2023-07-21": 430349,
-  "2023-07-22": 430451,
-  "2023-07-23": 430570,
-  "2023-07-24": 430689,
-  "2023-07-25": 430776,
-  "2023-07-26": 430889,
-  "2023-07-27": 430977,
-  "2023-07-28": 431075,
-  "2023-07-29": 431185,
-  "2023-07-30": 431304,
-  "2023-07-31": 431462,
-  "2023-08-01": 431583,
-  "2023-08-02": 431699,
-  "2023-08-03": 431820,
-  "2023-08-04": 431941,
-  "2023-08-05": 432164,
-  "2023-08-06": 432395,
-  "2023-08-07": 432395,
-  "2023-08-08": 432487,
-  "2023-08-09": 432593,
-  "2023-08-10": 432726,
-  "2023-08-11": 432824,
-  "2023-08-12": 432963,
-  "2023-08-13": 433082,
-  "2023-08-14": 433225,
-  "2023-08-15": 433411,
-  "2023-08-16": 433411,
-  "2023-08-17": 433490,
-  "2023-08-18": 433591,
-  "2023-08-19": 433683,
-  "2023-08-20": 433816,
-  "2023-08-21": 433936,
-  "2023-08-22": 434019,
-  "2023-08-23": 434103,
-  "2023-08-24": 434171,
-  "2023-08-25": 434265,
-  "2023-08-26": 434344,
-  "2023-08-27": 434438,
-  "2023-08-28": 434504,
-  "2023-08-29": 434586,
-  "2023-08-30": 434660,
-  "2023-08-31": 434725,
-  "2023-09-01": 434844,
-  "2023-09-02": 434844,
-  "2023-09-03": 434910,
-  "2023-09-04": 434961,
-  "2023-09-05": 435006,
-  "2023-09-06": 435053,
-  "2023-09-07": 435127,
-  "2023-09-08": 435179,
-  "2023-09-09": 435232,
-  "2023-09-10": 435277,
-  "2023-09-11": 435329,
-  "2023-09-12": 435372,
-  "2023-09-13": 435411,
-  "2023-09-14": 435454,
-  "2023-09-15": 435503,
-  "2023-09-16": 435525,
-  "2023-09-17": 435571,
-  "2023-09-18": 435612,
-  "2023-09-19": 435669,
-  "2023-09-20": 435721,
-  "2023-09-21": 435749,
-  "2023-09-22": 435792,
-  "2023-09-23": 435817,
-  "2023-09-24": 435852,
-  "2023-09-25": 435905,
-  "2023-09-26": 435960,
-  "2023-09-27": 435977,
-  "2023-09-28": 436000,
-  "2023-09-29": 436034,
-  "2023-09-30": 436056,
-  "2023-10-01": 436090,
-  "2023-10-02": 436134,
-  "2023-10-03": 436155,
-  "2023-10-04": 436176,
-  "2023-10-05": 436207,
-  "2023-10-06": 436240,
-  "2023-10-07": 436234,
-  "2023-10-08": 436264,
-  "2023-10-09": 436288,
-  "2023-10-10": 435527,
-  "2023-10-11": 435544,
-  "2023-10-12": 435544,
-  "2023-10-13": 435234,
-  "2023-10-14": 434998,
-  "2023-10-15": 434968,
-  "2023-10-16": 434987,
-  "2023-10-17": 435006,
-  "2023-10-18": 435021,
-  "2023-10-19": 435039,
-  "2023-10-20": 435069,
-  "2023-10-21": 435090,
-  "2023-10-22": 435105,
-  "2023-10-23": 435110,
-  "2023-10-24": 435119,
-  "2023-10-25": 435144,
-  "2023-10-26": 435170,
-  "2023-10-27": 435180,
-  "2023-10-28": 435196,
-  "2023-10-29": 435205,
-  "2023-10-30": 435229,
-  "2023-10-31": 435229,
-  "2023-11-01": 435252,
-  "2023-11-02": 435275,
-  "2023-11-03": 435281,
-  "2023-11-04": 435301,
-  "2023-11-05": 435318,
-  "2023-11-06": 435342,
-  "2023-11-07": 435350,
-  "2023-11-08": 435346,
-  "2023-11-09": 435361,
-  "2023-11-10": 435374,
-  "2023-11-11": 435381,
-  "2023-11-12": 435400,
-  "2023-11-13": 435415,
-  "2023-11-14": 435426,
-  "2023-11-15": 435426,
-  "2023-11-16": 435441,
-  "2023-11-17": 435470,
-  "2023-11-18": 435470,
-  "2023-11-19": 435484,
-  "2023-11-20": 435507,
-  "2023-11-21": 435520,
-  "2023-11-22": 435546,
-  "2023-11-23": 435561,
-  "2023-11-24": 435578,
-  "2023-11-25": 435600,
-  "2023-11-26": 435627,
-  "2023-11-27": 435643,
-  "2023-11-28": 435646,
-  "2023-11-29": 435650,
-  "2023-11-30": 435650,
-  "2023-12-01": 435632,
-  "2023-12-02": 435645,
-  "2023-12-03": 435649,
-  "2023-12-04": 435665,
-  "2023-12-05": 435668,
-  "2023-12-06": 435678,
-  "2023-12-07": 435691,
-  "2023-12-08": 435707,
-  "2023-12-09": 435726,
-  "2023-12-10": 435744,
-  "2023-12-11": 435762,
-  "2023-12-12": 435767,
-  "2023-12-13": 435784,
-  "2023-12-14": 435821,
-  "2023-12-15": 435825,
-  "2023-12-16": 435841,
-  "2023-12-17": 435865,
-  "2023-12-18": 435873,
-  "2023-12-19": 435889,
-  "2023-12-20": 435904,
-  "2023-12-21": 435916,
-  "2023-12-22": 435934,
-  "2023-12-23": 435955,
-  "2023-12-24": 435973,
-  "2023-12-25": 435992,
-  "2023-12-26": 436003,
-  "2023-12-27": 436023,
-  "2023-12-30": 436083,
-  "2023-12-31": 436121,
-  "2024-01-01": 436120,
-  "2024-01-02": 436134,
-  "2024-01-03": 436152
+  "2024-01-17": 434645,
+  "date_first_scraped": "2021-12-21",
+  "description": "Kick back to the soothing sounds of the Ukulele...",
+  "name": "Hawaiian Dreams",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 191733,
+      "name": "'Imi Au I\u00e1 'Oe",
+      "url": "https://open.spotify.com/track/6uw0nXT1AXL6GoiJUosOtU"
+    },
+    {
+      "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191733,
+      "name": "'Imi Au I\u00e1 'Oe",
+      "url": "https://open.spotify.com/track/7Lmi7zSYIgbqAqcTEF07MZ"
+    },
+    {
+      "album": {
+        "name": "Mauna Kea - White Mountain Journal",
+        "url": "https://open.spotify.com/album/1PnT3rg8q1hYh59GVs11Rm"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194080,
+      "name": "'Imi Au I\u00e3 'Oe",
+      "url": "https://open.spotify.com/track/2kC25y9lXVom7CvQrXCMDc"
+    },
+    {
+      "album": {
+        "name": "Mauna Kea - White Mountain Journal",
+        "url": "https://open.spotify.com/album/1sB7C55SKRkXJLy77kysfI"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 190333,
+      "name": "'Imi Au I\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/1wS8U8fR1jlx9h7CAUAPY9"
+    },
+    {
+      "album": {
+        "name": "After Surf",
+        "url": "https://open.spotify.com/album/1DTfXTwSyAce5DYVFmMFhR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tyler",
+          "url": "https://open.spotify.com/artist/6ry9ltnbChMrzsLRQlJapY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124925,
+      "name": "After Surf",
+      "url": "https://open.spotify.com/track/4AsbXl4HsasxVm4BBkKJd4"
+    },
+    {
+      "album": {
+        "name": "Ailana",
+        "url": "https://open.spotify.com/album/0wdhZpCl7bYdmh9H11ox5w"
+      },
+      "artists": [
+        {
+          "name": "Santa Cruz Band",
+          "url": "https://open.spotify.com/artist/128OHzNcdrEtTT590tCnun"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "Ailana",
+      "url": "https://open.spotify.com/track/2mfAcEZVrpTZEVi9M2LWwp"
+    },
+    {
+      "album": {
+        "name": "Beach Vibes",
+        "url": "https://open.spotify.com/album/0HKNaOlXaEp4NrSd9uU5S8"
+      },
+      "artists": [
+        {
+          "name": "The Instrumentals",
+          "url": "https://open.spotify.com/artist/3gd1L1WbjlI2vgC1FkJILM"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137559,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/5IJFdFOVcBHYKe22GU52Ew"
+    },
+    {
+      "album": {
+        "name": "Beach Afternoon",
+        "url": "https://open.spotify.com/album/6mVYM0Y3rl9vugJYVhidLt"
+      },
+      "artists": [
+        {
+          "name": "Duane Hope",
+          "url": "https://open.spotify.com/artist/6xaOuCmRIJnql6FFigzWVW"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Beach Afternoon",
+      "url": "https://open.spotify.com/track/5JtZYIuGChtsTxN6tRyKq2"
+    },
+    {
+      "album": {
+        "name": "'Ukulele Friends",
+        "url": "https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Tolentino",
+          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Beautiful Kaua'i",
+      "url": "https://open.spotify.com/track/4d1fZvDR0l7OEFYtAfEPa6"
+    },
+    {
+      "album": {
+        "name": "A Visit To Hawaii",
+        "url": "https://open.spotify.com/album/7A3uJ8GLgKe2QXyGWxQevm"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119600,
+      "name": "Blue Hawaii",
+      "url": "https://open.spotify.com/track/70AO25Ab46E7Mu1Z8TDGQU"
+    },
+    {
+      "album": {
+        "name": "Ho'omaluhia",
+        "url": "https://open.spotify.com/album/2vLvPXLFAHmftuyOyrTbMw"
+      },
+      "artists": [
+        {
+          "name": "Kawika Kahiapo",
+          "url": "https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233979,
+      "name": "Constellations (feat. Jack Johnson)",
+      "url": "https://open.spotify.com/track/7ysGMxKwKTR78Xhuju3Hvo"
+    },
+    {
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/7ky9LVdqdBG450s2w7pyVy"
+      },
+      "artists": [
+        {
+          "name": "Luna Leigh",
+          "url": "https://open.spotify.com/artist/15QfJ6oZojHoP3JozO2079"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167143,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/7CGhNKVYThivDTjXTV34ej"
+    },
+    {
+      "album": {
+        "name": "Dream Of Kapalua",
+        "url": "https://open.spotify.com/album/2KKNEk0GmsqPx2SHsSL049"
+      },
+      "artists": [
+        {
+          "name": "Jim Kama",
+          "url": "https://open.spotify.com/artist/4freTExwYI8GowzmoaluQJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148526,
+      "name": "Dream Of Kapalua",
+      "url": "https://open.spotify.com/track/3Ix8AFTXjJIqHbDkUdVU6z"
+    },
+    {
+      "album": {
+        "name": "Dreams Of Hope",
+        "url": "https://open.spotify.com/album/7fz01uPFA7gfF6alAwUNAF"
+      },
+      "artists": [
+        {
+          "name": "Leo Wilkins",
+          "url": "https://open.spotify.com/artist/2sUn5O8knTdsGPYo8N6iIr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "Dreams Of Hope",
+      "url": "https://open.spotify.com/track/67p5pQ6d9ernqsXHPJNs63"
+    },
+    {
+      "album": {
+        "name": "Ukulele Therapy: Soothing Instrumentals for Relaxing",
+        "url": "https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8"
+      },
+      "artists": [
+        {
+          "name": "Benny Chong",
+          "url": "https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "E Ku\u2019u Morning Dew",
+      "url": "https://open.spotify.com/track/5jnvdBYa3t2TDFEZYboelj"
+    },
+    {
+      "album": {
+        "name": "What a Wonderfull World",
+        "url": "https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl"
+      },
+      "artists": [
+        {
+          "name": "Kaikane",
+          "url": "https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131828,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL"
+    },
+    {
+      "album": {
+        "name": "Mungo Plays Ukulele",
+        "url": "https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr"
+      },
+      "artists": [
+        {
+          "name": "Harry Kalahiki",
+          "url": "https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 167763,
+      "name": "Hakuna Matata - Ukulele",
+      "url": "https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "Hakuna Matata - Ukulele",
+      "url": "https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0"
+    },
+    {
+      "album": {
+        "name": "'Ukulele Friends",
+        "url": "https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Tolentino",
+          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Hawai'i Calls",
+      "url": "https://open.spotify.com/track/1dwZB896AF0g3ycl4fWYPA"
+    },
+    {
+      "album": {
+        "name": "'Ukulele Nahenahe",
+        "url": "https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW"
+      },
+      "artists": [
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238706,
+      "name": "He Aloha Mele",
+      "url": "https://open.spotify.com/track/5RWTQHrhubFDDDbpSiMmWJ"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Ukulele Hits",
+        "url": "https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216006,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/3lM3rRciN1o0s0C7lWWc0V"
+    },
+    {
+      "album": {
+        "name": "I Can't Help Falling in love With You",
+        "url": "https://open.spotify.com/album/5KlN1qor27NtU13C2mLrTb"
+      },
+      "artists": [
+        {
+          "name": "Jason Block",
+          "url": "https://open.spotify.com/artist/7FajeDhGVkJPETdVpLRTNT"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132878,
+      "name": "I Can't Help Falling in love With You",
+      "url": "https://open.spotify.com/track/77jMuW14AXkXo8W70yOpi5"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0Qwp2XwzSz0NnsdIdKbFPD"
+      },
+      "artists": [
+        {
+          "name": "Henry Peluta",
+          "url": "https://open.spotify.com/artist/1K2QS2snv1XDRxrCuDS81u"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194109,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/47PO2OEQcl8ucwlqjqA9Cf"
+    },
+    {
+      "album": {
+        "name": "Mauna Kea - White Mountain Journal",
+        "url": "https://open.spotify.com/album/1FZ1DQgZQjGMG7t9IUaCnG"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Imi Au I\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/7a4BPA4e06ll25tCfIN98e"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1pv5UZccWyxBmWG1s2RjE2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209146,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/6xetFi399audH6OFTpaQU5"
+    },
+    {
+      "album": {
+        "name": "Wooden Boat",
+        "url": "https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 262253,
+      "name": "Kalena Kai",
+      "url": "https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo"
+    },
+    {
+      "album": {
+        "name": "Wooden Boat",
+        "url": "https://open.spotify.com/album/0RYdFktBJKdNLh8rRAYvAp"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265133,
+      "name": "Kalena Kai",
+      "url": "https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        },
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 261186,
+      "name": "Kalena Kai",
+      "url": "https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR"
+    },
+    {
+      "album": {
+        "name": "Wooden Boat",
+        "url": "https://open.spotify.com/album/5gnxIrVFaTYMUYdM1BdrRx"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        },
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "Kalena Kai (feat. George Winston)",
+      "url": "https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs"
+    },
+    {
+      "album": {
+        "name": "'Ukulele Friends",
+        "url": "https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9"
+      },
+      "artists": [
+        {
+          "name": "Bryan Tolentino",
+          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233213,
+      "name": "Kaulana Kawaihae",
+      "url": "https://open.spotify.com/track/0MgHhWRVG3tRYuCKT84eFZ"
+    },
+    {
+      "album": {
+        "name": "Ke Kali Nei Au",
+        "url": "https://open.spotify.com/album/6JIMGGlCTdN4BhIDoMQnN6"
+      },
+      "artists": [
+        {
+          "name": "Glenn Johnston",
+          "url": "https://open.spotify.com/artist/5ziVZBrfaiY7QR9HTsDQZT"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171730,
+      "name": "Ke Kali Nei Au",
+      "url": "https://open.spotify.com/track/0tBRc2STeBIcBpTsNgKoKX"
+    },
+    {
+      "album": {
+        "name": "Ku-U-I-Po",
+        "url": "https://open.spotify.com/album/66l49ZPKngpfNtXaWMxKFW"
+      },
+      "artists": [
+        {
+          "name": "Mele Malu",
+          "url": "https://open.spotify.com/artist/1j0UFRQZPUHRCU1wn0j6Ep"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "Ku U I Po",
+      "url": "https://open.spotify.com/track/6LNrHG2e2B5ugSG0kZKnyY"
+    },
+    {
+      "album": {
+        "name": "'Ukulele Nahenahe",
+        "url": "https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW"
+      },
+      "artists": [
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Ku'u Pua I Paoakalani",
+      "url": "https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf"
+    },
+    {
+      "album": {
+        "name": "Seven Short Films About (Our) Marriage [Music from the Motion Picture]",
+        "url": "https://open.spotify.com/album/2cTEsiCdAOlpdnlRE2ow9Q"
+      },
+      "artists": [
+        {
+          "name": "Adrian Walther",
+          "url": "https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112333,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/3kW3DZ6bBb6dVP9avkiBdE"
+    },
+    {
+      "album": {
+        "name": "Seven Short Films About (Our) Marriage (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6h3I9kx1cY11QcpdkCdfEL"
+      },
+      "artists": [
+        {
+          "name": "Adrian Walther",
+          "url": "https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112333,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/4Nt7v1lmheccBbsmASX3Jr"
+    },
+    {
+      "album": {
+        "name": "Legends of the Ukulele - Hawaiian Masters",
+        "url": "https://open.spotify.com/album/4G5bv284EMfqp3RE98OD1b"
+      },
+      "artists": [
+        {
+          "name": "Jim Beloff",
+          "url": "https://open.spotify.com/artist/3hbjLUSWxZHFrFoR2mcqU5"
+        },
+        {
+          "name": "Hal Blaine",
+          "url": "https://open.spotify.com/artist/5W6Vbf1DmTUOpvsXq4lQFJ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "Lyle Smiles",
+      "url": "https://open.spotify.com/track/2IpvgYH32zrMwWeZgz7KxD"
+    },
+    {
+      "album": {
+        "name": "Maui Medley PART I",
+        "url": "https://open.spotify.com/album/2tsrQPJuJKJAE3BfZWkTsu"
+      },
+      "artists": [
+        {
+          "name": "Jan Forsmark",
+          "url": "https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140667,
+      "name": "Maui Medley PART I",
+      "url": "https://open.spotify.com/track/5tjoUaI812GWY83W8XmlJ5"
+    },
+    {
+      "album": {
+        "name": "Maui Medley PART II",
+        "url": "https://open.spotify.com/album/7q8F4fVXvzHv1XH5WaTIZD"
+      },
+      "artists": [
+        {
+          "name": "Jan Forsmark",
+          "url": "https://open.spotify.com/artist/1s3OZeh2LpVPOlKTH0XSOQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190924,
+      "name": "Maui Medley PART II",
+      "url": "https://open.spotify.com/track/2HFgCrqjf0QTyeLiXj9IaR"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC"
+      },
+      "artists": [
+        {
+          "name": "Farah Sumners",
+          "url": "https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204697,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0KxDCJzQ5SQfMoe42IN0NC"
+    },
+    {
+      "album": {
+        "name": "Livin' It Live",
+        "url": "https://open.spotify.com/album/0snKiBMX04C2TSc4qu9wT7"
+      },
+      "artists": [
+        {
+          "name": "Bill Tapia",
+          "url": "https://open.spotify.com/artist/3ULZcv5WLuwSd83derlQhR"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "Nearness Of You",
+      "url": "https://open.spotify.com/track/7sSKDW4DGrp41vYsyv8FqN"
+    },
+    {
+      "album": {
+        "name": "Over the Rainbow - What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele",
+        "url": "https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Guitar Maestro",
+          "url": "https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287164,
+      "name": "Over the Rainbow - What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele",
+      "url": "https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss"
+    },
+    {
+      "album": {
+        "name": "The Descendants",
+        "url": "https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Kotani",
+          "url": "https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk"
+        },
+        {
+          "name": "Daniel Ho",
+          "url": "https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230560,
+      "name": "Paka Ua",
+      "url": "https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf"
+    },
+    {
+      "album": {
+        "name": "Pohai Ke Aloha",
+        "url": "https://open.spotify.com/album/190yIgaoivhzltuOLMzszR"
+      },
+      "artists": [
+        {
+          "name": "Eco Friendly",
+          "url": "https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178044,
+      "name": "Pohai Ke Aloha",
+      "url": "https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m"
+    },
+    {
+      "album": {
+        "name": "Soliloquy - Ka Leo O Loko",
+        "url": "https://open.spotify.com/album/5IvZf6jkaOeib9EvdyyJr8"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173640,
+      "name": "Pua Lililehua",
+      "url": "https://open.spotify.com/track/0X1cfOCdBaRfpu2MI0ur0l"
+    },
+    {
+      "album": {
+        "name": "Soliloquy: Ka Leo O Loko",
+        "url": "https://open.spotify.com/album/0ZzGZp6cerAABuNHL3qRWO"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Pua L\u012bl\u012blehua",
+      "url": "https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua"
+    },
+    {
+      "album": {
+        "name": "Soliloquy: Ka Leo O Loko",
+        "url": "https://open.spotify.com/album/5UQKxlzDDjcvHx9S003mgF"
+      },
+      "artists": [
+        {
+          "name": "Keola Beamer",
+          "url": "https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 177306,
+      "name": "Pua L\u012bl\u012blehua",
+      "url": "https://open.spotify.com/track/5GkzttQpAANDySsUsbcjnk"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC"
+      },
+      "artists": [
+        {
+          "name": "Farah Sumners",
+          "url": "https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207006,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6nme9J097udbUDmHp7sDAl"
+    },
+    {
+      "album": {
+        "name": "Ukulele Therapy: Soothing Instrumentals for Relaxing",
+        "url": "https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8"
+      },
+      "artists": [
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Sanoe",
+      "url": "https://open.spotify.com/track/0nbv45EqHxvI6d56tfz28H"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Style Guitars",
+        "url": "https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb"
+      },
+      "artists": [
+        {
+          "name": "Jerry Byrd",
+          "url": "https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Serenade to Nalani",
+      "url": "https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9"
+    },
+    {
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1pv5UZccWyxBmWG1s2RjE2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254973,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/3yACY5F6Q8jTq3qxBr3EhS"
+    },
+    {
+      "album": {
+        "name": "Heart of the Ukulele",
+        "url": "https://open.spotify.com/album/294OzntNXqRCKjxG9csDMg"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kamae",
+          "url": "https://open.spotify.com/artist/0YwDXRxZeigiUM0FhtcoEf"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116466,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/07rrQJ8laJSh4kyRqKBWem"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/3MuNHWU792RVw9ExH4wIGV"
+      },
+      "artists": [
+        {
+          "name": "Gus Hamilton",
+          "url": "https://open.spotify.com/artist/3N0gc8EnbHvAxkTuScm7yy"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216178,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2jfPJC0PdtRIR8V3ZRSCeG"
+    },
+    {
+      "album": {
+        "name": "Legends of the Ukulele - Hawaiian Masters",
+        "url": "https://open.spotify.com/album/4G5bv284EMfqp3RE98OD1b"
+      },
+      "artists": [
+        {
+          "name": "Opihi Pickers",
+          "url": "https://open.spotify.com/artist/09dD4wnGe3VpbQoiuPoQaO"
+        },
+        {
+          "name": "Imua Garza",
+          "url": "https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7"
+        },
+        {
+          "name": "Daniel Ho",
+          "url": "https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI"
+        },
+        {
+          "name": "Ken Emerson",
+          "url": "https://open.spotify.com/artist/2OQ1ShJLRj3cW56wir5W5Q"
+        },
+        {
+          "name": "Acoustic Soul",
+          "url": "https://open.spotify.com/artist/7nthWt9cK9kpuHkFlISVT6"
+        },
+        {
+          "name": "Mikel Gonzalez",
+          "url": "https://open.spotify.com/artist/2Y6K98ZpTEeAfyt7ZdH4Ja"
+        },
+        {
+          "name": "'Ale'a",
+          "url": "https://open.spotify.com/artist/6wMpZHelvl4XLKXzQRiZQ7"
+        },
+        {
+          "name": "Ryan Gonzalez",
+          "url": "https://open.spotify.com/artist/3xQqmsK7AdHQTkJCTC2Fjg"
+        },
+        {
+          "name": "Lyle Ritz",
+          "url": "https://open.spotify.com/artist/4xwz2JO5YlWJM2nV2lXuAp"
+        },
+        {
+          "name": "Herb Ohta Sr - Ohta-San",
+          "url": "https://open.spotify.com/artist/3309mlT9ZO0tZKgSnQFICB"
+        },
+        {
+          "name": "Benny Chong",
+          "url": "https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH"
+        },
+        {
+          "name": "Wilson Kanaka'ole",
+          "url": "https://open.spotify.com/artist/2TDHs0wVdvqlxlWXrHOfmH"
+        },
+        {
+          "name": "Kimo Hussey",
+          "url": "https://open.spotify.com/artist/6gGkPp4S8NRus9KxxxmPzy"
+        },
+        {
+          "name": "Nedward Ka'apana",
+          "url": "https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR"
+        },
+        {
+          "name": "Keoki Kaapana",
+          "url": "https://open.spotify.com/artist/0jfPuHqClYpxgqECrMctIG"
+        },
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        },
+        {
+          "name": "Jessie Kalima",
+          "url": "https://open.spotify.com/artist/3uoyh0PbFF52JPmlK2qWsX"
+        },
+        {
+          "name": "Jim Beloff",
+          "url": "https://open.spotify.com/artist/3hbjLUSWxZHFrFoR2mcqU5"
+        },
+        {
+          "name": "Na 'Oiwi",
+          "url": "https://open.spotify.com/artist/2g6ohpzGcKiUvMgWNzp3sp"
+        },
+        {
+          "name": "David Kamakahi",
+          "url": "https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        },
+        {
+          "name": "Eddie Kamae",
+          "url": "https://open.spotify.com/artist/0YwDXRxZeigiUM0FhtcoEf"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Charles Michael Brotman",
+          "url": "https://open.spotify.com/artist/7CtFwDR8wIK0bVtpaz3x5c"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Stardust - Bonus Track",
+      "url": "https://open.spotify.com/track/2ayLc8INRxZYW7NHQgz8mz"
+    },
+    {
+      "album": {
+        "name": "Sunset Jam",
+        "url": "https://open.spotify.com/album/2aSrL3RXuZIZMtN2bO3HyS"
+      },
+      "artists": [
+        {
+          "name": "Jambo Ree",
+          "url": "https://open.spotify.com/artist/6StwowfQ7VuVgp16U8TU3G"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99545,
+      "name": "Sunset Jam",
+      "url": "https://open.spotify.com/track/3i1aj5PSwGAv4DBuBBJTcd"
+    },
+    {
+      "album": {
+        "name": "Ukulele Magic",
+        "url": "https://open.spotify.com/album/1jjUASOpJXdr7L7N7iFjyy"
+      },
+      "artists": [
+        {
+          "name": "Baduria, Don",
+          "url": "https://open.spotify.com/artist/3WWy94RglmoCo77fGZWA1Y"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Sweet Leilani",
+      "url": "https://open.spotify.com/track/6KipZAjvYE3SmI4HLZcYWD"
+    },
+    {
+      "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203981,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/6L1xLNQFpqJRuZiS93XprM"
+    },
+    {
+      "album": {
+        "name": "Sounds of Summer",
+        "url": "https://open.spotify.com/album/6NQkN4ftESiy98lsM1r1rd"
+      },
+      "artists": [
+        {
+          "name": "Harry Kalapana",
+          "url": "https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178199,
+      "name": "The Last Desert Island",
+      "url": "https://open.spotify.com/track/2qYEYkzSQZGTVMnMVD8lJm"
+    },
+    {
+      "album": {
+        "name": "Aloha Hawaii - Hawaiian Guitar",
+        "url": "https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73"
+      },
+      "artists": [
+        {
+          "name": "Harry Kalapana",
+          "url": "https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "The Last Desert Island",
+      "url": "https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ"
+    },
+    {
+      "album": {
+        "name": "Tiki Music - Hawaii - Vol. 2",
+        "url": "https://open.spotify.com/album/7qcECDRvsYo4Q15KUdMPF1"
+      },
+      "artists": [
+        {
+          "name": "Harry Kalapana",
+          "url": "https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 179800,
+      "name": "The Last Desert Island",
+      "url": "https://open.spotify.com/track/38lroBrr8nZTbR9k2BjjOE"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191654,
+      "name": "The Lazy Song - Ukulele",
+      "url": "https://open.spotify.com/track/1NQPzuE8nDevq1WPpA0rWr"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 191654,
+      "name": "The Lazy Song - Ukulele",
+      "url": "https://open.spotify.com/track/3NEHhzWhUqFupyHv1IMoNc"
+    },
+    {
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3nMSrc9Bfj8AKc61Tiz6xb"
+      },
+      "artists": [
+        {
+          "name": "The Beach Bums",
+          "url": "https://open.spotify.com/artist/3CQRFlwnNQMzMYyoiKjaPD"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103671,
+      "name": "The Long Way Home",
+      "url": "https://open.spotify.com/track/49ICOMMk86hTzzJXefGQwg"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201103,
+      "name": "Three Little Birds - Ukulele",
+      "url": "https://open.spotify.com/track/6ASMHSe9stzXM020tKThqg"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 201103,
+      "name": "Three Little Birds - Ukulele",
+      "url": "https://open.spotify.com/track/6j5onmBo098pRm9pFEXuUv"
+    },
+    {
+      "album": {
+        "name": "Tip Toe Thru' the Tulips with Me",
+        "url": "https://open.spotify.com/album/2yjbhNZBZHvk2T5eoitb3M"
+      },
+      "artists": [
+        {
+          "name": "Dustin Hanusch",
+          "url": "https://open.spotify.com/artist/7AWGEBFLCdSRMCbe7TeCJG"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126981,
+      "name": "Tip Toe Thru' the Tulips with Me",
+      "url": "https://open.spotify.com/track/2Hat3Kra9vyfFJUMk681zs"
+    },
+    {
+      "album": {
+        "name": "Ukulele Therapy: Soothing Instrumentals for Relaxing",
+        "url": "https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8"
+      },
+      "artists": [
+        {
+          "name": "Imua Garza",
+          "url": "https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Waika",
+      "url": "https://open.spotify.com/track/78QjXJtLWu99p3ieLnVnln"
+    },
+    {
+      "album": {
+        "name": "What a Wonderfull World",
+        "url": "https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl"
+      },
+      "artists": [
+        {
+          "name": "Kaikane",
+          "url": "https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135078,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/6x3vwHUuWWeV2BQPYO5zTU"
+    },
+    {
+      "album": {
+        "name": "You Are The Sunshine Of My Life",
+        "url": "https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi"
+      },
+      "artists": [
+        {
+          "name": "Winton Pearl",
+          "url": "https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155944,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj"
+    },
+    {
+      "album": {
+        "name": "Honolulu Jack",
+        "url": "https://open.spotify.com/album/0HuD2eiPtxujR7wwQNQn29"
+      },
+      "artists": [
+        {
+          "name": "Honolulu Jack",
+          "url": "https://open.spotify.com/artist/26YYA34VUK9sdsFLw1Hn1Y"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181570,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5WPzdUWZbMgJIOJ07Jgv7O"
+    },
+    {
+      "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "You Are The Sunshine",
+      "url": "https://open.spotify.com/track/1x0McHFiqkUOo7sqzMADmc"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "\u30a4\u30f3\u30fb\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30ec\u30a4\u30f3\u30dc\u30fc",
+      "url": "https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5FuBDzVtEFX"
 }

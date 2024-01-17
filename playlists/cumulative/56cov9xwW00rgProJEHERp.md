@@ -4,11 +4,12 @@
 
 > Tunes from your favourite coffee shop.
 
-63 songs - 3 hr 47 min
+66 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6 \- acoustic](https://open.spotify.com/track/303Cqs37BnJDIkbbL0WGcA) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [basement acoustic sessions](https://open.spotify.com/album/08RXGSZ8G42gij0NUld8tc) | 2:40 | 2023-12-08 | 2023-12-16 |
+| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 |  |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-12-08 |  |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2023-12-08 |  |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-12-08 |  |
@@ -20,7 +21,7 @@
 | [Daddy's a Psycho](https://open.spotify.com/track/653QfGDLMG60iM9RHBWKJB) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn) | 4:19 | 2023-12-08 |  |
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me \(Acoustic\)](https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME) | 3:34 | 2023-12-08 |  |
 | [die young \- acoustic](https://open.spotify.com/track/5evSLs2Ng5ZwPKHtNgAKB9) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young \(acoustic\)](https://open.spotify.com/album/5JhVeJ2aYQYsca9e5FQLh3) | 2:45 | 2023-12-08 |  |
-| [Drown in My Own Tears \- The Circle Session, 2023](https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Drown in My Own Tears \(The Circle Session, 2023\)](https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S) | 5:04 | 2023-12-08 |  |
+| [Drown in My Own Tears \- The Circle Session, 2023](https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Drown in My Own Tears \(The Circle Session, 2023\)](https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S) | 5:04 | 2023-12-08 | 2024-01-13 |
 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-12-08 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2023-12-08 |  |
 | [Enemies](https://open.spotify.com/track/1eg0I4UkEhDgaHYxpXXG26) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Manic Party](https://open.spotify.com/album/2C1HRx9Ao5sfj68lROoKkE) | 3:15 | 2023-12-08 |  |
@@ -44,8 +45,9 @@
 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-12-08 |  |
 | [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2023-12-08 |  |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-12-08 |  |
-| [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-12-08 |  |
+| [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-12-08 | 2024-01-13 |
 | [Noah \(Stand Still\)](https://open.spotify.com/track/2lXpWg3gOIeH22d1UMhoiL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Noah \(Stand Still\)](https://open.spotify.com/album/33oPNWUuU96juBwswrJeCU) | 3:54 | 2023-12-08 |  |
+| [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 | 2024-01-12 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2023-12-08 | 2023-12-16 |
 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 | 2023-12-08 |  |
 | [One Of A Kind Love Affair](https://open.spotify.com/track/5PAJzKSzJHI82YBmnzNOvq) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [One Of A Kind Love Affair](https://open.spotify.com/album/5mQYZSGfBe180WE8G0tc6j) | 4:38 | 2023-12-15 |  |
@@ -56,6 +58,7 @@
 | [something i can't do](https://open.spotify.com/track/4rtGByFuVFIb3rj4ewtVYw) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [something i can't do](https://open.spotify.com/album/01lwPYxKLe0fuDFHOp9l5v) | 2:44 | 2023-12-08 |  |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-12-08 |  |
 | [stuck \- revisited](https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom \(revisited\)](https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN) | 4:13 | 2023-12-08 |  |
+| [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 |  |
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2023-12-08 |  |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2023-12-08 |  |
 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-12-08 |  |

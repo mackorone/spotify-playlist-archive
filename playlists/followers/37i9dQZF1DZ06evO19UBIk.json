@@ -1,717 +1,1431 @@
 {
-  "2022-01-12": 525273,
-  "2022-01-13": 525346,
-  "2022-01-14": 525476,
-  "2022-01-15": 525872,
-  "2022-01-16": 525879,
-  "2022-01-17": 526132,
-  "2022-01-18": 526137,
-  "2022-01-19": 526194,
-  "2022-01-20": 526307,
-  "2022-01-21": 526420,
-  "2022-01-22": 526562,
-  "2022-01-23": 526716,
-  "2022-01-24": 526873,
-  "2022-01-25": 527004,
-  "2022-01-26": 527110,
-  "2022-01-27": 527240,
-  "2022-01-28": 527367,
-  "2022-01-29": 527529,
-  "2022-01-30": 527663,
-  "2022-01-31": 527777,
-  "2022-02-01": 527868,
-  "2022-02-02": 528015,
-  "2022-02-03": 528159,
-  "2022-02-04": 528316,
-  "2022-02-05": 528473,
-  "2022-02-06": 528642,
-  "2022-02-07": 528744,
-  "2022-02-08": 528893,
-  "2022-02-09": 529014,
-  "2022-02-10": 529122,
-  "2022-02-11": 529273,
-  "2022-02-12": 529421,
-  "2022-02-13": 529568,
-  "2022-02-14": 529670,
-  "2022-02-15": 529768,
-  "2022-02-16": 529882,
-  "2022-02-17": 529974,
-  "2022-02-18": 530105,
-  "2022-02-19": 530257,
-  "2022-02-20": 530434,
-  "2022-02-21": 530553,
-  "2022-02-22": 530698,
-  "2022-02-23": 530797,
-  "2022-02-24": 530927,
-  "2022-02-25": 531002,
-  "2022-02-26": 531142,
-  "2022-02-27": 531405,
-  "2022-02-28": 531405,
-  "2022-03-01": 531524,
-  "2022-03-02": 531665,
-  "2022-03-03": 531768,
-  "2022-03-04": 531858,
-  "2022-03-05": 531961,
-  "2022-03-06": 532092,
-  "2022-03-07": 532213,
-  "2022-03-08": 532330,
-  "2022-03-09": 532440,
-  "2022-03-10": 532552,
-  "2022-03-11": 532677,
-  "2022-03-12": 532803,
-  "2022-03-13": 532912,
-  "2022-03-14": 533031,
-  "2022-03-15": 533148,
-  "2022-03-16": 533266,
-  "2022-03-17": 533381,
-  "2022-03-18": 533559,
-  "2022-03-19": 533678,
-  "2022-03-20": 533678,
-  "2022-03-21": 533958,
-  "2022-03-22": 534050,
-  "2022-03-23": 534171,
-  "2022-03-24": 534305,
-  "2022-03-25": 534438,
-  "2022-03-26": 534551,
-  "2022-03-27": 534688,
-  "2022-03-28": 534833,
-  "2022-03-30": 535076,
-  "2022-03-31": 535216,
-  "2022-04-01": 535354,
-  "2022-04-02": 535498,
-  "2022-04-03": 535657,
-  "2022-04-04": 535783,
-  "2022-04-05": 535892,
-  "2022-04-06": 536024,
-  "2022-04-07": 536141,
-  "2022-04-08": 536247,
-  "2022-04-09": 536391,
-  "2022-04-10": 536694,
-  "2022-04-11": 536807,
-  "2022-04-12": 536823,
-  "2022-04-13": 536922,
-  "2022-04-14": 537053,
-  "2022-04-15": 537219,
-  "2022-04-16": 537353,
-  "2022-04-17": 537516,
-  "2022-04-18": 537665,
-  "2022-04-19": 537765,
-  "2022-04-20": 537890,
-  "2022-04-21": 538024,
-  "2022-04-22": 538167,
-  "2022-04-23": 538310,
-  "2022-04-24": 538468,
-  "2022-04-25": 538594,
-  "2022-04-26": 538729,
-  "2022-04-27": 538864,
-  "2022-04-28": 538999,
-  "2022-04-29": 539204,
-  "2022-04-30": 539341,
-  "2022-05-01": 539515,
-  "2022-05-02": 539515,
-  "2022-05-03": 539652,
-  "2022-05-04": 539755,
-  "2022-05-05": 539868,
-  "2022-05-06": 540034,
-  "2022-05-07": 540368,
-  "2022-05-08": 540683,
-  "2022-05-09": 540716,
-  "2022-05-10": 540856,
-  "2022-05-11": 541010,
-  "2022-05-12": 541160,
-  "2022-05-13": 541324,
-  "2022-05-14": 541482,
-  "2022-05-15": 541629,
-  "2022-05-16": 541765,
-  "2022-05-17": 541894,
-  "2022-05-18": 542006,
-  "2022-05-19": 542117,
-  "2022-05-20": 542265,
-  "2022-05-21": 542565,
-  "2022-05-22": 542565,
-  "2022-05-23": 542680,
-  "2022-05-24": 542813,
-  "2022-05-25": 542945,
-  "2022-05-26": 543070,
-  "2022-05-27": 543203,
-  "2022-05-28": 543343,
-  "2022-05-29": 543477,
-  "2022-05-30": 543605,
-  "2022-05-31": 543719,
-  "2022-06-01": 543949,
-  "2022-06-02": 543972,
-  "2022-06-03": 544087,
-  "2022-06-04": 544243,
-  "2022-06-05": 544389,
-  "2022-06-06": 544504,
-  "2022-06-07": 544614,
-  "2022-06-08": 544762,
-  "2022-06-09": 544881,
-  "2022-06-10": 545041,
-  "2022-06-11": 545151,
-  "2022-06-12": 545298,
-  "2022-06-13": 545392,
-  "2022-06-14": 545522,
-  "2022-06-15": 545633,
-  "2022-06-16": 545755,
-  "2022-06-17": 545895,
-  "2022-06-18": 546034,
-  "2022-06-19": 546330,
-  "2022-06-20": 546330,
-  "2022-06-21": 546465,
-  "2022-06-22": 546758,
-  "2022-06-23": 546758,
-  "2022-06-24": 546897,
-  "2022-06-25": 547015,
-  "2022-06-26": 547154,
-  "2022-06-27": 547247,
-  "2022-06-28": 547375,
-  "2022-06-29": 547522,
-  "2022-06-30": 547639,
-  "2022-07-01": 547800,
-  "2022-07-02": 547949,
-  "2022-07-03": 548089,
-  "2022-07-04": 548272,
-  "2022-07-05": 548432,
-  "2022-07-06": 548432,
-  "2022-07-07": 548718,
-  "2022-07-08": 548899,
-  "2022-07-09": 549071,
-  "2022-07-10": 549238,
-  "2022-07-11": 549403,
-  "2022-07-12": 549514,
-  "2022-07-13": 549677,
-  "2022-07-14": 549812,
-  "2022-07-15": 549965,
-  "2022-07-16": 550122,
-  "2022-07-17": 550336,
-  "2022-07-18": 550512,
-  "2022-07-19": 550670,
-  "2022-07-20": 550839,
-  "2022-07-21": 550975,
-  "2022-07-22": 551124,
-  "2022-07-23": 551310,
-  "2022-07-24": 551475,
-  "2022-07-25": 551606,
-  "2022-07-26": 551718,
-  "2022-07-27": 551852,
-  "2022-07-28": 551950,
-  "2022-07-29": 552113,
-  "2022-07-30": 552447,
-  "2022-07-31": 552447,
-  "2022-08-01": 552614,
-  "2022-08-02": 552852,
-  "2022-08-03": 552852,
-  "2022-08-04": 552980,
-  "2022-08-05": 553156,
-  "2022-08-06": 553309,
-  "2022-08-07": 553497,
-  "2022-08-08": 553650,
-  "2022-08-09": 553807,
-  "2022-08-10": 553956,
-  "2022-08-11": 554095,
-  "2022-08-12": 554261,
-  "2022-08-13": 554418,
-  "2022-08-14": 554580,
-  "2022-08-15": 554735,
-  "2022-08-16": 554859,
-  "2022-08-17": 554991,
-  "2022-08-18": 555166,
-  "2022-08-19": 555368,
-  "2022-08-20": 555534,
-  "2022-08-21": 555705,
-  "2022-08-22": 555834,
-  "2022-08-23": 555973,
-  "2022-08-24": 556116,
-  "2022-08-25": 556284,
-  "2022-08-26": 556419,
-  "2022-08-27": 556581,
-  "2022-08-28": 556770,
-  "2022-08-29": 556925,
-  "2022-08-30": 556904,
-  "2022-08-31": 556764,
-  "2022-09-01": 556575,
-  "2022-09-02": 556400,
-  "2022-09-03": 556025,
-  "2022-09-04": 555914,
-  "2022-09-05": 555986,
-  "2022-09-06": 556114,
-  "2022-09-07": 556216,
-  "2022-09-09": 556517,
-  "2022-09-10": 556689,
-  "2022-09-11": 556859,
-  "2022-09-12": 556994,
-  "2022-09-13": 557116,
-  "2022-09-15": 557422,
-  "2022-09-16": 557591,
-  "2022-09-17": 557765,
-  "2022-09-18": 557981,
-  "2022-09-19": 558177,
-  "2022-09-20": 558325,
-  "2022-09-21": 558490,
-  "2022-09-22": 558678,
-  "2022-09-23": 558872,
-  "2022-09-24": 558872,
-  "2022-09-25": 559337,
-  "2022-09-26": 559546,
-  "2022-09-27": 559719,
-  "2022-09-28": 559916,
-  "2022-09-29": 560176,
-  "2022-09-30": 560405,
-  "2022-10-01": 560634,
-  "2022-10-02": 560897,
-  "2022-10-03": 561127,
-  "2022-10-04": 561280,
-  "2022-10-05": 561454,
-  "2022-10-06": 561642,
-  "2022-10-07": 561829,
-  "2022-10-08": 562053,
-  "2022-10-09": 562371,
-  "2022-10-10": 562425,
-  "2022-10-11": 562595,
-  "2022-10-12": 562770,
-  "2022-10-13": 562954,
-  "2022-10-14": 563144,
-  "2022-10-15": 563343,
-  "2022-10-16": 563581,
-  "2022-10-17": 563722,
-  "2022-10-18": 563889,
-  "2022-10-19": 564072,
-  "2022-10-20": 564268,
-  "2022-10-21": 564470,
-  "2022-10-22": 564651,
-  "2022-10-23": 564869,
-  "2022-10-24": 565061,
-  "2022-10-25": 565224,
-  "2022-10-26": 565374,
-  "2022-10-27": 565530,
-  "2022-10-28": 565715,
-  "2022-10-29": 565920,
-  "2022-10-30": 566096,
-  "2022-10-31": 566289,
-  "2022-11-01": 566465,
-  "2022-11-02": 566635,
-  "2022-11-03": 566809,
-  "2022-11-04": 567010,
-  "2022-11-05": 567204,
-  "2022-11-06": 567379,
-  "2022-11-07": 567550,
-  "2022-11-08": 567740,
-  "2022-11-09": 567934,
-  "2022-11-10": 568126,
-  "2022-11-11": 568310,
-  "2022-11-12": 568513,
-  "2022-11-13": 568715,
-  "2022-11-14": 568910,
-  "2022-11-15": 569057,
-  "2022-11-16": 569197,
-  "2022-11-17": 569353,
-  "2022-11-18": 569399,
-  "2022-11-19": 569437,
-  "2022-11-20": 569639,
-  "2022-11-21": 569884,
-  "2022-11-22": 570080,
-  "2022-11-23": 570248,
-  "2022-11-24": 570566,
-  "2022-11-25": 570856,
-  "2022-11-26": 571022,
-  "2022-11-27": 571201,
-  "2022-11-28": 571391,
-  "2022-11-29": 571556,
-  "2022-11-30": 571750,
-  "2022-12-01": 571960,
-  "2022-12-02": 572109,
-  "2022-12-03": 572426,
-  "2022-12-04": 572665,
-  "2022-12-05": 572902,
-  "2022-12-06": 573102,
-  "2022-12-07": 573304,
-  "2022-12-08": 573479,
-  "2022-12-09": 573758,
-  "2022-12-10": 574001,
-  "2022-12-11": 574186,
-  "2022-12-12": 574447,
-  "2022-12-13": 574595,
-  "2022-12-14": 574748,
-  "2022-12-15": 574932,
-  "2022-12-16": 575104,
-  "2022-12-17": 575307,
-  "2022-12-18": 575487,
-  "2022-12-19": 575614,
-  "2022-12-20": 575957,
-  "2022-12-21": 575957,
-  "2022-12-22": 576149,
-  "2022-12-24": 576588,
-  "2022-12-25": 576792,
-  "2022-12-26": 576987,
-  "2022-12-27": 577198,
-  "2022-12-28": 577418,
-  "2022-12-29": 577616,
-  "2022-12-30": 577872,
-  "2022-12-31": 578110,
-  "2023-01-01": 578320,
-  "2023-01-02": 578528,
-  "2023-01-03": 578754,
-  "2023-01-04": 578916,
-  "2023-01-05": 579108,
-  "2023-01-06": 579360,
-  "2023-01-07": 579722,
-  "2023-01-08": 579792,
-  "2023-01-09": 579985,
-  "2023-01-10": 580165,
-  "2023-01-11": 580367,
-  "2023-01-12": 580596,
-  "2023-01-13": 580835,
-  "2023-01-14": 581238,
-  "2023-01-15": 581282,
-  "2023-01-16": 581558,
-  "2023-01-17": 581749,
-  "2023-01-18": 581983,
-  "2023-01-19": 582195,
-  "2023-01-20": 582444,
-  "2023-01-21": 582688,
-  "2023-01-22": 582948,
-  "2023-01-23": 583198,
-  "2023-01-24": 583425,
-  "2023-01-25": 583682,
-  "2023-01-26": 583896,
-  "2023-01-27": 584152,
-  "2023-01-28": 584364,
-  "2023-01-29": 584639,
-  "2023-01-30": 584892,
-  "2023-01-31": 584892,
-  "2023-02-01": 585315,
-  "2023-02-02": 585509,
-  "2023-02-03": 585787,
-  "2023-02-04": 586032,
-  "2023-02-05": 586316,
-  "2023-02-06": 586560,
-  "2023-02-07": 586803,
-  "2023-02-08": 587261,
-  "2023-02-09": 587261,
-  "2023-02-10": 587528,
-  "2023-02-11": 587756,
-  "2023-02-12": 588280,
-  "2023-02-13": 588477,
-  "2023-02-14": 588477,
-  "2023-02-15": 588664,
-  "2023-02-16": 588902,
-  "2023-02-17": 589143,
-  "2023-02-18": 589632,
-  "2023-02-19": 589667,
-  "2023-02-20": 589874,
-  "2023-02-21": 590106,
-  "2023-02-22": 590322,
-  "2023-02-23": 590546,
-  "2023-02-24": 590771,
-  "2023-02-25": 591115,
-  "2023-02-26": 591298,
-  "2023-02-27": 591832,
-  "2023-02-28": 591832,
-  "2023-03-01": 592060,
-  "2023-03-02": 592281,
-  "2023-03-03": 592566,
-  "2023-03-04": 592772,
-  "2023-03-05": 593283,
-  "2023-03-06": 593283,
-  "2023-03-07": 593518,
-  "2023-03-08": 593718,
-  "2023-03-09": 593940,
-  "2023-03-10": 594165,
-  "2023-03-11": 594401,
-  "2023-03-12": 594645,
-  "2023-03-13": 594890,
-  "2023-03-14": 595113,
-  "2023-03-15": 595326,
-  "2023-03-16": 595326,
-  "2023-03-17": 595326,
-  "2023-03-18": 595991,
-  "2023-03-19": 595991,
-  "2023-03-20": 596481,
-  "2023-03-21": 596678,
-  "2023-03-22": 596877,
-  "2023-03-23": 597099,
-  "2023-03-24": 597099,
-  "2023-03-25": 597549,
-  "2023-03-26": 597802,
-  "2023-03-27": 598042,
-  "2023-03-28": 598241,
-  "2023-03-29": 598457,
-  "2023-03-30": 598875,
-  "2023-03-31": 598875,
-  "2023-04-01": 599107,
-  "2023-04-02": 599313,
-  "2023-04-03": 599564,
-  "2023-04-04": 599785,
-  "2023-04-05": 600013,
-  "2023-04-06": 600200,
-  "2023-04-07": 600426,
-  "2023-04-09": 600902,
-  "2023-04-10": 601097,
-  "2023-04-11": 601516,
-  "2023-04-12": 601516,
-  "2023-04-13": 601749,
-  "2023-04-14": 602015,
-  "2023-04-15": 602224,
-  "2023-04-16": 602445,
-  "2023-04-17": 602669,
-  "2023-04-18": 602859,
-  "2023-04-19": 603099,
-  "2023-04-20": 603284,
-  "2023-04-21": 603520,
-  "2023-04-22": 603729,
-  "2023-04-23": 603968,
-  "2023-04-24": 604176,
-  "2023-04-25": 604411,
-  "2023-04-26": 604641,
-  "2023-04-27": 604841,
-  "2023-04-28": 605087,
-  "2023-04-29": 605324,
-  "2023-04-30": 605609,
-  "2023-05-01": 605852,
-  "2023-05-02": 606105,
-  "2023-05-03": 606329,
-  "2023-05-04": 606536,
-  "2023-05-05": 606722,
-  "2023-05-06": 606903,
-  "2023-05-07": 607126,
-  "2023-05-08": 607345,
-  "2023-05-09": 607512,
-  "2023-05-10": 607714,
-  "2023-05-11": 607894,
-  "2023-05-12": 608080,
-  "2023-05-13": 608325,
-  "2023-05-14": 608539,
-  "2023-05-15": 608725,
-  "2023-05-16": 608958,
-  "2023-05-17": 609172,
-  "2023-05-18": 609416,
-  "2023-05-19": 609637,
-  "2023-05-20": 610104,
-  "2023-05-21": 610104,
-  "2023-05-22": 610104,
-  "2023-05-23": 610524,
-  "2023-05-24": 610863,
-  "2023-05-25": 610928,
-  "2023-05-26": 611099,
-  "2023-05-27": 611297,
-  "2023-05-28": 611506,
-  "2023-05-29": 611506,
-  "2023-05-30": 611931,
-  "2023-05-31": 612128,
-  "2023-06-01": 612342,
-  "2023-06-02": 612549,
-  "2023-06-03": 612762,
-  "2023-06-04": 613047,
-  "2023-06-05": 613284,
-  "2023-06-06": 613465,
-  "2023-06-07": 613660,
-  "2023-06-08": 613872,
-  "2023-06-09": 614116,
-  "2023-06-10": 614273,
-  "2023-06-11": 614417,
-  "2023-06-12": 614548,
-  "2023-06-13": 614647,
-  "2023-06-14": 614737,
-  "2023-06-15": 614840,
-  "2023-06-16": 615006,
-  "2023-06-17": 615177,
-  "2023-06-18": 615324,
-  "2023-06-19": 615457,
-  "2023-06-20": 615569,
-  "2023-06-21": 615688,
-  "2023-06-22": 615824,
-  "2023-06-23": 615936,
-  "2023-06-24": 616094,
-  "2023-06-25": 616243,
-  "2023-06-26": 616407,
-  "2023-06-27": 616535,
-  "2023-06-28": 616652,
-  "2023-06-29": 616796,
-  "2023-06-30": 616934,
-  "2023-07-01": 617222,
-  "2023-07-02": 617222,
-  "2023-07-03": 617339,
-  "2023-07-04": 617494,
-  "2023-07-05": 617671,
-  "2023-07-06": 617981,
-  "2023-07-07": 617981,
-  "2023-07-08": 618155,
-  "2023-07-09": 618327,
-  "2023-07-10": 618469,
-  "2023-07-11": 618562,
-  "2023-07-12": 618700,
-  "2023-07-13": 618847,
-  "2023-07-14": 619010,
-  "2023-07-15": 619115,
-  "2023-07-16": 619310,
-  "2023-07-17": 619481,
-  "2023-07-18": 619607,
-  "2023-07-19": 619722,
-  "2023-07-20": 619841,
-  "2023-07-21": 619949,
-  "2023-07-22": 620074,
-  "2023-07-23": 620245,
-  "2023-07-24": 620378,
-  "2023-07-25": 620479,
-  "2023-07-26": 620610,
-  "2023-07-27": 620750,
-  "2023-07-28": 620939,
-  "2023-07-29": 621145,
-  "2023-07-30": 621301,
-  "2023-07-31": 621451,
-  "2023-08-01": 621582,
-  "2023-08-02": 621712,
-  "2023-08-03": 621838,
-  "2023-08-04": 621974,
-  "2023-08-05": 622117,
-  "2023-08-06": 622428,
-  "2023-08-07": 622428,
-  "2023-08-08": 622560,
-  "2023-08-09": 622671,
-  "2023-08-10": 622777,
-  "2023-08-11": 622907,
-  "2023-08-12": 622907,
-  "2023-08-13": 622907,
-  "2023-08-14": 623324,
-  "2023-08-15": 623324,
-  "2023-08-16": 623324,
-  "2023-08-17": 623690,
-  "2023-08-18": 623690,
-  "2023-08-19": 623690,
-  "2023-08-20": 624198,
-  "2023-08-21": 624198,
-  "2023-08-22": 624536,
-  "2023-08-23": 624536,
-  "2023-08-24": 624844,
-  "2023-08-25": 624844,
-  "2023-08-26": 625170,
-  "2023-08-27": 625170,
-  "2023-08-28": 625511,
-  "2023-08-29": 625511,
-  "2023-08-30": 625511,
-  "2023-08-31": 625940,
-  "2023-09-01": 626258,
-  "2023-09-02": 626258,
-  "2023-09-03": 626407,
-  "2023-09-04": 626407,
-  "2023-09-05": 626407,
-  "2023-09-06": 626787,
-  "2023-09-07": 626787,
-  "2023-09-08": 626787,
-  "2023-09-09": 626787,
-  "2023-09-10": 627364,
-  "2023-09-11": 627364,
-  "2023-09-12": 627364,
-  "2023-09-13": 627794,
-  "2023-09-14": 627794,
-  "2023-09-15": 627794,
-  "2023-09-16": 628199,
-  "2023-09-17": 628199,
-  "2023-09-18": 628199,
-  "2023-09-19": 628591,
-  "2023-09-20": 628591,
-  "2023-09-21": 628591,
-  "2023-09-22": 628965,
-  "2023-09-23": 628965,
-  "2023-09-24": 628965,
-  "2023-09-25": 628965,
-  "2023-09-26": 629457,
-  "2023-09-27": 629457,
-  "2023-09-28": 629457,
-  "2023-09-29": 629457,
-  "2023-09-30": 629457,
-  "2023-10-01": 629457,
-  "2023-10-02": 630193,
-  "2023-10-03": 630193,
-  "2023-10-04": 630193,
-  "2023-10-05": 630549,
-  "2023-10-06": 630669,
-  "2023-10-07": 630669,
-  "2023-10-08": 630669,
-  "2023-10-09": 630669,
-  "2023-10-10": 630669,
-  "2023-10-11": 631089,
-  "2023-10-12": 631089,
-  "2023-10-13": 631089,
-  "2023-10-14": 631089,
-  "2023-10-15": 631089,
-  "2023-10-16": 631089,
-  "2023-10-17": 631089,
-  "2023-10-18": 631089,
-  "2023-10-19": 631089,
-  "2023-10-20": 631089,
-  "2023-10-21": 631089,
-  "2023-10-22": 631089,
-  "2023-10-23": 631089,
-  "2023-10-24": 631089,
-  "2023-10-25": 631089,
-  "2023-10-26": 631089,
-  "2023-10-27": 631089,
-  "2023-10-28": 631089,
-  "2023-10-29": 631089,
-  "2023-10-30": 631089,
-  "2023-10-31": 631089,
-  "2023-11-01": 631089,
-  "2023-11-02": 631089,
-  "2023-11-03": 631089,
-  "2023-11-04": 631089,
-  "2023-11-05": 631089,
-  "2023-11-06": 631089,
-  "2023-11-07": 631089,
-  "2023-11-08": 631089,
-  "2023-11-09": 631089,
-  "2023-11-10": 631089,
-  "2023-11-11": 634527,
-  "2023-11-12": 634527,
-  "2023-11-13": 634527,
-  "2023-11-14": 634527,
-  "2023-11-15": 634527,
-  "2023-11-16": 634527,
-  "2023-11-17": 634527,
-  "2023-11-18": 634527,
-  "2023-11-19": 634527,
-  "2023-11-20": 634527,
-  "2023-11-21": 634527,
-  "2023-11-22": 634527,
-  "2023-11-23": 634527,
-  "2023-11-24": 634527,
-  "2023-11-25": 634527,
-  "2023-11-26": 634527,
-  "2023-11-27": 634527,
-  "2023-11-28": 634527,
-  "2023-11-29": 634527,
-  "2023-11-30": 634527,
-  "2023-12-01": 634527,
-  "2023-12-02": 634527,
-  "2023-12-03": 634527,
-  "2023-12-04": 634527,
-  "2023-12-05": 634527,
-  "2023-12-06": 634527,
-  "2023-12-07": 634527,
-  "2023-12-08": 634527,
-  "2023-12-09": 634527,
-  "2023-12-10": 634527,
-  "2023-12-11": 634527,
-  "2023-12-12": 634527,
-  "2023-12-13": 634527,
-  "2023-12-14": 638142,
-  "2023-12-15": 638218,
-  "2023-12-16": 638337,
-  "2023-12-17": 638435,
-  "2023-12-18": 638563,
-  "2023-12-19": 638673,
-  "2023-12-20": 638765,
-  "2023-12-21": 638892,
-  "2023-12-22": 639014,
-  "2023-12-23": 639127,
-  "2023-12-24": 639235,
-  "2023-12-25": 639328,
-  "2023-12-26": 639430,
-  "2023-12-27": 639522,
-  "2023-12-30": 639849,
-  "2023-12-31": 639965,
-  "2024-01-01": 640057,
-  "2024-01-02": 640131,
-  "2024-01-03": 640183
+  "2024-01-17": 640315,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is The Doors. The essential tracks, all in one playlist.",
+  "name": "This Is The Doors",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Alabama Song (Whisky Bar)",
+      "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "An American Prayer",
+      "url": "https://open.spotify.com/track/2VDkE9sdVpQAgEqH5fvTMV"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 35800,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6U65Pc0A2qHYwJoU1OLgH0"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "Been down so Long",
+      "url": "https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63773,
+      "name": "Bird of Prey",
+      "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67880,
+      "name": "Black Polished Chrome",
+      "url": "https://open.spotify.com/track/2txVWU6tG6NdEyTnm1P1WQ"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132949,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/2g3JAKjKruTL40VffoGLmg"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
+    },
+    {
+      "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301986,
+      "name": "Breakn' a Sweat",
+      "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 249533,
+      "name": "Cars Hiss by My Window",
+      "url": "https://open.spotify.com/track/2Sjez1CwJv8Pz018CxKjWa"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-22",
+      "duration_ms": 170693,
+      "name": "End of the Night",
+      "url": "https://open.spotify.com/track/09ezgACZuwWZt6CtQSSLRG"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/26Fac6kNgB6MLeoGVkmpKN"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 155373,
+      "name": "Get up and Dance",
+      "url": "https://open.spotify.com/track/1HCrzK0GjSnIaPJs2KKsMQ"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Ghost Song",
+      "url": "https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Hello, I Love You",
+      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 95226,
+      "name": "Horse Latitudes",
+      "url": "https://open.spotify.com/track/6vcqR6rCL2k4EDhqH8gzeO"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77906,
+      "name": "Hour for Magic",
+      "url": "https://open.spotify.com/track/4MUwsIjjmv4q5gy70v7lma"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Hyacinth House",
+      "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MuuO7q58HbGU3qUjICucE"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39229,
+      "name": "I Am Troubled - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 203293,
+      "name": "I Can't See Your Face in My Mind",
+      "url": "https://open.spotify.com/track/6wov6IWJkisFG6rUZIESsB"
+    },
+    {
+      "album": {
+        "name": "Other Voices",
+        "url": "https://open.spotify.com/album/6uhwVoXKDMzdXXjhTCH6Nk"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-31",
+      "duration_ms": 237173,
+      "name": "I'm Horny, I'm Stoned",
+      "url": "https://open.spotify.com/track/7fku2DCfY0oUUDUYXB6Q7m"
+    },
+    {
+      "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 328515,
+      "name": "I'm Horny, I'm Stoned - Live 1972",
+      "url": "https://open.spotify.com/track/5RUXlzEc2NuaQ3QryvY1rY"
+    },
+    {
+      "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 343643,
+      "name": "In The Eye Of The Sun - Live 1972",
+      "url": "https://open.spotify.com/track/5BGonwlaXEj4OhWm7jc1fm"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471160,
+      "name": "L.A. Woman",
+      "url": "https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "album": {
+        "name": "American Nights - In Concert",
+        "url": "https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 594306,
+      "name": "Light My Fire - Live",
+      "url": "https://open.spotify.com/track/4HaOHPT5aUiqUnvXTA2BDz"
+    },
+    {
+      "album": {
+        "name": "Live in New York",
+        "url": "https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 384293,
+      "name": "Little Red Rooster - Live at the Felt Forum, New York City, January 17, 1970, First Show",
+      "url": "https://open.spotify.com/track/6fOON6KOenBSu0yhXZ3XMH"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Love Her Madly",
+      "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
+    },
+    {
+      "album": {
+        "name": "Live in New York",
+        "url": "https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 32040,
+      "name": "Love Hides - Live at the Felt Forum, New York City, January 17, 1970, First Show",
+      "url": "https://open.spotify.com/track/4zOmEfLvoRQh31xUDZmoGW"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Love Me Two Times",
+      "url": "https://open.spotify.com/track/67HxeUADW4H3ERfaPW59ma"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169533,
+      "name": "Love Street",
+      "url": "https://open.spotify.com/track/5Q2Im8o4RthlAMkvUMYwGj"
+    },
+    {
+      "album": {
+        "name": "Back In Town (Live)",
+        "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96643,
+      "name": "Mack The Knife - Live 1968",
+      "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 264333,
+      "name": "Maggie M'Gill",
+      "url": "https://open.spotify.com/track/6PtRNOkuXALHwogMnc9NCx"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Moonlight Drive",
+      "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "My Eyes Have Seen You",
+      "url": "https://open.spotify.com/track/6HSQ5z5afdLjhphHWfPiEG"
+    },
+    {
+      "album": {
+        "name": "An American Prayer",
+        "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
+      },
+      "artists": [
+        {
+          "name": "Jim Morrison",
+          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Newborn Awakening",
+      "url": "https://open.spotify.com/track/2EStd4GGmC155o0ZQROmqB"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Not to Touch the Earth",
+      "url": "https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x"
+    },
+    {
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170132,
+      "name": "Peace Frog",
+      "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "album": {
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 39360,
+      "name": "Petition the Lord with Prayer - Live in Vancouver, 1970",
+      "url": "https://open.spotify.com/track/7FPHpesUZ791sGiYKQpQG4"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Queen of the Highway",
+      "url": "https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "album": {
+        "name": "Riders On The Storm (Fredwreck Remix)",
+        "url": "https://open.spotify.com/album/4Amv0hrD1UuVHSnexg1iqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382240,
+      "name": "Riders On The Storm - Fredwreck Remix",
+      "url": "https://open.spotify.com/track/0RcYEWXtbu4ehdv1tiBOi0"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5zJ5Hz4a5OACoowuL3x86m"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 279532,
+      "name": "Rock Me Baby - L.A. Woman Sessions",
+      "url": "https://open.spotify.com/track/0I060wAAVjhFv28hJ5rpGZ"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146026,
+      "name": "Runnin' Blue",
+      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "Shaman's Blues",
+      "url": "https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil"
+    },
+    {
+      "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 546304,
+      "name": "Ships With Sails - Live 1972",
+      "url": "https://open.spotify.com/track/0hwYcIHthQpv0jl9tfYjZ3"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Soul Kitchen",
+      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Spanish Caravan",
+      "url": "https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Strange Days",
+      "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199426,
+      "name": "Summer's Almost Gone",
+      "url": "https://open.spotify.com/track/657O4nJxZktsNDvBimhZ0i"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 134933,
+      "name": "Take It as It Comes",
+      "url": "https://open.spotify.com/track/4pxHVL0syMQwYK3BxDaTIs"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "Tell All the People",
+      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259265,
+      "name": "The Changeling",
+      "url": "https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "The Crystal Ship",
+      "url": "https://open.spotify.com/track/0gWvVB4bGvADocoPMEDy3K"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 703373,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 514640,
+      "name": "The Soft Parade",
+      "url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "The Unknown Soldier",
+      "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
+    },
+    {
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 253973,
+      "name": "The WASP (Texas Radio and the Big Beat)",
+      "url": "https://open.spotify.com/track/6ieXnWm8uineF8k9Ugn5DG"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 151666,
+      "name": "Twentieth Century Fox",
+      "url": "https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 117066,
+      "name": "Unhappy Girl",
+      "url": "https://open.spotify.com/track/7MW3s6XnZua7CNQAfmdGe8"
+    },
+    {
+      "album": {
+        "name": "Absolutely Live",
+        "url": "https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 294866,
+      "name": "Universal Mind - Live",
+      "url": "https://open.spotify.com/track/26ZF6lHwjmb9Peq8jdbKUi"
+    },
+    {
+      "album": {
+        "name": "Spirits (Live 1972)",
+        "url": "https://open.spotify.com/album/58uO6Ij934R3FAo6oop5Hw"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 430805,
+      "name": "Verdillac - Live 1972",
+      "url": "https://open.spotify.com/track/0Bsm78b7ixlm4XP07MBImt"
+    },
+    {
+      "album": {
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 659266,
+      "name": "When the Music's Over",
+      "url": "https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl"
+    },
+    {
+      "album": {
+        "name": "Absolutely Live",
+        "url": "https://open.spotify.com/album/0BgWlAKJAn8VQKRKIdx9ul"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 362693,
+      "name": "Who Do You Love - Live",
+      "url": "https://open.spotify.com/track/4qNwlHuX0fsUggSaJkNf2q"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
+    },
+    {
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "Wishful Sinful",
+      "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
+    },
+    {
+      "album": {
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30893,
+      "name": "Yachting (Hyper)",
+      "url": "https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 154640,
+      "name": "Yes, the River Knows",
+      "url": "https://open.spotify.com/track/6jrzTN8AezZ9SgE2UMb9tE"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "You're Lost Little Girl",
+      "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19UBIk"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,987 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,500 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 38 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 | 39 | [Pardonne\-moi](https://open.spotify.com/track/7jDmxUkdq4n3CHL6aLNJla) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 3:07 |
 | 40 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 41 | [Katchi \- Ofenbach vs\. Nick Waterhouse](https://open.spotify.com/track/2NF8A7C6tICScdRaZ0BrEe) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Katchi \(Ofenbach vs\. Nick Waterhouse\)](https://open.spotify.com/album/7fJMKBNqYWhvWDs560x6nn) | 2:31 |
-| 42 | [Bim Bam toi](https://open.spotify.com/track/33NTeQz7sVYLmkJ1k8GsVR) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Bim Bam toi](https://open.spotify.com/album/7AvOontpgfp5rWjYLzN8hY) | 2:55 |
-| 43 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
+| 41 | [La même](https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Ceinture noire](https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl) | 3:20 |
+| 42 | [Katchi \- Ofenbach vs\. Nick Waterhouse](https://open.spotify.com/track/2NF8A7C6tICScdRaZ0BrEe) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Katchi \(Ofenbach vs\. Nick Waterhouse\)](https://open.spotify.com/album/7fJMKBNqYWhvWDs560x6nn) | 2:31 |
+| 43 | [Bim Bam toi](https://open.spotify.com/track/33NTeQz7sVYLmkJ1k8GsVR) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Bim Bam toi](https://open.spotify.com/album/7AvOontpgfp5rWjYLzN8hY) | 2:55 |
 | 44 | [Le coach \(feat\. Vincenzo\)](https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Vincenzo](https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP) | [Phoenix](https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu) | 3:20 |
 | 45 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 |
 | 46 | [Tic Tac](https://open.spotify.com/track/0y9GkH3ISgqAU6XmUVok7Q) | [Enzo](https://open.spotify.com/artist/1kEXZbPvFk6qnSeyspHvf4) | [Tic Tac](https://open.spotify.com/album/6zHdQHpxqfNBQncJB3m4KW) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 49 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
 | 50 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 |
 
-Snapshot ID: `MCw5YjZiNWJmYzBmZmYxODMxY2Q0MmZlMjhjZDg0NmM5NDg4OTQ5YmE5`
+Snapshot ID: `MCw1YWUzNTJiMjUyODcyOTY5OTkyNzdjYjI5NTg5NDc4YjAwYTA0NjRl`

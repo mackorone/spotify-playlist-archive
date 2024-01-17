@@ -1,672 +1,1501 @@
 {
-  "2022-02-25": 655,
-  "2022-02-26": 672,
-  "2022-02-27": 681,
-  "2022-02-28": 681,
-  "2022-03-01": 687,
-  "2022-03-02": 695,
-  "2022-03-03": 697,
-  "2022-03-04": 702,
-  "2022-03-05": 706,
-  "2022-03-06": 711,
-  "2022-03-07": 711,
-  "2022-03-08": 716,
-  "2022-03-09": 720,
-  "2022-03-10": 728,
-  "2022-03-11": 730,
-  "2022-03-12": 738,
-  "2022-03-13": 742,
-  "2022-03-14": 747,
-  "2022-03-15": 753,
-  "2022-03-16": 755,
-  "2022-03-17": 763,
-  "2022-03-18": 766,
-  "2022-03-19": 768,
-  "2022-03-20": 768,
-  "2022-03-21": 772,
-  "2022-03-22": 777,
-  "2022-03-23": 779,
-  "2022-03-24": 781,
-  "2022-03-25": 787,
-  "2022-03-26": 793,
-  "2022-03-27": 796,
-  "2022-03-28": 797,
-  "2022-03-30": 807,
-  "2022-03-31": 808,
-  "2022-04-01": 810,
-  "2022-04-02": 815,
-  "2022-04-03": 822,
-  "2022-04-04": 829,
-  "2022-04-05": 831,
-  "2022-04-06": 832,
-  "2022-04-07": 835,
-  "2022-04-08": 839,
-  "2022-04-09": 842,
-  "2022-04-10": 851,
-  "2022-04-11": 853,
-  "2022-04-12": 853,
-  "2022-04-13": 856,
-  "2022-04-14": 859,
-  "2022-04-15": 860,
-  "2022-04-16": 864,
-  "2022-04-17": 870,
-  "2022-04-18": 869,
-  "2022-04-19": 873,
-  "2022-04-20": 877,
-  "2022-04-21": 884,
-  "2022-04-22": 892,
-  "2022-04-23": 900,
-  "2022-04-24": 904,
-  "2022-04-25": 908,
-  "2022-04-26": 912,
-  "2022-04-27": 919,
-  "2022-04-28": 924,
-  "2022-04-29": 928,
-  "2022-04-30": 931,
-  "2022-05-01": 932,
-  "2022-05-02": 932,
-  "2022-05-03": 936,
-  "2022-05-04": 938,
-  "2022-05-05": 946,
-  "2022-05-06": 947,
-  "2022-05-07": 953,
-  "2022-05-08": 958,
-  "2022-05-09": 959,
-  "2022-05-10": 960,
-  "2022-05-11": 965,
-  "2022-05-12": 968,
-  "2022-05-13": 972,
-  "2022-05-14": 975,
-  "2022-05-15": 982,
-  "2022-05-16": 982,
-  "2022-05-17": 986,
-  "2022-05-18": 988,
-  "2022-05-19": 992,
-  "2022-05-20": 996,
-  "2022-05-21": 1002,
-  "2022-05-22": 1002,
-  "2022-05-23": 1008,
-  "2022-05-24": 1012,
-  "2022-05-25": 1015,
-  "2022-05-26": 1018,
-  "2022-05-27": 1018,
-  "2022-05-28": 1022,
-  "2022-05-29": 1025,
-  "2022-05-30": 1030,
-  "2022-05-31": 1039,
-  "2022-06-01": 1046,
-  "2022-06-02": 1047,
-  "2022-06-03": 1049,
-  "2022-06-04": 1049,
-  "2022-06-05": 1051,
-  "2022-06-06": 1053,
-  "2022-06-07": 1054,
-  "2022-06-08": 1058,
-  "2022-06-09": 1058,
-  "2022-06-10": 1062,
-  "2022-06-11": 1063,
-  "2022-06-12": 1068,
-  "2022-06-13": 1070,
-  "2022-06-14": 1070,
-  "2022-06-15": 1069,
-  "2022-06-16": 1073,
-  "2022-06-17": 1076,
-  "2022-06-18": 1079,
-  "2022-06-19": 1084,
-  "2022-06-20": 1084,
-  "2022-06-21": 1092,
-  "2022-06-22": 1105,
-  "2022-06-23": 1105,
-  "2022-06-24": 1108,
-  "2022-06-25": 1108,
-  "2022-06-26": 1111,
-  "2022-06-27": 1117,
-  "2022-06-28": 1120,
-  "2022-06-29": 1125,
-  "2022-06-30": 1127,
-  "2022-07-01": 1128,
-  "2022-07-02": 1137,
-  "2022-07-03": 1142,
-  "2022-07-04": 1148,
-  "2022-07-05": 1153,
-  "2022-07-06": 1153,
-  "2022-07-07": 1156,
-  "2022-07-08": 1159,
-  "2022-07-09": 1161,
-  "2022-07-10": 1163,
-  "2022-07-11": 1166,
-  "2022-07-12": 1168,
-  "2022-07-13": 1169,
-  "2022-07-14": 1174,
-  "2022-07-15": 1181,
-  "2022-07-16": 1184,
-  "2022-07-17": 1187,
-  "2022-07-18": 1187,
-  "2022-07-19": 1192,
-  "2022-07-20": 1194,
-  "2022-07-21": 1197,
-  "2022-07-22": 1201,
-  "2022-07-23": 1202,
-  "2022-07-24": 1203,
-  "2022-07-25": 1208,
-  "2022-07-26": 1211,
-  "2022-07-27": 1216,
-  "2022-07-28": 1219,
-  "2022-07-29": 1221,
-  "2022-07-30": 1223,
-  "2022-07-31": 1223,
-  "2022-08-01": 1225,
-  "2022-08-02": 1234,
-  "2022-08-03": 1234,
-  "2022-08-04": 1235,
-  "2022-08-05": 1239,
-  "2022-08-06": 1242,
-  "2022-08-07": 1243,
-  "2022-08-08": 1248,
-  "2022-08-09": 1253,
-  "2022-08-10": 1257,
-  "2022-08-11": 1261,
-  "2022-08-12": 1262,
-  "2022-08-13": 1266,
-  "2022-08-14": 1270,
-  "2022-08-15": 1270,
-  "2022-08-16": 1270,
-  "2022-08-17": 1275,
-  "2022-08-18": 1280,
-  "2022-08-20": 1282,
-  "2022-08-21": 1288,
-  "2022-08-22": 1288,
-  "2022-08-23": 1291,
-  "2022-08-24": 1292,
-  "2022-08-25": 1293,
-  "2022-08-26": 1299,
-  "2022-08-27": 1302,
-  "2022-08-28": 1305,
-  "2022-08-29": 1311,
-  "2022-08-30": 1315,
-  "2022-08-31": 1316,
-  "2022-09-01": 1319,
-  "2022-09-02": 1323,
-  "2022-09-03": 1325,
-  "2022-09-04": 1329,
-  "2022-09-05": 1328,
-  "2022-09-06": 1333,
-  "2022-09-07": 1337,
-  "2022-09-09": 1338,
-  "2022-09-10": 1340,
-  "2022-09-11": 1343,
-  "2022-09-12": 1346,
-  "2022-09-13": 1347,
-  "2022-09-15": 1351,
-  "2022-09-16": 1356,
-  "2022-09-17": 1356,
-  "2022-09-18": 1360,
-  "2022-09-19": 1364,
-  "2022-09-20": 1366,
-  "2022-09-21": 1375,
-  "2022-09-22": 1376,
-  "2022-09-23": 1378,
-  "2022-09-24": 1379,
-  "2022-09-25": 1384,
-  "2022-09-26": 1387,
-  "2022-09-27": 1390,
-  "2022-09-28": 1392,
-  "2022-09-29": 1397,
-  "2022-09-30": 1400,
-  "2022-10-01": 1404,
-  "2022-10-02": 1406,
-  "2022-10-03": 1408,
-  "2022-10-04": 1411,
-  "2022-10-05": 1415,
-  "2022-10-06": 1415,
-  "2022-10-07": 1417,
-  "2022-10-08": 1421,
-  "2022-10-09": 1423,
-  "2022-10-10": 1425,
-  "2022-10-11": 1427,
-  "2022-10-12": 1428,
-  "2022-10-13": 1428,
-  "2022-10-14": 1429,
-  "2022-10-15": 1431,
-  "2022-10-16": 1433,
-  "2022-10-17": 1434,
-  "2022-10-18": 1436,
-  "2022-10-19": 1437,
-  "2022-10-20": 1439,
-  "2022-10-21": 1440,
-  "2022-10-22": 1442,
-  "2022-10-23": 1444,
-  "2022-10-24": 1447,
-  "2022-10-25": 1452,
-  "2022-10-26": 1455,
-  "2022-10-27": 1456,
-  "2022-10-28": 1458,
-  "2022-10-29": 1460,
-  "2022-10-30": 1465,
-  "2022-10-31": 1467,
-  "2022-11-01": 1470,
-  "2022-11-02": 1471,
-  "2022-11-03": 1473,
-  "2022-11-04": 1474,
-  "2022-11-05": 1475,
-  "2022-11-06": 1477,
-  "2022-11-07": 1480,
-  "2022-11-08": 1482,
-  "2022-11-09": 1484,
-  "2022-11-10": 1485,
-  "2022-11-11": 1487,
-  "2022-11-12": 1493,
-  "2022-11-13": 1495,
-  "2022-11-14": 1495,
-  "2022-11-15": 1501,
-  "2022-11-16": 1512,
-  "2022-11-17": 1520,
-  "2022-11-18": 1523,
-  "2022-11-19": 1527,
-  "2022-11-20": 1532,
-  "2022-11-21": 1539,
-  "2022-11-22": 1545,
-  "2022-11-23": 1549,
-  "2022-11-24": 1557,
-  "2022-11-25": 1564,
-  "2022-11-26": 1576,
-  "2022-11-27": 1578,
-  "2022-11-28": 1584,
-  "2022-11-29": 1591,
-  "2022-11-30": 1599,
-  "2022-12-01": 1605,
-  "2022-12-02": 1610,
-  "2022-12-03": 1618,
-  "2022-12-04": 1625,
-  "2022-12-05": 1641,
-  "2022-12-06": 1664,
-  "2022-12-07": 1677,
-  "2022-12-08": 1681,
-  "2022-12-09": 1691,
-  "2022-12-10": 1695,
-  "2022-12-11": 1702,
-  "2022-12-12": 1709,
-  "2022-12-13": 1715,
-  "2022-12-14": 1722,
-  "2022-12-15": 1728,
-  "2022-12-16": 1730,
-  "2022-12-17": 1734,
-  "2022-12-18": 1738,
-  "2022-12-19": 1746,
-  "2022-12-20": 1759,
-  "2022-12-21": 1759,
-  "2022-12-22": 1770,
-  "2022-12-24": 1784,
-  "2022-12-25": 1791,
-  "2022-12-26": 1795,
-  "2022-12-27": 1800,
-  "2022-12-28": 1806,
-  "2022-12-29": 1808,
-  "2022-12-30": 1820,
-  "2022-12-31": 1823,
-  "2023-01-01": 1822,
-  "2023-01-02": 1827,
-  "2023-01-03": 1830,
-  "2023-01-04": 1833,
-  "2023-01-05": 1837,
-  "2023-01-06": 1841,
-  "2023-01-07": 1848,
-  "2023-01-08": 1851,
-  "2023-01-09": 1857,
-  "2023-01-10": 1862,
-  "2023-01-11": 1861,
-  "2023-01-12": 1866,
-  "2023-01-13": 1868,
-  "2023-01-14": 1877,
-  "2023-01-15": 1878,
-  "2023-01-16": 1881,
-  "2023-01-17": 1884,
-  "2023-01-18": 1886,
-  "2023-01-19": 1890,
-  "2023-01-20": 1898,
-  "2023-01-21": 1899,
-  "2023-01-22": 1900,
-  "2023-01-23": 1907,
-  "2023-01-24": 1913,
-  "2023-01-25": 1915,
-  "2023-01-26": 1923,
-  "2023-01-27": 1929,
-  "2023-01-28": 1937,
-  "2023-01-29": 1943,
-  "2023-01-30": 1946,
-  "2023-01-31": 1946,
-  "2023-02-01": 1950,
-  "2023-02-02": 1950,
-  "2023-02-03": 1964,
-  "2023-02-04": 1981,
-  "2023-02-05": 1988,
-  "2023-02-06": 1994,
-  "2023-02-07": 2004,
-  "2023-02-08": 2025,
-  "2023-02-09": 2025,
-  "2023-02-10": 2030,
-  "2023-02-11": 2039,
-  "2023-02-12": 2058,
-  "2023-02-13": 2064,
-  "2023-02-14": 2064,
-  "2023-02-15": 2072,
-  "2023-02-16": 2082,
-  "2023-02-17": 2089,
-  "2023-02-18": 2101,
-  "2023-02-19": 2104,
-  "2023-02-20": 2112,
-  "2023-02-21": 2118,
-  "2023-02-22": 2130,
-  "2023-02-23": 2134,
-  "2023-02-24": 2146,
-  "2023-02-25": 2161,
-  "2023-02-26": 2166,
-  "2023-02-27": 2184,
-  "2023-02-28": 2184,
-  "2023-03-01": 2192,
-  "2023-03-02": 2196,
-  "2023-03-03": 2202,
-  "2023-03-04": 2209,
-  "2023-03-05": 2222,
-  "2023-03-06": 2222,
-  "2023-03-07": 2229,
-  "2023-03-08": 2232,
-  "2023-03-09": 2241,
-  "2023-03-10": 2245,
-  "2023-03-11": 2248,
-  "2023-03-12": 2253,
-  "2023-03-13": 2256,
-  "2023-03-14": 2260,
-  "2023-03-15": 2267,
-  "2023-03-16": 2274,
-  "2023-03-17": 2274,
-  "2023-03-18": 2296,
-  "2023-03-19": 2302,
-  "2023-03-20": 2304,
-  "2023-03-21": 2305,
-  "2023-03-22": 2311,
-  "2023-03-23": 2316,
-  "2023-03-24": 2316,
-  "2023-03-25": 2337,
-  "2023-03-26": 2347,
-  "2023-03-27": 2351,
-  "2023-03-28": 2365,
-  "2023-03-29": 2375,
-  "2023-03-30": 2386,
-  "2023-03-31": 2386,
-  "2023-04-01": 2391,
-  "2023-04-02": 2393,
-  "2023-04-03": 2401,
-  "2023-04-04": 2405,
-  "2023-04-05": 2412,
-  "2023-04-06": 2417,
-  "2023-04-07": 2428,
-  "2023-04-09": 2443,
-  "2023-04-10": 2450,
-  "2023-04-11": 2467,
-  "2023-04-12": 2467,
-  "2023-04-13": 2482,
-  "2023-04-14": 2497,
-  "2023-04-15": 2505,
-  "2023-04-16": 2513,
-  "2023-04-17": 2526,
-  "2023-04-18": 2537,
-  "2023-04-19": 2543,
-  "2023-04-20": 2554,
-  "2023-04-21": 2558,
-  "2023-04-22": 2572,
-  "2023-04-23": 2579,
-  "2023-04-24": 2585,
-  "2023-04-25": 2596,
-  "2023-04-26": 2602,
-  "2023-04-27": 2607,
-  "2023-04-28": 2609,
-  "2023-04-29": 2614,
-  "2023-04-30": 2620,
-  "2023-05-01": 2622,
-  "2023-05-02": 2624,
-  "2023-05-03": 2626,
-  "2023-05-04": 2631,
-  "2023-05-05": 2635,
-  "2023-05-06": 2645,
-  "2023-05-07": 2651,
-  "2023-05-08": 2652,
-  "2023-05-09": 2656,
-  "2023-05-10": 2658,
-  "2023-05-11": 2665,
-  "2023-05-12": 2670,
-  "2023-05-13": 2673,
-  "2023-05-14": 2677,
-  "2023-05-15": 2685,
-  "2023-05-16": 2688,
-  "2023-05-17": 2698,
-  "2023-05-18": 2704,
-  "2023-05-19": 2707,
-  "2023-05-20": 2720,
-  "2023-05-21": 2720,
-  "2023-05-22": 2720,
-  "2023-05-23": 2789,
-  "2023-05-24": 2795,
-  "2023-05-25": 2799,
-  "2023-05-26": 2808,
-  "2023-05-27": 2813,
-  "2023-05-28": 2817,
-  "2023-05-29": 2817,
-  "2023-05-30": 2824,
-  "2023-05-31": 2828,
-  "2023-06-01": 2834,
-  "2023-06-02": 2841,
-  "2023-06-03": 2845,
-  "2023-06-04": 2855,
-  "2023-06-05": 2857,
-  "2023-06-06": 2863,
-  "2023-06-07": 2869,
-  "2023-06-08": 2874,
-  "2023-06-09": 2875,
-  "2023-06-10": 2878,
-  "2023-06-11": 2883,
-  "2023-06-12": 2885,
-  "2023-06-13": 2891,
-  "2023-06-14": 2894,
-  "2023-06-15": 2895,
-  "2023-06-16": 2899,
-  "2023-06-17": 2903,
-  "2023-06-18": 2907,
-  "2023-06-19": 2914,
-  "2023-06-20": 2922,
-  "2023-06-21": 2927,
-  "2023-06-22": 2928,
-  "2023-06-23": 2932,
-  "2023-06-24": 2939,
-  "2023-06-25": 2942,
-  "2023-06-26": 2946,
-  "2023-06-27": 2948,
-  "2023-06-28": 2952,
-  "2023-06-29": 2960,
-  "2023-06-30": 2962,
-  "2023-07-01": 2985,
-  "2023-07-02": 2985,
-  "2023-07-03": 2989,
-  "2023-07-04": 2994,
-  "2023-07-05": 3004,
-  "2023-07-06": 3013,
-  "2023-07-07": 3013,
-  "2023-07-08": 3020,
-  "2023-07-09": 3023,
-  "2023-07-10": 3027,
-  "2023-07-11": 3036,
-  "2023-07-12": 3044,
-  "2023-07-13": 3049,
-  "2023-07-14": 3056,
-  "2023-07-15": 3058,
-  "2023-07-16": 3065,
-  "2023-07-17": 3073,
-  "2023-07-18": 3079,
-  "2023-07-19": 3088,
-  "2023-07-20": 3092,
-  "2023-07-21": 3099,
-  "2023-07-22": 3107,
-  "2023-07-23": 3119,
-  "2023-07-24": 3122,
-  "2023-07-25": 3127,
-  "2023-07-26": 3134,
-  "2023-07-27": 3144,
-  "2023-07-28": 3151,
-  "2023-07-29": 3156,
-  "2023-07-30": 3162,
-  "2023-07-31": 3169,
-  "2023-08-01": 3172,
-  "2023-08-02": 3181,
-  "2023-08-03": 3186,
-  "2023-08-04": 3191,
-  "2023-08-05": 3202,
-  "2023-08-06": 3213,
-  "2023-08-07": 3213,
-  "2023-08-08": 3217,
-  "2023-08-09": 3218,
-  "2023-08-10": 3224,
-  "2023-08-11": 3227,
-  "2023-08-12": 3233,
-  "2023-08-13": 3239,
-  "2023-08-14": 3243,
-  "2023-08-15": 3251,
-  "2023-08-16": 3251,
-  "2023-08-17": 3254,
-  "2023-08-18": 3258,
-  "2023-08-19": 3262,
-  "2023-08-20": 3268,
-  "2023-08-21": 3275,
-  "2023-08-22": 3279,
-  "2023-08-23": 3284,
-  "2023-08-24": 3294,
-  "2023-08-25": 3298,
-  "2023-08-26": 3300,
-  "2023-08-27": 3305,
-  "2023-08-28": 3312,
-  "2023-08-29": 3316,
-  "2023-08-30": 3319,
-  "2023-08-31": 3322,
-  "2023-09-01": 3329,
-  "2023-09-02": 3329,
-  "2023-09-03": 3333,
-  "2023-09-04": 3336,
-  "2023-09-05": 3337,
-  "2023-09-06": 3341,
-  "2023-09-07": 3344,
-  "2023-09-08": 3348,
-  "2023-09-09": 3356,
-  "2023-09-10": 3362,
-  "2023-09-11": 3365,
-  "2023-09-12": 3370,
-  "2023-09-13": 3374,
-  "2023-09-14": 3376,
-  "2023-09-15": 3379,
-  "2023-09-16": 3386,
-  "2023-09-17": 3386,
-  "2023-09-18": 3397,
-  "2023-09-19": 3401,
-  "2023-09-20": 3403,
-  "2023-09-21": 3411,
-  "2023-09-22": 3415,
-  "2023-09-23": 3420,
-  "2023-09-24": 3420,
-  "2023-09-25": 3420,
-  "2023-09-26": 3431,
-  "2023-09-27": 3433,
-  "2023-09-28": 3437,
-  "2023-09-29": 3446,
-  "2023-09-30": 3446,
-  "2023-10-01": 3457,
-  "2023-10-02": 3465,
-  "2023-10-03": 3467,
-  "2023-10-04": 3468,
-  "2023-10-05": 3471,
-  "2023-10-06": 3481,
-  "2023-10-07": 3485,
-  "2023-10-08": 3492,
-  "2023-10-09": 3492,
-  "2023-10-10": 3501,
-  "2023-10-11": 3510,
-  "2023-10-12": 3510,
-  "2023-10-13": 3515,
-  "2023-10-14": 3515,
-  "2023-10-15": 3515,
-  "2023-10-16": 3515,
-  "2023-10-17": 3515,
-  "2023-10-18": 3515,
-  "2023-10-19": 3515,
-  "2023-10-20": 3515,
-  "2023-10-21": 3515,
-  "2023-10-22": 3515,
-  "2023-10-23": 3515,
-  "2023-10-24": 3581,
-  "2023-10-25": 3581,
-  "2023-10-26": 3581,
-  "2023-10-27": 3581,
-  "2023-10-28": 3581,
-  "2023-10-29": 3581,
-  "2023-10-30": 3581,
-  "2023-10-31": 3581,
-  "2023-11-01": 3581,
-  "2023-11-02": 3581,
-  "2023-11-03": 3581,
-  "2023-11-04": 3581,
-  "2023-11-05": 3581,
-  "2023-11-06": 3581,
-  "2023-11-07": 3581,
-  "2023-11-08": 3581,
-  "2023-11-09": 3581,
-  "2023-11-10": 3581,
-  "2023-11-11": 3662,
-  "2023-11-12": 3662,
-  "2023-11-13": 3662,
-  "2023-11-14": 3662,
-  "2023-11-15": 3662,
-  "2023-11-16": 3662,
-  "2023-11-17": 3697,
-  "2023-11-18": 3697,
-  "2023-11-19": 3697,
-  "2023-11-20": 3697,
-  "2023-11-21": 3697,
-  "2023-11-22": 3697,
-  "2023-11-23": 3723,
-  "2023-11-24": 3723,
-  "2023-11-25": 3723,
-  "2023-11-26": 3723,
-  "2023-11-27": 3723,
-  "2023-11-28": 3723,
-  "2023-11-29": 3723,
-  "2023-11-30": 3723,
-  "2023-12-01": 3723,
-  "2023-12-02": 3723,
-  "2023-12-03": 3723,
-  "2023-12-04": 3723,
-  "2023-12-05": 3723,
-  "2023-12-06": 3723,
-  "2023-12-07": 3723,
-  "2023-12-08": 3723,
-  "2023-12-09": 3815,
-  "2023-12-10": 3815,
-  "2023-12-11": 3830,
-  "2023-12-12": 3830,
-  "2023-12-13": 3830,
-  "2023-12-14": 3841,
-  "2023-12-15": 3853,
-  "2023-12-16": 3861,
-  "2023-12-17": 3869,
-  "2023-12-18": 3875,
-  "2023-12-19": 3880,
-  "2023-12-20": 3884,
-  "2023-12-21": 3888,
-  "2023-12-22": 3897,
-  "2023-12-23": 3905,
-  "2023-12-24": 3911,
-  "2023-12-25": 3923,
-  "2023-12-26": 3928,
-  "2023-12-27": 3930,
-  "2023-12-30": 3941,
-  "2023-12-31": 3947,
-  "2024-01-01": 3949,
-  "2024-01-02": 3955,
-  "2024-01-03": 3963
+  "2024-01-17": 4056,
+  "date_first_scraped": "2022-02-25",
+  "description": "Go-Go Music from the heart of Washington, DC. Cover, New Impressionz by Jay Kyri",
+  "name": "GO-GO",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Gift & the Curse",
+        "url": "https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G"
+      },
+      "artists": [
+        {
+          "name": "ABM Band",
+          "url": "https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 149655,
+      "name": "09 Slowbounce Time",
+      "url": "https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io"
+    },
+    {
+      "album": {
+        "name": "The Gift & The Curse: The People's Game and The Games Curse",
+        "url": "https://open.spotify.com/album/7G3Ek7KMYZ3x6iQovxVHQH"
+      },
+      "artists": [
+        {
+          "name": "ABM Slow Bounce Kingz",
+          "url": "https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149263,
+      "name": "09 Slowbounce Time",
+      "url": "https://open.spotify.com/track/1sAXFMCjEmDZ5J6XqgMVWU"
+    },
+    {
+      "album": {
+        "name": "The Xperience (Live)",
+        "url": "https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4"
+      },
+      "artists": [
+        {
+          "name": "The Full Bump",
+          "url": "https://open.spotify.com/artist/65jSGg8uFsWlplXmWgaBpp"
+        },
+        {
+          "name": "Big Action",
+          "url": "https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194847,
+      "name": "9-5 - Live",
+      "url": "https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R"
+    },
+    {
+      "album": {
+        "name": "Street Antidote",
+        "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391078,
+      "name": "96 Dope Jam",
+      "url": "https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc"
+    },
+    {
+      "album": {
+        "name": "Street Antidote",
+        "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243277,
+      "name": "97 Dope Jam",
+      "url": "https://open.spotify.com/track/4FtownzRpVQK8RCEv9VWPy"
+    },
+    {
+      "album": {
+        "name": "Baby Don't You Go Go",
+        "url": "https://open.spotify.com/album/64BTgu6zU2XBRYzfqNvt9P"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Rare Essence",
+          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186967,
+      "name": "Baby Don't You Go Go",
+      "url": "https://open.spotify.com/track/5RDSQFf8ZQ7O9i3vGueU1Z"
+    },
+    {
+      "album": {
+        "name": "The Gift & the Curse",
+        "url": "https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G"
+      },
+      "artists": [
+        {
+          "name": "ABM Band",
+          "url": "https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Bay Bay",
+      "url": "https://open.spotify.com/track/20U5607alwSWGjXsVLItfd"
+    },
+    {
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355346,
+      "name": "Bazzoka Bottoms",
+      "url": "https://open.spotify.com/track/0vDwogPa3ZyxOzbzHCijdS"
+    },
+    {
+      "album": {
+        "name": "Beat Box 2 (GoGo Bounce)",
+        "url": "https://open.spotify.com/album/2Ve4zTxQrJJ1FvKol5C40H"
+      },
+      "artists": [
+        {
+          "name": "Drew Keys",
+          "url": "https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219890,
+      "name": "Beat Box 2 (GoGo Bounce)",
+      "url": "https://open.spotify.com/track/5ha48o7UoK8E4Mos9eGZfu"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0Es8vWXuh7KaDhO56PzMmy"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211980,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/29RuTRCfXXNmhot7OLq4EQ"
+    },
+    {
+      "album": {
+        "name": "Body Snatchers",
+        "url": "https://open.spotify.com/album/03MnHkvMFqef37sUibcq2G"
+      },
+      "artists": [
+        {
+          "name": "Rare Essence",
+          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363413,
+      "name": "Body Snatchers",
+      "url": "https://open.spotify.com/track/6smyjljSEtD6shLJMYN3d9"
+    },
+    {
+      "album": {
+        "name": "Straight From The Basement",
+        "url": "https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N"
+      },
+      "artists": [
+        {
+          "name": "Northeast Groovers",
+          "url": "https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433693,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP"
+    },
+    {
+      "album": {
+        "name": "Street Antidote",
+        "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468893,
+      "name": "Byb Hello (Bonus Track)",
+      "url": "https://open.spotify.com/track/4T0FAthftPuGCvFF0KsJTV"
+    },
+    {
+      "album": {
+        "name": "Lock Down the Streets",
+        "url": "https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7"
+      },
+      "artists": [
+        {
+          "name": "ABM Band",
+          "url": "https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200568,
+      "name": "Clap for Me",
+      "url": "https://open.spotify.com/track/3KWoxBedjAynqgB7K6GCGI"
+    },
+    {
+      "album": {
+        "name": "TOB LIVE (7-29-2021) Hangars Club",
+        "url": "https://open.spotify.com/album/1jkom7muvHCaKRXaj39lJL"
+      },
+      "artists": [
+        {
+          "name": "TOB",
+          "url": "https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231183,
+      "name": "Clappin Song - Live",
+      "url": "https://open.spotify.com/track/49rD206zawYK1k8C55Z7yI"
+    },
+    {
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "Classy",
+      "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
+    },
+    {
+      "album": {
+        "name": "Only Fans, Vol. 1",
+        "url": "https://open.spotify.com/album/2DnKPmWnaiZD350AHdLljC"
+      },
+      "artists": [
+        {
+          "name": "Big Action",
+          "url": "https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161136,
+      "name": "Club Godzilla",
+      "url": "https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg"
+    },
+    {
+      "album": {
+        "name": "Crew (Remixes)",
+        "url": "https://open.spotify.com/album/1AdUYWD1SvbB87Ikje1pZG"
+      },
+      "artists": [
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260307,
+      "name": "Crew (feat. Brent Faiyaz) - New Impressionz Remix",
+      "url": "https://open.spotify.com/track/47smLvlpCoBOPtjxjiDDYO"
+    },
+    {
+      "album": {
+        "name": "Lost R&B Hits Of The 80S",
+        "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
+      },
+      "artists": [
+        {
+          "name": "E.U.",
+          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314133,
+      "name": "Da Butt",
+      "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
+    },
+    {
+      "album": {
+        "name": "Drop!",
+        "url": "https://open.spotify.com/album/7rBNst31JCowXnswrq6HIR"
+      },
+      "artists": [
+        {
+          "name": "Tone P",
+          "url": "https://open.spotify.com/artist/1OtOMQm0JZCYsv5TO5kgyh"
+        },
+        {
+          "name": "Tony Lewis Jr",
+          "url": "https://open.spotify.com/artist/7jma0qzl1PAmUi89FWFvri"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-21",
+      "duration_ms": 50703,
+      "name": "District Commencement",
+      "url": "https://open.spotify.com/track/6T5oHp9GzaACnaQ964SxYj"
+    },
+    {
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162743,
+      "name": "Don't Say You Will - Live",
+      "url": "https://open.spotify.com/track/42yIi2KXKd5fL2ITdcV3Pr"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv"
+      },
+      "artists": [
+        {
+          "name": "Northeast Groovers",
+          "url": "https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266160,
+      "name": "Drop The Bomb",
+      "url": "https://open.spotify.com/track/651ogESjErYNdRWCto4pjP"
+    },
+    {
+      "album": {
+        "name": "The Lissen Reunion (Live from the Howard Theatre)",
+        "url": "https://open.spotify.com/album/4XfM5TuPEjnzBNFCw7IRvu"
+      },
+      "artists": [
+        {
+          "name": "Lissen",
+          "url": "https://open.spotify.com/artist/2pwNExfabUxSuq6oVFMGp6"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 166226,
+      "name": "Drunk in Love (Live)",
+      "url": "https://open.spotify.com/track/0rpKrFeWyabzT4x58EC0uT"
+    },
+    {
+      "album": {
+        "name": "Live... from Rock n Roll Hotel - DC",
+        "url": "https://open.spotify.com/album/2MkOfsQNSTfKg01ZRnC7V7"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506946,
+      "name": "Excuse Me While I Dance...",
+      "url": "https://open.spotify.com/track/32YlekcvtUel6567UswVfD"
+    },
+    {
+      "album": {
+        "name": "Street Antidote",
+        "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127542,
+      "name": "Fakin Like",
+      "url": "https://open.spotify.com/track/5fYhqJfayNcdIXKkOCMQjA"
+    },
+    {
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Fight Anthem",
+      "url": "https://open.spotify.com/track/1QuwWo8LwESDhHoFGfkhld"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv"
+      },
+      "artists": [
+        {
+          "name": "Northeast Groovers",
+          "url": "https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/1TdGAGrHzWBCNn7p1Ch7zc"
+    },
+    {
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56059,
+      "name": "Found Myself a Clappa 2019 - Live",
+      "url": "https://open.spotify.com/track/6TaUGITKJOhZPA66GKVSuf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj"
+      },
+      "artists": [
+        {
+          "name": "Reaction Band",
+          "url": "https://open.spotify.com/artist/67cjHiRC2gsQWs3G0KZRnE"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445614,
+      "name": "Gucci Bandana",
+      "url": "https://open.spotify.com/track/04GcEOJulJLmz5MJsHRwtU"
+    },
+    {
+      "album": {
+        "name": "DJ Flexx Presents - GO GO 95",
+        "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
+      },
+      "artists": [
+        {
+          "name": "Northeast Groovers",
+          "url": "https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466346,
+      "name": "Hee Hee Haw",
+      "url": "https://open.spotify.com/track/33iTHUJGtgLLIu7qaYTGKc"
+    },
+    {
+      "album": {
+        "name": "Hit the Floor",
+        "url": "https://open.spotify.com/album/0PeJ3LjVw8IilrIQYBzN9Q"
+      },
+      "artists": [
+        {
+          "name": "Rare Essence",
+          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 221607,
+      "name": "Hit the Floor",
+      "url": "https://open.spotify.com/track/1exaZpUIfmgdBstO3DhAY8"
+    },
+    {
+      "album": {
+        "name": "Skillet",
+        "url": "https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 609226,
+      "name": "I Hurd It's The Bomb",
+      "url": "https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04"
+    },
+    {
+      "album": {
+        "name": "I Want a Girl",
+        "url": "https://open.spotify.com/album/2Af2bJBhc5GoZnc3K3PuSj"
+      },
+      "artists": [
+        {
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309159,
+      "name": "I Want a Girl",
+      "url": "https://open.spotify.com/track/7i5AGqf1MX97LzPQLjDbFT"
+    },
+    {
+      "album": {
+        "name": "Lock Down the Streets",
+        "url": "https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7"
+      },
+      "artists": [
+        {
+          "name": "ABM Band",
+          "url": "https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 283402,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN"
+    },
+    {
+      "album": {
+        "name": "Lockdown The Streets",
+        "url": "https://open.spotify.com/album/4aTGArMlHJeQRoyyIovg0Z"
+      },
+      "artists": [
+        {
+          "name": "ABM Slow Bounce Kingz",
+          "url": "https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283389,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/0zv7qVhuh3R0lH25K9c2uS"
+    },
+    {
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/7BpVeonOpbKw7pU7aIPwq0"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46215,
+      "name": "Jersey Anniversary (Sample)",
+      "url": "https://open.spotify.com/track/35PnzA3A5Cd8R1ONTuBVEM"
+    },
+    {
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
+      "duration_ms": 46215,
+      "name": "Jersey Anniversary (Sample)",
+      "url": "https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV"
+    },
+    {
+      "album": {
+        "name": "DJ Flexx Presents - GO GO 95",
+        "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470786,
+      "name": "Keep It Gangsta",
+      "url": "https://open.spotify.com/track/0gQxAFk2tBuJPMiP39VCnU"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj"
+      },
+      "artists": [
+        {
+          "name": "Reaction Band",
+          "url": "https://open.spotify.com/artist/67cjHiRC2gsQWs3G0KZRnE"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360071,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/3wyJydA4NYUVBzi3hZeUt5"
+    },
+    {
+      "album": {
+        "name": "The Lost Bounce Tapes Vol #1",
+        "url": "https://open.spotify.com/album/2RtDOZZBLKXMtnuiZeIs3K"
+      },
+      "artists": [
+        {
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156421,
+      "name": "Lay Ya Head",
+      "url": "https://open.spotify.com/track/0kKEJGrSIPJggcV7ekdsYf"
+    },
+    {
+      "album": {
+        "name": "Let Me Clear My Throat",
+        "url": "https://open.spotify.com/album/1Ezs8SlccViPDEQY55BO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Kool",
+          "url": "https://open.spotify.com/artist/1SWGyp2nxNSyQkRX1eqoUp"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287973,
+      "name": "Let Me Clear My Throat - Live",
+      "url": "https://open.spotify.com/track/7MutmAL7btZWW6S50zgoCQ"
+    },
+    {
+      "album": {
+        "name": "Creepin' Thru Da Hoodz",
+        "url": "https://open.spotify.com/album/7D6SbZrenrKwDGw9qrlaEf"
+      },
+      "artists": [
+        {
+          "name": "Junkyard Band",
+          "url": "https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299933,
+      "name": "Loose Booty",
+      "url": "https://open.spotify.com/track/1iUwuKQEZf2OZeo85IjhAw"
+    },
+    {
+      "album": {
+        "name": "Go Go DC's Best!",
+        "url": "https://open.spotify.com/album/1ChmqzpQITXmigtRjZj53y"
+      },
+      "artists": [
+        {
+          "name": "All-N-1",
+          "url": "https://open.spotify.com/artist/5UGz0ov5npcv9RXsPqcWPJ"
+        },
+        {
+          "name": "AJ",
+          "url": "https://open.spotify.com/artist/1tcAwKSzlAQtR9V0vfSlHB"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310893,
+      "name": "Mandingo",
+      "url": "https://open.spotify.com/track/57tbmtTFmveMXCnlkG5OT3"
+    },
+    {
+      "album": {
+        "name": "DJ Flexx Presents: Last Call",
+        "url": "https://open.spotify.com/album/1XKHMt7GgGS3cpcIY4FQID"
+      },
+      "artists": [
+        {
+          "name": "Mambo Sauce",
+          "url": "https://open.spotify.com/artist/21owmka8qOu7fqjzfmddjY"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260972,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1Ii3072sAlR8dA83gaMwua"
+    },
+    {
+      "album": {
+        "name": "Oh NO Bounce Beat Style",
+        "url": "https://open.spotify.com/album/3HjZwImcxiLakiM11YahcF"
+      },
+      "artists": [
+        {
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211337,
+      "name": "Oh NO Bounce Beat Style",
+      "url": "https://open.spotify.com/track/66ighg5RcjX3HZuZFYtXPd"
+    },
+    {
+      "album": {
+        "name": "One Leg Up",
+        "url": "https://open.spotify.com/album/4f3L4JoL17TXS7OZfMRXXc"
+      },
+      "artists": [
+        {
+          "name": "Pure Elegance",
+          "url": "https://open.spotify.com/artist/1MNXP3xNtL6tvPZKy7RZUw"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604500,
+      "name": "One Leg Up",
+      "url": "https://open.spotify.com/track/5mXQ7uRNyn8Fc1d15v7eC9"
+    },
+    {
+      "album": {
+        "name": "Classic Cuts, Vol. 1",
+        "url": "https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP"
+      },
+      "artists": [
+        {
+          "name": "Rare Essence",
+          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296200,
+      "name": "Overnight Scenario",
+      "url": "https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n"
+    },
+    {
+      "album": {
+        "name": "Own It (GoGo Bounce)",
+        "url": "https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3"
+      },
+      "artists": [
+        {
+          "name": "Don Panama",
+          "url": "https://open.spotify.com/artist/5xhWTTy7Vi5FPDQaUYSIbp"
+        },
+        {
+          "name": "Drew Keys",
+          "url": "https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Own It (GoGo Bounce)",
+      "url": "https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu"
+    },
+    {
+      "album": {
+        "name": "The Best Of X.I.B",
+        "url": "https://open.spotify.com/album/162W23SgvdrRzU1kRSK6nA"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343484,
+      "name": "Panty Dropper",
+      "url": "https://open.spotify.com/track/1YsxO2OnPkU2X8fZyipzRN"
+    },
+    {
+      "album": {
+        "name": "King Shit Vol #1 Live from Aqua Washingtion DC",
+        "url": "https://open.spotify.com/album/4mE0aD0zYPHO1I5z5lwLFI"
+      },
+      "artists": [
+        {
+          "name": "TCB Bounce Beat Kings",
+          "url": "https://open.spotify.com/artist/6QoPapOk9izriQmEGamap3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84551,
+      "name": "Pca Man Poppin'",
+      "url": "https://open.spotify.com/track/4MX7sHMv7uwOOJYyM4TzEn"
+    },
+    {
+      "album": {
+        "name": "Diversity!",
+        "url": "https://open.spotify.com/album/4EjHp2MA2Os0SVpYcDXhei"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248773,
+      "name": "Phatty",
+      "url": "https://open.spotify.com/track/2OQNCinNyjZXcsBQq2R3TR"
+    },
+    {
+      "album": {
+        "name": "Pieces of Me",
+        "url": "https://open.spotify.com/album/0aOVlHaenoEEjKYE1wyC3A"
+      },
+      "artists": [
+        {
+          "name": "Rare Essence",
+          "url": "https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh"
+        },
+        {
+          "name": "Ms. Kim",
+          "url": "https://open.spotify.com/artist/6WVEaZJxVkTRD0KV5wLEX5"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Pieces of Me",
+      "url": "https://open.spotify.com/track/43aFHVa5hwEGf7yAoFapMv"
+    },
+    {
+      "album": {
+        "name": "Pressure. (Live)",
+        "url": "https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276579,
+      "name": "Pressure. - Live",
+      "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
+    },
+    {
+      "album": {
+        "name": "Attention Deficit",
+        "url": "https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Weensey Of Backyard Band",
+          "url": "https://open.spotify.com/artist/48d8y1vS0Ly0R93ReZuDf3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251053,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/5IIu5JtVdXYaqvpCAz9Dis"
+    },
+    {
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 274964,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274964,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/5NBEj5D44lgnNJyKHzAA6K"
+    },
+    {
+      "album": {
+        "name": "By Special Request the Very Best of Chuck Brown",
+        "url": "https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE"
+      },
+      "artists": [
+        {
+          "name": "Chuck Brown and the Soul Searchers",
+          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534146,
+      "name": "Run Joe",
+      "url": "https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5"
+    },
+    {
+      "album": {
+        "name": "Reunion (Live at Martin's Crosswinds Ballroom)",
+        "url": "https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR"
+      },
+      "artists": [
+        {
+          "name": "Junkyard Band",
+          "url": "https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "Sardines",
+      "url": "https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um"
+    },
+    {
+      "album": {
+        "name": "Shawty Clap It (Remix)",
+        "url": "https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285127,
+      "name": "Shawty Clap It (Remix)",
+      "url": "https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg"
+    },
+    {
+      "album": {
+        "name": "Shoot My Shot (New Impressionz Go-Go Edit)",
+        "url": "https://open.spotify.com/album/7xrTMVLRs7w7mIfe6KysDI"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285100,
+      "name": "Shoot My Shot - New Impressionz Go-Go Edit",
+      "url": "https://open.spotify.com/track/2CQ1EzKRWUY3EkVx97jDh5"
+    },
+    {
+      "album": {
+        "name": "DJ Flexx Presents - GO GO 95",
+        "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
+      },
+      "artists": [
+        {
+          "name": "Tcb",
+          "url": "https://open.spotify.com/artist/35TNz9zmB87Ag9jmKWbch3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401746,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI"
+    },
+    {
+      "album": {
+        "name": "THE RUNDOWN VOl.1",
+        "url": "https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN"
+      },
+      "artists": [
+        {
+          "name": "TOB",
+          "url": "https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289437,
+      "name": "Sittin at The Bar",
+      "url": "https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b"
+    },
+    {
+      "album": {
+        "name": "Best of Bag of Beats",
+        "url": "https://open.spotify.com/album/4aZqoQKekEXZx7i0JwbyYg"
+      },
+      "artists": [
+        {
+          "name": "Uncalled 4 Band",
+          "url": "https://open.spotify.com/artist/5t3sAJf2ghaIwJjWukTuEX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581068,
+      "name": "Splash",
+      "url": "https://open.spotify.com/track/1dS3VCsu4WK6RwiTZ5PqVF"
+    },
+    {
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
+      },
+      "artists": [
+        {
+          "name": "New Impressionz",
+          "url": "https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214231,
+      "name": "Takes My Breath Away - Live",
+      "url": "https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig"
+    },
+    {
+      "album": {
+        "name": "FLEXICO",
+        "url": "https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI"
+      },
+      "artists": [
+        {
+          "name": "Marcy Mane",
+          "url": "https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135288,
+      "name": "Tambourina Go Go Bounce",
+      "url": "https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce"
+    },
+    {
+      "album": {
+        "name": "Skillet",
+        "url": "https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F"
+      },
+      "artists": [
+        {
+          "name": "Backyard Band",
+          "url": "https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535066,
+      "name": "Tear The Club Up",
+      "url": "https://open.spotify.com/track/543joO4Z5GEJV2ANiNwOcf"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-20",
+      "duration_ms": 231680,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0oQK98QxIxaFDggvA7sxzO"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/5mYjtBtp79JLS5cR7vVPeE"
+    },
+    {
+      "album": {
+        "name": "The Huck-a-Bucks Live!",
+        "url": "https://open.spotify.com/album/2LfIiVEK3YbRN7SCkrUaHH"
+      },
+      "artists": [
+        {
+          "name": "The Huck-A-Bucks",
+          "url": "https://open.spotify.com/artist/4FvuiKP0S3bvpjrB1AiLij"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "The Bud",
+      "url": "https://open.spotify.com/track/55hSyt21hVdzIVLvqNX1Ma"
+    },
+    {
+      "album": {
+        "name": "Straight from the Basement",
+        "url": "https://open.spotify.com/album/51LT5vzPLIfxs4MdDmPq8A"
+      },
+      "artists": [
+        {
+          "name": "Northeast Groovers",
+          "url": "https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360506,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/3yDUcKMfVRPXugdpRv4oar"
+    },
+    {
+      "album": {
+        "name": "DJ Flexx Presents...www.thatgogo.com",
+        "url": "https://open.spotify.com/album/1JTRloLJa8f3D66wVSoFk7"
+      },
+      "artists": [
+        {
+          "name": "DJ Flexx",
+          "url": "https://open.spotify.com/artist/1xGxKdeIVaVIbwOqSGsNOi"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447733,
+      "name": "The Water Dance",
+      "url": "https://open.spotify.com/track/6DLjYEn27mIjNxJlrTq1ay"
+    },
+    {
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/7BpVeonOpbKw7pU7aIPwq0"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254066,
+      "name": "TwinN'Em",
+      "url": "https://open.spotify.com/track/5n4iYMbRzo18VtETu1dEJn"
+    },
+    {
+      "album": {
+        "name": "The Radio Killaz Vol.2",
+        "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-28",
+      "duration_ms": 254066,
+      "name": "TwinN'Em",
+      "url": "https://open.spotify.com/track/6C0Rpw1AvaVmADNCD1Zhww"
+    },
+    {
+      "album": {
+        "name": "The Lissen Reunion (Live from the Howard Theatre)",
+        "url": "https://open.spotify.com/album/4XfM5TuPEjnzBNFCw7IRvu"
+      },
+      "artists": [
+        {
+          "name": "Lissen",
+          "url": "https://open.spotify.com/artist/2pwNExfabUxSuq6oVFMGp6"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348653,
+      "name": "Uh Oh (Live)",
+      "url": "https://open.spotify.com/track/132H24o7MFtxt6WVKyyB4M"
+    },
+    {
+      "album": {
+        "name": "Tru Expressionz Greatest Hits",
+        "url": "https://open.spotify.com/album/0b4AQ1LPfKyDd5WSGTkdLb"
+      },
+      "artists": [
+        {
+          "name": "Tru Expressionz",
+          "url": "https://open.spotify.com/artist/1MaOfxXN7HEoXz5cus0IOx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290168,
+      "name": "Unthinkable",
+      "url": "https://open.spotify.com/track/3p6pPa10cok7rFffLux60R"
+    },
+    {
+      "album": {
+        "name": "Unwritten (Gogo Groove)",
+        "url": "https://open.spotify.com/album/0H8nd4EJnCzSaOxSwrd31N"
+      },
+      "artists": [
+        {
+          "name": "Drew Keys",
+          "url": "https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm"
+        },
+        {
+          "name": "Johnny Bomb",
+          "url": "https://open.spotify.com/artist/62N3y3zYdyt1Q67pzFh9xW"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241993,
+      "name": "Unwritten (Gogo Groove)",
+      "url": "https://open.spotify.com/track/1djCn8ditilkgapdHzVLxu"
+    },
+    {
+      "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
+      },
+      "artists": [
+        {
+          "name": "CCB (Critical Condition Band)",
+          "url": "https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363680,
+      "name": "Whip Whop",
+      "url": "https://open.spotify.com/track/7vwMWvd6Mp2eu5I6LJK9hf"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 233195,
+      "name": "Whoo Lawd",
+      "url": "https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ"
+    },
+    {
+      "album": {
+        "name": "New Year, Same Crank V.2",
+        "url": "https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI"
+      },
+      "artists": [
+        {
+          "name": "XIB",
+          "url": "https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233195,
+      "name": "Whoo Lawd",
+      "url": "https://open.spotify.com/track/3otN6Lkxw5LeCeu4BR0WcM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcLNIxmtGu8N"
 }

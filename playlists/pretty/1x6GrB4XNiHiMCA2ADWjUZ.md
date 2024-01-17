@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1x6GrB4XNiHiMCA2ADWjUZ.md) - [plain]
 
 > Fuel your workouts with a collection of high\-energy and motivating tracks!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 6,872 likes - 53 songs - 2 hr 37 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 6,869 likes - 53 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/1x6GrB4XNiHiMCA2ADWjUZ.md) - [plain]
 | 52 | [Heartbreak Repair System](https://open.spotify.com/track/5p5DJud2Doyl0gvT6fqETN) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:50 |
 | 53 | [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 |
 
-Snapshot ID: `MjMxMyw3OGJlOTBhMjE0ZTc5NzM2Mzg5NjI2YTlkNGIzNWE2Njg0YzljNGZk`
+Snapshot ID: `MjMxNSwzNzA2ODhkMTY2OWIzYjdjMWQxY2FkZDQzNzNlMDAxYzU0MWIxODg2`

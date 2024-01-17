@@ -2265,6 +2265,24 @@
     },
     {
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ"
+    },
+    {
+      "album": {
         "name": "Beats on Road Vol. 1",
         "url": "https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX"
       },
@@ -3302,6 +3320,28 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+    },
+    {
+      "album": {
+        "name": "I Sing To Find Peace Of Mind (feat. Simbad)",
+        "url": "https://open.spotify.com/album/7vdnIZtiWu3SpdP5pC6hpz"
+      },
+      "artists": [
+        {
+          "name": "LEFTO EARLY BIRD",
+          "url": "https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj"
+        },
+        {
+          "name": "Simbad",
+          "url": "https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "I Sing To Find Peace Of Mind (feat. Simbad)",
+      "url": "https://open.spotify.com/track/2kZWWWMqFKYuYY6ilPS5Ag"
     },
     {
       "album": {
@@ -5500,7 +5540,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161495,
       "name": "RED PILL",
       "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
@@ -7978,7 +8018,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168413,
       "name": "White Out",
       "url": "https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr"

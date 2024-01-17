@@ -1,271 +1,1239 @@
 {
-  "2023-04-07": 259275,
-  "2023-04-09": 259815,
-  "2023-04-10": 260071,
-  "2023-04-11": 260628,
-  "2023-04-12": 260628,
-  "2023-04-13": 260930,
-  "2023-04-14": 261203,
-  "2023-04-15": 261491,
-  "2023-04-16": 261822,
-  "2023-04-17": 262051,
-  "2023-04-18": 262291,
-  "2023-04-19": 262544,
-  "2023-04-20": 262776,
-  "2023-04-21": 263089,
-  "2023-04-22": 263391,
-  "2023-04-23": 263667,
-  "2023-04-24": 263886,
-  "2023-04-25": 264101,
-  "2023-04-26": 264307,
-  "2023-04-27": 264546,
-  "2023-04-28": 264798,
-  "2023-04-29": 265044,
-  "2023-04-30": 265253,
-  "2023-05-01": 265451,
-  "2023-05-02": 265654,
-  "2023-05-03": 265849,
-  "2023-05-04": 266061,
-  "2023-05-05": 266291,
-  "2023-05-06": 266519,
-  "2023-05-07": 266750,
-  "2023-05-08": 266948,
-  "2023-05-09": 267180,
-  "2023-05-10": 267430,
-  "2023-05-11": 267701,
-  "2023-05-12": 267955,
-  "2023-05-13": 268207,
-  "2023-05-14": 268435,
-  "2023-05-15": 268641,
-  "2023-05-16": 268875,
-  "2023-05-17": 269135,
-  "2023-05-18": 269394,
-  "2023-05-19": 269806,
-  "2023-05-20": 270623,
-  "2023-05-21": 270623,
-  "2023-05-22": 270623,
-  "2023-05-23": 271211,
-  "2023-05-24": 271793,
-  "2023-05-25": 271972,
-  "2023-05-26": 272330,
-  "2023-05-27": 272716,
-  "2023-05-28": 273043,
-  "2023-05-29": 273043,
-  "2023-05-30": 273699,
-  "2023-05-31": 274076,
-  "2023-06-01": 274451,
-  "2023-06-02": 274837,
-  "2023-06-03": 275207,
-  "2023-06-04": 275505,
-  "2023-06-05": 275791,
-  "2023-06-06": 276169,
-  "2023-06-07": 276524,
-  "2023-06-08": 276848,
-  "2023-06-09": 277178,
-  "2023-06-10": 277518,
-  "2023-06-11": 277847,
-  "2023-06-12": 278127,
-  "2023-06-13": 278373,
-  "2023-06-14": 278515,
-  "2023-06-15": 278677,
-  "2023-06-16": 56238,
-  "2023-06-17": 56238,
-  "2023-06-18": 56238,
-  "2023-06-19": 56238,
-  "2023-06-20": 56238,
-  "2023-06-21": 56238,
-  "2023-06-22": 280493,
-  "2023-06-23": 280655,
-  "2023-06-24": 280882,
-  "2023-06-25": 281066,
-  "2023-06-26": 281273,
-  "2023-06-27": 281772,
-  "2023-06-28": 282242,
-  "2023-06-29": 282525,
-  "2023-06-30": 282912,
-  "2023-07-01": 283619,
-  "2023-07-02": 283619,
-  "2023-07-03": 284107,
-  "2023-07-04": 284680,
-  "2023-07-05": 285230,
-  "2023-07-06": 286160,
-  "2023-07-07": 286160,
-  "2023-07-08": 286618,
-  "2023-07-09": 286999,
-  "2023-07-10": 287356,
-  "2023-07-11": 287680,
-  "2023-07-12": 288025,
-  "2023-07-13": 288364,
-  "2023-07-14": 288769,
-  "2023-07-15": 289068,
-  "2023-07-16": 289549,
-  "2023-07-17": 289876,
-  "2023-07-18": 290252,
-  "2023-07-19": 290645,
-  "2023-07-20": 291038,
-  "2023-07-21": 291398,
-  "2023-07-22": 291739,
-  "2023-07-23": 292064,
-  "2023-07-24": 292372,
-  "2023-07-25": 292739,
-  "2023-07-26": 293053,
-  "2023-07-27": 293407,
-  "2023-07-28": 293820,
-  "2023-07-29": 294216,
-  "2023-07-30": 294568,
-  "2023-07-31": 294945,
-  "2023-08-01": 295326,
-  "2023-08-02": 295681,
-  "2023-08-03": 296056,
-  "2023-08-04": 296417,
-  "2023-08-05": 296747,
-  "2023-08-06": 297430,
-  "2023-08-07": 297430,
-  "2023-08-08": 297747,
-  "2023-08-09": 298087,
-  "2023-08-10": 298423,
-  "2023-08-11": 298763,
-  "2023-08-12": 299147,
-  "2023-08-13": 299555,
-  "2023-08-14": 299872,
-  "2023-08-15": 300491,
-  "2023-08-16": 300491,
-  "2023-08-17": 300783,
-  "2023-08-18": 301074,
-  "2023-08-19": 301452,
-  "2023-08-20": 301809,
-  "2023-08-21": 302107,
-  "2023-08-22": 302400,
-  "2023-08-23": 302697,
-  "2023-08-24": 303024,
-  "2023-08-25": 303372,
-  "2023-08-26": 303772,
-  "2023-08-27": 304144,
-  "2023-08-28": 304538,
-  "2023-08-29": 305046,
-  "2023-08-30": 305502,
-  "2023-08-31": 305922,
-  "2023-09-01": 306768,
-  "2023-09-02": 306768,
-  "2023-09-03": 307092,
-  "2023-09-04": 307426,
-  "2023-09-05": 307813,
-  "2023-09-06": 308148,
-  "2023-09-07": 308478,
-  "2023-09-08": 308835,
-  "2023-09-09": 309249,
-  "2023-09-10": 309628,
-  "2023-09-11": 309988,
-  "2023-09-12": 310400,
-  "2023-09-13": 310755,
-  "2023-09-14": 311145,
-  "2023-09-15": 311514,
-  "2023-09-16": 311887,
-  "2023-09-17": 312245,
-  "2023-09-18": 312520,
-  "2023-09-19": 312791,
-  "2023-09-20": 313056,
-  "2023-09-21": 313394,
-  "2023-09-22": 313658,
-  "2023-09-23": 313926,
-  "2023-09-24": 314205,
-  "2023-09-25": 314385,
-  "2023-09-26": 314726,
-  "2023-09-27": 314949,
-  "2023-09-28": 315242,
-  "2023-09-29": 315548,
-  "2023-09-30": 315861,
-  "2023-10-01": 316146,
-  "2023-10-02": 316390,
-  "2023-10-03": 316600,
-  "2023-10-04": 316912,
-  "2023-10-05": 317181,
-  "2023-10-06": 317526,
-  "2023-10-07": 317862,
-  "2023-10-08": 318206,
-  "2023-10-09": 318477,
-  "2023-10-10": 318768,
-  "2023-10-11": 319365,
-  "2023-10-12": 319365,
-  "2023-10-13": 319666,
-  "2023-10-14": 319995,
-  "2023-10-15": 320303,
-  "2023-10-16": 320521,
-  "2023-10-17": 320751,
-  "2023-10-18": 320973,
-  "2023-10-19": 321221,
-  "2023-10-20": 321477,
-  "2023-10-21": 321780,
-  "2023-10-22": 322076,
-  "2023-10-23": 322363,
-  "2023-10-24": 322610,
-  "2023-10-25": 322857,
-  "2023-10-26": 323087,
-  "2023-10-27": 323334,
-  "2023-10-28": 323535,
-  "2023-10-29": 323750,
-  "2023-10-30": 324175,
-  "2023-10-31": 324175,
-  "2023-11-01": 324341,
-  "2023-11-02": 324559,
-  "2023-11-03": 324766,
-  "2023-11-04": 325138,
-  "2023-11-05": 325491,
-  "2023-11-06": 325812,
-  "2023-11-07": 326102,
-  "2023-11-08": 326387,
-  "2023-11-09": 326635,
-  "2023-11-10": 326876,
-  "2023-11-11": 327117,
-  "2023-11-12": 327304,
-  "2023-11-13": 327472,
-  "2023-11-14": 327618,
-  "2023-11-15": 327618,
-  "2023-11-16": 327961,
-  "2023-11-17": 328363,
-  "2023-11-18": 328363,
-  "2023-11-19": 328597,
-  "2023-11-20": 328784,
-  "2023-11-21": 328961,
-  "2023-11-22": 329143,
-  "2023-11-23": 329349,
-  "2023-11-24": 329575,
-  "2023-11-25": 329795,
-  "2023-11-26": 329999,
-  "2023-11-27": 330149,
-  "2023-11-28": 330286,
-  "2023-11-29": 330681,
-  "2023-11-30": 330681,
-  "2023-12-01": 330948,
-  "2023-12-02": 331155,
-  "2023-12-03": 331380,
-  "2023-12-04": 331557,
-  "2023-12-05": 331751,
-  "2023-12-06": 331951,
-  "2023-12-07": 332138,
-  "2023-12-08": 332360,
-  "2023-12-09": 332597,
-  "2023-12-10": 332790,
-  "2023-12-11": 332967,
-  "2023-12-12": 333143,
-  "2023-12-13": 333306,
-  "2023-12-14": 333632,
-  "2023-12-15": 333841,
-  "2023-12-16": 334082,
-  "2023-12-17": 334331,
-  "2023-12-18": 334522,
-  "2023-12-19": 334706,
-  "2023-12-20": 334925,
-  "2023-12-21": 335138,
-  "2023-12-22": 335393,
-  "2023-12-23": 335653,
-  "2023-12-24": 335892,
-  "2023-12-25": 336101,
-  "2023-12-26": 336267,
-  "2023-12-27": 336504,
-  "2023-12-30": 337255,
-  "2023-12-31": 337536,
-  "2024-01-01": 337752,
-  "2024-01-02": 337868,
-  "2024-01-03": 338087
+  "2024-01-17": 341409,
+  "date_first_scraped": "2023-04-07",
+  "description": "Soy parte de t\u00ed, tu parte de m\u00ed.",
+  "name": "This Is Nicki Nicole",
+  "tracks": [
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 207050,
+      "name": "7 Lunas",
+      "url": "https://open.spotify.com/track/6j5UAyE6mBdgzneLzyp9zQ"
+    },
+    {
+      "album": {
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
+    },
+    {
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/2jhC10MMbSQ0QjHaFc2pBD"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164300,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uoSTLEtTPF47NWRekbvLH"
+    },
+    {
+      "album": {
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145171,
+      "name": "CAEN LAS ESTRELLAS",
+      "url": "https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt"
+    },
+    {
+      "album": {
+        "name": "OSCURO \u00c9XTASIS",
+        "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158121,
+      "name": "CAMBIANDO LA PIEL",
+      "url": "https://open.spotify.com/track/2y2iEADc8O0Vv5IKHSs21i"
+    },
+    {
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "C\u00f3mo D\u00edmelo",
+      "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237548,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/57V4CXFQ5I5ok4yCDxPEjW"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159967,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 165111,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/0F97TblW07PvE0HuOh2QEu"
+    },
+    {
+      "album": {
+        "name": "DISPARA ***",
+        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143935,
+      "name": "DISPARA ***",
+      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/6kyp35INigDcwXHTKCHoAk"
+    },
+    {
+      "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248881,
+      "name": "Dos D\u00edas en la Vida - EADDA9223 (feat. Lali & Nicki Nicole)",
+      "url": "https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB"
+    },
+    {
+      "album": {
+        "name": "Ella No Es Tuya (Remix)",
+        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Ella No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "album": {
+        "name": "Enam\u00f3rate",
+        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147785,
+      "name": "Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
+    },
+    {
+      "album": {
+        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    {
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
+    },
+    {
+      "album": {
+        "name": "Fucking Diablo",
+        "url": "https://open.spotify.com/album/5yr69KvuQLOaSSrqEgNhdC"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144522,
+      "name": "Fucking Diablo",
+      "url": "https://open.spotify.com/track/5HugdP5zn1KUybBdc1xsdf"
+    },
+    {
+      "album": {
+        "name": "intoxicao",
+        "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
+    },
+    {
+      "album": {
+        "name": "LA TERAPIA REMIX",
+        "url": "https://open.spotify.com/album/6Kppd5kRaSfosl6UFXJqjC"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249871,
+      "name": "LA TERAPIA REMIX",
+      "url": "https://open.spotify.com/track/52KBZ4VX389Dc9J2gaqmSO"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 90110,
+      "name": "LL (Interludio)",
+      "url": "https://open.spotify.com/track/0tDzC964Q6CMFnExDxwKmf"
+    },
+    {
+      "album": {
+        "name": "Mala Vida",
+        "url": "https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160423,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm"
+    },
+    {
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "album": {
+        "name": "Marisola (Remix)",
+        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237473,
+      "name": "Marisola - Remix",
+      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/4xT8BKG51PWefWHmPnm7Wc"
+    },
+    {
+      "album": {
+        "name": "Me Has Dejado",
+        "url": "https://open.spotify.com/album/0HXKAvPTxhQUV8MMC0Kag9"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242285,
+      "name": "Me Has Dejado",
+      "url": "https://open.spotify.com/track/6ojA83SXbJ5BKpJucn3j6R"
+    },
+    {
+      "album": {
+        "name": "Naturaleza",
+        "url": "https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 163000,
+      "name": "Naturaleza",
+      "url": "https://open.spotify.com/track/4Au8XE7B4fdG5LieLLTdP4"
+    },
+    {
+      "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+    },
+    {
+      "album": {
+        "name": "No Toque Mi Naik",
+        "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143925,
+      "name": "No Toque Mi Naik",
+      "url": "https://open.spotify.com/track/0TBbNYzmtCfN5cpZSCVNIz"
+    },
+    {
+      "album": {
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+    },
+    {
+      "album": {
+        "name": "Nobody Like Yo",
+        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Nobody Like Yo",
+      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 157500,
+      "name": "Nos Encontramos",
+      "url": "https://open.spotify.com/track/5XyStEBvkJXazvQdllL1ia"
+    },
+    {
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/4bshN7IkjA4YcKnrx4Ij2G"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/3qW3oIG7ZYzs3Ru5988fP5"
+    },
+    {
+      "album": {
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/7lQMPfBaZEewTGeyPXz46u"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/0zPR15MfQqMMotAnKesKR4"
+    },
+    {
+      "album": {
+        "name": "Pensamos",
+        "url": "https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173514,
+      "name": "Pensamos",
+      "url": "https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226175,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/32lQvhtbF8RHGaja4Maa6d"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198850,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
+    },
+    {
+      "album": {
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "album": {
+        "name": "Por las Noches (Remix)",
+        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222551,
+      "name": "Por las Noches - Remix",
+      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6BMfjQWq48IlYlQVS5BFRK"
+    },
+    {
+      "album": {
+        "name": "Sabe",
+        "url": "https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177655,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/3Fekr3gkWmX25J2m4aVNaC"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201816,
+      "name": "Si Vos Me Lo Ped\u00eds",
+      "url": "https://open.spotify.com/track/41tBj9tQBShbTTQXgKLegM"
+    },
+    {
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182470,
+      "name": "Tengo To",
+      "url": "https://open.spotify.com/track/07Y65et1sMhIcVP4MA7p0R"
+    },
+    {
+      "album": {
+        "name": "Toa la Vida",
+        "url": "https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218969,
+      "name": "Toa la Vida",
+      "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Tras Vos",
+      "url": "https://open.spotify.com/track/6oC8fM5FcQy8Hpw7oQpKEy"
+    },
+    {
+      "album": {
+        "name": "Tu Fan\u00e1tico (Remix)",
+        "url": "https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 214535,
+      "name": "Tu Fan\u00e1tico - Remix",
+      "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "album": {
+        "name": "Venganza",
+        "url": "https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202376,
+      "name": "Venganza",
+      "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+    },
+    {
+      "album": {
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157418,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "album": {
+        "name": "Wapo Traketero",
+        "url": "https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Wapo Traketero",
+      "url": "https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0"
+    },
+    {
+      "album": {
+        "name": "Wapo Traketero (El Paredon Live Session)",
+        "url": "https://open.spotify.com/album/4zSCfICdo6GEMuEDLDs0js"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 181870,
+      "name": "Wapo Traketero - El Paredon Live Session",
+      "url": "https://open.spotify.com/track/1yRYfkGflSPUPodOyB1RTA"
+    },
+    {
+      "album": {
+        "name": "YaMeFui",
+        "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182594,
+      "name": "YaMeFui",
+      "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX649MEn8TxoE"
 }

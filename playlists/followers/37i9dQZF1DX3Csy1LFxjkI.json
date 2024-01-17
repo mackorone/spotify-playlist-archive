@@ -1,735 +1,827 @@
 {
-  "2021-12-25": 471995,
-  "2021-12-26": 472054,
-  "2021-12-27": 472259,
-  "2021-12-28": 472261,
-  "2021-12-29": 472331,
-  "2021-12-30": 472423,
-  "2021-12-31": 472500,
-  "2022-01-01": 472627,
-  "2022-01-02": 472658,
-  "2022-01-03": 472707,
-  "2022-01-04": 472777,
-  "2022-01-05": 472850,
-  "2022-01-06": 472901,
-  "2022-01-07": 472971,
-  "2022-01-08": 473129,
-  "2022-01-09": 473124,
-  "2022-01-10": 473182,
-  "2022-01-11": 473276,
-  "2022-01-12": 473375,
-  "2022-01-13": 473433,
-  "2022-01-14": 473525,
-  "2022-01-15": 473679,
-  "2022-01-16": 473679,
-  "2022-01-17": 473878,
-  "2022-01-18": 473881,
-  "2022-01-19": 473947,
-  "2022-01-20": 474030,
-  "2022-01-21": 474124,
-  "2022-01-22": 474207,
-  "2022-01-23": 474313,
-  "2022-01-24": 474384,
-  "2022-01-25": 474470,
-  "2022-01-26": 474561,
-  "2022-01-27": 474645,
-  "2022-01-28": 474717,
-  "2022-01-29": 474787,
-  "2022-01-30": 474872,
-  "2022-01-31": 474960,
-  "2022-02-01": 475067,
-  "2022-02-02": 475141,
-  "2022-02-03": 475221,
-  "2022-02-04": 475321,
-  "2022-02-05": 475416,
-  "2022-02-06": 475475,
-  "2022-02-07": 475585,
-  "2022-02-08": 475658,
-  "2022-02-09": 475758,
-  "2022-02-10": 475862,
-  "2022-02-11": 475960,
-  "2022-02-12": 476071,
-  "2022-02-13": 476151,
-  "2022-02-14": 476216,
-  "2022-02-15": 476293,
-  "2022-02-16": 476372,
-  "2022-02-17": 476443,
-  "2022-02-18": 476515,
-  "2022-02-19": 476619,
-  "2022-02-20": 476703,
-  "2022-02-21": 476777,
-  "2022-02-22": 476868,
-  "2022-02-23": 476930,
-  "2022-02-24": 477003,
-  "2022-02-25": 477042,
-  "2022-02-26": 477124,
-  "2022-02-27": 477331,
-  "2022-02-28": 477331,
-  "2022-03-01": 477421,
-  "2022-03-02": 477494,
-  "2022-03-03": 477597,
-  "2022-03-04": 477687,
-  "2022-03-05": 477790,
-  "2022-03-06": 477883,
-  "2022-03-07": 477981,
-  "2022-03-08": 478095,
-  "2022-03-09": 478166,
-  "2022-03-10": 478295,
-  "2022-03-11": 478427,
-  "2022-03-12": 478541,
-  "2022-03-13": 478644,
-  "2022-03-14": 478752,
-  "2022-03-15": 478852,
-  "2022-03-16": 478962,
-  "2022-03-17": 479070,
-  "2022-03-18": 479239,
-  "2022-03-19": 479293,
-  "2022-03-20": 479293,
-  "2022-03-21": 479498,
-  "2022-03-22": 479591,
-  "2022-03-23": 479676,
-  "2022-03-24": 479767,
-  "2022-03-25": 479856,
-  "2022-03-26": 479960,
-  "2022-03-27": 480068,
-  "2022-03-28": 480154,
-  "2022-03-30": 480335,
-  "2022-03-31": 480419,
-  "2022-04-01": 480488,
-  "2022-04-02": 480595,
-  "2022-04-03": 480676,
-  "2022-04-04": 480755,
-  "2022-04-05": 480854,
-  "2022-04-06": 480955,
-  "2022-04-07": 481019,
-  "2022-04-08": 481091,
-  "2022-04-09": 481196,
-  "2022-04-10": 481393,
-  "2022-04-11": 481470,
-  "2022-04-12": 481480,
-  "2022-04-13": 481547,
-  "2022-04-14": 481629,
-  "2022-04-15": 481780,
-  "2022-04-16": 481912,
-  "2022-04-17": 482014,
-  "2022-04-18": 482109,
-  "2022-04-19": 482191,
-  "2022-04-20": 482317,
-  "2022-04-21": 482412,
-  "2022-04-22": 482502,
-  "2022-04-23": 482629,
-  "2022-04-24": 482739,
-  "2022-04-25": 482835,
-  "2022-04-26": 482902,
-  "2022-04-27": 483016,
-  "2022-04-28": 483087,
-  "2022-04-29": 483229,
-  "2022-04-30": 483336,
-  "2022-05-01": 483445,
-  "2022-05-02": 483445,
-  "2022-05-03": 483535,
-  "2022-05-04": 483631,
-  "2022-05-05": 483748,
-  "2022-05-06": 483839,
-  "2022-05-07": 483942,
-  "2022-05-08": 484089,
-  "2022-05-09": 484107,
-  "2022-05-10": 484219,
-  "2022-05-11": 484345,
-  "2022-05-12": 484501,
-  "2022-05-13": 484652,
-  "2022-05-14": 484788,
-  "2022-05-15": 484936,
-  "2022-05-16": 485050,
-  "2022-05-17": 485168,
-  "2022-05-18": 485301,
-  "2022-05-19": 485406,
-  "2022-05-20": 485587,
-  "2022-05-21": 485808,
-  "2022-05-22": 485808,
-  "2022-05-23": 485934,
-  "2022-05-24": 486149,
-  "2022-05-25": 486297,
-  "2022-05-26": 486419,
-  "2022-05-27": 486550,
-  "2022-05-28": 486635,
-  "2022-05-29": 486738,
-  "2022-05-30": 486838,
-  "2022-05-31": 486926,
-  "2022-06-01": 487071,
-  "2022-06-02": 487087,
-  "2022-06-03": 487194,
-  "2022-06-04": 487291,
-  "2022-06-05": 487393,
-  "2022-06-06": 487499,
-  "2022-06-07": 487604,
-  "2022-06-08": 487752,
-  "2022-06-09": 487859,
-  "2022-06-10": 487989,
-  "2022-06-11": 488089,
-  "2022-06-12": 488219,
-  "2022-06-13": 488345,
-  "2022-06-14": 488464,
-  "2022-06-15": 488599,
-  "2022-06-16": 488745,
-  "2022-06-17": 488870,
-  "2022-06-18": 488959,
-  "2022-06-19": 489225,
-  "2022-06-20": 489225,
-  "2022-06-21": 489335,
-  "2022-06-22": 489512,
-  "2022-06-23": 489512,
-  "2022-06-24": 489618,
-  "2022-06-25": 489714,
-  "2022-06-26": 489824,
-  "2022-06-27": 489910,
-  "2022-06-28": 489991,
-  "2022-06-29": 490090,
-  "2022-06-30": 490174,
-  "2022-07-01": 490252,
-  "2022-07-02": 490329,
-  "2022-07-03": 490411,
-  "2022-07-04": 490475,
-  "2022-07-05": 490544,
-  "2022-07-06": 490618,
-  "2022-07-07": 490714,
-  "2022-07-08": 490811,
-  "2022-07-09": 490912,
-  "2022-07-10": 491007,
-  "2022-07-11": 491119,
-  "2022-07-12": 491220,
-  "2022-07-13": 491322,
-  "2022-07-14": 491463,
-  "2022-07-15": 491600,
-  "2022-07-16": 491728,
-  "2022-07-17": 491854,
-  "2022-07-18": 492006,
-  "2022-07-19": 492159,
-  "2022-07-20": 492339,
-  "2022-07-21": 492506,
-  "2022-07-22": 492690,
-  "2022-07-23": 492895,
-  "2022-07-24": 493102,
-  "2022-07-25": 493343,
-  "2022-07-26": 493570,
-  "2022-07-27": 493758,
-  "2022-07-28": 493976,
-  "2022-07-29": 494201,
-  "2022-07-30": 494614,
-  "2022-07-31": 494614,
-  "2022-08-01": 494787,
-  "2022-08-02": 495193,
-  "2022-08-03": 495193,
-  "2022-08-04": 495385,
-  "2022-08-05": 495560,
-  "2022-08-06": 495733,
-  "2022-08-07": 495955,
-  "2022-08-08": 496147,
-  "2022-08-09": 496362,
-  "2022-08-10": 496555,
-  "2022-08-11": 496721,
-  "2022-08-12": 496935,
-  "2022-08-13": 497139,
-  "2022-08-14": 497306,
-  "2022-08-15": 497505,
-  "2022-08-16": 497752,
-  "2022-08-17": 497939,
-  "2022-08-18": 498101,
-  "2022-08-19": 498315,
-  "2022-08-20": 498507,
-  "2022-08-21": 498689,
-  "2022-08-22": 498880,
-  "2022-08-23": 499096,
-  "2022-08-24": 499320,
-  "2022-08-25": 499531,
-  "2022-08-26": 499772,
-  "2022-08-27": 500002,
-  "2022-08-28": 500209,
-  "2022-08-29": 500443,
-  "2022-08-30": 500604,
-  "2022-08-31": 500737,
-  "2022-09-01": 500859,
-  "2022-09-02": 500986,
-  "2022-09-03": 501183,
-  "2022-09-04": 501142,
-  "2022-09-05": 501300,
-  "2022-09-06": 501488,
-  "2022-09-07": 501691,
-  "2022-09-09": 502148,
-  "2022-09-10": 502411,
-  "2022-09-11": 502606,
-  "2022-09-12": 502853,
-  "2022-09-13": 503071,
-  "2022-09-15": 503499,
-  "2022-09-16": 503717,
-  "2022-09-17": 503927,
-  "2022-09-18": 504112,
-  "2022-09-19": 504300,
-  "2022-09-20": 504508,
-  "2022-09-21": 504693,
-  "2022-09-22": 504912,
-  "2022-09-23": 505139,
-  "2022-09-24": 505315,
-  "2022-09-25": 505506,
-  "2022-09-26": 505726,
-  "2022-09-27": 505921,
-  "2022-09-28": 506126,
-  "2022-09-29": 506333,
-  "2022-09-30": 506550,
-  "2022-10-01": 506703,
-  "2022-10-02": 506868,
-  "2022-10-03": 507024,
-  "2022-10-04": 507172,
-  "2022-10-05": 507320,
-  "2022-10-06": 507499,
-  "2022-10-07": 507665,
-  "2022-10-08": 507866,
-  "2022-10-09": 508181,
-  "2022-10-10": 508236,
-  "2022-10-11": 508430,
-  "2022-10-12": 508614,
-  "2022-10-13": 508771,
-  "2022-10-14": 508938,
-  "2022-10-15": 509124,
-  "2022-10-16": 509349,
-  "2022-10-17": 509543,
-  "2022-10-18": 509746,
-  "2022-10-19": 509949,
-  "2022-10-20": 510124,
-  "2022-10-21": 510295,
-  "2022-10-22": 510472,
-  "2022-10-23": 510619,
-  "2022-10-24": 510818,
-  "2022-10-25": 510964,
-  "2022-10-26": 511133,
-  "2022-10-27": 511291,
-  "2022-10-28": 511475,
-  "2022-10-29": 511672,
-  "2022-10-30": 511800,
-  "2022-10-31": 511911,
-  "2022-11-01": 512110,
-  "2022-11-02": 512253,
-  "2022-11-03": 512401,
-  "2022-11-04": 512552,
-  "2022-11-05": 512694,
-  "2022-11-06": 512839,
-  "2022-11-07": 513000,
-  "2022-11-08": 513166,
-  "2022-11-09": 513307,
-  "2022-11-10": 513470,
-  "2022-11-11": 513710,
-  "2022-11-12": 513908,
-  "2022-11-13": 514075,
-  "2022-11-14": 514274,
-  "2022-11-15": 514485,
-  "2022-11-16": 514631,
-  "2022-11-17": 514796,
-  "2022-11-18": 514819,
-  "2022-11-19": 514760,
-  "2022-11-20": 515036,
-  "2022-11-21": 514955,
-  "2022-11-22": 515389,
-  "2022-11-23": 515318,
-  "2022-11-24": 515857,
-  "2022-11-25": 516119,
-  "2022-11-26": 516323,
-  "2022-11-27": 516490,
-  "2022-11-28": 516654,
-  "2022-11-29": 516826,
-  "2022-11-30": 516982,
-  "2022-12-01": 517136,
-  "2022-12-02": 517256,
-  "2022-12-03": 517552,
-  "2022-12-04": 517768,
-  "2022-12-05": 517953,
-  "2022-12-06": 518134,
-  "2022-12-07": 518343,
-  "2022-12-08": 518519,
-  "2022-12-09": 518737,
-  "2022-12-10": 518930,
-  "2022-12-11": 519087,
-  "2022-12-12": 519255,
-  "2022-12-13": 519414,
-  "2022-12-14": 519586,
-  "2022-12-15": 519749,
-  "2022-12-16": 519880,
-  "2022-12-17": 520054,
-  "2022-12-18": 520210,
-  "2022-12-19": 520358,
-  "2022-12-20": 520641,
-  "2022-12-21": 520641,
-  "2022-12-22": 520792,
-  "2022-12-24": 521090,
-  "2022-12-25": 521236,
-  "2022-12-26": 521367,
-  "2022-12-27": 521515,
-  "2022-12-28": 521642,
-  "2022-12-29": 521816,
-  "2022-12-30": 521974,
-  "2022-12-31": 522155,
-  "2023-01-01": 522253,
-  "2023-01-02": 522340,
-  "2023-01-03": 522521,
-  "2023-01-04": 522683,
-  "2023-01-05": 522831,
-  "2023-01-06": 523025,
-  "2023-01-07": 523306,
-  "2023-01-08": 523363,
-  "2023-01-09": 523564,
-  "2023-01-10": 523818,
-  "2023-01-11": 524019,
-  "2023-01-12": 524223,
-  "2023-01-13": 524410,
-  "2023-01-14": 524745,
-  "2023-01-15": 524801,
-  "2023-01-16": 524989,
-  "2023-01-17": 525193,
-  "2023-01-18": 525339,
-  "2023-01-19": 525515,
-  "2023-01-20": 525731,
-  "2023-01-21": 525893,
-  "2023-01-22": 526061,
-  "2023-01-23": 526230,
-  "2023-01-24": 526441,
-  "2023-01-25": 526612,
-  "2023-01-26": 526769,
-  "2023-01-27": 526971,
-  "2023-01-28": 526971,
-  "2023-01-29": 526971,
-  "2023-01-30": 526971,
-  "2023-01-31": 526971,
-  "2023-02-01": 526971,
-  "2023-02-02": 526971,
-  "2023-02-03": 526971,
-  "2023-02-04": 526971,
-  "2023-02-05": 526971,
-  "2023-02-06": 526971,
-  "2023-02-07": 526971,
-  "2023-02-08": 526971,
-  "2023-02-09": 526971,
-  "2023-02-10": 526971,
-  "2023-02-11": 526971,
-  "2023-02-12": 526971,
-  "2023-02-13": 526971,
-  "2023-02-14": 526971,
-  "2023-02-15": 526971,
-  "2023-02-16": 526971,
-  "2023-02-17": 526971,
-  "2023-02-18": 526971,
-  "2023-02-19": 526971,
-  "2023-02-20": 526971,
-  "2023-02-21": 526971,
-  "2023-02-22": 526971,
-  "2023-02-23": 526971,
-  "2023-02-24": 526971,
-  "2023-02-25": 526971,
-  "2023-02-26": 526971,
-  "2023-02-27": 526971,
-  "2023-02-28": 526971,
-  "2023-03-01": 526971,
-  "2023-03-02": 526971,
-  "2023-03-03": 526971,
-  "2023-03-04": 526971,
-  "2023-03-05": 526971,
-  "2023-03-06": 526971,
-  "2023-03-07": 526971,
-  "2023-03-08": 526971,
-  "2023-03-09": 526971,
-  "2023-03-10": 526971,
-  "2023-03-11": 526971,
-  "2023-03-12": 526971,
-  "2023-03-13": 526971,
-  "2023-03-14": 526971,
-  "2023-03-15": 526971,
-  "2023-03-16": 526971,
-  "2023-03-17": 526971,
-  "2023-03-18": 526971,
-  "2023-03-19": 526971,
-  "2023-03-20": 526971,
-  "2023-03-21": 526971,
-  "2023-03-22": 526971,
-  "2023-03-23": 526971,
-  "2023-03-24": 526971,
-  "2023-03-25": 526971,
-  "2023-03-26": 526971,
-  "2023-03-27": 526971,
-  "2023-03-28": 526971,
-  "2023-03-29": 526971,
-  "2023-03-30": 526971,
-  "2023-03-31": 526971,
-  "2023-04-01": 526971,
-  "2023-04-02": 526971,
-  "2023-04-03": 526971,
-  "2023-04-04": 526971,
-  "2023-04-05": 526971,
-  "2023-04-06": 526971,
-  "2023-04-07": 526971,
-  "2023-04-09": 526971,
-  "2023-04-10": 526971,
-  "2023-04-11": 526971,
-  "2023-04-12": 526971,
-  "2023-04-13": 526971,
-  "2023-04-14": 526971,
-  "2023-04-15": 526971,
-  "2023-04-16": 526971,
-  "2023-04-17": 526971,
-  "2023-04-18": 526971,
-  "2023-04-19": 526971,
-  "2023-04-20": 526971,
-  "2023-04-21": 526971,
-  "2023-04-22": 526971,
-  "2023-04-23": 526971,
-  "2023-04-24": 526971,
-  "2023-04-25": 526971,
-  "2023-04-26": 526971,
-  "2023-04-27": 526971,
-  "2023-04-28": 526971,
-  "2023-04-29": 526971,
-  "2023-04-30": 526971,
-  "2023-05-01": 526971,
-  "2023-05-02": 526971,
-  "2023-05-03": 526971,
-  "2023-05-04": 526971,
-  "2023-05-05": 526971,
-  "2023-05-06": 526971,
-  "2023-05-07": 526971,
-  "2023-05-08": 526971,
-  "2023-05-09": 526971,
-  "2023-05-10": 526971,
-  "2023-05-11": 526971,
-  "2023-05-12": 526971,
-  "2023-05-13": 526971,
-  "2023-05-14": 526971,
-  "2023-05-15": 526971,
-  "2023-05-16": 526971,
-  "2023-05-17": 526971,
-  "2023-05-18": 526971,
-  "2023-05-19": 526971,
-  "2023-05-20": 526971,
-  "2023-05-21": 526971,
-  "2023-05-22": 526971,
-  "2023-05-23": 526971,
-  "2023-05-24": 526971,
-  "2023-05-25": 526971,
-  "2023-05-26": 526971,
-  "2023-05-27": 526971,
-  "2023-05-28": 526971,
-  "2023-05-29": 526971,
-  "2023-05-30": 526971,
-  "2023-05-31": 526971,
-  "2023-06-01": 526971,
-  "2023-06-02": 526971,
-  "2023-06-03": 526971,
-  "2023-06-04": 526971,
-  "2023-06-05": 526971,
-  "2023-06-06": 526971,
-  "2023-06-07": 526971,
-  "2023-06-08": 526971,
-  "2023-06-09": 526971,
-  "2023-06-10": 526971,
-  "2023-06-11": 526971,
-  "2023-06-12": 526971,
-  "2023-06-13": 526971,
-  "2023-06-14": 526971,
-  "2023-06-15": 526971,
-  "2023-06-16": 526971,
-  "2023-06-17": 526971,
-  "2023-06-18": 526971,
-  "2023-06-19": 526971,
-  "2023-06-20": 526971,
-  "2023-06-21": 526971,
-  "2023-06-22": 526971,
-  "2023-06-23": 526971,
-  "2023-06-24": 526971,
-  "2023-06-25": 526971,
-  "2023-06-26": 526971,
-  "2023-06-27": 526971,
-  "2023-06-28": 526971,
-  "2023-06-29": 526971,
-  "2023-06-30": 526971,
-  "2023-07-01": 526971,
-  "2023-07-02": 526971,
-  "2023-07-03": 526971,
-  "2023-07-04": 526971,
-  "2023-07-05": 526971,
-  "2023-07-06": 526971,
-  "2023-07-07": 526971,
-  "2023-07-08": 526971,
-  "2023-07-09": 526971,
-  "2023-07-10": 526971,
-  "2023-07-11": 526971,
-  "2023-07-12": 526971,
-  "2023-07-13": 526971,
-  "2023-07-14": 526971,
-  "2023-07-15": 526971,
-  "2023-07-16": 526971,
-  "2023-07-17": 526971,
-  "2023-07-18": 526971,
-  "2023-07-19": 526971,
-  "2023-07-20": 526971,
-  "2023-07-21": 526971,
-  "2023-07-22": 526971,
-  "2023-07-23": 526971,
-  "2023-07-24": 526971,
-  "2023-07-25": 526971,
-  "2023-07-26": 526971,
-  "2023-07-27": 526971,
-  "2023-07-28": 526971,
-  "2023-07-29": 526971,
-  "2023-07-30": 526971,
-  "2023-07-31": 526971,
-  "2023-08-01": 526971,
-  "2023-08-02": 526971,
-  "2023-08-03": 526971,
-  "2023-08-04": 526971,
-  "2023-08-05": 526971,
-  "2023-08-06": 526971,
-  "2023-08-07": 526971,
-  "2023-08-08": 526971,
-  "2023-08-09": 526971,
-  "2023-08-10": 526971,
-  "2023-08-11": 526971,
-  "2023-08-12": 526971,
-  "2023-08-13": 526971,
-  "2023-08-14": 526971,
-  "2023-08-15": 526971,
-  "2023-08-16": 526971,
-  "2023-08-17": 526971,
-  "2023-08-18": 526971,
-  "2023-08-19": 526971,
-  "2023-08-20": 526971,
-  "2023-08-21": 526971,
-  "2023-08-22": 526971,
-  "2023-08-23": 526971,
-  "2023-08-24": 526971,
-  "2023-08-25": 526971,
-  "2023-08-26": 526971,
-  "2023-08-27": 526971,
-  "2023-08-28": 526971,
-  "2023-08-29": 526971,
-  "2023-08-30": 526971,
-  "2023-08-31": 526971,
-  "2023-09-01": 526971,
-  "2023-09-02": 526971,
-  "2023-09-03": 526971,
-  "2023-09-04": 526971,
-  "2023-09-05": 526971,
-  "2023-09-06": 526971,
-  "2023-09-07": 526971,
-  "2023-09-08": 526971,
-  "2023-09-09": 526971,
-  "2023-09-10": 526971,
-  "2023-09-11": 526971,
-  "2023-09-12": 526971,
-  "2023-09-13": 526971,
-  "2023-09-14": 526971,
-  "2023-09-15": 526971,
-  "2023-09-16": 526971,
-  "2023-09-17": 526971,
-  "2023-09-18": 526971,
-  "2023-09-19": 526971,
-  "2023-09-20": 526971,
-  "2023-09-21": 526971,
-  "2023-09-22": 526971,
-  "2023-09-23": 526971,
-  "2023-09-24": 526971,
-  "2023-09-25": 526971,
-  "2023-09-26": 526971,
-  "2023-09-27": 526971,
-  "2023-09-28": 526971,
-  "2023-09-29": 526971,
-  "2023-09-30": 526971,
-  "2023-10-01": 526971,
-  "2023-10-02": 526971,
-  "2023-10-03": 526971,
-  "2023-10-04": 526971,
-  "2023-10-05": 526971,
-  "2023-10-06": 526971,
-  "2023-10-07": 526971,
-  "2023-10-08": 526971,
-  "2023-10-09": 526971,
-  "2023-10-10": 526971,
-  "2023-10-11": 526971,
-  "2023-10-12": 526971,
-  "2023-10-13": 526971,
-  "2023-10-14": 526971,
-  "2023-10-15": 526971,
-  "2023-10-16": 526971,
-  "2023-10-17": 526971,
-  "2023-10-18": 526971,
-  "2023-10-19": 526971,
-  "2023-10-20": 526971,
-  "2023-10-21": 526971,
-  "2023-10-22": 526971,
-  "2023-10-23": 526971,
-  "2023-10-24": 526971,
-  "2023-10-25": 526971,
-  "2023-10-26": 526971,
-  "2023-10-27": 526971,
-  "2023-10-28": 526971,
-  "2023-10-29": 526971,
-  "2023-10-30": 526971,
-  "2023-10-31": 526971,
-  "2023-11-01": 526971,
-  "2023-11-02": 526971,
-  "2023-11-03": 526971,
-  "2023-11-04": 526971,
-  "2023-11-05": 526971,
-  "2023-11-06": 526971,
-  "2023-11-07": 526971,
-  "2023-11-08": 526971,
-  "2023-11-09": 526971,
-  "2023-11-10": 526971,
-  "2023-11-11": 526971,
-  "2023-11-12": 526971,
-  "2023-11-13": 526971,
-  "2023-11-14": 526971,
-  "2023-11-15": 526971,
-  "2023-11-16": 526971,
-  "2023-11-17": 526971,
-  "2023-11-18": 526971,
-  "2023-11-19": 526971,
-  "2023-11-20": 526971,
-  "2023-11-21": 526971,
-  "2023-11-22": 526971,
-  "2023-11-23": 526971,
-  "2023-11-24": 526971,
-  "2023-11-25": 526971,
-  "2023-11-26": 526971,
-  "2023-11-27": 526971,
-  "2023-11-28": 526971,
-  "2023-11-29": 526971,
-  "2023-11-30": 526971,
-  "2023-12-01": 526971,
-  "2023-12-02": 526971,
-  "2023-12-03": 526971,
-  "2023-12-04": 526971,
-  "2023-12-05": 526971,
-  "2023-12-06": 526971,
-  "2023-12-07": 526971,
-  "2023-12-08": 526971,
-  "2023-12-09": 526971,
-  "2023-12-10": 526971,
-  "2023-12-11": 526971,
-  "2023-12-12": 526971,
-  "2023-12-13": 526971,
-  "2023-12-14": 526971,
-  "2023-12-15": 526971,
-  "2023-12-16": 526971,
-  "2023-12-17": 526971,
-  "2023-12-18": 526971,
-  "2023-12-19": 526971,
-  "2023-12-20": 526971,
-  "2023-12-21": 526971,
-  "2023-12-22": 526971,
-  "2023-12-23": 526971,
-  "2023-12-24": 526971,
-  "2023-12-25": 526971,
-  "2023-12-26": 526971,
-  "2023-12-27": 526971,
-  "2023-12-30": 526971,
-  "2023-12-31": 526971,
-  "2024-01-01": 526971,
-  "2024-01-02": 526971,
-  "2024-01-03": 526971
+  "2024-01-17": 526971,
+  "date_first_scraped": "2021-12-21",
+  "description": "All his biggest hits, all in one place.",
+  "name": "This Is James Arthur",
+  "tracks": [
+    {
+      "album": {
+        "name": "You Deserve Better / At My Weakest",
+        "url": "https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "At My Weakest",
+      "url": "https://open.spotify.com/track/6rcTyXe8W8kjQLyALBRj1v"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227627,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Back from the Edge",
+      "url": "https://open.spotify.com/track/0NPRq1Ti6JYKOqSyiVYWZT"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5hrbuCjGxws7txUEr8XDgb"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246880,
+      "name": "Can I Be Him",
+      "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Car's Outside",
+      "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Chasing Grace",
+          "url": "https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Certain Things (feat. Chasing Grace)",
+      "url": "https://open.spotify.com/track/5zvJELVKAnPkscGc5aLKJI"
+    },
+    {
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201657,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "album": {
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4rhv5nnyAdhjvqRB8s9xr7"
+    },
+    {
+      "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "album": {
+        "name": "Finally Feel Good",
+        "url": "https://open.spotify.com/album/6avkPAfv7cjDlQL4Cotd5S"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Finally Feel Good",
+      "url": "https://open.spotify.com/track/1QyxXnQXlGqG28syVg3LyP"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "From Me To You I Hate Everybody",
+      "url": "https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/2lMOo57ThDuatdDuNxxv9e"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Homicide Love",
+      "url": "https://open.spotify.com/track/6POLDHXeDMjxcgDsWHL7Vp"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/31YexNcOMVSFTEDGmQusSI"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Is This Love?",
+      "url": "https://open.spotify.com/track/1ezEEKOlrQ3gfMV5608xxn"
+    },
+    {
+      "album": {
+        "name": "The Love Stroy",
+        "url": "https://open.spotify.com/album/2bq8RZgmQAO2yR2k3xY1Ds"
+      },
+      "artists": [
+        {
+          "name": "Rymez",
+          "url": "https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198316,
+      "name": "Kryptonite (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/4P3Lni1ftZ8nRtVLRCz7E6"
+    },
+    {
+      "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3bMEc0K6zJNhTQeoyxox8j"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/6K8gvUTwVftCa3gd0MFtI4"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243186,
+      "name": "Quite Miss Home",
+      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277866,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0gvyS5QqsQiGZ0e9fDxChn"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/1eV4mlmOSsmbTRjjYKYzE8"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Recovery - Acoustic",
+      "url": "https://open.spotify.com/track/4NgXMjSLDa5DVQduN7NYjp"
+    },
+    {
+      "album": {
+        "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+        "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
+      "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248520,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/0qkkoL0bQBBWe4JU1NWcYt"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/5ooilrQAnOJbUjq7IDm8lY"
+    },
+    {
+      "album": {
+        "name": "Safe Inside (Acoustic)",
+        "url": "https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232591,
+      "name": "Safe Inside - Acoustic",
+      "url": "https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "album": {
+        "name": "Say You Won't Let Go (Luca Schreiner Remix)",
+        "url": "https://open.spotify.com/album/7vXaIbolfjJtxuEPLBnEwd"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Say You Won't Let Go - Luca Schreiner Remix",
+      "url": "https://open.spotify.com/track/720IIHD0NvNfDURgWSB3rP"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220891,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "SHOTTY HORROH",
+          "url": "https://open.spotify.com/artist/4a95izyFgvXS2JYqL8rANq"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272573,
+      "name": "Sermon (feat. Shotty Horroh)",
+      "url": "https://open.spotify.com/track/0zzdXBwYgPZR88QZr86hWF"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6UzmmekCrcYrumwAjztVBK"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Suicide",
+      "url": "https://open.spotify.com/track/5ASYKV7L20Xz5Cub2t4FeA"
+    },
+    {
+      "album": {
+        "name": "Sun Comes Up (feat. James Arthur)",
+        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232627,
+      "name": "Sun Comes Up (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
+    },
+    {
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
+    },
+    {
+      "album": {
+        "name": "Treehouse (feat. Shotty Horroh)",
+        "url": "https://open.spotify.com/album/6HX5s1KDSkOQNkt5YkwMi2"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "SHOTTY HORROH",
+          "url": "https://open.spotify.com/artist/4a95izyFgvXS2JYqL8rANq"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "Treehouse (feat. Shotty Horroh)",
+      "url": "https://open.spotify.com/track/6S1IgeHxxOT9qVWnmsdGxe"
+    },
+    {
+      "album": {
+        "name": "You (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/0EW257HwkJ1CblYgM9GIAY"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "You (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/57CsOeLJrdI20fS4Z8pZPj"
+    },
+    {
+      "album": {
+        "name": "You Deserve Better / At My Weakest",
+        "url": "https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "You Deserve Better",
+      "url": "https://open.spotify.com/track/4S1GTwPVpkSy7CsJIDKPEz"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "You're Nobody 'Til Somebody Loves You",
+      "url": "https://open.spotify.com/track/6rlgy1boD69A3mcV7VzPRL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Csy1LFxjkI"
 }

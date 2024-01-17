@@ -1,580 +1,1469 @@
 {
-  "2022-05-30": 86595,
-  "2022-05-31": 86689,
-  "2022-06-01": 86830,
-  "2022-06-02": 86841,
-  "2022-06-03": 86911,
-  "2022-06-04": 86976,
-  "2022-06-05": 87060,
-  "2022-06-06": 87116,
-  "2022-06-07": 87161,
-  "2022-06-08": 87202,
-  "2022-06-09": 87248,
-  "2022-06-10": 87297,
-  "2022-06-11": 87338,
-  "2022-06-12": 87386,
-  "2022-06-13": 87456,
-  "2022-06-14": 87492,
-  "2022-06-15": 87518,
-  "2022-06-16": 87549,
-  "2022-06-17": 87587,
-  "2022-06-18": 87616,
-  "2022-06-19": 87716,
-  "2022-06-20": 87716,
-  "2022-06-21": 87756,
-  "2022-06-22": 87828,
-  "2022-06-23": 87828,
-  "2022-06-24": 87854,
-  "2022-06-25": 87898,
-  "2022-06-26": 87919,
-  "2022-06-27": 87955,
-  "2022-06-28": 87975,
-  "2022-06-29": 88003,
-  "2022-06-30": 88044,
-  "2022-07-01": 88086,
-  "2022-07-02": 88131,
-  "2022-07-03": 88166,
-  "2022-07-04": 88210,
-  "2022-07-05": 88210,
-  "2022-07-06": 88210,
-  "2022-07-07": 88288,
-  "2022-07-08": 88318,
-  "2022-07-09": 88357,
-  "2022-07-10": 88406,
-  "2022-07-11": 88441,
-  "2022-07-12": 88480,
-  "2022-07-13": 88526,
-  "2022-07-14": 88542,
-  "2022-07-15": 88588,
-  "2022-07-16": 88636,
-  "2022-07-17": 88663,
-  "2022-07-18": 88702,
-  "2022-07-19": 88735,
-  "2022-07-20": 88764,
-  "2022-07-21": 88797,
-  "2022-07-22": 88824,
-  "2022-07-23": 88866,
-  "2022-07-24": 88899,
-  "2022-07-25": 88915,
-  "2022-07-26": 88937,
-  "2022-07-27": 88961,
-  "2022-07-28": 88977,
-  "2022-07-29": 89016,
-  "2022-07-30": 89083,
-  "2022-07-31": 89083,
-  "2022-08-01": 89123,
-  "2022-08-02": 89179,
-  "2022-08-03": 89179,
-  "2022-08-04": 89217,
-  "2022-08-05": 89239,
-  "2022-08-06": 89281,
-  "2022-08-07": 89333,
-  "2022-08-08": 89383,
-  "2022-08-09": 89422,
-  "2022-08-10": 89456,
-  "2022-08-11": 89482,
-  "2022-08-12": 89514,
-  "2022-08-13": 89555,
-  "2022-08-14": 89593,
-  "2022-08-15": 89628,
-  "2022-08-16": 89645,
-  "2022-08-17": 89683,
-  "2022-08-18": 89714,
-  "2022-08-19": 89750,
-  "2022-08-20": 89782,
-  "2022-08-21": 89794,
-  "2022-08-22": 89825,
-  "2022-08-23": 89857,
-  "2022-08-24": 89891,
-  "2022-08-25": 89912,
-  "2022-08-26": 89944,
-  "2022-08-27": 89973,
-  "2022-08-28": 90001,
-  "2022-08-29": 90035,
-  "2022-08-30": 90046,
-  "2022-08-31": 90016,
-  "2022-09-01": 89998,
-  "2022-09-02": 89983,
-  "2022-09-03": 89923,
-  "2022-09-04": 89920,
-  "2022-09-05": 89946,
-  "2022-09-06": 89960,
-  "2022-09-07": 89986,
-  "2022-09-09": 90037,
-  "2022-09-10": 90065,
-  "2022-09-11": 90101,
-  "2022-09-12": 90124,
-  "2022-09-13": 90143,
-  "2022-09-15": 90195,
-  "2022-09-16": 90227,
-  "2022-09-17": 90264,
-  "2022-09-18": 90298,
-  "2022-09-19": 90335,
-  "2022-09-20": 90353,
-  "2022-09-21": 90385,
-  "2022-09-22": 90413,
-  "2022-09-23": 90443,
-  "2022-09-24": 90443,
-  "2022-09-25": 90514,
-  "2022-09-26": 90552,
-  "2022-09-27": 90581,
-  "2022-09-28": 90614,
-  "2022-09-29": 90631,
-  "2022-09-30": 90656,
-  "2022-10-01": 90691,
-  "2022-10-02": 90734,
-  "2022-10-03": 90775,
-  "2022-10-04": 90801,
-  "2022-10-05": 90833,
-  "2022-10-06": 90862,
-  "2022-10-07": 90884,
-  "2022-10-08": 90910,
-  "2022-10-09": 90960,
-  "2022-10-10": 90968,
-  "2022-10-11": 90997,
-  "2022-10-12": 91027,
-  "2022-10-13": 91059,
-  "2022-10-14": 91101,
-  "2022-10-15": 91123,
-  "2022-10-16": 91158,
-  "2022-10-17": 91189,
-  "2022-10-18": 91215,
-  "2022-10-19": 91244,
-  "2022-10-20": 91272,
-  "2022-10-21": 91302,
-  "2022-10-22": 91344,
-  "2022-10-23": 91378,
-  "2022-10-24": 91407,
-  "2022-10-25": 91434,
-  "2022-10-26": 91462,
-  "2022-10-27": 91476,
-  "2022-10-28": 91521,
-  "2022-10-29": 91541,
-  "2022-10-30": 91563,
-  "2022-10-31": 91593,
-  "2022-11-01": 91618,
-  "2022-11-02": 91656,
-  "2022-11-03": 91687,
-  "2022-11-04": 91708,
-  "2022-11-05": 91734,
-  "2022-11-06": 91759,
-  "2022-11-07": 91788,
-  "2022-11-08": 91824,
-  "2022-11-09": 91867,
-  "2022-11-10": 91909,
-  "2022-11-11": 91958,
-  "2022-11-12": 91991,
-  "2022-11-13": 92011,
-  "2022-11-14": 92046,
-  "2022-11-15": 92076,
-  "2022-11-16": 92105,
-  "2022-11-17": 92134,
-  "2022-11-18": 92146,
-  "2022-11-19": 92151,
-  "2022-11-20": 92188,
-  "2022-11-21": 92234,
-  "2022-11-22": 92274,
-  "2022-11-23": 92307,
-  "2022-11-24": 92381,
-  "2022-11-25": 92429,
-  "2022-11-26": 92460,
-  "2022-11-27": 92485,
-  "2022-11-28": 92511,
-  "2022-11-29": 92551,
-  "2022-11-30": 92593,
-  "2022-12-01": 92630,
-  "2022-12-02": 92634,
-  "2022-12-03": 92660,
-  "2022-12-04": 92695,
-  "2022-12-05": 92721,
-  "2022-12-06": 92763,
-  "2022-12-07": 92784,
-  "2022-12-08": 92818,
-  "2022-12-09": 92846,
-  "2022-12-10": 92869,
-  "2022-12-11": 92890,
-  "2022-12-12": 92923,
-  "2022-12-13": 92955,
-  "2022-12-14": 92972,
-  "2022-12-15": 93012,
-  "2022-12-16": 93036,
-  "2022-12-17": 93076,
-  "2022-12-18": 93101,
-  "2022-12-19": 93118,
-  "2022-12-20": 93158,
-  "2022-12-21": 93158,
-  "2022-12-22": 93183,
-  "2022-12-24": 93247,
-  "2022-12-25": 93286,
-  "2022-12-26": 93317,
-  "2022-12-27": 93336,
-  "2022-12-28": 93365,
-  "2022-12-29": 93395,
-  "2022-12-30": 93441,
-  "2022-12-31": 93531,
-  "2023-01-01": 93608,
-  "2023-01-02": 93660,
-  "2023-01-03": 93705,
-  "2023-01-04": 93735,
-  "2023-01-05": 93768,
-  "2023-01-06": 93800,
-  "2023-01-07": 93843,
-  "2023-01-08": 93857,
-  "2023-01-09": 93897,
-  "2023-01-10": 93919,
-  "2023-01-11": 93948,
-  "2023-01-12": 93977,
-  "2023-01-13": 94008,
-  "2023-01-14": 94059,
-  "2023-01-15": 94064,
-  "2023-01-16": 94097,
-  "2023-01-17": 94118,
-  "2023-01-18": 94146,
-  "2023-01-19": 94176,
-  "2023-01-20": 94211,
-  "2023-01-21": 94242,
-  "2023-01-22": 94277,
-  "2023-01-23": 94317,
-  "2023-01-24": 94354,
-  "2023-01-25": 94389,
-  "2023-01-26": 94435,
-  "2023-01-27": 94459,
-  "2023-01-28": 94483,
-  "2023-01-29": 94527,
-  "2023-01-30": 94563,
-  "2023-01-31": 94563,
-  "2023-02-01": 94618,
-  "2023-02-02": 94640,
-  "2023-02-03": 94676,
-  "2023-02-04": 94708,
-  "2023-02-05": 94736,
-  "2023-02-06": 94773,
-  "2023-02-07": 94817,
-  "2023-02-08": 94873,
-  "2023-02-09": 94873,
-  "2023-02-10": 94914,
-  "2023-02-11": 94947,
-  "2023-02-12": 95025,
-  "2023-02-13": 95058,
-  "2023-02-14": 95058,
-  "2023-02-15": 95093,
-  "2023-02-16": 95129,
-  "2023-02-17": 95167,
-  "2023-02-18": 95234,
-  "2023-02-19": 95236,
-  "2023-02-20": 95263,
-  "2023-02-21": 95292,
-  "2023-02-22": 95321,
-  "2023-02-23": 95357,
-  "2023-02-24": 95396,
-  "2023-02-25": 95429,
-  "2023-02-26": 95470,
-  "2023-02-27": 95538,
-  "2023-02-28": 95538,
-  "2023-03-01": 95567,
-  "2023-03-02": 95595,
-  "2023-03-03": 95640,
-  "2023-03-04": 95676,
-  "2023-03-05": 95748,
-  "2023-03-06": 95748,
-  "2023-03-07": 95783,
-  "2023-03-08": 95797,
-  "2023-03-09": 95821,
-  "2023-03-10": 95844,
-  "2023-03-11": 95874,
-  "2023-03-12": 95909,
-  "2023-03-13": 95949,
-  "2023-03-14": 95994,
-  "2023-03-15": 96029,
-  "2023-03-16": 96029,
-  "2023-03-17": 96029,
-  "2023-03-18": 96122,
-  "2023-03-19": 96122,
-  "2023-03-20": 96197,
-  "2023-03-21": 96239,
-  "2023-03-22": 96267,
-  "2023-03-23": 96295,
-  "2023-03-24": 96295,
-  "2023-03-25": 96344,
-  "2023-03-26": 96385,
-  "2023-03-27": 96420,
-  "2023-03-28": 96459,
-  "2023-03-29": 96495,
-  "2023-03-30": 96572,
-  "2023-03-31": 96572,
-  "2023-04-01": 96605,
-  "2023-04-02": 96644,
-  "2023-04-03": 96678,
-  "2023-04-04": 96705,
-  "2023-04-05": 96723,
-  "2023-04-06": 96747,
-  "2023-04-07": 96782,
-  "2023-04-09": 96836,
-  "2023-04-10": 96878,
-  "2023-04-11": 96940,
-  "2023-04-12": 96940,
-  "2023-04-13": 96969,
-  "2023-04-14": 96999,
-  "2023-04-15": 97048,
-  "2023-04-16": 97088,
-  "2023-04-17": 97115,
-  "2023-04-18": 97138,
-  "2023-04-19": 97172,
-  "2023-04-20": 97204,
-  "2023-04-21": 97232,
-  "2023-04-22": 97260,
-  "2023-04-23": 97291,
-  "2023-04-24": 97318,
-  "2023-04-25": 97357,
-  "2023-04-26": 97403,
-  "2023-04-27": 97429,
-  "2023-04-28": 97452,
-  "2023-04-29": 97465,
-  "2023-04-30": 97491,
-  "2023-05-01": 97521,
-  "2023-05-02": 97540,
-  "2023-05-03": 97570,
-  "2023-05-04": 97593,
-  "2023-05-05": 97622,
-  "2023-05-06": 97651,
-  "2023-05-07": 97675,
-  "2023-05-08": 97716,
-  "2023-05-09": 97752,
-  "2023-05-10": 97783,
-  "2023-05-11": 97804,
-  "2023-05-12": 97822,
-  "2023-05-13": 97849,
-  "2023-05-14": 97872,
-  "2023-05-15": 97910,
-  "2023-05-16": 97945,
-  "2023-05-17": 97968,
-  "2023-05-18": 97991,
-  "2023-05-19": 98022,
-  "2023-05-20": 98082,
-  "2023-05-21": 98082,
-  "2023-05-22": 98082,
-  "2023-05-23": 98115,
-  "2023-05-24": 98156,
-  "2023-05-25": 98161,
-  "2023-05-26": 98186,
-  "2023-05-27": 98211,
-  "2023-05-28": 98233,
-  "2023-05-29": 98233,
-  "2023-05-30": 98279,
-  "2023-05-31": 98304,
-  "2023-06-01": 98326,
-  "2023-06-02": 98345,
-  "2023-06-03": 98369,
-  "2023-06-04": 98412,
-  "2023-06-05": 98436,
-  "2023-06-06": 98461,
-  "2023-06-07": 98484,
-  "2023-06-08": 98507,
-  "2023-06-09": 98538,
-  "2023-06-10": 98561,
-  "2023-06-11": 98593,
-  "2023-06-12": 98625,
-  "2023-06-13": 98653,
-  "2023-06-14": 98679,
-  "2023-06-15": 98696,
-  "2023-06-16": 98722,
-  "2023-06-17": 98743,
-  "2023-06-18": 98766,
-  "2023-06-19": 98795,
-  "2023-06-20": 98809,
-  "2023-06-21": 98833,
-  "2023-06-22": 98866,
-  "2023-06-23": 98907,
-  "2023-06-24": 98913,
-  "2023-06-25": 98942,
-  "2023-06-26": 98968,
-  "2023-06-27": 98988,
-  "2023-06-28": 99013,
-  "2023-06-29": 99039,
-  "2023-06-30": 99061,
-  "2023-07-01": 99101,
-  "2023-07-02": 99101,
-  "2023-07-03": 99116,
-  "2023-07-04": 99143,
-  "2023-07-05": 99165,
-  "2023-07-06": 99202,
-  "2023-07-07": 99202,
-  "2023-07-08": 99202,
-  "2023-07-09": 99236,
-  "2023-07-10": 99264,
-  "2023-07-11": 99281,
-  "2023-07-12": 99307,
-  "2023-07-13": 99332,
-  "2023-07-14": 99357,
-  "2023-07-15": 99378,
-  "2023-07-16": 99411,
-  "2023-07-17": 99435,
-  "2023-07-18": 99462,
-  "2023-07-19": 99490,
-  "2023-07-20": 99510,
-  "2023-07-21": 99531,
-  "2023-07-22": 99552,
-  "2023-07-23": 99577,
-  "2023-07-24": 99600,
-  "2023-07-25": 99632,
-  "2023-07-26": 99656,
-  "2023-07-27": 99685,
-  "2023-07-28": 99714,
-  "2023-07-29": 99741,
-  "2023-07-30": 99773,
-  "2023-07-31": 99817,
-  "2023-08-01": 99847,
-  "2023-08-02": 99875,
-  "2023-08-03": 99896,
-  "2023-08-04": 99919,
-  "2023-08-05": 99957,
-  "2023-08-06": 100004,
-  "2023-08-07": 100004,
-  "2023-08-08": 100036,
-  "2023-08-09": 100062,
-  "2023-08-10": 100095,
-  "2023-08-11": 100126,
-  "2023-08-12": 100126,
-  "2023-08-13": 100126,
-  "2023-08-14": 100224,
-  "2023-08-15": 100224,
-  "2023-08-16": 100224,
-  "2023-08-17": 100224,
-  "2023-08-18": 100224,
-  "2023-08-19": 100224,
-  "2023-08-20": 100400,
-  "2023-08-21": 100400,
-  "2023-08-22": 100463,
-  "2023-08-23": 100463,
-  "2023-08-24": 100463,
-  "2023-08-25": 100463,
-  "2023-08-26": 100595,
-  "2023-08-27": 100595,
-  "2023-08-28": 100671,
-  "2023-08-29": 100671,
-  "2023-08-30": 100671,
-  "2023-08-31": 100762,
-  "2023-09-01": 100792,
-  "2023-09-02": 100792,
-  "2023-09-03": 100858,
-  "2023-09-04": 100858,
-  "2023-09-05": 100858,
-  "2023-09-06": 100928,
-  "2023-09-07": 100928,
-  "2023-09-08": 100928,
-  "2023-09-09": 100928,
-  "2023-09-10": 101071,
-  "2023-09-11": 101071,
-  "2023-09-12": 101071,
-  "2023-09-13": 101071,
-  "2023-09-14": 101071,
-  "2023-09-15": 101071,
-  "2023-09-16": 101243,
-  "2023-09-17": 101243,
-  "2023-09-18": 101243,
-  "2023-09-19": 101321,
-  "2023-09-20": 101321,
-  "2023-09-21": 101321,
-  "2023-09-22": 101369,
-  "2023-09-23": 101369,
-  "2023-09-24": 101369,
-  "2023-09-25": 101369,
-  "2023-09-26": 101474,
-  "2023-09-27": 101474,
-  "2023-09-28": 101474,
-  "2023-09-29": 101474,
-  "2023-09-30": 101474,
-  "2023-10-01": 101474,
-  "2023-10-02": 101474,
-  "2023-10-03": 101474,
-  "2023-10-04": 101474,
-  "2023-10-05": 101474,
-  "2023-10-06": 101474,
-  "2023-10-07": 101474,
-  "2023-10-08": 101474,
-  "2023-10-09": 101474,
-  "2023-10-10": 101474,
-  "2023-10-11": 101793,
-  "2023-10-12": 101793,
-  "2023-10-13": 101793,
-  "2023-10-14": 101793,
-  "2023-10-15": 101793,
-  "2023-10-16": 101793,
-  "2023-10-17": 101793,
-  "2023-10-18": 101793,
-  "2023-10-19": 101793,
-  "2023-10-20": 101793,
-  "2023-10-21": 101793,
-  "2023-10-22": 101793,
-  "2023-10-23": 101793,
-  "2023-10-24": 101793,
-  "2023-10-25": 101793,
-  "2023-10-26": 101793,
-  "2023-10-27": 101793,
-  "2023-10-28": 101793,
-  "2023-10-29": 101793,
-  "2023-10-30": 101793,
-  "2023-10-31": 101793,
-  "2023-11-01": 101793,
-  "2023-11-02": 101793,
-  "2023-11-03": 101793,
-  "2023-11-04": 101793,
-  "2023-11-05": 101793,
-  "2023-11-06": 101793,
-  "2023-11-07": 101793,
-  "2023-11-08": 101793,
-  "2023-11-09": 101793,
-  "2023-11-10": 101793,
-  "2023-11-11": 102410,
-  "2023-11-12": 102410,
-  "2023-11-13": 102410,
-  "2023-11-14": 102410,
-  "2023-11-15": 102410,
-  "2023-11-16": 102410,
-  "2023-11-17": 102410,
-  "2023-11-18": 102410,
-  "2023-11-19": 102410,
-  "2023-11-20": 102410,
-  "2023-11-21": 102410,
-  "2023-11-22": 102410,
-  "2023-11-23": 102410,
-  "2023-11-24": 102410,
-  "2023-11-25": 102410,
-  "2023-11-26": 102410,
-  "2023-11-27": 102410,
-  "2023-11-28": 102410,
-  "2023-11-29": 102410,
-  "2023-11-30": 102410,
-  "2023-12-01": 102410,
-  "2023-12-02": 102410,
-  "2023-12-03": 102410,
-  "2023-12-04": 102410,
-  "2023-12-05": 102410,
-  "2023-12-06": 102410,
-  "2023-12-07": 102410,
-  "2023-12-08": 102410,
-  "2023-12-09": 102410,
-  "2023-12-10": 102410,
-  "2023-12-11": 102410,
-  "2023-12-12": 102410,
-  "2023-12-13": 102410,
-  "2023-12-14": 102961,
-  "2023-12-15": 102973,
-  "2023-12-16": 102989,
-  "2023-12-17": 103008,
-  "2023-12-18": 103022,
-  "2023-12-19": 103028,
-  "2023-12-20": 103042,
-  "2023-12-21": 103057,
-  "2023-12-22": 103075,
-  "2023-12-23": 103089,
-  "2023-12-24": 103096,
-  "2023-12-25": 103112,
-  "2023-12-26": 103119,
-  "2023-12-27": 103140,
-  "2023-12-30": 103185,
-  "2023-12-31": 103200,
-  "2024-01-01": 103216,
-  "2024-01-02": 103231,
-  "2024-01-03": 103250
+  "2024-01-17": 103362,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Vangelis. The essential tracks, all in one playlist.",
+  "name": "This Is Vangelis",
+  "tracks": [
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331426,
+      "name": "12 O'Clock",
+      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
+    },
+    {
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
+    },
+    {
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
+    },
+    {
+      "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+    },
+    {
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352386,
+      "name": "Antarctica Echoes - Remastered",
+      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 88653,
+      "name": "Apocalypse des animaux - G\u00e9n\u00e9rique - Remastered",
+      "url": "https://open.spotify.com/track/5GJ1FqWSDruQItjoJgjds4"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473253,
+      "name": "Ask the Mountains",
+      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 279373,
+      "name": "Blade Runner - End Titles",
+      "url": "https://open.spotify.com/track/1u1ATklwZesAvq1whHsI8Z"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534400,
+      "name": "Blade Runner Blues",
+      "url": "https://open.spotify.com/track/575blCgesVtCu0HEYaIcas"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+    },
+    {
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
+    },
+    {
+      "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 331360,
+      "name": "Chung Kuo",
+      "url": "https://open.spotify.com/track/0y8yOha94wVIUhnVyc2CXX"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 136306,
+      "name": "City of Isabel",
+      "url": "https://open.spotify.com/track/02nEzf5yn6sqI6PxM6QZ8N"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Caroline Lavelle",
+          "url": "https://open.spotify.com/artist/4tmvH1mdQEmU8RbbVAXcGL"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278826,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/0I0i0baAjsJMlTq4rw8w5Q"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278199,
+      "name": "Conquest of Paradise",
+      "url": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 601506,
+      "name": "Cr\u00e9ation du monde - Remastered",
+      "url": "https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4"
+    },
+    {
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 256266,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 356626,
+      "name": "Dream in an Open Place",
+      "url": "https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 504933,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1tVpdAetWFZsb15facJiWb"
+    },
+    {
+      "album": {
+        "name": "El Greco - Original Motion Picture Soundtrack By Vangelis",
+        "url": "https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 238360,
+      "name": "El Greco - Part 1",
+      "url": "https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf"
+    },
+    {
+      "album": {
+        "name": "Chariots Of Fire - The Play",
+        "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 246306,
+      "name": "Eric's Theme",
+      "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
+    },
+    {
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 277320,
+      "name": "Eternal Alexander",
+      "url": "https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118893,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 463773,
+      "name": "Fields of Coral",
+      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 320373,
+      "name": "Five Circles",
+      "url": "https://open.spotify.com/track/0RimU0tZwtruAOSAhoYyRX"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 296533,
+      "name": "Hispanola",
+      "url": "https://open.spotify.com/track/1LYcfDsjiz4z0dqt4mzDQq"
+    },
+    {
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+    },
+    {
+      "album": {
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "album": {
+        "name": "Direct",
+        "url": "https://open.spotify.com/album/1Ia0VRhvOAowBCxm3ncUuZ"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 464040,
+      "name": "Intergalactic Radio Station",
+      "url": "https://open.spotify.com/track/0oEGdwSaHozV9WRqoLm1B7"
+    },
+    {
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65266,
+      "name": "L'ours musicien - Remastered",
+      "url": "https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354906,
+      "name": "La petite fille de la mer - Remastered",
+      "url": "https://open.spotify.com/track/3uNFRvQVEIEsQgHdZFw6Dk"
+    },
+    {
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460413,
+      "name": "Le singe bleu - Remastered",
+      "url": "https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "Light and Shadow",
+      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
+    },
+    {
+      "album": {
+        "name": "Odes",
+        "url": "https://open.spotify.com/album/0HPecu2cHW2o2y13fP3EEF"
+      },
+      "artists": [
+        {
+          "name": "Irene Papas",
+          "url": "https://open.spotify.com/artist/67jA8fjiDYG0HwAwsvZsZu"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 344866,
+      "name": "Little Orange Tree",
+      "url": "https://open.spotify.com/track/3SMjkAqSEXwGvxXNqWCt1r"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401933,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295693,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326653,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 222373,
+      "name": "Main Titles",
+      "url": "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305026,
+      "name": "Memories of Green",
+      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
+    },
+    {
+      "album": {
+        "name": "Direct",
+        "url": "https://open.spotify.com/album/1Ia0VRhvOAowBCxm3ncUuZ"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 369293,
+      "name": "Metallic Rain",
+      "url": "https://open.spotify.com/track/04JlHsrYsWIjL6YzJBktHN"
+    },
+    {
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 132091,
+      "name": "Mission Accomplie (Rosetta's Waltz)",
+      "url": "https://open.spotify.com/track/19d6Bs1nKro6IFDuMCRIdF"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Monastery of La Rabida",
+      "url": "https://open.spotify.com/track/0v6FuCt6q776u7DzFMOPi0"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "Moonlight Reflections",
+      "url": "https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 426333,
+      "name": "Moxica and the Horse",
+      "url": "https://open.spotify.com/track/14LPasSTYy0QbrHIfEYeDQ"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351133,
+      "name": "Nocturnal Promenade",
+      "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "One More Kiss, Dear",
+      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 81533,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/3BUoh4ToIQXNDYWNVBAbgx"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 800040,
+      "name": "Pinta, Nina, Santa Maria",
+      "url": "https://open.spotify.com/track/0BQcj5GUvonO9byni0bEuu"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz"
+    },
+    {
+      "album": {
+        "name": "Prelude (Voices)",
+        "url": "https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        },
+        {
+          "name": "Piano in a Living Room",
+          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 216500,
+      "name": "Prelude (Voices)",
+      "url": "https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl"
+    },
+    {
+      "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 345093,
+      "name": "Pulstar - Audio",
+      "url": "https://open.spotify.com/track/6KEpmIwCSjkcmxPxgV57FV"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+    },
+    {
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302112,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+    },
+    {
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 751653,
+      "name": "R\u00eave - Remastered",
+      "url": "https://open.spotify.com/track/6a9zPEoKGFMjRQeQIJ8h83"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 250960,
+      "name": "Shine for Me",
+      "url": "https://open.spotify.com/track/7Cx1u0F7b34tA8AIReKTLc"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 479000,
+      "name": "Siren's Whispering",
+      "url": "https://open.spotify.com/track/24auEWHk5IjqjrWdxGKbTi"
+    },
+    {
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7y45PMMVyz4EGcfck4gyY7"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 304840,
+      "name": "So Long Ago, So Clear",
+      "url": "https://open.spotify.com/track/7ggqsWse5ByOm5ps5kAP2j"
+    },
+    {
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372680,
+      "name": "Songs of the Seas",
+      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 417933,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/0949j8nbD2KPHvUVE6K0Ed"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Tears in Rain",
+      "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
+    },
+    {
+      "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164066,
+      "name": "The Tao Of Love",
+      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
+    },
+    {
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5UjF6DcW7W8Y7QKvImS5Bn"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 217693,
+      "name": "Theme from Bitter Moon",
+      "url": "https://open.spotify.com/track/7q8F4jINepenPiTCbGW63P"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 242933,
+      "name": "Theme from the TV Series \"Cosmos\" (Heaven and Hell, 3rd Movement)",
+      "url": "https://open.spotify.com/track/4CZv4bLziFAXyyMZzQmv2s"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+    },
+    {
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
+    },
+    {
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 323480,
+      "name": "To a Friend",
+      "url": "https://open.spotify.com/track/4vYXT3DOmHNNj5TfhYOScl"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314333,
+      "name": "Twenty Eighth Parallel",
+      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 421293,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2pgjiHXeXRTqXxabugZoLD"
+    },
+    {
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "West Across the Ocean Sea",
+      "url": "https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P"
+    },
+    {
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95666,
+      "name": "Young Alexander",
+      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK"
 }

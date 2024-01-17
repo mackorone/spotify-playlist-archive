@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best in modern country music. Cover: Jelly Roll",
+  "description": "Nothing but the best in modern country music. Cover: Lana Del Rey",
   "name": "All About Country",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160680,
       "name": "Ain't Doin' Jack",
       "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 179228,
       "name": "Bigger Mistakes",
       "url": "https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4"
@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -4104,6 +4104,24 @@
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
+    },
+    {
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/4OAL0ZF8bxJ9wcIys3oEdU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205194,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/60Zsmy6gLKf8Esy9GiW0Re"
     },
     {
       "album": {
@@ -7094,7 +7112,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 178774,
       "name": "Outta Yours",
       "url": "https://open.spotify.com/track/5jS6YjfCQVeu6vFtWoWiaU"
@@ -8309,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "Single Again",
+        "url": "https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179050,
+      "name": "Single Again",
+      "url": "https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc"
+    },
+    {
+      "album": {
         "name": "Sink with the Sun",
         "url": "https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN"
       },
@@ -9426,6 +9462,24 @@
       "duration_ms": 185000,
       "name": "Tell Me It Is",
       "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
+    },
+    {
+      "album": {
+        "name": "Tell Me Tennessee",
+        "url": "https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Tell Me Tennessee",
+      "url": "https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG"
     },
     {
       "album": {
@@ -10892,7 +10946,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 239533,
       "name": "Where the Wild Things Are",
       "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"

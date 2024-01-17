@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7gN1qBoBYg.md) - [plain]
 
 > Welcome to RADAR: A space for storytelling going beyond the music featuring Yaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,061 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,087 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 |
-| 2 | [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 |
+| 2 | [Awkward](https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 2:33 |
 | 3 | [Mi Coche](https://open.spotify.com/track/4gkjuwpDV79mAVqqyoeSsD) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Mi Coche](https://open.spotify.com/album/3GXX4mzpuZaXxbFcQ9aGeW) | 2:00 |
 | 4 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
 | 5 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 |

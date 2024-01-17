@@ -1,735 +1,1191 @@
 {
-  "2021-12-25": 728977,
-  "2021-12-26": 729134,
-  "2021-12-27": 729439,
-  "2021-12-28": 729441,
-  "2021-12-29": 729585,
-  "2021-12-30": 729779,
-  "2021-12-31": 729927,
-  "2022-01-01": 730224,
-  "2022-01-02": 730289,
-  "2022-01-03": 730429,
-  "2022-01-04": 730568,
-  "2022-01-05": 730712,
-  "2022-01-06": 730868,
-  "2022-01-07": 731015,
-  "2022-01-08": 731258,
-  "2022-01-09": 731264,
-  "2022-01-10": 731432,
-  "2022-01-11": 731535,
-  "2022-01-12": 731717,
-  "2022-01-13": 731897,
-  "2022-01-14": 732118,
-  "2022-01-15": 732529,
-  "2022-01-16": 732544,
-  "2022-01-17": 732839,
-  "2022-01-18": 732858,
-  "2022-01-19": 732971,
-  "2022-01-20": 733090,
-  "2022-01-21": 733227,
-  "2022-01-22": 733433,
-  "2022-01-23": 733590,
-  "2022-01-24": 733796,
-  "2022-01-25": 733941,
-  "2022-01-26": 734071,
-  "2022-01-27": 734221,
-  "2022-01-28": 734337,
-  "2022-01-29": 734504,
-  "2022-01-30": 734681,
-  "2022-01-31": 734863,
-  "2022-02-01": 735008,
-  "2022-02-02": 735164,
-  "2022-02-03": 735299,
-  "2022-02-04": 735495,
-  "2022-02-05": 735619,
-  "2022-02-06": 735815,
-  "2022-02-07": 735986,
-  "2022-02-08": 736160,
-  "2022-02-09": 736282,
-  "2022-02-10": 736419,
-  "2022-02-11": 736611,
-  "2022-02-12": 736774,
-  "2022-02-13": 736962,
-  "2022-02-14": 737139,
-  "2022-02-15": 737268,
-  "2022-02-16": 737406,
-  "2022-02-17": 737552,
-  "2022-02-18": 737719,
-  "2022-02-19": 737923,
-  "2022-02-20": 738123,
-  "2022-02-21": 738294,
-  "2022-02-22": 738504,
-  "2022-02-23": 738751,
-  "2022-02-24": 738982,
-  "2022-02-25": 739164,
-  "2022-02-26": 739367,
-  "2022-02-27": 739788,
-  "2022-02-28": 739788,
-  "2022-03-01": 739943,
-  "2022-03-02": 740089,
-  "2022-03-03": 740268,
-  "2022-03-04": 740446,
-  "2022-03-05": 740634,
-  "2022-03-06": 740816,
-  "2022-03-07": 741001,
-  "2022-03-08": 741151,
-  "2022-03-09": 741300,
-  "2022-03-10": 741463,
-  "2022-03-11": 741600,
-  "2022-03-12": 741794,
-  "2022-03-13": 741984,
-  "2022-03-14": 742192,
-  "2022-03-15": 742374,
-  "2022-03-16": 742547,
-  "2022-03-17": 742749,
-  "2022-03-18": 743028,
-  "2022-03-19": 743150,
-  "2022-03-20": 743150,
-  "2022-03-21": 743622,
-  "2022-03-22": 743780,
-  "2022-03-23": 743979,
-  "2022-03-24": 744207,
-  "2022-03-25": 744443,
-  "2022-03-26": 744649,
-  "2022-03-27": 744802,
-  "2022-03-28": 744997,
-  "2022-03-30": 745336,
-  "2022-03-31": 745505,
-  "2022-04-01": 745664,
-  "2022-04-02": 745874,
-  "2022-04-03": 746069,
-  "2022-04-04": 746270,
-  "2022-04-05": 746403,
-  "2022-04-06": 746586,
-  "2022-04-07": 746777,
-  "2022-04-08": 746961,
-  "2022-04-09": 747164,
-  "2022-04-10": 747575,
-  "2022-04-11": 747772,
-  "2022-04-12": 747813,
-  "2022-04-13": 747990,
-  "2022-04-14": 748195,
-  "2022-04-15": 748434,
-  "2022-04-16": 748718,
-  "2022-04-17": 748954,
-  "2022-04-18": 749188,
-  "2022-04-19": 749326,
-  "2022-04-20": 749530,
-  "2022-04-21": 749750,
-  "2022-04-22": 749953,
-  "2022-04-23": 750187,
-  "2022-04-24": 750385,
-  "2022-04-25": 750612,
-  "2022-04-26": 750844,
-  "2022-04-27": 751102,
-  "2022-04-28": 751297,
-  "2022-04-29": 751668,
-  "2022-04-30": 751891,
-  "2022-05-01": 752148,
-  "2022-05-02": 752148,
-  "2022-05-03": 752318,
-  "2022-05-04": 752500,
-  "2022-05-05": 752678,
-  "2022-05-06": 752868,
-  "2022-05-07": 753137,
-  "2022-05-08": 753460,
-  "2022-05-09": 753491,
-  "2022-05-10": 753668,
-  "2022-05-11": 753860,
-  "2022-05-12": 754040,
-  "2022-05-13": 754221,
-  "2022-05-14": 754409,
-  "2022-05-15": 754578,
-  "2022-05-16": 754792,
-  "2022-05-17": 754954,
-  "2022-05-18": 755138,
-  "2022-05-19": 755319,
-  "2022-05-20": 755535,
-  "2022-05-21": 755867,
-  "2022-05-22": 755867,
-  "2022-05-23": 756028,
-  "2022-05-24": 756204,
-  "2022-05-25": 756395,
-  "2022-05-26": 756541,
-  "2022-05-27": 756700,
-  "2022-05-28": 756879,
-  "2022-05-29": 757046,
-  "2022-05-30": 757226,
-  "2022-05-31": 757368,
-  "2022-06-01": 757635,
-  "2022-06-02": 757656,
-  "2022-06-03": 757781,
-  "2022-06-04": 757929,
-  "2022-06-05": 758090,
-  "2022-06-06": 758249,
-  "2022-06-07": 758440,
-  "2022-06-08": 758606,
-  "2022-06-09": 758704,
-  "2022-06-10": 758849,
-  "2022-06-11": 759059,
-  "2022-06-12": 759225,
-  "2022-06-13": 759417,
-  "2022-06-14": 759568,
-  "2022-06-15": 759731,
-  "2022-06-16": 759902,
-  "2022-06-17": 760065,
-  "2022-06-18": 760234,
-  "2022-06-19": 760618,
-  "2022-06-20": 760618,
-  "2022-06-21": 760781,
-  "2022-06-22": 761072,
-  "2022-06-23": 761072,
-  "2022-06-24": 761254,
-  "2022-06-25": 761424,
-  "2022-06-26": 761581,
-  "2022-06-27": 761808,
-  "2022-06-28": 761975,
-  "2022-06-29": 762122,
-  "2022-06-30": 762283,
-  "2022-07-01": 762486,
-  "2022-07-02": 762694,
-  "2022-07-03": 762893,
-  "2022-07-04": 763095,
-  "2022-07-05": 763232,
-  "2022-07-06": 763408,
-  "2022-07-07": 763566,
-  "2022-07-08": 763714,
-  "2022-07-09": 763899,
-  "2022-07-10": 764116,
-  "2022-07-11": 764296,
-  "2022-07-12": 764463,
-  "2022-07-13": 764599,
-  "2022-07-14": 764775,
-  "2022-07-15": 764980,
-  "2022-07-16": 765186,
-  "2022-07-17": 765403,
-  "2022-07-18": 765608,
-  "2022-07-19": 765793,
-  "2022-07-20": 765965,
-  "2022-07-21": 766143,
-  "2022-07-22": 766298,
-  "2022-07-23": 766476,
-  "2022-07-24": 766649,
-  "2022-07-25": 766860,
-  "2022-07-26": 767025,
-  "2022-07-27": 767161,
-  "2022-07-28": 767336,
-  "2022-07-29": 767516,
-  "2022-07-30": 767845,
-  "2022-07-31": 767845,
-  "2022-08-01": 768000,
-  "2022-08-02": 768314,
-  "2022-08-03": 768314,
-  "2022-08-04": 768477,
-  "2022-08-05": 768623,
-  "2022-08-06": 768781,
-  "2022-08-07": 768957,
-  "2022-08-08": 769122,
-  "2022-08-09": 769290,
-  "2022-08-10": 769417,
-  "2022-08-11": 769557,
-  "2022-08-12": 769727,
-  "2022-08-13": 769874,
-  "2022-08-14": 770054,
-  "2022-08-15": 770223,
-  "2022-08-16": 770355,
-  "2022-08-17": 770481,
-  "2022-08-18": 770631,
-  "2022-08-19": 770806,
-  "2022-08-20": 771003,
-  "2022-08-21": 771192,
-  "2022-08-22": 771379,
-  "2022-08-23": 771551,
-  "2022-08-24": 771693,
-  "2022-08-25": 771878,
-  "2022-08-26": 772042,
-  "2022-08-27": 772236,
-  "2022-08-28": 772401,
-  "2022-08-29": 772582,
-  "2022-08-30": 772715,
-  "2022-08-31": 772827,
-  "2022-09-01": 772939,
-  "2022-09-02": 773105,
-  "2022-09-03": 773256,
-  "2022-09-04": 773366,
-  "2022-09-05": 773478,
-  "2022-09-06": 773615,
-  "2022-09-07": 773739,
-  "2022-09-09": 774024,
-  "2022-09-10": 774170,
-  "2022-09-11": 774331,
-  "2022-09-12": 774488,
-  "2022-09-13": 774606,
-  "2022-09-15": 774840,
-  "2022-09-16": 774992,
-  "2022-09-17": 775159,
-  "2022-09-18": 775334,
-  "2022-09-19": 775491,
-  "2022-09-20": 775610,
-  "2022-09-21": 775772,
-  "2022-09-22": 775889,
-  "2022-09-23": 776052,
-  "2022-09-24": 776199,
-  "2022-09-25": 776336,
-  "2022-09-26": 776497,
-  "2022-09-27": 776635,
-  "2022-09-28": 776780,
-  "2022-09-29": 776911,
-  "2022-09-30": 777090,
-  "2022-10-01": 777235,
-  "2022-10-02": 777383,
-  "2022-10-03": 777524,
-  "2022-10-04": 777671,
-  "2022-10-05": 777792,
-  "2022-10-06": 777933,
-  "2022-10-07": 778117,
-  "2022-10-08": 778280,
-  "2022-10-09": 778575,
-  "2022-10-10": 778617,
-  "2022-10-11": 778756,
-  "2022-10-12": 778869,
-  "2022-10-13": 779026,
-  "2022-10-14": 779194,
-  "2022-10-15": 779332,
-  "2022-10-16": 779467,
-  "2022-10-17": 779601,
-  "2022-10-18": 779743,
-  "2022-10-19": 779883,
-  "2022-10-20": 780009,
-  "2022-10-21": 780184,
-  "2022-10-22": 780341,
-  "2022-10-23": 780509,
-  "2022-10-24": 780659,
-  "2022-10-25": 780760,
-  "2022-10-26": 780903,
-  "2022-10-27": 781047,
-  "2022-10-28": 781186,
-  "2022-10-29": 781322,
-  "2022-10-30": 781468,
-  "2022-10-31": 781598,
-  "2022-11-01": 781697,
-  "2022-11-02": 781806,
-  "2022-11-03": 781934,
-  "2022-11-04": 782058,
-  "2022-11-05": 782209,
-  "2022-11-06": 782317,
-  "2022-11-07": 782467,
-  "2022-11-08": 782578,
-  "2022-11-09": 782717,
-  "2022-11-10": 782839,
-  "2022-11-11": 782989,
-  "2022-11-12": 783145,
-  "2022-11-13": 783274,
-  "2022-11-14": 783404,
-  "2022-11-15": 783489,
-  "2022-11-16": 783604,
-  "2022-11-17": 783734,
-  "2022-11-18": 783751,
-  "2022-11-19": 783669,
-  "2022-11-20": 783663,
-  "2022-11-21": 783766,
-  "2022-11-22": 784118,
-  "2022-11-23": 784006,
-  "2022-11-24": 784266,
-  "2022-11-25": 784607,
-  "2022-11-26": 784819,
-  "2022-11-27": 784960,
-  "2022-11-28": 785103,
-  "2022-11-29": 785204,
-  "2022-11-30": 785301,
-  "2022-12-01": 785462,
-  "2022-12-02": 785643,
-  "2022-12-03": 785725,
-  "2022-12-04": 785941,
-  "2022-12-05": 786113,
-  "2022-12-06": 786225,
-  "2022-12-07": 786357,
-  "2022-12-08": 786493,
-  "2022-12-09": 786646,
-  "2022-12-10": 786797,
-  "2022-12-11": 786954,
-  "2022-12-12": 787118,
-  "2022-12-13": 787259,
-  "2022-12-14": 787363,
-  "2022-12-15": 787499,
-  "2022-12-16": 787660,
-  "2022-12-17": 787787,
-  "2022-12-18": 787947,
-  "2022-12-19": 788062,
-  "2022-12-20": 788366,
-  "2022-12-21": 788366,
-  "2022-12-22": 788692,
-  "2022-12-24": 789307,
-  "2022-12-25": 789492,
-  "2022-12-26": 789692,
-  "2022-12-27": 789933,
-  "2022-12-28": 790169,
-  "2022-12-29": 790442,
-  "2022-12-30": 790738,
-  "2022-12-31": 161178,
-  "2023-01-01": 35475,
-  "2023-01-02": 10494,
-  "2023-01-03": 10494,
-  "2023-01-04": 10494,
-  "2023-01-05": 10494,
-  "2023-01-06": 10494,
-  "2023-01-07": 10494,
-  "2023-01-08": 10494,
-  "2023-01-09": 10494,
-  "2023-01-10": 10494,
-  "2023-01-11": 10494,
-  "2023-01-12": 10494,
-  "2023-01-13": 10494,
-  "2023-01-14": 10494,
-  "2023-01-15": 10494,
-  "2023-01-16": 10494,
-  "2023-01-17": 10494,
-  "2023-01-18": 10494,
-  "2023-01-19": 10494,
-  "2023-01-20": 10494,
-  "2023-01-21": 10494,
-  "2023-01-22": 10494,
-  "2023-01-23": 10494,
-  "2023-01-24": 10494,
-  "2023-01-25": 10494,
-  "2023-01-26": 10494,
-  "2023-01-27": 10494,
-  "2023-01-28": 10494,
-  "2023-01-29": 10494,
-  "2023-01-30": 10494,
-  "2023-01-31": 10494,
-  "2023-02-01": 10494,
-  "2023-02-02": 10494,
-  "2023-02-03": 10494,
-  "2023-02-04": 10494,
-  "2023-02-05": 10494,
-  "2023-02-06": 10494,
-  "2023-02-07": 10494,
-  "2023-02-08": 10494,
-  "2023-02-09": 10494,
-  "2023-02-10": 10494,
-  "2023-02-11": 10494,
-  "2023-02-12": 10494,
-  "2023-02-13": 10494,
-  "2023-02-14": 10494,
-  "2023-02-15": 10494,
-  "2023-02-16": 10494,
-  "2023-02-17": 10494,
-  "2023-02-18": 10494,
-  "2023-02-19": 10494,
-  "2023-02-20": 10494,
-  "2023-02-21": 10494,
-  "2023-02-22": 10494,
-  "2023-02-23": 10494,
-  "2023-02-24": 10494,
-  "2023-02-25": 10494,
-  "2023-02-26": 10494,
-  "2023-02-27": 10494,
-  "2023-02-28": 10494,
-  "2023-03-01": 10494,
-  "2023-03-02": 10494,
-  "2023-03-03": 10494,
-  "2023-03-04": 10494,
-  "2023-03-05": 10494,
-  "2023-03-06": 10494,
-  "2023-03-07": 10494,
-  "2023-03-08": 10494,
-  "2023-03-09": 10494,
-  "2023-03-10": 10494,
-  "2023-03-11": 10494,
-  "2023-03-12": 10494,
-  "2023-03-13": 10494,
-  "2023-03-14": 10494,
-  "2023-03-15": 10494,
-  "2023-03-16": 10494,
-  "2023-03-17": 10494,
-  "2023-03-18": 10494,
-  "2023-03-19": 10494,
-  "2023-03-20": 10494,
-  "2023-03-21": 10494,
-  "2023-03-22": 10494,
-  "2023-03-23": 10494,
-  "2023-03-24": 10494,
-  "2023-03-25": 10494,
-  "2023-03-26": 10494,
-  "2023-03-27": 10494,
-  "2023-03-28": 10494,
-  "2023-03-29": 10494,
-  "2023-03-30": 10494,
-  "2023-03-31": 10494,
-  "2023-04-01": 10494,
-  "2023-04-02": 10494,
-  "2023-04-03": 10494,
-  "2023-04-04": 10494,
-  "2023-04-05": 10494,
-  "2023-04-06": 10494,
-  "2023-04-07": 10494,
-  "2023-04-09": 10494,
-  "2023-04-10": 10494,
-  "2023-04-11": 10494,
-  "2023-04-12": 10494,
-  "2023-04-13": 10494,
-  "2023-04-14": 10494,
-  "2023-04-15": 10494,
-  "2023-04-16": 10494,
-  "2023-04-17": 10494,
-  "2023-04-18": 10494,
-  "2023-04-19": 10494,
-  "2023-04-20": 10494,
-  "2023-04-21": 10494,
-  "2023-04-22": 10494,
-  "2023-04-23": 10494,
-  "2023-04-24": 10494,
-  "2023-04-25": 10494,
-  "2023-04-26": 10494,
-  "2023-04-27": 10494,
-  "2023-04-28": 10494,
-  "2023-04-29": 10494,
-  "2023-04-30": 10494,
-  "2023-05-01": 10494,
-  "2023-05-02": 10494,
-  "2023-05-03": 10494,
-  "2023-05-04": 10494,
-  "2023-05-05": 10494,
-  "2023-05-06": 10494,
-  "2023-05-07": 10494,
-  "2023-05-08": 10494,
-  "2023-05-09": 10494,
-  "2023-05-10": 10494,
-  "2023-05-11": 10494,
-  "2023-05-12": 10494,
-  "2023-05-13": 10494,
-  "2023-05-14": 10494,
-  "2023-05-15": 10494,
-  "2023-05-16": 10494,
-  "2023-05-17": 10494,
-  "2023-05-18": 10494,
-  "2023-05-19": 10494,
-  "2023-05-20": 10494,
-  "2023-05-21": 10494,
-  "2023-05-22": 10494,
-  "2023-05-23": 10494,
-  "2023-05-24": 10494,
-  "2023-05-25": 10494,
-  "2023-05-26": 10494,
-  "2023-05-27": 10494,
-  "2023-05-28": 10494,
-  "2023-05-29": 10494,
-  "2023-05-30": 10494,
-  "2023-05-31": 10494,
-  "2023-06-01": 10494,
-  "2023-06-02": 10494,
-  "2023-06-03": 10494,
-  "2023-06-04": 10494,
-  "2023-06-05": 10494,
-  "2023-06-06": 10494,
-  "2023-06-07": 10494,
-  "2023-06-08": 10494,
-  "2023-06-09": 10494,
-  "2023-06-10": 10494,
-  "2023-06-11": 10494,
-  "2023-06-12": 10494,
-  "2023-06-13": 10494,
-  "2023-06-14": 10494,
-  "2023-06-15": 10494,
-  "2023-06-16": 10494,
-  "2023-06-17": 10494,
-  "2023-06-18": 10494,
-  "2023-06-19": 10494,
-  "2023-06-20": 10494,
-  "2023-06-21": 10494,
-  "2023-06-22": 10494,
-  "2023-06-23": 10494,
-  "2023-06-24": 10494,
-  "2023-06-25": 10494,
-  "2023-06-26": 10494,
-  "2023-06-27": 10494,
-  "2023-06-28": 10494,
-  "2023-06-29": 10494,
-  "2023-06-30": 10494,
-  "2023-07-01": 10494,
-  "2023-07-02": 10494,
-  "2023-07-03": 10494,
-  "2023-07-04": 10494,
-  "2023-07-05": 10494,
-  "2023-07-06": 10494,
-  "2023-07-07": 10494,
-  "2023-07-08": 10494,
-  "2023-07-09": 10494,
-  "2023-07-10": 10494,
-  "2023-07-11": 10494,
-  "2023-07-12": 10494,
-  "2023-07-13": 10494,
-  "2023-07-14": 10494,
-  "2023-07-15": 10494,
-  "2023-07-16": 10494,
-  "2023-07-17": 10494,
-  "2023-07-18": 10494,
-  "2023-07-19": 10494,
-  "2023-07-20": 10494,
-  "2023-07-21": 10494,
-  "2023-07-22": 10494,
-  "2023-07-23": 10494,
-  "2023-07-24": 10494,
-  "2023-07-25": 10494,
-  "2023-07-26": 10494,
-  "2023-07-27": 10494,
-  "2023-07-28": 10494,
-  "2023-07-29": 10494,
-  "2023-07-30": 10494,
-  "2023-07-31": 10494,
-  "2023-08-01": 10494,
-  "2023-08-02": 10494,
-  "2023-08-03": 10494,
-  "2023-08-04": 10494,
-  "2023-08-05": 10494,
-  "2023-08-06": 10494,
-  "2023-08-07": 10494,
-  "2023-08-08": 10494,
-  "2023-08-09": 10494,
-  "2023-08-10": 10494,
-  "2023-08-11": 10494,
-  "2023-08-12": 10494,
-  "2023-08-13": 10494,
-  "2023-08-14": 10494,
-  "2023-08-15": 10494,
-  "2023-08-16": 10494,
-  "2023-08-17": 10494,
-  "2023-08-18": 10494,
-  "2023-08-19": 10494,
-  "2023-08-20": 10494,
-  "2023-08-21": 10494,
-  "2023-08-22": 10494,
-  "2023-08-23": 10494,
-  "2023-08-24": 10494,
-  "2023-08-25": 10494,
-  "2023-08-26": 10494,
-  "2023-08-27": 10494,
-  "2023-08-28": 10494,
-  "2023-08-29": 10494,
-  "2023-08-30": 10494,
-  "2023-08-31": 10494,
-  "2023-09-01": 10494,
-  "2023-09-02": 10494,
-  "2023-09-03": 10494,
-  "2023-09-04": 10494,
-  "2023-09-05": 10494,
-  "2023-09-06": 10494,
-  "2023-09-07": 10494,
-  "2023-09-08": 10494,
-  "2023-09-09": 10494,
-  "2023-09-10": 10494,
-  "2023-09-11": 10494,
-  "2023-09-12": 10494,
-  "2023-09-13": 10494,
-  "2023-09-14": 10494,
-  "2023-09-15": 10494,
-  "2023-09-16": 10494,
-  "2023-09-17": 10494,
-  "2023-09-18": 10494,
-  "2023-09-19": 10494,
-  "2023-09-20": 10494,
-  "2023-09-21": 10494,
-  "2023-09-22": 10494,
-  "2023-09-23": 10494,
-  "2023-09-24": 10494,
-  "2023-09-25": 10494,
-  "2023-09-26": 10494,
-  "2023-09-27": 10494,
-  "2023-09-28": 10494,
-  "2023-09-29": 10494,
-  "2023-09-30": 10494,
-  "2023-10-01": 10494,
-  "2023-10-02": 10494,
-  "2023-10-03": 10494,
-  "2023-10-04": 10494,
-  "2023-10-05": 10494,
-  "2023-10-06": 10494,
-  "2023-10-07": 10494,
-  "2023-10-08": 10494,
-  "2023-10-09": 10494,
-  "2023-10-10": 10494,
-  "2023-10-11": 10494,
-  "2023-10-12": 10494,
-  "2023-10-13": 10494,
-  "2023-10-14": 10494,
-  "2023-10-15": 10494,
-  "2023-10-16": 10494,
-  "2023-10-17": 10494,
-  "2023-10-18": 10494,
-  "2023-10-19": 10494,
-  "2023-10-20": 10494,
-  "2023-10-21": 10494,
-  "2023-10-22": 10494,
-  "2023-10-23": 10494,
-  "2023-10-24": 10494,
-  "2023-10-25": 10494,
-  "2023-10-26": 10494,
-  "2023-10-27": 10494,
-  "2023-10-28": 10494,
-  "2023-10-29": 10494,
-  "2023-10-30": 10494,
-  "2023-10-31": 10494,
-  "2023-11-01": 10494,
-  "2023-11-02": 10494,
-  "2023-11-03": 10494,
-  "2023-11-04": 10494,
-  "2023-11-05": 10494,
-  "2023-11-06": 10494,
-  "2023-11-07": 10494,
-  "2023-11-08": 10494,
-  "2023-11-09": 10494,
-  "2023-11-10": 10494,
-  "2023-11-11": 10494,
-  "2023-11-12": 10494,
-  "2023-11-13": 10494,
-  "2023-11-14": 10494,
-  "2023-11-15": 10494,
-  "2023-11-16": 10494,
-  "2023-11-17": 10494,
-  "2023-11-18": 10494,
-  "2023-11-19": 10494,
-  "2023-11-20": 10494,
-  "2023-11-21": 10494,
-  "2023-11-22": 10494,
-  "2023-11-23": 10494,
-  "2023-11-24": 10494,
-  "2023-11-25": 10494,
-  "2023-11-26": 10494,
-  "2023-11-27": 10494,
-  "2023-11-28": 10494,
-  "2023-11-29": 10494,
-  "2023-11-30": 10494,
-  "2023-12-01": 10494,
-  "2023-12-02": 10494,
-  "2023-12-03": 10494,
-  "2023-12-04": 10494,
-  "2023-12-05": 10494,
-  "2023-12-06": 10494,
-  "2023-12-07": 10494,
-  "2023-12-08": 10494,
-  "2023-12-09": 10494,
-  "2023-12-10": 10494,
-  "2023-12-11": 10494,
-  "2023-12-12": 10494,
-  "2023-12-13": 10494,
-  "2023-12-14": 10494,
-  "2023-12-15": 10494,
-  "2023-12-16": 10494,
-  "2023-12-17": 10494,
-  "2023-12-18": 10494,
-  "2023-12-19": 10494,
-  "2023-12-20": 10494,
-  "2023-12-21": 10494,
-  "2023-12-22": 10494,
-  "2023-12-23": 10494,
-  "2023-12-24": 10494,
-  "2023-12-25": 10494,
-  "2023-12-26": 10494,
-  "2023-12-27": 10494,
-  "2023-12-30": 10494,
-  "2023-12-31": 10494,
-  "2024-01-01": 10494,
-  "2024-01-02": 10494,
-  "2024-01-03": 10494
+  "2024-01-17": 10494,
+  "date_first_scraped": "2021-12-21",
+  "description": "John Mayer's new album Sob Rock and his greatest songs all in one playlist.",
+  "name": "This Is John Mayer",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "All I Want Is to Be With You",
+      "url": "https://open.spotify.com/track/0wcEUeOslMI8dPB7QjUMiW"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "All We Ever Do Is Say Goodbye",
+      "url": "https://open.spotify.com/track/5DydMbw2U5Oh1OckJIsniN"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/3brCbW1KbGBUvMsqUhHQEy"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Bigger Than My Body",
+      "url": "https://open.spotify.com/track/0Jh9EBGN205Yc7JN2zZ2f1"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287640,
+      "name": "Born and Raised",
+      "url": "https://open.spotify.com/track/5RYTpsSI7op7UZznXWqhIP"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
+    },
+    {
+      "album": {
+        "name": "Carry Me Away",
+        "url": "https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159134,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/6eIygPhGcBFKKcxlGTJlY0"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6atVS7UZBxoyJkkteM62u5"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323706,
+      "name": "Come Back to Bed",
+      "url": "https://open.spotify.com/track/1wU7z5XE8oa66ZvUlYAKfK"
+    },
+    {
+      "album": {
+        "name": "Inside Wants Out",
+        "url": "https://open.spotify.com/album/5KMP6XLSrhsswEuN2A9VO2"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Comfortable - EP Version",
+      "url": "https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Dear Marie",
+      "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245746,
+      "name": "Dreaming with a Broken Heart",
+      "url": "https://open.spotify.com/track/7keXdrB4mz57u4b8YkCwag"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332066,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/5gbxzSqABThINGDb7vIiwe"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Emoji of a Wave",
+      "url": "https://open.spotify.com/track/5ddXMXmXZ2FN4iliTG20nO"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Half of My Heart",
+      "url": "https://open.spotify.com/track/7hR5toSPEgwFZ78jfHdANM"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "Heartbreak Warfare",
+      "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249120,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/701DK0It9f7iurRnzKvF0y"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "album": {
+        "name": "I Guess I Just Feel Like",
+        "url": "https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286426,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241346,
+      "name": "I Will Be Found (Lost At Sea)",
+      "url": "https://open.spotify.com/track/05Ez6KwjICkscWQVTsT3f5"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "In the Blood",
+      "url": "https://open.spotify.com/track/77Y57qRJBvkGCUw9qs0qMg"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Love Is A Verb",
+      "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
+    },
+    {
+      "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221693,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk"
+    },
+    {
+      "album": {
+        "name": "Eric Clapton & Friends - The Breeze (An Appreciation of JJ Cale)",
+        "url": "https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Magnolia (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/0VzLAYIns618H651sG09Gp"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Moving On and Getting Over",
+      "url": "https://open.spotify.com/track/1crSsvtU9wZB15dIQXV2QH"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223960,
+      "name": "My Stupid Mouth",
+      "url": "https://open.spotify.com/track/3jFP1e8IUpD9QbltEI1Hcg"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262106,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/7Kohy4v3KLWfUXlv9N3feB"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Never on the Day You Leave",
+      "url": "https://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/6AvyYJ6uOBNGvpQrJCHbV1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216026,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/40FLJc17FMZaPmCQEEZgB0"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+    },
+    {
+      "album": {
+        "name": "Treino Pop 2022",
+        "url": "https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217429,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231466,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257386,
+      "name": "Paper Doll",
+      "url": "https://open.spotify.com/track/5FDh0G5oQ2UD9JxWiDCT1x"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268093,
+      "name": "Perfectly Lonely",
+      "url": "https://open.spotify.com/track/42dbDZX9bsEGqMZWYmnR7J"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Queen of California",
+      "url": "https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "Roll it on Home",
+      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240626,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "Shadow Days",
+      "url": "https://open.spotify.com/track/3RgR3cFZ6xh7MlB9DURK6e"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249080,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236733,
+      "name": "Shouldn't Matter but It Does",
+      "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "Something Like Olivia",
+      "url": "https://open.spotify.com/track/1aiDlPLPljMFUylWjMZras"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304440,
+      "name": "Something's Missing",
+      "url": "https://open.spotify.com/track/4ibzxSKw3a6rtIorruN5GO"
+    },
+    {
+      "album": {
+        "name": "Heavier Things",
+        "url": "https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306333,
+      "name": "Split Screen Sadness",
+      "url": "https://open.spotify.com/track/2eMVogxm08LgfgnWpahooV"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234920,
+      "name": "Still Feel Like Your Man",
+      "url": "https://open.spotify.com/track/1LM6t24SjQr2bJHqeGIR4U"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285053,
+      "name": "Stop This Train",
+      "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "The Age of Worry",
+      "url": "https://open.spotify.com/track/1RywwImkBFUEVcRTBmw7vL"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "Til the Right One Comes",
+      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Waitin' On The Day",
+      "url": "https://open.spotify.com/track/58ImA5yX8b5UkLy9MDXwWO"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Why Georgia",
+      "url": "https://open.spotify.com/track/1c7UYTut2SBOPq64o2t0uN"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255213,
+      "name": "Why You No Love Me",
+      "url": "https://open.spotify.com/track/3hwjxbqGvTRUPi38fLgeM7"
+    },
+    {
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
+    },
+    {
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "You're Gonna Live Forever in Me",
+      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
+    },
+    {
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYrlaUEYy4Vg"
 }

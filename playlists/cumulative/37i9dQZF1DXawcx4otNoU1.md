@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-318 songs - 19 hr 20 min
+321 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-07-08 |  |
 | [Beyond](https://open.spotify.com/track/4jdddqrYIZjKf8YeJly1QG) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [R&B Summer Mix](https://open.spotify.com/album/5vWkCTOFti5ycfczgo389O) | 4:00 | 2022-10-28 | 2022-11-13 |
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2021-10-26 | 2022-07-29 |
-| [Bottles](https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN) | [RIKII](https://open.spotify.com/artist/7ieHamtUN3p1EgneRvtZBZ) | [Bottles](https://open.spotify.com/album/6ocdZHo1C445pmeiqfYvrB) | 2:29 | 2022-05-25 |  |
+| [Bottles](https://open.spotify.com/track/3RxGQIPIfdlJbUxoNsOPrN) | [RIKII](https://open.spotify.com/artist/7ieHamtUN3p1EgneRvtZBZ) | [Bottles](https://open.spotify.com/album/6ocdZHo1C445pmeiqfYvrB) | 2:29 | 2022-05-25 | 2024-01-13 |
 | [Bridge Back to Your Heart](https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk) | [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Bridge Back to Your Heart](https://open.spotify.com/album/0nB2e6ErWY7Lpyup9izYVA) | 4:21 | 2021-10-26 |  |
 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 | 2023-01-20 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC) | [Jessie Kol](https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf) | [Can't Help Falling in Love](https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw) | 2:58 | 2021-10-26 |  |
@@ -112,6 +112,7 @@
 | [Hometown Glory](https://open.spotify.com/track/0p6GeAWS4VCZddxNbBtEss) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:31 | 2021-10-26 | 2022-07-29 |
 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 | 2022-07-08 |  |
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 |  |
+| [Honeymoon Fades](https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Honeymoon Fades](https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf) | 3:15 | 2024-01-05 |  |
 | [Hope](https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:08 | 2022-07-08 | 2023-02-14 |
 | [Hope](https://open.spotify.com/track/6xt4u93iwGvKSfwzq8N1TX) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Hope](https://open.spotify.com/album/15Eo57YQWkIcjZfGjwbgv9) | 4:08 | 2021-10-26 | 2022-07-29 |
 | [How Deep Is Your Love](https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:01 | 2022-07-08 | 2023-07-02 |
@@ -143,7 +144,7 @@
 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 | 2021-10-26 |  |
 | [Joshua](https://open.spotify.com/track/1JIJohWX0twBQoxgliDsTS) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Joshua](https://open.spotify.com/album/5IrqNXGVxct1p0ZacZ9GWx) | 3:31 | 2021-10-26 | 2022-07-29 |
 | [Joshua](https://open.spotify.com/track/6O1frpBVWLSIg6tKpeL7oa) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Autumnal Sads](https://open.spotify.com/album/4hcAuhCTa0pgMdbSazbqPO) | 3:31 | 2022-10-28 | 2022-11-12 |
-| [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 | 2022-07-08 |  |
+| [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 | 2022-07-08 | 2024-01-06 |
 | [Just The Same](https://open.spotify.com/track/3ujyLkOjxjuxQT4mlDKug2) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Just The Same](https://open.spotify.com/album/55ZqVHRVgomLyKCk9xKTO9) | 3:25 | 2021-10-26 | 2022-07-29 |
 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 | 2022-09-30 |  |
 | [Just The Same](https://open.spotify.com/track/5hmjpbBTy8TxV9wDKifSub) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:25 | 2022-07-08 | 2022-10-14 |
@@ -193,6 +194,7 @@
 | [Million Reasons](https://open.spotify.com/track/50PWlIBU7PlGGwzgN8TiFJ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor) | 3:25 | 2021-10-26 | 2022-07-29 |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2022-07-08 |  |
 | [Mine](https://open.spotify.com/track/4xhDwG2mnp3YqgfV0JKYcD) | [Ivey Amour](https://open.spotify.com/artist/0i7kCKpYy3ewWFJ6yGh8aW) | [Mine](https://open.spotify.com/album/70MjaaGDN0HkvtxK1aHHGn) | 2:51 | 2022-03-28 | 2022-11-13 |
+| [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 | 2024-01-05 |  |
 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 | 2022-07-08 |  |
 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 | 2021-10-26 | 2022-07-29 |
 | [More Than Words](https://open.spotify.com/track/6M6IJtlG6UzEROamNOwVWk) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Power Ballads](https://open.spotify.com/album/46wt0JPAHXI00ui28lbyR5) | 5:37 | 2022-10-28 | 2022-11-14 |
@@ -206,6 +208,7 @@
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2021-10-26 | 2022-07-29 |
 | [Nice and Slow](https://open.spotify.com/track/3EfqfnRqI4Tq2RZVRHvgoM) | [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8) | [Trill RNB](https://open.spotify.com/album/2gMRm8weTdryJsOJGxCpvi) | 3:33 | 2022-06-02 | 2022-11-13 |
 | [Night](https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Night](https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj) | 3:21 | 2022-03-18 | 2023-12-09 |
+| [Night](https://open.spotify.com/track/7jTiglRi4jwmq5Juixsk7G) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Night](https://open.spotify.com/album/3F1hX3PSva5Juqmgq1chey) | 3:21 | 2023-02-10 |  |
 | [no ill](https://open.spotify.com/track/76wOHtbMpZpSmfsSyAHzlZ) | [deadmen](https://open.spotify.com/artist/1kH6sqipWrJUF1AAeSskjl), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [No Ill](https://open.spotify.com/album/0t2ZDNsrg9DbGT0TfhtPEK) | 2:59 | 2022-05-16 | 2022-11-13 |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-09-30 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2021-11-17 | 2022-10-13 |
@@ -258,7 +261,7 @@
 | [Sex + Hennessy](https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor) | [Eimizah](https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM) | [Sex + Hennessy](https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK) | 2:35 | 2022-04-27 | 2023-02-11 |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2021-10-26 |  |
 | [She Will Be Loved](https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN) | 4:17 | 2021-10-26 |  |
-| [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 | 2021-10-26 |  |
+| [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 | 2021-10-26 | 2024-01-06 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2023-11-08 |  |
 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 | 2022-09-30 |  |
 | [So Close To Magic](https://open.spotify.com/track/4YvPR47qCiXBdVbcKXp24r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [So Close To Magic](https://open.spotify.com/album/4TBOy4iyBHKF7fLQQKucWL) | 3:22 | 2021-10-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,528 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,637 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

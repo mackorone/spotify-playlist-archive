@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Our editor’s picks for best Afro songs of the year.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=W7\_\-S51jTRChnzEEFX68bQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,870 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,411 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

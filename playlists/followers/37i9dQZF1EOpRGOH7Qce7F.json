@@ -1,473 +1,403 @@
 {
-  "2022-09-16": 0,
-  "2022-09-17": 0,
-  "2022-09-18": 0,
-  "2022-09-19": 0,
-  "2022-09-20": 0,
-  "2022-09-21": 0,
-  "2022-09-22": 0,
-  "2022-09-23": 0,
-  "2022-09-24": 0,
-  "2022-09-25": 0,
-  "2022-09-26": 0,
-  "2022-09-27": 0,
-  "2022-09-28": 0,
-  "2022-09-29": 0,
-  "2022-09-30": 0,
-  "2022-10-01": 0,
-  "2022-10-02": 0,
-  "2022-10-03": 0,
-  "2022-10-04": 0,
-  "2022-10-05": 0,
-  "2022-10-06": 0,
-  "2022-10-07": 0,
-  "2022-10-08": 0,
-  "2022-10-09": 0,
-  "2022-10-10": 0,
-  "2022-10-11": 0,
-  "2022-10-12": 0,
-  "2022-10-13": 0,
-  "2022-10-14": 0,
-  "2022-10-15": 0,
-  "2022-10-16": 0,
-  "2022-10-17": 0,
-  "2022-10-18": 0,
-  "2022-10-19": 0,
-  "2022-10-20": 0,
-  "2022-10-21": 0,
-  "2022-10-22": 0,
-  "2022-10-23": 0,
-  "2022-10-24": 0,
-  "2022-10-25": 0,
-  "2022-10-26": 0,
-  "2022-10-27": 0,
-  "2022-10-28": 0,
-  "2022-10-29": 0,
-  "2022-10-30": 0,
-  "2022-10-31": 0,
-  "2022-11-01": 0,
-  "2022-11-02": 0,
-  "2022-11-03": 0,
-  "2022-11-04": 0,
-  "2022-11-05": 0,
-  "2022-11-06": 0,
-  "2022-11-07": 0,
-  "2022-11-08": 0,
-  "2022-11-09": 0,
-  "2022-11-10": 0,
-  "2022-11-11": 0,
-  "2022-11-12": 0,
-  "2022-11-13": 0,
-  "2022-11-14": 0,
-  "2022-11-15": 0,
-  "2022-11-16": 0,
-  "2022-11-17": 0,
-  "2022-11-18": 0,
-  "2022-11-19": 0,
-  "2022-11-20": 0,
-  "2022-11-21": 0,
-  "2022-11-22": 0,
-  "2022-11-23": 0,
-  "2022-11-24": 0,
-  "2022-11-25": 0,
-  "2022-11-26": 0,
-  "2022-11-27": 0,
-  "2022-11-28": 0,
-  "2022-11-29": 0,
-  "2022-11-30": 0,
-  "2022-12-01": 0,
-  "2022-12-02": 0,
-  "2022-12-03": 0,
-  "2022-12-04": 0,
-  "2022-12-05": 0,
-  "2022-12-06": 0,
-  "2022-12-07": 0,
-  "2022-12-08": 0,
-  "2022-12-09": 0,
-  "2022-12-10": 0,
-  "2022-12-11": 0,
-  "2022-12-12": 0,
-  "2022-12-13": 0,
-  "2022-12-14": 0,
-  "2022-12-15": 0,
-  "2022-12-16": 0,
-  "2022-12-17": 0,
-  "2022-12-18": 0,
-  "2022-12-19": 0,
-  "2022-12-20": 0,
-  "2022-12-21": 0,
-  "2022-12-22": 0,
-  "2022-12-24": 0,
-  "2022-12-25": 0,
-  "2022-12-26": 0,
-  "2022-12-27": 0,
-  "2022-12-28": 0,
-  "2022-12-29": 0,
-  "2022-12-30": 0,
-  "2022-12-31": 0,
-  "2023-01-01": 0,
-  "2023-01-02": 0,
-  "2023-01-03": 0,
-  "2023-01-04": 0,
-  "2023-01-05": 0,
-  "2023-01-06": 0,
-  "2023-01-07": 0,
-  "2023-01-08": 0,
-  "2023-01-09": 0,
-  "2023-01-10": 0,
-  "2023-01-11": 0,
-  "2023-01-12": 0,
-  "2023-01-13": 0,
-  "2023-01-14": 0,
-  "2023-01-15": 0,
-  "2023-01-16": 0,
-  "2023-01-17": 0,
-  "2023-01-18": 0,
-  "2023-01-19": 0,
-  "2023-01-20": 0,
-  "2023-01-21": 0,
-  "2023-01-22": 0,
-  "2023-01-23": 0,
-  "2023-01-24": 0,
-  "2023-01-25": 0,
-  "2023-01-26": 0,
-  "2023-01-27": 0,
-  "2023-01-28": 0,
-  "2023-01-29": 0,
-  "2023-01-30": 0,
-  "2023-01-31": 0,
-  "2023-02-01": 0,
-  "2023-02-02": 0,
-  "2023-02-03": 0,
-  "2023-02-04": 0,
-  "2023-02-05": 0,
-  "2023-02-06": 0,
-  "2023-02-07": 0,
-  "2023-02-08": 0,
-  "2023-02-09": 0,
-  "2023-02-10": 0,
-  "2023-02-11": 0,
-  "2023-02-12": 0,
-  "2023-02-13": 0,
-  "2023-02-14": 0,
-  "2023-02-15": 0,
-  "2023-02-16": 0,
-  "2023-02-17": 0,
-  "2023-02-18": 0,
-  "2023-02-19": 0,
-  "2023-02-20": 0,
-  "2023-02-21": 0,
-  "2023-02-22": 0,
-  "2023-02-23": 0,
-  "2023-02-24": 0,
-  "2023-02-25": 0,
-  "2023-02-26": 0,
-  "2023-02-27": 0,
-  "2023-02-28": 0,
-  "2023-03-01": 0,
-  "2023-03-02": 0,
-  "2023-03-03": 0,
-  "2023-03-04": 0,
-  "2023-03-05": 0,
-  "2023-03-06": 0,
-  "2023-03-07": 0,
-  "2023-03-08": 0,
-  "2023-03-09": 0,
-  "2023-03-10": 0,
-  "2023-03-11": 0,
-  "2023-03-12": 0,
-  "2023-03-13": 0,
-  "2023-03-14": 0,
-  "2023-03-15": 0,
-  "2023-03-16": 0,
-  "2023-03-17": 0,
-  "2023-03-18": 0,
-  "2023-03-19": 0,
-  "2023-03-20": 0,
-  "2023-03-21": 0,
-  "2023-03-22": 0,
-  "2023-03-23": 0,
-  "2023-03-24": 0,
-  "2023-03-25": 0,
-  "2023-03-26": 0,
-  "2023-03-27": 0,
-  "2023-03-28": 0,
-  "2023-03-29": 0,
-  "2023-03-30": 0,
-  "2023-03-31": 0,
-  "2023-04-01": 0,
-  "2023-04-02": 0,
-  "2023-04-03": 0,
-  "2023-04-04": 0,
-  "2023-04-05": 0,
-  "2023-04-06": 0,
-  "2023-04-07": 0,
-  "2023-04-09": 0,
-  "2023-04-10": 0,
-  "2023-04-11": 0,
-  "2023-04-12": 0,
-  "2023-04-13": 0,
-  "2023-04-14": 0,
-  "2023-04-15": 0,
-  "2023-04-16": 0,
-  "2023-04-17": 0,
-  "2023-04-18": 0,
-  "2023-04-19": 0,
-  "2023-04-20": 0,
-  "2023-04-21": 0,
-  "2023-04-22": 0,
-  "2023-04-23": 0,
-  "2023-04-24": 0,
-  "2023-04-25": 0,
-  "2023-04-26": 0,
-  "2023-04-27": 0,
-  "2023-04-28": 0,
-  "2023-04-29": 0,
-  "2023-04-30": 0,
-  "2023-05-01": 0,
-  "2023-05-02": 0,
-  "2023-05-03": 0,
-  "2023-05-04": 0,
-  "2023-05-05": 0,
-  "2023-05-06": 0,
-  "2023-05-07": 0,
-  "2023-05-08": 0,
-  "2023-05-09": 0,
-  "2023-05-10": 0,
-  "2023-05-11": 0,
-  "2023-05-12": 0,
-  "2023-05-13": 0,
-  "2023-05-14": 0,
-  "2023-05-15": 0,
-  "2023-05-16": 0,
-  "2023-05-17": 0,
-  "2023-05-18": 0,
-  "2023-05-19": 0,
-  "2023-05-20": 0,
-  "2023-05-21": 0,
-  "2023-05-22": 0,
-  "2023-05-23": 0,
-  "2023-05-24": 0,
-  "2023-05-25": 0,
-  "2023-05-26": 0,
-  "2023-05-27": 0,
-  "2023-05-28": 0,
-  "2023-05-29": 0,
-  "2023-05-30": 0,
-  "2023-05-31": 0,
-  "2023-06-01": 0,
-  "2023-06-02": 0,
-  "2023-06-03": 0,
-  "2023-06-04": 0,
-  "2023-06-05": 0,
-  "2023-06-06": 0,
-  "2023-06-07": 0,
-  "2023-06-08": 0,
-  "2023-06-09": 0,
-  "2023-06-10": 0,
-  "2023-06-11": 0,
-  "2023-06-12": 0,
-  "2023-06-13": 0,
-  "2023-06-14": 0,
-  "2023-06-15": 0,
-  "2023-06-16": 0,
-  "2023-06-17": 0,
-  "2023-06-18": 0,
-  "2023-06-19": 0,
-  "2023-06-20": 0,
-  "2023-06-21": 0,
-  "2023-06-22": 0,
-  "2023-06-23": 0,
-  "2023-06-24": 0,
-  "2023-06-25": 0,
-  "2023-06-26": 0,
-  "2023-06-27": 0,
-  "2023-06-28": 0,
-  "2023-06-29": 0,
-  "2023-06-30": 0,
-  "2023-07-01": 0,
-  "2023-07-02": 0,
-  "2023-07-03": 0,
-  "2023-07-04": 0,
-  "2023-07-05": 0,
-  "2023-07-06": 0,
-  "2023-07-07": 0,
-  "2023-07-08": 0,
-  "2023-07-09": 0,
-  "2023-07-10": 0,
-  "2023-07-11": 0,
-  "2023-07-12": 0,
-  "2023-07-13": 0,
-  "2023-07-14": 0,
-  "2023-07-15": 0,
-  "2023-07-16": 0,
-  "2023-07-17": 0,
-  "2023-07-18": 0,
-  "2023-07-19": 0,
-  "2023-07-20": 0,
-  "2023-07-21": 0,
-  "2023-07-22": 0,
-  "2023-07-23": 0,
-  "2023-07-24": 0,
-  "2023-07-25": 0,
-  "2023-07-26": 0,
-  "2023-07-27": 0,
-  "2023-07-28": 0,
-  "2023-07-29": 0,
-  "2023-07-30": 0,
-  "2023-07-31": 0,
-  "2023-08-01": 0,
-  "2023-08-02": 0,
-  "2023-08-03": 0,
-  "2023-08-04": 0,
-  "2023-08-05": 0,
-  "2023-08-06": 0,
-  "2023-08-07": 0,
-  "2023-08-08": 0,
-  "2023-08-09": 0,
-  "2023-08-10": 0,
-  "2023-08-11": 0,
-  "2023-08-12": 0,
-  "2023-08-13": 0,
-  "2023-08-14": 0,
-  "2023-08-15": 0,
-  "2023-08-16": 0,
-  "2023-08-17": 0,
-  "2023-08-18": 0,
-  "2023-08-19": 0,
-  "2023-08-20": 0,
-  "2023-08-21": 0,
-  "2023-08-22": 0,
-  "2023-08-23": 0,
-  "2023-08-24": 0,
-  "2023-08-25": 0,
-  "2023-08-26": 0,
-  "2023-08-27": 0,
-  "2023-08-28": 0,
-  "2023-08-29": 0,
-  "2023-08-30": 0,
-  "2023-08-31": 0,
-  "2023-09-01": 0,
-  "2023-09-02": 0,
-  "2023-09-03": 0,
-  "2023-09-04": 0,
-  "2023-09-05": 0,
-  "2023-09-06": 0,
-  "2023-09-07": 0,
-  "2023-09-08": 0,
-  "2023-09-09": 0,
-  "2023-09-10": 0,
-  "2023-09-11": 0,
-  "2023-09-12": 0,
-  "2023-09-13": 0,
-  "2023-09-14": 0,
-  "2023-09-15": 0,
-  "2023-09-16": 0,
-  "2023-09-17": 0,
-  "2023-09-18": 0,
-  "2023-09-19": 0,
-  "2023-09-20": 0,
-  "2023-09-21": 0,
-  "2023-09-22": 0,
-  "2023-09-23": 0,
-  "2023-09-24": 0,
-  "2023-09-25": 0,
-  "2023-09-26": 0,
-  "2023-09-27": 0,
-  "2023-09-28": 0,
-  "2023-09-29": 0,
-  "2023-09-30": 0,
-  "2023-10-01": 0,
-  "2023-10-02": 0,
-  "2023-10-03": 0,
-  "2023-10-04": 0,
-  "2023-10-05": 0,
-  "2023-10-06": 0,
-  "2023-10-07": 0,
-  "2023-10-08": 0,
-  "2023-10-09": 0,
-  "2023-10-10": 0,
-  "2023-10-11": 0,
-  "2023-10-12": 0,
-  "2023-10-13": 0,
-  "2023-10-14": 0,
-  "2023-10-15": 0,
-  "2023-10-16": 0,
-  "2023-10-17": 0,
-  "2023-10-18": 0,
-  "2023-10-19": 0,
-  "2023-10-20": 0,
-  "2023-10-21": 0,
-  "2023-10-22": 0,
-  "2023-10-23": 0,
-  "2023-10-24": 0,
-  "2023-10-25": 0,
-  "2023-10-26": 0,
-  "2023-10-27": 0,
-  "2023-10-28": 0,
-  "2023-10-29": 0,
-  "2023-10-30": 0,
-  "2023-10-31": 0,
-  "2023-11-01": 0,
-  "2023-11-02": 0,
-  "2023-11-03": 0,
-  "2023-11-04": 0,
-  "2023-11-05": 0,
-  "2023-11-06": 0,
-  "2023-11-07": 0,
-  "2023-11-08": 0,
-  "2023-11-09": 0,
-  "2023-11-10": 0,
-  "2023-11-11": 0,
-  "2023-11-12": 0,
-  "2023-11-13": 0,
-  "2023-11-14": 0,
-  "2023-11-15": 0,
-  "2023-11-16": 0,
-  "2023-11-17": 0,
-  "2023-11-18": 0,
-  "2023-11-19": 0,
-  "2023-11-20": 0,
-  "2023-11-21": 0,
-  "2023-11-22": 0,
-  "2023-11-23": 0,
-  "2023-11-24": 0,
-  "2023-11-25": 0,
-  "2023-11-26": 0,
-  "2023-11-27": 0,
-  "2023-11-28": 0,
-  "2023-11-29": 0,
-  "2023-11-30": 0,
-  "2023-12-01": 0,
-  "2023-12-02": 0,
-  "2023-12-03": 0,
-  "2023-12-04": 0,
-  "2023-12-05": 0,
-  "2023-12-06": 0,
-  "2023-12-07": 0,
-  "2023-12-08": 0,
-  "2023-12-09": 0,
-  "2023-12-10": 0,
-  "2023-12-11": 0,
-  "2023-12-12": 0,
-  "2023-12-13": 0,
-  "2023-12-14": 0,
-  "2023-12-15": 0,
-  "2023-12-16": 0,
-  "2023-12-17": 0,
-  "2023-12-18": 0,
-  "2023-12-19": 0,
-  "2023-12-20": 0,
-  "2023-12-21": 0,
-  "2023-12-22": 0,
-  "2023-12-23": 0,
-  "2023-12-24": 0,
-  "2023-12-25": 0,
-  "2023-12-26": 0,
-  "2023-12-27": 0,
-  "2023-12-30": 0,
-  "2023-12-31": 0,
-  "2024-01-01": 0,
-  "2024-01-02": 0,
-  "2024-01-03": 0
+  "2024-01-17": 0,
+  "date_first_scraped": "2022-09-16",
+  "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
+  "name": "On Record (9)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Song Appeal",
+        "url": "https://open.spotify.com/show/5t8guRcPZceBH1klbj170z"
+      },
+      "artists": [
+        {
+          "name": "Song Appeal",
+          "url": "https://open.spotify.com/show/5t8guRcPZceBH1klbj170z"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 908069,
+      "name": "\"Stay\" by Zedd & Alessia Cara - Season 2, Episode 12",
+      "url": "https://open.spotify.com/episode/3Ww8k5LSCDrL58ZkztHnoO"
+    },
+    {
+      "album": {
+        "name": "No Effects with Jesse Cohen",
+        "url": "https://open.spotify.com/show/3iSgQtQ7nbcj1rWaOJo6I0"
+      },
+      "artists": [
+        {
+          "name": "No Effects with Jesse Cohen",
+          "url": "https://open.spotify.com/show/3iSgQtQ7nbcj1rWaOJo6I0"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2933238,
+      "name": "106 - Chromeo",
+      "url": "https://open.spotify.com/episode/0k0crVRQr9dXtxYlEq1T0G"
+    },
+    {
+      "album": {
+        "name": "All the Feels",
+        "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184641,
+      "name": "123456",
+      "url": "https://open.spotify.com/track/5O3nMjk8xL7n4TIh0tym4i"
+    },
+    {
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
+    },
+    {
+      "album": {
+        "name": "Record Breakers Music Podcast",
+        "url": "https://open.spotify.com/show/433rrlhNJ6fXn0mTo215Nb"
+      },
+      "artists": [
+        {
+          "name": "Record Breakers Music Podcast",
+          "url": "https://open.spotify.com/show/433rrlhNJ6fXn0mTo215Nb"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2026815,
+      "name": "Daft Punk's \"Homework\"",
+      "url": "https://open.spotify.com/episode/3vcYfM2CJmMaiTixf8Z1XV"
+    },
+    {
+      "album": {
+        "name": "And The Writer Is...with Ross Golan",
+        "url": "https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk"
+      },
+      "artists": [
+        {
+          "name": "And The Writer Is...with Ross Golan",
+          "url": "https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4650188,
+      "name": "Ep. 10: Michael Fitzpatrick of Fitz and The Tantrums",
+      "url": "https://open.spotify.com/episode/6zQ43IU3dpSLuYratnDkec"
+    },
+    {
+      "album": {
+        "name": "John Kennedy's X-Posure Podcast",
+        "url": "https://open.spotify.com/show/42W8B8jJy1adg4K1oNeXRp"
+      },
+      "artists": [
+        {
+          "name": "John Kennedy's X-Posure Podcast",
+          "url": "https://open.spotify.com/show/42W8B8jJy1adg4K1oNeXRp"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3319092,
+      "name": "Episode 355 - Two Door Cinema Club Album Playback",
+      "url": "https://open.spotify.com/episode/0rbxZPLsusbsstm4ydtPAc"
+    },
+    {
+      "album": {
+        "name": "Pop Shop Podcast",
+        "url": "https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ"
+      },
+      "artists": [
+        {
+          "name": "Pop Shop Podcast",
+          "url": "https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3233593,
+      "name": "Foster the People's Mark Foster on the Slow Climb of 'Sit Next to Me,' Being Inspired by Drake & S'mores With Paramore",
+      "url": "https://open.spotify.com/episode/2n5PUhujQouWZer7kvJFQJ"
+    },
+    {
+      "album": {
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i"
+    },
+    {
+      "album": {
+        "name": "Required Listening",
+        "url": "https://open.spotify.com/show/0K61VdygfDhFn10tV1oA7E"
+      },
+      "artists": [
+        {
+          "name": "Required Listening",
+          "url": "https://open.spotify.com/show/0K61VdygfDhFn10tV1oA7E"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2931200,
+      "name": "Imagine Dragons",
+      "url": "https://open.spotify.com/episode/0Q9otOOEJ7bWK7BXxizDYb"
+    },
+    {
+      "album": {
+        "name": "Kyle Meredith With...",
+        "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Meredith With...",
+          "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1100225,
+      "name": "Kyle Meredith With... Arctic Monkeys",
+      "url": "https://open.spotify.com/episode/7vUm8xRxYYumefVxop2Rks"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix (Remix Collection)",
+        "url": "https://open.spotify.com/album/0DMW8W3NICQCWsBB2yYUTO"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308453,
+      "name": "Lisztomania - Alex Metric Remix",
+      "url": "https://open.spotify.com/track/5AYNoX8mueqiClxumfzm3a"
+    },
+    {
+      "album": {
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Lotus Eater",
+      "url": "https://open.spotify.com/track/6ReKt5x6FVUXTMdWNC6GAQ"
+    },
+    {
+      "album": {
+        "name": "White Women",
+        "url": "https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "Old 45's",
+      "url": "https://open.spotify.com/track/3tynLfCMPGbkMKLm9p960T"
+    },
+    {
+      "album": {
+        "name": "Song Exploder",
+        "url": "https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG"
+      },
+      "artists": [
+        {
+          "name": "Song Exploder",
+          "url": "https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1379253,
+      "name": "Phoenix - Ti Amo",
+      "url": "https://open.spotify.com/episode/2DpfPpC9ugjAwZjSAKogR5"
+    },
+    {
+      "album": {
+        "name": "The Best Hang Podcast",
+        "url": "https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2"
+      },
+      "artists": [
+        {
+          "name": "The Best Hang Podcast",
+          "url": "https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3633998,
+      "name": "Season 1 Mike On Much: Cage The Elephant's Matt Shultz (#126)",
+      "url": "https://open.spotify.com/episode/4QrJWtQ6bkJnaNkAcYRGsE"
+    },
+    {
+      "album": {
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/2TaTzAv5PQxDbfjvS7KWXB"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "album": {
+        "name": "On Record",
+        "url": "https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH"
+      },
+      "artists": [
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12004,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EOpRGOH7Qce7F"
 }

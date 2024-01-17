@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Disco Dancer
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,366 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,267 likes - 49 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

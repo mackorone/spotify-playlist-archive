@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-536 songs - 1 day 6 hr 15 min
+538 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Latada](https://open.spotify.com/track/3moZu44G3SRQipBcorIDsd) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [Latada / Na Bad](https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow) | 4:47 | 2022-05-13 | 2022-07-23 |
 | [Lazy Dayz](https://open.spotify.com/track/0tQPk5aD0j9DfieEKVPGV5) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Lazy Dayz](https://open.spotify.com/album/2PLGOYtVU8FrlkylKvzCPt) | 4:59 | 2022-04-15 | 2022-07-09 |
 | [Leds do Japão](https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl) | [Cidade Dormitório](https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf) | [Leds do Japão](https://open.spotify.com/album/5fGPs5zSyeVMc5mwXNTZMp) | 5:27 | 2022-06-10 | 2023-05-27 |
+| [lentamente](https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [lentamente](https://open.spotify.com/album/4zThV7FqLkxpvXMCwd7e2r) | 3:19 | 2024-01-12 |  |
 | [Leo](https://open.spotify.com/track/2OXQt8umfFX1MwvrxAmhjp) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Leo](https://open.spotify.com/album/31LNhs3PMNI7Epfjjs1Wge) | 3:29 | 2022-08-05 | 2022-10-15 |
 | [Let's Do It All Again](https://open.spotify.com/track/4JagVYqLNcy8n8Wh5Pd8cr) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Let's Do It All Again](https://open.spotify.com/album/4ApqIkbwlIRlpeUdChTu0B) | 6:37 | 2022-05-27 | 2022-06-11 |
 | [Levi](https://open.spotify.com/track/1ZzxFNP76eCZ1P18vEGViU) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [a2ele](https://open.spotify.com/artist/2IBOTsCvUK65Wq5eiq0Pkw) | [Levi](https://open.spotify.com/album/0kRSqhVqdtK9t0VJECEfIo) | 4:02 | 2022-07-22 | 2023-05-27 |
@@ -475,6 +476,7 @@
 | [Todo Dia](https://open.spotify.com/track/5XVCGWWidSp3Of6o3AKCBh) | [Vincy](https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm) | [Todo Dia](https://open.spotify.com/album/13Y4BalYZL0tvk5I8dlqJP) | 2:36 | 2022-06-03 | 2022-06-18 |
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |
 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 | 2022-12-24 |
+| [Todos os Santos Permitidos](https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Todos os Santos Permitidos](https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S) | 2:39 | 2024-01-12 |  |
 | [Trabalhar na MTV](https://open.spotify.com/track/3gTjKo4KRxQoBnN3Xpbjs9) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp), [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Trabalhar na MTV](https://open.spotify.com/album/0ShffzuYbSIJGLovvcoPoX) | 2:18 | 2023-06-09 | 2023-10-14 |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 | 2022-05-20 |
 | [Trap Triste](https://open.spotify.com/track/4wEWy4TSZbRj7EqjBHyVUc) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev) | [Trap Triste](https://open.spotify.com/album/1A5g9AosXCIwwTUT8Z25dm) | 3:01 | 2022-12-23 | 2023-01-14 |

@@ -1,472 +1,1357 @@
 {
-  "2022-09-17": 352,
-  "2022-09-18": 361,
-  "2022-09-19": 364,
-  "2022-09-20": 369,
-  "2022-09-21": 373,
-  "2022-09-22": 395,
-  "2022-09-23": 429,
-  "2022-09-24": 429,
-  "2022-09-25": 472,
-  "2022-09-26": 481,
-  "2022-09-27": 495,
-  "2022-09-28": 504,
-  "2022-09-29": 511,
-  "2022-09-30": 527,
-  "2022-10-01": 531,
-  "2022-10-02": 538,
-  "2022-10-03": 543,
-  "2022-10-04": 554,
-  "2022-10-05": 560,
-  "2022-10-06": 569,
-  "2022-10-07": 580,
-  "2022-10-08": 583,
-  "2022-10-09": 600,
-  "2022-10-10": 601,
-  "2022-10-11": 607,
-  "2022-10-12": 617,
-  "2022-10-13": 628,
-  "2022-10-14": 633,
-  "2022-10-15": 642,
-  "2022-10-16": 650,
-  "2022-10-17": 654,
-  "2022-10-18": 663,
-  "2022-10-19": 671,
-  "2022-10-20": 679,
-  "2022-10-21": 683,
-  "2022-10-22": 699,
-  "2022-10-23": 715,
-  "2022-10-24": 724,
-  "2022-10-25": 729,
-  "2022-10-26": 738,
-  "2022-10-27": 739,
-  "2022-10-28": 746,
-  "2022-10-29": 751,
-  "2022-10-30": 757,
-  "2022-10-31": 760,
-  "2022-11-01": 766,
-  "2022-11-02": 772,
-  "2022-11-03": 781,
-  "2022-11-04": 788,
-  "2022-11-05": 792,
-  "2022-11-06": 796,
-  "2022-11-07": 798,
-  "2022-11-08": 802,
-  "2022-11-09": 806,
-  "2022-11-10": 811,
-  "2022-11-11": 817,
-  "2022-11-12": 825,
-  "2022-11-13": 827,
-  "2022-11-14": 833,
-  "2022-11-15": 838,
-  "2022-11-16": 843,
-  "2022-11-17": 846,
-  "2022-11-18": 847,
-  "2022-11-19": 851,
-  "2022-11-20": 855,
-  "2022-11-21": 856,
-  "2022-11-22": 859,
-  "2022-11-23": 863,
-  "2022-11-24": 867,
-  "2022-11-25": 874,
-  "2022-11-26": 881,
-  "2022-11-27": 887,
-  "2022-11-28": 888,
-  "2022-11-29": 894,
-  "2022-11-30": 898,
-  "2022-12-01": 911,
-  "2022-12-02": 912,
-  "2022-12-03": 918,
-  "2022-12-04": 967,
-  "2022-12-05": 979,
-  "2022-12-06": 985,
-  "2022-12-07": 987,
-  "2022-12-08": 989,
-  "2022-12-09": 992,
-  "2022-12-10": 998,
-  "2022-12-11": 1002,
-  "2022-12-12": 1005,
-  "2022-12-13": 1009,
-  "2022-12-14": 1022,
-  "2022-12-15": 1025,
-  "2022-12-16": 1030,
-  "2022-12-17": 1042,
-  "2022-12-18": 1042,
-  "2022-12-19": 1046,
-  "2022-12-20": 1053,
-  "2022-12-21": 1053,
-  "2022-12-22": 1063,
-  "2022-12-24": 1075,
-  "2022-12-25": 1079,
-  "2022-12-26": 1080,
-  "2022-12-27": 1084,
-  "2022-12-28": 1086,
-  "2022-12-29": 1089,
-  "2022-12-30": 1093,
-  "2022-12-31": 1101,
-  "2023-01-01": 1109,
-  "2023-01-02": 1113,
-  "2023-01-03": 1121,
-  "2023-01-04": 1126,
-  "2023-01-05": 1128,
-  "2023-01-06": 1144,
-  "2023-01-07": 1160,
-  "2023-01-08": 1162,
-  "2023-01-09": 1167,
-  "2023-01-10": 1179,
-  "2023-01-11": 1181,
-  "2023-01-12": 1192,
-  "2023-01-13": 1195,
-  "2023-01-14": 1203,
-  "2023-01-15": 1203,
-  "2023-01-16": 1209,
-  "2023-01-17": 1211,
-  "2023-01-18": 1215,
-  "2023-01-19": 1225,
-  "2023-01-20": 1228,
-  "2023-01-21": 1236,
-  "2023-01-22": 1236,
-  "2023-01-23": 1237,
-  "2023-01-24": 1238,
-  "2023-01-25": 1239,
-  "2023-01-26": 1239,
-  "2023-01-27": 1244,
-  "2023-01-28": 1247,
-  "2023-01-29": 1250,
-  "2023-01-30": 1251,
-  "2023-01-31": 1251,
-  "2023-02-01": 1258,
-  "2023-02-02": 1260,
-  "2023-02-03": 1281,
-  "2023-02-04": 1288,
-  "2023-02-05": 1291,
-  "2023-02-06": 1307,
-  "2023-02-07": 1333,
-  "2023-02-08": 1352,
-  "2023-02-09": 1352,
-  "2023-02-10": 1356,
-  "2023-02-11": 1362,
-  "2023-02-12": 1369,
-  "2023-02-13": 1373,
-  "2023-02-14": 1373,
-  "2023-02-15": 1373,
-  "2023-02-16": 1375,
-  "2023-02-17": 1379,
-  "2023-02-18": 1394,
-  "2023-02-19": 1397,
-  "2023-02-20": 1405,
-  "2023-02-21": 1407,
-  "2023-02-22": 1412,
-  "2023-02-23": 1415,
-  "2023-02-24": 1416,
-  "2023-02-25": 1421,
-  "2023-02-26": 1424,
-  "2023-02-27": 1434,
-  "2023-02-28": 1434,
-  "2023-03-01": 1435,
-  "2023-03-02": 1441,
-  "2023-03-03": 1446,
-  "2023-03-04": 1450,
-  "2023-03-05": 1461,
-  "2023-03-06": 1461,
-  "2023-03-07": 1460,
-  "2023-03-08": 1463,
-  "2023-03-09": 1467,
-  "2023-03-10": 1470,
-  "2023-03-11": 1474,
-  "2023-03-12": 1476,
-  "2023-03-13": 1479,
-  "2023-03-14": 1482,
-  "2023-03-15": 1481,
-  "2023-03-16": 1481,
-  "2023-03-17": 1481,
-  "2023-03-18": 1496,
-  "2023-03-19": 1496,
-  "2023-03-20": 1504,
-  "2023-03-21": 1507,
-  "2023-03-22": 1512,
-  "2023-03-23": 1518,
-  "2023-03-24": 1518,
-  "2023-03-25": 1539,
-  "2023-03-26": 1544,
-  "2023-03-27": 1548,
-  "2023-03-28": 1549,
-  "2023-03-29": 1551,
-  "2023-03-30": 1563,
-  "2023-03-31": 1563,
-  "2023-04-01": 1572,
-  "2023-04-02": 1574,
-  "2023-04-03": 1577,
-  "2023-04-04": 1577,
-  "2023-04-05": 1583,
-  "2023-04-06": 1589,
-  "2023-04-07": 1596,
-  "2023-04-09": 1601,
-  "2023-04-10": 1608,
-  "2023-04-11": 1618,
-  "2023-04-12": 1618,
-  "2023-04-13": 1618,
-  "2023-04-14": 1623,
-  "2023-04-15": 1631,
-  "2023-04-16": 1636,
-  "2023-04-17": 1638,
-  "2023-04-18": 1647,
-  "2023-04-19": 1646,
-  "2023-04-20": 1652,
-  "2023-04-21": 1652,
-  "2023-04-22": 1657,
-  "2023-04-23": 1658,
-  "2023-04-24": 1663,
-  "2023-04-25": 1662,
-  "2023-04-26": 1665,
-  "2023-04-27": 1671,
-  "2023-04-28": 1670,
-  "2023-04-29": 1674,
-  "2023-04-30": 1678,
-  "2023-05-01": 1685,
-  "2023-05-02": 1690,
-  "2023-05-03": 1697,
-  "2023-05-04": 1697,
-  "2023-05-05": 1698,
-  "2023-05-06": 1699,
-  "2023-05-07": 1699,
-  "2023-05-08": 1702,
-  "2023-05-09": 1707,
-  "2023-05-10": 1707,
-  "2023-05-11": 1709,
-  "2023-05-12": 1715,
-  "2023-05-13": 1722,
-  "2023-05-14": 1724,
-  "2023-05-15": 1729,
-  "2023-05-16": 1731,
-  "2023-05-17": 1736,
-  "2023-05-18": 1739,
-  "2023-05-19": 1739,
-  "2023-05-20": 1747,
-  "2023-05-21": 1747,
-  "2023-05-22": 1747,
-  "2023-05-23": 1757,
-  "2023-05-24": 1760,
-  "2023-05-25": 1761,
-  "2023-05-26": 1763,
-  "2023-05-27": 1766,
-  "2023-05-28": 1769,
-  "2023-05-29": 1769,
-  "2023-05-30": 1771,
-  "2023-05-31": 1773,
-  "2023-06-01": 1773,
-  "2023-06-02": 1773,
-  "2023-06-03": 1775,
-  "2023-06-04": 1775,
-  "2023-06-05": 1779,
-  "2023-06-06": 1779,
-  "2023-06-07": 1783,
-  "2023-06-08": 1788,
-  "2023-06-09": 1792,
-  "2023-06-10": 1794,
-  "2023-06-11": 1796,
-  "2023-06-12": 1799,
-  "2023-06-13": 1802,
-  "2023-06-14": 1802,
-  "2023-06-15": 1803,
-  "2023-06-16": 1805,
-  "2023-06-17": 1812,
-  "2023-06-18": 1816,
-  "2023-06-19": 1819,
-  "2023-06-20": 1825,
-  "2023-06-21": 1830,
-  "2023-06-22": 1829,
-  "2023-06-23": 1833,
-  "2023-06-24": 1840,
-  "2023-06-25": 1845,
-  "2023-06-26": 1847,
-  "2023-06-27": 1854,
-  "2023-06-28": 1857,
-  "2023-06-29": 1860,
-  "2023-06-30": 1864,
-  "2023-07-01": 1871,
-  "2023-07-02": 1871,
-  "2023-07-03": 1871,
-  "2023-07-04": 1876,
-  "2023-07-05": 1881,
-  "2023-07-06": 1889,
-  "2023-07-07": 1889,
-  "2023-07-08": 1890,
-  "2023-07-09": 1890,
-  "2023-07-10": 1891,
-  "2023-07-11": 1894,
-  "2023-07-12": 1898,
-  "2023-07-13": 1898,
-  "2023-07-14": 1899,
-  "2023-07-15": 1898,
-  "2023-07-16": 1901,
-  "2023-07-17": 1903,
-  "2023-07-18": 1908,
-  "2023-07-19": 1908,
-  "2023-07-20": 1910,
-  "2023-07-21": 1913,
-  "2023-07-22": 1915,
-  "2023-07-23": 1916,
-  "2023-07-24": 1918,
-  "2023-07-25": 1919,
-  "2023-07-26": 1917,
-  "2023-07-27": 1919,
-  "2023-07-28": 1924,
-  "2023-07-29": 1928,
-  "2023-07-30": 1935,
-  "2023-07-31": 1941,
-  "2023-08-01": 1944,
-  "2023-08-02": 1948,
-  "2023-08-03": 1949,
-  "2023-08-04": 1952,
-  "2023-08-05": 1951,
-  "2023-08-06": 1961,
-  "2023-08-07": 1961,
-  "2023-08-08": 1962,
-  "2023-08-09": 1964,
-  "2023-08-10": 1967,
-  "2023-08-11": 1968,
-  "2023-08-12": 1968,
-  "2023-08-13": 1968,
-  "2023-08-14": 1986,
-  "2023-08-15": 1986,
-  "2023-08-16": 1986,
-  "2023-08-17": 1988,
-  "2023-08-18": 1988,
-  "2023-08-19": 1988,
-  "2023-08-20": 1988,
-  "2023-08-21": 1988,
-  "2023-08-22": 1990,
-  "2023-08-23": 1990,
-  "2023-08-24": 2002,
-  "2023-08-25": 2002,
-  "2023-08-26": 2013,
-  "2023-08-27": 2013,
-  "2023-08-28": 2017,
-  "2023-08-29": 2017,
-  "2023-08-30": 2017,
-  "2023-08-31": 2026,
-  "2023-09-01": 2029,
-  "2023-09-02": 2029,
-  "2023-09-03": 2038,
-  "2023-09-04": 2038,
-  "2023-09-05": 2038,
-  "2023-09-06": 2052,
-  "2023-09-07": 2052,
-  "2023-09-08": 2052,
-  "2023-09-09": 2052,
-  "2023-09-10": 2070,
-  "2023-09-11": 2070,
-  "2023-09-12": 2070,
-  "2023-09-13": 2090,
-  "2023-09-14": 2090,
-  "2023-09-15": 2090,
-  "2023-09-16": 2105,
-  "2023-09-17": 2105,
-  "2023-09-18": 2105,
-  "2023-09-19": 2113,
-  "2023-09-20": 2113,
-  "2023-09-21": 2113,
-  "2023-09-22": 2137,
-  "2023-09-23": 2137,
-  "2023-09-24": 2137,
-  "2023-09-25": 2137,
-  "2023-09-26": 2171,
-  "2023-09-27": 2171,
-  "2023-09-28": 2171,
-  "2023-09-29": 2171,
-  "2023-09-30": 2171,
-  "2023-10-01": 2171,
-  "2023-10-02": 2213,
-  "2023-10-03": 2213,
-  "2023-10-04": 2213,
-  "2023-10-05": 2230,
-  "2023-10-06": 2230,
-  "2023-10-07": 2230,
-  "2023-10-08": 2230,
-  "2023-10-09": 2230,
-  "2023-10-10": 2230,
-  "2023-10-11": 2255,
-  "2023-10-12": 2255,
-  "2023-10-13": 2255,
-  "2023-10-14": 2255,
-  "2023-10-15": 2255,
-  "2023-10-16": 2255,
-  "2023-10-17": 2255,
-  "2023-10-18": 2255,
-  "2023-10-19": 2255,
-  "2023-10-20": 2255,
-  "2023-10-21": 2255,
-  "2023-10-22": 2255,
-  "2023-10-23": 2255,
-  "2023-10-24": 2255,
-  "2023-10-25": 2255,
-  "2023-10-26": 2255,
-  "2023-10-27": 2255,
-  "2023-10-28": 2255,
-  "2023-10-29": 2255,
-  "2023-10-30": 2255,
-  "2023-10-31": 2255,
-  "2023-11-01": 2255,
-  "2023-11-02": 2255,
-  "2023-11-03": 2255,
-  "2023-11-04": 2255,
-  "2023-11-05": 2255,
-  "2023-11-06": 2255,
-  "2023-11-07": 2255,
-  "2023-11-08": 2255,
-  "2023-11-09": 2255,
-  "2023-11-10": 2255,
-  "2023-11-11": 2459,
-  "2023-11-12": 2459,
-  "2023-11-13": 2459,
-  "2023-11-14": 2459,
-  "2023-11-15": 2459,
-  "2023-11-16": 2459,
-  "2023-11-17": 2459,
-  "2023-11-18": 2459,
-  "2023-11-19": 2459,
-  "2023-11-20": 2459,
-  "2023-11-21": 2459,
-  "2023-11-22": 2459,
-  "2023-11-23": 2459,
-  "2023-11-24": 2459,
-  "2023-11-25": 2459,
-  "2023-11-26": 2459,
-  "2023-11-27": 2459,
-  "2023-11-28": 2459,
-  "2023-11-29": 2459,
-  "2023-11-30": 2459,
-  "2023-12-01": 2459,
-  "2023-12-02": 2459,
-  "2023-12-03": 2459,
-  "2023-12-04": 2459,
-  "2023-12-05": 2459,
-  "2023-12-06": 2459,
-  "2023-12-07": 2459,
-  "2023-12-08": 2459,
-  "2023-12-09": 2459,
-  "2023-12-10": 2459,
-  "2023-12-11": 2459,
-  "2023-12-12": 2459,
-  "2023-12-13": 2459,
-  "2023-12-14": 2531,
-  "2023-12-15": 2532,
-  "2023-12-16": 2534,
-  "2023-12-17": 2540,
-  "2023-12-18": 2546,
-  "2023-12-19": 2547,
-  "2023-12-20": 2547,
-  "2023-12-21": 2553,
-  "2023-12-22": 2556,
-  "2023-12-23": 2558,
-  "2023-12-24": 2561,
-  "2023-12-25": 2563,
-  "2023-12-26": 2565,
-  "2023-12-27": 2562,
-  "2023-12-30": 2566,
-  "2023-12-31": 2566,
-  "2024-01-01": 2566,
-  "2024-01-02": 2568,
-  "2024-01-03": 2572
+  "2024-01-17": 2601,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
+  "name": "This Is Madison Cunningham",
+  "tracks": [
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263066,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+    },
+    {
+      "album": {
+        "name": "Folkocracy",
+        "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "Alone (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/66DbVShEj5r1ozytczOmjn"
+    },
+    {
+      "album": {
+        "name": "Folkocracy",
+        "url": "https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 194493,
+      "name": "Alone (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/76oJ8QrbQ1el2lG82kGgbw"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166135,
+      "name": "Arrow Through Me",
+      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
+    },
+    {
+      "album": {
+        "name": "Live To Tape: Volume II",
+        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 202319,
+      "name": "Be My Witness (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+    },
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+    },
+    {
+      "album": {
+        "name": "WELL WELL",
+        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150444,
+      "name": "Braver (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
+    },
+    {
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/5wsEdLwlrgniybkBkYZqBN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143204,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/2B6uTBqOlMpfaa5icFCs6x"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Common Language",
+      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
+    },
+    {
+      "album": {
+        "name": "Revealer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Death By Suspicion",
+      "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 259720,
+      "name": "Dry As Sand",
+      "url": "https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44"
+    },
+    {
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
+    },
+    {
+      "album": {
+        "name": "Giraffe",
+        "url": "https://open.spotify.com/album/528JQRLIrcelhIX7s7L2xS"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 252413,
+      "name": "Giraffe",
+      "url": "https://open.spotify.com/track/7bTL9liJExG79P5M6SAz3b"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 248213,
+      "name": "Good Guys And The Villains",
+      "url": "https://open.spotify.com/track/5dQ2LCCzIHUKR7onMXbo9E"
+    },
+    {
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+    },
+    {
+      "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib"
+    },
+    {
+      "album": {
+        "name": "Hospital (One Man Down)",
+        "url": "https://open.spotify.com/album/25iq2f67q6Je815D44cXPu"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 207016,
+      "name": "Hospital (One Man Down) (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
+    },
+    {
+      "album": {
+        "name": "In From Japan",
+        "url": "https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+    },
+    {
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "album": {
+        "name": "Inventing The Wheel",
+        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257202,
+      "name": "Inventing The Wheel",
+      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
+    },
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 295813,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/61D7FDCFgp9U4h6VgpRN0t"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 265040,
+      "name": "Last Boat To Freedom",
+      "url": "https://open.spotify.com/track/4EmXzLFLqPKspA94RIYYM9"
+    },
+    {
+      "album": {
+        "name": "Life According To Raechel",
+        "url": "https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 248720,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/5o4fcb0o1O9UiZMxbPLtJS"
+    },
+    {
+      "album": {
+        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
+    },
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/4Eegpewr60UiKR7w8wfGMH"
+    },
+    {
+      "album": {
+        "name": "Live To Tape: Volume II",
+        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Louisiana 1927 (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
+    },
+    {
+      "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
+    },
+    {
+      "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+    },
+    {
+      "album": {
+        "name": "Neighbor Song (ft. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220230,
+      "name": "Neighbor Song [Feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "album": {
+        "name": "No One Else To Blame",
+        "url": "https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182480,
+      "name": "No One Else To Blame",
+      "url": "https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw"
+    },
+    {
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "album": {
+        "name": "Christ Is Born",
+        "url": "https://open.spotify.com/album/2OHPTjd8AMlL2KTtSHmamI"
+      },
+      "artists": [
+        {
+          "name": "A Jesus Church",
+          "url": "https://open.spotify.com/artist/4TYANTKQ4uK2FLUcu7Nq6a"
+        },
+        {
+          "name": "Evan Wickham",
+          "url": "https://open.spotify.com/artist/6lPnAPe7eezhOUdTrwm7cZ"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 255388,
+      "name": "O Come O Come Emmanuel",
+      "url": "https://open.spotify.com/track/0CxpTBNU9YP73qi3OvxzSP"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 188024,
+      "name": "Our Rebellion",
+      "url": "https://open.spotify.com/track/42rHpSXnUgHvVyIU1VCVPf"
+    },
+    {
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217933,
+      "name": "Plain Letters",
+      "url": "https://open.spotify.com/track/785XCeQqmArhIMXov8OIsc"
+    },
+    {
+      "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+    },
+    {
+      "album": {
+        "name": "Poses",
+        "url": "https://open.spotify.com/album/32tEwUgi2ZxgptAXlxXV0L"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 285173,
+      "name": "Poses",
+      "url": "https://open.spotify.com/track/2GIaxXqz1YwwCeq7fgyTrq"
+    },
+    {
+      "album": {
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286880,
+      "name": "Redemption Ground",
+      "url": "https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 290053,
+      "name": "Remember, Remember",
+      "url": "https://open.spotify.com/track/2X0imj3VOfDGWXOwaYlChu"
+    },
+    {
+      "album": {
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+      },
+      "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+    },
+    {
+      "album": {
+        "name": "For The Sake Of The Rhyme",
+        "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "So Long, Frank Lloyd Wright",
+      "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262727,
+      "name": "Sunshine Over The Counter",
+      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
+    },
+    {
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "album": {
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "The Gotholympians Featuring Madison Cunningham",
+      "url": "https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN"
+    },
+    {
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283785,
+      "name": "The Secret Place - Acoustic",
+      "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "To Another Land",
+      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
+    },
+    {
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270746,
+      "name": "When Love Loves Alone",
+      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+    },
+    {
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 268266,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI"
+    },
+    {
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 191851,
+      "name": "Your Hate Could Power A Train",
+      "url": "https://open.spotify.com/track/4WMivpvdBVAOKQsYvJr4wy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TLEmS"
 }

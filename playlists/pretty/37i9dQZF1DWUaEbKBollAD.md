@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,909 likes - 55 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,202 likes - 55 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

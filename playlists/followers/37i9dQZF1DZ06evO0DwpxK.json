@@ -1,54 +1,745 @@
 {
-  "2023-11-11": 108022,
-  "2023-11-12": 108022,
-  "2023-11-13": 108022,
-  "2023-11-14": 108022,
-  "2023-11-15": 108022,
-  "2023-11-16": 108022,
-  "2023-11-17": 108022,
-  "2023-11-18": 108022,
-  "2023-11-19": 108022,
-  "2023-11-20": 108022,
-  "2023-11-21": 108022,
-  "2023-11-22": 108022,
-  "2023-11-23": 108022,
-  "2023-11-24": 108022,
-  "2023-11-25": 108022,
-  "2023-11-26": 108022,
-  "2023-11-27": 108022,
-  "2023-11-28": 108022,
-  "2023-11-29": 108022,
-  "2023-11-30": 108022,
-  "2023-12-01": 108022,
-  "2023-12-02": 108022,
-  "2023-12-03": 108022,
-  "2023-12-04": 108022,
-  "2023-12-05": 108022,
-  "2023-12-06": 108022,
-  "2023-12-07": 108022,
-  "2023-12-08": 108022,
-  "2023-12-09": 108022,
-  "2023-12-10": 108022,
-  "2023-12-11": 108022,
-  "2023-12-12": 108022,
-  "2023-12-13": 108022,
-  "2023-12-14": 121718,
-  "2023-12-15": 121917,
-  "2023-12-16": 122167,
-  "2023-12-17": 122377,
-  "2023-12-18": 122568,
-  "2023-12-19": 122819,
-  "2023-12-20": 123074,
-  "2023-12-21": 123452,
-  "2023-12-22": 124385,
-  "2023-12-23": 125087,
-  "2023-12-24": 125705,
-  "2023-12-25": 126178,
-  "2023-12-26": 126446,
-  "2023-12-27": 126924,
-  "2023-12-30": 128247,
-  "2023-12-31": 128646,
-  "2024-01-01": 128981,
-  "2024-01-02": 129190,
-  "2024-01-03": 129600
+  "2024-01-17": 135480,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is Humbe. The essential tracks, all in one playlist.",
+  "name": "This Is Humbe",
+  "tracks": [
+    {
+      "album": {
+        "name": "ADULTOS",
+        "url": "https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183078,
+      "name": "ADULTOS",
+      "url": "https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw"
+    },
+    {
+      "album": {
+        "name": "Amor a Primera",
+        "url": "https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Amor a Primera",
+      "url": "https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "album": {
+        "name": "Ardemos",
+        "url": "https://open.spotify.com/album/5eafvTWlzP4LDb3qlSnG9W"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150142,
+      "name": "Ardemos",
+      "url": "https://open.spotify.com/track/3xYvnRj7fODWlrkLzpoEqf"
+    },
+    {
+      "album": {
+        "name": "Arma Perfecta",
+        "url": "https://open.spotify.com/album/23d7EuquSOt846dFTvqu3m"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "Arma Perfecta",
+      "url": "https://open.spotify.com/track/0v6L9ICzGENuWYpVwQ20CT"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350852,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf"
+    },
+    {
+      "album": {
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
+    },
+    {
+      "album": {
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/3py5UQNoZMecvronNEQp41"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc"
+    },
+    {
+      "album": {
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199614,
+      "name": "EL POETA",
+      "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
+    },
+    {
+      "album": {
+        "name": "Son\u00e1mbulo",
+        "url": "https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Encerrados",
+      "url": "https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305456,
+      "name": "ESENCIA",
+      "url": "https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ"
+    },
+    {
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "album": {
+        "name": "Son\u00e1mbulo",
+        "url": "https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/0F84fAwNfEGg9ZIJZCf8cE"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "Himno",
+      "url": "https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209778,
+      "name": "mam\u00e1",
+      "url": "https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245557,
+      "name": "MANIFIESTO",
+      "url": "https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r"
+    },
+    {
+      "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185972,
+      "name": "Muchachitos Feat. Humbe",
+      "url": "https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj"
+    },
+    {
+      "album": {
+        "name": "Son\u00e1mbulo",
+        "url": "https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Nunca Dijiste Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7fssJfhage5MSESIqRxJje"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228973,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "POPULAR",
+        "url": "https://open.spotify.com/album/5dsE4gHv9VesW59zKe9h2I"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215856,
+      "name": "POPULAR",
+      "url": "https://open.spotify.com/track/6kiKyswGZg3caBjYnAIJRs"
+    },
+    {
+      "album": {
+        "name": "Por Favor",
+        "url": "https://open.spotify.com/album/5qCmR3OrPit1qoYrldJEbx"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Por Favor",
+      "url": "https://open.spotify.com/track/6x4hov4il890wqz0eIvSgo"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209926,
+      "name": "QU\u00cdTAME LAS ALAS",
+      "url": "https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "roma",
+      "url": "https://open.spotify.com/track/5eIL2PBVtangYd7tepcTIs"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242424,
+      "name": "sanvalent\u00edn:(",
+      "url": "https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125606,
+      "name": "si ma\u00f1ana comienza sin m\u00ed",
+      "url": "https://open.spotify.com/track/76cA70PWNqcNmyHt1IZeuM"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188525,
+      "name": "Te Conoc\u00ed en Jap\u00f3n",
+      "url": "https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249468,
+      "name": "Te Lo Prometo",
+      "url": "https://open.spotify.com/track/609ItcFreOqmwRjmBbocds"
+    },
+    {
+      "album": {
+        "name": "Te Quiero Aqu\u00ed Ya",
+        "url": "https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185514,
+      "name": "Te Quiero Aqu\u00ed Ya",
+      "url": "https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX"
+    },
+    {
+      "album": {
+        "name": "Todo Mal",
+        "url": "https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Todo Mal",
+      "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
+    },
+    {
+      "album": {
+        "name": "Toma Mi Mano (Live Session)",
+        "url": "https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191534,
+      "name": "Toma Mi Mano (Live Session)",
+      "url": "https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178709,
+      "name": "TSQ",
+      "url": "https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I"
+    },
+    {
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
+    },
+    {
+      "album": {
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "t\u00fa me hiciste volar",
+      "url": "https://open.spotify.com/track/7gx3fwyhHjpLbuW236QYiT"
+    },
+    {
+      "album": {
+        "name": "Una Vida, Y Ya",
+        "url": "https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Una Vida, Y Ya",
+      "url": "https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn"
+    },
+    {
+      "album": {
+        "name": "yo x3",
+        "url": "https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222638,
+      "name": "yo x3",
+      "url": "https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw"
+    },
+    {
+      "album": {
+        "name": "\u00bfVolver?",
+        "url": "https://open.spotify.com/album/0u9IMrvAXTW9FoeQbAFXm0"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Pllws",
+          "url": "https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "\u00bfVolver?",
+      "url": "https://open.spotify.com/track/0YIJV7HH8MYiKdWQTZcydS"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229709,
+      "name": "\u00faltimamente",
+      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK"
 }

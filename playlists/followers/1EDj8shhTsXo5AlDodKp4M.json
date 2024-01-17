@@ -1,226 +1,369 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 1,
-  "2023-06-03": 1,
-  "2023-06-04": 1,
-  "2023-06-05": 1,
-  "2023-06-06": 1,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 2,
-  "2023-06-22": 2,
-  "2023-06-23": 2,
-  "2023-06-24": 2,
-  "2023-06-25": 2,
-  "2023-06-26": 2,
-  "2023-06-27": 2,
-  "2023-06-28": 2,
-  "2023-06-29": 2,
-  "2023-06-30": 2,
-  "2023-07-01": 2,
-  "2023-07-02": 2,
-  "2023-07-03": 2,
-  "2023-07-04": 2,
-  "2023-07-05": 2,
-  "2023-07-06": 2,
-  "2023-07-07": 2,
-  "2023-07-08": 2,
-  "2023-07-09": 2,
-  "2023-07-10": 2,
-  "2023-07-11": 2,
-  "2023-07-12": 2,
-  "2023-07-13": 2,
-  "2023-07-14": 2,
-  "2023-07-15": 2,
-  "2023-07-16": 2,
-  "2023-07-17": 2,
-  "2023-07-18": 2,
-  "2023-07-19": 2,
-  "2023-07-20": 2,
-  "2023-07-21": 2,
-  "2023-07-22": 2,
-  "2023-07-23": 2,
-  "2023-07-24": 2,
-  "2023-07-25": 2,
-  "2023-07-26": 2,
-  "2023-07-27": 2,
-  "2023-07-28": 2,
-  "2023-07-29": 2,
-  "2023-07-30": 2,
-  "2023-07-31": 2,
-  "2023-08-01": 2,
-  "2023-08-02": 2,
-  "2023-08-03": 2,
-  "2023-08-04": 2,
-  "2023-08-05": 2,
-  "2023-08-06": 2,
-  "2023-08-07": 2,
-  "2023-08-08": 2,
-  "2023-08-09": 2,
-  "2023-08-10": 2,
-  "2023-08-11": 2,
-  "2023-08-12": 2,
-  "2023-08-13": 2,
-  "2023-08-14": 2,
-  "2023-08-15": 2,
-  "2023-08-16": 2,
-  "2023-08-17": 2,
-  "2023-08-18": 2,
-  "2023-08-19": 2,
-  "2023-08-20": 2,
-  "2023-08-21": 2,
-  "2023-08-22": 2,
-  "2023-08-23": 2,
-  "2023-08-24": 2,
-  "2023-08-25": 2,
-  "2023-08-26": 2,
-  "2023-08-27": 2,
-  "2023-08-28": 2,
-  "2023-08-29": 2,
-  "2023-08-30": 2,
-  "2023-08-31": 2,
-  "2023-09-01": 2,
-  "2023-09-02": 2,
-  "2023-09-03": 2,
-  "2023-09-04": 2,
-  "2023-09-05": 2,
-  "2023-09-06": 2,
-  "2023-09-07": 2,
-  "2023-09-08": 2,
-  "2023-09-09": 2,
-  "2023-09-10": 2,
-  "2023-09-11": 2,
-  "2023-09-12": 2,
-  "2023-09-13": 2,
-  "2023-09-14": 2,
-  "2023-09-15": 2,
-  "2023-09-16": 2,
-  "2023-09-17": 2,
-  "2023-09-18": 2,
-  "2023-09-19": 2,
-  "2023-09-20": 2,
-  "2023-09-21": 2,
-  "2023-09-22": 2,
-  "2023-09-23": 2,
-  "2023-09-24": 2,
-  "2023-09-25": 2,
-  "2023-09-26": 2,
-  "2023-09-27": 2,
-  "2023-09-28": 2,
-  "2023-09-29": 2,
-  "2023-09-30": 2,
-  "2023-10-01": 2,
-  "2023-10-02": 2,
-  "2023-10-03": 2,
-  "2023-10-04": 2,
-  "2023-10-05": 2,
-  "2023-10-06": 2,
-  "2023-10-07": 2,
-  "2023-10-08": 2,
-  "2023-10-09": 2,
-  "2023-10-10": 2,
-  "2023-10-11": 2,
-  "2023-10-12": 2,
-  "2023-10-13": 2,
-  "2023-10-14": 2,
-  "2023-10-15": 2,
-  "2023-10-16": 2,
-  "2023-10-17": 2,
-  "2023-10-18": 2,
-  "2023-10-19": 2,
-  "2023-10-20": 2,
-  "2023-10-21": 2,
-  "2023-10-22": 2,
-  "2023-10-23": 2,
-  "2023-10-24": 2,
-  "2023-10-25": 2,
-  "2023-10-26": 2,
-  "2023-10-27": 2,
-  "2023-10-28": 2,
-  "2023-10-29": 2,
-  "2023-10-30": 2,
-  "2023-10-31": 2,
-  "2023-11-01": 2,
-  "2023-11-02": 2,
-  "2023-11-03": 2,
-  "2023-11-04": 2,
-  "2023-11-05": 2,
-  "2023-11-06": 2,
-  "2023-11-07": 2,
-  "2023-11-08": 2,
-  "2023-11-09": 2,
-  "2023-11-10": 2,
-  "2023-11-11": 2,
-  "2023-11-12": 2,
-  "2023-11-13": 2,
-  "2023-11-14": 2,
-  "2023-11-15": 2,
-  "2023-11-16": 2,
-  "2023-11-17": 2,
-  "2023-11-18": 2,
-  "2023-11-19": 2,
-  "2023-11-20": 2,
-  "2023-11-21": 2,
-  "2023-11-22": 2,
-  "2023-11-23": 2,
-  "2023-11-24": 2,
-  "2023-11-25": 2,
-  "2023-11-26": 2,
-  "2023-11-27": 2,
-  "2023-11-28": 2,
-  "2023-11-29": 2,
-  "2023-11-30": 2,
-  "2023-12-01": 2,
-  "2023-12-02": 2,
-  "2023-12-03": 2,
-  "2023-12-04": 2,
-  "2023-12-05": 2,
-  "2023-12-06": 2,
-  "2023-12-07": 2,
-  "2023-12-08": 2,
-  "2023-12-09": 2,
-  "2023-12-10": 2,
-  "2023-12-11": 2,
-  "2023-12-12": 2,
-  "2023-12-13": 2,
-  "2023-12-14": 2,
-  "2023-12-15": 2,
-  "2023-12-16": 2,
-  "2023-12-17": 2,
-  "2023-12-18": 2,
-  "2023-12-19": 2,
-  "2023-12-20": 2,
-  "2023-12-21": 2,
-  "2023-12-22": 2,
-  "2023-12-23": 2,
-  "2023-12-24": 2,
-  "2023-12-25": 2,
-  "2023-12-26": 2,
-  "2023-12-27": 2,
-  "2023-12-30": 2,
-  "2023-12-31": 2,
-  "2024-01-01": 2,
-  "2024-01-02": 2,
-  "2024-01-03": 2
+  "2024-01-17": 2,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "No sleep for these forgotten bangers",
+  "tracks": [
+    {
+      "album": {
+        "name": "Heretic Pride",
+        "url": "https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Autoclave",
+      "url": "https://open.spotify.com/track/2cFBGQxTs9fGssAQXxEskT"
+    },
+    {
+      "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122906,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/3KxgkR0sJyCkSqmvslZA1S"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Broom People",
+      "url": "https://open.spotify.com/track/2bFeGbac1pxjzVAOYxtjEV"
+    },
+    {
+      "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102653,
+      "name": "Choked Out",
+      "url": "https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48"
+    },
+    {
+      "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Color in Your Cheeks",
+      "url": "https://open.spotify.com/track/5NfLknyes6L0h5dDB6ZPck"
+    },
+    {
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/61KhGISpR8XOMmdiIICVNK"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Cotton",
+      "url": "https://open.spotify.com/track/2krCgSTjz6Ex8tJ6j8Qllj"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Dinu Lipatti's Bones",
+      "url": "https://open.spotify.com/track/1t771pzCeXVaJxsUYSDYsi"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Game Shows Touch Our Lives",
+      "url": "https://open.spotify.com/track/6GbOE6jRrtTuFVOz4gaHKz"
+    },
+    {
+      "album": {
+        "name": "Nothing for Juice",
+        "url": "https://open.spotify.com/album/21o3AFcGJBapqPnygk3AZJ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Going to Kansas",
+      "url": "https://open.spotify.com/track/5mTV2vU8gWFAnKL29wI5Hy"
+    },
+    {
+      "album": {
+        "name": "Zopilote Machine",
+        "url": "https://open.spotify.com/album/05CTDTTvDlkgM4Utz5HUxy"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "Grendel's Mother",
+      "url": "https://open.spotify.com/track/4pPfbP2gMxU75ZWqb7jN61"
+    },
+    {
+      "album": {
+        "name": "Heretic Pride",
+        "url": "https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222706,
+      "name": "Heretic Pride",
+      "url": "https://open.spotify.com/track/3LsPToq3yB7g5IKfw829e1"
+    },
+    {
+      "album": {
+        "name": "Get Lonely",
+        "url": "https://open.spotify.com/album/7hvaCdKMRUDwi6fdDSal1s"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118013,
+      "name": "If You See Light",
+      "url": "https://open.spotify.com/track/4D3uowsEqP3YIkQ3d273al"
+    },
+    {
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "In Memory of Satan",
+      "url": "https://open.spotify.com/track/2QliFIVHCAbUXq4mRsM5FE"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "No Children",
+      "url": "https://open.spotify.com/track/4XpQ2F8NtzWMZ3g5t8qv2Y"
+    },
+    {
+      "album": {
+        "name": "The Coroner's Gambit",
+        "url": "https://open.spotify.com/album/5cv0NAb6FJ2lbJYjqrEDz9"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135253,
+      "name": "Onions",
+      "url": "https://open.spotify.com/track/5n7dB5R4VExs6rCTTthCju"
+    },
+    {
+      "album": {
+        "name": "Bitter Melon Farm",
+        "url": "https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "Song For An Old Friend",
+      "url": "https://open.spotify.com/track/6k1wCO13PDlFT0MPpUhxJO"
+    },
+    {
+      "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "The Mess Inside",
+      "url": "https://open.spotify.com/track/3B7a3OW9h51WJKYQXD5IAo"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Up the Wolves",
+      "url": "https://open.spotify.com/track/41LUI2mXScZDjIZWmvvWpR"
+    },
+    {
+      "album": {
+        "name": "Zopilote Machine",
+        "url": "https://open.spotify.com/album/05CTDTTvDlkgM4Utz5HUxy"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113533,
+      "name": "We Have Seen the Enemy",
+      "url": "https://open.spotify.com/track/0xzQc39XqEMHKdqrFKGG0k"
+    },
+    {
+      "album": {
+        "name": "Ghana",
+        "url": "https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2020-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "Wrong!",
+      "url": "https://open.spotify.com/track/0wc0za6oNYTNWWIa2ZdFB2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1EDj8shhTsXo5AlDodKp4M"
 }

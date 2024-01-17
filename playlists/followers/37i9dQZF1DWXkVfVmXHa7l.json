@@ -1,569 +1,2461 @@
 {
-  "2022-06-10": 331606,
-  "2022-06-11": 331898,
-  "2022-06-12": 332142,
-  "2022-06-13": 332392,
-  "2022-06-14": 332667,
-  "2022-06-15": 332942,
-  "2022-06-16": 333202,
-  "2022-06-17": 333445,
-  "2022-06-18": 333692,
-  "2022-06-19": 334200,
-  "2022-06-20": 334200,
-  "2022-06-21": 334438,
-  "2022-06-22": 334990,
-  "2022-06-23": 334990,
-  "2022-06-24": 335299,
-  "2022-06-25": 335537,
-  "2022-06-26": 335813,
-  "2022-06-27": 336090,
-  "2022-06-28": 336350,
-  "2022-06-29": 336611,
-  "2022-06-30": 336921,
-  "2022-07-01": 337196,
-  "2022-07-02": 337465,
-  "2022-07-03": 337714,
-  "2022-07-04": 337990,
-  "2022-07-05": 338247,
-  "2022-07-06": 338485,
-  "2022-07-07": 338748,
-  "2022-07-08": 339020,
-  "2022-07-09": 339351,
-  "2022-07-10": 339664,
-  "2022-07-11": 339978,
-  "2022-07-12": 340243,
-  "2022-07-13": 340556,
-  "2022-07-14": 340863,
-  "2022-07-15": 341166,
-  "2022-07-16": 341512,
-  "2022-07-17": 341779,
-  "2022-07-18": 342068,
-  "2022-07-19": 342325,
-  "2022-07-20": 342611,
-  "2022-07-21": 342906,
-  "2022-07-22": 343152,
-  "2022-07-23": 343440,
-  "2022-07-24": 343710,
-  "2022-07-25": 344003,
-  "2022-07-26": 344254,
-  "2022-07-27": 344497,
-  "2022-07-28": 344718,
-  "2022-07-29": 344960,
-  "2022-07-30": 345408,
-  "2022-07-31": 345408,
-  "2022-08-01": 345631,
-  "2022-08-02": 346150,
-  "2022-08-03": 346150,
-  "2022-08-04": 346392,
-  "2022-08-05": 346668,
-  "2022-08-06": 346933,
-  "2022-08-07": 347189,
-  "2022-08-08": 347445,
-  "2022-08-09": 347709,
-  "2022-08-10": 347948,
-  "2022-08-11": 348165,
-  "2022-08-12": 348390,
-  "2022-08-13": 348670,
-  "2022-08-14": 348923,
-  "2022-08-15": 349204,
-  "2022-08-16": 349432,
-  "2022-08-17": 349673,
-  "2022-08-18": 349908,
-  "2022-08-19": 350143,
-  "2022-08-20": 350381,
-  "2022-08-21": 350573,
-  "2022-08-22": 350772,
-  "2022-08-23": 350944,
-  "2022-08-24": 351192,
-  "2022-08-25": 351384,
-  "2022-08-26": 351562,
-  "2022-08-27": 351802,
-  "2022-08-28": 352108,
-  "2022-08-29": 352385,
-  "2022-08-30": 352045,
-  "2022-08-31": 351070,
-  "2022-09-01": 349974,
-  "2022-09-02": 350212,
-  "2022-09-03": 349032,
-  "2022-09-04": 347014,
-  "2022-09-05": 346102,
-  "2022-09-06": 346307,
-  "2022-09-07": 346452,
-  "2022-09-09": 346916,
-  "2022-09-10": 347162,
-  "2022-09-11": 347398,
-  "2022-09-12": 347647,
-  "2022-09-13": 347900,
-  "2022-09-15": 348346,
-  "2022-09-16": 348596,
-  "2022-09-17": 348786,
-  "2022-09-18": 349036,
-  "2022-09-19": 349289,
-  "2022-09-20": 349516,
-  "2022-09-21": 349741,
-  "2022-09-22": 349949,
-  "2022-09-23": 350208,
-  "2022-09-24": 350465,
-  "2022-09-25": 350708,
-  "2022-09-26": 350964,
-  "2022-09-27": 351140,
-  "2022-09-28": 351326,
-  "2022-09-29": 351567,
-  "2022-09-30": 351829,
-  "2022-10-01": 352020,
-  "2022-10-02": 352269,
-  "2022-10-03": 352465,
-  "2022-10-04": 352684,
-  "2022-10-05": 352876,
-  "2022-10-06": 353092,
-  "2022-10-07": 353338,
-  "2022-10-08": 353557,
-  "2022-10-09": 354018,
-  "2022-10-10": 354056,
-  "2022-10-11": 354240,
-  "2022-10-12": 354425,
-  "2022-10-13": 354625,
-  "2022-10-14": 354878,
-  "2022-10-15": 355100,
-  "2022-10-16": 355300,
-  "2022-10-17": 355528,
-  "2022-10-18": 355735,
-  "2022-10-19": 355898,
-  "2022-10-20": 356106,
-  "2022-10-21": 356325,
-  "2022-10-22": 356545,
-  "2022-10-23": 356793,
-  "2022-10-24": 357037,
-  "2022-10-25": 357244,
-  "2022-10-26": 357439,
-  "2022-10-27": 357619,
-  "2022-10-28": 357845,
-  "2022-10-29": 358004,
-  "2022-10-30": 358248,
-  "2022-10-31": 358476,
-  "2022-11-01": 358684,
-  "2022-11-02": 358870,
-  "2022-11-03": 359105,
-  "2022-11-04": 359330,
-  "2022-11-05": 359575,
-  "2022-11-06": 359808,
-  "2022-11-07": 360012,
-  "2022-11-08": 360215,
-  "2022-11-09": 360460,
-  "2022-11-10": 360645,
-  "2022-11-11": 360866,
-  "2022-11-12": 361123,
-  "2022-11-13": 361333,
-  "2022-11-14": 361634,
-  "2022-11-15": 362497,
-  "2022-11-16": 363513,
-  "2022-11-17": 364032,
-  "2022-11-18": 364214,
-  "2022-11-19": 364058,
-  "2022-11-20": 364100,
-  "2022-11-21": 364298,
-  "2022-11-22": 365023,
-  "2022-11-23": 364905,
-  "2022-11-24": 365328,
-  "2022-11-25": 365923,
-  "2022-11-26": 366320,
-  "2022-11-27": 366635,
-  "2022-11-28": 366868,
-  "2022-11-29": 367049,
-  "2022-11-30": 367264,
-  "2022-12-01": 367475,
-  "2022-12-02": 367717,
-  "2022-12-03": 367864,
-  "2022-12-04": 368159,
-  "2022-12-05": 368351,
-  "2022-12-06": 368539,
-  "2022-12-07": 368746,
-  "2022-12-08": 368952,
-  "2022-12-09": 369152,
-  "2022-12-10": 369362,
-  "2022-12-11": 369552,
-  "2022-12-12": 369930,
-  "2022-12-13": 370123,
-  "2022-12-14": 370332,
-  "2022-12-15": 370525,
-  "2022-12-16": 370715,
-  "2022-12-17": 370912,
-  "2022-12-18": 371122,
-  "2022-12-19": 371326,
-  "2022-12-20": 371755,
-  "2022-12-21": 371755,
-  "2022-12-22": 371979,
-  "2022-12-24": 372406,
-  "2022-12-25": 372653,
-  "2022-12-26": 372876,
-  "2022-12-27": 373142,
-  "2022-12-28": 373383,
-  "2022-12-29": 373657,
-  "2022-12-30": 373890,
-  "2022-12-31": 374142,
-  "2023-01-01": 374350,
-  "2023-01-02": 374573,
-  "2023-01-03": 374817,
-  "2023-01-04": 375036,
-  "2023-01-05": 375310,
-  "2023-01-06": 375631,
-  "2023-01-07": 376066,
-  "2023-01-08": 376126,
-  "2023-01-09": 376399,
-  "2023-01-10": 376621,
-  "2023-01-11": 376878,
-  "2023-01-12": 377122,
-  "2023-01-13": 377378,
-  "2023-01-14": 377916,
-  "2023-01-15": 377983,
-  "2023-01-16": 378247,
-  "2023-01-17": 378546,
-  "2023-01-18": 378861,
-  "2023-01-19": 379120,
-  "2023-01-20": 379401,
-  "2023-01-21": 379675,
-  "2023-01-22": 379944,
-  "2023-01-23": 380242,
-  "2023-01-24": 380504,
-  "2023-01-25": 380762,
-  "2023-01-26": 381045,
-  "2023-01-27": 381279,
-  "2023-01-28": 381526,
-  "2023-01-29": 381853,
-  "2023-01-30": 382057,
-  "2023-01-31": 382057,
-  "2023-02-01": 382517,
-  "2023-02-02": 382743,
-  "2023-02-03": 383008,
-  "2023-02-04": 383213,
-  "2023-02-05": 383455,
-  "2023-02-06": 383675,
-  "2023-02-07": 383902,
-  "2023-02-08": 384370,
-  "2023-02-09": 384370,
-  "2023-02-10": 384605,
-  "2023-02-11": 384824,
-  "2023-02-12": 385345,
-  "2023-02-13": 385544,
-  "2023-02-14": 385544,
-  "2023-02-15": 385774,
-  "2023-02-16": 386027,
-  "2023-02-17": 386213,
-  "2023-02-18": 386658,
-  "2023-02-19": 386703,
-  "2023-02-20": 386879,
-  "2023-02-21": 387121,
-  "2023-02-22": 387331,
-  "2023-02-23": 387518,
-  "2023-02-24": 387756,
-  "2023-02-25": 388202,
-  "2023-02-26": 389156,
-  "2023-02-27": 390854,
-  "2023-02-28": 390854,
-  "2023-03-01": 392625,
-  "2023-03-02": 393657,
-  "2023-03-03": 394757,
-  "2023-03-04": 396309,
-  "2023-03-05": 402519,
-  "2023-03-06": 402519,
-  "2023-03-07": 406757,
-  "2023-03-08": 409634,
-  "2023-03-09": 412787,
-  "2023-03-10": 417944,
-  "2023-03-11": 420765,
-  "2023-03-12": 422966,
-  "2023-03-13": 424892,
-  "2023-03-14": 426425,
-  "2023-03-15": 427967,
-  "2023-03-16": 429485,
-  "2023-03-17": 429485,
-  "2023-03-18": 432100,
-  "2023-03-19": 433371,
-  "2023-03-20": 434639,
-  "2023-03-21": 435848,
-  "2023-03-22": 436910,
-  "2023-03-23": 437937,
-  "2023-03-24": 437937,
-  "2023-03-25": 439902,
-  "2023-03-26": 440848,
-  "2023-03-27": 441759,
-  "2023-03-28": 442586,
-  "2023-03-29": 443508,
-  "2023-03-30": 445104,
-  "2023-03-31": 445104,
-  "2023-04-01": 445947,
-  "2023-04-02": 446698,
-  "2023-04-03": 447419,
-  "2023-04-04": 448074,
-  "2023-04-05": 448706,
-  "2023-04-06": 449321,
-  "2023-04-07": 449921,
-  "2023-04-09": 451031,
-  "2023-04-10": 451593,
-  "2023-04-11": 452750,
-  "2023-04-12": 452750,
-  "2023-04-13": 453254,
-  "2023-04-14": 453718,
-  "2023-04-15": 454248,
-  "2023-04-16": 454808,
-  "2023-04-17": 455290,
-  "2023-04-18": 455807,
-  "2023-04-19": 456312,
-  "2023-04-20": 456762,
-  "2023-04-21": 457208,
-  "2023-04-22": 457663,
-  "2023-04-23": 458062,
-  "2023-04-24": 458464,
-  "2023-04-25": 458895,
-  "2023-04-26": 459353,
-  "2023-04-27": 459822,
-  "2023-04-28": 460234,
-  "2023-04-29": 460635,
-  "2023-04-30": 461043,
-  "2023-05-01": 461436,
-  "2023-05-02": 461849,
-  "2023-05-03": 462205,
-  "2023-05-04": 462584,
-  "2023-05-05": 462960,
-  "2023-05-06": 463390,
-  "2023-05-07": 463876,
-  "2023-05-08": 464259,
-  "2023-05-09": 464635,
-  "2023-05-10": 464972,
-  "2023-05-11": 465359,
-  "2023-05-12": 465664,
-  "2023-05-13": 466065,
-  "2023-05-14": 466459,
-  "2023-05-15": 466811,
-  "2023-05-16": 467148,
-  "2023-05-17": 467456,
-  "2023-05-18": 467770,
-  "2023-05-19": 468093,
-  "2023-05-20": 468693,
-  "2023-05-21": 468693,
-  "2023-05-22": 468693,
-  "2023-05-23": 469259,
-  "2023-05-24": 469782,
-  "2023-05-25": 469849,
-  "2023-05-26": 470147,
-  "2023-05-27": 470466,
-  "2023-05-28": 470775,
-  "2023-05-29": 470775,
-  "2023-05-30": 471295,
-  "2023-05-31": 471547,
-  "2023-06-01": 471787,
-  "2023-06-02": 472042,
-  "2023-06-03": 472330,
-  "2023-06-04": 472597,
-  "2023-06-05": 472829,
-  "2023-06-06": 473050,
-  "2023-06-07": 473260,
-  "2023-06-08": 473481,
-  "2023-06-09": 473739,
-  "2023-06-10": 473958,
-  "2023-06-11": 474223,
-  "2023-06-12": 474434,
-  "2023-06-13": 474676,
-  "2023-06-14": 474676,
-  "2023-06-15": 475098,
-  "2023-06-16": 475303,
-  "2023-06-17": 475555,
-  "2023-06-18": 475816,
-  "2023-06-19": 476048,
-  "2023-06-20": 476227,
-  "2023-06-21": 476379,
-  "2023-06-22": 476565,
-  "2023-06-23": 476764,
-  "2023-06-24": 476933,
-  "2023-06-25": 477088,
-  "2023-06-26": 477320,
-  "2023-06-27": 477468,
-  "2023-06-28": 477647,
-  "2023-06-29": 477854,
-  "2023-06-30": 478100,
-  "2023-07-01": 478483,
-  "2023-07-02": 478483,
-  "2023-07-03": 478677,
-  "2023-07-04": 478894,
-  "2023-07-05": 479110,
-  "2023-07-06": 479552,
-  "2023-07-07": 479552,
-  "2023-07-08": 479721,
-  "2023-07-09": 479961,
-  "2023-07-10": 480129,
-  "2023-07-11": 480348,
-  "2023-07-12": 480555,
-  "2023-07-13": 480763,
-  "2023-07-14": 481000,
-  "2023-07-15": 481147,
-  "2023-07-16": 481412,
-  "2023-07-17": 481603,
-  "2023-07-18": 481802,
-  "2023-07-19": 482003,
-  "2023-07-20": 482161,
-  "2023-07-21": 482386,
-  "2023-07-22": 482581,
-  "2023-07-23": 482792,
-  "2023-07-24": 482993,
-  "2023-07-25": 483181,
-  "2023-07-26": 483339,
-  "2023-07-27": 483502,
-  "2023-07-28": 483682,
-  "2023-07-29": 483863,
-  "2023-07-30": 484088,
-  "2023-07-31": 484271,
-  "2023-08-01": 484451,
-  "2023-08-02": 484625,
-  "2023-08-03": 484879,
-  "2023-08-04": 485085,
-  "2023-08-05": 485293,
-  "2023-08-06": 485637,
-  "2023-08-07": 485637,
-  "2023-08-08": 485802,
-  "2023-08-09": 485978,
-  "2023-08-10": 486178,
-  "2023-08-11": 486325,
-  "2023-08-12": 486500,
-  "2023-08-13": 486654,
-  "2023-08-14": 486873,
-  "2023-08-15": 487215,
-  "2023-08-16": 487215,
-  "2023-08-17": 487423,
-  "2023-08-18": 487592,
-  "2023-08-19": 487799,
-  "2023-08-20": 488061,
-  "2023-08-21": 488300,
-  "2023-08-22": 488519,
-  "2023-08-23": 488728,
-  "2023-08-24": 488968,
-  "2023-08-25": 489173,
-  "2023-08-26": 489375,
-  "2023-08-27": 489556,
-  "2023-08-28": 489784,
-  "2023-08-29": 489980,
-  "2023-08-30": 490138,
-  "2023-08-31": 490344,
-  "2023-09-01": 490704,
-  "2023-09-02": 490704,
-  "2023-09-03": 490844,
-  "2023-09-04": 491034,
-  "2023-09-05": 491200,
-  "2023-09-06": 491393,
-  "2023-09-07": 491539,
-  "2023-09-08": 491731,
-  "2023-09-09": 491938,
-  "2023-09-10": 492140,
-  "2023-09-11": 492327,
-  "2023-09-12": 492477,
-  "2023-09-13": 492726,
-  "2023-09-14": 492893,
-  "2023-09-15": 493099,
-  "2023-09-16": 493283,
-  "2023-09-17": 493485,
-  "2023-09-18": 493640,
-  "2023-09-19": 493819,
-  "2023-09-20": 493981,
-  "2023-09-21": 494204,
-  "2023-09-22": 494413,
-  "2023-09-23": 494602,
-  "2023-09-24": 494788,
-  "2023-09-25": 495014,
-  "2023-09-26": 495262,
-  "2023-09-27": 495446,
-  "2023-09-28": 495664,
-  "2023-09-29": 495901,
-  "2023-09-30": 496097,
-  "2023-10-01": 496302,
-  "2023-10-02": 496473,
-  "2023-10-03": 496691,
-  "2023-10-04": 496870,
-  "2023-10-05": 497070,
-  "2023-10-06": 497249,
-  "2023-10-07": 497432,
-  "2023-10-08": 497603,
-  "2023-10-09": 497788,
-  "2023-10-10": 497774,
-  "2023-10-11": 498007,
-  "2023-10-12": 498007,
-  "2023-10-13": 498003,
-  "2023-10-14": 498035,
-  "2023-10-15": 498194,
-  "2023-10-16": 498340,
-  "2023-10-17": 498532,
-  "2023-10-18": 498699,
-  "2023-10-19": 498852,
-  "2023-10-20": 499020,
-  "2023-10-21": 499174,
-  "2023-10-22": 499370,
-  "2023-10-23": 499523,
-  "2023-10-24": 499710,
-  "2023-10-25": 499902,
-  "2023-10-26": 500104,
-  "2023-10-27": 500296,
-  "2023-10-28": 500481,
-  "2023-10-29": 500692,
-  "2023-10-30": 501133,
-  "2023-10-31": 501133,
-  "2023-11-01": 501351,
-  "2023-11-02": 501595,
-  "2023-11-03": 501902,
-  "2023-11-04": 502318,
-  "2023-11-05": 503494,
-  "2023-11-06": 508511,
-  "2023-11-07": 513404,
-  "2023-11-08": 516768,
-  "2023-11-09": 519607,
-  "2023-11-10": 521860,
-  "2023-11-11": 523842,
-  "2023-11-12": 525198,
-  "2023-11-13": 526704,
-  "2023-11-14": 528085,
-  "2023-11-15": 528085,
-  "2023-11-16": 530086,
-  "2023-11-17": 531723,
-  "2023-11-18": 531723,
-  "2023-11-19": 532512,
-  "2023-11-20": 533160,
-  "2023-11-21": 534733,
-  "2023-11-22": 538006,
-  "2023-11-23": 540552,
-  "2023-11-24": 542168,
-  "2023-11-25": 543252,
-  "2023-11-26": 544068,
-  "2023-11-27": 544732,
-  "2023-11-28": 545170,
-  "2023-11-29": 545765,
-  "2023-11-30": 545765,
-  "2023-12-01": 546028,
-  "2023-12-02": 546224,
-  "2023-12-03": 546515,
-  "2023-12-04": 546753,
-  "2023-12-05": 546995,
-  "2023-12-06": 547178,
-  "2023-12-07": 547351,
-  "2023-12-08": 547538,
-  "2023-12-09": 547776,
-  "2023-12-10": 547983,
-  "2023-12-11": 548226,
-  "2023-12-12": 548407,
-  "2023-12-13": 548614,
-  "2023-12-14": 548873,
-  "2023-12-15": 548996,
-  "2023-12-16": 549134,
-  "2023-12-17": 549309,
-  "2023-12-18": 549471,
-  "2023-12-19": 549577,
-  "2023-12-20": 549695,
-  "2023-12-21": 549854,
-  "2023-12-22": 549993,
-  "2023-12-23": 550138,
-  "2023-12-24": 550280,
-  "2023-12-25": 550379,
-  "2023-12-26": 550485,
-  "2023-12-27": 550631,
-  "2023-12-30": 550998,
-  "2023-12-31": 551133,
-  "2024-01-01": 551237,
-  "2024-01-02": 551322,
-  "2024-01-03": 551408
+  "2024-01-17": 551778,
+  "date_first_scraped": "2022-06-10",
+  "description": "Music from Attack on Titan!\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01 \u00a9\u8aeb\u5c71\u5275\u30fb\u8b1b\u8ac7\u793e\uff0f\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "Attack on Titan -\u9032\u6483\u306e\u5de8\u4eba-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/4yJM4GL6LVp6Vo5rhBKAMS"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220640,
+      "name": "Aim of the Fate",
+      "url": "https://open.spotify.com/track/2NumOTlWMloN11IMF1VUZR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 220640,
+      "name": "Aim of the Fate",
+      "url": "https://open.spotify.com/track/3bFUuk6Ac2aMTQ1A5BJQ4v"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240573,
+      "name": "Akatsuki no Requiem",
+      "url": "https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh"
+    },
+    {
+      "album": {
+        "name": "Akuma no Ko",
+        "url": "https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227679,
+      "name": "Akuma no Ko",
+      "url": "https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y"
+    },
+    {
+      "album": {
+        "name": "Saiaku Saiai",
+        "url": "https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Akuma no Ko",
+      "url": "https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/4yJM4GL6LVp6Vo5rhBKAMS"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343653,
+      "name": "An Ordinary Day",
+      "url": "https://open.spotify.com/track/4ETCFFQvtzuKnAf4rRM3J8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 343653,
+      "name": "An Ordinary Day",
+      "url": "https://open.spotify.com/track/7dRSePqAa4bScB706vKeC7"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477480,
+      "name": "AOTF-s1",
+      "url": "https://open.spotify.com/track/1C9oENPxKhJlRy21acxJNq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 477480,
+      "name": "AOTF-s1",
+      "url": "https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 213346,
+      "name": "AOTF-s2",
+      "url": "https://open.spotify.com/track/5sXmXSfvguJBhQRDzQMqZ8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 222146,
+      "name": "AOTF-s3",
+      "url": "https://open.spotify.com/track/2fA7GDUDBo2SO1GRLC5uWe"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 274626,
+      "name": "Ashes on The Fire",
+      "url": "https://open.spotify.com/track/5ArBY68oLECgcHXDGFxa7u"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274626,
+      "name": "Ashes on The Fire",
+      "url": "https://open.spotify.com/track/6bXCGI0zBTjvwYBlDkFey3"
+    },
+    {
+      "album": {
+        "name": "Ashes on The Fire (Attack on Titan The Final Season Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2D75BWyFdglxuY29CGfF4i"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274133,
+      "name": "Ashes on The Fire (Attack on Titan The Final Season Original Soundtrack)",
+      "url": "https://open.spotify.com/track/7uF1nTuJRGUlZzODPcmPva"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306840,
+      "name": "Ashes on The Fire -PTV-",
+      "url": "https://open.spotify.com/track/0NpwE7Q2djpqpqqtfJVdjm"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306840,
+      "name": "Ashes on The Fire -PTV-",
+      "url": "https://open.spotify.com/track/3SUfTmtF04eIHQ00WPSixB"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/4yJM4GL6LVp6Vo5rhBKAMS"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414586,
+      "name": "at'aek till we are Ashes",
+      "url": "https://open.spotify.com/track/73YLZccTJiOzkooi1GNNUE"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 198866,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/4L7hOg9UuE0VE6aHkPTtYG"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "Attack on D",
+      "url": "https://open.spotify.com/track/5JplicqqzvRQKrSE7PiAUE"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297026,
+      "name": "attack ON taian [TFSv]",
+      "url": "https://open.spotify.com/track/2WL4gLW1R7smQwldZJZjPU"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256920,
+      "name": "Attack on Titan",
+      "url": "https://open.spotify.com/track/5IzZpz0vA73IIjqFPpXSXP"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284333,
+      "name": "attack\u97f3D",
+      "url": "https://open.spotify.com/track/4N8afuNJ6B2pRhdyZAYriL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221426,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/09IDtgw1w7BETDAV2X9UWt"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/6iaQi9uPzHoXLMo5g490Bj"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257653,
+      "name": "Barricades - Movie Ver.",
+      "url": "https://open.spotify.com/track/3ACa8DImXMFWsa44oEUKr1"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257653,
+      "name": "Barricades - MOVIEver.",
+      "url": "https://open.spotify.com/track/1JL6tPQTQn6JSfJUBSu4oO"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236253,
+      "name": "Bauklotze",
+      "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Mika Kobayashi",
+          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236253,
+      "name": "Baukl\u00f6tze",
+      "url": "https://open.spotify.com/track/3M4ZPA9akOPJVnJnepcfb6"
+    },
+    {
+      "album": {
+        "name": "Boku no Sensou",
+        "url": "https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280466,
+      "name": "Boku no Sensou",
+      "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178213,
+      "name": "Call of Silence",
+      "url": "https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Call of Silence",
+      "url": "https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "CASG (Caramel Apple Sound Gadget)",
+          "url": "https://open.spotify.com/artist/3zrqQQY3hSf5B7HIjDeQEQ"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "MPI",
+          "url": "https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268333,
+      "name": "Call your name",
+      "url": "https://open.spotify.com/track/2CR7uFXc6cmk11oc0arZMM"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/2LYhS0VbCzbE6alAI3Q7Ot"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259720,
+      "name": "Call Your Name (Gv)",
+      "url": "https://open.spotify.com/track/4HFytekNqRCDsyX2MlaglV"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259720,
+      "name": "Call your name <Gv>",
+      "url": "https://open.spotify.com/track/4gbXhX6WYO2U3oC2KTWlCa"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366586,
+      "name": "Counter Attack-Mankind",
+      "url": "https://open.spotify.com/track/34o9rDFXv6bFX5qtkySnRQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 366586,
+      "name": "c\u00f3unter\u30fbatt\u00e0ck-m\u02c8\u00e6nk\u03ac\u026and",
+      "url": "https://open.spotify.com/track/2n5e6fzpiFzPqRelhruHTj"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206026,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "Aimee Blackschleger",
+          "url": "https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206026,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342880,
+      "name": "E.M.A",
+      "url": "https://open.spotify.com/track/7rzja9bo3uucVXzVDSBOWi"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "ELO",
+      "url": "https://open.spotify.com/track/5udbUimtsff6w1Ekx6sMCN"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281333,
+      "name": "EL\u25cb",
+      "url": "https://open.spotify.com/track/5LwaIhoULK2am3iNK7xXWb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 383120,
+      "name": "ERENthe\u6a19",
+      "url": "https://open.spotify.com/track/0wdKJ64h5EuWkJ6PUcKaV4"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Eye-Water",
+      "url": "https://open.spotify.com/track/1EmEUcSo4TNbxR84er0edj"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181413,
+      "name": "eye-water",
+      "url": "https://open.spotify.com/track/2UTbrDhTXrVmXidoUR81Q6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 342880,
+      "name": "E\u30fbM\u30fbA",
+      "url": "https://open.spotify.com/track/524mcPQCmbstTMxtErRH7I"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306373,
+      "name": "Footsteps of Doom",
+      "url": "https://open.spotify.com/track/1wzZ9SaE5PYW5jps5q1c24"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306373,
+      "name": "Footsteps of Doom",
+      "url": "https://open.spotify.com/track/3zesIIiZsBNK32Mxe0SHNi"
+    },
+    {
+      "album": {
+        "name": "great escape",
+        "url": "https://open.spotify.com/album/3PMru3QwvMWPtbocpds3K1"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201866,
+      "name": "great escape - 2019 new mix",
+      "url": "https://open.spotify.com/track/15GFMNEZW8ICE2EK8YlmtO"
+    },
+    {
+      "album": {
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/1ISP5p4p9DKnw7LUIpoSjA"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Great Escape - 2019 New Mix",
+      "url": "https://open.spotify.com/track/6oFwHRmiMEgxVpZ7oqO2Vd"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306480,
+      "name": "Guren no Zahyou",
+      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
+    },
+    {
+      "album": {
+        "name": "Itterasshai",
+        "url": "https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235433,
+      "name": "Itterasshai",
+      "url": "https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349693,
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
+    },
+    {
+      "album": {
+        "name": "Jiyuu Eno Shingeki",
+        "url": "https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 328400,
+      "name": "Jiyuu No Tsubasa",
+      "url": "https://open.spotify.com/track/33DuynuL0wVmNjsQSG7npc"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/4yJM4GL6LVp6Vo5rhBKAMS"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237213,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/2qf2QD3tED3tDeCCKXby1m"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 237213,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/35mAoA6Dc8qDlELeY8nRIV"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 176266,
+      "name": "Liberio at Night",
+      "url": "https://open.spotify.com/track/518lS7o41RuQOBkAdUOHoz"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 183520,
+      "name": "Liberio Festival",
+      "url": "https://open.spotify.com/track/1dfy9W53Zv14w7f1SanjOL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 183186,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/4ZM7Agi0Mr9VhDsMAZjMqn"
+    },
+    {
+      "album": {
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/1ISP5p4p9DKnw7LUIpoSjA"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266680,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/1y9QiBBJynizfLbYjHM2Sg"
+    },
+    {
+      "album": {
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/7avJidU4eLD0fFH9MZOS98"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266680,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/2Aap3ECF5hQoPFxMDsff9j"
+    },
+    {
+      "album": {
+        "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
+        "url": "https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284784,
+      "name": "Nisennen... Moshiku wa... Nimannen Go no Kimi e",
+      "url": "https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf"
+    },
+    {
+      "album": {
+        "name": "Red Swan",
+        "url": "https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL"
+      },
+      "artists": [
+        {
+          "name": "Yoshiki",
+          "url": "https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263720,
+      "name": "Red Swan",
+      "url": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342720,
+      "name": "Rittaikidou",
+      "url": "https://open.spotify.com/track/7u32XGioKOcqZYrEZphaF5"
+    },
+    {
+      "album": {
+        "name": "Saigo no Kyojin",
+        "url": "https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240740,
+      "name": "Saigo no Kyojin",
+      "url": "https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
+    },
+    {
+      "album": {
+        "name": "Shogeki",
+        "url": "https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh"
+      },
+      "artists": [
+        {
+          "name": "Yuko Ando",
+          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181594,
+      "name": "Shogeki",
+      "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
+    },
+    {
+      "album": {
+        "name": "Shinjitsu eno Shingeki",
+        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276176,
+      "name": "Shoukei to Shikabane no Michi",
+      "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289680,
+      "name": "So ist es immer",
+      "url": "https://open.spotify.com/track/6h5xFKEgxlD7QEHxEFMjgJ"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289680,
+      "name": "So Ist Es Immer",
+      "url": "https://open.spotify.com/track/7ANDXcz3rVfPjFcIZeVVbL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 321600,
+      "name": "Splinter Wolf",
+      "url": "https://open.spotify.com/track/6tQCqAt4JKDdauPcmJ7vpe"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310693,
+      "name": "Symphonicsuite (Aot) Part2-1st: Attack on Titan (Wmid)",
+      "url": "https://open.spotify.com/track/66EOdKkzuonSLBXOrActDD"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Symphonicsuite (Aot) Part2-2nd: Shingekinokyojin",
+      "url": "https://open.spotify.com/track/3WJIqpueto3BPNroOBqVYR"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Symphonicsuite (Aot) Part2-3rd: Before Lights Out",
+      "url": "https://open.spotify.com/track/3MbwkVpKZpQEgzAtNDwqah"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166853,
+      "name": "Symphonicsuite (Aot) Part2-5th: Apple Seed",
+      "url": "https://open.spotify.com/track/2WT4MG0M4R3RmkPUQj8Xct"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239773,
+      "name": "Symphonicsuite (Aot) Part2-6th: Thanksat",
+      "url": "https://open.spotify.com/track/1ug41NniaCmW7Y2Lm8k1SY"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310693,
+      "name": "SymphonicSuite[AoT]Part2-1st:\u0259t\u02c8\u00e6k 0N t\u1f71\u026atn <WMId>",
+      "url": "https://open.spotify.com/track/3CmOvopN8tQQbU1bR5s0CH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182333,
+      "name": "SymphonicSuite[AoT]Part2-2nd:ShingekiNoKyojin",
+      "url": "https://open.spotify.com/track/2f7PQ0NAxctRt4p6PUZgoU"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175560,
+      "name": "SymphonicSuite[AoT]Part2-3rd:Before Lights Out",
+      "url": "https://open.spotify.com/track/76KynAn6SBELq0tkaL3EPV"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166853,
+      "name": "SymphonicSuite[AoT]Part2-5th:Apple Seed",
+      "url": "https://open.spotify.com/track/4bojzZwl3Dtlh43pnX1atb"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239773,
+      "name": "SymphonicSuite[AoT]Part2-6th:ThanksAT",
+      "url": "https://open.spotify.com/track/2MbFKDGzD9Pw6rYtYwXTqF"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "The Dogs",
+      "url": "https://open.spotify.com/track/41FVSWUDLLOQok5DZLvKuy"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198573,
+      "name": "The Fall of Marley",
+      "url": "https://open.spotify.com/track/1NxdAcgUY7Vq4VUmFq94EW"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "The Fall of Marley",
+      "url": "https://open.spotify.com/track/1zNbFFcVYQNa8t3luFhtvu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297493,
+      "name": "The Other Side of the Sea",
+      "url": "https://open.spotify.com/track/4brbXPP9VciZb6KCPKdAUq"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "The Other Side of the Sea",
+      "url": "https://open.spotify.com/track/6lpuacrTTu38mGNdjOfqmI"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "The Reluctant Heroes",
+      "url": "https://open.spotify.com/track/6zSXcvXQ8T74fXm72OpSOb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        },
+        {
+          "name": "MPI",
+          "url": "https://open.spotify.com/artist/39SnON5tzXGfF0wkKJEMK3"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267120,
+      "name": "The Reluctant Heroes",
+      "url": "https://open.spotify.com/track/6gay903RNSvL9pbY4cGQhz"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u524d\u7de8~\u7d05\u84ee\u306e\u5f13\u77e2~\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de YAMANAIAME produced by \u6fa4\u91ce\u5f18\u4e4b",
+        "url": "https://open.spotify.com/album/3bsEgUitzaD5yyAnXG9TFQ"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 270480,
+      "name": "The Reluctant Heroes <MODv>",
+      "url": "https://open.spotify.com/track/6AfO0mvPTVMaPgS7nbRQ3A"
+    },
+    {
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR"
+    },
+    {
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "album": {
+        "name": "Attack on Titan The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "The Warriors",
+      "url": "https://open.spotify.com/track/153HayymdEUNcKanP2gsus"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246413,
+      "name": "The Warriors",
+      "url": "https://open.spotify.com/track/6RZ3qbSRK5q29Wqhd7tXj2"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5f8c\u7de8~\u81ea\u7531\u306e\u7ffc~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de theDOGS produced by \u6fa4\u91ce\u5f18\u4e4b",
+        "url": "https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275893,
+      "name": "theDOGS",
+      "url": "https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u5f8c\u7de8~\u81ea\u7531\u306e\u7ffc~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de theDOGS produced by \u6fa4\u91ce\u5f18\u4e4b",
+        "url": "https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 440680,
+      "name": "TheWeightOfLives",
+      "url": "https://open.spotify.com/track/0Q9wde6DM7ECi5FoBRJTFS"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack",
+        "url": "https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 320826,
+      "name": "True History",
+      "url": "https://open.spotify.com/track/2bCZx1hDtyzTrwIq2HlKMe"
+    },
+    {
+      "album": {
+        "name": "UNDER THE TREE",
+        "url": "https://open.spotify.com/album/5lCwl44IhsSbBkQFAxgrFk"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 121692,
+      "name": "UNDER THE TREE",
+      "url": "https://open.spotify.com/track/0KmCtn8UBbqidcIRduzARB"
+    },
+    {
+      "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121692,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+    },
+    {
+      "album": {
+        "name": "Couleur",
+        "url": "https://open.spotify.com/album/10U7D2rtjPWDEX4XseGcwh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Hikasa",
+          "url": "https://open.spotify.com/artist/432YeAgYRrioSdsY06F2CT"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293706,
+      "name": "Utsukushiki Zankokuna Sekai (From \"Attack on Titan\")",
+      "url": "https://open.spotify.com/track/3hdbzikxtK3sY5MT5wAAan"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/4yJM4GL6LVp6Vo5rhBKAMS"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Vanishment",
+      "url": "https://open.spotify.com/track/4OGTDZ9BCXTs7CMd1Pt2su"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 200386,
+      "name": "Vanishment",
+      "url": "https://open.spotify.com/track/60TNxD8ZqACHKW9IB9JGvB"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380053,
+      "name": "Vogel Im Kafig",
+      "url": "https://open.spotify.com/track/7AEcphXUR52QGYxdZ8TDVI"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Cyua",
+          "url": "https://open.spotify.com/artist/3gMQIwIzRRTX8tQg5COTaX"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 380053,
+      "name": "Vogel im K\u00e4fig",
+      "url": "https://open.spotify.com/track/06Lkh16UIG2CZfhCilMUT9"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u524d\u7de8~\u7d05\u84ee\u306e\u5f13\u77e2~\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de YAMANAIAME produced by \u6fa4\u91ce\u5f18\u4e4b",
+        "url": "https://open.spotify.com/album/3bsEgUitzaD5yyAnXG9TFQ"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 267640,
+      "name": "YAMANAIAME",
+      "url": "https://open.spotify.com/track/6KBQatL64GDr2i0KKpsIMC"
+    },
+    {
+      "album": {
+        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359346,
+      "name": "You See Big Girl / T:T",
+      "url": "https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257466,
+      "name": "YouSee-Power",
+      "url": "https://open.spotify.com/track/517GTpatzMITcAIqsM74BU"
+    },
+    {
+      "album": {
+        "name": "Attack On Titan The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "YouSee-Power",
+      "url": "https://open.spotify.com/track/6fx2tRc1ez4qCPySzRRx1m"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 359346,
+      "name": "YouSeeBIGGIRL/T:T",
+      "url": "https://open.spotify.com/track/2Xoe9mGmWbwESLjqq9OdYF"
+    },
+    {
+      "album": {
+        "name": "Yugure no Tori",
+        "url": "https://open.spotify.com/album/3vAE7LvsQeu0JYpwmyGrZO"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304266,
+      "name": "Yugure no Tori",
+      "url": "https://open.spotify.com/track/6owPhBDQ7yiDOR4PoDza3I"
+    },
+    {
+      "album": {
+        "name": "\"Attack on Titan\" Season 3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Zero Eclipse",
+      "url": "https://open.spotify.com/track/0MemW1DmggDpHBGH4GgiaS"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dSeason3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253893,
+      "name": "Zero Eclipse",
+      "url": "https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 03",
+        "url": "https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw"
+      },
+      "artists": [
+        {
+          "name": "KOHTA YAMAMOTO",
+          "url": "https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 414586,
+      "name": "\u0259t'aek till we are Ashes",
+      "url": "https://open.spotify.com/track/2QsrukkARYgxkdLPRdsH4L"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Mika Kobayashi",
+          "url": "https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz"
+        },
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256920,
+      "name": "\u0259t\u02c8\u00e6k 0N t\u03ac\u026atn",
+      "url": "https://open.spotify.com/track/6xRyarDnqu0VIpfFeyRy3x"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d The Final Season Original Soundtrack 02",
+        "url": "https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297026,
+      "name": "\u0259t\u02c8\u00e6k 0N t\u03ac\u026atn<TFSv>",
+      "url": "https://open.spotify.com/track/7cJyOWBZ2Moscj0LlNQexC"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+        "url": "https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 235433,
+      "name": "\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044",
+      "url": "https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30a8\u30ec\u30f3\u30fb\u30a4\u30a7\u30fc\u30ac\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/3c9hxI2scBzDg0HcIgzCDK"
+      },
+      "artists": [
+        {
+          "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d",
+          "url": "https://open.spotify.com/artist/1fAOhUHFKEY4ublVIH8saI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 40771,
+      "name": "\u30a8\u30ec\u30f3\u30fb\u30a4\u30a7\u30fc\u30ac\u30fc\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+      "url": "https://open.spotify.com/track/4iCqnOP7H0CW1uJHMFoKzb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season \u30df\u30ab\u30b5\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/2JsEJwTpsMYuwHFKBCwdfK"
+      },
+      "artists": [
+        {
+          "name": "\u300eTV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300dThe Final Season\u300f",
+          "url": "https://open.spotify.com/artist/75y274vQmhzjOIArJmnrFB"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35886,
+      "name": "\u30df\u30ab\u30b5\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!(Message from Mikasa Ackerman)",
+      "url": "https://open.spotify.com/track/1lFewZjMWF0ZA1s1cgSYRT"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306e\u6226\u4e89",
+        "url": "https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280466,
+      "name": "\u50d5\u306e\u6226\u4e89",
+      "url": "https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG"
+    },
+    {
+      "album": {
+        "name": "\u5e7c\u3055\u3092\u5165\u9662\u3055\u305b\u3066",
+        "url": "https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 303760,
+      "name": "\u5915\u66ae\u308c\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3"
+    },
+    {
+      "album": {
+        "name": "\u5915\u66ae\u308c\u306e\u9ce5/\u5149\u306e\u8a00\u8449",
+        "url": "https://open.spotify.com/album/0wtAqG9NElftFjg2mHzOFN"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 304266,
+      "name": "\u5915\u66ae\u308c\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/79xW4zeNFlcp5VKyvWk3cC"
+    },
+    {
+      "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341413,
+      "name": "\u5fc3\u81d3\u3092\u6367\u3051\u3099\u3088!",
+      "url": "https://open.spotify.com/track/5bIZNB6e83zaYYFHOe1YHz"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u9b54\u306e\u5b50",
+        "url": "https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg"
+      },
+      "artists": [
+        {
+          "name": "Higuchi Ai",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227679,
+      "name": "\u60aa\u9b54\u306e\u5b50",
+      "url": "https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp"
+    },
+    {
+      "album": {
+        "name": "\u771f\u5b9f\u3078\u306e\u9032\u6483",
+        "url": "https://open.spotify.com/album/6NSTZmKODxmUhqWGVZpGDL"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276176,
+      "name": "\u61a7\u61ac\u3068\u5c4d\u306e\u9053",
+      "url": "https://open.spotify.com/track/1rxLfrpsIR0x2wqI6vFNdP"
+    },
+    {
+      "album": {
+        "name": "\u697d\u5712\u3078\u306e\u9032\u6483",
+        "url": "https://open.spotify.com/album/1qVDe3gATmfpP94qykf09F"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240573,
+      "name": "\u6681\u306e\u93ae\u9b42\u6b4c",
+      "url": "https://open.spotify.com/track/6CcVsaoKsG4WvkZWZBvyTn"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u306e\u5de8\u4eba",
+        "url": "https://open.spotify.com/album/7dFRuFp1pwBCvewDyDiSRK"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 240740,
+      "name": "\u6700\u5f8c\u306e\u5de8\u4eba",
+      "url": "https://open.spotify.com/track/4jCia2ud7CJjNDaNtArZkC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Sawano",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 342720,
+      "name": "\u7acbbody\u6a5fmotion",
+      "url": "https://open.spotify.com/track/6HG7w2A4u577FmztV7oIw5"
+    },
+    {
+      "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306480,
+      "name": "\u7d05\u84ee\u306e\u5ea7\u6a19",
+      "url": "https://open.spotify.com/track/7FiCAJ6ewTg9YWRX92guIc"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u7531\u3078\u306e\u9032\u6483",
+        "url": "https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316933,
+      "name": "\u7d05\u84ee\u306e\u5f13\u77e2",
+      "url": "https://open.spotify.com/track/0F8psXXh2oxE5BGdkKaoIs"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u3057\u304d\u6b8b\u9177\u306a\u4e16\u754c\u3010\u901a\u5e38\u76e4\u3011- EP",
+        "url": "https://open.spotify.com/album/6dbozp9RiCuCGQGDDiGzU8"
+      },
+      "artists": [
+        {
+          "name": "Yoko Hikasa",
+          "url": "https://open.spotify.com/artist/432YeAgYRrioSdsY06F2CT"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296573,
+      "name": "\u7f8e\u3057\u304d\u6b8b\u9177\u306a\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1LmIptfyl5QZANQYxuwvhK"
+    },
+    {
+      "album": {
+        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 349693,
+      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
+      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+    },
+    {
+      "album": {
+        "name": "\u81ea\u7531\u3078\u306e\u9032\u6483",
+        "url": "https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328400,
+      "name": "\u81ea\u7531\u306e\u7ffc",
+      "url": "https://open.spotify.com/track/0l6uRRIDPNw3OsmqCYkmvi"
+    },
+    {
+      "album": {
+        "name": "\u885d\u6483",
+        "url": "https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU"
+      },
+      "artists": [
+        {
+          "name": "Yuko Ando",
+          "url": "https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181594,
+      "name": "\u885d\u6483",
+      "url": "https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXkVfVmXHa7l"
 }

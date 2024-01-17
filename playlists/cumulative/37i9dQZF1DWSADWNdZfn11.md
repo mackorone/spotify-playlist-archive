@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-377 songs - 20 hr 5 min
+378 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 | 2022-12-16 | 2023-08-23 |
 | [Bad Habits \- Piano](https://open.spotify.com/track/10TorwCh3S92S6AvYCRhlj) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/4MmGSZxW6NZUeJoNHwUBkB) | 3:16 | 2023-03-17 |  |
 | [Bad Habits \- Piano](https://open.spotify.com/track/377j3AdjXdy6LAqyyEfjGb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ) | 3:16 | 2022-10-14 | 2023-04-12 |
-| [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 |  |
+| [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 | 2024-01-05 |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-10 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-03-17 |  |
 | [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-11-18 | 2023-10-06 |
@@ -156,7 +156,7 @@
 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3WIu5NaDdoGCuYJS6QyQuA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Numb & I Ain't Worried \(Piano\)](https://open.spotify.com/album/2H6UhZkk0YaZ5lr8Vt15O5) | 2:40 | 2022-10-14 | 2023-04-13 |
 | [I Ain't Worried \- Piano](https://open.spotify.com/track/3vbMwZ0NXsJ1dGMNEfr9ar) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:40 | 2023-03-17 | 2023-05-06 |
 | [I Can't Make You Love Me \- Piano Version](https://open.spotify.com/track/5jkFEHWraBRMHSlEQ7pU4g) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 3](https://open.spotify.com/album/03oFXdELtbbLIPkr2FHpHq) | 3:38 | 2022-08-01 | 2023-05-06 |
-| [I Don't Know How To Love Him](https://open.spotify.com/track/5nWsuKWMjV2B3AF1Te5Mie) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Don't Know How To Love Him](https://open.spotify.com/album/10IM0krJbnljU9WzMQii5u) | 3:09 | 2022-08-01 |  |
+| [I Don't Know How To Love Him](https://open.spotify.com/track/5nWsuKWMjV2B3AF1Te5Mie) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Don't Know How To Love Him](https://open.spotify.com/album/10IM0krJbnljU9WzMQii5u) | 3:09 | 2022-08-01 | 2024-01-05 |
 | [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0KnRpsavKnZhiuf4zlbekx) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:42 | 2023-03-17 | 2023-05-06 |
 | [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0pBBdDfWDIZQ3vYN3e67qB) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4) | 2:42 | 2022-12-16 | 2023-04-12 |
 | [I Feel It Coming](https://open.spotify.com/track/32iww11xhYb12qU8rZTp7c) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [I Feel It Coming](https://open.spotify.com/album/4a3t6Fj5yIoQnRW0GSNXGQ) | 3:39 | 2023-01-06 |  |
@@ -342,6 +342,7 @@
 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2022-08-01 |  |
 | [Unholy](https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP) | [Mica Stromberg](https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK) | [Unholy](https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5) | 3:17 | 2022-11-18 | 2023-01-07 |
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-11-18 |  |
+| [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2022-12-16 |  |
 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 | 2023-06-08 |  |
 | [Wake Me Up](https://open.spotify.com/track/4G5Cz0dVjnrzGqgYQYQLtu) | [David Schultz](https://open.spotify.com/artist/32hejOfgJ4dBHJD9AGU2fs) | [Piano Covers](https://open.spotify.com/album/7KNA6W2HKiiaSyijxB4oaz) | 2:24 | 2022-08-01 | 2022-11-19 |

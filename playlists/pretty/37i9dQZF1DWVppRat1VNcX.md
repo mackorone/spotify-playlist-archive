@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 595 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 | 15 | [Piggyback Ride](https://open.spotify.com/track/4g4bgFyT6N2pwhS0kTcSGX) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 3:09 |
 | 16 | [Juguemos En El Bosque](https://open.spotify.com/track/18lHY5LtQVBDfq3q2oF4Uz) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas 3D](https://open.spotify.com/album/7hcSrHjyQfVv8nsIHoKuB4) | 2:27 |
 | 17 | [A Party to Prepare](https://open.spotify.com/track/3Kp8OrVFBj0Gv2l3znwdEM) | [Bananas In Pyjamas](https://open.spotify.com/artist/6OkcoFHITuU21Ewkv69bbo) | [50 Best Songs](https://open.spotify.com/album/5ayOyuDgaQAHLXQ76LuIHp) | 2:04 |
-| 18 | [Cosquillas \(Versión 2019\)](https://open.spotify.com/track/01mInKoPIMxxIkKbtCFr9U) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:38 |
+| 18 | [Cosquillas \(Versión 2019\)](https://open.spotify.com/track/1l4AEwUpJ67ggGA6AYOddO) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l) | 2:38 |
 | 19 | [Un Amigo De Verdad](https://open.spotify.com/track/4D6kUpj1XYT8Kvl7B2Urq2) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU) | [Songs Of Ponyville \(Español / Music From The Original TV Series\)](https://open.spotify.com/album/1hbd7VEnyVvFubTbOdVmDK) | 3:31 |
 | 20 | [Pat\-a\-Cake, Pat\-a\-Cake](https://open.spotify.com/track/1zhTh3nUqFZy63SqFNh8Ih) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Fun Songs for Kids](https://open.spotify.com/album/3l5NKqOZFYoXX357okAjBh) | 1:26 |
 | 21 | [Un Dia Especial](https://open.spotify.com/track/3SGh8NSvDR1AGXHWHMTrkh) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 1:04 |

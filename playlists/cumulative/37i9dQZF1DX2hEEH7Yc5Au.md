@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2hEEH7Yc5Au.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au)
 
-### [Best of EQUAL Taiwan 2023](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
+### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 2023 一起來回顧本年度女性音樂人的精采表現！Highlights of 2023, listen to women at full volume\. Cover: 洪佩瑜 \(Pei\-Yu Hung\)
+> 一起來欣賞女性音樂人的精采表現！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
 453 songs - 1 day 6 hr 56 min
 

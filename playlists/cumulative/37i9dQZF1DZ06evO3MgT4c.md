@@ -4,7 +4,7 @@
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 43 min
+57 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Deadz \(feat\. 2 Chainz\)](https://open.spotify.com/track/3sTsxjv7yb0cM3rWvQdVan) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:34 | 2023-06-07 |  |
 | [Drip \(feat\. Migos\)](https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:22 | 2023-06-07 |  |
 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 | 2023-06-07 |  |
+| [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 | 2024-01-13 |  |
 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 | 2023-06-07 |  |
 | [Frosted Flakes](https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 4:18 | 2023-11-10 |  |
 | [Get Right Witcha](https://open.spotify.com/track/2jGEiQ3otr4CPIeBgefjRA) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:17 | 2023-06-07 |  |
@@ -50,7 +51,7 @@
 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Racks 2 Skinny](https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK) | 2:58 | 2023-06-07 |  |
 | [RAW SHIT \(feat\. Migos\)](https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:36 | 2023-06-07 |  |
 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 | 2023-06-07 |  |
-| [Seize The Block](https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ) | 3:59 | 2023-06-07 |  |
+| [Seize The Block](https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ) | 3:59 | 2023-06-07 | 2024-01-13 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2023-06-07 |  |
 | [Slippery \(feat\. Gucci Mane\)](https://open.spotify.com/track/0TBgMKD86t1VP3IzhxCoUl) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:04 | 2023-06-07 |  |
 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 | 2023-06-07 |  |
@@ -62,7 +63,7 @@
 | [Walk It Talk It](https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:36 | 2023-06-07 |  |
 | [WE GOING CRAZY \(feat\. H.E.R\. & Migos\)](https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:16 | 2023-06-07 |  |
 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 | 2023-06-07 |  |
-| [What the Price](https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:08 | 2023-06-13 | 2023-07-16 |
+| [What the Price](https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:08 | 2023-06-13 | 2024-01-15 |
 | [What You See \(feat\. Justin Bieber\)](https://open.spotify.com/track/58H8cWvvaFLFg2g7SdOO44) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 2:59 | 2023-08-10 | 2023-12-14 |
 
 \*This playlist was first scraped on 2023-06-08. Prior content cannot be recovered.

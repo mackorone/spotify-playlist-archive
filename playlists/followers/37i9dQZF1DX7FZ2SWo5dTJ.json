@@ -1,580 +1,947 @@
 {
-  "2022-05-30": 587,
-  "2022-05-31": 593,
-  "2022-06-01": 597,
-  "2022-06-02": 597,
-  "2022-06-03": 597,
-  "2022-06-04": 602,
-  "2022-06-05": 605,
-  "2022-06-06": 608,
-  "2022-06-07": 610,
-  "2022-06-08": 612,
-  "2022-06-09": 614,
-  "2022-06-10": 616,
-  "2022-06-11": 617,
-  "2022-06-12": 623,
-  "2022-06-13": 625,
-  "2022-06-14": 631,
-  "2022-06-15": 635,
-  "2022-06-16": 637,
-  "2022-06-17": 637,
-  "2022-06-18": 639,
-  "2022-06-19": 645,
-  "2022-06-20": 645,
-  "2022-06-21": 648,
-  "2022-06-22": 653,
-  "2022-06-23": 653,
-  "2022-06-24": 654,
-  "2022-06-25": 655,
-  "2022-06-26": 655,
-  "2022-06-27": 659,
-  "2022-06-28": 662,
-  "2022-06-29": 662,
-  "2022-06-30": 663,
-  "2022-07-01": 664,
-  "2022-07-02": 665,
-  "2022-07-03": 667,
-  "2022-07-04": 669,
-  "2022-07-05": 669,
-  "2022-07-06": 669,
-  "2022-07-07": 670,
-  "2022-07-08": 673,
-  "2022-07-09": 675,
-  "2022-07-10": 675,
-  "2022-07-11": 680,
-  "2022-07-12": 681,
-  "2022-07-13": 687,
-  "2022-07-14": 690,
-  "2022-07-15": 693,
-  "2022-07-16": 693,
-  "2022-07-17": 697,
-  "2022-07-18": 701,
-  "2022-07-19": 701,
-  "2022-07-20": 704,
-  "2022-07-21": 707,
-  "2022-07-22": 709,
-  "2022-07-23": 711,
-  "2022-07-24": 717,
-  "2022-07-25": 721,
-  "2022-07-26": 728,
-  "2022-07-27": 731,
-  "2022-07-28": 734,
-  "2022-07-29": 738,
-  "2022-07-30": 740,
-  "2022-07-31": 740,
-  "2022-08-01": 741,
-  "2022-08-02": 747,
-  "2022-08-03": 747,
-  "2022-08-04": 747,
-  "2022-08-05": 747,
-  "2022-08-06": 749,
-  "2022-08-07": 748,
-  "2022-08-08": 752,
-  "2022-08-09": 751,
-  "2022-08-10": 753,
-  "2022-08-11": 753,
-  "2022-08-12": 754,
-  "2022-08-13": 755,
-  "2022-08-14": 756,
-  "2022-08-15": 756,
-  "2022-08-16": 758,
-  "2022-08-17": 758,
-  "2022-08-18": 760,
-  "2022-08-19": 763,
-  "2022-08-20": 763,
-  "2022-08-21": 766,
-  "2022-08-22": 767,
-  "2022-08-23": 769,
-  "2022-08-24": 773,
-  "2022-08-25": 771,
-  "2022-08-26": 772,
-  "2022-08-27": 774,
-  "2022-08-28": 774,
-  "2022-08-29": 775,
-  "2022-08-30": 776,
-  "2022-08-31": 776,
-  "2022-09-01": 778,
-  "2022-09-02": 779,
-  "2022-09-03": 781,
-  "2022-09-04": 780,
-  "2022-09-05": 784,
-  "2022-09-06": 785,
-  "2022-09-07": 787,
-  "2022-09-09": 787,
-  "2022-09-10": 787,
-  "2022-09-11": 787,
-  "2022-09-12": 788,
-  "2022-09-13": 787,
-  "2022-09-15": 790,
-  "2022-09-16": 790,
-  "2022-09-17": 791,
-  "2022-09-18": 791,
-  "2022-09-19": 791,
-  "2022-09-20": 793,
-  "2022-09-21": 794,
-  "2022-09-22": 794,
-  "2022-09-23": 796,
-  "2022-09-24": 797,
-  "2022-09-25": 799,
-  "2022-09-26": 801,
-  "2022-09-27": 800,
-  "2022-09-28": 802,
-  "2022-09-29": 804,
-  "2022-09-30": 805,
-  "2022-10-01": 804,
-  "2022-10-02": 805,
-  "2022-10-03": 806,
-  "2022-10-04": 806,
-  "2022-10-05": 806,
-  "2022-10-06": 807,
-  "2022-10-07": 808,
-  "2022-10-08": 811,
-  "2022-10-09": 813,
-  "2022-10-10": 813,
-  "2022-10-11": 814,
-  "2022-10-12": 815,
-  "2022-10-13": 816,
-  "2022-10-14": 817,
-  "2022-10-15": 818,
-  "2022-10-16": 819,
-  "2022-10-17": 820,
-  "2022-10-18": 820,
-  "2022-10-19": 821,
-  "2022-10-20": 821,
-  "2022-10-21": 823,
-  "2022-10-22": 823,
-  "2022-10-23": 823,
-  "2022-10-24": 826,
-  "2022-10-25": 827,
-  "2022-10-26": 827,
-  "2022-10-27": 827,
-  "2022-10-28": 829,
-  "2022-10-29": 829,
-  "2022-10-30": 831,
-  "2022-10-31": 832,
-  "2022-11-01": 832,
-  "2022-11-02": 832,
-  "2022-11-03": 831,
-  "2022-11-04": 831,
-  "2022-11-05": 831,
-  "2022-11-06": 832,
-  "2022-11-07": 832,
-  "2022-11-08": 832,
-  "2022-11-09": 832,
-  "2022-11-10": 832,
-  "2022-11-11": 834,
-  "2022-11-12": 833,
-  "2022-11-13": 833,
-  "2022-11-14": 835,
-  "2022-11-15": 837,
-  "2022-11-16": 835,
-  "2022-11-17": 837,
-  "2022-11-18": 836,
-  "2022-11-19": 836,
-  "2022-11-20": 836,
-  "2022-11-21": 836,
-  "2022-11-22": 837,
-  "2022-11-23": 837,
-  "2022-11-24": 837,
-  "2022-11-25": 837,
-  "2022-11-26": 837,
-  "2022-11-27": 837,
-  "2022-11-28": 837,
-  "2022-11-29": 837,
-  "2022-11-30": 837,
-  "2022-12-01": 838,
-  "2022-12-02": 838,
-  "2022-12-03": 839,
-  "2022-12-04": 839,
-  "2022-12-05": 838,
-  "2022-12-06": 838,
-  "2022-12-07": 839,
-  "2022-12-08": 839,
-  "2022-12-09": 838,
-  "2022-12-10": 838,
-  "2022-12-11": 838,
-  "2022-12-12": 838,
-  "2022-12-13": 838,
-  "2022-12-14": 838,
-  "2022-12-15": 838,
-  "2022-12-16": 839,
-  "2022-12-17": 839,
-  "2022-12-18": 839,
-  "2022-12-19": 839,
-  "2022-12-20": 840,
-  "2022-12-21": 840,
-  "2022-12-22": 841,
-  "2022-12-24": 841,
-  "2022-12-25": 840,
-  "2022-12-26": 840,
-  "2022-12-27": 840,
-  "2022-12-28": 841,
-  "2022-12-29": 841,
-  "2022-12-30": 842,
-  "2022-12-31": 843,
-  "2023-01-01": 843,
-  "2023-01-02": 844,
-  "2023-01-03": 845,
-  "2023-01-04": 846,
-  "2023-01-05": 847,
-  "2023-01-06": 849,
-  "2023-01-07": 850,
-  "2023-01-08": 851,
-  "2023-01-09": 853,
-  "2023-01-10": 855,
-  "2023-01-11": 856,
-  "2023-01-12": 858,
-  "2023-01-13": 858,
-  "2023-01-14": 858,
-  "2023-01-15": 859,
-  "2023-01-16": 859,
-  "2023-01-17": 861,
-  "2023-01-18": 863,
-  "2023-01-19": 863,
-  "2023-01-20": 863,
-  "2023-01-21": 863,
-  "2023-01-22": 864,
-  "2023-01-23": 865,
-  "2023-01-24": 866,
-  "2023-01-25": 867,
-  "2023-01-26": 867,
-  "2023-01-27": 868,
-  "2023-01-28": 868,
-  "2023-01-29": 868,
-  "2023-01-30": 869,
-  "2023-01-31": 869,
-  "2023-02-01": 871,
-  "2023-02-02": 873,
-  "2023-02-03": 874,
-  "2023-02-04": 874,
-  "2023-02-05": 876,
-  "2023-02-06": 876,
-  "2023-02-07": 875,
-  "2023-02-08": 874,
-  "2023-02-09": 874,
-  "2023-02-10": 875,
-  "2023-02-11": 877,
-  "2023-02-12": 881,
-  "2023-02-13": 882,
-  "2023-02-14": 882,
-  "2023-02-15": 882,
-  "2023-02-16": 882,
-  "2023-02-17": 882,
-  "2023-02-18": 882,
-  "2023-02-19": 882,
-  "2023-02-20": 882,
-  "2023-02-21": 882,
-  "2023-02-22": 882,
-  "2023-02-23": 882,
-  "2023-02-24": 882,
-  "2023-02-25": 882,
-  "2023-02-26": 882,
-  "2023-02-27": 882,
-  "2023-02-28": 882,
-  "2023-03-01": 882,
-  "2023-03-02": 882,
-  "2023-03-03": 882,
-  "2023-03-04": 882,
-  "2023-03-05": 882,
-  "2023-03-06": 882,
-  "2023-03-07": 882,
-  "2023-03-08": 882,
-  "2023-03-09": 882,
-  "2023-03-10": 882,
-  "2023-03-11": 882,
-  "2023-03-12": 882,
-  "2023-03-13": 882,
-  "2023-03-14": 882,
-  "2023-03-15": 882,
-  "2023-03-16": 882,
-  "2023-03-17": 882,
-  "2023-03-18": 882,
-  "2023-03-19": 882,
-  "2023-03-20": 882,
-  "2023-03-21": 882,
-  "2023-03-22": 882,
-  "2023-03-23": 882,
-  "2023-03-24": 882,
-  "2023-03-25": 882,
-  "2023-03-26": 882,
-  "2023-03-27": 882,
-  "2023-03-28": 882,
-  "2023-03-29": 882,
-  "2023-03-30": 882,
-  "2023-03-31": 882,
-  "2023-04-01": 882,
-  "2023-04-02": 882,
-  "2023-04-03": 882,
-  "2023-04-04": 882,
-  "2023-04-05": 882,
-  "2023-04-06": 882,
-  "2023-04-07": 882,
-  "2023-04-09": 882,
-  "2023-04-10": 882,
-  "2023-04-11": 882,
-  "2023-04-12": 882,
-  "2023-04-13": 882,
-  "2023-04-14": 882,
-  "2023-04-15": 882,
-  "2023-04-16": 882,
-  "2023-04-17": 882,
-  "2023-04-18": 882,
-  "2023-04-19": 882,
-  "2023-04-20": 882,
-  "2023-04-21": 882,
-  "2023-04-22": 882,
-  "2023-04-23": 882,
-  "2023-04-24": 882,
-  "2023-04-25": 882,
-  "2023-04-26": 882,
-  "2023-04-27": 882,
-  "2023-04-28": 882,
-  "2023-04-29": 882,
-  "2023-04-30": 882,
-  "2023-05-01": 882,
-  "2023-05-02": 882,
-  "2023-05-03": 882,
-  "2023-05-04": 882,
-  "2023-05-05": 882,
-  "2023-05-06": 882,
-  "2023-05-07": 882,
-  "2023-05-08": 882,
-  "2023-05-09": 882,
-  "2023-05-10": 882,
-  "2023-05-11": 882,
-  "2023-05-12": 882,
-  "2023-05-13": 882,
-  "2023-05-14": 882,
-  "2023-05-15": 882,
-  "2023-05-16": 882,
-  "2023-05-17": 882,
-  "2023-05-18": 882,
-  "2023-05-19": 882,
-  "2023-05-20": 882,
-  "2023-05-21": 882,
-  "2023-05-22": 882,
-  "2023-05-23": 882,
-  "2023-05-24": 882,
-  "2023-05-25": 882,
-  "2023-05-26": 882,
-  "2023-05-27": 882,
-  "2023-05-28": 882,
-  "2023-05-29": 882,
-  "2023-05-30": 882,
-  "2023-05-31": 882,
-  "2023-06-01": 882,
-  "2023-06-02": 882,
-  "2023-06-03": 882,
-  "2023-06-04": 882,
-  "2023-06-05": 882,
-  "2023-06-06": 882,
-  "2023-06-07": 882,
-  "2023-06-08": 882,
-  "2023-06-09": 882,
-  "2023-06-10": 882,
-  "2023-06-11": 882,
-  "2023-06-12": 882,
-  "2023-06-13": 882,
-  "2023-06-14": 882,
-  "2023-06-15": 882,
-  "2023-06-16": 882,
-  "2023-06-17": 882,
-  "2023-06-18": 882,
-  "2023-06-19": 882,
-  "2023-06-20": 882,
-  "2023-06-21": 882,
-  "2023-06-22": 882,
-  "2023-06-23": 882,
-  "2023-06-24": 882,
-  "2023-06-25": 882,
-  "2023-06-26": 882,
-  "2023-06-27": 882,
-  "2023-06-28": 882,
-  "2023-06-29": 882,
-  "2023-06-30": 882,
-  "2023-07-01": 882,
-  "2023-07-02": 882,
-  "2023-07-03": 882,
-  "2023-07-04": 882,
-  "2023-07-05": 882,
-  "2023-07-06": 882,
-  "2023-07-07": 882,
-  "2023-07-08": 882,
-  "2023-07-09": 882,
-  "2023-07-10": 882,
-  "2023-07-11": 882,
-  "2023-07-12": 882,
-  "2023-07-13": 882,
-  "2023-07-14": 882,
-  "2023-07-15": 882,
-  "2023-07-16": 882,
-  "2023-07-17": 882,
-  "2023-07-18": 882,
-  "2023-07-19": 882,
-  "2023-07-20": 882,
-  "2023-07-21": 882,
-  "2023-07-22": 882,
-  "2023-07-23": 882,
-  "2023-07-24": 882,
-  "2023-07-25": 882,
-  "2023-07-26": 882,
-  "2023-07-27": 882,
-  "2023-07-28": 882,
-  "2023-07-29": 882,
-  "2023-07-30": 882,
-  "2023-07-31": 882,
-  "2023-08-01": 882,
-  "2023-08-02": 882,
-  "2023-08-03": 882,
-  "2023-08-04": 882,
-  "2023-08-05": 882,
-  "2023-08-06": 882,
-  "2023-08-07": 882,
-  "2023-08-08": 882,
-  "2023-08-09": 882,
-  "2023-08-10": 882,
-  "2023-08-11": 882,
-  "2023-08-12": 882,
-  "2023-08-13": 882,
-  "2023-08-14": 882,
-  "2023-08-15": 882,
-  "2023-08-16": 882,
-  "2023-08-17": 882,
-  "2023-08-18": 882,
-  "2023-08-19": 882,
-  "2023-08-20": 882,
-  "2023-08-21": 882,
-  "2023-08-22": 882,
-  "2023-08-23": 882,
-  "2023-08-24": 882,
-  "2023-08-25": 882,
-  "2023-08-26": 882,
-  "2023-08-27": 882,
-  "2023-08-28": 882,
-  "2023-08-29": 882,
-  "2023-08-30": 882,
-  "2023-08-31": 882,
-  "2023-09-01": 882,
-  "2023-09-02": 882,
-  "2023-09-03": 882,
-  "2023-09-04": 882,
-  "2023-09-05": 882,
-  "2023-09-06": 882,
-  "2023-09-07": 882,
-  "2023-09-08": 882,
-  "2023-09-09": 882,
-  "2023-09-10": 882,
-  "2023-09-11": 882,
-  "2023-09-12": 882,
-  "2023-09-13": 882,
-  "2023-09-14": 882,
-  "2023-09-15": 882,
-  "2023-09-16": 882,
-  "2023-09-17": 882,
-  "2023-09-18": 882,
-  "2023-09-19": 882,
-  "2023-09-20": 882,
-  "2023-09-21": 882,
-  "2023-09-22": 882,
-  "2023-09-23": 882,
-  "2023-09-24": 882,
-  "2023-09-25": 882,
-  "2023-09-26": 882,
-  "2023-09-27": 882,
-  "2023-09-28": 882,
-  "2023-09-29": 882,
-  "2023-09-30": 882,
-  "2023-10-01": 882,
-  "2023-10-02": 882,
-  "2023-10-03": 882,
-  "2023-10-04": 882,
-  "2023-10-05": 882,
-  "2023-10-06": 882,
-  "2023-10-07": 882,
-  "2023-10-08": 882,
-  "2023-10-09": 882,
-  "2023-10-10": 882,
-  "2023-10-11": 882,
-  "2023-10-12": 882,
-  "2023-10-13": 882,
-  "2023-10-14": 882,
-  "2023-10-15": 882,
-  "2023-10-16": 882,
-  "2023-10-17": 882,
-  "2023-10-18": 882,
-  "2023-10-19": 882,
-  "2023-10-20": 882,
-  "2023-10-21": 882,
-  "2023-10-22": 882,
-  "2023-10-23": 882,
-  "2023-10-24": 882,
-  "2023-10-25": 882,
-  "2023-10-26": 882,
-  "2023-10-27": 882,
-  "2023-10-28": 882,
-  "2023-10-29": 882,
-  "2023-10-30": 882,
-  "2023-10-31": 882,
-  "2023-11-01": 882,
-  "2023-11-02": 882,
-  "2023-11-03": 882,
-  "2023-11-04": 882,
-  "2023-11-05": 882,
-  "2023-11-06": 882,
-  "2023-11-07": 882,
-  "2023-11-08": 882,
-  "2023-11-09": 882,
-  "2023-11-10": 882,
-  "2023-11-11": 882,
-  "2023-11-12": 882,
-  "2023-11-13": 882,
-  "2023-11-14": 882,
-  "2023-11-15": 882,
-  "2023-11-16": 882,
-  "2023-11-17": 882,
-  "2023-11-18": 882,
-  "2023-11-19": 882,
-  "2023-11-20": 882,
-  "2023-11-21": 882,
-  "2023-11-22": 882,
-  "2023-11-23": 882,
-  "2023-11-24": 882,
-  "2023-11-25": 882,
-  "2023-11-26": 882,
-  "2023-11-27": 882,
-  "2023-11-28": 882,
-  "2023-11-29": 882,
-  "2023-11-30": 882,
-  "2023-12-01": 882,
-  "2023-12-02": 882,
-  "2023-12-03": 882,
-  "2023-12-04": 882,
-  "2023-12-05": 882,
-  "2023-12-06": 882,
-  "2023-12-07": 882,
-  "2023-12-08": 882,
-  "2023-12-09": 882,
-  "2023-12-10": 882,
-  "2023-12-11": 882,
-  "2023-12-12": 882,
-  "2023-12-13": 882,
-  "2023-12-14": 882,
-  "2023-12-15": 882,
-  "2023-12-16": 882,
-  "2023-12-17": 882,
-  "2023-12-18": 882,
-  "2023-12-19": 882,
-  "2023-12-20": 882,
-  "2023-12-21": 882,
-  "2023-12-22": 882,
-  "2023-12-23": 882,
-  "2023-12-24": 882,
-  "2023-12-25": 882,
-  "2023-12-26": 882,
-  "2023-12-27": 882,
-  "2023-12-30": 882,
-  "2023-12-31": 882,
-  "2024-01-01": 882,
-  "2024-01-02": 882,
-  "2024-01-03": 882
+  "2024-01-17": 882,
+  "date_first_scraped": "2022-05-30",
+  "description": "Soundtrack your 2022 resolutions with Jeanette Jenkins.",
+  "name": "Jeanette Jenkins' Stretch. Yoga. Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Amon Ra",
+      "url": "https://open.spotify.com/track/0loYWxAfmNvI0RVIwBAMDg"
+    },
+    {
+      "album": {
+        "name": "Horriya",
+        "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244293,
+      "name": "Amon Ra",
+      "url": "https://open.spotify.com/track/5G1h1so2Hh2NJMn2KfGp8j"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290532,
+      "name": "Back to Marrakech",
+      "url": "https://open.spotify.com/track/3JbLisvckoTIFwjYOeND0m"
+    },
+    {
+      "album": {
+        "name": "Horriya",
+        "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290480,
+      "name": "Back to Marrakech",
+      "url": "https://open.spotify.com/track/1e2k8HCh3YVZMyM3nGfvEU"
+    },
+    {
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "album": {
+        "name": "All I Know So Far: Setlist",
+        "url": "https://open.spotify.com/album/061vVdNVxwouz0INdQeOkn"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Willow Sage Hart",
+          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138573,
+      "name": "Cover Me In Sunshine",
+      "url": "https://open.spotify.com/track/0UKUfxIkDAMZz7hMdiVX3m"
+    },
+    {
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298373,
+      "name": "Feels Good",
+      "url": "https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Freedom",
+        "url": "https://open.spotify.com/album/5JygNmF6F1JaV3qQnHBpDZ"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231873,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7vBmjc8MZg1ocnYlBLfN3Q"
+    },
+    {
+      "album": {
+        "name": "Universal Sound of Buddha Bar",
+        "url": "https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233776,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Best Of",
+        "url": "https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225373,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3PuPUsDKtao10gqUJF5gRU"
+    },
+    {
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "album": {
+        "name": "Is This Love (Montmartre Remix)",
+        "url": "https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269403,
+      "name": "Is This Love - Montmartre Remix",
+      "url": "https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 250653,
+      "name": "Kiss of Life - Remastered",
+      "url": "https://open.spotify.com/track/21VQMMzsYxMfi68aQQZiUt"
+    },
+    {
+      "album": {
+        "name": "The Best Of Sade",
+        "url": "https://open.spotify.com/album/4tYiiSjPEguQYzSMne1HfX"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250933,
+      "name": "Kiss of Love",
+      "url": "https://open.spotify.com/track/0rRLM4kWgMqoBtCHNdS0VX"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude - Alaafiya",
+        "url": "https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n"
+      },
+      "artists": [
+        {
+          "name": "Lulendo",
+          "url": "https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220400,
+      "name": "Mavinga",
+      "url": "https://open.spotify.com/track/1pIZQi4p11qQDOcZfyrKm4"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Alaafiya",
+        "url": "https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG"
+      },
+      "artists": [
+        {
+          "name": "Lulendo",
+          "url": "https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220400,
+      "name": "Mavinga",
+      "url": "https://open.spotify.com/track/25ePJQLoXy4iTdhwYFH6Uo"
+    },
+    {
+      "album": {
+        "name": "Soul of Africa",
+        "url": "https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk"
+      },
+      "artists": [
+        {
+          "name": "Lulendo",
+          "url": "https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Mavinga",
+      "url": "https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4"
+    },
+    {
+      "album": {
+        "name": "KEYS",
+        "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Nat King Cole (Originals)",
+      "url": "https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves for Meditating, Relaxing and Sleeping",
+        "url": "https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA"
+      },
+      "artists": [
+        {
+          "name": "Zen Meditations from a Sleeping Buddha",
+          "url": "https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 912000,
+      "name": "Ocean Waves for Meditating, Relaxing and Sleeping",
+      "url": "https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Horrya",
+        "url": "https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275065,
+      "name": "Oriental Feeling",
+      "url": "https://open.spotify.com/track/4NMsfeOsV8zOOzeSUiu4Lx"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265680,
+      "name": "Oriental Feeling",
+      "url": "https://open.spotify.com/track/3aRUKwNxddIcjtK0TUNuFt"
+    },
+    {
+      "album": {
+        "name": "Horriya",
+        "url": "https://open.spotify.com/album/4B3ki4TlrteTDeDem5R7OI"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275000,
+      "name": "Oriental Feeling",
+      "url": "https://open.spotify.com/track/4IkYn8LncFHDUk2XuQbHxG"
+    },
+    {
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw"
+    },
+    {
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Alaafiya",
+        "url": "https://open.spotify.com/album/3xOkcS62gUvFJDcdJd9oeD"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329065,
+      "name": "Sundown in Madagaskar",
+      "url": "https://open.spotify.com/track/39jK30ioiRz6QPTdVqPJUz"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude - Alaafiya",
+        "url": "https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 329065,
+      "name": "Sundown in Madagaskar",
+      "url": "https://open.spotify.com/track/6YfJqxSdyTjeRuTAAH5fCq"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Alaafiya",
+        "url": "https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 329066,
+      "name": "Sundown in Madagaskar",
+      "url": "https://open.spotify.com/track/0JNtTOu0D2Jh6DuirdsDMy"
+    },
+    {
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249506,
+      "name": "This Luv",
+      "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "This Woman's Work - Remastered 2021",
+      "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Best Of",
+        "url": "https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 434906,
+      "name": "Tibetology",
+      "url": "https://open.spotify.com/track/27B8fO1LVObBxWl0nIkLpR"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434906,
+      "name": "Tibetology",
+      "url": "https://open.spotify.com/track/4tWEQyP7inHCgr5fjCQEg6"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Best Of",
+        "url": "https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254786,
+      "name": "Under the Ocean",
+      "url": "https://open.spotify.com/track/0IUfTNfxRme2djKnw3jLg5"
+    },
+    {
+      "album": {
+        "name": "Buddhatitude Best Of : Buddha-Bar Spa Music Collection",
+        "url": "https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg"
+      },
+      "artists": [
+        {
+          "name": "Buddhattitude",
+          "url": "https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254786,
+      "name": "Under the Ocean",
+      "url": "https://open.spotify.com/track/4yXuHnDBrKFpBHyJunB4zM"
+    },
+    {
+      "album": {
+        "name": "Buddhattitude Alaafiya",
+        "url": "https://open.spotify.com/album/0V2Z3yJd3Ah8g9BQIIlcIG"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346906,
+      "name": "Welcome to Africa",
+      "url": "https://open.spotify.com/track/6s2a0YXofZiN66QdMLg1R5"
+    },
+    {
+      "album": {
+        "name": "African Dream Lounge - Volume 2",
+        "url": "https://open.spotify.com/album/32ylYbjhA0LV88jVRIOsyx"
+      },
+      "artists": [
+        {
+          "name": "African Tribal Orchestra",
+          "url": "https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349026,
+      "name": "Welcome To Africa",
+      "url": "https://open.spotify.com/track/2zKX7B5GyI813KejUGLIdL"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210586,
+      "name": "Work That",
+      "url": "https://open.spotify.com/track/3j59mQGu5USFF16v8nPNmw"
+    },
+    {
+      "album": {
+        "name": "Yo x Ti, Tu x Mi",
+        "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Yo x Ti, Tu x Mi",
+      "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7FZ2SWo5dTJ"
 }

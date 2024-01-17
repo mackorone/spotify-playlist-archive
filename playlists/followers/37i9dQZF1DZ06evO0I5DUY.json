@@ -1,577 +1,1499 @@
 {
-  "2022-06-02": 141818,
-  "2022-06-03": 141867,
-  "2022-06-04": 141953,
-  "2022-06-05": 142052,
-  "2022-06-06": 142152,
-  "2022-06-07": 142206,
-  "2022-06-08": 142275,
-  "2022-06-09": 142316,
-  "2022-06-10": 142391,
-  "2022-06-11": 142458,
-  "2022-06-12": 142547,
-  "2022-06-13": 142627,
-  "2022-06-14": 142666,
-  "2022-06-15": 142718,
-  "2022-06-16": 142770,
-  "2022-06-17": 142829,
-  "2022-06-18": 142884,
-  "2022-06-19": 143092,
-  "2022-06-20": 143092,
-  "2022-06-21": 143149,
-  "2022-06-22": 143248,
-  "2022-06-23": 143248,
-  "2022-06-24": 143297,
-  "2022-06-25": 143357,
-  "2022-06-26": 143433,
-  "2022-06-27": 143510,
-  "2022-06-28": 143561,
-  "2022-06-29": 143611,
-  "2022-06-30": 143661,
-  "2022-07-01": 143733,
-  "2022-07-02": 143805,
-  "2022-07-03": 143892,
-  "2022-07-04": 143968,
-  "2022-07-05": 144021,
-  "2022-07-06": 144021,
-  "2022-07-07": 144127,
-  "2022-07-08": 144207,
-  "2022-07-09": 144275,
-  "2022-07-10": 144365,
-  "2022-07-11": 144458,
-  "2022-07-12": 144495,
-  "2022-07-13": 144548,
-  "2022-07-14": 144604,
-  "2022-07-15": 144670,
-  "2022-07-16": 144743,
-  "2022-07-17": 144832,
-  "2022-07-18": 144941,
-  "2022-07-19": 144995,
-  "2022-07-20": 145040,
-  "2022-07-21": 145103,
-  "2022-07-22": 145165,
-  "2022-07-23": 145234,
-  "2022-07-24": 145325,
-  "2022-07-25": 145393,
-  "2022-07-26": 145453,
-  "2022-07-27": 145509,
-  "2022-07-28": 145568,
-  "2022-07-29": 145629,
-  "2022-07-30": 145773,
-  "2022-07-31": 145773,
-  "2022-08-01": 145847,
-  "2022-08-02": 145946,
-  "2022-08-03": 145946,
-  "2022-08-04": 145986,
-  "2022-08-05": 146043,
-  "2022-08-06": 146122,
-  "2022-08-07": 146217,
-  "2022-08-08": 146308,
-  "2022-08-09": 146351,
-  "2022-08-10": 146423,
-  "2022-08-11": 146473,
-  "2022-08-12": 146543,
-  "2022-08-13": 146617,
-  "2022-08-14": 146729,
-  "2022-08-15": 146814,
-  "2022-08-16": 146872,
-  "2022-08-17": 146914,
-  "2022-08-18": 146966,
-  "2022-08-19": 147030,
-  "2022-08-20": 147089,
-  "2022-08-21": 147165,
-  "2022-08-22": 147252,
-  "2022-08-23": 147291,
-  "2022-08-24": 147339,
-  "2022-08-25": 147389,
-  "2022-08-26": 147434,
-  "2022-08-27": 147494,
-  "2022-08-28": 147573,
-  "2022-08-29": 147655,
-  "2022-08-30": 147711,
-  "2022-08-31": 147762,
-  "2022-09-01": 147800,
-  "2022-09-02": 147858,
-  "2022-09-03": 147970,
-  "2022-09-04": 148086,
-  "2022-09-05": 148174,
-  "2022-09-06": 148209,
-  "2022-09-07": 148261,
-  "2022-09-09": 148378,
-  "2022-09-10": 148472,
-  "2022-09-11": 148566,
-  "2022-09-12": 148638,
-  "2022-09-13": 148698,
-  "2022-09-15": 148819,
-  "2022-09-16": 148917,
-  "2022-09-17": 149028,
-  "2022-09-18": 149107,
-  "2022-09-19": 149175,
-  "2022-09-20": 149217,
-  "2022-09-21": 149281,
-  "2022-09-22": 149344,
-  "2022-09-23": 149397,
-  "2022-09-24": 149475,
-  "2022-09-25": 149579,
-  "2022-09-26": 149684,
-  "2022-09-27": 149747,
-  "2022-09-28": 149790,
-  "2022-09-29": 149849,
-  "2022-09-30": 149932,
-  "2022-10-01": 150015,
-  "2022-10-02": 150141,
-  "2022-10-03": 150228,
-  "2022-10-04": 150272,
-  "2022-10-05": 150336,
-  "2022-10-06": 150390,
-  "2022-10-07": 150446,
-  "2022-10-08": 150543,
-  "2022-10-09": 150691,
-  "2022-10-10": 150707,
-  "2022-10-11": 150761,
-  "2022-10-12": 150830,
-  "2022-10-13": 150885,
-  "2022-10-14": 150939,
-  "2022-10-15": 151016,
-  "2022-10-16": 151146,
-  "2022-10-17": 151248,
-  "2022-10-18": 151312,
-  "2022-10-19": 151354,
-  "2022-10-20": 151412,
-  "2022-10-21": 151464,
-  "2022-10-22": 151543,
-  "2022-10-23": 151640,
-  "2022-10-24": 151762,
-  "2022-10-25": 151803,
-  "2022-10-26": 151872,
-  "2022-10-27": 151944,
-  "2022-10-28": 152022,
-  "2022-10-29": 152095,
-  "2022-10-30": 152204,
-  "2022-10-31": 152290,
-  "2022-11-01": 152393,
-  "2022-11-02": 152470,
-  "2022-11-03": 152633,
-  "2022-11-04": 152718,
-  "2022-11-05": 152814,
-  "2022-11-06": 152921,
-  "2022-11-07": 153025,
-  "2022-11-08": 153093,
-  "2022-11-09": 153160,
-  "2022-11-10": 153239,
-  "2022-11-11": 153325,
-  "2022-11-12": 153453,
-  "2022-11-13": 153554,
-  "2022-11-14": 153656,
-  "2022-11-15": 153724,
-  "2022-11-16": 153788,
-  "2022-11-17": 153863,
-  "2022-11-18": 153910,
-  "2022-11-19": 153936,
-  "2022-11-20": 154017,
-  "2022-11-21": 154136,
-  "2022-11-22": 154233,
-  "2022-11-23": 154302,
-  "2022-11-24": 154396,
-  "2022-11-25": 154497,
-  "2022-11-26": 154581,
-  "2022-11-27": 154683,
-  "2022-11-28": 154749,
-  "2022-11-29": 154818,
-  "2022-11-30": 154876,
-  "2022-12-01": 154953,
-  "2022-12-02": 154984,
-  "2022-12-03": 155083,
-  "2022-12-04": 155188,
-  "2022-12-05": 155281,
-  "2022-12-06": 155363,
-  "2022-12-07": 155428,
-  "2022-12-08": 155505,
-  "2022-12-09": 155594,
-  "2022-12-10": 155674,
-  "2022-12-11": 155793,
-  "2022-12-12": 155912,
-  "2022-12-13": 155972,
-  "2022-12-14": 156039,
-  "2022-12-15": 156145,
-  "2022-12-16": 156213,
-  "2022-12-17": 156313,
-  "2022-12-18": 156425,
-  "2022-12-19": 156507,
-  "2022-12-20": 156682,
-  "2022-12-21": 156682,
-  "2022-12-22": 156778,
-  "2022-12-24": 157031,
-  "2022-12-25": 157222,
-  "2022-12-26": 157422,
-  "2022-12-27": 157509,
-  "2022-12-28": 157589,
-  "2022-12-29": 157699,
-  "2022-12-30": 157811,
-  "2022-12-31": 157944,
-  "2023-01-01": 158137,
-  "2023-01-02": 158386,
-  "2023-01-03": 158439,
-  "2023-01-04": 158494,
-  "2023-01-05": 158563,
-  "2023-01-06": 158667,
-  "2023-01-07": 158784,
-  "2023-01-08": 158828,
-  "2023-01-09": 158927,
-  "2023-01-10": 158979,
-  "2023-01-11": 159037,
-  "2023-01-12": 159111,
-  "2023-01-13": 159169,
-  "2023-01-14": 159304,
-  "2023-01-15": 159328,
-  "2023-01-16": 159465,
-  "2023-01-17": 159546,
-  "2023-01-18": 159601,
-  "2023-01-19": 159675,
-  "2023-01-20": 159754,
-  "2023-01-21": 159820,
-  "2023-01-22": 159899,
-  "2023-01-23": 159994,
-  "2023-01-24": 160038,
-  "2023-01-25": 160093,
-  "2023-01-26": 160170,
-  "2023-01-27": 160226,
-  "2023-01-28": 160305,
-  "2023-01-29": 160398,
-  "2023-01-30": 160495,
-  "2023-01-31": 160495,
-  "2023-02-01": 160616,
-  "2023-02-02": 160661,
-  "2023-02-03": 160714,
-  "2023-02-04": 160790,
-  "2023-02-05": 160873,
-  "2023-02-06": 160985,
-  "2023-02-07": 161049,
-  "2023-02-08": 161174,
-  "2023-02-09": 161174,
-  "2023-02-10": 161226,
-  "2023-02-11": 161298,
-  "2023-02-12": 161462,
-  "2023-02-13": 161503,
-  "2023-02-14": 161503,
-  "2023-02-15": 161570,
-  "2023-02-16": 161616,
-  "2023-02-17": 161672,
-  "2023-02-18": 161841,
-  "2023-02-19": 161868,
-  "2023-02-20": 161931,
-  "2023-02-21": 161994,
-  "2023-02-22": 162071,
-  "2023-02-23": 162138,
-  "2023-02-24": 162231,
-  "2023-02-25": 162365,
-  "2023-02-26": 162437,
-  "2023-02-27": 162586,
-  "2023-02-28": 162586,
-  "2023-03-01": 162655,
-  "2023-03-02": 162709,
-  "2023-03-03": 162782,
-  "2023-03-04": 162883,
-  "2023-03-05": 163105,
-  "2023-03-06": 163105,
-  "2023-03-07": 163174,
-  "2023-03-08": 163234,
-  "2023-03-09": 163294,
-  "2023-03-10": 163360,
-  "2023-03-11": 163431,
-  "2023-03-12": 163527,
-  "2023-03-13": 163631,
-  "2023-03-14": 163676,
-  "2023-03-15": 163735,
-  "2023-03-16": 163786,
-  "2023-03-17": 163786,
-  "2023-03-18": 163947,
-  "2023-03-19": 164053,
-  "2023-03-20": 164145,
-  "2023-03-21": 164218,
-  "2023-03-22": 164288,
-  "2023-03-23": 164358,
-  "2023-03-24": 164358,
-  "2023-03-25": 164566,
-  "2023-03-26": 164716,
-  "2023-03-27": 164819,
-  "2023-03-28": 164883,
-  "2023-03-29": 164980,
-  "2023-03-30": 165136,
-  "2023-03-31": 165136,
-  "2023-04-01": 165248,
-  "2023-04-02": 165390,
-  "2023-04-03": 165521,
-  "2023-04-04": 165611,
-  "2023-04-05": 165695,
-  "2023-04-06": 165823,
-  "2023-04-07": 166006,
-  "2023-04-09": 166345,
-  "2023-04-10": 166471,
-  "2023-04-11": 166628,
-  "2023-04-12": 166628,
-  "2023-04-13": 166728,
-  "2023-04-14": 166794,
-  "2023-04-15": 166871,
-  "2023-04-16": 166980,
-  "2023-04-17": 167076,
-  "2023-04-18": 167134,
-  "2023-04-19": 167187,
-  "2023-04-20": 167265,
-  "2023-04-21": 167326,
-  "2023-04-22": 167447,
-  "2023-04-23": 167563,
-  "2023-04-24": 167683,
-  "2023-04-25": 167767,
-  "2023-04-26": 167855,
-  "2023-04-27": 167927,
-  "2023-04-28": 168020,
-  "2023-04-29": 168136,
-  "2023-04-30": 168270,
-  "2023-05-01": 168410,
-  "2023-05-02": 168505,
-  "2023-05-03": 168564,
-  "2023-05-04": 168645,
-  "2023-05-05": 168727,
-  "2023-05-06": 168836,
-  "2023-05-07": 168974,
-  "2023-05-08": 169085,
-  "2023-05-09": 169161,
-  "2023-05-10": 169241,
-  "2023-05-11": 169351,
-  "2023-05-12": 169439,
-  "2023-05-13": 169563,
-  "2023-05-14": 169687,
-  "2023-05-15": 169800,
-  "2023-05-16": 169862,
-  "2023-05-17": 169927,
-  "2023-05-18": 170006,
-  "2023-05-19": 170098,
-  "2023-05-20": 170279,
-  "2023-05-21": 170279,
-  "2023-05-22": 170279,
-  "2023-05-23": 170446,
-  "2023-05-24": 170565,
-  "2023-05-25": 170593,
-  "2023-05-26": 170689,
-  "2023-05-27": 170782,
-  "2023-05-28": 170913,
-  "2023-05-29": 170913,
-  "2023-05-30": 171100,
-  "2023-05-31": 171153,
-  "2023-06-01": 171223,
-  "2023-06-02": 171298,
-  "2023-06-03": 171398,
-  "2023-06-04": 171520,
-  "2023-06-05": 171629,
-  "2023-06-06": 171704,
-  "2023-06-07": 171768,
-  "2023-06-08": 171839,
-  "2023-06-09": 171900,
-  "2023-06-10": 171979,
-  "2023-06-11": 172099,
-  "2023-06-12": 172197,
-  "2023-06-13": 172258,
-  "2023-06-14": 172320,
-  "2023-06-15": 172405,
-  "2023-06-16": 172497,
-  "2023-06-17": 172601,
-  "2023-06-18": 172748,
-  "2023-06-19": 172922,
-  "2023-06-20": 173005,
-  "2023-06-21": 173081,
-  "2023-06-22": 173149,
-  "2023-06-23": 173221,
-  "2023-06-24": 173323,
-  "2023-06-25": 173458,
-  "2023-06-26": 173582,
-  "2023-06-27": 173653,
-  "2023-06-28": 173726,
-  "2023-06-29": 173813,
-  "2023-06-30": 173895,
-  "2023-07-01": 174153,
-  "2023-07-02": 174153,
-  "2023-07-03": 174257,
-  "2023-07-04": 174340,
-  "2023-07-05": 174415,
-  "2023-07-06": 174580,
-  "2023-07-07": 174580,
-  "2023-07-08": 174664,
-  "2023-07-09": 174761,
-  "2023-07-10": 174866,
-  "2023-07-11": 174933,
-  "2023-07-12": 174995,
-  "2023-07-13": 175094,
-  "2023-07-14": 175148,
-  "2023-07-15": 175223,
-  "2023-07-16": 175375,
-  "2023-07-17": 175492,
-  "2023-07-18": 175551,
-  "2023-07-19": 175642,
-  "2023-07-20": 175712,
-  "2023-07-21": 175788,
-  "2023-07-22": 175930,
-  "2023-07-23": 176050,
-  "2023-07-24": 176174,
-  "2023-07-25": 176244,
-  "2023-07-26": 176317,
-  "2023-07-27": 176396,
-  "2023-07-28": 176487,
-  "2023-07-29": 176588,
-  "2023-07-30": 176732,
-  "2023-07-31": 176833,
-  "2023-08-01": 176898,
-  "2023-08-02": 176983,
-  "2023-08-03": 177056,
-  "2023-08-04": 177126,
-  "2023-08-05": 177210,
-  "2023-08-06": 177455,
-  "2023-08-07": 177455,
-  "2023-08-08": 177519,
-  "2023-08-09": 177603,
-  "2023-08-10": 177669,
-  "2023-08-11": 177759,
-  "2023-08-12": 177870,
-  "2023-08-13": 177870,
-  "2023-08-14": 178123,
-  "2023-08-15": 178193,
-  "2023-08-16": 178193,
-  "2023-08-17": 178337,
-  "2023-08-18": 178337,
-  "2023-08-19": 178544,
-  "2023-08-20": 178685,
-  "2023-08-21": 178811,
-  "2023-08-22": 178884,
-  "2023-08-23": 178975,
-  "2023-08-24": 179122,
-  "2023-08-25": 179238,
-  "2023-08-26": 179374,
-  "2023-08-27": 179558,
-  "2023-08-28": 179691,
-  "2023-08-29": 179788,
-  "2023-08-30": 179788,
-  "2023-08-31": 179983,
-  "2023-09-01": 180273,
-  "2023-09-02": 180273,
-  "2023-09-03": 180456,
-  "2023-09-04": 180456,
-  "2023-09-05": 180685,
-  "2023-09-06": 180773,
-  "2023-09-07": 180773,
-  "2023-09-08": 180773,
-  "2023-09-09": 180773,
-  "2023-09-10": 181301,
-  "2023-09-11": 181465,
-  "2023-09-12": 181465,
-  "2023-09-13": 181662,
-  "2023-09-14": 181662,
-  "2023-09-15": 181662,
-  "2023-09-16": 182125,
-  "2023-09-17": 182125,
-  "2023-09-18": 182125,
-  "2023-09-19": 182562,
-  "2023-09-20": 182562,
-  "2023-09-21": 182562,
-  "2023-09-22": 182800,
-  "2023-09-23": 182800,
-  "2023-09-24": 182800,
-  "2023-09-25": 182800,
-  "2023-09-26": 183233,
-  "2023-09-27": 183233,
-  "2023-09-28": 183233,
-  "2023-09-29": 183233,
-  "2023-09-30": 183233,
-  "2023-10-01": 183233,
-  "2023-10-02": 183727,
-  "2023-10-03": 183727,
-  "2023-10-04": 183727,
-  "2023-10-05": 183926,
-  "2023-10-06": 184001,
-  "2023-10-07": 184001,
-  "2023-10-08": 184001,
-  "2023-10-09": 184001,
-  "2023-10-10": 184001,
-  "2023-10-11": 184317,
-  "2023-10-12": 184317,
-  "2023-10-13": 184317,
-  "2023-10-14": 184317,
-  "2023-10-15": 184317,
-  "2023-10-16": 184317,
-  "2023-10-17": 184317,
-  "2023-10-18": 184317,
-  "2023-10-19": 184317,
-  "2023-10-20": 184317,
-  "2023-10-21": 184317,
-  "2023-10-22": 184317,
-  "2023-10-23": 184317,
-  "2023-10-24": 184317,
-  "2023-10-25": 184317,
-  "2023-10-26": 184317,
-  "2023-10-27": 184317,
-  "2023-10-28": 184317,
-  "2023-10-29": 184317,
-  "2023-10-30": 184317,
-  "2023-10-31": 184317,
-  "2023-11-01": 184317,
-  "2023-11-02": 184317,
-  "2023-11-03": 184317,
-  "2023-11-04": 184317,
-  "2023-11-05": 184317,
-  "2023-11-06": 184317,
-  "2023-11-07": 184317,
-  "2023-11-08": 184317,
-  "2023-11-09": 184317,
-  "2023-11-10": 184317,
-  "2023-11-11": 186988,
-  "2023-11-12": 186988,
-  "2023-11-13": 186988,
-  "2023-11-14": 186988,
-  "2023-11-15": 186988,
-  "2023-11-16": 186988,
-  "2023-11-17": 186988,
-  "2023-11-18": 186988,
-  "2023-11-19": 186988,
-  "2023-11-20": 186988,
-  "2023-11-21": 186988,
-  "2023-11-22": 186988,
-  "2023-11-23": 186988,
-  "2023-11-24": 186988,
-  "2023-11-25": 186988,
-  "2023-11-26": 186988,
-  "2023-11-27": 186988,
-  "2023-11-28": 186988,
-  "2023-11-29": 186988,
-  "2023-11-30": 186988,
-  "2023-12-01": 186988,
-  "2023-12-02": 186988,
-  "2023-12-03": 186988,
-  "2023-12-04": 186988,
-  "2023-12-05": 186988,
-  "2023-12-06": 186988,
-  "2023-12-07": 186988,
-  "2023-12-08": 186988,
-  "2023-12-09": 186988,
-  "2023-12-10": 186988,
-  "2023-12-11": 186988,
-  "2023-12-12": 186988,
-  "2023-12-13": 186988,
-  "2023-12-14": 190045,
-  "2023-12-15": 190104,
-  "2023-12-16": 190219,
-  "2023-12-17": 190339,
-  "2023-12-18": 190432,
-  "2023-12-19": 190509,
-  "2023-12-20": 190587,
-  "2023-12-21": 190682,
-  "2023-12-22": 190804,
-  "2023-12-23": 190894,
-  "2023-12-24": 191019,
-  "2023-12-25": 191205,
-  "2023-12-26": 191366,
-  "2023-12-27": 191432,
-  "2023-12-30": 191683,
-  "2023-12-31": 191781,
-  "2024-01-01": 191965,
-  "2024-01-02": 192132,
-  "2024-01-03": 192182
+  "2024-01-17": 192511,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
+  "name": "This Is Los Cadetes De Linares",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 187666,
+      "name": "A\u00f1orando Tus Besos",
+      "url": "https://open.spotify.com/track/5ajGpk5BqdTuyvuBLItxkx"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n a Mi Madre",
+        "url": "https://open.spotify.com/album/1E5fEYCsWr4syldHkD4PD2"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 184133,
+      "name": "Canci\u00f3n a Mi Madre",
+      "url": "https://open.spotify.com/track/2dNhQNwppNNwv4ptecPe4P"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Cazador de Asesinos",
+      "url": "https://open.spotify.com/track/411L3G5Fym2P3aiMey6ATm"
+    },
+    {
+      "album": {
+        "name": "30 Cadetazos",
+        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120413,
+      "name": "Cielo Azul Cielo Nublado",
+      "url": "https://open.spotify.com/track/3mCxVaN4vyX2eb82BSvQPi"
+    },
+    {
+      "album": {
+        "name": "El Se\u00f1or de los Cielos",
+        "url": "https://open.spotify.com/album/72h9sjxf1AtzemsvDifpGn"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 184533,
+      "name": "Contrabando Por Amor",
+      "url": "https://open.spotify.com/track/1NoPsquz9i9s8Ybo86u1Ku"
+    },
+    {
+      "album": {
+        "name": "Jesus Malverde",
+        "url": "https://open.spotify.com/album/6iQ9C4j0Esy5BPxfeC6lLo"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 209506,
+      "name": "Corridos de los Perez",
+      "url": "https://open.spotify.com/track/4vzCg8pdKm9b6IzVnUbIIa"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "Cosas del Ayer",
+      "url": "https://open.spotify.com/track/19mX627iFZeXidj0akB9aT"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Cruzando el Puente",
+      "url": "https://open.spotify.com/track/1OtStUZIjQB3K14DbQKwcl"
+    },
+    {
+      "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Descansa General",
+      "url": "https://open.spotify.com/track/1pZB1cTeogCXkhWV0m98Eg"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Dimas de Leon",
+      "url": "https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i"
+    },
+    {
+      "album": {
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Donde Estara Mi Caballo",
+      "url": "https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146853,
+      "name": "Dos Coronas a Mi Madre",
+      "url": "https://open.spotify.com/track/2imwekOjGGEhx4pELNtJJq"
+    },
+    {
+      "album": {
+        "name": "Dos Vicios",
+        "url": "https://open.spotify.com/album/3aQYZhV5rLiAJGzIg2WfWH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Dos Vicios",
+      "url": "https://open.spotify.com/track/469ReDKEOzSCpzIDy98GgV"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "El Asesino",
+      "url": "https://open.spotify.com/track/1VGeAuxojwsxwvtv610PQX"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "El Caballo Jovero",
+      "url": "https://open.spotify.com/track/732Yqu63YsZIXDFNcfFayY"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5kPj6zUqnP5PwxDxQNr99U"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "El Hijo del Palenque",
+      "url": "https://open.spotify.com/track/1ymqGa3Bb74jhDjLZY6HSU"
+    },
+    {
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+    },
+    {
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "El Pata de Palo",
+      "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
+    },
+    {
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "El Regio Traficante",
+      "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188346,
+      "name": "El Retorno de Chito Cano",
+      "url": "https://open.spotify.com/track/1na1Q8kP0MAC4K3CzFIQzF"
+    },
+    {
+      "album": {
+        "name": "El Rogon",
+        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 167093,
+      "name": "El Rogon",
+      "url": "https://open.spotify.com/track/1vGwqa4aF0mp3a8YddIpGV"
+    },
+    {
+      "album": {
+        "name": "Los Cadetes",
+        "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 169080,
+      "name": "El Rog\u00f3n",
+      "url": "https://open.spotify.com/track/3urP0J323Dt6wq239LZFmA"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 190466,
+      "name": "Eleazar del Fierro",
+      "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
+    },
+    {
+      "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
+    },
+    {
+      "album": {
+        "name": "Una Pagina Mas",
+        "url": "https://open.spotify.com/album/0ABbeJK5PIwDVTb5kiC28k"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 174000,
+      "name": "Estoy Pagando",
+      "url": "https://open.spotify.com/track/0yBaPIxrvxLHmWAhFPewmW"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 182306,
+      "name": "Ezequiel Rodriguez",
+      "url": "https://open.spotify.com/track/49HTMbHr98K8GDok9CHHDR"
+    },
+    {
+      "album": {
+        "name": "Coleccion De Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/1wNMgnlVUPpHrdCMRqAf9y"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 183440,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/6nZWx1svsdUedHNwsrrkOi"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 166800,
+      "name": "Generoso y Carmelita",
+      "url": "https://open.spotify.com/track/1xlgtF686KI0a3JfQwPcbl"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 179613,
+      "name": "Hierba Polvo y Plomo",
+      "url": "https://open.spotify.com/track/5VJVZNPgD1H9e8Gj24YrU3"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Jesus Malverde",
+      "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 140466,
+      "name": "Jose Lopez",
+      "url": "https://open.spotify.com/track/6DJrx5bu28lb4kBuus1oUI"
+    },
+    {
+      "album": {
+        "name": "Los Cadetes",
+        "url": "https://open.spotify.com/album/6uNdrT63Utmcx3ISlBKYvf"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 187173,
+      "name": "La Cruz Negra",
+      "url": "https://open.spotify.com/track/2DiBQzkbn1b33z76pQdu1h"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "La Discusion Fue Una Yegua",
+      "url": "https://open.spotify.com/track/0Z0luHjkzAAX9d4OkpcmAq"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas",
+        "url": "https://open.spotify.com/album/6WMgRGeyY0tW3paVhjw1ne"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 212940,
+      "name": "La Eche en un Carrito",
+      "url": "https://open.spotify.com/track/515smiuAAOc8azDZqtEHBD"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "La Tragedia de Rosita",
+      "url": "https://open.spotify.com/track/3CWk6CPmJ5whGBjLjar4EZ"
+    },
+    {
+      "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 171693,
+      "name": "La Tumba de Mi Madre",
+      "url": "https://open.spotify.com/track/0iEUxWcEaVZaWXh5wDo3bH"
+    },
+    {
+      "album": {
+        "name": "14 Kilates de Oro Vol. 2",
+        "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 201000,
+      "name": "La Venganza de Maria",
+      "url": "https://open.spotify.com/track/3hRWq3fwORy2taZefkFs8e"
+    },
+    {
+      "album": {
+        "name": "Despedida con Mariachi",
+        "url": "https://open.spotify.com/album/2RzkJJUOCi1wSU9nHDcTMH"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/3HwEFluOmMF1B01vhothH1"
+    },
+    {
+      "album": {
+        "name": "Inspiracion Nortena",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183280,
+      "name": "Las Tres Mujeres",
+      "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
+    },
+    {
+      "album": {
+        "name": "Corridos Divinos",
+        "url": "https://open.spotify.com/album/35GToiXQVKvGORvuPluFKn"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 216720,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/6T7yJ6ptjuHDQP8cXaiu2R"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146040,
+      "name": "Llore a Mi Madre",
+      "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Lucio Pena",
+      "url": "https://open.spotify.com/track/3RXctOwDn8rJi5ScVtI8sJ"
+    },
+    {
+      "album": {
+        "name": "Explosion Norte\u00f1a",
+        "url": "https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 181042,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Menos Que Nada",
+      "url": "https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre",
+        "url": "https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163746,
+      "name": "Mi Amigo",
+      "url": "https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96"
+    },
+    {
+      "album": {
+        "name": "30 Cadetazos",
+        "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1b9pojRX4HOsrthAGDZghA"
+    },
+    {
+      "album": {
+        "name": "Las Mas Tocadas",
+        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 172788,
+      "name": "Mi Unico Camino",
+      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 197133,
+      "name": "Nave 727",
+      "url": "https://open.spotify.com/track/7DffTGNIGuDdpNiPy766Es"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135466,
+      "name": "Necio, Necio Morir\u00e9",
+      "url": "https://open.spotify.com/track/6eJvzv29SetXxfpltuEdji"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Nomas Las Mujeres Quedan",
+      "url": "https://open.spotify.com/track/4bSadmBSBEBuddAwqbHJvW"
+    },
+    {
+      "album": {
+        "name": "Pescadores de Ensenada",
+        "url": "https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174546,
+      "name": "Pescadores de Ensenada",
+      "url": "https://open.spotify.com/track/2QLYBaZhH2uCkxTfGgG0u7"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Corridos",
+        "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "Polvo Maldito",
+      "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
+    },
+    {
+      "album": {
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+    },
+    {
+      "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Prenda Querida",
+      "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/2K21TBW2dUeSW570gthDla"
+    },
+    {
+      "album": {
+        "name": "El Rogon",
+        "url": "https://open.spotify.com/album/6fvDNjvBwBtoZottzuSF2F"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 149480,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/1sy7BYZT2GReFukI4YnYpl"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149626,
+      "name": "Que Seas Dichosa",
+      "url": "https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 162120,
+      "name": "Regalo de Reyes",
+      "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156880,
+      "name": "Rezando Por Ella",
+      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "Sabor de Enga\u00f1o",
+      "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 204746,
+      "name": "Silvano Garcia",
+      "url": "https://open.spotify.com/track/0HDgNBZd1ROObIXIJXB9UO"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/7xwt2lHkykYzAYH6GPNyaf"
+    },
+    {
+      "album": {
+        "name": "14 Kilates de Oro Vol. 2",
+        "url": "https://open.spotify.com/album/5u8BsG7MUQo4TR3mYitKwl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 178760,
+      "name": "Sonora y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/3kO70lSqCm8dAEWYmVgNpf"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145360,
+      "name": "Sucedio en el Aguaje",
+      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 162280,
+      "name": "Tengo Un Amor Escondido",
+      "url": "https://open.spotify.com/track/0jRHGnHLCS0d0uIEmwvfqN"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 152786,
+      "name": "Tu Nombre",
+      "url": "https://open.spotify.com/track/0jtFNx5y10Peoj6rYhAq9z"
+    },
+    {
+      "album": {
+        "name": "Una Lagrima y un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143573,
+      "name": "Tu Vida No Me Importa",
+      "url": "https://open.spotify.com/track/1GOD2xdIk120yZ5m4qfkyw"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Lupe Tijerina y Rosendo Cantu",
+          "url": "https://open.spotify.com/artist/146jiLUXkDZahBdRQhwNHD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183813,
+      "name": "Un Noble Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2iiCan39FMDuKG11zB5AzO"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169769,
+      "name": "Una Lagrima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+    },
+    {
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159059,
+      "name": "Una Pagina Mas",
+      "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 155093,
+      "name": "Vivo Preso",
+      "url": "https://open.spotify.com/track/5GvG3KhHyz0VsqCCjh3Iny"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0I5DUY"
 }

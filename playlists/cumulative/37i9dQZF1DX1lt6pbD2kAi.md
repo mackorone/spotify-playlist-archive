@@ -4,7 +4,7 @@
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-157 songs - 7 hr 39 min
+158 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Funk é Nóis GR6 3.1, Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 | 2022-11-30 | 2023-11-30 |
 | [Duas Três](https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Duas Três](https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr) | 2:36 | 2023-11-29 |  |
 | [Dói](https://open.spotify.com/track/5qjwjBzWAxXjjqinjENzIF) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Dói](https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx) | 3:02 | 2023-11-29 |  |
-| [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-11-29 |  |
+| [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 | 2023-11-29 | 2024-01-13 |
+| [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/60uJdOohyohJqZhST7lij3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/1IvRiz7nYcLSrGKsqrBCS4) | 2:59 | 2023-12-13 |  |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-11-30 | 2023-11-30 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2021-12-10 | 2022-11-29 |
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2021-12-10 | 2022-11-29 |

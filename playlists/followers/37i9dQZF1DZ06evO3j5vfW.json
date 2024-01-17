@@ -1,735 +1,2393 @@
 {
-  "2021-12-25": 68008,
-  "2021-12-26": 68013,
-  "2021-12-27": 68016,
-  "2021-12-28": 68016,
-  "2021-12-29": 68021,
-  "2021-12-30": 68023,
-  "2021-12-31": 68030,
-  "2022-01-01": 68034,
-  "2022-01-02": 68039,
-  "2022-01-03": 68040,
-  "2022-01-04": 68042,
-  "2022-01-05": 68042,
-  "2022-01-06": 68051,
-  "2022-01-07": 68053,
-  "2022-01-08": 68062,
-  "2022-01-09": 68062,
-  "2022-01-10": 68065,
-  "2022-01-11": 68076,
-  "2022-01-12": 68073,
-  "2022-01-13": 68078,
-  "2022-01-14": 68082,
-  "2022-01-15": 68095,
-  "2022-01-16": 68096,
-  "2022-01-17": 68109,
-  "2022-01-18": 68111,
-  "2022-01-19": 68118,
-  "2022-01-20": 68124,
-  "2022-01-21": 68130,
-  "2022-01-22": 68131,
-  "2022-01-23": 68125,
-  "2022-01-24": 68133,
-  "2022-01-25": 68141,
-  "2022-01-26": 68146,
-  "2022-01-27": 68151,
-  "2022-01-28": 68151,
-  "2022-01-29": 68160,
-  "2022-01-30": 68168,
-  "2022-01-31": 68176,
-  "2022-02-01": 68181,
-  "2022-02-02": 68191,
-  "2022-02-03": 68190,
-  "2022-02-04": 68202,
-  "2022-02-05": 68209,
-  "2022-02-06": 68210,
-  "2022-02-07": 68217,
-  "2022-02-08": 68213,
-  "2022-02-09": 68216,
-  "2022-02-10": 68222,
-  "2022-02-11": 68229,
-  "2022-02-12": 68237,
-  "2022-02-13": 68252,
-  "2022-02-14": 68251,
-  "2022-02-15": 68256,
-  "2022-02-16": 68255,
-  "2022-02-17": 68268,
-  "2022-02-18": 68283,
-  "2022-02-19": 68292,
-  "2022-02-20": 68295,
-  "2022-02-21": 68297,
-  "2022-02-22": 68296,
-  "2022-02-23": 68306,
-  "2022-02-24": 68312,
-  "2022-02-25": 68311,
-  "2022-02-26": 68313,
-  "2022-02-27": 68333,
-  "2022-02-28": 68333,
-  "2022-03-01": 68337,
-  "2022-03-02": 68344,
-  "2022-03-03": 68344,
-  "2022-03-04": 68345,
-  "2022-03-05": 68347,
-  "2022-03-06": 68354,
-  "2022-03-07": 68357,
-  "2022-03-08": 68362,
-  "2022-03-09": 68364,
-  "2022-03-10": 68371,
-  "2022-03-11": 68373,
-  "2022-03-12": 68384,
-  "2022-03-13": 68393,
-  "2022-03-14": 68397,
-  "2022-03-15": 68398,
-  "2022-03-16": 68407,
-  "2022-03-17": 68415,
-  "2022-03-18": 68421,
-  "2022-03-19": 68425,
-  "2022-03-20": 68425,
-  "2022-03-21": 68435,
-  "2022-03-22": 68438,
-  "2022-03-23": 68450,
-  "2022-03-24": 68456,
-  "2022-03-25": 68466,
-  "2022-03-26": 68478,
-  "2022-03-27": 68482,
-  "2022-03-28": 68483,
-  "2022-03-30": 68500,
-  "2022-03-31": 68508,
-  "2022-04-01": 68512,
-  "2022-04-02": 68521,
-  "2022-04-03": 68528,
-  "2022-04-04": 68534,
-  "2022-04-05": 68538,
-  "2022-04-06": 68535,
-  "2022-04-07": 68543,
-  "2022-04-08": 68546,
-  "2022-04-09": 68550,
-  "2022-04-10": 68566,
-  "2022-04-11": 68573,
-  "2022-04-12": 68574,
-  "2022-04-13": 68581,
-  "2022-04-14": 68585,
-  "2022-04-15": 68591,
-  "2022-04-16": 68594,
-  "2022-04-17": 68594,
-  "2022-04-18": 68602,
-  "2022-04-19": 68604,
-  "2022-04-20": 68610,
-  "2022-04-21": 68614,
-  "2022-04-22": 68623,
-  "2022-04-23": 68629,
-  "2022-04-24": 68632,
-  "2022-04-25": 68638,
-  "2022-04-26": 68644,
-  "2022-04-27": 68644,
-  "2022-04-28": 68652,
-  "2022-04-29": 68663,
-  "2022-04-30": 68668,
-  "2022-05-01": 68672,
-  "2022-05-02": 68672,
-  "2022-05-03": 68680,
-  "2022-05-04": 68678,
-  "2022-05-05": 68690,
-  "2022-05-06": 68691,
-  "2022-05-07": 68699,
-  "2022-05-08": 68707,
-  "2022-05-09": 68708,
-  "2022-05-10": 68714,
-  "2022-05-11": 68722,
-  "2022-05-12": 68719,
-  "2022-05-13": 68720,
-  "2022-05-14": 68728,
-  "2022-05-15": 68735,
-  "2022-05-16": 68744,
-  "2022-05-17": 68748,
-  "2022-05-18": 68751,
-  "2022-05-19": 68749,
-  "2022-05-20": 68754,
-  "2022-05-21": 68756,
-  "2022-05-22": 68756,
-  "2022-05-23": 68766,
-  "2022-05-24": 68782,
-  "2022-05-25": 68789,
-  "2022-05-26": 68797,
-  "2022-05-27": 68802,
-  "2022-05-28": 68805,
-  "2022-05-29": 68805,
-  "2022-05-30": 68805,
-  "2022-05-31": 68810,
-  "2022-06-01": 68804,
-  "2022-06-02": 68805,
-  "2022-06-03": 68812,
-  "2022-06-04": 68807,
-  "2022-06-05": 68811,
-  "2022-06-06": 68811,
-  "2022-06-07": 68823,
-  "2022-06-08": 68828,
-  "2022-06-09": 68828,
-  "2022-06-10": 68833,
-  "2022-06-11": 68846,
-  "2022-06-12": 68844,
-  "2022-06-13": 68847,
-  "2022-06-14": 68846,
-  "2022-06-15": 68848,
-  "2022-06-16": 68848,
-  "2022-06-17": 68850,
-  "2022-06-18": 68856,
-  "2022-06-19": 68857,
-  "2022-06-20": 68857,
-  "2022-06-21": 68857,
-  "2022-06-22": 68869,
-  "2022-06-23": 68869,
-  "2022-06-24": 68878,
-  "2022-06-25": 68883,
-  "2022-06-26": 68889,
-  "2022-06-27": 68890,
-  "2022-06-28": 68889,
-  "2022-06-29": 68895,
-  "2022-06-30": 68899,
-  "2022-07-01": 68905,
-  "2022-07-02": 68908,
-  "2022-07-03": 68909,
-  "2022-07-04": 68914,
-  "2022-07-05": 68914,
-  "2022-07-06": 68914,
-  "2022-07-07": 68931,
-  "2022-07-08": 68936,
-  "2022-07-09": 68947,
-  "2022-07-10": 68957,
-  "2022-07-11": 68965,
-  "2022-07-12": 68972,
-  "2022-07-13": 68975,
-  "2022-07-14": 68983,
-  "2022-07-15": 68992,
-  "2022-07-16": 69004,
-  "2022-07-17": 69016,
-  "2022-07-18": 69021,
-  "2022-07-19": 69029,
-  "2022-07-20": 69035,
-  "2022-07-21": 69045,
-  "2022-07-22": 69049,
-  "2022-07-23": 69062,
-  "2022-07-24": 69074,
-  "2022-07-25": 69081,
-  "2022-07-26": 69086,
-  "2022-07-27": 69096,
-  "2022-07-28": 69111,
-  "2022-07-29": 69128,
-  "2022-07-30": 69146,
-  "2022-07-31": 69146,
-  "2022-08-01": 69166,
-  "2022-08-02": 69193,
-  "2022-08-03": 69193,
-  "2022-08-04": 69200,
-  "2022-08-05": 69209,
-  "2022-08-06": 69219,
-  "2022-08-07": 69232,
-  "2022-08-08": 69238,
-  "2022-08-09": 69246,
-  "2022-08-10": 69250,
-  "2022-08-11": 69253,
-  "2022-08-12": 69259,
-  "2022-08-13": 69270,
-  "2022-08-14": 69275,
-  "2022-08-15": 69289,
-  "2022-08-16": 69300,
-  "2022-08-17": 69312,
-  "2022-08-18": 69322,
-  "2022-08-19": 69326,
-  "2022-08-20": 69336,
-  "2022-08-21": 69345,
-  "2022-08-22": 69346,
-  "2022-08-23": 69362,
-  "2022-08-24": 69367,
-  "2022-08-25": 69378,
-  "2022-08-26": 69383,
-  "2022-08-27": 69386,
-  "2022-08-28": 69388,
-  "2022-08-29": 69392,
-  "2022-08-30": 69399,
-  "2022-08-31": 69390,
-  "2022-09-01": 69388,
-  "2022-09-02": 69386,
-  "2022-09-03": 69379,
-  "2022-09-04": 69379,
-  "2022-09-05": 69384,
-  "2022-09-06": 69380,
-  "2022-09-07": 69388,
-  "2022-09-09": 69394,
-  "2022-09-10": 69404,
-  "2022-09-11": 69407,
-  "2022-09-12": 69416,
-  "2022-09-13": 69424,
-  "2022-09-15": 69446,
-  "2022-09-16": 69455,
-  "2022-09-17": 69469,
-  "2022-09-18": 69477,
-  "2022-09-19": 69488,
-  "2022-09-20": 69496,
-  "2022-09-21": 69504,
-  "2022-09-22": 69505,
-  "2022-09-23": 69515,
-  "2022-09-24": 69515,
-  "2022-09-25": 69522,
-  "2022-09-26": 69531,
-  "2022-09-27": 69540,
-  "2022-09-28": 69546,
-  "2022-09-29": 69546,
-  "2022-09-30": 69540,
-  "2022-10-01": 69550,
-  "2022-10-02": 69551,
-  "2022-10-03": 69557,
-  "2022-10-04": 69567,
-  "2022-10-05": 69577,
-  "2022-10-06": 69581,
-  "2022-10-07": 69595,
-  "2022-10-08": 69603,
-  "2022-10-09": 69624,
-  "2022-10-10": 69629,
-  "2022-10-11": 69631,
-  "2022-10-12": 69635,
-  "2022-10-13": 69649,
-  "2022-10-14": 69647,
-  "2022-10-15": 69660,
-  "2022-10-16": 69664,
-  "2022-10-17": 69670,
-  "2022-10-18": 69662,
-  "2022-10-19": 69669,
-  "2022-10-20": 69675,
-  "2022-10-21": 69682,
-  "2022-10-22": 69689,
-  "2022-10-23": 69696,
-  "2022-10-24": 69703,
-  "2022-10-25": 69710,
-  "2022-10-26": 69715,
-  "2022-10-27": 69719,
-  "2022-10-28": 69723,
-  "2022-10-29": 69727,
-  "2022-10-30": 69736,
-  "2022-10-31": 69741,
-  "2022-11-01": 69747,
-  "2022-11-02": 69747,
-  "2022-11-03": 69751,
-  "2022-11-04": 69759,
-  "2022-11-05": 69764,
-  "2022-11-06": 69776,
-  "2022-11-07": 69786,
-  "2022-11-08": 69785,
-  "2022-11-09": 69793,
-  "2022-11-10": 69809,
-  "2022-11-11": 69823,
-  "2022-11-12": 69833,
-  "2022-11-13": 69841,
-  "2022-11-14": 69848,
-  "2022-11-15": 69851,
-  "2022-11-16": 69853,
-  "2022-11-17": 69861,
-  "2022-11-18": 69864,
-  "2022-11-19": 69866,
-  "2022-11-20": 69865,
-  "2022-11-21": 69875,
-  "2022-11-22": 69876,
-  "2022-11-23": 69880,
-  "2022-11-24": 69887,
-  "2022-11-25": 69891,
-  "2022-11-26": 69902,
-  "2022-11-27": 69903,
-  "2022-11-28": 69907,
-  "2022-11-29": 69903,
-  "2022-11-30": 69903,
-  "2022-12-01": 69913,
-  "2022-12-02": 69914,
-  "2022-12-03": 69927,
-  "2022-12-04": 69929,
-  "2022-12-05": 69933,
-  "2022-12-06": 69937,
-  "2022-12-07": 69938,
-  "2022-12-08": 69940,
-  "2022-12-09": 69944,
-  "2022-12-10": 69941,
-  "2022-12-11": 69949,
-  "2022-12-12": 69955,
-  "2022-12-13": 69957,
-  "2022-12-14": 69965,
-  "2022-12-15": 69970,
-  "2022-12-16": 69975,
-  "2022-12-17": 69983,
-  "2022-12-18": 69991,
-  "2022-12-19": 70002,
-  "2022-12-20": 70016,
-  "2022-12-21": 70016,
-  "2022-12-22": 70027,
-  "2022-12-24": 70035,
-  "2022-12-25": 70043,
-  "2022-12-26": 70044,
-  "2022-12-27": 70052,
-  "2022-12-28": 70061,
-  "2022-12-29": 70066,
-  "2022-12-30": 70077,
-  "2022-12-31": 70088,
-  "2023-01-01": 70099,
-  "2023-01-02": 70106,
-  "2023-01-03": 70113,
-  "2023-01-04": 70112,
-  "2023-01-05": 70117,
-  "2023-01-06": 70127,
-  "2023-01-07": 70138,
-  "2023-01-08": 70140,
-  "2023-01-09": 70145,
-  "2023-01-10": 70153,
-  "2023-01-11": 70162,
-  "2023-01-12": 70165,
-  "2023-01-13": 70159,
-  "2023-01-14": 70171,
-  "2023-01-15": 70170,
-  "2023-01-16": 70171,
-  "2023-01-17": 70175,
-  "2023-01-18": 70172,
-  "2023-01-19": 70175,
-  "2023-01-20": 70180,
-  "2023-01-21": 70186,
-  "2023-01-22": 70187,
-  "2023-01-23": 70196,
-  "2023-01-24": 70206,
-  "2023-01-25": 70203,
-  "2023-01-26": 70208,
-  "2023-01-27": 70215,
-  "2023-01-28": 70221,
-  "2023-01-29": 70226,
-  "2023-01-30": 70226,
-  "2023-01-31": 70226,
-  "2023-02-01": 70238,
-  "2023-02-02": 70246,
-  "2023-02-03": 70255,
-  "2023-02-04": 70259,
-  "2023-02-05": 70263,
-  "2023-02-06": 70265,
-  "2023-02-07": 70269,
-  "2023-02-08": 70279,
-  "2023-02-09": 70279,
-  "2023-02-10": 70283,
-  "2023-02-11": 70289,
-  "2023-02-12": 70305,
-  "2023-02-13": 70311,
-  "2023-02-14": 70311,
-  "2023-02-15": 70314,
-  "2023-02-16": 70313,
-  "2023-02-17": 70316,
-  "2023-02-18": 70327,
-  "2023-02-19": 70328,
-  "2023-02-20": 70333,
-  "2023-02-21": 70339,
-  "2023-02-22": 70344,
-  "2023-02-23": 70355,
-  "2023-02-24": 70357,
-  "2023-02-25": 70369,
-  "2023-02-26": 70370,
-  "2023-02-27": 70413,
-  "2023-02-28": 70413,
-  "2023-03-01": 70425,
-  "2023-03-02": 70447,
-  "2023-03-03": 70449,
-  "2023-03-04": 70463,
-  "2023-03-05": 70505,
-  "2023-03-06": 70505,
-  "2023-03-07": 70510,
-  "2023-03-08": 70522,
-  "2023-03-09": 70521,
-  "2023-03-10": 70529,
-  "2023-03-11": 70539,
-  "2023-03-12": 70546,
-  "2023-03-13": 70550,
-  "2023-03-14": 70551,
-  "2023-03-15": 70554,
-  "2023-03-16": 70554,
-  "2023-03-17": 70554,
-  "2023-03-18": 70576,
-  "2023-03-19": 70576,
-  "2023-03-20": 70581,
-  "2023-03-21": 70588,
-  "2023-03-22": 70590,
-  "2023-03-23": 70599,
-  "2023-03-24": 70599,
-  "2023-03-25": 70602,
-  "2023-03-26": 70612,
-  "2023-03-27": 70629,
-  "2023-03-28": 70638,
-  "2023-03-29": 70649,
-  "2023-03-30": 70659,
-  "2023-03-31": 70659,
-  "2023-04-01": 70663,
-  "2023-04-02": 70668,
-  "2023-04-03": 70677,
-  "2023-04-04": 70688,
-  "2023-04-05": 70696,
-  "2023-04-06": 70703,
-  "2023-04-07": 70706,
-  "2023-04-09": 70700,
-  "2023-04-10": 70703,
-  "2023-04-11": 70716,
-  "2023-04-12": 70716,
-  "2023-04-13": 70718,
-  "2023-04-14": 70719,
-  "2023-04-15": 70718,
-  "2023-04-16": 70727,
-  "2023-04-17": 70725,
-  "2023-04-18": 70740,
-  "2023-04-19": 70747,
-  "2023-04-20": 70751,
-  "2023-04-21": 70761,
-  "2023-04-22": 70771,
-  "2023-04-23": 70778,
-  "2023-04-24": 70794,
-  "2023-04-25": 70797,
-  "2023-04-26": 70809,
-  "2023-04-27": 70813,
-  "2023-04-28": 70818,
-  "2023-04-29": 70826,
-  "2023-04-30": 70836,
-  "2023-05-01": 70850,
-  "2023-05-02": 70854,
-  "2023-05-03": 70861,
-  "2023-05-04": 70864,
-  "2023-05-05": 70868,
-  "2023-05-06": 70875,
-  "2023-05-07": 70878,
-  "2023-05-08": 70886,
-  "2023-05-09": 70888,
-  "2023-05-10": 70895,
-  "2023-05-11": 70899,
-  "2023-05-12": 70903,
-  "2023-05-13": 70914,
-  "2023-05-14": 70915,
-  "2023-05-15": 70915,
-  "2023-05-16": 70925,
-  "2023-05-17": 70938,
-  "2023-05-18": 70939,
-  "2023-05-19": 70945,
-  "2023-05-20": 70965,
-  "2023-05-21": 70965,
-  "2023-05-22": 70965,
-  "2023-05-23": 70977,
-  "2023-05-24": 70992,
-  "2023-05-25": 70997,
-  "2023-05-26": 70996,
-  "2023-05-27": 71006,
-  "2023-05-28": 71014,
-  "2023-05-29": 71014,
-  "2023-05-30": 71034,
-  "2023-05-31": 71036,
-  "2023-06-01": 71034,
-  "2023-06-02": 71036,
-  "2023-06-03": 71047,
-  "2023-06-04": 71051,
-  "2023-06-05": 71053,
-  "2023-06-06": 71057,
-  "2023-06-07": 71066,
-  "2023-06-08": 71069,
-  "2023-06-09": 71076,
-  "2023-06-10": 71084,
-  "2023-06-11": 71092,
-  "2023-06-12": 71094,
-  "2023-06-13": 71104,
-  "2023-06-14": 71099,
-  "2023-06-15": 71109,
-  "2023-06-16": 71112,
-  "2023-06-17": 71114,
-  "2023-06-18": 71126,
-  "2023-06-19": 71130,
-  "2023-06-20": 71133,
-  "2023-06-21": 71138,
-  "2023-06-22": 71142,
-  "2023-06-23": 71147,
-  "2023-06-24": 71148,
-  "2023-06-25": 71159,
-  "2023-06-26": 71166,
-  "2023-06-27": 71169,
-  "2023-06-28": 71175,
-  "2023-06-29": 71177,
-  "2023-06-30": 71182,
-  "2023-07-01": 71194,
-  "2023-07-02": 71194,
-  "2023-07-03": 71198,
-  "2023-07-04": 71197,
-  "2023-07-05": 71204,
-  "2023-07-06": 71217,
-  "2023-07-07": 71217,
-  "2023-07-08": 71217,
-  "2023-07-09": 71228,
-  "2023-07-10": 71236,
-  "2023-07-11": 71239,
-  "2023-07-12": 71245,
-  "2023-07-13": 71247,
-  "2023-07-14": 71254,
-  "2023-07-15": 71256,
-  "2023-07-16": 71266,
-  "2023-07-17": 71270,
-  "2023-07-18": 71277,
-  "2023-07-19": 71285,
-  "2023-07-20": 71285,
-  "2023-07-21": 71285,
-  "2023-07-22": 71293,
-  "2023-07-23": 71311,
-  "2023-07-24": 71313,
-  "2023-07-25": 71320,
-  "2023-07-26": 71327,
-  "2023-07-27": 71326,
-  "2023-07-28": 71332,
-  "2023-07-29": 71337,
-  "2023-07-30": 71337,
-  "2023-07-31": 71342,
-  "2023-08-01": 71351,
-  "2023-08-02": 71353,
-  "2023-08-03": 71362,
-  "2023-08-04": 71374,
-  "2023-08-05": 71374,
-  "2023-08-06": 71383,
-  "2023-08-07": 71383,
-  "2023-08-08": 71383,
-  "2023-08-09": 71386,
-  "2023-08-10": 71394,
-  "2023-08-11": 71402,
-  "2023-08-12": 71402,
-  "2023-08-13": 71402,
-  "2023-08-14": 71402,
-  "2023-08-15": 71402,
-  "2023-08-16": 71402,
-  "2023-08-17": 71402,
-  "2023-08-18": 71402,
-  "2023-08-19": 71402,
-  "2023-08-20": 71442,
-  "2023-08-21": 71442,
-  "2023-08-22": 71442,
-  "2023-08-23": 71442,
-  "2023-08-24": 71442,
-  "2023-08-25": 71442,
-  "2023-08-26": 71455,
-  "2023-08-27": 71455,
-  "2023-08-28": 71464,
-  "2023-08-29": 71464,
-  "2023-08-30": 71464,
-  "2023-08-31": 71473,
-  "2023-09-01": 71482,
-  "2023-09-02": 71482,
-  "2023-09-03": 71482,
-  "2023-09-04": 71482,
-  "2023-09-05": 71482,
-  "2023-09-06": 71482,
-  "2023-09-07": 71482,
-  "2023-09-08": 71482,
-  "2023-09-09": 71482,
-  "2023-09-10": 71482,
-  "2023-09-11": 71482,
-  "2023-09-12": 71482,
-  "2023-09-13": 71482,
-  "2023-09-14": 71482,
-  "2023-09-15": 71482,
-  "2023-09-16": 71519,
-  "2023-09-17": 71519,
-  "2023-09-18": 71519,
-  "2023-09-19": 71527,
-  "2023-09-20": 71527,
-  "2023-09-21": 71527,
-  "2023-09-22": 71531,
-  "2023-09-23": 71531,
-  "2023-09-24": 71531,
-  "2023-09-25": 71531,
-  "2023-09-26": 71543,
-  "2023-09-27": 71543,
-  "2023-09-28": 71543,
-  "2023-09-29": 71543,
-  "2023-09-30": 71543,
-  "2023-10-01": 71543,
-  "2023-10-02": 71543,
-  "2023-10-03": 71543,
-  "2023-10-04": 71543,
-  "2023-10-05": 71543,
-  "2023-10-06": 71543,
-  "2023-10-07": 71543,
-  "2023-10-08": 71543,
-  "2023-10-09": 71543,
-  "2023-10-10": 71543,
-  "2023-10-11": 71543,
-  "2023-10-12": 71543,
-  "2023-10-13": 71543,
-  "2023-10-14": 71543,
-  "2023-10-15": 71543,
-  "2023-10-16": 71543,
-  "2023-10-17": 71543,
-  "2023-10-18": 71543,
-  "2023-10-19": 71543,
-  "2023-10-20": 71543,
-  "2023-10-21": 71543,
-  "2023-10-22": 71543,
-  "2023-10-23": 71543,
-  "2023-10-24": 71543,
-  "2023-10-25": 71543,
-  "2023-10-26": 71543,
-  "2023-10-27": 71543,
-  "2023-10-28": 71543,
-  "2023-10-29": 71543,
-  "2023-10-30": 71543,
-  "2023-10-31": 71543,
-  "2023-11-01": 71543,
-  "2023-11-02": 71543,
-  "2023-11-03": 71543,
-  "2023-11-04": 71543,
-  "2023-11-05": 71543,
-  "2023-11-06": 71543,
-  "2023-11-07": 71543,
-  "2023-11-08": 71543,
-  "2023-11-09": 71543,
-  "2023-11-10": 71543,
-  "2023-11-11": 71524,
-  "2023-11-12": 71524,
-  "2023-11-13": 71524,
-  "2023-11-14": 71524,
-  "2023-11-15": 71524,
-  "2023-11-16": 71524,
-  "2023-11-17": 71524,
-  "2023-11-18": 71524,
-  "2023-11-19": 71524,
-  "2023-11-20": 71524,
-  "2023-11-21": 71524,
-  "2023-11-22": 71524,
-  "2023-11-23": 71524,
-  "2023-11-24": 71524,
-  "2023-11-25": 71524,
-  "2023-11-26": 71524,
-  "2023-11-27": 71524,
-  "2023-11-28": 71524,
-  "2023-11-29": 71524,
-  "2023-11-30": 71524,
-  "2023-12-01": 71524,
-  "2023-12-02": 71524,
-  "2023-12-03": 71524,
-  "2023-12-04": 71524,
-  "2023-12-05": 71524,
-  "2023-12-06": 71524,
-  "2023-12-07": 71524,
-  "2023-12-08": 71524,
-  "2023-12-09": 71524,
-  "2023-12-10": 71524,
-  "2023-12-11": 71524,
-  "2023-12-12": 71524,
-  "2023-12-13": 71524,
-  "2023-12-14": 71660,
-  "2023-12-15": 71663,
-  "2023-12-16": 71667,
-  "2023-12-17": 71674,
-  "2023-12-18": 71677,
-  "2023-12-19": 71682,
-  "2023-12-20": 71693,
-  "2023-12-21": 71693,
-  "2023-12-22": 71693,
-  "2023-12-23": 71696,
-  "2023-12-24": 71698,
-  "2023-12-25": 71699,
-  "2023-12-26": 71705,
-  "2023-12-27": 71705,
-  "2023-12-30": 71715,
-  "2023-12-31": 71716,
-  "2024-01-01": 71709,
-  "2024-01-02": 71712,
-  "2024-01-03": 71712
+  "2024-01-17": 71478,
+  "date_first_scraped": "2021-12-21",
+  "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
+  "name": "This Is Nicky Romero",
+  "tracks": [
+    {
+      "album": {
+        "name": "Acid is my DNA",
+        "url": "https://open.spotify.com/album/3EGd1HqQ0MS5RxjwYnDE1Z"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-09",
+      "duration_ms": 159524,
+      "name": "Acid Is My DNA",
+      "url": "https://open.spotify.com/track/7MH3tmO3lKNZg85QXEX6Bc"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Jared Lee",
+          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love (Festival Edit)",
+        "url": "https://open.spotify.com/album/3NkZ09fX7o4woFHGPe1lpu"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 254710,
+      "name": "All You Need Is Love - Festival Edit",
+      "url": "https://open.spotify.com/track/0AqAKmVp6TnSO6lRJQhREU"
+    },
+    {
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 205464,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m"
+    },
+    {
+      "album": {
+        "name": "Back To Where We Started",
+        "url": "https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209776,
+      "name": "Back To Where We Started",
+      "url": "https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 185812,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk"
+    },
+    {
+      "album": {
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 198281,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB"
+    },
+    {
+      "album": {
+        "name": "Neon Future III",
+        "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198281,
+      "name": "Be Somebody (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
+    },
+    {
+      "album": {
+        "name": "Bittersweet (ft. Quarterback) [Remixes]",
+        "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Trilane",
+          "url": "https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h"
+        },
+        {
+          "name": "Kokaholla",
+          "url": "https://open.spotify.com/artist/6Bb2R70eMBIIG6BFJhHv7f"
+        },
+        {
+          "name": "Quarterback",
+          "url": "https://open.spotify.com/artist/4t47pMNIyXO3lDZfzi8ENS"
+        },
+        {
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
+      "url": "https://open.spotify.com/track/2YvQO5jfnT29NL2dUwY0ou"
+    },
+    {
+      "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/6lD0exVM0Jz7AZZZq2VVTa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 180937,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0ovADiujzL4nfAhEtZ8WVc"
+    },
+    {
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/4LdvMHoetEhk74SqEEOz2W"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
+    },
+    {
+      "album": {
+        "name": "Deep Dark Jungle",
+        "url": "https://open.spotify.com/album/1rlxsVR8JsuqOiZDn9KCdW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Teamworx",
+          "url": "https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 145714,
+      "name": "Deep Dark Jungle",
+      "url": "https://open.spotify.com/track/09W9ZVEsg5VjGva2lM21dl"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 168000,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09"
+    },
+    {
+      "album": {
+        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187380,
+      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202968,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M"
+    },
+    {
+      "album": {
+        "name": "Dynamite (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 212800,
+      "name": "Dynamite - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+    },
+    {
+      "album": {
+        "name": "Everybody Clap",
+        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 148124,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190078,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
+    },
+    {
+      "album": {
+        "name": "Monocule (Volume 2)",
+        "url": "https://open.spotify.com/album/0Lo3tsG5drmteljSwQX01I"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-15",
+      "duration_ms": 183690,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0bWHZZkzy7wgTYaTcrkyvE"
+    },
+    {
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
+    },
+    {
+      "album": {
+        "name": "Give In",
+        "url": "https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Give In",
+      "url": "https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0"
+    },
+    {
+      "album": {
+        "name": "Give In (VE/RA Remix)",
+        "url": "https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 186857,
+      "name": "Give In - VE/RA Remix",
+      "url": "https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 213750,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
+    },
+    {
+      "album": {
+        "name": "Harmony (Stadiumx Remix)",
+        "url": "https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 325645,
+      "name": "Harmony - Extended Stadiumx Remix",
+      "url": "https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP"
+    },
+    {
+      "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 209078,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6"
+    },
+    {
+      "album": {
+        "name": "Heart Wants What It Wants (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/0zgPkxz8yrtIXpscCw7BIJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 253124,
+      "name": "Heart Wants What It Wants - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/2eUFGJIrapei5Tg9Qxj7UA"
+    },
+    {
+      "album": {
+        "name": "Here We Go (Hey Boy, Hey Girl)",
+        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Here We Go (Hey Boy, Hey Girl)",
+      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+    },
+    {
+      "album": {
+        "name": "Hero (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Hero - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "album": {
+        "name": "See You On The Dancefloor EP",
+        "url": "https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 188640,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2Oz76ydPg8xW4oD4owK1qZ"
+    },
+    {
+      "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208316,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "album": {
+        "name": "I Hope That It Hurts",
+        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160214,
+      "name": "I Hope That It Hurts",
+      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
+    },
+    {
+      "album": {
+        "name": "I Need You To Know",
+        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Ifimay",
+          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I Need You To Know",
+      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "album": {
+        "name": "I See",
+        "url": "https://open.spotify.com/album/7GbPBsYoV0tXFhnXThsVcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 154687,
+      "name": "I See",
+      "url": "https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0gxVaSkfS9gFfqNyOX5H1M"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "John Christian",
+          "url": "https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179047,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/4sYCPbTRo0AKvFt7RD4ljp"
+    },
+    {
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Timmo Hendriks",
+          "url": "https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3"
+        },
+        {
+          "name": "David Shane",
+          "url": "https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 191250,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW"
+    },
+    {
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "Iron",
+      "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
+    },
+    {
+      "album": {
+        "name": "Legacy (Radio Edit)",
+        "url": "https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 195704,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
+    },
+    {
+      "album": {
+        "name": "Let Me Feel (Radio Edit)",
+        "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "When We Are Wild",
+          "url": "https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202541,
+      "name": "Let Me Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
+    },
+    {
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/2vQhahYsf0a2TbGiTX3Uv5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Mix",
+      "url": "https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 187320,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm"
+    },
+    {
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 175161,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl"
+    },
+    {
+      "album": {
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "album": {
+        "name": "Mahoya",
+        "url": "https://open.spotify.com/album/7bLQf71ETdGuL9GgXAyn4u"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216363,
+      "name": "Mahoya",
+      "url": "https://open.spotify.com/track/1s7ZoLVOFhBLXNIBYgavdr"
+    },
+    {
+      "album": {
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196222,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Remixes]",
+        "url": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206363,
+      "name": "Miracle (with Ellie Goulding) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/6YMcn4j0bzRvAUKYgRxWax"
+    },
+    {
+      "album": {
+        "name": "My Way (ft. Alice Berg) [Marcus Santoro Remix]",
+        "url": "https://open.spotify.com/album/31XA52KgaFv2wVYHoQ2UMx"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Alice Berg",
+          "url": "https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 181147,
+      "name": "My Way - Marcus Santoro Remix",
+      "url": "https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS"
+    },
+    {
+      "album": {
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 207358,
+      "name": "Myriad",
+      "url": "https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm"
+    },
+    {
+      "album": {
+        "name": "Never Forget (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/6eC38BAMZjCGKM9Khbc2v5"
+      },
+      "artists": [
+        {
+          "name": "Trilane",
+          "url": "https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Tom Noah",
+          "url": "https://open.spotify.com/artist/7zuXCL8sL9HjbjyZaXkY1F"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-27",
+      "duration_ms": 188160,
+      "name": "Never Forget - Nicky Romero Edit",
+      "url": "https://open.spotify.com/track/0mOUCPwinFXFJrX5Kw2CsA"
+    },
+    {
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MARF",
+          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
+        },
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151312,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/6PEkbnlo9YzRWqEL4A7hru"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Tim van Werd",
+          "url": "https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 193660,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/73q91uUFExJXYKsnZP9gFX"
+    },
+    {
+      "album": {
+        "name": "Only For The Night",
+        "url": "https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Higher Lane",
+          "url": "https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 184843,
+      "name": "Only For The Night",
+      "url": "https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E"
+    },
+    {
+      "album": {
+        "name": "Only For You",
+        "url": "https://open.spotify.com/album/2BQ3iU7zPXjXkTrwUwZ9iC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 169570,
+      "name": "Only For You",
+      "url": "https://open.spotify.com/track/6U9ajbuK8CvXEGKtco10sp"
+    },
+    {
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215336,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1g10Y8UBz1389c7dGexIVF"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 156377,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5pF92bDyufEHqAOEf2Dtuu"
+    },
+    {
+      "album": {
+        "name": "Pyramid (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/4rMiayYCC9QqaklpdVFWRm"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165714,
+      "name": "Pyramid - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/3UcR8sUTURoNzhYrjeSI0q"
+    },
+    {
+      "album": {
+        "name": "Ring The Alarm",
+        "url": "https://open.spotify.com/album/0k1QlcaF9tmHehVz7671rf"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 170494,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/2RnZau79qB9ZAtOqZRAGDd"
+    },
+    {
+      "album": {
+        "name": "Rise (ft. Matluck)",
+        "url": "https://open.spotify.com/album/19fbdJRn0o0plZGV7e7UdW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        }
+      ],
+      "date_added": "2022-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200573,
+      "name": "Rise (ft. Matluck)",
+      "url": "https://open.spotify.com/track/51hjtoMJE53TzJsKlOOoG1"
+    },
+    {
+      "album": {
+        "name": "Rise (ft. Matluck) [Thomas Gold Remix]",
+        "url": "https://open.spotify.com/album/6eUaQ8c4pM6trQ5LgerdPS"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        },
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-24",
+      "duration_ms": 225937,
+      "name": "Rise (ft. Matluck) - Thomas Gold Remix",
+      "url": "https://open.spotify.com/track/1a0epgBNaSl5njG8E8SGtX"
+    },
+    {
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163932,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/39O8UbOREp97r6eP0KsBd2"
+    },
+    {
+      "album": {
+        "name": "See You On The Dancefloor EP",
+        "url": "https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 194285,
+      "name": "See You On The Dancefloor",
+      "url": "https://open.spotify.com/track/7CAKhC9pd2xM5mBg7HtJbr"
+    },
+    {
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
+    },
+    {
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
+    },
+    {
+      "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "So Much Love",
+      "url": "https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0ChhDqqwkpYPaawxGwxkKW"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1MqBckcnN45W32KSSHnylW"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "album": {
+        "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
+        "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169404,
+      "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
+      "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
+    },
+    {
+      "album": {
+        "name": "Sparks (Turn off your Mind)",
+        "url": "https://open.spotify.com/album/3rGQHCIO3ulceFJ302n5Fr"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 185767,
+      "name": "Sparks (Turn Off Your Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/44NT7Dqnyrh9x76VhPNHGN"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239736,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
+    },
+    {
+      "album": {
+        "name": "Stay (Festival Mix)",
+        "url": "https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208690,
+      "name": "Stay - Festival Mix",
+      "url": "https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "album": {
+        "name": "Techtronic",
+        "url": "https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 224046,
+      "name": "Techtronic",
+      "url": "https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh"
+    },
+    {
+      "album": {
+        "name": "The Moment (Novell)",
+        "url": "https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 200791,
+      "name": "The Moment (Novell)",
+      "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
+    },
+    {
+      "album": {
+        "name": "Redefine EP",
+        "url": "https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 172500,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB"
+    },
+    {
+      "album": {
+        "name": "Time Keeper",
+        "url": "https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Dallerium",
+          "url": "https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190354,
+      "name": "Time Keeper",
+      "url": "https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU"
+    },
+    {
+      "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "album": {
+        "name": "Turn Off The Lights",
+        "url": "https://open.spotify.com/album/38RAjvvIzYVJPwYfYSg1le"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 149250,
+      "name": "Turn Off The Lights",
+      "url": "https://open.spotify.com/track/3P6GZfi8q1UeCT15CgIKGb"
+    },
+    {
+      "album": {
+        "name": "Turn Off The Lights (Remixes)",
+        "url": "https://open.spotify.com/album/4tzkv8aeUekkfDCafpmQBa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 231145,
+      "name": "Turn Off The Lights - Belocca Remix",
+      "url": "https://open.spotify.com/track/4BuBbZ6nzFy18PdgGdPhPh"
+    },
+    {
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
+    },
+    {
+      "album": {
+        "name": "Ways To Heaven",
+        "url": "https://open.spotify.com/album/3ADqT7a27NxBo3MafCou7Y"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Jamis",
+          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
+        },
+        {
+          "name": "Michael G Moore",
+          "url": "https://open.spotify.com/artist/2WFsseAjUlC9pvgl6G3qsO"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-28",
+      "duration_ms": 167338,
+      "name": "Ways To Heaven",
+      "url": "https://open.spotify.com/track/2VSgFW94CNDanquL9j97qL"
+    },
+    {
+      "album": {
+        "name": "We're Still Young",
+        "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "We're Still Young",
+      "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "album": {
+        "name": "Where Would We Be",
+        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "Where Would We Be",
+      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
+    },
+    {
+      "album": {
+        "name": "Where Would We Be (Remixes Vol. 2)",
+        "url": "https://open.spotify.com/album/1LPAVRah84cEMrMhAeJbGx"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 226330,
+      "name": "Where Would We Be - Nicky Romero Edit",
+      "url": "https://open.spotify.com/track/2SvB51IGKJkEYBTglXdQiw"
+    },
+    {
+      "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 170476,
+      "name": "Work My Body",
+      "url": "https://open.spotify.com/track/5p1HNuc2P64Au0hwh2PcSB"
+    },
+    {
+      "album": {
+        "name": "World Through Your Eyes",
+        "url": "https://open.spotify.com/album/0RVvcarH2fXvoIkkiGql2s"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Teamworx",
+          "url": "https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj"
+        },
+        {
+          "name": "Joseph Feinstein",
+          "url": "https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 223874,
+      "name": "World Through Your Eyes",
+      "url": "https://open.spotify.com/track/2kP8XBdhI9NRQkbDxye43P"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 195562,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO"
+    },
+    {
+      "album": {
+        "name": "You Used To",
+        "url": "https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 174720,
+      "name": "You Used To",
+      "url": "https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 219518,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW"
 }

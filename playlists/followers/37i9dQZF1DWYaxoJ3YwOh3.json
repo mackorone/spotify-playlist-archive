@@ -1,479 +1,2105 @@
 {
-  "2022-09-09": 3405,
-  "2022-09-10": 3424,
-  "2022-09-11": 3438,
-  "2022-09-12": 3453,
-  "2022-09-13": 3470,
-  "2022-09-15": 3509,
-  "2022-09-16": 3524,
-  "2022-09-17": 3536,
-  "2022-09-18": 3547,
-  "2022-09-19": 3566,
-  "2022-09-20": 3580,
-  "2022-09-21": 3597,
-  "2022-09-22": 3618,
-  "2022-09-23": 3640,
-  "2022-09-24": 3657,
-  "2022-09-25": 3670,
-  "2022-09-26": 3685,
-  "2022-09-27": 3704,
-  "2022-09-28": 3720,
-  "2022-09-29": 3728,
-  "2022-09-30": 3745,
-  "2022-10-01": 3755,
-  "2022-10-02": 3773,
-  "2022-10-03": 3786,
-  "2022-10-04": 3802,
-  "2022-10-05": 3811,
-  "2022-10-06": 3821,
-  "2022-10-07": 3850,
-  "2022-10-08": 3864,
-  "2022-10-09": 3901,
-  "2022-10-10": 3903,
-  "2022-10-11": 3911,
-  "2022-10-12": 3929,
-  "2022-10-13": 3957,
-  "2022-10-14": 3972,
-  "2022-10-15": 3982,
-  "2022-10-16": 3995,
-  "2022-10-17": 4014,
-  "2022-10-18": 4027,
-  "2022-10-19": 4036,
-  "2022-10-20": 4055,
-  "2022-10-21": 4078,
-  "2022-10-22": 4121,
-  "2022-10-23": 4220,
-  "2022-10-24": 4346,
-  "2022-10-25": 4515,
-  "2022-10-26": 4646,
-  "2022-10-27": 4773,
-  "2022-10-28": 4962,
-  "2022-10-29": 5110,
-  "2022-10-30": 5251,
-  "2022-10-31": 5379,
-  "2022-11-01": 5537,
-  "2022-11-02": 5699,
-  "2022-11-03": 5877,
-  "2022-11-04": 6052,
-  "2022-11-05": 6192,
-  "2022-11-06": 6267,
-  "2022-11-07": 6365,
-  "2022-11-08": 6463,
-  "2022-11-09": 6541,
-  "2022-11-10": 6603,
-  "2022-11-11": 6669,
-  "2022-11-12": 6751,
-  "2022-11-13": 6804,
-  "2022-11-14": 6855,
-  "2022-11-15": 6912,
-  "2022-11-16": 6968,
-  "2022-11-17": 7032,
-  "2022-11-18": 7052,
-  "2022-11-19": 7045,
-  "2022-11-20": 7076,
-  "2022-11-21": 7112,
-  "2022-11-22": 7226,
-  "2022-11-23": 7224,
-  "2022-11-24": 7308,
-  "2022-11-25": 7400,
-  "2022-11-26": 7476,
-  "2022-11-27": 7525,
-  "2022-11-28": 7570,
-  "2022-11-29": 7620,
-  "2022-11-30": 7667,
-  "2022-12-01": 7706,
-  "2022-12-02": 7736,
-  "2022-12-03": 7753,
-  "2022-12-04": 7789,
-  "2022-12-05": 7814,
-  "2022-12-06": 7837,
-  "2022-12-07": 7868,
-  "2022-12-08": 7898,
-  "2022-12-09": 7911,
-  "2022-12-10": 7932,
-  "2022-12-11": 7958,
-  "2022-12-12": 7981,
-  "2022-12-13": 8015,
-  "2022-12-14": 8038,
-  "2022-12-15": 8058,
-  "2022-12-16": 8081,
-  "2022-12-17": 8104,
-  "2022-12-18": 8128,
-  "2022-12-19": 8151,
-  "2022-12-20": 8199,
-  "2022-12-21": 8199,
-  "2022-12-22": 8218,
-  "2022-12-24": 8270,
-  "2022-12-25": 8284,
-  "2022-12-26": 8308,
-  "2022-12-27": 8333,
-  "2022-12-28": 8364,
-  "2022-12-29": 8405,
-  "2022-12-30": 8441,
-  "2022-12-31": 8473,
-  "2023-01-01": 8508,
-  "2023-01-02": 8530,
-  "2023-01-03": 8579,
-  "2023-01-04": 8614,
-  "2023-01-05": 8649,
-  "2023-01-06": 8693,
-  "2023-01-07": 8762,
-  "2023-01-08": 8768,
-  "2023-01-09": 8796,
-  "2023-01-10": 8825,
-  "2023-01-11": 8844,
-  "2023-01-12": 8882,
-  "2023-01-13": 8900,
-  "2023-01-14": 8960,
-  "2023-01-15": 8972,
-  "2023-01-16": 9008,
-  "2023-01-17": 9046,
-  "2023-01-18": 9072,
-  "2023-01-19": 9112,
-  "2023-01-20": 9154,
-  "2023-01-21": 9189,
-  "2023-01-22": 9228,
-  "2023-01-23": 9277,
-  "2023-01-24": 9324,
-  "2023-01-25": 9374,
-  "2023-01-26": 9431,
-  "2023-01-27": 9487,
-  "2023-01-28": 9537,
-  "2023-01-29": 9568,
-  "2023-01-30": 9615,
-  "2023-01-31": 9615,
-  "2023-02-01": 9715,
-  "2023-02-02": 9758,
-  "2023-02-03": 9813,
-  "2023-02-04": 9856,
-  "2023-02-05": 9888,
-  "2023-02-06": 9931,
-  "2023-02-07": 9954,
-  "2023-02-08": 10047,
-  "2023-02-09": 10047,
-  "2023-02-10": 10085,
-  "2023-02-11": 10122,
-  "2023-02-12": 10335,
-  "2023-02-13": 10474,
-  "2023-02-14": 10474,
-  "2023-02-15": 10586,
-  "2023-02-16": 10755,
-  "2023-02-17": 10912,
-  "2023-02-18": 11199,
-  "2023-02-19": 11221,
-  "2023-02-20": 11360,
-  "2023-02-21": 11557,
-  "2023-02-22": 11739,
-  "2023-02-23": 11896,
-  "2023-02-24": 12041,
-  "2023-02-25": 12209,
-  "2023-02-26": 12324,
-  "2023-02-27": 12672,
-  "2023-02-28": 12672,
-  "2023-03-01": 12814,
-  "2023-03-02": 12939,
-  "2023-03-03": 13064,
-  "2023-03-04": 13171,
-  "2023-03-05": 13409,
-  "2023-03-06": 13409,
-  "2023-03-07": 13536,
-  "2023-03-08": 13660,
-  "2023-03-09": 13772,
-  "2023-03-10": 13875,
-  "2023-03-11": 13997,
-  "2023-03-12": 14108,
-  "2023-03-13": 14225,
-  "2023-03-14": 14351,
-  "2023-03-15": 14455,
-  "2023-03-16": 14572,
-  "2023-03-17": 14572,
-  "2023-03-18": 14798,
-  "2023-03-19": 14942,
-  "2023-03-20": 15093,
-  "2023-03-21": 15216,
-  "2023-03-22": 15366,
-  "2023-03-23": 15494,
-  "2023-03-24": 15494,
-  "2023-03-25": 15728,
-  "2023-03-26": 15870,
-  "2023-03-27": 15991,
-  "2023-03-28": 16103,
-  "2023-03-29": 16260,
-  "2023-03-30": 16519,
-  "2023-03-31": 16519,
-  "2023-04-01": 16670,
-  "2023-04-02": 16769,
-  "2023-04-03": 16889,
-  "2023-04-04": 17016,
-  "2023-04-05": 17140,
-  "2023-04-06": 17251,
-  "2023-04-07": 17359,
-  "2023-04-09": 17609,
-  "2023-04-10": 17724,
-  "2023-04-11": 17957,
-  "2023-04-12": 17957,
-  "2023-04-13": 18084,
-  "2023-04-14": 18211,
-  "2023-04-15": 18304,
-  "2023-04-16": 18387,
-  "2023-04-17": 18523,
-  "2023-04-18": 18640,
-  "2023-04-19": 18833,
-  "2023-04-20": 18964,
-  "2023-04-21": 19097,
-  "2023-04-22": 19198,
-  "2023-04-23": 19321,
-  "2023-04-24": 19436,
-  "2023-04-25": 19524,
-  "2023-04-26": 19680,
-  "2023-04-27": 19797,
-  "2023-04-28": 19918,
-  "2023-04-29": 20016,
-  "2023-04-30": 20118,
-  "2023-05-01": 20204,
-  "2023-05-02": 20321,
-  "2023-05-03": 20429,
-  "2023-05-04": 20544,
-  "2023-05-05": 20636,
-  "2023-05-06": 20753,
-  "2023-05-07": 20848,
-  "2023-05-08": 20924,
-  "2023-05-09": 21009,
-  "2023-05-10": 21107,
-  "2023-05-11": 21200,
-  "2023-05-12": 21285,
-  "2023-05-13": 21367,
-  "2023-05-14": 21437,
-  "2023-05-15": 21527,
-  "2023-05-16": 21611,
-  "2023-05-17": 21675,
-  "2023-05-18": 21736,
-  "2023-05-19": 21861,
-  "2023-05-20": 22042,
-  "2023-05-21": 22042,
-  "2023-05-22": 22042,
-  "2023-05-23": 22211,
-  "2023-05-24": 22359,
-  "2023-05-25": 22380,
-  "2023-05-26": 22448,
-  "2023-05-27": 22522,
-  "2023-05-28": 22583,
-  "2023-05-29": 22583,
-  "2023-05-30": 22707,
-  "2023-05-31": 22774,
-  "2023-06-01": 22854,
-  "2023-06-02": 22931,
-  "2023-06-03": 22989,
-  "2023-06-04": 23078,
-  "2023-06-05": 23154,
-  "2023-06-06": 23233,
-  "2023-06-07": 23325,
-  "2023-06-08": 23407,
-  "2023-06-09": 23497,
-  "2023-06-10": 23573,
-  "2023-06-11": 23651,
-  "2023-06-12": 23714,
-  "2023-06-13": 23783,
-  "2023-06-14": 23839,
-  "2023-06-15": 23906,
-  "2023-06-16": 23991,
-  "2023-06-17": 24062,
-  "2023-06-18": 24131,
-  "2023-06-19": 24198,
-  "2023-06-20": 24274,
-  "2023-06-21": 24338,
-  "2023-06-22": 24397,
-  "2023-06-23": 24468,
-  "2023-06-24": 24536,
-  "2023-06-25": 24593,
-  "2023-06-26": 24673,
-  "2023-06-27": 24736,
-  "2023-06-28": 24804,
-  "2023-06-29": 24876,
-  "2023-06-30": 24943,
-  "2023-07-01": 25111,
-  "2023-07-02": 25111,
-  "2023-07-03": 25200,
-  "2023-07-04": 25269,
-  "2023-07-05": 25348,
-  "2023-07-06": 25520,
-  "2023-07-07": 25520,
-  "2023-07-08": 25588,
-  "2023-07-09": 25637,
-  "2023-07-10": 25706,
-  "2023-07-11": 25773,
-  "2023-07-12": 25838,
-  "2023-07-13": 25910,
-  "2023-07-14": 25976,
-  "2023-07-15": 26042,
-  "2023-07-16": 26126,
-  "2023-07-17": 26212,
-  "2023-07-18": 26284,
-  "2023-07-19": 26375,
-  "2023-07-20": 26463,
-  "2023-07-21": 26529,
-  "2023-07-22": 26599,
-  "2023-07-23": 26666,
-  "2023-07-24": 26743,
-  "2023-07-25": 26811,
-  "2023-07-26": 26870,
-  "2023-07-27": 26940,
-  "2023-07-28": 27028,
-  "2023-07-29": 27106,
-  "2023-07-30": 27173,
-  "2023-07-31": 27227,
-  "2023-08-01": 27296,
-  "2023-08-02": 27393,
-  "2023-08-03": 27496,
-  "2023-08-04": 27570,
-  "2023-08-05": 27653,
-  "2023-08-06": 27813,
-  "2023-08-07": 27813,
-  "2023-08-08": 27873,
-  "2023-08-09": 27955,
-  "2023-08-10": 28037,
-  "2023-08-11": 28118,
-  "2023-08-12": 28178,
-  "2023-08-13": 28275,
-  "2023-08-14": 28372,
-  "2023-08-15": 28508,
-  "2023-08-16": 28508,
-  "2023-08-17": 28586,
-  "2023-08-18": 28655,
-  "2023-08-19": 28746,
-  "2023-08-20": 28808,
-  "2023-08-21": 28895,
-  "2023-08-22": 28976,
-  "2023-08-23": 29052,
-  "2023-08-24": 29134,
-  "2023-08-25": 29214,
-  "2023-08-26": 29306,
-  "2023-08-27": 29373,
-  "2023-08-28": 29464,
-  "2023-08-29": 29545,
-  "2023-08-30": 29640,
-  "2023-08-31": 29734,
-  "2023-09-01": 29872,
-  "2023-09-02": 29872,
-  "2023-09-03": 29938,
-  "2023-09-04": 30042,
-  "2023-09-05": 30153,
-  "2023-09-06": 30249,
-  "2023-09-07": 30339,
-  "2023-09-08": 30426,
-  "2023-09-09": 30529,
-  "2023-09-10": 30628,
-  "2023-09-11": 30737,
-  "2023-09-12": 30858,
-  "2023-09-13": 31008,
-  "2023-09-14": 31124,
-  "2023-09-15": 31215,
-  "2023-09-16": 31301,
-  "2023-09-17": 31378,
-  "2023-09-18": 31501,
-  "2023-09-19": 31654,
-  "2023-09-20": 31756,
-  "2023-09-21": 31827,
-  "2023-09-22": 31921,
-  "2023-09-23": 32016,
-  "2023-09-24": 32094,
-  "2023-09-25": 32209,
-  "2023-09-26": 32342,
-  "2023-09-27": 32409,
-  "2023-09-28": 32493,
-  "2023-09-29": 32542,
-  "2023-09-30": 32601,
-  "2023-10-01": 32645,
-  "2023-10-02": 32743,
-  "2023-10-03": 32838,
-  "2023-10-04": 32901,
-  "2023-10-05": 32970,
-  "2023-10-06": 33025,
-  "2023-10-07": 33079,
-  "2023-10-08": 33118,
-  "2023-10-09": 33175,
-  "2023-10-10": 33226,
-  "2023-10-11": 33301,
-  "2023-10-12": 33301,
-  "2023-10-13": 33351,
-  "2023-10-14": 33393,
-  "2023-10-15": 33443,
-  "2023-10-16": 33504,
-  "2023-10-17": 33561,
-  "2023-10-18": 33610,
-  "2023-10-19": 33667,
-  "2023-10-20": 33701,
-  "2023-10-21": 33746,
-  "2023-10-22": 33797,
-  "2023-10-23": 33845,
-  "2023-10-24": 33877,
-  "2023-10-25": 33912,
-  "2023-10-26": 33954,
-  "2023-10-27": 34011,
-  "2023-10-28": 34055,
-  "2023-10-29": 34095,
-  "2023-10-30": 34187,
-  "2023-10-31": 34187,
-  "2023-11-01": 34216,
-  "2023-11-02": 34257,
-  "2023-11-03": 34309,
-  "2023-11-04": 34357,
-  "2023-11-05": 34401,
-  "2023-11-06": 34451,
-  "2023-11-07": 34499,
-  "2023-11-08": 34537,
-  "2023-11-09": 34555,
-  "2023-11-10": 34594,
-  "2023-11-11": 34619,
-  "2023-11-12": 34652,
-  "2023-11-13": 34697,
-  "2023-11-14": 34744,
-  "2023-11-15": 34744,
-  "2023-11-16": 34818,
-  "2023-11-17": 34882,
-  "2023-11-18": 34882,
-  "2023-11-19": 34929,
-  "2023-11-20": 34964,
-  "2023-11-21": 35007,
-  "2023-11-22": 35063,
-  "2023-11-23": 35101,
-  "2023-11-24": 35145,
-  "2023-11-25": 35177,
-  "2023-11-26": 35215,
-  "2023-11-27": 35257,
-  "2023-11-28": 35300,
-  "2023-11-29": 35374,
-  "2023-11-30": 35374,
-  "2023-12-01": 35423,
-  "2023-12-02": 35455,
-  "2023-12-03": 35484,
-  "2023-12-04": 35528,
-  "2023-12-05": 35558,
-  "2023-12-06": 35595,
-  "2023-12-07": 35623,
-  "2023-12-08": 35670,
-  "2023-12-09": 35711,
-  "2023-12-10": 35753,
-  "2023-12-11": 35795,
-  "2023-12-12": 35840,
-  "2023-12-13": 35875,
-  "2023-12-14": 35928,
-  "2023-12-15": 35954,
-  "2023-12-16": 35988,
-  "2023-12-17": 36016,
-  "2023-12-18": 36052,
-  "2023-12-19": 36084,
-  "2023-12-20": 36117,
-  "2023-12-21": 36162,
-  "2023-12-22": 36198,
-  "2023-12-23": 36235,
-  "2023-12-24": 36267,
-  "2023-12-25": 36298,
-  "2023-12-26": 36330,
-  "2023-12-27": 36356,
-  "2023-12-30": 36447,
-  "2023-12-31": 36486,
-  "2024-01-01": 36513,
-  "2024-01-02": 36554,
-  "2024-01-03": 36598
+  "2024-01-17": 37150,
+  "date_first_scraped": "2022-09-09",
+  "description": "Enchanting vibes, to help you find a relaxing moment of wellness.",
+  "name": "Calming Retreat",
+  "tracks": [
+    {
+      "album": {
+        "name": "432hz Healing Sounds from the Middle East",
+        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234097,
+      "name": "432hz Sea of Fog",
+      "url": "https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1"
+    },
+    {
+      "album": {
+        "name": "A slow wind by the ocean",
+        "url": "https://open.spotify.com/album/0vkVuXoIR3HODhY6UND61K"
+      },
+      "artists": [
+        {
+          "name": "Laurenia",
+          "url": "https://open.spotify.com/artist/3CMgnzIRwvCnBtdkdOb4dD"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160880,
+      "name": "A slow wind by the ocean",
+      "url": "https://open.spotify.com/track/6bd9701rNFTrUFKVDzprf6"
+    },
+    {
+      "album": {
+        "name": "Amulet of Love",
+        "url": "https://open.spotify.com/album/5xA6Hc7m7S9WRsZWI8TWVP"
+      },
+      "artists": [
+        {
+          "name": "Duduk Tribe",
+          "url": "https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Amulet of Love",
+      "url": "https://open.spotify.com/track/5k0jWilfCzrbx7Fpem7EUR"
+    },
+    {
+      "album": {
+        "name": "Himma",
+        "url": "https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ"
+      },
+      "artists": [
+        {
+          "name": "Sufi Music Ensemble",
+          "url": "https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487453,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u"
+    },
+    {
+      "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/3xR73zZCwLBiJaMkShbX6D"
+      },
+      "artists": [
+        {
+          "name": "Axiom Of Choice",
+          "url": "https://open.spotify.com/artist/7L449lqnZwhxkWzu8j97cd"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 419866,
+      "name": "Ancient Sky",
+      "url": "https://open.spotify.com/track/6M11w8f5EAZJX4DNZaRyrc"
+    },
+    {
+      "album": {
+        "name": "Ancient Winds",
+        "url": "https://open.spotify.com/album/6Nm0yxVIpSh76cnQlZzI7K"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Ancient Winds",
+      "url": "https://open.spotify.com/track/6Et6RGKASDbsChublSSLQS"
+    },
+    {
+      "album": {
+        "name": "Arabian Night \u2013 Relaxing Arabic Music, Thematic Dinner and Party, Middle-Eastern Dance, Background Songs",
+        "url": "https://open.spotify.com/album/2mG4u0Dql9icSnqu6CMJzi"
+      },
+      "artists": [
+        {
+          "name": "Desert Oasis Ensemble",
+          "url": "https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 222802,
+      "name": "Arabian Night",
+      "url": "https://open.spotify.com/track/36xzpfl0YcmSiRRlEuLKMz"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spa Universe",
+          "url": "https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211850,
+      "name": "Arabic Chill",
+      "url": "https://open.spotify.com/track/6Jx6pIvweZ2DpatcOwzUrg"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Healing Oriental Spa Collection",
+          "url": "https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213162,
+      "name": "Arabic Relaxation & Spa",
+      "url": "https://open.spotify.com/track/1E1G65tdElBWDMHozuMd6s"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Cafe Tantra Chill",
+          "url": "https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Arabic Starry Skies",
+      "url": "https://open.spotify.com/track/1xCDq8xU7gE09lJcZNBLts"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "album": {
+        "name": "Bab' Az\u00eez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5QzhxVmpWQkqzSMPcUG2JJ"
+      },
+      "artists": [
+        {
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+        },
+        {
+          "name": "Levon Minassian",
+          "url": "https://open.spotify.com/artist/0etYQllgAd4LK3t5LythT8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 371760,
+      "name": "Bab' Az\u00eez",
+      "url": "https://open.spotify.com/track/39MKo6PLDdb8NhACGWgwzd"
+    },
+    {
+      "album": {
+        "name": "Bab' Az\u00eez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18op4iNmaVYwFudFJvyvh7"
+      },
+      "artists": [
+        {
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
+        },
+        {
+          "name": "L\u00e9von Minassian",
+          "url": "https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 371760,
+      "name": "Bab' Az\u00eez",
+      "url": "https://open.spotify.com/track/4aMXctsHbPJTf4eBWSDtWz"
+    },
+    {
+      "album": {
+        "name": "Arabian Spa (Middle Eastern Music)",
+        "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spa Universe",
+          "url": "https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206683,
+      "name": "Body Harmony",
+      "url": "https://open.spotify.com/track/09UFsG6dOJpEpZNyduzJuz"
+    },
+    {
+      "album": {
+        "name": "Breathe Of Anatolia (417 HZ Music / Solfeggio Frequencies)",
+        "url": "https://open.spotify.com/album/3FBg6aL3D0dvIVSX9M9h0U"
+      },
+      "artists": [
+        {
+          "name": "Emre G\u00fcnay",
+          "url": "https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Breathe Of Anatolia (417 HZ Music / Solfeggio Frequencies)",
+      "url": "https://open.spotify.com/track/1mRjF9HVwkJ472jWW2vZcy"
+    },
+    {
+      "album": {
+        "name": "Breeze out",
+        "url": "https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Breeze out",
+      "url": "https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT"
+    },
+    {
+      "album": {
+        "name": "Calm Night",
+        "url": "https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK"
+      },
+      "artists": [
+        {
+          "name": "Devans Tushar",
+          "url": "https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Calm Night",
+      "url": "https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg"
+    },
+    {
+      "album": {
+        "name": "Arabian Spa (Middle Eastern Music)",
+        "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
+      },
+      "artists": [
+        {
+          "name": "Mindfulness Meditation Music Spa Maestro",
+          "url": "https://open.spotify.com/artist/0e4n2JRged14FIeqTGcQbF"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217282,
+      "name": "Calm Your Emotions",
+      "url": "https://open.spotify.com/track/5uh94YKGwpmlIQTFH12VKH"
+    },
+    {
+      "album": {
+        "name": "Celestial Melody",
+        "url": "https://open.spotify.com/album/7eXxcrlaa3poUOIynJjblp"
+      },
+      "artists": [
+        {
+          "name": "Aleksandre",
+          "url": "https://open.spotify.com/artist/5QgIVreHcQEYWExVPodTqG"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129679,
+      "name": "Celestial Melody",
+      "url": "https://open.spotify.com/track/21bB3kgCgoAvqKGFtmBYze"
+    },
+    {
+      "album": {
+        "name": "Cheops",
+        "url": "https://open.spotify.com/album/45hsbgJA6y8ATe3zXtIT9M"
+      },
+      "artists": [
+        {
+          "name": "Duduk Tribe",
+          "url": "https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Cheops",
+      "url": "https://open.spotify.com/track/27RQFwc18WHORrxkOZJm9l"
+    },
+    {
+      "album": {
+        "name": "Clear Thoughts",
+        "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
+      },
+      "artists": [
+        {
+          "name": "Enapay",
+          "url": "https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180107,
+      "name": "Clear Thoughts",
+      "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
+    },
+    {
+      "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2VXGu0aOBaxGVy6idevAs2"
+      },
+      "artists": [
+        {
+          "name": "Arli",
+          "url": "https://open.spotify.com/artist/2D2omNqzJakxuZaLVYuEpm"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407544,
+      "name": "Coral",
+      "url": "https://open.spotify.com/track/321TKi0OMRCqt1WvyDA0d8"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+    },
+    {
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
+    },
+    {
+      "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/25WiKPYtScDlWpE7N8PCze"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/1mmJ23UvtuCs5DYWJNVudJ"
+    },
+    {
+      "album": {
+        "name": "Arabian Spa (Middle Eastern Music)",
+        "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Meditation Temple",
+          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227058,
+      "name": "Dreaming of Arabia",
+      "url": "https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD"
+    },
+    {
+      "album": {
+        "name": "Dreams of Calmness",
+        "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
+      },
+      "artists": [
+        {
+          "name": "Niigata",
+          "url": "https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Dreams of Calmness",
+      "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
+    },
+    {
+      "album": {
+        "name": "Desert Dreams",
+        "url": "https://open.spotify.com/album/65oCkKyowOzfwq30nZqgLl"
+      },
+      "artists": [
+        {
+          "name": "Derek Fiechter",
+          "url": "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        },
+        {
+          "name": "Brandon Fiechter",
+          "url": "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 348863,
+      "name": "Dreams of Pharaoh",
+      "url": "https://open.spotify.com/track/4r9m1bZcdxaaVPh9uhtyii"
+    },
+    {
+      "album": {
+        "name": "Duduk Love",
+        "url": "https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk"
+      },
+      "artists": [
+        {
+          "name": "Bakshi Breeze",
+          "url": "https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Duduk Love",
+      "url": "https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP"
+    },
+    {
+      "album": {
+        "name": "Echoes of Stillness",
+        "url": "https://open.spotify.com/album/0wNWTMXiFuXPdoPoRcUiBm"
+      },
+      "artists": [
+        {
+          "name": "Reina Akabava",
+          "url": "https://open.spotify.com/artist/7AssoXxRyds50wtePrUpu7"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138485,
+      "name": "Echoes of Stillness",
+      "url": "https://open.spotify.com/track/0QhZbK0kuJbKi9li1SfwG9"
+    },
+    {
+      "album": {
+        "name": "Ancient Mystical Egypt",
+        "url": "https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B"
+      },
+      "artists": [
+        {
+          "name": "Desert Oasis Ensemble",
+          "url": "https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151630,
+      "name": "Egyptian Ritual",
+      "url": "https://open.spotify.com/track/6ynLu35rbxgMvlqvkpCayr"
+    },
+    {
+      "album": {
+        "name": "Middle Eastern Meditation (Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing)",
+        "url": "https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8"
+      },
+      "artists": [
+        {
+          "name": "Oasis of Relaxation and Meditation",
+          "url": "https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218490,
+      "name": "Emotional Balance",
+      "url": "https://open.spotify.com/track/1v1dDDk8KjIfGPmOUhe4iG"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Healing Oriental Spa Collection",
+          "url": "https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225628,
+      "name": "Endless Arabic Desert",
+      "url": "https://open.spotify.com/track/4sTW8YNbQe6i6EpGs3vFoR"
+    },
+    {
+      "album": {
+        "name": "Middle Eastern Chillout Sensuality: Slow Arabian Relaxation Ambient, Traditional Oriental India Lounge Atmosphere, Feel the Beautiful Egyptian Moods",
+        "url": "https://open.spotify.com/album/3wOMnDq943NLwUvdWFbRrV"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Meditation Temple",
+          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 219795,
+      "name": "Enjoy Arabian Music",
+      "url": "https://open.spotify.com/track/3UgVDtAVynpIkbJYH4OMLh"
+    },
+    {
+      "album": {
+        "name": "Ethereal Harmony",
+        "url": "https://open.spotify.com/album/7oTpJCJjf6q9QRPeT6Mow0"
+      },
+      "artists": [
+        {
+          "name": "Ewa Delvina",
+          "url": "https://open.spotify.com/artist/3WTCerCMGjap4tNkKlGjsD"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125324,
+      "name": "Ethereal Harmony",
+      "url": "https://open.spotify.com/track/2NAqFzi7h1xdcIV4XPNY5r"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spa Universe",
+          "url": "https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Ethnic Relaxation",
+      "url": "https://open.spotify.com/track/5cISGyz7flqHyJnPredy4s"
+    },
+    {
+      "album": {
+        "name": "Eye of Horus",
+        "url": "https://open.spotify.com/album/2NSsC4s9OsAssTM5nPvJh9"
+      },
+      "artists": [
+        {
+          "name": "Pharaoh's Flute",
+          "url": "https://open.spotify.com/artist/1SxH2ytHs9DxIZI7tqDbS6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283601,
+      "name": "Eye of Horus",
+      "url": "https://open.spotify.com/track/4glYwIM9IRl5tFX6aVgIRi"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4LmSHbGhpvsVK1kGPv0KeT"
+      },
+      "artists": [
+        {
+          "name": "CreativeWaves",
+          "url": "https://open.spotify.com/artist/6ckEar8o3QDbpIK520uRyx"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7FWxgkffwiIrr2SR72RqAh"
+    },
+    {
+      "album": {
+        "name": "Focus Forward",
+        "url": "https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR"
+      },
+      "artists": [
+        {
+          "name": "Shah Feryan",
+          "url": "https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180227,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL"
+    },
+    {
+      "album": {
+        "name": "Floating in Stillness",
+        "url": "https://open.spotify.com/album/0N8e5UlCvI3I515gJDkpGs"
+      },
+      "artists": [
+        {
+          "name": "Golgon Kami",
+          "url": "https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128462,
+      "name": "Floating in Stillness",
+      "url": "https://open.spotify.com/track/2yxjJ6zoZW4kysV5wPqTzl"
+    },
+    {
+      "album": {
+        "name": "Flute in the Breeze",
+        "url": "https://open.spotify.com/album/2RksRuylHyPAP44k3cirsv"
+      },
+      "artists": [
+        {
+          "name": "Gomis Golab",
+          "url": "https://open.spotify.com/artist/29nePvmDsNHG26KHxVMcqa"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Flutes in the Breeze",
+      "url": "https://open.spotify.com/track/5f5OgaBM5zeFqoDJTLvDek"
+    },
+    {
+      "album": {
+        "name": "Garden of Tranquility",
+        "url": "https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr"
+      },
+      "artists": [
+        {
+          "name": "SARAB",
+          "url": "https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Garden of Tranquility - Studio Edit",
+      "url": "https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY"
+    },
+    {
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/2rQMnPvRvBxACgYQ2Pd79S"
+      },
+      "artists": [
+        {
+          "name": "Will Tuinstra",
+          "url": "https://open.spotify.com/artist/0saSJJHHdamRyjGmd789FD"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Garden State",
+      "url": "https://open.spotify.com/track/1oem56p9BOOYg51OVVkuVn"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd"
+      },
+      "artists": [
+        {
+          "name": "Nambara Nim",
+          "url": "https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200873,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ"
+    },
+    {
+      "album": {
+        "name": "Harmony in Nature",
+        "url": "https://open.spotify.com/album/5vEcnBfHtu9UVWFrWmsb0F"
+      },
+      "artists": [
+        {
+          "name": "Ajla Birak",
+          "url": "https://open.spotify.com/artist/5twf3oUVCKE2cmSpWhjRuH"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126625,
+      "name": "Harmony in Nature",
+      "url": "https://open.spotify.com/track/4oQeSDoGiv56BMC4tvBypR"
+    },
+    {
+      "album": {
+        "name": "Journey to Arabia: Namaste Yoga - Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music",
+        "url": "https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j"
+      },
+      "artists": [
+        {
+          "name": "Ethnic Moods Academy",
+          "url": "https://open.spotify.com/artist/0HPsSqgWf8994BfuySJoZl"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220162,
+      "name": "Harmony of Senses",
+      "url": "https://open.spotify.com/track/6bJQjILATeEqvRSk9pU6cj"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0FDntcyVJxyFwj4Xv13JTk"
+      },
+      "artists": [
+        {
+          "name": "The 2 Inversions",
+          "url": "https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/120juWqk4ShxUDo1AzPAlA"
+    },
+    {
+      "album": {
+        "name": "In The Distance",
+        "url": "https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk"
+      },
+      "artists": [
+        {
+          "name": "Mindful Changes",
+          "url": "https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "In The Distance",
+      "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
+    },
+    {
+      "album": {
+        "name": "Into The Present",
+        "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
+      },
+      "artists": [
+        {
+          "name": "Ijaya Gupta",
+          "url": "https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199158,
+      "name": "Into The Present",
+      "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
+    },
+    {
+      "album": {
+        "name": "Music of the Middle East - Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon \u00e0",
+        "url": "https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Mukhtar",
+          "url": "https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 327746,
+      "name": "IRAQ Raqsat albedoi: Raqsat albedoi (Iraq)",
+      "url": "https://open.spotify.com/track/4Y4GBq0srsSKYB0Nuy4pr8"
+    },
+    {
+      "album": {
+        "name": "Khufu",
+        "url": "https://open.spotify.com/album/0DmSILtOgDrnW8MDuIks41"
+      },
+      "artists": [
+        {
+          "name": "Duduk Tribe",
+          "url": "https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245962,
+      "name": "Khufu",
+      "url": "https://open.spotify.com/track/5647gFRJvr9e8nxwx16A1W"
+    },
+    {
+      "album": {
+        "name": "Lake Of Tranquility",
+        "url": "https://open.spotify.com/album/5YF0IOJsizquLLOHG4bJ9Z"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Irwin",
+          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121286,
+      "name": "Lake Of Tranquility",
+      "url": "https://open.spotify.com/track/5lwlK7tC5aAOOriY67D7qy"
+    },
+    {
+      "album": {
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+    },
+    {
+      "album": {
+        "name": "Masal",
+        "url": "https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Neval",
+          "url": "https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Masal - Instrumental",
+      "url": "https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA"
+    },
+    {
+      "album": {
+        "name": "Persian Oud, Dirine Delkhah",
+        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
+      },
+      "artists": [
+        {
+          "name": "Shahram Gholami",
+          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "Masnavi Bayat Esfahan",
+      "url": "https://open.spotify.com/track/294vBP3FeWDwpYwvGsy9Y4"
+    },
+    {
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl"
+      },
+      "artists": [
+        {
+          "name": "Sufi Lounge",
+          "url": "https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131558,
+      "name": "Meditation",
+      "url": "https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA"
+    },
+    {
+      "album": {
+        "name": "Meditation And Intuition",
+        "url": "https://open.spotify.com/album/7JoBVf5TObZ4x5ODUYAEpQ"
+      },
+      "artists": [
+        {
+          "name": "Coherent Minds",
+          "url": "https://open.spotify.com/artist/2wuDW0csRaqdUSMDeqMm9E"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173663,
+      "name": "Meditation And Intuition",
+      "url": "https://open.spotify.com/track/2rNzShbJy2hJkbzT3L6jmn"
+    },
+    {
+      "album": {
+        "name": "Meditative Bliss",
+        "url": "https://open.spotify.com/album/3qqdJ59kIMgjaKppMq86ET"
+      },
+      "artists": [
+        {
+          "name": "Mar Duron",
+          "url": "https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123016,
+      "name": "Meditative Bliss",
+      "url": "https://open.spotify.com/track/6Wcy2Lwyr0m579TKNvdIaX"
+    },
+    {
+      "album": {
+        "name": "Arabian Spa (Middle Eastern Music)",
+        "url": "https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spa Universe",
+          "url": "https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206683,
+      "name": "Mental Wellbeing",
+      "url": "https://open.spotify.com/track/28BKLc1P33rinEfjvXV8PW"
+    },
+    {
+      "album": {
+        "name": "Milena's Theme (Duduk)",
+        "url": "https://open.spotify.com/album/4BYbl37zopU70QHnhufVEb"
+      },
+      "artists": [
+        {
+          "name": "Mandala Ohm",
+          "url": "https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212384,
+      "name": "Milena's Theme (Duduk)",
+      "url": "https://open.spotify.com/track/5tuNuA75rRC8cnsXDdxrXS"
+    },
+    {
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF"
+      },
+      "artists": [
+        {
+          "name": "Nicolello",
+          "url": "https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V"
+        },
+        {
+          "name": "Carlo Minuta",
+          "url": "https://open.spotify.com/artist/04cP6qBKH2rTpfylxtnlWO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 224053,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/6MZ1N2y8tdws6NoYmS9mMe"
+    },
+    {
+      "album": {
+        "name": "Secret of Arabic Healing Massage (Oriental Spa, Eastern Relaxing Drums, Ethnic Journey)",
+        "url": "https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex"
+      },
+      "artists": [
+        {
+          "name": "Zen M\u00e9ditation Ambiance",
+          "url": "https://open.spotify.com/artist/6tberbrKFcndFNn2Yj2Ber"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Moments \u00e9gyptiens de spa",
+      "url": "https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E"
+    },
+    {
+      "album": {
+        "name": "Morning Clarity",
+        "url": "https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Irwin",
+          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182985,
+      "name": "Morning Clarity",
+      "url": "https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA"
+    },
+    {
+      "album": {
+        "name": "Bar de Lune Presents Bedouin Cafe",
+        "url": "https://open.spotify.com/album/3vgO9x2bALPEEjpFYcDEEy"
+      },
+      "artists": [
+        {
+          "name": "Rumi Ged",
+          "url": "https://open.spotify.com/artist/4QzAg324qBeb33bzKsBxaI"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271360,
+      "name": "Moroccan Dance",
+      "url": "https://open.spotify.com/track/3oowGaxhUt7eoRjaIOys0e"
+    },
+    {
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/2NBJRiyIdMaLzJwjxLd6N9"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156941,
+      "name": "Mukti",
+      "url": "https://open.spotify.com/track/3j1ugKG3WVeFGqf5bjx3CB"
+    },
+    {
+      "album": {
+        "name": "Music of the Persian Mystics",
+        "url": "https://open.spotify.com/album/1UsUJnAnXU4bIOEdC9FhTO"
+      },
+      "artists": [
+        {
+          "name": "Majid Derakhshani",
+          "url": "https://open.spotify.com/artist/68Mz4oTRLkgxPgdkmfujeL"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 114520,
+      "name": "Nava",
+      "url": "https://open.spotify.com/track/7d4RLSFO2qiaZRk2M3D11c"
+    },
+    {
+      "album": {
+        "name": "Johare Eshgh",
+        "url": "https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q"
+      },
+      "artists": [
+        {
+          "name": "Zohreh Jooya",
+          "url": "https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114520,
+      "name": "Nava (Taknavazi)",
+      "url": "https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL"
+    },
+    {
+      "album": {
+        "name": "Old Kingdom",
+        "url": "https://open.spotify.com/album/2KdvKkkVIb91ILygYzVzVg"
+      },
+      "artists": [
+        {
+          "name": "Duduk Tribe",
+          "url": "https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238062,
+      "name": "Old Kingdom",
+      "url": "https://open.spotify.com/track/0E2VhScNmFuE6K2Xt6dD7k"
+    },
+    {
+      "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Irwin",
+          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Osceola",
+      "url": "https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA"
+    },
+    {
+      "album": {
+        "name": "Pacific Silence",
+        "url": "https://open.spotify.com/album/3bSUBIAWA65I875PsIwOO2"
+      },
+      "artists": [
+        {
+          "name": "Haraldur Berglj\u00f3t",
+          "url": "https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190926,
+      "name": "Pacific Silence",
+      "url": "https://open.spotify.com/track/3c7lAcrausFsmGTJZUcVTO"
+    },
+    {
+      "album": {
+        "name": "Sounds of Tranquility",
+        "url": "https://open.spotify.com/album/2LWkP0NkebzpYLpm0cCBdk"
+      },
+      "artists": [
+        {
+          "name": "Ajla Birak",
+          "url": "https://open.spotify.com/artist/5twf3oUVCKE2cmSpWhjRuH"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140169,
+      "name": "Pads of Tranquility",
+      "url": "https://open.spotify.com/track/3pv62N3Wub3yW6OJybgJ8X"
+    },
+    {
+      "album": {
+        "name": "Path of Light",
+        "url": "https://open.spotify.com/album/49Kj6Y9vmd0Ih7ezF0RvxR"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Path of Light",
+      "url": "https://open.spotify.com/track/1z1pDsi4pI26xmkcKqogXo"
+    },
+    {
+      "album": {
+        "name": "Peace and Quiet",
+        "url": "https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0"
+      },
+      "artists": [
+        {
+          "name": "Zen Atlas",
+          "url": "https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Peace and Quiet",
+      "url": "https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS"
+    },
+    {
+      "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/3Pspn8KKURtQJGwO2dF1jD"
+      },
+      "artists": [
+        {
+          "name": "Gomis Golab",
+          "url": "https://open.spotify.com/artist/29nePvmDsNHG26KHxVMcqa"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134485,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/4hNSJMDbcaJGv3Xb6iqIKf"
+    },
+    {
+      "album": {
+        "name": "Raat Kee Khoj",
+        "url": "https://open.spotify.com/album/4fPb0HKS6TEJKuehkk2SG9"
+      },
+      "artists": [
+        {
+          "name": "Daya Misra",
+          "url": "https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271026,
+      "name": "Raat Kee Khoj",
+      "url": "https://open.spotify.com/track/6aRBPJ1TcZFPPcw07UUSd5"
+    },
+    {
+      "album": {
+        "name": "Music form Iraq: Rhythms of Baghdad",
+        "url": "https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Mukhtar",
+          "url": "https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa"
+        },
+        {
+          "name": "Sattar Al-Saadi",
+          "url": "https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327746,
+      "name": "Raqsat albedoi",
+      "url": "https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Healing Oriental Spa Collection",
+          "url": "https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 200262,
+      "name": "Regeneration Flow",
+      "url": "https://open.spotify.com/track/7sDkUfK1wzqA90Sn3TDl28"
+    },
+    {
+      "album": {
+        "name": "Middle Eastern Meditation (Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing)",
+        "url": "https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8"
+      },
+      "artists": [
+        {
+          "name": "Oasis of Relaxation and Meditation",
+          "url": "https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Restore Balance",
+      "url": "https://open.spotify.com/track/6RI7dZ4M2PAkHtCypMnSoL"
+    },
+    {
+      "album": {
+        "name": "Deserts Meditation Music",
+        "url": "https://open.spotify.com/album/4FjfVqLBmhmJ1MKiVEHWRE"
+      },
+      "artists": [
+        {
+          "name": "Deep Meditation & Relaxation Music",
+          "url": "https://open.spotify.com/artist/61bD7GGBXUklehjWIkmhnE"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 650428,
+      "name": "Sand Storm in the Arabian Desert",
+      "url": "https://open.spotify.com/track/7BV3p7y8dVC02UVZkvrHGW"
+    },
+    {
+      "album": {
+        "name": "Saqqara",
+        "url": "https://open.spotify.com/album/7IXTLMVK68BE6F8bOlFoOy"
+      },
+      "artists": [
+        {
+          "name": "Pharaoh's Flute",
+          "url": "https://open.spotify.com/artist/1SxH2ytHs9DxIZI7tqDbS6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246050,
+      "name": "Saqqara",
+      "url": "https://open.spotify.com/track/1vZrg7QCREDWOEAe2ZgaGY"
+    },
+    {
+      "album": {
+        "name": "Savasana Dream",
+        "url": "https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS"
+      },
+      "artists": [
+        {
+          "name": "Wellness Portal",
+          "url": "https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Savasana Dream",
+      "url": "https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv"
+    },
+    {
+      "album": {
+        "name": "Serene Breath",
+        "url": "https://open.spotify.com/album/4rlxAgkNk1UJ2mYwyKKhcV"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Serene Breath - Studio Edit",
+      "url": "https://open.spotify.com/track/2ihzQGdQHS2sGw08o6lMId"
+    },
+    {
+      "album": {
+        "name": "The Azeri Project",
+        "url": "https://open.spotify.com/album/3qWl7PaIKVOhc4COB6ExP6"
+      },
+      "artists": [
+        {
+          "name": "Hamid Motebassem",
+          "url": "https://open.spotify.com/artist/76AfiUNXweLpRzTYqcAFPx"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97986,
+      "name": "Shining Through",
+      "url": "https://open.spotify.com/track/1ZbwflBaFjdfZbdK4C5uK1"
+    },
+    {
+      "album": {
+        "name": "Silent Saunas",
+        "url": "https://open.spotify.com/album/3HByXhtdotcuoB91KHcc1R"
+      },
+      "artists": [
+        {
+          "name": "Mandala Dreams",
+          "url": "https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239842,
+      "name": "Silent Saunas",
+      "url": "https://open.spotify.com/track/2uO03QD9Ftji8n2ZLKglGi"
+    },
+    {
+      "album": {
+        "name": "The Doudouk - Beyond Borders",
+        "url": "https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9von Minassian",
+          "url": "https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 419706,
+      "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
+      "url": "https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8"
+    },
+    {
+      "album": {
+        "name": "The Doudouk - Beyond Borders",
+        "url": "https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9von Minassian",
+          "url": "https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419706,
+      "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
+      "url": "https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f"
+    },
+    {
+      "album": {
+        "name": "Journey to Arabia: Namaste Yoga - Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music",
+        "url": "https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j"
+      },
+      "artists": [
+        {
+          "name": "Namaste Healing Yoga",
+          "url": "https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 234146,
+      "name": "Spiritual Mindfulness",
+      "url": "https://open.spotify.com/track/4S4igfG2j922w8hrDWRHvj"
+    },
+    {
+      "album": {
+        "name": "Still Waves (432hz)",
+        "url": "https://open.spotify.com/album/0FmfRdFZX0sdEsU5VOtA1i"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232109,
+      "name": "Still Waves (432hz)",
+      "url": "https://open.spotify.com/track/6qlL9nfU00kj1bPr99uryF"
+    },
+    {
+      "album": {
+        "name": "Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",
+        "url": "https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl"
+      },
+      "artists": [
+        {
+          "name": "Cafe Tantra Chill",
+          "url": "https://open.spotify.com/artist/72vLOUKSCa5df8OyEqJ4VY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 200024,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/5fF2vOX7ujJVBFLGRko9yv"
+    },
+    {
+      "album": {
+        "name": "One River",
+        "url": "https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g"
+      },
+      "artists": [
+        {
+          "name": "Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
+        },
+        {
+          "name": "John De Kadt",
+          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 326666,
+      "name": "Tabla Breath",
+      "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
+    },
+    {
+      "album": {
+        "name": "One River",
+        "url": "https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk"
+      },
+      "artists": [
+        {
+          "name": "Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
+        },
+        {
+          "name": "John De Kadt",
+          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 326666,
+      "name": "Tabla Breath",
+      "url": "https://open.spotify.com/track/3cjOt90cB7acl5BAjkIwJ1"
+    },
+    {
+      "album": {
+        "name": "One River",
+        "url": "https://open.spotify.com/album/2sLe3CidNMoGusZDUouKcA"
+      },
+      "artists": [
+        {
+          "name": "Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
+        },
+        {
+          "name": "John De Kadt",
+          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Tabla Breath",
+      "url": "https://open.spotify.com/track/6P6eZPLalsneaRcCT6fMgp"
+    },
+    {
+      "album": {
+        "name": "The Fallen Tapang",
+        "url": "https://open.spotify.com/album/5GgwKQEkwCDBWKT1zP2W5q"
+      },
+      "artists": [
+        {
+          "name": "Anak Borneo \u5a46\u7f85\u6d32\u4e4b\u5b50",
+          "url": "https://open.spotify.com/artist/0CVpClWXwT0efLt0ibRVSB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243682,
+      "name": "The Fallen Tapang",
+      "url": "https://open.spotify.com/track/6C4TKUSrJgs7uVXOjPeBis"
+    },
+    {
+      "album": {
+        "name": "Ancient Mystical Egypt",
+        "url": "https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B"
+      },
+      "artists": [
+        {
+          "name": "Desert Oasis Ensemble",
+          "url": "https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "The Force & Heka",
+      "url": "https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi"
+    },
+    {
+      "album": {
+        "name": "Ancient Egypt",
+        "url": "https://open.spotify.com/album/1zyhnXlg9bBP4hgKV6RBZG"
+      },
+      "artists": [
+        {
+          "name": "Ali Jihad Racy",
+          "url": "https://open.spotify.com/artist/3XNjqJKnHq6XYlQhn37aEz"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "The Holy Lotus",
+      "url": "https://open.spotify.com/track/4hAmtYjh0KOUbZg2zj5NsJ"
+    },
+    {
+      "album": {
+        "name": "The Reservoir",
+        "url": "https://open.spotify.com/album/53Ovs3DdDTTe7Ee4ZjP9sO"
+      },
+      "artists": [
+        {
+          "name": "Nepenthesis",
+          "url": "https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "The Reservoir",
+      "url": "https://open.spotify.com/track/40YVXbMhIQZxAuty2blznz"
+    },
+    {
+      "album": {
+        "name": "Thoughts of Mindfulness",
+        "url": "https://open.spotify.com/album/7lkPnAPCI6X1aEqHPqFVll"
+      },
+      "artists": [
+        {
+          "name": "Sight of Wonders",
+          "url": "https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166295,
+      "name": "Thoughts of Mindfulness",
+      "url": "https://open.spotify.com/track/0WeP7hnaLn8dxh555MxEYx"
+    },
+    {
+      "album": {
+        "name": "To Become",
+        "url": "https://open.spotify.com/album/3YDEOoghPFf0h9eFP6Uws3"
+      },
+      "artists": [
+        {
+          "name": "Ambient X",
+          "url": "https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167376,
+      "name": "To Become",
+      "url": "https://open.spotify.com/track/13wd75MxSECCWxK8Q6ADkM"
+    },
+    {
+      "album": {
+        "name": "Journey to Arabia: Namaste Yoga - Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music",
+        "url": "https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Meditation Temple",
+          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243037,
+      "name": "Touch of Meditation",
+      "url": "https://open.spotify.com/track/3aTk8gqyP8cGegtVFa3vC9"
+    },
+    {
+      "album": {
+        "name": "Secret of Arabic Healing Massage (Oriental Spa, Eastern Relaxing Drums, Ethnic Journey)",
+        "url": "https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex"
+      },
+      "artists": [
+        {
+          "name": "Tribal Drums Ambient",
+          "url": "https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Tranquil Desert Sanctuary",
+      "url": "https://open.spotify.com/track/6STx8DlaC9NmtMOthYMiHO"
+    },
+    {
+      "album": {
+        "name": "Tranquility Sands",
+        "url": "https://open.spotify.com/album/3usYkjYhdS5wngDom5JVeh"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252537,
+      "name": "Tranquility Sands (Limitless)",
+      "url": "https://open.spotify.com/track/74K0t5QbnOBQjUtTc900u1"
+    },
+    {
+      "album": {
+        "name": "Vistaar",
+        "url": "https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ"
+      },
+      "artists": [
+        {
+          "name": "Ranjan E",
+          "url": "https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Vistaar",
+      "url": "https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj"
+    },
+    {
+      "album": {
+        "name": "Whispers of Ney",
+        "url": "https://open.spotify.com/album/7E5WrPenJYe3fsVzIvfrx6"
+      },
+      "artists": [
+        {
+          "name": "Anatolian Flute",
+          "url": "https://open.spotify.com/artist/2WDfPwwWs8loSU6HnjENBZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Whispers of Ney",
+      "url": "https://open.spotify.com/track/5QyKenCw8AlAmw4SdUp9Ex"
+    },
+    {
+      "album": {
+        "name": "Yar\u0131mburgaz",
+        "url": "https://open.spotify.com/album/5HIh6H9CdZJp7mKV7ERAPb"
+      },
+      "artists": [
+        {
+          "name": "Anatolian Flute",
+          "url": "https://open.spotify.com/artist/2WDfPwwWs8loSU6HnjENBZ"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Yar\u0131mburgaz",
+      "url": "https://open.spotify.com/track/0jJDpZFapjoiU2kUW2SFXa"
+    },
+    {
+      "album": {
+        "name": "The Doudouk - Beyond Borders",
+        "url": "https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9von Minassian",
+          "url": "https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 177266,
+      "name": "Yeraz (R\u00eaverie)",
+      "url": "https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE"
+    },
+    {
+      "album": {
+        "name": "The Doudouk - Beyond Borders",
+        "url": "https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9von Minassian",
+          "url": "https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Yeraz (R\u00eaverie)",
+      "url": "https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03"
+    },
+    {
+      "album": {
+        "name": "Yohanan (Live '21)",
+        "url": "https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        },
+        {
+          "name": "Urban Faint",
+          "url": "https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 361873,
+      "name": "Yohanan - Live '21",
+      "url": "https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b"
+    },
+    {
+      "album": {
+        "name": "Urban Faint (Live '21)",
+        "url": "https://open.spotify.com/album/2v9ND2c4LQ9NiVxXrwEwbX"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        },
+        {
+          "name": "Urban Faint",
+          "url": "https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361873,
+      "name": "Yohanan - Live '21",
+      "url": "https://open.spotify.com/track/4xkgCxxOtZhek27JGYaf1o"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f \u0431\u0435\u0437\u0437\u0432\u0443\u0447\u043d\u043e\u0433\u043e \u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u044f (\u041f\u043e\u0438\u0441\u043a \u043f\u0440\u043e\u0441\u0432\u0435\u0442\u043b\u0435\u043d\u0438\u044f, \u041a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0443\u043c, \u0415\u0434\u0438\u043d\u0430\u044f \u0434\u0443\u0448\u0430, \u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435 \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u044f)",
+        "url": "https://open.spotify.com/album/2aZuABxTR9fF6fPklX7NM8"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u0443\u0445\u043e\u0432\u043d\u0430\u044f \u043c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f",
+          "url": "https://open.spotify.com/artist/1xhosPIWji99GNfmj5A9uu"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 230000,
+      "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e \u0446\u0438\u0433\u0443\u043d",
+      "url": "https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz"
+    },
+    {
+      "album": {
+        "name": "\u0625\u064a\u0642\u0627\u0639\u0627\u062a \u0634\u0631\u0642\u064a\u0629",
+        "url": "https://open.spotify.com/album/36MW3rnu3O3ljTirs4WrJC"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Meditation Temple",
+          "url": "https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "\u0627\u0644\u0645\u0648\u0633\u064a\u0642\u0649 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+      "url": "https://open.spotify.com/track/0yjSKEPwxq23mlW5UKgBMI"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
+        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 294611,
+      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
+    },
+    {
+      "album": {
+        "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
+        "url": "https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA"
+      },
+      "artists": [
+        {
+          "name": "Raku-Nu",
+          "url": "https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123798,
+      "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
+      "url": "https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0"
+    },
+    {
+      "album": {
+        "name": "\u0939\u0940\u0932\u093f\u0902\u0917 \u0938\u0902\u0917\u0940\u0924",
+        "url": "https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj"
+      },
+      "artists": [
+        {
+          "name": "Raku-Nu",
+          "url": "https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "\u0939\u0940\u0932\u093f\u0902\u0917 \u0938\u0902\u0917\u0940\u0924",
+      "url": "https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYaxoJ3YwOh3"
 }

@@ -1,246 +1,871 @@
 {
-  "2023-05-03": 48612,
-  "2023-05-04": 48626,
-  "2023-05-05": 48634,
-  "2023-05-06": 48655,
-  "2023-05-07": 48664,
-  "2023-05-08": 48670,
-  "2023-05-09": 48686,
-  "2023-05-10": 48691,
-  "2023-05-11": 48695,
-  "2023-05-12": 48699,
-  "2023-05-13": 48708,
-  "2023-05-14": 48728,
-  "2023-05-15": 48733,
-  "2023-05-16": 48752,
-  "2023-05-17": 48758,
-  "2023-05-18": 48765,
-  "2023-05-19": 48774,
-  "2023-05-20": 48789,
-  "2023-05-21": 48789,
-  "2023-05-22": 48789,
-  "2023-05-23": 48793,
-  "2023-05-24": 48804,
-  "2023-05-25": 48810,
-  "2023-05-26": 48820,
-  "2023-05-27": 48827,
-  "2023-05-28": 48827,
-  "2023-05-29": 48827,
-  "2023-05-30": 48839,
-  "2023-05-31": 48860,
-  "2023-06-01": 48878,
-  "2023-06-02": 48896,
-  "2023-06-03": 48913,
-  "2023-06-04": 48934,
-  "2023-06-05": 48955,
-  "2023-06-06": 48953,
-  "2023-06-07": 48957,
-  "2023-06-08": 48961,
-  "2023-06-09": 48962,
-  "2023-06-10": 48965,
-  "2023-06-11": 48972,
-  "2023-06-12": 48986,
-  "2023-06-13": 49007,
-  "2023-06-14": 49014,
-  "2023-06-15": 49019,
-  "2023-06-16": 49024,
-  "2023-06-17": 49036,
-  "2023-06-18": 49050,
-  "2023-06-19": 49057,
-  "2023-06-20": 49059,
-  "2023-06-21": 49066,
-  "2023-06-22": 49078,
-  "2023-06-23": 49080,
-  "2023-06-24": 49091,
-  "2023-06-25": 49093,
-  "2023-06-26": 49102,
-  "2023-06-27": 49106,
-  "2023-06-28": 49109,
-  "2023-06-29": 49114,
-  "2023-06-30": 49121,
-  "2023-07-01": 49130,
-  "2023-07-02": 49130,
-  "2023-07-03": 49134,
-  "2023-07-04": 49144,
-  "2023-07-05": 49147,
-  "2023-07-06": 49161,
-  "2023-07-07": 49161,
-  "2023-07-08": 49161,
-  "2023-07-09": 49160,
-  "2023-07-10": 49163,
-  "2023-07-11": 49160,
-  "2023-07-12": 49168,
-  "2023-07-13": 49174,
-  "2023-07-14": 49183,
-  "2023-07-15": 49184,
-  "2023-07-16": 49187,
-  "2023-07-17": 49185,
-  "2023-07-18": 49181,
-  "2023-07-19": 49174,
-  "2023-07-20": 49185,
-  "2023-07-21": 49187,
-  "2023-07-22": 49193,
-  "2023-07-23": 49201,
-  "2023-07-24": 49200,
-  "2023-07-25": 49200,
-  "2023-07-26": 49201,
-  "2023-07-27": 49207,
-  "2023-07-28": 49207,
-  "2023-07-29": 49213,
-  "2023-07-30": 49212,
-  "2023-07-31": 49216,
-  "2023-08-01": 49222,
-  "2023-08-02": 49223,
-  "2023-08-03": 49230,
-  "2023-08-04": 49234,
-  "2023-08-05": 49237,
-  "2023-08-06": 49242,
-  "2023-08-07": 49242,
-  "2023-08-08": 49232,
-  "2023-08-09": 49225,
-  "2023-08-10": 49234,
-  "2023-08-11": 49240,
-  "2023-08-12": 49240,
-  "2023-08-13": 49240,
-  "2023-08-14": 49252,
-  "2023-08-15": 49252,
-  "2023-08-16": 49252,
-  "2023-08-17": 49252,
-  "2023-08-18": 49252,
-  "2023-08-19": 49252,
-  "2023-08-20": 49284,
-  "2023-08-21": 49284,
-  "2023-08-22": 49286,
-  "2023-08-23": 49286,
-  "2023-08-24": 49286,
-  "2023-08-25": 49286,
-  "2023-08-26": 49297,
-  "2023-08-27": 49297,
-  "2023-08-28": 49308,
-  "2023-08-29": 49308,
-  "2023-08-30": 49308,
-  "2023-08-31": 49321,
-  "2023-09-01": 49324,
-  "2023-09-02": 49324,
-  "2023-09-03": 49324,
-  "2023-09-04": 49324,
-  "2023-09-05": 49324,
-  "2023-09-06": 49324,
-  "2023-09-07": 49324,
-  "2023-09-08": 49324,
-  "2023-09-09": 49324,
-  "2023-09-10": 49361,
-  "2023-09-11": 49361,
-  "2023-09-12": 49361,
-  "2023-09-13": 49361,
-  "2023-09-14": 49361,
-  "2023-09-15": 49361,
-  "2023-09-16": 49377,
-  "2023-09-17": 49377,
-  "2023-09-18": 49377,
-  "2023-09-19": 49378,
-  "2023-09-20": 49378,
-  "2023-09-21": 49378,
-  "2023-09-22": 49394,
-  "2023-09-23": 49394,
-  "2023-09-24": 49394,
-  "2023-09-25": 49394,
-  "2023-09-26": 49400,
-  "2023-09-27": 49400,
-  "2023-09-28": 49400,
-  "2023-09-29": 49400,
-  "2023-09-30": 49400,
-  "2023-10-01": 49400,
-  "2023-10-02": 49400,
-  "2023-10-03": 49400,
-  "2023-10-04": 49400,
-  "2023-10-05": 49400,
-  "2023-10-06": 49400,
-  "2023-10-07": 49400,
-  "2023-10-08": 49400,
-  "2023-10-09": 49400,
-  "2023-10-10": 49400,
-  "2023-10-11": 49447,
-  "2023-10-12": 49447,
-  "2023-10-13": 49447,
-  "2023-10-14": 49447,
-  "2023-10-15": 49447,
-  "2023-10-16": 49447,
-  "2023-10-17": 49447,
-  "2023-10-18": 49447,
-  "2023-10-19": 49447,
-  "2023-10-20": 49447,
-  "2023-10-21": 49447,
-  "2023-10-22": 49447,
-  "2023-10-23": 49447,
-  "2023-10-24": 49447,
-  "2023-10-25": 49447,
-  "2023-10-26": 49447,
-  "2023-10-27": 49447,
-  "2023-10-28": 49447,
-  "2023-10-29": 49447,
-  "2023-10-30": 49447,
-  "2023-10-31": 49447,
-  "2023-11-01": 49447,
-  "2023-11-02": 49447,
-  "2023-11-03": 49447,
-  "2023-11-04": 49447,
-  "2023-11-05": 49447,
-  "2023-11-06": 49447,
-  "2023-11-07": 49447,
-  "2023-11-08": 49447,
-  "2023-11-09": 49447,
-  "2023-11-10": 49447,
-  "2023-11-11": 49511,
-  "2023-11-12": 49511,
-  "2023-11-13": 49511,
-  "2023-11-14": 49511,
-  "2023-11-15": 49511,
-  "2023-11-16": 49511,
-  "2023-11-17": 49511,
-  "2023-11-18": 49511,
-  "2023-11-19": 49511,
-  "2023-11-20": 49511,
-  "2023-11-21": 49511,
-  "2023-11-22": 49511,
-  "2023-11-23": 49511,
-  "2023-11-24": 49511,
-  "2023-11-25": 49511,
-  "2023-11-26": 49511,
-  "2023-11-27": 49511,
-  "2023-11-28": 49511,
-  "2023-11-29": 49511,
-  "2023-11-30": 49511,
-  "2023-12-01": 49511,
-  "2023-12-02": 49511,
-  "2023-12-03": 49511,
-  "2023-12-04": 49511,
-  "2023-12-05": 49511,
-  "2023-12-06": 49511,
-  "2023-12-07": 49511,
-  "2023-12-08": 49511,
-  "2023-12-09": 49511,
-  "2023-12-10": 49511,
-  "2023-12-11": 49511,
-  "2023-12-12": 49511,
-  "2023-12-13": 49511,
-  "2023-12-14": 49532,
-  "2023-12-15": 49533,
-  "2023-12-16": 49538,
-  "2023-12-17": 49535,
-  "2023-12-18": 49542,
-  "2023-12-19": 49541,
-  "2023-12-20": 49537,
-  "2023-12-21": 49537,
-  "2023-12-22": 49536,
-  "2023-12-23": 49535,
-  "2023-12-24": 49538,
-  "2023-12-25": 49543,
-  "2023-12-26": 49538,
-  "2023-12-27": 49542,
-  "2023-12-30": 49544,
-  "2023-12-31": 49546,
-  "2024-01-01": 49554,
-  "2024-01-02": 49556,
-  "2024-01-03": 49553
+  "2024-01-17": 49521,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
+  "name": "This Is Hayley Kiyoko",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206618,
+      "name": "A Belle to Remember",
+      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
+    },
+    {
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167649,
+      "name": "Bang! (feat. Hayley Kiyoko) (AhhHaa Remix)",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+    },
+    {
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
+        "url": "https://open.spotify.com/album/7v5X3cQDhUuU6pO5rnALw8"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 167649,
+      "name": "Bang! (feat. Hayley Kiyoko) - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/4Fi00h3wo3P8gmhAHT1qX4"
+    },
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189872,
+      "name": "Better Than Love",
+      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
+    },
+    {
+      "album": {
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
+    },
+    {
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213261,
+      "name": "Cliffs Edge",
+      "url": "https://open.spotify.com/track/5Q7Z26cX90eA14VaVg3xtB"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183280,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/5btaVjrLBxTvXNmCv5DrW2"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
+    },
+    {
+      "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3EQMcKkWEB0LKLyRuspibc"
+    },
+    {
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+    },
+    {
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210312,
+      "name": "Feeding the Fire",
+      "url": "https://open.spotify.com/track/2g8GG331WBCnyYp3gVBT94"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 160659,
+      "name": "flicker start",
+      "url": "https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157685,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+    },
+    {
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229655,
+      "name": "Girls Like Girls",
+      "url": "https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf"
+    },
+    {
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230711,
+      "name": "Given It All",
+      "url": "https://open.spotify.com/track/4zVqWUET8JgoDHwmWrYP45"
+    },
+    {
+      "album": {
+        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
+        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
+      },
+      "artists": [
+        {
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168344,
+      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
+      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
+    },
+    {
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218760,
+      "name": "Gravel to Tempo",
+      "url": "https://open.spotify.com/track/0xLijfL3DEW7eAiPB2xxFj"
+    },
+    {
+      "album": {
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "He'll Never Love You (HNLY)",
+      "url": "https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL"
+    },
+    {
+      "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/2wDVgssxE37up35W78SFDM"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0"
+    },
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213745,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b"
+    },
+    {
+      "album": {
+        "name": "Hungry Heart ft. Hayley Kiyoko",
+        "url": "https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182918,
+      "name": "Hungry Heart ft. Hayley Kiyoko",
+      "url": "https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159288,
+      "name": "L.O.V.E. Me",
+      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
+    },
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181587,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
+    },
+    {
+      "album": {
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+    },
+    {
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+    },
+    {
+      "album": {
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252973,
+      "name": "Need You Closer",
+      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
+    },
+    {
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+    },
+    {
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
+    },
+    {
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/55kn1i0n1mUWiEB6LZrTYe"
+    },
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207617,
+      "name": "Rich Youth",
+      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150787,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM"
+    },
+    {
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191175,
+      "name": "She",
+      "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233893,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu"
+    },
+    {
+      "album": {
+        "name": "somewhere between the sand and the stardust",
+        "url": "https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210918,
+      "name": "somewhere between the sand and the stardust",
+      "url": "https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+    },
+    {
+      "album": {
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195773,
+      "name": "Wanna Be Missed",
+      "url": "https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+    },
+    {
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204178,
+      "name": "Wild & Wicked World",
+      "url": "https://open.spotify.com/track/3hVsOFrAxjPdqebJobfZSZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2bUkoM"
 }

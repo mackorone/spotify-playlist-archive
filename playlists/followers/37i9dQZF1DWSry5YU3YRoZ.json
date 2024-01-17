@@ -1,61 +1,1037 @@
 {
-  "2023-11-04": 3113,
-  "2023-11-05": 3124,
-  "2023-11-06": 3145,
-  "2023-11-07": 3153,
-  "2023-11-08": 3165,
-  "2023-11-09": 3182,
-  "2023-11-10": 3192,
-  "2023-11-11": 3204,
-  "2023-11-12": 3213,
-  "2023-11-13": 3230,
-  "2023-11-14": 3244,
-  "2023-11-15": 3244,
-  "2023-11-16": 3270,
-  "2023-11-17": 3296,
-  "2023-11-18": 3296,
-  "2023-11-19": 3304,
-  "2023-11-20": 3318,
-  "2023-11-21": 3332,
-  "2023-11-22": 3343,
-  "2023-11-23": 3359,
-  "2023-11-24": 3375,
-  "2023-11-25": 3384,
-  "2023-11-26": 3389,
-  "2023-11-27": 3401,
-  "2023-11-28": 3409,
-  "2023-11-29": 3436,
-  "2023-11-30": 3436,
-  "2023-12-01": 3447,
-  "2023-12-02": 3460,
-  "2023-12-03": 3475,
-  "2023-12-04": 3499,
-  "2023-12-05": 3518,
-  "2023-12-06": 3532,
-  "2023-12-07": 3553,
-  "2023-12-08": 3559,
-  "2023-12-09": 3570,
-  "2023-12-10": 3584,
-  "2023-12-11": 3597,
-  "2023-12-12": 3605,
-  "2023-12-13": 3614,
-  "2023-12-14": 3645,
-  "2023-12-15": 3658,
-  "2023-12-16": 3668,
-  "2023-12-17": 3687,
-  "2023-12-18": 3705,
-  "2023-12-19": 3717,
-  "2023-12-20": 3732,
-  "2023-12-21": 3740,
-  "2023-12-22": 3755,
-  "2023-12-23": 3767,
-  "2023-12-24": 3771,
-  "2023-12-25": 3794,
-  "2023-12-26": 3809,
-  "2023-12-27": 3824,
-  "2023-12-30": 3865,
-  "2023-12-31": 3882,
-  "2024-01-01": 3902,
-  "2024-01-02": 3914,
-  "2024-01-03": 3934
+  "2024-01-17": 4136,
+  "date_first_scraped": "2023-11-04",
+  "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
+  "name": "zZZ \uc798\uc790\uc694",
+  "tracks": [
+    {
+      "album": {
+        "name": "Zombie daughter (Original Soundtrack) : A long dream",
+        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
+      },
+      "artists": [
+        {
+          "name": "ThorThor",
+          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-26",
+      "duration_ms": 213972,
+      "name": "A long dream (Full Ver.)",
+      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
+    },
+    {
+      "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/0TYEpVePmN48ssaj40OrMy"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Moonbit",
+          "url": "https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253226,
+      "name": "But I'm Trying To Tell You How Much I Love You (with Moonbit)",
+      "url": "https://open.spotify.com/track/3k8zcUpzJjDrJ5RC297q1w"
+    },
+    {
+      "album": {
+        "name": "Call me now",
+        "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
+      },
+      "artists": [
+        {
+          "name": "JI JIN SEOK",
+          "url": "https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233520,
+      "name": "Call me now",
+      "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
+    },
+    {
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+    },
+    {
+      "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "album": {
+        "name": "Do You Know My Heart",
+        "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "NUITNUIT",
+          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 201151,
+      "name": "Do You Know My Heart (Feat. NUITNUIT)",
+      "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
+    },
+    {
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187999,
+      "name": "Excuse",
+      "url": "https://open.spotify.com/track/4uzZyA3YeQAZYmDPXUcU1h"
+    },
+    {
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
+    },
+    {
+      "album": {
+        "name": "The End Of The Summer",
+        "url": "https://open.spotify.com/album/3JEw0H8fWbGDGmgX0ddPpC"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Jeong Yubin",
+          "url": "https://open.spotify.com/artist/3hTlITCaMAJYlwQpcUv1hl"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243124,
+      "name": "For A Long Time (with Jung Yubin)",
+      "url": "https://open.spotify.com/track/7wUq7l86ffQyMt1zs06338"
+    },
+    {
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/4Ek9ovRZi20qAA9Y3M6BAn"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255026,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/45xFvznhVt4u8RzHMhC8hc"
+    },
+    {
+      "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "album": {
+        "name": "how i remember",
+        "url": "https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "goodnight",
+      "url": "https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb"
+    },
+    {
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+    },
+    {
+      "album": {
+        "name": "Hi, I am Deulre Jang",
+        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248154,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/1izlxYnH96m4nsGXiSUit6"
+    },
+    {
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+    },
+    {
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247991,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/3NmZPizM240GOHwnyIMVJv"
+    },
+    {
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
+    },
+    {
+      "album": {
+        "name": "CHAT-SHIRE",
+        "url": "https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282887,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ"
+    },
+    {
+      "album": {
+        "name": "Flowering",
+        "url": "https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl"
+    },
+    {
+      "album": {
+        "name": "Would You Sleep?",
+        "url": "https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Listen And Sleep",
+      "url": "https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8"
+    },
+    {
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261720,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
+    },
+    {
+      "album": {
+        "name": "A Day",
+        "url": "https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199857,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ"
+    },
+    {
+      "album": {
+        "name": "Mindless",
+        "url": "https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 247793,
+      "name": "Mindless",
+      "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"
+    },
+    {
+      "album": {
+        "name": "We need to meet now",
+        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
+    },
+    {
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325066,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250453,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
+    },
+    {
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
+    },
+    {
+      "album": {
+        "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/37eokJCyqRxZfSuyMq1tEC"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250082,
+      "name": "The Blue Night of Jeju Island",
+      "url": "https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ"
+    },
+    {
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240718,
+      "name": "When love passes by",
+      "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+    },
+    {
+      "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC"
+      },
+      "artists": [
+        {
+          "name": "O3ohn",
+          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288933,
+      "name": "Your River In Me",
+      "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
+    },
+    {
+      "album": {
+        "name": "youth",
+        "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
+    },
+    {
+      "album": {
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357120,
+      "name": "\u1102\u1162\u1100\u1161 \u1102\u1175\u1111\u1167\u11ab\u110b\u1175 \u1103\u116c\u110b\u1165 \u110c\u116e\u11af\u1100\u1166 I Will Be on Your Side",
+      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
+    },
+    {
+      "album": {
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 217400,
+      "name": "\u110b\u1169\u1102\u1173\u11af\u1103\u1169 \u1100\u116e\u11ba\u1102\u1161\u110b\u1175\u11ba Good Night",
+      "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 274304,
+      "name": "\uadf8 \ubc24",
+      "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
+    },
+    {
+      "album": {
+        "name": "\uafc8 Dream",
+        "url": "https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374991,
+      "name": "\uafc8 Dream",
+      "url": "https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK"
+    },
+    {
+      "album": {
+        "name": "\ub300\ub2f5 Answer (stripped)",
+        "url": "https://open.spotify.com/album/7Cz6lmKK3rCibiIYLDHeke"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182520,
+      "name": "\ub300\ub2f5 (stripped) Answer (stripped)",
+      "url": "https://open.spotify.com/track/5IpxJA8Wz0lX58IP7pyVhI"
+    },
+    {
+      "album": {
+        "name": "\ub450 \uc0ac\ub78c The Lover",
+        "url": "https://open.spotify.com/album/3UioVSNzdRV1lxbzkIb0Il"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185644,
+      "name": "\ub450 \uc0ac\ub78c The Lover",
+      "url": "https://open.spotify.com/track/5sBDtoaGEzE7rotVDcEFLq"
+    },
+    {
+      "album": {
+        "name": "\uc637\uc7a5 Closet",
+        "url": "https://open.spotify.com/album/0pguC5BCed8NAbhtHXTSOB"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "\ubc24, \uacb0 (stripped) The Night Time (stripped)",
+      "url": "https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT"
+    },
+    {
+      "album": {
+        "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+        "url": "https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279610,
+      "name": "\ubc84\ub4dc\ub098\ubb34 Willow Tree",
+      "url": "https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H"
+    },
+    {
+      "album": {
+        "name": "\ud68c\uc0ac\ub2e4\ub140\uc694",
+        "url": "https://open.spotify.com/album/5fpuo0zn0ctQ9MvqAUKGrb"
+      },
+      "artists": [
+        {
+          "name": "nov",
+          "url": "https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196259,
+      "name": "\uc218\uace0\ud588\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/34eHPg1gIMxUmUso9rB8Ul"
+    },
+    {
+      "album": {
+        "name": "\uc548\ubd80 Greeting",
+        "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
+      },
+      "artists": [
+        {
+          "name": "Kim Oki",
+          "url": "https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400870,
+      "name": "\uc548\ub155 Bye (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
+    },
+    {
+      "album": {
+        "name": "\uc5b4\uc11c\uc624\uc138\uc694 \uc5ec\ub984\ubc24",
+        "url": "https://open.spotify.com/album/0GB6OFRgrSKlAXu8GcUbQx"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259367,
+      "name": "\uc5ec\ub984\ubc24",
+      "url": "https://open.spotify.com/track/3D2XzN5RUtogeIw7f9fTCS"
+    },
+    {
+      "album": {
+        "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+        "url": "https://open.spotify.com/album/2Ja2kwTKcN1ANA6qk0TVbt"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223965,
+      "name": "\uc601\uc6d0\ud68c\uadc0 Eternal return",
+      "url": "https://open.spotify.com/track/7yORm0vTVACc8r2K7Z0G6w"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257862,
+      "name": "\uc785\ub9de\ucda4",
+      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239674,
+      "name": "\uc9dd\uc0ac\ub791 Crush",
+      "url": "https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8"
+    },
+    {
+      "album": {
+        "name": "\ucda9\ubb34\uc5d0\uc11c Chungmu",
+        "url": "https://open.spotify.com/album/6GCrQlMtxQOCaloUci71fm"
+      },
+      "artists": [
+        {
+          "name": "Kang Asol",
+          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 219000,
+      "name": "\ucda9\ubb34\uc5d0\uc11c Chungmu",
+      "url": "https://open.spotify.com/track/79KSgQdO5ralCps7J3qG9I"
+    },
+    {
+      "album": {
+        "name": "\ud3b8\uc9c0 Letter",
+        "url": "https://open.spotify.com/album/352elMfFQTnoMOPYZxIuec"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246301,
+      "name": "\ud3b8\uc9c0 Letter",
+      "url": "https://open.spotify.com/track/79OAaveywANnqqwzmBKo6f"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSry5YU3YRoZ"
 }

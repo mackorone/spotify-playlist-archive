@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Guns N Roses
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,974 likes - 80 songs - 4 hr 50 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,916 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

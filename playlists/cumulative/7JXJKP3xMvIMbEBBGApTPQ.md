@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7JXJKP3xMvIMbEBBGApTPQ.md) - cumulative - [plain](/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ)
 
-### [K\-Pop Hits 2023](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
+### [K\-Pop Hits 2024](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
 
 > Tune in for the years hottest Kpop tracks\. <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> K\-Pop Tunes \| Kpop Mix \| Kpop Boyband \| Kpop Girl Groups \| Cover: NewJeans
 

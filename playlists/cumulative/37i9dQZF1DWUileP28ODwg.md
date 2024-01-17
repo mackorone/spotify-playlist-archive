@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-348 songs - 21 hr 34 min
+349 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,8 @@
 | [Miracle Power](https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Power](https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq) | 4:37 | 2022-05-28 | 2022-08-27 |
 | [Miracle Time](https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Miracle Time](https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k) | 4:20 | 2023-10-06 |  |
 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-02-25 | 2023-10-07 |
-| [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-10-06 |  |
+| [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-10-06 | 2024-01-15 |
+| [Mountain Top](https://open.spotify.com/track/6dDZukfQ0684ODp2KC1O8d) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/0SZ5bXxdqqPTDPUz18tObl) | 3:54 | 2023-11-17 |  |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2022-02-25 | 2022-04-23 |
 | [My Light](https://open.spotify.com/track/1XhNAeoka7OOCPf3MbKJU6) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light \(Acoustic Version\)](https://open.spotify.com/album/2cjjFYOq98eUZSMY2Nqbm4) | 2:27 | 2023-03-10 |  |
 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 | 2023-03-10 | 2023-07-07 |

@@ -2525,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 178181,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms"

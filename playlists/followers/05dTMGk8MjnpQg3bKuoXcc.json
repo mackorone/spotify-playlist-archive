@@ -1,735 +1,939 @@
 {
-  "2021-12-25": 372,
-  "2021-12-26": 372,
-  "2021-12-27": 372,
-  "2021-12-28": 372,
-  "2021-12-29": 372,
-  "2021-12-30": 372,
-  "2021-12-31": 372,
-  "2022-01-01": 372,
-  "2022-01-02": 372,
-  "2022-01-03": 372,
-  "2022-01-04": 372,
-  "2022-01-05": 372,
-  "2022-01-06": 372,
-  "2022-01-07": 372,
-  "2022-01-08": 372,
-  "2022-01-09": 372,
-  "2022-01-10": 372,
-  "2022-01-11": 372,
-  "2022-01-12": 372,
-  "2022-01-13": 372,
-  "2022-01-14": 372,
-  "2022-01-15": 372,
-  "2022-01-16": 372,
-  "2022-01-17": 372,
-  "2022-01-18": 372,
-  "2022-01-19": 372,
-  "2022-01-20": 372,
-  "2022-01-21": 372,
-  "2022-01-22": 372,
-  "2022-01-23": 372,
-  "2022-01-24": 372,
-  "2022-01-25": 372,
-  "2022-01-26": 372,
-  "2022-01-27": 372,
-  "2022-01-28": 372,
-  "2022-01-29": 372,
-  "2022-01-30": 372,
-  "2022-01-31": 372,
-  "2022-02-01": 372,
-  "2022-02-02": 372,
-  "2022-02-03": 372,
-  "2022-02-04": 372,
-  "2022-02-05": 372,
-  "2022-02-06": 372,
-  "2022-02-07": 372,
-  "2022-02-08": 372,
-  "2022-02-09": 372,
-  "2022-02-10": 372,
-  "2022-02-11": 372,
-  "2022-02-12": 372,
-  "2022-02-13": 372,
-  "2022-02-14": 372,
-  "2022-02-15": 371,
-  "2022-02-16": 370,
-  "2022-02-17": 370,
-  "2022-02-18": 370,
-  "2022-02-19": 370,
-  "2022-02-20": 370,
-  "2022-02-21": 370,
-  "2022-02-22": 370,
-  "2022-02-23": 370,
-  "2022-02-24": 370,
-  "2022-02-25": 370,
-  "2022-02-26": 370,
-  "2022-02-27": 370,
-  "2022-02-28": 370,
-  "2022-03-01": 370,
-  "2022-03-02": 370,
-  "2022-03-03": 370,
-  "2022-03-04": 370,
-  "2022-03-05": 370,
-  "2022-03-06": 370,
-  "2022-03-07": 370,
-  "2022-03-08": 370,
-  "2022-03-09": 370,
-  "2022-03-10": 370,
-  "2022-03-11": 370,
-  "2022-03-12": 370,
-  "2022-03-13": 370,
-  "2022-03-14": 370,
-  "2022-03-15": 370,
-  "2022-03-16": 370,
-  "2022-03-17": 370,
-  "2022-03-18": 370,
-  "2022-03-19": 370,
-  "2022-03-20": 370,
-  "2022-03-21": 370,
-  "2022-03-22": 370,
-  "2022-03-23": 370,
-  "2022-03-24": 370,
-  "2022-03-25": 370,
-  "2022-03-26": 370,
-  "2022-03-27": 370,
-  "2022-03-28": 370,
-  "2022-03-30": 370,
-  "2022-03-31": 370,
-  "2022-04-01": 369,
-  "2022-04-02": 369,
-  "2022-04-03": 369,
-  "2022-04-04": 365,
-  "2022-04-05": 369,
-  "2022-04-06": 369,
-  "2022-04-07": 369,
-  "2022-04-08": 369,
-  "2022-04-09": 369,
-  "2022-04-10": 369,
-  "2022-04-11": 369,
-  "2022-04-12": 369,
-  "2022-04-13": 369,
-  "2022-04-14": 368,
-  "2022-04-15": 368,
-  "2022-04-16": 368,
-  "2022-04-17": 368,
-  "2022-04-18": 368,
-  "2022-04-19": 368,
-  "2022-04-20": 368,
-  "2022-04-21": 368,
-  "2022-04-22": 368,
-  "2022-04-23": 368,
-  "2022-04-24": 368,
-  "2022-04-25": 368,
-  "2022-04-26": 368,
-  "2022-04-27": 368,
-  "2022-04-28": 368,
-  "2022-04-29": 368,
-  "2022-04-30": 368,
-  "2022-05-01": 368,
-  "2022-05-02": 368,
-  "2022-05-03": 368,
-  "2022-05-04": 368,
-  "2022-05-05": 368,
-  "2022-05-06": 368,
-  "2022-05-07": 368,
-  "2022-05-08": 368,
-  "2022-05-09": 368,
-  "2022-05-10": 368,
-  "2022-05-11": 368,
-  "2022-05-12": 368,
-  "2022-05-13": 368,
-  "2022-05-14": 368,
-  "2022-05-15": 369,
-  "2022-05-16": 369,
-  "2022-05-17": 369,
-  "2022-05-18": 369,
-  "2022-05-19": 369,
-  "2022-05-20": 369,
-  "2022-05-21": 368,
-  "2022-05-22": 368,
-  "2022-05-23": 368,
-  "2022-05-24": 368,
-  "2022-05-25": 368,
-  "2022-05-26": 368,
-  "2022-05-27": 368,
-  "2022-05-28": 368,
-  "2022-05-29": 368,
-  "2022-05-30": 368,
-  "2022-05-31": 368,
-  "2022-06-01": 368,
-  "2022-06-02": 368,
-  "2022-06-03": 368,
-  "2022-06-04": 368,
-  "2022-06-05": 368,
-  "2022-06-06": 368,
-  "2022-06-07": 368,
-  "2022-06-08": 368,
-  "2022-06-09": 368,
-  "2022-06-10": 368,
-  "2022-06-11": 368,
-  "2022-06-12": 368,
-  "2022-06-13": 368,
-  "2022-06-14": 368,
-  "2022-06-15": 368,
-  "2022-06-16": 368,
-  "2022-06-17": 368,
-  "2022-06-18": 368,
-  "2022-06-19": 368,
-  "2022-06-20": 368,
-  "2022-06-21": 368,
-  "2022-06-22": 368,
-  "2022-06-23": 368,
-  "2022-06-24": 368,
-  "2022-06-25": 368,
-  "2022-06-26": 368,
-  "2022-06-27": 368,
-  "2022-06-28": 368,
-  "2022-06-29": 368,
-  "2022-06-30": 368,
-  "2022-07-01": 368,
-  "2022-07-02": 368,
-  "2022-07-03": 368,
-  "2022-07-04": 368,
-  "2022-07-05": 368,
-  "2022-07-06": 368,
-  "2022-07-07": 368,
-  "2022-07-08": 368,
-  "2022-07-09": 368,
-  "2022-07-10": 368,
-  "2022-07-11": 368,
-  "2022-07-12": 368,
-  "2022-07-13": 368,
-  "2022-07-14": 368,
-  "2022-07-15": 368,
-  "2022-07-16": 368,
-  "2022-07-17": 368,
-  "2022-07-18": 368,
-  "2022-07-19": 368,
-  "2022-07-20": 368,
-  "2022-07-21": 368,
-  "2022-07-22": 368,
-  "2022-07-23": 368,
-  "2022-07-24": 368,
-  "2022-07-25": 368,
-  "2022-07-26": 368,
-  "2022-07-27": 368,
-  "2022-07-28": 368,
-  "2022-07-29": 368,
-  "2022-07-30": 368,
-  "2022-07-31": 368,
-  "2022-08-01": 368,
-  "2022-08-02": 368,
-  "2022-08-03": 368,
-  "2022-08-04": 368,
-  "2022-08-05": 368,
-  "2022-08-06": 368,
-  "2022-08-07": 368,
-  "2022-08-08": 368,
-  "2022-08-09": 367,
-  "2022-08-10": 367,
-  "2022-08-11": 367,
-  "2022-08-12": 367,
-  "2022-08-13": 367,
-  "2022-08-14": 367,
-  "2022-08-15": 367,
-  "2022-08-16": 367,
-  "2022-08-17": 367,
-  "2022-08-18": 367,
-  "2022-08-19": 367,
-  "2022-08-20": 367,
-  "2022-08-21": 367,
-  "2022-08-22": 367,
-  "2022-08-23": 367,
-  "2022-08-24": 367,
-  "2022-08-25": 367,
-  "2022-08-26": 367,
-  "2022-08-27": 367,
-  "2022-08-28": 367,
-  "2022-08-29": 367,
-  "2022-08-30": 367,
-  "2022-08-31": 366,
-  "2022-09-01": 366,
-  "2022-09-02": 366,
-  "2022-09-03": 366,
-  "2022-09-04": 366,
-  "2022-09-05": 366,
-  "2022-09-06": 366,
-  "2022-09-07": 366,
-  "2022-09-09": 366,
-  "2022-09-10": 366,
-  "2022-09-11": 366,
-  "2022-09-12": 366,
-  "2022-09-13": 366,
-  "2022-09-15": 366,
-  "2022-09-16": 366,
-  "2022-09-17": 366,
-  "2022-09-18": 366,
-  "2022-09-19": 366,
-  "2022-09-20": 366,
-  "2022-09-21": 366,
-  "2022-09-22": 366,
-  "2022-09-23": 366,
-  "2022-09-24": 366,
-  "2022-09-25": 366,
-  "2022-09-26": 366,
-  "2022-09-27": 366,
-  "2022-09-28": 366,
-  "2022-09-29": 366,
-  "2022-09-30": 366,
-  "2022-10-01": 366,
-  "2022-10-02": 366,
-  "2022-10-03": 366,
-  "2022-10-04": 366,
-  "2022-10-05": 366,
-  "2022-10-06": 366,
-  "2022-10-07": 366,
-  "2022-10-08": 366,
-  "2022-10-09": 366,
-  "2022-10-10": 366,
-  "2022-10-11": 366,
-  "2022-10-12": 366,
-  "2022-10-13": 366,
-  "2022-10-14": 366,
-  "2022-10-15": 366,
-  "2022-10-16": 366,
-  "2022-10-17": 366,
-  "2022-10-18": 366,
-  "2022-10-19": 366,
-  "2022-10-20": 366,
-  "2022-10-21": 366,
-  "2022-10-22": 366,
-  "2022-10-23": 366,
-  "2022-10-24": 366,
-  "2022-10-25": 366,
-  "2022-10-26": 366,
-  "2022-10-27": 366,
-  "2022-10-28": 366,
-  "2022-10-29": 366,
-  "2022-10-30": 366,
-  "2022-10-31": 366,
-  "2022-11-01": 365,
-  "2022-11-02": 365,
-  "2022-11-03": 365,
-  "2022-11-04": 366,
-  "2022-11-05": 366,
-  "2022-11-06": 366,
-  "2022-11-07": 366,
-  "2022-11-08": 367,
-  "2022-11-09": 367,
-  "2022-11-10": 375,
-  "2022-11-11": 378,
-  "2022-11-12": 378,
-  "2022-11-13": 378,
-  "2022-11-14": 378,
-  "2022-11-15": 378,
-  "2022-11-16": 378,
-  "2022-11-17": 378,
-  "2022-11-18": 378,
-  "2022-11-19": 378,
-  "2022-11-20": 371,
-  "2022-11-21": 370,
-  "2022-11-22": 369,
-  "2022-11-23": 369,
-  "2022-11-24": 368,
-  "2022-11-25": 367,
-  "2022-11-26": 367,
-  "2022-11-27": 365,
-  "2022-11-28": 365,
-  "2022-11-29": 365,
-  "2022-11-30": 365,
-  "2022-12-01": 365,
-  "2022-12-02": 365,
-  "2022-12-03": 365,
-  "2022-12-04": 365,
-  "2022-12-05": 365,
-  "2022-12-06": 365,
-  "2022-12-07": 365,
-  "2022-12-08": 365,
-  "2022-12-09": 365,
-  "2022-12-10": 365,
-  "2022-12-11": 365,
-  "2022-12-12": 365,
-  "2022-12-13": 365,
-  "2022-12-14": 365,
-  "2022-12-15": 365,
-  "2022-12-16": 365,
-  "2022-12-17": 365,
-  "2022-12-18": 365,
-  "2022-12-19": 365,
-  "2022-12-20": 365,
-  "2022-12-21": 365,
-  "2022-12-22": 365,
-  "2022-12-24": 365,
-  "2022-12-25": 365,
-  "2022-12-26": 365,
-  "2022-12-27": 365,
-  "2022-12-28": 365,
-  "2022-12-29": 365,
-  "2022-12-30": 365,
-  "2022-12-31": 365,
-  "2023-01-01": 365,
-  "2023-01-02": 365,
-  "2023-01-03": 365,
-  "2023-01-04": 365,
-  "2023-01-05": 365,
-  "2023-01-06": 364,
-  "2023-01-07": 364,
-  "2023-01-08": 364,
-  "2023-01-09": 364,
-  "2023-01-10": 364,
-  "2023-01-11": 364,
-  "2023-01-12": 364,
-  "2023-01-13": 364,
-  "2023-01-14": 364,
-  "2023-01-15": 364,
-  "2023-01-16": 364,
-  "2023-01-17": 364,
-  "2023-01-18": 364,
-  "2023-01-19": 364,
-  "2023-01-20": 364,
-  "2023-01-21": 364,
-  "2023-01-22": 364,
-  "2023-01-23": 364,
-  "2023-01-24": 364,
-  "2023-01-25": 364,
-  "2023-01-26": 363,
-  "2023-01-27": 363,
-  "2023-01-28": 363,
-  "2023-01-29": 363,
-  "2023-01-30": 363,
-  "2023-01-31": 363,
-  "2023-02-01": 363,
-  "2023-02-02": 363,
-  "2023-02-03": 363,
-  "2023-02-04": 363,
-  "2023-02-05": 363,
-  "2023-02-06": 363,
-  "2023-02-07": 363,
-  "2023-02-08": 363,
-  "2023-02-09": 363,
-  "2023-02-10": 363,
-  "2023-02-11": 363,
-  "2023-02-12": 363,
-  "2023-02-13": 363,
-  "2023-02-14": 363,
-  "2023-02-15": 363,
-  "2023-02-16": 363,
-  "2023-02-17": 363,
-  "2023-02-18": 363,
-  "2023-02-19": 363,
-  "2023-02-20": 363,
-  "2023-02-21": 363,
-  "2023-02-22": 363,
-  "2023-02-23": 363,
-  "2023-02-24": 363,
-  "2023-02-25": 363,
-  "2023-02-26": 363,
-  "2023-02-27": 363,
-  "2023-02-28": 363,
-  "2023-03-01": 363,
-  "2023-03-02": 363,
-  "2023-03-03": 363,
-  "2023-03-04": 363,
-  "2023-03-05": 362,
-  "2023-03-06": 362,
-  "2023-03-07": 362,
-  "2023-03-08": 362,
-  "2023-03-09": 362,
-  "2023-03-10": 362,
-  "2023-03-11": 362,
-  "2023-03-12": 362,
-  "2023-03-13": 362,
-  "2023-03-14": 362,
-  "2023-03-15": 362,
-  "2023-03-16": 362,
-  "2023-03-17": 362,
-  "2023-03-18": 362,
-  "2023-03-19": 362,
-  "2023-03-20": 362,
-  "2023-03-21": 362,
-  "2023-03-22": 362,
-  "2023-03-23": 362,
-  "2023-03-24": 362,
-  "2023-03-25": 362,
-  "2023-03-26": 362,
-  "2023-03-27": 362,
-  "2023-03-28": 362,
-  "2023-03-29": 362,
-  "2023-03-30": 362,
-  "2023-03-31": 362,
-  "2023-04-01": 362,
-  "2023-04-02": 362,
-  "2023-04-03": 362,
-  "2023-04-04": 362,
-  "2023-04-05": 362,
-  "2023-04-06": 362,
-  "2023-04-07": 362,
-  "2023-04-09": 362,
-  "2023-04-10": 362,
-  "2023-04-11": 362,
-  "2023-04-12": 362,
-  "2023-04-13": 362,
-  "2023-04-14": 362,
-  "2023-04-15": 362,
-  "2023-04-16": 362,
-  "2023-04-17": 362,
-  "2023-04-18": 362,
-  "2023-04-19": 362,
-  "2023-04-20": 362,
-  "2023-04-21": 362,
-  "2023-04-22": 362,
-  "2023-04-23": 362,
-  "2023-04-24": 362,
-  "2023-04-25": 362,
-  "2023-04-26": 362,
-  "2023-04-27": 362,
-  "2023-04-28": 362,
-  "2023-04-29": 362,
-  "2023-04-30": 362,
-  "2023-05-01": 362,
-  "2023-05-02": 362,
-  "2023-05-03": 362,
-  "2023-05-04": 362,
-  "2023-05-05": 362,
-  "2023-05-06": 362,
-  "2023-05-07": 362,
-  "2023-05-08": 362,
-  "2023-05-09": 362,
-  "2023-05-10": 362,
-  "2023-05-11": 362,
-  "2023-05-12": 362,
-  "2023-05-13": 362,
-  "2023-05-14": 362,
-  "2023-05-15": 362,
-  "2023-05-16": 362,
-  "2023-05-17": 362,
-  "2023-05-18": 362,
-  "2023-05-19": 362,
-  "2023-05-20": 362,
-  "2023-05-21": 362,
-  "2023-05-22": 362,
-  "2023-05-23": 362,
-  "2023-05-24": 362,
-  "2023-05-25": 362,
-  "2023-05-26": 362,
-  "2023-05-27": 362,
-  "2023-05-28": 362,
-  "2023-05-29": 362,
-  "2023-05-30": 362,
-  "2023-05-31": 362,
-  "2023-06-01": 362,
-  "2023-06-02": 362,
-  "2023-06-03": 362,
-  "2023-06-04": 362,
-  "2023-06-05": 362,
-  "2023-06-06": 362,
-  "2023-06-07": 362,
-  "2023-06-08": 362,
-  "2023-06-09": 362,
-  "2023-06-10": 362,
-  "2023-06-11": 362,
-  "2023-06-12": 362,
-  "2023-06-13": 362,
-  "2023-06-14": 362,
-  "2023-06-15": 362,
-  "2023-06-16": 361,
-  "2023-06-17": 361,
-  "2023-06-18": 361,
-  "2023-06-19": 361,
-  "2023-06-20": 361,
-  "2023-06-21": 361,
-  "2023-06-22": 361,
-  "2023-06-23": 361,
-  "2023-06-24": 361,
-  "2023-06-25": 361,
-  "2023-06-26": 361,
-  "2023-06-27": 362,
-  "2023-06-28": 362,
-  "2023-06-29": 362,
-  "2023-06-30": 362,
-  "2023-07-01": 362,
-  "2023-07-02": 362,
-  "2023-07-03": 362,
-  "2023-07-04": 362,
-  "2023-07-05": 362,
-  "2023-07-06": 362,
-  "2023-07-07": 362,
-  "2023-07-08": 362,
-  "2023-07-09": 361,
-  "2023-07-10": 361,
-  "2023-07-11": 361,
-  "2023-07-12": 361,
-  "2023-07-13": 361,
-  "2023-07-14": 361,
-  "2023-07-15": 361,
-  "2023-07-16": 361,
-  "2023-07-17": 361,
-  "2023-07-18": 361,
-  "2023-07-19": 361,
-  "2023-07-20": 361,
-  "2023-07-21": 361,
-  "2023-07-22": 361,
-  "2023-07-23": 361,
-  "2023-07-24": 361,
-  "2023-07-25": 361,
-  "2023-07-26": 361,
-  "2023-07-27": 361,
-  "2023-07-28": 361,
-  "2023-07-29": 361,
-  "2023-07-30": 361,
-  "2023-07-31": 361,
-  "2023-08-01": 361,
-  "2023-08-02": 361,
-  "2023-08-03": 361,
-  "2023-08-04": 361,
-  "2023-08-05": 361,
-  "2023-08-06": 361,
-  "2023-08-07": 361,
-  "2023-08-08": 361,
-  "2023-08-09": 360,
-  "2023-08-10": 360,
-  "2023-08-11": 360,
-  "2023-08-12": 360,
-  "2023-08-13": 360,
-  "2023-08-14": 360,
-  "2023-08-15": 360,
-  "2023-08-16": 360,
-  "2023-08-17": 360,
-  "2023-08-18": 360,
-  "2023-08-19": 360,
-  "2023-08-20": 360,
-  "2023-08-21": 360,
-  "2023-08-22": 360,
-  "2023-08-23": 360,
-  "2023-08-24": 360,
-  "2023-08-25": 360,
-  "2023-08-26": 360,
-  "2023-08-27": 360,
-  "2023-08-28": 360,
-  "2023-08-29": 360,
-  "2023-08-30": 360,
-  "2023-08-31": 360,
-  "2023-09-01": 360,
-  "2023-09-02": 360,
-  "2023-09-03": 360,
-  "2023-09-04": 360,
-  "2023-09-05": 360,
-  "2023-09-06": 360,
-  "2023-09-07": 360,
-  "2023-09-08": 360,
-  "2023-09-09": 360,
-  "2023-09-10": 360,
-  "2023-09-11": 360,
-  "2023-09-12": 360,
-  "2023-09-13": 360,
-  "2023-09-14": 360,
-  "2023-09-15": 360,
-  "2023-09-16": 360,
-  "2023-09-17": 360,
-  "2023-09-18": 360,
-  "2023-09-19": 360,
-  "2023-09-20": 360,
-  "2023-09-21": 360,
-  "2023-09-22": 360,
-  "2023-09-23": 359,
-  "2023-09-24": 359,
-  "2023-09-25": 359,
-  "2023-09-26": 359,
-  "2023-09-27": 359,
-  "2023-09-28": 359,
-  "2023-09-29": 359,
-  "2023-09-30": 359,
-  "2023-10-01": 359,
-  "2023-10-02": 359,
-  "2023-10-03": 359,
-  "2023-10-04": 359,
-  "2023-10-05": 359,
-  "2023-10-06": 359,
-  "2023-10-07": 359,
-  "2023-10-08": 359,
-  "2023-10-09": 359,
-  "2023-10-10": 358,
-  "2023-10-11": 356,
-  "2023-10-12": 356,
-  "2023-10-13": 356,
-  "2023-10-14": 355,
-  "2023-10-15": 355,
-  "2023-10-16": 355,
-  "2023-10-17": 355,
-  "2023-10-18": 355,
-  "2023-10-19": 355,
-  "2023-10-20": 355,
-  "2023-10-21": 355,
-  "2023-10-22": 355,
-  "2023-10-23": 355,
-  "2023-10-24": 355,
-  "2023-10-25": 355,
-  "2023-10-26": 355,
-  "2023-10-27": 355,
-  "2023-10-28": 355,
-  "2023-10-29": 355,
-  "2023-10-30": 355,
-  "2023-10-31": 355,
-  "2023-11-01": 355,
-  "2023-11-02": 355,
-  "2023-11-03": 355,
-  "2023-11-04": 355,
-  "2023-11-05": 355,
-  "2023-11-06": 355,
-  "2023-11-07": 355,
-  "2023-11-08": 355,
-  "2023-11-09": 355,
-  "2023-11-10": 355,
-  "2023-11-11": 355,
-  "2023-11-12": 355,
-  "2023-11-13": 355,
-  "2023-11-14": 355,
-  "2023-11-15": 355,
-  "2023-11-16": 355,
-  "2023-11-17": 355,
-  "2023-11-18": 355,
-  "2023-11-19": 355,
-  "2023-11-20": 355,
-  "2023-11-21": 355,
-  "2023-11-22": 355,
-  "2023-11-23": 355,
-  "2023-11-24": 355,
-  "2023-11-25": 355,
-  "2023-11-26": 355,
-  "2023-11-27": 355,
-  "2023-11-28": 355,
-  "2023-11-29": 355,
-  "2023-11-30": 355,
-  "2023-12-01": 355,
-  "2023-12-02": 355,
-  "2023-12-03": 355,
-  "2023-12-04": 355,
-  "2023-12-05": 355,
-  "2023-12-06": 355,
-  "2023-12-07": 355,
-  "2023-12-08": 355,
-  "2023-12-09": 355,
-  "2023-12-10": 355,
-  "2023-12-11": 355,
-  "2023-12-12": 355,
-  "2023-12-13": 355,
-  "2023-12-14": 355,
-  "2023-12-15": 355,
-  "2023-12-16": 355,
-  "2023-12-17": 355,
-  "2023-12-18": 355,
-  "2023-12-19": 355,
-  "2023-12-20": 355,
-  "2023-12-21": 355,
-  "2023-12-22": 355,
-  "2023-12-23": 355,
-  "2023-12-24": 355,
-  "2023-12-25": 355,
-  "2023-12-26": 355,
-  "2023-12-27": 355,
-  "2023-12-30": 355,
-  "2023-12-31": 355,
-  "2024-01-01": 355,
-  "2024-01-02": 354,
-  "2024-01-03": 354
+  "2024-01-17": 351,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "1978",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mythology",
+        "url": "https://open.spotify.com/album/1ePV6K6qtvsn7kUPMwqaWJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "[Love Is] Thicker Than Water",
+      "url": "https://open.spotify.com/track/7h7NbGtEGRg1auT9ye7mXg"
+    },
+    {
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/763ij65YKUzcf8Y7vdV8qH"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "An Everlasting Love",
+      "url": "https://open.spotify.com/track/0vWyvJEU20cIlFzUTlGZZc"
+    },
+    {
+      "album": {
+        "name": "The Best Of Player: Baby Come Back",
+        "url": "https://open.spotify.com/album/0Jd20cTh3EfVzFQn8GSO9Y"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/2bwYGPDCC31QTdFca1mQRh"
+    },
+    {
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "album": {
+        "name": "A Taste Of Honey",
+        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
+      },
+      "artists": [
+        {
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338320,
+      "name": "Boogie Oogie Oogie - Remastered 2004",
+      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
+      "album": {
+        "name": "The Essential Barry Manilow",
+        "url": "https://open.spotify.com/album/2RIG6dV498CqdszzYfZYgA"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Can't Smile Without You",
+      "url": "https://open.spotify.com/track/39E9wHDDmHgKJt8yWWgRjT"
+    },
+    {
+      "album": {
+        "name": "The Essentials: Betty Wright",
+        "url": "https://open.spotify.com/album/5hWEUNz3lwNFyfhG82gqXC"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright & Peter Brown",
+          "url": "https://open.spotify.com/artist/4cRKPKk2z5Lzobgz1GKcIV"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2mKJOxhHIcQjr14YpmW2aj"
+    },
+    {
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
+    },
+    {
+      "album": {
+        "name": "The Best Of Kansas",
+        "url": "https://open.spotify.com/album/3eLtE3HWyUWQbO2CYFKkwO"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Dust in the Wind",
+      "url": "https://open.spotify.com/track/4E0lSJ6c5unoku9UIZoJSl"
+    },
+    {
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/4scN0SoJ3l2MvPcG1zKj3G"
+      },
+      "artists": [
+        {
+          "name": "Samantha Sang",
+          "url": "https://open.spotify.com/artist/1IvJtmPLbzpxDxfrw4rMFa"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/4VysuZmoPFPQuym9vYK3vM"
+    },
+    {
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/76557RkF1B5ZJW6fS2EObn"
+      },
+      "artists": [
+        {
+          "name": "Chuck Mangione",
+          "url": "https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582733,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/5wivDKfpKvohlwWjxAuAOn"
+    },
+    {
+      "album": {
+        "name": "Goodbye Girl",
+        "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
+      },
+      "artists": [
+        {
+          "name": "David Gates",
+          "url": "https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Goodbye Girl",
+      "url": "https://open.spotify.com/track/3c6vdiLeV9DUbTMWk5H3se"
+    },
+    {
+      "album": {
+        "name": "Grease",
+        "url": "https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Grease",
+      "url": "https://open.spotify.com/track/74t6ZmO6Vzq553l2zRgdhs"
+    },
+    {
+      "album": {
+        "name": "Back To Basics: The Essential Collection 1971-1992",
+        "url": "https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Hopelessly Devoted To You",
+      "url": "https://open.spotify.com/track/4ffryesggmTUgxvsD90msA"
+    },
+    {
+      "album": {
+        "name": "Double Vision (Expanded)",
+        "url": "https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "Hot Blooded",
+      "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
+    },
+    {
+      "album": {
+        "name": "Hot Child In The City",
+        "url": "https://open.spotify.com/album/6ndJxKyXX7qUDW0c5p4d1o"
+      },
+      "artists": [
+        {
+          "name": "Nick Gilder",
+          "url": "https://open.spotify.com/artist/2kzcxYyQIRbwtkwVtj48mG"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Hot Child In The City",
+      "url": "https://open.spotify.com/track/69eihm0ByPDKtOnZ2B9mA7"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Fever [The Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)",
+      "url": "https://open.spotify.com/track/1gIKd24bixkgYzuxse32oR"
+    },
+    {
+      "album": {
+        "name": "Paul Davis Greatest Hits",
+        "url": "https://open.spotify.com/album/6FTbmoGyMvyTtJnmL6Dh41"
+      },
+      "artists": [
+        {
+          "name": "Paul Davis",
+          "url": "https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/5qZNMsjtZwB02g4oQnHXWf"
+    },
+    {
+      "album": {
+        "name": "The Best Of Yvonne Elliman",
+        "url": "https://open.spotify.com/album/0AzxFeB4qg0FXpmXTDuyDj"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Elliman",
+          "url": "https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180160,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/7164hL7CyOYRHb7kd9wHtd"
+      },
+      "artists": [
+        {
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332323,
+      "name": "Imaginary Lover - Rerecorded",
+      "url": "https://open.spotify.com/track/1aS6ab6EJRJXctFnt55Jkb"
+    },
+    {
+      "album": {
+        "name": "It's A Heartache",
+        "url": "https://open.spotify.com/album/1zBLR1gBfR7jwJUeSnm7QG"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "It's A Heartache",
+      "url": "https://open.spotify.com/track/1noADETgR8OFyvszD3sI0n"
+    },
+    {
+      "album": {
+        "name": "Raydio",
+        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
+      },
+      "artists": [
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275666,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
+    },
+    {
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/06RdYCp0UxsBtWsonHfSZz"
+    },
+    {
+      "album": {
+        "name": "The Best Of Exile",
+        "url": "https://open.spotify.com/album/7dRytorMxWvkpwf0Hx6ZKK"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297333,
+      "name": "Kiss You All Over",
+      "url": "https://open.spotify.com/track/22tE4KeWpg4R7REusR84eO"
+    },
+    {
+      "album": {
+        "name": "The Journey: The Very Best Of Donna Summer",
+        "url": "https://open.spotify.com/album/6xeTCiThDHUeCjBM7KxHtr"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "Last Dance - Single Version",
+      "url": "https://open.spotify.com/track/0xBUip8pf80321XF6jDYqx"
+    },
+    {
+      "album": {
+        "name": "Slowhand (Remasters)",
+        "url": "https://open.spotify.com/album/1CHN1KX7fySkOFQlvhxuVR"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Lay Down Sally",
+      "url": "https://open.spotify.com/track/7gATKlmWuNh3ThrDUiuWec"
+    },
+    {
+      "album": {
+        "name": "Best Of Sweet",
+        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Love Is Like Oxygen",
+      "url": "https://open.spotify.com/track/58gcsPyG1xsD4uNtDiMC4c"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Pablo Cruise",
+        "url": "https://open.spotify.com/album/09jxC4cmWYXuecx9kcJP2o"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cruise",
+          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Love Will Find A Way",
+      "url": "https://open.spotify.com/track/4W6NUHZbRYc8etCGKGNLz3"
+    },
+    {
+      "album": {
+        "name": "Radio Hits Of the '70s",
+        "url": "https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG"
+      },
+      "artists": [
+        {
+          "name": "Walter Egan",
+          "url": "https://open.spotify.com/artist/3jaS8HCylkZ3YKhn5t20DU"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Magnet and Steel",
+      "url": "https://open.spotify.com/track/2u02gyZqCqOvemiSk8DNyk"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones Singles Box Set (1971-2006)",
+        "url": "https://open.spotify.com/album/0jeb7d3wCAf4K9bi3DKHzd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/19guNngQSHXAqoZ1iLFKZ0"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "Night Fever - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/0ZFJpY6hELA21Y5d5YmdlR"
+    },
+    {
+      "album": {
+        "name": "I've Got Love On My Mind",
+        "url": "https://open.spotify.com/album/3oemKJbPNMyWwJEgOpnqu8"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322933,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/6KyGeBEPvXbZ8tPRSkRdOY"
+    },
+    {
+      "album": {
+        "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/763ij65YKUzcf8Y7vdV8qH"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Shadow Dancing",
+      "url": "https://open.spotify.com/track/2t8KVbAZLVybye9wZJusTp"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Randy Newman",
+        "url": "https://open.spotify.com/album/2etmWc9m7xE9OBoujYfjOz"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "Short People",
+      "url": "https://open.spotify.com/track/6emIUUgOV0lPgUYbJ1RZ7I"
+    },
+    {
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285053,
+      "name": "Slip Slidin' Away",
+      "url": "https://open.spotify.com/track/0zb2kpEQMnqJPiLACKMiFM"
+    },
+    {
+      "album": {
+        "name": "Longer Fuse",
+        "url": "https://open.spotify.com/album/2oBnfhXy78UkPb94PeERgw"
+      },
+      "artists": [
+        {
+          "name": "Dan Hill",
+          "url": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Sometimes When We Touch",
+      "url": "https://open.spotify.com/track/0qUNXZL3rzJ8cXM2DCmQcU"
+    },
+    {
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285200,
+      "name": "Stayin' Alive - Remastered Version",
+      "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Abba",
+        "url": "https://open.spotify.com/album/6xB2wi9d4JhnhDpspbqFHe"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/4qzlufbzRNF9oHcN9nDxED"
+    },
+    {
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "The Closer I Get to You",
+      "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
+    },
+    {
+      "album": {
+        "name": "Central Heating",
+        "url": "https://open.spotify.com/album/6rw9lTD7lD1pudYZmser7L"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "The Groove Line",
+      "url": "https://open.spotify.com/track/0QX4u1gl2VZ6HKShy7BWEn"
+    },
+    {
+      "album": {
+        "name": "The Commodores Anthology",
+        "url": "https://open.spotify.com/album/14nSJs3okLuuhGsYCpdcQM"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399626,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/6QdEjUUKxXf6jWGEQUaq8i"
+    },
+    {
+      "album": {
+        "name": "Thunder Island",
+        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
+      },
+      "artists": [
+        {
+          "name": "Jay Ferguson",
+          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Thunder Island",
+      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Too Much, Too Little, Too Late (with Deniece Williams)",
+      "url": "https://open.spotify.com/track/7c8tlriQMBusKSsXMg8fHm"
+    },
+    {
+      "album": {
+        "name": "Discover Meat Loaf",
+        "url": "https://open.spotify.com/album/6wXu0GgQbnt3M7zaym5prE"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323933,
+      "name": "Two Out Of Three Ain't Bad",
+      "url": "https://open.spotify.com/track/0K0I8IUxoUQAdHFwCgjMEc"
+    },
+    {
+      "album": {
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4j5o27CHLTTP0bjeT2jkeP"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Use ta Be My Girl",
+      "url": "https://open.spotify.com/track/7EjdrZbFpBP2lIKT5zL7gT"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "We Are The Champions",
+      "url": "https://open.spotify.com/track/0z0gqCUMdkydEttZmKze1h"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2vDNi8F9UpSCaBHeKQ3nzh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122106,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/0z4ZkIPi5VXJksMtd18seX"
+    },
+    {
+      "album": {
+        "name": "London Town",
+        "url": "https://open.spotify.com/album/5zh2BzO2n6tSpZe0PgZc8v"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344773,
+      "name": "With A Little Luck - Remastered 1993",
+      "url": "https://open.spotify.com/track/73JqQIGZUZxCVfY54RSpCH"
+    },
+    {
+      "album": {
+        "name": "The Best Of Debby Boone",
+        "url": "https://open.spotify.com/album/4ZyHgrMk5iWM0b6mwFpLK9"
+      },
+      "artists": [
+        {
+          "name": "Debby Boone",
+          "url": "https://open.spotify.com/artist/1UkHCANZmdkKyVNvTLMrcJ"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/7yjAL13BeIaT9BKJZBy8b1"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Rod Stewart",
+        "url": "https://open.spotify.com/album/05Jdpw1EnrGoJyw5xgPIx9"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270960,
+      "name": "You're in My Heart (The Final Acclaim)",
+      "url": "https://open.spotify.com/track/1lsAJKTZGQrKBhNVMZhZtq"
+    },
+    {
+      "album": {
+        "name": "Back To Basics: The Essential Collection 1971-1992",
+        "url": "https://open.spotify.com/album/2oakCvKsiK8NqZvvlEzmn4"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2013-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/5k611PjxiTgNqt4FVr033f"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/05dTMGk8MjnpQg3bKuoXcc"
 }

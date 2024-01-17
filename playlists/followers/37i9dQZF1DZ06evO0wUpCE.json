@@ -1,148 +1,1091 @@
 {
-  "2023-08-09": 439364,
-  "2023-08-10": 439539,
-  "2023-08-11": 439777,
-  "2023-08-12": 439777,
-  "2023-08-13": 439777,
-  "2023-08-14": 440600,
-  "2023-08-15": 440600,
-  "2023-08-16": 440600,
-  "2023-08-17": 441200,
-  "2023-08-18": 441200,
-  "2023-08-19": 441749,
-  "2023-08-20": 442113,
-  "2023-08-21": 442113,
-  "2023-08-22": 442611,
-  "2023-08-23": 442611,
-  "2023-08-24": 443098,
-  "2023-08-25": 443098,
-  "2023-08-26": 443622,
-  "2023-08-27": 443622,
-  "2023-08-28": 444111,
-  "2023-08-29": 444111,
-  "2023-08-30": 444111,
-  "2023-08-31": 444717,
-  "2023-09-01": 445160,
-  "2023-09-02": 445160,
-  "2023-09-03": 445402,
-  "2023-09-04": 445402,
-  "2023-09-05": 445402,
-  "2023-09-06": 445966,
-  "2023-09-07": 445966,
-  "2023-09-08": 445966,
-  "2023-09-09": 445966,
-  "2023-09-10": 447007,
-  "2023-09-11": 447229,
-  "2023-09-12": 447229,
-  "2023-09-13": 447649,
-  "2023-09-14": 447649,
-  "2023-09-15": 447649,
-  "2023-09-16": 448386,
-  "2023-09-17": 448386,
-  "2023-09-18": 448386,
-  "2023-09-19": 448964,
-  "2023-09-20": 448964,
-  "2023-09-21": 448964,
-  "2023-09-22": 449417,
-  "2023-09-23": 449417,
-  "2023-09-24": 449417,
-  "2023-09-25": 449417,
-  "2023-09-26": 450218,
-  "2023-09-27": 450218,
-  "2023-09-28": 450218,
-  "2023-09-29": 450218,
-  "2023-09-30": 450218,
-  "2023-10-01": 450218,
-  "2023-10-02": 451104,
-  "2023-10-03": 451104,
-  "2023-10-04": 451104,
-  "2023-10-05": 451627,
-  "2023-10-06": 451872,
-  "2023-10-07": 451872,
-  "2023-10-08": 451872,
-  "2023-10-09": 451872,
-  "2023-10-10": 451872,
-  "2023-10-11": 452611,
-  "2023-10-12": 452611,
-  "2023-10-13": 452611,
-  "2023-10-14": 452611,
-  "2023-10-15": 452611,
-  "2023-10-16": 452611,
-  "2023-10-17": 452611,
-  "2023-10-18": 452611,
-  "2023-10-19": 452611,
-  "2023-10-20": 452611,
-  "2023-10-21": 452611,
-  "2023-10-22": 452611,
-  "2023-10-23": 452611,
-  "2023-10-24": 452611,
-  "2023-10-25": 452611,
-  "2023-10-26": 452611,
-  "2023-10-27": 452611,
-  "2023-10-28": 452611,
-  "2023-10-29": 452611,
-  "2023-10-30": 452611,
-  "2023-10-31": 452611,
-  "2023-11-01": 452611,
-  "2023-11-02": 452611,
-  "2023-11-03": 452611,
-  "2023-11-04": 452611,
-  "2023-11-05": 452611,
-  "2023-11-06": 452611,
-  "2023-11-07": 452611,
-  "2023-11-08": 452611,
-  "2023-11-09": 452611,
-  "2023-11-10": 452611,
-  "2023-11-11": 457959,
-  "2023-11-12": 457959,
-  "2023-11-13": 457959,
-  "2023-11-14": 457959,
-  "2023-11-15": 457959,
-  "2023-11-16": 457959,
-  "2023-11-17": 457959,
-  "2023-11-18": 457959,
-  "2023-11-19": 457959,
-  "2023-11-20": 457959,
-  "2023-11-21": 457959,
-  "2023-11-22": 457959,
-  "2023-11-23": 457959,
-  "2023-11-24": 457959,
-  "2023-11-25": 457959,
-  "2023-11-26": 457959,
-  "2023-11-27": 457959,
-  "2023-11-28": 457959,
-  "2023-11-29": 457959,
-  "2023-11-30": 457959,
-  "2023-12-01": 457959,
-  "2023-12-02": 457959,
-  "2023-12-03": 457959,
-  "2023-12-04": 457959,
-  "2023-12-05": 457959,
-  "2023-12-06": 457959,
-  "2023-12-07": 457959,
-  "2023-12-08": 457959,
-  "2023-12-09": 457959,
-  "2023-12-10": 457959,
-  "2023-12-11": 457959,
-  "2023-12-12": 457959,
-  "2023-12-13": 457959,
-  "2023-12-14": 463906,
-  "2023-12-15": 464011,
-  "2023-12-16": 464166,
-  "2023-12-17": 464313,
-  "2023-12-18": 464457,
-  "2023-12-19": 464566,
-  "2023-12-20": 464734,
-  "2023-12-21": 464885,
-  "2023-12-22": 465044,
-  "2023-12-23": 465243,
-  "2023-12-24": 465437,
-  "2023-12-25": 465563,
-  "2023-12-26": 465697,
-  "2023-12-27": 465824,
-  "2023-12-30": 466241,
-  "2023-12-31": 466416,
-  "2024-01-01": 466568,
-  "2024-01-02": 466683,
-  "2024-01-03": 466767
+  "2024-01-17": 468000,
+  "date_first_scraped": "2023-08-09",
+  "description": "This is Intocable. The essential tracks, all in one playlist.",
+  "name": "This Is Intocable",
+  "tracks": [
+    {
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/1a8vNLzmwmy31iCT45MNkF"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249413,
+      "name": "Alguien Te Va A Hacer Llorar",
+      "url": "https://open.spotify.com/track/1OYoXMNCUYlpDyMONw2sNc"
+    },
+    {
+      "album": {
+        "name": "Intocable",
+        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Amor Maldito",
+      "url": "https://open.spotify.com/track/2awJPHamaNQY8a1davj5k4"
+    },
+    {
+      "album": {
+        "name": "2011",
+        "url": "https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200520,
+      "name": "Arrepi\u00e9ntete",
+      "url": "https://open.spotify.com/track/7fgDFGjD68J5EjoqOwdiMg"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
+    },
+    {
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 217253,
+      "name": "Basto",
+      "url": "https://open.spotify.com/track/6DtgjNnFU73SoLXh5teMhn"
+    },
+    {
+      "album": {
+        "name": "Crossroads: Cruce De Caminos",
+        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Basto",
+      "url": "https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21"
+    },
+    {
+      "album": {
+        "name": "XX Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Cajita De Cart\u00f3n - bonus track",
+      "url": "https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR"
+    },
+    {
+      "album": {
+        "name": "2C",
+        "url": "https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Como Te Atreves",
+      "url": "https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk"
+    },
+    {
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "Con Mis Alas Rotas",
+      "url": "https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV"
+    },
+    {
+      "album": {
+        "name": "Otro Mundo",
+        "url": "https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc"
+    },
+    {
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Dame Un Besito",
+      "url": "https://open.spotify.com/track/4TkNaOLBBSHVI4W5vjuAKK"
+    },
+    {
+      "album": {
+        "name": "X (Vol. 2)",
+        "url": "https://open.spotify.com/album/410rRXK2ZRpUWNv37vUSy2"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271440,
+      "name": "Dejate Amar",
+      "url": "https://open.spotify.com/track/5iveqz8wifjSPTBWwOtSiI"
+    },
+    {
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210558,
+      "name": "D\u00e9jame Amarte",
+      "url": "https://open.spotify.com/track/5tzBmQr9EopzbPQjiMGFmK"
+    },
+    {
+      "album": {
+        "name": "En Peligro De Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278386,
+      "name": "D\u00edmelo",
+      "url": "https://open.spotify.com/track/5X7kFGFvw85zvg64IjJp4G"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "El Amigo Que Se Fu\u00e9",
+      "url": "https://open.spotify.com/track/6BTtKitErY2JcpwdZ9rdpZ"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "El Poder De Tus Manos",
+      "url": "https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq"
+    },
+    {
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Ens\u00e9\u00f1ame A Olvidarte",
+      "url": "https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/105sAuhvY2L17r5DvIaTtf"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260813,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XYOzOTFwB2flq7yVBFPuf"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Es Tan Bello",
+      "url": "https://open.spotify.com/track/2sWiWpbCgoTfN94y5Gwd3x"
+    },
+    {
+      "album": {
+        "name": "Nuestro Destino Estaba Escrito",
+        "url": "https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196213,
+      "name": "Eso Duele",
+      "url": "https://open.spotify.com/track/1iC61Hz52gDokQ8e4UBkwM"
+    },
+    {
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Est\u00e1s Que Te Pelas",
+      "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267333,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "album": {
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/1kF34yKV0LkA6yS0FZuEhz"
+    },
+    {
+      "album": {
+        "name": "Intocable",
+        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 178400,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/4eWVqGn2dUxjdJH7vwSnVm"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "Ll\u00e9vame Contigo",
+      "url": "https://open.spotify.com/track/4ZjSZV7N9WKFKgUcah2UQ5"
+    },
+    {
+      "album": {
+        "name": "2C",
+        "url": "https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259626,
+      "name": "Ll\u00e9vame En Tu Viaje",
+      "url": "https://open.spotify.com/track/3DeH1wTB0Oo1341VJRTAGR"
+    },
+    {
+      "album": {
+        "name": "Percepc\u00edon",
+        "url": "https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 227293,
+      "name": "Me Dueles",
+      "url": "https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu"
+    },
+    {
+      "album": {
+        "name": "No Se Vuelve A Repetir",
+        "url": "https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194317,
+      "name": "No Se Vuelve A Repetir",
+      "url": "https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152448,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
+    },
+    {
+      "album": {
+        "name": "Intocable",
+        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
+    },
+    {
+      "album": {
+        "name": "Crossroads: Cruce De Caminos",
+        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "Por Ella (Poco A Poco)",
+      "url": "https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Por Un Beso",
+      "url": "https://open.spotify.com/track/7b6HqGIszgwGinMRtY4d1U"
+    },
+    {
+      "album": {
+        "name": "2011",
+        "url": "https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Robarte un Beso",
+      "url": "https://open.spotify.com/track/2I8JurbSZR2wjQnP4T87SO"
+    },
+    {
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "Si Se Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/6Q81FQKs8frictojPGC91p"
+    },
+    {
+      "album": {
+        "name": "Nuestro Destino Estaba Escrito",
+        "url": "https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Soy Un Novato",
+      "url": "https://open.spotify.com/track/4wrIrMVrxV5jqoj2GwhD1r"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/7EjNvqolyU8YKutApPPwXe"
+    },
+    {
+      "album": {
+        "name": "En Peligro De Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274173,
+      "name": "Te Amo (Para Siempre)",
+      "url": "https://open.spotify.com/track/6IL4kE0WnD4CfKp2me7vCa"
+    },
+    {
+      "album": {
+        "name": "La Vida (Deluxe)",
+        "url": "https://open.spotify.com/album/2mCF7tagY5QWepheBHM236"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Te Dejo Libre",
+      "url": "https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx"
+    },
+    {
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Te Perdono",
+      "url": "https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 154133,
+      "name": "Te Voy A Conquistar",
+      "url": "https://open.spotify.com/track/4d6qswupJd3fNwwN7t8kr2"
+    },
+    {
+      "album": {
+        "name": "2C",
+        "url": "https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Tu Adi\u00f3s No Mata",
+      "url": "https://open.spotify.com/track/5sz7opyzt4gWqn5mKbKg4e"
+    },
+    {
+      "album": {
+        "name": "Tu Soledad Y La M\u00eda",
+        "url": "https://open.spotify.com/album/24gc3AiZc6RHJr4sqNsdJm"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Tu Soledad Y La M\u00eda",
+      "url": "https://open.spotify.com/track/477tplqFCCEPOalRb7OCnL"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "album": {
+        "name": "Un Poquito Tuyo",
+        "url": "https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 175773,
+      "name": "Un Poquito Tuyo",
+      "url": "https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2"
+    },
+    {
+      "album": {
+        "name": "Fuego Eterno",
+        "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Acto",
+        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 206040,
+      "name": "Viento (with Intocable)",
+      "url": "https://open.spotify.com/track/3NQHzcvs6Eb3eNspR3HXBh"
+    },
+    {
+      "album": {
+        "name": "Yo Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 253116,
+      "name": "Yo Seguir\u00e9",
+      "url": "https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT"
+    },
+    {
+      "album": {
+        "name": "Nuestro Destino Estaba Escrito",
+        "url": "https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "\u00bfA D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn"
+    },
+    {
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246906,
+      "name": "\u00bfD\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE"
 }

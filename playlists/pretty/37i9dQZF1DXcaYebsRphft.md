@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > セトリで余韻に浸ろう！2023年2月17日\~19日に京セラドーム大阪で行われた"NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ \- in JAPAN"のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,912 likes - 35 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,942 likes - 35 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

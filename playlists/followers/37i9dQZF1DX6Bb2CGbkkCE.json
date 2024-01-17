@@ -1,457 +1,1157 @@
 {
-  "2022-10-02": 1,
-  "2022-10-03": 4,
-  "2022-10-04": 9,
-  "2022-10-05": 20,
-  "2022-10-06": 44,
-  "2022-10-07": 62,
-  "2022-10-08": 81,
-  "2022-10-09": 99,
-  "2022-10-10": 104,
-  "2022-10-11": 113,
-  "2022-10-12": 127,
-  "2022-10-13": 145,
-  "2022-10-14": 157,
-  "2022-10-15": 172,
-  "2022-10-16": 181,
-  "2022-10-17": 192,
-  "2022-10-18": 203,
-  "2022-10-19": 226,
-  "2022-10-20": 247,
-  "2022-10-21": 265,
-  "2022-10-22": 280,
-  "2022-10-23": 297,
-  "2022-10-24": 326,
-  "2022-10-25": 346,
-  "2022-10-26": 358,
-  "2022-10-27": 370,
-  "2022-10-28": 385,
-  "2022-10-29": 397,
-  "2022-10-30": 415,
-  "2022-10-31": 431,
-  "2022-11-01": 450,
-  "2022-11-02": 466,
-  "2022-11-03": 485,
-  "2022-11-04": 497,
-  "2022-11-05": 514,
-  "2022-11-06": 531,
-  "2022-11-07": 545,
-  "2022-11-08": 553,
-  "2022-11-09": 565,
-  "2022-11-10": 577,
-  "2022-11-11": 591,
-  "2022-11-12": 611,
-  "2022-11-13": 626,
-  "2022-11-14": 641,
-  "2022-11-15": 652,
-  "2022-11-16": 674,
-  "2022-11-17": 689,
-  "2022-11-18": 697,
-  "2022-11-19": 707,
-  "2022-11-20": 724,
-  "2022-11-21": 721,
-  "2022-11-22": 758,
-  "2022-11-23": 757,
-  "2022-11-24": 802,
-  "2022-11-25": 825,
-  "2022-11-26": 847,
-  "2022-11-27": 878,
-  "2022-11-28": 897,
-  "2022-11-29": 913,
-  "2022-11-30": 934,
-  "2022-12-01": 957,
-  "2022-12-02": 967,
-  "2022-12-03": 1001,
-  "2022-12-04": 1016,
-  "2022-12-05": 1033,
-  "2022-12-06": 1044,
-  "2022-12-07": 1060,
-  "2022-12-08": 1068,
-  "2022-12-09": 1078,
-  "2022-12-10": 1097,
-  "2022-12-11": 1108,
-  "2022-12-12": 1122,
-  "2022-12-13": 1140,
-  "2022-12-14": 1150,
-  "2022-12-15": 1161,
-  "2022-12-16": 1178,
-  "2022-12-17": 1187,
-  "2022-12-18": 1209,
-  "2022-12-19": 1224,
-  "2022-12-20": 1254,
-  "2022-12-21": 1254,
-  "2022-12-22": 1265,
-  "2022-12-24": 1290,
-  "2022-12-25": 1299,
-  "2022-12-26": 1310,
-  "2022-12-27": 1321,
-  "2022-12-28": 1338,
-  "2022-12-29": 1350,
-  "2022-12-30": 1359,
-  "2022-12-31": 1371,
-  "2023-01-01": 1386,
-  "2023-01-02": 1396,
-  "2023-01-03": 1405,
-  "2023-01-04": 1420,
-  "2023-01-05": 1430,
-  "2023-01-06": 1448,
-  "2023-01-07": 1474,
-  "2023-01-08": 1476,
-  "2023-01-09": 1500,
-  "2023-01-10": 1523,
-  "2023-01-11": 1537,
-  "2023-01-12": 1556,
-  "2023-01-13": 1570,
-  "2023-01-14": 1593,
-  "2023-01-15": 1600,
-  "2023-01-16": 1606,
-  "2023-01-17": 1622,
-  "2023-01-18": 1633,
-  "2023-01-19": 1658,
-  "2023-01-20": 1670,
-  "2023-01-21": 1686,
-  "2023-01-22": 1697,
-  "2023-01-23": 1713,
-  "2023-01-24": 1726,
-  "2023-01-25": 1739,
-  "2023-01-26": 1753,
-  "2023-01-27": 1779,
-  "2023-01-28": 1796,
-  "2023-01-29": 1812,
-  "2023-01-30": 1817,
-  "2023-01-31": 1817,
-  "2023-02-01": 1836,
-  "2023-02-02": 1851,
-  "2023-02-03": 1857,
-  "2023-02-04": 1868,
-  "2023-02-05": 1884,
-  "2023-02-06": 1895,
-  "2023-02-07": 1913,
-  "2023-02-08": 1933,
-  "2023-02-09": 1933,
-  "2023-02-10": 1945,
-  "2023-02-11": 1955,
-  "2023-02-12": 1977,
-  "2023-02-13": 1978,
-  "2023-02-14": 1978,
-  "2023-02-15": 1992,
-  "2023-02-16": 2001,
-  "2023-02-17": 2019,
-  "2023-02-18": 2045,
-  "2023-02-19": 2053,
-  "2023-02-20": 2061,
-  "2023-02-21": 2074,
-  "2023-02-22": 2084,
-  "2023-02-23": 2093,
-  "2023-02-24": 2105,
-  "2023-02-25": 2126,
-  "2023-02-26": 2138,
-  "2023-02-27": 2169,
-  "2023-02-28": 2169,
-  "2023-03-01": 2180,
-  "2023-03-02": 2195,
-  "2023-03-03": 2206,
-  "2023-03-04": 2220,
-  "2023-03-05": 2238,
-  "2023-03-06": 2238,
-  "2023-03-07": 2252,
-  "2023-03-08": 2262,
-  "2023-03-09": 2275,
-  "2023-03-10": 2288,
-  "2023-03-11": 2297,
-  "2023-03-12": 2307,
-  "2023-03-13": 2311,
-  "2023-03-14": 2318,
-  "2023-03-15": 2325,
-  "2023-03-16": 2329,
-  "2023-03-17": 2329,
-  "2023-03-18": 2348,
-  "2023-03-19": 2356,
-  "2023-03-20": 2362,
-  "2023-03-21": 2371,
-  "2023-03-22": 2384,
-  "2023-03-23": 2387,
-  "2023-03-24": 2387,
-  "2023-03-25": 2415,
-  "2023-03-26": 2426,
-  "2023-03-27": 2433,
-  "2023-03-28": 2436,
-  "2023-03-29": 2446,
-  "2023-03-30": 2455,
-  "2023-03-31": 2455,
-  "2023-04-01": 2465,
-  "2023-04-02": 2480,
-  "2023-04-03": 2495,
-  "2023-04-04": 2508,
-  "2023-04-05": 2529,
-  "2023-04-06": 2536,
-  "2023-04-07": 2548,
-  "2023-04-09": 2573,
-  "2023-04-10": 2582,
-  "2023-04-11": 2604,
-  "2023-04-12": 2604,
-  "2023-04-13": 2615,
-  "2023-04-14": 2637,
-  "2023-04-15": 2648,
-  "2023-04-16": 2669,
-  "2023-04-17": 2680,
-  "2023-04-18": 2685,
-  "2023-04-19": 2695,
-  "2023-04-20": 2713,
-  "2023-04-21": 2721,
-  "2023-04-22": 2738,
-  "2023-04-23": 2757,
-  "2023-04-24": 2769,
-  "2023-04-25": 2784,
-  "2023-04-26": 2804,
-  "2023-04-27": 2811,
-  "2023-04-28": 2825,
-  "2023-04-29": 2834,
-  "2023-04-30": 2846,
-  "2023-05-01": 2865,
-  "2023-05-02": 2870,
-  "2023-05-03": 2883,
-  "2023-05-04": 2895,
-  "2023-05-05": 2904,
-  "2023-05-06": 2913,
-  "2023-05-07": 2925,
-  "2023-05-08": 2937,
-  "2023-05-09": 2944,
-  "2023-05-10": 2951,
-  "2023-05-11": 2961,
-  "2023-05-12": 2969,
-  "2023-05-13": 2981,
-  "2023-05-14": 2993,
-  "2023-05-15": 3001,
-  "2023-05-16": 3007,
-  "2023-05-17": 3019,
-  "2023-05-18": 3025,
-  "2023-05-19": 3034,
-  "2023-05-20": 3052,
-  "2023-05-21": 3052,
-  "2023-05-22": 3052,
-  "2023-05-23": 3086,
-  "2023-05-24": 3099,
-  "2023-05-25": 3098,
-  "2023-05-26": 3109,
-  "2023-05-27": 3117,
-  "2023-05-28": 3128,
-  "2023-05-29": 3128,
-  "2023-05-30": 3147,
-  "2023-05-31": 3154,
-  "2023-06-01": 3168,
-  "2023-06-02": 3180,
-  "2023-06-03": 3189,
-  "2023-06-04": 3203,
-  "2023-06-05": 3213,
-  "2023-06-06": 3218,
-  "2023-06-07": 3229,
-  "2023-06-08": 3235,
-  "2023-06-09": 3248,
-  "2023-06-10": 3256,
-  "2023-06-11": 3262,
-  "2023-06-12": 3273,
-  "2023-06-13": 3285,
-  "2023-06-14": 3296,
-  "2023-06-15": 3314,
-  "2023-06-16": 3317,
-  "2023-06-17": 3332,
-  "2023-06-18": 3335,
-  "2023-06-19": 3342,
-  "2023-06-20": 3350,
-  "2023-06-21": 3361,
-  "2023-06-22": 3369,
-  "2023-06-23": 3381,
-  "2023-06-24": 3392,
-  "2023-06-25": 3403,
-  "2023-06-26": 3407,
-  "2023-06-27": 3423,
-  "2023-06-28": 3430,
-  "2023-06-29": 3438,
-  "2023-06-30": 3442,
-  "2023-07-01": 3459,
-  "2023-07-02": 3459,
-  "2023-07-03": 3472,
-  "2023-07-04": 3481,
-  "2023-07-05": 3487,
-  "2023-07-06": 3507,
-  "2023-07-07": 3507,
-  "2023-07-08": 3518,
-  "2023-07-09": 3524,
-  "2023-07-10": 3537,
-  "2023-07-11": 3548,
-  "2023-07-12": 3557,
-  "2023-07-13": 3569,
-  "2023-07-14": 3586,
-  "2023-07-15": 3594,
-  "2023-07-16": 3604,
-  "2023-07-17": 3621,
-  "2023-07-18": 3629,
-  "2023-07-19": 3639,
-  "2023-07-20": 3646,
-  "2023-07-21": 3656,
-  "2023-07-22": 3663,
-  "2023-07-23": 3676,
-  "2023-07-24": 3685,
-  "2023-07-25": 3694,
-  "2023-07-26": 3700,
-  "2023-07-27": 3708,
-  "2023-07-28": 3714,
-  "2023-07-29": 3721,
-  "2023-07-30": 3726,
-  "2023-07-31": 3727,
-  "2023-08-01": 3740,
-  "2023-08-02": 3744,
-  "2023-08-03": 3755,
-  "2023-08-04": 3764,
-  "2023-08-05": 3769,
-  "2023-08-06": 3787,
-  "2023-08-07": 3787,
-  "2023-08-08": 3792,
-  "2023-08-09": 3796,
-  "2023-08-10": 3805,
-  "2023-08-11": 3809,
-  "2023-08-12": 3821,
-  "2023-08-13": 3830,
-  "2023-08-14": 3838,
-  "2023-08-15": 3852,
-  "2023-08-16": 3852,
-  "2023-08-17": 3866,
-  "2023-08-18": 3872,
-  "2023-08-19": 3882,
-  "2023-08-20": 3889,
-  "2023-08-21": 3893,
-  "2023-08-22": 3903,
-  "2023-08-23": 3911,
-  "2023-08-24": 3918,
-  "2023-08-25": 3930,
-  "2023-08-26": 3943,
-  "2023-08-27": 3949,
-  "2023-08-28": 3957,
-  "2023-08-29": 3968,
-  "2023-08-30": 3979,
-  "2023-08-31": 3991,
-  "2023-09-01": 4000,
-  "2023-09-02": 4000,
-  "2023-09-03": 4007,
-  "2023-09-04": 4009,
-  "2023-09-05": 4013,
-  "2023-09-06": 4017,
-  "2023-09-07": 4020,
-  "2023-09-08": 4024,
-  "2023-09-09": 4034,
-  "2023-09-10": 4039,
-  "2023-09-11": 4051,
-  "2023-09-12": 4055,
-  "2023-09-13": 4062,
-  "2023-09-14": 4072,
-  "2023-09-15": 4075,
-  "2023-09-16": 4085,
-  "2023-09-17": 4088,
-  "2023-09-18": 4095,
-  "2023-09-19": 4094,
-  "2023-09-20": 4098,
-  "2023-09-21": 4104,
-  "2023-09-22": 4106,
-  "2023-09-23": 4114,
-  "2023-09-24": 4117,
-  "2023-09-25": 4121,
-  "2023-09-26": 4126,
-  "2023-09-27": 4127,
-  "2023-09-28": 4132,
-  "2023-09-29": 4141,
-  "2023-09-30": 4144,
-  "2023-10-01": 4150,
-  "2023-10-02": 4153,
-  "2023-10-03": 4159,
-  "2023-10-04": 4163,
-  "2023-10-05": 4168,
-  "2023-10-06": 4171,
-  "2023-10-07": 4175,
-  "2023-10-08": 4181,
-  "2023-10-09": 4183,
-  "2023-10-10": 4189,
-  "2023-10-11": 4194,
-  "2023-10-12": 4194,
-  "2023-10-13": 4202,
-  "2023-10-14": 4206,
-  "2023-10-15": 4208,
-  "2023-10-16": 4216,
-  "2023-10-17": 4222,
-  "2023-10-18": 4229,
-  "2023-10-19": 4238,
-  "2023-10-20": 4245,
-  "2023-10-21": 4248,
-  "2023-10-22": 4260,
-  "2023-10-23": 4263,
-  "2023-10-24": 4270,
-  "2023-10-25": 4272,
-  "2023-10-26": 4275,
-  "2023-10-27": 4289,
-  "2023-10-28": 4301,
-  "2023-10-29": 4314,
-  "2023-10-30": 4320,
-  "2023-10-31": 4320,
-  "2023-11-01": 4322,
-  "2023-11-02": 4323,
-  "2023-11-03": 4328,
-  "2023-11-04": 4331,
-  "2023-11-05": 4335,
-  "2023-11-06": 4337,
-  "2023-11-07": 4343,
-  "2023-11-08": 4346,
-  "2023-11-09": 4347,
-  "2023-11-10": 4352,
-  "2023-11-11": 4352,
-  "2023-11-12": 4358,
-  "2023-11-13": 4362,
-  "2023-11-14": 4364,
-  "2023-11-15": 4364,
-  "2023-11-16": 4375,
-  "2023-11-17": 4381,
-  "2023-11-18": 4381,
-  "2023-11-19": 4386,
-  "2023-11-20": 4390,
-  "2023-11-21": 4394,
-  "2023-11-22": 4398,
-  "2023-11-23": 4402,
-  "2023-11-24": 4403,
-  "2023-11-25": 4408,
-  "2023-11-26": 4415,
-  "2023-11-27": 4414,
-  "2023-11-28": 4420,
-  "2023-11-29": 4431,
-  "2023-11-30": 4431,
-  "2023-12-01": 4436,
-  "2023-12-02": 4443,
-  "2023-12-03": 4445,
-  "2023-12-04": 4452,
-  "2023-12-05": 4455,
-  "2023-12-06": 4459,
-  "2023-12-07": 4461,
-  "2023-12-08": 4466,
-  "2023-12-09": 4468,
-  "2023-12-10": 4474,
-  "2023-12-11": 4479,
-  "2023-12-12": 4486,
-  "2023-12-13": 4489,
-  "2023-12-14": 4494,
-  "2023-12-15": 4495,
-  "2023-12-16": 4498,
-  "2023-12-17": 4499,
-  "2023-12-18": 4503,
-  "2023-12-19": 4514,
-  "2023-12-20": 4517,
-  "2023-12-21": 4525,
-  "2023-12-22": 4529,
-  "2023-12-23": 4533,
-  "2023-12-24": 4536,
-  "2023-12-25": 4540,
-  "2023-12-26": 4543,
-  "2023-12-27": 4549,
-  "2023-12-30": 4561,
-  "2023-12-31": 4565,
-  "2024-01-01": 4569,
-  "2024-01-02": 4571,
-  "2024-01-03": 4578
+  "2024-01-17": 4627,
+  "date_first_scraped": "2022-10-02",
+  "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
+  "name": "Usain Bolt's Taste",
+  "tracks": [
+    {
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "album": {
+        "name": "Usain Bolt Presents: Immortal Riddim, Vol. 2",
+        "url": "https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156525,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C"
+    },
+    {
+      "album": {
+        "name": "Big Moves",
+        "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Big Moves",
+      "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168763,
+      "name": "c l o s e",
+      "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
+    },
+    {
+      "album": {
+        "name": "Champ - Single",
+        "url": "https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 205714,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi"
+    },
+    {
+      "album": {
+        "name": "Champ - Single",
+        "url": "https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ"
+      },
+      "artists": [
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO"
+    },
+    {
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth",
+        "url": "https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY"
+    },
+    {
+      "album": {
+        "name": "Consistency (Through the Years)",
+        "url": "https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 166699,
+      "name": "Crocodile Teeth",
+      "url": "https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "album": {
+        "name": "Just Until....",
+        "url": "https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182974,
+      "name": "Dream in Color",
+      "url": "https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP"
+    },
+    {
+      "album": {
+        "name": "Usain Bolt Presents: Olympe Ros\u00e9 Riddim",
+        "url": "https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165955,
+      "name": "Dweet",
+      "url": "https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236524,
+      "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+      "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE"
+    },
+    {
+      "album": {
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
+    },
+    {
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+    },
+    {
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
+    },
+    {
+      "album": {
+        "name": "GYALIS",
+        "url": "https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105377,
+      "name": "GYALIS",
+      "url": "https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF"
+    },
+    {
+      "album": {
+        "name": "Image",
+        "url": "https://open.spotify.com/album/6F4IbgOUb0SYJ4lDxJDQzM"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202997,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/4E7Z0BHW17nBn1Q4uYRzjO"
+    },
+    {
+      "album": {
+        "name": "Kilometre",
+        "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g"
+    },
+    {
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "album": {
+        "name": "Living the Dream",
+        "url": "https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Living the Dream",
+      "url": "https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5"
+    },
+    {
+      "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
+    },
+    {
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Jae Xo",
+          "url": "https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 185097,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA"
+    },
+    {
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+    },
+    {
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265366,
+      "name": "Rent Money",
+      "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
+    },
+    {
+      "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/24HPQqwhRn31huvNRg8War"
+      },
+      "artists": [
+        {
+          "name": "10Tik",
+          "url": "https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 207856,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
+    },
+    {
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Rubber Band Man (feat. Cam'ron)",
+      "url": "https://open.spotify.com/track/6YVbCxw3Yqyj4dRomrXPhl"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        },
+        {
+          "name": "Bibi",
+          "url": "https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT"
+        },
+        {
+          "name": "Kamal Engels",
+          "url": "https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160102,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co"
+    },
+    {
+      "album": {
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339506,
+      "name": "Seeing Green (with Drake & Lil Wayne)",
+      "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
+    },
+    {
+      "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/0xCAtTLLKHVXXRG3QszG7Y"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188874,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/22okfZRLfP6hxuplYUGef6"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258982,
+      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
+      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "album": {
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+      },
+      "artists": [
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        },
+        {
+          "name": "Nj",
+          "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
+    },
+    {
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "album": {
+        "name": "Top a Di Top",
+        "url": "https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159294,
+      "name": "Top a Di Top",
+      "url": "https://open.spotify.com/track/1E50X8pyYgpZNYR9h7wj1L"
+    },
+    {
+      "album": {
+        "name": "Track Star",
+        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
+      },
+      "artists": [
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Track Star",
+      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "album": {
+        "name": "W (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230151,
+      "name": "W (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j"
+    },
+    {
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196037,
+      "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
+      "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz"
+      },
+      "artists": [
+        {
+          "name": "Munga Honorable",
+          "url": "https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140617,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204664,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
+    },
+    {
+      "album": {
+        "name": "Love Scars: The 5 Stages Of Emotions (Deluxe)",
+        "url": "https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221423,
+      "name": "You're Mines Still",
+      "url": "https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6Bb2CGbkkCE"
 }

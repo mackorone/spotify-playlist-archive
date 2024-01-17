@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-173 songs - 13 hr 26 min
+174 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Good Luck Shore](https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9) | [United Future Organization](https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh) | [Bon Voyage](https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh) | 5:27 | 2021-12-12 |  |
 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 | 2021-12-12 |  |
 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 | 2021-12-12 |  |
-| [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2022-07-14 |  |
+| [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2022-07-14 | 2024-01-11 |
 | [Holy Sun](https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM) | 4:23 | 2022-07-14 | 2023-03-09 |
 | [Homecoming](https://open.spotify.com/track/0WvsBl7xLf9Iw8hJDd0Hn7) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Homecoming](https://open.spotify.com/album/6tRERARmJsDqovki0TswC9) | 4:16 | 2022-07-18 | 2022-07-29 |
 | [Homecoming](https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 4:16 | 2022-07-18 |  |
@@ -142,6 +142,7 @@
 | [Texas Twister](https://open.spotify.com/track/7bdwicJ9n8VgKyXkrEgDSY) | [Melvin Sparks](https://open.spotify.com/artist/0S7VS7ckdWsmpPgHTvWd3c) | [Texas Twister / '75](https://open.spotify.com/album/5wVspPWK8rOvMWTcSvqNFB) | 6:07 | 2021-12-12 | 2022-03-12 |
 | [The Creator Has A Master Plan \- Original Album Version](https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA) | [Cool And Steady And Easy](https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA) | 5:50 | 2022-07-14 |  |
 | [The Creator Has A Masterplan \- Full Length Version](https://open.spotify.com/track/7kbTgdND4XUvMkXioeHKBu) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Paul Shapiro](https://open.spotify.com/artist/1JRCfqlBqsyqHPFaooGAKK) | [The Creator Has A Masterplan](https://open.spotify.com/album/3z49aX4goRnYSliS08Dp7D) | 5:55 | 2021-12-12 | 2022-07-29 |
+| [The Final Comedown](https://open.spotify.com/track/6z0FN1nu2aWhtK2Zp8iOqO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Blue Break Beats](https://open.spotify.com/album/2KbHNB4R33UuA09rleUrcp) | 3:27 | 2022-07-14 |  |
 | [The Final Comedown](https://open.spotify.com/track/4kvcSogx5uXHYuQMYBgCSs) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Wade Marcus](https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH) | [Best of Acid Jazz](https://open.spotify.com/album/1YBTymL1i5kLEZ2VpxkbDa) | 3:27 | 2021-12-12 | 2022-03-03 |
 | [The Light](https://open.spotify.com/track/2XQYIIJb628ORXhv5kPdyG) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/5Vdh9NszWNh82xuzTBdNHO) | 4:02 | 2021-12-12 | 2022-07-25 |
 | [The Light](https://open.spotify.com/track/5fybLNY2eBRnEGg8SUW6yk) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Go! Common Classics](https://open.spotify.com/album/2IGKisSgNle7264UoY57vO) | 4:03 | 2022-07-14 |  |

@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-288 songs - 15 hr 21 min
+289 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Gasoline](https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr) | 3:20 | 2020-11-20 |  |
 | [Gasoline](https://open.spotify.com/track/7zu033uK8PfJ0lqOIKHhzL) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/4kYXtDdzfh2dQYZw11hN2S) | 3:20 | 2020-11-20 | 2022-07-29 |
 | [Get By](https://open.spotify.com/track/1UnpGQbe2SDnAtr6vAYI4K) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Get By](https://open.spotify.com/album/0wBq7Mzg0wbJMNGNroZiPx) | 3:32 | 2020-11-20 | 2022-07-25 |
-| [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 | 2020-11-20 |  |
+| [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 | 2020-11-20 | 2024-01-11 |
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-11-20 | 2022-07-29 |
 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 | 2020-11-20 | 2022-11-13 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2020-11-20 |  |
@@ -243,6 +243,7 @@
 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 | 2020-11-20 |  |
 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 | 2020-11-20 | 2022-11-13 |
 | [Strange Love](https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 2:31 | 2020-11-20 | 2023-11-04 |
+| [Strange Love](https://open.spotify.com/track/2OuxIf5TyuQfvZ95c1Rzji) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/0mz5vJ1DeMqGlafBGuqUPE) | 2:31 | 2020-11-20 |  |
 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 | 2020-11-20 | 2022-06-15 |
 | [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Double Dare](https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw) | 3:11 | 2020-11-20 |  |
 | [Stupid For You](https://open.spotify.com/track/48ocCWNlCS9kFS9Q6dCYj1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Stupid For You](https://open.spotify.com/album/3aplForc3xJJF3TviBlhli) | 3:11 | 2020-11-20 | 2022-07-28 |

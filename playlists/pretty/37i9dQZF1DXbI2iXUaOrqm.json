@@ -1,6 +1,6 @@
 {
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
-  "num_followers": 17325,
+  "num_followers": 17811,
   "original_name": "Gym & Rock",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "El Silencio",
         "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 279160,
       "name": "No Dejes Que...",
       "url": "https://open.spotify.com/track/5nzEilkVhvnCD0xpW3raTy"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -203,22 +219,6 @@
       "duration_ms": 210266,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Queremos Rock",
-        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 224224,
-      "name": "Ya Lo Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
+        "name": "Queremos Rock",
+        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "duration_ms": 224224,
+      "name": "Ya Lo Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 224085,
       "name": "Dulce Soledad",
       "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -415,22 +399,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Detector De Metal",
-        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
       },
       "artists": [
         {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Muriendo Lento (feat. Belinda)",
-      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -451,18 +431,22 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+        "name": "Detector De Metal",
+        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
       "artists": [
         {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 338253,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
+      "duration_ms": 250866,
+      "name": "Muriendo Lento (feat. Belinda)",
+      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
         "name": "Lo Mejor De Los Hombres G",
         "url": "https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+        "name": "Amor Chiquito",
+        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+      "duration_ms": 297533,
+      "name": "Veneno Vil",
+      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -567,34 +567,18 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Amor Chiquito",
-        "url": "https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u"
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
       "artists": [
         {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 297533,
-      "name": "Veneno Vil",
-      "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Pervert Pop Song (Castigame)",
-      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -611,6 +595,22 @@
       "duration_ms": 212893,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Pervert Pop Song (Castigame)",
+      "url": "https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "L\u00e1mina Once",
-        "url": "https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 237075,
-      "name": "Rorschach",
-      "url": "https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 177786,
       "name": "Florecita Rockera",
       "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "L\u00e1mina Once",
+        "url": "https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 237075,
+      "name": "Rorschach",
+      "url": "https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS"
     },
     {
       "added_at": "2023-11-09 23:48:34",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-11-09 23:48:34",
       "album": {
-        "name": "Himno (para los que est\u00e1n jodidos)",
-        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 185790,
-      "name": "Himno (para los que est\u00e1n jodidos)",
-      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
-    },
-    {
-      "added_at": "2023-11-09 23:48:34",
-      "album": {
         "name": "Historias De La Calle",
         "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
@@ -835,6 +815,22 @@
       "duration_ms": 210337,
       "name": "Eso Es Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+    },
+    {
+      "added_at": "2023-11-09 23:48:34",
+      "album": {
+        "name": "Evoluciona",
+        "url": "https://open.spotify.com/album/2qs0JEFMOnn9yNHHsQYesf"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "duration_ms": 145718,
+      "name": "Misis Gui\u00f1i",
+      "url": "https://open.spotify.com/track/1cIshWeBy31zCZA2VueOQf"
     }
   ],
   "unique_name": "Gym & Rock",

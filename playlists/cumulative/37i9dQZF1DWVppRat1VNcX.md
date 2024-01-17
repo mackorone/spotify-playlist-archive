@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-67 songs - 2 hr 31 min
+68 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Canto de Amistad](https://open.spotify.com/track/6SA5wmn1twy5j8D47fX6P1) | [Masha y el Oso](https://open.spotify.com/artist/0anH0QHNa4wpdcX1ML1AzA) | [Canciones, Pt\. 1](https://open.spotify.com/album/1Nv9sf9VxHDH8NERdexCK5) | 1:09 | 2020-04-22 |  |
 | [Chicken Dance](https://open.spotify.com/track/17fZixZrgyxeponCwvObUR) | [Hampster Dance Masters](https://open.spotify.com/artist/3ZLMMHol7LDztLOrybTysw) | [The Hampster Dance........and Friends](https://open.spotify.com/album/3F2xfhgiMwtbLocLCSKOLB) | 2:08 | 2020-04-22 |  |
 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 | 2020-04-22 |  |
-| [Cosquillas \(Versión 2019\)](https://open.spotify.com/track/01mInKoPIMxxIkKbtCFr9U) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:38 | 2020-04-22 |  |
+| [Cosquillas \(Versión 2019\)](https://open.spotify.com/track/01mInKoPIMxxIkKbtCFr9U) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:38 | 2020-04-22 | 2024-01-06 |
+| [Cosquillas \(Versión 2019\)](https://open.spotify.com/track/1l4AEwUpJ67ggGA6AYOddO) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/1nXc5zDscyT89SnDFh7l1l) | 2:38 | 2020-04-22 |  |
 | [Cumbia del Monstruo](https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Nada en Su Lugar](https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ) | 3:27 | 2020-04-22 |  |
 | [Do the Robot](https://open.spotify.com/track/4c7XbTDN7eDaXHp9bXTYM3) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 2:48 | 2020-04-22 |  |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2020-04-22 |  |

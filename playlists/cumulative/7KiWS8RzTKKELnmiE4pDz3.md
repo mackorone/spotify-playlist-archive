@@ -4,7 +4,7 @@
 
 > 
 
-582 songs - 1 day 3 hr 10 min
+583 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [On That Time](https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:42 | 2023-12-19 |  |
 | [On The Prowl](https://open.spotify.com/track/4v4kI0DKeROycgQggHzina) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Red Faction](https://open.spotify.com/album/1HDxl8okFmYKoOkVkftET6) | 1:35 | 2022-10-25 | 2023-05-09 |
 | [One Eye Beady](https://open.spotify.com/track/4cO2qEm8WXczTJqmUG3Ff9) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [One Eye Beady](https://open.spotify.com/album/4hs8PR3eeLtLjINsWuNkyK) | 2:07 | 2023-01-11 | 2023-05-09 |
+| [One of Us](https://open.spotify.com/track/0KBg8fop4DsefGLKkkuenn) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 4:02 | 2024-01-05 |  |
 | [ONE WATCH \(feat\. Young Thug\)](https://open.spotify.com/track/60XGm1Hmyx7UliCAYjiCd8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:55 | 2023-12-12 |  |
 | [One Way!](https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way!](https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy) | 2:46 | 2022-09-04 | 2023-04-12 |
 | [OnMyList](https://open.spotify.com/track/6AQzASAlkQfTGOuoGKpSEf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [OnMyList](https://open.spotify.com/album/2Vpbvodjmuf7fRnfAnbUNA) | 1:57 | 2023-01-04 | 2023-05-09 |

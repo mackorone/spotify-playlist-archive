@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,901 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 12 | [Donjo](https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Chapter IV](https://open.spotify.com/album/58JBueyer8tCatNlJ1f3OM) | 3:18 |
 | 13 | [Utukuzwe \(Halleluya\)](https://open.spotify.com/track/0Mhw11b3DBBKQPWX80WPkZ) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Utukuzwe \(Halleluya\)](https://open.spotify.com/album/6irsYLZiyEfgChGo1goy9U) | 3:28 |
 | 14 | [Enjoy](https://open.spotify.com/track/5TaYOrcT1oTXhkbpDt7Kkg) | [Kelvin Weber](https://open.spotify.com/artist/6eebIf2iLkgsPBujMxRnwZ), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Josh Cleopa](https://open.spotify.com/artist/57OQOZ0jKyNW8bsOTgCdT3) | [ENJOY](https://open.spotify.com/album/2rsZP3S0j81N42gu4NWRna) | 4:42 |
-| 15 | [Jirani Yangu](https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/54PH3Kh5DpoE0zOJIODMke) | 3:02 |
+| 15 | [Jirani Yangu](https://open.spotify.com/track/5ssNZTVFgpT5z058zUtmcA) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Jirani Yangu](https://open.spotify.com/album/2UnScWHFQuZSELZ5nWMpAc) | 3:02 |
 | 16 | [Rada!](https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu) | [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Rada!](https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu) | 3:09 |
 | 17 | [Horera](https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq), [Yo Alex](https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT), [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Horera](https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX) | 3:26 |
 | 18 | [Blessings](https://open.spotify.com/track/1TFlHktKw98b1v1fnp7Ivx) | [Exodus Ug](https://open.spotify.com/artist/3y5h8SoIQSra1VQX5qWQoI) | [Blessings](https://open.spotify.com/album/4lzj9zBDLZQbhZxjx3PtUr) | 2:32 |

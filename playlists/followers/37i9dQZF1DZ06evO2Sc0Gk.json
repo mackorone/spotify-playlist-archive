@@ -1,731 +1,3089 @@
 {
-  "2021-12-29": 12286,
-  "2021-12-30": 12285,
-  "2021-12-31": 12284,
-  "2022-01-01": 12282,
-  "2022-01-02": 12281,
-  "2022-01-03": 12279,
-  "2022-01-04": 12278,
-  "2022-01-05": 12277,
-  "2022-01-06": 12276,
-  "2022-01-07": 12274,
-  "2022-01-08": 12272,
-  "2022-01-09": 12272,
-  "2022-01-10": 12271,
-  "2022-01-11": 12271,
-  "2022-01-12": 12274,
-  "2022-01-13": 12276,
-  "2022-01-14": 12277,
-  "2022-01-15": 12288,
-  "2022-01-16": 12287,
-  "2022-01-17": 15162,
-  "2022-01-18": 15163,
-  "2022-01-19": 15164,
-  "2022-01-20": 15170,
-  "2022-01-21": 15172,
-  "2022-01-22": 15173,
-  "2022-01-23": 15176,
-  "2022-01-24": 15179,
-  "2022-01-25": 15185,
-  "2022-01-26": 15189,
-  "2022-01-27": 15189,
-  "2022-01-28": 15195,
-  "2022-01-29": 15201,
-  "2022-01-30": 15207,
-  "2022-01-31": 15215,
-  "2022-02-01": 15218,
-  "2022-02-02": 15221,
-  "2022-02-03": 15226,
-  "2022-02-04": 15230,
-  "2022-02-05": 15230,
-  "2022-02-06": 15238,
-  "2022-02-07": 15245,
-  "2022-02-08": 15256,
-  "2022-02-09": 15262,
-  "2022-02-10": 15268,
-  "2022-02-11": 15269,
-  "2022-02-12": 15279,
-  "2022-02-13": 15284,
-  "2022-02-14": 15288,
-  "2022-02-15": 15293,
-  "2022-02-16": 15302,
-  "2022-02-17": 15306,
-  "2022-02-18": 15314,
-  "2022-02-19": 15327,
-  "2022-02-20": 15332,
-  "2022-02-21": 15333,
-  "2022-02-22": 15337,
-  "2022-02-23": 15344,
-  "2022-02-24": 15344,
-  "2022-02-25": 15351,
-  "2022-02-26": 15353,
-  "2022-02-27": 15363,
-  "2022-02-28": 15363,
-  "2022-03-01": 15370,
-  "2022-03-02": 15375,
-  "2022-03-03": 15377,
-  "2022-03-04": 15382,
-  "2022-03-05": 15389,
-  "2022-03-06": 15396,
-  "2022-03-07": 15399,
-  "2022-03-08": 15404,
-  "2022-03-09": 15409,
-  "2022-03-10": 15408,
-  "2022-03-11": 15411,
-  "2022-03-12": 15415,
-  "2022-03-13": 15419,
-  "2022-03-14": 15424,
-  "2022-03-15": 15431,
-  "2022-03-16": 15434,
-  "2022-03-17": 15433,
-  "2022-03-18": 15434,
-  "2022-03-19": 15440,
-  "2022-03-20": 15440,
-  "2022-03-21": 15443,
-  "2022-03-22": 15442,
-  "2022-03-23": 15448,
-  "2022-03-24": 15451,
-  "2022-03-25": 15457,
-  "2022-03-26": 15462,
-  "2022-03-27": 15471,
-  "2022-03-28": 15474,
-  "2022-03-30": 15481,
-  "2022-03-31": 15484,
-  "2022-04-01": 15490,
-  "2022-04-02": 15492,
-  "2022-04-03": 15495,
-  "2022-04-04": 15501,
-  "2022-04-05": 15508,
-  "2022-04-06": 15510,
-  "2022-04-07": 15515,
-  "2022-04-08": 15519,
-  "2022-04-09": 15525,
-  "2022-04-10": 15538,
-  "2022-04-11": 15544,
-  "2022-04-12": 15544,
-  "2022-04-13": 15552,
-  "2022-04-14": 15556,
-  "2022-04-15": 15563,
-  "2022-04-16": 15572,
-  "2022-04-17": 15575,
-  "2022-04-18": 15578,
-  "2022-04-19": 15581,
-  "2022-04-20": 15586,
-  "2022-04-21": 15591,
-  "2022-04-22": 15596,
-  "2022-04-23": 15596,
-  "2022-04-24": 15600,
-  "2022-04-25": 15607,
-  "2022-04-26": 15609,
-  "2022-04-27": 15614,
-  "2022-04-28": 15619,
-  "2022-04-29": 15639,
-  "2022-04-30": 15641,
-  "2022-05-01": 15644,
-  "2022-05-02": 15644,
-  "2022-05-03": 15649,
-  "2022-05-04": 15650,
-  "2022-05-05": 15655,
-  "2022-05-06": 15661,
-  "2022-05-07": 15667,
-  "2022-05-08": 15678,
-  "2022-05-09": 15677,
-  "2022-05-10": 15683,
-  "2022-05-11": 15691,
-  "2022-05-12": 15696,
-  "2022-05-13": 15699,
-  "2022-05-14": 15697,
-  "2022-05-15": 15703,
-  "2022-05-16": 15707,
-  "2022-05-17": 15712,
-  "2022-05-18": 15722,
-  "2022-05-19": 15724,
-  "2022-05-20": 15732,
-  "2022-05-21": 15747,
-  "2022-05-22": 15747,
-  "2022-05-23": 15757,
-  "2022-05-24": 15764,
-  "2022-05-25": 15767,
-  "2022-05-26": 15779,
-  "2022-05-27": 15780,
-  "2022-05-28": 15786,
-  "2022-05-29": 15790,
-  "2022-05-30": 15795,
-  "2022-05-31": 15797,
-  "2022-06-01": 15802,
-  "2022-06-02": 15804,
-  "2022-06-03": 15812,
-  "2022-06-04": 15814,
-  "2022-06-05": 15816,
-  "2022-06-06": 15821,
-  "2022-06-07": 15825,
-  "2022-06-08": 15829,
-  "2022-06-09": 15831,
-  "2022-06-10": 15839,
-  "2022-06-11": 15843,
-  "2022-06-12": 15851,
-  "2022-06-13": 15865,
-  "2022-06-14": 15871,
-  "2022-06-15": 15874,
-  "2022-06-16": 15883,
-  "2022-06-17": 15889,
-  "2022-06-18": 15896,
-  "2022-06-19": 15911,
-  "2022-06-20": 15911,
-  "2022-06-21": 15914,
-  "2022-06-22": 15932,
-  "2022-06-23": 15932,
-  "2022-06-24": 15941,
-  "2022-06-25": 15946,
-  "2022-06-26": 15950,
-  "2022-06-27": 15952,
-  "2022-06-28": 15959,
-  "2022-06-29": 15963,
-  "2022-06-30": 15967,
-  "2022-07-01": 15978,
-  "2022-07-02": 15982,
-  "2022-07-03": 15993,
-  "2022-07-04": 15997,
-  "2022-07-05": 15997,
-  "2022-07-06": 15997,
-  "2022-07-07": 16018,
-  "2022-07-08": 16026,
-  "2022-07-09": 16029,
-  "2022-07-10": 16033,
-  "2022-07-11": 16040,
-  "2022-07-12": 16047,
-  "2022-07-13": 16049,
-  "2022-07-14": 16051,
-  "2022-07-15": 16056,
-  "2022-07-16": 16057,
-  "2022-07-17": 16069,
-  "2022-07-18": 16073,
-  "2022-07-19": 16078,
-  "2022-07-20": 16085,
-  "2022-07-21": 16087,
-  "2022-07-22": 16091,
-  "2022-07-23": 16093,
-  "2022-07-24": 16099,
-  "2022-07-25": 16098,
-  "2022-07-26": 16101,
-  "2022-07-27": 16105,
-  "2022-07-28": 16114,
-  "2022-07-29": 16113,
-  "2022-07-30": 16126,
-  "2022-07-31": 16126,
-  "2022-08-01": 16133,
-  "2022-08-02": 16145,
-  "2022-08-03": 16145,
-  "2022-08-04": 16154,
-  "2022-08-05": 16161,
-  "2022-08-06": 16170,
-  "2022-08-07": 16176,
-  "2022-08-08": 16182,
-  "2022-08-09": 16191,
-  "2022-08-10": 16197,
-  "2022-08-11": 16199,
-  "2022-08-12": 16202,
-  "2022-08-13": 16204,
-  "2022-08-14": 16209,
-  "2022-08-15": 16212,
-  "2022-08-16": 16217,
-  "2022-08-17": 16218,
-  "2022-08-18": 16227,
-  "2022-08-19": 16232,
-  "2022-08-20": 16236,
-  "2022-08-21": 16242,
-  "2022-08-22": 16243,
-  "2022-08-23": 16249,
-  "2022-08-24": 16254,
-  "2022-08-25": 16255,
-  "2022-08-26": 16257,
-  "2022-08-27": 16265,
-  "2022-08-28": 16271,
-  "2022-08-29": 16275,
-  "2022-08-30": 16281,
-  "2022-08-31": 16283,
-  "2022-09-01": 16286,
-  "2022-09-02": 16288,
-  "2022-09-03": 16294,
-  "2022-09-04": 16301,
-  "2022-09-05": 16309,
-  "2022-09-06": 16309,
-  "2022-09-07": 16311,
-  "2022-09-09": 16318,
-  "2022-09-10": 16324,
-  "2022-09-11": 16332,
-  "2022-09-12": 16335,
-  "2022-09-13": 16339,
-  "2022-09-15": 16345,
-  "2022-09-16": 16356,
-  "2022-09-17": 16365,
-  "2022-09-18": 16368,
-  "2022-09-19": 16368,
-  "2022-09-20": 16374,
-  "2022-09-21": 16378,
-  "2022-09-22": 16381,
-  "2022-09-23": 16393,
-  "2022-09-24": 16393,
-  "2022-09-25": 16400,
-  "2022-09-26": 16401,
-  "2022-09-27": 16405,
-  "2022-09-28": 16410,
-  "2022-09-29": 16415,
-  "2022-09-30": 16418,
-  "2022-10-01": 16418,
-  "2022-10-02": 16417,
-  "2022-10-03": 16421,
-  "2022-10-04": 16429,
-  "2022-10-05": 16432,
-  "2022-10-06": 16434,
-  "2022-10-07": 16443,
-  "2022-10-08": 16447,
-  "2022-10-09": 16467,
-  "2022-10-10": 16466,
-  "2022-10-11": 16468,
-  "2022-10-12": 16470,
-  "2022-10-13": 16471,
-  "2022-10-14": 16478,
-  "2022-10-15": 16484,
-  "2022-10-16": 16491,
-  "2022-10-17": 16499,
-  "2022-10-18": 16507,
-  "2022-10-19": 16513,
-  "2022-10-20": 16522,
-  "2022-10-21": 16525,
-  "2022-10-22": 16537,
-  "2022-10-23": 16541,
-  "2022-10-24": 16548,
-  "2022-10-25": 16557,
-  "2022-10-26": 16562,
-  "2022-10-27": 16569,
-  "2022-10-28": 16572,
-  "2022-10-29": 16578,
-  "2022-10-30": 16581,
-  "2022-10-31": 16588,
-  "2022-11-01": 16591,
-  "2022-11-02": 16591,
-  "2022-11-03": 16594,
-  "2022-11-04": 16594,
-  "2022-11-05": 16606,
-  "2022-11-06": 16614,
-  "2022-11-07": 16619,
-  "2022-11-08": 16622,
-  "2022-11-09": 16622,
-  "2022-11-10": 16626,
-  "2022-11-11": 16630,
-  "2022-11-12": 16635,
-  "2022-11-13": 16642,
-  "2022-11-14": 16641,
-  "2022-11-15": 16647,
-  "2022-11-16": 16650,
-  "2022-11-17": 16659,
-  "2022-11-18": 16664,
-  "2022-11-19": 16661,
-  "2022-11-20": 16666,
-  "2022-11-21": 16671,
-  "2022-11-22": 16678,
-  "2022-11-23": 16685,
-  "2022-11-24": 16693,
-  "2022-11-25": 16699,
-  "2022-11-26": 16703,
-  "2022-11-27": 16704,
-  "2022-11-28": 16707,
-  "2022-11-29": 16711,
-  "2022-11-30": 16718,
-  "2022-12-01": 16722,
-  "2022-12-02": 16724,
-  "2022-12-03": 16726,
-  "2022-12-04": 16731,
-  "2022-12-05": 16731,
-  "2022-12-06": 16735,
-  "2022-12-07": 16737,
-  "2022-12-08": 16746,
-  "2022-12-09": 16749,
-  "2022-12-10": 16758,
-  "2022-12-11": 16765,
-  "2022-12-12": 16767,
-  "2022-12-13": 16771,
-  "2022-12-14": 16783,
-  "2022-12-15": 16792,
-  "2022-12-16": 16798,
-  "2022-12-17": 16803,
-  "2022-12-18": 16814,
-  "2022-12-19": 16818,
-  "2022-12-20": 16824,
-  "2022-12-21": 16824,
-  "2022-12-22": 16828,
-  "2022-12-24": 16839,
-  "2022-12-25": 16841,
-  "2022-12-26": 16846,
-  "2022-12-27": 16846,
-  "2022-12-28": 16853,
-  "2022-12-29": 16854,
-  "2022-12-30": 16855,
-  "2022-12-31": 16863,
-  "2023-01-01": 16868,
-  "2023-01-02": 16875,
-  "2023-01-03": 16882,
-  "2023-01-04": 16883,
-  "2023-01-05": 16888,
-  "2023-01-06": 16889,
-  "2023-01-07": 16899,
-  "2023-01-08": 16899,
-  "2023-01-09": 16900,
-  "2023-01-10": 16906,
-  "2023-01-11": 16912,
-  "2023-01-12": 16911,
-  "2023-01-13": 16920,
-  "2023-01-14": 16930,
-  "2023-01-15": 16932,
-  "2023-01-16": 16931,
-  "2023-01-17": 16936,
-  "2023-01-18": 16942,
-  "2023-01-19": 16947,
-  "2023-01-20": 16949,
-  "2023-01-21": 16958,
-  "2023-01-22": 16962,
-  "2023-01-23": 16965,
-  "2023-01-24": 16972,
-  "2023-01-25": 16980,
-  "2023-01-26": 16986,
-  "2023-01-27": 16993,
-  "2023-01-28": 17002,
-  "2023-01-29": 17009,
-  "2023-01-30": 17018,
-  "2023-01-31": 17018,
-  "2023-02-01": 17025,
-  "2023-02-02": 17028,
-  "2023-02-03": 17034,
-  "2023-02-04": 17038,
-  "2023-02-05": 17046,
-  "2023-02-06": 17057,
-  "2023-02-07": 17059,
-  "2023-02-08": 17066,
-  "2023-02-09": 17066,
-  "2023-02-10": 17068,
-  "2023-02-11": 17073,
-  "2023-02-12": 17079,
-  "2023-02-13": 17090,
-  "2023-02-14": 17090,
-  "2023-02-15": 17093,
-  "2023-02-16": 17091,
-  "2023-02-17": 17102,
-  "2023-02-18": 17108,
-  "2023-02-19": 17109,
-  "2023-02-20": 17115,
-  "2023-02-21": 17119,
-  "2023-02-22": 17121,
-  "2023-02-23": 17129,
-  "2023-02-24": 17130,
-  "2023-02-25": 17144,
-  "2023-02-26": 17146,
-  "2023-02-27": 17157,
-  "2023-02-28": 17157,
-  "2023-03-01": 17160,
-  "2023-03-02": 17165,
-  "2023-03-03": 17176,
-  "2023-03-04": 17186,
-  "2023-03-05": 17200,
-  "2023-03-06": 17200,
-  "2023-03-07": 17201,
-  "2023-03-08": 17208,
-  "2023-03-09": 17209,
-  "2023-03-10": 17209,
-  "2023-03-11": 17216,
-  "2023-03-12": 17225,
-  "2023-03-13": 17226,
-  "2023-03-14": 17229,
-  "2023-03-15": 17235,
-  "2023-03-16": 17235,
-  "2023-03-17": 17235,
-  "2023-03-18": 17242,
-  "2023-03-19": 17242,
-  "2023-03-20": 17247,
-  "2023-03-21": 17259,
-  "2023-03-22": 17269,
-  "2023-03-23": 17271,
-  "2023-03-24": 17271,
-  "2023-03-25": 17277,
-  "2023-03-26": 17281,
-  "2023-03-27": 17282,
-  "2023-03-28": 17288,
-  "2023-03-29": 17292,
-  "2023-03-30": 17309,
-  "2023-03-31": 17309,
-  "2023-04-01": 17316,
-  "2023-04-02": 17320,
-  "2023-04-03": 17326,
-  "2023-04-04": 17329,
-  "2023-04-05": 17335,
-  "2023-04-06": 17341,
-  "2023-04-07": 17341,
-  "2023-04-09": 17351,
-  "2023-04-10": 17350,
-  "2023-04-11": 17356,
-  "2023-04-12": 17356,
-  "2023-04-13": 17361,
-  "2023-04-14": 17368,
-  "2023-04-15": 17375,
-  "2023-04-16": 17372,
-  "2023-04-17": 17378,
-  "2023-04-18": 17380,
-  "2023-04-19": 17383,
-  "2023-04-20": 17389,
-  "2023-04-21": 17394,
-  "2023-04-22": 17398,
-  "2023-04-23": 17405,
-  "2023-04-24": 17414,
-  "2023-04-25": 17419,
-  "2023-04-26": 17424,
-  "2023-04-27": 17428,
-  "2023-04-28": 17433,
-  "2023-04-29": 17442,
-  "2023-04-30": 17448,
-  "2023-05-01": 17455,
-  "2023-05-02": 17461,
-  "2023-05-03": 17461,
-  "2023-05-04": 17468,
-  "2023-05-05": 17469,
-  "2023-05-06": 17471,
-  "2023-05-07": 17478,
-  "2023-05-08": 17483,
-  "2023-05-09": 17486,
-  "2023-05-10": 17488,
-  "2023-05-11": 17499,
-  "2023-05-12": 17508,
-  "2023-05-13": 17510,
-  "2023-05-14": 17517,
-  "2023-05-15": 17523,
-  "2023-05-16": 17528,
-  "2023-05-17": 17533,
-  "2023-05-18": 17534,
-  "2023-05-19": 17538,
-  "2023-05-20": 17544,
-  "2023-05-21": 17544,
-  "2023-05-22": 17544,
-  "2023-05-23": 17553,
-  "2023-05-24": 17567,
-  "2023-05-25": 17569,
-  "2023-05-26": 17578,
-  "2023-05-27": 17583,
-  "2023-05-28": 17588,
-  "2023-05-29": 17588,
-  "2023-05-30": 17596,
-  "2023-05-31": 17597,
-  "2023-06-01": 17602,
-  "2023-06-02": 17605,
-  "2023-06-03": 17611,
-  "2023-06-04": 17615,
-  "2023-06-05": 17618,
-  "2023-06-06": 17620,
-  "2023-06-07": 17623,
-  "2023-06-08": 17625,
-  "2023-06-09": 17634,
-  "2023-06-10": 17637,
-  "2023-06-11": 17645,
-  "2023-06-12": 17648,
-  "2023-06-13": 17646,
-  "2023-06-14": 17650,
-  "2023-06-15": 17653,
-  "2023-06-16": 17660,
-  "2023-06-17": 17661,
-  "2023-06-18": 17661,
-  "2023-06-19": 17668,
-  "2023-06-20": 17674,
-  "2023-06-21": 17676,
-  "2023-06-22": 17683,
-  "2023-06-23": 17687,
-  "2023-06-24": 17690,
-  "2023-06-25": 17696,
-  "2023-06-26": 17700,
-  "2023-06-27": 17704,
-  "2023-06-28": 17715,
-  "2023-06-29": 17720,
-  "2023-06-30": 17724,
-  "2023-07-01": 17741,
-  "2023-07-02": 17741,
-  "2023-07-03": 17748,
-  "2023-07-04": 17749,
-  "2023-07-05": 17758,
-  "2023-07-06": 17766,
-  "2023-07-07": 17766,
-  "2023-07-08": 17766,
-  "2023-07-09": 17771,
-  "2023-07-10": 17779,
-  "2023-07-11": 17784,
-  "2023-07-12": 17789,
-  "2023-07-13": 17795,
-  "2023-07-14": 17801,
-  "2023-07-15": 17802,
-  "2023-07-16": 17808,
-  "2023-07-17": 17814,
-  "2023-07-18": 17820,
-  "2023-07-19": 17828,
-  "2023-07-20": 17831,
-  "2023-07-21": 17842,
-  "2023-07-22": 17852,
-  "2023-07-23": 17853,
-  "2023-07-24": 17864,
-  "2023-07-25": 17875,
-  "2023-07-26": 17879,
-  "2023-07-27": 17885,
-  "2023-07-28": 17886,
-  "2023-07-29": 17897,
-  "2023-07-30": 17905,
-  "2023-07-31": 17906,
-  "2023-08-01": 17916,
-  "2023-08-02": 17916,
-  "2023-08-03": 17921,
-  "2023-08-04": 17928,
-  "2023-08-05": 17930,
-  "2023-08-06": 17939,
-  "2023-08-07": 17939,
-  "2023-08-08": 17943,
-  "2023-08-09": 17947,
-  "2023-08-10": 17946,
-  "2023-08-11": 17952,
-  "2023-08-12": 17952,
-  "2023-08-13": 17952,
-  "2023-08-14": 17964,
-  "2023-08-15": 17964,
-  "2023-08-16": 17964,
-  "2023-08-17": 17964,
-  "2023-08-18": 17964,
-  "2023-08-19": 17964,
-  "2023-08-20": 17995,
-  "2023-08-21": 17995,
-  "2023-08-22": 18002,
-  "2023-08-23": 18002,
-  "2023-08-24": 18002,
-  "2023-08-25": 18002,
-  "2023-08-26": 18018,
-  "2023-08-27": 18018,
-  "2023-08-28": 18025,
-  "2023-08-29": 18025,
-  "2023-08-30": 18025,
-  "2023-08-31": 18038,
-  "2023-09-01": 18045,
-  "2023-09-02": 18045,
-  "2023-09-03": 18045,
-  "2023-09-04": 18045,
-  "2023-09-05": 18045,
-  "2023-09-06": 18064,
-  "2023-09-07": 18064,
-  "2023-09-08": 18064,
-  "2023-09-09": 18064,
-  "2023-09-10": 18075,
-  "2023-09-11": 18075,
-  "2023-09-12": 18075,
-  "2023-09-13": 18075,
-  "2023-09-14": 18075,
-  "2023-09-15": 18075,
-  "2023-09-16": 18103,
-  "2023-09-17": 18103,
-  "2023-09-18": 18103,
-  "2023-09-19": 18123,
-  "2023-09-20": 18123,
-  "2023-09-21": 18123,
-  "2023-09-22": 18134,
-  "2023-09-23": 18134,
-  "2023-09-24": 18134,
-  "2023-09-25": 18134,
-  "2023-09-26": 18150,
-  "2023-09-27": 18150,
-  "2023-09-28": 18150,
-  "2023-09-29": 18150,
-  "2023-09-30": 18150,
-  "2023-10-01": 18150,
-  "2023-10-02": 18150,
-  "2023-10-03": 18150,
-  "2023-10-04": 18150,
-  "2023-10-05": 18150,
-  "2023-10-06": 18150,
-  "2023-10-07": 18150,
-  "2023-10-08": 18150,
-  "2023-10-09": 18150,
-  "2023-10-10": 18150,
-  "2023-10-11": 18213,
-  "2023-10-12": 18213,
-  "2023-10-13": 18213,
-  "2023-10-14": 18213,
-  "2023-10-15": 18213,
-  "2023-10-16": 18213,
-  "2023-10-17": 18213,
-  "2023-10-18": 18213,
-  "2023-10-19": 18213,
-  "2023-10-20": 18213,
-  "2023-10-21": 18213,
-  "2023-10-22": 18213,
-  "2023-10-23": 18213,
-  "2023-10-24": 18213,
-  "2023-10-25": 18213,
-  "2023-10-26": 18213,
-  "2023-10-27": 18213,
-  "2023-10-28": 18213,
-  "2023-10-29": 18213,
-  "2023-10-30": 18213,
-  "2023-10-31": 18213,
-  "2023-11-01": 18213,
-  "2023-11-02": 18213,
-  "2023-11-03": 18213,
-  "2023-11-04": 18213,
-  "2023-11-05": 18213,
-  "2023-11-06": 18213,
-  "2023-11-07": 18213,
-  "2023-11-08": 18213,
-  "2023-11-09": 18213,
-  "2023-11-10": 18213,
-  "2023-11-11": 18420,
-  "2023-11-12": 18420,
-  "2023-11-13": 18420,
-  "2023-11-14": 18420,
-  "2023-11-15": 18420,
-  "2023-11-16": 18420,
-  "2023-11-17": 18420,
-  "2023-11-18": 18420,
-  "2023-11-19": 18420,
-  "2023-11-20": 18420,
-  "2023-11-21": 18420,
-  "2023-11-22": 18420,
-  "2023-11-23": 18420,
-  "2023-11-24": 18420,
-  "2023-11-25": 18420,
-  "2023-11-26": 18420,
-  "2023-11-27": 18420,
-  "2023-11-28": 18420,
-  "2023-11-29": 18420,
-  "2023-11-30": 18420,
-  "2023-12-01": 18420,
-  "2023-12-02": 18420,
-  "2023-12-03": 18420,
-  "2023-12-04": 18420,
-  "2023-12-05": 18420,
-  "2023-12-06": 18420,
-  "2023-12-07": 18420,
-  "2023-12-08": 18420,
-  "2023-12-09": 18420,
-  "2023-12-10": 18420,
-  "2023-12-11": 18420,
-  "2023-12-12": 18420,
-  "2023-12-13": 18420,
-  "2023-12-14": 18614,
-  "2023-12-15": 18617,
-  "2023-12-16": 18621,
-  "2023-12-17": 18624,
-  "2023-12-18": 18628,
-  "2023-12-19": 18637,
-  "2023-12-20": 18644,
-  "2023-12-21": 18646,
-  "2023-12-22": 18650,
-  "2023-12-23": 18653,
-  "2023-12-24": 18660,
-  "2023-12-25": 18664,
-  "2023-12-26": 18665,
-  "2023-12-27": 18671,
-  "2023-12-30": 18682,
-  "2023-12-31": 18686,
-  "2024-01-01": 18691,
-  "2024-01-02": 18694,
-  "2024-01-03": 18695
+  "2024-01-17": 18710,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
+  "name": "This Is Mr Eazi",
+  "tracks": [
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw"
+    },
+    {
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 175394,
+      "name": "Accra to Lagos",
+      "url": "https://open.spotify.com/track/0WvsGQtjaCJAS8P1EoqkQs"
+    },
+    {
+      "album": {
+        "name": "Life Is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 175394,
+      "name": "Accra to Lagos",
+      "url": "https://open.spotify.com/track/3awa4nM82t3LJePKfIxchz"
+    },
+    {
+      "album": {
+        "name": "Advice",
+        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 165995,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165995,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/65jJXNS6RMNSn5J43e6eXq"
+    },
+    {
+      "album": {
+        "name": "AKWAABA",
+        "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Patapaa",
+          "url": "https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9"
+        },
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 206829,
+      "name": "AKWAABA",
+      "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
+    },
+    {
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+    },
+    {
+      "album": {
+        "name": "AYO'M",
+        "url": "https://open.spotify.com/album/1LppXvHQHDqNdaFafG6tmm"
+      },
+      "artists": [
+        {
+          "name": "Zoro",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Umu Obiligbo",
+          "url": "https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 248000,
+      "name": "AYO'M",
+      "url": "https://open.spotify.com/track/3ZpvQXdYqduwjKF3VIEYyn"
+    },
+    {
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Baby I'm Jealous",
+      "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "album": {
+        "name": "One Day You Will Understand",
+        "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "C Natty",
+          "url": "https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 169959,
+      "name": "Baby This Your Body Na G\u00f2be Fine Fine Sweet \u00d2kp\u00e9ke",
+      "url": "https://open.spotify.com/track/5SyomyWqCVD0UrdEh2IhN9"
+    },
+    {
+      "album": {
+        "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
+        "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Yungen",
+          "url": "https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204832,
+      "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
+      "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
+    },
+    {
+      "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
+      },
+      "artists": [
+        {
+          "name": "M.O",
+          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
+        },
+        {
+          "name": "Lotto Boyzz",
+          "url": "https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "Bad Vibe",
+      "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
+    },
+    {
+      "album": {
+        "name": "Balance It (Remix)",
+        "url": "https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m"
+      },
+      "artists": [
+        {
+          "name": "D Jay",
+          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173526,
+      "name": "Balance It (Remix)",
+      "url": "https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3"
+    },
+    {
+      "album": {
+        "name": "Bankulize",
+        "url": "https://open.spotify.com/album/5t6hZkumZCUBccDrCXww8W"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 248450,
+      "name": "Bankulize",
+      "url": "https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl"
+    },
+    {
+      "album": {
+        "name": "BE MY LOVER",
+        "url": "https://open.spotify.com/album/3flNe7ZbX3nSv67LtmicJe"
+      },
+      "artists": [
+        {
+          "name": "Jizzle",
+          "url": "https://open.spotify.com/artist/74fzLDLFt37GEvxhj6XDdu"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165618,
+      "name": "BE MY LOVER",
+      "url": "https://open.spotify.com/track/3pW9AlECzn3lmAEMAE9yce"
+    },
+    {
+      "album": {
+        "name": "Breakup Riddim",
+        "url": "https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf"
+      },
+      "artists": [
+        {
+          "name": "DJ Aroma",
+          "url": "https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Nhlanhla Nciza",
+          "url": "https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204549,
+      "name": "Breakup Riddim",
+      "url": "https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0"
+    },
+    {
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 207909,
+      "name": "By Force",
+      "url": "https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA"
+    },
+    {
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 151510,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4"
+    },
+    {
+      "album": {
+        "name": "Walshy Fire Presents: ABENG",
+        "url": "https://open.spotify.com/album/1AQVoSKakU0Yd3ujxdjkKT"
+      },
+      "artists": [
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 183299,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3KWr28Ybsc8fQR9lTwEbci"
+    },
+    {
+      "album": {
+        "name": "Call Waiting",
+        "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150702,
+      "name": "Call Waiting",
+      "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 180555,
+      "name": "Chicken Curry",
+      "url": "https://open.spotify.com/track/0lAoKoYx3IlflMn8bo3ehR"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 180555,
+      "name": "Chicken Curry",
+      "url": "https://open.spotify.com/track/6s7mVENVsuHRSDgoA0q5qq"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "album": {
+        "name": "Chop Time, No Friend",
+        "url": "https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz"
+    },
+    {
+      "album": {
+        "name": "Come Online (feat. King Promise & Diquenza) [Remix]",
+        "url": "https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 156545,
+      "name": "Come Online (feat. King Promise & Diquenza) - Remix",
+      "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
+    },
+    {
+      "album": {
+        "name": "Come Online (Remix)",
+        "url": "https://open.spotify.com/album/1eotNZ9P5imMktTagjngfJ"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/2NoT9wKYbNqwZ9Kod3KP6c"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4lPSCg8O38uALiBsjTeJZU"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 156545,
+      "name": "Come Online - Remix",
+      "url": "https://open.spotify.com/track/1XJkSLSrzIlwxSm3SYxYSb"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/6xe6BocwJcN1MIipYaHdkV"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "album": {
+        "name": "Dame Un Break (Remix)",
+        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262219,
+      "name": "Dame Un Break - Remix",
+      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (Eugy X Mr Eazi)",
+        "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
+      },
+      "artists": [
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Dance For Me (Eugy X Mr Eazi)",
+      "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
+    },
+    {
+      "album": {
+        "name": "Decline",
+        "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188172,
+      "name": "Decline",
+      "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 251092,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/7qy3B0xv1MFxuUbvWPzQv9"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "Lord Afrixana",
+          "url": "https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155990,
+      "name": "DON'T JEALOUS ME",
+      "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
+    },
+    {
+      "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
+    },
+    {
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 174295,
+      "name": "E Be Mad",
+      "url": "https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY"
+    },
+    {
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176379,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+    },
+    {
+      "album": {
+        "name": "Falling For U",
+        "url": "https://open.spotify.com/album/3eIM4SbuUYGBrmlyvBfgbi"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 181964,
+      "name": "Falling For U",
+      "url": "https://open.spotify.com/track/0V6UyAGvtcfNOEslahu96d"
+    },
+    {
+      "album": {
+        "name": "Falling For U",
+        "url": "https://open.spotify.com/album/2f67uzaLbH21E43aJUJOuR"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 181964,
+      "name": "Falling For U",
+      "url": "https://open.spotify.com/track/4C0dBjF3xoqF3wGWO2r9k9"
+    },
+    {
+      "album": {
+        "name": "Fefe Ne Fefe",
+        "url": "https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Fefe Ne Fefe",
+      "url": "https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9"
+    },
+    {
+      "album": {
+        "name": "Flex (Remix)",
+        "url": "https://open.spotify.com/album/28lLHSP8gEMBg4hroCrQK8"
+      },
+      "artists": [
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 192000,
+      "name": "Flex - Remix",
+      "url": "https://open.spotify.com/track/2FZpTgE0ksf5lmxi4wx6Zf"
+    },
+    {
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+    },
+    {
+      "album": {
+        "name": "Genging",
+        "url": "https://open.spotify.com/album/17LVU6TEclskNloInycf35"
+      },
+      "artists": [
+        {
+          "name": "Banku Music",
+          "url": "https://open.spotify.com/artist/3lr22Ch1Uee6iOJZ48vVsx"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181000,
+      "name": "Genging",
+      "url": "https://open.spotify.com/track/5V2Kj7uULK3qSk7EnQlpZS"
+    },
+    {
+      "album": {
+        "name": "Genging",
+        "url": "https://open.spotify.com/album/0mLjn3Kh9Q9BJShhmZHrOm"
+      },
+      "artists": [
+        {
+          "name": "Banku Music",
+          "url": "https://open.spotify.com/artist/4zSirYAg96BEMDTNPIOY3E"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-01",
+      "duration_ms": 181000,
+      "name": "Genging",
+      "url": "https://open.spotify.com/track/6eLzbtSMbVP0Z6uZgjT4oE"
+    },
+    {
+      "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
+      },
+      "artists": [
+        {
+          "name": "M.O",
+          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 233693,
+      "name": "Going Out Of My Way",
+      "url": "https://open.spotify.com/track/0neHNQl5W4XqAarFxCnni7"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0Nq2ODfFHRrbYXr35Hh6zE"
+      },
+      "artists": [
+        {
+          "name": "Yung Willis",
+          "url": "https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 190103,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv"
+    },
+    {
+      "album": {
+        "name": "Hollup",
+        "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dammy Krane",
+          "url": "https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260702,
+      "name": "Hollup",
+      "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
+    },
+    {
+      "album": {
+        "name": "I No Go Give Up On You",
+        "url": "https://open.spotify.com/album/4UZuNQHxYYKSr3c336LsvY"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 160733,
+      "name": "I No Go Give Up On You",
+      "url": "https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O"
+    },
+    {
+      "album": {
+        "name": "I Wanna Run Away",
+        "url": "https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 159230,
+      "name": "I Wanna Run Away",
+      "url": "https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs"
+    },
+    {
+      "album": {
+        "name": "I Wanna Run Away (feat. Wafia) [Jonasu Remix]",
+        "url": "https://open.spotify.com/album/2I2BQMFQNAsGPYw7RkGrvG"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 193739,
+      "name": "I Wanna Run Away (feat. Wafia) - Jonasu Remix",
+      "url": "https://open.spotify.com/track/7KS5ya9DdhDYUSYeku98VC"
+    },
+    {
+      "album": {
+        "name": "Life Is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Big Lean",
+          "url": "https://open.spotify.com/artist/3DF2S0BJ06q1FwvruHqF06"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 215822,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/28sixsVzWagLkjuX7VeEx0"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Big Lean",
+          "url": "https://open.spotify.com/artist/3DF2S0BJ06q1FwvruHqF06"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 215822,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/7LKNnb2aRFAK6WcvB0nCp7"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151543,
+      "name": "Jamboree",
+      "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
+    },
+    {
+      "album": {
+        "name": "Jejely",
+        "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 181250,
+      "name": "Jejely",
+      "url": "https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 168187,
+      "name": "Keys to the City (Ogede)",
+      "url": "https://open.spotify.com/track/0jUPkHqisoyy4yFzeo1Qho"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 168187,
+      "name": "Keys to the City (Ogede)",
+      "url": "https://open.spotify.com/track/6J7sw67vUDQxoGnlaB1thc"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198952,
+      "name": "KEYS TO THE KINGDOM",
+      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
+    },
+    {
+      "album": {
+        "name": "Kpalanga",
+        "url": "https://open.spotify.com/album/05AudPptuqYEWBZtozjQlb"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 144000,
+      "name": "Kpalanga",
+      "url": "https://open.spotify.com/track/6tIePLBQofcazi1Hhximzv"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 137500,
+      "name": "Lack Of Communication",
+      "url": "https://open.spotify.com/track/2gusqyL7TyifV55ytviqwV"
+    },
+    {
+      "album": {
+        "name": "Life Is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-13",
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
+    },
+    {
+      "album": {
+        "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
+        "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
+      "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "album": {
+        "name": "London Town",
+        "url": "https://open.spotify.com/album/0t9l8uAl9VLOehg4p10zN6"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 200408,
+      "name": "London Town",
+      "url": "https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa"
+    },
+    {
+      "album": {
+        "name": "DOU3LE 3AK",
+        "url": "https://open.spotify.com/album/0K8bvnLpHb5dW1RRQJQqkZ"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 214373,
+      "name": "Love Struck (feat. Tiwa Savage & Mr Eazi)",
+      "url": "https://open.spotify.com/track/6wO8AzCOhutr1QwfwFcmZb"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 160304,
+      "name": "Mandela",
+      "url": "https://open.spotify.com/track/4KsipOlFHPF7Qo29auvXXL"
+    },
+    {
+      "album": {
+        "name": "Marry",
+        "url": "https://open.spotify.com/album/6vYZnTZuk2w6xsNRmZkEKm"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 209841,
+      "name": "Marry",
+      "url": "https://open.spotify.com/track/6jIFjFLu7OtUJeo6B92r4D"
+    },
+    {
+      "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/2RSJZNCDSrp8LclefaUIir"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 169487,
+      "name": "Mia Mia (Bonus Track)",
+      "url": "https://open.spotify.com/track/1EATNOrIqIVFZqO7j6fngt"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-10",
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "album": {
+        "name": "No Way (feat. Lily Mckenzie)",
+        "url": "https://open.spotify.com/album/74ILWpbqbsKY3jSMZhIgDx"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Lily Mckenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 197160,
+      "name": "No Way (feat. Lily Mckenzie)",
+      "url": "https://open.spotify.com/track/3RLpDzi7Y9I9TuOhxK3Wjj"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145860,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
+    },
+    {
+      "album": {
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/1cMfoUKIrpyqRtcpCYAv3D"
+    },
+    {
+      "album": {
+        "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/2zTCpBjXqGaZwwdSCSXc2R"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "K4mo",
+          "url": "https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 180000,
+      "name": "Oh My Gawd",
+      "url": "https://open.spotify.com/track/5CHXbSS76okOT6NeuEY9gr"
+    },
+    {
+      "album": {
+        "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/2WLszfdXrG7iUFrFEfxa5s"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "K4mo",
+          "url": "https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 180000,
+      "name": "Oh My Gawd",
+      "url": "https://open.spotify.com/track/4hsnbG3sdTy3qdTbRVmxdz"
+    },
+    {
+      "album": {
+        "name": "Ohema (feat. Mr Eazi)",
+        "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78500,
+      "name": "Ol\u00fawa J\u1ecd\u0300",
+      "url": "https://open.spotify.com/track/5EFwsWY7fy06eS2q2vSUT4"
+    },
+    {
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+    },
+    {
+      "album": {
+        "name": "Pain, Love, & What Comes After",
+        "url": "https://open.spotify.com/album/5RiGPPLI0n9E7D3IBee4ob"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-10",
+      "duration_ms": 155172,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/2YveHqx6LTWwB4mXWxOz3j"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 164001,
+      "name": "Open & Close",
+      "url": "https://open.spotify.com/track/69BDyJybd7jXW0Tvl5QHt6"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-13",
+      "duration_ms": 164001,
+      "name": "Open & Close",
+      "url": "https://open.spotify.com/track/6NxwOC0X9R1Q8FnqvULkQQ"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/0PMhkoqlvlAkYalQxGJhSe"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 148026,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/0gI4KIsL9cf0IQbMRDkByQ"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/6VmDrJFWpBiwGx94ETeVJn"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Mr Real",
+          "url": "https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
+      "duration_ms": 148026,
+      "name": "Overload",
+      "url": "https://open.spotify.com/track/4XjX2pKGZw8CQ2mWakSK1Q"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
+    },
+    {
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-11",
+      "duration_ms": 190506,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
+    },
+    {
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "album": {
+        "name": "Patek (Remix)",
+        "url": "https://open.spotify.com/album/1AQtfXqm69rws7a5Qmf2PN"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183683,
+      "name": "Patek (Remix)",
+      "url": "https://open.spotify.com/track/6aaN2LMboLIyNlo7XmPIrP"
+    },
+    {
+      "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 215757,
+      "name": "Perfect (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/49qrjYuXyYH6YFnq9hjjSO"
+    },
+    {
+      "album": {
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
+      "album": {
+        "name": "Pilolo",
+        "url": "https://open.spotify.com/album/3Wl8CMx2v82kgyf3RbE8Wn"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 145920,
+      "name": "Pilolo",
+      "url": "https://open.spotify.com/track/4eQjrzsmjd9T8zmcK4Kmnv"
+    },
+    {
+      "album": {
+        "name": "Playground Politica (with Mr Eazi)",
+        "url": "https://open.spotify.com/album/3G08NIXSduvhkAQMGTZgqx"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 178188,
+      "name": "Playground Politica (with Mr Eazi)",
+      "url": "https://open.spotify.com/track/7hAKppWwCWIoDFfNasYr3J"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-13",
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/3pbRmP0Hqit2A4FcnOGAiF"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-11",
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/6XDOVfZEH8XPMpnX9dIqcT"
+    },
+    {
+      "album": {
+        "name": "LionHeart",
+        "url": "https://open.spotify.com/album/4Ylt64ChFosTnOL1VrD1rn"
+      },
+      "artists": [
+        {
+          "name": "Geko",
+          "url": "https://open.spotify.com/artist/5vfmmb3UHpuQWJ55JP9slk"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 240080,
+      "name": "Right Here (feat. Mr Eazi, Maleek Berry & Eugy)",
+      "url": "https://open.spotify.com/track/0xNbSPzZGrGZ6EqiT1R4Yj"
+    },
+    {
+      "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
+    },
+    {
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq"
+      },
+      "artists": [
+        {
+          "name": "Small Doctor",
+          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 179000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
+    },
+    {
+      "album": {
+        "name": "See Something",
+        "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157219,
+      "name": "See Something",
+      "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
+    },
+    {
+      "album": {
+        "name": "Sekkle & Bop",
+        "url": "https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156327,
+      "name": "Sekkle & Bop (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 151656,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0NrppiQcbgGrgobengy7e2"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 151656,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/38Rpan2UFcpt8ANdRbsysZ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+    },
+    {
+      "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-01",
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1pLOxV11pQRIyHnGIVZVDH"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
+      },
+      "artists": [
+        {
+          "name": "DJ Battle",
+          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 213354,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
+    },
+    {
+      "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/3wtPfBDQtYFAZfoV99s8uV"
+      },
+      "artists": [
+        {
+          "name": "Da Beatfreakz",
+          "url": "https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Shakka",
+          "url": "https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs"
+        },
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 216635,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/1jAsB4PSdWW7IQ6tvI3xwN"
+    },
+    {
+      "album": {
+        "name": "Tall Shade",
+        "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
+      },
+      "artists": [
+        {
+          "name": "Patrice",
+          "url": "https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Tall Shade",
+      "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
+    },
+    {
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 155805,
+      "name": "Tear Chain",
+      "url": "https://open.spotify.com/track/6y33WYt0thPEVtD3rO335t"
+    },
+    {
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "album": {
+        "name": "Tellin Me Something",
+        "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-25",
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
+    },
+    {
+      "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/5Qv5axvRRA9UfGUAfQPmCn"
+    },
+    {
+      "album": {
+        "name": "Thank You (Freestyle)",
+        "url": "https://open.spotify.com/album/1wInOL1grYlRN0zKkHbWxn"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 150927,
+      "name": "Thank You (Freestyle)",
+      "url": "https://open.spotify.com/track/69UHM2u5TC00vjJKTLhk9M"
+    },
+    {
+      "album": {
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 168896,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
+    },
+    {
+      "album": {
+        "name": "Tied Up (feat. Mr Eazi, RAYE and Jake Gosling)",
+        "url": "https://open.spotify.com/album/4tbPtaxjHDV52LOctsiG5r"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Jake Gosling",
+          "url": "https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 187333,
+      "name": "Tied Up (feat. Mr. Eazi, RAYE & Jake Gosling)",
+      "url": "https://open.spotify.com/track/6x2rOU6kWCb4hapELxe5N9"
+    },
+    {
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153992,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"
+    },
+    {
+      "album": {
+        "name": "Too Bad Bad (feat. Mr Eazi)",
+        "url": "https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO"
+      },
+      "artists": [
+        {
+          "name": "Shakka",
+          "url": "https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 186120,
+      "name": "Too Bad Bad (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D"
+    },
+    {
+      "album": {
+        "name": "Walangolo",
+        "url": "https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 224842,
+      "name": "Walangolo",
+      "url": "https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j"
+    },
+    {
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 159000,
+      "name": "We Dey",
+      "url": "https://open.spotify.com/track/21pyLwhAiXgqYvKXRmI6h3"
+    },
+    {
+      "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
+    },
+    {
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
+    },
+    {
+      "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "album": {
+        "name": "Whatever You Like (feat. Aida Lae)",
+        "url": "https://open.spotify.com/album/19rxMCwjmwPQ4espwyH3Kr"
+      },
+      "artists": [
+        {
+          "name": "Loick Essien",
+          "url": "https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Aida Lae",
+          "url": "https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 200986,
+      "name": "Whatever You Like (feat. Aida Lae)",
+      "url": "https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd"
+    },
+    {
+      "album": {
+        "name": "85 to Africa",
+        "url": "https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u"
+      },
+      "artists": [
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 200209,
+      "name": "Zodi (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Sc0Gk"
 }

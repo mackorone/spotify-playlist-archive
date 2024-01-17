@@ -316,6 +316,28 @@
     {
       "album": {
         "name": "Stupeflip",
+        "url": "https://open.spotify.com/album/64TBL0bNuNiNqceqU5Tt8a"
+      },
+      "artists": [
+        {
+          "name": "Stupeflip",
+          "url": "https://open.spotify.com/artist/7qiRNP9z0FhN63YcLmb8Ai"
+        },
+        {
+          "name": "Jacno",
+          "url": "https://open.spotify.com/artist/0Ylo19ka3IHeArSwlL3D8m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Je fume pu d'shit",
+      "url": "https://open.spotify.com/track/3EDtxSoKRi6kyO4QJvA91F"
+    },
+    {
+      "album": {
+        "name": "Stupeflip",
         "url": "https://open.spotify.com/album/7yE2SzDQMWqSAYoczBfqh4"
       },
       "artists": [
@@ -330,7 +352,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 196920,
       "name": "Je fume pu d'shit",
       "url": "https://open.spotify.com/track/629jpUceKSDgSLVDHdpz9l"
@@ -402,7 +424,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 295893,
       "name": "L'odyss\u00e9e du r\u00e9el",
       "url": "https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 178920,
       "name": "Tout le monde est l\u00e0",
       "url": "https://open.spotify.com/track/63BT1ZA8NSk0soGSmKQVfq"

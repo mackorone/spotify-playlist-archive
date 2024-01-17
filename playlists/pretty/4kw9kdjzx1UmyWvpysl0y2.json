@@ -1,13 +1,165 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127172,
+  "num_followers": 126676,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDUwMCxjMzJmZGY1ZDQ0Y2UxMDY5YzU0MTY4NGM4YTQwMzEwNTYzM2IzYTFl",
+  "snapshot_id": "NDUxOCxiODM2ZDA5NzdjOWI1YzRmY2RjM2RmOTYyZjM5ZmZlYmVjYTZhZGJj",
   "tracks": [
+    {
+      "added_at": "2024-01-16 18:19:48",
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/1TVA7epk6ZpEuqvTtdWfZb"
+      },
+      "artists": [
+        {
+          "name": "Angara",
+          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
+        },
+        {
+          "name": "Gregory Esayan",
+          "url": "https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/0Oa3fJvhtLXc6RGkcRVHVT"
+    },
+    {
+      "added_at": "2024-01-15 19:42:32",
+      "album": {
+        "name": "The Epic Octopus Song",
+        "url": "https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "Dani Demand",
+          "url": "https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "The Epic Octopus Song",
+      "url": "https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1"
+    },
+    {
+      "added_at": "2024-01-12 17:56:11",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2024-01-11 18:01:02",
+      "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        },
+        {
+          "name": "dabl",
+          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
+        }
+      ],
+      "duration_ms": 196645,
+      "name": "ENEMY",
+      "url": "https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig"
+    },
+    {
+      "added_at": "2024-01-10 14:43:12",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi"
+    },
+    {
+      "added_at": "2024-01-09 17:09:39",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH"
+    },
+    {
+      "added_at": "2024-01-08 14:37:10",
+      "album": {
+        "name": "4D",
+        "url": "https://open.spotify.com/album/7dPYE1Uoic9mBMFgwcqPaR"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Ryan Coss",
+          "url": "https://open.spotify.com/artist/22TzutcnmM3B1e7mWLY0f7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "4D",
+      "url": "https://open.spotify.com/track/2v4bGopODBEOQqWzg31R2s"
+    },
+    {
+      "added_at": "2024-01-05 15:51:32",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/19PqlRWtr5p3l4wCIPWWf8"
+      },
+      "artists": [
+        {
+          "name": "nanobii",
+          "url": "https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3"
+        }
+      ],
+      "duration_ms": 151770,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/6j4aQyFmFXFJP88bNCL6w8"
+    },
     {
       "added_at": "2023-12-14 15:18:42",
       "album": {
@@ -999,426 +1151,6 @@
       "duration_ms": 136615,
       "name": "Sylky",
       "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
-    },
-    {
-      "added_at": "2023-10-03 14:53:26",
-      "album": {
-        "name": "Lastecostra",
-        "url": "https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Lastecostra",
-      "url": "https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez"
-    },
-    {
-      "added_at": "2023-10-03 14:52:51",
-      "album": {
-        "name": "Vitamin R",
-        "url": "https://open.spotify.com/album/4xd9LfqmvWcibXiwsk3NIn"
-      },
-      "artists": [
-        {
-          "name": "Codd Dubz",
-          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
-        },
-        {
-          "name": "SQISHI",
-          "url": "https://open.spotify.com/artist/0UIHAcihBBHr4dlN4syE1h"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "Vitamin R",
-      "url": "https://open.spotify.com/track/3FmdXSMfZjqo9Lz4li7GpW"
-    },
-    {
-      "added_at": "2023-09-28 15:27:31",
-      "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157265,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
-    },
-    {
-      "added_at": "2023-09-27 15:31:17",
-      "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/5NVU2QOuSudlGQhAZvlXKP"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Justify",
-      "url": "https://open.spotify.com/track/61MeDNHGrA6WlaufVFebKC"
-    },
-    {
-      "added_at": "2023-09-26 14:48:05",
-      "album": {
-        "name": "NOT THE ONE",
-        "url": "https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Kelly Paige",
-          "url": "https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "NOT THE ONE",
-      "url": "https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN"
-    },
-    {
-      "added_at": "2023-09-25 17:28:12",
-      "album": {
-        "name": "Mirrorball",
-        "url": "https://open.spotify.com/album/1fnDE3UdzHEI35MUSbhM1M"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 239124,
-      "name": "Mirrorball",
-      "url": "https://open.spotify.com/track/4QvWeams3FkjHOGqI266ZH"
-    },
-    {
-      "added_at": "2023-09-25 17:27:22",
-      "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/79FMrbPy2c7zRzadyNV9aa"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Blvk Sheep",
-          "url": "https://open.spotify.com/artist/1iFDlldazsxhcE1uKnIsXr"
-        },
-        {
-          "name": "FOCUSS",
-          "url": "https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
-        }
-      ],
-      "duration_ms": 259687,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/25izyWirNjcy6QQSjKP8G1"
-    },
-    {
-      "added_at": "2023-09-21 16:13:55",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3"
-      },
-      "artists": [
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 211499,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn"
-    },
-    {
-      "added_at": "2023-09-20 14:35:51",
-      "album": {
-        "name": "The One You Call",
-        "url": "https://open.spotify.com/album/1r53rl1GB5DQ2Xuw99dreK"
-      },
-      "artists": [
-        {
-          "name": "Tom Ferry",
-          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
-        },
-        {
-          "name": "WILL MAC",
-          "url": "https://open.spotify.com/artist/5jH1Szsgrub3R1WQHlzByy"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 228188,
-      "name": "The One You Call",
-      "url": "https://open.spotify.com/track/6a3FrmdRlDvSOUH1I2caev"
-    },
-    {
-      "added_at": "2023-09-19 18:47:33",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/2oxKfXeIbwKJLraAfZfRQS"
-      },
-      "artists": [
-        {
-          "name": "SKYLER",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/2tImUAHJJ57AlEqcONzWFQ"
-    },
-    {
-      "added_at": "2023-09-18 14:40:57",
-      "album": {
-        "name": "haunted",
-        "url": "https://open.spotify.com/album/3Vb9NYVMJFam1G2IFTqUYO"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "Kazukii",
-          "url": "https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "haunted",
-      "url": "https://open.spotify.com/track/5mUu3ORxehXOXQwqrLwBTt"
-    },
-    {
-      "added_at": "2023-09-18 14:40:34",
-      "album": {
-        "name": "Do Not Resist",
-        "url": "https://open.spotify.com/album/475crrYDMvhgxXYp91ffTa"
-      },
-      "artists": [
-        {
-          "name": "Rebel Scum",
-          "url": "https://open.spotify.com/artist/59aaYbMLU4xeqKrwJSY4tE"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Do Not Resist",
-      "url": "https://open.spotify.com/track/4xvvHMshkQgGoDBCVXTSIa"
-    },
-    {
-      "added_at": "2023-09-14 16:03:19",
-      "album": {
-        "name": "Buckshots",
-        "url": "https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Buckshots",
-      "url": "https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8"
-    },
-    {
-      "added_at": "2023-09-13 14:47:09",
-      "album": {
-        "name": "Ready To Love",
-        "url": "https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy"
-      },
-      "artists": [
-        {
-          "name": "Just Kiddin",
-          "url": "https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo"
-        }
-      ],
-      "duration_ms": 145312,
-      "name": "Ready To Love",
-      "url": "https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss"
-    },
-    {
-      "added_at": "2023-09-12 20:09:28",
-      "album": {
-        "name": "To The Dark",
-        "url": "https://open.spotify.com/album/3XH9SMzK18UalZCwWADhcH"
-      },
-      "artists": [
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "MC Stretch",
-          "url": "https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "To The Dark",
-      "url": "https://open.spotify.com/track/5FpaIEFF0VXcfpghQthsEm"
-    },
-    {
-      "added_at": "2023-09-11 15:09:55",
-      "album": {
-        "name": "Follow The Princess",
-        "url": "https://open.spotify.com/album/2LxCos1KHu0QscEpxALzEm"
-      },
-      "artists": [
-        {
-          "name": "Dokho",
-          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
-        },
-        {
-          "name": "Not Now Please",
-          "url": "https://open.spotify.com/artist/3f330dgm1dKMxsVZHy7M84"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Follow The Princess",
-      "url": "https://open.spotify.com/track/5ZsxH6fMtuPuYRgf5J7bub"
-    },
-    {
-      "added_at": "2023-09-11 14:51:37",
-      "album": {
-        "name": "The Law",
-        "url": "https://open.spotify.com/album/5A624L3aNoTqg6jlMw0B9W"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
-        }
-      ],
-      "duration_ms": 236245,
-      "name": "The Law",
-      "url": "https://open.spotify.com/track/4FgwI0UIW4Vp71oNB2xB7y"
-    },
-    {
-      "added_at": "2023-09-07 17:34:38",
-      "album": {
-        "name": "GET IN THE CAR",
-        "url": "https://open.spotify.com/album/575QrauoGUh5a8620xO0bT"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        }
-      ],
-      "duration_ms": 104760,
-      "name": "GET IN THE CAR",
-      "url": "https://open.spotify.com/track/3vSYhCUWQ9K1OaUEjQBqfk"
-    },
-    {
-      "added_at": "2023-09-08 14:41:19",
-      "album": {
-        "name": "Nevada",
-        "url": "https://open.spotify.com/album/7eNKd847sotWHdAOKujY43"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Cozi Zuehlsdorff",
-          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "Nevada - Sped Up",
-      "url": "https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK"
-    },
-    {
-      "added_at": "2023-09-06 15:38:44",
-      "album": {
-        "name": "No Rules",
-        "url": "https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm"
-      },
-      "artists": [
-        {
-          "name": "Foxela",
-          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "No Rules",
-      "url": "https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ"
-    },
-    {
-      "added_at": "2023-09-05 15:37:59",
-      "album": {
-        "name": "Burbank Nights",
-        "url": "https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        }
-      ],
-      "duration_ms": 255172,
-      "name": "Burbank Nights",
-      "url": "https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu"
-    },
-    {
-      "added_at": "2023-09-05 15:28:51",
-      "album": {
-        "name": "A Game Of Fairies",
-        "url": "https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "A Game Of Fairies",
-      "url": "https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

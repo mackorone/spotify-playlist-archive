@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-160 songs - 12 hr 2 min
+161 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bombaclaart](https://open.spotify.com/track/77vBKTetBxPgaxG6qg6yiw) | [Klü](https://open.spotify.com/artist/0UiJxxiwwxIa28j25MHbmo) | [Bombaclaart](https://open.spotify.com/album/12iJQKMFIe4Tm1vRO4XpTz) | 1:24 | 2023-02-17 | 2023-11-21 |
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2023-02-17 |  |
 | [Bubbles](https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8) | [Szymon Burnos](https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu) | [Bubbles](https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb) | 4:26 | 2023-03-29 | 2023-10-24 |
-| [Cat Friend](https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG) | 2:15 | 2023-02-17 | 2023-12-26 |
+| [Cat Friend](https://open.spotify.com/track/5KqCoQucFcqcUCzpA2MveP) | [Burēku](https://open.spotify.com/artist/4ZROS5RylFIQnzi4SRTHVH) | [First Lesson](https://open.spotify.com/album/40nSeTMuFMiMHvwIwncgQG) | 2:15 | 2023-02-17 | 2024-01-16 |
 | [Cathart](https://open.spotify.com/track/27F81Z0W6wfUdKH0u7f3iX) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Lucky Cat](https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8) | 5:12 | 2023-02-17 |  |
 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 | 2023-02-17 |  |
 | [Chirp](https://open.spotify.com/track/1cjYtL6yMFDLyZYn9bDkGo) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 3:06 | 2023-02-17 |  |
@@ -78,7 +78,8 @@
 | [Impressions](https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 3:44 | 2023-02-17 |  |
 | [Indica \- Pye Corner Audio Remix \- Glok Re\-Edit](https://open.spotify.com/track/1nHuJ99bSdi4ZoAfv3VzoW) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Indica Gallery \- EP](https://open.spotify.com/album/5WVgmKhdv1lao4eNXwWg59) | 7:45 | 2023-02-17 |  |
 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2023-02-17 |  |
-| [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 |  |
+| [jazmin](https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines, Vol.1](https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc) | 2:33 | 2023-03-03 |  |
+| [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-03-03 | 2024-01-12 |
 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 | 2023-02-17 |  |
 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 | 2023-02-17 |  |
 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 | 2023-02-17 |  |

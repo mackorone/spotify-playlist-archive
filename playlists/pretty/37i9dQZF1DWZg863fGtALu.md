@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 
 > Summer memories from yesteryear!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,186 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,301 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZg863fGtALu.md) - [plain]
 | 60 | [Ladbroke Grove](https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [AJ Tracey](https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj) | 3:10 |
 | 61 | [Flowers \- Sunship Edit](https://open.spotify.com/track/2Np6ZbVFXfhlk3Oin6i92t) | [Sweet Female Attitude](https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX) | [In Person](https://open.spotify.com/album/1aSBBYRCl4FcSm27hWaO8r) | 3:50 |
 | 62 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
-| 63 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 |
+| 63 | [Mysterious Girl](https://open.spotify.com/track/0Uv7XAvLM1WH3evBVEDg2V) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90s](https://open.spotify.com/album/7y9vSSW4iCud59Lb4fmzlb) | 3:36 |
 | 64 | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc) | [Phats & Small](https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6) | [Turn Around \(Hey What's Wrong With You\)](https://open.spotify.com/album/5hWljyIu9DZbTeO6yoljXU) | 3:32 |
 | 65 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 66 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Sweat \(A La La La La Long\)](https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg) | 3:49 |

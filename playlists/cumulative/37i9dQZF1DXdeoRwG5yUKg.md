@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-157 songs - 10 hr 54 min
+158 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Nothin' With You](https://open.spotify.com/track/6xfYSSuvpEg36fjA7U3QYD) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/3MyVNL91Apamtu9fUEQ9nO) | 3:36 | 2020-11-05 | 2022-07-29 |
 | [Nothing Without You](https://open.spotify.com/track/6P9qzDTlTNgtbfMLBc1ZVi) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 4:15 | 2020-11-05 |  |
 | [Nothing Without You](https://open.spotify.com/track/74k004vkHYlQ8r3fqIZ73C) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG) | 4:15 | 2020-11-05 | 2022-07-29 |
-| [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 | 2020-11-05 |  |
+| [Now You Want Me Back](https://open.spotify.com/track/4Xdduaxx6hH6JER9A2Q71v) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/7lrmsF6mMiLYN8WAXJziez) | 4:09 | 2020-11-05 |  |
+| [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 | 2020-11-05 | 2024-01-12 |
 | [Old Flame](https://open.spotify.com/track/4A3OM57jy51hcJfPv06za1) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 2:41 | 2020-11-05 | 2023-04-29 |
 | [Old Flame](https://open.spotify.com/track/5KJ1xOE9SaFsYFJKqxf5RX) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/0HQalCiuviEhDvPhcBODoS) | 2:41 | 2020-11-05 |  |
 | [Old Flame](https://open.spotify.com/track/5YB1o0wYhyKRb760RFmvXa) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Mischievous Moon](https://open.spotify.com/album/3Rodq8gUXYYXtrfNdjWzmI) | 2:42 | 2020-11-05 | 2022-07-29 |

@@ -1,580 +1,1813 @@
 {
-  "2022-05-30": 16260,
-  "2022-05-31": 16268,
-  "2022-06-01": 16289,
-  "2022-06-02": 16289,
-  "2022-06-03": 16303,
-  "2022-06-04": 16308,
-  "2022-06-05": 16317,
-  "2022-06-06": 16330,
-  "2022-06-07": 16340,
-  "2022-06-08": 16348,
-  "2022-06-09": 16353,
-  "2022-06-10": 16360,
-  "2022-06-11": 16367,
-  "2022-06-12": 16378,
-  "2022-06-13": 16383,
-  "2022-06-14": 16398,
-  "2022-06-15": 16408,
-  "2022-06-16": 16414,
-  "2022-06-17": 16424,
-  "2022-06-18": 16436,
-  "2022-06-19": 16462,
-  "2022-06-20": 16462,
-  "2022-06-21": 16474,
-  "2022-06-22": 16495,
-  "2022-06-23": 16495,
-  "2022-06-24": 16498,
-  "2022-06-25": 16501,
-  "2022-06-26": 16512,
-  "2022-06-27": 16522,
-  "2022-06-28": 16534,
-  "2022-06-29": 16545,
-  "2022-06-30": 16551,
-  "2022-07-01": 16563,
-  "2022-07-02": 16570,
-  "2022-07-03": 16579,
-  "2022-07-04": 16587,
-  "2022-07-05": 16592,
-  "2022-07-06": 16592,
-  "2022-07-07": 16603,
-  "2022-07-08": 16613,
-  "2022-07-09": 16623,
-  "2022-07-10": 16638,
-  "2022-07-11": 16644,
-  "2022-07-12": 16656,
-  "2022-07-13": 16663,
-  "2022-07-14": 16668,
-  "2022-07-15": 16677,
-  "2022-07-16": 16694,
-  "2022-07-17": 16708,
-  "2022-07-18": 16714,
-  "2022-07-19": 16728,
-  "2022-07-20": 16744,
-  "2022-07-21": 16753,
-  "2022-07-22": 16760,
-  "2022-07-23": 16765,
-  "2022-07-24": 16771,
-  "2022-07-25": 16780,
-  "2022-07-26": 16796,
-  "2022-07-27": 16805,
-  "2022-07-28": 16811,
-  "2022-07-29": 16818,
-  "2022-07-30": 16832,
-  "2022-07-31": 16832,
-  "2022-08-01": 16837,
-  "2022-08-02": 16841,
-  "2022-08-03": 16841,
-  "2022-08-04": 16845,
-  "2022-08-05": 16858,
-  "2022-08-06": 16860,
-  "2022-08-07": 16873,
-  "2022-08-08": 16884,
-  "2022-08-09": 16884,
-  "2022-08-10": 16894,
-  "2022-08-11": 16903,
-  "2022-08-12": 16915,
-  "2022-08-13": 16926,
-  "2022-08-14": 16932,
-  "2022-08-15": 16945,
-  "2022-08-16": 16957,
-  "2022-08-17": 16970,
-  "2022-08-18": 16978,
-  "2022-08-19": 16985,
-  "2022-08-20": 17000,
-  "2022-08-21": 17015,
-  "2022-08-22": 17022,
-  "2022-08-23": 17030,
-  "2022-08-24": 17035,
-  "2022-08-25": 17043,
-  "2022-08-26": 17052,
-  "2022-08-27": 17064,
-  "2022-08-28": 17081,
-  "2022-08-29": 17092,
-  "2022-08-30": 17086,
-  "2022-08-31": 17065,
-  "2022-09-01": 17058,
-  "2022-09-02": 17039,
-  "2022-09-03": 17011,
-  "2022-09-04": 17003,
-  "2022-09-05": 17015,
-  "2022-09-06": 17027,
-  "2022-09-07": 17032,
-  "2022-09-09": 17055,
-  "2022-09-10": 17060,
-  "2022-09-11": 17075,
-  "2022-09-12": 17087,
-  "2022-09-13": 17096,
-  "2022-09-15": 17115,
-  "2022-09-16": 17123,
-  "2022-09-17": 17135,
-  "2022-09-18": 17143,
-  "2022-09-19": 17159,
-  "2022-09-20": 17163,
-  "2022-09-21": 17175,
-  "2022-09-22": 17183,
-  "2022-09-23": 17200,
-  "2022-09-24": 17200,
-  "2022-09-25": 17236,
-  "2022-09-26": 17248,
-  "2022-09-27": 17254,
-  "2022-09-28": 17265,
-  "2022-09-29": 17275,
-  "2022-09-30": 17284,
-  "2022-10-01": 17291,
-  "2022-10-02": 17302,
-  "2022-10-03": 17306,
-  "2022-10-04": 17311,
-  "2022-10-05": 17315,
-  "2022-10-06": 17328,
-  "2022-10-07": 17342,
-  "2022-10-08": 17351,
-  "2022-10-09": 17364,
-  "2022-10-10": 17367,
-  "2022-10-11": 17372,
-  "2022-10-12": 17383,
-  "2022-10-13": 17396,
-  "2022-10-14": 17401,
-  "2022-10-15": 17405,
-  "2022-10-16": 17419,
-  "2022-10-17": 17435,
-  "2022-10-18": 17444,
-  "2022-10-19": 17458,
-  "2022-10-20": 17500,
-  "2022-10-21": 17519,
-  "2022-10-22": 17537,
-  "2022-10-23": 17548,
-  "2022-10-24": 17564,
-  "2022-10-25": 17574,
-  "2022-10-26": 17587,
-  "2022-10-27": 17593,
-  "2022-10-28": 17603,
-  "2022-10-29": 17612,
-  "2022-10-30": 17622,
-  "2022-10-31": 17630,
-  "2022-11-01": 17635,
-  "2022-11-02": 17644,
-  "2022-11-03": 17657,
-  "2022-11-04": 17667,
-  "2022-11-05": 17676,
-  "2022-11-06": 17691,
-  "2022-11-07": 17699,
-  "2022-11-08": 17712,
-  "2022-11-09": 17725,
-  "2022-11-10": 17736,
-  "2022-11-11": 17753,
-  "2022-11-12": 17763,
-  "2022-11-13": 17770,
-  "2022-11-14": 17782,
-  "2022-11-15": 17795,
-  "2022-11-16": 17803,
-  "2022-11-17": 17813,
-  "2022-11-18": 17814,
-  "2022-11-19": 17818,
-  "2022-11-20": 17839,
-  "2022-11-21": 17849,
-  "2022-11-22": 17855,
-  "2022-11-23": 17859,
-  "2022-11-24": 17893,
-  "2022-11-25": 17910,
-  "2022-11-26": 17918,
-  "2022-11-27": 17924,
-  "2022-11-28": 17936,
-  "2022-11-29": 17949,
-  "2022-11-30": 17960,
-  "2022-12-01": 17978,
-  "2022-12-02": 17989,
-  "2022-12-03": 18009,
-  "2022-12-04": 18016,
-  "2022-12-05": 18038,
-  "2022-12-06": 18049,
-  "2022-12-07": 18065,
-  "2022-12-08": 18082,
-  "2022-12-09": 18086,
-  "2022-12-10": 18098,
-  "2022-12-11": 18102,
-  "2022-12-12": 18116,
-  "2022-12-13": 18124,
-  "2022-12-14": 18135,
-  "2022-12-15": 18140,
-  "2022-12-16": 18150,
-  "2022-12-17": 18164,
-  "2022-12-18": 18171,
-  "2022-12-19": 18182,
-  "2022-12-20": 18199,
-  "2022-12-21": 18199,
-  "2022-12-22": 18209,
-  "2022-12-24": 18227,
-  "2022-12-25": 18234,
-  "2022-12-26": 18248,
-  "2022-12-27": 18254,
-  "2022-12-28": 18265,
-  "2022-12-29": 18270,
-  "2022-12-30": 18276,
-  "2022-12-31": 18280,
-  "2023-01-01": 18288,
-  "2023-01-02": 18300,
-  "2023-01-03": 18312,
-  "2023-01-04": 18315,
-  "2023-01-05": 18324,
-  "2023-01-06": 18338,
-  "2023-01-07": 18357,
-  "2023-01-08": 18357,
-  "2023-01-09": 18364,
-  "2023-01-10": 18378,
-  "2023-01-11": 18391,
-  "2023-01-12": 18403,
-  "2023-01-13": 18418,
-  "2023-01-14": 18445,
-  "2023-01-15": 18448,
-  "2023-01-16": 18461,
-  "2023-01-17": 18474,
-  "2023-01-18": 18485,
-  "2023-01-19": 18490,
-  "2023-01-20": 18501,
-  "2023-01-21": 18513,
-  "2023-01-22": 18526,
-  "2023-01-23": 18541,
-  "2023-01-24": 18560,
-  "2023-01-25": 18567,
-  "2023-01-26": 18576,
-  "2023-01-27": 18591,
-  "2023-01-28": 18601,
-  "2023-01-29": 18611,
-  "2023-01-30": 18624,
-  "2023-01-31": 18624,
-  "2023-02-01": 18637,
-  "2023-02-02": 18655,
-  "2023-02-03": 18659,
-  "2023-02-04": 18671,
-  "2023-02-05": 18682,
-  "2023-02-06": 18701,
-  "2023-02-07": 18712,
-  "2023-02-08": 18729,
-  "2023-02-09": 18729,
-  "2023-02-10": 18745,
-  "2023-02-11": 18750,
-  "2023-02-12": 18767,
-  "2023-02-13": 18775,
-  "2023-02-14": 18775,
-  "2023-02-15": 18782,
-  "2023-02-16": 18787,
-  "2023-02-17": 18798,
-  "2023-02-18": 18818,
-  "2023-02-19": 18818,
-  "2023-02-20": 18824,
-  "2023-02-21": 18835,
-  "2023-02-22": 18848,
-  "2023-02-23": 18866,
-  "2023-02-24": 18876,
-  "2023-02-25": 18893,
-  "2023-02-26": 18896,
-  "2023-02-27": 18914,
-  "2023-02-28": 18914,
-  "2023-03-01": 18914,
-  "2023-03-02": 18919,
-  "2023-03-03": 18937,
-  "2023-03-04": 18947,
-  "2023-03-05": 18971,
-  "2023-03-06": 18971,
-  "2023-03-07": 18977,
-  "2023-03-08": 18990,
-  "2023-03-09": 19004,
-  "2023-03-10": 19013,
-  "2023-03-11": 19024,
-  "2023-03-12": 19039,
-  "2023-03-13": 19047,
-  "2023-03-14": 19058,
-  "2023-03-15": 19064,
-  "2023-03-16": 19064,
-  "2023-03-17": 19064,
-  "2023-03-18": 19092,
-  "2023-03-19": 19092,
-  "2023-03-20": 19117,
-  "2023-03-21": 19125,
-  "2023-03-22": 19138,
-  "2023-03-23": 19150,
-  "2023-03-24": 19150,
-  "2023-03-25": 19168,
-  "2023-03-26": 19180,
-  "2023-03-27": 19187,
-  "2023-03-28": 19199,
-  "2023-03-29": 19207,
-  "2023-03-30": 19228,
-  "2023-03-31": 19228,
-  "2023-04-01": 19239,
-  "2023-04-02": 19251,
-  "2023-04-03": 19262,
-  "2023-04-04": 19271,
-  "2023-04-05": 19287,
-  "2023-04-06": 19307,
-  "2023-04-07": 19315,
-  "2023-04-09": 19330,
-  "2023-04-10": 19341,
-  "2023-04-11": 19354,
-  "2023-04-12": 19354,
-  "2023-04-13": 19363,
-  "2023-04-14": 19374,
-  "2023-04-15": 19385,
-  "2023-04-16": 19395,
-  "2023-04-17": 19404,
-  "2023-04-18": 19415,
-  "2023-04-19": 19427,
-  "2023-04-20": 19428,
-  "2023-04-21": 19451,
-  "2023-04-22": 19461,
-  "2023-04-23": 19476,
-  "2023-04-24": 19486,
-  "2023-04-25": 19492,
-  "2023-04-26": 19501,
-  "2023-04-27": 19517,
-  "2023-04-28": 19522,
-  "2023-04-29": 19534,
-  "2023-04-30": 19537,
-  "2023-05-01": 19542,
-  "2023-05-02": 19549,
-  "2023-05-03": 19555,
-  "2023-05-04": 19564,
-  "2023-05-05": 19571,
-  "2023-05-06": 19581,
-  "2023-05-07": 19594,
-  "2023-05-08": 19609,
-  "2023-05-09": 19613,
-  "2023-05-10": 19625,
-  "2023-05-11": 19643,
-  "2023-05-12": 19665,
-  "2023-05-13": 19669,
-  "2023-05-14": 19684,
-  "2023-05-15": 19691,
-  "2023-05-16": 19700,
-  "2023-05-17": 19701,
-  "2023-05-18": 19711,
-  "2023-05-19": 19724,
-  "2023-05-20": 19749,
-  "2023-05-21": 19749,
-  "2023-05-22": 19749,
-  "2023-05-23": 19759,
-  "2023-05-24": 19770,
-  "2023-05-25": 19772,
-  "2023-05-26": 19789,
-  "2023-05-27": 19797,
-  "2023-05-28": 19811,
-  "2023-05-29": 19811,
-  "2023-05-30": 19834,
-  "2023-05-31": 19847,
-  "2023-06-01": 19861,
-  "2023-06-02": 19868,
-  "2023-06-03": 19878,
-  "2023-06-04": 19887,
-  "2023-06-05": 19901,
-  "2023-06-06": 19906,
-  "2023-06-07": 19925,
-  "2023-06-08": 19934,
-  "2023-06-09": 19956,
-  "2023-06-10": 19958,
-  "2023-06-11": 19972,
-  "2023-06-12": 19979,
-  "2023-06-13": 19994,
-  "2023-06-14": 20005,
-  "2023-06-15": 20017,
-  "2023-06-16": 20030,
-  "2023-06-17": 20038,
-  "2023-06-18": 20051,
-  "2023-06-19": 20064,
-  "2023-06-20": 20065,
-  "2023-06-21": 20082,
-  "2023-06-22": 20096,
-  "2023-06-23": 20108,
-  "2023-06-24": 20112,
-  "2023-06-25": 20119,
-  "2023-06-26": 20130,
-  "2023-06-27": 20133,
-  "2023-06-28": 20149,
-  "2023-06-29": 20143,
-  "2023-06-30": 20156,
-  "2023-07-01": 20178,
-  "2023-07-02": 20178,
-  "2023-07-03": 20185,
-  "2023-07-04": 20194,
-  "2023-07-05": 20214,
-  "2023-07-06": 20234,
-  "2023-07-07": 20234,
-  "2023-07-08": 20245,
-  "2023-07-09": 20259,
-  "2023-07-10": 20261,
-  "2023-07-11": 20272,
-  "2023-07-12": 20287,
-  "2023-07-13": 20294,
-  "2023-07-14": 20300,
-  "2023-07-15": 20304,
-  "2023-07-16": 20311,
-  "2023-07-17": 20320,
-  "2023-07-18": 20322,
-  "2023-07-19": 20331,
-  "2023-07-20": 20338,
-  "2023-07-21": 20351,
-  "2023-07-22": 20362,
-  "2023-07-23": 20372,
-  "2023-07-24": 20380,
-  "2023-07-25": 20394,
-  "2023-07-26": 20401,
-  "2023-07-27": 20414,
-  "2023-07-28": 20426,
-  "2023-07-29": 20434,
-  "2023-07-30": 20440,
-  "2023-07-31": 20456,
-  "2023-08-01": 20466,
-  "2023-08-02": 20488,
-  "2023-08-03": 20499,
-  "2023-08-04": 20513,
-  "2023-08-05": 20516,
-  "2023-08-06": 20543,
-  "2023-08-07": 20543,
-  "2023-08-08": 20554,
-  "2023-08-09": 20572,
-  "2023-08-10": 20583,
-  "2023-08-11": 20593,
-  "2023-08-12": 20593,
-  "2023-08-13": 20593,
-  "2023-08-14": 20621,
-  "2023-08-15": 20621,
-  "2023-08-16": 20621,
-  "2023-08-17": 20643,
-  "2023-08-18": 20643,
-  "2023-08-19": 20643,
-  "2023-08-20": 20685,
-  "2023-08-21": 20685,
-  "2023-08-22": 20706,
-  "2023-08-23": 20706,
-  "2023-08-24": 20724,
-  "2023-08-25": 20724,
-  "2023-08-26": 20733,
-  "2023-08-27": 20733,
-  "2023-08-28": 20760,
-  "2023-08-29": 20760,
-  "2023-08-30": 20760,
-  "2023-08-31": 20786,
-  "2023-09-01": 20797,
-  "2023-09-02": 20797,
-  "2023-09-03": 20823,
-  "2023-09-04": 20823,
-  "2023-09-05": 20823,
-  "2023-09-06": 20845,
-  "2023-09-07": 20845,
-  "2023-09-08": 20845,
-  "2023-09-09": 20845,
-  "2023-09-10": 20884,
-  "2023-09-11": 20884,
-  "2023-09-12": 20884,
-  "2023-09-13": 20918,
-  "2023-09-14": 20918,
-  "2023-09-15": 20918,
-  "2023-09-16": 20950,
-  "2023-09-17": 20950,
-  "2023-09-18": 20950,
-  "2023-09-19": 20975,
-  "2023-09-20": 20975,
-  "2023-09-21": 20975,
-  "2023-09-22": 21018,
-  "2023-09-23": 21018,
-  "2023-09-24": 21018,
-  "2023-09-25": 21018,
-  "2023-09-26": 21073,
-  "2023-09-27": 21073,
-  "2023-09-28": 21073,
-  "2023-09-29": 21073,
-  "2023-09-30": 21073,
-  "2023-10-01": 21073,
-  "2023-10-02": 21154,
-  "2023-10-03": 21154,
-  "2023-10-04": 21154,
-  "2023-10-05": 21190,
-  "2023-10-06": 21202,
-  "2023-10-07": 21202,
-  "2023-10-08": 21202,
-  "2023-10-09": 21202,
-  "2023-10-10": 21202,
-  "2023-10-11": 21250,
-  "2023-10-12": 21250,
-  "2023-10-13": 21250,
-  "2023-10-14": 21250,
-  "2023-10-15": 21250,
-  "2023-10-16": 21250,
-  "2023-10-17": 21250,
-  "2023-10-18": 21250,
-  "2023-10-19": 21250,
-  "2023-10-20": 21250,
-  "2023-10-21": 21250,
-  "2023-10-22": 21250,
-  "2023-10-23": 21250,
-  "2023-10-24": 21250,
-  "2023-10-25": 21250,
-  "2023-10-26": 21250,
-  "2023-10-27": 21250,
-  "2023-10-28": 21250,
-  "2023-10-29": 21250,
-  "2023-10-30": 21250,
-  "2023-10-31": 21250,
-  "2023-11-01": 21250,
-  "2023-11-02": 21250,
-  "2023-11-03": 21250,
-  "2023-11-04": 21250,
-  "2023-11-05": 21250,
-  "2023-11-06": 21250,
-  "2023-11-07": 21250,
-  "2023-11-08": 21250,
-  "2023-11-09": 21250,
-  "2023-11-10": 21250,
-  "2023-11-11": 21524,
-  "2023-11-12": 21524,
-  "2023-11-13": 21524,
-  "2023-11-14": 21524,
-  "2023-11-15": 21524,
-  "2023-11-16": 21524,
-  "2023-11-17": 21524,
-  "2023-11-18": 21524,
-  "2023-11-19": 21524,
-  "2023-11-20": 21524,
-  "2023-11-21": 21524,
-  "2023-11-22": 21524,
-  "2023-11-23": 21524,
-  "2023-11-24": 21524,
-  "2023-11-25": 21524,
-  "2023-11-26": 21524,
-  "2023-11-27": 21524,
-  "2023-11-28": 21524,
-  "2023-11-29": 21524,
-  "2023-11-30": 21524,
-  "2023-12-01": 21524,
-  "2023-12-02": 21524,
-  "2023-12-03": 21524,
-  "2023-12-04": 21524,
-  "2023-12-05": 21524,
-  "2023-12-06": 21524,
-  "2023-12-07": 21524,
-  "2023-12-08": 21524,
-  "2023-12-09": 21524,
-  "2023-12-10": 21524,
-  "2023-12-11": 21524,
-  "2023-12-12": 21524,
-  "2023-12-13": 21524,
-  "2023-12-14": 21803,
-  "2023-12-15": 21810,
-  "2023-12-16": 21820,
-  "2023-12-17": 21831,
-  "2023-12-18": 21842,
-  "2023-12-19": 21854,
-  "2023-12-20": 21863,
-  "2023-12-21": 21867,
-  "2023-12-22": 21872,
-  "2023-12-23": 21887,
-  "2023-12-24": 21903,
-  "2023-12-25": 21911,
-  "2023-12-26": 21913,
-  "2023-12-27": 21920,
-  "2023-12-30": 21935,
-  "2023-12-31": 21945,
-  "2024-01-01": 21956,
-  "2024-01-02": 21964,
-  "2024-01-03": 21974
+  "2024-01-17": 22097,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
+  "name": "This Is Boards of Canada",
+  "tracks": [
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 260466,
+      "name": "1969",
+      "url": "https://open.spotify.com/track/3JZjPBwqL5F4PE55nm8iNV"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260466,
+      "name": "1969",
+      "url": "https://open.spotify.com/track/7qWHLT10dDsu8fCJZFkL5y"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 229813,
+      "name": "84 Pontiac Dream",
+      "url": "https://open.spotify.com/track/7LdfKO6BWufPr8ItB9uMMz"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51720,
+      "name": "A Moment Of Clarity",
+      "url": "https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 51720,
+      "name": "A Moment Of Clarity",
+      "url": "https://open.spotify.com/track/6OzOsP5Ftn3osfuCvSxnYr"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 422586,
+      "name": "Alpha And Omega",
+      "url": "https://open.spotify.com/track/0aiJjUQffDoOTntvqDlicF"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373080,
+      "name": "Amo Bishop Roden [Chosen by Warp co-founder Steve Beckett]",
+      "url": "https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 376080,
+      "name": "Amo Bishop Roden [Chosen by Warp co-founder Steve Beckett]",
+      "url": "https://open.spotify.com/track/1oeovPFdMfedh7VpbXg6YP"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 385520,
+      "name": "An Eagle In Your Mind",
+      "url": "https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 358080,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 74133,
+      "name": "Ataronchronon",
+      "url": "https://open.spotify.com/track/3NFvPiE8u70nJymhP17Orx"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74133,
+      "name": "Ataronchronon",
+      "url": "https://open.spotify.com/track/3xGBxNYkOxADllwnLR4arr"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 37626,
+      "name": "Beware The Friendly Stranger",
+      "url": "https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37626,
+      "name": "Beware The Friendly Stranger",
+      "url": "https://open.spotify.com/track/687l4FFeMyg6wJYO8LCX4b"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222136,
+      "name": "Cold Earth",
+      "url": "https://open.spotify.com/track/3D37FsVAqvQFAddR3JcJ3e"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 222136,
+      "name": "Cold Earth",
+      "url": "https://open.spotify.com/track/7aXWNIZMxTzU76bdmajx9c"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 169825,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/6G0QWjgXe7XzpcwPchzAaV"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 247627,
+      "name": "Come To Dust",
+      "url": "https://open.spotify.com/track/5Rq43IH5VHoSkeGGR3gwl0"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102053,
+      "name": "Constants Are Changing",
+      "url": "https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 102053,
+      "name": "Constants Are Changing",
+      "url": "https://open.spotify.com/track/6InkUffjcAOYPiX4BEAjrU"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 235493,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/7LY0R33pPIFr0Y64VZC9Wo"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300186,
+      "name": "Dayvan Cowboy",
+      "url": "https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 300186,
+      "name": "Dayvan Cowboy",
+      "url": "https://open.spotify.com/track/4Y2W4zKa3q72ztbkA0r8Va"
+    },
+    {
+      "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419565,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR"
+    },
+    {
+      "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 423933,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 176254,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 176254,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69906,
+      "name": "Heard From Telegraph Lines",
+      "url": "https://open.spotify.com/track/6RvZ4phSKCNjBwhwd7iTp4"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 69906,
+      "name": "Heard From Telegraph Lines",
+      "url": "https://open.spotify.com/track/72fa7xnZfwJdH1bbMzeRvx"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 296480,
+      "name": "Hey Saturday Sun",
+      "url": "https://open.spotify.com/track/5D7jl5qqynjNZZEiy4KQ2b"
+    },
+    {
+      "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 297346,
+      "name": "Hi Scores",
+      "url": "https://open.spotify.com/track/4cK52WJ9gD5M3VrJoZvhaN"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Iced Cooly",
+      "url": "https://open.spotify.com/track/10A5AbphZ1ibW6h4XaKokE"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 142106,
+      "name": "Iced Cooly",
+      "url": "https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82133,
+      "name": "In The Annexe",
+      "url": "https://open.spotify.com/track/46VGk02ZLerhw2SdV953zV"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 82133,
+      "name": "In The Annexe",
+      "url": "https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44280,
+      "name": "Into The Rainbow Vein",
+      "url": "https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 395089,
+      "name": "Jacquard Causeway",
+      "url": "https://open.spotify.com/track/7Dw7RRCKnPBlbmHteZ8Whw"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 330333,
+      "name": "Julie And Candy",
+      "url": "https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59293,
+      "name": "Kaini Industries",
+      "url": "https://open.spotify.com/track/3FJ4suZo6FuW0xmARmE0R4"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 59293,
+      "name": "Kaini Industries",
+      "url": "https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 383693,
+      "name": "Kid For Today",
+      "url": "https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383693,
+      "name": "Kid For Today",
+      "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320733,
+      "name": "Left Side Drive",
+      "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 320733,
+      "name": "Left Side Drive",
+      "url": "https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92773,
+      "name": "Melissa Juice",
+      "url": "https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 92773,
+      "name": "Melissa Juice",
+      "url": "https://open.spotify.com/track/782LcmOkkNn1dm083on9wF"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321453,
+      "name": "Music Is Math",
+      "url": "https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 321453,
+      "name": "Music Is Math",
+      "url": "https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 339319,
+      "name": "New Seeds",
+      "url": "https://open.spotify.com/track/6s9nkWHybQAM2PMsp1MlOh"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232886,
+      "name": "Nothing Is Real",
+      "url": "https://open.spotify.com/track/1rmXfdk4DFRuw6LLKoUTb0"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 232886,
+      "name": "Nothing Is Real",
+      "url": "https://open.spotify.com/track/3fZIFLd2n53DL4UDvQxGsL"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 311133,
+      "name": "Oirectine",
+      "url": "https://open.spotify.com/track/6FGxhUgXzsj98rI7Yo915Z"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 68573,
+      "name": "Over The Horizon Radar",
+      "url": "https://open.spotify.com/track/2A3Mkcpf7t5lz402c2JklE"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68573,
+      "name": "Over The Horizon Radar",
+      "url": "https://open.spotify.com/track/3EdKuUmSqITYGp1t3JhSC6"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 367720,
+      "name": "Pete Standing Alone",
+      "url": "https://open.spotify.com/track/5SGNNAQg2hEfOZItKVFklK"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 287403,
+      "name": "Reach For The Dead",
+      "url": "https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Reach For The Dead",
+      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149080,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 399493,
+      "name": "Rue The Whirl",
+      "url": "https://open.spotify.com/track/3Jp9ys8LTCzv9jPe0t8fHB"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 364533,
+      "name": "Satellite Anthem Icarus",
+      "url": "https://open.spotify.com/track/6pxWghcPKRSjZPj8Ba9vpB"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 256401,
+      "name": "Sick Times",
+      "url": "https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 317600,
+      "name": "Sixtyniner",
+      "url": "https://open.spotify.com/track/5PC3XlGumMa31O5sKWTp1s"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317600,
+      "name": "Sixtyniner",
+      "url": "https://open.spotify.com/track/77DwUe5ydUuDfSiurT0VCX"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 340133,
+      "name": "Skyliner",
+      "url": "https://open.spotify.com/track/1EN3p7jO1shOkOEamkbyKQ"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 369146,
+      "name": "Slow This Bird Down",
+      "url": "https://open.spotify.com/track/3htO9aATRyGh3SC72v91hW"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 288293,
+      "name": "Smokes Quantity / 1986 Summer Fire",
+      "url": "https://open.spotify.com/track/5KtVHAt2t83LstAewziMLf"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136047,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 136047,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/41inrFf4u5pmKmSBTN4PwQ"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 372706,
+      "name": "Sunshine Recorder",
+      "url": "https://open.spotify.com/track/0KrPPiJdAWrFIdn4pq3BZ2"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 243546,
+      "name": "Tears From The Compound Eye",
+      "url": "https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 92801,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/4oQkvCJqnX5kbc0ZnB0z4n"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92801,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/6Z8bGnzoSNxuKEz70dJu6b"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 395480,
+      "name": "Telephasic Workshop",
+      "url": "https://open.spotify.com/track/5B5nloaA2UpNrjweosqVe3"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 258586,
+      "name": "The Beach At Redpoint",
+      "url": "https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 77173,
+      "name": "The Smallest Weird Number",
+      "url": "https://open.spotify.com/track/193DxvYZR8xMzt0AujMrDU"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77173,
+      "name": "The Smallest Weird Number",
+      "url": "https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 138561,
+      "name": "Transmisiones Ferox",
+      "url": "https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 138561,
+      "name": "Transmisiones Ferox",
+      "url": "https://open.spotify.com/track/7cUwH8Pb0gVTn2CrE2rXwH"
+    },
+    {
+      "album": {
+        "name": "Treat Em Right (Boards Of Canada Remix)",
+        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269987,
+      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
+      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 307880,
+      "name": "Turquoise Hexagon Sun",
+      "url": "https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "Turquoise Hexagon Sun",
+      "url": "https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0"
+    },
+    {
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 365680,
+      "name": "Twoism",
+      "url": "https://open.spotify.com/track/31hN9r2HwN6fCV4cxddii7"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91146,
+      "name": "Under The Coke Sign",
+      "url": "https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch"
+    },
+    {
+      "album": {
+        "name": "Trans Canada Highway",
+        "url": "https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 91146,
+      "name": "Under The Coke Sign",
+      "url": "https://open.spotify.com/track/6wcu9A6wDcaEOdj5qa0umk"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 193310,
+      "name": "White Cyclosa",
+      "url": "https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193310,
+      "name": "White Cyclosa",
+      "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 75626,
+      "name": "Wildlife Analysis",
+      "url": "https://open.spotify.com/track/1H4Eiavp6smYJDIYQmo0vb"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75626,
+      "name": "Wildlife Analysis",
+      "url": "https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI"
+    },
+    {
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 318880,
+      "name": "Zoetrope",
+      "url": "https://open.spotify.com/track/4heRvNNnsyAY1pl4c4EOIx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GMSJj"
 }

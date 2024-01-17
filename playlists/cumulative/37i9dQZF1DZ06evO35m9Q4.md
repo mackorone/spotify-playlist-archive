@@ -4,7 +4,7 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 47 min
+65 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [SRV Speaks](https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather](https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH) | 1:08 | 2022-08-05 | 2023-02-06 |
 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 | 2022-08-05 |  |
 | [Taxman](https://open.spotify.com/track/1ItH2kCl27zYWVecyU8NNS) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Best Of](https://open.spotify.com/album/6gp3kYsuZMeXJ7Oemoaups) | 3:34 | 2022-08-05 | 2022-10-13 |
+| [Tell Me](https://open.spotify.com/track/5c4m2ddmFaGhOnqZqvvnic) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 2:47 | 2024-01-11 | 2024-01-13 |
 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 | 2022-08-05 |  |
 | [The House Is Rockin'](https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:23 | 2022-08-05 |  |
 | [The Sky Is Crying \- 1984 Version](https://open.spotify.com/track/0rXcAvuQdrQakSPhIOZ6f8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 4:10 | 2022-08-05 |  |

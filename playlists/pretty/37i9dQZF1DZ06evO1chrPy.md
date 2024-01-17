@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,865 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,729 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 24 | [How Are You True](https://open.spotify.com/track/6vcdiwrCVXnTLASFdjEV8r) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 4:40 |
 | 25 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
 | 26 | [Instant Crush \- Unpeeled](https://open.spotify.com/track/5uB3cnt54x4akRQHVKVy3Z) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 5:09 |
-| 27 | [Shiver](https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 3:57 |
-| 28 | [Flow](https://open.spotify.com/track/0MUzalPwRItswsuNThydQg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:28 |
+| 27 | [Flow](https://open.spotify.com/track/0MUzalPwRItswsuNThydQg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:28 |
+| 28 | [Shiver](https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 3:57 |
 | 29 | [Drones In The Valley](https://open.spotify.com/track/2Tv7qvpjiI3xnHdvBtGLoZ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:27 |
 | 30 | [Golden Brown \- Unpeeled](https://open.spotify.com/track/5tZ9PdmbvEDrk6tIxFAUp0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 3:57 |
-| 31 | [The Unforgiven](https://open.spotify.com/track/0Iixb2jL2s6BMqHtwnhG8H) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [The Unforgiven](https://open.spotify.com/album/20cAOeZEY6ja0JleCqSvzH) | 5:53 |
-| 32 | [Around My Head](https://open.spotify.com/track/0oFCz4vOMbg9dRmV69K1vG) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:11 |
+| 31 | [Around My Head](https://open.spotify.com/track/0oFCz4vOMbg9dRmV69K1vG) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:11 |
+| 32 | [The Unforgiven](https://open.spotify.com/track/0Iixb2jL2s6BMqHtwnhG8H) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [The Unforgiven](https://open.spotify.com/album/20cAOeZEY6ja0JleCqSvzH) | 5:53 |
 | 33 | [James Brown](https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:20 |
 | 34 | [Rubber Ball \- Unpeeled](https://open.spotify.com/track/65Fz2cM2BiIlBBlNbw5RtZ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:04 |
-| 35 | [Doctor Doctor Doctor Help Me Help Me Help Me](https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:14 |
-| 36 | [Always Something](https://open.spotify.com/track/3bpV86Ui1ND9aRU5uhQRRX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:41 |
+| 35 | [Always Something](https://open.spotify.com/track/3bpV86Ui1ND9aRU5uhQRRX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:41 |
+| 36 | [Doctor Doctor Doctor Help Me Help Me Help Me](https://open.spotify.com/track/4gXR7fBdUXGGulPrQp5Uqh) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:14 |
 | 37 | [Back Stabbin' Betty](https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:39 |
-| 38 | [Sell Yourself](https://open.spotify.com/track/14fZy2hdtvFvG3DN4cokUb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:11 |
-| 39 | [2024](https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:10 |
+| 38 | [2024](https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:10 |
+| 39 | [Sell Yourself](https://open.spotify.com/track/14fZy2hdtvFvG3DN4cokUb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday \(Expanded Edition\)](https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9) | 2:11 |
 | 40 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAyZmY1MzBlN2M5MDk5M2JmYzYyZjJiZDU2MWU0NjhhYw==`
+Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBkMjVhZDIyMGNhNzc4ZmRlN2E0ZTRiMmE4ZGNkM2ZiYw==`

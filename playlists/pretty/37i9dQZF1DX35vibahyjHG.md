@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [Best of EQUAL Africa 2023](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
+### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Highlights of 2023, listen to women at full volume Cover: <a href="https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8?si=2rweaO8cQg6QJJVXDfF1Mw"> Abigail Chams </a>
+> Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8?si=2rweaO8cQg6QJJVXDfF1Mw"> Abigail Chams </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,976 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,068 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 49 | [How I Do](https://open.spotify.com/track/2aYT3G5pZ0lMDBngs5WLM0) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [How I Do](https://open.spotify.com/album/0hwJoDUPcrYPZ0Yw1gqOtw) | 2:36 |
 | 50 | [My Man](https://open.spotify.com/track/52kJU955hcDdhAp86n4cfV) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [My Man](https://open.spotify.com/album/7BPP5aH9zAodHI5AG4faE7) | 3:38 |
 
-Snapshot ID: `MCwzOGJmMTBhYjAyNzgwYWE2MjNhYjAwZWRhMDk0M2FmMmQzMDI1Yjhm`
+Snapshot ID: `MCxiYWRjMDdhZGVjNTJiZjJjM2E3ZDE3MTliOGUwYTMyYzBmZTgyNzBl`

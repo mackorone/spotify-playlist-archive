@@ -1,226 +1,801 @@
 {
-  "2023-05-23": 4,
-  "2023-05-24": 4,
-  "2023-05-25": 4,
-  "2023-05-26": 4,
-  "2023-05-27": 4,
-  "2023-05-28": 4,
-  "2023-05-29": 4,
-  "2023-05-30": 4,
-  "2023-05-31": 4,
-  "2023-06-01": 4,
-  "2023-06-02": 4,
-  "2023-06-03": 4,
-  "2023-06-04": 4,
-  "2023-06-05": 4,
-  "2023-06-06": 4,
-  "2023-06-07": 4,
-  "2023-06-08": 4,
-  "2023-06-09": 4,
-  "2023-06-10": 4,
-  "2023-06-11": 4,
-  "2023-06-12": 4,
-  "2023-06-13": 4,
-  "2023-06-14": 4,
-  "2023-06-15": 4,
-  "2023-06-16": 4,
-  "2023-06-17": 4,
-  "2023-06-18": 4,
-  "2023-06-19": 4,
-  "2023-06-20": 4,
-  "2023-06-21": 4,
-  "2023-06-22": 4,
-  "2023-06-23": 4,
-  "2023-06-24": 4,
-  "2023-06-25": 4,
-  "2023-06-26": 4,
-  "2023-06-27": 4,
-  "2023-06-28": 4,
-  "2023-06-29": 4,
-  "2023-06-30": 4,
-  "2023-07-01": 4,
-  "2023-07-02": 4,
-  "2023-07-03": 4,
-  "2023-07-04": 4,
-  "2023-07-05": 4,
-  "2023-07-06": 4,
-  "2023-07-07": 4,
-  "2023-07-08": 4,
-  "2023-07-09": 4,
-  "2023-07-10": 4,
-  "2023-07-11": 4,
-  "2023-07-12": 4,
-  "2023-07-13": 4,
-  "2023-07-14": 4,
-  "2023-07-15": 4,
-  "2023-07-16": 4,
-  "2023-07-17": 4,
-  "2023-07-18": 4,
-  "2023-07-19": 4,
-  "2023-07-20": 4,
-  "2023-07-21": 4,
-  "2023-07-22": 4,
-  "2023-07-23": 4,
-  "2023-07-24": 4,
-  "2023-07-25": 4,
-  "2023-07-26": 4,
-  "2023-07-27": 4,
-  "2023-07-28": 4,
-  "2023-07-29": 4,
-  "2023-07-30": 4,
-  "2023-07-31": 4,
-  "2023-08-01": 4,
-  "2023-08-02": 4,
-  "2023-08-03": 4,
-  "2023-08-04": 4,
-  "2023-08-05": 4,
-  "2023-08-06": 4,
-  "2023-08-07": 4,
-  "2023-08-08": 4,
-  "2023-08-09": 4,
-  "2023-08-10": 4,
-  "2023-08-11": 4,
-  "2023-08-12": 4,
-  "2023-08-13": 4,
-  "2023-08-14": 4,
-  "2023-08-15": 4,
-  "2023-08-16": 4,
-  "2023-08-17": 4,
-  "2023-08-18": 4,
-  "2023-08-19": 4,
-  "2023-08-20": 4,
-  "2023-08-21": 4,
-  "2023-08-22": 4,
-  "2023-08-23": 4,
-  "2023-08-24": 4,
-  "2023-08-25": 4,
-  "2023-08-26": 4,
-  "2023-08-27": 4,
-  "2023-08-28": 4,
-  "2023-08-29": 4,
-  "2023-08-30": 4,
-  "2023-08-31": 4,
-  "2023-09-01": 4,
-  "2023-09-02": 4,
-  "2023-09-03": 4,
-  "2023-09-04": 4,
-  "2023-09-05": 4,
-  "2023-09-06": 4,
-  "2023-09-07": 4,
-  "2023-09-08": 4,
-  "2023-09-09": 4,
-  "2023-09-10": 4,
-  "2023-09-11": 4,
-  "2023-09-12": 4,
-  "2023-09-13": 4,
-  "2023-09-14": 4,
-  "2023-09-15": 4,
-  "2023-09-16": 4,
-  "2023-09-17": 4,
-  "2023-09-18": 4,
-  "2023-09-19": 4,
-  "2023-09-20": 4,
-  "2023-09-21": 4,
-  "2023-09-22": 4,
-  "2023-09-23": 4,
-  "2023-09-24": 4,
-  "2023-09-25": 4,
-  "2023-09-26": 4,
-  "2023-09-27": 4,
-  "2023-09-28": 4,
-  "2023-09-29": 4,
-  "2023-09-30": 4,
-  "2023-10-01": 4,
-  "2023-10-02": 4,
-  "2023-10-03": 4,
-  "2023-10-04": 4,
-  "2023-10-05": 4,
-  "2023-10-06": 4,
-  "2023-10-07": 4,
-  "2023-10-08": 4,
-  "2023-10-09": 4,
-  "2023-10-10": 4,
-  "2023-10-11": 4,
-  "2023-10-12": 4,
-  "2023-10-13": 4,
-  "2023-10-14": 4,
-  "2023-10-15": 4,
-  "2023-10-16": 4,
-  "2023-10-17": 4,
-  "2023-10-18": 4,
-  "2023-10-19": 4,
-  "2023-10-20": 4,
-  "2023-10-21": 4,
-  "2023-10-22": 4,
-  "2023-10-23": 4,
-  "2023-10-24": 4,
-  "2023-10-25": 4,
-  "2023-10-26": 4,
-  "2023-10-27": 4,
-  "2023-10-28": 4,
-  "2023-10-29": 4,
-  "2023-10-30": 4,
-  "2023-10-31": 4,
-  "2023-11-01": 4,
-  "2023-11-02": 4,
-  "2023-11-03": 4,
-  "2023-11-04": 4,
-  "2023-11-05": 4,
-  "2023-11-06": 4,
-  "2023-11-07": 4,
-  "2023-11-08": 4,
-  "2023-11-09": 4,
-  "2023-11-10": 4,
-  "2023-11-11": 4,
-  "2023-11-12": 4,
-  "2023-11-13": 4,
-  "2023-11-14": 4,
-  "2023-11-15": 4,
-  "2023-11-16": 4,
-  "2023-11-17": 4,
-  "2023-11-18": 4,
-  "2023-11-19": 4,
-  "2023-11-20": 4,
-  "2023-11-21": 4,
-  "2023-11-22": 4,
-  "2023-11-23": 4,
-  "2023-11-24": 4,
-  "2023-11-25": 4,
-  "2023-11-26": 4,
-  "2023-11-27": 4,
-  "2023-11-28": 4,
-  "2023-11-29": 4,
-  "2023-11-30": 4,
-  "2023-12-01": 4,
-  "2023-12-02": 4,
-  "2023-12-03": 4,
-  "2023-12-04": 4,
-  "2023-12-05": 4,
-  "2023-12-06": 4,
-  "2023-12-07": 4,
-  "2023-12-08": 4,
-  "2023-12-09": 4,
-  "2023-12-10": 4,
-  "2023-12-11": 4,
-  "2023-12-12": 4,
-  "2023-12-13": 4,
-  "2023-12-14": 4,
-  "2023-12-15": 4,
-  "2023-12-16": 4,
-  "2023-12-17": 4,
-  "2023-12-18": 4,
-  "2023-12-19": 4,
-  "2023-12-20": 4,
-  "2023-12-21": 4,
-  "2023-12-22": 4,
-  "2023-12-23": 4,
-  "2023-12-24": 4,
-  "2023-12-25": 4,
-  "2023-12-26": 4,
-  "2023-12-27": 4,
-  "2023-12-30": 4,
-  "2023-12-31": 4,
-  "2024-01-01": 4,
-  "2024-01-02": 4,
-  "2024-01-03": 4
+  "2024-01-17": 4,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "Going to Kansas ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "As Many Candles As Possible",
+      "url": "https://open.spotify.com/track/4kQOq98nBtPoAt8Z9usQw6"
+    },
+    {
+      "album": {
+        "name": "Songs for Pierre Chuvin",
+        "url": "https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133520,
+      "name": "Aulon Raid",
+      "url": "https://open.spotify.com/track/38DXZf5olllY3QPC8A9UYf"
+    },
+    {
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Cotton",
+      "url": "https://open.spotify.com/track/2Qqvo2F6r98pdHqWHzmw9R"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260028,
+      "name": "Cotton - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/0dFBG1Oau5620glIoIhhNn"
+    },
+    {
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192653,
+      "name": "Cry for Judas",
+      "url": "https://open.spotify.com/track/6dzU8kkXmOGCMNyX149BX3"
+    },
+    {
+      "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Dark in Here",
+      "url": "https://open.spotify.com/track/2o2stv4uGKSYuUaghBTVX3"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176782,
+      "name": "Foreign Object - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/17R12rTMOBIQWLjvOQkZKf"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317975,
+      "name": "Genesis 30:3 - Jordan Lake Sessions Volume 1",
+      "url": "https://open.spotify.com/track/21JRQ435A98metWdAOMegd"
+    },
+    {
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "Get Famous",
+      "url": "https://open.spotify.com/track/5HAqb61lv4ZvoxFGSbenPt"
+    },
+    {
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314333,
+      "name": "Getting Into Knives",
+      "url": "https://open.spotify.com/track/2b3XA03SZ0ns3Lgc1Y8Xin"
+    },
+    {
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/5y9OP5VLb8oA1uBj31rxoO"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Going Invisible 2",
+      "url": "https://open.spotify.com/track/3t8uKqZ0m0sNvme0zPlGsk"
+    },
+    {
+      "album": {
+        "name": "Nothing for Juice",
+        "url": "https://open.spotify.com/album/21o3AFcGJBapqPnygk3AZJ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Going to Kansas",
+      "url": "https://open.spotify.com/track/5mTV2vU8gWFAnKL29wI5Hy"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251477,
+      "name": "Golden Boy - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/7G77him02haPKiSDkvgPdc"
+    },
+    {
+      "album": {
+        "name": "The Life of the World to Come",
+        "url": "https://open.spotify.com/album/3tA3e18VVU3AlTsJCwe3NR"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "Hebrews 11:40",
+      "url": "https://open.spotify.com/track/3lmFlW03RHC40PrH3LAFN0"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452211,
+      "name": "Heel Turn 2 - Jordan Lake Sessions Volume 1",
+      "url": "https://open.spotify.com/track/0zph84FKRMVlxXXnhXp0It"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241657,
+      "name": "Heretic Pride - Jordan Lake Sessions Volume 1",
+      "url": "https://open.spotify.com/track/1mONgyWC8MZ2ThCKuJlYdo"
+    },
+    {
+      "album": {
+        "name": "Songs for Pierre Chuvin",
+        "url": "https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Hopeful Assassins of Zeno",
+      "url": "https://open.spotify.com/track/6AQmNbVZncy1ZURVNfthLz"
+    },
+    {
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/5y9OP5VLb8oA1uBj31rxoO"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "In League with Dragons",
+      "url": "https://open.spotify.com/track/0JEL4tHdUcBfv7WGTwwnzo"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281583,
+      "name": "International Small Arms Traffic Blues - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/1N1u2t3omheEuvysOmsoEH"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239496,
+      "name": "Lion's Teeth - Jordan Lake Sessions Volume 1",
+      "url": "https://open.spotify.com/track/57fCKuKSbL1OLWdGlYz1DK"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309720,
+      "name": "Lovecraft in Brooklyn - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/51rJG28Bd0LpWCEqXUQP4S"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120386,
+      "name": "Magpie",
+      "url": "https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2"
+    },
+    {
+      "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7AIYeKzv4Bwtu6PRVEkeVJ"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208868,
+      "name": "No Children - Jordan Lake Sessions Volume 1",
+      "url": "https://open.spotify.com/track/48J0QZesYTJJANTLQCb0aI"
+    },
+    {
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260265,
+      "name": "Picture of My Dress",
+      "url": "https://open.spotify.com/track/4CI2qX3XYZLv5jIoAwdmz4"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259657,
+      "name": "Pigs That Ran Straightaway Into the Water, Triumph Of - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/5lGPH0ge9vHEIWeq8tPTfG"
+    },
+    {
+      "album": {
+        "name": "All Eternals Deck",
+        "url": "https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "Prowl Great Cain",
+      "url": "https://open.spotify.com/track/26YBPC3s97m4FnXLI7iiFq"
+    },
+    {
+      "album": {
+        "name": "Getting Into Knives",
+        "url": "https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249373,
+      "name": "Rat Queen",
+      "url": "https://open.spotify.com/track/1hftZzrtwbBlksXPf75ocm"
+    },
+    {
+      "album": {
+        "name": "Heretic Pride",
+        "url": "https://open.spotify.com/album/6MUZjh882oNqHYbVhDpTTy"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "Sax Rohmer #1",
+      "url": "https://open.spotify.com/track/4UAyiRDthWvQpXsDb4BebY"
+    },
+    {
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/5y9OP5VLb8oA1uBj31rxoO"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264546,
+      "name": "Sicilian Crest",
+      "url": "https://open.spotify.com/track/2FOBXqFpbZZnklGtb5iB4y"
+    },
+    {
+      "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148413,
+      "name": "The New Hydra Collection",
+      "url": "https://open.spotify.com/track/4l0DYoUZoNiPnKCR9j59ia"
+    },
+    {
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274613,
+      "name": "The Young Thousands",
+      "url": "https://open.spotify.com/track/2JUYbYRokbndYiex2mOC55"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "To the Headless Horseman",
+      "url": "https://open.spotify.com/track/6XljXTD96hBKZiPP06chgM"
+    },
+    {
+      "album": {
+        "name": "Wage Wars Get Rich Die Handsome",
+        "url": "https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "Training Montage",
+      "url": "https://open.spotify.com/track/5iRsq1n0jQSA2Cyk9KZayI"
+    },
+    {
+      "album": {
+        "name": "Songs for Pierre Chuvin",
+        "url": "https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132973,
+      "name": "Until Olympius Returns",
+      "url": "https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Up the Wolves",
+      "url": "https://open.spotify.com/track/6AIKEQvWItx9NcjtoNDOjh"
+    },
+    {
+      "album": {
+        "name": "The Jordan Lake Sessions: Volumes 1 and 2",
+        "url": "https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233511,
+      "name": "Up the Wolves - Jordan Lake Sessions Volume 2",
+      "url": "https://open.spotify.com/track/2sT24ZrihpixzT4ghhb7VD"
+    },
+    {
+      "album": {
+        "name": "Wage Wars Get Rich Die Handsome",
+        "url": "https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150346,
+      "name": "Wage Wars Get Rich Die Handsome",
+      "url": "https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh"
+    },
+    {
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/5y9OP5VLb8oA1uBj31rxoO"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Waylon Jennings Live!",
+      "url": "https://open.spotify.com/track/1mucnNLErAXFR0GCmXlmKS"
+    },
+    {
+      "album": {
+        "name": "Goths (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250693,
+      "name": "Wear Black",
+      "url": "https://open.spotify.com/track/2NTR08WRYueyxzfQbF8CYX"
+    },
+    {
+      "album": {
+        "name": "Dark in Here",
+        "url": "https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326733,
+      "name": "When a Powerful Animal Comes",
+      "url": "https://open.spotify.com/track/6Yhv2dngI4I4h9O9jsBZpU"
+    },
+    {
+      "album": {
+        "name": "In League with Dragons",
+        "url": "https://open.spotify.com/album/5y9OP5VLb8oA1uBj31rxoO"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352386,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4T5ZsCfzhTVmE6lHM9c3gb"
+    },
+    {
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Your Belgian Things",
+      "url": "https://open.spotify.com/track/1trf9MaKJjFIzuPNC8PaZb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0EzAAkPQtUY7rrbXN8iydd"
 }

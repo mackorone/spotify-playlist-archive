@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Flatland Cavalry",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randall King",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/1DUaW1loQrhR7WIIRtxehF"
+    },
+    {
+      "album": {
+        "name": "All Nighters",
+        "url": "https://open.spotify.com/album/7eKLAHDf4EAjFqGZDPMQ2N"
+      },
+      "artists": [
+        {
+          "name": "Kyle Park",
+          "url": "https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210276,
+      "name": "All Nighters",
+      "url": "https://open.spotify.com/track/27aaoGMu0VqHzKTMPqgpa5"
     },
     {
       "album": {
@@ -2025,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "album": {
         "name": "Country Like You",
         "url": "https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS"
       },
@@ -2090,7 +2126,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 211720,
       "name": "Cowboy Kid",
       "url": "https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x"
@@ -2256,6 +2292,28 @@
       "duration_ms": 189370,
       "name": "Damn Fine Livin'",
       "url": "https://open.spotify.com/track/5USNgeOEK6Z85dEj59RPsz"
+    },
+    {
+      "album": {
+        "name": "Damn Good Friends",
+        "url": "https://open.spotify.com/album/0q06gvA8Vgy2yjCg3SHdOI"
+      },
+      "artists": [
+        {
+          "name": "Keller Cox",
+          "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
+        },
+        {
+          "name": "Cleto Cordero",
+          "url": "https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Damn Good Friends (feat. Cleto Cordero)",
+      "url": "https://open.spotify.com/track/4zTTPZ75hYzYpiPXnlEbnb"
     },
     {
       "album": {
@@ -3006,7 +3064,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 208827,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
@@ -3168,7 +3226,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 192125,
       "name": "Fooled Around",
       "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
@@ -4792,7 +4850,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187116,
       "name": "If I Had a Bar",
       "url": "https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey"
@@ -5160,7 +5218,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 188995,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
@@ -6189,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
+    },
+    {
+      "album": {
         "name": "This Is For You",
         "url": "https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8"
       },
@@ -6622,7 +6698,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 164412,
       "name": "Outta Dirt",
       "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
@@ -6662,7 +6738,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 309510,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
@@ -7551,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "She'll Always Be",
+        "url": "https://open.spotify.com/album/3eouDqZk9yvyHiRTaUbl8c"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194935,
+      "name": "She'll Always Be",
+      "url": "https://open.spotify.com/track/4d5v4HxtGr4J3eaX7KpByN"
+    },
+    {
+      "album": {
         "name": "She\u2019s Gonna Leave a Mark",
         "url": "https://open.spotify.com/album/3wSOuUweC1sMEbYiLP7dBQ"
       },
@@ -7638,7 +7732,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 219960,
       "name": "Shooting Stars & Whiskey",
       "url": "https://open.spotify.com/track/4SJA8haD1UeBsmHMOr4PIj"
@@ -7880,6 +7974,24 @@
       "duration_ms": 181617,
       "name": "Somewhere in the Sun",
       "url": "https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8"
+    },
+    {
+      "album": {
+        "name": "Sound Of Missing You",
+        "url": "https://open.spotify.com/album/2fzSL2prvp7ZxmoKaapK6E"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229337,
+      "name": "Sound Of Missing You",
+      "url": "https://open.spotify.com/track/4CDTIEtvz4DOEQyvTUN1E7"
     },
     {
       "album": {
@@ -8616,6 +8728,28 @@
       "duration_ms": 163133,
       "name": "That's Texas",
       "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
+    },
+    {
+      "album": {
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "album": {
@@ -9902,7 +10036,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 185308,
       "name": "What Were You Thinking",
       "url": "https://open.spotify.com/track/1n7jCBudgQ49dz1eELQjoc"

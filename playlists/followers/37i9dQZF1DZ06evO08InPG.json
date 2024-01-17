@@ -1,579 +1,1511 @@
 {
-  "2022-05-31": 41567,
-  "2022-06-01": 41631,
-  "2022-06-02": 41641,
-  "2022-06-03": 41660,
-  "2022-06-04": 41686,
-  "2022-06-05": 41734,
-  "2022-06-06": 41767,
-  "2022-06-07": 41792,
-  "2022-06-08": 41816,
-  "2022-06-09": 41845,
-  "2022-06-10": 41889,
-  "2022-06-11": 41928,
-  "2022-06-12": 41963,
-  "2022-06-13": 41989,
-  "2022-06-14": 42027,
-  "2022-06-15": 42052,
-  "2022-06-16": 42082,
-  "2022-06-17": 42116,
-  "2022-06-18": 42156,
-  "2022-06-19": 42198,
-  "2022-06-20": 42198,
-  "2022-06-21": 42218,
-  "2022-06-22": 42294,
-  "2022-06-23": 42294,
-  "2022-06-24": 42326,
-  "2022-06-25": 42351,
-  "2022-06-26": 42384,
-  "2022-06-27": 42405,
-  "2022-06-28": 42429,
-  "2022-06-29": 42472,
-  "2022-06-30": 42500,
-  "2022-07-01": 42542,
-  "2022-07-02": 42576,
-  "2022-07-03": 42609,
-  "2022-07-04": 42636,
-  "2022-07-05": 42659,
-  "2022-07-06": 42659,
-  "2022-07-07": 42736,
-  "2022-07-08": 42774,
-  "2022-07-09": 42805,
-  "2022-07-10": 42839,
-  "2022-07-11": 42866,
-  "2022-07-12": 42895,
-  "2022-07-13": 42975,
-  "2022-07-14": 43002,
-  "2022-07-15": 43028,
-  "2022-07-16": 43079,
-  "2022-07-17": 43108,
-  "2022-07-18": 43156,
-  "2022-07-19": 43194,
-  "2022-07-20": 43224,
-  "2022-07-21": 43253,
-  "2022-07-22": 43278,
-  "2022-07-23": 43321,
-  "2022-07-24": 43360,
-  "2022-07-25": 43391,
-  "2022-07-26": 43428,
-  "2022-07-27": 43453,
-  "2022-07-28": 43494,
-  "2022-07-29": 43539,
-  "2022-07-30": 43601,
-  "2022-07-31": 43601,
-  "2022-08-01": 43627,
-  "2022-08-02": 43683,
-  "2022-08-03": 43683,
-  "2022-08-04": 43716,
-  "2022-08-05": 43757,
-  "2022-08-06": 43785,
-  "2022-08-07": 43813,
-  "2022-08-08": 43840,
-  "2022-08-09": 43867,
-  "2022-08-10": 43910,
-  "2022-08-11": 43938,
-  "2022-08-12": 43971,
-  "2022-08-13": 44010,
-  "2022-08-14": 44049,
-  "2022-08-15": 44085,
-  "2022-08-16": 44123,
-  "2022-08-17": 44174,
-  "2022-08-18": 44209,
-  "2022-08-19": 44244,
-  "2022-08-20": 44275,
-  "2022-08-21": 44306,
-  "2022-08-22": 44343,
-  "2022-08-23": 44367,
-  "2022-08-24": 44978,
-  "2022-08-25": 45085,
-  "2022-08-26": 45176,
-  "2022-08-27": 45212,
-  "2022-08-28": 45261,
-  "2022-08-29": 45296,
-  "2022-08-30": 45324,
-  "2022-08-31": 45327,
-  "2022-09-01": 45321,
-  "2022-09-02": 45318,
-  "2022-09-03": 45310,
-  "2022-09-04": 45310,
-  "2022-09-05": 45326,
-  "2022-09-06": 45350,
-  "2022-09-07": 45388,
-  "2022-09-09": 45455,
-  "2022-09-10": 45493,
-  "2022-09-11": 45532,
-  "2022-09-12": 45559,
-  "2022-09-13": 45585,
-  "2022-09-15": 45664,
-  "2022-09-16": 45683,
-  "2022-09-17": 45711,
-  "2022-09-18": 45740,
-  "2022-09-19": 45773,
-  "2022-09-20": 45798,
-  "2022-09-21": 45812,
-  "2022-09-22": 45849,
-  "2022-09-23": 45862,
-  "2022-09-24": 45891,
-  "2022-09-25": 45912,
-  "2022-09-26": 45948,
-  "2022-09-27": 45984,
-  "2022-09-28": 46015,
-  "2022-09-29": 46052,
-  "2022-09-30": 46075,
-  "2022-10-01": 46109,
-  "2022-10-02": 46146,
-  "2022-10-03": 46181,
-  "2022-10-04": 46208,
-  "2022-10-05": 46216,
-  "2022-10-06": 46248,
-  "2022-10-07": 46283,
-  "2022-10-08": 46325,
-  "2022-10-09": 46379,
-  "2022-10-10": 46383,
-  "2022-10-11": 46407,
-  "2022-10-12": 46441,
-  "2022-10-13": 46479,
-  "2022-10-14": 46508,
-  "2022-10-15": 46551,
-  "2022-10-16": 46583,
-  "2022-10-17": 46618,
-  "2022-10-18": 46636,
-  "2022-10-19": 46651,
-  "2022-10-20": 46676,
-  "2022-10-21": 46709,
-  "2022-10-22": 46741,
-  "2022-10-23": 46765,
-  "2022-10-24": 46791,
-  "2022-10-25": 46810,
-  "2022-10-26": 46818,
-  "2022-10-27": 46849,
-  "2022-10-28": 46869,
-  "2022-10-29": 46896,
-  "2022-10-30": 46921,
-  "2022-10-31": 46945,
-  "2022-11-01": 46945,
-  "2022-11-02": 46961,
-  "2022-11-03": 46990,
-  "2022-11-04": 47024,
-  "2022-11-05": 47045,
-  "2022-11-06": 47067,
-  "2022-11-07": 47078,
-  "2022-11-08": 47096,
-  "2022-11-09": 47112,
-  "2022-11-10": 47121,
-  "2022-11-11": 47138,
-  "2022-11-12": 47161,
-  "2022-11-13": 47167,
-  "2022-11-14": 47187,
-  "2022-11-15": 47190,
-  "2022-11-16": 47212,
-  "2022-11-17": 47232,
-  "2022-11-18": 47237,
-  "2022-11-19": 47238,
-  "2022-11-20": 47258,
-  "2022-11-21": 47279,
-  "2022-11-22": 47299,
-  "2022-11-23": 47320,
-  "2022-11-24": 47350,
-  "2022-11-25": 47376,
-  "2022-11-26": 47391,
-  "2022-11-27": 47408,
-  "2022-11-28": 47415,
-  "2022-11-29": 47430,
-  "2022-11-30": 47460,
-  "2022-12-01": 47480,
-  "2022-12-02": 47485,
-  "2022-12-03": 47518,
-  "2022-12-04": 47543,
-  "2022-12-05": 47565,
-  "2022-12-06": 47586,
-  "2022-12-07": 47610,
-  "2022-12-08": 47632,
-  "2022-12-09": 47656,
-  "2022-12-10": 47668,
-  "2022-12-11": 47682,
-  "2022-12-12": 47691,
-  "2022-12-13": 47700,
-  "2022-12-14": 47712,
-  "2022-12-15": 47721,
-  "2022-12-16": 47736,
-  "2022-12-17": 47756,
-  "2022-12-18": 47772,
-  "2022-12-19": 47782,
-  "2022-12-20": 47812,
-  "2022-12-21": 47812,
-  "2022-12-22": 47839,
-  "2022-12-24": 47889,
-  "2022-12-25": 47911,
-  "2022-12-26": 47925,
-  "2022-12-27": 47937,
-  "2022-12-28": 47945,
-  "2022-12-29": 47947,
-  "2022-12-30": 47957,
-  "2022-12-31": 47975,
-  "2023-01-01": 47986,
-  "2023-01-02": 47999,
-  "2023-01-03": 48018,
-  "2023-01-04": 48039,
-  "2023-01-05": 48065,
-  "2023-01-06": 48088,
-  "2023-01-07": 48102,
-  "2023-01-08": 48106,
-  "2023-01-09": 48105,
-  "2023-01-10": 48113,
-  "2023-01-11": 48124,
-  "2023-01-12": 48142,
-  "2023-01-13": 48152,
-  "2023-01-14": 48187,
-  "2023-01-15": 48192,
-  "2023-01-16": 48216,
-  "2023-01-17": 48239,
-  "2023-01-18": 48256,
-  "2023-01-19": 48270,
-  "2023-01-20": 48285,
-  "2023-01-21": 48302,
-  "2023-01-22": 48328,
-  "2023-01-23": 48344,
-  "2023-01-24": 48369,
-  "2023-01-25": 48385,
-  "2023-01-26": 48402,
-  "2023-01-27": 48424,
-  "2023-01-28": 48439,
-  "2023-01-29": 48463,
-  "2023-01-30": 48482,
-  "2023-01-31": 48482,
-  "2023-02-01": 48519,
-  "2023-02-02": 48533,
-  "2023-02-03": 48552,
-  "2023-02-04": 48578,
-  "2023-02-05": 48589,
-  "2023-02-06": 48610,
-  "2023-02-07": 48633,
-  "2023-02-08": 48660,
-  "2023-02-09": 48660,
-  "2023-02-10": 48671,
-  "2023-02-11": 48702,
-  "2023-02-12": 48739,
-  "2023-02-13": 48762,
-  "2023-02-14": 48762,
-  "2023-02-15": 48772,
-  "2023-02-16": 48795,
-  "2023-02-17": 48813,
-  "2023-02-18": 48852,
-  "2023-02-19": 48852,
-  "2023-02-20": 48875,
-  "2023-02-21": 48893,
-  "2023-02-22": 48920,
-  "2023-02-23": 48933,
-  "2023-02-24": 48960,
-  "2023-02-25": 49000,
-  "2023-02-26": 49014,
-  "2023-02-27": 49045,
-  "2023-02-28": 49045,
-  "2023-03-01": 49063,
-  "2023-03-02": 49089,
-  "2023-03-03": 49119,
-  "2023-03-04": 49141,
-  "2023-03-05": 49191,
-  "2023-03-06": 49191,
-  "2023-03-07": 49207,
-  "2023-03-08": 49247,
-  "2023-03-09": 49278,
-  "2023-03-10": 49311,
-  "2023-03-11": 49355,
-  "2023-03-12": 49386,
-  "2023-03-13": 49399,
-  "2023-03-14": 49438,
-  "2023-03-15": 49467,
-  "2023-03-16": 49506,
-  "2023-03-17": 49506,
-  "2023-03-18": 49564,
-  "2023-03-19": 49592,
-  "2023-03-20": 49601,
-  "2023-03-21": 49624,
-  "2023-03-22": 49655,
-  "2023-03-23": 49668,
-  "2023-03-24": 49668,
-  "2023-03-25": 49736,
-  "2023-03-26": 49771,
-  "2023-03-27": 49790,
-  "2023-03-28": 49810,
-  "2023-03-29": 49834,
-  "2023-03-30": 49897,
-  "2023-03-31": 49897,
-  "2023-04-01": 49942,
-  "2023-04-02": 49979,
-  "2023-04-03": 49997,
-  "2023-04-04": 50027,
-  "2023-04-05": 50051,
-  "2023-04-06": 50082,
-  "2023-04-07": 50106,
-  "2023-04-09": 50165,
-  "2023-04-10": 50184,
-  "2023-04-11": 50226,
-  "2023-04-12": 50226,
-  "2023-04-13": 50251,
-  "2023-04-14": 50276,
-  "2023-04-15": 50294,
-  "2023-04-16": 50323,
-  "2023-04-17": 50343,
-  "2023-04-18": 50360,
-  "2023-04-19": 50384,
-  "2023-04-20": 50402,
-  "2023-04-21": 50425,
-  "2023-04-22": 50452,
-  "2023-04-23": 50480,
-  "2023-04-24": 50506,
-  "2023-04-25": 50523,
-  "2023-04-26": 50558,
-  "2023-04-27": 50584,
-  "2023-04-28": 50606,
-  "2023-04-29": 50646,
-  "2023-04-30": 50674,
-  "2023-05-01": 50700,
-  "2023-05-02": 50720,
-  "2023-05-03": 50743,
-  "2023-05-04": 50783,
-  "2023-05-05": 50802,
-  "2023-05-06": 50837,
-  "2023-05-07": 50861,
-  "2023-05-08": 50884,
-  "2023-05-09": 50913,
-  "2023-05-10": 50938,
-  "2023-05-11": 50960,
-  "2023-05-12": 50983,
-  "2023-05-13": 51009,
-  "2023-05-14": 51021,
-  "2023-05-15": 51032,
-  "2023-05-16": 51050,
-  "2023-05-17": 51062,
-  "2023-05-18": 51083,
-  "2023-05-19": 51099,
-  "2023-05-20": 51137,
-  "2023-05-21": 51137,
-  "2023-05-22": 51137,
-  "2023-05-23": 51171,
-  "2023-05-24": 51206,
-  "2023-05-25": 51212,
-  "2023-05-26": 51220,
-  "2023-05-27": 51238,
-  "2023-05-28": 51253,
-  "2023-05-29": 51253,
-  "2023-05-30": 51274,
-  "2023-05-31": 51292,
-  "2023-06-01": 51310,
-  "2023-06-02": 51324,
-  "2023-06-03": 51335,
-  "2023-06-04": 51351,
-  "2023-06-05": 51363,
-  "2023-06-06": 51373,
-  "2023-06-07": 51393,
-  "2023-06-08": 51417,
-  "2023-06-09": 51434,
-  "2023-06-10": 51458,
-  "2023-06-11": 51464,
-  "2023-06-12": 51479,
-  "2023-06-13": 51495,
-  "2023-06-14": 51516,
-  "2023-06-15": 51535,
-  "2023-06-16": 51551,
-  "2023-06-17": 51573,
-  "2023-06-18": 51599,
-  "2023-06-19": 51617,
-  "2023-06-20": 51646,
-  "2023-06-21": 51677,
-  "2023-06-22": 51698,
-  "2023-06-23": 51720,
-  "2023-06-24": 51735,
-  "2023-06-25": 51756,
-  "2023-06-26": 51772,
-  "2023-06-27": 51792,
-  "2023-06-28": 51808,
-  "2023-06-29": 51829,
-  "2023-06-30": 51837,
-  "2023-07-01": 51858,
-  "2023-07-02": 51858,
-  "2023-07-03": 51857,
-  "2023-07-04": 51877,
-  "2023-07-05": 51886,
-  "2023-07-06": 51915,
-  "2023-07-07": 51915,
-  "2023-07-08": 51927,
-  "2023-07-09": 51937,
-  "2023-07-10": 51950,
-  "2023-07-11": 51959,
-  "2023-07-12": 51980,
-  "2023-07-13": 51990,
-  "2023-07-14": 52013,
-  "2023-07-15": 52025,
-  "2023-07-16": 52040,
-  "2023-07-17": 52047,
-  "2023-07-18": 52067,
-  "2023-07-19": 52067,
-  "2023-07-20": 52086,
-  "2023-07-21": 52105,
-  "2023-07-22": 52115,
-  "2023-07-23": 52137,
-  "2023-07-24": 52145,
-  "2023-07-25": 52157,
-  "2023-07-26": 52172,
-  "2023-07-27": 52205,
-  "2023-07-28": 52229,
-  "2023-07-29": 52251,
-  "2023-07-30": 52270,
-  "2023-07-31": 52295,
-  "2023-08-01": 52316,
-  "2023-08-02": 52323,
-  "2023-08-03": 52337,
-  "2023-08-04": 52353,
-  "2023-08-05": 52377,
-  "2023-08-06": 52401,
-  "2023-08-07": 52401,
-  "2023-08-08": 52417,
-  "2023-08-09": 52439,
-  "2023-08-10": 52460,
-  "2023-08-11": 52489,
-  "2023-08-12": 52506,
-  "2023-08-13": 52506,
-  "2023-08-14": 52530,
-  "2023-08-15": 52555,
-  "2023-08-16": 52555,
-  "2023-08-17": 52583,
-  "2023-08-18": 52607,
-  "2023-08-19": 52624,
-  "2023-08-20": 52641,
-  "2023-08-21": 52666,
-  "2023-08-22": 52705,
-  "2023-08-23": 52743,
-  "2023-08-24": 52769,
-  "2023-08-25": 52796,
-  "2023-08-26": 52826,
-  "2023-08-27": 52848,
-  "2023-08-28": 52861,
-  "2023-08-29": 52880,
-  "2023-08-30": 52880,
-  "2023-08-31": 52922,
-  "2023-09-01": 52959,
-  "2023-09-02": 52959,
-  "2023-09-03": 52973,
-  "2023-09-04": 52973,
-  "2023-09-05": 53003,
-  "2023-09-06": 53013,
-  "2023-09-07": 53013,
-  "2023-09-08": 53013,
-  "2023-09-09": 53013,
-  "2023-09-10": 53084,
-  "2023-09-11": 53092,
-  "2023-09-12": 53092,
-  "2023-09-13": 53111,
-  "2023-09-14": 53111,
-  "2023-09-15": 53111,
-  "2023-09-16": 53147,
-  "2023-09-17": 53147,
-  "2023-09-18": 53147,
-  "2023-09-19": 53195,
-  "2023-09-20": 53195,
-  "2023-09-21": 53195,
-  "2023-09-22": 53240,
-  "2023-09-23": 53240,
-  "2023-09-24": 53240,
-  "2023-09-25": 53240,
-  "2023-09-26": 53312,
-  "2023-09-27": 53312,
-  "2023-09-28": 53312,
-  "2023-09-29": 53312,
-  "2023-09-30": 53312,
-  "2023-10-01": 53312,
-  "2023-10-02": 53437,
-  "2023-10-03": 53437,
-  "2023-10-04": 53437,
-  "2023-10-05": 53494,
-  "2023-10-06": 53515,
-  "2023-10-07": 53515,
-  "2023-10-08": 53515,
-  "2023-10-09": 53515,
-  "2023-10-10": 53515,
-  "2023-10-11": 53581,
-  "2023-10-12": 53581,
-  "2023-10-13": 53581,
-  "2023-10-14": 53581,
-  "2023-10-15": 53581,
-  "2023-10-16": 53581,
-  "2023-10-17": 53581,
-  "2023-10-18": 53581,
-  "2023-10-19": 53581,
-  "2023-10-20": 53581,
-  "2023-10-21": 53581,
-  "2023-10-22": 53581,
-  "2023-10-23": 53581,
-  "2023-10-24": 53581,
-  "2023-10-25": 53581,
-  "2023-10-26": 53581,
-  "2023-10-27": 53581,
-  "2023-10-28": 53581,
-  "2023-10-29": 53581,
-  "2023-10-30": 53581,
-  "2023-10-31": 53581,
-  "2023-11-01": 53581,
-  "2023-11-02": 53581,
-  "2023-11-03": 53581,
-  "2023-11-04": 53581,
-  "2023-11-05": 53581,
-  "2023-11-06": 53581,
-  "2023-11-07": 53581,
-  "2023-11-08": 53581,
-  "2023-11-09": 53581,
-  "2023-11-10": 53581,
-  "2023-11-11": 54273,
-  "2023-11-12": 54273,
-  "2023-11-13": 54273,
-  "2023-11-14": 54273,
-  "2023-11-15": 54273,
-  "2023-11-16": 54273,
-  "2023-11-17": 54273,
-  "2023-11-18": 54273,
-  "2023-11-19": 54273,
-  "2023-11-20": 54273,
-  "2023-11-21": 54273,
-  "2023-11-22": 54273,
-  "2023-11-23": 54273,
-  "2023-11-24": 54273,
-  "2023-11-25": 54273,
-  "2023-11-26": 54273,
-  "2023-11-27": 54273,
-  "2023-11-28": 54273,
-  "2023-11-29": 54273,
-  "2023-11-30": 54273,
-  "2023-12-01": 54273,
-  "2023-12-02": 54273,
-  "2023-12-03": 54273,
-  "2023-12-04": 54273,
-  "2023-12-05": 54273,
-  "2023-12-06": 54273,
-  "2023-12-07": 54273,
-  "2023-12-08": 54273,
-  "2023-12-09": 54273,
-  "2023-12-10": 54273,
-  "2023-12-11": 54273,
-  "2023-12-12": 54273,
-  "2023-12-13": 54273,
-  "2023-12-14": 54826,
-  "2023-12-15": 54831,
-  "2023-12-16": 54855,
-  "2023-12-17": 54868,
-  "2023-12-18": 54878,
-  "2023-12-19": 54893,
-  "2023-12-20": 54894,
-  "2023-12-21": 54916,
-  "2023-12-22": 54924,
-  "2023-12-23": 54939,
-  "2023-12-24": 54942,
-  "2023-12-25": 54954,
-  "2023-12-26": 54962,
-  "2023-12-27": 54972,
-  "2023-12-30": 55005,
-  "2023-12-31": 55008,
-  "2024-01-01": 55016,
-  "2024-01-02": 55030,
-  "2024-01-03": 55035
+  "2024-01-17": 55147,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Machine Head. The essential tracks, all in one playlist.",
+  "name": "This Is Machine Head",
+  "tracks": [
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373533,
+      "name": "A Thousand Lies",
+      "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390293,
+      "name": "Aesthetics of Hate",
+      "url": "https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g"
+    },
+    {
+      "album": {
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 228280,
+      "name": "American High",
+      "url": "https://open.spotify.com/track/1sbM3pW8xKd2HKm9bosFF2"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 355272,
+      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
+    },
+    {
+      "album": {
+        "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+        "url": "https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 355272,
+      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+      "url": "https://open.spotify.com/track/4D9nTTbdHGkaAgp66rozDx"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 59915,
+      "name": "ASSIMILATE",
+      "url": "https://open.spotify.com/track/6thHIgCrsZgxuPI8Vndncj"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304381,
+      "name": "Bastards",
+      "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 304666,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm"
+    },
+    {
+      "album": {
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343784,
+      "name": "Be Still And Know",
+      "url": "https://open.spotify.com/track/1W7tmSRMAnpCIyRGVAu62h"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 343786,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/1W1FbUZSGL9pA3ZKmAAqQE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 286421,
+      "name": "Beautiful Mourning",
+      "url": "https://open.spotify.com/track/7GPLETqtZtNyCbl8XSF224"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286426,
+      "name": "Beautiful Mourning",
+      "url": "https://open.spotify.com/track/5Cs6AftcanvD6Ib7YJ1otT"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299925,
+      "name": "BEC\u00d8ME THE FIREST\u00d8RM",
+      "url": "https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v"
+    },
+    {
+      "album": {
+        "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+        "url": "https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 300152,
+      "name": "BEC\u00d8ME THE FIREST\u00d8RM",
+      "url": "https://open.spotify.com/track/3EPgili2JS1ZR9LVMj05Rq"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247305,
+      "name": "Behind A Mask",
+      "url": "https://open.spotify.com/track/7bcjXWbCi5FpRf48oca8JJ"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283359,
+      "name": "Beneath The Silt",
+      "url": "https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271149,
+      "name": "Beyond The Pale",
+      "url": "https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE"
+    },
+    {
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201506,
+      "name": "Bite the Bullet",
+      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Blood for Blood",
+      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
+    },
+    {
+      "album": {
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
+    },
+    {
+      "album": {
+        "name": "Civil Unrest",
+        "url": "https://open.spotify.com/album/42eklVVP8Eosdti7osH01B"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 299180,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246405,
+      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
+    },
+    {
+      "album": {
+        "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+        "url": "https://open.spotify.com/album/6EhTaVPe67FETk9tIbi8nq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 246405,
+      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+      "url": "https://open.spotify.com/track/74Ijstyp0EXcdEZzyLOJy6"
+    },
+    {
+      "album": {
+        "name": "Circle The Drain",
+        "url": "https://open.spotify.com/album/0KnBuxBF1ynAS69UlDuJHE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245137,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 636800,
+      "name": "Clenching the Fists of Dissent",
+      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
+    },
+    {
+      "album": {
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Crashing Around You",
+      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 387840,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
+    },
+    {
+      "album": {
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387842,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296626,
+      "name": "Davidian",
+      "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
+    },
+    {
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 322493,
+      "name": "Days Turn Blue to Gray",
+      "url": "https://open.spotify.com/track/5vcJjOhRZvSQ3w06CXNpqS"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288600,
+      "name": "Desire to Fire",
+      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
+    },
+    {
+      "album": {
+        "name": "Die Young (Acoustic)",
+        "url": "https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297399,
+      "name": "Die Young (Acoustic)",
+      "url": "https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb"
+    },
+    {
+      "album": {
+        "name": "Do or Die",
+        "url": "https://open.spotify.com/album/2ilbCckBHnXxmWpZ63w9W1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 222487,
+      "name": "Do or Die",
+      "url": "https://open.spotify.com/track/4IFES4aTHxER2VhckmkYG8"
+    },
+    {
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 328266,
+      "name": "Down to None",
+      "url": "https://open.spotify.com/track/5Bpp0mEuvrEG6NhTbICeYz"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN - Bonus Tracks",
+        "url": "https://open.spotify.com/album/3wA47rONRTYNzjveZRHNvK"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 285850,
+      "name": "EXTER\u00d8CEPTI\u00d8N",
+      "url": "https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "From This Day",
+      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396736,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366467,
+      "name": "Ghosts Will Haunt My Bones",
+      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447373,
+      "name": "Hallowed Be Thy Name",
+      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/1W1FbUZSGL9pA3ZKmAAqQE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 447760,
+      "name": "Hallowed Be Thy Name",
+      "url": "https://open.spotify.com/track/2UCFZwOdWa0xCLiDW96qYZ"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 507520,
+      "name": "I Am Hell (Sonata in C#)",
+      "url": "https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K"
+    },
+    {
+      "album": {
+        "name": "Cancer Culture",
+        "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
+      },
+      "artists": [
+        {
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289803,
+      "name": "Iconoclast",
+      "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
+    },
+    {
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401693,
+      "name": "Imperium",
+      "url": "https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 442884,
+      "name": "In Comes The Flood",
+      "url": "https://open.spotify.com/track/4fRjDaOvF4TxU88P2bdkMx"
+    },
+    {
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243597,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 340317,
+      "name": "KILL THY ENEMIES",
+      "url": "https://open.spotify.com/track/21vXYqCyYT8HtYxuRF2a1B"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272058,
+      "name": "Killers & Kings",
+      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+    },
+    {
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 332733,
+      "name": "Left Unfinished",
+      "url": "https://open.spotify.com/track/7KtlcMi3ZTfgCXnTOXvQan"
+    },
+    {
+      "album": {
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456312,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 456320,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329878,
+      "name": "MY HANDS ARE EMPTY",
+      "url": "https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz"
+    },
+    {
+      "album": {
+        "name": "MY HANDS ARE EMPTY",
+        "url": "https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-29",
+      "duration_ms": 331205,
+      "name": "MY HANDS ARE EMPTY",
+      "url": "https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 408258,
+      "name": "Night Of Long Knives",
+      "url": "https://open.spotify.com/track/5t1GMDeC8YcTuTs5eV8yaI"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374666,
+      "name": "None but My Own",
+      "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 244666,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/4yFMPvLJSrGUbItgYQ5P1X"
+    },
+    {
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334640,
+      "name": "Now I Lay Thee Down",
+      "url": "https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430540,
+      "name": "Now We Die",
+      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Old",
+      "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+    },
+    {
+      "album": {
+        "name": "Killers & Kings",
+        "url": "https://open.spotify.com/album/1OLsjxpajM8nBpTkRajXut"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 169211,
+      "name": "Our Darkest Days / Bleeding",
+      "url": "https://open.spotify.com/track/2JIHpNWWaTIuGqxApQOl8M"
+    },
+    {
+      "album": {
+        "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+        "url": "https://open.spotify.com/album/3161fhMWzGaExi9Dky5MlX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 287275,
+      "name": "R\u00d8TTEN",
+      "url": "https://open.spotify.com/track/5FSWDz91pGJWHu4F0TWJZS"
+    },
+    {
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509817,
+      "name": "Sail Into The Black",
+      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/66AY5chQVzx7Icw6ObryJO"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625720,
+      "name": "SLAUGHTER THE MARTYR",
+      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
+    },
+    {
+      "album": {
+        "name": "Civil Unrest",
+        "url": "https://open.spotify.com/album/42eklVVP8Eosdti7osH01B"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183595,
+      "name": "Stop The Bleeding (Feat. Jesse Leach)",
+      "url": "https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w"
+    },
+    {
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "Take My Scars",
+      "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
+    },
+    {
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 72463,
+      "name": "TERMINUS",
+      "url": "https://open.spotify.com/track/1rfcsJ4bISd8CMGcMLTX2y"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 403706,
+      "name": "The Burning Red",
+      "url": "https://open.spotify.com/track/6I1TUZcHHhcFfI2GNfXcYU"
+    },
+    {
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286706,
+      "name": "The Rage to Overcome",
+      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/4CfoCZczl1vC3FPOtPVsZ3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 308433,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/2fPNAHSAmL5eCUy7LFsFu3"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 312986,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/1gLQeDFGTzmEpSMneARUyk"
+    },
+    {
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371480,
+      "name": "This Is the End",
+      "url": "https://open.spotify.com/track/6uRyY0aHPXEqvV1fiRn7Iq"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 281179,
+      "name": "Triple Beam",
+      "url": "https://open.spotify.com/track/19FT0vJ72SjAdQdCT3gf7M"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389947,
+      "name": "UNHALL\u00d8WED",
+      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "album": {
+        "name": "UNHALL\u00d8WED",
+        "url": "https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 389947,
+      "name": "UNHALL\u00d8WED",
+      "url": "https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278788,
+      "name": "Volatile",
+      "url": "https://open.spotify.com/track/6y6ht2b9DLT5Ih6oF2hzOX"
+    },
+    {
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 58490,
+      "name": "\u00d8VERD\u00d8SE",
+      "url": "https://open.spotify.com/track/2FySgAuDaW4CXfWUYiC2B9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO08InPG"
 }

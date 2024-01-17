@@ -1,569 +1,2227 @@
 {
-  "2022-06-10": 56149,
-  "2022-06-11": 56253,
-  "2022-06-12": 56309,
-  "2022-06-13": 56390,
-  "2022-06-14": 56473,
-  "2022-06-15": 56561,
-  "2022-06-16": 56636,
-  "2022-06-17": 56703,
-  "2022-06-18": 56788,
-  "2022-06-19": 56941,
-  "2022-06-20": 56941,
-  "2022-06-21": 56992,
-  "2022-06-22": 57096,
-  "2022-06-23": 57096,
-  "2022-06-24": 57130,
-  "2022-06-25": 57130,
-  "2022-06-26": 57236,
-  "2022-06-27": 57236,
-  "2022-06-28": 57376,
-  "2022-06-29": 57426,
-  "2022-06-30": 57483,
-  "2022-07-01": 57545,
-  "2022-07-02": 57621,
-  "2022-07-03": 57701,
-  "2022-07-04": 57756,
-  "2022-07-05": 57799,
-  "2022-07-06": 57851,
-  "2022-07-07": 57882,
-  "2022-07-08": 57933,
-  "2022-07-09": 58007,
-  "2022-07-10": 58042,
-  "2022-07-11": 58099,
-  "2022-07-12": 58152,
-  "2022-07-13": 58210,
-  "2022-07-14": 58243,
-  "2022-07-15": 58287,
-  "2022-07-16": 58332,
-  "2022-07-17": 58375,
-  "2022-07-18": 58426,
-  "2022-07-19": 58464,
-  "2022-07-20": 58517,
-  "2022-07-21": 58551,
-  "2022-07-22": 58594,
-  "2022-07-23": 58646,
-  "2022-07-24": 58710,
-  "2022-07-25": 58743,
-  "2022-07-26": 58771,
-  "2022-07-27": 58820,
-  "2022-07-28": 58885,
-  "2022-07-29": 58938,
-  "2022-07-30": 59018,
-  "2022-07-31": 59018,
-  "2022-08-01": 59055,
-  "2022-08-02": 59145,
-  "2022-08-03": 59145,
-  "2022-08-04": 59239,
-  "2022-08-05": 59356,
-  "2022-08-06": 59476,
-  "2022-08-07": 59610,
-  "2022-08-08": 59743,
-  "2022-08-09": 59868,
-  "2022-08-10": 59977,
-  "2022-08-11": 60068,
-  "2022-08-12": 60166,
-  "2022-08-13": 60283,
-  "2022-08-14": 60372,
-  "2022-08-15": 60477,
-  "2022-08-16": 60579,
-  "2022-08-17": 60682,
-  "2022-08-18": 60775,
-  "2022-08-19": 60836,
-  "2022-08-20": 60913,
-  "2022-08-21": 61003,
-  "2022-08-22": 61067,
-  "2022-08-23": 61154,
-  "2022-08-24": 61222,
-  "2022-08-25": 61306,
-  "2022-08-26": 61378,
-  "2022-08-27": 61455,
-  "2022-08-28": 61534,
-  "2022-08-29": 61606,
-  "2022-08-30": 61638,
-  "2022-08-31": 61624,
-  "2022-09-01": 61623,
-  "2022-09-02": 61675,
-  "2022-09-03": 61649,
-  "2022-09-04": 61558,
-  "2022-09-05": 61537,
-  "2022-09-06": 61609,
-  "2022-09-07": 61658,
-  "2022-09-09": 61772,
-  "2022-09-10": 61859,
-  "2022-09-11": 61940,
-  "2022-09-12": 62038,
-  "2022-09-13": 62130,
-  "2022-09-15": 62276,
-  "2022-09-16": 62340,
-  "2022-09-17": 62405,
-  "2022-09-18": 62504,
-  "2022-09-19": 62555,
-  "2022-09-20": 62648,
-  "2022-09-21": 62726,
-  "2022-09-22": 62794,
-  "2022-09-23": 62856,
-  "2022-09-24": 63160,
-  "2022-09-25": 63446,
-  "2022-09-26": 63728,
-  "2022-09-27": 63867,
-  "2022-09-28": 64012,
-  "2022-09-29": 64123,
-  "2022-09-30": 64221,
-  "2022-10-01": 64338,
-  "2022-10-02": 64462,
-  "2022-10-03": 64583,
-  "2022-10-04": 64671,
-  "2022-10-05": 64742,
-  "2022-10-06": 64803,
-  "2022-10-07": 64882,
-  "2022-10-08": 64953,
-  "2022-10-09": 65108,
-  "2022-10-10": 65131,
-  "2022-10-11": 65243,
-  "2022-10-12": 65304,
-  "2022-10-13": 65371,
-  "2022-10-14": 65418,
-  "2022-10-15": 65456,
-  "2022-10-16": 65516,
-  "2022-10-17": 65584,
-  "2022-10-18": 65625,
-  "2022-10-19": 65665,
-  "2022-10-20": 65700,
-  "2022-10-21": 65751,
-  "2022-10-22": 65789,
-  "2022-10-23": 65820,
-  "2022-10-24": 65860,
-  "2022-10-25": 65890,
-  "2022-10-26": 65932,
-  "2022-10-27": 65963,
-  "2022-10-28": 65992,
-  "2022-10-29": 66043,
-  "2022-10-30": 66117,
-  "2022-10-31": 66168,
-  "2022-11-01": 66212,
-  "2022-11-02": 66245,
-  "2022-11-03": 66272,
-  "2022-11-04": 66330,
-  "2022-11-05": 66382,
-  "2022-11-06": 66431,
-  "2022-11-07": 66472,
-  "2022-11-08": 66514,
-  "2022-11-09": 66556,
-  "2022-11-10": 66595,
-  "2022-11-11": 66642,
-  "2022-11-12": 66706,
-  "2022-11-13": 66748,
-  "2022-11-14": 66815,
-  "2022-11-15": 66871,
-  "2022-11-16": 66925,
-  "2022-11-17": 66962,
-  "2022-11-18": 66972,
-  "2022-11-19": 66949,
-  "2022-11-20": 66987,
-  "2022-11-21": 66964,
-  "2022-11-22": 67073,
-  "2022-11-23": 67052,
-  "2022-11-24": 67257,
-  "2022-11-25": 67280,
-  "2022-11-26": 67316,
-  "2022-11-27": 67352,
-  "2022-11-28": 67408,
-  "2022-11-29": 67433,
-  "2022-11-30": 67484,
-  "2022-12-01": 67517,
-  "2022-12-02": 67544,
-  "2022-12-03": 67596,
-  "2022-12-04": 67654,
-  "2022-12-05": 67710,
-  "2022-12-06": 67758,
-  "2022-12-07": 67783,
-  "2022-12-08": 67819,
-  "2022-12-09": 67860,
-  "2022-12-10": 67901,
-  "2022-12-11": 67931,
-  "2022-12-12": 67962,
-  "2022-12-13": 68007,
-  "2022-12-14": 68040,
-  "2022-12-15": 68067,
-  "2022-12-16": 68098,
-  "2022-12-17": 68145,
-  "2022-12-18": 68186,
-  "2022-12-19": 68211,
-  "2022-12-20": 68270,
-  "2022-12-21": 68270,
-  "2022-12-22": 68299,
-  "2022-12-24": 68350,
-  "2022-12-25": 68392,
-  "2022-12-26": 68413,
-  "2022-12-27": 68438,
-  "2022-12-28": 68482,
-  "2022-12-29": 68518,
-  "2022-12-30": 68556,
-  "2022-12-31": 68594,
-  "2023-01-01": 68637,
-  "2023-01-02": 68675,
-  "2023-01-03": 68715,
-  "2023-01-04": 68766,
-  "2023-01-05": 68812,
-  "2023-01-06": 68872,
-  "2023-01-07": 68926,
-  "2023-01-08": 68930,
-  "2023-01-09": 68956,
-  "2023-01-10": 69012,
-  "2023-01-11": 69045,
-  "2023-01-12": 69088,
-  "2023-01-13": 69131,
-  "2023-01-14": 69177,
-  "2023-01-15": 69183,
-  "2023-01-16": 69215,
-  "2023-01-17": 69242,
-  "2023-01-18": 69271,
-  "2023-01-19": 69289,
-  "2023-01-20": 69319,
-  "2023-01-21": 69336,
-  "2023-01-22": 69362,
-  "2023-01-23": 69396,
-  "2023-01-24": 69436,
-  "2023-01-25": 69459,
-  "2023-01-26": 69482,
-  "2023-01-27": 69512,
-  "2023-01-28": 69547,
-  "2023-01-29": 69582,
-  "2023-01-30": 69607,
-  "2023-01-31": 69607,
-  "2023-02-01": 69672,
-  "2023-02-02": 69715,
-  "2023-02-03": 69748,
-  "2023-02-04": 69791,
-  "2023-02-05": 69811,
-  "2023-02-06": 69847,
-  "2023-02-07": 69867,
-  "2023-02-08": 69921,
-  "2023-02-09": 69921,
-  "2023-02-10": 69932,
-  "2023-02-11": 69950,
-  "2023-02-12": 69999,
-  "2023-02-13": 70038,
-  "2023-02-14": 70038,
-  "2023-02-15": 70075,
-  "2023-02-16": 70122,
-  "2023-02-17": 70151,
-  "2023-02-18": 70206,
-  "2023-02-19": 70215,
-  "2023-02-20": 70237,
-  "2023-02-21": 70268,
-  "2023-02-22": 70301,
-  "2023-02-23": 70311,
-  "2023-02-24": 70349,
-  "2023-02-25": 70396,
-  "2023-02-26": 70414,
-  "2023-02-27": 70480,
-  "2023-02-28": 70480,
-  "2023-03-01": 70503,
-  "2023-03-02": 70534,
-  "2023-03-03": 70565,
-  "2023-03-04": 70588,
-  "2023-03-05": 70627,
-  "2023-03-06": 70627,
-  "2023-03-07": 70660,
-  "2023-03-08": 70695,
-  "2023-03-09": 70714,
-  "2023-03-10": 70737,
-  "2023-03-11": 70750,
-  "2023-03-12": 70791,
-  "2023-03-13": 70847,
-  "2023-03-14": 70902,
-  "2023-03-15": 70942,
-  "2023-03-16": 70981,
-  "2023-03-17": 70981,
-  "2023-03-18": 71074,
-  "2023-03-19": 71128,
-  "2023-03-20": 71172,
-  "2023-03-21": 71207,
-  "2023-03-22": 71246,
-  "2023-03-23": 71283,
-  "2023-03-24": 71283,
-  "2023-03-25": 71370,
-  "2023-03-26": 71420,
-  "2023-03-27": 71475,
-  "2023-03-28": 71516,
-  "2023-03-29": 71564,
-  "2023-03-30": 71637,
-  "2023-03-31": 71637,
-  "2023-04-01": 71682,
-  "2023-04-02": 71713,
-  "2023-04-03": 71752,
-  "2023-04-04": 71788,
-  "2023-04-05": 71819,
-  "2023-04-06": 71853,
-  "2023-04-07": 71889,
-  "2023-04-09": 71954,
-  "2023-04-10": 72009,
-  "2023-04-11": 72102,
-  "2023-04-12": 72102,
-  "2023-04-13": 72114,
-  "2023-04-14": 72159,
-  "2023-04-15": 72203,
-  "2023-04-16": 72245,
-  "2023-04-17": 72290,
-  "2023-04-18": 72340,
-  "2023-04-19": 72381,
-  "2023-04-20": 72418,
-  "2023-04-21": 72469,
-  "2023-04-22": 72510,
-  "2023-04-23": 72538,
-  "2023-04-24": 72578,
-  "2023-04-25": 72620,
-  "2023-04-26": 72656,
-  "2023-04-27": 72699,
-  "2023-04-28": 72731,
-  "2023-04-29": 72771,
-  "2023-04-30": 72817,
-  "2023-05-01": 72843,
-  "2023-05-02": 72903,
-  "2023-05-03": 72944,
-  "2023-05-04": 72970,
-  "2023-05-05": 73010,
-  "2023-05-06": 73047,
-  "2023-05-07": 73096,
-  "2023-05-08": 73128,
-  "2023-05-09": 73145,
-  "2023-05-10": 73179,
-  "2023-05-11": 73226,
-  "2023-05-12": 73262,
-  "2023-05-13": 73306,
-  "2023-05-14": 73336,
-  "2023-05-15": 73364,
-  "2023-05-16": 73410,
-  "2023-05-17": 73450,
-  "2023-05-18": 73472,
-  "2023-05-19": 73510,
-  "2023-05-20": 73578,
-  "2023-05-21": 73578,
-  "2023-05-22": 73578,
-  "2023-05-23": 73655,
-  "2023-05-24": 73716,
-  "2023-05-25": 73725,
-  "2023-05-26": 73752,
-  "2023-05-27": 73794,
-  "2023-05-28": 73831,
-  "2023-05-29": 73831,
-  "2023-05-30": 73907,
-  "2023-05-31": 73935,
-  "2023-06-01": 73966,
-  "2023-06-02": 74000,
-  "2023-06-03": 74047,
-  "2023-06-04": 74063,
-  "2023-06-05": 74086,
-  "2023-06-06": 74113,
-  "2023-06-07": 74141,
-  "2023-06-08": 74169,
-  "2023-06-09": 74186,
-  "2023-06-10": 74226,
-  "2023-06-11": 74256,
-  "2023-06-12": 74267,
-  "2023-06-13": 74294,
-  "2023-06-14": 74325,
-  "2023-06-15": 74360,
-  "2023-06-16": 74383,
-  "2023-06-17": 74418,
-  "2023-06-18": 74461,
-  "2023-06-19": 74496,
-  "2023-06-20": 74513,
-  "2023-06-21": 74548,
-  "2023-06-22": 74574,
-  "2023-06-23": 74600,
-  "2023-06-24": 74639,
-  "2023-06-25": 74660,
-  "2023-06-26": 74699,
-  "2023-06-27": 74733,
-  "2023-06-28": 74751,
-  "2023-06-29": 74781,
-  "2023-06-30": 74800,
-  "2023-07-01": 74851,
-  "2023-07-02": 74851,
-  "2023-07-03": 74862,
-  "2023-07-04": 74890,
-  "2023-07-05": 74927,
-  "2023-07-06": 74963,
-  "2023-07-07": 74963,
-  "2023-07-08": 75001,
-  "2023-07-09": 75033,
-  "2023-07-10": 75053,
-  "2023-07-11": 75069,
-  "2023-07-12": 75101,
-  "2023-07-13": 75141,
-  "2023-07-14": 75169,
-  "2023-07-15": 75188,
-  "2023-07-16": 75217,
-  "2023-07-17": 75253,
-  "2023-07-18": 75278,
-  "2023-07-19": 75322,
-  "2023-07-20": 75363,
-  "2023-07-21": 75394,
-  "2023-07-22": 75424,
-  "2023-07-23": 75440,
-  "2023-07-24": 75464,
-  "2023-07-25": 75483,
-  "2023-07-26": 75514,
-  "2023-07-27": 75550,
-  "2023-07-28": 75581,
-  "2023-07-29": 75606,
-  "2023-07-30": 75643,
-  "2023-07-31": 75676,
-  "2023-08-01": 75699,
-  "2023-08-02": 75745,
-  "2023-08-03": 75785,
-  "2023-08-04": 75815,
-  "2023-08-05": 75843,
-  "2023-08-06": 75886,
-  "2023-08-07": 75886,
-  "2023-08-08": 75926,
-  "2023-08-09": 75972,
-  "2023-08-10": 76016,
-  "2023-08-11": 76032,
-  "2023-08-12": 76063,
-  "2023-08-13": 76094,
-  "2023-08-14": 76134,
-  "2023-08-15": 76190,
-  "2023-08-16": 76190,
-  "2023-08-17": 76237,
-  "2023-08-18": 76274,
-  "2023-08-19": 76297,
-  "2023-08-20": 76326,
-  "2023-08-21": 76345,
-  "2023-08-22": 76373,
-  "2023-08-23": 76398,
-  "2023-08-24": 76426,
-  "2023-08-25": 76450,
-  "2023-08-26": 76472,
-  "2023-08-27": 76501,
-  "2023-08-28": 76538,
-  "2023-08-29": 76568,
-  "2023-08-30": 76596,
-  "2023-08-31": 76617,
-  "2023-09-01": 76679,
-  "2023-09-02": 76679,
-  "2023-09-03": 76708,
-  "2023-09-04": 76751,
-  "2023-09-05": 76785,
-  "2023-09-06": 76814,
-  "2023-09-07": 76848,
-  "2023-09-08": 76873,
-  "2023-09-09": 76882,
-  "2023-09-10": 76915,
-  "2023-09-11": 76943,
-  "2023-09-12": 76980,
-  "2023-09-13": 77023,
-  "2023-09-14": 77047,
-  "2023-09-15": 77069,
-  "2023-09-16": 77088,
-  "2023-09-17": 77108,
-  "2023-09-18": 77140,
-  "2023-09-19": 77169,
-  "2023-09-20": 77176,
-  "2023-09-21": 77199,
-  "2023-09-22": 77212,
-  "2023-09-23": 77228,
-  "2023-09-24": 77258,
-  "2023-09-25": 77290,
-  "2023-09-26": 77304,
-  "2023-09-27": 77326,
-  "2023-09-28": 77348,
-  "2023-09-29": 77363,
-  "2023-09-30": 77381,
-  "2023-10-01": 77404,
-  "2023-10-02": 77433,
-  "2023-10-03": 77453,
-  "2023-10-04": 77467,
-  "2023-10-05": 77475,
-  "2023-10-06": 77508,
-  "2023-10-07": 77522,
-  "2023-10-08": 77533,
-  "2023-10-09": 77549,
-  "2023-10-10": 77557,
-  "2023-10-11": 77602,
-  "2023-10-12": 77602,
-  "2023-10-13": 77612,
-  "2023-10-14": 77639,
-  "2023-10-15": 77663,
-  "2023-10-16": 77675,
-  "2023-10-17": 77690,
-  "2023-10-18": 77702,
-  "2023-10-19": 77721,
-  "2023-10-20": 77745,
-  "2023-10-21": 77767,
-  "2023-10-22": 77783,
-  "2023-10-23": 77797,
-  "2023-10-24": 77811,
-  "2023-10-25": 77832,
-  "2023-10-26": 77861,
-  "2023-10-27": 77888,
-  "2023-10-28": 77904,
-  "2023-10-29": 77934,
-  "2023-10-30": 77970,
-  "2023-10-31": 77970,
-  "2023-11-01": 77983,
-  "2023-11-02": 78012,
-  "2023-11-03": 78035,
-  "2023-11-04": 78052,
-  "2023-11-05": 78062,
-  "2023-11-06": 78090,
-  "2023-11-07": 78102,
-  "2023-11-08": 78116,
-  "2023-11-09": 78131,
-  "2023-11-10": 78154,
-  "2023-11-11": 78173,
-  "2023-11-12": 78195,
-  "2023-11-13": 78215,
-  "2023-11-14": 78254,
-  "2023-11-15": 78254,
-  "2023-11-16": 78291,
-  "2023-11-17": 78326,
-  "2023-11-18": 78326,
-  "2023-11-19": 78352,
-  "2023-11-20": 78384,
-  "2023-11-21": 78397,
-  "2023-11-22": 78415,
-  "2023-11-23": 78443,
-  "2023-11-24": 78459,
-  "2023-11-25": 78463,
-  "2023-11-26": 78478,
-  "2023-11-27": 78505,
-  "2023-11-28": 78522,
-  "2023-11-29": 78562,
-  "2023-11-30": 78562,
-  "2023-12-01": 78579,
-  "2023-12-02": 78589,
-  "2023-12-03": 78603,
-  "2023-12-04": 78624,
-  "2023-12-05": 78640,
-  "2023-12-06": 78652,
-  "2023-12-07": 78663,
-  "2023-12-08": 78668,
-  "2023-12-09": 78692,
-  "2023-12-10": 78703,
-  "2023-12-11": 78729,
-  "2023-12-12": 78745,
-  "2023-12-13": 78760,
-  "2023-12-14": 78792,
-  "2023-12-15": 78799,
-  "2023-12-16": 78815,
-  "2023-12-17": 78847,
-  "2023-12-18": 78871,
-  "2023-12-19": 78880,
-  "2023-12-20": 78899,
-  "2023-12-21": 78916,
-  "2023-12-22": 78926,
-  "2023-12-23": 78946,
-  "2023-12-24": 78976,
-  "2023-12-25": 78990,
-  "2023-12-26": 79009,
-  "2023-12-27": 79029,
-  "2023-12-30": 79096,
-  "2023-12-31": 79114,
-  "2024-01-01": 79127,
-  "2024-01-02": 79147,
-  "2024-01-03": 79159
+  "2024-01-17": 79460,
+  "date_first_scraped": "2022-06-10",
+  "description": "Music from Studio Chizu's new movie \"BELLE\"!  \u00a9\ufe0eSTUDIO CHIZU/ \u6620\u753b\u300e\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300f\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u8c6a\u83ef\u30df\u30e5\u30fc\u30b8\u30b7\u30e3\u30f3\u3001\u4f5c\u5bb6\u9663\u304c\u97f3\u697d\u306e\u9b45\u529b\u3092\u8a9e\u308b\u300cMusic+Talk\u300d\u7248\u306f<a href=\"spotify:show:0GVl86Z7umr9JEu8EhN22m\">\u3053\u3061\u3089</a>  \n",
+  "name": "-BELLE-\u3000\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb ",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 98651,
+      "name": "#UnveilTheBeast",
+      "url": "https://open.spotify.com/track/3aaRWVj1ss8lPPrRyW2QU8"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98651,
+      "name": "#UnveilTheBeast",
+      "url": "https://open.spotify.com/track/6wXBsBR3UDlRVE7iFjaWiT"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481378,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 481378,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481378,
+      "name": "A Million Miles Away (German Version)",
+      "url": "https://open.spotify.com/track/6Xoe2Qc0b7vSzXhbqZaDwt"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385860,
+      "name": "A Million Miles Away (reprise) (German Version)",
+      "url": "https://open.spotify.com/track/2hLhvxVl6YAwiljMmgMNvt"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387832,
+      "name": "A Million Miles Away (reprise) - English Version",
+      "url": "https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481378,
+      "name": "A Million Miles Away - Chinese Version",
+      "url": "https://open.spotify.com/track/1EZZ8aHvWouL9SUwMNx7ak"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481378,
+      "name": "A Million Miles Away - English Version",
+      "url": "https://open.spotify.com/track/1sK8lWSdU9LftDYvckLd6V"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 387832,
+      "name": "A Million Miles Away - reprise",
+      "url": "https://open.spotify.com/track/1zLREj2GiKFPRlh4f9hkW9"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387832,
+      "name": "A Million Miles Away - reprise",
+      "url": "https://open.spotify.com/track/464cJTFfwAzl8tkJy9OSoy"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387832,
+      "name": "A Million Miles Away - reprise - Chinese Version",
+      "url": "https://open.spotify.com/track/6r21MBPrc3niVozP7xKda6"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        },
+        {
+          "name": "Sachiyo Nakao",
+          "url": "https://open.spotify.com/artist/7GFUWcs6Q4dUA9WLsL15iq"
+        },
+        {
+          "name": "Fuyumi Sakamoto",
+          "url": "https://open.spotify.com/artist/55j8oSKnH8ni3P2FaNUwjP"
+        },
+        {
+          "name": "Yoshimi Iwasaki",
+          "url": "https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV"
+        },
+        {
+          "name": "Michiko Shimizu",
+          "url": "https://open.spotify.com/artist/1Ketn2ddWfazX95is2S8H2"
+        },
+        {
+          "name": "Kaho Nakamura",
+          "url": "https://open.spotify.com/artist/6AKyuXgFRs28rSlLurtoiL"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38087,
+      "name": "Alle Psallite Cum Luya",
+      "url": "https://open.spotify.com/track/1QlVfVpUKPe9TpX1LGyXKh"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        },
+        {
+          "name": "\u4e2d\u5c3e\u5e78\u4e16",
+          "url": "https://open.spotify.com/artist/6qShyvVl9m8X1Chqh7rzYB"
+        },
+        {
+          "name": "Fuyumi Sakamoto",
+          "url": "https://open.spotify.com/artist/55j8oSKnH8ni3P2FaNUwjP"
+        },
+        {
+          "name": "Yoshimi Iwasaki",
+          "url": "https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV"
+        },
+        {
+          "name": "Michiko Shimizu",
+          "url": "https://open.spotify.com/artist/1Ketn2ddWfazX95is2S8H2"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 38087,
+      "name": "Alle Psallite Cum Luya",
+      "url": "https://open.spotify.com/track/2DXpD2SFaH8HBSiD9hqM1R"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        },
+        {
+          "name": "\u4e2d\u5c3e\u5e78\u4e16",
+          "url": "https://open.spotify.com/artist/6qShyvVl9m8X1Chqh7rzYB"
+        },
+        {
+          "name": "Fuyumi Sakamoto",
+          "url": "https://open.spotify.com/artist/55j8oSKnH8ni3P2FaNUwjP"
+        },
+        {
+          "name": "Yoshimi Iwasaki",
+          "url": "https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV"
+        },
+        {
+          "name": "Michiko Shimizu",
+          "url": "https://open.spotify.com/artist/1Ketn2ddWfazX95is2S8H2"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 38087,
+      "name": "Alle Psallite Cum Luya",
+      "url": "https://open.spotify.com/track/3SqxuWVy5cB2yrf9pdl0OJ"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228704,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/3D3tASL661SQMhHrianfwO"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228704,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/64bKAprQGe1zqiqRxevbyd"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228704,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/7uKdhqIzLkezMCsyJ12KyO"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124172,
+      "name": "Authority and Arrogance",
+      "url": "https://open.spotify.com/track/41oN5eO0qkw7UvfaRTDwhz"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124172,
+      "name": "Authority and Arrogance",
+      "url": "https://open.spotify.com/track/5MEmXcIwlW7LamVLOd2rdy"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 124172,
+      "name": "Authority and Arrogance",
+      "url": "https://open.spotify.com/track/6K6i41tRypfr4pFFFu9kYf"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78242,
+      "name": "Blunt Words",
+      "url": "https://open.spotify.com/track/1mNn2pSi0JAyMZY2h16xh2"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 78242,
+      "name": "Blunt Words",
+      "url": "https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 321078,
+      "name": "Digital Ripples",
+      "url": "https://open.spotify.com/track/126Bbnx4kKZRwDegDfcSeH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321078,
+      "name": "Digital Ripples",
+      "url": "https://open.spotify.com/track/2gHaFKgRnO7yZinBy3kai8"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321078,
+      "name": "Digital Ripples",
+      "url": "https://open.spotify.com/track/7JPeTjrg57Y1ZsoeUdZRRv"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167737,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/1LmJsa9lsewNJGUN9dNl5v"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167737,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/2AeVGvfGdXtTSksrNGLwNM"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167737,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/5ogn3CWkbdOw1dWu0UgNIb"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 88738,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/0KhBEJZ5f4qKbuggGps9q0"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 88738,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/5muKuUsUzCtxT5scLCMQ1r"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88738,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/68dGgZaNe2ufRtF3nug1KE"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 190859,
+      "name": "Dragon's Lair",
+      "url": "https://open.spotify.com/track/1KlaCXGWjRkdK5S06E5pWw"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190859,
+      "name": "Dragon's Lair",
+      "url": "https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190859,
+      "name": "Dragon's Lair",
+      "url": "https://open.spotify.com/track/3JQGrRT5ZiRvlnTY5REDEc"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190859,
+      "name": "Dragon's Lair",
+      "url": "https://open.spotify.com/track/3z6i8FgwewHgMg0g4F71jk"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "Faces in the Rain",
+      "url": "https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142837,
+      "name": "Faces in the Rain",
+      "url": "https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Lara \"Loft\" Trautmann",
+          "url": "https://open.spotify.com/artist/3GGISxYUCvzRH26CneVNkk"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 142837,
+      "name": "Faces in the Rain (German Version)",
+      "url": "https://open.spotify.com/track/7j0bZryvqDndPjpv1jlGU8"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Neeko",
+          "url": "https://open.spotify.com/artist/4LDsKz6kqx005p22OU7FnJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "Faces in the Rain - Chinese Version",
+      "url": "https://open.spotify.com/track/630wPxFfC16rjFxO8Ythky"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Lara Loft",
+          "url": "https://open.spotify.com/artist/5joMJdp3RaxAj8xFbSLdmJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "Faces in the Rain - Deutsche Version",
+      "url": "https://open.spotify.com/track/0EGwTDYta2bSrBMzLblL9u"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Kylie McNeill",
+          "url": "https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "Faces in the Rain - English Version",
+      "url": "https://open.spotify.com/track/1ccWW13VW1vaJTLNHIh7da"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142837,
+      "name": "Faces in the Rain - Norwegian Version",
+      "url": "https://open.spotify.com/track/0QzQaX5cWwOnGJUSiXbMGf"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138222,
+      "name": "Fama Destinata",
+      "url": "https://open.spotify.com/track/0MlBRfVomH2yNYzeYVXWJY"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138222,
+      "name": "Fama Destinata",
+      "url": "https://open.spotify.com/track/33TgzwLsL5lO5fsNCIC9hB"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 138222,
+      "name": "Fama Destinata - Chinese Version",
+      "url": "https://open.spotify.com/track/7DG2N3dGIqyEg81Aaw5ugQ"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138222,
+      "name": "Fama Destinata - English Version",
+      "url": "https://open.spotify.com/track/0yBdvbVd5IBkrlQOqkq6K3"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 138222,
+      "name": "Fama Destinata - Norwegian Version",
+      "url": "https://open.spotify.com/track/1d0oFNoiPS7uvtpVyNPTe5"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 40779,
+      "name": "Fleeting Days",
+      "url": "https://open.spotify.com/track/1PacBC4qD00c5Y8HgDaTvE"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40779,
+      "name": "Fleeting Days",
+      "url": "https://open.spotify.com/track/5yLtoWn87kZrsoTk4rMcg3"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 40779,
+      "name": "Fleeting Days",
+      "url": "https://open.spotify.com/track/6QfymT86GowS768hJYaNjg"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239263,
+      "name": "Gales of Song (German Version)",
+      "url": "https://open.spotify.com/track/0XYeG673k92LhldkUAt38A"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239263,
+      "name": "Gales of Song - Chinese Version",
+      "url": "https://open.spotify.com/track/0cngI2O9oeOm5X2eOXiV3M"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239263,
+      "name": "Gales of Song - English Version",
+      "url": "https://open.spotify.com/track/0jD2Fa9VjjtkeCOWyQftdt"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 71301,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/08nXPp1f4uPSwHCSPeCL0b"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 71301,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/3O3cBQ4BldKKNHbP85S5cW"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 71301,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/4VnoFgjlPvUHbQfNW0Q6ZM"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71301,
+      "name": "Justin",
+      "url": "https://open.spotify.com/track/75Vs9tynBTB0cPbizf8Pcx"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Lara \"Loft\" Trautmann",
+          "url": "https://open.spotify.com/artist/3GGISxYUCvzRH26CneVNkk"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76588,
+      "name": "Lend Me Your Voice (draft) (German Version)",
+      "url": "https://open.spotify.com/track/4YsatrhHrXIehiITX8h6GY"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Kylie McNeill",
+          "url": "https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76595,
+      "name": "Lend Me Your Voice (draft) - English Version",
+      "url": "https://open.spotify.com/track/2rpcCY8SPAzyIZTbJyA4it"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303787,
+      "name": "Lend Me Your Voice (German Version)",
+      "url": "https://open.spotify.com/track/2ExdknxxJfgumuXEj728Zv"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Bentley Griffin",
+          "url": "https://open.spotify.com/artist/1pnq2ObLgqiHAaaV3SLQpt"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49209,
+      "name": "Lend Me Your Voice (humming) - English Version",
+      "url": "https://open.spotify.com/track/0HB5ZiphQK5uHL24WOlXV7"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303812,
+      "name": "Lend Me Your Voice - Chinese Version",
+      "url": "https://open.spotify.com/track/3B2DQZd7JqveIjfHmCAIMT"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76588,
+      "name": "Lend Me Your Voice - draft",
+      "url": "https://open.spotify.com/track/5SNF7mFxjTOseT8mH9LEaL"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 76588,
+      "name": "Lend Me Your Voice - draft",
+      "url": "https://open.spotify.com/track/6OHTAoR9PyHkspLRIeM2ET"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Neeko",
+          "url": "https://open.spotify.com/artist/4LDsKz6kqx005p22OU7FnJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76588,
+      "name": "Lend Me Your Voice - draft - Chinese Version",
+      "url": "https://open.spotify.com/track/78pBez34IIxQH4vPyqc4Ep"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303787,
+      "name": "Lend Me Your Voice - English Version",
+      "url": "https://open.spotify.com/track/5ZnV5RzUKhkxBRUGcMr1K4"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/0IKGJzbrTOdmjhgsg9qbc2"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 48235,
+      "name": "Lend Me Your Voice - humming",
+      "url": "https://open.spotify.com/track/06Vfd4qE1Gznub1YnxFrLa"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/0IKGJzbrTOdmjhgsg9qbc2"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48235,
+      "name": "Lend Me Your Voice - humming",
+      "url": "https://open.spotify.com/track/6YPF7vAbZ1aF8PE6XiTX7U"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/0IKGJzbrTOdmjhgsg9qbc2"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 48235,
+      "name": "Lend Me Your Voice - humming",
+      "url": "https://open.spotify.com/track/6xdnTl8NJYTtDcawVT8l3n"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 89572,
+      "name": "Memories of a Sound",
+      "url": "https://open.spotify.com/track/0SKbFGqrj94vUXmolJHpHT"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89572,
+      "name": "Memories of a Sound",
+      "url": "https://open.spotify.com/track/4EY8U0w9xW44Ffz5lFh10K"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 89572,
+      "name": "Memories of a Sound",
+      "url": "https://open.spotify.com/track/4b1Lo350E2hPu9We9qLumy"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 134490,
+      "name": "Pieces of the Puzzle",
+      "url": "https://open.spotify.com/track/09IW1NYSs0RasEEOExj8s8"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134490,
+      "name": "Pieces of the Puzzle",
+      "url": "https://open.spotify.com/track/2HZpvxdQcJb06mDR6mdJ24"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134490,
+      "name": "Pieces of the Puzzle",
+      "url": "https://open.spotify.com/track/4PE7AliKUk24jZmTOnsDG6"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224968,
+      "name": "Scorching the Facade",
+      "url": "https://open.spotify.com/track/0R0KLFlxNI9WDM2RiSvg8U"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224968,
+      "name": "Scorching the Facade",
+      "url": "https://open.spotify.com/track/1qIDN4BAILpQ0HsQ0iYI51"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224968,
+      "name": "Scorching the Facade",
+      "url": "https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182430,
+      "name": "Skies of Song",
+      "url": "https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182430,
+      "name": "Skies of Song",
+      "url": "https://open.spotify.com/track/5RzYntKRo9olye5xWvR25H"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "Neeko",
+          "url": "https://open.spotify.com/artist/4LDsKz6kqx005p22OU7FnJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 182430,
+      "name": "Skies of Song - Chinese Version",
+      "url": "https://open.spotify.com/track/538AhWRwNBgBskUOGjN38h"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "Laura \"Loft\" Trautmann",
+          "url": "https://open.spotify.com/artist/1xXQ6Tg1gOPxGSfkcckN0E"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 183234,
+      "name": "Skies of Song - Deutsche Version",
+      "url": "https://open.spotify.com/track/7dNKhelq3Gf5XYwfY2NI8w"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "Kylie McNeill",
+          "url": "https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182577,
+      "name": "Skies of Song - English Version",
+      "url": "https://open.spotify.com/track/67HcCqjH5d1w4DgHO2rltp"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 182430,
+      "name": "Skies of Song - Norwegian Version",
+      "url": "https://open.spotify.com/track/7HR8SwhPgpqgyZqUO3BxgW"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        },
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176000,
+      "name": "Slingshot",
+      "url": "https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        },
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Slingshot",
+      "url": "https://open.spotify.com/track/3LhgpuRdAULZQkhO4aBSdB"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79816,
+      "name": "Social Warfare",
+      "url": "https://open.spotify.com/track/2lffGDjzrPm6kb5XqavGht"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79816,
+      "name": "Social Warfare",
+      "url": "https://open.spotify.com/track/34E2lWUpYlICFxSefcybNy"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98242,
+      "name": "Swarms of Song",
+      "url": "https://open.spotify.com/track/2TfGYRcqttX6KLCkXgwSM7"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 98242,
+      "name": "Swarms of Song",
+      "url": "https://open.spotify.com/track/570fUL9YavYnf6F6VoPuQE"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 98242,
+      "name": "Swarms of Song (German Version)",
+      "url": "https://open.spotify.com/track/7kzGoC8naM9ncJ6zv60rRl"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98242,
+      "name": "Swarms of Song - Chinese Version",
+      "url": "https://open.spotify.com/track/2ZctXKeX2A7SpYGLjZwc3E"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98242,
+      "name": "Swarms of Song - Deutsche Version",
+      "url": "https://open.spotify.com/track/6Bl8ELAqTF3ZGHgaGJ1UkH"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98242,
+      "name": "Swarms of Song - English Version",
+      "url": "https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98242,
+      "name": "Swarms of Song - Norwegian Version",
+      "url": "https://open.spotify.com/track/23j7XqBCOyy4AznlPmxxMe"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 64668,
+      "name": "The Truth Obscured",
+      "url": "https://open.spotify.com/track/1uHnOgAd7XsbjfcU7S2PGP"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 64668,
+      "name": "The Truth Obscured",
+      "url": "https://open.spotify.com/track/22AypixYj5hbhTtmYsGLt5"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Forssell",
+          "url": "https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64668,
+      "name": "The Truth Obscured",
+      "url": "https://open.spotify.com/track/35fPUpWKfIzWfuSsfy9TuS"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184268,
+      "name": "U",
+      "url": "https://open.spotify.com/track/3adpw5EbVZ7VFnPynUEjR1"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "U",
+      "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184245,
+      "name": "U - Chinese Version",
+      "url": "https://open.spotify.com/track/2yXLQZNBNfQbP0qHbT57ir"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183531,
+      "name": "U - English Version",
+      "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184268,
+      "name": "U - Norwegian Version",
+      "url": "https://open.spotify.com/track/2MeR9yb4UN7LjUu9P9J9GI"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 93323,
+      "name": "Unveil",
+      "url": "https://open.spotify.com/track/5G8pUxDuYyE4BSpXtk1WzV"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [German Language Version]",
+        "url": "https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 93323,
+      "name": "Unveil",
+      "url": "https://open.spotify.com/track/5tIRbs2Xte9Nhf1nyhsEWY"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93323,
+      "name": "Unveil",
+      "url": "https://open.spotify.com/track/7u88eZNcKNaHQATElhTn5x"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/25rOEv0oc2do0RDhm1spvm"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 30200,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3pjkBCnvD1hOWssKewHSTj"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [German Edition]",
+        "url": "https://open.spotify.com/album/3luns97HWSs2h45opepO3S"
+      },
+      "artists": [
+        {
+          "name": "Lara \"Loft\" Trautmann",
+          "url": "https://open.spotify.com/artist/3GGISxYUCvzRH26CneVNkk"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "Whispers (German Version)",
+      "url": "https://open.spotify.com/track/4vTEcpLPKw7Y0sp9JM4Pm7"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Chinese Edition]",
+        "url": "https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9"
+      },
+      "artists": [
+        {
+          "name": "Neeko",
+          "url": "https://open.spotify.com/artist/4LDsKz6kqx005p22OU7FnJ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "Whispers - Chinese Version",
+      "url": "https://open.spotify.com/track/7HVoVkdjVH5iQFq3KXktvX"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
+      },
+      "artists": [
+        {
+          "name": "Kylie McNeill",
+          "url": "https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "Whispers - English Version",
+      "url": "https://open.spotify.com/track/7HWXlckp54xTntOrDzd9QL"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack) [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30200,
+      "name": "Whispers - Norwegian Version",
+      "url": "https://open.spotify.com/track/0b0B16Q3BOkA7GX9lzkj46"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303812,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b",
+      "url": "https://open.spotify.com/track/6orNyGXMqjb6YTEoiA2GEa"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239263,
+      "name": "\u6b4c\u3088",
+      "url": "https://open.spotify.com/track/13C6yg32SUkj52po7mkwTP"
+    },
+    {
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239263,
+      "name": "\u6b4c\u3088",
+      "url": "https://open.spotify.com/track/4DPovSJonVPid3EDSxL9K8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Y8kMPjaqrb"
 }

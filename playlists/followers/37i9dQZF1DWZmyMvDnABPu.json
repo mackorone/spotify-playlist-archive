@@ -1,595 +1,801 @@
 {
-  "2022-05-15": 57601,
-  "2022-05-16": 57662,
-  "2022-05-17": 57727,
-  "2022-05-18": 57797,
-  "2022-05-19": 57870,
-  "2022-05-20": 57944,
-  "2022-05-21": 58064,
-  "2022-05-22": 58064,
-  "2022-05-23": 58153,
-  "2022-05-24": 58221,
-  "2022-05-25": 58298,
-  "2022-05-26": 58357,
-  "2022-05-27": 58428,
-  "2022-05-28": 58487,
-  "2022-05-29": 58558,
-  "2022-05-30": 58606,
-  "2022-05-31": 58673,
-  "2022-06-01": 58811,
-  "2022-06-02": 58819,
-  "2022-06-03": 58881,
-  "2022-06-04": 58936,
-  "2022-06-05": 58999,
-  "2022-06-06": 59085,
-  "2022-06-07": 59136,
-  "2022-06-08": 59223,
-  "2022-06-09": 59280,
-  "2022-06-10": 59370,
-  "2022-06-11": 59446,
-  "2022-06-12": 59520,
-  "2022-06-13": 59585,
-  "2022-06-14": 59645,
-  "2022-06-15": 59736,
-  "2022-06-16": 59779,
-  "2022-06-17": 59852,
-  "2022-06-18": 59897,
-  "2022-06-19": 60047,
-  "2022-06-20": 60047,
-  "2022-06-21": 60129,
-  "2022-06-22": 60256,
-  "2022-06-23": 60256,
-  "2022-06-24": 60322,
-  "2022-06-25": 60372,
-  "2022-06-26": 60424,
-  "2022-06-27": 60498,
-  "2022-06-28": 60548,
-  "2022-06-29": 60608,
-  "2022-06-30": 60667,
-  "2022-07-01": 60728,
-  "2022-07-02": 60776,
-  "2022-07-03": 60818,
-  "2022-07-04": 60864,
-  "2022-07-05": 60935,
-  "2022-07-06": 60991,
-  "2022-07-07": 61056,
-  "2022-07-08": 61111,
-  "2022-07-09": 61175,
-  "2022-07-10": 61245,
-  "2022-07-11": 61310,
-  "2022-07-12": 61380,
-  "2022-07-13": 61444,
-  "2022-07-14": 61509,
-  "2022-07-15": 61546,
-  "2022-07-16": 61617,
-  "2022-07-17": 61685,
-  "2022-07-18": 61781,
-  "2022-07-19": 61868,
-  "2022-07-20": 61912,
-  "2022-07-21": 61994,
-  "2022-07-22": 62076,
-  "2022-07-23": 62139,
-  "2022-07-24": 62204,
-  "2022-07-25": 62277,
-  "2022-07-26": 62348,
-  "2022-07-27": 62406,
-  "2022-07-28": 62488,
-  "2022-07-29": 62553,
-  "2022-07-30": 62693,
-  "2022-07-31": 62693,
-  "2022-08-01": 62800,
-  "2022-08-02": 62963,
-  "2022-08-03": 62963,
-  "2022-08-04": 63010,
-  "2022-08-05": 63079,
-  "2022-08-06": 63138,
-  "2022-08-07": 63192,
-  "2022-08-08": 63258,
-  "2022-08-09": 63329,
-  "2022-08-10": 63402,
-  "2022-08-11": 63477,
-  "2022-08-12": 63538,
-  "2022-08-13": 63614,
-  "2022-08-14": 63663,
-  "2022-08-15": 63726,
-  "2022-08-16": 63812,
-  "2022-08-17": 63858,
-  "2022-08-18": 63900,
-  "2022-08-19": 63974,
-  "2022-08-20": 64026,
-  "2022-08-21": 64085,
-  "2022-08-22": 64161,
-  "2022-08-23": 64232,
-  "2022-08-24": 64283,
-  "2022-08-25": 64344,
-  "2022-08-26": 64401,
-  "2022-08-27": 64451,
-  "2022-08-28": 64515,
-  "2022-08-29": 64592,
-  "2022-08-30": 64610,
-  "2022-08-31": 64588,
-  "2022-09-01": 64554,
-  "2022-09-02": 64630,
-  "2022-09-03": 64600,
-  "2022-09-04": 64503,
-  "2022-09-05": 64477,
-  "2022-09-06": 64536,
-  "2022-09-07": 64595,
-  "2022-09-09": 64703,
-  "2022-09-10": 64740,
-  "2022-09-11": 64798,
-  "2022-09-12": 64850,
-  "2022-09-13": 64894,
-  "2022-09-15": 64988,
-  "2022-09-16": 65035,
-  "2022-09-17": 65067,
-  "2022-09-18": 65106,
-  "2022-09-19": 65150,
-  "2022-09-20": 65195,
-  "2022-09-21": 65236,
-  "2022-09-22": 65268,
-  "2022-09-23": 65319,
-  "2022-09-24": 65368,
-  "2022-09-25": 65406,
-  "2022-09-26": 65467,
-  "2022-09-27": 65523,
-  "2022-09-28": 65588,
-  "2022-09-29": 65632,
-  "2022-09-30": 65677,
-  "2022-10-01": 65715,
-  "2022-10-02": 65776,
-  "2022-10-03": 65859,
-  "2022-10-04": 65912,
-  "2022-10-05": 65949,
-  "2022-10-06": 65993,
-  "2022-10-07": 66039,
-  "2022-10-08": 66096,
-  "2022-10-09": 66224,
-  "2022-10-10": 66239,
-  "2022-10-11": 66305,
-  "2022-10-12": 66360,
-  "2022-10-13": 66425,
-  "2022-10-14": 66465,
-  "2022-10-15": 66531,
-  "2022-10-16": 66602,
-  "2022-10-17": 66683,
-  "2022-10-18": 66748,
-  "2022-10-19": 66803,
-  "2022-10-20": 66868,
-  "2022-10-21": 66931,
-  "2022-10-22": 66983,
-  "2022-10-23": 67052,
-  "2022-10-24": 67137,
-  "2022-10-25": 67212,
-  "2022-10-26": 67268,
-  "2022-10-27": 67360,
-  "2022-10-28": 67437,
-  "2022-10-29": 67505,
-  "2022-10-30": 67568,
-  "2022-10-31": 67628,
-  "2022-11-01": 67689,
-  "2022-11-02": 67770,
-  "2022-11-03": 67864,
-  "2022-11-04": 67932,
-  "2022-11-05": 68024,
-  "2022-11-06": 68103,
-  "2022-11-07": 68169,
-  "2022-11-08": 68268,
-  "2022-11-09": 68358,
-  "2022-11-10": 68430,
-  "2022-11-11": 68527,
-  "2022-11-12": 68656,
-  "2022-11-13": 68718,
-  "2022-11-14": 68814,
-  "2022-11-15": 68901,
-  "2022-11-16": 68984,
-  "2022-11-17": 69062,
-  "2022-11-18": 69096,
-  "2022-11-19": 69065,
-  "2022-11-20": 69067,
-  "2022-11-21": 69123,
-  "2022-11-22": 69344,
-  "2022-11-23": 69310,
-  "2022-11-24": 69464,
-  "2022-11-25": 69655,
-  "2022-11-26": 69783,
-  "2022-11-27": 69882,
-  "2022-11-28": 69975,
-  "2022-11-29": 70040,
-  "2022-11-30": 70109,
-  "2022-12-01": 70178,
-  "2022-12-02": 70237,
-  "2022-12-03": 70348,
-  "2022-12-04": 70433,
-  "2022-12-05": 70513,
-  "2022-12-06": 70574,
-  "2022-12-07": 70675,
-  "2022-12-08": 70754,
-  "2022-12-09": 70826,
-  "2022-12-10": 70892,
-  "2022-12-11": 70969,
-  "2022-12-12": 71044,
-  "2022-12-13": 71115,
-  "2022-12-14": 71185,
-  "2022-12-15": 71243,
-  "2022-12-16": 71310,
-  "2022-12-17": 71379,
-  "2022-12-18": 71456,
-  "2022-12-19": 71521,
-  "2022-12-20": 71632,
-  "2022-12-21": 71632,
-  "2022-12-22": 71708,
-  "2022-12-24": 71804,
-  "2022-12-25": 71868,
-  "2022-12-26": 71922,
-  "2022-12-27": 71979,
-  "2022-12-28": 72052,
-  "2022-12-29": 72126,
-  "2022-12-30": 72205,
-  "2022-12-31": 72281,
-  "2023-01-01": 72344,
-  "2023-01-02": 72411,
-  "2023-01-03": 72474,
-  "2023-01-04": 72539,
-  "2023-01-05": 72616,
-  "2023-01-06": 72705,
-  "2023-01-07": 72815,
-  "2023-01-08": 72837,
-  "2023-01-09": 72910,
-  "2023-01-10": 73012,
-  "2023-01-11": 73087,
-  "2023-01-12": 73164,
-  "2023-01-13": 73254,
-  "2023-01-14": 73398,
-  "2023-01-15": 73415,
-  "2023-01-16": 73493,
-  "2023-01-17": 73619,
-  "2023-01-18": 73679,
-  "2023-01-19": 73734,
-  "2023-01-20": 73806,
-  "2023-01-21": 73871,
-  "2023-01-22": 73946,
-  "2023-01-23": 74030,
-  "2023-01-24": 74102,
-  "2023-01-25": 74180,
-  "2023-01-26": 74240,
-  "2023-01-27": 74309,
-  "2023-01-28": 74387,
-  "2023-01-29": 74437,
-  "2023-01-30": 74497,
-  "2023-01-31": 74497,
-  "2023-02-01": 74606,
-  "2023-02-02": 74658,
-  "2023-02-03": 74745,
-  "2023-02-04": 74794,
-  "2023-02-05": 74864,
-  "2023-02-06": 74924,
-  "2023-02-07": 74975,
-  "2023-02-08": 75078,
-  "2023-02-09": 75078,
-  "2023-02-10": 75134,
-  "2023-02-11": 75174,
-  "2023-02-12": 75299,
-  "2023-02-13": 75365,
-  "2023-02-14": 75365,
-  "2023-02-15": 75435,
-  "2023-02-16": 75500,
-  "2023-02-17": 75558,
-  "2023-02-18": 75674,
-  "2023-02-19": 75691,
-  "2023-02-20": 75744,
-  "2023-02-21": 75796,
-  "2023-02-22": 75842,
-  "2023-02-23": 75901,
-  "2023-02-24": 75965,
-  "2023-02-25": 76042,
-  "2023-02-26": 76061,
-  "2023-02-27": 76160,
-  "2023-02-28": 76160,
-  "2023-03-01": 76215,
-  "2023-03-02": 76280,
-  "2023-03-03": 76342,
-  "2023-03-04": 76378,
-  "2023-03-05": 76506,
-  "2023-03-06": 76506,
-  "2023-03-07": 76561,
-  "2023-03-08": 76620,
-  "2023-03-09": 76665,
-  "2023-03-10": 76712,
-  "2023-03-11": 76779,
-  "2023-03-12": 76836,
-  "2023-03-13": 76883,
-  "2023-03-14": 76940,
-  "2023-03-15": 76982,
-  "2023-03-16": 77018,
-  "2023-03-17": 77018,
-  "2023-03-18": 77131,
-  "2023-03-19": 77178,
-  "2023-03-20": 77233,
-  "2023-03-21": 77272,
-  "2023-03-22": 77316,
-  "2023-03-23": 77358,
-  "2023-03-24": 77358,
-  "2023-03-25": 77431,
-  "2023-03-26": 77464,
-  "2023-03-27": 77497,
-  "2023-03-28": 77552,
-  "2023-03-29": 77602,
-  "2023-03-30": 77692,
-  "2023-03-31": 77692,
-  "2023-04-01": 77740,
-  "2023-04-02": 77802,
-  "2023-04-03": 77854,
-  "2023-04-04": 77894,
-  "2023-04-05": 77939,
-  "2023-04-06": 77976,
-  "2023-04-07": 78018,
-  "2023-04-09": 78100,
-  "2023-04-10": 78146,
-  "2023-04-11": 78265,
-  "2023-04-12": 78265,
-  "2023-04-13": 78313,
-  "2023-04-14": 78378,
-  "2023-04-15": 78412,
-  "2023-04-16": 78455,
-  "2023-04-17": 78501,
-  "2023-04-18": 78545,
-  "2023-04-19": 78581,
-  "2023-04-20": 78622,
-  "2023-04-21": 78676,
-  "2023-04-22": 78721,
-  "2023-04-23": 78755,
-  "2023-04-24": 78788,
-  "2023-04-25": 78850,
-  "2023-04-26": 78885,
-  "2023-04-27": 78916,
-  "2023-04-28": 78944,
-  "2023-04-29": 78988,
-  "2023-04-30": 79028,
-  "2023-05-01": 79079,
-  "2023-05-02": 79108,
-  "2023-05-03": 79153,
-  "2023-05-04": 79204,
-  "2023-05-05": 79246,
-  "2023-05-06": 79303,
-  "2023-05-07": 79365,
-  "2023-05-08": 79406,
-  "2023-05-09": 79446,
-  "2023-05-10": 79512,
-  "2023-05-11": 79558,
-  "2023-05-12": 79618,
-  "2023-05-13": 79658,
-  "2023-05-14": 79707,
-  "2023-05-15": 79759,
-  "2023-05-16": 79793,
-  "2023-05-17": 79835,
-  "2023-05-18": 79888,
-  "2023-05-19": 79951,
-  "2023-05-20": 80070,
-  "2023-05-21": 80070,
-  "2023-05-22": 80070,
-  "2023-05-23": 80175,
-  "2023-05-24": 80269,
-  "2023-05-25": 80283,
-  "2023-05-26": 80326,
-  "2023-05-27": 80365,
-  "2023-05-28": 80425,
-  "2023-05-29": 80425,
-  "2023-05-30": 80526,
-  "2023-05-31": 80568,
-  "2023-06-01": 80608,
-  "2023-06-02": 80644,
-  "2023-06-03": 80681,
-  "2023-06-04": 80750,
-  "2023-06-05": 80810,
-  "2023-06-06": 80867,
-  "2023-06-07": 80938,
-  "2023-06-08": 80981,
-  "2023-06-09": 81033,
-  "2023-06-10": 81086,
-  "2023-06-11": 81114,
-  "2023-06-12": 81151,
-  "2023-06-13": 81202,
-  "2023-06-14": 81236,
-  "2023-06-15": 81289,
-  "2023-06-16": 81340,
-  "2023-06-17": 81367,
-  "2023-06-18": 81382,
-  "2023-06-19": 81423,
-  "2023-06-20": 81465,
-  "2023-06-21": 81523,
-  "2023-06-22": 81555,
-  "2023-06-23": 81595,
-  "2023-06-24": 81654,
-  "2023-06-25": 81693,
-  "2023-06-26": 81741,
-  "2023-06-27": 81779,
-  "2023-06-28": 81819,
-  "2023-06-29": 81875,
-  "2023-06-30": 81918,
-  "2023-07-01": 82033,
-  "2023-07-02": 82033,
-  "2023-07-03": 82086,
-  "2023-07-04": 82146,
-  "2023-07-05": 82196,
-  "2023-07-06": 82259,
-  "2023-07-07": 82259,
-  "2023-07-08": 82306,
-  "2023-07-09": 82334,
-  "2023-07-10": 82370,
-  "2023-07-11": 82423,
-  "2023-07-12": 82469,
-  "2023-07-13": 82523,
-  "2023-07-14": 82569,
-  "2023-07-15": 82592,
-  "2023-07-16": 82647,
-  "2023-07-17": 82701,
-  "2023-07-18": 82763,
-  "2023-07-19": 82837,
-  "2023-07-20": 82903,
-  "2023-07-21": 82955,
-  "2023-07-22": 83005,
-  "2023-07-23": 83046,
-  "2023-07-24": 83092,
-  "2023-07-25": 83147,
-  "2023-07-26": 83196,
-  "2023-07-27": 83231,
-  "2023-07-28": 83280,
-  "2023-07-29": 83325,
-  "2023-07-30": 83376,
-  "2023-07-31": 83436,
-  "2023-08-01": 83494,
-  "2023-08-02": 83539,
-  "2023-08-03": 83578,
-  "2023-08-04": 83624,
-  "2023-08-05": 83678,
-  "2023-08-06": 83746,
-  "2023-08-07": 83746,
-  "2023-08-08": 83796,
-  "2023-08-09": 83847,
-  "2023-08-10": 83902,
-  "2023-08-11": 83961,
-  "2023-08-12": 84029,
-  "2023-08-13": 84064,
-  "2023-08-14": 84102,
-  "2023-08-15": 84197,
-  "2023-08-16": 84197,
-  "2023-08-17": 84227,
-  "2023-08-18": 84272,
-  "2023-08-19": 84318,
-  "2023-08-20": 84364,
-  "2023-08-21": 84410,
-  "2023-08-22": 84448,
-  "2023-08-23": 84496,
-  "2023-08-24": 84542,
-  "2023-08-25": 84577,
-  "2023-08-26": 84631,
-  "2023-08-27": 84667,
-  "2023-08-28": 84729,
-  "2023-08-29": 84772,
-  "2023-08-30": 84811,
-  "2023-08-31": 84851,
-  "2023-09-01": 84910,
-  "2023-09-02": 84910,
-  "2023-09-03": 84920,
-  "2023-09-04": 84931,
-  "2023-09-05": 84959,
-  "2023-09-06": 84981,
-  "2023-09-07": 84996,
-  "2023-09-08": 85034,
-  "2023-09-09": 85050,
-  "2023-09-10": 85077,
-  "2023-09-11": 85097,
-  "2023-09-12": 85114,
-  "2023-09-13": 85136,
-  "2023-09-14": 85143,
-  "2023-09-15": 85167,
-  "2023-09-16": 85184,
-  "2023-09-17": 85199,
-  "2023-09-18": 85221,
-  "2023-09-19": 85242,
-  "2023-09-20": 85249,
-  "2023-09-21": 85269,
-  "2023-09-22": 85284,
-  "2023-09-23": 85300,
-  "2023-09-24": 85334,
-  "2023-09-25": 85357,
-  "2023-09-26": 85384,
-  "2023-09-27": 85399,
-  "2023-09-28": 85413,
-  "2023-09-29": 85446,
-  "2023-09-30": 85475,
-  "2023-10-01": 85511,
-  "2023-10-02": 85523,
-  "2023-10-03": 85539,
-  "2023-10-04": 85569,
-  "2023-10-05": 85581,
-  "2023-10-06": 85604,
-  "2023-10-07": 85619,
-  "2023-10-08": 85634,
-  "2023-10-09": 85668,
-  "2023-10-10": 85687,
-  "2023-10-11": 85720,
-  "2023-10-12": 85720,
-  "2023-10-13": 85736,
-  "2023-10-14": 85759,
-  "2023-10-15": 85779,
-  "2023-10-16": 85812,
-  "2023-10-17": 85812,
-  "2023-10-18": 85823,
-  "2023-10-19": 85842,
-  "2023-10-20": 85865,
-  "2023-10-21": 85883,
-  "2023-10-22": 85944,
-  "2023-10-23": 85989,
-  "2023-10-24": 86021,
-  "2023-10-25": 86051,
-  "2023-10-26": 86061,
-  "2023-10-27": 86070,
-  "2023-10-28": 86102,
-  "2023-10-29": 86119,
-  "2023-10-30": 86155,
-  "2023-10-31": 86155,
-  "2023-11-01": 86168,
-  "2023-11-02": 86174,
-  "2023-11-03": 86209,
-  "2023-11-04": 86231,
-  "2023-11-05": 86259,
-  "2023-11-06": 86266,
-  "2023-11-07": 86281,
-  "2023-11-08": 86293,
-  "2023-11-09": 86311,
-  "2023-11-10": 86336,
-  "2023-11-11": 86362,
-  "2023-11-12": 86369,
-  "2023-11-13": 86400,
-  "2023-11-14": 86410,
-  "2023-11-15": 86410,
-  "2023-11-16": 86448,
-  "2023-11-17": 86489,
-  "2023-11-18": 86489,
-  "2023-11-19": 86532,
-  "2023-11-20": 86545,
-  "2023-11-21": 86563,
-  "2023-11-22": 86591,
-  "2023-11-23": 86597,
-  "2023-11-24": 86602,
-  "2023-11-25": 86625,
-  "2023-11-26": 86651,
-  "2023-11-27": 86688,
-  "2023-11-28": 86714,
-  "2023-11-29": 86772,
-  "2023-11-30": 86772,
-  "2023-12-01": 86777,
-  "2023-12-02": 86786,
-  "2023-12-03": 86816,
-  "2023-12-04": 86828,
-  "2023-12-05": 86873,
-  "2023-12-06": 86895,
-  "2023-12-07": 86932,
-  "2023-12-08": 86968,
-  "2023-12-09": 87025,
-  "2023-12-10": 87066,
-  "2023-12-11": 87099,
-  "2023-12-12": 87143,
-  "2023-12-13": 87179,
-  "2023-12-14": 87234,
-  "2023-12-15": 87269,
-  "2023-12-16": 87306,
-  "2023-12-17": 87336,
-  "2023-12-18": 87388,
-  "2023-12-19": 87441,
-  "2023-12-20": 87492,
-  "2023-12-21": 87521,
-  "2023-12-22": 87561,
-  "2023-12-23": 87600,
-  "2023-12-24": 87644,
-  "2023-12-25": 87692,
-  "2023-12-26": 87723,
-  "2023-12-27": 87750,
-  "2023-12-30": 87889,
-  "2023-12-31": 87921,
-  "2024-01-01": 87945,
-  "2024-01-02": 87960,
-  "2024-01-03": 87989
+  "2024-01-17": 88356,
+  "date_first_scraped": "2022-05-15",
+  "description": "Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama. (JTBC \ub4dc\ub77c\ub9c8 '\uc54c\uace0\uc788\uc9c0\ub9cc'\uc758 OST\ub97c \uc791\uc911 \ub300\uc0ac\uc640 \ud568\uaed8 \uc0c9\ub2e4\ub974\uac8c \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "name": "Nevertheless, (\uc54c\uace0\uc788\uc9c0\ub9cc,)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Yoon Chae Young",
+          "url": "https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "A relationship that does not exist.",
+      "url": "https://open.spotify.com/track/5TdKTGW8uASQR6AP9C7Ycf"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy"
+      },
+      "artists": [
+        {
+          "name": "J.UNA",
+          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy"
+      },
+      "artists": [
+        {
+          "name": "J.UNA",
+          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Butterfly - Instrumental",
+      "url": "https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13926,
+      "name": "EP1. Nevertheless, Butterflies",
+      "url": "https://open.spotify.com/track/2f11BalQbO9B12ee1gJG1Q"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20440,
+      "name": "EP10. Nevertheless, let's go out",
+      "url": "https://open.spotify.com/track/4ohMpWkpUcf58uoxypvH8e"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26898,
+      "name": "EP3. Nevertheless, not such a bad guy",
+      "url": "https://open.spotify.com/track/64YEADDiUWxNE2Z4RtZWK0"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11514,
+      "name": "EP4. Nevertheless, my mind went blank",
+      "url": "https://open.spotify.com/track/5waOf9OGLhggRJDQj7Xq9j"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/7FFs85kAGxE4xFn5kyqWm0"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9504,
+      "name": "EP5. Nevertheless, I found peace",
+      "url": "https://open.spotify.com/track/1MM9XcAXKrBZAuK6cNgZlh"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18515,
+      "name": "EP6. Nevertheless, awesome",
+      "url": "https://open.spotify.com/track/0g8JEfdfes07OMIKPPXurk"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13667,
+      "name": "EP7. Nevertheless, why can't I ever refuse him",
+      "url": "https://open.spotify.com/track/07S3FEgmNubkAe5svR7nUx"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18405,
+      "name": "EP8. Nevertheless, you must like her a lot",
+      "url": "https://open.spotify.com/track/2hOyOvsuyQXj7wQShu1P0R"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, - Soundbytes from episodes",
+        "url": "https://open.spotify.com/album/3J3waXb7R7tFlIv0KGHwQS"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26242,
+      "name": "EP9. Nevertheless, give me a last goodbye hug",
+      "url": "https://open.spotify.com/track/3HE88QPiZ38vadFSq4D9dS"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/13jOUAJE5tHgidRLrmSpO5"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/4xi27YjXGPBNbrONMJBnfm"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Fall In Love - Instrumental",
+      "url": "https://open.spotify.com/track/6KdheT4dZ7YxWvFGoQ2q6s"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/4KdJekSGPPhAU52BmDZIOY"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/27KzACZPqQ9EcB3NPFDPNj"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Heavy Heart - Instrumental",
+      "url": "https://open.spotify.com/track/2QOC5grYqt8ZFEwzcg7RwU"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "ONG SUNG EUN",
+          "url": "https://open.spotify.com/artist/2NGYSggc1qh9x50GWp0Rv5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122853,
+      "name": "I Know It Isn't Love. Nevertheless,",
+      "url": "https://open.spotify.com/track/1CCfa4h6Eya6HxA0LuhEs3"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Yoon Chae Young",
+          "url": "https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "I Know It's a Lie. Nevertheless,",
+      "url": "https://open.spotify.com/track/44FGyzrwY1cZKrfP9emfr7"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "ONG SUNG EUN",
+          "url": "https://open.spotify.com/artist/2NGYSggc1qh9x50GWp0Rv5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132946,
+      "name": "I Know It's Over. Nevertheless,",
+      "url": "https://open.spotify.com/track/7lzJOYAAjTchEOuhtm8lAp"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "ONG SUNG EUN",
+          "url": "https://open.spotify.com/artist/2NGYSggc1qh9x50GWp0Rv5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93826,
+      "name": "I Know Nothing Will Change. Nevertheless,",
+      "url": "https://open.spotify.com/track/3NGu5qHDPInsA9EdmjWtCU"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "I Know There's No Turning Back. Nevertheless,",
+      "url": "https://open.spotify.com/track/4RVQTWZbem7r8XHUeEkwfA"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148786,
+      "name": "It Has Already Begun. Nevertheless,",
+      "url": "https://open.spotify.com/track/4DyMBoGkrQTIt7cjYnumvP"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "LIM MI HYUN",
+          "url": "https://open.spotify.com/artist/3QkXZgt4386a2iwFcyO11R"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "It's Not Only Me. Nevertheless,",
+      "url": "https://open.spotify.com/track/0dloUneLHKWWHIAIFYhDcm"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/1lhm29o3syw122xynSKaAK"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Love Me Like That - Instrumental",
+      "url": "https://open.spotify.com/track/2Bi7jDHh3IzLt3xJuyx4eU"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love, This",
+      "url": "https://open.spotify.com/track/1FaHB2AIWGiStlMh4jS6QQ"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/2DNfUCOCsKzUBLBD79cU2L"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love, This - Instrumental",
+      "url": "https://open.spotify.com/track/6cnIxIEf69ZwGgZcCmjyKm"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "ONG SUNG EUN",
+          "url": "https://open.spotify.com/artist/2NGYSggc1qh9x50GWp0Rv5"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115600,
+      "name": "Nabi",
+      "url": "https://open.spotify.com/track/7wUl4fiSB8PzC1ecr7QpH9"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Never seen a look like that before",
+      "url": "https://open.spotify.com/track/4GxAr1ORb8FLQmLshO5jgu"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Sound Track, Pt. 2)",
+        "url": "https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Nevertheless",
+      "url": "https://open.spotify.com/track/6fG9JVdUx4Ttks3tDwQMRs"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 10)",
+        "url": "https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Nevertheless",
+      "url": "https://open.spotify.com/track/3GbDnsBtJM8M6ht5laDhmH"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Sound Track, Pt. 2)",
+        "url": "https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212453,
+      "name": "Nevertheless - Instrumental",
+      "url": "https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 10)",
+        "url": "https://open.spotify.com/album/72l5H1zdxBPzC2q5KJgSgB"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Nevertheless - Instrumental",
+      "url": "https://open.spotify.com/track/4vFZTRGFmUF0uCO3QnirOB"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Hyunpill Shin",
+          "url": "https://open.spotify.com/artist/1HmrVRrThBYqUzfHrVaLeQ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Nevertheless, I Still...",
+      "url": "https://open.spotify.com/track/14cdytZUNO8izV7cVSo1yy"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268438,
+      "name": "So Tender - Instrumental",
+      "url": "https://open.spotify.com/track/5FyAoLd523NbvHcfQu1yul"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Choe Jeong In",
+          "url": "https://open.spotify.com/artist/3F6cVxPjYxxinah6vnYOWK"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134813,
+      "name": "There's No Such Thing as Fate. Nevertheless,",
+      "url": "https://open.spotify.com/track/2jy3gijt1HkXowFLwrmtPY"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "There's No Such Thing as Love. Nevertheless,",
+      "url": "https://open.spotify.com/track/0qVoVFnznQVzQbtiEM0W47"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Wanna go see the butterfly?",
+      "url": "https://open.spotify.com/track/37a0ga2eVwrv5i4gWm1L56"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
+        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "We're Already",
+      "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
+        "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
+      },
+      "artists": [
+        {
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "We're Already - Instrumental",
+      "url": "https://open.spotify.com/track/2LE7j7BDHG9iFUuIUfudvo"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170019,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/0Je6T4xgHh5Xuada29lHXy"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Drama Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/0bAlxx4Id0awW4IAZulgj3"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170019,
+      "name": "Whisper - Instrumental",
+      "url": "https://open.spotify.com/track/3fVsrqwCCExLfhr6xm2bSG"
+    },
+    {
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QS84dcpQZOhw0TEa5Bxwf"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "You might like it",
+      "url": "https://open.spotify.com/track/1fsUC04fFSgEABErdLqEGf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZmyMvDnABPu"
 }

@@ -1,435 +1,1485 @@
 {
-  "2022-10-24": 15954,
-  "2022-10-25": 15969,
-  "2022-10-26": 15985,
-  "2022-10-27": 15996,
-  "2022-10-28": 16010,
-  "2022-10-29": 16028,
-  "2022-10-30": 16033,
-  "2022-10-31": 16049,
-  "2022-11-01": 16070,
-  "2022-11-02": 16080,
-  "2022-11-03": 16095,
-  "2022-11-04": 16105,
-  "2022-11-05": 16122,
-  "2022-11-06": 16138,
-  "2022-11-07": 16150,
-  "2022-11-08": 16159,
-  "2022-11-09": 16171,
-  "2022-11-10": 16188,
-  "2022-11-11": 16201,
-  "2022-11-12": 16217,
-  "2022-11-13": 16229,
-  "2022-11-14": 16246,
-  "2022-11-15": 16264,
-  "2022-11-16": 16283,
-  "2022-11-17": 16303,
-  "2022-11-18": 16310,
-  "2022-11-19": 16309,
-  "2022-11-20": 16308,
-  "2022-11-21": 16320,
-  "2022-11-22": 16329,
-  "2022-11-23": 16341,
-  "2022-11-24": 16359,
-  "2022-11-25": 16414,
-  "2022-11-26": 16420,
-  "2022-11-27": 16428,
-  "2022-11-28": 16443,
-  "2022-11-29": 16458,
-  "2022-11-30": 16479,
-  "2022-12-01": 16488,
-  "2022-12-02": 16513,
-  "2022-12-03": 16505,
-  "2022-12-04": 16521,
-  "2022-12-05": 16537,
-  "2022-12-06": 16542,
-  "2022-12-07": 16561,
-  "2022-12-08": 16571,
-  "2022-12-09": 16583,
-  "2022-12-10": 16598,
-  "2022-12-11": 16611,
-  "2022-12-12": 16626,
-  "2022-12-13": 16641,
-  "2022-12-14": 16658,
-  "2022-12-15": 16668,
-  "2022-12-16": 16685,
-  "2022-12-17": 16700,
-  "2022-12-18": 16713,
-  "2022-12-19": 16729,
-  "2022-12-20": 16755,
-  "2022-12-21": 16755,
-  "2022-12-22": 16763,
-  "2022-12-24": 16783,
-  "2022-12-25": 16791,
-  "2022-12-26": 16799,
-  "2022-12-27": 16815,
-  "2022-12-28": 16820,
-  "2022-12-29": 16834,
-  "2022-12-30": 16849,
-  "2022-12-31": 16855,
-  "2023-01-01": 16865,
-  "2023-01-02": 16875,
-  "2023-01-03": 16884,
-  "2023-01-04": 16890,
-  "2023-01-05": 16895,
-  "2023-01-06": 16905,
-  "2023-01-07": 16916,
-  "2023-01-08": 16918,
-  "2023-01-09": 16929,
-  "2023-01-10": 16945,
-  "2023-01-11": 16958,
-  "2023-01-12": 16971,
-  "2023-01-13": 16988,
-  "2023-01-14": 17002,
-  "2023-01-15": 17004,
-  "2023-01-16": 17016,
-  "2023-01-17": 17024,
-  "2023-01-18": 17038,
-  "2023-01-19": 17046,
-  "2023-01-20": 17058,
-  "2023-01-21": 17066,
-  "2023-01-22": 17083,
-  "2023-01-23": 17093,
-  "2023-01-24": 17101,
-  "2023-01-25": 17123,
-  "2023-01-26": 17132,
-  "2023-01-27": 17149,
-  "2023-01-28": 17159,
-  "2023-01-29": 17172,
-  "2023-01-30": 17189,
-  "2023-01-31": 17189,
-  "2023-02-01": 17214,
-  "2023-02-02": 17229,
-  "2023-02-03": 17241,
-  "2023-02-04": 17248,
-  "2023-02-05": 17257,
-  "2023-02-06": 17271,
-  "2023-02-07": 17281,
-  "2023-02-08": 17309,
-  "2023-02-09": 17309,
-  "2023-02-10": 17323,
-  "2023-02-11": 17332,
-  "2023-02-12": 17376,
-  "2023-02-13": 17394,
-  "2023-02-14": 17394,
-  "2023-02-15": 17404,
-  "2023-02-16": 17417,
-  "2023-02-17": 17434,
-  "2023-02-18": 17457,
-  "2023-02-19": 17460,
-  "2023-02-20": 17474,
-  "2023-02-21": 17483,
-  "2023-02-22": 17492,
-  "2023-02-23": 17514,
-  "2023-02-24": 17525,
-  "2023-02-25": 17539,
-  "2023-02-26": 17545,
-  "2023-02-27": 17573,
-  "2023-02-28": 17573,
-  "2023-03-01": 17592,
-  "2023-03-02": 17607,
-  "2023-03-03": 17621,
-  "2023-03-04": 17635,
-  "2023-03-05": 17655,
-  "2023-03-06": 17655,
-  "2023-03-07": 17666,
-  "2023-03-08": 17680,
-  "2023-03-09": 17694,
-  "2023-03-10": 17710,
-  "2023-03-11": 17719,
-  "2023-03-12": 17728,
-  "2023-03-13": 17746,
-  "2023-03-14": 17760,
-  "2023-03-15": 17768,
-  "2023-03-16": 17775,
-  "2023-03-17": 17775,
-  "2023-03-18": 17943,
-  "2023-03-19": 17977,
-  "2023-03-20": 18006,
-  "2023-03-21": 18038,
-  "2023-03-22": 18064,
-  "2023-03-23": 18088,
-  "2023-03-24": 18088,
-  "2023-03-25": 18141,
-  "2023-03-26": 18163,
-  "2023-03-27": 18189,
-  "2023-03-28": 18247,
-  "2023-03-29": 18400,
-  "2023-03-30": 18454,
-  "2023-03-31": 18454,
-  "2023-04-01": 18471,
-  "2023-04-02": 18480,
-  "2023-04-03": 18492,
-  "2023-04-04": 18501,
-  "2023-04-05": 18513,
-  "2023-04-06": 18525,
-  "2023-04-07": 18547,
-  "2023-04-09": 18572,
-  "2023-04-10": 18576,
-  "2023-04-11": 18596,
-  "2023-04-12": 18596,
-  "2023-04-13": 18614,
-  "2023-04-14": 18628,
-  "2023-04-15": 18637,
-  "2023-04-16": 18651,
-  "2023-04-17": 18662,
-  "2023-04-18": 18674,
-  "2023-04-19": 18697,
-  "2023-04-20": 18713,
-  "2023-04-21": 18730,
-  "2023-04-22": 18744,
-  "2023-04-23": 18756,
-  "2023-04-24": 18778,
-  "2023-04-25": 18790,
-  "2023-04-26": 18815,
-  "2023-04-27": 18833,
-  "2023-04-28": 18850,
-  "2023-04-29": 18863,
-  "2023-04-30": 18873,
-  "2023-05-01": 18882,
-  "2023-05-02": 18894,
-  "2023-05-03": 18919,
-  "2023-05-04": 18927,
-  "2023-05-05": 18937,
-  "2023-05-06": 18953,
-  "2023-05-07": 18969,
-  "2023-05-08": 18981,
-  "2023-05-09": 18993,
-  "2023-05-10": 19009,
-  "2023-05-11": 19025,
-  "2023-05-12": 19037,
-  "2023-05-13": 19048,
-  "2023-05-14": 19065,
-  "2023-05-15": 19084,
-  "2023-05-16": 19106,
-  "2023-05-17": 19123,
-  "2023-05-18": 19142,
-  "2023-05-19": 19162,
-  "2023-05-20": 19195,
-  "2023-05-21": 19195,
-  "2023-05-22": 19195,
-  "2023-05-23": 19233,
-  "2023-05-24": 19262,
-  "2023-05-25": 19264,
-  "2023-05-26": 19278,
-  "2023-05-27": 19291,
-  "2023-05-28": 19304,
-  "2023-05-29": 19304,
-  "2023-05-30": 19338,
-  "2023-05-31": 19347,
-  "2023-06-01": 19369,
-  "2023-06-02": 19385,
-  "2023-06-03": 19400,
-  "2023-06-04": 19403,
-  "2023-06-05": 19415,
-  "2023-06-06": 19430,
-  "2023-06-07": 19443,
-  "2023-06-08": 19461,
-  "2023-06-09": 19476,
-  "2023-06-10": 19492,
-  "2023-06-11": 19515,
-  "2023-06-12": 19526,
-  "2023-06-13": 19539,
-  "2023-06-14": 19559,
-  "2023-06-15": 19573,
-  "2023-06-16": 19585,
-  "2023-06-17": 19590,
-  "2023-06-18": 19602,
-  "2023-06-19": 19614,
-  "2023-06-20": 19632,
-  "2023-06-21": 19642,
-  "2023-06-22": 19652,
-  "2023-06-23": 19668,
-  "2023-06-24": 19675,
-  "2023-06-25": 19689,
-  "2023-06-26": 19700,
-  "2023-06-27": 19718,
-  "2023-06-28": 19729,
-  "2023-06-29": 19748,
-  "2023-06-30": 19763,
-  "2023-07-01": 19788,
-  "2023-07-02": 19788,
-  "2023-07-03": 19799,
-  "2023-07-04": 19817,
-  "2023-07-05": 19829,
-  "2023-07-06": 19843,
-  "2023-07-07": 19843,
-  "2023-07-08": 19855,
-  "2023-07-09": 19867,
-  "2023-07-10": 19885,
-  "2023-07-11": 19895,
-  "2023-07-12": 19903,
-  "2023-07-13": 19911,
-  "2023-07-14": 19922,
-  "2023-07-15": 19927,
-  "2023-07-16": 19941,
-  "2023-07-17": 19952,
-  "2023-07-18": 19960,
-  "2023-07-19": 19980,
-  "2023-07-20": 19988,
-  "2023-07-21": 20013,
-  "2023-07-22": 20029,
-  "2023-07-23": 20043,
-  "2023-07-24": 20053,
-  "2023-07-25": 20062,
-  "2023-07-26": 20078,
-  "2023-07-27": 20096,
-  "2023-07-28": 20108,
-  "2023-07-29": 20118,
-  "2023-07-30": 20138,
-  "2023-07-31": 20152,
-  "2023-08-01": 20161,
-  "2023-08-02": 20170,
-  "2023-08-03": 20186,
-  "2023-08-04": 20209,
-  "2023-08-05": 20216,
-  "2023-08-06": 20234,
-  "2023-08-07": 20234,
-  "2023-08-08": 20250,
-  "2023-08-09": 20269,
-  "2023-08-10": 20282,
-  "2023-08-11": 20286,
-  "2023-08-12": 20297,
-  "2023-08-13": 20312,
-  "2023-08-14": 20321,
-  "2023-08-15": 20355,
-  "2023-08-16": 20355,
-  "2023-08-17": 20367,
-  "2023-08-18": 20379,
-  "2023-08-19": 20387,
-  "2023-08-20": 20402,
-  "2023-08-21": 20410,
-  "2023-08-22": 20420,
-  "2023-08-23": 20438,
-  "2023-08-24": 20455,
-  "2023-08-25": 20468,
-  "2023-08-26": 20482,
-  "2023-08-27": 20486,
-  "2023-08-28": 20497,
-  "2023-08-29": 20520,
-  "2023-08-30": 20533,
-  "2023-08-31": 20547,
-  "2023-09-01": 20575,
-  "2023-09-02": 20575,
-  "2023-09-03": 20585,
-  "2023-09-04": 20604,
-  "2023-09-05": 20616,
-  "2023-09-06": 20630,
-  "2023-09-07": 20641,
-  "2023-09-08": 20659,
-  "2023-09-09": 20676,
-  "2023-09-10": 20692,
-  "2023-09-11": 20704,
-  "2023-09-12": 20724,
-  "2023-09-13": 20738,
-  "2023-09-14": 20747,
-  "2023-09-15": 20766,
-  "2023-09-16": 20778,
-  "2023-09-17": 20795,
-  "2023-09-18": 20804,
-  "2023-09-19": 20825,
-  "2023-09-20": 20840,
-  "2023-09-21": 20844,
-  "2023-09-22": 20869,
-  "2023-09-23": 20886,
-  "2023-09-24": 20892,
-  "2023-09-25": 20907,
-  "2023-09-26": 20928,
-  "2023-09-27": 20931,
-  "2023-09-28": 20939,
-  "2023-09-29": 20953,
-  "2023-09-30": 20973,
-  "2023-10-01": 20997,
-  "2023-10-02": 21028,
-  "2023-10-03": 21048,
-  "2023-10-04": 21060,
-  "2023-10-05": 21079,
-  "2023-10-06": 21094,
-  "2023-10-07": 21112,
-  "2023-10-08": 21134,
-  "2023-10-09": 21155,
-  "2023-10-10": 21175,
-  "2023-10-11": 21193,
-  "2023-10-12": 21193,
-  "2023-10-13": 21205,
-  "2023-10-14": 21220,
-  "2023-10-15": 21242,
-  "2023-10-16": 21255,
-  "2023-10-17": 21278,
-  "2023-10-18": 21286,
-  "2023-10-19": 21308,
-  "2023-10-20": 21321,
-  "2023-10-21": 21336,
-  "2023-10-22": 21348,
-  "2023-10-23": 21356,
-  "2023-10-24": 21374,
-  "2023-10-25": 21392,
-  "2023-10-26": 21405,
-  "2023-10-27": 21420,
-  "2023-10-28": 21439,
-  "2023-10-29": 21450,
-  "2023-10-30": 21478,
-  "2023-10-31": 21478,
-  "2023-11-01": 21493,
-  "2023-11-02": 21512,
-  "2023-11-03": 21524,
-  "2023-11-04": 21544,
-  "2023-11-05": 21554,
-  "2023-11-06": 21575,
-  "2023-11-07": 21594,
-  "2023-11-08": 21614,
-  "2023-11-09": 21633,
-  "2023-11-10": 21655,
-  "2023-11-11": 21663,
-  "2023-11-12": 21676,
-  "2023-11-13": 21702,
-  "2023-11-14": 21719,
-  "2023-11-15": 21719,
-  "2023-11-16": 21740,
-  "2023-11-17": 21778,
-  "2023-11-18": 21778,
-  "2023-11-19": 21795,
-  "2023-11-20": 21815,
-  "2023-11-21": 21820,
-  "2023-11-22": 21835,
-  "2023-11-23": 21847,
-  "2023-11-24": 21862,
-  "2023-11-25": 21865,
-  "2023-11-26": 21873,
-  "2023-11-27": 21890,
-  "2023-11-28": 21903,
-  "2023-11-29": 21920,
-  "2023-11-30": 21920,
-  "2023-12-01": 21928,
-  "2023-12-02": 21935,
-  "2023-12-03": 21945,
-  "2023-12-04": 21959,
-  "2023-12-05": 21971,
-  "2023-12-06": 21992,
-  "2023-12-07": 22020,
-  "2023-12-08": 22032,
-  "2023-12-09": 22045,
-  "2023-12-10": 22054,
-  "2023-12-11": 22067,
-  "2023-12-12": 22071,
-  "2023-12-13": 22079,
-  "2023-12-14": 22093,
-  "2023-12-15": 22100,
-  "2023-12-16": 22113,
-  "2023-12-17": 22130,
-  "2023-12-18": 22141,
-  "2023-12-19": 22144,
-  "2023-12-20": 22152,
-  "2023-12-21": 22168,
-  "2023-12-22": 22177,
-  "2023-12-23": 22183,
-  "2023-12-24": 22195,
-  "2023-12-25": 22191,
-  "2023-12-26": 22197,
-  "2023-12-27": 22204,
-  "2023-12-30": 22235,
-  "2023-12-31": 22242,
-  "2024-01-01": 22243,
-  "2024-01-02": 22246,
-  "2024-01-03": 22250
+  "2024-01-17": 22368,
+  "date_first_scraped": "2022-10-24",
+  "description": "\u30c7\u30a3\u30ba\u30cb\u30fc\u306e\u540d\u66f2\u3092\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u3067\u3002",
+  "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+  "tracks": [
+    {
+      "album": {
+        "name": "Disney Baby Sweet Dreams and Lullabies",
+        "url": "https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76013,
+      "name": "A Dream Is a Wish Your Heart Makes - Instrumental",
+      "url": "https://open.spotify.com/track/5CAhCxELUv7vhs6tbypiIw"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234274,
+      "name": "A Dream Is A Wish Your Heart Makes - Orgel Version",
+      "url": "https://open.spotify.com/track/4WS9V5M4j41HLjm1s4fuvH"
+    },
+    {
+      "album": {
+        "name": "Disney Baby Sweet Dreams and Lullabies",
+        "url": "https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93413,
+      "name": "A Spoonful of Sugar - Instrumental",
+      "url": "https://open.spotify.com/track/0oXdn2riVPxRYTl0IYpMSi"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192168,
+      "name": "A Whole New World - Orgel Version",
+      "url": "https://open.spotify.com/track/5esPuHmdkNLdC7ylhQ8M3O"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330761,
+      "name": "Aloha, E Komo Mai - Orgel Version",
+      "url": "https://open.spotify.com/track/28H7toyWCUOOF9WsZWPLh0"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271157,
+      "name": "Beauty and the Beast - Orgel Version",
+      "url": "https://open.spotify.com/track/5UnhdF9SROsjh85qIOyXz2"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283936,
+      "name": "Circle of Life - Orgel Version",
+      "url": "https://open.spotify.com/track/2MDHeapsJV8FBv91SjdoV0"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo DisneySea ~Magical Selection~",
+        "url": "https://open.spotify.com/album/4flnJ5PNA471T2bEkRysCA"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "Fantasmic!",
+      "url": "https://open.spotify.com/track/2mO2eJlMFowFirArNj2j8C"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402965,
+      "name": "For the First Time in Forever - Orgel Version",
+      "url": "https://open.spotify.com/track/1xvXl3qpOFdZhjM1M1PxSb"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137040,
+      "name": "Haunted Mansion",
+      "url": "https://open.spotify.com/track/4UOKUB1mtjw2rLVykxWPLx"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228389,
+      "name": "How Far I'll Go - Orgel Version",
+      "url": "https://open.spotify.com/track/6HdakporMT8TEN1oBpCKl1"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266860,
+      "name": "I See the Light - Orgel Version",
+      "url": "https://open.spotify.com/track/2drSHL6pQTkeE8hGMtUUb9"
+    },
+    {
+      "album": {
+        "name": "Disney Baby Sweet Dreams and Lullabies",
+        "url": "https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78786,
+      "name": "I Will Go Sailing No More - Instrumental",
+      "url": "https://open.spotify.com/track/1h5L8mEkQxGzQTy0EmIfYa"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo DisneySea ~Magical Selection~",
+        "url": "https://open.spotify.com/album/4flnJ5PNA471T2bEkRysCA"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "Indiana Jones Adventure: Temple of the Crystal Skull",
+      "url": "https://open.spotify.com/track/3aMr7oUDvnoBRvBcbN8fer"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236020,
+      "name": "Into the Unknown - Orgel Version",
+      "url": "https://open.spotify.com/track/1yxHVEjw1e9IPoNcWAlJTa"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198115,
+      "name": "It's All Right - Orgel Version",
+      "url": "https://open.spotify.com/track/399BiOYDSdwx9YtcWBXESw"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269707,
+      "name": "Kiss the Girl - Orgel Version",
+      "url": "https://open.spotify.com/track/2DUJt8OVMcHfQRYpu8m7mr"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310435,
+      "name": "Lead the Way - Orgel Version",
+      "url": "https://open.spotify.com/track/0MyLy41rWchFJLUF4d300M"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337140,
+      "name": "Let It Go - Orgel Version",
+      "url": "https://open.spotify.com/track/774FhJGFoxBHlQUk91EbaC"
+    },
+    {
+      "album": {
+        "name": "Disney Sleepytime Lullabies",
+        "url": "https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84241,
+      "name": "Mickey Mouse Club March - Instrumental",
+      "url": "https://open.spotify.com/track/4FVERBLd7dxkovkCmnJh8y"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148666,
+      "name": "Minnie Oh! Minnie",
+      "url": "https://open.spotify.com/track/7uys11UMy6juozRJOhsPsg"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315530,
+      "name": "Monsters, Inc. - Orgel Version",
+      "url": "https://open.spotify.com/track/1xWBBWPiWZa5ytPAa4Yq8P"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159066,
+      "name": "Once Upon a Time",
+      "url": "https://open.spotify.com/track/0QC5qQcSryrozrzHDMuLR7"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177640,
+      "name": "One Man's Dream II - The Magic Lives On",
+      "url": "https://open.spotify.com/track/1VwQkAR4DMio80cHffgAlX"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332062,
+      "name": "Part of Your World - Orgel Version",
+      "url": "https://open.spotify.com/track/3ucSiDRG2cS6jodTf9O3vr"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200836,
+      "name": "Reflection - Orgel Version",
+      "url": "https://open.spotify.com/track/0XR6qMchbO3bnSfBVS07Er"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81268,
+      "name": "Remember Me - Orgel Version",
+      "url": "https://open.spotify.com/track/1JJa4uEGkDCDsmy0THLOva"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332483,
+      "name": "Show Yourself - Orgel Version",
+      "url": "https://open.spotify.com/track/6YZB0Pd0N8beGanNHGT4nH"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo DisneySea ~Magical Selection~",
+        "url": "https://open.spotify.com/album/4flnJ5PNA471T2bEkRysCA"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281106,
+      "name": "Sindbad's Storybook Voyage",
+      "url": "https://open.spotify.com/track/2zPcv3TOR9Pv7teSBt22MZ"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219568,
+      "name": "So Close - Orgel Version",
+      "url": "https://open.spotify.com/track/2CTHKVzrdR0WtLXo17zkbO"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256611,
+      "name": "Speechless - Orgel Version",
+      "url": "https://open.spotify.com/track/0I893FdRRnk2OMi2Fu7vSX"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Star Tours: The Adventure Continue",
+      "url": "https://open.spotify.com/track/6olbMv0MDZQ8Hth7ziLamj"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo DisneySea ~Magical Selection~",
+        "url": "https://open.spotify.com/album/4flnJ5PNA471T2bEkRysCA"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Thanks to You (Tokyo DisneySea)",
+      "url": "https://open.spotify.com/track/6rR9YZWdJMgvC6RvhBqgHF"
+    },
+    {
+      "album": {
+        "name": "Disney Sleepytime Lullabies",
+        "url": "https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91974,
+      "name": "The Bare Necessities - Instrumental",
+      "url": "https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo Disneyland ~Magical Selection~",
+        "url": "https://open.spotify.com/album/2GSCy5JxnDfdSQNg4cYK5Q"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156893,
+      "name": "Tokyo Disneyland Is Your Land",
+      "url": "https://open.spotify.com/track/23FNFY7JlWjerrZOcj4Z4u"
+    },
+    {
+      "album": {
+        "name": "Organette Tokyo DisneySea ~Magical Selection~",
+        "url": "https://open.spotify.com/album/4flnJ5PNA471T2bEkRysCA"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Ishikawa",
+          "url": "https://open.spotify.com/artist/6ohiXhPIKO3Oe2bBT4jkoe"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Tokyo DisneySea Theme Song",
+      "url": "https://open.spotify.com/track/6GkbFuaMAXEcvNlByefEQq"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278974,
+      "name": "Try Everything - Orgel Version",
+      "url": "https://open.spotify.com/track/6QhNFSQqKKyWRjJEuxVEcL"
+    },
+    {
+      "album": {
+        "name": "Chillin' with Disney UniBEARsity Music Album",
+        "url": "https://open.spotify.com/album/0oAI76O9q0LS1xRezh8S57"
+      },
+      "artists": [
+        {
+          "name": "Shinquo Ogura",
+          "url": "https://open.spotify.com/artist/4RjnndKUTovw9PVx7k1hOa"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201977,
+      "name": "Welcome to UniBEARsity - Orgel Version",
+      "url": "https://open.spotify.com/track/7yJThx3xzERQ1vlVnZmBkB"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202169,
+      "name": "When You Wish Upon a Star - Orgel Version",
+      "url": "https://open.spotify.com/track/5pK6LPTYNiXucbHNNGd52u"
+    },
+    {
+      "album": {
+        "name": "Disney Baby Sweet Dreams and Lullabies",
+        "url": "https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90026,
+      "name": "You'll Be In My Heart - Instrumental",
+      "url": "https://open.spotify.com/track/62kKo1gIWTfZEyAks2NV7F"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM",
+        "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202606,
+      "name": "You've Got a Friend in Me - Orgel Version",
+      "url": "https://open.spotify.com/track/64h4r1FEowx8imhlTP9AVy"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "\u3044\u3064\u304b\u5922\u3067 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2C67a94d9ag1SChvfXag1a"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "\u3044\u3064\u304b\u738b\u5b50\u69d8\u304c\uff08\u767d\u96ea\u59eb\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5zAr7J5dTyTFi0pGvHkTSX"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "\u304f\u307e\u306e\u30d7\u30fc\u3055\u3093\uff08\u304f\u307e\u306e\u30d7\u30fc\u3055\u3093\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2MsVk8scVrkwjD02cTwV5y"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146186,
+      "name": "\u3068\u3073\u3089\u958b\u3051\u3066\uff08\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3Hq63AJ4IpGlMUAmHh3PWG"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "\u3075\u3057\u304e\u306e\u56fd\u306e\u30a2\u30ea\u30b9 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/53jpklCKsFPEvB4FXNl0F9"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149133,
+      "name": "\u307f\u3093\u306a\u30cd\u30b3\u306b\u306a\u308a\u305f\u3044\u306e\u3055 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4666TauDl78nI61T31olzt"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "\u30a2\u30f3\u30c0\u30fc\u30fb\u30b6\u30fb\u30b7\u30fc\uff08\u30ea\u30c8\u30eb\u30fb\u30de\u30fc\u30e1\u30a4\u30c9\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1njptavXCCHeMKSYAYxLVJ"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "\u30ab\u30e9\u30fc\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30a6\u30a3\u30f3\u30c9 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6KP2lKPs3Yy0S3PefFoFgA"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Fumio Yasuda",
+          "url": "https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "\u30b4\u30fc\u30fb\u30b6\u30fb\u30c7\u30a3\u30b9\u30bf\u30f3\u30b9\uff08\u30d8\u30e9\u30af\u30ec\u30b9\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0PA0qtffYjk4npwr3sdnVL"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30ab\u30ea\u30d5\u30e9\u30b8\u30ea\u30b9\u30c6\u30a3\u30c3\u30af\u30a8\u30af\u30b9\u30d4\u30a2\u30ea\u30c9\u30fc\u30b7\u30e3\u30b9\uff08\u30e1\u30ea\u30fc\u30fb\u30dd\u30d4\u30f3\u30ba\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2ZKNCoTbrOrW0BNcTTqdqU"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "Fumio Yasuda",
+          "url": "https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "\u30bc\u30ed\u30fb\u30c8\u30a5\u30fb\u30d2\u30fc\u30ed\u30fc - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3XTRnECXcszj8vvKk28X57"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "\u30c0\u30eb\u30e1\u30b7\u30a2\u30f3\u30fb\u30d7\u30e9\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/66AKXVFJOrEWeXb38YXgpo"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "\u30c1\u30e0\u30fb\u30c1\u30e0\u30fb\u30c1\u30a7\u30ea\u30fc\uff08\u30e1\u30ea\u30fc\u30fb\u30dd\u30d4\u30f3\u30ba\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/37Qk2z2TKtag2qmo9Kq7QK"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30a4\u30f3\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3DuKxQUEXerabDeAhxHXLl"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Akeboshi",
+          "url": "https://open.spotify.com/artist/6Sq7fK1xHvYHbxVsPTkk30"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344146,
+      "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30d2\u30c3\u30c8\uff5e\u30e1\u30c9\u30ec\u30fc",
+      "url": "https://open.spotify.com/track/7AX3KelEMJrPMTwiWaRwHS"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30a4\u30f3\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3DuKxQUEXerabDeAhxHXLl"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Akeboshi",
+          "url": "https://open.spotify.com/artist/6Sq7fK1xHvYHbxVsPTkk30"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324213,
+      "name": "\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\u30fb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\uff5e\u30e1\u30c9\u30ec\u30fc - \u300e\u30cf\u30a4\u30b9\u30af\u30fc\u30eb\u30fb\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300f\u3088\u308a",
+      "url": "https://open.spotify.com/track/5kiXcl52snhMSFLZgz2bZf"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "\u30cf\u30a4\u30fb\u30db\u30fc\uff08\u767d\u96ea\u59eb\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1LReMZTiw4pFYgVhYBppWh"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30a4\u30f3\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3DuKxQUEXerabDeAhxHXLl"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Akeboshi",
+          "url": "https://open.spotify.com/artist/6Sq7fK1xHvYHbxVsPTkk30"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343093,
+      "name": "\u30cf\u30f3\u30ca\u30fb\u30e2\u30f3\u30bf\u30ca\uff5e\u30e1\u30c9\u30ec\u30fc - \u300e\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30fb\u30a2\u30a4\u30c9\u30eb \u30cf\u30f3\u30ca\u30fb\u30e2\u30f3\u30bf\u30ca\u300f\u3088\u308a",
+      "url": "https://open.spotify.com/track/2JRf0nuf5DyJimCfhDQtcP"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30a4\u30f3\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3DuKxQUEXerabDeAhxHXLl"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Akeboshi",
+          "url": "https://open.spotify.com/artist/6Sq7fK1xHvYHbxVsPTkk30"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320746,
+      "name": "\u30d1\u30a4\u30ec\u30fc\u30c4\u30fb\u30aa\u30d6\u30fb\u30ab\u30ea\u30d3\u30a2\u30f3\uff5e\u30e1\u30c9\u30ec\u30fc - \u300e\u30d1\u30a4\u30ec\u30fc\u30c4\u30fb\u30aa\u30d6\u30fb\u30ab\u30ea\u30d3\u30a2\u30f3\u300f\u3088\u308a",
+      "url": "https://open.spotify.com/track/3HeKDuuMUfPOeta3Eq8Aqd"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "\u30d1\u30fc\u30c8\u30fb\u30aa\u30d6\u30fb\u30e6\u30a2\u30fb\u30ef\u30fc\u30eb\u30c9 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3K6YGAwGp2JF4xklceOv3X"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219933,
+      "name": "\u30d3\u30d3\u30c7\u30a3\u30fb\u30d0\u30d3\u30c7\u30a3\u30fb\u30d6\u30fc\uff08\u30b7\u30f3\u30c7\u30ec\u30e9\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1fssmjeeUr6no4B2r8aEiV"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "\u30d9\u30e9\u30fb\u30ce\u30c3\u30c6 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5JBEaLlUW6gpjhuU7J4dtU"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "\u30db\u30fc\u30eb\u30fb\u30cb\u30e5\u30fc\u30fb\u30ef\u30fc\u30eb\u30c9 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4JZAMvEbu3lHxYjUdishTF"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "\u30df\u30c3\u30ad\u30fc\u30de\u30a6\u30b9\u30fb\u30de\u30fc\u30c1\uff08\u30df\u30c3\u30ad\u30fc\u30de\u30a6\u30b9\u30fb\u30af\u30e9\u30d6\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3kqMYvMGchUjAwjzlhu2fj"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30a4\u30f3\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3DuKxQUEXerabDeAhxHXLl"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428200,
+      "name": "\u30e1\u30a4\u30f3\u30b9\u30c8\u30ea\u30fc\u30c8\u30fb\u30a8\u30ec\u30af\u30c8\u30ea\u30ab\u30eb\u30d1\u30ec\u30fc\u30c9\uff5e\u30e1\u30c9\u30ec\u30fc - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4O9Cwqw7ZsX9q3tEgBhlyM"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "\u30e9\u30e9\u30eb\u30fc - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/7rYiXEfvKHSlrnuiHGVMM2"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229440,
+      "name": "\u30ec\u30c3\u30c8\u30fb\u30a4\u30c3\u30c8\u30fb\u30b4\u30fc\uff08\u30a2\u30ca\u3068\u96ea\u306e\u5973\u738b\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1sBcZ0McldYltCAvvMpD4h"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110746,
+      "name": "\u53e3\u7b1b\u3075\u3044\u3066\u50cd\u3053\u3046 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6D76ct5dzffBPxj5XeDySv"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "\u5922\u307e\u3067 \u3042\u3068\u3059\u3053\u3057\uff08\u30d7\u30ea\u30f3\u30bb\u30b9\u3068\u9b54\u6cd5\u306e\u30ad\u30b9\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2tqBZNXk9IMw9RsIwguzjP"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "\u5c0f\u3055\u306a\u4e16\u754c\uff08\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u30fb\u30ef\u30fc\u30eb\u30c9\u30d5\u30a7\u30a2\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/17SS98PuuQUytK7cJzNC44"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "Fumio Yasuda",
+          "url": "https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "\u604b\u3057\u3066\u308b\u306a\u3093\u3066\u8a00\u3048\u306a\u3044\uff08\u30d8\u30e9\u30af\u30ec\u30b9\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2qOfErgrx5ZT56l18rXine"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109266,
+      "name": "\u611b\u306e\u3046\u305f\u3054\u3048 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/44wuDbkeS9089ncJOoH871"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u611b\u3092\u611f\u3058\u3066\uff08\u30e9\u30a4\u30aa\u30f3\u30fb\u30ad\u30f3\u30b0\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3FeNKn18lwBFYTjdBrjEuV"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc \u30d9\u30d3\u30fc\u3000\u30aa\u30eb\u30b4\u30fc\u30eb\u7de8\u3000\uff5e\u6ce3\u3044\u3066\u305f\u8d64\u3061\u3083\u3093\u3001\u3082\u3046\u7b11\u3063\u305f\uff5e",
+        "url": "https://open.spotify.com/album/5xcjtsc4BQ8W4tRpgvE2jP"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "\u661f\u306b\u9858\u3044\u3092\uff08\u30d4\u30ce\u30ad\u30aa\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3DCVkVF3onhD1YAo1lnHeI"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "\u6c34\u8fba\u306e\u308d\u3046\u305d\u304f - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1EZYdKDNjMxWI9BPOt9FgI"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "\u72fc\u306a\u3093\u304b\u3053\u308f\u304f\u306a\u3044 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4dFmnLuDXPGUU6YDt2YsAd"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3068\u3046\u306a\u304a\u3053",
+          "url": "https://open.spotify.com/artist/7gVttUC7PfaiogGYNISpVv"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "\u738b\u69d8\u306b\u306a\u308b\u306e\u304c\u5f85\u3061\u304d\u308c\u306a\u3044 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4HBZPb3i4ZuDuKP0QTIRUB"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143666,
+      "name": "\u79c1\u306e\u8d64\u3061\u3083\u3093 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1GWbvDCQziO4LuU0OPLkLF"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1",
+        "url": "https://open.spotify.com/album/1vZ4ZBFne0NpK4HYqVfLEN"
+      },
+      "artists": [
+        {
+          "name": "Mutsuhiro Nishiwaki",
+          "url": "https://open.spotify.com/artist/6VXybgtBrSrcf4GMyxNOjy"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "\u7f8e\u5973\u3068\u91ce\u7363 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/08VWfGUefW7nW2pDXGAzFB"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "\u81ea\u7531\u3078\u306e\u6249\uff08\u5854\u306e\u4e0a\u306e\u30e9\u30d7\u30f3\u30c4\u30a7\u30eb\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2Ru542IjQWz3LiaJDfPGFx"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30ea\u30e9\u30af\u30b7\u30f3\u30b0\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb [\u30d2\u30ed\u30a4\u30f3\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3]",
+        "url": "https://open.spotify.com/album/6sIEi9dccFDEDnvDlJgsp2"
+      },
+      "artists": [
+        {
+          "name": "\u517c\u677e \u8846",
+          "url": "https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253880,
+      "name": "\u8f1d\u304f\u672a\u6765\uff08\u5854\u306e\u4e0a\u306e\u30e9\u30d7\u30f3\u30c4\u30a7\u30eb\uff09 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0YeayrApS0FOFEnLVurwTD"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30fb\u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/5nQLxNe5usuKdKx5VtEXAB"
+      },
+      "artists": [
+        {
+          "name": "Fumio Yasuda",
+          "url": "https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "\u9b45\u60d1\u306e\u30c1\u30ad\u30eb\u30fc\u30e0 - \u30aa\u30eb\u30b4\u30fc\u30eb\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2uCPCMO3rddu83Rtt92MhP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUcClkEWm327"
 }

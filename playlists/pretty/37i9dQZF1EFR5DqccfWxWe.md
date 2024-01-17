@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 152 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 152 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dance Again \(feat\. Pitbull\)](https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again...The Hits](https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh) | 3:57 |
+| 1 | [Dance Again](https://open.spotify.com/track/52MWsX3Y21UIGceR1p7Xq2) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Dance Again \(Official Video\)](https://open.spotify.com/album/7j7PqAoSg0SvmixPXu7LNE) | 4:26 |
 | 2 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
-| 3 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
+| 3 | [Cambio de Piel](https://open.spotify.com/track/1CYO6kpkJqM19qNJsvRiDT) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Cambio de Piel](https://open.spotify.com/album/3eNuNUPSu6l5d6zY2rSAVE) | 5:01 |
 | 4 | [Ahora Que Te Vas](https://open.spotify.com/track/2JudZIMCL679okVHGfsnr2) | [Christian Daniel](https://open.spotify.com/artist/2fC8dVxeS2bsfIDvFj1M4V) | [Renacer](https://open.spotify.com/album/3EC4TPSoGMNy78U7re5qlF) | 3:48 |
 | 5 | [Lento](https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:36 |
 | 6 | [Si hubieras querido](https://open.spotify.com/track/3SnQbMhX8Now5s5F2ul9oC) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:41 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 35 | [Dime Que Me Esperas](https://open.spotify.com/track/3fwT5kqPyhpQQwNfb6hVzd) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Senti2](https://open.spotify.com/album/6aO5DFSqg8QuY2oVsoOsmG) | 3:49 |
 | 36 | [It's OK](https://open.spotify.com/track/1mOiejXxgYA9ep3z61SN7Z) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [\#ELDISCO](https://open.spotify.com/album/3RSownGSkhJPRmzLddzsUd) | 3:32 |
 | 37 | [Toma De Mí](https://open.spotify.com/track/6eoJG3PqstEA7nj1bYncBd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/7vAvh5KAMBz324wybwqxYG) | 4:29 |
-| 38 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
-| 39 | [Besos en la Frente](https://open.spotify.com/track/6vZUBvdWC0o9t21mt0q5vZ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:52 |
+| 38 | [Besos en la Frente](https://open.spotify.com/track/6DwXE7cRtkXI9msd8YoLvy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Besos en la Frente \(Official Video\)](https://open.spotify.com/album/2PTeXJpYfnyMf9cRrxosJz) | 3:52 |
+| 39 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 |
 | 40 | [Adiós](https://open.spotify.com/track/14yDEDFChnnZlxTqNumQim) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:29 |
 | 41 | [Hoy](https://open.spotify.com/track/7Lr4gFCiSMCyESWoGxjW6W) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:17 |
 | 42 | [Vuelve](https://open.spotify.com/track/0zXLBRxbUwg9vCo0nGc1JO) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:51 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 66 | [El Último Tango](https://open.spotify.com/track/0s9r2e3sxNETMDZYrkIvzR) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [El Último Tango](https://open.spotify.com/album/5VCIQWVghqtSmsjv9lc5WB) | 3:14 |
 | 67 | [Tu](https://open.spotify.com/track/0i7OAQ584l2Gmp29a7Mj0z) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:09 |
 | 68 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
-| 69 | [Mariposas](https://open.spotify.com/track/6raThMtY1Y6jkk8lS6bALB) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:21 |
-| 70 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
-| 71 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 69 | [Vueltas en Tu Mente](https://open.spotify.com/track/1O21qdm5tVS3j7fM4DCTys) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:55 |
+| 70 | [Mariposas](https://open.spotify.com/track/6raThMtY1Y6jkk8lS6bALB) | [Daniela Brooker](https://open.spotify.com/artist/4s6Xb7H01zAKW5xMMEIB0z) | [Nostalgia](https://open.spotify.com/album/2ogTJOxRHovXjSpqwq12fY) | 3:21 |
+| 71 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
 | 72 | [Amor en Stereo](https://open.spotify.com/track/3WYqZJn6mZP0ACZl2wbpZV) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 2:54 |
 | 73 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
 | 74 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 135 | [Cartagena \- Live From San Cristobal Castle, Puerto Rico/2011](https://open.spotify.com/track/0FuwAJ38C726vXqkDYvcIu) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Encanto Del Caribe Arthur Hanlon & Friends \(Live From San Cristobal Castle, Puerto Rico/2011\)](https://open.spotify.com/album/6N4p9bLZ6AB0Kilc9jZLHk) | 4:07 |
 | 136 | [Baila Baila](https://open.spotify.com/track/1ZYzJ6gpIaTY7SGlXXg3dS) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:13 |
 | 137 | [It's Never Too Late](https://open.spotify.com/track/6kK3nZHrrGG7ONIv3W8umV) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
-| 138 | [Rhumboso](https://open.spotify.com/track/6u2ojrUkmkC7pEqhuKXePj) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Dances, Prayers, & Meditations For Peace](https://open.spotify.com/album/1r2pRDvGEXjXZhon1DnStO) | 4:54 |
-| 139 | [Gypsysoul](https://open.spotify.com/track/3aY8pQdQ0x5637cKL0STwk) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 2:56 |
+| 138 | [Gypsysoul](https://open.spotify.com/track/3aY8pQdQ0x5637cKL0STwk) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 2:56 |
+| 139 | [Rhumboso](https://open.spotify.com/track/6u2ojrUkmkC7pEqhuKXePj) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Dances, Prayers, & Meditations For Peace](https://open.spotify.com/album/1r2pRDvGEXjXZhon1DnStO) | 4:54 |
 | 140 | [Together Through Whatever](https://open.spotify.com/track/04IPBLnwaIfv7cEypH04x0) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:23 |
 | 141 | [Soulmate](https://open.spotify.com/track/4Y4k5kHmpTGaQXqiYweFtX) | [Iris Muller](https://open.spotify.com/artist/2FO8PJ69yGqjHBKPIWZk5i) | [Soulmade](https://open.spotify.com/album/5ZYfNAhJlGL4PZhsxmgPxg) | 3:50 |
 | 142 | [Somos Lo Mismo](https://open.spotify.com/track/1XMJai6NzJYUrVTGoWR1bH) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:11 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 151 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDA1YjA5NWU1ODhhNDQ2NmEwMmU3ZGI0ZmVhMzYyZTY1Yw==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDA4YzQ4MDMzOTExNzkyYjA3MTRhOTFlNDNkY2UwYzY5Zg==`

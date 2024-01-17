@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Hill Country Love",
+        "url": "https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184252,
+      "name": "Hill Country Love",
+      "url": "https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L"
+    },
+    {
+      "album": {
         "name": "Hits Like Lightning",
         "url": "https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45"
       },

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Wendy York Stand",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: jizue",
   "name": "Modern Jazz Japan",
   "tracks": [
+    {
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
+    },
     {
       "album": {
         "name": "24/7",
@@ -606,7 +624,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 296520,
       "name": "Bon",
       "url": "https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 226666,
       "name": "Clarice",
       "url": "https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 311935,
       "name": "HARU",
       "url": "https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz"
@@ -1594,6 +1612,42 @@
       "duration_ms": 274233,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2"
+    },
+    {
+      "album": {
+        "name": "Hilarious",
+        "url": "https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 243882,
+      "name": "Hilarious",
+      "url": "https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4"
+    },
+    {
+      "album": {
+        "name": "Hilarious",
+        "url": "https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243882,
+      "name": "Hilarious",
+      "url": "https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp"
     },
     {
       "album": {
@@ -2115,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Momentary Moment",
+        "url": "https://open.spotify.com/album/6WDajxi9F39Lyo4MwcEaqX"
+      },
+      "artists": [
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286907,
+      "name": "Momentary Moment",
+      "url": "https://open.spotify.com/track/2yGOXnM6w60GJL6hWcxBxX"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -2546,7 +2618,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 217332,
       "name": "ranki",
       "url": "https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l"
@@ -3362,7 +3434,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 285770,
       "name": "T.H.E. - Instrumental",
       "url": "https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik"
@@ -4623,6 +4695,36 @@
     },
     {
       "album": {
+        "name": "\u61d0\u304b\u3057\u304d\u65e5\u3005 (Dear Memories) \uff5e SONG FOR KEN-SAN",
+        "url": "https://open.spotify.com/album/0PPBVzijMpFm2T78PqrtK7"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u85e4\u5141\u5f66",
+          "url": "https://open.spotify.com/artist/3bwiUTynrQmanFXBFFqNbF"
+        },
+        {
+          "name": "\u985e\u5bb6\u5fc3\u5e73",
+          "url": "https://open.spotify.com/artist/2jflfJoKsw26yXhJDp2p4L"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u5742\u4e95\u7d05\u4ecb",
+          "url": "https://open.spotify.com/artist/6pBzDUB3nApIQ3aMVCm0QP"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532666,
+      "name": "\u61d0\u304b\u3057\u304d\u65e5\u3005 (Dear Memories)",
+      "url": "https://open.spotify.com/track/3svIR9AT7XEHjOuwi7fPfI"
+    },
+    {
+      "album": {
         "name": "MISIA SOUL JAZZ SESSION",
         "url": "https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd"
       },
@@ -4800,6 +4902,24 @@
       "duration_ms": 220000,
       "name": "\u9244\u8155\u30a2\u30c8\u30e0",
       "url": "https://open.spotify.com/track/6UmcIu2s1V8oPc19WMTDX6"
+    },
+    {
+      "album": {
+        "name": "\u98db\u3070\u3057\u305f\u3063\u3057\u3087",
+        "url": "https://open.spotify.com/album/4sQ5KG0INydjjFA04l6aJx"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u98db\u3070\u3057\u305f\u3063\u3057\u3087",
+      "url": "https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE"

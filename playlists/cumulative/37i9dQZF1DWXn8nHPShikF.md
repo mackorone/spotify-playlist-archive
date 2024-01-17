@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Tell Me That You Love Me\. \(사랑한다고 말해줘 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-18 songs - 1 hr 11 min
+22 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,12 @@
 | [Eternal Sunshine](https://open.spotify.com/track/7JZJDEaq7KKPAhwrX5r9Ag) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [sleepless in \_\_\_\_\_\_\_\_\_\_](https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl) | 3:25 | 2023-12-19 |  |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2023-12-19 |  |
 | [Heaven](https://open.spotify.com/track/7KW9gzcasU9csIItKSrcNj) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 3:54 | 2023-12-19 |  |
+| [Island](https://open.spotify.com/track/3qoN7UqwxpfDLiFjmFQTDx) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Tell Me That You Love Me, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/5LZhVXGgRCaygG8QXqoRLd) | 3:46 | 2024-01-05 |  |
+| [Island \- Instrumental](https://open.spotify.com/track/7FAXFYqgeBa1rYEtjFI6jK) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Tell Me That You Love Me, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/5LZhVXGgRCaygG8QXqoRLd) | 3:46 | 2024-01-05 |  |
 | [Just because it’s yours](https://open.spotify.com/track/5AxP3BVFxHzmSS1gvEqWym) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Tell Me That You Love Me, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK) | 3:45 | 2023-12-19 |  |
 | [Just because it’s yours \- Instrumental](https://open.spotify.com/track/7h2h0w9HIPPN08HykalsJT) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Tell Me That You Love Me, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK) | 3:45 | 2023-12-19 |  |
+| [Silent Ode to You](https://open.spotify.com/track/69XM1o5AFSw1HKM3QnmxfD) | [Seo YoungJu of Nerd Connection](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [Tell Me That You Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/2MD7FKf7rliCqIvByheoBl) | 4:15 | 2024-01-05 |  |
+| [Silent Ode to You \- Instrumental](https://open.spotify.com/track/0qbMykLd8HA85tZqzfQNdx) | [Seo YoungJu of Nerd Connection](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [Tell Me That You Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/2MD7FKf7rliCqIvByheoBl) | 4:15 | 2024-01-05 |  |
 | [Sound of your heart](https://open.spotify.com/track/3aC5bdpXLshTQQb7IiCuIR) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Tell Me That You Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX) | 4:11 | 2023-12-19 |  |
 | [Sound of your heart \- Instrumental](https://open.spotify.com/track/6JjcVTdWhrQlTkDocb0hYR) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Tell Me That You Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX) | 4:11 | 2023-12-19 |  |
 | [Superstar](https://open.spotify.com/track/5cepRiM6K1yfrZ7zbfWisU) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Soulful](https://open.spotify.com/album/47bXgGhWuf860hvtAHX1Vr) | 4:13 | 2023-12-19 |  |

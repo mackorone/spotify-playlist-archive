@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YPBv1bwOB5.md) - [plain]
 
 > Own your power\. Listen to the music from and inspired by Rustin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811 likes - 45 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 45 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

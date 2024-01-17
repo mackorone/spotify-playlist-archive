@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ0D9Pii8ub.md) - [plain]
 
 > Spotifyオリジナル企画「Liner Voice+\(ライナーボイスプラス\)」。Awich ニューアルバム『THE UNION』をAwich本人が全曲ディープに解説！インタビュアー：渡辺志保
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020 likes - 26 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052 likes - 26 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

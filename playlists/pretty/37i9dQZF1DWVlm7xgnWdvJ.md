@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,829 likes - 107 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,868 likes - 107 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 77 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 78 | [Acuerdate \- Original Mix](https://open.spotify.com/track/3zRjdbOQvH2f40hk81ppns) | [Juanito](https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko) | [Acuerdate](https://open.spotify.com/album/088zTj7jac6UDKDz37hinS) | 6:57 |
 | 79 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 |
-| 80 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 |
+| 80 | [Point Of No Return](https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ) | 4:43 |
 | 81 | [Trainmann \- Tensnake Franceman Mix](https://open.spotify.com/track/0HpHGti6doPOUBz66MAduf) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Trainmann \(Tensnake Remixes\)](https://open.spotify.com/album/5AVC3IUtdRi3sYyD3pft2f) | 7:36 |
 | 82 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
 | 83 | [Underwater \- Extended Mix](https://open.spotify.com/track/1AleARZA9JX0Makndi4eaB) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Best of 2022 \(Extended Mixes\)](https://open.spotify.com/album/3wqkCxTHSJXPSxqwiUesC5) | 6:51 |

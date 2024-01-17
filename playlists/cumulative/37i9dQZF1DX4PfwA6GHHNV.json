@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194400,
       "name": "AluSina",
       "url": "https://open.spotify.com/track/1C7fLnGDAGlJZhCwSNbeKS"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 127000,
       "name": "Amor que vem e vai",
       "url": "https://open.spotify.com/track/2kloAyMQNjdswvFFMKNYAR"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 131320,
       "name": "Enquanto o tempo passa",
       "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 180000,
       "name": "Glacial",
       "url": "https://open.spotify.com/track/3Wkl0N6952UrqUaM3T5aym"
@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194862,
+      "name": "Luar",
+      "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -1072,6 +1094,32 @@
       "duration_ms": 149351,
       "name": "Me Deixa",
       "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+    },
+    {
+      "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
+      },
+      "artists": [
+        {
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
+        },
+        {
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "album": {
@@ -1285,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "Fatoss\u00edntese",
+        "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Oliveira",
+          "url": "https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs"
+        },
+        {
+          "name": "Jovem Ralph",
+          "url": "https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "N\u00e3o Me Ligue Mais",
+      "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -1330,7 +1400,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "O Que Ela Tem?",
       "url": "https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja"
@@ -1466,7 +1536,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 119874,
       "name": "PEGADA DE CRIA",
       "url": "https://open.spotify.com/track/1W5wFjPqDDKv8tSLHQ2VPt"
@@ -1708,7 +1778,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 125000,
       "name": "Quando C\u00ea Volta?",
       "url": "https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z"
@@ -1870,7 +1940,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 214545,
       "name": "Sabe Que \u00c9 Gostosa",
       "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
@@ -2008,7 +2078,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 154666,
       "name": "S\u00f3 Me Usa",
       "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
@@ -2060,6 +2130,32 @@
       "duration_ms": 220000,
       "name": "S\u00f3 Olha - Ao Vivo",
       "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
+      },
+      "artists": [
+        {
+          "name": "Lifee",
+          "url": "https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Gabriel Mar\u00e9",
+          "url": "https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
     },
     {
       "album": {
@@ -2160,6 +2256,28 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 166438,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
     },
     {
       "album": {

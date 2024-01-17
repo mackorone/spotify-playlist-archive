@@ -5934,6 +5934,32 @@
     {
       "album": {
         "name": "Stride",
+        "url": "https://open.spotify.com/album/0O6aXFgmvoU9Ute7Ui5m8v"
+      },
+      "artists": [
+        {
+          "name": "Danny Grissett",
+          "url": "https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ"
+        },
+        {
+          "name": "Vicente Archer",
+          "url": "https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396520,
+      "name": "Two Sleepy People",
+      "url": "https://open.spotify.com/track/7otQlbcqXVYIIYQKO3o2Ga"
+    },
+    {
+      "album": {
+        "name": "Stride",
         "url": "https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg"
       },
       "artists": [
@@ -5952,7 +5978,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 396520,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX"

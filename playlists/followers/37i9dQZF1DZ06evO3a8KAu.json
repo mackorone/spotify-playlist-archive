@@ -1,577 +1,1491 @@
 {
-  "2022-06-02": 33680,
-  "2022-06-03": 33704,
-  "2022-06-04": 33731,
-  "2022-06-05": 33758,
-  "2022-06-06": 33765,
-  "2022-06-07": 33775,
-  "2022-06-08": 33801,
-  "2022-06-09": 33818,
-  "2022-06-10": 33829,
-  "2022-06-11": 33858,
-  "2022-06-12": 33877,
-  "2022-06-13": 33900,
-  "2022-06-14": 33933,
-  "2022-06-15": 33956,
-  "2022-06-16": 33989,
-  "2022-06-17": 34028,
-  "2022-06-18": 34067,
-  "2022-06-19": 34132,
-  "2022-06-20": 34132,
-  "2022-06-21": 34148,
-  "2022-06-22": 34200,
-  "2022-06-23": 34200,
-  "2022-06-24": 34237,
-  "2022-06-25": 34261,
-  "2022-06-26": 34281,
-  "2022-06-27": 34303,
-  "2022-06-28": 34325,
-  "2022-06-29": 34332,
-  "2022-06-30": 34351,
-  "2022-07-01": 34383,
-  "2022-07-02": 34402,
-  "2022-07-03": 34428,
-  "2022-07-04": 34455,
-  "2022-07-05": 34455,
-  "2022-07-06": 34455,
-  "2022-07-07": 34535,
-  "2022-07-08": 34554,
-  "2022-07-09": 34580,
-  "2022-07-10": 34609,
-  "2022-07-11": 34626,
-  "2022-07-12": 34648,
-  "2022-07-13": 34671,
-  "2022-07-14": 34690,
-  "2022-07-15": 34713,
-  "2022-07-16": 34736,
-  "2022-07-17": 34762,
-  "2022-07-18": 34788,
-  "2022-07-19": 34810,
-  "2022-07-20": 34831,
-  "2022-07-21": 34858,
-  "2022-07-22": 34886,
-  "2022-07-23": 34907,
-  "2022-07-24": 34931,
-  "2022-07-25": 34941,
-  "2022-07-26": 34961,
-  "2022-07-27": 35005,
-  "2022-07-28": 35028,
-  "2022-07-29": 35059,
-  "2022-07-30": 35099,
-  "2022-07-31": 35099,
-  "2022-08-01": 35122,
-  "2022-08-02": 35153,
-  "2022-08-03": 35153,
-  "2022-08-04": 35175,
-  "2022-08-05": 35195,
-  "2022-08-06": 35209,
-  "2022-08-07": 35230,
-  "2022-08-08": 35253,
-  "2022-08-09": 35286,
-  "2022-08-10": 35313,
-  "2022-08-11": 35335,
-  "2022-08-12": 35365,
-  "2022-08-13": 35394,
-  "2022-08-14": 35421,
-  "2022-08-15": 35434,
-  "2022-08-16": 35459,
-  "2022-08-17": 35490,
-  "2022-08-18": 35509,
-  "2022-08-19": 35537,
-  "2022-08-20": 35556,
-  "2022-08-21": 35579,
-  "2022-08-22": 35604,
-  "2022-08-23": 35614,
-  "2022-08-24": 35637,
-  "2022-08-25": 35662,
-  "2022-08-26": 35682,
-  "2022-08-27": 35706,
-  "2022-08-28": 35722,
-  "2022-08-29": 35745,
-  "2022-08-30": 35780,
-  "2022-08-31": 35809,
-  "2022-09-01": 35830,
-  "2022-09-02": 35850,
-  "2022-09-03": 35868,
-  "2022-09-04": 35879,
-  "2022-09-05": 35896,
-  "2022-09-06": 35905,
-  "2022-09-07": 35919,
-  "2022-09-09": 35963,
-  "2022-09-10": 35977,
-  "2022-09-11": 35990,
-  "2022-09-12": 36004,
-  "2022-09-13": 36023,
-  "2022-09-15": 36048,
-  "2022-09-16": 36065,
-  "2022-09-17": 36083,
-  "2022-09-18": 36098,
-  "2022-09-19": 36120,
-  "2022-09-20": 36136,
-  "2022-09-21": 36154,
-  "2022-09-22": 36174,
-  "2022-09-23": 36201,
-  "2022-09-24": 36201,
-  "2022-09-25": 36235,
-  "2022-09-26": 36253,
-  "2022-09-27": 36271,
-  "2022-09-28": 36295,
-  "2022-09-29": 36310,
-  "2022-09-30": 36330,
-  "2022-10-01": 36351,
-  "2022-10-02": 36363,
-  "2022-10-03": 36376,
-  "2022-10-04": 36393,
-  "2022-10-05": 36402,
-  "2022-10-06": 36411,
-  "2022-10-07": 36423,
-  "2022-10-08": 36446,
-  "2022-10-09": 36468,
-  "2022-10-10": 36470,
-  "2022-10-11": 36502,
-  "2022-10-12": 36523,
-  "2022-10-13": 36537,
-  "2022-10-14": 36549,
-  "2022-10-15": 36566,
-  "2022-10-16": 36591,
-  "2022-10-17": 36611,
-  "2022-10-18": 36634,
-  "2022-10-19": 36656,
-  "2022-10-20": 36684,
-  "2022-10-21": 36719,
-  "2022-10-22": 36754,
-  "2022-10-23": 36772,
-  "2022-10-24": 36811,
-  "2022-10-25": 36836,
-  "2022-10-26": 36867,
-  "2022-10-27": 36919,
-  "2022-10-28": 36952,
-  "2022-10-29": 36990,
-  "2022-10-30": 37027,
-  "2022-10-31": 37060,
-  "2022-11-01": 37088,
-  "2022-11-02": 37129,
-  "2022-11-03": 37152,
-  "2022-11-04": 37188,
-  "2022-11-05": 37215,
-  "2022-11-06": 37246,
-  "2022-11-07": 37275,
-  "2022-11-08": 37307,
-  "2022-11-09": 37351,
-  "2022-11-10": 37384,
-  "2022-11-11": 37409,
-  "2022-11-12": 37455,
-  "2022-11-13": 37472,
-  "2022-11-14": 37491,
-  "2022-11-15": 37510,
-  "2022-11-16": 37526,
-  "2022-11-17": 37556,
-  "2022-11-18": 37562,
-  "2022-11-19": 37564,
-  "2022-11-20": 37593,
-  "2022-11-21": 37627,
-  "2022-11-22": 37650,
-  "2022-11-23": 37681,
-  "2022-11-24": 37726,
-  "2022-11-25": 37763,
-  "2022-11-26": 37792,
-  "2022-11-27": 37807,
-  "2022-11-28": 37826,
-  "2022-11-29": 37849,
-  "2022-11-30": 37874,
-  "2022-12-01": 37891,
-  "2022-12-02": 37919,
-  "2022-12-03": 37944,
-  "2022-12-04": 37968,
-  "2022-12-05": 37989,
-  "2022-12-06": 38009,
-  "2022-12-07": 38030,
-  "2022-12-08": 38062,
-  "2022-12-09": 38095,
-  "2022-12-10": 38117,
-  "2022-12-11": 38140,
-  "2022-12-12": 38166,
-  "2022-12-13": 38180,
-  "2022-12-14": 38204,
-  "2022-12-15": 38221,
-  "2022-12-16": 38245,
-  "2022-12-17": 38269,
-  "2022-12-18": 38290,
-  "2022-12-19": 38308,
-  "2022-12-20": 38349,
-  "2022-12-21": 38349,
-  "2022-12-22": 38368,
-  "2022-12-24": 38403,
-  "2022-12-25": 38423,
-  "2022-12-26": 38442,
-  "2022-12-27": 38453,
-  "2022-12-28": 38483,
-  "2022-12-29": 38496,
-  "2022-12-30": 38517,
-  "2022-12-31": 38552,
-  "2023-01-01": 38578,
-  "2023-01-02": 38579,
-  "2023-01-03": 38610,
-  "2023-01-04": 38623,
-  "2023-01-05": 38646,
-  "2023-01-06": 38675,
-  "2023-01-07": 38717,
-  "2023-01-08": 38718,
-  "2023-01-09": 38740,
-  "2023-01-10": 38759,
-  "2023-01-11": 38779,
-  "2023-01-12": 38812,
-  "2023-01-13": 38839,
-  "2023-01-14": 38892,
-  "2023-01-15": 38898,
-  "2023-01-16": 38923,
-  "2023-01-17": 38954,
-  "2023-01-18": 38982,
-  "2023-01-19": 39020,
-  "2023-01-20": 39047,
-  "2023-01-21": 39076,
-  "2023-01-22": 39110,
-  "2023-01-23": 39135,
-  "2023-01-24": 39152,
-  "2023-01-25": 39189,
-  "2023-01-26": 39226,
-  "2023-01-27": 39242,
-  "2023-01-28": 39274,
-  "2023-01-29": 39307,
-  "2023-01-30": 39329,
-  "2023-01-31": 39329,
-  "2023-02-01": 39381,
-  "2023-02-02": 39404,
-  "2023-02-03": 39434,
-  "2023-02-04": 39467,
-  "2023-02-05": 39493,
-  "2023-02-06": 39515,
-  "2023-02-07": 39549,
-  "2023-02-08": 39594,
-  "2023-02-09": 39594,
-  "2023-02-10": 39622,
-  "2023-02-11": 39654,
-  "2023-02-12": 39693,
-  "2023-02-13": 39719,
-  "2023-02-14": 39719,
-  "2023-02-15": 39741,
-  "2023-02-16": 39778,
-  "2023-02-17": 39800,
-  "2023-02-18": 39857,
-  "2023-02-19": 39870,
-  "2023-02-20": 39883,
-  "2023-02-21": 39906,
-  "2023-02-22": 39941,
-  "2023-02-23": 39973,
-  "2023-02-24": 39987,
-  "2023-02-25": 40014,
-  "2023-02-26": 40032,
-  "2023-02-27": 40075,
-  "2023-02-28": 40075,
-  "2023-03-01": 40100,
-  "2023-03-02": 40120,
-  "2023-03-03": 40145,
-  "2023-03-04": 40159,
-  "2023-03-05": 40198,
-  "2023-03-06": 40198,
-  "2023-03-07": 40227,
-  "2023-03-08": 40248,
-  "2023-03-09": 40258,
-  "2023-03-10": 40286,
-  "2023-03-11": 40305,
-  "2023-03-12": 40326,
-  "2023-03-13": 40348,
-  "2023-03-14": 40376,
-  "2023-03-15": 40400,
-  "2023-03-16": 40400,
-  "2023-03-17": 40400,
-  "2023-03-18": 40480,
-  "2023-03-19": 40480,
-  "2023-03-20": 40517,
-  "2023-03-21": 40537,
-  "2023-03-22": 40558,
-  "2023-03-23": 40568,
-  "2023-03-24": 40568,
-  "2023-03-25": 40615,
-  "2023-03-26": 40640,
-  "2023-03-27": 40655,
-  "2023-03-28": 40667,
-  "2023-03-29": 40693,
-  "2023-03-30": 40725,
-  "2023-03-31": 40725,
-  "2023-04-01": 40739,
-  "2023-04-02": 40761,
-  "2023-04-03": 40779,
-  "2023-04-04": 40796,
-  "2023-04-05": 40813,
-  "2023-04-06": 40831,
-  "2023-04-07": 40856,
-  "2023-04-09": 40884,
-  "2023-04-10": 40896,
-  "2023-04-11": 40947,
-  "2023-04-12": 40947,
-  "2023-04-13": 40969,
-  "2023-04-14": 41002,
-  "2023-04-15": 41032,
-  "2023-04-16": 41047,
-  "2023-04-17": 41058,
-  "2023-04-18": 41071,
-  "2023-04-19": 41088,
-  "2023-04-20": 41118,
-  "2023-04-21": 41137,
-  "2023-04-22": 41158,
-  "2023-04-23": 41176,
-  "2023-04-24": 41195,
-  "2023-04-25": 41223,
-  "2023-04-26": 41251,
-  "2023-04-27": 41275,
-  "2023-04-28": 41305,
-  "2023-04-29": 41328,
-  "2023-04-30": 41350,
-  "2023-05-01": 41369,
-  "2023-05-02": 41395,
-  "2023-05-03": 41412,
-  "2023-05-04": 41430,
-  "2023-05-05": 41441,
-  "2023-05-06": 41469,
-  "2023-05-07": 41485,
-  "2023-05-08": 41496,
-  "2023-05-09": 41506,
-  "2023-05-10": 41532,
-  "2023-05-11": 41548,
-  "2023-05-12": 41575,
-  "2023-05-13": 41593,
-  "2023-05-14": 41606,
-  "2023-05-15": 41634,
-  "2023-05-16": 41655,
-  "2023-05-17": 41677,
-  "2023-05-18": 41703,
-  "2023-05-19": 41724,
-  "2023-05-20": 41756,
-  "2023-05-21": 41756,
-  "2023-05-22": 41756,
-  "2023-05-23": 41789,
-  "2023-05-24": 41815,
-  "2023-05-25": 41822,
-  "2023-05-26": 41838,
-  "2023-05-27": 41865,
-  "2023-05-28": 41874,
-  "2023-05-29": 41874,
-  "2023-05-30": 41907,
-  "2023-05-31": 41927,
-  "2023-06-01": 41950,
-  "2023-06-02": 41974,
-  "2023-06-03": 41999,
-  "2023-06-04": 42013,
-  "2023-06-05": 42025,
-  "2023-06-06": 42044,
-  "2023-06-07": 42068,
-  "2023-06-08": 42085,
-  "2023-06-09": 42097,
-  "2023-06-10": 42118,
-  "2023-06-11": 42137,
-  "2023-06-12": 42161,
-  "2023-06-13": 42182,
-  "2023-06-14": 42204,
-  "2023-06-15": 42223,
-  "2023-06-16": 42243,
-  "2023-06-17": 42269,
-  "2023-06-18": 42292,
-  "2023-06-19": 42307,
-  "2023-06-20": 42325,
-  "2023-06-21": 42347,
-  "2023-06-22": 42362,
-  "2023-06-23": 42387,
-  "2023-06-24": 42401,
-  "2023-06-25": 42413,
-  "2023-06-26": 42429,
-  "2023-06-27": 42447,
-  "2023-06-28": 42464,
-  "2023-06-29": 42487,
-  "2023-06-30": 42505,
-  "2023-07-01": 42553,
-  "2023-07-02": 42553,
-  "2023-07-03": 42580,
-  "2023-07-04": 42589,
-  "2023-07-05": 42604,
-  "2023-07-06": 42634,
-  "2023-07-07": 42634,
-  "2023-07-08": 42634,
-  "2023-07-09": 42686,
-  "2023-07-10": 42699,
-  "2023-07-11": 42714,
-  "2023-07-12": 42725,
-  "2023-07-13": 42746,
-  "2023-07-14": 42767,
-  "2023-07-15": 42784,
-  "2023-07-16": 42817,
-  "2023-07-17": 42833,
-  "2023-07-18": 42851,
-  "2023-07-19": 42879,
-  "2023-07-20": 42879,
-  "2023-07-21": 42931,
-  "2023-07-22": 42943,
-  "2023-07-23": 42968,
-  "2023-07-24": 42983,
-  "2023-07-25": 42998,
-  "2023-07-26": 43012,
-  "2023-07-27": 43033,
-  "2023-07-28": 43054,
-  "2023-07-29": 43082,
-  "2023-07-30": 43082,
-  "2023-07-31": 43116,
-  "2023-08-01": 43129,
-  "2023-08-02": 43141,
-  "2023-08-03": 43156,
-  "2023-08-04": 43167,
-  "2023-08-05": 43178,
-  "2023-08-06": 43218,
-  "2023-08-07": 43218,
-  "2023-08-08": 43232,
-  "2023-08-09": 43246,
-  "2023-08-10": 43263,
-  "2023-08-11": 43275,
-  "2023-08-12": 43275,
-  "2023-08-13": 43275,
-  "2023-08-14": 43275,
-  "2023-08-15": 43275,
-  "2023-08-16": 43275,
-  "2023-08-17": 43275,
-  "2023-08-18": 43275,
-  "2023-08-19": 43275,
-  "2023-08-20": 43466,
-  "2023-08-21": 43466,
-  "2023-08-22": 43500,
-  "2023-08-23": 43500,
-  "2023-08-24": 43500,
-  "2023-08-25": 43500,
-  "2023-08-26": 43595,
-  "2023-08-27": 43595,
-  "2023-08-28": 43630,
-  "2023-08-29": 43630,
-  "2023-08-30": 43630,
-  "2023-08-31": 43686,
-  "2023-09-01": 43709,
-  "2023-09-02": 43709,
-  "2023-09-03": 43709,
-  "2023-09-04": 43709,
-  "2023-09-05": 43709,
-  "2023-09-06": 43709,
-  "2023-09-07": 43709,
-  "2023-09-08": 43709,
-  "2023-09-09": 43709,
-  "2023-09-10": 43709,
-  "2023-09-11": 43709,
-  "2023-09-12": 43709,
-  "2023-09-13": 43709,
-  "2023-09-14": 43709,
-  "2023-09-15": 43709,
-  "2023-09-16": 44022,
-  "2023-09-17": 44022,
-  "2023-09-18": 44022,
-  "2023-09-19": 44063,
-  "2023-09-20": 44063,
-  "2023-09-21": 44063,
-  "2023-09-22": 44114,
-  "2023-09-23": 44114,
-  "2023-09-24": 44114,
-  "2023-09-25": 44114,
-  "2023-09-26": 44180,
-  "2023-09-27": 44180,
-  "2023-09-28": 44180,
-  "2023-09-29": 44180,
-  "2023-09-30": 44180,
-  "2023-10-01": 44180,
-  "2023-10-02": 44180,
-  "2023-10-03": 44180,
-  "2023-10-04": 44180,
-  "2023-10-05": 44180,
-  "2023-10-06": 44180,
-  "2023-10-07": 44180,
-  "2023-10-08": 44180,
-  "2023-10-09": 44180,
-  "2023-10-10": 44180,
-  "2023-10-11": 44440,
-  "2023-10-12": 44440,
-  "2023-10-13": 44440,
-  "2023-10-14": 44440,
-  "2023-10-15": 44440,
-  "2023-10-16": 44440,
-  "2023-10-17": 44440,
-  "2023-10-18": 44440,
-  "2023-10-19": 44440,
-  "2023-10-20": 44440,
-  "2023-10-21": 44440,
-  "2023-10-22": 44440,
-  "2023-10-23": 44440,
-  "2023-10-24": 44440,
-  "2023-10-25": 44440,
-  "2023-10-26": 44440,
-  "2023-10-27": 44440,
-  "2023-10-28": 44440,
-  "2023-10-29": 44440,
-  "2023-10-30": 44440,
-  "2023-10-31": 44440,
-  "2023-11-01": 44440,
-  "2023-11-02": 44440,
-  "2023-11-03": 44440,
-  "2023-11-04": 44440,
-  "2023-11-05": 44440,
-  "2023-11-06": 44440,
-  "2023-11-07": 44440,
-  "2023-11-08": 44440,
-  "2023-11-09": 44440,
-  "2023-11-10": 44440,
-  "2023-11-11": 44901,
-  "2023-11-12": 44901,
-  "2023-11-13": 44901,
-  "2023-11-14": 44901,
-  "2023-11-15": 44901,
-  "2023-11-16": 44901,
-  "2023-11-17": 44901,
-  "2023-11-18": 44901,
-  "2023-11-19": 44901,
-  "2023-11-20": 44901,
-  "2023-11-21": 44901,
-  "2023-11-22": 44901,
-  "2023-11-23": 44901,
-  "2023-11-24": 44901,
-  "2023-11-25": 44901,
-  "2023-11-26": 44901,
-  "2023-11-27": 44901,
-  "2023-11-28": 44901,
-  "2023-11-29": 44901,
-  "2023-11-30": 44901,
-  "2023-12-01": 44901,
-  "2023-12-02": 44901,
-  "2023-12-03": 44901,
-  "2023-12-04": 44901,
-  "2023-12-05": 44901,
-  "2023-12-06": 44901,
-  "2023-12-07": 44901,
-  "2023-12-08": 44901,
-  "2023-12-09": 44901,
-  "2023-12-10": 44901,
-  "2023-12-11": 44901,
-  "2023-12-12": 44901,
-  "2023-12-13": 44901,
-  "2023-12-14": 45379,
-  "2023-12-15": 45386,
-  "2023-12-16": 45400,
-  "2023-12-17": 45419,
-  "2023-12-18": 45435,
-  "2023-12-19": 45442,
-  "2023-12-20": 45459,
-  "2023-12-21": 45476,
-  "2023-12-22": 45490,
-  "2023-12-23": 45496,
-  "2023-12-24": 45510,
-  "2023-12-25": 45518,
-  "2023-12-26": 45526,
-  "2023-12-27": 45532,
-  "2023-12-30": 45577,
-  "2023-12-31": 45588,
-  "2024-01-01": 45606,
-  "2024-01-02": 45624,
-  "2024-01-03": 45629
+  "2024-01-17": 45699,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
+  "name": "This Is Ulices Chaidez",
+  "tracks": [
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164195,
+      "name": "A Qu\u00e9 Le Tiras",
+      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
+    },
+    {
+      "album": {
+        "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
+        "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "A Toda Prueba",
+      "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
+    },
+    {
+      "album": {
+        "name": "A Ver Quien Duele Mas",
+        "url": "https://open.spotify.com/album/2by3jWdHcAHqjc2K87va1x"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 243988,
+      "name": "A Ver Quien Duele Mas",
+      "url": "https://open.spotify.com/track/6t7Gq6XVeWWCW97bKBxmGw"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 191370,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/7yB5njwxAYnmjO12woRXTc"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166430,
+      "name": "Andamos En El Ruedo",
+      "url": "https://open.spotify.com/track/2azbAaKzJqSueV04vjqSaL"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202249,
+      "name": "Borrachos Por Amor",
+      "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
+    },
+    {
+      "album": {
+        "name": "Exotic Corridos",
+        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173476,
+      "name": "Cinderella de Mis Noches",
+      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
+    },
+    {
+      "album": {
+        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190599,
+      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
+      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
+    },
+    {
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Chander Vidal",
+          "url": "https://open.spotify.com/artist/3ql6bdb3wndJAC9tEyw1Nx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 203617,
+      "name": "Como No Me Iba a Enamorar - En Vivo",
+      "url": "https://open.spotify.com/track/5yd7ST6KDmVLgsDVzGPq7x"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "album": {
+        "name": "Corona de Rosas",
+        "url": "https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159232,
+      "name": "Corona de Rosas",
+      "url": "https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw"
+    },
+    {
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198582,
+      "name": "C\u00f3mo Los Vaqueros",
+      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo No Quererte",
+        "url": "https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175590,
+      "name": "C\u00f3mo No Quererte",
+      "url": "https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155371,
+      "name": "De Nuevo De Cero",
+      "url": "https://open.spotify.com/track/6IaWOdcfVuVxftkM52cmqN"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 183375,
+      "name": "Del Barrio",
+      "url": "https://open.spotify.com/track/1W82fMmHgL5Y7TIRdFZpQ4"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/63BoqY5Mcs2obz6ZLdWDN8"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 183375,
+      "name": "Del Barrio",
+      "url": "https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF"
+    },
+    {
+      "album": {
+        "name": "Gente del Este",
+        "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
+      },
+      "artists": [
+        {
+          "name": "Oscar Cortez",
+          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186972,
+      "name": "DEL Rojo",
+      "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198896,
+      "name": "Despu\u00e9s No Hay Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
+    },
+    {
+      "album": {
+        "name": "Dile Luna",
+        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191338,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193150,
+      "name": "D\u00e9jame Decirle",
+      "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 192484,
+      "name": "El Amor Es Para Tontos",
+      "url": "https://open.spotify.com/track/2EZvPbK6R8xItBIq2L8A9S"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 207980,
+      "name": "El Cinco Letras",
+      "url": "https://open.spotify.com/track/5U0CiXwCAFUXXsDo7rQXCZ"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Ariel Camacho",
+        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 182811,
+      "name": "El Del Tatuaje",
+      "url": "https://open.spotify.com/track/59JiawgWoazJQDI9Bw6UHQ"
+    },
+    {
+      "album": {
+        "name": "El Muchacho de La Esquina",
+        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154151,
+      "name": "El Muchacho de La Esquina",
+      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
+    },
+    {
+      "album": {
+        "name": "Entre Mas Te Miro",
+        "url": "https://open.spotify.com/album/0TB2GZ3XglnOM5RUE1Ehmn"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 219149,
+      "name": "Entre Mas Te Miro",
+      "url": "https://open.spotify.com/track/7KwSmnXgrZnz5z1Rjj1Bc4"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172588,
+      "name": "Es Que Me Gustas",
+      "url": "https://open.spotify.com/track/0biVdOYzgbnbtOTgi8uWr9"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 170293,
+      "name": "Este Amor Es Real",
+      "url": "https://open.spotify.com/track/73A8j9qMUAnfTllMbAo6ec"
+    },
+    {
+      "album": {
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "album": {
+        "name": "La Vida Del Dorian",
+        "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "La Vida Del Dorian",
+      "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
+    },
+    {
+      "album": {
+        "name": "Brincale al Toro",
+        "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178537,
+      "name": "Las Ense\u00f1anzas",
+      "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 166748,
+      "name": "Merecerte Hoy",
+      "url": "https://open.spotify.com/track/4SaHMGZ6kbEtGkJISqy2VI"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150605,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Mirate Nomas (En Vivo)",
+      "url": "https://open.spotify.com/track/1ENsFKcyksWFyXNQlWCI1c"
+    },
+    {
+      "album": {
+        "name": "M\u00edrate Nom\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7xgi5FxUystHmJGzRRJ481"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 198186,
+      "name": "M\u00edrate Nom\u00e1s (En Vivo)",
+      "url": "https://open.spotify.com/track/1nSlVFfeifGkSk3jZXijDu"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168518,
+      "name": "No Nos Tocaba",
+      "url": "https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf"
+    },
+    {
+      "album": {
+        "name": "No Pude Salvarnos",
+        "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208436,
+      "name": "No Pude Salvarnos",
+      "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
+    },
+    {
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192218,
+      "name": "No Tiene Comparaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
+    },
+    {
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170485,
+      "name": "Nomas No Se Pasen - En Vivo",
+      "url": "https://open.spotify.com/track/1zyUxUzC4fSQURhfqcaQuB"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153678,
+      "name": "Nunca Sin Ti",
+      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto (En Vivo)",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170864,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/4M4vaKqUsgZ9gIDSmWWava"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 170864,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Para Describirte",
+      "url": "https://open.spotify.com/track/7hAW6EO4Lze015qyAuFraa"
+    },
+    {
+      "album": {
+        "name": "Para Ti Pap\u00e1",
+        "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254250,
+      "name": "Para Ti Pap\u00e1",
+      "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 222778,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184868,
+      "name": "Porque Llegaste Tu",
+      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 231556,
+      "name": "Que Bonita Estas",
+      "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
+    },
+    {
+      "album": {
+        "name": "Que Bonito",
+        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
+    },
+    {
+      "album": {
+        "name": "Que La Quieran (Que La Cuiden)",
+        "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194797,
+      "name": "Que La Quieran (Que La Cuiden)",
+      "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178117,
+      "name": "Quer\u00eda Que Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 220048,
+      "name": "Se Termino",
+      "url": "https://open.spotify.com/track/7pZarDLH0d0ZKaj31PnPUC"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ora",
+        "url": "https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248026,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
+    },
+    {
+      "album": {
+        "name": "Si Hay Otra Vida",
+        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204692,
+      "name": "Si Hay Otra Vida",
+      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
+    },
+    {
+      "album": {
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 212999,
+      "name": "Si Me Hubieras Olvidado",
+      "url": "https://open.spotify.com/track/04TpibFGlH7XGN13e9vO5B"
+    },
+    {
+      "album": {
+        "name": "YakiFest, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "Te Compro - En Vivo",
+      "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
+    },
+    {
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238979,
+      "name": "Te Robar\u00e9 Una Noche",
+      "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 180074,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/6nEclO2FXRaTHJWWb9fBr1"
+    },
+    {
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 155939,
+      "name": "Toditos Somos Iguales",
+      "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
+    },
+    {
+      "album": {
+        "name": "Todo Cambio (En Vivo)",
+        "url": "https://open.spotify.com/album/694JNI13itntLDegX7cvYn"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 231850,
+      "name": "Todo Cambio (En Vivo)",
+      "url": "https://open.spotify.com/track/3seNEk7YiBY7y4GBpcX8hA"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 175178,
+      "name": "Tu Cancion Favorita",
+      "url": "https://open.spotify.com/track/2ohcwucy8qnoj7aR6hd5Ze"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168989,
+      "name": "Tu Llegada",
+      "url": "https://open.spotify.com/track/04oP2g6fvCpIS5jUGg4vhj"
+    },
+    {
+      "album": {
+        "name": "Tu Llegada",
+        "url": "https://open.spotify.com/album/7zI6rJwCEJqPpsm15277vc"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 168989,
+      "name": "Tu Llegada",
+      "url": "https://open.spotify.com/track/3JVFLYJKUpvTvUUnut1TvC"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 151742,
+      "name": "Tu No Tienes La Culpa",
+      "url": "https://open.spotify.com/track/5gPMFeXN11KgZBtY5YShxx"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Un D\u00eda a La Vez (En Vivo)",
+      "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
+    },
+    {
+      "album": {
+        "name": "Seguimos En El Ruedo",
+        "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218923,
+      "name": "Voy a Echarme Otra",
+      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Ariel Camacho",
+        "url": "https://open.spotify.com/album/7pwpQTvx8Mxa88wqkbHhNK"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 229076,
+      "name": "Ya Lo Supere",
+      "url": "https://open.spotify.com/track/2ypcd1xLqUzpgW70Ap4c24"
+    },
+    {
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187408,
+      "name": "\u00bfComo?",
+      "url": "https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5"
+    },
+    {
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205420,
+      "name": "\u00bfPor Que Me Enamor\u00e9?",
+      "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu"
 }

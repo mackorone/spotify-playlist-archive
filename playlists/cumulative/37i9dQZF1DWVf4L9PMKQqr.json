@@ -442,7 +442,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-11",
       "duration_ms": 146733,
       "name": "El Organillero",
       "url": "https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 180453,
       "name": "Estrella Solitaria",
       "url": "https://open.spotify.com/track/6RXz0sqsnvnPDOm1I5paIH"
@@ -1010,6 +1010,24 @@
       "duration_ms": 137333,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
+    },
+    {
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159164,
+      "name": "Noche Criolla",
+      "url": "https://open.spotify.com/track/5Zrdtd4UC1ESsSFgyc0jqg"
     },
     {
       "album": {

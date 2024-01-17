@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 
 > Songs from all 12 Albums of the Year shortlisted for the Mercury Prize 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,843 likes - 24 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,944 likes - 24 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

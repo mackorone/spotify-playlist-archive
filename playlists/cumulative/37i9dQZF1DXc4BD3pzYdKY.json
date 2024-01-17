@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC"
+      },
+      "artists": [
+        {
+          "name": "Ace Clark",
+          "url": "https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv"
+    },
+    {
+      "album": {
         "name": "97",
         "url": "https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM"
       },
@@ -588,6 +610,28 @@
       "duration_ms": 184563,
       "name": "All Joy No Stress (feat. Tedashii)",
       "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/4Afzn2z4er22nFYpIQkDxG"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170154,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/2yqGONpgtntihMfzZgErC2"
     },
     {
       "album": {
@@ -1750,7 +1794,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 163902,
       "name": "Bend The Whip",
       "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
@@ -2478,7 +2522,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 175135,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f"
@@ -5726,7 +5770,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": "2024-01-12",
       "duration_ms": 175773,
       "name": "Girls Don't Cry (Gibberish)",
       "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
@@ -7462,6 +7506,28 @@
       "duration_ms": 192053,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/46WvgmhHE4OE3g4oDAVrex"
+    },
+    {
+      "album": {
+        "name": "I DONT EVEN WALK BY SIGHT (IDEWBS)",
+        "url": "https://open.spotify.com/album/1IZjA2Qh8W9Iwf2sKwmVJQ"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Kidd Lee",
+          "url": "https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150463,
+      "name": "I DONT EVEN WALK BY SIGHT (IDEWBS)",
+      "url": "https://open.spotify.com/track/0phy1bFQHxebC37OtcXnLK"
     },
     {
       "album": {
@@ -10956,7 +11022,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 161538,
       "name": "NO FRIENDS",
       "url": "https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO"
@@ -12937,6 +13003,24 @@
     },
     {
       "album": {
+        "name": "Summer TKE",
+        "url": "https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv"
+    },
+    {
+      "album": {
         "name": "Price (feat. Eshon Burgundy)",
         "url": "https://open.spotify.com/album/2W5mlEL9qDY0Mz3BZTkZ2c"
       },
@@ -13628,6 +13712,24 @@
       "duration_ms": 187918,
       "name": "REST",
       "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
+    },
+    {
+      "album": {
+        "name": "RESURFACED TRAUMA",
+        "url": "https://open.spotify.com/album/77OaAFdQFbXFbX5vvaGsjp"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149086,
+      "name": "RESURFACED TRAUMA",
+      "url": "https://open.spotify.com/track/6hbuCWny8JGHXvSYimzpN7"
     },
     {
       "album": {
@@ -14884,7 +14986,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 149538,
       "name": "Steve Austin",
       "url": "https://open.spotify.com/track/7yCIngefnxTlVztCrcFiTZ"
@@ -16829,6 +16931,28 @@
     },
     {
       "album": {
+        "name": "Ungodly",
+        "url": "https://open.spotify.com/album/7cKWVzaT3Pnr8qkhQ3ywg7"
+      },
+      "artists": [
+        {
+          "name": "Larell",
+          "url": "https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw"
+        },
+        {
+          "name": "Gospel Hydration",
+          "url": "https://open.spotify.com/artist/7HgYFwpigTsm08R2O2AkoI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 130741,
+      "name": "Ungodly",
+      "url": "https://open.spotify.com/track/7KetrsLsI4NlqVeIuYX0xG"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0qFgVCA6li9HqCDQhuept4"
       },
@@ -16858,7 +16982,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 173972,
       "name": "Up",
       "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"

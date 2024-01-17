@@ -1,255 +1,955 @@
 {
-  "2023-04-24": 113201,
-  "2023-04-25": 113308,
-  "2023-04-26": 113394,
-  "2023-04-27": 113497,
-  "2023-04-28": 113600,
-  "2023-04-29": 113676,
-  "2023-04-30": 113770,
-  "2023-05-01": 113850,
-  "2023-05-02": 113954,
-  "2023-05-03": 114022,
-  "2023-05-04": 114130,
-  "2023-05-05": 114216,
-  "2023-05-06": 114322,
-  "2023-05-07": 114413,
-  "2023-05-08": 114512,
-  "2023-05-09": 114597,
-  "2023-05-10": 114682,
-  "2023-05-11": 114781,
-  "2023-05-12": 114863,
-  "2023-05-13": 114956,
-  "2023-05-14": 115056,
-  "2023-05-15": 115157,
-  "2023-05-16": 115240,
-  "2023-05-17": 115352,
-  "2023-05-18": 115450,
-  "2023-05-19": 115545,
-  "2023-05-20": 115782,
-  "2023-05-21": 115782,
-  "2023-05-22": 115782,
-  "2023-05-23": 115969,
-  "2023-05-24": 116160,
-  "2023-05-25": 116184,
-  "2023-05-26": 116331,
-  "2023-05-27": 116493,
-  "2023-05-28": 116636,
-  "2023-05-29": 116636,
-  "2023-05-30": 116869,
-  "2023-05-31": 116972,
-  "2023-06-01": 117055,
-  "2023-06-02": 117128,
-  "2023-06-03": 117197,
-  "2023-06-04": 117267,
-  "2023-06-05": 117343,
-  "2023-06-06": 117422,
-  "2023-06-07": 117479,
-  "2023-06-08": 117557,
-  "2023-06-09": 117630,
-  "2023-06-10": 117710,
-  "2023-06-11": 117781,
-  "2023-06-12": 117854,
-  "2023-06-13": 117918,
-  "2023-06-14": 117979,
-  "2023-06-15": 118037,
-  "2023-06-16": 118112,
-  "2023-06-17": 118163,
-  "2023-06-18": 118242,
-  "2023-06-19": 118332,
-  "2023-06-20": 118403,
-  "2023-06-21": 118459,
-  "2023-06-22": 118515,
-  "2023-06-23": 118586,
-  "2023-06-24": 118632,
-  "2023-06-25": 118687,
-  "2023-06-26": 118751,
-  "2023-06-27": 118791,
-  "2023-06-28": 118860,
-  "2023-06-29": 118908,
-  "2023-06-30": 118970,
-  "2023-07-01": 119102,
-  "2023-07-02": 119102,
-  "2023-07-03": 119149,
-  "2023-07-04": 119202,
-  "2023-07-05": 119242,
-  "2023-07-06": 119361,
-  "2023-07-07": 119361,
-  "2023-07-08": 119433,
-  "2023-07-09": 119481,
-  "2023-07-10": 119537,
-  "2023-07-11": 119581,
-  "2023-07-12": 119614,
-  "2023-07-13": 119663,
-  "2023-07-14": 119725,
-  "2023-07-15": 119777,
-  "2023-07-16": 119849,
-  "2023-07-17": 119903,
-  "2023-07-18": 119958,
-  "2023-07-19": 120031,
-  "2023-07-20": 120073,
-  "2023-07-21": 120131,
-  "2023-07-22": 120208,
-  "2023-07-23": 120281,
-  "2023-07-24": 120349,
-  "2023-07-25": 120425,
-  "2023-07-26": 120473,
-  "2023-07-27": 120534,
-  "2023-07-28": 120609,
-  "2023-07-29": 120677,
-  "2023-07-30": 120750,
-  "2023-07-31": 120826,
-  "2023-08-01": 120889,
-  "2023-08-02": 120956,
-  "2023-08-03": 121022,
-  "2023-08-04": 121095,
-  "2023-08-05": 121170,
-  "2023-08-06": 121320,
-  "2023-08-07": 121320,
-  "2023-08-08": 121376,
-  "2023-08-09": 121437,
-  "2023-08-10": 121499,
-  "2023-08-11": 121565,
-  "2023-08-12": 121643,
-  "2023-08-13": 121705,
-  "2023-08-14": 121768,
-  "2023-08-15": 121879,
-  "2023-08-16": 121879,
-  "2023-08-17": 121938,
-  "2023-08-18": 122011,
-  "2023-08-19": 122080,
-  "2023-08-20": 122150,
-  "2023-08-21": 122217,
-  "2023-08-22": 122291,
-  "2023-08-23": 122376,
-  "2023-08-24": 122440,
-  "2023-08-25": 122507,
-  "2023-08-26": 122561,
-  "2023-08-27": 122633,
-  "2023-08-28": 122718,
-  "2023-08-29": 122785,
-  "2023-08-30": 122835,
-  "2023-08-31": 122905,
-  "2023-09-01": 123043,
-  "2023-09-02": 123043,
-  "2023-09-03": 123116,
-  "2023-09-04": 123172,
-  "2023-09-05": 123211,
-  "2023-09-06": 123279,
-  "2023-09-07": 123337,
-  "2023-09-08": 123392,
-  "2023-09-09": 123443,
-  "2023-09-10": 123481,
-  "2023-09-11": 123536,
-  "2023-09-12": 123573,
-  "2023-09-13": 123626,
-  "2023-09-14": 123679,
-  "2023-09-15": 123724,
-  "2023-09-16": 123773,
-  "2023-09-17": 123821,
-  "2023-09-18": 123887,
-  "2023-09-19": 123934,
-  "2023-09-20": 123989,
-  "2023-09-21": 124067,
-  "2023-09-22": 124133,
-  "2023-09-23": 124205,
-  "2023-09-24": 124261,
-  "2023-09-25": 124316,
-  "2023-09-26": 124370,
-  "2023-09-27": 124405,
-  "2023-09-28": 124471,
-  "2023-09-29": 124529,
-  "2023-09-30": 124594,
-  "2023-10-01": 124659,
-  "2023-10-02": 124727,
-  "2023-10-03": 124766,
-  "2023-10-04": 124846,
-  "2023-10-05": 124900,
-  "2023-10-06": 124958,
-  "2023-10-07": 125072,
-  "2023-10-08": 125213,
-  "2023-10-09": 125307,
-  "2023-10-10": 125396,
-  "2023-10-11": 125575,
-  "2023-10-12": 125575,
-  "2023-10-13": 125683,
-  "2023-10-14": 125745,
-  "2023-10-15": 125844,
-  "2023-10-16": 125937,
-  "2023-10-17": 126000,
-  "2023-10-18": 126061,
-  "2023-10-19": 126098,
-  "2023-10-20": 126168,
-  "2023-10-21": 126234,
-  "2023-10-22": 126309,
-  "2023-10-23": 126370,
-  "2023-10-24": 126418,
-  "2023-10-25": 126475,
-  "2023-10-26": 126527,
-  "2023-10-27": 126577,
-  "2023-10-28": 126636,
-  "2023-10-29": 126688,
-  "2023-10-30": 126778,
-  "2023-10-31": 126778,
-  "2023-11-01": 126835,
-  "2023-11-02": 126872,
-  "2023-11-03": 126920,
-  "2023-11-04": 126970,
-  "2023-11-05": 127027,
-  "2023-11-06": 127067,
-  "2023-11-07": 127110,
-  "2023-11-08": 127156,
-  "2023-11-09": 127201,
-  "2023-11-10": 127244,
-  "2023-11-11": 127295,
-  "2023-11-12": 127329,
-  "2023-11-13": 127377,
-  "2023-11-14": 127406,
-  "2023-11-15": 127406,
-  "2023-11-16": 127481,
-  "2023-11-17": 127560,
-  "2023-11-18": 127560,
-  "2023-11-19": 127616,
-  "2023-11-20": 127646,
-  "2023-11-21": 127694,
-  "2023-11-22": 127739,
-  "2023-11-23": 127778,
-  "2023-11-24": 127811,
-  "2023-11-25": 127847,
-  "2023-11-26": 127882,
-  "2023-11-27": 127922,
-  "2023-11-28": 127952,
-  "2023-11-29": 128012,
-  "2023-11-30": 128012,
-  "2023-12-01": 128050,
-  "2023-12-02": 128084,
-  "2023-12-03": 128131,
-  "2023-12-04": 128162,
-  "2023-12-05": 128192,
-  "2023-12-06": 128228,
-  "2023-12-07": 128265,
-  "2023-12-08": 128291,
-  "2023-12-09": 128341,
-  "2023-12-10": 128390,
-  "2023-12-11": 128431,
-  "2023-12-12": 128462,
-  "2023-12-13": 128506,
-  "2023-12-14": 128561,
-  "2023-12-15": 128601,
-  "2023-12-16": 128662,
-  "2023-12-17": 128708,
-  "2023-12-18": 128756,
-  "2023-12-19": 128804,
-  "2023-12-20": 128850,
-  "2023-12-21": 128894,
-  "2023-12-22": 128953,
-  "2023-12-23": 128994,
-  "2023-12-24": 129038,
-  "2023-12-25": 129088,
-  "2023-12-26": 129137,
-  "2023-12-27": 129174,
-  "2023-12-30": 129295,
-  "2023-12-31": 129349,
-  "2024-01-01": 129393,
-  "2024-01-02": 129446,
-  "2024-01-03": 129494
+  "2024-01-17": 130008,
+  "date_first_scraped": "2023-04-24",
+  "description": "The British sisters who paved the way for today's young stars to shine.",
+  "name": "Black Britain: Soul Sisters",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Over",
+        "url": "https://open.spotify.com/album/5rbRK8UuT4F12RmPlQNfVw"
+      },
+      "artists": [
+        {
+          "name": "Lisa Maffia",
+          "url": "https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "All Over",
+      "url": "https://open.spotify.com/track/0btsKr0erXCWTIYMViLNTJ"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
+    },
+    {
+      "album": {
+        "name": "Angel Of Mine",
+        "url": "https://open.spotify.com/album/6FRQNYrHTnR4Di6vkZO4qX"
+      },
+      "artists": [
+        {
+          "name": "Eternal",
+          "url": "https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260160,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/16ctA4uA4Tiqd8JWxHawWj"
+    },
+    {
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "album": {
+        "name": "Black Heart",
+        "url": "https://open.spotify.com/album/564u6AnOEJB7vLAZUhd1w6"
+      },
+      "artists": [
+        {
+          "name": "Stooshe",
+          "url": "https://open.spotify.com/artist/6RDAHUqUqJab8TZmyRHFss"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207798,
+      "name": "Black Heart",
+      "url": "https://open.spotify.com/track/2WfVeDOEB7PDDNqFn1VCYe"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "album": {
+        "name": "Comin' Atcha!",
+        "url": "https://open.spotify.com/album/3GskxSqZ2uIWR45ZyjL1Nr"
+      },
+      "artists": [
+        {
+          "name": "Cleopatra",
+          "url": "https://open.spotify.com/artist/7mu52yh5bBhhJOyVndAEZW"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249200,
+      "name": "Cleopatra's Theme",
+      "url": "https://open.spotify.com/track/19udLuHd7CD8XxrOmUaXPn"
+    },
+    {
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/22ZUNwmRYi5yon2SwOaycq"
+      },
+      "artists": [
+        {
+          "name": "David Grant",
+          "url": "https://open.spotify.com/artist/6nxKcnBm27DcV7ZbSdJW2W"
+        },
+        {
+          "name": "Jaki Graham",
+          "url": "https://open.spotify.com/artist/4i50i5M5whfhk1zFEfo36O"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260773,
+      "name": "Could It Be I'm Falling in Love - 7\" Version",
+      "url": "https://open.spotify.com/track/5TdVxr7t00lEljwzvTh7Lo"
+    },
+    {
+      "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279586,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/1I0lNV2PAKHLsFCuRC1Z1Y"
+    },
+    {
+      "album": {
+        "name": "Don't Be A Stranger",
+        "url": "https://open.spotify.com/album/7bIv2lByKH54jRcHVZQmSb"
+      },
+      "artists": [
+        {
+          "name": "Dina Carroll",
+          "url": "https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286160,
+      "name": "Don't Be A Stranger - Radio Edit",
+      "url": "https://open.spotify.com/track/31nNLxZbpVBXRg0XdthArE"
+    },
+    {
+      "album": {
+        "name": "Dreams Can Come True - Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/2WIspguiqihFC8xOcwL9D0"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226986,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5DqrMSaG6KXa9PWlnnKJyb"
+    },
+    {
+      "album": {
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/1Rhw85JG6ThsPLJoZmlUla"
+      },
+      "artists": [
+        {
+          "name": "The 411",
+          "url": "https://open.spotify.com/artist/0YtA5DdO2df8zIxpVdktqg"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/2OlqxtIOJ7qOmbVs5lp1Zp"
+    },
+    {
+      "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/4hF66CtQgAPU6LzedAQi4V"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/4dc1G54hSmSL5HQuQvRNA1"
+    },
+    {
+      "album": {
+        "name": "Nu Flow",
+        "url": "https://open.spotify.com/album/2Ve1rgXJYDhm3pi4MNXOjt"
+      },
+      "artists": [
+        {
+          "name": "Big Brovaz",
+          "url": "https://open.spotify.com/artist/0tTPYQGpkJ49RMbtCOQfDY"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/47wWMUSbUsH86cybzdZbnC"
+    },
+    {
+      "album": {
+        "name": "Wonder No.8",
+        "url": "https://open.spotify.com/album/52UYtDrnH6cxunWh2dirQd"
+      },
+      "artists": [
+        {
+          "name": "Honeyz",
+          "url": "https://open.spotify.com/artist/3Ps27dDfvubd75rh5A0wz9"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287533,
+      "name": "Finally Found",
+      "url": "https://open.spotify.com/track/4NLFtsQAisVdbQVkkrxH4M"
+    },
+    {
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/1aSBBYRCl4FcSm27hWaO8r"
+      },
+      "artists": [
+        {
+          "name": "Sweet Female Attitude",
+          "url": "https://open.spotify.com/artist/1054JdBVMCPm9VpvkUcOYX"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Flowers - Sunship Edit",
+      "url": "https://open.spotify.com/track/2Np6ZbVFXfhlk3Oin6i92t"
+    },
+    {
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/0Jo60TeFm2QkBR9d5anzRU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Burke",
+          "url": "https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5IaR621NoOM6i5KTcuNRHM"
+    },
+    {
+      "album": {
+        "name": "Before The Rain",
+        "url": "https://open.spotify.com/album/0FkXp8n7cMtnLBo1l77W20"
+      },
+      "artists": [
+        {
+          "name": "Eternal",
+          "url": "https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj"
+        },
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "I Wanna Be the Only One (feat. Bebe Winans)",
+      "url": "https://open.spotify.com/track/0XvOoNb9zZOwFIOM0mwbiq"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2"
+      },
+      "artists": [
+        {
+          "name": "Mel B",
+          "url": "https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/7eU7mrPH3wG8pgAyFlQS3g"
+    },
+    {
+      "album": {
+        "name": "Return of the 90s",
+        "url": "https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197240,
+      "name": "Inner City Life",
+      "url": "https://open.spotify.com/track/4BxurjVgqxoRzxJG98wgxz"
+    },
+    {
+      "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/4hF66CtQgAPU6LzedAQi4V"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278986,
+      "name": "It Takes More - Bloodshy Main Mix",
+      "url": "https://open.spotify.com/track/07pU5zPCrZfWEgIQSEnLt4"
+    },
+    {
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361626,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/7upgDi9C0pQn9HZzGfksJq"
+    },
+    {
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/6RV5YVieDWb3lBJOUWMktH"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Keep This Fire Burning",
+      "url": "https://open.spotify.com/track/2AY8VHXQ0V9O1iSvKC1lgH"
+    },
+    {
+      "album": {
+        "name": "Overload",
+        "url": "https://open.spotify.com/album/3nabLGLmVV2EJiyMKCQ01O"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/3DC67qpSeIjEW5034CLDfZ"
+    },
+    {
+      "album": {
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
+      },
+      "artists": [
+        {
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "Moving on Up",
+      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
+    },
+    {
+      "album": {
+        "name": "Everybody's Somebody",
+        "url": "https://open.spotify.com/album/7ttzDsJp0lWGbwzX3onPAg"
+      },
+      "artists": [
+        {
+          "name": "Kele Le Roc",
+          "url": "https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0RYdCNDoCV7HWsn17epQZ6"
+    },
+    {
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/3TGmgbcgMFQIGYnvPjoyXB"
+      },
+      "artists": [
+        {
+          "name": "Shaznay Lewis",
+          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260480,
+      "name": "Never Felt Like This Before",
+      "url": "https://open.spotify.com/track/6GgSwowq876E4yaNy6CU1e"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440466,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "album": {
+        "name": "Mis-Teeq",
+        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
+      },
+      "artists": [
+        {
+          "name": "Mis-Teeq",
+          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "One Night Stand - StarGate Radio Edit",
+      "url": "https://open.spotify.com/track/4BRamgDPbtkD4Mw1WyTaYb"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196986,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
+    },
+    {
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2aOTyHK8aDNzfh5gQbPlOC"
+      },
+      "artists": [
+        {
+          "name": "Five Star",
+          "url": "https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Rain or Shine",
+      "url": "https://open.spotify.com/track/02IhK8HPAI8Cc6T4KN32if"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2YS02XrrO7PNUJoqrFzvfO"
+      },
+      "artists": [
+        {
+          "name": "Javine",
+          "url": "https://open.spotify.com/artist/55lBhGBhCmUzgSJzv2aubP"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Real Things",
+      "url": "https://open.spotify.com/track/5I1n0DGvK1BXdy9hf6wqNW"
+    },
+    {
+      "album": {
+        "name": "F.L.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
+      },
+      "artists": [
+        {
+          "name": "Mel & Kim",
+          "url": "https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Respectable",
+      "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
+    },
+    {
+      "album": {
+        "name": "Run for Cover",
+        "url": "https://open.spotify.com/album/6UkUpIsSsoeVFSgz6FVwqm"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "Run for Cover",
+      "url": "https://open.spotify.com/track/5aeAvgaiXBJczcAaIjYhiJ"
+    },
+    {
+      "album": {
+        "name": "Princess (Special Edition)",
+        "url": "https://open.spotify.com/album/11QcXz9JWcss0vJmViaLqw"
+      },
+      "artists": [
+        {
+          "name": "Princess",
+          "url": "https://open.spotify.com/artist/3SOJzMmtT76sVGfic3AW8g"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 217920,
+      "name": "Say I'm Your No. 1",
+      "url": "https://open.spotify.com/track/1SlaWDU54ToxvNsMeG5fsL"
+    },
+    {
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/7yc9fcfa5WipBmMVWvn7YT"
+      },
+      "artists": [
+        {
+          "name": "Princess",
+          "url": "https://open.spotify.com/artist/3SOJzMmtT76sVGfic3AW8g"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218999,
+      "name": "Say I'm Your Number One",
+      "url": "https://open.spotify.com/track/3bwBiaAOl6a94K1ydasapL"
+    },
+    {
+      "album": {
+        "name": "Mis-Teeq",
+        "url": "https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ"
+      },
+      "artists": [
+        {
+          "name": "Mis-Teeq",
+          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Scandalous - U.S. Radio Edit",
+      "url": "https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw"
+    },
+    {
+      "album": {
+        "name": "Travelling Like The Light",
+        "url": "https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j"
+      },
+      "artists": [
+        {
+          "name": "V V Brown",
+          "url": "https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Shark In The Water",
+      "url": "https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/7qKewH1u14S6T6e0upzEHe"
+      },
+      "artists": [
+        {
+          "name": "Sinitta",
+          "url": "https://open.spotify.com/artist/1nUUfnmwd9mdpTPwMcM1hd"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203453,
+      "name": "So Macho",
+      "url": "https://open.spotify.com/track/5tcTjBBqntQ71gQv7FVvKm"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s"
+      },
+      "artists": [
+        {
+          "name": "Jamelia",
+          "url": "https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
+    },
+    {
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/5duhypwHOIf2z0yyY7KMHC"
+      },
+      "artists": [
+        {
+          "name": "Michelle Gayle",
+          "url": "https://open.spotify.com/artist/095aE5NoWPQE5pOYuNJXJD"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/7I4ZebhBMUIlGWGHUY07zZ"
+    },
+    {
+      "album": {
+        "name": "Pure Dance Party",
+        "url": "https://open.spotify.com/album/3EL2ErCCSwwvLn2J4ulwVo"
+      },
+      "artists": [
+        {
+          "name": "52nd Street",
+          "url": "https://open.spotify.com/artist/7a4D5e6sySH5RM0uac2PD0"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Tell Me (How It Feels)",
+      "url": "https://open.spotify.com/track/0urS8rTQU3v5FpJSqrr5w2"
+    },
+    {
+      "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/4cy6OagnTBK0HLRsjbsppk"
+      },
+      "artists": [
+        {
+          "name": "Dina Carroll",
+          "url": "https://open.spotify.com/artist/6G7PZ5QfWCPDMxTJ48vYwG"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "The Perfect Year",
+      "url": "https://open.spotify.com/track/6dmO17rC0ShPNXlTRtr8BF"
+    },
+    {
+      "album": {
+        "name": "The Weakness In Me",
+        "url": "https://open.spotify.com/album/0vzVii55WHHoS7NsqVtqkW"
+      },
+      "artists": [
+        {
+          "name": "Keisha White",
+          "url": "https://open.spotify.com/artist/2mmqVFK5tacUQOfldCNeaX"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "The Weakness In Me",
+      "url": "https://open.spotify.com/track/2vP0JcTiuYnzrBy45ACKBz"
+    },
+    {
+      "album": {
+        "name": "So Good (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xt0tiqmYhN7r7j04NVUmA"
+      },
+      "artists": [
+        {
+          "name": "Mica Paris",
+          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Where Is The Love - Radio Edit",
+      "url": "https://open.spotify.com/track/0u1tap43p5soZYAe60fkxX"
+    },
+    {
+      "album": {
+        "name": "I Ain't Movin'",
+        "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "You Gotta Be",
+      "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
+    },
+    {
+      "album": {
+        "name": "Much Love",
+        "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "date_added": "2019-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291120,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX673Mh4M9yQJ"
 }

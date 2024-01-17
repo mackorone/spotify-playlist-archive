@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 
 > Find your flow with a classical Indian soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,301 likes - 48 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,903 likes - 48 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCoIfIXcr8r.md) - [plain]
 | 10 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
 | 11 | [Pilu](https://open.spotify.com/track/0fhMfRX1cNa5YqjADO581I) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:52 |
 | 12 | [Raga Patdeep \- Alap](https://open.spotify.com/track/2LOwDjRTCEV72ijYjHSZlu) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 7:15 |
-| 13 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/4l1a546qA59Fq7Qse3wzgW) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
+| 13 | [Raga \- Brindavani](https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo) | [B\. Sivaramakrishna Rao](https://open.spotify.com/artist/6CgbREbxupEkAr0CqTHajh) | [Healing Ragas](https://open.spotify.com/album/68Ly5LFDwAmtMdEDmG1LUr) | 9:13 |
 | 14 | [Raag Dhani\-Alap](https://open.spotify.com/track/6b9iKoO6mgaeUwjZGSqdn8) | [Raghunath Seth](https://open.spotify.com/artist/3R3kXhcudwAwi9WXL0nIjg) | [Pandit Raghunath Seth](https://open.spotify.com/album/7gA8iaSNVBHXMloszROyi8) | 5:34 |
 | 15 | [Raga Purya Kalyan \- Alap](https://open.spotify.com/track/4eKiGJ1AZae3uF17Rxf3CI) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 3:42 |
 | 16 | [Raga Madhuvanti: Gat I\. Rupak Taal, Tihai \(Live\)](https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP) | [Pandit Dhruv Nath Mishra](https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu), [Ravi Tripathi](https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P) | [The Sounds of Varanasi](https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP) | 3:40 |

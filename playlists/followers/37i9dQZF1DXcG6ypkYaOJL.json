@@ -1,271 +1,379 @@
 {
-  "2023-04-07": 1027,
-  "2023-04-09": 1025,
-  "2023-04-10": 1026,
-  "2023-04-11": 1022,
-  "2023-04-12": 1022,
-  "2023-04-13": 1022,
-  "2023-04-14": 1020,
-  "2023-04-15": 1021,
-  "2023-04-16": 1020,
-  "2023-04-17": 1021,
-  "2023-04-18": 1020,
-  "2023-04-19": 1018,
-  "2023-04-20": 1020,
-  "2023-04-21": 1019,
-  "2023-04-22": 1020,
-  "2023-04-23": 1023,
-  "2023-04-24": 1024,
-  "2023-04-25": 1023,
-  "2023-04-26": 1022,
-  "2023-04-27": 1024,
-  "2023-04-28": 1026,
-  "2023-04-29": 1027,
-  "2023-04-30": 1026,
-  "2023-05-01": 1026,
-  "2023-05-02": 1028,
-  "2023-05-03": 1032,
-  "2023-05-04": 1032,
-  "2023-05-05": 1036,
-  "2023-05-06": 1038,
-  "2023-05-07": 1039,
-  "2023-05-08": 1041,
-  "2023-05-09": 1041,
-  "2023-05-10": 1041,
-  "2023-05-11": 1041,
-  "2023-05-12": 1040,
-  "2023-05-13": 1039,
-  "2023-05-14": 1041,
-  "2023-05-15": 1042,
-  "2023-05-16": 1042,
-  "2023-05-17": 1044,
-  "2023-05-18": 1045,
-  "2023-05-19": 1045,
-  "2023-05-20": 1044,
-  "2023-05-21": 1044,
-  "2023-05-22": 1044,
-  "2023-05-23": 1045,
-  "2023-05-24": 1045,
-  "2023-05-25": 1045,
-  "2023-05-26": 1047,
-  "2023-05-27": 1047,
-  "2023-05-28": 1049,
-  "2023-05-29": 1049,
-  "2023-05-30": 1048,
-  "2023-05-31": 1048,
-  "2023-06-01": 1048,
-  "2023-06-02": 1048,
-  "2023-06-03": 1047,
-  "2023-06-04": 1046,
-  "2023-06-05": 1045,
-  "2023-06-06": 1046,
-  "2023-06-07": 1047,
-  "2023-06-08": 1047,
-  "2023-06-09": 1047,
-  "2023-06-10": 1047,
-  "2023-06-11": 1048,
-  "2023-06-12": 1048,
-  "2023-06-13": 1047,
-  "2023-06-14": 1047,
-  "2023-06-15": 1048,
-  "2023-06-16": 1049,
-  "2023-06-17": 1048,
-  "2023-06-18": 1048,
-  "2023-06-19": 1048,
-  "2023-06-20": 1048,
-  "2023-06-21": 1048,
-  "2023-06-22": 1048,
-  "2023-06-23": 1048,
-  "2023-06-24": 1050,
-  "2023-06-25": 1050,
-  "2023-06-26": 1052,
-  "2023-06-27": 1053,
-  "2023-06-28": 1055,
-  "2023-06-29": 1055,
-  "2023-06-30": 1054,
-  "2023-07-01": 1055,
-  "2023-07-02": 1055,
-  "2023-07-03": 1057,
-  "2023-07-04": 1058,
-  "2023-07-05": 1058,
-  "2023-07-06": 1061,
-  "2023-07-07": 1061,
-  "2023-07-08": 1061,
-  "2023-07-09": 1061,
-  "2023-07-10": 1062,
-  "2023-07-11": 1062,
-  "2023-07-12": 1064,
-  "2023-07-13": 1064,
-  "2023-07-14": 1064,
-  "2023-07-15": 1064,
-  "2023-07-16": 1064,
-  "2023-07-17": 1066,
-  "2023-07-18": 1066,
-  "2023-07-19": 1066,
-  "2023-07-20": 1069,
-  "2023-07-21": 1067,
-  "2023-07-22": 1068,
-  "2023-07-23": 1068,
-  "2023-07-24": 1069,
-  "2023-07-25": 1068,
-  "2023-07-26": 1068,
-  "2023-07-27": 1068,
-  "2023-07-28": 1069,
-  "2023-07-29": 1069,
-  "2023-07-30": 1069,
-  "2023-07-31": 1070,
-  "2023-08-01": 1070,
-  "2023-08-02": 1071,
-  "2023-08-03": 1072,
-  "2023-08-04": 1073,
-  "2023-08-05": 1075,
-  "2023-08-06": 1075,
-  "2023-08-07": 1075,
-  "2023-08-08": 1074,
-  "2023-08-09": 1073,
-  "2023-08-10": 1074,
-  "2023-08-11": 1073,
-  "2023-08-12": 1073,
-  "2023-08-13": 1071,
-  "2023-08-14": 1072,
-  "2023-08-15": 1072,
-  "2023-08-16": 1072,
-  "2023-08-17": 1071,
-  "2023-08-18": 1073,
-  "2023-08-19": 1073,
-  "2023-08-20": 1072,
-  "2023-08-21": 1073,
-  "2023-08-22": 1074,
-  "2023-08-23": 1074,
-  "2023-08-24": 1074,
-  "2023-08-25": 1074,
-  "2023-08-26": 1074,
-  "2023-08-27": 1076,
-  "2023-08-28": 1076,
-  "2023-08-29": 1077,
-  "2023-08-30": 1077,
-  "2023-08-31": 1077,
-  "2023-09-01": 1076,
-  "2023-09-02": 1076,
-  "2023-09-03": 1075,
-  "2023-09-04": 1074,
-  "2023-09-05": 1074,
-  "2023-09-06": 1075,
-  "2023-09-07": 1075,
-  "2023-09-08": 1075,
-  "2023-09-09": 1075,
-  "2023-09-10": 1075,
-  "2023-09-11": 1076,
-  "2023-09-12": 1077,
-  "2023-09-13": 1079,
-  "2023-09-14": 1080,
-  "2023-09-15": 1079,
-  "2023-09-16": 1079,
-  "2023-09-17": 1079,
-  "2023-09-18": 1080,
-  "2023-09-19": 1080,
-  "2023-09-20": 1080,
-  "2023-09-21": 1080,
-  "2023-09-22": 1080,
-  "2023-09-23": 1080,
-  "2023-09-24": 1080,
-  "2023-09-25": 1080,
-  "2023-09-26": 1081,
-  "2023-09-27": 1082,
-  "2023-09-28": 1081,
-  "2023-09-29": 1081,
-  "2023-09-30": 1081,
-  "2023-10-01": 1081,
-  "2023-10-02": 1081,
-  "2023-10-03": 1081,
-  "2023-10-04": 1081,
-  "2023-10-05": 1082,
-  "2023-10-06": 1083,
-  "2023-10-07": 1082,
-  "2023-10-08": 1082,
-  "2023-10-09": 1082,
-  "2023-10-10": 1082,
-  "2023-10-11": 1085,
-  "2023-10-12": 1085,
-  "2023-10-13": 1084,
-  "2023-10-14": 1084,
-  "2023-10-15": 1084,
-  "2023-10-16": 1084,
-  "2023-10-17": 1084,
-  "2023-10-18": 1084,
-  "2023-10-19": 1084,
-  "2023-10-20": 1084,
-  "2023-10-21": 1084,
-  "2023-10-22": 1084,
-  "2023-10-23": 1084,
-  "2023-10-24": 1089,
-  "2023-10-25": 1089,
-  "2023-10-26": 1089,
-  "2023-10-27": 1089,
-  "2023-10-28": 1089,
-  "2023-10-29": 1089,
-  "2023-10-30": 1089,
-  "2023-10-31": 1089,
-  "2023-11-01": 1089,
-  "2023-11-02": 1089,
-  "2023-11-03": 1089,
-  "2023-11-04": 1089,
-  "2023-11-05": 1089,
-  "2023-11-06": 1089,
-  "2023-11-07": 1089,
-  "2023-11-08": 1089,
-  "2023-11-09": 1089,
-  "2023-11-10": 1089,
-  "2023-11-11": 1093,
-  "2023-11-12": 1093,
-  "2023-11-13": 1093,
-  "2023-11-14": 1093,
-  "2023-11-15": 1093,
-  "2023-11-16": 1093,
-  "2023-11-17": 1094,
-  "2023-11-18": 1094,
-  "2023-11-19": 1094,
-  "2023-11-20": 1094,
-  "2023-11-21": 1094,
-  "2023-11-22": 1094,
-  "2023-11-23": 1096,
-  "2023-11-24": 1096,
-  "2023-11-25": 1096,
-  "2023-11-26": 1096,
-  "2023-11-27": 1096,
-  "2023-11-28": 1096,
-  "2023-11-29": 1096,
-  "2023-11-30": 1096,
-  "2023-12-01": 1096,
-  "2023-12-02": 1096,
-  "2023-12-03": 1096,
-  "2023-12-04": 1096,
-  "2023-12-05": 1096,
-  "2023-12-06": 1096,
-  "2023-12-07": 1096,
-  "2023-12-08": 1096,
-  "2023-12-09": 1089,
-  "2023-12-10": 1089,
-  "2023-12-11": 1089,
-  "2023-12-12": 1089,
-  "2023-12-13": 1089,
-  "2023-12-14": 1090,
-  "2023-12-15": 1089,
-  "2023-12-16": 1088,
-  "2023-12-17": 1088,
-  "2023-12-18": 1088,
-  "2023-12-19": 1088,
-  "2023-12-20": 1088,
-  "2023-12-21": 1088,
-  "2023-12-22": 1087,
-  "2023-12-23": 1087,
-  "2023-12-24": 1089,
-  "2023-12-25": 1090,
-  "2023-12-26": 1091,
-  "2023-12-27": 1090,
-  "2023-12-30": 1089,
-  "2023-12-31": 1090,
-  "2024-01-01": 1091,
-  "2024-01-02": 1091,
-  "2024-01-03": 1094
+  "2024-01-17": 1096,
+  "date_first_scraped": "2023-04-07",
+  "description": "Aqu\u00ed est\u00e1 la m\u00fasica de Fan\u00e1tico, la serie de Netflix.",
+  "name": "Fan\u00e1tico Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "2 Tazas",
+        "url": "https://open.spotify.com/album/3jKKAyfNLtXtvtXA1U2zZR"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        },
+        {
+          "name": "Selecta",
+          "url": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "2 Tazas",
+      "url": "https://open.spotify.com/track/5jhneiExEcWzyPCujPzcVC"
+    },
+    {
+      "album": {
+        "name": "Lxrdszn",
+        "url": "https://open.spotify.com/album/77esJILHiTRAXl6yGgR4kW"
+      },
+      "artists": [
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121913,
+      "name": "6 Feet",
+      "url": "https://open.spotify.com/track/78EDmwVdZzp6vTl3hVWzpW"
+    },
+    {
+      "album": {
+        "name": "Soul Waste",
+        "url": "https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130160,
+      "name": "Atlantis Riddim",
+      "url": "https://open.spotify.com/track/0hdOZXtse8WYVsA1Ok3ZWl"
+    },
+    {
+      "album": {
+        "name": "La Bestia del Mambo",
+        "url": "https://open.spotify.com/album/5PuKGQ9McNFLRfhhabJswb"
+      },
+      "artists": [
+        {
+          "name": "Cecilio G.",
+          "url": "https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p"
+        },
+        {
+          "name": "Suave44",
+          "url": "https://open.spotify.com/artist/5So0IFTgcHDIyVeNULCMHj"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Bakanito",
+      "url": "https://open.spotify.com/track/6xTMhmL2FyKGXsvIs4rmrM"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1FQLRnxq23RxwAwMep1D7k"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139969,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/50YftjE8Tj1Iy3rrboBwcd"
+    },
+    {
+      "album": {
+        "name": "Diablos",
+        "url": "https://open.spotify.com/album/0k79I6niA0AMFCEuLw8pJ9"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178451,
+      "name": "Diablos",
+      "url": "https://open.spotify.com/track/7oILlqkIKl0mNBN4k8eaSG"
+    },
+    {
+      "album": {
+        "name": "DO RE MI",
+        "url": "https://open.spotify.com/album/3OWOr8BSPtkYVNOm5ID5a2"
+      },
+      "artists": [
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Blackthoven",
+          "url": "https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "DO RE MI",
+      "url": "https://open.spotify.com/track/4FGilCQ82RQkus5jy6Gf6X"
+    },
+    {
+      "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429453,
+      "name": "Drone Logic",
+      "url": "https://open.spotify.com/track/7JRN5xOUIrnI4crUMOt6X4"
+    },
+    {
+      "album": {
+        "name": "The Prettiest Curse",
+        "url": "https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Good Bad Times",
+      "url": "https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3"
+    },
+    {
+      "album": {
+        "name": "Hazmelo otra vez",
+        "url": "https://open.spotify.com/album/5ASfNk4fX8qHojJZ3zaUdT"
+      },
+      "artists": [
+        {
+          "name": "BEA PELEA",
+          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129724,
+      "name": "Hazmelo otra vez",
+      "url": "https://open.spotify.com/track/5jiY8WuRWiTkqxx9BuarTQ"
+    },
+    {
+      "album": {
+        "name": "No Quiero Tu Respeto",
+        "url": "https://open.spotify.com/album/5idgk0UouCDDB1MIHYMvcr"
+      },
+      "artists": [
+        {
+          "name": "Sander Wazz",
+          "url": "https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199461,
+      "name": "No Quiero Tu Respeto",
+      "url": "https://open.spotify.com/track/3uaWc9gGGgh4fsW6yNQZt0"
+    },
+    {
+      "album": {
+        "name": "Alcohol & Sullivans",
+        "url": "https://open.spotify.com/album/0ttHxWekHBnNNzjPsyXS86"
+      },
+      "artists": [
+        {
+          "name": "Albany",
+          "url": "https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu"
+        },
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172139,
+      "name": "Para Que No Duela",
+      "url": "https://open.spotify.com/track/2CX2vf8md18bXf53T6whla"
+    },
+    {
+      "album": {
+        "name": "Symbiotic Nature",
+        "url": "https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359083,
+      "name": "Potentiality",
+      "url": "https://open.spotify.com/track/1XK9810nNo2ligSulxlgEV"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Hice",
+        "url": "https://open.spotify.com/album/6ElCUYN1fgyyLhmaMUi3uW"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142608,
+      "name": "Qu\u00e9 Hice",
+      "url": "https://open.spotify.com/track/51YZsnWXxpQCE6VYwTBTFz"
+    },
+    {
+      "album": {
+        "name": "Rebeli\u00f3n",
+        "url": "https://open.spotify.com/album/2DIAML1x1kCKNRJGtAGFDP"
+      },
+      "artists": [
+        {
+          "name": "Quimera",
+          "url": "https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177290,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3jM59UshXAZ94eRYLTL016"
+    },
+    {
+      "album": {
+        "name": "Urano",
+        "url": "https://open.spotify.com/album/1yIfCDdjG79SmvZJGoZfWp"
+      },
+      "artists": [
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "DJ Stuart",
+          "url": "https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136276,
+      "name": "Urano",
+      "url": "https://open.spotify.com/track/3Lsx8At5mPvKvKoztNlgvy"
+    },
+    {
+      "album": {
+        "name": "WALO",
+        "url": "https://open.spotify.com/album/0cIKUd5egRKBNIKl4GZouU"
+      },
+      "artists": [
+        {
+          "name": "Ounacer98",
+          "url": "https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229087,
+      "name": "WALO",
+      "url": "https://open.spotify.com/track/2kO739EXBh5TRXImLK4kss"
+    },
+    {
+      "album": {
+        "name": "WALO",
+        "url": "https://open.spotify.com/album/1rj3PKD2lsNk1E5sdBHa46"
+      },
+      "artists": [
+        {
+          "name": "Ounacer98",
+          "url": "https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 229087,
+      "name": "WALO",
+      "url": "https://open.spotify.com/track/65v0r10DBGY5C0Z4pjHmI2"
+    },
+    {
+      "album": {
+        "name": "WTF Is In My Cup",
+        "url": "https://open.spotify.com/album/64sTPt8sHRwmqpTq63jmEV"
+      },
+      "artists": [
+        {
+          "name": "Chico Blanco",
+          "url": "https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "WTF Is In My Cup",
+      "url": "https://open.spotify.com/track/66HxHtqsgk2NgVQRqEgxyb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcG6ypkYaOJL"
 }

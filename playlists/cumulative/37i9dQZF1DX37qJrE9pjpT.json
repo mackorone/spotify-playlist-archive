@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Hunijui Sikujui",
+        "url": "https://open.spotify.com/album/7CRbdwo59LDjoNLoSY0b7q"
+      },
+      "artists": [
+        {
+          "name": "Kuzza",
+          "url": "https://open.spotify.com/artist/7tOxbymZOkLDENg5qGT3Qm"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199267,
+      "name": "Hunijui Sikujui",
+      "url": "https://open.spotify.com/track/0Gip2yqJKKsyRoBvS32QK6"
+    },
+    {
+      "album": {
         "name": "I Don't Give A Damn",
         "url": "https://open.spotify.com/album/6oNhNQoA1vDnVmRhm211hp"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 273027,
       "name": "Juu",
       "url": "https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq"
@@ -1170,6 +1188,28 @@
       "duration_ms": 200411,
       "name": "Kick-Off",
       "url": "https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe"
+    },
+    {
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2jQWR4nSimQI9z66Kewo36"
+      },
+      "artists": [
+        {
+          "name": "Amateur Lover",
+          "url": "https://open.spotify.com/artist/1ZE4UK7ZSltKHeiEBzxYiR"
+        },
+        {
+          "name": "Mikantony",
+          "url": "https://open.spotify.com/artist/0vRvoHjOMoUkKDlq5hSjIj"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126989,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/1UA1t90MOXTnFZk3WwnkqU"
     },
     {
       "album": {
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213913,
       "name": "Sio Kwa Ubaya",
       "url": "https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih"

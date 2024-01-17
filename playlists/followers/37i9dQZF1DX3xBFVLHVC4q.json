@@ -1,512 +1,1505 @@
 {
-  "2022-08-06": 48482,
-  "2022-08-07": 48486,
-  "2022-08-08": 48506,
-  "2022-08-09": 48522,
-  "2022-08-10": 48534,
-  "2022-08-11": 48553,
-  "2022-08-12": 48566,
-  "2022-08-13": 48588,
-  "2022-08-14": 48618,
-  "2022-08-15": 48630,
-  "2022-08-16": 48663,
-  "2022-08-17": 48679,
-  "2022-08-18": 48690,
-  "2022-08-19": 48704,
-  "2022-08-20": 48707,
-  "2022-08-21": 48727,
-  "2022-08-22": 48745,
-  "2022-08-23": 48749,
-  "2022-08-24": 48763,
-  "2022-08-25": 48776,
-  "2022-08-26": 48780,
-  "2022-08-27": 48791,
-  "2022-08-28": 48798,
-  "2022-08-29": 48806,
-  "2022-08-30": 48802,
-  "2022-08-31": 48772,
-  "2022-09-01": 48729,
-  "2022-09-02": 48685,
-  "2022-09-03": 48692,
-  "2022-09-04": 48576,
-  "2022-09-05": 48583,
-  "2022-09-06": 48591,
-  "2022-09-07": 48606,
-  "2022-09-09": 48640,
-  "2022-09-10": 48641,
-  "2022-09-11": 48650,
-  "2022-09-12": 48670,
-  "2022-09-13": 48678,
-  "2022-09-15": 48702,
-  "2022-09-16": 48703,
-  "2022-09-17": 48713,
-  "2022-09-18": 48733,
-  "2022-09-19": 48742,
-  "2022-09-20": 48751,
-  "2022-09-21": 48765,
-  "2022-09-22": 48781,
-  "2022-09-23": 48780,
-  "2022-09-24": 48796,
-  "2022-09-25": 48815,
-  "2022-09-26": 48830,
-  "2022-09-27": 48832,
-  "2022-09-28": 48853,
-  "2022-09-29": 48864,
-  "2022-09-30": 48874,
-  "2022-10-01": 48891,
-  "2022-10-02": 48905,
-  "2022-10-03": 48914,
-  "2022-10-04": 48920,
-  "2022-10-05": 48922,
-  "2022-10-06": 48949,
-  "2022-10-07": 48966,
-  "2022-10-08": 48983,
-  "2022-10-09": 48997,
-  "2022-10-10": 49000,
-  "2022-10-11": 49008,
-  "2022-10-12": 49020,
-  "2022-10-13": 49030,
-  "2022-10-14": 49041,
-  "2022-10-15": 49051,
-  "2022-10-16": 49063,
-  "2022-10-17": 49068,
-  "2022-10-18": 49074,
-  "2022-10-19": 49086,
-  "2022-10-20": 49118,
-  "2022-10-21": 49148,
-  "2022-10-22": 49161,
-  "2022-10-23": 49170,
-  "2022-10-24": 49182,
-  "2022-10-25": 49204,
-  "2022-10-26": 49214,
-  "2022-10-27": 49211,
-  "2022-10-28": 49225,
-  "2022-10-29": 49242,
-  "2022-10-30": 49252,
-  "2022-10-31": 49260,
-  "2022-11-01": 49262,
-  "2022-11-02": 49269,
-  "2022-11-03": 49278,
-  "2022-11-04": 49288,
-  "2022-11-05": 49295,
-  "2022-11-06": 49301,
-  "2022-11-07": 49312,
-  "2022-11-08": 49331,
-  "2022-11-09": 49334,
-  "2022-11-10": 49345,
-  "2022-11-11": 49351,
-  "2022-11-12": 49377,
-  "2022-11-13": 49390,
-  "2022-11-14": 49410,
-  "2022-11-15": 49418,
-  "2022-11-16": 49437,
-  "2022-11-17": 49449,
-  "2022-11-18": 49457,
-  "2022-11-19": 49448,
-  "2022-11-20": 49461,
-  "2022-11-21": 49452,
-  "2022-11-22": 49478,
-  "2022-11-23": 49468,
-  "2022-11-24": 49515,
-  "2022-11-25": 49543,
-  "2022-11-26": 49560,
-  "2022-11-27": 49573,
-  "2022-11-28": 49579,
-  "2022-11-29": 49594,
-  "2022-11-30": 49602,
-  "2022-12-01": 49620,
-  "2022-12-02": 49641,
-  "2022-12-03": 49662,
-  "2022-12-04": 49672,
-  "2022-12-05": 49682,
-  "2022-12-06": 49695,
-  "2022-12-07": 49713,
-  "2022-12-08": 49722,
-  "2022-12-09": 49749,
-  "2022-12-10": 49765,
-  "2022-12-11": 49779,
-  "2022-12-12": 49795,
-  "2022-12-13": 49810,
-  "2022-12-14": 49818,
-  "2022-12-15": 49836,
-  "2022-12-16": 49837,
-  "2022-12-17": 49859,
-  "2022-12-18": 49877,
-  "2022-12-19": 49887,
-  "2022-12-20": 49924,
-  "2022-12-21": 49924,
-  "2022-12-22": 49938,
-  "2022-12-24": 49962,
-  "2022-12-25": 49983,
-  "2022-12-26": 49997,
-  "2022-12-27": 50008,
-  "2022-12-28": 50023,
-  "2022-12-29": 50037,
-  "2022-12-30": 50042,
-  "2022-12-31": 50050,
-  "2023-01-01": 50057,
-  "2023-01-02": 50070,
-  "2023-01-03": 50082,
-  "2023-01-04": 50094,
-  "2023-01-05": 50116,
-  "2023-01-06": 50133,
-  "2023-01-07": 50148,
-  "2023-01-08": 50152,
-  "2023-01-09": 50164,
-  "2023-01-10": 50174,
-  "2023-01-11": 50178,
-  "2023-01-12": 50189,
-  "2023-01-13": 50204,
-  "2023-01-14": 50241,
-  "2023-01-15": 50244,
-  "2023-01-16": 50263,
-  "2023-01-17": 50267,
-  "2023-01-18": 50280,
-  "2023-01-19": 50287,
-  "2023-01-20": 50305,
-  "2023-01-21": 50312,
-  "2023-01-22": 50331,
-  "2023-01-23": 50345,
-  "2023-01-24": 50354,
-  "2023-01-25": 50360,
-  "2023-01-26": 50375,
-  "2023-01-27": 50387,
-  "2023-01-28": 50400,
-  "2023-01-29": 50408,
-  "2023-01-30": 50420,
-  "2023-01-31": 50420,
-  "2023-02-01": 50446,
-  "2023-02-02": 50457,
-  "2023-02-03": 50467,
-  "2023-02-04": 50501,
-  "2023-02-05": 50517,
-  "2023-02-06": 50524,
-  "2023-02-07": 50539,
-  "2023-02-08": 50558,
-  "2023-02-09": 50558,
-  "2023-02-10": 50576,
-  "2023-02-11": 50581,
-  "2023-02-12": 50601,
-  "2023-02-13": 50605,
-  "2023-02-14": 50605,
-  "2023-02-15": 50619,
-  "2023-02-16": 50646,
-  "2023-02-17": 50665,
-  "2023-02-18": 50695,
-  "2023-02-19": 50693,
-  "2023-02-20": 50700,
-  "2023-02-21": 50730,
-  "2023-02-22": 50748,
-  "2023-02-23": 50777,
-  "2023-02-24": 50780,
-  "2023-02-25": 50799,
-  "2023-02-26": 50810,
-  "2023-02-27": 50831,
-  "2023-02-28": 50831,
-  "2023-03-01": 50840,
-  "2023-03-02": 50846,
-  "2023-03-03": 50858,
-  "2023-03-04": 50862,
-  "2023-03-05": 50875,
-  "2023-03-06": 50875,
-  "2023-03-07": 50883,
-  "2023-03-08": 50885,
-  "2023-03-09": 50892,
-  "2023-03-10": 50900,
-  "2023-03-11": 50912,
-  "2023-03-12": 50926,
-  "2023-03-13": 50940,
-  "2023-03-14": 50950,
-  "2023-03-15": 50979,
-  "2023-03-16": 50988,
-  "2023-03-17": 50988,
-  "2023-03-18": 51017,
-  "2023-03-19": 51032,
-  "2023-03-20": 51046,
-  "2023-03-21": 51051,
-  "2023-03-22": 51058,
-  "2023-03-23": 51075,
-  "2023-03-24": 51075,
-  "2023-03-25": 51123,
-  "2023-03-26": 51134,
-  "2023-03-27": 51145,
-  "2023-03-28": 51162,
-  "2023-03-29": 51185,
-  "2023-03-30": 51195,
-  "2023-03-31": 51195,
-  "2023-04-01": 51217,
-  "2023-04-02": 51230,
-  "2023-04-03": 51250,
-  "2023-04-04": 51258,
-  "2023-04-05": 51286,
-  "2023-04-06": 51306,
-  "2023-04-07": 51315,
-  "2023-04-09": 51352,
-  "2023-04-10": 51374,
-  "2023-04-11": 51410,
-  "2023-04-12": 51410,
-  "2023-04-13": 51420,
-  "2023-04-14": 51437,
-  "2023-04-15": 51445,
-  "2023-04-16": 51453,
-  "2023-04-17": 51463,
-  "2023-04-18": 51498,
-  "2023-04-19": 51512,
-  "2023-04-20": 51529,
-  "2023-04-21": 51537,
-  "2023-04-22": 51558,
-  "2023-04-23": 51569,
-  "2023-04-24": 51583,
-  "2023-04-25": 51598,
-  "2023-04-26": 51621,
-  "2023-04-27": 51640,
-  "2023-04-28": 51671,
-  "2023-04-29": 51687,
-  "2023-04-30": 51705,
-  "2023-05-01": 51716,
-  "2023-05-02": 51737,
-  "2023-05-03": 51758,
-  "2023-05-04": 51775,
-  "2023-05-05": 51799,
-  "2023-05-06": 51811,
-  "2023-05-07": 51827,
-  "2023-05-08": 51835,
-  "2023-05-09": 51849,
-  "2023-05-10": 51863,
-  "2023-05-11": 51877,
-  "2023-05-12": 51897,
-  "2023-05-13": 51900,
-  "2023-05-14": 51908,
-  "2023-05-15": 51919,
-  "2023-05-16": 51927,
-  "2023-05-17": 51942,
-  "2023-05-18": 51965,
-  "2023-05-19": 51983,
-  "2023-05-20": 52013,
-  "2023-05-21": 52013,
-  "2023-05-22": 52013,
-  "2023-05-23": 52047,
-  "2023-05-24": 52065,
-  "2023-05-25": 52069,
-  "2023-05-26": 52084,
-  "2023-05-27": 52107,
-  "2023-05-28": 52113,
-  "2023-05-29": 52113,
-  "2023-05-30": 52130,
-  "2023-05-31": 52141,
-  "2023-06-01": 52149,
-  "2023-06-02": 52159,
-  "2023-06-03": 52171,
-  "2023-06-04": 52189,
-  "2023-06-05": 52208,
-  "2023-06-06": 52224,
-  "2023-06-07": 52237,
-  "2023-06-08": 52251,
-  "2023-06-09": 52261,
-  "2023-06-10": 52277,
-  "2023-06-11": 52282,
-  "2023-06-12": 52293,
-  "2023-06-13": 52301,
-  "2023-06-14": 52312,
-  "2023-06-15": 52330,
-  "2023-06-16": 52338,
-  "2023-06-17": 52359,
-  "2023-06-18": 52367,
-  "2023-06-19": 52378,
-  "2023-06-20": 52385,
-  "2023-06-21": 52393,
-  "2023-06-22": 52406,
-  "2023-06-23": 52418,
-  "2023-06-24": 52427,
-  "2023-06-25": 52434,
-  "2023-06-26": 52451,
-  "2023-06-27": 52468,
-  "2023-06-28": 52486,
-  "2023-06-29": 52494,
-  "2023-06-30": 52504,
-  "2023-07-01": 52534,
-  "2023-07-02": 52534,
-  "2023-07-03": 52546,
-  "2023-07-04": 52559,
-  "2023-07-05": 52583,
-  "2023-07-06": 52630,
-  "2023-07-07": 52630,
-  "2023-07-08": 52642,
-  "2023-07-09": 52653,
-  "2023-07-10": 52653,
-  "2023-07-11": 52663,
-  "2023-07-12": 52679,
-  "2023-07-13": 52702,
-  "2023-07-14": 52721,
-  "2023-07-15": 52724,
-  "2023-07-16": 52752,
-  "2023-07-17": 52768,
-  "2023-07-18": 52776,
-  "2023-07-19": 52790,
-  "2023-07-20": 52800,
-  "2023-07-21": 52813,
-  "2023-07-22": 52833,
-  "2023-07-23": 52847,
-  "2023-07-24": 52851,
-  "2023-07-25": 52857,
-  "2023-07-26": 52865,
-  "2023-07-27": 52878,
-  "2023-07-28": 52883,
-  "2023-07-29": 52900,
-  "2023-07-30": 52912,
-  "2023-07-31": 52929,
-  "2023-08-01": 52945,
-  "2023-08-02": 52946,
-  "2023-08-03": 52953,
-  "2023-08-04": 52969,
-  "2023-08-05": 52979,
-  "2023-08-06": 52997,
-  "2023-08-07": 52997,
-  "2023-08-08": 53004,
-  "2023-08-09": 53027,
-  "2023-08-10": 53042,
-  "2023-08-11": 53058,
-  "2023-08-12": 53067,
-  "2023-08-13": 53077,
-  "2023-08-14": 53093,
-  "2023-08-15": 53104,
-  "2023-08-16": 53104,
-  "2023-08-17": 53111,
-  "2023-08-18": 53121,
-  "2023-08-19": 53130,
-  "2023-08-20": 53140,
-  "2023-08-21": 53148,
-  "2023-08-22": 53161,
-  "2023-08-23": 53175,
-  "2023-08-24": 53189,
-  "2023-08-25": 53197,
-  "2023-08-26": 53206,
-  "2023-08-27": 53220,
-  "2023-08-28": 53231,
-  "2023-08-29": 53243,
-  "2023-08-30": 53250,
-  "2023-08-31": 53257,
-  "2023-09-01": 53264,
-  "2023-09-02": 53264,
-  "2023-09-03": 53261,
-  "2023-09-04": 53270,
-  "2023-09-05": 53272,
-  "2023-09-06": 53283,
-  "2023-09-07": 53293,
-  "2023-09-08": 53297,
-  "2023-09-09": 53304,
-  "2023-09-10": 53307,
-  "2023-09-11": 53315,
-  "2023-09-12": 53326,
-  "2023-09-13": 53331,
-  "2023-09-14": 53336,
-  "2023-09-15": 53351,
-  "2023-09-16": 53357,
-  "2023-09-17": 53365,
-  "2023-09-18": 53365,
-  "2023-09-19": 53375,
-  "2023-09-20": 53380,
-  "2023-09-21": 53390,
-  "2023-09-22": 53401,
-  "2023-09-23": 53401,
-  "2023-09-24": 53413,
-  "2023-09-25": 53419,
-  "2023-09-26": 53427,
-  "2023-09-27": 53438,
-  "2023-09-28": 53446,
-  "2023-09-29": 53451,
-  "2023-09-30": 53460,
-  "2023-10-01": 53475,
-  "2023-10-02": 53490,
-  "2023-10-03": 53491,
-  "2023-10-04": 53498,
-  "2023-10-05": 53510,
-  "2023-10-06": 53517,
-  "2023-10-07": 53528,
-  "2023-10-08": 53538,
-  "2023-10-09": 53554,
-  "2023-10-10": 53523,
-  "2023-10-11": 53502,
-  "2023-10-12": 53502,
-  "2023-10-13": 53482,
-  "2023-10-14": 53461,
-  "2023-10-15": 53473,
-  "2023-10-16": 53471,
-  "2023-10-17": 53482,
-  "2023-10-18": 53490,
-  "2023-10-19": 53498,
-  "2023-10-20": 53505,
-  "2023-10-21": 53514,
-  "2023-10-22": 53515,
-  "2023-10-23": 53523,
-  "2023-10-24": 53536,
-  "2023-10-25": 53545,
-  "2023-10-26": 53553,
-  "2023-10-27": 53553,
-  "2023-10-28": 53560,
-  "2023-10-29": 53577,
-  "2023-10-30": 53590,
-  "2023-10-31": 53590,
-  "2023-11-01": 53596,
-  "2023-11-02": 53599,
-  "2023-11-03": 53600,
-  "2023-11-04": 53602,
-  "2023-11-05": 53614,
-  "2023-11-06": 53617,
-  "2023-11-07": 53625,
-  "2023-11-08": 53635,
-  "2023-11-09": 53648,
-  "2023-11-10": 53648,
-  "2023-11-11": 53652,
-  "2023-11-12": 53657,
-  "2023-11-13": 53664,
-  "2023-11-14": 53668,
-  "2023-11-15": 53668,
-  "2023-11-16": 53688,
-  "2023-11-17": 53700,
-  "2023-11-18": 53700,
-  "2023-11-19": 53706,
-  "2023-11-20": 53713,
-  "2023-11-21": 53721,
-  "2023-11-22": 53729,
-  "2023-11-23": 53737,
-  "2023-11-24": 53740,
-  "2023-11-25": 53745,
-  "2023-11-26": 53762,
-  "2023-11-27": 53770,
-  "2023-11-28": 53789,
-  "2023-11-29": 53792,
-  "2023-11-30": 53792,
-  "2023-12-01": 53798,
-  "2023-12-02": 53804,
-  "2023-12-03": 53816,
-  "2023-12-04": 53830,
-  "2023-12-05": 53839,
-  "2023-12-06": 53854,
-  "2023-12-07": 53874,
-  "2023-12-08": 53889,
-  "2023-12-09": 53909,
-  "2023-12-10": 53917,
-  "2023-12-11": 53951,
-  "2023-12-12": 53967,
-  "2023-12-13": 53986,
-  "2023-12-14": 54021,
-  "2023-12-15": 54035,
-  "2023-12-16": 54048,
-  "2023-12-17": 54066,
-  "2023-12-18": 54081,
-  "2023-12-19": 54089,
-  "2023-12-20": 54092,
-  "2023-12-21": 54096,
-  "2023-12-22": 54105,
-  "2023-12-23": 54123,
-  "2023-12-24": 54125,
-  "2023-12-25": 54135,
-  "2023-12-26": 54145,
-  "2023-12-27": 54149,
-  "2023-12-30": 54176,
-  "2023-12-31": 54185,
-  "2024-01-01": 54189,
-  "2024-01-02": 54193,
-  "2024-01-03": 54197
+  "2024-01-17": 54167,
+  "date_first_scraped": "2022-08-06",
+  "description": "Music from \"Love Live! Sunshine!!\" /Aqours\u306e\u300c\u307f\u3093\u306a\u3067\u53f6\u3048\u308b\u7269\u8a9e\u300d\u3092\u5f69\u3063\u3066\u304d\u305f\u540d\u66f2\u306e\u6570\u3005\u304c\u3053\u3053\u306b\u3002\u25b6\ufe0e\u300cLove Live\uff01\u300d<a href=\"spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF\">Here</a> \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
+  "name": "Love Live! Sunshine!! -\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
+  "tracks": [
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Ruby",
+        "url": "https://open.spotify.com/album/3SBDAPMnWbt2amyheZB4dc"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b) from Aqours",
+          "url": "https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 353093,
+      "name": "1STAR",
+      "url": "https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU"
+    },
+    {
+      "album": {
+        "name": "Amazing Travel DNA",
+        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "Amazing Travel DNA",
+      "url": "https://open.spotify.com/track/6b5SwxLObqfrx9ewIU3UWU"
+    },
+    {
+      "album": {
+        "name": "Awaken the power",
+        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
+      },
+      "artists": [
+        {
+          "name": "Saint Aqours Snow",
+          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296786,
+      "name": "Awaken the power",
+      "url": "https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO"
+    },
+    {
+      "album": {
+        "name": "BANZAI! digital trippers (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 291625,
+      "name": "BANZAI! digital trippers (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4UUh7EUY4xOCoay7iZQNv1"
+    },
+    {
+      "album": {
+        "name": "Believe again/Brightest Melody/Over The Next Rainbow",
+        "url": "https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "Believe again",
+      "url": "https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat"
+    },
+    {
+      "album": {
+        "name": "Braveheart Coaster",
+        "url": "https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-12",
+      "duration_ms": 266093,
+      "name": "Braveheart Coaster",
+      "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 275173,
+      "name": "Daydream Warrior",
+      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
+    },
+    {
+      "album": {
+        "name": "Dazzling White Town",
+        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262680,
+      "name": "Dazzling White Town",
+      "url": "https://open.spotify.com/track/211qJsL5CTxWKFaYwHQRpo"
+    },
+    {
+      "album": {
+        "name": "Awaken the power",
+        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236853,
+      "name": "DROPOUT!?",
+      "url": "https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg"
+    },
+    {
+      "album": {
+        "name": "GALAXY HidE and SeeK",
+        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260838,
+      "name": "GALAXY HidE and SeeK",
+      "url": "https://open.spotify.com/track/4hpJT2KzDvOqjaeXrVsaMP"
+    },
+    {
+      "album": {
+        "name": "Strawberry Trapper",
+        "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "Guilty Night, Guilty Kiss!",
+      "url": "https://open.spotify.com/track/7LZRj9JzVDBrwV0Uxtjnba"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "G\u7dda\u4e0a\u306e\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6"
+    },
+    {
+      "album": {
+        "name": "HAPPY PARTY TRAIN",
+        "url": "https://open.spotify.com/album/6zH0oHuUABxdehCjSfNEVF"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 277360,
+      "name": "HAPPY PARTY TRAIN",
+      "url": "https://open.spotify.com/track/4juoJEZlwHSbIcD1W5Bdem"
+    },
+    {
+      "album": {
+        "name": "Ijigen BIGBANG",
+        "url": "https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH"
+      },
+      "artists": [
+        {
+          "name": "Uzuki Shimamura (CV: Ayaka Ohashi)",
+          "url": "https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        },
+        {
+          "name": "KOGANE TSUKIOKA (CV: Karin Isobe)",
+          "url": "https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1"
+        },
+        {
+          "name": "Chika Takami (CV: Anju Inami)",
+          "url": "https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5"
+        },
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        },
+        {
+          "name": "Kanon Shibuya (CV: Sayuri Date)",
+          "url": "https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR"
+        },
+        {
+          "name": "Kaho Hinoshita (CV: Nozomi Nirei)",
+          "url": "https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "Ijigen BIGBANG",
+      "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
+    },
+    {
+      "album": {
+        "name": "GALAXY HidE and SeeK",
+        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224773,
+      "name": "INNOCENT BIRD",
+      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
+    },
+    {
+      "album": {
+        "name": "BANZAI! digital trippers (feat. \u521d\u97f3\u30df\u30af)",
+        "url": "https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-18",
+      "duration_ms": 200799,
+      "name": "KA-GA-YA-KI-RA-RI-RA (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y"
+    },
+    {
+      "album": {
+        "name": "Dazzling White Town",
+        "url": "https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Lonely Snow Planet",
+      "url": "https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Second Solo Concert Album \uff5eTHE STORY OF FEATHER\uff5e starring Ohara Mari",
+        "url": "https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948) from Aqours",
+          "url": "https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 310373,
+      "name": "Love is all, I sing love is all!",
+      "url": "https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF"
+    },
+    {
+      "album": {
+        "name": "smile smile ship Start!",
+        "url": "https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u306e\u661f\u4ea4\u97ff\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/4GYeRiLpnmst5hKbKxeoBE"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 210666,
+      "name": "Main theme of Aqours 5th anniversary!!",
+      "url": "https://open.spotify.com/track/3edVZvuk2Rm6YvbJpAyfki"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
+        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 237693,
+      "name": "Main theme of Lovelive! Sunshine!!",
+      "url": "https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296840,
+      "name": "Misty Frosty Love",
+      "url": "https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq"
+    },
+    {
+      "album": {
+        "name": "MY\u821e\u2606TONIGHT/MIRACLE WAVE",
+        "url": "https://open.spotify.com/album/3jSoK36oKfUXX7jvacGe2Z"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265040,
+      "name": "MY\u821e\u2606TONIGHT",
+      "url": "https://open.spotify.com/track/0ldfDof0ijqXrfmbJmUpvo"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
+        "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
+          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 234746,
+      "name": "Never giving up!",
+      "url": "https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92"
+    },
+    {
+      "album": {
+        "name": "New Romantic Sailors",
+        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282866,
+      "name": "New Romantic Sailors",
+      "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
+        "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
+          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "One More Sunshine Story",
+      "url": "https://open.spotify.com/track/7h73Xkk2JqVV2bMo0P7x06"
+    },
+    {
+      "album": {
+        "name": "Believe again/Brightest Melody/Over The Next Rainbow",
+        "url": "https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ"
+      },
+      "artists": [
+        {
+          "name": "Saint Aqours Snow",
+          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299026,
+      "name": "Over The Next Rainbow",
+      "url": "https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Second Solo Concert Album \uff5eTHE STORY OF FEATHER\uff5e starring Watanabe You",
+        "url": "https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f) from Aqours",
+          "url": "https://open.spotify.com/artist/60xC7FUmpDBsPRQsb7uUNg"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Paradise Chime",
+      "url": "https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 269000,
+      "name": "Party! Party! PaPaPaParty!",
+      "url": "https://open.spotify.com/track/671VDfkihffwDZBz56nZ5P"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
+        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
+          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310293,
+      "name": "PURE PHRASE",
+      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
+        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b) from Aqours",
+          "url": "https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295360,
+      "name": "RED GEM WINK",
+      "url": "https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
+        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237960,
+      "name": "SELF CONTROL!! - \u7b2c8\u8a71\u633f\u5165\u6b4c(\u30d5\u30eb\u30b5\u30a4\u30ba)",
+      "url": "https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245573,
+      "name": "Shadow gate to love",
+      "url": "https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album \uff5eNew winding road\uff5e",
+        "url": "https://open.spotify.com/album/2UdasDJ8U93U0sTVD1FGSv"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948) from Aqours",
+          "url": "https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Shiny Racers",
+      "url": "https://open.spotify.com/track/1j28e7BX7hmf0VSiemwKPT"
+    },
+    {
+      "album": {
+        "name": "Strawberry Trapper",
+        "url": "https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Strawberry Trapper",
+      "url": "https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Third Solo Concert Album \uff5eTHE STORY OF \u201cOVER THE RAINBOW\u201d\uff5e starring Kunikida Hanamaru",
+        "url": "https://open.spotify.com/album/4ZzyUO4OvlExdt327284Ho"
+      },
+      "artists": [
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 300853,
+      "name": "TSUBOMI SEASON",
+      "url": "https://open.spotify.com/track/40JiCBJlH4iqE1wCnJu6sm"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256813,
+      "name": "Waku-Waku-Week!",
+      "url": "https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY"
+    },
+    {
+      "album": {
+        "name": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+        "url": "https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343413,
+      "name": "WATER BLUE NEW WORLD",
+      "url": "https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
+          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?",
+      "url": "https://open.spotify.com/track/57fDiwr1ayxeS57PC8r13R"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291240,
+      "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
+      "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3093\u3068\u3099\u305f\u3099\u3063\u3066\u7d04\u675f!",
+        "url": "https://open.spotify.com/album/5JYeCxjJH30WbFMDDY5dix"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 258853,
+      "name": "\u306a\u3093\u3068\u3099\u305f\u3099\u3063\u3066\u7d04\u675f!",
+      "url": "https://open.spotify.com/track/35uS5Q48O49N9Eh8aeKJ62"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Third Solo Concert Album \uff5eTHE STORY OF \u201cOVER THE RAINBOW\u201d\uff5e starring Ohara Mari",
+        "url": "https://open.spotify.com/album/2YiJ7O5r2c55VerozwGvuh"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260601,
+      "name": "\u307e\u305f\u541b\u306b\u4f1a\u3046\u3093\u3060",
+      "url": "https://open.spotify.com/track/1JJ8aZtzq1Mtgs9BoTVtiW"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
+        "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b) from Aqours",
+          "url": "https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "\u3082\u3063\u3068\u306d!",
+      "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
+    },
+    {
+      "album": {
+        "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044\uff01",
+        "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
+      },
+      "artists": [
+        {
+          "name": "You Watanabe (CV: Shuka Saito)",
+          "url": "https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "Ruby Kurosawa (CV: Ai Furihata)",
+          "url": "https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193224,
+      "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044\uff01 - \u308f\u3044\u308f\u3044\u308f\u3044",
+      "url": "https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283520,
+      "name": "\u30ad\u30e2\u30c1\u3082\u30e6\u30e1\u3082\u4e00\u7dd2\u3060\u306d!",
+      "url": "https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
+        "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b) from Aqours",
+          "url": "https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258213,
+      "name": "\u30b3\u30c3\u30c8\u30f3\u30ad\u30e3\u30f3\u30c7\u30a3\u3048\u3044\u3048\u3044\u304a\u30fc!",
+      "url": "https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+        "url": "https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302453,
+      "name": "\u30b3\u30ef\u30ec\u30e4\u30b9\u30ad",
+      "url": "https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+      "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+      "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
+    },
+    {
+      "album": {
+        "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044\uff01",
+        "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
+      },
+      "artists": [
+        {
+          "name": "You Watanabe (CV: Shuka Saito)",
+          "url": "https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "Ruby Kurosawa (CV: Ai Furihata)",
+          "url": "https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216750,
+      "name": "\u30d5\u30a1\u30dc\u30bf\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2psUQr8PonQhzP4t7XHv8G"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30e1+\u30df\u30e9\u30a4=\u7121\u9650\u5927",
+        "url": "https://open.spotify.com/album/7lsS4OzLwUrWICJb98mstS"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 320613,
+      "name": "\u30e6\u30e1+\u30df\u30e9\u30a4=\u7121\u9650\u5927",
+      "url": "https://open.spotify.com/track/5tzEzBrqTNSedBld2FU2Lm"
+    },
+    {
+      "album": {
+        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239733,
+      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
+    },
+    {
+      "album": {
+        "name": "The Blue Swell",
+        "url": "https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 276586,
+      "name": "\u541b\u306e\u3053\u3053\u308d\u306f\u8f1d\u3044\u3066\u308b\u304b\u3044? - Hard Rock Ver.",
+      "url": "https://open.spotify.com/track/3FIWb5GZIh5P7RBD6jxUNQ"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "\u6d25\u5cf6\u5584\u5b50 (CV.\u5c0f\u6797\u611b\u9999)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 285586,
+      "name": "\u5730\u5143\u611b\u2661\u6e80\u30bf\u30f3\u2606\u30b5\u30de\u30fc\u30e9\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321266,
+      "name": "\u590f\u306e\u7d42\u308f\u308a\u306e\u96e8\u97f3\u304c",
+      "url": "https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255533,
+      "name": "\u590f\u3078\u306e\u6249 - Never end ver.",
+      "url": "https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK"
+    },
+    {
+      "album": {
+        "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+        "url": "https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
+      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
+    },
+    {
+      "album": {
+        "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044/\u672a\u719fDREAMER",
+        "url": "https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334440,
+      "name": "\u5922\u3067\u591c\u7a7a\u3092\u7167\u3089\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB"
+    },
+    {
+      "album": {
+        "name": "\u5e7b\u65e5\u30df\u30b9\u30c6\u30ea\u30a6\u30e0",
+        "url": "https://open.spotify.com/album/50ol5HzlvAPwmc54JVF8UX"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209006,
+      "name": "\u5e7b\u65e5\u30df\u30b9\u30c6\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/6svEV2VqOwqDFxp6LgQwRh"
+    },
+    {
+      "album": {
+        "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
+        "url": "https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 308786,
+      "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
+      "url": "https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX"
+    },
+    {
+      "album": {
+        "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c/MIRAI TICKET",
+        "url": "https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293880,
+      "name": "\u60f3\u3044\u3088\u3072\u3068\u3064\u306b\u306a\u308c",
+      "url": "https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
+        "url": "https://open.spotify.com/album/1MlqcaVEU0wY1jDr1lka7U"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
+      "url": "https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Third Solo Concert Album \uff5eTHE STORY OF \u201cOVER THE RAINBOW\u201d\uff5e starring Sakurauchi Riko",
+        "url": "https://open.spotify.com/album/384lP44vmpllPywrmZMOef"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
+          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273006,
+      "name": "\u6c34\u9762\u306b\u30d4\u30a2\u30ce",
+      "url": "https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u3081\u305f\u3088Hand in Hand/\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
+        "url": "https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "\u6c7a\u3081\u305f\u3088Hand in Hand",
+      "url": "https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy"
+    },
+    {
+      "album": {
+        "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-04",
+      "duration_ms": 259626,
+      "name": "\u6d77\u5cb8\u901a\u308a\u3067\u5f85\u3063\u3066\u308b\u3088",
+      "url": "https://open.spotify.com/track/5OLMQiEGFoBQ560FUwJm3O"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263146,
+      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
+    },
+    {
+      "album": {
+        "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+        "url": "https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u6751\u536f\u6708 (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u6708\u5ca1\u604b\u9418 (CV.\u7912\u90e8\u82b1\u51dc)",
+          "url": "https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA"
+        },
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        },
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u65e5\u91ce\u4e0b\u82b1\u5e06 (CV.\u6961\u4e95\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 316213,
+      "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+      "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277133,
+      "name": "\u771f\u590f\u306f\u8ab0\u306e\u30e2\u30ce?",
+      "url": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!! Aqours CHRONICLE (2015\u301c2017)",
+        "url": "https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u6e21\u8fba \u66dc (CV.\u6589\u85e4\u6731\u590f)",
+          "url": "https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 302506,
+      "name": "\u7a7a\u3082\u5fc3\u3082\u6674\u308c\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/6XXu1HySrCSd25li37RADe"
+    },
+    {
+      "album": {
+        "name": "Amazing Travel DNA",
+        "url": "https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 222760,
+      "name": "\u7a7a\u4e2d\u604b\u611b\u8ad6",
+      "url": "https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD"
+    },
+    {
+      "album": {
+        "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf"
+      },
+      "artists": [
+        {
+          "name": "CYaRon!",
+          "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310426,
+      "name": "\u8fd1\u672a\u6765\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW"
+    },
+    {
+      "album": {
+        "name": "\u9752\u7a7aJumping Heart",
+        "url": "https://open.spotify.com/album/0Z1rNWMPEIKfdK8yISgwwZ"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "\u9752\u7a7aJumping Heart",
+      "url": "https://open.spotify.com/track/7p9Oua59fBF8L7jaD144LA"
+    },
+    {
+      "album": {
+        "name": "LoveLive! Sunshine!! Second Solo Concert Album ~THE STORY OF FEATHER~ starring Kurosawa Dia",
+        "url": "https://open.spotify.com/album/29GeZ2kwIWCQY5paeGo0qu"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17) from Aqours",
+          "url": "https://open.spotify.com/artist/0EIh0S0UKHafWiyMUYltsr"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 284626,
+      "name": "\u9752\u7a7aJumping Heart - \u9ed2\u6fa4\u30c0\u30a4\u30e4 Solo Ver.",
+      "url": "https://open.spotify.com/track/5yBPoPHcxfD4DlAheSWlMz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3xBFVLHVC4q"
 }

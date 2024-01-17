@@ -1,247 +1,565 @@
 {
-  "2023-05-02": 3292,
-  "2023-05-03": 7364,
-  "2023-05-04": 9476,
-  "2023-05-05": 10837,
-  "2023-05-06": 11847,
-  "2023-05-07": 12983,
-  "2023-05-08": 14132,
-  "2023-05-09": 15067,
-  "2023-05-10": 15892,
-  "2023-05-11": 16704,
-  "2023-05-12": 17484,
-  "2023-05-13": 18307,
-  "2023-05-14": 19251,
-  "2023-05-15": 20168,
-  "2023-05-16": 20974,
-  "2023-05-17": 21702,
-  "2023-05-18": 22360,
-  "2023-05-19": 23114,
-  "2023-05-20": 24652,
-  "2023-05-21": 24652,
-  "2023-05-22": 24652,
-  "2023-05-23": 26183,
-  "2023-05-24": 27405,
-  "2023-05-25": 27550,
-  "2023-05-26": 28361,
-  "2023-05-27": 29157,
-  "2023-05-28": 29975,
-  "2023-05-29": 29975,
-  "2023-05-30": 31512,
-  "2023-05-31": 32273,
-  "2023-06-01": 32975,
-  "2023-06-02": 33687,
-  "2023-06-03": 34418,
-  "2023-06-04": 35199,
-  "2023-06-05": 35963,
-  "2023-06-06": 36679,
-  "2023-06-07": 37307,
-  "2023-06-08": 37935,
-  "2023-06-09": 38511,
-  "2023-06-10": 39193,
-  "2023-06-11": 39892,
-  "2023-06-12": 40581,
-  "2023-06-13": 41172,
-  "2023-06-14": 41172,
-  "2023-06-15": 42230,
-  "2023-06-16": 42770,
-  "2023-06-17": 43279,
-  "2023-06-18": 43851,
-  "2023-06-19": 44429,
-  "2023-06-20": 44917,
-  "2023-06-21": 45488,
-  "2023-06-22": 46060,
-  "2023-06-23": 46586,
-  "2023-06-24": 47093,
-  "2023-06-25": 47660,
-  "2023-06-26": 48235,
-  "2023-06-27": 48735,
-  "2023-06-28": 49264,
-  "2023-06-29": 49796,
-  "2023-06-30": 50327,
-  "2023-07-01": 51539,
-  "2023-07-02": 51539,
-  "2023-07-03": 52145,
-  "2023-07-04": 52702,
-  "2023-07-05": 53207,
-  "2023-07-06": 54265,
-  "2023-07-07": 54265,
-  "2023-07-08": 54798,
-  "2023-07-09": 55361,
-  "2023-07-10": 55916,
-  "2023-07-11": 56353,
-  "2023-07-12": 56879,
-  "2023-07-13": 57360,
-  "2023-07-14": 57895,
-  "2023-07-15": 58316,
-  "2023-07-16": 58984,
-  "2023-07-17": 59479,
-  "2023-07-18": 59954,
-  "2023-07-19": 60413,
-  "2023-07-20": 60896,
-  "2023-07-21": 61397,
-  "2023-07-22": 61956,
-  "2023-07-23": 62537,
-  "2023-07-24": 63128,
-  "2023-07-25": 63639,
-  "2023-07-26": 64241,
-  "2023-07-27": 64771,
-  "2023-07-28": 65346,
-  "2023-07-29": 65919,
-  "2023-07-30": 66473,
-  "2023-07-31": 67003,
-  "2023-08-01": 67497,
-  "2023-08-02": 68012,
-  "2023-08-03": 68533,
-  "2023-08-04": 69017,
-  "2023-08-05": 69525,
-  "2023-08-06": 70525,
-  "2023-08-07": 70525,
-  "2023-08-08": 70963,
-  "2023-08-09": 71415,
-  "2023-08-10": 71902,
-  "2023-08-11": 72392,
-  "2023-08-12": 72883,
-  "2023-08-13": 73404,
-  "2023-08-14": 73960,
-  "2023-08-15": 74986,
-  "2023-08-16": 74986,
-  "2023-08-17": 75456,
-  "2023-08-18": 75896,
-  "2023-08-19": 76360,
-  "2023-08-20": 76868,
-  "2023-08-21": 77335,
-  "2023-08-22": 77771,
-  "2023-08-23": 78203,
-  "2023-08-24": 78689,
-  "2023-08-25": 79140,
-  "2023-08-26": 79906,
-  "2023-08-27": 80545,
-  "2023-08-28": 81133,
-  "2023-08-29": 81743,
-  "2023-08-30": 82257,
-  "2023-08-31": 82670,
-  "2023-09-01": 83514,
-  "2023-09-02": 83514,
-  "2023-09-03": 83913,
-  "2023-09-04": 84328,
-  "2023-09-05": 84701,
-  "2023-09-06": 85008,
-  "2023-09-07": 85294,
-  "2023-09-08": 85613,
-  "2023-09-09": 85938,
-  "2023-09-10": 86338,
-  "2023-09-11": 86695,
-  "2023-09-12": 87026,
-  "2023-09-13": 87316,
-  "2023-09-14": 87600,
-  "2023-09-15": 87835,
-  "2023-09-16": 88150,
-  "2023-09-17": 88489,
-  "2023-09-18": 88860,
-  "2023-09-19": 89232,
-  "2023-09-20": 89536,
-  "2023-09-21": 89822,
-  "2023-09-22": 90099,
-  "2023-09-23": 90339,
-  "2023-09-24": 90671,
-  "2023-09-25": 90921,
-  "2023-09-26": 91210,
-  "2023-09-27": 91405,
-  "2023-09-28": 91658,
-  "2023-09-29": 91922,
-  "2023-09-30": 92174,
-  "2023-10-01": 92488,
-  "2023-10-02": 92788,
-  "2023-10-03": 93029,
-  "2023-10-04": 93296,
-  "2023-10-05": 93549,
-  "2023-10-06": 93892,
-  "2023-10-07": 94185,
-  "2023-10-08": 94464,
-  "2023-10-09": 94725,
-  "2023-10-10": 94979,
-  "2023-10-11": 95383,
-  "2023-10-12": 95383,
-  "2023-10-13": 95581,
-  "2023-10-14": 95816,
-  "2023-10-15": 96069,
-  "2023-10-16": 96326,
-  "2023-10-17": 96530,
-  "2023-10-18": 96714,
-  "2023-10-19": 96946,
-  "2023-10-20": 97270,
-  "2023-10-21": 97558,
-  "2023-10-22": 97852,
-  "2023-10-23": 98089,
-  "2023-10-24": 98310,
-  "2023-10-25": 98524,
-  "2023-10-26": 98764,
-  "2023-10-27": 98974,
-  "2023-10-28": 98974,
-  "2023-10-29": 99664,
-  "2023-10-30": 100335,
-  "2023-10-31": 100335,
-  "2023-11-01": 100587,
-  "2023-11-02": 100860,
-  "2023-11-03": 101210,
-  "2023-11-04": 101598,
-  "2023-11-05": 102090,
-  "2023-11-06": 102580,
-  "2023-11-07": 103033,
-  "2023-11-08": 103439,
-  "2023-11-09": 103810,
-  "2023-11-10": 104232,
-  "2023-11-11": 104748,
-  "2023-11-12": 105099,
-  "2023-11-13": 105460,
-  "2023-11-14": 105790,
-  "2023-11-15": 105790,
-  "2023-11-16": 106366,
-  "2023-11-17": 106958,
-  "2023-11-18": 106958,
-  "2023-11-19": 107311,
-  "2023-11-20": 107661,
-  "2023-11-21": 108000,
-  "2023-11-22": 108328,
-  "2023-11-23": 108648,
-  "2023-11-24": 108978,
-  "2023-11-25": 109252,
-  "2023-11-26": 109563,
-  "2023-11-27": 109870,
-  "2023-11-28": 110163,
-  "2023-11-29": 110912,
-  "2023-11-30": 110912,
-  "2023-12-01": 111458,
-  "2023-12-02": 111884,
-  "2023-12-03": 112351,
-  "2023-12-04": 112717,
-  "2023-12-05": 113043,
-  "2023-12-06": 113346,
-  "2023-12-07": 113675,
-  "2023-12-08": 114023,
-  "2023-12-09": 114443,
-  "2023-12-10": 114820,
-  "2023-12-11": 115190,
-  "2023-12-12": 115532,
-  "2023-12-13": 115806,
-  "2023-12-14": 116187,
-  "2023-12-15": 116423,
-  "2023-12-16": 116777,
-  "2023-12-17": 117117,
-  "2023-12-18": 117470,
-  "2023-12-19": 117908,
-  "2023-12-20": 118229,
-  "2023-12-21": 118594,
-  "2023-12-22": 118914,
-  "2023-12-23": 119288,
-  "2023-12-24": 119649,
-  "2023-12-25": 119976,
-  "2023-12-26": 120299,
-  "2023-12-27": 120696,
-  "2023-12-30": 121884,
-  "2023-12-31": 122222,
-  "2024-01-01": 122711,
-  "2024-01-02": 123112,
-  "2024-01-03": 123556
+  "2024-01-17": 128237,
+  "date_first_scraped": "2023-05-02",
+  "description": "Hear all of LE SSERAFIM's biggest and best hits in one playlist... DODODOK!",
+  "name": "This Is LE SSERAFIM",
+  "tracks": [
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201894,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Blue Flame - Japanese ver.",
+      "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154649,
+      "name": "Burn the Bridge",
+      "url": "https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z"
+    },
+    {
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
+        "url": "https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (English Ver.)",
+      "url": "https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. UPSAHL)",
+        "url": "https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. UPSAHL)",
+      "url": "https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
+        "name": "FEARLESS (Japanese ver.)",
+        "url": "https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "FEARLESS - Japanese ver.",
+      "url": "https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206831,
+      "name": "FEARNOT (Between you, me and the lamppost)",
+      "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198232,
+      "name": "Fire in the belly",
+      "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195512,
+      "name": "Flash Forward",
+      "url": "https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss"
+    },
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+    },
+    {
+      "album": {
+        "name": "BASTIONS OST Part.4",
+        "url": "https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK"
+    },
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196365,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
+    },
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166491,
+      "name": "No Celestial",
+      "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184823,
+      "name": "No-Return (Into the unknown)",
+      "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1"
+    },
+    {
+      "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
+        "name": "Perfect Night (Holiday Remix)",
+        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162336,
+      "name": "Perfect Night (Holiday Remix)",
+      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
+    },
+    {
+      "album": {
+        "name": "Perfect Night (Remix)",
+        "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Perfect Night (Slowed + Reverb ver.)",
+      "url": "https://open.spotify.com/track/5sVWwPuoQlZpvAFcF0MMjf"
+    },
+    {
+      "album": {
+        "name": "Perfect Night (Remix)",
+        "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128779,
+      "name": "Perfect Night (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196540,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177795,
+      "name": "The Great Mermaid",
+      "url": "https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN"
+    },
+    {
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104202,
+      "name": "The Hydra",
+      "url": "https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106820,
+      "name": "The World Is My Oyster",
+      "url": "https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+        "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+      "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7pEH2GWGnSP"
 }

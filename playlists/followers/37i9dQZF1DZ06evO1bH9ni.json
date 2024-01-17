@@ -1,577 +1,1477 @@
 {
-  "2022-06-02": 244310,
-  "2022-06-03": 244412,
-  "2022-06-04": 244547,
-  "2022-06-05": 244759,
-  "2022-06-06": 244940,
-  "2022-06-07": 245049,
-  "2022-06-08": 245200,
-  "2022-06-09": 245292,
-  "2022-06-10": 245460,
-  "2022-06-11": 245626,
-  "2022-06-12": 245869,
-  "2022-06-13": 246082,
-  "2022-06-14": 246191,
-  "2022-06-15": 246297,
-  "2022-06-16": 246425,
-  "2022-06-17": 246556,
-  "2022-06-18": 246720,
-  "2022-06-19": 247157,
-  "2022-06-20": 247157,
-  "2022-06-21": 247279,
-  "2022-06-22": 247520,
-  "2022-06-23": 247520,
-  "2022-06-24": 247660,
-  "2022-06-25": 247828,
-  "2022-06-26": 248007,
-  "2022-06-27": 248198,
-  "2022-06-28": 248315,
-  "2022-06-29": 248423,
-  "2022-06-30": 248557,
-  "2022-07-01": 248719,
-  "2022-07-02": 248844,
-  "2022-07-03": 249066,
-  "2022-07-04": 249256,
-  "2022-07-05": 249366,
-  "2022-07-06": 249366,
-  "2022-07-07": 249578,
-  "2022-07-08": 249673,
-  "2022-07-09": 249798,
-  "2022-07-10": 249966,
-  "2022-07-11": 250103,
-  "2022-07-12": 250204,
-  "2022-07-13": 250306,
-  "2022-07-14": 250386,
-  "2022-07-15": 250516,
-  "2022-07-16": 250676,
-  "2022-07-17": 250826,
-  "2022-07-18": 250992,
-  "2022-07-19": 251094,
-  "2022-07-20": 251187,
-  "2022-07-21": 251295,
-  "2022-07-22": 251427,
-  "2022-07-23": 251566,
-  "2022-07-24": 251737,
-  "2022-07-25": 251907,
-  "2022-07-26": 251996,
-  "2022-07-27": 252090,
-  "2022-07-28": 252236,
-  "2022-07-29": 252395,
-  "2022-07-30": 252795,
-  "2022-07-31": 252795,
-  "2022-08-01": 253011,
-  "2022-08-02": 253305,
-  "2022-08-03": 253305,
-  "2022-08-04": 253430,
-  "2022-08-05": 253550,
-  "2022-08-06": 253700,
-  "2022-08-07": 253877,
-  "2022-08-08": 254034,
-  "2022-08-09": 254138,
-  "2022-08-10": 254255,
-  "2022-08-11": 254325,
-  "2022-08-12": 254446,
-  "2022-08-13": 254557,
-  "2022-08-14": 254718,
-  "2022-08-15": 254867,
-  "2022-08-16": 254958,
-  "2022-08-17": 255086,
-  "2022-08-18": 255203,
-  "2022-08-19": 255323,
-  "2022-08-20": 255441,
-  "2022-08-21": 255609,
-  "2022-08-22": 255740,
-  "2022-08-23": 255834,
-  "2022-08-24": 255953,
-  "2022-08-25": 256046,
-  "2022-08-26": 256175,
-  "2022-08-27": 256290,
-  "2022-08-28": 256465,
-  "2022-08-29": 256636,
-  "2022-08-30": 256747,
-  "2022-08-31": 256863,
-  "2022-09-01": 256979,
-  "2022-09-02": 257128,
-  "2022-09-03": 257259,
-  "2022-09-04": 257434,
-  "2022-09-05": 257565,
-  "2022-09-06": 257682,
-  "2022-09-07": 257776,
-  "2022-09-09": 257958,
-  "2022-09-10": 258068,
-  "2022-09-11": 258227,
-  "2022-09-12": 258402,
-  "2022-09-13": 258520,
-  "2022-09-15": 258744,
-  "2022-09-16": 258900,
-  "2022-09-17": 259053,
-  "2022-09-18": 259238,
-  "2022-09-19": 259359,
-  "2022-09-20": 259442,
-  "2022-09-21": 259549,
-  "2022-09-22": 259655,
-  "2022-09-23": 259780,
-  "2022-09-24": 259780,
-  "2022-09-25": 260067,
-  "2022-09-26": 260214,
-  "2022-09-27": 260330,
-  "2022-09-28": 260416,
-  "2022-09-29": 260502,
-  "2022-09-30": 260639,
-  "2022-10-01": 260777,
-  "2022-10-02": 260940,
-  "2022-10-03": 261082,
-  "2022-10-04": 261190,
-  "2022-10-05": 261302,
-  "2022-10-06": 261420,
-  "2022-10-07": 261549,
-  "2022-10-08": 261664,
-  "2022-10-09": 261956,
-  "2022-10-10": 262009,
-  "2022-10-11": 262133,
-  "2022-10-12": 262251,
-  "2022-10-13": 262374,
-  "2022-10-14": 262495,
-  "2022-10-15": 262628,
-  "2022-10-16": 262813,
-  "2022-10-17": 262953,
-  "2022-10-18": 263082,
-  "2022-10-19": 263181,
-  "2022-10-20": 263281,
-  "2022-10-21": 263393,
-  "2022-10-22": 263549,
-  "2022-10-23": 263728,
-  "2022-10-24": 263864,
-  "2022-10-25": 263967,
-  "2022-10-26": 264034,
-  "2022-10-27": 264137,
-  "2022-10-28": 264240,
-  "2022-10-29": 264356,
-  "2022-10-30": 264510,
-  "2022-10-31": 264671,
-  "2022-11-01": 264769,
-  "2022-11-02": 264859,
-  "2022-11-03": 264978,
-  "2022-11-04": 265073,
-  "2022-11-05": 265213,
-  "2022-11-06": 265369,
-  "2022-11-07": 265518,
-  "2022-11-08": 265616,
-  "2022-11-09": 265734,
-  "2022-11-10": 265832,
-  "2022-11-11": 265948,
-  "2022-11-12": 266086,
-  "2022-11-13": 266223,
-  "2022-11-14": 266346,
-  "2022-11-15": 266434,
-  "2022-11-16": 266536,
-  "2022-11-17": 266629,
-  "2022-11-18": 266646,
-  "2022-11-19": 266646,
-  "2022-11-20": 266732,
-  "2022-11-21": 266858,
-  "2022-11-22": 266974,
-  "2022-11-23": 267072,
-  "2022-11-24": 267259,
-  "2022-11-25": 267448,
-  "2022-11-26": 267586,
-  "2022-11-27": 267692,
-  "2022-11-28": 267801,
-  "2022-11-29": 267879,
-  "2022-11-30": 267984,
-  "2022-12-01": 268083,
-  "2022-12-02": 268139,
-  "2022-12-03": 268304,
-  "2022-12-04": 268446,
-  "2022-12-05": 268596,
-  "2022-12-06": 268697,
-  "2022-12-07": 268794,
-  "2022-12-08": 268903,
-  "2022-12-09": 269034,
-  "2022-12-10": 269163,
-  "2022-12-11": 269298,
-  "2022-12-12": 269432,
-  "2022-12-13": 269537,
-  "2022-12-14": 269640,
-  "2022-12-15": 269740,
-  "2022-12-16": 269864,
-  "2022-12-17": 270008,
-  "2022-12-18": 270193,
-  "2022-12-19": 270331,
-  "2022-12-20": 270508,
-  "2022-12-21": 270508,
-  "2022-12-22": 270649,
-  "2022-12-24": 270952,
-  "2022-12-25": 271165,
-  "2022-12-26": 271385,
-  "2022-12-27": 271484,
-  "2022-12-28": 271605,
-  "2022-12-29": 271713,
-  "2022-12-30": 271847,
-  "2022-12-31": 272034,
-  "2023-01-01": 272261,
-  "2023-01-02": 272478,
-  "2023-01-03": 272617,
-  "2023-01-04": 272688,
-  "2023-01-05": 272798,
-  "2023-01-06": 272911,
-  "2023-01-07": 273115,
-  "2023-01-08": 273156,
-  "2023-01-09": 273320,
-  "2023-01-10": 273418,
-  "2023-01-11": 273491,
-  "2023-01-12": 273596,
-  "2023-01-13": 273695,
-  "2023-01-14": 273938,
-  "2023-01-15": 273955,
-  "2023-01-16": 274134,
-  "2023-01-17": 274240,
-  "2023-01-18": 274347,
-  "2023-01-19": 274469,
-  "2023-01-20": 274576,
-  "2023-01-21": 274698,
-  "2023-01-22": 274877,
-  "2023-01-23": 275029,
-  "2023-01-24": 275159,
-  "2023-01-25": 275266,
-  "2023-01-26": 275389,
-  "2023-01-27": 275498,
-  "2023-01-28": 275627,
-  "2023-01-29": 275778,
-  "2023-01-30": 275904,
-  "2023-01-31": 275904,
-  "2023-02-01": 276150,
-  "2023-02-02": 276268,
-  "2023-02-03": 276375,
-  "2023-02-04": 276506,
-  "2023-02-05": 276648,
-  "2023-02-06": 276816,
-  "2023-02-07": 276946,
-  "2023-02-08": 277152,
-  "2023-02-09": 277152,
-  "2023-02-10": 277279,
-  "2023-02-11": 277391,
-  "2023-02-12": 277658,
-  "2023-02-13": 277740,
-  "2023-02-14": 277740,
-  "2023-02-15": 277828,
-  "2023-02-16": 277930,
-  "2023-02-17": 278047,
-  "2023-02-18": 278339,
-  "2023-02-19": 278364,
-  "2023-02-20": 278483,
-  "2023-02-21": 278579,
-  "2023-02-22": 278682,
-  "2023-02-23": 278793,
-  "2023-02-24": 278929,
-  "2023-02-25": 279131,
-  "2023-02-26": 279242,
-  "2023-02-27": 279506,
-  "2023-02-28": 279506,
-  "2023-03-01": 279618,
-  "2023-03-02": 279707,
-  "2023-03-03": 279860,
-  "2023-03-04": 279980,
-  "2023-03-05": 280334,
-  "2023-03-06": 280334,
-  "2023-03-07": 280490,
-  "2023-03-08": 280568,
-  "2023-03-09": 280697,
-  "2023-03-10": 280846,
-  "2023-03-11": 280974,
-  "2023-03-12": 281127,
-  "2023-03-13": 281300,
-  "2023-03-14": 281401,
-  "2023-03-15": 281505,
-  "2023-03-16": 281505,
-  "2023-03-17": 281505,
-  "2023-03-18": 281872,
-  "2023-03-19": 281872,
-  "2023-03-20": 282140,
-  "2023-03-21": 282240,
-  "2023-03-22": 282326,
-  "2023-03-23": 282448,
-  "2023-03-24": 282448,
-  "2023-03-25": 282678,
-  "2023-03-26": 282817,
-  "2023-03-27": 282982,
-  "2023-03-28": 283091,
-  "2023-03-29": 283201,
-  "2023-03-30": 283404,
-  "2023-03-31": 283404,
-  "2023-04-01": 283546,
-  "2023-04-02": 283739,
-  "2023-04-03": 283875,
-  "2023-04-04": 284014,
-  "2023-04-05": 284145,
-  "2023-04-06": 284303,
-  "2023-04-07": 284463,
-  "2023-04-09": 284792,
-  "2023-04-10": 284910,
-  "2023-04-11": 285131,
-  "2023-04-12": 285131,
-  "2023-04-13": 285232,
-  "2023-04-14": 285336,
-  "2023-04-15": 285472,
-  "2023-04-16": 285638,
-  "2023-04-17": 285781,
-  "2023-04-18": 285870,
-  "2023-04-19": 285967,
-  "2023-04-20": 286053,
-  "2023-04-21": 286196,
-  "2023-04-22": 286337,
-  "2023-04-23": 286499,
-  "2023-04-24": 286650,
-  "2023-04-25": 286765,
-  "2023-04-26": 286880,
-  "2023-04-27": 286999,
-  "2023-04-28": 287143,
-  "2023-04-29": 287285,
-  "2023-04-30": 287446,
-  "2023-05-01": 287561,
-  "2023-05-02": 287683,
-  "2023-05-03": 287773,
-  "2023-05-04": 287866,
-  "2023-05-05": 287972,
-  "2023-05-06": 288071,
-  "2023-05-07": 288220,
-  "2023-05-08": 288343,
-  "2023-05-09": 288433,
-  "2023-05-10": 288496,
-  "2023-05-11": 288588,
-  "2023-05-12": 288686,
-  "2023-05-13": 288798,
-  "2023-05-14": 288954,
-  "2023-05-15": 289054,
-  "2023-05-16": 289148,
-  "2023-05-17": 289216,
-  "2023-05-18": 289321,
-  "2023-05-19": 289409,
-  "2023-05-20": 289655,
-  "2023-05-21": 289655,
-  "2023-05-22": 289655,
-  "2023-05-23": 289826,
-  "2023-05-24": 289962,
-  "2023-05-25": 289995,
-  "2023-05-26": 290100,
-  "2023-05-27": 290215,
-  "2023-05-28": 290336,
-  "2023-05-29": 290336,
-  "2023-05-30": 290526,
-  "2023-05-31": 290611,
-  "2023-06-01": 290696,
-  "2023-06-02": 290804,
-  "2023-06-03": 290911,
-  "2023-06-04": 290993,
-  "2023-06-05": 291077,
-  "2023-06-06": 291130,
-  "2023-06-07": 291211,
-  "2023-06-08": 291315,
-  "2023-06-09": 291407,
-  "2023-06-10": 291544,
-  "2023-06-11": 291688,
-  "2023-06-12": 291832,
-  "2023-06-13": 291920,
-  "2023-06-14": 292005,
-  "2023-06-15": 292114,
-  "2023-06-16": 292213,
-  "2023-06-17": 292348,
-  "2023-06-18": 292479,
-  "2023-06-19": 292642,
-  "2023-06-20": 292729,
-  "2023-06-21": 292814,
-  "2023-06-22": 292911,
-  "2023-06-23": 292974,
-  "2023-06-24": 293082,
-  "2023-06-25": 293231,
-  "2023-06-26": 293354,
-  "2023-06-27": 293426,
-  "2023-06-28": 293545,
-  "2023-06-29": 293634,
-  "2023-06-30": 293718,
-  "2023-07-01": 293970,
-  "2023-07-02": 293970,
-  "2023-07-03": 294112,
-  "2023-07-04": 294174,
-  "2023-07-05": 294244,
-  "2023-07-06": 294454,
-  "2023-07-07": 294454,
-  "2023-07-08": 294526,
-  "2023-07-09": 294639,
-  "2023-07-10": 294745,
-  "2023-07-11": 294800,
-  "2023-07-12": 294887,
-  "2023-07-13": 294975,
-  "2023-07-14": 295065,
-  "2023-07-15": 295146,
-  "2023-07-16": 295286,
-  "2023-07-17": 295413,
-  "2023-07-18": 295495,
-  "2023-07-19": 295571,
-  "2023-07-20": 295663,
-  "2023-07-21": 295775,
-  "2023-07-22": 295911,
-  "2023-07-23": 296037,
-  "2023-07-24": 296162,
-  "2023-07-25": 296249,
-  "2023-07-26": 296342,
-  "2023-07-27": 296438,
-  "2023-07-28": 296608,
-  "2023-07-29": 296762,
-  "2023-07-30": 296898,
-  "2023-07-31": 297029,
-  "2023-08-01": 297111,
-  "2023-08-02": 297228,
-  "2023-08-03": 297321,
-  "2023-08-04": 297420,
-  "2023-08-05": 297500,
-  "2023-08-06": 297744,
-  "2023-08-07": 297744,
-  "2023-08-08": 297808,
-  "2023-08-09": 297891,
-  "2023-08-10": 297981,
-  "2023-08-11": 298087,
-  "2023-08-12": 298087,
-  "2023-08-13": 298087,
-  "2023-08-14": 298448,
-  "2023-08-15": 298448,
-  "2023-08-16": 298448,
-  "2023-08-17": 298685,
-  "2023-08-18": 298685,
-  "2023-08-19": 298685,
-  "2023-08-20": 299047,
-  "2023-08-21": 299047,
-  "2023-08-22": 299233,
-  "2023-08-23": 299233,
-  "2023-08-24": 299233,
-  "2023-08-25": 299233,
-  "2023-08-26": 299714,
-  "2023-08-27": 299714,
-  "2023-08-28": 300001,
-  "2023-08-29": 300001,
-  "2023-08-30": 300001,
-  "2023-08-31": 300313,
-  "2023-09-01": 300453,
-  "2023-09-02": 300453,
-  "2023-09-03": 300674,
-  "2023-09-04": 300674,
-  "2023-09-05": 300674,
-  "2023-09-06": 300960,
-  "2023-09-07": 300960,
-  "2023-09-08": 300960,
-  "2023-09-09": 300960,
-  "2023-09-10": 301421,
-  "2023-09-11": 301421,
-  "2023-09-12": 301421,
-  "2023-09-13": 301682,
-  "2023-09-14": 301682,
-  "2023-09-15": 301682,
-  "2023-09-16": 302028,
-  "2023-09-17": 302028,
-  "2023-09-18": 302028,
-  "2023-09-19": 302337,
-  "2023-09-20": 302337,
-  "2023-09-21": 302337,
-  "2023-09-22": 302563,
-  "2023-09-23": 302563,
-  "2023-09-24": 302563,
-  "2023-09-25": 302563,
-  "2023-09-26": 302884,
-  "2023-09-27": 302884,
-  "2023-09-28": 302884,
-  "2023-09-29": 302884,
-  "2023-09-30": 302884,
-  "2023-10-01": 302884,
-  "2023-10-02": 303330,
-  "2023-10-03": 303330,
-  "2023-10-04": 303330,
-  "2023-10-05": 303514,
-  "2023-10-06": 303514,
-  "2023-10-07": 303514,
-  "2023-10-08": 303514,
-  "2023-10-09": 303514,
-  "2023-10-10": 303514,
-  "2023-10-11": 304014,
-  "2023-10-12": 304014,
-  "2023-10-13": 304014,
-  "2023-10-14": 304014,
-  "2023-10-15": 304014,
-  "2023-10-16": 304014,
-  "2023-10-17": 304014,
-  "2023-10-18": 304014,
-  "2023-10-19": 304014,
-  "2023-10-20": 304014,
-  "2023-10-21": 304014,
-  "2023-10-22": 304014,
-  "2023-10-23": 304014,
-  "2023-10-24": 304014,
-  "2023-10-25": 304014,
-  "2023-10-26": 304014,
-  "2023-10-27": 304014,
-  "2023-10-28": 304014,
-  "2023-10-29": 304014,
-  "2023-10-30": 304014,
-  "2023-10-31": 304014,
-  "2023-11-01": 304014,
-  "2023-11-02": 304014,
-  "2023-11-03": 304014,
-  "2023-11-04": 304014,
-  "2023-11-05": 304014,
-  "2023-11-06": 304014,
-  "2023-11-07": 304014,
-  "2023-11-08": 304014,
-  "2023-11-09": 304014,
-  "2023-11-10": 304014,
-  "2023-11-11": 307033,
-  "2023-11-12": 307033,
-  "2023-11-13": 307033,
-  "2023-11-14": 307033,
-  "2023-11-15": 307033,
-  "2023-11-16": 307033,
-  "2023-11-17": 307033,
-  "2023-11-18": 307033,
-  "2023-11-19": 307033,
-  "2023-11-20": 307033,
-  "2023-11-21": 307033,
-  "2023-11-22": 307033,
-  "2023-11-23": 307033,
-  "2023-11-24": 307033,
-  "2023-11-25": 307033,
-  "2023-11-26": 307033,
-  "2023-11-27": 307033,
-  "2023-11-28": 307033,
-  "2023-11-29": 307033,
-  "2023-11-30": 307033,
-  "2023-12-01": 307033,
-  "2023-12-02": 307033,
-  "2023-12-03": 307033,
-  "2023-12-04": 307033,
-  "2023-12-05": 307033,
-  "2023-12-06": 307033,
-  "2023-12-07": 307033,
-  "2023-12-08": 307033,
-  "2023-12-09": 307033,
-  "2023-12-10": 307033,
-  "2023-12-11": 307033,
-  "2023-12-12": 307033,
-  "2023-12-13": 307033,
-  "2023-12-14": 310411,
-  "2023-12-15": 310457,
-  "2023-12-16": 310575,
-  "2023-12-17": 310673,
-  "2023-12-18": 310773,
-  "2023-12-19": 310856,
-  "2023-12-20": 310953,
-  "2023-12-21": 311073,
-  "2023-12-22": 311198,
-  "2023-12-23": 311295,
-  "2023-12-24": 311418,
-  "2023-12-25": 311598,
-  "2023-12-26": 311742,
-  "2023-12-27": 311824,
-  "2023-12-30": 312140,
-  "2023-12-31": 312304,
-  "2024-01-01": 312452,
-  "2024-01-02": 312603,
-  "2024-01-03": 312703
+  "2024-01-17": 313596,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
+  "name": "This Is Los Dos Carnales",
+  "tracks": [
+    {
+      "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152751,
+      "name": "100pre",
+      "url": "https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 154937,
+      "name": "30 De Enero",
+      "url": "https://open.spotify.com/track/0PQlZtRSRcB1vTbq7TsmwI"
+    },
+    {
+      "album": {
+        "name": "Aka Entre el Humo",
+        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Aka Entre el Humo",
+      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
+    },
+    {
+      "album": {
+        "name": "Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/3l2ra3SNtDzWfjhhdx75Od"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 205818,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6dJL9YwcrlXK7reyRfmM9V"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157285,
+      "name": "Ay Nom\u00e1s",
+      "url": "https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac"
+    },
+    {
+      "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "album": {
+        "name": "Recordando los Inicios (En Vivo)",
+        "url": "https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141098,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G"
+    },
+    {
+      "album": {
+        "name": "Cholos al Punto",
+        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159056,
+      "name": "Cholos al Punto",
+      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+    },
+    {
+      "album": {
+        "name": "Para Impresionarte",
+        "url": "https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 187376,
+      "name": "Como la Ves",
+      "url": "https://open.spotify.com/track/1gwjbogooFxgaOhL8rXW0k"
+    },
+    {
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175778,
+      "name": "Cuadra los Parientes - En Vivo",
+      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
+    },
+    {
+      "album": {
+        "name": "Cuando Yo Me Muera",
+        "url": "https://open.spotify.com/album/5hBljEaghOwnONYAlISqOi"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 180441,
+      "name": "Cuando Yo Me Muera",
+      "url": "https://open.spotify.com/track/4V927V1JIlJkE7nVU4UBsF"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate de Cosas",
+        "url": "https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 169999,
+      "name": "D\u00e9jate de Cosas",
+      "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
+    },
+    {
+      "album": {
+        "name": "El Abuelo",
+        "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187037,
+      "name": "El Abuelo",
+      "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+    },
+    {
+      "album": {
+        "name": "El Bendecido",
+        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158022,
+      "name": "El Bendecido",
+      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+    },
+    {
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 139193,
+      "name": "El Corrido de el Fantasma - En Vivo",
+      "url": "https://open.spotify.com/track/1jgUFLCsFEtcDy47RzCwWe"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202327,
+      "name": "El Corrido de Panchito",
+      "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
+    },
+    {
+      "album": {
+        "name": "6 Tragos",
+        "url": "https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "album": {
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "album": {
+        "name": "El Fue Arturo (En Vivo)",
+        "url": "https://open.spotify.com/album/3PZOpP4BoaXTgdYujT8yot"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 185714,
+      "name": "El Fue Arturo - En Vivo",
+      "url": "https://open.spotify.com/track/1ALYZKHbH4BIoFyiaM9f3x"
+    },
+    {
+      "album": {
+        "name": "Corridos y M\u00e1s Corridos",
+        "url": "https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 179000,
+      "name": "El Gallo Pobre",
+      "url": "https://open.spotify.com/track/78QearSoNEqJToO2XJH5Yo"
+    },
+    {
+      "album": {
+        "name": "El HT",
+        "url": "https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 150056,
+      "name": "El HT",
+      "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 214488,
+      "name": "El Inmigrante",
+      "url": "https://open.spotify.com/track/4mbQrvmN8unsDdC08gCgXz"
+    },
+    {
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 210004,
+      "name": "El Jamaico - En Vivo",
+      "url": "https://open.spotify.com/track/3ZVM5ioOs45wZMsT051Tl9"
+    },
+    {
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 178968,
+      "name": "El Mashin",
+      "url": "https://open.spotify.com/track/3RsClwIyFf4V25uc0tp8Aq"
+    },
+    {
+      "album": {
+        "name": "El Mejor del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3SQSVXheDF238LrACCxEwE"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184350,
+      "name": "El Mejor del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/3aCP6693dQMcBUaLXaeqnt"
+    },
+    {
+      "album": {
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
+    },
+    {
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157107,
+      "name": "El Mismo - En Vivo",
+      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
+    },
+    {
+      "album": {
+        "name": "Corridos y M\u00e1s Corridos",
+        "url": "https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 246000,
+      "name": "El Pollo",
+      "url": "https://open.spotify.com/track/6Z5qfer3vyWlSF1jCUGqug"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "El Que Quiere Puede",
+      "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
+    },
+    {
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177437,
+      "name": "El Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/3GRAmRiwbmyTYhzzBtUTuU"
+    },
+    {
+      "album": {
+        "name": "El Sonriente de Durango",
+        "url": "https://open.spotify.com/album/4ZNbEmbsJXMihgWHz8GowR"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 159952,
+      "name": "El Sonriente de Durango",
+      "url": "https://open.spotify.com/track/228HXstwnWg37RvInNo4Xr"
+    },
+    {
+      "album": {
+        "name": "En Cambio No",
+        "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LP Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "En Cambio No",
+      "url": "https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 166442,
+      "name": "Francisco Cortez",
+      "url": "https://open.spotify.com/track/1mZ6sMIKzvV4ji1vwV91sr"
+    },
+    {
+      "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187156,
+      "name": "Gracias a Ti",
+      "url": "https://open.spotify.com/track/3xYQaGd5f4yX4ceJ2GylKz"
+    },
+    {
+      "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168542,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ"
+    },
+    {
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/5qls46F3B2bIBWtN3U6Jpq"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 217596,
+      "name": "Imperio Beltr\u00e1n Leyva",
+      "url": "https://open.spotify.com/track/2oBh1SZ6c6SPl8FIEJiMFP"
+    },
+    {
+      "album": {
+        "name": "Corridos Con Olor a Monte (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205543,
+      "name": "Kil\u00f3metro 11-60 - En Vivo",
+      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
+    },
+    {
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+    },
+    {
+      "album": {
+        "name": "La Parca",
+        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193612,
+      "name": "La Parca",
+      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
+    },
+    {
+      "album": {
+        "name": "La Pregunta del Mill\u00f3n",
+        "url": "https://open.spotify.com/album/2aXc82vWmLxSKj44zEgshL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/0yyRKwW4pQ11Kiyuk5Pkmf"
+    },
+    {
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
+    },
+    {
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "album": {
+        "name": "Corridos Para Valientes, Vol.1",
+        "url": "https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 234094,
+      "name": "La Siembra",
+      "url": "https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH"
+    },
+    {
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152791,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+    },
+    {
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 194359,
+      "name": "Los Dos Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5pjpZf1TXXqpCNS7WTuAeB"
+    },
+    {
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+    },
+    {
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189769,
+      "name": "Me Estoy Acostumbrando",
+      "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
+    },
+    {
+      "album": {
+        "name": "Me Qued\u00e9 Esperando",
+        "url": "https://open.spotify.com/album/32r7bBWD7vEMEfslIZ4Mjt"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 204616,
+      "name": "Me Qued\u00e9 Esperando",
+      "url": "https://open.spotify.com/track/3ebQssKPVq6cdnAYUcuZGs"
+    },
+    {
+      "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
+    },
+    {
+      "album": {
+        "name": "Mi Jefe",
+        "url": "https://open.spotify.com/album/64Ea7fAv31mvQ47PTQFeUN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214785,
+      "name": "Mi Jefe",
+      "url": "https://open.spotify.com/track/0UUz5GRn15I8839GPyxlfU"
+    },
+    {
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163705,
+      "name": "Mi Profesi\u00f3n",
+      "url": "https://open.spotify.com/track/6vZnpaBquxZQzTZqJrap1B"
+    },
+    {
+      "album": {
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153086,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159694,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
+    },
+    {
+      "album": {
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 202031,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
+    },
+    {
+      "album": {
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/4yCjvIrgpUESwejh6AIt3j"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203650,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/6Pwu0EIITS21ajW5y9VvcE"
+    },
+    {
+      "album": {
+        "name": "Nave 727",
+        "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "Nave 727",
+      "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
+    },
+    {
+      "album": {
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 209701,
+      "name": "Nomas las Mujeres Quedan - En Vivo",
+      "url": "https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169658,
+      "name": "Pep\u00f3n",
+      "url": "https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD"
+    },
+    {
+      "album": {
+        "name": "Por Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 196220,
+      "name": "Por Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb"
+    },
+    {
+      "album": {
+        "name": "Ranchero de M\u00e1s",
+        "url": "https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190317,
+      "name": "Ranchero de M\u00e1s",
+      "url": "https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO"
+    },
+    {
+      "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/3fBoL5DJZ81GttTIpPXFF8"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Banda los Populares del Llano",
+          "url": "https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 243673,
+      "name": "Resulta - En Vivo",
+      "url": "https://open.spotify.com/track/3FRadPSJWTQtWykeVZwRPO"
+    },
+    {
+      "album": {
+        "name": "Los de 100pre",
+        "url": "https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2"
+    },
+    {
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
+    },
+    {
+      "album": {
+        "name": "Sigo En Prisi\u00f3n",
+        "url": "https://open.spotify.com/album/7DMzDeren09X0cTH2riSNt"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 157161,
+      "name": "Sigo En Prisi\u00f3n",
+      "url": "https://open.spotify.com/track/47N02SRDyk1438N5pFaPi9"
+    },
+    {
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178509,
+      "name": "Somos Arrieros",
+      "url": "https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a"
+    },
+    {
+      "album": {
+        "name": "Te Vas a Arrepentir",
+        "url": "https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 231839,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj"
+    },
+    {
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231839,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
+    },
+    {
+      "album": {
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "album": {
+        "name": "Ya Pa' Que",
+        "url": "https://open.spotify.com/album/1yU4RgPSiYayVJDlRQKJ76"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 242260,
+      "name": "Ya Pa' Que",
+      "url": "https://open.spotify.com/track/5zYhfNeQYi7lMmTbQBXJjM"
+    },
+    {
+      "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni"
 }

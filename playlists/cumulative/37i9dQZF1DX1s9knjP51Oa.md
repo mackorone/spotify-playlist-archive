@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-751 songs - 1 day 8 hr 10 min
+752 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-13 | 2022-10-25 |
 | [Silver Clouds](https://open.spotify.com/track/2vQRGbNN8JGoThpNtugCtI) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Silver Clouds](https://open.spotify.com/album/4f2ERyMsQCD7NEtqQKEbnW) | 2:57 | 2022-10-24 |  |
 | [Skating](https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Skating](https://open.spotify.com/album/4574dK3qTHbOSym2PFJsLL) | 2:15 | 2021-12-13 | 2022-12-22 |
+| [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-08 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-02-02 | 2023-05-10 |
 | [Sleeping Giant](https://open.spotify.com/track/07mYJZtAOLNsmCTQ8lt1BN) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Sleeping Giant](https://open.spotify.com/album/6ehXRByrOmrh5mwEjzXhCP) | 2:42 | 2021-12-13 | 2022-10-25 |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-13 | 2022-10-25 |

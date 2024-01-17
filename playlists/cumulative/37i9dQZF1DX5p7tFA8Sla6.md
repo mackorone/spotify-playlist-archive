@@ -4,7 +4,7 @@
 
 > Funk \- new and old \- to accompany your drive.
 
-110 songs - 8 hr 1 min
+111 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dancin' To The Truth](https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj) | 4:09 | 2019-08-22 |  |
 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 | 2019-08-22 | 2023-12-25 |
 | [Death Or Devotion](https://open.spotify.com/track/78jwdIEclJN3SrQzwKzubf) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 4:25 | 2019-08-22 |  |
-| [Devon](https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD) | [Run N' Fly](https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3) | [Run n' Fly](https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw) | 4:41 | 2019-08-22 |  |
+| [Devon](https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD) | [Run N' Fly](https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3) | [Run n' Fly](https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw) | 4:41 | 2019-08-22 | 2024-01-05 |
 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 | 2019-08-22 |  |
 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 | 2019-08-22 |  |
 | [Do It Like You Do](https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:11 | 2019-08-22 |  |
@@ -109,6 +109,7 @@
 | [This Funk \(Give Me a Hand\)](https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Third Wall Chronicles](https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ) | 3:40 | 2019-08-22 |  |
 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 | 2019-08-22 |  |
 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 | 2019-08-22 |  |
+| [Water](https://open.spotify.com/track/1qB1AGK7AbUKkCgHi0AqrF) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj) | 4:33 | 2019-08-22 |  |
 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 | 2019-08-22 | 2023-12-24 |
 | [What Is Hip?](https://open.spotify.com/track/66TSoVnJ1P9Tyok03zUlTr) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Tower Of Power](https://open.spotify.com/album/731Q7pBo9WEQyM52gUe0kJ) | 5:04 | 2019-08-22 |  |
 | [Who Is She \(And What Is She To You\)](https://open.spotify.com/track/7aqJzVdVIAwCokmju1Oid8) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:13 | 2019-08-22 |  |

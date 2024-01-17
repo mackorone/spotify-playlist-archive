@@ -761,6 +761,32 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6Kkt0PylR7nAQcRdvLEcYp"
+      },
+      "artists": [
+        {
+          "name": "Rohith Krishnan",
+          "url": "https://open.spotify.com/artist/1aMdMo25oGhLGu7XDhb5ji"
+        },
+        {
+          "name": "Akhil J. Chand",
+          "url": "https://open.spotify.com/artist/4jO97g76NBRTHUp74H6XmD"
+        },
+        {
+          "name": "Haritha Haribabu",
+          "url": "https://open.spotify.com/artist/7LeBWfsKPoNkHzn0zRwdT8"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3ZCWqVzn1IACccn8FAFcTf"
+    },
+    {
+      "album": {
         "name": "Giddh",
         "url": "https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO"
       },
@@ -1142,6 +1168,24 @@
       "duration_ms": 226666,
       "name": "Kaantha Reprised",
       "url": "https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu"
+    },
+    {
+      "album": {
+        "name": "Kaarum Kolum",
+        "url": "https://open.spotify.com/album/4eaeJ2zeADiJHSvwXxkJoB"
+      },
+      "artists": [
+        {
+          "name": "Rianna Danish",
+          "url": "https://open.spotify.com/artist/2ttHxFr3j0ANf2rKduJSnt"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204648,
+      "name": "Kaarum Kolum",
+      "url": "https://open.spotify.com/track/2dj6ZiBqbsp0OhIm7qiqRr"
     },
     {
       "album": {
@@ -1748,7 +1792,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 184126,
       "name": "Naamiravil",
       "url": "https://open.spotify.com/track/43BgaTwtMm6CNH4b87ewOB"
@@ -2874,7 +2918,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 204000,
       "name": "Uyaru",
       "url": "https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc"
@@ -3016,7 +3060,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 200014,
       "name": "Yaanam",
       "url": "https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU"

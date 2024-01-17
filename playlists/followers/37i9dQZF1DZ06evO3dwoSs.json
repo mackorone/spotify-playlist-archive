@@ -1,579 +1,2065 @@
 {
-  "2022-05-31": 449239,
-  "2022-06-01": 449527,
-  "2022-06-02": 449556,
-  "2022-06-03": 449715,
-  "2022-06-04": 449855,
-  "2022-06-05": 450006,
-  "2022-06-06": 450152,
-  "2022-06-07": 450304,
-  "2022-06-08": 450535,
-  "2022-06-09": 450661,
-  "2022-06-10": 450843,
-  "2022-06-11": 451064,
-  "2022-06-12": 451251,
-  "2022-06-13": 451400,
-  "2022-06-14": 451592,
-  "2022-06-15": 451787,
-  "2022-06-16": 452004,
-  "2022-06-17": 452207,
-  "2022-06-18": 452416,
-  "2022-06-19": 452739,
-  "2022-06-20": 452739,
-  "2022-06-21": 452906,
-  "2022-06-22": 453318,
-  "2022-06-23": 453318,
-  "2022-06-24": 453558,
-  "2022-06-25": 453797,
-  "2022-06-26": 454091,
-  "2022-06-27": 454294,
-  "2022-06-28": 454491,
-  "2022-06-29": 454714,
-  "2022-06-30": 454926,
-  "2022-07-01": 455160,
-  "2022-07-02": 455360,
-  "2022-07-03": 455553,
-  "2022-07-04": 455723,
-  "2022-07-05": 455723,
-  "2022-07-06": 455723,
-  "2022-07-07": 456262,
-  "2022-07-08": 456438,
-  "2022-07-09": 456630,
-  "2022-07-10": 456813,
-  "2022-07-11": 456958,
-  "2022-07-12": 457123,
-  "2022-07-13": 457306,
-  "2022-07-14": 457498,
-  "2022-07-15": 457683,
-  "2022-07-16": 457870,
-  "2022-07-17": 458033,
-  "2022-07-18": 458167,
-  "2022-07-19": 458300,
-  "2022-07-20": 458462,
-  "2022-07-21": 458592,
-  "2022-07-22": 458773,
-  "2022-07-23": 458947,
-  "2022-07-24": 459110,
-  "2022-07-25": 459267,
-  "2022-07-26": 459387,
-  "2022-07-27": 459546,
-  "2022-07-28": 459712,
-  "2022-07-29": 459908,
-  "2022-07-30": 460245,
-  "2022-07-31": 460245,
-  "2022-08-01": 460386,
-  "2022-08-02": 460673,
-  "2022-08-03": 460673,
-  "2022-08-04": 460827,
-  "2022-08-05": 460985,
-  "2022-08-06": 461154,
-  "2022-08-07": 461311,
-  "2022-08-08": 461446,
-  "2022-08-09": 461616,
-  "2022-08-10": 461796,
-  "2022-08-11": 461960,
-  "2022-08-12": 462116,
-  "2022-08-13": 462290,
-  "2022-08-14": 462449,
-  "2022-08-15": 462606,
-  "2022-08-16": 462799,
-  "2022-08-17": 462994,
-  "2022-08-18": 463174,
-  "2022-08-19": 463373,
-  "2022-08-20": 463600,
-  "2022-08-21": 463834,
-  "2022-08-22": 464029,
-  "2022-08-23": 464238,
-  "2022-08-24": 464439,
-  "2022-08-25": 464637,
-  "2022-08-26": 464829,
-  "2022-08-27": 465042,
-  "2022-08-28": 465228,
-  "2022-08-29": 465397,
-  "2022-08-30": 465448,
-  "2022-08-31": 465338,
-  "2022-09-01": 465245,
-  "2022-09-02": 465157,
-  "2022-09-03": 464862,
-  "2022-09-04": 464822,
-  "2022-09-05": 464899,
-  "2022-09-06": 465030,
-  "2022-09-07": 465165,
-  "2022-09-09": 465486,
-  "2022-09-10": 465677,
-  "2022-09-11": 465839,
-  "2022-09-12": 465949,
-  "2022-09-13": 466099,
-  "2022-09-15": 466404,
-  "2022-09-16": 466563,
-  "2022-09-17": 466752,
-  "2022-09-18": 466930,
-  "2022-09-19": 467074,
-  "2022-09-20": 467214,
-  "2022-09-21": 467382,
-  "2022-09-22": 467572,
-  "2022-09-23": 467763,
-  "2022-09-24": 467763,
-  "2022-09-25": 468108,
-  "2022-09-26": 468255,
-  "2022-09-27": 468416,
-  "2022-09-28": 468569,
-  "2022-09-29": 468786,
-  "2022-09-30": 468974,
-  "2022-10-01": 469153,
-  "2022-10-02": 469311,
-  "2022-10-03": 469465,
-  "2022-10-04": 469631,
-  "2022-10-05": 469791,
-  "2022-10-06": 469977,
-  "2022-10-07": 470135,
-  "2022-10-08": 470303,
-  "2022-10-09": 470544,
-  "2022-10-10": 470567,
-  "2022-10-11": 470720,
-  "2022-10-12": 470877,
-  "2022-10-13": 471044,
-  "2022-10-14": 471227,
-  "2022-10-15": 471412,
-  "2022-10-16": 471614,
-  "2022-10-17": 471754,
-  "2022-10-18": 471908,
-  "2022-10-19": 472078,
-  "2022-10-20": 472229,
-  "2022-10-21": 472398,
-  "2022-10-22": 472592,
-  "2022-10-23": 472750,
-  "2022-10-24": 472890,
-  "2022-10-25": 473028,
-  "2022-10-26": 473177,
-  "2022-10-27": 473344,
-  "2022-10-28": 473491,
-  "2022-10-29": 473666,
-  "2022-10-30": 473827,
-  "2022-10-31": 473964,
-  "2022-11-01": 474062,
-  "2022-11-02": 474218,
-  "2022-11-03": 474382,
-  "2022-11-04": 474514,
-  "2022-11-05": 474686,
-  "2022-11-06": 474844,
-  "2022-11-07": 474952,
-  "2022-11-08": 475100,
-  "2022-11-09": 475271,
-  "2022-11-10": 475428,
-  "2022-11-11": 475578,
-  "2022-11-12": 475752,
-  "2022-11-13": 475889,
-  "2022-11-14": 476018,
-  "2022-11-15": 476161,
-  "2022-11-16": 476307,
-  "2022-11-17": 476480,
-  "2022-11-18": 476513,
-  "2022-11-19": 476557,
-  "2022-11-20": 476713,
-  "2022-11-21": 476892,
-  "2022-11-22": 477056,
-  "2022-11-23": 477192,
-  "2022-11-24": 477479,
-  "2022-11-25": 477689,
-  "2022-11-26": 477842,
-  "2022-11-27": 477973,
-  "2022-11-28": 478095,
-  "2022-11-29": 478226,
-  "2022-11-30": 478388,
-  "2022-12-01": 478573,
-  "2022-12-02": 478698,
-  "2022-12-03": 478969,
-  "2022-12-04": 479180,
-  "2022-12-05": 479313,
-  "2022-12-06": 479454,
-  "2022-12-07": 479644,
-  "2022-12-08": 479825,
-  "2022-12-09": 480020,
-  "2022-12-10": 480213,
-  "2022-12-11": 480368,
-  "2022-12-12": 480496,
-  "2022-12-13": 480612,
-  "2022-12-14": 480753,
-  "2022-12-15": 480945,
-  "2022-12-16": 481092,
-  "2022-12-17": 481255,
-  "2022-12-18": 481393,
-  "2022-12-19": 481519,
-  "2022-12-20": 481772,
-  "2022-12-21": 481772,
-  "2022-12-22": 481886,
-  "2022-12-24": 482153,
-  "2022-12-25": 482285,
-  "2022-12-26": 482416,
-  "2022-12-27": 482541,
-  "2022-12-28": 482639,
-  "2022-12-29": 482795,
-  "2022-12-30": 482903,
-  "2022-12-31": 483054,
-  "2023-01-01": 483212,
-  "2023-01-02": 483324,
-  "2023-01-03": 483458,
-  "2023-01-04": 483553,
-  "2023-01-05": 483681,
-  "2023-01-06": 483846,
-  "2023-01-07": 484052,
-  "2023-01-08": 484088,
-  "2023-01-09": 484226,
-  "2023-01-10": 484341,
-  "2023-01-11": 484462,
-  "2023-01-12": 484606,
-  "2023-01-13": 484746,
-  "2023-01-14": 485036,
-  "2023-01-15": 485063,
-  "2023-01-16": 485184,
-  "2023-01-17": 485333,
-  "2023-01-18": 485477,
-  "2023-01-19": 485640,
-  "2023-01-20": 485817,
-  "2023-01-21": 485991,
-  "2023-01-22": 486154,
-  "2023-01-23": 486284,
-  "2023-01-24": 486454,
-  "2023-01-25": 486605,
-  "2023-01-26": 486766,
-  "2023-01-27": 486907,
-  "2023-01-28": 487084,
-  "2023-01-29": 487231,
-  "2023-01-30": 487336,
-  "2023-01-31": 487336,
-  "2023-02-01": 487617,
-  "2023-02-02": 487748,
-  "2023-02-03": 487892,
-  "2023-02-04": 488058,
-  "2023-02-05": 488203,
-  "2023-02-06": 488336,
-  "2023-02-07": 488459,
-  "2023-02-08": 488718,
-  "2023-02-09": 488718,
-  "2023-02-10": 488868,
-  "2023-02-11": 489027,
-  "2023-02-12": 489347,
-  "2023-02-13": 489491,
-  "2023-02-14": 489491,
-  "2023-02-15": 489629,
-  "2023-02-16": 489800,
-  "2023-02-17": 489971,
-  "2023-02-18": 490286,
-  "2023-02-19": 490308,
-  "2023-02-20": 490415,
-  "2023-02-21": 490552,
-  "2023-02-22": 490674,
-  "2023-02-23": 490829,
-  "2023-02-24": 491025,
-  "2023-02-25": 491262,
-  "2023-02-26": 491356,
-  "2023-02-27": 491635,
-  "2023-02-28": 491635,
-  "2023-03-01": 491792,
-  "2023-03-02": 491976,
-  "2023-03-03": 492148,
-  "2023-03-04": 492312,
-  "2023-03-05": 492641,
-  "2023-03-06": 492641,
-  "2023-03-07": 492817,
-  "2023-03-08": 493013,
-  "2023-03-09": 493192,
-  "2023-03-10": 493337,
-  "2023-03-11": 493512,
-  "2023-03-12": 493669,
-  "2023-03-13": 493776,
-  "2023-03-14": 493919,
-  "2023-03-15": 494081,
-  "2023-03-16": 494081,
-  "2023-03-17": 494081,
-  "2023-03-18": 494585,
-  "2023-03-19": 494585,
-  "2023-03-20": 494878,
-  "2023-03-21": 495041,
-  "2023-03-22": 495226,
-  "2023-03-23": 495390,
-  "2023-03-24": 495390,
-  "2023-03-25": 495797,
-  "2023-03-26": 495984,
-  "2023-03-27": 496157,
-  "2023-03-28": 496354,
-  "2023-03-29": 496547,
-  "2023-03-30": 496850,
-  "2023-03-31": 496850,
-  "2023-04-01": 497007,
-  "2023-04-02": 497185,
-  "2023-04-03": 497315,
-  "2023-04-04": 497509,
-  "2023-04-05": 497673,
-  "2023-04-06": 497812,
-  "2023-04-07": 497980,
-  "2023-04-09": 498328,
-  "2023-04-10": 498494,
-  "2023-04-11": 498836,
-  "2023-04-12": 498836,
-  "2023-04-13": 498979,
-  "2023-04-14": 499136,
-  "2023-04-15": 499292,
-  "2023-04-16": 499441,
-  "2023-04-17": 499589,
-  "2023-04-18": 499721,
-  "2023-04-19": 499864,
-  "2023-04-20": 500014,
-  "2023-04-21": 500177,
-  "2023-04-22": 500348,
-  "2023-04-23": 500531,
-  "2023-04-24": 500681,
-  "2023-04-25": 500839,
-  "2023-04-26": 501022,
-  "2023-04-27": 501171,
-  "2023-04-28": 501356,
-  "2023-04-29": 501543,
-  "2023-04-30": 501696,
-  "2023-05-01": 501814,
-  "2023-05-02": 501964,
-  "2023-05-03": 502084,
-  "2023-05-04": 502218,
-  "2023-05-05": 502394,
-  "2023-05-06": 502580,
-  "2023-05-07": 502756,
-  "2023-05-08": 502915,
-  "2023-05-09": 503064,
-  "2023-05-10": 503243,
-  "2023-05-11": 503418,
-  "2023-05-12": 503557,
-  "2023-05-13": 503697,
-  "2023-05-14": 503812,
-  "2023-05-15": 503908,
-  "2023-05-16": 504049,
-  "2023-05-17": 504210,
-  "2023-05-18": 504379,
-  "2023-05-19": 504515,
-  "2023-05-20": 504820,
-  "2023-05-21": 504820,
-  "2023-05-22": 504820,
-  "2023-05-23": 505040,
-  "2023-05-24": 505292,
-  "2023-05-25": 505324,
-  "2023-05-26": 505447,
-  "2023-05-27": 505580,
-  "2023-05-28": 505698,
-  "2023-05-29": 505698,
-  "2023-05-30": 505903,
-  "2023-05-31": 506031,
-  "2023-06-01": 506172,
-  "2023-06-02": 506290,
-  "2023-06-03": 506436,
-  "2023-06-04": 506592,
-  "2023-06-05": 506701,
-  "2023-06-06": 506826,
-  "2023-06-07": 506995,
-  "2023-06-08": 507144,
-  "2023-06-09": 507300,
-  "2023-06-10": 507460,
-  "2023-06-11": 507609,
-  "2023-06-12": 507720,
-  "2023-06-13": 507860,
-  "2023-06-14": 507985,
-  "2023-06-15": 508127,
-  "2023-06-16": 508282,
-  "2023-06-17": 508455,
-  "2023-06-18": 508593,
-  "2023-06-19": 508693,
-  "2023-06-20": 508843,
-  "2023-06-21": 509018,
-  "2023-06-22": 509123,
-  "2023-06-23": 509252,
-  "2023-06-24": 509392,
-  "2023-06-25": 509505,
-  "2023-06-26": 509668,
-  "2023-06-27": 509798,
-  "2023-06-28": 509942,
-  "2023-06-29": 510040,
-  "2023-06-30": 510182,
-  "2023-07-01": 510421,
-  "2023-07-02": 510421,
-  "2023-07-03": 510515,
-  "2023-07-04": 510622,
-  "2023-07-05": 510762,
-  "2023-07-06": 510988,
-  "2023-07-07": 510988,
-  "2023-07-08": 510988,
-  "2023-07-09": 511247,
-  "2023-07-10": 511366,
-  "2023-07-11": 511446,
-  "2023-07-12": 511550,
-  "2023-07-13": 511679,
-  "2023-07-14": 511805,
-  "2023-07-15": 511879,
-  "2023-07-16": 512031,
-  "2023-07-17": 512132,
-  "2023-07-18": 512266,
-  "2023-07-19": 512385,
-  "2023-07-20": 512385,
-  "2023-07-21": 512645,
-  "2023-07-22": 512770,
-  "2023-07-23": 512913,
-  "2023-07-24": 513038,
-  "2023-07-25": 513160,
-  "2023-07-26": 513293,
-  "2023-07-27": 513432,
-  "2023-07-28": 513599,
-  "2023-07-29": 513709,
-  "2023-07-30": 513709,
-  "2023-07-31": 513986,
-  "2023-08-01": 514089,
-  "2023-08-02": 514206,
-  "2023-08-03": 514336,
-  "2023-08-04": 514451,
-  "2023-08-05": 514540,
-  "2023-08-06": 514806,
-  "2023-08-07": 514806,
-  "2023-08-08": 514950,
-  "2023-08-09": 515075,
-  "2023-08-10": 515212,
-  "2023-08-11": 515329,
-  "2023-08-12": 515329,
-  "2023-08-13": 515329,
-  "2023-08-14": 515329,
-  "2023-08-15": 515329,
-  "2023-08-16": 515329,
-  "2023-08-17": 515329,
-  "2023-08-18": 515329,
-  "2023-08-19": 515329,
-  "2023-08-20": 516532,
-  "2023-08-21": 516532,
-  "2023-08-22": 516783,
-  "2023-08-23": 516783,
-  "2023-08-24": 516783,
-  "2023-08-25": 516783,
-  "2023-08-26": 517342,
-  "2023-08-27": 517342,
-  "2023-08-28": 517507,
-  "2023-08-29": 517507,
-  "2023-08-30": 517507,
-  "2023-08-31": 517882,
-  "2023-09-01": 518017,
-  "2023-09-02": 518017,
-  "2023-09-03": 518017,
-  "2023-09-04": 518017,
-  "2023-09-05": 518017,
-  "2023-09-06": 518017,
-  "2023-09-07": 518017,
-  "2023-09-08": 518017,
-  "2023-09-09": 518017,
-  "2023-09-10": 518017,
-  "2023-09-11": 518017,
-  "2023-09-12": 518017,
-  "2023-09-13": 518017,
-  "2023-09-14": 518017,
-  "2023-09-15": 518017,
-  "2023-09-16": 519667,
-  "2023-09-17": 519667,
-  "2023-09-18": 519667,
-  "2023-09-19": 519933,
-  "2023-09-20": 519933,
-  "2023-09-21": 519933,
-  "2023-09-22": 520267,
-  "2023-09-23": 520267,
-  "2023-09-24": 520267,
-  "2023-09-25": 520267,
-  "2023-09-26": 520738,
-  "2023-09-27": 520738,
-  "2023-09-28": 520738,
-  "2023-09-29": 520738,
-  "2023-09-30": 520738,
-  "2023-10-01": 520738,
-  "2023-10-02": 520738,
-  "2023-10-03": 520738,
-  "2023-10-04": 520738,
-  "2023-10-05": 520738,
-  "2023-10-06": 520738,
-  "2023-10-07": 520738,
-  "2023-10-08": 520738,
-  "2023-10-09": 520738,
-  "2023-10-10": 520738,
-  "2023-10-11": 520738,
-  "2023-10-12": 520738,
-  "2023-10-13": 520738,
-  "2023-10-14": 520738,
-  "2023-10-15": 520738,
-  "2023-10-16": 520738,
-  "2023-10-17": 520738,
-  "2023-10-18": 520738,
-  "2023-10-19": 520738,
-  "2023-10-20": 520738,
-  "2023-10-21": 520738,
-  "2023-10-22": 520738,
-  "2023-10-23": 520738,
-  "2023-10-24": 520738,
-  "2023-10-25": 520738,
-  "2023-10-26": 520738,
-  "2023-10-27": 520738,
-  "2023-10-28": 520738,
-  "2023-10-29": 520738,
-  "2023-10-30": 520738,
-  "2023-10-31": 520738,
-  "2023-11-01": 520738,
-  "2023-11-02": 520738,
-  "2023-11-03": 520738,
-  "2023-11-04": 520738,
-  "2023-11-05": 520738,
-  "2023-11-06": 520738,
-  "2023-11-07": 520738,
-  "2023-11-08": 520738,
-  "2023-11-09": 520738,
-  "2023-11-10": 520738,
-  "2023-11-11": 524762,
-  "2023-11-12": 524762,
-  "2023-11-13": 524762,
-  "2023-11-14": 524762,
-  "2023-11-15": 524762,
-  "2023-11-16": 524762,
-  "2023-11-17": 524762,
-  "2023-11-18": 524762,
-  "2023-11-19": 524762,
-  "2023-11-20": 524762,
-  "2023-11-21": 524762,
-  "2023-11-22": 524762,
-  "2023-11-23": 524762,
-  "2023-11-24": 524762,
-  "2023-11-25": 524762,
-  "2023-11-26": 524762,
-  "2023-11-27": 524762,
-  "2023-11-28": 524762,
-  "2023-11-29": 524762,
-  "2023-11-30": 524762,
-  "2023-12-01": 524762,
-  "2023-12-02": 524762,
-  "2023-12-03": 524762,
-  "2023-12-04": 524762,
-  "2023-12-05": 524762,
-  "2023-12-06": 524762,
-  "2023-12-07": 524762,
-  "2023-12-08": 524762,
-  "2023-12-09": 524762,
-  "2023-12-10": 524762,
-  "2023-12-11": 524762,
-  "2023-12-12": 524762,
-  "2023-12-13": 524762,
-  "2023-12-14": 527720,
-  "2023-12-15": 527829,
-  "2023-12-16": 527954,
-  "2023-12-17": 528057,
-  "2023-12-18": 528140,
-  "2023-12-19": 528197,
-  "2023-12-20": 528273,
-  "2023-12-21": 528367,
-  "2023-12-22": 528475,
-  "2023-12-23": 528582,
-  "2023-12-24": 528667,
-  "2023-12-25": 528756,
-  "2023-12-26": 528838,
-  "2023-12-27": 528931,
-  "2023-12-30": 529197,
-  "2023-12-31": 529294,
-  "2024-01-01": 529352,
-  "2024-01-02": 529406,
-  "2024-01-03": 529462
+  "2024-01-17": 529697,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
+  "name": "This Is Five Finger Death Punch",
+  "tracks": [
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 200973,
+      "name": "100 Ways to Hate",
+      "url": "https://open.spotify.com/track/3MqBeOg7m00il51nSHaH7U"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 226358,
+      "name": "A Day in My Life",
+      "url": "https://open.spotify.com/track/6fe8KzTyzfnkm1IdwTPLUM"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190718,
+      "name": "A Little Bit Off",
+      "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "AfterLife",
+      "url": "https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 243560,
+      "name": "AfterLife",
+      "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 311876,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/3Q90tQQevxxirs4vcIcMkc"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 208440,
+      "name": "American Capitalist",
+      "url": "https://open.spotify.com/track/6M03l92wCO24RfxLlEfNdP"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/7m0JmDshYPjYJAb1C4aPdH"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/07rwiVsch7a9DhwnX1eFrT"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/7x2gOLBT1ruFBNsxFmddWw"
+    },
+    {
+      "album": {
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
+    },
+    {
+      "album": {
+        "name": "Blue on Black",
+        "url": "https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Brian May",
+          "url": "https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3"
+        },
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa"
+    },
+    {
+      "album": {
+        "name": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
+        "url": "https://open.spotify.com/album/5CmhQvNnH3x3xObNLccLxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Brian May",
+          "url": "https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 274615,
+      "name": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
+      "url": "https://open.spotify.com/track/3lwpE0SEaQV5DWNjqMtYEk"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269578,
+      "name": "Brighter Side of Grey",
+      "url": "https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/0QTpLHFixtmJCU9o0ZIShg"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/0XWLi9IG0mYwdcBFtUdhC8"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
+    },
+    {
+      "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217847,
+      "name": "Burn MF (feat Rob Zombie)",
+      "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
+    },
+    {
+      "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 227699,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5Dxxdp9KF0YkdnMHxGdRJv"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 227699,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5h5S51CceDgRpWE4Ri1YJQ"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/4cf8wfqub8gibjfGhLAieK"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227699,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6sPNYpAVqMuGd5OzyhLlP8"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
+    },
+    {
+      "album": {
+        "name": "American Capitalist",
+        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 198067,
+      "name": "Cradle to the Grave",
+      "url": "https://open.spotify.com/track/2pxCVKnYzmVIQJONukyBrU"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198067,
+      "name": "Cradle to the Grave",
+      "url": "https://open.spotify.com/track/4bpI7WOnEjXDAnZtyvaX5A"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281803,
+      "name": "Darkness Settles In",
+      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 234400,
+      "name": "Death Before Dishonor",
+      "url": "https://open.spotify.com/track/3dTVCGEQnUXiTcQugWlx39"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195090,
+      "name": "Dot Your Eyes",
+      "url": "https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 195090,
+      "name": "Dot Your Eyes",
+      "url": "https://open.spotify.com/track/6lvtWK82l7aQmIGbC1yJfY"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 195090,
+      "name": "Dot Your Eyes",
+      "url": "https://open.spotify.com/track/6rPwXyxKZPiGhkcX5lwhps"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/3DjRp5TOyy29YsfKbCWK3f"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 212493,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/5amizkTBqCkDYqoOM9mFn6"
+    },
+    {
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 212493,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/70WpP83384wgKixTKbt3Nb"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202249,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/57nTFMsSiVATCDPZm9JF4S"
+    },
+    {
+      "album": {
+        "name": "A Decade of Destruction",
+        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178100,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/3JfBv2YfwPdflYUGMCeHgt"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 178100,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/6h6RvArm9RlU16rz1nFMnE"
+    },
+    {
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 209493,
+      "name": "Hard to See",
+      "url": "https://open.spotify.com/track/4vzPsfKiHxzOrc8HGxKbsr"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/6AYpL5yUGbvwNaTUzLpNcA"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 209493,
+      "name": "Hard To See",
+      "url": "https://open.spotify.com/track/6X13xZ3XOF2ThTvvLAODHc"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187670,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 187670,
+      "name": "Hell to Pay",
+      "url": "https://open.spotify.com/track/6J97fOUqgVLcb1eg21QXjg"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 247388,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
+        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247388,
+      "name": "House of The Rising Sun",
+      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242956,
+      "name": "I Apologize",
+      "url": "https://open.spotify.com/track/0B2N4OGP6faYsITpdKEH1D"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 242956,
+      "name": "I Apologize",
+      "url": "https://open.spotify.com/track/11uYLvX94pLqGXyiBqv4vI"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 242956,
+      "name": "I Apologize",
+      "url": "https://open.spotify.com/track/6rLrVRpM8XY6UZAIl15JWV"
+    },
+    {
+      "album": {
+        "name": "A Decade of Destruction Vol. 2",
+        "url": "https://open.spotify.com/album/7IohthhlKo2iY7hLnFNbbb"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 218788,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0fMIhVO47aLOTwYgizGmPc"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/4Gdw4nm4xrfMj7FgZV7NBg"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218788,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/2UKsB1MGcDCMhOkcDNTYlB"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 218788,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/7H3wZikaMxA1D3ipMy8evb"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226348,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 267290,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/0rqRkmrlWyuhSUqJKvf8SK"
+    },
+    {
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 267290,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292804,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246209,
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
+    },
+    {
+      "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214542,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2yGFWQDxP5lN9aLL6hKfsq"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 245951,
+      "name": "M.I.N.E (End This Way)",
+      "url": "https://open.spotify.com/track/0DZihiarNaosLsRuI4DcLK"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 245951,
+      "name": "M.I.N.E (End This Way)",
+      "url": "https://open.spotify.com/track/1aZZjgzJGwJVLXaAj20TWU"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245951,
+      "name": "M.I.N.E (End This Way)",
+      "url": "https://open.spotify.com/track/4KwctVpNvYmbT6Pve7llRu"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167509,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 167509,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/5tGGvBpnjKJosBAmsb9eHX"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/3YdGWVvW7iZtVhPkF375Dn"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/3yjAlc027mS1b7Mjh6c1Fb"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/5f2uoq4GfpeViLcsP3FtES"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/3mgPA7sjUDoXi3s9xGSi4O"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/5RFGKcEjbcHBrr6jgU0wPE"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 203786,
+      "name": "No One Gets Left Behind",
+      "url": "https://open.spotify.com/track/007qYpVaKepM83aZ9Fld0L"
+    },
+    {
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 203786,
+      "name": "No One Gets Left Behind",
+      "url": "https://open.spotify.com/track/3Z15JSB3lBhe00Jv2lz4OG"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203786,
+      "name": "No One Gets Left Behind",
+      "url": "https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 188842,
+      "name": "Pick Up Behind You",
+      "url": "https://open.spotify.com/track/6sMOYEbYigMVoIVNyNEIPN"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 278813,
+      "name": "Remember Everything",
+      "url": "https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278813,
+      "name": "Remember Everything",
+      "url": "https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 199813,
+      "name": "Roll Dem Bones",
+      "url": "https://open.spotify.com/track/2EwMqSMpU9nTkdB0pIExdX"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198780,
+      "name": "Thanks For Asking",
+      "url": "https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 268666,
+      "name": "The Bleeding",
+      "url": "https://open.spotify.com/track/4l4ytfBCPSovTX8CB5li3m"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 268666,
+      "name": "The Bleeding",
+      "url": "https://open.spotify.com/track/6LRmV5GZUjKLgxi7lBWriQ"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/2Mn74oOIxU32wfHDcHknRL"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271346,
+      "name": "The Bleeding",
+      "url": "https://open.spotify.com/track/0PhgdhsVVVFQBAL4FXSy1K"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223199,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe)",
+        "url": "https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/2tbMiz9p19QbSJlbHiMs2y"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/325DnWQMb1hU1EEfmOFGiF"
+    },
+    {
+      "album": {
+        "name": "American Capitalist",
+        "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203813,
+      "name": "The Pride",
+      "url": "https://open.spotify.com/track/4HQAeEIplslteReNxE8jFW"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E"
+    },
+    {
+      "album": {
+        "name": "Times Like These",
+        "url": "https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 209976,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162051,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 162051,
+      "name": "Top of the World",
+      "url": "https://open.spotify.com/track/60IMwt4QDGWwFHhWWbrbbD"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 192188,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6q05Nn2QU91KkGxY0m8vCk"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe)",
+        "url": "https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/35aYLuIWeFd7iM7rY3x5GB"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/7DyCmfT0WNViykLTHGT3yO"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 222626,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0bayz3NQJ7aPqfu2kPM3WN"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2dlgumgcNCRafhgZQyDCzH"
+    },
+    {
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 198320,
+      "name": "War is the Answer",
+      "url": "https://open.spotify.com/track/0UTCSheV2ceAXo6fpPMptn"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "War Is the Answer",
+      "url": "https://open.spotify.com/track/40diQlqwPj2HPxxhakP7FI"
+    },
+    {
+      "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 198320,
+      "name": "War Is the Answer",
+      "url": "https://open.spotify.com/track/53GK1KimbnONpkyckcWkiD"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 219563,
+      "name": "Weight Beneath My Sin",
+      "url": "https://open.spotify.com/track/1Fr6g8S9EiF17IlnzONr7X"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/093pLJk6h71BCYyrcVQGEO"
+    },
+    {
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/2xPWtgmqkjxDxfr3YKkXkq"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0gMTjqQCHmQpCqmmeCy2wP"
+    },
+    {
+      "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dwoSs"
 }

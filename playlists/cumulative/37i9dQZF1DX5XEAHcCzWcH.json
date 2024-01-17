@@ -264,20 +264,50 @@
           "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         },
         {
-          "name": "Willie \"Big Eyes\" Smith",
-          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
-        },
-        {
           "name": "Calvin \"fuzz\" Jones",
           "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
         }
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
+    },
+    {
+      "album": {
+        "name": "Eye to Eye",
+        "url": "https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+        },
+        {
+          "name": "Calvin \"fuzz\" Jones",
+          "url": "https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288240,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL"
     },
     {
       "album": {

@@ -1,596 +1,1583 @@
 {
-  "2022-05-14": 6697,
-  "2022-05-15": 6697,
-  "2022-05-16": 6700,
-  "2022-05-17": 6706,
-  "2022-05-18": 6710,
-  "2022-05-19": 6717,
-  "2022-05-20": 6717,
-  "2022-05-21": 6726,
-  "2022-05-22": 6726,
-  "2022-05-23": 6727,
-  "2022-05-24": 6734,
-  "2022-05-25": 6739,
-  "2022-05-26": 6742,
-  "2022-05-27": 6745,
-  "2022-05-28": 6750,
-  "2022-05-29": 6757,
-  "2022-05-30": 6759,
-  "2022-05-31": 6763,
-  "2022-06-01": 6771,
-  "2022-06-02": 6771,
-  "2022-06-03": 6773,
-  "2022-06-04": 6776,
-  "2022-06-05": 6785,
-  "2022-06-06": 6790,
-  "2022-06-07": 6792,
-  "2022-06-08": 6801,
-  "2022-06-09": 6806,
-  "2022-06-10": 6808,
-  "2022-06-11": 6816,
-  "2022-06-12": 6820,
-  "2022-06-13": 6821,
-  "2022-06-14": 6825,
-  "2022-06-15": 6828,
-  "2022-06-16": 6835,
-  "2022-06-17": 6838,
-  "2022-06-18": 6838,
-  "2022-06-19": 6853,
-  "2022-06-20": 6853,
-  "2022-06-21": 6860,
-  "2022-06-22": 6871,
-  "2022-06-23": 6871,
-  "2022-06-24": 6876,
-  "2022-06-25": 6892,
-  "2022-06-26": 6899,
-  "2022-06-27": 6899,
-  "2022-06-28": 6906,
-  "2022-06-29": 6909,
-  "2022-06-30": 6911,
-  "2022-07-01": 6913,
-  "2022-07-02": 6921,
-  "2022-07-03": 6927,
-  "2022-07-04": 6928,
-  "2022-07-05": 6931,
-  "2022-07-06": 6933,
-  "2022-07-07": 6938,
-  "2022-07-08": 6940,
-  "2022-07-09": 6939,
-  "2022-07-10": 6939,
-  "2022-07-11": 6945,
-  "2022-07-12": 6945,
-  "2022-07-13": 6950,
-  "2022-07-14": 6956,
-  "2022-07-15": 6958,
-  "2022-07-16": 6966,
-  "2022-07-17": 6968,
-  "2022-07-18": 6978,
-  "2022-07-19": 6983,
-  "2022-07-20": 6985,
-  "2022-07-21": 6989,
-  "2022-07-22": 7000,
-  "2022-07-23": 7004,
-  "2022-07-24": 7011,
-  "2022-07-25": 7021,
-  "2022-07-26": 7027,
-  "2022-07-27": 7029,
-  "2022-07-28": 7032,
-  "2022-07-29": 7034,
-  "2022-07-30": 7048,
-  "2022-07-31": 7048,
-  "2022-08-01": 7049,
-  "2022-08-02": 7055,
-  "2022-08-03": 7055,
-  "2022-08-04": 7059,
-  "2022-08-05": 7061,
-  "2022-08-06": 7066,
-  "2022-08-07": 7071,
-  "2022-08-08": 7074,
-  "2022-08-09": 7078,
-  "2022-08-10": 7083,
-  "2022-08-11": 7084,
-  "2022-08-12": 7090,
-  "2022-08-13": 7094,
-  "2022-08-14": 7102,
-  "2022-08-15": 7105,
-  "2022-08-16": 7110,
-  "2022-08-17": 7117,
-  "2022-08-18": 7121,
-  "2022-08-19": 7129,
-  "2022-08-20": 7137,
-  "2022-08-21": 7142,
-  "2022-08-22": 7145,
-  "2022-08-23": 7146,
-  "2022-08-24": 7151,
-  "2022-08-25": 7155,
-  "2022-08-26": 7161,
-  "2022-08-27": 7163,
-  "2022-08-28": 7165,
-  "2022-08-29": 7175,
-  "2022-08-30": 7177,
-  "2022-08-31": 7181,
-  "2022-09-01": 7183,
-  "2022-09-02": 7185,
-  "2022-09-03": 7186,
-  "2022-09-04": 7189,
-  "2022-09-05": 7194,
-  "2022-09-06": 7198,
-  "2022-09-07": 7201,
-  "2022-09-09": 7208,
-  "2022-09-10": 7212,
-  "2022-09-11": 7215,
-  "2022-09-12": 7218,
-  "2022-09-13": 7225,
-  "2022-09-15": 7234,
-  "2022-09-16": 7233,
-  "2022-09-17": 7241,
-  "2022-09-18": 7242,
-  "2022-09-19": 7247,
-  "2022-09-20": 7250,
-  "2022-09-21": 7252,
-  "2022-09-22": 7256,
-  "2022-09-23": 7258,
-  "2022-09-24": 7265,
-  "2022-09-25": 7270,
-  "2022-09-26": 7275,
-  "2022-09-27": 7280,
-  "2022-09-28": 7281,
-  "2022-09-29": 7286,
-  "2022-09-30": 7288,
-  "2022-10-01": 7293,
-  "2022-10-02": 7296,
-  "2022-10-03": 7302,
-  "2022-10-04": 7303,
-  "2022-10-05": 7305,
-  "2022-10-06": 7311,
-  "2022-10-07": 7318,
-  "2022-10-08": 7322,
-  "2022-10-09": 7331,
-  "2022-10-10": 7331,
-  "2022-10-11": 7333,
-  "2022-10-12": 7339,
-  "2022-10-13": 7344,
-  "2022-10-14": 7350,
-  "2022-10-15": 7352,
-  "2022-10-16": 7359,
-  "2022-10-17": 7366,
-  "2022-10-18": 7369,
-  "2022-10-19": 7372,
-  "2022-10-20": 7379,
-  "2022-10-21": 7385,
-  "2022-10-22": 7389,
-  "2022-10-23": 7395,
-  "2022-10-24": 7399,
-  "2022-10-25": 7404,
-  "2022-10-26": 7410,
-  "2022-10-27": 7418,
-  "2022-10-28": 7424,
-  "2022-10-29": 7430,
-  "2022-10-30": 7432,
-  "2022-10-31": 7439,
-  "2022-11-01": 7446,
-  "2022-11-02": 7448,
-  "2022-11-03": 7453,
-  "2022-11-04": 7457,
-  "2022-11-05": 7458,
-  "2022-11-06": 7464,
-  "2022-11-07": 7466,
-  "2022-11-08": 7476,
-  "2022-11-09": 7479,
-  "2022-11-10": 7486,
-  "2022-11-11": 7489,
-  "2022-11-12": 7497,
-  "2022-11-13": 7507,
-  "2022-11-14": 7514,
-  "2022-11-15": 7514,
-  "2022-11-16": 7517,
-  "2022-11-17": 7520,
-  "2022-11-18": 7521,
-  "2022-11-19": 7520,
-  "2022-11-20": 7524,
-  "2022-11-21": 7527,
-  "2022-11-22": 7529,
-  "2022-11-23": 7536,
-  "2022-11-24": 7543,
-  "2022-11-25": 7551,
-  "2022-11-26": 7551,
-  "2022-11-27": 7552,
-  "2022-11-28": 7557,
-  "2022-11-29": 7558,
-  "2022-11-30": 7563,
-  "2022-12-01": 7567,
-  "2022-12-02": 7571,
-  "2022-12-03": 7584,
-  "2022-12-04": 7589,
-  "2022-12-05": 7594,
-  "2022-12-06": 7598,
-  "2022-12-07": 7601,
-  "2022-12-08": 7608,
-  "2022-12-09": 7614,
-  "2022-12-10": 7625,
-  "2022-12-11": 7630,
-  "2022-12-12": 7633,
-  "2022-12-13": 7638,
-  "2022-12-14": 7649,
-  "2022-12-15": 7653,
-  "2022-12-16": 7656,
-  "2022-12-17": 7658,
-  "2022-12-18": 7666,
-  "2022-12-19": 7669,
-  "2022-12-20": 7676,
-  "2022-12-21": 7676,
-  "2022-12-22": 7680,
-  "2022-12-24": 7690,
-  "2022-12-25": 7695,
-  "2022-12-26": 7699,
-  "2022-12-27": 7702,
-  "2022-12-28": 7709,
-  "2022-12-29": 7717,
-  "2022-12-30": 7720,
-  "2022-12-31": 7722,
-  "2023-01-01": 7729,
-  "2023-01-02": 7732,
-  "2023-01-03": 7742,
-  "2023-01-04": 7740,
-  "2023-01-05": 7746,
-  "2023-01-06": 7745,
-  "2023-01-07": 7753,
-  "2023-01-08": 7753,
-  "2023-01-09": 7761,
-  "2023-01-10": 7763,
-  "2023-01-11": 7761,
-  "2023-01-12": 7765,
-  "2023-01-13": 7770,
-  "2023-01-14": 7793,
-  "2023-01-15": 7793,
-  "2023-01-16": 7799,
-  "2023-01-17": 7806,
-  "2023-01-18": 7813,
-  "2023-01-19": 7818,
-  "2023-01-20": 7823,
-  "2023-01-21": 7823,
-  "2023-01-22": 7829,
-  "2023-01-23": 7830,
-  "2023-01-24": 7831,
-  "2023-01-25": 7838,
-  "2023-01-26": 7846,
-  "2023-01-27": 7852,
-  "2023-01-28": 7858,
-  "2023-01-29": 7864,
-  "2023-01-30": 7870,
-  "2023-01-31": 7870,
-  "2023-02-01": 7871,
-  "2023-02-02": 7874,
-  "2023-02-03": 7879,
-  "2023-02-04": 7883,
-  "2023-02-05": 7892,
-  "2023-02-06": 7898,
-  "2023-02-07": 7902,
-  "2023-02-08": 7917,
-  "2023-02-09": 7917,
-  "2023-02-10": 7918,
-  "2023-02-11": 7920,
-  "2023-02-12": 7926,
-  "2023-02-13": 7931,
-  "2023-02-14": 7931,
-  "2023-02-15": 7936,
-  "2023-02-16": 7939,
-  "2023-02-17": 7944,
-  "2023-02-18": 7946,
-  "2023-02-19": 7949,
-  "2023-02-20": 7955,
-  "2023-02-21": 7954,
-  "2023-02-22": 7962,
-  "2023-02-23": 7965,
-  "2023-02-24": 7965,
-  "2023-02-25": 7970,
-  "2023-02-26": 7972,
-  "2023-02-27": 7980,
-  "2023-02-28": 7980,
-  "2023-03-01": 7985,
-  "2023-03-02": 7986,
-  "2023-03-03": 7994,
-  "2023-03-04": 7996,
-  "2023-03-05": 8008,
-  "2023-03-06": 8008,
-  "2023-03-07": 8011,
-  "2023-03-08": 8014,
-  "2023-03-09": 8016,
-  "2023-03-10": 8019,
-  "2023-03-11": 8024,
-  "2023-03-12": 8026,
-  "2023-03-13": 8031,
-  "2023-03-14": 8034,
-  "2023-03-15": 8036,
-  "2023-03-16": 8037,
-  "2023-03-17": 8037,
-  "2023-03-18": 8041,
-  "2023-03-19": 8045,
-  "2023-03-20": 8047,
-  "2023-03-21": 8049,
-  "2023-03-22": 8050,
-  "2023-03-23": 8053,
-  "2023-03-24": 8053,
-  "2023-03-25": 8062,
-  "2023-03-26": 8067,
-  "2023-03-27": 8071,
-  "2023-03-28": 8072,
-  "2023-03-29": 8075,
-  "2023-03-30": 8084,
-  "2023-03-31": 8084,
-  "2023-04-01": 8091,
-  "2023-04-02": 8092,
-  "2023-04-03": 8094,
-  "2023-04-04": 8100,
-  "2023-04-05": 8107,
-  "2023-04-06": 8114,
-  "2023-04-07": 8113,
-  "2023-04-09": 8125,
-  "2023-04-10": 8137,
-  "2023-04-11": 8144,
-  "2023-04-12": 8144,
-  "2023-04-13": 8147,
-  "2023-04-14": 8149,
-  "2023-04-15": 8153,
-  "2023-04-16": 8160,
-  "2023-04-17": 8164,
-  "2023-04-18": 8170,
-  "2023-04-19": 8176,
-  "2023-04-20": 8185,
-  "2023-04-21": 8188,
-  "2023-04-22": 8187,
-  "2023-04-23": 8191,
-  "2023-04-24": 8198,
-  "2023-04-25": 8201,
-  "2023-04-26": 8203,
-  "2023-04-27": 8208,
-  "2023-04-28": 8212,
-  "2023-04-29": 8219,
-  "2023-04-30": 8222,
-  "2023-05-01": 8228,
-  "2023-05-02": 8236,
-  "2023-05-03": 8242,
-  "2023-05-04": 8245,
-  "2023-05-05": 8250,
-  "2023-05-06": 8254,
-  "2023-05-07": 8258,
-  "2023-05-08": 8260,
-  "2023-05-09": 8264,
-  "2023-05-10": 8266,
-  "2023-05-11": 8274,
-  "2023-05-12": 8280,
-  "2023-05-13": 8282,
-  "2023-05-14": 8285,
-  "2023-05-15": 8292,
-  "2023-05-16": 8297,
-  "2023-05-17": 8303,
-  "2023-05-18": 8308,
-  "2023-05-19": 8321,
-  "2023-05-20": 8335,
-  "2023-05-21": 8335,
-  "2023-05-22": 8335,
-  "2023-05-23": 8348,
-  "2023-05-24": 8354,
-  "2023-05-25": 8360,
-  "2023-05-26": 8366,
-  "2023-05-27": 8376,
-  "2023-05-28": 8377,
-  "2023-05-29": 8377,
-  "2023-05-30": 8395,
-  "2023-05-31": 8400,
-  "2023-06-01": 8404,
-  "2023-06-02": 8406,
-  "2023-06-03": 8407,
-  "2023-06-04": 8409,
-  "2023-06-05": 8416,
-  "2023-06-06": 8421,
-  "2023-06-07": 8426,
-  "2023-06-08": 8428,
-  "2023-06-09": 8428,
-  "2023-06-10": 8434,
-  "2023-06-11": 8444,
-  "2023-06-12": 8453,
-  "2023-06-13": 8460,
-  "2023-06-14": 8465,
-  "2023-06-15": 8474,
-  "2023-06-16": 8476,
-  "2023-06-17": 8487,
-  "2023-06-18": 8500,
-  "2023-06-19": 8505,
-  "2023-06-20": 8511,
-  "2023-06-21": 8517,
-  "2023-06-22": 8524,
-  "2023-06-23": 8527,
-  "2023-06-24": 8545,
-  "2023-06-25": 8564,
-  "2023-06-26": 8571,
-  "2023-06-27": 8579,
-  "2023-06-28": 8581,
-  "2023-06-29": 8587,
-  "2023-06-30": 8592,
-  "2023-07-01": 8602,
-  "2023-07-02": 8602,
-  "2023-07-03": 8602,
-  "2023-07-04": 8607,
-  "2023-07-05": 8606,
-  "2023-07-06": 8620,
-  "2023-07-07": 8620,
-  "2023-07-08": 8628,
-  "2023-07-09": 8633,
-  "2023-07-10": 8642,
-  "2023-07-11": 8647,
-  "2023-07-12": 8652,
-  "2023-07-13": 8659,
-  "2023-07-14": 8660,
-  "2023-07-15": 8663,
-  "2023-07-16": 8675,
-  "2023-07-17": 8679,
-  "2023-07-18": 8681,
-  "2023-07-19": 8692,
-  "2023-07-20": 8701,
-  "2023-07-21": 8707,
-  "2023-07-22": 8714,
-  "2023-07-23": 8720,
-  "2023-07-24": 8730,
-  "2023-07-25": 8737,
-  "2023-07-26": 8741,
-  "2023-07-27": 8744,
-  "2023-07-28": 8752,
-  "2023-07-29": 8758,
-  "2023-07-30": 8769,
-  "2023-07-31": 8774,
-  "2023-08-01": 8782,
-  "2023-08-02": 8785,
-  "2023-08-03": 8792,
-  "2023-08-04": 8801,
-  "2023-08-05": 8802,
-  "2023-08-06": 8819,
-  "2023-08-07": 8819,
-  "2023-08-08": 8824,
-  "2023-08-09": 8827,
-  "2023-08-10": 8828,
-  "2023-08-11": 8833,
-  "2023-08-12": 8837,
-  "2023-08-13": 8845,
-  "2023-08-14": 8854,
-  "2023-08-15": 8860,
-  "2023-08-16": 8860,
-  "2023-08-17": 8867,
-  "2023-08-18": 8874,
-  "2023-08-19": 8879,
-  "2023-08-20": 8885,
-  "2023-08-21": 8890,
-  "2023-08-22": 8897,
-  "2023-08-23": 8904,
-  "2023-08-24": 8911,
-  "2023-08-25": 8919,
-  "2023-08-26": 8924,
-  "2023-08-27": 8929,
-  "2023-08-28": 8933,
-  "2023-08-29": 8937,
-  "2023-08-30": 8942,
-  "2023-08-31": 8950,
-  "2023-09-01": 8964,
-  "2023-09-02": 8964,
-  "2023-09-03": 8966,
-  "2023-09-04": 8978,
-  "2023-09-05": 8989,
-  "2023-09-06": 8994,
-  "2023-09-07": 9004,
-  "2023-09-08": 9012,
-  "2023-09-09": 9026,
-  "2023-09-10": 9040,
-  "2023-09-11": 9043,
-  "2023-09-12": 9051,
-  "2023-09-13": 9057,
-  "2023-09-14": 9057,
-  "2023-09-15": 9071,
-  "2023-09-16": 9075,
-  "2023-09-17": 9075,
-  "2023-09-18": 9089,
-  "2023-09-19": 9093,
-  "2023-09-20": 9096,
-  "2023-09-21": 9101,
-  "2023-09-22": 9110,
-  "2023-09-23": 9112,
-  "2023-09-24": 9112,
-  "2023-09-25": 9112,
-  "2023-09-26": 9138,
-  "2023-09-27": 9140,
-  "2023-09-28": 9151,
-  "2023-09-29": 9158,
-  "2023-09-30": 9158,
-  "2023-10-01": 9177,
-  "2023-10-02": 9180,
-  "2023-10-03": 9182,
-  "2023-10-04": 9185,
-  "2023-10-05": 9186,
-  "2023-10-06": 9189,
-  "2023-10-07": 9200,
-  "2023-10-08": 9213,
-  "2023-10-09": 9213,
-  "2023-10-10": 9223,
-  "2023-10-11": 9226,
-  "2023-10-12": 9226,
-  "2023-10-13": 9233,
-  "2023-10-14": 9233,
-  "2023-10-15": 9233,
-  "2023-10-16": 9233,
-  "2023-10-17": 9233,
-  "2023-10-18": 9233,
-  "2023-10-19": 9233,
-  "2023-10-20": 9233,
-  "2023-10-21": 9233,
-  "2023-10-22": 9233,
-  "2023-10-23": 9233,
-  "2023-10-24": 9293,
-  "2023-10-25": 9293,
-  "2023-10-26": 9293,
-  "2023-10-27": 9293,
-  "2023-10-28": 9293,
-  "2023-10-29": 9293,
-  "2023-10-30": 9293,
-  "2023-10-31": 9293,
-  "2023-11-01": 9293,
-  "2023-11-02": 9293,
-  "2023-11-03": 9293,
-  "2023-11-04": 9293,
-  "2023-11-05": 9293,
-  "2023-11-06": 9293,
-  "2023-11-07": 9293,
-  "2023-11-08": 9293,
-  "2023-11-09": 9293,
-  "2023-11-10": 9293,
-  "2023-11-11": 9387,
-  "2023-11-12": 9387,
-  "2023-11-13": 9387,
-  "2023-11-14": 9387,
-  "2023-11-15": 9387,
-  "2023-11-16": 9387,
-  "2023-11-17": 9451,
-  "2023-11-18": 9451,
-  "2023-11-19": 9451,
-  "2023-11-20": 9451,
-  "2023-11-21": 9451,
-  "2023-11-22": 9451,
-  "2023-11-23": 9507,
-  "2023-11-24": 9507,
-  "2023-11-25": 9507,
-  "2023-11-26": 9507,
-  "2023-11-27": 9507,
-  "2023-11-28": 9507,
-  "2023-11-29": 9507,
-  "2023-11-30": 9507,
-  "2023-12-01": 9507,
-  "2023-12-02": 9507,
-  "2023-12-03": 9507,
-  "2023-12-04": 9507,
-  "2023-12-05": 9507,
-  "2023-12-06": 9507,
-  "2023-12-07": 9507,
-  "2023-12-08": 9507,
-  "2023-12-09": 9618,
-  "2023-12-10": 9618,
-  "2023-12-11": 9626,
-  "2023-12-12": 9626,
-  "2023-12-13": 9626,
-  "2023-12-14": 9645,
-  "2023-12-15": 9650,
-  "2023-12-16": 9651,
-  "2023-12-17": 9655,
-  "2023-12-18": 9658,
-  "2023-12-19": 9660,
-  "2023-12-20": 9666,
-  "2023-12-21": 9669,
-  "2023-12-22": 9671,
-  "2023-12-23": 9672,
-  "2023-12-24": 9681,
-  "2023-12-25": 9687,
-  "2023-12-26": 9690,
-  "2023-12-27": 9692,
-  "2023-12-30": 9713,
-  "2023-12-31": 9719,
-  "2024-01-01": 9727,
-  "2024-01-02": 9727,
-  "2024-01-03": 9731
+  "2024-01-17": 9781,
+  "date_first_scraped": "2022-05-14",
+  "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
+  "name": "Je me souviens: alternatif",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Motor",
+        "url": "https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef"
+      },
+      "artists": [
+        {
+          "name": "El Motor",
+          "url": "https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Alin\u00e9a",
+      "url": "https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt"
+    },
+    {
+      "album": {
+        "name": "$=Bonheur",
+        "url": "https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev"
+      },
+      "artists": [
+        {
+          "name": "Les Respectables",
+          "url": "https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267280,
+      "name": "Amalgame",
+      "url": "https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM"
+    },
+    {
+      "album": {
+        "name": "Le temps au point mort",
+        "url": "https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS"
+    },
+    {
+      "album": {
+        "name": "Le temps au point mort",
+        "url": "https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200440,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7"
+    },
+    {
+      "album": {
+        "name": "Pigeon d'argile",
+        "url": "https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Parent",
+          "url": "https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9"
+    },
+    {
+      "album": {
+        "name": "De la nature des foules",
+        "url": "https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds"
+      },
+      "artists": [
+        {
+          "name": "Bonjour Brumaire",
+          "url": "https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 244986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
+    },
+    {
+      "album": {
+        "name": "De La Nature Des Foules",
+        "url": "https://open.spotify.com/album/7K0wywkxdWik8p4xJVjiJn"
+      },
+      "artists": [
+        {
+          "name": "Bonjour Brumaire",
+          "url": "https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 244986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/6tRjHvO1aeme9LJa9aXVAm"
+    },
+    {
+      "album": {
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
+      },
+      "artists": [
+        {
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 rock suicide",
+      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
+    },
+    {
+      "album": {
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0T6pG4W280cfFmHe4A7Tff"
+      },
+      "artists": [
+        {
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 Rock Suicide",
+      "url": "https://open.spotify.com/track/7D9ayTlfonyW0I1MBxmcSQ"
+    },
+    {
+      "album": {
+        "name": "Compter Les Corps",
+        "url": "https://open.spotify.com/album/2aoIxtuvds8j1dnXlM9Y79"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230613,
+      "name": "Compter Les Corps",
+      "url": "https://open.spotify.com/track/2b0m5jX5YEKUiSCzk13SiQ"
+    },
+    {
+      "album": {
+        "name": "Compter les corps",
+        "url": "https://open.spotify.com/album/0KPZyx1f8iQqRkj9d0gTbB"
+      },
+      "artists": [
+        {
+          "name": "Vulgaires Machins",
+          "url": "https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230613,
+      "name": "Compter les corps",
+      "url": "https://open.spotify.com/track/7mDh6tKtDYEkt8b1rXVTe0"
+    },
+    {
+      "album": {
+        "name": "Les Goules",
+        "url": "https://open.spotify.com/album/79zqkuFtrJvlekhAzyUj6b"
+      },
+      "artists": [
+        {
+          "name": "Les Goules",
+          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218560,
+      "name": "Crabe",
+      "url": "https://open.spotify.com/track/5JwQ3e38RKMV1esgmFYYJ2"
+    },
+    {
+      "album": {
+        "name": "Les Goules",
+        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
+      },
+      "artists": [
+        {
+          "name": "Les Goules",
+          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "Crabe",
+      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
+    },
+    {
+      "album": {
+        "name": "Les Dales Hawerchuk",
+        "url": "https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY"
+      },
+      "artists": [
+        {
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Dale Hawerchuk",
+      "url": "https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS"
+    },
+    {
+      "album": {
+        "name": "Les Dales Hawerchuk",
+        "url": "https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA"
+      },
+      "artists": [
+        {
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132800,
+      "name": "Dale Hawerchuk",
+      "url": "https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D"
+    },
+    {
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/269dGCDHJ6nrZJTEfT1YDp"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq"
+    },
+    {
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "album": {
+        "name": "Super-h\u00e9ros sous peu",
+        "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
+      },
+      "artists": [
+        {
+          "name": "See Spot Run",
+          "url": "https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "Decoller - Remix",
+      "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
+    },
+    {
+      "album": {
+        "name": "Okoum\u00e9",
+        "url": "https://open.spotify.com/album/2Gj5sfPTzxGBXbFH9DjyVn"
+      },
+      "artists": [
+        {
+          "name": "Okoum\u00e9",
+          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305053,
+      "name": "Dis-moi pas \u00e7a",
+      "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
+    },
+    {
+      "album": {
+        "name": "Okoum\u00e9",
+        "url": "https://open.spotify.com/album/6G3Zhr7LGV4fyysgoC2Y5u"
+      },
+      "artists": [
+        {
+          "name": "Okoum\u00e9",
+          "url": "https://open.spotify.com/artist/2GmkaEeE31sBXm7HPeO43M"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305960,
+      "name": "Dis-moi pas \u00e7a",
+      "url": "https://open.spotify.com/track/6VTJoRIkBhcAnakAJEEvQc"
+    },
+    {
+      "album": {
+        "name": "Lili Fatale",
+        "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
+      },
+      "artists": [
+        {
+          "name": "Lili Fatale",
+          "url": "https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE"
+    },
+    {
+      "album": {
+        "name": "Fuck'n'shit baby love!",
+        "url": "https://open.spotify.com/album/2Yr16L6r9thevk4K5OWeNh"
+      },
+      "artists": [
+        {
+          "name": "Le Karlof Orchestra",
+          "url": "https://open.spotify.com/artist/5jVN6sAwSOygXSPevl10xV"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127600,
+      "name": "Fuck'n'shit baby love!",
+      "url": "https://open.spotify.com/track/35StJYMU9mlooTcnkJKD9W"
+    },
+    {
+      "album": {
+        "name": "Fuck'n'shit baby love!",
+        "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
+      },
+      "artists": [
+        {
+          "name": "Le Karlof Orchestra",
+          "url": "https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "Fuck'n'shit baby love!",
+      "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
+    },
+    {
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/2sO6yUUyhX0OnTLfc3yCu0"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190040,
+      "name": "Gros Tas d'Marde",
+      "url": "https://open.spotify.com/track/1mmaW1XlXxi7quDB7Ne0BF"
+    },
+    {
+      "album": {
+        "name": "Fieldtrip",
+        "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
+      },
+      "artists": [
+        {
+          "name": "GrimSkunk",
+          "url": "https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "Gros tas d'marde",
+      "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
+    },
+    {
+      "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
+    },
+    {
+      "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176653,
+      "name": "Grossi\u00e8re ind\u00e9cence",
+      "url": "https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9"
+    },
+    {
+      "album": {
+        "name": "L'amour la haine les animaux les automobiles",
+        "url": "https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA"
+      },
+      "artists": [
+        {
+          "name": "Gwenwed",
+          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188800,
+      "name": "Gwen Et Les Rats",
+      "url": "https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj"
+    },
+    {
+      "album": {
+        "name": "l'amour la haine les animaux les automobiles",
+        "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
+      },
+      "artists": [
+        {
+          "name": "Gwenwed",
+          "url": "https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Gwen et les rats",
+      "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+    },
+    {
+      "album": {
+        "name": "Gros mammouth album turbo",
+        "url": "https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149346,
+      "name": "Hawaiienne",
+      "url": "https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ"
+    },
+    {
+      "album": {
+        "name": "Danse sociale",
+        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
+      },
+      "artists": [
+        {
+          "name": "Captaine R\u00e9volte",
+          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "J'ai oubli\u00e9",
+      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
+    },
+    {
+      "album": {
+        "name": "Danse Sociale",
+        "url": "https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3"
+      },
+      "artists": [
+        {
+          "name": "Captaine R\u00e9volte",
+          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235440,
+      "name": "J'ai Oubli\u00e9",
+      "url": "https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "J'pourrais pas vivre avec toi",
+      "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
+    },
+    {
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/6uozpG5nRb05QocIwvK54h"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/19tPhrFje6k0GQkmaPDW4A"
+    },
+    {
+      "album": {
+        "name": "Le Trashy Saloon",
+        "url": "https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3"
+      },
+      "artists": [
+        {
+          "name": "Anik Jean",
+          "url": "https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Je suis partie",
+      "url": "https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV"
+    },
+    {
+      "album": {
+        "name": "1985-2003 Je joue de la guitare",
+        "url": "https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Johnny go",
+      "url": "https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi"
+    },
+    {
+      "album": {
+        "name": "Je joue de la guitare (1985-2003)",
+        "url": "https://open.spotify.com/album/2X3bC7wVi95qxWhWJFBjR5"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328000,
+      "name": "Johnny Go",
+      "url": "https://open.spotify.com/track/5o6rRZ8wzVlSonh1T49LWZ"
+    },
+    {
+      "album": {
+        "name": "La Chango Family",
+        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+      },
+      "artists": [
+        {
+          "name": "La Chango Family",
+          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
+    },
+    {
+      "album": {
+        "name": "Corpo-Trash-Vidange",
+        "url": "https://open.spotify.com/album/7tete9W7uNYvZuL2TNgw5C"
+      },
+      "artists": [
+        {
+          "name": "Band de Garage",
+          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 175480,
+      "name": "La ch\u00e8vre",
+      "url": "https://open.spotify.com/track/1FNNDPYgiLFjxdfIAKNiH1"
+    },
+    {
+      "album": {
+        "name": "Corpo-Trash-Vidange",
+        "url": "https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d"
+      },
+      "artists": [
+        {
+          "name": "Band de Garage",
+          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "La ch\u00e8vre",
+      "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"
+    },
+    {
+      "album": {
+        "name": "Le Nombre",
+        "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
+      },
+      "artists": [
+        {
+          "name": "Le Nombre",
+          "url": "https://open.spotify.com/artist/6FkEbRC3V3rjxNLFN5uG1d"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Laissez venir \u00e0 moi les grandes brunes",
+      "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
+    },
+    {
+      "album": {
+        "name": "Les tremblements s'immobilisent",
+        "url": "https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Le coup d'\u00e9tat",
+      "url": "https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3"
+    },
+    {
+      "album": {
+        "name": "Les tremblements s'immobilisent",
+        "url": "https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262720,
+      "name": "Le coup d'\u00e9tat",
+      "url": "https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti"
+    },
+    {
+      "album": {
+        "name": "Le compte complet",
+        "url": "https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN"
+      },
+      "artists": [
+        {
+          "name": "Malajube",
+          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Le m\u00e9tronome",
+      "url": "https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK"
+    },
+    {
+      "album": {
+        "name": "M\u00e9li-molo",
+        "url": "https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I"
+      },
+      "artists": [
+        {
+          "name": "Yelo Molo",
+          "url": "https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278291,
+      "name": "Le petit castor",
+      "url": "https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe"
+    },
+    {
+      "album": {
+        "name": "Le d\u00e9lire du savant fou",
+        "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Le savant fou",
+      "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
+    },
+    {
+      "album": {
+        "name": "Le chihuahua",
+        "url": "https://open.spotify.com/album/3PVMvhoNafR5OjeRsz9DaY"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279160,
+      "name": "Le teint de Linda",
+      "url": "https://open.spotify.com/track/5P4yUQ4w6u9qcCJFDfHApl"
+    },
+    {
+      "album": {
+        "name": "Le Chihuahua",
+        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279160,
+      "name": "Le teint de Linda",
+      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "album": {
+        "name": "Chacun dans son espace",
+        "url": "https://open.spotify.com/album/3lFC3QLYm10tvmRhANLMP3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204866,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/3sAZFLZVmiZJV6PCc4cFsq"
+    },
+    {
+      "album": {
+        "name": "Chacun dans son espace",
+        "url": "https://open.spotify.com/album/4t7Fp8XNpNChA2HQegZAEX"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/4Wn546nf6SBGLC69yWHyos"
+    },
+    {
+      "album": {
+        "name": "Vilain Pingouin",
+        "url": "https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6"
+      },
+      "artists": [
+        {
+          "name": "Vilain Pingouin",
+          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238960,
+      "name": "Le train",
+      "url": "https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M"
+    },
+    {
+      "album": {
+        "name": "Vilain Pingouin",
+        "url": "https://open.spotify.com/album/1ODLZJUUkSVaoLILmTYMtu"
+      },
+      "artists": [
+        {
+          "name": "Vilain Pingouin",
+          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238973,
+      "name": "Le train",
+      "url": "https://open.spotify.com/track/3WXD1s3xsBGydb1rgZagd6"
+    },
+    {
+      "album": {
+        "name": "Les belles ann\u00e9es : L'anthologie",
+        "url": "https://open.spotify.com/album/5pRpQH9bLCUqmB7mjdYQ9D"
+      },
+      "artists": [
+        {
+          "name": "Vilain Pingouin",
+          "url": "https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241960,
+      "name": "Le train",
+      "url": "https://open.spotify.com/track/3ZlwPpbhy6sodaMMps52Jr"
+    },
+    {
+      "album": {
+        "name": "L'acad\u00e9mie du massacre",
+        "url": "https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF"
+      },
+      "artists": [
+        {
+          "name": "Mononc' Serge",
+          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
+        },
+        {
+          "name": "Anonymus",
+          "url": "https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176893,
+      "name": "Les patates",
+      "url": "https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW"
+    },
+    {
+      "album": {
+        "name": "L'acad\u00e9mie du massacre",
+        "url": "https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4"
+      },
+      "artists": [
+        {
+          "name": "Mononc' Serge",
+          "url": "https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1"
+        },
+        {
+          "name": "Anonymus",
+          "url": "https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176893,
+      "name": "Les patates",
+      "url": "https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08"
+    },
+    {
+      "album": {
+        "name": "Western Romance",
+        "url": "https://open.spotify.com/album/7iionYCbeYIliJLEzZIVrH"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208000,
+      "name": "Ma dope \u00e0 moi",
+      "url": "https://open.spotify.com/track/3D7cavaQelyrkvP2kknMiU"
+    },
+    {
+      "album": {
+        "name": "Western Romance",
+        "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Ma dope \u00e0 moi",
+      "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
+    },
+    {
+      "album": {
+        "name": "Ma g\u00e9n\u00e9ration",
+        "url": "https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227626,
+      "name": "Magan\u00e9",
+      "url": "https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK"
+    },
+    {
+      "album": {
+        "name": "Ma g\u00e9n\u00e9ration",
+        "url": "https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227626,
+      "name": "Magan\u00e9",
+      "url": "https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+    },
+    {
+      "album": {
+        "name": "Dumas",
+        "url": "https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Miss Ecstasy",
+      "url": "https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR"
+    },
+    {
+      "album": {
+        "name": "Joseph Antoine Fr\u00e9d\u00e9ric Fortin Perron",
+        "url": "https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo"
+      },
+      "artists": [
+        {
+          "name": "Fred Fortin",
+          "url": "https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Moisi mo\u00e9'ssi",
+      "url": "https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL"
+    },
+    {
+      "album": {
+        "name": "Joseph Antoine Fr\u00e9d\u00e9ric Fortin Perron",
+        "url": "https://open.spotify.com/album/1xbTtfA0OphaVhAktXJoC6"
+      },
+      "artists": [
+        {
+          "name": "Fred Fortin",
+          "url": "https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195960,
+      "name": "Moisi mo\u00e9'ssi",
+      "url": "https://open.spotify.com/track/7KCuZqBiTccR0Hwp6yxDni"
+    },
+    {
+      "album": {
+        "name": "Projet Orange",
+        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
+      },
+      "artists": [
+        {
+          "name": "Projet Orange",
+          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "Myst\u00e8re a\u00e9rosol",
+      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
+    },
+    {
+      "album": {
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/3F7xxnoaf7k7jKTwCSFqDf"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/1IMSDNhQ6zhSWgx63PauPr"
+    },
+    {
+      "album": {
+        "name": "100% boeuf",
+        "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9p\u00e9 et sa guitare",
+          "url": "https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Poney",
+      "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
+    },
+    {
+      "album": {
+        "name": "L'oeil du zig",
+        "url": "https://open.spotify.com/album/1l1mu5K6NTehC49RGSr6UO"
+      },
+      "artists": [
+        {
+          "name": "Zebulon",
+          "url": "https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207653,
+      "name": "R'viens pas trop tard",
+      "url": "https://open.spotify.com/track/1ioXx9ydGHta9gGBpBk0Pe"
+    },
+    {
+      "album": {
+        "name": "L'oeil Du Zig",
+        "url": "https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9bulon",
+          "url": "https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "R'viens Pas Trop Tard",
+      "url": "https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS"
+    },
+    {
+      "album": {
+        "name": "Minimiser les d\u00e9g\u00e2ts",
+        "url": "https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU"
+      },
+      "artists": [
+        {
+          "name": "Les fr\u00e8res Goyette",
+          "url": "https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179186,
+      "name": "Sa craque au soleil",
+      "url": "https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92"
+    },
+    {
+      "album": {
+        "name": "Le D\u00e9lire Du Savant Fou",
+        "url": "https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199053,
+      "name": "Savant Fou",
+      "url": "https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8"
+    },
+    {
+      "album": {
+        "name": "Manifestif",
+        "url": "https://open.spotify.com/album/0Fg1s3NXYVcDRu0BMqNRwq"
+      },
+      "artists": [
+        {
+          "name": "Loco Locass",
+          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273000,
+      "name": "Sheila, ch'us l\u00e0",
+      "url": "https://open.spotify.com/track/4iIMoePwMCIAYHa7GNHG2u"
+    },
+    {
+      "album": {
+        "name": "Manifestif",
+        "url": "https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4"
+      },
+      "artists": [
+        {
+          "name": "Loco Locass",
+          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Sheila, ch'us l\u00e0",
+      "url": "https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB"
+    },
+    {
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/658WdTob3JXKse2edU1PiH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9e Watters",
+          "url": "https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Si exceptionnel",
+      "url": "https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW"
+    },
+    {
+      "album": {
+        "name": "Le silence des roses",
+        "url": "https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF"
+      },
+      "artists": [
+        {
+          "name": "France D'Amour",
+          "url": "https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263640,
+      "name": "Si j'ai tort",
+      "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+    },
+    {
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/79Ltg7vbVX3SoqSgVYaFjs"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/3Y8b1xouQZqv56Wh66ssHr"
+    },
+    {
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+    },
+    {
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/2vLUguDFIoI1xVLvaRJhSc"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/6JjlCErZUO79Ra0yqDL4pH"
+    },
+    {
+      "album": {
+        "name": "Hepatite B",
+        "url": "https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk"
+      },
+      "artists": [
+        {
+          "name": "Hepatite B",
+          "url": "https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117373,
+      "name": "Ton amour est trop lourd",
+      "url": "https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2"
+    },
+    {
+      "album": {
+        "name": "Hepatite B",
+        "url": "https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5"
+      },
+      "artists": [
+        {
+          "name": "Hepatite B",
+          "url": "https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117373,
+      "name": "Ton amour est trop lourd",
+      "url": "https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ"
+    },
+    {
+      "album": {
+        "name": "Elyzabeth Diaga",
+        "url": "https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d"
+      },
+      "artists": [
+        {
+          "name": "Elyzabeth Diaga",
+          "url": "https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Touche pas",
+      "url": "https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V"
+    },
+    {
+      "album": {
+        "name": "Mal \u00e9duqu\u00e9 mon amour",
+        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
+      },
+      "artists": [
+        {
+          "name": "Cafeine",
+          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Tu ne peux pas partir",
+      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
+    },
+    {
+      "album": {
+        "name": "Mal \u00e9duqu\u00e9 mon amour",
+        "url": "https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B"
+      },
+      "artists": [
+        {
+          "name": "Cafeine",
+          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203506,
+      "name": "Tu ne peux pas partir",
+      "url": "https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm"
+    },
+    {
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ"
+      },
+      "artists": [
+        {
+          "name": "coma",
+          "url": "https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Une araign\u00e9e au plafond",
+      "url": "https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h"
+    },
+    {
+      "album": {
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+      },
+      "artists": [
+        {
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+    },
+    {
+      "album": {
+        "name": "Le long sentier (Une anthologie)",
+        "url": "https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH"
+      },
+      "artists": [
+        {
+          "name": "Les Chiens",
+          "url": "https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307586,
+      "name": "V\u00e9nus du Mile-End",
+      "url": "https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz"
+    },
+    {
+      "album": {
+        "name": "La nuit d\u00e9rob\u00e9e",
+        "url": "https://open.spotify.com/album/4XocEI6NWTsZtY1eJMhjmz"
+      },
+      "artists": [
+        {
+          "name": "Les Chiens",
+          "url": "https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 308053,
+      "name": "V\u00e9nus du Mile-End",
+      "url": "https://open.spotify.com/track/5PAghngOh4fop5NV4hhJSp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcSKbfhHetFR"
 }

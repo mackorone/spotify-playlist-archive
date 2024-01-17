@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cSCtZ3SgAV8pcjEfeiVdw.md) - [plain]
 
 > Curated playlist of fresh pop rock&\#x2F;indie rock&\#x2F;punk rock releases.
 
-[Kingdom Leaks](https://open.spotify.com/user/p051x03x8hqzylgwgsg8ayt4r) - 76 likes - 30 songs - 1 hr 45 min
+[Kingdom Leaks](https://open.spotify.com/user/p051x03x8hqzylgwgsg8ayt4r) - 77 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

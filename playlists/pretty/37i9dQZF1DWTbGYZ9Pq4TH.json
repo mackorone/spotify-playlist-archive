@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 174427,
+  "num_followers": 174243,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -195,6 +179,38 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Polaroid 2.0",
+        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave x Franco126",
+          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sempre In Due",
+      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -207,6 +223,26 @@
       "duration_ms": 214926,
       "name": "Scrivile Scemo",
       "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -243,42 +279,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Polaroid 2.0",
-        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave x Franco126",
-          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sempre In Due",
-      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Brividi",
-        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Brividi",
-      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 216386,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -327,66 +311,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
       "artists": [
         {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Le luci della citt\u00e0",
-      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -407,6 +343,38 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -423,24 +391,8 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
-      },
-      "artists": [
-        {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
       },
       "artists": [
         {
@@ -448,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 203872,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
+      "duration_ms": 177266,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -475,18 +427,50 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+      },
+      "artists": [
+        {
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -503,6 +487,22 @@
       "duration_ms": 177253,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -527,54 +527,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
       "artists": [
         {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
         }
       ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Stanza Singola",
-        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
-      },
-      "artists": [
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Stanza Singola (feat. Tommaso Paradiso)",
-      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Faccio un casino",
-      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -595,22 +559,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
@@ -627,18 +575,38 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Post Punk",
-        "url": "https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR"
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
       },
       "artists": [
         {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 185173,
-      "name": "Una canzone che non so",
-      "url": "https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3"
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Stanza Singola",
+        "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
+      },
+      "artists": [
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Stanza Singola (feat. Tommaso Paradiso)",
+      "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -675,22 +643,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Soundtrack '96 - 06 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
       },
       "artists": [
         {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
-        },
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 266746,
-      "name": "Gli Ostacoli Del Cuore",
-      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -707,6 +671,58 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Post Punk",
+        "url": "https://open.spotify.com/album/4Hbba5d72PryD3I9jQxDcR"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Una canzone che non so",
+      "url": "https://open.spotify.com/track/5ZJ8NqYFgILvAba4GepqH3"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Nessuno \u00e8 solo",
+        "url": "https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Ti scatter\u00f2 una foto",
+      "url": "https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -743,6 +759,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "San Siro Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
+      },
+      "artists": [
+        {
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Meraviglioso - Live",
+      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "111 Centoundici",
         "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
       },
@@ -771,38 +803,6 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "San Siro Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Meraviglioso - Live",
-      "url": "https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Niente Canzoni D'Amore",
-      "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
     },
     {
       "added_at": "2023-02-20 09:56:57",

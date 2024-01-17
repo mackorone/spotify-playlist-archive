@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST"
@@ -226,6 +226,24 @@
       "duration_ms": 133377,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5"
+    },
+    {
+      "album": {
+        "name": "BEAUTIFUL",
+        "url": "https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu"
+      },
+      "artists": [
+        {
+          "name": "Pecas",
+          "url": "https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 199500,
+      "name": "BEAUTIFUL",
+      "url": "https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj"
     },
     {
       "album": {
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 224253,
       "name": "If It Goes",
       "url": "https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": "2024-01-15",
       "duration_ms": 208056,
       "name": "New Love Cassette (Mark Ronson Remix)",
       "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
@@ -1533,6 +1551,42 @@
     },
     {
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -1544,7 +1598,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 261614,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
@@ -1768,7 +1822,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 170500,
       "name": "say your way",
       "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
@@ -1829,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "So Pacific",
+        "url": "https://open.spotify.com/album/4aQ9ZW8tsAoKofP95yOKDh"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213956,
+      "name": "So Pacific",
+      "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+    },
+    {
+      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
       },
@@ -1858,7 +1930,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
@@ -2290,7 +2362,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"

@@ -1,322 +1,1389 @@
 {
-  "2023-02-15": 62,
-  "2023-02-16": 452,
-  "2023-02-17": 606,
-  "2023-02-18": 762,
-  "2023-02-19": 780,
-  "2023-02-20": 833,
-  "2023-02-21": 893,
-  "2023-02-22": 958,
-  "2023-02-23": 1021,
-  "2023-02-24": 1080,
-  "2023-02-25": 1170,
-  "2023-02-26": 1225,
-  "2023-02-27": 1318,
-  "2023-02-28": 1318,
-  "2023-03-01": 1361,
-  "2023-03-02": 1378,
-  "2023-03-03": 1387,
-  "2023-03-04": 1403,
-  "2023-03-05": 1443,
-  "2023-03-06": 1443,
-  "2023-03-07": 1451,
-  "2023-03-08": 1470,
-  "2023-03-09": 1490,
-  "2023-03-10": 1512,
-  "2023-03-11": 1526,
-  "2023-03-12": 1535,
-  "2023-03-13": 1548,
-  "2023-03-14": 1560,
-  "2023-03-15": 1572,
-  "2023-03-16": 1580,
-  "2023-03-17": 1580,
-  "2023-03-18": 1596,
-  "2023-03-19": 1612,
-  "2023-03-20": 1623,
-  "2023-03-21": 1634,
-  "2023-03-22": 1647,
-  "2023-03-23": 1660,
-  "2023-03-24": 1660,
-  "2023-03-25": 1681,
-  "2023-03-26": 1693,
-  "2023-03-27": 1707,
-  "2023-03-28": 1718,
-  "2023-03-29": 1739,
-  "2023-03-30": 1771,
-  "2023-03-31": 1771,
-  "2023-04-01": 1793,
-  "2023-04-02": 1806,
-  "2023-04-03": 1823,
-  "2023-04-04": 1830,
-  "2023-04-05": 1836,
-  "2023-04-06": 1848,
-  "2023-04-07": 1862,
-  "2023-04-09": 1877,
-  "2023-04-10": 1892,
-  "2023-04-11": 1909,
-  "2023-04-12": 1909,
-  "2023-04-13": 1919,
-  "2023-04-14": 1923,
-  "2023-04-15": 1933,
-  "2023-04-16": 1943,
-  "2023-04-17": 1947,
-  "2023-04-18": 1955,
-  "2023-04-19": 1964,
-  "2023-04-20": 1974,
-  "2023-04-21": 1983,
-  "2023-04-22": 2001,
-  "2023-04-23": 2016,
-  "2023-04-24": 2031,
-  "2023-04-25": 2039,
-  "2023-04-26": 2049,
-  "2023-04-27": 2059,
-  "2023-04-28": 2064,
-  "2023-04-29": 2069,
-  "2023-04-30": 2075,
-  "2023-05-01": 2078,
-  "2023-05-02": 2087,
-  "2023-05-03": 2094,
-  "2023-05-04": 2101,
-  "2023-05-05": 2113,
-  "2023-05-06": 2123,
-  "2023-05-07": 2133,
-  "2023-05-08": 2142,
-  "2023-05-09": 2154,
-  "2023-05-10": 2168,
-  "2023-05-11": 2178,
-  "2023-05-12": 2190,
-  "2023-05-13": 2196,
-  "2023-05-14": 2206,
-  "2023-05-15": 2211,
-  "2023-05-16": 2222,
-  "2023-05-17": 2231,
-  "2023-05-18": 2241,
-  "2023-05-19": 2247,
-  "2023-05-20": 2259,
-  "2023-05-21": 2259,
-  "2023-05-22": 2259,
-  "2023-05-23": 2276,
-  "2023-05-24": 2294,
-  "2023-05-25": 2296,
-  "2023-05-26": 2302,
-  "2023-05-27": 2305,
-  "2023-05-28": 2309,
-  "2023-05-29": 2309,
-  "2023-05-30": 2329,
-  "2023-05-31": 2340,
-  "2023-06-01": 2345,
-  "2023-06-02": 2345,
-  "2023-06-03": 2349,
-  "2023-06-04": 2361,
-  "2023-06-05": 2366,
-  "2023-06-06": 2370,
-  "2023-06-07": 2376,
-  "2023-06-08": 2376,
-  "2023-06-09": 2381,
-  "2023-06-10": 2384,
-  "2023-06-11": 2390,
-  "2023-06-12": 2401,
-  "2023-06-13": 2404,
-  "2023-06-14": 2414,
-  "2023-06-15": 2418,
-  "2023-06-16": 2422,
-  "2023-06-17": 2428,
-  "2023-06-18": 2435,
-  "2023-06-19": 2440,
-  "2023-06-20": 2448,
-  "2023-06-21": 2453,
-  "2023-06-22": 2463,
-  "2023-06-23": 2469,
-  "2023-06-24": 2475,
-  "2023-06-25": 2481,
-  "2023-06-26": 2490,
-  "2023-06-27": 2496,
-  "2023-06-28": 2501,
-  "2023-06-29": 2503,
-  "2023-06-30": 2507,
-  "2023-07-01": 2524,
-  "2023-07-02": 2524,
-  "2023-07-03": 2529,
-  "2023-07-04": 2531,
-  "2023-07-05": 2538,
-  "2023-07-06": 2554,
-  "2023-07-07": 2554,
-  "2023-07-08": 2558,
-  "2023-07-09": 2566,
-  "2023-07-10": 2570,
-  "2023-07-11": 2574,
-  "2023-07-12": 2579,
-  "2023-07-13": 2582,
-  "2023-07-14": 2593,
-  "2023-07-15": 2591,
-  "2023-07-16": 2594,
-  "2023-07-17": 2603,
-  "2023-07-18": 2606,
-  "2023-07-19": 2610,
-  "2023-07-20": 2612,
-  "2023-07-21": 2620,
-  "2023-07-22": 2621,
-  "2023-07-23": 2623,
-  "2023-07-24": 2631,
-  "2023-07-25": 2640,
-  "2023-07-26": 2645,
-  "2023-07-27": 2650,
-  "2023-07-28": 2655,
-  "2023-07-29": 2660,
-  "2023-07-30": 2670,
-  "2023-07-31": 2679,
-  "2023-08-01": 2686,
-  "2023-08-02": 2689,
-  "2023-08-03": 2691,
-  "2023-08-04": 2694,
-  "2023-08-05": 2696,
-  "2023-08-06": 2704,
-  "2023-08-07": 2704,
-  "2023-08-08": 2705,
-  "2023-08-09": 2707,
-  "2023-08-10": 2710,
-  "2023-08-11": 2716,
-  "2023-08-12": 2716,
-  "2023-08-13": 2722,
-  "2023-08-14": 2728,
-  "2023-08-15": 2751,
-  "2023-08-16": 2751,
-  "2023-08-17": 2754,
-  "2023-08-18": 2758,
-  "2023-08-19": 2763,
-  "2023-08-20": 2768,
-  "2023-08-21": 2774,
-  "2023-08-22": 2777,
-  "2023-08-23": 2786,
-  "2023-08-24": 2795,
-  "2023-08-25": 2806,
-  "2023-08-26": 2809,
-  "2023-08-27": 2815,
-  "2023-08-28": 2815,
-  "2023-08-29": 2818,
-  "2023-08-30": 2819,
-  "2023-08-31": 2820,
-  "2023-09-01": 2846,
-  "2023-09-02": 2846,
-  "2023-09-03": 2861,
-  "2023-09-04": 2885,
-  "2023-09-05": 2915,
-  "2023-09-06": 2926,
-  "2023-09-07": 2945,
-  "2023-09-08": 2958,
-  "2023-09-09": 2982,
-  "2023-09-10": 2995,
-  "2023-09-11": 3021,
-  "2023-09-12": 3042,
-  "2023-09-13": 3068,
-  "2023-09-14": 3093,
-  "2023-09-15": 3112,
-  "2023-09-16": 3133,
-  "2023-09-17": 3155,
-  "2023-09-18": 3179,
-  "2023-09-19": 3192,
-  "2023-09-20": 3208,
-  "2023-09-21": 3224,
-  "2023-09-22": 3236,
-  "2023-09-23": 3254,
-  "2023-09-24": 3270,
-  "2023-09-25": 3286,
-  "2023-09-26": 3305,
-  "2023-09-27": 3317,
-  "2023-09-28": 3334,
-  "2023-09-29": 3354,
-  "2023-09-30": 3366,
-  "2023-10-01": 3380,
-  "2023-10-02": 3406,
-  "2023-10-03": 3424,
-  "2023-10-04": 3445,
-  "2023-10-05": 3485,
-  "2023-10-06": 3504,
-  "2023-10-07": 3514,
-  "2023-10-08": 3535,
-  "2023-10-09": 3546,
-  "2023-10-10": 3561,
-  "2023-10-11": 3591,
-  "2023-10-12": 3591,
-  "2023-10-13": 3602,
-  "2023-10-14": 3615,
-  "2023-10-15": 3626,
-  "2023-10-16": 3638,
-  "2023-10-17": 3654,
-  "2023-10-18": 3669,
-  "2023-10-19": 3682,
-  "2023-10-20": 3694,
-  "2023-10-21": 3710,
-  "2023-10-22": 3724,
-  "2023-10-23": 3739,
-  "2023-10-24": 3756,
-  "2023-10-25": 3771,
-  "2023-10-26": 3787,
-  "2023-10-27": 3796,
-  "2023-10-28": 3796,
-  "2023-10-29": 3820,
-  "2023-10-30": 3828,
-  "2023-10-31": 3828,
-  "2023-11-01": 3856,
-  "2023-11-02": 3866,
-  "2023-11-03": 3875,
-  "2023-11-04": 3888,
-  "2023-11-05": 3900,
-  "2023-11-06": 3914,
-  "2023-11-07": 3924,
-  "2023-11-08": 3939,
-  "2023-11-09": 3955,
-  "2023-11-10": 3976,
-  "2023-11-11": 3976,
-  "2023-11-12": 3976,
-  "2023-11-13": 3976,
-  "2023-11-14": 3976,
-  "2023-11-15": 3976,
-  "2023-11-16": 3976,
-  "2023-11-17": 3976,
-  "2023-11-18": 3976,
-  "2023-11-19": 3976,
-  "2023-11-20": 3976,
-  "2023-11-21": 3976,
-  "2023-11-22": 3976,
-  "2023-11-23": 3976,
-  "2023-11-24": 3976,
-  "2023-11-25": 3976,
-  "2023-11-26": 3976,
-  "2023-11-27": 3976,
-  "2023-11-28": 3976,
-  "2023-11-29": 3976,
-  "2023-11-30": 3976,
-  "2023-12-01": 3976,
-  "2023-12-02": 3976,
-  "2023-12-03": 3976,
-  "2023-12-04": 3976,
-  "2023-12-05": 3976,
-  "2023-12-06": 3976,
-  "2023-12-07": 3976,
-  "2023-12-08": 3976,
-  "2023-12-09": 3976,
-  "2023-12-10": 3976,
-  "2023-12-11": 3976,
-  "2023-12-12": 3976,
-  "2023-12-13": 3976,
-  "2023-12-14": 3976,
-  "2023-12-15": 3976,
-  "2023-12-16": 3976,
-  "2023-12-17": 3976,
-  "2023-12-18": 3976,
-  "2023-12-19": 3976,
-  "2023-12-20": 3976,
-  "2023-12-21": 3976,
-  "2023-12-22": 3976,
-  "2023-12-23": 3976,
-  "2023-12-24": 3976,
-  "2023-12-25": 3976,
-  "2023-12-26": 3976,
-  "2023-12-27": 3976,
-  "2023-12-30": 3976,
-  "2023-12-31": 3976,
-  "2024-01-01": 3976,
-  "2024-01-02": 3976,
-  "2024-01-03": 3976
+  "2024-01-17": 3976,
+  "date_first_scraped": "2023-02-15",
+  "description": "Music from \"PRINCESS CONNECT\uff01Re:Dive\". \u300c\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 Cygames, Inc.",
+  "name": "PRINCESS CONNECT\uff01Re:Dive \u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive Lost Princess \u301c\u3088\u3046\u3053\u305d\u7f8e\u98df\u6bbf\u3078!\u301c",
+        "url": "https://open.spotify.com/album/1PZU7svqWcUkO62PGhtRoX"
+      },
+      "artists": [
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266120,
+      "name": "Absolute Secret",
+      "url": "https://open.spotify.com/track/4LKy0tTcHouuJYtRS0oWgS"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 20",
+        "url": "https://open.spotify.com/album/4ExBBEh7XOE4fCa235q7Vr"
+      },
+      "artists": [
+        {
+          "name": "\u30e0\u30a4\u30df (CV: \u6f58 \u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/0BmWHnbryOSyoINe1m0ypg"
+        },
+        {
+          "name": "\u30cd\u30cd\u30ab (CV: \u4e95\u53e3\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/7xW6ORToCHV5qTk3bS9vSZ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Brand New Sunrise",
+      "url": "https://open.spotify.com/track/0NcdRmuAQXHnLBsTsglmPR"
+    },
+    {
+      "album": {
+        "name": "Season of Departure (From Princess Connect! Re: Dive)",
+        "url": "https://open.spotify.com/album/3t8wWWZ0lzW0l3AmFgBH5U"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30be\u30df (CV: \u65e5\u7b20\u967d\u5b50)",
+          "url": "https://open.spotify.com/artist/2bVANXidQS76GEdwg0mfP3"
+        },
+        {
+          "name": "\u30c1\u30ab (CV: \u798f\u539f\u7dbe\u9999)",
+          "url": "https://open.spotify.com/artist/4HeJvCgKf5PUUfX268r19S"
+        },
+        {
+          "name": "\u30c4\u30e0\u30ae (CV: \u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/20X99f33unz5xvS5dj1hc3"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 202666,
+      "name": "Call Me Darling!",
+      "url": "https://open.spotify.com/track/2RUjuLahhd00cxPhQPkGW2"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 14",
+        "url": "https://open.spotify.com/album/0KWmmM6kbjW3lBsvUg8Nia"
+      },
+      "artists": [
+        {
+          "name": "\u30ce\u30be\u30df (CV: \u65e5\u7b20\u967d\u5b50)",
+          "url": "https://open.spotify.com/artist/2bVANXidQS76GEdwg0mfP3"
+        },
+        {
+          "name": "\u30c1\u30ab (CV: \u798f\u539f\u7dbe\u9999)",
+          "url": "https://open.spotify.com/artist/4HeJvCgKf5PUUfX268r19S"
+        },
+        {
+          "name": "\u30c4\u30e0\u30ae (CV: \u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/20X99f33unz5xvS5dj1hc3"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Call Me Darling!",
+      "url": "https://open.spotify.com/track/1CT4B6LPCOJAoDPTAuaTdm"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 280880,
+      "name": "Connecting Happy!!",
+      "url": "https://open.spotify.com/track/5Mj1F2MBQVWooPks12pkGX"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 02",
+        "url": "https://open.spotify.com/album/6SlAae04OWbU43IuUIJjuP"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283373,
+      "name": "Connecting Happy!!",
+      "url": "https://open.spotify.com/track/650w1ZqAWU1TZ8fNJhrbGp"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30e4\u30cd (CV: \u82b9\u6fa4 \u512a)",
+          "url": "https://open.spotify.com/artist/5smslvdaLgqGPa9mYGCTu0"
+        },
+        {
+          "name": "\u30af\u30eb\u30df (CV: \u690d\u7530\u4f73\u5948)",
+          "url": "https://open.spotify.com/artist/65dN5E00Mb1lMWSAibBnPu"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 255106,
+      "name": "Ding Dong Holy Night\u266a",
+      "url": "https://open.spotify.com/track/3pG8S7IhvA1vFOz9VDonTM"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 07",
+        "url": "https://open.spotify.com/album/5VAFa2d5V7yJaJEIYnoCaj"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30e4\u30cd (CV: \u82b9\u6fa4 \u512a)",
+          "url": "https://open.spotify.com/artist/5smslvdaLgqGPa9mYGCTu0"
+        },
+        {
+          "name": "\u30af\u30eb\u30df (CV: \u690d\u7530\u4f73\u5948)",
+          "url": "https://open.spotify.com/artist/65dN5E00Mb1lMWSAibBnPu"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258040,
+      "name": "Ding Dong Holy Night\u266a",
+      "url": "https://open.spotify.com/track/613ArriTSiETCHoiT6BvBl"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 35",
+        "url": "https://open.spotify.com/album/1fcycKw9LhP8QXvuLUV1qv"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30ea\u30e4 (CV: \u4e39\u4e0b \u685c)",
+          "url": "https://open.spotify.com/artist/0Mn8UJEt2fCOu7znHrxgsO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "Gothical Radical \u2020 Eternal Wedding",
+      "url": "https://open.spotify.com/track/1iO3e36CApXkYCwCPmp1Hv"
+    },
+    {
+      "album": {
+        "name": "Still We Walk Together & Lost Princess (From \u201cPrincess Connect! Re: Dive\u201d)",
+        "url": "https://open.spotify.com/album/3DLRN7GFMdWZUD0KRMmhgT"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 235706,
+      "name": "Lost Princess",
+      "url": "https://open.spotify.com/track/25WRQAiXRNrChdNolmGeYB"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 01",
+        "url": "https://open.spotify.com/album/06csBfhLdFKf73NysIEQqW"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Lost Princess",
+      "url": "https://open.spotify.com/track/2hGkhWbmLZ6Ik15FtsyGXS"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 32",
+        "url": "https://open.spotify.com/album/09JMTyQXIFL7eto7iu621w"
+      },
+      "artists": [
+        {
+          "name": "\u30db\u30de\u30ec (CV: \u5927\u897f\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/1tHcnytj0kQW7UjgnFnxpU"
+        },
+        {
+          "name": "\u30df\u30b5\u30c8 (CV: \u570b\u5e9c\u7530\u30de\u30ea\u5b50)",
+          "url": "https://open.spotify.com/artist/5qa22UA8rhi85Vomi9l6Eq"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "ma.sa.yu.me.",
+      "url": "https://open.spotify.com/track/5M6fiNykx2QfzV2TE5EHmr"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        },
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        },
+        {
+          "name": "\u30b7\u30a7\u30d5\u30a3 (CV: \u8fd1\u85e4\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/2ZcnB2zKzU7ZnT5TBZKZkK"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 268400,
+      "name": "Mirage Game",
+      "url": "https://open.spotify.com/track/7J3W7jYOg3FZ7WJT5ai1EY"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 13",
+        "url": "https://open.spotify.com/album/1Mc0Ji3asSjFig2cVqMoV8"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        },
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        },
+        {
+          "name": "\u30b7\u30a7\u30d5\u30a3 (CV: \u8fd1\u85e4\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/2ZcnB2zKzU7ZnT5TBZKZkK"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268933,
+      "name": "Mirage Game",
+      "url": "https://open.spotify.com/track/7mLSFIzKbIqbtNW8Gmlwda"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30db (CV: \u5185\u7530\u771f\u793c)",
+          "url": "https://open.spotify.com/artist/4sBXekyeS92U3PnGpcdjMK"
+        },
+        {
+          "name": "\u30ab\u30aa\u30ea (CV: \u9ad8\u68ee\u5948\u6d25\u7f8e)",
+          "url": "https://open.spotify.com/artist/353OIK7NcB68bzsHNh7g7Y"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 228026,
+      "name": "Peaceful*\u3061\u3083\u3093\u3077\u308b\u30fc",
+      "url": "https://open.spotify.com/track/1zKgJTny0DAVqvmtkAJEXF"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 09",
+        "url": "https://open.spotify.com/album/0O8lsdwVZmKfYST3mpvQ4s"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30db (CV: \u5185\u7530\u771f\u793c)",
+          "url": "https://open.spotify.com/artist/4sBXekyeS92U3PnGpcdjMK"
+        },
+        {
+          "name": "\u30ab\u30aa\u30ea (CV: \u9ad8\u68ee\u5948\u6d25\u7f8e)",
+          "url": "https://open.spotify.com/artist/353OIK7NcB68bzsHNh7g7Y"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Peaceful*\u3061\u3083\u3093\u3077\u308b\u30fc",
+      "url": "https://open.spotify.com/track/02ew36AUcDUKe9RqH6BUyz"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 15",
+        "url": "https://open.spotify.com/album/00kDDwpIxitug5XdBKAHTK"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        },
+        {
+          "name": "\u30b9\u30ba\u30e1 (CV: \u60a0\u6728 \u78a7)",
+          "url": "https://open.spotify.com/artist/34rHk3iJxRuxSUHtrDpVd6"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "SAI\uff0aKOU\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/6WdtcRSf1YCS2lVwbsX2Yu"
+    },
+    {
+      "album": {
+        "name": "Season of Departure (From Princess Connect! Re: Dive)",
+        "url": "https://open.spotify.com/album/3t8wWWZ0lzW0l3AmFgBH5U"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Season of Departure",
+      "url": "https://open.spotify.com/track/1aKPtrNNnXNMFm84HB1L6V"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30c4\u30cd (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/7xRW9zFvZADQYPweAPt2wa"
+        },
+        {
+          "name": "\u30b7\u30aa\u30ea (CV: \u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/4g899MSOqzdy85d1HDAjDR"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 255240,
+      "name": "Smiley Contrast",
+      "url": "https://open.spotify.com/track/5s4MWaB5eW61J2Hxt0Fi59"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 04",
+        "url": "https://open.spotify.com/album/0OvVx1kKvqjBsl4ae18uhr"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30c4\u30cd (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/7xRW9zFvZADQYPweAPt2wa"
+        },
+        {
+          "name": "\u30b7\u30aa\u30ea (CV: \u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/4g899MSOqzdy85d1HDAjDR"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255346,
+      "name": "Smiley Contrast",
+      "url": "https://open.spotify.com/track/7iOmZnk4go1gO8sjy950h1"
+    },
+    {
+      "album": {
+        "name": "Still We Walk Together & Lost Princess (From \u201cPrincess Connect! Re: Dive\u201d)",
+        "url": "https://open.spotify.com/album/3DLRN7GFMdWZUD0KRMmhgT"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Still We Walk Together",
+      "url": "https://open.spotify.com/track/3zsVvECcOGGTpug6dVKnpI"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ba\u30eb (CV: \u751f\u5929\u76ee\u4ec1\u7f8e)",
+          "url": "https://open.spotify.com/artist/2HQdqyvmAa7yE7zJqdzpBu"
+        },
+        {
+          "name": "\u30ea\u30ce (CV: \u963f\u6f84\u4f73\u5948)",
+          "url": "https://open.spotify.com/artist/10a8umAWMC5uhHJ5yuR894"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 218346,
+      "name": "SUPER CHOCOLATE",
+      "url": "https://open.spotify.com/track/0aWDTwmm3PiL2Jp7xEXfa0"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 08",
+        "url": "https://open.spotify.com/album/5TNnSZAxjxJpi3xWzBqdhQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ba\u30eb (CV: \u751f\u5929\u76ee\u4ec1\u7f8e)",
+          "url": "https://open.spotify.com/artist/2HQdqyvmAa7yE7zJqdzpBu"
+        },
+        {
+          "name": "\u30ea\u30ce (CV: \u963f\u6f84\u4f73\u5948)",
+          "url": "https://open.spotify.com/artist/10a8umAWMC5uhHJ5yuR894"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "SUPER CHOCOLATE",
+      "url": "https://open.spotify.com/track/0K4M5jam7XdLkMhaySYWAs"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 239173,
+      "name": "TwinkleStars",
+      "url": "https://open.spotify.com/track/6XpjMqhozECFn0UIfUisR6"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 10",
+        "url": "https://open.spotify.com/album/3lVeDHs8lDI0PO8WzhHM30"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "TwinkleStars",
+      "url": "https://open.spotify.com/track/5skrU5pBYhKKUAjHeiYIdj"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 282906,
+      "name": "Yes! Precious Harmony!",
+      "url": "https://open.spotify.com/track/3LPZmo1VVgWyjo8ZKM5wNz"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 13",
+        "url": "https://open.spotify.com/album/1Mc0Ji3asSjFig2cVqMoV8"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "Yes! Precious Harmony!",
+      "url": "https://open.spotify.com/track/0eA84b1bd9mCGhwdqHBEDo"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30ec\u30f3 (CV: \u5800\u6c5f\u7531\u8863)",
+          "url": "https://open.spotify.com/artist/52kwgP9GKUf0rVTbjPNi30"
+        },
+        {
+          "name": "\u30b9\u30ba\u30e1 (CV: \u60a0\u6728 \u78a7)",
+          "url": "https://open.spotify.com/artist/34rHk3iJxRuxSUHtrDpVd6"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 251413,
+      "name": "\u3048\u304c\u304a\u306e\u30de\u30a4\u30db\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/1Np4drfmPGP0kwA3SIz82H"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 02",
+        "url": "https://open.spotify.com/album/6SlAae04OWbU43IuUIJjuP"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30ec\u30f3 (CV: \u5800\u6c5f\u7531\u8863)",
+          "url": "https://open.spotify.com/artist/52kwgP9GKUf0rVTbjPNi30"
+        },
+        {
+          "name": "\u30b9\u30ba\u30e1 (CV: \u60a0\u6728 \u78a7)",
+          "url": "https://open.spotify.com/artist/34rHk3iJxRuxSUHtrDpVd6"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "\u3048\u304c\u304a\u306e\u30de\u30a4\u30db\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/2Ciy9CS4Vhfy2np2cV2LEv"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 242133,
+      "name": "\u3064\u306a\u3050\u3082\u306e",
+      "url": "https://open.spotify.com/track/5NA0CV7PTJCmyQOLu9r7RA"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 01",
+        "url": "https://open.spotify.com/album/06csBfhLdFKf73NysIEQqW"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30a4 (CV: \u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/5r5EyZrLdVy3msX4VcaCYx"
+        },
+        {
+          "name": "\u30d2\u30e8\u30ea (CV: \u6771\u5c71\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/2XlYvu3EbqprkMeuz1onWQ"
+        },
+        {
+          "name": "\u30ec\u30a4 (CV: \u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/71aw5NuPyaFP6w4dz0QHL4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "\u3064\u306a\u3050\u3082\u306e",
+      "url": "https://open.spotify.com/track/3X9Mn3P7bF9z4GswVYaVEF"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive Lost Princess \u301c\u3088\u3046\u3053\u305d\u7f8e\u98df\u6bbf\u3078!\u301c",
+        "url": "https://open.spotify.com/album/1PZU7svqWcUkO62PGhtRoX"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258213,
+      "name": "\u3068\u3073\u304d\u308a Dear My Friends!",
+      "url": "https://open.spotify.com/track/2TJRhhxhsbmvGgNsPKtGKE"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 12",
+        "url": "https://open.spotify.com/album/5kT2U2hZVyCU6C7zg7wrFi"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30cb (CV: \u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/5ad5dhmJ4ODvPN3s8otIL5"
+        },
+        {
+          "name": "\u30c1\u30a8\u30eb (CV: \u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/5guSG7epy8V9Y4nxuHZuRe"
+        },
+        {
+          "name": "\u30af\u30ed\u30a8 (CV: \u7a2e\ufa11\u6566\u7f8e)",
+          "url": "https://open.spotify.com/artist/4UtFPEXIaMa13ecGFzZ3BC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "\u306a\u304b\u3088\u3057\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1WNcEIqSM1PNf89P03DphA"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30cb (CV: \u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/5ad5dhmJ4ODvPN3s8otIL5"
+        },
+        {
+          "name": "\u30c1\u30a8\u30eb (CV: \u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/5guSG7epy8V9Y4nxuHZuRe"
+        },
+        {
+          "name": "\u30af\u30ed\u30a8 (CV: \u7a2e\ufa11\u6566\u7f8e)",
+          "url": "https://open.spotify.com/artist/4UtFPEXIaMa13ecGFzZ3BC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 203986,
+      "name": "\u306a\u304b\u3088\u3057\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0z0WBXpw7F8Q4bLwHNzeLH"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 33",
+        "url": "https://open.spotify.com/album/0dRf1g0QK3hTkT0Uqvzzlg"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30de\u30ad (CV: \u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Ok4zrJZXE9akpW613FkYE"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "\u306b\u3083\u3093\u3060\u30d5\u30eb\u30b9\u30a6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5DI7n5zD3uuefjTAs2lNBM"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive Lost Princess \u301c\u3088\u3046\u3053\u305d\u7f8e\u98df\u6bbf\u3078!\u301c",
+        "url": "https://open.spotify.com/album/1PZU7svqWcUkO62PGhtRoX"
+      },
+      "artists": [
+        {
+          "name": "\u30da\u30b3\u30ea\u30fc\u30cc (CV: M\u30fbA\u30fbO)",
+          "url": "https://open.spotify.com/artist/6TeG2rOl0azARjKo962RNe"
+        },
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        },
+        {
+          "name": "\u30ad\u30e3\u30eb (CV: \u7acb\u82b1\u7406\u9999)",
+          "url": "https://open.spotify.com/artist/17sQXyckPh5c9lMF6uQ7VJ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278613,
+      "name": "\u3072\u3060\u307e\u308a",
+      "url": "https://open.spotify.com/track/24WpyKvGqguBXBFHJh8ay1"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ce\u30d6 (CV: \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/6nGojwJ68GnPImsdugUFsd"
+        },
+        {
+          "name": "\u30df\u30e4\u30b3 (CV: \u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/1ZPj77LL48MLEug4YcflYF"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 254720,
+      "name": "\u3082\u3063\u3068! \u3075\u305f\u308a\u306e\u30d1\u301c\u30c6\u30a3\u301c\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1U7d4dBc8S1nikkOYzq1IS"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 07",
+        "url": "https://open.spotify.com/album/5VAFa2d5V7yJaJEIYnoCaj"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ce\u30d6 (CV: \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/6nGojwJ68GnPImsdugUFsd"
+        },
+        {
+          "name": "\u30df\u30e4\u30b3 (CV: \u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/1ZPj77LL48MLEug4YcflYF"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254986,
+      "name": "\u3082\u3063\u3068!\u3075\u305f\u308a\u306e\u30d1\u301c\u30c6\u30a3\u301c\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1w4hqZ3takHCTg0MtdQMjz"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ad\u30ce (CV: \u677e\u5d5c \u9e97)",
+          "url": "https://open.spotify.com/artist/08PV275OZinGUwPoLeYlQR"
+        },
+        {
+          "name": "\u30df\u30d5\u30e6 (CV: \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/4sH8s6wahTl6bFsvyeqMKn"
+        },
+        {
+          "name": "\u30e6\u30ab\u30ea (CV: \u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/2LaPqnSXGJX00gTeMEAv8O"
+        },
+        {
+          "name": "\u30bf\u30de\u30ad (CV: \u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Ok4zrJZXE9akpW613FkYE"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 227080,
+      "name": "\u30ad\u30f3\u30ad\u30e9\u2606\u30cf\u30d4\u30cd\u30b9!",
+      "url": "https://open.spotify.com/track/4jZAcBv8IJl2XDEDBGIhGw"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 06",
+        "url": "https://open.spotify.com/album/6W9c5daEBBJNXlxr5LYkeU"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30ad\u30ce (CV: \u677e\u5d5c \u9e97)",
+          "url": "https://open.spotify.com/artist/08PV275OZinGUwPoLeYlQR"
+        },
+        {
+          "name": "\u30df\u30d5\u30e6 (CV: \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/4sH8s6wahTl6bFsvyeqMKn"
+        },
+        {
+          "name": "\u30e6\u30ab\u30ea (CV: \u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/2LaPqnSXGJX00gTeMEAv8O"
+        },
+        {
+          "name": "\u30bf\u30de\u30ad (CV: \u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Ok4zrJZXE9akpW613FkYE"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "\u30ad\u30f3\u30ad\u30e9\u2606\u30cf\u30d4\u30cd\u30b9\uff01",
+      "url": "https://open.spotify.com/track/4DcJGoltjVbqD00IOf5LXV"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30ca (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3k1Y9dGckHE2jGPbLKfEjC"
+        },
+        {
+          "name": "\u30ca\u30ca\u30ab (CV: \u4f73\u6751\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/6OYDLIjpxqu4AjHuvX81VC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 207346,
+      "name": "\u30b5\u30a4\u30c4\u30e8\u3067\u3057\u3087\u3001\u3067\u3057\u3087?",
+      "url": "https://open.spotify.com/track/3NnqYQKT6h5EjZbtCkOL27"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 08",
+        "url": "https://open.spotify.com/album/5TNnSZAxjxJpi3xWzBqdhQ"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30ca (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3k1Y9dGckHE2jGPbLKfEjC"
+        },
+        {
+          "name": "\u30ca\u30ca\u30ab (CV: \u4f73\u6751\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/6OYDLIjpxqu4AjHuvX81VC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "\u30b5\u30a4\u30c4\u30e8\u3067\u3057\u3087\u3001\u3067\u3057\u3087\uff1f",
+      "url": "https://open.spotify.com/track/2ucZXE9PiUB9eM9ore8Qzj"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 32",
+        "url": "https://open.spotify.com/album/09JMTyQXIFL7eto7iu621w"
+      },
+      "artists": [
+        {
+          "name": "\u30e0\u30a4\u30df (CV: \u6f58 \u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/0BmWHnbryOSyoINe1m0ypg"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "\u30cd\u30d0\u30fc\u30eb\u30fc\u30ba\u30a2\u30b2\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1uKQD3NW8LVLJg0I7HF0Pi"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 35",
+        "url": "https://open.spotify.com/album/1fcycKw9LhP8QXvuLUV1qv"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30cd\u30ab (CV: \u4e95\u53e3\u88d5\u9999)",
+          "url": "https://open.spotify.com/artist/7xW6ORToCHV5qTk3bS9vSZ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "\u30e1\u30bf\u30e2\u30eb\u30fb\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/2B383uTokUkgo8KPXPkBYC"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 05",
+        "url": "https://open.spotify.com/album/5cxiO7jIvnvPlxoBHs63zu"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30df (CV: \u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/1Y9N38rnsfxFylXTLSmwEz"
+        },
+        {
+          "name": "\u30df\u30bd\u30ae (CV: \u8af8\u661f\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/7hbieeQiwtOZhhRBzpT5fJ"
+        },
+        {
+          "name": "\u30ad\u30e7\u30a6\u30ab (CV: \u5c0f\u5009 \u552f)",
+          "url": "https://open.spotify.com/artist/1OEZtJsd7u722RpIP6rcGb"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "\u30ea\u30c8\u30eb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/7cgInZNIkZOPcYHxSqWe9S"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.1",
+        "url": "https://open.spotify.com/album/2YXVrNzpJhJc2ySmP9Wodu"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30df (CV: \u65e5\u9ad8\u91cc\u83dc)",
+          "url": "https://open.spotify.com/artist/1Y9N38rnsfxFylXTLSmwEz"
+        },
+        {
+          "name": "\u30df\u30bd\u30ae (CV: \u8af8\u661f\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/7hbieeQiwtOZhhRBzpT5fJ"
+        },
+        {
+          "name": "\u30ad\u30e7\u30a6\u30ab (CV: \u5c0f\u5009 \u552f)",
+          "url": "https://open.spotify.com/artist/1OEZtJsd7u722RpIP6rcGb"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 216853,
+      "name": "\u30ea\u30c8\u30eb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+      "url": "https://open.spotify.com/track/6x7fYAe0AoqPFn2VdYbAHs"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive Lost Princess \u301c\u3088\u3046\u3053\u305d\u7f8e\u98df\u6bbf\u3078!\u301c",
+        "url": "https://open.spotify.com/album/1PZU7svqWcUkO62PGhtRoX"
+      },
+      "artists": [
+        {
+          "name": "\u30b3\u30c3\u30b3\u30ed (CV: \u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3CAAO8zecdofAu99u45gTz"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314346,
+      "name": "\u5fc3\u60f3\u3044 \u301c\u30b3\u30b3\u30ed\u30aa\u30e2\u30a4\u301c",
+      "url": "https://open.spotify.com/track/0XqtjzSrqBAwaUDXbd9DdU"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b3\u30c8 (CV: \u5c0f\u677e\u672a\u53ef\u5b50)",
+          "url": "https://open.spotify.com/artist/3mlGbvVGpMwqiHmrtmYFSD"
+        },
+        {
+          "name": "\u30ab\u30b9\u30df (CV: \u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/44h5r6Gax5hivxSccYVu43"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 224853,
+      "name": "\u672a\u89e3\u6c7a\u306a\u60f3\u3044",
+      "url": "https://open.spotify.com/track/6l0phcpx8tNtM5LwpixToU"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 09",
+        "url": "https://open.spotify.com/album/0O8lsdwVZmKfYST3mpvQ4s"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b3\u30c8 (CV: \u5c0f\u677e\u672a\u53ef\u5b50)",
+          "url": "https://open.spotify.com/artist/3mlGbvVGpMwqiHmrtmYFSD"
+        },
+        {
+          "name": "\u30ab\u30b9\u30df (CV: \u6c34\u702c\u3044\u306e\u308a)",
+          "url": "https://open.spotify.com/artist/44h5r6Gax5hivxSccYVu43"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "\u672a\u89e3\u6c7a\u306a\u60f3\u3044",
+      "url": "https://open.spotify.com/track/1hbLhZss4C3V8v3IxzM8nF"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 21",
+        "url": "https://open.spotify.com/album/4uAlGLzYdx2LURZ2S0LJVi"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30a8\u30eb (CV: \u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/5guSG7epy8V9Y4nxuHZuRe"
+        },
+        {
+          "name": "\u30af\u30ed\u30a8 (CV: \u7a2e\ufa11\u6566\u7f8e)",
+          "url": "https://open.spotify.com/artist/4UtFPEXIaMa13ecGFzZ3BC"
+        },
+        {
+          "name": "\u30e6\u30cb (CV: \u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/5ad5dhmJ4ODvPN3s8otIL5"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "\u7121\u6575\u30c9\u30ea\u30fc\u30df\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/3K9NvOhcX7ymxauJfSZlTc"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30e2\u30cb\u30ab (CV: \u8fbb \u3042\u3086\u307f)",
+          "url": "https://open.spotify.com/artist/2WN8w6dN2X1CGC5836PqtP"
+        },
+        {
+          "name": "\u30e6\u30ad (CV: \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/61GC4L3BxJCFCc22oTxIpv"
+        },
+        {
+          "name": "\u30cb\u30ce\u30f3 (CV: \u4f50\u85e4\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/3J7bY4J6ftUCtXCLKcp6Ip"
+        },
+        {
+          "name": "\u30af\u30a6\u30ab (CV: \u9577\u59bb\u6a39\u91cc)",
+          "url": "https://open.spotify.com/artist/7CGgBBehct7MXJ8b1SQn0r"
+        },
+        {
+          "name": "\u30a2\u30e6\u30df (CV: \u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/4AOA84IHN0mOgvWvgE0NMq"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 252440,
+      "name": "\u767d\u7ffc\u306e\u30b0\u30ed\u30fc\u30ea\u30a8",
+      "url": "https://open.spotify.com/track/1bZ19MadgFehA8IVhTC482"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 10",
+        "url": "https://open.spotify.com/album/3lVeDHs8lDI0PO8WzhHM30"
+      },
+      "artists": [
+        {
+          "name": "\u30e2\u30cb\u30ab (CV: \u8fbb \u3042\u3086\u307f)",
+          "url": "https://open.spotify.com/artist/2WN8w6dN2X1CGC5836PqtP"
+        },
+        {
+          "name": "\u30e6\u30ad (CV: \u5927\u7a7a\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/61GC4L3BxJCFCc22oTxIpv"
+        },
+        {
+          "name": "\u30cb\u30ce\u30f3 (CV: \u4f50\u85e4\u8061\u7f8e)",
+          "url": "https://open.spotify.com/artist/3J7bY4J6ftUCtXCLKcp6Ip"
+        },
+        {
+          "name": "\u30af\u30a6\u30ab (CV: \u9577\u59bb\u6a39\u91cc)",
+          "url": "https://open.spotify.com/artist/7CGgBBehct7MXJ8b1SQn0r"
+        },
+        {
+          "name": "\u30a2\u30e6\u30df (CV: \u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/4AOA84IHN0mOgvWvgE0NMq"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "\u767d\u7ffc\u306e\u30b0\u30ed\u30fc\u30ea\u30a8",
+      "url": "https://open.spotify.com/track/2XLHwMdWgAHmTQvhCvlbmw"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8! Re:Dive PRICONNE CHARACTER SONG 33",
+        "url": "https://open.spotify.com/album/0dRf1g0QK3hTkT0Uqvzzlg"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30aa\u30ea (CV: \u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/4g899MSOqzdy85d1HDAjDR"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "\u79c1\u8272STORY",
+      "url": "https://open.spotify.com/track/6rOrlSfqHjVKXwXiwxzmSG"
+    },
+    {
+      "album": {
+        "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
+        "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30aa (CV: \u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/432yjH2DdgyyU2kX27NQbV"
+        },
+        {
+          "name": "\u30df\u30b5\u30ad (CV: \u4e45\u91ce\u7f8e\u54b2)",
+          "url": "https://open.spotify.com/artist/2ZYNHZiOYsthGGA5dgXBKk"
+        },
+        {
+          "name": "\u30b9\u30ba\u30ca (CV: \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ZqX3y6wM3bCCa9aXjETV1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 250800,
+      "name": "\u80cc\u4f38\u3073First Kiss",
+      "url": "https://open.spotify.com/track/7x9PMO8qxummfEq0eSuK2e"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 11",
+        "url": "https://open.spotify.com/album/44WL3f0s1zGydlDNWjT6E1"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30aa (CV: \u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/432yjH2DdgyyU2kX27NQbV"
+        },
+        {
+          "name": "\u30df\u30b5\u30ad (CV: \u4e45\u91ce\u7f8e\u54b2)",
+          "url": "https://open.spotify.com/artist/2ZYNHZiOYsthGGA5dgXBKk"
+        },
+        {
+          "name": "\u30b9\u30ba\u30ca (CV: \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ZqX3y6wM3bCCa9aXjETV1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "\u80cc\u4f38\u3073First Kiss",
+      "url": "https://open.spotify.com/track/06Z6Pj5lfdAuVGiGBPDlS8"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 16",
+        "url": "https://open.spotify.com/album/0CZiFpgpLEwkUw4Tn1aze7"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30a8\u30eb (CV: \u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/5guSG7epy8V9Y4nxuHZuRe"
+        },
+        {
+          "name": "\u30af\u30ed\u30a8 (CV: \u7a2e\ufa11\u6566\u7f8e)",
+          "url": "https://open.spotify.com/artist/4UtFPEXIaMa13ecGFzZ3BC"
+        },
+        {
+          "name": "\u30e6\u30cb (CV: \u5c0f\u539f\u597d\u7f8e)",
+          "url": "https://open.spotify.com/artist/5ad5dhmJ4ODvPN3s8otIL5"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269680,
+      "name": "\u9752\u6625\u30b9\u30d4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5SpIRfPEhtTvZn2yPiu6ye"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8lJMXhaDN8v"
 }

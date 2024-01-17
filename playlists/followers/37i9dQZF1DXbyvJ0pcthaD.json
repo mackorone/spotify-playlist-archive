@@ -1,396 +1,531 @@
 {
-  "2022-12-02": 1743,
-  "2022-12-03": 3011,
-  "2022-12-04": 4707,
-  "2022-12-05": 6530,
-  "2022-12-06": 9019,
-  "2022-12-07": 12726,
-  "2022-12-08": 17956,
-  "2022-12-09": 23670,
-  "2022-12-10": 29940,
-  "2022-12-11": 36219,
-  "2022-12-12": 42857,
-  "2022-12-13": 50880,
-  "2022-12-14": 62076,
-  "2022-12-15": 72519,
-  "2022-12-16": 80714,
-  "2022-12-17": 85950,
-  "2022-12-18": 90975,
-  "2022-12-19": 95639,
-  "2022-12-20": 103673,
-  "2022-12-21": 103673,
-  "2022-12-22": 108787,
-  "2022-12-24": 117674,
-  "2022-12-25": 121710,
-  "2022-12-26": 125675,
-  "2022-12-27": 129672,
-  "2022-12-28": 134560,
-  "2022-12-29": 138930,
-  "2022-12-30": 143514,
-  "2022-12-31": 147506,
-  "2023-01-01": 152309,
-  "2023-01-02": 155843,
-  "2023-01-03": 160527,
-  "2023-01-04": 164815,
-  "2023-01-05": 168709,
-  "2023-01-06": 173028,
-  "2023-01-07": 179595,
-  "2023-01-08": 180974,
-  "2023-01-09": 185268,
-  "2023-01-10": 188978,
-  "2023-01-11": 192498,
-  "2023-01-12": 196001,
-  "2023-01-13": 199453,
-  "2023-01-14": 205950,
-  "2023-01-15": 207056,
-  "2023-01-16": 211069,
-  "2023-01-17": 214112,
-  "2023-01-18": 216719,
-  "2023-01-19": 219566,
-  "2023-01-20": 222098,
-  "2023-01-21": 224910,
-  "2023-01-22": 228346,
-  "2023-01-23": 231506,
-  "2023-01-24": 233724,
-  "2023-01-25": 235914,
-  "2023-01-26": 238166,
-  "2023-01-27": 240284,
-  "2023-01-28": 242519,
-  "2023-01-29": 245178,
-  "2023-01-30": 247537,
-  "2023-01-31": 247537,
-  "2023-02-01": 250878,
-  "2023-02-02": 252578,
-  "2023-02-03": 254198,
-  "2023-02-04": 255874,
-  "2023-02-05": 257957,
-  "2023-02-06": 259785,
-  "2023-02-07": 261094,
-  "2023-02-08": 263525,
-  "2023-02-09": 263525,
-  "2023-02-10": 264769,
-  "2023-02-11": 266092,
-  "2023-02-12": 269355,
-  "2023-02-13": 270391,
-  "2023-02-14": 270391,
-  "2023-02-15": 271340,
-  "2023-02-16": 272386,
-  "2023-02-17": 273500,
-  "2023-02-18": 276291,
-  "2023-02-19": 276480,
-  "2023-02-20": 277659,
-  "2023-02-21": 278724,
-  "2023-02-22": 279667,
-  "2023-02-23": 280681,
-  "2023-02-24": 281742,
-  "2023-02-25": 283285,
-  "2023-02-26": 284290,
-  "2023-02-27": 286477,
-  "2023-02-28": 286477,
-  "2023-03-01": 287392,
-  "2023-03-02": 288354,
-  "2023-03-03": 289376,
-  "2023-03-04": 290399,
-  "2023-03-05": 292897,
-  "2023-03-06": 292897,
-  "2023-03-07": 293696,
-  "2023-03-08": 294526,
-  "2023-03-09": 295425,
-  "2023-03-10": 296172,
-  "2023-03-11": 297233,
-  "2023-03-12": 299530,
-  "2023-03-13": 301661,
-  "2023-03-14": 302880,
-  "2023-03-15": 304317,
-  "2023-03-16": 305215,
-  "2023-03-17": 305215,
-  "2023-03-18": 307025,
-  "2023-03-19": 308164,
-  "2023-03-20": 309358,
-  "2023-03-21": 310031,
-  "2023-03-22": 310795,
-  "2023-03-23": 311675,
-  "2023-03-24": 311675,
-  "2023-03-25": 313280,
-  "2023-03-26": 314331,
-  "2023-03-27": 315271,
-  "2023-03-28": 316133,
-  "2023-03-29": 316919,
-  "2023-03-30": 318322,
-  "2023-03-31": 318322,
-  "2023-04-01": 319063,
-  "2023-04-02": 319959,
-  "2023-04-03": 320817,
-  "2023-04-04": 321469,
-  "2023-04-05": 322142,
-  "2023-04-06": 322972,
-  "2023-04-07": 323828,
-  "2023-04-09": 325639,
-  "2023-04-10": 326537,
-  "2023-04-11": 328311,
-  "2023-04-12": 328311,
-  "2023-04-13": 329013,
-  "2023-04-14": 329806,
-  "2023-04-15": 330477,
-  "2023-04-16": 331224,
-  "2023-04-17": 331930,
-  "2023-04-18": 332477,
-  "2023-04-19": 333076,
-  "2023-04-20": 333655,
-  "2023-04-21": 334250,
-  "2023-04-22": 334978,
-  "2023-04-23": 335707,
-  "2023-04-24": 336294,
-  "2023-04-25": 336719,
-  "2023-04-26": 337189,
-  "2023-04-27": 337722,
-  "2023-04-28": 338324,
-  "2023-04-29": 338959,
-  "2023-04-30": 339738,
-  "2023-05-01": 340619,
-  "2023-05-02": 341574,
-  "2023-05-03": 342005,
-  "2023-05-04": 342453,
-  "2023-05-05": 342814,
-  "2023-05-06": 343275,
-  "2023-05-07": 343807,
-  "2023-05-08": 344354,
-  "2023-05-09": 344706,
-  "2023-05-10": 345044,
-  "2023-05-11": 345435,
-  "2023-05-12": 345764,
-  "2023-05-13": 346158,
-  "2023-05-14": 346670,
-  "2023-05-15": 347084,
-  "2023-05-16": 347604,
-  "2023-05-17": 347924,
-  "2023-05-18": 348346,
-  "2023-05-19": 348753,
-  "2023-05-20": 349683,
-  "2023-05-21": 349683,
-  "2023-05-22": 349683,
-  "2023-05-23": 350412,
-  "2023-05-24": 350980,
-  "2023-05-25": 351073,
-  "2023-05-26": 351375,
-  "2023-05-27": 351682,
-  "2023-05-28": 352089,
-  "2023-05-29": 352089,
-  "2023-05-30": 352717,
-  "2023-05-31": 352948,
-  "2023-06-01": 353147,
-  "2023-06-02": 353446,
-  "2023-06-03": 353730,
-  "2023-06-04": 354111,
-  "2023-06-05": 354346,
-  "2023-06-06": 354625,
-  "2023-06-07": 354826,
-  "2023-06-08": 355089,
-  "2023-06-09": 355330,
-  "2023-06-10": 355588,
-  "2023-06-11": 355901,
-  "2023-06-12": 356240,
-  "2023-06-13": 356455,
-  "2023-06-14": 356665,
-  "2023-06-15": 356889,
-  "2023-06-16": 357107,
-  "2023-06-17": 357395,
-  "2023-06-18": 357700,
-  "2023-06-19": 358017,
-  "2023-06-20": 358268,
-  "2023-06-21": 358510,
-  "2023-06-22": 358756,
-  "2023-06-23": 358991,
-  "2023-06-24": 359261,
-  "2023-06-25": 359547,
-  "2023-06-26": 359840,
-  "2023-06-27": 360045,
-  "2023-06-28": 360221,
-  "2023-06-29": 360425,
-  "2023-06-30": 360619,
-  "2023-07-01": 361163,
-  "2023-07-02": 361163,
-  "2023-07-03": 361440,
-  "2023-07-04": 361783,
-  "2023-07-05": 362040,
-  "2023-07-06": 362553,
-  "2023-07-07": 362553,
-  "2023-07-08": 362776,
-  "2023-07-09": 363004,
-  "2023-07-10": 363263,
-  "2023-07-11": 363426,
-  "2023-07-12": 363635,
-  "2023-07-13": 363867,
-  "2023-07-14": 364101,
-  "2023-07-15": 364284,
-  "2023-07-16": 364579,
-  "2023-07-17": 364843,
-  "2023-07-18": 365066,
-  "2023-07-19": 365297,
-  "2023-07-20": 365536,
-  "2023-07-21": 365772,
-  "2023-07-22": 366033,
-  "2023-07-23": 366273,
-  "2023-07-24": 366539,
-  "2023-07-25": 366708,
-  "2023-07-26": 366929,
-  "2023-07-27": 367171,
-  "2023-07-28": 367401,
-  "2023-07-29": 367629,
-  "2023-07-30": 367908,
-  "2023-07-31": 368176,
-  "2023-08-01": 368344,
-  "2023-08-02": 368522,
-  "2023-08-03": 368700,
-  "2023-08-04": 368931,
-  "2023-08-05": 369147,
-  "2023-08-06": 369651,
-  "2023-08-07": 369651,
-  "2023-08-08": 369818,
-  "2023-08-09": 370045,
-  "2023-08-10": 370250,
-  "2023-08-11": 370417,
-  "2023-08-12": 370643,
-  "2023-08-13": 370850,
-  "2023-08-14": 371018,
-  "2023-08-15": 371360,
-  "2023-08-16": 371360,
-  "2023-08-17": 371569,
-  "2023-08-18": 371755,
-  "2023-08-19": 371949,
-  "2023-08-20": 372160,
-  "2023-08-21": 372347,
-  "2023-08-22": 372523,
-  "2023-08-23": 372724,
-  "2023-08-24": 372869,
-  "2023-08-25": 373052,
-  "2023-08-26": 373283,
-  "2023-08-27": 373488,
-  "2023-08-28": 373701,
-  "2023-08-29": 373901,
-  "2023-08-30": 374057,
-  "2023-08-31": 374249,
-  "2023-09-01": 374596,
-  "2023-09-02": 374596,
-  "2023-09-03": 374781,
-  "2023-09-04": 374963,
-  "2023-09-05": 375116,
-  "2023-09-06": 375242,
-  "2023-09-07": 375364,
-  "2023-09-08": 375537,
-  "2023-09-09": 375697,
-  "2023-09-10": 375983,
-  "2023-09-11": 376238,
-  "2023-09-12": 376438,
-  "2023-09-13": 376602,
-  "2023-09-14": 376767,
-  "2023-09-15": 376962,
-  "2023-09-16": 377192,
-  "2023-09-17": 377192,
-  "2023-09-18": 377726,
-  "2023-09-19": 377937,
-  "2023-09-20": 378087,
-  "2023-09-21": 378296,
-  "2023-09-22": 378473,
-  "2023-09-23": 378645,
-  "2023-09-24": 378645,
-  "2023-09-25": 379082,
-  "2023-09-26": 379261,
-  "2023-09-27": 379421,
-  "2023-09-28": 379600,
-  "2023-09-29": 379774,
-  "2023-09-30": 379774,
-  "2023-10-01": 380145,
-  "2023-10-02": 380321,
-  "2023-10-03": 380436,
-  "2023-10-04": 380607,
-  "2023-10-05": 380747,
-  "2023-10-06": 380903,
-  "2023-10-07": 381121,
-  "2023-10-08": 381361,
-  "2023-10-09": 381361,
-  "2023-10-10": 381674,
-  "2023-10-11": 381989,
-  "2023-10-12": 381989,
-  "2023-10-13": 382122,
-  "2023-10-14": 382122,
-  "2023-10-15": 382122,
-  "2023-10-16": 382122,
-  "2023-10-17": 382122,
-  "2023-10-18": 382122,
-  "2023-10-19": 383322,
-  "2023-10-20": 383322,
-  "2023-10-21": 383322,
-  "2023-10-22": 383322,
-  "2023-10-23": 384295,
-  "2023-10-24": 384506,
-  "2023-10-25": 384506,
-  "2023-10-26": 384506,
-  "2023-10-27": 384506,
-  "2023-10-28": 384506,
-  "2023-10-29": 384506,
-  "2023-10-30": 384506,
-  "2023-10-31": 384506,
-  "2023-11-01": 384506,
-  "2023-11-02": 384506,
-  "2023-11-03": 384506,
-  "2023-11-04": 384506,
-  "2023-11-05": 384506,
-  "2023-11-06": 384506,
-  "2023-11-07": 384506,
-  "2023-11-08": 384506,
-  "2023-11-09": 384506,
-  "2023-11-10": 384506,
-  "2023-11-11": 395063,
-  "2023-11-12": 395179,
-  "2023-11-13": 395179,
-  "2023-11-14": 395179,
-  "2023-11-15": 395179,
-  "2023-11-16": 395179,
-  "2023-11-17": 395584,
-  "2023-11-18": 395584,
-  "2023-11-19": 395584,
-  "2023-11-20": 395584,
-  "2023-11-21": 395584,
-  "2023-11-22": 395584,
-  "2023-11-23": 395891,
-  "2023-11-24": 395891,
-  "2023-11-25": 395891,
-  "2023-11-26": 395891,
-  "2023-11-27": 395891,
-  "2023-11-28": 395891,
-  "2023-11-29": 395891,
-  "2023-11-30": 395891,
-  "2023-12-01": 395891,
-  "2023-12-02": 395891,
-  "2023-12-03": 395891,
-  "2023-12-04": 395891,
-  "2023-12-05": 395891,
-  "2023-12-06": 395891,
-  "2023-12-07": 395891,
-  "2023-12-08": 395891,
-  "2023-12-09": 396170,
-  "2023-12-10": 396170,
-  "2023-12-11": 396258,
-  "2023-12-12": 396258,
-  "2023-12-13": 396258,
-  "2023-12-14": 396416,
-  "2023-12-15": 396425,
-  "2023-12-16": 396465,
-  "2023-12-17": 396487,
-  "2023-12-18": 396506,
-  "2023-12-19": 396527,
-  "2023-12-20": 396571,
-  "2023-12-21": 396598,
-  "2023-12-22": 396619,
-  "2023-12-23": 396664,
-  "2023-12-24": 396748,
-  "2023-12-25": 396785,
-  "2023-12-26": 396832,
-  "2023-12-27": 396863,
-  "2023-12-30": 396964,
-  "2023-12-31": 396999,
-  "2024-01-01": 397082,
-  "2024-01-02": 397103,
-  "2024-01-03": 397132
+  "2024-01-17": 398109,
+  "date_first_scraped": "2022-12-02",
+  "description": "Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.",
+  "name": "Wednesday Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Famous Arias and Duets: Verdi, Mozart, and Puccini",
+        "url": "https://open.spotify.com/album/5xMNb7LpbNr1kPhcv4xfjN"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Lila Larinova",
+          "url": "https://open.spotify.com/artist/0VCsEU7pBDeEiEha4eDTml"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Johannes Wildner",
+          "url": "https://open.spotify.com/artist/3QEztQUVjL5FGxXuP70mJQ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295106,
+      "name": "Andrea Chenier, Act III: La mamma morta",
+      "url": "https://open.spotify.com/track/0i0XoLRtl0Ece1XTTXalwZ"
+    },
+    {
+      "album": {
+        "name": "Let Go Of Love",
+        "url": "https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq"
+      },
+      "artists": [
+        {
+          "name": "Exhibitionist",
+          "url": "https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184159,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l"
+    },
+    {
+      "album": {
+        "name": "Let Go Of Love",
+        "url": "https://open.spotify.com/album/4UvzxGsJRbfoAHxQ5QHV1k"
+      },
+      "artists": [
+        {
+          "name": "Exhibitionist",
+          "url": "https://open.spotify.com/artist/2L4hIKcvgn76KaB7D9X5iZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 184159,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/2KgUfq542PMh2oImJz7W7T"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Elgar",
+        "url": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293106,
+      "name": "Cello Concerto in E Minor, Op. 85: III. Adagio",
+      "url": "https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36"
+    },
+    {
+      "album": {
+        "name": "Shoo Fly Pop Rock & Folk from the Bayou Vol. 2",
+        "url": "https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg"
+      },
+      "artists": [
+        {
+          "name": "Skip Easterling",
+          "url": "https://open.spotify.com/artist/7Ljeb35EACw2LCUxhvRHtY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181469,
+      "name": "De O De O Doe De O",
+      "url": "https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb"
+    },
+    {
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
+        "name": "Quiet at the Kitchen Door",
+        "url": "https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7"
+      },
+      "artists": [
+        {
+          "name": "Wolf Larsen",
+          "url": "https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 438700,
+      "name": "If I Be Wrong",
+      "url": "https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3"
+    },
+    {
+      "album": {
+        "name": "Quiet at the Kitchen Door",
+        "url": "https://open.spotify.com/album/6qDC8upBCUkyV0Fw2N5qVE"
+      },
+      "artists": [
+        {
+          "name": "Wolf Larsen",
+          "url": "https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438700,
+      "name": "If I Be Wrong",
+      "url": "https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co"
+    },
+    {
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/1Mur3hTEWtYHqGku4d9ySm"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/5YsyqcewwE0c1ukzHVciS3"
+    },
+    {
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Pink Feathers",
+          "url": "https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR"
+    },
+    {
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/3t5htCiGucfhAQjm88U3K9"
+    },
+    {
+      "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "album": {
+        "name": "Inquisition Symphony",
+        "url": "https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285533,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
+        "name": "Legally Blonde",
+        "url": "https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Perfect Day - Chris Lord Alge Mix",
+      "url": "https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+    },
+    {
+      "album": {
+        "name": "Blonde Redhead",
+        "url": "https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Sciuri Sciura",
+      "url": "https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc"
+    },
+    {
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241304,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
+    },
+    {
+      "album": {
+        "name": "The Four Seasons \u2022 Concertos for Bassoon and Violin 'in tromba marina'",
+        "url": "https://open.spotify.com/album/1mSVDEox7b18dnZ4Iblnkb"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Adrian Chandler",
+          "url": "https://open.spotify.com/artist/7qJsLLT3iv2Uc0XbpnmEKz"
+        },
+        {
+          "name": "La Serenissima",
+          "url": "https://open.spotify.com/artist/15PIcAgtP1zCipRK3sniUN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "The Four Seasons: Concerto No. 4 in F Minor, RV 297 \"L'inverno\" (winter): I. Allegro non molto",
+      "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ"
+    },
+    {
+      "album": {
+        "name": "Carmita Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6"
+      },
+      "artists": [
+        {
+          "name": "Carmita Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/6xe8KyUZf4VP7cw5kpWpFY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Tierra Rica",
+      "url": "https://open.spotify.com/track/67loy4ECyK5Wg0ZPl2P67k"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
+    {
+      "album": {
+        "name": "Treat Her Strangely",
+        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
+      },
+      "artists": [
+        {
+          "name": "doubleVee",
+          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Your Love Is It Real?",
+      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbyvJ0pcthaD"
 }

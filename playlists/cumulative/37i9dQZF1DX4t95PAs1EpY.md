@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-480 songs - 18 hr 29 min
+484 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Big Wave Surfing](https://open.spotify.com/track/2UoP5BNB4tOW6BchOLMgbu) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Big Wave Surfing](https://open.spotify.com/album/5UGRz4ydUaly6KyHea5J8U) | 2:21 | 2021-12-07 | 2022-09-09 |
 | [bird bath](https://open.spotify.com/track/5gQS58bvi4xhWM26hMskkV) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [bird bath](https://open.spotify.com/album/3FZCSBJ8gXOv4mxuLSIUCS) | 1:41 | 2023-11-17 |  |
 | [Birdie Nest](https://open.spotify.com/track/3udESAvwu3koYQ2Exoaqq5) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Birdie Nest](https://open.spotify.com/album/0dMdJZ9VH0eRLxn4o68MmA) | 2:06 | 2023-01-13 | 2023-09-29 |
+| [birdies](https://open.spotify.com/track/4kYC7liqGKYiPtBIkcUcHO) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [birdies](https://open.spotify.com/album/2k6Ommgt2VnJFEMRxhP6mh) | 1:43 | 2024-01-05 |  |
 | [Birdlife](https://open.spotify.com/track/5U8kA1RQpLCfsbeAcFrXys) | [Kotsaku](https://open.spotify.com/artist/28tOzncpNDbM8j0dewexfs) | [clear skies](https://open.spotify.com/album/5z1cpl3Hy1z9XPDkPZ1bBh) | 1:51 | 2021-12-07 |  |
 | [Birds of Paradise](https://open.spotify.com/track/6XzpOu0XRCXLut73JrToxx) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Birds of Paradise](https://open.spotify.com/album/6mcgTMhAfZP8GZMYPZOmrz) | 2:19 | 2023-09-22 |  |
 | [Birdzz](https://open.spotify.com/track/2Gx8lwfbGrY2vXbh6PZ3MB) | [Zoozzy](https://open.spotify.com/artist/6KnbMTPGZkiurTMRHRFYSC) | [Swimm](https://open.spotify.com/album/6DOAMKot1lhBT9uNK6xqwf) | 2:44 | 2021-12-07 | 2022-09-30 |
@@ -53,6 +54,7 @@
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2022-07-29 | 2022-11-26 |
 | [Blossom](https://open.spotify.com/track/2UMbqJcD16ZlbvXqBfh4P6) | [im\-fi](https://open.spotify.com/artist/29BIVIqpWY1W4jLq2H0rLe), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Blossom](https://open.spotify.com/album/2B65Sp9UmI1lbXI6Xah9LE) | 1:16 | 2022-08-05 | 2022-09-23 |
 | [Blossom](https://open.spotify.com/track/2v7HrJYKJQrYGJYvu0cBG7) | [Val Neter](https://open.spotify.com/artist/1oIiTiQaKHPd31g7ALlkRW) | [Blossom](https://open.spotify.com/album/7H8LiOCcViSVBrtXBQiauu) | 2:10 | 2023-06-06 |  |
+| [Blue as Her Eyes](https://open.spotify.com/track/5XxdWW83EggodEdnIqni8X) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Blue as Her Eyes](https://open.spotify.com/album/15BqNYAo53uoahnnopOw7I) | 2:16 | 2024-01-12 |  |
 | [blurred out](https://open.spotify.com/track/5waQSpQkpTftnueMCFQ0C9) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [blurred out](https://open.spotify.com/album/77cPsZNnPm0HkcuyRbwJN9) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2021-12-07 | 2022-12-10 |
 | [Bonsai Sunrise](https://open.spotify.com/track/1qVdSaRhMn93D9kaeRJjA7) | [Yuzostate](https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5) | [Bonsai Sunrise](https://open.spotify.com/album/72JeWlEACI92zQaJutS9vA) | 1:43 | 2023-08-31 | 2023-09-08 |
@@ -147,6 +149,7 @@
 | [Firefall](https://open.spotify.com/track/7nUfhnIsK4DbXSNvFEwQkk) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Firefall](https://open.spotify.com/album/35oDUdivSJxiojGmhdIcPo) | 1:52 | 2021-12-07 | 2022-05-20 |
 | [first 6 hours](https://open.spotify.com/track/7Kws9dCwpYnypN3Uv2Vq19) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [first 6 hours](https://open.spotify.com/album/5iCQSYf8iGVrFxqsqVM0ZG) | 2:31 | 2023-03-08 |  |
 | [Flight 747](https://open.spotify.com/track/1eUz5dNUwjcr6NrO6RxlRM) | [Sikon Avalon](https://open.spotify.com/artist/5YLuxVW2P13TpoUbzwGRx2) | [Flight 747](https://open.spotify.com/album/3Ht7ZdQHo9KnY55GKP0ddh) | 2:24 | 2021-12-07 | 2022-05-27 |
+| [Float](https://open.spotify.com/track/3NtmYToDopQNSUUEXOccEJ) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Float](https://open.spotify.com/album/7Et180mnH7h72mrE53mt6o) | 2:11 | 2024-01-12 |  |
 | [flow](https://open.spotify.com/track/4NpahYQIVFPwbREi4Iq406) | [Phonedown](https://open.spotify.com/artist/6mAZPYwuELJQtdrxvnPg1Q), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV) | [flow](https://open.spotify.com/album/36hqM3wjdl1tD5CUHBaV3D) | 2:18 | 2022-11-25 |  |
 | [Flower trip](https://open.spotify.com/track/3YsmPCSFwhkKrwNn4OOECm) | [Raul Vinicius](https://open.spotify.com/artist/5jXnCghyML9ot78G4qjsVp) | [Flower trip](https://open.spotify.com/album/3aDtEmt2HeqxuV0s1CYxCq) | 1:52 | 2022-09-02 |  |
 | [Flying Over](https://open.spotify.com/track/3zB69ZJmFPI31v1slVYBJO) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Flying Over](https://open.spotify.com/album/0IjgTLnQT99ADLUEre4BN6) | 3:17 | 2023-11-17 |  |
@@ -331,6 +334,7 @@
 | [Overgrown](https://open.spotify.com/track/3jwiD3PrS9xU6XjpLf9Qq7) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Overgrown](https://open.spotify.com/album/2nKtq2OE8jM8xmiAsgw44k) | 3:04 | 2023-03-16 |  |
 | [Pacific Ave](https://open.spotify.com/track/6G0L1J6Vg2kY2HHjdvKJ8E) | [Peaches & Boo](https://open.spotify.com/artist/0jts2tk2AOzVPENYEBK4TT) | [Pacific Ave](https://open.spotify.com/album/0N8NoIShc8iKKuLeaIEeEc) | 1:26 | 2021-12-07 | 2022-05-20 |
 | [Papayas](https://open.spotify.com/track/1bDLcjxSbBR4MCmxlkJpq7) | [Fritz Pants](https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1) | [Papayas](https://open.spotify.com/album/5uxb6yqNQ8O8ZbIBmA0Oat) | 2:29 | 2023-06-06 |  |
+| [papillon de jour](https://open.spotify.com/track/1UetHUSGSYXyIegGaFcnkE) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [papillon de jour](https://open.spotify.com/album/1O1qMnXAfsDVkZ9qoMtVpy) | 1:43 | 2024-01-12 |  |
 | [park stroll](https://open.spotify.com/track/6lDAtiAKi02GGDLGxZb1OO) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [park stroll](https://open.spotify.com/album/3kJAru3uOEp1A0IAdBcgHi) | 2:08 | 2023-12-15 |  |
 | [park stroll](https://open.spotify.com/track/1lm9DJDac6sVS6PyhDMMTv) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [park stroll & pathways](https://open.spotify.com/album/7azzpnzNfYqZQR3bCmuqYn) | 2:50 | 2021-12-07 | 2022-09-03 |
 | [park walk](https://open.spotify.com/track/2tYqNlXXcHJwBFStIOyZye) | [Jokabi](https://open.spotify.com/artist/7F93sQ33frkSEdmSunHEcP) | [park walk](https://open.spotify.com/album/3gCAuvEpg2fYeroRriEk5F) | 2:04 | 2022-08-12 |  |

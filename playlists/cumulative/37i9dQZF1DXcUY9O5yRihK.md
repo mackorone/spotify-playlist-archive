@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcUY9O5yRihK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcUY9O5yRihK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcUY9O5yRihK)
 
-### [blush](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
+### [bossa pop](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-105 songs - 5 hr 20 min
+107 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All That I Need](https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [All That I Need](https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo) | 3:42 | 2023-08-04 |  |
 | [Amber](https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:53 | 2023-01-06 |  |
 | [Anywhere](https://open.spotify.com/track/0U6S4ELEx0YA7JlhELnZaf) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 2:26 | 2023-01-06 |  |
-| [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-03-10 |  |
+| [Baby](https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Baby](https://open.spotify.com/album/1bSMgGLERBaeOJgsgt3ldN) | 3:40 | 2023-03-10 | 2024-01-17 |
 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 | 2023-01-06 | 2023-09-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2023-01-06 | 2023-05-13 |
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 |  |
@@ -34,7 +34,7 @@
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2023-01-06 | 2023-10-24 |
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-10-27 |  |
-| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-03-31 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-03-31 | 2024-01-17 |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 | 2023-09-23 |
 | [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 | 2023-04-30 |
@@ -67,11 +67,13 @@
 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 | 2023-01-06 |  |
 | [Moon River \(From Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4) | [Audrey Hepburn](https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8) | [Moon River \(Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA) | 2:03 | 2023-07-28 | 2023-11-11 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |
+| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-16 |  |
 | [Old With You](https://open.spotify.com/track/2XPLk9RyWawxFmVDQsC0ke) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 3:26 | 2023-08-04 |  |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |
 | [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2023-01-06 |  |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2023-01-06 |  |
 | [Pedestal](https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Pedestal](https://open.spotify.com/album/5KRQkpYEeyfXX4gF9kWV7I) | 3:11 | 2023-10-13 |  |
+| [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 |  |
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2023-01-06 |  |
 | [Preoccupied](https://open.spotify.com/track/0VlcUve93jmMl228sKSPyU) | [Melanie Rosé](https://open.spotify.com/artist/2sP3zSZZxlXmicvYJis340) | [Preoccupied](https://open.spotify.com/album/78WiVQqJzmfEy00tXpMMFt) | 2:08 | 2023-01-06 | 2023-08-05 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Abeer Nehme.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,605 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,662 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 6 | [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 |
 | 7 | [Bas Bhebbak \- بس بحبك](https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Bas Bhebbak \(بس بحبك\)](https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ) | 3:08 |
 | 8 | [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 |
-| 9 | [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 |
+| 9 | [بركان](https://open.spotify.com/track/5ebPGUF0ycevMKFLepmYdU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 3:10 |
 | 10 | [Min Elyoam](https://open.spotify.com/track/7s2MoziQ8ohwoXmt6gL0IV) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Min Elyoam](https://open.spotify.com/album/07IBFHDuoWJAhLLmrW1CZO) | 2:56 |
 | 11 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 |
 | 12 | [Befdiki](https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Befdiki](https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa) | 3:34 |
 | 13 | [Ma Byetkarar](https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ma Byetkarar](https://open.spotify.com/album/3xH3ywXsLQAQUOTk4nt5dJ) | 3:36 |
-| 14 | [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 |
+| 14 | [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 |
 | 15 | [Baadni Bhebak](https://open.spotify.com/track/2LYvBpvjJXaLS3AzHhKCDK) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Baadni Bhebak](https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ) | 2:58 |
 | 16 | [Shou Badi 3ed Bzalat](https://open.spotify.com/track/5hpORBNNofHpUXc3tSdjbr) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Shou Badi 3ed Bzalat](https://open.spotify.com/album/3Pb8hvCdDQo1NoRPJQDOG5) | 2:39 |
 | 17 | [InshAllah Kheir](https://open.spotify.com/track/5rX5G6U6SR8459HXIFuKOS) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [InshAllah Kheir](https://open.spotify.com/album/6AyUgFdjCcaNeTYRlZFPe9) | 2:30 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 40 | [Bel Hob Majnoun](https://open.spotify.com/track/5Doc92ztOc9jo3Y3DFD6vb) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Bel Hob Majnoun](https://open.spotify.com/album/0i9SOPyx6n34D0fwthUQyu) | 2:56 |
 | 41 | [La Tsin El Sef](https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tsin El Sef](https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn) | 3:10 |
 | 42 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 |
-| 43 | [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 |
+| 43 | [بحارب فيها](https://open.spotify.com/track/7CMWymjluZIFObjuvzHYeT) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/5RimBiLxkawPsr59cDnkWT) | 4:05 |
 | 44 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 |
 | 45 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 |
 | 46 | [Bel Ahlam](https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [بالأحلام](https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [Helmi W Helmik](https://open.spotify.com/track/0zy5G68FFZVEGJR6Gh888k) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [حلمي وحلمك](https://open.spotify.com/album/0IilzA29e7JXxDMDTqqsGT) | 4:16 |
 | 50 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 |
 
-Snapshot ID: `MCw3OWZlNDU3MDM1MmFlY2EwOGE2YzNkYzg1MmY4NDhiMDg5ZGY4ZTA1`
+Snapshot ID: `MCwwNzZlNTc3NzBiNGZhODc5ZDBiMWM0NmI0NjUzM2Q1ZDZmYzlkMTBm`

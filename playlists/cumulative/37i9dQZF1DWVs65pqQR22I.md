@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-179 songs - 7 hr 34 min
+181 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,13 @@
 | [Black Noise Brainwaves](https://open.spotify.com/track/26rQZ6fJl7zsWL9A6Dg5tv) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Black Noise Brainwaves](https://open.spotify.com/album/0RxgWTvsPWPONveWKrt7Wy) | 5:13 | 2023-12-05 |  |
 | [Black Noise Calm Your Mind](https://open.spotify.com/track/2xdwQs5ww2BeMmwyiQQwnX) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:29 | 2023-03-10 | 2023-04-22 |
 | [Black Noise Calmness](https://open.spotify.com/track/42n0kVOXzIdDB7X6hs6qLb) | [Noise Library](https://open.spotify.com/artist/1wFEHvHdcbuWVxo6reRywR) | [Soothing Black Noise for Stress Relief](https://open.spotify.com/album/2CsPVS3h8C0uahyXQqzl3W) | 2:16 | 2023-03-10 | 2023-07-06 |
+| [Black Noise Catalyst](https://open.spotify.com/track/4tqi2pEfw5SGlKhRRccjMs) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Black Noise Catalyst](https://open.spotify.com/album/1w6NpqkwpD0RCpZXT42tY7) | 5:24 | 2024-01-10 |  |
 | [Black Noise Detox](https://open.spotify.com/track/6wOzuuFkPC8B6D627hwMh3) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [Black Noise Detox](https://open.spotify.com/album/6zMcdyQNooveNakoyp69V1) | 1:58 | 2023-06-01 | 2023-06-20 |
 | [Black Noise Dreams](https://open.spotify.com/track/1TJf1NqEz3KhyOwXWyWQXb) | [Crafting Audio](https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9) | [Deep Sleep with Black Noise](https://open.spotify.com/album/3AHDCQsMfbtu6Yed2NSoLA) | 2:33 | 2023-03-10 |  |
 | [Black Noise Echoes](https://open.spotify.com/track/7ns9LIhwLORwcqlp1CmkrF) | [aquamcaelo](https://open.spotify.com/artist/3gkO4ZXcG2LyYFRuUn01eN) | [Black Noise Illusion](https://open.spotify.com/album/1KdrVDgj7zg1FQdZhN7ecT) | 2:41 | 2023-03-31 |  |
 | [Black Noise Flow](https://open.spotify.com/track/69giPBrDWEcyuTPVyPBG9m) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Black Noise Flow](https://open.spotify.com/album/4aNzsxsepFfomWsCbpylAO) | 3:02 | 2023-03-31 |  |
 | [Black Noise FLuff](https://open.spotify.com/track/2DYugakipXLiLjIKNIo15K) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Black Noise FLuff](https://open.spotify.com/album/4RJIOa4oQTbjjKQU3u4fbr) | 3:14 | 2023-03-31 |  |
+| [Black Noise Focus](https://open.spotify.com/track/2NH1KZNvtssanbH5LSyd2d) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Black Noise Focus](https://open.spotify.com/album/5sP7LLLaBgw7pzMkWSfroY) | 4:30 | 2024-01-10 |  |
 | [Black Noise for a Good Night's Sleep](https://open.spotify.com/track/0TO0pKnZmxIQr9cuvbtOx0) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [Black Noise Therapy](https://open.spotify.com/album/1x2hCe8u45zaDDTcMMJlH4) | 2:48 | 2023-03-10 | 2023-07-06 |
 | [Black Noise for Inner Peace](https://open.spotify.com/track/1Cz9wBvWLeop8IWZuJTAnO) | [No Shapes Island](https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4) | [Black Noise for Inner Peace](https://open.spotify.com/album/6xGyGZ5YoMEByVmdVge96G) | 1:59 | 2023-03-23 | 2023-06-20 |
 | [Black Noise for Insomnia](https://open.spotify.com/track/6kGOLjPvXXhp9Qo6pOXBPS) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [Black Noise for Insomnia](https://open.spotify.com/album/74foFH0uTQQ7JIiikT5AfD) | 2:59 | 2023-03-10 | 2023-04-01 |

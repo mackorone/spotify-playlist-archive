@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,152 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,645 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 25 | [Sanoe](https://open.spotify.com/track/0nbv45EqHxvI6d56tfz28H) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 4:26 |
 | 26 | [Let's Dance](https://open.spotify.com/track/3kW3DZ6bBb6dVP9avkiBdE) | [Adrian Walther](https://open.spotify.com/artist/1JTRiqIZM2aTYirDud2CoY) | [Seven Short Films About \(Our\) Marriage \[Music from the Motion Picture\]](https://open.spotify.com/album/2cTEsiCdAOlpdnlRE2ow9Q) | 1:52 |
 | 27 | [What a Wonderful World](https://open.spotify.com/track/6x3vwHUuWWeV2BQPYO5zTU) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:15 |
-| 28 | [Pua Līlīlehua](https://open.spotify.com/track/5GkzttQpAANDySsUsbcjnk) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy: Ka Leo O Loko](https://open.spotify.com/album/5UQKxlzDDjcvHx9S003mgF) | 2:57 |
+| 28 | [Pua Līlīlehua](https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy: Ka Leo O Loko](https://open.spotify.com/album/0ZzGZp6cerAABuNHL3qRWO) | 2:57 |
 | 29 | [Granada](https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l) | [Harry Kalahiki](https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6) | [Mungo Plays Ukulele](https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr) | 3:03 |
 | 30 | [Hawai'i Calls](https://open.spotify.com/track/1dwZB896AF0g3ycl4fWYPA) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:15 |
 | 31 | [The Last Desert Island](https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Aloha Hawaii \- Hawaiian Guitar](https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73) | 2:59 |
-| 32 | ['Imi Au Iā ʻOe](https://open.spotify.com/track/1wS8U8fR1jlx9h7CAUAPY9) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Mauna Kea \- White Mountain Journal](https://open.spotify.com/album/1sB7C55SKRkXJLy77kysfI) | 3:10 |
+| 32 | [Imi Au Iā ʻOe](https://open.spotify.com/track/7a4BPA4e06ll25tCfIN98e) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Mauna Kea \- White Mountain Journal](https://open.spotify.com/album/1FZ1DQgZQjGMG7t9IUaCnG) | 3:10 |
 | 33 | [Autumn Leaves](https://open.spotify.com/track/5IJFdFOVcBHYKe22GU52Ew) | [The Instrumentals](https://open.spotify.com/artist/3gd1L1WbjlI2vgC1FkJILM) | [Beach Vibes](https://open.spotify.com/album/0HKNaOlXaEp4NrSd9uU5S8) | 2:17 |
 | 34 | [Lyle Smiles](https://open.spotify.com/track/2IpvgYH32zrMwWeZgz7KxD) | [Jim Beloff](https://open.spotify.com/artist/3hbjLUSWxZHFrFoR2mcqU5), [Hal Blaine](https://open.spotify.com/artist/5W6Vbf1DmTUOpvsXq4lQFJ) | [Legends of the Ukulele \- Hawaiian Masters](https://open.spotify.com/album/4G5bv284EMfqp3RE98OD1b) | 2:53 |
 | 35 | [Rainbow](https://open.spotify.com/track/6nme9J097udbUDmHp7sDAl) | [Farah Sumners](https://open.spotify.com/artist/3fn8yofOvpgD2AKNTkbcuz) | [Rainbow](https://open.spotify.com/album/0xk2K2WET3c855QLiDQ8fC) | 3:27 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 45 | [He Aloha Mele](https://open.spotify.com/track/5RWTQHrhubFDDDbpSiMmWJ) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:58 |
 | 46 | [I Can't Help Falling in love With You](https://open.spotify.com/track/77jMuW14AXkXo8W70yOpi5) | [Jason Block](https://open.spotify.com/artist/7FajeDhGVkJPETdVpLRTNT) | [I Can't Help Falling in love With You](https://open.spotify.com/album/5KlN1qor27NtU13C2mLrTb) | 2:12 |
 | 47 | [Sweet Leilani](https://open.spotify.com/track/6KipZAjvYE3SmI4HLZcYWD) | [Baduria, Don](https://open.spotify.com/artist/3WWy94RglmoCo77fGZWA1Y) | [Ukulele Magic](https://open.spotify.com/album/1jjUASOpJXdr7L7N7iFjyy) | 2:53 |
-| 48 | [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 |
+| 48 | [Kalena Kai \(feat\. George Winston\)](https://open.spotify.com/track/07iYujb1T4DLuv7Qi1EoNs) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [Wooden Boat](https://open.spotify.com/album/5gnxIrVFaTYMUYdM1BdrRx) | 4:22 |
 | 49 | [Kaulana Kawaihae](https://open.spotify.com/track/0MgHhWRVG3tRYuCKT84eFZ) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:53 |
 | 50 | [Hey, Soul Sister](https://open.spotify.com/track/3lM3rRciN1o0s0C7lWWc0V) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:36 |
 | 51 | [E Ku’u Morning Dew](https://open.spotify.com/track/5jnvdBYa3t2TDFEZYboelj) | [Benny Chong](https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:39 |

@@ -1,54 +1,975 @@
 {
-  "2023-11-11": 16734,
-  "2023-11-12": 16734,
-  "2023-11-13": 16734,
-  "2023-11-14": 16734,
-  "2023-11-15": 16734,
-  "2023-11-16": 16734,
-  "2023-11-17": 16883,
-  "2023-11-18": 16883,
-  "2023-11-19": 16883,
-  "2023-11-20": 16883,
-  "2023-11-21": 16883,
-  "2023-11-22": 16883,
-  "2023-11-23": 16883,
-  "2023-11-24": 16883,
-  "2023-11-25": 16883,
-  "2023-11-26": 16883,
-  "2023-11-27": 16883,
-  "2023-11-28": 16883,
-  "2023-11-29": 16883,
-  "2023-11-30": 16883,
-  "2023-12-01": 16883,
-  "2023-12-02": 16883,
-  "2023-12-03": 16883,
-  "2023-12-04": 16883,
-  "2023-12-05": 16883,
-  "2023-12-06": 16883,
-  "2023-12-07": 16883,
-  "2023-12-08": 16883,
-  "2023-12-09": 16883,
-  "2023-12-10": 16883,
-  "2023-12-11": 16883,
-  "2023-12-12": 16883,
-  "2023-12-13": 16883,
-  "2023-12-14": 17651,
-  "2023-12-15": 17691,
-  "2023-12-16": 17718,
-  "2023-12-17": 17764,
-  "2023-12-18": 17810,
-  "2023-12-19": 17851,
-  "2023-12-20": 17887,
-  "2023-12-21": 17927,
-  "2023-12-22": 17957,
-  "2023-12-23": 17982,
-  "2023-12-24": 18005,
-  "2023-12-25": 18035,
-  "2023-12-26": 18051,
-  "2023-12-27": 18083,
-  "2023-12-30": 18211,
-  "2023-12-31": 18241,
-  "2024-01-01": 18265,
-  "2024-01-02": 18307,
-  "2024-01-03": 18360
+  "2024-01-17": 18884,
+  "date_first_scraped": "2023-11-11",
+  "description": "\uc544 \ub098\ub3c4 \ubaa8\ub974\uaca0\ub2e4~ idk idk idkkk~",
+  "name": "\uc544 \ubab0\ub791.",
+  "tracks": [
+    {
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186178,
+      "name": "(Because we) Fall in Love",
+      "url": "https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn"
+    },
+    {
+      "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh"
+    },
+    {
+      "album": {
+        "name": "Backstage Story(Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u"
+      },
+      "artists": [
+        {
+          "name": "\uc624\uc0c1\uc544",
+          "url": "https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "Backstage Story",
+      "url": "https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa"
+    },
+    {
+      "album": {
+        "name": "BDBD",
+        "url": "https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6"
+      },
+      "artists": [
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158235,
+      "name": "BDBD",
+      "url": "https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD"
+    },
+    {
+      "album": {
+        "name": "It's Okay, Dear",
+        "url": "https://open.spotify.com/album/5JKIbI8IWlQ5fXddhnT0xE"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200150,
+      "name": "Beap Sea",
+      "url": "https://open.spotify.com/track/5j3LJr4O7RkhBmxCsjwpXZ"
+    },
+    {
+      "album": {
+        "name": "Because of Drinking",
+        "url": "https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB"
+      },
+      "artists": [
+        {
+          "name": "CODA BRIDGE",
+          "url": "https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194073,
+      "name": "Because of Drinking",
+      "url": "https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry and Congratulations",
+        "url": "https://open.spotify.com/album/4vw92ZDmek6fC9ngrfnLfD"
+      },
+      "artists": [
+        {
+          "name": "Puer Kim",
+          "url": "https://open.spotify.com/artist/3zeIa8DBS4RLjSb5oXwcUP"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151008,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/6MEUjaZJqKQpjTnmMi2wh1"
+    },
+    {
+      "album": {
+        "name": "PSY SIX RULES, Pt. 1",
+        "url": "https://open.spotify.com/album/0Nq7k5hqml23K1VlrEnLNR"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207877,
+      "name": "Blue Frog (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/05mUYNwDJBeUdWv94njtDN"
+    },
+    {
+      "album": {
+        "name": "BLUE GIANT",
+        "url": "https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3"
+      },
+      "artists": [
+        {
+          "name": "CHASEDAE",
+          "url": "https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304295,
+      "name": "BLUE GIANT",
+      "url": "https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0"
+    },
+    {
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191994,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
+    },
+    {
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/6mAKz4Er700vwjc5EKU3zf"
+      },
+      "artists": [
+        {
+          "name": "Yeonwoo",
+          "url": "https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215769,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/3bkSpl9J6jPIkJF79204cd"
+    },
+    {
+      "album": {
+        "name": "BURN-OUT",
+        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
+      },
+      "artists": [
+        {
+          "name": "FRIDA-ANNE",
+          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156984,
+      "name": "BURN-OUT",
+      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
+    },
+    {
+      "album": {
+        "name": "Cat, work for me",
+        "url": "https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH"
+      },
+      "artists": [
+        {
+          "name": "Homemade recording",
+          "url": "https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "Cat, work for me",
+      "url": "https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 8 Episode 3",
+        "url": "https://open.spotify.com/album/7DtSNR96NQXIumEOWMnPM7"
+      },
+      "artists": [
+        {
+          "name": "Lil tachi",
+          "url": "https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191765,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/7abn4PohR1BrcqjYgPQxkg"
+    },
+    {
+      "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "album": {
+        "name": "Do / Do or Don't",
+        "url": "https://open.spotify.com/album/3se0GBdgs53DJXR7CJb9l6"
+      },
+      "artists": [
+        {
+          "name": "Chang Kiha",
+          "url": "https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221511,
+      "name": "Do",
+      "url": "https://open.spotify.com/track/6tStqbjbMdMRzRWWNvlnqI"
+    },
+    {
+      "album": {
+        "name": "Don't do anything",
+        "url": "https://open.spotify.com/album/1jQH4eSSrMN7bQgBpY0xIv"
+      },
+      "artists": [
+        {
+          "name": "saram tto saram",
+          "url": "https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156300,
+      "name": "Don't do anything",
+      "url": "https://open.spotify.com/track/0AVuw4TYNnfVlu7ajvOSrN"
+    },
+    {
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+    },
+    {
+      "album": {
+        "name": "THE SOLOEST",
+        "url": "https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179925,
+      "name": "Fake Flower (feat. Nucksal)",
+      "url": "https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx"
+    },
+    {
+      "album": {
+        "name": "So!YoON!",
+        "url": "https://open.spotify.com/album/07hwLp0d8O69sKwdKqOSdM"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232624,
+      "name": "Forever Dumb (feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/3V9eMQIX6COtvoRUXLoZe9"
+    },
+    {
+      "album": {
+        "name": "Friday to Monday",
+        "url": "https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G"
+      },
+      "artists": [
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182103,
+      "name": "Friday to Monday",
+      "url": "https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238697,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS"
+    },
+    {
+      "album": {
+        "name": "Honbob Song",
+        "url": "https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ"
+      },
+      "artists": [
+        {
+          "name": "JeongEun Seo",
+          "url": "https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170587,
+      "name": "Honbob Song",
+      "url": "https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw"
+    },
+    {
+      "album": {
+        "name": "PSY 8th 4X2=8",
+        "url": "https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "I LUV IT",
+      "url": "https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb"
+    },
+    {
+      "album": {
+        "name": "life like a machine, day like a shrimp, and daily life like a bus.",
+        "url": "https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5"
+      },
+      "artists": [
+        {
+          "name": "Deng.E",
+          "url": "https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260170,
+      "name": "i'm a machine",
+      "url": "https://open.spotify.com/track/2aK5mnbEy79vILutso18YA"
+    },
+    {
+      "album": {
+        "name": "It Doesn't Matter",
+        "url": "https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "It Doesn't Matter",
+      "url": "https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208746,
+      "name": "Like I\u2032m saying",
+      "url": "https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0"
+    },
+    {
+      "album": {
+        "name": "PSY 7TH ALBUM",
+        "url": "https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223215,
+      "name": "NAPAL BAJI",
+      "url": "https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7"
+    },
+    {
+      "album": {
+        "name": "NOTHIN'",
+        "url": "https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1"
+      },
+      "artists": [
+        {
+          "name": "SuperSu",
+          "url": "https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140313,
+      "name": "NOTHIN\u2032",
+      "url": "https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0"
+    },
+    {
+      "album": {
+        "name": "OMG, It's pointless",
+        "url": "https://open.spotify.com/album/4Zi4DXDNL4LydfWS5vxPeN"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "OMG, It's pointless",
+      "url": "https://open.spotify.com/track/0PROctJxUWzqpBfuECVkvH"
+    },
+    {
+      "album": {
+        "name": "ONE DAY (Feat. Chan)",
+        "url": "https://open.spotify.com/album/5wxGKKvTwGBgL87IJa00PR"
+      },
+      "artists": [
+        {
+          "name": "1DAY",
+          "url": "https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l"
+        },
+        {
+          "name": "Chan (\ucc2c)",
+          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199637,
+      "name": "ONE DAY (Feat. Chan)",
+      "url": "https://open.spotify.com/track/3SHnqFpmmpUewHcxiM8is8"
+    },
+    {
+      "album": {
+        "name": "Ordinary Loneliness",
+        "url": "https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Ordinary Loneliness",
+      "url": "https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G"
+    },
+    {
+      "album": {
+        "name": "Hi, I am Deulre Jang",
+        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205756,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 8 Episode 4",
+        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228607,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
+    },
+    {
+      "album": {
+        "name": "Rainy n Bed",
+        "url": "https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr"
+      },
+      "artists": [
+        {
+          "name": "sumgoyange",
+          "url": "https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Rainy n Bed",
+      "url": "https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1"
+    },
+    {
+      "album": {
+        "name": "Refresh",
+        "url": "https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216496,
+      "name": "Refresh",
+      "url": "https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj"
+    },
+    {
+      "album": {
+        "name": "life like a machine, day like a shrimp, and daily life like a bus.",
+        "url": "https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5"
+      },
+      "artists": [
+        {
+          "name": "Deng.E",
+          "url": "https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Shrimp with Mental Illness",
+      "url": "https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo"
+    },
+    {
+      "album": {
+        "name": "SK8 KID (feat. JJANGYOU)",
+        "url": "https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf"
+      },
+      "artists": [
+        {
+          "name": "404",
+          "url": "https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH"
+        },
+        {
+          "name": "JJANGYOU",
+          "url": "https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "SK8 KID (feat. JJANGYOU)",
+      "url": "https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX"
+    },
+    {
+      "album": {
+        "name": "Something Casual",
+        "url": "https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Something Casual",
+      "url": "https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh"
+    },
+    {
+      "album": {
+        "name": "T T (Feat. Quokka of DNEIRF)",
+        "url": "https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        },
+        {
+          "name": "\ucffc\uce74",
+          "url": "https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205597,
+      "name": "T T (Feat. Quokka of DNEIRF)",
+      "url": "https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/6cmHhqsTvRJfWzCmowRGuY"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170680,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/0yvYev6X53DfOZ5zWfLTDN"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 170680,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9"
+    },
+    {
+      "album": {
+        "name": "mindset",
+        "url": "https://open.spotify.com/album/2OlnR72oOhgAvPmZRj8BAW"
+      },
+      "artists": [
+        {
+          "name": "gyomunapchick",
+          "url": "https://open.spotify.com/artist/4vqiBnhsibr88FzJEGhlEg"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192981,
+      "name": "things happen",
+      "url": "https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "album": {
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH"
+      },
+      "artists": [
+        {
+          "name": "Plum",
+          "url": "https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq"
+    },
+    {
+      "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
+    },
+    {
+      "album": {
+        "name": "YOLO!!",
+        "url": "https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj"
+      },
+      "artists": [
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "YOLO!!",
+      "url": "https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw"
+    },
+    {
+      "album": {
+        "name": "\uc11c\uad50\ub3d9\uc758 \ubc24 Night in Seogyo",
+        "url": "https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6"
+      },
+      "artists": [
+        {
+          "name": "Cosmos Hippie",
+          "url": "https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "\uc11c\uad50\ub3d9\uc758 \ubc24 Night in Seogyo",
+      "url": "https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG"
+    },
+    {
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178463,
+      "name": "\uc601\uc6c5\uc774 \uc544\ub2c8\uc5d0\uc694 I'm not a hero",
+      "url": "https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv"
+    },
+    {
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212017,
+      "name": "\ud30c\ub9ac\ub098 \uac1c\ubbf8\ub098 \uc6b0\ub9ac\ub098 Go with the flow",
+      "url": "https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1kZnloaHv1"
 }

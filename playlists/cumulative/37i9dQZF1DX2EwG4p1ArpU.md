@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-68 songs - 5 hr 33 min
+69 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Okinimesumama](https://open.spotify.com/track/4ly9rdCe3PvcYZdAN72T3b) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 4:06 | 2022-11-30 |  |
 | [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 | 2023-03-22 |  |
 | [Outsider](https://open.spotify.com/track/316BhPQ7kG9yPqZeLPTanl) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:27 | 2022-11-30 |  |
+| [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 | 2024-01-14 |  |
 | [Rabbit gray](https://open.spotify.com/track/5FS79PQGFG4MGqsi0UIA5J) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:41 | 2022-11-30 |  |
 | [Shinkai](https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:26 | 2022-11-30 |  |
 | [Shirayuki](https://open.spotify.com/track/1fcbAM10NJDMxShne4Vqjq) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Shirayuki](https://open.spotify.com/album/4CX8RRpkt9EXsC5yUptLHZ) | 3:41 | 2022-11-30 |  |

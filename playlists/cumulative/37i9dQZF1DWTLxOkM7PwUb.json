@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/6TSmHx93BHYt4L7Idl6CMt"
+      },
+      "artists": [
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172429,
+      "name": "7 Mares",
+      "url": "https://open.spotify.com/track/3easejp1MqvARrN95kQrZI"
+    },
+    {
+      "album": {
         "name": "A fuego (Bizarrap Remix)",
         "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
@@ -602,7 +620,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-13",
       "duration_ms": 222080,
       "name": "Calle 2 - Remix",
       "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-09",
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 118746,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"

@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-118 songs - 11 hr 11 min
+121 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,13 @@
 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 | 2021-12-01 |  |
 | [Aankho Mein Raha](https://open.spotify.com/track/1wGxfpGFpx2vCajaRilihV) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 7:54 | 2023-02-27 |  |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 | 2023-05-16 |
-| [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 |  |
+| [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 | 2024-01-05 |
+| [Ab Ke Jo Baat Hui](https://open.spotify.com/track/4AzCXSgvjUiEbkr7mBvpNO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0AzQXg1jQISWHBnF4SHg3d) | 7:08 | 2023-12-12 |  |
 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 |  |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 | 2023-01-28 |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 |  |
-| [Ajnabee](https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/4UGDdDJ84KQ0V7zzEPoaay) | 5:26 | 2023-06-19 |  |
+| [Ajnabee](https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/4UGDdDJ84KQ0V7zzEPoaay) | 5:26 | 2023-06-19 | 2024-01-05 |
+| [Ajnabee](https://open.spotify.com/track/7EWviiiEH3oeS3D8gUKBnE) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/7fXLbnKX7f1K2cFwmsekWT) | 5:26 | 2023-12-12 |  |
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 | 2023-07-20 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6E2BUkw4XCghytulGBrbNI) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:33 | 2023-09-14 |  |
 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 | 2021-12-01 | 2023-06-06 |
@@ -118,7 +120,8 @@
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
-| [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 |  |
+| [Woh Dehleez](https://open.spotify.com/track/7417MJt7NRvYGAcltQ5fyr) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/65E83zzOXqaokPZl6yO1pN) | 5:28 | 2023-12-12 |  |
+| [Woh Dehleez](https://open.spotify.com/track/7ywmyRfxqVjuVVRFL9JdyZ) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Woh Dehleez](https://open.spotify.com/album/380FWdzxBJTUcBwiGAAJch) | 5:28 | 2023-06-09 | 2024-01-04 |
 | [Woh Kaghaz Ki Kashti](https://open.spotify.com/track/6qtSFL6qFbw7EmaRIsS0IR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [The Latest](https://open.spotify.com/album/07RBhfRhDPQO2ULIe68RYn) | 6:28 | 2023-05-15 |  |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/0Uj2q3Z8g1OiMwc98Rjlhw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/6W4RhKBsth6Y371hcOd61j) | 6:18 | 2022-07-26 | 2023-12-14 |
 | [Woh Nahi Mera Magar \(Male\)](https://open.spotify.com/track/5D89anW7HUv01m8jLHQZ7s) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghulam Ali Fantastic 5](https://open.spotify.com/album/2R5vh8gBTTZw1PhXFBgtZp) | 6:18 | 2023-12-12 |  |

@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-179 songs - 9 hr 22 min
+182 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Closer](https://open.spotify.com/track/5mCGTPQcA0XK2ApGmIaXx2) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [9loo](https://open.spotify.com/artist/3WEhFPBwX2zRE2EL2QrqtE), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Closer](https://open.spotify.com/album/3xuJsr75n7P5nlmxOwnMVs) | 3:31 | 2021-10-29 | 2022-09-23 |
 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 | 2023-02-10 |  |
 | [Corporate](https://open.spotify.com/track/6EOG5p1ZdmfEgXxO18pJt2) | [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF), [Selo](https://open.spotify.com/artist/3YIXXBpayG6wLurirvtKbF) | [Nairobi Lost Tapes, Vol\. 1](https://open.spotify.com/album/5JXpQ1A62RHcXH9l963xtq) | 2:38 | 2021-10-15 | 2022-01-28 |
-| [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Original Tkay](https://open.spotify.com/artist/4tDcoeTePAFYlj1H7BhIC1) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 | 2023-06-09 |  |
+| [Crying](https://open.spotify.com/track/162t0gr1BgkLiLugHJTZpF) | [Tkay](https://open.spotify.com/artist/6fyyG0bifPLZIjIEKjidhs) | [Crying](https://open.spotify.com/album/23hBJSDu9n6PYuMBd0LIVl) | 2:58 | 2023-06-09 |  |
 | [Curtains](https://open.spotify.com/track/25XVan47oOYRQU04LiTfE0) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Curtains](https://open.spotify.com/album/0CKUdB8tlCZaoxAVrCYKTI) | 1:50 | 2022-06-17 | 2022-09-23 |
 | [Divine Intervention](https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/6wlhvzUV68XeLk6fMirGqQ) | 2:58 | 2023-10-20 |  |
 | [Dogtail](https://open.spotify.com/track/1ziLbRPnlPKu9QeUyl36fx) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:36 | 2021-10-15 | 2022-07-09 |
@@ -68,6 +68,7 @@
 | [I Love the Way You](https://open.spotify.com/track/3U2Viddax0wa66Tk1ZG8t3) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/5fOaWBfgih3Exwl47hwsZ5) | 2:13 | 2022-02-04 | 2022-10-20 |
 | [I Love the Way You](https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv) | [I Love the Way You](https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72) | 2:13 | 2022-02-04 | 2023-06-10 |
 | [iBururu](https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX) | [Sema Sole](https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ) | [Bururu](https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX) | 2:54 | 2021-10-15 | 2022-01-28 |
+| [Iceembe](https://open.spotify.com/track/6J5c3fZBYE3FoioezQ1LMA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf), [Delpha](https://open.spotify.com/artist/2SlxG2mBwhlntuDgudUVLl) | [Kinya Nginye](https://open.spotify.com/album/7By5iULjJbetlbGjMmliFq) | 2:39 | 2024-01-12 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-02-23 | 2023-09-02 |
 | [Jaafari's 19th](https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Jaafari's 19th](https://open.spotify.com/album/0ai61scImkAr7m5BXocapW) | 3:33 | 2022-01-27 | 2022-11-20 |
 | [Jaafari's 19th](https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:33 | 2022-01-27 |  |
@@ -89,6 +90,7 @@
 | [Let Go](https://open.spotify.com/track/0jBp9lAEE0MAV0zeVAVSy3) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Let Go](https://open.spotify.com/album/5VbCkQq7yazjOE1GoNBMLv) | 2:57 | 2023-04-06 |  |
 | [Let Me Lose My Mind In Peace](https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [The Journey Continues...](https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl) | 3:02 | 2022-11-10 |  |
 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 | 2022-03-03 |  |
+| [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 |  |
 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 | 2022-10-27 |  |
 | [Lollipop](https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki) | 3:26 | 2022-02-24 | 2023-09-13 |
 | [Lollipop](https://open.spotify.com/track/5Hh5KET3Dm5fXck2bfGXsT) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/2LIfepdFpCjRtKIOZJTmMX) | 3:26 | 2023-09-01 |  |
@@ -106,6 +108,7 @@
 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 | 2022-08-05 |  |
 | [Move \- Acoustic](https://open.spotify.com/track/39Y8tJOuclCLZaCDD8M4kk) | [Shwento](https://open.spotify.com/artist/1kujXfGrKwSU4xOaUtZBdZ) | [Shwento 2020](https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik) | 2:47 | 2021-10-15 | 2022-01-28 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 |  |
+| [My All](https://open.spotify.com/track/3udH6537pUGU9htZaPRv95) | [Vaniah King](https://open.spotify.com/artist/0P0GPZ8lXMiPvD6NazYgsk) | [My All](https://open.spotify.com/album/7udEwxCPrP8L3slP4oclpD) | 4:00 | 2024-01-12 |  |
 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 | 2023-03-24 |  |
 | [My Heart Is Yours](https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:05 | 2021-10-15 | 2022-02-05 |
 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 | 2022-05-05 |  |

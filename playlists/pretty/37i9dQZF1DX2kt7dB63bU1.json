@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 135306,
+  "num_followers": 135799,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDg1ZWZiY2FkM2ExODFhMWMwMmIxM2Q0MzBlMjU2ZjBjNzA1Nzkx",
+  "snapshot_id": "MCw5MTFmYzdiZjUyZjFkZWYxNjk2ZDYyNGRlZGRjMTc4OTBkMjg4ZjBm",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "You're the Top",
+        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 248087,
+      "name": "You're the Top",
+      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -39,6 +59,22 @@
       "duration_ms": 115679,
       "name": "Tight",
       "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Moonlight Saving Time",
+        "url": "https://open.spotify.com/album/7iaBrbkEsbv9OKNCzgxvai"
+      },
+      "artists": [
+        {
+          "name": "Kelly Green",
+          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
+        }
+      ],
+      "duration_ms": 228177,
+      "name": "Moonlight Saving Time",
+      "url": "https://open.spotify.com/track/0PTJWngEh1q5CXeNUduXjU"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -93,6 +129,22 @@
       "url": "https://open.spotify.com/track/5KyhsJIdx0okcY0OjfrfvL"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Seconds and Circles",
+        "url": "https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        }
+      ],
+      "duration_ms": 223624,
+      "name": "Seconds and Circles",
+      "url": "https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s"
+    },
+    {
       "added_at": "2023-09-22 04:01:00",
       "album": {
         "name": "Give Me A Reason",
@@ -123,6 +175,22 @@
       "duration_ms": 305581,
       "name": "Summer Me, Winter Me",
       "url": "https://open.spotify.com/track/4Kx1kfAPsEM6Mw2cow70ez"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "I've Seen That Face Before (Libertango)",
+        "url": "https://open.spotify.com/album/3oGgc8Wx9GDWbfikSmSndi"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "duration_ms": 298680,
+      "name": "I've Seen That Face Before (Libertango)",
+      "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -405,6 +473,26 @@
       "url": "https://open.spotify.com/track/3Pc4kc5VGyzopInhgthkpR"
     },
     {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "September in the Rain",
+        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 248862,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+    },
+    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "The Big Time (Studio Cast Recording)",
@@ -435,26 +523,6 @@
       "duration_ms": 181298,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/5npntgfKIAlEyAdIJCKrHX"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "September in the Rain",
-        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 248862,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1097,26 +1165,6 @@
       "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
       "added_at": "2023-06-02 04:01:00",
       "album": {
         "name": "Impressions of Ella",
@@ -1375,26 +1423,6 @@
       "duration_ms": 280062,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/2JUXoMH3QEp0e1Uk45oxqX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Pennies from Heaven",
-        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
-      },
-      "artists": [
-        {
-          "name": "Laila Biali",
-          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 330240,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1721,26 +1749,6 @@
       "url": "https://open.spotify.com/track/4SWiB0euITeK3LQg4DTgQM"
     },
     {
-      "added_at": "2022-10-14 19:18:38",
-      "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE"
-      },
-      "artists": [
-        {
-          "name": "Philip Labes",
-          "url": "https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Another Round",
-      "url": "https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "Genuine",
@@ -1795,34 +1803,6 @@
       "duration_ms": 177157,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
-    },
-    {
-      "added_at": "2023-05-08 13:12:08",
-      "album": {
-        "name": "Brighter Sun",
-        "url": "https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Robertson",
-          "url": "https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po"
-        },
-        {
-          "name": "Danny Fischer",
-          "url": "https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni"
-        }
-      ],
-      "duration_ms": 246677,
-      "name": "Brighter Sun",
-      "url": "https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ"
     },
     {
       "added_at": "2023-04-21 04:01:00",

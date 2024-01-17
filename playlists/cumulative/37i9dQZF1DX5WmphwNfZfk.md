@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch in the new year, handpicked by our curators\. Cover: DEBBY FRIDAY
 
-1,463 songs - 3 day 3 hr 1 min
+1,464 songs - 3 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [18](https://open.spotify.com/track/1S2Las2wOFICFuvIdskoY5) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [18](https://open.spotify.com/album/6dt6PxFPlzfytvTJqYGXUv) | 2:46 | 2023-05-05 | 2023-06-03 |
 | [22](https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Jermaine Elliott](https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv) | [22](https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0) | 3:41 | 2022-09-02 | 2022-10-08 |
 | [27](https://open.spotify.com/track/1Upx7P7nVjhgtgL2XmFriR) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [27](https://open.spotify.com/album/37adsQh553U4eTtGYIHzDf) | 2:58 | 2022-07-01 | 2022-08-06 |
-| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-29 |  |
+| [27](https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/3s651dETa8DIP9k1RNPfPP) | 3:18 | 2023-11-29 | 2024-01-14 |
+| [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 | 2023-11-29 |  |
 | [28 BARS](https://open.spotify.com/track/1lCz8ybnOw12NH0ZmVXxVH) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [28 BARS](https://open.spotify.com/album/7F1N7nrbUAHUAcaP268cPI) | 1:34 | 2023-09-01 |  |
 | [28 Grams](https://open.spotify.com/track/64RKOo4ie7cGH4EpKgeru5) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [28 Grams](https://open.spotify.com/album/0jOv9WD2mxRvFVt5X9f33T) | 3:04 | 2023-04-07 | 2023-05-06 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-06 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:74V3dE1a51skRkdII8y2C6">André 3000</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,451 likes - 40 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,030 likes - 40 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

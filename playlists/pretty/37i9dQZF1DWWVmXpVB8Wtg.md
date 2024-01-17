@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,026 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,034 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVmXpVB8Wtg.md) - [plain]
 | 41 | [Highland Melody](https://open.spotify.com/track/0KIMqbKvC0oAul3nEgrJUx) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Highland Melody](https://open.spotify.com/album/0gsuc7oBO94siaPxcLgX7U) | 4:20 |
 | 42 | [Wild Card \- Original Mix](https://open.spotify.com/track/4SGS2NVJMBxHaQKxdENjaC) | [WAGS](https://open.spotify.com/artist/5vbuZ8h6kjV38LGh8uQJ1i) | [Wild Card](https://open.spotify.com/album/1BnTIze8TO8ZT9J7tulrbf) | 3:43 |
 | 43 | [Voices In My Head \- DJ Mii Remix](https://open.spotify.com/track/4bk0S0gMfbC2Qu5nJdGf4r) | [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [Chad Kowal](https://open.spotify.com/artist/3iWVcAb4L9XtNmAmHkcJUa), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [Voices In My Head \(DJ Mii Remix\)](https://open.spotify.com/album/7CZGyjxa4sxZLMF1UMngVf) | 2:48 |
-| 44 | [Belongs to You](https://open.spotify.com/track/4LyxoSitap4FxNOHYFqzfL) | [DJ ELLIA](https://open.spotify.com/artist/2DNF9ruMIYBLiMC9VhcGim) | [Belongs to You](https://open.spotify.com/album/7BjMnzmYmtdkcufDv08NOq) | 3:31 |
+| 44 | [Belongs to You](https://open.spotify.com/track/4LyxoSitap4FxNOHYFqzfL) | [ELLIA](https://open.spotify.com/artist/2DNF9ruMIYBLiMC9VhcGim) | [Belongs to You](https://open.spotify.com/album/7BjMnzmYmtdkcufDv08NOq) | 3:31 |
 | 45 | [Taste You on My Lip](https://open.spotify.com/track/6wnbmHzVh5B1g2MfE5XCYo) | [Moota](https://open.spotify.com/artist/3g6PTm1Lkdy6y3BqZrrgDE) | [Plur, Love Edition 2021](https://open.spotify.com/album/3xbSYjttRvg97NNDLK21Sb) | 3:50 |
 | 46 | [Liberation \- Shigeru Tanabu Remix](https://open.spotify.com/track/4Og2JTTYcDKV34FS7mj9n8) | [Osamu M](https://open.spotify.com/artist/6ERKdL9fnhgo7urWSNyC3i), [Satoshi Fumi](https://open.spotify.com/artist/38WQYltQVhjRe966Qen0UO), [Shigeru Tanabu](https://open.spotify.com/artist/0nN0tQcZ82WRjLTyqrQid0) | [Liberation](https://open.spotify.com/album/5TJJF2etjUulvG3bwqzl6D) | 7:29 |
 | 47 | [Be Strong](https://open.spotify.com/track/3HYlMMRwGfDtbJBTA5XJ5c) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Be Strong / Feel So Alive](https://open.spotify.com/album/56MfOl25QadLcpTnGND4p0) | 3:20 |

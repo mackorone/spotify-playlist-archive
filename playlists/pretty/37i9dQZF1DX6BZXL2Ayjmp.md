@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BZXL2Ayjmp.md) - [plain]
 
 > Kaitlyn Aurelia Smith's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 21 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 21 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

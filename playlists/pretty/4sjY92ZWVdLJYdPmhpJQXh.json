@@ -6,7 +6,7 @@
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NjA1MCw5MmQwN2UwYWFlYTAwMTI5ZjAyNzA5YjUyYzRhZjVlZjQ0MDg0OTdl",
+  "snapshot_id": "NjA1NSxkN2IxZWUzMjY0MmFhNTFmMjJkMTM4ZWM2NGJlMTllNjEwODZkMjhk",
   "tracks": [
     {
       "added_at": "2023-11-13 20:25:50",
@@ -23,6 +23,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-01-03 16:22:27",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 284770,
+      "name": "TUNNEL VISION",
+      "url": "https://open.spotify.com/track/183WuVX0zsr0dHydHkKtGQ"
     },
     {
       "added_at": "2023-09-11 19:06:44",
@@ -107,6 +123,26 @@
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "added_at": "2024-01-03 16:23:17",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2023-09-11 19:07:25",

@@ -1,579 +1,1295 @@
 {
-  "2022-05-31": 343058,
-  "2022-06-01": 343390,
-  "2022-06-02": 343408,
-  "2022-06-03": 343589,
-  "2022-06-04": 343774,
-  "2022-06-05": 343922,
-  "2022-06-06": 344077,
-  "2022-06-07": 344262,
-  "2022-06-08": 344518,
-  "2022-06-09": 344702,
-  "2022-06-10": 344918,
-  "2022-06-11": 345110,
-  "2022-06-12": 345292,
-  "2022-06-13": 345452,
-  "2022-06-14": 345656,
-  "2022-06-15": 345839,
-  "2022-06-16": 346063,
-  "2022-06-17": 346228,
-  "2022-06-18": 346439,
-  "2022-06-19": 346760,
-  "2022-06-20": 346760,
-  "2022-06-21": 346953,
-  "2022-06-22": 347293,
-  "2022-06-23": 347293,
-  "2022-06-24": 347467,
-  "2022-06-25": 347626,
-  "2022-06-26": 347747,
-  "2022-06-27": 347902,
-  "2022-06-28": 348034,
-  "2022-06-29": 348235,
-  "2022-06-30": 348425,
-  "2022-07-01": 348599,
-  "2022-07-02": 348812,
-  "2022-07-03": 348970,
-  "2022-07-04": 349134,
-  "2022-07-05": 349134,
-  "2022-07-06": 349134,
-  "2022-07-07": 349605,
-  "2022-07-08": 349769,
-  "2022-07-09": 349963,
-  "2022-07-10": 350136,
-  "2022-07-11": 350264,
-  "2022-07-12": 350408,
-  "2022-07-13": 350591,
-  "2022-07-14": 350741,
-  "2022-07-15": 350898,
-  "2022-07-16": 351094,
-  "2022-07-17": 351261,
-  "2022-07-18": 351464,
-  "2022-07-19": 351617,
-  "2022-07-20": 351779,
-  "2022-07-21": 351943,
-  "2022-07-22": 352122,
-  "2022-07-23": 352340,
-  "2022-07-24": 352500,
-  "2022-07-25": 352662,
-  "2022-07-26": 352789,
-  "2022-07-27": 352933,
-  "2022-07-28": 353110,
-  "2022-07-29": 353263,
-  "2022-07-30": 353599,
-  "2022-07-31": 353599,
-  "2022-08-01": 353747,
-  "2022-08-02": 354078,
-  "2022-08-03": 354078,
-  "2022-08-04": 354336,
-  "2022-08-05": 354692,
-  "2022-08-06": 355005,
-  "2022-08-07": 355381,
-  "2022-08-08": 355706,
-  "2022-08-09": 356031,
-  "2022-08-10": 356357,
-  "2022-08-11": 356653,
-  "2022-08-12": 357015,
-  "2022-08-13": 357345,
-  "2022-08-14": 357629,
-  "2022-08-15": 357851,
-  "2022-08-16": 358145,
-  "2022-08-17": 358404,
-  "2022-08-18": 358722,
-  "2022-08-19": 359010,
-  "2022-08-20": 359293,
-  "2022-08-21": 359571,
-  "2022-08-22": 359833,
-  "2022-08-23": 360067,
-  "2022-08-24": 360353,
-  "2022-08-25": 360624,
-  "2022-08-26": 360943,
-  "2022-08-27": 361174,
-  "2022-08-28": 361433,
-  "2022-08-29": 361659,
-  "2022-08-30": 361778,
-  "2022-08-31": 361652,
-  "2022-09-01": 361482,
-  "2022-09-02": 361396,
-  "2022-09-03": 361670,
-  "2022-09-04": 361074,
-  "2022-09-05": 361134,
-  "2022-09-06": 361311,
-  "2022-09-07": 361508,
-  "2022-09-09": 362016,
-  "2022-09-10": 362297,
-  "2022-09-11": 362510,
-  "2022-09-12": 362668,
-  "2022-09-13": 362868,
-  "2022-09-15": 363296,
-  "2022-09-16": 363517,
-  "2022-09-17": 363757,
-  "2022-09-18": 363943,
-  "2022-09-19": 364099,
-  "2022-09-20": 364247,
-  "2022-09-21": 364479,
-  "2022-09-22": 364695,
-  "2022-09-23": 364943,
-  "2022-09-24": 364943,
-  "2022-09-25": 365385,
-  "2022-09-26": 365547,
-  "2022-09-27": 365740,
-  "2022-09-28": 365903,
-  "2022-09-29": 366121,
-  "2022-09-30": 366382,
-  "2022-10-01": 366591,
-  "2022-10-02": 366784,
-  "2022-10-03": 366986,
-  "2022-10-04": 367174,
-  "2022-10-05": 367394,
-  "2022-10-06": 367622,
-  "2022-10-07": 367850,
-  "2022-10-08": 368045,
-  "2022-10-09": 368348,
-  "2022-10-10": 368393,
-  "2022-10-11": 368567,
-  "2022-10-12": 368759,
-  "2022-10-13": 368983,
-  "2022-10-14": 369208,
-  "2022-10-15": 369427,
-  "2022-10-16": 369628,
-  "2022-10-17": 369794,
-  "2022-10-18": 369945,
-  "2022-10-19": 370188,
-  "2022-10-20": 370406,
-  "2022-10-21": 370615,
-  "2022-10-22": 370838,
-  "2022-10-23": 371036,
-  "2022-10-24": 371186,
-  "2022-10-25": 371355,
-  "2022-10-26": 371537,
-  "2022-10-27": 371757,
-  "2022-10-28": 371956,
-  "2022-10-29": 372112,
-  "2022-10-30": 372296,
-  "2022-10-31": 372426,
-  "2022-11-01": 372611,
-  "2022-11-02": 372761,
-  "2022-11-03": 372945,
-  "2022-11-04": 373165,
-  "2022-11-05": 373391,
-  "2022-11-06": 373598,
-  "2022-11-07": 373731,
-  "2022-11-08": 373909,
-  "2022-11-09": 374098,
-  "2022-11-10": 374298,
-  "2022-11-11": 374527,
-  "2022-11-12": 374747,
-  "2022-11-13": 374888,
-  "2022-11-14": 375083,
-  "2022-11-15": 375251,
-  "2022-11-16": 375433,
-  "2022-11-17": 375630,
-  "2022-11-18": 375670,
-  "2022-11-19": 375724,
-  "2022-11-20": 375886,
-  "2022-11-21": 376045,
-  "2022-11-22": 376193,
-  "2022-11-23": 376384,
-  "2022-11-24": 376740,
-  "2022-11-25": 377003,
-  "2022-11-26": 377190,
-  "2022-11-27": 377378,
-  "2022-11-28": 377494,
-  "2022-11-29": 377664,
-  "2022-11-30": 377858,
-  "2022-12-01": 378027,
-  "2022-12-02": 378151,
-  "2022-12-03": 378429,
-  "2022-12-04": 378603,
-  "2022-12-05": 378764,
-  "2022-12-06": 378963,
-  "2022-12-07": 379179,
-  "2022-12-08": 379396,
-  "2022-12-09": 379606,
-  "2022-12-10": 379766,
-  "2022-12-11": 379946,
-  "2022-12-12": 380125,
-  "2022-12-13": 380291,
-  "2022-12-14": 380459,
-  "2022-12-15": 380648,
-  "2022-12-16": 380854,
-  "2022-12-17": 381051,
-  "2022-12-18": 381231,
-  "2022-12-19": 381370,
-  "2022-12-20": 381701,
-  "2022-12-21": 381701,
-  "2022-12-22": 381892,
-  "2022-12-24": 382370,
-  "2022-12-25": 382569,
-  "2022-12-26": 382706,
-  "2022-12-27": 382894,
-  "2022-12-28": 383076,
-  "2022-12-29": 383257,
-  "2022-12-30": 383435,
-  "2022-12-31": 383651,
-  "2023-01-01": 383875,
-  "2023-01-02": 384007,
-  "2023-01-03": 384173,
-  "2023-01-04": 384353,
-  "2023-01-05": 384546,
-  "2023-01-06": 384784,
-  "2023-01-07": 385043,
-  "2023-01-08": 385086,
-  "2023-01-09": 385241,
-  "2023-01-10": 385420,
-  "2023-01-11": 385614,
-  "2023-01-12": 385838,
-  "2023-01-13": 386063,
-  "2023-01-14": 386428,
-  "2023-01-15": 386478,
-  "2023-01-16": 386638,
-  "2023-01-17": 386846,
-  "2023-01-18": 387069,
-  "2023-01-19": 387337,
-  "2023-01-20": 387568,
-  "2023-01-21": 387815,
-  "2023-01-22": 388059,
-  "2023-01-23": 388264,
-  "2023-01-24": 388481,
-  "2023-01-25": 388722,
-  "2023-01-26": 388930,
-  "2023-01-27": 389105,
-  "2023-01-28": 389330,
-  "2023-01-29": 389531,
-  "2023-01-30": 389730,
-  "2023-01-31": 389730,
-  "2023-02-01": 390127,
-  "2023-02-02": 390318,
-  "2023-02-03": 390522,
-  "2023-02-04": 390751,
-  "2023-02-05": 390971,
-  "2023-02-06": 391159,
-  "2023-02-07": 391370,
-  "2023-02-08": 391819,
-  "2023-02-09": 391819,
-  "2023-02-10": 392063,
-  "2023-02-11": 392294,
-  "2023-02-12": 392697,
-  "2023-02-13": 392887,
-  "2023-02-14": 392887,
-  "2023-02-15": 393067,
-  "2023-02-16": 393298,
-  "2023-02-17": 393542,
-  "2023-02-18": 393995,
-  "2023-02-19": 394026,
-  "2023-02-20": 394159,
-  "2023-02-21": 394357,
-  "2023-02-22": 394556,
-  "2023-02-23": 394733,
-  "2023-02-24": 394968,
-  "2023-02-25": 395249,
-  "2023-02-26": 395391,
-  "2023-02-27": 395769,
-  "2023-02-28": 395769,
-  "2023-03-01": 395962,
-  "2023-03-02": 396191,
-  "2023-03-03": 396425,
-  "2023-03-04": 396626,
-  "2023-03-05": 396978,
-  "2023-03-06": 396978,
-  "2023-03-07": 397181,
-  "2023-03-08": 397403,
-  "2023-03-09": 397606,
-  "2023-03-10": 397813,
-  "2023-03-11": 398013,
-  "2023-03-12": 398177,
-  "2023-03-13": 398332,
-  "2023-03-14": 398562,
-  "2023-03-15": 398775,
-  "2023-03-16": 398775,
-  "2023-03-17": 398775,
-  "2023-03-18": 399419,
-  "2023-03-19": 399419,
-  "2023-03-20": 399834,
-  "2023-03-21": 400042,
-  "2023-03-22": 400265,
-  "2023-03-23": 400488,
-  "2023-03-24": 400488,
-  "2023-03-25": 400968,
-  "2023-03-26": 401205,
-  "2023-03-27": 401416,
-  "2023-03-28": 401651,
-  "2023-03-29": 401901,
-  "2023-03-30": 402318,
-  "2023-03-31": 402318,
-  "2023-04-01": 402538,
-  "2023-04-02": 402752,
-  "2023-04-03": 402958,
-  "2023-04-04": 403210,
-  "2023-04-05": 403454,
-  "2023-04-06": 403711,
-  "2023-04-07": 403971,
-  "2023-04-09": 404365,
-  "2023-04-10": 404550,
-  "2023-04-11": 404920,
-  "2023-04-12": 404920,
-  "2023-04-13": 405114,
-  "2023-04-14": 405324,
-  "2023-04-15": 405562,
-  "2023-04-16": 405749,
-  "2023-04-17": 405927,
-  "2023-04-18": 406101,
-  "2023-04-19": 406311,
-  "2023-04-20": 406572,
-  "2023-04-21": 406789,
-  "2023-04-22": 407008,
-  "2023-04-23": 407200,
-  "2023-04-24": 407378,
-  "2023-04-25": 407610,
-  "2023-04-26": 407886,
-  "2023-04-27": 408158,
-  "2023-04-28": 408441,
-  "2023-04-29": 408697,
-  "2023-04-30": 408939,
-  "2023-05-01": 409154,
-  "2023-05-02": 409379,
-  "2023-05-03": 409601,
-  "2023-05-04": 409841,
-  "2023-05-05": 410074,
-  "2023-05-06": 410350,
-  "2023-05-07": 410549,
-  "2023-05-08": 410797,
-  "2023-05-09": 411044,
-  "2023-05-10": 411294,
-  "2023-05-11": 411565,
-  "2023-05-12": 411792,
-  "2023-05-13": 412128,
-  "2023-05-14": 412363,
-  "2023-05-15": 412553,
-  "2023-05-16": 412785,
-  "2023-05-17": 413055,
-  "2023-05-18": 413312,
-  "2023-05-19": 413543,
-  "2023-05-20": 414047,
-  "2023-05-21": 414047,
-  "2023-05-22": 414047,
-  "2023-05-23": 414413,
-  "2023-05-24": 414816,
-  "2023-05-25": 414872,
-  "2023-05-26": 415085,
-  "2023-05-27": 415340,
-  "2023-05-28": 415537,
-  "2023-05-29": 415537,
-  "2023-05-30": 415894,
-  "2023-05-31": 416087,
-  "2023-06-01": 416314,
-  "2023-06-02": 416534,
-  "2023-06-03": 416746,
-  "2023-06-04": 416979,
-  "2023-06-05": 417135,
-  "2023-06-06": 417315,
-  "2023-06-07": 417556,
-  "2023-06-08": 417767,
-  "2023-06-09": 417945,
-  "2023-06-10": 418129,
-  "2023-06-11": 418328,
-  "2023-06-12": 418515,
-  "2023-06-13": 418691,
-  "2023-06-14": 418898,
-  "2023-06-15": 419086,
-  "2023-06-16": 419277,
-  "2023-06-17": 419536,
-  "2023-06-18": 419749,
-  "2023-06-19": 419900,
-  "2023-06-20": 420079,
-  "2023-06-21": 420247,
-  "2023-06-22": 420441,
-  "2023-06-23": 420656,
-  "2023-06-24": 420886,
-  "2023-06-25": 421122,
-  "2023-06-26": 421304,
-  "2023-06-27": 421540,
-  "2023-06-28": 421760,
-  "2023-06-29": 421964,
-  "2023-06-30": 422182,
-  "2023-07-01": 422572,
-  "2023-07-02": 422572,
-  "2023-07-03": 422716,
-  "2023-07-04": 422884,
-  "2023-07-05": 423078,
-  "2023-07-06": 423437,
-  "2023-07-07": 423437,
-  "2023-07-08": 423437,
-  "2023-07-09": 423793,
-  "2023-07-10": 423948,
-  "2023-07-11": 424105,
-  "2023-07-12": 424258,
-  "2023-07-13": 424462,
-  "2023-07-14": 424648,
-  "2023-07-15": 424818,
-  "2023-07-16": 425046,
-  "2023-07-17": 425197,
-  "2023-07-18": 425362,
-  "2023-07-19": 425530,
-  "2023-07-20": 425717,
-  "2023-07-21": 425911,
-  "2023-07-22": 426146,
-  "2023-07-23": 426348,
-  "2023-07-24": 426510,
-  "2023-07-25": 426681,
-  "2023-07-26": 426840,
-  "2023-07-27": 427082,
-  "2023-07-28": 427296,
-  "2023-07-29": 427528,
-  "2023-07-30": 427705,
-  "2023-07-31": 427868,
-  "2023-08-01": 428061,
-  "2023-08-02": 428253,
-  "2023-08-03": 428456,
-  "2023-08-04": 428643,
-  "2023-08-05": 428827,
-  "2023-08-06": 429179,
-  "2023-08-07": 429179,
-  "2023-08-08": 429370,
-  "2023-08-09": 429604,
-  "2023-08-10": 429788,
-  "2023-08-11": 430007,
-  "2023-08-12": 430007,
-  "2023-08-13": 430007,
-  "2023-08-14": 430535,
-  "2023-08-15": 430535,
-  "2023-08-16": 430535,
-  "2023-08-17": 430535,
-  "2023-08-18": 430535,
-  "2023-08-19": 430535,
-  "2023-08-20": 431771,
-  "2023-08-21": 431771,
-  "2023-08-22": 432120,
-  "2023-08-23": 432120,
-  "2023-08-24": 432120,
-  "2023-08-25": 432120,
-  "2023-08-26": 432985,
-  "2023-08-27": 432985,
-  "2023-08-28": 433422,
-  "2023-08-29": 433422,
-  "2023-08-30": 433422,
-  "2023-08-31": 434066,
-  "2023-09-01": 434265,
-  "2023-09-02": 434265,
-  "2023-09-03": 434265,
-  "2023-09-04": 434265,
-  "2023-09-05": 434265,
-  "2023-09-06": 434265,
-  "2023-09-07": 434265,
-  "2023-09-08": 434265,
-  "2023-09-09": 434265,
-  "2023-09-10": 436185,
-  "2023-09-11": 436185,
-  "2023-09-12": 436185,
-  "2023-09-13": 436185,
-  "2023-09-14": 436185,
-  "2023-09-15": 436185,
-  "2023-09-16": 437290,
-  "2023-09-17": 437290,
-  "2023-09-18": 437290,
-  "2023-09-19": 437805,
-  "2023-09-20": 437805,
-  "2023-09-21": 437805,
-  "2023-09-22": 438306,
-  "2023-09-23": 438306,
-  "2023-09-24": 438306,
-  "2023-09-25": 438306,
-  "2023-09-26": 439000,
-  "2023-09-27": 439000,
-  "2023-09-28": 439000,
-  "2023-09-29": 439000,
-  "2023-09-30": 439000,
-  "2023-10-01": 439000,
-  "2023-10-02": 439000,
-  "2023-10-03": 439000,
-  "2023-10-04": 439000,
-  "2023-10-05": 439000,
-  "2023-10-06": 439000,
-  "2023-10-07": 439000,
-  "2023-10-08": 439000,
-  "2023-10-09": 439000,
-  "2023-10-10": 439000,
-  "2023-10-11": 441662,
-  "2023-10-12": 441662,
-  "2023-10-13": 441662,
-  "2023-10-14": 441662,
-  "2023-10-15": 441662,
-  "2023-10-16": 441662,
-  "2023-10-17": 441662,
-  "2023-10-18": 441662,
-  "2023-10-19": 441662,
-  "2023-10-20": 441662,
-  "2023-10-21": 441662,
-  "2023-10-22": 441662,
-  "2023-10-23": 441662,
-  "2023-10-24": 441662,
-  "2023-10-25": 441662,
-  "2023-10-26": 441662,
-  "2023-10-27": 441662,
-  "2023-10-28": 441662,
-  "2023-10-29": 441662,
-  "2023-10-30": 441662,
-  "2023-10-31": 441662,
-  "2023-11-01": 441662,
-  "2023-11-02": 441662,
-  "2023-11-03": 441662,
-  "2023-11-04": 441662,
-  "2023-11-05": 441662,
-  "2023-11-06": 441662,
-  "2023-11-07": 441662,
-  "2023-11-08": 441662,
-  "2023-11-09": 441662,
-  "2023-11-10": 441662,
-  "2023-11-11": 447629,
-  "2023-11-12": 447629,
-  "2023-11-13": 447629,
-  "2023-11-14": 447629,
-  "2023-11-15": 447629,
-  "2023-11-16": 447629,
-  "2023-11-17": 447629,
-  "2023-11-18": 447629,
-  "2023-11-19": 447629,
-  "2023-11-20": 447629,
-  "2023-11-21": 447629,
-  "2023-11-22": 447629,
-  "2023-11-23": 447629,
-  "2023-11-24": 447629,
-  "2023-11-25": 447629,
-  "2023-11-26": 447629,
-  "2023-11-27": 447629,
-  "2023-11-28": 447629,
-  "2023-11-29": 447629,
-  "2023-11-30": 447629,
-  "2023-12-01": 447629,
-  "2023-12-02": 447629,
-  "2023-12-03": 447629,
-  "2023-12-04": 447629,
-  "2023-12-05": 447629,
-  "2023-12-06": 447629,
-  "2023-12-07": 447629,
-  "2023-12-08": 447629,
-  "2023-12-09": 447629,
-  "2023-12-10": 447629,
-  "2023-12-11": 447629,
-  "2023-12-12": 447629,
-  "2023-12-13": 447629,
-  "2023-12-14": 452836,
-  "2023-12-15": 452987,
-  "2023-12-16": 453162,
-  "2023-12-17": 453309,
-  "2023-12-18": 453449,
-  "2023-12-19": 453629,
-  "2023-12-20": 453803,
-  "2023-12-21": 454011,
-  "2023-12-22": 454201,
-  "2023-12-23": 454367,
-  "2023-12-24": 454510,
-  "2023-12-25": 454663,
-  "2023-12-26": 454786,
-  "2023-12-27": 454938,
-  "2023-12-30": 455413,
-  "2023-12-31": 455552,
-  "2024-01-01": 455676,
-  "2024-01-02": 455764,
-  "2024-01-03": 455913
+  "2024-01-17": 457446,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Korn. The essential tracks, all in one playlist.",
+  "name": "This Is Korn",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "A Different World (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W"
+    },
+    {
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "A.D.I.D.A.S.",
+      "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "All In the Family (feat. Fred Durst)",
+      "url": "https://open.spotify.com/track/7yYvvOB7CuzdVldb6zOk1m"
+    },
+    {
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256853,
+      "name": "Alone I Break",
+      "url": "https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 427973,
+      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
+      "url": "https://open.spotify.com/track/39SHjPPvNVW2H9rSsGGOPD"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427986,
+      "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
+      "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "Ball Tongue",
+      "url": "https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Beg for Me",
+      "url": "https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65"
+    },
+    {
+      "album": {
+        "name": "Untitled (Deluxe)",
+        "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 202933,
+      "name": "Bitch We Got a Problem",
+      "url": "https://open.spotify.com/track/3t1BWDwVL3N8W3upXj9GLA"
+    },
+    {
+      "album": {
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 241146,
+      "name": "Black Is the Soul",
+      "url": "https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172867,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9"
+    },
+    {
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225731,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
+    },
+    {
+      "album": {
+        "name": "See You On the Other Side",
+        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Coming Undone",
+      "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285280,
+      "name": "Dead Bodies Everywhere",
+      "url": "https://open.spotify.com/track/6vsyag9kEPckt19NClSf51"
+    },
+    {
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "Did My Time",
+      "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 206813,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/4R84gKg4DKxRbF5imHOtQx"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349506,
+      "name": "Faget",
+      "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270920,
+      "name": "Falling Away from Me",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Freak On a Leash",
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
+    },
+    {
+      "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
+    },
+    {
+      "album": {
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Get Up! (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+    },
+    {
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Got the Life",
+      "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/14gKIvHuVsbf3cQVRxDOu1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/1vlgn36Bko8wbMBwzS4Mdr"
+    },
+    {
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270960,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 278925,
+      "name": "Idiosyncrasy",
+      "url": "https://open.spotify.com/track/324feiafM58soZXlBMVT1u"
+    },
+    {
+      "album": {
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269573,
+      "name": "It's On!",
+      "url": "https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl"
+    },
+    {
+      "album": {
+        "name": "Untitled (Deluxe)",
+        "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 249733,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/47f4k3llewNjvCcSIjBX6k"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 219613,
+      "name": "Let The Dark Do The Rest",
+      "url": "https://open.spotify.com/track/7aZsMvEdZBsZHUG3OGbPpD"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Let's Get This Party Started",
+      "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
+    },
+    {
+      "album": {
+        "name": "See You On the Other Side",
+        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254760,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 230013,
+      "name": "Lost In The Grandeur",
+      "url": "https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR"
+    },
+    {
+      "album": {
+        "name": "Requiem Mass (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fN6xfIrXPX8SMgcFU4A6h"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 240591,
+      "name": "Lost In The Grandeur - Requiem Mass",
+      "url": "https://open.spotify.com/track/1AEbkplFNpAzKS5HjC1Fu9"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/2O7NeYeqcV0nBEVFk1EpuF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 243106,
+      "name": "Love & Meth",
+      "url": "https://open.spotify.com/track/1Y74SC05mNh4jS6XLjxh1X"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235613,
+      "name": "Make Me Bad",
+      "url": "https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk"
+    },
+    {
+      "album": {
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190706,
+      "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
+      "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221001,
+      "name": "Never Never",
+      "url": "https://open.spotify.com/track/2vMZ3HdWC8vYVwngFfvIi7"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/2O7NeYeqcV0nBEVFk1EpuF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 221001,
+      "name": "Never Never",
+      "url": "https://open.spotify.com/track/6BoadbbyPDJBx3nArlNhQc"
+    },
+    {
+      "album": {
+        "name": "Untitled (Deluxe)",
+        "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 182625,
+      "name": "Overture or Obituary",
+      "url": "https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 200560,
+      "name": "Penance To Sorrow",
+      "url": "https://open.spotify.com/track/22fTnFLkgHmV1qGLP1cihy"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/2O7NeYeqcV0nBEVFk1EpuF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/0t2YbiX2hPMRKjQamt4kpo"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift",
+        "url": "https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"
+    },
+    {
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
+    },
+    {
+      "album": {
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Rotting In Vain",
+      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
+    },
+    {
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322133,
+      "name": "Shoots and Ladders",
+      "url": "https://open.spotify.com/track/3ezGIgTmk2BZy9C3j0x1h9"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "Somebody Someone",
+      "url": "https://open.spotify.com/track/4V78u7Pbx6G33eej60wwOK"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 220054,
+      "name": "The Darkness is Revealing",
+      "url": "https://open.spotify.com/track/3PpoBKcbnoGQudHGkwJA4C"
+    },
+    {
+      "album": {
+        "name": "Untouchables",
+        "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272920,
+      "name": "Thoughtless",
+      "url": "https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm"
+    },
+    {
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB"
+    },
+    {
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49213,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G"
+    },
+    {
+      "album": {
+        "name": "See You On the Other Side",
+        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Twisted Transistor",
+      "url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ"
+    },
+    {
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "album": {
+        "name": "Word Up! (The Remixes)",
+        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
+    },
+    {
+      "album": {
+        "name": "Worst Is On Its Way (Requiem Mass)",
+        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 244089,
+      "name": "Worst Is On It's Way - Requiem Mass",
+      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 243560,
+      "name": "Worst Is On Its Way",
+      "url": "https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA"
+    },
+    {
+      "album": {
+        "name": "Worst Is On Its Way (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/7d5mOgDZ2kKE9x2hJR2Qcv"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 271431,
+      "name": "Worst Is On Its Way [Feat. Danny Brown & Meechy Darko] - HEALTH Remix",
+      "url": "https://open.spotify.com/track/6m5bseSyKNEasHC6y49fgX"
+    },
+    {
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+    },
+    {
+      "album": {
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "You'll Never Find Me",
+      "url": "https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fOjra"
 }

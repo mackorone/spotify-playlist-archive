@@ -1,732 +1,2889 @@
 {
-  "2021-12-28": 11957,
-  "2021-12-29": 11977,
-  "2021-12-30": 11981,
-  "2021-12-31": 11993,
-  "2022-01-01": 11999,
-  "2022-01-02": 12007,
-  "2022-01-03": 12012,
-  "2022-01-04": 12020,
-  "2022-01-05": 12032,
-  "2022-01-06": 12040,
-  "2022-01-07": 12046,
-  "2022-01-08": 12066,
-  "2022-01-09": 12066,
-  "2022-01-10": 12071,
-  "2022-01-11": 12069,
-  "2022-01-12": 12082,
-  "2022-01-13": 12091,
-  "2022-01-14": 12098,
-  "2022-01-15": 12121,
-  "2022-01-16": 12121,
-  "2022-01-17": 12134,
-  "2022-01-18": 12138,
-  "2022-01-19": 12146,
-  "2022-01-20": 12154,
-  "2022-01-21": 12156,
-  "2022-01-22": 12158,
-  "2022-01-23": 12159,
-  "2022-01-24": 12171,
-  "2022-01-25": 12183,
-  "2022-01-26": 12191,
-  "2022-01-27": 12203,
-  "2022-01-28": 12216,
-  "2022-01-29": 12224,
-  "2022-01-30": 12234,
-  "2022-01-31": 12246,
-  "2022-02-01": 12261,
-  "2022-02-02": 12270,
-  "2022-02-03": 12279,
-  "2022-02-04": 12282,
-  "2022-02-05": 12294,
-  "2022-02-06": 12308,
-  "2022-02-07": 12327,
-  "2022-02-08": 12342,
-  "2022-02-09": 12350,
-  "2022-02-10": 12359,
-  "2022-02-11": 12368,
-  "2022-02-12": 12379,
-  "2022-02-13": 12380,
-  "2022-02-14": 12388,
-  "2022-02-15": 12393,
-  "2022-02-16": 12402,
-  "2022-02-17": 12404,
-  "2022-02-18": 12410,
-  "2022-02-19": 12427,
-  "2022-02-20": 12434,
-  "2022-02-21": 12448,
-  "2022-02-22": 12460,
-  "2022-02-23": 12467,
-  "2022-02-24": 12475,
-  "2022-02-25": 12488,
-  "2022-02-26": 12493,
-  "2022-02-27": 12505,
-  "2022-02-28": 12505,
-  "2022-03-01": 12516,
-  "2022-03-02": 12525,
-  "2022-03-03": 12527,
-  "2022-03-04": 12540,
-  "2022-03-05": 12549,
-  "2022-03-06": 12567,
-  "2022-03-07": 12575,
-  "2022-03-08": 12585,
-  "2022-03-09": 12607,
-  "2022-03-10": 12610,
-  "2022-03-11": 12627,
-  "2022-03-12": 12637,
-  "2022-03-13": 12650,
-  "2022-03-14": 12662,
-  "2022-03-15": 12669,
-  "2022-03-16": 12682,
-  "2022-03-17": 12691,
-  "2022-03-18": 12702,
-  "2022-03-19": 12708,
-  "2022-03-20": 12708,
-  "2022-03-21": 12725,
-  "2022-03-22": 12736,
-  "2022-03-23": 12736,
-  "2022-03-24": 12745,
-  "2022-03-25": 12756,
-  "2022-03-26": 12758,
-  "2022-03-27": 12768,
-  "2022-03-28": 12782,
-  "2022-03-30": 12803,
-  "2022-03-31": 12816,
-  "2022-04-01": 12822,
-  "2022-04-02": 12828,
-  "2022-04-03": 12838,
-  "2022-04-04": 12851,
-  "2022-04-05": 12865,
-  "2022-04-06": 12870,
-  "2022-04-07": 12879,
-  "2022-04-08": 12892,
-  "2022-04-09": 12905,
-  "2022-04-10": 12921,
-  "2022-04-11": 12931,
-  "2022-04-12": 12932,
-  "2022-04-13": 12935,
-  "2022-04-14": 12945,
-  "2022-04-15": 12950,
-  "2022-04-16": 12960,
-  "2022-04-17": 12972,
-  "2022-04-18": 12985,
-  "2022-04-19": 12992,
-  "2022-04-20": 12999,
-  "2022-04-21": 13004,
-  "2022-04-22": 13007,
-  "2022-04-23": 13020,
-  "2022-04-24": 13032,
-  "2022-04-25": 13033,
-  "2022-04-26": 13035,
-  "2022-04-27": 13047,
-  "2022-04-28": 13055,
-  "2022-04-29": 13065,
-  "2022-04-30": 13079,
-  "2022-05-01": 13086,
-  "2022-05-02": 13086,
-  "2022-05-03": 13097,
-  "2022-05-04": 13106,
-  "2022-05-05": 13116,
-  "2022-05-06": 13119,
-  "2022-05-07": 13127,
-  "2022-05-08": 13139,
-  "2022-05-09": 13141,
-  "2022-05-10": 13146,
-  "2022-05-11": 13157,
-  "2022-05-12": 13163,
-  "2022-05-13": 13169,
-  "2022-05-14": 13179,
-  "2022-05-15": 13183,
-  "2022-05-16": 13198,
-  "2022-05-17": 13206,
-  "2022-05-18": 13213,
-  "2022-05-19": 13220,
-  "2022-05-20": 13225,
-  "2022-05-21": 13236,
-  "2022-05-22": 13236,
-  "2022-05-23": 13246,
-  "2022-05-24": 13253,
-  "2022-05-25": 13255,
-  "2022-05-26": 13266,
-  "2022-05-27": 13277,
-  "2022-05-28": 13282,
-  "2022-05-29": 13287,
-  "2022-05-30": 13291,
-  "2022-05-31": 13298,
-  "2022-06-01": 13307,
-  "2022-06-02": 13307,
-  "2022-06-03": 13312,
-  "2022-06-04": 13317,
-  "2022-06-05": 13325,
-  "2022-06-06": 13333,
-  "2022-06-07": 13346,
-  "2022-06-08": 13353,
-  "2022-06-09": 13360,
-  "2022-06-10": 13367,
-  "2022-06-11": 13377,
-  "2022-06-12": 13384,
-  "2022-06-13": 13396,
-  "2022-06-14": 13405,
-  "2022-06-15": 13408,
-  "2022-06-16": 13416,
-  "2022-06-17": 13427,
-  "2022-06-18": 13431,
-  "2022-06-19": 13439,
-  "2022-06-20": 13439,
-  "2022-06-21": 13450,
-  "2022-06-22": 13454,
-  "2022-06-23": 13454,
-  "2022-06-24": 13457,
-  "2022-06-25": 13465,
-  "2022-06-26": 13467,
-  "2022-06-27": 13473,
-  "2022-06-28": 13477,
-  "2022-06-29": 13483,
-  "2022-06-30": 13489,
-  "2022-07-01": 13493,
-  "2022-07-02": 13497,
-  "2022-07-03": 13507,
-  "2022-07-04": 13512,
-  "2022-07-05": 13515,
-  "2022-07-06": 13516,
-  "2022-07-07": 13521,
-  "2022-07-08": 13526,
-  "2022-07-09": 13534,
-  "2022-07-10": 13545,
-  "2022-07-11": 13552,
-  "2022-07-12": 13559,
-  "2022-07-13": 13569,
-  "2022-07-14": 13571,
-  "2022-07-15": 13579,
-  "2022-07-16": 13593,
-  "2022-07-17": 13595,
-  "2022-07-18": 13603,
-  "2022-07-19": 13609,
-  "2022-07-20": 13613,
-  "2022-07-21": 13617,
-  "2022-07-22": 13620,
-  "2022-07-23": 13625,
-  "2022-07-24": 13631,
-  "2022-07-25": 13641,
-  "2022-07-26": 13644,
-  "2022-07-27": 13657,
-  "2022-07-28": 13662,
-  "2022-07-29": 13666,
-  "2022-07-30": 13684,
-  "2022-07-31": 13684,
-  "2022-08-01": 13694,
-  "2022-08-02": 13706,
-  "2022-08-03": 13706,
-  "2022-08-04": 13709,
-  "2022-08-05": 13718,
-  "2022-08-06": 13721,
-  "2022-08-07": 13732,
-  "2022-08-08": 13737,
-  "2022-08-09": 13752,
-  "2022-08-10": 13761,
-  "2022-08-11": 13767,
-  "2022-08-12": 13772,
-  "2022-08-13": 13782,
-  "2022-08-14": 13782,
-  "2022-08-15": 13800,
-  "2022-08-16": 13810,
-  "2022-08-17": 13819,
-  "2022-08-18": 13831,
-  "2022-08-19": 13840,
-  "2022-08-20": 13845,
-  "2022-08-21": 13845,
-  "2022-08-22": 13852,
-  "2022-08-23": 13856,
-  "2022-08-24": 13859,
-  "2022-08-25": 13864,
-  "2022-08-26": 13870,
-  "2022-08-27": 13883,
-  "2022-08-28": 13887,
-  "2022-08-29": 13896,
-  "2022-08-30": 13883,
-  "2022-08-31": 13835,
-  "2022-09-01": 13793,
-  "2022-09-02": 13742,
-  "2022-09-03": 13656,
-  "2022-09-04": 13623,
-  "2022-09-05": 13622,
-  "2022-09-06": 13628,
-  "2022-09-07": 13639,
-  "2022-09-09": 13660,
-  "2022-09-10": 13672,
-  "2022-09-11": 13684,
-  "2022-09-12": 13702,
-  "2022-09-13": 13712,
-  "2022-09-15": 13736,
-  "2022-09-16": 13748,
-  "2022-09-17": 13757,
-  "2022-09-18": 13766,
-  "2022-09-19": 13774,
-  "2022-09-20": 13788,
-  "2022-09-21": 13799,
-  "2022-09-22": 13806,
-  "2022-09-23": 13817,
-  "2022-09-24": 13827,
-  "2022-09-25": 13844,
-  "2022-09-26": 13853,
-  "2022-09-27": 13864,
-  "2022-09-28": 13871,
-  "2022-09-29": 13880,
-  "2022-09-30": 13889,
-  "2022-10-01": 13899,
-  "2022-10-02": 13910,
-  "2022-10-03": 13921,
-  "2022-10-04": 13945,
-  "2022-10-05": 13949,
-  "2022-10-06": 13956,
-  "2022-10-07": 13970,
-  "2022-10-08": 13979,
-  "2022-10-09": 14001,
-  "2022-10-10": 14005,
-  "2022-10-11": 14012,
-  "2022-10-12": 14022,
-  "2022-10-13": 14032,
-  "2022-10-14": 14038,
-  "2022-10-15": 14046,
-  "2022-10-16": 14059,
-  "2022-10-17": 14077,
-  "2022-10-18": 14088,
-  "2022-10-19": 14099,
-  "2022-10-20": 14112,
-  "2022-10-21": 14122,
-  "2022-10-22": 14130,
-  "2022-10-23": 14142,
-  "2022-10-24": 14150,
-  "2022-10-25": 14161,
-  "2022-10-26": 14167,
-  "2022-10-27": 14174,
-  "2022-10-28": 14184,
-  "2022-10-29": 14191,
-  "2022-10-30": 14195,
-  "2022-10-31": 14213,
-  "2022-11-01": 14221,
-  "2022-11-02": 14232,
-  "2022-11-03": 14245,
-  "2022-11-04": 14259,
-  "2022-11-05": 14280,
-  "2022-11-06": 14289,
-  "2022-11-07": 14296,
-  "2022-11-08": 14306,
-  "2022-11-09": 14319,
-  "2022-11-10": 14331,
-  "2022-11-11": 14344,
-  "2022-11-12": 14350,
-  "2022-11-13": 14354,
-  "2022-11-14": 14375,
-  "2022-11-15": 14377,
-  "2022-11-16": 14388,
-  "2022-11-17": 14403,
-  "2022-11-18": 14404,
-  "2022-11-19": 14410,
-  "2022-11-20": 14414,
-  "2022-11-21": 14409,
-  "2022-11-22": 14435,
-  "2022-11-23": 14428,
-  "2022-11-24": 14464,
-  "2022-11-25": 14477,
-  "2022-11-26": 14485,
-  "2022-11-27": 14498,
-  "2022-11-28": 14509,
-  "2022-11-29": 14519,
-  "2022-11-30": 14539,
-  "2022-12-01": 14552,
-  "2022-12-02": 14554,
-  "2022-12-03": 14570,
-  "2022-12-04": 14584,
-  "2022-12-05": 14597,
-  "2022-12-06": 14598,
-  "2022-12-07": 14603,
-  "2022-12-08": 14614,
-  "2022-12-09": 14619,
-  "2022-12-10": 14629,
-  "2022-12-11": 14630,
-  "2022-12-12": 14635,
-  "2022-12-13": 14641,
-  "2022-12-14": 14649,
-  "2022-12-15": 14661,
-  "2022-12-16": 14664,
-  "2022-12-17": 14669,
-  "2022-12-18": 14680,
-  "2022-12-19": 14690,
-  "2022-12-20": 14713,
-  "2022-12-21": 14713,
-  "2022-12-22": 14725,
-  "2022-12-24": 14738,
-  "2022-12-25": 14747,
-  "2022-12-26": 14756,
-  "2022-12-27": 14767,
-  "2022-12-28": 14776,
-  "2022-12-29": 14792,
-  "2022-12-30": 14793,
-  "2022-12-31": 14803,
-  "2023-01-01": 14815,
-  "2023-01-02": 14820,
-  "2023-01-03": 14830,
-  "2023-01-04": 14841,
-  "2023-01-05": 14840,
-  "2023-01-06": 14855,
-  "2023-01-07": 14868,
-  "2023-01-08": 14871,
-  "2023-01-09": 14880,
-  "2023-01-10": 14892,
-  "2023-01-11": 14896,
-  "2023-01-12": 14916,
-  "2023-01-13": 14930,
-  "2023-01-14": 14947,
-  "2023-01-15": 14946,
-  "2023-01-16": 14955,
-  "2023-01-17": 14962,
-  "2023-01-18": 14970,
-  "2023-01-19": 14973,
-  "2023-01-20": 14987,
-  "2023-01-21": 14998,
-  "2023-01-22": 15003,
-  "2023-01-23": 15017,
-  "2023-01-24": 15025,
-  "2023-01-25": 15041,
-  "2023-01-26": 15045,
-  "2023-01-27": 15048,
-  "2023-01-28": 15061,
-  "2023-01-29": 15073,
-  "2023-01-30": 15082,
-  "2023-01-31": 15082,
-  "2023-02-01": 15093,
-  "2023-02-02": 15106,
-  "2023-02-03": 15112,
-  "2023-02-04": 15127,
-  "2023-02-05": 15135,
-  "2023-02-06": 15141,
-  "2023-02-07": 15151,
-  "2023-02-08": 15180,
-  "2023-02-09": 15180,
-  "2023-02-10": 15187,
-  "2023-02-11": 15197,
-  "2023-02-12": 15215,
-  "2023-02-13": 15222,
-  "2023-02-14": 15222,
-  "2023-02-15": 15234,
-  "2023-02-16": 15237,
-  "2023-02-17": 15246,
-  "2023-02-18": 15264,
-  "2023-02-19": 15266,
-  "2023-02-20": 15273,
-  "2023-02-21": 15278,
-  "2023-02-22": 15284,
-  "2023-02-23": 15289,
-  "2023-02-24": 15300,
-  "2023-02-25": 15318,
-  "2023-02-26": 15322,
-  "2023-02-27": 15337,
-  "2023-02-28": 15337,
-  "2023-03-01": 15345,
-  "2023-03-02": 15355,
-  "2023-03-03": 15368,
-  "2023-03-04": 15376,
-  "2023-03-05": 15392,
-  "2023-03-06": 15392,
-  "2023-03-07": 15404,
-  "2023-03-08": 15416,
-  "2023-03-09": 15425,
-  "2023-03-10": 15430,
-  "2023-03-11": 15436,
-  "2023-03-12": 15449,
-  "2023-03-13": 15456,
-  "2023-03-14": 15468,
-  "2023-03-15": 15506,
-  "2023-03-16": 15611,
-  "2023-03-17": 15611,
-  "2023-03-18": 15870,
-  "2023-03-19": 15972,
-  "2023-03-20": 16085,
-  "2023-03-21": 16182,
-  "2023-03-22": 16304,
-  "2023-03-23": 16427,
-  "2023-03-24": 16427,
-  "2023-03-25": 16631,
-  "2023-03-26": 16734,
-  "2023-03-27": 16845,
-  "2023-03-28": 16950,
-  "2023-03-29": 17081,
-  "2023-03-30": 17304,
-  "2023-03-31": 17304,
-  "2023-04-01": 17417,
-  "2023-04-02": 17508,
-  "2023-04-03": 17607,
-  "2023-04-04": 17730,
-  "2023-04-05": 17837,
-  "2023-04-06": 17943,
-  "2023-04-07": 18044,
-  "2023-04-09": 18251,
-  "2023-04-10": 18328,
-  "2023-04-11": 18544,
-  "2023-04-12": 18544,
-  "2023-04-13": 18628,
-  "2023-04-14": 18737,
-  "2023-04-15": 18829,
-  "2023-04-16": 18916,
-  "2023-04-17": 19021,
-  "2023-04-18": 19131,
-  "2023-04-19": 19249,
-  "2023-04-20": 19347,
-  "2023-04-21": 19441,
-  "2023-04-22": 19532,
-  "2023-04-23": 19609,
-  "2023-04-24": 19708,
-  "2023-04-25": 19788,
-  "2023-04-26": 19910,
-  "2023-04-27": 20008,
-  "2023-04-28": 20097,
-  "2023-04-29": 20204,
-  "2023-04-30": 20282,
-  "2023-05-01": 20373,
-  "2023-05-02": 20464,
-  "2023-05-03": 20578,
-  "2023-05-04": 20670,
-  "2023-05-05": 20754,
-  "2023-05-06": 20838,
-  "2023-05-07": 20941,
-  "2023-05-08": 21025,
-  "2023-05-09": 21091,
-  "2023-05-10": 21181,
-  "2023-05-11": 21272,
-  "2023-05-12": 21343,
-  "2023-05-13": 21431,
-  "2023-05-14": 21501,
-  "2023-05-15": 21563,
-  "2023-05-16": 21649,
-  "2023-05-17": 21739,
-  "2023-05-18": 21831,
-  "2023-05-19": 21936,
-  "2023-05-20": 22085,
-  "2023-05-21": 22085,
-  "2023-05-22": 22085,
-  "2023-05-23": 22203,
-  "2023-05-24": 22333,
-  "2023-05-25": 22358,
-  "2023-05-26": 22436,
-  "2023-05-27": 22494,
-  "2023-05-28": 22575,
-  "2023-05-29": 22575,
-  "2023-05-30": 22720,
-  "2023-05-31": 22807,
-  "2023-06-01": 22874,
-  "2023-06-02": 22982,
-  "2023-06-03": 23060,
-  "2023-06-04": 23129,
-  "2023-06-05": 23223,
-  "2023-06-06": 23307,
-  "2023-06-07": 23376,
-  "2023-06-08": 23426,
-  "2023-06-09": 23490,
-  "2023-06-10": 23569,
-  "2023-06-11": 23641,
-  "2023-06-12": 23711,
-  "2023-06-13": 23780,
-  "2023-06-14": 23861,
-  "2023-06-15": 23937,
-  "2023-06-16": 24003,
-  "2023-06-17": 24059,
-  "2023-06-18": 24126,
-  "2023-06-19": 24199,
-  "2023-06-20": 24256,
-  "2023-06-21": 24331,
-  "2023-06-22": 24399,
-  "2023-06-23": 24453,
-  "2023-06-24": 24511,
-  "2023-06-25": 24596,
-  "2023-06-26": 24668,
-  "2023-06-27": 24736,
-  "2023-06-28": 24805,
-  "2023-06-29": 24863,
-  "2023-06-30": 24911,
-  "2023-07-01": 25052,
-  "2023-07-02": 25052,
-  "2023-07-03": 25134,
-  "2023-07-04": 25209,
-  "2023-07-05": 25281,
-  "2023-07-06": 25436,
-  "2023-07-07": 25436,
-  "2023-07-08": 25514,
-  "2023-07-09": 25567,
-  "2023-07-10": 25629,
-  "2023-07-11": 25694,
-  "2023-07-12": 25778,
-  "2023-07-13": 25841,
-  "2023-07-14": 25907,
-  "2023-07-15": 25957,
-  "2023-07-16": 26041,
-  "2023-07-17": 26105,
-  "2023-07-18": 26186,
-  "2023-07-19": 26253,
-  "2023-07-20": 26324,
-  "2023-07-21": 26379,
-  "2023-07-22": 26439,
-  "2023-07-23": 26525,
-  "2023-07-24": 26603,
-  "2023-07-25": 26674,
-  "2023-07-26": 26754,
-  "2023-07-27": 26822,
-  "2023-07-28": 26875,
-  "2023-07-29": 26936,
-  "2023-07-30": 27015,
-  "2023-07-31": 27079,
-  "2023-08-01": 27143,
-  "2023-08-02": 27210,
-  "2023-08-03": 27271,
-  "2023-08-04": 27346,
-  "2023-08-05": 27416,
-  "2023-08-06": 27568,
-  "2023-08-07": 27568,
-  "2023-08-08": 27644,
-  "2023-08-09": 27740,
-  "2023-08-10": 27814,
-  "2023-08-11": 27887,
-  "2023-08-12": 27958,
-  "2023-08-13": 28040,
-  "2023-08-14": 28111,
-  "2023-08-15": 28274,
-  "2023-08-16": 28274,
-  "2023-08-17": 28345,
-  "2023-08-18": 28421,
-  "2023-08-19": 28491,
-  "2023-08-20": 28553,
-  "2023-08-21": 28636,
-  "2023-08-22": 28705,
-  "2023-08-23": 28787,
-  "2023-08-24": 28883,
-  "2023-08-25": 28962,
-  "2023-08-26": 29036,
-  "2023-08-27": 29118,
-  "2023-08-28": 29193,
-  "2023-08-29": 29269,
-  "2023-08-30": 29350,
-  "2023-08-31": 29444,
-  "2023-09-01": 29560,
-  "2023-09-02": 29560,
-  "2023-09-03": 29582,
-  "2023-09-04": 29633,
-  "2023-09-05": 29677,
-  "2023-09-06": 29723,
-  "2023-09-07": 29776,
-  "2023-09-08": 29828,
-  "2023-09-09": 29894,
-  "2023-09-10": 29957,
-  "2023-09-11": 30016,
-  "2023-09-12": 30087,
-  "2023-09-13": 30155,
-  "2023-09-14": 30208,
-  "2023-09-15": 30257,
-  "2023-09-16": 30313,
-  "2023-09-17": 30398,
-  "2023-09-18": 30456,
-  "2023-09-19": 30515,
-  "2023-09-20": 30556,
-  "2023-09-21": 30604,
-  "2023-09-22": 30661,
-  "2023-09-23": 30715,
-  "2023-09-24": 30772,
-  "2023-09-25": 30797,
-  "2023-09-26": 30853,
-  "2023-09-27": 30887,
-  "2023-09-28": 30951,
-  "2023-09-29": 31019,
-  "2023-09-30": 31062,
-  "2023-10-01": 31113,
-  "2023-10-02": 31172,
-  "2023-10-03": 31221,
-  "2023-10-04": 31279,
-  "2023-10-05": 31326,
-  "2023-10-06": 31371,
-  "2023-10-07": 31429,
-  "2023-10-08": 31478,
-  "2023-10-09": 31538,
-  "2023-10-10": 31590,
-  "2023-10-11": 31701,
-  "2023-10-12": 31701,
-  "2023-10-13": 31765,
-  "2023-10-14": 31811,
-  "2023-10-15": 31836,
-  "2023-10-16": 31882,
-  "2023-10-17": 31936,
-  "2023-10-18": 31989,
-  "2023-10-19": 32041,
-  "2023-10-20": 32106,
-  "2023-10-21": 32146,
-  "2023-10-22": 32194,
-  "2023-10-23": 32244,
-  "2023-10-24": 32284,
-  "2023-10-25": 32339,
-  "2023-10-26": 32382,
-  "2023-10-27": 32433,
-  "2023-10-28": 32478,
-  "2023-10-29": 32532,
-  "2023-10-30": 32595,
-  "2023-10-31": 32595,
-  "2023-11-01": 32648,
-  "2023-11-02": 32693,
-  "2023-11-03": 32753,
-  "2023-11-04": 32796,
-  "2023-11-05": 32846,
-  "2023-11-06": 32888,
-  "2023-11-07": 32928,
-  "2023-11-08": 32969,
-  "2023-11-09": 33012,
-  "2023-11-10": 33068,
-  "2023-11-11": 33116,
-  "2023-11-12": 33157,
-  "2023-11-13": 33203,
-  "2023-11-14": 33249,
-  "2023-11-15": 33249,
-  "2023-11-16": 33341,
-  "2023-11-17": 33421,
-  "2023-11-18": 33421,
-  "2023-11-19": 33471,
-  "2023-11-20": 33506,
-  "2023-11-21": 33558,
-  "2023-11-22": 33597,
-  "2023-11-23": 33649,
-  "2023-11-24": 33694,
-  "2023-11-25": 33729,
-  "2023-11-26": 33773,
-  "2023-11-27": 33806,
-  "2023-11-28": 33860,
-  "2023-11-29": 33961,
-  "2023-11-30": 33961,
-  "2023-12-01": 34017,
-  "2023-12-02": 34076,
-  "2023-12-03": 34116,
-  "2023-12-04": 34154,
-  "2023-12-05": 34211,
-  "2023-12-06": 34257,
-  "2023-12-07": 34302,
-  "2023-12-08": 34330,
-  "2023-12-09": 34331,
-  "2023-12-10": 34325,
-  "2023-12-11": 34334,
-  "2023-12-12": 34332,
-  "2023-12-13": 34332,
-  "2023-12-14": 34331,
-  "2023-12-15": 34333,
-  "2023-12-16": 34343,
-  "2023-12-17": 34342,
-  "2023-12-18": 34348,
-  "2023-12-19": 34348,
-  "2023-12-20": 34344,
-  "2023-12-21": 34348,
-  "2023-12-22": 34344,
-  "2023-12-23": 34345,
-  "2023-12-24": 34350,
-  "2023-12-25": 34353,
-  "2023-12-26": 34356,
-  "2023-12-27": 34358,
-  "2023-12-30": 34364,
-  "2023-12-31": 34363,
-  "2024-01-01": 34366,
-  "2024-01-02": 34367,
-  "2024-01-03": 34372
+  "2024-01-17": 34398,
+  "date_first_scraped": "2021-12-28",
+  "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+  "name": "This Is Capcom Sound Team",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2NTNKtQXpBwf80gpaITckb"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319906,
+      "name": "\"DEVILS NEVER CRY\"(\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
+      "url": "https://open.spotify.com/track/3ozivYJGJGq6TSzdy8m64X"
+    },
+    {
+      "album": {
+        "name": "A Brand New Day",
+        "url": "https://open.spotify.com/album/4eXicJ43I6xi2DG98KFxJN"
+      },
+      "artists": [
+        {
+          "name": "Zac Zinger",
+          "url": "https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J"
+        },
+        {
+          "name": "Buku",
+          "url": "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204761,
+      "name": "A Brand New Day",
+      "url": "https://open.spotify.com/track/2ci8vXPrkqpJI9PjToeJxS"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 204761,
+      "name": "ABrandNewDay",
+      "url": "https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 140693,
+      "name": "BOOMER KUWANGER STAGE",
+      "url": "https://open.spotify.com/track/0rKHHCxSIyIMUCRSSAABdT"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f32 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7b6GOY3lEu2o9mxnkMhhEr"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 87800,
+      "name": "BUBBLEMAN STAGE",
+      "url": "https://open.spotify.com/track/2iKSUOKtDn2CdQsAPYJryS"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X2 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 105653,
+      "name": "BUBBLY CRABLOS STAGE",
+      "url": "https://open.spotify.com/track/6YsT4eETlFkLHv7D4bDaPR"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 5 Special Edition Vergil`s Rebirth Sound Selection",
+        "url": "https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 580292,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw"
+    },
+    {
+      "album": {
+        "name": "Bury the Light",
+        "url": "https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        },
+        {
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582400,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm"
+    },
+    {
+      "album": {
+        "name": "Bury the Light",
+        "url": "https://open.spotify.com/album/32YRuIKKqGpe2YwIIUqZsA"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        },
+        {
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 582495,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/0LldViz2vaOEjiBqEN25ca"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 175360,
+      "name": "Cammy'stheme(\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fc\u2161X\u3088\u308a)",
+      "url": "https://open.spotify.com/track/7jZYpZsaNOHni7aalh31LL"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 30333,
+      "name": "CREDIT~GAME START~PLAYER SELECT(\u30ad\u30e3\u30d5\u309a\u30c6\u30f3\u30b3\u30de\u30f3\u30c8\u3099\u30fc\u3088\u308a)",
+      "url": "https://open.spotify.com/track/27ewExTXOBMfWxVBoFvbvC"
+    },
+    {
+      "album": {
+        "name": "DEVIL MAY CRY 5 Original SoundTrack",
+        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 289137,
+      "name": "Crimson Cloud",
+      "url": "https://open.spotify.com/track/0kbL8BOL0Ts7lGIVVQNoXB"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 5 Special Edition Vergil`s Rebirth Sound Selection",
+        "url": "https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289137,
+      "name": "Crimson Cloud",
+      "url": "https://open.spotify.com/track/6WVbHvEVWVnAYNwZs650NN"
+    },
+    {
+      "album": {
+        "name": "Crimson Cloud",
+        "url": "https://open.spotify.com/album/2V1hViF311H8XX1104K3i4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        },
+        {
+          "name": "Rachel Fannan",
+          "url": "https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289095,
+      "name": "Crimson Cloud",
+      "url": "https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X2 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 96466,
+      "name": "CRISTAR MYMINE STAGE",
+      "url": "https://open.spotify.com/track/5sNAphLSbEDIiM9fPOEcnv"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6VLq2RjAZqRJvKGhQF0kLs"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-30",
+      "duration_ms": 93280,
+      "name": "CUTMAN STAGE",
+      "url": "https://open.spotify.com/track/2ejAkzIqUBhI97SMs8LzYd"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f35 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5IqjF76I6SpCv2pigjcFxE"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 125173,
+      "name": "DARK MAN STAGE",
+      "url": "https://open.spotify.com/track/0x1lzES0hcRTrI70ou9Fyx"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 38706,
+      "name": "DEMO(\u5929\u5730\u3092\u55b0\u3089\u30462 \u8d64\u58c1\u306e\u6226\u3044\u3088\u308a)",
+      "url": "https://open.spotify.com/track/6NHN0i8e3aKFiswtDvo7rR"
+    },
+    {
+      "album": {
+        "name": "Devil Trigger",
+        "url": "https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        },
+        {
+          "name": "Ali Edwards",
+          "url": "https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405212,
+      "name": "Devil Trigger",
+      "url": "https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn"
+    },
+    {
+      "album": {
+        "name": "DEVIL MAY CRY 5 Original SoundTrack",
+        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+      },
+      "artists": [
+        {
+          "name": "Yoshiya Terayama",
+          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
+        },
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147698,
+      "name": "Devil Trigger - Opening Remix",
+      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER RISE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254266,
+      "name": "Domain of Dust and Desolation",
+      "url": "https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe"
+    },
+    {
+      "album": {
+        "name": "MEGAMAN 11 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3H6eQfGMjmwJ6JCO22t2hx"
+      },
+      "artists": [
+        {
+          "name": "Marika Suzuki",
+          "url": "https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Dr. Wily Stage",
+      "url": "https://open.spotify.com/track/23zLcVodVC5TkZ1tcNon15"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f311 \u904b\u547d\u306e\u6b6f\u8eca!! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5jiyj28H1sVyo8zfwtaU2u"
+      },
+      "artists": [
+        {
+          "name": "Marika Suzuki",
+          "url": "https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183986,
+      "name": "Dr.WILY STAGE",
+      "url": "https://open.spotify.com/track/0hvEw3f1irouB9Kb12bWU1"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f32 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7b6GOY3lEu2o9mxnkMhhEr"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156600,
+      "name": "Dr.WILY STAGE 1",
+      "url": "https://open.spotify.com/track/5fUgHGbOg95s5r2IxzTbEB"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f32 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7b6GOY3lEu2o9mxnkMhhEr"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 164613,
+      "name": "Dr.WILY STAGE 1",
+      "url": "https://open.spotify.com/track/2D4PWhCj59xSZ1pj5MBvWG"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 193773,
+      "name": "Dudley Stage -YOU BLOW MY MIND-",
+      "url": "https://open.spotify.com/track/2k1B29kBE3UCYbKk5v68vB"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30a2\u30eb\u30d0\u30e0 \u30d7\u30ec\u30d3\u30e5\u30fc",
+        "url": "https://open.spotify.com/album/5B26OGt9by1hpAYZqadKlA"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278306,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/1ykLzEi5mWPLfJbA8c5h15"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278306,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5zuSUJY4ZNqXfdZQcsA1dM"
+    },
+    {
+      "album": {
+        "name": "MEGAMAN ZERO4 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/1xRQ8CX4FcSWnm2VKr6elp"
+      },
+      "artists": [
+        {
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/0pX2s4lnpNTYcDcBEVenSW"
+    },
+    {
+      "album": {
+        "name": "MEGAMAN ZERO/ZX SOUND BOX",
+        "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
+      },
+      "artists": [
+        {
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30bc\u30ed4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s"
+      },
+      "artists": [
+        {
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3\u30a8\u30b0\u30bc \u30b5\u30a6\u30f3\u30c9BOX",
+        "url": "https://open.spotify.com/album/55R4Hte8N3sbHby8G5QF5g"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 120973,
+      "name": "FIRE FIELD",
+      "url": "https://open.spotify.com/track/3kXaNzhwlGurylzMT7it2I"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f36 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3q7opyLzWakfx4pigOHhaY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-11",
+      "duration_ms": 122480,
+      "name": "FLAMEMAN STAGE",
+      "url": "https://open.spotify.com/track/7qUuFVp8MEafkdiXPfLVcC"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 3 \u30e9\u30b9\u30c8\u30a8\u30b9\u30b1\u30fc\u30d7 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29Ds9NBrAu0wh4Y1vdkCmW"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 154293,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/1IZRDWWDyVmfmpenjaLzLB"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/0oSzptjJ0jjmPNkNSwCgu1"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 7 RESIDENT EVIL Best Track Collection",
+        "url": "https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/0pYJBNET8c1tFUlXxKaIBj"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u3099\u30a4\u30aa\u30cf\u30b5\u3099\u30fc\u30c8\u30997 \u30ec\u30b7\u3099\u30c6\u3099\u30f3\u30c8 \u30a4\u30fc\u30d2\u3099\u30eb \u30aa\u30ea\u30b7\u3099\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3m8wYZlMQFhK0EN83sT31Z"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        },
+        {
+          "name": "Jordan Reyne",
+          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/1eQnarwSdvJGsOxFuM0FlT"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        },
+        {
+          "name": "Jordan Reyne",
+          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 164640,
+      "name": "Gouki Stage -KILLING MOON-",
+      "url": "https://open.spotify.com/track/0MGFdCAxtdgIZGLWMLZNwM"
+    },
+    {
+      "album": {
+        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
+        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102607,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
+    },
+    {
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/4WTdDF76GR9BZtLwawzNpv"
+    },
+    {
+      "album": {
+        "name": "Super Street Fighter II Turbo Original Soundtrack",
+        "url": "https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "Guile's Theme",
+      "url": "https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcII X \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1ip0gIZOHhYVSkB1ZHY00Y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 223560,
+      "name": "Guile's Theme",
+      "url": "https://open.spotify.com/track/7M6nNNNY64iudc2TDijFpv"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries",
+      "url": "https://open.spotify.com/track/1IzXLyd1gOY7W9ElazmSBv"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 6 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries",
+      "url": "https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 6 Best Track Collection",
+        "url": "https://open.spotify.com/album/3l3ZLr1h9lgLdqnoguFYsK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries",
+      "url": "https://open.spotify.com/track/3Qv0epoiafKh9cDZd8j6MU"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 319266,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/6VmQSdojDREn8X0MKEyeSF"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "Main Theme - Stars At Our Backs",
+      "url": "https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev"
+    },
+    {
+      "album": {
+        "name": "We are ROCK-MEN!2",
+        "url": "https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg"
+      },
+      "artists": [
+        {
+          "name": "ROCK-MEN",
+          "url": "https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Mega Man 2 / Dr. Wily Stage 1",
+      "url": "https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/29QKto9Azhp4txmsaboUJo"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD RE:3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6wf7eSMk9RP0N6INTsqFBk"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/4xR21euPJmKfGxcrsqrmFc"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X2 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 84560,
+      "name": "OPENING STAGE",
+      "url": "https://open.spotify.com/track/0OydaN9DZHmNhmm1eZOaeY"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 100053,
+      "name": "OPENING STAGE",
+      "url": "https://open.spotify.com/track/3Vu1CKWq6iQIlu4hOo1bil"
+    },
+    {
+      "album": {
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95040,
+      "name": "OPENING STAGE",
+      "url": "https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
+      },
+      "artists": [
+        {
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95040,
+      "name": "OPENING STAGE",
+      "url": "https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X4 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5AAhhtbGdATLsDxEHSwLEe"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 122493,
+      "name": "OPENING STAGE X",
+      "url": "https://open.spotify.com/track/4Y9GXg4Pb12oyhWcyVL67w"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 60586,
+      "name": "Opening(\u30d1\u30ef\u30fc\u30c9\u30ae\u30a2\u3088\u308a)",
+      "url": "https://open.spotify.com/track/5SgC1qbSdw6d5AgNyU31dw"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 53800,
+      "name": "OPENING(\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30a4\u30c8\u3088\u308a)",
+      "url": "https://open.spotify.com/track/39eWUUEAZcv6T02LIlUy3N"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X7 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5HepA9JwnXBdIYAp1RdCPW"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        {
+          "name": "Value Wave",
+          "url": "https://open.spotify.com/artist/4jt2AZqUeSdf3rRYt6Opm0"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 160240,
+      "name": "Our Blood Boils\u301cvs Sigma 1st",
+      "url": "https://open.spotify.com/track/4fgJndAOaDNpudjcjtVO7J"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f34 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5gx9CEk3eyKFgpd8lV0Lym"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 86733,
+      "name": "PHARAOH MAN STAGE",
+      "url": "https://open.spotify.com/track/2F49A3jr0WugCAn0CnWKWV"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141373,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1lsZvldTwsK33yWBcgSgsD"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141373,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1qxpKgPsS1is1o4Ha15VfH"
+    },
+    {
+      "album": {
+        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
+        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102588,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0JlP84Pd4ryi8pbka1hllA"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 233053,
+      "name": "Revelations - Full Ver.",
+      "url": "https://open.spotify.com/track/0jSh6C7iWAkdB3ldXDh9Qf"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233053,
+      "name": "Revelations - Full Ver.",
+      "url": "https://open.spotify.com/track/3VrG6emqGpWZUzx8tGQfMI"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM"
+    },
+    {
+      "album": {
+        "name": "Okami Original Soundtrack (Vol. 4)",
+        "url": "https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342120,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4yB3Ljw5lrhqmAISGaNPsd"
+    },
+    {
+      "album": {
+        "name": "We are ROCK-MEN!2",
+        "url": "https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G"
+      },
+      "artists": [
+        {
+          "name": "ROCK-MEN",
+          "url": "https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233826,
+      "name": "ROCKMAN2/Dr. WILY STAGE 1 - OMEGAMAN MIX",
+      "url": "https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/1F6EOzOlqnV7k7c4qQFvDc"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30d7\u30c1\u30e5\u30fc\u30f3",
+          "url": "https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247275,
+      "name": "Running Through The Cyber World - CAP-JAMS ver.",
+      "url": "https://open.spotify.com/track/78mZSjQnanUOHxMCdth4hX"
+    },
+    {
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/31hNCIMIio8mB9c9yOGFKJ"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30d7\u30c1\u30e5\u30fc\u30f3",
+          "url": "https://open.spotify.com/artist/48zP0iCHYhRzrjlB2QbwJR"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247275,
+      "name": "Running Through The Cyber World - \u30ab\u30d7\u30c1\u30e5\u30fc\u30f3 ver.",
+      "url": "https://open.spotify.com/track/3P6oQWmXoqBLmsCWHl31mC"
+    },
+    {
+      "album": {
+        "name": "Ryu's Theme (The Moe\u2019s Pizzeria Steve Aoki Remix)",
+        "url": "https://open.spotify.com/album/7jwd71HeseQVzYyJ4WiEev"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 234857,
+      "name": "Ryu's Theme - The Moe\u2019s Pizzeria Steve Aoki Remix",
+      "url": "https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30a8\u30af\u30b9\u30d1\u30f3\u30b7\u30e7\u30f3 \u30c8\u30e9\u30c3\u30af\u30b9 2",
+        "url": "https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108160,
+      "name": "Ryu's Theme -The Fist That Knows No End-",
+      "url": "https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        },
+        {
+          "name": "Shim",
+          "url": "https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        },
+        {
+          "name": "Shim",
+          "url": "https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258750,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew JohnsonShim",
+          "url": "https://open.spotify.com/artist/2BlLyiVSZagwGmH7Po9mz9"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259726,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2Y5YohrT82M40vLuT6ZgAi"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/6sUas8j0HCdY3w3an18ijh"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2CvZvoryzjulwuE8QFBNkC"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 56733,
+      "name": "Secure Place",
+      "url": "https://open.spotify.com/track/5QThTYJveDHE40f4zODdyo"
+    },
+    {
+      "album": {
+        "name": "SENGOKU BASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117460,
+      "name": "SENGOKU BASARA",
+      "url": "https://open.spotify.com/track/32NJz13iQTkQaPIWaGjSd6"
+    },
+    {
+      "album": {
+        "name": "\u6226\u56fdBASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117460,
+      "name": "SENGOKU BASARA",
+      "url": "https://open.spotify.com/track/5nMWMpnE0lTGhm88MDc0Gk"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c94 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1J7UrlOUQT7ugrdPNFxRfN"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3yJWJiofNlTzZkUSqcRzDO"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298106,
+      "name": "Shall Never Surrender (End Credits)",
+      "url": "https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 298106,
+      "name": "Shall Never Surrender (\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
+      "url": "https://open.spotify.com/track/28V8E51oYwpyocyUsqr63y"
+    },
+    {
+      "album": {
+        "name": "SHINSEKAI Into the Depths Hidden Tracks",
+        "url": "https://open.spotify.com/album/4J34Ttmtw29MOBVMdNgRM0"
+      },
+      "artists": [
+        {
+          "name": "Chikara Aoshima",
+          "url": "https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253044,
+      "name": "Shinsekai",
+      "url": "https://open.spotify.com/track/0uUyffcPYS5HGkQrOK9TpJ"
+    },
+    {
+      "album": {
+        "name": "\u6df1\u4e16\u6d77 Into the Depths Hidden Tracks",
+        "url": "https://open.spotify.com/album/59rgd3dLtg9YLDBBjGDO3F"
+      },
+      "artists": [
+        {
+          "name": "Chikara Aoshima",
+          "url": "https://open.spotify.com/artist/5PT7zMXQaj5nipuNJ0Zfvx"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253044,
+      "name": "Shinsekai",
+      "url": "https://open.spotify.com/track/3qtJwRxouqm1kQD9UWsNvS"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER RISE Extra Tracks",
+        "url": "https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf"
+      },
+      "artists": [
+        {
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243243,
+      "name": "Silver-winged Star - Valstrax",
+      "url": "https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f34 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5gx9CEk3eyKFgpd8lV0Lym"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 106973,
+      "name": "SKULL MAN STAGE",
+      "url": "https://open.spotify.com/track/6kpUnVCRsIPUFIte2EZIoa"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f33 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 93226,
+      "name": "SNAKE MAN STAGE",
+      "url": "https://open.spotify.com/track/7AMjlGoq4RVYxntp8I7VKE"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f33 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 76946,
+      "name": "SPARK MAN STAGE",
+      "url": "https://open.spotify.com/track/7dxOZpYoM12OmJD1Oi6gWV"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 113906,
+      "name": "SPARK MANDRILLER STAGE",
+      "url": "https://open.spotify.com/track/4vGhjzXArH20zAY3FcpSFj"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30b9\u30da\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7n9RHbGS7yppozv4MCa0qZ"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/1lmLc4iLgLIZ4MwQBTwXJq"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD RE:3 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6wf7eSMk9RP0N6INTsqFBk"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/4eVl95uA3zf4sWLzIxze7B"
+    },
+    {
+      "album": {
+        "name": "E.X.TROOPERS - The Bounded Soundtrack",
+        "url": "https://open.spotify.com/album/0zalkbB0H0oVc92eLygOEU"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 238080,
+      "name": "Starry Conversation - Bunny mix",
+      "url": "https://open.spotify.com/track/3MjA6vR2aT6R5kvHcO2aTB"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 173000,
+      "name": "T-B",
+      "url": "https://open.spotify.com/track/6GWX6FRxeui0pIcfMFsUCU"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 249333,
+      "name": "TeenageBlues",
+      "url": "https://open.spotify.com/track/6UXsvQPymtQBhc4q83fT3O"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcZERO3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0o6BAO4s7aNWoEC5A0iSPX"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199440,
+      "name": "The road-Theme of RYU Type. 1-",
+      "url": "https://open.spotify.com/track/2mLFRLc8X0GDQBRauy6Aek"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 231213,
+      "name": "The Time Has Come (\u30cd\u30ed\u6c4e\u7528\u6226\u95d8)",
+      "url": "https://open.spotify.com/track/2FjUhBAx6KBOZGvIdNrWZE"
+    },
+    {
+      "album": {
+        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (\u30a2\u30fc\u30b1\u30fc\u30c9\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcV \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1F9WH2nUwxVw36lFSd1ubA"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 184600,
+      "name": "Theme of Ken",
+      "url": "https://open.spotify.com/track/7usj87tZmaPwgYm7EmJPgr"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3\u30a8\u30b0\u30bc \u30b5\u30a6\u30f3\u30c9BOX",
+        "url": "https://open.spotify.com/album/55R4Hte8N3sbHby8G5QF5g"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 56760,
+      "name": "THEME OF ROCKMAN EXE",
+      "url": "https://open.spotify.com/track/6iWCNFuTua5qDhJRg1rWqL"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIV\u30b7\u30ea\u30fc\u30ba \u30b5\u30a6\u30f3\u30c9BOX",
+        "url": "https://open.spotify.com/album/1DRWIHpmCo3H13NddOTAZu"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "Theme of Ryu -SFIV Arrange-",
+      "url": "https://open.spotify.com/track/4uOVEIuJohifTMgFicMUPq"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 276626,
+      "name": "Third Strike",
+      "url": "https://open.spotify.com/track/2RAVf4xg3WfqGJZlpIJ14h"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f33 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5sUQxCgq7PCUOGcxLnoGIE"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 90360,
+      "name": "TITLE",
+      "url": "https://open.spotify.com/track/34ZT2ocZtH6OBTyoU7DsWF"
+    },
+    {
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 79960,
+      "name": "Total Result",
+      "url": "https://open.spotify.com/track/4o62B2S9hKbrNPM1Q8mlMJ"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79960,
+      "name": "Total Result (\u30c8\u30fc\u30bf\u30eb\u30ea\u30b6\u30eb\u30c8)",
+      "url": "https://open.spotify.com/track/6kJBsw2xn3g1uRlPKGcbob"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 201133,
+      "name": "ULTRA VIOLET(\u30cd\u30ed \u30a2\u30f3\u30b8\u30a7\u30ed\u6226)",
+      "url": "https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X8 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6xLS6m4VKzxuXkU2DR6pb0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        {
+          "name": "Value Wave",
+          "url": "https://open.spotify.com/artist/4jt2AZqUeSdf3rRYt6Opm0"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 175480,
+      "name": "VS 8Boss",
+      "url": "https://open.spotify.com/track/3kaWVbWp2nZlBgyqF3b0hs"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f35 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5IqjF76I6SpCv2pigjcFxE"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-02",
+      "duration_ms": 128320,
+      "name": "WAVE MAN STAGE",
+      "url": "https://open.spotify.com/track/7dYZ0TSt7y4dxyVFQAKufF"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f32 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/7b6GOY3lEu2o9mxnkMhhEr"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 84906,
+      "name": "WOODMAN STAGE",
+      "url": "https://open.spotify.com/track/1nP64RBhdx7UjDVkdC8Iwv"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X5 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp"
+      },
+      "artists": [
+        {
+          "name": "Naoto Tanaka",
+          "url": "https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163466,
+      "name": "X vs ZERO",
+      "url": "https://open.spotify.com/track/3teAU91RucnMgiFsh0JkhE"
+    },
+    {
+      "album": {
+        "name": "MEGA MAN X5 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/1ICLroyqx3t6PnTKlW1ejh"
+      },
+      "artists": [
+        {
+          "name": "Naoto Tanaka",
+          "url": "https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "X vs ZERO",
+      "url": "https://open.spotify.com/track/5DmiafSW6i4jp0sJ9z95qW"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171065,
+      "name": "X4 - BOSS",
+      "url": "https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU"
+    },
+    {
+      "album": {
+        "name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3tD6VBpy9e1p7hYJob5OvP"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171065,
+      "name": "X4 - BOSS",
+      "url": "https://open.spotify.com/track/6UDrl7GL31sroGclleWa3H"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f36 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3q7opyLzWakfx4pigOHhaY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 112746,
+      "name": "YAMATOMAN STAGE",
+      "url": "https://open.spotify.com/track/3ndAwDoPGrhojZBzTgF5Is"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362733,
+      "name": "Yearning for Dark Shadows",
+      "url": "https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 362733,
+      "name": "Yearning for Dark Shadows",
+      "url": "https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X2 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6q0x5ZP2RGnXcmO1jnjM89"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 39040,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/5heDzCXzcfLyhap5kCGvHz"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3 \u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx"
+      },
+      "artists": [
+        {
+          "name": "\u30d9\u30a4\u30b7\u30b9\u30b1\u30a4\u30d7",
+          "url": "https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30a2\u30f3\u30b3\u30fc\u30eb (\u30ed\u30c3\u30af\u30de\u30f32\u30e1\u30c9\u30ec\u30fc)",
+      "url": "https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 47293,
+      "name": "\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0(\u30d0\u30c8\u30eb\u30b5\u30fc\u30ad\u30c3\u30c8\u3088\u308a)",
+      "url": "https://open.spotify.com/track/4spidUNphW0GWLmOK3jFww"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30e9\u30a4\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/0Hauy4jhJN5PnC9mDyEuVr"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 242083,
+      "name": "\u30ab\u30e0\u30e9\u7953\u3048\u6b4c",
+      "url": "https://open.spotify.com/track/1UjOE6ihgAsc5LxzxRFVxE"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 329560,
+      "name": "\u30b9\u30c6\u30fc\u30b81\u30e1\u30c9\u30ec\u30fc(\u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc\u3088\u308a)",
+      "url": "https://open.spotify.com/track/5bieJsi9g63XPxXGZsdsh8"
+    },
+    {
+      "album": {
+        "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102588,
+      "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/5gvSlUXAeLekdqvUv1Zw7x"
+    },
+    {
+      "album": {
+        "name": "\u6226\u56fdBASARA 15th Anniversary BEST",
+        "url": "https://open.spotify.com/album/7JwD74wMg2XqFigwPE9ju5"
+      },
+      "artists": [
+        {
+          "name": "CHAMY.Ishi",
+          "url": "https://open.spotify.com/artist/48lrIJjD2wl3uoNBbFOlsw"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107752,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/4BBVB1w8MVktJAcjKYAYRC"
+    },
+    {
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109706,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
+    },
+    {
+      "album": {
+        "name": "\u5e30\u3063\u3066\u304d\u305f \u9b54\u754c\u6751 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 102607,
+      "name": "\u5893\u5834",
+      "url": "https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn"
+    },
+    {
+      "album": {
+        "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
+        "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129946,
+      "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
+      "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
+    },
+    {
+      "album": {
+        "name": "\u5927\u795e \u97f3\u8abf(\u3057\u3089\u3079)\u306e\u5dfb [\u56db]",
+        "url": "https://open.spotify.com/album/44egYoICIMQdGRkkACFuhP"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 342120,
+      "name": "\u592a\u967d\u306f\u6607\u308b",
+      "url": "https://open.spotify.com/track/16v8Prn0jyUJ93oQ5TWHQx"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 76880,
+      "name": "\u5e73\u5730BGM(\u9b54\u754c\u6751\u3088\u308a)",
+      "url": "https://open.spotify.com/track/67gWigF2vBZIazgz99vKKC"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30ec\u30b9 \u30aa\u30d6 \u30d5\u30a1\u30a4\u30a2 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3sVkuulTWK5S5HGeYX6t6f"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-30",
+      "duration_ms": 86333,
+      "name": "\u621f\u6226",
+      "url": "https://open.spotify.com/track/7MtJJ4qGPZrWVDZEGrzSWQ"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271520,
+      "name": "\u661f\u306b\u99c6\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334800,
+      "name": "\u66b4\u7802\u306e\u5de8\u57ce/\u30aa\u30c7\u30a3\u30d0\u30c8\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/1Tc7rnUznYbFfyGZOPVnLJ"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc3 (tri-) \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/34a2F897NiFXJry79ahuz3"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 189760,
+      "name": "\u751f\u547d\u3042\u308b\u8005\u3078",
+      "url": "https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30e9\u30a4\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Ktf5vRcVR04E4Ojl5dQmc"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254266,
+      "name": "\u7802\u5875\u304d\u3089\u3081\u304f\u3001\u8352\u6f20\u306e\u5730",
+      "url": "https://open.spotify.com/track/57VyMwroJMq4lmPlOXp8HA"
+    },
+    {
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6 ~3\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30c8\u30e9\u30c3\u30af~",
+        "url": "https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257866,
+      "name": "\u82f1\u96c4\u306e\u8a3c",
+      "url": "https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30c0\u30d6\u30eb\u30af\u30ed\u30b9 \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3(CV:\u4e0a\u7530\u9e97\u5948&\u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243731,
+      "name": "\u82f1\u96c4\u306e\u8a3c \u301c \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC"
+    },
+    {
+      "album": {
+        "name": "E.X.TROOPERS - The Bounded Soundtrack",
+        "url": "https://open.spotify.com/album/0zalkbB0H0oVc92eLygOEU"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 243880,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/77XwlP0iitUzb7fxWg2Fq0"
+    },
+    {
+      "album": {
+        "name": "E.X.TROOPERS - END OF CONVERSATION",
+        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        },
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298874,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
+      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
+    },
+    {
+      "album": {
+        "name": "\u5927\u9006\u8ee2\u88c1\u5224 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u5192\u96aa- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
+        "url": "https://open.spotify.com/album/2CmR5MR5IMs14hEE50YbVH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 191893,
+      "name": "\u8ffd\u6c42 \u301c\u5927\u9006\u8ee2\u306e\u3068\u304d",
+      "url": "https://open.spotify.com/track/6p3BMNKh2EjgQ0lRUCvfJf"
+    },
+    {
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u52244 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3haM8GP0d5GVapGEwxyH2O"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 109000,
+      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u306a\u3044\u3068",
+      "url": "https://open.spotify.com/track/0RFqcEz2UQkBccRilC278S"
+    },
+    {
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96360,
+      "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u3089\u308c\u3066",
+      "url": "https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe"
+    },
+    {
+      "album": {
+        "name": "\u9006\u8ee2\u691c\u4e8b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB"
+      },
+      "artists": [
+        {
+          "name": "\u5ca9\u5782\u5fb3\u884c",
+          "url": "https://open.spotify.com/artist/00mQlPRw20tGWmJeEivmge"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "\u8ffd\u7a76 \u301c\u3064\u304d\u3068\u3081\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/4FkebXPfFd7uAm919xwFCC"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
+        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+      },
+      "artists": [
+        {
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
+      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER RISE Extra Tracks",
+        "url": "https://open.spotify.com/album/2g234Htpvky7Ix919DGik6"
+      },
+      "artists": [
+        {
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243243,
+      "name": "\u9280\u7ffc\u306e\u51f6\u661f/\u30cf\u3099\u30eb\u30d5\u30a1\u30eb\u30af - Rise ver.",
+      "url": "https://open.spotify.com/track/56eXeZWgCsXO5a3CMoz2Bd"
+    },
+    {
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "\u9577\u66fe\u6211\u90e8\u5143\u89aa\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6III \u301c\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30dd\u30fc\u30bf\u30d6\u30eb 3rd&\u30ec\u30a2\u30c8\u30e9\u30c3\u30af\u301c",
+        "url": "https://open.spotify.com/album/2plfcB6X4MfuNqmFohiK2t"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167866,
+      "name": "\u9583\u70c8\u306a\u308b\u84bc\u5149/\u30b8\u30f3\u30aa\u30a6\u30ac",
+      "url": "https://open.spotify.com/track/02PIKRaYBRtfJ2s7LBbBCj"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-19",
+      "duration_ms": 197560,
+      "name": "\u95c7\u306b\u8d70\u308b\u8d64\u3044\u6b8b\u5149/\u30ca\u30eb\u30ac\u30af\u30eb\u30ac",
+      "url": "https://open.spotify.com/track/5ZFEMPh09nJahnGGircwvz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6CfJlSXEcCA"
 }

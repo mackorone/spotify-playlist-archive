@@ -4,13 +4,13 @@
 
 > You know what time it is.
 
-160 songs - 9 hr 43 min
+161 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5](https://open.spotify.com/track/0qPD4rxBqAzvD2rlQXiPaz) | [Ultraspank](https://open.spotify.com/artist/1CxpnYE5gYbAXaWVDnCTGe) | [ULTRASPANK](https://open.spotify.com/album/5OwFy8byAxCJNEZK5ktQBK) | 4:55 | 2022-04-17 | 2022-04-21 |
 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 | 2022-04-17 |  |
-| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2021-09-06 | 2024-01-02 |
+| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2021-09-06 |  |
 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 | 2021-09-06 | 2022-11-02 |
 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 | 2021-09-06 |  |
 | [Apossibly](https://open.spotify.com/track/6dWScesDDNfP3SgJycMxnu) | [The Apex Theory](https://open.spotify.com/artist/23GI7DP5IX2V0BABhOMXgw) | [Topsy\-Turvy](https://open.spotify.com/album/54v36g1GXO8qt6sMYDshH2) | 4:14 | 2022-04-17 | 2022-07-22 |
@@ -72,7 +72,7 @@
 | [Get Up Again](https://open.spotify.com/track/3tpFewlKhFoWp46WUVAuth) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes \(Explicit Version\)](https://open.spotify.com/album/72wOWW1ayFNvYwSC555L6b) | 2:56 | 2021-09-06 | 2022-07-29 |
 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 | 2022-06-18 |  |
 | [Give Me More](https://open.spotify.com/track/0HSEyJt38uoyVJiQHTmIrV) | [Apartment 26](https://open.spotify.com/artist/2IrsNu3Xt4kwhTikS8xLdn) | [Music For The Massive](https://open.spotify.com/album/0fVbIR8Y2jrOEa8lpWoc9C) | 3:41 | 2022-04-17 | 2022-04-29 |
-| [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 | 2021-09-06 |  |
+| [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 | 2021-09-06 | 2024-01-05 |
 | [Going Under](https://open.spotify.com/track/07EeNeSCYJajyJW5U7Q3Wd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:34 | 2021-09-06 | 2022-07-27 |
 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 | 2022-06-18 |  |
 | [Going Under](https://open.spotify.com/track/6bAzbrcPCpUjqZclPpssGv) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Break Stuff](https://open.spotify.com/album/5jEBpbz4KEOTTJy90tsuNC) | 3:34 | 2022-11-03 | 2022-11-13 |
@@ -82,7 +82,7 @@
 | [Headup](https://open.spotify.com/track/4dfvPFbLEa6JzZV4dZTWt7) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 6:12 | 2022-09-26 | 2022-11-02 |
 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 | 2022-11-01 |  |
 | [How Can I Live](https://open.spotify.com/track/3H7IV0Aps0rHpqJXQYe5Ma) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \(Explicit Version\)](https://open.spotify.com/album/55swKTEIYvcbpFAAFmHtVk) | 3:16 | 2021-09-06 | 2022-07-29 |
-| [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 | 2023-05-16 | 2023-06-13 |
+| [How Can I Live](https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \[Special Edition\]](https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md) | 3:16 | 2023-05-16 | 2024-01-16 |
 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 | 2021-09-06 |  |
 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 | 2021-09-06 |  |
 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 | 2022-06-18 |  |
@@ -142,6 +142,7 @@
 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 | 2021-09-06 | 2022-12-27 |
 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 | 2021-09-06 |  |
 | [Spit](https://open.spotify.com/track/4DSAxhyfL8uZYTbRNsSHMU) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 2:22 | 2022-04-17 | 2023-12-24 |
+| [Spit](https://open.spotify.com/track/6zd772F94reUnGHulNeEFm) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:22 | 2023-05-16 |  |
 | [Stitches](https://open.spotify.com/track/5Y76U25W2UAZF9AwfrFAoJ) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 3:18 | 2023-05-16 | 2023-12-26 |
 | [Stoopid](https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:52 | 2022-04-17 | 2022-11-13 |
 | [Stupid Girl](https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:09 | 2022-04-17 |  |
@@ -159,7 +160,7 @@
 | [Thumper](https://open.spotify.com/track/5UxmJ9bBeGRFhZsItTkoTL) | [Raging Speedhorn](https://open.spotify.com/artist/3D3G4JAVp6JQVEKjUaaSxA) | [Raging Speedhorn](https://open.spotify.com/album/5oDEwZgZZaeFXAQvN5L4ID) | 2:36 | 2022-04-17 | 2022-04-20 |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2021-09-06 |  |
 | [Ty Jonathan Down](https://open.spotify.com/track/5O9OjIL1D7akvZ91VT7VPH) | [Videodrone](https://open.spotify.com/artist/7hl6MPeP2VSGIbJY6lpml0), [David Kahne](https://open.spotify.com/artist/6G0eM0JfYIbNAdp9YPykhr) | [Videodrone](https://open.spotify.com/album/6RBKITC2WoADf4ZtGV3TSO) | 4:21 | 2022-04-17 | 2022-04-21 |
-| [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 | 2023-02-27 |  |
+| [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 | 2023-02-27 | 2024-01-09 |
 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 | 2021-09-06 |  |
 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 | 2021-09-06 |  |
 | [What I've Done](https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:25 | 2022-11-01 |  |

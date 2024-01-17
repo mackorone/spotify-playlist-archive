@@ -4,7 +4,7 @@
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-111 songs - 5 hr 33 min
+112 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/3jcQdzXtzd6jnjRny2Ez6b) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:29 | 2021-09-30 |  |
 | [Noche de Paz](https://open.spotify.com/track/4vXIURwQBFySPTnpG5ptC5) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:27 | 2021-09-30 |  |
 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 | 2021-09-30 |  |
-| [Paseo en Trineo](https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm) | 2:40 | 2021-09-30 |  |
+| [Paseo en Trineo](https://open.spotify.com/track/5ItdwQk3SqGcnyJkShiz3X) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/4SRHTrhoMQlcDKupWrY0Mp) | 2:40 | 2021-09-30 |  |
+| [Paseo en Trineo](https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm) | 2:40 | 2021-09-30 | 2024-01-14 |
 | [Popurrí Navidad Navidad: Campana sobre campana / 25 de diciembre / Alegría, alegría, alegría](https://open.spotify.com/track/1nfVZlCXedFCGDOgbvarsS) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 3:57 | 2021-09-30 |  |
 | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/track/37v1NJA31wR0vVL0LGhKnG) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Que Tu Navidad Sea Incomparable](https://open.spotify.com/album/5BRZ2GOlKwCiaWTQ6rUZHf) | 2:41 | 2021-09-30 |  |
 | [Regalo de Navidad](https://open.spotify.com/track/30o450nKpNYOj7zraCkkIg) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG) | [Regalo de Navidad](https://open.spotify.com/album/4IBxAgP6UU3aIgQkGV2s9V) | 3:26 | 2021-09-30 |  |

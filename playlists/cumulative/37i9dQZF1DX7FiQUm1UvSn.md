@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-129 songs - 6 hr 52 min
+131 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 | 2023-11-24 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-01-13 |  |
 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 | 2023-01-13 |  |
+| [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 | 2024-01-12 |  |
 | [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2023-01-13 | 2023-09-08 |
 | [Only Wanna Be With You](https://open.spotify.com/track/6fsm1K4sCxPSp1YqQWKAQe) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Only Wanna Be With You](https://open.spotify.com/album/3vqYbaz02htSWXaRqNWvBQ) | 2:52 | 2023-01-13 | 2023-10-27 |
 | [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2023-01-13 |  |
@@ -115,6 +116,7 @@
 | [She Will Be Loved \- Acoustic](https://open.spotify.com/track/6iRI1Fgj3gdzilONqNlV4d) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [She Will Be Loved \- Acoustic](https://open.spotify.com/album/0I59G35Q1DVjkM47dcXOuG) | 4:18 | 2023-03-10 |  |
 | [Someone I Used To Know](https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Someone I Used To Know](https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR) | 2:21 | 2023-05-12 | 2023-10-27 |
 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 | 2023-01-13 |  |
+| [Stay](https://open.spotify.com/track/0s9e0j3kCt5Ofmm5LmJEl9) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Stay](https://open.spotify.com/album/41xT4BqzV4UUH2V9T8dAT5) | 3:46 | 2024-01-12 |  |
 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2023-01-13 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2023-01-13 | 2023-09-02 |
 | [Stop Calling Me \(Acoustic\)](https://open.spotify.com/track/37LuQXfIG7zM1Khf880KoV) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Stop Calling Me \(Acoustic\)](https://open.spotify.com/album/6WvuOSA21xZ4BYPl1esySV) | 3:03 | 2023-05-12 |  |

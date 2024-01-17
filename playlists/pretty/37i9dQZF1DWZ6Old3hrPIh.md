@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,317 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,488 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

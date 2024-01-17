@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,668 likes - 23 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 23 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,22 +14,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 4 | [New Kid](https://open.spotify.com/track/1dytArzS7Ub5ULYgQb6o8B) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Falling Into Place](https://open.spotify.com/album/1ZrlxMP6ED5663411mFRay) | 5:34 |
 | 5 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 6 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 |
-| 7 | [Back To Oblivion](https://open.spotify.com/track/6lmViGkDC9BbmBb5l856fl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:23 |
+| 7 | [Play Dead](https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 5:21 |
 | 8 | [Worms Of The Earth \- Live](https://open.spotify.com/track/63FbVZGQ6pbUnoa6s3oVP7) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn \- X](https://open.spotify.com/album/4ALniGhYDI8jEtn6IGgcae) | 3:45 |
 | 9 | [Post Script](https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:49 |
 | 10 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 |
-| 11 | [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 |
+| 11 | [Back To Oblivion](https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:23 |
 | 12 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 |
-| 13 | [Perfection Through Silence](https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:09 |
+| 13 | [Stay With Me](https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:02 |
 | 14 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 |
-| 15 | [Play Dead](https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 5:21 |
+| 15 | [Murder Me](https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:11 |
 | 16 | [Spanish Fly \(Bonus Track\)](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
-| 17 | [Stay With Me](https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:02 |
+| 17 | [Perfection Through Silence](https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:09 |
 | 18 | [Insomniatic Meat](https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:24 |
-| 19 | [Further From The Few](https://open.spotify.com/track/0qzSw9fY5VVZdlEeaP3wbw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:31 |
+| 19 | [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 |
 | 20 | [Pre World \- Main Floor House Mix](https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6) | [Ralphie](https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz), [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Love My Vol.9](https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh) | 5:45 |
 | 21 | [Grey Matter](https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:39 |
 | 22 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 |
-| 23 | [Murder Me](https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:11 |
+| 23 | [Two Guns To The Temple](https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 2:53 |
 
-Snapshot ID: `Mjg0MDMyOTUsMDAwMDAwMDAyNDUwMGJmMjczNWViY2ZhNTBiNzA5OWZkYmMzNTQ0OA==`
+Snapshot ID: `Mjg0MjM0NTAsMDAwMDAwMDBlYzE0ZmY4ODNiYTBkMDA1NWUwMjI4YTAxNWZjMDk4Nw==`

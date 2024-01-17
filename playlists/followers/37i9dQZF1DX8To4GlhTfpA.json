@@ -1,580 +1,2371 @@
 {
-  "2022-05-30": 187918,
-  "2022-05-31": 187980,
-  "2022-06-01": 188069,
-  "2022-06-02": 188066,
-  "2022-06-03": 188106,
-  "2022-06-04": 188140,
-  "2022-06-05": 188185,
-  "2022-06-06": 188221,
-  "2022-06-07": 188246,
-  "2022-06-08": 188299,
-  "2022-06-09": 188339,
-  "2022-06-10": 188386,
-  "2022-06-11": 188420,
-  "2022-06-12": 188425,
-  "2022-06-13": 188453,
-  "2022-06-14": 188471,
-  "2022-06-15": 188512,
-  "2022-06-16": 188553,
-  "2022-06-17": 188591,
-  "2022-06-18": 188643,
-  "2022-06-19": 188719,
-  "2022-06-20": 188719,
-  "2022-06-21": 188751,
-  "2022-06-22": 188840,
-  "2022-06-23": 188840,
-  "2022-06-24": 188871,
-  "2022-06-25": 188900,
-  "2022-06-26": 188941,
-  "2022-06-27": 188985,
-  "2022-06-28": 189026,
-  "2022-06-29": 189063,
-  "2022-06-30": 189086,
-  "2022-07-01": 189128,
-  "2022-07-02": 189163,
-  "2022-07-03": 189198,
-  "2022-07-04": 189230,
-  "2022-07-05": 189288,
-  "2022-07-06": 189318,
-  "2022-07-07": 189361,
-  "2022-07-08": 189386,
-  "2022-07-09": 189414,
-  "2022-07-10": 189447,
-  "2022-07-11": 189477,
-  "2022-07-12": 189529,
-  "2022-07-13": 189576,
-  "2022-07-14": 189618,
-  "2022-07-15": 189662,
-  "2022-07-16": 189695,
-  "2022-07-17": 189733,
-  "2022-07-18": 189789,
-  "2022-07-19": 189836,
-  "2022-07-20": 189888,
-  "2022-07-21": 189912,
-  "2022-07-22": 189945,
-  "2022-07-23": 189981,
-  "2022-07-24": 190020,
-  "2022-07-25": 190068,
-  "2022-07-26": 190092,
-  "2022-07-27": 190122,
-  "2022-07-28": 190156,
-  "2022-07-29": 190194,
-  "2022-07-30": 190275,
-  "2022-07-31": 190275,
-  "2022-08-01": 190307,
-  "2022-08-02": 190361,
-  "2022-08-03": 190361,
-  "2022-08-04": 190390,
-  "2022-08-05": 190445,
-  "2022-08-06": 190506,
-  "2022-08-07": 190553,
-  "2022-08-08": 190613,
-  "2022-08-09": 190649,
-  "2022-08-10": 190693,
-  "2022-08-11": 190716,
-  "2022-08-12": 190765,
-  "2022-08-13": 190821,
-  "2022-08-14": 190848,
-  "2022-08-15": 190904,
-  "2022-08-16": 190953,
-  "2022-08-17": 190981,
-  "2022-08-18": 190999,
-  "2022-08-19": 191052,
-  "2022-08-20": 191104,
-  "2022-08-21": 191179,
-  "2022-08-22": 191226,
-  "2022-08-23": 191275,
-  "2022-08-24": 191311,
-  "2022-08-25": 191382,
-  "2022-08-26": 191412,
-  "2022-08-27": 191463,
-  "2022-08-28": 191528,
-  "2022-08-29": 191587,
-  "2022-08-30": 191551,
-  "2022-08-31": 191413,
-  "2022-09-01": 191250,
-  "2022-09-02": 191066,
-  "2022-09-03": 190783,
-  "2022-09-04": 190676,
-  "2022-09-05": 190700,
-  "2022-09-06": 190753,
-  "2022-09-07": 190800,
-  "2022-09-09": 190901,
-  "2022-09-10": 190935,
-  "2022-09-11": 190979,
-  "2022-09-12": 191028,
-  "2022-09-13": 191070,
-  "2022-09-15": 191155,
-  "2022-09-16": 191206,
-  "2022-09-17": 191241,
-  "2022-09-18": 191286,
-  "2022-09-19": 191311,
-  "2022-09-20": 191361,
-  "2022-09-21": 191406,
-  "2022-09-22": 191451,
-  "2022-09-23": 191488,
-  "2022-09-24": 191538,
-  "2022-09-25": 191603,
-  "2022-09-26": 191633,
-  "2022-09-27": 191684,
-  "2022-09-28": 191724,
-  "2022-09-29": 191767,
-  "2022-09-30": 191811,
-  "2022-10-01": 191843,
-  "2022-10-02": 191867,
-  "2022-10-03": 191918,
-  "2022-10-04": 191968,
-  "2022-10-05": 192011,
-  "2022-10-06": 192052,
-  "2022-10-07": 192079,
-  "2022-10-08": 192100,
-  "2022-10-09": 192157,
-  "2022-10-10": 192167,
-  "2022-10-11": 192214,
-  "2022-10-12": 192245,
-  "2022-10-13": 192266,
-  "2022-10-14": 192307,
-  "2022-10-15": 192345,
-  "2022-10-16": 192381,
-  "2022-10-17": 192409,
-  "2022-10-18": 192454,
-  "2022-10-19": 192496,
-  "2022-10-20": 192524,
-  "2022-10-21": 192560,
-  "2022-10-22": 192598,
-  "2022-10-23": 192629,
-  "2022-10-24": 192659,
-  "2022-10-25": 192693,
-  "2022-10-26": 192717,
-  "2022-10-27": 192761,
-  "2022-10-28": 192797,
-  "2022-10-29": 192820,
-  "2022-10-30": 192856,
-  "2022-10-31": 192874,
-  "2022-11-01": 192920,
-  "2022-11-02": 192947,
-  "2022-11-03": 192997,
-  "2022-11-04": 193048,
-  "2022-11-05": 193084,
-  "2022-11-06": 193123,
-  "2022-11-07": 193147,
-  "2022-11-08": 193185,
-  "2022-11-09": 193217,
-  "2022-11-10": 193241,
-  "2022-11-11": 193299,
-  "2022-11-12": 193345,
-  "2022-11-13": 193404,
-  "2022-11-14": 193462,
-  "2022-11-15": 193516,
-  "2022-11-16": 193535,
-  "2022-11-17": 193571,
-  "2022-11-18": 193585,
-  "2022-11-19": 193577,
-  "2022-11-20": 193619,
-  "2022-11-21": 193659,
-  "2022-11-22": 193710,
-  "2022-11-23": 193764,
-  "2022-11-24": 193876,
-  "2022-11-25": 193952,
-  "2022-11-26": 193994,
-  "2022-11-27": 194028,
-  "2022-11-28": 194045,
-  "2022-11-29": 194091,
-  "2022-11-30": 194135,
-  "2022-12-01": 194197,
-  "2022-12-02": 194232,
-  "2022-12-03": 194324,
-  "2022-12-04": 194395,
-  "2022-12-05": 194437,
-  "2022-12-06": 194465,
-  "2022-12-07": 194502,
-  "2022-12-08": 194540,
-  "2022-12-09": 194606,
-  "2022-12-10": 194657,
-  "2022-12-11": 194700,
-  "2022-12-12": 194741,
-  "2022-12-13": 194771,
-  "2022-12-14": 194818,
-  "2022-12-15": 194864,
-  "2022-12-16": 194904,
-  "2022-12-17": 194961,
-  "2022-12-18": 195018,
-  "2022-12-19": 195086,
-  "2022-12-20": 195183,
-  "2022-12-21": 195183,
-  "2022-12-22": 195227,
-  "2022-12-24": 195316,
-  "2022-12-25": 195358,
-  "2022-12-26": 195396,
-  "2022-12-27": 195451,
-  "2022-12-28": 195492,
-  "2022-12-29": 195539,
-  "2022-12-30": 195612,
-  "2022-12-31": 195672,
-  "2023-01-01": 195713,
-  "2023-01-02": 195756,
-  "2023-01-03": 195808,
-  "2023-01-04": 195853,
-  "2023-01-05": 195895,
-  "2023-01-06": 195959,
-  "2023-01-07": 196036,
-  "2023-01-08": 196050,
-  "2023-01-09": 196110,
-  "2023-01-10": 196152,
-  "2023-01-11": 196206,
-  "2023-01-12": 196243,
-  "2023-01-13": 196287,
-  "2023-01-14": 196394,
-  "2023-01-15": 196390,
-  "2023-01-16": 196441,
-  "2023-01-17": 196483,
-  "2023-01-18": 196536,
-  "2023-01-19": 196584,
-  "2023-01-20": 196642,
-  "2023-01-21": 196679,
-  "2023-01-22": 196728,
-  "2023-01-23": 196776,
-  "2023-01-24": 196836,
-  "2023-01-25": 196848,
-  "2023-01-26": 196887,
-  "2023-01-27": 196958,
-  "2023-01-28": 197006,
-  "2023-01-29": 197040,
-  "2023-01-30": 197084,
-  "2023-01-31": 197084,
-  "2023-02-01": 197165,
-  "2023-02-02": 197198,
-  "2023-02-03": 197239,
-  "2023-02-04": 197275,
-  "2023-02-05": 197313,
-  "2023-02-06": 197354,
-  "2023-02-07": 197400,
-  "2023-02-08": 197488,
-  "2023-02-09": 197488,
-  "2023-02-10": 197522,
-  "2023-02-11": 197555,
-  "2023-02-12": 197600,
-  "2023-02-13": 197634,
-  "2023-02-14": 197634,
-  "2023-02-15": 197679,
-  "2023-02-16": 197730,
-  "2023-02-17": 197765,
-  "2023-02-18": 197854,
-  "2023-02-19": 197866,
-  "2023-02-20": 197890,
-  "2023-02-21": 197928,
-  "2023-02-22": 197968,
-  "2023-02-23": 198003,
-  "2023-02-24": 198045,
-  "2023-02-25": 198095,
-  "2023-02-26": 198112,
-  "2023-02-27": 198183,
-  "2023-02-28": 198183,
-  "2023-03-01": 198222,
-  "2023-03-02": 198257,
-  "2023-03-03": 198285,
-  "2023-03-04": 198309,
-  "2023-03-05": 198371,
-  "2023-03-06": 198371,
-  "2023-03-07": 198399,
-  "2023-03-08": 198440,
-  "2023-03-09": 198475,
-  "2023-03-10": 198495,
-  "2023-03-11": 198536,
-  "2023-03-12": 198569,
-  "2023-03-13": 198614,
-  "2023-03-14": 198647,
-  "2023-03-15": 198665,
-  "2023-03-16": 198712,
-  "2023-03-17": 198712,
-  "2023-03-18": 198787,
-  "2023-03-19": 198835,
-  "2023-03-20": 198853,
-  "2023-03-21": 198876,
-  "2023-03-22": 198903,
-  "2023-03-23": 198943,
-  "2023-03-24": 198943,
-  "2023-03-25": 199032,
-  "2023-03-26": 199064,
-  "2023-03-27": 199091,
-  "2023-03-28": 199109,
-  "2023-03-29": 199152,
-  "2023-03-30": 199234,
-  "2023-03-31": 199234,
-  "2023-04-01": 199283,
-  "2023-04-02": 199308,
-  "2023-04-03": 199330,
-  "2023-04-04": 199375,
-  "2023-04-05": 199409,
-  "2023-04-06": 199461,
-  "2023-04-07": 199495,
-  "2023-04-09": 199559,
-  "2023-04-10": 199604,
-  "2023-04-11": 199658,
-  "2023-04-12": 199658,
-  "2023-04-13": 199714,
-  "2023-04-14": 199736,
-  "2023-04-15": 199786,
-  "2023-04-16": 199831,
-  "2023-04-17": 199863,
-  "2023-04-18": 199906,
-  "2023-04-19": 199946,
-  "2023-04-20": 199999,
-  "2023-04-21": 200070,
-  "2023-04-22": 200135,
-  "2023-04-23": 200187,
-  "2023-04-24": 200233,
-  "2023-04-25": 200286,
-  "2023-04-26": 200348,
-  "2023-04-27": 200394,
-  "2023-04-28": 200441,
-  "2023-04-29": 200476,
-  "2023-04-30": 200537,
-  "2023-05-01": 200574,
-  "2023-05-02": 200605,
-  "2023-05-03": 200664,
-  "2023-05-04": 200690,
-  "2023-05-05": 200728,
-  "2023-05-06": 200776,
-  "2023-05-07": 200807,
-  "2023-05-08": 200847,
-  "2023-05-09": 200893,
-  "2023-05-10": 200927,
-  "2023-05-11": 200968,
-  "2023-05-12": 200986,
-  "2023-05-13": 201039,
-  "2023-05-14": 201075,
-  "2023-05-15": 201118,
-  "2023-05-16": 201170,
-  "2023-05-17": 201197,
-  "2023-05-18": 201260,
-  "2023-05-19": 201313,
-  "2023-05-20": 201418,
-  "2023-05-21": 201418,
-  "2023-05-22": 201418,
-  "2023-05-23": 201493,
-  "2023-05-24": 201565,
-  "2023-05-25": 201583,
-  "2023-05-26": 201663,
-  "2023-05-27": 201720,
-  "2023-05-28": 201769,
-  "2023-05-29": 201769,
-  "2023-05-30": 201873,
-  "2023-05-31": 201960,
-  "2023-06-01": 202026,
-  "2023-06-02": 202083,
-  "2023-06-03": 202123,
-  "2023-06-04": 202162,
-  "2023-06-05": 202205,
-  "2023-06-06": 202246,
-  "2023-06-07": 202288,
-  "2023-06-08": 202328,
-  "2023-06-09": 202377,
-  "2023-06-10": 202465,
-  "2023-06-11": 202554,
-  "2023-06-12": 202623,
-  "2023-06-13": 202688,
-  "2023-06-14": 202688,
-  "2023-06-15": 202768,
-  "2023-06-16": 202817,
-  "2023-06-17": 202866,
-  "2023-06-18": 202902,
-  "2023-06-19": 202940,
-  "2023-06-20": 202949,
-  "2023-06-21": 202999,
-  "2023-06-22": 203022,
-  "2023-06-23": 203071,
-  "2023-06-24": 203124,
-  "2023-06-25": 203176,
-  "2023-06-26": 203252,
-  "2023-06-27": 203815,
-  "2023-06-28": 204080,
-  "2023-06-29": 204280,
-  "2023-06-30": 204431,
-  "2023-07-01": 204692,
-  "2023-07-02": 204692,
-  "2023-07-03": 204819,
-  "2023-07-04": 204940,
-  "2023-07-05": 205041,
-  "2023-07-06": 205176,
-  "2023-07-07": 205176,
-  "2023-07-08": 205249,
-  "2023-07-09": 205325,
-  "2023-07-10": 205400,
-  "2023-07-11": 205456,
-  "2023-07-12": 205524,
-  "2023-07-13": 205621,
-  "2023-07-14": 205716,
-  "2023-07-15": 205771,
-  "2023-07-16": 205860,
-  "2023-07-17": 205937,
-  "2023-07-18": 206011,
-  "2023-07-19": 206092,
-  "2023-07-20": 206169,
-  "2023-07-21": 206246,
-  "2023-07-22": 206330,
-  "2023-07-23": 206420,
-  "2023-07-24": 206479,
-  "2023-07-25": 206533,
-  "2023-07-26": 206593,
-  "2023-07-27": 206645,
-  "2023-07-28": 206706,
-  "2023-07-29": 206764,
-  "2023-07-30": 206823,
-  "2023-07-31": 206885,
-  "2023-08-01": 206929,
-  "2023-08-02": 206969,
-  "2023-08-03": 207024,
-  "2023-08-04": 207055,
-  "2023-08-05": 207092,
-  "2023-08-06": 207162,
-  "2023-08-07": 207162,
-  "2023-08-08": 207201,
-  "2023-08-09": 207251,
-  "2023-08-10": 207306,
-  "2023-08-11": 207335,
-  "2023-08-12": 207371,
-  "2023-08-13": 207423,
-  "2023-08-14": 207454,
-  "2023-08-15": 207541,
-  "2023-08-16": 207541,
-  "2023-08-17": 207570,
-  "2023-08-18": 207619,
-  "2023-08-19": 207664,
-  "2023-08-20": 207719,
-  "2023-08-21": 207755,
-  "2023-08-22": 207792,
-  "2023-08-23": 207832,
-  "2023-08-24": 207875,
-  "2023-08-25": 207931,
-  "2023-08-26": 207988,
-  "2023-08-27": 208038,
-  "2023-08-28": 208069,
-  "2023-08-29": 208118,
-  "2023-08-30": 208151,
-  "2023-08-31": 208204,
-  "2023-09-01": 208313,
-  "2023-09-02": 208313,
-  "2023-09-03": 208338,
-  "2023-09-04": 208398,
-  "2023-09-05": 208446,
-  "2023-09-06": 208490,
-  "2023-09-07": 208526,
-  "2023-09-08": 208596,
-  "2023-09-09": 208633,
-  "2023-09-10": 208678,
-  "2023-09-11": 208732,
-  "2023-09-12": 208794,
-  "2023-09-13": 208874,
-  "2023-09-14": 208916,
-  "2023-09-15": 208953,
-  "2023-09-16": 209007,
-  "2023-09-17": 209066,
-  "2023-09-18": 209127,
-  "2023-09-19": 209174,
-  "2023-09-20": 209205,
-  "2023-09-21": 209257,
-  "2023-09-22": 209300,
-  "2023-09-23": 209319,
-  "2023-09-24": 209376,
-  "2023-09-25": 209416,
-  "2023-09-26": 209497,
-  "2023-09-27": 209531,
-  "2023-09-28": 209569,
-  "2023-09-29": 209610,
-  "2023-09-30": 209666,
-  "2023-10-01": 209722,
-  "2023-10-02": 209775,
-  "2023-10-03": 209797,
-  "2023-10-04": 209850,
-  "2023-10-05": 209911,
-  "2023-10-06": 209943,
-  "2023-10-07": 209990,
-  "2023-10-08": 210038,
-  "2023-10-09": 210057,
-  "2023-10-10": 209911,
-  "2023-10-11": 209760,
-  "2023-10-12": 209760,
-  "2023-10-13": 209636,
-  "2023-10-14": 209546,
-  "2023-10-15": 209572,
-  "2023-10-16": 209603,
-  "2023-10-17": 209641,
-  "2023-10-18": 209650,
-  "2023-10-19": 209702,
-  "2023-10-20": 209733,
-  "2023-10-21": 209774,
-  "2023-10-22": 209815,
-  "2023-10-23": 209845,
-  "2023-10-24": 209872,
-  "2023-10-25": 209891,
-  "2023-10-26": 209920,
-  "2023-10-27": 209973,
-  "2023-10-28": 209973,
-  "2023-10-29": 210053,
-  "2023-10-30": 210109,
-  "2023-10-31": 210109,
-  "2023-11-01": 210223,
-  "2023-11-02": 210280,
-  "2023-11-03": 210313,
-  "2023-11-04": 210360,
-  "2023-11-05": 210381,
-  "2023-11-06": 210434,
-  "2023-11-07": 210474,
-  "2023-11-08": 210507,
-  "2023-11-09": 210555,
-  "2023-11-10": 210592,
-  "2023-11-11": 210625,
-  "2023-11-12": 210672,
-  "2023-11-13": 210721,
-  "2023-11-14": 210749,
-  "2023-11-15": 210749,
-  "2023-11-16": 210790,
-  "2023-11-17": 210860,
-  "2023-11-18": 210860,
-  "2023-11-19": 210882,
-  "2023-11-20": 210926,
-  "2023-11-21": 210961,
-  "2023-11-22": 210995,
-  "2023-11-23": 211027,
-  "2023-11-24": 211027,
-  "2023-11-25": 211107,
-  "2023-11-26": 211137,
-  "2023-11-27": 211173,
-  "2023-11-28": 211196,
-  "2023-11-29": 211280,
-  "2023-11-30": 211280,
-  "2023-12-01": 211349,
-  "2023-12-02": 211410,
-  "2023-12-03": 211451,
-  "2023-12-04": 211505,
-  "2023-12-05": 211567,
-  "2023-12-06": 211615,
-  "2023-12-07": 211670,
-  "2023-12-08": 211710,
-  "2023-12-09": 211755,
-  "2023-12-10": 211803,
-  "2023-12-11": 211847,
-  "2023-12-12": 211906,
-  "2023-12-13": 211949,
-  "2023-12-14": 212008,
-  "2023-12-15": 212045,
-  "2023-12-16": 212086,
-  "2023-12-17": 212127,
-  "2023-12-18": 212189,
-  "2023-12-19": 212266,
-  "2023-12-20": 212330,
-  "2023-12-21": 212389,
-  "2023-12-22": 212430,
-  "2023-12-23": 212486,
-  "2023-12-24": 212535,
-  "2023-12-25": 212592,
-  "2023-12-26": 212627,
-  "2023-12-27": 212672,
-  "2023-12-30": 212850,
-  "2023-12-31": 212904,
-  "2024-01-01": 212949,
-  "2024-01-02": 213002,
-  "2024-01-03": 213074
+  "2024-01-17": 212783,
+  "date_first_scraped": "2022-05-30",
+  "description": "SHINee's back!",
+  "name": "This Is SHINee",
+  "tracks": [
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203884,
+      "name": "1 of 1",
+      "url": "https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "10X",
+      "url": "https://open.spotify.com/track/21YNLIVSqtfGseAVrLnz7R"
+    },
+    {
+      "album": {
+        "name": "2 KIDS",
+        "url": "https://open.spotify.com/album/5oFGlBqhY9IYR9slnZjhxH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "2 KIDS",
+      "url": "https://open.spotify.com/track/35IJPK0rh5w4GwKvqHvnoZ"
+    },
+    {
+      "album": {
+        "name": "Advice - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3"
+    },
+    {
+      "album": {
+        "name": "Amigo - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/3iPBAfKqX3Kv7BTikuIg4K"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1ru2r3r1Njis2C4IbGzgfS"
+    },
+    {
+      "album": {
+        "name": "Atlantis - The 7th Album Repackage",
+        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Area",
+      "url": "https://open.spotify.com/track/4PnMI5KkpjvJTJfP4Wuz0n"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 217967,
+      "name": "Artistic Groove",
+      "url": "https://open.spotify.com/track/3NoazwpMAu02KkRwzjM3aS"
+    },
+    {
+      "album": {
+        "name": "Atlantis - The 7th Album Repackage",
+        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 178213,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1mOr2W0j3T1ETqQRxA5d6w"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7FmMYtdjfJSeZjC2e2Pt6t"
+    },
+    {
+      "album": {
+        "name": "BAD LOVE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3GYaEvJ62wVs6NSYNOmKKH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "BAD LOVE",
+      "url": "https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172395,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/1SPX6Np13QyoLF1qdlLl6C"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "album": {
+        "name": "VOICE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/34QsNcb8lm3qDsQtlt26cD"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210437,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6cp1Y6qMIyIxxtK4tTMtw9"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Body Rhythm",
+      "url": "https://open.spotify.com/track/7MUksmMcnTI2Sf3bzplnQc"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2RIay2O93w2ii0zECu7WNz"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232151,
+      "name": "Cold - Bonus Track",
+      "url": "https://open.spotify.com/track/0yyYD0MDD5nVoLD5iUVBqH"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' Epilogue - The 6th Album",
+        "url": "https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188678,
+      "name": "Countless",
+      "url": "https://open.spotify.com/track/6mI6dpwRDteVr3ZQsDeD6e"
+    },
+    {
+      "album": {
+        "name": "BASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0iwA2BU9jnxT11qkxC0rEO"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        },
+        {
+          "name": "Iron",
+          "url": "https://open.spotify.com/artist/2IQN0IrTeIM0xhtiFAK9Ed"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Crazy (Guilty Pleasure)",
+      "url": "https://open.spotify.com/track/4z1xOpkYXm1My9JwNMdtIF"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "C\u00d8DE",
+      "url": "https://open.spotify.com/track/4A6BplRJXLfp9GsDwzk3LV"
+    },
+    {
+      "album": {
+        "name": "Atlantis - The 7th Album Repackage",
+        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Days and Years",
+      "url": "https://open.spotify.com/track/44PFoCMti0fOLKY7GJj1Cm"
+    },
+    {
+      "album": {
+        "name": "DICE - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK"
+    },
+    {
+      "album": {
+        "name": "JONGHYUN The Collection \"Story Op.1\"",
+        "url": "https://open.spotify.com/album/6tYoidZViVVzSXG4jKEmNd"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275174,
+      "name": "Diphylleia grayi",
+      "url": "https://open.spotify.com/track/5zkaZh7IKPfin3eRNkqfLQ"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "Don\u2019t Call Me - Japanese Version",
+      "url": "https://open.spotify.com/track/6TsYRhXOsWmXCpXI42ub3x"
+    },
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/4AyydjmmNOh7GBrxqXT40l"
+    },
+    {
+      "album": {
+        "name": "SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You'",
+        "url": "https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180165,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/3PrdbYsr8JsDW8f4Tob5pW"
+    },
+    {
+      "album": {
+        "name": "Press It - The 1st Album",
+        "url": "https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205240,
+      "name": "Drip Drop",
+      "url": "https://open.spotify.com/track/7EYDRfuloB4kG28ECZkPZB"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' Epilogue - The 6th Album",
+        "url": "https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 188739,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4vyX2aMk1HygUxzxHHOSo0"
+    },
+    {
+      "album": {
+        "name": "JONGHYUN The Collection \"Story Op.1\"",
+        "url": "https://open.spotify.com/album/6tYoidZViVVzSXG4jKEmNd"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277223,
+      "name": "End of a day",
+      "url": "https://open.spotify.com/track/0cAFqRrz8OqAoHdbiCM5OD"
+    },
+    {
+      "album": {
+        "name": "Everybody - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0cJUtiybZCK22BF7yfSeA4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249291,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/0BiYJIeiAxB8OrCOm9Hgq6"
+    },
+    {
+      "album": {
+        "name": "Falling Free",
+        "url": "https://open.spotify.com/album/3VhSceT0VsMguLGFBJv5g2"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229084,
+      "name": "Falling Free",
+      "url": "https://open.spotify.com/track/4xUZbINpa9Kv8P1P0iAYCg"
+    },
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2BcTKLMXMlPjdhKxlECfCZ"
+    },
+    {
+      "album": {
+        "name": "Gasoline - The 2nd Album",
+        "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
+    },
+    {
+      "album": {
+        "name": "Good & Great - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Good & Great",
+      "url": "https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' Epilogue - The 6th Album",
+        "url": "https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 223514,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/3mjfQvA5gAV6XnH0ZWnIyI"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1lCTcxyGCcZh15pCDPBuF0"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/76JA4ie9OkTaCXu909a93V"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
+    },
+    {
+      "album": {
+        "name": "Hello - SHINee The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5udkCCQRyrMgrpHsepMRHX"
+    },
+    {
+      "album": {
+        "name": "SHINee World (The 1st Asia Tour Album)",
+        "url": "https://open.spotify.com/album/54tsBVlzypjHHR4tRQYJSz"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Hello - Live",
+      "url": "https://open.spotify.com/track/073MKiHnvmzA3dUFnhBboP"
+    },
+    {
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 231453,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/2EFCh6MtGVKxGPVDH3jY3L"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "I Really Want You",
+      "url": "https://open.spotify.com/track/2LUQEcfWrlpMjODQ7NsVWt"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "album": {
+        "name": "'The Story of Light' EP.2 - The 6th Album",
+        "url": "https://open.spotify.com/album/6QhNwMsz7mr2AsEtUO2JJY"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184798,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7A1oOQbQbWzd1fvCFvcuwD"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' Epilogue - The 6th Album",
+        "url": "https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184798,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7wNZPLzUKbttcNSyoqELuE"
+    },
+    {
+      "album": {
+        "name": "I'm Home",
+        "url": "https://open.spotify.com/album/5KGaHvby6RAB2otBySlwCC"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204857,
+      "name": "I'm Home",
+      "url": "https://open.spotify.com/track/0YxfpiPOdUgOyWDJETF5SR"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Dance Again : Act 2 - The 3rd Album",
+        "url": "https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "IDEA (\u7406\u60f3)",
+      "url": "https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/457PtRB1HpGS2gtAg7xDCA"
+    },
+    {
+      "album": {
+        "name": "Replay - The First Mini Album",
+        "url": "https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290293,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/5grWTrVzFb14rCVipTFGYC"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/4Zdw9Oh04fFclpTPXVH6y6"
+    },
+    {
+      "album": {
+        "name": "Inspiration - SM STATION",
+        "url": "https://open.spotify.com/album/3OMOAdPaOxez8Adn1lavXc"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217538,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/6pm8EwMGn8RAqNS7JIyHqT"
+    },
+    {
+      "album": {
+        "name": "INSPIRATION",
+        "url": "https://open.spotify.com/album/6h7MK8X2MnoZwZfsRJdTKd"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "INSPIRATION",
+      "url": "https://open.spotify.com/track/33YqxqokxOEIpXQQMjHpag"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "JUICE",
+      "url": "https://open.spotify.com/track/2ka8U0A2e93hBFA43mbgfy"
+    },
+    {
+      "album": {
+        "name": "ROMEO - The Second Mini Album",
+        "url": "https://open.spotify.com/album/16atzZZUKzxdfcLUxh1J4N"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "Juliette",
+      "url": "https://open.spotify.com/track/6RgCQuMSvdZJW2Irj44QHK"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' EP.1 - The 6th Album",
+        "url": "https://open.spotify.com/album/5XwIkFj2HovD5gR8FNlVhG"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224216,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/3OFxhRzHbXFenlHwEvr8iJ"
+    },
+    {
+      "album": {
+        "name": "Killer - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200839,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/7b4Qu8lHzGX8PiQJ3Q1al4"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/7JrvYwKnJRe3p3orzKXwaS"
+    },
+    {
+      "album": {
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 278426,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4rZ7JOd7Q2GH2W7kFFZDlL"
+    },
+    {
+      "album": {
+        "name": "Life goes on",
+        "url": "https://open.spotify.com/album/0f7HOkgm4MtnKgtVlcQqnK"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "Life goes on",
+      "url": "https://open.spotify.com/track/2k8xZozD3ahGDA7rL9kitn"
+    },
+    {
+      "album": {
+        "name": "SHINee The 3rd Album Chapter 2. 'Why So Serious? - The Misconceptions Of Me'",
+        "url": "https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 222306,
+      "name": "Like A Fire",
+      "url": "https://open.spotify.com/track/18afrlejRAZfnJj1xXWhcH"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/4LeToSXpuo4XGo6an5ecAq"
+    },
+    {
+      "album": {
+        "name": "JONGHYUN The Collection \"Story Op.2\"",
+        "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244451,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
+    },
+    {
+      "album": {
+        "name": "The SHINee World - The First Album",
+        "url": "https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "Love Like Oxygen",
+      "url": "https://open.spotify.com/track/0B7QAF2ByMFCp1Ls5ov6R7"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/7GQGxxjku3NdnjZELQwMbF"
+    },
+    {
+      "album": {
+        "name": "Hello - SHINee The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233986,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd"
+    },
+    {
+      "album": {
+        "name": "Lullaby - SM STATION",
+        "url": "https://open.spotify.com/album/7bPbKypw7PxswFfptL6J9y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200684,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7eS2empYaxaKIEYuuWXxpw"
+    },
+    {
+      "album": {
+        "name": "Married To The Music - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/41YpOLdNiBOP4CqZyVzBSB"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214689,
+      "name": "Married To The Music",
+      "url": "https://open.spotify.com/track/1ogT6eFnEuX5BDH8JoKjX8"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/14bycLXzjEIFKVQCe2K6M2"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 200530,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/5948rGOD7Spt8IALZLOuNr"
+    },
+    {
+      "album": {
+        "name": "She is - The 1st Album",
+        "url": "https://open.spotify.com/album/4Mqc9VJjX66n66tNzAhevq"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164090,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6NeEgmjQRN1QlDbNDhWb3P"
+    },
+    {
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211949,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 168422,
+      "name": "Never Forever",
+      "url": "https://open.spotify.com/track/554Yyo55jijsvGWp5w2T9M"
+    },
+    {
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201449,
+      "name": "Odd Eye",
+      "url": "https://open.spotify.com/track/66f9BsEekmGOQimdPEjFlG"
+    },
+    {
+      "album": {
+        "name": "FACE - The 1st Album",
+        "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
+    },
+    {
+      "album": {
+        "name": "Press It - The 1st Album",
+        "url": "https://open.spotify.com/album/3BPjJEl3GqXKDhYZf7iFfs"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226257,
+      "name": "Press Your Number",
+      "url": "https://open.spotify.com/track/1T7NW3LwpJZw381bfiPPBz"
+    },
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191567,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/3vm0mFRTYFRmtym8SPHmUq"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/2RipDT9N5dyJKvyURHxTSH"
+    },
+    {
+      "album": {
+        "name": "SHINee The 3rd Album Chapter 1. 'Dream Girl - The Misconceptions Of You'",
+        "url": "https://open.spotify.com/album/4HbeuXyXcLWhZxJ7DS8epV"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 219841,
+      "name": "Punch Drunk Love",
+      "url": "https://open.spotify.com/track/7l9l8DVvXosPhpRIfLOTD9"
+    },
+    {
+      "album": {
+        "name": "The SHINee World - The First Album",
+        "url": "https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 213826,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC"
+    },
+    {
+      "album": {
+        "name": "Replay - The First Mini Album",
+        "url": "https://open.spotify.com/album/2zarKiOQYtJ9PGWxYxUOk5"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/3lezH4ocsAaxqVGL8E0pS4"
+    },
+    {
+      "album": {
+        "name": "2009, Year Of Us - The Third Mini Album",
+        "url": "https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Ring Ding Dong",
+      "url": "https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx"
+    },
+    {
+      "album": {
+        "name": "SHINee WORLD \u2162 in SEOUL - THE 3rd CONCERT ALBUM",
+        "url": "https://open.spotify.com/album/3rDiBT1raLwVjVrVwUV5VZ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309880,
+      "name": "Ring Ding Dong - SHINee WORLD 3 Version, Live",
+      "url": "https://open.spotify.com/track/2DNGD5gd2R3jqmfEHAZ5mI"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216009,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/61YsdyXJPVKL5YOH70D3gR"
+    },
+    {
+      "album": {
+        "name": "The SHINee World - The First Album",
+        "url": "https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 293853,
+      "name": "Romantic",
+      "url": "https://open.spotify.com/track/7vAq3yEqNNEv7qL9aeVH7v"
+    },
+    {
+      "album": {
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267982,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3bxFJDdBevZ44kb9qI3lB0"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/6WLEE2iZGMB3bVemgl1Kqc"
+    },
+    {
+      "album": {
+        "name": "Married To The Music - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/41YpOLdNiBOP4CqZyVzBSB"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233345,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/2yQYEuvSXyyTx31ixs8q0r"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "SEASONS",
+      "url": "https://open.spotify.com/track/71jQCPt4REcDtz2pREMJx1"
+    },
+    {
+      "album": {
+        "name": "SHINee The 3rd Album 'The Misconceptions Of Us'",
+        "url": "https://open.spotify.com/album/0f0brenHcU2NmUANeix9rN"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 249213,
+      "name": "Selene 6.23",
+      "url": "https://open.spotify.com/track/2GZ9D36wODanwoK6cGMZ2m"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189459,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4gQoAKDYQbufqj2gygOeGK"
+    },
+    {
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182001,
+      "name": "SHIFT",
+      "url": "https://open.spotify.com/track/2HrMPEAoa7ah8UeWuniBhA"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186747,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/2citvEGmOgIoGl6Jend3cU"
+    },
+    {
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 217395,
+      "name": "So Amazing - Special Track",
+      "url": "https://open.spotify.com/track/01IsDqqjCIo0VXdgHLwkFX"
+    },
+    {
+      "album": {
+        "name": "SHINee World (The 1st Asia Tour Album)",
+        "url": "https://open.spotify.com/album/54tsBVlzypjHHR4tRQYJSz"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Stand By Me - Live",
+      "url": "https://open.spotify.com/track/2loiab7rLHiw0hbWiIE2SC"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/7jiV2MnieeHtnYqTrXmQHD"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/3n8FLiCA7kzqfWdRk450VJ"
+    },
+    {
+      "album": {
+        "name": "1 and 1 - The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Tell Me What To Do",
+      "url": "https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml"
+    },
+    {
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6v9jWAmaqoBtkAyRp3H2WS"
+    },
+    {
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 256580,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6ncP102bxNYWrEcgzXXMYy"
+    },
+    {
+      "album": {
+        "name": "The SHINee World - The First Album",
+        "url": "https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235373,
+      "name": "The SHINee World (Doo-Bop)",
+      "url": "https://open.spotify.com/track/3zwMB1JyTzgOLo6rDnAVJ4"
+    },
+    {
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206993,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2nxYJsog7BFm0xCg90MIQq"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/2AppE6JeQQsLycDiycaCYK"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 199722,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/4zwbzD4aS1DMhqUM8Ed7ie"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190821,
+      "name": "View",
+      "url": "https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208967,
+      "name": "WANT",
+      "url": "https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP"
+    },
+    {
+      "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 59920,
+      "name": "WANT ~Outro~",
+      "url": "https://open.spotify.com/track/4oPi8MvS4CMLO7DMEefb32"
+    },
+    {
+      "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "album": {
+        "name": "SHINee The 3rd Album Chapter 2. 'Why So Serious? - The Misconceptions Of Me'",
+        "url": "https://open.spotify.com/album/0UqzNn2IEyWQVIuCXvzvIj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Why So Serious?",
+      "url": "https://open.spotify.com/track/6LgRAevtPVeJGNoF2ZAQeI"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196609,
+      "name": "Woof Woof",
+      "url": "https://open.spotify.com/track/3ZBieMYzrxKPr5uDFrlVUS"
+    },
+    {
+      "album": {
+        "name": "2009, Year Of Us - The Third Mini Album",
+        "url": "https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 226960,
+      "name": "Y.O.U. (Year Of Us)",
+      "url": "https://open.spotify.com/track/0Tobkwkbgb8iZFt1zfnPby"
+    },
+    {
+      "album": {
+        "name": "ACE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1QQ0J1e6itmf2lufaeFfo5"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191453,
+      "name": "\uad34\ub3c4 (Danger)",
+      "url": "https://open.spotify.com/track/5hcO4JPFMFgQ5edWGhhhaG"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' EP.3 - The 6th Album",
+        "url": "https://open.spotify.com/album/2LZxRgMfF9TFX3gg9Cr3uo"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239721,
+      "name": "\ub124\uac00 \ub0a8\uaca8\ub454 \ub9d0 Our Page",
+      "url": "https://open.spotify.com/track/7CMvRsZOfIIM1Hg4Yyqb3k"
+    },
+    {
+      "album": {
+        "name": "The Story of Light' EP.1 - The 6th Album",
+        "url": "https://open.spotify.com/album/5XwIkFj2HovD5gR8FNlVhG"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223514,
+      "name": "\ub370\ub9ac\ub7ec \uac00 Good Evening",
+      "url": "https://open.spotify.com/track/3dTFof43vcpQKx6Z3iTsOj"
+    },
+    {
+      "album": {
+        "name": "BASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0iwA2BU9jnxT11qkxC0rEO"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209175,
+      "name": "\ub370\uc790-\ubd80 (D\u00e9j\u00e0-Boo)",
+      "url": "https://open.spotify.com/track/3vmL3zJZg3AW5idifrAve4"
+    },
+    {
+      "album": {
+        "name": "Poet | Artist",
+        "url": "https://open.spotify.com/album/3KrFO9QDgfa4UAiqM6flTf"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172371,
+      "name": "\ube5b\uc774 \ub098 Shinin'",
+      "url": "https://open.spotify.com/track/3PbsYQc7kMKFaJMs1Cj3tj"
+    },
+    {
+      "album": {
+        "name": "Everybody - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0cJUtiybZCK22BF7yfSeA4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229675,
+      "name": "\uc0c1\uc0ac\ubcd1 (Symptoms)",
+      "url": "https://open.spotify.com/track/7vc01rg1AL6jkYBd61Mfwm"
+    },
+    {
+      "album": {
+        "name": "Poet | Artist",
+        "url": "https://open.spotify.com/album/3KrFO9QDgfa4UAiqM6flTf"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246238,
+      "name": "\uc6b0\ub9b0 \ubd04\uc774 \uc624\uae30 \uc804\uc5d0 Before Our Spring",
+      "url": "https://open.spotify.com/track/3bNjjq8KpMx2Y9gpCoJl2u"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240934,
+      "name": "\uc774\ubcc4\uc758 \uae38 Farewell My Love",
+      "url": "https://open.spotify.com/track/1CajjfLBczYjYgcwKQRjEj"
+    },
+    {
+      "album": {
+        "name": "Odd - The 4th Album",
+        "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244998,
+      "name": "\uc7ac\uc5f0 An Encore",
+      "url": "https://open.spotify.com/track/2BanAml9j9AQjqFhLVILTm"
+    },
+    {
+      "album": {
+        "name": "She is - The 1st Album",
+        "url": "https://open.spotify.com/album/4Mqc9VJjX66n66tNzAhevq"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191208,
+      "name": "\uc88b\uc544 She is",
+      "url": "https://open.spotify.com/track/2Xc0PwLnJnJtOVXKWcWBXs"
+    },
+    {
+      "album": {
+        "name": "1 and 1 - The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/1tLW1mwNWPgSze47VxSuxc"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223352,
+      "name": "\ud22c\uba85 \uc6b0\uc0b0 Don't Let Me Go",
+      "url": "https://open.spotify.com/track/4wPVrnXmpMOeB0WtE0V9yP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8To4GlhTfpA"
 }

@@ -1,735 +1,785 @@
 {
-  "2021-12-25": 5155,
-  "2021-12-26": 5154,
-  "2021-12-27": 5154,
-  "2021-12-28": 5154,
-  "2021-12-29": 5154,
-  "2021-12-30": 5154,
-  "2021-12-31": 5154,
-  "2022-01-01": 5153,
-  "2022-01-02": 5153,
-  "2022-01-03": 5153,
-  "2022-01-04": 5153,
-  "2022-01-05": 5153,
-  "2022-01-06": 5154,
-  "2022-01-07": 5154,
-  "2022-01-08": 5155,
-  "2022-01-09": 5155,
-  "2022-01-10": 5153,
-  "2022-01-11": 5151,
-  "2022-01-12": 5152,
-  "2022-01-13": 5152,
-  "2022-01-14": 5152,
-  "2022-01-15": 5151,
-  "2022-01-16": 5151,
-  "2022-01-17": 5149,
-  "2022-01-18": 5149,
-  "2022-01-19": 5149,
-  "2022-01-20": 5150,
-  "2022-01-21": 5148,
-  "2022-01-22": 5148,
-  "2022-01-23": 5148,
-  "2022-01-24": 5148,
-  "2022-01-25": 5149,
-  "2022-01-26": 5149,
-  "2022-01-27": 5148,
-  "2022-01-28": 5147,
-  "2022-01-29": 5146,
-  "2022-01-30": 5146,
-  "2022-01-31": 5146,
-  "2022-02-01": 5146,
-  "2022-02-02": 5146,
-  "2022-02-03": 5146,
-  "2022-02-04": 5146,
-  "2022-02-05": 5146,
-  "2022-02-06": 5144,
-  "2022-02-07": 5142,
-  "2022-02-08": 5142,
-  "2022-02-09": 5142,
-  "2022-02-10": 5141,
-  "2022-02-11": 5141,
-  "2022-02-12": 5141,
-  "2022-02-13": 5141,
-  "2022-02-14": 5141,
-  "2022-02-15": 5139,
-  "2022-02-16": 5138,
-  "2022-02-17": 5135,
-  "2022-02-18": 5133,
-  "2022-02-19": 5133,
-  "2022-02-20": 5133,
-  "2022-02-21": 5131,
-  "2022-02-22": 5131,
-  "2022-02-23": 5129,
-  "2022-02-24": 5127,
-  "2022-02-25": 5127,
-  "2022-02-26": 5126,
-  "2022-02-27": 5125,
-  "2022-02-28": 5125,
-  "2022-03-01": 5125,
-  "2022-03-02": 5126,
-  "2022-03-03": 5126,
-  "2022-03-04": 5126,
-  "2022-03-05": 5126,
-  "2022-03-06": 5126,
-  "2022-03-07": 5126,
-  "2022-03-08": 5126,
-  "2022-03-09": 5126,
-  "2022-03-10": 5126,
-  "2022-03-11": 5126,
-  "2022-03-12": 5126,
-  "2022-03-13": 5126,
-  "2022-03-14": 5126,
-  "2022-03-15": 5126,
-  "2022-03-16": 5126,
-  "2022-03-17": 5126,
-  "2022-03-18": 5126,
-  "2022-03-19": 5126,
-  "2022-03-20": 5126,
-  "2022-03-21": 5125,
-  "2022-03-22": 5124,
-  "2022-03-23": 5124,
-  "2022-03-24": 5124,
-  "2022-03-25": 5123,
-  "2022-03-26": 5123,
-  "2022-03-27": 5123,
-  "2022-03-28": 5123,
-  "2022-03-30": 5123,
-  "2022-03-31": 5122,
-  "2022-04-01": 5122,
-  "2022-04-02": 5122,
-  "2022-04-03": 5122,
-  "2022-04-04": 5122,
-  "2022-04-05": 5122,
-  "2022-04-06": 5122,
-  "2022-04-07": 5122,
-  "2022-04-08": 5122,
-  "2022-04-09": 5122,
-  "2022-04-10": 5122,
-  "2022-04-11": 5122,
-  "2022-04-12": 5122,
-  "2022-04-13": 5122,
-  "2022-04-14": 5122,
-  "2022-04-15": 5122,
-  "2022-04-16": 5122,
-  "2022-04-17": 5122,
-  "2022-04-18": 5122,
-  "2022-04-19": 5122,
-  "2022-04-20": 5122,
-  "2022-04-21": 5122,
-  "2022-04-22": 5122,
-  "2022-04-23": 5122,
-  "2022-04-24": 5122,
-  "2022-04-25": 5122,
-  "2022-04-26": 5122,
-  "2022-04-27": 5122,
-  "2022-04-28": 5122,
-  "2022-04-29": 5122,
-  "2022-04-30": 5122,
-  "2022-05-01": 5122,
-  "2022-05-02": 5122,
-  "2022-05-03": 5122,
-  "2022-05-04": 5122,
-  "2022-05-05": 5122,
-  "2022-05-06": 5122,
-  "2022-05-07": 5122,
-  "2022-05-08": 5122,
-  "2022-05-09": 5122,
-  "2022-05-10": 5122,
-  "2022-05-11": 5122,
-  "2022-05-12": 5122,
-  "2022-05-13": 5122,
-  "2022-05-14": 5122,
-  "2022-05-15": 5122,
-  "2022-05-16": 5122,
-  "2022-05-17": 5122,
-  "2022-05-18": 5122,
-  "2022-05-19": 5122,
-  "2022-05-20": 5122,
-  "2022-05-21": 5122,
-  "2022-05-22": 5122,
-  "2022-05-23": 5122,
-  "2022-05-24": 5122,
-  "2022-05-25": 5122,
-  "2022-05-26": 5122,
-  "2022-05-27": 5122,
-  "2022-05-28": 5122,
-  "2022-05-29": 5122,
-  "2022-05-30": 5122,
-  "2022-05-31": 5122,
-  "2022-06-01": 5122,
-  "2022-06-02": 5122,
-  "2022-06-03": 5122,
-  "2022-06-04": 5122,
-  "2022-06-05": 5122,
-  "2022-06-06": 5122,
-  "2022-06-07": 5122,
-  "2022-06-08": 5122,
-  "2022-06-09": 5122,
-  "2022-06-10": 5122,
-  "2022-06-11": 5122,
-  "2022-06-12": 5122,
-  "2022-06-13": 5122,
-  "2022-06-14": 5122,
-  "2022-06-15": 5122,
-  "2022-06-16": 5122,
-  "2022-06-17": 5122,
-  "2022-06-18": 5122,
-  "2022-06-19": 5122,
-  "2022-06-20": 5122,
-  "2022-06-21": 5122,
-  "2022-06-22": 5122,
-  "2022-06-23": 5122,
-  "2022-06-24": 5122,
-  "2022-06-25": 5122,
-  "2022-06-26": 5122,
-  "2022-06-27": 5122,
-  "2022-06-28": 5122,
-  "2022-06-29": 5122,
-  "2022-06-30": 5122,
-  "2022-07-01": 5122,
-  "2022-07-02": 5122,
-  "2022-07-03": 5122,
-  "2022-07-04": 5122,
-  "2022-07-05": 5122,
-  "2022-07-06": 5122,
-  "2022-07-07": 5122,
-  "2022-07-08": 5122,
-  "2022-07-09": 5122,
-  "2022-07-10": 5122,
-  "2022-07-11": 5122,
-  "2022-07-12": 5122,
-  "2022-07-13": 5122,
-  "2022-07-14": 5122,
-  "2022-07-15": 5122,
-  "2022-07-16": 5122,
-  "2022-07-17": 5122,
-  "2022-07-18": 5122,
-  "2022-07-19": 5122,
-  "2022-07-20": 5122,
-  "2022-07-21": 5122,
-  "2022-07-22": 5122,
-  "2022-07-23": 5122,
-  "2022-07-24": 5122,
-  "2022-07-25": 5122,
-  "2022-07-26": 5122,
-  "2022-07-27": 5122,
-  "2022-07-28": 5122,
-  "2022-07-29": 5122,
-  "2022-07-30": 5122,
-  "2022-07-31": 5122,
-  "2022-08-01": 5122,
-  "2022-08-02": 5122,
-  "2022-08-03": 5122,
-  "2022-08-04": 5122,
-  "2022-08-05": 5122,
-  "2022-08-06": 5122,
-  "2022-08-07": 5122,
-  "2022-08-08": 5122,
-  "2022-08-09": 5122,
-  "2022-08-10": 5122,
-  "2022-08-11": 5122,
-  "2022-08-12": 5122,
-  "2022-08-13": 5122,
-  "2022-08-14": 5122,
-  "2022-08-15": 5122,
-  "2022-08-16": 5122,
-  "2022-08-17": 5122,
-  "2022-08-18": 5122,
-  "2022-08-19": 5122,
-  "2022-08-20": 5122,
-  "2022-08-21": 5122,
-  "2022-08-22": 5122,
-  "2022-08-23": 5122,
-  "2022-08-24": 5122,
-  "2022-08-25": 5122,
-  "2022-08-26": 5122,
-  "2022-08-27": 5122,
-  "2022-08-28": 5122,
-  "2022-08-29": 5122,
-  "2022-08-30": 5122,
-  "2022-08-31": 5122,
-  "2022-09-01": 5122,
-  "2022-09-02": 5122,
-  "2022-09-03": 5122,
-  "2022-09-04": 5122,
-  "2022-09-05": 5122,
-  "2022-09-06": 5122,
-  "2022-09-07": 5122,
-  "2022-09-09": 5122,
-  "2022-09-10": 5122,
-  "2022-09-11": 5122,
-  "2022-09-12": 5122,
-  "2022-09-13": 5122,
-  "2022-09-15": 5122,
-  "2022-09-16": 5122,
-  "2022-09-17": 5122,
-  "2022-09-18": 5122,
-  "2022-09-19": 5122,
-  "2022-09-20": 5122,
-  "2022-09-21": 5122,
-  "2022-09-22": 5122,
-  "2022-09-23": 5122,
-  "2022-09-24": 5122,
-  "2022-09-25": 5122,
-  "2022-09-26": 5122,
-  "2022-09-27": 5122,
-  "2022-09-28": 5122,
-  "2022-09-29": 5122,
-  "2022-09-30": 5122,
-  "2022-10-01": 5122,
-  "2022-10-02": 5122,
-  "2022-10-03": 5122,
-  "2022-10-04": 5122,
-  "2022-10-05": 5122,
-  "2022-10-06": 5122,
-  "2022-10-07": 5122,
-  "2022-10-08": 5122,
-  "2022-10-09": 5122,
-  "2022-10-10": 5122,
-  "2022-10-11": 5122,
-  "2022-10-12": 5122,
-  "2022-10-13": 5122,
-  "2022-10-14": 5122,
-  "2022-10-15": 5122,
-  "2022-10-16": 5122,
-  "2022-10-17": 5122,
-  "2022-10-18": 5122,
-  "2022-10-19": 5122,
-  "2022-10-20": 5122,
-  "2022-10-21": 5122,
-  "2022-10-22": 5122,
-  "2022-10-23": 5122,
-  "2022-10-24": 5122,
-  "2022-10-25": 5122,
-  "2022-10-26": 5122,
-  "2022-10-27": 5122,
-  "2022-10-28": 5122,
-  "2022-10-29": 5122,
-  "2022-10-30": 5122,
-  "2022-10-31": 5122,
-  "2022-11-01": 5122,
-  "2022-11-02": 5122,
-  "2022-11-03": 5122,
-  "2022-11-04": 5122,
-  "2022-11-05": 5122,
-  "2022-11-06": 5122,
-  "2022-11-07": 5122,
-  "2022-11-08": 5122,
-  "2022-11-09": 5122,
-  "2022-11-10": 5122,
-  "2022-11-11": 5122,
-  "2022-11-12": 5122,
-  "2022-11-13": 5122,
-  "2022-11-14": 5122,
-  "2022-11-15": 5122,
-  "2022-11-16": 5122,
-  "2022-11-17": 5122,
-  "2022-11-18": 5122,
-  "2022-11-19": 5122,
-  "2022-11-20": 5122,
-  "2022-11-21": 5122,
-  "2022-11-22": 5122,
-  "2022-11-23": 5122,
-  "2022-11-24": 5122,
-  "2022-11-25": 5122,
-  "2022-11-26": 5122,
-  "2022-11-27": 5122,
-  "2022-11-28": 5122,
-  "2022-11-29": 5122,
-  "2022-11-30": 5122,
-  "2022-12-01": 5122,
-  "2022-12-02": 5122,
-  "2022-12-03": 5122,
-  "2022-12-04": 5122,
-  "2022-12-05": 5122,
-  "2022-12-06": 5122,
-  "2022-12-07": 5122,
-  "2022-12-08": 5122,
-  "2022-12-09": 5122,
-  "2022-12-10": 5122,
-  "2022-12-11": 5122,
-  "2022-12-12": 5122,
-  "2022-12-13": 5122,
-  "2022-12-14": 5122,
-  "2022-12-15": 5122,
-  "2022-12-16": 5122,
-  "2022-12-17": 5122,
-  "2022-12-18": 5122,
-  "2022-12-19": 5122,
-  "2022-12-20": 5122,
-  "2022-12-21": 5122,
-  "2022-12-22": 5122,
-  "2022-12-24": 5122,
-  "2022-12-25": 5122,
-  "2022-12-26": 5122,
-  "2022-12-27": 5122,
-  "2022-12-28": 5122,
-  "2022-12-29": 5122,
-  "2022-12-30": 5122,
-  "2022-12-31": 5122,
-  "2023-01-01": 5122,
-  "2023-01-02": 5122,
-  "2023-01-03": 5122,
-  "2023-01-04": 5122,
-  "2023-01-05": 5122,
-  "2023-01-06": 5122,
-  "2023-01-07": 5122,
-  "2023-01-08": 5122,
-  "2023-01-09": 5122,
-  "2023-01-10": 5122,
-  "2023-01-11": 5122,
-  "2023-01-12": 5122,
-  "2023-01-13": 5122,
-  "2023-01-14": 5122,
-  "2023-01-15": 5122,
-  "2023-01-16": 5122,
-  "2023-01-17": 5122,
-  "2023-01-18": 5122,
-  "2023-01-19": 5122,
-  "2023-01-20": 5122,
-  "2023-01-21": 5122,
-  "2023-01-22": 5122,
-  "2023-01-23": 5122,
-  "2023-01-24": 5122,
-  "2023-01-25": 5122,
-  "2023-01-26": 5122,
-  "2023-01-27": 5122,
-  "2023-01-28": 5122,
-  "2023-01-29": 5122,
-  "2023-01-30": 5122,
-  "2023-01-31": 5122,
-  "2023-02-01": 5122,
-  "2023-02-02": 5122,
-  "2023-02-03": 5122,
-  "2023-02-04": 5122,
-  "2023-02-05": 5122,
-  "2023-02-06": 5122,
-  "2023-02-07": 5122,
-  "2023-02-08": 5122,
-  "2023-02-09": 5122,
-  "2023-02-10": 5122,
-  "2023-02-11": 5122,
-  "2023-02-12": 5122,
-  "2023-02-13": 5122,
-  "2023-02-14": 5122,
-  "2023-02-15": 5122,
-  "2023-02-16": 5122,
-  "2023-02-17": 5122,
-  "2023-02-18": 5122,
-  "2023-02-19": 5122,
-  "2023-02-20": 5122,
-  "2023-02-21": 5122,
-  "2023-02-22": 5122,
-  "2023-02-23": 5122,
-  "2023-02-24": 5122,
-  "2023-02-25": 5122,
-  "2023-02-26": 5122,
-  "2023-02-27": 5122,
-  "2023-02-28": 5122,
-  "2023-03-01": 5122,
-  "2023-03-02": 5122,
-  "2023-03-03": 5122,
-  "2023-03-04": 5122,
-  "2023-03-05": 5122,
-  "2023-03-06": 5122,
-  "2023-03-07": 5122,
-  "2023-03-08": 5122,
-  "2023-03-09": 5122,
-  "2023-03-10": 5122,
-  "2023-03-11": 5122,
-  "2023-03-12": 5122,
-  "2023-03-13": 5122,
-  "2023-03-14": 5122,
-  "2023-03-15": 5122,
-  "2023-03-16": 5122,
-  "2023-03-17": 5122,
-  "2023-03-18": 5122,
-  "2023-03-19": 5122,
-  "2023-03-20": 5122,
-  "2023-03-21": 5122,
-  "2023-03-22": 5122,
-  "2023-03-23": 5122,
-  "2023-03-24": 5122,
-  "2023-03-25": 5122,
-  "2023-03-26": 5122,
-  "2023-03-27": 5122,
-  "2023-03-28": 5122,
-  "2023-03-29": 5122,
-  "2023-03-30": 5122,
-  "2023-03-31": 5122,
-  "2023-04-01": 5122,
-  "2023-04-02": 5122,
-  "2023-04-03": 5122,
-  "2023-04-04": 5122,
-  "2023-04-05": 5122,
-  "2023-04-06": 5122,
-  "2023-04-07": 5122,
-  "2023-04-09": 5122,
-  "2023-04-10": 5122,
-  "2023-04-11": 5122,
-  "2023-04-12": 5122,
-  "2023-04-13": 5122,
-  "2023-04-14": 5122,
-  "2023-04-15": 5122,
-  "2023-04-16": 5122,
-  "2023-04-17": 5122,
-  "2023-04-18": 5122,
-  "2023-04-19": 5122,
-  "2023-04-20": 5122,
-  "2023-04-21": 5122,
-  "2023-04-22": 5122,
-  "2023-04-23": 5122,
-  "2023-04-24": 5122,
-  "2023-04-25": 5122,
-  "2023-04-26": 5122,
-  "2023-04-27": 5122,
-  "2023-04-28": 5122,
-  "2023-04-29": 5122,
-  "2023-04-30": 5122,
-  "2023-05-01": 5122,
-  "2023-05-02": 5122,
-  "2023-05-03": 5122,
-  "2023-05-04": 5122,
-  "2023-05-05": 5122,
-  "2023-05-06": 5122,
-  "2023-05-07": 5122,
-  "2023-05-08": 5122,
-  "2023-05-09": 5122,
-  "2023-05-10": 5122,
-  "2023-05-11": 5122,
-  "2023-05-12": 5122,
-  "2023-05-13": 5122,
-  "2023-05-14": 5122,
-  "2023-05-15": 5122,
-  "2023-05-16": 5122,
-  "2023-05-17": 5122,
-  "2023-05-18": 5122,
-  "2023-05-19": 5122,
-  "2023-05-20": 5122,
-  "2023-05-21": 5122,
-  "2023-05-22": 5122,
-  "2023-05-23": 5122,
-  "2023-05-24": 5122,
-  "2023-05-25": 5122,
-  "2023-05-26": 5122,
-  "2023-05-27": 5122,
-  "2023-05-28": 5122,
-  "2023-05-29": 5122,
-  "2023-05-30": 5122,
-  "2023-05-31": 5122,
-  "2023-06-01": 5122,
-  "2023-06-02": 5122,
-  "2023-06-03": 5122,
-  "2023-06-04": 5122,
-  "2023-06-05": 5122,
-  "2023-06-06": 5122,
-  "2023-06-07": 5122,
-  "2023-06-08": 5122,
-  "2023-06-09": 5122,
-  "2023-06-10": 5122,
-  "2023-06-11": 5122,
-  "2023-06-12": 5122,
-  "2023-06-13": 5122,
-  "2023-06-14": 5122,
-  "2023-06-15": 5122,
-  "2023-06-16": 5122,
-  "2023-06-17": 5122,
-  "2023-06-18": 5122,
-  "2023-06-19": 5122,
-  "2023-06-20": 5122,
-  "2023-06-21": 5122,
-  "2023-06-22": 5122,
-  "2023-06-23": 5122,
-  "2023-06-24": 5122,
-  "2023-06-25": 5122,
-  "2023-06-26": 5122,
-  "2023-06-27": 5122,
-  "2023-06-28": 5122,
-  "2023-06-29": 5122,
-  "2023-06-30": 5122,
-  "2023-07-01": 5122,
-  "2023-07-02": 5122,
-  "2023-07-03": 5122,
-  "2023-07-04": 5122,
-  "2023-07-05": 5122,
-  "2023-07-06": 5122,
-  "2023-07-07": 5122,
-  "2023-07-08": 5122,
-  "2023-07-09": 5122,
-  "2023-07-10": 5122,
-  "2023-07-11": 5122,
-  "2023-07-12": 5122,
-  "2023-07-13": 5122,
-  "2023-07-14": 5122,
-  "2023-07-15": 5122,
-  "2023-07-16": 5122,
-  "2023-07-17": 5122,
-  "2023-07-18": 5122,
-  "2023-07-19": 5122,
-  "2023-07-20": 5122,
-  "2023-07-21": 5122,
-  "2023-07-22": 5122,
-  "2023-07-23": 5122,
-  "2023-07-24": 5122,
-  "2023-07-25": 5122,
-  "2023-07-26": 5122,
-  "2023-07-27": 5122,
-  "2023-07-28": 5122,
-  "2023-07-29": 5122,
-  "2023-07-30": 5122,
-  "2023-07-31": 5122,
-  "2023-08-01": 5122,
-  "2023-08-02": 5122,
-  "2023-08-03": 5122,
-  "2023-08-04": 5122,
-  "2023-08-05": 5122,
-  "2023-08-06": 5122,
-  "2023-08-07": 5122,
-  "2023-08-08": 5122,
-  "2023-08-09": 5122,
-  "2023-08-10": 5122,
-  "2023-08-11": 5122,
-  "2023-08-12": 5122,
-  "2023-08-13": 5122,
-  "2023-08-14": 5122,
-  "2023-08-15": 5122,
-  "2023-08-16": 5122,
-  "2023-08-17": 5122,
-  "2023-08-18": 5122,
-  "2023-08-19": 5122,
-  "2023-08-20": 5122,
-  "2023-08-21": 5122,
-  "2023-08-22": 5122,
-  "2023-08-23": 5122,
-  "2023-08-24": 5122,
-  "2023-08-25": 5122,
-  "2023-08-26": 5122,
-  "2023-08-27": 5122,
-  "2023-08-28": 5122,
-  "2023-08-29": 5122,
-  "2023-08-30": 5122,
-  "2023-08-31": 5122,
-  "2023-09-01": 5122,
-  "2023-09-02": 5122,
-  "2023-09-03": 5122,
-  "2023-09-04": 5122,
-  "2023-09-05": 5122,
-  "2023-09-06": 5122,
-  "2023-09-07": 5122,
-  "2023-09-08": 5122,
-  "2023-09-09": 5122,
-  "2023-09-10": 5122,
-  "2023-09-11": 5122,
-  "2023-09-12": 5122,
-  "2023-09-13": 5122,
-  "2023-09-14": 5122,
-  "2023-09-15": 5122,
-  "2023-09-16": 5122,
-  "2023-09-17": 5122,
-  "2023-09-18": 5122,
-  "2023-09-19": 5122,
-  "2023-09-20": 5122,
-  "2023-09-21": 5122,
-  "2023-09-22": 5122,
-  "2023-09-23": 5122,
-  "2023-09-24": 5122,
-  "2023-09-25": 5122,
-  "2023-09-26": 5122,
-  "2023-09-27": 5122,
-  "2023-09-28": 5122,
-  "2023-09-29": 5122,
-  "2023-09-30": 5122,
-  "2023-10-01": 5122,
-  "2023-10-02": 5122,
-  "2023-10-03": 5122,
-  "2023-10-04": 5122,
-  "2023-10-05": 5122,
-  "2023-10-06": 5122,
-  "2023-10-07": 5122,
-  "2023-10-08": 5122,
-  "2023-10-09": 5122,
-  "2023-10-10": 5122,
-  "2023-10-11": 5122,
-  "2023-10-12": 5122,
-  "2023-10-13": 5122,
-  "2023-10-14": 5122,
-  "2023-10-15": 5122,
-  "2023-10-16": 5122,
-  "2023-10-17": 5122,
-  "2023-10-18": 5122,
-  "2023-10-19": 5122,
-  "2023-10-20": 5122,
-  "2023-10-21": 5122,
-  "2023-10-22": 5122,
-  "2023-10-23": 5122,
-  "2023-10-24": 5122,
-  "2023-10-25": 5122,
-  "2023-10-26": 5122,
-  "2023-10-27": 5122,
-  "2023-10-28": 5122,
-  "2023-10-29": 5122,
-  "2023-10-30": 5122,
-  "2023-10-31": 5122,
-  "2023-11-01": 5122,
-  "2023-11-02": 5122,
-  "2023-11-03": 5122,
-  "2023-11-04": 5122,
-  "2023-11-05": 5122,
-  "2023-11-06": 5122,
-  "2023-11-07": 5122,
-  "2023-11-08": 5122,
-  "2023-11-09": 5122,
-  "2023-11-10": 5122,
-  "2023-11-11": 5122,
-  "2023-11-12": 5122,
-  "2023-11-13": 5122,
-  "2023-11-14": 5122,
-  "2023-11-15": 5122,
-  "2023-11-16": 5122,
-  "2023-11-17": 5122,
-  "2023-11-18": 5122,
-  "2023-11-19": 5122,
-  "2023-11-20": 5122,
-  "2023-11-21": 5122,
-  "2023-11-22": 5122,
-  "2023-11-23": 5122,
-  "2023-11-24": 5122,
-  "2023-11-25": 5122,
-  "2023-11-26": 5122,
-  "2023-11-27": 5122,
-  "2023-11-28": 5122,
-  "2023-11-29": 5122,
-  "2023-11-30": 5122,
-  "2023-12-01": 5122,
-  "2023-12-02": 5122,
-  "2023-12-03": 5122,
-  "2023-12-04": 5122,
-  "2023-12-05": 5122,
-  "2023-12-06": 5122,
-  "2023-12-07": 5122,
-  "2023-12-08": 5122,
-  "2023-12-09": 5122,
-  "2023-12-10": 5122,
-  "2023-12-11": 5122,
-  "2023-12-12": 5122,
-  "2023-12-13": 5122,
-  "2023-12-14": 5122,
-  "2023-12-15": 5122,
-  "2023-12-16": 5122,
-  "2023-12-17": 5122,
-  "2023-12-18": 5122,
-  "2023-12-19": 5122,
-  "2023-12-20": 5122,
-  "2023-12-21": 5122,
-  "2023-12-22": 5122,
-  "2023-12-23": 5122,
-  "2023-12-24": 5122,
-  "2023-12-25": 5122,
-  "2023-12-26": 5122,
-  "2023-12-27": 5122,
-  "2023-12-30": 5122,
-  "2023-12-31": 5122,
-  "2024-01-01": 5122,
-  "2024-01-02": 5122,
-  "2024-01-03": 5122
+  "2024-01-17": 5122,
+  "date_first_scraped": "2021-12-21",
+  "description": "Within these words, \"midnight's all a glimmer, and noon a purple glow...\" Classic performances of Yeats' poems alongside the voice of the man himself.",
+  "name": "The Selected W. B. Yeats",
+  "tracks": [
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62600,
+      "name": "An Irish Airman Forsees His Death",
+      "url": "https://open.spotify.com/track/7C2u1vTLpcyailEzSPaueM"
+    },
+    {
+      "album": {
+        "name": "Yeats - A Selection",
+        "url": "https://open.spotify.com/album/53xm4WVZQsNE6VryQbp3lP"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147760,
+      "name": "Byzantium",
+      "url": "https://open.spotify.com/track/3j1lyPGH6Yi4Mk10rLvKWd"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51880,
+      "name": "Crazy Jane Talks With The Bishop",
+      "url": "https://open.spotify.com/track/4OtAwswi3IT8qHiuJRv9j6"
+    },
+    {
+      "album": {
+        "name": "Yeats - A Selection",
+        "url": "https://open.spotify.com/album/53xm4WVZQsNE6VryQbp3lP"
+      },
+      "artists": [
+        {
+          "name": "Basil Bunting",
+          "url": "https://open.spotify.com/artist/4OqwWOlX73PMVdCN9KsZ4g"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Easter 1916",
+      "url": "https://open.spotify.com/track/4RTVEUrOSl4ybKejVsN9vy"
+    },
+    {
+      "album": {
+        "name": "Into the Quiet Stream - Selected Poems of W B Yeats Read to a Background of Natural Sounds and Traditional Irish Airs",
+        "url": "https://open.spotify.com/album/57n955Gc2lx3NB9U4WDBGF"
+      },
+      "artists": [
+        {
+          "name": "Tony Deffely",
+          "url": "https://open.spotify.com/artist/71xYzpoJAvXRq6RWva4jJd"
+        },
+        {
+          "name": "Ernest Lyons",
+          "url": "https://open.spotify.com/artist/5Q7ceytKJZpWeyUkbjAOZn"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129093,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/6awxsPr3UJC1ge2gvU6DWV"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69133,
+      "name": "For Anne Gregory (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/2TfuAYDrhrvt4sOhdTpKDn"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        },
+        {
+          "name": "Marjorie Westbury",
+          "url": "https://open.spotify.com/artist/6tNK7jqS74XdYF39tQMAsX"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "I Am of Ireland",
+      "url": "https://open.spotify.com/track/6X8RwipLCYIsqJe58uVVyY"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marjorie Westbury",
+          "url": "https://open.spotify.com/artist/6tNK7jqS74XdYF39tQMAsX"
+        },
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32666,
+      "name": "Imitated from the Japanese",
+      "url": "https://open.spotify.com/track/7r7s15JM3CFEmCejnCxQ2H"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Lapis Lazuli",
+      "url": "https://open.spotify.com/track/5b8BH9EIr2Kviugp5cGQGP"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87133,
+      "name": "Leda & The Swan (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/0nhvu6oMUbeYwG9gbnolbC"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110973,
+      "name": "Long-Legged Fly (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/69IEThoBzeGn6NgVtP3ccl"
+    },
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59573,
+      "name": "Mad as the Mist and Snow",
+      "url": "https://open.spotify.com/track/28FpL8d5fikRKq9ferFG0X"
+    },
+    {
+      "album": {
+        "name": "Yeats - A Selection",
+        "url": "https://open.spotify.com/album/53xm4WVZQsNE6VryQbp3lP"
+      },
+      "artists": [
+        {
+          "name": "Siobhan McKenna",
+          "url": "https://open.spotify.com/artist/7yZVzjpziXqnNokrY4SM6A"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53360,
+      "name": "My Pastin Finn",
+      "url": "https://open.spotify.com/track/5u9QTiTa3qFkV9cd93Sp93"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107533,
+      "name": "News From The Delphic Oracle",
+      "url": "https://open.spotify.com/track/7KwS0ka02Dc9wipV4PTMI2"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "Marjorie Westbury",
+          "url": "https://open.spotify.com/artist/6tNK7jqS74XdYF39tQMAsX"
+        },
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94880,
+      "name": "O, But I Saw a Solemn Sight",
+      "url": "https://open.spotify.com/track/5URT4ysLCX7ncnm2x6it1w"
+    },
+    {
+      "album": {
+        "name": "Yeats - A Selection",
+        "url": "https://open.spotify.com/album/53xm4WVZQsNE6VryQbp3lP"
+      },
+      "artists": [
+        {
+          "name": "Basil Bunting",
+          "url": "https://open.spotify.com/artist/4OqwWOlX73PMVdCN9KsZ4g"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "Sailing to Byzantium",
+      "url": "https://open.spotify.com/track/4gAIhqwrrwa7XNrGBoi8IW"
+    },
+    {
+      "album": {
+        "name": "Night Ride Home",
+        "url": "https://open.spotify.com/album/37C1LyfEOiw9IbUhjor4i3"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415893,
+      "name": "Slouching Towards Bethlehem",
+      "url": "https://open.spotify.com/track/41tfVmKbftkZzKoEz3uiEc"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Solomon & The Witch (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/268FgXz4rd958JkyOfNryR"
+    },
+    {
+      "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/5Zah4fLbDN48as0KGmywh1"
+      },
+      "artists": [
+        {
+          "name": "Christy Moore",
+          "url": "https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "Song of Wandering Aongus",
+      "url": "https://open.spotify.com/track/3yFnKXEIXS40vvn2zrohzH"
+    },
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "Jill Bacon",
+          "url": "https://open.spotify.com/artist/0lWmVap7tUk0XwaggvKbtw"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48933,
+      "name": "Sweet Dancer",
+      "url": "https://open.spotify.com/track/6KnOQlu1BgCPmF96NLwzVp"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "Jill Balcon",
+          "url": "https://open.spotify.com/artist/0ENLBRzm2RkHvV6Xoh5FBt"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51120,
+      "name": "Sweet Dancer",
+      "url": "https://open.spotify.com/track/4uLrTarcBbolGtBmYTEfzY"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "The Circus Animals (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/6iVtHeYMwrZtl5eqvgBYl2"
+    },
+    {
+      "album": {
+        "name": "Poems by W.B. Yeats: Spoken According to His Own Direction and Poems for Several Voices",
+        "url": "https://open.spotify.com/album/68n0CThkUGUm6WZuGIY2Ji"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        },
+        {
+          "name": "Jill Balcon",
+          "url": "https://open.spotify.com/artist/0ENLBRzm2RkHvV6Xoh5FBt"
+        }
+      ],
+      "date_added": "2014-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "The Curse of Cromwell",
+      "url": "https://open.spotify.com/track/3jh1xg84G04hwmNv4dw83b"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122133,
+      "name": "The Dialogue of Self & Soul (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/2Zeoi4fgUlv8Thywes2nGR"
+    },
+    {
+      "album": {
+        "name": "The Very Best Historic Voices",
+        "url": "https://open.spotify.com/album/7cmdYngBaNcgzi2QW3ShoM"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "The Lake Isle Of Innisfree",
+      "url": "https://open.spotify.com/track/7JMN41fkjZwAwSl79BDBzR"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Siobham McKenna",
+          "url": "https://open.spotify.com/artist/425o5YUqp0W0SDupyblakJ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28546,
+      "name": "The Lover's Song",
+      "url": "https://open.spotify.com/track/42mKiQolTh3ictNUco8zIV"
+    },
+    {
+      "album": {
+        "name": "The 100 Greatest Poems of All Time",
+        "url": "https://open.spotify.com/album/54sLcwkY8KjNPm9ZrtoPVT"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34066,
+      "name": "The Magi by W. B. Yeats",
+      "url": "https://open.spotify.com/track/5HGJ7RfbfZb6059xi1MKKW"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Michael MacLiammoir",
+          "url": "https://open.spotify.com/artist/6pSUxFRYyrvtvEqw4T1jub"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77506,
+      "name": "The Rose Of The World",
+      "url": "https://open.spotify.com/track/6AaRBFKrCqNOdXJtcxHtmc"
+    },
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "V. C. Clinton-Baddeley",
+          "url": "https://open.spotify.com/artist/7CpH6I1FnPQKFG9P1paNGH"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57266,
+      "name": "The Rose Tree",
+      "url": "https://open.spotify.com/track/6lp6sOE5C2wkM2Rnj8RAnP"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95013,
+      "name": "The Second Coming",
+      "url": "https://open.spotify.com/track/6dJMTyt9R7tV45eowLT7Tk"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49866,
+      "name": "The Song Of The Old Mother",
+      "url": "https://open.spotify.com/track/3w7xb3hKqIICyn7n98p91c"
+    },
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80466,
+      "name": "The Song of Wandering Aegnus",
+      "url": "https://open.spotify.com/track/55Z1xRqMX1MPY8jYNOaUsF"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100400,
+      "name": "The Speech of Oedipus At Colonus (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/6KiKW5uUfHZKIIgNorzAgC"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307560,
+      "name": "The Three Bushes (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/1aWmQeOAEGENyKEswrbhno"
+    },
+    {
+      "album": {
+        "name": "The 100 Greatest Poems of All Time",
+        "url": "https://open.spotify.com/album/54sLcwkY8KjNPm9ZrtoPVT"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "The Wild Swans at Coole by W. B. Yeats",
+      "url": "https://open.spotify.com/track/2JWDQew8LcBPcF46T8eLe4"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92133,
+      "name": "Three Things (W. B. Yeats)",
+      "url": "https://open.spotify.com/track/4WA3ySMTg3q58LIGV9yOL6"
+    },
+    {
+      "album": {
+        "name": "The 100 Greatest Poems of All Time",
+        "url": "https://open.spotify.com/album/54sLcwkY8KjNPm9ZrtoPVT"
+      },
+      "artists": [
+        {
+          "name": "Michael MacLiammoir",
+          "url": "https://open.spotify.com/artist/6pSUxFRYyrvtvEqw4T1jub"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187347,
+      "name": "To Ireland in the Coming Times by W. B. Yeats",
+      "url": "https://open.spotify.com/track/1PRop5EnAJ8uk5bok8GtJ4"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Michael MacLiammoir",
+          "url": "https://open.spotify.com/artist/6pSUxFRYyrvtvEqw4T1jub"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127453,
+      "name": "To The Rose Upon The Rood Of Time",
+      "url": "https://open.spotify.com/track/6ogq4dWcAhHttGXxI4QXWJ"
+    },
+    {
+      "album": {
+        "name": "The Poetry of William Butler Yeats",
+        "url": "https://open.spotify.com/album/3QiILNDD7KlOPpf0mDyrT0"
+      },
+      "artists": [
+        {
+          "name": "Michael MacLiammoir",
+          "url": "https://open.spotify.com/artist/6pSUxFRYyrvtvEqw4T1jub"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309626,
+      "name": "Under Ben Bulben",
+      "url": "https://open.spotify.com/track/3OJBmJl4CzfCSlMdXBK6Jg"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511186,
+      "name": "W B Yeats Reads and Discusses Poetry by Ts Eliot, Paul Fort and Cecil Day Lewis (1936)",
+      "url": "https://open.spotify.com/track/3gxNyxTNDn7kEAwH8oXIjX"
+    },
+    {
+      "album": {
+        "name": "Great Audio Moments, Vol.39: Famous Irish Writers",
+        "url": "https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp"
+      },
+      "artists": [
+        {
+          "name": "William Butler Yeats",
+          "url": "https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88226,
+      "name": "W B Yeats Reads His Poem the Song of the Old Mother (1934)",
+      "url": "https://open.spotify.com/track/620YSoyrcf7xrn0ugyW5X8"
+    },
+    {
+      "album": {
+        "name": "Poetry of Yeats",
+        "url": "https://open.spotify.com/album/6NvFEpLo0Y4aee498aPulC"
+      },
+      "artists": [
+        {
+          "name": "Cyril Cusack",
+          "url": "https://open.spotify.com/artist/6liay9K2xBsfUEUQYKbwWD"
+        }
+      ],
+      "date_added": "2014-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Why Should Not Old Men Be Mad",
+      "url": "https://open.spotify.com/track/6XkcEWrK2SqqmT3uqWDwEI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZFQPyPt2dUz"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWVXhjjs3RH.md) - [plain]
 
 > La playlist officielle de la Reine des Neiges
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302 likes - 43 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307 likes - 43 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

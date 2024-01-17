@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,015 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,121 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 99 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 |
 | 100 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `MCw5YWQwN2RlMmRiZGI1ZTQzZDZkNzhmMzRhYzAzZGJjZWI5MmE4NDgy`
+Snapshot ID: `MCw2NzBhYTIwMjg0NTJlN2FmZDdjMTdiMjAyNDkzYTlkZGM4MTgyN2U1`

@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=IgW7s1DITrCiFOfUmYULMA">Wordz</a>
 
-659 songs - 1 day 11 hr 48 min
+661 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bonita](https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [D38](https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe) | [Bonita](https://open.spotify.com/album/7hXYfIiJPD6HcL7PGZkvuC) | 1:50 | 2023-07-14 | 2023-08-29 |
 | [Bounce](https://open.spotify.com/track/1yhEUTqqWLLqY95jmtpXaU) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E) | [Bounce](https://open.spotify.com/album/0fHIglVHOFj4RN16LKJ4ax) | 2:42 | 2022-02-03 | 2022-02-11 |
 | [Bounce](https://open.spotify.com/track/2NCBPwWkgcOP40vothxEio) | [HolyTrill](https://open.spotify.com/artist/1QRjMvXWDMp1CagLhSspjG) | [Bounce](https://open.spotify.com/album/4iDpgWQI8APSOqkbL0iuUP) | 2:10 | 2022-03-31 | 2022-04-15 |
+| [Bounce](https://open.spotify.com/track/38UjoTvHAPl0faBoO5ZoVX) | [S'BO Gyre](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [LTO](https://open.spotify.com/artist/3qYBtbmNfQZGjqtty0WvZ1) | [Bounce](https://open.spotify.com/album/4bMp5br56NS35NoHLhohOV) | 3:05 | 2024-01-11 |  |
 | [Bout To Blow](https://open.spotify.com/track/6KeCVKdeFkDyxAMNZRBbcr) | [itsbambino](https://open.spotify.com/artist/3p8i5tsSDkMmH4Rerw0fF1), [808SEASON](https://open.spotify.com/artist/1avASIy1d5GCvolpaTEixD), [Bobbymk](https://open.spotify.com/artist/5l8JX3VR9GsFkIV3k5OeUY) | [Bout To Blow](https://open.spotify.com/album/1dh61DQeQ1SoXgHzltNne1) | 2:56 | 2022-02-03 | 2022-02-11 |
 | [Brand New](https://open.spotify.com/track/1r6vTdBiwWpboaHYkJMRmw) | [DeWun Music](https://open.spotify.com/artist/0oOX6CGH3wjifuSV7yQlQy), [Dre Autumn](https://open.spotify.com/artist/0PGW5aSldNIk8XsrjFgWQq) | [Brand New](https://open.spotify.com/album/56ZLm7NnfPpGcqKwEbkeBs) | 3:14 | 2022-03-10 | 2022-04-15 |
 | [Brand New \(Thank You\)](https://open.spotify.com/track/4MYrmPsing0eis7RQoWhda) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Brand New \(Thank You\)](https://open.spotify.com/album/2AMm3NFzpKYK9j19WcL6Sp) | 2:40 | 2022-01-27 | 2022-02-11 |
@@ -110,6 +111,7 @@
 | [BYOR BO DESE](https://open.spotify.com/track/1JQL6EGsxCGfX6Md5bUUuh) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [IF YOU KNOW, YOU KNOW](https://open.spotify.com/album/2td1HDBVQHA3XPXfe5vlRk) | 3:08 | 2023-02-01 | 2023-06-16 |
 | [Ca$h](https://open.spotify.com/track/5fXaf3UPuP1Dwvn2pOQXhT) | [A.M.G YoungProdigy](https://open.spotify.com/artist/4Kw9TzO62gSwx3enPkuz2F), [Elem3n](https://open.spotify.com/artist/4ZwIJkYX5h2ncPyGCW8fsX) | [Ca$h](https://open.spotify.com/album/0CdGRfSBJKWpT9YGXtAO30) | 2:19 | 2022-09-09 | 2022-09-23 |
 | [Cadavers](https://open.spotify.com/track/3kJJH1oJfRLcs5FAgDCXxW) | [Mykey](https://open.spotify.com/artist/11GCHRgivzz2xYBv5pKwRz) | [inertia](https://open.spotify.com/album/5RlFwZLVeYur8csILcTA9p) | 1:56 | 2022-04-14 | 2022-06-28 |
+| [Caffienated Tea](https://open.spotify.com/track/5k93Ore0yBUViWIIl8WbmZ) | [King Lutendo](https://open.spotify.com/artist/7361yHNXTgVwZBXsbqI0Lu) | [What then, What now?](https://open.spotify.com/album/0BxWOnjh3UUp988fTChh7B) | 2:22 | 2024-01-11 |  |
 | [Call Me Up](https://open.spotify.com/track/7cSlFpcnrIDsmwVw3QFoJA) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [Call Me Up](https://open.spotify.com/album/0Dsh8VOYvRMQPe3hco5TpI) | 3:28 | 2022-03-24 | 2022-04-15 |
 | [CALLING FOR YOU](https://open.spotify.com/track/0ktPQbm5bTtSBKjdpk6uXl) | [DYLAN](https://open.spotify.com/artist/0MiK2GCTKCn7okire8MtHu) | [CALLING FOR YOU](https://open.spotify.com/album/2NbNT1yKWjHgQ4a2Ytv8vV) | 2:01 | 2023-10-20 | 2023-11-07 |
 | [Calls On Me](https://open.spotify.com/track/3HsdEh6AiLR4OM8fuTBdZ9) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Calls On Me](https://open.spotify.com/album/5OSzG9Pfyrj4AcBVYz9bo5) | 2:38 | 2022-03-24 | 2022-07-29 |

@@ -1,148 +1,1151 @@
 {
-  "2023-08-09": 493371,
-  "2023-08-10": 493680,
-  "2023-08-11": 494075,
-  "2023-08-12": 494075,
-  "2023-08-13": 494075,
-  "2023-08-14": 495112,
-  "2023-08-15": 495112,
-  "2023-08-16": 495112,
-  "2023-08-17": 495112,
-  "2023-08-18": 495112,
-  "2023-08-19": 495112,
-  "2023-08-20": 497125,
-  "2023-08-21": 497125,
-  "2023-08-22": 497689,
-  "2023-08-23": 497689,
-  "2023-08-24": 497689,
-  "2023-08-25": 497689,
-  "2023-08-26": 499058,
-  "2023-08-27": 499058,
-  "2023-08-28": 499740,
-  "2023-08-29": 499740,
-  "2023-08-30": 499740,
-  "2023-08-31": 500714,
-  "2023-09-01": 501079,
-  "2023-09-02": 501079,
-  "2023-09-03": 501079,
-  "2023-09-04": 501079,
-  "2023-09-05": 501079,
-  "2023-09-06": 501079,
-  "2023-09-07": 501079,
-  "2023-09-08": 501079,
-  "2023-09-09": 501079,
-  "2023-09-10": 501079,
-  "2023-09-11": 501079,
-  "2023-09-12": 501079,
-  "2023-09-13": 501079,
-  "2023-09-14": 501079,
-  "2023-09-15": 501079,
-  "2023-09-16": 506986,
-  "2023-09-17": 506986,
-  "2023-09-18": 506986,
-  "2023-09-19": 507924,
-  "2023-09-20": 507924,
-  "2023-09-21": 507924,
-  "2023-09-22": 508765,
-  "2023-09-23": 508765,
-  "2023-09-24": 508765,
-  "2023-09-25": 508765,
-  "2023-09-26": 509901,
-  "2023-09-27": 509901,
-  "2023-09-28": 509901,
-  "2023-09-29": 509901,
-  "2023-09-30": 509901,
-  "2023-10-01": 509901,
-  "2023-10-02": 509901,
-  "2023-10-03": 509901,
-  "2023-10-04": 509901,
-  "2023-10-05": 509901,
-  "2023-10-06": 509901,
-  "2023-10-07": 509901,
-  "2023-10-08": 509901,
-  "2023-10-09": 509901,
-  "2023-10-10": 509901,
-  "2023-10-11": 514955,
-  "2023-10-12": 514955,
-  "2023-10-13": 514955,
-  "2023-10-14": 514955,
-  "2023-10-15": 514955,
-  "2023-10-16": 514955,
-  "2023-10-17": 514955,
-  "2023-10-18": 514955,
-  "2023-10-19": 514955,
-  "2023-10-20": 514955,
-  "2023-10-21": 514955,
-  "2023-10-22": 514955,
-  "2023-10-23": 514955,
-  "2023-10-24": 514955,
-  "2023-10-25": 514955,
-  "2023-10-26": 514955,
-  "2023-10-27": 514955,
-  "2023-10-28": 514955,
-  "2023-10-29": 514955,
-  "2023-10-30": 514955,
-  "2023-10-31": 514955,
-  "2023-11-01": 514955,
-  "2023-11-02": 514955,
-  "2023-11-03": 514955,
-  "2023-11-04": 514955,
-  "2023-11-05": 514955,
-  "2023-11-06": 514955,
-  "2023-11-07": 514955,
-  "2023-11-08": 514955,
-  "2023-11-09": 514955,
-  "2023-11-10": 514955,
-  "2023-11-11": 522421,
-  "2023-11-12": 522421,
-  "2023-11-13": 522421,
-  "2023-11-14": 522421,
-  "2023-11-15": 522421,
-  "2023-11-16": 522421,
-  "2023-11-17": 522421,
-  "2023-11-18": 522421,
-  "2023-11-19": 522421,
-  "2023-11-20": 522421,
-  "2023-11-21": 522421,
-  "2023-11-22": 522421,
-  "2023-11-23": 522421,
-  "2023-11-24": 522421,
-  "2023-11-25": 522421,
-  "2023-11-26": 522421,
-  "2023-11-27": 522421,
-  "2023-11-28": 522421,
-  "2023-11-29": 522421,
-  "2023-11-30": 522421,
-  "2023-12-01": 522421,
-  "2023-12-02": 522421,
-  "2023-12-03": 522421,
-  "2023-12-04": 522421,
-  "2023-12-05": 522421,
-  "2023-12-06": 522421,
-  "2023-12-07": 522421,
-  "2023-12-08": 522421,
-  "2023-12-09": 522421,
-  "2023-12-10": 522421,
-  "2023-12-11": 522421,
-  "2023-12-12": 522421,
-  "2023-12-13": 522421,
-  "2023-12-14": 530398,
-  "2023-12-15": 530550,
-  "2023-12-16": 530732,
-  "2023-12-17": 530962,
-  "2023-12-18": 531174,
-  "2023-12-19": 531333,
-  "2023-12-20": 531543,
-  "2023-12-21": 531731,
-  "2023-12-22": 531951,
-  "2023-12-23": 532188,
-  "2023-12-24": 532431,
-  "2023-12-25": 532587,
-  "2023-12-26": 532743,
-  "2023-12-27": 532861,
-  "2023-12-30": 533385,
-  "2023-12-31": 533638,
-  "2024-01-01": 533840,
-  "2024-01-02": 533989,
-  "2024-01-03": 534108
+  "2024-01-17": 534850,
+  "date_first_scraped": "2023-08-09",
+  "description": "This is La Arrolladora Banda El Lim\u00f3n De Rene Camacho. The essential tracks, all in one playlist.",
+  "name": "This Is La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+  "tracks": [
+    {
+      "album": {
+        "name": "Labios Mentirosos",
+        "url": "https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Ahora Que Me Acuerdo",
+      "url": "https://open.spotify.com/track/7r81SDmiDwPX4rcZJ6ULAp"
+    },
+    {
+      "album": {
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318373,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
+    },
+    {
+      "album": {
+        "name": "Belleza Pura",
+        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 204453,
+      "name": "Belleza Pura",
+      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
+    },
+    {
+      "album": {
+        "name": "Irreversible... 2012",
+        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Cabecita Dura",
+      "url": "https://open.spotify.com/track/1y8vhYug05asslmpY8bFel"
+    },
+    {
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210106,
+      "name": "Calidad Y Cantidad",
+      "url": "https://open.spotify.com/track/0nfp44XFmPrLDMMmYfNIP3"
+    },
+    {
+      "album": {
+        "name": "Caro Descaro",
+        "url": "https://open.spotify.com/album/5gTnpaxyS9hX1RYd1omt6g"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 177933,
+      "name": "Caro Descaro",
+      "url": "https://open.spotify.com/track/7uwdbAR1pciHerZescRlWk"
+    },
+    {
+      "album": {
+        "name": "Ced\u00ed",
+        "url": "https://open.spotify.com/album/6Tez8YETehXZ8GS6Q9yh4j"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Ced\u00ed",
+      "url": "https://open.spotify.com/track/0C5u9cvJGDP4YpIbUyzJW4"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Como Pez En El Agua",
+      "url": "https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a"
+    },
+    {
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/2tth2JJ9zhSGVUj9VQGefc"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial De La Arrolladora Banda El Lim\u00f3n",
+        "url": "https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/7KfNNSQO6UCfvvsppqpD7q"
+    },
+    {
+      "album": {
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206920,
+      "name": "Disponible Para Mi",
+      "url": "https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ"
+    },
+    {
+      "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 184493,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 227906,
+      "name": "El Precio De Mis Errores",
+      "url": "https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265880,
+      "name": "El Ruido De Tus Zapatos",
+      "url": "https://open.spotify.com/track/3VhupipSGvOXrNrNvUwhs1"
+    },
+    {
+      "album": {
+        "name": "Corridos Arrolladores",
+        "url": "https://open.spotify.com/album/6X8lyLxsx0CjQC2zmB5tBM"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 189386,
+      "name": "El Tarasco",
+      "url": "https://open.spotify.com/track/2CERhSl038O4NVErqwjzNj"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 203880,
+      "name": "El Vaso Derrama",
+      "url": "https://open.spotify.com/track/1Y9ngFP6W8X5sCswNZVRVH"
+    },
+    {
+      "album": {
+        "name": "Se Me Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/3RQE9EK4sgE56SgXnVq7t3"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "En Los Puritos Huesos",
+      "url": "https://open.spotify.com/track/3EbJCtH2eZ3XdtEgW5OjYf"
+    },
+    {
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+    },
+    {
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Entr\u00e9game Tu Amor",
+      "url": "https://open.spotify.com/track/2wzMk91znotFiJhsSUsPvl"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Heridas Que Se Curan",
+      "url": "https://open.spotify.com/track/4AdOMdWTMBsSRpmPznoZwC"
+    },
+    {
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "Huele A Peligro",
+      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "La Calabaza",
+      "url": "https://open.spotify.com/track/2xEiDaMsdfYhkTeP6J02vm"
+    },
+    {
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "La Otra Cara De La Moneda",
+      "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "album": {
+        "name": "Irreversible... 2012",
+        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "Llamada De Mi Ex",
+      "url": "https://open.spotify.com/track/4CV3GcAHLsYhWCQAoooQZW"
+    },
+    {
+      "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Lo Hiciste Otra Vez",
+      "url": "https://open.spotify.com/track/3ddqNG2bohXWZaHZ8a4Tqx"
+    },
+    {
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "album": {
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Lucio Vazquez",
+      "url": "https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f"
+    },
+    {
+      "album": {
+        "name": "Manos De Tijera",
+        "url": "https://open.spotify.com/album/0P6t2omP7inmRkHnnQuWcp"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241186,
+      "name": "Manos De Tijera",
+      "url": "https://open.spotify.com/track/0flla08BdQxOrdbMl5oDO6"
+    },
+    {
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "album": {
+        "name": "Es Cab ... El Viejo",
+        "url": "https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279546,
+      "name": "Mis Recuerdos",
+      "url": "https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "M\u00e1s Adelante",
+      "url": "https://open.spotify.com/track/56xpQv8NgsV68PPYpEVDr4"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188413,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "album": {
+        "name": "Irreversible... 2012",
+        "url": "https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "No Me Vengas A Decir",
+      "url": "https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 200106,
+      "name": "No Supe Cuidarte",
+      "url": "https://open.spotify.com/track/3pEV1D789o7rm2wvHdrAF0"
+    },
+    {
+      "album": {
+        "name": "Nunca Dudes En Llamarme",
+        "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204160,
+      "name": "Nunca Dudes En Llamarme",
+      "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
+    },
+    {
+      "album": {
+        "name": "Simplemente Arrolladora",
+        "url": "https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Perd\u00f3n \u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/05j5qhTcoVl3WTdMVQEOqc"
+    },
+    {
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 154440,
+      "name": "Roman Iriarte",
+      "url": "https://open.spotify.com/track/7wUVcpOHa6xDl9YMuYyrZK"
+    },
+    {
+      "album": {
+        "name": "Secretos De Mi Memoria",
+        "url": "https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 143813,
+      "name": "Se Les Pelo Baltazar",
+      "url": "https://open.spotify.com/track/5SQPSfvwQiu0g3HTOSm7Iv"
+    },
+    {
+      "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 188893,
+      "name": "Se Me Canso El Corazon",
+      "url": "https://open.spotify.com/track/29qY2kVjH6wtaoD5cj09q7"
+    },
+    {
+      "album": {
+        "name": "Secretos De Mi Memoria",
+        "url": "https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "Secretos De Mi Memoria",
+      "url": "https://open.spotify.com/track/09aZzS1QTGtrBx4Ys0xIRr"
+    },
+    {
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/4BU4gDeAJ2BTLWqCs9SRU4"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Si Yo Te Contara",
+      "url": "https://open.spotify.com/track/1uziiqdJSWCbAINo8s68CX"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Siempre Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/1t5Wme3dVkQuBgmyOaqzuy"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Te Estar\u00e9 Esperando",
+      "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
+    },
+    {
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 206200,
+      "name": "Tiene Raz\u00f3n La L\u00f3gica",
+      "url": "https://open.spotify.com/track/24EmEWZb7PM3AtHtvOIcFu"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197160,
+      "name": "Todo Depende De Ti",
+      "url": "https://open.spotify.com/track/1unwIlqSOvwZgB38pG0GlU"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Tu Historia Fue Conmigo",
+      "url": "https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg"
+    },
+    {
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "T\u00fa Eres La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
+    },
+    {
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Vali\u00f3 la Pena Equivocarme",
+      "url": "https://open.spotify.com/track/3Tg6vd7RNktpxZCqp3sQjA"
+    },
+    {
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9"
+    },
+    {
+      "album": {
+        "name": "Ya Me La Deb\u00edas",
+        "url": "https://open.spotify.com/album/4pjscqb5KSeStDFgaQoNra"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Ya Me La Deb\u00edas",
+      "url": "https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa"
+    },
+    {
+      "album": {
+        "name": "Todo Depende De Ti",
+        "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Ya No Te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/7LRYw74nztDptYIStswo9K"
+    },
+    {
+      "album": {
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269480,
+      "name": "Ya No Volver\u00e1s",
+      "url": "https://open.spotify.com/track/2PPtCuRnzihlobecZDbVZe"
+    },
+    {
+      "album": {
+        "name": "Ojos En Blanco",
+        "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147053,
+      "name": "Ya Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+    },
+    {
+      "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "Yo Me Confi\u00e9",
+      "url": "https://open.spotify.com/track/12cRDWVrxI7Wf0KHiVr3fH"
+    },
+    {
+      "album": {
+        "name": "Simplemente Arrolladora",
+        "url": "https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "\u00bfQu\u00e9 Me Vas a Dar?",
+      "url": "https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m"
 }

@@ -3567,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Blood & Stone",
+        "url": "https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189105,
+      "name": "Dying to Live",
+      "url": "https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5"
+    },
+    {
+      "album": {
         "name": "Scar Weaver",
         "url": "https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1"
       },
@@ -5432,7 +5450,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": "2024-01-14",
       "duration_ms": 220426,
       "name": "House of Mirrors",
       "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
@@ -10822,7 +10840,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 410746,
       "name": "Stained in Red",
       "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
@@ -12923,6 +12941,24 @@
     },
     {
       "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
@@ -12952,7 +12988,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM"

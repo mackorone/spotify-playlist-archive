@@ -1,595 +1,581 @@
 {
-  "2022-05-15": 20325,
-  "2022-05-16": 21253,
-  "2022-05-17": 21951,
-  "2022-05-18": 22572,
-  "2022-05-19": 23124,
-  "2022-05-20": 23943,
-  "2022-05-21": 25297,
-  "2022-05-22": 25297,
-  "2022-05-23": 25925,
-  "2022-05-24": 26434,
-  "2022-05-25": 26856,
-  "2022-05-26": 27273,
-  "2022-05-27": 33704,
-  "2022-05-28": 52527,
-  "2022-05-29": 63551,
-  "2022-05-30": 70333,
-  "2022-05-31": 74841,
-  "2022-06-01": 77104,
-  "2022-06-02": 77184,
-  "2022-06-03": 77896,
-  "2022-06-04": 78350,
-  "2022-06-05": 78853,
-  "2022-06-06": 79293,
-  "2022-06-07": 79616,
-  "2022-06-08": 80072,
-  "2022-06-09": 80337,
-  "2022-06-10": 80574,
-  "2022-06-11": 80775,
-  "2022-06-12": 81033,
-  "2022-06-13": 81208,
-  "2022-06-14": 81235,
-  "2022-06-15": 81162,
-  "2022-06-16": 81125,
-  "2022-06-17": 81183,
-  "2022-06-18": 81328,
-  "2022-06-19": 81597,
-  "2022-06-20": 81597,
-  "2022-06-21": 81683,
-  "2022-06-22": 81816,
-  "2022-06-23": 81816,
-  "2022-06-24": 81826,
-  "2022-06-25": 81878,
-  "2022-06-26": 81933,
-  "2022-06-27": 81988,
-  "2022-06-28": 82032,
-  "2022-06-29": 82085,
-  "2022-06-30": 82132,
-  "2022-07-01": 82158,
-  "2022-07-02": 82194,
-  "2022-07-03": 82260,
-  "2022-07-04": 82316,
-  "2022-07-05": 82353,
-  "2022-07-06": 82410,
-  "2022-07-07": 82422,
-  "2022-07-08": 82440,
-  "2022-07-09": 82480,
-  "2022-07-10": 82506,
-  "2022-07-11": 82522,
-  "2022-07-12": 82530,
-  "2022-07-13": 82570,
-  "2022-07-14": 82589,
-  "2022-07-15": 82607,
-  "2022-07-16": 82616,
-  "2022-07-17": 82657,
-  "2022-07-18": 82697,
-  "2022-07-19": 82740,
-  "2022-07-20": 82742,
-  "2022-07-21": 82765,
-  "2022-07-22": 82775,
-  "2022-07-23": 82823,
-  "2022-07-24": 82864,
-  "2022-07-25": 82880,
-  "2022-07-26": 82886,
-  "2022-07-27": 82907,
-  "2022-07-28": 82927,
-  "2022-07-29": 82951,
-  "2022-07-30": 82959,
-  "2022-07-31": 82959,
-  "2022-08-01": 82985,
-  "2022-08-02": 83000,
-  "2022-08-03": 83000,
-  "2022-08-04": 83020,
-  "2022-08-05": 83031,
-  "2022-08-06": 83061,
-  "2022-08-07": 83106,
-  "2022-08-08": 83143,
-  "2022-08-09": 83139,
-  "2022-08-10": 83165,
-  "2022-08-11": 83200,
-  "2022-08-12": 83206,
-  "2022-08-13": 83215,
-  "2022-08-14": 83245,
-  "2022-08-15": 83265,
-  "2022-08-16": 83255,
-  "2022-08-17": 83279,
-  "2022-08-18": 83295,
-  "2022-08-19": 83313,
-  "2022-08-20": 83310,
-  "2022-08-21": 83326,
-  "2022-08-22": 83326,
-  "2022-08-23": 83329,
-  "2022-08-24": 83336,
-  "2022-08-25": 83331,
-  "2022-08-26": 83329,
-  "2022-08-27": 83329,
-  "2022-08-28": 83338,
-  "2022-08-29": 83330,
-  "2022-08-30": 83342,
-  "2022-08-31": 83352,
-  "2022-09-01": 83349,
-  "2022-09-02": 83362,
-  "2022-09-03": 83371,
-  "2022-09-04": 83394,
-  "2022-09-05": 83402,
-  "2022-09-06": 83409,
-  "2022-09-07": 83411,
-  "2022-09-09": 83448,
-  "2022-09-10": 83448,
-  "2022-09-11": 83419,
-  "2022-09-12": 83412,
-  "2022-09-13": 83413,
-  "2022-09-15": 83404,
-  "2022-09-16": 83409,
-  "2022-09-17": 83390,
-  "2022-09-18": 83361,
-  "2022-09-19": 83336,
-  "2022-09-20": 83336,
-  "2022-09-21": 83328,
-  "2022-09-22": 83318,
-  "2022-09-23": 83320,
-  "2022-09-24": 83321,
-  "2022-09-25": 83303,
-  "2022-09-26": 83288,
-  "2022-09-27": 83287,
-  "2022-09-28": 83298,
-  "2022-09-29": 83303,
-  "2022-09-30": 83312,
-  "2022-10-01": 83331,
-  "2022-10-02": 83326,
-  "2022-10-03": 83324,
-  "2022-10-04": 83310,
-  "2022-10-05": 83304,
-  "2022-10-06": 83288,
-  "2022-10-07": 83289,
-  "2022-10-08": 83299,
-  "2022-10-09": 83312,
-  "2022-10-10": 83315,
-  "2022-10-11": 83313,
-  "2022-10-12": 83289,
-  "2022-10-13": 83298,
-  "2022-10-14": 83294,
-  "2022-10-15": 83290,
-  "2022-10-16": 83307,
-  "2022-10-17": 83284,
-  "2022-10-18": 83277,
-  "2022-10-19": 83263,
-  "2022-10-20": 83251,
-  "2022-10-21": 83251,
-  "2022-10-22": 83258,
-  "2022-10-23": 83265,
-  "2022-10-24": 83255,
-  "2022-10-25": 83248,
-  "2022-10-26": 83238,
-  "2022-10-27": 83231,
-  "2022-10-28": 83238,
-  "2022-10-29": 83243,
-  "2022-10-30": 83238,
-  "2022-10-31": 83232,
-  "2022-11-01": 83219,
-  "2022-11-02": 83236,
-  "2022-11-03": 83234,
-  "2022-11-04": 83227,
-  "2022-11-05": 83235,
-  "2022-11-06": 83240,
-  "2022-11-07": 83248,
-  "2022-11-08": 83240,
-  "2022-11-09": 83246,
-  "2022-11-10": 83261,
-  "2022-11-11": 83273,
-  "2022-11-12": 83262,
-  "2022-11-13": 83271,
-  "2022-11-14": 83270,
-  "2022-11-15": 83264,
-  "2022-11-16": 83263,
-  "2022-11-17": 83265,
-  "2022-11-18": 83251,
-  "2022-11-19": 83209,
-  "2022-11-20": 83180,
-  "2022-11-21": 83168,
-  "2022-11-22": 83157,
-  "2022-11-23": 83187,
-  "2022-11-24": 83222,
-  "2022-11-25": 83280,
-  "2022-11-26": 83304,
-  "2022-11-27": 83317,
-  "2022-11-28": 83313,
-  "2022-11-29": 83328,
-  "2022-11-30": 83352,
-  "2022-12-01": 83330,
-  "2022-12-02": 83305,
-  "2022-12-03": 83332,
-  "2022-12-04": 83314,
-  "2022-12-05": 83303,
-  "2022-12-06": 83304,
-  "2022-12-07": 83327,
-  "2022-12-08": 83335,
-  "2022-12-09": 83335,
-  "2022-12-10": 83320,
-  "2022-12-11": 83335,
-  "2022-12-12": 83350,
-  "2022-12-13": 83340,
-  "2022-12-14": 83358,
-  "2022-12-15": 83360,
-  "2022-12-16": 83356,
-  "2022-12-17": 83353,
-  "2022-12-18": 83353,
-  "2022-12-19": 83352,
-  "2022-12-20": 83365,
-  "2022-12-21": 83365,
-  "2022-12-22": 83363,
-  "2022-12-24": 83357,
-  "2022-12-25": 83357,
-  "2022-12-26": 83362,
-  "2022-12-27": 83358,
-  "2022-12-28": 83359,
-  "2022-12-29": 83357,
-  "2022-12-30": 83336,
-  "2022-12-31": 83339,
-  "2023-01-01": 83354,
-  "2023-01-02": 83350,
-  "2023-01-03": 83346,
-  "2023-01-04": 83344,
-  "2023-01-05": 83348,
-  "2023-01-06": 83327,
-  "2023-01-07": 83314,
-  "2023-01-08": 83317,
-  "2023-01-09": 83316,
-  "2023-01-10": 83317,
-  "2023-01-11": 83320,
-  "2023-01-12": 83319,
-  "2023-01-13": 83326,
-  "2023-01-14": 83323,
-  "2023-01-15": 83322,
-  "2023-01-16": 83317,
-  "2023-01-17": 83325,
-  "2023-01-18": 83324,
-  "2023-01-19": 83326,
-  "2023-01-20": 83316,
-  "2023-01-21": 83301,
-  "2023-01-22": 83305,
-  "2023-01-23": 83289,
-  "2023-01-24": 83298,
-  "2023-01-25": 83304,
-  "2023-01-26": 83307,
-  "2023-01-27": 83301,
-  "2023-01-28": 83291,
-  "2023-01-29": 83294,
-  "2023-01-30": 83303,
-  "2023-01-31": 83303,
-  "2023-02-01": 83299,
-  "2023-02-02": 83308,
-  "2023-02-03": 83309,
-  "2023-02-04": 83327,
-  "2023-02-05": 83342,
-  "2023-02-06": 83349,
-  "2023-02-07": 83354,
-  "2023-02-08": 83370,
-  "2023-02-09": 83370,
-  "2023-02-10": 83380,
-  "2023-02-11": 83371,
-  "2023-02-12": 83380,
-  "2023-02-13": 83387,
-  "2023-02-14": 83387,
-  "2023-02-15": 83373,
-  "2023-02-16": 83376,
-  "2023-02-17": 83382,
-  "2023-02-18": 83380,
-  "2023-02-19": 83378,
-  "2023-02-20": 83396,
-  "2023-02-21": 83398,
-  "2023-02-22": 83402,
-  "2023-02-23": 83420,
-  "2023-02-24": 83421,
-  "2023-02-25": 83416,
-  "2023-02-26": 83416,
-  "2023-02-27": 83423,
-  "2023-02-28": 83423,
-  "2023-03-01": 83436,
-  "2023-03-02": 83443,
-  "2023-03-03": 83441,
-  "2023-03-04": 83433,
-  "2023-03-05": 83430,
-  "2023-03-06": 83430,
-  "2023-03-07": 83437,
-  "2023-03-08": 83444,
-  "2023-03-09": 83454,
-  "2023-03-10": 83449,
-  "2023-03-11": 83441,
-  "2023-03-12": 83446,
-  "2023-03-13": 83452,
-  "2023-03-14": 83451,
-  "2023-03-15": 83442,
-  "2023-03-16": 83436,
-  "2023-03-17": 83436,
-  "2023-03-18": 83442,
-  "2023-03-19": 83441,
-  "2023-03-20": 83445,
-  "2023-03-21": 83453,
-  "2023-03-22": 83451,
-  "2023-03-23": 83434,
-  "2023-03-24": 83434,
-  "2023-03-25": 83454,
-  "2023-03-26": 83458,
-  "2023-03-27": 83451,
-  "2023-03-28": 83435,
-  "2023-03-29": 83437,
-  "2023-03-30": 83436,
-  "2023-03-31": 83436,
-  "2023-04-01": 83435,
-  "2023-04-02": 83439,
-  "2023-04-03": 83435,
-  "2023-04-04": 83437,
-  "2023-04-05": 83428,
-  "2023-04-06": 83416,
-  "2023-04-07": 83415,
-  "2023-04-09": 83410,
-  "2023-04-10": 83400,
-  "2023-04-11": 83387,
-  "2023-04-12": 83387,
-  "2023-04-13": 83382,
-  "2023-04-14": 83382,
-  "2023-04-15": 83375,
-  "2023-04-16": 83365,
-  "2023-04-17": 83360,
-  "2023-04-18": 83336,
-  "2023-04-19": 83338,
-  "2023-04-20": 83328,
-  "2023-04-21": 83319,
-  "2023-04-22": 83310,
-  "2023-04-23": 83304,
-  "2023-04-24": 83291,
-  "2023-04-25": 83292,
-  "2023-04-26": 83288,
-  "2023-04-27": 83286,
-  "2023-04-28": 83292,
-  "2023-04-29": 83288,
-  "2023-04-30": 83284,
-  "2023-05-01": 83282,
-  "2023-05-02": 83269,
-  "2023-05-03": 83266,
-  "2023-05-04": 83253,
-  "2023-05-05": 83242,
-  "2023-05-06": 83228,
-  "2023-05-07": 83206,
-  "2023-05-08": 83205,
-  "2023-05-09": 83189,
-  "2023-05-10": 83182,
-  "2023-05-11": 83182,
-  "2023-05-12": 83186,
-  "2023-05-13": 83187,
-  "2023-05-14": 83192,
-  "2023-05-15": 83193,
-  "2023-05-16": 83196,
-  "2023-05-17": 83199,
-  "2023-05-18": 83192,
-  "2023-05-19": 83199,
-  "2023-05-20": 83200,
-  "2023-05-21": 83200,
-  "2023-05-22": 83200,
-  "2023-05-23": 83215,
-  "2023-05-24": 83217,
-  "2023-05-25": 83219,
-  "2023-05-26": 83218,
-  "2023-05-27": 83223,
-  "2023-05-28": 83225,
-  "2023-05-29": 83225,
-  "2023-05-30": 83218,
-  "2023-05-31": 83222,
-  "2023-06-01": 83219,
-  "2023-06-02": 83215,
-  "2023-06-03": 83231,
-  "2023-06-04": 83239,
-  "2023-06-05": 83237,
-  "2023-06-06": 83245,
-  "2023-06-07": 83249,
-  "2023-06-08": 83257,
-  "2023-06-09": 83257,
-  "2023-06-10": 83260,
-  "2023-06-11": 83269,
-  "2023-06-12": 83270,
-  "2023-06-13": 83269,
-  "2023-06-14": 83270,
-  "2023-06-15": 83272,
-  "2023-06-16": 83274,
-  "2023-06-17": 83283,
-  "2023-06-18": 83290,
-  "2023-06-19": 83303,
-  "2023-06-20": 83302,
-  "2023-06-21": 83306,
-  "2023-06-22": 83302,
-  "2023-06-23": 83304,
-  "2023-06-24": 83312,
-  "2023-06-25": 83315,
-  "2023-06-26": 83314,
-  "2023-06-27": 83319,
-  "2023-06-28": 83322,
-  "2023-06-29": 83329,
-  "2023-06-30": 83326,
-  "2023-07-01": 83329,
-  "2023-07-02": 83329,
-  "2023-07-03": 83331,
-  "2023-07-04": 83332,
-  "2023-07-05": 83341,
-  "2023-07-06": 83326,
-  "2023-07-07": 83326,
-  "2023-07-08": 83324,
-  "2023-07-09": 83320,
-  "2023-07-10": 83319,
-  "2023-07-11": 83314,
-  "2023-07-12": 83303,
-  "2023-07-13": 83308,
-  "2023-07-14": 83300,
-  "2023-07-15": 83295,
-  "2023-07-16": 83293,
-  "2023-07-17": 83280,
-  "2023-07-18": 83269,
-  "2023-07-19": 83264,
-  "2023-07-20": 83269,
-  "2023-07-21": 83266,
-  "2023-07-22": 83260,
-  "2023-07-23": 83267,
-  "2023-07-24": 83250,
-  "2023-07-25": 82956,
-  "2023-07-26": 82372,
-  "2023-07-27": 82105,
-  "2023-07-28": 81978,
-  "2023-07-29": 81921,
-  "2023-07-30": 81888,
-  "2023-07-31": 81873,
-  "2023-08-01": 81852,
-  "2023-08-02": 81841,
-  "2023-08-03": 81838,
-  "2023-08-04": 81841,
-  "2023-08-05": 81844,
-  "2023-08-06": 81818,
-  "2023-08-07": 81818,
-  "2023-08-08": 81816,
-  "2023-08-09": 81807,
-  "2023-08-10": 81791,
-  "2023-08-11": 81791,
-  "2023-08-12": 81795,
-  "2023-08-13": 81803,
-  "2023-08-14": 81801,
-  "2023-08-15": 81803,
-  "2023-08-16": 81803,
-  "2023-08-17": 81801,
-  "2023-08-18": 81808,
-  "2023-08-19": 81792,
-  "2023-08-20": 81770,
-  "2023-08-21": 81754,
-  "2023-08-22": 81747,
-  "2023-08-23": 81740,
-  "2023-08-24": 81746,
-  "2023-08-25": 81749,
-  "2023-08-26": 81745,
-  "2023-08-27": 81739,
-  "2023-08-28": 81732,
-  "2023-08-29": 81722,
-  "2023-08-30": 81720,
-  "2023-08-31": 81713,
-  "2023-09-01": 81706,
-  "2023-09-02": 81706,
-  "2023-09-03": 81691,
-  "2023-09-04": 81690,
-  "2023-09-05": 81696,
-  "2023-09-06": 81703,
-  "2023-09-07": 81699,
-  "2023-09-08": 81707,
-  "2023-09-09": 81700,
-  "2023-09-10": 81725,
-  "2023-09-11": 81712,
-  "2023-09-12": 81712,
-  "2023-09-13": 81705,
-  "2023-09-14": 81699,
-  "2023-09-15": 81692,
-  "2023-09-16": 81698,
-  "2023-09-17": 81701,
-  "2023-09-18": 81684,
-  "2023-09-19": 81689,
-  "2023-09-20": 81685,
-  "2023-09-21": 81686,
-  "2023-09-22": 81689,
-  "2023-09-23": 81693,
-  "2023-09-24": 81701,
-  "2023-09-25": 81716,
-  "2023-09-26": 81715,
-  "2023-09-27": 81720,
-  "2023-09-28": 81733,
-  "2023-09-29": 81738,
-  "2023-09-30": 81741,
-  "2023-10-01": 81747,
-  "2023-10-02": 81742,
-  "2023-10-03": 81741,
-  "2023-10-04": 81743,
-  "2023-10-05": 81744,
-  "2023-10-06": 81749,
-  "2023-10-07": 81737,
-  "2023-10-08": 81735,
-  "2023-10-09": 81740,
-  "2023-10-10": 81750,
-  "2023-10-11": 81741,
-  "2023-10-12": 81741,
-  "2023-10-13": 81731,
-  "2023-10-14": 81728,
-  "2023-10-15": 81739,
-  "2023-10-16": 81748,
-  "2023-10-17": 81751,
-  "2023-10-18": 81611,
-  "2023-10-19": 81398,
-  "2023-10-20": 81393,
-  "2023-10-21": 81282,
-  "2023-10-22": 81267,
-  "2023-10-23": 81253,
-  "2023-10-24": 81243,
-  "2023-10-25": 81121,
-  "2023-10-26": 81126,
-  "2023-10-27": 81024,
-  "2023-10-28": 80995,
-  "2023-10-29": 80971,
-  "2023-10-30": 80963,
-  "2023-10-31": 80963,
-  "2023-11-01": 80963,
-  "2023-11-02": 80954,
-  "2023-11-03": 80948,
-  "2023-11-04": 80942,
-  "2023-11-05": 80948,
-  "2023-11-06": 80938,
-  "2023-11-07": 80937,
-  "2023-11-08": 80924,
-  "2023-11-09": 80932,
-  "2023-11-10": 80924,
-  "2023-11-11": 80923,
-  "2023-11-12": 80921,
-  "2023-11-13": 80915,
-  "2023-11-14": 80913,
-  "2023-11-15": 80913,
-  "2023-11-16": 80906,
-  "2023-11-17": 80906,
-  "2023-11-18": 80906,
-  "2023-11-19": 80901,
-  "2023-11-20": 80899,
-  "2023-11-21": 80892,
-  "2023-11-22": 80896,
-  "2023-11-23": 80895,
-  "2023-11-24": 80886,
-  "2023-11-25": 80886,
-  "2023-11-26": 80869,
-  "2023-11-27": 80866,
-  "2023-11-28": 80863,
-  "2023-11-29": 80842,
-  "2023-11-30": 80842,
-  "2023-12-01": 80819,
-  "2023-12-02": 80804,
-  "2023-12-03": 80791,
-  "2023-12-04": 80778,
-  "2023-12-05": 80774,
-  "2023-12-06": 80768,
-  "2023-12-07": 80761,
-  "2023-12-08": 80766,
-  "2023-12-09": 80755,
-  "2023-12-10": 80751,
-  "2023-12-11": 80751,
-  "2023-12-12": 80751,
-  "2023-12-13": 80743,
-  "2023-12-14": 80742,
-  "2023-12-15": 80739,
-  "2023-12-16": 80732,
-  "2023-12-17": 80726,
-  "2023-12-18": 80727,
-  "2023-12-19": 80716,
-  "2023-12-20": 80727,
-  "2023-12-21": 80720,
-  "2023-12-22": 80726,
-  "2023-12-23": 80722,
-  "2023-12-24": 80718,
-  "2023-12-25": 80713,
-  "2023-12-26": 80699,
-  "2023-12-27": 80695,
-  "2023-12-30": 80672,
-  "2023-12-31": 80680,
-  "2024-01-01": 80686,
-  "2024-01-02": 80684,
-  "2024-01-03": 80697
+  "2024-01-17": 80710,
+  "date_first_scraped": "2022-05-15",
+  "description": "Enjoy the soundtracks of K-POP idols' comeback war 'Queendom'. (K-POP \uc544\uc774\ub3cc\ub4e4\uc758 \ucef4\ubc31\uc804\uc7c1 '\ud038\ub364'\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "name": "Queendom2 (\ud038\ub3642)",
+  "tracks": [
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/14cZrslWzQ6e3Y5zrixFkK"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215026,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-1",
+        "url": "https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243080,
+      "name": "BOP BOP! - Highteen Version",
+      "url": "https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-2",
+        "url": "https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2PgfMrrprDO5kwwfpPzfvm"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Chi Mat Ba Ram+Rollin\u2019 - Remix",
+      "url": "https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-1",
+        "url": "https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK"
+      },
+      "artists": [
+        {
+          "name": "YOSKE",
+          "url": "https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E"
+        },
+        {
+          "name": "Iver (ALIVE KNOB)",
+          "url": "https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68"
+        },
+        {
+          "name": "J2 (ALIVE KNOB)",
+          "url": "https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Epilogue - Instrumental",
+      "url": "https://open.spotify.com/track/0Yh4ibGdvYU6Bcv78KUFFY"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-1",
+        "url": "https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK"
+      },
+      "artists": [
+        {
+          "name": "YOSKE",
+          "url": "https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E"
+        },
+        {
+          "name": "Iver (ALIVE KNOB)",
+          "url": "https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68"
+        },
+        {
+          "name": "J2 (ALIVE KNOB)",
+          "url": "https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318626,
+      "name": "Epilogue - Piano Version",
+      "url": "https://open.spotify.com/track/2gzJgcYyx7pbaizAJRYy6q"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-1",
+        "url": "https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK"
+      },
+      "artists": [
+        {
+          "name": "bcalm",
+          "url": "https://open.spotify.com/artist/7dafLVKGkbjDGvL48rfrQM"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Interlude : WHO IS THE QUEEN",
+      "url": "https://open.spotify.com/track/66KdAaSfra9lfsMs5hfjxY"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> JINAON (Epilogue)",
+        "url": "https://open.spotify.com/album/7C6PZ4R61449d9NVmDKtpq"
+      },
+      "artists": [
+        {
+          "name": "QUEENDOM2",
+          "url": "https://open.spotify.com/artist/0BUt4yEmWUGULfwOcu98aj"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "JINAON (Epilogue)",
+      "url": "https://open.spotify.com/track/1KIA6tiJdtOYci9isQ1eqR"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Position Unit Battle Part.1-2",
+        "url": "https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "KA-BOOM!",
+      "url": "https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-1",
+        "url": "https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "MVSK - Remix",
+      "url": "https://open.spotify.com/track/5Io9E7JUo707GXVPGC68j8"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-1",
+        "url": "https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247906,
+      "name": "NAVILLERA",
+      "url": "https://open.spotify.com/track/5zLCLAce7F5J2OfE4S8yAC"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-1",
+        "url": "https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248080,
+      "name": "Pantomime",
+      "url": "https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-2",
+        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "Pool Party(Rollin\u2019 right now)",
+      "url": "https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254280,
+      "name": "PTT (Paint The Town)",
+      "url": "https://open.spotify.com/track/0MEJznR74sW0mnSnkbiQia"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Position Unit Battle Part.1-2",
+        "url": "https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        },
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Purr",
+      "url": "https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-2",
+        "url": "https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Red Sun - Remix",
+      "url": "https://open.spotify.com/track/7bxYAZcTh7QJ3KpV4vOjte"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Red Sun!",
+      "url": "https://open.spotify.com/track/5mxK8CuKCqxW7HlBjBtmRS"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FANtastic QUEENDOM 1-2",
+        "url": "https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "See Sea, BAE",
+      "url": "https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-1",
+        "url": "https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-2",
+        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Position Unit Battle Part.1-2",
+        "url": "https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        },
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Tell me now",
+      "url": "https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "THE GIRLS (Can\u2019t turn me down)",
+      "url": "https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-1",
+        "url": "https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261586,
+      "name": "Time for the glory",
+      "url": "https://open.spotify.com/track/0VCWeQuUFTz2MkivIbJVXo"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-1",
+        "url": "https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Touch my body",
+      "url": "https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.2-2",
+        "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "UNNATURAL",
+      "url": "https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> Part.1-2",
+        "url": "https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "WA DA DA - QUEENDOM2 Version",
+      "url": "https://open.spotify.com/track/2LZKv4zsNVdwA52upjZMHq"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273013,
+      "name": "Waka Boom (My Way) (feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz"
+    },
+    {
+      "album": {
+        "name": "<Queendom2> FINAL",
+        "url": "https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSluHnSzEAUI"
 }

@@ -1,731 +1,2905 @@
 {
-  "2021-12-29": 8116,
-  "2021-12-30": 8120,
-  "2021-12-31": 8131,
-  "2022-01-01": 8139,
-  "2022-01-02": 8140,
-  "2022-01-03": 8145,
-  "2022-01-04": 8147,
-  "2022-01-05": 8152,
-  "2022-01-06": 8155,
-  "2022-01-07": 8160,
-  "2022-01-08": 8170,
-  "2022-01-09": 8170,
-  "2022-01-10": 8176,
-  "2022-01-11": 8176,
-  "2022-01-12": 8178,
-  "2022-01-13": 8182,
-  "2022-01-14": 8186,
-  "2022-01-15": 8209,
-  "2022-01-16": 8210,
-  "2022-01-17": 8222,
-  "2022-01-18": 8222,
-  "2022-01-19": 8224,
-  "2022-01-20": 8227,
-  "2022-01-21": 8236,
-  "2022-01-22": 8242,
-  "2022-01-23": 8251,
-  "2022-01-24": 8256,
-  "2022-01-25": 8257,
-  "2022-01-26": 8258,
-  "2022-01-27": 8263,
-  "2022-01-28": 8268,
-  "2022-01-29": 8273,
-  "2022-01-30": 8279,
-  "2022-01-31": 8284,
-  "2022-02-01": 8289,
-  "2022-02-02": 8290,
-  "2022-02-03": 8291,
-  "2022-02-04": 8296,
-  "2022-02-05": 8301,
-  "2022-02-06": 8309,
-  "2022-02-07": 8312,
-  "2022-02-08": 8317,
-  "2022-02-09": 8321,
-  "2022-02-10": 8326,
-  "2022-02-11": 8328,
-  "2022-02-12": 8335,
-  "2022-02-13": 8342,
-  "2022-02-14": 8349,
-  "2022-02-15": 8351,
-  "2022-02-16": 8354,
-  "2022-02-17": 8354,
-  "2022-02-18": 8356,
-  "2022-02-19": 8362,
-  "2022-02-20": 8366,
-  "2022-02-21": 8364,
-  "2022-02-22": 8367,
-  "2022-02-23": 8374,
-  "2022-02-24": 8377,
-  "2022-02-25": 8377,
-  "2022-02-26": 8380,
-  "2022-02-27": 8388,
-  "2022-02-28": 8388,
-  "2022-03-01": 8390,
-  "2022-03-02": 8395,
-  "2022-03-03": 8399,
-  "2022-03-04": 8405,
-  "2022-03-05": 8434,
-  "2022-03-06": 8453,
-  "2022-03-07": 8456,
-  "2022-03-08": 8457,
-  "2022-03-09": 8469,
-  "2022-03-10": 8475,
-  "2022-03-11": 8479,
-  "2022-03-12": 8483,
-  "2022-03-13": 8491,
-  "2022-03-14": 8503,
-  "2022-03-15": 8504,
-  "2022-03-16": 8515,
-  "2022-03-17": 8517,
-  "2022-03-18": 8523,
-  "2022-03-19": 8525,
-  "2022-03-20": 8525,
-  "2022-03-21": 8533,
-  "2022-03-22": 8534,
-  "2022-03-23": 8536,
-  "2022-03-24": 8542,
-  "2022-03-25": 8548,
-  "2022-03-26": 8548,
-  "2022-03-27": 8552,
-  "2022-03-28": 8556,
-  "2022-03-30": 8557,
-  "2022-03-31": 8564,
-  "2022-04-01": 8568,
-  "2022-04-02": 8575,
-  "2022-04-03": 8576,
-  "2022-04-04": 8582,
-  "2022-04-05": 8586,
-  "2022-04-06": 8589,
-  "2022-04-07": 8594,
-  "2022-04-08": 8593,
-  "2022-04-09": 8601,
-  "2022-04-10": 8612,
-  "2022-04-11": 8612,
-  "2022-04-12": 8613,
-  "2022-04-13": 8616,
-  "2022-04-14": 8621,
-  "2022-04-15": 8624,
-  "2022-04-16": 8629,
-  "2022-04-17": 8634,
-  "2022-04-18": 8633,
-  "2022-04-19": 8636,
-  "2022-04-20": 8641,
-  "2022-04-21": 8643,
-  "2022-04-22": 8646,
-  "2022-04-23": 8653,
-  "2022-04-24": 8660,
-  "2022-04-25": 8665,
-  "2022-04-26": 8671,
-  "2022-04-27": 8679,
-  "2022-04-28": 8683,
-  "2022-04-29": 8687,
-  "2022-04-30": 8692,
-  "2022-05-01": 8700,
-  "2022-05-02": 8700,
-  "2022-05-03": 8703,
-  "2022-05-04": 8706,
-  "2022-05-05": 8710,
-  "2022-05-06": 8716,
-  "2022-05-07": 8722,
-  "2022-05-08": 8732,
-  "2022-05-09": 8731,
-  "2022-05-10": 8733,
-  "2022-05-11": 8739,
-  "2022-05-12": 8740,
-  "2022-05-13": 8745,
-  "2022-05-14": 8749,
-  "2022-05-15": 8751,
-  "2022-05-16": 8755,
-  "2022-05-17": 8760,
-  "2022-05-18": 8765,
-  "2022-05-19": 8765,
-  "2022-05-20": 8769,
-  "2022-05-21": 8779,
-  "2022-05-22": 8779,
-  "2022-05-23": 8784,
-  "2022-05-24": 8790,
-  "2022-05-25": 8795,
-  "2022-05-26": 8795,
-  "2022-05-27": 8797,
-  "2022-05-28": 8802,
-  "2022-05-29": 8807,
-  "2022-05-30": 8811,
-  "2022-05-31": 8814,
-  "2022-06-01": 8822,
-  "2022-06-02": 8821,
-  "2022-06-03": 8825,
-  "2022-06-04": 8827,
-  "2022-06-05": 8828,
-  "2022-06-06": 8833,
-  "2022-06-07": 8840,
-  "2022-06-08": 8845,
-  "2022-06-09": 8847,
-  "2022-06-10": 8850,
-  "2022-06-11": 8852,
-  "2022-06-12": 8858,
-  "2022-06-13": 8863,
-  "2022-06-14": 8867,
-  "2022-06-15": 8872,
-  "2022-06-16": 8871,
-  "2022-06-17": 8878,
-  "2022-06-18": 8877,
-  "2022-06-19": 8882,
-  "2022-06-20": 8882,
-  "2022-06-21": 8883,
-  "2022-06-22": 8888,
-  "2022-06-23": 8888,
-  "2022-06-24": 8893,
-  "2022-06-25": 8897,
-  "2022-06-26": 8902,
-  "2022-06-27": 8903,
-  "2022-06-28": 8907,
-  "2022-06-29": 8910,
-  "2022-06-30": 8916,
-  "2022-07-01": 8919,
-  "2022-07-02": 8924,
-  "2022-07-03": 8927,
-  "2022-07-04": 8928,
-  "2022-07-05": 8930,
-  "2022-07-06": 8930,
-  "2022-07-07": 8933,
-  "2022-07-08": 8940,
-  "2022-07-09": 8943,
-  "2022-07-10": 8950,
-  "2022-07-11": 8955,
-  "2022-07-12": 8957,
-  "2022-07-13": 8961,
-  "2022-07-14": 8963,
-  "2022-07-15": 8969,
-  "2022-07-16": 8970,
-  "2022-07-17": 8973,
-  "2022-07-18": 8976,
-  "2022-07-19": 8981,
-  "2022-07-20": 8985,
-  "2022-07-21": 8989,
-  "2022-07-22": 8996,
-  "2022-07-23": 8999,
-  "2022-07-24": 9008,
-  "2022-07-25": 9014,
-  "2022-07-26": 9019,
-  "2022-07-27": 9026,
-  "2022-07-28": 9030,
-  "2022-07-29": 9040,
-  "2022-07-30": 9053,
-  "2022-07-31": 9053,
-  "2022-08-01": 9058,
-  "2022-08-02": 9064,
-  "2022-08-03": 9064,
-  "2022-08-04": 9071,
-  "2022-08-05": 9072,
-  "2022-08-06": 9073,
-  "2022-08-07": 9078,
-  "2022-08-08": 9082,
-  "2022-08-09": 9085,
-  "2022-08-10": 9083,
-  "2022-08-11": 9088,
-  "2022-08-12": 9089,
-  "2022-08-13": 9090,
-  "2022-08-14": 9095,
-  "2022-08-15": 9105,
-  "2022-08-16": 9108,
-  "2022-08-17": 9112,
-  "2022-08-18": 9122,
-  "2022-08-19": 9125,
-  "2022-08-20": 9131,
-  "2022-08-21": 9133,
-  "2022-08-22": 9134,
-  "2022-08-23": 9134,
-  "2022-08-24": 9137,
-  "2022-08-25": 9141,
-  "2022-08-26": 9144,
-  "2022-08-27": 9146,
-  "2022-08-28": 9148,
-  "2022-08-29": 9154,
-  "2022-08-30": 9154,
-  "2022-08-31": 9157,
-  "2022-09-01": 9161,
-  "2022-09-02": 9161,
-  "2022-09-03": 9163,
-  "2022-09-04": 9170,
-  "2022-09-05": 9171,
-  "2022-09-06": 9178,
-  "2022-09-07": 9183,
-  "2022-09-09": 9192,
-  "2022-09-10": 9198,
-  "2022-09-11": 9202,
-  "2022-09-12": 9204,
-  "2022-09-13": 9210,
-  "2022-09-15": 9213,
-  "2022-09-16": 9216,
-  "2022-09-17": 9216,
-  "2022-09-18": 9214,
-  "2022-09-19": 9214,
-  "2022-09-20": 9218,
-  "2022-09-21": 9218,
-  "2022-09-22": 9221,
-  "2022-09-23": 9224,
-  "2022-09-24": 9229,
-  "2022-09-25": 9235,
-  "2022-09-26": 9239,
-  "2022-09-27": 9241,
-  "2022-09-28": 9242,
-  "2022-09-29": 9242,
-  "2022-09-30": 9246,
-  "2022-10-01": 9249,
-  "2022-10-02": 9254,
-  "2022-10-03": 9257,
-  "2022-10-04": 9261,
-  "2022-10-05": 9267,
-  "2022-10-06": 9269,
-  "2022-10-07": 9274,
-  "2022-10-08": 9280,
-  "2022-10-09": 9288,
-  "2022-10-10": 9289,
-  "2022-10-11": 9289,
-  "2022-10-12": 9290,
-  "2022-10-13": 9291,
-  "2022-10-14": 9296,
-  "2022-10-15": 9299,
-  "2022-10-16": 9302,
-  "2022-10-17": 9302,
-  "2022-10-18": 9309,
-  "2022-10-19": 9310,
-  "2022-10-20": 9313,
-  "2022-10-21": 9317,
-  "2022-10-22": 9342,
-  "2022-10-23": 9344,
-  "2022-10-24": 9350,
-  "2022-10-25": 9356,
-  "2022-10-26": 9356,
-  "2022-10-27": 9360,
-  "2022-10-28": 9363,
-  "2022-10-29": 9366,
-  "2022-10-30": 9370,
-  "2022-10-31": 9373,
-  "2022-11-01": 9375,
-  "2022-11-02": 9376,
-  "2022-11-03": 9379,
-  "2022-11-04": 9382,
-  "2022-11-05": 9388,
-  "2022-11-06": 9389,
-  "2022-11-07": 9389,
-  "2022-11-08": 9393,
-  "2022-11-09": 9401,
-  "2022-11-10": 9409,
-  "2022-11-11": 9413,
-  "2022-11-12": 9419,
-  "2022-11-13": 9423,
-  "2022-11-14": 9432,
-  "2022-11-15": 9438,
-  "2022-11-16": 9442,
-  "2022-11-17": 9450,
-  "2022-11-18": 9452,
-  "2022-11-19": 9450,
-  "2022-11-20": 9454,
-  "2022-11-21": 9461,
-  "2022-11-22": 9468,
-  "2022-11-23": 9471,
-  "2022-11-24": 9479,
-  "2022-11-25": 9485,
-  "2022-11-26": 9489,
-  "2022-11-27": 9495,
-  "2022-11-28": 9503,
-  "2022-11-29": 9503,
-  "2022-11-30": 9505,
-  "2022-12-01": 9509,
-  "2022-12-02": 9513,
-  "2022-12-03": 9523,
-  "2022-12-04": 9528,
-  "2022-12-05": 9525,
-  "2022-12-06": 9531,
-  "2022-12-07": 9534,
-  "2022-12-08": 9536,
-  "2022-12-09": 9541,
-  "2022-12-10": 9544,
-  "2022-12-11": 9549,
-  "2022-12-12": 9555,
-  "2022-12-13": 9561,
-  "2022-12-14": 9567,
-  "2022-12-15": 9571,
-  "2022-12-16": 9577,
-  "2022-12-17": 9593,
-  "2022-12-18": 9604,
-  "2022-12-19": 9612,
-  "2022-12-20": 9626,
-  "2022-12-21": 9626,
-  "2022-12-22": 9632,
-  "2022-12-24": 9646,
-  "2022-12-25": 9652,
-  "2022-12-26": 9657,
-  "2022-12-27": 9669,
-  "2022-12-28": 9672,
-  "2022-12-29": 9679,
-  "2022-12-30": 9687,
-  "2022-12-31": 9695,
-  "2023-01-01": 9702,
-  "2023-01-02": 9707,
-  "2023-01-03": 9716,
-  "2023-01-04": 9722,
-  "2023-01-05": 9727,
-  "2023-01-06": 9735,
-  "2023-01-07": 9748,
-  "2023-01-08": 9752,
-  "2023-01-09": 9757,
-  "2023-01-10": 9762,
-  "2023-01-11": 9765,
-  "2023-01-12": 9770,
-  "2023-01-13": 9778,
-  "2023-01-14": 9789,
-  "2023-01-15": 9790,
-  "2023-01-16": 9796,
-  "2023-01-17": 9801,
-  "2023-01-18": 9810,
-  "2023-01-19": 9815,
-  "2023-01-20": 9824,
-  "2023-01-21": 9827,
-  "2023-01-22": 9836,
-  "2023-01-23": 9838,
-  "2023-01-24": 9845,
-  "2023-01-25": 9851,
-  "2023-01-26": 9857,
-  "2023-01-27": 9864,
-  "2023-01-28": 9870,
-  "2023-01-29": 9876,
-  "2023-01-30": 9882,
-  "2023-01-31": 9882,
-  "2023-02-01": 9886,
-  "2023-02-02": 9890,
-  "2023-02-03": 9895,
-  "2023-02-04": 9898,
-  "2023-02-05": 9908,
-  "2023-02-06": 9912,
-  "2023-02-07": 9919,
-  "2023-02-08": 9927,
-  "2023-02-09": 9927,
-  "2023-02-10": 9930,
-  "2023-02-11": 9934,
-  "2023-02-12": 9939,
-  "2023-02-13": 9942,
-  "2023-02-14": 9942,
-  "2023-02-15": 9945,
-  "2023-02-16": 9953,
-  "2023-02-17": 9955,
-  "2023-02-18": 9968,
-  "2023-02-19": 9971,
-  "2023-02-20": 9976,
-  "2023-02-21": 9983,
-  "2023-02-22": 9993,
-  "2023-02-23": 10003,
-  "2023-02-24": 10007,
-  "2023-02-25": 10017,
-  "2023-02-26": 10022,
-  "2023-02-27": 10038,
-  "2023-02-28": 10038,
-  "2023-03-01": 10044,
-  "2023-03-02": 10045,
-  "2023-03-03": 10050,
-  "2023-03-04": 10062,
-  "2023-03-05": 10097,
-  "2023-03-06": 10097,
-  "2023-03-07": 10104,
-  "2023-03-08": 10107,
-  "2023-03-09": 10114,
-  "2023-03-10": 10121,
-  "2023-03-11": 10126,
-  "2023-03-12": 10136,
-  "2023-03-13": 10140,
-  "2023-03-14": 10147,
-  "2023-03-15": 10151,
-  "2023-03-16": 10158,
-  "2023-03-17": 10158,
-  "2023-03-18": 10168,
-  "2023-03-19": 10176,
-  "2023-03-20": 10182,
-  "2023-03-21": 10188,
-  "2023-03-22": 10194,
-  "2023-03-23": 10201,
-  "2023-03-24": 10201,
-  "2023-03-25": 10216,
-  "2023-03-26": 10230,
-  "2023-03-27": 10245,
-  "2023-03-28": 10252,
-  "2023-03-29": 10261,
-  "2023-03-30": 10271,
-  "2023-03-31": 10271,
-  "2023-04-01": 10275,
-  "2023-04-02": 10284,
-  "2023-04-03": 10291,
-  "2023-04-04": 10296,
-  "2023-04-05": 10303,
-  "2023-04-06": 10309,
-  "2023-04-07": 10311,
-  "2023-04-09": 10319,
-  "2023-04-10": 10323,
-  "2023-04-11": 10332,
-  "2023-04-12": 10332,
-  "2023-04-13": 10331,
-  "2023-04-14": 10335,
-  "2023-04-15": 10339,
-  "2023-04-16": 10341,
-  "2023-04-17": 10353,
-  "2023-04-18": 10362,
-  "2023-04-19": 10372,
-  "2023-04-20": 10376,
-  "2023-04-21": 10382,
-  "2023-04-22": 10387,
-  "2023-04-23": 10395,
-  "2023-04-24": 10399,
-  "2023-04-25": 10399,
-  "2023-04-26": 10411,
-  "2023-04-27": 10424,
-  "2023-04-28": 10433,
-  "2023-04-29": 10443,
-  "2023-04-30": 10451,
-  "2023-05-01": 10453,
-  "2023-05-02": 10457,
-  "2023-05-03": 10459,
-  "2023-05-04": 10466,
-  "2023-05-05": 10468,
-  "2023-05-06": 10474,
-  "2023-05-07": 10481,
-  "2023-05-08": 10488,
-  "2023-05-09": 10491,
-  "2023-05-10": 10493,
-  "2023-05-11": 10495,
-  "2023-05-12": 10502,
-  "2023-05-13": 10506,
-  "2023-05-14": 10513,
-  "2023-05-15": 10520,
-  "2023-05-16": 10525,
-  "2023-05-17": 10526,
-  "2023-05-18": 10527,
-  "2023-05-19": 10527,
-  "2023-05-20": 10535,
-  "2023-05-21": 10535,
-  "2023-05-22": 10535,
-  "2023-05-23": 10546,
-  "2023-05-24": 10552,
-  "2023-05-25": 10553,
-  "2023-05-26": 10559,
-  "2023-05-27": 10568,
-  "2023-05-28": 10573,
-  "2023-05-29": 10573,
-  "2023-05-30": 10583,
-  "2023-05-31": 10585,
-  "2023-06-01": 10585,
-  "2023-06-02": 10589,
-  "2023-06-03": 10595,
-  "2023-06-04": 10599,
-  "2023-06-05": 10606,
-  "2023-06-06": 10618,
-  "2023-06-07": 10637,
-  "2023-06-08": 10646,
-  "2023-06-09": 10652,
-  "2023-06-10": 10655,
-  "2023-06-11": 10663,
-  "2023-06-12": 10666,
-  "2023-06-13": 10670,
-  "2023-06-14": 10670,
-  "2023-06-15": 10675,
-  "2023-06-16": 10683,
-  "2023-06-17": 10689,
-  "2023-06-18": 10697,
-  "2023-06-19": 10711,
-  "2023-06-20": 10718,
-  "2023-06-21": 10725,
-  "2023-06-22": 10733,
-  "2023-06-23": 10748,
-  "2023-06-24": 10770,
-  "2023-06-25": 10803,
-  "2023-06-26": 10836,
-  "2023-06-27": 10847,
-  "2023-06-28": 10871,
-  "2023-06-29": 10895,
-  "2023-06-30": 10929,
-  "2023-07-01": 10977,
-  "2023-07-02": 10977,
-  "2023-07-03": 10990,
-  "2023-07-04": 11010,
-  "2023-07-05": 11034,
-  "2023-07-06": 11071,
-  "2023-07-07": 11071,
-  "2023-07-08": 11093,
-  "2023-07-09": 11106,
-  "2023-07-10": 11124,
-  "2023-07-11": 11141,
-  "2023-07-12": 11160,
-  "2023-07-13": 11167,
-  "2023-07-14": 11179,
-  "2023-07-15": 11187,
-  "2023-07-16": 11203,
-  "2023-07-17": 11217,
-  "2023-07-18": 11234,
-  "2023-07-19": 11247,
-  "2023-07-20": 11258,
-  "2023-07-21": 11269,
-  "2023-07-22": 11284,
-  "2023-07-23": 11300,
-  "2023-07-24": 11318,
-  "2023-07-25": 11325,
-  "2023-07-26": 11337,
-  "2023-07-27": 11348,
-  "2023-07-28": 11360,
-  "2023-07-29": 11369,
-  "2023-07-30": 11384,
-  "2023-07-31": 11393,
-  "2023-08-01": 11406,
-  "2023-08-02": 11412,
-  "2023-08-03": 11420,
-  "2023-08-04": 11436,
-  "2023-08-05": 11439,
-  "2023-08-06": 11468,
-  "2023-08-07": 11468,
-  "2023-08-08": 11476,
-  "2023-08-09": 11487,
-  "2023-08-10": 11499,
-  "2023-08-11": 11507,
-  "2023-08-12": 11524,
-  "2023-08-13": 11524,
-  "2023-08-14": 11539,
-  "2023-08-15": 11550,
-  "2023-08-16": 11550,
-  "2023-08-17": 11570,
-  "2023-08-18": 11587,
-  "2023-08-19": 11605,
-  "2023-08-20": 11608,
-  "2023-08-21": 11613,
-  "2023-08-22": 11623,
-  "2023-08-23": 11633,
-  "2023-08-24": 11640,
-  "2023-08-25": 11642,
-  "2023-08-26": 11651,
-  "2023-08-27": 11664,
-  "2023-08-28": 11670,
-  "2023-08-29": 11675,
-  "2023-08-30": 11675,
-  "2023-08-31": 11693,
-  "2023-09-01": 11713,
-  "2023-09-02": 11713,
-  "2023-09-03": 11717,
-  "2023-09-04": 11717,
-  "2023-09-05": 11723,
-  "2023-09-06": 11733,
-  "2023-09-07": 11733,
-  "2023-09-08": 11733,
-  "2023-09-09": 11733,
-  "2023-09-10": 11758,
-  "2023-09-11": 11764,
-  "2023-09-12": 11764,
-  "2023-09-13": 11773,
-  "2023-09-14": 11773,
-  "2023-09-15": 11773,
-  "2023-09-16": 11787,
-  "2023-09-17": 11787,
-  "2023-09-18": 11787,
-  "2023-09-19": 11804,
-  "2023-09-20": 11804,
-  "2023-09-21": 11804,
-  "2023-09-22": 11826,
-  "2023-09-23": 11826,
-  "2023-09-24": 11826,
-  "2023-09-25": 11826,
-  "2023-09-26": 11866,
-  "2023-09-27": 11866,
-  "2023-09-28": 11866,
-  "2023-09-29": 11866,
-  "2023-09-30": 11866,
-  "2023-10-01": 11866,
-  "2023-10-02": 11915,
-  "2023-10-03": 11915,
-  "2023-10-04": 11915,
-  "2023-10-05": 11937,
-  "2023-10-06": 11941,
-  "2023-10-07": 11941,
-  "2023-10-08": 11941,
-  "2023-10-09": 11941,
-  "2023-10-10": 11941,
-  "2023-10-11": 11997,
-  "2023-10-12": 11997,
-  "2023-10-13": 11997,
-  "2023-10-14": 11997,
-  "2023-10-15": 11997,
-  "2023-10-16": 11997,
-  "2023-10-17": 11997,
-  "2023-10-18": 11997,
-  "2023-10-19": 11997,
-  "2023-10-20": 11997,
-  "2023-10-21": 11997,
-  "2023-10-22": 11997,
-  "2023-10-23": 11997,
-  "2023-10-24": 11997,
-  "2023-10-25": 11997,
-  "2023-10-26": 11997,
-  "2023-10-27": 11997,
-  "2023-10-28": 11997,
-  "2023-10-29": 11997,
-  "2023-10-30": 11997,
-  "2023-10-31": 11997,
-  "2023-11-01": 11997,
-  "2023-11-02": 11997,
-  "2023-11-03": 11997,
-  "2023-11-04": 11997,
-  "2023-11-05": 11997,
-  "2023-11-06": 11997,
-  "2023-11-07": 11997,
-  "2023-11-08": 11997,
-  "2023-11-09": 11997,
-  "2023-11-10": 11997,
-  "2023-11-11": 12173,
-  "2023-11-12": 12173,
-  "2023-11-13": 12173,
-  "2023-11-14": 12173,
-  "2023-11-15": 12173,
-  "2023-11-16": 12173,
-  "2023-11-17": 12173,
-  "2023-11-18": 12173,
-  "2023-11-19": 12173,
-  "2023-11-20": 12173,
-  "2023-11-21": 12173,
-  "2023-11-22": 12173,
-  "2023-11-23": 12173,
-  "2023-11-24": 12173,
-  "2023-11-25": 12173,
-  "2023-11-26": 12173,
-  "2023-11-27": 12173,
-  "2023-11-28": 12173,
-  "2023-11-29": 12173,
-  "2023-11-30": 12173,
-  "2023-12-01": 12173,
-  "2023-12-02": 12173,
-  "2023-12-03": 12173,
-  "2023-12-04": 12173,
-  "2023-12-05": 12173,
-  "2023-12-06": 12173,
-  "2023-12-07": 12173,
-  "2023-12-08": 12173,
-  "2023-12-09": 12173,
-  "2023-12-10": 12173,
-  "2023-12-11": 12173,
-  "2023-12-12": 12173,
-  "2023-12-13": 12173,
-  "2023-12-14": 12345,
-  "2023-12-15": 12348,
-  "2023-12-16": 12349,
-  "2023-12-17": 12356,
-  "2023-12-18": 12358,
-  "2023-12-19": 12358,
-  "2023-12-20": 12362,
-  "2023-12-21": 12365,
-  "2023-12-22": 12367,
-  "2023-12-23": 12369,
-  "2023-12-24": 12378,
-  "2023-12-25": 12386,
-  "2023-12-26": 12391,
-  "2023-12-27": 12394,
-  "2023-12-30": 12401,
-  "2023-12-31": 12408,
-  "2024-01-01": 12408,
-  "2024-01-02": 12415,
-  "2024-01-03": 12418
+  "2024-01-17": 12497,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
+  "name": "This Is Miriam Makeba",
+  "tracks": [
+    {
+      "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 276533,
+      "name": "'Cause We Live for Love",
+      "url": "https://open.spotify.com/track/7LlSb30ki2NFF1SGoOA1PE"
+    },
+    {
+      "album": {
+        "name": "Golden Star Collection",
+        "url": "https://open.spotify.com/album/5ukUGUahFc2mMiqvMWbznG"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Chad Mitchell Trio",
+          "url": "https://open.spotify.com/artist/5WpHJJKKIF62r8hJfWUwID"
+        },
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89173,
+      "name": "A Little Lyric of Great Importance",
+      "url": "https://open.spotify.com/track/5edjOo10YSp1hVnPOR0n9J"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289920,
+      "name": "A Luta Continua",
+      "url": "https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "A Piece of Ground - Stereo Version",
+      "url": "https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 266400,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/6OunW3jvvQ1W5JX59HIUnl"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 346800,
+      "name": "African Sunset",
+      "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Aluta Continua",
+      "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
+    },
+    {
+      "album": {
+        "name": "The World of Miriam Makeba",
+        "url": "https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 116640,
+      "name": "Amampondo",
+      "url": "https://open.spotify.com/track/1Z3lTQYt14dfcZAl7AckQP"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 259519,
+      "name": "Amampondo",
+      "url": "https://open.spotify.com/track/4qMRLtz3i7azhHrnkPPD3k"
+    },
+    {
+      "album": {
+        "name": "Amampondo (Live)",
+        "url": "https://open.spotify.com/album/0IT3JkCLQuqmtMbOiIcMjX"
+      },
+      "artists": [
+        {
+          "name": "LM.ORG",
+          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Philip Roesler",
+          "url": "https://open.spotify.com/artist/43YPcuR8oCpAFUnlrjjo7u"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 370373,
+      "name": "Amampondo - Live",
+      "url": "https://open.spotify.com/track/1p14Xl7OrP4TgT0kgNA6MG"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 139306,
+      "name": "Angilalanga",
+      "url": "https://open.spotify.com/track/5m9HkxDby88wW7IWiNymuX"
+    },
+    {
+      "album": {
+        "name": "Miriam's Goodbye to Africa",
+        "url": "https://open.spotify.com/album/2Ag9Zu0N5KMNwCZ6nnspnI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-07",
+      "duration_ms": 182200,
+      "name": "Baby Ntsoare",
+      "url": "https://open.spotify.com/track/1TufBfWmIkAV9xniFxcazd"
+    },
+    {
+      "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 183693,
+      "name": "Baby Ntsoare",
+      "url": "https://open.spotify.com/track/0CwP6lupmkgJX2ZJTa6Wxn"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-05",
+      "duration_ms": 185400,
+      "name": "Baby Ntsoare",
+      "url": "https://open.spotify.com/track/0Z52y4NRv1AbZLs04MCa8o"
+    },
+    {
+      "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 180773,
+      "name": "Back of the Moon",
+      "url": "https://open.spotify.com/track/2M80INcIJKUCoEh8UF8gr7"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Baxabene Oxamu",
+      "url": "https://open.spotify.com/track/0At7MOFjNWfAXhfbPy63Qe"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 145066,
+      "name": "Baya Jabula",
+      "url": "https://open.spotify.com/track/33UQG8hiIOyY3SQvHpJQ4U"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124173,
+      "name": "Beware, Verwoerd! (Ndodemnyama)",
+      "url": "https://open.spotify.com/track/74iAZSzuJ6tfvhf79ig0SK"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Brand New Day - Remastered",
+      "url": "https://open.spotify.com/track/2LMH6ERwHxqE6z3VsmCzYD"
+    },
+    {
+      "album": {
+        "name": "Makeba Sings!",
+        "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 169746,
+      "name": "Cameroon",
+      "url": "https://open.spotify.com/track/0TWbgdH5XlVP3PJpfefkga"
+    },
+    {
+      "album": {
+        "name": "Mama Africa",
+        "url": "https://open.spotify.com/album/6C7MvJ9Ps82Ano3ivZoIaz"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 202266,
+      "name": "Can't Cross Over - West Indian Calypso",
+      "url": "https://open.spotify.com/track/1WLcwgbIYKXhZtdfMnBU5c"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 168600,
+      "name": "Cannon (Mbayi, Mbayi)",
+      "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
+    },
+    {
+      "album": {
+        "name": "Makeba Sings!",
+        "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "Chove-Chuva",
+      "url": "https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137186,
+      "name": "Click Song Number One - Mono Version",
+      "url": "https://open.spotify.com/track/71i4tHW3VZk3Gow2SDkrQW"
+    },
+    {
+      "album": {
+        "name": "The Voice of Africa",
+        "url": "https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 150293,
+      "name": "Come to Glory",
+      "url": "https://open.spotify.com/track/4IScXiXpEgp2krXzAbZX9k"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 171266,
+      "name": "Darlie Kea Lemang",
+      "url": "https://open.spotify.com/track/66x9E25mjcwA2XgXXZqFdi"
+    },
+    {
+      "album": {
+        "name": "Zazzaraz\u00e0z - Uno Spettacolo D'arte Varia (Deluxe)",
+        "url": "https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273653,
+      "name": "Don't Break My Heart",
+      "url": "https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 153800,
+      "name": "Down on the Corner - Remastered",
+      "url": "https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Emabhaceni",
+      "url": "https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ"
+    },
+    {
+      "album": {
+        "name": "The Magic Of Makeba",
+        "url": "https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 139640,
+      "name": "Erev Shel Shoshanim",
+      "url": "https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "For What It's Worth - Remastered",
+      "url": "https://open.spotify.com/track/4pVVy9TaURIiDdj5gMcIrx"
+    },
+    {
+      "album": {
+        "name": "Forbidden Games",
+        "url": "https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Forbidden Games",
+      "url": "https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 147360,
+      "name": "Give Us Our Land - Mabayeke",
+      "url": "https://open.spotify.com/track/4XCtKro2JD3tDpnnyTOrZ6"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 172440,
+      "name": "Gone Are My Children - Baile Banake",
+      "url": "https://open.spotify.com/track/1mAvOmswRW33aepuS27W3l"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175859,
+      "name": "Ha Po Zamani - Stereo Version",
+      "url": "https://open.spotify.com/track/0iKkfLyUCwjsX3PXZ1XG2C"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 289680,
+      "name": "Hauteng",
+      "url": "https://open.spotify.com/track/6XsrERz24iuh7dWkZ2aJYO"
+    },
+    {
+      "album": {
+        "name": "Hi-A Ma (Pata Pata)",
+        "url": "https://open.spotify.com/album/5Amv5HoKf4X4dK1J9aDAYp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171372,
+      "name": "Hi-a Ma (Pata Pata) - Milk & Sugar Video Version",
+      "url": "https://open.spotify.com/track/0B0lVj4UILHSOYKN7XhNTo"
+    },
+    {
+      "album": {
+        "name": "Hi-a Ma (Pata Pata)",
+        "url": "https://open.spotify.com/album/69k9WbNpGrVcoz6DNkj9Ys"
+      },
+      "artists": [
+        {
+          "name": "Milk & Sugar",
+          "url": "https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 171560,
+      "name": "Hi-a Ma (Pata Pata) - Radio Version",
+      "url": "https://open.spotify.com/track/5Ihhlizj6aZEfT8ajxgNj5"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Holili",
+      "url": "https://open.spotify.com/track/7sxYGzMF9SA0BhgLKetv5s"
+    },
+    {
+      "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 155906,
+      "name": "Holilili",
+      "url": "https://open.spotify.com/track/1XMwRVdQByfWdFNR2IzZm0"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 118040,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/0WT7CNoRIPectt3LqFgVi2"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 119066,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/4PL3oMRQTbUIoxVbGr2hNM"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 119760,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2c5fzuCAZX5OyFrUoCPMPK"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206840,
+      "name": "Hurry, Mama, Hurry! (Khawuleza)",
+      "url": "https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Hush, Hush - Thula Thula",
+      "url": "https://open.spotify.com/track/2LrKp5rJL1LPkj1BXwSXzW"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "I Shall Sing - Remastered",
+      "url": "https://open.spotify.com/track/4otREmLnZ3j4G2cHa2NV2x"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Ibande - Remastered",
+      "url": "https://open.spotify.com/track/1GbwBtClngXkW1cfpMm7jn"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 188946,
+      "name": "In My Life - Remastered",
+      "url": "https://open.spotify.com/track/1wVPIzTItUw1Mrczy6OXE6"
+    },
+    {
+      "album": {
+        "name": "Love Tastes Like Strawberries",
+        "url": "https://open.spotify.com/album/7eTqtgal5V0HwxS2J87Vmc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 144187,
+      "name": "Inkomo Zodwa",
+      "url": "https://open.spotify.com/track/5MzPPSDVXUqZQh2LbIi53E"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 146800,
+      "name": "Inkomo Zodwa",
+      "url": "https://open.spotify.com/track/7xOacc4WDsrUo0w1K740xo"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 148413,
+      "name": "Inkomo Zodwa",
+      "url": "https://open.spotify.com/track/2spgePOMGTw9ZqpC6Fe42C"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 147760,
+      "name": "Intandane",
+      "url": "https://open.spotify.com/track/4LRuoYNvz8JTexUYJz9jjP"
+    },
+    {
+      "album": {
+        "name": "Baby Ntsoare - The Early Years",
+        "url": "https://open.spotify.com/album/73gQRoJCTwF2INLUsgJnOm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 147760,
+      "name": "Intandane",
+      "url": "https://open.spotify.com/track/2jMbbolEHHIzHlqg0ZNpiT"
+    },
+    {
+      "album": {
+        "name": "The World of Miriam Makeba",
+        "url": "https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 162786,
+      "name": "Into Yam",
+      "url": "https://open.spotify.com/track/6rVCaQWdlybwBjEuV6kGK8"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 126360,
+      "name": "Iya Guduza",
+      "url": "https://open.spotify.com/track/3CbzzerWmwRMSHpZsybysj"
+    },
+    {
+      "album": {
+        "name": "Miriam's Goodbye to Africa",
+        "url": "https://open.spotify.com/album/2Ag9Zu0N5KMNwCZ6nnspnI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-15",
+      "duration_ms": 128933,
+      "name": "Iya Guduza",
+      "url": "https://open.spotify.com/track/4OBU87bPQtFZxvOR7FeyUj"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/7LDdXy3R3DUq6egQTODx6m"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-08",
+      "duration_ms": 215133,
+      "name": "Jeux interdits",
+      "url": "https://open.spotify.com/track/57QccwMwQcTKWjqpVwloTu"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 215133,
+      "name": "Jeux interdits",
+      "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178836,
+      "name": "Jol'inkomo - Mono Version",
+      "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 169266,
+      "name": "Kilimandjaro",
+      "url": "https://open.spotify.com/track/2CEJx6C6AvwhzzhYQnSkpR"
+    },
+    {
+      "album": {
+        "name": "Le monde de Myriam Makeba",
+        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 170200,
+      "name": "Kilimanjaro",
+      "url": "https://open.spotify.com/track/3TiTJAn9XqorQ9FG31NI8Z"
+    },
+    {
+      "album": {
+        "name": "Miriam's Goodbye to Africa",
+        "url": "https://open.spotify.com/album/2Ag9Zu0N5KMNwCZ6nnspnI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-04",
+      "duration_ms": 169146,
+      "name": "Kilimanjaro - Hunting Song and Boot Dance",
+      "url": "https://open.spotify.com/track/6hDgZYBpI1porEOtZMYvh8"
+    },
+    {
+      "album": {
+        "name": "Wortels Musiek Uit Afrika",
+        "url": "https://open.spotify.com/album/38IPpEnPP51pG66pU1dFok"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261537,
+      "name": "Knona",
+      "url": "https://open.spotify.com/track/0HRJPL72vbCbQ1cKSOxqKI"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158826,
+      "name": "Kulala - Remastered",
+      "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Kwazulu (In the Land of the Zulus)",
+      "url": "https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK"
+    },
+    {
+      "album": {
+        "name": "The World of Miriam Makeba",
+        "url": "https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 136333,
+      "name": "Kwedini",
+      "url": "https://open.spotify.com/track/3Px4fOJFnivI49Ams9hl1c"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba et Bongi",
+        "url": "https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "L'enfant et la gazelle",
+      "url": "https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O"
+    },
+    {
+      "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 225893,
+      "name": "L'enfant et la gazelle",
+      "url": "https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX"
+    },
+    {
+      "album": {
+        "name": "The Magnificent Miriam Makeba",
+        "url": "https://open.spotify.com/album/2dJUPRTXIRHCv7BwnIStqJ"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 142449,
+      "name": "La Bushe (Congo Bushe)",
+      "url": "https://open.spotify.com/track/6Bp4BqQiR7bC7rU5JCVD3a"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189840,
+      "name": "La Guinee Guine",
+      "url": "https://open.spotify.com/track/0ZNcAfVpZ3HtUz7oHWilAV"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 167466,
+      "name": "Laku Tshuni 'Langa",
+      "url": "https://open.spotify.com/track/1w4TssBr1KnQ8FV7tmmdLq"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 128906,
+      "name": "Lakutshn, Ilanga",
+      "url": "https://open.spotify.com/track/6PgfxxNpfHgk6xDs3uPBQN"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 139240,
+      "name": "Langa More",
+      "url": "https://open.spotify.com/track/7kqcGHUoF1qabQ8BCdDZhK"
+    },
+    {
+      "album": {
+        "name": "Mama Africa",
+        "url": "https://open.spotify.com/album/4QOBI4FWX2fzuv4KWASDxW"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-28",
+      "duration_ms": 206600,
+      "name": "Love Tastes Like Strawberries",
+      "url": "https://open.spotify.com/track/6TljHOaFfKrPghlrwngUA6"
+    },
+    {
+      "album": {
+        "name": "Le monde de Myriam Makeba",
+        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Love Tastes Like Strawberries",
+      "url": "https://open.spotify.com/track/69ZOZ1T8cNSrX6yKYz2ONd"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Manhattan Brothers",
+          "url": "https://open.spotify.com/artist/6vWVrEnSxmxEvsf3twelL3"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 171734,
+      "name": "Lovely Lies",
+      "url": "https://open.spotify.com/track/40QjcUEa7yLtGZgzBS6HdJ"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Lullaby - Thula Sthandwa Same",
+      "url": "https://open.spotify.com/track/2f0Ous6IonJi5cULZ1zfrE"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "Lumumba - Remastered",
+      "url": "https://open.spotify.com/track/6UiiS9cw9K2VzlOKsJffba"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 152906,
+      "name": "Make Us One",
+      "url": "https://open.spotify.com/track/45vtcxRMfeielq02KfvYIt"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba Live In Paris, France (Th\u00e9\u00e2tre des Champs-Elys\u00e9es)",
+        "url": "https://open.spotify.com/album/3yT2VayIhnbgldygFcF5K7"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313960,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/2aF2rvFMz0XQrh9ZznZ9fq"
+    },
+    {
+      "album": {
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/04T1zskmLxfuglm2ynKNoC"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 192156,
+      "name": "Malcolm X",
+      "url": "https://open.spotify.com/track/2TPP0cnifrOvXNiEYHaTGP"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 257279,
+      "name": "Mama (Mama Been and Over)",
+      "url": "https://open.spotify.com/track/2tQpRhWpYj6NPreVpjFes0"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 206040,
+      "name": "Mama Ndiyalila",
+      "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156709,
+      "name": "Maria Fulo - Mono Version",
+      "url": "https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 195866,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/4ncRE1IYgkA7H6OO3hjBhp"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 199840,
+      "name": "Mbube",
+      "url": "https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Mbube",
+      "url": "https://open.spotify.com/track/1KjkL2T5ZPYdYoMoaMeZ7C"
+    },
+    {
+      "album": {
+        "name": "The Click Song",
+        "url": "https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 202426,
+      "name": "Mbube",
+      "url": "https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 217840,
+      "name": "Measure the Valleys - Remastered",
+      "url": "https://open.spotify.com/track/5ucsFiqcQQTi8huqxnQ0ME"
+    },
+    {
+      "album": {
+        "name": "Miriam's Goodbye to Africa",
+        "url": "https://open.spotify.com/album/2Ag9Zu0N5KMNwCZ6nnspnI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-22",
+      "duration_ms": 166733,
+      "name": "Miriam's Goodbye to Africa",
+      "url": "https://open.spotify.com/track/4kMeFfDmNvI6sYavdUiVMX"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165209,
+      "name": "Miriam's Goodbye to Africa",
+      "url": "https://open.spotify.com/track/4mlNdCgMVZVRvywKJja2Cs"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba in Concert!",
+        "url": "https://open.spotify.com/album/06d8wKdlODPbxVIreiWyCs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 189826,
+      "name": "Mommy - Live At Lincoln Center",
+      "url": "https://open.spotify.com/track/49nrKeVgUmjlsdS9MPEMcO"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-04",
+      "duration_ms": 243120,
+      "name": "Moulouyame",
+      "url": "https://open.spotify.com/track/2s7fBGYvJaTFoBq28Vl2v5"
+    },
+    {
+      "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 216266,
+      "name": "Mo\u00f4louyame",
+      "url": "https://open.spotify.com/track/2gVuAsynd1TbaZSDVgtGXx"
+    },
+    {
+      "album": {
+        "name": "The Guinea Years",
+        "url": "https://open.spotify.com/album/75dcJ9u25tOpf2hfb5EL10"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 216266,
+      "name": "Mo\u00f4louyame",
+      "url": "https://open.spotify.com/track/322aPb3GHH1HaHjzR7eBBJ"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "My Angel (Malaika)",
+      "url": "https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z"
+    },
+    {
+      "album": {
+        "name": "Music Was My First Love",
+        "url": "https://open.spotify.com/album/4lKKS0zckorp9STAJsr1Gp"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-11",
+      "duration_ms": 151240,
+      "name": "Ndamcenga - Original Mix",
+      "url": "https://open.spotify.com/track/04gZUPuWcZ7OsE708yy0Lv"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137826,
+      "name": "Nongqongqo (To Those We Love)",
+      "url": "https://open.spotify.com/track/30pnnpORcc4ouUdFmTfUX1"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "Olilili",
+      "url": "https://open.spotify.com/track/4uRAaQa7lIxCP3wb6eHuaM"
+    },
+    {
+      "album": {
+        "name": "Belafonte Returns to Carnegie Hall (Live)",
+        "url": "https://open.spotify.com/album/59TtG0AABt1iFlISFx5Fv9"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 229009,
+      "name": "One More Dance - Live",
+      "url": "https://open.spotify.com/track/3prwJlAVklCpIdi3d5Sks8"
+    },
+    {
+      "album": {
+        "name": "Mama Africa",
+        "url": "https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 165236,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 164560,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/4isUhPHQte4HEuqOe9tNbl"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 160810,
+      "name": "Owakho",
+      "url": "https://open.spotify.com/track/7amH9rFV6MuE47dU0ujir4"
+    },
+    {
+      "album": {
+        "name": "The Magic Of Makeba",
+        "url": "https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121706,
+      "name": "Oxgam",
+      "url": "https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 180174,
+      "name": "Pata Pata - Stereo Version",
+      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
+    },
+    {
+      "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229533,
+      "name": "Pata Pata 2000",
+      "url": "https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf"
+    },
+    {
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255760,
+      "name": "Pata-Pata (feat. Miriam Makeba)",
+      "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
+    },
+    {
+      "album": {
+        "name": "The Early Recordings",
+        "url": "https://open.spotify.com/album/1LWEFzW087PwWNzIJBEjYR"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 176080,
+      "name": "Pula Kgosi Seretse",
+      "url": "https://open.spotify.com/track/5fgJ9cyUCtk9Mv8d3YShX4"
+    },
+    {
+      "album": {
+        "name": "The Voice of Africa",
+        "url": "https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
+      "duration_ms": 161386,
+      "name": "Qhude",
+      "url": "https://open.spotify.com/track/3Q96NWNPNPSPtnSAPY2KtG"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Quit It",
+      "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 170882,
+      "name": "Ring Bell, Ring Bell - Mono Version",
+      "url": "https://open.spotify.com/track/5EiTIXOr8FXC6jHNNYjVbU"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 172800,
+      "name": "Rockin' in Rhythm",
+      "url": "https://open.spotify.com/track/0e8fxDp7b4gVUHxdJ20I3P"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 221484,
+      "name": "Saduva - Mono Version",
+      "url": "https://open.spotify.com/track/5bRK2of0jRe5vFWHE33Tf9"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 292320,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/7wRrVZt1Xq7iCbq6AYrthq"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 191760,
+      "name": "Show Me the Way, My Brother - Iph'indlela",
+      "url": "https://open.spotify.com/track/379vHYzOPbCYzVAC45FC1i"
+    },
+    {
+      "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Sing Me a Song",
+      "url": "https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of (1956 - 1959)",
+        "url": "https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 158746,
+      "name": "Siyavuya",
+      "url": "https://open.spotify.com/track/2QP3MmoV7cc7h9rZdublEP"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 256680,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 164386,
+      "name": "Suliram",
+      "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 165813,
+      "name": "Sunrise, Sunset (From the Broadway Musical \"Fiddler On the Roof\")",
+      "url": "https://open.spotify.com/track/7x71ai4plaSJN7TiXoKrZ0"
+    },
+    {
+      "album": {
+        "name": "Sarafina! The Sound Of Freedom",
+        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Leleti Khumalo",
+          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "Thank You Mama",
+      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
+    },
+    {
+      "album": {
+        "name": "The Click Song",
+        "url": "https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 153373,
+      "name": "The Click Song",
+      "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 294733,
+      "name": "The Click Song a.k.a. Qongqothwane",
+      "url": "https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294733,
+      "name": "The Click Song a.k.a. Qongqothwane",
+      "url": "https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL"
+    },
+    {
+      "album": {
+        "name": "Country Girl",
+        "url": "https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 300573,
+      "name": "The Lion Cries - Mbube",
+      "url": "https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6"
+    },
+    {
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "The Lion Sleeps Tonight (Mbube)",
+      "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-22",
+      "duration_ms": 226986,
+      "name": "The Naughty Little Flea",
+      "url": "https://open.spotify.com/track/2tpTYvXlFQsGGgU3Ka1Jhb"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 228360,
+      "name": "The Naughty Little Flea",
+      "url": "https://open.spotify.com/track/3uPYm2dlE3PIvEmHjZkdrP"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 229041,
+      "name": "The Naughty Little Flea",
+      "url": "https://open.spotify.com/track/0xOsFeKE4n4qRk5GorMshu"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 155280,
+      "name": "The Retreat Song",
+      "url": "https://open.spotify.com/track/4kIwxBe9M8RfGM8BlRg3Ka"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 153866,
+      "name": "The Retreat Song (Jikele Maweni)",
+      "url": "https://open.spotify.com/track/4fZDvwmonzawgbtdFjezry"
+    },
+    {
+      "album": {
+        "name": "An Evening With Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Train Song (Mbombela)",
+      "url": "https://open.spotify.com/track/0hKelpLf7qwEBZ0YPTOvU0"
+    },
+    {
+      "album": {
+        "name": "An Evening with Belafonte/Makeba",
+        "url": "https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 192480,
+      "name": "Train Song - Mbombela",
+      "url": "https://open.spotify.com/track/2M9sF8yOqMRNy7UoA73ZK0"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "The Skylarks",
+          "url": "https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 144938,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/1Br4SIHreIXbzvU2oLyHfg"
+    },
+    {
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 133253,
+      "name": "Tululu - Remastered",
+      "url": "https://open.spotify.com/track/1sicVeN7FJZcW8h9nNDAy0"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122440,
+      "name": "Umam' Uyajabula",
+      "url": "https://open.spotify.com/track/4HQ4fGyglhDFsvJQVH4eIx"
+    },
+    {
+      "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 79533,
+      "name": "Umhome",
+      "url": "https://open.spotify.com/track/3t4CPDDI33PW7712K4BpB5"
+    },
+    {
+      "album": {
+        "name": "South African Queen",
+        "url": "https://open.spotify.com/album/7swfx9Yn2FvEhYzrgNwpX6"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 79826,
+      "name": "Umhome",
+      "url": "https://open.spotify.com/track/1TOTU0DQNaQ6FofNr2gkob"
+    },
+    {
+      "album": {
+        "name": "Le monde de Myriam Makeba",
+        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 129933,
+      "name": "Umqokozo",
+      "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"
+    },
+    {
+      "album": {
+        "name": "Graceland Live - Remastered (Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87)",
+        "url": "https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Under African Skies - Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87",
+      "url": "https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh"
+    },
+    {
+      "album": {
+        "name": "Sangoma",
+        "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89626,
+      "name": "Ungakanani",
+      "url": "https://open.spotify.com/track/1V9p61vG2SvaIqgJ9qRHD4"
+    },
+    {
+      "album": {
+        "name": "The World of Miriam Makeba",
+        "url": "https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 202453,
+      "name": "Vamos Chamar Ovento",
+      "url": "https://open.spotify.com/track/6statd0SBoYGhH1OADjr4f"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 256640,
+      "name": "Walela",
+      "url": "https://open.spotify.com/track/1LI2v8w8hzMTajPmCe9H93"
+    },
+    {
+      "album": {
+        "name": "Hyenah presents RISE RADAR 01",
+        "url": "https://open.spotify.com/album/3RFlAnR6ew8IgKh6UWnx63"
+      },
+      "artists": [
+        {
+          "name": "G-Wash10",
+          "url": "https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm"
+        },
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 475627,
+      "name": "Warrior Mbube",
+      "url": "https://open.spotify.com/track/6h8EgWXQRKv1zmiD8ZNWWC"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 250080,
+      "name": "We Got to Make It (The Question)",
+      "url": "https://open.spotify.com/track/4Cvz0s46Qn76LpLOxzxmQ6"
+    },
+    {
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "Welela",
+      "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 165532,
+      "name": "West Wind - Mono Version",
+      "url": "https://open.spotify.com/track/1U6Wz3sxQdVS9Fb5fkGDXc"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 162467,
+      "name": "What Is Love - Mono Version",
+      "url": "https://open.spotify.com/track/2k98GoB50T0xAoK3Tw0TUf"
+    },
+    {
+      "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 152058,
+      "name": "Where Does It Lead?",
+      "url": "https://open.spotify.com/track/1lSy4teEJ9CaMCoYuEYFFF"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/2uswx6G0mHAATyEB2Lkd98"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 168453,
+      "name": "Willow Song (From \"Othello\")",
+      "url": "https://open.spotify.com/track/4T72zhYmO9HikWGh2Izi1H"
+    },
+    {
+      "album": {
+        "name": "Makeba Sings!",
+        "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 176653,
+      "name": "Woza",
+      "url": "https://open.spotify.com/track/32EJhcW8VmGQmvq7l0bbQJ"
+    },
+    {
+      "album": {
+        "name": "Country Girl",
+        "url": "https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319626,
+      "name": "Xica da Silva",
+      "url": "https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171001,
+      "name": "Yetentu Tizaleny - Mono Version",
+      "url": "https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w"
 }

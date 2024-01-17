@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Kodak Black
 
-245 songs - 12 hr 22 min
+246 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Rich and Dangerous](https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Main Bird](https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo) | 3:12 | 2022-12-16 | 2023-11-18 |
 | [Rich How I'm Dyin](https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Rich How I'm Dyin](https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF) | 2:33 | 2022-08-05 | 2023-07-01 |
 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 | 2021-06-04 | 2022-01-29 |
-| [Right Here](https://open.spotify.com/track/0Xz83Aulqi02DwdamKn1pl) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Right Here](https://open.spotify.com/album/4s0o2qrQSAm6j4ehyQ5AHr) | 3:04 | 2023-11-17 |  |
+| [Right Here](https://open.spotify.com/track/0Xz83Aulqi02DwdamKn1pl) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Right Here](https://open.spotify.com/album/4s0o2qrQSAm6j4ehyQ5AHr) | 3:04 | 2023-11-17 | 2024-01-08 |
+| [Right Here](https://open.spotify.com/track/2wMVhtFjJpyr4Xrzc7YrWC) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [It's Me, I'm The Problem](https://open.spotify.com/album/1ZcqPAtwRqeJZ2XGVPTkW4) | 3:04 | 2023-11-24 |  |
 | [Risk It All](https://open.spotify.com/track/0LC77EC3n9274WTLFDtw1v) | [Kevo Muney](https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY) | [Kevo Muney x Lil Muney](https://open.spotify.com/album/05hifYLh6LdKxKcUjobidF) | 2:40 | 2022-12-16 | 2023-08-19 |
 | [Risk Takers](https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Risk Takers](https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1) | 2:21 | 2022-09-16 |  |
 | [Roadkill](https://open.spotify.com/track/1UuEqB02onXOpwc3jK5LFU) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Roadkill](https://open.spotify.com/album/3YYDZAGUoNpbLao2B96eGi) | 2:48 | 2023-09-15 |  |

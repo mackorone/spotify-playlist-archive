@@ -1,178 +1,1127 @@
 {
-  "2023-07-10": 12993,
-  "2023-07-11": 12997,
-  "2023-07-12": 13010,
-  "2023-07-13": 13021,
-  "2023-07-14": 13030,
-  "2023-07-15": 13037,
-  "2023-07-16": 13045,
-  "2023-07-17": 13049,
-  "2023-07-18": 13058,
-  "2023-07-19": 13069,
-  "2023-07-20": 13083,
-  "2023-07-21": 13091,
-  "2023-07-22": 13101,
-  "2023-07-23": 13109,
-  "2023-07-24": 13115,
-  "2023-07-25": 13122,
-  "2023-07-26": 13132,
-  "2023-07-27": 13145,
-  "2023-07-28": 13152,
-  "2023-07-29": 13157,
-  "2023-07-30": 13166,
-  "2023-07-31": 13171,
-  "2023-08-01": 13171,
-  "2023-08-02": 13181,
-  "2023-08-03": 13182,
-  "2023-08-04": 13189,
-  "2023-08-05": 13195,
-  "2023-08-06": 13215,
-  "2023-08-07": 13215,
-  "2023-08-08": 13229,
-  "2023-08-09": 13243,
-  "2023-08-10": 13253,
-  "2023-08-11": 13262,
-  "2023-08-12": 13262,
-  "2023-08-13": 13262,
-  "2023-08-14": 13284,
-  "2023-08-15": 13284,
-  "2023-08-16": 13284,
-  "2023-08-17": 13284,
-  "2023-08-18": 13284,
-  "2023-08-19": 13284,
-  "2023-08-20": 13336,
-  "2023-08-21": 13336,
-  "2023-08-22": 13352,
-  "2023-08-23": 13352,
-  "2023-08-24": 13352,
-  "2023-08-25": 13352,
-  "2023-08-26": 13374,
-  "2023-08-27": 13374,
-  "2023-08-28": 13391,
-  "2023-08-29": 13391,
-  "2023-08-30": 13391,
-  "2023-08-31": 13409,
-  "2023-09-01": 13414,
-  "2023-09-02": 13414,
-  "2023-09-03": 13436,
-  "2023-09-04": 13436,
-  "2023-09-05": 13436,
-  "2023-09-06": 13475,
-  "2023-09-07": 13475,
-  "2023-09-08": 13475,
-  "2023-09-09": 13475,
-  "2023-09-10": 13526,
-  "2023-09-11": 13526,
-  "2023-09-12": 13526,
-  "2023-09-13": 13548,
-  "2023-09-14": 13548,
-  "2023-09-15": 13548,
-  "2023-09-16": 13573,
-  "2023-09-17": 13573,
-  "2023-09-18": 13573,
-  "2023-09-19": 13598,
-  "2023-09-20": 13598,
-  "2023-09-21": 13598,
-  "2023-09-22": 13630,
-  "2023-09-23": 13630,
-  "2023-09-24": 13630,
-  "2023-09-25": 13630,
-  "2023-09-26": 13665,
-  "2023-09-27": 13665,
-  "2023-09-28": 13665,
-  "2023-09-29": 13665,
-  "2023-09-30": 13665,
-  "2023-10-01": 13665,
-  "2023-10-02": 13665,
-  "2023-10-03": 13665,
-  "2023-10-04": 13665,
-  "2023-10-05": 13665,
-  "2023-10-06": 13665,
-  "2023-10-07": 13665,
-  "2023-10-08": 13665,
-  "2023-10-09": 13665,
-  "2023-10-10": 13665,
-  "2023-10-11": 13743,
-  "2023-10-12": 13743,
-  "2023-10-13": 13743,
-  "2023-10-14": 13743,
-  "2023-10-15": 13743,
-  "2023-10-16": 13743,
-  "2023-10-17": 13743,
-  "2023-10-18": 13743,
-  "2023-10-19": 13743,
-  "2023-10-20": 13743,
-  "2023-10-21": 13743,
-  "2023-10-22": 13743,
-  "2023-10-23": 13743,
-  "2023-10-24": 13743,
-  "2023-10-25": 13743,
-  "2023-10-26": 13743,
-  "2023-10-27": 13743,
-  "2023-10-28": 13743,
-  "2023-10-29": 13743,
-  "2023-10-30": 13743,
-  "2023-10-31": 13743,
-  "2023-11-01": 13743,
-  "2023-11-02": 13743,
-  "2023-11-03": 13743,
-  "2023-11-04": 13743,
-  "2023-11-05": 13743,
-  "2023-11-06": 13743,
-  "2023-11-07": 13743,
-  "2023-11-08": 13743,
-  "2023-11-09": 13743,
-  "2023-11-10": 13743,
-  "2023-11-11": 13922,
-  "2023-11-12": 13922,
-  "2023-11-13": 13922,
-  "2023-11-14": 13922,
-  "2023-11-15": 13922,
-  "2023-11-16": 13922,
-  "2023-11-17": 13922,
-  "2023-11-18": 13922,
-  "2023-11-19": 13922,
-  "2023-11-20": 13922,
-  "2023-11-21": 13922,
-  "2023-11-22": 13922,
-  "2023-11-23": 13922,
-  "2023-11-24": 13922,
-  "2023-11-25": 13922,
-  "2023-11-26": 13922,
-  "2023-11-27": 13922,
-  "2023-11-28": 13922,
-  "2023-11-29": 13922,
-  "2023-11-30": 13922,
-  "2023-12-01": 13922,
-  "2023-12-02": 13922,
-  "2023-12-03": 13922,
-  "2023-12-04": 13922,
-  "2023-12-05": 13922,
-  "2023-12-06": 13922,
-  "2023-12-07": 13922,
-  "2023-12-08": 13922,
-  "2023-12-09": 13922,
-  "2023-12-10": 13922,
-  "2023-12-11": 13922,
-  "2023-12-12": 13922,
-  "2023-12-13": 13922,
-  "2023-12-14": 14133,
-  "2023-12-15": 14135,
-  "2023-12-16": 14145,
-  "2023-12-17": 14148,
-  "2023-12-18": 14154,
-  "2023-12-19": 14154,
-  "2023-12-20": 14157,
-  "2023-12-21": 14165,
-  "2023-12-22": 14172,
-  "2023-12-23": 14176,
-  "2023-12-24": 14177,
-  "2023-12-25": 14179,
-  "2023-12-26": 14178,
-  "2023-12-27": 14179,
-  "2023-12-30": 14188,
-  "2023-12-31": 14195,
-  "2024-01-01": 14200,
-  "2024-01-02": 14202,
-  "2024-01-03": 14205
+  "2024-01-17": 14177,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
+  "name": "This Is Elaine Martins",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Nuvem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "A Nuvem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "album": {
+        "name": "Agrade\u00e7o ao Senhor",
+        "url": "https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199273,
+      "name": "Agrade\u00e7o ao Senhor",
+      "url": "https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR"
+    },
+    {
+      "album": {
+        "name": "Muda-me",
+        "url": "https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 282447,
+      "name": "Ainda Existe Solu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4"
+    },
+    {
+      "album": {
+        "name": "Samba Adorador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
+      },
+      "artists": [
+        {
+          "name": "Waguinho",
+          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
+      "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
+    },
+    {
+      "album": {
+        "name": "Bastidores da Alma",
+        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Bastidores da Alma",
+      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271534,
+      "name": "Buscar Tua Face \u00e9 Preciso",
+      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Colhendo Frutos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Cora\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
+    },
+    {
+      "album": {
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "album": {
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266007,
+      "name": "Cumpra o Seu Chamado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256534,
+      "name": "Deus Indecifr\u00e1vel",
+      "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
+    },
+    {
+      "album": {
+        "name": "Deus Te Consola Outra Vez",
+        "url": "https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274425,
+      "name": "Deus Te Consola Outra Vez",
+      "url": "https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL"
+    },
+    {
+      "album": {
+        "name": "Deus te Viu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230156,
+      "name": "Deus te Viu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu"
+    },
+    {
+      "album": {
+        "name": "Elaine de Jesus - Manifesta\u00e7\u00e3o da Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60ZMKOiC9qr4U4Pjs2LICf"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        },
+        {
+          "name": "Vanilda Bordieri",
+          "url": "https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O"
+        },
+        {
+          "name": "Eliane Silva",
+          "url": "https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs"
+        },
+        {
+          "name": "Lydia Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/08zojAOoMjfirGuUAN0QZ2"
+        },
+        {
+          "name": "Suelen de Jesus",
+          "url": "https://open.spotify.com/artist/2W5lEIeNTS4eMWsGv4ZGEB"
+        },
+        {
+          "name": "C\u00e9lia Sakamoto",
+          "url": "https://open.spotify.com/artist/6r8n8vrg7vwpvp0rqUe1fl"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Deus Tremendo (feat. Vanilda Bordieri, Eliane Silva, Lydia Mois\u00e9s, Suelen de Jesus, C\u00e9lia Sakamoto, Elaine Martins & Shirley Carvalhaes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3DpGyWrBsi29h0ee7KldAe"
+    },
+    {
+      "album": {
+        "name": "El Elyon",
+        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240976,
+      "name": "El Elyon",
+      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
+    },
+    {
+      "album": {
+        "name": "Escolhidas",
+        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Hellen Miranda",
+          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247756,
+      "name": "Escolhidas",
+      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "album": {
+        "name": "Eu Sei Quem Sou",
+        "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281106,
+      "name": "Eu Sei Quem Sou",
+      "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
+    },
+    {
+      "album": {
+        "name": "Firme nas Promessas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos Falsetti",
+          "url": "https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "D\u00e9bora Cristina",
+          "url": "https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "Firme nas Promessas",
+      "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
+    },
+    {
+      "album": {
+        "name": "For\u00e7a Santa",
+        "url": "https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 344537,
+      "name": "For\u00e7a Santa",
+      "url": "https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282447,
+      "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
+    },
+    {
+      "album": {
+        "name": "Humilde Rei",
+        "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331673,
+      "name": "Humilde Rei",
+      "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
+    },
+    {
+      "album": {
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+    },
+    {
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "Mestre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5gf1Tq1LVi3ZjR67sol1Yd"
+    },
+    {
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 294846,
+      "name": "Minha Alma Canta",
+      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 284973,
+      "name": "Minha Alma Canta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4LMX1eh6fFMyoTk9uP3rUH"
+    },
+    {
+      "album": {
+        "name": "Muda o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309150,
+      "name": "Muda o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
+    },
+    {
+      "album": {
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313946,
+      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
+    },
+    {
+      "album": {
+        "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
+    },
+    {
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277339,
+      "name": "O Cirineu",
+      "url": "https://open.spotify.com/track/5pPviO1Xd2xywi4i4iDXT6"
+    },
+    {
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230806,
+      "name": "O Pre\u00e7o da Chamada",
+      "url": "https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv"
+    },
+    {
+      "album": {
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258670,
+      "name": "O Reino (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+    },
+    {
+      "album": {
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
+    },
+    {
+      "album": {
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 260156,
+      "name": "Ouve Senhor",
+      "url": "https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64"
+    },
+    {
+      "album": {
+        "name": "Palavras L\u00edquidas",
+        "url": "https://open.spotify.com/album/633KAVSvTRywDez2dhipDp"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267122,
+      "name": "Palavras L\u00edquidas",
+      "url": "https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo"
+    },
+    {
+      "album": {
+        "name": "L\u00e1grimas Ensinam",
+        "url": "https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266054,
+      "name": "Prefiro Ser Fiel",
+      "url": "https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri"
+    },
+    {
+      "album": {
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+    },
+    {
+      "album": {
+        "name": "Posso Confiar",
+        "url": "https://open.spotify.com/album/3A5WfixvsA44oIkknRbupr"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424971,
+      "name": "Quem \u00e9 Este?",
+      "url": "https://open.spotify.com/track/7IQ2ohWCn0riWIs580kI0g"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Raridade - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273438,
+      "name": "Santifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Santifica\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins Live Session",
+        "url": "https://open.spotify.com/album/4TQPjpUrKPa7ZsZuiXecGP"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290295,
+      "name": "Sei \u00c9 Bem Assim",
+      "url": "https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt"
+    },
+    {
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Sobrevivi (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
+    },
+    {
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323361,
+      "name": "Tempo de Deus",
+      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
+    },
+    {
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298283,
+      "name": "Teu Querer",
+      "url": "https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE"
+    },
+    {
+      "album": {
+        "name": "Drive In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352064,
+      "name": "Todavia me Alegrarei (Ao Vivo)",
+      "url": "https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG"
+    },
+    {
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297679,
+      "name": "Vasos Quebrados",
+      "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27LMbl86nfBJtbAj3LiNDv"
+      },
+      "artists": [
+        {
+          "name": "Let\u00edcia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310311,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0AhtuMEn7keStaLysGWJdc"
+    },
+    {
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+    },
+    {
+      "album": {
+        "name": "Templo Fit Remix",
+        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236266,
+      "name": "Volte a Sonhar Remix",
+      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
+    },
+    {
+      "album": {
+        "name": "Minist\u00e9rio Sarando a Terra Ferida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Sarando a Terra Ferida",
+          "url": "https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459569,
+      "name": "\u00c9s Meu Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT"
+    },
+    {
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303020,
+      "name": "\u00daltimos Dias",
+      "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ"
 }

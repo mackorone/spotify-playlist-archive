@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
 
-156 songs - 8 hr 26 min
+157 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Dirty Thug](https://open.spotify.com/track/4u9c2qnITkb1ssoSSIYv2u) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:36 | 2023-05-22 |  |
 | [Do What I Want](https://open.spotify.com/track/5OIz27S6SQOJtweneBd6QP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 2:52 | 2022-10-15 | 2023-04-15 |
 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 | 2022-05-31 | 2023-05-23 |
+| [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 | 2024-01-05 |  |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-08-11 | 2022-12-20 |
 | [Drunk And Nasty \(feat\. Sharc\)](https://open.spotify.com/track/1lAJUXyP5S2dUYHer1xBas) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Sharc](https://open.spotify.com/artist/7Kt7O3A8zdjcCYPFopGTiY) | [The Life Of Pi'erre 5](https://open.spotify.com/album/2i5NyX1puwpGt7tmaP5sEg) | 4:59 | 2022-05-31 | 2022-09-09 |
 | [Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:47 | 2022-05-31 | 2022-10-16 |

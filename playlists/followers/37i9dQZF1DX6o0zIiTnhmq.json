@@ -1,580 +1,2059 @@
 {
-  "2022-05-30": 96326,
-  "2022-05-31": 96438,
-  "2022-06-01": 96647,
-  "2022-06-02": 96660,
-  "2022-06-03": 96779,
-  "2022-06-04": 96883,
-  "2022-06-05": 96981,
-  "2022-06-06": 97079,
-  "2022-06-07": 97182,
-  "2022-06-08": 97330,
-  "2022-06-09": 97419,
-  "2022-06-10": 97514,
-  "2022-06-11": 97589,
-  "2022-06-12": 97670,
-  "2022-06-13": 97748,
-  "2022-06-14": 97842,
-  "2022-06-15": 97959,
-  "2022-06-16": 98080,
-  "2022-06-17": 98202,
-  "2022-06-18": 98316,
-  "2022-06-19": 98493,
-  "2022-06-20": 98493,
-  "2022-06-21": 98617,
-  "2022-06-22": 98814,
-  "2022-06-23": 98814,
-  "2022-06-24": 98905,
-  "2022-06-25": 99008,
-  "2022-06-26": 99106,
-  "2022-06-27": 99195,
-  "2022-06-28": 99279,
-  "2022-06-29": 99389,
-  "2022-06-30": 99489,
-  "2022-07-01": 99606,
-  "2022-07-02": 99706,
-  "2022-07-03": 99802,
-  "2022-07-04": 99905,
-  "2022-07-05": 100019,
-  "2022-07-06": 100117,
-  "2022-07-07": 100232,
-  "2022-07-08": 100359,
-  "2022-07-09": 100476,
-  "2022-07-10": 100567,
-  "2022-07-11": 100683,
-  "2022-07-12": 100795,
-  "2022-07-13": 100921,
-  "2022-07-14": 101040,
-  "2022-07-15": 101148,
-  "2022-07-16": 101264,
-  "2022-07-17": 101382,
-  "2022-07-18": 101482,
-  "2022-07-19": 101622,
-  "2022-07-20": 101753,
-  "2022-07-21": 101865,
-  "2022-07-22": 101986,
-  "2022-07-23": 102097,
-  "2022-07-24": 102201,
-  "2022-07-25": 102335,
-  "2022-07-26": 102448,
-  "2022-07-27": 102576,
-  "2022-07-28": 102685,
-  "2022-07-29": 102791,
-  "2022-07-30": 103036,
-  "2022-07-31": 103036,
-  "2022-08-01": 103165,
-  "2022-08-02": 103447,
-  "2022-08-03": 103447,
-  "2022-08-04": 103551,
-  "2022-08-05": 103651,
-  "2022-08-06": 103757,
-  "2022-08-07": 103873,
-  "2022-08-08": 104001,
-  "2022-08-09": 104153,
-  "2022-08-10": 104276,
-  "2022-08-11": 104393,
-  "2022-08-12": 104504,
-  "2022-08-13": 104623,
-  "2022-08-14": 104726,
-  "2022-08-15": 104831,
-  "2022-08-16": 104942,
-  "2022-08-17": 105078,
-  "2022-08-18": 105223,
-  "2022-08-19": 105372,
-  "2022-08-20": 105540,
-  "2022-08-21": 105690,
-  "2022-08-22": 105846,
-  "2022-08-23": 106013,
-  "2022-08-24": 106162,
-  "2022-08-25": 106327,
-  "2022-08-26": 106474,
-  "2022-08-27": 106620,
-  "2022-08-28": 106757,
-  "2022-08-29": 106904,
-  "2022-08-30": 106949,
-  "2022-08-31": 106902,
-  "2022-09-01": 106832,
-  "2022-09-02": 106771,
-  "2022-09-03": 106540,
-  "2022-09-04": 106538,
-  "2022-09-05": 106665,
-  "2022-09-06": 106873,
-  "2022-09-07": 107082,
-  "2022-09-09": 107368,
-  "2022-09-10": 107480,
-  "2022-09-11": 107626,
-  "2022-09-12": 107801,
-  "2022-09-13": 107944,
-  "2022-09-15": 108283,
-  "2022-09-16": 108437,
-  "2022-09-17": 108588,
-  "2022-09-18": 108700,
-  "2022-09-19": 108837,
-  "2022-09-20": 108957,
-  "2022-09-21": 109135,
-  "2022-09-22": 109303,
-  "2022-09-23": 109450,
-  "2022-09-24": 109581,
-  "2022-09-25": 109705,
-  "2022-09-26": 109877,
-  "2022-09-27": 110041,
-  "2022-09-28": 110195,
-  "2022-09-29": 110334,
-  "2022-09-30": 110487,
-  "2022-10-01": 110597,
-  "2022-10-02": 110731,
-  "2022-10-03": 110842,
-  "2022-10-04": 110991,
-  "2022-10-05": 111135,
-  "2022-10-06": 111261,
-  "2022-10-07": 111418,
-  "2022-10-08": 111575,
-  "2022-10-09": 111851,
-  "2022-10-10": 111865,
-  "2022-10-11": 112009,
-  "2022-10-12": 112193,
-  "2022-10-13": 112370,
-  "2022-10-14": 112527,
-  "2022-10-15": 112675,
-  "2022-10-16": 112801,
-  "2022-10-17": 112950,
-  "2022-10-18": 113108,
-  "2022-10-19": 113245,
-  "2022-10-20": 113389,
-  "2022-10-21": 113516,
-  "2022-10-22": 113656,
-  "2022-10-23": 113753,
-  "2022-10-24": 113873,
-  "2022-10-25": 114009,
-  "2022-10-26": 114169,
-  "2022-10-27": 114317,
-  "2022-10-28": 114412,
-  "2022-10-29": 114525,
-  "2022-10-30": 114658,
-  "2022-10-31": 114799,
-  "2022-11-01": 114938,
-  "2022-11-02": 115096,
-  "2022-11-03": 115213,
-  "2022-11-04": 115348,
-  "2022-11-05": 115490,
-  "2022-11-06": 115602,
-  "2022-11-07": 115733,
-  "2022-11-08": 115873,
-  "2022-11-09": 116070,
-  "2022-11-10": 116187,
-  "2022-11-11": 116344,
-  "2022-11-12": 116508,
-  "2022-11-13": 116628,
-  "2022-11-14": 116794,
-  "2022-11-15": 116971,
-  "2022-11-16": 117123,
-  "2022-11-17": 117254,
-  "2022-11-18": 117331,
-  "2022-11-19": 117354,
-  "2022-11-20": 117448,
-  "2022-11-21": 117584,
-  "2022-11-22": 117730,
-  "2022-11-23": 117703,
-  "2022-11-24": 118136,
-  "2022-11-25": 118353,
-  "2022-11-26": 118498,
-  "2022-11-27": 118633,
-  "2022-11-28": 118773,
-  "2022-11-29": 118944,
-  "2022-11-30": 119103,
-  "2022-12-01": 119238,
-  "2022-12-02": 119313,
-  "2022-12-03": 119484,
-  "2022-12-04": 119636,
-  "2022-12-05": 119772,
-  "2022-12-06": 119891,
-  "2022-12-07": 120029,
-  "2022-12-08": 120165,
-  "2022-12-09": 120304,
-  "2022-12-10": 120414,
-  "2022-12-11": 120547,
-  "2022-12-12": 120687,
-  "2022-12-13": 120841,
-  "2022-12-14": 120991,
-  "2022-12-15": 121126,
-  "2022-12-16": 121250,
-  "2022-12-17": 121363,
-  "2022-12-18": 121477,
-  "2022-12-19": 121582,
-  "2022-12-20": 121861,
-  "2022-12-21": 121861,
-  "2022-12-22": 121996,
-  "2022-12-24": 122259,
-  "2022-12-25": 122387,
-  "2022-12-26": 122484,
-  "2022-12-27": 122581,
-  "2022-12-28": 122705,
-  "2022-12-29": 122867,
-  "2022-12-30": 122997,
-  "2022-12-31": 123137,
-  "2023-01-01": 123240,
-  "2023-01-02": 123367,
-  "2023-01-03": 123558,
-  "2023-01-04": 123703,
-  "2023-01-05": 123870,
-  "2023-01-06": 124065,
-  "2023-01-07": 124312,
-  "2023-01-08": 124343,
-  "2023-01-09": 124503,
-  "2023-01-10": 124672,
-  "2023-01-11": 124830,
-  "2023-01-12": 124989,
-  "2023-01-13": 125153,
-  "2023-01-14": 125435,
-  "2023-01-15": 125451,
-  "2023-01-16": 125615,
-  "2023-01-17": 125776,
-  "2023-01-18": 125942,
-  "2023-01-19": 126108,
-  "2023-01-20": 126295,
-  "2023-01-21": 126450,
-  "2023-01-22": 126622,
-  "2023-01-23": 126815,
-  "2023-01-24": 126971,
-  "2023-01-25": 127144,
-  "2023-01-26": 127307,
-  "2023-01-27": 127452,
-  "2023-01-28": 127591,
-  "2023-01-29": 127744,
-  "2023-01-30": 127917,
-  "2023-01-31": 127917,
-  "2023-02-01": 128266,
-  "2023-02-02": 128442,
-  "2023-02-03": 128611,
-  "2023-02-04": 128794,
-  "2023-02-05": 128943,
-  "2023-02-06": 129122,
-  "2023-02-07": 129354,
-  "2023-02-08": 129713,
-  "2023-02-09": 129713,
-  "2023-02-10": 129889,
-  "2023-02-11": 130052,
-  "2023-02-12": 130383,
-  "2023-02-13": 130544,
-  "2023-02-14": 130544,
-  "2023-02-15": 130700,
-  "2023-02-16": 130869,
-  "2023-02-17": 131048,
-  "2023-02-18": 131485,
-  "2023-02-19": 131535,
-  "2023-02-20": 131699,
-  "2023-02-21": 131868,
-  "2023-02-22": 132061,
-  "2023-02-23": 132265,
-  "2023-02-24": 132451,
-  "2023-02-25": 132699,
-  "2023-02-26": 132824,
-  "2023-02-27": 133255,
-  "2023-02-28": 133255,
-  "2023-03-01": 133475,
-  "2023-03-02": 133671,
-  "2023-03-03": 133883,
-  "2023-03-04": 134050,
-  "2023-03-05": 134427,
-  "2023-03-06": 134427,
-  "2023-03-07": 134696,
-  "2023-03-08": 134875,
-  "2023-03-09": 135034,
-  "2023-03-10": 135236,
-  "2023-03-11": 135427,
-  "2023-03-12": 135636,
-  "2023-03-13": 135846,
-  "2023-03-14": 136030,
-  "2023-03-15": 136212,
-  "2023-03-16": 136420,
-  "2023-03-17": 136420,
-  "2023-03-18": 136822,
-  "2023-03-19": 137021,
-  "2023-03-20": 137205,
-  "2023-03-21": 137414,
-  "2023-03-22": 137610,
-  "2023-03-23": 137820,
-  "2023-03-24": 137820,
-  "2023-03-25": 138186,
-  "2023-03-26": 138369,
-  "2023-03-27": 138575,
-  "2023-03-28": 138748,
-  "2023-03-29": 138923,
-  "2023-03-30": 139258,
-  "2023-03-31": 139258,
-  "2023-04-01": 139450,
-  "2023-04-02": 139654,
-  "2023-04-03": 139843,
-  "2023-04-04": 140023,
-  "2023-04-05": 140238,
-  "2023-04-06": 140394,
-  "2023-04-07": 140563,
-  "2023-04-09": 140891,
-  "2023-04-10": 141068,
-  "2023-04-11": 141392,
-  "2023-04-12": 141392,
-  "2023-04-13": 141578,
-  "2023-04-14": 141729,
-  "2023-04-15": 141899,
-  "2023-04-16": 142051,
-  "2023-04-17": 142215,
-  "2023-04-18": 142405,
-  "2023-04-19": 142612,
-  "2023-04-20": 142826,
-  "2023-04-21": 143002,
-  "2023-04-22": 143135,
-  "2023-04-23": 143300,
-  "2023-04-24": 143445,
-  "2023-04-25": 143651,
-  "2023-04-26": 143856,
-  "2023-04-27": 144011,
-  "2023-04-28": 144200,
-  "2023-04-29": 144382,
-  "2023-04-30": 144545,
-  "2023-05-01": 144723,
-  "2023-05-02": 144917,
-  "2023-05-03": 145117,
-  "2023-05-04": 145309,
-  "2023-05-05": 145483,
-  "2023-05-06": 145678,
-  "2023-05-07": 145865,
-  "2023-05-08": 146057,
-  "2023-05-09": 146242,
-  "2023-05-10": 146424,
-  "2023-05-11": 146608,
-  "2023-05-12": 146789,
-  "2023-05-13": 146947,
-  "2023-05-14": 147094,
-  "2023-05-15": 147215,
-  "2023-05-16": 147386,
-  "2023-05-17": 147556,
-  "2023-05-18": 147726,
-  "2023-05-19": 147900,
-  "2023-05-20": 148234,
-  "2023-05-21": 148234,
-  "2023-05-22": 148234,
-  "2023-05-23": 148575,
-  "2023-05-24": 148909,
-  "2023-05-25": 148950,
-  "2023-05-26": 149135,
-  "2023-05-27": 149332,
-  "2023-05-28": 149526,
-  "2023-05-29": 149526,
-  "2023-05-30": 149932,
-  "2023-05-31": 150109,
-  "2023-06-01": 150346,
-  "2023-06-02": 150532,
-  "2023-06-03": 150738,
-  "2023-06-04": 150938,
-  "2023-06-05": 151156,
-  "2023-06-06": 151375,
-  "2023-06-07": 151583,
-  "2023-06-08": 151766,
-  "2023-06-09": 151982,
-  "2023-06-10": 152162,
-  "2023-06-11": 152351,
-  "2023-06-12": 152556,
-  "2023-06-13": 152771,
-  "2023-06-14": 152963,
-  "2023-06-15": 153202,
-  "2023-06-16": 153394,
-  "2023-06-17": 153613,
-  "2023-06-18": 153816,
-  "2023-06-19": 154038,
-  "2023-06-20": 154240,
-  "2023-06-21": 154483,
-  "2023-06-22": 154702,
-  "2023-06-23": 154914,
-  "2023-06-24": 155120,
-  "2023-06-25": 155321,
-  "2023-06-26": 155538,
-  "2023-06-27": 155763,
-  "2023-06-28": 155956,
-  "2023-06-29": 156153,
-  "2023-06-30": 156335,
-  "2023-07-01": 156738,
-  "2023-07-02": 156738,
-  "2023-07-03": 156936,
-  "2023-07-04": 157131,
-  "2023-07-05": 157343,
-  "2023-07-06": 157674,
-  "2023-07-07": 157674,
-  "2023-07-08": 157859,
-  "2023-07-09": 158024,
-  "2023-07-10": 158225,
-  "2023-07-11": 158447,
-  "2023-07-12": 158663,
-  "2023-07-13": 158897,
-  "2023-07-14": 159073,
-  "2023-07-15": 159191,
-  "2023-07-16": 159421,
-  "2023-07-17": 159623,
-  "2023-07-18": 159863,
-  "2023-07-19": 160079,
-  "2023-07-20": 160258,
-  "2023-07-21": 160460,
-  "2023-07-22": 160642,
-  "2023-07-23": 160860,
-  "2023-07-24": 161110,
-  "2023-07-25": 161320,
-  "2023-07-26": 161525,
-  "2023-07-27": 161750,
-  "2023-07-28": 161996,
-  "2023-07-29": 162196,
-  "2023-07-30": 162442,
-  "2023-07-31": 162677,
-  "2023-08-01": 162893,
-  "2023-08-02": 163124,
-  "2023-08-03": 163332,
-  "2023-08-04": 163500,
-  "2023-08-05": 163735,
-  "2023-08-06": 164183,
-  "2023-08-07": 164183,
-  "2023-08-08": 164410,
-  "2023-08-09": 164662,
-  "2023-08-10": 164892,
-  "2023-08-11": 165101,
-  "2023-08-12": 165301,
-  "2023-08-13": 165502,
-  "2023-08-14": 165681,
-  "2023-08-15": 166073,
-  "2023-08-16": 166073,
-  "2023-08-17": 166330,
-  "2023-08-18": 166567,
-  "2023-08-19": 166829,
-  "2023-08-20": 167040,
-  "2023-08-21": 167311,
-  "2023-08-22": 167568,
-  "2023-08-23": 167849,
-  "2023-08-24": 168104,
-  "2023-08-25": 168375,
-  "2023-08-26": 168616,
-  "2023-08-27": 168887,
-  "2023-08-28": 169191,
-  "2023-08-29": 169425,
-  "2023-08-30": 169674,
-  "2023-08-31": 169872,
-  "2023-09-01": 170196,
-  "2023-09-02": 170196,
-  "2023-09-03": 170302,
-  "2023-09-04": 170474,
-  "2023-09-05": 170657,
-  "2023-09-06": 170838,
-  "2023-09-07": 171001,
-  "2023-09-08": 171181,
-  "2023-09-09": 171350,
-  "2023-09-10": 171521,
-  "2023-09-11": 171669,
-  "2023-09-12": 171841,
-  "2023-09-13": 172036,
-  "2023-09-14": 172197,
-  "2023-09-15": 172384,
-  "2023-09-16": 172530,
-  "2023-09-17": 172688,
-  "2023-09-18": 172862,
-  "2023-09-19": 173028,
-  "2023-09-20": 173205,
-  "2023-09-21": 173410,
-  "2023-09-22": 173587,
-  "2023-09-23": 173712,
-  "2023-09-24": 173894,
-  "2023-09-25": 174083,
-  "2023-09-26": 174292,
-  "2023-09-27": 174403,
-  "2023-09-28": 174521,
-  "2023-09-29": 174670,
-  "2023-09-30": 174821,
-  "2023-10-01": 174971,
-  "2023-10-02": 175112,
-  "2023-10-03": 175239,
-  "2023-10-04": 175384,
-  "2023-10-05": 175517,
-  "2023-10-06": 175643,
-  "2023-10-07": 175785,
-  "2023-10-08": 175908,
-  "2023-10-09": 176034,
-  "2023-10-10": 176190,
-  "2023-10-11": 176437,
-  "2023-10-12": 176437,
-  "2023-10-13": 176545,
-  "2023-10-14": 176651,
-  "2023-10-15": 176767,
-  "2023-10-16": 176907,
-  "2023-10-17": 177039,
-  "2023-10-18": 177176,
-  "2023-10-19": 177294,
-  "2023-10-20": 177411,
-  "2023-10-21": 177508,
-  "2023-10-22": 177599,
-  "2023-10-23": 177719,
-  "2023-10-24": 177828,
-  "2023-10-25": 177923,
-  "2023-10-26": 178036,
-  "2023-10-27": 178148,
-  "2023-10-28": 178252,
-  "2023-10-29": 178366,
-  "2023-10-30": 178579,
-  "2023-10-31": 178579,
-  "2023-11-01": 178652,
-  "2023-11-02": 178763,
-  "2023-11-03": 178849,
-  "2023-11-04": 178950,
-  "2023-11-05": 179040,
-  "2023-11-06": 179136,
-  "2023-11-07": 179232,
-  "2023-11-08": 179323,
-  "2023-11-09": 179440,
-  "2023-11-10": 179514,
-  "2023-11-11": 179647,
-  "2023-11-12": 179724,
-  "2023-11-13": 179833,
-  "2023-11-14": 179905,
-  "2023-11-15": 179905,
-  "2023-11-16": 180092,
-  "2023-11-17": 180281,
-  "2023-11-18": 180281,
-  "2023-11-19": 180363,
-  "2023-11-20": 180458,
-  "2023-11-21": 180543,
-  "2023-11-22": 180631,
-  "2023-11-23": 180704,
-  "2023-11-24": 180813,
-  "2023-11-25": 180893,
-  "2023-11-26": 180984,
-  "2023-11-27": 181082,
-  "2023-11-28": 181173,
-  "2023-11-29": 181315,
-  "2023-11-30": 181315,
-  "2023-12-01": 181394,
-  "2023-12-02": 181461,
-  "2023-12-03": 181521,
-  "2023-12-04": 181627,
-  "2023-12-05": 181696,
-  "2023-12-06": 181794,
-  "2023-12-07": 181879,
-  "2023-12-08": 181947,
-  "2023-12-09": 182004,
-  "2023-12-10": 182065,
-  "2023-12-11": 182127,
-  "2023-12-12": 182220,
-  "2023-12-13": 182294,
-  "2023-12-14": 182383,
-  "2023-12-15": 182436,
-  "2023-12-16": 182500,
-  "2023-12-17": 182570,
-  "2023-12-18": 182656,
-  "2023-12-19": 182723,
-  "2023-12-20": 182809,
-  "2023-12-21": 182885,
-  "2023-12-22": 182972,
-  "2023-12-23": 183039,
-  "2023-12-24": 183117,
-  "2023-12-25": 183191,
-  "2023-12-26": 183250,
-  "2023-12-27": 183333,
-  "2023-12-30": 183544,
-  "2023-12-31": 183625,
-  "2024-01-01": 183709,
-  "2024-01-02": 183778,
-  "2024-01-03": 183855
+  "2024-01-17": 184885,
+  "date_first_scraped": "2022-05-30",
+  "description": "Mantras for meditation",
+  "name": "Magical Mantras",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 701467,
+      "name": "Aham Brahmasmi",
+      "url": "https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M"
+    },
+    {
+      "album": {
+        "name": "Live Mantra",
+        "url": "https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y"
+      },
+      "artists": [
+        {
+          "name": "Buddhist Monks",
+          "url": "https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 171920,
+      "name": "Amitayus",
+      "url": "https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS"
+    },
+    {
+      "album": {
+        "name": "Mantras for Positive Energy",
+        "url": "https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 680647,
+      "name": "Antarjami Purakh Bidhate",
+      "url": "https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40"
+    },
+    {
+      "album": {
+        "name": "Triveni: Durga, Lakshmi, Saraswati",
+        "url": "https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Isha",
+          "url": "https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315011,
+      "name": "Bhairavi Vandana",
+      "url": "https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 2639533,
+      "name": "Durga Mantra",
+      "url": "https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2639533,
+      "name": "Durga Mantra",
+      "url": "https://open.spotify.com/track/2M3U3LxFTNj3gKcYPSkM34"
+    },
+    {
+      "album": {
+        "name": "Ganesh Mantra",
+        "url": "https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B"
+      },
+      "artists": [
+        {
+          "name": "Raghav Sarangal",
+          "url": "https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1600000,
+      "name": "Ganesh Mantra",
+      "url": "https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog"
+    },
+    {
+      "album": {
+        "name": "Ganesh Bhakti Sangrah",
+        "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
+      },
+      "artists": [
+        {
+          "name": "Ankita Bramhe",
+          "url": "https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "Ganesh Stuti",
+      "url": "https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO"
+    },
+    {
+      "album": {
+        "name": "Mantras for a Happy Life",
+        "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
+      },
+      "artists": [
+        {
+          "name": "Ananda Vdovic",
+          "url": "https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN"
+        },
+        {
+          "name": "Davor Vdovic",
+          "url": "https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 224561,
+      "name": "Ganesha Gayatri: For Success in Anything",
+      "url": "https://open.spotify.com/track/2fHWrCwPVLjpJb2ibPFDjr"
+    },
+    {
+      "album": {
+        "name": "Ganesha Pancharatnam",
+        "url": "https://open.spotify.com/album/1MKhRxd0kLwWR1UaL5W1xj"
+      },
+      "artists": [
+        {
+          "name": "Om Voices Junior",
+          "url": "https://open.spotify.com/artist/2AWAl66rPSpY6zi905a9wD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-27",
+      "duration_ms": 243025,
+      "name": "Ganesha Pancharatnam",
+      "url": "https://open.spotify.com/track/7c8xzpPAMGus1cM6lV4u5H"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra",
+        "url": "https://open.spotify.com/album/06azPdWYhUcCLbgEyEeVdI"
+      },
+      "artists": [
+        {
+          "name": "Chetna Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LTxsVoN6Rkd0l5vw8QTYx"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2462769,
+      "name": "Gayatri Mantra",
+      "url": "https://open.spotify.com/track/6pgkNVyeOaCUXmzRbXFNSt"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2706366,
+      "name": "Gayatri Mantra",
+      "url": "https://open.spotify.com/track/1eFNVWquDgTQHAo2lBnztM"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 2706366,
+      "name": "Gayatri Mantra",
+      "url": "https://open.spotify.com/track/6VLGI7ZeWgcAEIgK6xiA5i"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2706366,
+      "name": "Gayatri Mantra",
+      "url": "https://open.spotify.com/track/6hqclMTlC1XSreZ7Ij4e87"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra",
+        "url": "https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB"
+      },
+      "artists": [
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Abhinay Jain",
+          "url": "https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2210484,
+      "name": "Gayatri Mantra (108 Times)",
+      "url": "https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra 108 Times - Single",
+        "url": "https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Rahul Joshi",
+          "url": "https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 2849920,
+      "name": "Gayatri Mantra 108 Times",
+      "url": "https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra 108 Times - Single",
+        "url": "https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Rahul Joshi",
+          "url": "https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 2849920,
+      "name": "Gayatri Mantra 108 Times",
+      "url": "https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy"
+    },
+    {
+      "album": {
+        "name": "Gayatri Mantra-----Jagjit Singh",
+        "url": "https://open.spotify.com/album/7yd4gPISELyKBRsdGDoCTg"
+      },
+      "artists": [
+        {
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471040,
+      "name": "Gayatri Mantra Without Rhythm",
+      "url": "https://open.spotify.com/track/7DF6xE3PU2agEw7pEheTWt"
+    },
+    {
+      "album": {
+        "name": "Prayer: a Multi-Cultural Journey of Spirit",
+        "url": "https://open.spotify.com/album/0o6DPWJW0uQE5JmnXMLnaw"
+      },
+      "artists": [
+        {
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        },
+        {
+          "name": "H. H. the 14th Dalai Lama",
+          "url": "https://open.spotify.com/artist/0cXH1d3YdsSeiJTeUnmiw9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 442440,
+      "name": "Green Tara Mantra",
+      "url": "https://open.spotify.com/track/3oaoSGOrDm3YwrK3cEMeI8"
+    },
+    {
+      "album": {
+        "name": "Songs Of Tara",
+        "url": "https://open.spotify.com/album/5hdeJwvfNrUPqm1BYRBVqv"
+      },
+      "artists": [
+        {
+          "name": "His Holiness The Dalai Lama",
+          "url": "https://open.spotify.com/artist/7pXijXYl63Nj4YW1UlGEOB"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444440,
+      "name": "Green Tara Mantra",
+      "url": "https://open.spotify.com/track/7yivO15nGU6ddIA93aQnUR"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Sathe",
+          "url": "https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Harish Bhimani",
+          "url": "https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220029,
+      "name": "Guru Smaranam",
+      "url": "https://open.spotify.com/track/5c8AwcaZMp8bgxpezxxohX"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W"
+      },
+      "artists": [
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 219845,
+      "name": "Guru Smaranam",
+      "url": "https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR"
+    },
+    {
+      "album": {
+        "name": "Guruji Mantras",
+        "url": "https://open.spotify.com/album/3XcTUCAl9UYJiBkmwfXXLn"
+      },
+      "artists": [
+        {
+          "name": "Anushka Bajaj",
+          "url": "https://open.spotify.com/artist/5LOZkMFBrY9mzJUABtMM1U"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1305000,
+      "name": "Guruji Mantras",
+      "url": "https://open.spotify.com/track/3QCYq6YkSlq8MlbZvJlbiB"
+    },
+    {
+      "album": {
+        "name": "Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga",
+        "url": "https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M"
+      },
+      "artists": [
+        {
+          "name": "Nisha Narsai",
+          "url": "https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484493,
+      "name": "Hari Om - Edit",
+      "url": "https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv"
+    },
+    {
+      "album": {
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 859743,
+      "name": "Hari Om Tat Sat",
+      "url": "https://open.spotify.com/track/0xGwFiCoeGKds8btsxwWXs"
+    },
+    {
+      "album": {
+        "name": "9 Golden Mantras",
+        "url": "https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 856240,
+      "name": "Hari Om Tat Sat - 108 Times",
+      "url": "https://open.spotify.com/track/3eiRqZHxIzfKdorBTT9Hl0"
+    },
+    {
+      "album": {
+        "name": "9 Golden Mantras",
+        "url": "https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 856240,
+      "name": "Hari Om Tat Sat - 108 Times",
+      "url": "https://open.spotify.com/track/63iw2oXKHiwczTBAbZMxB7"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Sathe",
+          "url": "https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Harish Bhimani",
+          "url": "https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 61648,
+      "name": "Kar Darshanam",
+      "url": "https://open.spotify.com/track/2kavzWD9eedpa1ueYu79pW"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W"
+      },
+      "artists": [
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 61461,
+      "name": "Kar Darshanam",
+      "url": "https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv"
+    },
+    {
+      "album": {
+        "name": "Sunrise to Sunset, Vol. 1",
+        "url": "https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa"
+      },
+      "artists": [
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 61733,
+      "name": "Kar Darshanam",
+      "url": "https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61"
+    },
+    {
+      "album": {
+        "name": "Karagre Vasate Lakshmi Mantra (Chant)",
+        "url": "https://open.spotify.com/album/6LGgWTl0PICG7TQwWlkgSU"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Isha Nair",
+          "url": "https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG"
+        },
+        {
+          "name": "Deepaali Vyas",
+          "url": "https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2"
+        },
+        {
+          "name": "Bansari Maisuriya",
+          "url": "https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Karagre Vasate Lakshmi Mantra (Chant)",
+      "url": "https://open.spotify.com/track/2JIMWXl7BmJAWQuSnP7n6o"
+    },
+    {
+      "album": {
+        "name": "Meditations for Transformation: Kirtan Kriya",
+        "url": "https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s"
+      },
+      "artists": [
+        {
+          "name": "Nirinjan Kaur",
+          "url": "https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 691319,
+      "name": "Kirtan Kriya (Short Version)",
+      "url": "https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD"
+    },
+    {
+      "album": {
+        "name": "Colonial Cousins",
+        "url": "https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC"
+      },
+      "artists": [
+        {
+          "name": "Colonial Cousins",
+          "url": "https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 350146,
+      "name": "Krishna",
+      "url": "https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM"
+    },
+    {
+      "album": {
+        "name": "Krishna Chants",
+        "url": "https://open.spotify.com/album/4Xxi2o5Z8g2On0XrNQcSyp"
+      },
+      "artists": [
+        {
+          "name": "Utkarsh Sharma",
+          "url": "https://open.spotify.com/artist/3rVL53vjNj2z3QVZLg8mOE"
+        },
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 237999,
+      "name": "Krishna Chants",
+      "url": "https://open.spotify.com/track/2eAQbiQFn6OZ5TxNOC791s"
+    },
+    {
+      "album": {
+        "name": "Krishna Mahamantra",
+        "url": "https://open.spotify.com/album/1355u11U7qgSL4pRBEVhKF"
+      },
+      "artists": [
+        {
+          "name": "Vipin Aneja",
+          "url": "https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 329277,
+      "name": "Krishna Mahamantra",
+      "url": "https://open.spotify.com/track/6HaQSjTVMgoP8su4Pe7jOo"
+    },
+    {
+      "album": {
+        "name": "Lakshmi Kuber Mantra for Wealth (Original)",
+        "url": "https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Kumar",
+          "url": "https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2193031,
+      "name": "Lakshmi Kuber Mantra for Wealth",
+      "url": "https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH"
+    },
+    {
+      "album": {
+        "name": "Laxmi Mantra 108 Times",
+        "url": "https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz"
+      },
+      "artists": [
+        {
+          "name": "Nipun Aggarwal",
+          "url": "https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 896706,
+      "name": "Laxmi Mantra 108 Times",
+      "url": "https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa"
+    },
+    {
+      "album": {
+        "name": "Maha Mrityunjaya Mantra: 108 Times",
+        "url": "https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2976545,
+      "name": "Maha Mrityunjaya Mantra: 108 Times",
+      "url": "https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko"
+    },
+    {
+      "album": {
+        "name": "Mahamrutyunjay Mantra 108 Times - Single",
+        "url": "https://open.spotify.com/album/6ZFRGKKeD1Cva1MHBZ7RVw"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 3246640,
+      "name": "Mahamrutyunjay Mantra 108 Times",
+      "url": "https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp"
+    },
+    {
+      "album": {
+        "name": "Mahamrutyunjay Mantra 108 Times",
+        "url": "https://open.spotify.com/album/1KQEkqGKhoTwlwFFIUk8BQ"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3246640,
+      "name": "Mahamrutyunjay Mantra 108 Times",
+      "url": "https://open.spotify.com/track/3CWsh93PVnrrjJrJMEmyfY"
+    },
+    {
+      "album": {
+        "name": "Mahamrutyunjay Mantra 108 Times",
+        "url": "https://open.spotify.com/album/3PQ7zZ8vT49Bjcnv88Qyxz"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 3246640,
+      "name": "Mahamrutyunjay Mantra 108 Times",
+      "url": "https://open.spotify.com/track/3yfuJG45CTPeFM8ASZt1cJ"
+    },
+    {
+      "album": {
+        "name": "Mahamrutyunjay Mantra 108 Times - Single",
+        "url": "https://open.spotify.com/album/7xWhxf1QPBlvUj8RBBy8fP"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 3246640,
+      "name": "Mahamrutyunjay Mantra 108 Times",
+      "url": "https://open.spotify.com/track/7qB2NPq6jk9XYDO93Xb8oA"
+    },
+    {
+      "album": {
+        "name": "111 Tracks: Meditation Mantras - Zen Garden & Asian Chakra Balancing, Reiki Healing Therapy Sounds, Buddha Lounge Music & Yoga Studio",
+        "url": "https://open.spotify.com/album/4MKhYNmN88Obpo0FvJCYlU"
+      },
+      "artists": [
+        {
+          "name": "Buddha Music Sanctuary",
+          "url": "https://open.spotify.com/artist/4FD6Q9i4uAwn5PEwirPyJ3"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 190000,
+      "name": "Medicine Buddha Mantra",
+      "url": "https://open.spotify.com/track/1oZomIXDVknb470AOo66cN"
+    },
+    {
+      "album": {
+        "name": "Mool Mantra",
+        "url": "https://open.spotify.com/album/2b43h4vZZCweigNYEXgMyH"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhowmick",
+          "url": "https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 465572,
+      "name": "Mool Mantra",
+      "url": "https://open.spotify.com/track/1EclpRACeW8C4kfNQMth8M"
+    },
+    {
+      "album": {
+        "name": "Mool Mantra",
+        "url": "https://open.spotify.com/album/68mN6PReyeJfWydMrMSOBl"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhowmick",
+          "url": "https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-02",
+      "duration_ms": 465572,
+      "name": "Mool Mantra",
+      "url": "https://open.spotify.com/track/260CN7x19rK2PUlwXhRsZN"
+    },
+    {
+      "album": {
+        "name": "Mool Mantra - Single",
+        "url": "https://open.spotify.com/album/5WOVe5LI63N4ci6eNRoHWa"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhowmick",
+          "url": "https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 465572,
+      "name": "Mool Mantra",
+      "url": "https://open.spotify.com/track/4JfPgYeidGr9eLFbpg1DIB"
+    },
+    {
+      "album": {
+        "name": "Mool Mantra - Single",
+        "url": "https://open.spotify.com/album/4Fdr2MRs9AJNLBittLnyYW"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhowmick",
+          "url": "https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 465572,
+      "name": "Mool Mantra",
+      "url": "https://open.spotify.com/track/79n8AuJG3hP5DFCQTiB78h"
+    },
+    {
+      "album": {
+        "name": "Nam Myoho Renge Kyo",
+        "url": "https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP"
+      },
+      "artists": [
+        {
+          "name": "Sandeep Khurana",
+          "url": "https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 924741,
+      "name": "Nam Myoho Renge Kyo",
+      "url": "https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4"
+    },
+    {
+      "album": {
+        "name": "Mantras for Life",
+        "url": "https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP"
+      },
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+        },
+        {
+          "name": "Miten",
+          "url": "https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P"
+        },
+        {
+          "name": "Manose",
+          "url": "https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 251360,
+      "name": "Nam Myoho Renge Kyo Mantra (Devotion to the Mystic Law)",
+      "url": "https://open.spotify.com/track/4exQWqZNQ4aQzasBj3Dir9"
+    },
+    {
+      "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/04ncbuy6fvxvXV3TByqsbg"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2062009,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/2UozhIAXupkXrfpnOSG8zT"
+    },
+    {
+      "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 2062009,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
+    },
+    {
+      "album": {
+        "name": "Navkar Mantra",
+        "url": "https://open.spotify.com/album/5SxS1qHZUBNPN2rVVAeErq"
+      },
+      "artists": [
+        {
+          "name": "Geetu Unplugged",
+          "url": "https://open.spotify.com/artist/1YlyMSSdwqA3t3goVRqoHK"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-24",
+      "duration_ms": 210000,
+      "name": "Navkar Mantra",
+      "url": "https://open.spotify.com/track/07AfFQCy6XRavj2i9JLijB"
+    },
+    {
+      "album": {
+        "name": "9 Golden Mantras",
+        "url": "https://open.spotify.com/album/13IRm41CPRStJifiLLyIw1"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1872160,
+      "name": "OM - 108 Times",
+      "url": "https://open.spotify.com/track/1t5yedcqt2kacFRM8uXMwP"
+    },
+    {
+      "album": {
+        "name": "9 Golden Mantras",
+        "url": "https://open.spotify.com/album/5nQV0wq77XlLeRHXCregdk"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1872160,
+      "name": "OM - 108 Times",
+      "url": "https://open.spotify.com/track/2KHcNmJUnVFXSX63rrD4st"
+    },
+    {
+      "album": {
+        "name": "Tochi Mantras",
+        "url": "https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN"
+      },
+      "artists": [
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1318008,
+      "name": "Om Chanting",
+      "url": "https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8"
+    },
+    {
+      "album": {
+        "name": "Om Datta Datta Dattah (Datta Beej Mantra Dhuni)",
+        "url": "https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Vijay Khanderao Dhone",
+          "url": "https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 958902,
+      "name": "Om Datta Datta Dattah (Datta Beej Mantra Dhuni)",
+      "url": "https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc"
+    },
+    {
+      "album": {
+        "name": "Om Gam Ganapataye",
+        "url": "https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9di Carlee",
+          "url": "https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630948,
+      "name": "Om Gam Ganapataye",
+      "url": "https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk"
+    },
+    {
+      "album": {
+        "name": "Mantras for Precarious Times",
+        "url": "https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX"
+      },
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492600,
+      "name": "Om Gum Ganapatayei Namaha (Removing of Obstacles)",
+      "url": "https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9"
+    },
+    {
+      "album": {
+        "name": "Om Kali Mahakali Mantra",
+        "url": "https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx"
+      },
+      "artists": [
+        {
+          "name": "Chant Central",
+          "url": "https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2826436,
+      "name": "Om Kali Mahakali Mantra",
+      "url": "https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ"
+    },
+    {
+      "album": {
+        "name": "Yoga Music Collection \"Blissfull Mantras & Prayers\"",
+        "url": "https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504040,
+      "name": "Om Mani Padme Hum 1",
+      "url": "https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp"
+    },
+    {
+      "album": {
+        "name": "Tochi Mantras",
+        "url": "https://open.spotify.com/album/3v9tIJ3zIyg7fDwRtUfeGF"
+      },
+      "artists": [
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/5ygCnHgWewvj077g4Zam9Y"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458031,
+      "name": "Om Namah Shivaay",
+      "url": "https://open.spotify.com/track/77BUqblYmGr4k7JAdgiLwt"
+    },
+    {
+      "album": {
+        "name": "Tochi Mantras",
+        "url": "https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN"
+      },
+      "artists": [
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 458031,
+      "name": "Om Namah Shivaay",
+      "url": "https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4"
+    },
+    {
+      "album": {
+        "name": "Om Namah Shivay Mantra",
+        "url": "https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ"
+      },
+      "artists": [
+        {
+          "name": "Palak Sharma",
+          "url": "https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG"
+        },
+        {
+          "name": "JusKeys",
+          "url": "https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737500,
+      "name": "Om Namah Shivay Mantra",
+      "url": "https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx"
+    },
+    {
+      "album": {
+        "name": "Mantras for Precarious Times",
+        "url": "https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX"
+      },
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569026,
+      "name": "Om Namo Bhagavate Vasudevaya (Liberation)",
+      "url": "https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5"
+    },
+    {
+      "album": {
+        "name": "Om Namo Bhagwate Vasudevaya",
+        "url": "https://open.spotify.com/album/499BhQxYN0mvcdEhDHCdRx"
+      },
+      "artists": [
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275982,
+      "name": "Om Namo Bhagwate Vasudevaya",
+      "url": "https://open.spotify.com/track/03QkE78keZ1qKX9FWZmwzh"
+    },
+    {
+      "album": {
+        "name": "Mantras for Life",
+        "url": "https://open.spotify.com/album/74COwDRGbAiTH04LbYsYUP"
+      },
+      "artists": [
+        {
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+        },
+        {
+          "name": "Miten",
+          "url": "https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P"
+        },
+        {
+          "name": "Manose",
+          "url": "https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-27",
+      "duration_ms": 123853,
+      "name": "Om Sahana Vavatu (Shanti Mantra)",
+      "url": "https://open.spotify.com/track/0qMsQ5dt3QUgA0iJiNCT5r"
+    },
+    {
+      "album": {
+        "name": "Mantras for a Happy Life",
+        "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
+      },
+      "artists": [
+        {
+          "name": "Ananda Vdovic",
+          "url": "https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN"
+        },
+        {
+          "name": "Davor Vdovic",
+          "url": "https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-08",
+      "duration_ms": 180652,
+      "name": "Om Shanti: Mantra for Peace",
+      "url": "https://open.spotify.com/track/0uRzptpVnUqMLvz7ZrhMgP"
+    },
+    {
+      "album": {
+        "name": "Mantras for a Happy Life",
+        "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
+      },
+      "artists": [
+        {
+          "name": "Ananda Vdovic",
+          "url": "https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN"
+        },
+        {
+          "name": "Davor Vdovic",
+          "url": "https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513092,
+      "name": "Om Tryambakam: Mantra for Health",
+      "url": "https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH"
+    },
+    {
+      "album": {
+        "name": "Mantras for Divine Grace",
+        "url": "https://open.spotify.com/album/0YtJffc8FISzmdKptIVei7"
+      },
+      "artists": [
+        {
+          "name": "Snatam Kaur",
+          "url": "https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602746,
+      "name": "Ong Namo (Wisdom)",
+      "url": "https://open.spotify.com/track/0edFHoTkMCh2gzsk11kCDM"
+    },
+    {
+      "album": {
+        "name": "Mantras & Chants",
+        "url": "https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672497,
+      "name": "Pran Sutra: Dhan Dhan Ram Das Gur",
+      "url": "https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0"
+    },
+    {
+      "album": {
+        "name": "Mantras To Start the Day",
+        "url": "https://open.spotify.com/album/6x7FhEL7eSa4Ld0kHu24oL"
+      },
+      "artists": [
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Ravindra Sathe",
+          "url": "https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 38706,
+      "name": "Pranayaam Mantra",
+      "url": "https://open.spotify.com/track/5hOkUTeiG7SDMBWuTy58ez"
+    },
+    {
+      "album": {
+        "name": "Radhe Shyam",
+        "url": "https://open.spotify.com/album/0iFm6TvOUhNVmhloTUn8dU"
+      },
+      "artists": [
+        {
+          "name": "Dj Mausam",
+          "url": "https://open.spotify.com/artist/11ikrZ9WL7bio1G7novcaW"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 133131,
+      "name": "Radhe Shyam",
+      "url": "https://open.spotify.com/track/3VU0WCmwe5HVVzPzzCvjHh"
+    },
+    {
+      "album": {
+        "name": "Raghunandan",
+        "url": "https://open.spotify.com/album/7mNbiAGZySBw1nFFe0bZAi"
+      },
+      "artists": [
+        {
+          "name": "Agam Aggarwal",
+          "url": "https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA"
+        },
+        {
+          "name": "Siddharth Sharma",
+          "url": "https://open.spotify.com/artist/4mzzax24RTTB4kUEHkgaDo"
+        },
+        {
+          "name": "Narci",
+          "url": "https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 324740,
+      "name": "Raghunandan",
+      "url": "https://open.spotify.com/track/1QaAXfq7b3p7q8oNC1jtcT"
+    },
+    {
+      "album": {
+        "name": "Ram Naam Chanting",
+        "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
+      },
+      "artists": [
+        {
+          "name": "Palak Sharma",
+          "url": "https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG"
+        },
+        {
+          "name": "JusKeys",
+          "url": "https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1081463,
+      "name": "Ram Naam Chanting",
+      "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"
+    },
+    {
+      "album": {
+        "name": "Ram Naam Dhun",
+        "url": "https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V"
+      },
+      "artists": [
+        {
+          "name": "Palak Sharma",
+          "url": "https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838750,
+      "name": "Ram Naam Dhun",
+      "url": "https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs"
+    },
+    {
+      "album": {
+        "name": "Adipurush",
+        "url": "https://open.spotify.com/album/6E4a5L8GGEk560bbHlM2VP"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 230092,
+      "name": "Ram Siya Ram",
+      "url": "https://open.spotify.com/track/71hjdkWEDFxESRWPDvDMNb"
+    },
+    {
+      "album": {
+        "name": "Ramashtakam",
+        "url": "https://open.spotify.com/album/5eE84N4O5LRLy5su0R74Vp"
+      },
+      "artists": [
+        {
+          "name": "Uthara Unnikrishnan",
+          "url": "https://open.spotify.com/artist/1JBngqswTsCSvZ9eFVjnlO"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362857,
+      "name": "Ramashtakam",
+      "url": "https://open.spotify.com/track/0gk5kLComqP0mxgyk26OnL"
+    },
+    {
+      "album": {
+        "name": "Chants of Moksha - Omkaar - at 432 Hz",
+        "url": "https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s"
+      },
+      "artists": [
+        {
+          "name": "Rajan Mishra",
+          "url": "https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9"
+        },
+        {
+          "name": "Sajan Mishra",
+          "url": "https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p"
+        },
+        {
+          "name": "Rupa Tiwary",
+          "url": "https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597000,
+      "name": "Resonance Meditation with Omkaar - at 432 Hz",
+      "url": "https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM"
+    },
+    {
+      "album": {
+        "name": "Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World",
+        "url": "https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL"
+      },
+      "artists": [
+        {
+          "name": "Morpheus Ascending",
+          "url": "https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 99700,
+      "name": "Restorative Mantras",
+      "url": "https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d"
+    },
+    {
+      "album": {
+        "name": "Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World",
+        "url": "https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo"
+      },
+      "artists": [
+        {
+          "name": "Zen Healing Music Collective",
+          "url": "https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 99700,
+      "name": "Restorative Mantras",
+      "url": "https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp"
+    },
+    {
+      "album": {
+        "name": "Saraswati Rhythm",
+        "url": "https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR"
+      },
+      "artists": [
+        {
+          "name": "Bass Rebellion",
+          "url": "https://open.spotify.com/artist/7D2HBoOVlNYCwvIXLWALXe"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 185142,
+      "name": "Saraswati Rhythm",
+      "url": "https://open.spotify.com/track/1AwW1ElTc2Gb844Or8nmcu"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2717900,
+      "name": "Sarvesham Svastir Bhavatu",
+      "url": "https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 2717900,
+      "name": "Sarvesham Svastir Bhavatu",
+      "url": "https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2717900,
+      "name": "Sarvesham Svastir Bhavtu",
+      "url": "https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv"
+    },
+    {
+      "album": {
+        "name": "Sahaj Atma",
+        "url": "https://open.spotify.com/album/1301F9iFu666bf4IqviXar"
+      },
+      "artists": [
+        {
+          "name": "Manish Vyas",
+          "url": "https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418012,
+      "name": "Shanti Mantra (For Inner and Outer Peace)",
+      "url": "https://open.spotify.com/track/2k0UyMqa4FbwMZiHgYJzfA"
+    },
+    {
+      "album": {
+        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
+      },
+      "artists": [
+        {
+          "name": "Om Voices",
+          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380437,
+      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
+    },
+    {
+      "album": {
+        "name": "Shiv Tandav Strotram",
+        "url": "https://open.spotify.com/album/6fI7Z1YcFQoS4mq3JZYLT6"
+      },
+      "artists": [
+        {
+          "name": "akashworldwide",
+          "url": "https://open.spotify.com/artist/7aDBhDrZS0RXtMDmQQNwDE"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198002,
+      "name": "Shiv Tandav Strotram",
+      "url": "https://open.spotify.com/track/6EuRDQtfLoapVGesvko8sS"
+    },
+    {
+      "album": {
+        "name": "Shiva Chants",
+        "url": "https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh"
+      },
+      "artists": [
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
+          "name": "Abhinay Jain",
+          "url": "https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 303715,
+      "name": "Shiva Chants",
+      "url": "https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS"
+    },
+    {
+      "album": {
+        "name": "Indrakshi Shiva Kavacham",
+        "url": "https://open.spotify.com/album/5ht7pBFQd84uH0spR7kheq"
+      },
+      "artists": [
+        {
+          "name": "Malola Kannan",
+          "url": "https://open.spotify.com/artist/1Wi5YCCmYwr9AYRniY68po"
+        },
+        {
+          "name": "J Bhakthavatsalam",
+          "url": "https://open.spotify.com/artist/4HX4R2UVRv6y3z9BtaVWxk"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 186346,
+      "name": "Shiva Raksha Stotram",
+      "url": "https://open.spotify.com/track/462pUNRwifkgfTq4Z36jEc"
+    },
+    {
+      "album": {
+        "name": "Ganesha Symphonic Chants Experience",
+        "url": "https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388653,
+      "name": "Shree Ganapati Atharvashirsha",
+      "url": "https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR"
+    },
+    {
+      "album": {
+        "name": "Shri Ram Jai Ram (21 Chant)",
+        "url": "https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Nishant Upadhyay",
+          "url": "https://open.spotify.com/artist/6X5A6Nc7hVXf7V88rG7OpB"
+        },
+        {
+          "name": "Vivek Nayi",
+          "url": "https://open.spotify.com/artist/5NmAnk2izH1vPZyUfTUqcR"
+        },
+        {
+          "name": "Margiv Trivedi",
+          "url": "https://open.spotify.com/artist/3tu0DiS7GT1F7k8G3Ktltm"
+        },
+        {
+          "name": "Isha Nair",
+          "url": "https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG"
+        },
+        {
+          "name": "Deepaali Vyas",
+          "url": "https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2"
+        },
+        {
+          "name": "Bansari Maisuriya",
+          "url": "https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 807662,
+      "name": "Shri Ram Jai Ram (21 Chant)",
+      "url": "https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6"
+    },
+    {
+      "album": {
+        "name": "My Krishna Favourites",
+        "url": "https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 708826,
+      "name": "Sri Krishnam Sharanam",
+      "url": "https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4"
+    },
+    {
+      "album": {
+        "name": "Surya Namaskar Mantra",
+        "url": "https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ"
+      },
+      "artists": [
+        {
+          "name": "Uma Mohan",
+          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 393750,
+      "name": "Surya Namaskar Mantra",
+      "url": "https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq"
+    },
+    {
+      "album": {
+        "name": "Surya Namaskar Mantra",
+        "url": "https://open.spotify.com/album/0l5SkGFIFwUo01cwaRik4d"
+      },
+      "artists": [
+        {
+          "name": "Uma Mohan",
+          "url": "https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393750,
+      "name": "Surya Namaskar Mantra",
+      "url": "https://open.spotify.com/track/7g3Y6bCXY8fLl0rw2XXkmX"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2693166,
+      "name": "Tan Man Shaant",
+      "url": "https://open.spotify.com/track/1YOx9HCFKTmyPgQGNtrioQ"
+    },
+    {
+      "album": {
+        "name": "Mantras for Deep Inner Peace",
+        "url": "https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2693166,
+      "name": "Tan Man Shaant",
+      "url": "https://open.spotify.com/track/7tjjvaPtdjZMUwDhLSFgjq"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W"
+      },
+      "artists": [
+        {
+          "name": "Kedar Pandit",
+          "url": "https://open.spotify.com/artist/3vZMa9tWbeSYpQYhGRKHws"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 38822,
+      "name": "Tilak Mantra",
+      "url": "https://open.spotify.com/track/1P7sFLx6i0iZhJoqWLEppI"
+    },
+    {
+      "album": {
+        "name": "Morning Mantras",
+        "url": "https://open.spotify.com/album/08xbsX0guYMVjMe7oThBlp"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Sathe",
+          "url": "https://open.spotify.com/artist/4I5QgST39jQbLzuWTgUKcX"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Harish Bhimani",
+          "url": "https://open.spotify.com/artist/4Ue0breeduMNArt1jlqe7d"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 39000,
+      "name": "Tilak Mantra",
+      "url": "https://open.spotify.com/track/3aTqStXPCeMC41rIUPv7XJ"
+    },
+    {
+      "album": {
+        "name": "Ganesh Bhakti Sangrah",
+        "url": "https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs"
+      },
+      "artists": [
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435915,
+      "name": "Vakratunda Mahakaya - Suresh Wadkar",
+      "url": "https://open.spotify.com/track/1zJYaxEYpe3A5ioSXS9ZOR"
+    },
+    {
+      "album": {
+        "name": "Vakratundaya",
+        "url": "https://open.spotify.com/album/3Slo9j43IefQn4QVJeXukv"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9di Carlee",
+          "url": "https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir"
+        }
+      ],
+      "date_added": "2023-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362567,
+      "name": "Vakratundaya",
+      "url": "https://open.spotify.com/track/6daNcoFm3KBCMPC5twXIxC"
+    },
+    {
+      "album": {
+        "name": "Vande Gurunam - Yoga Mantra",
+        "url": "https://open.spotify.com/album/3s5NlnnwDthLumTVgjiggP"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Amit Bhavsar",
+          "url": "https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611999,
+      "name": "Vande Gurunam - Yoga Mantra",
+      "url": "https://open.spotify.com/track/2SYlyBEfTfgvnmwiVI49Mi"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 2701166,
+      "name": "Waheguru Wahe Jio",
+      "url": "https://open.spotify.com/track/0lliLuoYQoVwXaCyNXMoqK"
+    },
+    {
+      "album": {
+        "name": "Magical Mantras for Meditation - Volume Two",
+        "url": "https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4"
+      },
+      "artists": [
+        {
+          "name": "Meditative Mind",
+          "url": "https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2701166,
+      "name": "Waheguru Wahe Jio",
+      "url": "https://open.spotify.com/track/1ZC1vU3OWjOZqREj9th9eh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6o0zIiTnhmq"
 }

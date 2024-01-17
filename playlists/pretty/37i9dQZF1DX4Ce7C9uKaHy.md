@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,396 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,392 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

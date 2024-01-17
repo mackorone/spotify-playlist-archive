@@ -1,479 +1,1171 @@
 {
-  "2022-09-09": 60656,
-  "2022-09-10": 61351,
-  "2022-09-11": 61882,
-  "2022-09-12": 62414,
-  "2022-09-13": 62984,
-  "2022-09-15": 64130,
-  "2022-09-16": 64700,
-  "2022-09-17": 65226,
-  "2022-09-18": 65622,
-  "2022-09-19": 66118,
-  "2022-09-20": 66593,
-  "2022-09-21": 67053,
-  "2022-09-22": 67617,
-  "2022-09-23": 68128,
-  "2022-09-24": 68128,
-  "2022-09-25": 69061,
-  "2022-09-26": 69521,
-  "2022-09-27": 70000,
-  "2022-09-28": 70615,
-  "2022-09-29": 71235,
-  "2022-09-30": 71753,
-  "2022-10-01": 72264,
-  "2022-10-02": 72743,
-  "2022-10-03": 73230,
-  "2022-10-04": 73700,
-  "2022-10-05": 74182,
-  "2022-10-06": 74727,
-  "2022-10-07": 75244,
-  "2022-10-08": 75696,
-  "2022-10-09": 76263,
-  "2022-10-10": 76366,
-  "2022-10-11": 76711,
-  "2022-10-12": 77178,
-  "2022-10-13": 77613,
-  "2022-10-14": 78054,
-  "2022-10-15": 78519,
-  "2022-10-16": 78931,
-  "2022-10-17": 79306,
-  "2022-10-18": 79694,
-  "2022-10-19": 80056,
-  "2022-10-20": 80543,
-  "2022-10-21": 81190,
-  "2022-10-22": 81781,
-  "2022-10-23": 82252,
-  "2022-10-24": 82728,
-  "2022-10-25": 83237,
-  "2022-10-26": 83744,
-  "2022-10-27": 84241,
-  "2022-10-28": 84775,
-  "2022-10-29": 85245,
-  "2022-10-30": 85636,
-  "2022-10-31": 86024,
-  "2022-11-01": 86431,
-  "2022-11-02": 86858,
-  "2022-11-03": 87309,
-  "2022-11-04": 87681,
-  "2022-11-05": 88330,
-  "2022-11-06": 88809,
-  "2022-11-07": 89224,
-  "2022-11-08": 89610,
-  "2022-11-09": 90014,
-  "2022-11-10": 90419,
-  "2022-11-11": 90894,
-  "2022-11-12": 91663,
-  "2022-11-13": 92027,
-  "2022-11-14": 92436,
-  "2022-11-15": 92939,
-  "2022-11-16": 93490,
-  "2022-11-17": 93939,
-  "2022-11-18": 94126,
-  "2022-11-19": 94307,
-  "2022-11-20": 94797,
-  "2022-11-21": 95270,
-  "2022-11-22": 95734,
-  "2022-11-23": 96181,
-  "2022-11-24": 96993,
-  "2022-11-25": 97589,
-  "2022-11-26": 98000,
-  "2022-11-27": 98381,
-  "2022-11-28": 98752,
-  "2022-11-29": 99359,
-  "2022-11-30": 99932,
-  "2022-12-01": 100713,
-  "2022-12-02": 101220,
-  "2022-12-03": 102155,
-  "2022-12-04": 102716,
-  "2022-12-05": 103156,
-  "2022-12-06": 103630,
-  "2022-12-07": 104121,
-  "2022-12-08": 104568,
-  "2022-12-09": 105072,
-  "2022-12-10": 105553,
-  "2022-12-11": 106034,
-  "2022-12-12": 106499,
-  "2022-12-13": 106940,
-  "2022-12-14": 107390,
-  "2022-12-15": 107840,
-  "2022-12-16": 108282,
-  "2022-12-17": 108803,
-  "2022-12-18": 109260,
-  "2022-12-19": 109647,
-  "2022-12-20": 110919,
-  "2022-12-21": 110919,
-  "2022-12-22": 111486,
-  "2022-12-24": 112516,
-  "2022-12-25": 113002,
-  "2022-12-26": 113431,
-  "2022-12-27": 113993,
-  "2022-12-28": 114638,
-  "2022-12-29": 115264,
-  "2022-12-30": 115878,
-  "2022-12-31": 116520,
-  "2023-01-01": 117012,
-  "2023-01-02": 117494,
-  "2023-01-03": 118295,
-  "2023-01-04": 118886,
-  "2023-01-05": 119511,
-  "2023-01-06": 120192,
-  "2023-01-07": 120957,
-  "2023-01-08": 121085,
-  "2023-01-09": 121659,
-  "2023-01-10": 122245,
-  "2023-01-11": 122761,
-  "2023-01-12": 123254,
-  "2023-01-13": 123754,
-  "2023-01-14": 124610,
-  "2023-01-15": 124681,
-  "2023-01-16": 125185,
-  "2023-01-17": 125648,
-  "2023-01-18": 126115,
-  "2023-01-19": 126620,
-  "2023-01-20": 127228,
-  "2023-01-21": 128006,
-  "2023-01-22": 128633,
-  "2023-01-23": 129257,
-  "2023-01-24": 129803,
-  "2023-01-25": 130379,
-  "2023-01-26": 130877,
-  "2023-01-27": 131389,
-  "2023-01-28": 132012,
-  "2023-01-29": 132530,
-  "2023-01-30": 133075,
-  "2023-01-31": 133075,
-  "2023-02-01": 134101,
-  "2023-02-02": 134604,
-  "2023-02-03": 135141,
-  "2023-02-04": 135654,
-  "2023-02-05": 136175,
-  "2023-02-06": 136652,
-  "2023-02-07": 137147,
-  "2023-02-08": 138092,
-  "2023-02-09": 138092,
-  "2023-02-10": 138576,
-  "2023-02-11": 139102,
-  "2023-02-12": 139918,
-  "2023-02-13": 140319,
-  "2023-02-14": 140319,
-  "2023-02-15": 140760,
-  "2023-02-16": 141326,
-  "2023-02-17": 141856,
-  "2023-02-18": 142925,
-  "2023-02-19": 143008,
-  "2023-02-20": 143382,
-  "2023-02-21": 143875,
-  "2023-02-22": 144308,
-  "2023-02-23": 144713,
-  "2023-02-24": 145197,
-  "2023-02-25": 145816,
-  "2023-02-26": 146124,
-  "2023-02-27": 147012,
-  "2023-02-28": 147012,
-  "2023-03-01": 147384,
-  "2023-03-02": 147900,
-  "2023-03-03": 148448,
-  "2023-03-04": 148898,
-  "2023-03-05": 149770,
-  "2023-03-06": 149770,
-  "2023-03-07": 150183,
-  "2023-03-08": 150533,
-  "2023-03-09": 150915,
-  "2023-03-10": 151332,
-  "2023-03-11": 151700,
-  "2023-03-12": 152139,
-  "2023-03-13": 152526,
-  "2023-03-14": 152884,
-  "2023-03-15": 153210,
-  "2023-03-16": 153210,
-  "2023-03-17": 153210,
-  "2023-03-18": 154332,
-  "2023-03-19": 154332,
-  "2023-03-20": 155014,
-  "2023-03-21": 155337,
-  "2023-03-22": 155702,
-  "2023-03-23": 156131,
-  "2023-03-24": 156131,
-  "2023-03-25": 156988,
-  "2023-03-26": 157449,
-  "2023-03-27": 157871,
-  "2023-03-28": 158314,
-  "2023-03-29": 158770,
-  "2023-03-30": 159491,
-  "2023-03-31": 159491,
-  "2023-04-01": 159885,
-  "2023-04-02": 160261,
-  "2023-04-03": 160671,
-  "2023-04-04": 161072,
-  "2023-04-05": 161436,
-  "2023-04-06": 161770,
-  "2023-04-07": 162177,
-  "2023-04-09": 162932,
-  "2023-04-10": 163237,
-  "2023-04-11": 163919,
-  "2023-04-12": 163919,
-  "2023-04-13": 164277,
-  "2023-04-14": 164661,
-  "2023-04-15": 165046,
-  "2023-04-16": 165323,
-  "2023-04-17": 165683,
-  "2023-04-18": 165999,
-  "2023-04-19": 166380,
-  "2023-04-20": 166852,
-  "2023-04-21": 167274,
-  "2023-04-22": 167750,
-  "2023-04-23": 168145,
-  "2023-04-24": 168527,
-  "2023-04-25": 168899,
-  "2023-04-26": 169336,
-  "2023-04-27": 169708,
-  "2023-04-28": 170083,
-  "2023-04-29": 170534,
-  "2023-04-30": 170927,
-  "2023-05-01": 171311,
-  "2023-05-02": 171719,
-  "2023-05-03": 172070,
-  "2023-05-04": 172444,
-  "2023-05-05": 172925,
-  "2023-05-06": 173476,
-  "2023-05-07": 173907,
-  "2023-05-08": 174285,
-  "2023-05-09": 174645,
-  "2023-05-10": 174995,
-  "2023-05-11": 175344,
-  "2023-05-12": 175743,
-  "2023-05-13": 176192,
-  "2023-05-14": 176597,
-  "2023-05-15": 176975,
-  "2023-05-16": 177335,
-  "2023-05-17": 177771,
-  "2023-05-18": 178223,
-  "2023-05-19": 178778,
-  "2023-05-20": 179813,
-  "2023-05-21": 179813,
-  "2023-05-22": 179813,
-  "2023-05-23": 180735,
-  "2023-05-24": 181500,
-  "2023-05-25": 181683,
-  "2023-05-26": 182186,
-  "2023-05-27": 182793,
-  "2023-05-28": 183281,
-  "2023-05-29": 183281,
-  "2023-05-30": 184299,
-  "2023-05-31": 184725,
-  "2023-06-01": 185264,
-  "2023-06-02": 185934,
-  "2023-06-03": 186564,
-  "2023-06-04": 187155,
-  "2023-06-05": 187690,
-  "2023-06-06": 188231,
-  "2023-06-07": 188709,
-  "2023-06-08": 189227,
-  "2023-06-09": 189736,
-  "2023-06-10": 190289,
-  "2023-06-11": 190761,
-  "2023-06-12": 191293,
-  "2023-06-13": 191783,
-  "2023-06-14": 192199,
-  "2023-06-15": 192639,
-  "2023-06-16": 193086,
-  "2023-06-17": 193544,
-  "2023-06-18": 193995,
-  "2023-06-19": 194432,
-  "2023-06-20": 194853,
-  "2023-06-21": 195371,
-  "2023-06-22": 195856,
-  "2023-06-23": 196293,
-  "2023-06-24": 196831,
-  "2023-06-25": 197400,
-  "2023-06-26": 198042,
-  "2023-06-27": 198640,
-  "2023-06-28": 199223,
-  "2023-06-29": 199819,
-  "2023-06-30": 200459,
-  "2023-07-01": 201749,
-  "2023-07-02": 201749,
-  "2023-07-03": 202277,
-  "2023-07-04": 202791,
-  "2023-07-05": 203307,
-  "2023-07-06": 204342,
-  "2023-07-07": 204342,
-  "2023-07-08": 204342,
-  "2023-07-09": 205458,
-  "2023-07-10": 206098,
-  "2023-07-11": 206794,
-  "2023-07-12": 207308,
-  "2023-07-13": 207847,
-  "2023-07-14": 208394,
-  "2023-07-15": 208922,
-  "2023-07-16": 209606,
-  "2023-07-17": 210195,
-  "2023-07-18": 210776,
-  "2023-07-19": 211304,
-  "2023-07-20": 211824,
-  "2023-07-21": 212365,
-  "2023-07-22": 213045,
-  "2023-07-23": 213673,
-  "2023-07-24": 214295,
-  "2023-07-25": 214909,
-  "2023-07-26": 215425,
-  "2023-07-27": 216059,
-  "2023-07-28": 216689,
-  "2023-07-29": 217399,
-  "2023-07-30": 218045,
-  "2023-07-31": 218609,
-  "2023-08-01": 219163,
-  "2023-08-02": 219756,
-  "2023-08-03": 220518,
-  "2023-08-04": 221367,
-  "2023-08-05": 222168,
-  "2023-08-06": 223535,
-  "2023-08-07": 223535,
-  "2023-08-08": 224191,
-  "2023-08-09": 224841,
-  "2023-08-10": 225607,
-  "2023-08-11": 226447,
-  "2023-08-12": 226447,
-  "2023-08-13": 226447,
-  "2023-08-14": 228576,
-  "2023-08-15": 228576,
-  "2023-08-16": 228576,
-  "2023-08-17": 228576,
-  "2023-08-18": 228576,
-  "2023-08-19": 228576,
-  "2023-08-20": 232625,
-  "2023-08-21": 232625,
-  "2023-08-22": 233986,
-  "2023-08-23": 233986,
-  "2023-08-24": 233986,
-  "2023-08-25": 233986,
-  "2023-08-26": 237559,
-  "2023-08-27": 237559,
-  "2023-08-28": 239500,
-  "2023-08-29": 239500,
-  "2023-08-30": 239500,
-  "2023-08-31": 242576,
-  "2023-09-01": 243716,
-  "2023-09-02": 243716,
-  "2023-09-03": 243716,
-  "2023-09-04": 243716,
-  "2023-09-05": 243716,
-  "2023-09-06": 243716,
-  "2023-09-07": 243716,
-  "2023-09-08": 243716,
-  "2023-09-09": 243716,
-  "2023-09-10": 253222,
-  "2023-09-11": 253222,
-  "2023-09-12": 253222,
-  "2023-09-13": 253222,
-  "2023-09-14": 253222,
-  "2023-09-15": 253222,
-  "2023-09-16": 258700,
-  "2023-09-17": 258700,
-  "2023-09-18": 258700,
-  "2023-09-19": 260854,
-  "2023-09-20": 260854,
-  "2023-09-21": 260854,
-  "2023-09-22": 263253,
-  "2023-09-23": 263253,
-  "2023-09-24": 263253,
-  "2023-09-25": 263253,
-  "2023-09-26": 267129,
-  "2023-09-27": 267129,
-  "2023-09-28": 267129,
-  "2023-09-29": 267129,
-  "2023-09-30": 267129,
-  "2023-10-01": 267129,
-  "2023-10-02": 267129,
-  "2023-10-03": 267129,
-  "2023-10-04": 267129,
-  "2023-10-05": 267129,
-  "2023-10-06": 267129,
-  "2023-10-07": 267129,
-  "2023-10-08": 267129,
-  "2023-10-09": 267129,
-  "2023-10-10": 267129,
-  "2023-10-11": 280273,
-  "2023-10-12": 280273,
-  "2023-10-13": 280273,
-  "2023-10-14": 280273,
-  "2023-10-15": 280273,
-  "2023-10-16": 280273,
-  "2023-10-17": 280273,
-  "2023-10-18": 280273,
-  "2023-10-19": 280273,
-  "2023-10-20": 280273,
-  "2023-10-21": 280273,
-  "2023-10-22": 280273,
-  "2023-10-23": 280273,
-  "2023-10-24": 280273,
-  "2023-10-25": 280273,
-  "2023-10-26": 280273,
-  "2023-10-27": 280273,
-  "2023-10-28": 280273,
-  "2023-10-29": 280273,
-  "2023-10-30": 280273,
-  "2023-10-31": 280273,
-  "2023-11-01": 280273,
-  "2023-11-02": 280273,
-  "2023-11-03": 280273,
-  "2023-11-04": 280273,
-  "2023-11-05": 280273,
-  "2023-11-06": 280273,
-  "2023-11-07": 280273,
-  "2023-11-08": 280273,
-  "2023-11-09": 280273,
-  "2023-11-10": 280273,
-  "2023-11-11": 300970,
-  "2023-11-12": 300970,
-  "2023-11-13": 300970,
-  "2023-11-14": 300970,
-  "2023-11-15": 300970,
-  "2023-11-16": 300970,
-  "2023-11-17": 300970,
-  "2023-11-18": 300970,
-  "2023-11-19": 300970,
-  "2023-11-20": 300970,
-  "2023-11-21": 300970,
-  "2023-11-22": 300970,
-  "2023-11-23": 300970,
-  "2023-11-24": 300970,
-  "2023-11-25": 300970,
-  "2023-11-26": 300970,
-  "2023-11-27": 300970,
-  "2023-11-28": 300970,
-  "2023-11-29": 300970,
-  "2023-11-30": 300970,
-  "2023-12-01": 300970,
-  "2023-12-02": 300970,
-  "2023-12-03": 300970,
-  "2023-12-04": 300970,
-  "2023-12-05": 300970,
-  "2023-12-06": 300970,
-  "2023-12-07": 300970,
-  "2023-12-08": 300970,
-  "2023-12-09": 300970,
-  "2023-12-10": 300970,
-  "2023-12-11": 300970,
-  "2023-12-12": 300970,
-  "2023-12-13": 300970,
-  "2023-12-14": 320773,
-  "2023-12-15": 321342,
-  "2023-12-16": 322036,
-  "2023-12-17": 322667,
-  "2023-12-18": 323246,
-  "2023-12-19": 323809,
-  "2023-12-20": 324394,
-  "2023-12-21": 325015,
-  "2023-12-22": 325716,
-  "2023-12-23": 326463,
-  "2023-12-24": 327151,
-  "2023-12-25": 327664,
-  "2023-12-26": 328227,
-  "2023-12-27": 328905,
-  "2023-12-30": 331153,
-  "2023-12-31": 331879,
-  "2024-01-01": 332457,
-  "2024-01-02": 333050,
-  "2024-01-03": 333688
+  "2024-01-17": 342292,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
+  "name": "This Is Zach Bryan",
+  "tracks": [
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/1ldUPmqrCvk6thNYe0oUen"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206416,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8"
+    },
+    {
+      "album": {
+        "name": "Burn, Burn, Burn",
+        "url": "https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268856,
+      "name": "Burn, Burn, Burn",
+      "url": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 196179,
+      "name": "Codeine Pills - Part One",
+      "url": "https://open.spotify.com/track/3OBXZXFYDouFlKdlFO6NLC"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 292027,
+      "name": "Cold Damn Vampires",
+      "url": "https://open.spotify.com/track/7y2mezWO3hkfyugI2s9WQp"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 285885,
+      "name": "Come as You Are",
+      "url": "https://open.spotify.com/track/3j611OSMDlz3IYsJNGj0BY"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174673,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Crooked Teeth",
+      "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
+    },
+    {
+      "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211194,
+      "name": "Deep Satin",
+      "url": "https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203359,
+      "name": "Don't Give up on Me",
+      "url": "https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "East Side of Sorrow",
+      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Fear and Friday's",
+      "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
+    },
+    {
+      "album": {
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178151,
+      "name": "Fifth of May",
+      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169961,
+      "name": "Flying or Crying",
+      "url": "https://open.spotify.com/track/7oPTiW1fZyvIPeYOZTY4Wh"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "From a Lover's Point of View",
+      "url": "https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u"
+    },
+    {
+      "album": {
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253359,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 249159,
+      "name": "Happy Instead",
+      "url": "https://open.spotify.com/track/6QA2m3HgJaMF62jPguGMry"
+    },
+    {
+      "album": {
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190780,
+      "name": "Heavy Eyes",
+      "url": "https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX"
+    },
+    {
+      "album": {
+        "name": "Studio A Recordings (Live)",
+        "url": "https://open.spotify.com/album/6K77XaXUfKyBHyow6u7XPl"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 171574,
+      "name": "Hell or Highwater - Live",
+      "url": "https://open.spotify.com/track/3y8HeC82z6JzIcnLEj0GcO"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "album": {
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 178019,
+      "name": "Late July",
+      "url": "https://open.spotify.com/track/3i7mKjZKmslCFMxS1WM7DO"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/4cA2NmoE75r4yU7oeq4QGG"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209089,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239761,
+      "name": "Letting Someone Go",
+      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "Loom",
+      "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "Mine Again",
+      "url": "https://open.spotify.com/track/6b8LUVmacXlMUl4wRtCD2S"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161799,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169940,
+      "name": "Nine Ball",
+      "url": "https://open.spotify.com/track/3xOi0YhDREKRURFHoNaAOQ"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+    },
+    {
+      "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 271089,
+      "name": "Oklahoma City - Live",
+      "url": "https://open.spotify.com/track/6qtsmjLGlyoTlUMjV7Xx1C"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211739,
+      "name": "Oklahoma Smokeshow",
+      "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
+    },
+    {
+      "album": {
+        "name": "Open the Gate",
+        "url": "https://open.spotify.com/album/1BlxSkd0XuXeU15NKhFfDc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 234771,
+      "name": "Open the Gate",
+      "url": "https://open.spotify.com/track/3Ngp6vv1OGyAaQLcNbqRMz"
+    },
+    {
+      "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 252888,
+      "name": "Open the Gate - Live",
+      "url": "https://open.spotify.com/track/5F0r6VnKudXCiUPBZWOLqv"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 190946,
+      "name": "Overtime",
+      "url": "https://open.spotify.com/track/5pIVEk6Di7n1v5khOzJaJL"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195739,
+      "name": "Pain, Sweet, Pain",
+      "url": "https://open.spotify.com/track/4KaCwku7yZUrDRcOc9rMmQ"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 174255,
+      "name": "Quiet, Heavy Dreams",
+      "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js"
+    },
+    {
+      "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1vhbThkFnqAHbZp0fEjXE4"
+    },
+    {
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
+    },
+    {
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+    },
+    {
+      "album": {
+        "name": "Starved",
+        "url": "https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 282815,
+      "name": "Starved",
+      "url": "https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181239,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 186186,
+      "name": "Summertime's Close",
+      "url": "https://open.spotify.com/track/7eOuUmpnHBlg5zsm8Cs7c3"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163031,
+      "name": "Sun to Me",
+      "url": "https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT"
+    },
+    {
+      "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 184851,
+      "name": "Sweet DeAnn - Live",
+      "url": "https://open.spotify.com/track/0GC43uyv1rSUW0y9ODjq4u"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+    },
+    {
+      "album": {
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238624,
+      "name": "The Greatest Day of My Life",
+      "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 242200,
+      "name": "Ticking",
+      "url": "https://open.spotify.com/track/1HwDRgozGBMyfJTQUfz09A"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188882,
+      "name": "Tishomingo",
+      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199316,
+      "name": "Twenty So",
+      "url": "https://open.spotify.com/track/6W2PvnTNWUgxCJxRh84ALu"
+    },
+    {
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166341,
+      "name": "Us Then",
+      "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2llutr"
 }

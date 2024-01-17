@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 
 > Classic songs from Bollywood's badshah, Shah Rukh Khan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,366 likes - 57 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,750 likes - 57 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,13 +4,14 @@
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-42 songs - 3 hr 38 min
+43 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aana Meri Gully](https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Euphoria Gully](https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy) | 4:42 | 2023-05-11 |  |
+| [Aaro Ekbar](https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU) | [Rupam Islam](https://open.spotify.com/artist/1pRruDTNcEFpBPvpFZU76o), [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils, Vol\. 1](https://open.spotify.com/album/4LK7A9a8z4UFHAL5MNpPdb) | 6:44 | 2023-12-18 |  |
 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 | 2023-05-11 |  |
-| [Aro Ekbar](https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX) | [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils](https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj) | 6:44 | 2023-05-11 |  |
+| [Aro Ekbar](https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX) | [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils](https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj) | 6:44 | 2023-05-11 | 2024-01-10 |
 | [Bandeh](https://open.spotify.com/track/1i8pdZ3FmoL70ghtsmmoIj) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday](https://open.spotify.com/album/59nxyxeutJIEUdExqFivk5) | 7:48 | 2023-05-11 |  |
 | [Bandhu Re](https://open.spotify.com/track/3VQF1tKmEogJqV2XRKm7Qg) | [Cactus](https://open.spotify.com/artist/2PWPl2KNcCDDdhqT7vb2sR) | [Rajar Raja](https://open.spotify.com/album/6UeMitzv4cd2pBCVBTHgDZ) | 5:12 | 2023-05-11 |  |
 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 | 2023-05-11 |  |

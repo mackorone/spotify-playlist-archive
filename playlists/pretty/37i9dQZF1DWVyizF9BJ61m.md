@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,071 likes - 46 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,636 likes - 46 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

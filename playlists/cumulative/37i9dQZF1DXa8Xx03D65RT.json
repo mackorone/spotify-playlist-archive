@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
+    },
+    {
+      "album": {
         "name": "Dagr\u00f8m",
         "url": "https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP"
       },
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 203000,
       "name": "Den f\u00f6rsta sn\u00f6n",
       "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 151666,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2"
@@ -4633,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Heron",
+        "url": "https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN"
+      },
+      "artists": [
+        {
+          "name": "Geir Gudmundson",
+          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Heron",
+      "url": "https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe"
+    },
+    {
+      "album": {
         "name": "Hidden place",
         "url": "https://open.spotify.com/album/782ma7pykAubjHJsjDvEEx"
       },
@@ -5116,6 +5152,24 @@
       "duration_ms": 124250,
       "name": "If Only",
       "url": "https://open.spotify.com/track/3NBuhsRRawz3pK7Y8MImwX"
+    },
+    {
+      "album": {
+        "name": "Ignis",
+        "url": "https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Ignis",
+      "url": "https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK"
     },
     {
       "album": {
@@ -6484,7 +6538,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
@@ -8379,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "One Bruised Heart",
+        "url": "https://open.spotify.com/album/0BsjFU6YW2MZgz4Pf5lMp9"
+      },
+      "artists": [
+        {
+          "name": "Poets Heart",
+          "url": "https://open.spotify.com/artist/3KmMTvlK6DdRGizAt8qrnG"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "One Bruised Heart",
+      "url": "https://open.spotify.com/track/5AVo8YiHWM8lTDitmzQ78u"
+    },
+    {
+      "album": {
         "name": "One Last Question",
         "url": "https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF"
       },
@@ -8552,7 +8624,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 143802,
       "name": "Ora Domani",
       "url": "https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm"
@@ -9902,7 +9974,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 154729,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM"
@@ -10428,6 +10500,24 @@
       "duration_ms": 126857,
       "name": "Sioux",
       "url": "https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor"
+    },
+    {
+      "album": {
+        "name": "Skies Seducing The Clouds",
+        "url": "https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134357,
+      "name": "Skies Seducing The Clouds",
+      "url": "https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY"
     },
     {
       "album": {

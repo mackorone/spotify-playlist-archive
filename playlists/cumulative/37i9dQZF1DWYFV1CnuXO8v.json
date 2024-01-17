@@ -2643,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "Mawahashtkesh !!?",
+        "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327456,
+      "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
+      "url": "https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd"
+    },
+    {
+      "album": {
         "name": "Mehtag Sana",
         "url": "https://open.spotify.com/album/6Ew0kQ1BcfPGrG4Rn5pIg4"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 209706,
       "name": "Ya Waheshny",
       "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"

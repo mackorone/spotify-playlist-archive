@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-139 songs - 8 hr 30 min
+142 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,9 +57,12 @@
 | [Horns](https://open.spotify.com/track/0NPF9SWerJXZrOBP4TmHkm) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [Xtc \(The Lost Scrolls\)](https://open.spotify.com/album/3Bf4rWvrvM5MT1pwNBPxUr) | 2:09 | 2022-11-11 |  |
 | [Horns](https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [XTC \(The Lost Scrolls\)](https://open.spotify.com/album/0PBqzcm8XBZ873Ib5OWGdM) | 2:09 | 2022-09-05 | 2023-11-05 |
 | [I Felt Love](https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 3:12 | 2022-09-05 | 2023-12-05 |
+| [I Want U](https://open.spotify.com/track/3OIOeas9lS9BiwXH9a0Y2d) | [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/5wwOcldYqIuRcJPF261eLk) | 2:04 | 2023-12-04 | 2024-01-16 |
+| [I Want U](https://open.spotify.com/track/7cpk3Njzy9ISKZtIDqn6SC) | [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/0BVstXzBk9vZi1VnRCVqfK) | 2:04 | 2023-12-04 | 2024-01-13 |
 | [I Want U](https://open.spotify.com/track/0umwUcMEr5ZWTa9cL7fWwb) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/63AGRJfdaeEO4mYIFf0lsp) | 2:04 | 2023-12-04 | 2023-12-24 |
 | [I Want U](https://open.spotify.com/track/1iGYnuAoOIKaO0vHSzRDER) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/7uT93ZE08HdMrmzWL9Reja) | 2:04 | 2023-12-04 | 2023-12-22 |
-| [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 | 2023-12-04 |  |
+| [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 | 2023-12-04 | 2024-01-14 |
+| [I Want U](https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn) | 2:04 | 2023-12-04 |  |
 | [I Want U](https://open.spotify.com/track/2MJmqsyBcWSFrEkkkQMvoq) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X), [Genshin](https://open.spotify.com/artist/54heUC6BlH6ykf1dTGLiNJ) | [I Want U](https://open.spotify.com/album/1t68mKo7cP1Lb9lmo4qhnk) | 2:04 | 2023-12-04 | 2023-12-30 |
 | [I Want You](https://open.spotify.com/track/1uHlk9gAbkjo5fIAa448BI) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/0JLKa77aRkFpKut3yAiu3e) | [Gaze At Me](https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6) | 3:46 | 2022-11-11 | 2022-11-14 |
 | [I Want You](https://open.spotify.com/track/4ZDTSzgw2enJ0LhQdG9lzk) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO) | [I Want You](https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q) | 3:46 | 2022-09-05 | 2023-12-05 |

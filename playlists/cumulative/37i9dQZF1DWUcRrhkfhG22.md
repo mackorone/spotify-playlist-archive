@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-98 songs - 7 hr 20 min
+99 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Ray Phunk Show](https://open.spotify.com/track/2jO8nQnIz4GfdNpv64cCgX) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4) | [Ray Phunk Show](https://open.spotify.com/album/43ptuA861r3UXQU1YeiFZ8) | 3:32 | 2022-02-11 |  |
 | [Robot Man \- Vinyl Edit Version](https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU) | [Marcelinho Backspin](https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Robot Man \(Vinyl Edit Version\)](https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw) | 3:43 | 2023-01-06 |  |
 | [Scorpio](https://open.spotify.com/track/3oWXABQqIZ8ETgM7hxxxO5) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 4:55 | 2020-09-18 |  |
-| [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 | 2020-09-18 |  |
+| [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 | 2020-09-18 | 2024-01-06 |
 | [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 | 2022-11-21 |
 | [She's drivin me crazy](https://open.spotify.com/track/6ehsvuQU6rrGTKBulK4TDP) | [DJ AK](https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt) | [Sound of Tha Tube](https://open.spotify.com/album/43xWKRfPQtIzXdguOWiXjW) | 3:01 | 2020-09-18 |  |
 | [Show You A Thing Or Two](https://open.spotify.com/track/6KwTEWRdj3zH56wZar0B9o) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:10 | 2020-12-08 |  |
@@ -91,6 +91,7 @@
 | [Talkbox Fever \(feat\. the Talkbox Allstars\)](https://open.spotify.com/track/45hT7TQvXxSXRoByXERCEf) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu), [The Talkbox Allstars](https://open.spotify.com/artist/1X6Jt2x6QcFZQUfLGgL932) | [Released and Unreleased, Vol\. 1](https://open.spotify.com/album/0iSIU1wDFfiJzV4sJ5L2gw) | 6:21 | 2020-09-18 |  |
 | [Tell Everybody](https://open.spotify.com/track/07Y2w7XP9eNhzwZuXUI72R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Feets Don't Fail Me Now](https://open.spotify.com/album/3EzImBJBzD8gBwT6YNBbht) | 7:12 | 2020-09-18 |  |
 | [Temu's Talkbox Groove](https://open.spotify.com/track/2JTXaMVZ2da6nP1cgqndU3) | [Temu](https://open.spotify.com/artist/6qqTmbtiK0b7OBYZtvFwlW) | [Relic of the Mothership](https://open.spotify.com/album/741ZrZnUXNxP2xPFJhvCs3) | 4:49 | 2020-09-18 |  |
+| [The Way She Makes It Bounce](https://open.spotify.com/track/47Ug2AT0NzK6fmxz2hQqQM) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [The Way She Makes It Bounce](https://open.spotify.com/album/45XnHcra3Zkny9V4RoMKVQ) | 3:15 | 2024-01-05 |  |
 | [Throw Down](https://open.spotify.com/track/7BrvrJ78kPJ9Ug9OgEyisJ) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy) | [Injection](https://open.spotify.com/album/3iFYspDpTbR31Fcr8x43WJ) | 3:47 | 2020-09-18 |  |
 | [Time Runners](https://open.spotify.com/track/7cHpy9RziRJcB7sJzkVl3G) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Spectrum](https://open.spotify.com/album/37kg8ppSvrlXOR88u2fvNB) | 4:21 | 2020-09-18 |  |
 | [Too Late](https://open.spotify.com/track/463ciDPJsnDzuzEqnsU63c) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Voyage 1](https://open.spotify.com/album/5bRcZmrU98mH2ii0vbSPqV) | 3:09 | 2022-07-08 |  |

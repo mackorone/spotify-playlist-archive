@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75gMjYMWCsk.md) - [plain]
 
 > Explore the unforgettable melodies of the greatest LGBTQIA+ composers\. Cover: Nico Muhly
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,288 likes - 53 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,475 likes - 53 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75gMjYMWCsk.md) - [plain]
 | 52 | [blue cathedral](https://open.spotify.com/track/6fseD4FH3NiAFn7IiW9oHq) | [Jennifer Higdon](https://open.spotify.com/artist/74DKkK5qRjAcHfifGufH4b), [Oberlin Conservatory Symphony Orchestra](https://open.spotify.com/artist/4HvOjSY1H5ug51tsxrXcRW), [Robert Spano](https://open.spotify.com/artist/22bLnWR6SUbuDyW0TDR6AR) | [The Oberlin Conservatory Symphony Orchestra at Carnegie Hall](https://open.spotify.com/album/4WfzvKxYE7D1tg3JTPn615) | 10:27 |
 | 53 | [Candide: Overture](https://open.spotify.com/track/47r7pm0fWKmneTjjbVKlCW) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Bernstein Conducts Bernstein](https://open.spotify.com/album/0vFkJP7yWMK0ADx9bjoYYz) | 4:10 |
 
-Snapshot ID: `MCw4ZWJlZmIxZjI1NjY0MDI3ZDRkYWFlZDRjOWExZWVjNDg4YThhMjZk`
+Snapshot ID: `MCwxNGE0MWE2ZjMzOWYzNzVjMDgyMzBmNmUzMWIzNGQ5MjIyNTk5ZmUx`

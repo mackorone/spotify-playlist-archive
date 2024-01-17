@@ -1,580 +1,1635 @@
 {
-  "2022-05-30": 160272,
-  "2022-05-31": 160337,
-  "2022-06-01": 160453,
-  "2022-06-02": 160450,
-  "2022-06-03": 160514,
-  "2022-06-04": 160582,
-  "2022-06-05": 160664,
-  "2022-06-06": 160716,
-  "2022-06-07": 160767,
-  "2022-06-08": 160836,
-  "2022-06-09": 160892,
-  "2022-06-10": 160951,
-  "2022-06-11": 161030,
-  "2022-06-12": 161100,
-  "2022-06-13": 161162,
-  "2022-06-14": 161227,
-  "2022-06-15": 161280,
-  "2022-06-16": 161365,
-  "2022-06-17": 161435,
-  "2022-06-18": 161435,
-  "2022-06-19": 161671,
-  "2022-06-20": 161671,
-  "2022-06-21": 161758,
-  "2022-06-22": 161916,
-  "2022-06-23": 161916,
-  "2022-06-24": 162004,
-  "2022-06-25": 162080,
-  "2022-06-26": 162136,
-  "2022-06-27": 162221,
-  "2022-06-28": 162221,
-  "2022-06-29": 162340,
-  "2022-06-30": 162420,
-  "2022-07-01": 162460,
-  "2022-07-02": 162530,
-  "2022-07-03": 162615,
-  "2022-07-04": 162673,
-  "2022-07-05": 162735,
-  "2022-07-06": 162802,
-  "2022-07-07": 162874,
-  "2022-07-08": 162959,
-  "2022-07-09": 163025,
-  "2022-07-10": 163090,
-  "2022-07-11": 163156,
-  "2022-07-12": 163219,
-  "2022-07-13": 163311,
-  "2022-07-14": 163371,
-  "2022-07-15": 163439,
-  "2022-07-16": 163528,
-  "2022-07-17": 163600,
-  "2022-07-18": 163656,
-  "2022-07-19": 163736,
-  "2022-07-20": 163802,
-  "2022-07-21": 163876,
-  "2022-07-22": 163942,
-  "2022-07-23": 163995,
-  "2022-07-24": 164059,
-  "2022-07-25": 164123,
-  "2022-07-26": 164185,
-  "2022-07-27": 164234,
-  "2022-07-28": 164312,
-  "2022-07-29": 164362,
-  "2022-07-30": 164482,
-  "2022-07-31": 164482,
-  "2022-08-01": 164532,
-  "2022-08-02": 164638,
-  "2022-08-03": 164638,
-  "2022-08-04": 164727,
-  "2022-08-05": 164812,
-  "2022-08-06": 164880,
-  "2022-08-07": 164928,
-  "2022-08-08": 165009,
-  "2022-08-09": 165075,
-  "2022-08-10": 165155,
-  "2022-08-11": 165226,
-  "2022-08-12": 165318,
-  "2022-08-13": 165401,
-  "2022-08-14": 165474,
-  "2022-08-15": 165546,
-  "2022-08-16": 165644,
-  "2022-08-17": 165724,
-  "2022-08-18": 165789,
-  "2022-08-19": 165868,
-  "2022-08-20": 165942,
-  "2022-08-21": 166024,
-  "2022-08-22": 166110,
-  "2022-08-23": 166195,
-  "2022-08-24": 166277,
-  "2022-08-25": 166361,
-  "2022-08-26": 166442,
-  "2022-08-27": 166554,
-  "2022-08-28": 166660,
-  "2022-08-29": 166760,
-  "2022-08-30": 166799,
-  "2022-08-31": 166781,
-  "2022-09-01": 166734,
-  "2022-09-02": 166690,
-  "2022-09-03": 166586,
-  "2022-09-04": 166587,
-  "2022-09-05": 166645,
-  "2022-09-06": 166723,
-  "2022-09-07": 166796,
-  "2022-09-09": 166936,
-  "2022-09-10": 167022,
-  "2022-09-11": 167111,
-  "2022-09-12": 167173,
-  "2022-09-13": 167232,
-  "2022-09-15": 167351,
-  "2022-09-16": 167413,
-  "2022-09-17": 167463,
-  "2022-09-18": 167529,
-  "2022-09-19": 167610,
-  "2022-09-20": 167692,
-  "2022-09-21": 167769,
-  "2022-09-22": 167866,
-  "2022-09-23": 167929,
-  "2022-09-24": 168012,
-  "2022-09-25": 168103,
-  "2022-09-26": 168179,
-  "2022-09-27": 168262,
-  "2022-09-28": 168340,
-  "2022-09-29": 168417,
-  "2022-09-30": 168486,
-  "2022-10-01": 168556,
-  "2022-10-02": 168630,
-  "2022-10-03": 168717,
-  "2022-10-04": 168783,
-  "2022-10-05": 168857,
-  "2022-10-06": 168913,
-  "2022-10-07": 168977,
-  "2022-10-08": 169038,
-  "2022-10-09": 169161,
-  "2022-10-10": 169177,
-  "2022-10-11": 169252,
-  "2022-10-12": 169322,
-  "2022-10-13": 169394,
-  "2022-10-14": 169476,
-  "2022-10-15": 169537,
-  "2022-10-16": 169608,
-  "2022-10-17": 169659,
-  "2022-10-18": 169727,
-  "2022-10-19": 169768,
-  "2022-10-20": 169815,
-  "2022-10-21": 169886,
-  "2022-10-22": 169945,
-  "2022-10-23": 169996,
-  "2022-10-24": 170046,
-  "2022-10-25": 170107,
-  "2022-10-26": 170176,
-  "2022-10-27": 170234,
-  "2022-10-28": 170297,
-  "2022-10-29": 170362,
-  "2022-10-30": 170427,
-  "2022-10-31": 170482,
-  "2022-11-01": 170530,
-  "2022-11-02": 170607,
-  "2022-11-03": 170645,
-  "2022-11-04": 170700,
-  "2022-11-05": 170767,
-  "2022-11-06": 170821,
-  "2022-11-07": 170869,
-  "2022-11-08": 170918,
-  "2022-11-09": 170974,
-  "2022-11-10": 171046,
-  "2022-11-11": 171111,
-  "2022-11-12": 171176,
-  "2022-11-13": 171221,
-  "2022-11-14": 171287,
-  "2022-11-15": 171341,
-  "2022-11-16": 171393,
-  "2022-11-17": 171448,
-  "2022-11-18": 171473,
-  "2022-11-19": 171479,
-  "2022-11-20": 171540,
-  "2022-11-21": 171611,
-  "2022-11-22": 171700,
-  "2022-11-23": 171768,
-  "2022-11-24": 171896,
-  "2022-11-25": 172013,
-  "2022-11-26": 172098,
-  "2022-11-27": 172156,
-  "2022-11-28": 172230,
-  "2022-11-29": 172300,
-  "2022-11-30": 172356,
-  "2022-12-01": 172468,
-  "2022-12-02": 172506,
-  "2022-12-03": 172660,
-  "2022-12-04": 172757,
-  "2022-12-05": 172841,
-  "2022-12-06": 172901,
-  "2022-12-07": 172969,
-  "2022-12-08": 173036,
-  "2022-12-09": 173117,
-  "2022-12-10": 173188,
-  "2022-12-11": 173269,
-  "2022-12-12": 173331,
-  "2022-12-13": 173406,
-  "2022-12-14": 173478,
-  "2022-12-15": 173514,
-  "2022-12-16": 173601,
-  "2022-12-17": 173687,
-  "2022-12-18": 173766,
-  "2022-12-19": 173829,
-  "2022-12-20": 173974,
-  "2022-12-21": 173974,
-  "2022-12-22": 174031,
-  "2022-12-24": 174131,
-  "2022-12-25": 174194,
-  "2022-12-26": 174246,
-  "2022-12-27": 174316,
-  "2022-12-28": 174369,
-  "2022-12-29": 174431,
-  "2022-12-30": 174501,
-  "2022-12-31": 174555,
-  "2023-01-01": 174633,
-  "2023-01-02": 174676,
-  "2023-01-03": 174752,
-  "2023-01-04": 174820,
-  "2023-01-05": 174865,
-  "2023-01-06": 174968,
-  "2023-01-07": 175093,
-  "2023-01-08": 175100,
-  "2023-01-09": 175180,
-  "2023-01-10": 175253,
-  "2023-01-11": 175298,
-  "2023-01-12": 175357,
-  "2023-01-13": 175426,
-  "2023-01-14": 175562,
-  "2023-01-15": 175555,
-  "2023-01-16": 175649,
-  "2023-01-17": 175716,
-  "2023-01-18": 175795,
-  "2023-01-19": 175876,
-  "2023-01-20": 175928,
-  "2023-01-21": 175989,
-  "2023-01-22": 176059,
-  "2023-01-23": 176136,
-  "2023-01-24": 176193,
-  "2023-01-25": 176237,
-  "2023-01-26": 176290,
-  "2023-01-27": 176365,
-  "2023-01-28": 176430,
-  "2023-01-29": 176492,
-  "2023-01-30": 176562,
-  "2023-01-31": 176562,
-  "2023-02-01": 176686,
-  "2023-02-02": 176754,
-  "2023-02-03": 176836,
-  "2023-02-04": 176903,
-  "2023-02-05": 176960,
-  "2023-02-06": 177030,
-  "2023-02-07": 177085,
-  "2023-02-08": 177212,
-  "2023-02-09": 177212,
-  "2023-02-10": 177280,
-  "2023-02-11": 177349,
-  "2023-02-12": 177438,
-  "2023-02-13": 177489,
-  "2023-02-14": 177489,
-  "2023-02-15": 177527,
-  "2023-02-16": 177577,
-  "2023-02-17": 177650,
-  "2023-02-18": 177771,
-  "2023-02-19": 177781,
-  "2023-02-20": 177856,
-  "2023-02-21": 177896,
-  "2023-02-22": 177946,
-  "2023-02-23": 178006,
-  "2023-02-24": 178079,
-  "2023-02-25": 178176,
-  "2023-02-26": 178220,
-  "2023-02-27": 178354,
-  "2023-02-28": 178354,
-  "2023-03-01": 178434,
-  "2023-03-02": 178508,
-  "2023-03-03": 178565,
-  "2023-03-04": 178625,
-  "2023-03-05": 178744,
-  "2023-03-06": 178744,
-  "2023-03-07": 178792,
-  "2023-03-08": 178840,
-  "2023-03-09": 178919,
-  "2023-03-10": 178994,
-  "2023-03-11": 179048,
-  "2023-03-12": 179107,
-  "2023-03-13": 179162,
-  "2023-03-14": 179204,
-  "2023-03-15": 179251,
-  "2023-03-16": 179294,
-  "2023-03-17": 179294,
-  "2023-03-18": 179378,
-  "2023-03-19": 179412,
-  "2023-03-20": 179469,
-  "2023-03-21": 179500,
-  "2023-03-22": 179555,
-  "2023-03-23": 179591,
-  "2023-03-24": 179591,
-  "2023-03-25": 179672,
-  "2023-03-26": 179741,
-  "2023-03-27": 179787,
-  "2023-03-28": 179836,
-  "2023-03-29": 179888,
-  "2023-03-30": 179978,
-  "2023-03-31": 179978,
-  "2023-04-01": 180030,
-  "2023-04-02": 180079,
-  "2023-04-03": 180134,
-  "2023-04-04": 180183,
-  "2023-04-05": 180232,
-  "2023-04-06": 180281,
-  "2023-04-07": 180324,
-  "2023-04-09": 180409,
-  "2023-04-10": 180448,
-  "2023-04-11": 180519,
-  "2023-04-12": 180519,
-  "2023-04-13": 180556,
-  "2023-04-14": 180608,
-  "2023-04-15": 180676,
-  "2023-04-16": 180719,
-  "2023-04-17": 180774,
-  "2023-04-18": 180814,
-  "2023-04-19": 180865,
-  "2023-04-20": 180890,
-  "2023-04-21": 180950,
-  "2023-04-22": 180988,
-  "2023-04-23": 181025,
-  "2023-04-24": 181076,
-  "2023-04-25": 181125,
-  "2023-04-26": 181178,
-  "2023-04-27": 181214,
-  "2023-04-28": 181262,
-  "2023-04-29": 181319,
-  "2023-04-30": 181366,
-  "2023-05-01": 181412,
-  "2023-05-02": 181462,
-  "2023-05-03": 181493,
-  "2023-05-04": 181531,
-  "2023-05-05": 181575,
-  "2023-05-06": 181622,
-  "2023-05-07": 181674,
-  "2023-05-08": 181717,
-  "2023-05-09": 181776,
-  "2023-05-10": 181819,
-  "2023-05-11": 181869,
-  "2023-05-12": 181925,
-  "2023-05-13": 182008,
-  "2023-05-14": 182080,
-  "2023-05-15": 182181,
-  "2023-05-16": 182256,
-  "2023-05-17": 182300,
-  "2023-05-18": 182363,
-  "2023-05-19": 182428,
-  "2023-05-20": 182564,
-  "2023-05-21": 182564,
-  "2023-05-22": 182564,
-  "2023-05-23": 182690,
-  "2023-05-24": 182802,
-  "2023-05-25": 182812,
-  "2023-05-26": 182869,
-  "2023-05-27": 182920,
-  "2023-05-28": 182979,
-  "2023-05-29": 182979,
-  "2023-05-30": 183069,
-  "2023-05-31": 183117,
-  "2023-06-01": 183180,
-  "2023-06-02": 183225,
-  "2023-06-03": 183283,
-  "2023-06-04": 183415,
-  "2023-06-05": 183556,
-  "2023-06-06": 183645,
-  "2023-06-07": 183771,
-  "2023-06-08": 183864,
-  "2023-06-09": 183966,
-  "2023-06-10": 184061,
-  "2023-06-11": 184153,
-  "2023-06-12": 184220,
-  "2023-06-13": 184293,
-  "2023-06-14": 184353,
-  "2023-06-15": 184420,
-  "2023-06-16": 184496,
-  "2023-06-17": 184545,
-  "2023-06-18": 184610,
-  "2023-06-19": 184688,
-  "2023-06-20": 184714,
-  "2023-06-21": 184768,
-  "2023-06-22": 184819,
-  "2023-06-23": 184899,
-  "2023-06-24": 184959,
-  "2023-06-25": 185015,
-  "2023-06-26": 185100,
-  "2023-06-27": 185145,
-  "2023-06-28": 185208,
-  "2023-06-29": 185267,
-  "2023-06-30": 185329,
-  "2023-07-01": 185468,
-  "2023-07-02": 185468,
-  "2023-07-03": 185508,
-  "2023-07-04": 185553,
-  "2023-07-05": 185589,
-  "2023-07-06": 185691,
-  "2023-07-07": 185691,
-  "2023-07-08": 185725,
-  "2023-07-09": 185778,
-  "2023-07-10": 185842,
-  "2023-07-11": 185905,
-  "2023-07-12": 185952,
-  "2023-07-13": 186010,
-  "2023-07-14": 186060,
-  "2023-07-15": 186121,
-  "2023-07-16": 186174,
-  "2023-07-17": 186231,
-  "2023-07-18": 186281,
-  "2023-07-19": 186328,
-  "2023-07-20": 186383,
-  "2023-07-21": 186443,
-  "2023-07-22": 186501,
-  "2023-07-23": 186579,
-  "2023-07-24": 186667,
-  "2023-07-25": 186722,
-  "2023-07-26": 186784,
-  "2023-07-27": 186826,
-  "2023-07-28": 186900,
-  "2023-07-29": 186950,
-  "2023-07-30": 187007,
-  "2023-07-31": 187068,
-  "2023-08-01": 187147,
-  "2023-08-02": 187205,
-  "2023-08-03": 187273,
-  "2023-08-04": 187326,
-  "2023-08-05": 187371,
-  "2023-08-06": 187452,
-  "2023-08-07": 187452,
-  "2023-08-08": 187494,
-  "2023-08-09": 187537,
-  "2023-08-10": 187585,
-  "2023-08-11": 187638,
-  "2023-08-12": 187723,
-  "2023-08-13": 187808,
-  "2023-08-14": 187856,
-  "2023-08-15": 187977,
-  "2023-08-16": 187977,
-  "2023-08-17": 188008,
-  "2023-08-18": 188069,
-  "2023-08-19": 188129,
-  "2023-08-20": 188195,
-  "2023-08-21": 188259,
-  "2023-08-22": 188325,
-  "2023-08-23": 188383,
-  "2023-08-24": 188413,
-  "2023-08-25": 188463,
-  "2023-08-26": 188522,
-  "2023-08-27": 188555,
-  "2023-08-28": 188582,
-  "2023-08-29": 188613,
-  "2023-08-30": 188649,
-  "2023-08-31": 188690,
-  "2023-09-01": 188787,
-  "2023-09-02": 188787,
-  "2023-09-03": 188800,
-  "2023-09-04": 188840,
-  "2023-09-05": 188884,
-  "2023-09-06": 188919,
-  "2023-09-07": 188973,
-  "2023-09-08": 189019,
-  "2023-09-09": 189063,
-  "2023-09-10": 189112,
-  "2023-09-11": 189173,
-  "2023-09-12": 189239,
-  "2023-09-13": 189287,
-  "2023-09-14": 189287,
-  "2023-09-15": 189344,
-  "2023-09-16": 189374,
-  "2023-09-17": 189374,
-  "2023-09-18": 189469,
-  "2023-09-19": 189517,
-  "2023-09-20": 189554,
-  "2023-09-21": 189603,
-  "2023-09-22": 189643,
-  "2023-09-23": 189695,
-  "2023-09-24": 189695,
-  "2023-09-25": 189695,
-  "2023-09-26": 189833,
-  "2023-09-27": 189868,
-  "2023-09-28": 189901,
-  "2023-09-29": 189952,
-  "2023-09-30": 189952,
-  "2023-10-01": 190042,
-  "2023-10-02": 190083,
-  "2023-10-03": 190123,
-  "2023-10-04": 190172,
-  "2023-10-05": 190198,
-  "2023-10-06": 190227,
-  "2023-10-07": 190275,
-  "2023-10-08": 190308,
-  "2023-10-09": 190308,
-  "2023-10-10": 190261,
-  "2023-10-11": 190214,
-  "2023-10-12": 190214,
-  "2023-10-13": 190158,
-  "2023-10-14": 190158,
-  "2023-10-15": 190158,
-  "2023-10-16": 190158,
-  "2023-10-17": 190158,
-  "2023-10-18": 190158,
-  "2023-10-19": 190158,
-  "2023-10-20": 190158,
-  "2023-10-21": 190158,
-  "2023-10-22": 190158,
-  "2023-10-23": 190158,
-  "2023-10-24": 190451,
-  "2023-10-25": 190451,
-  "2023-10-26": 190451,
-  "2023-10-27": 190451,
-  "2023-10-28": 190451,
-  "2023-10-29": 190451,
-  "2023-10-30": 190451,
-  "2023-10-31": 190451,
-  "2023-11-01": 190451,
-  "2023-11-02": 190451,
-  "2023-11-03": 190451,
-  "2023-11-04": 190451,
-  "2023-11-05": 190451,
-  "2023-11-06": 190451,
-  "2023-11-07": 190451,
-  "2023-11-08": 190451,
-  "2023-11-09": 190451,
-  "2023-11-10": 190451,
-  "2023-11-11": 191057,
-  "2023-11-12": 191057,
-  "2023-11-13": 191057,
-  "2023-11-14": 191057,
-  "2023-11-15": 191057,
-  "2023-11-16": 191057,
-  "2023-11-17": 191300,
-  "2023-11-18": 191300,
-  "2023-11-19": 191300,
-  "2023-11-20": 191300,
-  "2023-11-21": 191300,
-  "2023-11-22": 191300,
-  "2023-11-23": 191453,
-  "2023-11-24": 191453,
-  "2023-11-25": 191453,
-  "2023-11-26": 191453,
-  "2023-11-27": 191453,
-  "2023-11-28": 191453,
-  "2023-11-29": 191453,
-  "2023-11-30": 191453,
-  "2023-12-01": 191453,
-  "2023-12-02": 191453,
-  "2023-12-03": 191453,
-  "2023-12-04": 191453,
-  "2023-12-05": 191453,
-  "2023-12-06": 191453,
-  "2023-12-07": 191453,
-  "2023-12-08": 191453,
-  "2023-12-09": 192627,
-  "2023-12-10": 192627,
-  "2023-12-11": 192790,
-  "2023-12-12": 192790,
-  "2023-12-13": 192790,
-  "2023-12-14": 193035,
-  "2023-12-15": 193063,
-  "2023-12-16": 193120,
-  "2023-12-17": 193172,
-  "2023-12-18": 193241,
-  "2023-12-19": 193289,
-  "2023-12-20": 193332,
-  "2023-12-21": 193413,
-  "2023-12-22": 193478,
-  "2023-12-23": 193527,
-  "2023-12-24": 193584,
-  "2023-12-25": 193649,
-  "2023-12-26": 193705,
-  "2023-12-27": 193748,
-  "2023-12-30": 193913,
-  "2023-12-31": 193952,
-  "2024-01-01": 193988,
-  "2024-01-02": 194024,
-  "2024-01-03": 194071
+  "2024-01-17": 193971,
+  "date_first_scraped": "2022-05-30",
+  "description": "Hear all of TAEYEON's biggest and best hits in one playlist.",
+  "name": "This Is TAEYEON",
+  "tracks": [
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "album": {
+        "name": "A train to chuncheon (Monthly Project 2019 May Yoon Jong Shin with TAEYEON)",
+        "url": "https://open.spotify.com/album/179bacy9k0Sm51guZWvRe5"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294700,
+      "name": "A train to chuncheon (Monthly Project 2019 May Yoon Jong Shin with TAEYEON)",
+      "url": "https://open.spotify.com/track/5GWpomGXGJC4JIVaDN1467"
+    },
+    {
+      "album": {
+        "name": "Hotel Del Luna OST Part.3",
+        "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209482,
+      "name": "All about you",
+      "url": "https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190693,
+      "name": "All For Nothing",
+      "url": "https://open.spotify.com/track/6kniGjw06j9O7GFgEFwu8v"
+    },
+    {
+      "album": {
+        "name": "Something New - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "LUCAS",
+          "url": "https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/2FG7k4aaCUjXX6NpCkCpgC"
+    },
+    {
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/78leBSYzLwn705oFe2psHe"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233939,
+      "name": "All With You",
+      "url": "https://open.spotify.com/track/4zuNsWGzUfl9lL43JjWckB"
+    },
+    {
+      "album": {
+        "name": "Something New - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Baram X 3",
+      "url": "https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251191,
+      "name": "Better Babe",
+      "url": "https://open.spotify.com/track/5YZq7czabAgCWLNdEnJhI0"
+    },
+    {
+      "album": {
+        "name": "Four Seasons",
+        "url": "https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212842,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/1y8tPIOh9kR3eQE6TeBCwe"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/2TZTpkpnDIKUOfU6riqCfE"
+    },
+    {
+      "album": {
+        "name": "Can't Control Myself",
+        "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
+        "name": "Something New - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/1HVjqP22I8rGY1gyEqrEuy"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218757,
+      "name": "City Love",
+      "url": "https://open.spotify.com/track/3uklUJ6YyDzPC1LHeAFVm5"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Cold As Hell",
+      "url": "https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205982,
+      "name": "Cover Up",
+      "url": "https://open.spotify.com/track/5nyObfVLX7N6foqBlx063l"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232579,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/4d7m7aCYxVdiUWsttYcMFV"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222653,
+      "name": "Dear Me",
+      "url": "https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248322,
+      "name": "Do You Love Me?",
+      "url": "https://open.spotify.com/track/70ZpEHwTrCSZgIzuuX24CL"
+    },
+    {
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/6u8tXdoDibVxopDgwNY4MG"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/1TM0n3pwhDOPZhmhDRpOLS"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225026,
+      "name": "Ending Credits",
+      "url": "https://open.spotify.com/track/0OYN3vyfmDDxDknh12zUp8"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174649,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/4rU4ZX1ss3TAWwksKs9dHI"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/4vPyZrbv6WnOx4P91rbatz"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5l9jdxJuFN9UtT72N6SUTe"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192864,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/4AEvnRVdOq4GHx5vFvDDTh"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219015,
+      "name": "Feel So Fine",
+      "url": "https://open.spotify.com/track/5GOXozqZHMtpUXNciSOWS1"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247620,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/25zDQjvFoACl4CzmjwmKu3"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209157,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4eDYMnqwlK0j7yc1jMRUVS"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187326,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2KiIPv0kEZGdAsUoFuJ8GT"
+    },
+    {
+      "album": {
+        "name": "Four Seasons",
+        "url": "https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188237,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220751,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/6O8qig8SBplGp0cky2f8Kd"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177588,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/30CAqzLOdc8LbPRzchYaAt"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228460,
+      "name": "Hands on Me",
+      "url": "https://open.spotify.com/track/4meLiOL9ns3ZvlldHcSB9p"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5wr4JYeZZz4POQao14IDFu"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204264,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/3xeo2seNDIp712sUmZycAN"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231958,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/1r246NLH1h9IJNrlyKG1Db"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "I",
+      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203417,
+      "name": "I Blame On You",
+      "url": "https://open.spotify.com/track/4jxWO5zC2SiW9aw7nMJHia"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/1YVR7UhMNe2ZdgRWzbH8Ix"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/61PtA6pqNIxE8ABUTSjpTJ"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231558,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/22D4S0uS0An4RjEfl9eNFs"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190007,
+      "name": "I Got Love",
+      "url": "https://open.spotify.com/track/3ym1uqIEdPorxt9jM7txYb"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214594,
+      "name": "I'm OK",
+      "url": "https://open.spotify.com/track/6vmjoQhYxyHzyNsWLRp7dq"
+    },
+    {
+      "album": {
+        "name": "Hong Gil Dong OST",
+        "url": "https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "If",
+      "url": "https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Korean Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JWtvxwYAwzuSDPzvbvXHP"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Into the Unknown (End Credit Version)",
+      "url": "https://open.spotify.com/track/4OkHootAlj7w9Eb2zJVlWr"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196741,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/31mc9vkMVGvCHrlZukqhQb"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223194,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/5Uj6v222teNJ5KbD2yuw5u"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177829,
+      "name": "Love in Color",
+      "url": "https://open.spotify.com/track/2tjjk39zsXQkc2DaeeZiS1"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179527,
+      "name": "Love You Like Crazy",
+      "url": "https://open.spotify.com/track/4TsP3ww5zEXxuUdmkWIcqp"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/0AUxbbqFtXJGE7Fn3jkGX5"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Melt Away",
+      "url": "https://open.spotify.com/track/2cZtazNq0IRRFymK7UaRa0"
+    },
+    {
+      "album": {
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193536,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/26X50tiIvOem3M7pvJ2bm5"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3dmZOzXDFXEZXdjPqJJPKt"
+    },
+    {
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "No Love Again",
+      "url": "https://open.spotify.com/track/2b0RhgCNG1jIU8gc5HoGRM"
+    },
+    {
+      "album": {
+        "name": "Something New - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/6hjvQTrIkCc8gAX4BfSJjn"
+    },
+    {
+      "album": {
+        "name": "Baramibunda OST Part 5",
+        "url": "https://open.spotify.com/album/6bp7CU0TgsOOhXIyAuejtG"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255240,
+      "name": "Only one",
+      "url": "https://open.spotify.com/track/0V7f8xzZdIrtlNnhEOMAYH"
+    },
+    {
+      "album": {
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30e9\u30a4\u30d5 -\u660e\u65e5\u3001\u541b\u304c\u6d88\u3048\u3066\u3082- (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/6rhSqYOzLZzDqKLNqnJH0u"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/0xO4wM6ZRx5OMOSv2RHoMk"
+    },
+    {
+      "album": {
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3Outs0mBJ9APOreUan9xpU"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Set Myself On Fire",
+      "url": "https://open.spotify.com/track/002wiS64p2qXaYYVAP7KOW"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249986,
+      "name": "SIGNAL",
+      "url": "https://open.spotify.com/track/1JXD1cLYGESNdNiumjE35F"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/4XGdr0bJNCLjwQ4k3HWAGP"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207613,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp"
+    },
+    {
+      "album": {
+        "name": "Something New - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6oDX7N6VnXSyLdyGsDP5jV"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217926,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223606,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5MYL9WejirHj0kc8crJPJ0"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200994,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0a0FISfY8ty1xC69xCWf2T"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184471,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/1vCo4BownrOY4nRZbpmrJO"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254669,
+      "name": "Time Lapse",
+      "url": "https://open.spotify.com/track/5xHSzEHkbQSc5n4ATBv1du"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/07jwaA0nfuC2DmZd5n1l7t"
+    },
+    {
+      "album": {
+        "name": "To. X - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "To. X",
+      "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Toddler",
+      "url": "https://open.spotify.com/track/73pehvxZUb87PhgyJJpTlw"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181490,
+      "name": "TURNT AND BURNT",
+      "url": "https://open.spotify.com/track/1QhmHYmtkPEXnM57IlDql0"
+    },
+    {
+      "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274059,
+      "name": "U R",
+      "url": "https://open.spotify.com/track/2DlBwbXR5mA8qhTuTMh6eZ"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "HYOYEON",
+          "url": "https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/2T20Nb7QlVK8K6pRSiDl8N"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241213,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0Ert1W22Ytn74ezc5J07iG"
+    },
+    {
+      "album": {
+        "name": "VOICE",
+        "url": "https://open.spotify.com/album/0sbwoolm9aZGBPBEqoU3CX"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191988,
+      "name": "VOICE",
+      "url": "https://open.spotify.com/track/1esVK0wgkpFJ31eHvHZ7M9"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0n1jo6k1GUzyrcXW2aS0iL"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232089,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/2wewTyDV3cJ2sEToe2DAG7"
+    },
+    {
+      "album": {
+        "name": "Why - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207777,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237265,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/2Bgjj3t5bOh34DfENfgyUY"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "You Better Not",
+      "url": "https://open.spotify.com/track/47Vgc15moDELPzmLAQSFgO"
+    },
+    {
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "\uadf8\ub300\ub77c\ub294 \uc2dc",
+      "url": "https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl"
+    },
+    {
+      "album": {
+        "name": "\ubca0\ud1a0\ubca4 \ubc14\uc774\ub7ec\uc2a4 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/3QgRwEK2D0vKaRICHPiKxR"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "\ub4e4\ub9ac\ub098\uc694\u2026",
+      "url": "https://open.spotify.com/track/0T9Ds8hp6T1k8KAAqp3V45"
+    },
+    {
+      "album": {
+        "name": "\ub108\ud76c\ub4e4\uc740 \ud3ec\uc704\ub410\ub2e4 You're All Surrounded (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/6c61yDa0fVXWY7ti8wMxfM"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235451,
+      "name": "\uc0ac\ub791 \uadf8 \ud55c\ub9c8\ub514 (Love, The Only Word)",
+      "url": "https://open.spotify.com/track/4cd2x70Y8oh5OVwtP2N0Pe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcNVMy4Nf9Si"
 }

@@ -1,375 +1,1231 @@
 {
-  "2022-12-24": 259981,
-  "2022-12-25": 260080,
-  "2022-12-26": 260188,
-  "2022-12-27": 260306,
-  "2022-12-28": 260401,
-  "2022-12-29": 260527,
-  "2022-12-30": 260696,
-  "2022-12-31": 260830,
-  "2023-01-01": 260941,
-  "2023-01-02": 261037,
-  "2023-01-03": 261143,
-  "2023-01-04": 261243,
-  "2023-01-05": 261353,
-  "2023-01-06": 261499,
-  "2023-01-07": 261643,
-  "2023-01-08": 261651,
-  "2023-01-09": 261748,
-  "2023-01-10": 261850,
-  "2023-01-11": 261953,
-  "2023-01-12": 262040,
-  "2023-01-13": 262135,
-  "2023-01-14": 262308,
-  "2023-01-15": 262325,
-  "2023-01-16": 262413,
-  "2023-01-17": 262501,
-  "2023-01-18": 262591,
-  "2023-01-19": 262697,
-  "2023-01-20": 262772,
-  "2023-01-21": 262857,
-  "2023-01-22": 262947,
-  "2023-01-23": 263055,
-  "2023-01-24": 263156,
-  "2023-01-25": 263228,
-  "2023-01-26": 263297,
-  "2023-01-27": 263366,
-  "2023-01-28": 263431,
-  "2023-01-29": 263523,
-  "2023-01-30": 263619,
-  "2023-01-31": 263619,
-  "2023-02-01": 263786,
-  "2023-02-02": 263845,
-  "2023-02-03": 263922,
-  "2023-02-04": 263995,
-  "2023-02-05": 264101,
-  "2023-02-06": 264191,
-  "2023-02-07": 264282,
-  "2023-02-08": 264464,
-  "2023-02-09": 264464,
-  "2023-02-10": 264571,
-  "2023-02-11": 264648,
-  "2023-02-12": 264858,
-  "2023-02-13": 264933,
-  "2023-02-14": 264933,
-  "2023-02-15": 265017,
-  "2023-02-16": 265105,
-  "2023-02-17": 265201,
-  "2023-02-18": 265363,
-  "2023-02-19": 265391,
-  "2023-02-20": 265468,
-  "2023-02-21": 265560,
-  "2023-02-22": 265649,
-  "2023-02-23": 265732,
-  "2023-02-24": 265826,
-  "2023-02-25": 265956,
-  "2023-02-26": 265994,
-  "2023-02-27": 266156,
-  "2023-02-28": 266156,
-  "2023-03-01": 266212,
-  "2023-03-02": 266295,
-  "2023-03-03": 266352,
-  "2023-03-04": 266428,
-  "2023-03-05": 266616,
-  "2023-03-06": 266616,
-  "2023-03-07": 266698,
-  "2023-03-08": 266772,
-  "2023-03-09": 266849,
-  "2023-03-10": 266938,
-  "2023-03-11": 267030,
-  "2023-03-12": 267097,
-  "2023-03-13": 267166,
-  "2023-03-14": 267252,
-  "2023-03-15": 267324,
-  "2023-03-16": 267420,
-  "2023-03-17": 267420,
-  "2023-03-18": 267598,
-  "2023-03-19": 267729,
-  "2023-03-20": 267835,
-  "2023-03-21": 268142,
-  "2023-03-22": 268596,
-  "2023-03-23": 268859,
-  "2023-03-24": 268859,
-  "2023-03-25": 269230,
-  "2023-03-26": 269417,
-  "2023-03-27": 269576,
-  "2023-03-28": 269701,
-  "2023-03-29": 269881,
-  "2023-03-30": 270140,
-  "2023-03-31": 270140,
-  "2023-04-01": 270280,
-  "2023-04-02": 270406,
-  "2023-04-03": 270555,
-  "2023-04-04": 270675,
-  "2023-04-05": 270837,
-  "2023-04-06": 270964,
-  "2023-04-07": 271084,
-  "2023-04-09": 271369,
-  "2023-04-10": 271509,
-  "2023-04-11": 271745,
-  "2023-04-12": 271745,
-  "2023-04-13": 271886,
-  "2023-04-14": 272006,
-  "2023-04-15": 272138,
-  "2023-04-16": 272272,
-  "2023-04-17": 272404,
-  "2023-04-18": 272538,
-  "2023-04-19": 272675,
-  "2023-04-20": 272794,
-  "2023-04-21": 272902,
-  "2023-04-22": 273050,
-  "2023-04-23": 273156,
-  "2023-04-24": 273265,
-  "2023-04-25": 273374,
-  "2023-04-26": 273503,
-  "2023-04-27": 273610,
-  "2023-04-28": 273732,
-  "2023-04-29": 273824,
-  "2023-04-30": 273932,
-  "2023-05-01": 274062,
-  "2023-05-02": 274221,
-  "2023-05-03": 274316,
-  "2023-05-04": 274475,
-  "2023-05-05": 274617,
-  "2023-05-06": 274734,
-  "2023-05-07": 274854,
-  "2023-05-08": 274986,
-  "2023-05-09": 275089,
-  "2023-05-10": 275201,
-  "2023-05-11": 275307,
-  "2023-05-12": 275418,
-  "2023-05-13": 275553,
-  "2023-05-14": 275653,
-  "2023-05-15": 275800,
-  "2023-05-16": 275919,
-  "2023-05-17": 276017,
-  "2023-05-18": 276130,
-  "2023-05-19": 276235,
-  "2023-05-20": 276443,
-  "2023-05-21": 276443,
-  "2023-05-22": 276443,
-  "2023-05-23": 276639,
-  "2023-05-24": 276796,
-  "2023-05-25": 276824,
-  "2023-05-26": 276906,
-  "2023-05-27": 276996,
-  "2023-05-28": 277114,
-  "2023-05-29": 277114,
-  "2023-05-30": 277294,
-  "2023-05-31": 277384,
-  "2023-06-01": 277478,
-  "2023-06-02": 277556,
-  "2023-06-03": 277636,
-  "2023-06-04": 277694,
-  "2023-06-05": 277794,
-  "2023-06-06": 277870,
-  "2023-06-07": 277940,
-  "2023-06-08": 278026,
-  "2023-06-09": 278110,
-  "2023-06-10": 278183,
-  "2023-06-11": 278270,
-  "2023-06-12": 278356,
-  "2023-06-13": 278434,
-  "2023-06-14": 278514,
-  "2023-06-15": 278601,
-  "2023-06-16": 278695,
-  "2023-06-17": 278781,
-  "2023-06-18": 278864,
-  "2023-06-19": 278921,
-  "2023-06-20": 279010,
-  "2023-06-21": 279104,
-  "2023-06-22": 279174,
-  "2023-06-23": 279242,
-  "2023-06-24": 279328,
-  "2023-06-25": 279422,
-  "2023-06-26": 279563,
-  "2023-06-27": 279810,
-  "2023-06-28": 280058,
-  "2023-06-29": 280215,
-  "2023-06-30": 280372,
-  "2023-07-01": 280655,
-  "2023-07-02": 280655,
-  "2023-07-03": 280771,
-  "2023-07-04": 280890,
-  "2023-07-05": 280993,
-  "2023-07-06": 281208,
-  "2023-07-07": 281208,
-  "2023-07-08": 281288,
-  "2023-07-09": 281395,
-  "2023-07-10": 281527,
-  "2023-07-11": 281617,
-  "2023-07-12": 281717,
-  "2023-07-13": 281814,
-  "2023-07-14": 281918,
-  "2023-07-15": 282007,
-  "2023-07-16": 282137,
-  "2023-07-17": 282459,
-  "2023-07-18": 282887,
-  "2023-07-19": 283490,
-  "2023-07-20": 283817,
-  "2023-07-21": 283999,
-  "2023-07-22": 284185,
-  "2023-07-23": 284340,
-  "2023-07-24": 284481,
-  "2023-07-25": 284576,
-  "2023-07-26": 284698,
-  "2023-07-27": 284853,
-  "2023-07-28": 284951,
-  "2023-07-29": 285082,
-  "2023-07-30": 285223,
-  "2023-07-31": 285338,
-  "2023-08-01": 285456,
-  "2023-08-02": 285590,
-  "2023-08-03": 285730,
-  "2023-08-04": 285863,
-  "2023-08-05": 285946,
-  "2023-08-06": 286176,
-  "2023-08-07": 286176,
-  "2023-08-08": 286301,
-  "2023-08-09": 286382,
-  "2023-08-10": 286474,
-  "2023-08-11": 286614,
-  "2023-08-12": 286750,
-  "2023-08-13": 286881,
-  "2023-08-14": 286982,
-  "2023-08-15": 287245,
-  "2023-08-16": 287245,
-  "2023-08-17": 287342,
-  "2023-08-18": 287452,
-  "2023-08-19": 287550,
-  "2023-08-20": 287633,
-  "2023-08-21": 287733,
-  "2023-08-22": 287826,
-  "2023-08-23": 287886,
-  "2023-08-24": 287943,
-  "2023-08-25": 288040,
-  "2023-08-26": 288120,
-  "2023-08-27": 288204,
-  "2023-08-28": 288279,
-  "2023-08-29": 288362,
-  "2023-08-30": 288443,
-  "2023-08-31": 288529,
-  "2023-09-01": 288707,
-  "2023-09-02": 288707,
-  "2023-09-03": 288805,
-  "2023-09-04": 288910,
-  "2023-09-05": 289032,
-  "2023-09-06": 289121,
-  "2023-09-07": 289229,
-  "2023-09-08": 289341,
-  "2023-09-09": 289452,
-  "2023-09-10": 289552,
-  "2023-09-11": 289644,
-  "2023-09-12": 289714,
-  "2023-09-13": 289843,
-  "2023-09-14": 289939,
-  "2023-09-15": 290031,
-  "2023-09-16": 290116,
-  "2023-09-17": 290208,
-  "2023-09-18": 290314,
-  "2023-09-19": 290409,
-  "2023-09-20": 290469,
-  "2023-09-21": 290533,
-  "2023-09-22": 290619,
-  "2023-09-23": 290699,
-  "2023-09-24": 290782,
-  "2023-09-25": 290873,
-  "2023-09-26": 290954,
-  "2023-09-27": 291011,
-  "2023-09-28": 291112,
-  "2023-09-29": 291181,
-  "2023-09-30": 291259,
-  "2023-10-01": 291352,
-  "2023-10-02": 291450,
-  "2023-10-03": 291524,
-  "2023-10-04": 291604,
-  "2023-10-05": 291660,
-  "2023-10-06": 291744,
-  "2023-10-07": 291820,
-  "2023-10-08": 291914,
-  "2023-10-09": 291981,
-  "2023-10-10": 292049,
-  "2023-10-11": 292158,
-  "2023-10-12": 292158,
-  "2023-10-13": 292220,
-  "2023-10-14": 292318,
-  "2023-10-15": 292420,
-  "2023-10-16": 292501,
-  "2023-10-17": 292611,
-  "2023-10-18": 292684,
-  "2023-10-19": 292743,
-  "2023-10-20": 292825,
-  "2023-10-21": 292905,
-  "2023-10-22": 292994,
-  "2023-10-23": 293059,
-  "2023-10-24": 293119,
-  "2023-10-25": 293194,
-  "2023-10-26": 293308,
-  "2023-10-27": 293390,
-  "2023-10-28": 293517,
-  "2023-10-29": 293642,
-  "2023-10-30": 293823,
-  "2023-10-31": 293823,
-  "2023-11-01": 293909,
-  "2023-11-02": 293981,
-  "2023-11-03": 294076,
-  "2023-11-04": 294158,
-  "2023-11-05": 294238,
-  "2023-11-06": 294316,
-  "2023-11-07": 294378,
-  "2023-11-08": 294437,
-  "2023-11-09": 294500,
-  "2023-11-10": 294564,
-  "2023-11-11": 294635,
-  "2023-11-12": 294692,
-  "2023-11-13": 294765,
-  "2023-11-14": 294837,
-  "2023-11-15": 294837,
-  "2023-11-16": 294974,
-  "2023-11-17": 295076,
-  "2023-11-18": 295076,
-  "2023-11-19": 295153,
-  "2023-11-20": 295210,
-  "2023-11-21": 295243,
-  "2023-11-22": 295295,
-  "2023-11-23": 295356,
-  "2023-11-24": 295406,
-  "2023-11-25": 295447,
-  "2023-11-26": 295529,
-  "2023-11-27": 295611,
-  "2023-11-28": 295651,
-  "2023-11-29": 295807,
-  "2023-11-30": 295807,
-  "2023-12-01": 295900,
-  "2023-12-02": 295984,
-  "2023-12-03": 296057,
-  "2023-12-04": 296217,
-  "2023-12-05": 296252,
-  "2023-12-06": 296317,
-  "2023-12-07": 296368,
-  "2023-12-08": 296434,
-  "2023-12-09": 296599,
-  "2023-12-10": 296676,
-  "2023-12-11": 296751,
-  "2023-12-12": 296808,
-  "2023-12-13": 296888,
-  "2023-12-14": 296989,
-  "2023-12-15": 297036,
-  "2023-12-16": 297126,
-  "2023-12-17": 297184,
-  "2023-12-18": 297260,
-  "2023-12-19": 297318,
-  "2023-12-20": 297364,
-  "2023-12-21": 297422,
-  "2023-12-22": 297472,
-  "2023-12-23": 297521,
-  "2023-12-24": 297582,
-  "2023-12-25": 297644,
-  "2023-12-26": 297700,
-  "2023-12-27": 297740,
-  "2023-12-30": 297917,
-  "2023-12-31": 297975,
-  "2024-01-01": 298018,
-  "2024-01-02": 298058,
-  "2024-01-03": 298099
+  "2024-01-17": 298803,
+  "date_first_scraped": "2022-12-24",
+  "description": "The essential tracks from Kenshi Yonezu/ hachi. \u7c73\u6d25\u7384\u5e2b/ \u30cf\u30c1\u306e\u4ee3\u8868\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
+  "name": "This Is \u7c73\u6d25\u7384\u5e2b - Kenshi Yonezu - ",
+  "tracks": [
+    {
+      "album": {
+        "name": "LOSER / \u30ca\u30f3\u30d0\u30fc\u30ca\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/3z72r7aIYUDpTElMaBQuxq"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274200,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/6XZdQi6kAR6Ez0O998Erm3"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "D\u00e9collet\u00e9",
+      "url": "https://open.spotify.com/track/0KAzU42MoxDYo7XXGAdMhk"
+    },
+    {
+      "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287800,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/3ILWwi1JNj3NGuuf6DzYxN"
+    },
+    {
+      "album": {
+        "name": "Flowerwall",
+        "url": "https://open.spotify.com/album/0Uj2Q0o4NBkuhgfVsFj9Dc"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298613,
+      "name": "Flowerwall",
+      "url": "https://open.spotify.com/track/1hmMuKG0w5DUa6NOTCT119"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        },
+        {
+          "name": "\u6c60\u7530 \u30a8\u30e9\u30a4\u30b6",
+          "url": "https://open.spotify.com/artist/5M2zpiu3UmpkILAzG32bCP"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "fogbound ( + \u6c60\u7530\u30a8\u30e9\u30a4\u30b6 )",
+      "url": "https://open.spotify.com/track/7N3SyH4n4kjbMl8gYNs63K"
+    },
+    {
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193495,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "LADY",
+        "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207166,
+      "name": "LADY",
+      "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255826,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243813,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0"
+    },
+    {
+      "album": {
+        "name": "MAD HEAD LOVE/\u30dd\u30c3\u30d4\u30f3\u30a2\u30d1\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/6WJfvLqbR4mE9Tio1Srvq3"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "MAD HEAD LOVE",
+      "url": "https://open.spotify.com/track/1jE1zTvEffFZfNDZ21T8kI"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u675f\u3068\u6c34\u846c",
+        "url": "https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258760,
+      "name": "Mrs.Pumpkin\u306e\u6ed1\u7a3d\u306a\u5922 - ORIGINAL",
+      "url": "https://open.spotify.com/track/6AM4kwGUFoCQZyV1mwfo2A"
+    },
+    {
+      "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263120,
+      "name": "M\u516b\u4e03",
+      "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
+    },
+    {
+      "album": {
+        "name": "NANIMONO EP",
+        "url": "https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        },
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "NANIMONO (feat. \u7c73\u6d25\u7384\u5e2b)",
+      "url": "https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Neighbourhood",
+      "url": "https://open.spotify.com/track/51BDjBKd5QAT7bsPmvDnAh"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281906,
+      "name": "orion",
+      "url": "https://open.spotify.com/track/1bIZxrSkbxatnTo8ObcIxX"
+    },
+    {
+      "album": {
+        "name": "Pale Blue",
+        "url": "https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296546,
+      "name": "Pale Blue",
+      "url": "https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl"
+    },
+    {
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/4Ezkdjk13wY1bdXc5kDJHG"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275400,
+      "name": "Paper Flower",
+      "url": "https://open.spotify.com/track/2JzRY7DvaqKqBrehWmsb3E"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        },
+        {
+          "name": "Yojiro Noda",
+          "url": "https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "PLACEBO \uff0b \u91ce\u7530\u6d0b\u6b21\u90ce",
+      "url": "https://open.spotify.com/track/2JddJrkwam4cTskjGQoysI"
+    },
+    {
+      "album": {
+        "name": "M\u516b\u4e03",
+        "url": "https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "POP SONG",
+      "url": "https://open.spotify.com/track/2wPSiRWMFFeL1FC4MJ3Qxf"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "TEENAGE RIOT",
+      "url": "https://open.spotify.com/track/03anCl0CUIi29mbrbsA8pY"
+    },
+    {
+      "album": {
+        "name": "diorama",
+        "url": "https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "vivi",
+      "url": "https://open.spotify.com/track/3izOZelMZaCC0MMabvssCw"
+    },
+    {
+      "album": {
+        "name": "diorama",
+        "url": "https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179466,
+      "name": "\u3042\u3081\u3075\u308a\u5a66\u4eba",
+      "url": "https://open.spotify.com/track/4ih8ybOwn5Mfmu0EY6THjr"
+    },
+    {
+      "album": {
+        "name": "Flamingo / TEENAGE RIOT",
+        "url": "https://open.spotify.com/album/4OaItizwUJOXbPgr7bBSSO"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "\u3054\u3081\u3093\u306d",
+      "url": "https://open.spotify.com/track/4dvRQjQCOdtEaYH86BEs36"
+    },
+    {
+      "album": {
+        "name": "\u99ac\u3068\u9e7f",
+        "url": "https://open.spotify.com/album/0qQBqfFObMOxLmumCLDjiw"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "\u3067\u3057\u3087\u307e\u3057\u3087",
+      "url": "https://open.spotify.com/track/0crXUgfQlDabooRgYlk6pO"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "\u3072\u307e\u308f\u308a",
+      "url": "https://open.spotify.com/track/2Tl9plCC1mml1tS9jepjC4"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267453,
+      "name": "\u307e\u3061\u304c\u3044\u3055\u304c\u3057",
+      "url": "https://open.spotify.com/track/1ZjoUsUbGdDrdyofWvSITO"
+    },
+    {
+      "album": {
+        "name": "\u3086\u3081\u3046\u3064\u3064",
+        "url": "https://open.spotify.com/album/1Q7OsEn8b1RnCgTYcjRyLC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304693,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/3LiCxI36JZmzUxlS8KAeW2"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283426,
+      "name": "\u3086\u3081\u304f\u3044\u3057\u3087\u3046\u3058\u3087",
+      "url": "https://open.spotify.com/track/4PDeviRbxQfSDDwP0BAE5O"
+    },
+    {
+      "album": {
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30d3\u30ea\u30fc\u30d0\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/3sEAIGuIv29u4NbylrcBpU"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "\u30a2\u30f3\u30d3\u30ea\u30fc\u30d0\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/1anEvdodVHHpDXiq2bwuau"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298373,
+      "name": "\u30ab\u30ca\u30ea\u30e4",
+      "url": "https://open.spotify.com/track/4QnBgXJAEoHjKj6LiKP9wS"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235720,
+      "name": "\u30ab\u30e0\u30d1\u30cd\u30eb\u30e9",
+      "url": "https://open.spotify.com/track/2K4aKCOfyN1JwMWUZJiwIX"
+    },
+    {
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/4Ezkdjk13wY1bdXc5kDJHG"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "\u30af\u30e9\u30f3\u30d9\u30ea\u30fc\u3068\u30d1\u30f3\u30b1\u30fc\u30ad",
+      "url": "https://open.spotify.com/track/0vaqZ9QxzfoyI1K4l3DbJm"
+    },
+    {
+      "album": {
+        "name": "diorama",
+        "url": "https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "\u30b4\u30fc\u30b4\u30fc\u5e7d\u970a\u8239",
+      "url": "https://open.spotify.com/track/6JTUCs01Y8POQjeh5lDvlo"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30f3\u30bf\u30de\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/3VJsXx7mjLMyx3dp9H6x1G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334146,
+      "name": "\u30b5\u30f3\u30bf\u30de\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0zjtBLZoqcrIxPDxrAfpJq"
+    },
+    {
+      "album": {
+        "name": "Bremen",
+        "url": "https://open.spotify.com/album/2NntpzUApyESbWpuylSP31"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30b0\u30ec\u30a4",
+      "url": "https://open.spotify.com/track/421YV4dHoOY8HaU6nHAuks"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "\u30ca\u30f3\u30d0\u30fc\u30ca\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7zdzhDD4v7dryJn68bn4GH"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "\u30d1\u30d7\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/3ZGLU3boyl9emMo2Jlr5Gr"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "\u30d1\u30f3\u30c0\u30d2\u30fc\u30ed\u30fc - ORIGINAL",
+      "url": "https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/364JzOajs76bJymjHm3sVY"
+    },
+    {
+      "album": {
+        "name": "Bremen",
+        "url": "https://open.spotify.com/album/2NntpzUApyESbWpuylSP31"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301240,
+      "name": "\u30db\u30fc\u30d7\u30e9\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/7lmF0obAl4R76B5QPhMJrZ"
+    },
+    {
+      "album": {
+        "name": "MAD HEAD LOVE/\u30dd\u30c3\u30d4\u30f3\u30a2\u30d1\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/6WJfvLqbR4mE9Tio1Srvq3"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "\u30dd\u30c3\u30d4\u30f3\u30a2\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/3B6E0mV5MLYcnGRO2CPbCE"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab - ORIGINAL",
+      "url": "https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS"
+    },
+    {
+      "album": {
+        "name": "Bremen",
+        "url": "https://open.spotify.com/album/2NntpzUApyESbWpuylSP31"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259893,
+      "name": "\u30e1\u30c8\u30ed\u30ce\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/6DJufb1am2ldhryvhP3dpC"
+    },
+    {
+      "album": {
+        "name": "orion",
+        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "\u30e9\u30e9\u30d0\u30a4\u3055\u3088\u306a\u3089",
+      "url": "https://open.spotify.com/track/1n6uZXRb7GzqoN5eqzFJwD"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "\u30ea\u30f3\u30cd - ORIGINAL",
+      "url": "https://open.spotify.com/track/6L7qAI9DS27eoEEseNB1Y2"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287786,
+      "name": "\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u3068\u7f8a\u306e\u6b4c - ORIGINAL",
+      "url": "https://open.spotify.com/track/4ZLyjxANuZ87aP9dJqRaik"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "\u512a\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/7EoBmpSFygVuCCGkXA3wei"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u5100 - Spinning Globe",
+        "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273437,
+      "name": "\u5730\u7403\u5100 - Spinning Globe",
+      "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "album": {
+        "name": "diorama",
+        "url": "https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "\u604b\u3068\u75c5\u71b1",
+      "url": "https://open.spotify.com/track/05fuWARtOqZgc1mzjf5l0C"
+    },
+    {
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/1T6osuQ4vFziPrA10uXOfs"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221773,
+      "name": "\u6065\u305a\u304b\u3057\u304f\u3063\u3066\u3057\u3087\u3046\u304c\u306d\u3048",
+      "url": "https://open.spotify.com/track/64DQr4CorFeWFZMRiKswZv"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "\u611b\u9e97\u7d72\uff08\u6b63\u5f0f\u8868\u8a18\u306fAlice\u306e\u4e2d\u56fd\u8a9e\u7c21\u4f53\u5b57\u8868\u8a18\u3068\u306a\u308a\u307e\u3059\u3002\uff09",
+      "url": "https://open.spotify.com/track/7APmRLL4QCEd7TmAfz2onj"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264533,
+      "name": "\u611f\u96fb",
+      "url": "https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259385,
+      "name": "\u6253\u4e0a\u82b1\u706b",
+      "url": "https://open.spotify.com/track/6y9aL2ilkD6UkOq2QJeNyi"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288893,
+      "name": "\u6625\u96f7",
+      "url": "https://open.spotify.com/track/6megNXGjmim4OitjZnIn9v"
+    },
+    {
+      "album": {
+        "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252340,
+      "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
+      "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
+    },
+    {
+      "album": {
+        "name": "Pale Blue",
+        "url": "https://open.spotify.com/album/18UoCkfQKlMVnAcZXbiBz8"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "\u6b7b\u795e",
+      "url": "https://open.spotify.com/track/3tw4Jysd48kMcKsdnGYLee"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "\u6d77\u306e\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/4se7FxPLJQftnmHCF5qL2B"
+    },
+    {
+      "album": {
+        "name": "BOOTLEG",
+        "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        },
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332186,
+      "name": "\u7070\u8272\u3068\u9752 ( + \u83c5\u7530\u5c06\u6689 )",
+      "url": "https://open.spotify.com/track/3KnURrjsXA0TDce8N7iOwz"
+    },
+    {
+      "album": {
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "\u773c\u798f",
+      "url": "https://open.spotify.com/track/7e2oFZqJWr1fbG6CLH4srC"
+    },
+    {
+      "album": {
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+    },
+    {
+      "album": {
+        "name": "orion",
+        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "\u7fe1\u7fe0\u306e\u72fc",
+      "url": "https://open.spotify.com/track/4kUGWziV03u0xvRk6Fmogx"
+    },
+    {
+      "album": {
+        "name": "diorama",
+        "url": "https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340320,
+      "name": "\u8857",
+      "url": "https://open.spotify.com/track/0rPxJWtfr7aBswJIpsf2lz"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "\u8ff7\u3048\u308b\u7f8a",
+      "url": "https://open.spotify.com/track/6bukiujm3fiAIey2Qieimc"
+    },
+    {
+      "album": {
+        "name": "STRAY SHEEP",
+        "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "\u99ac\u3068\u9e7f",
+      "url": "https://open.spotify.com/track/0iniTNHwqBiP4UDE1dgUpD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYoL6ZoD9KnI"
 }

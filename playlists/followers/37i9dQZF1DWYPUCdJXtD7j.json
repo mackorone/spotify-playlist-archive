@@ -1,97 +1,513 @@
 {
-  "2023-09-29": 2607,
-  "2023-09-30": 2622,
-  "2023-10-01": 2645,
-  "2023-10-02": 2663,
-  "2023-10-03": 2681,
-  "2023-10-04": 2697,
-  "2023-10-05": 2715,
-  "2023-10-06": 2717,
-  "2023-10-07": 2734,
-  "2023-10-08": 2751,
-  "2023-10-09": 2767,
-  "2023-10-10": 2772,
-  "2023-10-11": 2816,
-  "2023-10-12": 2816,
-  "2023-10-13": 2831,
-  "2023-10-14": 2842,
-  "2023-10-15": 2869,
-  "2023-10-16": 2884,
-  "2023-10-17": 2893,
-  "2023-10-18": 2900,
-  "2023-10-19": 2916,
-  "2023-10-20": 2930,
-  "2023-10-21": 2945,
-  "2023-10-22": 2971,
-  "2023-10-23": 2992,
-  "2023-10-24": 3007,
-  "2023-10-25": 3017,
-  "2023-10-26": 3027,
-  "2023-10-27": 3043,
-  "2023-10-28": 3056,
-  "2023-10-29": 3070,
-  "2023-10-30": 3097,
-  "2023-10-31": 3097,
-  "2023-11-01": 3109,
-  "2023-11-02": 3121,
-  "2023-11-03": 3136,
-  "2023-11-04": 3156,
-  "2023-11-05": 3176,
-  "2023-11-06": 3194,
-  "2023-11-07": 3205,
-  "2023-11-08": 3213,
-  "2023-11-09": 3232,
-  "2023-11-10": 3240,
-  "2023-11-11": 3251,
-  "2023-11-12": 3278,
-  "2023-11-13": 3303,
-  "2023-11-14": 3316,
-  "2023-11-15": 3316,
-  "2023-11-16": 3346,
-  "2023-11-17": 3364,
-  "2023-11-18": 3364,
-  "2023-11-19": 3386,
-  "2023-11-20": 3401,
-  "2023-11-21": 3416,
-  "2023-11-22": 3423,
-  "2023-11-23": 3435,
-  "2023-11-24": 3446,
-  "2023-11-25": 3463,
-  "2023-11-26": 3478,
-  "2023-11-27": 3493,
-  "2023-11-28": 3506,
-  "2023-11-29": 3528,
-  "2023-11-30": 3528,
-  "2023-12-01": 3533,
-  "2023-12-02": 3542,
-  "2023-12-03": 3558,
-  "2023-12-04": 3583,
-  "2023-12-05": 3596,
-  "2023-12-06": 3613,
-  "2023-12-07": 3624,
-  "2023-12-08": 3635,
-  "2023-12-09": 3641,
-  "2023-12-10": 3662,
-  "2023-12-11": 3675,
-  "2023-12-12": 3682,
-  "2023-12-13": 3693,
-  "2023-12-14": 3706,
-  "2023-12-15": 3716,
-  "2023-12-16": 3722,
-  "2023-12-17": 3737,
-  "2023-12-18": 3753,
-  "2023-12-19": 3764,
-  "2023-12-20": 3763,
-  "2023-12-21": 3772,
-  "2023-12-22": 3784,
-  "2023-12-23": 3794,
-  "2023-12-24": 3802,
-  "2023-12-25": 3810,
-  "2023-12-26": 3817,
-  "2023-12-27": 3818,
-  "2023-12-30": 3843,
-  "2023-12-31": 3858,
-  "2024-01-01": 3869,
-  "2024-01-02": 3878,
-  "2024-01-03": 3890
+  "2024-01-17": 4050,
+  "date_first_scraped": "2023-09-29",
+  "description": "Pour vos enfants, rien n'est plus beau qu'une petite voiture... \u00e0 part peut-\u00eatre un camion pompier.",
+  "name": "Vroum vroum",
+  "tracks": [
+    {
+      "album": {
+        "name": "Comptines Volume 1",
+        "url": "https://open.spotify.com/album/7bHnhDcykNiJ150e7ABUWB"
+      },
+      "artists": [
+        {
+          "name": "Collection Comptines",
+          "url": "https://open.spotify.com/artist/5R2GSCPn8FshtqQbf8ENaR"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60346,
+      "name": "Au feu les pompiers",
+      "url": "https://open.spotify.com/track/3aIKoEFOhLjsgm7mVvVrBq"
+    },
+    {
+      "album": {
+        "name": "Les Fabulettes, vol. 4 : La ville aux enfants",
+        "url": "https://open.spotify.com/album/2CYdJJvfYGWRJpwXmRrnCx"
+      },
+      "artists": [
+        {
+          "name": "Anne Sylvestre",
+          "url": "https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121680,
+      "name": "Bicyclette patins \u00e0 roulettes",
+      "url": "https://open.spotify.com/track/5SVs9UvqiTYWI8H9Zf3EmV"
+    },
+    {
+      "album": {
+        "name": "Henri D\u00e8s, Vol. 6: Le beau tambour",
+        "url": "https://open.spotify.com/album/6XxnmZ0kZJtB1QIkYxgu87"
+      },
+      "artists": [
+        {
+          "name": "Henri D\u00e8s",
+          "url": "https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Camion, \u00e7a fait prout",
+      "url": "https://open.spotify.com/track/4cHFwZgRYdwkJ3oXA28K36"
+    },
+    {
+      "album": {
+        "name": "L'union fait la force",
+        "url": "https://open.spotify.com/album/5pXsdNlKgalQFNxrpGnIDt"
+      },
+      "artists": [
+        {
+          "name": "Les Enfantastiques",
+          "url": "https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177960,
+      "name": "Comme Eddy Merckx sur son velo",
+      "url": "https://open.spotify.com/track/1F6Gju4MSKO08o0bBikWyM"
+    },
+    {
+      "album": {
+        "name": "Fabulettes",
+        "url": "https://open.spotify.com/album/62FbtqQyaWepIkAwTnkp19"
+      },
+      "artists": [
+        {
+          "name": "Anne Sylvestre",
+          "url": "https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Dans Ma Fus\u00e9e",
+      "url": "https://open.spotify.com/track/2THSKQUVptc0WxWEbUykQq"
+    },
+    {
+      "album": {
+        "name": "Anne Vanderlove Chante Les Couleurs",
+        "url": "https://open.spotify.com/album/3079fes8jFUTJhJKJ3PWid"
+      },
+      "artists": [
+        {
+          "name": "Anne Vanderlove",
+          "url": "https://open.spotify.com/artist/3XhPuqqIdXrDLg8b6zDUxo"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Dr\u00f4le De Chansons",
+      "url": "https://open.spotify.com/track/7fklzxqv0pBC5SLSXnOJKi"
+    },
+    {
+      "album": {
+        "name": "Les animaux font du sport (Ponga, le pingouin judoka)",
+        "url": "https://open.spotify.com/album/3PRob7AuokzeFivcsFA4YP"
+      },
+      "artists": [
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/309eMzBSqbIxMyd6W9zUpI"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Ernest - Le petit cochon le coureur automobile",
+      "url": "https://open.spotify.com/track/5dF5nlf1OX6b3wG028Cxve"
+    },
+    {
+      "album": {
+        "name": "Henri D\u00e8s, Vol. 8: Les b\u00eatises",
+        "url": "https://open.spotify.com/album/5WCCx1iO2rBD4IxIN7PSZx"
+      },
+      "artists": [
+        {
+          "name": "Henri D\u00e8s",
+          "url": "https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138306,
+      "name": "J'ai pris l'avion",
+      "url": "https://open.spotify.com/track/4fIzzkTw4fvS7ByKDNFH8r"
+    },
+    {
+      "album": {
+        "name": "C'est Si Bon",
+        "url": "https://open.spotify.com/album/0yPaLDo2C3mXKZLZ14tj3c"
+      },
+      "artists": [
+        {
+          "name": "Alain Le Lait",
+          "url": "https://open.spotify.com/artist/5F3OokVRFhIat4o4TbO3E5"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96546,
+      "name": "J'aime Les Voitures",
+      "url": "https://open.spotify.com/track/7LXXKGfMJiqqG5rlLYqcpO"
+    },
+    {
+      "album": {
+        "name": "Des voix pour la plan\u00e8te",
+        "url": "https://open.spotify.com/album/55Rp9Sd7Keo3HoyMwA5CM6"
+      },
+      "artists": [
+        {
+          "name": "Dominique Dimey",
+          "url": "https://open.spotify.com/artist/13JTWSRVp51EIrfDuUD5V7"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "J'vais partout avec mon v\u00e9lo",
+      "url": "https://open.spotify.com/track/3oVItYIuD06L5XnsZrwKlH"
+    },
+    {
+      "album": {
+        "name": "Sacha Distel: The Good Mood",
+        "url": "https://open.spotify.com/album/2ibKSpzpG3m1B3sWMVKqnh"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "L'incendie \u00e0 Rio",
+      "url": "https://open.spotify.com/track/2DMQ48elpSiHkvULeGZLvM"
+    },
+    {
+      "album": {
+        "name": "Plouf Plouf 48 Comptines Pour Jouer",
+        "url": "https://open.spotify.com/album/1vM1ERI6JU9b1KwdDbF5kJ"
+      },
+      "artists": [
+        {
+          "name": "Les Tralalaploufplouf",
+          "url": "https://open.spotify.com/artist/3GKhOWRGNwi5aAuDx8ui4i"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104373,
+      "name": "La Totomobile",
+      "url": "https://open.spotify.com/track/5LrDNDi3yRrlanaWV3i3Sd"
+    },
+    {
+      "album": {
+        "name": "Sautecroche 1 (with Lee Maddeford & Annick Caretti)",
+        "url": "https://open.spotify.com/album/317yNC5pLYlnH77HPAEpEk"
+      },
+      "artists": [
+        {
+          "name": "Marie Henchoz",
+          "url": "https://open.spotify.com/artist/4RBBUco1pbZkG7ocGCtDTV"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "La vache en h\u00e9licopt\u00e8re - Version vocale",
+      "url": "https://open.spotify.com/track/6tVyU9SU4Uga8kwiP3H6xV"
+    },
+    {
+      "album": {
+        "name": "Henri D\u00e8s en Solo \"Les chansons\"",
+        "url": "https://open.spotify.com/album/0xuo5IujKnogM6dN1b6VXq"
+      },
+      "artists": [
+        {
+          "name": "Henri D\u00e8s",
+          "url": "https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "Le facteur",
+      "url": "https://open.spotify.com/track/6A0YNPdKZYkRZgmQGmqH1k"
+    },
+    {
+      "album": {
+        "name": "Henri D\u00e8s, Vol. 4: L'\u00e2ne blanc",
+        "url": "https://open.spotify.com/album/2Ofj6A8iq0draKzclmuJdb"
+      },
+      "artists": [
+        {
+          "name": "Henri D\u00e8s",
+          "url": "https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Le petit moteur",
+      "url": "https://open.spotify.com/track/0atdQbdOazb2mO6a4Nu5RE"
+    },
+    {
+      "album": {
+        "name": "Chansons de grands pour les petits, Vol. 1",
+        "url": "https://open.spotify.com/album/0rV08iGqGDedkPI5rYCndG"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Claveau",
+          "url": "https://open.spotify.com/artist/4n4RdfgcU5TMI6ZL9LhRVV"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164320,
+      "name": "Le petit train",
+      "url": "https://open.spotify.com/track/3qCZkaGWo7E6A1Y6fj8AA2"
+    },
+    {
+      "album": {
+        "name": "Sur le bout des doigts",
+        "url": "https://open.spotify.com/album/1gjYRBPoNxvDN9oKMJz53C"
+      },
+      "artists": [
+        {
+          "name": "Christian Merveille",
+          "url": "https://open.spotify.com/artist/1hY7F6vnVTWk6aLIzJGzt1"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74506,
+      "name": "Le petit train des copains",
+      "url": "https://open.spotify.com/track/0muM2ZZamGo2V0wG8tPknw"
+    },
+    {
+      "album": {
+        "name": "Comptines pour voyager en famille",
+        "url": "https://open.spotify.com/album/0MP1pqi4cJKB0zR8eJQNP9"
+      },
+      "artists": [
+        {
+          "name": "Marie-Claude Clerval",
+          "url": "https://open.spotify.com/artist/4T9a1wJlg0HDm9LVzf1QWx"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Le petit train du matin",
+      "url": "https://open.spotify.com/track/5J8QghWVuDUVu9DrObqvs2"
+    },
+    {
+      "album": {
+        "name": "Chansons Pour Enfants",
+        "url": "https://open.spotify.com/album/6gUZj3SCCBkcjenWdGKBtq"
+      },
+      "artists": [
+        {
+          "name": "Chansons pour enfants Loulou et Lou",
+          "url": "https://open.spotify.com/artist/6rp5Obq7OsRN7d2mu1PTQ5"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83688,
+      "name": "Les Roues De L'Autobus",
+      "url": "https://open.spotify.com/track/5tLDrfk4fBl5WkEkbwLR7J"
+    },
+    {
+      "album": {
+        "name": "Cars 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9nabar",
+          "url": "https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169493,
+      "name": "Mon Coeur Fait Vroum (My Heart Goes Vroom) - From \"Cars 2\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/39ys0k1qof4axhk2RC1ul3"
+    },
+    {
+      "album": {
+        "name": "Fabulettes",
+        "url": "https://open.spotify.com/album/62FbtqQyaWepIkAwTnkp19"
+      },
+      "artists": [
+        {
+          "name": "Anne Sylvestre",
+          "url": "https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32400,
+      "name": "Mon V\u00e9lo Est Blanc",
+      "url": "https://open.spotify.com/track/7zvVKYo5APEmQPeqbsqfaX"
+    },
+    {
+      "album": {
+        "name": "Comptines et jeux de doigts, vol. 4",
+        "url": "https://open.spotify.com/album/16g6uQ0U5MEJJJdcjE1bZd"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9mi Guichard",
+          "url": "https://open.spotify.com/artist/2fJR6skAOWHwNlYPCd5Spe"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76960,
+      "name": "Roulez roulez",
+      "url": "https://open.spotify.com/track/3sFL8DLRfQEArVDfeblQE5"
+    },
+    {
+      "album": {
+        "name": "Hou ! La menteuse",
+        "url": "https://open.spotify.com/album/3SsdURdTYCx7vZF8HhGrCi"
+      },
+      "artists": [
+        {
+          "name": "Doroth\u00e9e",
+          "url": "https://open.spotify.com/artist/7kZrDJdqo62iZD6B2UEu7D"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "Tchou-Tchou, le petit train",
+      "url": "https://open.spotify.com/track/5jXpeoQ3rYB6RtXsEtqVX0"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose",
+        "url": "https://open.spotify.com/album/2Be5cuDZXjcCX8fQqk6Doz"
+      },
+      "artists": [
+        {
+          "name": "Sanseverino",
+          "url": "https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 167253,
+      "name": "Tout le monde se presse",
+      "url": "https://open.spotify.com/track/0GaawFROCUNGrRPovzxR0F"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose",
+        "url": "https://open.spotify.com/album/7xQg02F6RsiXzdYYSfcXjq"
+      },
+      "artists": [
+        {
+          "name": "Sanseverino",
+          "url": "https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167253,
+      "name": "Tout le monde se presse",
+      "url": "https://open.spotify.com/track/3Rq5aUgenRwBqIXJAIdLDn"
+    },
+    {
+      "album": {
+        "name": "Les Fabulettes, vol. 17 : Fabulettes \u00e0 lunettes",
+        "url": "https://open.spotify.com/album/4pKvISiPiH3oa7jH2lhxWJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Sylvestre",
+          "url": "https://open.spotify.com/artist/5yR9X7FUjIAk2gQiymdLBn"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140253,
+      "name": "Un petit v\u00e9lo sur le bout du nez",
+      "url": "https://open.spotify.com/track/0aIKvpvi6x0HRcBSvffkah"
+    },
+    {
+      "album": {
+        "name": "Plouf Plouf 48 Comptines Pour Jouer",
+        "url": "https://open.spotify.com/album/1vM1ERI6JU9b1KwdDbF5kJ"
+      },
+      "artists": [
+        {
+          "name": "Les Tralalaploufplouf",
+          "url": "https://open.spotify.com/artist/3GKhOWRGNwi5aAuDx8ui4i"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54480,
+      "name": "V\u00e9li V\u00e9lo",
+      "url": "https://open.spotify.com/track/4l5neNZUL6axj994UQQeiY"
+    },
+    {
+      "album": {
+        "name": "B\u00e9nabar",
+        "url": "https://open.spotify.com/album/6ggQNps98xaXMY0OZWevEH"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9nabar",
+          "url": "https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv"
+        }
+      ],
+      "date_added": "2021-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "V\u00e9lo",
+      "url": "https://open.spotify.com/track/1NvpRCr4LnEInI2UDcLMw2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYPUCdJXtD7j"
 }

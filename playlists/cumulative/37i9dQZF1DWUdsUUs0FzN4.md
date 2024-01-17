@@ -2,7 +2,7 @@
 
 ### [CHAKALÓN ](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
-> Con licuachela en mano y perreando hasta el piso\. Uzielito Mix, El Bogueto y Dani Flow en portada
+> Con licuachela en mano y perreando hasta el piso\. Bellakath en portada
 
 272 songs - 13 hr 33 min
 

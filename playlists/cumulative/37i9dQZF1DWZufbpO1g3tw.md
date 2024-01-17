@@ -4,13 +4,14 @@
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-268 songs - 16 hr 38 min
+269 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 | 2022-10-28 | 2023-11-23 |
 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2022-04-20 | 2023-11-23 |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2023-11-22 |  |
+| [Afuera Que Tengan Miedo \- Jayrick Remix](https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Afuera Que Tengan Miedo \(Jayrick Remix\)](https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp) | 2:46 | 2024-01-16 |  |
 | [Agradecer](https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Agradecer](https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM) | 3:25 | 2023-05-09 | 2023-11-23 |
 | [Alegria por un Zumo de Naranja Con Panela](https://open.spotify.com/track/3c3SlCmGqAULLHI3eGuHTK) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Romperayo](https://open.spotify.com/album/6s1doXtRUXaxXs2rnPSOsD) | 3:33 | 2021-10-20 | 2022-07-24 |
 | [Amanezco Bailando \- Dub Mix](https://open.spotify.com/track/04JIuESn3zdeiOseGTGe3j) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita \(El Fin del Mundo\), Vol\. II & III](https://open.spotify.com/album/6PxQh3kyXeo5kuWnefYaPZ) | 4:33 | 2021-10-20 | 2022-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,585 likes - 52 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,276 likes - 52 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 51 | [Silent Night \- Piano/Strings](https://open.spotify.com/track/0rUUKPi2d2riJQZzVfEoit) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:57 |
 | 52 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MCwyYjg2ZmE2ZGU4MjMyNzBiMWY0NjhkNzRlYjZhNGQyMjQ3MDQyNzNj`
+Snapshot ID: `MCw4OGUzZmIzN2Y0MzIzNmZjYmJiM2MzMTNhOWY5MzU3NjhjYzIzM2Vm`

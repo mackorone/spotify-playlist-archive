@@ -1,430 +1,1449 @@
 {
-  "2022-10-29": 218380,
-  "2022-10-30": 218461,
-  "2022-10-31": 218544,
-  "2022-11-01": 218630,
-  "2022-11-02": 218684,
-  "2022-11-03": 218775,
-  "2022-11-04": 218873,
-  "2022-11-05": 219002,
-  "2022-11-06": 219099,
-  "2022-11-07": 219193,
-  "2022-11-08": 219275,
-  "2022-11-09": 219384,
-  "2022-11-10": 219487,
-  "2022-11-11": 219615,
-  "2022-11-12": 219763,
-  "2022-11-13": 219872,
-  "2022-11-14": 219990,
-  "2022-11-15": 220068,
-  "2022-11-16": 220178,
-  "2022-11-17": 220280,
-  "2022-11-18": 220287,
-  "2022-11-19": 220297,
-  "2022-11-20": 220388,
-  "2022-11-21": 220509,
-  "2022-11-22": 220604,
-  "2022-11-23": 220720,
-  "2022-11-24": 220935,
-  "2022-11-25": 221116,
-  "2022-11-26": 221241,
-  "2022-11-27": 221370,
-  "2022-11-28": 221481,
-  "2022-11-29": 221568,
-  "2022-11-30": 221687,
-  "2022-12-01": 221765,
-  "2022-12-02": 221858,
-  "2022-12-03": 222032,
-  "2022-12-04": 222178,
-  "2022-12-05": 222294,
-  "2022-12-06": 222394,
-  "2022-12-07": 222504,
-  "2022-12-08": 222631,
-  "2022-12-09": 222733,
-  "2022-12-10": 222877,
-  "2022-12-11": 222958,
-  "2022-12-12": 223041,
-  "2022-12-13": 223134,
-  "2022-12-14": 223203,
-  "2022-12-15": 223302,
-  "2022-12-16": 223411,
-  "2022-12-17": 223525,
-  "2022-12-18": 223663,
-  "2022-12-19": 223753,
-  "2022-12-20": 223931,
-  "2022-12-21": 223931,
-  "2022-12-22": 224031,
-  "2022-12-24": 224245,
-  "2022-12-25": 224427,
-  "2022-12-26": 224535,
-  "2022-12-27": 224633,
-  "2022-12-28": 224729,
-  "2022-12-29": 224839,
-  "2022-12-30": 224958,
-  "2022-12-31": 225103,
-  "2023-01-01": 225220,
-  "2023-01-02": 225345,
-  "2023-01-03": 225454,
-  "2023-01-04": 225529,
-  "2023-01-05": 225655,
-  "2023-01-06": 225773,
-  "2023-01-07": 225936,
-  "2023-01-08": 225960,
-  "2023-01-09": 226095,
-  "2023-01-10": 226208,
-  "2023-01-11": 226304,
-  "2023-01-12": 226400,
-  "2023-01-13": 226516,
-  "2023-01-14": 226711,
-  "2023-01-15": 226760,
-  "2023-01-16": 226852,
-  "2023-01-17": 226958,
-  "2023-01-18": 227058,
-  "2023-01-19": 227146,
-  "2023-01-20": 227246,
-  "2023-01-21": 227372,
-  "2023-01-22": 227463,
-  "2023-01-23": 227573,
-  "2023-01-24": 227664,
-  "2023-01-25": 227763,
-  "2023-01-26": 227880,
-  "2023-01-27": 227940,
-  "2023-01-28": 228085,
-  "2023-01-29": 228171,
-  "2023-01-30": 228247,
-  "2023-01-31": 228247,
-  "2023-02-01": 228411,
-  "2023-02-02": 228520,
-  "2023-02-03": 228621,
-  "2023-02-04": 228708,
-  "2023-02-05": 228817,
-  "2023-02-06": 228931,
-  "2023-02-07": 229039,
-  "2023-02-08": 229234,
-  "2023-02-09": 229234,
-  "2023-02-10": 229361,
-  "2023-02-11": 229482,
-  "2023-02-12": 229695,
-  "2023-02-13": 229798,
-  "2023-02-14": 229798,
-  "2023-02-15": 229895,
-  "2023-02-16": 230005,
-  "2023-02-17": 230116,
-  "2023-02-18": 230313,
-  "2023-02-19": 230342,
-  "2023-02-20": 230403,
-  "2023-02-21": 230488,
-  "2023-02-22": 230596,
-  "2023-02-23": 230703,
-  "2023-02-24": 230787,
-  "2023-02-25": 230907,
-  "2023-02-26": 230977,
-  "2023-02-27": 231161,
-  "2023-02-28": 231161,
-  "2023-03-01": 231263,
-  "2023-03-02": 231371,
-  "2023-03-03": 231474,
-  "2023-03-04": 231558,
-  "2023-03-05": 231767,
-  "2023-03-06": 231767,
-  "2023-03-07": 231849,
-  "2023-03-08": 231947,
-  "2023-03-09": 232055,
-  "2023-03-10": 232150,
-  "2023-03-11": 232222,
-  "2023-03-12": 232295,
-  "2023-03-13": 232364,
-  "2023-03-14": 232452,
-  "2023-03-15": 232553,
-  "2023-03-16": 232645,
-  "2023-03-17": 232645,
-  "2023-03-18": 232837,
-  "2023-03-19": 232954,
-  "2023-03-20": 233055,
-  "2023-03-21": 233150,
-  "2023-03-22": 233224,
-  "2023-03-23": 233293,
-  "2023-03-24": 233293,
-  "2023-03-25": 233469,
-  "2023-03-26": 233594,
-  "2023-03-27": 233670,
-  "2023-03-28": 233787,
-  "2023-03-29": 233879,
-  "2023-03-30": 234045,
-  "2023-03-31": 234045,
-  "2023-04-01": 234154,
-  "2023-04-02": 234279,
-  "2023-04-03": 234384,
-  "2023-04-04": 234493,
-  "2023-04-05": 234591,
-  "2023-04-06": 234731,
-  "2023-04-07": 234818,
-  "2023-04-09": 235032,
-  "2023-04-10": 235127,
-  "2023-04-11": 235302,
-  "2023-04-12": 235302,
-  "2023-04-13": 235396,
-  "2023-04-14": 235499,
-  "2023-04-15": 235597,
-  "2023-04-16": 235696,
-  "2023-04-17": 235802,
-  "2023-04-18": 235882,
-  "2023-04-19": 235962,
-  "2023-04-20": 236056,
-  "2023-04-21": 236144,
-  "2023-04-22": 236241,
-  "2023-04-23": 236352,
-  "2023-04-24": 236443,
-  "2023-04-25": 236518,
-  "2023-04-26": 236607,
-  "2023-04-27": 236707,
-  "2023-04-28": 236791,
-  "2023-04-29": 236884,
-  "2023-04-30": 236960,
-  "2023-05-01": 237008,
-  "2023-05-02": 237100,
-  "2023-05-03": 237150,
-  "2023-05-04": 237246,
-  "2023-05-05": 237330,
-  "2023-05-06": 237401,
-  "2023-05-07": 237465,
-  "2023-05-08": 237542,
-  "2023-05-09": 237636,
-  "2023-05-10": 237695,
-  "2023-05-11": 237784,
-  "2023-05-12": 237859,
-  "2023-05-13": 237977,
-  "2023-05-14": 238075,
-  "2023-05-15": 238137,
-  "2023-05-16": 238208,
-  "2023-05-17": 238291,
-  "2023-05-18": 238393,
-  "2023-05-19": 238460,
-  "2023-05-20": 238623,
-  "2023-05-21": 238623,
-  "2023-05-22": 238623,
-  "2023-05-23": 238828,
-  "2023-05-24": 238960,
-  "2023-05-25": 238980,
-  "2023-05-26": 239045,
-  "2023-05-27": 239113,
-  "2023-05-28": 239188,
-  "2023-05-29": 239188,
-  "2023-05-30": 239340,
-  "2023-05-31": 239412,
-  "2023-06-01": 239482,
-  "2023-06-02": 239544,
-  "2023-06-03": 239632,
-  "2023-06-04": 239717,
-  "2023-06-05": 239782,
-  "2023-06-06": 239851,
-  "2023-06-07": 239914,
-  "2023-06-08": 239985,
-  "2023-06-09": 240080,
-  "2023-06-10": 240194,
-  "2023-06-11": 240303,
-  "2023-06-12": 240403,
-  "2023-06-13": 240491,
-  "2023-06-14": 240573,
-  "2023-06-15": 240681,
-  "2023-06-16": 240782,
-  "2023-06-17": 240877,
-  "2023-06-18": 240985,
-  "2023-06-19": 241072,
-  "2023-06-20": 241155,
-  "2023-06-21": 241261,
-  "2023-06-22": 241363,
-  "2023-06-23": 241456,
-  "2023-06-24": 241541,
-  "2023-06-25": 241642,
-  "2023-06-26": 241731,
-  "2023-06-27": 241832,
-  "2023-06-28": 241930,
-  "2023-06-29": 242009,
-  "2023-06-30": 242089,
-  "2023-07-01": 242282,
-  "2023-07-02": 242282,
-  "2023-07-03": 242366,
-  "2023-07-04": 242452,
-  "2023-07-05": 242525,
-  "2023-07-06": 242674,
-  "2023-07-07": 242674,
-  "2023-07-08": 242739,
-  "2023-07-09": 242812,
-  "2023-07-10": 242879,
-  "2023-07-11": 242948,
-  "2023-07-12": 243036,
-  "2023-07-13": 243131,
-  "2023-07-14": 243223,
-  "2023-07-15": 243303,
-  "2023-07-16": 243424,
-  "2023-07-17": 243504,
-  "2023-07-18": 243587,
-  "2023-07-19": 243675,
-  "2023-07-20": 243755,
-  "2023-07-21": 243838,
-  "2023-07-22": 243931,
-  "2023-07-23": 244020,
-  "2023-07-24": 244093,
-  "2023-07-25": 244186,
-  "2023-07-26": 244272,
-  "2023-07-27": 244384,
-  "2023-07-28": 244489,
-  "2023-07-29": 244585,
-  "2023-07-30": 244682,
-  "2023-07-31": 244758,
-  "2023-08-01": 244855,
-  "2023-08-02": 244926,
-  "2023-08-03": 245016,
-  "2023-08-04": 245070,
-  "2023-08-05": 245153,
-  "2023-08-06": 245295,
-  "2023-08-07": 245295,
-  "2023-08-08": 245392,
-  "2023-08-09": 245474,
-  "2023-08-10": 245575,
-  "2023-08-11": 245671,
-  "2023-08-12": 245782,
-  "2023-08-13": 245782,
-  "2023-08-14": 245934,
-  "2023-08-15": 246018,
-  "2023-08-16": 246018,
-  "2023-08-17": 246179,
-  "2023-08-18": 246285,
-  "2023-08-19": 246379,
-  "2023-08-20": 246474,
-  "2023-08-21": 246527,
-  "2023-08-22": 246615,
-  "2023-08-23": 246690,
-  "2023-08-24": 246765,
-  "2023-08-25": 246819,
-  "2023-08-26": 246914,
-  "2023-08-27": 246987,
-  "2023-08-28": 247049,
-  "2023-08-29": 247129,
-  "2023-08-30": 247129,
-  "2023-08-31": 247251,
-  "2023-09-01": 247417,
-  "2023-09-02": 247417,
-  "2023-09-03": 247505,
-  "2023-09-04": 247505,
-  "2023-09-05": 247642,
-  "2023-09-06": 247692,
-  "2023-09-07": 247692,
-  "2023-09-08": 247692,
-  "2023-09-09": 247692,
-  "2023-09-10": 248090,
-  "2023-09-11": 248171,
-  "2023-09-12": 248171,
-  "2023-09-13": 248361,
-  "2023-09-14": 248361,
-  "2023-09-15": 248361,
-  "2023-09-16": 248651,
-  "2023-09-17": 248651,
-  "2023-09-18": 248651,
-  "2023-09-19": 248877,
-  "2023-09-20": 248877,
-  "2023-09-21": 248877,
-  "2023-09-22": 249116,
-  "2023-09-23": 249116,
-  "2023-09-24": 249116,
-  "2023-09-25": 249116,
-  "2023-09-26": 249430,
-  "2023-09-27": 249430,
-  "2023-09-28": 249430,
-  "2023-09-29": 249430,
-  "2023-09-30": 249430,
-  "2023-10-01": 249430,
-  "2023-10-02": 249893,
-  "2023-10-03": 249893,
-  "2023-10-04": 249893,
-  "2023-10-05": 250132,
-  "2023-10-06": 250221,
-  "2023-10-07": 250221,
-  "2023-10-08": 250221,
-  "2023-10-09": 250221,
-  "2023-10-10": 250221,
-  "2023-10-11": 250553,
-  "2023-10-12": 250553,
-  "2023-10-13": 250553,
-  "2023-10-14": 250553,
-  "2023-10-15": 250553,
-  "2023-10-16": 250553,
-  "2023-10-17": 250553,
-  "2023-10-18": 250553,
-  "2023-10-19": 250553,
-  "2023-10-20": 250553,
-  "2023-10-21": 250553,
-  "2023-10-22": 250553,
-  "2023-10-23": 250553,
-  "2023-10-24": 250553,
-  "2023-10-25": 250553,
-  "2023-10-26": 250553,
-  "2023-10-27": 250553,
-  "2023-10-28": 250553,
-  "2023-10-29": 250553,
-  "2023-10-30": 250553,
-  "2023-10-31": 250553,
-  "2023-11-01": 250553,
-  "2023-11-02": 250553,
-  "2023-11-03": 250553,
-  "2023-11-04": 250553,
-  "2023-11-05": 250553,
-  "2023-11-06": 250553,
-  "2023-11-07": 250553,
-  "2023-11-08": 250553,
-  "2023-11-09": 250553,
-  "2023-11-10": 250553,
-  "2023-11-11": 252930,
-  "2023-11-12": 252930,
-  "2023-11-13": 252930,
-  "2023-11-14": 252930,
-  "2023-11-15": 252930,
-  "2023-11-16": 252930,
-  "2023-11-17": 252930,
-  "2023-11-18": 252930,
-  "2023-11-19": 252930,
-  "2023-11-20": 252930,
-  "2023-11-21": 252930,
-  "2023-11-22": 252930,
-  "2023-11-23": 252930,
-  "2023-11-24": 252930,
-  "2023-11-25": 252930,
-  "2023-11-26": 252930,
-  "2023-11-27": 252930,
-  "2023-11-28": 252930,
-  "2023-11-29": 252930,
-  "2023-11-30": 252930,
-  "2023-12-01": 252930,
-  "2023-12-02": 252930,
-  "2023-12-03": 252930,
-  "2023-12-04": 252930,
-  "2023-12-05": 252930,
-  "2023-12-06": 252930,
-  "2023-12-07": 252930,
-  "2023-12-08": 252930,
-  "2023-12-09": 252930,
-  "2023-12-10": 252930,
-  "2023-12-11": 252930,
-  "2023-12-12": 252930,
-  "2023-12-13": 252930,
-  "2023-12-14": 255015,
-  "2023-12-15": 255071,
-  "2023-12-16": 255177,
-  "2023-12-17": 255243,
-  "2023-12-18": 255336,
-  "2023-12-19": 255377,
-  "2023-12-20": 255428,
-  "2023-12-21": 255477,
-  "2023-12-22": 255555,
-  "2023-12-23": 255620,
-  "2023-12-24": 255674,
-  "2023-12-25": 255711,
-  "2023-12-26": 255761,
-  "2023-12-27": 255821,
-  "2023-12-30": 255960,
-  "2023-12-31": 256029,
-  "2024-01-01": 256067,
-  "2024-01-02": 256161,
-  "2024-01-03": 256197
+  "2024-01-17": 256930,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "name": "This Is Megan Thee Stallion",
+  "tracks": [
+    {
+      "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182437,
+      "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+      "url": "https://open.spotify.com/track/2sQH02O2HBCPJCztBrCWNa"
+    },
+    {
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143957,
+      "name": "All Dat (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135866,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh"
+    },
+    {
+      "album": {
+        "name": "B.I.T.C.H.",
+        "url": "https://open.spotify.com/album/34LUTyhy4RZkfjvnF0gWu4"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183142,
+      "name": "B.I.T.C.H.",
+      "url": "https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN"
+    },
+    {
+      "album": {
+        "name": "Bad Bitches (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/4M6gPtD9TwGXqZLpAcUSqJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 152414,
+      "name": "Bad Bitches (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2hcqLu8Hhu2yJd5h4T4WDf"
+    },
+    {
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227395,
+      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
+    },
+    {
+      "album": {
+        "name": "Bestie (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3pt24FvlV5vumEgDAD6dPU"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 139678,
+      "name": "Bestie (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6nQdrzI6jqsIqYT7D6YLZW"
+    },
+    {
+      "album": {
+        "name": "Woptober II",
+        "url": "https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128995,
+      "name": "Big Booty (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI"
+    },
+    {
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214850,
+      "name": "Big Ole Freak",
+      "url": "https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171067,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
+    },
+    {
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "album": {
+        "name": "Butter (Megan Thee Stallion Remix)",
+        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164457,
+      "name": "Butter - Megan Thee Stallion Remix",
+      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
+    },
+    {
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176749,
+      "name": "Captain Hook",
+      "url": "https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192539,
+      "name": "Cash Shit (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170641,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty"
+    },
+    {
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168932,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
+    },
+    {
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177376,
+      "name": "Cocky Af",
+      "url": "https://open.spotify.com/track/7hdR7gLsPQ6EXGeghibSK3"
+    },
+    {
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222752,
+      "name": "Cognac Queen",
+      "url": "https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137983,
+      "name": "Cry Baby (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Hot Girl Meg",
+          "url": "https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 167370,
+      "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
+      "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
+    },
+    {
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Stop (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187940,
+      "name": "Don\u2019t Stop (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169420,
+      "name": "Eat It",
+      "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
+    },
+    {
+      "album": {
+        "name": "Fkn Around (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244048,
+      "name": "Fkn Around (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
+    },
+    {
+      "album": {
+        "name": "Flamin\u2019 Hottie",
+        "url": "https://open.spotify.com/album/0fusNOkKD56JhM15TAdXf4"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108493,
+      "name": "Flamin\u2019 Hottie",
+      "url": "https://open.spotify.com/track/3ZJmjmUTRCBA3UjNbFU5Ui"
+    },
+    {
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/4FeCh8gOiKw8syCtXysELk"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/0HIj0uo7zaFIpkzUIkDlmL"
+    },
+    {
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173798,
+      "name": "Freak Nasty",
+      "url": "https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 166906,
+      "name": "Freaky Girls (feat. SZA)",
+      "url": "https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+    },
+    {
+      "album": {
+        "name": "Girls in the Hood",
+        "url": "https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 154323,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154389,
+      "name": "Girls in the Hood",
+      "url": "https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 90096,
+      "name": "God's Favorite",
+      "url": "https://open.spotify.com/track/0gN98UfDCfSaMwfaRpbwCn"
+    },
+    {
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 173489,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/1xsP6AITcWNigBYBYVnVZw"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "album": {
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196281,
+      "name": "Hot Girl",
+      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
+    },
+    {
+      "album": {
+        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199427,
+      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+    },
+    {
+      "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165366,
+      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125030,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
+    },
+    {
+      "album": {
+        "name": "Lick (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 166875,
+      "name": "Lick (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Megan Monday Freestyle",
+      "url": "https://open.spotify.com/track/0jyOHNhaRUBeFG0U7wNLMp"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113429,
+      "name": "Megan's Piano",
+      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 215053,
+      "name": "NASTY (feat. Ashanti & Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 201006,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa"
+    },
+    {
+      "album": {
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT"
+    },
+    {
+      "album": {
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165745,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji"
+    },
+    {
+      "album": {
+        "name": "On Me (Remix) (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 135444,
+      "name": "On Me (Remix) (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
+    },
+    {
+      "album": {
+        "name": "Out Alpha The Alpha",
+        "url": "https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 226700,
+      "name": "Out Alpha The Alpha",
+      "url": "https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80816,
+      "name": "Outta Town Freestyle",
+      "url": "https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj"
+    },
+    {
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "album": {
+        "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
+        "url": "https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Big Mouth Cast",
+          "url": "https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141472,
+      "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
+      "url": "https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149703,
+      "name": "Realer",
+      "url": "https://open.spotify.com/track/3qVNNJ7f9RQeNR4iPIeS0c"
+    },
+    {
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 95851,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die (From \"Queen & Slim: The Soundtrack\")",
+        "url": "https://open.spotify.com/album/7Dfk55fGetXAV3iAYJqkrO"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "VickeeLo",
+          "url": "https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 123200,
+      "name": "Ride Or Die - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/6CYyxobulcKumfeV6e2I9g"
+    },
+    {
+      "album": {
+        "name": "Rich Slave",
+        "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "RNB (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 124802,
+      "name": "Running Up Freestyle",
+      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
+    },
+    {
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
+    },
+    {
+      "album": {
+        "name": "Savage Remix (feat. Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Savage Remix (feat. Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153645,
+      "name": "Scary (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131209,
+      "name": "Sex Talk",
+      "url": "https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc"
+    },
+    {
+      "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+    },
+    {
+      "album": {
+        "name": "Stalli (Freestyle)",
+        "url": "https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116611,
+      "name": "Stalli (Freestyle)",
+      "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
+    },
+    {
+      "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "album": {
+        "name": "Thot Shit",
+        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
+    },
+    {
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "Tuned In Freestyle",
+      "url": "https://open.spotify.com/track/5dfTPMTMjMAW1CwxSwzWb5"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154433,
+      "name": "Ungrateful (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+    },
+    {
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm"
 }

@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 293876,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/1vooOSbojid1cOODhA8xHA"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 173631,
       "name": "D & G",
       "url": "https://open.spotify.com/track/4UMYrNnq5QuaaxmblQ7ZEw"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
@@ -806,10 +806,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 166293,
       "name": "Ease My Mind (Come Over)",
       "url": "https://open.spotify.com/track/6wXDDAl8ZgZainRC5hH6O9"
+    },
+    {
+      "album": {
+        "name": "Ease My Mind (Come Over)",
+        "url": "https://open.spotify.com/album/4NZsJNiFYHP1NOkeOJOxNs"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175683,
+      "name": "Ease My Mind (Come Over)",
+      "url": "https://open.spotify.com/track/2EN8c0KmzQrwTt1iF05onr"
     },
     {
       "album": {
@@ -858,7 +876,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 265815,
       "name": "Ex For A Reason",
       "url": "https://open.spotify.com/track/2monfh34zxe4iLDnd9rbd9"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-17",
       "duration_ms": 139806,
       "name": "F&MU",
       "url": "https://open.spotify.com/track/4APhL75gOepEiuQblXcXau"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-13",
       "duration_ms": 231658,
       "name": "For the Night",
       "url": "https://open.spotify.com/track/7wElwiMmscxXgwUYt9Kxci"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-17",
       "duration_ms": 232787,
       "name": "Good Love (feat. Usher)",
       "url": "https://open.spotify.com/track/4RFWaMf8cmM7MciRGCYdtz"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 213610,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/17xePGxxXfP3iyvYBfk6Z0"
@@ -1364,6 +1382,24 @@
       "duration_ms": 156440,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/7BLP3w9ZIBBf4JeH9drYeW"
+    },
+    {
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 191233,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3zJIvDeV6LBrlYYWFh8Amu"
     },
     {
       "album": {
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-14",
       "duration_ms": 168397,
       "name": "Make It Hot",
       "url": "https://open.spotify.com/track/0QopfywHKJZH8bnt8Cj9qr"
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-14",
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -1830,6 +1866,24 @@
       "duration_ms": 225173,
       "name": "No Surprise (feat. Don Toliver & Bslime)",
       "url": "https://open.spotify.com/track/5yjcHfRu0LWD9XpvWabQGj"
+    },
+    {
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 211253,
+      "name": "Nobody's Love",
+      "url": "https://open.spotify.com/track/2ST72jD2KVe7f3fbcGyX1b"
     },
     {
       "album": {
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 141253,
       "name": "On Call",
       "url": "https://open.spotify.com/track/7rFaSZTvuNiTr5M02IyQaY"
@@ -1916,7 +1970,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 158791,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2Em0LcSp0Ai2jIA81H0p0l"
@@ -1942,6 +1996,24 @@
       "duration_ms": 225007,
       "name": "On Me (feat. Cardi B)",
       "url": "https://open.spotify.com/track/3DnZfpfe8wLeJgzc00gKeW"
+    },
+    {
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 245674,
+      "name": "Open (Passionate)",
+      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
     },
     {
       "album": {
@@ -2032,7 +2104,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
@@ -2279,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "Sex Lies (Official Video)",
+        "url": "https://open.spotify.com/album/3du8mU3ivya86S6bA7XTxu"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255018,
+      "name": "Sex Lies",
+      "url": "https://open.spotify.com/track/0c1CovChUEOKWT0pkj37PR"
+    },
+    {
+      "album": {
         "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
         "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
       },
@@ -2294,7 +2388,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
@@ -2342,7 +2436,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 208352,
       "name": "Shot & Wine",
       "url": "https://open.spotify.com/track/1M1k3Sxtf7u8Zj3eIzrJm0"
@@ -2364,7 +2458,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 209840,
       "name": "Shot & Wine",
       "url": "https://open.spotify.com/track/2qjy1hBtv5H2f6Adj3ZBP5"
@@ -2504,7 +2598,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/3JXF3LsUjyDIHjuwhXxdjo"
@@ -2526,7 +2620,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 215798,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/6LaTT2NL0tjLa5MeOKH02p"
@@ -2566,7 +2660,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 281985,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/6ISN7qvnXR0EdxE0l7vTRK"
@@ -2588,7 +2682,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 283950,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/4YDGIk0vg21LMfTq9hNlbW"
@@ -2762,7 +2856,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 181102,
       "name": "Type a Way (feat. Chris Brown & OG Parker)",
       "url": "https://open.spotify.com/track/3wtbl8uMml7VgxaDEvGCJ7"
@@ -2788,7 +2882,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 233151,
       "name": "Type a Way (feat. Chris Brown & OG Parker)",
       "url": "https://open.spotify.com/track/7dCKlvT7e1saJubndMfn18"
@@ -2858,7 +2952,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
@@ -2876,7 +2970,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 162751,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/2RaxPAWpOHyececTv2g8Ib"
@@ -2894,7 +2988,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163346,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L"

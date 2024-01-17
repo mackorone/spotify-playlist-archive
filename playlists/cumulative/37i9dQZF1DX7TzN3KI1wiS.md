@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-131 songs - 11 hr 31 min
+132 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Con Te](https://open.spotify.com/track/64ljNw7gZST4GHZZoczOM6) | [Melarmony](https://open.spotify.com/artist/2OfsaXGgK1Q0LkUhlhmXlB), [Anvia](https://open.spotify.com/artist/4SOxCqHZQzPAexcyrwTYom) | [Con Te](https://open.spotify.com/album/0zqTHTRQWqTr7oX83dr1kq) | 5:09 | 2023-12-13 |  |
 | [Dance With Me \- Mixed](https://open.spotify.com/track/4R2CPwLVEWTpDrY4mEPktq) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:19 | 2022-10-14 |  |
 | [Dead End Thrills](https://open.spotify.com/track/2Xmit6pfemEgNkcV9okUzH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2022-10-14 |  |
-| [Deep Water](https://open.spotify.com/track/6g8VPCJR5uLP3W40gi2Ctb) | [Ross Evans](https://open.spotify.com/artist/2BrHRNyq2sr6z7NYOlqf61), [Aya](https://open.spotify.com/artist/7vAiHwC7WYSWaSYLbXJaGs) | [Deep Water](https://open.spotify.com/album/16cv8zzY2Pummo6Kghq1lm) | 9:09 | 2022-10-14 |  |
+| [Deep Water](https://open.spotify.com/track/6YHojgvfl7qqBcj1OjTx2n) | [Ross Evans](https://open.spotify.com/artist/2BrHRNyq2sr6z7NYOlqf61), [AYA](https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF) | [Deep Water](https://open.spotify.com/album/50O7hmmqPXBzPV4OakXsyO) | 9:09 | 2023-12-13 |  |
+| [Deep Water](https://open.spotify.com/track/6g8VPCJR5uLP3W40gi2Ctb) | [Ross Evans](https://open.spotify.com/artist/2BrHRNyq2sr6z7NYOlqf61), [Aya](https://open.spotify.com/artist/7vAiHwC7WYSWaSYLbXJaGs) | [Deep Water](https://open.spotify.com/album/16cv8zzY2Pummo6Kghq1lm) | 9:09 | 2022-10-14 | 2024-01-04 |
 | [Devi](https://open.spotify.com/track/253Vy9tTPe2ZFLAv3DGKo0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Devi](https://open.spotify.com/album/5vHKGWsNrgEaoNIdw0pMvQ) | 2:51 | 2023-12-13 |  |
 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2022-10-14 |  |
 | [Dilemma \- Cosmicat Remix](https://open.spotify.com/track/6dv0ofGWY0YknytFY8YAaK) | [Yann Dulché](https://open.spotify.com/artist/3nwRuGy89k5VNpuGMQi8co), [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Dilemma](https://open.spotify.com/album/40GUVPdJL3pyqQSuCzetdp) | 6:38 | 2022-10-14 |  |

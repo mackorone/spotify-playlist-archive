@@ -4,7 +4,7 @@
 
 > de peda en peda me la llevo todo el fin
 
-188 songs - 11 hr 35 min
+189 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Todo el Amor Que Te Hache Falta](https://open.spotify.com/track/7fEeUt8PrjzMfAx4ABffhZ) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Un Hombre Solo](https://open.spotify.com/album/1ILCxlTPOkNcrgXxWz6zGj) | 5:20 | 2023-10-19 | 2023-12-02 |
 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 | 2023-01-18 | 2023-10-20 |
 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5Nt1fjQVCtqUiuZUj7Fo9o) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Desfile De Estrellas](https://open.spotify.com/album/12ctTcaJPIjPTMrYuZLuxn) | 2:40 | 2023-10-19 | 2023-12-02 |
-| [TRAKA](https://open.spotify.com/track/2UAmkhEPYWeFZQGNQja4WJ) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:10 | 2023-12-01 |  |
+| [TRAKA](https://open.spotify.com/track/2UAmkhEPYWeFZQGNQja4WJ) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:10 | 2023-12-01 | 2024-01-11 |
+| [TRAKA](https://open.spotify.com/track/2oPR7Jvuo5OkT3NYS1YWYC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL REY DEL DEMBOW](https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko) | 2:10 | 2023-12-01 |  |
 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 | 2023-10-19 | 2023-12-02 |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2023-01-18 | 2023-10-20 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2023-01-18 | 2023-10-20 |

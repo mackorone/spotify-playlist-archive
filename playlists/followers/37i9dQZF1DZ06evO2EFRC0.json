@@ -1,275 +1,1187 @@
 {
-  "2023-04-03": 85629,
-  "2023-04-04": 85662,
-  "2023-04-05": 85692,
-  "2023-04-06": 85715,
-  "2023-04-07": 85748,
-  "2023-04-09": 85810,
-  "2023-04-10": 85839,
-  "2023-04-11": 85901,
-  "2023-04-12": 85901,
-  "2023-04-13": 85925,
-  "2023-04-14": 85950,
-  "2023-04-15": 85970,
-  "2023-04-16": 85994,
-  "2023-04-17": 86014,
-  "2023-04-18": 86032,
-  "2023-04-19": 86059,
-  "2023-04-20": 86075,
-  "2023-04-21": 86096,
-  "2023-04-22": 86107,
-  "2023-04-23": 86149,
-  "2023-04-24": 86165,
-  "2023-04-25": 86193,
-  "2023-04-26": 86221,
-  "2023-04-27": 86235,
-  "2023-04-28": 86260,
-  "2023-04-29": 86280,
-  "2023-04-30": 86305,
-  "2023-05-01": 86322,
-  "2023-05-02": 86343,
-  "2023-05-03": 86367,
-  "2023-05-04": 86391,
-  "2023-05-05": 86410,
-  "2023-05-06": 86433,
-  "2023-05-07": 86460,
-  "2023-05-08": 86486,
-  "2023-05-09": 86512,
-  "2023-05-10": 86535,
-  "2023-05-11": 86556,
-  "2023-05-12": 86574,
-  "2023-05-13": 86587,
-  "2023-05-14": 86606,
-  "2023-05-15": 86629,
-  "2023-05-16": 86658,
-  "2023-05-17": 86678,
-  "2023-05-18": 86707,
-  "2023-05-19": 86724,
-  "2023-05-20": 86761,
-  "2023-05-21": 86761,
-  "2023-05-22": 86761,
-  "2023-05-23": 86800,
-  "2023-05-24": 86830,
-  "2023-05-25": 86833,
-  "2023-05-26": 86866,
-  "2023-05-27": 86878,
-  "2023-05-28": 86909,
-  "2023-05-29": 86909,
-  "2023-05-30": 86948,
-  "2023-05-31": 86970,
-  "2023-06-01": 87000,
-  "2023-06-02": 87026,
-  "2023-06-03": 87048,
-  "2023-06-04": 87069,
-  "2023-06-05": 87078,
-  "2023-06-06": 87111,
-  "2023-06-07": 87136,
-  "2023-06-08": 87168,
-  "2023-06-09": 87194,
-  "2023-06-10": 87227,
-  "2023-06-11": 87254,
-  "2023-06-12": 87278,
-  "2023-06-13": 87307,
-  "2023-06-14": 87328,
-  "2023-06-15": 87358,
-  "2023-06-16": 87386,
-  "2023-06-17": 87408,
-  "2023-06-18": 87426,
-  "2023-06-19": 87443,
-  "2023-06-20": 87465,
-  "2023-06-21": 87485,
-  "2023-06-22": 87504,
-  "2023-06-23": 87529,
-  "2023-06-24": 87546,
-  "2023-06-25": 87570,
-  "2023-06-26": 87589,
-  "2023-06-27": 87609,
-  "2023-06-28": 87636,
-  "2023-06-29": 87671,
-  "2023-06-30": 87686,
-  "2023-07-01": 87734,
-  "2023-07-02": 87734,
-  "2023-07-03": 87746,
-  "2023-07-04": 87759,
-  "2023-07-05": 87791,
-  "2023-07-06": 87830,
-  "2023-07-07": 87830,
-  "2023-07-08": 87830,
-  "2023-07-09": 87883,
-  "2023-07-10": 87900,
-  "2023-07-11": 87918,
-  "2023-07-12": 87947,
-  "2023-07-13": 87975,
-  "2023-07-14": 87998,
-  "2023-07-15": 88008,
-  "2023-07-16": 88039,
-  "2023-07-17": 88054,
-  "2023-07-18": 88078,
-  "2023-07-19": 88111,
-  "2023-07-20": 88134,
-  "2023-07-21": 88159,
-  "2023-07-22": 88193,
-  "2023-07-23": 88207,
-  "2023-07-24": 88244,
-  "2023-07-25": 88269,
-  "2023-07-26": 88283,
-  "2023-07-27": 88328,
-  "2023-07-28": 88356,
-  "2023-07-29": 88386,
-  "2023-07-30": 88400,
-  "2023-07-31": 88414,
-  "2023-08-01": 88434,
-  "2023-08-02": 88456,
-  "2023-08-03": 88479,
-  "2023-08-04": 88489,
-  "2023-08-05": 88515,
-  "2023-08-06": 88559,
-  "2023-08-07": 88559,
-  "2023-08-08": 88585,
-  "2023-08-09": 88612,
-  "2023-08-10": 88632,
-  "2023-08-11": 88653,
-  "2023-08-12": 88653,
-  "2023-08-13": 88653,
-  "2023-08-14": 88741,
-  "2023-08-15": 88741,
-  "2023-08-16": 88741,
-  "2023-08-17": 88741,
-  "2023-08-18": 88741,
-  "2023-08-19": 88741,
-  "2023-08-20": 88879,
-  "2023-08-21": 88879,
-  "2023-08-22": 88933,
-  "2023-08-23": 88933,
-  "2023-08-24": 88933,
-  "2023-08-25": 88933,
-  "2023-08-26": 89044,
-  "2023-08-27": 89044,
-  "2023-08-28": 89105,
-  "2023-08-29": 89105,
-  "2023-08-30": 89105,
-  "2023-08-31": 89181,
-  "2023-09-01": 89207,
-  "2023-09-02": 89207,
-  "2023-09-03": 89260,
-  "2023-09-04": 89260,
-  "2023-09-05": 89260,
-  "2023-09-06": 89317,
-  "2023-09-07": 89317,
-  "2023-09-08": 89317,
-  "2023-09-09": 89317,
-  "2023-09-10": 89414,
-  "2023-09-11": 89414,
-  "2023-09-12": 89414,
-  "2023-09-13": 89476,
-  "2023-09-14": 89476,
-  "2023-09-15": 89476,
-  "2023-09-16": 89549,
-  "2023-09-17": 89549,
-  "2023-09-18": 89549,
-  "2023-09-19": 89616,
-  "2023-09-20": 89616,
-  "2023-09-21": 89616,
-  "2023-09-22": 89682,
-  "2023-09-23": 89682,
-  "2023-09-24": 89682,
-  "2023-09-25": 89682,
-  "2023-09-26": 89778,
-  "2023-09-27": 89778,
-  "2023-09-28": 89778,
-  "2023-09-29": 89778,
-  "2023-09-30": 89778,
-  "2023-10-01": 89778,
-  "2023-10-02": 89778,
-  "2023-10-03": 89778,
-  "2023-10-04": 89778,
-  "2023-10-05": 89778,
-  "2023-10-06": 89778,
-  "2023-10-07": 89778,
-  "2023-10-08": 89778,
-  "2023-10-09": 89778,
-  "2023-10-10": 89778,
-  "2023-10-11": 89950,
-  "2023-10-12": 89950,
-  "2023-10-13": 89950,
-  "2023-10-14": 89950,
-  "2023-10-15": 89950,
-  "2023-10-16": 89950,
-  "2023-10-17": 89950,
-  "2023-10-18": 89950,
-  "2023-10-19": 89950,
-  "2023-10-20": 89950,
-  "2023-10-21": 89950,
-  "2023-10-22": 89950,
-  "2023-10-23": 89950,
-  "2023-10-24": 89950,
-  "2023-10-25": 89950,
-  "2023-10-26": 89950,
-  "2023-10-27": 89950,
-  "2023-10-28": 89950,
-  "2023-10-29": 89950,
-  "2023-10-30": 89950,
-  "2023-10-31": 89950,
-  "2023-11-01": 89950,
-  "2023-11-02": 89950,
-  "2023-11-03": 89950,
-  "2023-11-04": 89950,
-  "2023-11-05": 89950,
-  "2023-11-06": 89950,
-  "2023-11-07": 89950,
-  "2023-11-08": 89950,
-  "2023-11-09": 89950,
-  "2023-11-10": 89950,
-  "2023-11-11": 90339,
-  "2023-11-12": 90339,
-  "2023-11-13": 90339,
-  "2023-11-14": 90339,
-  "2023-11-15": 90339,
-  "2023-11-16": 90339,
-  "2023-11-17": 90339,
-  "2023-11-18": 90339,
-  "2023-11-19": 90339,
-  "2023-11-20": 90339,
-  "2023-11-21": 90339,
-  "2023-11-22": 90339,
-  "2023-11-23": 90339,
-  "2023-11-24": 90339,
-  "2023-11-25": 90339,
-  "2023-11-26": 90339,
-  "2023-11-27": 90339,
-  "2023-11-28": 90339,
-  "2023-11-29": 90339,
-  "2023-11-30": 90339,
-  "2023-12-01": 90339,
-  "2023-12-02": 90339,
-  "2023-12-03": 90339,
-  "2023-12-04": 90339,
-  "2023-12-05": 90339,
-  "2023-12-06": 90339,
-  "2023-12-07": 90339,
-  "2023-12-08": 90339,
-  "2023-12-09": 90339,
-  "2023-12-10": 90339,
-  "2023-12-11": 90339,
-  "2023-12-12": 90339,
-  "2023-12-13": 90339,
-  "2023-12-14": 90853,
-  "2023-12-15": 90862,
-  "2023-12-16": 90872,
-  "2023-12-17": 90889,
-  "2023-12-18": 90899,
-  "2023-12-19": 90920,
-  "2023-12-20": 90934,
-  "2023-12-21": 90951,
-  "2023-12-22": 90967,
-  "2023-12-23": 90980,
-  "2023-12-24": 90989,
-  "2023-12-25": 91004,
-  "2023-12-26": 91013,
-  "2023-12-27": 91026,
-  "2023-12-30": 91064,
-  "2023-12-31": 91078,
-  "2024-01-01": 91090,
-  "2024-01-02": 91111,
-  "2024-01-03": 91122
+  "2024-01-17": 90611,
+  "date_first_scraped": "2023-04-03",
+  "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
+  "name": "This Is Marcos Witt",
+  "tracks": [
+    {
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI"
+    },
+    {
+      "album": {
+        "name": "Ayer y Hoy",
+        "url": "https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362320,
+      "name": "A Ti & Temprano Yo Te Buscar\u00e9 (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308253,
+      "name": "Abre hoy los cielos",
+      "url": "https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG"
+    },
+    {
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250462,
+      "name": "Acu\u00e9rdate Oh Se\u00f1or",
+      "url": "https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa"
+    },
+    {
+      "album": {
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
+    },
+    {
+      "album": {
+        "name": "Sigues Siendo Dios",
+        "url": "https://open.spotify.com/album/293bvHB3kPSoXVHbar9zqb"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Alabemos",
+      "url": "https://open.spotify.com/track/3nv4qhv3WXpIzOpRryt7O5"
+    },
+    {
+      "album": {
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481175,
+      "name": "Damos honor a Ti feat.Danilo Montero",
+      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236042,
+      "name": "De Gloria en Gloria",
+      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
+    },
+    {
+      "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 651080,
+      "name": "Dios De Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
+    },
+    {
+      "album": {
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437460,
+      "name": "Dios ha sido bueno",
+      "url": "https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427066,
+      "name": "Dios imparable",
+      "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
+    },
+    {
+      "album": {
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+    },
+    {
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439484,
+      "name": "Enciende Una Luz",
+      "url": "https://open.spotify.com/track/7E47DjR4JzYcdpI5PxR7zn"
+    },
+    {
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 210073,
+      "name": "Eres Mi Pastor",
+      "url": "https://open.spotify.com/track/5oYliUaNFTOrnWwGt3zWC0"
+    },
+    {
+      "album": {
+        "name": "Eres Rey",
+        "url": "https://open.spotify.com/album/5IElr9Pfprf2TElNtY5DNr"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349801,
+      "name": "Eres Rey",
+      "url": "https://open.spotify.com/track/5fEOyBNgi2VQvlISgerFEf"
+    },
+    {
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366158,
+      "name": "Escucharte Hablar",
+      "url": "https://open.spotify.com/track/1Jsr3olWK54xIVnoSJvhy6"
+    },
+    {
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/53G9t1WKQ0NojEOamAt4lo"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305626,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/6UdpT2mTtU24VKgTPQATRM"
+    },
+    {
+      "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298259,
+      "name": "Hay Un Nombre",
+      "url": "https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240953,
+      "name": "Heme Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335560,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 194800,
+      "name": "Hermoso Eres",
+      "url": "https://open.spotify.com/track/1ozcDVKomPTLQunDngGPRB"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+    },
+    {
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 389373,
+      "name": "Jes\u00fas salva",
+      "url": "https://open.spotify.com/track/2bTmFo7fvZ3zgxPTqTk1T1"
+    },
+    {
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Harold y Elena",
+          "url": "https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 321826,
+      "name": "Ll\u00e9name (feat. Harold y Elena)",
+      "url": "https://open.spotify.com/track/6vCITtjS1zmPVZP450q4lU"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
+    },
+    {
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 345521,
+      "name": "M\u00e1s Que Palabras",
+      "url": "https://open.spotify.com/track/3AjorlLgzd2a2FOTUuoGLZ"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270920,
+      "name": "No Hay Pero Va a Sobrar",
+      "url": "https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn"
+    },
+    {
+      "album": {
+        "name": "Ser Humano",
+        "url": "https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270695,
+      "name": "Nunca Me Fallas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178233,
+      "name": "Perdonados",
+      "url": "https://open.spotify.com/track/3L0pj40jXUDOX3p1OmZqvQ"
+    },
+    {
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409547,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/0MMGKqbwCW0VusNuiuuK4f"
+    },
+    {
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474546,
+      "name": "Poderoso Dios",
+      "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167758,
+      "name": "Porque para Siempre",
+      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+    },
+    {
+      "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268565,
+      "name": "Quiero Levantar mis Manos",
+      "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
+    },
+    {
+      "album": {
+        "name": "Te Exaltamos",
+        "url": "https://open.spotify.com/album/3YyW3KUNoyXBkXkYTvC9EB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 160493,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/4mx6VrZG5VTYrAo9wjocJg"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+    },
+    {
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372035,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
+    },
+    {
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412708,
+      "name": "Sananos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
+    },
+    {
+      "album": {
+        "name": "Santo Esp\u00edritu",
+        "url": "https://open.spotify.com/album/1U3WKVZB7o268YPH48OMj7"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 229542,
+      "name": "Santo Esp\u00edritu",
+      "url": "https://open.spotify.com/track/7pTBwEInekrkhZwsbow2Fa"
+    },
+    {
+      "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "album": {
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371788,
+      "name": "Si puedes creer",
+      "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
+    },
+    {
+      "album": {
+        "name": "Sigues Siendo Dios (En Vivo)",
+        "url": "https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286933,
+      "name": "Sigues Siendo Dios - En Vivo",
+      "url": "https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX"
+    },
+    {
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
+    },
+    {
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311706,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321619,
+      "name": "Somos el pueblo de Dios",
+      "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
+    },
+    {
+      "album": {
+        "name": "Su Poder",
+        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302587,
+      "name": "Su Poder",
+      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
+    },
+    {
+      "album": {
+        "name": "Already Done",
+        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 281528,
+      "name": "Surrounded / Rodeado (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/6Mfamn5B8wYAkz8zFZRfVv"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Temprano Yo te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW"
+    },
+    {
+      "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Adriana Bottina",
+          "url": "https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO"
+        },
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        },
+        {
+          "name": "Lorelei Taron",
+          "url": "https://open.spotify.com/artist/4BgKgow0sYMYbeCwch19Bo"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Tu Amistad Me Hace Bien - En Vivo",
+      "url": "https://open.spotify.com/track/7gUJ7lxBwciZpkohIRt5ph"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
+    },
+    {
+      "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Steven Richards",
+          "url": "https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286767,
+      "name": "Tu Iglesia",
+      "url": "https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n (Kelly Spyker)",
+        "url": "https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218521,
+      "name": "Un Mill\u00f3n - Kelly Spyker",
+      "url": "https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ"
+    },
+    {
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248736,
+      "name": "Vivir\u00e9 (Salmo 118)",
+      "url": "https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt"
+    },
+    {
+      "album": {
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf"
+      },
+      "artists": [
+        {
+          "name": "T-Bone",
+          "url": "https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 303576,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Yo te Busco",
+      "url": "https://open.spotify.com/track/4m9mDIdKZuiV1RWKQTQe6P"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0"
 }

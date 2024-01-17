@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Anaïs Cardot
 
-84 songs - 4 hr 11 min
+86 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,14 +39,14 @@
 | [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 |  |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 | 2023-12-08 |
 | [GOLDEN WAY!](https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [GOLDEN WAY!](https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE) | 3:22 | 2023-10-19 | 2023-12-22 |
-| [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 |  |
+| [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 | 2024-01-05 |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 |  |
 | [J'essaie](https://open.spotify.com/track/0fKIZJgjCnOsiiQTJ8FCca) | [Anagramms](https://open.spotify.com/artist/34qei9EEgV4Pvtv1HNGtFL) | [J'essaie](https://open.spotify.com/album/0Dongpn3SfRAb9B5uHTVdX) | 2:45 | 2023-11-30 | 2023-12-22 |
 | [Je me souviens de tout](https://open.spotify.com/track/45I253r1lTUbsOFwHWVe7K) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:27 | 2023-09-28 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 | 2023-11-09 |  |
 | [Karma](https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Genesis](https://open.spotify.com/album/0yC6cKV2omFGF9jXCWGIBc) | 2:35 | 2023-09-28 | 2023-10-27 |
 | [L'amour dure 6 ans](https://open.spotify.com/track/704opmBSscvN3R4nstMKCE) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [L'amour dure 6 ans](https://open.spotify.com/album/69XMsbl3gXXkTWkxdUv7Ys) | 2:54 | 2023-09-28 | 2023-10-27 |
-| [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 | 2023-09-28 |  |
+| [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 | 2023-09-28 | 2024-01-12 |
 | [La mienne](https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 3:32 | 2023-09-28 |  |
 | [Le code](https://open.spotify.com/track/74SKS91bfQHLomV8rcErwE) | [Myth Syzer](https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Bisous](https://open.spotify.com/album/34ADaayLcTthIfMqRnbx2t) | 4:40 | 2023-09-28 |  |
 | [Lie \(feat\. Sonik\) \- Version acoustique](https://open.spotify.com/track/66wbCeD09YB0yZ4Y4Ozt12) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [Lie \(feat\. Sonik\) \[Version acoustique\]](https://open.spotify.com/album/4jYYbwybc9rqoRMkICJIkt) | 2:56 | 2023-09-28 | 2023-10-27 |
@@ -83,6 +83,7 @@
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 |  |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 |  |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 | 2023-11-10 |
+| [Ton masque est tombé](https://open.spotify.com/track/6XGUabUpTYkuj3Fkzmllkh) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Ton masque est tombé](https://open.spotify.com/album/125lRuq52JJvZiIcp4BCAZ) | 3:23 | 2024-01-11 |  |
 | [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 | 2023-11-23 |  |
 | [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 | 2023-11-24 |
@@ -92,5 +93,6 @@
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2023-09-28 | 2023-11-17 |
 | [Viano](https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Viano](https://open.spotify.com/album/7dpcQRInh1WFjqcE3Llvtb) | 2:46 | 2023-10-12 |  |
 | [Violence](https://open.spotify.com/track/5B6u3uSnl7aBwOrwpLxsMJ) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Jusqu'à l'aube](https://open.spotify.com/album/3cuZcv4o0IuNuxPBiq0axn) | 3:08 | 2023-09-28 |  |
+| [Âme soeur \(feat\. Enchantée Julia\)](https://open.spotify.com/track/0IiSb11VIooz2JYGDBFXo8) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [BO Y Z Vol.2](https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW) | 3:16 | 2024-01-04 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

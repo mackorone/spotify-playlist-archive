@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Aditya A",
+  "description": "Hindi hai, Indie hai! Cover- Hansika Pareek",
   "name": "hIndies",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 187428,
       "name": "Baawra Mann",
       "url": "https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 171428,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 183636,
       "name": "Dil Teri Raah",
       "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 134199,
       "name": "Feel You Now",
       "url": "https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 161586,
       "name": "Jaane Anjaane",
       "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 202105,
       "name": "Khwaab - Reprise",
       "url": "https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP"
@@ -1682,6 +1682,24 @@
       "duration_ms": 184207,
       "name": "Leher",
       "url": "https://open.spotify.com/track/2MgzGOwfEfWfi5W2EQwQaQ"
+    },
+    {
+      "album": {
+        "name": "Leher",
+        "url": "https://open.spotify.com/album/24ZolL850DRyOSTBHyvlg7"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "LEHER",
+      "url": "https://open.spotify.com/track/5A3ZGIR9P4CoouQ73fGDRD"
     },
     {
       "album": {
@@ -2207,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Piya Se Mila De",
+        "url": "https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2"
+      },
+      "artists": [
+        {
+          "name": "Ujwal Nagar",
+          "url": "https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc"
+        },
+        {
+          "name": "Anindo Bose",
+          "url": "https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266086,
+      "name": "Piya Se Mila De",
+      "url": "https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo"
+    },
+    {
+      "album": {
         "name": "Pukaroge",
         "url": "https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq"
       },
@@ -2487,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190098,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
+    },
+    {
+      "album": {
         "name": "Saj Ke",
         "url": "https://open.spotify.com/album/73JIHgoqQgfNCgEfTxaIId"
       },
@@ -2590,6 +2648,32 @@
       "duration_ms": 180250,
       "name": "Silvatein",
       "url": "https://open.spotify.com/track/5OeYzvWGIBIVDImJkgooY3"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/33ojFXiYyocQVSRHkQBar9"
+      },
+      "artists": [
+        {
+          "name": "Sayuj Jain",
+          "url": "https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO"
+        },
+        {
+          "name": "Reverse Prodigy",
+          "url": "https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4k5iSIwG2halVz8FHTaDsQ"
     },
     {
       "album": {
@@ -2878,7 +2962,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 171988,
       "name": "Tujhsa Koi",
       "url": "https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc"
@@ -3016,6 +3100,32 @@
       "duration_ms": 191460,
       "name": "Woh Raat",
       "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
+    },
+    {
+      "album": {
+        "name": "Woh Saat Din",
+        "url": "https://open.spotify.com/album/58oqmHGR8kmIilEkiKzuAj"
+      },
+      "artists": [
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Woh Saat Din",
+      "url": "https://open.spotify.com/track/4fzWJzRguQ0M5oWimQTc74"
     },
     {
       "album": {

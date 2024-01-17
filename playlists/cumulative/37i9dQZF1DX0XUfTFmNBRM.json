@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 126133,
       "name": "Blur",
       "url": "https://open.spotify.com/track/4zmdSbVzs06VyVRlmc5QTl"
@@ -2532,6 +2532,14 @@
           "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         },
@@ -2546,10 +2554,36 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 169686,
       "name": "Ishq Jaisa Kuch (From \"Fighter\")",
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM"
+    },
+    {
+      "album": {
+        "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
+      },
+      "artists": [
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221323,
+      "name": "Ishq Nachaawe - From \"Kho Gaye Hum Kahan\"",
+      "url": "https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6"
     },
     {
       "album": {
@@ -3528,7 +3562,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 222600,
       "name": "Lo Aayi Barsaat",
       "url": "https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ"
@@ -3587,6 +3621,36 @@
     },
     {
       "album": {
+        "name": "Dunki",
+        "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222997,
+      "name": "Lutt Putt Gaya",
+      "url": "https://open.spotify.com/track/2pIoyDWZV5OSW0xd6n41xV"
+    },
+    {
+      "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
       },
@@ -3598,7 +3662,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 194653,
       "name": "Maan Meri Jaan",
       "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
@@ -4308,7 +4372,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
@@ -5576,6 +5640,24 @@
       "duration_ms": 258019,
       "name": "Ruaan (From \"Tiger 3\")",
       "url": "https://open.spotify.com/track/0Qo75eJMY72e5IQJt0Dz9z"
+    },
+    {
+      "album": {
+        "name": "Saajan Ve",
+        "url": "https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171473,
+      "name": "Saajan Ve",
+      "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
     },
     {
       "album": {

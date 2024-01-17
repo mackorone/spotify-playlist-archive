@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Walls & Bruses",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: No Te Va Gustar & Zoe Gotusso",
   "name": "Rock Total",
   "tracks": [
     {
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Amor de Mentiras",
+        "url": "https://open.spotify.com/album/4NTHNdieD0J2ZGf09eG7uw"
+      },
+      "artists": [
+        {
+          "name": "Vortxz",
+          "url": "https://open.spotify.com/artist/1IRl7g7pauvhROf85dKAP8"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227922,
+      "name": "Amor de Mentiras",
+      "url": "https://open.spotify.com/track/3tR5W1b5FKefjEMIcalMND"
+    },
+    {
+      "album": {
         "name": "Amores Mios (Poca Madre Dancing Club)",
         "url": "https://open.spotify.com/album/09NRH51HivrhkAkIedt5Gu"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 175867,
       "name": "Cansado de estar triste",
       "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "Desp\u00eddete Bien",
       "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 173000,
       "name": "FLASHBACKS",
       "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
@@ -1653,6 +1671,36 @@
     },
     {
       "album": {
+        "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
+        "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        },
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215394,
+      "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
+      "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "album": {
         "name": "F\u00fatbol Rock",
         "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
@@ -1704,7 +1752,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
@@ -2318,7 +2366,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
@@ -2412,6 +2460,28 @@
       "duration_ms": 215800,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/04I96rrYFcOt1WprFHxFZg"
+    },
+    {
+      "album": {
+        "name": "Me Cans\u00e9",
+        "url": "https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199457,
+      "name": "Me Cans\u00e9",
+      "url": "https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z"
     },
     {
       "album": {
@@ -2688,7 +2758,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
@@ -2742,7 +2812,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 179891,
       "name": "M\u00e1s Tuyo",
       "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
@@ -2924,6 +2994,24 @@
       "duration_ms": 173436,
       "name": "No me preguntes por qu\u00e9",
       "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
+    },
+    {
+      "album": {
+        "name": "NO ME QUIERO PEGAR",
+        "url": "https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142349,
+      "name": "NO ME QUIERO PEGAR",
+      "url": "https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i"
     },
     {
       "album": {
@@ -4600,6 +4688,28 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+    },
+    {
+      "album": {
+        "name": "Una sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "Una sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 107177,
+  "num_followers": 107389,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWJjZDA0OGM5Nzk4ZTY3ODM4ZDAwNzcyNmQ2NDdjODU1Yzk1NzRl",
+  "snapshot_id": "MCxhOGNkMmRjNjI2NmYyMmRlYjdlZWMzMTg5YjI1OTY2MTFhY2IwOWFi",
   "tracks": [
     {
       "added_at": "2023-12-22 23:49:37",
@@ -63,38 +63,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 183019,
-      "name": "Costumbres Argentinas - En Vivo",
-      "url": "https://open.spotify.com/track/3fMYqdMKH84KeTnSuFi4Xf"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Veinticirco La Gira (En Vivo)",
-        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 249742,
-      "name": "Kil\u00f3metros - En Vivo",
-      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
@@ -115,6 +83,22 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
+        "name": "Veinticirco La Gira (En Vivo)",
+        "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 249742,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
         "name": "El Ultimo Concierto B (Remastered)",
         "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 291373,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Vivo Gran Rex",
+        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
+      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -147,18 +147,22 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Vivo Gran Rex",
-        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
+        "name": "Spinetta y Las Bandas Eternas",
+        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 250426,
-      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
-      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
+      "duration_ms": 196453,
+      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -243,38 +247,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 228144,
-      "name": "Toro y Pampa - En Vivo",
-      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Spinetta y Las Bandas Eternas",
-        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
+      "duration_ms": 195293,
+      "name": "Costumbres Argentinas - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/0oY0Cqv00yVnjEZNXWBPti"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -295,26 +279,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Rezando Solo (En Vivo)",
-        "url": "https://open.spotify.com/album/6xU4VN8x2AImGFY93l5c8A"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 330428,
-      "name": "Rezando Solo - En Vivo",
-      "url": "https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -331,6 +295,22 @@
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "Toro y Pampa - En Vivo",
+      "url": "https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -371,22 +351,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "El Cintur\u00f3n Gris (En Vivo)",
-        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "El Cintur\u00f3n Gris - En Vivo",
-      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Gira Me Ver\u00e1s Volver",
         "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
@@ -403,54 +367,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Huracanes en Luna Plateada (En Vivo)",
-        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 442826,
-      "name": "Pensar en Nada - En Vivo",
-      "url": "https://open.spotify.com/track/1vbuhtvcvHBsbdFJgyZHCu"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
-        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 294784,
-      "name": "Savia - Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Don Lucero",
-        "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Fina Ropa Blanca",
-      "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -471,18 +399,38 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "El regreso",
-        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+        "name": "Rezando Solo (En Vivo)",
+        "url": "https://open.spotify.com/album/6dNrJDGutmlHQ4rClUm1l6"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 233213,
-      "name": "Te quiero igual - En directo 2005",
-      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
+      "duration_ms": 330428,
+      "name": "Rezando Solo - En Vivo",
+      "url": "https://open.spotify.com/track/2htDNRzoGMhGOn53GPvLUy"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Los Lun\u00e1ticos Planes de una Mariposa Incandescente (Vivo en Luna Park)",
+        "url": "https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 294784,
+      "name": "Savia - Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -503,18 +451,34 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+        "name": "Don Lucero",
+        "url": "https://open.spotify.com/album/4L5xTcKgy8CrAc2H1kN9VY"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 432680,
-      "name": "Al Lado Del Camino",
-      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
+      "duration_ms": 316040,
+      "name": "Fina Ropa Blanca",
+      "url": "https://open.spotify.com/track/46uMIpDYQBG6iSHDl5y2ft"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "El regreso",
+        "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 233213,
+      "name": "Te quiero igual - En directo 2005",
+      "url": "https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -535,34 +499,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Ya No Est\u00e1s - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
+      "duration_ms": 432680,
+      "name": "Al Lado Del Camino",
+      "url": "https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -583,6 +531,22 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
         "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
         "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
       },
@@ -595,6 +559,22 @@
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Ya No Est\u00e1s - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -663,34 +643,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Repuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Irresponsables - En Vivo",
-      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -727,50 +691,50 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+        "name": "Repuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+      "duration_ms": 164933,
+      "name": "Irresponsables - En Vivo",
+      "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
     },
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
       "artists": [
         {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Bailando en el infierno (En Vivo)",
-        "url": "https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l"
+        "name": "Huracanes En Luna Plateada",
+        "url": "https://open.spotify.com/album/0ZpWjfD5LMjMJvrCdC7P3J"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 315250,
-      "name": "Bailando en el infierno - En Vivo",
-      "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
+      "duration_ms": 442826,
+      "name": "Pensar en Nada",
+      "url": "https://open.spotify.com/track/1kfht0wfcJrQwuCtqzMzfH"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -803,6 +767,22 @@
       "duration_ms": 291139,
       "name": "Banda de Garage",
       "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -863,18 +843,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
-        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
       "artists": [
         {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 244222,
-      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
-      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -895,18 +875,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
+        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+      "duration_ms": 244222,
+      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
+      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -927,38 +907,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 461266,
-      "name": "Todo un Palo - En Vivo",
-      "url": "https://open.spotify.com/track/2Cozh3ZhCsatIz9sWk59Y8"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Nada Salvaje (En Vivo Estadio Obras)",
-        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 278984,
-      "name": "Nada Salvaje (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -979,34 +939,34 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+        "name": "Bailando en el infierno (En Vivo)",
+        "url": "https://open.spotify.com/album/1trxlnUc5BXdYd2TTX8Y6l"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
+      "duration_ms": 315250,
+      "name": "Bailando en el infierno - En Vivo",
+      "url": "https://open.spotify.com/track/46rlMCKqElZwLwMyUO1k0Q"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1031,22 +991,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Luces (En Vivo Luna Park 2006)",
         "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
@@ -1059,6 +1003,26 @@
       "duration_ms": 163346,
       "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
       "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Nada Salvaje (En Vivo Estadio Obras)",
+        "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 278984,
+      "name": "Nada Salvaje (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1119,54 +1083,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Fantasma - En Vivo",
-      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1187,18 +1103,34 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Vivo Ac\u00e1",
-        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 321253,
-      "name": "Vida de Topos - En Vivo",
-      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1235,18 +1167,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+        "name": "Vivo Ac\u00e1",
+        "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+      "duration_ms": 321253,
+      "name": "Vida de Topos - En Vivo",
+      "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1263,6 +1195,42 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 258816,
+      "name": "Ped\u00eda Siempre Temas en la Radio... - En Vivo",
+      "url": "https://open.spotify.com/track/0X8SzCr6kvzZbveRPTKLIk"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 253968,
+      "name": "En el Bald\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1291,50 +1259,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+        "name": "En Directo (En Vivo)",
+        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Estadio Newell's Old Boys, 18 de Mayo de 2018 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "En el Bald\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Desde Lejos No Se Ve (En Vivo)",
-        "url": "https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "Desde Lejos No Se Ve - En Vivo",
-      "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
+      "duration_ms": 461266,
+      "name": "Todo un Palo - En Vivo",
+      "url": "https://open.spotify.com/track/7DWlu0RSXcUxRXSm4xSBjS"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1371,18 +1307,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "22/12/18 Flores (En Vivo)",
-        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 250538,
-      "name": "Ay, Qu\u00e9 Dios Boludo",
-      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1403,18 +1339,34 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "XV A\u00f1os - En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+        "name": "22/12/18 Flores (En Vivo)",
+        "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
       "artists": [
         {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 377832,
-      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
+      "duration_ms": 250538,
+      "name": "Ay, Qu\u00e9 Dios Boludo",
+      "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Barek (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Barek - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1435,18 +1387,18 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Sortilegio de Arrabal",
-        "url": "https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid"
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
       "artists": [
         {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 244071,
-      "name": "Envuelto en Llamas (En Vivo)",
-      "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1471,38 +1423,6 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Huracanes en Luna Plateada (En Vivo)",
-        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Labios de Seda - En Vivo",
-      "url": "https://open.spotify.com/track/65tZTcEHzp0kUd09bJxM6B"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Barek (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
-      },
-      "artists": [
-        {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Barek - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1519,18 +1439,54 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+        "name": "En Directo (En Vivo)",
+        "url": "https://open.spotify.com/album/1m2YHaKlpGCImzt2LRtN1h"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/1i3tcCQHDYa1htkkkqmpUS"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Ahora Vengo (Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
+      },
+      "artists": [
+        {
+          "name": "La Mississippi",
+          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
+        },
+        {
+          "name": "Facundo Soto",
+          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
+        }
+      ],
+      "duration_ms": 171306,
+      "name": "Ahora Vengo - Vivo Luna Park",
+      "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1567,74 +1523,34 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Razzmatazz (En directo)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
+        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
+      "duration_ms": 225408,
+      "name": "Oportunidad Oportuna - En Vivo",
+      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
     },
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
+        "name": "Fantasmas Pel\u00e9andole al Viento",
+        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 258816,
-      "name": "Ped\u00eda Siempre Temas en la Radio\u2026 - En Vivo",
-      "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 317005,
-      "name": "El Riesgo (Vivo en Obras)",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
-    },
-    {
-      "added_at": "2023-12-22 23:49:37",
-      "album": {
-        "name": "Ahora Vengo (Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
-      },
-      "artists": [
-        {
-          "name": "La Mississippi",
-          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
-        },
-        {
-          "name": "Facundo Soto",
-          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Ahora Vengo - Vivo Luna Park",
-      "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/3riCMXhrJc434p7rcDLlFW"
     },
     {
       "added_at": "2023-12-22 23:49:37",
@@ -1659,18 +1575,102 @@
     {
       "added_at": "2023-12-22 23:49:37",
       "album": {
-        "name": "Aut\u00f3dromo de Buenos Aires, 19 de Junio de 2021 (En Vivo)",
-        "url": "https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8"
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 225408,
-      "name": "Oportunidad Oportuna - En Vivo",
-      "url": "https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD"
+      "duration_ms": 317005,
+      "name": "El Riesgo (Vivo en Obras)",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Razzmatazz (En directo)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/1u6H3heR03PvMNWvCnasex"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "\u00bfPor Qu\u00e9 Ser\u00e1 Que Dios No Me Quiere? - En Vivo",
+      "url": "https://open.spotify.com/track/0ARVb977xP9T7NWHK0xvzS"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "En Vivo en Chile Volumen 2",
+        "url": "https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv"
+      },
+      "artists": [
+        {
+          "name": "Smitten",
+          "url": "https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL"
+        }
+      ],
+      "duration_ms": 145712,
+      "name": "Una Persona Especial (En Vivo)",
+      "url": "https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht"
+    },
+    {
+      "added_at": "2023-12-22 23:49:37",
+      "album": {
+        "name": "Fantasmas Pel\u00e9andole al Viento",
+        "url": "https://open.spotify.com/album/7MRwDeZfPnfMEkeTV1DqIx"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Fantasma - En Vivo",
+      "url": "https://open.spotify.com/track/0qUPTVminL2wV1GXpDu7ya"
     },
     {
       "added_at": "2023-12-22 23:49:37",

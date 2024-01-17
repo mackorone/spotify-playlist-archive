@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 666 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 7 | [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 |
 | 8 | [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 |
 | 9 | [Honeycomb](https://open.spotify.com/track/72Q94I0gbEuHDYwLxW1Tbg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:47 |
-| 10 | [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 |
+| 10 | [Plans We Made](https://open.spotify.com/track/6UgjnH9pBNIL1pk97NRLQo) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/3VXoNIIn3hZ6h6jnYn8fUm) | 3:40 |
 | 11 | [The Visitor](https://open.spotify.com/track/6y0NaFU7hfgiWFNzRTl8dS) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 5:05 |
 | 12 | [Day by Day](https://open.spotify.com/track/7nnFdyYsVwFvUXB4heKZe4) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:44 |
 | 13 | [Mother Maybe](https://open.spotify.com/track/02JjaSuokjv0LRHjSvsdls) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:15 |
 | 14 | [Delphine](https://open.spotify.com/track/2ZCKfrVy8qg6Y48KyKkN94) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 5:54 |
-| 15 | [The Hook Up](https://open.spotify.com/track/4FEuh8zuTv3IIO8BaCsQPc) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Not for Sale](https://open.spotify.com/album/2T0HxT77VAcbj0VHVdmUl0) | 3:02 |
-| 16 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 |
+| 15 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 |
+| 16 | [The Hook Up](https://open.spotify.com/track/4FEuh8zuTv3IIO8BaCsQPc) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Not for Sale](https://open.spotify.com/album/2T0HxT77VAcbj0VHVdmUl0) | 3:02 |
 | 17 | [This Love](https://open.spotify.com/track/0UPy6jay9WQ2HSOiYq7nJy) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [This Love](https://open.spotify.com/album/1RTXynjOAFfVG00e1L1a1z) | 2:44 |
 | 18 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 |
 | 19 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 34 | [Imposter](https://open.spotify.com/track/5d16l8ZefLS7LKgL8VUwZw) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 3:51 |
 | 35 | [The Watch](https://open.spotify.com/track/76WrBqSWbbQqQBP6sjUYc8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 2:58 |
 | 36 | [Thoughts Around Tea](https://open.spotify.com/track/05It00he7qwMO89POQHvdQ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:12 |
-| 37 | [Plans We Make](https://open.spotify.com/track/2OAwDkzUvN3XSqWFoUj8dx) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/759fWQ4pmDoPYMf1jMtrhw) | 3:32 |
+| 37 | [Plans We Make](https://open.spotify.com/track/3T8FCttEVrCkz69AMHReIU) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/5Tw9tdB9BkgwyPx2kQ135q) | 3:32 |
 | 38 | [...](https://open.spotify.com/track/4snebtF0xCyNuf3eQ1SBp8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:47 |
 | 39 | [Love Theme \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/42yyhfzkfJIjNHSy1deT0A) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass \(Expanded Edition\)](https://open.spotify.com/album/38L5GcyigNKgG0sfu0sJ9u) | 5:26 |
 | 40 | [Float](https://open.spotify.com/track/295A2ECNLIDUFghdqi6dP1) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:25 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 44 | [California Holiday](https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 4:40 |
 | 45 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjg0MDQxNDAsMDAwMDAwMDA4YzU1NTBkMzFiNzA2NjBjNjI1YmNlNDU5OTkyNTJmYw==`
+Snapshot ID: `Mjg0MjQzMDAsMDAwMDAwMDBkYzU2YjQ3M2U3MTQzYzk4ZTM4ZTE3MTYwMDE0YWJjYg==`

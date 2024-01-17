@@ -1,6 +1,1141 @@
 {
-  "2023-12-31": 5265,
-  "2024-01-01": 5280,
-  "2024-01-02": 5288,
-  "2024-01-03": 5301
+  "2024-01-17": 5497,
+  "date_first_scraped": "2023-12-31",
+  "description": "This is Ebony. The essential tracks, all in one playlist.",
+  "name": "This Is Ebony",
+  "tracks": [
+    {
+      "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "album": {
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+    },
+    {
+      "album": {
+        "name": "8KG",
+        "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "8KG",
+      "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132213,
+      "name": "After",
+      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105109,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/3a9UuunxKhSCrwWI0kr7jm"
+    },
+    {
+      "album": {
+        "name": "Bratz",
+        "url": "https://open.spotify.com/album/1uekeJ5YHFLhTer9KKHAwh"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168158,
+      "name": "Bratz",
+      "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115999,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/6BxOt3jbyRt1Jvqkqx806a"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188581,
+      "name": "Caneta",
+      "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+    },
+    {
+      "album": {
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2vORCqoVPhttMKn1qvun2g"
+    },
+    {
+      "album": {
+        "name": "ELAS PINTAM",
+        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "ELAS PINTAM",
+      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
+    },
+    {
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178964,
+      "name": "Flashes",
+      "url": "https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/0dKEIdUMUqmafqLMKAPnEJ"
+    },
+    {
+      "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
+    },
+    {
+      "album": {
+        "name": "Fresh Stars 2020 Pnpl",
+        "url": "https://open.spotify.com/album/6e6K1bmmlzkYyN7YzHA1m2"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/72tK4KmcVXVS9EtoCBWPhI"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Jogzz",
+          "url": "https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Fresh Stars 2020 Pnpl",
+      "url": "https://open.spotify.com/track/5ESaWLOFADAep7uQby52Hm"
+    },
+    {
+      "album": {
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+    },
+    {
+      "album": {
+        "name": "Never Ghost",
+        "url": "https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "I.E.",
+          "url": "https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212740,
+      "name": "Important",
+      "url": "https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108249,
+      "name": "Lei da Atra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3pUHsvEu7VbILDCWpHM23J"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150452,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/2xQlbbRZxzycnx3OA1FM7v"
+    },
+    {
+      "album": {
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168588,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117056,
+      "name": "Megaloman\u00edaca",
+      "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Melhor do Ano",
+      "url": "https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128256,
+      "name": "Obcecada",
+      "url": "https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119898,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2IPCKaaX8tB2l3tfUkQH87"
+    },
+    {
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7AmQc9qpRpRXBC1YTNdoc1"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "album": {
+        "name": "Poetisas no Topo 2",
+        "url": "https://open.spotify.com/album/7MyEI58jpFnvdNlVJS3UXX"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Kmila Cdd",
+          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "WinniT",
+          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556662,
+      "name": "Poetisas no Topo 2",
+      "url": "https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI"
+    },
+    {
+      "album": {
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+      },
+      "artists": [
+        {
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164941,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+    },
+    {
+      "album": {
+        "name": "Que Dia \u00c9 Hoje",
+        "url": "https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Brenda Minni",
+          "url": "https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353907,
+      "name": "Que Dia \u00c9 Hoje",
+      "url": "https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0"
+    },
+    {
+      "album": {
+        "name": "Real #1",
+        "url": "https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Shok",
+          "url": "https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164631,
+      "name": "Real #1",
+      "url": "https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ"
+    },
+    {
+      "album": {
+        "name": "Reuni\u00e3o Dos Cria",
+        "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Miat\u00e3",
+          "url": "https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228283,
+      "name": "Reuni\u00e3o Dos Cria",
+      "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
+    },
+    {
+      "album": {
+        "name": "Shoota (feat. Lourena & Ebony)",
+        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212580,
+      "name": "Shoota (feat. Lourena & Ebony)",
+      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
+    },
+    {
+      "album": {
+        "name": "FEBRE AMARELA",
+        "url": "https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Geenuino, o PAI",
+          "url": "https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "NP Vocal",
+          "url": "https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "STRIP",
+      "url": "https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2"
+    },
+    {
+      "album": {
+        "name": "NTGM",
+        "url": "https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb"
+      },
+      "artists": [
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "SXO",
+      "url": "https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2"
+    },
+    {
+      "album": {
+        "name": "Tanto Faz",
+        "url": "https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS"
+      },
+      "artists": [
+        {
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t"
+    },
+    {
+      "album": {
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
+      },
+      "artists": [
+        {
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118541,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt"
+    },
+    {
+      "album": {
+        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "CRIVO",
+          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
+    },
+    {
+      "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
+      },
+      "artists": [
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130307,
+      "name": "Xoxo",
+      "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO14TklP"
 }

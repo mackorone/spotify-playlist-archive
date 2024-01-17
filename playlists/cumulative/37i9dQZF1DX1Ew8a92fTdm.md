@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-256 songs - 6 hr 32 min
+258 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Arriba del Cielo](https://open.spotify.com/track/3KWiNfUbi0zs0KoMAusIBN) | [Marshfold](https://open.spotify.com/artist/5YKn3z6YLjGP2ydLHVanoa) | [Arriba del Cielo](https://open.spotify.com/album/2j0cClBu5CYlleUVKg116a) | 1:09 | 2022-02-10 |  |
 | [As You Fall Asleep](https://open.spotify.com/track/5IN2z7VbAJU1swuJxv3mX5) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:48 | 2022-02-10 |  |
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
+| [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 | 2024-01-05 |  |
 | [Baby Bear](https://open.spotify.com/track/5UpHz8cxbWTNIwu0zbxSqk) | [Mette Enoksen](https://open.spotify.com/artist/3UjM6XtripEYdUAzSBCKmf) | [Baby Bear](https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok) | 1:25 | 2022-02-10 |  |
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
 | [Baby Swan Dreams](https://open.spotify.com/track/4iR3wPEbv4hY91LfCaZb8U) | [Luna Ull](https://open.spotify.com/artist/3WCRwq0tALrJmzA0N09HaV) | [Baby Swan Dreams](https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc) | 1:45 | 2022-12-09 |  |
@@ -68,6 +69,7 @@
 | [Danny Boy](https://open.spotify.com/track/6qBPfq25xnMLhUrUp7WJd0) | [Spotty Box](https://open.spotify.com/artist/0W1atZRo3p6T25yU1gMvpq) | [Danny Boy](https://open.spotify.com/album/491QWq1E8D6NYHZVplMmTU) | 1:39 | 2022-02-10 |  |
 | [Dans notre jardin](https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Dans notre jardin](https://open.spotify.com/album/7Lz4tikU1XQxOis3UNLPWl) | 1:28 | 2022-04-22 | 2023-05-19 |
 | [Dear buddy](https://open.spotify.com/track/4QL90SubKWbeN6GQLu7p0c) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Dear buddy](https://open.spotify.com/album/5Z0IS48eAdA3SwecrqVNMT) | 1:41 | 2023-05-19 |  |
+| [Dear Little Snickerboa](https://open.spotify.com/track/2pWW3wDPsvlWARHqc5g1Bg) | [Bells of happiness](https://open.spotify.com/artist/5W8Hrjj45Fo0EGmk8Gkh67) | [Dear Little Snickerboa](https://open.spotify.com/album/2g8j8DM0MZitCshC9k8m3q) | 1:44 | 2024-01-05 |  |
 | [Don't Grow Up Too Soon](https://open.spotify.com/track/1Y2GR3ytnyBeMUGl53yF5g) | [Melody McKinsey](https://open.spotify.com/artist/2AZSk3cuYwMLXv3okcGBxx) | [Don't Grow Up Too Soon](https://open.spotify.com/album/2wDOy7gi6i20n0uv4o8ksl) | 2:41 | 2022-07-01 | 2023-04-21 |
 | [Don't Worry Baby](https://open.spotify.com/track/4lma9ZO9Xux8SxU7lbR6X5) | [Don't Worry Baby Lullabies](https://open.spotify.com/artist/2rB8ZbwgwJStg2vvSrTwUp) | [Don't Worry Baby](https://open.spotify.com/album/5fqjLiDafcWE7steZN3cES) | 2:13 | 2022-04-22 | 2023-03-18 |
 | [Doux rêves](https://open.spotify.com/track/3v0QpPVFnMZAScYmxxwcLg) | [Matilda Therrien](https://open.spotify.com/artist/2CZnXCdukAR1yvZqzVOu82) | [Doux rêves](https://open.spotify.com/album/1ZZBI7d3OfZBIvFe1vKDuD) | 1:16 | 2022-02-10 |  |

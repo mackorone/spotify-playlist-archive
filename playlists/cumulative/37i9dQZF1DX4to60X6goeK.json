@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard into 2024 with the Bou takeover \ud83d\udd25 #NYE2023",
+  "description": "Go hard or go home. Cover: Kanine",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 187240,
       "name": "Alarm (feat. MC ID)",
       "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "All of the Above",
       "url": "https://open.spotify.com/track/0a5emyFh8QVO6EAgZLMP2S"
@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Are You Ready",
+        "url": "https://open.spotify.com/album/0wEVV704o69cgtCpz9fP9l"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/3lsohFPyLkdGHhXhl0rPMR"
+    },
+    {
+      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/5AfFFf9SVPlpKLlDZOMB7q"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 294857,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/3q97VZitbqsa1LgDAVw9W9"
@@ -242,7 +260,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271525,
       "name": "Back to Basics",
       "url": "https://open.spotify.com/track/1cn6V37h4alIkOSSmRGAwq"
@@ -289,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
+      "album": {
         "name": "Paradigm Shift",
         "url": "https://open.spotify.com/album/04ZnNjvV0uDjFVhGl5ykTD"
       },
@@ -330,7 +366,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 285297,
       "name": "Bomb Squad - A.M.C Forever Dub Version",
       "url": "https://open.spotify.com/track/0fP0UPEqSJ0Lv1fNm5KVAZ"
@@ -348,7 +384,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 274285,
       "name": "Bonesaw",
       "url": "https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK"
@@ -428,7 +464,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/3jrToiaGyx4o553AfgoofP"
@@ -468,7 +504,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 266071,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0CjukABpH1AmAPZljXHDVr"
@@ -494,7 +530,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) (Ren\u00e9 LaVice Dark D&B Remix)",
       "url": "https://open.spotify.com/track/5tcRXiUko0JG2ciQfzJST5"
@@ -538,7 +574,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 253882,
       "name": "Bricks Don't Roll",
       "url": "https://open.spotify.com/track/1SBs5cEBLhTugiSHko2qx4"
@@ -586,7 +622,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 270344,
       "name": "Camels",
       "url": "https://open.spotify.com/track/6Dvbm1h0w7fRcRnqxPOPqo"
@@ -612,7 +648,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 269800,
       "name": "Car Jackin - T95 Remix",
       "url": "https://open.spotify.com/track/44bHhXowCOUU40MzhytX4H"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 263324,
       "name": "Cat Women",
       "url": "https://open.spotify.com/track/4TLYBZx96TjDvBfSyqQ1hW"
@@ -670,7 +706,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 224775,
       "name": "Chant",
       "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
@@ -688,7 +724,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 269132,
       "name": "Chop House - VIP",
       "url": "https://open.spotify.com/track/4k3R5FJM6cL07CNDGgihIR"
@@ -714,7 +750,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 178746,
       "name": "Closer - Hedex Remix",
       "url": "https://open.spotify.com/track/5GxZzzm83wpUBcDfkH6VPk"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 230232,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/4CHfeRbAh89wGnm7R47HMs"
@@ -798,7 +834,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 268800,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/1WL4Oz6ctR7WpbcirVA4xv"
@@ -846,7 +882,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 228706,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
@@ -882,7 +918,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 266057,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp"
@@ -908,7 +944,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 200228,
       "name": "Confliction",
       "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 224914,
       "name": "Cous Cous",
       "url": "https://open.spotify.com/track/1AC2Np13uqqDmhNnDpMaEu"
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 274285,
       "name": "Cowboy - Primate Remix",
       "url": "https://open.spotify.com/track/6n5laDuCJW4Nis3pvR79Vq"
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 268618,
       "name": "Creeper",
       "url": "https://open.spotify.com/track/7qgCZFI5c4BtRZ6bwhpceX"
@@ -1026,7 +1062,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dance All Day",
       "url": "https://open.spotify.com/track/2hXyNPbdCnQd5ZkHlBJh3k"
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 167441,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/3DZExPtWIJE8LPMCLpHGxK"
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 258937,
       "name": "Death Sport",
       "url": "https://open.spotify.com/track/6HRdzbgOM93sm7cYTQzZLd"
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 181026,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0Gvh7WSyorB2zlC737KokH"
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 176914,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 263314,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/77clpxiqqJYBFfKNa7NJLO"
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "Elemental",
       "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 204342,
       "name": "Finesse Riddim",
       "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
@@ -1407,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Firebreak (1991 Remix)",
+        "url": "https://open.spotify.com/album/6hjfikVWj1TJ3gFl3gOrNK"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117530,
+      "name": "Firebreak - 1991 Remix",
+      "url": "https://open.spotify.com/track/5WYJ3VWw7BewsMvG92M7gQ"
+    },
+    {
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/2bv2vBoS09IyZIzRMMwRDx"
       },
@@ -1418,7 +1476,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271585,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5H8t5QX3Po0VxgpgUfiz2Z"
@@ -1440,7 +1498,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 184065,
       "name": "Forever Changes",
       "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
@@ -1492,7 +1550,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
@@ -1528,7 +1586,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 199728,
       "name": "Ghosting Your Love",
       "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
@@ -1598,7 +1656,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 308571,
       "name": "Golem",
       "url": "https://open.spotify.com/track/6j7y5o77r2wUyA7QhimFEZ"
@@ -1656,7 +1714,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186514,
       "name": "Hands In The Air - VIP",
       "url": "https://open.spotify.com/track/1dun0VY9nR77M758yHdMzS"
@@ -1740,7 +1798,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 205717,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
@@ -1880,7 +1938,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 193643,
       "name": "IFTK - Vibe Chemistry Remix",
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
@@ -2072,7 +2130,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 220800,
       "name": "Killer",
       "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
@@ -2144,7 +2202,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 201379,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
@@ -2198,7 +2256,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 244117,
       "name": "Liars",
       "url": "https://open.spotify.com/track/3OCaoefS1DjvXBDfgZVBzt"
@@ -2263,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221479,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
+    },
+    {
+      "album": {
         "name": "Back To Normal",
         "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
@@ -2300,7 +2376,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
@@ -2366,7 +2442,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 147245,
       "name": "looking 4 me",
       "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
@@ -2446,7 +2522,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 174917,
       "name": "MHITR (Semi-Automatic) [feat. Eksman]",
       "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
@@ -2508,7 +2584,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 330285,
       "name": "Mk Q",
       "url": "https://open.spotify.com/track/6Ub40qvmrY79J9VyWpKY48"
@@ -2580,7 +2656,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 200239,
       "name": "Move Your Body - Hedex Remix",
       "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
@@ -2602,7 +2678,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 358732,
       "name": "Mr Happy",
       "url": "https://open.spotify.com/track/2vg5YDfcWlj4eK6wPPeCyu"
@@ -2620,7 +2696,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271000,
       "name": "Musket",
       "url": "https://open.spotify.com/track/2Vgek89PguOVUFmGZNJmrw"
@@ -2718,7 +2794,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 163907,
       "name": "No Excuses - Hedex Remix",
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
@@ -2740,7 +2816,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
@@ -2758,7 +2834,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 223557,
       "name": "Nope",
       "url": "https://open.spotify.com/track/07qcxlkRtTaPjDh2BorHf5"
@@ -2870,7 +2946,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 224914,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz"
@@ -2950,7 +3026,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 331025,
       "name": "Psychedelic",
       "url": "https://open.spotify.com/track/207FRBC32g3LXf0EP0a2qQ"
@@ -2972,7 +3048,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 264107,
       "name": "Pub Grub",
       "url": "https://open.spotify.com/track/2q90cj0VP51fF0aPWxvQbj"
@@ -2994,7 +3070,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 268786,
       "name": "Pub Grub - VIP",
       "url": "https://open.spotify.com/track/3tOovmMYFni1v4IDdaixwJ"
@@ -3036,7 +3112,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "Rampage Anthem VIP",
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
@@ -3061,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "Real Champion (DJ Hybrid Remix)",
+        "url": "https://open.spotify.com/album/54GrWiJZocKuf2wVnxGGYb"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        },
+        {
+          "name": "DJ Hybrid",
+          "url": "https://open.spotify.com/artist/76ZKj6Zpca7s7hXA7d8Lao"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205689,
+      "name": "Real Champion - DJ Hybrid Remix",
+      "url": "https://open.spotify.com/track/0W6bVE9yYEs6ggNom5BjBx"
+    },
+    {
+      "album": {
         "name": "Relapse EP",
         "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
       },
@@ -3072,7 +3170,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 268285,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
@@ -3094,7 +3192,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 216551,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
@@ -3130,7 +3228,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 225610,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/0iOZsSttnmHPE4i1vPzubE"
@@ -3192,7 +3290,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179310,
       "name": "Rotten",
       "url": "https://open.spotify.com/track/71rEtDE79i1izgY0PTZ0Q2"
@@ -3210,7 +3308,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 274285,
       "name": "Round Ere",
       "url": "https://open.spotify.com/track/1vmluV8Abi7RAiiLHju8dj"
@@ -3246,7 +3344,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 268515,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/2Miz8nS0i6fwmKN90T16GJ"
@@ -3264,7 +3362,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 253796,
       "name": "Secret Foghorn",
       "url": "https://open.spotify.com/track/7b0M0HRpjdBMeU4dAtNuVP"
@@ -3290,7 +3388,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213347,
       "name": "Seizure",
       "url": "https://open.spotify.com/track/4ncXGDX48nHSiz3BOhB8AJ"
@@ -3308,7 +3406,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 341104,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/0hfizldOxCUJadOOLDXNHm"
@@ -3326,7 +3424,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 345399,
       "name": "Sinking VIP",
       "url": "https://open.spotify.com/track/2kHzxgPwktkyKSk2xlGmNX"
@@ -3360,7 +3458,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
@@ -3422,7 +3520,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 197485,
       "name": "Somebody Else, Pt. 2",
       "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
@@ -3444,7 +3542,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 219428,
       "name": "Spartanz",
       "url": "https://open.spotify.com/track/1vs5X7I0YL0WfU3WRKJUEb"
@@ -3492,7 +3590,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 265028,
       "name": "Speedball",
       "url": "https://open.spotify.com/track/7DCWbJBgstbEGIakMDFWnB"
@@ -3514,7 +3612,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 267432,
       "name": "Spinning Method - Hedex Remix",
       "url": "https://open.spotify.com/track/0lVajazoTgtgljLiCKueCB"
@@ -3532,7 +3630,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 220810,
       "name": "Spook",
       "url": "https://open.spotify.com/track/3ecIho4EQQ9aqQMnPw2B8s"
@@ -3608,7 +3706,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 270312,
       "name": "Step It Up",
       "url": "https://open.spotify.com/track/608TATD49stSCcojEMTwmX"
@@ -3688,7 +3786,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
@@ -3742,7 +3840,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 215327,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
@@ -3760,7 +3858,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 204357,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
@@ -3778,7 +3876,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 266057,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO"
@@ -3800,7 +3898,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 258333,
       "name": "Tap Ho - Formula Remix",
       "url": "https://open.spotify.com/track/2uutiVFavs3W59RupXiGU7"
@@ -3848,7 +3946,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
@@ -3902,7 +4000,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 264614,
       "name": "The Shadows",
       "url": "https://open.spotify.com/track/0Wcr4pWi1mndpFOiyjzOcC"
@@ -3990,7 +4088,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 317140,
       "name": "Time Tripping",
       "url": "https://open.spotify.com/track/5CcT9KSH2IvTCtFg4frpFb"
@@ -4008,7 +4106,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 234482,
       "name": "Too Lazy",
       "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
@@ -4044,7 +4142,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 292117,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX"
@@ -4120,7 +4218,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
@@ -4160,7 +4258,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 269188,
       "name": "Veteran",
       "url": "https://open.spotify.com/track/45fTrhIQSf3zOAu7V2pj59"
@@ -4182,7 +4280,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 274285,
       "name": "Veteran - Alix Perez Remix",
       "url": "https://open.spotify.com/track/5GRvEx0nSMYAcuNFfpQmSN"
@@ -4204,7 +4302,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 156342,
       "name": "Veteran - Serum Remix",
       "url": "https://open.spotify.com/track/2aN8xHlMWc2NVujVnMWikE"
@@ -4226,7 +4324,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 268573,
       "name": "Veteran - VIP",
       "url": "https://open.spotify.com/track/1v0671GGqimaoetFv1IvAZ"
@@ -4280,7 +4378,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
@@ -4320,7 +4418,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
@@ -4374,7 +4472,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 263324,
       "name": "Wine Ya B",
       "url": "https://open.spotify.com/track/40Aw8sb3uqoEPEzi1Q8dR6"
@@ -4396,7 +4494,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 229971,
       "name": "Wormhole",
       "url": "https://open.spotify.com/track/7v7IWGh1UAEHkra1zU6y0N"
@@ -4454,7 +4552,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"

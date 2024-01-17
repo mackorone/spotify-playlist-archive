@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-99 songs - 7 hr 7 min
+100 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [BABY BORN & GO](https://open.spotify.com/track/7fyaPmW3CrDlu50E1AlMHv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:28 | 2022-06-09 | 2023-07-21 |
 | [BVCK](https://open.spotify.com/track/0gJshpPlLWS2ErIRZNEmMm) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 3:50 | 2022-08-20 | 2023-07-21 |
 | [CHANCE!](https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 4:30 | 2022-06-09 |  |
-| [Collide](https://open.spotify.com/track/6vEJ6oy3ardFaLYYJFRmEX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:30 | 2022-06-09 | 2023-12-16 |
+| [Collide](https://open.spotify.com/track/6vEJ6oy3ardFaLYYJFRmEX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:30 | 2022-06-09 | 2024-01-09 |
 | [Colors of the Heart](https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 3:52 | 2022-06-09 |  |
 | [ConneQt](https://open.spotify.com/track/2stthCDq7KTzs9UNlRqAGk) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:54 | 2022-06-09 | 2022-10-24 |
 | [CORE PRIDE](https://open.spotify.com/track/55n4sFy8tjysBcCjQFwX3A) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:18 | 2022-06-09 |  |
@@ -34,11 +34,12 @@
 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 | 2022-06-09 |  |
 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 | 2023-07-20 |  |
 | [endscape](https://open.spotify.com/track/1uBKwpT6hjR4ot1UciAH7x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [endscape](https://open.spotify.com/album/2eZdgtqNCvaMOXr29UXUXu) | 4:38 | 2022-06-16 | 2022-10-11 |
+| [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op) | 1:29 | 2024-01-08 |  |
 | [Fight For Liberty\(album ver.\)](https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:15 | 2022-06-09 |  |
 | [FINALIST](https://open.spotify.com/track/49pKb9kKhbA5rYA8hEZZBd) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:19 | 2023-08-19 |  |
 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 | 2022-06-09 |  |
 | [Forever Young](https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3) | 4:00 | 2022-06-09 |  |
-| [GO\-ON](https://open.spotify.com/track/6SyR6c2BVO0Wa72dQEFBzv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [GO\-ON](https://open.spotify.com/album/6EhK465XjJxe1C1fWEn7oi) | 4:19 | 2022-06-09 |  |
+| [GO\-ON](https://open.spotify.com/track/6SyR6c2BVO0Wa72dQEFBzv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [GO\-ON](https://open.spotify.com/album/6EhK465XjJxe1C1fWEn7oi) | 4:19 | 2022-06-09 | 2024-01-05 |
 | [Gold](https://open.spotify.com/track/5wFmOX7uCCi1KwdWuufm2a) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 4:03 | 2022-06-30 | 2022-07-20 |
 | [GOOD and EVIL](https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:23 | 2022-06-09 | 2022-12-31 |
 | [HOURGLASS](https://open.spotify.com/track/4v3uMW3YGHyGfBSHTezgwl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [HOURGLASS](https://open.spotify.com/album/5HcGmONmQBgwUDWcN128Hd) | 4:02 | 2022-07-13 | 2022-07-17 |

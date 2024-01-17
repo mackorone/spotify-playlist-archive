@@ -1,474 +1,1787 @@
 {
-  "2022-09-15": 43736,
-  "2022-09-16": 43752,
-  "2022-09-17": 43772,
-  "2022-09-18": 43784,
-  "2022-09-19": 43814,
-  "2022-09-20": 43831,
-  "2022-09-21": 43850,
-  "2022-09-22": 43868,
-  "2022-09-23": 43891,
-  "2022-09-24": 43891,
-  "2022-09-25": 43929,
-  "2022-09-26": 43950,
-  "2022-09-27": 43970,
-  "2022-09-28": 43987,
-  "2022-09-29": 44007,
-  "2022-09-30": 44025,
-  "2022-10-01": 44051,
-  "2022-10-02": 44084,
-  "2022-10-03": 44098,
-  "2022-10-04": 44111,
-  "2022-10-05": 44137,
-  "2022-10-06": 44164,
-  "2022-10-07": 44190,
-  "2022-10-08": 44210,
-  "2022-10-09": 44239,
-  "2022-10-10": 44247,
-  "2022-10-11": 44271,
-  "2022-10-12": 44294,
-  "2022-10-13": 44322,
-  "2022-10-14": 44348,
-  "2022-10-15": 44367,
-  "2022-10-16": 44384,
-  "2022-10-17": 44408,
-  "2022-10-18": 44429,
-  "2022-10-19": 44454,
-  "2022-10-20": 44479,
-  "2022-10-21": 44491,
-  "2022-10-22": 44518,
-  "2022-10-23": 44548,
-  "2022-10-24": 44556,
-  "2022-10-25": 44579,
-  "2022-10-26": 44591,
-  "2022-10-27": 44606,
-  "2022-10-28": 44634,
-  "2022-10-29": 44657,
-  "2022-10-30": 44684,
-  "2022-10-31": 44702,
-  "2022-11-01": 44721,
-  "2022-11-02": 44747,
-  "2022-11-03": 44768,
-  "2022-11-04": 44795,
-  "2022-11-05": 44820,
-  "2022-11-06": 44839,
-  "2022-11-07": 44857,
-  "2022-11-08": 44887,
-  "2022-11-09": 44911,
-  "2022-11-10": 44928,
-  "2022-11-11": 44954,
-  "2022-11-12": 44989,
-  "2022-11-13": 45009,
-  "2022-11-14": 45051,
-  "2022-11-15": 45074,
-  "2022-11-16": 45111,
-  "2022-11-17": 45131,
-  "2022-11-18": 45139,
-  "2022-11-19": 45145,
-  "2022-11-20": 45168,
-  "2022-11-21": 45198,
-  "2022-11-22": 45223,
-  "2022-11-23": 45249,
-  "2022-11-24": 45294,
-  "2022-11-25": 45326,
-  "2022-11-26": 45355,
-  "2022-11-27": 45373,
-  "2022-11-28": 45390,
-  "2022-11-29": 45404,
-  "2022-11-30": 45427,
-  "2022-12-01": 45452,
-  "2022-12-02": 45456,
-  "2022-12-03": 45481,
-  "2022-12-04": 45507,
-  "2022-12-05": 45528,
-  "2022-12-06": 45560,
-  "2022-12-07": 45581,
-  "2022-12-08": 45612,
-  "2022-12-09": 45649,
-  "2022-12-10": 45675,
-  "2022-12-11": 45694,
-  "2022-12-12": 45726,
-  "2022-12-13": 45746,
-  "2022-12-14": 45769,
-  "2022-12-15": 45794,
-  "2022-12-16": 45805,
-  "2022-12-17": 45822,
-  "2022-12-18": 45837,
-  "2022-12-19": 45850,
-  "2022-12-20": 45887,
-  "2022-12-21": 45887,
-  "2022-12-22": 45903,
-  "2022-12-24": 45953,
-  "2022-12-25": 45969,
-  "2022-12-26": 45980,
-  "2022-12-27": 45993,
-  "2022-12-28": 46017,
-  "2022-12-29": 46028,
-  "2022-12-30": 46047,
-  "2022-12-31": 46074,
-  "2023-01-01": 46098,
-  "2023-01-02": 46125,
-  "2023-01-03": 46160,
-  "2023-01-04": 46188,
-  "2023-01-05": 46204,
-  "2023-01-06": 46225,
-  "2023-01-07": 46240,
-  "2023-01-08": 46249,
-  "2023-01-09": 46273,
-  "2023-01-10": 46303,
-  "2023-01-11": 46323,
-  "2023-01-12": 46342,
-  "2023-01-13": 46363,
-  "2023-01-14": 46389,
-  "2023-01-15": 46391,
-  "2023-01-16": 46413,
-  "2023-01-17": 46434,
-  "2023-01-18": 46457,
-  "2023-01-19": 46480,
-  "2023-01-20": 46499,
-  "2023-01-21": 46516,
-  "2023-01-22": 46532,
-  "2023-01-23": 46550,
-  "2023-01-24": 46588,
-  "2023-01-25": 46607,
-  "2023-01-26": 46627,
-  "2023-01-27": 46650,
-  "2023-01-28": 46687,
-  "2023-01-29": 46704,
-  "2023-01-30": 46720,
-  "2023-01-31": 46720,
-  "2023-02-01": 46769,
-  "2023-02-02": 46791,
-  "2023-02-03": 46808,
-  "2023-02-04": 46831,
-  "2023-02-05": 46851,
-  "2023-02-06": 46877,
-  "2023-02-07": 46897,
-  "2023-02-08": 46963,
-  "2023-02-09": 46963,
-  "2023-02-10": 46989,
-  "2023-02-11": 47001,
-  "2023-02-12": 47049,
-  "2023-02-13": 47080,
-  "2023-02-14": 47080,
-  "2023-02-15": 47095,
-  "2023-02-16": 47120,
-  "2023-02-17": 47140,
-  "2023-02-18": 47179,
-  "2023-02-19": 47184,
-  "2023-02-20": 47201,
-  "2023-02-21": 47235,
-  "2023-02-22": 47267,
-  "2023-02-23": 47282,
-  "2023-02-24": 47305,
-  "2023-02-25": 47329,
-  "2023-02-26": 47355,
-  "2023-02-27": 47405,
-  "2023-02-28": 47405,
-  "2023-03-01": 47430,
-  "2023-03-02": 47445,
-  "2023-03-03": 47478,
-  "2023-03-04": 47494,
-  "2023-03-05": 47542,
-  "2023-03-06": 47542,
-  "2023-03-07": 47571,
-  "2023-03-08": 47598,
-  "2023-03-09": 47615,
-  "2023-03-10": 47627,
-  "2023-03-11": 47651,
-  "2023-03-12": 47674,
-  "2023-03-13": 47691,
-  "2023-03-14": 47720,
-  "2023-03-15": 47748,
-  "2023-03-16": 47748,
-  "2023-03-17": 47748,
-  "2023-03-18": 47802,
-  "2023-03-19": 47802,
-  "2023-03-20": 47838,
-  "2023-03-21": 47869,
-  "2023-03-22": 47888,
-  "2023-03-23": 47910,
-  "2023-03-24": 47910,
-  "2023-03-25": 47949,
-  "2023-03-26": 47963,
-  "2023-03-27": 47983,
-  "2023-03-28": 48010,
-  "2023-03-29": 48037,
-  "2023-03-30": 48077,
-  "2023-03-31": 48077,
-  "2023-04-01": 48105,
-  "2023-04-02": 48138,
-  "2023-04-03": 48167,
-  "2023-04-04": 48191,
-  "2023-04-05": 48212,
-  "2023-04-06": 48235,
-  "2023-04-07": 48255,
-  "2023-04-09": 48304,
-  "2023-04-10": 48338,
-  "2023-04-11": 48403,
-  "2023-04-12": 48403,
-  "2023-04-13": 48425,
-  "2023-04-14": 48438,
-  "2023-04-15": 48474,
-  "2023-04-16": 48496,
-  "2023-04-17": 48520,
-  "2023-04-18": 48548,
-  "2023-04-19": 48567,
-  "2023-04-20": 48598,
-  "2023-04-21": 48628,
-  "2023-04-22": 48653,
-  "2023-04-23": 48674,
-  "2023-04-24": 48700,
-  "2023-04-25": 48723,
-  "2023-04-26": 48751,
-  "2023-04-27": 48767,
-  "2023-04-28": 48777,
-  "2023-04-29": 48801,
-  "2023-04-30": 48828,
-  "2023-05-01": 48844,
-  "2023-05-02": 48868,
-  "2023-05-03": 48892,
-  "2023-05-04": 48916,
-  "2023-05-05": 48929,
-  "2023-05-06": 48950,
-  "2023-05-07": 48974,
-  "2023-05-08": 48996,
-  "2023-05-09": 49027,
-  "2023-05-10": 49059,
-  "2023-05-11": 49074,
-  "2023-05-12": 49099,
-  "2023-05-13": 49126,
-  "2023-05-14": 49155,
-  "2023-05-15": 49178,
-  "2023-05-16": 49196,
-  "2023-05-17": 49212,
-  "2023-05-18": 49230,
-  "2023-05-19": 49244,
-  "2023-05-20": 49285,
-  "2023-05-21": 49285,
-  "2023-05-22": 49285,
-  "2023-05-23": 49334,
-  "2023-05-24": 49370,
-  "2023-05-25": 49377,
-  "2023-05-26": 49393,
-  "2023-05-27": 49406,
-  "2023-05-28": 49426,
-  "2023-05-29": 49426,
-  "2023-05-30": 49471,
-  "2023-05-31": 49492,
-  "2023-06-01": 49518,
-  "2023-06-02": 49534,
-  "2023-06-03": 49557,
-  "2023-06-04": 49580,
-  "2023-06-05": 49600,
-  "2023-06-06": 49630,
-  "2023-06-07": 49650,
-  "2023-06-08": 49671,
-  "2023-06-09": 49698,
-  "2023-06-10": 49710,
-  "2023-06-11": 49731,
-  "2023-06-12": 49750,
-  "2023-06-13": 49766,
-  "2023-06-14": 49780,
-  "2023-06-15": 49804,
-  "2023-06-16": 49831,
-  "2023-06-17": 49855,
-  "2023-06-18": 49874,
-  "2023-06-19": 49892,
-  "2023-06-20": 49912,
-  "2023-06-21": 49933,
-  "2023-06-22": 49944,
-  "2023-06-23": 49969,
-  "2023-06-24": 49992,
-  "2023-06-25": 50012,
-  "2023-06-26": 50028,
-  "2023-06-27": 50051,
-  "2023-06-28": 50077,
-  "2023-06-29": 50091,
-  "2023-06-30": 50106,
-  "2023-07-01": 50147,
-  "2023-07-02": 50147,
-  "2023-07-03": 50165,
-  "2023-07-04": 50187,
-  "2023-07-05": 50211,
-  "2023-07-06": 50239,
-  "2023-07-07": 50239,
-  "2023-07-08": 50239,
-  "2023-07-09": 50285,
-  "2023-07-10": 50285,
-  "2023-07-11": 50325,
-  "2023-07-12": 50345,
-  "2023-07-13": 50345,
-  "2023-07-14": 50389,
-  "2023-07-15": 50397,
-  "2023-07-16": 50422,
-  "2023-07-17": 50430,
-  "2023-07-18": 50455,
-  "2023-07-19": 50473,
-  "2023-07-20": 50473,
-  "2023-07-21": 50510,
-  "2023-07-22": 50523,
-  "2023-07-23": 50542,
-  "2023-07-24": 50563,
-  "2023-07-25": 50595,
-  "2023-07-26": 50611,
-  "2023-07-27": 50635,
-  "2023-07-28": 50635,
-  "2023-07-29": 50682,
-  "2023-07-30": 50682,
-  "2023-07-31": 50718,
-  "2023-08-01": 50748,
-  "2023-08-02": 50776,
-  "2023-08-03": 50794,
-  "2023-08-04": 50820,
-  "2023-08-05": 50832,
-  "2023-08-06": 50880,
-  "2023-08-07": 50880,
-  "2023-08-08": 50898,
-  "2023-08-09": 50919,
-  "2023-08-10": 50937,
-  "2023-08-11": 50955,
-  "2023-08-12": 50955,
-  "2023-08-13": 50955,
-  "2023-08-14": 50955,
-  "2023-08-15": 50955,
-  "2023-08-16": 50955,
-  "2023-08-17": 50955,
-  "2023-08-18": 50955,
-  "2023-08-19": 50955,
-  "2023-08-20": 51155,
-  "2023-08-21": 51155,
-  "2023-08-22": 51208,
-  "2023-08-23": 51208,
-  "2023-08-24": 51208,
-  "2023-08-25": 51208,
-  "2023-08-26": 51310,
-  "2023-08-27": 51310,
-  "2023-08-28": 51368,
-  "2023-08-29": 51368,
-  "2023-08-30": 51368,
-  "2023-08-31": 51429,
-  "2023-09-01": 51450,
-  "2023-09-02": 51450,
-  "2023-09-03": 51450,
-  "2023-09-04": 51450,
-  "2023-09-05": 51450,
-  "2023-09-06": 51450,
-  "2023-09-07": 51450,
-  "2023-09-08": 51450,
-  "2023-09-09": 51450,
-  "2023-09-10": 51450,
-  "2023-09-11": 51450,
-  "2023-09-12": 51450,
-  "2023-09-13": 51450,
-  "2023-09-14": 51450,
-  "2023-09-15": 51450,
-  "2023-09-16": 51450,
-  "2023-09-17": 51450,
-  "2023-09-18": 51450,
-  "2023-09-19": 51450,
-  "2023-09-20": 51450,
-  "2023-09-21": 51450,
-  "2023-09-22": 51893,
-  "2023-09-23": 51893,
-  "2023-09-24": 51893,
-  "2023-09-25": 51893,
-  "2023-09-26": 51968,
-  "2023-09-27": 51968,
-  "2023-09-28": 51968,
-  "2023-09-29": 51968,
-  "2023-09-30": 51968,
-  "2023-10-01": 51968,
-  "2023-10-02": 51968,
-  "2023-10-03": 51968,
-  "2023-10-04": 51968,
-  "2023-10-05": 51968,
-  "2023-10-06": 51968,
-  "2023-10-07": 51968,
-  "2023-10-08": 51968,
-  "2023-10-09": 51968,
-  "2023-10-10": 51968,
-  "2023-10-11": 51968,
-  "2023-10-12": 51968,
-  "2023-10-13": 51968,
-  "2023-10-14": 51968,
-  "2023-10-15": 51968,
-  "2023-10-16": 51968,
-  "2023-10-17": 51968,
-  "2023-10-18": 51968,
-  "2023-10-19": 51968,
-  "2023-10-20": 51968,
-  "2023-10-21": 51968,
-  "2023-10-22": 51968,
-  "2023-10-23": 51968,
-  "2023-10-24": 51968,
-  "2023-10-25": 51968,
-  "2023-10-26": 51968,
-  "2023-10-27": 51968,
-  "2023-10-28": 51968,
-  "2023-10-29": 51968,
-  "2023-10-30": 51968,
-  "2023-10-31": 51968,
-  "2023-11-01": 51968,
-  "2023-11-02": 51968,
-  "2023-11-03": 51968,
-  "2023-11-04": 51968,
-  "2023-11-05": 51968,
-  "2023-11-06": 51968,
-  "2023-11-07": 51968,
-  "2023-11-08": 51968,
-  "2023-11-09": 51968,
-  "2023-11-10": 51968,
-  "2023-11-11": 52723,
-  "2023-11-12": 52723,
-  "2023-11-13": 52723,
-  "2023-11-14": 52723,
-  "2023-11-15": 52723,
-  "2023-11-16": 52723,
-  "2023-11-17": 52723,
-  "2023-11-18": 52723,
-  "2023-11-19": 52723,
-  "2023-11-20": 52723,
-  "2023-11-21": 52723,
-  "2023-11-22": 52723,
-  "2023-11-23": 52723,
-  "2023-11-24": 52723,
-  "2023-11-25": 52723,
-  "2023-11-26": 52723,
-  "2023-11-27": 52723,
-  "2023-11-28": 52723,
-  "2023-11-29": 52723,
-  "2023-11-30": 52723,
-  "2023-12-01": 52723,
-  "2023-12-02": 52723,
-  "2023-12-03": 52723,
-  "2023-12-04": 52723,
-  "2023-12-05": 52723,
-  "2023-12-06": 52723,
-  "2023-12-07": 52723,
-  "2023-12-08": 52723,
-  "2023-12-09": 52723,
-  "2023-12-10": 52723,
-  "2023-12-11": 52723,
-  "2023-12-12": 52723,
-  "2023-12-13": 52723,
-  "2023-12-14": 53256,
-  "2023-12-15": 53264,
-  "2023-12-16": 53277,
-  "2023-12-17": 53293,
-  "2023-12-18": 53306,
-  "2023-12-19": 53334,
-  "2023-12-20": 53354,
-  "2023-12-21": 53373,
-  "2023-12-22": 53385,
-  "2023-12-23": 53402,
-  "2023-12-24": 53419,
-  "2023-12-25": 53427,
-  "2023-12-26": 53442,
-  "2023-12-27": 53462,
-  "2023-12-30": 53511,
-  "2023-12-31": 53536,
-  "2024-01-01": 53563,
-  "2024-01-02": 53575,
-  "2024-01-03": 53596
+  "2024-01-17": 53490,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
+  "name": "This Is Miel San Marcos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291533,
+      "name": "Abba Padre (En Vivo)",
+      "url": "https://open.spotify.com/track/6ICi7NpKmDPhe1PLEPC2t3"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 675280,
+      "name": "Amamos Tu Presencia",
+      "url": "https://open.spotify.com/track/0WQIkqhtJBYnHBE3xMg9M7"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 98702,
+      "name": "Asombrado Estoy De Ti\u0301",
+      "url": "https://open.spotify.com/track/3wj8VGnWpF7OrvrCxcNuwO"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 595480,
+      "name": "Asombroso",
+      "url": "https://open.spotify.com/track/5rvNR35Xfw420TTfpOEOuW"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269400,
+      "name": "Bienvenido Esp\u00edritu Santo (En Vivo)",
+      "url": "https://open.spotify.com/track/34siJg7mNjQ6fKVlkpkfk5"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Sayra Morales",
+          "url": "https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 440053,
+      "name": "Bueno y Fiel",
+      "url": "https://open.spotify.com/track/0Ef4eWQf7AvVrf3idbCPsx"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 2",
+        "url": "https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274161,
+      "name": "Canto Danzo Salto",
+      "url": "https://open.spotify.com/track/5FXALCzOPuLhX07GRnrooO"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266880,
+      "name": "Como En El Cielo (En Vivo)",
+      "url": "https://open.spotify.com/track/2Dro7J9lF4xyZe4rrSTTPE"
+    },
+    {
+      "album": {
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+    },
+    {
+      "album": {
+        "name": "Coritos Con Flow",
+        "url": "https://open.spotify.com/album/5oaSETuSNMaOCrmFZbnvGf"
+      },
+      "artists": [
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276147,
+      "name": "Coritos Con Flow",
+      "url": "https://open.spotify.com/track/5Pj0EMhepLLhfMxrdMoC58"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "Cristo No Est\u00e1 Muerto (feat. Juan Carlos Alvarado)",
+      "url": "https://open.spotify.com/track/6bDHJjWEiWux7haSU8r4g5"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 145760,
+      "name": "Cuando Pienso (En Vivo)",
+      "url": "https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281773,
+      "name": "Danzo en el R\u00edo (En Vivo)",
+      "url": "https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 292186,
+      "name": "Dios en Casa",
+      "url": "https://open.spotify.com/track/5EkAXS5cUl4WPgyq8lOXSW"
+    },
+    {
+      "album": {
+        "name": "Dios Es M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/76T2IpejzH8cRehny18FeY"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505559,
+      "name": "Dios Es M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/61nCXpmkNR2c196EaZhYgx"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 421013,
+      "name": "Dios Est\u00e1 Aqui (En Vivo)",
+      "url": "https://open.spotify.com/track/5X5nNbkEKKb4Ew1ZWvw6V6"
+    },
+    {
+      "album": {
+        "name": "Dios No Est\u00e1 Muerto",
+        "url": "https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 255451,
+      "name": "Dios No Est\u00e1 Muerto",
+      "url": "https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "El Poderoso de Israel (En Vivo)",
+      "url": "https://open.spotify.com/track/1I2KbwfhA7HoevQOVhh91O"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 259255,
+      "name": "El Santo De Israel",
+      "url": "https://open.spotify.com/track/2ugLJRJQWip01Kymf9XGgB"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99093,
+      "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
+      "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
+    },
+    {
+      "album": {
+        "name": "Dios Es Real",
+        "url": "https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 255628,
+      "name": "Eres Mi Escudo",
+      "url": "https://open.spotify.com/track/0vujY1TZglxCttCtELth5n"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105080,
+      "name": "Eres Todopoderoso (En Vivo)",
+      "url": "https://open.spotify.com/track/6O7y9cPLTZd7nycusbRc5P"
+    },
+    {
+      "album": {
+        "name": "Sol Detente",
+        "url": "https://open.spotify.com/album/4dKg3gO30DIdyaUEFWBHi0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv"
+        },
+        {
+          "name": "Resq Band",
+          "url": "https://open.spotify.com/artist/4Jlicahon7H3brjY6BqI1W"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 295874,
+      "name": "Es por Amor",
+      "url": "https://open.spotify.com/track/7qxtwOk7ePRURULyXarzcY"
+    },
+    {
+      "album": {
+        "name": "Esa Es La Raz\u00f3n (Live)",
+        "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 395757,
+      "name": "Esa Es La Raz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
+    },
+    {
+      "album": {
+        "name": "Est\u00e1s Aqu\u00ed",
+        "url": "https://open.spotify.com/album/71kn6BrX7wojfsC5UeBbxn"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rivera",
+          "url": "https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 321536,
+      "name": "Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3PfeHVs2TwHtE1xeWvkrRw"
+    },
+    {
+      "album": {
+        "name": "Babies (Musica para bebes)",
+        "url": "https://open.spotify.com/album/7a3R6BXHJSGQqwFoswzH2O"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 300696,
+      "name": "Exaltado Estas",
+      "url": "https://open.spotify.com/track/0k6gGvr8QN8Pa8AffUZQmK"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370880,
+      "name": "Exaltado Estas (En Vivo) [feat. Marco Barrientos]",
+      "url": "https://open.spotify.com/track/2o2alg3IL3k2qWyo8dDIOF"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256480,
+      "name": "Fiesta (En Vivo)",
+      "url": "https://open.spotify.com/track/7lBkUdbFVA1qXHP0hpVrIu"
+    },
+    {
+      "album": {
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Glorificate",
+      "url": "https://open.spotify.com/track/5IgyeqmhQwYvaztSsPH71W"
+    },
+    {
+      "album": {
+        "name": "La Bondad de Dios",
+        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
+      },
+      "artists": [
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 253636,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/4ySbI6S4pEd3ipwasuVjec"
+    },
+    {
+      "album": {
+        "name": "GOZO",
+        "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237367,
+      "name": "GOZO",
+      "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 200613,
+      "name": "Grande Y Fuerte",
+      "url": "https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "Grande Y Fuerte",
+      "url": "https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98866,
+      "name": "Hay Libertad",
+      "url": "https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd"
+    },
+    {
+      "album": {
+        "name": "Holy Forever (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317805,
+      "name": "Holy Forever - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss"
+    },
+    {
+      "album": {
+        "name": "Impresionante",
+        "url": "https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336709,
+      "name": "Impresionante",
+      "url": "https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395320,
+      "name": "Incre\u00edble (En Vivo)",
+      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
+    },
+    {
+      "album": {
+        "name": "X SIEMPRE",
+        "url": "https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349280,
+      "name": "Jesucristo Basta",
+      "url": "https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai"
+    },
+    {
+      "album": {
+        "name": "J\u00fabilo",
+        "url": "https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 621407,
+      "name": "J\u00fabilo",
+      "url": "https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC"
+    },
+    {
+      "album": {
+        "name": "Mil Generaciones",
+        "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
+      },
+      "artists": [
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326133,
+      "name": "La Bendici\u00f3n (versi\u00f3n Miel San Marcos).",
+      "url": "https://open.spotify.com/track/4NHUmpU8K8dGLqG5qItgfR"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305015,
+      "name": "Leva\u0301ntate Sen\u0303or",
+      "url": "https://open.spotify.com/track/5dip7Lh3J6oCCvISSdr1aO"
+    },
+    {
+      "album": {
+        "name": "Lev\u00e1ntate Guate",
+        "url": "https://open.spotify.com/album/2H05XbhqPl4AKrOz8RoUYS"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 251826,
+      "name": "Lev\u00e1ntate Guate",
+      "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275840,
+      "name": "Libre (En Vivo)",
+      "url": "https://open.spotify.com/track/6c3QDOm29A9xC8VFiFJMB1"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Lleg\u00f3 El Tiempo",
+      "url": "https://open.spotify.com/track/5xOdXiAQl8b9OAedNfeI8o"
+    },
+    {
+      "album": {
+        "name": "Los Momentos",
+        "url": "https://open.spotify.com/album/47lwNt04IjKhtt3tkca0jW"
+      },
+      "artists": [
+        {
+          "name": "Zulmy Mejia",
+          "url": "https://open.spotify.com/artist/5VTAZuaQJTNnsT3IozleG9"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 311386,
+      "name": "Los Momentos",
+      "url": "https://open.spotify.com/track/0uiIr4j8np66FGibPwLmVU"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Los Muros Caer\u00e1n",
+      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
+    },
+    {
+      "album": {
+        "name": "Me Basta Tu Palabra",
+        "url": "https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "Me Basta Tu Palabra",
+      "url": "https://open.spotify.com/track/057pumBKYToozI7AF5bNwP"
+    },
+    {
+      "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 722770,
+      "name": "Medley Evangelio (En Vivo)",
+      "url": "https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG"
+    },
+    {
+      "album": {
+        "name": "Mi Dios",
+        "url": "https://open.spotify.com/album/25LnH10K7SGRrrA5X9aSXE"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298976,
+      "name": "Mi Dios",
+      "url": "https://open.spotify.com/track/2sv8SthOOhWNAd9diJG7d2"
+    },
+    {
+      "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 591586,
+      "name": "Mi Refugio",
+      "url": "https://open.spotify.com/track/7aAWdWYyvNqhKH5cMS8IOh"
+    },
+    {
+      "album": {
+        "name": "Fiesta MSM Kids",
+        "url": "https://open.spotify.com/album/2qSgetII4ZmXfaYq1wQsnA"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos Kids",
+          "url": "https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 305282,
+      "name": "Mi Sanador",
+      "url": "https://open.spotify.com/track/7n4be2oBGbJXLT9AZ7OdEv"
+    },
+    {
+      "album": {
+        "name": "Mil Generaciones",
+        "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
+      },
+      "artists": [
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 263413,
+      "name": "Mi Testimonio",
+      "url": "https://open.spotify.com/track/4B35xmQlweeJW3MVXoZHK5"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "UPPEROOM",
+          "url": "https://open.spotify.com/artist/0426BYo2LGmXZAUNv5BsMJ"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 613666,
+      "name": "Mover Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1npfE6XYVD9lQKHobWkLrR"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246167,
+      "name": "Mu\u0301sica del Cielo",
+      "url": "https://open.spotify.com/track/3AEy6WuEVCftiWdm6cX91m"
+    },
+    {
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/1t39A0vsBWAJUmjWY58KsX"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436631,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/4ilNreJxoar2uDpYCeOr0P"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488333,
+      "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
+      "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
+    },
+    {
+      "album": {
+        "name": "No Hay Otro Amor Igual",
+        "url": "https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe"
+      },
+      "artists": [
+        {
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
+        },
+        {
+          "name": "Sayra Morales",
+          "url": "https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375812,
+      "name": "No Hay Otro Amor Igual",
+      "url": "https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (En Vivo)",
+        "url": "https://open.spotify.com/album/3OXFYZ0hNUqEhgQMiq1716"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 473742,
+      "name": "Poderoso Dios (Grande y Fiel) - En Vivo",
+      "url": "https://open.spotify.com/track/43kj9K6lV6TgvEbPEMtD87"
+    },
+    {
+      "album": {
+        "name": "Proverbios",
+        "url": "https://open.spotify.com/album/2Jk1xdlyvHZebQuCgyPhQR"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Proverbios 1",
+      "url": "https://open.spotify.com/track/60A3y9ISFy58PZVRm6YppC"
+    },
+    {
+      "album": {
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 74173,
+      "name": "Que Jesus Brille Aqui",
+      "url": "https://open.spotify.com/track/6lRrjIP4TAFiH6NweQAeyA"
+    },
+    {
+      "album": {
+        "name": "El Abrazo De Mi Padre (En Vivo)",
+        "url": "https://open.spotify.com/album/1n5VT7UWkZe2LuNZYSrEZB"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 344737,
+      "name": "Recibo Mi Milagro feat. Josh Morales \"Miel San Marcos\" (En Vivo)",
+      "url": "https://open.spotify.com/track/0E3z3U8GjuxRWhLuhHICVg"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173450,
+      "name": "Regoci\u0301jate Oh Moradora De Sio\u0301n",
+      "url": "https://open.spotify.com/track/6aSJ4pf8B5gzAFV5XF6gF2"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Fernel Monroy",
+          "url": "https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95093,
+      "name": "Remolineando (feat. Fernel Monroy)",
+      "url": "https://open.spotify.com/track/1NmECxDikubj4Hhu1dbrhl"
+    },
+    {
+      "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281782,
+      "name": "Shekina (En Vivo)",
+      "url": "https://open.spotify.com/track/08xvwy9R89yO8WS0P6DaT2"
+    },
+    {
+      "album": {
+        "name": "Shekinah (Live)",
+        "url": "https://open.spotify.com/album/2SQD8ab2EyVjV3ElLH5EEP"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510941,
+      "name": "Shekinah - Live",
+      "url": "https://open.spotify.com/track/6f1NmXQdtaJslToszzblhA"
+    },
+    {
+      "album": {
+        "name": "Sobre La Roca",
+        "url": "https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 216864,
+      "name": "Sobre La Roca (con Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK"
+    },
+    {
+      "album": {
+        "name": "Su Poder",
+        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302587,
+      "name": "Su Poder",
+      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
+    },
+    {
+      "album": {
+        "name": "ROMPE EL CIELO",
+        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
+      },
+      "artists": [
+        {
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 352941,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp"
+    },
+    {
+      "album": {
+        "name": "Tu Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 278853,
+      "name": "Tu Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 287026,
+      "name": "Tu Nombre (feat. Coalo Zamorano)",
+      "url": "https://open.spotify.com/track/5SMyRgHJ9ZfM97ZffH0Tsl"
+    },
+    {
+      "album": {
+        "name": "Tu Nombre En Alto",
+        "url": "https://open.spotify.com/album/6uRbmxc6aomjmDX2Kq8QpW"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 307830,
+      "name": "Tu Nombre En Alto",
+      "url": "https://open.spotify.com/track/0XGSyE6SQxhnUEneW5csyg"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469537,
+      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
+    },
+    {
+      "album": {
+        "name": "Mil Generaciones",
+        "url": "https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294253,
+      "name": "Tumbas A Jardines (feat. Elevation Worship)",
+      "url": "https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l"
+    },
+    {
+      "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Viene Ya (En Vivo)",
+      "url": "https://open.spotify.com/track/0ENmylIk4ML9ijKZdhml8T"
+    },
+    {
+      "album": {
+        "name": "Pentecost\u00e9s (En Vivo)",
+        "url": "https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 260600,
+      "name": "Viento Recio (En Vivo)",
+      "url": "https://open.spotify.com/track/6jBHRJLPqC90s97aj7TWxV"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183854,
+      "name": "Vino Celestial",
+      "url": "https://open.spotify.com/track/2Idfgbdvy9O1Ii6KpHB3kV"
+    },
+    {
+      "album": {
+        "name": "Avivamiento 1",
+        "url": "https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 225127,
+      "name": "Vivo Para Adorarte",
+      "url": "https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn"
+    },
+    {
+      "album": {
+        "name": "Yeshua el Sonido de Libertad",
+        "url": "https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323365,
+      "name": "Yeshua el Sonido de Libertad",
+      "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"
+    },
+    {
+      "album": {
+        "name": "Dios En Casa",
+        "url": "https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Yo Ir\u00e9",
+      "url": "https://open.spotify.com/track/6AaawfHLnIerBSX3TuTRid"
+    },
+    {
+      "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331730,
+      "name": "Yo Ir\u00e9 / Soy Feliz (En Vivo)",
+      "url": "https://open.spotify.com/track/6eQAS1mIHgKxvSNJ8WmQrg"
+    },
+    {
+      "album": {
+        "name": "Dios Es Real",
+        "url": "https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468578,
+      "name": "Yo Vencer\u00e9",
+      "url": "https://open.spotify.com/track/6q8gNL44VMVDo4rx6wF8nC"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Ovidio Barrios",
+          "url": "https://open.spotify.com/artist/2CbtwylZWjiihnTSvxWCZw"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101866,
+      "name": "\u00d3leo De Alegr\u00eda (feat. Ovidio Barrios)",
+      "url": "https://open.spotify.com/track/56W5sxRrdEjCgAO0ZrWWVK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2"
 }

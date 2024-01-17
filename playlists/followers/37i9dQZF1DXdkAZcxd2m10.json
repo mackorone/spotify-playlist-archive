@@ -1,98 +1,575 @@
 {
-  "2023-09-28": 19459,
-  "2023-09-29": 19459,
-  "2023-09-30": 19459,
-  "2023-10-01": 19484,
-  "2023-10-02": 19493,
-  "2023-10-03": 19506,
-  "2023-10-04": 19522,
-  "2023-10-05": 19527,
-  "2023-10-06": 19544,
-  "2023-10-07": 19544,
-  "2023-10-08": 19580,
-  "2023-10-09": 19580,
-  "2023-10-10": 19580,
-  "2023-10-11": 19599,
-  "2023-10-12": 19599,
-  "2023-10-13": 19621,
-  "2023-10-14": 19621,
-  "2023-10-15": 19621,
-  "2023-10-16": 19621,
-  "2023-10-17": 19621,
-  "2023-10-18": 19621,
-  "2023-10-19": 19621,
-  "2023-10-20": 19621,
-  "2023-10-21": 19621,
-  "2023-10-22": 19621,
-  "2023-10-23": 19621,
-  "2023-10-24": 19621,
-  "2023-10-25": 19621,
-  "2023-10-26": 19621,
-  "2023-10-27": 19621,
-  "2023-10-28": 19621,
-  "2023-10-29": 19621,
-  "2023-10-30": 19621,
-  "2023-10-31": 19621,
-  "2023-11-01": 19621,
-  "2023-11-02": 19621,
-  "2023-11-03": 19621,
-  "2023-11-04": 19621,
-  "2023-11-05": 19621,
-  "2023-11-06": 19621,
-  "2023-11-07": 19621,
-  "2023-11-08": 19621,
-  "2023-11-09": 19621,
-  "2023-11-10": 19621,
-  "2023-11-11": 19750,
-  "2023-11-12": 19750,
-  "2023-11-13": 19750,
-  "2023-11-14": 19750,
-  "2023-11-15": 19750,
-  "2023-11-16": 19750,
-  "2023-11-17": 19768,
-  "2023-11-18": 19768,
-  "2023-11-19": 19768,
-  "2023-11-20": 19768,
-  "2023-11-21": 19768,
-  "2023-11-22": 19768,
-  "2023-11-23": 19768,
-  "2023-11-24": 19768,
-  "2023-11-25": 19768,
-  "2023-11-26": 19768,
-  "2023-11-27": 19768,
-  "2023-11-28": 19768,
-  "2023-11-29": 19768,
-  "2023-11-30": 19768,
-  "2023-12-01": 19768,
-  "2023-12-02": 19768,
-  "2023-12-03": 19768,
-  "2023-12-04": 19768,
-  "2023-12-05": 19768,
-  "2023-12-06": 19768,
-  "2023-12-07": 19768,
-  "2023-12-08": 19768,
-  "2023-12-09": 19768,
-  "2023-12-10": 19768,
-  "2023-12-11": 19768,
-  "2023-12-12": 19768,
-  "2023-12-13": 19768,
-  "2023-12-14": 19847,
-  "2023-12-15": 19845,
-  "2023-12-16": 19850,
-  "2023-12-17": 19857,
-  "2023-12-18": 19860,
-  "2023-12-19": 19865,
-  "2023-12-20": 19865,
-  "2023-12-21": 19861,
-  "2023-12-22": 19866,
-  "2023-12-23": 19874,
-  "2023-12-24": 19888,
-  "2023-12-25": 19895,
-  "2023-12-26": 19898,
-  "2023-12-27": 19909,
-  "2023-12-30": 19942,
-  "2023-12-31": 19957,
-  "2024-01-01": 19967,
-  "2024-01-02": 19971,
-  "2024-01-03": 19977
+  "2024-01-17": 20138,
+  "date_first_scraped": "2023-09-28",
+  "description": "La playlist oficial de A trav\u00e9s de mi ventana.  <a href=\u201chttps://www.netflix.com/title/81388078\u201d>Ver en Netflix </a> \n",
+  "name": "A trav\u00e9s de mi ventana",
+  "tracks": [
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/0A3emk9BbzDwy9cwUua8YM"
+      },
+      "artists": [
+        {
+          "name": "Roberta Nikita",
+          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/4vRalLs0WqfkeKTv1o1Wqx"
+    },
+    {
+      "album": {
+        "name": "Movidas",
+        "url": "https://open.spotify.com/album/66fkpLvul6MpQX4bACd1I5"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169018,
+      "name": "Canci\u00f3n De Pop De Amor",
+      "url": "https://open.spotify.com/track/1FQ0oX2fjXeD3RNQUEHnnr"
+    },
+    {
+      "album": {
+        "name": "Cold Fear",
+        "url": "https://open.spotify.com/album/2SC3K7E1ISQeoZHZWK9hFY"
+      },
+      "artists": [
+        {
+          "name": "Cornelus Bolten",
+          "url": "https://open.spotify.com/artist/04QXozxY1HFZRCw9w7bS58"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Cold Fear 20",
+      "url": "https://open.spotify.com/track/1OoowaTZus4zFDxCsn4nxE"
+    },
+    {
+      "album": {
+        "name": "Todo Mal",
+        "url": "https://open.spotify.com/album/4bpZIdAt4WhuCtfxb8P0JR"
+      },
+      "artists": [
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cuanto M\u00e1s",
+      "url": "https://open.spotify.com/track/6JvHK1yy7PEN0yrpIc54mu"
+    },
+    {
+      "album": {
+        "name": "Un Soplo En El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0XmSVwHuTHRnwy8pvfD0vs"
+      },
+      "artists": [
+        {
+          "name": "Family",
+          "url": "https://open.spotify.com/artist/1qYyfVCh404G4yUnVWr72I"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Dame Estrellas O Limones",
+      "url": "https://open.spotify.com/track/4vDuTsANp7ABw1gmibsfwg"
+    },
+    {
+      "album": {
+        "name": "Cape God",
+        "url": "https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB"
+    },
+    {
+      "album": {
+        "name": "Depresi\u00f3n Sonora",
+        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Dime Que Me Odias",
+      "url": "https://open.spotify.com/track/45Bs2kaTWFUVJQV7Cpzn2x"
+    },
+    {
+      "album": {
+        "name": "Salu2",
+        "url": "https://open.spotify.com/album/76TfhYNf67u3tX8EnGJm70"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Doble Check",
+      "url": "https://open.spotify.com/track/1Ddiwyf1k01hzNARTJai9x"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Romantico Vol.2",
+        "url": "https://open.spotify.com/album/6fzxjrhcR6dt6MBsxXTNd5"
+      },
+      "artists": [
+        {
+          "name": "BEA PELEA",
+          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "El Deseo",
+      "url": "https://open.spotify.com/track/0VwkeLGHqfVlN4UiWqWKcG"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ"
+      },
+      "artists": [
+        {
+          "name": "Chico Blanco",
+          "url": "https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282694,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/5CToP4zkykujDhW9841aGO"
+    },
+    {
+      "album": {
+        "name": "Escama",
+        "url": "https://open.spotify.com/album/4NYnACTDLJ1YHcbnEpPh7D"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Invierno Nuclear",
+      "url": "https://open.spotify.com/track/0wK1nvACkwDtDPAL0PmE6E"
+    },
+    {
+      "album": {
+        "name": "La Chica Vampira",
+        "url": "https://open.spotify.com/album/47DNBrVLE0i9SliSZLkcyG"
+      },
+      "artists": [
+        {
+          "name": "Papa Topo",
+          "url": "https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195509,
+      "name": "La Chica Vampira",
+      "url": "https://open.spotify.com/track/5oydfev1bUohUndTXJFr4D"
+    },
+    {
+      "album": {
+        "name": "Lagrimas De Amor",
+        "url": "https://open.spotify.com/album/4BZKTMUAhiQbF9EoTZH5up"
+      },
+      "artists": [
+        {
+          "name": "Camela",
+          "url": "https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "Lagrimas De Amor",
+      "url": "https://open.spotify.com/track/7wjQF9XTCrjvQZLeZBGMWs"
+    },
+    {
+      "album": {
+        "name": "ER PATIO LOS NEONES",
+        "url": "https://open.spotify.com/album/7JFECM0keqEPTGLrXIcJvR"
+      },
+      "artists": [
+        {
+          "name": "VAN17INO6",
+          "url": "https://open.spotify.com/artist/1KvmfQHAXGVqhTeFJRAGpT"
+        },
+        {
+          "name": "David Clean",
+          "url": "https://open.spotify.com/artist/62NsSctz6AanUTNNfk012C"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Or Nai Long",
+      "url": "https://open.spotify.com/track/0uwAIK45bT5bY4FDxDhWd6"
+    },
+    {
+      "album": {
+        "name": "Alcohol & Sullivans",
+        "url": "https://open.spotify.com/album/0ttHxWekHBnNNzjPsyXS86"
+      },
+      "artists": [
+        {
+          "name": "Albany",
+          "url": "https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu"
+        },
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172139,
+      "name": "Para Que No Duela",
+      "url": "https://open.spotify.com/track/2CX2vf8md18bXf53T6whla"
+    },
+    {
+      "album": {
+        "name": "Pulpito Reversible",
+        "url": "https://open.spotify.com/album/1YOHRIkTqiXwObR5iWq92D"
+      },
+      "artists": [
+        {
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+        },
+        {
+          "name": "Lopoint",
+          "url": "https://open.spotify.com/artist/7HhLB2JQ70uBnLeDnovNcK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96461,
+      "name": "Pulpito Reversible",
+      "url": "https://open.spotify.com/track/1aGwFVcg2qjgxzITmuwHUz"
+    },
+    {
+      "album": {
+        "name": "Pero No Pasa Nada",
+        "url": "https://open.spotify.com/album/64hXEHSg8N1MsIEidDSIyy"
+      },
+      "artists": [
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197574,
+      "name": "Quiero Que Vengas",
+      "url": "https://open.spotify.com/track/2eucUeV1hvStstsZMXxJVV"
+    },
+    {
+      "album": {
+        "name": "ER PATIO LOS NEONES",
+        "url": "https://open.spotify.com/album/7JFECM0keqEPTGLrXIcJvR"
+      },
+      "artists": [
+        {
+          "name": "VAN17INO6",
+          "url": "https://open.spotify.com/artist/1KvmfQHAXGVqhTeFJRAGpT"
+        },
+        {
+          "name": "Plasaporros",
+          "url": "https://open.spotify.com/artist/7mKzx4MI33Oh7Iwax45huo"
+        },
+        {
+          "name": "Killmiya",
+          "url": "https://open.spotify.com/artist/0qPLXWNlD9qrWeZwlvGcgV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Quizz",
+      "url": "https://open.spotify.com/track/7DkWvPoalR0rqDuPuomNsX"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Romantico Vol 1",
+        "url": "https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6"
+      },
+      "artists": [
+        {
+          "name": "BEA PELEA",
+          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199585,
+      "name": "Si No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0"
+    },
+    {
+      "album": {
+        "name": "So So",
+        "url": "https://open.spotify.com/album/6jpd8mseja2OVaHniWe0Oa"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125557,
+      "name": "So So",
+      "url": "https://open.spotify.com/track/7s9xtALBX5o96TjRB7R078"
+    },
+    {
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/6jA8JYR7URcGLGV5aVIsNM"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242016,
+      "name": "Sola Con Mi Voz",
+      "url": "https://open.spotify.com/track/5mqLmisIXbtmHLejbnEQAz"
+    },
+    {
+      "album": {
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/3ZNHCkbXTlVa035JPnNx1K"
+      },
+      "artists": [
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        },
+        {
+          "name": "Albany",
+          "url": "https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2lwrv8g1JbRlhhqYpPVnlE"
+    },
+    {
+      "album": {
+        "name": "Te Brillan",
+        "url": "https://open.spotify.com/album/7ILHhwV3N8yfJ9T4emipcU"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192142,
+      "name": "Te Brillan",
+      "url": "https://open.spotify.com/track/1xrcnchnJNRvYoehmadxfb"
+    },
+    {
+      "album": {
+        "name": "Te Odio, Te Amo (De A Trav\u00e9s de Mi Ventana)",
+        "url": "https://open.spotify.com/album/5Do3EOBrmyXa3DQMzu3CM8"
+      },
+      "artists": [
+        {
+          "name": "Albany",
+          "url": "https://open.spotify.com/artist/0W7oBn4W3biry1eehAk8wu"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178709,
+      "name": "Te Odio, Te Amo - De A Trav\u00e9s de Mi Ventana",
+      "url": "https://open.spotify.com/track/37U0V2N263MEmj1PTnz7yp"
+    },
+    {
+      "album": {
+        "name": "Life After House",
+        "url": "https://open.spotify.com/album/2yx5Yly6c6S3RHAcdVutBk"
+      },
+      "artists": [
+        {
+          "name": "Chico Blanco",
+          "url": "https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327597,
+      "name": "Tech Love (Otra Vez)",
+      "url": "https://open.spotify.com/track/6ybpv1iwdGEkgHF9PB8Tyg"
+    },
+    {
+      "album": {
+        "name": "Recuerdos un poco antes y un poco despues de conocer a 1 xico (el mio)",
+        "url": "https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Tocame el culo",
+      "url": "https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe"
+    },
+    {
+      "album": {
+        "name": "The Akron Quartet Plays \"Ritualul Sferei\"",
+        "url": "https://open.spotify.com/album/2CDjq9CrnaCZzY8uHe6HrJ"
+      },
+      "artists": [
+        {
+          "name": "Akron",
+          "url": "https://open.spotify.com/artist/45IqlMXLUpoBZFleCbvBUv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147137,
+      "name": "Tricorder",
+      "url": "https://open.spotify.com/track/0X970883UAzMVpILfUDmYx"
+    },
+    {
+      "album": {
+        "name": "Worldwide Angel",
+        "url": "https://open.spotify.com/album/4CseW0RVZOocevhdVs3pLV"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Fakeguido",
+          "url": "https://open.spotify.com/artist/0AK3HD29uDPufiH2YWi1VG"
+        },
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189242,
+      "name": "Yo Sigo Iual - Prod. Fakeguido & el Guincho",
+      "url": "https://open.spotify.com/track/25RN6owXD29BH7fu2vlz3q"
+    },
+    {
+      "album": {
+        "name": "\u00a1Hola, Mi Amor!",
+        "url": "https://open.spotify.com/album/5vCHBm1Kh3jvsWLsklo3ge"
+      },
+      "artists": [
+        {
+          "name": "Chavales",
+          "url": "https://open.spotify.com/artist/5sOiOYJjn604pooGW8HlGF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154701,
+      "name": "\u00a1Hola, Mi Amor!",
+      "url": "https://open.spotify.com/track/0nx9jYqyxwX4fmt67GOizz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdkAZcxd2m10"
 }

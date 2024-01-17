@@ -1,734 +1,3585 @@
 {
-  "2021-12-25": 498581,
-  "2021-12-26": 498742,
-  "2021-12-27": 499100,
-  "2021-12-28": 499102,
-  "2021-12-29": 499257,
-  "2021-12-30": 499413,
-  "2021-12-31": 499538,
-  "2022-01-01": 499819,
-  "2022-01-02": 499870,
-  "2022-01-03": 500034,
-  "2022-01-04": 500172,
-  "2022-01-05": 500346,
-  "2022-01-06": 500515,
-  "2022-01-07": 500667,
-  "2022-01-08": 501038,
-  "2022-01-09": 501043,
-  "2022-01-10": 501242,
-  "2022-01-11": 501435,
-  "2022-01-12": 501617,
-  "2022-01-13": 501809,
-  "2022-01-14": 501951,
-  "2022-01-15": 502285,
-  "2022-01-16": 502296,
-  "2022-01-17": 502743,
-  "2022-01-18": 502767,
-  "2022-01-19": 502921,
-  "2022-01-20": 503095,
-  "2022-01-21": 503241,
-  "2022-01-22": 503398,
-  "2022-01-23": 503597,
-  "2022-01-24": 503790,
-  "2022-01-25": 503961,
-  "2022-01-26": 504133,
-  "2022-01-27": 504304,
-  "2022-01-28": 504504,
-  "2022-01-29": 504657,
-  "2022-01-30": 504873,
-  "2022-01-31": 505052,
-  "2022-02-01": 505203,
-  "2022-02-02": 505385,
-  "2022-02-03": 505572,
-  "2022-02-04": 505754,
-  "2022-02-05": 505974,
-  "2022-02-06": 506134,
-  "2022-02-07": 506306,
-  "2022-02-08": 506472,
-  "2022-02-09": 506618,
-  "2022-02-10": 506792,
-  "2022-02-11": 506945,
-  "2022-02-12": 507078,
-  "2022-02-13": 507261,
-  "2022-02-14": 507428,
-  "2022-02-15": 507561,
-  "2022-02-16": 507693,
-  "2022-02-17": 507820,
-  "2022-02-19": 508132,
-  "2022-02-20": 508305,
-  "2022-02-21": 508479,
-  "2022-02-22": 508677,
-  "2022-02-23": 508854,
-  "2022-02-24": 509051,
-  "2022-02-25": 509194,
-  "2022-02-26": 509347,
-  "2022-02-27": 509612,
-  "2022-02-28": 509612,
-  "2022-03-01": 509764,
-  "2022-03-02": 509912,
-  "2022-03-03": 510041,
-  "2022-03-04": 510176,
-  "2022-03-05": 510327,
-  "2022-03-06": 510458,
-  "2022-03-07": 510629,
-  "2022-03-08": 510795,
-  "2022-03-09": 510971,
-  "2022-03-10": 511143,
-  "2022-03-11": 511318,
-  "2022-03-12": 511479,
-  "2022-03-13": 511613,
-  "2022-03-14": 511780,
-  "2022-03-15": 511940,
-  "2022-03-16": 512082,
-  "2022-03-17": 512214,
-  "2022-03-18": 512440,
-  "2022-03-19": 512539,
-  "2022-03-20": 512539,
-  "2022-03-21": 512890,
-  "2022-03-22": 513063,
-  "2022-03-23": 513280,
-  "2022-03-24": 513458,
-  "2022-03-25": 513651,
-  "2022-03-26": 513813,
-  "2022-03-27": 513975,
-  "2022-03-28": 514141,
-  "2022-03-30": 514410,
-  "2022-03-31": 514596,
-  "2022-04-01": 514775,
-  "2022-04-02": 514955,
-  "2022-04-03": 515132,
-  "2022-04-04": 515273,
-  "2022-04-05": 515439,
-  "2022-04-06": 515616,
-  "2022-04-07": 515824,
-  "2022-04-08": 515992,
-  "2022-04-09": 516162,
-  "2022-04-10": 516506,
-  "2022-04-11": 516670,
-  "2022-04-12": 516696,
-  "2022-04-13": 516838,
-  "2022-04-14": 516967,
-  "2022-04-15": 517101,
-  "2022-04-16": 517286,
-  "2022-04-17": 517414,
-  "2022-04-18": 517585,
-  "2022-04-19": 517702,
-  "2022-04-20": 517872,
-  "2022-04-21": 518033,
-  "2022-04-22": 518180,
-  "2022-04-23": 518349,
-  "2022-04-24": 518480,
-  "2022-04-25": 518627,
-  "2022-04-26": 518788,
-  "2022-04-27": 518967,
-  "2022-04-28": 519103,
-  "2022-04-29": 519304,
-  "2022-04-30": 519490,
-  "2022-05-01": 519709,
-  "2022-05-02": 519709,
-  "2022-05-03": 519852,
-  "2022-05-04": 520003,
-  "2022-05-05": 520197,
-  "2022-05-06": 520393,
-  "2022-05-07": 520612,
-  "2022-05-08": 520900,
-  "2022-05-09": 520928,
-  "2022-05-10": 521104,
-  "2022-05-11": 521301,
-  "2022-05-12": 521440,
-  "2022-05-13": 521595,
-  "2022-05-14": 521753,
-  "2022-05-15": 521919,
-  "2022-05-16": 522090,
-  "2022-05-17": 522259,
-  "2022-05-18": 522440,
-  "2022-05-19": 522608,
-  "2022-05-20": 522775,
-  "2022-05-21": 523054,
-  "2022-05-22": 523054,
-  "2022-05-23": 523208,
-  "2022-05-24": 523364,
-  "2022-05-25": 523506,
-  "2022-05-26": 523671,
-  "2022-05-27": 523803,
-  "2022-05-28": 523957,
-  "2022-05-29": 524102,
-  "2022-05-30": 524253,
-  "2022-05-31": 524406,
-  "2022-06-01": 524680,
-  "2022-06-02": 524697,
-  "2022-06-03": 524839,
-  "2022-06-04": 524986,
-  "2022-06-05": 525133,
-  "2022-06-06": 525267,
-  "2022-06-07": 525402,
-  "2022-06-08": 525581,
-  "2022-06-09": 525719,
-  "2022-06-10": 525883,
-  "2022-06-11": 526031,
-  "2022-06-12": 526189,
-  "2022-06-13": 526356,
-  "2022-06-14": 526480,
-  "2022-06-15": 526617,
-  "2022-06-16": 526746,
-  "2022-06-17": 526883,
-  "2022-06-18": 527011,
-  "2022-06-19": 527236,
-  "2022-06-20": 527236,
-  "2022-06-21": 527353,
-  "2022-06-22": 527598,
-  "2022-06-23": 527598,
-  "2022-06-24": 527720,
-  "2022-06-25": 527874,
-  "2022-06-26": 528030,
-  "2022-06-27": 528172,
-  "2022-06-28": 528296,
-  "2022-06-29": 528442,
-  "2022-06-30": 528569,
-  "2022-07-01": 528709,
-  "2022-07-02": 528829,
-  "2022-07-03": 528958,
-  "2022-07-04": 529096,
-  "2022-07-05": 529232,
-  "2022-07-06": 529381,
-  "2022-07-07": 529531,
-  "2022-07-08": 529663,
-  "2022-07-09": 529803,
-  "2022-07-10": 529926,
-  "2022-07-11": 530068,
-  "2022-07-12": 530205,
-  "2022-07-13": 530357,
-  "2022-07-14": 530479,
-  "2022-07-15": 530619,
-  "2022-07-16": 530772,
-  "2022-07-17": 530928,
-  "2022-07-18": 531094,
-  "2022-07-19": 531256,
-  "2022-07-20": 531388,
-  "2022-07-21": 531510,
-  "2022-07-22": 531663,
-  "2022-07-23": 531815,
-  "2022-07-24": 531978,
-  "2022-07-25": 532115,
-  "2022-07-26": 532273,
-  "2022-07-27": 532407,
-  "2022-07-28": 532563,
-  "2022-07-29": 532741,
-  "2022-07-30": 533011,
-  "2022-07-31": 533011,
-  "2022-08-01": 533176,
-  "2022-08-02": 533452,
-  "2022-08-03": 533452,
-  "2022-08-04": 533583,
-  "2022-08-05": 533731,
-  "2022-08-06": 533853,
-  "2022-08-07": 534015,
-  "2022-08-08": 534196,
-  "2022-08-09": 534347,
-  "2022-08-10": 534532,
-  "2022-08-11": 534664,
-  "2022-08-12": 534845,
-  "2022-08-13": 534997,
-  "2022-08-14": 535123,
-  "2022-08-15": 535273,
-  "2022-08-16": 535425,
-  "2022-08-17": 535585,
-  "2022-08-18": 535760,
-  "2022-08-19": 535887,
-  "2022-08-20": 536043,
-  "2022-08-21": 536215,
-  "2022-08-22": 536383,
-  "2022-08-23": 536533,
-  "2022-08-24": 536665,
-  "2022-08-25": 536851,
-  "2022-08-26": 537032,
-  "2022-08-27": 537227,
-  "2022-08-28": 537397,
-  "2022-08-29": 537603,
-  "2022-08-30": 537351,
-  "2022-08-31": 536652,
-  "2022-09-01": 535785,
-  "2022-09-02": 535997,
-  "2022-09-03": 535215,
-  "2022-09-04": 533716,
-  "2022-09-05": 532990,
-  "2022-09-06": 533131,
-  "2022-09-07": 533332,
-  "2022-09-09": 533733,
-  "2022-09-10": 533915,
-  "2022-09-11": 534125,
-  "2022-09-12": 534295,
-  "2022-09-13": 534501,
-  "2022-09-15": 534898,
-  "2022-09-16": 535098,
-  "2022-09-17": 535274,
-  "2022-09-18": 535486,
-  "2022-09-19": 535699,
-  "2022-09-20": 535906,
-  "2022-09-21": 536129,
-  "2022-09-22": 536314,
-  "2022-09-23": 536530,
-  "2022-09-24": 536739,
-  "2022-09-25": 536936,
-  "2022-09-26": 537162,
-  "2022-09-27": 537335,
-  "2022-09-28": 537560,
-  "2022-09-29": 537782,
-  "2022-09-30": 538006,
-  "2022-10-01": 538207,
-  "2022-10-02": 538417,
-  "2022-10-03": 538645,
-  "2022-10-04": 538862,
-  "2022-10-05": 539073,
-  "2022-10-06": 539287,
-  "2022-10-07": 539494,
-  "2022-10-08": 539659,
-  "2022-10-09": 540000,
-  "2022-10-10": 540049,
-  "2022-10-11": 540224,
-  "2022-10-12": 540424,
-  "2022-10-13": 540616,
-  "2022-10-14": 540813,
-  "2022-10-15": 541001,
-  "2022-10-16": 541231,
-  "2022-10-17": 541420,
-  "2022-10-18": 541618,
-  "2022-10-19": 541832,
-  "2022-10-20": 542043,
-  "2022-10-21": 542304,
-  "2022-10-22": 542502,
-  "2022-10-23": 542681,
-  "2022-10-24": 542903,
-  "2022-10-25": 543111,
-  "2022-10-26": 543321,
-  "2022-10-27": 543533,
-  "2022-10-28": 543721,
-  "2022-10-29": 543912,
-  "2022-10-30": 544134,
-  "2022-10-31": 544316,
-  "2022-11-01": 544496,
-  "2022-11-02": 544686,
-  "2022-11-03": 544948,
-  "2022-11-04": 545177,
-  "2022-11-05": 545410,
-  "2022-11-06": 545599,
-  "2022-11-07": 545832,
-  "2022-11-08": 546032,
-  "2022-11-09": 546272,
-  "2022-11-10": 546508,
-  "2022-11-11": 546735,
-  "2022-11-12": 546957,
-  "2022-11-13": 547115,
-  "2022-11-14": 547337,
-  "2022-11-15": 547549,
-  "2022-11-16": 547813,
-  "2022-11-17": 548029,
-  "2022-11-18": 548073,
-  "2022-11-19": 548007,
-  "2022-11-20": 548064,
-  "2022-11-21": 548275,
-  "2022-11-22": 548768,
-  "2022-11-23": 548677,
-  "2022-11-24": 549408,
-  "2022-11-25": 549716,
-  "2022-11-26": 549905,
-  "2022-11-27": 550222,
-  "2022-11-28": 550492,
-  "2022-11-29": 550716,
-  "2022-11-30": 550964,
-  "2022-12-01": 551208,
-  "2022-12-02": 551553,
-  "2022-12-03": 551790,
-  "2022-12-04": 552054,
-  "2022-12-05": 552386,
-  "2022-12-06": 552689,
-  "2022-12-07": 552979,
-  "2022-12-08": 553221,
-  "2022-12-09": 553490,
-  "2022-12-10": 553717,
-  "2022-12-11": 553934,
-  "2022-12-12": 554222,
-  "2022-12-13": 554501,
-  "2022-12-14": 554706,
-  "2022-12-15": 554954,
-  "2022-12-16": 555180,
-  "2022-12-17": 555460,
-  "2022-12-18": 555702,
-  "2022-12-19": 556023,
-  "2022-12-20": 556514,
-  "2022-12-21": 556514,
-  "2022-12-22": 556704,
-  "2022-12-24": 557141,
-  "2022-12-25": 557357,
-  "2022-12-26": 557548,
-  "2022-12-27": 557775,
-  "2022-12-28": 558012,
-  "2022-12-29": 558230,
-  "2022-12-30": 558475,
-  "2022-12-31": 558732,
-  "2023-01-01": 558931,
-  "2023-01-02": 559140,
-  "2023-01-03": 559300,
-  "2023-01-04": 559569,
-  "2023-01-05": 559830,
-  "2023-01-06": 560155,
-  "2023-01-07": 560606,
-  "2023-01-08": 560658,
-  "2023-01-09": 560967,
-  "2023-01-10": 561244,
-  "2023-01-11": 561472,
-  "2023-01-12": 561776,
-  "2023-01-13": 562131,
-  "2023-01-14": 562527,
-  "2023-01-15": 562595,
-  "2023-01-16": 562880,
-  "2023-01-17": 563143,
-  "2023-01-18": 563386,
-  "2023-01-19": 563654,
-  "2023-01-20": 563918,
-  "2023-01-21": 564168,
-  "2023-01-22": 564462,
-  "2023-01-23": 564706,
-  "2023-01-24": 564960,
-  "2023-01-25": 565218,
-  "2023-01-26": 565513,
-  "2023-01-27": 565832,
-  "2023-01-28": 566113,
-  "2023-01-29": 566382,
-  "2023-01-30": 566655,
-  "2023-01-31": 566655,
-  "2023-02-01": 567133,
-  "2023-02-02": 567386,
-  "2023-02-03": 567636,
-  "2023-02-04": 567927,
-  "2023-02-05": 568219,
-  "2023-02-06": 568480,
-  "2023-02-07": 568716,
-  "2023-02-08": 569241,
-  "2023-02-09": 569241,
-  "2023-02-10": 569461,
-  "2023-02-11": 569692,
-  "2023-02-12": 570214,
-  "2023-02-13": 570458,
-  "2023-02-14": 570458,
-  "2023-02-15": 570659,
-  "2023-02-16": 570933,
-  "2023-02-17": 571166,
-  "2023-02-18": 571669,
-  "2023-02-19": 571713,
-  "2023-02-20": 571949,
-  "2023-02-21": 572183,
-  "2023-02-22": 572435,
-  "2023-02-23": 572702,
-  "2023-02-24": 572944,
-  "2023-02-25": 573331,
-  "2023-02-26": 573537,
-  "2023-02-27": 574059,
-  "2023-02-28": 574059,
-  "2023-03-01": 574261,
-  "2023-03-02": 574483,
-  "2023-03-03": 574701,
-  "2023-03-04": 574914,
-  "2023-03-05": 575456,
-  "2023-03-06": 575456,
-  "2023-03-07": 575731,
-  "2023-03-08": 575917,
-  "2023-03-09": 576158,
-  "2023-03-10": 576396,
-  "2023-03-11": 576627,
-  "2023-03-12": 576875,
-  "2023-03-13": 577141,
-  "2023-03-14": 577375,
-  "2023-03-15": 577679,
-  "2023-03-16": 577939,
-  "2023-03-17": 577939,
-  "2023-03-18": 578435,
-  "2023-03-19": 578645,
-  "2023-03-20": 578906,
-  "2023-03-21": 579149,
-  "2023-03-22": 579399,
-  "2023-03-23": 579663,
-  "2023-03-24": 579663,
-  "2023-03-25": 580107,
-  "2023-03-26": 580360,
-  "2023-03-27": 580638,
-  "2023-03-28": 580832,
-  "2023-03-29": 581094,
-  "2023-03-30": 581549,
-  "2023-03-31": 581549,
-  "2023-04-01": 581763,
-  "2023-04-02": 582040,
-  "2023-04-03": 582319,
-  "2023-04-04": 582575,
-  "2023-04-05": 582831,
-  "2023-04-06": 583103,
-  "2023-04-07": 583395,
-  "2023-04-09": 583891,
-  "2023-04-10": 584145,
-  "2023-04-11": 584583,
-  "2023-04-12": 584583,
-  "2023-04-13": 584795,
-  "2023-04-14": 584997,
-  "2023-04-15": 585215,
-  "2023-04-16": 585460,
-  "2023-04-17": 585691,
-  "2023-04-18": 585915,
-  "2023-04-19": 586153,
-  "2023-04-20": 586362,
-  "2023-04-21": 586590,
-  "2023-04-22": 586827,
-  "2023-04-23": 587037,
-  "2023-04-24": 587274,
-  "2023-04-25": 587526,
-  "2023-04-26": 587767,
-  "2023-04-27": 588005,
-  "2023-04-28": 588229,
-  "2023-04-29": 588429,
-  "2023-04-30": 588625,
-  "2023-05-01": 588826,
-  "2023-05-02": 589081,
-  "2023-05-03": 589251,
-  "2023-05-04": 589457,
-  "2023-05-05": 589638,
-  "2023-05-06": 589853,
-  "2023-05-07": 590062,
-  "2023-05-08": 590303,
-  "2023-05-09": 590520,
-  "2023-05-10": 590729,
-  "2023-05-11": 590965,
-  "2023-05-12": 591148,
-  "2023-05-13": 591348,
-  "2023-05-14": 591558,
-  "2023-05-15": 591802,
-  "2023-05-16": 591976,
-  "2023-05-17": 592184,
-  "2023-05-18": 592372,
-  "2023-05-19": 592571,
-  "2023-05-20": 592981,
-  "2023-05-21": 592981,
-  "2023-05-22": 592981,
-  "2023-05-23": 593465,
-  "2023-05-24": 615392,
-  "2023-05-25": 615272,
-  "2023-05-26": 615562,
-  "2023-05-27": 615781,
-  "2023-05-28": 616032,
-  "2023-05-29": 616032,
-  "2023-05-30": 616454,
-  "2023-05-31": 616668,
-  "2023-06-01": 616854,
-  "2023-06-02": 617031,
-  "2023-06-03": 617204,
-  "2023-06-04": 617404,
-  "2023-06-05": 617625,
-  "2023-06-06": 617841,
-  "2023-06-07": 618026,
-  "2023-06-08": 618258,
-  "2023-06-09": 618497,
-  "2023-06-10": 618681,
-  "2023-06-11": 618884,
-  "2023-06-12": 619102,
-  "2023-06-13": 619303,
-  "2023-06-14": 619529,
-  "2023-06-15": 619734,
-  "2023-06-16": 619898,
-  "2023-06-17": 620057,
-  "2023-06-18": 620227,
-  "2023-06-19": 620365,
-  "2023-06-20": 620515,
-  "2023-06-21": 620672,
-  "2023-06-22": 620825,
-  "2023-06-23": 620981,
-  "2023-06-24": 621080,
-  "2023-06-25": 621244,
-  "2023-06-26": 621396,
-  "2023-06-27": 621515,
-  "2023-06-28": 621659,
-  "2023-06-29": 621817,
-  "2023-06-30": 621934,
-  "2023-07-01": 622236,
-  "2023-07-02": 622236,
-  "2023-07-03": 622389,
-  "2023-07-04": 622544,
-  "2023-07-05": 622678,
-  "2023-07-06": 622982,
-  "2023-07-07": 622982,
-  "2023-07-08": 623127,
-  "2023-07-09": 623238,
-  "2023-07-10": 623407,
-  "2023-07-11": 623539,
-  "2023-07-12": 623649,
-  "2023-07-13": 623805,
-  "2023-07-14": 623972,
-  "2023-07-15": 624084,
-  "2023-07-16": 624231,
-  "2023-07-17": 624373,
-  "2023-07-18": 624522,
-  "2023-07-19": 624695,
-  "2023-07-20": 624807,
-  "2023-07-21": 624943,
-  "2023-07-22": 625103,
-  "2023-07-23": 625264,
-  "2023-07-24": 625405,
-  "2023-07-25": 625543,
-  "2023-07-26": 625682,
-  "2023-07-27": 625818,
-  "2023-07-28": 625997,
-  "2023-07-29": 626182,
-  "2023-07-30": 626359,
-  "2023-07-31": 626544,
-  "2023-08-01": 626725,
-  "2023-08-02": 626883,
-  "2023-08-03": 627073,
-  "2023-08-04": 627244,
-  "2023-08-05": 627405,
-  "2023-08-06": 627742,
-  "2023-08-07": 627742,
-  "2023-08-08": 627911,
-  "2023-08-09": 628077,
-  "2023-08-10": 628256,
-  "2023-08-11": 628436,
-  "2023-08-12": 628610,
-  "2023-08-13": 628731,
-  "2023-08-14": 628875,
-  "2023-08-15": 629216,
-  "2023-08-16": 629216,
-  "2023-08-17": 629381,
-  "2023-08-18": 629540,
-  "2023-08-19": 629721,
-  "2023-08-20": 629898,
-  "2023-08-21": 630075,
-  "2023-08-22": 630231,
-  "2023-08-23": 630397,
-  "2023-08-24": 630585,
-  "2023-08-25": 630793,
-  "2023-08-26": 630970,
-  "2023-08-27": 631111,
-  "2023-08-28": 631267,
-  "2023-08-29": 631425,
-  "2023-08-30": 631613,
-  "2023-08-31": 631816,
-  "2023-09-01": 632163,
-  "2023-09-02": 632163,
-  "2023-09-03": 632322,
-  "2023-09-04": 632530,
-  "2023-09-05": 632738,
-  "2023-09-06": 632883,
-  "2023-09-07": 633065,
-  "2023-09-08": 633230,
-  "2023-09-09": 633398,
-  "2023-09-10": 633573,
-  "2023-09-11": 633760,
-  "2023-09-12": 633940,
-  "2023-09-13": 634113,
-  "2023-09-14": 634301,
-  "2023-09-15": 634491,
-  "2023-09-16": 634672,
-  "2023-09-17": 634855,
-  "2023-09-18": 635034,
-  "2023-09-19": 635242,
-  "2023-09-20": 635413,
-  "2023-09-21": 635614,
-  "2023-09-22": 635774,
-  "2023-09-23": 635911,
-  "2023-09-24": 636082,
-  "2023-09-25": 636315,
-  "2023-09-26": 636540,
-  "2023-09-27": 636689,
-  "2023-09-28": 636860,
-  "2023-09-29": 637018,
-  "2023-09-30": 637218,
-  "2023-10-01": 637381,
-  "2023-10-02": 637551,
-  "2023-10-03": 637698,
-  "2023-10-04": 637887,
-  "2023-10-05": 638109,
-  "2023-10-06": 638266,
-  "2023-10-07": 638420,
-  "2023-10-08": 638550,
-  "2023-10-09": 638699,
-  "2023-10-10": 638260,
-  "2023-10-11": 638013,
-  "2023-10-12": 638013,
-  "2023-10-13": 637740,
-  "2023-10-14": 637529,
-  "2023-10-15": 637641,
-  "2023-10-16": 637792,
-  "2023-10-17": 637965,
-  "2023-10-18": 638084,
-  "2023-10-19": 638289,
-  "2023-10-20": 638447,
-  "2023-10-21": 638626,
-  "2023-10-22": 638786,
-  "2023-10-23": 638998,
-  "2023-10-24": 639168,
-  "2023-10-25": 639330,
-  "2023-10-26": 639460,
-  "2023-10-27": 639648,
-  "2023-10-28": 639778,
-  "2023-10-29": 639967,
-  "2023-10-30": 640357,
-  "2023-10-31": 640357,
-  "2023-11-01": 640509,
-  "2023-11-02": 640710,
-  "2023-11-03": 640891,
-  "2023-11-04": 641063,
-  "2023-11-05": 641251,
-  "2023-11-06": 641451,
-  "2023-11-07": 641634,
-  "2023-11-08": 641813,
-  "2023-11-09": 641960,
-  "2023-11-10": 642120,
-  "2023-11-11": 642308,
-  "2023-11-12": 642476,
-  "2023-11-13": 642646,
-  "2023-11-14": 642834,
-  "2023-11-15": 642834,
-  "2023-11-16": 643196,
-  "2023-11-17": 643556,
-  "2023-11-18": 643556,
-  "2023-11-19": 643696,
-  "2023-11-20": 643869,
-  "2023-11-21": 644053,
-  "2023-11-22": 644240,
-  "2023-11-23": 644421,
-  "2023-11-24": 644636,
-  "2023-11-25": 644772,
-  "2023-11-26": 644936,
-  "2023-11-27": 645128,
-  "2023-11-28": 645336,
-  "2023-11-29": 645700,
-  "2023-11-30": 645700,
-  "2023-12-01": 645930,
-  "2023-12-02": 646153,
-  "2023-12-03": 646378,
-  "2023-12-04": 646607,
-  "2023-12-05": 646804,
-  "2023-12-06": 647000,
-  "2023-12-07": 647165,
-  "2023-12-08": 647338,
-  "2023-12-09": 647499,
-  "2023-12-10": 647680,
-  "2023-12-11": 647858,
-  "2023-12-12": 648043,
-  "2023-12-13": 648204,
-  "2023-12-14": 648403,
-  "2023-12-15": 648532,
-  "2023-12-16": 648693,
-  "2023-12-17": 648866,
-  "2023-12-18": 649042,
-  "2023-12-19": 649177,
-  "2023-12-20": 649318,
-  "2023-12-21": 649453,
-  "2023-12-22": 649648,
-  "2023-12-23": 649811,
-  "2023-12-24": 650008,
-  "2023-12-25": 650154,
-  "2023-12-26": 650329,
-  "2023-12-27": 650475,
-  "2023-12-30": 650955,
-  "2023-12-31": 651111,
-  "2024-01-01": 651231,
-  "2024-01-02": 651377,
-  "2024-01-03": 651519
+  "2024-01-17": 651008,
+  "date_first_scraped": "2021-12-21",
+  "description": "He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today. Discover why, right here.",
+  "name": "This Is Bach",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Bach Notebook for Trumpet",
+        "url": "https://open.spotify.com/album/3oyHLWOMoQwVzCxGGxfF0j"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jonathan Freeman-Attwood",
+          "url": "https://open.spotify.com/artist/6QSDlKg81IXYYk42hBlYPF"
+        },
+        {
+          "name": "Daniel-Ben Pienaar",
+          "url": "https://open.spotify.com/artist/7iwR9G70t54peZ58sYF9CF"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201544,
+      "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
+      "url": "https://open.spotify.com/track/0rM0wg4nLQdDmIk1WBdK1I"
+    },
+    {
+      "album": {
+        "name": "A Bach Notebook for Trumpet",
+        "url": "https://open.spotify.com/album/5PrYmZfoHjgI1ranj7Glh0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jonathan Freeman-Attwood",
+          "url": "https://open.spotify.com/artist/6QSDlKg81IXYYk42hBlYPF"
+        },
+        {
+          "name": "Daniel-Ben Pienaar",
+          "url": "https://open.spotify.com/artist/7iwR9G70t54peZ58sYF9CF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201544,
+      "name": "An Wasserfl\u00fcssen Babylon, BWV 653b",
+      "url": "https://open.spotify.com/track/2TCo3RZZJlf6Cth4DRAiwx"
+    },
+    {
+      "album": {
+        "name": "The Best of the Academy",
+        "url": "https://open.spotify.com/album/36WjHyPNQ0Itp7qlZ9KWkR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Ian Watson",
+          "url": "https://open.spotify.com/artist/1YrW2DkwvE0TWg7sjvB9pF"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "Bach, JS / Orch. Marriner: Was mir behagt, ist nur die muntre Jagd, BWV 208 \"Jagdkantate\": IX. Aria. \"Schafe k\u00f6nnen sicher weiden\"",
+      "url": "https://open.spotify.com/track/2JOXTg7PdMetphuHjckQHI"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "Bach, JS: Concerto for Four Pianos in A Minor, BWV 1065: I. Allegro",
+      "url": "https://open.spotify.com/track/41xh0S7KvmpSeQq3jjWxIC"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        },
+        {
+          "name": "Les Violins du Roy",
+          "url": "https://open.spotify.com/artist/2FW9YUjDeOjcN18L7g2ERn"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150893,
+      "name": "Bach, JS: Concerto for Four Pianos in A Minor, BWV 1065: II. Largo",
+      "url": "https://open.spotify.com/track/0VWoObL6qtPElJHIOygiym"
+    },
+    {
+      "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 946800,
+      "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
+      "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
+    },
+    {
+      "album": {
+        "name": "Bach: Six Concertos for the Margrave of Brandenburg",
+        "url": "https://open.spotify.com/album/0ZWboVnn5YWjPEB79FCwWV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "European Brandenburg Ensemble",
+          "url": "https://open.spotify.com/artist/2T2bi3cWva2cY4A3FMGVzZ"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332320,
+      "name": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]",
+      "url": "https://open.spotify.com/track/4tXktBBrKGTebkYjvzFA3i"
+    },
+    {
+      "album": {
+        "name": "Bach: Six Concertos for the Margrave of Brandenburg",
+        "url": "https://open.spotify.com/album/0ZWboVnn5YWjPEB79FCwWV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "Kati Debretzeni",
+          "url": "https://open.spotify.com/artist/1Gx0gkRgR1ojG2gMKdBNLS"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89960,
+      "name": "Brandenburg Concerto No. 3 in G Major, BWV 1048: II. [Adagio]",
+      "url": "https://open.spotify.com/track/1WElPRZWP8kDIQm2fY5dJu"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Brandenburg Concertos",
+        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402226,
+      "name": "Brandenburg Concerto No. 4 in G Major, BWV 1049: I. Allegro",
+      "url": "https://open.spotify.com/track/24UDkOLbWHqmjPgD1UJmyC"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Brandenburg Concertos",
+        "url": "https://open.spotify.com/album/7oGJFBRDBmwXfQXcJD6X15"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Brandenburg Concerto No. 4 in G Major, BWV 1049: II. Andante",
+      "url": "https://open.spotify.com/track/6gi9UGQqI7ff5ABqz9fBEb"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Brandenburg Concertos etc.",
+        "url": "https://open.spotify.com/album/11FzhwtOFCPB4vpgWo33xV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 636426,
+      "name": "Brandenburg Concerto No. 5 in D, BWV 1050: 1. Allegro",
+      "url": "https://open.spotify.com/track/7ImuASnzYk9YHn3isFjZ0j"
+    },
+    {
+      "album": {
+        "name": "Bach For Inspiration",
+        "url": "https://open.spotify.com/album/26BoTyjgZIJAJvxNmGiTEm"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mainz Bach Choir",
+          "url": "https://open.spotify.com/artist/3Hb6T8dZd8WwLY89mHWmzc"
+        },
+        {
+          "name": "Mainz Bach Orchestra",
+          "url": "https://open.spotify.com/artist/0c9qnKsKhHFq55Ho4GeGSr"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/1e8vbae6ixFLtBYrxd9PUW"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 449093,
+      "name": "Christmas Oratorio, Bwv 248: Part I: Jauchzet, frohlocket",
+      "url": "https://open.spotify.com/track/3HUhZka63eAConFue8u8I8"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
+        "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Hannah Roberts",
+          "url": "https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr"
+        },
+        {
+          "name": "Ben Davies",
+          "url": "https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU"
+        },
+        {
+          "name": "Desmond Neysmith",
+          "url": "https://open.spotify.com/artist/1JDbWFeVdrcXAhwIrE9xf4"
+        },
+        {
+          "name": "Max Ruisi",
+          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
+      "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Concertos for Two, Three and Four Harpsichords",
+        "url": "https://open.spotify.com/album/0sWnJN5bMvJM8p2G4yuvda"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207973,
+      "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: I. (Allegro)",
+      "url": "https://open.spotify.com/track/7s4KxZxOf7odG9NSmtbzCL"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
+        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Concerto For 2 Keyboards In C Minor, BWV 1062: I. - Allegro",
+      "url": "https://open.spotify.com/track/3yZEUIdqCvuPvxVXWETXBL"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
+        "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209440,
+      "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: I. Allegro",
+      "url": "https://open.spotify.com/track/6tGLa8kJr0sa4cvAFTC2ly"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
+        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367160,
+      "name": "Concerto For 2 Keyboards In C Minor, BWV 1062: II. Andante E Piano",
+      "url": "https://open.spotify.com/track/6N8VxfhlKWqaelTEWQgLRO"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
+        "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 366360,
+      "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: II. Andante e piano",
+      "url": "https://open.spotify.com/track/2CtvY5R3OpZgsJ4i9sK9V5"
+    },
+    {
+      "album": {
+        "name": "Bach: Solo & Double Violin Concertos",
+        "url": "https://open.spotify.com/album/0M1DxKzMIxUk8XME68Mgeq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+        },
+        {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
+      "url": "https://open.spotify.com/track/3p6MzX67qzgzgHlGaq62HM"
+    },
+    {
+      "album": {
+        "name": "Bach: Solo & Double Violin Concertos",
+        "url": "https://open.spotify.com/album/0M1DxKzMIxUk8XME68Mgeq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+        },
+        {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387333,
+      "name": "Concerto for Two Violins in D Minor, BWV 1043: II. Largo ma non tanto",
+      "url": "https://open.spotify.com/track/0hIr784kGfRf5EVFGP1dFi"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Concerto in D Minor, BWV 974, 2. Adagio",
+        "url": "https://open.spotify.com/album/2IikYNW1FhiyfzAdasas6x"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 250333,
+      "name": "Concerto in D Minor, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/2tObQO8pxckNOezskTjWVK"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Favourite Piano Works",
+        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228266,
+      "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
+      "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes",
+        "url": "https://open.spotify.com/album/1T61gHDk7P2LloxbCcjf6U"
+      },
+      "artists": [
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Concerto In The Italian Style, BWV 971, \"Italian Concerto\": I. (Allegro)",
+      "url": "https://open.spotify.com/track/3ayc2swWKTlCXcqvNJCneu"
+    },
+    {
+      "album": {
+        "name": "Bach: Weihnachtsoratorium, BWV 248",
+        "url": "https://open.spotify.com/album/0tyVzvgfzRWp9O7tVOEGLV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Swiss Radio Choir",
+          "url": "https://open.spotify.com/artist/1suQXpC1OzJFN9a9m4ljrv"
+        },
+        {
+          "name": "I Barocchisti",
+          "url": "https://open.spotify.com/artist/1yN4XCQLTaJyBnsLJQECBu"
+        },
+        {
+          "name": "Diego Fasolis",
+          "url": "https://open.spotify.com/artist/4WbEmAwPIeRh1bHcv6uY7U"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268200,
+      "name": "Erster Teil - Jauchzet, Frohlocket, Auf, Preiset Die Tage: Aria (Bass) - Gro\u00dfer Herr, O Starker K\u00f6nig (Bach)",
+      "url": "https://open.spotify.com/track/2jrrOfcvRWJinErZbv1U2P"
+    },
+    {
+      "album": {
+        "name": "Bach: Die Authentischen Fl\u00f6tensonaten",
+        "url": "https://open.spotify.com/album/2JUknMVu6wyGEA1xJrohaw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Verena Fischer",
+          "url": "https://open.spotify.com/artist/7mLVtSPFDG0vpCzBzT3n10"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320253,
+      "name": "Flute Partita in A Minor, BWV 1013: I. Allemande",
+      "url": "https://open.spotify.com/track/33GYNwrNf6tOs8DTXEIqAp"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Flute Sonatas, Vol. 2",
+        "url": "https://open.spotify.com/album/2dvi9z0ZckK2ZuU7K0pqxn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Petri Alanko",
+          "url": "https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp"
+        },
+        {
+          "name": "Jukka Rautasalo",
+          "url": "https://open.spotify.com/artist/4jyvHwyRxSoDifQBnUBNph"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144000,
+      "name": "Flute Sonata in C Major, BWV 1033: II. Allegro",
+      "url": "https://open.spotify.com/track/0eTMYTpZEf6gUvTjgRBEzi"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Flute Sonatas, Vol. 2",
+        "url": "https://open.spotify.com/album/4zo9wdHRJQU9qqbMgXDoTc"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Petri Alanko",
+          "url": "https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp"
+        },
+        {
+          "name": "Jukka Rautasalo",
+          "url": "https://open.spotify.com/artist/4jyvHwyRxSoDifQBnUBNph"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Flute Sonata in C Major, BWV 1033: II. Allegro",
+      "url": "https://open.spotify.com/track/5Rytk64nvha13fnmJiPLIN"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Flute Sonatas, Vol. 1",
+        "url": "https://open.spotify.com/album/4OwVOvgmVKDMvyMFBsk4C7"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Petri Alanko",
+          "url": "https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp"
+        },
+        {
+          "name": "Jukka Rautasalo",
+          "url": "https://open.spotify.com/artist/4jyvHwyRxSoDifQBnUBNph"
+        },
+        {
+          "name": "Anssi Mattila",
+          "url": "https://open.spotify.com/artist/4vLiL2if1un4OhkmrAZ36l"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Flute Sonata in E Minor, BWV 1034: III. Andante",
+      "url": "https://open.spotify.com/track/32p6iEDbcZHwTbVvmI4I24"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Flute Sonatas, Vol. 1",
+        "url": "https://open.spotify.com/album/3qEiV65ceIfhUpKU7aTxcj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Petri Alanko",
+          "url": "https://open.spotify.com/artist/0KXjJXTWZsTVzswKWbb2Xp"
+        },
+        {
+          "name": "Jukka Rautasalo",
+          "url": "https://open.spotify.com/artist/4jyvHwyRxSoDifQBnUBNph"
+        },
+        {
+          "name": "Anssi Mattila",
+          "url": "https://open.spotify.com/artist/4vLiL2if1un4OhkmrAZ36l"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196093,
+      "name": "Flute Sonata in E Minor, BWV 1034: III. Andante",
+      "url": "https://open.spotify.com/track/6AYQsTYqfnOEeKGwxNRDoG"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/5kBtLULy6vMwjFRSSEEIjP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245379,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/74OIJe9hgZswqyLyicfAy4"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110773,
+      "name": "Goldberg Variations, BWV 988: Var. 1",
+      "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
+    },
+    {
+      "album": {
+        "name": "Study Classics: Bach",
+        "url": "https://open.spotify.com/album/1ixqeGQw9jJBjkzT9YTMc8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/0SFeEtT7B12lgXWn09gCef"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations (Deluxe Edt. Studio + Live)",
+        "url": "https://open.spotify.com/album/70uK1xeiYicJZPFNkhfIdk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/1ENZ1YHuOp5MMFJlWBQ6V7"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
+      "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
+    },
+    {
+      "album": {
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90706,
+      "name": "Goldberg Variations, BWV 988: Variation 3 a 1 Clav. Canone all'Unisono",
+      "url": "https://open.spotify.com/track/5SJFZnECoKeTLy7PPVLLbF"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations - Preludes & Fugues, Vol. 1",
+        "url": "https://open.spotify.com/album/1SQwANKaxEbkAWopbOq7dQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Julia Cload",
+          "url": "https://open.spotify.com/artist/2q1SyguTZeoJxeS65MU9jO"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 292986,
+      "name": "Goldberg-Variationen, BWV 988: I. Aria",
+      "url": "https://open.spotify.com/track/0VI8QAH1YupPK6xdCJuwpn"
+    },
+    {
+      "album": {
+        "name": "Kurt\u00e1g, Bach: J\u00e1t\u00e9kok",
+        "url": "https://open.spotify.com/album/7bKQ5VzqjTNMmpg7MTxpne"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "M\u00e1rta Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX"
+        },
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Gottes Zeit ist die allerbeste Zeit, Sonatina az \"Actus tragicus\"-b\u00f3l, BWV 106",
+      "url": "https://open.spotify.com/track/5zIJsFst05gsrUdr9ghEpG"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 1",
+        "url": "https://open.spotify.com/album/74aeGWcLFlRO7EN2sN9j9k"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 458133,
+      "name": "Harpsichord Concerto in E Major, BWV 1053: I. Allegro",
+      "url": "https://open.spotify.com/track/02v9yTdjq00QWnL7JPVDyy"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Three Or One - Transcriptions by Fred Thomas",
+        "url": "https://open.spotify.com/album/20Ct6OadhE0tt0zuePXyKi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Fred Thomas",
+          "url": "https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Herr, gehe nicht ins Gericht mit deinem Knecht, Cantata BWV 105: Aria \"Wie zittern und wanken der S\u00fcnder Gedanken\" (Arr. Thomas)",
+      "url": "https://open.spotify.com/track/2jKVfMrVUm1oQ64YLUUIZE"
+    },
+    {
+      "album": {
+        "name": "The King's Collection",
+        "url": "https://open.spotify.com/album/2kWzNi1vHcycGvbrOzUVKr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Nicholas Daniel",
+          "url": "https://open.spotify.com/artist/2B7g3x3ODIEjpdoOLIoa2C"
+        },
+        {
+          "name": "James Vivian",
+          "url": "https://open.spotify.com/artist/50HZzSdLCkEFFFtzlWcfx1"
+        },
+        {
+          "name": "Robert Quinney",
+          "url": "https://open.spotify.com/artist/6OGs5CBlm7nPJvvIcQPYEm"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361160,
+      "name": "Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy Of Man's Desiring, BWV 147",
+      "url": "https://open.spotify.com/track/5rfq2lQI7eEn8tQoQWnVgS"
+    },
+    {
+      "album": {
+        "name": "#top10tracks - Virtuoso Violin",
+        "url": "https://open.spotify.com/album/2CHOHliLtPO0NAMXMgsyoO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214266,
+      "name": "I. Preludio",
+      "url": "https://open.spotify.com/track/47P7pI7vrOxUjhBnx549Pa"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 1",
+        "url": "https://open.spotify.com/album/3CWMf7jhwgsMmCF3XFa3YM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 264173,
+      "name": "Keyboard Concerto in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/6FMNmLB1AKNxydyq63QBN2"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 1",
+        "url": "https://open.spotify.com/album/0xvWLS1Fr6o5Jk00MK8utB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264173,
+      "name": "Keyboard Concerto in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/2umCMzm818NlovzMDGcJSx"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 1",
+        "url": "https://open.spotify.com/album/74aeGWcLFlRO7EN2sN9j9k"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264173,
+      "name": "Keyboard Concerto in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/07Xfe7Uj6BK9YMErnX4Gr9"
+    },
+    {
+      "album": {
+        "name": "Bach For Inspiration",
+        "url": "https://open.spotify.com/album/26BoTyjgZIJAJvxNmGiTEm"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 445693,
+      "name": "Keyboard Concerto in D Major, Bwv 1054: I. Allegro",
+      "url": "https://open.spotify.com/track/5zqiai2vcHEL8C1htSw2ps"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 1",
+        "url": "https://open.spotify.com/album/0xvWLS1Fr6o5Jk00MK8utB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458133,
+      "name": "Keyboard Concerto in E Major, BWV 1053: I. Allegro",
+      "url": "https://open.spotify.com/track/5vTB9KLExdxtJSbxQOOtzJ"
+    },
+    {
+      "album": {
+        "name": "Bach: A Strange Beauty",
+        "url": "https://open.spotify.com/album/5upQlWg8RVLr2RbxHin9yr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197280,
+      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: I. [Allegro]",
+      "url": "https://open.spotify.com/track/2KKSrG7ImkM3Mho3RcQ9vI"
+    },
+    {
+      "album": {
+        "name": "Bach: A Strange Beauty",
+        "url": "https://open.spotify.com/album/5upQlWg8RVLr2RbxHin9yr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/7qfuAHc88ZCpkVh5nCbcE5"
+    },
+    {
+      "album": {
+        "name": "Bach: Lute Suites, Vol. I",
+        "url": "https://open.spotify.com/album/3qSHa8YP6cPCLotgDK4DYk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "John C. Williams",
+          "url": "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "Lute Suite in E Minor, BWV 996 (Arr. J. Williams for Guitar): IV. Sarabande",
+      "url": "https://open.spotify.com/track/1LpBu9DMOmscT94Rbf2y2v"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Alto Arias",
+        "url": "https://open.spotify.com/album/6JD8rR0kvPAWbuJ7KwOJAX"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Catherine King",
+          "url": "https://open.spotify.com/artist/1a4Xv9KuJLcZdyw8kVKl9B"
+        },
+        {
+          "name": "Norwegian Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/6BzvX48pQVXX2hh8RhdGcY"
+        },
+        {
+          "name": "Julian Podger",
+          "url": "https://open.spotify.com/artist/1Ife6JPqgSpQdmr4XoE9Za"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300306,
+      "name": "Mass in B Minor, BWV 232: Aria. Agnus Dei",
+      "url": "https://open.spotify.com/track/1pUBiJQFTnj9fpmbJKeue8"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Alto Arias",
+        "url": "https://open.spotify.com/album/53wsTdLMasNJvxvCfbvMBD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Catherine King",
+          "url": "https://open.spotify.com/artist/1a4Xv9KuJLcZdyw8kVKl9B"
+        },
+        {
+          "name": "Norwegian Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/6BzvX48pQVXX2hh8RhdGcY"
+        },
+        {
+          "name": "Julian Podger",
+          "url": "https://open.spotify.com/artist/1Ife6JPqgSpQdmr4XoE9Za"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300306,
+      "name": "Mass in B Minor, BWV 232: Aria. Agnus Dei",
+      "url": "https://open.spotify.com/track/5oohF2w8qKqeCnLjyaZulb"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: St. Matthew Passion",
+        "url": "https://open.spotify.com/album/4YpYylzAoUdC16yiSCeaZs"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Nico Van Der Meel",
+          "url": "https://open.spotify.com/artist/6e0uL7Sy19UeYHxeoiXKXJ"
+        },
+        {
+          "name": "Dominique Engler",
+          "url": "https://open.spotify.com/artist/0r4SDztGZr8WDh2wZ2XAY2"
+        },
+        {
+          "name": "Yosemeh Adjei",
+          "url": "https://open.spotify.com/artist/2PU6dd7Sy6uYgK7EMlXgD1"
+        },
+        {
+          "name": "Lothar Blum",
+          "url": "https://open.spotify.com/artist/1eIp2Es9GwlaoN1PZZujsp"
+        },
+        {
+          "name": "Julian Schulzki",
+          "url": "https://open.spotify.com/artist/4MOS3HnhFqMnANHEnhCYaW"
+        },
+        {
+          "name": "Dresdner Kammerchor",
+          "url": "https://open.spotify.com/artist/4yDjrNfw6inxy2NjexHpV1"
+        },
+        {
+          "name": "Knaben des K\u00f6lner Domchores",
+          "url": "https://open.spotify.com/artist/1NftXcojlsv4770FGeEJ4I"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        },
+        {
+          "name": "Raimund Nolte",
+          "url": "https://open.spotify.com/artist/0CHZkVuOZd7NRsP28R3LY0"
+        },
+        {
+          "name": "Locky Chung",
+          "url": "https://open.spotify.com/artist/5H00k5dMT8eEAgvzLdA5m1"
+        },
+        {
+          "name": "Claudia Couwenbergh",
+          "url": "https://open.spotify.com/artist/1TxVD9grdetZ114i6wu6Q4"
+        },
+        {
+          "name": "Marianne Beate Kielland",
+          "url": "https://open.spotify.com/artist/5RhYIMhVZveCF5nHZz35tf"
+        },
+        {
+          "name": "Markus Sch\u00e4fer",
+          "url": "https://open.spotify.com/artist/1JC0ekawKvIOehVRu4ziPX"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Hans-Christoph Rademann",
+          "url": "https://open.spotify.com/artist/3nWpkLjuh0r3wniO2gzL8m"
+        },
+        {
+          "name": "Eberhard Metternich",
+          "url": "https://open.spotify.com/artist/262D9dFVYaWGuFbwoVUJ8n"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229520,
+      "name": "Matth\u00e4uspassion, BWV 244: Aria. Bu\u00df und Reu",
+      "url": "https://open.spotify.com/track/5ornwSZ4oY5IiPx9mO5n4e"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Matth\u00e4uspassion, BWV 244",
+        "url": "https://open.spotify.com/album/4FqaJh7AsWgsUcuoakPz34"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Marianne Beate Kielland",
+          "url": "https://open.spotify.com/artist/5RhYIMhVZveCF5nHZz35tf"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229813,
+      "name": "Matth\u00e4uspassion, BWV 244: Aria: Buss und Reu (Alto)",
+      "url": "https://open.spotify.com/track/1B9LRwSOvBDp4RyTsDGPKv"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Matth\u00e4uspassion, BWV 244",
+        "url": "https://open.spotify.com/album/4FqaJh7AsWgsUcuoakPz34"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Knaben des K\u00f6lner Domchores",
+          "url": "https://open.spotify.com/artist/1NftXcojlsv4770FGeEJ4I"
+        },
+        {
+          "name": "Dresdner Kammerchor",
+          "url": "https://open.spotify.com/artist/4yDjrNfw6inxy2NjexHpV1"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396173,
+      "name": "Matth\u00e4uspassion, BWV 244: Kommt, ihr Tochter, helft mir klagen (Chorus I and II)",
+      "url": "https://open.spotify.com/track/5c8BioP5IfiUAC0dkr69sL"
+    },
+    {
+      "album": {
+        "name": "Bach: Magnificat in D etc.",
+        "url": "https://open.spotify.com/album/5W1qRQxAxKKOv1bJldLx6e"
+      },
+      "artists": [
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Benjamin Bayl",
+          "url": "https://open.spotify.com/artist/3lSF72DO2gQRQlJ5hV6OEi"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147760,
+      "name": "Nun danket alle Gott BWV 386",
+      "url": "https://open.spotify.com/track/4hAhfzzNRAdwdjBjb1xtCy"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Alto Arias",
+        "url": "https://open.spotify.com/album/53wsTdLMasNJvxvCfbvMBD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Norwegian Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/6BzvX48pQVXX2hh8RhdGcY"
+        },
+        {
+          "name": "Ketil Haugsand",
+          "url": "https://open.spotify.com/artist/6tTpfohDDU7xK3NcIleasN"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 382466,
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "url": "https://open.spotify.com/track/24S1UJLuoxMbfZRYlA1zGl"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Alto Arias",
+        "url": "https://open.spotify.com/album/6JD8rR0kvPAWbuJ7KwOJAX"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Norwegian Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/6BzvX48pQVXX2hh8RhdGcY"
+        },
+        {
+          "name": "Ketil Haugsand",
+          "url": "https://open.spotify.com/artist/6tTpfohDDU7xK3NcIleasN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382466,
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "url": "https://open.spotify.com/track/5s5UjtMlSuVq1xhvyD1FrK"
+    },
+    {
+      "album": {
+        "name": "Academy for Ancient Music",
+        "url": "https://open.spotify.com/album/6ITz2Wzc0kqLKmyAxwgdrx"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213506,
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: V. Polonaise - Double",
+      "url": "https://open.spotify.com/track/5cQgv6pPqOERWmGRRuAaWl"
+    },
+    {
+      "album": {
+        "name": "Classical Music for Kids: Bach",
+        "url": "https://open.spotify.com/album/1XbFtB1bWX2ZzAfAEyLGH5"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213506,
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: V. Polonaise - Double",
+      "url": "https://open.spotify.com/track/78RFuPMSbfKI3ePZItsb8P"
+    },
+    {
+      "album": {
+        "name": "Bach: Overtures (Suites) Nos. 1-4",
+        "url": "https://open.spotify.com/album/1D4WPKIq2tRgrkBeUelUQv"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Karl Kaiser",
+          "url": "https://open.spotify.com/artist/5mHKTrIJj1pw5hVj6JDCWO"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 90106,
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",
+      "url": "https://open.spotify.com/track/5rvxeH1d6EctGOog8UEvFx"
+    },
+    {
+      "album": {
+        "name": "Orpheus Chamber Orchestra - Baroque Highlights",
+        "url": "https://open.spotify.com/album/2e0FIWorD7mcJNs573R4Zq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",
+      "url": "https://open.spotify.com/track/6t7lMFHSifu9j8NPMNCv9T"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326520,
+      "name": "Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)",
+      "url": "https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Orchestral Suites Nos. 1-4, BWV 1066-1069",
+        "url": "https://open.spotify.com/album/0xcIqamChptonlZVhRRsle"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 90106,
+      "name": "Overture (Suite) No. 2 In B Minor, BWV 1067 : VII. Badinerie",
+      "url": "https://open.spotify.com/track/5hSHvFAA2932OB3rUBSgwI"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Brandenburg Concerto No. 5 / Concerto for 2 Keyboards, Bwv 1061 / Overture (Suite) No. 2",
+        "url": "https://open.spotify.com/album/3HI0LEAtmcgmFWIMn1byAd"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Overture (Suite) No. 2 in B Minor, BWV 1067: V. Polonaise - Double",
+      "url": "https://open.spotify.com/track/0ojI1ZWoFx4F3yCHL1wMW6"
+    },
+    {
+      "album": {
+        "name": "Bach: Overtures (Suites) Nos. 1-4",
+        "url": "https://open.spotify.com/album/3AvGH9V6SzXnIEppm6YtRF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90106,
+      "name": "Overture (Suite) No. 2 in B Minor, BWV 1067: VII. Badinerie",
+      "url": "https://open.spotify.com/track/3kvBEbswxMAx6QKc10SCon"
+    },
+    {
+      "album": {
+        "name": "Bach: Die Authentischen Fl\u00f6tensonaten",
+        "url": "https://open.spotify.com/album/4I1wW7AYzZZ634UM1XODYF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Verena Fischer",
+          "url": "https://open.spotify.com/artist/7mLVtSPFDG0vpCzBzT3n10"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320253,
+      "name": "Partita in A Minor, BWV 1013: I. Allemande",
+      "url": "https://open.spotify.com/track/2nqmsXgFIRMbs9WjwY0bFf"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84453,
+      "name": "Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847: I. Prelude",
+      "url": "https://open.spotify.com/track/3tRT6unYEvgBTbAdAWPSVp"
+    },
+    {
+      "album": {
+        "name": "After Bach",
+        "url": "https://open.spotify.com/album/6CY0Fzh5JsMPCjA1E1Rn7P"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81493,
+      "name": "Prelude No. 3 in C# Major from The Well-Tempered Clavier Book I, BWV 848",
+      "url": "https://open.spotify.com/track/5AN4uYKJbDAuL0efAodEbF"
+    },
+    {
+      "album": {
+        "name": "A Bach Notebook for Trumpet",
+        "url": "https://open.spotify.com/album/3oyHLWOMoQwVzCxGGxfF0j"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jonathan Freeman-Attwood",
+          "url": "https://open.spotify.com/artist/6QSDlKg81IXYYk42hBlYPF"
+        },
+        {
+          "name": "Daniel-Ben Pienaar",
+          "url": "https://open.spotify.com/artist/7iwR9G70t54peZ58sYF9CF"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135644,
+      "name": "Sarabande, BWV 1012 - Cello Suite No. 6, Arr. Fryer",
+      "url": "https://open.spotify.com/track/1NX4jXk89SHSMHGKEriJ4o"
+    },
+    {
+      "album": {
+        "name": "A Bach Notebook for Trumpet",
+        "url": "https://open.spotify.com/album/5PrYmZfoHjgI1ranj7Glh0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jonathan Freeman-Attwood",
+          "url": "https://open.spotify.com/artist/6QSDlKg81IXYYk42hBlYPF"
+        },
+        {
+          "name": "Daniel-Ben Pienaar",
+          "url": "https://open.spotify.com/artist/7iwR9G70t54peZ58sYF9CF"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135644,
+      "name": "Sarabande, BWV 1012 - Cello Suite No. 6, Arr. Fryer",
+      "url": "https://open.spotify.com/track/6ufUTUoNWfSS8Nrd55oiVT"
+    },
+    {
+      "album": {
+        "name": "Song",
+        "url": "https://open.spotify.com/album/7oncxQ9LukVa3u0SOTAuWd"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        },
+        {
+          "name": "Hannah Roberts",
+          "url": "https://open.spotify.com/artist/1B14EjyPPZZWctTrY2vXFr"
+        },
+        {
+          "name": "Ben Davies",
+          "url": "https://open.spotify.com/artist/5ODF3ZVZTnK7T3nvPprURU"
+        },
+        {
+          "name": "Max Ruisi",
+          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279840,
+      "name": "Savior of the Nations, Come, BWV 659 (Arr. for 4 Cellos)",
+      "url": "https://open.spotify.com/track/7Il5v7dknoshlFkQRpIqxm"
+    },
+    {
+      "album": {
+        "name": "Bach - A Classical Dawn",
+        "url": "https://open.spotify.com/album/0hitQmMr5RnB40AWXCb0Ad"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Emma Kirkby",
+          "url": "https://open.spotify.com/artist/7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Lisa Beznosiuk",
+          "url": "https://open.spotify.com/artist/0s6yWPY6zaMPk1nrpvqjCv"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 252171,
+      "name": "Schweigt stille, plaudert nicht Cantata, BWV 211 \"Coffee Cantata\": 4. Arie: Ei! wie smeckt Coffee s\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/1ngGRsdZUY7j18EnOwISxo"
+    },
+    {
+      "album": {
+        "name": "Amazing Composers: Bach",
+        "url": "https://open.spotify.com/album/0jYF0WJl8dK4DtUXIahyKa"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Emma Kirkby",
+          "url": "https://open.spotify.com/artist/7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Lisa Beznosiuk",
+          "url": "https://open.spotify.com/artist/0s6yWPY6zaMPk1nrpvqjCv"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 252171,
+      "name": "Schweigt stille, plaudert nicht Cantata, BWV 211 \"Coffee Cantata\": 4. Arie: Ei! wie smeckt Coffee s\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/4LoK7ut7CEeVoWwd7IEnRc"
+    },
+    {
+      "album": {
+        "name": "Bach: A Night of Classics",
+        "url": "https://open.spotify.com/album/1XQ1xTDmDpM1tX0u5UkFcg"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Emma Kirkby",
+          "url": "https://open.spotify.com/artist/7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Lisa Beznosiuk",
+          "url": "https://open.spotify.com/artist/0s6yWPY6zaMPk1nrpvqjCv"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252171,
+      "name": "Schweigt stille, plaudert nicht Cantata, BWV 211 \"Coffee Cantata\": 4. Arie: Ei! wie smeckt Coffee s\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/5WqLXJf0NZpkCw9VDKjNwv"
+    },
+    {
+      "album": {
+        "name": "Bach for Brainpower",
+        "url": "https://open.spotify.com/album/0zwLgWWAnvNNULTLS5Wo9g"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Emma Kirkby",
+          "url": "https://open.spotify.com/artist/7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Lisa Beznosiuk",
+          "url": "https://open.spotify.com/artist/0s6yWPY6zaMPk1nrpvqjCv"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252171,
+      "name": "Schweigt stille, plaudert nicht Cantata, BWV 211 \"Coffee Cantata\": 4. Arie: Ei! wie smeckt Coffee s\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/5uMP8DUgwlLc3GdqSZkXkV"
+    },
+    {
+      "album": {
+        "name": "Emma Kirkby - A Portrait",
+        "url": "https://open.spotify.com/album/45O4fDhEguSwZP4v5y9TtA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Emma Kirkby",
+          "url": "https://open.spotify.com/artist/7cIdAeGd445NFOMJ3fr64K"
+        },
+        {
+          "name": "Lisa Beznosiuk",
+          "url": "https://open.spotify.com/artist/0s6yWPY6zaMPk1nrpvqjCv"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253080,
+      "name": "Schweigt stille, plaudert nicht Cantata, BWV 211 \"Coffee Cantata\": 4. Arie: Ei! wie smeckt Coffee s\u00fc\u00dfe",
+      "url": "https://open.spotify.com/track/27lNXWlZV56fc8OzCg6vR0"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 2",
+        "url": "https://open.spotify.com/album/2XGwlUpw49uZEHqXfGTu8L"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445693,
+      "name": "Sinfonia in D Major, BWV 1045: I. Allegro",
+      "url": "https://open.spotify.com/track/3sd4H9AxsDrQEZxGPkTK6y"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 2",
+        "url": "https://open.spotify.com/album/6eBXcRDmyBQmVrJty2llzS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 445693,
+      "name": "Sinfonia in D Major, BWV 1045: I. Allegro",
+      "url": "https://open.spotify.com/track/4pvK1I2nsUIBHtuZbRpmTJ"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 2",
+        "url": "https://open.spotify.com/album/2XGwlUpw49uZEHqXfGTu8L"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Sinfonia in D Major, BWV 1045: III. Allegro",
+      "url": "https://open.spotify.com/track/3saQ2rYge05bn4cGLd1UNL"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 2",
+        "url": "https://open.spotify.com/album/6eBXcRDmyBQmVrJty2llzS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167533,
+      "name": "Sinfonia in D Major, BWV 1045: III. Allegro",
+      "url": "https://open.spotify.com/track/61RhvwAkvVnPLTv0nzUK0w"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Inventions, Duets & Sinfonias, BWVV 772-805",
+        "url": "https://open.spotify.com/album/3OFxiRVu7f6uo4CzqL5rWo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Maurizio Zaccaria",
+          "url": "https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126350,
+      "name": "Sinfonia No. 2 in C Minor, BWV 788",
+      "url": "https://open.spotify.com/track/3rVkgrxefCZ9IhUzvWQuW4"
+    },
+    {
+      "album": {
+        "name": "Bach Trios",
+        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258360,
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
+      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+    },
+    {
+      "album": {
+        "name": "The Best Of James Galway",
+        "url": "https://open.spotify.com/album/0gLouV0GGarb3vdlOUisYP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130240,
+      "name": "Sonata in E-Flat, BWV 1031: Siciliana",
+      "url": "https://open.spotify.com/track/1IbmFWmIEZJVefbwox883w"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Sonatas for Violin and Harpsichord, Vol. 1",
+        "url": "https://open.spotify.com/album/6YzxpX5CMmPMaUWOqwELRq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucy van Dael",
+          "url": "https://open.spotify.com/artist/7ogL64FibITJvIZLqp14il"
+        },
+        {
+          "name": "Bob van Asperen",
+          "url": "https://open.spotify.com/artist/3CkHdpbn1xUU7Z4sauEwne"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279266,
+      "name": "Sonata No. 2 for Violin & Harpsichord in A Major, BWV 1015: IV. Presto",
+      "url": "https://open.spotify.com/track/1QFmPjmzRL9WiJwIOGiakM"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Sonatas for Violin and Harpsichord, Vol. 1",
+        "url": "https://open.spotify.com/album/2e4zCuhkw073kumQpFQsZM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucy van Dael",
+          "url": "https://open.spotify.com/artist/7ogL64FibITJvIZLqp14il"
+        },
+        {
+          "name": "Bob van Asperen",
+          "url": "https://open.spotify.com/artist/3CkHdpbn1xUU7Z4sauEwne"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Sonata No. 2 for Violin and Harpsichord in A Major, BWV 1015: IV. Presto",
+      "url": "https://open.spotify.com/track/4VuZIqCS2NPpQnB8YAz6gu"
+    },
+    {
+      "album": {
+        "name": "Galway Plays Bach",
+        "url": "https://open.spotify.com/album/3RdeN70MZx6shbmpFjJg3C"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130066,
+      "name": "Sonata No. 2 in E-Flat Major, BWV 1031: II. Siciliana",
+      "url": "https://open.spotify.com/track/69dUbmYChOm0u6FlNM1iJ2"
+    },
+    {
+      "album": {
+        "name": "James Galway Plays Bach Sonatas",
+        "url": "https://open.spotify.com/album/2knHDJj48mflcjKf5l1ggO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 130066,
+      "name": "Sonata No. 2 in E-Flat Major, BWV 1031: II. Siciliana",
+      "url": "https://open.spotify.com/track/6Vb1V8aAVtNwLSXMcfG3jT"
+    },
+    {
+      "album": {
+        "name": "Le Meilleur De Bach",
+        "url": "https://open.spotify.com/album/45boEtZiej1LKKlBJJ1EQ6"
+      },
+      "artists": [
+        {
+          "name": "Classical Kids",
+          "url": "https://open.spotify.com/artist/1kbL7hm9fOpTJovrRQ1tpO"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141360,
+      "name": "Sonate pour fl\u00fbte et basse continue en C Majeur, Bwv 1033 Allegro",
+      "url": "https://open.spotify.com/track/3etFyQUhW6PeaQ5qdQfp2c"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: St. Matthew Passion BWV 244",
+        "url": "https://open.spotify.com/album/2mU3d149oeckX42YYrYJ0e"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Chicago Symphony Chorus",
+          "url": "https://open.spotify.com/artist/18PZhbpywoKUnS1nCmXIPK"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480093,
+      "name": "St. Matthew Passion, BWV 244 - Part One: 1. Kommt, ihr T\u00f6chter, helft mir klagen",
+      "url": "https://open.spotify.com/track/3KEWaqqdnB05DTOjgdQFwD"
+    },
+    {
+      "album": {
+        "name": "Bach: Matth\u00e4us-Passion (St Matthew Passion)",
+        "url": "https://open.spotify.com/album/2rA6ZfJR23Bg7oX9sWzTUf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "RIAS Kammerchor",
+          "url": "https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx"
+        },
+        {
+          "name": "Staats- und Domchor Berlin",
+          "url": "https://open.spotify.com/artist/13K5o1jqGYUEOTR4fEwC93"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        },
+        {
+          "name": "Ren\u00e9 Jacobs",
+          "url": "https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511320,
+      "name": "St. Matthew Passion, BWV 244, Part I: No. 1, \"Kommt, ihr T\u00f6chter, helft mir klagen\" (Chorus I & II)",
+      "url": "https://open.spotify.com/track/7nVJBlD3jmbaq3w6iv6Ygm"
+    },
+    {
+      "album": {
+        "name": "The Essentials: Bach",
+        "url": "https://open.spotify.com/album/39baQssvqz2JBCRRCXRNYw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dresdner Kammerchor",
+          "url": "https://open.spotify.com/artist/4yDjrNfw6inxy2NjexHpV1"
+        },
+        {
+          "name": "Knaben des K\u00f6lner Domchores",
+          "url": "https://open.spotify.com/artist/1NftXcojlsv4770FGeEJ4I"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 397293,
+      "name": "St. Matthew Passion, BWV 244: Kommt, ihr Tochter, helft mir klagen",
+      "url": "https://open.spotify.com/track/3tuXqxf3iuoI64lURaRkGx"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: St. Matthew Passion",
+        "url": "https://open.spotify.com/album/4YpYylzAoUdC16yiSCeaZs"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Nico Van Der Meel",
+          "url": "https://open.spotify.com/artist/6e0uL7Sy19UeYHxeoiXKXJ"
+        },
+        {
+          "name": "Dominique Engler",
+          "url": "https://open.spotify.com/artist/0r4SDztGZr8WDh2wZ2XAY2"
+        },
+        {
+          "name": "Yosemeh Adjei",
+          "url": "https://open.spotify.com/artist/2PU6dd7Sy6uYgK7EMlXgD1"
+        },
+        {
+          "name": "Lothar Blum",
+          "url": "https://open.spotify.com/artist/1eIp2Es9GwlaoN1PZZujsp"
+        },
+        {
+          "name": "Julian Schulzki",
+          "url": "https://open.spotify.com/artist/4MOS3HnhFqMnANHEnhCYaW"
+        },
+        {
+          "name": "Dresdner Kammerchor",
+          "url": "https://open.spotify.com/artist/4yDjrNfw6inxy2NjexHpV1"
+        },
+        {
+          "name": "Knaben des K\u00f6lner Domchores",
+          "url": "https://open.spotify.com/artist/1NftXcojlsv4770FGeEJ4I"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        },
+        {
+          "name": "Raimund Nolte",
+          "url": "https://open.spotify.com/artist/0CHZkVuOZd7NRsP28R3LY0"
+        },
+        {
+          "name": "Locky Chung",
+          "url": "https://open.spotify.com/artist/5H00k5dMT8eEAgvzLdA5m1"
+        },
+        {
+          "name": "Claudia Couwenbergh",
+          "url": "https://open.spotify.com/artist/1TxVD9grdetZ114i6wu6Q4"
+        },
+        {
+          "name": "Marianne Beate Kielland",
+          "url": "https://open.spotify.com/artist/5RhYIMhVZveCF5nHZz35tf"
+        },
+        {
+          "name": "Markus Sch\u00e4fer",
+          "url": "https://open.spotify.com/artist/1JC0ekawKvIOehVRu4ziPX"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Hans-Christoph Rademann",
+          "url": "https://open.spotify.com/artist/3nWpkLjuh0r3wniO2gzL8m"
+        },
+        {
+          "name": "Eberhard Metternich",
+          "url": "https://open.spotify.com/artist/262D9dFVYaWGuFbwoVUJ8n"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397293,
+      "name": "St. Matthew Passion, BWV 244: Pt. I: No. 1, Chorus. Kommt, ihr Tochter, helft mir klagen (Chorus, Soprano in ripieno)",
+      "url": "https://open.spotify.com/track/40JY3s2IzdQg30Mv7SwU3G"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: St. Matthew Passion",
+        "url": "https://open.spotify.com/album/0RC87Zkjiscp9NEgIWVsHc"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christoph Pr\u00e9gardien",
+          "url": "https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv"
+        },
+        {
+          "name": "Hermann Max",
+          "url": "https://open.spotify.com/artist/6jlnvHIJkxWUl4H7itYXMd"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Monika Frimmer",
+          "url": "https://open.spotify.com/artist/310yysiqHDMLJC9f2KIFie"
+        },
+        {
+          "name": "Veronika Winter",
+          "url": "https://open.spotify.com/artist/1UxZy4x9T5u3K5iEOaQrSg"
+        },
+        {
+          "name": "Lena Susanne Norin",
+          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
+        },
+        {
+          "name": "Wilfried Jochens",
+          "url": "https://open.spotify.com/artist/3Gwt0QfKpvHnysUHGtNUh2"
+        },
+        {
+          "name": "Hans-Georg Wimmer",
+          "url": "https://open.spotify.com/artist/79q0ZboO660iZ0KO2CAGdC"
+        },
+        {
+          "name": "Rheinische Kantorei",
+          "url": "https://open.spotify.com/artist/4X2WEqbEkMg2uekVaLpCcM"
+        },
+        {
+          "name": "Kleine Konzert, Das",
+          "url": "https://open.spotify.com/artist/42wHGOZ95zOTWZefC1c8TS"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 354000,
+      "name": "St. Matthew Passion, BWV 244: Pt. II: Aria. Erbarme dich, mien Gott (Alto)",
+      "url": "https://open.spotify.com/track/1we22WZ1nNiWyirZzQyEMv"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: St. Matthew Passion",
+        "url": "https://open.spotify.com/album/69Go4V0m6zrpkOgdPS4jaN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christoph Pr\u00e9gardien",
+          "url": "https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Monika Frimmer",
+          "url": "https://open.spotify.com/artist/310yysiqHDMLJC9f2KIFie"
+        },
+        {
+          "name": "Veronika Winter",
+          "url": "https://open.spotify.com/artist/1UxZy4x9T5u3K5iEOaQrSg"
+        },
+        {
+          "name": "Lena Susanne Norin",
+          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
+        },
+        {
+          "name": "Wilfried Jochens",
+          "url": "https://open.spotify.com/artist/3Gwt0QfKpvHnysUHGtNUh2"
+        },
+        {
+          "name": "Hans-Georg Wimmer",
+          "url": "https://open.spotify.com/artist/79q0ZboO660iZ0KO2CAGdC"
+        },
+        {
+          "name": "Rheinische Kantorei",
+          "url": "https://open.spotify.com/artist/4X2WEqbEkMg2uekVaLpCcM"
+        },
+        {
+          "name": "Das Kleine Konzert",
+          "url": "https://open.spotify.com/artist/429D6l1sS2mYTNmhawzHWI"
+        },
+        {
+          "name": "Hermann Max",
+          "url": "https://open.spotify.com/artist/6jlnvHIJkxWUl4H7itYXMd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "St. Matthew Passion, BWV 244: Pt. II: Aria. Erbarme dich, mien Gott (Alto)",
+      "url": "https://open.spotify.com/track/0aFbw790BUR597b9SeCvCF"
+    },
+    {
+      "album": {
+        "name": "Bach: Six Suites for Solo Cello",
+        "url": "https://open.spotify.com/album/322JJOlqMTWTgnEqBA2rib"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273560,
+      "name": "Suite for Solo Cello No. 6 in D Major, BWV 1012: V. Gavotte I-II",
+      "url": "https://open.spotify.com/track/1FHezB5kNLi0wdRd4u99K8"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier I",
+        "url": "https://open.spotify.com/album/2THbXZ6lquHXul5edVsREd"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "The Well-Tempered Clavier: Book I, BWV 846-869: I. Prelude",
+      "url": "https://open.spotify.com/track/5nr0Je2fL2nILWaoUkcvrT"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier I",
+        "url": "https://open.spotify.com/album/1lF9n1AT6HbAAvYaBJiTZ0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137560,
+      "name": "The Well-Tempered Clavier: Book I, BWV 846-869: I. Prelude",
+      "url": "https://open.spotify.com/track/6VLGpRXbJAwtMCCsYWGyjB"
+    },
+    {
+      "album": {
+        "name": "Bach: Autumn Leaves",
+        "url": "https://open.spotify.com/album/3Xer8qLji6YQiLyRInApZL"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 140683,
+      "name": "The Well-Tempered Clavier: Book I, BWV 846-869: I. Prelude",
+      "url": "https://open.spotify.com/track/13HJb3r9SsmxGK8bPIiwWX"
+    },
+    {
+      "album": {
+        "name": "Great Organ Classics",
+        "url": "https://open.spotify.com/album/22fZBA9wcM45kjNge0yANc"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "William McVicker",
+          "url": "https://open.spotify.com/artist/3zLYnnZigB17bD8RQbWJaf"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 567466,
+      "name": "Toccata and Fugue in D minor",
+      "url": "https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM"
+    },
+    {
+      "album": {
+        "name": "Great Organ Classics",
+        "url": "https://open.spotify.com/album/18iIKbQp8uIZVB9cWDATZQ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "William McVicker",
+          "url": "https://open.spotify.com/artist/3zLYnnZigB17bD8RQbWJaf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567466,
+      "name": "Toccata and Fugue in D minor",
+      "url": "https://open.spotify.com/track/5cYyCE4b3T5TdQ3sGg8CYc"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Trio Sonata No. 1, BWV 525: I. (Allegro moderato) (Transcr. Kurt\u00e1g)",
+        "url": "https://open.spotify.com/album/773nJsDgOEVe0PPEyP76RA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        },
+        {
+          "name": "Halla Oddn\u00fd Magn\u00fasd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/0gYlTqdhOtEvOW3eptaLO8"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 151573,
+      "name": "Trio Sonata No. 1 in E-Flat Major, BWV 525: I. (Allegro moderato) (Transcr. Kurt\u00e1g) - Upright Piano",
+      "url": "https://open.spotify.com/track/7guOIHeFJYxZyw6x53mURS"
+    },
+    {
+      "album": {
+        "name": "Bach For Meditation",
+        "url": "https://open.spotify.com/album/6r2bjrJ2WRsSZiOagjacUv"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 367160,
+      "name": "Two Harpsichords Concerto in C Minor, Bwv 1062: Ii. Andante e piano",
+      "url": "https://open.spotify.com/track/4qdJvGSNDtfntw7irdklbf"
+    },
+    {
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5mRrklQD0rvuN6sV10HfPn"
+    },
+    {
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150373,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: IV. Sarabande",
+      "url": "https://open.spotify.com/track/2wSo5WfMpeqtrBqFz0OI5g"
+    },
+    {
+      "album": {
+        "name": "Bach / Vivaldi: Violin Concertos",
+        "url": "https://open.spotify.com/album/1Geh1XbooSlOjASPejshdD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 332666,
+      "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
+      "url": "https://open.spotify.com/track/5dYzs3iMIppOMLyuW1T93p"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332533,
+      "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
+      "url": "https://open.spotify.com/track/6iZyZPHl5Gg6A24unyzwk4"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/1YfZfKtrtT0d8pMhtnqw8r"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 332533,
+      "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
+      "url": "https://open.spotify.com/track/5x76lCQrNalQAsvfqWy1Yq"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442840,
+      "name": "Violin Concerto in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/2NulkiwtGWhsyMMbdVbzcP"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/1YfZfKtrtT0d8pMhtnqw8r"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 442840,
+      "name": "Violin Concerto in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/5TBekkTQcKzto3sLrUUbKy"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Sonatas and Partitas (Arr. for Guitar)",
+        "url": "https://open.spotify.com/album/55sIRnzwzFi3xFZ1r3nK9N"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Paul Galbraith",
+          "url": "https://open.spotify.com/artist/1AORP7RPoxyE8dtP8V6Yr5"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159800,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006 (arr. P. Galbraith): III. Gavotte en rondeau",
+      "url": "https://open.spotify.com/track/19vP4ZOsTZNkodbUPJpdb5"
+    },
+    {
+      "album": {
+        "name": "Bach: Violin Partitas Nos. 2, 3 & Violin Sonata No. 3",
+        "url": "https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214266,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "url": "https://open.spotify.com/track/0MS8OzIWg8BCZs3AZlgohu"
+    },
+    {
+      "album": {
+        "name": "Hilary Hahn Plays Bach",
+        "url": "https://open.spotify.com/album/2GLJLkriVbdfDi5W5e3LJM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "url": "https://open.spotify.com/track/2sqhid2MBYJCZWPrLjsUbP"
+    },
+    {
+      "album": {
+        "name": "Bach: Violin Sonatas & Partitas",
+        "url": "https://open.spotify.com/album/3SNf7TMk4MP2Fvq6MY7SzS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "url": "https://open.spotify.com/track/0RRg2HShg6orOxlnzKqR8C"
+    },
+    {
+      "album": {
+        "name": "Bach: Violin Sonatas & Partitas",
+        "url": "https://open.spotify.com/album/1Uoswscwxpl2YhWLU3XTs7"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260799,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "url": "https://open.spotify.com/track/4v5HKeo8gavIQ3suWGHa88"
+    },
+    {
+      "album": {
+        "name": "Bach: Violin Partitas Nos. 2, 3 & Violin Sonata No. 3",
+        "url": "https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287360,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "url": "https://open.spotify.com/track/547VV5ljOwIz8aVAiuzpav"
+    },
+    {
+      "album": {
+        "name": "Hilary Hahn Plays Bach",
+        "url": "https://open.spotify.com/album/2GLJLkriVbdfDi5W5e3LJM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287360,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "url": "https://open.spotify.com/track/56RnSF8QlR5ROKpLOu4z3w"
+    },
+    {
+      "album": {
+        "name": "3-Pak (Hilary Hahn Plays Bach/Beethoven:Violin Concerto, Bernstein Serenade/Stravinsky, Brahms Violin Concertos)",
+        "url": "https://open.spotify.com/album/4OvscNc3M1e0eF4QLbUAB4"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287360,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: II. Loure",
+      "url": "https://open.spotify.com/track/7nNzhPYzhnnfz1GdV7c25c"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Cantata BWV 140, Magnificat BWV 243",
+        "url": "https://open.spotify.com/album/429TlOgBsyfzJT2uqZTzds"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Peter Schreier",
+          "url": "https://open.spotify.com/artist/38ghpVkkvBf5wugUg4HW4G"
+        },
+        {
+          "name": "M\u00fcnchener Bach-Orchester",
+          "url": "https://open.spotify.com/artist/38hliKqnaGCbRmZcLNoDvX"
+        },
+        {
+          "name": "Karl Richter",
+          "url": "https://open.spotify.com/artist/3iamDPaou6RYgX0C43Qm6j"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356866,
+      "name": "Wachet auf, ruft uns die Stimme, Cantata BWV 140: IV. \"Zion h\u00f6rt die W\u00e4chter singen\"",
+      "url": "https://open.spotify.com/track/1k82bzEjGy47GX0EbVPseH"
+    },
+    {
+      "album": {
+        "name": "Bach: Weihnachts-Oratorium, BWV 248",
+        "url": "https://open.spotify.com/album/1C7cfAraGqG0TA2hNheKTO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Bachchor Mainz",
+          "url": "https://open.spotify.com/artist/5OL1eCS6AxUYhiRgxsICB9"
+        },
+        {
+          "name": "Bachorchester Mainz",
+          "url": "https://open.spotify.com/artist/0KEoufrvrmeW0DKsE1J9lV"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/1e8vbae6ixFLtBYrxd9PUW"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 449093,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 1: Jauchzet, frohlocket",
+      "url": "https://open.spotify.com/track/5NyC6I8fq4dAfwh1ERuF4u"
+    },
+    {
+      "album": {
+        "name": "Bach: Weihnachts-Oratorium, BWV 248",
+        "url": "https://open.spotify.com/album/2dFjAEYowphumgAx9lkr0j"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mainz Bach Choir",
+          "url": "https://open.spotify.com/artist/3Hb6T8dZd8WwLY89mHWmzc"
+        },
+        {
+          "name": "Mainz Bach Orchestra",
+          "url": "https://open.spotify.com/artist/0c9qnKsKhHFq55Ho4GeGSr"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/1e8vbae6ixFLtBYrxd9PUW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449093,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 1: Jauchzet, frohlocket",
+      "url": "https://open.spotify.com/track/6OeFPkgDQDUomPEDds8Fxh"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Christmas Oratorio",
+        "url": "https://open.spotify.com/album/5LKva8D4Hn5yun0m4aSShL"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Monica Groop",
+          "url": "https://open.spotify.com/artist/0D5GLqp4LQMG8Io8LxTdME"
+        },
+        {
+          "name": "Christoph Pr\u00e9gardien",
+          "url": "https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Frankfurt Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/5YtWMcoOZAHh5mivf5b0L5"
+        },
+        {
+          "name": "Concerto Cologne",
+          "url": "https://open.spotify.com/artist/7l8lb6yic4nBI7I0A9eThT"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/41idGvmz7nvxWge2uPeRTR"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334560,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 1: Pt. II: Sinfonia",
+      "url": "https://open.spotify.com/track/3kVIy7Bvab9VwU4cZolU6L"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Christmas Oratorio",
+        "url": "https://open.spotify.com/album/3PKXtOn5VgRccQL2bneDLk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Monica Groop",
+          "url": "https://open.spotify.com/artist/0D5GLqp4LQMG8Io8LxTdME"
+        },
+        {
+          "name": "Christoph Pr\u00e9gardien",
+          "url": "https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Frankfurt Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/5YtWMcoOZAHh5mivf5b0L5"
+        },
+        {
+          "name": "Concerto Cologne",
+          "url": "https://open.spotify.com/artist/7l8lb6yic4nBI7I0A9eThT"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/41idGvmz7nvxWge2uPeRTR"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334560,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 1: Pt. II: Sinfonia",
+      "url": "https://open.spotify.com/track/7xpSavI7zHnchw5x6JSuSU"
+    },
+    {
+      "album": {
+        "name": "Bach: Weihnachts-Oratorium, BWV 248",
+        "url": "https://open.spotify.com/album/1C7cfAraGqG0TA2hNheKTO"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Katharina Magiera",
+          "url": "https://open.spotify.com/artist/1r5yBdhdxgBgjjlahXWuwK"
+        },
+        {
+          "name": "Bachorchester Mainz",
+          "url": "https://open.spotify.com/artist/0KEoufrvrmeW0DKsE1J9lV"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/1e8vbae6ixFLtBYrxd9PUW"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 603000,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 2: Schlafe, mein Liebster",
+      "url": "https://open.spotify.com/track/1Pp56gqHTPuSKKGtaykwOX"
+    },
+    {
+      "album": {
+        "name": "Bach: Weihnachts-Oratorium, BWV 248",
+        "url": "https://open.spotify.com/album/2dFjAEYowphumgAx9lkr0j"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Katharina Magiera",
+          "url": "https://open.spotify.com/artist/1r5yBdhdxgBgjjlahXWuwK"
+        },
+        {
+          "name": "Mainz Bach Orchestra",
+          "url": "https://open.spotify.com/artist/0c9qnKsKhHFq55Ho4GeGSr"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/1e8vbae6ixFLtBYrxd9PUW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603000,
+      "name": "Weihnachts-Oratorium, BWV 248, Pt. 2: Schlafe, mein Liebster",
+      "url": "https://open.spotify.com/track/6AdbDGHC2f2c7WpKSmBc8l"
+    },
+    {
+      "album": {
+        "name": "100 Christmas Classics",
+        "url": "https://open.spotify.com/album/4AE6JGYjCzNvvWt7E6PiLM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Concerto K\u00f6ln",
+          "url": "https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob"
+        },
+        {
+          "name": "Ralf Otto",
+          "url": "https://open.spotify.com/artist/41idGvmz7nvxWge2uPeRTR"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 334520,
+      "name": "Weihnachtsoratorium, BWV 248, Pt. 2: No. 10, Sinfonia \"Pastoral Symphony\"",
+      "url": "https://open.spotify.com/track/5olclWRWbkX6Har7YGq19V"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 266213,
+      "name": "Widerstehe doch der S\u00fcnde, BWV 54 (Transcr. by V\u00edkingur \u00d3lafsson)",
+      "url": "https://open.spotify.com/track/5xVcnhVL0AwcOgbpuxTu6W"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZnzwzLBft6A"
 }

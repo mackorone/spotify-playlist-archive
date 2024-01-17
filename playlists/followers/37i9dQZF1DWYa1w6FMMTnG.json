@@ -1,432 +1,2301 @@
 {
-  "2022-10-27": 306913,
-  "2022-10-28": 310502,
-  "2022-10-29": 315980,
-  "2022-10-30": 321926,
-  "2022-10-31": 326748,
-  "2022-11-01": 336584,
-  "2022-11-02": 337619,
-  "2022-11-03": 337903,
-  "2022-11-04": 337985,
-  "2022-11-05": 338063,
-  "2022-11-06": 338179,
-  "2022-11-07": 338264,
-  "2022-11-08": 338157,
-  "2022-11-09": 338063,
-  "2022-11-10": 338000,
-  "2022-11-11": 337929,
-  "2022-11-12": 337830,
-  "2022-11-13": 337785,
-  "2022-11-14": 337728,
-  "2022-11-15": 337611,
-  "2022-11-16": 337504,
-  "2022-11-17": 337421,
-  "2022-11-18": 337260,
-  "2022-11-19": 336980,
-  "2022-11-20": 336793,
-  "2022-11-21": 336692,
-  "2022-11-22": 336837,
-  "2022-11-23": 336593,
-  "2022-11-24": 336684,
-  "2022-11-25": 336789,
-  "2022-11-26": 336804,
-  "2022-11-27": 336794,
-  "2022-11-28": 336757,
-  "2022-11-29": 336688,
-  "2022-11-30": 336606,
-  "2022-12-01": 336472,
-  "2022-12-02": 336315,
-  "2022-12-03": 336228,
-  "2022-12-04": 336175,
-  "2022-12-05": 336098,
-  "2022-12-06": 336028,
-  "2022-12-07": 335943,
-  "2022-12-08": 335864,
-  "2022-12-09": 335786,
-  "2022-12-10": 335750,
-  "2022-12-11": 335674,
-  "2022-12-12": 335632,
-  "2022-12-13": 335552,
-  "2022-12-14": 335482,
-  "2022-12-15": 335414,
-  "2022-12-16": 335380,
-  "2022-12-17": 335357,
-  "2022-12-18": 335334,
-  "2022-12-19": 335293,
-  "2022-12-20": 335209,
-  "2022-12-21": 335209,
-  "2022-12-22": 335146,
-  "2022-12-24": 335044,
-  "2022-12-25": 335007,
-  "2022-12-26": 334980,
-  "2022-12-27": 334925,
-  "2022-12-28": 334861,
-  "2022-12-29": 334778,
-  "2022-12-30": 334729,
-  "2022-12-31": 334688,
-  "2023-01-01": 334644,
-  "2023-01-02": 334614,
-  "2023-01-03": 334530,
-  "2023-01-04": 334430,
-  "2023-01-05": 334325,
-  "2023-01-06": 334218,
-  "2023-01-07": 334100,
-  "2023-01-08": 334076,
-  "2023-01-09": 334043,
-  "2023-01-10": 333967,
-  "2023-01-11": 333908,
-  "2023-01-12": 333827,
-  "2023-01-13": 333786,
-  "2023-01-14": 333704,
-  "2023-01-15": 333678,
-  "2023-01-16": 333611,
-  "2023-01-17": 333548,
-  "2023-01-18": 333503,
-  "2023-01-19": 333438,
-  "2023-01-20": 333366,
-  "2023-01-21": 333328,
-  "2023-01-22": 333291,
-  "2023-01-23": 333268,
-  "2023-01-24": 333228,
-  "2023-01-25": 333168,
-  "2023-01-26": 333129,
-  "2023-01-27": 333091,
-  "2023-01-28": 333037,
-  "2023-01-29": 333007,
-  "2023-01-30": 332951,
-  "2023-01-31": 332951,
-  "2023-02-01": 332818,
-  "2023-02-02": 332775,
-  "2023-02-03": 332707,
-  "2023-02-04": 332671,
-  "2023-02-05": 332609,
-  "2023-02-06": 332557,
-  "2023-02-07": 332483,
-  "2023-02-08": 332390,
-  "2023-02-09": 332390,
-  "2023-02-10": 332343,
-  "2023-02-11": 332292,
-  "2023-02-12": 332226,
-  "2023-02-13": 332174,
-  "2023-02-14": 332174,
-  "2023-02-15": 332124,
-  "2023-02-16": 332082,
-  "2023-02-17": 332037,
-  "2023-02-18": 331952,
-  "2023-02-19": 331951,
-  "2023-02-20": 331935,
-  "2023-02-21": 331908,
-  "2023-02-22": 331865,
-  "2023-02-23": 331818,
-  "2023-02-24": 331776,
-  "2023-02-25": 331706,
-  "2023-02-26": 331687,
-  "2023-02-27": 331593,
-  "2023-02-28": 331593,
-  "2023-03-01": 331568,
-  "2023-03-02": 331521,
-  "2023-03-03": 331480,
-  "2023-03-04": 331449,
-  "2023-03-05": 331380,
-  "2023-03-06": 331380,
-  "2023-03-07": 331343,
-  "2023-03-08": 331291,
-  "2023-03-09": 331260,
-  "2023-03-10": 331210,
-  "2023-03-11": 331165,
-  "2023-03-12": 331163,
-  "2023-03-13": 331119,
-  "2023-03-14": 331063,
-  "2023-03-15": 331024,
-  "2023-03-16": 330958,
-  "2023-03-17": 330958,
-  "2023-03-18": 330895,
-  "2023-03-19": 330865,
-  "2023-03-20": 330823,
-  "2023-03-21": 330766,
-  "2023-03-22": 330713,
-  "2023-03-23": 330663,
-  "2023-03-24": 330663,
-  "2023-03-25": 330572,
-  "2023-03-26": 330538,
-  "2023-03-27": 330494,
-  "2023-03-28": 330456,
-  "2023-03-29": 330400,
-  "2023-03-30": 330346,
-  "2023-03-31": 330346,
-  "2023-04-01": 330309,
-  "2023-04-02": 330300,
-  "2023-04-03": 330258,
-  "2023-04-04": 330202,
-  "2023-04-05": 330166,
-  "2023-04-06": 330158,
-  "2023-04-07": 330110,
-  "2023-04-09": 330036,
-  "2023-04-10": 330011,
-  "2023-04-11": 329923,
-  "2023-04-12": 329923,
-  "2023-04-13": 329866,
-  "2023-04-14": 329832,
-  "2023-04-15": 329802,
-  "2023-04-16": 329765,
-  "2023-04-17": 329743,
-  "2023-04-18": 329724,
-  "2023-04-19": 329670,
-  "2023-04-20": 329629,
-  "2023-04-21": 329596,
-  "2023-04-22": 329571,
-  "2023-04-23": 329561,
-  "2023-04-24": 329528,
-  "2023-04-25": 329495,
-  "2023-04-26": 329488,
-  "2023-04-27": 329472,
-  "2023-04-28": 329434,
-  "2023-04-29": 329446,
-  "2023-04-30": 329439,
-  "2023-05-01": 329415,
-  "2023-05-02": 329393,
-  "2023-05-03": 329371,
-  "2023-05-04": 329341,
-  "2023-05-05": 329328,
-  "2023-05-06": 329295,
-  "2023-05-07": 329282,
-  "2023-05-08": 329257,
-  "2023-05-09": 329224,
-  "2023-05-10": 329218,
-  "2023-05-11": 329205,
-  "2023-05-12": 329183,
-  "2023-05-13": 329163,
-  "2023-05-14": 329153,
-  "2023-05-15": 329146,
-  "2023-05-16": 329104,
-  "2023-05-17": 329081,
-  "2023-05-18": 329069,
-  "2023-05-19": 329053,
-  "2023-05-20": 329061,
-  "2023-05-21": 329061,
-  "2023-05-22": 329061,
-  "2023-05-23": 329048,
-  "2023-05-24": 329050,
-  "2023-05-25": 329035,
-  "2023-05-26": 329022,
-  "2023-05-27": 329003,
-  "2023-05-28": 328995,
-  "2023-05-29": 328995,
-  "2023-05-30": 328982,
-  "2023-05-31": 328968,
-  "2023-06-01": 328963,
-  "2023-06-02": 328948,
-  "2023-06-03": 328927,
-  "2023-06-04": 328929,
-  "2023-06-05": 328905,
-  "2023-06-06": 328873,
-  "2023-06-07": 328847,
-  "2023-06-08": 328836,
-  "2023-06-09": 328832,
-  "2023-06-10": 328826,
-  "2023-06-11": 328837,
-  "2023-06-12": 328821,
-  "2023-06-13": 328818,
-  "2023-06-14": 328800,
-  "2023-06-15": 328791,
-  "2023-06-16": 328774,
-  "2023-06-17": 328767,
-  "2023-06-18": 328768,
-  "2023-06-19": 328770,
-  "2023-06-20": 328779,
-  "2023-06-21": 328758,
-  "2023-06-22": 328738,
-  "2023-06-23": 328716,
-  "2023-06-24": 328726,
-  "2023-06-25": 328709,
-  "2023-06-26": 328697,
-  "2023-06-27": 328679,
-  "2023-06-28": 328682,
-  "2023-06-29": 328668,
-  "2023-06-30": 328667,
-  "2023-07-01": 328670,
-  "2023-07-02": 328670,
-  "2023-07-03": 328670,
-  "2023-07-04": 328676,
-  "2023-07-05": 328672,
-  "2023-07-06": 328711,
-  "2023-07-07": 328711,
-  "2023-07-08": 328726,
-  "2023-07-09": 328734,
-  "2023-07-10": 328742,
-  "2023-07-11": 328741,
-  "2023-07-12": 328746,
-  "2023-07-13": 328719,
-  "2023-07-14": 328731,
-  "2023-07-15": 328753,
-  "2023-07-16": 328763,
-  "2023-07-17": 328762,
-  "2023-07-18": 328780,
-  "2023-07-19": 328785,
-  "2023-07-20": 328797,
-  "2023-07-21": 328813,
-  "2023-07-22": 328835,
-  "2023-07-23": 328853,
-  "2023-07-24": 328870,
-  "2023-07-25": 328891,
-  "2023-07-26": 328923,
-  "2023-07-27": 328956,
-  "2023-07-28": 328973,
-  "2023-07-29": 329008,
-  "2023-07-30": 329050,
-  "2023-07-31": 329112,
-  "2023-08-01": 329164,
-  "2023-08-02": 329233,
-  "2023-08-03": 329314,
-  "2023-08-04": 329365,
-  "2023-08-05": 329435,
-  "2023-08-06": 329571,
-  "2023-08-07": 329571,
-  "2023-08-08": 329634,
-  "2023-08-09": 329698,
-  "2023-08-10": 329772,
-  "2023-08-11": 329820,
-  "2023-08-12": 329921,
-  "2023-08-13": 330040,
-  "2023-08-14": 330130,
-  "2023-08-15": 330285,
-  "2023-08-16": 330285,
-  "2023-08-17": 330395,
-  "2023-08-18": 330497,
-  "2023-08-19": 330630,
-  "2023-08-20": 330758,
-  "2023-08-21": 330878,
-  "2023-08-22": 330981,
-  "2023-08-23": 331073,
-  "2023-08-24": 331203,
-  "2023-08-25": 331327,
-  "2023-08-26": 331481,
-  "2023-08-27": 331664,
-  "2023-08-28": 331832,
-  "2023-08-29": 331967,
-  "2023-08-30": 332101,
-  "2023-08-31": 332261,
-  "2023-09-01": 332944,
-  "2023-09-02": 332944,
-  "2023-09-03": 333492,
-  "2023-09-04": 333887,
-  "2023-09-05": 334271,
-  "2023-09-06": 334524,
-  "2023-09-07": 334869,
-  "2023-09-08": 335165,
-  "2023-09-09": 335525,
-  "2023-09-10": 336051,
-  "2023-09-11": 336616,
-  "2023-09-12": 337119,
-  "2023-09-13": 337531,
-  "2023-09-14": 337904,
-  "2023-09-15": 338412,
-  "2023-09-16": 338805,
-  "2023-09-17": 339334,
-  "2023-09-18": 339905,
-  "2023-09-19": 340403,
-  "2023-09-20": 340950,
-  "2023-09-21": 341356,
-  "2023-09-22": 341796,
-  "2023-09-23": 342400,
-  "2023-09-24": 343121,
-  "2023-09-25": 343820,
-  "2023-09-26": 344605,
-  "2023-09-27": 345124,
-  "2023-09-28": 345708,
-  "2023-09-29": 346277,
-  "2023-09-30": 346929,
-  "2023-10-01": 347768,
-  "2023-10-02": 348922,
-  "2023-10-03": 350038,
-  "2023-10-04": 350980,
-  "2023-10-05": 351951,
-  "2023-10-06": 352974,
-  "2023-10-07": 354157,
-  "2023-10-08": 355498,
-  "2023-10-09": 356704,
-  "2023-10-10": 357822,
-  "2023-10-11": 360018,
-  "2023-10-12": 360018,
-  "2023-10-13": 361222,
-  "2023-10-14": 362469,
-  "2023-10-15": 363858,
-  "2023-10-16": 365082,
-  "2023-10-17": 366272,
-  "2023-10-18": 367446,
-  "2023-10-19": 368660,
-  "2023-10-20": 370043,
-  "2023-10-21": 371462,
-  "2023-10-22": 373965,
-  "2023-10-23": 375619,
-  "2023-10-24": 377084,
-  "2023-10-25": 378823,
-  "2023-10-26": 381004,
-  "2023-10-27": 383381,
-  "2023-10-28": 386471,
-  "2023-10-29": 390495,
-  "2023-10-30": 396104,
-  "2023-10-31": 396104,
-  "2023-11-01": 403701,
-  "2023-11-02": 404566,
-  "2023-11-03": 404871,
-  "2023-11-04": 405027,
-  "2023-11-05": 405160,
-  "2023-11-06": 405205,
-  "2023-11-07": 405150,
-  "2023-11-08": 405053,
-  "2023-11-09": 404955,
-  "2023-11-10": 404853,
-  "2023-11-11": 404748,
-  "2023-11-12": 404730,
-  "2023-11-13": 404680,
-  "2023-11-14": 404583,
-  "2023-11-15": 404583,
-  "2023-11-16": 404428,
-  "2023-11-17": 404258,
-  "2023-11-18": 404258,
-  "2023-11-19": 404192,
-  "2023-11-20": 404145,
-  "2023-11-21": 404079,
-  "2023-11-22": 404009,
-  "2023-11-23": 403933,
-  "2023-11-24": 403846,
-  "2023-11-25": 403790,
-  "2023-11-26": 403751,
-  "2023-11-27": 403675,
-  "2023-11-28": 403602,
-  "2023-11-29": 403371,
-  "2023-11-30": 403371,
-  "2023-12-01": 403203,
-  "2023-12-02": 403122,
-  "2023-12-03": 403048,
-  "2023-12-04": 402968,
-  "2023-12-05": 402896,
-  "2023-12-06": 402826,
-  "2023-12-07": 402745,
-  "2023-12-08": 402699,
-  "2023-12-09": 402644,
-  "2023-12-10": 402577,
-  "2023-12-11": 402502,
-  "2023-12-12": 402436,
-  "2023-12-13": 402390,
-  "2023-12-14": 402304,
-  "2023-12-15": 402266,
-  "2023-12-16": 402199,
-  "2023-12-17": 402165,
-  "2023-12-18": 402129,
-  "2023-12-19": 402087,
-  "2023-12-20": 402024,
-  "2023-12-21": 401958,
-  "2023-12-22": 401907,
-  "2023-12-23": 401848,
-  "2023-12-24": 401799,
-  "2023-12-25": 401777,
-  "2023-12-26": 401731,
-  "2023-12-27": 401668,
-  "2023-12-30": 401456,
-  "2023-12-31": 401362,
-  "2024-01-01": 401298,
-  "2024-01-02": 401205,
-  "2024-01-03": 401111
+  "2024-01-17": 399870,
+  "date_first_scraped": "2022-10-27",
+  "description": "Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.",
+  "name": "Disney Halloween",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "The Happy Haunts",
+          "url": "https://open.spotify.com/artist/7wP6bEeJj1bXfaTrM53oLO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459400,
+      "name": "999 Happy Haunts",
+      "url": "https://open.spotify.com/track/7f6m6vfymOiE3dpmbmBgF6"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/6yiERKWqeJIEC9OQzhyRcu"
+      },
+      "artists": [
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445000,
+      "name": "A Night on Bald Mountain",
+      "url": "https://open.spotify.com/track/4OLiT1v6Kyoz0oJKpha5Yj"
+    },
+    {
+      "album": {
+        "name": "WandaVision: Episode 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Eric Bradley",
+          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
+        },
+        {
+          "name": "Greg Whipple",
+          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
+        },
+        {
+          "name": "Jasper Randall",
+          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
+        },
+        {
+          "name": "Gerald White",
+          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62613,
+      "name": "Agatha All Along",
+      "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170458,
+      "name": "Ain't No Doubt About It",
+      "url": "https://open.spotify.com/track/5MF6bAKq8VbYQuNw7vuvb7"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240984,
+      "name": "Alien Invasion",
+      "url": "https://open.spotify.com/track/0pNzaDt5Bey6LWbCZZzUYK"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193096,
+      "name": "Arabian Nights (2019)",
+      "url": "https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4"
+    },
+    {
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Irons",
+          "url": "https://open.spotify.com/artist/6QRb3jE2lCfMU1iUuVQMaV"
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "url": "https://open.spotify.com/artist/1ZsoHNxHMKTgliJcxSRlb5"
+        },
+        {
+          "name": "Cheech Marin",
+          "url": "https://open.spotify.com/artist/68TP2Pr8i7dvyFHU0p748r"
+        },
+        {
+          "name": "Jim Cummings",
+          "url": "https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Be Prepared",
+      "url": "https://open.spotify.com/track/34nxgXFCPzDphUJGuRsn10"
+    },
+    {
+      "album": {
+        "name": "Boo! For You Halloween",
+        "url": "https://open.spotify.com/album/4hxH8kM7ZxSVPdxZnzp2oZ"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63986,
+      "name": "Boo! For You Halloween",
+      "url": "https://open.spotify.com/track/2IPAnhuFhRFQv3wiAPpgwq"
+    },
+    {
+      "album": {
+        "name": "Cruella (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127413,
+      "name": "Call me Cruella",
+      "url": "https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt"
+    },
+    {
+      "album": {
+        "name": "A.N.T. Farm",
+        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+    },
+    {
+      "album": {
+        "name": "Calling All the Monsters (2021 Version)",
+        "url": "https://open.spotify.com/album/4u62Skf96wDjB5q0yiSjFb"
+      },
+      "artists": [
+        {
+          "name": "Thriii",
+          "url": "https://open.spotify.com/artist/6getmg0vdMMXlQ3NObm0eo"
+        },
+        {
+          "name": "Messenger",
+          "url": "https://open.spotify.com/artist/6xyfocAry4NbF0jXovyjma"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230537,
+      "name": "Calling All the Monsters - 2021 Version",
+      "url": "https://open.spotify.com/track/3IeIP2Uo618tgzYbWhcn5a"
+    },
+    {
+      "album": {
+        "name": "Descendants 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Mitchell Hope",
+          "url": "https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193792,
+      "name": "Chillin' Like a Villain",
+      "url": "https://open.spotify.com/track/1rM0CnyUiiw6A9CHJRXjZA"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347386,
+      "name": "Coco - D\u00eda de los Muertos Suite",
+      "url": "https://open.spotify.com/track/3BY6XoTTapX2tV9qQCCsFW"
+    },
+    {
+      "album": {
+        "name": "Come Little Children",
+        "url": "https://open.spotify.com/album/0FOQzv6V69gjUl6gNiIlOo"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "Come Little Children",
+      "url": "https://open.spotify.com/track/62LwutvnfzZ2jPLpKbMnIv"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ariel Martin",
+          "url": "https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Come on Out",
+      "url": "https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq"
+    },
+    {
+      "album": {
+        "name": "A Haunting in Venice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494468,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz"
+    },
+    {
+      "album": {
+        "name": "Disney Villains: Simply Sinister Songs",
+        "url": "https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O"
+      },
+      "artists": [
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285840,
+      "name": "Cruella De Vil - From \"101 Dalmatians\"",
+      "url": "https://open.spotify.com/track/2t25Najd5Q3rmhuH5nX87m"
+    },
+    {
+      "album": {
+        "name": "Disneymania 6",
+        "url": "https://open.spotify.com/album/4wbsqx9AwCeNFzT3PjikMb"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Cruella De Vil - Original Version",
+      "url": "https://open.spotify.com/track/0PQ8MsAxETdEW3LigpDujI"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Trick or Treats (From \"Disney Junior Music: Trick or Treats\")",
+        "url": "https://open.spotify.com/album/01qOWAh3HwvcuRqUawzq78"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 152201,
+      "name": "Disney Junior Trick or Treats - From \"Disney Junior Music: Trick or Treats\"",
+      "url": "https://open.spotify.com/track/4y7dTEcqzOdEQ34jL2ZT3p"
+    },
+    {
+      "album": {
+        "name": "Evil (From \"Descendants: Wicked World\")",
+        "url": "https://open.spotify.com/album/7slol9JmBa9l1qIenr4Kmg"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173349,
+      "name": "Evil - From \"Descendants: Wicked World\"",
+      "url": "https://open.spotify.com/track/3nTKwGHyLEqTirEft8iLnf"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212143,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/4f6rhvJnkH35dl2nRzx1FV"
+    },
+    {
+      "album": {
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
+      },
+      "artists": [
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Friends on the Other Side",
+      "url": "https://open.spotify.com/track/14mNTV7rsvzkVfBmRepX1X"
+    },
+    {
+      "album": {
+        "name": "Frankenweenie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Game of Death - From \"Frankenweenie\"/Score",
+      "url": "https://open.spotify.com/track/6SCuftUwyxKG7OwfzHX5WO"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus (Original Score)",
+        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Garden of Magic/Thackery Follows Emily",
+      "url": "https://open.spotify.com/track/1m6XbPwAU6sPUpMHcjSZJL"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Richard White",
+          "url": "https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G"
+        },
+        {
+          "name": "Jesse Corti",
+          "url": "https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Gaston",
+      "url": "https://open.spotify.com/track/494qL09gtrLyndmhLg4yYX"
+    },
+    {
+      "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "Music Box - Haunted Mansion",
+          "url": "https://open.spotify.com/artist/3bEfY72ayIXr3hSQnrTRpJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Ghostly Music Box",
+      "url": "https://open.spotify.com/track/3niMSmtgEHq56eUJEwpMmM"
+    },
+    {
+      "album": {
+        "name": "Descendants 3 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        },
+        {
+          "name": "Anna Cathcart",
+          "url": "https://open.spotify.com/artist/0QFetakbVZD86mLaPGJy9Z"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189868,
+      "name": "Good to Be Bad",
+      "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
+    },
+    {
+      "album": {
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92146,
+      "name": "Grim Grinning Ghosts (Dance Party)",
+      "url": "https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ"
+    },
+    {
+      "album": {
+        "name": "A Musical Tour: Treasures of the Walt Disney Archives at The Reagan Library",
+        "url": "https://open.spotify.com/album/0GHAq8ItjkL8xRGf9bM7s9"
+      },
+      "artists": [
+        {
+          "name": "The Melomen",
+          "url": "https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB"
+        },
+        {
+          "name": "Paul Frees",
+          "url": "https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk"
+        },
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1"
+        },
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL"
+        },
+        {
+          "name": "Thurl Ravenscroft",
+          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333093,
+      "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
+      "url": "https://open.spotify.com/track/6BGIYRM9XSFgbQrBtsxuQa"
+    },
+    {
+      "album": {
+        "name": "Guardians of the Galaxy Monsters After Dark",
+        "url": "https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Guardians of the Galaxy Monsters After Dark",
+      "url": "https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2"
+    },
+    {
+      "album": {
+        "name": "Halloween Dance Party",
+        "url": "https://open.spotify.com/album/7DkBboIbHq3tZHYzcrcbjj"
+      },
+      "artists": [
+        {
+          "name": "Halloween Dance Party",
+          "url": "https://open.spotify.com/artist/6Pa5h9zlhe0wliI43yELGl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112882,
+      "name": "Halloween Dance Party",
+      "url": "https://open.spotify.com/track/1546dG78My4z98gAks35wg"
+    },
+    {
+      "album": {
+        "name": "Halloweentown (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5lByeXRWMm2Bdn4MmoEsXe"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Halloweentown Theme",
+      "url": "https://open.spotify.com/track/6Afp1wDgGBQ4o5tNjvExpv"
+    },
+    {
+      "album": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90426,
+      "name": "He's a Pirate",
+      "url": "https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54440,
+      "name": "Healing Incantation - From \"Tangled\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/75VVIB2x1h6BfxD2PqOO57"
+    },
+    {
+      "album": {
+        "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
+      },
+      "artists": [
+        {
+          "name": "Tony Jay",
+          "url": "https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD"
+        },
+        {
+          "name": "Tom Hulce",
+          "url": "https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD"
+        },
+        {
+          "name": "Chorus - The Hunchback Of Notre Dame",
+          "url": "https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323613,
+      "name": "Heaven's Light/Hellfire",
+      "url": "https://open.spotify.com/track/4rp9YObc6Q5xc6X1S8c7m9"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs & Sounds",
+        "url": "https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "Heffalumps and Woozles",
+      "url": "https://open.spotify.com/track/3XxkvIoQdscyN4G7sOqbeF"
+    },
+    {
+      "album": {
+        "name": "Luke Cage: Season 2",
+        "url": "https://open.spotify.com/album/1Y1xgrYHw2lcDqWStVl6rK"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284501,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/0G5zekG6CBSUMVRr5O5DZ6"
+    },
+    {
+      "album": {
+        "name": "Into the Night (A Hocus Pocus Collection)",
+        "url": "https://open.spotify.com/album/5UiFmg5GmenQxBRs18tTPV"
+      },
+      "artists": [
+        {
+          "name": "PattyCake",
+          "url": "https://open.spotify.com/artist/2iRYmjSAXUcCksbW8e9UKT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 122045,
+      "name": "I Put a Spell on You (In the Style of Hocus Pocus)",
+      "url": "https://open.spotify.com/track/5U43AFyp6GyXm58h4uVt2L"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Tigger",
+          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72426,
+      "name": "I Wanna Scare Myself",
+      "url": "https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "album": {
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/7l8IONINqjkW00eRK9ZTXl"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174949,
+      "name": "J\u00e1lale - Instrumental",
+      "url": "https://open.spotify.com/track/3867GnEX4Jd10J0pNNfwpH"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head on Halloween",
+        "url": "https://open.spotify.com/album/4eY2YAh8FzsGzd3VarNaNr"
+      },
+      "artists": [
+        {
+          "name": "Cast - Descendants",
+          "url": "https://open.spotify.com/artist/6iOvIzJzeDKmXWrUlchtKz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108117,
+      "name": "Keep Your Head on Halloween",
+      "url": "https://open.spotify.com/track/6SxZk5YG7OMGJlQxo6APg8"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Paul Reubens",
+          "url": "https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP"
+        },
+        {
+          "name": "Catherine O'Hara",
+          "url": "https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Kidnap The Sandy Claws",
+      "url": "https://open.spotify.com/track/06iUp1XbbaOvAmzrrZeT32"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        },
+        {
+          "name": "Will Arnett",
+          "url": "https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217210,
+      "name": "Life Hereafter",
+      "url": "https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123411,
+      "name": "Like the Zombies Do",
+      "url": "https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj"
+    },
+    {
+      "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Loki Green Theme",
+      "url": "https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus (Original Score)",
+        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91360,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM"
+    },
+    {
+      "album": {
+        "name": "Only Murders in the Building (Original Score)",
+        "url": "https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51500,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Halloween Party",
+        "url": "https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R"
+      },
+      "artists": [
+        {
+          "name": "Cast - Mickey Mouse Clubhouse",
+          "url": "https://open.spotify.com/artist/6HXWrbOvWkN7XkbsNPAoV3"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 78581,
+      "name": "Monster Boogie - From \"Mickey Mouse Clubhouse\"",
+      "url": "https://open.spotify.com/track/1raHLnDJ491mN0myOMD2CR"
+    },
+    {
+      "album": {
+        "name": "Mickey's Monster Bash",
+        "url": "https://open.spotify.com/album/0dcoxFgMPKe0WWgmoBLGaG"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/2LbLm24zFdRqFqRNhorfOO"
+    },
+    {
+      "album": {
+        "name": "Monsterman (From \"Big City Greens\")",
+        "url": "https://open.spotify.com/album/1bnfwekIZAUDdsxhg8DjZc"
+      },
+      "artists": [
+        {
+          "name": "Big City Greens",
+          "url": "https://open.spotify.com/artist/4RwtL4p6cViBS9Qk8TiYsu"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193521,
+      "name": "Monsterman - From \"Big City Greens\"",
+      "url": "https://open.spotify.com/track/31dpAdc42HoX5h9w3UuqWc"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES: Addison's Moonstone Mystery",
+        "url": "https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200886,
+      "name": "More Than a Mystery",
+      "url": "https://open.spotify.com/track/2PzmEjCvjYSuGePnch0Yue"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Donna Murphy",
+          "url": "https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98320,
+      "name": "Mother Knows Best (Reprise) - From \"Tangled\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1nrXPF5szKZhHr0iANiPcS"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Donna Murphy",
+          "url": "https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Mother Knows Best - From \"Tangled\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb: Rockin' and Rollin'",
+        "url": "https://open.spotify.com/album/2NlTgt3Btt2QZlolG41J1j"
+      },
+      "artists": [
+        {
+          "name": "Danny Jacob",
+          "url": "https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84626,
+      "name": "My Evil Buddies and Me",
+      "url": "https://open.spotify.com/track/5ujiiDDR3mBEFmS4Ztf3PA"
+    },
+    {
+      "album": {
+        "name": "My Kind of Monster (From \"Under Wraps 2\")",
+        "url": "https://open.spotify.com/album/0N1bvCohphMqymhEulIRic"
+      },
+      "artists": [
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "Christian J Simon",
+          "url": "https://open.spotify.com/artist/70LSoaix7XNY9avQhubMZO"
+        },
+        {
+          "name": "Sophia Hammons",
+          "url": "https://open.spotify.com/artist/4QJfrqcHIzoFwiP90qmWvF"
+        },
+        {
+          "name": "Under Wraps 2 - Cast",
+          "url": "https://open.spotify.com/artist/7tAKbZwXOesm4BBjLc7dLe"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159485,
+      "name": "My Kind of Monster - From \"Under Wraps 2\"",
+      "url": "https://open.spotify.com/track/0nLDu7ifW9COai1r1sDToe"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb",
+        "url": "https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1"
+      },
+      "artists": [
+        {
+          "name": "Danny Jacob",
+          "url": "https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65960,
+      "name": "My Undead Mummy and Me",
+      "url": "https://open.spotify.com/track/319WGFcwDFpkZZispUwROD"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "My Year",
+      "url": "https://open.spotify.com/track/77NgPW9Bt7QPU69YsYpiKV"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203080,
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+          "name": "Sarah Jessica Parker",
+          "url": "https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH"
+        },
+        {
+          "name": "Kathy Najimy",
+          "url": "https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147386,
+      "name": "One Way or Another (Hocus Pocus 2 Version)",
+      "url": "https://open.spotify.com/track/3jGAUGvmWbPe2LPc8Hon1c"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Ed Ivory",
+          "url": "https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw"
+        },
+        {
+          "name": "Ken Page",
+          "url": "https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Oogie Boogie's Song",
+      "url": "https://open.spotify.com/track/1TctVlWvNpmKGHMuPqJ5G2"
+    },
+    {
+      "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "Gaylord Carter",
+          "url": "https://open.spotify.com/artist/568DtIl4SMK3mlvuDrPARS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598493,
+      "name": "Otherworldly Concerto",
+      "url": "https://open.spotify.com/track/05Xh7W3htzgO7daFhIO8sH"
+    },
+    {
+      "album": {
+        "name": "Disney Villains: Simply Sinister Songs",
+        "url": "https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269546,
+      "name": "Pink Elephants on Parade - From \"Dumbo\"",
+      "url": "https://open.spotify.com/track/4VXfGkt8chTWI01u1T0gOP"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Melissa McCarthy",
+          "url": "https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282013,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe"
+    },
+    {
+      "album": {
+        "name": "Disney Villains: Simply Sinister Songs",
+        "url": "https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290466,
+      "name": "Poor Unfortunate Souls - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/3S1aOljXlP40mPHJc2ABGv"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Freeman",
+          "url": "https://open.spotify.com/artist/2970T0VJFpIWMA2aZi6Lpi"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67653,
+      "name": "Prince Ali (Reprise)",
+      "url": "https://open.spotify.com/track/5BEItY9of9nR4zj51JO0jU"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112647,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/3KH9W2vmr8uap6KTBDEFUO"
+    },
+    {
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Rotten to the Core",
+      "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Catherine O'Hara",
+          "url": "https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107666,
+      "name": "Sally's Song",
+      "url": "https://open.spotify.com/track/0Zj3Ihs4nn3G3xZ2LKLEbP"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus (Original Score)",
+        "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "Sarah's Theme",
+      "url": "https://open.spotify.com/track/1GXanhGsA0ExXCPmaLlbdY"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs & Sounds",
+        "url": "https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo"
+      },
+      "artists": [
+        {
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162280,
+      "name": "Shake Your Bones",
+      "url": "https://open.spotify.com/track/3JK1TFuy5wVNLVI4aO0K7v"
+    },
+    {
+      "album": {
+        "name": "Shrimpy in the House (From \"ZOMBIES: Addison's Monster Mystery\")",
+        "url": "https://open.spotify.com/album/6xxc5HicmkmXUfQQMcybhQ"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145613,
+      "name": "Shrimpy in the House - From \"ZOMBIES: Addison's Monster Mystery\"",
+      "url": "https://open.spotify.com/track/6OLWoRF3H3DHBNC678u8Cc"
+    },
+    {
+      "album": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203986,
+      "name": "Skull And Crossbones",
+      "url": "https://open.spotify.com/track/0QiHMdOI4BZ4D9Lc6kczNl"
+    },
+    {
+      "album": {
+        "name": "Disney Villains: Simply Sinister Songs",
+        "url": "https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Snuff Out the Light (Yzma's Song) - From \"The Emperor's New Groove\"",
+      "url": "https://open.spotify.com/track/7pJe253H3qkzBql4xCJuLE"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 95981,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1uAl1ygEbZfWvHMW90t0dW"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Doyle",
+          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
+        },
+        {
+          "name": "Billy Connolly",
+          "url": "https://open.spotify.com/artist/7ubX7CBZbkPM3O1m2WBBd8"
+        },
+        {
+          "name": "Alex Norton",
+          "url": "https://open.spotify.com/artist/2b9MlNoA12XMIj7wfBX17U"
+        },
+        {
+          "name": "Carey Wilson",
+          "url": "https://open.spotify.com/artist/3yH2nOnPWWhNiy87z7aIBb"
+        },
+        {
+          "name": "Scott Davies",
+          "url": "https://open.spotify.com/artist/5jobbHDw0XMVOKMlvJYXco"
+        },
+        {
+          "name": "Gordon Neville",
+          "url": "https://open.spotify.com/artist/0lf11SWBHFcyIlivj9asbC"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137853,
+      "name": "Song Of Mor'du - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/3AVQq5hpwkuJxAzM3g34hz"
+    },
+    {
+      "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "Xavier Atencio",
+          "url": "https://open.spotify.com/artist/6eajFXBUnFh0Z5udAWYnw4"
+        },
+        {
+          "name": "Buddy Baker",
+          "url": "https://open.spotify.com/artist/4yUAT1Do55lGQQh8VQOHKf"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61960,
+      "name": "Swinging Wake",
+      "url": "https://open.spotify.com/track/23A1NASqXQ8shwyuzsA1iN"
+    },
+    {
+      "album": {
+        "name": "LEGO Star Wars: Terrifying Tales (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1hs3FJ3Zp0pk90Zqs1gCcY"
+      },
+      "artists": [
+        {
+          "name": "Michael Kramer",
+          "url": "https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52920,
+      "name": "Tales of Terror",
+      "url": "https://open.spotify.com/track/1XhSdlXygbgLpxgbKsvJW1"
+    },
+    {
+      "album": {
+        "name": "The Hunchback Of Notre Dame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq"
+      },
+      "artists": [
+        {
+          "name": "Paul Kandel",
+          "url": "https://open.spotify.com/artist/6M3XR163Q68THc9IFMwfAH"
+        },
+        {
+          "name": "Chorus - The Hunchback Of Notre Dame",
+          "url": "https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87506,
+      "name": "The Court of Miracles",
+      "url": "https://open.spotify.com/track/5iI1EQlyyo8FzkdT7XnTd7"
+    },
+    {
+      "album": {
+        "name": "Music from The Ghost and Molly McGee",
+        "url": "https://open.spotify.com/album/1tZ5jUMyeGoGOKnwNBQ2IZ"
+      },
+      "artists": [
+        {
+          "name": "Ashly Burch",
+          "url": "https://open.spotify.com/artist/6Rnek08WzeMKP716cQ1kS2"
+        },
+        {
+          "name": "Dana Snyder",
+          "url": "https://open.spotify.com/artist/40Y2i2VQDROPEshfbqJYqL"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39738,
+      "name": "The Ghost and Molly McGee Main Title Theme",
+      "url": "https://open.spotify.com/track/1MktOODpud9E9ecKoss5qy"
+    },
+    {
+      "album": {
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202424,
+      "name": "The Ghost Realm",
+      "url": "https://open.spotify.com/track/3lJ30qQrSBfE1qqRSc17uw"
+    },
+    {
+      "album": {
+        "name": "Haunted Mansion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281452,
+      "name": "The Mansion",
+      "url": "https://open.spotify.com/track/3PumK0MODQqUD0NjXpi78k"
+    },
+    {
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Richard White",
+          "url": "https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "The Mob Song",
+      "url": "https://open.spotify.com/track/7fg6upKiVZURSDxVLqY9oU"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas Medley",
+        "url": "https://open.spotify.com/album/431nyvLvgL7izW9XQHQcTF"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "The Nightmare Before Christmas Medley",
+      "url": "https://open.spotify.com/track/6v0TPuaVg0qHP9qdtYFup4"
+    },
+    {
+      "album": {
+        "name": "Toy Story of Terror!",
+        "url": "https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44893,
+      "name": "The Suspension Is Killing Me",
+      "url": "https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4"
+    },
+    {
+      "album": {
+        "name": "Walt Disney World Official Album",
+        "url": "https://open.spotify.com/album/6lMJcDBuF11ofh3RcY5JIC"
+      },
+      "artists": [
+        {
+          "name": "Richard Bellis",
+          "url": "https://open.spotify.com/artist/2AvjWonQaWlRkaolk2NCxe"
+        },
+        {
+          "name": "Marious Constant",
+          "url": "https://open.spotify.com/artist/3n9cVWs0spyjg2feaCScV7"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102053,
+      "name": "The Twilight Zone Tower of Terror Theme - From \"The Twilight Zone Tower of Terror\"",
+      "url": "https://open.spotify.com/track/69nE1ldzcv0vcF2m1t4ys2"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142866,
+      "name": "The Werewolf Song",
+      "url": "https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4"
+    },
+    {
+      "album": {
+        "name": "Hocus Pocus 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        },
+        {
+          "name": "Sarah Jessica Parker",
+          "url": "https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH"
+        },
+        {
+          "name": "Kathy Najimy",
+          "url": "https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104339,
+      "name": "The Witches Are Back",
+      "url": "https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        },
+        {
+          "name": "Antonio Sol",
+          "url": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50765,
+      "name": "The World Es Mi Familia",
+      "url": "https://open.spotify.com/track/7FOS31xq9jv4cXWtp6Jnzw"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "This Is The Thanks I Get?! (From \"Wish\")",
+        "url": "https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL"
+      },
+      "artists": [
+        {
+          "name": "Chris Pine",
+          "url": "https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "This Is The Thanks I Get?! - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "Taraji P. Henson",
+          "url": "https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio"
+        },
+        {
+          "name": "Pep\u00e9 the King Prawn",
+          "url": "https://open.spotify.com/artist/1iMTLjdRyIo58maQgO0F1a"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103254,
+      "name": "Tie the Knot Tango",
+      "url": "https://open.spotify.com/track/23c50sgUoawToa6LvPmWuO"
+    },
+    {
+      "album": {
+        "name": "The Jungle Book (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Trust in Me",
+      "url": "https://open.spotify.com/track/6UtpOAQMPOYVDHBhj0o0CF"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gonzalez",
+          "url": "https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv"
+        },
+        {
+          "name": "Gael Garcia Bernal",
+          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112205,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63586,
+      "name": "Vanessa's Trick",
+      "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
+    },
+    {
+      "album": {
+        "name": "Descendants 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218005,
+      "name": "Ways to Be Wicked",
+      "url": "https://open.spotify.com/track/2ziVTVizQdVNC2QhQhNGvg"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs"
+      },
+      "artists": [
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Pearce Joza",
+          "url": "https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt"
+        },
+        {
+          "name": "Baby Ariel",
+          "url": "https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150792,
+      "name": "We Own the Night",
+      "url": "https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2"
+    },
+    {
+      "album": {
+        "name": "Aladdin and the King of Thieves",
+        "url": "https://open.spotify.com/album/62EL4ZfXVeQJuxQ6fUIu7A"
+      },
+      "artists": [
+        {
+          "name": "Chorus - Aladdin And The King Of Thieves",
+          "url": "https://open.spotify.com/artist/3RCg2I3QQqOinllMoXWYHx"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110173,
+      "name": "Welcome To The Forty Thieves - From \"The Return of Jafar\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/4fWMjJzPmLGkmoMVF7nqcQ"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Which Witch Is Which?",
+      "url": "https://open.spotify.com/track/0z35rHwhneq2HGJy3GtoH7"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Yo, Ho! (A Pirate's Life For Me) - From \"Pirates of the Caribbean\"",
+      "url": "https://open.spotify.com/track/2oj1WfUGiBa8eCyMx5D3I5"
+    },
+    {
+      "album": {
+        "name": "Disney Villains: Simply Sinister Songs",
+        "url": "https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Freeman",
+          "url": "https://open.spotify.com/artist/2970T0VJFpIWMA2aZi6Lpi"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123306,
+      "name": "You're Only Second Rate - From \"The Return of Jafar\"",
+      "url": "https://open.spotify.com/track/0RVyWZc7pF0Lp6y651xYmc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYa1w6FMMTnG"
 }

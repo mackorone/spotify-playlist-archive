@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 473 likes - 49 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 9 | [911](https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [911](https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq) | 3:56 |
 | 10 | [Purificados](https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Purificados](https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs) | 5:39 |
 | 11 | [Recomeçar](https://open.spotify.com/track/4khL1wI2vAJsI76YYT9AtG) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:58 |
-| 12 | [Pessoa Certa](https://open.spotify.com/track/3WeDX4xrTjr22Rua1f94A9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Pessoa Certa](https://open.spotify.com/album/11P5Ts5KJTKuUJB2KHSvY6) | 3:08 |
-| 13 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
+| 12 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
+| 13 | [Pessoa Certa](https://open.spotify.com/track/3WeDX4xrTjr22Rua1f94A9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Pessoa Certa](https://open.spotify.com/album/11P5Ts5KJTKuUJB2KHSvY6) | 3:08 |
 | 14 | [Extravagante Adoración](https://open.spotify.com/track/1HuHdHmg3jep3qe6OblEUN) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:53 |
 | 15 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 |
 | 16 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 34 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
 | 35 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
 | 36 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
-| 37 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
-| 38 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
-| 39 | [Mercenárias](https://open.spotify.com/track/3uRuB1nkOD1wgMko3MZi2D) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s) | [Mercenárias](https://open.spotify.com/album/0iA8avL6J85MjDCRGgprox) | 2:39 |
-| 40 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
-| 41 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
+| 37 | [Mercenárias](https://open.spotify.com/track/3uRuB1nkOD1wgMko3MZi2D) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s) | [Mercenárias](https://open.spotify.com/album/0iA8avL6J85MjDCRGgprox) | 2:39 |
+| 38 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
+| 39 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
+| 40 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
+| 41 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
 | 42 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
 | 43 | [Pájaro de Acero](https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:29 |
 | 44 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 48 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 49 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDAzNzJhNzBhYWY4ZWEyMzhiYzI3MzY2ZmVlYWNhNzg4Nw==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDBiNGEyNTNmYjAwOGNhMTBhOTFhODg5MDFmMDBjZDRmYg==`

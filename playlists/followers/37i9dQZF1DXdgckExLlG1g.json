@@ -1,669 +1,1819 @@
 {
-  "2022-03-01": 260591,
-  "2022-03-02": 260831,
-  "2022-03-03": 261073,
-  "2022-03-04": 261352,
-  "2022-03-05": 261558,
-  "2022-03-06": 261782,
-  "2022-03-07": 262113,
-  "2022-03-08": 262388,
-  "2022-03-09": 262671,
-  "2022-03-10": 262954,
-  "2022-03-11": 263238,
-  "2022-03-12": 263468,
-  "2022-03-13": 263726,
-  "2022-03-14": 263998,
-  "2022-03-15": 264235,
-  "2022-03-16": 264475,
-  "2022-03-17": 264744,
-  "2022-03-18": 265097,
-  "2022-03-19": 265252,
-  "2022-03-20": 265252,
-  "2022-03-21": 265797,
-  "2022-03-22": 266014,
-  "2022-03-23": 266255,
-  "2022-03-24": 266519,
-  "2022-03-25": 266734,
-  "2022-03-26": 266988,
-  "2022-03-27": 267199,
-  "2022-03-28": 267473,
-  "2022-03-30": 267955,
-  "2022-03-31": 268218,
-  "2022-04-01": 268466,
-  "2022-04-02": 268724,
-  "2022-04-03": 268969,
-  "2022-04-04": 269221,
-  "2022-04-05": 269489,
-  "2022-04-06": 269734,
-  "2022-04-07": 269988,
-  "2022-04-08": 270223,
-  "2022-04-09": 270492,
-  "2022-04-10": 270973,
-  "2022-04-11": 271252,
-  "2022-04-12": 271309,
-  "2022-04-13": 271511,
-  "2022-04-14": 271775,
-  "2022-04-15": 272045,
-  "2022-04-16": 272408,
-  "2022-04-17": 272759,
-  "2022-04-18": 273271,
-  "2022-04-19": 273549,
-  "2022-04-20": 273911,
-  "2022-04-21": 274229,
-  "2022-04-22": 274557,
-  "2022-04-23": 274830,
-  "2022-04-24": 275112,
-  "2022-04-25": 275411,
-  "2022-04-26": 275757,
-  "2022-04-27": 276166,
-  "2022-04-28": 276466,
-  "2022-04-29": 276897,
-  "2022-04-30": 277165,
-  "2022-05-01": 277542,
-  "2022-05-02": 277542,
-  "2022-05-03": 277814,
-  "2022-05-04": 278049,
-  "2022-05-05": 278263,
-  "2022-05-06": 278500,
-  "2022-05-07": 278746,
-  "2022-05-08": 279075,
-  "2022-05-09": 279132,
-  "2022-05-10": 279326,
-  "2022-05-11": 279522,
-  "2022-05-12": 279728,
-  "2022-05-13": 279959,
-  "2022-05-14": 280183,
-  "2022-05-15": 280390,
-  "2022-05-16": 280652,
-  "2022-05-17": 280872,
-  "2022-05-18": 281108,
-  "2022-05-19": 281327,
-  "2022-05-20": 281564,
-  "2022-05-21": 281922,
-  "2022-05-22": 281922,
-  "2022-05-23": 282109,
-  "2022-05-24": 282331,
-  "2022-05-25": 282502,
-  "2022-05-26": 282717,
-  "2022-05-27": 282906,
-  "2022-05-28": 283085,
-  "2022-05-29": 283256,
-  "2022-05-30": 283463,
-  "2022-05-31": 283647,
-  "2022-06-01": 284000,
-  "2022-06-02": 284034,
-  "2022-06-03": 284215,
-  "2022-06-04": 284394,
-  "2022-06-05": 284584,
-  "2022-06-06": 284809,
-  "2022-06-07": 284978,
-  "2022-06-08": 285223,
-  "2022-06-09": 285387,
-  "2022-06-10": 285599,
-  "2022-06-11": 285812,
-  "2022-06-12": 286009,
-  "2022-06-13": 286249,
-  "2022-06-14": 286463,
-  "2022-06-15": 286663,
-  "2022-06-16": 286852,
-  "2022-06-17": 287028,
-  "2022-06-18": 287249,
-  "2022-06-19": 287724,
-  "2022-06-20": 287724,
-  "2022-06-21": 287954,
-  "2022-06-22": 288342,
-  "2022-06-23": 288342,
-  "2022-06-24": 288546,
-  "2022-06-25": 288743,
-  "2022-06-26": 288941,
-  "2022-06-27": 289159,
-  "2022-06-28": 289326,
-  "2022-06-29": 289556,
-  "2022-06-30": 289768,
-  "2022-07-01": 289971,
-  "2022-07-02": 290173,
-  "2022-07-03": 290377,
-  "2022-07-04": 290599,
-  "2022-07-05": 290765,
-  "2022-07-06": 290945,
-  "2022-07-07": 291135,
-  "2022-07-08": 291362,
-  "2022-07-09": 291507,
-  "2022-07-10": 291716,
-  "2022-07-11": 291945,
-  "2022-07-12": 292155,
-  "2022-07-13": 292390,
-  "2022-07-14": 292595,
-  "2022-07-15": 292807,
-  "2022-07-16": 293046,
-  "2022-07-17": 293264,
-  "2022-07-18": 293541,
-  "2022-07-19": 293771,
-  "2022-07-20": 293999,
-  "2022-07-21": 294185,
-  "2022-07-22": 294392,
-  "2022-07-23": 294619,
-  "2022-07-24": 294857,
-  "2022-07-25": 295118,
-  "2022-07-26": 295345,
-  "2022-07-27": 295591,
-  "2022-07-28": 295817,
-  "2022-07-29": 296078,
-  "2022-07-30": 296543,
-  "2022-07-31": 296543,
-  "2022-08-01": 296855,
-  "2022-08-02": 297413,
-  "2022-08-03": 297413,
-  "2022-08-04": 297608,
-  "2022-08-05": 297841,
-  "2022-08-06": 298108,
-  "2022-08-07": 298349,
-  "2022-08-08": 298656,
-  "2022-08-09": 298943,
-  "2022-08-10": 299180,
-  "2022-08-11": 299454,
-  "2022-08-12": 299674,
-  "2022-08-13": 299917,
-  "2022-08-14": 300192,
-  "2022-08-15": 300502,
-  "2022-08-16": 300808,
-  "2022-08-17": 301108,
-  "2022-08-18": 301366,
-  "2022-08-19": 301602,
-  "2022-08-20": 301841,
-  "2022-08-21": 302082,
-  "2022-08-22": 302372,
-  "2022-08-23": 302604,
-  "2022-08-24": 302858,
-  "2022-08-25": 303108,
-  "2022-08-26": 303344,
-  "2022-08-27": 303570,
-  "2022-08-28": 303846,
-  "2022-08-29": 304147,
-  "2022-08-30": 304383,
-  "2022-08-31": 304598,
-  "2022-09-01": 304839,
-  "2022-09-02": 305107,
-  "2022-09-03": 305341,
-  "2022-09-04": 305555,
-  "2022-09-05": 305885,
-  "2022-09-06": 306098,
-  "2022-09-07": 306316,
-  "2022-09-09": 306773,
-  "2022-09-10": 307006,
-  "2022-09-11": 307223,
-  "2022-09-12": 307509,
-  "2022-09-13": 307751,
-  "2022-09-15": 308211,
-  "2022-09-16": 308437,
-  "2022-09-17": 308658,
-  "2022-09-18": 308851,
-  "2022-09-19": 309132,
-  "2022-09-20": 309336,
-  "2022-09-21": 309536,
-  "2022-09-22": 309738,
-  "2022-09-23": 309971,
-  "2022-09-24": 310187,
-  "2022-09-25": 310415,
-  "2022-09-26": 310675,
-  "2022-09-27": 310924,
-  "2022-09-28": 311208,
-  "2022-09-29": 311410,
-  "2022-09-30": 311622,
-  "2022-10-01": 311870,
-  "2022-10-02": 312080,
-  "2022-10-03": 312337,
-  "2022-10-04": 312613,
-  "2022-10-05": 312856,
-  "2022-10-06": 313076,
-  "2022-10-07": 313307,
-  "2022-10-08": 313520,
-  "2022-10-09": 313979,
-  "2022-10-10": 314039,
-  "2022-10-11": 314290,
-  "2022-10-12": 314497,
-  "2022-10-13": 314744,
-  "2022-10-14": 314989,
-  "2022-10-15": 315239,
-  "2022-10-16": 315514,
-  "2022-10-17": 315805,
-  "2022-10-18": 316027,
-  "2022-10-19": 316231,
-  "2022-10-20": 316489,
-  "2022-10-21": 316739,
-  "2022-10-22": 316957,
-  "2022-10-23": 317164,
-  "2022-10-24": 317476,
-  "2022-10-25": 317753,
-  "2022-10-26": 317997,
-  "2022-10-27": 318214,
-  "2022-10-28": 318452,
-  "2022-10-29": 318709,
-  "2022-10-30": 318932,
-  "2022-10-31": 319195,
-  "2022-11-01": 319429,
-  "2022-11-02": 319689,
-  "2022-11-03": 319931,
-  "2022-11-04": 320190,
-  "2022-11-05": 320444,
-  "2022-11-06": 320695,
-  "2022-11-07": 321065,
-  "2022-11-08": 321358,
-  "2022-11-09": 321667,
-  "2022-11-10": 321925,
-  "2022-11-11": 322198,
-  "2022-11-12": 322488,
-  "2022-11-13": 322677,
-  "2022-11-14": 323000,
-  "2022-11-15": 323303,
-  "2022-11-16": 323575,
-  "2022-11-17": 323821,
-  "2022-11-18": 323936,
-  "2022-11-19": 323988,
-  "2022-11-20": 324186,
-  "2022-11-21": 324406,
-  "2022-11-22": 324660,
-  "2022-11-23": 324922,
-  "2022-11-24": 325355,
-  "2022-11-25": 325713,
-  "2022-11-26": 325957,
-  "2022-11-27": 326183,
-  "2022-11-28": 326511,
-  "2022-11-29": 326812,
-  "2022-11-30": 327147,
-  "2022-12-01": 327473,
-  "2022-12-02": 327666,
-  "2022-12-03": 328045,
-  "2022-12-04": 328322,
-  "2022-12-05": 328589,
-  "2022-12-06": 328844,
-  "2022-12-07": 329112,
-  "2022-12-08": 329385,
-  "2022-12-09": 329664,
-  "2022-12-10": 329910,
-  "2022-12-11": 330212,
-  "2022-12-12": 330537,
-  "2022-12-13": 330831,
-  "2022-12-14": 331121,
-  "2022-12-15": 331408,
-  "2022-12-16": 331693,
-  "2022-12-17": 331999,
-  "2022-12-18": 332265,
-  "2022-12-19": 332572,
-  "2022-12-20": 333111,
-  "2022-12-21": 333111,
-  "2022-12-22": 333404,
-  "2022-12-24": 333877,
-  "2022-12-25": 334105,
-  "2022-12-26": 334323,
-  "2022-12-27": 334590,
-  "2022-12-28": 334906,
-  "2022-12-29": 335276,
-  "2022-12-30": 335630,
-  "2022-12-31": 335974,
-  "2023-01-01": 336259,
-  "2023-01-02": 336586,
-  "2023-01-03": 337038,
-  "2023-01-04": 337387,
-  "2023-01-05": 337772,
-  "2023-01-06": 338237,
-  "2023-01-07": 338805,
-  "2023-01-08": 338900,
-  "2023-01-09": 339316,
-  "2023-01-10": 339689,
-  "2023-01-11": 340076,
-  "2023-01-12": 340415,
-  "2023-01-13": 340759,
-  "2023-01-14": 341377,
-  "2023-01-15": 341444,
-  "2023-01-16": 341872,
-  "2023-01-17": 342275,
-  "2023-01-18": 342702,
-  "2023-01-19": 343078,
-  "2023-01-20": 343505,
-  "2023-01-21": 343931,
-  "2023-01-22": 344313,
-  "2023-01-23": 344760,
-  "2023-01-24": 345125,
-  "2023-01-25": 345475,
-  "2023-01-26": 345854,
-  "2023-01-27": 346226,
-  "2023-01-28": 346562,
-  "2023-01-29": 346890,
-  "2023-01-30": 347263,
-  "2023-01-31": 347263,
-  "2023-02-01": 347983,
-  "2023-02-02": 348283,
-  "2023-02-03": 348600,
-  "2023-02-04": 348951,
-  "2023-02-05": 349279,
-  "2023-02-06": 349669,
-  "2023-02-07": 350040,
-  "2023-02-08": 350778,
-  "2023-02-09": 350778,
-  "2023-02-10": 351100,
-  "2023-02-11": 351393,
-  "2023-02-12": 352002,
-  "2023-02-13": 352282,
-  "2023-02-14": 352282,
-  "2023-02-15": 352604,
-  "2023-02-16": 352951,
-  "2023-02-17": 353263,
-  "2023-02-18": 353978,
-  "2023-02-19": 354063,
-  "2023-02-20": 354338,
-  "2023-02-21": 354724,
-  "2023-02-22": 355093,
-  "2023-02-23": 355465,
-  "2023-02-24": 355823,
-  "2023-02-25": 356259,
-  "2023-02-26": 356470,
-  "2023-02-27": 357216,
-  "2023-02-28": 357216,
-  "2023-03-01": 357540,
-  "2023-03-02": 357858,
-  "2023-03-03": 358207,
-  "2023-03-04": 358511,
-  "2023-03-05": 359151,
-  "2023-03-06": 359151,
-  "2023-03-07": 359495,
-  "2023-03-08": 359763,
-  "2023-03-09": 360076,
-  "2023-03-10": 360336,
-  "2023-03-11": 360586,
-  "2023-03-12": 360817,
-  "2023-03-13": 361134,
-  "2023-03-14": 361423,
-  "2023-03-15": 361667,
-  "2023-03-16": 361941,
-  "2023-03-17": 361941,
-  "2023-03-18": 362474,
-  "2023-03-19": 362738,
-  "2023-03-20": 363035,
-  "2023-03-21": 363337,
-  "2023-03-22": 363625,
-  "2023-03-23": 363941,
-  "2023-03-24": 363941,
-  "2023-03-25": 364458,
-  "2023-03-26": 364727,
-  "2023-03-27": 365080,
-  "2023-03-28": 365403,
-  "2023-03-29": 365740,
-  "2023-03-30": 366303,
-  "2023-03-31": 366303,
-  "2023-04-01": 366561,
-  "2023-04-02": 366841,
-  "2023-04-03": 367177,
-  "2023-04-04": 367468,
-  "2023-04-05": 367754,
-  "2023-04-06": 368012,
-  "2023-04-07": 368298,
-  "2023-04-09": 368858,
-  "2023-04-10": 369261,
-  "2023-04-11": 369839,
-  "2023-04-12": 369839,
-  "2023-04-13": 370078,
-  "2023-04-14": 370321,
-  "2023-04-15": 370538,
-  "2023-04-16": 370750,
-  "2023-04-17": 371024,
-  "2023-04-18": 371270,
-  "2023-04-19": 371541,
-  "2023-04-20": 371792,
-  "2023-04-21": 372022,
-  "2023-04-22": 372241,
-  "2023-04-23": 372454,
-  "2023-04-24": 372701,
-  "2023-04-25": 372914,
-  "2023-04-26": 373155,
-  "2023-04-27": 373350,
-  "2023-04-28": 373579,
-  "2023-04-29": 373771,
-  "2023-04-30": 373984,
-  "2023-05-01": 374199,
-  "2023-05-02": 374444,
-  "2023-05-03": 374630,
-  "2023-05-04": 374823,
-  "2023-05-05": 375015,
-  "2023-05-06": 375197,
-  "2023-05-07": 375357,
-  "2023-05-08": 375540,
-  "2023-05-09": 375709,
-  "2023-05-10": 375855,
-  "2023-05-11": 376017,
-  "2023-05-12": 376221,
-  "2023-05-13": 376379,
-  "2023-05-14": 376554,
-  "2023-05-15": 376718,
-  "2023-05-16": 376857,
-  "2023-05-17": 377031,
-  "2023-05-18": 377218,
-  "2023-05-19": 377430,
-  "2023-05-20": 377748,
-  "2023-05-21": 377748,
-  "2023-05-22": 377748,
-  "2023-05-23": 378158,
-  "2023-05-24": 378469,
-  "2023-05-25": 378529,
-  "2023-05-26": 378710,
-  "2023-05-27": 378870,
-  "2023-05-28": 379039,
-  "2023-05-29": 379039,
-  "2023-05-30": 379401,
-  "2023-05-31": 379585,
-  "2023-06-01": 379784,
-  "2023-06-02": 379954,
-  "2023-06-03": 380139,
-  "2023-06-04": 380348,
-  "2023-06-05": 380562,
-  "2023-06-06": 380722,
-  "2023-06-07": 380911,
-  "2023-06-08": 381066,
-  "2023-06-09": 381218,
-  "2023-06-10": 381410,
-  "2023-06-11": 381604,
-  "2023-06-12": 381815,
-  "2023-06-13": 381950,
-  "2023-06-14": 382146,
-  "2023-06-15": 382334,
-  "2023-06-16": 382543,
-  "2023-06-17": 382699,
-  "2023-06-18": 382878,
-  "2023-06-19": 383099,
-  "2023-06-20": 383295,
-  "2023-06-21": 383473,
-  "2023-06-22": 383647,
-  "2023-06-23": 383846,
-  "2023-06-24": 384020,
-  "2023-06-25": 384248,
-  "2023-06-26": 384511,
-  "2023-06-27": 384765,
-  "2023-06-28": 384999,
-  "2023-06-29": 385203,
-  "2023-06-30": 385375,
-  "2023-07-01": 385799,
-  "2023-07-02": 385799,
-  "2023-07-03": 386049,
-  "2023-07-04": 386235,
-  "2023-07-05": 386423,
-  "2023-07-06": 386798,
-  "2023-07-07": 386798,
-  "2023-07-08": 386984,
-  "2023-07-09": 387206,
-  "2023-07-10": 387431,
-  "2023-07-11": 387599,
-  "2023-07-12": 387775,
-  "2023-07-13": 387992,
-  "2023-07-14": 388189,
-  "2023-07-15": 388332,
-  "2023-07-16": 388557,
-  "2023-07-17": 388779,
-  "2023-07-18": 388969,
-  "2023-07-19": 389184,
-  "2023-07-20": 389368,
-  "2023-07-21": 389540,
-  "2023-07-22": 389693,
-  "2023-07-23": 389848,
-  "2023-07-24": 390052,
-  "2023-07-25": 390270,
-  "2023-07-26": 390456,
-  "2023-07-27": 390617,
-  "2023-07-28": 390797,
-  "2023-07-29": 390989,
-  "2023-07-30": 391185,
-  "2023-07-31": 391383,
-  "2023-08-01": 391569,
-  "2023-08-02": 391696,
-  "2023-08-03": 391899,
-  "2023-08-04": 392048,
-  "2023-08-05": 392233,
-  "2023-08-06": 392648,
-  "2023-08-07": 392648,
-  "2023-08-08": 392823,
-  "2023-08-09": 393028,
-  "2023-08-10": 393191,
-  "2023-08-11": 393368,
-  "2023-08-12": 393511,
-  "2023-08-13": 393708,
-  "2023-08-14": 393913,
-  "2023-08-15": 394304,
-  "2023-08-16": 394304,
-  "2023-08-17": 394509,
-  "2023-08-18": 394693,
-  "2023-08-19": 394906,
-  "2023-08-20": 395094,
-  "2023-08-21": 395307,
-  "2023-08-22": 395506,
-  "2023-08-23": 395653,
-  "2023-08-24": 395840,
-  "2023-08-25": 396044,
-  "2023-08-26": 396231,
-  "2023-08-27": 396420,
-  "2023-08-28": 396617,
-  "2023-08-29": 396777,
-  "2023-08-30": 396931,
-  "2023-08-31": 397149,
-  "2023-09-01": 397492,
-  "2023-09-02": 397492,
-  "2023-09-03": 397644,
-  "2023-09-04": 397644,
-  "2023-09-05": 398010,
-  "2023-09-06": 398170,
-  "2023-09-07": 398170,
-  "2023-09-08": 398170,
-  "2023-09-09": 398676,
-  "2023-09-10": 398838,
-  "2023-09-11": 399039,
-  "2023-09-12": 399039,
-  "2023-09-13": 399390,
-  "2023-09-14": 399390,
-  "2023-09-15": 399713,
-  "2023-09-16": 399835,
-  "2023-09-17": 399835,
-  "2023-09-18": 399835,
-  "2023-09-19": 400314,
-  "2023-09-20": 400432,
-  "2023-09-21": 400596,
-  "2023-09-22": 400731,
-  "2023-09-23": 400731,
-  "2023-09-24": 400731,
-  "2023-09-25": 400731,
-  "2023-09-26": 401485,
-  "2023-09-27": 401485,
-  "2023-09-28": 401744,
-  "2023-09-29": 401876,
-  "2023-09-30": 401876,
-  "2023-10-01": 402120,
-  "2023-10-02": 402292,
-  "2023-10-03": 402423,
-  "2023-10-04": 402581,
-  "2023-10-05": 402727,
-  "2023-10-06": 402880,
-  "2023-10-07": 402880,
-  "2023-10-08": 403174,
-  "2023-10-09": 403174,
-  "2023-10-10": 403174,
-  "2023-10-11": 403575,
-  "2023-10-12": 403575,
-  "2023-10-13": 403741,
-  "2023-10-14": 403741,
-  "2023-10-15": 403741,
-  "2023-10-16": 403741,
-  "2023-10-17": 403741,
-  "2023-10-18": 403741,
-  "2023-10-19": 403741,
-  "2023-10-20": 403741,
-  "2023-10-21": 403741,
-  "2023-10-22": 403741,
-  "2023-10-23": 403741,
-  "2023-10-24": 403741,
-  "2023-10-25": 403741,
-  "2023-10-26": 403741,
-  "2023-10-27": 403741,
-  "2023-10-28": 403741,
-  "2023-10-29": 403741,
-  "2023-10-30": 403741,
-  "2023-10-31": 403741,
-  "2023-11-01": 403741,
-  "2023-11-02": 403741,
-  "2023-11-03": 403741,
-  "2023-11-04": 403741,
-  "2023-11-05": 403741,
-  "2023-11-06": 403741,
-  "2023-11-07": 403741,
-  "2023-11-08": 403741,
-  "2023-11-09": 403741,
-  "2023-11-10": 403741,
-  "2023-11-11": 408725,
-  "2023-11-12": 408725,
-  "2023-11-13": 408725,
-  "2023-11-14": 408725,
-  "2023-11-15": 408725,
-  "2023-11-16": 408725,
-  "2023-11-17": 409797,
-  "2023-11-18": 409797,
-  "2023-11-19": 409797,
-  "2023-11-20": 409797,
-  "2023-11-21": 409797,
-  "2023-11-22": 409797,
-  "2023-11-23": 409797,
-  "2023-11-24": 409797,
-  "2023-11-25": 409797,
-  "2023-11-26": 409797,
-  "2023-11-27": 409797,
-  "2023-11-28": 409797,
-  "2023-11-29": 409797,
-  "2023-11-30": 409797,
-  "2023-12-01": 409797,
-  "2023-12-02": 409797,
-  "2023-12-03": 409797,
-  "2023-12-04": 409797,
-  "2023-12-05": 409797,
-  "2023-12-06": 409797,
-  "2023-12-07": 409797,
-  "2023-12-08": 409797,
-  "2023-12-09": 409797,
-  "2023-12-10": 409797,
-  "2023-12-11": 409797,
-  "2023-12-12": 409797,
-  "2023-12-13": 409797,
-  "2023-12-14": 413925,
-  "2023-12-15": 414047,
-  "2023-12-16": 414194,
-  "2023-12-17": 414329,
-  "2023-12-18": 414495,
-  "2023-12-19": 414636,
-  "2023-12-20": 414779,
-  "2023-12-21": 414941,
-  "2023-12-22": 415059,
-  "2023-12-23": 415237,
-  "2023-12-24": 415386,
-  "2023-12-25": 415508,
-  "2023-12-26": 415613,
-  "2023-12-27": 415759,
-  "2023-12-30": 416273,
-  "2023-12-31": 416422,
-  "2024-01-01": 416614,
-  "2024-01-02": 416781,
-  "2024-01-03": 416974
+  "2024-01-17": 419485,
+  "date_first_scraped": "2022-03-01",
+  "description": "The top Christian songs worldwide!  Cover: Lauren Daigle",
+  "name": "Most Favored",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242139,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW"
+    },
+    {
+      "album": {
+        "name": "inhale (exhale)",
+        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245424,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
+    },
+    {
+      "album": {
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/4rqgmldtQPc2yPZWCrLyiw"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252257,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/0BzPKbK1FMlEdH7AxrLdgr"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393346,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265518,
+      "name": "Another In The Fire - Studio",
+      "url": "https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM"
+    },
+    {
+      "album": {
+        "name": "Banks",
+        "url": "https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240266,
+      "name": "Banks",
+      "url": "https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS"
+    },
+    {
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Banks",
+      "url": "https://open.spotify.com/track/6LFM1lnBcCIMDkU8oPYgmh"
+    },
+    {
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "Be The Moon (feat. Brett Young & Cassadee Pope)",
+      "url": "https://open.spotify.com/track/79r0T2eehj5l0baOIlqP2o"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp"
+    },
+    {
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Burn The Ships",
+      "url": "https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf"
+    },
+    {
+      "album": {
+        "name": "Coming In Hot",
+        "url": "https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200168,
+      "name": "Coming In Hot",
+      "url": "https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/0r4OA7mOtPjXsL48uVrgp8"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159317,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/0sMr52Vbn6WMkYLupCmO2h"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+    },
+    {
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200330,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
+    },
+    {
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
+    },
+    {
+      "album": {
+        "name": "Even If",
+        "url": "https://open.spotify.com/album/0pb4tvi4iY9YhmIkm5Ksuj"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/2xsyZz4FHtIdcloVcKkbxA"
+    },
+    {
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
+    },
+    {
+      "album": {
+        "name": "Faithful God",
+        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Faithful God",
+      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
+    },
+    {
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242401,
+      "name": "Famous For (I Believe)",
+      "url": "https://open.spotify.com/track/2RuUAwOz2vyArTaiMQUL7j"
+    },
+    {
+      "album": {
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
+    },
+    {
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515387,
+      "name": "God of Revival - Live",
+      "url": "https://open.spotify.com/track/6r0WuK50Lpu9u460x84oBn"
+    },
+    {
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
+    },
+    {
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "God Who Listens (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG"
+    },
+    {
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/5go3zDh6wyW7DPwO2lWtmL"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353546,
+      "name": "Good Grace - Live",
+      "url": "https://open.spotify.com/track/2pinjgWOCrGz7Yh7kJue1f"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "Goodness of God - Live",
+      "url": "https://open.spotify.com/track/1gj9poFl2mLKkguqWo5Y1i"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
+    },
+    {
+      "album": {
+        "name": "Survival (feat. Drew & Ellie Holcomb)",
+        "url": "https://open.spotify.com/album/7hIfZcLmbhRu27mSqiMFrd"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255173,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/6ZajZwXtBG9Rqu2MbKf5c0"
+    },
+    {
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255173,
+      "name": "Hang On",
+      "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
+    },
+    {
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
+    },
+    {
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
+    },
+    {
+      "album": {
+        "name": "iWorship, Vol. 1",
+        "url": "https://open.spotify.com/album/6Cdm3M9J318HM3ZTM2E1Kx"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243040,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/4PTqqwy5shDPCIdPKpax3x"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP"
+    },
+    {
+      "album": {
+        "name": "I Can Only Imagine - The Very Best of MercyMe",
+        "url": "https://open.spotify.com/album/06oTN69pu4OtSRnXXEBLXE"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250760,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/53OKPG6LfNfvQeXWcxT7Wk"
+    },
+    {
+      "album": {
+        "name": "I'll Find You (feat. Tori Kelly)",
+        "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218213,
+      "name": "I'll Find You (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
+    },
+    {
+      "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299365,
+      "name": "King of My Heart (Live)",
+      "url": "https://open.spotify.com/track/7mj5fT0Biju5jR41m9ghUl"
+    },
+    {
+      "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299365,
+      "name": "King of My Heart - Live",
+      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+    },
+    {
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198140,
+      "name": "Known",
+      "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/5JyMSfr2tpXwZ7v4UyJRyn"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190855,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/3cvy5GqiSoyTtPuJhByJF9"
+    },
+    {
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+    },
+    {
+      "album": {
+        "name": "Lord Send Revival (Live)",
+        "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402052,
+      "name": "Lord Send Revival - Live",
+      "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "album": {
+        "name": "Nothing Else",
+        "url": "https://open.spotify.com/album/6pIjJ3b7cOAHxUidfQPuro"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393187,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/24gP93dLFid1OYfM1mKmyp"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "album": {
+        "name": "Maverick City Vol. 3 Part 1",
+        "url": "https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 646239,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm"
+    },
+    {
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+    },
+    {
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
+    },
+    {
+      "album": {
+        "name": "Maverick City Vol. 2",
+        "url": "https://open.spotify.com/album/0BNefSTndWBl2P1iAc6lYu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 732553,
+      "name": "Refiner",
+      "url": "https://open.spotify.com/track/0bHcGi6iafYk4TUrqvDYya"
+    },
+    {
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/4REjt7lMlaIIWTsmOwz8Rq"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Run To The Father",
+      "url": "https://open.spotify.com/track/1uSGO8Ydq3Kc3B5JYLno8j"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+    },
+    {
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/0wtFB7vmIRecZhXQbDQ9Z1"
+    },
+    {
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Sing (feat. Russell Dickerson, Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+    },
+    {
+      "album": {
+        "name": "Springtime",
+        "url": "https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254106,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s"
+    },
+    {
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+    },
+    {
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Thank You Lord (feat. Thomas Rhett & Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK"
+    },
+    {
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514664,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+    },
+    {
+      "album": {
+        "name": "The God Who Stays",
+        "url": "https://open.spotify.com/album/3Fh8ppnoZ6ToZXePDKAq1l"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/5Xl34OQj59DQ8n5qgtTKiC"
+    },
+    {
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223347,
+      "name": "There Was Jesus",
+      "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
+    },
+    {
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "album": {
+        "name": "TOGETHER",
+        "url": "https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206103,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH"
+    },
+    {
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "album": {
+        "name": "Uncomplicated",
+        "url": "https://open.spotify.com/album/5CR3dPeatQzTUhR1m9ZWPU"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349000,
+      "name": "Uncomplicated - Live",
+      "url": "https://open.spotify.com/track/54vRNERWhSwJZ1W5y9zlDt"
+    },
+    {
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "album": {
+        "name": "Waymaker (Radio Version)",
+        "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242107,
+      "name": "Waymaker - Radio Version",
+      "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
+    },
+    {
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
+    },
+    {
+      "album": {
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
+    },
+    {
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+    },
+    {
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux"
+    },
+    {
+      "album": {
+        "name": "Who Am I (feat. Elle King)",
+        "url": "https://open.spotify.com/album/6eZ5PLrRC9TiEUZXPFDvsn"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/7onxJa5Fj3nCciU5TCICwh"
+    },
+    {
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Who You Are To Me (feat. Lady A)",
+      "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
+    },
+    {
+      "album": {
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329080,
+      "name": "Who You Say I Am - Live",
+      "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/54R96NOT7fbYVTv8nyDSeU"
+    },
+    {
+      "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g"
 }

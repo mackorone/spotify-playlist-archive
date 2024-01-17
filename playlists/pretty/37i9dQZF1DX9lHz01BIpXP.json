@@ -1,13 +1,29 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i?si=Tj2pMniQQDu3Zm2lEGp2NA\">Bigbforever</a> ",
-  "num_followers": 1319,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=Mi9JWXGuQSmsAbxFTgzyeg\">Benjamen</a> ",
+  "num_followers": 1365,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDlkYjZhMTNhY2Q4ZjI5MWE0ZDQxNDEwMTQ2YjA5ZDI5ZDJmNTg0",
+  "snapshot_id": "MCwxZWMyNmU3NzJlYTU2MGUwMmE0MjIxOGQzOGUzOWI4YzAyZmRhOTVk",
   "tracks": [
+    {
+      "added_at": "2024-01-05 07:26:07",
+      "album": {
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+    },
     {
       "added_at": "2023-12-14 22:00:00",
       "album": {
@@ -683,38 +699,6 @@
       "duration_ms": 117894,
       "name": "Wie",
       "url": "https://open.spotify.com/track/0O8LcMl314edgLVPCnT9OZ"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Ek Is Tussen",
-        "url": "https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0"
-      },
-      "artists": [
-        {
-          "name": "Hxnry",
-          "url": "https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ"
-        }
-      ],
-      "duration_ms": 92107,
-      "name": "Ek Is Tussen",
-      "url": "https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "nog 'n bietjie",
-        "url": "https://open.spotify.com/album/6ybeUMEKf4MNl6VPuafTRv"
-      },
-      "artists": [
-        {
-          "name": "Epidemi",
-          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
-        }
-      ],
-      "duration_ms": 211206,
-      "name": "nog 'n bietjie",
-      "url": "https://open.spotify.com/track/79PWs6HBChYuyQBZ6VF399"
     },
     {
       "added_at": "2023-12-14 22:00:00",

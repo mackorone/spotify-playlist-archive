@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,622 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,806 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 31 | [Sajna Ve Sajna](https://open.spotify.com/track/6xs5hAwj3Quf8TdRov5OaV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/4pB975QwnkBHQ1yptO10T2) | 6:22 |
 | 32 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |
 | 33 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 |
-| 34 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 |
+| 34 | [Challa](https://open.spotify.com/track/1BC9X8XmSRlvpkVR3H3eEr) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Maan Punjab Da](https://open.spotify.com/album/5MsVXD3K0gvlvVrTlSnBZX) | 6:46 |
 | 35 | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/track/7xT9DUDXxmjb1hsIcnzGrq) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi) | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/album/73oPRBDmqdR1SWaFWd8WzO) | 2:36 |
 | 36 | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/track/5A3PfcBVxvN06YcWBrAbCU) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/album/6M5JcBhM7iAJBsO4jDJGPC) | 3:38 |
 | 37 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/750iSHcA6T5zZMC0jvpJrN) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |
 | 50 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCxhZjc0YTk3OWQ3NjZjOGI2ZjIyMDJhNDNlZDFmN2ZlNWQ2ZDVjYmNl`
+Snapshot ID: `MCxkMmI0MTAzOTgyODQxMTY0YzhkOTY1M2NlNDQ1OTVjZTA2N2IwMTFj`

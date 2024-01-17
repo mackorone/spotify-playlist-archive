@@ -1,472 +1,1129 @@
 {
-  "2022-09-17": 507,
-  "2022-09-18": 508,
-  "2022-09-19": 509,
-  "2022-09-20": 509,
-  "2022-09-21": 510,
-  "2022-09-22": 510,
-  "2022-09-23": 510,
-  "2022-09-24": 510,
-  "2022-09-25": 509,
-  "2022-09-26": 511,
-  "2022-09-27": 510,
-  "2022-09-28": 511,
-  "2022-09-29": 511,
-  "2022-09-30": 512,
-  "2022-10-01": 513,
-  "2022-10-02": 514,
-  "2022-10-03": 513,
-  "2022-10-04": 514,
-  "2022-10-05": 514,
-  "2022-10-06": 513,
-  "2022-10-07": 512,
-  "2022-10-08": 513,
-  "2022-10-09": 515,
-  "2022-10-10": 515,
-  "2022-10-11": 516,
-  "2022-10-12": 516,
-  "2022-10-13": 517,
-  "2022-10-14": 519,
-  "2022-10-15": 520,
-  "2022-10-16": 521,
-  "2022-10-17": 522,
-  "2022-10-18": 521,
-  "2022-10-19": 522,
-  "2022-10-20": 523,
-  "2022-10-21": 523,
-  "2022-10-22": 523,
-  "2022-10-23": 524,
-  "2022-10-24": 524,
-  "2022-10-25": 524,
-  "2022-10-26": 524,
-  "2022-10-27": 524,
-  "2022-10-28": 524,
-  "2022-10-29": 524,
-  "2022-10-30": 524,
-  "2022-10-31": 524,
-  "2022-11-01": 524,
-  "2022-11-02": 525,
-  "2022-11-03": 525,
-  "2022-11-04": 526,
-  "2022-11-05": 527,
-  "2022-11-06": 527,
-  "2022-11-07": 527,
-  "2022-11-08": 527,
-  "2022-11-09": 527,
-  "2022-11-10": 528,
-  "2022-11-11": 529,
-  "2022-11-12": 529,
-  "2022-11-13": 529,
-  "2022-11-14": 530,
-  "2022-11-15": 531,
-  "2022-11-16": 532,
-  "2022-11-17": 533,
-  "2022-11-18": 534,
-  "2022-11-19": 534,
-  "2022-11-20": 536,
-  "2022-11-21": 537,
-  "2022-11-22": 537,
-  "2022-11-23": 537,
-  "2022-11-24": 537,
-  "2022-11-25": 536,
-  "2022-11-26": 537,
-  "2022-11-27": 537,
-  "2022-11-28": 537,
-  "2022-11-29": 536,
-  "2022-11-30": 537,
-  "2022-12-01": 538,
-  "2022-12-02": 538,
-  "2022-12-03": 538,
-  "2022-12-04": 540,
-  "2022-12-05": 541,
-  "2022-12-06": 541,
-  "2022-12-07": 541,
-  "2022-12-08": 542,
-  "2022-12-09": 543,
-  "2022-12-10": 543,
-  "2022-12-11": 544,
-  "2022-12-12": 546,
-  "2022-12-13": 546,
-  "2022-12-14": 546,
-  "2022-12-15": 547,
-  "2022-12-16": 547,
-  "2022-12-17": 547,
-  "2022-12-18": 548,
-  "2022-12-19": 548,
-  "2022-12-20": 551,
-  "2022-12-21": 551,
-  "2022-12-22": 551,
-  "2022-12-24": 552,
-  "2022-12-25": 553,
-  "2022-12-26": 554,
-  "2022-12-27": 555,
-  "2022-12-28": 554,
-  "2022-12-29": 555,
-  "2022-12-30": 556,
-  "2022-12-31": 557,
-  "2023-01-01": 557,
-  "2023-01-02": 558,
-  "2023-01-03": 558,
-  "2023-01-04": 559,
-  "2023-01-05": 559,
-  "2023-01-06": 560,
-  "2023-01-07": 562,
-  "2023-01-08": 562,
-  "2023-01-09": 565,
-  "2023-01-10": 565,
-  "2023-01-11": 566,
-  "2023-01-12": 567,
-  "2023-01-13": 568,
-  "2023-01-14": 571,
-  "2023-01-15": 570,
-  "2023-01-16": 571,
-  "2023-01-17": 570,
-  "2023-01-18": 570,
-  "2023-01-19": 570,
-  "2023-01-20": 570,
-  "2023-01-21": 570,
-  "2023-01-22": 570,
-  "2023-01-23": 570,
-  "2023-01-24": 570,
-  "2023-01-25": 571,
-  "2023-01-26": 571,
-  "2023-01-27": 571,
-  "2023-01-28": 572,
-  "2023-01-29": 572,
-  "2023-01-30": 572,
-  "2023-01-31": 572,
-  "2023-02-01": 573,
-  "2023-02-02": 573,
-  "2023-02-03": 573,
-  "2023-02-04": 573,
-  "2023-02-05": 574,
-  "2023-02-06": 575,
-  "2023-02-07": 577,
-  "2023-02-08": 577,
-  "2023-02-09": 577,
-  "2023-02-10": 577,
-  "2023-02-11": 577,
-  "2023-02-12": 576,
-  "2023-02-13": 578,
-  "2023-02-14": 578,
-  "2023-02-15": 578,
-  "2023-02-16": 579,
-  "2023-02-17": 579,
-  "2023-02-18": 581,
-  "2023-02-19": 581,
-  "2023-02-20": 581,
-  "2023-02-21": 582,
-  "2023-02-22": 582,
-  "2023-02-23": 582,
-  "2023-02-24": 583,
-  "2023-02-25": 583,
-  "2023-02-26": 583,
-  "2023-02-27": 584,
-  "2023-02-28": 584,
-  "2023-03-01": 584,
-  "2023-03-02": 584,
-  "2023-03-03": 584,
-  "2023-03-04": 584,
-  "2023-03-05": 584,
-  "2023-03-06": 584,
-  "2023-03-07": 584,
-  "2023-03-08": 584,
-  "2023-03-09": 584,
-  "2023-03-10": 584,
-  "2023-03-11": 584,
-  "2023-03-12": 585,
-  "2023-03-13": 586,
-  "2023-03-14": 586,
-  "2023-03-15": 586,
-  "2023-03-16": 586,
-  "2023-03-17": 586,
-  "2023-03-18": 596,
-  "2023-03-19": 596,
-  "2023-03-20": 597,
-  "2023-03-21": 602,
-  "2023-03-22": 601,
-  "2023-03-23": 602,
-  "2023-03-24": 602,
-  "2023-03-25": 605,
-  "2023-03-26": 605,
-  "2023-03-27": 606,
-  "2023-03-28": 607,
-  "2023-03-29": 608,
-  "2023-03-30": 608,
-  "2023-03-31": 608,
-  "2023-04-01": 609,
-  "2023-04-02": 612,
-  "2023-04-03": 612,
-  "2023-04-04": 614,
-  "2023-04-05": 614,
-  "2023-04-06": 614,
-  "2023-04-07": 614,
-  "2023-04-09": 614,
-  "2023-04-10": 615,
-  "2023-04-11": 617,
-  "2023-04-12": 617,
-  "2023-04-13": 616,
-  "2023-04-14": 617,
-  "2023-04-15": 618,
-  "2023-04-16": 619,
-  "2023-04-17": 619,
-  "2023-04-18": 618,
-  "2023-04-19": 619,
-  "2023-04-20": 619,
-  "2023-04-21": 620,
-  "2023-04-22": 620,
-  "2023-04-23": 620,
-  "2023-04-24": 621,
-  "2023-04-25": 622,
-  "2023-04-26": 624,
-  "2023-04-27": 624,
-  "2023-04-28": 625,
-  "2023-04-29": 626,
-  "2023-04-30": 626,
-  "2023-05-01": 625,
-  "2023-05-02": 625,
-  "2023-05-03": 625,
-  "2023-05-04": 625,
-  "2023-05-05": 626,
-  "2023-05-06": 627,
-  "2023-05-07": 628,
-  "2023-05-08": 629,
-  "2023-05-09": 629,
-  "2023-05-10": 631,
-  "2023-05-11": 631,
-  "2023-05-12": 631,
-  "2023-05-13": 632,
-  "2023-05-14": 632,
-  "2023-05-15": 633,
-  "2023-05-16": 633,
-  "2023-05-17": 633,
-  "2023-05-18": 634,
-  "2023-05-19": 638,
-  "2023-05-20": 639,
-  "2023-05-21": 639,
-  "2023-05-22": 639,
-  "2023-05-23": 639,
-  "2023-05-24": 638,
-  "2023-05-25": 638,
-  "2023-05-26": 638,
-  "2023-05-27": 641,
-  "2023-05-28": 641,
-  "2023-05-29": 641,
-  "2023-05-30": 643,
-  "2023-05-31": 643,
-  "2023-06-01": 647,
-  "2023-06-02": 648,
-  "2023-06-03": 649,
-  "2023-06-04": 651,
-  "2023-06-05": 651,
-  "2023-06-06": 651,
-  "2023-06-07": 651,
-  "2023-06-08": 652,
-  "2023-06-09": 652,
-  "2023-06-10": 652,
-  "2023-06-11": 652,
-  "2023-06-12": 652,
-  "2023-06-13": 653,
-  "2023-06-14": 654,
-  "2023-06-15": 653,
-  "2023-06-16": 653,
-  "2023-06-17": 653,
-  "2023-06-18": 654,
-  "2023-06-19": 656,
-  "2023-06-20": 656,
-  "2023-06-21": 657,
-  "2023-06-22": 657,
-  "2023-06-23": 657,
-  "2023-06-24": 657,
-  "2023-06-25": 657,
-  "2023-06-26": 657,
-  "2023-06-27": 657,
-  "2023-06-28": 657,
-  "2023-06-29": 657,
-  "2023-06-30": 658,
-  "2023-07-01": 659,
-  "2023-07-02": 659,
-  "2023-07-03": 659,
-  "2023-07-04": 659,
-  "2023-07-05": 658,
-  "2023-07-06": 658,
-  "2023-07-07": 658,
-  "2023-07-08": 658,
-  "2023-07-09": 658,
-  "2023-07-10": 658,
-  "2023-07-11": 658,
-  "2023-07-12": 658,
-  "2023-07-13": 658,
-  "2023-07-14": 659,
-  "2023-07-15": 660,
-  "2023-07-16": 661,
-  "2023-07-17": 662,
-  "2023-07-18": 662,
-  "2023-07-19": 662,
-  "2023-07-20": 662,
-  "2023-07-21": 663,
-  "2023-07-22": 665,
-  "2023-07-23": 665,
-  "2023-07-24": 665,
-  "2023-07-25": 665,
-  "2023-07-26": 666,
-  "2023-07-27": 666,
-  "2023-07-28": 666,
-  "2023-07-29": 666,
-  "2023-07-30": 666,
-  "2023-07-31": 669,
-  "2023-08-01": 672,
-  "2023-08-02": 673,
-  "2023-08-03": 675,
-  "2023-08-04": 675,
-  "2023-08-05": 675,
-  "2023-08-06": 676,
-  "2023-08-07": 676,
-  "2023-08-08": 678,
-  "2023-08-09": 678,
-  "2023-08-10": 678,
-  "2023-08-11": 678,
-  "2023-08-12": 678,
-  "2023-08-13": 678,
-  "2023-08-14": 678,
-  "2023-08-15": 678,
-  "2023-08-16": 678,
-  "2023-08-17": 678,
-  "2023-08-18": 678,
-  "2023-08-19": 678,
-  "2023-08-20": 683,
-  "2023-08-21": 683,
-  "2023-08-22": 683,
-  "2023-08-23": 683,
-  "2023-08-24": 683,
-  "2023-08-25": 683,
-  "2023-08-26": 685,
-  "2023-08-27": 685,
-  "2023-08-28": 686,
-  "2023-08-29": 686,
-  "2023-08-30": 686,
-  "2023-08-31": 689,
-  "2023-09-01": 690,
-  "2023-09-02": 690,
-  "2023-09-03": 690,
-  "2023-09-04": 690,
-  "2023-09-05": 690,
-  "2023-09-06": 690,
-  "2023-09-07": 690,
-  "2023-09-08": 690,
-  "2023-09-09": 690,
-  "2023-09-10": 690,
-  "2023-09-11": 690,
-  "2023-09-12": 690,
-  "2023-09-13": 690,
-  "2023-09-14": 690,
-  "2023-09-15": 690,
-  "2023-09-16": 690,
-  "2023-09-17": 690,
-  "2023-09-18": 690,
-  "2023-09-19": 690,
-  "2023-09-20": 690,
-  "2023-09-21": 690,
-  "2023-09-22": 696,
-  "2023-09-23": 696,
-  "2023-09-24": 696,
-  "2023-09-25": 696,
-  "2023-09-26": 696,
-  "2023-09-27": 696,
-  "2023-09-28": 696,
-  "2023-09-29": 696,
-  "2023-09-30": 696,
-  "2023-10-01": 696,
-  "2023-10-02": 696,
-  "2023-10-03": 696,
-  "2023-10-04": 696,
-  "2023-10-05": 696,
-  "2023-10-06": 696,
-  "2023-10-07": 696,
-  "2023-10-08": 696,
-  "2023-10-09": 696,
-  "2023-10-10": 696,
-  "2023-10-11": 696,
-  "2023-10-12": 696,
-  "2023-10-13": 696,
-  "2023-10-14": 696,
-  "2023-10-15": 696,
-  "2023-10-16": 696,
-  "2023-10-17": 696,
-  "2023-10-18": 696,
-  "2023-10-19": 696,
-  "2023-10-20": 696,
-  "2023-10-21": 696,
-  "2023-10-22": 696,
-  "2023-10-23": 696,
-  "2023-10-24": 696,
-  "2023-10-25": 696,
-  "2023-10-26": 696,
-  "2023-10-27": 696,
-  "2023-10-28": 696,
-  "2023-10-29": 696,
-  "2023-10-30": 696,
-  "2023-10-31": 696,
-  "2023-11-01": 696,
-  "2023-11-02": 696,
-  "2023-11-03": 696,
-  "2023-11-04": 696,
-  "2023-11-05": 696,
-  "2023-11-06": 696,
-  "2023-11-07": 696,
-  "2023-11-08": 696,
-  "2023-11-09": 696,
-  "2023-11-10": 696,
-  "2023-11-11": 725,
-  "2023-11-12": 725,
-  "2023-11-13": 725,
-  "2023-11-14": 725,
-  "2023-11-15": 725,
-  "2023-11-16": 725,
-  "2023-11-17": 725,
-  "2023-11-18": 725,
-  "2023-11-19": 725,
-  "2023-11-20": 725,
-  "2023-11-21": 725,
-  "2023-11-22": 725,
-  "2023-11-23": 725,
-  "2023-11-24": 725,
-  "2023-11-25": 725,
-  "2023-11-26": 725,
-  "2023-11-27": 725,
-  "2023-11-28": 725,
-  "2023-11-29": 725,
-  "2023-11-30": 725,
-  "2023-12-01": 725,
-  "2023-12-02": 725,
-  "2023-12-03": 725,
-  "2023-12-04": 725,
-  "2023-12-05": 725,
-  "2023-12-06": 725,
-  "2023-12-07": 725,
-  "2023-12-08": 725,
-  "2023-12-09": 725,
-  "2023-12-10": 725,
-  "2023-12-11": 725,
-  "2023-12-12": 725,
-  "2023-12-13": 725,
-  "2023-12-14": 748,
-  "2023-12-15": 748,
-  "2023-12-16": 750,
-  "2023-12-17": 751,
-  "2023-12-18": 752,
-  "2023-12-19": 754,
-  "2023-12-20": 755,
-  "2023-12-21": 755,
-  "2023-12-22": 757,
-  "2023-12-23": 757,
-  "2023-12-24": 757,
-  "2023-12-25": 757,
-  "2023-12-26": 757,
-  "2023-12-27": 757,
-  "2023-12-30": 756,
-  "2023-12-31": 757,
-  "2024-01-01": 757,
-  "2024-01-02": 758,
-  "2024-01-03": 759
+  "2024-01-17": 764,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
+  "name": "This Is Luca Brasi",
+  "tracks": [
+    {
+      "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+    },
+    {
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143658,
+      "name": "41 Degrees",
+      "url": "https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/2RLGb8mvqpSY6v3h1muLok"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227738,
+      "name": "Anything Near Conviction",
+      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177024,
+      "name": "Borders and Statelines",
+      "url": "https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 204666,
+      "name": "Bright Eyed",
+      "url": "https://open.spotify.com/track/3aJCLpBbzNdWQZYXQyMKi6"
+    },
+    {
+      "album": {
+        "name": "Tassie",
+        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92958,
+      "name": "C",
+      "url": "https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218104,
+      "name": "Clothes I Slept In",
+      "url": "https://open.spotify.com/track/3Jq8BFu09A3H1WeJNdmFJ4"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 292867,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/0Q5ZJHuiydKeQEBdAbOJNS"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220850,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 181533,
+      "name": "Devil's in the Detail",
+      "url": "https://open.spotify.com/track/3pDS9rIhjPlHNED5OBh8Wh"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131542,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273786,
+      "name": "Dying to Feel Alive",
+      "url": "https://open.spotify.com/track/36i5ZC3bv8hv5AqWtlqJep"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164228,
+      "name": "Every Time You're Here (I'm Gone)",
+      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214959,
+      "name": "Got to Give",
+      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Guillotines in Arbour Park",
+      "url": "https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3igoVqqRIqOtEFSgSVueHw"
+    },
+    {
+      "album": {
+        "name": "How to Make Gravy (Triple J Like a Version) [Live]",
+        "url": "https://open.spotify.com/album/4mLRRgJuHIqWygG2hlZ441"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263787,
+      "name": "How to Make Gravy (Triple J Like a Version) [Live]",
+      "url": "https://open.spotify.com/track/1Xb8vdZG9b0Z6fs2XMPIot"
+    },
+    {
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 187464,
+      "name": "In the Sight",
+      "url": "https://open.spotify.com/track/7cPME77cqvQNrUvIQWuHzK"
+    },
+    {
+      "album": {
+        "name": "Iris (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/0UfBYgWnP64I32ltTX3PBk"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238291,
+      "name": "Iris - triple j Like A Version",
+      "url": "https://open.spotify.com/track/7pEfEyyzMYRZhcJMaUt5aZ"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
+    },
+    {
+      "album": {
+        "name": "Jackies Are On The March",
+        "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135630,
+      "name": "Jackies Are On The March",
+      "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194836,
+      "name": "Let It Slip",
+      "url": "https://open.spotify.com/track/6su12cqnq51UIV5M1itht6"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Like a Charm",
+      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207493,
+      "name": "Losin'",
+      "url": "https://open.spotify.com/track/3Do7P8qGtozy9smMzPQ6uR"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 150908,
+      "name": "Man, This Is Living",
+      "url": "https://open.spotify.com/track/6HE5bKqeSUhooO0rPM4DsH"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+    },
+    {
+      "album": {
+        "name": "Party Scene",
+        "url": "https://open.spotify.com/album/3eYOamJN0c5EHXR81ZrRFE"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 176909,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/3GTJ2lJxIlhoSyAznxNUWy"
+    },
+    {
+      "album": {
+        "name": "Tassie",
+        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197825,
+      "name": "Passed the Break",
+      "url": "https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO"
+    },
+    {
+      "album": {
+        "name": "Loose Threads",
+        "url": "https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 180229,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Rinse and Repeat",
+      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 223377,
+      "name": "Say It Back",
+      "url": "https://open.spotify.com/track/1TJ8r9Y5EE1rVPLWKOwjmo"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        },
+        {
+          "name": "Kat Edwards",
+          "url": "https://open.spotify.com/artist/7FOpFtNApLbUrcz56UnkM4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 293213,
+      "name": "Sea Sick",
+      "url": "https://open.spotify.com/track/0xg9zudXOKmQyMOfSI9ifp"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 161706,
+      "name": "Some Cutting Sick",
+      "url": "https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3"
+    },
+    {
+      "album": {
+        "name": "Sonny",
+        "url": "https://open.spotify.com/album/1x0RHJ05WgdGrAH8yA6Pq8"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 220440,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/1HMAGmRUH8BdyvwyEAeJAR"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165451,
+      "name": "Spin and Collapse",
+      "url": "https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96877,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193364,
+      "name": "Tangled; Content",
+      "url": "https://open.spotify.com/track/2PZVw1Xh3Oj57DPE5JUod9"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 389663,
+      "name": "The Calm and the Ease",
+      "url": "https://open.spotify.com/track/0wR0nwUFquHRwPCHOci91H"
+    },
+    {
+      "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207807,
+      "name": "The Cascade Blues",
+      "url": "https://open.spotify.com/track/1qNp5Gn4TtlfMLJIJVltMn"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98493,
+      "name": "The Entry Ramp",
+      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 182740,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
+    },
+    {
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 199144,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6VUcZGP4WHMArWaTwCqeRG"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/4GVU0koa6BTvPE0pU79E26"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189906,
+      "name": "The World Don't Owe You Anything",
+      "url": "https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "The World Don't Owe You Anything",
+      "url": "https://open.spotify.com/track/44wjc3admuhjgP8W1ZFRIR"
+    },
+    {
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147280,
+      "name": "Theme Song from Hq",
+      "url": "https://open.spotify.com/track/7pnMvYEHYIaXOVCHFLa5BT"
+    },
+    {
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222872,
+      "name": "This Selfish Love",
+      "url": "https://open.spotify.com/track/36H8OUJS3X6nYXN0rsQdxe"
+    },
+    {
+      "album": {
+        "name": "Tassie",
+        "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 270623,
+      "name": "Viva Tassie Cabrones",
+      "url": "https://open.spotify.com/track/1oLRcjIjXKzp4WxBx35snX"
+    },
+    {
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184518,
+      "name": "Western Junction",
+      "url": "https://open.spotify.com/track/41mYELvb3rE8O2Dnbe0xa1"
+    },
+    {
+      "album": {
+        "name": "Yossarian",
+        "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191395,
+      "name": "Yossarian",
+      "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4soWDC"
 }

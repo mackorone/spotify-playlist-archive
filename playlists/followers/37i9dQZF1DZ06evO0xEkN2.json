@@ -1,354 +1,1107 @@
 {
-  "2023-01-14": 183035,
-  "2023-01-15": 183041,
-  "2023-01-16": 183108,
-  "2023-01-17": 183159,
-  "2023-01-18": 183231,
-  "2023-01-19": 183275,
-  "2023-01-20": 183354,
-  "2023-01-21": 183427,
-  "2023-01-22": 183512,
-  "2023-01-23": 183570,
-  "2023-01-24": 183633,
-  "2023-01-25": 183716,
-  "2023-01-26": 183803,
-  "2023-01-27": 183888,
-  "2023-01-28": 183984,
-  "2023-01-29": 184056,
-  "2023-01-30": 184107,
-  "2023-01-31": 184107,
-  "2023-02-01": 184239,
-  "2023-02-02": 184320,
-  "2023-02-03": 184392,
-  "2023-02-04": 184468,
-  "2023-02-05": 184530,
-  "2023-02-06": 184583,
-  "2023-02-07": 184635,
-  "2023-02-08": 184770,
-  "2023-02-09": 184770,
-  "2023-02-10": 184849,
-  "2023-02-11": 184913,
-  "2023-02-12": 185037,
-  "2023-02-13": 185093,
-  "2023-02-14": 185093,
-  "2023-02-15": 185145,
-  "2023-02-16": 185196,
-  "2023-02-17": 185268,
-  "2023-02-18": 185425,
-  "2023-02-19": 185436,
-  "2023-02-20": 185472,
-  "2023-02-21": 185523,
-  "2023-02-22": 185571,
-  "2023-02-23": 185613,
-  "2023-02-24": 185700,
-  "2023-02-25": 185800,
-  "2023-02-26": 185872,
-  "2023-02-27": 185993,
-  "2023-02-28": 185993,
-  "2023-03-01": 186052,
-  "2023-03-02": 186121,
-  "2023-03-03": 186219,
-  "2023-03-04": 186295,
-  "2023-03-05": 186430,
-  "2023-03-06": 186430,
-  "2023-03-07": 186491,
-  "2023-03-08": 186572,
-  "2023-03-09": 186642,
-  "2023-03-10": 186727,
-  "2023-03-11": 186807,
-  "2023-03-12": 186882,
-  "2023-03-13": 186942,
-  "2023-03-14": 186998,
-  "2023-03-15": 187065,
-  "2023-03-16": 187065,
-  "2023-03-17": 187065,
-  "2023-03-18": 187277,
-  "2023-03-19": 187277,
-  "2023-03-20": 187429,
-  "2023-03-21": 187477,
-  "2023-03-22": 187525,
-  "2023-03-23": 187588,
-  "2023-03-24": 187588,
-  "2023-03-25": 187715,
-  "2023-03-26": 187774,
-  "2023-03-27": 187826,
-  "2023-03-28": 187866,
-  "2023-03-29": 187944,
-  "2023-03-30": 188080,
-  "2023-03-31": 188080,
-  "2023-04-01": 188164,
-  "2023-04-02": 188240,
-  "2023-04-03": 188328,
-  "2023-04-04": 188424,
-  "2023-04-05": 188512,
-  "2023-04-06": 188594,
-  "2023-04-07": 188674,
-  "2023-04-09": 188814,
-  "2023-04-10": 188874,
-  "2023-04-11": 188987,
-  "2023-04-12": 188987,
-  "2023-04-13": 189059,
-  "2023-04-14": 189145,
-  "2023-04-15": 189219,
-  "2023-04-16": 189326,
-  "2023-04-17": 189415,
-  "2023-04-18": 189491,
-  "2023-04-19": 189565,
-  "2023-04-20": 189639,
-  "2023-04-21": 189698,
-  "2023-04-22": 189784,
-  "2023-04-23": 189872,
-  "2023-04-24": 189946,
-  "2023-04-25": 190021,
-  "2023-04-26": 190080,
-  "2023-04-27": 190156,
-  "2023-04-28": 190248,
-  "2023-04-29": 190317,
-  "2023-04-30": 190429,
-  "2023-05-01": 190485,
-  "2023-05-02": 190529,
-  "2023-05-03": 190588,
-  "2023-05-04": 190659,
-  "2023-05-05": 190730,
-  "2023-05-06": 190803,
-  "2023-05-07": 190889,
-  "2023-05-08": 190949,
-  "2023-05-09": 191049,
-  "2023-05-10": 191125,
-  "2023-05-11": 191181,
-  "2023-05-12": 191271,
-  "2023-05-13": 191372,
-  "2023-05-14": 191453,
-  "2023-05-15": 191505,
-  "2023-05-16": 191562,
-  "2023-05-17": 191642,
-  "2023-05-18": 191734,
-  "2023-05-19": 191829,
-  "2023-05-20": 191994,
-  "2023-05-21": 191994,
-  "2023-05-22": 191994,
-  "2023-05-23": 192131,
-  "2023-05-24": 192293,
-  "2023-05-25": 192319,
-  "2023-05-26": 192397,
-  "2023-05-27": 192489,
-  "2023-05-28": 192559,
-  "2023-05-29": 192559,
-  "2023-05-30": 192729,
-  "2023-05-31": 192830,
-  "2023-06-01": 192957,
-  "2023-06-02": 193066,
-  "2023-06-03": 193188,
-  "2023-06-04": 193300,
-  "2023-06-05": 193414,
-  "2023-06-06": 193523,
-  "2023-06-07": 193627,
-  "2023-06-08": 193750,
-  "2023-06-09": 193855,
-  "2023-06-10": 193959,
-  "2023-06-11": 194077,
-  "2023-06-12": 194172,
-  "2023-06-13": 194256,
-  "2023-06-14": 194341,
-  "2023-06-15": 194422,
-  "2023-06-16": 194540,
-  "2023-06-17": 194624,
-  "2023-06-18": 194710,
-  "2023-06-19": 194789,
-  "2023-06-20": 194874,
-  "2023-06-21": 194956,
-  "2023-06-22": 195043,
-  "2023-06-23": 195125,
-  "2023-06-24": 195212,
-  "2023-06-25": 195301,
-  "2023-06-26": 195382,
-  "2023-06-27": 195432,
-  "2023-06-28": 195499,
-  "2023-06-29": 195568,
-  "2023-06-30": 195629,
-  "2023-07-01": 195773,
-  "2023-07-02": 195773,
-  "2023-07-03": 195824,
-  "2023-07-04": 195895,
-  "2023-07-05": 195960,
-  "2023-07-06": 196116,
-  "2023-07-07": 196116,
-  "2023-07-08": 196216,
-  "2023-07-09": 196301,
-  "2023-07-10": 196343,
-  "2023-07-11": 196407,
-  "2023-07-12": 196478,
-  "2023-07-13": 196547,
-  "2023-07-14": 196613,
-  "2023-07-15": 196659,
-  "2023-07-16": 196758,
-  "2023-07-17": 196830,
-  "2023-07-18": 196914,
-  "2023-07-19": 197011,
-  "2023-07-20": 197097,
-  "2023-07-21": 197206,
-  "2023-07-22": 197294,
-  "2023-07-23": 197388,
-  "2023-07-24": 197455,
-  "2023-07-25": 197533,
-  "2023-07-26": 197607,
-  "2023-07-27": 197669,
-  "2023-07-28": 197770,
-  "2023-07-29": 197851,
-  "2023-07-30": 197912,
-  "2023-07-31": 197962,
-  "2023-08-01": 198027,
-  "2023-08-02": 198068,
-  "2023-08-03": 198142,
-  "2023-08-04": 198209,
-  "2023-08-05": 198276,
-  "2023-08-06": 198392,
-  "2023-08-07": 198392,
-  "2023-08-08": 198461,
-  "2023-08-09": 198510,
-  "2023-08-10": 198581,
-  "2023-08-11": 198668,
-  "2023-08-12": 198668,
-  "2023-08-13": 198668,
-  "2023-08-14": 198901,
-  "2023-08-15": 198901,
-  "2023-08-16": 198901,
-  "2023-08-17": 199088,
-  "2023-08-18": 199088,
-  "2023-08-19": 199243,
-  "2023-08-20": 199324,
-  "2023-08-21": 199324,
-  "2023-08-22": 199445,
-  "2023-08-23": 199445,
-  "2023-08-24": 199612,
-  "2023-08-25": 199612,
-  "2023-08-26": 199784,
-  "2023-08-27": 199784,
-  "2023-08-28": 199916,
-  "2023-08-29": 199916,
-  "2023-08-30": 199916,
-  "2023-08-31": 200151,
-  "2023-09-01": 200302,
-  "2023-09-02": 200302,
-  "2023-09-03": 200384,
-  "2023-09-04": 200384,
-  "2023-09-05": 200384,
-  "2023-09-06": 200590,
-  "2023-09-07": 200590,
-  "2023-09-08": 200590,
-  "2023-09-09": 200590,
-  "2023-09-10": 200917,
-  "2023-09-11": 200992,
-  "2023-09-12": 200992,
-  "2023-09-13": 201155,
-  "2023-09-14": 201155,
-  "2023-09-15": 201155,
-  "2023-09-16": 201354,
-  "2023-09-17": 201354,
-  "2023-09-18": 201354,
-  "2023-09-19": 201512,
-  "2023-09-20": 201512,
-  "2023-09-21": 201512,
-  "2023-09-22": 201689,
-  "2023-09-23": 201689,
-  "2023-09-24": 201689,
-  "2023-09-25": 201689,
-  "2023-09-26": 201942,
-  "2023-09-27": 201942,
-  "2023-09-28": 201942,
-  "2023-09-29": 201942,
-  "2023-09-30": 201942,
-  "2023-10-01": 201942,
-  "2023-10-02": 202323,
-  "2023-10-03": 202323,
-  "2023-10-04": 202323,
-  "2023-10-05": 202531,
-  "2023-10-06": 202610,
-  "2023-10-07": 202610,
-  "2023-10-08": 202610,
-  "2023-10-09": 202610,
-  "2023-10-10": 202610,
-  "2023-10-11": 202839,
-  "2023-10-12": 202839,
-  "2023-10-13": 202839,
-  "2023-10-14": 202839,
-  "2023-10-15": 202839,
-  "2023-10-16": 202839,
-  "2023-10-17": 202839,
-  "2023-10-18": 202839,
-  "2023-10-19": 202839,
-  "2023-10-20": 202839,
-  "2023-10-21": 202839,
-  "2023-10-22": 202839,
-  "2023-10-23": 202839,
-  "2023-10-24": 202839,
-  "2023-10-25": 202839,
-  "2023-10-26": 202839,
-  "2023-10-27": 202839,
-  "2023-10-28": 202839,
-  "2023-10-29": 202839,
-  "2023-10-30": 202839,
-  "2023-10-31": 202839,
-  "2023-11-01": 202839,
-  "2023-11-02": 202839,
-  "2023-11-03": 202839,
-  "2023-11-04": 202839,
-  "2023-11-05": 202839,
-  "2023-11-06": 202839,
-  "2023-11-07": 202839,
-  "2023-11-08": 202839,
-  "2023-11-09": 202839,
-  "2023-11-10": 202839,
-  "2023-11-11": 205126,
-  "2023-11-12": 205126,
-  "2023-11-13": 205126,
-  "2023-11-14": 205126,
-  "2023-11-15": 205126,
-  "2023-11-16": 205126,
-  "2023-11-17": 205126,
-  "2023-11-18": 205126,
-  "2023-11-19": 205126,
-  "2023-11-20": 205126,
-  "2023-11-21": 205126,
-  "2023-11-22": 205126,
-  "2023-11-23": 205126,
-  "2023-11-24": 205126,
-  "2023-11-25": 205126,
-  "2023-11-26": 205126,
-  "2023-11-27": 205126,
-  "2023-11-28": 205126,
-  "2023-11-29": 205126,
-  "2023-11-30": 205126,
-  "2023-12-01": 205126,
-  "2023-12-02": 205126,
-  "2023-12-03": 205126,
-  "2023-12-04": 205126,
-  "2023-12-05": 205126,
-  "2023-12-06": 205126,
-  "2023-12-07": 205126,
-  "2023-12-08": 205126,
-  "2023-12-09": 205126,
-  "2023-12-10": 205126,
-  "2023-12-11": 205126,
-  "2023-12-12": 205126,
-  "2023-12-13": 205126,
-  "2023-12-14": 207039,
-  "2023-12-15": 207089,
-  "2023-12-16": 207135,
-  "2023-12-17": 207177,
-  "2023-12-18": 207208,
-  "2023-12-19": 207237,
-  "2023-12-20": 207292,
-  "2023-12-21": 207346,
-  "2023-12-22": 207394,
-  "2023-12-23": 207450,
-  "2023-12-24": 207506,
-  "2023-12-25": 207541,
-  "2023-12-26": 207581,
-  "2023-12-27": 207621,
-  "2023-12-30": 207786,
-  "2023-12-31": 207852,
-  "2024-01-01": 207895,
-  "2024-01-02": 207926,
-  "2024-01-03": 207967
+  "2024-01-17": 207955,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
+  "name": "This Is Panteon Rococo",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Todos los Rumberos",
+        "url": "https://open.spotify.com/album/69M76iFB13orBTuymkmh4M"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "A Todos los Rumberos",
+      "url": "https://open.spotify.com/track/2QAwnJ1GBB9MVrKUzd88q0"
+    },
+    {
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "album": {
+        "name": "A2\u00cd 5Uena!, Vol 2",
+        "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241171,
+      "name": "Amargo Adios",
+      "url": "https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280080,
+      "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
+      "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 165840,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/3GTWQ3KMyuRP4LAU2vwiTw"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Borracho Drunk Steady Beer",
+      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
+    },
+    {
+      "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
+    },
+    {
+      "album": {
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Busc\u00e1ndote (Paraguayito Dub)",
+      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276906,
+      "name": "C.D.A.",
+      "url": "https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8"
+    },
+    {
+      "album": {
+        "name": "Cari\u00f1ito (Mexican Institute of Sound Mix)",
+        "url": "https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "Cari\u00f1ito - Mexican Institute of Sound Mix",
+      "url": "https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
+      "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
+    },
+    {
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Cumbia del Olvido",
+      "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165626,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/1q7SnztoC6TIUP9wxDVFiB"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221640,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/3stXtR4dTYiGjYhG2gNepu"
+    },
+    {
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "The Skints",
+          "url": "https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280293,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "album": {
+        "name": "Ni Carne Ni Pescado",
+        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "D\u00e9jala Tranquila",
+      "url": "https://open.spotify.com/track/4VZO5W0fsTU6jkurFkIkGT"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179160,
+      "name": "El Lado Oscuro",
+      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
+    },
+    {
+      "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284826,
+      "name": "Es Tan Poco el Tiempo",
+      "url": "https://open.spotify.com/track/0vVub8zvVEpxRn3q1D7qaM"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Estrella Roja - En Vivo",
+      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
+    },
+    {
+      "album": {
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348320,
+      "name": "Fugaz (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
+      "url": "https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI"
+    },
+    {
+      "album": {
+        "name": "Gracias por Existir",
+        "url": "https://open.spotify.com/album/2MZTSJ86WPeIM5oEtnRYRQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 232080,
+      "name": "Gracias por Existir",
+      "url": "https://open.spotify.com/track/2mov3c2vD31ddEW8HneYcO"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322533,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
+    },
+    {
+      "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293247,
+      "name": "Infiernos",
+      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
+    },
+    {
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266746,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246373,
+      "name": "La Rubia y el Demonio",
+      "url": "https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU"
+    },
+    {
+      "album": {
+        "name": "Rigo Es Amor",
+        "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
+    },
+    {
+      "album": {
+        "name": "Los Viejos Vinagres",
+        "url": "https://open.spotify.com/album/0HPyIrvLK6bMIjA9q8HSFC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 218302,
+      "name": "Los Viejos Vinagres",
+      "url": "https://open.spotify.com/track/3qGkFTw5nEDmBn8bgwFN1H"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279413,
+      "name": "Nada Pas\u00f3",
+      "url": "https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg"
+    },
+    {
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Liquits",
+          "url": "https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 204440,
+      "name": "No Me Digas Que Te Vas (feat. Liquits)",
+      "url": "https://open.spotify.com/track/3R6hm07kmnyFTKAqtjI6D0"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "No Me Vayas a Dejar",
+      "url": "https://open.spotify.com/track/15WIt660rRzkOZxD6w5h8T"
+    },
+    {
+      "album": {
+        "name": "Ni Carne Ni Pescado",
+        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 160253,
+      "name": "No S\u00e9 Porque",
+      "url": "https://open.spotify.com/track/3aElJpnMXSNwF2SmjiDFSA"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "No Te Recuerdo",
+      "url": "https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi"
+    },
+    {
+      "album": {
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286733,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484893,
+      "name": "Peque\u00f1o Tratado de un Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3wnYJQgekSJTh52hrEYIfr"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240373,
+      "name": "Que Pasar\u00e1",
+      "url": "https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3"
+    },
+    {
+      "album": {
+        "name": "Ni Carne Ni Pescado",
+        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Quiero Bailar Contigo",
+      "url": "https://open.spotify.com/track/43uYpVAeYnZF7XCED74Mbx"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Seguir Bailando",
+      "url": "https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 271760,
+      "name": "Si el Norte Fuera el Sur - New Version",
+      "url": "https://open.spotify.com/track/4UXsDzTMi14CsbtrSWcJqG"
+    },
+    {
+      "album": {
+        "name": "Si Una Vez",
+        "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
+    },
+    {
+      "album": {
+        "name": "Sobrevivir\u00e9",
+        "url": "https://open.spotify.com/album/0QStKql1TfAGFQhHbt9cUF"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/6gVV28leSTAI70fV8fVP7L"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Te Vas a Acordar de M\u00ed",
+      "url": "https://open.spotify.com/track/26wc2F3aJGvc5SJgKt7Xt8"
+    },
+    {
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Toloache Pa Mi Negra",
+      "url": "https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 218280,
+      "name": "Toloache Pa' Mi Negra - En Vivo",
+      "url": "https://open.spotify.com/track/6XEbIRw3DVFb6vQftaewOD"
+    },
+    {
+      "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321120,
+      "name": "Un Derecho de Nacimiento",
+      "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
+    },
+    {
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "Veinticinco Rosas",
+      "url": "https://open.spotify.com/track/7wEKVEEo4Vmn1qNvL7AZNf"
+    },
+    {
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "album": {
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "Viernes de Webeo - En Vivo",
+      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
+    },
+    {
+      "album": {
+        "name": "Vivir As\u00ed Es Morir de Amor",
+        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xEkN2"
 }

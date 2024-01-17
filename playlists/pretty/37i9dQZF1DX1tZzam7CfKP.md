@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,867 likes - 57 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,051 likes - 57 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 35 | [Go To Get U](https://open.spotify.com/track/58IwHVlZlWdg11xd3vPqS2) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 7:08 |
 | 36 | [I'd Rather Be with You \- Live at the Jungle Club, Tokyo, Japan \- June 24\-25, 1994](https://open.spotify.com/track/7Dn7yycQFGzJMBwq8zfO8G) | [Bootsy Collins & Bootsy's New Rubber Band](https://open.spotify.com/artist/5Wj8mwGO6qZ8lftylNOKps) | [Keepin' Dah Funk "Alive" 4\-1995](https://open.spotify.com/album/7xW4pkkyyZAc9MZM7qA7pu) | 10:46 |
 | 37 | [Hot Water](https://open.spotify.com/track/2uL67j1DunxRYVCCPfc7qt) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [A Physical Presence](https://open.spotify.com/album/4hnSzFX9VuuHmzj1Nuo6bx) | 6:24 |
-| 38 | [Changing Times \- Live](https://open.spotify.com/track/3XYujZJHWpgL9wK8Ulpeyx) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Live In New Orleans](https://open.spotify.com/album/22A6N52pYOMO0a7SV5aGcz) | 5:10 |
+| 38 | [Changing Times \- Live](https://open.spotify.com/track/3XYujZJHWpgL9wK8Ulpeyx) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Live In New Orleans \(Expanded Edition\)](https://open.spotify.com/album/22A6N52pYOMO0a7SV5aGcz) | 5:10 |
 | 39 | [Cosmic Sans \(Syncopate & Motivate Live\)](https://open.spotify.com/track/2ANnYIAJOzJWJWOLvL2Y1y) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Syncopate & Motivate Tour \(Set 1\)](https://open.spotify.com/album/4e3jwkTC8elSXhuAItnuLy) | 3:31 |
 | 40 | [\(Do The\) Push And Pull \- Pt\. 1 / Live At P.J.'s / 1970](https://open.spotify.com/track/1oOzKnZ3lRULFpVrRgEGP5) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Doing The Push And Pull At PJ's \(Live At P.J.'s / 1970\)](https://open.spotify.com/album/7DB6AHZps0sBoZv5nf3jSu) | 5:12 |
 | 41 | [Dr\. Funkenstein's Supergroovalisticprosifunkstication Medley \- Live/1977](https://open.spotify.com/track/3ZuK6t3vXaJ0BXZKtG77BZ) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Live: P Funk Earth Tour](https://open.spotify.com/album/4IXQ7jxYm9gUoGAccnDEAY) | 4:58 |

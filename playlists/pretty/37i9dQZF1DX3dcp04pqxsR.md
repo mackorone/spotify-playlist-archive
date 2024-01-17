@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,363 likes - 116 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,450 likes - 116 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 | 115 | [Gentle Box Fan Breeze for Sleep](https://open.spotify.com/track/7eLfJLLi6z0cKsCjElmLrR) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 2:05 |
 | 116 | [Air Circulator](https://open.spotify.com/track/5MxdCk2Xuf3FJFIlFPjNaM) | [Drowse Off](https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG) | [Air Circulator](https://open.spotify.com/album/3y6cbkSQKYq7FPB5wZ0MNZ) | 2:46 |
 
-Snapshot ID: `MCxmNjkzZWQ2M2JiZGI5MzMzNGQ1ZWQ2ZGUyNTk0YjYyZWJmOWJlMDM4`
+Snapshot ID: `MCwzZDQ1MjlkYTk4MTE1MzEwZTQ0NzZmZDYxMGQxOWYxYTAzYTFiNTgw`

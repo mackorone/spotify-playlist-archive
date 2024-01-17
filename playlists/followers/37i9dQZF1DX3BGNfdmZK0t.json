@@ -1,732 +1,1847 @@
 {
-  "2021-12-28": 13597,
-  "2021-12-29": 13619,
-  "2021-12-30": 13627,
-  "2021-12-31": 13637,
-  "2022-01-01": 13662,
-  "2022-01-02": 13668,
-  "2022-01-03": 13677,
-  "2022-01-04": 13690,
-  "2022-01-05": 13702,
-  "2022-01-06": 13710,
-  "2022-01-07": 13717,
-  "2022-01-08": 13739,
-  "2022-01-09": 13739,
-  "2022-01-10": 13755,
-  "2022-01-11": 13757,
-  "2022-01-12": 13765,
-  "2022-01-13": 13765,
-  "2022-01-14": 13765,
-  "2022-01-15": 13765,
-  "2022-01-16": 13765,
-  "2022-01-17": 13765,
-  "2022-01-18": 13765,
-  "2022-01-19": 13765,
-  "2022-01-20": 13765,
-  "2022-01-21": 13765,
-  "2022-01-22": 13765,
-  "2022-01-23": 13765,
-  "2022-01-24": 13765,
-  "2022-01-25": 13765,
-  "2022-01-26": 13765,
-  "2022-01-27": 13765,
-  "2022-01-28": 13765,
-  "2022-01-29": 13765,
-  "2022-01-30": 13765,
-  "2022-01-31": 13765,
-  "2022-02-01": 13765,
-  "2022-02-02": 13765,
-  "2022-02-03": 13765,
-  "2022-02-04": 13765,
-  "2022-02-05": 13765,
-  "2022-02-06": 13765,
-  "2022-02-07": 13765,
-  "2022-02-08": 13765,
-  "2022-02-09": 13765,
-  "2022-02-10": 13765,
-  "2022-02-11": 13765,
-  "2022-02-12": 13765,
-  "2022-02-13": 13765,
-  "2022-02-14": 13765,
-  "2022-02-15": 13765,
-  "2022-02-16": 13765,
-  "2022-02-17": 13765,
-  "2022-02-18": 13765,
-  "2022-02-19": 13765,
-  "2022-02-20": 13765,
-  "2022-02-21": 13765,
-  "2022-02-22": 13765,
-  "2022-02-23": 13765,
-  "2022-02-24": 13765,
-  "2022-02-25": 13765,
-  "2022-02-26": 13765,
-  "2022-02-27": 13765,
-  "2022-02-28": 13765,
-  "2022-03-01": 13765,
-  "2022-03-02": 13765,
-  "2022-03-03": 13765,
-  "2022-03-04": 13765,
-  "2022-03-05": 13765,
-  "2022-03-06": 13765,
-  "2022-03-07": 13765,
-  "2022-03-08": 13765,
-  "2022-03-09": 13765,
-  "2022-03-10": 13765,
-  "2022-03-11": 13765,
-  "2022-03-12": 13765,
-  "2022-03-13": 13765,
-  "2022-03-14": 13765,
-  "2022-03-15": 13765,
-  "2022-03-16": 13765,
-  "2022-03-17": 13765,
-  "2022-03-18": 13765,
-  "2022-03-19": 13765,
-  "2022-03-20": 13765,
-  "2022-03-21": 13765,
-  "2022-03-22": 13765,
-  "2022-03-23": 13765,
-  "2022-03-24": 13765,
-  "2022-03-25": 13765,
-  "2022-03-26": 13765,
-  "2022-03-27": 13765,
-  "2022-03-28": 13765,
-  "2022-03-30": 13765,
-  "2022-03-31": 13765,
-  "2022-04-01": 13765,
-  "2022-04-02": 13765,
-  "2022-04-03": 13765,
-  "2022-04-04": 13765,
-  "2022-04-05": 13765,
-  "2022-04-06": 13765,
-  "2022-04-07": 13765,
-  "2022-04-08": 13765,
-  "2022-04-09": 13765,
-  "2022-04-10": 13765,
-  "2022-04-11": 13765,
-  "2022-04-12": 13765,
-  "2022-04-13": 13765,
-  "2022-04-14": 13765,
-  "2022-04-15": 13765,
-  "2022-04-16": 13765,
-  "2022-04-17": 13765,
-  "2022-04-18": 13765,
-  "2022-04-19": 13765,
-  "2022-04-20": 13765,
-  "2022-04-21": 13765,
-  "2022-04-22": 13765,
-  "2022-04-23": 13765,
-  "2022-04-24": 13765,
-  "2022-04-25": 13765,
-  "2022-04-26": 13765,
-  "2022-04-27": 13765,
-  "2022-04-28": 13765,
-  "2022-04-29": 13765,
-  "2022-04-30": 13765,
-  "2022-05-01": 13765,
-  "2022-05-02": 13765,
-  "2022-05-03": 13765,
-  "2022-05-04": 13765,
-  "2022-05-05": 13765,
-  "2022-05-06": 13765,
-  "2022-05-07": 13765,
-  "2022-05-08": 13765,
-  "2022-05-09": 13765,
-  "2022-05-10": 13765,
-  "2022-05-11": 13765,
-  "2022-05-12": 13765,
-  "2022-05-13": 13765,
-  "2022-05-14": 13765,
-  "2022-05-15": 13765,
-  "2022-05-16": 13765,
-  "2022-05-17": 13765,
-  "2022-05-18": 13765,
-  "2022-05-19": 13765,
-  "2022-05-20": 13765,
-  "2022-05-21": 13765,
-  "2022-05-22": 13765,
-  "2022-05-23": 13765,
-  "2022-05-24": 13765,
-  "2022-05-25": 13765,
-  "2022-05-26": 13765,
-  "2022-05-27": 13765,
-  "2022-05-28": 13765,
-  "2022-05-29": 13765,
-  "2022-05-30": 13765,
-  "2022-05-31": 13765,
-  "2022-06-01": 13765,
-  "2022-06-02": 13765,
-  "2022-06-03": 13765,
-  "2022-06-04": 13765,
-  "2022-06-05": 13765,
-  "2022-06-06": 13765,
-  "2022-06-07": 13765,
-  "2022-06-08": 13765,
-  "2022-06-09": 13765,
-  "2022-06-10": 13765,
-  "2022-06-11": 13765,
-  "2022-06-12": 13765,
-  "2022-06-13": 13765,
-  "2022-06-14": 13765,
-  "2022-06-15": 13765,
-  "2022-06-16": 13765,
-  "2022-06-17": 13765,
-  "2022-06-18": 13765,
-  "2022-06-19": 13765,
-  "2022-06-20": 13765,
-  "2022-06-21": 13765,
-  "2022-06-22": 13765,
-  "2022-06-23": 13765,
-  "2022-06-24": 13765,
-  "2022-06-25": 13765,
-  "2022-06-26": 13765,
-  "2022-06-27": 13765,
-  "2022-06-28": 13765,
-  "2022-06-29": 13765,
-  "2022-06-30": 13765,
-  "2022-07-01": 13765,
-  "2022-07-02": 13765,
-  "2022-07-03": 13765,
-  "2022-07-04": 13765,
-  "2022-07-05": 13765,
-  "2022-07-06": 13765,
-  "2022-07-07": 13765,
-  "2022-07-08": 13765,
-  "2022-07-09": 13765,
-  "2022-07-10": 13765,
-  "2022-07-11": 13765,
-  "2022-07-12": 13765,
-  "2022-07-13": 13765,
-  "2022-07-14": 13765,
-  "2022-07-15": 13765,
-  "2022-07-16": 13765,
-  "2022-07-17": 13765,
-  "2022-07-18": 13765,
-  "2022-07-19": 13765,
-  "2022-07-20": 13765,
-  "2022-07-21": 13765,
-  "2022-07-22": 13765,
-  "2022-07-23": 13765,
-  "2022-07-24": 13765,
-  "2022-07-25": 13765,
-  "2022-07-26": 13765,
-  "2022-07-27": 13765,
-  "2022-07-28": 13765,
-  "2022-07-29": 13765,
-  "2022-07-30": 13765,
-  "2022-07-31": 13765,
-  "2022-08-01": 13765,
-  "2022-08-02": 13765,
-  "2022-08-03": 13765,
-  "2022-08-04": 13765,
-  "2022-08-05": 13765,
-  "2022-08-06": 13765,
-  "2022-08-07": 13765,
-  "2022-08-08": 13765,
-  "2022-08-09": 13765,
-  "2022-08-10": 13765,
-  "2022-08-11": 13765,
-  "2022-08-12": 13765,
-  "2022-08-13": 13765,
-  "2022-08-14": 13765,
-  "2022-08-15": 13765,
-  "2022-08-16": 13765,
-  "2022-08-17": 13765,
-  "2022-08-18": 13765,
-  "2022-08-19": 13765,
-  "2022-08-20": 13765,
-  "2022-08-21": 13765,
-  "2022-08-22": 13765,
-  "2022-08-23": 13765,
-  "2022-08-24": 13765,
-  "2022-08-25": 13765,
-  "2022-08-26": 13765,
-  "2022-08-27": 13765,
-  "2022-08-28": 13765,
-  "2022-08-29": 13765,
-  "2022-08-30": 13765,
-  "2022-08-31": 13765,
-  "2022-09-01": 13765,
-  "2022-09-02": 13765,
-  "2022-09-03": 13765,
-  "2022-09-04": 13765,
-  "2022-09-05": 13765,
-  "2022-09-06": 13765,
-  "2022-09-07": 13765,
-  "2022-09-09": 13765,
-  "2022-09-10": 13765,
-  "2022-09-11": 13765,
-  "2022-09-12": 13765,
-  "2022-09-13": 13765,
-  "2022-09-15": 13765,
-  "2022-09-16": 13765,
-  "2022-09-17": 13765,
-  "2022-09-18": 13765,
-  "2022-09-19": 13765,
-  "2022-09-20": 13765,
-  "2022-09-21": 13765,
-  "2022-09-22": 13765,
-  "2022-09-23": 13765,
-  "2022-09-24": 13765,
-  "2022-09-25": 13765,
-  "2022-09-26": 13765,
-  "2022-09-27": 13765,
-  "2022-09-28": 13765,
-  "2022-09-29": 13765,
-  "2022-09-30": 13765,
-  "2022-10-01": 13765,
-  "2022-10-02": 13765,
-  "2022-10-03": 13765,
-  "2022-10-04": 13765,
-  "2022-10-05": 13765,
-  "2022-10-06": 13765,
-  "2022-10-07": 13765,
-  "2022-10-08": 13765,
-  "2022-10-09": 13765,
-  "2022-10-10": 13765,
-  "2022-10-11": 13765,
-  "2022-10-12": 13765,
-  "2022-10-13": 13765,
-  "2022-10-14": 13765,
-  "2022-10-15": 13765,
-  "2022-10-16": 13765,
-  "2022-10-17": 13765,
-  "2022-10-18": 13765,
-  "2022-10-19": 13765,
-  "2022-10-20": 13765,
-  "2022-10-21": 13765,
-  "2022-10-22": 13765,
-  "2022-10-23": 13765,
-  "2022-10-24": 13765,
-  "2022-10-25": 13765,
-  "2022-10-26": 13765,
-  "2022-10-27": 13765,
-  "2022-10-28": 13765,
-  "2022-10-29": 13765,
-  "2022-10-30": 13765,
-  "2022-10-31": 13765,
-  "2022-11-01": 13765,
-  "2022-11-02": 13765,
-  "2022-11-03": 13765,
-  "2022-11-04": 13765,
-  "2022-11-05": 13765,
-  "2022-11-06": 13765,
-  "2022-11-07": 13765,
-  "2022-11-08": 13765,
-  "2022-11-09": 13765,
-  "2022-11-10": 13765,
-  "2022-11-11": 13765,
-  "2022-11-12": 13765,
-  "2022-11-13": 13765,
-  "2022-11-14": 13765,
-  "2022-11-15": 13765,
-  "2022-11-16": 13765,
-  "2022-11-17": 13765,
-  "2022-11-18": 13765,
-  "2022-11-19": 13765,
-  "2022-11-20": 13765,
-  "2022-11-21": 13765,
-  "2022-11-22": 13765,
-  "2022-11-23": 13765,
-  "2022-11-24": 13765,
-  "2022-11-25": 13765,
-  "2022-11-26": 13765,
-  "2022-11-27": 13765,
-  "2022-11-28": 13765,
-  "2022-11-29": 13765,
-  "2022-11-30": 13765,
-  "2022-12-01": 13765,
-  "2022-12-02": 13765,
-  "2022-12-03": 13765,
-  "2022-12-04": 13765,
-  "2022-12-05": 13765,
-  "2022-12-06": 13765,
-  "2022-12-07": 13765,
-  "2022-12-08": 13765,
-  "2022-12-09": 13765,
-  "2022-12-10": 13765,
-  "2022-12-11": 13765,
-  "2022-12-12": 13765,
-  "2022-12-13": 13765,
-  "2022-12-14": 13765,
-  "2022-12-15": 13765,
-  "2022-12-16": 13765,
-  "2022-12-17": 13765,
-  "2022-12-18": 13765,
-  "2022-12-19": 13765,
-  "2022-12-20": 13765,
-  "2022-12-21": 13765,
-  "2022-12-22": 13765,
-  "2022-12-24": 13765,
-  "2022-12-25": 13765,
-  "2022-12-26": 13765,
-  "2022-12-27": 13765,
-  "2022-12-28": 13765,
-  "2022-12-29": 13765,
-  "2022-12-30": 13765,
-  "2022-12-31": 13765,
-  "2023-01-01": 13765,
-  "2023-01-02": 13765,
-  "2023-01-03": 13765,
-  "2023-01-04": 13765,
-  "2023-01-05": 13765,
-  "2023-01-06": 13765,
-  "2023-01-07": 13765,
-  "2023-01-08": 13765,
-  "2023-01-09": 13765,
-  "2023-01-10": 13765,
-  "2023-01-11": 13765,
-  "2023-01-12": 13765,
-  "2023-01-13": 13765,
-  "2023-01-14": 13765,
-  "2023-01-15": 13765,
-  "2023-01-16": 13765,
-  "2023-01-17": 13765,
-  "2023-01-18": 13765,
-  "2023-01-19": 13765,
-  "2023-01-20": 13765,
-  "2023-01-21": 13765,
-  "2023-01-22": 13765,
-  "2023-01-23": 13765,
-  "2023-01-24": 13765,
-  "2023-01-25": 13765,
-  "2023-01-26": 13765,
-  "2023-01-27": 13765,
-  "2023-01-28": 13765,
-  "2023-01-29": 13765,
-  "2023-01-30": 13765,
-  "2023-01-31": 13765,
-  "2023-02-01": 13765,
-  "2023-02-02": 13765,
-  "2023-02-03": 13765,
-  "2023-02-04": 13765,
-  "2023-02-05": 13765,
-  "2023-02-06": 13765,
-  "2023-02-07": 13765,
-  "2023-02-08": 13765,
-  "2023-02-09": 13765,
-  "2023-02-10": 13765,
-  "2023-02-11": 13765,
-  "2023-02-12": 13765,
-  "2023-02-13": 13765,
-  "2023-02-14": 13765,
-  "2023-02-15": 13765,
-  "2023-02-16": 13765,
-  "2023-02-17": 13765,
-  "2023-02-18": 13765,
-  "2023-02-19": 13765,
-  "2023-02-20": 13765,
-  "2023-02-21": 13765,
-  "2023-02-22": 13765,
-  "2023-02-23": 13765,
-  "2023-02-24": 13765,
-  "2023-02-25": 13765,
-  "2023-02-26": 13765,
-  "2023-02-27": 13765,
-  "2023-02-28": 13765,
-  "2023-03-01": 13765,
-  "2023-03-02": 13765,
-  "2023-03-03": 13765,
-  "2023-03-04": 13765,
-  "2023-03-05": 13765,
-  "2023-03-06": 13765,
-  "2023-03-07": 13765,
-  "2023-03-08": 13765,
-  "2023-03-09": 13765,
-  "2023-03-10": 13765,
-  "2023-03-11": 13765,
-  "2023-03-12": 13765,
-  "2023-03-13": 13765,
-  "2023-03-14": 13765,
-  "2023-03-15": 13765,
-  "2023-03-16": 13765,
-  "2023-03-17": 13765,
-  "2023-03-18": 13765,
-  "2023-03-19": 13765,
-  "2023-03-20": 13765,
-  "2023-03-21": 13765,
-  "2023-03-22": 13765,
-  "2023-03-23": 13765,
-  "2023-03-24": 13765,
-  "2023-03-25": 13765,
-  "2023-03-26": 13765,
-  "2023-03-27": 13765,
-  "2023-03-28": 13765,
-  "2023-03-29": 13765,
-  "2023-03-30": 13765,
-  "2023-03-31": 13765,
-  "2023-04-01": 13765,
-  "2023-04-02": 13765,
-  "2023-04-03": 13765,
-  "2023-04-04": 13765,
-  "2023-04-05": 13765,
-  "2023-04-06": 13765,
-  "2023-04-07": 13765,
-  "2023-04-09": 13765,
-  "2023-04-10": 13765,
-  "2023-04-11": 13765,
-  "2023-04-12": 13765,
-  "2023-04-13": 13765,
-  "2023-04-14": 13765,
-  "2023-04-15": 13765,
-  "2023-04-16": 13765,
-  "2023-04-17": 13765,
-  "2023-04-18": 13765,
-  "2023-04-19": 13765,
-  "2023-04-20": 13765,
-  "2023-04-21": 13765,
-  "2023-04-22": 13765,
-  "2023-04-23": 13765,
-  "2023-04-24": 13765,
-  "2023-04-25": 13765,
-  "2023-04-26": 13765,
-  "2023-04-27": 13765,
-  "2023-04-28": 13765,
-  "2023-04-29": 13765,
-  "2023-04-30": 13765,
-  "2023-05-01": 13765,
-  "2023-05-02": 13765,
-  "2023-05-03": 13765,
-  "2023-05-04": 13765,
-  "2023-05-05": 13765,
-  "2023-05-06": 13765,
-  "2023-05-07": 13765,
-  "2023-05-08": 13765,
-  "2023-05-09": 13765,
-  "2023-05-10": 13765,
-  "2023-05-11": 13765,
-  "2023-05-12": 13765,
-  "2023-05-13": 13765,
-  "2023-05-14": 13765,
-  "2023-05-15": 13765,
-  "2023-05-16": 13765,
-  "2023-05-17": 13765,
-  "2023-05-18": 13765,
-  "2023-05-19": 13765,
-  "2023-05-20": 13765,
-  "2023-05-21": 13765,
-  "2023-05-22": 13765,
-  "2023-05-23": 13765,
-  "2023-05-24": 13765,
-  "2023-05-25": 13765,
-  "2023-05-26": 13765,
-  "2023-05-27": 13765,
-  "2023-05-28": 13765,
-  "2023-05-29": 13765,
-  "2023-05-30": 13765,
-  "2023-05-31": 13765,
-  "2023-06-01": 13765,
-  "2023-06-02": 13765,
-  "2023-06-03": 13765,
-  "2023-06-04": 13765,
-  "2023-06-05": 13765,
-  "2023-06-06": 13765,
-  "2023-06-07": 13765,
-  "2023-06-08": 13765,
-  "2023-06-09": 13765,
-  "2023-06-10": 13765,
-  "2023-06-11": 13765,
-  "2023-06-12": 13765,
-  "2023-06-13": 13765,
-  "2023-06-14": 13765,
-  "2023-06-15": 13765,
-  "2023-06-16": 13765,
-  "2023-06-17": 13765,
-  "2023-06-18": 13765,
-  "2023-06-19": 13765,
-  "2023-06-20": 13765,
-  "2023-06-21": 13765,
-  "2023-06-22": 13765,
-  "2023-06-23": 13765,
-  "2023-06-24": 13765,
-  "2023-06-25": 13765,
-  "2023-06-26": 13765,
-  "2023-06-27": 13765,
-  "2023-06-28": 13765,
-  "2023-06-29": 13765,
-  "2023-06-30": 13765,
-  "2023-07-01": 13765,
-  "2023-07-02": 13765,
-  "2023-07-03": 13765,
-  "2023-07-04": 13765,
-  "2023-07-05": 13765,
-  "2023-07-06": 13765,
-  "2023-07-07": 13765,
-  "2023-07-08": 13765,
-  "2023-07-09": 13765,
-  "2023-07-10": 13765,
-  "2023-07-11": 13765,
-  "2023-07-12": 13765,
-  "2023-07-13": 13765,
-  "2023-07-14": 13765,
-  "2023-07-15": 13765,
-  "2023-07-16": 13765,
-  "2023-07-17": 13765,
-  "2023-07-18": 13765,
-  "2023-07-19": 13765,
-  "2023-07-20": 13765,
-  "2023-07-21": 13765,
-  "2023-07-22": 13765,
-  "2023-07-23": 13765,
-  "2023-07-24": 13765,
-  "2023-07-25": 13765,
-  "2023-07-26": 13765,
-  "2023-07-27": 13765,
-  "2023-07-28": 13765,
-  "2023-07-29": 13765,
-  "2023-07-30": 13765,
-  "2023-07-31": 13765,
-  "2023-08-01": 13765,
-  "2023-08-02": 13765,
-  "2023-08-03": 13765,
-  "2023-08-04": 13765,
-  "2023-08-05": 13765,
-  "2023-08-06": 13765,
-  "2023-08-07": 13765,
-  "2023-08-08": 13765,
-  "2023-08-09": 13765,
-  "2023-08-10": 13765,
-  "2023-08-11": 13765,
-  "2023-08-12": 13765,
-  "2023-08-13": 13765,
-  "2023-08-14": 13765,
-  "2023-08-15": 13765,
-  "2023-08-16": 13765,
-  "2023-08-17": 13765,
-  "2023-08-18": 13765,
-  "2023-08-19": 13765,
-  "2023-08-20": 13765,
-  "2023-08-21": 13765,
-  "2023-08-22": 13765,
-  "2023-08-23": 13765,
-  "2023-08-24": 13765,
-  "2023-08-25": 13765,
-  "2023-08-26": 13765,
-  "2023-08-27": 13765,
-  "2023-08-28": 13765,
-  "2023-08-29": 13765,
-  "2023-08-30": 13765,
-  "2023-08-31": 13765,
-  "2023-09-01": 13765,
-  "2023-09-02": 13765,
-  "2023-09-03": 13765,
-  "2023-09-04": 13765,
-  "2023-09-05": 13765,
-  "2023-09-06": 13765,
-  "2023-09-07": 13765,
-  "2023-09-08": 13765,
-  "2023-09-09": 13765,
-  "2023-09-10": 13765,
-  "2023-09-11": 13765,
-  "2023-09-12": 13765,
-  "2023-09-13": 13765,
-  "2023-09-14": 13765,
-  "2023-09-15": 13765,
-  "2023-09-16": 13765,
-  "2023-09-17": 13765,
-  "2023-09-18": 13765,
-  "2023-09-19": 13765,
-  "2023-09-20": 13765,
-  "2023-09-21": 13765,
-  "2023-09-22": 13765,
-  "2023-09-23": 13765,
-  "2023-09-24": 13765,
-  "2023-09-25": 13765,
-  "2023-09-26": 13765,
-  "2023-09-27": 13765,
-  "2023-09-28": 13765,
-  "2023-09-29": 13765,
-  "2023-09-30": 13765,
-  "2023-10-01": 13765,
-  "2023-10-02": 13765,
-  "2023-10-03": 13765,
-  "2023-10-04": 13765,
-  "2023-10-05": 13765,
-  "2023-10-06": 13765,
-  "2023-10-07": 13765,
-  "2023-10-08": 13765,
-  "2023-10-09": 13765,
-  "2023-10-10": 13765,
-  "2023-10-11": 13765,
-  "2023-10-12": 13765,
-  "2023-10-13": 13765,
-  "2023-10-14": 13765,
-  "2023-10-15": 13765,
-  "2023-10-16": 13765,
-  "2023-10-17": 13765,
-  "2023-10-18": 13765,
-  "2023-10-19": 13765,
-  "2023-10-20": 13765,
-  "2023-10-21": 13765,
-  "2023-10-22": 13765,
-  "2023-10-23": 13765,
-  "2023-10-24": 13765,
-  "2023-10-25": 13765,
-  "2023-10-26": 13765,
-  "2023-10-27": 13765,
-  "2023-10-28": 13765,
-  "2023-10-29": 13765,
-  "2023-10-30": 13765,
-  "2023-10-31": 13765,
-  "2023-11-01": 13765,
-  "2023-11-02": 13765,
-  "2023-11-03": 13765,
-  "2023-11-04": 13765,
-  "2023-11-05": 13765,
-  "2023-11-06": 13765,
-  "2023-11-07": 13765,
-  "2023-11-08": 13765,
-  "2023-11-09": 13765,
-  "2023-11-10": 13765,
-  "2023-11-11": 13765,
-  "2023-11-12": 13765,
-  "2023-11-13": 13765,
-  "2023-11-14": 13765,
-  "2023-11-15": 13765,
-  "2023-11-16": 13765,
-  "2023-11-17": 13765,
-  "2023-11-18": 13765,
-  "2023-11-19": 13765,
-  "2023-11-20": 13765,
-  "2023-11-21": 13765,
-  "2023-11-22": 13765,
-  "2023-11-23": 13765,
-  "2023-11-24": 13765,
-  "2023-11-25": 13765,
-  "2023-11-26": 13765,
-  "2023-11-27": 13765,
-  "2023-11-28": 13765,
-  "2023-11-29": 13765,
-  "2023-11-30": 13765,
-  "2023-12-01": 13765,
-  "2023-12-02": 13765,
-  "2023-12-03": 13765,
-  "2023-12-04": 13765,
-  "2023-12-05": 13765,
-  "2023-12-06": 13765,
-  "2023-12-07": 13765,
-  "2023-12-08": 13765,
-  "2023-12-09": 13765,
-  "2023-12-10": 13765,
-  "2023-12-11": 13765,
-  "2023-12-12": 13765,
-  "2023-12-13": 13765,
-  "2023-12-14": 13765,
-  "2023-12-15": 13765,
-  "2023-12-16": 13765,
-  "2023-12-17": 13765,
-  "2023-12-18": 13765,
-  "2023-12-19": 13765,
-  "2023-12-20": 13765,
-  "2023-12-21": 13765,
-  "2023-12-22": 13765,
-  "2023-12-23": 13765,
-  "2023-12-24": 13765,
-  "2023-12-25": 13765,
-  "2023-12-26": 13765,
-  "2023-12-27": 13765,
-  "2023-12-30": 13765,
-  "2023-12-31": 13765,
-  "2024-01-01": 13765,
-  "2024-01-02": 13765,
-  "2024-01-03": 13765
+  "2024-01-17": 13765,
+  "date_first_scraped": "2021-12-28",
+  "description": "Your essential collection of music by the visionary <a href=\"spotify:artist:1EI0NtLHoh9KBziYCeN1vM\">artist</a>, all in a single playlist.",
+  "name": "This Is Rhiannon Giddens",
+  "tracks": [
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351506,
+      "name": "A La Claire Fontaine",
+      "url": "https://open.spotify.com/track/5RThjglgyd8IZotRlH3DNo"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355133,
+      "name": "A La Una Yo Naci",
+      "url": "https://open.spotify.com/track/5DmPGq6rnI7QdpM3GOuG7g"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279493,
+      "name": "Ae Fond Kiss",
+      "url": "https://open.spotify.com/track/1GS58sYcGXGZ26LIplL3tk"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "All The Pretty Horses",
+      "url": "https://open.spotify.com/track/1nlc4TRXr6a2PusswTi27R"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Amazing Grace (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/35TTy2nBEZgPX19IIDmnIY"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Angel City",
+      "url": "https://open.spotify.com/track/02qVVQ7O2alkXbK2C2nJdr"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234826,
+      "name": "Avalon (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268813,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/6Pf2VHx74jSlWUnH4bPwOV"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352226,
+      "name": "Barbados",
+      "url": "https://open.spotify.com/track/56oirbY0QtBqbCtulakZLD"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Better Get It Right the First Time",
+      "url": "https://open.spotify.com/track/3uj2eCWwCooyJUG7BMs90l"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "Better Git Yer Learnin'",
+      "url": "https://open.spotify.com/track/6Wd4Zls45h8TErPhoIRGh6"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373400,
+      "name": "Birmingham Sunday",
+      "url": "https://open.spotify.com/track/1HyNbsA604ljpkKRxuBI9t"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Black Is the Color",
+      "url": "https://open.spotify.com/track/3nXYzISBAEsf9ORiEkGCUv"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285080,
+      "name": "Blood and Bones",
+      "url": "https://open.spotify.com/track/0jtoso7GgW8DLtpvb5GeZX"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "album": {
+        "name": "Can't Nobody Do Me Like Jesus",
+        "url": "https://open.spotify.com/album/5pNlJwQt1j0FLAfTFYLaIf"
+      },
+      "artists": [
+        {
+          "name": "Nashville Cast",
+          "url": "https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Can't Nobody Do Me Like Jesus",
+      "url": "https://open.spotify.com/track/3d615D5Tkcpa6sGcTVMA7c"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274560,
+      "name": "Candles In The Dark",
+      "url": "https://open.spotify.com/track/4D3zcGlFmFwf1fd2IgkBbH"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282306,
+      "name": "Cliffs Dog",
+      "url": "https://open.spotify.com/track/1J7nzz2TpENhxowPurtsSo"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319693,
+      "name": "Come Love Come",
+      "url": "https://open.spotify.com/track/3VMgj5W7ui3LIbf3XYc8WB"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219586,
+      "name": "Don't Let It Trouble Your Mind",
+      "url": "https://open.spotify.com/track/31WJTLhOblG50rk9df1fSa"
+    },
+    {
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249440,
+      "name": "Duncan And Jimmy",
+      "url": "https://open.spotify.com/track/6G40ZJEqYjyeSTDch7pktA"
+    },
+    {
+      "album": {
+        "name": "Factory Girl",
+        "url": "https://open.spotify.com/album/0zMCzVNAEtgPbKMiifTfjt"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418816,
+      "name": "Factory Girl",
+      "url": "https://open.spotify.com/track/4NEHHh9NL8r1nB5WtJIrhs"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322440,
+      "name": "First Of May",
+      "url": "https://open.spotify.com/track/2tvnwe4Oj3XzRmSGzJQkhj"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115600,
+      "name": "Following the North Star",
+      "url": "https://open.spotify.com/track/7av2Q9DKF3PORigDkRfg8G"
+    },
+    {
+      "album": {
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289586,
+      "name": "Freedom Highway",
+      "url": "https://open.spotify.com/track/33Q4hq4ke3M9oRXQbL2mMD"
+    },
+    {
+      "album": {
+        "name": "Georgia Buck",
+        "url": "https://open.spotify.com/album/6MP8MY8OtBjO6HG4ixPVwU"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Georgia Buck",
+      "url": "https://open.spotify.com/track/0tTegJjvQT27ny45V4HZRg"
+    },
+    {
+      "album": {
+        "name": "The Music Of Nashville Original Soundtrack Season 5 Volume 1",
+        "url": "https://open.spotify.com/album/09OGpPypsOmPe34w0yrD4C"
+      },
+      "artists": [
+        {
+          "name": "Nashville Cast",
+          "url": "https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "God Shall Wipe All Tears Away",
+      "url": "https://open.spotify.com/track/7mkn72EUZ8OONrmk9zyGzZ"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247813,
+      "name": "Griogal Cridhe",
+      "url": "https://open.spotify.com/track/6yPvEhqclFVmZaH62s4rWE"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "Henry Martin",
+      "url": "https://open.spotify.com/track/5ByjwRjd0rCGQrsjuQZbEq"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Hey B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/7nWmIAFKlSaelEeKd4zcFI"
+    },
+    {
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "Hidee Hidee Ho #11",
+      "url": "https://open.spotify.com/track/72WUk3Kx7BvGtCXsc6SnjQ"
+    },
+    {
+      "album": {
+        "name": "His Eye Is On The Sparrow",
+        "url": "https://open.spotify.com/album/7b6sTHTeyudzyDWrCOzHNA"
+      },
+      "artists": [
+        {
+          "name": "Nashville Cast",
+          "url": "https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138546,
+      "name": "His Eye Is On The Sparrow",
+      "url": "https://open.spotify.com/track/1U3grvYKshfyTfzAqTmayu"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298520,
+      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+    },
+    {
+      "album": {
+        "name": "I'm On My Way (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/2LWahOfFJFnsu3B84Py3LF"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177616,
+      "name": "I'm On My Way (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/5VCNDKGxRZdowUugsgCWBR"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342080,
+      "name": "In A Garden So Green",
+      "url": "https://open.spotify.com/track/1mMSFNRTFGe1GWwwjcpuLz"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/62B91ZYM5KtmKrgLv7hE0Y"
+    },
+    {
+      "album": {
+        "name": "A Bottle of Whiskey and a Handful of Bees",
+        "url": "https://open.spotify.com/album/5e2VJqxBZygfoOaZKWF0kM"
+      },
+      "artists": [
+        {
+          "name": "Sxip Shirey",
+          "url": "https://open.spotify.com/artist/6jnaG9e4rUwREjJq4HCFff"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244346,
+      "name": "Just Drive By, Firefly",
+      "url": "https://open.spotify.com/track/40TMNFgcuCjc6eUgDwaVRh"
+    },
+    {
+      "album": {
+        "name": "Folk Songs",
+        "url": "https://open.spotify.com/album/2ZSxyiSmqmpeC5I2D2XrnQ"
+      },
+      "artists": [
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Last Kind Words",
+      "url": "https://open.spotify.com/track/7iuEHuc8qfBr2udHjL3n31"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "Last Kind Words",
+      "url": "https://open.spotify.com/track/2z1iS1IMmXPjX9kPLfbYqm"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Little Margaret",
+      "url": "https://open.spotify.com/track/1E3bXQ6ErnbnSYZCOk3S4n"
+    },
+    {
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Lost On The River #20",
+      "url": "https://open.spotify.com/track/4vjRBnkX7kg8fQYgu5CjRU"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264413,
+      "name": "Lowlands Low",
+      "url": "https://open.spotify.com/track/2PkNjZAyZRDY6VxG3C2Mvc"
+    },
+    {
+      "album": {
+        "name": "Folk Songs",
+        "url": "https://open.spotify.com/album/2ZSxyiSmqmpeC5I2D2XrnQ"
+      },
+      "artists": [
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/04vqTcYW90h9scnmzbbLwT"
+    },
+    {
+      "album": {
+        "name": "A Day for the Hunter, A Day for the Prey",
+        "url": "https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264008,
+      "name": "Manman (feat. Rhiannon Giddens)",
+      "url": "https://open.spotify.com/track/1D2ypihdVlSfgynV5tsG4E"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Moon Meets the Sun",
+      "url": "https://open.spotify.com/track/3ChXiHJMBXD6Lobxf7Yml4"
+    },
+    {
+      "album": {
+        "name": "Factory Girl",
+        "url": "https://open.spotify.com/album/0zMCzVNAEtgPbKMiifTfjt"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238616,
+      "name": "Moonshiner's Daughter",
+      "url": "https://open.spotify.com/track/7eDBpbBYo8pYzEWfYpiLBi"
+    },
+    {
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
+    },
+    {
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Mountain Hymn",
+      "url": "https://open.spotify.com/track/6wMkJ6KmhuN1oe1Kvtz7PN"
+    },
+    {
+      "album": {
+        "name": "Factory Girl",
+        "url": "https://open.spotify.com/album/0zMCzVNAEtgPbKMiifTfjt"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172833,
+      "name": "Mouth Music",
+      "url": "https://open.spotify.com/track/38MLxHAMpqcHygpMBuAvOl"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "Music and Joy",
+      "url": "https://open.spotify.com/track/6udpVzNsQW19XGuVYVaUPh"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Niwel Goes to Town (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/0cKADHQvxk9a2NHbZ1BfKQ"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272720,
+      "name": "O Love Is Teasin'",
+      "url": "https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw"
+    },
+    {
+      "album": {
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186813,
+      "name": "One Hour Mama",
+      "url": "https://open.spotify.com/track/7KhASuPR3TNVVSZlXEklxO"
+    },
+    {
+      "album": {
+        "name": "Yes We Can",
+        "url": "https://open.spotify.com/album/7rHkcn2iuD6YESDtbljZRG"
+      },
+      "artists": [
+        {
+          "name": "An Apple A Day",
+          "url": "https://open.spotify.com/artist/7M3qHKrHc8AmbQXeycX551"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Outside Man Blues",
+      "url": "https://open.spotify.com/track/4mNWrrjRok2k3ttp7LWGr3"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179786,
+      "name": "Polly Ann's Hammer",
+      "url": "https://open.spotify.com/track/0TW7CKQfR4Ps2mnjT2cmif"
+    },
+    {
+      "album": {
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161680,
+      "name": "Pretty Saro",
+      "url": "https://open.spotify.com/track/1JFK2xuTvxBUti1v3XZwD5"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "Quasheba, Quasheba",
+      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210120,
+      "name": "Round About the Mountain",
+      "url": "https://open.spotify.com/track/0dXTbIJcfOrRnIziJbwNTy"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/3SlFUXwTrlZsU23nVunpTG"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257440,
+      "name": "She's Got You",
+      "url": "https://open.spotify.com/track/1xPdkEDwsDeiZbiKKKZEps"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "Si Dolce \u00e8'l Tormento (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/6ctaFHtU1u8ZqrP3vBnuEQ"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281906,
+      "name": "Slave Driver",
+      "url": "https://open.spotify.com/track/2HgaSGckqUnn1UwkpTpDJ4"
+    },
+    {
+      "album": {
+        "name": "Sourwood Mountain",
+        "url": "https://open.spotify.com/album/4nUCkEpRPtLTk3bf9fEKxM"
+      },
+      "artists": [
+        {
+          "name": "Nashville Cast",
+          "url": "https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "Sourwood Mountain",
+      "url": "https://open.spotify.com/track/3pEcqTjbFssrsKSmNo4qJA"
+    },
+    {
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331320,
+      "name": "Spanish Mary",
+      "url": "https://open.spotify.com/track/4K3KUYzRu2KB6SCn21SrHF"
+    },
+    {
+      "album": {
+        "name": "Sing Me Home",
+        "url": "https://open.spotify.com/album/6ApeRSbhKgZ1gq1aryz6SE"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "The Silk Road Ensemble",
+          "url": "https://open.spotify.com/artist/33Jkw9vRz13pxeEU7zcump"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Michael Ward Bergeman",
+          "url": "https://open.spotify.com/artist/54XafLhCaiuwFDxu8Ox7wk"
+        },
+        {
+          "name": "Reylon Yount",
+          "url": "https://open.spotify.com/artist/2jecrit5lwGY3vXx8bCkim"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443200,
+      "name": "St. James Infirmary Blues (feat. Rhiannon Giddens, Michael Ward-Bergeman & Reylon Yount)",
+      "url": "https://open.spotify.com/track/4YY43IZ2JtGoYwiBQL0CLr"
+    },
+    {
+      "album": {
+        "name": "there is no Other (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/1NC1JxgjI6JFc3YR9JstXb"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177981,
+      "name": "Ten Thousand Voices (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/4grSOPg8wCu37gH9PHOSt0"
+    },
+    {
+      "album": {
+        "name": "Factory Girl",
+        "url": "https://open.spotify.com/album/0zMCzVNAEtgPbKMiifTfjt"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185621,
+      "name": "That Lonesome Road",
+      "url": "https://open.spotify.com/track/0BvcLdVY9oLPzph73e9uLm"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "The Angels Laid Him Away",
+      "url": "https://open.spotify.com/track/5S8r1BXLsDNmYqLsRpikRo"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257106,
+      "name": "The Love We Almost Had",
+      "url": "https://open.spotify.com/track/3isBgoSrEJmIHFbE6NerHF"
+    },
+    {
+      "album": {
+        "name": "The Great Irish Songbook",
+        "url": "https://open.spotify.com/album/3xlfuV02p2ByzsLj8Rts1P"
+      },
+      "artists": [
+        {
+          "name": "Dervish",
+          "url": "https://open.spotify.com/artist/08DRTASY1wyduMevINkClA"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "The May Morning Dew",
+      "url": "https://open.spotify.com/track/68w4PVd9QNWkY7bvMFYaWK"
+    },
+    {
+      "album": {
+        "name": "Look Again to the Wind: Johnny Cash's Bitter Tears Revisited",
+        "url": "https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374840,
+      "name": "The Vanishing Race",
+      "url": "https://open.spotify.com/track/3HdJsIKm0jE8XS5oFWrlfX"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277146,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/6kAGS9uIovbx2GAtsjbgJ4"
+    },
+    {
+      "album": {
+        "name": "Factory Girl",
+        "url": "https://open.spotify.com/album/0zMCzVNAEtgPbKMiifTfjt"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229987,
+      "name": "Underneath the Harlem Moon",
+      "url": "https://open.spotify.com/track/4BYxJL4PYmzYAWES4JtJWs"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Up Above My Head",
+      "url": "https://open.spotify.com/track/36gnrlVIX9AMWjFN0JTh5I"
+    },
+    {
+      "album": {
+        "name": "All The Pretty Horses",
+        "url": "https://open.spotify.com/album/785hdKcmv9twCrQkKUElTV"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "The Elftones",
+          "url": "https://open.spotify.com/artist/3C2GzqJYKIkJiAaWK9ssTn"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158186,
+      "name": "Used To Be Bells",
+      "url": "https://open.spotify.com/track/5FfyG5pJq6Yud8bn5RbsZH"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Waterbound (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/6hm3iR9TjDa5FCfPhXrnXY"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Is My Turn",
+        "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Waterboy",
+      "url": "https://open.spotify.com/track/7JYIPbhXa6aNhaQ6GbkXBg"
+    },
+    {
+      "album": {
+        "name": "there is no Other (with Francesco Turrisi) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/6KI61E4x5f95xVkhly783t"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287417,
+      "name": "Wayfaring Stranger (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2njguLBr2BLfsRdHtg3WmT"
+    },
+    {
+      "album": {
+        "name": "there is no Other (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/1NC1JxgjI6JFc3YR9JstXb"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287417,
+      "name": "Wayfaring Stranger (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/6fVWRVu15YqA9yhd5hy9Bj"
+    },
+    {
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292773,
+      "name": "We Could Fly",
+      "url": "https://open.spotify.com/track/0kWLu3Bwq3thyd7inPDyvW"
+    },
+    {
+      "album": {
+        "name": "We Rise",
+        "url": "https://open.spotify.com/album/40UNn332KusUR0KIuT9f0w"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "We Rise - Original Mix",
+      "url": "https://open.spotify.com/track/63GV8gO5GpLgOs4SCw4jcy"
+    },
+    {
+      "album": {
+        "name": "Tunes from David Holt's State of Music 2",
+        "url": "https://open.spotify.com/album/0iFEx2Yki8fRU8PPV9V87e"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Dirk Powell",
+          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
+        },
+        {
+          "name": "Jason Sypher",
+          "url": "https://open.spotify.com/artist/3OULgWa2MMkXozRFBGzusX"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "West End Blues (Live)",
+      "url": "https://open.spotify.com/track/37trOu0EXcsSVdxsFiyUsQ"
+    },
+    {
+      "album": {
+        "name": "A Bottle of Whiskey and a Handful of Bees",
+        "url": "https://open.spotify.com/album/5e2VJqxBZygfoOaZKWF0kM"
+      },
+      "artists": [
+        {
+          "name": "Sxip Shirey",
+          "url": "https://open.spotify.com/artist/6jnaG9e4rUwREjJq4HCFff"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Woman of Constant Sorrow",
+      "url": "https://open.spotify.com/track/06i6pIrIVD2iG7NqzRwfzz"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336206,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3BGNfdmZK0t"
 }

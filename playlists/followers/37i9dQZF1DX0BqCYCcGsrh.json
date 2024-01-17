@@ -1,8 +1,1585 @@
 {
-  "2023-12-27": 238285,
-  "2023-12-30": 238410,
-  "2023-12-31": 238462,
-  "2024-01-01": 238500,
-  "2024-01-02": 238530,
-  "2024-01-03": 238573
+  "2024-01-17": 238557,
+  "date_first_scraped": "2023-12-27",
+  "description": "\u65e5\u672c\u306e\u30ed\u30c3\u30af\u30fb\u30b7\u30fc\u30f3\u306e\u4e2d\u3067\u3082\u7279\u7570\u306a\u9032\u5316\u3068\u6df1\u5316\u3092\u7d9a\u3051\u308bRADWIMPS\u306e\u30aa\u30fc\u30eb\u30fb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8\u3002",
+  "name": "This Is RADWIMPS",
+  "tracks": [
+    {
+      "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358480,
+      "name": "'I' Novel",
+      "url": "https://open.spotify.com/track/4q7ac9KZapLZa3TnzCrT48"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190453,
+      "name": "05410-(\u3093)",
+      "url": "https://open.spotify.com/track/45Qz90khfSW8AnaH9vNg5j"
+    },
+    {
+      "album": {
+        "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
+        "url": "https://open.spotify.com/album/1XfbRIWaHGB3RePIn91aDU"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318346,
+      "name": "25\u30b3\u76ee\u306e\u67d3\u8272\u4f53",
+      "url": "https://open.spotify.com/track/10LMv0pqJmS9JLkgReEmAD"
+    },
+    {
+      "album": {
+        "name": "2+0+2+1+3+1+1= 10 years 10 songs",
+        "url": "https://open.spotify.com/album/5xC3tDmG3LAyHh9wJf1Ujv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Aitai",
+      "url": "https://open.spotify.com/track/2p1bvz5XuWZGeMfIyu2eeM"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "Banzai Sensho",
+      "url": "https://open.spotify.com/track/5RHuokn4FD1KUVCbQtlm1e"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343200,
+      "name": "Blame Summer",
+      "url": "https://open.spotify.com/track/4LFhpcHpXoX3PIx8MxTXx9"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333173,
+      "name": "Brain Washing - Anti Anti Mix",
+      "url": "https://open.spotify.com/track/7piKrovMrme2hYcVnqFDrw"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245346,
+      "name": "Catharsist",
+      "url": "https://open.spotify.com/track/1isgM7cQm71cWJVkVrrBdE"
+    },
+    {
+      "album": {
+        "name": "Blame Summer ep",
+        "url": "https://open.spotify.com/album/6XePnGo9bjvRIOeQMpOaJh"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259613,
+      "name": "Cocorononaca - Complete Version",
+      "url": "https://open.spotify.com/track/2tnhs3VINh5kmY2hOsrpV6"
+    },
+    {
+      "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401706,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/7KKASmFE5JkLaWMCrdezhi"
+    },
+    {
+      "album": {
+        "name": "DADA",
+        "url": "https://open.spotify.com/album/6kk8W2yMobxmcypHlRGjI0"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "DADA",
+      "url": "https://open.spotify.com/track/2ZwxmkNgy1pVTiEgSiAlNb"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249346,
+      "name": "Darma grand prix",
+      "url": "https://open.spotify.com/track/0HAxFn0IRTkXSH2g7E4gNu"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Dream lantern",
+      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357506,
+      "name": "Dreamer's high",
+      "url": "https://open.spotify.com/track/7jC12iQrBnzkylfSyxmsK8"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "G Koui",
+      "url": "https://open.spotify.com/track/4vNFSfhnh9HoYQDmOIXFsC"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302946,
+      "name": "Gogatsu no Hae",
+      "url": "https://open.spotify.com/track/1ZXfe1d98VGwg5B7e9RUqm"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337613,
+      "name": "Grand Escape",
+      "url": "https://open.spotify.com/track/0knUviaXNsyiwxiU9mlvbT"
+    },
+    {
+      "album": {
+        "name": "2+0+2+1+3+1+1= 10 years 10 songs",
+        "url": "https://open.spotify.com/album/5xC3tDmG3LAyHh9wJf1Ujv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "Hakujitsu - 10 years version",
+      "url": "https://open.spotify.com/track/5oFQXM2RDwoU1vGwQF7GQr"
+    },
+    {
+      "album": {
+        "name": "2+0+2+1+3+1+1= 10 years 10 songs",
+        "url": "https://open.spotify.com/album/5xC3tDmG3LAyHh9wJf1Ujv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375746,
+      "name": "Hide and seek",
+      "url": "https://open.spotify.com/track/3Y8oqEVn58VRqmbj2qHFer"
+    },
+    {
+      "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Hikari",
+      "url": "https://open.spotify.com/track/5oVwQNeMFHwujptaQOlvbV"
+    },
+    {
+      "album": {
+        "name": "Catharsist",
+        "url": "https://open.spotify.com/album/2rkyNDKXdNR6VLXoOK2mY3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353653,
+      "name": "HINOMARU",
+      "url": "https://open.spotify.com/track/6vDsVTlHMnTFTp16kFEC2t"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355600,
+      "name": "Inujarashi",
+      "url": "https://open.spotify.com/track/31rUcR2EwRcnTLjD9CrcBe"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321266,
+      "name": "Iron Feather",
+      "url": "https://open.spotify.com/track/4kp7ql53y0i2KCxSd0qGwL"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414466,
+      "name": "Is There Still Anything That Love Can Do?",
+      "url": "https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305626,
+      "name": "Jikkyochuukei",
+      "url": "https://open.spotify.com/track/3NZ7RNFqXHs8e0pRKMdipW"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266800,
+      "name": "Kaiba",
+      "url": "https://open.spotify.com/track/3ltD97e3FZLWR8DO7OKoG2"
+    },
+    {
+      "album": {
+        "name": "2+0+2+1+3+1+1= 10 years 10 songs",
+        "url": "https://open.spotify.com/album/5xC3tDmG3LAyHh9wJf1Ujv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362386,
+      "name": "Kaiko",
+      "url": "https://open.spotify.com/track/7upVUYawDYoRlUfkNd9Tkc"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276506,
+      "name": "Kaishin no Ichigeki",
+      "url": "https://open.spotify.com/track/3GzBwTfCuwtE0GhMJUlPXi"
+    },
+    {
+      "album": {
+        "name": "KANASHIBARI",
+        "url": "https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297692,
+      "name": "KANASHIBARI",
+      "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Kataware",
+      "url": "https://open.spotify.com/track/3PYXmrpwFh4UPqvRXkwHrW"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Keitaidenwa - Cat Version",
+      "url": "https://open.spotify.com/track/06qW7HqPOqIblomA2psg56"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162280,
+      "name": "Kimi to Hitsuji to Ao",
+      "url": "https://open.spotify.com/track/2qz2iNaqKDJesD2ombEIsi"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410840,
+      "name": "Kyoshinsho",
+      "url": "https://open.spotify.com/track/4iYP5E2NnBwHcKR0Jv71Lr"
+    },
+    {
+      "album": {
+        "name": "Batsu to Maru to Tsumi to",
+        "url": "https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315880,
+      "name": "Last Virgin",
+      "url": "https://open.spotify.com/track/6zX46LrWq8DMGhd70ip4h4"
+    },
+    {
+      "album": {
+        "name": "Light The Light",
+        "url": "https://open.spotify.com/album/7vh0lHWt7VZH6Vj8gHtm1S"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240465,
+      "name": "Light The Light",
+      "url": "https://open.spotify.com/track/1KRyXspqBT0ItkKEHyhkDs"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331600,
+      "name": "MAKAFUKA",
+      "url": "https://open.spotify.com/track/1jrxsjjd19pcHsTl36xWu1"
+    },
+    {
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/4GuwRFNg5Cp9wpNFMCxbaJ"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282853,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/0VPNZYwb5PFmHmMXsul9IK"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281493,
+      "name": "me me she",
+      "url": "https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/64pxaho8TDx1tL938QlTx5"
+    },
+    {
+      "album": {
+        "name": "Original Soundtrack of \"The Last Ten Years\"",
+        "url": "https://open.spotify.com/album/3FyR41ewiOZHop9rFnOZ1m"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318880,
+      "name": "Ms. Phenomenal",
+      "url": "https://open.spotify.com/track/7C9g7mGIpiMgeWauQ5ueBL"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "Nakidashisodayo",
+      "url": "https://open.spotify.com/track/1Yl81qR1HlTJfjVwpPw9k6"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344053,
+      "name": "Nandemonaiya - movie ver.",
+      "url": "https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6"
+    },
+    {
+      "album": {
+        "name": "Arutokoroni no Teiri",
+        "url": "https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345813,
+      "name": "Nazonazo",
+      "url": "https://open.spotify.com/track/1Ws4GubuVIe3FFET7rC1c5"
+    },
+    {
+      "album": {
+        "name": "Nekojarashi",
+        "url": "https://open.spotify.com/album/7Aw3a6CnSpByjgzZFDzkfx"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "Nekojarashi",
+      "url": "https://open.spotify.com/track/3X5CxTX4SWxlf53pCE6oQP"
+    },
+    {
+      "album": {
+        "name": "NINGEN GOKKO",
+        "url": "https://open.spotify.com/album/4aaTetFOkMr99jizvjIjw0"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257371,
+      "name": "NINGEN GOKKO",
+      "url": "https://open.spotify.com/track/21ACvBsQXpDd3bZCpOwnL8"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276680,
+      "name": "Okumanshoja",
+      "url": "https://open.spotify.com/track/5KsxQocMfAqYf2kIeyxn1D"
+    },
+    {
+      "album": {
+        "name": "Arutokoroni no Teiri",
+        "url": "https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356813,
+      "name": "Ordermade",
+      "url": "https://open.spotify.com/track/35EP6V7BkGztEYsNVuSXjd"
+    },
+    {
+      "album": {
+        "name": "Arutokoroni no Teiri",
+        "url": "https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Oshakashama",
+      "url": "https://open.spotify.com/track/08PQgCL2WTNuMKAnbKC9jV"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/0q1tZ8fhYIEAekbKMDYJCp"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329346,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/0QIorkRF9ki6Nh9EFrxfcx"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Saihate Aini",
+      "url": "https://open.spotify.com/track/5tGnceg0MUqFtR9c8kwgQG"
+    },
+    {
+      "album": {
+        "name": "Arutokoroni no Teiri",
+        "url": "https://open.spotify.com/album/3phjMsKsr6V1aicq04S3Ie"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293160,
+      "name": "Sakebe",
+      "url": "https://open.spotify.com/track/2CJd89i8HkbyUZWiGYEMOQ"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357426,
+      "name": "Seikai - 18Fes Version",
+      "url": "https://open.spotify.com/track/023ihux3LWWFmC65WISucL"
+    },
+    {
+      "album": {
+        "name": "SHINSEKAI",
+        "url": "https://open.spotify.com/album/2etv7HmuhbjI55EBQhrEyN"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "SHINSEKAI",
+      "url": "https://open.spotify.com/track/6pnMuubrDJH3g8rKPwHVnn"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "SHIWAKUCHA",
+      "url": "https://open.spotify.com/track/1b8HEZPlDwXcpFPT84iyFX"
+    },
+    {
+      "album": {
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392426,
+      "name": "Sokkenai",
+      "url": "https://open.spotify.com/track/1rYg6v89UhWyPMbr8uf4fl"
+    },
+    {
+      "album": {
+        "name": "2+0+2+1+3+1+1= 10 years 10 songs",
+        "url": "https://open.spotify.com/album/5xC3tDmG3LAyHh9wJf1Ujv"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Soramado",
+      "url": "https://open.spotify.com/track/0hHwIr88GkUiCZ68Hn4gxc"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537653,
+      "name": "Sparkle - movie ver.",
+      "url": "https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO"
+    },
+    {
+      "album": {
+        "name": "Sprechchor",
+        "url": "https://open.spotify.com/album/2Ag4jcky3SWogSJvqxOCxu"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350266,
+      "name": "Sprechchor",
+      "url": "https://open.spotify.com/track/4ZAvmpDLSZoJxjlfB8TpQI"
+    },
+    {
+      "album": {
+        "name": "Human Bloom",
+        "url": "https://open.spotify.com/album/5TZ0bVy0tqIriXse4qk1HY"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Stick Figure",
+      "url": "https://open.spotify.com/track/5cd6amFozNOGO7GYVgv1D0"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411440,
+      "name": "SUMMER DAZE 2021",
+      "url": "https://open.spotify.com/track/4qDOqGFunUZgsBZgeDLRlT"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295293,
+      "name": "Tamaki",
+      "url": "https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275653,
+      "name": "Tears of Suzume",
+      "url": "https://open.spotify.com/track/3KIo0vpEnqsjgO2Fqrf4l6"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "Togenkyo",
+      "url": "https://open.spotify.com/track/3117ksBuuIMssckgp86GNg"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249880,
+      "name": "Tokumeikibo",
+      "url": "https://open.spotify.com/track/6E10kLAf3uZFTWOZHgrUBU"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/2GMe8VFnW05AVE2xf4O1In"
+    },
+    {
+      "album": {
+        "name": "Zettaizetsumei",
+        "url": "https://open.spotify.com/album/3b3tyPWcSOYy5SFC0bCUWP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "Toumeiningen 18go",
+      "url": "https://open.spotify.com/track/2Ns3Jw0Q8GY2UsCsN56M9M"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263453,
+      "name": "TWILIGHT",
+      "url": "https://open.spotify.com/track/0ZEGkAIICdv7gUokNRuifb"
+    },
+    {
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1fYi13JilVgZfmml6oTQt5"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366133,
+      "name": "Utakata-Uta",
+      "url": "https://open.spotify.com/track/0LuR4Vb01bsraV1mWChElX"
+    },
+    {
+      "album": {
+        "name": "Weathering With You -Complete Version-",
+        "url": "https://open.spotify.com/album/4hAlZU3JXoThQ3jnF4CGiZ"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335146,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/7vSF7u4vWtZGrWCxTbAVaw"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285880,
+      "name": "Zenzenzense - movie ver.",
+      "url": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "\u3044\u3044\u3093\u3067\u3059\u304b?",
+      "url": "https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4"
+    },
+    {
+      "album": {
+        "name": "\u3075\u305f\u308a\u3054\u3068",
+        "url": "https://open.spotify.com/album/4j4fPJojDsKQVeEohkISNH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "\u3075\u305f\u308a\u3054\u3068",
+      "url": "https://open.spotify.com/track/6I2Xl5fZP0tdFOUjgekK4p"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/05G0qUTR52pwzDrPyDsmge"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30c4\u30ca\u30ec\u30f3\u30b5",
+        "url": "https://open.spotify.com/album/3dQejFTniISRdWW5piqB9e"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\u30bb\u30c4\u30ca\u30ec\u30f3\u30b5",
+      "url": "https://open.spotify.com/track/3TNbWgsrzBTIUyaLXKsJAV"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 3 ~\u7121\u4eba\u5cf6\u306b\u6301\u3063\u3066\u3044\u304d\u5fd8\u308c\u305f\u4e00\u679a~",
+        "url": "https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307173,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/0D2ZQ5DKyys3UPAfeKpvwp"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 3 ~\u7121\u4eba\u5cf6\u306b\u6301\u3063\u3066\u3044\u304d\u5fd8\u308c\u305f\u4e00\u679a~",
+        "url": "https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "\u30c8\u30ec\u30e2\u30ed",
+      "url": "https://open.spotify.com/track/1v7bzIjGsqshSjRG3Fe2CB"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296733,
+      "name": "\u5922\u756a\u5730",
+      "url": "https://open.spotify.com/track/3OborUBAOYmOmu9kVyoMvr"
+    },
+    {
+      "album": {
+        "name": "\u5927\u56e3\u5186",
+        "url": "https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325851,
+      "name": "\u5927\u56e3\u5186",
+      "url": "https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "\u6307\u5207\u308a\u3052\u3093\u307e\u3093",
+      "url": "https://open.spotify.com/track/6HvUoCSSaRbRdO3kRZgaWF"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 3 ~\u7121\u4eba\u5cf6\u306b\u6301\u3063\u3066\u3044\u304d\u5fd8\u308c\u305f\u4e00\u679a~",
+        "url": "https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "\u6700\u5927\u516c\u7d04\u6570",
+      "url": "https://open.spotify.com/track/6B6PeBESFdk0OjBmGDllYI"
+    },
+    {
+      "album": {
+        "name": "\u6709\u5fc3\u8ad6",
+        "url": "https://open.spotify.com/album/67Lf9JiwFuCOaoxcrfXyb8"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "\u6709\u5fc3\u8ad6",
+      "url": "https://open.spotify.com/track/7KGXHjytcuqx3cW4VyWtCM"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 3 ~\u7121\u4eba\u5cf6\u306b\u6301\u3063\u3066\u3044\u304d\u5fd8\u308c\u305f\u4e00\u679a~",
+        "url": "https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "\u87a2",
+      "url": "https://open.spotify.com/track/0h0cuQyKvNmfcHm3boPEhb"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS 4 \uff5e\u304a\u304b\u305a\u306e\u3054\u306f\u3093\uff5e",
+        "url": "https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281600,
+      "name": "\u9060\u604b",
+      "url": "https://open.spotify.com/track/1ZpdYiZlp4xv0X0CMOePzD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0BqCYCcGsrh"
 }

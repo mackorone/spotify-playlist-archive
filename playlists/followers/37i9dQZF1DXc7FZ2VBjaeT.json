@@ -1,735 +1,2441 @@
 {
-  "2021-12-25": 1273165,
-  "2021-12-26": 1273491,
-  "2021-12-27": 1274180,
-  "2021-12-28": 1274180,
-  "2021-12-29": 1274527,
-  "2021-12-30": 1274962,
-  "2021-12-31": 1275370,
-  "2022-01-01": 1276064,
-  "2022-01-02": 1276168,
-  "2022-01-03": 1276435,
-  "2022-01-04": 1276742,
-  "2022-01-05": 1277031,
-  "2022-01-06": 1277347,
-  "2022-01-07": 1277643,
-  "2022-01-08": 1278306,
-  "2022-01-09": 1278314,
-  "2022-01-10": 1278618,
-  "2022-01-11": 1278894,
-  "2022-01-12": 1279231,
-  "2022-01-13": 1279578,
-  "2022-01-14": 1279896,
-  "2022-01-15": 1280607,
-  "2022-01-16": 1280631,
-  "2022-01-17": 1281270,
-  "2022-01-18": 1281301,
-  "2022-01-19": 1281538,
-  "2022-01-20": 1281873,
-  "2022-01-21": 1282384,
-  "2022-01-22": 1282775,
-  "2022-01-23": 1283175,
-  "2022-01-24": 1283531,
-  "2022-01-25": 1283832,
-  "2022-01-26": 1284118,
-  "2022-01-27": 1284443,
-  "2022-01-28": 1284776,
-  "2022-01-29": 1285145,
-  "2022-01-30": 1285548,
-  "2022-01-31": 1285884,
-  "2022-02-01": 1286162,
-  "2022-02-02": 1286496,
-  "2022-02-03": 1286816,
-  "2022-02-04": 1287210,
-  "2022-02-05": 1287643,
-  "2022-02-06": 1288006,
-  "2022-02-07": 1288332,
-  "2022-02-08": 1288606,
-  "2022-02-09": 1288893,
-  "2022-02-10": 1289241,
-  "2022-02-11": 1289540,
-  "2022-02-12": 1289951,
-  "2022-02-13": 1290399,
-  "2022-02-14": 1290776,
-  "2022-02-15": 1291144,
-  "2022-02-16": 1291473,
-  "2022-02-17": 1291800,
-  "2022-02-18": 1292117,
-  "2022-02-19": 1292467,
-  "2022-02-20": 1292884,
-  "2022-02-21": 1293255,
-  "2022-02-22": 1293570,
-  "2022-02-23": 1293873,
-  "2022-02-24": 1294240,
-  "2022-02-25": 1294558,
-  "2022-02-26": 1294842,
-  "2022-02-27": 1295551,
-  "2022-02-28": 1295551,
-  "2022-03-01": 1295877,
-  "2022-03-02": 1296206,
-  "2022-03-03": 1296464,
-  "2022-03-04": 1296800,
-  "2022-03-05": 1297176,
-  "2022-03-06": 1297500,
-  "2022-03-07": 1297805,
-  "2022-03-08": 1298174,
-  "2022-03-09": 1298525,
-  "2022-03-10": 1298915,
-  "2022-03-11": 1299353,
-  "2022-03-12": 1299743,
-  "2022-03-13": 1300151,
-  "2022-03-14": 1300485,
-  "2022-03-15": 1300835,
-  "2022-03-16": 1301193,
-  "2022-03-17": 1301535,
-  "2022-03-18": 1302038,
-  "2022-03-19": 1302314,
-  "2022-03-20": 1302314,
-  "2022-03-21": 1303113,
-  "2022-03-22": 1303423,
-  "2022-03-23": 1303724,
-  "2022-03-24": 1304058,
-  "2022-03-25": 1304432,
-  "2022-03-26": 1304752,
-  "2022-03-27": 1305110,
-  "2022-03-28": 1305400,
-  "2022-03-30": 1306149,
-  "2022-03-31": 1306510,
-  "2022-04-01": 1306936,
-  "2022-04-02": 1307434,
-  "2022-04-03": 1307855,
-  "2022-04-04": 1308261,
-  "2022-04-05": 1308811,
-  "2022-04-06": 1309259,
-  "2022-04-07": 1309734,
-  "2022-04-08": 1310187,
-  "2022-04-09": 1310676,
-  "2022-04-10": 1311661,
-  "2022-04-11": 1312121,
-  "2022-04-12": 1312184,
-  "2022-04-13": 1312500,
-  "2022-04-14": 1312960,
-  "2022-04-15": 1313455,
-  "2022-04-16": 1313946,
-  "2022-04-17": 1314429,
-  "2022-04-18": 1314913,
-  "2022-04-19": 1315237,
-  "2022-04-20": 1315583,
-  "2022-04-21": 1315951,
-  "2022-04-22": 1316378,
-  "2022-04-23": 1316805,
-  "2022-04-24": 1317235,
-  "2022-04-25": 1317616,
-  "2022-04-26": 1317944,
-  "2022-04-27": 1318368,
-  "2022-04-28": 1318701,
-  "2022-04-29": 1319396,
-  "2022-04-30": 1319879,
-  "2022-05-01": 1320428,
-  "2022-05-02": 1320428,
-  "2022-05-03": 1320783,
-  "2022-05-04": 1321248,
-  "2022-05-05": 1321669,
-  "2022-05-06": 1322136,
-  "2022-05-07": 1322686,
-  "2022-05-08": 1323447,
-  "2022-05-09": 1323518,
-  "2022-05-10": 1323968,
-  "2022-05-11": 1324426,
-  "2022-05-12": 1324832,
-  "2022-05-13": 1325208,
-  "2022-05-14": 1325649,
-  "2022-05-15": 1326147,
-  "2022-05-16": 1326532,
-  "2022-05-17": 1326884,
-  "2022-05-18": 1327265,
-  "2022-05-19": 1327625,
-  "2022-05-20": 1328050,
-  "2022-05-21": 1328830,
-  "2022-05-22": 1328830,
-  "2022-05-23": 1329214,
-  "2022-05-24": 1329561,
-  "2022-05-25": 1329962,
-  "2022-05-26": 1330386,
-  "2022-05-27": 1330802,
-  "2022-05-28": 1331256,
-  "2022-05-29": 1331716,
-  "2022-05-30": 1332178,
-  "2022-05-31": 1332611,
-  "2022-06-01": 1333587,
-  "2022-06-02": 1333670,
-  "2022-06-03": 1334190,
-  "2022-06-04": 1334678,
-  "2022-06-05": 1335150,
-  "2022-06-06": 1335578,
-  "2022-06-07": 1335992,
-  "2022-06-08": 1336476,
-  "2022-06-09": 1336819,
-  "2022-06-10": 1337251,
-  "2022-06-11": 1337783,
-  "2022-06-12": 1338320,
-  "2022-06-13": 1338782,
-  "2022-06-14": 1339276,
-  "2022-06-15": 1339723,
-  "2022-06-16": 1340247,
-  "2022-06-17": 1340723,
-  "2022-06-18": 1341324,
-  "2022-06-19": 1342300,
-  "2022-06-20": 1342300,
-  "2022-06-21": 1342778,
-  "2022-06-22": 1343630,
-  "2022-06-23": 1343630,
-  "2022-06-24": 1344121,
-  "2022-06-25": 1344606,
-  "2022-06-26": 1344606,
-  "2022-06-27": 1345680,
-  "2022-06-28": 1346142,
-  "2022-06-29": 1346568,
-  "2022-06-30": 1346932,
-  "2022-07-01": 1347412,
-  "2022-07-02": 1347898,
-  "2022-07-03": 1348430,
-  "2022-07-04": 1348971,
-  "2022-07-05": 1349399,
-  "2022-07-06": 1349853,
-  "2022-07-07": 1350255,
-  "2022-07-08": 1350706,
-  "2022-07-09": 1351215,
-  "2022-07-10": 1351690,
-  "2022-07-11": 1352183,
-  "2022-07-12": 1352607,
-  "2022-07-13": 1353112,
-  "2022-07-14": 1353615,
-  "2022-07-15": 1354104,
-  "2022-07-16": 1354734,
-  "2022-07-17": 1355379,
-  "2022-07-18": 1356145,
-  "2022-07-19": 1356889,
-  "2022-07-20": 1357543,
-  "2022-07-21": 1358177,
-  "2022-07-22": 1358930,
-  "2022-07-23": 1359616,
-  "2022-07-24": 1360306,
-  "2022-07-25": 1360892,
-  "2022-07-26": 1361637,
-  "2022-07-27": 1362275,
-  "2022-07-28": 1362914,
-  "2022-07-29": 1363615,
-  "2022-07-30": 1365006,
-  "2022-07-31": 1365006,
-  "2022-08-01": 1365682,
-  "2022-08-02": 1366710,
-  "2022-08-03": 1366710,
-  "2022-08-04": 1367258,
-  "2022-08-05": 1367843,
-  "2022-08-06": 1368457,
-  "2022-08-07": 1369084,
-  "2022-08-08": 1369611,
-  "2022-08-09": 1370159,
-  "2022-08-10": 1370717,
-  "2022-08-11": 1371256,
-  "2022-08-12": 1371831,
-  "2022-08-13": 1372470,
-  "2022-08-14": 1373025,
-  "2022-08-15": 1373603,
-  "2022-08-16": 1374125,
-  "2022-08-17": 1374594,
-  "2022-08-18": 1375101,
-  "2022-08-19": 1375593,
-  "2022-08-20": 1376171,
-  "2022-08-21": 1376736,
-  "2022-08-22": 1377240,
-  "2022-08-23": 1377739,
-  "2022-08-24": 1378181,
-  "2022-08-25": 1378730,
-  "2022-08-26": 1379204,
-  "2022-08-27": 1379727,
-  "2022-08-28": 1380278,
-  "2022-08-29": 1380805,
-  "2022-08-30": 1381068,
-  "2022-08-31": 1381105,
-  "2022-09-01": 1381087,
-  "2022-09-02": 1381116,
-  "2022-09-03": 1380726,
-  "2022-09-04": 1380857,
-  "2022-09-05": 1381303,
-  "2022-09-06": 1381744,
-  "2022-09-07": 1382163,
-  "2022-09-09": 1383163,
-  "2022-09-10": 1383665,
-  "2022-09-11": 1384225,
-  "2022-09-12": 1384773,
-  "2022-09-13": 1385247,
-  "2022-09-15": 1386054,
-  "2022-09-16": 1386499,
-  "2022-09-17": 1387034,
-  "2022-09-18": 1387560,
-  "2022-09-19": 1388085,
-  "2022-09-20": 1388490,
-  "2022-09-21": 1388922,
-  "2022-09-22": 1389431,
-  "2022-09-23": 1389931,
-  "2022-09-24": 1390488,
-  "2022-09-25": 1391050,
-  "2022-09-26": 1391510,
-  "2022-09-27": 1391934,
-  "2022-09-28": 1392373,
-  "2022-09-29": 1392819,
-  "2022-09-30": 1393353,
-  "2022-10-01": 1393842,
-  "2022-10-02": 1394399,
-  "2022-10-03": 1394819,
-  "2022-10-04": 1395252,
-  "2022-10-05": 1395719,
-  "2022-10-06": 1396232,
-  "2022-10-07": 1396770,
-  "2022-10-08": 1397306,
-  "2022-10-09": 1398242,
-  "2022-10-10": 1398363,
-  "2022-10-11": 1398785,
-  "2022-10-12": 1399198,
-  "2022-10-13": 1399620,
-  "2022-10-14": 1400114,
-  "2022-10-15": 1400687,
-  "2022-10-16": 1401196,
-  "2022-10-17": 1401666,
-  "2022-10-18": 1402109,
-  "2022-10-19": 1402526,
-  "2022-10-20": 1403005,
-  "2022-10-21": 1403429,
-  "2022-10-22": 1403954,
-  "2022-10-23": 1404460,
-  "2022-10-24": 1404917,
-  "2022-10-25": 1405354,
-  "2022-10-26": 1405817,
-  "2022-10-27": 1406294,
-  "2022-10-28": 1406771,
-  "2022-10-29": 1407301,
-  "2022-10-30": 1407801,
-  "2022-10-31": 1408256,
-  "2022-11-01": 1408686,
-  "2022-11-02": 1409107,
-  "2022-11-03": 1409533,
-  "2022-11-04": 1410031,
-  "2022-11-05": 1410533,
-  "2022-11-06": 1411005,
-  "2022-11-07": 1411491,
-  "2022-11-08": 1411856,
-  "2022-11-09": 1412320,
-  "2022-11-10": 1412771,
-  "2022-11-11": 1413334,
-  "2022-11-12": 1413914,
-  "2022-11-13": 1414429,
-  "2022-11-14": 1414973,
-  "2022-11-15": 1415378,
-  "2022-11-16": 1415827,
-  "2022-11-17": 1416241,
-  "2022-11-18": 1416369,
-  "2022-11-19": 1416480,
-  "2022-11-20": 1416901,
-  "2022-11-21": 1417402,
-  "2022-11-22": 1417836,
-  "2022-11-23": 1418265,
-  "2022-11-24": 1419121,
-  "2022-11-25": 1419865,
-  "2022-11-26": 1420449,
-  "2022-11-27": 1421040,
-  "2022-11-28": 1421584,
-  "2022-11-29": 1422134,
-  "2022-11-30": 1422682,
-  "2022-12-01": 1423361,
-  "2022-12-02": 1423833,
-  "2022-12-03": 1424832,
-  "2022-12-04": 1425685,
-  "2022-12-05": 1426528,
-  "2022-12-06": 1427306,
-  "2022-12-07": 1428107,
-  "2022-12-08": 1428909,
-  "2022-12-09": 1429677,
-  "2022-12-10": 1430426,
-  "2022-12-11": 1431226,
-  "2022-12-12": 1431992,
-  "2022-12-13": 1432751,
-  "2022-12-14": 1433417,
-  "2022-12-15": 1434173,
-  "2022-12-16": 1434883,
-  "2022-12-17": 1435632,
-  "2022-12-18": 1436459,
-  "2022-12-19": 1437216,
-  "2022-12-20": 1438590,
-  "2022-12-21": 1438590,
-  "2022-12-22": 1439306,
-  "2022-12-24": 1440802,
-  "2022-12-25": 1441466,
-  "2022-12-26": 1442068,
-  "2022-12-27": 1442829,
-  "2022-12-28": 1443597,
-  "2022-12-29": 1444378,
-  "2022-12-30": 1445202,
-  "2022-12-31": 1446057,
-  "2023-01-01": 1446892,
-  "2023-01-02": 1447602,
-  "2023-01-03": 1448470,
-  "2023-01-04": 1449154,
-  "2023-01-05": 1449822,
-  "2023-01-06": 1450669,
-  "2023-01-07": 1451903,
-  "2023-01-08": 1452128,
-  "2023-01-09": 1452988,
-  "2023-01-10": 1453721,
-  "2023-01-11": 1454459,
-  "2023-01-12": 1455226,
-  "2023-01-13": 1455992,
-  "2023-01-14": 1457622,
-  "2023-01-15": 1457794,
-  "2023-01-16": 1458629,
-  "2023-01-17": 1459371,
-  "2023-01-18": 1460049,
-  "2023-01-19": 1460873,
-  "2023-01-20": 1461688,
-  "2023-01-21": 1462545,
-  "2023-01-22": 1463467,
-  "2023-01-23": 1464280,
-  "2023-01-24": 1464970,
-  "2023-01-25": 1465670,
-  "2023-01-26": 1466304,
-  "2023-01-27": 1466949,
-  "2023-01-28": 1467616,
-  "2023-01-29": 1468417,
-  "2023-01-30": 1469019,
-  "2023-01-31": 1469019,
-  "2023-02-01": 1470129,
-  "2023-02-02": 1470639,
-  "2023-02-03": 1471205,
-  "2023-02-04": 1471856,
-  "2023-02-05": 1472596,
-  "2023-02-06": 1473268,
-  "2023-02-07": 1473823,
-  "2023-02-08": 1474932,
-  "2023-02-09": 1474932,
-  "2023-02-10": 1475543,
-  "2023-02-11": 1476157,
-  "2023-02-12": 1477425,
-  "2023-02-13": 1478143,
-  "2023-02-14": 1478143,
-  "2023-02-15": 1478713,
-  "2023-02-16": 1479363,
-  "2023-02-17": 1480037,
-  "2023-02-18": 1481424,
-  "2023-02-19": 1481529,
-  "2023-02-20": 1482022,
-  "2023-02-21": 1482575,
-  "2023-02-22": 1483062,
-  "2023-02-23": 1483564,
-  "2023-02-24": 1484183,
-  "2023-02-25": 1485046,
-  "2023-02-26": 1485532,
-  "2023-02-27": 1486617,
-  "2023-02-28": 1486617,
-  "2023-03-01": 1487157,
-  "2023-03-02": 1487647,
-  "2023-03-03": 1488225,
-  "2023-03-04": 1488778,
-  "2023-03-05": 1489990,
-  "2023-03-06": 1489990,
-  "2023-03-07": 1490492,
-  "2023-03-08": 1490968,
-  "2023-03-09": 1491449,
-  "2023-03-10": 1491927,
-  "2023-03-11": 1492454,
-  "2023-03-12": 1493012,
-  "2023-03-13": 1493598,
-  "2023-03-14": 1494677,
-  "2023-03-15": 1495407,
-  "2023-03-16": 1496082,
-  "2023-03-17": 1496082,
-  "2023-03-18": 1497342,
-  "2023-03-19": 1497975,
-  "2023-03-20": 1498557,
-  "2023-03-21": 1498972,
-  "2023-03-22": 1499424,
-  "2023-03-23": 1499954,
-  "2023-03-24": 1499954,
-  "2023-03-25": 1501004,
-  "2023-03-26": 1501618,
-  "2023-03-27": 1502170,
-  "2023-03-28": 1502650,
-  "2023-03-29": 1503330,
-  "2023-03-30": 1504352,
-  "2023-03-31": 1504352,
-  "2023-04-01": 1504910,
-  "2023-04-02": 1505506,
-  "2023-04-03": 1506021,
-  "2023-04-04": 1506527,
-  "2023-04-05": 1507036,
-  "2023-04-06": 1507615,
-  "2023-04-07": 1508205,
-  "2023-04-09": 1509275,
-  "2023-04-10": 1509799,
-  "2023-04-11": 1510702,
-  "2023-04-12": 1510702,
-  "2023-04-13": 1511184,
-  "2023-04-14": 1511706,
-  "2023-04-15": 1512234,
-  "2023-04-16": 1512731,
-  "2023-04-17": 1513168,
-  "2023-04-18": 1513568,
-  "2023-04-19": 1514031,
-  "2023-04-20": 1514516,
-  "2023-04-21": 1515014,
-  "2023-04-22": 1515518,
-  "2023-04-23": 1516066,
-  "2023-04-24": 1516551,
-  "2023-04-25": 1516969,
-  "2023-04-26": 1517371,
-  "2023-04-27": 1517844,
-  "2023-04-28": 1518338,
-  "2023-04-29": 1518849,
-  "2023-04-30": 1519393,
-  "2023-05-01": 1519826,
-  "2023-05-02": 1520280,
-  "2023-05-03": 1520681,
-  "2023-05-04": 1521077,
-  "2023-05-05": 1521518,
-  "2023-05-06": 1521970,
-  "2023-05-07": 1522435,
-  "2023-05-08": 1522918,
-  "2023-05-09": 1523325,
-  "2023-05-10": 1523745,
-  "2023-05-11": 1524143,
-  "2023-05-12": 1524605,
-  "2023-05-13": 1525119,
-  "2023-05-14": 1525644,
-  "2023-05-15": 1526048,
-  "2023-05-16": 1526427,
-  "2023-05-17": 1526819,
-  "2023-05-18": 1527203,
-  "2023-05-19": 1527677,
-  "2023-05-20": 1528575,
-  "2023-05-21": 1528575,
-  "2023-05-22": 1528575,
-  "2023-05-23": 1529413,
-  "2023-05-24": 1530085,
-  "2023-05-25": 1530198,
-  "2023-05-26": 1530647,
-  "2023-05-27": 1531031,
-  "2023-05-28": 1531471,
-  "2023-05-29": 1531471,
-  "2023-05-30": 1532206,
-  "2023-05-31": 1532569,
-  "2023-06-01": 1532991,
-  "2023-06-02": 1533443,
-  "2023-06-03": 1533907,
-  "2023-06-04": 1534417,
-  "2023-06-05": 1534808,
-  "2023-06-06": 1535239,
-  "2023-06-07": 1535682,
-  "2023-06-08": 1536092,
-  "2023-06-09": 1536498,
-  "2023-06-10": 1536926,
-  "2023-06-11": 1537367,
-  "2023-06-12": 1537818,
-  "2023-06-13": 1538209,
-  "2023-06-14": 1538567,
-  "2023-06-15": 1538995,
-  "2023-06-16": 1539434,
-  "2023-06-17": 1539854,
-  "2023-06-18": 1540296,
-  "2023-06-19": 1540647,
-  "2023-06-20": 1540962,
-  "2023-06-21": 1541313,
-  "2023-06-22": 1541727,
-  "2023-06-23": 1542143,
-  "2023-06-24": 1542537,
-  "2023-06-25": 1542980,
-  "2023-06-26": 1543380,
-  "2023-06-27": 1543703,
-  "2023-06-28": 1544073,
-  "2023-06-29": 1544467,
-  "2023-06-30": 1544922,
-  "2023-07-01": 1545871,
-  "2023-07-02": 1545871,
-  "2023-07-03": 1546245,
-  "2023-07-04": 1546582,
-  "2023-07-05": 1546909,
-  "2023-07-06": 1547608,
-  "2023-07-07": 1547608,
-  "2023-07-08": 1547996,
-  "2023-07-09": 1548340,
-  "2023-07-10": 1548744,
-  "2023-07-11": 1549021,
-  "2023-07-12": 1549377,
-  "2023-07-13": 1549775,
-  "2023-07-14": 1550169,
-  "2023-07-15": 1550506,
-  "2023-07-16": 1551013,
-  "2023-07-17": 1551480,
-  "2023-07-18": 1551827,
-  "2023-07-19": 1552197,
-  "2023-07-20": 1552602,
-  "2023-07-21": 1552949,
-  "2023-07-22": 1553528,
-  "2023-07-23": 1554115,
-  "2023-07-24": 1554502,
-  "2023-07-25": 1554948,
-  "2023-07-26": 1555318,
-  "2023-07-27": 1555656,
-  "2023-07-28": 1556038,
-  "2023-07-29": 1556530,
-  "2023-07-30": 1556958,
-  "2023-07-31": 1557322,
-  "2023-08-01": 1557704,
-  "2023-08-02": 1558071,
-  "2023-08-03": 1558408,
-  "2023-08-04": 1558779,
-  "2023-08-05": 1559188,
-  "2023-08-06": 1559887,
-  "2023-08-07": 1559887,
-  "2023-08-08": 1560150,
-  "2023-08-09": 1560474,
-  "2023-08-10": 1560796,
-  "2023-08-11": 1561161,
-  "2023-08-12": 1561564,
-  "2023-08-13": 1561968,
-  "2023-08-14": 1562342,
-  "2023-08-15": 1575501,
-  "2023-08-16": 1575501,
-  "2023-08-17": 1575843,
-  "2023-08-18": 1576276,
-  "2023-08-19": 1576754,
-  "2023-08-20": 1577201,
-  "2023-08-21": 1577604,
-  "2023-08-22": 1577963,
-  "2023-08-23": 1578312,
-  "2023-08-24": 1578687,
-  "2023-08-25": 1579051,
-  "2023-08-26": 1579497,
-  "2023-08-27": 1579893,
-  "2023-08-28": 1580238,
-  "2023-08-29": 1580594,
-  "2023-08-30": 1580924,
-  "2023-08-31": 1581354,
-  "2023-09-01": 1582140,
-  "2023-09-02": 1582140,
-  "2023-09-03": 1582533,
-  "2023-09-04": 1582893,
-  "2023-09-05": 1583213,
-  "2023-09-06": 1583552,
-  "2023-09-07": 1583911,
-  "2023-09-08": 1584285,
-  "2023-09-09": 1584768,
-  "2023-09-10": 1585195,
-  "2023-09-11": 1585583,
-  "2023-09-12": 1585930,
-  "2023-09-13": 1586263,
-  "2023-09-14": 1586586,
-  "2023-09-15": 1586889,
-  "2023-09-16": 1587251,
-  "2023-09-17": 1587251,
-  "2023-09-18": 1587963,
-  "2023-09-19": 1588285,
-  "2023-09-20": 1588561,
-  "2023-09-21": 1588853,
-  "2023-09-22": 1589164,
-  "2023-09-23": 1589513,
-  "2023-09-24": 1589513,
-  "2023-09-25": 1589513,
-  "2023-09-26": 1590429,
-  "2023-09-27": 1590693,
-  "2023-09-28": 1591009,
-  "2023-09-29": 1591360,
-  "2023-09-30": 1591360,
-  "2023-10-01": 1592146,
-  "2023-10-02": 1592492,
-  "2023-10-03": 1592791,
-  "2023-10-04": 1593128,
-  "2023-10-05": 1593499,
-  "2023-10-06": 1593849,
-  "2023-10-07": 1594241,
-  "2023-10-08": 1594569,
-  "2023-10-09": 1594569,
-  "2023-10-10": 1594534,
-  "2023-10-11": 1594499,
-  "2023-10-12": 1594499,
-  "2023-10-13": 1594321,
-  "2023-10-14": 1594321,
-  "2023-10-15": 1594321,
-  "2023-10-16": 1594321,
-  "2023-10-17": 1594321,
-  "2023-10-18": 1594321,
-  "2023-10-19": 1594321,
-  "2023-10-20": 1594321,
-  "2023-10-21": 1594321,
-  "2023-10-22": 1594321,
-  "2023-10-23": 1597154,
-  "2023-10-24": 1597497,
-  "2023-10-25": 1597497,
-  "2023-10-26": 1597497,
-  "2023-10-27": 1597497,
-  "2023-10-28": 1597497,
-  "2023-10-29": 1597497,
-  "2023-10-30": 1597497,
-  "2023-10-31": 1597497,
-  "2023-11-01": 1597497,
-  "2023-11-02": 1597497,
-  "2023-11-03": 1597497,
-  "2023-11-04": 1597497,
-  "2023-11-05": 1597497,
-  "2023-11-06": 1597497,
-  "2023-11-07": 1597497,
-  "2023-11-08": 1597497,
-  "2023-11-09": 1597497,
-  "2023-11-10": 1597497,
-  "2023-11-11": 1603687,
-  "2023-11-12": 1604031,
-  "2023-11-13": 1604031,
-  "2023-11-14": 1604031,
-  "2023-11-15": 1604031,
-  "2023-11-16": 1604031,
-  "2023-11-17": 1606045,
-  "2023-11-18": 1606045,
-  "2023-11-19": 1606045,
-  "2023-11-20": 1606045,
-  "2023-11-21": 1606045,
-  "2023-11-22": 1606045,
-  "2023-11-23": 1607534,
-  "2023-11-24": 1607534,
-  "2023-11-25": 1607534,
-  "2023-11-26": 1607534,
-  "2023-11-27": 1607534,
-  "2023-11-28": 1607534,
-  "2023-11-29": 1607534,
-  "2023-11-30": 1607534,
-  "2023-12-01": 1607534,
-  "2023-12-02": 1607534,
-  "2023-12-03": 1607534,
-  "2023-12-04": 1607534,
-  "2023-12-05": 1607534,
-  "2023-12-06": 1607534,
-  "2023-12-07": 1607534,
-  "2023-12-08": 1607534,
-  "2023-12-09": 1612659,
-  "2023-12-10": 1612659,
-  "2023-12-11": 1613333,
-  "2023-12-12": 1613333,
-  "2023-12-13": 1613333,
-  "2023-12-14": 1614458,
-  "2023-12-15": 1614737,
-  "2023-12-16": 1615141,
-  "2023-12-17": 1615473,
-  "2023-12-18": 1615787,
-  "2023-12-19": 1616059,
-  "2023-12-20": 1616382,
-  "2023-12-21": 1616718,
-  "2023-12-22": 1617083,
-  "2023-12-23": 1617484,
-  "2023-12-24": 1617853,
-  "2023-12-25": 1618183,
-  "2023-12-26": 1618449,
-  "2023-12-27": 1618804,
-  "2023-12-30": 1619963,
-  "2023-12-31": 1620343,
-  "2024-01-01": 1620688,
-  "2024-01-02": 1620956,
-  "2024-01-03": 1621289
+  "2024-01-17": 1623605,
+  "date_first_scraped": "2020-10-16",
+  "description": "Listen to all her biggest hits, in one place.",
+  "name": "This Is Lady Gaga",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 215480,
+      "name": "1000 Doves",
+      "url": "https://open.spotify.com/track/62hTXlVQacy3pjBW4ntRPl"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "911",
+      "url": "https://open.spotify.com/track/6qI0MU175Dk2DeoUjlrOpy"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "A-YO",
+      "url": "https://open.spotify.com/track/4aea4osXbQHKgeOwZGzgEV"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274213,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/4lwavw59UjXUPJZtKNdFYp"
+    },
+    {
+      "album": {
+        "name": "Pop Hits 2010 Vol. 1I",
+        "url": "https://open.spotify.com/album/7mXtjVnyUrunfAdGoNJdl2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 274560,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/5qzeMc6uL3s9QvfeHK6VMP"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
+    },
+    {
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/7d0v0qC8d4OqEVOyAGlHQ1"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123706,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/1Rz58vTzev4MpbJ0eePfqU"
+    },
+    {
+      "album": {
+        "name": "christmas but not christmas songs",
+        "url": "https://open.spotify.com/album/6WTqtw3HlucpR9AFlVDlaa"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123840,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/53AmnlRSyicd0MP1u0MaUH"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123973,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/1C79CxJdMHjk9RkwX04DRh"
+    },
+    {
+      "album": {
+        "name": "House Party Jams 2022",
+        "url": "https://open.spotify.com/album/2aWER8L58L5S8NdZoxaWFc"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/4V709xAq9eM1LpSf7m2GYl"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/3P4ieBubW04cGQT52hPxt6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247520,
+      "name": "ARTPOP",
+      "url": "https://open.spotify.com/track/4ExhU5WCMZXaYSL8RAarvv"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247533,
+      "name": "ARTPOP",
+      "url": "https://open.spotify.com/track/4t6HLZizcQiD8IvKUQU8il"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247533,
+      "name": "ARTPOP",
+      "url": "https://open.spotify.com/track/73zDQykFwu3yT5VQ6MwYbh"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 161733,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294466,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "album": {
+        "name": "Divas Pop",
+        "url": "https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/7jUIPRC4R6B7NkKZof0Uci"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172413,
+      "name": "Beautiful, Dirty, Rich",
+      "url": "https://open.spotify.com/track/0Bjr5EAEa5YxfSHHWzZmds"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "Beautiful, Dirty, Rich",
+      "url": "https://open.spotify.com/track/3qrQtMmkuV79LMGfsGDHRf"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260253,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
+    },
+    {
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260253,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R"
+    },
+    {
+      "album": {
+        "name": "Hot Christmas Hits",
+        "url": "https://open.spotify.com/album/5gkdC2yqeIClCn2Zx2jNX0"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/03oJxEzzNWN9REdfrRqRs9"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek",
+        "url": "https://open.spotify.com/album/3bfLn4OV3TsBChYvKu0sgp"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170573,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0U1WIxorOeHVtKChbVzpBu"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Dancin' In Circles",
+      "url": "https://open.spotify.com/track/73nUaV6tDyvCiBZKhAR7kL"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210426,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/2dCcDpm6O6ocomusl5ao6p"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/45CPhDilfgK14IE7LbNvPh"
+    },
+    {
+      "album": {
+        "name": "Best of Pop Rock",
+        "url": "https://open.spotify.com/album/1yGSn27sbvhbVkanaszYFs"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210426,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XtD05pQ1m23DcBIKdwdnP"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 288280,
+      "name": "Do I Love You",
+      "url": "https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 256278,
+      "name": "Dream Dancing",
+      "url": "https://open.spotify.com/track/7kjzAKTVd9umvnChTkzTNd"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 179760,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/7JDbfYUHjDzQPFSDh5lzGs"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Free Woman",
+      "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 173426,
+      "name": "Fun Tonight",
+      "url": "https://open.spotify.com/track/6hyQVqfHFvsJDjcmj4qrHf"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/535qZk6ycJqQaa5qFPmq3k"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232666,
+      "name": "G.U.Y.",
+      "url": "https://open.spotify.com/track/3sQyifoaayj7MUTMxb5TjH"
+    },
+    {
+      "album": {
+        "name": "Summer Chill Hits",
+        "url": "https://open.spotify.com/album/0MDj3Bze6Dnw1zENHdMEcX"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 232666,
+      "name": "G.U.Y.",
+      "url": "https://open.spotify.com/track/41uJTt3lw4aKDgTH2gZ31s"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "G.U.Y.",
+      "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307893,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/2uk0YH2ahN0UE5jaCMa5jn"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307893,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs"
+    },
+    {
+      "album": {
+        "name": "Uplifting Pop",
+        "url": "https://open.spotify.com/album/3p5jlBmgiaEtU6UtOcD9I5"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 308053,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/27pMfH0ba5cWg2tEl3zegS"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7"
+    },
+    {
+      "album": {
+        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225300,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 236800,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/1Z2el1XLsdJwt6Kefb2F5p"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "I Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL"
+    },
+    {
+      "album": {
+        "name": "I Get A Kick Out Of You",
+        "url": "https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2"
+    },
+    {
+      "album": {
+        "name": "Award Winning Hits 2022",
+        "url": "https://open.spotify.com/album/2oF6fEtW5G1rJh4TusCJAE"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/7vFyHHpHhtdrygb7ULHVUU"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "I'll Never Love Again - Film Version",
+      "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 173440,
+      "name": "It's De-Lovely",
+      "url": "https://open.spotify.com/track/5i6SVeYn0jb3yMp9fsQGto"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Joanne",
+      "url": "https://open.spotify.com/track/4CpYy3xVz778722sv0odtm"
+    },
+    {
+      "album": {
+        "name": "Joanne (Where Do You Think You're Goin'?) [Piano Version]",
+        "url": "https://open.spotify.com/album/5jqcNriHl28rS3LlmoP1fg"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 279436,
+      "name": "Joanne (Where Do You Think You're Goin'?) - Piano Version",
+      "url": "https://open.spotify.com/track/1j8jHKgAQ7QD52Wd5uuLNZ"
+    },
+    {
+      "album": {
+        "name": "Chill Out Good Vibes",
+        "url": "https://open.spotify.com/album/3PBMkwiN2L1bLPkrDj4DvL"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279436,
+      "name": "Joanne (Where Do You Think You're Goin'?) - Piano Version",
+      "url": "https://open.spotify.com/track/2jhD828DCOaOrmrwC4ZX9a"
+    },
+    {
+      "album": {
+        "name": "Joanne (Where Do You Think You're Goin'?) [Piano Version]",
+        "url": "https://open.spotify.com/album/3de9BQqCRA57tDlDLt8s3L"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279436,
+      "name": "Joanne (Where Do You Think You're Goin'?) - Piano Version",
+      "url": "https://open.spotify.com/track/6iMyJ10a1u8Bc9F5qLtrEm"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/1vwTGFOq34pA2d0VUikL3W"
+    },
+    {
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Standard Version)",
+        "url": "https://open.spotify.com/album/30D9CrjDAZRrN7esS8CCgO"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249066,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/4yQmDtjax2Ye9wY8EPAO1x"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249066,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/7rr5DQM980mOF1UtIC4q6v"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "album": {
+        "name": "Throwback Summer Hits",
+        "url": "https://open.spotify.com/album/6auf2DtlPoEpf5suJZ22JD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244055,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/0jU3QF8VMMAQCd9H8SVRad"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 179946,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/0Kdtya9rpac1Da89XBZ52O"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 216493,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/0dImZ1ZhnS1xfhYVkPPeqE"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Look What I Found",
+      "url": "https://open.spotify.com/track/1l9G7M8gNyQsgOGWZGoQsT"
+    },
+    {
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/64e8cmoFd3FMkxM4OBvllC"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 220786,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3iaTig1JxHZF73Ozg8awNl"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "LoveGame",
+      "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216333,
+      "name": "LoveGame",
+      "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx"
+    },
+    {
+      "album": {
+        "name": "Football Game Day",
+        "url": "https://open.spotify.com/album/7mrb8JKVOjQpYtHs16DZau"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216333,
+      "name": "LoveGame",
+      "url": "https://open.spotify.com/track/0mzQBmvulZc2nSPscftR7d"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264520,
+      "name": "Marry The Night",
+      "url": "https://open.spotify.com/track/02d1E4NRuh7OEQO4vCb9PD"
+    },
+    {
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "Marry The Night",
+      "url": "https://open.spotify.com/track/1k18nxjYj8R5iz82Ap7GEY"
+    },
+    {
+      "album": {
+        "name": "BORN THIS WAY THE TENTH ANNIVERSARY",
+        "url": "https://open.spotify.com/album/6Yf9kML4wT3opmXhTUIfk7"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 264520,
+      "name": "Marry The Night",
+      "url": "https://open.spotify.com/track/6xhcrb3BSNxqNVXfH6N1Uj"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/1rpDLMm4FjGqMz6N1dZZo8"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 222373,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/0ZzE3KupbceBjr17DMhWAo"
+    },
+    {
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/2DxrG6YhMZCdoOrYfOi5iC"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208173,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/5LXzcURZiVPEhTnTuEhmzR"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208306,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
+    },
+    {
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Perfect Illusion",
+      "url": "https://open.spotify.com/track/2KZSAE8Q2czVxKAzEuxbNu"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 221666,
+      "name": "Plastic Doll",
+      "url": "https://open.spotify.com/track/3CidPLqWXqgesJlwYVJZdy"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
+    },
+    {
+      "album": {
+        "name": "2000\u5e74\u4ee3\u306b\u6d41\u884c\u3063\u305f\u6d0b\u697d!",
+        "url": "https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238906,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca"
+    },
+    {
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 186653,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/7sKbyYeJnITO1Eh9xd0lKd"
+    },
+    {
+      "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 217212,
+      "name": "Shallow - Radio Edit",
+      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2021-05-13",
+      "duration_ms": 244880,
+      "name": "Sine From Above (with Elton John)",
+      "url": "https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234853,
+      "name": "So Happy I Could Die",
+      "url": "https://open.spotify.com/track/1LwISx4hhmcKw4CL78CCnu"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "So Happy I Could Die",
+      "url": "https://open.spotify.com/track/4MfBFhIBXrmqrczjYqasLp"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster",
+        "url": "https://open.spotify.com/album/58WSd6SDPOcbnnJ2tq0Ph8"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234866,
+      "name": "So Happy I Could Die",
+      "url": "https://open.spotify.com/track/5wvZdHIkFmu21PKqDLxg0d"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 271333,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
+    },
+    {
+      "album": {
+        "name": "Sour Candy (with BLACKPINK)",
+        "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 157706,
+      "name": "Sour Candy (with BLACKPINK)",
+      "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster",
+        "url": "https://open.spotify.com/album/1JqY02pklBKhzoBADtmFlA"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270826,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/1oHMfcafkO803nY3cRSl4O"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270826,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/1pWZZfszgiDVIzbQLs50Cy"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270826,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/36ebL42b6QAqitgzbkIjw5"
+    },
+    {
+      "album": {
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2HDW1EX8IBI3jqobswAfrZ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193530,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/2kJu14V7hbZw3I4K8L8SXb"
+    },
+    {
+      "album": {
+        "name": "Shower Studio",
+        "url": "https://open.spotify.com/album/3CHZ4q1Z6A47iYz0opP8gB"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/4K3Do0kIWdq1ZIEwhBa7ct"
+    },
+    {
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/0E7g5bxgqdGYaChfGqdKER"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220693,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/1fs2Dab8RbaOfbLvaiOsX7"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster",
+        "url": "https://open.spotify.com/album/58WSd6SDPOcbnnJ2tq0Ph8"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220706,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/2OycPJAn1YudMCWtEjUlXO"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (UK Deluxe)",
+        "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220626,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/6nCDnzErqalOaIY3EJM8NK"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi"
+    },
+    {
+      "album": {
+        "name": "The Post COVID-19 Mixtape",
+        "url": "https://open.spotify.com/album/4UIuRHezUozTl6eTJKnfwT"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221013,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/74yHWV5b0Ot9aaOpUcJmoO"
+    },
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5"
+    },
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211363,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/51PIvodunv6NmX5250zxAh"
+    },
+    {
+      "album": {
+        "name": "Pop Royalty",
+        "url": "https://open.spotify.com/album/4fkkL10o4n5Tx13ph7tNrn"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211530,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/1kr3hljube9sUF0kp1mYdB"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320546,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/57F80059mWaWFvWG3tBTbO"
+    },
+    {
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320586,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/0JNdS1n0ifOP25XvhwAMgM"
+    },
+    {
+      "album": {
+        "name": "Pop Workout",
+        "url": "https://open.spotify.com/album/2Qf3vLaKU7fg4a0x0ei8Ov"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 320626,
+      "name": "The Edge Of Glory",
+      "url": "https://open.spotify.com/track/2aoa5cKuiFjqVGpHUk4edI"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "The Fame",
+      "url": "https://open.spotify.com/track/25pWYL5848CIMh3OfnDroM"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222106,
+      "name": "The Fame",
+      "url": "https://open.spotify.com/track/3HhAZV8ngUOOt4eUHovhud"
+    },
+    {
+      "album": {
+        "name": "2000\u5e74\u4ee3\u306b\u6d41\u884c\u3063\u305f\u6d0b\u697d!",
+        "url": "https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222106,
+      "name": "The Fame",
+      "url": "https://open.spotify.com/track/3a3OdMmkt8eUhsdpDmea1s"
+    },
+    {
+      "album": {
+        "name": "Best Picture Songs",
+        "url": "https://open.spotify.com/album/2ShESlgYXG8P8N4G7eX36T"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258092,
+      "name": "Til It Happens To You",
+      "url": "https://open.spotify.com/track/6qbVuxXUPRgHb6rHkbqj7w"
+    },
+    {
+      "album": {
+        "name": "Til It Happens To You",
+        "url": "https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258093,
+      "name": "Til It Happens To You",
+      "url": "https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I"
+    },
+    {
+      "album": {
+        "name": "Til It Happens To You",
+        "url": "https://open.spotify.com/album/2ktypfBa9ZEJGzEta36mmE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258093,
+      "name": "Til It Happens To You",
+      "url": "https://open.spotify.com/track/2g2vRiOy9jmPCmSrotvGt6"
+    },
+    {
+      "album": {
+        "name": "ARTPOP",
+        "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/3n3S5cH3IyaOswY2XSUGTS"
+    },
+    {
+      "album": {
+        "name": "Divas Pop",
+        "url": "https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233720,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/628mNrQ2Cs7dAeGz19JeQE"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234133,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE THE BONUS TRACKS",
+        "url": "https://open.spotify.com/album/1wuC0jj7341uFOuCyqzwe8"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "William Burke",
+          "url": "https://open.spotify.com/artist/68iRXBQ7fDXt7LEPhj0sSs"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304693,
+      "name": "Video Phone (feat. Lady Gaga)",
+      "url": "https://open.spotify.com/track/2nX9948PslVYrrHUf6w0eL"
+    },
+    {
+      "album": {
+        "name": "Video Phone",
+        "url": "https://open.spotify.com/album/0ExAIUZSGb0tibEXwheEkc"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "William Burke",
+          "url": "https://open.spotify.com/artist/68iRXBQ7fDXt7LEPhj0sSs"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 304746,
+      "name": "Video Phone (feat. Lady Gaga)",
+      "url": "https://open.spotify.com/track/7mzQFrKyyde7StPaXLss4K"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": true,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307360,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/1ADciGUxOaUbBFd0rpYx7d"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2021-10-16",
+      "duration_ms": 169400,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ"
+    },
+    {
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307346,
+      "name": "Yo\u00fc And I",
+      "url": "https://open.spotify.com/track/6rkAY9rk1NTFB94QxG3LJR"
+    },
+    {
+      "album": {
+        "name": "Merenda con POP",
+        "url": "https://open.spotify.com/album/71T5BsRfSmKIH775IWTc8Y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 307346,
+      "name": "Yo\u00fc And I",
+      "url": "https://open.spotify.com/track/7Evcno8z8lqcWe0jSzkotS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXc7FZ2VBjaeT"
 }

@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 214625,
       "name": "Coming Around Again",
       "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Krause",
+          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+        },
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
+    },
+    {
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
@@ -3504,7 +3526,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 201851,
       "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
@@ -4042,7 +4064,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 299199,
       "name": "Take It With Me",
       "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
@@ -4898,7 +4920,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 187724,
       "name": "Walking on Sunshine",
       "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"

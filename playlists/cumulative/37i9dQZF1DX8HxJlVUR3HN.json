@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : MDNS",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185360,
       "name": "700m\u00b2",
       "url": "https://open.spotify.com/track/572uU6bg1zMbcwSA8ML67d"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 206519,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO"
+    },
+    {
+      "album": {
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/0z9vRcT5kRzD01k8116YoW"
+      },
+      "artists": [
+        {
+          "name": "Baltimore",
+          "url": "https://open.spotify.com/artist/77qVGV48opy3ixVRwna4mG"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Attraction",
+      "url": "https://open.spotify.com/track/6IiKWrISnOqKGno1gLI8y4"
     },
     {
       "album": {
@@ -578,7 +596,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 209173,
       "name": "Event Horizon - Fuzz Edit",
       "url": "https://open.spotify.com/track/4z4xDLd0zqQ7cOmcQypJAI"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193000,
       "name": "Get Over",
       "url": "https://open.spotify.com/track/5pvksr9GzU4VVRCjckY2zq"
@@ -892,6 +910,24 @@
       "duration_ms": 226111,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ"
+    },
+    {
+      "album": {
+        "name": "I Can't Be Yours",
+        "url": "https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57"
+      },
+      "artists": [
+        {
+          "name": "Moloch/Monolyth",
+          "url": "https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "I Can't Be Yours",
+      "url": "https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh"
     },
     {
       "album": {
@@ -1057,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9sinight",
+        "url": "https://open.spotify.com/album/3Yx0rlQDcQGgDg3pmYSKca"
+      },
+      "artists": [
+        {
+          "name": "Louis La Flemme",
+          "url": "https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "L\u00e9sinight",
+      "url": "https://open.spotify.com/track/0kSs8D9jHyK9JLwMLb37Ru"
+    },
+    {
+      "album": {
         "name": "Ma pi\u00e8ce",
         "url": "https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW"
       },
@@ -1180,6 +1234,24 @@
       "duration_ms": 269242,
       "name": "Mysteryland",
       "url": "https://open.spotify.com/track/2He1zZLDLCNq3n3Diq1naW"
+    },
+    {
+      "album": {
+        "name": "Big",
+        "url": "https://open.spotify.com/album/4YcCaPA0E4BifZ2jjpgDah"
+      },
+      "artists": [
+        {
+          "name": "Hoorsees",
+          "url": "https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "New Career",
+      "url": "https://open.spotify.com/track/5ALHNp45uN1jpPypqcHhHf"
     },
     {
       "album": {
@@ -1396,6 +1468,24 @@
       "duration_ms": 202351,
       "name": "Regenerated",
       "url": "https://open.spotify.com/track/1syfjH2Wx6MclvB7YFkUbB"
+    },
+    {
+      "album": {
+        "name": "Riga",
+        "url": "https://open.spotify.com/album/0x0QW5gmu3dzSKnfFmkEkq"
+      },
+      "artists": [
+        {
+          "name": "Robot Orchestra",
+          "url": "https://open.spotify.com/artist/5inApTkXoUrypCCPgEXrnp"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208533,
+      "name": "Riga",
+      "url": "https://open.spotify.com/track/3zPqSivFOYX7O8CW42P7vN"
     },
     {
       "album": {
@@ -1723,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/4M0kEb9aheb55jdIEOeMsm"
+      },
+      "artists": [
+        {
+          "name": "The Twin Souls",
+          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
+        },
+        {
+          "name": "Yarol Poupaud",
+          "url": "https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146944,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/3aFoPNxo45mjM6dStHBpf5"
+    },
+    {
+      "album": {
         "name": "Thank You/Maniac",
         "url": "https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx"
       },
@@ -1734,7 +1846,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 266095,
       "name": "Thank You/Maniac",
       "url": "https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y"
@@ -1824,7 +1936,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 273142,
       "name": "The Light In The Dark",
       "url": "https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC"
@@ -1846,7 +1958,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 161962,
       "name": "The One - The One I'm Looking For",
       "url": "https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN"
@@ -1864,7 +1976,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206186,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz"
@@ -1961,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Vale",
+        "url": "https://open.spotify.com/album/7GnHMhVV6DMYNCHicaCXcI"
+      },
+      "artists": [
+        {
+          "name": "Mad Rush",
+          "url": "https://open.spotify.com/artist/4Ur2DRrRh2zsLUz95w7jw6"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Vale",
+      "url": "https://open.spotify.com/track/2ITl12Jmlz6tvss8AxuXXz"
+    },
+    {
+      "album": {
         "name": "Velvet Moon",
         "url": "https://open.spotify.com/album/7lbzoBCV4BsfWVkJpHz83R"
       },
@@ -2030,6 +2160,24 @@
       "duration_ms": 223124,
       "name": "What's Wrong With Me",
       "url": "https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc"
+    },
+    {
+      "album": {
+        "name": "Avalon Bloom",
+        "url": "https://open.spotify.com/album/20EfjGnr8Ku5qTMjDZxmuW"
+      },
+      "artists": [
+        {
+          "name": "Avalon Bloom",
+          "url": "https://open.spotify.com/artist/6WJSI8lBDgepZLAXIqHgdh"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/0Jt0kxSSMYQ6XPsPsAb4Ja"
     },
     {
       "album": {

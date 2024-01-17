@@ -1,735 +1,1241 @@
 {
-  "2021-12-25": 35798,
-  "2021-12-26": 35807,
-  "2021-12-27": 35819,
-  "2021-12-28": 35818,
-  "2021-12-29": 35817,
-  "2021-12-30": 35821,
-  "2021-12-31": 35831,
-  "2022-01-01": 35835,
-  "2022-01-02": 35836,
-  "2022-01-03": 35837,
-  "2022-01-04": 35849,
-  "2022-01-05": 35857,
-  "2022-01-06": 35867,
-  "2022-01-07": 35864,
-  "2022-01-08": 35876,
-  "2022-01-09": 35875,
-  "2022-01-10": 35877,
-  "2022-01-11": 35879,
-  "2022-01-12": 35890,
-  "2022-01-13": 35893,
-  "2022-01-14": 35897,
-  "2022-01-15": 35909,
-  "2022-01-16": 35910,
-  "2022-01-17": 35923,
-  "2022-01-18": 35923,
-  "2022-01-19": 35930,
-  "2022-01-20": 35933,
-  "2022-01-21": 35934,
-  "2022-01-22": 35942,
-  "2022-01-23": 35947,
-  "2022-01-24": 35947,
-  "2022-01-25": 35959,
-  "2022-01-26": 35959,
-  "2022-01-27": 35959,
-  "2022-01-28": 35959,
-  "2022-01-29": 35959,
-  "2022-01-30": 35959,
-  "2022-01-31": 35959,
-  "2022-02-01": 35959,
-  "2022-02-02": 35959,
-  "2022-02-03": 35959,
-  "2022-02-04": 35959,
-  "2022-02-05": 35959,
-  "2022-02-06": 35959,
-  "2022-02-07": 35959,
-  "2022-02-08": 35959,
-  "2022-02-09": 35959,
-  "2022-02-10": 35959,
-  "2022-02-11": 35959,
-  "2022-02-12": 35959,
-  "2022-02-13": 35959,
-  "2022-02-14": 35959,
-  "2022-02-15": 35959,
-  "2022-02-16": 35959,
-  "2022-02-17": 35959,
-  "2022-02-18": 35959,
-  "2022-02-19": 35959,
-  "2022-02-20": 35959,
-  "2022-02-21": 35959,
-  "2022-02-22": 35959,
-  "2022-02-23": 35959,
-  "2022-02-24": 35959,
-  "2022-02-25": 35959,
-  "2022-02-26": 35959,
-  "2022-02-27": 35959,
-  "2022-02-28": 35959,
-  "2022-03-01": 35959,
-  "2022-03-02": 35959,
-  "2022-03-03": 35959,
-  "2022-03-04": 35959,
-  "2022-03-05": 35959,
-  "2022-03-06": 35959,
-  "2022-03-07": 35959,
-  "2022-03-08": 35959,
-  "2022-03-09": 35959,
-  "2022-03-10": 35959,
-  "2022-03-11": 35959,
-  "2022-03-12": 35959,
-  "2022-03-13": 35959,
-  "2022-03-14": 35959,
-  "2022-03-15": 35959,
-  "2022-03-16": 35959,
-  "2022-03-17": 35959,
-  "2022-03-18": 35959,
-  "2022-03-19": 35959,
-  "2022-03-20": 35959,
-  "2022-03-21": 35959,
-  "2022-03-22": 35959,
-  "2022-03-23": 35959,
-  "2022-03-24": 35959,
-  "2022-03-25": 35959,
-  "2022-03-26": 35959,
-  "2022-03-27": 35959,
-  "2022-03-28": 35959,
-  "2022-03-30": 35959,
-  "2022-03-31": 35959,
-  "2022-04-01": 35959,
-  "2022-04-02": 35959,
-  "2022-04-03": 35959,
-  "2022-04-04": 35959,
-  "2022-04-05": 35959,
-  "2022-04-06": 35959,
-  "2022-04-07": 35959,
-  "2022-04-08": 35959,
-  "2022-04-09": 35959,
-  "2022-04-10": 35959,
-  "2022-04-11": 35959,
-  "2022-04-12": 35959,
-  "2022-04-13": 35959,
-  "2022-04-14": 35959,
-  "2022-04-15": 35959,
-  "2022-04-16": 35959,
-  "2022-04-17": 35959,
-  "2022-04-18": 35959,
-  "2022-04-19": 35959,
-  "2022-04-20": 35959,
-  "2022-04-21": 35959,
-  "2022-04-22": 35959,
-  "2022-04-23": 35959,
-  "2022-04-24": 35959,
-  "2022-04-25": 35959,
-  "2022-04-26": 35959,
-  "2022-04-27": 35959,
-  "2022-04-28": 35959,
-  "2022-04-29": 35959,
-  "2022-04-30": 35959,
-  "2022-05-01": 35959,
-  "2022-05-02": 35959,
-  "2022-05-03": 35959,
-  "2022-05-04": 35959,
-  "2022-05-05": 35959,
-  "2022-05-06": 35959,
-  "2022-05-07": 35959,
-  "2022-05-08": 35959,
-  "2022-05-09": 35959,
-  "2022-05-10": 35959,
-  "2022-05-11": 35959,
-  "2022-05-12": 35959,
-  "2022-05-13": 35959,
-  "2022-05-14": 35959,
-  "2022-05-15": 35959,
-  "2022-05-16": 35959,
-  "2022-05-17": 35959,
-  "2022-05-18": 35959,
-  "2022-05-19": 35959,
-  "2022-05-20": 35959,
-  "2022-05-21": 35959,
-  "2022-05-22": 35959,
-  "2022-05-23": 35959,
-  "2022-05-24": 35959,
-  "2022-05-25": 35959,
-  "2022-05-26": 35959,
-  "2022-05-27": 35959,
-  "2022-05-28": 35959,
-  "2022-05-29": 35959,
-  "2022-05-30": 35959,
-  "2022-05-31": 35959,
-  "2022-06-01": 35959,
-  "2022-06-02": 35959,
-  "2022-06-03": 35959,
-  "2022-06-04": 35959,
-  "2022-06-05": 35959,
-  "2022-06-06": 35959,
-  "2022-06-07": 35959,
-  "2022-06-08": 35959,
-  "2022-06-09": 35959,
-  "2022-06-10": 35959,
-  "2022-06-11": 35959,
-  "2022-06-12": 35959,
-  "2022-06-13": 35959,
-  "2022-06-14": 35959,
-  "2022-06-15": 35959,
-  "2022-06-16": 35959,
-  "2022-06-17": 35959,
-  "2022-06-18": 35959,
-  "2022-06-19": 35959,
-  "2022-06-20": 35959,
-  "2022-06-21": 35959,
-  "2022-06-22": 35959,
-  "2022-06-23": 35959,
-  "2022-06-24": 35959,
-  "2022-06-25": 35959,
-  "2022-06-26": 35959,
-  "2022-06-27": 35959,
-  "2022-06-28": 35959,
-  "2022-06-29": 35959,
-  "2022-06-30": 35959,
-  "2022-07-01": 35959,
-  "2022-07-02": 35959,
-  "2022-07-03": 35959,
-  "2022-07-04": 35959,
-  "2022-07-05": 35959,
-  "2022-07-06": 35959,
-  "2022-07-07": 35959,
-  "2022-07-08": 35959,
-  "2022-07-09": 35959,
-  "2022-07-10": 35959,
-  "2022-07-11": 35959,
-  "2022-07-12": 35959,
-  "2022-07-13": 35959,
-  "2022-07-14": 35959,
-  "2022-07-15": 35959,
-  "2022-07-16": 35959,
-  "2022-07-17": 35959,
-  "2022-07-18": 35959,
-  "2022-07-19": 35959,
-  "2022-07-20": 35959,
-  "2022-07-21": 35959,
-  "2022-07-22": 35959,
-  "2022-07-23": 35959,
-  "2022-07-24": 35959,
-  "2022-07-25": 35959,
-  "2022-07-26": 35959,
-  "2022-07-27": 35959,
-  "2022-07-28": 35959,
-  "2022-07-29": 35959,
-  "2022-07-30": 35959,
-  "2022-07-31": 35959,
-  "2022-08-01": 35959,
-  "2022-08-02": 35959,
-  "2022-08-03": 35959,
-  "2022-08-04": 35959,
-  "2022-08-05": 35959,
-  "2022-08-06": 35959,
-  "2022-08-07": 35959,
-  "2022-08-08": 35959,
-  "2022-08-09": 35959,
-  "2022-08-10": 35959,
-  "2022-08-11": 35959,
-  "2022-08-12": 35959,
-  "2022-08-13": 35959,
-  "2022-08-14": 35959,
-  "2022-08-15": 35959,
-  "2022-08-16": 35959,
-  "2022-08-17": 35959,
-  "2022-08-18": 35959,
-  "2022-08-19": 35959,
-  "2022-08-20": 35959,
-  "2022-08-21": 35959,
-  "2022-08-22": 35959,
-  "2022-08-23": 35959,
-  "2022-08-24": 35959,
-  "2022-08-25": 35959,
-  "2022-08-26": 35959,
-  "2022-08-27": 35959,
-  "2022-08-28": 35959,
-  "2022-08-29": 35959,
-  "2022-08-30": 35959,
-  "2022-08-31": 35959,
-  "2022-09-01": 35959,
-  "2022-09-02": 35959,
-  "2022-09-03": 35959,
-  "2022-09-04": 35959,
-  "2022-09-05": 35959,
-  "2022-09-06": 35959,
-  "2022-09-07": 35959,
-  "2022-09-09": 35959,
-  "2022-09-10": 35959,
-  "2022-09-11": 35959,
-  "2022-09-12": 35959,
-  "2022-09-13": 35959,
-  "2022-09-15": 35959,
-  "2022-09-16": 35959,
-  "2022-09-17": 35959,
-  "2022-09-18": 35959,
-  "2022-09-19": 35959,
-  "2022-09-20": 35959,
-  "2022-09-21": 35959,
-  "2022-09-22": 35959,
-  "2022-09-23": 35959,
-  "2022-09-24": 35959,
-  "2022-09-25": 35959,
-  "2022-09-26": 35959,
-  "2022-09-27": 35959,
-  "2022-09-28": 35959,
-  "2022-09-29": 35959,
-  "2022-09-30": 35959,
-  "2022-10-01": 35959,
-  "2022-10-02": 35959,
-  "2022-10-03": 35959,
-  "2022-10-04": 35959,
-  "2022-10-05": 35959,
-  "2022-10-06": 35959,
-  "2022-10-07": 35959,
-  "2022-10-08": 35959,
-  "2022-10-09": 35959,
-  "2022-10-10": 35959,
-  "2022-10-11": 35959,
-  "2022-10-12": 35959,
-  "2022-10-13": 35959,
-  "2022-10-14": 35959,
-  "2022-10-15": 35959,
-  "2022-10-16": 35959,
-  "2022-10-17": 35959,
-  "2022-10-18": 35959,
-  "2022-10-19": 35959,
-  "2022-10-20": 35959,
-  "2022-10-21": 35959,
-  "2022-10-22": 35959,
-  "2022-10-23": 35959,
-  "2022-10-24": 35959,
-  "2022-10-25": 35959,
-  "2022-10-26": 35959,
-  "2022-10-27": 35959,
-  "2022-10-28": 35959,
-  "2022-10-29": 35959,
-  "2022-10-30": 35959,
-  "2022-10-31": 35959,
-  "2022-11-01": 35959,
-  "2022-11-02": 35959,
-  "2022-11-03": 35959,
-  "2022-11-04": 35959,
-  "2022-11-05": 35959,
-  "2022-11-06": 35959,
-  "2022-11-07": 35959,
-  "2022-11-08": 35959,
-  "2022-11-09": 35959,
-  "2022-11-10": 35959,
-  "2022-11-11": 35959,
-  "2022-11-12": 35959,
-  "2022-11-13": 35959,
-  "2022-11-14": 35959,
-  "2022-11-15": 35959,
-  "2022-11-16": 35959,
-  "2022-11-17": 35959,
-  "2022-11-18": 35959,
-  "2022-11-19": 35959,
-  "2022-11-20": 35959,
-  "2022-11-21": 35959,
-  "2022-11-22": 35959,
-  "2022-11-23": 35959,
-  "2022-11-24": 35959,
-  "2022-11-25": 35959,
-  "2022-11-26": 35959,
-  "2022-11-27": 35959,
-  "2022-11-28": 35959,
-  "2022-11-29": 35959,
-  "2022-11-30": 35959,
-  "2022-12-01": 35959,
-  "2022-12-02": 35959,
-  "2022-12-03": 35959,
-  "2022-12-04": 35959,
-  "2022-12-05": 35959,
-  "2022-12-06": 35959,
-  "2022-12-07": 35959,
-  "2022-12-08": 35959,
-  "2022-12-09": 35959,
-  "2022-12-10": 35959,
-  "2022-12-11": 35959,
-  "2022-12-12": 35959,
-  "2022-12-13": 35959,
-  "2022-12-14": 35959,
-  "2022-12-15": 35959,
-  "2022-12-16": 35959,
-  "2022-12-17": 35959,
-  "2022-12-18": 35959,
-  "2022-12-19": 35959,
-  "2022-12-20": 35959,
-  "2022-12-21": 35959,
-  "2022-12-22": 35959,
-  "2022-12-24": 35959,
-  "2022-12-25": 35959,
-  "2022-12-26": 35959,
-  "2022-12-27": 35959,
-  "2022-12-28": 35959,
-  "2022-12-29": 35959,
-  "2022-12-30": 35959,
-  "2022-12-31": 35959,
-  "2023-01-01": 35959,
-  "2023-01-02": 35959,
-  "2023-01-03": 35959,
-  "2023-01-04": 35959,
-  "2023-01-05": 35959,
-  "2023-01-06": 35959,
-  "2023-01-07": 35959,
-  "2023-01-08": 35959,
-  "2023-01-09": 35959,
-  "2023-01-10": 35959,
-  "2023-01-11": 35959,
-  "2023-01-12": 35959,
-  "2023-01-13": 35959,
-  "2023-01-14": 35959,
-  "2023-01-15": 35959,
-  "2023-01-16": 35959,
-  "2023-01-17": 35959,
-  "2023-01-18": 35959,
-  "2023-01-19": 35959,
-  "2023-01-20": 35959,
-  "2023-01-21": 35959,
-  "2023-01-22": 35959,
-  "2023-01-23": 35959,
-  "2023-01-24": 35959,
-  "2023-01-25": 35959,
-  "2023-01-26": 35959,
-  "2023-01-27": 35959,
-  "2023-01-28": 35959,
-  "2023-01-29": 35959,
-  "2023-01-30": 35959,
-  "2023-01-31": 35959,
-  "2023-02-01": 35959,
-  "2023-02-02": 35959,
-  "2023-02-03": 35959,
-  "2023-02-04": 35959,
-  "2023-02-05": 35959,
-  "2023-02-06": 35959,
-  "2023-02-07": 35959,
-  "2023-02-08": 35959,
-  "2023-02-09": 35959,
-  "2023-02-10": 35959,
-  "2023-02-11": 35959,
-  "2023-02-12": 35959,
-  "2023-02-13": 35959,
-  "2023-02-14": 35959,
-  "2023-02-15": 35959,
-  "2023-02-16": 35959,
-  "2023-02-17": 35959,
-  "2023-02-18": 35959,
-  "2023-02-19": 35959,
-  "2023-02-20": 35959,
-  "2023-02-21": 35959,
-  "2023-02-22": 35959,
-  "2023-02-23": 35959,
-  "2023-02-24": 35959,
-  "2023-02-25": 35959,
-  "2023-02-26": 35959,
-  "2023-02-27": 35959,
-  "2023-02-28": 35959,
-  "2023-03-01": 35959,
-  "2023-03-02": 35959,
-  "2023-03-03": 35959,
-  "2023-03-04": 35959,
-  "2023-03-05": 35959,
-  "2023-03-06": 35959,
-  "2023-03-07": 35959,
-  "2023-03-08": 35959,
-  "2023-03-09": 35959,
-  "2023-03-10": 35959,
-  "2023-03-11": 35959,
-  "2023-03-12": 35959,
-  "2023-03-13": 35959,
-  "2023-03-14": 35959,
-  "2023-03-15": 35959,
-  "2023-03-16": 35959,
-  "2023-03-17": 35959,
-  "2023-03-18": 35959,
-  "2023-03-19": 35959,
-  "2023-03-20": 35959,
-  "2023-03-21": 35959,
-  "2023-03-22": 35959,
-  "2023-03-23": 35959,
-  "2023-03-24": 35959,
-  "2023-03-25": 35959,
-  "2023-03-26": 35959,
-  "2023-03-27": 35959,
-  "2023-03-28": 35959,
-  "2023-03-29": 35959,
-  "2023-03-30": 35959,
-  "2023-03-31": 35959,
-  "2023-04-01": 35959,
-  "2023-04-02": 35959,
-  "2023-04-03": 35959,
-  "2023-04-04": 35959,
-  "2023-04-05": 35959,
-  "2023-04-06": 35959,
-  "2023-04-07": 35959,
-  "2023-04-09": 35959,
-  "2023-04-10": 35959,
-  "2023-04-11": 35959,
-  "2023-04-12": 35959,
-  "2023-04-13": 35959,
-  "2023-04-14": 35959,
-  "2023-04-15": 35959,
-  "2023-04-16": 35959,
-  "2023-04-17": 35959,
-  "2023-04-18": 35959,
-  "2023-04-19": 35959,
-  "2023-04-20": 35959,
-  "2023-04-21": 35959,
-  "2023-04-22": 35959,
-  "2023-04-23": 35959,
-  "2023-04-24": 35959,
-  "2023-04-25": 35959,
-  "2023-04-26": 35959,
-  "2023-04-27": 35959,
-  "2023-04-28": 35959,
-  "2023-04-29": 35959,
-  "2023-04-30": 35959,
-  "2023-05-01": 35959,
-  "2023-05-02": 35959,
-  "2023-05-03": 35959,
-  "2023-05-04": 35959,
-  "2023-05-05": 35959,
-  "2023-05-06": 35959,
-  "2023-05-07": 35959,
-  "2023-05-08": 35959,
-  "2023-05-09": 35959,
-  "2023-05-10": 35959,
-  "2023-05-11": 35959,
-  "2023-05-12": 35959,
-  "2023-05-13": 35959,
-  "2023-05-14": 35959,
-  "2023-05-15": 35959,
-  "2023-05-16": 35959,
-  "2023-05-17": 35959,
-  "2023-05-18": 35959,
-  "2023-05-19": 35959,
-  "2023-05-20": 35959,
-  "2023-05-21": 35959,
-  "2023-05-22": 35959,
-  "2023-05-23": 35959,
-  "2023-05-24": 35959,
-  "2023-05-25": 35959,
-  "2023-05-26": 35959,
-  "2023-05-27": 35959,
-  "2023-05-28": 35959,
-  "2023-05-29": 35959,
-  "2023-05-30": 35959,
-  "2023-05-31": 35959,
-  "2023-06-01": 35959,
-  "2023-06-02": 35959,
-  "2023-06-03": 35959,
-  "2023-06-04": 35959,
-  "2023-06-05": 35959,
-  "2023-06-06": 35959,
-  "2023-06-07": 35959,
-  "2023-06-08": 35959,
-  "2023-06-09": 35959,
-  "2023-06-10": 35959,
-  "2023-06-11": 35959,
-  "2023-06-12": 35959,
-  "2023-06-13": 35959,
-  "2023-06-14": 35959,
-  "2023-06-15": 35959,
-  "2023-06-16": 35959,
-  "2023-06-17": 35959,
-  "2023-06-18": 35959,
-  "2023-06-19": 35959,
-  "2023-06-20": 35959,
-  "2023-06-21": 35959,
-  "2023-06-22": 35959,
-  "2023-06-23": 35959,
-  "2023-06-24": 35959,
-  "2023-06-25": 35959,
-  "2023-06-26": 35959,
-  "2023-06-27": 35959,
-  "2023-06-28": 35959,
-  "2023-06-29": 35959,
-  "2023-06-30": 35959,
-  "2023-07-01": 35959,
-  "2023-07-02": 35959,
-  "2023-07-03": 35959,
-  "2023-07-04": 35959,
-  "2023-07-05": 35959,
-  "2023-07-06": 35959,
-  "2023-07-07": 35959,
-  "2023-07-08": 35959,
-  "2023-07-09": 35959,
-  "2023-07-10": 35959,
-  "2023-07-11": 35959,
-  "2023-07-12": 35959,
-  "2023-07-13": 35959,
-  "2023-07-14": 35959,
-  "2023-07-15": 35959,
-  "2023-07-16": 35959,
-  "2023-07-17": 35959,
-  "2023-07-18": 35959,
-  "2023-07-19": 35959,
-  "2023-07-20": 35959,
-  "2023-07-21": 35959,
-  "2023-07-22": 35959,
-  "2023-07-23": 35959,
-  "2023-07-24": 35959,
-  "2023-07-25": 35959,
-  "2023-07-26": 35959,
-  "2023-07-27": 35959,
-  "2023-07-28": 35959,
-  "2023-07-29": 35959,
-  "2023-07-30": 35959,
-  "2023-07-31": 35959,
-  "2023-08-01": 35959,
-  "2023-08-02": 35959,
-  "2023-08-03": 35959,
-  "2023-08-04": 35959,
-  "2023-08-05": 35959,
-  "2023-08-06": 35959,
-  "2023-08-07": 35959,
-  "2023-08-08": 35959,
-  "2023-08-09": 35959,
-  "2023-08-10": 35959,
-  "2023-08-11": 35959,
-  "2023-08-12": 35959,
-  "2023-08-13": 35959,
-  "2023-08-14": 35959,
-  "2023-08-15": 35959,
-  "2023-08-16": 35959,
-  "2023-08-17": 35959,
-  "2023-08-18": 35959,
-  "2023-08-19": 35959,
-  "2023-08-20": 35959,
-  "2023-08-21": 35959,
-  "2023-08-22": 35959,
-  "2023-08-23": 35959,
-  "2023-08-24": 35959,
-  "2023-08-25": 35959,
-  "2023-08-26": 35959,
-  "2023-08-27": 35959,
-  "2023-08-28": 35959,
-  "2023-08-29": 35959,
-  "2023-08-30": 35959,
-  "2023-08-31": 35959,
-  "2023-09-01": 35959,
-  "2023-09-02": 35959,
-  "2023-09-03": 35959,
-  "2023-09-04": 35959,
-  "2023-09-05": 35959,
-  "2023-09-06": 35959,
-  "2023-09-07": 35959,
-  "2023-09-08": 35959,
-  "2023-09-09": 35959,
-  "2023-09-10": 35959,
-  "2023-09-11": 35959,
-  "2023-09-12": 35959,
-  "2023-09-13": 35959,
-  "2023-09-14": 35959,
-  "2023-09-15": 35959,
-  "2023-09-16": 35959,
-  "2023-09-17": 35959,
-  "2023-09-18": 35959,
-  "2023-09-19": 35959,
-  "2023-09-20": 35959,
-  "2023-09-21": 35959,
-  "2023-09-22": 35959,
-  "2023-09-23": 35959,
-  "2023-09-24": 35959,
-  "2023-09-25": 35959,
-  "2023-09-26": 35959,
-  "2023-09-27": 35959,
-  "2023-09-28": 35959,
-  "2023-09-29": 35959,
-  "2023-09-30": 35959,
-  "2023-10-01": 35959,
-  "2023-10-02": 35959,
-  "2023-10-03": 35959,
-  "2023-10-04": 35959,
-  "2023-10-05": 35959,
-  "2023-10-06": 35959,
-  "2023-10-07": 35959,
-  "2023-10-08": 35959,
-  "2023-10-09": 35959,
-  "2023-10-10": 35959,
-  "2023-10-11": 35959,
-  "2023-10-12": 35959,
-  "2023-10-13": 35959,
-  "2023-10-14": 35959,
-  "2023-10-15": 35959,
-  "2023-10-16": 35959,
-  "2023-10-17": 35959,
-  "2023-10-18": 35959,
-  "2023-10-19": 35959,
-  "2023-10-20": 35959,
-  "2023-10-21": 35959,
-  "2023-10-22": 35959,
-  "2023-10-23": 35959,
-  "2023-10-24": 35959,
-  "2023-10-25": 35959,
-  "2023-10-26": 35959,
-  "2023-10-27": 35959,
-  "2023-10-28": 35959,
-  "2023-10-29": 35959,
-  "2023-10-30": 35959,
-  "2023-10-31": 35959,
-  "2023-11-01": 35959,
-  "2023-11-02": 35959,
-  "2023-11-03": 35959,
-  "2023-11-04": 35959,
-  "2023-11-05": 35959,
-  "2023-11-06": 35959,
-  "2023-11-07": 35959,
-  "2023-11-08": 35959,
-  "2023-11-09": 35959,
-  "2023-11-10": 35959,
-  "2023-11-11": 35959,
-  "2023-11-12": 35959,
-  "2023-11-13": 35959,
-  "2023-11-14": 35959,
-  "2023-11-15": 35959,
-  "2023-11-16": 35959,
-  "2023-11-17": 35959,
-  "2023-11-18": 35959,
-  "2023-11-19": 35959,
-  "2023-11-20": 35959,
-  "2023-11-21": 35959,
-  "2023-11-22": 35959,
-  "2023-11-23": 35959,
-  "2023-11-24": 35959,
-  "2023-11-25": 35959,
-  "2023-11-26": 35959,
-  "2023-11-27": 35959,
-  "2023-11-28": 35959,
-  "2023-11-29": 35959,
-  "2023-11-30": 35959,
-  "2023-12-01": 35959,
-  "2023-12-02": 35959,
-  "2023-12-03": 35959,
-  "2023-12-04": 35959,
-  "2023-12-05": 35959,
-  "2023-12-06": 35959,
-  "2023-12-07": 35959,
-  "2023-12-08": 35959,
-  "2023-12-09": 35959,
-  "2023-12-10": 35959,
-  "2023-12-11": 35959,
-  "2023-12-12": 35959,
-  "2023-12-13": 35959,
-  "2023-12-14": 35959,
-  "2023-12-15": 35959,
-  "2023-12-16": 35959,
-  "2023-12-17": 35959,
-  "2023-12-18": 35959,
-  "2023-12-19": 35959,
-  "2023-12-20": 35959,
-  "2023-12-21": 35959,
-  "2023-12-22": 35959,
-  "2023-12-23": 35959,
-  "2023-12-24": 35959,
-  "2023-12-25": 35959,
-  "2023-12-26": 35959,
-  "2023-12-27": 35959,
-  "2023-12-30": 35959,
-  "2023-12-31": 35959,
-  "2024-01-01": 35959,
-  "2024-01-02": 35959,
-  "2024-01-03": 35959
+  "2024-01-17": 35959,
+  "date_first_scraped": "2021-12-21",
+  "description": "50 best tracks of 20/21st century <a href=\"https://open.spotify.com/genre/classical\">classical</a> music. Cover: Arditti Quartet.",
+  "name": "Next Classical",
+  "tracks": [
+    {
+      "album": {
+        "name": "Feldman: Complete Works for 2 Pianists",
+        "url": "https://open.spotify.com/album/503I0eS9V45FQgJZo5Idcn"
+      },
+      "artists": [
+        {
+          "name": "Morton Feldman",
+          "url": "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
+        },
+        {
+          "name": "Kristine Scholz",
+          "url": "https://open.spotify.com/artist/0rnIUXcWM4paLxePIitOEP"
+        },
+        {
+          "name": "Mats Persson",
+          "url": "https://open.spotify.com/artist/5dEcU6U18OMa4eHrBKSye2"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544840,
+      "name": "2 Pianos",
+      "url": "https://open.spotify.com/track/10O7EUrT2aAFIOcuD00Wbx"
+    },
+    {
+      "album": {
+        "name": "Heirlooms: New Music Inspired by Young Children",
+        "url": "https://open.spotify.com/album/1yTscnJoEwGRRjdfzMgswB"
+      },
+      "artists": [
+        {
+          "name": "Armando Bayolo",
+          "url": "https://open.spotify.com/artist/7c6WqQfRp49cMhIMag7FED"
+        },
+        {
+          "name": "Trio Kavak",
+          "url": "https://open.spotify.com/artist/13mQqOxYSZVZ9rHnUnIxN5"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190685,
+      "name": "6 Portraits in Flowing Time: II. She Finds Her Voice",
+      "url": "https://open.spotify.com/track/0CZk1jt1RCiZrzfqS7Zw6Z"
+    },
+    {
+      "album": {
+        "name": "Copland: Appalachian Spring / Clarinet Concerto / Quiet City",
+        "url": "https://open.spotify.com/album/1tZ3jMmJHmNQp7tJEVszLw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Nashville Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2WZZp4b3XXKaSe5OHJ43H0"
+        },
+        {
+          "name": "Paul Gambill",
+          "url": "https://open.spotify.com/artist/3YQKI9IGsLwColAMFnyjPa"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1504800,
+      "name": "Appalachian Spring Suite",
+      "url": "https://open.spotify.com/track/6IQ1XK96ipPTqlEXCPYWwR"
+    },
+    {
+      "album": {
+        "name": "Book of Memory",
+        "url": "https://open.spotify.com/album/6p4Kub121bWWRaoRuc6wfr"
+      },
+      "artists": [
+        {
+          "name": "Paul Lansky",
+          "url": "https://open.spotify.com/artist/1WmGpoQ0sMsyGGRN1IP7cJ"
+        },
+        {
+          "name": "Janus",
+          "url": "https://open.spotify.com/artist/2MAMhTfnmLL5RrnCDUT5n9"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240582,
+      "name": "Book of Memory: Pastoral Counterpoint",
+      "url": "https://open.spotify.com/track/45G1ehYbKh7CTrcpnY4Gna"
+    },
+    {
+      "album": {
+        "name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977",
+        "url": "https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489133,
+      "name": "Bye Bye Butterfly",
+      "url": "https://open.spotify.com/track/3sqvayIhGIvWcYG6G1pf8m"
+    },
+    {
+      "album": {
+        "name": "Mikel Kuehn: Object/Shadow",
+        "url": "https://open.spotify.com/album/6PgFgwWXEfxkZ8aHU6hDLf"
+      },
+      "artists": [
+        {
+          "name": "Mikel Kuehn",
+          "url": "https://open.spotify.com/artist/2LioZcbLNPNWD8AygoBoZR"
+        },
+        {
+          "name": "Craig Hultgren",
+          "url": "https://open.spotify.com/artist/2cXkvhxCt04HLi3JlxrWf1"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605367,
+      "name": "Chiaroscuro",
+      "url": "https://open.spotify.com/track/7a9OMuk7bAlbwJN1XcqUqq"
+    },
+    {
+      "album": {
+        "name": "G\u00f3recki: Little Requiem for a Certain Polka - Concerto-Cantata - Harpsichord Concerto - 3 Dances",
+        "url": "https://open.spotify.com/album/03tGHsyhlrCu1Z3W8cCfd6"
+      },
+      "artists": [
+        {
+          "name": "Henryk G\u00f3recki",
+          "url": "https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI"
+        },
+        {
+          "name": "Carol Wincenc",
+          "url": "https://open.spotify.com/artist/6a74be3DKWOgg8MAMGMB8Z"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378733,
+      "name": "Concerto-Cantata, Op. 65: IV. Arioso e corale: Lento - Tranquillo cantabile - Dolce",
+      "url": "https://open.spotify.com/track/6Xuvfqk5xM6vwk2tTSnlx1"
+    },
+    {
+      "album": {
+        "name": "Louis Andriessen: De Tijd",
+        "url": "https://open.spotify.com/album/5rMbBTBfb6GtgK4cPsIgK2"
+      },
+      "artists": [
+        {
+          "name": "Louis Andriessen",
+          "url": "https://open.spotify.com/artist/2k91aXkeSCPtrFGQzvIgu3"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2574306,
+      "name": "De Tijd (Time)",
+      "url": "https://open.spotify.com/track/2aGTvAuI1CbFdigIPSE0Rs"
+    },
+    {
+      "album": {
+        "name": "Steve Reich - Duet",
+        "url": "https://open.spotify.com/album/71ur60GV9xp9HTvTRRpgiT"
+      },
+      "artists": [
+        {
+          "name": "Steve Reich",
+          "url": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334613,
+      "name": "Duet for two Solo Violins and String Orchestra (Dedicated to and written for Yehudi Menuhin)",
+      "url": "https://open.spotify.com/track/4i4rnJoveCYiMeAhdCDmUc"
+    },
+    {
+      "album": {
+        "name": "Elegiac Arabesques, Op. 26a (1991)",
+        "url": "https://open.spotify.com/album/0uG40YDtF5gvdX4GpbhY7H"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Leclair",
+          "url": "https://open.spotify.com/artist/3purHBiwvfLkGlpDPfpK1e"
+        },
+        {
+          "name": "Suzu Enns",
+          "url": "https://open.spotify.com/artist/38287nvV2fUWd1uvo5q6sl"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206587,
+      "name": "Elegiac Arabesques, Op. 26a (1991)",
+      "url": "https://open.spotify.com/track/3Ygs6rOK3czMkWz3eHAcO8"
+    },
+    {
+      "album": {
+        "name": "Back to the Future",
+        "url": "https://open.spotify.com/album/0vOlZqLajC5E0HOjzdLY5e"
+      },
+      "artists": [
+        {
+          "name": "Norbert Moret",
+          "url": "https://open.spotify.com/artist/3KEIBJs5VKrsFy913OGqeG"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432440,
+      "name": "En reve: 1. Lumi\u00e8re vaporeuse",
+      "url": "https://open.spotify.com/track/1Frut8gDbJBb5DyWckF9yE"
+    },
+    {
+      "album": {
+        "name": "Cage: Harmonies From Apartment House 1776",
+        "url": "https://open.spotify.com/album/6SQsGomVxTEJriPyQ64l4h"
+      },
+      "artists": [
+        {
+          "name": "Arditti Quartet",
+          "url": "https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93880,
+      "name": "Harmony 1: Cookfield \u2013 Lyon",
+      "url": "https://open.spotify.com/track/7F6V9v9T6GaBlvgPOXF4Rq"
+    },
+    {
+      "album": {
+        "name": "N\u00f8rg\u00e5rd: Violin Concertos Nos 1 & 2 - Spaces of Time",
+        "url": "https://open.spotify.com/album/49IntbbuwquL8OyvS5splR"
+      },
+      "artists": [
+        {
+          "name": "Per N\u00f8rg\u00e5rd",
+          "url": "https://open.spotify.com/artist/10mzFTtKhsuZr5RWNBnJoY"
+        },
+        {
+          "name": "Peter Herresthal",
+          "url": "https://open.spotify.com/artist/5SE4eoIjJiRgcDMe3ahhFh"
+        },
+        {
+          "name": "Stavanger Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
+        },
+        {
+          "name": "Rolf Gupta",
+          "url": "https://open.spotify.com/artist/55th1FfEWzEAAqtJzhaKUV"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437960,
+      "name": "Helle Nacht (Bright Night), \"Violin Concerto No. 1\" (version for violin and chamber orchestra): I. Allegro moderato",
+      "url": "https://open.spotify.com/track/636I59i8vnELQm5Ds9gCyA"
+    },
+    {
+      "album": {
+        "name": "Gy\u00f6rgy Kurt\u00e1g: Complete String Quartets",
+        "url": "https://open.spotify.com/album/2TbHJcnRIE5G1fIyKegunS"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        },
+        {
+          "name": "Molinari Quartet",
+          "url": "https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548173,
+      "name": "Hommage a Mihaly Andras, \"12 Microludes for String Quartet\", Op. 13",
+      "url": "https://open.spotify.com/track/60r4XV6oBa7W9dXcPpYY8s"
+    },
+    {
+      "album": {
+        "name": "J. Ching",
+        "url": "https://open.spotify.com/album/2JrSqFtdDfoKOHLv5S6636"
+      },
+      "artists": [
+        {
+          "name": "Per N\u00f8rg\u00e5rd",
+          "url": "https://open.spotify.com/artist/10mzFTtKhsuZr5RWNBnJoY"
+        },
+        {
+          "name": "Marta Klimasara",
+          "url": "https://open.spotify.com/artist/3Xup3n3w1SnMzIbfqxcK26"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318653,
+      "name": "I Ching: No. 57, The Gentle, the Permanent",
+      "url": "https://open.spotify.com/track/0ZF7CQPuLt3L7Er50qrIbO"
+    },
+    {
+      "album": {
+        "name": "Xenakis, I.: Orchestral Works, Vol. 2 - Jonchaies / Shaar / Lichens / Antikhthon",
+        "url": "https://open.spotify.com/album/2h5ElBHIe0GxkEy9mKWpNf"
+      },
+      "artists": [
+        {
+          "name": "Iannis Xenakis",
+          "url": "https://open.spotify.com/artist/399s62PfwKlLnrLvBjWFYB"
+        },
+        {
+          "name": "Luxembourg Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5GlB0H2IPdfWUwRr7mfN3r"
+        },
+        {
+          "name": "Arturo Tamayo",
+          "url": "https://open.spotify.com/artist/5LZsegaUU9a4Dd9rlODgvB"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 958533,
+      "name": "Jonchaies",
+      "url": "https://open.spotify.com/track/1zOqrZCX1qyzyIlhMXALH2"
+    },
+    {
+      "album": {
+        "name": "Hamel, P.M.: Transition",
+        "url": "https://open.spotify.com/album/4wB5golzo24PBk91ktCYu4"
+      },
+      "artists": [
+        {
+          "name": "Peter Michael Hamel",
+          "url": "https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 789000,
+      "name": "Let it Play",
+      "url": "https://open.spotify.com/track/3NwdigZupspRI12RKodNId"
+    },
+    {
+      "album": {
+        "name": "Messaien : Vingt regards sur l'enfant J\u00e9sus",
+        "url": "https://open.spotify.com/album/1S7AX9lWvONsBpLTXrxtM6"
+      },
+      "artists": [
+        {
+          "name": "Olivier Messiaen",
+          "url": "https://open.spotify.com/artist/6CS9O2pE67oq44GZuBEBuD"
+        },
+        {
+          "name": "Pierre-Laurent Aimard",
+          "url": "https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381160,
+      "name": "Messiaen : Vingt regards sur l'enfant J\u00e9sus : XI Premi\u00e8re communion de la Vierge",
+      "url": "https://open.spotify.com/track/3trVaVJQNmDcUmMe7FVwpK"
+    },
+    {
+      "album": {
+        "name": "New South American Discoveries",
+        "url": "https://open.spotify.com/album/4DHEOEK8yPE23ezUtelOUP"
+      },
+      "artists": [
+        {
+          "name": "Diego Vega",
+          "url": "https://open.spotify.com/artist/1vX6o3djvPFUfwwOqHnMVG"
+        },
+        {
+          "name": "The Norwegian Radio Orchestra",
+          "url": "https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02"
+        },
+        {
+          "name": "Miguel Harth-Bedoya",
+          "url": "https://open.spotify.com/artist/7oaCyiGLRiNA1olG3NRK39"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347160,
+      "name": "M\u00fasica Muisca",
+      "url": "https://open.spotify.com/track/0ngTZDY95wX6Cczjn2zRkg"
+    },
+    {
+      "album": {
+        "name": "Reich: Mallet Quartet, Sextet, Nagoya Marimbas & Music for Pieces of Wood",
+        "url": "https://open.spotify.com/album/40auUhpfmKHRAJT9sWdpuM"
+      },
+      "artists": [
+        {
+          "name": "Steve Reich",
+          "url": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+        },
+        {
+          "name": "Sean Connors",
+          "url": "https://open.spotify.com/artist/61CNWqDsIsXY1KmLINPZ6j"
+        },
+        {
+          "name": "Peter Martin",
+          "url": "https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "Nagoya Marimbas",
+      "url": "https://open.spotify.com/track/3K3Ww5Gp7sL2baIvCXvuUA"
+    },
+    {
+      "album": {
+        "name": "Night Studies",
+        "url": "https://open.spotify.com/album/30VdZldbyFfiu7ti1Bnw9R"
+      },
+      "artists": [
+        {
+          "name": "Marino Formenti",
+          "url": "https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152146,
+      "name": "Night Studies: Study 1.1.1 (Nachts)",
+      "url": "https://open.spotify.com/track/265m4RXrWWR9AJ11jujV47"
+    },
+    {
+      "album": {
+        "name": "C. Chase: Density",
+        "url": "https://open.spotify.com/album/0tdtSCkPrISPsFfOfovW2U"
+      },
+      "artists": [
+        {
+          "name": "Marcos Balter",
+          "url": "https://open.spotify.com/artist/0rNAAMnuGPCPzE7Oa9z7W3"
+        },
+        {
+          "name": "Claire Chase",
+          "url": "https://open.spotify.com/artist/0oGbj35ySuyuMpiMdtyV4E"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549794,
+      "name": "Pessoa",
+      "url": "https://open.spotify.com/track/7lmWdtF3yeiwJqmjYNbQUG"
+    },
+    {
+      "album": {
+        "name": "Tobias Brostr\u00f6m: Kal\u00e9idoscope",
+        "url": "https://open.spotify.com/album/3xMKdrE2HmjflRp13lTXGf"
+      },
+      "artists": [
+        {
+          "name": "Tobias Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/6Bs0zsx2BEdmVLcUCWPScN"
+        },
+        {
+          "name": "Per Tengstrand",
+          "url": "https://open.spotify.com/artist/5yrRKsP3SFyXoUWZXAHNsP"
+        },
+        {
+          "name": "G\u00e4vle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2DMF5PvArh8PhpR1YRDBgv"
+        },
+        {
+          "name": "Johannes Gustavsson",
+          "url": "https://open.spotify.com/artist/3l7b3y75HvmxtGgvRPrh0j"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356880,
+      "name": "Piano Concerto, \"Belle Epoque\": I. Molto vivo",
+      "url": "https://open.spotify.com/track/1Zhvr5fnW1UWMuezagOybN"
+    },
+    {
+      "album": {
+        "name": "Aaron Helgeson: Poems of Sheer Nothingness",
+        "url": "https://open.spotify.com/album/0015wt9USprJnZnDYImqZj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Helgeson",
+          "url": "https://open.spotify.com/artist/05R9aG6GQlvjZItFasJ77X"
+        },
+        {
+          "name": "Susan Narucki",
+          "url": "https://open.spotify.com/artist/1XzA2Am2T9xgqScMxavfhB"
+        },
+        {
+          "name": "Talea Ensemble",
+          "url": "https://open.spotify.com/artist/6X70OgCIqxa4ZlVwag0ss8"
+        },
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/7vxWO1rQ9OnoS44WJ3rOrM"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465120,
+      "name": "Poems of Sheer Nothingness: No. 5. A penas sai commensar",
+      "url": "https://open.spotify.com/track/2sSsJcNl1M6ZkYcaVYALJY"
+    },
+    {
+      "album": {
+        "name": "Ken Thomson: Restless",
+        "url": "https://open.spotify.com/album/0gq88ucm4LvluhNvlD2A9n"
+      },
+      "artists": [
+        {
+          "name": "Ken Thomson",
+          "url": "https://open.spotify.com/artist/30aGSUY8YGcfTR0d4sSpid"
+        },
+        {
+          "name": "Ashley Bathgate",
+          "url": "https://open.spotify.com/artist/6jrYUiKNUh7ndjKkg25xDS"
+        },
+        {
+          "name": "Karl Larson",
+          "url": "https://open.spotify.com/artist/7LxNPxukXq0FKTbCgCvJqD"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291445,
+      "name": "Restless: I. Restless",
+      "url": "https://open.spotify.com/track/01rWDQRDQV14liHmw80Lva"
+    },
+    {
+      "album": {
+        "name": "Mischa Zupko: Eclipse",
+        "url": "https://open.spotify.com/album/2Mr7pourztZmeUxOKDlVVc"
+      },
+      "artists": [
+        {
+          "name": "Mischa Zupko",
+          "url": "https://open.spotify.com/artist/4HJpTcH7zg9RuBmwALAQgq"
+        },
+        {
+          "name": "Sang Mee Lee",
+          "url": "https://open.spotify.com/artist/5SELREMn3aPwYgYzy9GH0I"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567529,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/0aC6nHfM1ukchdt3annSuF"
+    },
+    {
+      "album": {
+        "name": "John Adams: Scheherazade.2",
+        "url": "https://open.spotify.com/album/3WLVb3q6zWYuEv7RBI3BTz"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Leila Josefowicz",
+          "url": "https://open.spotify.com/artist/28Bdn1xwlsfZKoLvMsgakl"
+        },
+        {
+          "name": "St. Louis Symphony",
+          "url": "https://open.spotify.com/artist/4DBdvdTZBJd45Izgjt9Xlg"
+        },
+        {
+          "name": "David Robertson",
+          "url": "https://open.spotify.com/artist/2Wyq1VPgjZgRPQTUmqoFcj"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 900586,
+      "name": "Scheherazade 2: I. Tale of the Wise Young Woman-Pursuit by the True Believers",
+      "url": "https://open.spotify.com/track/1tT1mO5OT6iCX5fghWxTrp"
+    },
+    {
+      "album": {
+        "name": "The Way Things Go",
+        "url": "https://open.spotify.com/album/1XiEzuu5i9I8HFFI9GRsHF"
+      },
+      "artists": [
+        {
+          "name": "Belinda Reynolds",
+          "url": "https://open.spotify.com/artist/4DfCBpNpblnY5k4DJ2DUsf"
+        },
+        {
+          "name": "Tara Helen O'Connor",
+          "url": "https://open.spotify.com/artist/3q1R3Pjfen46QHWsxdE71N"
+        },
+        {
+          "name": "Margaret Kampmeier",
+          "url": "https://open.spotify.com/artist/4BqMQpFcLik2rVyqtwZH1J"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443986,
+      "name": "Share",
+      "url": "https://open.spotify.com/track/04WcLvInaX9CcTFBB00hCC"
+    },
+    {
+      "album": {
+        "name": "David Lumsdaine: Orchestral Works",
+        "url": "https://open.spotify.com/album/1LYc0Sg7JZ9822ypKEnUou"
+      },
+      "artists": [
+        {
+          "name": "David Lumsdaine",
+          "url": "https://open.spotify.com/artist/42nLnrr3Bpu6dKhSOCR4rB"
+        },
+        {
+          "name": "West Australian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3tjuAOn55dpEGxqEnKJIX5"
+        },
+        {
+          "name": "Albert Rosen",
+          "url": "https://open.spotify.com/artist/3EnXj5MQnBOu9WfvAuv4qT"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 725093,
+      "name": "Shoalhaven",
+      "url": "https://open.spotify.com/track/5cWsyWwIttYbakyl1rM8tF"
+    },
+    {
+      "album": {
+        "name": "Penderecki: Music for Chamber Orchestra",
+        "url": "https://open.spotify.com/album/1Z5n1SCK2jjDK5xJEkXFqJ"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Penderecki",
+          "url": "https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku"
+        },
+        {
+          "name": "Jakub Haufa",
+          "url": "https://open.spotify.com/artist/0D1ATNY4F1idBehqwqCoYH"
+        },
+        {
+          "name": "Artur Paciorkiewicz",
+          "url": "https://open.spotify.com/artist/5ZBFCF4QNxqpHEGKIX3lHN"
+        },
+        {
+          "name": "Jerzy Klocek",
+          "url": "https://open.spotify.com/artist/0eOMFRhStj5fD0QbT7Y68W"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541373,
+      "name": "Sinfonietta No. 1: I. Allegro molto",
+      "url": "https://open.spotify.com/track/4T18AreCdlsYoGjEblKTyT"
+    },
+    {
+      "album": {
+        "name": "Hillborg: Cold Heat & Beast Sampler",
+        "url": "https://open.spotify.com/album/2lsLbEcZe4MVTmCMnNfsv0"
+      },
+      "artists": [
+        {
+          "name": "Anders Hillborg",
+          "url": "https://open.spotify.com/artist/6FJvb2eSpRIXvmvp1aAw7y"
+        },
+        {
+          "name": "Ida Falk Winland",
+          "url": "https://open.spotify.com/artist/5mJ9dk76LmAf2WNvvS3bf6"
+        },
+        {
+          "name": "Hannah Holgersson",
+          "url": "https://open.spotify.com/artist/6XmsZNiP7zc1teOpbp8Qti"
+        },
+        {
+          "name": "Eric Ericson Chamber Choir",
+          "url": "https://open.spotify.com/artist/1jXIt678bAwAiFlKEve27W"
+        },
+        {
+          "name": "Swedish Radio Choir",
+          "url": "https://open.spotify.com/artist/1A9umzen6B9Shk2spCzR9y"
+        },
+        {
+          "name": "Royal Stockholm Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1985373,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6jwFcPYS4470NhX9ddDP9s"
+    },
+    {
+      "album": {
+        "name": "Beneath a Canopy of Angels...a River of Stars",
+        "url": "https://open.spotify.com/album/788UUhYsNGIXpQRMtZXHR7"
+      },
+      "artists": [
+        {
+          "name": "Post-Haste Reed Duo",
+          "url": "https://open.spotify.com/artist/2nF9tsml9YjDEpbfnUx11c"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154026,
+      "name": "Some Thoughts About Time: Bound",
+      "url": "https://open.spotify.com/track/1Fq1xcn5YspC08Sp17n4qt"
+    },
+    {
+      "album": {
+        "name": "Touch Strings",
+        "url": "https://open.spotify.com/album/230qrtFBQ9HTTb7jzbOcJD"
+      },
+      "artists": [
+        {
+          "name": "Phill Niblock",
+          "url": "https://open.spotify.com/artist/476HQK2x1R3yow5duyU5hO"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3540833,
+      "name": "Stosspeng",
+      "url": "https://open.spotify.com/track/3q8pfvizd9mJG0mNAZY0VK"
+    },
+    {
+      "album": {
+        "name": "Gy\u00f6rgy Ligeti Edition, Vol. 1",
+        "url": "https://open.spotify.com/album/1c8C7JENFwz00TSXhg1XmW"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Ligeti",
+          "url": "https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg"
+        },
+        {
+          "name": "Arditti Quartet",
+          "url": "https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272426,
+      "name": "String Quartet No. 2 (1968): II. Sostenuto, molto calmo",
+      "url": "https://open.spotify.com/track/3uAoy6Rx9KBsW1DFdm7snP"
+    },
+    {
+      "album": {
+        "name": "Gubaidulina: Complete String Quartets",
+        "url": "https://open.spotify.com/album/483MtVC6j7Mez5iWSwv7Xi"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gubaidulina",
+          "url": "https://open.spotify.com/artist/2xcUqNAHTLVnHeK0YLA9IO"
+        },
+        {
+          "name": "Molinari Quartet",
+          "url": "https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 698360,
+      "name": "String Quartet No. 4",
+      "url": "https://open.spotify.com/track/24pwXA6OQVRZMtcKqz1Odg"
+    },
+    {
+      "album": {
+        "name": "Webern: Complete String Trios and Quartets - Arditti Quartet Edition, Vol. 8",
+        "url": "https://open.spotify.com/album/1GPqEDpzmtdj0B48vkOwyy"
+      },
+      "artists": [
+        {
+          "name": "Anton Webern",
+          "url": "https://open.spotify.com/artist/6cg7ooZDeSSLYVTWGpASjX"
+        },
+        {
+          "name": "Arditti Quartet",
+          "url": "https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "String Quartet, Op. 28: Sehr fliessend",
+      "url": "https://open.spotify.com/track/6CmJpNG2JEDiO5j8FaK4EZ"
+    },
+    {
+      "album": {
+        "name": "Schnittke: Quatuor et Quintette avec piano - Trio \u00e0 cordes",
+        "url": "https://open.spotify.com/album/6KQ7sDA8UUTHhPhpFotKx8"
+      },
+      "artists": [
+        {
+          "name": "Alfred Schnittke",
+          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
+        },
+        {
+          "name": "Molinari Quartet",
+          "url": "https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 781280,
+      "name": "String Trio: I. Moderato",
+      "url": "https://open.spotify.com/track/0j3rUtxsmmfYfWyENVyoXa"
+    },
+    {
+      "album": {
+        "name": "America Again",
+        "url": "https://open.spotify.com/album/6oheqscXQo3OlPp8r66MqY"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Negr\u00f3n",
+          "url": "https://open.spotify.com/artist/0z4hzKxAywZeshbUc1C8fY"
+        },
+        {
+          "name": "Lara Downes",
+          "url": "https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "Sueno Recurrente",
+      "url": "https://open.spotify.com/track/1sk61lrEBrR35MKfYGsFD7"
+    },
+    {
+      "album": {
+        "name": "Rosenberg: Piano Pieces",
+        "url": "https://open.spotify.com/album/4hAah1iiIZgOwkqybj2Oj8"
+      },
+      "artists": [
+        {
+          "name": "Hilding Rosenberg",
+          "url": "https://open.spotify.com/artist/3RIIoZtoTOgSEVHEgZnDnk"
+        },
+        {
+          "name": "Anna Christensson",
+          "url": "https://open.spotify.com/artist/6bnRG1CA38heSs9we5CFTZ"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Svit (Suite), Op. 20: II. Arabesk: Allegero non tanto con tenerezza",
+      "url": "https://open.spotify.com/track/0NlA6n11igsoJ64WyTfEFQ"
+    },
+    {
+      "album": {
+        "name": "N\u00f8rg\u00e5rd: Symphonies Nos. 1 & 8",
+        "url": "https://open.spotify.com/album/3QWq2EtAEWfCGbA8veenlI"
+      },
+      "artists": [
+        {
+          "name": "Per N\u00f8rg\u00e5rd",
+          "url": "https://open.spotify.com/artist/10mzFTtKhsuZr5RWNBnJoY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        }
+      ],
+      "date_added": "2016-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704546,
+      "name": "Symphony No. 8: I. Tempo giusto - Poco allegro, molto distinto",
+      "url": "https://open.spotify.com/track/4UbEQasGp2JVuVbYvghmkR"
+    },
+    {
+      "album": {
+        "name": "Vyacheslav Artyomov: On the Threshold of a Radiant World, Ave atque vale & Ave, cruz alba",
+        "url": "https://open.spotify.com/album/15fl2gpVb3Jy5QLeNI71Hl"
+      },
+      "artists": [
+        {
+          "name": "Vyacheslav Artyomov",
+          "url": "https://open.spotify.com/artist/2hbkQrto5H2tL00NQ7ZR4W"
+        },
+        {
+          "name": "Yeremei Zukerman",
+          "url": "https://open.spotify.com/artist/4WFmixUFActhK3IDEGDA4Y"
+        },
+        {
+          "name": "Svetlana Stepchenko",
+          "url": "https://open.spotify.com/artist/0xTQrLb01Fuu0Sss1Q39iP"
+        },
+        {
+          "name": "Alexander Arkhangelsky",
+          "url": "https://open.spotify.com/artist/47Q6OdJQzIhNp2XUTl3keu"
+        },
+        {
+          "name": "Zoya Abolits",
+          "url": "https://open.spotify.com/artist/5YMtX9MEKT0lbm3INKyduL"
+        },
+        {
+          "name": "Emin Martirosian",
+          "url": "https://open.spotify.com/artist/7GKf2516RI3Qa9O56adnaJ"
+        },
+        {
+          "name": "Konstantin Volostnov",
+          "url": "https://open.spotify.com/artist/7lgpNt3aZq6f44zKlKpXFF"
+        },
+        {
+          "name": "Russian National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/510dZlhI6Jy1J008W0FPZs"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2191142,
+      "name": "Symphony of the Way: II. On the Threshold of a Bright World",
+      "url": "https://open.spotify.com/track/7dt6Np64hAMCorvEGdn9O9"
+    },
+    {
+      "album": {
+        "name": "The Twenty-Fifth Hour: The Chamber Music of Thomas Ad\u00e8s",
+        "url": "https://open.spotify.com/album/0gA18Dwq9chk3k7NP7VsoI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ad\u00e8s",
+          "url": "https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi"
+        },
+        {
+          "name": "Calder Quartet",
+          "url": "https://open.spotify.com/artist/7CRr5a9zEn4PUKYGnptHCw"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425640,
+      "name": "The Four Quarters: I. Nightfalls",
+      "url": "https://open.spotify.com/track/2dGFuVjPxVc5g7Eo2HSHpR"
+    },
+    {
+      "album": {
+        "name": "Aleksandra Vrebalov: The Sea Ranch Songs",
+        "url": "https://open.spotify.com/album/5OK0ThPTbmmHdTaau1PFqo"
+      },
+      "artists": [
+        {
+          "name": "Aleksandra Vrebalov",
+          "url": "https://open.spotify.com/artist/35xZtNAyQFy0ggE8ZRNhvH"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385692,
+      "name": "The Sea Ranch Songs: Spirit I",
+      "url": "https://open.spotify.com/track/4L3cYr0Q9M7pYshqX0W2nj"
+    },
+    {
+      "album": {
+        "name": "Phantasmagoria - Danish Piano Trios",
+        "url": "https://open.spotify.com/album/3Yr0nCuNHjuigMtV5dbd5h"
+      },
+      "artists": [
+        {
+          "name": "Hans Abrahamsen",
+          "url": "https://open.spotify.com/artist/7lFNEy6KsssnTZPNg78ZJM"
+        },
+        {
+          "name": "Trio con Brio Copenhagen",
+          "url": "https://open.spotify.com/artist/5JrJyLCa97gzshLwIurxdk"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Traumlieder for piano trio: I. Serenade",
+      "url": "https://open.spotify.com/track/5bGFHfkCy0eieZ5aMEt07o"
+    },
+    {
+      "album": {
+        "name": "neoN",
+        "url": "https://open.spotify.com/album/1Jd9taeVO4rBVv56xVrhaw"
+      },
+      "artists": [
+        {
+          "name": "Ensemble neoN",
+          "url": "https://open.spotify.com/artist/1jx6WgG5wfcNpPVg4upONX"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410093,
+      "name": "Travelling Light 2",
+      "url": "https://open.spotify.com/track/6X1cry5OO7HrlWkQjbYXVN"
+    },
+    {
+      "album": {
+        "name": "Rihm Edition 5 - Verwandlungen",
+        "url": "https://open.spotify.com/album/5qbcOAwlXN61Q518hhgb7P"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Rihm",
+          "url": "https://open.spotify.com/artist/1LqZaxmZNvkNyC5FaICGkW"
+        },
+        {
+          "name": "WDR Sinfonieorchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1K91XZsljzXqn1oYcPIsfL"
+        },
+        {
+          "name": "Christian Arming",
+          "url": "https://open.spotify.com/artist/5TQTG8obIquX975yyq5rpx"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 984000,
+      "name": "Verwandlung",
+      "url": "https://open.spotify.com/track/73c58bGCox03BjRRTNdMmV"
+    },
+    {
+      "album": {
+        "name": "Sequenza",
+        "url": "https://open.spotify.com/album/01D0RlNjcloQ754JpshXaU"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e8ne Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
+        },
+        {
+          "name": "Janusz Wawrowski",
+          "url": "https://open.spotify.com/artist/3L4rkkdRbrggJefAPB7XgW"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410360,
+      "name": "Violin Sonata In E Major, Op. 27 No. 6",
+      "url": "https://open.spotify.com/track/0YyfmSZeMDKDz75Jsk7TS1"
+    },
+    {
+      "album": {
+        "name": "War Memorials: Music for Brass Band",
+        "url": "https://open.spotify.com/album/04kwRoVo463seLvHW1qETR"
+      },
+      "artists": [
+        {
+          "name": "Robin Holloway",
+          "url": "https://open.spotify.com/artist/47KSnUuqxzvvvXsjiWj8QN"
+        },
+        {
+          "name": "Cory Band",
+          "url": "https://open.spotify.com/artist/0ex62ZkMnXajypq8awHKHr"
+        },
+        {
+          "name": "Philip Harper",
+          "url": "https://open.spotify.com/artist/4bXqLZCCZmXTfTiLKIuYL6"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672253,
+      "name": "War Memorial, Op. 50: No. 1. Men Marching",
+      "url": "https://open.spotify.com/track/2lVKry7sAnpHcBTMhKtTc2"
+    },
+    {
+      "album": {
+        "name": "Robert Martin: The Gorky Pieces",
+        "url": "https://open.spotify.com/album/7GncBfagiQupf2guDYvCMh"
+      },
+      "artists": [
+        {
+          "name": "Robert Martin",
+          "url": "https://open.spotify.com/artist/4u0PKP25tLjL78rwFAnHkJ"
+        },
+        {
+          "name": "Jordan Dodson",
+          "url": "https://open.spotify.com/artist/4CDLHTwLCYfttCJ1CkMuua"
+        },
+        {
+          "name": "North South Consonance Ensemble",
+          "url": "https://open.spotify.com/artist/6Hf9bcFMIt4wP4nRmWhXKm"
+        },
+        {
+          "name": "Max Lifchitz",
+          "url": "https://open.spotify.com/artist/7orEDobLe1oH8D4dSDK11c"
+        }
+      ],
+      "date_added": "2016-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1137240,
+      "name": "Water of the Flowery Mill",
+      "url": "https://open.spotify.com/track/0QheqbBPkVctgzhxECQLUk"
+    },
+    {
+      "album": {
+        "name": "Goehr: Marching to Carcassonne",
+        "url": "https://open.spotify.com/album/5jckFM7DfsU7TvNnAaoG3p"
+      },
+      "artists": [
+        {
+          "name": "Alexander Goehr",
+          "url": "https://open.spotify.com/artist/2oaB91yB6t8huanVdvYQRr"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Oliver Knussen",
+          "url": "https://open.spotify.com/artist/3m4IJPdirkdwwxa8hK55QN"
+        }
+      ],
+      "date_added": "2016-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 927013,
+      "name": "When Adam Fell, Op. 89",
+      "url": "https://open.spotify.com/track/3PoCrk4KhQhZVqm12a19hU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6Oqe1LC2A2s"
 }

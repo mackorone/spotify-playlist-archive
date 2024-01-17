@@ -1,577 +1,1663 @@
 {
-  "2022-06-02": 129672,
-  "2022-06-03": 129711,
-  "2022-06-04": 129751,
-  "2022-06-05": 129809,
-  "2022-06-06": 129852,
-  "2022-06-07": 129881,
-  "2022-06-08": 129918,
-  "2022-06-09": 129941,
-  "2022-06-10": 129968,
-  "2022-06-11": 130006,
-  "2022-06-12": 130035,
-  "2022-06-13": 130067,
-  "2022-06-14": 130089,
-  "2022-06-15": 130126,
-  "2022-06-16": 130148,
-  "2022-06-17": 130189,
-  "2022-06-18": 130225,
-  "2022-06-19": 130277,
-  "2022-06-20": 130277,
-  "2022-06-21": 130303,
-  "2022-06-22": 130347,
-  "2022-06-23": 130347,
-  "2022-06-24": 130382,
-  "2022-06-25": 130428,
-  "2022-06-26": 130472,
-  "2022-06-27": 130509,
-  "2022-06-28": 130542,
-  "2022-06-29": 130575,
-  "2022-06-30": 130605,
-  "2022-07-01": 130656,
-  "2022-07-02": 130685,
-  "2022-07-03": 130726,
-  "2022-07-04": 130755,
-  "2022-07-05": 130755,
-  "2022-07-06": 130755,
-  "2022-07-07": 130852,
-  "2022-07-08": 130874,
-  "2022-07-09": 130913,
-  "2022-07-10": 130949,
-  "2022-07-11": 130981,
-  "2022-07-12": 131008,
-  "2022-07-13": 131038,
-  "2022-07-14": 131082,
-  "2022-07-15": 131110,
-  "2022-07-16": 131145,
-  "2022-07-17": 131178,
-  "2022-07-18": 131224,
-  "2022-07-19": 131264,
-  "2022-07-20": 131303,
-  "2022-07-21": 131344,
-  "2022-07-22": 131370,
-  "2022-07-23": 131425,
-  "2022-07-24": 131465,
-  "2022-07-25": 131492,
-  "2022-07-26": 131515,
-  "2022-07-27": 131549,
-  "2022-07-28": 131580,
-  "2022-07-29": 131608,
-  "2022-07-30": 131687,
-  "2022-07-31": 131687,
-  "2022-08-01": 131719,
-  "2022-08-02": 131800,
-  "2022-08-03": 131800,
-  "2022-08-04": 131849,
-  "2022-08-05": 131904,
-  "2022-08-06": 131942,
-  "2022-08-07": 131983,
-  "2022-08-08": 132022,
-  "2022-08-09": 132074,
-  "2022-08-10": 132115,
-  "2022-08-11": 132141,
-  "2022-08-12": 132178,
-  "2022-08-13": 132199,
-  "2022-08-14": 132264,
-  "2022-08-15": 132300,
-  "2022-08-16": 132334,
-  "2022-08-17": 132381,
-  "2022-08-18": 132413,
-  "2022-08-19": 132473,
-  "2022-08-20": 132521,
-  "2022-08-21": 132571,
-  "2022-08-22": 132628,
-  "2022-08-23": 132660,
-  "2022-08-24": 132696,
-  "2022-08-25": 132733,
-  "2022-08-26": 132780,
-  "2022-08-27": 132825,
-  "2022-08-28": 132868,
-  "2022-08-29": 132916,
-  "2022-08-30": 132945,
-  "2022-08-31": 132993,
-  "2022-09-01": 133032,
-  "2022-09-02": 133084,
-  "2022-09-03": 133131,
-  "2022-09-04": 133188,
-  "2022-09-05": 133215,
-  "2022-09-06": 133247,
-  "2022-09-07": 133287,
-  "2022-09-09": 133364,
-  "2022-09-10": 133398,
-  "2022-09-11": 133463,
-  "2022-09-12": 133493,
-  "2022-09-13": 133530,
-  "2022-09-15": 133591,
-  "2022-09-16": 133636,
-  "2022-09-17": 133686,
-  "2022-09-18": 133732,
-  "2022-09-19": 133759,
-  "2022-09-20": 133783,
-  "2022-09-21": 133822,
-  "2022-09-22": 133875,
-  "2022-09-23": 133915,
-  "2022-09-24": 133915,
-  "2022-09-25": 134007,
-  "2022-09-26": 134060,
-  "2022-09-27": 134105,
-  "2022-09-28": 134140,
-  "2022-09-29": 134185,
-  "2022-09-30": 134226,
-  "2022-10-01": 134280,
-  "2022-10-02": 134339,
-  "2022-10-03": 134373,
-  "2022-10-04": 134396,
-  "2022-10-05": 134431,
-  "2022-10-06": 134472,
-  "2022-10-07": 134540,
-  "2022-10-08": 134590,
-  "2022-10-09": 134658,
-  "2022-10-10": 134666,
-  "2022-10-11": 134704,
-  "2022-10-12": 134742,
-  "2022-10-13": 134779,
-  "2022-10-14": 134832,
-  "2022-10-15": 134867,
-  "2022-10-16": 134918,
-  "2022-10-17": 134947,
-  "2022-10-18": 134978,
-  "2022-10-19": 135024,
-  "2022-10-20": 135054,
-  "2022-10-21": 135093,
-  "2022-10-22": 135129,
-  "2022-10-23": 135176,
-  "2022-10-24": 135225,
-  "2022-10-25": 135271,
-  "2022-10-26": 135307,
-  "2022-10-27": 135327,
-  "2022-10-28": 135361,
-  "2022-10-29": 135407,
-  "2022-10-30": 135455,
-  "2022-10-31": 135495,
-  "2022-11-01": 135526,
-  "2022-11-02": 135557,
-  "2022-11-03": 135596,
-  "2022-11-04": 135635,
-  "2022-11-05": 135675,
-  "2022-11-06": 135711,
-  "2022-11-07": 135740,
-  "2022-11-08": 135768,
-  "2022-11-09": 135796,
-  "2022-11-10": 135848,
-  "2022-11-11": 135884,
-  "2022-11-12": 135923,
-  "2022-11-13": 135960,
-  "2022-11-14": 136000,
-  "2022-11-15": 136044,
-  "2022-11-16": 136082,
-  "2022-11-17": 136118,
-  "2022-11-18": 136126,
-  "2022-11-19": 136132,
-  "2022-11-20": 136167,
-  "2022-11-21": 136197,
-  "2022-11-22": 136213,
-  "2022-11-23": 136256,
-  "2022-11-24": 136310,
-  "2022-11-25": 136383,
-  "2022-11-26": 136427,
-  "2022-11-27": 136462,
-  "2022-11-28": 136486,
-  "2022-11-29": 136519,
-  "2022-11-30": 136552,
-  "2022-12-01": 136590,
-  "2022-12-02": 136599,
-  "2022-12-03": 136677,
-  "2022-12-04": 136731,
-  "2022-12-05": 136768,
-  "2022-12-06": 136799,
-  "2022-12-07": 136837,
-  "2022-12-08": 136879,
-  "2022-12-09": 136913,
-  "2022-12-10": 136950,
-  "2022-12-11": 136977,
-  "2022-12-12": 137010,
-  "2022-12-13": 137039,
-  "2022-12-14": 137080,
-  "2022-12-15": 137106,
-  "2022-12-16": 137146,
-  "2022-12-17": 137187,
-  "2022-12-18": 137254,
-  "2022-12-19": 137276,
-  "2022-12-20": 137348,
-  "2022-12-21": 137348,
-  "2022-12-22": 137388,
-  "2022-12-24": 137477,
-  "2022-12-25": 137537,
-  "2022-12-26": 137568,
-  "2022-12-27": 137592,
-  "2022-12-28": 137638,
-  "2022-12-29": 137671,
-  "2022-12-30": 137703,
-  "2022-12-31": 137741,
-  "2023-01-01": 137779,
-  "2023-01-02": 137803,
-  "2023-01-03": 137828,
-  "2023-01-04": 137849,
-  "2023-01-05": 137880,
-  "2023-01-06": 137909,
-  "2023-01-07": 137982,
-  "2023-01-08": 138005,
-  "2023-01-09": 138036,
-  "2023-01-10": 138072,
-  "2023-01-11": 138095,
-  "2023-01-12": 138130,
-  "2023-01-13": 138189,
-  "2023-01-14": 138264,
-  "2023-01-15": 138273,
-  "2023-01-16": 138299,
-  "2023-01-17": 138344,
-  "2023-01-18": 138366,
-  "2023-01-19": 138406,
-  "2023-01-20": 138459,
-  "2023-01-21": 138505,
-  "2023-01-22": 138565,
-  "2023-01-23": 138609,
-  "2023-01-24": 138651,
-  "2023-01-25": 138700,
-  "2023-01-26": 138746,
-  "2023-01-27": 138780,
-  "2023-01-28": 138827,
-  "2023-01-29": 138866,
-  "2023-01-30": 138885,
-  "2023-01-31": 138885,
-  "2023-02-01": 138961,
-  "2023-02-02": 138992,
-  "2023-02-03": 139016,
-  "2023-02-04": 139066,
-  "2023-02-05": 139118,
-  "2023-02-06": 139160,
-  "2023-02-07": 139192,
-  "2023-02-08": 139248,
-  "2023-02-09": 139248,
-  "2023-02-10": 139284,
-  "2023-02-11": 139321,
-  "2023-02-12": 139397,
-  "2023-02-13": 139431,
-  "2023-02-14": 139431,
-  "2023-02-15": 139476,
-  "2023-02-16": 139513,
-  "2023-02-17": 139547,
-  "2023-02-18": 139627,
-  "2023-02-19": 139641,
-  "2023-02-20": 139666,
-  "2023-02-21": 139696,
-  "2023-02-22": 139735,
-  "2023-02-23": 139767,
-  "2023-02-24": 139819,
-  "2023-02-25": 139869,
-  "2023-02-26": 139940,
-  "2023-02-27": 140055,
-  "2023-02-28": 140055,
-  "2023-03-01": 140094,
-  "2023-03-02": 140133,
-  "2023-03-03": 140185,
-  "2023-03-04": 140237,
-  "2023-03-05": 140332,
-  "2023-03-06": 140332,
-  "2023-03-07": 140376,
-  "2023-03-08": 140408,
-  "2023-03-09": 140447,
-  "2023-03-10": 140499,
-  "2023-03-11": 140548,
-  "2023-03-12": 140587,
-  "2023-03-13": 140641,
-  "2023-03-14": 140684,
-  "2023-03-15": 140718,
-  "2023-03-16": 140718,
-  "2023-03-17": 140718,
-  "2023-03-18": 140831,
-  "2023-03-19": 140831,
-  "2023-03-20": 140901,
-  "2023-03-21": 140932,
-  "2023-03-22": 140974,
-  "2023-03-23": 141018,
-  "2023-03-24": 141018,
-  "2023-03-25": 141098,
-  "2023-03-26": 141147,
-  "2023-03-27": 141193,
-  "2023-03-28": 141221,
-  "2023-03-29": 141266,
-  "2023-03-30": 141344,
-  "2023-03-31": 141344,
-  "2023-04-01": 141385,
-  "2023-04-02": 141446,
-  "2023-04-03": 141489,
-  "2023-04-04": 141534,
-  "2023-04-05": 141585,
-  "2023-04-06": 141627,
-  "2023-04-07": 141691,
-  "2023-04-09": 141779,
-  "2023-04-10": 141823,
-  "2023-04-11": 141906,
-  "2023-04-12": 141906,
-  "2023-04-13": 141950,
-  "2023-04-14": 141981,
-  "2023-04-15": 142041,
-  "2023-04-16": 142070,
-  "2023-04-17": 142111,
-  "2023-04-18": 142145,
-  "2023-04-19": 142169,
-  "2023-04-20": 142222,
-  "2023-04-21": 142257,
-  "2023-04-22": 142296,
-  "2023-04-23": 142346,
-  "2023-04-24": 142380,
-  "2023-04-25": 142413,
-  "2023-04-26": 142455,
-  "2023-04-27": 142494,
-  "2023-04-28": 142540,
-  "2023-04-29": 142592,
-  "2023-04-30": 142628,
-  "2023-05-01": 142656,
-  "2023-05-02": 142696,
-  "2023-05-03": 142725,
-  "2023-05-04": 142757,
-  "2023-05-05": 142801,
-  "2023-05-06": 142844,
-  "2023-05-07": 142880,
-  "2023-05-08": 142933,
-  "2023-05-09": 142958,
-  "2023-05-10": 142987,
-  "2023-05-11": 143033,
-  "2023-05-12": 143066,
-  "2023-05-13": 143132,
-  "2023-05-14": 143202,
-  "2023-05-15": 143249,
-  "2023-05-16": 143307,
-  "2023-05-17": 143339,
-  "2023-05-18": 143390,
-  "2023-05-19": 143452,
-  "2023-05-20": 143628,
-  "2023-05-21": 143628,
-  "2023-05-22": 143628,
-  "2023-05-23": 143720,
-  "2023-05-24": 143797,
-  "2023-05-25": 143811,
-  "2023-05-26": 143852,
-  "2023-05-27": 143897,
-  "2023-05-28": 143942,
-  "2023-05-29": 143942,
-  "2023-05-30": 144020,
-  "2023-05-31": 144068,
-  "2023-06-01": 144109,
-  "2023-06-02": 144154,
-  "2023-06-03": 144199,
-  "2023-06-04": 144252,
-  "2023-06-05": 144299,
-  "2023-06-06": 144337,
-  "2023-06-07": 144380,
-  "2023-06-08": 144424,
-  "2023-06-09": 144453,
-  "2023-06-10": 144501,
-  "2023-06-11": 144545,
-  "2023-06-12": 144596,
-  "2023-06-13": 144634,
-  "2023-06-14": 144665,
-  "2023-06-15": 144706,
-  "2023-06-16": 144756,
-  "2023-06-17": 144804,
-  "2023-06-18": 144881,
-  "2023-06-19": 144922,
-  "2023-06-20": 144958,
-  "2023-06-21": 145011,
-  "2023-06-22": 145072,
-  "2023-06-23": 145111,
-  "2023-06-24": 145164,
-  "2023-06-25": 145208,
-  "2023-06-26": 145233,
-  "2023-06-27": 145278,
-  "2023-06-28": 145322,
-  "2023-06-29": 145367,
-  "2023-06-30": 145420,
-  "2023-07-01": 145472,
-  "2023-07-02": 145472,
-  "2023-07-03": 145506,
-  "2023-07-04": 145532,
-  "2023-07-05": 145557,
-  "2023-07-06": 145622,
-  "2023-07-07": 145622,
-  "2023-07-08": 145622,
-  "2023-07-09": 145703,
-  "2023-07-10": 145744,
-  "2023-07-11": 145779,
-  "2023-07-12": 145821,
-  "2023-07-13": 145873,
-  "2023-07-14": 145906,
-  "2023-07-15": 145947,
-  "2023-07-16": 146002,
-  "2023-07-17": 146039,
-  "2023-07-18": 146074,
-  "2023-07-19": 146105,
-  "2023-07-20": 146105,
-  "2023-07-21": 146157,
-  "2023-07-22": 146193,
-  "2023-07-23": 146248,
-  "2023-07-24": 146277,
-  "2023-07-25": 146311,
-  "2023-07-26": 146350,
-  "2023-07-27": 146389,
-  "2023-07-28": 146437,
-  "2023-07-29": 146468,
-  "2023-07-30": 146506,
-  "2023-07-31": 146550,
-  "2023-08-01": 146583,
-  "2023-08-02": 146633,
-  "2023-08-03": 146683,
-  "2023-08-04": 146718,
-  "2023-08-05": 146742,
-  "2023-08-06": 146813,
-  "2023-08-07": 146813,
-  "2023-08-08": 146839,
-  "2023-08-09": 146872,
-  "2023-08-10": 146919,
-  "2023-08-11": 146951,
-  "2023-08-12": 146951,
-  "2023-08-13": 146951,
-  "2023-08-14": 147063,
-  "2023-08-15": 147063,
-  "2023-08-16": 147063,
-  "2023-08-17": 147063,
-  "2023-08-18": 147063,
-  "2023-08-19": 147063,
-  "2023-08-20": 147265,
-  "2023-08-21": 147265,
-  "2023-08-22": 147342,
-  "2023-08-23": 147342,
-  "2023-08-24": 147342,
-  "2023-08-25": 147342,
-  "2023-08-26": 147494,
-  "2023-08-27": 147494,
-  "2023-08-28": 147589,
-  "2023-08-29": 147589,
-  "2023-08-30": 147589,
-  "2023-08-31": 147692,
-  "2023-09-01": 147723,
-  "2023-09-02": 147723,
-  "2023-09-03": 147723,
-  "2023-09-04": 147723,
-  "2023-09-05": 147723,
-  "2023-09-06": 147723,
-  "2023-09-07": 147723,
-  "2023-09-08": 147723,
-  "2023-09-09": 147723,
-  "2023-09-10": 147723,
-  "2023-09-11": 147723,
-  "2023-09-12": 147723,
-  "2023-09-13": 147723,
-  "2023-09-14": 147723,
-  "2023-09-15": 147723,
-  "2023-09-16": 148356,
-  "2023-09-17": 148356,
-  "2023-09-18": 148356,
-  "2023-09-19": 148477,
-  "2023-09-20": 148477,
-  "2023-09-21": 148477,
-  "2023-09-22": 148590,
-  "2023-09-23": 148590,
-  "2023-09-24": 148590,
-  "2023-09-25": 148590,
-  "2023-09-26": 148752,
-  "2023-09-27": 148752,
-  "2023-09-28": 148752,
-  "2023-09-29": 148752,
-  "2023-09-30": 148752,
-  "2023-10-01": 148752,
-  "2023-10-02": 148752,
-  "2023-10-03": 148752,
-  "2023-10-04": 148752,
-  "2023-10-05": 148752,
-  "2023-10-06": 148752,
-  "2023-10-07": 148752,
-  "2023-10-08": 148752,
-  "2023-10-09": 148752,
-  "2023-10-10": 148752,
-  "2023-10-11": 149046,
-  "2023-10-12": 149046,
-  "2023-10-13": 149046,
-  "2023-10-14": 149046,
-  "2023-10-15": 149046,
-  "2023-10-16": 149046,
-  "2023-10-17": 149046,
-  "2023-10-18": 149046,
-  "2023-10-19": 149046,
-  "2023-10-20": 149046,
-  "2023-10-21": 149046,
-  "2023-10-22": 149046,
-  "2023-10-23": 149046,
-  "2023-10-24": 149046,
-  "2023-10-25": 149046,
-  "2023-10-26": 149046,
-  "2023-10-27": 149046,
-  "2023-10-28": 149046,
-  "2023-10-29": 149046,
-  "2023-10-30": 149046,
-  "2023-10-31": 149046,
-  "2023-11-01": 149046,
-  "2023-11-02": 149046,
-  "2023-11-03": 149046,
-  "2023-11-04": 149046,
-  "2023-11-05": 149046,
-  "2023-11-06": 149046,
-  "2023-11-07": 149046,
-  "2023-11-08": 149046,
-  "2023-11-09": 149046,
-  "2023-11-10": 149046,
-  "2023-11-11": 149744,
-  "2023-11-12": 149744,
-  "2023-11-13": 149744,
-  "2023-11-14": 149744,
-  "2023-11-15": 149744,
-  "2023-11-16": 149744,
-  "2023-11-17": 149744,
-  "2023-11-18": 149744,
-  "2023-11-19": 149744,
-  "2023-11-20": 149744,
-  "2023-11-21": 149744,
-  "2023-11-22": 149744,
-  "2023-11-23": 149744,
-  "2023-11-24": 149744,
-  "2023-11-25": 149744,
-  "2023-11-26": 149744,
-  "2023-11-27": 149744,
-  "2023-11-28": 149744,
-  "2023-11-29": 149744,
-  "2023-11-30": 149744,
-  "2023-12-01": 149744,
-  "2023-12-02": 149744,
-  "2023-12-03": 149744,
-  "2023-12-04": 149744,
-  "2023-12-05": 149744,
-  "2023-12-06": 149744,
-  "2023-12-07": 149744,
-  "2023-12-08": 149744,
-  "2023-12-09": 149744,
-  "2023-12-10": 149744,
-  "2023-12-11": 149744,
-  "2023-12-12": 149744,
-  "2023-12-13": 149744,
-  "2023-12-14": 150809,
-  "2023-12-15": 150827,
-  "2023-12-16": 150863,
-  "2023-12-17": 150916,
-  "2023-12-18": 150934,
-  "2023-12-19": 150957,
-  "2023-12-20": 150993,
-  "2023-12-21": 151024,
-  "2023-12-22": 151065,
-  "2023-12-23": 151110,
-  "2023-12-24": 151154,
-  "2023-12-25": 151204,
-  "2023-12-26": 151247,
-  "2023-12-27": 151298,
-  "2023-12-30": 151510,
-  "2023-12-31": 151549,
-  "2024-01-01": 151592,
-  "2024-01-02": 151636,
-  "2024-01-03": 151648
+  "2024-01-17": 151029,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
+  "name": "This Is Los Plebes del Rancho de Ariel Camacho",
+  "tracks": [
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 219975,
+      "name": "14 A\u00f1os 9 Meses",
+      "url": "https://open.spotify.com/track/3KuAGeEhJp2Hy7tYfl358x"
+    },
+    {
+      "album": {
+        "name": "2 Veces",
+        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 191946,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM"
+    },
+    {
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 183228,
+      "name": "5 A\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/1wNolvsI03cMY9Wv6uCMz6"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "50 Mentadas",
+      "url": "https://open.spotify.com/track/7CXDjMhOzM2PX3DHHPMxIX"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 191637,
+      "name": "Ah\u00ed Est\u00e1 El Detalle",
+      "url": "https://open.spotify.com/track/0PKgVcjUuEtZ2g6FRxC4Q7"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 191637,
+      "name": "Ah\u00ed Est\u00e1 El Detalle",
+      "url": "https://open.spotify.com/track/1EHCom65D7A8cGBiuMNqhw"
+    },
+    {
+      "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/7ikXM5hxBvLHdPcmAZr7c8"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/4RsRVpG6hmp5tlj2piiPrC"
+    },
+    {
+      "album": {
+        "name": "Amarga Derrota",
+        "url": "https://open.spotify.com/album/6Fn2u2al4xODTRWIkwS5Gb"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 207626,
+      "name": "Amarga Derrota",
+      "url": "https://open.spotify.com/track/03qGhUmoAIf2YlCVMVOEul"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 207786,
+      "name": "Amarga Derrota",
+      "url": "https://open.spotify.com/track/1d9DMd6N7sdYYbVKaFHEVE"
+    },
+    {
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
+    },
+    {
+      "album": {
+        "name": "Asi Me La Llevo",
+        "url": "https://open.spotify.com/album/2a8OztEUFX2sRTPhexhm4b"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "Asi Me La Llevo",
+      "url": "https://open.spotify.com/track/2BdRZvJMyaJFM86tlu3jNy"
+    },
+    {
+      "album": {
+        "name": "Bien Guerrero (En Vivo)",
+        "url": "https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Bien Guerrero - En Vivo",
+      "url": "https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc"
+    },
+    {
+      "album": {
+        "name": "Bola de Cristal",
+        "url": "https://open.spotify.com/album/3OKY0FukgMiktC2TXceUdg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 190856,
+      "name": "Bola de Cristal",
+      "url": "https://open.spotify.com/track/4pyyICMmeUBNxFQFEZDlni"
+    },
+    {
+      "album": {
+        "name": "Serenata Digital",
+        "url": "https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190856,
+      "name": "Bola de Cristal",
+      "url": "https://open.spotify.com/track/5lKY5UvsHitVG5Ne9YNmIo"
+    },
+    {
+      "album": {
+        "name": "Buscabamos Lo Mismo",
+        "url": "https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169280,
+      "name": "Buscabamos Lo Mismo",
+      "url": "https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP"
+    },
+    {
+      "album": {
+        "name": "Cartel De Badiraguato (En Vivo)",
+        "url": "https://open.spotify.com/album/7xXdmxwPCaPkV5gyeVuACo"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Cartel De Badiraguato - En Vivo",
+      "url": "https://open.spotify.com/track/71xO201aCjm5MzgTGzu7m4"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194188,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/7mrBBGFPEiaoCHJx2pSCQB"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Con Cartitas Y Whatsapp",
+      "url": "https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
+    },
+    {
+      "album": {
+        "name": "Cosas del Olvido",
+        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Cosas del Olvido",
+      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163247,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/2OSb2ewhfNXCEZBeHaRlxE"
+    },
+    {
+      "album": {
+        "name": "Dado A La Vida",
+        "url": "https://open.spotify.com/album/5ln6P33V70X2v2l4tFW6Ex"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167153,
+      "name": "Dado A La Vida",
+      "url": "https://open.spotify.com/track/2w71YxGnV0kmCv8gDLFznm"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 211750,
+      "name": "Descargas Del R 15",
+      "url": "https://open.spotify.com/track/1FT7A7MjkRAceyZjYIMjhI"
+    },
+    {
+      "album": {
+        "name": "Duren",
+        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190423,
+      "name": "Duren",
+      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+    },
+    {
+      "album": {
+        "name": "D\u00edganle A Mi Ex",
+        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180659,
+      "name": "D\u00edganle A Mi Ex",
+      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
+    },
+    {
+      "album": {
+        "name": "El Cholo Iv\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "El Cholo Iv\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/6luTTNib9LsQc0trSP4121"
+    },
+    {
+      "album": {
+        "name": "El Destroyer",
+        "url": "https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 173746,
+      "name": "El Destroyer",
+      "url": "https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl"
+    },
+    {
+      "album": {
+        "name": "El Doble R (En Vivo)",
+        "url": "https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144871,
+      "name": "El Doble R - En Vivo",
+      "url": "https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "El G\u00fcero Colorado",
+      "url": "https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 219999,
+      "name": "El G\u00fcero Colorado",
+      "url": "https://open.spotify.com/track/3qXNBRZfzJbSLJRHmg6Tt6"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 187138,
+      "name": "El Hombre Tranquilo",
+      "url": "https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA"
+    },
+    {
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS"
+    },
+    {
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O"
+    },
+    {
+      "album": {
+        "name": "El Mago De La Sierra",
+        "url": "https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 255883,
+      "name": "El Mago De La Sierra",
+      "url": "https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee"
+    },
+    {
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 169214,
+      "name": "El Mencho - En Vivo",
+      "url": "https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM"
+    },
+    {
+      "album": {
+        "name": "El Sucesor",
+        "url": "https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 304354,
+      "name": "El Sucesor",
+      "url": "https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201174,
+      "name": "En Un D\u00eda Como Hoy",
+      "url": "https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 201174,
+      "name": "En Un D\u00eda Como Hoy",
+      "url": "https://open.spotify.com/track/3asoKjxnqlTvskhHLq1Ozd"
+    },
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 187545,
+      "name": "Ense\u00f1ame A Olvidar",
+      "url": "https://open.spotify.com/track/23tRtpo2uzrUXLqRjYjduD"
+    },
+    {
+      "album": {
+        "name": "En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol. 2",
+        "url": "https://open.spotify.com/album/77YuTsjt3HShK7vQZrf2VR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187545,
+      "name": "Ense\u00f1ame A Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1r1x8P6SA7FQNZzKurlSHz"
+    },
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 216102,
+      "name": "Entre Golpes y Besos",
+      "url": "https://open.spotify.com/track/6QKXJPZqVrJiKbYZtExlX7"
+    },
+    {
+      "album": {
+        "name": "Con Amigos y La Banda Vol.1 (En Vivo)",
+        "url": "https://open.spotify.com/album/3VuqUe1TDvhAKzRAxUSw5b"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 213087,
+      "name": "Fino Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/6XCOR9Rs01PBQrVxI7nXxa"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187520,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
+    },
+    {
+      "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "P Chonch",
+          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252285,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+    },
+    {
+      "album": {
+        "name": "Jugar a Los Besos",
+        "url": "https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168850,
+      "name": "Jugar a Los Besos",
+      "url": "https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t"
+    },
+    {
+      "album": {
+        "name": "Kikil Caro",
+        "url": "https://open.spotify.com/album/0o8MByPjPEeh0JqZ9tiQvm"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 259074,
+      "name": "Kikil Caro",
+      "url": "https://open.spotify.com/track/4oPAGo9fk32qbhAP3qwNTk"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 204496,
+      "name": "La Cabrer\u00eda",
+      "url": "https://open.spotify.com/track/4GDGAMnwcJGq8NexKeCK7l"
+    },
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 240906,
+      "name": "Lagrimas De Sangre",
+      "url": "https://open.spotify.com/track/2YZHwgNr4xy8MlJjdu2mnf"
+    },
+    {
+      "album": {
+        "name": "Las Dos Promesas",
+        "url": "https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165224,
+      "name": "Las Dos Promesas",
+      "url": "https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 186554,
+      "name": "Lo Que Aprend\u00ed Desde Ni\u00f1o",
+      "url": "https://open.spotify.com/track/0pGTkBPOqtqtU6uhhwfsOT"
+    },
+    {
+      "album": {
+        "name": "Los Versos De Muel",
+        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
+      },
+      "artists": [
+        {
+          "name": "Darey de la Sierra",
+          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 205209,
+      "name": "Los Versos De Muel",
+      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
+    },
+    {
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282349,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/4pAHKSc9AbM5JUKlTFBiAD"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "Mi Riqueza",
+      "url": "https://open.spotify.com/track/4JXI9yB7EWRsHRfMKfwXUf"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161054,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/34INKokSiDUJb1XbmPJdRQ"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140308,
+      "name": "Naci\u00f3 Pa'Leyenda",
+      "url": "https://open.spotify.com/track/7kgJhdRt91bD8HLFpO8LTA"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 140308,
+      "name": "Naci\u00f3 Pa'Leyenda",
+      "url": "https://open.spotify.com/track/7yjXLXGXtwMGDqsEbOXB46"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "No Comprendo",
+      "url": "https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183547,
+      "name": "No Lo Hice Bien",
+      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176497,
+      "name": "Por Enamorarme",
+      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Por No Perderte Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 196280,
+      "name": "Por Qu\u00e9 Te Portaste Mal (D\u00ed Porque)",
+      "url": "https://open.spotify.com/track/4mCJUhNvNu5Qf7VD26VfBd"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 186543,
+      "name": "Que Lastima",
+      "url": "https://open.spotify.com/track/57jp4xGmtBehoGSdjRylbE"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163886,
+      "name": "Que Se Canse De Llamar",
+      "url": "https://open.spotify.com/track/4wLTmiMqSVhuTzdkitPuZ5"
+    },
+    {
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 165200,
+      "name": "Que Tal Si Te Compro - En Vivo",
+      "url": "https://open.spotify.com/track/4VT9nnGvx6jopO0tCpLuZr"
+    },
+    {
+      "album": {
+        "name": "(En Vivo) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa (Vol 2)",
+        "url": "https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 236678,
+      "name": "Quiereme Como Te Quiero",
+      "url": "https://open.spotify.com/track/53wvzzOV807YPN1YOn52Em"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+    },
+    {
+      "album": {
+        "name": "Relatos De Juan Jose",
+        "url": "https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Relatos De Juan Jose - En Vivo",
+      "url": "https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/4v4t1jlvDSNqXZ7RE8BdBN"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/5LMCPoGrzsNudgLId7LCum"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Sera Que Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3bIFnTgoeyKMxWhRgC84k7"
+    },
+    {
+      "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/1itC5UQ9xn65wqndqlaJkQ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127777,
+      "name": "Si No Se Dio",
+      "url": "https://open.spotify.com/track/1CKKGy99iDQbItYVgqdF0W"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154713,
+      "name": "Tres Besitos",
+      "url": "https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN"
+    },
+    {
+      "album": {
+        "name": "Tres Botellas",
+        "url": "https://open.spotify.com/album/0uKSIQwW9ibkNeQTlwft5B"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/1QHZkNm7jcSrvtFPwnB0zK"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/4CfCbSyDAel1xRwme7Q0Yv"
+    },
+    {
+      "album": {
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196231,
+      "name": "Un Mentado Ariel",
+      "url": "https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 188084,
+      "name": "Una Eternidad",
+      "url": "https://open.spotify.com/track/3D05shMqp2NVyk1bgfoN7f"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz"
+    },
+    {
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229034,
+      "name": "Ya lo Super\u00e9",
+      "url": "https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh"
+    },
+    {
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291720,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv"
+    },
+    {
+      "album": {
+        "name": "\u00d3rdenes Directas (Deltas)",
+        "url": "https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 147648,
+      "name": "\u00d3rdenes Directas",
+      "url": "https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EO5KU"
 }

@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 199874,
       "name": "Deep Stays Down",
       "url": "https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 174626,
       "name": "Easy On Your Own?",
       "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 250565,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 253320,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma"
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-13",
       "duration_ms": 181093,
       "name": "Live Like You",
       "url": "https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON"
@@ -4937,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Someday, Someday",
+        "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180046,
+      "name": "Someday, Someday",
+      "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
+    },
+    {
+      "album": {
         "name": "Sort Of Stranger",
         "url": "https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH"
       },
@@ -5370,6 +5388,24 @@
       "duration_ms": 246932,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
+    },
+    {
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/6a0hKzzXU9yfULzFLnASm7"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242576,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD"
     },
     {
       "album": {
@@ -6080,6 +6116,24 @@
       "duration_ms": 263658,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
+    },
+    {
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "album": {

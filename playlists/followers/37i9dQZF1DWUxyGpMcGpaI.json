@@ -1,447 +1,1773 @@
 {
-  "2022-10-12": 2216,
-  "2022-10-13": 4570,
-  "2022-10-14": 6267,
-  "2022-10-15": 7398,
-  "2022-10-16": 8260,
-  "2022-10-17": 9032,
-  "2022-10-18": 9599,
-  "2022-10-19": 13358,
-  "2022-10-20": 15801,
-  "2022-10-21": 17676,
-  "2022-10-22": 19126,
-  "2022-10-23": 20654,
-  "2022-10-24": 22242,
-  "2022-10-25": 23604,
-  "2022-10-26": 27542,
-  "2022-10-27": 31410,
-  "2022-10-28": 34380,
-  "2022-10-29": 36434,
-  "2022-10-30": 37952,
-  "2022-10-31": 39150,
-  "2022-11-01": 40282,
-  "2022-11-02": 42579,
-  "2022-11-03": 44867,
-  "2022-11-04": 47166,
-  "2022-11-05": 48610,
-  "2022-11-06": 49928,
-  "2022-11-07": 51173,
-  "2022-11-08": 52343,
-  "2022-11-09": 54150,
-  "2022-11-10": 55822,
-  "2022-11-11": 57330,
-  "2022-11-12": 58869,
-  "2022-11-13": 59786,
-  "2022-11-14": 60845,
-  "2022-11-15": 61760,
-  "2022-11-16": 63107,
-  "2022-11-17": 64436,
-  "2022-11-18": 65006,
-  "2022-11-19": 64871,
-  "2022-11-20": 65199,
-  "2022-11-21": 66254,
-  "2022-11-22": 67397,
-  "2022-11-23": 68409,
-  "2022-11-24": 70486,
-  "2022-11-25": 73276,
-  "2022-11-26": 75415,
-  "2022-11-27": 76717,
-  "2022-11-28": 77693,
-  "2022-11-29": 78546,
-  "2022-11-30": 79967,
-  "2022-12-01": 81935,
-  "2022-12-02": 83513,
-  "2022-12-03": 83919,
-  "2022-12-04": 85495,
-  "2022-12-05": 86465,
-  "2022-12-06": 87215,
-  "2022-12-07": 88142,
-  "2022-12-08": 89246,
-  "2022-12-09": 90220,
-  "2022-12-10": 91084,
-  "2022-12-11": 92033,
-  "2022-12-12": 92860,
-  "2022-12-13": 93574,
-  "2022-12-14": 94397,
-  "2022-12-15": 95361,
-  "2022-12-16": 96247,
-  "2022-12-17": 97141,
-  "2022-12-18": 98012,
-  "2022-12-19": 98759,
-  "2022-12-20": 100366,
-  "2022-12-21": 100366,
-  "2022-12-22": 101346,
-  "2022-12-24": 103014,
-  "2022-12-25": 103851,
-  "2022-12-26": 104603,
-  "2022-12-27": 105382,
-  "2022-12-28": 106346,
-  "2022-12-29": 107669,
-  "2022-12-30": 108837,
-  "2022-12-31": 110049,
-  "2023-01-01": 111081,
-  "2023-01-02": 111945,
-  "2023-01-03": 112957,
-  "2023-01-04": 113807,
-  "2023-01-05": 114695,
-  "2023-01-06": 115816,
-  "2023-01-07": 116859,
-  "2023-01-08": 117042,
-  "2023-01-09": 117745,
-  "2023-01-10": 118453,
-  "2023-01-11": 119128,
-  "2023-01-12": 119975,
-  "2023-01-13": 120669,
-  "2023-01-14": 121808,
-  "2023-01-15": 121976,
-  "2023-01-16": 122534,
-  "2023-01-17": 123155,
-  "2023-01-18": 123710,
-  "2023-01-19": 124225,
-  "2023-01-20": 124787,
-  "2023-01-21": 125411,
-  "2023-01-22": 126033,
-  "2023-01-23": 126620,
-  "2023-01-24": 127177,
-  "2023-01-25": 127672,
-  "2023-01-26": 128159,
-  "2023-01-27": 128722,
-  "2023-01-28": 129266,
-  "2023-01-29": 129776,
-  "2023-01-30": 130252,
-  "2023-01-31": 130252,
-  "2023-02-01": 131069,
-  "2023-02-02": 131473,
-  "2023-02-03": 131896,
-  "2023-02-04": 132351,
-  "2023-02-05": 132802,
-  "2023-02-06": 133161,
-  "2023-02-07": 133547,
-  "2023-02-08": 134345,
-  "2023-02-09": 134345,
-  "2023-02-10": 134765,
-  "2023-02-11": 135124,
-  "2023-02-12": 135960,
-  "2023-02-13": 136332,
-  "2023-02-14": 136332,
-  "2023-02-15": 136626,
-  "2023-02-16": 136918,
-  "2023-02-17": 137201,
-  "2023-02-18": 137897,
-  "2023-02-19": 137968,
-  "2023-02-20": 138235,
-  "2023-02-21": 138489,
-  "2023-02-22": 138776,
-  "2023-02-23": 139096,
-  "2023-02-24": 139454,
-  "2023-02-25": 139909,
-  "2023-02-26": 140123,
-  "2023-02-27": 140748,
-  "2023-02-28": 140748,
-  "2023-03-01": 141033,
-  "2023-03-02": 141269,
-  "2023-03-03": 141577,
-  "2023-03-04": 141853,
-  "2023-03-05": 142494,
-  "2023-03-06": 142494,
-  "2023-03-07": 142909,
-  "2023-03-08": 143262,
-  "2023-03-09": 143611,
-  "2023-03-10": 144010,
-  "2023-03-11": 144322,
-  "2023-03-12": 144685,
-  "2023-03-13": 145234,
-  "2023-03-14": 145681,
-  "2023-03-15": 146148,
-  "2023-03-16": 146586,
-  "2023-03-17": 146586,
-  "2023-03-18": 147520,
-  "2023-03-19": 147944,
-  "2023-03-20": 148426,
-  "2023-03-21": 148906,
-  "2023-03-22": 149316,
-  "2023-03-23": 149723,
-  "2023-03-24": 149723,
-  "2023-03-25": 150538,
-  "2023-03-26": 150945,
-  "2023-03-27": 151378,
-  "2023-03-28": 151763,
-  "2023-03-29": 152249,
-  "2023-03-30": 152994,
-  "2023-03-31": 152994,
-  "2023-04-01": 153379,
-  "2023-04-02": 153666,
-  "2023-04-03": 153982,
-  "2023-04-04": 154311,
-  "2023-04-05": 154626,
-  "2023-04-06": 154952,
-  "2023-04-07": 155268,
-  "2023-04-09": 156044,
-  "2023-04-10": 156432,
-  "2023-04-11": 157075,
-  "2023-04-12": 157075,
-  "2023-04-13": 157352,
-  "2023-04-14": 157586,
-  "2023-04-15": 157897,
-  "2023-04-16": 158236,
-  "2023-04-17": 158557,
-  "2023-04-18": 158799,
-  "2023-04-19": 159111,
-  "2023-04-20": 159343,
-  "2023-04-21": 159594,
-  "2023-04-22": 159881,
-  "2023-04-23": 160186,
-  "2023-04-24": 160466,
-  "2023-04-25": 160738,
-  "2023-04-26": 161051,
-  "2023-04-27": 161361,
-  "2023-04-28": 161629,
-  "2023-04-29": 161921,
-  "2023-04-30": 162209,
-  "2023-05-01": 162464,
-  "2023-05-02": 162699,
-  "2023-05-03": 162878,
-  "2023-05-04": 163073,
-  "2023-05-05": 163277,
-  "2023-05-06": 163483,
-  "2023-05-07": 163725,
-  "2023-05-08": 163918,
-  "2023-05-09": 164111,
-  "2023-05-10": 164260,
-  "2023-05-11": 164449,
-  "2023-05-12": 164651,
-  "2023-05-13": 164816,
-  "2023-05-14": 165035,
-  "2023-05-15": 165244,
-  "2023-05-16": 165426,
-  "2023-05-17": 165605,
-  "2023-05-18": 165759,
-  "2023-05-19": 165958,
-  "2023-05-20": 166353,
-  "2023-05-21": 166353,
-  "2023-05-22": 166353,
-  "2023-05-23": 166692,
-  "2023-05-24": 166971,
-  "2023-05-25": 166989,
-  "2023-05-26": 167191,
-  "2023-05-27": 167372,
-  "2023-05-28": 167601,
-  "2023-05-29": 167601,
-  "2023-05-30": 167949,
-  "2023-05-31": 168094,
-  "2023-06-01": 168245,
-  "2023-06-02": 168392,
-  "2023-06-03": 168547,
-  "2023-06-04": 168694,
-  "2023-06-05": 168860,
-  "2023-06-06": 169017,
-  "2023-06-07": 169190,
-  "2023-06-08": 169350,
-  "2023-06-09": 169576,
-  "2023-06-10": 169724,
-  "2023-06-11": 169969,
-  "2023-06-12": 170298,
-  "2023-06-13": 170539,
-  "2023-06-14": 170757,
-  "2023-06-15": 170920,
-  "2023-06-16": 171094,
-  "2023-06-17": 171288,
-  "2023-06-18": 171520,
-  "2023-06-19": 171721,
-  "2023-06-20": 171894,
-  "2023-06-21": 172034,
-  "2023-06-22": 172174,
-  "2023-06-23": 172324,
-  "2023-06-24": 172506,
-  "2023-06-25": 172649,
-  "2023-06-26": 172815,
-  "2023-06-27": 173000,
-  "2023-06-28": 173194,
-  "2023-06-29": 173377,
-  "2023-06-30": 173558,
-  "2023-07-01": 173895,
-  "2023-07-02": 173895,
-  "2023-07-03": 174041,
-  "2023-07-04": 174220,
-  "2023-07-05": 174396,
-  "2023-07-06": 174724,
-  "2023-07-07": 174724,
-  "2023-07-08": 174866,
-  "2023-07-09": 175043,
-  "2023-07-10": 175175,
-  "2023-07-11": 175275,
-  "2023-07-12": 175450,
-  "2023-07-13": 175574,
-  "2023-07-14": 175723,
-  "2023-07-15": 175857,
-  "2023-07-16": 176056,
-  "2023-07-17": 176201,
-  "2023-07-18": 176347,
-  "2023-07-19": 176486,
-  "2023-07-20": 176614,
-  "2023-07-21": 176758,
-  "2023-07-22": 176921,
-  "2023-07-23": 177100,
-  "2023-07-24": 177231,
-  "2023-07-25": 177359,
-  "2023-07-26": 177526,
-  "2023-07-27": 177685,
-  "2023-07-28": 177866,
-  "2023-07-29": 178024,
-  "2023-07-30": 178192,
-  "2023-07-31": 178355,
-  "2023-08-01": 178532,
-  "2023-08-02": 178712,
-  "2023-08-03": 178881,
-  "2023-08-04": 179060,
-  "2023-08-05": 179219,
-  "2023-08-06": 179520,
-  "2023-08-07": 179520,
-  "2023-08-08": 179638,
-  "2023-08-09": 179770,
-  "2023-08-10": 179873,
-  "2023-08-11": 179996,
-  "2023-08-12": 180130,
-  "2023-08-13": 180285,
-  "2023-08-14": 180433,
-  "2023-08-15": 180689,
-  "2023-08-16": 180689,
-  "2023-08-17": 180847,
-  "2023-08-18": 181022,
-  "2023-08-19": 181183,
-  "2023-08-20": 181343,
-  "2023-08-21": 181509,
-  "2023-08-22": 181646,
-  "2023-08-23": 181765,
-  "2023-08-24": 181896,
-  "2023-08-25": 182051,
-  "2023-08-26": 182212,
-  "2023-08-27": 182354,
-  "2023-08-28": 182517,
-  "2023-08-29": 182659,
-  "2023-08-30": 182790,
-  "2023-08-31": 182944,
-  "2023-09-01": 183093,
-  "2023-09-02": 183093,
-  "2023-09-03": 183160,
-  "2023-09-04": 183251,
-  "2023-09-05": 183320,
-  "2023-09-06": 183355,
-  "2023-09-07": 183409,
-  "2023-09-08": 183468,
-  "2023-09-09": 183533,
-  "2023-09-10": 183635,
-  "2023-09-11": 183677,
-  "2023-09-12": 183726,
-  "2023-09-13": 183840,
-  "2023-09-14": 183887,
-  "2023-09-15": 183960,
-  "2023-09-16": 184012,
-  "2023-09-17": 184072,
-  "2023-09-18": 184146,
-  "2023-09-19": 184191,
-  "2023-09-20": 184239,
-  "2023-09-21": 184278,
-  "2023-09-22": 184344,
-  "2023-09-23": 184406,
-  "2023-09-24": 184449,
-  "2023-09-25": 184495,
-  "2023-09-26": 184564,
-  "2023-09-27": 184617,
-  "2023-09-28": 184697,
-  "2023-09-29": 184764,
-  "2023-09-30": 184823,
-  "2023-10-01": 184878,
-  "2023-10-02": 184925,
-  "2023-10-03": 185000,
-  "2023-10-04": 185048,
-  "2023-10-05": 185092,
-  "2023-10-06": 185143,
-  "2023-10-07": 185212,
-  "2023-10-08": 185323,
-  "2023-10-09": 185401,
-  "2023-10-10": 185449,
-  "2023-10-11": 185592,
-  "2023-10-12": 185592,
-  "2023-10-13": 185656,
-  "2023-10-14": 185713,
-  "2023-10-15": 185763,
-  "2023-10-16": 185818,
-  "2023-10-17": 185892,
-  "2023-10-18": 185949,
-  "2023-10-19": 186009,
-  "2023-10-20": 186081,
-  "2023-10-21": 186169,
-  "2023-10-22": 186236,
-  "2023-10-23": 186298,
-  "2023-10-24": 186360,
-  "2023-10-25": 186406,
-  "2023-10-26": 186452,
-  "2023-10-27": 186515,
-  "2023-10-28": 186587,
-  "2023-10-29": 186654,
-  "2023-10-30": 186771,
-  "2023-10-31": 186771,
-  "2023-11-01": 186804,
-  "2023-11-02": 186853,
-  "2023-11-03": 186894,
-  "2023-11-04": 186946,
-  "2023-11-05": 187007,
-  "2023-11-06": 187076,
-  "2023-11-07": 187152,
-  "2023-11-08": 187202,
-  "2023-11-09": 187246,
-  "2023-11-10": 187283,
-  "2023-11-11": 187321,
-  "2023-11-12": 187366,
-  "2023-11-13": 187418,
-  "2023-11-14": 187443,
-  "2023-11-15": 187443,
-  "2023-11-16": 187517,
-  "2023-11-17": 187588,
-  "2023-11-18": 187588,
-  "2023-11-19": 187621,
-  "2023-11-20": 187632,
-  "2023-11-21": 187644,
-  "2023-11-22": 187653,
-  "2023-11-23": 187675,
-  "2023-11-24": 187702,
-  "2023-11-25": 187733,
-  "2023-11-26": 187776,
-  "2023-11-27": 187814,
-  "2023-11-28": 187827,
-  "2023-11-29": 187852,
-  "2023-11-30": 187852,
-  "2023-12-01": 187860,
-  "2023-12-02": 187888,
-  "2023-12-03": 187885,
-  "2023-12-04": 187895,
-  "2023-12-05": 187910,
-  "2023-12-06": 187959,
-  "2023-12-07": 188000,
-  "2023-12-08": 188048,
-  "2023-12-09": 188090,
-  "2023-12-10": 188131,
-  "2023-12-11": 188202,
-  "2023-12-12": 188240,
-  "2023-12-13": 188300,
-  "2023-12-14": 188337,
-  "2023-12-15": 188384,
-  "2023-12-16": 188443,
-  "2023-12-17": 188483,
-  "2023-12-18": 188536,
-  "2023-12-19": 188575,
-  "2023-12-20": 188633,
-  "2023-12-21": 188684,
-  "2023-12-22": 188715,
-  "2023-12-23": 188732,
-  "2023-12-24": 188768,
-  "2023-12-25": 188820,
-  "2023-12-26": 188850,
-  "2023-12-27": 188914,
-  "2023-12-30": 189047,
-  "2023-12-31": 189083,
-  "2024-01-01": 189135,
-  "2024-01-02": 189164,
-  "2024-01-03": 189189
+  "2024-01-17": 189695,
+  "date_first_scraped": "2022-10-12",
+  "description": "Music from the new anime,  <a href=\"https://chainsawman.dog/\">\"Chainsaw Man\"</a>! /  TV\u30a2\u30cb\u30e1<a href=\"https://chainsawman.dog/\">\u300e\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3\u300f</a>\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
+  "name": "Chainsaw Man \u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1547546,
+      "name": "#4\u3010\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3\u3011  \u6238\u8c37\u83ca\u4e4b\u4ecb\u00d7\u5742\u7530\u5c06\u543e\u300c\u53f0\u672c\u3092\u6697\u8a18\u3057\u3066\u81e8\u3093\u3060\u30b7\u30fc\u30f3\u3068\u306f\u2026\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/2whKtBEufvm8OyaEejUDFa"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88773,
+      "name": "100% sales tax",
+      "url": "https://open.spotify.com/track/3ztPDYVgfx4IHQSwOArlmJ"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "a tombstone",
+      "url": "https://open.spotify.com/track/4DGlXheC0A5W21V0WWjAss"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 160205,
+      "name": "a tombstone",
+      "url": "https://open.spotify.com/track/40wsJS8Ma1KiGcwgNbxigt"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 105125,
+      "name": "arg.",
+      "url": "https://open.spotify.com/track/1uLVqBuBg5HDRFZEbKUGJ2"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105133,
+      "name": "arg.",
+      "url": "https://open.spotify.com/track/7GdXshuomPSBcPAa1xyiFb"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79440,
+      "name": "ave xxxxxx",
+      "url": "https://open.spotify.com/track/0DNCuMQ62JzD7j61f89mHp"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 79450,
+      "name": "ave xxxxxx",
+      "url": "https://open.spotify.com/track/0LQmCVOwNEOpVFEGGZej2q"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120840,
+      "name": "black despair",
+      "url": "https://open.spotify.com/track/0DH2mkDbWGbCqEZm8NA0lP"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92853,
+      "name": "brotherhood",
+      "url": "https://open.spotify.com/track/6jT7m9lQmHplPHQkpTEVkL"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 95770,
+      "name": "brutal life",
+      "url": "https://open.spotify.com/track/70eype2R68XzlJG2ih59DS"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95773,
+      "name": "brutal life",
+      "url": "https://open.spotify.com/track/13K1ukffqZHxRfMtzzG32B"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 128757,
+      "name": "buddy",
+      "url": "https://open.spotify.com/track/6ktG3mT7dpj1wtwGXS6blc"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "buddy",
+      "url": "https://open.spotify.com/track/5Emyl6lDYHCiRMi8cJMf4l"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 65887,
+      "name": "chainsaw attacks!",
+      "url": "https://open.spotify.com/track/1hEfwOaPFPFk7uNnXYCYXA"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65893,
+      "name": "chainsaw attacks!",
+      "url": "https://open.spotify.com/track/4FOrg7ifJ1XqCQErDHWGEy"
+    },
+    {
+      "album": {
+        "name": "CHAINSAW BLOOD",
+        "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200997,
+      "name": "CHAINSAW BLOOD",
+      "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97400,
+      "name": "confront",
+      "url": "https://open.spotify.com/track/0ekzYb8jlc89z8eV897HTw"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 119957,
+      "name": "crawler",
+      "url": "https://open.spotify.com/track/0dSraK0BNXyvBfVs2hPORz"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119960,
+      "name": "crawler",
+      "url": "https://open.spotify.com/track/6EJkBPDPDsCfLdDQQm13U9"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37426,
+      "name": "death cluster",
+      "url": "https://open.spotify.com/track/7BHu3mKVaYvUSV3LCgF8tB"
+    },
+    {
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63026,
+      "name": "destroy them all",
+      "url": "https://open.spotify.com/track/42fPuyTOy0TRHCE1z94Lo2"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 63029,
+      "name": "destroy them all",
+      "url": "https://open.spotify.com/track/799DzJfCCwm4ubIysTYzOK"
+    },
+    {
+      "album": {
+        "name": "DOGLAND",
+        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175216,
+      "name": "DOGLAND",
+      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 103778,
+      "name": "dream... come true?",
+      "url": "https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104253,
+      "name": "dream... come true?",
+      "url": "https://open.spotify.com/track/2cPUAzxpmWw0LXMzxOhbVo"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64133,
+      "name": "eat.sleep.play",
+      "url": "https://open.spotify.com/track/3s6wDcc7kxHEECO0GHiI0a"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "edge of chainsaw",
+      "url": "https://open.spotify.com/track/5kLxDmhBaBzYOwHuVPIZ0m"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 190188,
+      "name": "edge of chainsaw",
+      "url": "https://open.spotify.com/track/2fOPkvOguFiHA7CQgZg7N5"
+    },
+    {
+      "album": {
+        "name": "FightSong",
+        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208964,
+      "name": "FightSong",
+      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
+    },
+    {
+      "album": {
+        "name": "first death",
+        "url": "https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241575,
+      "name": "first death",
+      "url": "https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 37351,
+      "name": "good night,boy",
+      "url": "https://open.spotify.com/track/0Qcw2D6tFoZuzff8FvKFdc"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37360,
+      "name": "good night,boy",
+      "url": "https://open.spotify.com/track/39AFvOsuWXIw3n0zFwhIsy"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46200,
+      "name": "gun,knife",
+      "url": "https://open.spotify.com/track/5EFSRpdd9PTsa3XW9GZJEM"
+    },
+    {
+      "album": {
+        "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] (TV edit)",
+        "url": "https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89563,
+      "name": "HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit",
+      "url": "https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104693,
+      "name": "he's on the back foot",
+      "url": "https://open.spotify.com/track/5zZwf9t1re2CbpYXzUHCEO"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88173,
+      "name": "humans are fools",
+      "url": "https://open.spotify.com/track/4SfPLIONROH1eE3bdAeU19"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90906,
+      "name": "imagine devils",
+      "url": "https://open.spotify.com/track/4Rr13WnzStAiebv7qU37s9"
+    },
+    {
+      "album": {
+        "name": "In the Back Room",
+        "url": "https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 206000,
+      "name": "In the Back Room",
+      "url": "https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn"
+    },
+    {
+      "album": {
+        "name": "Rokotsu",
+        "url": "https://open.spotify.com/album/6pMjiLpATCNcK3SgvCZb9w"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "In the Back Room",
+      "url": "https://open.spotify.com/track/24R0kasnPe3126wn3QRTlz"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27800,
+      "name": "in the bullet train",
+      "url": "https://open.spotify.com/track/5CH34NVSBAuHRJFb1GOMcY"
+    },
+    {
+      "album": {
+        "name": "ivory",
+        "url": "https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 210786,
+      "name": "ivory",
+      "url": "https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95720,
+      "name": "kick ass!",
+      "url": "https://open.spotify.com/track/3a6ldH3xzv2vuhJQ3NCBHF"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 96965,
+      "name": "kick ass!",
+      "url": "https://open.spotify.com/track/5rwUKgoWvAuUT8nnVvwhYM"
+    },
+    {
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193495,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "livingroom",
+      "url": "https://open.spotify.com/track/1C8sLnhckOv6cU29nwDXxQ"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 162583,
+      "name": "livingroom",
+      "url": "https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83293,
+      "name": "looking for something",
+      "url": "https://open.spotify.com/track/38V47jETTx8rt4RKagECBR"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 86520,
+      "name": "looking for something",
+      "url": "https://open.spotify.com/track/3r2HiSnsJJ05r58ow0tflD"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66146,
+      "name": "metal riser",
+      "url": "https://open.spotify.com/track/1bQqvq3Y1QpdazZKslPdzS"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 92101,
+      "name": "nail-biter",
+      "url": "https://open.spotify.com/track/08bCmp6IzjTONuQPh1iNJq"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92106,
+      "name": "nail-biter",
+      "url": "https://open.spotify.com/track/30ZMuJtgxxFby3WAZUhGNv"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 135578,
+      "name": "nmgeai",
+      "url": "https://open.spotify.com/track/2X5BlNCFAvCWnT4KbR4Ktx"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137146,
+      "name": "nmgeai",
+      "url": "https://open.spotify.com/track/5uMOpNGZ8smzzEWzwd8pcE"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87706,
+      "name": "pain in the ass",
+      "url": "https://open.spotify.com/track/2vAvdHsQy4lFQ0deCDQTXc"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109666,
+      "name": "pong pong pong",
+      "url": "https://open.spotify.com/track/19UQDp4OqdSki84XtHKP9c"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90506,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/6pMvvbg3SzM5EWgofvraFP"
+    },
+    {
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132295,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/7gspVQa13prQbNABCRacwE"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93466,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1dONfKEwLDWowIGkxzYYwV"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 95447,
+      "name": "run",
+      "url": "https://open.spotify.com/track/47uc2TYwKKiZYtkuNQMUyz"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 120183,
+      "name": "search and destroy",
+      "url": "https://open.spotify.com/track/5omypJmfbBPkWYgvdvkAA3"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120186,
+      "name": "search and destroy",
+      "url": "https://open.spotify.com/track/70oSBWwtZCOqxDfmym3ZWA"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108853,
+      "name": "sepia",
+      "url": "https://open.spotify.com/track/6gS9Am4x12R3HaAMfRXXgU"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103373,
+      "name": "song for unbirthday",
+      "url": "https://open.spotify.com/track/5s7c0ZITNzNMhAhPlFcZBB"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105186,
+      "name": "special division 4",
+      "url": "https://open.spotify.com/track/2w1tRXTIxDPyRDGsRQreCi"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 105840,
+      "name": "special division 4",
+      "url": "https://open.spotify.com/track/4y4LtJ51a6OSZAfDwHvJt6"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "stay in the darkness",
+      "url": "https://open.spotify.com/track/4tzzNEVVINN8N7N73ZkMio"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126413,
+      "name": "stranger in paranoid",
+      "url": "https://open.spotify.com/track/3tHAYvmOojPFB17stVNi1A"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148946,
+      "name": "sweet dreams",
+      "url": "https://open.spotify.com/track/0fDAbYbqfFzY7JXhmfJqGR"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 149642,
+      "name": "sweet dreams",
+      "url": "https://open.spotify.com/track/1SiTJWmO416vuOw3nUl1jw"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 155250,
+      "name": "sword of hunter",
+      "url": "https://open.spotify.com/track/5h6GpnUvbgomxhJTWJnYnC"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157280,
+      "name": "sword of hunter",
+      "url": "https://open.spotify.com/track/5YuWiyq11gNqCaXvnoiitC"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126466,
+      "name": "tear off",
+      "url": "https://open.spotify.com/track/0VCY6FLHPbUuYw6Xh3kCKc"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 103189,
+      "name": "that's a dream come true",
+      "url": "https://open.spotify.com/track/4VL0qziEuvFomcb6I6XxTO"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103280,
+      "name": "that's a dream come true",
+      "url": "https://open.spotify.com/track/4Xv9d5y14ysTGGJcnIRomp"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104053,
+      "name": "the devil appears",
+      "url": "https://open.spotify.com/track/0RhZHb55w3waO5eEf3d70U"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 104053,
+      "name": "the devil appears",
+      "url": "https://open.spotify.com/track/4jBOwcItr50BrCZQ2mQZLO"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86266,
+      "name": "the devil hunter",
+      "url": "https://open.spotify.com/track/7ozTpE1DvsET4gEga5CcW1"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 86269,
+      "name": "the devil hunter",
+      "url": "https://open.spotify.com/track/0EjMdD2fs1iVKZwt74gvN1"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104280,
+      "name": "the door",
+      "url": "https://open.spotify.com/track/5pGBDXvnm6ZFkbqLBbKfoX"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.1 (Episode 1-3)",
+        "url": "https://open.spotify.com/album/5SSghC1WJVRm05ohNFZScq"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 105322,
+      "name": "the door",
+      "url": "https://open.spotify.com/track/2Pb251vvMQD68isjTxGzvL"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 149239,
+      "name": "the end of childhood",
+      "url": "https://open.spotify.com/track/6iQSL9OJkreNdlYeDyXaX6"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149733,
+      "name": "the end of childhood",
+      "url": "https://open.spotify.com/track/5OmMnJXOLsbuDqdQKZklHo"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103306,
+      "name": "the golden bowlers",
+      "url": "https://open.spotify.com/track/0daj8w2tieEqqywwK7VgVZ"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 103306,
+      "name": "the golden bowlers",
+      "url": "https://open.spotify.com/track/6iKvnPT4RwRvrJGz6MAyzi"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "verge of death",
+      "url": "https://open.spotify.com/track/1tnJHXan5rLHjHtUNvCJt8"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.3 (Episode 8-12)",
+        "url": "https://open.spotify.com/album/42DBklX9gmc9g6OQv6YrB4"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 118200,
+      "name": "verge of death",
+      "url": "https://open.spotify.com/track/5YERvNnrj62VcQDNFQa6cd"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack EP Vol.2 (Episode 4-7)",
+        "url": "https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 166557,
+      "name": "you were here",
+      "url": "https://open.spotify.com/track/0P9KuuKop7H5XcmcJlS8tO"
+    },
+    {
+      "album": {
+        "name": "Chainsaw Man Original Soundtrack Complete Edition - chainsaw edge fragments -",
+        "url": "https://open.spotify.com/album/5sJKtePehIZn1t0aIZXa1C"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "you were here",
+      "url": "https://open.spotify.com/track/0dxHNWIhG4YOgPCfAwSRRp"
+    },
+    {
+      "album": {
+        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185752,
+      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 206000,
+      "name": "\u30a4\u30f3\u30b6\u30d0\u30c3\u30af\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "\u30d0\u30a4\u30aa\u30ec\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 208964,
+      "name": "\u30d5\u30a1\u30a4\u30c8\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ"
+    },
+    {
+      "album": {
+        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89563,
+      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "album": {
+        "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
+        "url": "https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 132295,
+      "name": "\u5927\u8133\u7684\u306a\u30e9\u30f3\u30c7\u30d6\u30fc",
+      "url": "https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u6a5f",
+        "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "\u6b8b\u6a5f",
+      "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "album": {
+        "name": "\u9320\u5264",
+        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "\u9320\u5264",
+      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI"
 }

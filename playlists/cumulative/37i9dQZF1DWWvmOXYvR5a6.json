@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Jambino(\uc7a0\ube44\ub178)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: \bDabin(\ud64d\ub2e4\ube48)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 240717,
       "name": "Beer (Prod.Way Ched)",
       "url": "https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 196960,
       "name": "bury. (Feat. SOLE)",
       "url": "https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9"
@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": "2024-01-13",
       "duration_ms": 199064,
       "name": "Deep Sea (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 165600,
       "name": "Hoopee (Feat. Loco) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/0VebFVYxoeIHQPDg1MvSES"
@@ -5626,6 +5626,28 @@
       "duration_ms": 166295,
       "name": "I had a dream",
       "url": "https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua"
+    },
+    {
+      "album": {
+        "name": "I KNOW YOU LOVE ME (Feat. Skinny Brown)",
+        "url": "https://open.spotify.com/album/2DVTijBdYYT8c5EARXNWln"
+      },
+      "artists": [
+        {
+          "name": "Noisemasterminsu",
+          "url": "https://open.spotify.com/artist/5aIhsY6GeoSPC2CAwuIYJ4"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "I KNOW YOU LOVE ME (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/6RRxTalkP4ZI4oSqvI8ttW"
     },
     {
       "album": {
@@ -8208,7 +8230,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 181800,
       "name": "My pleasure Is That You Ride The Bentley",
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
@@ -8988,7 +9010,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 240800,
       "name": "One Snowy Day (Feat. SOLE)",
       "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
@@ -12237,6 +12259,24 @@
     },
     {
       "album": {
+        "name": "Tic Tac?",
+        "url": "https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135096,
+      "name": "Tic Tac?",
+      "url": "https://open.spotify.com/track/1xnjwH0oVDptgAhSvnuWq4"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
@@ -12266,10 +12306,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 268733,
       "name": "Till I Live",
       "url": "https://open.spotify.com/track/41QtqULXM34zXfPkM88Rwm"
+    },
+    {
+      "album": {
+        "name": "Tic Tac?",
+        "url": "https://open.spotify.com/album/6UzFx8pWnJQm4832lXPfos"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Till I Live",
+      "url": "https://open.spotify.com/track/6mKVMbbmoMDO8DS9hyxhtx"
     },
     {
       "album": {

@@ -1,735 +1,1035 @@
 {
-  "2021-12-25": 436679,
-  "2021-12-26": 436901,
-  "2021-12-27": 437281,
-  "2021-12-28": 437283,
-  "2021-12-29": 437475,
-  "2021-12-30": 437682,
-  "2021-12-31": 437899,
-  "2022-01-01": 438293,
-  "2022-01-02": 438359,
-  "2022-01-03": 438518,
-  "2022-01-04": 438688,
-  "2022-01-05": 438863,
-  "2022-01-06": 439025,
-  "2022-01-07": 439198,
-  "2022-01-08": 439544,
-  "2022-01-09": 439544,
-  "2022-01-10": 439738,
-  "2022-01-11": 439738,
-  "2022-01-12": 439937,
-  "2022-01-13": 439937,
-  "2022-01-14": 439937,
-  "2022-01-15": 439937,
-  "2022-01-16": 439937,
-  "2022-01-17": 439937,
-  "2022-01-18": 439937,
-  "2022-01-19": 439937,
-  "2022-01-20": 439937,
-  "2022-01-21": 439937,
-  "2022-01-22": 439937,
-  "2022-01-23": 439937,
-  "2022-01-24": 439937,
-  "2022-01-25": 439937,
-  "2022-01-26": 439937,
-  "2022-01-27": 439937,
-  "2022-01-28": 439937,
-  "2022-01-29": 439937,
-  "2022-01-30": 439937,
-  "2022-01-31": 439937,
-  "2022-02-01": 439937,
-  "2022-02-02": 439937,
-  "2022-02-03": 439937,
-  "2022-02-04": 439937,
-  "2022-02-05": 439937,
-  "2022-02-06": 439937,
-  "2022-02-07": 439937,
-  "2022-02-08": 439937,
-  "2022-02-09": 439937,
-  "2022-02-10": 439937,
-  "2022-02-11": 439937,
-  "2022-02-12": 439937,
-  "2022-02-13": 439937,
-  "2022-02-14": 439937,
-  "2022-02-15": 439937,
-  "2022-02-16": 439937,
-  "2022-02-17": 439937,
-  "2022-02-18": 439937,
-  "2022-02-19": 439937,
-  "2022-02-20": 439937,
-  "2022-02-21": 439937,
-  "2022-02-22": 439937,
-  "2022-02-23": 439937,
-  "2022-02-24": 439937,
-  "2022-02-25": 439937,
-  "2022-02-26": 439937,
-  "2022-02-27": 439937,
-  "2022-02-28": 439937,
-  "2022-03-01": 439937,
-  "2022-03-02": 439937,
-  "2022-03-03": 439937,
-  "2022-03-04": 439937,
-  "2022-03-05": 439937,
-  "2022-03-06": 439937,
-  "2022-03-07": 439937,
-  "2022-03-08": 439937,
-  "2022-03-09": 439937,
-  "2022-03-10": 439937,
-  "2022-03-11": 439937,
-  "2022-03-12": 439937,
-  "2022-03-13": 439937,
-  "2022-03-14": 439937,
-  "2022-03-15": 439937,
-  "2022-03-16": 439937,
-  "2022-03-17": 439937,
-  "2022-03-18": 439937,
-  "2022-03-19": 439937,
-  "2022-03-20": 439937,
-  "2022-03-21": 439937,
-  "2022-03-22": 439937,
-  "2022-03-23": 439937,
-  "2022-03-24": 439937,
-  "2022-03-25": 439937,
-  "2022-03-26": 439937,
-  "2022-03-27": 439937,
-  "2022-03-28": 439937,
-  "2022-03-30": 439937,
-  "2022-03-31": 439937,
-  "2022-04-01": 439937,
-  "2022-04-02": 439937,
-  "2022-04-03": 439937,
-  "2022-04-04": 439937,
-  "2022-04-05": 439937,
-  "2022-04-06": 439937,
-  "2022-04-07": 439937,
-  "2022-04-08": 439937,
-  "2022-04-09": 439937,
-  "2022-04-10": 439937,
-  "2022-04-11": 439937,
-  "2022-04-12": 439937,
-  "2022-04-13": 439937,
-  "2022-04-14": 439937,
-  "2022-04-15": 439937,
-  "2022-04-16": 439937,
-  "2022-04-17": 439937,
-  "2022-04-18": 439937,
-  "2022-04-19": 439937,
-  "2022-04-20": 439937,
-  "2022-04-21": 439937,
-  "2022-04-22": 439937,
-  "2022-04-23": 439937,
-  "2022-04-24": 439937,
-  "2022-04-25": 439937,
-  "2022-04-26": 439937,
-  "2022-04-27": 439937,
-  "2022-04-28": 439937,
-  "2022-04-29": 439937,
-  "2022-04-30": 439937,
-  "2022-05-01": 439937,
-  "2022-05-02": 439937,
-  "2022-05-03": 439937,
-  "2022-05-04": 439937,
-  "2022-05-05": 439937,
-  "2022-05-06": 439937,
-  "2022-05-07": 439937,
-  "2022-05-08": 439937,
-  "2022-05-09": 439937,
-  "2022-05-10": 439937,
-  "2022-05-11": 439937,
-  "2022-05-12": 439937,
-  "2022-05-13": 439937,
-  "2022-05-14": 439937,
-  "2022-05-15": 439937,
-  "2022-05-16": 439937,
-  "2022-05-17": 439937,
-  "2022-05-18": 439937,
-  "2022-05-19": 439937,
-  "2022-05-20": 439937,
-  "2022-05-21": 439937,
-  "2022-05-22": 439937,
-  "2022-05-23": 439937,
-  "2022-05-24": 439937,
-  "2022-05-25": 439937,
-  "2022-05-26": 439937,
-  "2022-05-27": 439937,
-  "2022-05-28": 439937,
-  "2022-05-29": 439937,
-  "2022-05-30": 439937,
-  "2022-05-31": 439937,
-  "2022-06-01": 439937,
-  "2022-06-02": 439937,
-  "2022-06-03": 439937,
-  "2022-06-04": 439937,
-  "2022-06-05": 439937,
-  "2022-06-06": 439937,
-  "2022-06-07": 439937,
-  "2022-06-08": 439937,
-  "2022-06-09": 439937,
-  "2022-06-10": 439937,
-  "2022-06-11": 439937,
-  "2022-06-12": 439937,
-  "2022-06-13": 439937,
-  "2022-06-14": 439937,
-  "2022-06-15": 439937,
-  "2022-06-16": 439937,
-  "2022-06-17": 439937,
-  "2022-06-18": 439937,
-  "2022-06-19": 439937,
-  "2022-06-20": 439937,
-  "2022-06-21": 439937,
-  "2022-06-22": 439937,
-  "2022-06-23": 439937,
-  "2022-06-24": 439937,
-  "2022-06-25": 439937,
-  "2022-06-26": 439937,
-  "2022-06-27": 439937,
-  "2022-06-28": 439937,
-  "2022-06-29": 439937,
-  "2022-06-30": 439937,
-  "2022-07-01": 439937,
-  "2022-07-02": 439937,
-  "2022-07-03": 439937,
-  "2022-07-04": 439937,
-  "2022-07-05": 439937,
-  "2022-07-06": 439937,
-  "2022-07-07": 439937,
-  "2022-07-08": 439937,
-  "2022-07-09": 439937,
-  "2022-07-10": 439937,
-  "2022-07-11": 439937,
-  "2022-07-12": 439937,
-  "2022-07-13": 439937,
-  "2022-07-14": 439937,
-  "2022-07-15": 439937,
-  "2022-07-16": 439937,
-  "2022-07-17": 439937,
-  "2022-07-18": 439937,
-  "2022-07-19": 439937,
-  "2022-07-20": 439937,
-  "2022-07-21": 439937,
-  "2022-07-22": 439937,
-  "2022-07-23": 439937,
-  "2022-07-24": 439937,
-  "2022-07-25": 439937,
-  "2022-07-26": 439937,
-  "2022-07-27": 439937,
-  "2022-07-28": 439937,
-  "2022-07-29": 439937,
-  "2022-07-30": 439937,
-  "2022-07-31": 439937,
-  "2022-08-01": 439937,
-  "2022-08-02": 439937,
-  "2022-08-03": 439937,
-  "2022-08-04": 439937,
-  "2022-08-05": 439937,
-  "2022-08-06": 439937,
-  "2022-08-07": 439937,
-  "2022-08-08": 439937,
-  "2022-08-09": 439937,
-  "2022-08-10": 439937,
-  "2022-08-11": 439937,
-  "2022-08-12": 439937,
-  "2022-08-13": 439937,
-  "2022-08-14": 439937,
-  "2022-08-15": 439937,
-  "2022-08-16": 439937,
-  "2022-08-17": 439937,
-  "2022-08-18": 439937,
-  "2022-08-19": 439937,
-  "2022-08-20": 439937,
-  "2022-08-21": 439937,
-  "2022-08-22": 439937,
-  "2022-08-23": 439937,
-  "2022-08-24": 439937,
-  "2022-08-25": 439937,
-  "2022-08-26": 439937,
-  "2022-08-27": 439937,
-  "2022-08-28": 439937,
-  "2022-08-29": 439937,
-  "2022-08-30": 439937,
-  "2022-08-31": 439937,
-  "2022-09-01": 439937,
-  "2022-09-02": 439937,
-  "2022-09-03": 439937,
-  "2022-09-04": 439937,
-  "2022-09-05": 439937,
-  "2022-09-06": 439937,
-  "2022-09-07": 439937,
-  "2022-09-09": 439937,
-  "2022-09-10": 439937,
-  "2022-09-11": 439937,
-  "2022-09-12": 439937,
-  "2022-09-13": 439937,
-  "2022-09-15": 439937,
-  "2022-09-16": 439937,
-  "2022-09-17": 439937,
-  "2022-09-18": 439937,
-  "2022-09-19": 439937,
-  "2022-09-20": 439937,
-  "2022-09-21": 439937,
-  "2022-09-22": 439937,
-  "2022-09-23": 439937,
-  "2022-09-24": 439937,
-  "2022-09-25": 439937,
-  "2022-09-26": 439937,
-  "2022-09-27": 439937,
-  "2022-09-28": 439937,
-  "2022-09-29": 439937,
-  "2022-09-30": 439937,
-  "2022-10-01": 439937,
-  "2022-10-02": 439937,
-  "2022-10-03": 439937,
-  "2022-10-04": 439937,
-  "2022-10-05": 439937,
-  "2022-10-06": 439937,
-  "2022-10-07": 439937,
-  "2022-10-08": 439937,
-  "2022-10-09": 439937,
-  "2022-10-10": 439937,
-  "2022-10-11": 439937,
-  "2022-10-12": 439937,
-  "2022-10-13": 439937,
-  "2022-10-14": 439937,
-  "2022-10-15": 439937,
-  "2022-10-16": 439937,
-  "2022-10-17": 439937,
-  "2022-10-18": 439937,
-  "2022-10-19": 439937,
-  "2022-10-20": 439937,
-  "2022-10-21": 439937,
-  "2022-10-22": 439937,
-  "2022-10-23": 439937,
-  "2022-10-24": 439937,
-  "2022-10-25": 439937,
-  "2022-10-26": 439937,
-  "2022-10-27": 439937,
-  "2022-10-28": 439937,
-  "2022-10-29": 439937,
-  "2022-10-30": 439937,
-  "2022-10-31": 439937,
-  "2022-11-01": 439937,
-  "2022-11-02": 439937,
-  "2022-11-03": 439937,
-  "2022-11-04": 439937,
-  "2022-11-05": 439937,
-  "2022-11-06": 439937,
-  "2022-11-07": 439937,
-  "2022-11-08": 439937,
-  "2022-11-09": 439937,
-  "2022-11-10": 439937,
-  "2022-11-11": 439937,
-  "2022-11-12": 439937,
-  "2022-11-13": 439937,
-  "2022-11-14": 439937,
-  "2022-11-15": 439937,
-  "2022-11-16": 439937,
-  "2022-11-17": 439937,
-  "2022-11-18": 439937,
-  "2022-11-19": 439937,
-  "2022-11-20": 439937,
-  "2022-11-21": 439937,
-  "2022-11-22": 439937,
-  "2022-11-23": 439937,
-  "2022-11-24": 439937,
-  "2022-11-25": 439937,
-  "2022-11-26": 439937,
-  "2022-11-27": 439937,
-  "2022-11-28": 439937,
-  "2022-11-29": 439937,
-  "2022-11-30": 439937,
-  "2022-12-01": 439937,
-  "2022-12-02": 439937,
-  "2022-12-03": 439937,
-  "2022-12-04": 439937,
-  "2022-12-05": 439937,
-  "2022-12-06": 439937,
-  "2022-12-07": 439937,
-  "2022-12-08": 439937,
-  "2022-12-09": 439937,
-  "2022-12-10": 439937,
-  "2022-12-11": 439937,
-  "2022-12-12": 439937,
-  "2022-12-13": 439937,
-  "2022-12-14": 439937,
-  "2022-12-15": 439937,
-  "2022-12-16": 439937,
-  "2022-12-17": 439937,
-  "2022-12-18": 439937,
-  "2022-12-19": 439937,
-  "2022-12-20": 439937,
-  "2022-12-21": 439937,
-  "2022-12-22": 439937,
-  "2022-12-24": 439937,
-  "2022-12-25": 439937,
-  "2022-12-26": 439937,
-  "2022-12-27": 439937,
-  "2022-12-28": 439937,
-  "2022-12-29": 439937,
-  "2022-12-30": 439937,
-  "2022-12-31": 439937,
-  "2023-01-01": 439937,
-  "2023-01-02": 439937,
-  "2023-01-03": 439937,
-  "2023-01-04": 439937,
-  "2023-01-05": 439937,
-  "2023-01-06": 439937,
-  "2023-01-07": 439937,
-  "2023-01-08": 439937,
-  "2023-01-09": 439937,
-  "2023-01-10": 439937,
-  "2023-01-11": 439937,
-  "2023-01-12": 439937,
-  "2023-01-13": 439937,
-  "2023-01-14": 439937,
-  "2023-01-15": 439937,
-  "2023-01-16": 439937,
-  "2023-01-17": 439937,
-  "2023-01-18": 439937,
-  "2023-01-19": 439937,
-  "2023-01-20": 439937,
-  "2023-01-21": 439937,
-  "2023-01-22": 439937,
-  "2023-01-23": 439937,
-  "2023-01-24": 439937,
-  "2023-01-25": 439937,
-  "2023-01-26": 439937,
-  "2023-01-27": 439937,
-  "2023-01-28": 439937,
-  "2023-01-29": 439937,
-  "2023-01-30": 439937,
-  "2023-01-31": 439937,
-  "2023-02-01": 439937,
-  "2023-02-02": 439937,
-  "2023-02-03": 439937,
-  "2023-02-04": 439937,
-  "2023-02-05": 439937,
-  "2023-02-06": 439937,
-  "2023-02-07": 439937,
-  "2023-02-08": 439937,
-  "2023-02-09": 439937,
-  "2023-02-10": 439937,
-  "2023-02-11": 439937,
-  "2023-02-12": 439937,
-  "2023-02-13": 439937,
-  "2023-02-14": 439937,
-  "2023-02-15": 439937,
-  "2023-02-16": 439937,
-  "2023-02-17": 439937,
-  "2023-02-18": 439937,
-  "2023-02-19": 439937,
-  "2023-02-20": 439937,
-  "2023-02-21": 439937,
-  "2023-02-22": 439937,
-  "2023-02-23": 439937,
-  "2023-02-24": 439937,
-  "2023-02-25": 439937,
-  "2023-02-26": 439937,
-  "2023-02-27": 439937,
-  "2023-02-28": 439937,
-  "2023-03-01": 439937,
-  "2023-03-02": 439937,
-  "2023-03-03": 439937,
-  "2023-03-04": 439937,
-  "2023-03-05": 439937,
-  "2023-03-06": 439937,
-  "2023-03-07": 439937,
-  "2023-03-08": 439937,
-  "2023-03-09": 439937,
-  "2023-03-10": 439937,
-  "2023-03-11": 439937,
-  "2023-03-12": 439937,
-  "2023-03-13": 439937,
-  "2023-03-14": 439937,
-  "2023-03-15": 439937,
-  "2023-03-16": 439937,
-  "2023-03-17": 439937,
-  "2023-03-18": 439937,
-  "2023-03-19": 439937,
-  "2023-03-20": 439937,
-  "2023-03-21": 439937,
-  "2023-03-22": 439937,
-  "2023-03-23": 439937,
-  "2023-03-24": 439937,
-  "2023-03-25": 439937,
-  "2023-03-26": 439937,
-  "2023-03-27": 439937,
-  "2023-03-28": 439937,
-  "2023-03-29": 439937,
-  "2023-03-30": 439937,
-  "2023-03-31": 439937,
-  "2023-04-01": 439937,
-  "2023-04-02": 439937,
-  "2023-04-03": 439937,
-  "2023-04-04": 439937,
-  "2023-04-05": 439937,
-  "2023-04-06": 439937,
-  "2023-04-07": 439937,
-  "2023-04-09": 439937,
-  "2023-04-10": 439937,
-  "2023-04-11": 439937,
-  "2023-04-12": 439937,
-  "2023-04-13": 439937,
-  "2023-04-14": 439937,
-  "2023-04-15": 439937,
-  "2023-04-16": 439937,
-  "2023-04-17": 439937,
-  "2023-04-18": 439937,
-  "2023-04-19": 439937,
-  "2023-04-20": 439937,
-  "2023-04-21": 439937,
-  "2023-04-22": 439937,
-  "2023-04-23": 439937,
-  "2023-04-24": 439937,
-  "2023-04-25": 439937,
-  "2023-04-26": 439937,
-  "2023-04-27": 439937,
-  "2023-04-28": 439937,
-  "2023-04-29": 439937,
-  "2023-04-30": 439937,
-  "2023-05-01": 439937,
-  "2023-05-02": 439937,
-  "2023-05-03": 439937,
-  "2023-05-04": 439937,
-  "2023-05-05": 439937,
-  "2023-05-06": 439937,
-  "2023-05-07": 439937,
-  "2023-05-08": 439937,
-  "2023-05-09": 439937,
-  "2023-05-10": 439937,
-  "2023-05-11": 439937,
-  "2023-05-12": 439937,
-  "2023-05-13": 439937,
-  "2023-05-14": 439937,
-  "2023-05-15": 439937,
-  "2023-05-16": 439937,
-  "2023-05-17": 439937,
-  "2023-05-18": 439937,
-  "2023-05-19": 439937,
-  "2023-05-20": 439937,
-  "2023-05-21": 439937,
-  "2023-05-22": 439937,
-  "2023-05-23": 439937,
-  "2023-05-24": 439937,
-  "2023-05-25": 439937,
-  "2023-05-26": 439937,
-  "2023-05-27": 439937,
-  "2023-05-28": 439937,
-  "2023-05-29": 439937,
-  "2023-05-30": 439937,
-  "2023-05-31": 439937,
-  "2023-06-01": 439937,
-  "2023-06-02": 439937,
-  "2023-06-03": 439937,
-  "2023-06-04": 439937,
-  "2023-06-05": 439937,
-  "2023-06-06": 439937,
-  "2023-06-07": 439937,
-  "2023-06-08": 439937,
-  "2023-06-09": 439937,
-  "2023-06-10": 439937,
-  "2023-06-11": 439937,
-  "2023-06-12": 439937,
-  "2023-06-13": 439937,
-  "2023-06-14": 439937,
-  "2023-06-15": 439937,
-  "2023-06-16": 439937,
-  "2023-06-17": 439937,
-  "2023-06-18": 439937,
-  "2023-06-19": 439937,
-  "2023-06-20": 439937,
-  "2023-06-21": 439937,
-  "2023-06-22": 439937,
-  "2023-06-23": 439937,
-  "2023-06-24": 439937,
-  "2023-06-25": 439937,
-  "2023-06-26": 439937,
-  "2023-06-27": 439937,
-  "2023-06-28": 439937,
-  "2023-06-29": 439937,
-  "2023-06-30": 439937,
-  "2023-07-01": 439937,
-  "2023-07-02": 439937,
-  "2023-07-03": 439937,
-  "2023-07-04": 439937,
-  "2023-07-05": 439937,
-  "2023-07-06": 439937,
-  "2023-07-07": 439937,
-  "2023-07-08": 439937,
-  "2023-07-09": 439937,
-  "2023-07-10": 439937,
-  "2023-07-11": 439937,
-  "2023-07-12": 439937,
-  "2023-07-13": 439937,
-  "2023-07-14": 439937,
-  "2023-07-15": 439937,
-  "2023-07-16": 439937,
-  "2023-07-17": 439937,
-  "2023-07-18": 439937,
-  "2023-07-19": 439937,
-  "2023-07-20": 439937,
-  "2023-07-21": 439937,
-  "2023-07-22": 439937,
-  "2023-07-23": 439937,
-  "2023-07-24": 439937,
-  "2023-07-25": 439937,
-  "2023-07-26": 439937,
-  "2023-07-27": 439937,
-  "2023-07-28": 439937,
-  "2023-07-29": 439937,
-  "2023-07-30": 439937,
-  "2023-07-31": 439937,
-  "2023-08-01": 439937,
-  "2023-08-02": 439937,
-  "2023-08-03": 439937,
-  "2023-08-04": 439937,
-  "2023-08-05": 439937,
-  "2023-08-06": 439937,
-  "2023-08-07": 439937,
-  "2023-08-08": 439937,
-  "2023-08-09": 439937,
-  "2023-08-10": 439937,
-  "2023-08-11": 439937,
-  "2023-08-12": 439937,
-  "2023-08-13": 439937,
-  "2023-08-14": 439937,
-  "2023-08-15": 439937,
-  "2023-08-16": 439937,
-  "2023-08-17": 439937,
-  "2023-08-18": 439937,
-  "2023-08-19": 439937,
-  "2023-08-20": 439937,
-  "2023-08-21": 439937,
-  "2023-08-22": 439937,
-  "2023-08-23": 439937,
-  "2023-08-24": 439937,
-  "2023-08-25": 439937,
-  "2023-08-26": 439937,
-  "2023-08-27": 439937,
-  "2023-08-28": 439937,
-  "2023-08-29": 439937,
-  "2023-08-30": 439937,
-  "2023-08-31": 439937,
-  "2023-09-01": 439937,
-  "2023-09-02": 439937,
-  "2023-09-03": 439937,
-  "2023-09-04": 439937,
-  "2023-09-05": 439937,
-  "2023-09-06": 439937,
-  "2023-09-07": 439937,
-  "2023-09-08": 439937,
-  "2023-09-09": 439937,
-  "2023-09-10": 439937,
-  "2023-09-11": 439937,
-  "2023-09-12": 439937,
-  "2023-09-13": 439937,
-  "2023-09-14": 439937,
-  "2023-09-15": 439937,
-  "2023-09-16": 439937,
-  "2023-09-17": 439937,
-  "2023-09-18": 439937,
-  "2023-09-19": 439937,
-  "2023-09-20": 439937,
-  "2023-09-21": 439937,
-  "2023-09-22": 439937,
-  "2023-09-23": 439937,
-  "2023-09-24": 439937,
-  "2023-09-25": 439937,
-  "2023-09-26": 439937,
-  "2023-09-27": 439937,
-  "2023-09-28": 439937,
-  "2023-09-29": 439937,
-  "2023-09-30": 439937,
-  "2023-10-01": 439937,
-  "2023-10-02": 439937,
-  "2023-10-03": 439937,
-  "2023-10-04": 439937,
-  "2023-10-05": 439937,
-  "2023-10-06": 439937,
-  "2023-10-07": 439937,
-  "2023-10-08": 439937,
-  "2023-10-09": 439937,
-  "2023-10-10": 439937,
-  "2023-10-11": 439937,
-  "2023-10-12": 439937,
-  "2023-10-13": 439937,
-  "2023-10-14": 439937,
-  "2023-10-15": 439937,
-  "2023-10-16": 439937,
-  "2023-10-17": 439937,
-  "2023-10-18": 439937,
-  "2023-10-19": 439937,
-  "2023-10-20": 439937,
-  "2023-10-21": 439937,
-  "2023-10-22": 439937,
-  "2023-10-23": 439937,
-  "2023-10-24": 439937,
-  "2023-10-25": 439937,
-  "2023-10-26": 439937,
-  "2023-10-27": 439937,
-  "2023-10-28": 439937,
-  "2023-10-29": 439937,
-  "2023-10-30": 439937,
-  "2023-10-31": 439937,
-  "2023-11-01": 439937,
-  "2023-11-02": 439937,
-  "2023-11-03": 439937,
-  "2023-11-04": 439937,
-  "2023-11-05": 439937,
-  "2023-11-06": 439937,
-  "2023-11-07": 439937,
-  "2023-11-08": 439937,
-  "2023-11-09": 439937,
-  "2023-11-10": 439937,
-  "2023-11-11": 439937,
-  "2023-11-12": 439937,
-  "2023-11-13": 439937,
-  "2023-11-14": 439937,
-  "2023-11-15": 439937,
-  "2023-11-16": 439937,
-  "2023-11-17": 439937,
-  "2023-11-18": 439937,
-  "2023-11-19": 439937,
-  "2023-11-20": 439937,
-  "2023-11-21": 439937,
-  "2023-11-22": 439937,
-  "2023-11-23": 439937,
-  "2023-11-24": 439937,
-  "2023-11-25": 439937,
-  "2023-11-26": 439937,
-  "2023-11-27": 439937,
-  "2023-11-28": 439937,
-  "2023-11-29": 439937,
-  "2023-11-30": 439937,
-  "2023-12-01": 439937,
-  "2023-12-02": 439937,
-  "2023-12-03": 439937,
-  "2023-12-04": 439937,
-  "2023-12-05": 439937,
-  "2023-12-06": 439937,
-  "2023-12-07": 439937,
-  "2023-12-08": 439937,
-  "2023-12-09": 439937,
-  "2023-12-10": 439937,
-  "2023-12-11": 439937,
-  "2023-12-12": 439937,
-  "2023-12-13": 439937,
-  "2023-12-14": 439937,
-  "2023-12-15": 439937,
-  "2023-12-16": 439937,
-  "2023-12-17": 439937,
-  "2023-12-18": 439937,
-  "2023-12-19": 439937,
-  "2023-12-20": 439937,
-  "2023-12-21": 439937,
-  "2023-12-22": 439937,
-  "2023-12-23": 439937,
-  "2023-12-24": 439937,
-  "2023-12-25": 439937,
-  "2023-12-26": 439937,
-  "2023-12-27": 439937,
-  "2023-12-30": 439937,
-  "2023-12-31": 439937,
-  "2024-01-01": 439937,
-  "2024-01-02": 439937,
-  "2024-01-03": 439937
+  "2024-01-17": 439937,
+  "date_first_scraped": "2021-12-21",
+  "description": "Sting, the essential tracks, all in one playlist.",
+  "name": "This is Sting",
+  "tracks": [
+    {
+      "album": {
+        "name": "50,000",
+        "url": "https://open.spotify.com/album/4reJyhTUHOxql3ODkmK690"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "50,000",
+      "url": "https://open.spotify.com/track/4Sa4nvpbywLDXNJAtCWI6x"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358066,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/4zYdvcaguqCfG5IcRLpfd4"
+    },
+    {
+      "album": {
+        "name": "The Best Of Me",
+        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280026,
+      "name": "All For Love - From \"The Three Musketeers\" Soundtrack",
+      "url": "https://open.spotify.com/track/0T4wPYibBqtaiiPFuVyqlY"
+    },
+    {
+      "album": {
+        "name": "The Soul Cages",
+        "url": "https://open.spotify.com/album/5bdLY9rbyqZduRw5ySy0eX"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/2cu8WtQZdxGe3lbetlzeNe"
+    },
+    {
+      "album": {
+        "name": "Wildflower (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6js6AsbjWMdMXapWYkbVSm"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "Always On Your Side",
+      "url": "https://open.spotify.com/track/7FqDLD2f3VFdCYPCFpNvYq"
+    },
+    {
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Another Pyramid",
+      "url": "https://open.spotify.com/track/0DMSXhLnI1tat6UBtnZU7o"
+    },
+    {
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334133,
+      "name": "Be Still My Beating Heart",
+      "url": "https://open.spotify.com/track/58me6gfG81fNG4v3dpRhh5"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379826,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/35rbWJFPSnfTEDXvopaqxZ"
+    },
+    {
+      "album": {
+        "name": "Message In A Box",
+        "url": "https://open.spotify.com/album/34mwCckm6X3AigkTgxGead"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/017MqJmYtXUqURJJZZOYv3"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta",
+        "url": "https://open.spotify.com/album/3eirZt4jPKEgO8puKpv4ZR"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "De Do Do Do, De Da Da Da - Remastered 2003",
+      "url": "https://open.spotify.com/track/1n7NZSDJsMum8SN08oG8Ya"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285893,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
+    },
+    {
+      "album": {
+        "name": "...All This Time",
+        "url": "https://open.spotify.com/album/4TeM1hu9aFlIQWYxTtRPix"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Dienda",
+      "url": "https://open.spotify.com/track/2CBAETjNtq5oFJGhSO6Zfb"
+    },
+    {
+      "album": {
+        "name": "Don't Make Me Wait (with Shaggy)",
+        "url": "https://open.spotify.com/album/7sCC7Ed8kwxJCShNczRLdD"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213636,
+      "name": "Don't Make Me Wait (with Shaggy)",
+      "url": "https://open.spotify.com/track/6pw6rxTiwWwTf9k62NFUwr"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta",
+        "url": "https://open.spotify.com/album/3eirZt4jPKEgO8puKpv4ZR"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me - Remastered 2003",
+      "url": "https://open.spotify.com/track/4DIRsQfLk2mfcrIOQNgAlm"
+    },
+    {
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2k9GXGAAlqHX8gZ6fXWfVr"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273554,
+      "name": "Englishman In New York - Recorded At Spotfiy Studios NYC",
+      "url": "https://open.spotify.com/track/6d2NMHCLM4mwpG61Sahyo3"
+    },
+    {
+      "album": {
+        "name": "Synchronicity",
+        "url": "https://open.spotify.com/album/7yDxJXFPl88Dt9kBo0dDD6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253886,
+      "name": "Every Breath You Take - Remastered 2003",
+      "url": "https://open.spotify.com/track/2sXp9Qmvc7mRaDBjBgcGGi"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
+      "url": "https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/5Y9Hqg5Z3EHUDDwd54FDQb"
+    },
+    {
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225083,
+      "name": "For Her Love",
+      "url": "https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP"
+    },
+    {
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "album": {
+        "name": "Symphonicities",
+        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "I Burn For You",
+      "url": "https://open.spotify.com/track/6snv0ufDA7Mdy0bn2Z4a5W"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2k9GXGAAlqHX8gZ6fXWfVr"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212448,
+      "name": "I Can't Stop Thinking About You - Recorded At Spotfiy Studios NYC",
+      "url": "https://open.spotify.com/track/59Eg6uKmmowid9K4UV8Q8e"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270400,
+      "name": "If I Ever Lose My Faith In You",
+      "url": "https://open.spotify.com/track/4u8QNalxYQISgG3z5TN5uP"
+    },
+    {
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194418,
+      "name": "If It's Love",
+      "url": "https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR"
+    },
+    {
+      "album": {
+        "name": "The Dream Of The Blue Turtles",
+        "url": "https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "If You Love Somebody Set Them Free",
+      "url": "https://open.spotify.com/track/5Xhqe9xu6bKRSqLj1mS1SB"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302040,
+      "name": "It's Probably Me",
+      "url": "https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59"
+    },
+    {
+      "album": {
+        "name": "The Police",
+        "url": "https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299293,
+      "name": "King Of Pain - Remastered 2003",
+      "url": "https://open.spotify.com/track/1BJZbIYZdqcDDlk4bgiS9I"
+    },
+    {
+      "album": {
+        "name": "The Dream Of The Blue Turtles",
+        "url": "https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Love Is The Seventh Wave",
+      "url": "https://open.spotify.com/track/2tnlTf2pIIYlQtUAo5AbNE"
+    },
+    {
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264384,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5MBsVdhkIVA8BpZ93tSNJv"
+    },
+    {
+      "album": {
+        "name": "The Soul Cages",
+        "url": "https://open.spotify.com/album/5bdLY9rbyqZduRw5ySy0eX"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/71yXwcl1PNMmEBWYK6JMDV"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc",
+        "url": "https://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290280,
+      "name": "Message In A Bottle - Remastered 2003",
+      "url": "https://open.spotify.com/track/5xD021bM8VbqrhCVhxRozx"
+    },
+    {
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "album": {
+        "name": "The Dream Of The Blue Turtles",
+        "url": "https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "Moon Over Bourbon Street",
+      "url": "https://open.spotify.com/track/3KF1EXX2zGfVtGeZKiClB0"
+    },
+    {
+      "album": {
+        "name": "The Magic Of Disney - 20 Superstar Hits",
+        "url": "https://open.spotify.com/album/25CGjHWu88oBg09u4AuGxG"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "My Funny Friend and Me",
+      "url": "https://open.spotify.com/track/1fd7PgyAiYQ5GftSM5k39p"
+    },
+    {
+      "album": {
+        "name": "The Last Ship (Deluxe)",
+        "url": "https://open.spotify.com/album/2aMkKzCvsavPM8bLNFM844"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Practical Arrangement",
+      "url": "https://open.spotify.com/track/60dvtnYkO2spYFRvAE80dt"
+    },
+    {
+      "album": {
+        "name": "Slicker Than Your Average",
+        "url": "https://open.spotify.com/album/4HBwG0rlHmJVU1zqF75M8n"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285906,
+      "name": "Rise & Fall - feat. Sting",
+      "url": "https://open.spotify.com/track/7bZhjrvRcCfFkQE3iwxEIr"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour",
+        "url": "https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Roxanne - Remastered 2003",
+      "url": "https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI"
+    },
+    {
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197808,
+      "name": "Rushing Water",
+      "url": "https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5"
+    },
+    {
+      "album": {
+        "name": "The Living Sea (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ofszqXl0pZJJOPsM2tp21"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163426,
+      "name": "Saint Agnes And The Burning Train",
+      "url": "https://open.spotify.com/track/7DCLMUE6y2wyqlIS9kE3fh"
+    },
+    {
+      "album": {
+        "name": "September (with Zucchero)",
+        "url": "https://open.spotify.com/album/1vpOwTSb8jX1iQm1ea9diV"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207994,
+      "name": "September (with Zucchero)",
+      "url": "https://open.spotify.com/track/6QJY9hgSJmbkXa16ypZy9G"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279373,
+      "name": "Seven Days",
+      "url": "https://open.spotify.com/track/4PK2oG19WnHWDZ6wojMSma"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/4Bi4yzmfOupSFm2gl2jeaQ"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278933,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/5TrvGxuqaYKsF7C0NfrLrY"
+    },
+    {
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Sister Moon",
+      "url": "https://open.spotify.com/track/6nfQE0yIbRA9RIklATizoF"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour",
+        "url": "https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289586,
+      "name": "So Lonely - Remastered 2003",
+      "url": "https://open.spotify.com/track/0rN5OBAJpd9bw7uvvJsRek"
+    },
+    {
+      "album": {
+        "name": "If On A Winter's Night",
+        "url": "https://open.spotify.com/album/3t3vhSEof0FS23aVfnhy4u"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "Soul Cake",
+      "url": "https://open.spotify.com/track/6yU2shiYBcNTEHAYSKxzuw"
+    },
+    {
+      "album": {
+        "name": "Interstellaires",
+        "url": "https://open.spotify.com/album/4F60eyXonpL7SWVBjiLkUd"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Stolen Car",
+      "url": "https://open.spotify.com/track/2oXtFzSwJzTSKKHZzKBk7F"
+    },
+    {
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248319,
+      "name": "The Bells of St. Thomas",
+      "url": "https://open.spotify.com/track/02E4fGzYon8J2jlOsqolhT"
+    },
+    {
+      "album": {
+        "name": "Symphonicities",
+        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367386,
+      "name": "The End Of The Game",
+      "url": "https://open.spotify.com/track/3JxuQu7pnGCGHpH7PXdQXp"
+    },
+    {
+      "album": {
+        "name": "Mercury Falling",
+        "url": "https://open.spotify.com/album/1WpH93rN4hwPjhydpemYup"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326826,
+      "name": "The Hounds Of Winter",
+      "url": "https://open.spotify.com/track/6vdJ7DwTbtUiVkowWf04kn"
+    },
+    {
+      "album": {
+        "name": "The Last Ship (Deluxe)",
+        "url": "https://open.spotify.com/album/2aMkKzCvsavPM8bLNFM844"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "The Last Ship",
+      "url": "https://open.spotify.com/track/56qUBBEdeXNkq7JRDlJnJx"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc",
+        "url": "https://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Walking On The Moon - Remastered 2003",
+      "url": "https://open.spotify.com/track/6ScRklja1Dsx1MJFHIDkYG"
+    },
+    {
+      "album": {
+        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "We'll Be Together",
+      "url": "https://open.spotify.com/track/4YlN7blQhOZuLn7KWKfmFN"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Sting And The Police",
+        "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/4rwjuEJmy7XfPcDQZmSmpX"
+    },
+    {
+      "album": {
+        "name": "A Hundred Miles or More: A Collection",
+        "url": "https://open.spotify.com/album/1CE777wFA55gdUyyHGrlPM"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150626,
+      "name": "You Will Be My Ain True Love",
+      "url": "https://open.spotify.com/track/274X2teE5GwyBR8fZanrI2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8yMCqd4JdaS"
 }

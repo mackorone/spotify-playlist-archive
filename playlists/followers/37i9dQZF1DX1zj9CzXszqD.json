@@ -1,735 +1,693 @@
 {
-  "2021-12-25": 56555,
-  "2021-12-26": 56579,
-  "2021-12-27": 56631,
-  "2021-12-28": 56631,
-  "2021-12-29": 56653,
-  "2021-12-30": 56682,
-  "2021-12-31": 56713,
-  "2022-01-01": 56765,
-  "2022-01-02": 56774,
-  "2022-01-03": 56805,
-  "2022-01-04": 56829,
-  "2022-01-05": 56847,
-  "2022-01-06": 56879,
-  "2022-01-07": 56908,
-  "2022-01-08": 56969,
-  "2022-01-09": 56970,
-  "2022-01-10": 57001,
-  "2022-01-11": 57001,
-  "2022-01-12": 57043,
-  "2022-01-13": 57043,
-  "2022-01-14": 57043,
-  "2022-01-15": 57043,
-  "2022-01-16": 57043,
-  "2022-01-17": 57043,
-  "2022-01-18": 57043,
-  "2022-01-19": 57043,
-  "2022-01-20": 57043,
-  "2022-01-21": 57043,
-  "2022-01-22": 57043,
-  "2022-01-23": 57043,
-  "2022-01-24": 57043,
-  "2022-01-25": 57043,
-  "2022-01-26": 57043,
-  "2022-01-27": 57043,
-  "2022-01-28": 57043,
-  "2022-01-29": 57043,
-  "2022-01-30": 57043,
-  "2022-01-31": 57043,
-  "2022-02-01": 57043,
-  "2022-02-02": 57043,
-  "2022-02-03": 57043,
-  "2022-02-04": 57043,
-  "2022-02-05": 57043,
-  "2022-02-06": 57043,
-  "2022-02-07": 57043,
-  "2022-02-08": 57043,
-  "2022-02-09": 57043,
-  "2022-02-10": 57043,
-  "2022-02-11": 57043,
-  "2022-02-12": 57043,
-  "2022-02-13": 57043,
-  "2022-02-14": 57043,
-  "2022-02-15": 57043,
-  "2022-02-16": 57043,
-  "2022-02-17": 57043,
-  "2022-02-18": 57043,
-  "2022-02-19": 57043,
-  "2022-02-20": 57043,
-  "2022-02-21": 57043,
-  "2022-02-22": 57043,
-  "2022-02-23": 57043,
-  "2022-02-24": 57043,
-  "2022-02-25": 57043,
-  "2022-02-26": 57043,
-  "2022-02-27": 57043,
-  "2022-02-28": 57043,
-  "2022-03-01": 57043,
-  "2022-03-02": 57043,
-  "2022-03-03": 57043,
-  "2022-03-04": 57043,
-  "2022-03-05": 57043,
-  "2022-03-06": 57043,
-  "2022-03-07": 57043,
-  "2022-03-08": 57043,
-  "2022-03-09": 57043,
-  "2022-03-10": 57043,
-  "2022-03-11": 57043,
-  "2022-03-12": 57043,
-  "2022-03-13": 57043,
-  "2022-03-14": 57043,
-  "2022-03-15": 57043,
-  "2022-03-16": 57043,
-  "2022-03-17": 57043,
-  "2022-03-18": 57043,
-  "2022-03-19": 57043,
-  "2022-03-20": 57043,
-  "2022-03-21": 57043,
-  "2022-03-22": 57043,
-  "2022-03-23": 57043,
-  "2022-03-24": 57043,
-  "2022-03-25": 57043,
-  "2022-03-26": 57043,
-  "2022-03-27": 57043,
-  "2022-03-28": 57043,
-  "2022-03-30": 57043,
-  "2022-03-31": 57043,
-  "2022-04-01": 57043,
-  "2022-04-02": 57043,
-  "2022-04-03": 57043,
-  "2022-04-04": 57043,
-  "2022-04-05": 57043,
-  "2022-04-06": 57043,
-  "2022-04-07": 57043,
-  "2022-04-08": 57043,
-  "2022-04-09": 57043,
-  "2022-04-10": 57043,
-  "2022-04-11": 57043,
-  "2022-04-12": 57043,
-  "2022-04-13": 57043,
-  "2022-04-14": 57043,
-  "2022-04-15": 57043,
-  "2022-04-16": 57043,
-  "2022-04-17": 57043,
-  "2022-04-18": 57043,
-  "2022-04-19": 57043,
-  "2022-04-20": 57043,
-  "2022-04-21": 57043,
-  "2022-04-22": 57043,
-  "2022-04-23": 57043,
-  "2022-04-24": 57043,
-  "2022-04-25": 57043,
-  "2022-04-26": 57043,
-  "2022-04-27": 57043,
-  "2022-04-28": 57043,
-  "2022-04-29": 57043,
-  "2022-04-30": 57043,
-  "2022-05-01": 57043,
-  "2022-05-02": 57043,
-  "2022-05-03": 57043,
-  "2022-05-04": 57043,
-  "2022-05-05": 57043,
-  "2022-05-06": 57043,
-  "2022-05-07": 57043,
-  "2022-05-08": 57043,
-  "2022-05-09": 57043,
-  "2022-05-10": 57043,
-  "2022-05-11": 57043,
-  "2022-05-12": 57043,
-  "2022-05-13": 57043,
-  "2022-05-14": 57043,
-  "2022-05-15": 57043,
-  "2022-05-16": 57043,
-  "2022-05-17": 57043,
-  "2022-05-18": 57043,
-  "2022-05-19": 57043,
-  "2022-05-20": 57043,
-  "2022-05-21": 57043,
-  "2022-05-22": 57043,
-  "2022-05-23": 57043,
-  "2022-05-24": 57043,
-  "2022-05-25": 57043,
-  "2022-05-26": 57043,
-  "2022-05-27": 57043,
-  "2022-05-28": 57043,
-  "2022-05-29": 57043,
-  "2022-05-30": 57043,
-  "2022-05-31": 57043,
-  "2022-06-01": 57043,
-  "2022-06-02": 57043,
-  "2022-06-03": 57043,
-  "2022-06-04": 57043,
-  "2022-06-05": 57043,
-  "2022-06-06": 57043,
-  "2022-06-07": 57043,
-  "2022-06-08": 57043,
-  "2022-06-09": 57043,
-  "2022-06-10": 57043,
-  "2022-06-11": 57043,
-  "2022-06-12": 57043,
-  "2022-06-13": 57043,
-  "2022-06-14": 57043,
-  "2022-06-15": 57043,
-  "2022-06-16": 57043,
-  "2022-06-17": 57043,
-  "2022-06-18": 57043,
-  "2022-06-19": 57043,
-  "2022-06-20": 57043,
-  "2022-06-21": 57043,
-  "2022-06-22": 57043,
-  "2022-06-23": 57043,
-  "2022-06-24": 57043,
-  "2022-06-25": 57043,
-  "2022-06-26": 57043,
-  "2022-06-27": 57043,
-  "2022-06-28": 57043,
-  "2022-06-29": 57043,
-  "2022-06-30": 57043,
-  "2022-07-01": 57043,
-  "2022-07-02": 57043,
-  "2022-07-03": 57043,
-  "2022-07-04": 57043,
-  "2022-07-05": 57043,
-  "2022-07-06": 57043,
-  "2022-07-07": 57043,
-  "2022-07-08": 57043,
-  "2022-07-09": 57043,
-  "2022-07-10": 57043,
-  "2022-07-11": 57043,
-  "2022-07-12": 57043,
-  "2022-07-13": 57043,
-  "2022-07-14": 57043,
-  "2022-07-15": 57043,
-  "2022-07-16": 57043,
-  "2022-07-17": 57043,
-  "2022-07-18": 57043,
-  "2022-07-19": 57043,
-  "2022-07-20": 57043,
-  "2022-07-21": 57043,
-  "2022-07-22": 57043,
-  "2022-07-23": 57043,
-  "2022-07-24": 57043,
-  "2022-07-25": 57043,
-  "2022-07-26": 57043,
-  "2022-07-27": 57043,
-  "2022-07-28": 57043,
-  "2022-07-29": 57043,
-  "2022-07-30": 57043,
-  "2022-07-31": 57043,
-  "2022-08-01": 57043,
-  "2022-08-02": 57043,
-  "2022-08-03": 57043,
-  "2022-08-04": 57043,
-  "2022-08-05": 57043,
-  "2022-08-06": 57043,
-  "2022-08-07": 57043,
-  "2022-08-08": 57043,
-  "2022-08-09": 57043,
-  "2022-08-10": 57043,
-  "2022-08-11": 57043,
-  "2022-08-12": 57043,
-  "2022-08-13": 57043,
-  "2022-08-14": 57043,
-  "2022-08-15": 57043,
-  "2022-08-16": 57043,
-  "2022-08-17": 57043,
-  "2022-08-18": 57043,
-  "2022-08-19": 57043,
-  "2022-08-20": 57043,
-  "2022-08-21": 57043,
-  "2022-08-22": 57043,
-  "2022-08-23": 57043,
-  "2022-08-24": 57043,
-  "2022-08-25": 57043,
-  "2022-08-26": 57043,
-  "2022-08-27": 57043,
-  "2022-08-28": 57043,
-  "2022-08-29": 57043,
-  "2022-08-30": 57043,
-  "2022-08-31": 57043,
-  "2022-09-01": 57043,
-  "2022-09-02": 57043,
-  "2022-09-03": 57043,
-  "2022-09-04": 57043,
-  "2022-09-05": 57043,
-  "2022-09-06": 57043,
-  "2022-09-07": 57043,
-  "2022-09-09": 57043,
-  "2022-09-10": 57043,
-  "2022-09-11": 57043,
-  "2022-09-12": 57043,
-  "2022-09-13": 57043,
-  "2022-09-15": 57043,
-  "2022-09-16": 57043,
-  "2022-09-17": 57043,
-  "2022-09-18": 57043,
-  "2022-09-19": 57043,
-  "2022-09-20": 57043,
-  "2022-09-21": 57043,
-  "2022-09-22": 57043,
-  "2022-09-23": 57043,
-  "2022-09-24": 57043,
-  "2022-09-25": 57043,
-  "2022-09-26": 57043,
-  "2022-09-27": 57043,
-  "2022-09-28": 57043,
-  "2022-09-29": 57043,
-  "2022-09-30": 57043,
-  "2022-10-01": 57043,
-  "2022-10-02": 57043,
-  "2022-10-03": 57043,
-  "2022-10-04": 57043,
-  "2022-10-05": 57043,
-  "2022-10-06": 57043,
-  "2022-10-07": 57043,
-  "2022-10-08": 57043,
-  "2022-10-09": 57043,
-  "2022-10-10": 57043,
-  "2022-10-11": 57043,
-  "2022-10-12": 57043,
-  "2022-10-13": 57043,
-  "2022-10-14": 57043,
-  "2022-10-15": 57043,
-  "2022-10-16": 57043,
-  "2022-10-17": 57043,
-  "2022-10-18": 57043,
-  "2022-10-19": 57043,
-  "2022-10-20": 57043,
-  "2022-10-21": 57043,
-  "2022-10-22": 57043,
-  "2022-10-23": 57043,
-  "2022-10-24": 57043,
-  "2022-10-25": 57043,
-  "2022-10-26": 57043,
-  "2022-10-27": 57043,
-  "2022-10-28": 57043,
-  "2022-10-29": 57043,
-  "2022-10-30": 57043,
-  "2022-10-31": 57043,
-  "2022-11-01": 57043,
-  "2022-11-02": 57043,
-  "2022-11-03": 57043,
-  "2022-11-04": 57043,
-  "2022-11-05": 57043,
-  "2022-11-06": 57043,
-  "2022-11-07": 57043,
-  "2022-11-08": 57043,
-  "2022-11-09": 57043,
-  "2022-11-10": 57043,
-  "2022-11-11": 57043,
-  "2022-11-12": 57043,
-  "2022-11-13": 57043,
-  "2022-11-14": 57043,
-  "2022-11-15": 57043,
-  "2022-11-16": 57043,
-  "2022-11-17": 57043,
-  "2022-11-18": 57043,
-  "2022-11-19": 57043,
-  "2022-11-20": 57043,
-  "2022-11-21": 57043,
-  "2022-11-22": 57043,
-  "2022-11-23": 57043,
-  "2022-11-24": 57043,
-  "2022-11-25": 57043,
-  "2022-11-26": 57043,
-  "2022-11-27": 57043,
-  "2022-11-28": 57043,
-  "2022-11-29": 57043,
-  "2022-11-30": 57043,
-  "2022-12-01": 57043,
-  "2022-12-02": 57043,
-  "2022-12-03": 57043,
-  "2022-12-04": 57043,
-  "2022-12-05": 57043,
-  "2022-12-06": 57043,
-  "2022-12-07": 57043,
-  "2022-12-08": 57043,
-  "2022-12-09": 57043,
-  "2022-12-10": 57043,
-  "2022-12-11": 57043,
-  "2022-12-12": 57043,
-  "2022-12-13": 57043,
-  "2022-12-14": 57043,
-  "2022-12-15": 57043,
-  "2022-12-16": 57043,
-  "2022-12-17": 57043,
-  "2022-12-18": 57043,
-  "2022-12-19": 57043,
-  "2022-12-20": 57043,
-  "2022-12-21": 57043,
-  "2022-12-22": 57043,
-  "2022-12-24": 57043,
-  "2022-12-25": 57043,
-  "2022-12-26": 57043,
-  "2022-12-27": 57043,
-  "2022-12-28": 57043,
-  "2022-12-29": 57043,
-  "2022-12-30": 57043,
-  "2022-12-31": 57043,
-  "2023-01-01": 57043,
-  "2023-01-02": 57043,
-  "2023-01-03": 57043,
-  "2023-01-04": 57043,
-  "2023-01-05": 57043,
-  "2023-01-06": 57043,
-  "2023-01-07": 57043,
-  "2023-01-08": 57043,
-  "2023-01-09": 57043,
-  "2023-01-10": 57043,
-  "2023-01-11": 57043,
-  "2023-01-12": 57043,
-  "2023-01-13": 57043,
-  "2023-01-14": 57043,
-  "2023-01-15": 57043,
-  "2023-01-16": 57043,
-  "2023-01-17": 57043,
-  "2023-01-18": 57043,
-  "2023-01-19": 57043,
-  "2023-01-20": 57043,
-  "2023-01-21": 57043,
-  "2023-01-22": 57043,
-  "2023-01-23": 57043,
-  "2023-01-24": 57043,
-  "2023-01-25": 57043,
-  "2023-01-26": 57043,
-  "2023-01-27": 57043,
-  "2023-01-28": 57043,
-  "2023-01-29": 57043,
-  "2023-01-30": 57043,
-  "2023-01-31": 57043,
-  "2023-02-01": 57043,
-  "2023-02-02": 57043,
-  "2023-02-03": 57043,
-  "2023-02-04": 57043,
-  "2023-02-05": 57043,
-  "2023-02-06": 57043,
-  "2023-02-07": 57043,
-  "2023-02-08": 57043,
-  "2023-02-09": 57043,
-  "2023-02-10": 57043,
-  "2023-02-11": 57043,
-  "2023-02-12": 57043,
-  "2023-02-13": 57043,
-  "2023-02-14": 57043,
-  "2023-02-15": 57043,
-  "2023-02-16": 57043,
-  "2023-02-17": 57043,
-  "2023-02-18": 57043,
-  "2023-02-19": 57043,
-  "2023-02-20": 57043,
-  "2023-02-21": 57043,
-  "2023-02-22": 57043,
-  "2023-02-23": 57043,
-  "2023-02-24": 57043,
-  "2023-02-25": 57043,
-  "2023-02-26": 57043,
-  "2023-02-27": 57043,
-  "2023-02-28": 57043,
-  "2023-03-01": 57043,
-  "2023-03-02": 57043,
-  "2023-03-03": 57043,
-  "2023-03-04": 57043,
-  "2023-03-05": 57043,
-  "2023-03-06": 57043,
-  "2023-03-07": 57043,
-  "2023-03-08": 57043,
-  "2023-03-09": 57043,
-  "2023-03-10": 57043,
-  "2023-03-11": 57043,
-  "2023-03-12": 57043,
-  "2023-03-13": 57043,
-  "2023-03-14": 57043,
-  "2023-03-15": 57043,
-  "2023-03-16": 57043,
-  "2023-03-17": 57043,
-  "2023-03-18": 57043,
-  "2023-03-19": 57043,
-  "2023-03-20": 57043,
-  "2023-03-21": 57043,
-  "2023-03-22": 57043,
-  "2023-03-23": 57043,
-  "2023-03-24": 57043,
-  "2023-03-25": 57043,
-  "2023-03-26": 57043,
-  "2023-03-27": 57043,
-  "2023-03-28": 57043,
-  "2023-03-29": 57043,
-  "2023-03-30": 57043,
-  "2023-03-31": 57043,
-  "2023-04-01": 57043,
-  "2023-04-02": 57043,
-  "2023-04-03": 57043,
-  "2023-04-04": 57043,
-  "2023-04-05": 57043,
-  "2023-04-06": 57043,
-  "2023-04-07": 57043,
-  "2023-04-09": 57043,
-  "2023-04-10": 57043,
-  "2023-04-11": 57043,
-  "2023-04-12": 57043,
-  "2023-04-13": 57043,
-  "2023-04-14": 57043,
-  "2023-04-15": 57043,
-  "2023-04-16": 57043,
-  "2023-04-17": 57043,
-  "2023-04-18": 57043,
-  "2023-04-19": 57043,
-  "2023-04-20": 57043,
-  "2023-04-21": 57043,
-  "2023-04-22": 57043,
-  "2023-04-23": 57043,
-  "2023-04-24": 57043,
-  "2023-04-25": 57043,
-  "2023-04-26": 57043,
-  "2023-04-27": 57043,
-  "2023-04-28": 57043,
-  "2023-04-29": 57043,
-  "2023-04-30": 57043,
-  "2023-05-01": 57043,
-  "2023-05-02": 57043,
-  "2023-05-03": 57043,
-  "2023-05-04": 57043,
-  "2023-05-05": 57043,
-  "2023-05-06": 57043,
-  "2023-05-07": 57043,
-  "2023-05-08": 57043,
-  "2023-05-09": 57043,
-  "2023-05-10": 57043,
-  "2023-05-11": 57043,
-  "2023-05-12": 57043,
-  "2023-05-13": 57043,
-  "2023-05-14": 57043,
-  "2023-05-15": 57043,
-  "2023-05-16": 57043,
-  "2023-05-17": 57043,
-  "2023-05-18": 57043,
-  "2023-05-19": 57043,
-  "2023-05-20": 57043,
-  "2023-05-21": 57043,
-  "2023-05-22": 57043,
-  "2023-05-23": 57043,
-  "2023-05-24": 57043,
-  "2023-05-25": 57043,
-  "2023-05-26": 57043,
-  "2023-05-27": 57043,
-  "2023-05-28": 57043,
-  "2023-05-29": 57043,
-  "2023-05-30": 57043,
-  "2023-05-31": 57043,
-  "2023-06-01": 57043,
-  "2023-06-02": 57043,
-  "2023-06-03": 57043,
-  "2023-06-04": 57043,
-  "2023-06-05": 57043,
-  "2023-06-06": 57043,
-  "2023-06-07": 57043,
-  "2023-06-08": 57043,
-  "2023-06-09": 57043,
-  "2023-06-10": 57043,
-  "2023-06-11": 57043,
-  "2023-06-12": 57043,
-  "2023-06-13": 57043,
-  "2023-06-14": 57043,
-  "2023-06-15": 57043,
-  "2023-06-16": 57043,
-  "2023-06-17": 57043,
-  "2023-06-18": 57043,
-  "2023-06-19": 57043,
-  "2023-06-20": 57043,
-  "2023-06-21": 57043,
-  "2023-06-22": 57043,
-  "2023-06-23": 57043,
-  "2023-06-24": 57043,
-  "2023-06-25": 57043,
-  "2023-06-26": 57043,
-  "2023-06-27": 57043,
-  "2023-06-28": 57043,
-  "2023-06-29": 57043,
-  "2023-06-30": 57043,
-  "2023-07-01": 57043,
-  "2023-07-02": 57043,
-  "2023-07-03": 57043,
-  "2023-07-04": 57043,
-  "2023-07-05": 57043,
-  "2023-07-06": 57043,
-  "2023-07-07": 57043,
-  "2023-07-08": 57043,
-  "2023-07-09": 57043,
-  "2023-07-10": 57043,
-  "2023-07-11": 57043,
-  "2023-07-12": 57043,
-  "2023-07-13": 57043,
-  "2023-07-14": 57043,
-  "2023-07-15": 57043,
-  "2023-07-16": 57043,
-  "2023-07-17": 57043,
-  "2023-07-18": 57043,
-  "2023-07-19": 57043,
-  "2023-07-20": 57043,
-  "2023-07-21": 57043,
-  "2023-07-22": 57043,
-  "2023-07-23": 57043,
-  "2023-07-24": 57043,
-  "2023-07-25": 57043,
-  "2023-07-26": 57043,
-  "2023-07-27": 57043,
-  "2023-07-28": 57043,
-  "2023-07-29": 57043,
-  "2023-07-30": 57043,
-  "2023-07-31": 57043,
-  "2023-08-01": 57043,
-  "2023-08-02": 57043,
-  "2023-08-03": 57043,
-  "2023-08-04": 57043,
-  "2023-08-05": 57043,
-  "2023-08-06": 57043,
-  "2023-08-07": 57043,
-  "2023-08-08": 57043,
-  "2023-08-09": 57043,
-  "2023-08-10": 57043,
-  "2023-08-11": 57043,
-  "2023-08-12": 57043,
-  "2023-08-13": 57043,
-  "2023-08-14": 57043,
-  "2023-08-15": 57043,
-  "2023-08-16": 57043,
-  "2023-08-17": 57043,
-  "2023-08-18": 57043,
-  "2023-08-19": 57043,
-  "2023-08-20": 57043,
-  "2023-08-21": 57043,
-  "2023-08-22": 57043,
-  "2023-08-23": 57043,
-  "2023-08-24": 57043,
-  "2023-08-25": 57043,
-  "2023-08-26": 57043,
-  "2023-08-27": 57043,
-  "2023-08-28": 57043,
-  "2023-08-29": 57043,
-  "2023-08-30": 57043,
-  "2023-08-31": 57043,
-  "2023-09-01": 57043,
-  "2023-09-02": 57043,
-  "2023-09-03": 57043,
-  "2023-09-04": 57043,
-  "2023-09-05": 57043,
-  "2023-09-06": 57043,
-  "2023-09-07": 57043,
-  "2023-09-08": 57043,
-  "2023-09-09": 57043,
-  "2023-09-10": 57043,
-  "2023-09-11": 57043,
-  "2023-09-12": 57043,
-  "2023-09-13": 57043,
-  "2023-09-14": 57043,
-  "2023-09-15": 57043,
-  "2023-09-16": 57043,
-  "2023-09-17": 57043,
-  "2023-09-18": 57043,
-  "2023-09-19": 57043,
-  "2023-09-20": 57043,
-  "2023-09-21": 57043,
-  "2023-09-22": 57043,
-  "2023-09-23": 57043,
-  "2023-09-24": 57043,
-  "2023-09-25": 57043,
-  "2023-09-26": 57043,
-  "2023-09-27": 57043,
-  "2023-09-28": 57043,
-  "2023-09-29": 57043,
-  "2023-09-30": 57043,
-  "2023-10-01": 57043,
-  "2023-10-02": 57043,
-  "2023-10-03": 57043,
-  "2023-10-04": 57043,
-  "2023-10-05": 57043,
-  "2023-10-06": 57043,
-  "2023-10-07": 57043,
-  "2023-10-08": 57043,
-  "2023-10-09": 57043,
-  "2023-10-10": 57043,
-  "2023-10-11": 57043,
-  "2023-10-12": 57043,
-  "2023-10-13": 57043,
-  "2023-10-14": 57043,
-  "2023-10-15": 57043,
-  "2023-10-16": 57043,
-  "2023-10-17": 57043,
-  "2023-10-18": 57043,
-  "2023-10-19": 57043,
-  "2023-10-20": 57043,
-  "2023-10-21": 57043,
-  "2023-10-22": 57043,
-  "2023-10-23": 57043,
-  "2023-10-24": 57043,
-  "2023-10-25": 57043,
-  "2023-10-26": 57043,
-  "2023-10-27": 57043,
-  "2023-10-28": 57043,
-  "2023-10-29": 57043,
-  "2023-10-30": 57043,
-  "2023-10-31": 57043,
-  "2023-11-01": 57043,
-  "2023-11-02": 57043,
-  "2023-11-03": 57043,
-  "2023-11-04": 57043,
-  "2023-11-05": 57043,
-  "2023-11-06": 57043,
-  "2023-11-07": 57043,
-  "2023-11-08": 57043,
-  "2023-11-09": 57043,
-  "2023-11-10": 57043,
-  "2023-11-11": 57043,
-  "2023-11-12": 57043,
-  "2023-11-13": 57043,
-  "2023-11-14": 57043,
-  "2023-11-15": 57043,
-  "2023-11-16": 57043,
-  "2023-11-17": 57043,
-  "2023-11-18": 57043,
-  "2023-11-19": 57043,
-  "2023-11-20": 57043,
-  "2023-11-21": 57043,
-  "2023-11-22": 57043,
-  "2023-11-23": 57043,
-  "2023-11-24": 57043,
-  "2023-11-25": 57043,
-  "2023-11-26": 57043,
-  "2023-11-27": 57043,
-  "2023-11-28": 57043,
-  "2023-11-29": 57043,
-  "2023-11-30": 57043,
-  "2023-12-01": 57043,
-  "2023-12-02": 57043,
-  "2023-12-03": 57043,
-  "2023-12-04": 57043,
-  "2023-12-05": 57043,
-  "2023-12-06": 57043,
-  "2023-12-07": 57043,
-  "2023-12-08": 57043,
-  "2023-12-09": 57043,
-  "2023-12-10": 57043,
-  "2023-12-11": 57043,
-  "2023-12-12": 57043,
-  "2023-12-13": 57043,
-  "2023-12-14": 57043,
-  "2023-12-15": 57043,
-  "2023-12-16": 57043,
-  "2023-12-17": 57043,
-  "2023-12-18": 57043,
-  "2023-12-19": 57043,
-  "2023-12-20": 57043,
-  "2023-12-21": 57043,
-  "2023-12-22": 57043,
-  "2023-12-23": 57043,
-  "2023-12-24": 57043,
-  "2023-12-25": 57043,
-  "2023-12-26": 57043,
-  "2023-12-27": 57043,
-  "2023-12-30": 57043,
-  "2023-12-31": 57043,
-  "2024-01-01": 57043,
-  "2024-01-02": 57043,
-  "2024-01-03": 57043
+  "2024-01-17": 57043,
+  "date_first_scraped": "2021-12-21",
+  "description": "A collection of the essential Status Quo songs.",
+  "name": "This Is: Status Quo",
+  "tracks": [
+    {
+      "album": {
+        "name": "30 Gold Bars",
+        "url": "https://open.spotify.com/album/5Fjz4vI7qNIpL6YKSu2e3X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "A Mess of the Blues",
+      "url": "https://open.spotify.com/track/53tu8aC4Gys443r9FD2nXX"
+    },
+    {
+      "album": {
+        "name": "If You Can't Stand The Heat",
+        "url": "https://open.spotify.com/album/1CSr2AIOhS5leOYnlaIg9X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/4RlwNdx4mqe9DrxTObGhH9"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/6cVgXk7jw88GdV2nqJWLMx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Ain't Complaining",
+      "url": "https://open.spotify.com/track/3WyBqKXuu8xVDwTDQ6cLX3"
+    },
+    {
+      "album": {
+        "name": "Quo",
+        "url": "https://open.spotify.com/album/1EaSAnhZYbuXdr6viTLFdV"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221253,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1i7nTig3z7kln3pVkIUFa2"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/6cVgXk7jw88GdV2nqJWLMx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/3Dzvnl99ZONDVDXwkb2Q06"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0LDQzaZoYOLpeMpsSa4m9t"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259413,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/3fSWHHIHLRvdB5PYJ7PXrF"
+    },
+    {
+      "album": {
+        "name": "1+9+8+2",
+        "url": "https://open.spotify.com/album/5jRoM406cCWAlrZ9Sp9OV8"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Dear John",
+      "url": "https://open.spotify.com/track/4GjiBJ5eZCcFwlQ2jaRnKO"
+    },
+    {
+      "album": {
+        "name": "30 Gold Bars",
+        "url": "https://open.spotify.com/album/5Fjz4vI7qNIpL6YKSu2e3X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253666,
+      "name": "Don't Drive My Car",
+      "url": "https://open.spotify.com/track/2af1qOet4U9nWAlthWfgXb"
+    },
+    {
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/76EMCm568vH0ppdbuUSlGb"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Down Down - Single Version",
+      "url": "https://open.spotify.com/track/44GoyqqtjCjAhKAjKwmo9M"
+    },
+    {
+      "album": {
+        "name": "In The Army Now",
+        "url": "https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175586,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/6vgZnLvOLFNysM1HkCFY50"
+    },
+    {
+      "album": {
+        "name": "The Essential Status Quo",
+        "url": "https://open.spotify.com/album/1NdLWbZSs5kJhtFKmef0oL"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7sThb0JpSychySCPZgGYxu"
+    },
+    {
+      "album": {
+        "name": "Quotations",
+        "url": "https://open.spotify.com/album/0UzFYXCNjpEsDwIJ1zUAtY"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/506bViKaohwPE3sm13JOqK"
+    },
+    {
+      "album": {
+        "name": "Status Quo At Their Best",
+        "url": "https://open.spotify.com/album/4vgocMnwnfx2NpFic9r3Gx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Gerdundula - 7\" Version",
+      "url": "https://open.spotify.com/track/1Sgi9ljjVLoOGIz2NxeDAC"
+    },
+    {
+      "album": {
+        "name": "30 Gold Bars",
+        "url": "https://open.spotify.com/album/5Fjz4vI7qNIpL6YKSu2e3X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Going Down Town Tonight",
+      "url": "https://open.spotify.com/track/4HGwgE7PnhVYri4cqa3dQt"
+    },
+    {
+      "album": {
+        "name": "Thirsty Work",
+        "url": "https://open.spotify.com/album/7F9dWaTM9y1IxBiHjO92eD"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "I Didn't Mean It",
+      "url": "https://open.spotify.com/track/7IUJdyIoqiSodxyXs4sXlZ"
+    },
+    {
+      "album": {
+        "name": "Picturesque Matchstickable Messages From The Status Quo",
+        "url": "https://open.spotify.com/album/7KXp9mVWxNlUMFLVOY3sDb"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132093,
+      "name": "Ice In The Sun",
+      "url": "https://open.spotify.com/track/03IzjAgEkmzBCMA3u7Tkd9"
+    },
+    {
+      "album": {
+        "name": "In The Army Now - The Collection",
+        "url": "https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281146,
+      "name": "In The Army Now",
+      "url": "https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj"
+    },
+    {
+      "album": {
+        "name": "Merry Xmas",
+        "url": "https://open.spotify.com/album/6J3VYjuaBXLFaaPSLU3UX5"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251213,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/0k70wa70q4nMf4mdJGy4b3"
+    },
+    {
+      "album": {
+        "name": "Just Supposin'",
+        "url": "https://open.spotify.com/album/499LkyqISYrylHIGk2IkLx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/531soiHmnf8KRb5IyUSG7u"
+    },
+    {
+      "album": {
+        "name": "The Essential Status Quo",
+        "url": "https://open.spotify.com/album/1NdLWbZSs5kJhtFKmef0oL"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Mad About The Boy",
+      "url": "https://open.spotify.com/track/4KJL3PeRmv3g202vy2r4dK"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/6cVgXk7jw88GdV2nqJWLMx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Marguerita Time",
+      "url": "https://open.spotify.com/track/0aQELb2MASnvcWJWj3SXIh"
+    },
+    {
+      "album": {
+        "name": "Dog of Two Head",
+        "url": "https://open.spotify.com/album/7dz4HTY8B0EcvoY8iTp5d9"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Mean Girl",
+      "url": "https://open.spotify.com/track/2QuOljy4cdFePxOD5bd7eP"
+    },
+    {
+      "album": {
+        "name": "Perfect Remedy",
+        "url": "https://open.spotify.com/album/3CwBks02qz88koK38BenJm"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331653,
+      "name": "Medley: The Anniversary Waltz - Part 1",
+      "url": "https://open.spotify.com/track/5ZgFjxPxFRGbhx8Qh37xG4"
+    },
+    {
+      "album": {
+        "name": "Blue For You",
+        "url": "https://open.spotify.com/album/16MjanaRhBF4JEP9Tn5sho"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "Mystery Song - Single Edit",
+      "url": "https://open.spotify.com/track/4CBl3UE5CkP1b1JhFziGUI"
+    },
+    {
+      "album": {
+        "name": "The Essential Status Quo",
+        "url": "https://open.spotify.com/album/1NdLWbZSs5kJhtFKmef0oL"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Nightride",
+      "url": "https://open.spotify.com/track/0WgqX1Lm5TkYE2ZizCYln9"
+    },
+    {
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/2eBRt3C1R8zMH0kkQ0li3Z"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Ol' Rag Blues - Edit Version",
+      "url": "https://open.spotify.com/track/2NOYk2cQEDLDqwHy7dPqmU"
+    },
+    {
+      "album": {
+        "name": "Piledriver",
+        "url": "https://open.spotify.com/album/6zUxfx6J869LxWmqEPcAx2"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/2yxfioD4zeELCTLwJGGYaF"
+    },
+    {
+      "album": {
+        "name": "Matchstick Men: The Psychedelic Years",
+        "url": "https://open.spotify.com/album/7u0oydXDAbqm0zpyKe01Qj"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "Pictures Of Matchstick Men",
+      "url": "https://open.spotify.com/track/2Quz3GTMaWFEZN6e82EM55"
+    },
+    {
+      "album": {
+        "name": "Blue For You",
+        "url": "https://open.spotify.com/album/16MjanaRhBF4JEP9Tn5sho"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277346,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0i7w5Tibwz5ZyWzkbFeQSn"
+    },
+    {
+      "album": {
+        "name": "In The Army Now",
+        "url": "https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255226,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/1y6HJqWv71bML3FEZNFOrS"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/6cVgXk7jw88GdV2nqJWLMx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/2QFChG0xE8alMHd1QS1vNo"
+    },
+    {
+      "album": {
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217453,
+      "name": "Rockin' All Over The World",
+      "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0LDQzaZoYOLpeMpsSa4m9t"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342920,
+      "name": "Roll Over Lay Down",
+      "url": "https://open.spotify.com/track/3RTTs0HDk9rX2jqQa1BM1m"
+    },
+    {
+      "album": {
+        "name": "30 Gold Bars",
+        "url": "https://open.spotify.com/album/5Fjz4vI7qNIpL6YKSu2e3X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240373,
+      "name": "Rollin' Home",
+      "url": "https://open.spotify.com/track/7KBPpf8E3iE1JWTkoPBuNe"
+    },
+    {
+      "album": {
+        "name": "Never Too Late",
+        "url": "https://open.spotify.com/album/0aV4q4WAcXoQJxKVvxojVy"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179440,
+      "name": "Something 'Bout You Baby I Like",
+      "url": "https://open.spotify.com/track/4Hf32Y3HsWs28djo42PQbR"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/6cVgXk7jw88GdV2nqJWLMx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/2Da1ZaQLX9lMEXpBiJiKHJ"
+    },
+    {
+      "album": {
+        "name": "Just Supposin'",
+        "url": "https://open.spotify.com/album/499LkyqISYrylHIGk2IkLx"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258986,
+      "name": "What You're Proposing",
+      "url": "https://open.spotify.com/track/3nhpHXLDOjNDPeE8sxYq2g"
+    },
+    {
+      "album": {
+        "name": "30 Gold Bars",
+        "url": "https://open.spotify.com/album/5Fjz4vI7qNIpL6YKSu2e3X"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2018-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Wild Side of Life",
+      "url": "https://open.spotify.com/track/1RgUDUiH4GwyfsYNv6ClSE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1zj9CzXszqD"
 }

@@ -1,346 +1,587 @@
 {
-  "2023-01-22": 59,
-  "2023-01-23": 63,
-  "2023-01-24": 66,
-  "2023-01-25": 68,
-  "2023-01-26": 74,
-  "2023-01-27": 78,
-  "2023-01-28": 84,
-  "2023-01-29": 87,
-  "2023-01-30": 90,
-  "2023-01-31": 90,
-  "2023-02-01": 98,
-  "2023-02-02": 103,
-  "2023-02-03": 105,
-  "2023-02-04": 108,
-  "2023-02-05": 110,
-  "2023-02-06": 112,
-  "2023-02-07": 113,
-  "2023-02-08": 116,
-  "2023-02-09": 116,
-  "2023-02-10": 120,
-  "2023-02-11": 125,
-  "2023-02-12": 130,
-  "2023-02-13": 133,
-  "2023-02-14": 133,
-  "2023-02-15": 135,
-  "2023-02-16": 137,
-  "2023-02-17": 137,
-  "2023-02-18": 139,
-  "2023-02-19": 139,
-  "2023-02-20": 141,
-  "2023-02-21": 144,
-  "2023-02-22": 146,
-  "2023-02-23": 149,
-  "2023-02-24": 154,
-  "2023-02-25": 160,
-  "2023-02-26": 163,
-  "2023-02-27": 167,
-  "2023-02-28": 167,
-  "2023-03-01": 169,
-  "2023-03-02": 170,
-  "2023-03-03": 175,
-  "2023-03-04": 177,
-  "2023-03-05": 187,
-  "2023-03-06": 187,
-  "2023-03-07": 189,
-  "2023-03-08": 191,
-  "2023-03-09": 195,
-  "2023-03-10": 197,
-  "2023-03-11": 198,
-  "2023-03-12": 200,
-  "2023-03-13": 201,
-  "2023-03-14": 204,
-  "2023-03-15": 203,
-  "2023-03-16": 207,
-  "2023-03-17": 207,
-  "2023-03-18": 211,
-  "2023-03-19": 212,
-  "2023-03-20": 216,
-  "2023-03-21": 217,
-  "2023-03-22": 220,
-  "2023-03-23": 220,
-  "2023-03-24": 220,
-  "2023-03-25": 230,
-  "2023-03-26": 231,
-  "2023-03-27": 234,
-  "2023-03-28": 237,
-  "2023-03-29": 239,
-  "2023-03-30": 241,
-  "2023-03-31": 241,
-  "2023-04-01": 243,
-  "2023-04-02": 244,
-  "2023-04-03": 246,
-  "2023-04-04": 247,
-  "2023-04-05": 248,
-  "2023-04-06": 249,
-  "2023-04-07": 251,
-  "2023-04-09": 254,
-  "2023-04-10": 256,
-  "2023-04-11": 260,
-  "2023-04-12": 260,
-  "2023-04-13": 260,
-  "2023-04-14": 260,
-  "2023-04-15": 260,
-  "2023-04-16": 260,
-  "2023-04-17": 261,
-  "2023-04-18": 261,
-  "2023-04-19": 262,
-  "2023-04-20": 264,
-  "2023-04-21": 264,
-  "2023-04-22": 267,
-  "2023-04-23": 268,
-  "2023-04-24": 269,
-  "2023-04-25": 272,
-  "2023-04-26": 273,
-  "2023-04-27": 273,
-  "2023-04-28": 272,
-  "2023-04-29": 274,
-  "2023-04-30": 273,
-  "2023-05-01": 274,
-  "2023-05-02": 275,
-  "2023-05-03": 276,
-  "2023-05-04": 276,
-  "2023-05-05": 277,
-  "2023-05-06": 278,
-  "2023-05-07": 281,
-  "2023-05-08": 284,
-  "2023-05-09": 285,
-  "2023-05-10": 285,
-  "2023-05-11": 288,
-  "2023-05-12": 289,
-  "2023-05-13": 292,
-  "2023-05-14": 295,
-  "2023-05-15": 298,
-  "2023-05-16": 298,
-  "2023-05-17": 300,
-  "2023-05-18": 302,
-  "2023-05-19": 303,
-  "2023-05-20": 307,
-  "2023-05-21": 307,
-  "2023-05-22": 307,
-  "2023-05-23": 314,
-  "2023-05-24": 317,
-  "2023-05-25": 319,
-  "2023-05-26": 321,
-  "2023-05-27": 322,
-  "2023-05-28": 323,
-  "2023-05-29": 323,
-  "2023-05-30": 324,
-  "2023-05-31": 325,
-  "2023-06-01": 327,
-  "2023-06-02": 327,
-  "2023-06-03": 329,
-  "2023-06-04": 330,
-  "2023-06-05": 330,
-  "2023-06-06": 332,
-  "2023-06-07": 331,
-  "2023-06-08": 331,
-  "2023-06-09": 333,
-  "2023-06-10": 332,
-  "2023-06-11": 334,
-  "2023-06-12": 335,
-  "2023-06-13": 336,
-  "2023-06-14": 335,
-  "2023-06-15": 338,
-  "2023-06-16": 340,
-  "2023-06-17": 340,
-  "2023-06-18": 339,
-  "2023-06-19": 340,
-  "2023-06-20": 342,
-  "2023-06-21": 343,
-  "2023-06-22": 343,
-  "2023-06-23": 344,
-  "2023-06-24": 344,
-  "2023-06-25": 344,
-  "2023-06-26": 344,
-  "2023-06-27": 344,
-  "2023-06-28": 344,
-  "2023-06-29": 345,
-  "2023-06-30": 346,
-  "2023-07-01": 346,
-  "2023-07-02": 346,
-  "2023-07-03": 348,
-  "2023-07-04": 348,
-  "2023-07-05": 349,
-  "2023-07-06": 352,
-  "2023-07-07": 352,
-  "2023-07-08": 352,
-  "2023-07-09": 353,
-  "2023-07-10": 353,
-  "2023-07-11": 355,
-  "2023-07-12": 355,
-  "2023-07-13": 356,
-  "2023-07-14": 357,
-  "2023-07-15": 357,
-  "2023-07-16": 358,
-  "2023-07-17": 361,
-  "2023-07-18": 364,
-  "2023-07-19": 364,
-  "2023-07-20": 364,
-  "2023-07-21": 367,
-  "2023-07-22": 369,
-  "2023-07-23": 370,
-  "2023-07-24": 371,
-  "2023-07-25": 372,
-  "2023-07-26": 372,
-  "2023-07-27": 375,
-  "2023-07-28": 375,
-  "2023-07-29": 376,
-  "2023-07-30": 377,
-  "2023-07-31": 377,
-  "2023-08-01": 378,
-  "2023-08-02": 379,
-  "2023-08-03": 382,
-  "2023-08-04": 384,
-  "2023-08-05": 386,
-  "2023-08-06": 390,
-  "2023-08-07": 390,
-  "2023-08-08": 390,
-  "2023-08-09": 391,
-  "2023-08-10": 393,
-  "2023-08-11": 394,
-  "2023-08-12": 394,
-  "2023-08-13": 397,
-  "2023-08-14": 399,
-  "2023-08-15": 403,
-  "2023-08-16": 403,
-  "2023-08-17": 405,
-  "2023-08-18": 406,
-  "2023-08-19": 409,
-  "2023-08-20": 413,
-  "2023-08-21": 413,
-  "2023-08-22": 413,
-  "2023-08-23": 414,
-  "2023-08-24": 414,
-  "2023-08-25": 416,
-  "2023-08-26": 416,
-  "2023-08-27": 416,
-  "2023-08-28": 417,
-  "2023-08-29": 418,
-  "2023-08-30": 419,
-  "2023-08-31": 420,
-  "2023-09-01": 439,
-  "2023-09-02": 439,
-  "2023-09-03": 448,
-  "2023-09-04": 458,
-  "2023-09-05": 468,
-  "2023-09-06": 480,
-  "2023-09-07": 490,
-  "2023-09-08": 501,
-  "2023-09-09": 515,
-  "2023-09-10": 529,
-  "2023-09-11": 543,
-  "2023-09-12": 551,
-  "2023-09-13": 564,
-  "2023-09-14": 575,
-  "2023-09-15": 583,
-  "2023-09-16": 591,
-  "2023-09-17": 600,
-  "2023-09-18": 615,
-  "2023-09-19": 641,
-  "2023-09-20": 648,
-  "2023-09-21": 661,
-  "2023-09-22": 673,
-  "2023-09-23": 685,
-  "2023-09-24": 696,
-  "2023-09-25": 709,
-  "2023-09-26": 719,
-  "2023-09-27": 727,
-  "2023-09-28": 746,
-  "2023-09-29": 759,
-  "2023-09-30": 762,
-  "2023-10-01": 773,
-  "2023-10-02": 784,
-  "2023-10-03": 795,
-  "2023-10-04": 810,
-  "2023-10-05": 814,
-  "2023-10-06": 827,
-  "2023-10-07": 836,
-  "2023-10-08": 844,
-  "2023-10-09": 852,
-  "2023-10-10": 861,
-  "2023-10-11": 873,
-  "2023-10-12": 873,
-  "2023-10-13": 884,
-  "2023-10-14": 892,
-  "2023-10-15": 899,
-  "2023-10-16": 905,
-  "2023-10-17": 911,
-  "2023-10-18": 920,
-  "2023-10-19": 922,
-  "2023-10-20": 938,
-  "2023-10-21": 943,
-  "2023-10-22": 951,
-  "2023-10-23": 956,
-  "2023-10-24": 964,
-  "2023-10-25": 971,
-  "2023-10-26": 978,
-  "2023-10-27": 982,
-  "2023-10-28": 990,
-  "2023-10-29": 996,
-  "2023-10-30": 1011,
-  "2023-10-31": 1011,
-  "2023-11-01": 1012,
-  "2023-11-02": 1018,
-  "2023-11-03": 1026,
-  "2023-11-04": 1035,
-  "2023-11-05": 1047,
-  "2023-11-06": 1059,
-  "2023-11-07": 1059,
-  "2023-11-08": 1059,
-  "2023-11-09": 1059,
-  "2023-11-10": 1059,
-  "2023-11-11": 1059,
-  "2023-11-12": 1059,
-  "2023-11-13": 1059,
-  "2023-11-14": 1059,
-  "2023-11-15": 1059,
-  "2023-11-16": 1059,
-  "2023-11-17": 1059,
-  "2023-11-18": 1059,
-  "2023-11-19": 1059,
-  "2023-11-20": 1059,
-  "2023-11-21": 1059,
-  "2023-11-22": 1059,
-  "2023-11-23": 1059,
-  "2023-11-24": 1059,
-  "2023-11-25": 1059,
-  "2023-11-26": 1059,
-  "2023-11-27": 1059,
-  "2023-11-28": 1059,
-  "2023-11-29": 1059,
-  "2023-11-30": 1059,
-  "2023-12-01": 1059,
-  "2023-12-02": 1059,
-  "2023-12-03": 1059,
-  "2023-12-04": 1059,
-  "2023-12-05": 1059,
-  "2023-12-06": 1059,
-  "2023-12-07": 1059,
-  "2023-12-08": 1059,
-  "2023-12-09": 1059,
-  "2023-12-10": 1059,
-  "2023-12-11": 1059,
-  "2023-12-12": 1059,
-  "2023-12-13": 1059,
-  "2023-12-14": 1059,
-  "2023-12-15": 1059,
-  "2023-12-16": 1059,
-  "2023-12-17": 1059,
-  "2023-12-18": 1059,
-  "2023-12-19": 1059,
-  "2023-12-20": 1059,
-  "2023-12-21": 1059,
-  "2023-12-22": 1059,
-  "2023-12-23": 1059,
-  "2023-12-24": 1059,
-  "2023-12-25": 1059,
-  "2023-12-26": 1059,
-  "2023-12-27": 1059,
-  "2023-12-30": 1059,
-  "2023-12-31": 1059,
-  "2024-01-01": 1059,
-  "2024-01-02": 1059,
-  "2024-01-03": 1059
+  "2024-01-17": 1059,
+  "date_first_scraped": "2023-01-22",
+  "description": "A staple House Music community, <a href=\"spotify:user:1vtbard7xaw118xznfggl7o4q\">Gray Area</a>, invites us to dance for the next 90 minutes with bonafide Chicago legend <a href=\"spotify:artist:49qOEODA3n8HiVUY4uwJbU\">Gene Farris</a> while he showcases the best of his label 'Farris Wheel Recording'.",
+  "name": "Gray Area: Gene Farris' DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Woman Is A God (Mixed)",
+        "url": "https://open.spotify.com/album/0dK9EyWvZiqGyPQKpTgnYY"
+      },
+      "artists": [
+        {
+          "name": "Jerome Robins",
+          "url": "https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW"
+        },
+        {
+          "name": "Zenbi",
+          "url": "https://open.spotify.com/artist/0oB8yRWYwFBIEgMG3OY6dH"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "A Woman Is A God - Mixed",
+      "url": "https://open.spotify.com/track/1KD84TUzQWOv6RSySeO0f1"
+    },
+    {
+      "album": {
+        "name": "Addiction (Mixed)",
+        "url": "https://open.spotify.com/album/3kV2Cjndl4SAiHMDVCGdu7"
+      },
+      "artists": [
+        {
+          "name": "Phat Suppli",
+          "url": "https://open.spotify.com/artist/0xOY2TiGUwvZN5HUqyeDaP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Addiction - Mixed",
+      "url": "https://open.spotify.com/track/6ecB0evPdat0bHu12N7W39"
+    },
+    {
+      "album": {
+        "name": "Before Me (Mixed)",
+        "url": "https://open.spotify.com/album/3m7jpObKzYU6GCeRuG2IRK"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Dupree",
+          "url": "https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Before Me - Mixed",
+      "url": "https://open.spotify.com/track/10k9AC1lp3Scw7L559fbfy"
+    },
+    {
+      "album": {
+        "name": "Better On My Own (Mixed)",
+        "url": "https://open.spotify.com/album/2vVxZjy5Xw8M0RuHEH9zq4"
+      },
+      "artists": [
+        {
+          "name": "Sivz",
+          "url": "https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Better On My Own - Mixed",
+      "url": "https://open.spotify.com/track/1UHIyYmlOysYUeKs5J5kwB"
+    },
+    {
+      "album": {
+        "name": "Body Shake - VIP Mix (Mixed)",
+        "url": "https://open.spotify.com/album/7ob1LPD2ptemOFdivNdrqw"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Body Shake - VIP Mix - Mixed",
+      "url": "https://open.spotify.com/track/7JWNn4iTHgFne19kiw7mXj"
+    },
+    {
+      "album": {
+        "name": "Do What I Want (Mixed)",
+        "url": "https://open.spotify.com/album/5e8NHF1RLvHXFn1LmYVZ4A"
+      },
+      "artists": [
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Do What I Want - Mixed",
+      "url": "https://open.spotify.com/track/6RCvtcdqdFfUM2whEEb3FX"
+    },
+    {
+      "album": {
+        "name": "DWTG (Mixed)",
+        "url": "https://open.spotify.com/album/2wifvJ4wswDp5UMG6QobBq"
+      },
+      "artists": [
+        {
+          "name": "Tombz",
+          "url": "https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC"
+        },
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "DWTG - Mixed",
+      "url": "https://open.spotify.com/track/6PDxoE9M5QQkN093rsvo1j"
+    },
+    {
+      "album": {
+        "name": "Guest List (Mixed)",
+        "url": "https://open.spotify.com/album/0BORAtcDq3PcFN2mu0nqxJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Space",
+          "url": "https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Guest List - Mixed",
+      "url": "https://open.spotify.com/track/5DBtKgrr4H0mCeQqGXcGRu"
+    },
+    {
+      "album": {
+        "name": "Hey Hey Hey (Mixed)",
+        "url": "https://open.spotify.com/album/0wWbOSBmEVfbQUUCA5XJEp"
+      },
+      "artists": [
+        {
+          "name": "Wolfire",
+          "url": "https://open.spotify.com/artist/6iex0B0tJH5KxvIM90tK8O"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Hey Hey Hey - Mixed",
+      "url": "https://open.spotify.com/track/3aJcevBZqSWqXgdSCl4rOz"
+    },
+    {
+      "album": {
+        "name": "Inside My Head (Mixed)",
+        "url": "https://open.spotify.com/album/4xiwFcd8UTccrIaE256LRi"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Inside My Head - Mixed",
+      "url": "https://open.spotify.com/track/1BrSzmzZyiOMhpufKzqcw0"
+    },
+    {
+      "album": {
+        "name": "Is It A Dream (Mixed)",
+        "url": "https://open.spotify.com/album/2cuDo7xMxUAwIbHTW7kdr0"
+      },
+      "artists": [
+        {
+          "name": "Casmalia",
+          "url": "https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Is It A Dream - Mixed",
+      "url": "https://open.spotify.com/track/1cOWi1JutjpiWn5qYsHfaB"
+    },
+    {
+      "album": {
+        "name": "L.G.M. (Mixed)",
+        "url": "https://open.spotify.com/album/73tDMmYB10vXNyOsoazLUA"
+      },
+      "artists": [
+        {
+          "name": "DCAL",
+          "url": "https://open.spotify.com/artist/60zgl1wyU559qFU0xBIhph"
+        },
+        {
+          "name": "Xeno",
+          "url": "https://open.spotify.com/artist/3OhZavggs9snCi9oy1hALR"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "L.G.M. - Mixed",
+      "url": "https://open.spotify.com/track/0TIoN8hrMx79W8owW8fQUB"
+    },
+    {
+      "album": {
+        "name": "Losin' My Mind (Mixed)",
+        "url": "https://open.spotify.com/album/3kbaF66dDnHOxUvi6Km9rz"
+      },
+      "artists": [
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Losin' My Mind - Mixed",
+      "url": "https://open.spotify.com/track/6KuXok8jPORVyR5f3vAJsf"
+    },
+    {
+      "album": {
+        "name": "Make A Flip (Mixed)",
+        "url": "https://open.spotify.com/album/1KdZZtqMqzu6p3qxMCVUUp"
+      },
+      "artists": [
+        {
+          "name": "Xojordan",
+          "url": "https://open.spotify.com/artist/55kvel3FxTuow72oabAwRz"
+        },
+        {
+          "name": "Wolfire",
+          "url": "https://open.spotify.com/artist/6iex0B0tJH5KxvIM90tK8O"
+        },
+        {
+          "name": "Teklow",
+          "url": "https://open.spotify.com/artist/1EosnwOj5ddu5EyjpAUS9T"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Make A Flip - Mixed",
+      "url": "https://open.spotify.com/track/45XuDbP89sIeDE8LEnAlnq"
+    },
+    {
+      "album": {
+        "name": "Mellow Mellow (Mixed)",
+        "url": "https://open.spotify.com/album/09N78iKytE3XTadUKhh8VO"
+      },
+      "artists": [
+        {
+          "name": "GrooveYard",
+          "url": "https://open.spotify.com/artist/2itNATItXtIi6sV8V4P2pT"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Mellow Mellow - Mixed",
+      "url": "https://open.spotify.com/track/6hA35Ij3JA0XRmv2o5MSeL"
+    },
+    {
+      "album": {
+        "name": "Messed (Mixed)",
+        "url": "https://open.spotify.com/album/1rtnvbGQ2zc3jeC9QRV94G"
+      },
+      "artists": [
+        {
+          "name": "AMPRS&ND",
+          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Messed - Mixed",
+      "url": "https://open.spotify.com/track/1XmAVmCKpyLevx6bGBOb5P"
+    },
+    {
+      "album": {
+        "name": "People Say (Mixed)",
+        "url": "https://open.spotify.com/album/4w2pK7BRZ2BbCeLXl50odc"
+      },
+      "artists": [
+        {
+          "name": "Stefano Kosa",
+          "url": "https://open.spotify.com/artist/1U999vf6n00VqgRgR236Q3"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "People Say - Mixed",
+      "url": "https://open.spotify.com/track/7K5uhLVo0q01xingIaEa1q"
+    },
+    {
+      "album": {
+        "name": "Que Bola (Mixed)",
+        "url": "https://open.spotify.com/album/35dcgpzPAizQ0Cyxmh1I1h"
+      },
+      "artists": [
+        {
+          "name": "Pitter Patter",
+          "url": "https://open.spotify.com/artist/2IUCxzweUtObbRrzZfty1I"
+        },
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Que Bola - Mixed",
+      "url": "https://open.spotify.com/track/4uUMzNVUfQcRZ0LTj4XJZ2"
+    },
+    {
+      "album": {
+        "name": "Reason (Mixed)",
+        "url": "https://open.spotify.com/album/6MKjL8jw074ASRjHn1yjcv"
+      },
+      "artists": [
+        {
+          "name": "Tone Troy",
+          "url": "https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Reason - Mixed",
+      "url": "https://open.spotify.com/track/4VWYZJuoMdyF6KM3z4CFhn"
+    },
+    {
+      "album": {
+        "name": "Run Run Run (Mixed)",
+        "url": "https://open.spotify.com/album/51XevdhHu9qApRlXNParKN"
+      },
+      "artists": [
+        {
+          "name": "Plon",
+          "url": "https://open.spotify.com/artist/7bAmxZ20t5pjwZv17z68IO"
+        },
+        {
+          "name": "Joanna Magik",
+          "url": "https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Run Run Run - Mixed",
+      "url": "https://open.spotify.com/track/2pm6cMojTiLOnUOi0E9kZj"
+    },
+    {
+      "album": {
+        "name": "Seen It All (Mixed)",
+        "url": "https://open.spotify.com/album/0zSMr6KbwlEGCGrOltOgTg"
+      },
+      "artists": [
+        {
+          "name": "Eyes Everywhere",
+          "url": "https://open.spotify.com/artist/0BAgsxXcb52gCf9FbKqGVn"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Seen It All - Mixed",
+      "url": "https://open.spotify.com/track/7smXuLPHgZ79ytr8L8AQXZ"
+    },
+    {
+      "album": {
+        "name": "So Dope (Mixed)",
+        "url": "https://open.spotify.com/album/56flh7BwqTNvXtv9j8yyWm"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "So Dope - Mixed",
+      "url": "https://open.spotify.com/track/0roJMkNkZ6RXw1aUImGSam"
+    },
+    {
+      "album": {
+        "name": "Take The Lead (Mixed)",
+        "url": "https://open.spotify.com/album/0PvJeEKIJKxoa9NL6VleyO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bravo",
+          "url": "https://open.spotify.com/artist/5c5YvfauJzP169EcIQV0SD"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Take The Lead - Mixed",
+      "url": "https://open.spotify.com/track/41y4fc3LObeJ8yVK81ERkZ"
+    },
+    {
+      "album": {
+        "name": "Technocality (Mixed)",
+        "url": "https://open.spotify.com/album/1B0Bfi4Le4vNIeOW0ZYDdl"
+      },
+      "artists": [
+        {
+          "name": "MISS DRE",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Technocality - Mixed",
+      "url": "https://open.spotify.com/track/2tz9MZ3f5c9ExMIjnuKfjf"
+    },
+    {
+      "album": {
+        "name": "Vertigo (Mixed)",
+        "url": "https://open.spotify.com/album/0DkRHNeyEhQHWkf1TYaLf7"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Vertigo - Mixed",
+      "url": "https://open.spotify.com/track/7f0icm0LhmEkaXBxZXtId4"
+    },
+    {
+      "album": {
+        "name": "Vibration (Mixed)",
+        "url": "https://open.spotify.com/album/1Et3q8R52xDFNwrdF0dorm"
+      },
+      "artists": [
+        {
+          "name": "Jordano Roosevelt",
+          "url": "https://open.spotify.com/artist/0ogLGZX9wtUfbgotgKRfm8"
+        },
+        {
+          "name": "Maxinne",
+          "url": "https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Vibration - Mixed",
+      "url": "https://open.spotify.com/track/04VOkL2srbX1AvS6wOSJP4"
+    },
+    {
+      "album": {
+        "name": "We Werq It (Mixed)",
+        "url": "https://open.spotify.com/album/5f8DPk3d2ktD4FbsDliQQL"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "We Werq It - Mixed",
+      "url": "https://open.spotify.com/track/5ZarPRDuDvj4T3SUzHLugo"
+    },
+    {
+      "album": {
+        "name": "Whoop - Gene Farris Remix (Mixed)",
+        "url": "https://open.spotify.com/album/41TGohfir84YE5VcisMl0P"
+      },
+      "artists": [
+        {
+          "name": "IceCreams",
+          "url": "https://open.spotify.com/artist/2pblwyQrXAAqKrdUrTaugd"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Whoop - Gene Farris Remix - Mixed",
+      "url": "https://open.spotify.com/track/21K60w0xpn56mFRY46R5jM"
+    },
+    {
+      "album": {
+        "name": "Your Cash (Mixed)",
+        "url": "https://open.spotify.com/album/6Wl7WQwUgtZ6zCAWtyG4Fe"
+      },
+      "artists": [
+        {
+          "name": "Flashmob",
+          "url": "https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Your Cash - Mixed",
+      "url": "https://open.spotify.com/track/6AUaIzmQXqsetQT8T1F8cw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX72mH039I3kb"
 }

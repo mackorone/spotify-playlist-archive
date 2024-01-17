@@ -1,735 +1,3151 @@
 {
-  "2021-12-25": 19312,
-  "2021-12-26": 19336,
-  "2021-12-27": 19369,
-  "2021-12-28": 19369,
-  "2021-12-29": 19383,
-  "2021-12-30": 19397,
-  "2021-12-31": 19415,
-  "2022-01-01": 19441,
-  "2022-01-02": 19448,
-  "2022-01-03": 19463,
-  "2022-01-04": 19478,
-  "2022-01-05": 19487,
-  "2022-01-06": 19507,
-  "2022-01-07": 19525,
-  "2022-01-08": 19543,
-  "2022-01-09": 19543,
-  "2022-01-10": 19559,
-  "2022-01-11": 19578,
-  "2022-01-12": 19593,
-  "2022-01-13": 19616,
-  "2022-01-14": 19627,
-  "2022-01-15": 19644,
-  "2022-01-16": 19645,
-  "2022-01-17": 19679,
-  "2022-01-18": 19683,
-  "2022-01-19": 19695,
-  "2022-01-20": 19709,
-  "2022-01-21": 19728,
-  "2022-01-22": 19737,
-  "2022-01-23": 19747,
-  "2022-01-24": 19763,
-  "2022-01-25": 19770,
-  "2022-01-26": 19781,
-  "2022-01-27": 19805,
-  "2022-01-28": 19815,
-  "2022-01-29": 19832,
-  "2022-01-30": 19859,
-  "2022-01-31": 19881,
-  "2022-02-01": 19901,
-  "2022-02-02": 19929,
-  "2022-02-03": 19944,
-  "2022-02-04": 19955,
-  "2022-02-05": 19971,
-  "2022-02-06": 19988,
-  "2022-02-07": 20004,
-  "2022-02-08": 20026,
-  "2022-02-09": 20033,
-  "2022-02-10": 20046,
-  "2022-02-11": 20055,
-  "2022-02-12": 20059,
-  "2022-02-13": 20074,
-  "2022-02-14": 20085,
-  "2022-02-15": 20106,
-  "2022-02-16": 20108,
-  "2022-02-17": 20123,
-  "2022-02-18": 20137,
-  "2022-02-19": 20146,
-  "2022-02-20": 20165,
-  "2022-02-21": 20192,
-  "2022-02-22": 20199,
-  "2022-02-23": 20213,
-  "2022-02-24": 20231,
-  "2022-02-25": 20245,
-  "2022-02-26": 20267,
-  "2022-02-27": 20297,
-  "2022-02-28": 20297,
-  "2022-03-01": 20303,
-  "2022-03-02": 20316,
-  "2022-03-03": 20330,
-  "2022-03-04": 20353,
-  "2022-03-05": 20371,
-  "2022-03-06": 20387,
-  "2022-03-07": 20417,
-  "2022-03-08": 20436,
-  "2022-03-09": 20452,
-  "2022-03-10": 20471,
-  "2022-03-11": 20481,
-  "2022-03-12": 20492,
-  "2022-03-13": 20504,
-  "2022-03-14": 20518,
-  "2022-03-15": 20541,
-  "2022-03-16": 20560,
-  "2022-03-17": 20577,
-  "2022-03-18": 20593,
-  "2022-03-19": 20600,
-  "2022-03-20": 20600,
-  "2022-03-21": 20629,
-  "2022-03-22": 20641,
-  "2022-03-23": 20661,
-  "2022-03-24": 20671,
-  "2022-03-25": 20688,
-  "2022-03-26": 20692,
-  "2022-03-27": 20716,
-  "2022-03-28": 20732,
-  "2022-03-30": 20758,
-  "2022-03-31": 20767,
-  "2022-04-01": 20776,
-  "2022-04-02": 20796,
-  "2022-04-03": 20817,
-  "2022-04-04": 20834,
-  "2022-04-05": 20847,
-  "2022-04-06": 20867,
-  "2022-04-07": 20880,
-  "2022-04-08": 20893,
-  "2022-04-09": 20908,
-  "2022-04-10": 20945,
-  "2022-04-11": 20958,
-  "2022-04-12": 20959,
-  "2022-04-13": 20962,
-  "2022-04-14": 20968,
-  "2022-04-15": 20986,
-  "2022-04-16": 21005,
-  "2022-04-17": 21020,
-  "2022-04-18": 21040,
-  "2022-04-19": 21051,
-  "2022-04-20": 21063,
-  "2022-04-21": 21076,
-  "2022-04-22": 21091,
-  "2022-04-23": 21100,
-  "2022-04-24": 21121,
-  "2022-04-25": 21135,
-  "2022-04-26": 21142,
-  "2022-04-27": 21147,
-  "2022-04-28": 21158,
-  "2022-04-29": 21182,
-  "2022-04-30": 21200,
-  "2022-05-01": 21223,
-  "2022-05-02": 21223,
-  "2022-05-03": 21236,
-  "2022-05-04": 21243,
-  "2022-05-05": 21252,
-  "2022-05-06": 21270,
-  "2022-05-07": 21290,
-  "2022-05-08": 21315,
-  "2022-05-09": 21315,
-  "2022-05-10": 21335,
-  "2022-05-11": 21352,
-  "2022-05-12": 21375,
-  "2022-05-13": 21393,
-  "2022-05-14": 21399,
-  "2022-05-15": 21417,
-  "2022-05-16": 21433,
-  "2022-05-17": 21448,
-  "2022-05-18": 21457,
-  "2022-05-19": 21471,
-  "2022-05-20": 21478,
-  "2022-05-21": 21498,
-  "2022-05-22": 21498,
-  "2022-05-23": 21524,
-  "2022-05-24": 21543,
-  "2022-05-25": 21560,
-  "2022-05-26": 21576,
-  "2022-05-27": 21584,
-  "2022-05-28": 21600,
-  "2022-05-29": 21618,
-  "2022-05-30": 21627,
-  "2022-05-31": 21636,
-  "2022-06-01": 21659,
-  "2022-06-02": 21660,
-  "2022-06-03": 21677,
-  "2022-06-04": 21687,
-  "2022-06-05": 21704,
-  "2022-06-06": 21713,
-  "2022-06-07": 21720,
-  "2022-06-08": 21732,
-  "2022-06-09": 21741,
-  "2022-06-10": 21754,
-  "2022-06-11": 21763,
-  "2022-06-12": 21774,
-  "2022-06-13": 21780,
-  "2022-06-14": 21785,
-  "2022-06-15": 21801,
-  "2022-06-16": 21814,
-  "2022-06-17": 21826,
-  "2022-06-18": 21839,
-  "2022-06-19": 21866,
-  "2022-06-20": 21866,
-  "2022-06-21": 21873,
-  "2022-06-22": 21898,
-  "2022-06-23": 21898,
-  "2022-06-24": 21908,
-  "2022-06-25": 21922,
-  "2022-06-26": 21936,
-  "2022-06-27": 21939,
-  "2022-06-28": 21945,
-  "2022-06-29": 21958,
-  "2022-06-30": 21975,
-  "2022-07-01": 21989,
-  "2022-07-02": 22001,
-  "2022-07-03": 22016,
-  "2022-07-04": 22028,
-  "2022-07-05": 22036,
-  "2022-07-06": 22046,
-  "2022-07-07": 22051,
-  "2022-07-08": 25278,
-  "2022-07-09": 25296,
-  "2022-07-10": 25317,
-  "2022-07-11": 25323,
-  "2022-07-12": 25331,
-  "2022-07-13": 25348,
-  "2022-07-14": 25361,
-  "2022-07-15": 25370,
-  "2022-07-16": 25387,
-  "2022-07-17": 25398,
-  "2022-07-18": 25411,
-  "2022-07-19": 25420,
-  "2022-07-20": 25439,
-  "2022-07-21": 25449,
-  "2022-07-22": 25464,
-  "2022-07-23": 25476,
-  "2022-07-24": 25490,
-  "2022-07-25": 25509,
-  "2022-07-26": 25520,
-  "2022-07-27": 25538,
-  "2022-07-28": 25554,
-  "2022-07-29": 25567,
-  "2022-07-30": 25593,
-  "2022-07-31": 25593,
-  "2022-08-01": 25617,
-  "2022-08-02": 25645,
-  "2022-08-03": 25645,
-  "2022-08-04": 25662,
-  "2022-08-05": 25680,
-  "2022-08-06": 25690,
-  "2022-08-07": 25701,
-  "2022-08-08": 25723,
-  "2022-08-09": 25737,
-  "2022-08-10": 25745,
-  "2022-08-11": 25759,
-  "2022-08-12": 25780,
-  "2022-08-13": 25791,
-  "2022-08-14": 25817,
-  "2022-08-15": 25837,
-  "2022-08-16": 25851,
-  "2022-08-17": 25867,
-  "2022-08-18": 25885,
-  "2022-08-19": 25906,
-  "2022-08-20": 25928,
-  "2022-08-21": 25946,
-  "2022-08-22": 25970,
-  "2022-08-23": 25983,
-  "2022-08-24": 25983,
-  "2022-08-25": 25989,
-  "2022-08-26": 26001,
-  "2022-08-27": 26017,
-  "2022-08-28": 26049,
-  "2022-08-29": 26066,
-  "2022-08-30": 26046,
-  "2022-08-31": 26018,
-  "2022-09-01": 25986,
-  "2022-09-02": 26004,
-  "2022-09-03": 25956,
-  "2022-09-04": 25874,
-  "2022-09-05": 25849,
-  "2022-09-06": 25851,
-  "2022-09-07": 25862,
-  "2022-09-09": 25903,
-  "2022-09-10": 25914,
-  "2022-09-11": 25931,
-  "2022-09-12": 25955,
-  "2022-09-13": 25969,
-  "2022-09-15": 26006,
-  "2022-09-16": 26026,
-  "2022-09-17": 26050,
-  "2022-09-18": 26066,
-  "2022-09-19": 26088,
-  "2022-09-20": 26098,
-  "2022-09-21": 26115,
-  "2022-09-22": 26133,
-  "2022-09-23": 26158,
-  "2022-09-24": 26177,
-  "2022-09-25": 26194,
-  "2022-09-26": 26206,
-  "2022-09-27": 26220,
-  "2022-09-28": 26239,
-  "2022-09-29": 26254,
-  "2022-09-30": 26264,
-  "2022-10-01": 26286,
-  "2022-10-02": 26307,
-  "2022-10-03": 26328,
-  "2022-10-04": 26349,
-  "2022-10-05": 26359,
-  "2022-10-06": 26379,
-  "2022-10-07": 26397,
-  "2022-10-08": 26414,
-  "2022-10-09": 26455,
-  "2022-10-10": 26458,
-  "2022-10-11": 26485,
-  "2022-10-12": 26494,
-  "2022-10-13": 26507,
-  "2022-10-14": 26516,
-  "2022-10-15": 26539,
-  "2022-10-16": 26553,
-  "2022-10-17": 26573,
-  "2022-10-18": 26584,
-  "2022-10-19": 26603,
-  "2022-10-20": 26625,
-  "2022-10-21": 26640,
-  "2022-10-22": 26664,
-  "2022-10-23": 26681,
-  "2022-10-24": 26693,
-  "2022-10-25": 26705,
-  "2022-10-26": 26717,
-  "2022-10-27": 26731,
-  "2022-10-28": 26752,
-  "2022-10-29": 26766,
-  "2022-10-30": 26791,
-  "2022-10-31": 26812,
-  "2022-11-01": 26828,
-  "2022-11-02": 26848,
-  "2022-11-03": 26875,
-  "2022-11-04": 26888,
-  "2022-11-05": 26900,
-  "2022-11-06": 26929,
-  "2022-11-07": 26945,
-  "2022-11-08": 26958,
-  "2022-11-09": 26975,
-  "2022-11-10": 26990,
-  "2022-11-11": 27020,
-  "2022-11-12": 27046,
-  "2022-11-13": 27059,
-  "2022-11-14": 27066,
-  "2022-11-15": 27090,
-  "2022-11-16": 27103,
-  "2022-11-17": 27126,
-  "2022-11-18": 27132,
-  "2022-11-19": 27122,
-  "2022-11-20": 27153,
-  "2022-11-21": 27146,
-  "2022-11-22": 27207,
-  "2022-11-23": 27203,
-  "2022-11-24": 27273,
-  "2022-11-25": 27309,
-  "2022-11-26": 27327,
-  "2022-11-27": 27355,
-  "2022-11-28": 27382,
-  "2022-11-29": 27404,
-  "2022-11-30": 27421,
-  "2022-12-01": 27445,
-  "2022-12-02": 27465,
-  "2022-12-03": 27499,
-  "2022-12-04": 27536,
-  "2022-12-05": 27572,
-  "2022-12-06": 27588,
-  "2022-12-07": 27609,
-  "2022-12-08": 27634,
-  "2022-12-09": 27655,
-  "2022-12-10": 27683,
-  "2022-12-11": 27709,
-  "2022-12-12": 27735,
-  "2022-12-13": 27756,
-  "2022-12-14": 27778,
-  "2022-12-15": 27790,
-  "2022-12-16": 27814,
-  "2022-12-17": 27833,
-  "2022-12-18": 27854,
-  "2022-12-19": 27873,
-  "2022-12-20": 27908,
-  "2022-12-21": 27908,
-  "2022-12-22": 27925,
-  "2022-12-24": 27951,
-  "2022-12-25": 27967,
-  "2022-12-26": 27983,
-  "2022-12-27": 28006,
-  "2022-12-28": 28022,
-  "2022-12-29": 28049,
-  "2022-12-30": 28075,
-  "2022-12-31": 28089,
-  "2023-01-01": 28120,
-  "2023-01-02": 28140,
-  "2023-01-03": 28153,
-  "2023-01-04": 28189,
-  "2023-01-05": 28215,
-  "2023-01-06": 28248,
-  "2023-01-07": 28293,
-  "2023-01-08": 28298,
-  "2023-01-09": 28333,
-  "2023-01-10": 28352,
-  "2023-01-11": 28371,
-  "2023-01-12": 28398,
-  "2023-01-13": 28437,
-  "2023-01-14": 28502,
-  "2023-01-15": 28505,
-  "2023-01-16": 28535,
-  "2023-01-17": 28570,
-  "2023-01-18": 28598,
-  "2023-01-19": 28616,
-  "2023-01-20": 28625,
-  "2023-01-21": 28657,
-  "2023-01-22": 28690,
-  "2023-01-23": 28721,
-  "2023-01-24": 28749,
-  "2023-01-25": 28773,
-  "2023-01-26": 28792,
-  "2023-01-27": 28821,
-  "2023-01-28": 28840,
-  "2023-01-29": 28869,
-  "2023-01-30": 28895,
-  "2023-01-31": 28895,
-  "2023-02-01": 28933,
-  "2023-02-02": 28959,
-  "2023-02-03": 28979,
-  "2023-02-04": 28995,
-  "2023-02-05": 29022,
-  "2023-02-06": 29045,
-  "2023-02-07": 29065,
-  "2023-02-08": 29107,
-  "2023-02-09": 29107,
-  "2023-02-10": 29134,
-  "2023-02-11": 29156,
-  "2023-02-12": 29208,
-  "2023-02-13": 29236,
-  "2023-02-14": 29236,
-  "2023-02-15": 29257,
-  "2023-02-16": 29285,
-  "2023-02-17": 29305,
-  "2023-02-18": 29353,
-  "2023-02-19": 29358,
-  "2023-02-20": 29383,
-  "2023-02-21": 29404,
-  "2023-02-22": 29424,
-  "2023-02-23": 29443,
-  "2023-02-24": 29462,
-  "2023-02-25": 29493,
-  "2023-02-26": 29524,
-  "2023-02-27": 29585,
-  "2023-02-28": 29585,
-  "2023-03-01": 29606,
-  "2023-03-02": 29624,
-  "2023-03-03": 29649,
-  "2023-03-04": 29663,
-  "2023-03-05": 29726,
-  "2023-03-06": 29726,
-  "2023-03-07": 29746,
-  "2023-03-08": 29773,
-  "2023-03-09": 29798,
-  "2023-03-10": 29822,
-  "2023-03-11": 29840,
-  "2023-03-12": 29859,
-  "2023-03-13": 29883,
-  "2023-03-14": 29901,
-  "2023-03-15": 29931,
-  "2023-03-16": 29950,
-  "2023-03-17": 29950,
-  "2023-03-18": 29983,
-  "2023-03-19": 30005,
-  "2023-03-20": 30029,
-  "2023-03-21": 30050,
-  "2023-03-22": 30072,
-  "2023-03-23": 30095,
-  "2023-03-24": 30095,
-  "2023-03-25": 30148,
-  "2023-03-26": 30174,
-  "2023-03-27": 30206,
-  "2023-03-28": 30228,
-  "2023-03-29": 30247,
-  "2023-03-30": 30290,
-  "2023-03-31": 30290,
-  "2023-04-01": 30308,
-  "2023-04-02": 30328,
-  "2023-04-03": 30349,
-  "2023-04-04": 30364,
-  "2023-04-05": 30378,
-  "2023-04-06": 30406,
-  "2023-04-07": 30423,
-  "2023-04-09": 30462,
-  "2023-04-10": 30480,
-  "2023-04-11": 30521,
-  "2023-04-12": 30521,
-  "2023-04-13": 30539,
-  "2023-04-14": 30561,
-  "2023-04-15": 30579,
-  "2023-04-16": 30602,
-  "2023-04-17": 30614,
-  "2023-04-18": 30635,
-  "2023-04-19": 30662,
-  "2023-04-20": 30689,
-  "2023-04-21": 30709,
-  "2023-04-22": 30730,
-  "2023-04-23": 30749,
-  "2023-04-24": 30772,
-  "2023-04-25": 30803,
-  "2023-04-26": 30834,
-  "2023-04-27": 30852,
-  "2023-04-28": 30862,
-  "2023-04-29": 30884,
-  "2023-04-30": 30911,
-  "2023-05-01": 30928,
-  "2023-05-02": 30943,
-  "2023-05-03": 30964,
-  "2023-05-04": 30979,
-  "2023-05-05": 30992,
-  "2023-05-06": 31018,
-  "2023-05-07": 31042,
-  "2023-05-08": 31080,
-  "2023-05-09": 31095,
-  "2023-05-10": 31118,
-  "2023-05-11": 31138,
-  "2023-05-12": 31160,
-  "2023-05-13": 31182,
-  "2023-05-14": 31211,
-  "2023-05-15": 31233,
-  "2023-05-16": 31243,
-  "2023-05-17": 31258,
-  "2023-05-18": 31279,
-  "2023-05-19": 31303,
-  "2023-05-20": 31340,
-  "2023-05-21": 31340,
-  "2023-05-22": 31340,
-  "2023-05-23": 31387,
-  "2023-05-24": 31420,
-  "2023-05-25": 31423,
-  "2023-05-26": 31433,
-  "2023-05-27": 31452,
-  "2023-05-28": 31475,
-  "2023-05-29": 31475,
-  "2023-05-30": 31518,
-  "2023-05-31": 31540,
-  "2023-06-01": 31552,
-  "2023-06-02": 31560,
-  "2023-06-03": 31566,
-  "2023-06-04": 31597,
-  "2023-06-05": 31621,
-  "2023-06-06": 31645,
-  "2023-06-07": 31668,
-  "2023-06-08": 31691,
-  "2023-06-09": 31715,
-  "2023-06-10": 31738,
-  "2023-06-11": 31758,
-  "2023-06-12": 31782,
-  "2023-06-13": 31799,
-  "2023-06-14": 31815,
-  "2023-06-15": 31835,
-  "2023-06-16": 31848,
-  "2023-06-17": 31863,
-  "2023-06-18": 31875,
-  "2023-06-19": 31890,
-  "2023-06-20": 31905,
-  "2023-06-21": 31924,
-  "2023-06-22": 31939,
-  "2023-06-23": 31947,
-  "2023-06-24": 31956,
-  "2023-06-25": 31964,
-  "2023-06-26": 31972,
-  "2023-06-27": 31984,
-  "2023-06-28": 31992,
-  "2023-06-29": 31999,
-  "2023-06-30": 32019,
-  "2023-07-01": 32054,
-  "2023-07-02": 32054,
-  "2023-07-03": 32062,
-  "2023-07-04": 32071,
-  "2023-07-05": 32075,
-  "2023-07-06": 32090,
-  "2023-07-07": 32090,
-  "2023-07-08": 32106,
-  "2023-07-09": 32113,
-  "2023-07-10": 32121,
-  "2023-07-11": 32131,
-  "2023-07-12": 32143,
-  "2023-07-13": 32147,
-  "2023-07-14": 32160,
-  "2023-07-15": 32176,
-  "2023-07-16": 32191,
-  "2023-07-17": 32195,
-  "2023-07-18": 32207,
-  "2023-07-19": 32217,
-  "2023-07-20": 32223,
-  "2023-07-21": 32235,
-  "2023-07-22": 32256,
-  "2023-07-23": 32271,
-  "2023-07-24": 32283,
-  "2023-07-25": 32291,
-  "2023-07-26": 32302,
-  "2023-07-27": 32314,
-  "2023-07-28": 32326,
-  "2023-07-29": 32335,
-  "2023-07-30": 32349,
-  "2023-07-31": 32356,
-  "2023-08-01": 32367,
-  "2023-08-02": 32380,
-  "2023-08-03": 32391,
-  "2023-08-04": 32403,
-  "2023-08-05": 32414,
-  "2023-08-06": 32435,
-  "2023-08-07": 32435,
-  "2023-08-08": 32448,
-  "2023-08-09": 32464,
-  "2023-08-10": 32470,
-  "2023-08-11": 32485,
-  "2023-08-12": 32501,
-  "2023-08-13": 32513,
-  "2023-08-14": 32530,
-  "2023-08-15": 32554,
-  "2023-08-16": 32554,
-  "2023-08-17": 32568,
-  "2023-08-18": 32591,
-  "2023-08-19": 32613,
-  "2023-08-20": 32628,
-  "2023-08-21": 32639,
-  "2023-08-22": 32652,
-  "2023-08-23": 32662,
-  "2023-08-24": 32679,
-  "2023-08-25": 32694,
-  "2023-08-26": 32713,
-  "2023-08-27": 32735,
-  "2023-08-28": 32750,
-  "2023-08-29": 32761,
-  "2023-08-30": 32775,
-  "2023-08-31": 32781,
-  "2023-09-01": 32803,
-  "2023-09-02": 32803,
-  "2023-09-03": 32808,
-  "2023-09-04": 32822,
-  "2023-09-05": 32840,
-  "2023-09-06": 32850,
-  "2023-09-07": 32855,
-  "2023-09-08": 32870,
-  "2023-09-09": 32882,
-  "2023-09-10": 32891,
-  "2023-09-11": 32910,
-  "2023-09-12": 32933,
-  "2023-09-13": 32948,
-  "2023-09-14": 32959,
-  "2023-09-15": 32971,
-  "2023-09-16": 32973,
-  "2023-09-17": 32985,
-  "2023-09-18": 33001,
-  "2023-09-19": 33015,
-  "2023-09-20": 33026,
-  "2023-09-21": 33039,
-  "2023-09-22": 33048,
-  "2023-09-23": 33055,
-  "2023-09-24": 33063,
-  "2023-09-25": 33078,
-  "2023-09-26": 33090,
-  "2023-09-27": 33096,
-  "2023-09-28": 33105,
-  "2023-09-29": 33117,
-  "2023-09-30": 33126,
-  "2023-10-01": 33139,
-  "2023-10-02": 33150,
-  "2023-10-03": 33162,
-  "2023-10-04": 33181,
-  "2023-10-05": 33193,
-  "2023-10-06": 33204,
-  "2023-10-07": 33218,
-  "2023-10-08": 33238,
-  "2023-10-09": 33249,
-  "2023-10-10": 33246,
-  "2023-10-11": 33270,
-  "2023-10-12": 33270,
-  "2023-10-13": 33284,
-  "2023-10-14": 33293,
-  "2023-10-15": 33306,
-  "2023-10-16": 33326,
-  "2023-10-17": 33336,
-  "2023-10-18": 33353,
-  "2023-10-19": 33361,
-  "2023-10-20": 33363,
-  "2023-10-21": 33376,
-  "2023-10-22": 33389,
-  "2023-10-23": 33409,
-  "2023-10-24": 33418,
-  "2023-10-25": 33433,
-  "2023-10-26": 33447,
-  "2023-10-27": 33458,
-  "2023-10-28": 33469,
-  "2023-10-29": 33482,
-  "2023-10-30": 33502,
-  "2023-10-31": 33502,
-  "2023-11-01": 33508,
-  "2023-11-02": 33519,
-  "2023-11-03": 33520,
-  "2023-11-04": 33530,
-  "2023-11-05": 33541,
-  "2023-11-06": 33553,
-  "2023-11-07": 33561,
-  "2023-11-08": 33572,
-  "2023-11-09": 33586,
-  "2023-11-10": 33596,
-  "2023-11-11": 33603,
-  "2023-11-12": 33619,
-  "2023-11-13": 33626,
-  "2023-11-14": 33638,
-  "2023-11-15": 33638,
-  "2023-11-16": 33661,
-  "2023-11-17": 33685,
-  "2023-11-18": 33685,
-  "2023-11-19": 33692,
-  "2023-11-20": 33702,
-  "2023-11-21": 33712,
-  "2023-11-22": 33721,
-  "2023-11-23": 33735,
-  "2023-11-24": 33746,
-  "2023-11-25": 33749,
-  "2023-11-26": 33764,
-  "2023-11-27": 33782,
-  "2023-11-28": 33782,
-  "2023-11-29": 33803,
-  "2023-11-30": 33803,
-  "2023-12-01": 33818,
-  "2023-12-02": 33827,
-  "2023-12-03": 33836,
-  "2023-12-04": 33848,
-  "2023-12-05": 33856,
-  "2023-12-06": 33876,
-  "2023-12-07": 33894,
-  "2023-12-08": 33904,
-  "2023-12-09": 33921,
-  "2023-12-10": 33928,
-  "2023-12-11": 33939,
-  "2023-12-12": 33951,
-  "2023-12-13": 33962,
-  "2023-12-14": 33978,
-  "2023-12-15": 33987,
-  "2023-12-16": 34008,
-  "2023-12-17": 34024,
-  "2023-12-18": 34036,
-  "2023-12-19": 34028,
-  "2023-12-20": 34041,
-  "2023-12-21": 34053,
-  "2023-12-22": 34063,
-  "2023-12-23": 34071,
-  "2023-12-24": 34084,
-  "2023-12-25": 34097,
-  "2023-12-26": 34111,
-  "2023-12-27": 34115,
-  "2023-12-30": 34144,
-  "2023-12-31": 34157,
-  "2024-01-01": 34170,
-  "2024-01-02": 34175,
-  "2024-01-03": 34187
+  "2024-01-17": 34314,
+  "date_first_scraped": "2021-12-21",
+  "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
+  "name": "This Is Rossini",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/4yqoIlUqL3UtCLluRi2BXl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227813,
+      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
+      "url": "https://open.spotify.com/track/0MpSYvhdG3z5tiyKK0qwJ9"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "2 Nouvelles compositions: No. 1, \u00c0 Grenade",
+      "url": "https://open.spotify.com/track/7iZLJBIdSEj4cCNkIkYDoY"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/3BPOFrEqoNhAHHSgnGoCNn"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 367306,
+      "name": "Armida, Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/441mds6ACUa6pLmEg6gqZw"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367306,
+      "name": "Armida, Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/5czLSRyPx1vfpxzvnJUqzU"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128933,
+      "name": "Canzonetta spagnuola",
+      "url": "https://open.spotify.com/track/4XSwn2DpUy5ZbzcCmrBSqN"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/4yqoIlUqL3UtCLluRi2BXl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128933,
+      "name": "Canzonetta spagnuola",
+      "url": "https://open.spotify.com/track/5qr0sWi6M8T3WVx4yty5jq"
+    },
+    {
+      "album": {
+        "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
+        "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Evelyne Razimowsky",
+          "url": "https://open.spotify.com/artist/2tUtMDZs0o4u6KrgxJmJNg"
+        },
+        {
+          "name": "Michel Piquemal",
+          "url": "https://open.spotify.com/artist/3NbsF5A8yWeNRdypH3AeKB"
+        },
+        {
+          "name": "Jean-Claude Pennetier",
+          "url": "https://open.spotify.com/artist/4TsvA4Q8I8fXcOWAwzb5cb"
+        },
+        {
+          "name": "Ensemble Vocal Michel Piquemal",
+          "url": "https://open.spotify.com/artist/2vdKvMmKhaVXxJH0PmEchL"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185560,
+      "name": "Duetto buffo di due gatti",
+      "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
+    },
+    {
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 975493,
+      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
+      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Ruggero Raimondi",
+          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
+        },
+        {
+          "name": "Michael Rippon",
+          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Joseph Galiano",
+          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Fedora Barbieri",
+          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141933,
+      "name": "Il Barbiere di Siviglia (1996 Digital Remaster): Se il mio nome saper voi bramate (Conte/Rosina/Figaro)",
+      "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366226,
+      "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
+      "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Stefania Malagu",
+          "url": "https://open.spotify.com/artist/1OplrfSEa8wHadR2KLfAQS"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Luigi Alva",
+          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
+        },
+        {
+          "name": "Hermann Prey",
+          "url": "https://open.spotify.com/artist/3gdchu3GRExh4tF8ypQc9Y"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137200,
+      "name": "Il barbiere di Siviglia, Act II: No. 19, Finale. Di s\u00ec felice innesto",
+      "url": "https://open.spotify.com/track/75uhrNhZp5HrnCdB1foDUW"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419000,
+      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/68KJcjZbLWI1YpCodH8Ixa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538213,
+      "name": "Il turco in Italia: Overture",
+      "url": "https://open.spotify.com/track/05YgnE4lEIz2rAnbXm41Ki"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 4",
+        "url": "https://open.spotify.com/album/3BPOFrEqoNhAHHSgnGoCNn"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 538213,
+      "name": "Il turco in Italia: Overture",
+      "url": "https://open.spotify.com/track/4pxFG0thLlhzTMg3Nv3Uo7"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il viaggio a Reims (Live)",
+        "url": "https://open.spotify.com/album/7lrsVzKjCnIIJN8mFmJ4vl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mirco Palazzi",
+          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Il viaggio a Reims: Dell'alma diva (Live)",
+      "url": "https://open.spotify.com/track/1rf7rQ3X1y0TTx5hpiQP0z"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il viaggio a Reims (Live)",
+        "url": "https://open.spotify.com/album/4hj3Fj6r3AssBcuDHD5MrG"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mirco Palazzi",
+          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199706,
+      "name": "Il viaggio a Reims: Dell'alma diva (Live)",
+      "url": "https://open.spotify.com/track/7E8mebIc4KvYfHco8py5Or"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il viaggio a Reims (Live)",
+        "url": "https://open.spotify.com/album/0RyJFGQC2NUpRSvw4k3yOX"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mirco Palazzi",
+          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 199706,
+      "name": "Il viaggio a Reims: Scene 12: Dell'alma diva (Sidney, Chorus)",
+      "url": "https://open.spotify.com/track/3ESfBgceeLaN3s38s5MPAt"
+    },
+    {
+      "album": {
+        "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Charles Neidich",
+          "url": "https://open.spotify.com/artist/3lDahJNf7d4adku8fQj7pj"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
+      "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
+    },
+    {
+      "album": {
+        "name": "Rossini: L'Italiana in Algeri",
+        "url": "https://open.spotify.com/album/7L3DrOTbq7bbHZA7e3nuBA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        },
+        {
+          "name": "Ruth Gonzalez",
+          "url": "https://open.spotify.com/artist/4oTZ5ImxY9FmMv57y8cEHf"
+        },
+        {
+          "name": "Elsa Giannoulidou",
+          "url": "https://open.spotify.com/artist/4WN3RdyN0e7pejJ5lFCBcq"
+        },
+        {
+          "name": "Giulio Mastrototaro",
+          "url": "https://open.spotify.com/artist/4gpa8T3KtuhkbBxo1W3xqe"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Bruno De Simone",
+          "url": "https://open.spotify.com/artist/5FZzHJOLlfXFOMDtmspS9f"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202320,
+      "name": "L'Italiana in Algeri (the Italian Girl in Algiers), Act I Scene 8: Aria. Gia d'insolito ardore nel petto [Mustafa]",
+      "url": "https://open.spotify.com/track/0dkjHe3PQhSDJSCg584bXK"
+    },
+    {
+      "album": {
+        "name": "Rossini: L'Italiana in Algeri",
+        "url": "https://open.spotify.com/album/7L3DrOTbq7bbHZA7e3nuBA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        },
+        {
+          "name": "Ruth Gonzalez",
+          "url": "https://open.spotify.com/artist/4oTZ5ImxY9FmMv57y8cEHf"
+        },
+        {
+          "name": "Elsa Giannoulidou",
+          "url": "https://open.spotify.com/artist/4WN3RdyN0e7pejJ5lFCBcq"
+        },
+        {
+          "name": "Giulio Mastrototaro",
+          "url": "https://open.spotify.com/artist/4gpa8T3KtuhkbBxo1W3xqe"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Bruno De Simone",
+          "url": "https://open.spotify.com/artist/5FZzHJOLlfXFOMDtmspS9f"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241946,
+      "name": "L'Italiana in Algeri (the Italian Girl in Algiers), Act II Scene 4: Aria. Ho un gran peso sulla testa [Taddeo, Chorus]",
+      "url": "https://open.spotify.com/track/5GXgYZvHyl3sQR4bwAxLeL"
+    },
+    {
+      "album": {
+        "name": "Rossini: L'Italiana in Algeri",
+        "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "Ruth Gonzalez",
+          "url": "https://open.spotify.com/artist/4oTZ5ImxY9FmMv57y8cEHf"
+        },
+        {
+          "name": "Elsa Giannoulidou",
+          "url": "https://open.spotify.com/artist/4WN3RdyN0e7pejJ5lFCBcq"
+        },
+        {
+          "name": "Giulio Mastrototaro",
+          "url": "https://open.spotify.com/artist/4gpa8T3KtuhkbBxo1W3xqe"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Bruno De Simone",
+          "url": "https://open.spotify.com/artist/5FZzHJOLlfXFOMDtmspS9f"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act I Scene 8: Aria: Gia d'insolito ardore nel petto (Mustafa)",
+      "url": "https://open.spotify.com/track/2UqOCEcwgA5pmLndvCr9qm"
+    },
+    {
+      "album": {
+        "name": "Rossini: L'Italiana in Algeri",
+        "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "Ruth Gonzalez",
+          "url": "https://open.spotify.com/artist/4oTZ5ImxY9FmMv57y8cEHf"
+        },
+        {
+          "name": "Elsa Giannoulidou",
+          "url": "https://open.spotify.com/artist/4WN3RdyN0e7pejJ5lFCBcq"
+        },
+        {
+          "name": "Giulio Mastrototaro",
+          "url": "https://open.spotify.com/artist/4gpa8T3KtuhkbBxo1W3xqe"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Bruno De Simone",
+          "url": "https://open.spotify.com/artist/5FZzHJOLlfXFOMDtmspS9f"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241946,
+      "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
+      "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 3",
+        "url": "https://open.spotify.com/album/0sa0pPIEWEC28NS0AxoN0q"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479013,
+      "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Sinfonia",
+      "url": "https://open.spotify.com/track/7iNjUSnYSnLtQrOsGkP0ab"
+    },
+    {
+      "album": {
+        "name": "Rossini: The Barber of Seville Overture",
+        "url": "https://open.spotify.com/album/0rjVkIWa2M8K0WmkeFFPA4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 479013,
+      "name": "L'italiana in Algeri: L'Italiana in Algeri (The Italian Girl in Algiers), Act I: Sinfonia",
+      "url": "https://open.spotify.com/track/2PSg6sxV1IhbEwM0rufYiy"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures, Vol. 3",
+        "url": "https://open.spotify.com/album/439HCREFd7BjH4YVMDqgOS"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Sinfonia",
+          "url": "https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL"
+        },
+        {
+          "name": "Christian Benda",
+          "url": "https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 479013,
+      "name": "L'italiana in Algeri: Overture",
+      "url": "https://open.spotify.com/track/0QDEImMp5MFqAZ2dH7ya5E"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Fernanda Costa",
+          "url": "https://open.spotify.com/artist/1ZNE6qy039cPc6dYNwWllt"
+        },
+        {
+          "name": "Gloria Banditelli",
+          "url": "https://open.spotify.com/artist/6I2wNCFS6kRIteg0mZvj28"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98906,
+      "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
+      "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
+    },
+    {
+      "album": {
+        "name": "The Spectacular Voice of Marilyn Horne",
+        "url": "https://open.spotify.com/album/44vDKyQpP96DJw1cWVzaS1"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Marilyn Horne",
+          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Henry Lewis",
+          "url": "https://open.spotify.com/artist/30jajRhHMqSWi3BWgtSttr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452000,
+      "name": "La Cenerentola / Act 2: \"Nacqui all'affanno e al pianto...Non pi\u00f9 mesta\"",
+      "url": "https://open.spotify.com/track/10pr0TJcYy0vW9p18BlpHd"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305493,
+      "name": "La Cenerentola / Act 2: \"Sia qualunque delle figlie\"",
+      "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "album": {
+        "name": "Rossini - Great Recordings",
+        "url": "https://open.spotify.com/album/20RaYU70WWQsvZMicN33F1"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 306413,
+      "name": "La Cenerentola / Act 2: \"Sia qualunque delle figlie\"",
+      "url": "https://open.spotify.com/track/37TxZH2hpHGgL2GerFRXgh"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola: \"S\u00ec, ritrovarla io giuro\"",
+        "url": "https://open.spotify.com/album/0Fu4PprYuEWD0ozDUxiaAk"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Javier Camarena",
+          "url": "https://open.spotify.com/artist/13rDolPZ1xlUWBQWxl8cED"
+        },
+        {
+          "name": "Les Musiciens du Prince-Monaco",
+          "url": "https://open.spotify.com/artist/6vrSw7bfBpO2M9Ws9EBYAk"
+        },
+        {
+          "name": "Gianluca Capuano",
+          "url": "https://open.spotify.com/artist/6UkKvedfOGG4IlpiWSAbU1"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356106,
+      "name": "La Cenerentola / Act 2: \"S\u00ec, ritrovarla io giuro\"",
+      "url": "https://open.spotify.com/track/6pYyblvk9Q2O4PoUKN4mna"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137733,
+      "name": "La Cenerentola / Act 2: Temporale",
+      "url": "https://open.spotify.com/track/2cDk0buBUvgDy0N87SNaNC"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Luigi Alva",
+          "url": "https://open.spotify.com/artist/3VvEDwzCTkx6W7yeTR3rua"
+        },
+        {
+          "name": "Ugo Trama",
+          "url": "https://open.spotify.com/artist/17f4FPa0a2tg1zbCyA0iQE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670826,
+      "name": "La Cenerentola, Act I: Quintet. Signore, una parola - Qui nel mio codice - Nel volto",
+      "url": "https://open.spotify.com/track/3yJXZF4JDrUBpiQ8EWr2wP"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/6o703AiUF0JywZUalx4yha"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Paolo Montarsolo",
+          "url": "https://open.spotify.com/artist/7xgzt9ql9Uq2HOudEYgCX9"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305493,
+      "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
+      "url": "https://open.spotify.com/track/714b6Kmu52Xdrdyyv1PD8W"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460426,
+      "name": "La Cenerentola: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/0djTlU6JmOdV0BgKyfD3ac"
+    },
+    {
+      "album": {
+        "name": "Rossini: La gazza ladra (Live)",
+        "url": "https://open.spotify.com/album/6F8VVn3yBvNitwMQ2FnpDU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Moreno",
+          "url": "https://open.spotify.com/artist/1L1SsJuYKpdZu3ujHXqULD"
+        },
+        {
+          "name": "Mariana Rewerski",
+          "url": "https://open.spotify.com/artist/0Y1vf5K72MLqUlmRw48Z67"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255973,
+      "name": "La gazza ladra, Act II: A mio nome, deh, consegna (Live)",
+      "url": "https://open.spotify.com/track/1OLpGftNsmFYQaTjsaIIro"
+    },
+    {
+      "album": {
+        "name": "Rossini: La gazza ladra (Live)",
+        "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Moreno",
+          "url": "https://open.spotify.com/artist/1L1SsJuYKpdZu3ujHXqULD"
+        },
+        {
+          "name": "Mariana Rewerski",
+          "url": "https://open.spotify.com/artist/0Y1vf5K72MLqUlmRw48Z67"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255973,
+      "name": "La gazza ladra, Act II: Act II Scene 6: A mio nome, deh, consegna (Ninetta, Pippo)",
+      "url": "https://open.spotify.com/track/5domJuSyJr3DLR8g46RBvy"
+    },
+    {
+      "album": {
+        "name": "Rossini: La gazza ladra (Live)",
+        "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561640,
+      "name": "La gazza ladra: Sinfonia",
+      "url": "https://open.spotify.com/track/35Zwf6TpJ6k5u7isLsvvNk"
+    },
+    {
+      "album": {
+        "name": "Rossini: La gazza ladra (Live)",
+        "url": "https://open.spotify.com/album/6F8VVn3yBvNitwMQ2FnpDU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Alberto Zedda",
+          "url": "https://open.spotify.com/artist/0HLu7PWY34eKZYZ7DUdT30"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 561640,
+      "name": "La gazza ladra: Sinfonia (Live)",
+      "url": "https://open.spotify.com/track/2rLAzXm4eSzhET7mx4qoRL"
+    },
+    {
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
+      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
+    },
+    {
+      "album": {
+        "name": "Tales Of Opera",
+        "url": "https://open.spotify.com/album/2jBR98QwzqFPFFSQ0T2G2j"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Simon Keenlyside",
+          "url": "https://open.spotify.com/artist/5wNBW2yqGhv7lR3AvzD3JG"
+        },
+        {
+          "name": "Ulf Schirmer",
+          "url": "https://open.spotify.com/artist/44I8beF9aAODtLP7mH7ImA"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295973,
+      "name": "Largo al factotum",
+      "url": "https://open.spotify.com/track/5W7IiH2jDV6q6EQwBkq8ld"
+    },
+    {
+      "album": {
+        "name": "Rossini: Mos\u00e8 in Egitto",
+        "url": "https://open.spotify.com/album/2lKMWAaD3wNsnjpGu1Hnpe"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Claudio Scimone",
+          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
+        },
+        {
+          "name": "Siegmund Nimsgern",
+          "url": "https://open.spotify.com/artist/1OlV6acs5ZqPtQAaLcmr8g"
+        },
+        {
+          "name": "Ernesto Palacio",
+          "url": "https://open.spotify.com/artist/2OGqTvYzZQHwYeJ4fsCn3B"
+        },
+        {
+          "name": "Zehava Gal",
+          "url": "https://open.spotify.com/artist/5bsqJik2rkobBsjS8bA7nw"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 413493,
+      "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
+      "url": "https://open.spotify.com/track/1VR0lZ6Jbf0PyKSE6CUXwE"
+    },
+    {
+      "album": {
+        "name": "Rossini: A Monument of Classics",
+        "url": "https://open.spotify.com/album/1rBErfk1Gl5IzcRJT8Beuh"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Claudio Scimone",
+          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
+        },
+        {
+          "name": "Siegmund Nimsgern",
+          "url": "https://open.spotify.com/artist/1OlV6acs5ZqPtQAaLcmr8g"
+        },
+        {
+          "name": "Ernesto Palacio",
+          "url": "https://open.spotify.com/artist/2OGqTvYzZQHwYeJ4fsCn3B"
+        },
+        {
+          "name": "Zehava Gal",
+          "url": "https://open.spotify.com/artist/5bsqJik2rkobBsjS8bA7nw"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 413493,
+      "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
+      "url": "https://open.spotify.com/track/3s9PtRtL6L3A6r5bvHZ6Kr"
+    },
+    {
+      "album": {
+        "name": "Rossini: Mos\u00e9 in Egitto",
+        "url": "https://open.spotify.com/album/6kfBjgw3Lymoi41gLXCTqB"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Claudio Scimone",
+          "url": "https://open.spotify.com/artist/6jnyvg611nzPsnPmmeEYBw"
+        },
+        {
+          "name": "Siegmund Nimsgern",
+          "url": "https://open.spotify.com/artist/1OlV6acs5ZqPtQAaLcmr8g"
+        },
+        {
+          "name": "Ernesto Palacio",
+          "url": "https://open.spotify.com/artist/2OGqTvYzZQHwYeJ4fsCn3B"
+        },
+        {
+          "name": "Zehava Gal",
+          "url": "https://open.spotify.com/artist/5bsqJik2rkobBsjS8bA7nw"
+        },
+        {
+          "name": "Ambrosian Opera Chorus",
+          "url": "https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413493,
+      "name": "Mos\u00e8 in Egitto / Act 1: No. 1 Introduzione: \"Ah! Chi ne aiuta! Oh ciel!\"",
+      "url": "https://open.spotify.com/track/7azntC5Asa8PqC7Pj3J8lf"
+    },
+    {
+      "album": {
+        "name": "Rossini: Otello",
+        "url": "https://open.spotify.com/album/57GeZNJvRBMhDBievtcrYq"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5axz31mltRMW9F82oAqS5g"
+        },
+        {
+          "name": "Ugo Guagliardo",
+          "url": "https://open.spotify.com/artist/39nkBKy3fZzEOnDV8jRxAO"
+        },
+        {
+          "name": "Filippo Adami",
+          "url": "https://open.spotify.com/artist/7fN3ZdtwrIHapWwyyTWQpe"
+        },
+        {
+          "name": "Giorgio Trucco",
+          "url": "https://open.spotify.com/artist/6vUCn1PBRzTArwT1Ens4Ub"
+        },
+        {
+          "name": "Geraldine Chauvet",
+          "url": "https://open.spotify.com/artist/1EafUvw7MCK8QC1nFNa5Uk"
+        },
+        {
+          "name": "Sean Spyres",
+          "url": "https://open.spotify.com/artist/6eso15kwk6IChv9smkBZai"
+        },
+        {
+          "name": "Hugo Colin",
+          "url": "https://open.spotify.com/artist/7aebjWBEGb5HejKxO80KAH"
+        },
+        {
+          "name": "Leonardo Cortellazzi",
+          "url": "https://open.spotify.com/artist/4bN2iecBssGPzJhQ5FWlVm"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 410120,
+      "name": "Otello, ossia Il moro di Venezia, Act I: Cavatina. Ah si, per voi gia sento (Otello, Jago, Choir)",
+      "url": "https://open.spotify.com/track/6aDIFzeVv5yqkv0YSi8eJu"
+    },
+    {
+      "album": {
+        "name": "Rossini: Otello",
+        "url": "https://open.spotify.com/album/57GeZNJvRBMhDBievtcrYq"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5axz31mltRMW9F82oAqS5g"
+        },
+        {
+          "name": "Ugo Guagliardo",
+          "url": "https://open.spotify.com/artist/39nkBKy3fZzEOnDV8jRxAO"
+        },
+        {
+          "name": "Filippo Adami",
+          "url": "https://open.spotify.com/artist/7fN3ZdtwrIHapWwyyTWQpe"
+        },
+        {
+          "name": "Giorgio Trucco",
+          "url": "https://open.spotify.com/artist/6vUCn1PBRzTArwT1Ens4Ub"
+        },
+        {
+          "name": "Geraldine Chauvet",
+          "url": "https://open.spotify.com/artist/1EafUvw7MCK8QC1nFNa5Uk"
+        },
+        {
+          "name": "Sean Spyres",
+          "url": "https://open.spotify.com/artist/6eso15kwk6IChv9smkBZai"
+        },
+        {
+          "name": "Hugo Colin",
+          "url": "https://open.spotify.com/artist/7aebjWBEGb5HejKxO80KAH"
+        },
+        {
+          "name": "Leonardo Cortellazzi",
+          "url": "https://open.spotify.com/artist/4bN2iecBssGPzJhQ5FWlVm"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236106,
+      "name": "Otello, ossia Il moro di Venezia, Act III: Scene, Air, Duet and Finale III: Ah!\u2026 Dagli affanni oppressa (Desdemona, Emilia)",
+      "url": "https://open.spotify.com/track/4hkScbwoPDgCgY8wrftnP7"
+    },
+    {
+      "album": {
+        "name": "Rossini: Otello",
+        "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5axz31mltRMW9F82oAqS5g"
+        },
+        {
+          "name": "Ugo Guagliardo",
+          "url": "https://open.spotify.com/artist/39nkBKy3fZzEOnDV8jRxAO"
+        },
+        {
+          "name": "Filippo Adami",
+          "url": "https://open.spotify.com/artist/7fN3ZdtwrIHapWwyyTWQpe"
+        },
+        {
+          "name": "Giorgio Trucco",
+          "url": "https://open.spotify.com/artist/6vUCn1PBRzTArwT1Ens4Ub"
+        },
+        {
+          "name": "Geraldine Chauvet",
+          "url": "https://open.spotify.com/artist/1EafUvw7MCK8QC1nFNa5Uk"
+        },
+        {
+          "name": "Sean Spyres",
+          "url": "https://open.spotify.com/artist/6eso15kwk6IChv9smkBZai"
+        },
+        {
+          "name": "Hugo Colin",
+          "url": "https://open.spotify.com/artist/7aebjWBEGb5HejKxO80KAH"
+        },
+        {
+          "name": "Leonardo Cortellazzi",
+          "url": "https://open.spotify.com/artist/4bN2iecBssGPzJhQ5FWlVm"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410120,
+      "name": "Otello, ossia Il moro di Venezia: Act I: Cavatina: Ah si, per voi gia sento (Otello, Jago, Choir)",
+      "url": "https://open.spotify.com/track/4OSwqWEcJRHyxne4K0vk5m"
+    },
+    {
+      "album": {
+        "name": "Rossini: Otello",
+        "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Michael Spyres",
+          "url": "https://open.spotify.com/artist/6SrpXOCR5eF3ZrtDlCtRLJ"
+        },
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5axz31mltRMW9F82oAqS5g"
+        },
+        {
+          "name": "Ugo Guagliardo",
+          "url": "https://open.spotify.com/artist/39nkBKy3fZzEOnDV8jRxAO"
+        },
+        {
+          "name": "Filippo Adami",
+          "url": "https://open.spotify.com/artist/7fN3ZdtwrIHapWwyyTWQpe"
+        },
+        {
+          "name": "Giorgio Trucco",
+          "url": "https://open.spotify.com/artist/6vUCn1PBRzTArwT1Ens4Ub"
+        },
+        {
+          "name": "Geraldine Chauvet",
+          "url": "https://open.spotify.com/artist/1EafUvw7MCK8QC1nFNa5Uk"
+        },
+        {
+          "name": "Sean Spyres",
+          "url": "https://open.spotify.com/artist/6eso15kwk6IChv9smkBZai"
+        },
+        {
+          "name": "Hugo Colin",
+          "url": "https://open.spotify.com/artist/7aebjWBEGb5HejKxO80KAH"
+        },
+        {
+          "name": "Leonardo Cortellazzi",
+          "url": "https://open.spotify.com/artist/4bN2iecBssGPzJhQ5FWlVm"
+        },
+        {
+          "name": "Transylvania State Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/6mG8bvilNUoZPsSvuKBnJ8"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Otello, ossia Il moro di Venezia: Act III: Scene, Air, Duet and Finale III: Ah!\u2026 Dagli affanni oppressa (Desdemona, Emilia)",
+      "url": "https://open.spotify.com/track/3fxIJ8vXmCupL8YFCs2VcZ"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/0scPZVo41gReMC8RI826PU"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310200,
+      "name": "Peches de vieillesse, Vol. 5: Album pour les enfants adolescents: No. 1. Premiere Communion",
+      "url": "https://open.spotify.com/track/6DnICAFOQeRlHJwkwYDn3E"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/4yqoIlUqL3UtCLluRi2BXl"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146800,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
+      "url": "https://open.spotify.com/track/2T9ffCHI6HPM5HRMdF5iLE"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 10",
+        "url": "https://open.spotify.com/album/2jT0pTgizGCywSfSkSA6nV"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Giuseppina Bridelli",
+          "url": "https://open.spotify.com/artist/4n8jCS36j50D3Hm6V75gKl"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146800,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 11 \"Miscellan\u00e9e de musique vocale\": No. 1, Ariette villageoise",
+      "url": "https://open.spotify.com/track/4swM7SKKQYLq5AIJo8u2Di"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 11",
+        "url": "https://open.spotify.com/album/1lROVLLPRkTgJoP3hYy9xh"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Luciano",
+          "url": "https://open.spotify.com/artist/3D6gAqeUJHWBlaMFD4YBXQ"
+        },
+        {
+          "name": "Vittorio Prato",
+          "url": "https://open.spotify.com/artist/5HlkyE40Yg8UWKcqfuZavA"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322880,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 2 \"Album fran\u00e7ais\": No. 4, Complainte \u00e0 2 voix \"Un sou\"",
+      "url": "https://open.spotify.com/track/1dW94EFP7hWV5NJUqHibie"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 11",
+        "url": "https://open.spotify.com/album/0FdwU5dwYXa3GB1GAHgimR"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Luciano",
+          "url": "https://open.spotify.com/artist/3D6gAqeUJHWBlaMFD4YBXQ"
+        },
+        {
+          "name": "Vittorio Prato",
+          "url": "https://open.spotify.com/artist/5HlkyE40Yg8UWKcqfuZavA"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322880,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 2 \"Album fran\u00e7ais\": No. 4, Complainte \u00e0 2 voix \"Un sou\"",
+      "url": "https://open.spotify.com/track/2iVADTzB4E59R4JMThA57j"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 3",
+        "url": "https://open.spotify.com/album/34qA1H3Z7nkunhcQkBIAyF"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310200,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 5, Album pour les enfants adolescents: No. 1, Premiere Communion",
+      "url": "https://open.spotify.com/track/50uxcV2erWFMQR8LlsCIsI"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/2R1jKhILmZKO2seqjvSDkv"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/4RNoeY41rmvZDLLE8FcArh"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/46uZRK8JhoS9l68mlTg6tK"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/639PRjO7vTYwX0HbAsD6Y6"
+    },
+    {
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+    },
+    {
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Gino Quilico, Alessandro Corbelli, Carlo Rizzi & Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/76MVvxZAk9mjNNC704sbaP"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308200,
+      "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
+      "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
+    },
+    {
+      "album": {
+        "name": "Rossini: Colbran, the Muse (opera arias)",
+        "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Edoardo Muller",
+          "url": "https://open.spotify.com/artist/1K8gYvtTdso9hstdex4Hjz"
+        },
+        {
+          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Corrado Amici",
+          "url": "https://open.spotify.com/artist/1GVIbHizV64xC9FbJV5bWv"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273186,
+      "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
+      "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
+    },
+    {
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
+    },
+    {
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Mady Mespl\u00e9/Jocelyne Taillon/Gabriel Bacquier/Nicolai Gedda/Ambrosian Opera Chorus/Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2oWtyQmV2AlLKqbncuTPaL"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Rossini: Guillaume Tell, Act 4 Scene 11: \"Pourquoi ta presence, \u00f4 mon p\u00e8re! ... Tout change et grandit en ces lieux!\" (Arnold, Guillaume, Hedwige, Jemmy, Mathilde, Gessler, Walter, Chorus)",
+      "url": "https://open.spotify.com/track/4UwOQ5TGLU3TpNkWwf664Y"
+    },
+    {
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Renato Capecchi",
+          "url": "https://open.spotify.com/artist/16LkUonMXYtr6O6b1Cru9d"
+        },
+        {
+          "name": "Ruggero Raimondi",
+          "url": "https://open.spotify.com/artist/6anJ9yWyrJuZ21vZATPnXI"
+        },
+        {
+          "name": "Michael Rippon",
+          "url": "https://open.spotify.com/artist/3oOqqpEAo2WJ14e6007MW9"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Joseph Galiano",
+          "url": "https://open.spotify.com/artist/3nJpgZaNtp2sFLc4aOm6yl"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Fedora Barbieri",
+          "url": "https://open.spotify.com/artist/6WtDtkBoFeI5F8k3efObLj"
+        },
+        {
+          "name": "John Constable",
+          "url": "https://open.spotify.com/artist/0n1rARWLJOmd74L6frzZ5Y"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349706,
+      "name": "Rossini: Il Barbiere di Siviglia, Act 1: \"Una voce poco f\u00e0\" (Rosina)",
+      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Ildebrando D'Arcangelo",
+          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567306,
+      "name": "Rossini: Stabat Mater: I. Stabat Mater dolorosa",
+      "url": "https://open.spotify.com/track/4hXaE6TgZCasb00D0BQyFa"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Lawrence Brownlee",
+          "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376626,
+      "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
+      "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/0mZH1PD4r8M1lqbx54QPrP"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 458173,
+      "name": "Semiramide, Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
+      "url": "https://open.spotify.com/track/3BVi1KQk9uxoL5RACeC1ck"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/0mZH1PD4r8M1lqbx54QPrP"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 330320,
+      "name": "Semiramide, Act II Scene 11: Al mio pregar t'arrendi - L'usato ardir (Semiramide, Arsace, Assur, Oroe)",
+      "url": "https://open.spotify.com/track/1WpiMm4vJI5MMmlwoJtKKc"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458173,
+      "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
+      "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330320,
+      "name": "Semiramide: Act II Scene 11: Al mio pregar t'arrendi - L'usato ardir (Semiramide, Arsace, Assur, Oroe)",
+      "url": "https://open.spotify.com/track/070oTf9WJv9hvk9OOYtXs5"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 694493,
+      "name": "Semiramide: Sinfonia",
+      "url": "https://open.spotify.com/track/6k6cdgrBZ9Pf9upS8IMZHS"
+    },
+    {
+      "album": {
+        "name": "Rossini: Semiramide",
+        "url": "https://open.spotify.com/album/0mZH1PD4r8M1lqbx54QPrP"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alex Penda",
+          "url": "https://open.spotify.com/artist/31V51B9HYR7GJVPlRD5omZ"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+        },
+        {
+          "name": "Marianna Pizzolato",
+          "url": "https://open.spotify.com/artist/0EuRKXjfFpR0g2z4oai0w6"
+        },
+        {
+          "name": "Lorenzo Regazzo",
+          "url": "https://open.spotify.com/artist/2RQSuCED6yaQtWjPJFiWuf"
+        },
+        {
+          "name": "John Osborn",
+          "url": "https://open.spotify.com/artist/0imWm93xrolEIw3Huz20CF"
+        },
+        {
+          "name": "Andrea Mastroni",
+          "url": "https://open.spotify.com/artist/4992ewFJxGptMCN0oGEBcI"
+        },
+        {
+          "name": "Marija Jokovic",
+          "url": "https://open.spotify.com/artist/1C9yyVBqL4lKyCIFiRhyC1"
+        },
+        {
+          "name": "Vassilis Kavayas",
+          "url": "https://open.spotify.com/artist/57x3DtrI4Xmx9flmnYZWZU"
+        },
+        {
+          "name": "Raffaele Facciola",
+          "url": "https://open.spotify.com/artist/1gZW7ewsa2EgoN0vjDpbXO"
+        },
+        {
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 694493,
+      "name": "Semiramide: Sinfonia",
+      "url": "https://open.spotify.com/track/4B2kvQ5S8oGs8RDDWGCLIr"
+    },
+    {
+      "album": {
+        "name": "Rossini: String Sonatas, etc.",
+        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429160,
+      "name": "Serenata in E flat",
+      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
+    },
+    {
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
+    },
+    {
+      "album": {
+        "name": "Rossini: String Sonatas Nos. 1- 3",
+        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431693,
+      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
+      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
+    },
+    {
+      "album": {
+        "name": "Rossini: String Sonatas Nos. 1- 3",
+        "url": "https://open.spotify.com/album/2o8khMT1wpKHzGgmDKbaEi"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 431693,
+      "name": "Sonata for Strings No. 2 in A Major: I. Allegro (Version for orchestra)",
+      "url": "https://open.spotify.com/track/5N6Z3dpr7TWXWMSq7hpR5y"
+    },
+    {
+      "album": {
+        "name": "A Guided Tour of the Romantic Era, Vol. 3",
+        "url": "https://open.spotify.com/album/1CKiM1a3PayI89zPXLlZxD"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/1UDYTLw4J12rHmItMELQj6"
+    },
+    {
+      "album": {
+        "name": "Rossini: Sonatas for Strings Nos. 4-6",
+        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
+    },
+    {
+      "album": {
+        "name": "Rossini: Sonatas for Strings Nos. 4-6",
+        "url": "https://open.spotify.com/album/5AaxJlTI21ZDU5Y9hbhixE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro (Version for orchestra)",
+      "url": "https://open.spotify.com/track/3XJJmpEo533fHuKfmGnSEB"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358600,
+      "name": "Stabat Mater: Amen. In sempiterna saecula",
+      "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283493,
+      "name": "Stabat Mater: Fac, ut portem Christi mortem",
+      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "Stabat Mater: Quando corpus morietur",
+      "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater - Petite Messe Solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467600,
+      "name": "Stabat Mater: Sancta mater, istud agas",
+      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272173,
+      "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
+    },
+    {
+      "album": {
+        "name": "The Sound of The King's Singers",
+        "url": "https://open.spotify.com/album/3ZnA6dJVJjgUm4hEeHBjAv"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "The Barber of Seville, Overture",
+      "url": "https://open.spotify.com/track/1PT3zNAnVCN2CjeYaTcQH7"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Prague Philharmonia",
+          "url": "https://open.spotify.com/artist/39FuQKH2MKSPyAsRqdHj0N"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        },
+        {
+          "name": "Ludmila Peterkov\u00e1",
+          "url": "https://open.spotify.com/artist/16q3r2R7huL7liVkEzI3EU"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499626,
+      "name": "Variazzioni di clarinetto in C Major",
+      "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 6",
+        "url": "https://open.spotify.com/album/2kErP72sTAsTMDrfgmUqpb"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129759,
+      "name": "Waltz in E-Flat Major",
+      "url": "https://open.spotify.com/track/4qwnhaT0LcfJaRNGOhndaQ"
+    },
+    {
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 6",
+        "url": "https://open.spotify.com/album/13nxyqGpzFY0nVHFM3aBLk"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129759,
+      "name": "Waltz in E-Flat Major",
+      "url": "https://open.spotify.com/track/6OzkxSvlCMHzyNUf5sE3gG"
+    },
+    {
+      "album": {
+        "name": "1812 Overture - The Greatest Classical Anthems",
+        "url": "https://open.spotify.com/album/7Bx47PKW5JkGAm04vIxKJQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 666000,
+      "name": "William Tell : Overture",
+      "url": "https://open.spotify.com/track/5hZaXbhxY0cq2UGHZRR9C8"
+    },
+    {
+      "album": {
+        "name": "Rossini: Complete Overtures",
+        "url": "https://open.spotify.com/album/6r3UcK6cVlZZ28pVKszcaX"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666000,
+      "name": "William Tell: Overture",
+      "url": "https://open.spotify.com/track/1aOiwLSEnhX9jxiwHuB0Sv"
+    },
+    {
+      "album": {
+        "name": "A Season of Music: Rossini",
+        "url": "https://open.spotify.com/album/0ERSvL7JzTXBDA3Aw0AeDe"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 666000,
+      "name": "William Tell: Overture",
+      "url": "https://open.spotify.com/track/4CGJRpnSPvH5ju1kEc9Oq4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0VplLa7NC0a"
 }

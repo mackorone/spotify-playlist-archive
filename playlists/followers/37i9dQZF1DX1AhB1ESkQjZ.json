@@ -1,338 +1,507 @@
 {
-  "2023-01-30": 107,
-  "2023-01-31": 107,
-  "2023-02-01": 157,
-  "2023-02-02": 197,
-  "2023-02-03": 252,
-  "2023-02-04": 295,
-  "2023-02-05": 308,
-  "2023-02-06": 320,
-  "2023-02-07": 337,
-  "2023-02-08": 359,
-  "2023-02-09": 359,
-  "2023-02-10": 378,
-  "2023-02-11": 396,
-  "2023-02-12": 412,
-  "2023-02-13": 424,
-  "2023-02-14": 424,
-  "2023-02-15": 430,
-  "2023-02-16": 447,
-  "2023-02-17": 461,
-  "2023-02-18": 478,
-  "2023-02-19": 478,
-  "2023-02-20": 483,
-  "2023-02-21": 492,
-  "2023-02-22": 502,
-  "2023-02-23": 515,
-  "2023-02-24": 526,
-  "2023-02-25": 533,
-  "2023-02-26": 535,
-  "2023-02-27": 542,
-  "2023-02-28": 542,
-  "2023-03-01": 545,
-  "2023-03-02": 552,
-  "2023-03-03": 560,
-  "2023-03-04": 560,
-  "2023-03-05": 572,
-  "2023-03-06": 572,
-  "2023-03-07": 579,
-  "2023-03-08": 586,
-  "2023-03-09": 589,
-  "2023-03-10": 595,
-  "2023-03-11": 622,
-  "2023-03-12": 633,
-  "2023-03-13": 637,
-  "2023-03-14": 640,
-  "2023-03-15": 644,
-  "2023-03-16": 647,
-  "2023-03-17": 647,
-  "2023-03-18": 655,
-  "2023-03-19": 657,
-  "2023-03-20": 666,
-  "2023-03-21": 668,
-  "2023-03-22": 671,
-  "2023-03-23": 675,
-  "2023-03-24": 675,
-  "2023-03-25": 680,
-  "2023-03-26": 687,
-  "2023-03-27": 691,
-  "2023-03-28": 695,
-  "2023-03-29": 696,
-  "2023-03-30": 703,
-  "2023-03-31": 703,
-  "2023-04-01": 708,
-  "2023-04-02": 707,
-  "2023-04-03": 709,
-  "2023-04-04": 715,
-  "2023-04-05": 719,
-  "2023-04-06": 719,
-  "2023-04-07": 723,
-  "2023-04-09": 733,
-  "2023-04-10": 735,
-  "2023-04-11": 742,
-  "2023-04-12": 742,
-  "2023-04-13": 745,
-  "2023-04-14": 748,
-  "2023-04-15": 748,
-  "2023-04-16": 751,
-  "2023-04-17": 753,
-  "2023-04-18": 757,
-  "2023-04-19": 758,
-  "2023-04-20": 759,
-  "2023-04-21": 761,
-  "2023-04-22": 766,
-  "2023-04-23": 771,
-  "2023-04-24": 772,
-  "2023-04-25": 775,
-  "2023-04-26": 783,
-  "2023-04-27": 785,
-  "2023-04-28": 788,
-  "2023-04-29": 794,
-  "2023-04-30": 794,
-  "2023-05-01": 797,
-  "2023-05-02": 798,
-  "2023-05-03": 798,
-  "2023-05-04": 802,
-  "2023-05-05": 806,
-  "2023-05-06": 810,
-  "2023-05-07": 812,
-  "2023-05-08": 816,
-  "2023-05-09": 821,
-  "2023-05-10": 823,
-  "2023-05-11": 825,
-  "2023-05-12": 826,
-  "2023-05-13": 830,
-  "2023-05-14": 835,
-  "2023-05-15": 837,
-  "2023-05-16": 838,
-  "2023-05-17": 841,
-  "2023-05-18": 844,
-  "2023-05-19": 846,
-  "2023-05-20": 856,
-  "2023-05-21": 856,
-  "2023-05-22": 856,
-  "2023-05-23": 868,
-  "2023-05-24": 873,
-  "2023-05-25": 873,
-  "2023-05-26": 874,
-  "2023-05-27": 877,
-  "2023-05-28": 877,
-  "2023-05-29": 877,
-  "2023-05-30": 878,
-  "2023-05-31": 877,
-  "2023-06-01": 879,
-  "2023-06-02": 884,
-  "2023-06-03": 884,
-  "2023-06-04": 886,
-  "2023-06-05": 885,
-  "2023-06-06": 887,
-  "2023-06-07": 889,
-  "2023-06-08": 891,
-  "2023-06-09": 893,
-  "2023-06-10": 895,
-  "2023-06-11": 897,
-  "2023-06-12": 900,
-  "2023-06-13": 904,
-  "2023-06-14": 905,
-  "2023-06-15": 912,
-  "2023-06-16": 916,
-  "2023-06-17": 917,
-  "2023-06-18": 920,
-  "2023-06-19": 924,
-  "2023-06-20": 927,
-  "2023-06-21": 927,
-  "2023-06-22": 929,
-  "2023-06-23": 933,
-  "2023-06-24": 933,
-  "2023-06-25": 935,
-  "2023-06-26": 934,
-  "2023-06-27": 935,
-  "2023-06-28": 935,
-  "2023-06-29": 939,
-  "2023-06-30": 939,
-  "2023-07-01": 942,
-  "2023-07-02": 942,
-  "2023-07-03": 944,
-  "2023-07-04": 944,
-  "2023-07-05": 943,
-  "2023-07-06": 948,
-  "2023-07-07": 948,
-  "2023-07-08": 952,
-  "2023-07-09": 955,
-  "2023-07-10": 958,
-  "2023-07-11": 963,
-  "2023-07-12": 965,
-  "2023-07-13": 968,
-  "2023-07-14": 972,
-  "2023-07-15": 978,
-  "2023-07-16": 981,
-  "2023-07-17": 983,
-  "2023-07-18": 983,
-  "2023-07-19": 984,
-  "2023-07-20": 986,
-  "2023-07-21": 989,
-  "2023-07-22": 991,
-  "2023-07-23": 993,
-  "2023-07-24": 993,
-  "2023-07-25": 995,
-  "2023-07-26": 999,
-  "2023-07-27": 1000,
-  "2023-07-28": 1001,
-  "2023-07-29": 1001,
-  "2023-07-30": 1002,
-  "2023-07-31": 1005,
-  "2023-08-01": 1005,
-  "2023-08-02": 1008,
-  "2023-08-03": 1009,
-  "2023-08-04": 1011,
-  "2023-08-05": 1011,
-  "2023-08-06": 1020,
-  "2023-08-07": 1020,
-  "2023-08-08": 1021,
-  "2023-08-09": 1023,
-  "2023-08-10": 1025,
-  "2023-08-11": 1026,
-  "2023-08-12": 1029,
-  "2023-08-13": 1030,
-  "2023-08-14": 1033,
-  "2023-08-15": 1035,
-  "2023-08-16": 1035,
-  "2023-08-17": 1035,
-  "2023-08-18": 1037,
-  "2023-08-19": 1039,
-  "2023-08-20": 1043,
-  "2023-08-21": 1044,
-  "2023-08-22": 1043,
-  "2023-08-23": 1044,
-  "2023-08-24": 1048,
-  "2023-08-25": 1048,
-  "2023-08-26": 1049,
-  "2023-08-27": 1051,
-  "2023-08-28": 1051,
-  "2023-08-29": 1054,
-  "2023-08-30": 1054,
-  "2023-08-31": 1052,
-  "2023-09-01": 1068,
-  "2023-09-02": 1068,
-  "2023-09-03": 1072,
-  "2023-09-04": 1090,
-  "2023-09-05": 1100,
-  "2023-09-06": 1106,
-  "2023-09-07": 1119,
-  "2023-09-08": 1130,
-  "2023-09-09": 1135,
-  "2023-09-10": 1148,
-  "2023-09-11": 1165,
-  "2023-09-12": 1180,
-  "2023-09-13": 1190,
-  "2023-09-14": 1199,
-  "2023-09-15": 1204,
-  "2023-09-16": 1215,
-  "2023-09-17": 1222,
-  "2023-09-18": 1227,
-  "2023-09-19": 1243,
-  "2023-09-20": 1255,
-  "2023-09-21": 1269,
-  "2023-09-22": 1278,
-  "2023-09-23": 1282,
-  "2023-09-24": 1294,
-  "2023-09-25": 1307,
-  "2023-09-26": 1318,
-  "2023-09-27": 1329,
-  "2023-09-28": 1334,
-  "2023-09-29": 1339,
-  "2023-09-30": 1343,
-  "2023-10-01": 1347,
-  "2023-10-02": 1357,
-  "2023-10-03": 1362,
-  "2023-10-04": 1370,
-  "2023-10-05": 1379,
-  "2023-10-06": 1384,
-  "2023-10-07": 1391,
-  "2023-10-08": 1398,
-  "2023-10-09": 1408,
-  "2023-10-10": 1417,
-  "2023-10-11": 1429,
-  "2023-10-12": 1429,
-  "2023-10-13": 1434,
-  "2023-10-14": 1443,
-  "2023-10-15": 1451,
-  "2023-10-16": 1459,
-  "2023-10-17": 1460,
-  "2023-10-18": 1466,
-  "2023-10-19": 1469,
-  "2023-10-20": 1473,
-  "2023-10-21": 1478,
-  "2023-10-22": 1489,
-  "2023-10-23": 1490,
-  "2023-10-24": 1500,
-  "2023-10-25": 1511,
-  "2023-10-26": 1518,
-  "2023-10-27": 1524,
-  "2023-10-28": 1536,
-  "2023-10-29": 1545,
-  "2023-10-30": 1563,
-  "2023-10-31": 1563,
-  "2023-11-01": 1564,
-  "2023-11-02": 1571,
-  "2023-11-03": 1578,
-  "2023-11-04": 1588,
-  "2023-11-05": 1590,
-  "2023-11-06": 1596,
-  "2023-11-07": 1596,
-  "2023-11-08": 1596,
-  "2023-11-09": 1596,
-  "2023-11-10": 1596,
-  "2023-11-11": 1596,
-  "2023-11-12": 1596,
-  "2023-11-13": 1596,
-  "2023-11-14": 1596,
-  "2023-11-15": 1596,
-  "2023-11-16": 1596,
-  "2023-11-17": 1596,
-  "2023-11-18": 1596,
-  "2023-11-19": 1596,
-  "2023-11-20": 1596,
-  "2023-11-21": 1596,
-  "2023-11-22": 1596,
-  "2023-11-23": 1596,
-  "2023-11-24": 1596,
-  "2023-11-25": 1596,
-  "2023-11-26": 1596,
-  "2023-11-27": 1596,
-  "2023-11-28": 1596,
-  "2023-11-29": 1596,
-  "2023-11-30": 1596,
-  "2023-12-01": 1596,
-  "2023-12-02": 1596,
-  "2023-12-03": 1596,
-  "2023-12-04": 1596,
-  "2023-12-05": 1596,
-  "2023-12-06": 1596,
-  "2023-12-07": 1596,
-  "2023-12-08": 1596,
-  "2023-12-09": 1596,
-  "2023-12-10": 1596,
-  "2023-12-11": 1596,
-  "2023-12-12": 1596,
-  "2023-12-13": 1596,
-  "2023-12-14": 1596,
-  "2023-12-15": 1596,
-  "2023-12-16": 1596,
-  "2023-12-17": 1596,
-  "2023-12-18": 1596,
-  "2023-12-19": 1596,
-  "2023-12-20": 1596,
-  "2023-12-21": 1596,
-  "2023-12-22": 1596,
-  "2023-12-23": 1596,
-  "2023-12-24": 1596,
-  "2023-12-25": 1596,
-  "2023-12-26": 1596,
-  "2023-12-27": 1596,
-  "2023-12-30": 1596,
-  "2023-12-31": 1596,
-  "2024-01-01": 1596,
-  "2024-01-02": 1596,
-  "2024-01-03": 1596
+  "2024-01-17": 1596,
+  "date_first_scraped": "2023-01-30",
+  "description": "Canadian electronic band  <a href=\"spotify:artist:6c1pBXHYjFcGQQNO5MMsdd\">Keys N Krates</a> deliver a fun mix while keeping things eclectic!",
+  "name": "Keys N Krates DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Are U Down - Remix (Mixed)",
+        "url": "https://open.spotify.com/album/48MpZ81km952xkQNeTSdRY"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Are U Down - Remix - Mixed",
+      "url": "https://open.spotify.com/track/4ULrFMTrbz3u7uU9R29eLo"
+    },
+    {
+      "album": {
+        "name": "Azure (Mixed)",
+        "url": "https://open.spotify.com/album/5yn0I1sZHRJ2rf1QDAhVKc"
+      },
+      "artists": [
+        {
+          "name": "DJU DJU",
+          "url": "https://open.spotify.com/artist/3hoRYeKnynsSd1M5p3weO8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77000,
+      "name": "Azure - Mixed",
+      "url": "https://open.spotify.com/track/6qKQwad0jkhcILOBVCi1GJ"
+    },
+    {
+      "album": {
+        "name": "Brazilian Love Song - Jengi Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3bobKbo2beXuNyaacoC0yt"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Brazilian Love Song - Jengi Remix - Mixed",
+      "url": "https://open.spotify.com/track/4laenbr2L5Msn181d0Egn6"
+    },
+    {
+      "album": {
+        "name": "Confusion (Mixed)",
+        "url": "https://open.spotify.com/album/3kvsZeLBdpCmwZoOjXz8Dj"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Confusion - Mixed",
+      "url": "https://open.spotify.com/track/6tMP0bUqaxcNDDvB52AZh1"
+    },
+    {
+      "album": {
+        "name": "Dreams Of Oceans (Mixed)",
+        "url": "https://open.spotify.com/album/2lq1h2yq6wS092xLVqGUHo"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Dreams Of Oceans - Mixed",
+      "url": "https://open.spotify.com/track/1TirFWuGlI25KFXiQWmpB2"
+    },
+    {
+      "album": {
+        "name": "Drum Dance (Mixed)",
+        "url": "https://open.spotify.com/album/4Gpntr12q86ceEDwjw9WUD"
+      },
+      "artists": [
+        {
+          "name": "Omaar",
+          "url": "https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Drum Dance - Mixed",
+      "url": "https://open.spotify.com/track/2uDKG3Rpy7RCnNEUPE1e3l"
+    },
+    {
+      "album": {
+        "name": "Favela Funk (Mixed)",
+        "url": "https://open.spotify.com/album/757djYybmJr0ckTIUzZi8z"
+      },
+      "artists": [
+        {
+          "name": "Lubelski",
+          "url": "https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS"
+        },
+        {
+          "name": "RYBO",
+          "url": "https://open.spotify.com/artist/2IuegvTxG5ryGxsce4U1aA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Favela Funk - Mixed",
+      "url": "https://open.spotify.com/track/3NxoXkRgVedBidpBOvOnQA"
+    },
+    {
+      "album": {
+        "name": "Get Up (Mixed)",
+        "url": "https://open.spotify.com/album/3u2zbnPyi1rjrssoHYm9TY"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Get Up - Mixed",
+      "url": "https://open.spotify.com/track/5Jb7VoDQmYoNYqTcNxsYby"
+    },
+    {
+      "album": {
+        "name": "Gloria (Mixed)",
+        "url": "https://open.spotify.com/album/5QFSmoM7NOIT8GQ6QQBPQt"
+      },
+      "artists": [
+        {
+          "name": "Hard Drive Library",
+          "url": "https://open.spotify.com/artist/1L6iHEQ26ftQn0kgAvreC1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "Gloria - Mixed",
+      "url": "https://open.spotify.com/track/1UOWIJIo7R8zIgXgowsVHG"
+    },
+    {
+      "album": {
+        "name": "Got 2 Be Loved - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/49NZxZLnbLfHKBVjpJnWfG"
+      },
+      "artists": [
+        {
+          "name": "Soul Reductions",
+          "url": "https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Got 2 Be Loved - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/1AB03nA43JowIQ0gI9qK23"
+    },
+    {
+      "album": {
+        "name": "Got To Have Loving (Mixed)",
+        "url": "https://open.spotify.com/album/0R4KnaASTEJ4i8dJMUdDdz"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Got To Have Loving - Mixed",
+      "url": "https://open.spotify.com/track/6BJk0pOTsGLVzOLlTLYW4H"
+    },
+    {
+      "album": {
+        "name": "Homies (feat. Henry Wu) [Mixed]",
+        "url": "https://open.spotify.com/album/0q6mYKSaFRUuVMrDPeBgMd"
+      },
+      "artists": [
+        {
+          "name": "Henry Wu",
+          "url": "https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Homies (feat. Henry Wu) - Mixed",
+      "url": "https://open.spotify.com/track/0gLeFJgLq5Nv8ac51r0EgZ"
+    },
+    {
+      "album": {
+        "name": "I Want You (I Need You) [Mixed]",
+        "url": "https://open.spotify.com/album/7HPq68h7OHOGLlBOC7ToC7"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "I Want You (I Need You) - Mixed",
+      "url": "https://open.spotify.com/track/3ySfp3Jyci2gZKiFJqIldy"
+    },
+    {
+      "album": {
+        "name": "It's What We Live, It's What We Are - Made In Ibiza Studios Mix (Mixed)",
+        "url": "https://open.spotify.com/album/6ejXwuz8jXAgsWvLMYEOFE"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "It's What We Live, It's What We Are - Made In Ibiza Studios Mix - Mixed",
+      "url": "https://open.spotify.com/track/23kpQ6a21FFhq6kj8oYUeJ"
+    },
+    {
+      "album": {
+        "name": "Jay Walk (feat. Miss J Alexander) [Mixed]",
+        "url": "https://open.spotify.com/album/096QYglIoMDNyXFsmIOFVb"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        },
+        {
+          "name": "Miss J Alexander",
+          "url": "https://open.spotify.com/artist/3sYsWVJMCN2tVFXkCvnyoS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Jay Walk (feat. Miss J Alexander) - Mixed",
+      "url": "https://open.spotify.com/track/7dybpcdt5LesjIeNou2E0o"
+    },
+    {
+      "album": {
+        "name": "KMT (Mixed)",
+        "url": "https://open.spotify.com/album/6oMcp25YMQ38js4CBUlgch"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "KMT - Mixed",
+      "url": "https://open.spotify.com/track/4hiYtJv0vyr1s81HIiobeB"
+    },
+    {
+      "album": {
+        "name": "Makoya Makaraba - Album Mix (Mixed)",
+        "url": "https://open.spotify.com/album/494H5f4CQlxjRodIrkHF1a"
+      },
+      "artists": [
+        {
+          "name": "Zazu",
+          "url": "https://open.spotify.com/artist/6j1lcgGsTfgEE6mZclz5zM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Makoya Makaraba - Album Mix - Mixed",
+      "url": "https://open.spotify.com/track/53IXfjmSgbvilLTUcrTrMT"
+    },
+    {
+      "album": {
+        "name": "Not About You (feat. Hadiya George) - KDA 'Legacy' Extended Remix [Mixed]",
+        "url": "https://open.spotify.com/album/0jLciDClR9B32hLcrdDdXd"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Hadiya George",
+          "url": "https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9"
+        },
+        {
+          "name": "KDA",
+          "url": "https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Not About You (feat. Hadiya George) - KDA 'Legacy' Extended Remix - Mixed",
+      "url": "https://open.spotify.com/track/691KBenNhsdW50rAMC2Qbb"
+    },
+    {
+      "album": {
+        "name": "Pull Up (Mixed)",
+        "url": "https://open.spotify.com/album/6vcRovRf7JN43fBfByhyUZ"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Pull Up - Mixed",
+      "url": "https://open.spotify.com/track/0xKPbiTSt8fddFhz3fei9n"
+    },
+    {
+      "album": {
+        "name": "Shiva (Mixed)",
+        "url": "https://open.spotify.com/album/23pueHdtCE7nsmQTwG9OQs"
+      },
+      "artists": [
+        {
+          "name": "Tony Quattro",
+          "url": "https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73000,
+      "name": "Shiva - Mixed",
+      "url": "https://open.spotify.com/track/4Cf522awHwatFVhDxjhOx4"
+    },
+    {
+      "album": {
+        "name": "Siento Mi Destino (Mixed)",
+        "url": "https://open.spotify.com/album/0alpbiK5TdMB2m6nsnzvnX"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Siento Mi Destino - Mixed",
+      "url": "https://open.spotify.com/track/6CMvdHq6eHzjBntlcZmYTY"
+    },
+    {
+      "album": {
+        "name": "Simple Hit (Mixed)",
+        "url": "https://open.spotify.com/album/4pNpyI77sfKAWfUubDj9I1"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Simple Hit - Mixed",
+      "url": "https://open.spotify.com/track/36ffpVAJk57c9tHSq2AA1e"
+    },
+    {
+      "album": {
+        "name": "Tribal Harmonix - Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/5EHhgnus49xA2jj5WtkixT"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Tribal Harmonix - Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/2V8JAwNkPvoNTBTDT4fQpr"
+    },
+    {
+      "album": {
+        "name": "We Did It For Years - KenLou Dub (Mixed)",
+        "url": "https://open.spotify.com/album/68PvGiXkTjnyySvUtAenUq"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "KenLou",
+          "url": "https://open.spotify.com/artist/0mnTALgVTv2DyYqMhs8nw4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "We Did It For Years - KenLou Dub - Mixed",
+      "url": "https://open.spotify.com/track/0qYMKHMc9yZ7KgfMiARITq"
+    },
+    {
+      "album": {
+        "name": "Ya Dig (Mixed)",
+        "url": "https://open.spotify.com/album/0BE7tKreuBvvUCKM7CoR53"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ya Dig - Mixed",
+      "url": "https://open.spotify.com/track/4rywQTEMzNsaRDVA9YaI6D"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1AhB1ESkQjZ"
 }

@@ -1,289 +1,231 @@
 {
-  "2023-03-20": 312,
-  "2023-03-21": 352,
-  "2023-03-22": 357,
-  "2023-03-23": 371,
-  "2023-03-24": 371,
-  "2023-03-25": 397,
-  "2023-03-26": 406,
-  "2023-03-27": 415,
-  "2023-03-28": 423,
-  "2023-03-29": 432,
-  "2023-03-30": 450,
-  "2023-03-31": 450,
-  "2023-04-01": 453,
-  "2023-04-02": 462,
-  "2023-04-03": 466,
-  "2023-04-04": 481,
-  "2023-04-05": 489,
-  "2023-04-06": 493,
-  "2023-04-07": 503,
-  "2023-04-09": 517,
-  "2023-04-10": 523,
-  "2023-04-11": 532,
-  "2023-04-12": 532,
-  "2023-04-13": 536,
-  "2023-04-14": 541,
-  "2023-04-15": 544,
-  "2023-04-16": 546,
-  "2023-04-17": 546,
-  "2023-04-18": 550,
-  "2023-04-19": 554,
-  "2023-04-20": 558,
-  "2023-04-21": 563,
-  "2023-04-22": 566,
-  "2023-04-23": 571,
-  "2023-04-24": 574,
-  "2023-04-25": 576,
-  "2023-04-26": 581,
-  "2023-04-27": 583,
-  "2023-04-28": 586,
-  "2023-04-29": 587,
-  "2023-04-30": 590,
-  "2023-05-01": 592,
-  "2023-05-02": 598,
-  "2023-05-03": 600,
-  "2023-05-04": 601,
-  "2023-05-05": 599,
-  "2023-05-06": 600,
-  "2023-05-07": 601,
-  "2023-05-08": 606,
-  "2023-05-09": 606,
-  "2023-05-10": 607,
-  "2023-05-11": 608,
-  "2023-05-12": 610,
-  "2023-05-13": 615,
-  "2023-05-14": 616,
-  "2023-05-15": 617,
-  "2023-05-16": 617,
-  "2023-05-17": 621,
-  "2023-05-18": 621,
-  "2023-05-19": 622,
-  "2023-05-20": 631,
-  "2023-05-21": 631,
-  "2023-05-22": 631,
-  "2023-05-23": 644,
-  "2023-05-24": 654,
-  "2023-05-25": 654,
-  "2023-05-26": 658,
-  "2023-05-27": 664,
-  "2023-05-28": 668,
-  "2023-05-29": 668,
-  "2023-05-30": 675,
-  "2023-05-31": 679,
-  "2023-06-01": 683,
-  "2023-06-02": 688,
-  "2023-06-03": 693,
-  "2023-06-04": 700,
-  "2023-06-05": 705,
-  "2023-06-06": 706,
-  "2023-06-07": 710,
-  "2023-06-08": 716,
-  "2023-06-09": 721,
-  "2023-06-10": 722,
-  "2023-06-11": 726,
-  "2023-06-12": 732,
-  "2023-06-13": 735,
-  "2023-06-14": 745,
-  "2023-06-15": 751,
-  "2023-06-16": 756,
-  "2023-06-17": 761,
-  "2023-06-18": 768,
-  "2023-06-19": 778,
-  "2023-06-20": 780,
-  "2023-06-21": 784,
-  "2023-06-22": 785,
-  "2023-06-23": 787,
-  "2023-06-24": 789,
-  "2023-06-25": 791,
-  "2023-06-26": 794,
-  "2023-06-27": 800,
-  "2023-06-28": 806,
-  "2023-06-29": 811,
-  "2023-06-30": 815,
-  "2023-07-01": 826,
-  "2023-07-02": 826,
-  "2023-07-03": 829,
-  "2023-07-04": 831,
-  "2023-07-05": 832,
-  "2023-07-06": 842,
-  "2023-07-07": 842,
-  "2023-07-08": 847,
-  "2023-07-09": 847,
-  "2023-07-10": 849,
-  "2023-07-11": 852,
-  "2023-07-12": 854,
-  "2023-07-13": 857,
-  "2023-07-14": 861,
-  "2023-07-15": 865,
-  "2023-07-16": 871,
-  "2023-07-17": 873,
-  "2023-07-18": 872,
-  "2023-07-19": 876,
-  "2023-07-20": 882,
-  "2023-07-21": 884,
-  "2023-07-22": 889,
-  "2023-07-23": 893,
-  "2023-07-24": 894,
-  "2023-07-25": 894,
-  "2023-07-26": 897,
-  "2023-07-27": 904,
-  "2023-07-28": 908,
-  "2023-07-29": 909,
-  "2023-07-30": 915,
-  "2023-07-31": 916,
-  "2023-08-01": 917,
-  "2023-08-02": 920,
-  "2023-08-03": 926,
-  "2023-08-04": 933,
-  "2023-08-05": 933,
-  "2023-08-06": 935,
-  "2023-08-07": 935,
-  "2023-08-08": 938,
-  "2023-08-09": 943,
-  "2023-08-10": 947,
-  "2023-08-11": 947,
-  "2023-08-12": 951,
-  "2023-08-13": 953,
-  "2023-08-14": 960,
-  "2023-08-15": 964,
-  "2023-08-16": 964,
-  "2023-08-17": 965,
-  "2023-08-18": 969,
-  "2023-08-19": 972,
-  "2023-08-20": 975,
-  "2023-08-21": 981,
-  "2023-08-22": 980,
-  "2023-08-23": 983,
-  "2023-08-24": 989,
-  "2023-08-25": 989,
-  "2023-08-26": 993,
-  "2023-08-27": 996,
-  "2023-08-28": 996,
-  "2023-08-29": 996,
-  "2023-08-30": 997,
-  "2023-08-31": 1000,
-  "2023-09-01": 1028,
-  "2023-09-02": 1028,
-  "2023-09-03": 1046,
-  "2023-09-04": 1065,
-  "2023-09-05": 1093,
-  "2023-09-06": 1111,
-  "2023-09-07": 1134,
-  "2023-09-08": 1155,
-  "2023-09-09": 1183,
-  "2023-09-10": 1202,
-  "2023-09-11": 1221,
-  "2023-09-12": 1243,
-  "2023-09-13": 1267,
-  "2023-09-14": 1292,
-  "2023-09-15": 1324,
-  "2023-09-16": 1339,
-  "2023-09-17": 1366,
-  "2023-09-18": 1390,
-  "2023-09-19": 1410,
-  "2023-09-20": 1439,
-  "2023-09-21": 1466,
-  "2023-09-22": 1489,
-  "2023-09-23": 1501,
-  "2023-09-24": 1522,
-  "2023-09-25": 1546,
-  "2023-09-26": 1568,
-  "2023-09-27": 1592,
-  "2023-09-28": 1618,
-  "2023-09-29": 1638,
-  "2023-09-30": 1653,
-  "2023-10-01": 1672,
-  "2023-10-02": 1685,
-  "2023-10-03": 1705,
-  "2023-10-04": 1716,
-  "2023-10-05": 1735,
-  "2023-10-06": 1754,
-  "2023-10-07": 1765,
-  "2023-10-08": 1789,
-  "2023-10-09": 1804,
-  "2023-10-10": 1819,
-  "2023-10-11": 1845,
-  "2023-10-12": 1845,
-  "2023-10-13": 1864,
-  "2023-10-14": 1872,
-  "2023-10-15": 1891,
-  "2023-10-16": 1905,
-  "2023-10-17": 1914,
-  "2023-10-18": 1935,
-  "2023-10-19": 1948,
-  "2023-10-20": 1966,
-  "2023-10-21": 1976,
-  "2023-10-22": 1995,
-  "2023-10-23": 2016,
-  "2023-10-24": 2044,
-  "2023-10-25": 2051,
-  "2023-10-26": 2062,
-  "2023-10-27": 2076,
-  "2023-10-28": 2098,
-  "2023-10-29": 2110,
-  "2023-10-30": 2158,
-  "2023-10-31": 2158,
-  "2023-11-01": 2177,
-  "2023-11-02": 2189,
-  "2023-11-03": 2216,
-  "2023-11-04": 2236,
-  "2023-11-05": 2260,
-  "2023-11-06": 2282,
-  "2023-11-07": 2282,
-  "2023-11-08": 2282,
-  "2023-11-09": 2282,
-  "2023-11-10": 2282,
-  "2023-11-11": 2282,
-  "2023-11-12": 2282,
-  "2023-11-13": 2282,
-  "2023-11-14": 2282,
-  "2023-11-15": 2282,
-  "2023-11-16": 2282,
-  "2023-11-17": 2282,
-  "2023-11-18": 2282,
-  "2023-11-19": 2282,
-  "2023-11-20": 2282,
-  "2023-11-21": 2282,
-  "2023-11-22": 2282,
-  "2023-11-23": 2282,
-  "2023-11-24": 2282,
-  "2023-11-25": 2282,
-  "2023-11-26": 2282,
-  "2023-11-27": 2282,
-  "2023-11-28": 2282,
-  "2023-11-29": 2282,
-  "2023-11-30": 2282,
-  "2023-12-01": 2282,
-  "2023-12-02": 2282,
-  "2023-12-03": 2282,
-  "2023-12-04": 2282,
-  "2023-12-05": 2282,
-  "2023-12-06": 2282,
-  "2023-12-07": 2282,
-  "2023-12-08": 2282,
-  "2023-12-09": 2282,
-  "2023-12-10": 2282,
-  "2023-12-11": 2282,
-  "2023-12-12": 2282,
-  "2023-12-13": 2282,
-  "2023-12-14": 2282,
-  "2023-12-15": 2282,
-  "2023-12-16": 2282,
-  "2023-12-17": 2282,
-  "2023-12-18": 2282,
-  "2023-12-19": 2282,
-  "2023-12-20": 2282,
-  "2023-12-21": 2282,
-  "2023-12-22": 2282,
-  "2023-12-23": 2282,
-  "2023-12-24": 2282,
-  "2023-12-25": 2282,
-  "2023-12-26": 2282,
-  "2023-12-27": 2282,
-  "2023-12-30": 2282,
-  "2023-12-31": 2282,
-  "2024-01-01": 2282,
-  "2024-01-02": 2282,
-  "2024-01-03": 2282
+  "2024-01-17": 2282,
+  "date_first_scraped": "2023-03-20",
+  "description": "Blending their Middle Eastern heritage with their Western upbringing, the duo <a href=\"spotify:artist:5bKdC6382t97Qnpvs81Rqx\">Bedouin</a> presents us with a melodic mix that will delight your ears.",
+  "name": "Bedouin's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Doshchyk Nakrapaye - Bedouin Rework (Mixed)",
+        "url": "https://open.spotify.com/album/0POMCArqf9bos75jsN1Qh1"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425000,
+      "name": "A Doshchyk Nakrapaye - Bedouin Rework - Mixed",
+      "url": "https://open.spotify.com/track/3glv9A3oKEsZsOK8qZDIES"
+    },
+    {
+      "album": {
+        "name": "Aliens (Mixed)",
+        "url": "https://open.spotify.com/album/3GAAb8hZr4nWvgaVDGPUiC"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Aliens - Mixed",
+      "url": "https://open.spotify.com/track/5xLrcKzbiTy1jiLGTwdGQm"
+    },
+    {
+      "album": {
+        "name": "Amore (Mixed)",
+        "url": "https://open.spotify.com/album/4hSoK6uEmB6qK9WcvkHlLx"
+      },
+      "artists": [
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352097,
+      "name": "Amore - Mixed",
+      "url": "https://open.spotify.com/track/5hTOx4BiHbuPuYBw8k1s22"
+    },
+    {
+      "album": {
+        "name": "Black Sun (Mixed)",
+        "url": "https://open.spotify.com/album/36QEhnTjTf6mO3rA0Zt8d3"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Black Sun - Mixed",
+      "url": "https://open.spotify.com/track/4io8VrkXB2LDcdc4lJlOmh"
+    },
+    {
+      "album": {
+        "name": "Like A Drug (Mixed)",
+        "url": "https://open.spotify.com/album/6WgHIZeRspaEbp7W9fgH70"
+      },
+      "artists": [
+        {
+          "name": "Ian Ludvig",
+          "url": "https://open.spotify.com/artist/7niJIv5jViZQtDaCEYd1K4"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Like A Drug - Mixed",
+      "url": "https://open.spotify.com/track/2hO6Qo4MojlP17r5Dbdv1i"
+    },
+    {
+      "album": {
+        "name": "Nanana (Mixed)",
+        "url": "https://open.spotify.com/album/59Fz38iNQVKalB5pjFKUhS"
+      },
+      "artists": [
+        {
+          "name": "Santiago Garcia",
+          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Nanana - Mixed",
+      "url": "https://open.spotify.com/track/65qx0wqhZUCjGUmykz3Guc"
+    },
+    {
+      "album": {
+        "name": "One Love - Nandu Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7hu5Z2pO2k0gkcUtU0VqOY"
+      },
+      "artists": [
+        {
+          "name": "Joy Tyson",
+          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
+        },
+        {
+          "name": "Margee",
+          "url": "https://open.spotify.com/artist/3pCd0ReO3RKcf4zvrbT02S"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "One Love - Nandu Remix - Mixed",
+      "url": "https://open.spotify.com/track/1FN2WUe3IOaFA2GF29LskR"
+    },
+    {
+      "album": {
+        "name": "Opportunity - Original Mix (Mixed)",
+        "url": "https://open.spotify.com/album/4ZX5HfWqL6vmV6rkxv9Rha"
+      },
+      "artists": [
+        {
+          "name": "Brasstronaut",
+          "url": "https://open.spotify.com/artist/42Cxt8vXx98Cvdj85iGzTW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369000,
+      "name": "Opportunity - Original Mix - Mixed",
+      "url": "https://open.spotify.com/track/1RFTBqxDRMgD98krsG3JRg"
+    },
+    {
+      "album": {
+        "name": "Paris Is For Lovers (My Love) feat. Tomas H\u00f8ffding [Mixed]",
+        "url": "https://open.spotify.com/album/7fSiJREFLaDXnBnIimwR2o"
+      },
+      "artists": [
+        {
+          "name": "Terranova",
+          "url": "https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP"
+        },
+        {
+          "name": "Tomas H\u00f8ffding",
+          "url": "https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362000,
+      "name": "Paris Is For Lovers (My Love) feat. Tomas H\u00f8ffding - Mixed",
+      "url": "https://open.spotify.com/track/79nwTgmtaUIK3j6Yc5j3VU"
+    },
+    {
+      "album": {
+        "name": "Still Life (Mixed)",
+        "url": "https://open.spotify.com/album/0ZnQGD44OYduXCllRvB3Dx"
+      },
+      "artists": [
+        {
+          "name": "Filippos",
+          "url": "https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Still Life - Mixed",
+      "url": "https://open.spotify.com/track/5bCFWjvXQxOU3U80Dk6QMM"
+    },
+    {
+      "album": {
+        "name": "Tribal Salute (Mixed)",
+        "url": "https://open.spotify.com/album/4vYvuPny5kSG9SrhZuKale"
+      },
+      "artists": [
+        {
+          "name": "Mike Steva",
+          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tribal Salute - Mixed",
+      "url": "https://open.spotify.com/track/49b8zIBEIaeucrHHM68loP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSJLURSJTY88"
 }

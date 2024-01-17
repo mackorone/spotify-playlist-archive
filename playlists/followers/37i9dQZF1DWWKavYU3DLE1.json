@@ -1,580 +1,967 @@
 {
-  "2022-05-30": 17723,
-  "2022-05-31": 17746,
-  "2022-06-01": 17776,
-  "2022-06-02": 17781,
-  "2022-06-03": 17801,
-  "2022-06-04": 17804,
-  "2022-06-05": 17827,
-  "2022-06-06": 17838,
-  "2022-06-07": 17850,
-  "2022-06-08": 17866,
-  "2022-06-09": 17882,
-  "2022-06-10": 17897,
-  "2022-06-11": 17924,
-  "2022-06-12": 17939,
-  "2022-06-13": 17947,
-  "2022-06-14": 17963,
-  "2022-06-15": 17975,
-  "2022-06-16": 17986,
-  "2022-06-17": 18003,
-  "2022-06-18": 18025,
-  "2022-06-19": 18058,
-  "2022-06-20": 18058,
-  "2022-06-21": 18074,
-  "2022-06-22": 18107,
-  "2022-06-23": 18107,
-  "2022-06-24": 18121,
-  "2022-06-25": 18130,
-  "2022-06-26": 18142,
-  "2022-06-27": 18164,
-  "2022-06-28": 18177,
-  "2022-06-29": 18184,
-  "2022-06-30": 18195,
-  "2022-07-01": 18214,
-  "2022-07-02": 18224,
-  "2022-07-03": 18238,
-  "2022-07-04": 18246,
-  "2022-07-05": 18262,
-  "2022-07-06": 18277,
-  "2022-07-07": 18293,
-  "2022-07-08": 18311,
-  "2022-07-09": 18318,
-  "2022-07-10": 18332,
-  "2022-07-11": 18354,
-  "2022-07-12": 18365,
-  "2022-07-13": 18395,
-  "2022-07-14": 18405,
-  "2022-07-15": 18427,
-  "2022-07-16": 18448,
-  "2022-07-17": 18468,
-  "2022-07-18": 18484,
-  "2022-07-19": 18500,
-  "2022-07-20": 18515,
-  "2022-07-21": 18533,
-  "2022-07-22": 18554,
-  "2022-07-23": 18556,
-  "2022-07-24": 18565,
-  "2022-07-25": 18587,
-  "2022-07-26": 18590,
-  "2022-07-27": 18606,
-  "2022-07-28": 18621,
-  "2022-07-29": 18645,
-  "2022-07-30": 18676,
-  "2022-07-31": 18676,
-  "2022-08-01": 18685,
-  "2022-08-02": 18703,
-  "2022-08-03": 18703,
-  "2022-08-04": 18710,
-  "2022-08-05": 18722,
-  "2022-08-06": 18734,
-  "2022-08-07": 18747,
-  "2022-08-08": 18765,
-  "2022-08-09": 18786,
-  "2022-08-10": 18809,
-  "2022-08-11": 18823,
-  "2022-08-12": 18839,
-  "2022-08-13": 18865,
-  "2022-08-14": 18878,
-  "2022-08-15": 18894,
-  "2022-08-16": 18919,
-  "2022-08-17": 18932,
-  "2022-08-18": 18942,
-  "2022-08-19": 18969,
-  "2022-08-20": 18976,
-  "2022-08-21": 18988,
-  "2022-08-22": 19005,
-  "2022-08-23": 19021,
-  "2022-08-24": 19046,
-  "2022-08-25": 19073,
-  "2022-08-26": 19095,
-  "2022-08-27": 19115,
-  "2022-08-28": 19136,
-  "2022-08-29": 19151,
-  "2022-08-30": 19152,
-  "2022-08-31": 19136,
-  "2022-09-01": 19129,
-  "2022-09-02": 19155,
-  "2022-09-03": 19139,
-  "2022-09-04": 19114,
-  "2022-09-05": 19103,
-  "2022-09-06": 19119,
-  "2022-09-07": 19138,
-  "2022-09-09": 19185,
-  "2022-09-10": 19195,
-  "2022-09-11": 19213,
-  "2022-09-12": 19244,
-  "2022-09-13": 19254,
-  "2022-09-15": 19279,
-  "2022-09-16": 19297,
-  "2022-09-17": 19306,
-  "2022-09-18": 19323,
-  "2022-09-19": 19341,
-  "2022-09-20": 19362,
-  "2022-09-21": 19374,
-  "2022-09-22": 19390,
-  "2022-09-23": 19417,
-  "2022-09-24": 19442,
-  "2022-09-25": 19458,
-  "2022-09-26": 19470,
-  "2022-09-27": 19485,
-  "2022-09-28": 19499,
-  "2022-09-29": 19513,
-  "2022-09-30": 19532,
-  "2022-10-01": 19548,
-  "2022-10-02": 19566,
-  "2022-10-03": 19583,
-  "2022-10-04": 19590,
-  "2022-10-05": 19610,
-  "2022-10-06": 19619,
-  "2022-10-07": 19637,
-  "2022-10-08": 19655,
-  "2022-10-09": 19684,
-  "2022-10-10": 19686,
-  "2022-10-11": 19705,
-  "2022-10-12": 19710,
-  "2022-10-13": 19724,
-  "2022-10-14": 19733,
-  "2022-10-15": 19748,
-  "2022-10-16": 19759,
-  "2022-10-17": 19766,
-  "2022-10-18": 19775,
-  "2022-10-19": 19790,
-  "2022-10-20": 19811,
-  "2022-10-21": 19828,
-  "2022-10-22": 19846,
-  "2022-10-23": 19861,
-  "2022-10-24": 19879,
-  "2022-10-25": 19891,
-  "2022-10-26": 19909,
-  "2022-10-27": 19920,
-  "2022-10-28": 19942,
-  "2022-10-29": 19958,
-  "2022-10-30": 19972,
-  "2022-10-31": 19979,
-  "2022-11-01": 19998,
-  "2022-11-02": 20004,
-  "2022-11-03": 20022,
-  "2022-11-04": 20039,
-  "2022-11-05": 20063,
-  "2022-11-06": 20078,
-  "2022-11-07": 20092,
-  "2022-11-08": 20106,
-  "2022-11-09": 20116,
-  "2022-11-10": 20124,
-  "2022-11-11": 20141,
-  "2022-11-12": 20145,
-  "2022-11-13": 20163,
-  "2022-11-14": 20186,
-  "2022-11-15": 20205,
-  "2022-11-16": 20214,
-  "2022-11-17": 20228,
-  "2022-11-18": 20238,
-  "2022-11-19": 20230,
-  "2022-11-20": 20238,
-  "2022-11-21": 20249,
-  "2022-11-22": 20276,
-  "2022-11-23": 20271,
-  "2022-11-24": 20307,
-  "2022-11-25": 20336,
-  "2022-11-26": 20360,
-  "2022-11-27": 20375,
-  "2022-11-28": 20397,
-  "2022-11-29": 20414,
-  "2022-11-30": 20437,
-  "2022-12-01": 20454,
-  "2022-12-02": 20467,
-  "2022-12-03": 20473,
-  "2022-12-04": 20502,
-  "2022-12-05": 20517,
-  "2022-12-06": 20529,
-  "2022-12-07": 20545,
-  "2022-12-08": 20557,
-  "2022-12-09": 20577,
-  "2022-12-10": 20591,
-  "2022-12-11": 20620,
-  "2022-12-12": 20628,
-  "2022-12-13": 20639,
-  "2022-12-14": 20651,
-  "2022-12-15": 20669,
-  "2022-12-16": 20682,
-  "2022-12-17": 20697,
-  "2022-12-18": 20707,
-  "2022-12-19": 20721,
-  "2022-12-20": 20740,
-  "2022-12-21": 20740,
-  "2022-12-22": 20750,
-  "2022-12-24": 20777,
-  "2022-12-25": 20792,
-  "2022-12-26": 20801,
-  "2022-12-27": 20806,
-  "2022-12-28": 20806,
-  "2022-12-29": 20822,
-  "2022-12-30": 20835,
-  "2022-12-31": 20852,
-  "2023-01-01": 20855,
-  "2023-01-02": 20874,
-  "2023-01-03": 20889,
-  "2023-01-04": 20907,
-  "2023-01-05": 20919,
-  "2023-01-06": 20943,
-  "2023-01-07": 20963,
-  "2023-01-08": 20965,
-  "2023-01-09": 20974,
-  "2023-01-10": 20978,
-  "2023-01-11": 20990,
-  "2023-01-12": 21003,
-  "2023-01-13": 21015,
-  "2023-01-14": 21055,
-  "2023-01-15": 21058,
-  "2023-01-16": 21072,
-  "2023-01-17": 21081,
-  "2023-01-18": 21098,
-  "2023-01-19": 21114,
-  "2023-01-20": 21129,
-  "2023-01-21": 21141,
-  "2023-01-22": 21153,
-  "2023-01-23": 21171,
-  "2023-01-24": 21185,
-  "2023-01-25": 21202,
-  "2023-01-26": 21213,
-  "2023-01-27": 21227,
-  "2023-01-28": 21246,
-  "2023-01-29": 21256,
-  "2023-01-30": 21276,
-  "2023-01-31": 21276,
-  "2023-02-01": 21290,
-  "2023-02-02": 21300,
-  "2023-02-03": 21306,
-  "2023-02-04": 21315,
-  "2023-02-05": 21322,
-  "2023-02-06": 21337,
-  "2023-02-07": 21346,
-  "2023-02-08": 21356,
-  "2023-02-09": 21356,
-  "2023-02-10": 21362,
-  "2023-02-11": 21366,
-  "2023-02-12": 21383,
-  "2023-02-13": 21392,
-  "2023-02-14": 21392,
-  "2023-02-15": 21405,
-  "2023-02-16": 21422,
-  "2023-02-17": 21435,
-  "2023-02-18": 21468,
-  "2023-02-19": 21470,
-  "2023-02-20": 21475,
-  "2023-02-21": 21481,
-  "2023-02-22": 21491,
-  "2023-02-23": 21509,
-  "2023-02-24": 21524,
-  "2023-02-25": 21546,
-  "2023-02-26": 21555,
-  "2023-02-27": 21579,
-  "2023-02-28": 21579,
-  "2023-03-01": 21591,
-  "2023-03-02": 21609,
-  "2023-03-03": 21631,
-  "2023-03-04": 21642,
-  "2023-03-05": 21674,
-  "2023-03-06": 21674,
-  "2023-03-07": 21687,
-  "2023-03-08": 21694,
-  "2023-03-09": 21702,
-  "2023-03-10": 21716,
-  "2023-03-11": 21723,
-  "2023-03-12": 21734,
-  "2023-03-13": 21743,
-  "2023-03-14": 21756,
-  "2023-03-15": 21761,
-  "2023-03-16": 21772,
-  "2023-03-17": 21772,
-  "2023-03-18": 21794,
-  "2023-03-19": 21809,
-  "2023-03-20": 21821,
-  "2023-03-21": 21837,
-  "2023-03-22": 21855,
-  "2023-03-23": 21870,
-  "2023-03-24": 21870,
-  "2023-03-25": 21888,
-  "2023-03-26": 21900,
-  "2023-03-27": 21911,
-  "2023-03-28": 21918,
-  "2023-03-29": 21926,
-  "2023-03-30": 21942,
-  "2023-03-31": 21942,
-  "2023-04-01": 21956,
-  "2023-04-02": 21969,
-  "2023-04-03": 21983,
-  "2023-04-04": 21997,
-  "2023-04-05": 22013,
-  "2023-04-06": 22022,
-  "2023-04-07": 22029,
-  "2023-04-09": 22048,
-  "2023-04-10": 22063,
-  "2023-04-11": 22082,
-  "2023-04-12": 22082,
-  "2023-04-13": 22086,
-  "2023-04-14": 22085,
-  "2023-04-15": 22092,
-  "2023-04-16": 22105,
-  "2023-04-17": 22118,
-  "2023-04-18": 22130,
-  "2023-04-19": 22139,
-  "2023-04-20": 22152,
-  "2023-04-21": 22160,
-  "2023-04-22": 22171,
-  "2023-04-23": 22186,
-  "2023-04-24": 22202,
-  "2023-04-25": 22215,
-  "2023-04-26": 22220,
-  "2023-04-27": 22232,
-  "2023-04-28": 22245,
-  "2023-04-29": 22255,
-  "2023-04-30": 22265,
-  "2023-05-01": 22273,
-  "2023-05-02": 22278,
-  "2023-05-03": 22287,
-  "2023-05-04": 22298,
-  "2023-05-05": 22314,
-  "2023-05-06": 22331,
-  "2023-05-07": 22343,
-  "2023-05-08": 22352,
-  "2023-05-09": 22367,
-  "2023-05-10": 22373,
-  "2023-05-11": 22382,
-  "2023-05-12": 22395,
-  "2023-05-13": 22402,
-  "2023-05-14": 22413,
-  "2023-05-15": 22423,
-  "2023-05-16": 22442,
-  "2023-05-17": 22453,
-  "2023-05-18": 22458,
-  "2023-05-19": 22480,
-  "2023-05-20": 22504,
-  "2023-05-21": 22504,
-  "2023-05-22": 22504,
-  "2023-05-23": 22533,
-  "2023-05-24": 22547,
-  "2023-05-25": 22545,
-  "2023-05-26": 22551,
-  "2023-05-27": 22556,
-  "2023-05-28": 22568,
-  "2023-05-29": 22568,
-  "2023-05-30": 22589,
-  "2023-05-31": 22600,
-  "2023-06-01": 22604,
-  "2023-06-02": 22612,
-  "2023-06-03": 22620,
-  "2023-06-04": 22633,
-  "2023-06-05": 22654,
-  "2023-06-06": 22663,
-  "2023-06-07": 22667,
-  "2023-06-08": 22678,
-  "2023-06-09": 22693,
-  "2023-06-10": 22699,
-  "2023-06-11": 22706,
-  "2023-06-12": 22708,
-  "2023-06-13": 22719,
-  "2023-06-14": 22728,
-  "2023-06-15": 22732,
-  "2023-06-16": 4551,
-  "2023-06-17": 4551,
-  "2023-06-18": 4551,
-  "2023-06-19": 4551,
-  "2023-06-20": 4551,
-  "2023-06-21": 4551,
-  "2023-06-22": 4551,
-  "2023-06-23": 4551,
-  "2023-06-24": 4551,
-  "2023-06-25": 4551,
-  "2023-06-26": 4551,
-  "2023-06-27": 4551,
-  "2023-06-28": 4551,
-  "2023-06-29": 4551,
-  "2023-06-30": 4551,
-  "2023-07-01": 4551,
-  "2023-07-02": 4551,
-  "2023-07-03": 4551,
-  "2023-07-04": 4551,
-  "2023-07-05": 4551,
-  "2023-07-06": 4551,
-  "2023-07-07": 4551,
-  "2023-07-08": 4551,
-  "2023-07-09": 4551,
-  "2023-07-10": 4551,
-  "2023-07-11": 4551,
-  "2023-07-12": 4551,
-  "2023-07-13": 4551,
-  "2023-07-14": 4551,
-  "2023-07-15": 4551,
-  "2023-07-16": 4551,
-  "2023-07-17": 4551,
-  "2023-07-18": 4551,
-  "2023-07-19": 4551,
-  "2023-07-20": 4551,
-  "2023-07-21": 4551,
-  "2023-07-22": 4551,
-  "2023-07-23": 4551,
-  "2023-07-24": 4551,
-  "2023-07-25": 4551,
-  "2023-07-26": 4551,
-  "2023-07-27": 4551,
-  "2023-07-28": 4551,
-  "2023-07-29": 4551,
-  "2023-07-30": 4551,
-  "2023-07-31": 4551,
-  "2023-08-01": 4551,
-  "2023-08-02": 4551,
-  "2023-08-03": 4551,
-  "2023-08-04": 4551,
-  "2023-08-05": 4551,
-  "2023-08-06": 4551,
-  "2023-08-07": 4551,
-  "2023-08-08": 4551,
-  "2023-08-09": 4551,
-  "2023-08-10": 4551,
-  "2023-08-11": 4551,
-  "2023-08-12": 4551,
-  "2023-08-13": 4551,
-  "2023-08-14": 4551,
-  "2023-08-15": 4551,
-  "2023-08-16": 4551,
-  "2023-08-17": 4551,
-  "2023-08-18": 4551,
-  "2023-08-19": 4551,
-  "2023-08-20": 4551,
-  "2023-08-21": 4551,
-  "2023-08-22": 4551,
-  "2023-08-23": 4551,
-  "2023-08-24": 4551,
-  "2023-08-25": 4551,
-  "2023-08-26": 4551,
-  "2023-08-27": 4551,
-  "2023-08-28": 4551,
-  "2023-08-29": 4551,
-  "2023-08-30": 4551,
-  "2023-08-31": 4551,
-  "2023-09-01": 4551,
-  "2023-09-02": 4551,
-  "2023-09-03": 4551,
-  "2023-09-04": 4551,
-  "2023-09-05": 4551,
-  "2023-09-06": 4551,
-  "2023-09-07": 4551,
-  "2023-09-08": 4551,
-  "2023-09-09": 4551,
-  "2023-09-10": 4551,
-  "2023-09-11": 4551,
-  "2023-09-12": 4551,
-  "2023-09-13": 4551,
-  "2023-09-14": 4551,
-  "2023-09-15": 4551,
-  "2023-09-16": 4551,
-  "2023-09-17": 4551,
-  "2023-09-18": 4551,
-  "2023-09-19": 4551,
-  "2023-09-20": 4551,
-  "2023-09-21": 4551,
-  "2023-09-22": 4551,
-  "2023-09-23": 4551,
-  "2023-09-24": 4551,
-  "2023-09-25": 4551,
-  "2023-09-26": 4551,
-  "2023-09-27": 4551,
-  "2023-09-28": 4551,
-  "2023-09-29": 4551,
-  "2023-09-30": 4551,
-  "2023-10-01": 4551,
-  "2023-10-02": 4551,
-  "2023-10-03": 4551,
-  "2023-10-04": 4551,
-  "2023-10-05": 4551,
-  "2023-10-06": 4551,
-  "2023-10-07": 4551,
-  "2023-10-08": 4551,
-  "2023-10-09": 4551,
-  "2023-10-10": 4551,
-  "2023-10-11": 4551,
-  "2023-10-12": 4551,
-  "2023-10-13": 4551,
-  "2023-10-14": 4551,
-  "2023-10-15": 4551,
-  "2023-10-16": 4551,
-  "2023-10-17": 4551,
-  "2023-10-18": 4551,
-  "2023-10-19": 4551,
-  "2023-10-20": 4551,
-  "2023-10-21": 4551,
-  "2023-10-22": 4551,
-  "2023-10-23": 4551,
-  "2023-10-24": 4551,
-  "2023-10-25": 4551,
-  "2023-10-26": 4551,
-  "2023-10-27": 4551,
-  "2023-10-28": 4551,
-  "2023-10-29": 4551,
-  "2023-10-30": 4551,
-  "2023-10-31": 4551,
-  "2023-11-01": 4551,
-  "2023-11-02": 4551,
-  "2023-11-03": 4551,
-  "2023-11-04": 4551,
-  "2023-11-05": 4551,
-  "2023-11-06": 4551,
-  "2023-11-07": 4551,
-  "2023-11-08": 4551,
-  "2023-11-09": 4551,
-  "2023-11-10": 4551,
-  "2023-11-11": 4551,
-  "2023-11-12": 4551,
-  "2023-11-13": 4551,
-  "2023-11-14": 4551,
-  "2023-11-15": 4551,
-  "2023-11-16": 4551,
-  "2023-11-17": 4551,
-  "2023-11-18": 4551,
-  "2023-11-19": 4551,
-  "2023-11-20": 4551,
-  "2023-11-21": 4551,
-  "2023-11-22": 4551,
-  "2023-11-23": 4551,
-  "2023-11-24": 4551,
-  "2023-11-25": 4551,
-  "2023-11-26": 4551,
-  "2023-11-27": 4551,
-  "2023-11-28": 4551,
-  "2023-11-29": 4551,
-  "2023-11-30": 4551,
-  "2023-12-01": 4551,
-  "2023-12-02": 4551,
-  "2023-12-03": 4551,
-  "2023-12-04": 4551,
-  "2023-12-05": 4551,
-  "2023-12-06": 4551,
-  "2023-12-07": 4551,
-  "2023-12-08": 4551,
-  "2023-12-09": 4551,
-  "2023-12-10": 4551,
-  "2023-12-11": 4551,
-  "2023-12-12": 4551,
-  "2023-12-13": 4551,
-  "2023-12-14": 4551,
-  "2023-12-15": 4551,
-  "2023-12-16": 4551,
-  "2023-12-17": 4551,
-  "2023-12-18": 4551,
-  "2023-12-19": 4551,
-  "2023-12-20": 4551,
-  "2023-12-21": 4551,
-  "2023-12-22": 4551,
-  "2023-12-23": 4551,
-  "2023-12-24": 4551,
-  "2023-12-25": 4551,
-  "2023-12-26": 4551,
-  "2023-12-27": 4551,
-  "2023-12-30": 4551,
-  "2023-12-31": 4551,
-  "2024-01-01": 4551,
-  "2024-01-02": 4551,
-  "2024-01-03": 4551
+  "2024-01-17": 4551,
+  "date_first_scraped": "2022-05-30",
+  "description": "",
+  "name": "This Is MINO",
+  "tracks": [
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211234,
+      "name": "AGREE",
+      "url": "https://open.spotify.com/track/1wnHJLmlQ6fUBgHnFSewBK"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197867,
+      "name": "ALARM",
+      "url": "https://open.spotify.com/track/7c89xwOTHIM57pvA3sMyr3"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157952,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/5aM2tyY7L4MQeBV0UazDZs"
+    },
+    {
+      "album": {
+        "name": "The MOBB",
+        "url": "https://open.spotify.com/album/6LwgGVAkFEmopo6EROaBpd"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199335,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/03D2t5wn77cpCxH8p99ZvA"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "Book store (Feat. BewhY)",
+      "url": "https://open.spotify.com/track/5nNXoQzBP94F79YZUIEwYZ"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192289,
+      "name": "BOW-WOW",
+      "url": "https://open.spotify.com/track/1L7YNJ3inOkeTQueV47VFN"
+    },
+    {
+      "album": {
+        "name": "Seoul Vibe (Original Soundtrack from The Netflix Film)",
+        "url": "https://open.spotify.com/album/6uZBJUJZY1gkxBGxfksbHs"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177700,
+      "name": "CITY+++ (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1tLPWvrnepX6TK7RDPoWMa"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233543,
+      "name": "Click / Han river view",
+      "url": "https://open.spotify.com/track/7fXD9SvV3bmFqZS5s0GoSd"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/7ESVZxudvtKFXz50jJAqtA"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254198,
+      "name": "DRUNK TALK (feat. sogumm)",
+      "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "FIANC\u00c9",
+      "url": "https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244024,
+      "name": "her",
+      "url": "https://open.spotify.com/track/4PUktRHC4zIkqX7xeW5xaF"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201860,
+      "name": "Hop in (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/3kj5wBL5h6ZSFJpXDS8AZd"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "\uc720\ubcd1\uc7ac",
+          "url": "https://open.spotify.com/artist/5WjqhIhlvR1zPfKPQwnMm1"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258338,
+      "name": "HOPE",
+      "url": "https://open.spotify.com/track/1OnJEQWeOLoSFfwd0gQbUE"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "I want to (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+    },
+    {
+      "album": {
+        "name": "Remember Archive",
+        "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "mino",
+          "url": "https://open.spotify.com/artist/79FL2Qclq9IrxOuEK7SY5X"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Jumper (Feat. Gaeko, MINO)",
+      "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180316,
+      "name": "KILL",
+      "url": "https://open.spotify.com/track/6u6LO5IHbaaS8wODwx8BGq"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187102,
+      "name": "LANGUAGE (feat. BOBBY)",
+      "url": "https://open.spotify.com/track/05Wr1iNSvrliYhjxux5fzS"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220681,
+      "name": "Limousine (Feat. MINO) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/3kGWJTZeGGBQW2MVss3W9z"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "LOSING U",
+      "url": "https://open.spotify.com/track/3G5ffnNapBnhcM5hDxdLrp"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Lost in a crowd",
+      "url": "https://open.spotify.com/track/6s4DENbSKzqF1muURP1o38"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164324,
+      "name": "Love and a boy",
+      "url": "https://open.spotify.com/track/76hrR2MFK6Fei3BAz05Xgb"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213262,
+      "name": "LOVE IN DA CAR",
+      "url": "https://open.spotify.com/track/6cjnezYQ8eJAKSlHPCpp7O"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 3",
+        "url": "https://open.spotify.com/album/78VErwhEFgWJpwFHa35KN1"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "moneyflow",
+      "url": "https://open.spotify.com/track/44673Rco6EaaSWbrsAeaM3"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+      },
+      "artists": [
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244703,
+      "name": "MOSS (Feat. MINO, BOBBY) (Prod. MINO)",
+      "url": "https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174700,
+      "name": "MUAH",
+      "url": "https://open.spotify.com/track/6A6expUttI6fpp4JnH1h5R"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "Ok man (Feat. BOBBY)",
+      "url": "https://open.spotify.com/track/7vuWBis1uxZNjiAHgG10nQ"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 6",
+        "url": "https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248202,
+      "name": "Okay Dokey",
+      "url": "https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8"
+    },
+    {
+      "album": {
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Pow!",
+      "url": "https://open.spotify.com/track/3wah4PDCUgctsqu7EJVZCR"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "\ub9b4\ubcf4\uc774 (lIlBOI)",
+          "url": "https://open.spotify.com/artist/7JchDeFkM9GrLjGZf8p5yK"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "PYRAMID (feat. lIlBOI, Gaeko)",
+      "url": "https://open.spotify.com/track/7o0PjecCCOvotKHfAwI7MV"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177620,
+      "name": "QUESTION MARK",
+      "url": "https://open.spotify.com/track/1LYw8oOQ1gK5ic4QyaSjof"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "ROCKET",
+      "url": "https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Run away",
+      "url": "https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189311,
+      "name": "SAD WALK (feat. sunwoojunga)",
+      "url": "https://open.spotify.com/track/0OxwazYebgNjwxFgGh6bu9"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163090,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3AneSYPZTGWVonpCy9yxAW"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0ON9mWyY2zv996HpPNx2LH"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200312,
+      "name": "The Door (Prod. by ZICO)",
+      "url": "https://open.spotify.com/track/2b5GYIMnWfhoWWnc4UFfQf"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177121,
+      "name": "TRIGGER",
+      "url": "https://open.spotify.com/track/6xsiMUXoJgVo0HY3RK3Y40"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238655,
+      "name": "UM...",
+      "url": "https://open.spotify.com/track/4voHM6VklIAJ33I3rBceIE"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 6",
+        "url": "https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333305,
+      "name": "Victim + Poppin' Bottles",
+      "url": "https://open.spotify.com/track/0PFtFcvzTQ82YgEtjzsHGa"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Wa (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/1Gj0xsP9nxrng7w7d1PQ3U"
+    },
+    {
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165790,
+      "name": "\u31472",
+      "url": "https://open.spotify.com/track/4YEylY77eLVPJeEYWmSxKM"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172714,
+      "name": "\uac54 \uc138 I'm Him",
+      "url": "https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw"
+    },
+    {
+      "album": {
+        "name": "2014 S/S",
+        "url": "https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "\uac54 \uc138 I'm Him",
+      "url": "https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWKavYU3DLE1"
 }

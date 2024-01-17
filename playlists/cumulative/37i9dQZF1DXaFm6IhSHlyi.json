@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "Dahan",
+      "url": "https://open.spotify.com/track/4kEVDvxSiBOBHxB3hR4iqz"
+    },
+    {
+      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 297500,
       "name": "Dahan",
       "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 191171,
       "name": "Forever And Ever",
       "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
@@ -3230,10 +3248,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236516,
+      "name": "Sa Paghimig Mo",
+      "url": "https://open.spotify.com/track/5VIXkOeKsZDYye15Xhr5sT"
     },
     {
       "album": {
@@ -4420,7 +4456,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 223200,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
       "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
@@ -4792,6 +4828,28 @@
     {
       "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
+        "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "\u8aaa\u597d\u4e0d\u54ed",
+      "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
       "artists": [
@@ -4806,7 +4864,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"

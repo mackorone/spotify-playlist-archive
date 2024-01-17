@@ -1,433 +1,747 @@
 {
-  "2022-10-26": 16566,
-  "2022-10-27": 16578,
-  "2022-10-28": 16594,
-  "2022-10-29": 16602,
-  "2022-10-30": 16622,
-  "2022-10-31": 16628,
-  "2022-11-01": 16642,
-  "2022-11-02": 16652,
-  "2022-11-03": 16667,
-  "2022-11-04": 16685,
-  "2022-11-05": 16689,
-  "2022-11-06": 16698,
-  "2022-11-07": 16706,
-  "2022-11-08": 16729,
-  "2022-11-09": 16741,
-  "2022-11-10": 16747,
-  "2022-11-11": 16759,
-  "2022-11-12": 16768,
-  "2022-11-13": 16773,
-  "2022-11-14": 16777,
-  "2022-11-15": 16797,
-  "2022-11-16": 16808,
-  "2022-11-17": 16812,
-  "2022-11-18": 16817,
-  "2022-11-19": 16816,
-  "2022-11-20": 16828,
-  "2022-11-21": 16833,
-  "2022-11-22": 16842,
-  "2022-11-23": 16850,
-  "2022-11-24": 16864,
-  "2022-11-25": 16871,
-  "2022-11-26": 16880,
-  "2022-11-27": 16886,
-  "2022-11-28": 16889,
-  "2022-11-29": 16894,
-  "2022-11-30": 16902,
-  "2022-12-01": 16927,
-  "2022-12-02": 16929,
-  "2022-12-03": 16946,
-  "2022-12-04": 16953,
-  "2022-12-05": 16972,
-  "2022-12-06": 16979,
-  "2022-12-07": 16990,
-  "2022-12-08": 16995,
-  "2022-12-09": 17013,
-  "2022-12-10": 17024,
-  "2022-12-11": 17030,
-  "2022-12-12": 17035,
-  "2022-12-13": 17046,
-  "2022-12-14": 17052,
-  "2022-12-15": 17057,
-  "2022-12-16": 17065,
-  "2022-12-17": 17076,
-  "2022-12-18": 17084,
-  "2022-12-19": 17088,
-  "2022-12-20": 17098,
-  "2022-12-21": 17098,
-  "2022-12-22": 17111,
-  "2022-12-24": 17120,
-  "2022-12-25": 17127,
-  "2022-12-26": 17130,
-  "2022-12-27": 17136,
-  "2022-12-28": 17141,
-  "2022-12-29": 17144,
-  "2022-12-30": 17146,
-  "2022-12-31": 17151,
-  "2023-01-01": 17164,
-  "2023-01-02": 17167,
-  "2023-01-03": 17171,
-  "2023-01-04": 17179,
-  "2023-01-05": 17187,
-  "2023-01-06": 17191,
-  "2023-01-07": 17208,
-  "2023-01-08": 17218,
-  "2023-01-09": 17220,
-  "2023-01-10": 17235,
-  "2023-01-11": 17239,
-  "2023-01-12": 17246,
-  "2023-01-13": 17254,
-  "2023-01-14": 17263,
-  "2023-01-15": 17264,
-  "2023-01-16": 17273,
-  "2023-01-17": 17279,
-  "2023-01-18": 17289,
-  "2023-01-19": 17307,
-  "2023-01-20": 17311,
-  "2023-01-21": 17315,
-  "2023-01-22": 17321,
-  "2023-01-23": 17326,
-  "2023-01-24": 17345,
-  "2023-01-25": 17360,
-  "2023-01-26": 17376,
-  "2023-01-27": 17403,
-  "2023-01-28": 17421,
-  "2023-01-29": 17430,
-  "2023-01-30": 17437,
-  "2023-01-31": 17437,
-  "2023-02-01": 17460,
-  "2023-02-02": 17474,
-  "2023-02-03": 17495,
-  "2023-02-04": 17511,
-  "2023-02-05": 17516,
-  "2023-02-06": 17531,
-  "2023-02-07": 17543,
-  "2023-02-08": 17557,
-  "2023-02-09": 17557,
-  "2023-02-10": 17569,
-  "2023-02-11": 17583,
-  "2023-02-12": 17588,
-  "2023-02-13": 17597,
-  "2023-02-14": 17597,
-  "2023-02-15": 17607,
-  "2023-02-16": 17621,
-  "2023-02-17": 17647,
-  "2023-02-18": 17678,
-  "2023-02-19": 17679,
-  "2023-02-20": 17682,
-  "2023-02-21": 17704,
-  "2023-02-22": 17715,
-  "2023-02-23": 17731,
-  "2023-02-24": 17749,
-  "2023-02-25": 17766,
-  "2023-02-26": 17772,
-  "2023-02-27": 17797,
-  "2023-02-28": 17797,
-  "2023-03-01": 17800,
-  "2023-03-02": 17814,
-  "2023-03-03": 17819,
-  "2023-03-04": 17827,
-  "2023-03-05": 17846,
-  "2023-03-06": 17846,
-  "2023-03-07": 17859,
-  "2023-03-08": 17867,
-  "2023-03-09": 17879,
-  "2023-03-10": 17886,
-  "2023-03-11": 17899,
-  "2023-03-12": 17903,
-  "2023-03-13": 17908,
-  "2023-03-14": 17927,
-  "2023-03-15": 17931,
-  "2023-03-16": 17931,
-  "2023-03-17": 17931,
-  "2023-03-18": 17955,
-  "2023-03-19": 17955,
-  "2023-03-20": 17964,
-  "2023-03-21": 17975,
-  "2023-03-22": 17981,
-  "2023-03-23": 17997,
-  "2023-03-24": 17997,
-  "2023-03-25": 18019,
-  "2023-03-26": 18034,
-  "2023-03-27": 18041,
-  "2023-03-28": 18062,
-  "2023-03-29": 18087,
-  "2023-03-30": 18122,
-  "2023-03-31": 18122,
-  "2023-04-01": 18142,
-  "2023-04-02": 18151,
-  "2023-04-03": 18161,
-  "2023-04-04": 18178,
-  "2023-04-05": 18190,
-  "2023-04-06": 18199,
-  "2023-04-07": 18210,
-  "2023-04-09": 18238,
-  "2023-04-10": 18243,
-  "2023-04-11": 18260,
-  "2023-04-12": 18260,
-  "2023-04-13": 18260,
-  "2023-04-14": 18273,
-  "2023-04-15": 18280,
-  "2023-04-16": 18291,
-  "2023-04-17": 18301,
-  "2023-04-18": 18310,
-  "2023-04-19": 18323,
-  "2023-04-20": 18330,
-  "2023-04-21": 18335,
-  "2023-04-22": 18344,
-  "2023-04-23": 18352,
-  "2023-04-24": 18357,
-  "2023-04-25": 18366,
-  "2023-04-26": 18380,
-  "2023-04-27": 18385,
-  "2023-04-28": 18401,
-  "2023-04-29": 18410,
-  "2023-04-30": 18419,
-  "2023-05-01": 18430,
-  "2023-05-02": 18438,
-  "2023-05-03": 18447,
-  "2023-05-04": 18459,
-  "2023-05-05": 18468,
-  "2023-05-06": 18471,
-  "2023-05-07": 18475,
-  "2023-05-08": 18482,
-  "2023-05-09": 18487,
-  "2023-05-10": 18494,
-  "2023-05-11": 18503,
-  "2023-05-12": 18512,
-  "2023-05-13": 18527,
-  "2023-05-14": 18540,
-  "2023-05-15": 18550,
-  "2023-05-16": 18552,
-  "2023-05-17": 18564,
-  "2023-05-18": 18575,
-  "2023-05-19": 18585,
-  "2023-05-20": 18600,
-  "2023-05-21": 18600,
-  "2023-05-22": 18600,
-  "2023-05-23": 18610,
-  "2023-05-24": 18618,
-  "2023-05-25": 18621,
-  "2023-05-26": 18628,
-  "2023-05-27": 18638,
-  "2023-05-28": 18649,
-  "2023-05-29": 18649,
-  "2023-05-30": 18665,
-  "2023-05-31": 18676,
-  "2023-06-01": 18683,
-  "2023-06-02": 18691,
-  "2023-06-03": 18703,
-  "2023-06-04": 18710,
-  "2023-06-05": 18713,
-  "2023-06-06": 18728,
-  "2023-06-07": 18742,
-  "2023-06-08": 18754,
-  "2023-06-09": 18767,
-  "2023-06-10": 18780,
-  "2023-06-11": 18788,
-  "2023-06-12": 18798,
-  "2023-06-13": 18821,
-  "2023-06-14": 18838,
-  "2023-06-15": 18856,
-  "2023-06-16": 18872,
-  "2023-06-17": 18920,
-  "2023-06-18": 18949,
-  "2023-06-19": 18960,
-  "2023-06-20": 18973,
-  "2023-06-21": 18987,
-  "2023-06-22": 18995,
-  "2023-06-23": 19004,
-  "2023-06-24": 19012,
-  "2023-06-25": 19025,
-  "2023-06-26": 19031,
-  "2023-06-27": 19040,
-  "2023-06-28": 19045,
-  "2023-06-29": 19059,
-  "2023-06-30": 19068,
-  "2023-07-01": 19080,
-  "2023-07-02": 19080,
-  "2023-07-03": 19085,
-  "2023-07-04": 19086,
-  "2023-07-05": 19094,
-  "2023-07-06": 19110,
-  "2023-07-07": 19110,
-  "2023-07-08": 19110,
-  "2023-07-09": 19134,
-  "2023-07-10": 19146,
-  "2023-07-11": 19152,
-  "2023-07-12": 19156,
-  "2023-07-13": 19161,
-  "2023-07-14": 19164,
-  "2023-07-15": 19170,
-  "2023-07-16": 19184,
-  "2023-07-17": 19198,
-  "2023-07-18": 19210,
-  "2023-07-19": 19216,
-  "2023-07-20": 19225,
-  "2023-07-21": 19237,
-  "2023-07-22": 19251,
-  "2023-07-23": 19266,
-  "2023-07-24": 19286,
-  "2023-07-25": 19300,
-  "2023-07-26": 19318,
-  "2023-07-27": 19338,
-  "2023-07-28": 19353,
-  "2023-07-29": 19364,
-  "2023-07-30": 19377,
-  "2023-07-31": 19387,
-  "2023-08-01": 19402,
-  "2023-08-02": 19423,
-  "2023-08-03": 19440,
-  "2023-08-04": 19455,
-  "2023-08-05": 19462,
-  "2023-08-06": 19494,
-  "2023-08-07": 19494,
-  "2023-08-08": 19512,
-  "2023-08-09": 19536,
-  "2023-08-10": 19552,
-  "2023-08-11": 19562,
-  "2023-08-12": 19562,
-  "2023-08-13": 19562,
-  "2023-08-14": 19599,
-  "2023-08-15": 19599,
-  "2023-08-16": 19599,
-  "2023-08-17": 19599,
-  "2023-08-18": 19599,
-  "2023-08-19": 19599,
-  "2023-08-20": 19654,
-  "2023-08-21": 19654,
-  "2023-08-22": 19669,
-  "2023-08-23": 19669,
-  "2023-08-24": 19669,
-  "2023-08-25": 19669,
-  "2023-08-26": 19698,
-  "2023-08-27": 19698,
-  "2023-08-28": 19719,
-  "2023-08-29": 19719,
-  "2023-08-30": 19719,
-  "2023-08-31": 19733,
-  "2023-09-01": 19744,
-  "2023-09-02": 19744,
-  "2023-09-03": 19744,
-  "2023-09-04": 19744,
-  "2023-09-05": 19744,
-  "2023-09-06": 19744,
-  "2023-09-07": 19744,
-  "2023-09-08": 19744,
-  "2023-09-09": 19744,
-  "2023-09-10": 19794,
-  "2023-09-11": 19794,
-  "2023-09-12": 19794,
-  "2023-09-13": 19794,
-  "2023-09-14": 19794,
-  "2023-09-15": 19794,
-  "2023-09-16": 19833,
-  "2023-09-17": 19833,
-  "2023-09-18": 19833,
-  "2023-09-19": 19850,
-  "2023-09-20": 19850,
-  "2023-09-21": 19850,
-  "2023-09-22": 19876,
-  "2023-09-23": 19876,
-  "2023-09-24": 19876,
-  "2023-09-25": 19876,
-  "2023-09-26": 19901,
-  "2023-09-27": 19901,
-  "2023-09-28": 19901,
-  "2023-09-29": 19901,
-  "2023-09-30": 19901,
-  "2023-10-01": 19901,
-  "2023-10-02": 19901,
-  "2023-10-03": 19901,
-  "2023-10-04": 19901,
-  "2023-10-05": 19901,
-  "2023-10-06": 19901,
-  "2023-10-07": 19901,
-  "2023-10-08": 19901,
-  "2023-10-09": 19901,
-  "2023-10-10": 19901,
-  "2023-10-11": 20006,
-  "2023-10-12": 20006,
-  "2023-10-13": 20006,
-  "2023-10-14": 20006,
-  "2023-10-15": 20006,
-  "2023-10-16": 20006,
-  "2023-10-17": 20006,
-  "2023-10-18": 20006,
-  "2023-10-19": 20006,
-  "2023-10-20": 20006,
-  "2023-10-21": 20006,
-  "2023-10-22": 20006,
-  "2023-10-23": 20006,
-  "2023-10-24": 20006,
-  "2023-10-25": 20006,
-  "2023-10-26": 20006,
-  "2023-10-27": 20006,
-  "2023-10-28": 20006,
-  "2023-10-29": 20006,
-  "2023-10-30": 20006,
-  "2023-10-31": 20006,
-  "2023-11-01": 20006,
-  "2023-11-02": 20006,
-  "2023-11-03": 20006,
-  "2023-11-04": 20006,
-  "2023-11-05": 20006,
-  "2023-11-06": 20006,
-  "2023-11-07": 20006,
-  "2023-11-08": 20006,
-  "2023-11-09": 20006,
-  "2023-11-10": 20006,
-  "2023-11-11": 20205,
-  "2023-11-12": 20205,
-  "2023-11-13": 20205,
-  "2023-11-14": 20205,
-  "2023-11-15": 20205,
-  "2023-11-16": 20205,
-  "2023-11-17": 20205,
-  "2023-11-18": 20205,
-  "2023-11-19": 20205,
-  "2023-11-20": 20205,
-  "2023-11-21": 20205,
-  "2023-11-22": 20205,
-  "2023-11-23": 20205,
-  "2023-11-24": 20205,
-  "2023-11-25": 20205,
-  "2023-11-26": 20205,
-  "2023-11-27": 20205,
-  "2023-11-28": 20205,
-  "2023-11-29": 20205,
-  "2023-11-30": 20205,
-  "2023-12-01": 20205,
-  "2023-12-02": 20205,
-  "2023-12-03": 20205,
-  "2023-12-04": 20205,
-  "2023-12-05": 20205,
-  "2023-12-06": 20205,
-  "2023-12-07": 20205,
-  "2023-12-08": 20205,
-  "2023-12-09": 20205,
-  "2023-12-10": 20205,
-  "2023-12-11": 20205,
-  "2023-12-12": 20205,
-  "2023-12-13": 20205,
-  "2023-12-14": 20373,
-  "2023-12-15": 20371,
-  "2023-12-16": 20374,
-  "2023-12-17": 20382,
-  "2023-12-18": 20388,
-  "2023-12-19": 20392,
-  "2023-12-20": 20397,
-  "2023-12-21": 20404,
-  "2023-12-22": 20417,
-  "2023-12-23": 20419,
-  "2023-12-24": 20422,
-  "2023-12-25": 20431,
-  "2023-12-26": 20434,
-  "2023-12-27": 20438,
-  "2023-12-30": 20458,
-  "2023-12-31": 20465,
-  "2024-01-01": 20465,
-  "2024-01-02": 20464,
-  "2024-01-03": 20470
+  "2024-01-17": 20555,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
+  "name": "This Is Alexisonfire",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271255,
+      "name": ".44 Caliber Love Letter",
+      "url": "https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331266,
+      "name": "Blue Spade",
+      "url": "https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237826,
+      "name": "Boiled Frogs",
+      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "Born and Raised",
+      "url": "https://open.spotify.com/track/2cMOVqd7pTOoj3yUHuxbj7"
+    },
+    {
+      "album": {
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Charlie Sheen vs. Henry Rollins",
+      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "Committed to the Con",
+      "url": "https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy"
+    },
+    {
+      "album": {
+        "name": "Complicit",
+        "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238418,
+      "name": "Complicit",
+      "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Conditional Love",
+      "url": "https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139417,
+      "name": "Counterparts and Number Them",
+      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362960,
+      "name": "Dark Night of the Soul",
+      "url": "https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk"
+    },
+    {
+      "album": {
+        "name": "Dogs Blood",
+        "url": "https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 358060,
+      "name": "Dogs Blood",
+      "url": "https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Drunks, Lovers, Sinners and Saints",
+      "url": "https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+    },
+    {
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Get Fighted",
+      "url": "https://open.spotify.com/track/0PzEqBOcfOMU9FZRjeNiz0"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311973,
+      "name": "Happiness by the Kilowatt",
+      "url": "https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292558,
+      "name": "Little Girls Pointing and Laughing",
+      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "No Transitory",
+      "url": "https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257106,
+      "name": "Old Crows",
+      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 308853,
+      "name": "Polaroids of Polar Bears",
+      "url": "https://open.spotify.com/track/6PXHIf7p7t4BaTD1j5jy1U"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Pulmonary Archery",
+      "url": "https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Reverse the Curse",
+      "url": "https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Sans Soleil",
+      "url": "https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s"
+    },
+    {
+      "album": {
+        "name": "Season of the Flood",
+        "url": "https://open.spotify.com/album/0vwBGkJ4skQD7lAq9P7NBm"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 414297,
+      "name": "Season of the Flood",
+      "url": "https://open.spotify.com/track/1Loys2CB8Gwa0VKH6ywoNc"
+    },
+    {
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262093,
+      "name": "Side Walk When She Walks",
+      "url": "https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "album": {
+        "name": "Aussie Tour 7inch",
+        "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280600,
+      "name": "The Dead Heart",
+      "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "This Could Be Anywhere in the World",
+      "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
+    },
+    {
+      "album": {
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "Thrones",
+      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "To a Friend",
+      "url": "https://open.spotify.com/track/2m56Yr1W7LKKHGVTqGT9SY"
+    },
+    {
+      "album": {
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347253,
+      "name": "Tonight, I'm Going to Wash the Hippy",
+      "url": "https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "Waterwings (And Other Poolside Fashion Faux Pas)",
+      "url": "https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "We Are the End",
+      "url": "https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "We Are the Sound",
+      "url": "https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch"
+    },
+    {
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191086,
+      "name": "Where No One Knows",
+      "url": "https://open.spotify.com/track/4KoJronH3cHIYDu7AYFQYV"
+    },
+    {
+      "album": {
+        "name": "Otherness",
+        "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 496346,
+      "name": "World Stops Turning",
+      "url": "https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5"
+    },
+    {
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Young Cardinals",
+      "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnrKQ"
 }

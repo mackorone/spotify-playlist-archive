@@ -4,7 +4,7 @@
 
 > music to show your grandparents this holiday season
 
-1,913 songs - 3 day 15 hr 2 min
+1,915 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Idols](https://open.spotify.com/track/7I0jCfk4lTrl71OgwkVrxR) | [20025xs](https://open.spotify.com/artist/4ImHh6fCpoaFQ1sOINe1Wd) | [Idols](https://open.spotify.com/album/2p9ritvzhP7vv2GAcdawp9) | 3:26 | 2021-01-27 | 2021-07-26 |
 | [idontcareanymore](https://open.spotify.com/track/00QdaM8MmFjRJC8ft0iSt2) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR), [Sawce](https://open.spotify.com/artist/51KBxhZnpafTjP0cKulltO) | [idontcareanymore](https://open.spotify.com/album/3G13cdr2t3bIvIlHu8uj65) | 3:04 | 2021-06-12 | 2022-01-13 |
 | [if u cant beat em join em](https://open.spotify.com/track/1F5p6Va3wnHHSdbqFjvVSr) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [if u cant beat em join em](https://open.spotify.com/album/0ziGeLXl1ml4eyUfyFGJVR) | 2:05 | 2022-04-29 | 2022-09-28 |
+| [if you didnt want me](https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [if you didnt want me](https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu) | 2:34 | 2024-01-05 |  |
 | [if you make music .\. stop it](https://open.spotify.com/track/05Am6HJ1KDkb6J7V4YnS8T) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [if you make music .\. stop it](https://open.spotify.com/album/2KqoboO21Xo45JokzkToFU) | 2:48 | 2020-10-13\* | 2022-03-05 |
 | [ifeelsick](https://open.spotify.com/track/6NUagq9oxR6GxnYqtWNtVx) | [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [ifeelsick](https://open.spotify.com/album/28Q7KzFieALBvdM5m72x3X) | 2:41 | 2023-03-24 | 2023-09-23 |
 | [Igiveup](https://open.spotify.com/track/4o1LJJtgxNYZnTRBMuLAF0) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [Igiveup](https://open.spotify.com/album/15eDJJNhNRxBxmgaPbbZyF) | 1:55 | 2021-01-08 | 2021-02-10 |
@@ -1517,6 +1518,7 @@
 | [Signatune](https://open.spotify.com/track/1Fbup4lGb1trmwL5uyju9V) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Boy](https://open.spotify.com/album/4rxyrUQ0T5tzLG3CJdlLAK) | 1:04 | 2021-05-08 | 2021-05-15 |
 | [Silver](https://open.spotify.com/track/4zkau5yMAm8DublNrrbShN) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd) | 2:02 | 2020-10-23 | 2021-02-10 |
 | [silver](https://open.spotify.com/track/6IG2Gz1o84JKJD9Mbf3bST) | [Atlas in Motion](https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8) | [silver](https://open.spotify.com/album/5QAJHNdXBVvcW9qBFvVMaF) | 1:51 | 2022-08-12 | 2022-10-22 |
+| [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 | 2024-01-05 |  |
 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 | 2021-05-04 | 2021-09-24 |
 | [Simple Blade \(Shubu Remix\)](https://open.spotify.com/track/525Q4MNbGPGG18A5fZBVYu) | [Majetic](https://open.spotify.com/artist/16mDEcXlh5afqFU2q5WAqJ), [Shubu](https://open.spotify.com/artist/3Pjzp02pJBRDm5aOMjZGlz) | [Clurb Dead](https://open.spotify.com/album/1GHAIooqctBdGInAwfxm7K) | 3:00 | 2020-10-13\* | 2020-11-03 |
 | [Sims 2](https://open.spotify.com/track/5Fr21qSH0jTyXH6B9RMVpG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Graham](https://open.spotify.com/artist/2zobEO3AxWFrLey7NoPJET) | [Posh](https://open.spotify.com/album/6YychOqBBwZeoCLDvH2N7k) | 3:14 | 2021-02-10 | 2021-02-26 |
@@ -1561,7 +1563,7 @@
 | [something you hate](https://open.spotify.com/track/3TMgokxBv7lYf80t0jFbqV) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [something you hate](https://open.spotify.com/album/4ldRC2aPeTB8tkeL3fu1JJ) | 1:45 | 2021-11-19 | 2022-02-26 |
 | [SONGS ONLINE](https://open.spotify.com/track/22TZopmNyCqGVVikA49JME) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [SONGS ONLINE](https://open.spotify.com/album/3tBKt7nLYR2c6XfPKtp8fM) | 1:35 | 2022-01-12 | 2022-02-26 |
 | [sophia](https://open.spotify.com/track/0w9MYjghtcR4vP5nzf9B3X) | [st jimmy](https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV) | [sophia](https://open.spotify.com/album/0wecErV7Y2UxY9eIPGn6Bz) | 2:10 | 2021-07-05 | 2021-09-12 |
-| [sore eyes](https://open.spotify.com/track/4mpxGxcp6lmlMY3GIuM4Gg) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore eyes](https://open.spotify.com/album/74xkm9jydfnOkuK0mWELWl) | 2:13 | 2023-09-29 |  |
+| [sore eyes](https://open.spotify.com/track/4mpxGxcp6lmlMY3GIuM4Gg) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore eyes](https://open.spotify.com/album/74xkm9jydfnOkuK0mWELWl) | 2:13 | 2023-09-29 | 2024-01-06 |
 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/1YLPyptvT9Cbr6HV3Cfv0l) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Sorry Bro \(I Love You\)](https://open.spotify.com/album/3FxUOZ8YjzuwKyVTw7CnAs) | 1:27 | 2020-10-13\* | 2021-01-08 |
 | [SOS](https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [SOS](https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv) | 2:22 | 2022-10-14 | 2023-03-25 |
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-03-26 | 2021-12-20 |

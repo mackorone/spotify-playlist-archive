@@ -1,232 +1,1205 @@
 {
-  "2023-05-17": 9367,
-  "2023-05-18": 9436,
-  "2023-05-19": 9469,
-  "2023-05-20": 9544,
-  "2023-05-21": 9544,
-  "2023-05-22": 9544,
-  "2023-05-23": 9621,
-  "2023-05-24": 9683,
-  "2023-05-25": 9687,
-  "2023-05-26": 9705,
-  "2023-05-27": 9729,
-  "2023-05-28": 9752,
-  "2023-05-29": 9752,
-  "2023-05-30": 9796,
-  "2023-05-31": 9820,
-  "2023-06-01": 9837,
-  "2023-06-02": 9850,
-  "2023-06-03": 9865,
-  "2023-06-04": 9880,
-  "2023-06-05": 9913,
-  "2023-06-06": 9932,
-  "2023-06-07": 9956,
-  "2023-06-08": 9975,
-  "2023-06-09": 9994,
-  "2023-06-10": 10015,
-  "2023-06-11": 10038,
-  "2023-06-12": 10061,
-  "2023-06-13": 10080,
-  "2023-06-14": 10080,
-  "2023-06-15": 10100,
-  "2023-06-16": 10123,
-  "2023-06-17": 10139,
-  "2023-06-18": 10151,
-  "2023-06-19": 10168,
-  "2023-06-20": 10188,
-  "2023-06-21": 10207,
-  "2023-06-22": 10227,
-  "2023-06-23": 10245,
-  "2023-06-24": 10266,
-  "2023-06-25": 10277,
-  "2023-06-26": 10293,
-  "2023-06-27": 10309,
-  "2023-06-28": 10308,
-  "2023-06-29": 10323,
-  "2023-06-30": 10328,
-  "2023-07-01": 10348,
-  "2023-07-02": 10348,
-  "2023-07-03": 10361,
-  "2023-07-04": 10368,
-  "2023-07-05": 10383,
-  "2023-07-06": 10401,
-  "2023-07-07": 10401,
-  "2023-07-08": 10408,
-  "2023-07-09": 10417,
-  "2023-07-10": 10427,
-  "2023-07-11": 10437,
-  "2023-07-12": 10451,
-  "2023-07-13": 10457,
-  "2023-07-14": 10469,
-  "2023-07-15": 10478,
-  "2023-07-16": 10491,
-  "2023-07-17": 10519,
-  "2023-07-18": 10541,
-  "2023-07-19": 10565,
-  "2023-07-20": 10577,
-  "2023-07-21": 10600,
-  "2023-07-22": 10614,
-  "2023-07-23": 10624,
-  "2023-07-24": 10640,
-  "2023-07-25": 10658,
-  "2023-07-26": 10674,
-  "2023-07-27": 10691,
-  "2023-07-28": 10703,
-  "2023-07-29": 10713,
-  "2023-07-30": 10722,
-  "2023-07-31": 10737,
-  "2023-08-01": 10748,
-  "2023-08-02": 10763,
-  "2023-08-03": 10783,
-  "2023-08-04": 10798,
-  "2023-08-05": 10809,
-  "2023-08-06": 10830,
-  "2023-08-07": 10830,
-  "2023-08-08": 10836,
-  "2023-08-09": 10853,
-  "2023-08-10": 10867,
-  "2023-08-11": 10875,
-  "2023-08-12": 10888,
-  "2023-08-13": 10890,
-  "2023-08-14": 10898,
-  "2023-08-15": 10917,
-  "2023-08-16": 10917,
-  "2023-08-17": 10934,
-  "2023-08-18": 10938,
-  "2023-08-19": 10941,
-  "2023-08-20": 10951,
-  "2023-08-21": 10961,
-  "2023-08-22": 10972,
-  "2023-08-23": 10979,
-  "2023-08-24": 10992,
-  "2023-08-25": 11007,
-  "2023-08-26": 11016,
-  "2023-08-27": 11024,
-  "2023-08-28": 11028,
-  "2023-08-29": 11033,
-  "2023-08-30": 11039,
-  "2023-08-31": 11046,
-  "2023-09-01": 11060,
-  "2023-09-02": 11060,
-  "2023-09-03": 11061,
-  "2023-09-04": 11068,
-  "2023-09-05": 11070,
-  "2023-09-06": 11067,
-  "2023-09-07": 11067,
-  "2023-09-08": 11072,
-  "2023-09-09": 11079,
-  "2023-09-10": 11086,
-  "2023-09-11": 11094,
-  "2023-09-12": 11106,
-  "2023-09-13": 11112,
-  "2023-09-14": 11117,
-  "2023-09-15": 11125,
-  "2023-09-16": 11133,
-  "2023-09-17": 11137,
-  "2023-09-18": 11138,
-  "2023-09-19": 11146,
-  "2023-09-20": 11145,
-  "2023-09-21": 11162,
-  "2023-09-22": 11162,
-  "2023-09-23": 11167,
-  "2023-09-24": 11175,
-  "2023-09-25": 11186,
-  "2023-09-26": 11190,
-  "2023-09-27": 11197,
-  "2023-09-28": 11197,
-  "2023-09-29": 11201,
-  "2023-09-30": 11200,
-  "2023-10-01": 11208,
-  "2023-10-02": 11213,
-  "2023-10-03": 11219,
-  "2023-10-04": 11220,
-  "2023-10-05": 11218,
-  "2023-10-06": 11230,
-  "2023-10-07": 11239,
-  "2023-10-08": 11245,
-  "2023-10-09": 11250,
-  "2023-10-10": 11257,
-  "2023-10-11": 11268,
-  "2023-10-12": 11268,
-  "2023-10-13": 11268,
-  "2023-10-14": 11268,
-  "2023-10-15": 11269,
-  "2023-10-16": 11274,
-  "2023-10-17": 11280,
-  "2023-10-18": 11288,
-  "2023-10-19": 11290,
-  "2023-10-20": 11294,
-  "2023-10-21": 11294,
-  "2023-10-22": 11300,
-  "2023-10-23": 11304,
-  "2023-10-24": 11312,
-  "2023-10-25": 11315,
-  "2023-10-26": 11327,
-  "2023-10-27": 11335,
-  "2023-10-28": 11342,
-  "2023-10-29": 11350,
-  "2023-10-30": 11373,
-  "2023-10-31": 11373,
-  "2023-11-01": 11380,
-  "2023-11-02": 11381,
-  "2023-11-03": 11387,
-  "2023-11-04": 11396,
-  "2023-11-05": 11401,
-  "2023-11-06": 11402,
-  "2023-11-07": 11408,
-  "2023-11-08": 11417,
-  "2023-11-09": 11425,
-  "2023-11-10": 11434,
-  "2023-11-11": 11441,
-  "2023-11-12": 11451,
-  "2023-11-13": 11463,
-  "2023-11-14": 11476,
-  "2023-11-15": 11476,
-  "2023-11-16": 11499,
-  "2023-11-17": 11510,
-  "2023-11-18": 11510,
-  "2023-11-19": 11523,
-  "2023-11-20": 11535,
-  "2023-11-21": 11539,
-  "2023-11-22": 11546,
-  "2023-11-23": 11549,
-  "2023-11-24": 11560,
-  "2023-11-25": 11570,
-  "2023-11-26": 11580,
-  "2023-11-27": 11588,
-  "2023-11-28": 11597,
-  "2023-11-29": 11613,
-  "2023-11-30": 11613,
-  "2023-12-01": 11616,
-  "2023-12-02": 11620,
-  "2023-12-03": 11631,
-  "2023-12-04": 11639,
-  "2023-12-05": 11652,
-  "2023-12-06": 11660,
-  "2023-12-07": 11667,
-  "2023-12-08": 11672,
-  "2023-12-09": 11678,
-  "2023-12-10": 11682,
-  "2023-12-11": 11682,
-  "2023-12-12": 11687,
-  "2023-12-13": 11702,
-  "2023-12-14": 11713,
-  "2023-12-15": 11722,
-  "2023-12-16": 11728,
-  "2023-12-17": 11734,
-  "2023-12-18": 11742,
-  "2023-12-19": 11747,
-  "2023-12-20": 11763,
-  "2023-12-21": 11776,
-  "2023-12-22": 11779,
-  "2023-12-23": 11785,
-  "2023-12-24": 11790,
-  "2023-12-25": 11795,
-  "2023-12-26": 11803,
-  "2023-12-27": 11805,
-  "2023-12-30": 11828,
-  "2023-12-31": 11835,
-  "2024-01-01": 11846,
-  "2024-01-02": 11850,
-  "2024-01-03": 11862
+  "2024-01-17": 11940,
+  "date_first_scraped": "2023-05-17",
+  "description": "Enjoy music from GRIDMAN UNIVERSE!\u300c\u30b0\u30ea\u30c3\u30c9\u30de\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u5186\u8c37\u30d7\u30ed \u00a92023 TRIGGER\u30fb\u96e8\u5bae\u54f2\uff0f\u300c\u5287\u5834\u7248\u30b0\u30ea\u30c3\u30c9\u30de\u30f3\u30e6\u30cb\u30d0\u30fc\u30b9\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "\u30b0\u30ea\u30c3\u30c9\u30de\u30f3 \u30e6\u30cb\u30d0\u30fc\u30b9 GRIDMAN UNIVERSE",
+  "tracks": [
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "00320 Piano Alterna 01",
+      "url": "https://open.spotify.com/track/0fb9lBuSIZWdUahTlflajj"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "00320 Piano Alterna 02",
+      "url": "https://open.spotify.com/track/7Aqxk2b4UdNeOxmNI8gAsH"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115493,
+      "name": "11141 Overture",
+      "url": "https://open.spotify.com/track/0HEsOng2Fe4HD4y9qdX7aR"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "1144 Fob 02 2023",
+      "url": "https://open.spotify.com/track/3ZsNcGTqWWY4z7Wm9hl4ky"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226893,
+      "name": "1144 Fob 02 CH 2023 Guitar Finish",
+      "url": "https://open.spotify.com/track/2RIuoPYK4BELHL9o7fj3WK"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "1144 Fob 02 CH 2023 Incomplete",
+      "url": "https://open.spotify.com/track/1EV0xpgCt29jvNIHabtmfZ"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "1144 Fob02 No Choir",
+      "url": "https://open.spotify.com/track/38YQs2AafN39B2o5pLOI9Y"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90293,
+      "name": "1187 Am Suspense",
+      "url": "https://open.spotify.com/track/3Y6WNI3HUavX0YrP57muqY"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118146,
+      "name": "1801 Galaxy",
+      "url": "https://open.spotify.com/track/2Dqlb7OUaSpN61RuhqFPlz"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117346,
+      "name": "1801 Galaxy Hiskool Demo",
+      "url": "https://open.spotify.com/track/1HdmJwp6ekxoYknu0SBOyX"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37746,
+      "name": "1803 Ending Option 2023",
+      "url": "https://open.spotify.com/track/6RjQkQXyCA2NY9XhNPn83j"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132360,
+      "name": "2201 Suffocation",
+      "url": "https://open.spotify.com/track/4VhEITpYoy3NhncrWB9yOr"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6VEvk0I8ZCb88YRKodmLeu"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126200,
+      "name": "all this fanfare",
+      "url": "https://open.spotify.com/track/1jaA5hRfbEwZ6XoZyceBtD"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6VEvk0I8ZCb88YRKodmLeu"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "all this human",
+      "url": "https://open.spotify.com/track/4c9VTSv68YiKr7uZXKO7V3"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6VEvk0I8ZCb88YRKodmLeu"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "all this metal",
+      "url": "https://open.spotify.com/track/5HuDmIOGPcBFXcPnptWcwp"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116946,
+      "name": "All This Monster 2023",
+      "url": "https://open.spotify.com/track/1wr2uTvmKipPYkhwpEHS24"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6VEvk0I8ZCb88YRKodmLeu"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        },
+        {
+          "name": "Hazel Fernandes",
+          "url": "https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194280,
+      "name": "ALL THIS TIME",
+      "url": "https://open.spotify.com/track/5UhBmGHWKlt4uIp8aj6qGN"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.1",
+        "url": "https://open.spotify.com/album/1pkl6vUg2UHwnbid2H1iS1"
+      },
+      "artists": [
+        {
+          "name": "GAUMA(CV:Daiki Hamano)",
+          "url": "https://open.spotify.com/artist/4ydFEjg6tbpNS3Hc6ALyc1"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/3HelSKeGkhXX7FIcBs49Hy"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.2",
+        "url": "https://open.spotify.com/album/2qmPLMmvJ6EWyZ1ff4nYVw"
+      },
+      "artists": [
+        {
+          "name": "JUUGA(CV:Hiroshi Kamiya)",
+          "url": "https://open.spotify.com/artist/27Nc8cErSDAaVD4Icrx8U2"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Border",
+      "url": "https://open.spotify.com/track/6b6z4wbF9moMJLZ6lh32R3"
+    },
+    {
+      "album": {
+        "name": "Code \"Gridman\"",
+        "url": "https://open.spotify.com/album/2Tm3ztF3ApRIsaIV16mNFB"
+      },
+      "artists": [
+        {
+          "name": "Gridman (CV: Hikaru Midorikawa)",
+          "url": "https://open.spotify.com/artist/2zScBMinRtVuHTXhw5uyrD"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Code \"Gridman\"",
+      "url": "https://open.spotify.com/track/3i39tneE7KYt1tbn7DfXrX"
+    },
+    {
+      "album": {
+        "name": "Ssss. Gridman Best Album",
+        "url": "https://open.spotify.com/album/6aQw2qzvlDxKXZtnhZhd20"
+      },
+      "artists": [
+        {
+          "name": "Alexis Kerib (CV: Tetsu Inada)",
+          "url": "https://open.spotify.com/artist/4TkqBeBk9hNt16cQVjSFpp"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235013,
+      "name": "Darken Red Sky",
+      "url": "https://open.spotify.com/track/25PbWIICajBHskOl2LitqH"
+    },
+    {
+      "album": {
+        "name": "Shinseiki Chuugakusei",
+        "url": "https://open.spotify.com/album/41DKW7NKZBmLegsrofiOuK"
+      },
+      "artists": [
+        {
+          "name": "Borr (CV: Aoi Yuki)",
+          "url": "https://open.spotify.com/artist/19mZ3Dof0HvYalPLgHkS3u"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Dig Dig Boooom!",
+      "url": "https://open.spotify.com/track/3Q2qRuPqIALpNmS4GxBVJl"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.2",
+        "url": "https://open.spotify.com/album/2qmPLMmvJ6EWyZ1ff4nYVw"
+      },
+      "artists": [
+        {
+          "name": "MUJINA(CV:Ayaka Suwa)",
+          "url": "https://open.spotify.com/artist/5qMrbvJewNN1yVKnvq5nrw"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "doll",
+      "url": "https://open.spotify.com/track/2Y6aL63GfVecDK7QHJZ0SZ"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Dyna March 108BPM 2023",
+      "url": "https://open.spotify.com/track/0vTKDmgIsz3PjP6GCyM0cF"
+    },
+    {
+      "album": {
+        "name": "Glass Beads",
+        "url": "https://open.spotify.com/album/2fGuVJ5ZFsnqZjW2Bm62zy"
+      },
+      "artists": [
+        {
+          "name": "Takarada Rikka (CV: Yume Miyamoto)",
+          "url": "https://open.spotify.com/artist/21U7H2nGyHH8MMDmtFn6Tq"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243213,
+      "name": "Glass Beads",
+      "url": "https://open.spotify.com/track/3kmsVvcpMpxmWHOMOZkXIa"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87786,
+      "name": "Grid and Dyna 108BPM Choir Only 2023",
+      "url": "https://open.spotify.com/track/4aKZ8GuSCYZiyDUu5Bhiix"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25893,
+      "name": "Gridman Universe Choir Logo",
+      "url": "https://open.spotify.com/track/0kWHlbfitsCYDIB006axLj"
+    },
+    {
+      "album": {
+        "name": "GRIDMAN UNIVERSE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5OPOidgqX3BoLo6KQkzD1H"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 25893,
+      "name": "GRIDMAN UNIVERSE choir logo",
+      "url": "https://open.spotify.com/track/2RveP7w35QwRXFUAwiMjpc"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74066,
+      "name": "Gridman Universe Full",
+      "url": "https://open.spotify.com/track/1gaLqqihR7MjLdI7d350iM"
+    },
+    {
+      "album": {
+        "name": "Hikari",
+        "url": "https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257626,
+      "name": "Heartbeat City",
+      "url": "https://open.spotify.com/track/658iD4s4g3KnGdcP43z5ou"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124866,
+      "name": "Hl 29 Mysterious No Vocals 2023",
+      "url": "https://open.spotify.com/track/6O9va6tAhk85qIO1vhZ9AJ"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110453,
+      "name": "Hl Pinch No Vocals 2023",
+      "url": "https://open.spotify.com/track/0qd0wOjpm3wsoIgEKzD6vb"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117106,
+      "name": "Human Love CH Edm 02 2023",
+      "url": "https://open.spotify.com/track/4KZbKPWZyC1fQK1DZpl03N"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96280,
+      "name": "Human Love CH Edm 04 2023",
+      "url": "https://open.spotify.com/track/3iqxmxlpRv5uG5Af2LWCyp"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257359,
+      "name": "Human Love Chhf 2023",
+      "url": "https://open.spotify.com/track/0GXIEq3iQ9LVJkdvZFyYM1"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279946,
+      "name": "Human Love Instrumental 2023",
+      "url": "https://open.spotify.com/track/7B4DPYRFL2fynwqMEQlnxs"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Human Love Robot Love 2023",
+      "url": "https://open.spotify.com/track/28FuYXJpyvf2hLK4pVVwdw"
+    },
+    {
+      "album": {
+        "name": "Ssss. Gridman Original Soundtrack",
+        "url": "https://open.spotify.com/album/5qa9xlnChhzSymqXZQmhrm"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294493,
+      "name": "Humanlove",
+      "url": "https://open.spotify.com/track/61aqCKxEVSsiZUePkHDCpn"
+    },
+    {
+      "album": {
+        "name": "Entertainer",
+        "url": "https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Imperfect",
+      "url": "https://open.spotify.com/track/15If8Hrsgq8jro2a4LSi9A"
+    },
+    {
+      "album": {
+        "name": "Shinseiki Chuugakusei",
+        "url": "https://open.spotify.com/album/41DKW7NKZBmLegsrofiOuK"
+      },
+      "artists": [
+        {
+          "name": "Vit (CV: Masaya Matsukaze)",
+          "url": "https://open.spotify.com/artist/78rGmpve8OH0EPeZjlpkiT"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238586,
+      "name": "Intersection!",
+      "url": "https://open.spotify.com/track/0Hj69B6pb79gAJtu5ah0Hm"
+    },
+    {
+      "album": {
+        "name": "Shinseiki Chuugakusei",
+        "url": "https://open.spotify.com/album/41DKW7NKZBmLegsrofiOuK"
+      },
+      "artists": [
+        {
+          "name": "Samurai Calibur (CV: Ryosuke Takahashi)",
+          "url": "https://open.spotify.com/artist/6yd6gThAeihwWIHKbtNntf"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270760,
+      "name": "Kokoro no Arika",
+      "url": "https://open.spotify.com/track/4jb3swyXr0f0IOFppJrZkC"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.1",
+        "url": "https://open.spotify.com/album/1pkl6vUg2UHwnbid2H1iS1"
+      },
+      "artists": [
+        {
+          "name": "CHISE ASUKAGAWA(CV:Chika Anzai)",
+          "url": "https://open.spotify.com/artist/3kOwkD5isZczhYdaYsdBdc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "KUJIRAGUMO",
+      "url": "https://open.spotify.com/track/21PeGSDQRFBX8QBG8V4Kdh"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131293,
+      "name": "M10 Emotion Strings Edit",
+      "url": "https://open.spotify.com/track/3hRvRAtkNu0FmsAGOwxOKM"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95546,
+      "name": "M10 Galaxy Gridman Edit",
+      "url": "https://open.spotify.com/track/6ovZZoLotbvGYyEooox0Zn"
+    },
+    {
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215346,
+      "name": "Motto Kimi wo Shireba",
+      "url": "https://open.spotify.com/track/6V3cFZ2MeAtktFbQvIK9fb"
+    },
+    {
+      "album": {
+        "name": "Motto Kimi wo Shiritai",
+        "url": "https://open.spotify.com/album/04mCTBnBrh20MhFBCld0If"
+      },
+      "artists": [
+        {
+          "name": "Shinjo Akane (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/20ugT5xGHHB4uzYet9bHsK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263680,
+      "name": "Motto Kimi wo Shiritai",
+      "url": "https://open.spotify.com/track/0LAmcUvp3C8yGx93TfXLT0"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4ammR2hMlm9z1fPg1HIAZo"
+      },
+      "artists": [
+        {
+          "name": "Anti (CV: Kenichi Suzumura)",
+          "url": "https://open.spotify.com/artist/1bTWbUx7aNB5Oq8tZWvQsh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/5rYoElxCsuCUAMo1KAbA9U"
+    },
+    {
+      "album": {
+        "name": "Ssss. Gridman Best Album",
+        "url": "https://open.spotify.com/album/6aQw2qzvlDxKXZtnhZhd20"
+      },
+      "artists": [
+        {
+          "name": "Namiko (CV: Suzuko Mimori)",
+          "url": "https://open.spotify.com/artist/5A6nJ7BMjYq8vPq9Bv5VMI"
+        },
+        {
+          "name": "Hass (CV: Akari Kito)",
+          "url": "https://open.spotify.com/artist/0YqEp1HTSUnIeoFxvusvgx"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "Oh! My Hero!",
+      "url": "https://open.spotify.com/track/4zEE5s5eZlZw4b5LMQUeJV"
+    },
+    {
+      "album": {
+        "name": "Only I Can",
+        "url": "https://open.spotify.com/album/4o69R0PtUE3QUkCHIlQToe"
+      },
+      "artists": [
+        {
+          "name": "Hibiki Yuta (CV: Yuya Hirose)",
+          "url": "https://open.spotify.com/artist/6rpAP6yuUXtzHqMsHdDwws"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256360,
+      "name": "Only I Can",
+      "url": "https://open.spotify.com/track/7rD7Csiz1spnC3X3M7fKfj"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102600,
+      "name": "Peaceful 1805 No Piano Melody",
+      "url": "https://open.spotify.com/track/1dFWn9aeARygCnnnbDnDM5"
+    },
+    {
+      "album": {
+        "name": "Gridman Universe Original Soundtrack",
+        "url": "https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Peaceful Universe",
+      "url": "https://open.spotify.com/track/2rozqNtOqYgx0mSPkz8VzE"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.1",
+        "url": "https://open.spotify.com/album/1pkl6vUg2UHwnbid2H1iS1"
+      },
+      "artists": [
+        {
+          "name": "YOMOGI ASANAKA(CV:Junya Enoki)",
+          "url": "https://open.spotify.com/artist/0s6bZCTZAqSdzBkfkI9IeG"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Stay Gold",
+      "url": "https://open.spotify.com/track/26TNCErUq69Q1GxRtIja2K"
+    },
+    {
+      "album": {
+        "name": "Hikari",
+        "url": "https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284626,
+      "name": "Strobe Memory",
+      "url": "https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.2",
+        "url": "https://open.spotify.com/album/2qmPLMmvJ6EWyZ1ff4nYVw"
+      },
+      "artists": [
+        {
+          "name": "ONIJA(CV:Yuma Uchida)",
+          "url": "https://open.spotify.com/artist/29cVAN6HF52J6C2JwQb6gU"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "STRONGEST!!",
+      "url": "https://open.spotify.com/track/64AIEPWqBGDAbru8saDn0u"
+    },
+    {
+      "album": {
+        "name": "Shinseiki Chuugakusei",
+        "url": "https://open.spotify.com/album/41DKW7NKZBmLegsrofiOuK"
+      },
+      "artists": [
+        {
+          "name": "Max (CV: Katsuyuki Konishi)",
+          "url": "https://open.spotify.com/artist/1V3k0pnNa8J8dzdFveHn7A"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255080,
+      "name": "Tooi Hi no Mirai",
+      "url": "https://open.spotify.com/track/28p8xK5XvpAwEf7Axc6afj"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.1",
+        "url": "https://open.spotify.com/album/1pkl6vUg2UHwnbid2H1iS1"
+      },
+      "artists": [
+        {
+          "name": "KOYOMI YAMANAKA(CV:Yuuichiro Umehara)",
+          "url": "https://open.spotify.com/artist/0u5aPCeTRuisfKBXzm6btH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Toumei Ningen",
+      "url": "https://open.spotify.com/track/0nyFOgTKnAo25tkwJxS3nM"
+    },
+    {
+      "album": {
+        "name": "Ultra Theory",
+        "url": "https://open.spotify.com/album/2pTyoM2kkIl2Ac34BcC5lp"
+      },
+      "artists": [
+        {
+          "name": "Utsumi Sho (CV: Soma Saito)",
+          "url": "https://open.spotify.com/artist/25Aq6Pgs8w6HaNbYYVQrwi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216240,
+      "name": "Ultra Theory",
+      "url": "https://open.spotify.com/track/4KOK1NTV3qjb02DIRDBB2c"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.2",
+        "url": "https://open.spotify.com/album/2qmPLMmvJ6EWyZ1ff4nYVw"
+      },
+      "artists": [
+        {
+          "name": "SIZUMU(CV:Koki Uchiyama)",
+          "url": "https://open.spotify.com/artist/6fDdWq9FUtsIpmU5VuTK2L"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "Un-Understand",
+      "url": "https://open.spotify.com/track/4pUiamVct7B9MUWyggvFFo"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/0ZoP5F7BK2l3qzFXbl1eyy"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271622,
+      "name": "Uni-Verse",
+      "url": "https://open.spotify.com/track/0bJIoYV4eotOGrdKOgjeHj"
+    },
+    {
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "Union",
+      "url": "https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv"
+    },
+    {
+      "album": {
+        "name": "Shinseiki Chuugakusei",
+        "url": "https://open.spotify.com/album/41DKW7NKZBmLegsrofiOuK"
+      },
+      "artists": [
+        {
+          "name": "Shinseiki Chuugakusei",
+          "url": "https://open.spotify.com/artist/2oRrgzK7AtSnCmXaS5MVvj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257240,
+      "name": "Xenon's Justice",
+      "url": "https://open.spotify.com/track/2Sn3vnluOHUhJi3NynIeo9"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.2",
+        "url": "https://open.spotify.com/album/2qmPLMmvJ6EWyZ1ff4nYVw"
+      },
+      "artists": [
+        {
+          "name": "KAIJU Yuuseishisou",
+          "url": "https://open.spotify.com/artist/73fZRS8wZ31wWaEe5dbO8c"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271346,
+      "name": "Yakusoku",
+      "url": "https://open.spotify.com/track/6xcbpYp0qCF9Q0XAVCrcZF"
+    },
+    {
+      "album": {
+        "name": "Hikari",
+        "url": "https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277080,
+      "name": "Youthful Beautiful",
+      "url": "https://open.spotify.com/track/45Q9ALsVFeiaNYC97jJ0Ok"
+    },
+    {
+      "album": {
+        "name": "Ssss. Gridman OP Theme Song \"Union\"",
+        "url": "https://open.spotify.com/album/0nakCPQF1UaZQ5S2apVzSb"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Yume no Hero - Oxt Ver",
+      "url": "https://open.spotify.com/track/6Xw4wGQmZPeRzCq6ME0BFN"
+    },
+    {
+      "album": {
+        "name": "Tone.",
+        "url": "https://open.spotify.com/album/05AYY5Zr5tp4oyfVHkGx6J"
+      },
+      "artists": [
+        {
+          "name": "Suzuko Mimori",
+          "url": "https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255480,
+      "name": "Yumehikou",
+      "url": "https://open.spotify.com/track/6GfnTmz9AyBlRhs2cVrCwg"
+    },
+    {
+      "album": {
+        "name": "SSSS.DYNAZENON CHARACTER SONG.1",
+        "url": "https://open.spotify.com/album/1pkl6vUg2UHwnbid2H1iS1"
+      },
+      "artists": [
+        {
+          "name": "YUME MINAMI(CV:Shion Wakayama)",
+          "url": "https://open.spotify.com/artist/5yysALcgcsBNDxEkhtb4M8"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "YUMEUTSUTSU.GREEN DAYS",
+      "url": "https://open.spotify.com/track/590RBtO32V4pS6boGAVUo6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3MSnVLI9GuJ"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,691 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,273 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 99 | [La Maga](https://open.spotify.com/track/0o5qM2f6QPZXTKSVtc4Oq0) | [Ice Boxxx](https://open.spotify.com/artist/3SJlzyiXomOGjYv5QZ6tyG) | [Heart](https://open.spotify.com/album/2pGHEsQxNUHpDrevP7G8ji) | 3:54 |
 | 100 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCxkYTgyZjczMGNmN2E2MzJhZDIzNTk4YTU2YmNlZjliZTkxOWJiNDk3`
+Snapshot ID: `MCwxN2U3MjQ1ZmEyZThmNGI4ZDg4NDBiZWFiNWU2MDczMGYzYWEwODI4`

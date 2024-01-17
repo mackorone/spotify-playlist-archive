@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Bad Knees",
+        "url": "https://open.spotify.com/album/7CSCH5kpTJKTrNkcSA2epI"
+      },
+      "artists": [
+        {
+          "name": "Ghost-Note",
+          "url": "https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281493,
+      "name": "Bad Knees",
+      "url": "https://open.spotify.com/track/3byYyAtjehzL826iWO61Qx"
+    },
+    {
+      "album": {
         "name": "Punk Funk",
         "url": "https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE"
       },
@@ -1514,6 +1532,32 @@
       "duration_ms": 270085,
       "name": "Deadlines",
       "url": "https://open.spotify.com/track/0JRsF8dhA1REeU30rW9mKL"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3r4E4SkeQM6IlQWPd1X9C3"
+      },
+      "artists": [
+        {
+          "name": "BrhyM",
+          "url": "https://open.spotify.com/artist/3nPNUch0UScZ9OnAOhwUv3"
+        },
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202092,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/01WASYPxeJGNUXwBqVKzaJ"
     },
     {
       "album": {
@@ -2946,6 +2990,10 @@
         {
           "name": "Brass Mafia",
           "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
         }
       ],
       "date_added": "2023-09-08",
@@ -4590,7 +4638,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 393973,
       "name": "Partido Alto",
       "url": "https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33"
@@ -4612,6 +4660,32 @@
       "duration_ms": 371706,
       "name": "Path to Macondo / Those Kind of Blues",
       "url": "https://open.spotify.com/track/2PXbe0cm5zAfdy6bUHACUe"
+    },
+    {
+      "album": {
+        "name": "People Please",
+        "url": "https://open.spotify.com/album/7qyY6HIieONQ26AHPFnyaf"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Calvin Napper",
+          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "People Please",
+      "url": "https://open.spotify.com/track/533Q9dVmAyJBDwiOFTCv36"
     },
     {
       "album": {
@@ -4878,7 +4952,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 176184,
       "name": "Prospect Park West",
       "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
@@ -5620,7 +5694,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 291960,
       "name": "Smelling the Fog",
       "url": "https://open.spotify.com/track/5S7wGZaqXqozXvBJ6MEacl"
@@ -6306,6 +6380,24 @@
       "duration_ms": 241394,
       "name": "Sweet Solitude",
       "url": "https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl"
+    },
+    {
+      "album": {
+        "name": "Swimming in the Sky",
+        "url": "https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294771,
+      "name": "Swimming in the Sky",
+      "url": "https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU"
     },
     {
       "album": {
@@ -7946,7 +8038,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221753,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi"
@@ -7968,7 +8060,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 258143,
       "name": "Why?",
       "url": "https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l"

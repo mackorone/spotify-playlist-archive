@@ -1,569 +1,831 @@
 {
-  "2022-06-10": 26719,
-  "2022-06-11": 26803,
-  "2022-06-12": 26882,
-  "2022-06-13": 26988,
-  "2022-06-14": 27108,
-  "2022-06-15": 27205,
-  "2022-06-16": 27272,
-  "2022-06-17": 27379,
-  "2022-06-18": 27466,
-  "2022-06-19": 27653,
-  "2022-06-20": 27653,
-  "2022-06-21": 27755,
-  "2022-06-22": 27941,
-  "2022-06-23": 27941,
-  "2022-06-24": 28035,
-  "2022-06-25": 28110,
-  "2022-06-26": 28178,
-  "2022-06-27": 28257,
-  "2022-06-28": 28332,
-  "2022-06-29": 28421,
-  "2022-06-30": 28504,
-  "2022-07-01": 28601,
-  "2022-07-02": 28673,
-  "2022-07-03": 28761,
-  "2022-07-04": 28916,
-  "2022-07-05": 29052,
-  "2022-07-06": 29172,
-  "2022-07-07": 29309,
-  "2022-07-08": 29424,
-  "2022-07-09": 29552,
-  "2022-07-10": 29666,
-  "2022-07-11": 29792,
-  "2022-07-12": 29923,
-  "2022-07-13": 30041,
-  "2022-07-14": 30127,
-  "2022-07-15": 30228,
-  "2022-07-16": 30331,
-  "2022-07-17": 30429,
-  "2022-07-18": 30537,
-  "2022-07-19": 30636,
-  "2022-07-20": 30755,
-  "2022-07-21": 30875,
-  "2022-07-22": 30970,
-  "2022-07-23": 31069,
-  "2022-07-24": 31154,
-  "2022-07-25": 31217,
-  "2022-07-26": 31318,
-  "2022-07-27": 31414,
-  "2022-07-28": 31527,
-  "2022-07-29": 31610,
-  "2022-07-30": 31784,
-  "2022-07-31": 31784,
-  "2022-08-01": 31867,
-  "2022-08-02": 32031,
-  "2022-08-03": 32031,
-  "2022-08-04": 32137,
-  "2022-08-05": 32238,
-  "2022-08-06": 32313,
-  "2022-08-07": 32401,
-  "2022-08-08": 32474,
-  "2022-08-09": 32560,
-  "2022-08-10": 32627,
-  "2022-08-11": 32743,
-  "2022-08-12": 32828,
-  "2022-08-13": 32912,
-  "2022-08-14": 33000,
-  "2022-08-15": 33059,
-  "2022-08-16": 33113,
-  "2022-08-17": 33182,
-  "2022-08-18": 33267,
-  "2022-08-19": 33367,
-  "2022-08-20": 33451,
-  "2022-08-21": 33515,
-  "2022-08-22": 33607,
-  "2022-08-23": 33707,
-  "2022-08-24": 33765,
-  "2022-08-25": 33857,
-  "2022-08-26": 33929,
-  "2022-08-27": 34006,
-  "2022-08-28": 34083,
-  "2022-08-29": 34161,
-  "2022-08-30": 34204,
-  "2022-08-31": 34237,
-  "2022-09-01": 34270,
-  "2022-09-02": 34330,
-  "2022-09-03": 34355,
-  "2022-09-04": 34409,
-  "2022-09-05": 34349,
-  "2022-09-06": 34418,
-  "2022-09-07": 34483,
-  "2022-09-09": 34651,
-  "2022-09-10": 34739,
-  "2022-09-11": 34812,
-  "2022-09-12": 34873,
-  "2022-09-13": 34947,
-  "2022-09-15": 35089,
-  "2022-09-16": 35175,
-  "2022-09-17": 35252,
-  "2022-09-18": 35314,
-  "2022-09-19": 35379,
-  "2022-09-20": 35459,
-  "2022-09-21": 35514,
-  "2022-09-22": 35593,
-  "2022-09-23": 35648,
-  "2022-09-24": 35733,
-  "2022-09-25": 35828,
-  "2022-09-26": 35927,
-  "2022-09-27": 36009,
-  "2022-09-28": 36090,
-  "2022-09-29": 36148,
-  "2022-09-30": 36232,
-  "2022-10-01": 36321,
-  "2022-10-02": 36405,
-  "2022-10-03": 36483,
-  "2022-10-04": 36560,
-  "2022-10-05": 36644,
-  "2022-10-06": 36738,
-  "2022-10-07": 36822,
-  "2022-10-08": 36909,
-  "2022-10-09": 37035,
-  "2022-10-10": 37057,
-  "2022-10-11": 37137,
-  "2022-10-12": 37199,
-  "2022-10-13": 37267,
-  "2022-10-14": 37361,
-  "2022-10-15": 37440,
-  "2022-10-16": 37529,
-  "2022-10-17": 37604,
-  "2022-10-18": 37711,
-  "2022-10-19": 37787,
-  "2022-10-20": 37843,
-  "2022-10-21": 37926,
-  "2022-10-22": 37998,
-  "2022-10-23": 38087,
-  "2022-10-24": 38156,
-  "2022-10-25": 38203,
-  "2022-10-26": 38270,
-  "2022-10-27": 38330,
-  "2022-10-28": 38384,
-  "2022-10-29": 38456,
-  "2022-10-30": 38518,
-  "2022-10-31": 38560,
-  "2022-11-01": 38632,
-  "2022-11-02": 38691,
-  "2022-11-03": 38752,
-  "2022-11-04": 38846,
-  "2022-11-05": 38930,
-  "2022-11-06": 39009,
-  "2022-11-07": 39097,
-  "2022-11-08": 39161,
-  "2022-11-09": 39212,
-  "2022-11-10": 39280,
-  "2022-11-11": 39347,
-  "2022-11-12": 39416,
-  "2022-11-13": 39465,
-  "2022-11-14": 39523,
-  "2022-11-15": 39622,
-  "2022-11-16": 39689,
-  "2022-11-17": 39760,
-  "2022-11-18": 39777,
-  "2022-11-19": 39738,
-  "2022-11-20": 39776,
-  "2022-11-21": 39850,
-  "2022-11-22": 40060,
-  "2022-11-23": 40038,
-  "2022-11-24": 40237,
-  "2022-11-25": 40348,
-  "2022-11-26": 40412,
-  "2022-11-27": 40506,
-  "2022-11-28": 40574,
-  "2022-11-29": 40643,
-  "2022-11-30": 40716,
-  "2022-12-01": 40847,
-  "2022-12-02": 40925,
-  "2022-12-03": 41072,
-  "2022-12-04": 41158,
-  "2022-12-05": 41228,
-  "2022-12-06": 41296,
-  "2022-12-07": 41367,
-  "2022-12-08": 41435,
-  "2022-12-09": 41496,
-  "2022-12-10": 41583,
-  "2022-12-11": 41645,
-  "2022-12-12": 41707,
-  "2022-12-13": 41794,
-  "2022-12-14": 41877,
-  "2022-12-15": 41963,
-  "2022-12-16": 42050,
-  "2022-12-17": 42162,
-  "2022-12-18": 42264,
-  "2022-12-19": 42344,
-  "2022-12-20": 42541,
-  "2022-12-21": 42541,
-  "2022-12-22": 42613,
-  "2022-12-24": 42755,
-  "2022-12-25": 42850,
-  "2022-12-26": 42929,
-  "2022-12-27": 43020,
-  "2022-12-28": 43104,
-  "2022-12-29": 43220,
-  "2022-12-30": 43352,
-  "2022-12-31": 43477,
-  "2023-01-01": 43589,
-  "2023-01-02": 43683,
-  "2023-01-03": 43820,
-  "2023-01-04": 43934,
-  "2023-01-05": 44031,
-  "2023-01-06": 44127,
-  "2023-01-07": 44210,
-  "2023-01-08": 44234,
-  "2023-01-09": 44292,
-  "2023-01-10": 44357,
-  "2023-01-11": 44425,
-  "2023-01-12": 44491,
-  "2023-01-13": 44559,
-  "2023-01-14": 44674,
-  "2023-01-15": 44691,
-  "2023-01-16": 44744,
-  "2023-01-17": 44817,
-  "2023-01-18": 44889,
-  "2023-01-19": 44941,
-  "2023-01-20": 44994,
-  "2023-01-21": 45072,
-  "2023-01-22": 45132,
-  "2023-01-23": 45190,
-  "2023-01-24": 45255,
-  "2023-01-25": 45310,
-  "2023-01-26": 45407,
-  "2023-01-27": 45495,
-  "2023-01-28": 45607,
-  "2023-01-29": 45712,
-  "2023-01-30": 45788,
-  "2023-01-31": 45788,
-  "2023-02-01": 46026,
-  "2023-02-02": 46126,
-  "2023-02-03": 46229,
-  "2023-02-04": 46321,
-  "2023-02-05": 46452,
-  "2023-02-06": 46568,
-  "2023-02-07": 46685,
-  "2023-02-08": 46875,
-  "2023-02-09": 46875,
-  "2023-02-10": 46982,
-  "2023-02-11": 47078,
-  "2023-02-12": 47249,
-  "2023-02-13": 47357,
-  "2023-02-14": 47357,
-  "2023-02-15": 47445,
-  "2023-02-16": 47522,
-  "2023-02-17": 47596,
-  "2023-02-18": 47745,
-  "2023-02-19": 47765,
-  "2023-02-20": 47819,
-  "2023-02-21": 47876,
-  "2023-02-22": 47925,
-  "2023-02-23": 47991,
-  "2023-02-24": 48057,
-  "2023-02-25": 48122,
-  "2023-02-26": 48163,
-  "2023-02-27": 48280,
-  "2023-02-28": 48280,
-  "2023-03-01": 48334,
-  "2023-03-02": 48401,
-  "2023-03-03": 48476,
-  "2023-03-04": 48540,
-  "2023-03-05": 48660,
-  "2023-03-06": 48660,
-  "2023-03-07": 48721,
-  "2023-03-08": 48762,
-  "2023-03-09": 48827,
-  "2023-03-10": 48874,
-  "2023-03-11": 48947,
-  "2023-03-12": 49057,
-  "2023-03-13": 49208,
-  "2023-03-14": 49322,
-  "2023-03-15": 49408,
-  "2023-03-16": 49526,
-  "2023-03-17": 49526,
-  "2023-03-18": 49784,
-  "2023-03-19": 49886,
-  "2023-03-20": 50004,
-  "2023-03-21": 50079,
-  "2023-03-22": 50154,
-  "2023-03-23": 50239,
-  "2023-03-24": 50239,
-  "2023-03-25": 50488,
-  "2023-03-26": 50623,
-  "2023-03-27": 50756,
-  "2023-03-28": 50868,
-  "2023-03-29": 50977,
-  "2023-03-30": 51210,
-  "2023-03-31": 51210,
-  "2023-04-01": 51356,
-  "2023-04-02": 51508,
-  "2023-04-03": 51660,
-  "2023-04-04": 51829,
-  "2023-04-05": 51955,
-  "2023-04-06": 52067,
-  "2023-04-07": 52199,
-  "2023-04-09": 52427,
-  "2023-04-10": 52542,
-  "2023-04-11": 52767,
-  "2023-04-12": 52767,
-  "2023-04-13": 52917,
-  "2023-04-14": 53040,
-  "2023-04-15": 53155,
-  "2023-04-16": 53296,
-  "2023-04-17": 53423,
-  "2023-04-18": 53532,
-  "2023-04-19": 53704,
-  "2023-04-20": 53818,
-  "2023-04-21": 53936,
-  "2023-04-22": 54074,
-  "2023-04-23": 54197,
-  "2023-04-24": 54297,
-  "2023-04-25": 54415,
-  "2023-04-26": 54550,
-  "2023-04-27": 54693,
-  "2023-04-28": 54848,
-  "2023-04-29": 54962,
-  "2023-04-30": 55073,
-  "2023-05-01": 55193,
-  "2023-05-02": 55330,
-  "2023-05-03": 55436,
-  "2023-05-04": 55584,
-  "2023-05-05": 55715,
-  "2023-05-06": 55843,
-  "2023-05-07": 55960,
-  "2023-05-08": 56074,
-  "2023-05-09": 56194,
-  "2023-05-10": 56306,
-  "2023-05-11": 56401,
-  "2023-05-12": 56528,
-  "2023-05-13": 56624,
-  "2023-05-14": 56731,
-  "2023-05-15": 56840,
-  "2023-05-16": 56926,
-  "2023-05-17": 57013,
-  "2023-05-18": 57135,
-  "2023-05-19": 57269,
-  "2023-05-20": 57508,
-  "2023-05-21": 57508,
-  "2023-05-22": 57508,
-  "2023-05-23": 57742,
-  "2023-05-24": 57918,
-  "2023-05-25": 57947,
-  "2023-05-26": 58073,
-  "2023-05-27": 58203,
-  "2023-05-28": 58326,
-  "2023-05-29": 58326,
-  "2023-05-30": 58543,
-  "2023-05-31": 58642,
-  "2023-06-01": 58759,
-  "2023-06-02": 58859,
-  "2023-06-03": 58973,
-  "2023-06-04": 59123,
-  "2023-06-05": 59234,
-  "2023-06-06": 59342,
-  "2023-06-07": 59434,
-  "2023-06-08": 59516,
-  "2023-06-09": 59610,
-  "2023-06-10": 59709,
-  "2023-06-11": 59808,
-  "2023-06-12": 59911,
-  "2023-06-13": 60000,
-  "2023-06-14": 60112,
-  "2023-06-15": 60204,
-  "2023-06-16": 60303,
-  "2023-06-17": 60415,
-  "2023-06-18": 60512,
-  "2023-06-19": 60604,
-  "2023-06-20": 60694,
-  "2023-06-21": 60776,
-  "2023-06-22": 60858,
-  "2023-06-23": 60958,
-  "2023-06-24": 61044,
-  "2023-06-25": 61126,
-  "2023-06-26": 61258,
-  "2023-06-27": 61365,
-  "2023-06-28": 61470,
-  "2023-06-29": 61541,
-  "2023-06-30": 61659,
-  "2023-07-01": 61845,
-  "2023-07-02": 61845,
-  "2023-07-03": 61951,
-  "2023-07-04": 62058,
-  "2023-07-05": 62139,
-  "2023-07-06": 62317,
-  "2023-07-07": 62317,
-  "2023-07-08": 62445,
-  "2023-07-09": 62568,
-  "2023-07-10": 62657,
-  "2023-07-11": 62757,
-  "2023-07-12": 62875,
-  "2023-07-13": 62959,
-  "2023-07-14": 63057,
-  "2023-07-15": 63136,
-  "2023-07-16": 63245,
-  "2023-07-17": 63360,
-  "2023-07-18": 63480,
-  "2023-07-19": 63574,
-  "2023-07-20": 63684,
-  "2023-07-21": 63801,
-  "2023-07-22": 63928,
-  "2023-07-23": 64014,
-  "2023-07-24": 64130,
-  "2023-07-25": 64226,
-  "2023-07-26": 64343,
-  "2023-07-27": 64444,
-  "2023-07-28": 64549,
-  "2023-07-29": 64686,
-  "2023-07-30": 64808,
-  "2023-07-31": 64889,
-  "2023-08-01": 64965,
-  "2023-08-02": 65058,
-  "2023-08-03": 65163,
-  "2023-08-04": 65259,
-  "2023-08-05": 65355,
-  "2023-08-06": 65565,
-  "2023-08-07": 65565,
-  "2023-08-08": 65658,
-  "2023-08-09": 65761,
-  "2023-08-10": 65846,
-  "2023-08-11": 65949,
-  "2023-08-12": 66063,
-  "2023-08-13": 66188,
-  "2023-08-14": 66311,
-  "2023-08-15": 66506,
-  "2023-08-16": 66506,
-  "2023-08-17": 66615,
-  "2023-08-18": 66712,
-  "2023-08-19": 66799,
-  "2023-08-20": 66905,
-  "2023-08-21": 66990,
-  "2023-08-22": 67086,
-  "2023-08-23": 67160,
-  "2023-08-24": 67266,
-  "2023-08-25": 67386,
-  "2023-08-26": 67511,
-  "2023-08-27": 67652,
-  "2023-08-28": 67747,
-  "2023-08-29": 67819,
-  "2023-08-30": 67925,
-  "2023-08-31": 68007,
-  "2023-09-01": 68195,
-  "2023-09-02": 68195,
-  "2023-09-03": 68245,
-  "2023-09-04": 68352,
-  "2023-09-05": 68455,
-  "2023-09-06": 68564,
-  "2023-09-07": 68677,
-  "2023-09-08": 68790,
-  "2023-09-09": 68909,
-  "2023-09-10": 68995,
-  "2023-09-11": 69104,
-  "2023-09-12": 69190,
-  "2023-09-13": 69287,
-  "2023-09-14": 69370,
-  "2023-09-15": 69475,
-  "2023-09-16": 69574,
-  "2023-09-17": 69660,
-  "2023-09-18": 69730,
-  "2023-09-19": 69828,
-  "2023-09-20": 69904,
-  "2023-09-21": 69999,
-  "2023-09-22": 70094,
-  "2023-09-23": 70189,
-  "2023-09-24": 70272,
-  "2023-09-25": 70363,
-  "2023-09-26": 70477,
-  "2023-09-27": 70570,
-  "2023-09-28": 70670,
-  "2023-09-29": 70779,
-  "2023-09-30": 70862,
-  "2023-10-01": 70979,
-  "2023-10-02": 71063,
-  "2023-10-03": 71146,
-  "2023-10-04": 71218,
-  "2023-10-05": 71308,
-  "2023-10-06": 71409,
-  "2023-10-07": 71506,
-  "2023-10-08": 71605,
-  "2023-10-09": 71712,
-  "2023-10-10": 71806,
-  "2023-10-11": 71993,
-  "2023-10-12": 71993,
-  "2023-10-13": 72084,
-  "2023-10-14": 72171,
-  "2023-10-15": 72276,
-  "2023-10-16": 72393,
-  "2023-10-17": 72492,
-  "2023-10-18": 72568,
-  "2023-10-19": 72644,
-  "2023-10-20": 72739,
-  "2023-10-21": 72840,
-  "2023-10-22": 72937,
-  "2023-10-23": 73027,
-  "2023-10-24": 73108,
-  "2023-10-25": 73189,
-  "2023-10-26": 73282,
-  "2023-10-27": 73403,
-  "2023-10-28": 73495,
-  "2023-10-29": 73584,
-  "2023-10-30": 73772,
-  "2023-10-31": 73772,
-  "2023-11-01": 73850,
-  "2023-11-02": 73921,
-  "2023-11-03": 74006,
-  "2023-11-04": 74107,
-  "2023-11-05": 74186,
-  "2023-11-06": 74259,
-  "2023-11-07": 74334,
-  "2023-11-08": 74415,
-  "2023-11-09": 74507,
-  "2023-11-10": 74599,
-  "2023-11-11": 74702,
-  "2023-11-12": 74784,
-  "2023-11-13": 74836,
-  "2023-11-14": 74904,
-  "2023-11-15": 74904,
-  "2023-11-16": 75057,
-  "2023-11-17": 75229,
-  "2023-11-18": 75229,
-  "2023-11-19": 75320,
-  "2023-11-20": 75409,
-  "2023-11-21": 75476,
-  "2023-11-22": 75567,
-  "2023-11-23": 75645,
-  "2023-11-24": 75713,
-  "2023-11-25": 75794,
-  "2023-11-26": 75886,
-  "2023-11-27": 75964,
-  "2023-11-28": 76048,
-  "2023-11-29": 76222,
-  "2023-11-30": 76222,
-  "2023-12-01": 76335,
-  "2023-12-02": 76419,
-  "2023-12-03": 76513,
-  "2023-12-04": 76605,
-  "2023-12-05": 76689,
-  "2023-12-06": 76792,
-  "2023-12-07": 76900,
-  "2023-12-08": 77027,
-  "2023-12-09": 77159,
-  "2023-12-10": 77326,
-  "2023-12-11": 77451,
-  "2023-12-12": 77579,
-  "2023-12-13": 77709,
-  "2023-12-14": 77862,
-  "2023-12-15": 77950,
-  "2023-12-16": 78084,
-  "2023-12-17": 78199,
-  "2023-12-18": 78303,
-  "2023-12-19": 78394,
-  "2023-12-20": 78528,
-  "2023-12-21": 78652,
-  "2023-12-22": 78763,
-  "2023-12-23": 78882,
-  "2023-12-24": 79005,
-  "2023-12-25": 79125,
-  "2023-12-26": 79218,
-  "2023-12-27": 79320,
-  "2023-12-30": 79642,
-  "2023-12-31": 79744,
-  "2024-01-01": 79857,
-  "2024-01-02": 79958,
-  "2024-01-03": 80078
+  "2024-01-17": 81617,
+  "date_first_scraped": "2022-06-10",
+  "description": "Enjoy music from \"Panty & Stocking with Garterbelt\"! \u300c\u30d1\u30f3\u30c6\u30a3\uff06\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0with\u30ac\u30fc\u30bf\u30fc\u30d9\u30eb\u30c8\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01(C)2010 GAINAX/GEEKS",
+  "name": "Panty & Stocking with Garterbelt  -\u30d1\u30f3\u30c6\u30a3\uff06\u30b9\u30c8\u30c3\u30ad\u30f3\u30b0with\u30ac\u30fc\u30bf\u30fc\u30d9\u30eb\u30c8-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86386,
+      "name": "Beverly Hills Cock",
+      "url": "https://open.spotify.com/track/5jYGnxGMS9wxTmD4k4ZNhU"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119717,
+      "name": "Beverly Hills Cock Part.2",
+      "url": "https://open.spotify.com/track/3pz9gixgeWV584UGp3pQoA"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        },
+        {
+          "name": "Emyli",
+          "url": "https://open.spotify.com/artist/695nw8wxaQIV2nnaQSUm4W"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302520,
+      "name": "Champion (TeddyLoid Remix)",
+      "url": "https://open.spotify.com/track/732s4vcnQ6yIwR6m9JpQPu"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        },
+        {
+          "name": "Emyli",
+          "url": "https://open.spotify.com/artist/695nw8wxaQIV2nnaQSUm4W"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291553,
+      "name": "Champion feat. Emyli",
+      "url": "https://open.spotify.com/track/1oPMSoOUyVtFcQQBh26Zd8"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43470,
+      "name": "Cherry Corrida III~a case of Brief's loss~",
+      "url": "https://open.spotify.com/track/0IWWxSnxGv6ZC3Qv3iTbQX"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66387,
+      "name": "Cherry Corrida II~a case of Garterbelt's loss~",
+      "url": "https://open.spotify.com/track/4ztpbgTrka8Y2vJyU94zzt"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126985,
+      "name": "Cherry Corrida IV~dry bitch and wet goth girl~",
+      "url": "https://open.spotify.com/track/1JP9LeGhSDwmTJ0tlVo0bG"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "Cherry Corrida IX~cock chopper blues or cock fucker rhapsody~",
+      "url": "https://open.spotify.com/track/2nOkBCb3D0gTNPf9KzVoym"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73449,
+      "name": "Cherry Corrida I~cocks gone: the death of a bitch~",
+      "url": "https://open.spotify.com/track/0XxTgWIxTH2F7frS0RRg8s"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41300,
+      "name": "Cherry Corrida VIII~When You Wish upon a Hole~",
+      "url": "https://open.spotify.com/track/1LduL4kJjA6ZPZXhOaL9l1"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56529,
+      "name": "Cherry Corrida VII~black, huge, solid and stinky~",
+      "url": "https://open.spotify.com/track/5YdC6wRm6PoxfCwUTow1Xj"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59968,
+      "name": "Cherry Corrida VI~the advent of angels?~",
+      "url": "https://open.spotify.com/track/1hzPDOPexto9IoYNu6vbWT"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68618,
+      "name": "Cherry Corrida V~Dmitri Fullchinkov the cock chopper~",
+      "url": "https://open.spotify.com/track/2tiKzpVCfSMhKPs4F8blDz"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73786,
+      "name": "Cherry Corrida X~cocks back: the resurrection of a bitch~",
+      "url": "https://open.spotify.com/track/727QnkydHKiDVsVFvzd4Ga"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273130,
+      "name": "Cherryboy Riot",
+      "url": "https://open.spotify.com/track/66c7ebI267RxOKDyNXVyAK"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264449,
+      "name": "Cherryboy Riot Part.2",
+      "url": "https://open.spotify.com/track/7hTmnWjFtqEKK9QZNK3swt"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        },
+        {
+          "name": "Mariya Ise",
+          "url": "https://open.spotify.com/artist/4MSMjVHYzFYBBlvP1ocpdr"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330163,
+      "name": "CHOCOLAT (TeddyLoid Remix)",
+      "url": "https://open.spotify.com/track/1sKQey8zPNYq1b5r0ei4X0"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        },
+        {
+          "name": "Mariya Ise",
+          "url": "https://open.spotify.com/artist/30e1S6526bG333RFXseTNq"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246805,
+      "name": "CHOCOLAT feat. Mariya Ise",
+      "url": "https://open.spotify.com/track/61QbfdMKmgCgGwWIdEeHNb"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274801,
+      "name": "Corset Theme",
+      "url": "https://open.spotify.com/track/0ZrciLq4QAVgLsNGTQ0aGX"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        },
+        {
+          "name": "Debra Zeer",
+          "url": "https://open.spotify.com/artist/6YfIb5WIM77pQkAS8TO6D4"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362199,
+      "name": "D City Rock (TeddyLoid Live Remix)",
+      "url": "https://open.spotify.com/track/2N7xwkI6Kfn8tQvIo4pQ2O"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        },
+        {
+          "name": "Debra Zeer",
+          "url": "https://open.spotify.com/artist/0GSQ7aePXFnV0r05ioJuUy"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "D City Rock feat. Debra Zeer",
+      "url": "https://open.spotify.com/track/30kpqo2lUMRZcn9CwRXNPR"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Dancefloor Orgy",
+      "url": "https://open.spotify.com/track/6RCzkUigEOOsjTqt5Okm8l"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49786,
+      "name": "Daten City",
+      "url": "https://open.spotify.com/track/42euJxiRAEr7iPm2LmCSnu"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9"
+        },
+        {
+          "name": "Kodai of KinKieS",
+          "url": "https://open.spotify.com/artist/2koXFhsqTmNomysrtki6bp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256680,
+      "name": "EPTM feat. Kodai of KinKieS (Booty Bronx Remix)",
+      "url": "https://open.spotify.com/track/2c2mQZYv014QOPXKAsdg0H"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "Mitsunori Ikeda",
+          "url": "https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx"
+        },
+        {
+          "name": "Aimee B",
+          "url": "https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360256,
+      "name": "Fallen Angel (El Poco Maro Drum'n'Bass Remix)",
+      "url": "https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Mitsunori Ikeda",
+          "url": "https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx"
+        },
+        {
+          "name": "Aimee B",
+          "url": "https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Fallen Angel feat. Aimee B",
+      "url": "https://open.spotify.com/track/6JXAzCUM0Drgc4FgVA6mGC"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202139,
+      "name": "Fly Away (El Poco Maro Dubstep Remix)",
+      "url": "https://open.spotify.com/track/2PvQDqzFlHp9yvyxhF4H40"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314521,
+      "name": "Fly Away (Taku & TeddyLoid For the Club Edit)",
+      "url": "https://open.spotify.com/track/4jqISXcx98XAGQ5qmcgeoD"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246283,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/3BJM0zYxciKF2qFUWh9R5t"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Jun Sasaki",
+          "url": "https://open.spotify.com/artist/4j6V7OwljwHVFJjDMbripN"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63900,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4IGMaAyJSdmB6aCeZrZgGw"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "Booty Bronx",
+          "url": "https://open.spotify.com/artist/77GkDg3WzWxJ5Qna5m5SEA"
+        },
+        {
+          "name": "Mitsunori Ikeda",
+          "url": "https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "Jumping Mole (Nerdcore Switch)",
+      "url": "https://open.spotify.com/track/6iKR0Pt6xVSdbutHQ9IcFf"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        },
+        {
+          "name": "Mariya Ise aka Stocking",
+          "url": "https://open.spotify.com/artist/41YPK4nvGCT5ovh12DBHHn"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285624,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/3OLKyuQB5bWqLy2TYM09XF"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119366,
+      "name": "Pantscada",
+      "url": "https://open.spotify.com/track/3HGAHL7UU7r4grC2iGLLyL"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121203,
+      "name": "S-Trip",
+      "url": "https://open.spotify.com/track/65n3JsGjVrU1nnek8DrUXD"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Booty Bronx",
+          "url": "https://open.spotify.com/artist/77GkDg3WzWxJ5Qna5m5SEA"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323500,
+      "name": "Schranz Chase",
+      "url": "https://open.spotify.com/track/7Gh1w0rnihbqQpn8Rk1u8m"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "See-Through",
+      "url": "https://open.spotify.com/track/2vd92UGsD75QE42uOoIIiP"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270001,
+      "name": "Technodildo",
+      "url": "https://open.spotify.com/track/4OwsuWTXgQVu1aYnoH4XNC"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TCY FORCE",
+          "url": "https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172900,
+      "name": "Tenga Step",
+      "url": "https://open.spotify.com/track/03FCAn6foOXciSPSkRR07m"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32765,
+      "name": "Theme for Panty & Stocking",
+      "url": "https://open.spotify.com/track/1QV930MbloRewXxzICU3v4"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "Hoshina Anniversary",
+          "url": "https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292835,
+      "name": "Theme for Panty & Stocking (Hoshina Anniversary Remix)",
+      "url": "https://open.spotify.com/track/5iiT42kw0YDvybyBnf6cy1"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254053,
+      "name": "Theme for Scanty & Knee Socks",
+      "url": "https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk"
+    },
+    {
+      "album": {
+        "name": "Panty & Stocking with Garterbelt \"THE WORST ALBUM\"",
+        "url": "https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP"
+      },
+      "artists": [
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227039,
+      "name": "Yesline Dub",
+      "url": "https://open.spotify.com/track/4me6Bxcc3Po5OFf71YosnN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx"
 }

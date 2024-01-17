@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Under the Western Freeway",
+        "url": "https://open.spotify.com/album/4h99OhINkm39y6qs7dYOwM"
+      },
+      "artists": [
+        {
+          "name": "Grandaddy",
+          "url": "https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "A.M. 180",
+      "url": "https://open.spotify.com/track/5qaRaOepyRo8PYVwMFH5yT"
+    },
+    {
+      "album": {
+        "name": "Under the Western Freeway",
         "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
       },
       "artists": [
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211000,
       "name": "Galaxie / Hello, Goodbye",
       "url": "https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ"
@@ -3808,7 +3826,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
+      "name": "That's When I Reach for My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
@@ -3880,7 +3898,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 314173,
-      "name": "The Boy With The Arab Strap",
+      "name": "The Boy with the Arab Strap",
       "url": "https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp"
     },
     {

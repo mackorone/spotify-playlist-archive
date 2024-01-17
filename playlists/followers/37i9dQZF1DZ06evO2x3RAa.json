@@ -1,731 +1,1381 @@
 {
-  "2021-12-29": 251,
-  "2021-12-30": 251,
-  "2021-12-31": 253,
-  "2022-01-01": 253,
-  "2022-01-02": 253,
-  "2022-01-03": 253,
-  "2022-01-04": 253,
-  "2022-01-05": 253,
-  "2022-01-06": 253,
-  "2022-01-07": 253,
-  "2022-01-08": 253,
-  "2022-01-09": 253,
-  "2022-01-10": 253,
-  "2022-01-11": 254,
-  "2022-01-12": 254,
-  "2022-01-13": 256,
-  "2022-01-14": 256,
-  "2022-01-15": 256,
-  "2022-01-16": 256,
-  "2022-01-17": 256,
-  "2022-01-18": 256,
-  "2022-01-19": 256,
-  "2022-01-20": 256,
-  "2022-01-21": 256,
-  "2022-01-22": 256,
-  "2022-01-23": 257,
-  "2022-01-24": 258,
-  "2022-01-25": 258,
-  "2022-01-26": 258,
-  "2022-01-27": 258,
-  "2022-01-28": 259,
-  "2022-01-29": 259,
-  "2022-01-30": 259,
-  "2022-01-31": 260,
-  "2022-02-01": 260,
-  "2022-02-02": 260,
-  "2022-02-03": 261,
-  "2022-02-04": 261,
-  "2022-02-05": 261,
-  "2022-02-06": 261,
-  "2022-02-07": 261,
-  "2022-02-08": 261,
-  "2022-02-09": 261,
-  "2022-02-10": 261,
-  "2022-02-11": 261,
-  "2022-02-12": 261,
-  "2022-02-13": 261,
-  "2022-02-14": 261,
-  "2022-02-15": 261,
-  "2022-02-16": 261,
-  "2022-02-17": 261,
-  "2022-02-18": 262,
-  "2022-02-19": 262,
-  "2022-02-20": 263,
-  "2022-02-21": 263,
-  "2022-02-22": 263,
-  "2022-02-23": 263,
-  "2022-02-24": 263,
-  "2022-02-25": 263,
-  "2022-02-26": 263,
-  "2022-02-27": 263,
-  "2022-02-28": 263,
-  "2022-03-01": 263,
-  "2022-03-02": 263,
-  "2022-03-03": 264,
-  "2022-03-04": 264,
-  "2022-03-05": 264,
-  "2022-03-06": 264,
-  "2022-03-07": 265,
-  "2022-03-08": 265,
-  "2022-03-09": 265,
-  "2022-03-10": 264,
-  "2022-03-11": 264,
-  "2022-03-12": 264,
-  "2022-03-13": 264,
-  "2022-03-14": 265,
-  "2022-03-15": 265,
-  "2022-03-16": 265,
-  "2022-03-17": 265,
-  "2022-03-18": 265,
-  "2022-03-19": 265,
-  "2022-03-20": 265,
-  "2022-03-21": 265,
-  "2022-03-22": 265,
-  "2022-03-23": 265,
-  "2022-03-24": 266,
-  "2022-03-25": 266,
-  "2022-03-26": 266,
-  "2022-03-27": 267,
-  "2022-03-28": 267,
-  "2022-03-30": 267,
-  "2022-03-31": 268,
-  "2022-04-01": 268,
-  "2022-04-02": 268,
-  "2022-04-03": 268,
-  "2022-04-04": 266,
-  "2022-04-05": 269,
-  "2022-04-06": 270,
-  "2022-04-07": 270,
-  "2022-04-08": 270,
-  "2022-04-09": 270,
-  "2022-04-10": 272,
-  "2022-04-11": 272,
-  "2022-04-12": 272,
-  "2022-04-13": 273,
-  "2022-04-14": 273,
-  "2022-04-15": 272,
-  "2022-04-16": 272,
-  "2022-04-17": 273,
-  "2022-04-18": 274,
-  "2022-04-19": 274,
-  "2022-04-20": 274,
-  "2022-04-21": 275,
-  "2022-04-22": 275,
-  "2022-04-23": 276,
-  "2022-04-24": 276,
-  "2022-04-25": 277,
-  "2022-04-26": 277,
-  "2022-04-27": 279,
-  "2022-04-28": 279,
-  "2022-04-29": 279,
-  "2022-04-30": 279,
-  "2022-05-01": 279,
-  "2022-05-02": 279,
-  "2022-05-03": 279,
-  "2022-05-04": 279,
-  "2022-05-05": 279,
-  "2022-05-06": 280,
-  "2022-05-07": 280,
-  "2022-05-08": 280,
-  "2022-05-09": 280,
-  "2022-05-10": 280,
-  "2022-05-11": 281,
-  "2022-05-12": 280,
-  "2022-05-13": 280,
-  "2022-05-14": 280,
-  "2022-05-15": 281,
-  "2022-05-16": 281,
-  "2022-05-17": 281,
-  "2022-05-18": 281,
-  "2022-05-19": 281,
-  "2022-05-20": 281,
-  "2022-05-21": 282,
-  "2022-05-22": 282,
-  "2022-05-23": 282,
-  "2022-05-24": 283,
-  "2022-05-25": 283,
-  "2022-05-26": 283,
-  "2022-05-27": 283,
-  "2022-05-28": 283,
-  "2022-05-29": 284,
-  "2022-05-30": 284,
-  "2022-05-31": 284,
-  "2022-06-01": 284,
-  "2022-06-02": 284,
-  "2022-06-03": 284,
-  "2022-06-04": 284,
-  "2022-06-05": 284,
-  "2022-06-06": 284,
-  "2022-06-07": 284,
-  "2022-06-08": 285,
-  "2022-06-09": 285,
-  "2022-06-10": 285,
-  "2022-06-11": 285,
-  "2022-06-12": 285,
-  "2022-06-13": 285,
-  "2022-06-14": 286,
-  "2022-06-15": 286,
-  "2022-06-16": 286,
-  "2022-06-17": 289,
-  "2022-06-18": 289,
-  "2022-06-19": 290,
-  "2022-06-20": 290,
-  "2022-06-21": 291,
-  "2022-06-22": 291,
-  "2022-06-23": 291,
-  "2022-06-24": 291,
-  "2022-06-25": 291,
-  "2022-06-26": 291,
-  "2022-06-27": 291,
-  "2022-06-28": 291,
-  "2022-06-29": 291,
-  "2022-06-30": 291,
-  "2022-07-01": 291,
-  "2022-07-02": 291,
-  "2022-07-03": 292,
-  "2022-07-04": 292,
-  "2022-07-05": 292,
-  "2022-07-06": 292,
-  "2022-07-07": 294,
-  "2022-07-08": 295,
-  "2022-07-09": 295,
-  "2022-07-10": 295,
-  "2022-07-11": 295,
-  "2022-07-12": 295,
-  "2022-07-13": 295,
-  "2022-07-14": 295,
-  "2022-07-15": 295,
-  "2022-07-16": 296,
-  "2022-07-17": 296,
-  "2022-07-18": 296,
-  "2022-07-19": 296,
-  "2022-07-20": 296,
-  "2022-07-21": 296,
-  "2022-07-22": 296,
-  "2022-07-23": 296,
-  "2022-07-24": 296,
-  "2022-07-25": 297,
-  "2022-07-26": 297,
-  "2022-07-27": 297,
-  "2022-07-28": 297,
-  "2022-07-29": 297,
-  "2022-07-30": 297,
-  "2022-07-31": 297,
-  "2022-08-01": 298,
-  "2022-08-02": 299,
-  "2022-08-03": 299,
-  "2022-08-04": 299,
-  "2022-08-05": 299,
-  "2022-08-06": 299,
-  "2022-08-07": 300,
-  "2022-08-08": 300,
-  "2022-08-09": 301,
-  "2022-08-10": 301,
-  "2022-08-11": 301,
-  "2022-08-12": 301,
-  "2022-08-13": 302,
-  "2022-08-14": 301,
-  "2022-08-15": 301,
-  "2022-08-16": 301,
-  "2022-08-17": 301,
-  "2022-08-18": 301,
-  "2022-08-19": 302,
-  "2022-08-20": 302,
-  "2022-08-21": 303,
-  "2022-08-22": 303,
-  "2022-08-23": 303,
-  "2022-08-24": 304,
-  "2022-08-25": 305,
-  "2022-08-26": 304,
-  "2022-08-27": 305,
-  "2022-08-28": 305,
-  "2022-08-29": 305,
-  "2022-08-30": 305,
-  "2022-08-31": 307,
-  "2022-09-01": 307,
-  "2022-09-02": 307,
-  "2022-09-03": 307,
-  "2022-09-04": 307,
-  "2022-09-05": 307,
-  "2022-09-06": 307,
-  "2022-09-07": 307,
-  "2022-09-09": 307,
-  "2022-09-10": 307,
-  "2022-09-11": 307,
-  "2022-09-12": 307,
-  "2022-09-13": 307,
-  "2022-09-15": 308,
-  "2022-09-16": 308,
-  "2022-09-17": 308,
-  "2022-09-18": 309,
-  "2022-09-19": 309,
-  "2022-09-20": 309,
-  "2022-09-21": 309,
-  "2022-09-22": 310,
-  "2022-09-23": 310,
-  "2022-09-24": 310,
-  "2022-09-25": 310,
-  "2022-09-26": 311,
-  "2022-09-27": 311,
-  "2022-09-28": 311,
-  "2022-09-29": 311,
-  "2022-09-30": 311,
-  "2022-10-01": 311,
-  "2022-10-02": 311,
-  "2022-10-03": 311,
-  "2022-10-04": 311,
-  "2022-10-05": 311,
-  "2022-10-06": 311,
-  "2022-10-07": 311,
-  "2022-10-08": 311,
-  "2022-10-09": 311,
-  "2022-10-10": 311,
-  "2022-10-11": 311,
-  "2022-10-12": 311,
-  "2022-10-13": 311,
-  "2022-10-14": 311,
-  "2022-10-15": 311,
-  "2022-10-16": 311,
-  "2022-10-17": 311,
-  "2022-10-18": 311,
-  "2022-10-19": 312,
-  "2022-10-20": 312,
-  "2022-10-21": 312,
-  "2022-10-22": 312,
-  "2022-10-23": 314,
-  "2022-10-24": 315,
-  "2022-10-25": 315,
-  "2022-10-26": 315,
-  "2022-10-27": 315,
-  "2022-10-28": 315,
-  "2022-10-29": 315,
-  "2022-10-30": 315,
-  "2022-10-31": 316,
-  "2022-11-01": 316,
-  "2022-11-02": 316,
-  "2022-11-03": 317,
-  "2022-11-04": 317,
-  "2022-11-05": 317,
-  "2022-11-06": 319,
-  "2022-11-07": 319,
-  "2022-11-08": 319,
-  "2022-11-09": 320,
-  "2022-11-10": 320,
-  "2022-11-11": 320,
-  "2022-11-12": 322,
-  "2022-11-13": 322,
-  "2022-11-14": 321,
-  "2022-11-15": 321,
-  "2022-11-16": 321,
-  "2022-11-17": 322,
-  "2022-11-18": 322,
-  "2022-11-19": 322,
-  "2022-11-20": 321,
-  "2022-11-21": 322,
-  "2022-11-22": 322,
-  "2022-11-23": 322,
-  "2022-11-24": 322,
-  "2022-11-25": 324,
-  "2022-11-26": 325,
-  "2022-11-27": 325,
-  "2022-11-28": 325,
-  "2022-11-29": 326,
-  "2022-11-30": 326,
-  "2022-12-01": 326,
-  "2022-12-02": 326,
-  "2022-12-03": 327,
-  "2022-12-04": 327,
-  "2022-12-05": 327,
-  "2022-12-06": 328,
-  "2022-12-07": 328,
-  "2022-12-08": 329,
-  "2022-12-09": 329,
-  "2022-12-10": 329,
-  "2022-12-11": 329,
-  "2022-12-12": 329,
-  "2022-12-13": 330,
-  "2022-12-14": 333,
-  "2022-12-15": 332,
-  "2022-12-16": 332,
-  "2022-12-17": 331,
-  "2022-12-18": 331,
-  "2022-12-19": 331,
-  "2022-12-20": 331,
-  "2022-12-21": 331,
-  "2022-12-22": 331,
-  "2022-12-24": 332,
-  "2022-12-25": 334,
-  "2022-12-26": 334,
-  "2022-12-27": 334,
-  "2022-12-28": 334,
-  "2022-12-29": 334,
-  "2022-12-30": 334,
-  "2022-12-31": 335,
-  "2023-01-01": 336,
-  "2023-01-02": 337,
-  "2023-01-03": 338,
-  "2023-01-04": 338,
-  "2023-01-05": 338,
-  "2023-01-06": 339,
-  "2023-01-07": 339,
-  "2023-01-08": 339,
-  "2023-01-09": 339,
-  "2023-01-10": 339,
-  "2023-01-11": 339,
-  "2023-01-12": 339,
-  "2023-01-13": 339,
-  "2023-01-14": 339,
-  "2023-01-15": 339,
-  "2023-01-16": 338,
-  "2023-01-17": 339,
-  "2023-01-18": 340,
-  "2023-01-19": 340,
-  "2023-01-20": 340,
-  "2023-01-21": 340,
-  "2023-01-22": 340,
-  "2023-01-23": 341,
-  "2023-01-24": 341,
-  "2023-01-25": 341,
-  "2023-01-26": 342,
-  "2023-01-27": 342,
-  "2023-01-28": 342,
-  "2023-01-29": 341,
-  "2023-01-30": 341,
-  "2023-01-31": 341,
-  "2023-02-01": 341,
-  "2023-02-02": 341,
-  "2023-02-03": 341,
-  "2023-02-04": 341,
-  "2023-02-05": 343,
-  "2023-02-06": 343,
-  "2023-02-07": 343,
-  "2023-02-08": 344,
-  "2023-02-09": 344,
-  "2023-02-10": 345,
-  "2023-02-11": 345,
-  "2023-02-12": 345,
-  "2023-02-13": 345,
-  "2023-02-14": 345,
-  "2023-02-15": 346,
-  "2023-02-16": 346,
-  "2023-02-17": 345,
-  "2023-02-18": 345,
-  "2023-02-19": 345,
-  "2023-02-20": 345,
-  "2023-02-21": 345,
-  "2023-02-22": 345,
-  "2023-02-23": 346,
-  "2023-02-24": 346,
-  "2023-02-25": 347,
-  "2023-02-26": 350,
-  "2023-02-27": 350,
-  "2023-02-28": 350,
-  "2023-03-01": 350,
-  "2023-03-02": 351,
-  "2023-03-03": 351,
-  "2023-03-04": 351,
-  "2023-03-05": 351,
-  "2023-03-06": 351,
-  "2023-03-07": 351,
-  "2023-03-08": 351,
-  "2023-03-09": 352,
-  "2023-03-10": 352,
-  "2023-03-11": 353,
-  "2023-03-12": 353,
-  "2023-03-13": 353,
-  "2023-03-14": 354,
-  "2023-03-15": 354,
-  "2023-03-16": 354,
-  "2023-03-17": 354,
-  "2023-03-18": 356,
-  "2023-03-19": 356,
-  "2023-03-20": 356,
-  "2023-03-21": 357,
-  "2023-03-22": 358,
-  "2023-03-23": 358,
-  "2023-03-24": 358,
-  "2023-03-25": 359,
-  "2023-03-26": 359,
-  "2023-03-27": 359,
-  "2023-03-28": 360,
-  "2023-03-29": 360,
-  "2023-03-30": 361,
-  "2023-03-31": 361,
-  "2023-04-01": 361,
-  "2023-04-02": 361,
-  "2023-04-03": 361,
-  "2023-04-04": 361,
-  "2023-04-05": 361,
-  "2023-04-06": 361,
-  "2023-04-07": 361,
-  "2023-04-09": 362,
-  "2023-04-10": 362,
-  "2023-04-11": 363,
-  "2023-04-12": 363,
-  "2023-04-13": 363,
-  "2023-04-14": 363,
-  "2023-04-15": 363,
-  "2023-04-16": 364,
-  "2023-04-17": 364,
-  "2023-04-18": 364,
-  "2023-04-19": 365,
-  "2023-04-20": 365,
-  "2023-04-21": 366,
-  "2023-04-22": 366,
-  "2023-04-23": 366,
-  "2023-04-24": 367,
-  "2023-04-25": 367,
-  "2023-04-26": 367,
-  "2023-04-27": 367,
-  "2023-04-28": 368,
-  "2023-04-29": 369,
-  "2023-04-30": 369,
-  "2023-05-01": 369,
-  "2023-05-02": 370,
-  "2023-05-03": 372,
-  "2023-05-04": 372,
-  "2023-05-05": 373,
-  "2023-05-06": 373,
-  "2023-05-07": 373,
-  "2023-05-08": 374,
-  "2023-05-09": 374,
-  "2023-05-10": 374,
-  "2023-05-11": 373,
-  "2023-05-12": 373,
-  "2023-05-13": 374,
-  "2023-05-14": 374,
-  "2023-05-15": 375,
-  "2023-05-16": 376,
-  "2023-05-17": 377,
-  "2023-05-18": 377,
-  "2023-05-19": 377,
-  "2023-05-20": 378,
-  "2023-05-21": 378,
-  "2023-05-22": 378,
-  "2023-05-23": 378,
-  "2023-05-24": 377,
-  "2023-05-25": 377,
-  "2023-05-26": 377,
-  "2023-05-27": 376,
-  "2023-05-28": 376,
-  "2023-05-29": 376,
-  "2023-05-30": 377,
-  "2023-05-31": 377,
-  "2023-06-01": 378,
-  "2023-06-02": 378,
-  "2023-06-03": 378,
-  "2023-06-04": 378,
-  "2023-06-05": 378,
-  "2023-06-06": 378,
-  "2023-06-07": 380,
-  "2023-06-08": 380,
-  "2023-06-09": 381,
-  "2023-06-10": 382,
-  "2023-06-11": 382,
-  "2023-06-12": 382,
-  "2023-06-13": 382,
-  "2023-06-14": 382,
-  "2023-06-15": 382,
-  "2023-06-16": 382,
-  "2023-06-17": 382,
-  "2023-06-18": 382,
-  "2023-06-19": 382,
-  "2023-06-20": 382,
-  "2023-06-21": 381,
-  "2023-06-22": 381,
-  "2023-06-23": 383,
-  "2023-06-24": 383,
-  "2023-06-25": 383,
-  "2023-06-26": 383,
-  "2023-06-27": 384,
-  "2023-06-28": 383,
-  "2023-06-29": 383,
-  "2023-06-30": 383,
-  "2023-07-01": 383,
-  "2023-07-02": 383,
-  "2023-07-03": 384,
-  "2023-07-04": 385,
-  "2023-07-05": 386,
-  "2023-07-06": 386,
-  "2023-07-07": 386,
-  "2023-07-08": 386,
-  "2023-07-09": 386,
-  "2023-07-10": 389,
-  "2023-07-11": 389,
-  "2023-07-12": 389,
-  "2023-07-13": 389,
-  "2023-07-14": 391,
-  "2023-07-15": 391,
-  "2023-07-16": 391,
-  "2023-07-17": 391,
-  "2023-07-18": 391,
-  "2023-07-19": 391,
-  "2023-07-20": 391,
-  "2023-07-21": 391,
-  "2023-07-22": 391,
-  "2023-07-23": 391,
-  "2023-07-24": 393,
-  "2023-07-25": 393,
-  "2023-07-26": 393,
-  "2023-07-27": 393,
-  "2023-07-28": 393,
-  "2023-07-29": 393,
-  "2023-07-30": 394,
-  "2023-07-31": 394,
-  "2023-08-01": 394,
-  "2023-08-02": 394,
-  "2023-08-03": 394,
-  "2023-08-04": 395,
-  "2023-08-05": 395,
-  "2023-08-06": 396,
-  "2023-08-07": 396,
-  "2023-08-08": 397,
-  "2023-08-09": 397,
-  "2023-08-10": 398,
-  "2023-08-11": 398,
-  "2023-08-12": 398,
-  "2023-08-13": 398,
-  "2023-08-14": 398,
-  "2023-08-15": 398,
-  "2023-08-16": 398,
-  "2023-08-17": 398,
-  "2023-08-18": 398,
-  "2023-08-19": 398,
-  "2023-08-20": 400,
-  "2023-08-21": 400,
-  "2023-08-22": 401,
-  "2023-08-23": 401,
-  "2023-08-24": 401,
-  "2023-08-25": 401,
-  "2023-08-26": 403,
-  "2023-08-27": 403,
-  "2023-08-28": 403,
-  "2023-08-29": 403,
-  "2023-08-30": 403,
-  "2023-08-31": 403,
-  "2023-09-01": 402,
-  "2023-09-02": 402,
-  "2023-09-03": 402,
-  "2023-09-04": 402,
-  "2023-09-05": 402,
-  "2023-09-06": 402,
-  "2023-09-07": 402,
-  "2023-09-08": 402,
-  "2023-09-09": 402,
-  "2023-09-10": 402,
-  "2023-09-11": 402,
-  "2023-09-12": 402,
-  "2023-09-13": 402,
-  "2023-09-14": 402,
-  "2023-09-15": 402,
-  "2023-09-16": 408,
-  "2023-09-17": 408,
-  "2023-09-18": 408,
-  "2023-09-19": 410,
-  "2023-09-20": 410,
-  "2023-09-21": 410,
-  "2023-09-22": 412,
-  "2023-09-23": 412,
-  "2023-09-24": 412,
-  "2023-09-25": 412,
-  "2023-09-26": 412,
-  "2023-09-27": 412,
-  "2023-09-28": 412,
-  "2023-09-29": 412,
-  "2023-09-30": 412,
-  "2023-10-01": 412,
-  "2023-10-02": 412,
-  "2023-10-03": 412,
-  "2023-10-04": 412,
-  "2023-10-05": 412,
-  "2023-10-06": 412,
-  "2023-10-07": 412,
-  "2023-10-08": 412,
-  "2023-10-09": 412,
-  "2023-10-10": 412,
-  "2023-10-11": 417,
-  "2023-10-12": 417,
-  "2023-10-13": 417,
-  "2023-10-14": 417,
-  "2023-10-15": 417,
-  "2023-10-16": 417,
-  "2023-10-17": 417,
-  "2023-10-18": 417,
-  "2023-10-19": 417,
-  "2023-10-20": 417,
-  "2023-10-21": 417,
-  "2023-10-22": 417,
-  "2023-10-23": 417,
-  "2023-10-24": 417,
-  "2023-10-25": 417,
-  "2023-10-26": 417,
-  "2023-10-27": 417,
-  "2023-10-28": 417,
-  "2023-10-29": 417,
-  "2023-10-30": 417,
-  "2023-10-31": 417,
-  "2023-11-01": 417,
-  "2023-11-02": 417,
-  "2023-11-03": 417,
-  "2023-11-04": 417,
-  "2023-11-05": 417,
-  "2023-11-06": 417,
-  "2023-11-07": 417,
-  "2023-11-08": 417,
-  "2023-11-09": 417,
-  "2023-11-10": 417,
-  "2023-11-11": 435,
-  "2023-11-12": 435,
-  "2023-11-13": 435,
-  "2023-11-14": 435,
-  "2023-11-15": 435,
-  "2023-11-16": 435,
-  "2023-11-17": 435,
-  "2023-11-18": 435,
-  "2023-11-19": 435,
-  "2023-11-20": 435,
-  "2023-11-21": 435,
-  "2023-11-22": 435,
-  "2023-11-23": 435,
-  "2023-11-24": 435,
-  "2023-11-25": 435,
-  "2023-11-26": 435,
-  "2023-11-27": 435,
-  "2023-11-28": 435,
-  "2023-11-29": 435,
-  "2023-11-30": 435,
-  "2023-12-01": 435,
-  "2023-12-02": 435,
-  "2023-12-03": 435,
-  "2023-12-04": 435,
-  "2023-12-05": 435,
-  "2023-12-06": 435,
-  "2023-12-07": 435,
-  "2023-12-08": 435,
-  "2023-12-09": 435,
-  "2023-12-10": 435,
-  "2023-12-11": 435,
-  "2023-12-12": 435,
-  "2023-12-13": 435,
-  "2023-12-14": 445,
-  "2023-12-15": 445,
-  "2023-12-16": 445,
-  "2023-12-17": 446,
-  "2023-12-18": 445,
-  "2023-12-19": 446,
-  "2023-12-20": 446,
-  "2023-12-21": 446,
-  "2023-12-22": 447,
-  "2023-12-23": 449,
-  "2023-12-24": 449,
-  "2023-12-25": 449,
-  "2023-12-26": 449,
-  "2023-12-27": 449,
-  "2023-12-30": 450,
-  "2023-12-31": 450,
-  "2024-01-01": 450,
-  "2024-01-02": 450,
-  "2024-01-03": 450
+  "2024-01-17": 453,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
+  "name": "This Is Sonny Okosun",
+  "tracks": [
+    {
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501040,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415733,
+      "name": "African Soldier",
+      "url": "https://open.spotify.com/track/4OsMVzpf3ZB0iK1mtA1em5"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114853,
+      "name": "Agbara esu 'Wo (Yoruba)",
+      "url": "https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 217253,
+      "name": "Aijemhen Tamabha (Ishan)",
+      "url": "https://open.spotify.com/track/3PaupU38NfvkG2inb6AR7F"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-12",
+      "duration_ms": 151813,
+      "name": "Aijemhen Tamabha Bonus Track 1",
+      "url": "https://open.spotify.com/track/1QmKnJPT2ZRnYNMEYMPzD1"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270626,
+      "name": "Amen Amen",
+      "url": "https://open.spotify.com/track/6jWcMi16dIacOWK3UH18D2"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321386,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 373320,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/3T3TRQqkipdriFOOh3OTDg"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 158453,
+      "name": "Bunie Ya (Ibo)",
+      "url": "https://open.spotify.com/track/5xJKeI7ukXkjgr2qUctaRP"
+    },
+    {
+      "album": {
+        "name": "The Gospel Of Ozziddi",
+        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 556386,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KqfVscd4axF02j6WKXdSM"
+    },
+    {
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913786,
+      "name": "Chant Of The Slaves Let My People Go",
+      "url": "https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 113880,
+      "name": "Chukwu Nuru Onum (Ibo)",
+      "url": "https://open.spotify.com/track/0WQSMSLscRr7V9bjHD7PUX"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448026,
+      "name": "Dance Of The Elephants",
+      "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500306,
+      "name": "Doctor Jesus / Draw Me Nearer",
+      "url": "https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4F85r8s1BGqPBTLAcVD2ZC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 218500,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU"
+    },
+    {
+      "album": {
+        "name": "Don't Cry No More",
+        "url": "https://open.spotify.com/album/7FOVgvYCaqBUK4F9zWF1VY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 1844741,
+      "name": "Don't Cry No More",
+      "url": "https://open.spotify.com/track/2l3chGNBcDQygkMcvm9WnE"
+    },
+    {
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 684933,
+      "name": "Festival Of The Hunters",
+      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
+    },
+    {
+      "album": {
+        "name": "Fly African Eagle: The Best Of African Reggae",
+        "url": "https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428866,
+      "name": "Fire In Soweto",
+      "url": "https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Gberure (Yoruba)",
+      "url": "https://open.spotify.com/track/56Cl07sEQwxRD8Ej7sY9y1"
+    },
+    {
+      "album": {
+        "name": "Lagos Evergreen Golden Oldies, Vol. 4",
+        "url": "https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421319,
+      "name": "Give Peace a Chance",
+      "url": "https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 234133,
+      "name": "God Of Abraham, Isaac & Jacob",
+      "url": "https://open.spotify.com/track/7DbULcX7myIJn7GRmEJAID"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "Great Change/God's Army",
+      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 336173,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6UQR1ILBVMIGlwmh8nbEE4"
+    },
+    {
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377093,
+      "name": "Holy Mass",
+      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312653,
+      "name": "Hosannah",
+      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
+    },
+    {
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 436533,
+      "name": "Jah Love",
+      "url": "https://open.spotify.com/track/02EHJkHb9mobu0tLe86zKT"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1108400,
+      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
+      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Jesus Give Me Your Light",
+      "url": "https://open.spotify.com/track/1ovfITZvA5U7qc7DI3FFex"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 178160,
+      "name": "Jesus Knows The Way",
+      "url": "https://open.spotify.com/track/0Gfzxq3g4jniqKT5bJX8I8"
+    },
+    {
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 419626,
+      "name": "Jungle Beat",
+      "url": "https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Jungle Beat",
+        "url": "https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 419626,
+      "name": "Jungle Beat",
+      "url": "https://open.spotify.com/track/4qU6FlP4onLFmUVmKKAv97"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84200,
+      "name": "Kenelum Jehova (Igbo-Nigeria)",
+      "url": "https://open.spotify.com/track/5QjrUKOOYpyUWTC9a7nn6N"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 365040,
+      "name": "Know Jesus Know Life",
+      "url": "https://open.spotify.com/track/1jonArtlrKB0gBzBSYwVsv"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
+    },
+    {
+      "album": {
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479120,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+    },
+    {
+      "album": {
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        },
+        {
+          "name": ")zzidi",
+          "url": "https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410600,
+      "name": "Mother & Child",
+      "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+    },
+    {
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 449306,
+      "name": "Mother& Child",
+      "url": "https://open.spotify.com/track/3ik91Or2bkwf9Ldcn6kxwA"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122626,
+      "name": "Mountain move",
+      "url": "https://open.spotify.com/track/1ePQCb5SpWAq1ZKqFsRaFx"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "Mt. Zion",
+      "url": "https://open.spotify.com/track/2atwTASX2uaKcnGUmTO0B9"
+    },
+    {
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337666,
+      "name": "My Cherie Koko",
+      "url": "https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx"
+    },
+    {
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465506,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2MNnFBSrtVgPLMsOi2IGaF"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: My Woman",
+        "url": "https://open.spotify.com/album/3ybLZt0CZ7T1Xf7EXxxYdR"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 465506,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/7m1uJW6AuBwPupO90L7APQ"
+    },
+    {
+      "album": {
+        "name": "De Fiesta Con... El Caribe, Vol. 2: Festival Internacional",
+        "url": "https://open.spotify.com/album/7hrymOvZsjxxVP3McyCb2y"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 420906,
+      "name": "Neighbor",
+      "url": "https://open.spotify.com/track/0qvaN5mEt8QDmOVwOvmi4X"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488400,
+      "name": "No More Wars",
+      "url": "https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA"
+    },
+    {
+      "album": {
+        "name": "The Gospel Of Ozziddi",
+        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-10",
+      "duration_ms": 488400,
+      "name": "No More Wars",
+      "url": "https://open.spotify.com/track/2LU7tUhZokyW7kLrH1AXUy"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 441920,
+      "name": "O'nambia",
+      "url": "https://open.spotify.com/track/79N3TPbf4Cek2jO4uU2INg"
+    },
+    {
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
+    },
+    {
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 478786,
+      "name": "Olu Ebube (Ibo Language)",
+      "url": "https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Olu Ebube",
+        "url": "https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 478786,
+      "name": "Olu Ebube (Ibo Language)",
+      "url": "https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6"
+    },
+    {
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497560,
+      "name": "Papa's Land",
+      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Jungle Beat",
+        "url": "https://open.spotify.com/album/1D1kjZRTPkBOqT1QS3bxZL"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311986,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3G722OvibZcllHtM6nFpFZ"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 152053,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0jdv79JsCr9X6rQZKOFS3A"
+    },
+    {
+      "album": {
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 400026,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Revolution",
+        "url": "https://open.spotify.com/album/1mINRMqAG8qtLvNJCEgdCj"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 400026,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/74ao1WYKgrtnU3elHXaE3n"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Save Our Souls",
+      "url": "https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 154826,
+      "name": "Semi Swemi Radiaye (Ashanti Ghana)",
+      "url": "https://open.spotify.com/track/5ZHTh9xnOW8wj9O2mfCp5H"
+    },
+    {
+      "album": {
+        "name": "Mother & Child",
+        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 335613,
+      "name": "Sound Of Music (Wonderful Jah)",
+      "url": "https://open.spotify.com/track/79K9qfkTfNgVnPWr2rMtbf"
+    },
+    {
+      "album": {
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 410666,
+      "name": "Steady & Slow",
+      "url": "https://open.spotify.com/track/2g79o3Z89QIl1WHhsBQRJj"
+    },
+    {
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399506,
+      "name": "The Crown",
+      "url": "https://open.spotify.com/track/78rbXUtsreBxUadfpJwdMy"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "The Day Jesus Was Crucufied",
+      "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
+    },
+    {
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 513039,
+      "name": "The light Of Jah",
+      "url": "https://open.spotify.com/track/7cN4N2QhqMl9v5f3DgO4cR"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 293120,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0VW39KNnrbVnp4CnJExu5S"
+    },
+    {
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501133,
+      "name": "Tire Ni Oluwa",
+      "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
+    },
+    {
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370013,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR"
+    },
+    {
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 418093,
+      "name": "War of Nations",
+      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
+    },
+    {
+      "album": {
+        "name": "The Gospel Of Ozziddi",
+        "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 463333,
+      "name": "We're In Love",
+      "url": "https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 463333,
+      "name": "We're in Love",
+      "url": "https://open.spotify.com/track/7yB2okdczHTP962N6M8u1W"
+    },
+    {
+      "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 398880,
+      "name": "Weep Not Children",
+      "url": "https://open.spotify.com/track/5lYJ1zx2PZEh5iqYLS3x9i"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 254133,
+      "name": "What Manner Of Man",
+      "url": "https://open.spotify.com/track/5Q1iqXx9UZtjcj6seSFi8k"
+    },
+    {
+      "album": {
+        "name": "Celebrate & Worship In Caribbean Rhythms",
+        "url": "https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 439800,
+      "name": "Who's Like Unto Thee",
+      "url": "https://open.spotify.com/track/6O4YavUbqstEQ8EhiQWKDM"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "Who's Like Unto Thee O'Lord",
+      "url": "https://open.spotify.com/track/1Jkc0CWvuyAGf8C4yg057R"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305026,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4yBGGBCRBKei9VgRg1qMsD"
+    },
+    {
+      "album": {
+        "name": "Wind Of Change",
+        "url": "https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 361200,
+      "name": "Zion",
+      "url": "https://open.spotify.com/track/1wJCegG7JDFRGXMhm5sbiH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x3RAa"
 }

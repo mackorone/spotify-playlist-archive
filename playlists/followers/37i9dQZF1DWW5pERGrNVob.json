@@ -1,580 +1,2381 @@
 {
-  "2022-05-30": 367950,
-  "2022-05-31": 368022,
-  "2022-06-01": 368195,
-  "2022-06-02": 368202,
-  "2022-06-03": 368304,
-  "2022-06-04": 368422,
-  "2022-06-05": 368530,
-  "2022-06-06": 368605,
-  "2022-06-07": 368687,
-  "2022-06-08": 368773,
-  "2022-06-09": 368887,
-  "2022-06-10": 368991,
-  "2022-06-11": 369063,
-  "2022-06-12": 369212,
-  "2022-06-13": 369241,
-  "2022-06-14": 369382,
-  "2022-06-15": 369468,
-  "2022-06-16": 369578,
-  "2022-06-17": 369660,
-  "2022-06-18": 369779,
-  "2022-06-19": 369954,
-  "2022-06-20": 369954,
-  "2022-06-21": 370021,
-  "2022-06-22": 370183,
-  "2022-06-23": 370183,
-  "2022-06-24": 370267,
-  "2022-06-25": 370380,
-  "2022-06-26": 370485,
-  "2022-06-27": 370544,
-  "2022-06-28": 370614,
-  "2022-06-29": 370700,
-  "2022-06-30": 370776,
-  "2022-07-01": 370851,
-  "2022-07-02": 370950,
-  "2022-07-03": 371034,
-  "2022-07-04": 371111,
-  "2022-07-05": 371162,
-  "2022-07-06": 371223,
-  "2022-07-07": 371296,
-  "2022-07-08": 371373,
-  "2022-07-09": 371458,
-  "2022-07-10": 371528,
-  "2022-07-11": 371583,
-  "2022-07-12": 371633,
-  "2022-07-13": 371727,
-  "2022-07-14": 371767,
-  "2022-07-15": 371842,
-  "2022-07-16": 371920,
-  "2022-07-17": 371969,
-  "2022-07-18": 372032,
-  "2022-07-19": 372097,
-  "2022-07-20": 372160,
-  "2022-07-21": 372237,
-  "2022-07-22": 372287,
-  "2022-07-23": 372334,
-  "2022-07-24": 372419,
-  "2022-07-25": 372492,
-  "2022-07-26": 372557,
-  "2022-07-27": 372639,
-  "2022-07-28": 372692,
-  "2022-07-29": 372748,
-  "2022-07-30": 372879,
-  "2022-07-31": 372879,
-  "2022-08-01": 372934,
-  "2022-08-02": 373061,
-  "2022-08-03": 373061,
-  "2022-08-04": 373114,
-  "2022-08-05": 373155,
-  "2022-08-06": 373241,
-  "2022-08-07": 373274,
-  "2022-08-08": 373345,
-  "2022-08-09": 373390,
-  "2022-08-10": 373453,
-  "2022-08-11": 373512,
-  "2022-08-12": 373574,
-  "2022-08-13": 373628,
-  "2022-08-14": 373662,
-  "2022-08-15": 373717,
-  "2022-08-16": 373773,
-  "2022-08-17": 373808,
-  "2022-08-18": 373843,
-  "2022-08-19": 373888,
-  "2022-08-20": 373956,
-  "2022-08-21": 374024,
-  "2022-08-22": 374062,
-  "2022-08-23": 374134,
-  "2022-08-24": 374175,
-  "2022-08-25": 374239,
-  "2022-08-26": 374304,
-  "2022-08-27": 374364,
-  "2022-08-28": 374439,
-  "2022-08-29": 374516,
-  "2022-08-30": 374314,
-  "2022-08-31": 373853,
-  "2022-09-01": 373351,
-  "2022-09-02": 373417,
-  "2022-09-03": 372860,
-  "2022-09-04": 371949,
-  "2022-09-05": 371451,
-  "2022-09-06": 371469,
-  "2022-09-07": 371532,
-  "2022-09-09": 371642,
-  "2022-09-10": 371700,
-  "2022-09-11": 371789,
-  "2022-09-12": 371871,
-  "2022-09-13": 371928,
-  "2022-09-15": 372002,
-  "2022-09-16": 372051,
-  "2022-09-17": 372087,
-  "2022-09-18": 372122,
-  "2022-09-19": 372166,
-  "2022-09-20": 372195,
-  "2022-09-21": 372229,
-  "2022-09-22": 372297,
-  "2022-09-23": 372346,
-  "2022-09-24": 372398,
-  "2022-09-25": 372476,
-  "2022-09-26": 372559,
-  "2022-09-27": 372644,
-  "2022-09-28": 372705,
-  "2022-09-29": 372758,
-  "2022-09-30": 372839,
-  "2022-10-01": 372901,
-  "2022-10-02": 372970,
-  "2022-10-03": 373022,
-  "2022-10-04": 373072,
-  "2022-10-05": 373117,
-  "2022-10-06": 373164,
-  "2022-10-07": 373204,
-  "2022-10-08": 373291,
-  "2022-10-09": 373404,
-  "2022-10-10": 373412,
-  "2022-10-11": 373476,
-  "2022-10-12": 373661,
-  "2022-10-13": 373778,
-  "2022-10-14": 373882,
-  "2022-10-15": 374001,
-  "2022-10-16": 374120,
-  "2022-10-17": 374242,
-  "2022-10-18": 374368,
-  "2022-10-19": 374466,
-  "2022-10-20": 374547,
-  "2022-10-21": 374644,
-  "2022-10-22": 374707,
-  "2022-10-23": 374803,
-  "2022-10-24": 374869,
-  "2022-10-25": 374959,
-  "2022-10-26": 375051,
-  "2022-10-27": 375147,
-  "2022-10-28": 375195,
-  "2022-10-29": 375252,
-  "2022-10-30": 375316,
-  "2022-10-31": 375362,
-  "2022-11-01": 375432,
-  "2022-11-02": 375479,
-  "2022-11-03": 375563,
-  "2022-11-04": 375625,
-  "2022-11-05": 375682,
-  "2022-11-06": 375743,
-  "2022-11-07": 375774,
-  "2022-11-08": 375830,
-  "2022-11-09": 375883,
-  "2022-11-10": 375933,
-  "2022-11-11": 376021,
-  "2022-11-12": 376121,
-  "2022-11-13": 376201,
-  "2022-11-14": 376290,
-  "2022-11-15": 376424,
-  "2022-11-16": 376485,
-  "2022-11-17": 376615,
-  "2022-11-18": 376655,
-  "2022-11-19": 376588,
-  "2022-11-20": 376548,
-  "2022-11-21": 376596,
-  "2022-11-22": 376895,
-  "2022-11-23": 376819,
-  "2022-11-24": 377032,
-  "2022-11-25": 377325,
-  "2022-11-26": 377549,
-  "2022-11-27": 377693,
-  "2022-11-28": 377780,
-  "2022-11-29": 377892,
-  "2022-11-30": 377999,
-  "2022-12-01": 378114,
-  "2022-12-02": 378268,
-  "2022-12-03": 378302,
-  "2022-12-04": 378456,
-  "2022-12-05": 378559,
-  "2022-12-06": 378667,
-  "2022-12-07": 378767,
-  "2022-12-08": 378872,
-  "2022-12-09": 378983,
-  "2022-12-10": 379076,
-  "2022-12-11": 379175,
-  "2022-12-12": 379283,
-  "2022-12-13": 379384,
-  "2022-12-14": 379451,
-  "2022-12-15": 379519,
-  "2022-12-16": 379618,
-  "2022-12-17": 379721,
-  "2022-12-18": 379821,
-  "2022-12-19": 379883,
-  "2022-12-20": 380026,
-  "2022-12-21": 380026,
-  "2022-12-22": 380087,
-  "2022-12-24": 380230,
-  "2022-12-25": 380316,
-  "2022-12-26": 380387,
-  "2022-12-27": 380451,
-  "2022-12-28": 380523,
-  "2022-12-29": 380617,
-  "2022-12-30": 380705,
-  "2022-12-31": 380762,
-  "2023-01-01": 380826,
-  "2023-01-02": 380877,
-  "2023-01-03": 380958,
-  "2023-01-04": 381055,
-  "2023-01-05": 381136,
-  "2023-01-06": 381249,
-  "2023-01-07": 381376,
-  "2023-01-08": 381397,
-  "2023-01-09": 381506,
-  "2023-01-10": 381577,
-  "2023-01-11": 381665,
-  "2023-01-12": 381743,
-  "2023-01-13": 381801,
-  "2023-01-14": 382004,
-  "2023-01-15": 382017,
-  "2023-01-16": 382104,
-  "2023-01-17": 382191,
-  "2023-01-18": 382280,
-  "2023-01-19": 382352,
-  "2023-01-20": 382419,
-  "2023-01-21": 382502,
-  "2023-01-22": 382585,
-  "2023-01-23": 382648,
-  "2023-01-24": 382716,
-  "2023-01-25": 382814,
-  "2023-01-26": 382891,
-  "2023-01-27": 382958,
-  "2023-01-28": 383053,
-  "2023-01-29": 383130,
-  "2023-01-30": 383225,
-  "2023-01-31": 383225,
-  "2023-02-01": 383357,
-  "2023-02-02": 383406,
-  "2023-02-03": 383469,
-  "2023-02-04": 383537,
-  "2023-02-05": 383607,
-  "2023-02-06": 383697,
-  "2023-02-07": 383764,
-  "2023-02-08": 383930,
-  "2023-02-09": 383930,
-  "2023-02-10": 384018,
-  "2023-02-11": 384109,
-  "2023-02-12": 384296,
-  "2023-02-13": 384440,
-  "2023-02-14": 384440,
-  "2023-02-15": 384540,
-  "2023-02-16": 384663,
-  "2023-02-17": 384722,
-  "2023-02-18": 384864,
-  "2023-02-19": 384881,
-  "2023-02-20": 384941,
-  "2023-02-21": 385012,
-  "2023-02-22": 385114,
-  "2023-02-23": 385208,
-  "2023-02-24": 385293,
-  "2023-02-25": 385414,
-  "2023-02-26": 385471,
-  "2023-02-27": 385614,
-  "2023-02-28": 385614,
-  "2023-03-01": 385668,
-  "2023-03-02": 385737,
-  "2023-03-03": 385765,
-  "2023-03-04": 385821,
-  "2023-03-05": 385918,
-  "2023-03-06": 385918,
-  "2023-03-07": 385971,
-  "2023-03-08": 386031,
-  "2023-03-09": 386095,
-  "2023-03-10": 386125,
-  "2023-03-11": 386180,
-  "2023-03-12": 386235,
-  "2023-03-13": 386277,
-  "2023-03-14": 386348,
-  "2023-03-15": 386395,
-  "2023-03-16": 386459,
-  "2023-03-17": 386459,
-  "2023-03-18": 386561,
-  "2023-03-19": 386584,
-  "2023-03-20": 386640,
-  "2023-03-21": 386692,
-  "2023-03-22": 386745,
-  "2023-03-23": 386825,
-  "2023-03-24": 386825,
-  "2023-03-25": 386957,
-  "2023-03-26": 387001,
-  "2023-03-27": 387025,
-  "2023-03-28": 387083,
-  "2023-03-29": 387171,
-  "2023-03-30": 387341,
-  "2023-03-31": 387341,
-  "2023-04-01": 387401,
-  "2023-04-02": 387481,
-  "2023-04-03": 387545,
-  "2023-04-04": 387593,
-  "2023-04-05": 387647,
-  "2023-04-06": 387713,
-  "2023-04-07": 387746,
-  "2023-04-09": 387837,
-  "2023-04-10": 387889,
-  "2023-04-11": 388011,
-  "2023-04-12": 388011,
-  "2023-04-13": 388035,
-  "2023-04-14": 388077,
-  "2023-04-15": 388158,
-  "2023-04-16": 388242,
-  "2023-04-17": 388280,
-  "2023-04-18": 388336,
-  "2023-04-19": 388380,
-  "2023-04-20": 388438,
-  "2023-04-21": 388537,
-  "2023-04-22": 388593,
-  "2023-04-23": 388627,
-  "2023-04-24": 388691,
-  "2023-04-25": 388729,
-  "2023-04-26": 388781,
-  "2023-04-27": 388823,
-  "2023-04-28": 388877,
-  "2023-04-29": 388935,
-  "2023-04-30": 388988,
-  "2023-05-01": 389022,
-  "2023-05-02": 389074,
-  "2023-05-03": 389120,
-  "2023-05-04": 389183,
-  "2023-05-05": 389242,
-  "2023-05-06": 389310,
-  "2023-05-07": 389371,
-  "2023-05-08": 389443,
-  "2023-05-09": 389497,
-  "2023-05-10": 389561,
-  "2023-05-11": 389639,
-  "2023-05-12": 389693,
-  "2023-05-13": 389781,
-  "2023-05-14": 389851,
-  "2023-05-15": 389921,
-  "2023-05-16": 389984,
-  "2023-05-17": 390064,
-  "2023-05-18": 390115,
-  "2023-05-19": 390190,
-  "2023-05-20": 390357,
-  "2023-05-21": 390357,
-  "2023-05-22": 390357,
-  "2023-05-23": 390477,
-  "2023-05-24": 390569,
-  "2023-05-25": 390592,
-  "2023-05-26": 390634,
-  "2023-05-27": 390700,
-  "2023-05-28": 390752,
-  "2023-05-29": 390752,
-  "2023-05-30": 390861,
-  "2023-05-31": 390953,
-  "2023-06-01": 390987,
-  "2023-06-02": 391029,
-  "2023-06-03": 391084,
-  "2023-06-04": 391127,
-  "2023-06-05": 391181,
-  "2023-06-06": 391213,
-  "2023-06-07": 391254,
-  "2023-06-08": 391319,
-  "2023-06-09": 391381,
-  "2023-06-10": 391425,
-  "2023-06-11": 391472,
-  "2023-06-12": 391496,
-  "2023-06-13": 391546,
-  "2023-06-14": 391546,
-  "2023-06-15": 391634,
-  "2023-06-16": 391658,
-  "2023-06-17": 391697,
-  "2023-06-18": 391747,
-  "2023-06-19": 391810,
-  "2023-06-20": 391854,
-  "2023-06-21": 391919,
-  "2023-06-22": 391960,
-  "2023-06-23": 392007,
-  "2023-06-24": 392045,
-  "2023-06-25": 392067,
-  "2023-06-26": 392104,
-  "2023-06-27": 392149,
-  "2023-06-28": 392192,
-  "2023-06-29": 392229,
-  "2023-06-30": 392273,
-  "2023-07-01": 392374,
-  "2023-07-02": 392374,
-  "2023-07-03": 392413,
-  "2023-07-04": 392458,
-  "2023-07-05": 392521,
-  "2023-07-06": 392556,
-  "2023-07-07": 392556,
-  "2023-07-08": 392590,
-  "2023-07-09": 392610,
-  "2023-07-10": 392657,
-  "2023-07-11": 392665,
-  "2023-07-12": 392691,
-  "2023-07-13": 392749,
-  "2023-07-14": 392793,
-  "2023-07-15": 392799,
-  "2023-07-16": 392822,
-  "2023-07-17": 392896,
-  "2023-07-18": 392931,
-  "2023-07-19": 392990,
-  "2023-07-20": 393030,
-  "2023-07-21": 393069,
-  "2023-07-22": 393112,
-  "2023-07-23": 393150,
-  "2023-07-24": 393197,
-  "2023-07-25": 393226,
-  "2023-07-26": 393256,
-  "2023-07-27": 393275,
-  "2023-07-28": 393329,
-  "2023-07-29": 393371,
-  "2023-07-30": 393396,
-  "2023-07-31": 393450,
-  "2023-08-01": 393468,
-  "2023-08-02": 393499,
-  "2023-08-03": 393548,
-  "2023-08-04": 393583,
-  "2023-08-05": 393644,
-  "2023-08-06": 393717,
-  "2023-08-07": 393717,
-  "2023-08-08": 393740,
-  "2023-08-09": 393750,
-  "2023-08-10": 393791,
-  "2023-08-11": 393857,
-  "2023-08-12": 393899,
-  "2023-08-13": 393980,
-  "2023-08-14": 394043,
-  "2023-08-15": 394153,
-  "2023-08-16": 394153,
-  "2023-08-17": 394185,
-  "2023-08-18": 394223,
-  "2023-08-19": 394266,
-  "2023-08-20": 394287,
-  "2023-08-21": 394296,
-  "2023-08-22": 394321,
-  "2023-08-23": 394358,
-  "2023-08-24": 394384,
-  "2023-08-25": 394417,
-  "2023-08-26": 394467,
-  "2023-08-27": 394525,
-  "2023-08-28": 394562,
-  "2023-08-29": 394611,
-  "2023-08-30": 394659,
-  "2023-08-31": 394684,
-  "2023-09-01": 394772,
-  "2023-09-02": 394772,
-  "2023-09-03": 394812,
-  "2023-09-04": 394856,
-  "2023-09-05": 394878,
-  "2023-09-06": 394918,
-  "2023-09-07": 394981,
-  "2023-09-08": 395031,
-  "2023-09-09": 395097,
-  "2023-09-10": 395129,
-  "2023-09-11": 395166,
-  "2023-09-12": 395196,
-  "2023-09-13": 395253,
-  "2023-09-14": 395280,
-  "2023-09-15": 395344,
-  "2023-09-16": 395354,
-  "2023-09-17": 395390,
-  "2023-09-18": 395417,
-  "2023-09-19": 395435,
-  "2023-09-20": 395469,
-  "2023-09-21": 395483,
-  "2023-09-22": 395514,
-  "2023-09-23": 395551,
-  "2023-09-24": 395579,
-  "2023-09-25": 395621,
-  "2023-09-26": 395680,
-  "2023-09-27": 395700,
-  "2023-09-28": 395726,
-  "2023-09-29": 395791,
-  "2023-09-30": 395825,
-  "2023-10-01": 395875,
-  "2023-10-02": 395908,
-  "2023-10-03": 395944,
-  "2023-10-04": 395976,
-  "2023-10-05": 396016,
-  "2023-10-06": 396042,
-  "2023-10-07": 396070,
-  "2023-10-08": 396087,
-  "2023-10-09": 396135,
-  "2023-10-10": 395770,
-  "2023-10-11": 395426,
-  "2023-10-12": 395426,
-  "2023-10-13": 395464,
-  "2023-10-14": 394931,
-  "2023-10-15": 394935,
-  "2023-10-16": 394957,
-  "2023-10-17": 394967,
-  "2023-10-18": 394974,
-  "2023-10-19": 394989,
-  "2023-10-20": 394990,
-  "2023-10-21": 395011,
-  "2023-10-22": 395042,
-  "2023-10-23": 395055,
-  "2023-10-24": 395083,
-  "2023-10-25": 395098,
-  "2023-10-26": 395107,
-  "2023-10-27": 395131,
-  "2023-10-28": 395156,
-  "2023-10-29": 395178,
-  "2023-10-30": 395223,
-  "2023-10-31": 395223,
-  "2023-11-01": 395240,
-  "2023-11-02": 395260,
-  "2023-11-03": 395276,
-  "2023-11-04": 395290,
-  "2023-11-05": 395287,
-  "2023-11-06": 395311,
-  "2023-11-07": 395336,
-  "2023-11-08": 395361,
-  "2023-11-09": 395354,
-  "2023-11-10": 395349,
-  "2023-11-11": 395369,
-  "2023-11-12": 395375,
-  "2023-11-13": 395406,
-  "2023-11-14": 395432,
-  "2023-11-15": 395432,
-  "2023-11-16": 395473,
-  "2023-11-17": 395519,
-  "2023-11-18": 395519,
-  "2023-11-19": 395528,
-  "2023-11-20": 395552,
-  "2023-11-21": 395570,
-  "2023-11-22": 395574,
-  "2023-11-23": 395591,
-  "2023-11-24": 395620,
-  "2023-11-25": 395633,
-  "2023-11-26": 395632,
-  "2023-11-27": 395650,
-  "2023-11-28": 395651,
-  "2023-11-29": 395673,
-  "2023-11-30": 395673,
-  "2023-12-01": 395685,
-  "2023-12-02": 395689,
-  "2023-12-03": 395695,
-  "2023-12-04": 395717,
-  "2023-12-05": 395726,
-  "2023-12-06": 395749,
-  "2023-12-07": 395754,
-  "2023-12-08": 395764,
-  "2023-12-09": 395779,
-  "2023-12-10": 395809,
-  "2023-12-11": 395835,
-  "2023-12-12": 395873,
-  "2023-12-13": 395884,
-  "2023-12-14": 395901,
-  "2023-12-15": 395894,
-  "2023-12-16": 395912,
-  "2023-12-17": 395940,
-  "2023-12-18": 395964,
-  "2023-12-19": 395989,
-  "2023-12-20": 396019,
-  "2023-12-21": 396043,
-  "2023-12-22": 396063,
-  "2023-12-23": 396092,
-  "2023-12-24": 396142,
-  "2023-12-25": 396150,
-  "2023-12-26": 396169,
-  "2023-12-27": 396191,
-  "2023-12-30": 396251,
-  "2023-12-31": 396274,
-  "2024-01-01": 396318,
-  "2024-01-02": 396338,
-  "2024-01-03": 396370
+  "2024-01-17": 394512,
+  "date_first_scraped": "2022-05-30",
+  "description": "This K-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.",
+  "name": "This is MAMAMOO",
+  "tracks": [
+    {
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "1,2,3 Eoi!",
+      "url": "https://open.spotify.com/track/1uYgNXNnBTQnboOwlYBLd1"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "4x4ever",
+      "url": "https://open.spotify.com/track/4bMsb9CROmDYa5ngBynRXT"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230413,
+      "name": "A little bit 2021",
+      "url": "https://open.spotify.com/track/3KjRNjtQBvgJiTqYCVrhY5"
+    },
+    {
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "A Memory for Life",
+      "url": "https://open.spotify.com/track/0K6ueyEGT693t5XeSnSywi"
+    },
+    {
+      "album": {
+        "name": "\u9580OON : REPACKAGE",
+        "url": "https://open.spotify.com/album/2JVZcgHGsbmIyGM17GyccP"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/1wj8oNg5fN2zltrUIJGjoN"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/4avDtRZBVVwV5l7k6vx1gm"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211064,
+      "name": "Age Gag",
+      "url": "https://open.spotify.com/track/6c74JALtmtDUlCbn9fUJYZ"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "AHH OOP 2021",
+      "url": "https://open.spotify.com/track/3UWyx61aoijAFCHAehiV28"
+    },
+    {
+      "album": {
+        "name": "Lovers of the Red Sky OST Part.2",
+        "url": "https://open.spotify.com/album/16QkylrM6eoDbp4vcf3vEX"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Always, be with you",
+      "url": "https://open.spotify.com/track/4uPZdgWRJ2H9tTBgTyCNGw"
+    },
+    {
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2aBufmesYkWQnkIR6dgoaR"
+    },
+    {
+      "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "AYA (Traditional ver.)",
+      "url": "https://open.spotify.com/track/5gGC9llukdQpiTu6X3beZo"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211064,
+      "name": "Aze Gag",
+      "url": "https://open.spotify.com/track/4cx1460xvs9dZkYzwllLRd"
+    },
+    {
+      "album": {
+        "name": "Street Dance Girls Fighter(SGF) Special",
+        "url": "https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "Bada Boom (With MISMOLLY, TURNS)",
+      "url": "https://open.spotify.com/track/7010GzT5bbMuQ4fWTMbpKz"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1kpQ2Gtry1UABK2r2GpAQs"
+    },
+    {
+      "album": {
+        "name": "C.I.T.T (Cheese in the Trap)",
+        "url": "https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "C.I.T.T (Cheese in the Trap)",
+      "url": "https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY"
+    },
+    {
+      "album": {
+        "name": "ACT 1, SCENE 1",
+        "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Chico malo",
+      "url": "https://open.spotify.com/track/4e5OwyRhNsoLqGQYzfuV5B"
+    },
+    {
+      "album": {
+        "name": "Chico malo",
+        "url": "https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Chico malo",
+      "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
+    },
+    {
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
+    },
+    {
+      "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Chuck",
+      "url": "https://open.spotify.com/track/4LfmJgyInGg96Kaue1ceGZ"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/4hUoji0XYWp8fJoFCK7h0x"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189866,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/7Kw1ycY0Dfqf3uM25SxImO"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "ddu ddu ddu",
+      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Decalcomanie 2021",
+      "url": "https://open.spotify.com/track/0nj3n4bJXhBOloivWUOMYc"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32466,
+      "name": "Deserve (Interlude)",
+      "url": "https://open.spotify.com/track/3eiirkvkihm9jKMafLb1av"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6oS5qBlnci7unQjdLiok41"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280280,
+      "name": "Destiny (Extended ver.)",
+      "url": "https://open.spotify.com/track/3AppBEhzuh8AYq1clt6Vda"
+    },
+    {
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "Destiny Part.2",
+      "url": "https://open.spotify.com/track/77wO21RS6qs1SjMtM83y60"
+    },
+    {
+      "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/5jJceu1XzlE3bPQhQTZ2Ul"
+    },
+    {
+      "album": {
+        "name": "Dingga",
+        "url": "https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "Dingga",
+      "url": "https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU"
+    },
+    {
+      "album": {
+        "name": "Don't be happy",
+        "url": "https://open.spotify.com/album/1yR52w8BNOwAgh55kPqfc2"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216998,
+      "name": "Don't be happy",
+      "url": "https://open.spotify.com/track/3Q5oL2Zyq0QV5U78f8D1kR"
+    },
+    {
+      "album": {
+        "name": "Don't be happy",
+        "url": "https://open.spotify.com/album/0l5IiLA2VL4M1AVcLKgc3H"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216998,
+      "name": "Don't be happy",
+      "url": "https://open.spotify.com/track/53SDgytlX2ZoKbkjNAylPa"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177146,
+      "name": "Don\u2019t Be Happy 2021",
+      "url": "https://open.spotify.com/track/2dBOuoUlnHibSw719Pn9PG"
+    },
+    {
+      "album": {
+        "name": "MEMORY",
+        "url": "https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215997,
+      "name": "D\u00e9calcomanie",
+      "url": "https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx"
+    },
+    {
+      "album": {
+        "name": "RED MOON",
+        "url": "https://open.spotify.com/album/3vlnS8olJIlCACkLBbHYP2"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196018,
+      "name": "Egotistic",
+      "url": "https://open.spotify.com/track/3a7OyTsoZ8CCBdvEEvzLBv"
+    },
+    {
+      "album": {
+        "name": "RED MOON",
+        "url": "https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 196018,
+      "name": "Egotistic",
+      "url": "https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Egotistic (Blistering sun ver.)",
+      "url": "https://open.spotify.com/track/2kBaZ1oHXgPhpWe30gIv2z"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/1M3FXW2uFBhO2BfphX0ozo"
+    },
+    {
+      "album": {
+        "name": "G999 (Feat. Mirani)",
+        "url": "https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184813,
+      "name": "G999 (Feat. Mirani)",
+      "url": "https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP"
+    },
+    {
+      "album": {
+        "name": "ACT 1, SCENE 1",
+        "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "GGBB",
+      "url": "https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im"
+    },
+    {
+      "album": {
+        "name": "Gleam",
+        "url": "https://open.spotify.com/album/3JxtyETqNUQ63Ze97GCi5s"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/0Nrton8zP9yzBMCnV5RGe5"
+    },
+    {
+      "album": {
+        "name": "Gleam",
+        "url": "https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184360,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB"
+    },
+    {
+      "album": {
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195855,
+      "name": "gogobebe",
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "gogobebe (Rock ver.)",
+      "url": "https://open.spotify.com/track/42F4g6tJpWpqpRb4hYqF6g"
+    },
+    {
+      "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3KAfLV5JH4K0uMYBG5T1oK"
+    },
+    {
+      "album": {
+        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
+        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Grey Christmas",
+      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Happier than Ever",
+      "url": "https://open.spotify.com/track/6WepKnz0tfJX2gpRgTk7ha"
+    },
+    {
+      "album": {
+        "name": "Heeheehaheho",
+        "url": "https://open.spotify.com/album/1C7mZeh8ZzjtRQKC6dONBx"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224772,
+      "name": "Heeheehaheho",
+      "url": "https://open.spotify.com/track/0bnSKhq6HgZFE70QQTl1nu"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224772,
+      "name": "Heeheehaheho",
+      "url": "https://open.spotify.com/track/1XhlGYZrqUqVr9RgSJcGPN"
+    },
+    {
+      "album": {
+        "name": "Heeheehaheho",
+        "url": "https://open.spotify.com/album/1HMznQm8Tf1KevCu34DerN"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "Geeks",
+          "url": "https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224772,
+      "name": "Heeheehaheho",
+      "url": "https://open.spotify.com/track/4bsuRQghJEKSyz5lqa5qcU"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233746,
+      "name": "HeeHeeHaHeHo Part.2",
+      "url": "https://open.spotify.com/track/4NSn4tFH4r0qLScSJBdUQP"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Hello Mama",
+      "url": "https://open.spotify.com/track/5lUj2BXXpZnA3tXRVxCY7n"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "HIP",
+      "url": "https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269813,
+      "name": "HIP (Remix ver.)",
+      "url": "https://open.spotify.com/track/7ekgLF4iLXzAgabQ4TqOrS"
+    },
+    {
+      "album": {
+        "name": "\u5bb9 : FACE",
+        "url": "https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n"
+    },
+    {
+      "album": {
+        "name": "I can't make you love me",
+        "url": "https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa"
+      },
+      "artists": [
+        {
+          "name": "KINDA BLUE",
+          "url": "https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158526,
+      "name": "I can't make you love me",
+      "url": "https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6"
+    },
+    {
+      "album": {
+        "name": "I Love My Body",
+        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150176,
+      "name": "I Love My Body",
+      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256245,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/6XmZNkGNEJngWnT7ITrLpV"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.6",
+        "url": "https://open.spotify.com/album/1Zvz0jVLW9WtO5X4Pqskgx"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266378,
+      "name": "I miss You",
+      "url": "https://open.spotify.com/track/4yfnuzAl0CxxHarW6L7gYC"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263626,
+      "name": "I Miss You 2021",
+      "url": "https://open.spotify.com/track/3RNY4PUp5Zz7FruzFB3IYU"
+    },
+    {
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "ILLELLA",
+      "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132746,
+      "name": "I\u2019m bad too (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV"
+    },
+    {
+      "album": {
+        "name": "TRAVEL -Japan Edition-",
+        "url": "https://open.spotify.com/album/1Ezw153VmAPEG7SYJyXpci"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168000,
+      "name": "Just Believe In Love",
+      "url": "https://open.spotify.com/track/06uzvyD85DEt2fEjt7mY3g"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO: THE BEST -Japan Edition-",
+        "url": "https://open.spotify.com/album/20h4dMCIGutPFvLDoeSgyV"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Just Believe In Love",
+      "url": "https://open.spotify.com/track/5qABuX3NVrTc7FjG04G7A4"
+    },
+    {
+      "album": {
+        "name": "[Hwa Sa Show Vol.1] just talking to myself",
+        "url": "https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "just talking to myself",
+      "url": "https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "Kidding",
+      "url": "https://open.spotify.com/track/3GfIQyLYrrgF4MhmQmFcnX"
+    },
+    {
+      "album": {
+        "name": "MIC ON",
+        "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "L.I.E.C",
+      "url": "https://open.spotify.com/track/1RNnRdT27xNUTdechKtSVT"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Letter Filled With Light",
+      "url": "https://open.spotify.com/track/6Gahwmzoqi4uaZCdVopJr4"
+    },
+    {
+      "album": {
+        "name": "ACT 1, SCENE 1",
+        "url": "https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "LLL",
+      "url": "https://open.spotify.com/track/5A05GrtX9Qwkwv41HEK39N"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281906,
+      "name": "LMM",
+      "url": "https://open.spotify.com/track/61RWlWnaIKrOBnmjdQgFOH"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "LUNATIC",
+      "url": "https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "Make Me Happy",
+      "url": "https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "album": {
+        "name": "Me without you (feat. Moon Byul of MAMAMOO)",
+        "url": "https://open.spotify.com/album/4eld4LZK1hzHeJZuBw8n35"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Me without you (feat. Moon Byul of MAMAMOO)",
+      "url": "https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5"
+    },
+    {
+      "album": {
+        "name": "[Hwa Sa Show Vol.3] MMM Simile",
+        "url": "https://open.spotify.com/album/2xPznUnpJGiaIP1QrQnYAT"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325493,
+      "name": "MMM Simile - Live ver.",
+      "url": "https://open.spotify.com/track/0tyip3SICRMxPXitAbd1TS"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/3Z9cZon6ukg4rvGYu7i4NA"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221488,
+      "name": "Mr-Ambiguous",
+      "url": "https://open.spotify.com/track/4VOZzJeoNhvvTaGTztogVt"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Mr. Ambiguous 2021",
+      "url": "https://open.spotify.com/track/26QjdjBGammFUDpEbSO6EB"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "mumumumuch",
+      "url": "https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z"
+    },
+    {
+      "album": {
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191586,
+      "name": "My star",
+      "url": "https://open.spotify.com/track/6cf5TJ3mCkhsWJxj1kTKyB"
+    },
+    {
+      "album": {
+        "name": "NEW YORK",
+        "url": "https://open.spotify.com/album/4yNFPLbVnxIxYp06oQ4oio"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181618,
+      "name": "NEW YORK",
+      "url": "https://open.spotify.com/track/21tZbxhAF6edXKiIuPTkfm"
+    },
+    {
+      "album": {
+        "name": "NEW YORK",
+        "url": "https://open.spotify.com/album/6nA3Dvvx25d5uSU5OQixbS"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181618,
+      "name": "NEW YORK",
+      "url": "https://open.spotify.com/track/3VYLTSsBn1rkstkUglFJUo"
+    },
+    {
+      "album": {
+        "name": "BLUE;S",
+        "url": "https://open.spotify.com/album/59QELOU685J1AMB2paryAx"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190793,
+      "name": "No more drama",
+      "url": "https://open.spotify.com/track/3KxYiSZ4n7ih45JtE2T518"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3lcftcc6ksaPBGRN839LYO"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186066,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/6EWz8fvttnPEd3FV0Dtv5w"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/0m1f9KaRUnRBYSEkAH7pdj"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Paint Me (Orchestra ver.)",
+      "url": "https://open.spotify.com/track/2SczG7Oj9seGZE1KIosCRC"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218039,
+      "name": "Paraglide",
+      "url": "https://open.spotify.com/track/6dmRJBF95zrUIB2BXFCHDc"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142746,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Peppermint Chocolate (MMM ver.)",
+      "url": "https://open.spotify.com/track/2pvjFTXw9K2VK76xg7aNdF"
+    },
+    {
+      "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/1kdURRaOTpDCQqsVIU5CiT"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195237,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/2CC7fLFEcJBrO82NUwi9Op"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Piano Man 2021",
+      "url": "https://open.spotify.com/track/7vazA92d70DoEKRfo3nMcM"
+    },
+    {
+      "album": {
+        "name": "WHEE",
+        "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Pink Cloud",
+      "url": "https://open.spotify.com/track/4FoMtD0b7zQYAxZAQbLxjh"
+    },
+    {
+      "album": {
+        "name": "Play With Life",
+        "url": "https://open.spotify.com/album/7wqMVSBS2Y1QA9EZCAlovf"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141571,
+      "name": "Play With Life",
+      "url": "https://open.spotify.com/track/3IScamh9ikxPrBdVzLx3PE"
+    },
+    {
+      "album": {
+        "name": "PROMISE U (REVIBE Vol.1)",
+        "url": "https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207613,
+      "name": "Promise U",
+      "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"
+    },
+    {
+      "album": {
+        "name": "Say hello",
+        "url": "https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-02",
+      "duration_ms": 204356,
+      "name": "Say Yes (Feat. Moon Byul of MAMAMOO)",
+      "url": "https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA"
+    },
+    {
+      "album": {
+        "name": "\uc548\ubd80",
+        "url": "https://open.spotify.com/album/1ug4v28RlPr7U6ZsjoKuAJ"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        },
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204356,
+      "name": "Say Yes (feat. Moon Byul)",
+      "url": "https://open.spotify.com/track/6E9Utxp16LMVJWQVyKmzCG"
+    },
+    {
+      "album": {
+        "name": "RED MOON",
+        "url": "https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192577,
+      "name": "SELFISH",
+      "url": "https://open.spotify.com/track/5LoCRM3d9zF74z36lYoYud"
+    },
+    {
+      "album": {
+        "name": "4colors",
+        "url": "https://open.spotify.com/album/232T6PgapFXcufLzzRJU8u"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195000,
+      "name": "SELFISH (Feat. Seulgi of Red Velvet)",
+      "url": "https://open.spotify.com/track/7bKJmbS7y93C9U2LKvz2PB"
+    },
+    {
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Shine On You",
+      "url": "https://open.spotify.com/track/4oI4cFG1H57TEWRbjVqOD0"
+    },
+    {
+      "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Shutdown (Feat. Seori)",
+      "url": "https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1"
+    },
+    {
+      "album": {
+        "name": "Solo Christmas",
+        "url": "https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "Solo Christmas",
+      "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
+    },
+    {
+      "album": {
+        "name": "SPIT IT OUT",
+        "url": "https://open.spotify.com/album/1pLSlOXtHKPoSoB6ovnIAK"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Spit it out",
+      "url": "https://open.spotify.com/track/5F6RrFgt1yvRhNCdAEumM6"
+    },
+    {
+      "album": {
+        "name": "Yellow Flower",
+        "url": "https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211236,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX"
+    },
+    {
+      "album": {
+        "name": "Yellow Flower",
+        "url": "https://open.spotify.com/album/4G9qMxS9c4W5PPNdPrTaLn"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 211236,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/5MaDeMdqsPsZTxNWdEZPVH"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Starry Night (Orchestra ver.)",
+      "url": "https://open.spotify.com/track/3VTzAXLXUyEH5DzOt5AhSo"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184362,
+      "name": "Taller than You",
+      "url": "https://open.spotify.com/track/2MODoWGuNV60V7X9JRmcFh"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Ten Nights",
+      "url": "https://open.spotify.com/track/6zbHcliUyMYCI0NUUXcEEb"
+    },
+    {
+      "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/0YltOLvdxFrB6mexkc2ruh"
+    },
+    {
+      "album": {
+        "name": "TWIT",
+        "url": "https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190785,
+      "name": "TWIT",
+      "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
+    },
+    {
+      "album": {
+        "name": "Pink Funky",
+        "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214087,
+      "name": "Um Oh Ah Yeh",
+      "url": "https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259626,
+      "name": "Um Oh Ah Yeh 2021",
+      "url": "https://open.spotify.com/track/2siWP3HTGOdefFlwaNZIZw"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/4qbGJFymUZniG3wlZxTjUj"
+    },
+    {
+      "album": {
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192378,
+      "name": "Waggy",
+      "url": "https://open.spotify.com/track/4PaV21Q4jkSvfQ5iAcFJef"
+    },
+    {
+      "album": {
+        "name": "WANNA BE MYSELF",
+        "url": "https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "WANNA BE MYSELF",
+      "url": "https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV"
+    },
+    {
+      "album": {
+        "name": "Redd",
+        "url": "https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "water color",
+      "url": "https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w"
+    },
+    {
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/6QPa2ZmJsYLzTrQjG5FZIn"
+    },
+    {
+      "album": {
+        "name": "BLUE;S",
+        "url": "https://open.spotify.com/album/59QELOU685J1AMB2paryAx"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236816,
+      "name": "Wind flower",
+      "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Wind flower (Dramatic ver.)",
+      "url": "https://open.spotify.com/track/3gP6WrMMIBOwdcRboeYRQ1"
+    },
+    {
+      "album": {
+        "name": "School 2021 OST Part.7",
+        "url": "https://open.spotify.com/album/2qmdP9FLaY0zFxwh9gKjmE"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231556,
+      "name": "Winterblooming",
+      "url": "https://open.spotify.com/track/5cweaO0oyGOk1sBMrF1C2p"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235453,
+      "name": "Words Don't Come Easy 2021",
+      "url": "https://open.spotify.com/track/34fvinuZyU4KZ7Q82VCUWw"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/7lqVInQc3l7SbnbZa2cpFJ"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211660,
+      "name": "Yes I Am",
+      "url": "https://open.spotify.com/track/3RqUX4U46H6TPdH30gPy4k"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/4avDtRZBVVwV5l7k6vx1gm"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211660,
+      "name": "Yes I am",
+      "url": "https://open.spotify.com/track/3yL1v1JtX8k8zLOUoqGvq9"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Yes I am (Funk boost ver.)",
+      "url": "https://open.spotify.com/track/2D6NYtqQpcmFnBdMYfKlNx"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/4x2afg5wUzbfURyzacNACm"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230914,
+      "name": "You\u2019re the Best",
+      "url": "https://open.spotify.com/track/2GbF32jk2VyATjqFmUkpTR"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230914,
+      "name": "You\u2019re the Best",
+      "url": "https://open.spotify.com/track/3BUZUCu1uHaTvroizwqLHt"
+    },
+    {
+      "album": {
+        "name": "I SAY MAMAMOO : THE BEST",
+        "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "You\u2019re the best 2021",
+      "url": "https://open.spotify.com/track/3DI4St01wPQXTX55crOzMB"
+    },
+    {
+      "album": {
+        "name": "reality in BLACK",
+        "url": "https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "ZzZz",
+      "url": "https://open.spotify.com/track/550UTr3DIiMPveuG6O02ma"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.6",
+        "url": "https://open.spotify.com/album/2Xrq9jxjE7nObbhqf8Tagg"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266378,
+      "name": "\uc790\uafb8 \ub354 \ubcf4\uace0\uc2f6\uc740 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/5tYGD1oW1owwomJNzu0hde"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266378,
+      "name": "\uc790\uafb8 \ub354 \ubcf4\uace0\uc2f6\uc740 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/6KoLwgF9I5sSR9WWkfaVGH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWW5pERGrNVob"
 }

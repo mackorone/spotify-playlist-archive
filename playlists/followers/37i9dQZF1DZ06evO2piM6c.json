@@ -1,731 +1,1101 @@
 {
-  "2021-12-29": 278874,
-  "2021-12-30": 278982,
-  "2021-12-31": 279065,
-  "2022-01-01": 279195,
-  "2022-01-02": 279220,
-  "2022-01-03": 279293,
-  "2022-01-04": 279390,
-  "2022-01-05": 279451,
-  "2022-01-06": 279526,
-  "2022-01-07": 279609,
-  "2022-01-08": 279833,
-  "2022-01-09": 279838,
-  "2022-01-10": 279956,
-  "2022-01-11": 280032,
-  "2022-01-12": 280108,
-  "2022-01-13": 280193,
-  "2022-01-14": 280293,
-  "2022-01-15": 280502,
-  "2022-01-16": 280507,
-  "2022-01-17": 280839,
-  "2022-01-18": 280861,
-  "2022-01-19": 280929,
-  "2022-01-20": 281040,
-  "2022-01-21": 281176,
-  "2022-01-22": 281304,
-  "2022-01-23": 281441,
-  "2022-01-24": 281587,
-  "2022-01-25": 281694,
-  "2022-01-26": 281809,
-  "2022-01-27": 281911,
-  "2022-01-28": 282070,
-  "2022-01-29": 282196,
-  "2022-01-30": 282309,
-  "2022-01-31": 282405,
-  "2022-02-01": 282549,
-  "2022-02-02": 282637,
-  "2022-02-03": 282732,
-  "2022-02-04": 282845,
-  "2022-02-05": 282953,
-  "2022-02-06": 283054,
-  "2022-02-07": 283191,
-  "2022-02-08": 283278,
-  "2022-02-09": 283388,
-  "2022-02-10": 283462,
-  "2022-02-11": 283540,
-  "2022-02-12": 283655,
-  "2022-02-13": 283743,
-  "2022-02-14": 283837,
-  "2022-02-15": 283930,
-  "2022-02-16": 284003,
-  "2022-02-17": 284075,
-  "2022-02-18": 284180,
-  "2022-02-19": 284273,
-  "2022-02-20": 284364,
-  "2022-02-21": 284447,
-  "2022-02-22": 284531,
-  "2022-02-23": 284607,
-  "2022-02-24": 284694,
-  "2022-02-25": 284750,
-  "2022-02-26": 284823,
-  "2022-02-27": 285014,
-  "2022-02-28": 285014,
-  "2022-03-01": 285091,
-  "2022-03-02": 285163,
-  "2022-03-03": 285244,
-  "2022-03-04": 285335,
-  "2022-03-05": 285431,
-  "2022-03-06": 285522,
-  "2022-03-07": 285590,
-  "2022-03-08": 285655,
-  "2022-03-09": 285727,
-  "2022-03-10": 285807,
-  "2022-03-11": 285905,
-  "2022-03-12": 285994,
-  "2022-03-13": 286099,
-  "2022-03-14": 286180,
-  "2022-03-15": 286232,
-  "2022-03-16": 286299,
-  "2022-03-17": 286365,
-  "2022-03-18": 286461,
-  "2022-03-19": 286527,
-  "2022-03-20": 286527,
-  "2022-03-21": 286708,
-  "2022-03-22": 286747,
-  "2022-03-23": 286823,
-  "2022-03-24": 286896,
-  "2022-03-25": 286955,
-  "2022-03-26": 287039,
-  "2022-03-27": 287125,
-  "2022-03-28": 287189,
-  "2022-03-30": 287329,
-  "2022-03-31": 287422,
-  "2022-04-01": 287518,
-  "2022-04-02": 287633,
-  "2022-04-03": 287736,
-  "2022-04-04": 287831,
-  "2022-04-05": 287894,
-  "2022-04-06": 287974,
-  "2022-04-07": 288063,
-  "2022-04-08": 288149,
-  "2022-04-09": 288246,
-  "2022-04-10": 288437,
-  "2022-04-11": 288519,
-  "2022-04-12": 288524,
-  "2022-04-13": 288577,
-  "2022-04-14": 288641,
-  "2022-04-15": 288730,
-  "2022-04-16": 288823,
-  "2022-04-17": 288885,
-  "2022-04-18": 288990,
-  "2022-04-19": 289065,
-  "2022-04-20": 289157,
-  "2022-04-21": 289241,
-  "2022-04-22": 289313,
-  "2022-04-23": 289407,
-  "2022-04-24": 289498,
-  "2022-04-25": 289589,
-  "2022-04-26": 289665,
-  "2022-04-27": 289754,
-  "2022-04-28": 289817,
-  "2022-04-29": 289932,
-  "2022-04-30": 290030,
-  "2022-05-01": 290160,
-  "2022-05-02": 290160,
-  "2022-05-03": 290247,
-  "2022-05-04": 290312,
-  "2022-05-05": 290382,
-  "2022-05-06": 290459,
-  "2022-05-07": 290547,
-  "2022-05-08": 290665,
-  "2022-05-09": 290676,
-  "2022-05-10": 290739,
-  "2022-05-11": 290797,
-  "2022-05-12": 290883,
-  "2022-05-13": 290947,
-  "2022-05-14": 291024,
-  "2022-05-15": 291089,
-  "2022-05-16": 291189,
-  "2022-05-17": 291267,
-  "2022-05-18": 291321,
-  "2022-05-19": 291390,
-  "2022-05-20": 291488,
-  "2022-05-21": 291651,
-  "2022-05-22": 291651,
-  "2022-05-23": 291743,
-  "2022-05-24": 291826,
-  "2022-05-25": 291901,
-  "2022-05-26": 291965,
-  "2022-05-27": 292056,
-  "2022-05-28": 292121,
-  "2022-05-29": 292217,
-  "2022-05-30": 292311,
-  "2022-05-31": 292399,
-  "2022-06-01": 292512,
-  "2022-06-02": 292524,
-  "2022-06-03": 292595,
-  "2022-06-04": 292656,
-  "2022-06-05": 292745,
-  "2022-06-06": 292836,
-  "2022-06-07": 292909,
-  "2022-06-08": 292975,
-  "2022-06-09": 293050,
-  "2022-06-10": 293132,
-  "2022-06-11": 293211,
-  "2022-06-12": 293310,
-  "2022-06-13": 293390,
-  "2022-06-14": 293466,
-  "2022-06-15": 293549,
-  "2022-06-16": 293620,
-  "2022-06-17": 293690,
-  "2022-06-18": 293785,
-  "2022-06-19": 293950,
-  "2022-06-20": 293950,
-  "2022-06-21": 294031,
-  "2022-06-22": 294172,
-  "2022-06-23": 294172,
-  "2022-06-24": 294249,
-  "2022-06-25": 294344,
-  "2022-06-26": 294444,
-  "2022-06-27": 294568,
-  "2022-06-28": 294677,
-  "2022-06-29": 294765,
-  "2022-06-30": 294836,
-  "2022-07-01": 294918,
-  "2022-07-02": 295014,
-  "2022-07-03": 295109,
-  "2022-07-04": 295205,
-  "2022-07-05": 295205,
-  "2022-07-06": 295205,
-  "2022-07-07": 295515,
-  "2022-07-08": 295587,
-  "2022-07-09": 295680,
-  "2022-07-10": 295776,
-  "2022-07-11": 295877,
-  "2022-07-12": 295980,
-  "2022-07-13": 296086,
-  "2022-07-14": 296173,
-  "2022-07-15": 296273,
-  "2022-07-16": 296389,
-  "2022-07-17": 296476,
-  "2022-07-18": 296566,
-  "2022-07-19": 296656,
-  "2022-07-20": 296743,
-  "2022-07-21": 296818,
-  "2022-07-22": 296903,
-  "2022-07-23": 297005,
-  "2022-07-24": 297096,
-  "2022-07-25": 297174,
-  "2022-07-26": 297250,
-  "2022-07-27": 297334,
-  "2022-07-28": 297414,
-  "2022-07-29": 297494,
-  "2022-07-30": 297673,
-  "2022-07-31": 297673,
-  "2022-08-01": 297767,
-  "2022-08-02": 297917,
-  "2022-08-03": 297917,
-  "2022-08-04": 297989,
-  "2022-08-05": 298084,
-  "2022-08-06": 298175,
-  "2022-08-07": 298275,
-  "2022-08-08": 298370,
-  "2022-08-09": 298452,
-  "2022-08-10": 298521,
-  "2022-08-11": 298603,
-  "2022-08-12": 298698,
-  "2022-08-13": 298784,
-  "2022-08-14": 298863,
-  "2022-08-15": 298994,
-  "2022-08-16": 299068,
-  "2022-08-17": 299142,
-  "2022-08-18": 299223,
-  "2022-08-19": 299305,
-  "2022-08-20": 299384,
-  "2022-08-21": 299483,
-  "2022-08-22": 299597,
-  "2022-08-23": 299715,
-  "2022-08-24": 299797,
-  "2022-08-25": 299883,
-  "2022-08-26": 299986,
-  "2022-08-27": 300084,
-  "2022-08-28": 300184,
-  "2022-08-29": 300285,
-  "2022-08-30": 300309,
-  "2022-08-31": 300289,
-  "2022-09-01": 300263,
-  "2022-09-02": 300208,
-  "2022-09-03": 300086,
-  "2022-09-04": 300079,
-  "2022-09-05": 300168,
-  "2022-09-06": 300236,
-  "2022-09-07": 300328,
-  "2022-09-09": 300517,
-  "2022-09-10": 300598,
-  "2022-09-11": 300691,
-  "2022-09-12": 300780,
-  "2022-09-13": 300882,
-  "2022-09-15": 301018,
-  "2022-09-16": 301116,
-  "2022-09-17": 301206,
-  "2022-09-18": 301292,
-  "2022-09-19": 301380,
-  "2022-09-20": 301458,
-  "2022-09-21": 301546,
-  "2022-09-22": 301657,
-  "2022-09-23": 301788,
-  "2022-09-24": 301788,
-  "2022-09-25": 301997,
-  "2022-09-26": 302094,
-  "2022-09-27": 302179,
-  "2022-09-28": 302263,
-  "2022-09-29": 302351,
-  "2022-09-30": 302458,
-  "2022-10-01": 302561,
-  "2022-10-02": 302678,
-  "2022-10-03": 302786,
-  "2022-10-04": 302884,
-  "2022-10-05": 302974,
-  "2022-10-06": 303084,
-  "2022-10-07": 303182,
-  "2022-10-08": 303298,
-  "2022-10-09": 303502,
-  "2022-10-10": 303526,
-  "2022-10-11": 303639,
-  "2022-10-12": 303775,
-  "2022-10-13": 303912,
-  "2022-10-14": 304041,
-  "2022-10-15": 304160,
-  "2022-10-16": 304299,
-  "2022-10-17": 304427,
-  "2022-10-18": 304544,
-  "2022-10-19": 304648,
-  "2022-10-20": 304746,
-  "2022-10-21": 304870,
-  "2022-10-22": 305071,
-  "2022-10-23": 305228,
-  "2022-10-24": 305356,
-  "2022-10-25": 305457,
-  "2022-10-26": 305541,
-  "2022-10-27": 305641,
-  "2022-10-28": 305735,
-  "2022-10-29": 305864,
-  "2022-10-30": 306012,
-  "2022-10-31": 306136,
-  "2022-11-01": 306233,
-  "2022-11-02": 306357,
-  "2022-11-03": 306477,
-  "2022-11-04": 306619,
-  "2022-11-05": 306764,
-  "2022-11-06": 306885,
-  "2022-11-07": 307010,
-  "2022-11-08": 307165,
-  "2022-11-09": 307290,
-  "2022-11-10": 307423,
-  "2022-11-11": 307563,
-  "2022-11-12": 307749,
-  "2022-11-13": 307879,
-  "2022-11-14": 307999,
-  "2022-11-15": 308099,
-  "2022-11-16": 308228,
-  "2022-11-17": 308338,
-  "2022-11-18": 308365,
-  "2022-11-19": 308386,
-  "2022-11-20": 308459,
-  "2022-11-21": 308594,
-  "2022-11-22": 308727,
-  "2022-11-23": 308838,
-  "2022-11-24": 309049,
-  "2022-11-25": 309247,
-  "2022-11-26": 309383,
-  "2022-11-27": 309542,
-  "2022-11-28": 309679,
-  "2022-11-29": 309805,
-  "2022-11-30": 309963,
-  "2022-12-01": 310106,
-  "2022-12-02": 310199,
-  "2022-12-03": 310375,
-  "2022-12-04": 310523,
-  "2022-12-05": 310663,
-  "2022-12-06": 310792,
-  "2022-12-07": 310930,
-  "2022-12-08": 311068,
-  "2022-12-09": 311221,
-  "2022-12-10": 311332,
-  "2022-12-11": 311493,
-  "2022-12-12": 311661,
-  "2022-12-13": 311784,
-  "2022-12-14": 311916,
-  "2022-12-15": 312032,
-  "2022-12-16": 312157,
-  "2022-12-17": 312308,
-  "2022-12-18": 312432,
-  "2022-12-19": 312535,
-  "2022-12-20": 312795,
-  "2022-12-21": 312795,
-  "2022-12-22": 312932,
-  "2022-12-24": 313211,
-  "2022-12-25": 313358,
-  "2022-12-26": 313478,
-  "2022-12-27": 313625,
-  "2022-12-28": 313804,
-  "2022-12-29": 313967,
-  "2022-12-30": 314158,
-  "2022-12-31": 314348,
-  "2023-01-01": 314527,
-  "2023-01-02": 314682,
-  "2023-01-03": 314861,
-  "2023-01-04": 315028,
-  "2023-01-05": 315163,
-  "2023-01-06": 315340,
-  "2023-01-07": 315617,
-  "2023-01-08": 315686,
-  "2023-01-09": 315853,
-  "2023-01-10": 316014,
-  "2023-01-11": 316180,
-  "2023-01-12": 316338,
-  "2023-01-13": 316499,
-  "2023-01-14": 316799,
-  "2023-01-15": 316849,
-  "2023-01-16": 317036,
-  "2023-01-17": 317255,
-  "2023-01-18": 317479,
-  "2023-01-19": 317697,
-  "2023-01-20": 317899,
-  "2023-01-21": 318099,
-  "2023-01-22": 318312,
-  "2023-01-23": 318504,
-  "2023-01-24": 318685,
-  "2023-01-25": 318836,
-  "2023-01-26": 319012,
-  "2023-01-27": 319189,
-  "2023-01-28": 319365,
-  "2023-01-29": 319558,
-  "2023-01-30": 319731,
-  "2023-01-31": 319731,
-  "2023-02-01": 320048,
-  "2023-02-02": 320200,
-  "2023-02-03": 320331,
-  "2023-02-04": 320466,
-  "2023-02-05": 320644,
-  "2023-02-06": 320800,
-  "2023-02-07": 320941,
-  "2023-02-08": 321215,
-  "2023-02-09": 321215,
-  "2023-02-10": 321355,
-  "2023-02-11": 321511,
-  "2023-02-12": 321824,
-  "2023-02-13": 321922,
-  "2023-02-14": 321922,
-  "2023-02-15": 322059,
-  "2023-02-16": 322176,
-  "2023-02-17": 322289,
-  "2023-02-18": 322546,
-  "2023-02-19": 322569,
-  "2023-02-20": 322654,
-  "2023-02-21": 322782,
-  "2023-02-22": 322881,
-  "2023-02-23": 323040,
-  "2023-02-24": 323164,
-  "2023-02-25": 323333,
-  "2023-02-26": 323411,
-  "2023-02-27": 323677,
-  "2023-02-28": 323677,
-  "2023-03-01": 323786,
-  "2023-03-02": 323901,
-  "2023-03-03": 324035,
-  "2023-03-04": 324161,
-  "2023-03-05": 324440,
-  "2023-03-06": 324440,
-  "2023-03-07": 324572,
-  "2023-03-08": 324696,
-  "2023-03-09": 324817,
-  "2023-03-10": 324920,
-  "2023-03-11": 325069,
-  "2023-03-12": 325224,
-  "2023-03-13": 325365,
-  "2023-03-14": 325496,
-  "2023-03-15": 325614,
-  "2023-03-16": 325614,
-  "2023-03-17": 325614,
-  "2023-03-18": 325971,
-  "2023-03-19": 325971,
-  "2023-03-20": 326249,
-  "2023-03-21": 326357,
-  "2023-03-22": 326487,
-  "2023-03-23": 326593,
-  "2023-03-24": 326593,
-  "2023-03-25": 326829,
-  "2023-03-26": 326964,
-  "2023-03-27": 327088,
-  "2023-03-28": 327201,
-  "2023-03-29": 327336,
-  "2023-03-30": 327584,
-  "2023-03-31": 327584,
-  "2023-04-01": 327703,
-  "2023-04-02": 327849,
-  "2023-04-03": 327987,
-  "2023-04-04": 328119,
-  "2023-04-05": 328238,
-  "2023-04-06": 328389,
-  "2023-04-07": 328527,
-  "2023-04-09": 328818,
-  "2023-04-10": 328944,
-  "2023-04-11": 329188,
-  "2023-04-12": 329188,
-  "2023-04-13": 329307,
-  "2023-04-14": 329434,
-  "2023-04-15": 329570,
-  "2023-04-16": 329709,
-  "2023-04-17": 329805,
-  "2023-04-18": 329923,
-  "2023-04-19": 330065,
-  "2023-04-20": 330189,
-  "2023-04-21": 330289,
-  "2023-04-22": 330394,
-  "2023-04-23": 330552,
-  "2023-04-24": 330697,
-  "2023-04-25": 330844,
-  "2023-04-26": 330968,
-  "2023-04-27": 331100,
-  "2023-04-28": 331203,
-  "2023-04-29": 331339,
-  "2023-04-30": 331483,
-  "2023-05-01": 331614,
-  "2023-05-02": 331736,
-  "2023-05-03": 331832,
-  "2023-05-04": 331942,
-  "2023-05-05": 332052,
-  "2023-05-06": 332185,
-  "2023-05-07": 332300,
-  "2023-05-08": 332439,
-  "2023-05-09": 332574,
-  "2023-05-10": 332664,
-  "2023-05-11": 332772,
-  "2023-05-12": 332897,
-  "2023-05-13": 333030,
-  "2023-05-14": 333147,
-  "2023-05-15": 333271,
-  "2023-05-16": 333384,
-  "2023-05-17": 333495,
-  "2023-05-18": 333620,
-  "2023-05-19": 333771,
-  "2023-05-20": 334095,
-  "2023-05-21": 334095,
-  "2023-05-22": 334095,
-  "2023-05-23": 334385,
-  "2023-05-24": 334636,
-  "2023-05-25": 334671,
-  "2023-05-26": 334812,
-  "2023-05-27": 334929,
-  "2023-05-28": 335076,
-  "2023-05-29": 335076,
-  "2023-05-30": 335365,
-  "2023-05-31": 335493,
-  "2023-06-01": 335635,
-  "2023-06-02": 335756,
-  "2023-06-03": 335897,
-  "2023-06-04": 336034,
-  "2023-06-05": 336189,
-  "2023-06-06": 336345,
-  "2023-06-07": 336474,
-  "2023-06-08": 336610,
-  "2023-06-09": 336742,
-  "2023-06-10": 336923,
-  "2023-06-11": 337088,
-  "2023-06-12": 337227,
-  "2023-06-13": 337357,
-  "2023-06-14": 337480,
-  "2023-06-15": 337624,
-  "2023-06-16": 337751,
-  "2023-06-17": 337896,
-  "2023-06-18": 338069,
-  "2023-06-19": 338234,
-  "2023-06-20": 338350,
-  "2023-06-21": 338465,
-  "2023-06-22": 338609,
-  "2023-06-23": 338757,
-  "2023-06-24": 338893,
-  "2023-06-25": 339029,
-  "2023-06-26": 339203,
-  "2023-06-27": 339322,
-  "2023-06-28": 339441,
-  "2023-06-29": 339566,
-  "2023-06-30": 339674,
-  "2023-07-01": 339982,
-  "2023-07-02": 339982,
-  "2023-07-03": 340141,
-  "2023-07-04": 340286,
-  "2023-07-05": 340442,
-  "2023-07-06": 340799,
-  "2023-07-07": 340799,
-  "2023-07-08": 340799,
-  "2023-07-09": 341093,
-  "2023-07-10": 341272,
-  "2023-07-11": 341408,
-  "2023-07-12": 341538,
-  "2023-07-13": 341669,
-  "2023-07-14": 341813,
-  "2023-07-15": 341967,
-  "2023-07-16": 342135,
-  "2023-07-17": 342299,
-  "2023-07-18": 342434,
-  "2023-07-19": 342565,
-  "2023-07-20": 342707,
-  "2023-07-21": 342861,
-  "2023-07-22": 343012,
-  "2023-07-23": 343137,
-  "2023-07-24": 343302,
-  "2023-07-25": 343435,
-  "2023-07-26": 343567,
-  "2023-07-27": 343725,
-  "2023-07-28": 343902,
-  "2023-07-29": 344031,
-  "2023-07-30": 344158,
-  "2023-07-31": 344298,
-  "2023-08-01": 344420,
-  "2023-08-02": 344547,
-  "2023-08-03": 344664,
-  "2023-08-04": 344771,
-  "2023-08-05": 344905,
-  "2023-08-06": 345177,
-  "2023-08-07": 345177,
-  "2023-08-08": 345306,
-  "2023-08-09": 345432,
-  "2023-08-10": 345574,
-  "2023-08-11": 345717,
-  "2023-08-12": 345717,
-  "2023-08-13": 345717,
-  "2023-08-14": 346114,
-  "2023-08-15": 346114,
-  "2023-08-16": 346114,
-  "2023-08-17": 346114,
-  "2023-08-18": 346114,
-  "2023-08-19": 346114,
-  "2023-08-20": 346893,
-  "2023-08-21": 346893,
-  "2023-08-22": 347174,
-  "2023-08-23": 347174,
-  "2023-08-24": 347174,
-  "2023-08-25": 347174,
-  "2023-08-26": 347700,
-  "2023-08-27": 347700,
-  "2023-08-28": 347980,
-  "2023-08-29": 347980,
-  "2023-08-30": 347980,
-  "2023-08-31": 348385,
-  "2023-09-01": 348476,
-  "2023-09-02": 348476,
-  "2023-09-03": 348476,
-  "2023-09-04": 348476,
-  "2023-09-05": 348476,
-  "2023-09-06": 348476,
-  "2023-09-07": 348476,
-  "2023-09-08": 348476,
-  "2023-09-09": 348476,
-  "2023-09-10": 348476,
-  "2023-09-11": 348476,
-  "2023-09-12": 348476,
-  "2023-09-13": 348476,
-  "2023-09-14": 348476,
-  "2023-09-15": 348476,
-  "2023-09-16": 350490,
-  "2023-09-17": 350490,
-  "2023-09-18": 350490,
-  "2023-09-19": 350933,
-  "2023-09-20": 350933,
-  "2023-09-21": 350933,
-  "2023-09-22": 351307,
-  "2023-09-23": 351307,
-  "2023-09-24": 351307,
-  "2023-09-25": 351307,
-  "2023-09-26": 351800,
-  "2023-09-27": 351800,
-  "2023-09-28": 351800,
-  "2023-09-29": 351800,
-  "2023-09-30": 351800,
-  "2023-10-01": 351800,
-  "2023-10-02": 351800,
-  "2023-10-03": 351800,
-  "2023-10-04": 351800,
-  "2023-10-05": 351800,
-  "2023-10-06": 351800,
-  "2023-10-07": 351800,
-  "2023-10-08": 351800,
-  "2023-10-09": 351800,
-  "2023-10-10": 351800,
-  "2023-10-11": 353393,
-  "2023-10-12": 353393,
-  "2023-10-13": 353393,
-  "2023-10-14": 353393,
-  "2023-10-15": 353393,
-  "2023-10-16": 353393,
-  "2023-10-17": 353393,
-  "2023-10-18": 353393,
-  "2023-10-19": 353393,
-  "2023-10-20": 353393,
-  "2023-10-21": 353393,
-  "2023-10-22": 353393,
-  "2023-10-23": 353393,
-  "2023-10-24": 353393,
-  "2023-10-25": 353393,
-  "2023-10-26": 353393,
-  "2023-10-27": 353393,
-  "2023-10-28": 353393,
-  "2023-10-29": 353393,
-  "2023-10-30": 353393,
-  "2023-10-31": 353393,
-  "2023-11-01": 353393,
-  "2023-11-02": 353393,
-  "2023-11-03": 353393,
-  "2023-11-04": 353393,
-  "2023-11-05": 353393,
-  "2023-11-06": 353393,
-  "2023-11-07": 353393,
-  "2023-11-08": 353393,
-  "2023-11-09": 353393,
-  "2023-11-10": 353393,
-  "2023-11-11": 356898,
-  "2023-11-12": 356898,
-  "2023-11-13": 356898,
-  "2023-11-14": 356898,
-  "2023-11-15": 356898,
-  "2023-11-16": 356898,
-  "2023-11-17": 356898,
-  "2023-11-18": 356898,
-  "2023-11-19": 356898,
-  "2023-11-20": 356898,
-  "2023-11-21": 356898,
-  "2023-11-22": 356898,
-  "2023-11-23": 356898,
-  "2023-11-24": 356898,
-  "2023-11-25": 356898,
-  "2023-11-26": 356898,
-  "2023-11-27": 356898,
-  "2023-11-28": 356898,
-  "2023-11-29": 356898,
-  "2023-11-30": 356898,
-  "2023-12-01": 356898,
-  "2023-12-02": 356898,
-  "2023-12-03": 356898,
-  "2023-12-04": 356898,
-  "2023-12-05": 356898,
-  "2023-12-06": 356898,
-  "2023-12-07": 356898,
-  "2023-12-08": 356898,
-  "2023-12-09": 356898,
-  "2023-12-10": 356898,
-  "2023-12-11": 356898,
-  "2023-12-12": 356898,
-  "2023-12-13": 356898,
-  "2023-12-14": 360186,
-  "2023-12-15": 360270,
-  "2023-12-16": 360376,
-  "2023-12-17": 360468,
-  "2023-12-18": 360585,
-  "2023-12-19": 360676,
-  "2023-12-20": 360812,
-  "2023-12-21": 360938,
-  "2023-12-22": 361084,
-  "2023-12-23": 361238,
-  "2023-12-24": 361415,
-  "2023-12-25": 361533,
-  "2023-12-26": 361671,
-  "2023-12-27": 361819,
-  "2023-12-30": 362311,
-  "2023-12-31": 362448,
-  "2024-01-01": 362577,
-  "2024-01-02": 362682,
-  "2024-01-03": 362815
+  "2024-01-17": 364233,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Sade. The essential tracks, all in one playlist.",
+  "name": "This Is Sade",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "All About Our Love",
+      "url": "https://open.spotify.com/track/0TZOdKFWNYfnwewAP8R4D8"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 278640,
+      "name": "Babyfather",
+      "url": "https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Be That Easy",
+      "url": "https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247266,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/1akRbcGtVdQl6xDIVBaExK"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378733,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 244706,
+      "name": "Every Word",
+      "url": "https://open.spotify.com/track/2044AELKGaOBQJ5ZqTbJMO"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 249706,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6iaOeExRsgRStLOhSOmJUx"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309200,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11"
+    },
+    {
+      "album": {
+        "name": "Flower of the Universe (From Disney's \"A Wrinkle in Time\")",
+        "url": "https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Flower of the Universe (From Disney's \"A Wrinkle in Time\")",
+      "url": "https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "Frankie's First Affair",
+      "url": "https://open.spotify.com/track/67r1nqpzlKj3x0khmvdFoD"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "Hang on to Your Love",
+      "url": "https://open.spotify.com/track/6KIS5YIZAyeiFNx1aE1OhY"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350293,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "I Couldn't Love You More",
+      "url": "https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "I Never Thought I'd See the Day",
+      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283426,
+      "name": "I Will Be Your Friend",
+      "url": "https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 228026,
+      "name": "Immigrant",
+      "url": "https://open.spotify.com/track/2lijdOYNAjF8y7hRJQJNCx"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304413,
+      "name": "In Another Time",
+      "url": "https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381133,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 233533,
+      "name": "It's Only Love That Gets You Through",
+      "url": "https://open.spotify.com/track/1jgce88ygplFg5g2AS2WEB"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 329133,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321600,
+      "name": "Keep Looking",
+      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "King of Sorrow",
+      "url": "https://open.spotify.com/track/0qQcQIj6htaCX7KFrsciNU"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "album": {
+        "name": "Like A Tattoo",
+        "url": "https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO"
+      },
+      "artists": [
+        {
+          "name": "Don Arcadio",
+          "url": "https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh"
+        },
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 260853,
+      "name": "Like A Tattoo",
+      "url": "https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+    },
+    {
+      "album": {
+        "name": "Like A Tattoo (Slowed Down)",
+        "url": "https://open.spotify.com/album/10CvU2TbBrLTcLXqGr8R2L"
+      },
+      "artists": [
+        {
+          "name": "Don Arcadio",
+          "url": "https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh"
+        },
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        },
+        {
+          "name": "slowed down audioss",
+          "url": "https://open.spotify.com/artist/6bMREuqsHFPKAi9ZtVxp0G"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289837,
+      "name": "Like A Tattoo - Slowed Down",
+      "url": "https://open.spotify.com/track/6BBjvruQhRiJsrxr7qJThj"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Long Hard Road",
+      "url": "https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Love Is Found",
+      "url": "https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/5Qrcxc2YPomtX6UB0bwNaf"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Maureen",
+      "url": "https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Mr Wrong",
+      "url": "https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "Never as Good as the First Time",
+      "url": "https://open.spotify.com/track/1OefsOF4JwGjOeLiWuUKTI"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440466,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/0qU806xTLhuZ5kCrex2x4r"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-21",
+      "duration_ms": 232666,
+      "name": "Nothing Can Come Between Us - Remastered",
+      "url": "https://open.spotify.com/track/6pBDa5KwQ51kbs4WusIPPw"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+    },
+    {
+      "album": {
+        "name": "Bring Me Home - Live 2011",
+        "url": "https://open.spotify.com/album/6uitRl1P04zFg325MmqOlw"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-26",
+      "duration_ms": 382000,
+      "name": "Paradise / Nothing Can Come Between Us - Live 2011",
+      "url": "https://open.spotify.com/track/5sSrhbjKD0u1uqyU0gMW0R"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273226,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/4J7s7j5ulwElPG7HaGQDXR"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-16",
+      "duration_ms": 220826,
+      "name": "Please Send Me Someone to Love",
+      "url": "https://open.spotify.com/track/7pm8e1QG0XJDZ2nJZTeDBw"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 315973,
+      "name": "Siempre Hay Esperanza",
+      "url": "https://open.spotify.com/track/0QK7KQ2tKZzqZURTFo2Xru"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 252306,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0V7dub77HhBIvjR7MaO56y"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 252466,
+      "name": "Slave Song",
+      "url": "https://open.spotify.com/track/5iQ530xQUXmzA4RRC0qzu3"
+    },
+    {
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356653,
+      "name": "Soldier of Love",
+      "url": "https://open.spotify.com/track/0bgsj8kz5zWbQ6njk2Oqoz"
+    },
+    {
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "Somebody Already Broke My Heart",
+      "url": "https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "Still in Love with You",
+      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Tar Baby",
+      "url": "https://open.spotify.com/track/0vOBoaUAgYwDUfATb01HLU"
+    },
+    {
+      "album": {
+        "name": "The Big Unknown (From \"Widows\")",
+        "url": "https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "The Big Unknown (From \"Widows\")",
+      "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
+    },
+    {
+      "album": {
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/2ZEwMwHaUECDWKkDh8rL0O"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277373,
+      "name": "The Sweetest Taboo",
+      "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366693,
+      "name": "Turn My Back On You",
+      "url": "https://open.spotify.com/track/7aiN4fPcpFmZeF88SiVdpS"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407866,
+      "name": "War of the Hearts",
+      "url": "https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "When Am I Going to Make a Living",
+      "url": "https://open.spotify.com/track/5DYD5pUUnf3MT6LafqPqOt"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/7pd7fTNMtn4jRv80CSdgcq"
+    },
+    {
+      "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Your Love Is King",
+      "url": "https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 
 > Workout music for hamsters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,968 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,972 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

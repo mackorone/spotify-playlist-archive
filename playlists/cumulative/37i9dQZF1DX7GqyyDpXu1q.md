@@ -2,9 +2,9 @@
 
 ### [Southern Comfort](https://open.spotify.com/playlist/37i9dQZF1DX7GqyyDpXu1q)
 
-> Southern rock swagger served neat\. Cover: Chris Stapleton
+> Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-222 songs - 13 hr 35 min
+223 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2020-08-21 |  |
 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 | 2023-07-14 |  |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-08-21 |  |
-| [My Baby](https://open.spotify.com/track/0C0071fdVF4UlVztjR5nJb) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [My Baby](https://open.spotify.com/album/1gtipNAcuxrHlkznJffWax) | 3:07 | 2023-07-21 |  |
+| [My Baby](https://open.spotify.com/track/0C0071fdVF4UlVztjR5nJb) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [My Baby](https://open.spotify.com/album/1gtipNAcuxrHlkznJffWax) | 3:07 | 2023-07-21 | 2024-01-13 |
 | [My Head](https://open.spotify.com/track/4xgf5wtpweaJlOyCklWa5e) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [My Head](https://open.spotify.com/album/2WEd6WatdAXsq9bWS4nI0R) | 5:15 | 2021-08-13 | 2023-06-10 |
 | [Nashville Tuesday Morning](https://open.spotify.com/track/0vXuLLkoItEoXhE65SbBuc) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Nashville Tuesday Morning](https://open.spotify.com/album/6gbL2sffH1AcyHj2LyWj3C) | 4:59 | 2022-08-16 | 2023-06-10 |
 | [Naturally Wild](https://open.spotify.com/track/3Qi4gIj4fB6PF3lDKC1DDd) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:14 | 2022-06-14 |  |
@@ -220,6 +220,7 @@
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-11-12 | 2022-01-22 |
 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-08-16 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2020-08-21 |  |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [Welcome 2 Club XIII](https://open.spotify.com/track/0CqQEFDDgVBj4VZAH5C43S) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [Welcome 2 Club XIII](https://open.spotify.com/album/5eEe392vaoKZOsVrEIyLsT) | 3:22 | 2022-06-03 | 2023-07-22 |
 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 | 2021-07-09 | 2022-03-22 |
 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 | 2023-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9J6gykuP8Cf.md) - [plain]
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,845 likes - 18 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,516 likes - 18 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Sum 41 au top des meilleurs morceaux rock du moment.",
+  "description": "Shaka Ponk au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "999",
+      "url": "https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi"
+    },
     {
       "album": {
         "name": "A Little Bit Happy",
@@ -164,6 +182,24 @@
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "album": {
+        "name": "ATUM",
+        "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
     },
     {
       "album": {
@@ -510,7 +546,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 190000,
       "name": "Empires",
       "url": "https://open.spotify.com/track/5uKFAmmnnJ4qkQtyFFTYuE"
@@ -648,7 +684,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
@@ -821,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
       },
@@ -944,6 +998,24 @@
       "duration_ms": 312084,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ"
+    },
+    {
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/0L4RnqTg3JE7PtHVTkYQTT"
+      },
+      "artists": [
+        {
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j"
     },
     {
       "album": {
@@ -1282,7 +1354,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 207849,
       "name": "Shiner In The Dark",
       "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
@@ -1473,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Back To The Water Below (Bonus Edition)",
+        "url": "https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190130,
+      "name": "Supermodel Avalanches",
+      "url": "https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1"
       },
@@ -1610,10 +1700,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 214480,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5tY2w7GAcE6vhSAKHaigSk"
+    },
+    {
+      "album": {
+        "name": "A New Breed",
+        "url": "https://open.spotify.com/album/5wvYWow2IFdXSdXQty500e"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243927,
+      "name": "Taste The Sun",
+      "url": "https://open.spotify.com/track/0pGmOeAeuQGsFcxP928ima"
     },
     {
       "album": {
@@ -1628,7 +1736,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 243927,
       "name": "Taste The Sun",
       "url": "https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv"
@@ -1776,7 +1884,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
@@ -1798,6 +1906,24 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "album": {
@@ -1830,7 +1956,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 204338,
       "name": "When The Pain Comes",
       "url": "https://open.spotify.com/track/5gchQWwST4zwgxCIG3raYB"

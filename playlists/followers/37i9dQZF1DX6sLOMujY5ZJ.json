@@ -1,167 +1,621 @@
 {
-  "2023-07-21": 219,
-  "2023-07-22": 237,
-  "2023-07-23": 255,
-  "2023-07-24": 273,
-  "2023-07-25": 295,
-  "2023-07-26": 310,
-  "2023-07-27": 329,
-  "2023-07-28": 350,
-  "2023-07-29": 382,
-  "2023-07-30": 407,
-  "2023-07-31": 420,
-  "2023-08-01": 433,
-  "2023-08-02": 450,
-  "2023-08-03": 470,
-  "2023-08-04": 484,
-  "2023-08-05": 501,
-  "2023-08-06": 540,
-  "2023-08-07": 540,
-  "2023-08-08": 562,
-  "2023-08-09": 573,
-  "2023-08-10": 594,
-  "2023-08-11": 615,
-  "2023-08-12": 631,
-  "2023-08-13": 638,
-  "2023-08-14": 651,
-  "2023-08-15": 686,
-  "2023-08-16": 686,
-  "2023-08-17": 695,
-  "2023-08-18": 714,
-  "2023-08-19": 729,
-  "2023-08-20": 745,
-  "2023-08-21": 755,
-  "2023-08-22": 773,
-  "2023-08-23": 786,
-  "2023-08-24": 807,
-  "2023-08-25": 824,
-  "2023-08-26": 839,
-  "2023-08-27": 862,
-  "2023-08-28": 880,
-  "2023-08-29": 889,
-  "2023-08-30": 902,
-  "2023-08-31": 916,
-  "2023-09-01": 957,
-  "2023-09-02": 957,
-  "2023-09-03": 971,
-  "2023-09-04": 999,
-  "2023-09-05": 1022,
-  "2023-09-06": 1042,
-  "2023-09-07": 1062,
-  "2023-09-08": 1090,
-  "2023-09-09": 1106,
-  "2023-09-10": 1134,
-  "2023-09-11": 1163,
-  "2023-09-12": 1193,
-  "2023-09-13": 1210,
-  "2023-09-14": 1225,
-  "2023-09-15": 1256,
-  "2023-09-16": 1277,
-  "2023-09-17": 1304,
-  "2023-09-18": 1326,
-  "2023-09-19": 1349,
-  "2023-09-20": 1365,
-  "2023-09-21": 1387,
-  "2023-09-22": 1402,
-  "2023-09-23": 1421,
-  "2023-09-24": 1445,
-  "2023-09-25": 1472,
-  "2023-09-26": 1488,
-  "2023-09-27": 1509,
-  "2023-09-28": 1534,
-  "2023-09-29": 1560,
-  "2023-09-30": 1576,
-  "2023-10-01": 1586,
-  "2023-10-02": 1600,
-  "2023-10-03": 1609,
-  "2023-10-04": 1624,
-  "2023-10-05": 1656,
-  "2023-10-06": 1668,
-  "2023-10-07": 1695,
-  "2023-10-08": 1726,
-  "2023-10-09": 1747,
-  "2023-10-10": 1776,
-  "2023-10-11": 1836,
-  "2023-10-12": 1836,
-  "2023-10-13": 1854,
-  "2023-10-14": 1872,
-  "2023-10-15": 1891,
-  "2023-10-16": 1924,
-  "2023-10-17": 1943,
-  "2023-10-18": 1974,
-  "2023-10-19": 1999,
-  "2023-10-20": 2032,
-  "2023-10-21": 2053,
-  "2023-10-22": 2078,
-  "2023-10-23": 2099,
-  "2023-10-24": 2127,
-  "2023-10-25": 2139,
-  "2023-10-26": 2164,
-  "2023-10-27": 2184,
-  "2023-10-28": 2200,
-  "2023-10-29": 2222,
-  "2023-10-30": 2258,
-  "2023-10-31": 2258,
-  "2023-11-01": 2280,
-  "2023-11-02": 2306,
-  "2023-11-03": 2333,
-  "2023-11-04": 2354,
-  "2023-11-05": 2374,
-  "2023-11-06": 2389,
-  "2023-11-07": 2411,
-  "2023-11-08": 2426,
-  "2023-11-09": 2453,
-  "2023-11-10": 2480,
-  "2023-11-11": 2504,
-  "2023-11-12": 2522,
-  "2023-11-13": 2548,
-  "2023-11-14": 2576,
-  "2023-11-15": 2576,
-  "2023-11-16": 2639,
-  "2023-11-17": 2686,
-  "2023-11-18": 2686,
-  "2023-11-19": 2705,
-  "2023-11-20": 2731,
-  "2023-11-21": 2759,
-  "2023-11-22": 2786,
-  "2023-11-23": 2808,
-  "2023-11-24": 2827,
-  "2023-11-25": 2851,
-  "2023-11-26": 2874,
-  "2023-11-27": 2899,
-  "2023-11-28": 2918,
-  "2023-11-29": 2974,
-  "2023-11-30": 2974,
-  "2023-12-01": 3006,
-  "2023-12-02": 3014,
-  "2023-12-03": 3055,
-  "2023-12-04": 3081,
-  "2023-12-05": 3110,
-  "2023-12-06": 3130,
-  "2023-12-07": 3152,
-  "2023-12-08": 3175,
-  "2023-12-09": 3191,
-  "2023-12-10": 3204,
-  "2023-12-11": 3223,
-  "2023-12-12": 3245,
-  "2023-12-13": 3267,
-  "2023-12-14": 3288,
-  "2023-12-15": 3298,
-  "2023-12-16": 3316,
-  "2023-12-17": 3345,
-  "2023-12-18": 3363,
-  "2023-12-19": 3373,
-  "2023-12-20": 3394,
-  "2023-12-21": 3412,
-  "2023-12-22": 3439,
-  "2023-12-23": 3462,
-  "2023-12-24": 3485,
-  "2023-12-25": 3505,
-  "2023-12-26": 3524,
-  "2023-12-27": 3544,
-  "2023-12-30": 3607,
-  "2023-12-31": 3631,
-  "2024-01-01": 3647,
-  "2024-01-02": 3675,
-  "2024-01-03": 3694
+  "2024-01-17": 3975,
+  "date_first_scraped": "2023-07-21",
+  "description": "These are the songs that have shaped <a href=\"https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3\">Teezo Touchdown's</a> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\"> here.",
+  "name": "COUNTER//CULTURE: Teezo Touchdown",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sex Down",
+        "url": "https://open.spotify.com/album/1u4KCF74p7JhxexnLopbYR"
+      },
+      "artists": [
+        {
+          "name": "Link",
+          "url": "https://open.spotify.com/artist/34gJOUTurjXaj8z3E9fDaV"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264778,
+      "name": "911-0024",
+      "url": "https://open.spotify.com/track/1qhWMBXk69xD1xwwjKlR3N"
+    },
+    {
+      "album": {
+        "name": "Greatest Mixtape Hits",
+        "url": "https://open.spotify.com/album/6zElyR40LjSG6fuyvF2suT"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175751,
+      "name": "Brick Fair (feat. Future)",
+      "url": "https://open.spotify.com/track/4HVmysvB2NfSYxe7aZiI8S"
+    },
+    {
+      "album": {
+        "name": "Ghetto D",
+        "url": "https://open.spotify.com/album/699xAzNxlXxgmkycTEqktC"
+      },
+      "artists": [
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Silkk The Shocker",
+          "url": "https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z"
+        },
+        {
+          "name": "Lil' Gotti",
+          "url": "https://open.spotify.com/artist/6YJFwHfTwWZCZ4za62AW2g"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Burbons And Lacs",
+      "url": "https://open.spotify.com/track/1Xunvmk47Mju6oZlgzm2Ty"
+    },
+    {
+      "album": {
+        "name": "Roof Back",
+        "url": "https://open.spotify.com/album/0zN9rPLMpFDuVZVeNt7DYZ"
+      },
+      "artists": [
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340280,
+      "name": "Chicken Head",
+      "url": "https://open.spotify.com/track/6nMb9BwmD0GCBj4wGV28cW"
+    },
+    {
+      "album": {
+        "name": "City of Syrup (Wreckchopped & Screwed)",
+        "url": "https://open.spotify.com/album/5csOeN7aVmbOf3RBSNSTtA"
+      },
+      "artists": [
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        },
+        {
+          "name": "D-Gotti",
+          "url": "https://open.spotify.com/artist/4BxD7dcIktd3Hfd3zP083u"
+        },
+        {
+          "name": "Noke D",
+          "url": "https://open.spotify.com/artist/3CPWzF2Hpy0iGjbAvSukVu"
+        },
+        {
+          "name": "D-Reck",
+          "url": "https://open.spotify.com/artist/4lBPJuz1U6PcohIKxqZF72"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415506,
+      "name": "Choppaz (Wreckchopped & Screwed)",
+      "url": "https://open.spotify.com/track/4bXGuPmeMHM8idqVYaxLt4"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/1pxbLI1IX7RKkbMjaSrm9j"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238893,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/1cK5zOWpPCYdoGQczIltf6"
+    },
+    {
+      "album": {
+        "name": "Third Coast Born",
+        "url": "https://open.spotify.com/album/6xPbrTfNcApWQXGNLtOyX8"
+      },
+      "artists": [
+        {
+          "name": "C-Note",
+          "url": "https://open.spotify.com/artist/7aJgZeWVFzRf96TinYwgsu"
+        },
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        },
+        {
+          "name": "Deep Threat",
+          "url": "https://open.spotify.com/artist/0oGtCdAGAFzvtqKSYokCqZ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322133,
+      "name": "Diamondz All-N-Yo Face",
+      "url": "https://open.spotify.com/track/5YjrweI0AOh4DxCM68fBjJ"
+    },
+    {
+      "album": {
+        "name": "Leprechaun (Chopped & Screwed)",
+        "url": "https://open.spotify.com/album/6RWSCNjjacdWAHBdkUIsij"
+      },
+      "artists": [
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        },
+        {
+          "name": "O.G. Ron C",
+          "url": "https://open.spotify.com/artist/7rfiu2sZrvixYoHM1bjgxi"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414800,
+      "name": "Don\u2019t Approach Me (Chopped & Screwed)",
+      "url": "https://open.spotify.com/track/4DNScJg5c9PmPYhLMXPlAA"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66786,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/2JUqYobT8NvARdPmc4ES2x"
+    },
+    {
+      "album": {
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Goons Lurkin",
+      "url": "https://open.spotify.com/track/6qIUZtyn0AIfbjZ72b25bt"
+    },
+    {
+      "album": {
+        "name": "Can I Live",
+        "url": "https://open.spotify.com/album/5AZdilkLD88zZqB7ONTiOT"
+      },
+      "artists": [
+        {
+          "name": "Mista Madd",
+          "url": "https://open.spotify.com/artist/5p8vd7al1l0ydxORHatbuR"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Ha! What! Mann!",
+      "url": "https://open.spotify.com/track/0ib4b5JkLyrXGzJ7NRlepv"
+    },
+    {
+      "album": {
+        "name": "Life of a Hot Boy",
+        "url": "https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Fresh",
+          "url": "https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135662,
+      "name": "I Knew I'll Make It",
+      "url": "https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5"
+    },
+    {
+      "album": {
+        "name": "Down for Life",
+        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
+      },
+      "artists": [
+        {
+          "name": "D4L",
+          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247026,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/1jaNJ1dXZlZLQUaVIb4ePB"
+    },
+    {
+      "album": {
+        "name": "City Of Syrup",
+        "url": "https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn"
+      },
+      "artists": [
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252893,
+      "name": "I\u2019ll Do It",
+      "url": "https://open.spotify.com/track/2xckFUPEDk1OJ4iede5nM0"
+    },
+    {
+      "album": {
+        "name": "BEAR1BOSS",
+        "url": "https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu"
+      },
+      "artists": [
+        {
+          "name": "Bear1Boss",
+          "url": "https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Jasmine Tea!",
+      "url": "https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY"
+    },
+    {
+      "album": {
+        "name": "Bustin' Out of L Seven",
+        "url": "https://open.spotify.com/album/2bUVRbkcjF8SrtcwDrdTVP"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440240,
+      "name": "Jefferson Ball",
+      "url": "https://open.spotify.com/track/1pKlmjUxTRx3jmFRrKfdsm"
+    },
+    {
+      "album": {
+        "name": "Yeah Baby",
+        "url": "https://open.spotify.com/album/4Q6aT8fIVaYFsJc7C6OrAv"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Tony Sunshine",
+          "url": "https://open.spotify.com/artist/6FNA65HkfMcw20mEKIK9eA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199760,
+      "name": "My Dick (feat. Tony Sunshine) (feat. Tony Sunshine)",
+      "url": "https://open.spotify.com/track/2zaDb0slvbUoFXr97swVQD"
+    },
+    {
+      "album": {
+        "name": "Crunk Juice",
+        "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "Oobie",
+          "url": "https://open.spotify.com/artist/51GnGVvOHfqOBA2ME9nZ1Z"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273306,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/1EapUQK4oy1idLop5yV3U3"
+    },
+    {
+      "album": {
+        "name": "Hustlaz Stackin Endz (H.S.E.)",
+        "url": "https://open.spotify.com/album/3MzUw6hgSxAwfWjWr4psai"
+      },
+      "artists": [
+        {
+          "name": "H.S.E.",
+          "url": "https://open.spotify.com/artist/6PaevybW3YLAfxqsRsTIlW"
+        },
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        },
+        {
+          "name": "Lil' Head",
+          "url": "https://open.spotify.com/artist/55HjzswZoiozT9MacyaXHb"
+        },
+        {
+          "name": "C-Note",
+          "url": "https://open.spotify.com/artist/7aJgZeWVFzRf96TinYwgsu"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Playaz Eyez",
+      "url": "https://open.spotify.com/track/0nK1sohuhPXLVLRq6n70EF"
+    },
+    {
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Pop Life",
+      "url": "https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R"
+    },
+    {
+      "album": {
+        "name": "I'm Bout It",
+        "url": "https://open.spotify.com/album/0S8lPnO7diSvdULUPhEQZM"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jinks",
+          "url": "https://open.spotify.com/artist/1y5p8Y6fn2953JL7mvR1P9"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162306,
+      "name": "Ride 4U",
+      "url": "https://open.spotify.com/track/0E8sD35JJ9alICaR8KOOg2"
+    },
+    {
+      "album": {
+        "name": "Earth Crisis",
+        "url": "https://open.spotify.com/album/1h5jSwgEiUDx58MiBFVTgV"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Roller Skates",
+      "url": "https://open.spotify.com/track/3ciMXKwXlLCFcQCyhKblZs"
+    },
+    {
+      "album": {
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Shoplifters of the World Unite - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6a6zCBKwuZPO9S0rVJLVDI"
+    },
+    {
+      "album": {
+        "name": "Piano & A Microphone 1983",
+        "url": "https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "Strange Relationship - Piano & A Microphone 1983 Version",
+      "url": "https://open.spotify.com/track/5tOeCRHqgxytiEPYcbXqFw"
+    },
+    {
+      "album": {
+        "name": "Good High (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4KksQJtr5gAujVvmF2VaA6"
+      },
+      "artists": [
+        {
+          "name": "Brick",
+          "url": "https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "That's What It's All About",
+      "url": "https://open.spotify.com/track/5et2vn1in6hZ8carnXqpb2"
+    },
+    {
+      "album": {
+        "name": "Cvke or Get Baked",
+        "url": "https://open.spotify.com/album/2JL27xKv0wv4zwWMhssDyE"
+      },
+      "artists": [
+        {
+          "name": "Cvke Supply",
+          "url": "https://open.spotify.com/artist/2ymUaUo9l4WwQmo8c2WqPS"
+        },
+        {
+          "name": "RVN",
+          "url": "https://open.spotify.com/artist/5g00ZOCQ3PvaBKM3XkYObh"
+        },
+        {
+          "name": "PurpBoyst",
+          "url": "https://open.spotify.com/artist/4N6DaP7b9UlJNfxZ8cBm7Y"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "The Bag",
+      "url": "https://open.spotify.com/track/59rOzyj48O1YEVxaa9hglB"
+    },
+    {
+      "album": {
+        "name": "Beware Of Dog",
+        "url": "https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "R.O.C.",
+          "url": "https://open.spotify.com/artist/28fGi6p113wMAhJ18cHaCg"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "The Future (feat. R.O.C.)",
+      "url": "https://open.spotify.com/track/6MQCyRONfcv2Whk4x1wuWn"
+    },
+    {
+      "album": {
+        "name": "Ice Cream Man",
+        "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
+      },
+      "artists": [
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "Things Ain't What The Used To Be",
+      "url": "https://open.spotify.com/track/4PV9DcxLQDoB05BWdCpAP6"
+    },
+    {
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "William, It Was Really Nothing - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ"
+    },
+    {
+      "album": {
+        "name": "Destiny's Child",
+        "url": "https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "With Me Part II (featuring Master P)",
+      "url": "https://open.spotify.com/track/472XgIukdpRQGVtC4a2fvg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6sLOMujY5ZJ"
 }

@@ -1,584 +1,617 @@
 {
-  "2022-05-26": 7590,
-  "2022-05-27": 8055,
-  "2022-05-28": 8317,
-  "2022-05-29": 8529,
-  "2022-05-30": 8674,
-  "2022-05-31": 8813,
-  "2022-06-01": 9050,
-  "2022-06-02": 9063,
-  "2022-06-03": 9164,
-  "2022-06-04": 9253,
-  "2022-06-05": 9349,
-  "2022-06-06": 9423,
-  "2022-06-07": 9502,
-  "2022-06-08": 9582,
-  "2022-06-09": 9632,
-  "2022-06-10": 9699,
-  "2022-06-11": 9801,
-  "2022-06-12": 9892,
-  "2022-06-13": 9956,
-  "2022-06-14": 10046,
-  "2022-06-15": 10104,
-  "2022-06-16": 10176,
-  "2022-06-17": 10259,
-  "2022-06-18": 10347,
-  "2022-06-19": 10514,
-  "2022-06-20": 10514,
-  "2022-06-21": 10599,
-  "2022-06-22": 10741,
-  "2022-06-23": 10741,
-  "2022-06-24": 10838,
-  "2022-06-25": 10936,
-  "2022-06-26": 11007,
-  "2022-06-27": 11089,
-  "2022-06-28": 11157,
-  "2022-06-29": 11245,
-  "2022-06-30": 11311,
-  "2022-07-01": 11388,
-  "2022-07-02": 11456,
-  "2022-07-03": 11535,
-  "2022-07-04": 11605,
-  "2022-07-05": 11678,
-  "2022-07-06": 11757,
-  "2022-07-07": 11824,
-  "2022-07-08": 11919,
-  "2022-07-09": 11994,
-  "2022-07-10": 12074,
-  "2022-07-11": 12163,
-  "2022-07-12": 12222,
-  "2022-07-13": 12317,
-  "2022-07-14": 12417,
-  "2022-07-15": 12464,
-  "2022-07-16": 12503,
-  "2022-07-17": 12545,
-  "2022-07-18": 12573,
-  "2022-07-19": 12613,
-  "2022-07-20": 12657,
-  "2022-07-21": 12695,
-  "2022-07-22": 12750,
-  "2022-07-23": 12806,
-  "2022-07-24": 12858,
-  "2022-07-25": 12900,
-  "2022-07-26": 12960,
-  "2022-07-27": 13011,
-  "2022-07-28": 13045,
-  "2022-07-29": 13087,
-  "2022-07-30": 13169,
-  "2022-07-31": 13169,
-  "2022-08-01": 13208,
-  "2022-08-02": 13284,
-  "2022-08-03": 13284,
-  "2022-08-04": 13340,
-  "2022-08-05": 13386,
-  "2022-08-06": 13436,
-  "2022-08-07": 13474,
-  "2022-08-08": 13504,
-  "2022-08-09": 13538,
-  "2022-08-10": 13584,
-  "2022-08-11": 13621,
-  "2022-08-12": 13692,
-  "2022-08-13": 13745,
-  "2022-08-14": 13837,
-  "2022-08-15": 13903,
-  "2022-08-16": 13983,
-  "2022-08-17": 14057,
-  "2022-08-18": 14153,
-  "2022-08-19": 14243,
-  "2022-08-20": 14335,
-  "2022-08-21": 14442,
-  "2022-08-22": 14537,
-  "2022-08-23": 14642,
-  "2022-08-24": 14726,
-  "2022-08-25": 14810,
-  "2022-08-26": 14912,
-  "2022-08-27": 15033,
-  "2022-08-28": 15156,
-  "2022-08-29": 15265,
-  "2022-08-30": 15362,
-  "2022-08-31": 15450,
-  "2022-09-01": 15568,
-  "2022-09-02": 15671,
-  "2022-09-03": 15788,
-  "2022-09-04": 15888,
-  "2022-09-05": 15985,
-  "2022-09-06": 16104,
-  "2022-09-07": 16199,
-  "2022-09-09": 16415,
-  "2022-09-10": 16519,
-  "2022-09-11": 16609,
-  "2022-09-12": 16701,
-  "2022-09-13": 16805,
-  "2022-09-15": 16976,
-  "2022-09-16": 17089,
-  "2022-09-17": 17266,
-  "2022-09-18": 17489,
-  "2022-09-19": 17700,
-  "2022-09-20": 17886,
-  "2022-09-21": 18154,
-  "2022-09-22": 18441,
-  "2022-09-23": 18662,
-  "2022-09-24": 18912,
-  "2022-09-25": 19265,
-  "2022-09-26": 19552,
-  "2022-09-27": 19869,
-  "2022-09-28": 20235,
-  "2022-09-29": 20643,
-  "2022-09-30": 21059,
-  "2022-10-01": 21375,
-  "2022-10-02": 21628,
-  "2022-10-03": 21833,
-  "2022-10-04": 22042,
-  "2022-10-05": 22287,
-  "2022-10-06": 22514,
-  "2022-10-07": 22732,
-  "2022-10-08": 22905,
-  "2022-10-09": 23276,
-  "2022-10-10": 23308,
-  "2022-10-11": 23469,
-  "2022-10-12": 23615,
-  "2022-10-13": 23793,
-  "2022-10-14": 23998,
-  "2022-10-15": 24170,
-  "2022-10-16": 24397,
-  "2022-10-17": 24577,
-  "2022-10-18": 24772,
-  "2022-10-19": 24977,
-  "2022-10-20": 25182,
-  "2022-10-21": 25372,
-  "2022-10-22": 25526,
-  "2022-10-23": 25716,
-  "2022-10-24": 25900,
-  "2022-10-25": 26412,
-  "2022-10-26": 26893,
-  "2022-10-27": 27245,
-  "2022-10-28": 27502,
-  "2022-10-29": 27720,
-  "2022-10-30": 27930,
-  "2022-10-31": 28099,
-  "2022-11-01": 28256,
-  "2022-11-02": 28396,
-  "2022-11-03": 28511,
-  "2022-11-04": 28622,
-  "2022-11-05": 28771,
-  "2022-11-06": 28924,
-  "2022-11-07": 29053,
-  "2022-11-08": 29183,
-  "2022-11-09": 29308,
-  "2022-11-10": 29447,
-  "2022-11-11": 29554,
-  "2022-11-12": 29677,
-  "2022-11-13": 29801,
-  "2022-11-14": 29911,
-  "2022-11-15": 30026,
-  "2022-11-16": 30150,
-  "2022-11-17": 30270,
-  "2022-11-18": 30317,
-  "2022-11-19": 30254,
-  "2022-11-20": 30319,
-  "2022-11-21": 30437,
-  "2022-11-22": 30707,
-  "2022-11-23": 30678,
-  "2022-11-24": 30876,
-  "2022-11-25": 31148,
-  "2022-11-26": 31325,
-  "2022-11-27": 31462,
-  "2022-11-28": 31560,
-  "2022-11-29": 31658,
-  "2022-11-30": 31808,
-  "2022-12-01": 31962,
-  "2022-12-02": 32124,
-  "2022-12-03": 32281,
-  "2022-12-04": 32460,
-  "2022-12-05": 32627,
-  "2022-12-06": 32801,
-  "2022-12-07": 32967,
-  "2022-12-08": 33118,
-  "2022-12-09": 33296,
-  "2022-12-10": 33459,
-  "2022-12-11": 33639,
-  "2022-12-12": 33778,
-  "2022-12-13": 33954,
-  "2022-12-14": 34131,
-  "2022-12-15": 34341,
-  "2022-12-16": 34532,
-  "2022-12-17": 34736,
-  "2022-12-18": 34954,
-  "2022-12-19": 35123,
-  "2022-12-20": 35517,
-  "2022-12-21": 35517,
-  "2022-12-22": 35689,
-  "2022-12-24": 36124,
-  "2022-12-25": 36373,
-  "2022-12-26": 36554,
-  "2022-12-27": 36776,
-  "2022-12-28": 36986,
-  "2022-12-29": 37241,
-  "2022-12-30": 37493,
-  "2022-12-31": 37773,
-  "2023-01-01": 38069,
-  "2023-01-02": 38255,
-  "2023-01-03": 38494,
-  "2023-01-04": 38642,
-  "2023-01-05": 38845,
-  "2023-01-06": 39069,
-  "2023-01-07": 39376,
-  "2023-01-08": 39422,
-  "2023-01-09": 39604,
-  "2023-01-10": 39779,
-  "2023-01-11": 39976,
-  "2023-01-12": 40172,
-  "2023-01-13": 40412,
-  "2023-01-14": 40809,
-  "2023-01-15": 40880,
-  "2023-01-16": 41071,
-  "2023-01-17": 41259,
-  "2023-01-18": 41449,
-  "2023-01-19": 41635,
-  "2023-01-20": 41852,
-  "2023-01-21": 42098,
-  "2023-01-22": 42344,
-  "2023-01-23": 42560,
-  "2023-01-24": 42777,
-  "2023-01-25": 43010,
-  "2023-01-26": 43268,
-  "2023-01-27": 43496,
-  "2023-01-28": 43698,
-  "2023-01-29": 43934,
-  "2023-01-30": 44180,
-  "2023-01-31": 44180,
-  "2023-02-01": 44546,
-  "2023-02-02": 44763,
-  "2023-02-03": 44969,
-  "2023-02-04": 45275,
-  "2023-02-05": 45530,
-  "2023-02-06": 45737,
-  "2023-02-07": 45925,
-  "2023-02-08": 46286,
-  "2023-02-09": 46286,
-  "2023-02-10": 46494,
-  "2023-02-11": 46735,
-  "2023-02-12": 47210,
-  "2023-02-13": 47411,
-  "2023-02-14": 47411,
-  "2023-02-15": 47592,
-  "2023-02-16": 47770,
-  "2023-02-17": 47975,
-  "2023-02-18": 48535,
-  "2023-02-19": 48577,
-  "2023-02-20": 48743,
-  "2023-02-21": 48936,
-  "2023-02-22": 49130,
-  "2023-02-23": 49314,
-  "2023-02-24": 49530,
-  "2023-02-25": 49917,
-  "2023-02-26": 50076,
-  "2023-02-27": 50442,
-  "2023-02-28": 50442,
-  "2023-03-01": 50598,
-  "2023-03-02": 50779,
-  "2023-03-03": 50944,
-  "2023-03-04": 51147,
-  "2023-03-05": 51575,
-  "2023-03-06": 51575,
-  "2023-03-07": 51756,
-  "2023-03-08": 51914,
-  "2023-03-09": 52074,
-  "2023-03-10": 52262,
-  "2023-03-11": 52460,
-  "2023-03-12": 52630,
-  "2023-03-13": 52805,
-  "2023-03-14": 52962,
-  "2023-03-15": 53130,
-  "2023-03-16": 53315,
-  "2023-03-17": 53315,
-  "2023-03-18": 53671,
-  "2023-03-19": 53845,
-  "2023-03-20": 54000,
-  "2023-03-21": 54180,
-  "2023-03-22": 54328,
-  "2023-03-23": 54502,
-  "2023-03-24": 54502,
-  "2023-03-25": 54795,
-  "2023-03-26": 54966,
-  "2023-03-27": 55135,
-  "2023-03-28": 55297,
-  "2023-03-29": 55498,
-  "2023-03-30": 55777,
-  "2023-03-31": 55777,
-  "2023-04-01": 55972,
-  "2023-04-02": 56162,
-  "2023-04-03": 56302,
-  "2023-04-04": 56432,
-  "2023-04-05": 56563,
-  "2023-04-06": 56698,
-  "2023-04-07": 56901,
-  "2023-04-09": 57460,
-  "2023-04-10": 57581,
-  "2023-04-11": 57837,
-  "2023-04-12": 57837,
-  "2023-04-13": 57979,
-  "2023-04-14": 58127,
-  "2023-04-15": 58249,
-  "2023-04-16": 58421,
-  "2023-04-17": 58569,
-  "2023-04-18": 58695,
-  "2023-04-19": 58828,
-  "2023-04-20": 58933,
-  "2023-04-21": 59101,
-  "2023-04-22": 59258,
-  "2023-04-23": 59402,
-  "2023-04-24": 59551,
-  "2023-04-25": 59691,
-  "2023-04-26": 59845,
-  "2023-04-27": 59978,
-  "2023-04-28": 60134,
-  "2023-04-29": 60293,
-  "2023-04-30": 60446,
-  "2023-05-01": 60588,
-  "2023-05-02": 60725,
-  "2023-05-03": 60840,
-  "2023-05-04": 60955,
-  "2023-05-05": 61112,
-  "2023-05-06": 61231,
-  "2023-05-07": 61367,
-  "2023-05-08": 61486,
-  "2023-05-09": 61602,
-  "2023-05-10": 61688,
-  "2023-05-11": 61823,
-  "2023-05-12": 61950,
-  "2023-05-13": 62091,
-  "2023-05-14": 62231,
-  "2023-05-15": 62365,
-  "2023-05-16": 62461,
-  "2023-05-17": 62592,
-  "2023-05-18": 62720,
-  "2023-05-19": 62836,
-  "2023-05-20": 63113,
-  "2023-05-21": 63113,
-  "2023-05-22": 63113,
-  "2023-05-23": 63343,
-  "2023-05-24": 63566,
-  "2023-05-25": 63606,
-  "2023-05-26": 63729,
-  "2023-05-27": 63877,
-  "2023-05-28": 64024,
-  "2023-05-29": 64024,
-  "2023-05-30": 64262,
-  "2023-05-31": 64371,
-  "2023-06-01": 64476,
-  "2023-06-02": 64609,
-  "2023-06-03": 64759,
-  "2023-06-04": 64882,
-  "2023-06-05": 65009,
-  "2023-06-06": 65131,
-  "2023-06-07": 65238,
-  "2023-06-08": 65362,
-  "2023-06-09": 65486,
-  "2023-06-10": 65618,
-  "2023-06-11": 65764,
-  "2023-06-12": 65905,
-  "2023-06-13": 66023,
-  "2023-06-14": 66138,
-  "2023-06-15": 66255,
-  "2023-06-16": 66376,
-  "2023-06-17": 66503,
-  "2023-06-18": 66650,
-  "2023-06-19": 66780,
-  "2023-06-20": 66885,
-  "2023-06-21": 66993,
-  "2023-06-22": 67106,
-  "2023-06-23": 67216,
-  "2023-06-24": 67363,
-  "2023-06-25": 67476,
-  "2023-06-26": 67601,
-  "2023-06-27": 67700,
-  "2023-06-28": 67806,
-  "2023-06-29": 67882,
-  "2023-06-30": 67971,
-  "2023-07-01": 68207,
-  "2023-07-02": 68207,
-  "2023-07-03": 68303,
-  "2023-07-04": 68414,
-  "2023-07-05": 68505,
-  "2023-07-06": 68689,
-  "2023-07-07": 68689,
-  "2023-07-08": 68777,
-  "2023-07-09": 68890,
-  "2023-07-10": 68978,
-  "2023-07-11": 69077,
-  "2023-07-12": 69186,
-  "2023-07-13": 69283,
-  "2023-07-14": 69390,
-  "2023-07-15": 69474,
-  "2023-07-16": 69593,
-  "2023-07-17": 69706,
-  "2023-07-18": 69794,
-  "2023-07-19": 69897,
-  "2023-07-20": 70017,
-  "2023-07-21": 70113,
-  "2023-07-22": 70212,
-  "2023-07-23": 70328,
-  "2023-07-24": 70425,
-  "2023-07-25": 70537,
-  "2023-07-26": 70639,
-  "2023-07-27": 70715,
-  "2023-07-28": 70832,
-  "2023-07-29": 70940,
-  "2023-07-30": 71048,
-  "2023-07-31": 71135,
-  "2023-08-01": 71208,
-  "2023-08-02": 71317,
-  "2023-08-03": 71433,
-  "2023-08-04": 71525,
-  "2023-08-05": 71633,
-  "2023-08-06": 71864,
-  "2023-08-07": 71864,
-  "2023-08-08": 71964,
-  "2023-08-09": 72054,
-  "2023-08-10": 72143,
-  "2023-08-11": 72256,
-  "2023-08-12": 72342,
-  "2023-08-13": 72458,
-  "2023-08-14": 72557,
-  "2023-08-15": 72751,
-  "2023-08-16": 72751,
-  "2023-08-17": 72836,
-  "2023-08-18": 72940,
-  "2023-08-19": 73032,
-  "2023-08-20": 73154,
-  "2023-08-21": 73256,
-  "2023-08-22": 73348,
-  "2023-08-23": 73451,
-  "2023-08-24": 73530,
-  "2023-08-25": 73621,
-  "2023-08-26": 73727,
-  "2023-08-27": 73837,
-  "2023-08-28": 73910,
-  "2023-08-29": 73995,
-  "2023-08-30": 74072,
-  "2023-08-31": 74172,
-  "2023-09-01": 74380,
-  "2023-09-02": 74380,
-  "2023-09-03": 74493,
-  "2023-09-04": 74592,
-  "2023-09-05": 74659,
-  "2023-09-06": 74759,
-  "2023-09-07": 74845,
-  "2023-09-08": 74928,
-  "2023-09-09": 75037,
-  "2023-09-10": 75139,
-  "2023-09-11": 75242,
-  "2023-09-12": 75331,
-  "2023-09-13": 75403,
-  "2023-09-14": 75487,
-  "2023-09-15": 75589,
-  "2023-09-16": 75680,
-  "2023-09-17": 75777,
-  "2023-09-18": 75856,
-  "2023-09-19": 75949,
-  "2023-09-20": 76023,
-  "2023-09-21": 76121,
-  "2023-09-22": 76225,
-  "2023-09-23": 76321,
-  "2023-09-24": 76422,
-  "2023-09-25": 76526,
-  "2023-09-26": 76654,
-  "2023-09-27": 76715,
-  "2023-09-28": 76772,
-  "2023-09-29": 76831,
-  "2023-09-30": 76888,
-  "2023-10-01": 76947,
-  "2023-10-02": 76998,
-  "2023-10-03": 77073,
-  "2023-10-04": 77135,
-  "2023-10-05": 77195,
-  "2023-10-06": 77261,
-  "2023-10-07": 77333,
-  "2023-10-08": 77386,
-  "2023-10-09": 77446,
-  "2023-10-10": 77510,
-  "2023-10-11": 77624,
-  "2023-10-12": 77624,
-  "2023-10-13": 77681,
-  "2023-10-14": 77743,
-  "2023-10-15": 77815,
-  "2023-10-16": 77884,
-  "2023-10-17": 77931,
-  "2023-10-18": 77979,
-  "2023-10-19": 78023,
-  "2023-10-20": 78092,
-  "2023-10-21": 78145,
-  "2023-10-22": 78212,
-  "2023-10-23": 78264,
-  "2023-10-24": 78322,
-  "2023-10-25": 78386,
-  "2023-10-26": 78444,
-  "2023-10-27": 78494,
-  "2023-10-28": 78565,
-  "2023-10-29": 78631,
-  "2023-10-30": 78759,
-  "2023-10-31": 78759,
-  "2023-11-01": 78809,
-  "2023-11-02": 78863,
-  "2023-11-03": 78937,
-  "2023-11-04": 79012,
-  "2023-11-05": 79084,
-  "2023-11-06": 79129,
-  "2023-11-07": 79129,
-  "2023-11-08": 79129,
-  "2023-11-09": 79129,
-  "2023-11-10": 79129,
-  "2023-11-11": 79129,
-  "2023-11-12": 79129,
-  "2023-11-13": 79129,
-  "2023-11-14": 79129,
-  "2023-11-15": 79129,
-  "2023-11-16": 79129,
-  "2023-11-17": 79129,
-  "2023-11-18": 79129,
-  "2023-11-19": 79129,
-  "2023-11-20": 79129,
-  "2023-11-21": 79129,
-  "2023-11-22": 79129,
-  "2023-11-23": 79129,
-  "2023-11-24": 79129,
-  "2023-11-25": 79129,
-  "2023-11-26": 79129,
-  "2023-11-27": 79129,
-  "2023-11-28": 79129,
-  "2023-11-29": 79129,
-  "2023-11-30": 79129,
-  "2023-12-01": 79129,
-  "2023-12-02": 79129,
-  "2023-12-03": 79129,
-  "2023-12-04": 79129,
-  "2023-12-05": 79129,
-  "2023-12-06": 79129,
-  "2023-12-07": 79129,
-  "2023-12-08": 79129,
-  "2023-12-09": 79129,
-  "2023-12-10": 79129,
-  "2023-12-11": 79129,
-  "2023-12-12": 79129,
-  "2023-12-13": 79129,
-  "2023-12-14": 79129,
-  "2023-12-15": 79129,
-  "2023-12-16": 79129,
-  "2023-12-17": 79129,
-  "2023-12-18": 79129,
-  "2023-12-19": 79129,
-  "2023-12-20": 79129,
-  "2023-12-21": 79129,
-  "2023-12-22": 79129,
-  "2023-12-23": 79129,
-  "2023-12-24": 79129,
-  "2023-12-25": 79129,
-  "2023-12-26": 79129,
-  "2023-12-27": 79129,
-  "2023-12-30": 79129,
-  "2023-12-31": 79129,
-  "2024-01-01": 79129,
-  "2024-01-02": 79129,
-  "2024-01-03": 79129
+  "2024-01-17": 79129,
+  "date_first_scraped": "2022-05-26",
+  "description": "Superstar DJ and producer, <a href=\"spotify:artist:60d24wfXkVzDSfLS6hyCjZ\">Martin Garrix</a> readies us for the summer time with a mix featuring bangers from his new album, Sentio!",
+  "name": "Martin Garrix DJ Mix: Sentio",
+  "tracks": [
+    {
+      "album": {
+        "name": "Astral (Mixed)",
+        "url": "https://open.spotify.com/album/0RmL7lmwsiL9mDoXXVb78t"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Astral - Mixed",
+      "url": "https://open.spotify.com/track/7uA3mL9m7EvWmaKT1VwLgz"
+    },
+    {
+      "album": {
+        "name": "Aurora (Mixed)",
+        "url": "https://open.spotify.com/album/5OnjHzHV0R65k5lxlfxEyE"
+      },
+      "artists": [
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Aurora - Mixed",
+      "url": "https://open.spotify.com/track/4ZSse9lF2jk07xW2uIwFmq"
+    },
+    {
+      "album": {
+        "name": "Calling Out (Mixed)",
+        "url": "https://open.spotify.com/album/6pxQI34xsFwyN7rDXiejxF"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        },
+        {
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Calling Out - Mixed",
+      "url": "https://open.spotify.com/track/4CwePuJENy8EsawNxhnt2c"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Mixed)",
+        "url": "https://open.spotify.com/album/35jGXkRPVTe1kJVdABI3M0"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Diamonds - Mixed",
+      "url": "https://open.spotify.com/track/45fkGzzHNwnpAqmbdvuGdp"
+    },
+    {
+      "album": {
+        "name": "Find You (Mixed)",
+        "url": "https://open.spotify.com/album/2eLx2KnkqXCZM5kVTELp33"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dewain Whitmore",
+          "url": "https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Find You - Mixed",
+      "url": "https://open.spotify.com/track/0f3CymDavZgbPT3IrdXZZZ"
+    },
+    {
+      "album": {
+        "name": "Follow (Mixed)",
+        "url": "https://open.spotify.com/album/5MIjzrmRoQZr4dF93GSRET"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217000,
+      "name": "Follow - Mixed",
+      "url": "https://open.spotify.com/track/1S40XkWxias0ab9xQJEGJX"
+    },
+    {
+      "album": {
+        "name": "Follow (Mixed)",
+        "url": "https://open.spotify.com/album/2S1lLhkOYRp3SD1oqPxm9B"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Follow - Mixed",
+      "url": "https://open.spotify.com/track/7bVz5dwPqFh1Rwbgc9gG95"
+    },
+    {
+      "album": {
+        "name": "Funk (Mixed)",
+        "url": "https://open.spotify.com/album/4ExG1QNCwB4WrRLkPC8x8u"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Funk - Mixed",
+      "url": "https://open.spotify.com/track/12jrDIz1udgGwrh7W75DDw"
+    },
+    {
+      "album": {
+        "name": "Funk (Mixed)",
+        "url": "https://open.spotify.com/album/6axAtE6NmtukltzQZ5s3OO"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163000,
+      "name": "Funk - Mixed",
+      "url": "https://open.spotify.com/track/14ZI5lG6p7l5Y0U8IYAs7p"
+    },
+    {
+      "album": {
+        "name": "Good Morning (Mixed)",
+        "url": "https://open.spotify.com/album/5ZHA7HECzkkn5ykZhQqz5g"
+      },
+      "artists": [
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Good Morning - Mixed",
+      "url": "https://open.spotify.com/track/582vTBVbpzQywCzItF6yzk"
+    },
+    {
+      "album": {
+        "name": "High On Life (feat. Bonn) [Mixed]",
+        "url": "https://open.spotify.com/album/5S238TxDkyXHES4bs4dfwZ"
+      },
+      "artists": [
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "High On Life (feat. Bonn) - Mixed",
+      "url": "https://open.spotify.com/track/3CTJxbfadATr6sa23BzJ9k"
+    },
+    {
+      "album": {
+        "name": "If We'll Ever Be Remembered (Mixed)",
+        "url": "https://open.spotify.com/album/6Z1DcN8T5cbetGI3UMFBQc"
+      },
+      "artists": [
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/0dOdktkTLrPLb4WilXaz85"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248815,
+      "name": "If We'll Ever Be Remembered - Mixed",
+      "url": "https://open.spotify.com/track/4ORbvSlznZHrDkQHG0bjBV"
+    },
+    {
+      "album": {
+        "name": "If We\u2019ll Ever Be Remembered (Mixed)",
+        "url": "https://open.spotify.com/album/4nhFvJpJZ0Cw2RWY9hC7VK"
+      },
+      "artists": [
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/0dOdktkTLrPLb4WilXaz85"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248815,
+      "name": "If We\u2019ll Ever Be Remembered - Mixed",
+      "url": "https://open.spotify.com/track/7xoageWbKFFmMLBGNz00UJ"
+    },
+    {
+      "album": {
+        "name": "Limitless (Mixed)",
+        "url": "https://open.spotify.com/album/1sTcQHO307mxtzNkvoXBPx"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155000,
+      "name": "Limitless - Mixed",
+      "url": "https://open.spotify.com/track/1nQiqMtPBnsGwB2xIoI8yl"
+    },
+    {
+      "album": {
+        "name": "Limitless (Mixed)",
+        "url": "https://open.spotify.com/album/5xKhjiAIoL9EGyGt9xuto2"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Limitless - Mixed",
+      "url": "https://open.spotify.com/track/1ymFFQI3R4CU1KzyYFsRH2"
+    },
+    {
+      "album": {
+        "name": "Oxygen (Mixed)",
+        "url": "https://open.spotify.com/album/6msMUe8ZGRxyde4LjWcad2"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192000,
+      "name": "Oxygen - Mixed",
+      "url": "https://open.spotify.com/track/0M6tOTk64lQQr5k1fYN0Xs"
+    },
+    {
+      "album": {
+        "name": "Oxygen (Mixed)",
+        "url": "https://open.spotify.com/album/7AodDnSvJqgBvGWKZwSERs"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Oxygen - Mixed",
+      "url": "https://open.spotify.com/track/6fQdkjb8RuIftd1nHIh8eX"
+    },
+    {
+      "album": {
+        "name": "Quantum (Mixed)",
+        "url": "https://open.spotify.com/album/41Q7h27kPwJEOqWL7dvSzl"
+      },
+      "artists": [
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Quantum - Mixed",
+      "url": "https://open.spotify.com/track/7ydSOphu3xfbvcndhUHUww"
+    },
+    {
+      "album": {
+        "name": "Reboot (Mixed)",
+        "url": "https://open.spotify.com/album/0UULlTB9iiv6UChDthnpSL"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Reboot - Mixed",
+      "url": "https://open.spotify.com/track/3MOLAKPiE6SLnJkBXpTYOE"
+    },
+    {
+      "album": {
+        "name": "Reboot (Mixed)",
+        "url": "https://open.spotify.com/album/1ksG0X7lr5aep0y2IZc2Av"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155000,
+      "name": "Reboot - Mixed",
+      "url": "https://open.spotify.com/track/3vbBgm7krbQS4x55m2SwdQ"
+    },
+    {
+      "album": {
+        "name": "Scared To Be Lonely - DubVision Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4beXxiae0SsQWuJyRSRdXu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Scared To Be Lonely - DubVision Remix - Mixed",
+      "url": "https://open.spotify.com/track/2vpLkruxGlsXTnazTjGI3h"
+    },
+    {
+      "album": {
+        "name": "Sometimes (Mixed)",
+        "url": "https://open.spotify.com/album/5SMCOrX86UJ8VBey7huDKf"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sometimes - Mixed",
+      "url": "https://open.spotify.com/track/5waPjmAgMWVxgGMJEv3Bhp"
+    },
+    {
+      "album": {
+        "name": "Starlight (Keep Me Afloat) [Mixed]",
+        "url": "https://open.spotify.com/album/4VAuOOlBEyWhJ1l0wrx9gn"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/0dOdktkTLrPLb4WilXaz85"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207000,
+      "name": "Starlight (Keep Me Afloat) - Mixed",
+      "url": "https://open.spotify.com/track/3IyNOAb1j9FILavnK8DfrJ"
+    },
+    {
+      "album": {
+        "name": "Starlight (Keep Me Afloat) [Mixed]",
+        "url": "https://open.spotify.com/album/3raTMZgGjN4QDRB6QmFmAs"
+      },
+      "artists": [
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/0dOdktkTLrPLb4WilXaz85"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Starlight (Keep Me Afloat) - Mixed",
+      "url": "https://open.spotify.com/track/4gtErzp6b1kfBajoveJzZz"
+    },
+    {
+      "album": {
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Ti\u00ebsto Remix [Mixed]",
+        "url": "https://open.spotify.com/album/53YoHhaaWxgnxgcDkpTQcl"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) - Ti\u00ebsto Remix - Mixed",
+      "url": "https://open.spotify.com/track/1INoT6ZO3YjxBbs25O9uMB"
+    },
+    {
+      "album": {
+        "name": "When We're Gone (Mixed)",
+        "url": "https://open.spotify.com/album/6tx8Q3lmKbLtfe3ADc1gHf"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "When We're Gone - Mixed",
+      "url": "https://open.spotify.com/track/3h3XIdPa1W8NtxEw0TOQHb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYIvtWSbA6Aj"
 }

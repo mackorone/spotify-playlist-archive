@@ -1,15 +1,15 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 45629,
+  "num_followers": 45699,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDBhYTlkZGM0YmI5Mjk1YWY3YjIzOTU2NGRhYTMyNDUyOA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAwNDRhYjU0Mzc0ZTY3YmRhMTAyYzE5YmRlMTg0YTI0Ng==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "C\u00f3mo No Quererte",
         "url": "https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 205420,
+      "name": "\u00bfPor Que Me Enamor\u00e9?",
+      "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
@@ -93,23 +93,7 @@
       "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Que Bonito",
-        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 160409,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
@@ -120,12 +104,12 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 205420,
-      "name": "\u00bfPor Que Me Enamor\u00e9?",
-      "url": "https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez"
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/0biVdOYzgbnbtOTgi8uWr9"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Que Bonito",
+        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 160409,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Que La Quieran (Que La Cuiden)",
         "url": "https://open.spotify.com/album/4pLO8dVJIBjoxiRjIM2KRG"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/1axqKw987jqGeTfjm9tOuv"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Corona de Rosas",
         "url": "https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Para Ti Pap\u00e1",
         "url": "https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/04oP2g6fvCpIS5jUGg4vhj"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Un D\u00eda a La Vez (En Vivo)",
         "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1ENsFKcyksWFyXNQlWCI1c"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2azbAaKzJqSueV04vjqSaL"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4M4vaKqUsgZ9gIDSmWWava"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "YakiFest, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Un D\u00eda a La Vez (En Vivo)",
         "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/7hAW6EO4Lze015qyAuFraa"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Se\u00f1ora",
         "url": "https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Gente del Este",
         "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Muchacho de La Esquina",
         "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -497,71 +497,7 @@
       "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "A Qu\u00e9 Le Tiras",
-      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198896,
-      "name": "Despu\u00e9s No Hay Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 153678,
-      "name": "Nunca Sin Ti",
-      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
@@ -577,7 +513,55 @@
       "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "A Qu\u00e9 Le Tiras",
+      "url": "https://open.spotify.com/track/1U8EuDRxTlzBzNZGYUJ28N"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 153678,
+      "name": "Nunca Sin Ti",
+      "url": "https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Brincale al Toro",
         "url": "https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy"
@@ -593,7 +577,55 @@
       "url": "https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Dile Luna",
+        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191338,
+      "name": "Dile Luna",
+      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 190599,
+      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
+      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198896,
+      "name": "Despu\u00e9s No Hay Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
@@ -613,23 +645,7 @@
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Dile Luna",
-        "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191338,
-      "name": "Dile Luna",
-      "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "No Pude Salvarnos",
         "url": "https://open.spotify.com/album/5VYGeAiPx1ETw8duo165MW"
@@ -661,7 +677,23 @@
       "url": "https://open.spotify.com/track/2A4Jkc9ua349Bi8sTFrqFn"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
@@ -685,55 +717,7 @@
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
-        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 190599,
-      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
-      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -749,7 +733,7 @@
       "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Exotic Corridos",
         "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
@@ -769,23 +753,7 @@
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Gracias Mam\u00e1",
-        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Gracias Mam\u00e1",
-      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
@@ -805,7 +773,7 @@
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
@@ -821,7 +789,23 @@
       "url": "https://open.spotify.com/track/6IaWOdcfVuVxftkM52cmqN"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
@@ -837,10 +821,10 @@
       "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
-        "name": "Si Hay Otra Vida",
-        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
       "artists": [
         {
@@ -848,12 +832,12 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 204692,
-      "name": "Si Hay Otra Vida",
-      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
         "name": "Un D\u00eda a La Vez (En Vivo)",
         "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
@@ -869,10 +853,26 @@
       "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:37",
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+        "name": "Si Hay Otra Vida",
+        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 204692,
+      "name": "Si Hay Otra Vida",
+      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
+    },
+    {
+      "added_at": "2024-01-16 12:10:37",
+      "album": {
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
       },
       "artists": [
         {
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         },
         {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
         }
       ],
-      "duration_ms": 212999,
-      "name": "Si Me Hubieras Olvidado",
-      "url": "https://open.spotify.com/track/04TpibFGlH7XGN13e9vO5B"
+      "duration_ms": 170485,
+      "name": "Nomas No Se Pasen - En Vivo",
+      "url": "https://open.spotify.com/track/1zyUxUzC4fSQURhfqcaQuB"
     }
   ],
   "unique_name": "This Is Ulices Chaidez",

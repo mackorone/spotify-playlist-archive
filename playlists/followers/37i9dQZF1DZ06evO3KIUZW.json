@@ -1,579 +1,1179 @@
 {
-  "2022-05-31": 625434,
-  "2022-06-01": 625854,
-  "2022-06-02": 625895,
-  "2022-06-03": 626141,
-  "2022-06-04": 626412,
-  "2022-06-05": 626659,
-  "2022-06-06": 626913,
-  "2022-06-07": 627146,
-  "2022-06-08": 627426,
-  "2022-06-09": 627680,
-  "2022-06-10": 627952,
-  "2022-06-11": 628205,
-  "2022-06-12": 628470,
-  "2022-06-13": 628714,
-  "2022-06-14": 629025,
-  "2022-06-15": 629299,
-  "2022-06-16": 629599,
-  "2022-06-17": 629893,
-  "2022-06-18": 630206,
-  "2022-06-19": 630641,
-  "2022-06-20": 630641,
-  "2022-06-21": 630851,
-  "2022-06-22": 631430,
-  "2022-06-23": 631430,
-  "2022-06-24": 631700,
-  "2022-06-25": 632044,
-  "2022-06-26": 632377,
-  "2022-06-27": 632645,
-  "2022-06-28": 632906,
-  "2022-06-29": 633164,
-  "2022-06-30": 633417,
-  "2022-07-01": 633732,
-  "2022-07-02": 634062,
-  "2022-07-03": 634475,
-  "2022-07-04": 634908,
-  "2022-07-05": 634908,
-  "2022-07-06": 634908,
-  "2022-07-07": 636376,
-  "2022-07-08": 636881,
-  "2022-07-09": 637379,
-  "2022-07-10": 637918,
-  "2022-07-11": 638331,
-  "2022-07-12": 638733,
-  "2022-07-13": 639142,
-  "2022-07-14": 639547,
-  "2022-07-15": 639980,
-  "2022-07-16": 640392,
-  "2022-07-17": 640800,
-  "2022-07-18": 641163,
-  "2022-07-19": 641487,
-  "2022-07-20": 641851,
-  "2022-07-21": 642254,
-  "2022-07-22": 642663,
-  "2022-07-23": 643084,
-  "2022-07-24": 643563,
-  "2022-07-25": 643917,
-  "2022-07-26": 644303,
-  "2022-07-27": 644669,
-  "2022-07-28": 644991,
-  "2022-07-29": 645384,
-  "2022-07-30": 646157,
-  "2022-07-31": 646157,
-  "2022-08-01": 646452,
-  "2022-08-02": 647031,
-  "2022-08-03": 647031,
-  "2022-08-04": 647386,
-  "2022-08-05": 647698,
-  "2022-08-06": 648012,
-  "2022-08-07": 648389,
-  "2022-08-08": 648734,
-  "2022-08-09": 649026,
-  "2022-08-10": 649316,
-  "2022-08-11": 649612,
-  "2022-08-12": 649941,
-  "2022-08-13": 650267,
-  "2022-08-14": 650598,
-  "2022-08-15": 650872,
-  "2022-08-16": 651173,
-  "2022-08-17": 651449,
-  "2022-08-18": 651766,
-  "2022-08-19": 652096,
-  "2022-08-20": 652380,
-  "2022-08-21": 652700,
-  "2022-08-22": 652952,
-  "2022-08-23": 653235,
-  "2022-08-24": 653504,
-  "2022-08-25": 653836,
-  "2022-08-26": 654160,
-  "2022-08-27": 654509,
-  "2022-08-28": 654856,
-  "2022-08-29": 655188,
-  "2022-08-30": 655450,
-  "2022-08-31": 655648,
-  "2022-09-01": 655813,
-  "2022-09-02": 656068,
-  "2022-09-03": 656254,
-  "2022-09-04": 656836,
-  "2022-09-05": 657309,
-  "2022-09-06": 657726,
-  "2022-09-07": 658182,
-  "2022-09-09": 659091,
-  "2022-09-10": 659478,
-  "2022-09-11": 659845,
-  "2022-09-12": 660114,
-  "2022-09-13": 660409,
-  "2022-09-15": 660959,
-  "2022-09-16": 661234,
-  "2022-09-17": 661518,
-  "2022-09-18": 661819,
-  "2022-09-19": 662046,
-  "2022-09-20": 662253,
-  "2022-09-21": 662437,
-  "2022-09-22": 662683,
-  "2022-09-23": 662948,
-  "2022-09-24": 662948,
-  "2022-09-25": 663443,
-  "2022-09-26": 663696,
-  "2022-09-27": 663916,
-  "2022-09-28": 664098,
-  "2022-09-29": 664348,
-  "2022-09-30": 664624,
-  "2022-10-01": 664923,
-  "2022-10-02": 665204,
-  "2022-10-03": 665419,
-  "2022-10-04": 665628,
-  "2022-10-05": 665849,
-  "2022-10-06": 666079,
-  "2022-10-07": 666364,
-  "2022-10-08": 666650,
-  "2022-10-09": 667045,
-  "2022-10-10": 667105,
-  "2022-10-11": 667348,
-  "2022-10-12": 667570,
-  "2022-10-13": 667833,
-  "2022-10-14": 668104,
-  "2022-10-15": 668380,
-  "2022-10-16": 668649,
-  "2022-10-17": 668885,
-  "2022-10-18": 669094,
-  "2022-10-19": 669350,
-  "2022-10-20": 669579,
-  "2022-10-21": 669810,
-  "2022-10-22": 670117,
-  "2022-10-23": 670344,
-  "2022-10-24": 670570,
-  "2022-10-25": 670771,
-  "2022-10-26": 670990,
-  "2022-10-27": 671236,
-  "2022-10-28": 671461,
-  "2022-10-29": 671695,
-  "2022-10-30": 671914,
-  "2022-10-31": 672134,
-  "2022-11-01": 672324,
-  "2022-11-02": 672520,
-  "2022-11-03": 672730,
-  "2022-11-04": 672959,
-  "2022-11-05": 673195,
-  "2022-11-06": 673443,
-  "2022-11-07": 673625,
-  "2022-11-08": 673818,
-  "2022-11-09": 674029,
-  "2022-11-10": 674229,
-  "2022-11-11": 674454,
-  "2022-11-12": 674661,
-  "2022-11-13": 674863,
-  "2022-11-14": 675039,
-  "2022-11-15": 675197,
-  "2022-11-16": 675385,
-  "2022-11-17": 675592,
-  "2022-11-18": 675601,
-  "2022-11-19": 675631,
-  "2022-11-20": 675822,
-  "2022-11-21": 676033,
-  "2022-11-22": 676237,
-  "2022-11-23": 676404,
-  "2022-11-24": 676758,
-  "2022-11-25": 677042,
-  "2022-11-26": 677289,
-  "2022-11-27": 677469,
-  "2022-11-28": 677578,
-  "2022-11-29": 677713,
-  "2022-11-30": 677921,
-  "2022-12-01": 678092,
-  "2022-12-02": 678243,
-  "2022-12-03": 678503,
-  "2022-12-04": 678736,
-  "2022-12-05": 678920,
-  "2022-12-06": 679094,
-  "2022-12-07": 679266,
-  "2022-12-08": 679416,
-  "2022-12-09": 679606,
-  "2022-12-10": 679771,
-  "2022-12-11": 679965,
-  "2022-12-12": 680164,
-  "2022-12-13": 680348,
-  "2022-12-14": 680501,
-  "2022-12-15": 680686,
-  "2022-12-16": 680882,
-  "2022-12-17": 681104,
-  "2022-12-18": 681300,
-  "2022-12-19": 681491,
-  "2022-12-20": 681876,
-  "2022-12-21": 681876,
-  "2022-12-22": 682069,
-  "2022-12-24": 682494,
-  "2022-12-25": 682707,
-  "2022-12-26": 682879,
-  "2022-12-27": 683081,
-  "2022-12-28": 683304,
-  "2022-12-29": 683490,
-  "2022-12-30": 683706,
-  "2022-12-31": 683925,
-  "2023-01-01": 684163,
-  "2023-01-02": 684317,
-  "2023-01-03": 684484,
-  "2023-01-04": 684640,
-  "2023-01-05": 684818,
-  "2023-01-06": 685101,
-  "2023-01-07": 685473,
-  "2023-01-08": 685532,
-  "2023-01-09": 685724,
-  "2023-01-10": 685924,
-  "2023-01-11": 686147,
-  "2023-01-12": 686350,
-  "2023-01-13": 686572,
-  "2023-01-14": 686985,
-  "2023-01-15": 687029,
-  "2023-01-16": 687226,
-  "2023-01-17": 687402,
-  "2023-01-18": 687628,
-  "2023-01-19": 687854,
-  "2023-01-20": 688075,
-  "2023-01-21": 688307,
-  "2023-01-22": 688591,
-  "2023-01-23": 688826,
-  "2023-01-24": 689028,
-  "2023-01-25": 689243,
-  "2023-01-26": 689437,
-  "2023-01-27": 689648,
-  "2023-01-28": 689871,
-  "2023-01-29": 690135,
-  "2023-01-30": 690320,
-  "2023-01-31": 690320,
-  "2023-02-01": 690735,
-  "2023-02-02": 690959,
-  "2023-02-03": 691180,
-  "2023-02-04": 691387,
-  "2023-02-05": 691616,
-  "2023-02-06": 691790,
-  "2023-02-07": 691995,
-  "2023-02-08": 692407,
-  "2023-02-09": 692407,
-  "2023-02-10": 692614,
-  "2023-02-11": 692827,
-  "2023-02-12": 693264,
-  "2023-02-13": 693444,
-  "2023-02-14": 693444,
-  "2023-02-15": 693638,
-  "2023-02-16": 693872,
-  "2023-02-17": 694118,
-  "2023-02-18": 694602,
-  "2023-02-19": 694632,
-  "2023-02-20": 694800,
-  "2023-02-21": 695010,
-  "2023-02-22": 695201,
-  "2023-02-23": 695410,
-  "2023-02-24": 695659,
-  "2023-02-25": 695974,
-  "2023-02-26": 696164,
-  "2023-02-27": 696592,
-  "2023-02-28": 696592,
-  "2023-03-01": 696807,
-  "2023-03-02": 697035,
-  "2023-03-03": 697281,
-  "2023-03-04": 697520,
-  "2023-03-05": 697980,
-  "2023-03-06": 697980,
-  "2023-03-07": 698179,
-  "2023-03-08": 698360,
-  "2023-03-09": 698596,
-  "2023-03-10": 698821,
-  "2023-03-11": 699094,
-  "2023-03-12": 699336,
-  "2023-03-13": 699550,
-  "2023-03-14": 699761,
-  "2023-03-15": 699989,
-  "2023-03-16": 699989,
-  "2023-03-17": 699989,
-  "2023-03-18": 700774,
-  "2023-03-19": 700774,
-  "2023-03-20": 701224,
-  "2023-03-21": 701424,
-  "2023-03-22": 701613,
-  "2023-03-23": 701833,
-  "2023-03-24": 701833,
-  "2023-03-25": 702314,
-  "2023-03-26": 702593,
-  "2023-03-27": 702803,
-  "2023-03-28": 702984,
-  "2023-03-29": 703225,
-  "2023-03-30": 703719,
-  "2023-03-31": 703719,
-  "2023-04-01": 704006,
-  "2023-04-02": 704253,
-  "2023-04-03": 704514,
-  "2023-04-04": 704771,
-  "2023-04-05": 705009,
-  "2023-04-06": 705243,
-  "2023-04-07": 705521,
-  "2023-04-09": 705993,
-  "2023-04-10": 706212,
-  "2023-04-11": 706608,
-  "2023-04-12": 706608,
-  "2023-04-13": 706821,
-  "2023-04-14": 707090,
-  "2023-04-15": 707337,
-  "2023-04-16": 707592,
-  "2023-04-17": 707792,
-  "2023-04-18": 708027,
-  "2023-04-19": 708240,
-  "2023-04-20": 708427,
-  "2023-04-21": 708649,
-  "2023-04-22": 708930,
-  "2023-04-23": 709168,
-  "2023-04-24": 709429,
-  "2023-04-25": 709638,
-  "2023-04-26": 709891,
-  "2023-04-27": 710136,
-  "2023-04-28": 710431,
-  "2023-04-29": 710699,
-  "2023-04-30": 710979,
-  "2023-05-01": 711186,
-  "2023-05-02": 711420,
-  "2023-05-03": 711639,
-  "2023-05-04": 711851,
-  "2023-05-05": 712079,
-  "2023-05-06": 712338,
-  "2023-05-07": 712598,
-  "2023-05-08": 712801,
-  "2023-05-09": 713023,
-  "2023-05-10": 713260,
-  "2023-05-11": 713501,
-  "2023-05-12": 713696,
-  "2023-05-13": 713913,
-  "2023-05-14": 714097,
-  "2023-05-15": 714262,
-  "2023-05-16": 714452,
-  "2023-05-17": 714643,
-  "2023-05-18": 714861,
-  "2023-05-19": 715092,
-  "2023-05-20": 715552,
-  "2023-05-21": 715552,
-  "2023-05-22": 715552,
-  "2023-05-23": 715905,
-  "2023-05-24": 716234,
-  "2023-05-25": 716291,
-  "2023-05-26": 716468,
-  "2023-05-27": 716681,
-  "2023-05-28": 716887,
-  "2023-05-29": 716887,
-  "2023-05-30": 717237,
-  "2023-05-31": 717455,
-  "2023-06-01": 717666,
-  "2023-06-02": 717888,
-  "2023-06-03": 718092,
-  "2023-06-04": 718346,
-  "2023-06-05": 718499,
-  "2023-06-06": 718663,
-  "2023-06-07": 718878,
-  "2023-06-08": 719131,
-  "2023-06-09": 719304,
-  "2023-06-10": 719572,
-  "2023-06-11": 719765,
-  "2023-06-12": 719944,
-  "2023-06-13": 720117,
-  "2023-06-14": 720282,
-  "2023-06-15": 720502,
-  "2023-06-16": 720724,
-  "2023-06-17": 720931,
-  "2023-06-18": 721159,
-  "2023-06-19": 721315,
-  "2023-06-20": 721478,
-  "2023-06-21": 721662,
-  "2023-06-22": 721852,
-  "2023-06-23": 722033,
-  "2023-06-24": 722251,
-  "2023-06-25": 722495,
-  "2023-06-26": 722683,
-  "2023-06-27": 722898,
-  "2023-06-28": 723103,
-  "2023-06-29": 723277,
-  "2023-06-30": 723470,
-  "2023-07-01": 723863,
-  "2023-07-02": 723863,
-  "2023-07-03": 724030,
-  "2023-07-04": 724206,
-  "2023-07-05": 724418,
-  "2023-07-06": 724818,
-  "2023-07-07": 724818,
-  "2023-07-08": 724818,
-  "2023-07-09": 725265,
-  "2023-07-10": 725479,
-  "2023-07-11": 725643,
-  "2023-07-12": 725836,
-  "2023-07-13": 726059,
-  "2023-07-14": 726301,
-  "2023-07-15": 726529,
-  "2023-07-16": 726793,
-  "2023-07-17": 726915,
-  "2023-07-18": 727109,
-  "2023-07-19": 727291,
-  "2023-07-20": 727291,
-  "2023-07-21": 727694,
-  "2023-07-22": 727907,
-  "2023-07-23": 728127,
-  "2023-07-24": 728322,
-  "2023-07-25": 728488,
-  "2023-07-26": 728700,
-  "2023-07-27": 728916,
-  "2023-07-28": 729133,
-  "2023-07-29": 729320,
-  "2023-07-30": 729494,
-  "2023-07-31": 729676,
-  "2023-08-01": 729847,
-  "2023-08-02": 730036,
-  "2023-08-03": 730229,
-  "2023-08-04": 730421,
-  "2023-08-05": 730646,
-  "2023-08-06": 731085,
-  "2023-08-07": 731085,
-  "2023-08-08": 731285,
-  "2023-08-09": 731471,
-  "2023-08-10": 731656,
-  "2023-08-11": 731803,
-  "2023-08-12": 731803,
-  "2023-08-13": 731803,
-  "2023-08-14": 732362,
-  "2023-08-15": 732362,
-  "2023-08-16": 732362,
-  "2023-08-17": 732362,
-  "2023-08-18": 732362,
-  "2023-08-19": 732362,
-  "2023-08-20": 733411,
-  "2023-08-21": 733411,
-  "2023-08-22": 733718,
-  "2023-08-23": 733718,
-  "2023-08-24": 733718,
-  "2023-08-25": 733718,
-  "2023-08-26": 734408,
-  "2023-08-27": 734408,
-  "2023-08-28": 734716,
-  "2023-08-29": 734716,
-  "2023-08-30": 734716,
-  "2023-08-31": 735214,
-  "2023-09-01": 735385,
-  "2023-09-02": 735385,
-  "2023-09-03": 735385,
-  "2023-09-04": 735385,
-  "2023-09-05": 735385,
-  "2023-09-06": 735385,
-  "2023-09-07": 735385,
-  "2023-09-08": 735385,
-  "2023-09-09": 735385,
-  "2023-09-10": 735385,
-  "2023-09-11": 735385,
-  "2023-09-12": 735385,
-  "2023-09-13": 735385,
-  "2023-09-14": 735385,
-  "2023-09-15": 735385,
-  "2023-09-16": 737979,
-  "2023-09-17": 737979,
-  "2023-09-18": 737979,
-  "2023-09-19": 738392,
-  "2023-09-20": 738392,
-  "2023-09-21": 738392,
-  "2023-09-22": 738827,
-  "2023-09-23": 738827,
-  "2023-09-24": 738827,
-  "2023-09-25": 738827,
-  "2023-09-26": 739448,
-  "2023-09-27": 739448,
-  "2023-09-28": 739448,
-  "2023-09-29": 739448,
-  "2023-09-30": 739448,
-  "2023-10-01": 739448,
-  "2023-10-02": 739448,
-  "2023-10-03": 739448,
-  "2023-10-04": 739448,
-  "2023-10-05": 739448,
-  "2023-10-06": 739448,
-  "2023-10-07": 739448,
-  "2023-10-08": 739448,
-  "2023-10-09": 739448,
-  "2023-10-10": 739448,
-  "2023-10-11": 741412,
-  "2023-10-12": 741412,
-  "2023-10-13": 741412,
-  "2023-10-14": 741412,
-  "2023-10-15": 741412,
-  "2023-10-16": 741412,
-  "2023-10-17": 741412,
-  "2023-10-18": 741412,
-  "2023-10-19": 741412,
-  "2023-10-20": 741412,
-  "2023-10-21": 741412,
-  "2023-10-22": 741412,
-  "2023-10-23": 741412,
-  "2023-10-24": 741412,
-  "2023-10-25": 741412,
-  "2023-10-26": 741412,
-  "2023-10-27": 741412,
-  "2023-10-28": 741412,
-  "2023-10-29": 741412,
-  "2023-10-30": 741412,
-  "2023-10-31": 741412,
-  "2023-11-01": 741412,
-  "2023-11-02": 741412,
-  "2023-11-03": 741412,
-  "2023-11-04": 741412,
-  "2023-11-05": 741412,
-  "2023-11-06": 741412,
-  "2023-11-07": 741412,
-  "2023-11-08": 741412,
-  "2023-11-09": 741412,
-  "2023-11-10": 741412,
-  "2023-11-11": 745914,
-  "2023-11-12": 745914,
-  "2023-11-13": 745914,
-  "2023-11-14": 745914,
-  "2023-11-15": 745914,
-  "2023-11-16": 745914,
-  "2023-11-17": 745914,
-  "2023-11-18": 745914,
-  "2023-11-19": 745914,
-  "2023-11-20": 745914,
-  "2023-11-21": 745914,
-  "2023-11-22": 745914,
-  "2023-11-23": 745914,
-  "2023-11-24": 745914,
-  "2023-11-25": 745914,
-  "2023-11-26": 745914,
-  "2023-11-27": 745914,
-  "2023-11-28": 745914,
-  "2023-11-29": 745914,
-  "2023-11-30": 745914,
-  "2023-12-01": 745914,
-  "2023-12-02": 745914,
-  "2023-12-03": 745914,
-  "2023-12-04": 745914,
-  "2023-12-05": 745914,
-  "2023-12-06": 745914,
-  "2023-12-07": 745914,
-  "2023-12-08": 745914,
-  "2023-12-09": 745914,
-  "2023-12-10": 745914,
-  "2023-12-11": 745914,
-  "2023-12-12": 745914,
-  "2023-12-13": 745914,
-  "2023-12-14": 750751,
-  "2023-12-15": 750887,
-  "2023-12-16": 751045,
-  "2023-12-17": 751171,
-  "2023-12-18": 751306,
-  "2023-12-19": 751464,
-  "2023-12-20": 751604,
-  "2023-12-21": 751735,
-  "2023-12-22": 751869,
-  "2023-12-23": 752027,
-  "2023-12-24": 752198,
-  "2023-12-25": 752325,
-  "2023-12-26": 752410,
-  "2023-12-27": 752538,
-  "2023-12-30": 752960,
-  "2023-12-31": 753102,
-  "2024-01-01": 753210,
-  "2024-01-02": 753277,
-  "2024-01-03": 753376
+  "2024-01-17": 753262,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Iron Maiden. The essential tracks, all in one playlist.",
+  "name": "This Is Iron Maiden",
+  "tracks": [
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2SrVGpjv0mqCR6j9EZPSm2"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396760,
+      "name": "22 Acacia Avenue - 2015 Remaster",
+      "url": "https://open.spotify.com/track/51S9pXdACCrhputBUl05Cs"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Aces High - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3wFGRek61NIF330UwJCI52"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416560,
+      "name": "Afraid to Shoot Strangers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QKhecJ2JuajCTPTtYkKUQ"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517093,
+      "name": "Alexander the Great (356-323 B.C.) - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Be Quick or Be Dead - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7xa3dJQMzBVzsrZ81tNcHP"
+    },
+    {
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434293,
+      "name": "Blood Brothers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
+    },
+    {
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379066,
+      "name": "Brave New World - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5hAAcyKfcw8nJ2Kgx3FXd0"
+    },
+    {
+      "album": {
+        "name": "No Prayer for the Dying (2015 Remaster)",
+        "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 283693,
+      "name": "Bring Your Daughter... to the Slaughter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Can I Play with Madness - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5YBRbCkuzxkxA3e5BfetdI"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447333,
+      "name": "Caught Somewhere in Time - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5F5Wshdfs9oe188TryHRia"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "Children of the Damned - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7tcaQvBbSpNN0P2UF6WXxB"
+    },
+    {
+      "album": {
+        "name": "Dance of Death (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516426,
+      "name": "Dance of Death - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4YsgFGkP1KeSFDWfZqVioX"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 440464,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/01n8OBPVoR4dotXQxwhnH6"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Days Of Future Past",
+      "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620403,
+      "name": "Death Of The Celts",
+      "url": "https://open.spotify.com/track/2Ks5ndUJWiUEQEZ3ttIhFa"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245573,
+      "name": "Flash of the Blade - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2yAiIlVQa2wy9M5JnSrjMm"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Flight of Icarus - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
+    },
+    {
+      "album": {
+        "name": "A Matter of Life and Death (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1gdB9kn59KSAVG5VQcjdHi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 565026,
+      "name": "For the Greater Good of God - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7kocq12UHSZ2S4U8P71RXo"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "From Here to Eternity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6uXD7ywanNw6sGatkT9uVw"
+    },
+    {
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410026,
+      "name": "Ghost of the Navigator - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6KLUI6LnYdg5PIb5VKWSzu"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431093,
+      "name": "Hallowed Be Thy Name - 2015 Remaster",
+      "url": "https://open.spotify.com/track/469rBLYJUZHMJLtq2Wch3h"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443600,
+      "name": "Heaven Can Wait - 2015 Remaster",
+      "url": "https://open.spotify.com/track/02xMKrzQ65xS700JS13Y90"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369373,
+      "name": "Infinite Dreams - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2yGdYMeYIjCQFiBRPnKKiZ"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 214360,
+      "name": "Iron Maiden - 2015 Remaster",
+      "url": "https://open.spotify.com/track/21wB3DaIk112Ry3mEzqfit"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Judas Be My Guide - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3JzdNBmwnV4trRNaXEx23Y"
+    },
+    {
+      "album": {
+        "name": "Killers (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 301666,
+      "name": "Killers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 571584,
+      "name": "Lost In A Lost World",
+      "url": "https://open.spotify.com/track/0snEBWqLtpH1lONPTiNref"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340573,
+      "name": "Moonchild - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lIAye5LMhs7EfiWDTGC2y"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441466,
+      "name": "Phantom of the Opera - 2015 Remaster",
+      "url": "https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431520,
+      "name": "Powerslave - 2015 Remaster",
+      "url": "https://open.spotify.com/track/70wXUzmg3tk3Ci2Ixg1YwO"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Prowler - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1198hsFUvkbffYd8Ff58DX"
+    },
+    {
+      "album": {
+        "name": "Dance of Death (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "Rainmaker - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5jNmbcbuNhM8d5oUld1WsS"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409626,
+      "name": "Revelations - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1J9ylqJ29VS6yFhIkkNBzL"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818693,
+      "name": "Rime of the Ancient Mariner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6K8ROjiPJqyHDJS0sA0dwH"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Running Free - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 344026,
+      "name": "Sea of Madness - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6GROdBUD0tIT9muEfnXQUz"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 500170,
+      "name": "Senjutsu",
+      "url": "https://open.spotify.com/track/5aCPxXIBHYa2t6BXhKA6o7"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594080,
+      "name": "Seventh Son of a Seventh Son - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4STDzTw4Z13mee7Ig4vi1n"
+    },
+    {
+      "album": {
+        "name": "The X Factor (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3irqbaStVsDR9IEdg8Cdwz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 676986,
+      "name": "Sign of the Cross - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1QwWRwiaCRbWl48nMqJuUG"
+    },
+    {
+      "album": {
+        "name": "The Book of Souls",
+        "url": "https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 301745,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 297013,
+      "name": "Still Life - 2015 Remaster",
+      "url": "https://open.spotify.com/track/48ShNhzz3tueJ5g55usma7"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 347346,
+      "name": "Strange World - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2zg6aGS3qFpVYqEkGy0vVB"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346666,
+      "name": "Stranger in a Strange Land - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Stratego",
+      "url": "https://open.spotify.com/track/7BOLGsgOMicS0GLmsX940c"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267293,
+      "name": "The Clairvoyant - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1NVvYEAv61lWHmptNEBUHf"
+    },
+    {
+      "album": {
+        "name": "Virtual XI (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4olc018Cln2QaMRFy1sk7v"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 539786,
+      "name": "The Clansman - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4L6lZetSWtn949AGIhd5aR"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274213,
+      "name": "The Evil That Men Do - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t"
+    },
+    {
+      "album": {
+        "name": "Killers (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105266,
+      "name": "The Ides of March - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1bsko7BvWDVWiew5h468v7"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393293,
+      "name": "The Loneliness of the Long Distance Runner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5ttrHRvvbegTmsCevibnFR"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290586,
+      "name": "The Number of the Beast - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3nlGByvetDcS1uomAoiBmy"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 758990,
+      "name": "The Parchment",
+      "url": "https://open.spotify.com/track/55y0pLHkNTaX2MdB4XmHU3"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362520,
+      "name": "The Prisoner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/60JWUDrpUTuu6gxTvknjg5"
+    },
+    {
+      "album": {
+        "name": "The Book of Souls",
+        "url": "https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 813713,
+      "name": "The Red and the Black",
+      "url": "https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429443,
+      "name": "The Time Machine",
+      "url": "https://open.spotify.com/track/2orfmTbBQtEI1wpukVt40z"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275253,
+      "name": "The Wicker Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373898,
+      "name": "The Writing on the Wall",
+      "url": "https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Transylvania - 2015 Remaster",
+      "url": "https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351026,
+      "name": "Wasting Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2KKLuHN6zDxVnWtFKO8vo4"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372760,
+      "name": "Where Eagles Dare - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5QtlbCKhAL70eQM9dbzoR8"
+    },
+    {
+      "album": {
+        "name": "Killers (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Wrathchild - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1SpuDZ7y1W4vaCzHeLvsf7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KIUZW"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7外伝 名を消した男」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,137 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,391 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

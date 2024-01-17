@@ -1,26 +1,447 @@
 {
-  "2023-12-09": 66,
-  "2023-12-10": 66,
-  "2023-12-11": 157,
-  "2023-12-12": 157,
-  "2023-12-13": 308,
-  "2023-12-14": 669,
-  "2023-12-15": 871,
-  "2023-12-16": 1174,
-  "2023-12-17": 1392,
-  "2023-12-18": 1641,
-  "2023-12-19": 1688,
-  "2023-12-20": 1707,
-  "2023-12-21": 1729,
-  "2023-12-22": 1757,
-  "2023-12-23": 1797,
-  "2023-12-24": 1832,
-  "2023-12-25": 1854,
-  "2023-12-26": 1876,
-  "2023-12-27": 1888,
-  "2023-12-30": 1942,
-  "2023-12-31": 1962,
-  "2024-01-01": 1979,
-  "2024-01-02": 1987,
-  "2024-01-03": 1999
+  "2024-01-17": 2156,
+  "date_first_scraped": "2023-12-09",
+  "description": "Featuring all your favourite songs from The Archies.",
+  "name": "The Archies Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Asymmetrical",
+      "url": "https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Chhoona Aasmaan",
+      "url": "https://open.spotify.com/track/1DGpaO6ZfA3zgV2zhLdxrn"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51500,
+      "name": "Dear Diary - July",
+      "url": "https://open.spotify.com/track/6u1zsxjV3zU3a3X27tljuq"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41000,
+      "name": "Dear Diary - June",
+      "url": "https://open.spotify.com/track/0XCYNAyYVqcvJK8bWpvHEN"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49500,
+      "name": "Dear Diary - October",
+      "url": "https://open.spotify.com/track/5yw5XtYqTteOmsDokXt1uF"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69500,
+      "name": "Dear Diary - September",
+      "url": "https://open.spotify.com/track/6AktLLTO4VgCcnoqVM8zc8"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Kelly Dlima",
+          "url": "https://open.spotify.com/artist/3gF18EJ5xgeNdLZHndcsm6"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121829,
+      "name": "Dhishoom Dhishoom",
+      "url": "https://open.spotify.com/track/6y7Afj2vhicwV5NZsay7e3"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shivam Mahadevan",
+          "url": "https://open.spotify.com/artist/235N4J1kQVI9kfqGF8Ntnl"
+        },
+        {
+          "name": "Arish B",
+          "url": "https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183501,
+      "name": "Everything Is Politics",
+      "url": "https://open.spotify.com/track/0tbGkJb3FnEFasmq8e3nYY"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "In Raahon Mein",
+      "url": "https://open.spotify.com/track/2sxyaKEwEy4xOeg9FOkHcE"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Suhana Khan",
+          "url": "https://open.spotify.com/artist/6NkXe4YSopYGP9jDfD6onJ"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163168,
+      "name": "Jab Tum Na Theen",
+      "url": "https://open.spotify.com/track/5V6rDEJyPZNbnosr2pkTzu"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Lonely July",
+      "url": "https://open.spotify.com/track/1IvW1H7tzRXZzHopLbajTG"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Shibani Akhtar",
+          "url": "https://open.spotify.com/artist/6Gft0BBlHoNqafi7zShBRo"
+        },
+        {
+          "name": "Zoya Akhtar",
+          "url": "https://open.spotify.com/artist/2yzq6vOgpmLS0hLlg7667p"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183814,
+      "name": "Plum Pudding",
+      "url": "https://open.spotify.com/track/3hzAEyTQWoQ4xgcvLqqkpv"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "Sunoh",
+      "url": "https://open.spotify.com/track/2kOvi96bIHc7F0muM43xMA"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Shillong Chamber Choir",
+          "url": "https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        },
+        {
+          "name": "The Islanders",
+          "url": "https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187605,
+      "name": "Sunoh - Reprise",
+      "url": "https://open.spotify.com/track/3iRKf1eAQk6I7ncGH98UN7"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128330,
+      "name": "Va Va Voom",
+      "url": "https://open.spotify.com/track/4m9xTzj9702ImrjcSGXyCH"
+    },
+    {
+      "album": {
+        "name": "Radio Hits 60's",
+        "url": "https://open.spotify.com/album/4GTB3bSsXrwVXr7BraGrIb"
+      },
+      "artists": [
+        {
+          "name": "The Top Club Band",
+          "url": "https://open.spotify.com/artist/2dzDJPysSdkI3ZBsw2oeJo"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211394,
+      "name": "Wolly Bully",
+      "url": "https://open.spotify.com/track/44ueiWFAgKNJ3QpoNkdAT7"
+    },
+    {
+      "album": {
+        "name": "The Archies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250634,
+      "name": "Yeh Saari Aawazein",
+      "url": "https://open.spotify.com/track/5gCRliUIJRkvpmlM37nRzQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbCNKk6DONWJ"
 }

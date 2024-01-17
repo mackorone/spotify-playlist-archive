@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Alegria, Alegria!!!",
+        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Me Entrego Pros Caretas",
         "url": "https://open.spotify.com/album/560jeL82N1TmKINoprN8P2"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
@@ -1160,10 +1178,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 195573,
       "name": "Vou Festejar - Ao Vivo",
       "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
+    },
+    {
+      "album": {
+        "name": "Pr\u00f3xima Parada",
+        "url": "https://open.spotify.com/album/15ghaSjLDsOeeXlALfCfrP"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
     },
     {
       "album": {

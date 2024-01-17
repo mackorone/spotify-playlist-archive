@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-176 songs - 8 hr 49 min
+177 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Feel Like](https://open.spotify.com/track/1Q3AAZ16QInVeIiiUbSKwR) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [Feel Like](https://open.spotify.com/album/2GnXAHduGMBnAjCWTDoQGl) | 3:08 | 2022-11-22 | 2023-04-27 |
 | [Float \- Coco & Breezy Remix](https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Float \(Coco & Breezy Remix\)](https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF) | 2:28 | 2023-04-26 | 2023-09-20 |
 | [Formato Funky](https://open.spotify.com/track/3p5C0TxIxY9nlu4FpwpUfR) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW), [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Formato Funky](https://open.spotify.com/album/3pt8O6EDg4ylQEWSC9XWyy) | 5:05 | 2023-04-26 | 2023-09-20 |
-| [Freak In My Text](https://open.spotify.com/track/2vZZisoNv6wQPLEFSTFU3m) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/0mLZuSI6w4zuL2jDefZ6Ws) | 1:57 | 2023-09-19 |  |
+| [Freak In My Text](https://open.spotify.com/track/2vZZisoNv6wQPLEFSTFU3m) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/0mLZuSI6w4zuL2jDefZ6Ws) | 1:57 | 2023-09-19 | 2024-01-16 |
+| [Freak In My Text](https://open.spotify.com/track/53lBl07yag3J4INgFLDrVt) | [Noah Ashton](https://open.spotify.com/artist/3LXTW2hGHDoSJnp6Pc1hoQ) | [Freak In My Text](https://open.spotify.com/album/10viiAWF01z1b6njB4oar1) | 1:57 | 2023-11-06 |  |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-14 | 2022-11-23 |
 | [Get Jumped \(with Bandmanrill\)](https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Get Jumped](https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt) | 2:04 | 2022-07-14 | 2022-11-23 |
 | [Get Off The Wall](https://open.spotify.com/track/1ttdCC6nZ0M1Bq2zkuf73W) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Get Off The Wall](https://open.spotify.com/album/3bb2VTq1MT3JrMF0S5XU93) | 2:58 | 2023-09-19 | 2023-11-07 |

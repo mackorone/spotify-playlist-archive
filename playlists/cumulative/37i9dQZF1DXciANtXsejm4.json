@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Alguien Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1lte9W0V3YNDTAUF5Pmo94"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Alguien Mejor Que Yo",
+      "url": "https://open.spotify.com/track/6U0jBHXGJ8W1sPt7uFkK7p"
+    },
+    {
+      "album": {
         "name": "Dibujando Corazones",
         "url": "https://open.spotify.com/album/72uPiWO3kkkE1s8LcaxWOy"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 97466,
       "name": "Conmigo te gust\u00f3",
       "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 200373,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
       "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
@@ -3096,7 +3114,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Tan S\u00f3lo Amantes",
       "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"

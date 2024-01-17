@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="spotify:artist:47TMF0JlFsz01KilGzc5Ly">Kalan.FrFr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,499 likes - 56 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,764 likes - 56 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/2Ps8o55SBGwjGQ2OMi3HeX"
+      },
+      "artists": [
+        {
+          "name": "Harve",
+          "url": "https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx"
+        },
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "02:29",
+      "url": "https://open.spotify.com/track/0nq1m4IivlKihMvkGitVah"
+    },
+    {
+      "album": {
         "name": "02:29",
         "url": "https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u"
       },
@@ -56,7 +78,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": "2024-01-14",
       "duration_ms": 149000,
       "name": "02:29",
       "url": "https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W"
@@ -78,7 +100,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 149000,
       "name": "02:29",
       "url": "https://open.spotify.com/track/7BJTM0XefPQqNnn5673oqu"

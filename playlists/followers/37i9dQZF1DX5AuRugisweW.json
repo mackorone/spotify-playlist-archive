@@ -1,735 +1,1455 @@
 {
-  "2021-12-25": 169238,
-  "2021-12-26": 169251,
-  "2021-12-27": 169287,
-  "2021-12-28": 169287,
-  "2021-12-29": 169315,
-  "2021-12-30": 169326,
-  "2021-12-31": 169346,
-  "2022-01-01": 169367,
-  "2022-01-02": 169375,
-  "2022-01-03": 169380,
-  "2022-01-04": 169391,
-  "2022-01-05": 169400,
-  "2022-01-06": 169411,
-  "2022-01-07": 169429,
-  "2022-01-08": 169446,
-  "2022-01-09": 169448,
-  "2022-01-10": 169466,
-  "2022-01-11": 169490,
-  "2022-01-12": 169510,
-  "2022-01-13": 169516,
-  "2022-01-14": 169541,
-  "2022-01-15": 169580,
-  "2022-01-16": 169585,
-  "2022-01-17": 169639,
-  "2022-01-18": 169643,
-  "2022-01-19": 169660,
-  "2022-01-20": 169681,
-  "2022-01-21": 169708,
-  "2022-01-22": 169727,
-  "2022-01-23": 169754,
-  "2022-01-24": 169775,
-  "2022-01-25": 169804,
-  "2022-01-26": 169825,
-  "2022-01-27": 169849,
-  "2022-01-28": 169876,
-  "2022-01-29": 169892,
-  "2022-01-30": 169910,
-  "2022-01-31": 169925,
-  "2022-02-01": 169946,
-  "2022-02-02": 169950,
-  "2022-02-03": 169949,
-  "2022-02-04": 169965,
-  "2022-02-05": 169977,
-  "2022-02-06": 169993,
-  "2022-02-07": 170016,
-  "2022-02-08": 170024,
-  "2022-02-09": 170049,
-  "2022-02-10": 170068,
-  "2022-02-11": 170097,
-  "2022-02-12": 170116,
-  "2022-02-13": 170136,
-  "2022-02-14": 170153,
-  "2022-02-15": 170148,
-  "2022-02-16": 170156,
-  "2022-02-17": 170152,
-  "2022-02-18": 170166,
-  "2022-02-19": 170179,
-  "2022-02-20": 170197,
-  "2022-02-21": 170219,
-  "2022-02-22": 170235,
-  "2022-02-23": 170244,
-  "2022-02-24": 170254,
-  "2022-02-25": 170276,
-  "2022-02-26": 170294,
-  "2022-02-27": 170339,
-  "2022-02-28": 170339,
-  "2022-03-01": 170343,
-  "2022-03-02": 170347,
-  "2022-03-03": 170366,
-  "2022-03-04": 170376,
-  "2022-03-05": 170385,
-  "2022-03-06": 170394,
-  "2022-03-07": 170411,
-  "2022-03-08": 170420,
-  "2022-03-09": 170441,
-  "2022-03-10": 170462,
-  "2022-03-11": 170479,
-  "2022-03-12": 170493,
-  "2022-03-13": 170502,
-  "2022-03-14": 170520,
-  "2022-03-15": 170536,
-  "2022-03-16": 170548,
-  "2022-03-17": 170554,
-  "2022-03-18": 170585,
-  "2022-03-19": 170592,
-  "2022-03-20": 170592,
-  "2022-03-21": 170623,
-  "2022-03-22": 170637,
-  "2022-03-23": 170657,
-  "2022-03-24": 170684,
-  "2022-03-25": 170694,
-  "2022-03-26": 170713,
-  "2022-03-27": 170732,
-  "2022-03-28": 170747,
-  "2022-03-30": 170770,
-  "2022-03-31": 170783,
-  "2022-04-01": 170784,
-  "2022-04-02": 170800,
-  "2022-04-03": 170815,
-  "2022-04-04": 170824,
-  "2022-04-05": 170835,
-  "2022-04-06": 170843,
-  "2022-04-07": 170860,
-  "2022-04-08": 170888,
-  "2022-04-09": 170902,
-  "2022-04-10": 170929,
-  "2022-04-11": 170947,
-  "2022-04-12": 170947,
-  "2022-04-13": 170958,
-  "2022-04-14": 170961,
-  "2022-04-15": 170980,
-  "2022-04-16": 170994,
-  "2022-04-17": 171009,
-  "2022-04-18": 171019,
-  "2022-04-19": 171026,
-  "2022-04-20": 171042,
-  "2022-04-21": 171067,
-  "2022-04-22": 171075,
-  "2022-04-23": 171084,
-  "2022-04-24": 171097,
-  "2022-04-25": 171115,
-  "2022-04-26": 171126,
-  "2022-04-27": 171139,
-  "2022-04-28": 171152,
-  "2022-04-29": 171182,
-  "2022-04-30": 171187,
-  "2022-05-01": 171195,
-  "2022-05-02": 171195,
-  "2022-05-03": 171202,
-  "2022-05-04": 171222,
-  "2022-05-05": 171239,
-  "2022-05-06": 171255,
-  "2022-05-07": 171260,
-  "2022-05-08": 171284,
-  "2022-05-09": 171292,
-  "2022-05-10": 171296,
-  "2022-05-11": 171309,
-  "2022-05-12": 171324,
-  "2022-05-13": 171343,
-  "2022-05-14": 171366,
-  "2022-05-15": 171378,
-  "2022-05-16": 171394,
-  "2022-05-17": 171413,
-  "2022-05-18": 171427,
-  "2022-05-19": 171442,
-  "2022-05-20": 171469,
-  "2022-05-21": 171507,
-  "2022-05-22": 171507,
-  "2022-05-23": 171534,
-  "2022-05-24": 171538,
-  "2022-05-25": 171567,
-  "2022-05-26": 171591,
-  "2022-05-27": 171609,
-  "2022-05-28": 171635,
-  "2022-05-29": 171658,
-  "2022-05-30": 171670,
-  "2022-05-31": 171689,
-  "2022-06-01": 171715,
-  "2022-06-02": 171720,
-  "2022-06-03": 171735,
-  "2022-06-04": 171752,
-  "2022-06-05": 171772,
-  "2022-06-06": 171791,
-  "2022-06-07": 171805,
-  "2022-06-08": 171826,
-  "2022-06-09": 171836,
-  "2022-06-10": 171843,
-  "2022-06-11": 171861,
-  "2022-06-12": 171877,
-  "2022-06-13": 171886,
-  "2022-06-14": 171910,
-  "2022-06-15": 171921,
-  "2022-06-16": 171950,
-  "2022-06-17": 171965,
-  "2022-06-18": 171985,
-  "2022-06-19": 172039,
-  "2022-06-20": 172039,
-  "2022-06-21": 172065,
-  "2022-06-22": 172095,
-  "2022-06-23": 172095,
-  "2022-06-24": 172112,
-  "2022-06-25": 172114,
-  "2022-06-26": 172124,
-  "2022-06-27": 172142,
-  "2022-06-28": 172142,
-  "2022-06-29": 172156,
-  "2022-06-30": 172171,
-  "2022-07-01": 172187,
-  "2022-07-02": 172212,
-  "2022-07-03": 172233,
-  "2022-07-04": 172245,
-  "2022-07-05": 172271,
-  "2022-07-06": 172284,
-  "2022-07-07": 172301,
-  "2022-07-08": 172315,
-  "2022-07-09": 172347,
-  "2022-07-10": 172361,
-  "2022-07-11": 172385,
-  "2022-07-12": 172406,
-  "2022-07-13": 172425,
-  "2022-07-14": 172443,
-  "2022-07-15": 172467,
-  "2022-07-16": 172489,
-  "2022-07-17": 172512,
-  "2022-07-18": 172527,
-  "2022-07-19": 172543,
-  "2022-07-20": 172552,
-  "2022-07-21": 172562,
-  "2022-07-22": 172571,
-  "2022-07-23": 172594,
-  "2022-07-24": 172616,
-  "2022-07-25": 172641,
-  "2022-07-26": 172659,
-  "2022-07-27": 172687,
-  "2022-07-28": 172721,
-  "2022-07-29": 172749,
-  "2022-07-30": 172800,
-  "2022-07-31": 172800,
-  "2022-08-01": 172814,
-  "2022-08-02": 172856,
-  "2022-08-03": 172856,
-  "2022-08-04": 172876,
-  "2022-08-05": 172896,
-  "2022-08-06": 172921,
-  "2022-08-07": 172942,
-  "2022-08-08": 172954,
-  "2022-08-09": 172970,
-  "2022-08-10": 172991,
-  "2022-08-11": 173014,
-  "2022-08-12": 173038,
-  "2022-08-13": 173068,
-  "2022-08-14": 173088,
-  "2022-08-15": 173126,
-  "2022-08-16": 173143,
-  "2022-08-17": 173156,
-  "2022-08-18": 173174,
-  "2022-08-19": 173187,
-  "2022-08-20": 173201,
-  "2022-08-21": 173205,
-  "2022-08-22": 173227,
-  "2022-08-23": 173239,
-  "2022-08-24": 173252,
-  "2022-08-25": 173276,
-  "2022-08-26": 173289,
-  "2022-08-27": 173311,
-  "2022-08-28": 173333,
-  "2022-08-29": 173356,
-  "2022-08-30": 173337,
-  "2022-08-31": 173290,
-  "2022-09-01": 173244,
-  "2022-09-02": 173199,
-  "2022-09-03": 173108,
-  "2022-09-04": 173083,
-  "2022-09-05": 173099,
-  "2022-09-06": 173112,
-  "2022-09-07": 173125,
-  "2022-09-09": 173149,
-  "2022-09-10": 173167,
-  "2022-09-11": 173173,
-  "2022-09-12": 173194,
-  "2022-09-13": 173198,
-  "2022-09-15": 173214,
-  "2022-09-16": 173228,
-  "2022-09-17": 173252,
-  "2022-09-18": 173273,
-  "2022-09-19": 173281,
-  "2022-09-20": 173289,
-  "2022-09-21": 173313,
-  "2022-09-22": 173328,
-  "2022-09-23": 173347,
-  "2022-09-24": 173369,
-  "2022-09-25": 173384,
-  "2022-09-26": 173397,
-  "2022-09-27": 173412,
-  "2022-09-28": 173428,
-  "2022-09-29": 173441,
-  "2022-09-30": 173455,
-  "2022-10-01": 173477,
-  "2022-10-02": 173510,
-  "2022-10-03": 173526,
-  "2022-10-04": 173551,
-  "2022-10-05": 173565,
-  "2022-10-06": 173581,
-  "2022-10-07": 173595,
-  "2022-10-08": 173619,
-  "2022-10-09": 173666,
-  "2022-10-10": 173669,
-  "2022-10-11": 173692,
-  "2022-10-12": 173724,
-  "2022-10-13": 173742,
-  "2022-10-14": 173773,
-  "2022-10-15": 173794,
-  "2022-10-16": 173827,
-  "2022-10-17": 173860,
-  "2022-10-18": 173895,
-  "2022-10-19": 173910,
-  "2022-10-20": 173946,
-  "2022-10-21": 173967,
-  "2022-10-22": 173997,
-  "2022-10-23": 174011,
-  "2022-10-24": 174040,
-  "2022-10-25": 174075,
-  "2022-10-26": 174100,
-  "2022-10-27": 174123,
-  "2022-10-28": 174149,
-  "2022-10-29": 174191,
-  "2022-10-30": 174216,
-  "2022-10-31": 174223,
-  "2022-11-01": 174239,
-  "2022-11-02": 174269,
-  "2022-11-03": 174285,
-  "2022-11-04": 174308,
-  "2022-11-05": 174317,
-  "2022-11-06": 174354,
-  "2022-11-07": 174373,
-  "2022-11-08": 174394,
-  "2022-11-09": 174423,
-  "2022-11-10": 174433,
-  "2022-11-11": 174455,
-  "2022-11-12": 174474,
-  "2022-11-13": 174497,
-  "2022-11-14": 174519,
-  "2022-11-15": 174541,
-  "2022-11-16": 174567,
-  "2022-11-17": 174587,
-  "2022-11-18": 174589,
-  "2022-11-19": 174576,
-  "2022-11-20": 174611,
-  "2022-11-21": 174592,
-  "2022-11-22": 174636,
-  "2022-11-23": 174619,
-  "2022-11-24": 174685,
-  "2022-11-25": 174717,
-  "2022-11-26": 174737,
-  "2022-11-27": 174750,
-  "2022-11-28": 174773,
-  "2022-11-29": 174787,
-  "2022-11-30": 174813,
-  "2022-12-01": 174824,
-  "2022-12-02": 174831,
-  "2022-12-03": 174860,
-  "2022-12-04": 174867,
-  "2022-12-05": 174889,
-  "2022-12-06": 174902,
-  "2022-12-07": 174912,
-  "2022-12-08": 174941,
-  "2022-12-09": 174964,
-  "2022-12-10": 174995,
-  "2022-12-11": 175026,
-  "2022-12-12": 175032,
-  "2022-12-13": 175046,
-  "2022-12-14": 175068,
-  "2022-12-15": 175088,
-  "2022-12-16": 175112,
-  "2022-12-17": 175127,
-  "2022-12-18": 175146,
-  "2022-12-19": 175162,
-  "2022-12-20": 175193,
-  "2022-12-21": 175193,
-  "2022-12-22": 175204,
-  "2022-12-24": 175239,
-  "2022-12-25": 175254,
-  "2022-12-26": 175284,
-  "2022-12-27": 175305,
-  "2022-12-28": 175321,
-  "2022-12-29": 175338,
-  "2022-12-30": 175361,
-  "2022-12-31": 175385,
-  "2023-01-01": 175412,
-  "2023-01-02": 175434,
-  "2023-01-03": 175440,
-  "2023-01-04": 175446,
-  "2023-01-05": 175466,
-  "2023-01-06": 175496,
-  "2023-01-07": 175529,
-  "2023-01-08": 175542,
-  "2023-01-09": 175557,
-  "2023-01-10": 175561,
-  "2023-01-11": 175578,
-  "2023-01-12": 175613,
-  "2023-01-13": 175629,
-  "2023-01-14": 175666,
-  "2023-01-15": 175677,
-  "2023-01-16": 175682,
-  "2023-01-17": 175689,
-  "2023-01-18": 175707,
-  "2023-01-19": 175724,
-  "2023-01-20": 175737,
-  "2023-01-21": 175758,
-  "2023-01-22": 175792,
-  "2023-01-23": 175820,
-  "2023-01-24": 175844,
-  "2023-01-25": 175875,
-  "2023-01-26": 175891,
-  "2023-01-27": 175910,
-  "2023-01-28": 175921,
-  "2023-01-29": 175942,
-  "2023-01-30": 175957,
-  "2023-01-31": 175957,
-  "2023-02-01": 175967,
-  "2023-02-02": 175984,
-  "2023-02-03": 176001,
-  "2023-02-04": 176019,
-  "2023-02-05": 176040,
-  "2023-02-06": 176054,
-  "2023-02-07": 176077,
-  "2023-02-08": 176133,
-  "2023-02-09": 176133,
-  "2023-02-10": 176150,
-  "2023-02-11": 176163,
-  "2023-02-12": 176170,
-  "2023-02-13": 176184,
-  "2023-02-14": 176184,
-  "2023-02-15": 176202,
-  "2023-02-16": 176219,
-  "2023-02-17": 176241,
-  "2023-02-18": 176281,
-  "2023-02-19": 176289,
-  "2023-02-20": 176296,
-  "2023-02-21": 176317,
-  "2023-02-22": 176343,
-  "2023-02-23": 176361,
-  "2023-02-24": 176367,
-  "2023-02-25": 176394,
-  "2023-02-26": 176401,
-  "2023-02-27": 176449,
-  "2023-02-28": 176449,
-  "2023-03-01": 176460,
-  "2023-03-02": 176481,
-  "2023-03-03": 176500,
-  "2023-03-04": 176518,
-  "2023-03-05": 176545,
-  "2023-03-06": 176545,
-  "2023-03-07": 176567,
-  "2023-03-08": 176583,
-  "2023-03-09": 176608,
-  "2023-03-10": 176634,
-  "2023-03-11": 176634,
-  "2023-03-12": 176648,
-  "2023-03-13": 176656,
-  "2023-03-14": 176681,
-  "2023-03-15": 176698,
-  "2023-03-16": 176715,
-  "2023-03-17": 176715,
-  "2023-03-18": 176751,
-  "2023-03-19": 176756,
-  "2023-03-20": 176787,
-  "2023-03-21": 176801,
-  "2023-03-22": 176823,
-  "2023-03-23": 176839,
-  "2023-03-24": 176839,
-  "2023-03-25": 176879,
-  "2023-03-26": 176899,
-  "2023-03-27": 176919,
-  "2023-03-28": 176940,
-  "2023-03-29": 176956,
-  "2023-03-30": 176989,
-  "2023-03-31": 176989,
-  "2023-04-01": 177006,
-  "2023-04-02": 177028,
-  "2023-04-03": 177047,
-  "2023-04-04": 177063,
-  "2023-04-05": 177086,
-  "2023-04-06": 177097,
-  "2023-04-07": 177106,
-  "2023-04-09": 177129,
-  "2023-04-10": 177150,
-  "2023-04-11": 177176,
-  "2023-04-12": 177176,
-  "2023-04-13": 177185,
-  "2023-04-14": 177211,
-  "2023-04-15": 177229,
-  "2023-04-16": 177236,
-  "2023-04-17": 177259,
-  "2023-04-18": 177271,
-  "2023-04-19": 177284,
-  "2023-04-20": 177291,
-  "2023-04-21": 177311,
-  "2023-04-22": 177334,
-  "2023-04-23": 177338,
-  "2023-04-24": 177346,
-  "2023-04-25": 177369,
-  "2023-04-26": 177393,
-  "2023-04-27": 177413,
-  "2023-04-28": 177432,
-  "2023-04-29": 177449,
-  "2023-04-30": 177465,
-  "2023-05-01": 177479,
-  "2023-05-02": 177504,
-  "2023-05-03": 177518,
-  "2023-05-04": 177540,
-  "2023-05-05": 177548,
-  "2023-05-06": 177561,
-  "2023-05-07": 177573,
-  "2023-05-08": 177590,
-  "2023-05-09": 177604,
-  "2023-05-10": 177620,
-  "2023-05-11": 177624,
-  "2023-05-12": 177642,
-  "2023-05-13": 177658,
-  "2023-05-14": 177682,
-  "2023-05-15": 177694,
-  "2023-05-16": 177707,
-  "2023-05-17": 177715,
-  "2023-05-18": 177741,
-  "2023-05-19": 177751,
-  "2023-05-20": 177778,
-  "2023-05-21": 177778,
-  "2023-05-22": 177778,
-  "2023-05-23": 177803,
-  "2023-05-24": 177831,
-  "2023-05-25": 177833,
-  "2023-05-26": 177846,
-  "2023-05-27": 177869,
-  "2023-05-28": 177903,
-  "2023-05-29": 177903,
-  "2023-05-30": 177941,
-  "2023-05-31": 177960,
-  "2023-06-01": 178003,
-  "2023-06-02": 178034,
-  "2023-06-03": 178059,
-  "2023-06-04": 178081,
-  "2023-06-05": 178084,
-  "2023-06-06": 178139,
-  "2023-06-07": 178164,
-  "2023-06-08": 178185,
-  "2023-06-09": 178214,
-  "2023-06-10": 178240,
-  "2023-06-11": 178269,
-  "2023-06-12": 178306,
-  "2023-06-13": 178368,
-  "2023-06-14": 178404,
-  "2023-06-15": 178431,
-  "2023-06-16": 178455,
-  "2023-06-17": 178474,
-  "2023-06-18": 178488,
-  "2023-06-19": 178508,
-  "2023-06-20": 178529,
-  "2023-06-21": 178539,
-  "2023-06-22": 178554,
-  "2023-06-23": 178575,
-  "2023-06-24": 178588,
-  "2023-06-25": 178598,
-  "2023-06-26": 178623,
-  "2023-06-27": 178633,
-  "2023-06-28": 178655,
-  "2023-06-29": 178670,
-  "2023-06-30": 178685,
-  "2023-07-01": 178718,
-  "2023-07-02": 178718,
-  "2023-07-03": 178727,
-  "2023-07-04": 178736,
-  "2023-07-05": 178744,
-  "2023-07-06": 178772,
-  "2023-07-07": 178772,
-  "2023-07-08": 178795,
-  "2023-07-09": 178819,
-  "2023-07-10": 178838,
-  "2023-07-11": 178859,
-  "2023-07-12": 178873,
-  "2023-07-13": 178919,
-  "2023-07-14": 178960,
-  "2023-07-15": 178981,
-  "2023-07-16": 179029,
-  "2023-07-17": 179072,
-  "2023-07-18": 179094,
-  "2023-07-19": 179134,
-  "2023-07-20": 179164,
-  "2023-07-21": 179177,
-  "2023-07-22": 179217,
-  "2023-07-23": 179239,
-  "2023-07-24": 179253,
-  "2023-07-25": 179280,
-  "2023-07-26": 179296,
-  "2023-07-27": 179333,
-  "2023-07-28": 179371,
-  "2023-07-29": 179405,
-  "2023-07-30": 179431,
-  "2023-07-31": 179447,
-  "2023-08-01": 179475,
-  "2023-08-02": 179494,
-  "2023-08-03": 179512,
-  "2023-08-04": 179538,
-  "2023-08-05": 179577,
-  "2023-08-06": 179623,
-  "2023-08-07": 179623,
-  "2023-08-08": 179641,
-  "2023-08-09": 179667,
-  "2023-08-10": 179694,
-  "2023-08-11": 179724,
-  "2023-08-12": 179754,
-  "2023-08-13": 179777,
-  "2023-08-14": 179797,
-  "2023-08-15": 179832,
-  "2023-08-16": 179832,
-  "2023-08-17": 179850,
-  "2023-08-18": 179860,
-  "2023-08-19": 179896,
-  "2023-08-20": 179933,
-  "2023-08-21": 179972,
-  "2023-08-22": 179993,
-  "2023-08-23": 180016,
-  "2023-08-24": 180042,
-  "2023-08-25": 180070,
-  "2023-08-26": 180097,
-  "2023-08-27": 180113,
-  "2023-08-28": 180138,
-  "2023-08-29": 180149,
-  "2023-08-30": 180154,
-  "2023-08-31": 180168,
-  "2023-09-01": 180197,
-  "2023-09-02": 180197,
-  "2023-09-03": 180219,
-  "2023-09-04": 180245,
-  "2023-09-05": 180263,
-  "2023-09-06": 180279,
-  "2023-09-07": 180295,
-  "2023-09-08": 180301,
-  "2023-09-09": 180321,
-  "2023-09-10": 180353,
-  "2023-09-11": 180370,
-  "2023-09-12": 180393,
-  "2023-09-13": 180410,
-  "2023-09-14": 180409,
-  "2023-09-15": 180424,
-  "2023-09-16": 180437,
-  "2023-09-17": 180456,
-  "2023-09-18": 180468,
-  "2023-09-19": 180498,
-  "2023-09-20": 180521,
-  "2023-09-21": 180526,
-  "2023-09-22": 180539,
-  "2023-09-23": 180551,
-  "2023-09-24": 180566,
-  "2023-09-25": 180576,
-  "2023-09-26": 180593,
-  "2023-09-27": 180600,
-  "2023-09-28": 180617,
-  "2023-09-29": 180646,
-  "2023-09-30": 180654,
-  "2023-10-01": 180675,
-  "2023-10-02": 180686,
-  "2023-10-03": 180691,
-  "2023-10-04": 180704,
-  "2023-10-05": 180724,
-  "2023-10-06": 180751,
-  "2023-10-07": 180764,
-  "2023-10-08": 180778,
-  "2023-10-09": 180786,
-  "2023-10-10": 180512,
-  "2023-10-11": 180250,
-  "2023-10-12": 180250,
-  "2023-10-13": 180024,
-  "2023-10-14": 179857,
-  "2023-10-15": 179832,
-  "2023-10-16": 179853,
-  "2023-10-17": 179872,
-  "2023-10-18": 179880,
-  "2023-10-19": 179894,
-  "2023-10-20": 179915,
-  "2023-10-21": 179939,
-  "2023-10-22": 179954,
-  "2023-10-23": 179957,
-  "2023-10-24": 179973,
-  "2023-10-25": 179989,
-  "2023-10-26": 180010,
-  "2023-10-27": 180025,
-  "2023-10-28": 180053,
-  "2023-10-29": 180063,
-  "2023-10-30": 180086,
-  "2023-10-31": 180086,
-  "2023-11-01": 180096,
-  "2023-11-02": 180116,
-  "2023-11-03": 180119,
-  "2023-11-04": 180130,
-  "2023-11-05": 180150,
-  "2023-11-06": 180161,
-  "2023-11-07": 180187,
-  "2023-11-08": 180209,
-  "2023-11-09": 180226,
-  "2023-11-10": 180241,
-  "2023-11-11": 180248,
-  "2023-11-12": 180269,
-  "2023-11-13": 180289,
-  "2023-11-14": 180301,
-  "2023-11-15": 180301,
-  "2023-11-16": 180320,
-  "2023-11-17": 180356,
-  "2023-11-18": 180356,
-  "2023-11-19": 180373,
-  "2023-11-20": 180388,
-  "2023-11-21": 180412,
-  "2023-11-22": 180435,
-  "2023-11-23": 180449,
-  "2023-11-24": 180467,
-  "2023-11-25": 180484,
-  "2023-11-26": 180500,
-  "2023-11-27": 180498,
-  "2023-11-28": 180510,
-  "2023-11-29": 180562,
-  "2023-11-30": 180562,
-  "2023-12-01": 180574,
-  "2023-12-02": 180597,
-  "2023-12-03": 180611,
-  "2023-12-04": 180640,
-  "2023-12-05": 180645,
-  "2023-12-06": 180665,
-  "2023-12-07": 180678,
-  "2023-12-08": 180689,
-  "2023-12-09": 180697,
-  "2023-12-10": 180715,
-  "2023-12-11": 180719,
-  "2023-12-12": 180727,
-  "2023-12-13": 180744,
-  "2023-12-14": 180751,
-  "2023-12-15": 180759,
-  "2023-12-16": 180783,
-  "2023-12-17": 180804,
-  "2023-12-18": 180826,
-  "2023-12-19": 180854,
-  "2023-12-20": 180863,
-  "2023-12-21": 180876,
-  "2023-12-22": 180899,
-  "2023-12-23": 180911,
-  "2023-12-24": 180922,
-  "2023-12-25": 180940,
-  "2023-12-26": 180959,
-  "2023-12-27": 180968,
-  "2023-12-30": 181010,
-  "2023-12-31": 181026,
-  "2024-01-01": 181040,
-  "2024-01-02": 181059,
-  "2024-01-03": 181072
+  "2024-01-17": 179907,
+  "date_first_scraped": "2021-12-21",
+  "description": "Songs of the crossroads and \"that old evil spirit\"\u2014from Robert Johnson to John Mayer, from early blues to new Americana.",
+  "name": "Crossroad Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198313,
+      "name": "Ain't No Grave (Sparse)",
+      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
+    },
+    {
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
+    },
+    {
+      "album": {
+        "name": "Blues Singer (1932-1936)",
+        "url": "https://open.spotify.com/album/3kSbXWueGdc6Oggc684xLW"
+      },
+      "artists": [
+        {
+          "name": "Josh White",
+          "url": "https://open.spotify.com/artist/5yO2B80rSVJ7bWdhBjkEKQ"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Black And Evil Blues",
+      "url": "https://open.spotify.com/track/4Drdz82DtFXhLpOvm2UvAU"
+    },
+    {
+      "album": {
+        "name": "The Bluebird Recordings, 1936-1938",
+        "url": "https://open.spotify.com/album/24mVci2XkXZkcFmk58M4UF"
+      },
+      "artists": [
+        {
+          "name": "Tampa Red",
+          "url": "https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Blue And Evil Blues - Remastered - 1997",
+      "url": "https://open.spotify.com/track/5uceLRCLWBankhVPz6AGL1"
+    },
+    {
+      "album": {
+        "name": "Texas Alexander Vol. 2 (1928-1930)",
+        "url": "https://open.spotify.com/album/1ThZe8yKqEJe5LNKI6Z1sE"
+      },
+      "artists": [
+        {
+          "name": "Texas Alexander",
+          "url": "https://open.spotify.com/artist/1JzB486qiKybcJOnSMkOyf"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Blue Devil Blues",
+      "url": "https://open.spotify.com/track/1HS0i3XljvlJwBbZ2iRi1F"
+    },
+    {
+      "album": {
+        "name": "The Last Of The Blue Devils",
+        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
+      },
+      "artists": [
+        {
+          "name": "Jay McShann",
+          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Blue Devil Jump",
+      "url": "https://open.spotify.com/track/3iwZOA51h58QHa3KLyAKyu"
+    },
+    {
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/3CrPK1hHaiP3IDmeiMEo53"
+      },
+      "artists": [
+        {
+          "name": "Willie Kent",
+          "url": "https://open.spotify.com/artist/7HmW0ENiK2RblSh3CpOAnR"
+        },
+        {
+          "name": "Willie James Lyons",
+          "url": "https://open.spotify.com/artist/0Db5dXKSZdPpFuVmBw1nI6"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330533,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/7IHTgTJz3hm6qeexXDi1Eb"
+    },
+    {
+      "album": {
+        "name": "Clifford Hayes & The Louisville Jug Bands Vol. 3",
+        "url": "https://open.spotify.com/album/3KgQDXaLltP7NnVgl09qxU"
+      },
+      "artists": [
+        {
+          "name": "Buddy Burton & Fats Hudson",
+          "url": "https://open.spotify.com/artist/4kxaEivs44vtMnKyDabMkF"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181551,
+      "name": "Blue Guitar Stomp",
+      "url": "https://open.spotify.com/track/2QmkRlu6Td0kBAjvByuH0G"
+    },
+    {
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182047,
+      "name": "Cross And Evil Woman Blues",
+      "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
+    },
+    {
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "Cross Road Blues",
+      "url": "https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG"
+    },
+    {
+      "album": {
+        "name": "The World Don't Owe Me Nothing",
+        "url": "https://open.spotify.com/album/2GymXXT4nUQJ7pRe3kKm3V"
+      },
+      "artists": [
+        {
+          "name": "David \"Honeyboy\" Edwards",
+          "url": "https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206467,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/06seDLtwax1URGUWMM1Tzb"
+    },
+    {
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/60uHS2b93aPUAkZNVGNrQw"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 168252,
+      "name": "CrossRoads",
+      "url": "https://open.spotify.com/track/1J14bmebdXtMFCOMFLI4y7"
+    },
+    {
+      "album": {
+        "name": "The USA Records Blues Story",
+        "url": "https://open.spotify.com/album/2jCNz707qCyk1BOV66BaD2"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165092,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0BfVCv8lMEHxEWZlo85Zso"
+    },
+    {
+      "album": {
+        "name": "Chicago City Blues The '60s",
+        "url": "https://open.spotify.com/album/41yyBTXkSkjDvQHUHU5tcg"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167106,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/7tTROS8YTXXvZQLrShynY6"
+    },
+    {
+      "album": {
+        "name": "Battle Studies",
+        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4WBmkMJyWubRXRLYk8t9SI"
+    },
+    {
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251493,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe"
+    },
+    {
+      "album": {
+        "name": "Crossroads (Original Sountrack)",
+        "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Crossroads - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+    },
+    {
+      "album": {
+        "name": "Crossroads 2 (Live In The Seventies)",
+        "url": "https://open.spotify.com/album/2vTifPgCfp6q3dyJApxS9D"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321973,
+      "name": "Crossroads - Crossroad 2 Box/Set Version/Live Version",
+      "url": "https://open.spotify.com/track/6SeQ9g3IQEh5Hpdg8psO1Q"
+    },
+    {
+      "album": {
+        "name": "Breakin' It Up, Breakin' It Down",
+        "url": "https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        },
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470413,
+      "name": "Dealin' With the Devil",
+      "url": "https://open.spotify.com/track/5dpxVXiKhjGehNkEvII5vS"
+    },
+    {
+      "album": {
+        "name": "Not Guilty Blues",
+        "url": "https://open.spotify.com/album/6tfJYQDKU4djTEvANVl8l1"
+      },
+      "artists": [
+        {
+          "name": "Brownie McGhee",
+          "url": "https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Dealing With The Devil",
+      "url": "https://open.spotify.com/track/4k1ktWbrsTqo8TSS2gRnKM"
+    },
+    {
+      "album": {
+        "name": "The Lesser-Known Tristan Omand",
+        "url": "https://open.spotify.com/album/7IPTWh4EGjqbTV0j6AsluG"
+      },
+      "artists": [
+        {
+          "name": "Tristan Omand",
+          "url": "https://open.spotify.com/artist/5eG6rHvvjI5RVHnuUSWSUY"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Devil Don't Want Me Blues",
+      "url": "https://open.spotify.com/track/2aJg7C5YdTCOb5Oj0rKN0N"
+    },
+    {
+      "album": {
+        "name": "Self Portrait In Blues",
+        "url": "https://open.spotify.com/album/0asSpE0QkPr4kr44hDzUZU"
+      },
+      "artists": [
+        {
+          "name": "Paul Geremia",
+          "url": "https://open.spotify.com/artist/6WjX0aTaDpid6wC4l09oWS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267733,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/1K6VtDBnilkDWTofvtQhkt"
+    },
+    {
+      "album": {
+        "name": "Self Portrait in Blues",
+        "url": "https://open.spotify.com/album/3lkwobatvIadTglWDDGavY"
+      },
+      "artists": [
+        {
+          "name": "Paul Geremia",
+          "url": "https://open.spotify.com/artist/6WjX0aTaDpid6wC4l09oWS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269733,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/20j35mjwZq5Jt3HA0T9Bp2"
+    },
+    {
+      "album": {
+        "name": "One Believer",
+        "url": "https://open.spotify.com/album/3oFdK3KarRx9Z8bSccWnVL"
+      },
+      "artists": [
+        {
+          "name": "John Campbell",
+          "url": "https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360599,
+      "name": "Devil in My Closet",
+      "url": "https://open.spotify.com/track/4vK3FnnHxfXjuEbDMFNBIz"
+    },
+    {
+      "album": {
+        "name": "Lightnin' Strikes",
+        "url": "https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "Devil Is Watching You",
+      "url": "https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO"
+    },
+    {
+      "album": {
+        "name": "Lightnin' Strikes",
+        "url": "https://open.spotify.com/album/2durLkohaSVvMbnwzj9I87"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240933,
+      "name": "Devil Is Watching You",
+      "url": "https://open.spotify.com/track/2Vy5QgZefcP5s7pk7ghV7e"
+    },
+    {
+      "album": {
+        "name": "Complete Recordings, CD B",
+        "url": "https://open.spotify.com/album/5g5uCm26kMPe0oMk0NyIEk"
+      },
+      "artists": [
+        {
+          "name": "Charley Patton",
+          "url": "https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Devil Sent The Rain Blues",
+      "url": "https://open.spotify.com/track/6z7GYFQcNUkqjEOBWktpb5"
+    },
+    {
+      "album": {
+        "name": "Pure Religion and Bad Company",
+        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119906,
+      "name": "Devil's Dream",
+      "url": "https://open.spotify.com/track/2yOjgmbdA6B3jdAbZLZr43"
+    },
+    {
+      "album": {
+        "name": "The Complete Recordings, Vol. 4",
+        "url": "https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Devil's Gonna Git You",
+      "url": "https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ"
+    },
+    {
+      "album": {
+        "name": "Once I Was An Eagle",
+        "url": "https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194466,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/341o4T7XtSZUKeQvIw2wms"
+    },
+    {
+      "album": {
+        "name": "Alternative Americana",
+        "url": "https://open.spotify.com/album/5egEoLAKrRgFFZBZbiTAaU"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194480,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/1F75INpjPkOJwd1c1fHG40"
+    },
+    {
+      "album": {
+        "name": "Once I Was An Eagle",
+        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Devil's Resting Place",
+      "url": "https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI"
+    },
+    {
+      "album": {
+        "name": "If You Can't Fix It",
+        "url": "https://open.spotify.com/album/20qIuBLcGMyXD0Md1Ndqx3"
+      },
+      "artists": [
+        {
+          "name": "James & Lucky Peterson",
+          "url": "https://open.spotify.com/artist/2Gt3l8AlsZ0lTu5E81hHb4"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223867,
+      "name": "Don't Give The Devil No Ground",
+      "url": "https://open.spotify.com/track/1MUKrOtiW5qY4ccXx9KZqj"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/561jvEwRe8xnV1OufSvXrS"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Don't You Lie To Me (I Get Evil) - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/49HpLbZHUWi24SeTZKRksQ"
+    },
+    {
+      "album": {
+        "name": "Rockin' And Rollin' Vol. 1 (1948-1950)",
+        "url": "https://open.spotify.com/album/5aIifcQg2xQpoGLAr5XjTN"
+      },
+      "artists": [
+        {
+          "name": "Melvin \"Lil' Son\" Jackson",
+          "url": "https://open.spotify.com/artist/1yrqYQjYUncdiXAuj6fGkj"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Evil Blues",
+      "url": "https://open.spotify.com/track/3YOvmznZ4YSokmTyBlVMJm"
+    },
+    {
+      "album": {
+        "name": "Memphis Minnie & Kansas Joe Vol. 4 (1933 - 1934)",
+        "url": "https://open.spotify.com/album/6mSqim1eCFRp4qwyyZyir9"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie & Kansas Joe",
+          "url": "https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194351,
+      "name": "Evil Devil Woman Blues",
+      "url": "https://open.spotify.com/track/4fuyL4tMPJxY0SkbnLXB2g"
+    },
+    {
+      "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Evil Hearted Woman - Alternate Take",
+      "url": "https://open.spotify.com/track/4vP0yQo1dnLq3y2FRp66V0"
+    },
+    {
+      "album": {
+        "name": "The Complete Imperial Recordings: 1950-1954",
+        "url": "https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156933,
+      "name": "Evil Hearted Woman - Alternate Take",
+      "url": "https://open.spotify.com/track/72gZGrgN3z5UsRoERYwTtc"
+    },
+    {
+      "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/08TwuxUunnylXmpariFQPl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Evil Is Going On",
+      "url": "https://open.spotify.com/track/7KEpEndrZXOrFfGdCbuTCL"
+    },
+    {
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "album": {
+        "name": "For a Long While",
+        "url": "https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "For a Long While",
+      "url": "https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF"
+    },
+    {
+      "album": {
+        "name": "Essential Gold [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1h6mrXOY7NeAYs45cSbYEZ"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 109133,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/6cV9bj0q6DmMD7h5Bdk6Ot"
+    },
+    {
+      "album": {
+        "name": "Sings Ballads & Blues",
+        "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111493,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/5kdkqDsU1U2iRsqDt55y5e"
+    },
+    {
+      "album": {
+        "name": "The Best Of Odetta - Ballads & Blues",
+        "url": "https://open.spotify.com/album/6swhyF56FsqcTOFffZeiJW"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 111800,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/0bGCYXc9sN1REMZGItqShk"
+    },
+    {
+      "album": {
+        "name": "The Devil Makes Three",
+        "url": "https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY"
+    },
+    {
+      "album": {
+        "name": "Leadbelly ARC & Library of Congress Recordings Vol. 2 (1935)",
+        "url": "https://open.spotify.com/album/3uCRRCs7gE3acXQUjNpLmF"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152947,
+      "name": "Gwine Dig A Hole To Put The Devil In (142-B-1)",
+      "url": "https://open.spotify.com/track/1j3oXJcbQdarDIMWq91yKo"
+    },
+    {
+      "album": {
+        "name": "Fleetwood Mac (1968)",
+        "url": "https://open.spotify.com/album/7H79aLBXfSGwnYgPnKHRWP"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125866,
+      "name": "Hellhound on My Trail",
+      "url": "https://open.spotify.com/track/5VBWZll59ggYjEl3taGHNm"
+    },
+    {
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125866,
+      "name": "Hellhound on My Trail - Take 1",
+      "url": "https://open.spotify.com/track/1JKsia6kNlSeqDnPfJgKvH"
+    },
+    {
+      "album": {
+        "name": "The Blue Guitar Sessions",
+        "url": "https://open.spotify.com/album/6SP4J2wiXpV5v6mubCnHD8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177733,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0oInlz2qTVyXpfdAkJDluQ"
+    },
+    {
+      "album": {
+        "name": "The Blue Guitar Sessions",
+        "url": "https://open.spotify.com/album/4xe69ZZD8TIi0Axgl3a0Np"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 178651,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/1dFlAV0eMcsSPwZsIHdf4y"
+    },
+    {
+      "album": {
+        "name": "The Blue Guitar Sessions",
+        "url": "https://open.spotify.com/album/4DkJcM9PIM5LArvEm83r2h"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 178651,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7sNbMDi5Yyi54pP1T1IbDS"
+    },
+    {
+      "album": {
+        "name": "The Blue Guitar Sessions",
+        "url": "https://open.spotify.com/album/3Qlsmc3uOXNynNGGMPjbUO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cook",
+          "url": "https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA"
+        },
+        {
+          "name": "Emma-Lee",
+          "url": "https://open.spotify.com/artist/1OD4aWTiLRPAijuuIahCPS"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178651,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/0g3IVRP1pMB0TfTO1nXo2r"
+    },
+    {
+      "album": {
+        "name": "No Promises",
+        "url": "https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Lady Weeping At The Crossroads",
+      "url": "https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636"
+    },
+    {
+      "album": {
+        "name": "No Promises",
+        "url": "https://open.spotify.com/album/6NQG3cFQMkz7Y9OPLG7yxx"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217893,
+      "name": "Lady Weeping at the Crossroads",
+      "url": "https://open.spotify.com/track/446SWPkCoDTG2ibVD4bVHr"
+    },
+    {
+      "album": {
+        "name": "Black Wind Howlin'",
+        "url": "https://open.spotify.com/album/7iVYk6SKIzwsUf11kxoNS6"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267790,
+      "name": "Let's Have Some Fun",
+      "url": "https://open.spotify.com/track/4krvAl6zfhfDfWL1KdvQAa"
+    },
+    {
+      "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/0tBAT5NugCTPG3W5mKpbn4"
+    },
+    {
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Me and the Devil Blues",
+      "url": "https://open.spotify.com/track/1QCUrXrY1qlxRhL3a9LYCA"
+    },
+    {
+      "album": {
+        "name": "Let's Cut It: The Very Best of Elmore James",
+        "url": "https://open.spotify.com/album/1WCo5zVf10jhAJVBGuzf8S"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133266,
+      "name": "Mean and Evil",
+      "url": "https://open.spotify.com/track/3HzSqraFqZ8aeoL97E52c2"
+    },
+    {
+      "album": {
+        "name": "The Wildest Guitar",
+        "url": "https://open.spotify.com/album/14nCld5W2PoK9Bevapchzv"
+      },
+      "artists": [
+        {
+          "name": "Mickey Baker",
+          "url": "https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/4Wz4prIbO0DgoVPpMINaHs"
+    },
+    {
+      "album": {
+        "name": "Animals In The Dark",
+        "url": "https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J"
+      },
+      "artists": [
+        {
+          "name": "William Elliott Whitmore",
+          "url": "https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "Old devils",
+      "url": "https://open.spotify.com/track/5cNvmC1jEnA6QwnOvHpUo7"
+    },
+    {
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Preachin' Blues (Up Jumped the Devil)",
+      "url": "https://open.spotify.com/track/4pEZg4zQFcJ1jdboMYTYf9"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "Restless Sinner",
+      "url": "https://open.spotify.com/track/2HVIkeN6RFE0nGiydxIP4I"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 191986,
+      "name": "Restless Sinner",
+      "url": "https://open.spotify.com/track/4qrUQuQ2Nt9jgZW99rBcbo"
+    },
+    {
+      "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "Say No to the Devil",
+      "url": "https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy"
+    },
+    {
+      "album": {
+        "name": "Fits of Reason",
+        "url": "https://open.spotify.com/album/7ea69Z9iyvseW29vS3bF4V"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Seven Hells",
+      "url": "https://open.spotify.com/track/1mpkTTUxWTB3FlO2OlRIB4"
+    },
+    {
+      "album": {
+        "name": "Raise The Dead",
+        "url": "https://open.spotify.com/album/0KWoKgu11Rk25DOdvDXMlR"
+      },
+      "artists": [
+        {
+          "name": "Kenny Parker",
+          "url": "https://open.spotify.com/artist/4hstkiGUdRmYQdoJllXPhR"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409200,
+      "name": "Shake Hands With The Devil",
+      "url": "https://open.spotify.com/track/6N9EEC8c1I4X8FRMmyN4cu"
+    },
+    {
+      "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310866,
+      "name": "She's Got The Devil In Her",
+      "url": "https://open.spotify.com/track/2r6JhvSzpVZ2UaHPMptWRO"
+    },
+    {
+      "album": {
+        "name": "Ocean Or A Teardrop",
+        "url": "https://open.spotify.com/album/6kDhcbz8oBrftXQENBXHjX"
+      },
+      "artists": [
+        {
+          "name": "David Jacobs-Strain",
+          "url": "https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "Shoot The Devil",
+      "url": "https://open.spotify.com/track/2Od65pY63Wszxh9KgGdJsk"
+    },
+    {
+      "album": {
+        "name": "Ocean Or A Teardrop",
+        "url": "https://open.spotify.com/album/2eVVNuaxGvnZ4DV2ervlQq"
+      },
+      "artists": [
+        {
+          "name": "David Jacobs-Strain",
+          "url": "https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258133,
+      "name": "Shoot The Devil",
+      "url": "https://open.spotify.com/track/4mtcFF6DUAsjMmGkVCOZIt"
+    },
+    {
+      "album": {
+        "name": "Ocean or a Teardrop",
+        "url": "https://open.spotify.com/album/0zTmCNjZInNKWTliMFndfk"
+      },
+      "artists": [
+        {
+          "name": "David Jacobs-Strain",
+          "url": "https://open.spotify.com/artist/7KXqvbvlCJn6OAxsOru4wu"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 258133,
+      "name": "Shoot The Devil",
+      "url": "https://open.spotify.com/track/75CzG25bgYcZiLUXVJXSPA"
+    },
+    {
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178906,
+      "name": "Standing At The Crossroads",
+      "url": "https://open.spotify.com/track/1e6qkPMUiaWZfVk7WdRByQ"
+    },
+    {
+      "album": {
+        "name": "Nothin' But The Blues",
+        "url": "https://open.spotify.com/album/4ILAWjCe5fCCUmwjwmOmFM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Sweet Love and Evil Women",
+      "url": "https://open.spotify.com/track/2Ug7RPzySjonBoV0FEzefC"
+    },
+    {
+      "album": {
+        "name": "Live in '63",
+        "url": "https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        },
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287991,
+      "name": "The Devil Is A Busy Man",
+      "url": "https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ"
+    },
+    {
+      "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "The Devil Wears a Suit and Tie",
+      "url": "https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh"
+    },
+    {
+      "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 236026,
+      "name": "The Devil Wears a Suit and Tie",
+      "url": "https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3"
+    },
+    {
+      "album": {
+        "name": "Golden Gate Quartet Vol. 3 (1939)",
+        "url": "https://open.spotify.com/album/7wUIKSAxaAphwol1abkQjv"
+      },
+      "artists": [
+        {
+          "name": "The Golden Gate Quartet",
+          "url": "https://open.spotify.com/artist/182Tr1WYFcvwbVhCegi1KW"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184189,
+      "name": "The Devil With The Devil",
+      "url": "https://open.spotify.com/track/6cqW0uVvurfrB83AlPGQA8"
+    },
+    {
+      "album": {
+        "name": "Rest in Chaos",
+        "url": "https://open.spotify.com/album/4LJR9UMWLslKXpVE1q9Psz"
+      },
+      "artists": [
+        {
+          "name": "Hard Working Americans",
+          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208439,
+      "name": "The High Price of Inspiration",
+      "url": "https://open.spotify.com/track/65CVlqtXiLtCSdFRHC10mU"
+    },
+    {
+      "album": {
+        "name": "Silver Tones - The Best Of John Mayall & The Bluesbreakers",
+        "url": "https://open.spotify.com/album/5C05kJP6CrBCXyvHxyf6Ao"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "When The Devil Starts Crying",
+      "url": "https://open.spotify.com/track/5aQKw1uQIfxy84q37Ac1wU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5AuRugisweW"
 }

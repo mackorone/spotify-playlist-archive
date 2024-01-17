@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Poloo &quot;Sicario&quot;, Carlos Vives &amp; Ryan Castro &quot;Los Sabanales 3.0&quot;,  Polim\u00e1 Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Carlos Vives, Ryan Castro",
-  "num_followers": 55684,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Emilia &amp; Nathy Peluso &quot;JET_Set.mp3&quot;,  Polim\u00e1 Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Emilia &amp; Nathy Peluso",
+  "num_followers": 55062,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDI5NyxkNTVkNDRjMzQwMDU4OGI4ZTQ4YWY3NWIzZjA0NmRlNGZmMjIwYzc0",
+  "snapshot_id": "NDMwMixjYjg4N2RkZjViYTQzYWM0MGU4MzNmNmFhMDUxNjc2YmY2M2IxYjkw",
   "tracks": [
+    {
+      "added_at": "2024-01-12 04:18:31",
+      "album": {
+        "name": "JET_Set.mp3",
+        "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 145919,
+      "name": "JET_Set.mp3",
+      "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
+    },
     {
       "added_at": "2023-12-15 15:05:21",
       "album": {
@@ -43,70 +63,6 @@
       "duration_ms": 188467,
       "name": "Los Sabanales 3.0",
       "url": "https://open.spotify.com/track/4vPOPz82WsE1KHxl1r0HnS"
-    },
-    {
-      "added_at": "2023-12-08 16:04:57",
-      "album": {
-        "name": "NASTY SINGLES",
-        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190697,
-      "name": "YA NO TE EXTRA\u00d1O",
-      "url": "https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg"
-    },
-    {
-      "added_at": "2023-12-08 16:15:37",
-      "album": {
-        "name": "NASTY SINGLES",
-        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 154866,
-      "name": "TU PERROTA",
-      "url": "https://open.spotify.com/track/5JBsFddVLWFNE4WfXo9ZDw"
-    },
-    {
-      "added_at": "2023-12-08 16:16:33",
-      "album": {
-        "name": "NASTY SINGLES",
-        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 166395,
-      "name": "ANDALE",
-      "url": "https://open.spotify.com/track/13d86x60ox3cQPxI7Cc2Pb"
-    },
-    {
-      "added_at": "2023-12-08 16:17:20",
-      "album": {
-        "name": "NASTY SINGLES",
-        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 157576,
-      "name": "TU TATTOO",
-      "url": "https://open.spotify.com/track/64IQsBPvAhHdA6gVJihye2"
     },
     {
       "added_at": "2023-12-08 17:42:37",
@@ -259,6 +215,22 @@
       "duration_ms": 185294,
       "name": "est\u00e1 brillando la ciudad",
       "url": "https://open.spotify.com/track/6VFukssRvVuR8VFcDw2CLA"
+    },
+    {
+      "added_at": "2024-01-11 16:56:02",
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2023-11-03 00:00:47",
@@ -683,6 +655,70 @@
       "duration_ms": 190076,
       "name": "BACANO",
       "url": "https://open.spotify.com/track/7Bm8KAA3mcGu26Vnss7A4f"
+    },
+    {
+      "added_at": "2023-12-08 16:04:57",
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190697,
+      "name": "YA NO TE EXTRA\u00d1O",
+      "url": "https://open.spotify.com/track/1gZXkChBq4k1kDxJW32kAg"
+    },
+    {
+      "added_at": "2023-12-08 16:15:37",
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "TU PERROTA",
+      "url": "https://open.spotify.com/track/5JBsFddVLWFNE4WfXo9ZDw"
+    },
+    {
+      "added_at": "2023-12-08 16:16:33",
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 166395,
+      "name": "ANDALE",
+      "url": "https://open.spotify.com/track/13d86x60ox3cQPxI7Cc2Pb"
+    },
+    {
+      "added_at": "2023-12-08 16:17:20",
+      "album": {
+        "name": "NASTY SINGLES",
+        "url": "https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 157576,
+      "name": "TU TATTOO",
+      "url": "https://open.spotify.com/track/64IQsBPvAhHdA6gVJihye2"
     },
     {
       "added_at": "2023-09-29 00:10:21",

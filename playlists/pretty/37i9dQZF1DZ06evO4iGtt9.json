@@ -1,15 +1,15 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6031,
+  "num_followers": 6076,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDA5YjQwNTJjOGJlMmY0YjQ5ODAyMGQ1OGUwOWMzN2MwMg==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAwMWVjMTc0MzczMTQ3NDM5YjI5NWY2ODgyNmI1ZWE1Yw==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "SWEET US",
         "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Joko (feat. Shaggy)",
         "url": "https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py"
@@ -81,59 +81,7 @@
       "url": "https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Chulo Vibes",
-        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Chop Life",
         "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
@@ -153,7 +101,59 @@
       "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Tomato",
         "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
@@ -257,7 +257,23 @@
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Get Serious",
         "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Chulo Vibes",
-        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Better Than Them",
         "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "I Like The Way",
         "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
@@ -397,7 +397,27 @@
       "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum - Machel Montano Remix",
+      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Telli Person",
         "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
@@ -421,91 +441,7 @@
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "The Gehn Gehn Album",
-        "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 207317,
-      "name": "Ogede",
-      "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 210210,
-      "name": "Shake Yuh Bum - Machel Montano Remix",
-      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Deetii",
-          "url": "https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Gbagam",
-      "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
@@ -529,7 +465,71 @@
       "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "The Gehn Gehn Album",
+        "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 207317,
+      "name": "Ogede",
+      "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Deetii",
+          "url": "https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Gbagam",
+      "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
@@ -553,79 +553,7 @@
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Solidstar",
-        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
-      },
-      "artists": [
-        {
-          "name": "Solidstar",
-          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "I Concur",
-        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "I Concur",
-      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Something Must to Kill a Man",
-      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
@@ -649,182 +577,30 @@
       "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "Solidstar",
+        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Appreciation",
-      "url": "https://open.spotify.com/track/4qATPFkC2gftNidKNKsvbs"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Mind over Matter (feat. D'banj)",
-        "url": "https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 190876,
-      "name": "Mind over Matter (feat. D'banj)",
-      "url": "https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Gift And Grace",
-        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "2Solo",
-          "url": "https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte"
-        },
-        {
-          "name": "Recoba",
-          "url": "https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U"
-        }
-      ],
-      "duration_ms": 272040,
-      "name": "Dem Mama Anthem",
-      "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Erima",
-        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
         },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Erima",
-      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+      "duration_ms": 218305,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
-        "name": "Samankwe",
-        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
-      },
-      "artists": [
-        {
-          "name": "HarrySong",
-          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Samankwe",
-      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
@@ -832,12 +608,12 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+      "duration_ms": 186013,
+      "name": "Something Must to Kill a Man",
+      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Givin Dem",
         "url": "https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x"
@@ -861,7 +637,195 @@
       "url": "https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/4qATPFkC2gftNidKNKsvbs"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Solo",
+          "url": "https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte"
+        },
+        {
+          "name": "Recoba",
+          "url": "https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U"
+        }
+      ],
+      "duration_ms": 272040,
+      "name": "Dem Mama Anthem",
+      "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Samankwe",
+        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Erima",
+        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Erima",
+      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Igbalode",
         "url": "https://open.spotify.com/album/5D1kgcGV5HEs2OiC8IKLIj"
@@ -885,27 +849,7 @@
       "url": "https://open.spotify.com/track/7gywnmiiHFGaGadY27UJ8X"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "CITIZEN OF THE WORLD",
-        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Get the Money",
-      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "Chulo Vibes",
         "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
@@ -925,7 +869,63 @@
       "url": "https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Mind over Matter (feat. D'banj)",
+        "url": "https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 190876,
+      "name": "Mind over Matter (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "CITIZEN OF THE WORLD",
+        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Get the Money",
+      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:39",
       "album": {
         "name": "My Moto",
         "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
@@ -941,20 +941,24 @@
       "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:39",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+        "name": "Essential Afrobeats",
+        "url": "https://open.spotify.com/album/1WaOIzLO6mNNTO23vNlMOz"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 216920,
-      "name": "Sexy Ladies",
-      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
+      "duration_ms": 216574,
+      "name": "Bum Bum (Remix)",
+      "url": "https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ"
     }
   ],
   "unique_name": "This Is Timaya",

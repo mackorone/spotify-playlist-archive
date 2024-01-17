@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,356 likes - 190 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,495 likes - 190 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

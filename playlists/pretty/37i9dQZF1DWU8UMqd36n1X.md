@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,797 likes - 56 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,190 likes - 56 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8UMqd36n1X.md) - [plain]
 | 45 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
 | 46 | [Rump Shaker](https://open.spotify.com/track/4dY4JVC0Q9CwpeZ6JAclIc) | [Wreckx\-N\-Effect](https://open.spotify.com/artist/6lLYZf9GpSq6Pf09g2N2xK) | [Hard Or Smooth](https://open.spotify.com/album/6xLyv6QON3hOuKiqRKvNOw) | 5:12 |
 | 47 | [Let Me Be the One](https://open.spotify.com/track/0T3xmp3KqDklZ12Ze0Nm13) | [Intro](https://open.spotify.com/artist/03n0Ll5tJjUxajYOvc0TQm) | [INTRO](https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY) | 4:57 |
-| 48 | [The One For Me](https://open.spotify.com/track/6xnJvIPLh9bWG2ZagAL6UN) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Everything](https://open.spotify.com/album/41vhgxFJ8NUqKMejOkhDCj) | 4:38 |
+| 48 | [The One For Me](https://open.spotify.com/track/6zW36Sf7bTVc7ajfzrafGT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Everything](https://open.spotify.com/album/2Xbq8uBDjgWKou5YAJWTFT) | 4:40 |
 | 49 | [Make You Sweat](https://open.spotify.com/track/3iI6xZkQSWGjWx5phFVLn2) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [I'll Give All My Love to You](https://open.spotify.com/album/6SjLhapZQcPYcMP73FdPRZ) | 5:20 |
 | 50 | [Your Sweetness](https://open.spotify.com/track/4UOX1Clxfkldv2mMZWCUav) | [The Good Girls](https://open.spotify.com/artist/5iqkRelxyIGrekUFsKrAOP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:03 |
 | 51 | [Every Little Step](https://open.spotify.com/track/0s6e7ZafqOAUBDoQYGmxrc) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 3:57 |

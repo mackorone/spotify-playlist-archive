@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 214830,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 209120,
       "name": "BLOW (with Chris Stapleton & Bruno Mars)",
       "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
@@ -3427,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "Old Souls",
+        "url": "https://open.spotify.com/album/26d0vtMvn6U4JkdUhGHOzL"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198136,
+      "name": "Kings Road Ghosts",
+      "url": "https://open.spotify.com/track/0TLtYJNy9Ku5CSC2MOGCMv"
+    },
+    {
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 173073,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
@@ -6136,7 +6154,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 176805,
       "name": "Tear Me to Pieces",
       "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"

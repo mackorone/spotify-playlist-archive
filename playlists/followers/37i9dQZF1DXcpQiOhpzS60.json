@@ -1,72 +1,1301 @@
 {
-  "2023-10-24": 140444,
-  "2023-10-25": 140444,
-  "2023-10-26": 140444,
-  "2023-10-27": 140444,
-  "2023-10-28": 140444,
-  "2023-10-29": 140444,
-  "2023-10-30": 140444,
-  "2023-10-31": 140444,
-  "2023-11-01": 140444,
-  "2023-11-02": 140444,
-  "2023-11-03": 140444,
-  "2023-11-04": 140444,
-  "2023-11-05": 140444,
-  "2023-11-06": 140444,
-  "2023-11-07": 140444,
-  "2023-11-08": 140444,
-  "2023-11-09": 140444,
-  "2023-11-10": 140444,
-  "2023-11-11": 142255,
-  "2023-11-12": 142255,
-  "2023-11-13": 142255,
-  "2023-11-14": 142255,
-  "2023-11-15": 142255,
-  "2023-11-16": 142255,
-  "2023-11-17": 142880,
-  "2023-11-18": 142880,
-  "2023-11-19": 142880,
-  "2023-11-20": 142880,
-  "2023-11-21": 142880,
-  "2023-11-22": 142880,
-  "2023-11-23": 143363,
-  "2023-11-24": 143363,
-  "2023-11-25": 143363,
-  "2023-11-26": 143363,
-  "2023-11-27": 143363,
-  "2023-11-28": 143363,
-  "2023-11-29": 143363,
-  "2023-11-30": 143363,
-  "2023-12-01": 143363,
-  "2023-12-02": 143363,
-  "2023-12-03": 143363,
-  "2023-12-04": 143363,
-  "2023-12-05": 143363,
-  "2023-12-06": 143363,
-  "2023-12-07": 143363,
-  "2023-12-08": 143363,
-  "2023-12-09": 144847,
-  "2023-12-10": 144847,
-  "2023-12-11": 145063,
-  "2023-12-12": 145063,
-  "2023-12-13": 145063,
-  "2023-12-14": 145354,
-  "2023-12-15": 145411,
-  "2023-12-16": 145499,
-  "2023-12-17": 145608,
-  "2023-12-18": 145702,
-  "2023-12-19": 145791,
-  "2023-12-20": 145869,
-  "2023-12-21": 145951,
-  "2023-12-22": 146055,
-  "2023-12-23": 146168,
-  "2023-12-24": 146258,
-  "2023-12-25": 146347,
-  "2023-12-26": 146448,
-  "2023-12-27": 146547,
-  "2023-12-30": 146832,
-  "2023-12-31": 146927,
-  "2024-01-01": 147013,
-  "2024-01-02": 147104,
-  "2024-01-03": 147216
+  "2024-01-17": 148804,
+  "date_first_scraped": "2023-10-24",
+  "description": "Ye olde medieval folk to enjoy with one's squire m'lord.",
+  "name": "Renaissance Faire",
+  "tracks": [
+    {
+      "album": {
+        "name": "Magic and Mystery",
+        "url": "https://open.spotify.com/album/6x365XUx3fzbGVRPzMuW7h"
+      },
+      "artists": [
+        {
+          "name": "June Westfield",
+          "url": "https://open.spotify.com/artist/1KvhKvJOR8CiCBJG3RNarA"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299130,
+      "name": "Ancient Forest",
+      "url": "https://open.spotify.com/track/0vHusoGxy7yAUSdyM7ih7B"
+    },
+    {
+      "album": {
+        "name": "Lute & Guitar music of Renaissance Spain, Holland, Germany, England, France, Italy volume 4",
+        "url": "https://open.spotify.com/album/1e6SVJ4Vz0JNBPTxi13Piy"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81091,
+      "name": "Antwerpen Branle",
+      "url": "https://open.spotify.com/track/0jtRRnbLndJDXbagEADLmd"
+    },
+    {
+      "album": {
+        "name": "Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/0jsCAyWHk0nmtdKUbQiHWk"
+      },
+      "artists": [
+        {
+          "name": "Stavros Zacharias",
+          "url": "https://open.spotify.com/artist/4eCttaaxTogZYUIzF9HY4t"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180613,
+      "name": "Atlaga",
+      "url": "https://open.spotify.com/track/5OAn2gbpINZML6lCuJMFjS"
+    },
+    {
+      "album": {
+        "name": "Gothic Bard Fantasy for Medieval Lute, Guitar and Violin Inspired by Castles and Mountains of Italy, England and Ireland",
+        "url": "https://open.spotify.com/album/6CQ3CZl0IsN6VMRPvspse5"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146633,
+      "name": "Branle of Apennine Mountains for Renaissance Lute",
+      "url": "https://open.spotify.com/track/275JRKfyX3lPT58fQ9TZjq"
+    },
+    {
+      "album": {
+        "name": "Come to the Wind",
+        "url": "https://open.spotify.com/album/7MgSKUAgPYqulRzB2dnsXg"
+      },
+      "artists": [
+        {
+          "name": "Facundo Cipolletti",
+          "url": "https://open.spotify.com/artist/4LsZN4m9u2N7reYnUY72Ao"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Come to the Wind",
+      "url": "https://open.spotify.com/track/58cq2dzCGNxPwOAaVo8euM"
+    },
+    {
+      "album": {
+        "name": "Leyriath, of Music and Legends: Cantigas de Santa Maria (Alfonso X)",
+        "url": "https://open.spotify.com/album/63YpHJmjsGRd8pQ9iVMaYK"
+      },
+      "artists": [
+        {
+          "name": "The Wandering Bard",
+          "url": "https://open.spotify.com/artist/729S6lFqEgKZ6ZSh5fv9wX"
+        },
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Esin Yardimli Alves Pereira",
+          "url": "https://open.spotify.com/artist/4lb0t65W3fLoYa7MS0TKn6"
+        },
+        {
+          "name": "Ricardo Alves Pereira",
+          "url": "https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF"
+        },
+        {
+          "name": "Nina Loureiro",
+          "url": "https://open.spotify.com/artist/0xBN3lfLQsGTTY6wLYPpah"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "CSM 123: De Santa Maria Sinal Qual Xe Quer (Everlasting Promise)",
+      "url": "https://open.spotify.com/track/7lBPSOfPhH3UQ3HGssSUaz"
+    },
+    {
+      "album": {
+        "name": "Leyriath, of Music and Legends: Cantigas de Santa Maria (Alfonso X)",
+        "url": "https://open.spotify.com/album/63YpHJmjsGRd8pQ9iVMaYK"
+      },
+      "artists": [
+        {
+          "name": "The Wandering Bard",
+          "url": "https://open.spotify.com/artist/729S6lFqEgKZ6ZSh5fv9wX"
+        },
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Esin Yardimli Alves Pereira",
+          "url": "https://open.spotify.com/artist/4lb0t65W3fLoYa7MS0TKn6"
+        },
+        {
+          "name": "Ricardo Alves Pereira",
+          "url": "https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF"
+        },
+        {
+          "name": "Nina Loureiro",
+          "url": "https://open.spotify.com/artist/0xBN3lfLQsGTTY6wLYPpah"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "CSM 380: Sen Calar Nen Tardar (Time Of Sharing)",
+      "url": "https://open.spotify.com/track/4rQFWVm26ge7vXdyZYqAc7"
+    },
+    {
+      "album": {
+        "name": "Music For A Tudor Feast",
+        "url": "https://open.spotify.com/album/2Ar4ZAOSusRvF7cW6CQD19"
+      },
+      "artists": [
+        {
+          "name": "Hans Neusidler",
+          "url": "https://open.spotify.com/artist/4lhT6toC31O61Gi74mAc09"
+        },
+        {
+          "name": "Trouvere Medieval Minstrels",
+          "url": "https://open.spotify.com/artist/4gRxVDZHtUhitbrJgyj1lc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Dance Of The Washerwomen",
+      "url": "https://open.spotify.com/track/5zBEauh8r5N1nroTKIBtdH"
+    },
+    {
+      "album": {
+        "name": "Der Rabe",
+        "url": "https://open.spotify.com/album/3C1LVlu88Plb9L8ScZPwOo"
+      },
+      "artists": [
+        {
+          "name": "RPG-Tunes",
+          "url": "https://open.spotify.com/artist/4bBJ023ynPLZsUyRlaxyTS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Der Rabe",
+      "url": "https://open.spotify.com/track/4HCDLyilHcgs838YzqY5qN"
+    },
+    {
+      "album": {
+        "name": "Forlatt",
+        "url": "https://open.spotify.com/album/4Gwf27nBqKVqEf1JwlxEBS"
+      },
+      "artists": [
+        {
+          "name": "V\u00e0li",
+          "url": "https://open.spotify.com/artist/4R5FNY5clRc9Fukue1WzRB"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Dypt Inne I Skogen",
+      "url": "https://open.spotify.com/track/7LUOeqUkDBn5QEeSJZqOaq"
+    },
+    {
+      "album": {
+        "name": "El Camino (Medieval Guitar)",
+        "url": "https://open.spotify.com/album/6BDZjY3OJzvj8JPJiKmkMx"
+      },
+      "artists": [
+        {
+          "name": "Dante de Hoyos",
+          "url": "https://open.spotify.com/artist/1H6QKqLeo5cfF3Sk4oKa21"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163044,
+      "name": "El Camino (Medieval Guitar)",
+      "url": "https://open.spotify.com/track/3QfVIo5nLrh5XyNaB0Y0V1"
+    },
+    {
+      "album": {
+        "name": "Magna Melodia - Medieval Music From The Time Of The Magna Carta",
+        "url": "https://open.spotify.com/album/7u65mWDt4HyrT8M5Au7aCp"
+      },
+      "artists": [
+        {
+          "name": "Anon. Ludus Danielis",
+          "url": "https://open.spotify.com/artist/0l552CrhTXQVRWAfumJlpZ"
+        },
+        {
+          "name": "Trouvere Medieval Minstrels",
+          "url": "https://open.spotify.com/artist/4gRxVDZHtUhitbrJgyj1lc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100666,
+      "name": "Ex Regali",
+      "url": "https://open.spotify.com/track/72QjlGLeSzNeyoRsjKgEOJ"
+    },
+    {
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/4Ei64rVyqgU95zc74XpA4Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stewart",
+          "url": "https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261894,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/1Qv4OvLrl2NlyXhT13htz5"
+    },
+    {
+      "album": {
+        "name": "Der S\u00fc\u00dfe Brei (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7azdfwvzcSoK2HKnjXbgD0"
+      },
+      "artists": [
+        {
+          "name": "Mathias Rehfeldt",
+          "url": "https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu"
+        },
+        {
+          "name": "Bulgarian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1W77aQWfts1OQGp6WyMRtR"
+        },
+        {
+          "name": "Juri Kannheiser",
+          "url": "https://open.spotify.com/artist/3dCRarKdycR8fKUQsjnQWc"
+        },
+        {
+          "name": "Matthias Schaff",
+          "url": "https://open.spotify.com/artist/6QtKNBCXSOFqiZ0mfeoKFL"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131230,
+      "name": "Fire and Ashes",
+      "url": "https://open.spotify.com/track/1CADa3niFb30G3gXqTeFay"
+    },
+    {
+      "album": {
+        "name": "Receiver",
+        "url": "https://open.spotify.com/album/07Ntj2UFKmmve6e7RCKPB8"
+      },
+      "artists": [
+        {
+          "name": "The Rheingans Sisters",
+          "url": "https://open.spotify.com/artist/0n2ar2W5cCKSn4D6brrqRa"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "From Up Here",
+      "url": "https://open.spotify.com/track/2DZFVqM1cwT5owTbWvbcNY"
+    },
+    {
+      "album": {
+        "name": "Dancing with your Shadows",
+        "url": "https://open.spotify.com/album/3RIPMihsyFb8sKsYbUFe0u"
+      },
+      "artists": [
+        {
+          "name": "Sagason",
+          "url": "https://open.spotify.com/artist/1NGD3wO5QFhjMhDppAV3ji"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Haunted nights",
+      "url": "https://open.spotify.com/track/4ulY8XcfW26e1zfspFVJ1V"
+    },
+    {
+      "album": {
+        "name": "Hegelburg at Dusk",
+        "url": "https://open.spotify.com/album/2vrKIiC1ifb5KrymmPeDeK"
+      },
+      "artists": [
+        {
+          "name": "ASKII",
+          "url": "https://open.spotify.com/artist/4NLZReAYD7sht8YtA2Sg8K"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Hearthfire",
+      "url": "https://open.spotify.com/track/6aXHM2es2a0Dhc5CiOVgXH"
+    },
+    {
+      "album": {
+        "name": "Fantasy Music Playlist for Celtic Violin, Medieval Lute, Classical Guitar Inspired by Viking, English, Scottish and Irish Folk Tales",
+        "url": "https://open.spotify.com/album/0YYa6q0rhkgbpzp9eeLBeu"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        },
+        {
+          "name": "Anastasia Goose",
+          "url": "https://open.spotify.com/artist/1JOAIwsHOW0BTdHjCuy8jb"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Highlander Love Story",
+      "url": "https://open.spotify.com/track/1b9Kl9TJvHa6XfKUH9qytn"
+    },
+    {
+      "album": {
+        "name": "Florie Brown: Best of Irish Fiddle",
+        "url": "https://open.spotify.com/album/1pMv9XFbmprVg7vRxkLola"
+      },
+      "artists": [
+        {
+          "name": "Florie Brown",
+          "url": "https://open.spotify.com/artist/0RDX4KNOCMEZNIA48pIALX"
+        },
+        {
+          "name": "Margie Butler",
+          "url": "https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Humours of Ennistymon - Monaghan Jig",
+      "url": "https://open.spotify.com/track/15ZhUydfIqAdSa8LpGScNt"
+    },
+    {
+      "album": {
+        "name": "Goreuon Canu Gwerin Newydd / The Best Of New Welsh Folk Music",
+        "url": "https://open.spotify.com/album/1qW8ij1n6Kh0imi80NGzCg"
+      },
+      "artists": [
+        {
+          "name": "Saith Rhyfeddod",
+          "url": "https://open.spotify.com/artist/1Cd0mhWmBjBkurYrJm7meA"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Hyd Y Frwynen/Rhuad Teirw'R Dyffryn",
+      "url": "https://open.spotify.com/track/1ZlE1WKD3lLhU3Sw5OirtI"
+    },
+    {
+      "album": {
+        "name": "From Whence We Came",
+        "url": "https://open.spotify.com/album/21XKiwC8lWeMl58vLKf8NP"
+      },
+      "artists": [
+        {
+          "name": "Guido Piccard",
+          "url": "https://open.spotify.com/artist/3zVzMXOQ9LWgmw9RRe8vyR"
+        },
+        {
+          "name": "Ensemble Galilei",
+          "url": "https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4bNLVtlwvLoemlGT4HzZa9"
+    },
+    {
+      "album": {
+        "name": "Vocal Music (Medieval) - Walther Von Der Vogelweide / Oswald Von Wolkenstein / Codax (Songs of Women in the Middle Ages)",
+        "url": "https://open.spotify.com/album/3kyB7nrhu9ZVglRxsGclam"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Estampie",
+          "url": "https://open.spotify.com/artist/0VzFYfDDwb79K5TVr5z0JZ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "La tierche Estampie royale",
+      "url": "https://open.spotify.com/track/3nTuOhDiwvpSP6XeQRTEjn"
+    },
+    {
+      "album": {
+        "name": "Music for a Tudor Court",
+        "url": "https://open.spotify.com/album/6T1I6Ioro1MCAtu03omgpd"
+      },
+      "artists": [
+        {
+          "name": "John Johnson",
+          "url": "https://open.spotify.com/artist/3xYtiAZeJwvtLBQuPpjTll"
+        },
+        {
+          "name": "Lynda Sayce",
+          "url": "https://open.spotify.com/artist/1b7yUJP0Dqye953qfxa4MH"
+        },
+        {
+          "name": "Matthew Spring",
+          "url": "https://open.spotify.com/artist/4zpLkaU6kMzS9fWmQvyPbG"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152306,
+      "name": "La Vecchia Pavan",
+      "url": "https://open.spotify.com/track/0wIDZaV2BvxxKuM2Jp19M8"
+    },
+    {
+      "album": {
+        "name": "Lament for Owen Roe O'Neill",
+        "url": "https://open.spotify.com/album/2W6mE0lW00IxaBonTrexEm"
+      },
+      "artists": [
+        {
+          "name": "Roxane Genot",
+          "url": "https://open.spotify.com/artist/4jO41bgpC8DyhIQKU6bL2P"
+        },
+        {
+          "name": "Nadia Birkenstock",
+          "url": "https://open.spotify.com/artist/29zLX4i9z7dl8khJLzLtI7"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172408,
+      "name": "Lament for Owen Roe O'Neill",
+      "url": "https://open.spotify.com/track/0SZlLvjLFLa17f7K6hqnHY"
+    },
+    {
+      "album": {
+        "name": "From the Edge of the World",
+        "url": "https://open.spotify.com/album/7MULUCW0CaaPCbFgMEyK2d"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Galilei",
+          "url": "https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Liane's Ocean",
+      "url": "https://open.spotify.com/track/4mG66afMX7T4uEVO51nA41"
+    },
+    {
+      "album": {
+        "name": "Hegelburg at Dusk",
+        "url": "https://open.spotify.com/album/2vrKIiC1ifb5KrymmPeDeK"
+      },
+      "artists": [
+        {
+          "name": "ASKII",
+          "url": "https://open.spotify.com/artist/4NLZReAYD7sht8YtA2Sg8K"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199718,
+      "name": "Lone Dragon Inn",
+      "url": "https://open.spotify.com/track/1mJROKjOrHSRhSr72KmVOt"
+    },
+    {
+      "album": {
+        "name": "Celtic Whispers",
+        "url": "https://open.spotify.com/album/3141tFodOByHfb41ugMkPV"
+      },
+      "artists": [
+        {
+          "name": "Aryeh Frankfurter",
+          "url": "https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159814,
+      "name": "Long Dance from Soller\u00f6n",
+      "url": "https://open.spotify.com/track/04n6gC7dIHQItWj9puXy0A"
+    },
+    {
+      "album": {
+        "name": "Ancient Land (Deluxe)",
+        "url": "https://open.spotify.com/album/6ZOqSYigcCAMN9KTd2mVZK"
+      },
+      "artists": [
+        {
+          "name": "Celtic Woman",
+          "url": "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Love & Honour",
+      "url": "https://open.spotify.com/track/3x8bArT6Kt2J86FaZzgz27"
+    },
+    {
+      "album": {
+        "name": "Robin Hood: Elizabethan Ballad Settings",
+        "url": "https://open.spotify.com/album/4RmdxdJEocO3Xp4toVblOb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Paul O'Dette",
+          "url": "https://open.spotify.com/artist/50x7umX0AIHNXkSwumHPRg"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76266,
+      "name": "Lusty Gallant",
+      "url": "https://open.spotify.com/track/1w8P9WPxdTZoJcAFHMLmbt"
+    },
+    {
+      "album": {
+        "name": "May The Light Embrace You",
+        "url": "https://open.spotify.com/album/6Ku7GnyxwssxXlZ9LCfUIq"
+      },
+      "artists": [
+        {
+          "name": "Chalmeris",
+          "url": "https://open.spotify.com/artist/6qVGXh4jAcWmYKF2ppO46R"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100026,
+      "name": "May The Light Embrace You",
+      "url": "https://open.spotify.com/track/1WKZPG4sScOh0ciMLtFuEX"
+    },
+    {
+      "album": {
+        "name": "The Mystic and the Muse (Celebrating 600 Years Of Women in Music)",
+        "url": "https://open.spotify.com/album/7LpwCYuatY0JaF6RQH2tUw"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Ensemble Galilei",
+          "url": "https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382133,
+      "name": "O ecclesia",
+      "url": "https://open.spotify.com/track/1QT2ipJm9LCLCebg5geg7L"
+    },
+    {
+      "album": {
+        "name": "Paladin",
+        "url": "https://open.spotify.com/album/1sJtAjNzQAGi3pRWw5Ik1A"
+      },
+      "artists": [
+        {
+          "name": "Secret Archives of the Vatican",
+          "url": "https://open.spotify.com/artist/5ckoYa0gNiRIkjeUpMlISR"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269743,
+      "name": "Paladin",
+      "url": "https://open.spotify.com/track/4ZFzZMF830oHDPbDhiLcA8"
+    },
+    {
+      "album": {
+        "name": "Music From the Time of the Templars",
+        "url": "https://open.spotify.com/album/4XR8zq2SEtmhP4y9En7C7c"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Estampie",
+          "url": "https://open.spotify.com/artist/0VzFYfDDwb79K5TVr5z0JZ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Palastinalied",
+      "url": "https://open.spotify.com/track/5s78GDXyDQrkZ2M9dZK1dP"
+    },
+    {
+      "album": {
+        "name": "Magna Melodia - Medieval Music From The Time Of The Magna Carta",
+        "url": "https://open.spotify.com/album/7u65mWDt4HyrT8M5Au7aCp"
+      },
+      "artists": [
+        {
+          "name": "Richard I of England",
+          "url": "https://open.spotify.com/artist/7rveoPXoovD0pKUMgVmh0M"
+        },
+        {
+          "name": "Trouvere Medieval Minstrels",
+          "url": "https://open.spotify.com/artist/4gRxVDZHtUhitbrJgyj1lc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Parti De Mal",
+      "url": "https://open.spotify.com/track/2LKChQIbkDMaNNUCbXQjp6"
+    },
+    {
+      "album": {
+        "name": "Passeri",
+        "url": "https://open.spotify.com/album/1yKfsNDOVrdTtYAKMInSQ8"
+      },
+      "artists": [
+        {
+          "name": "Music Healer",
+          "url": "https://open.spotify.com/artist/7ecYNA8XL5VoQfhUNRjgNE"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157521,
+      "name": "Passeri",
+      "url": "https://open.spotify.com/track/5h7RyeI9SXinLxA4WK5mug"
+    },
+    {
+      "album": {
+        "name": "Aremorica - Land of Elves",
+        "url": "https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baran-Surel",
+          "url": "https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "Per tropo fede",
+      "url": "https://open.spotify.com/track/3a4gWNgXkVHHHzUjeJbKFu"
+    },
+    {
+      "album": {
+        "name": "Courante",
+        "url": "https://open.spotify.com/album/2ZEq3k9POfix6BUS6PBXNM"
+      },
+      "artists": [
+        {
+          "name": "Edward Martin",
+          "url": "https://open.spotify.com/artist/0eOhKH8JGWsZ6Eg2hD6bMz"
+        },
+        {
+          "name": "Thomas Walker",
+          "url": "https://open.spotify.com/artist/6tTEHZEiheFK7fE0IH2x6g"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98240,
+      "name": "Pieces in A Minor: II. Courante",
+      "url": "https://open.spotify.com/track/1OVK7EeziPwL7nVjxYLWOG"
+    },
+    {
+      "album": {
+        "name": "Thatched Villagers",
+        "url": "https://open.spotify.com/album/6Mdqd6ohcQiPdvaIdjCxVG"
+      },
+      "artists": [
+        {
+          "name": "Kevin MacLeod",
+          "url": "https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Pippin the Hunchback",
+      "url": "https://open.spotify.com/track/4uNt7IWKBgLzJ2KQfe5q5D"
+    },
+    {
+      "album": {
+        "name": "The Art of the Lute (The Best of Ronn McFarlane)",
+        "url": "https://open.spotify.com/album/0wl3723uQRB3g0VyY5aW9k"
+      },
+      "artists": [
+        {
+          "name": "Joan Ambrosio Dalza",
+          "url": "https://open.spotify.com/artist/2Vo7E1wIPn0DnMFvX4H06F"
+        },
+        {
+          "name": "Ronn McFarlane",
+          "url": "https://open.spotify.com/artist/2atTYZEMWeXx8k7q9BUX5a"
+        },
+        {
+          "name": "Mark Cudek",
+          "url": "https://open.spotify.com/artist/3BshzRPl6BrMAkZB7QVd8y"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130840,
+      "name": "Piva",
+      "url": "https://open.spotify.com/track/7LAVhnLrNCCGUl5dkH7L7A"
+    },
+    {
+      "album": {
+        "name": "The Sims Medieval, Vol. 2",
+        "url": "https://open.spotify.com/album/3DwRaQhxTq7o9a0GAnILbD"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68840,
+      "name": "Playwright's Lament",
+      "url": "https://open.spotify.com/track/6zFbhOtTjvhgnSoDB44Pr4"
+    },
+    {
+      "album": {
+        "name": "The Celtic Collection",
+        "url": "https://open.spotify.com/album/4bc12QynMKKIcmnu4Q2sJr"
+      },
+      "artists": [
+        {
+          "name": "Adrian Von Ziegler",
+          "url": "https://open.spotify.com/artist/6qDQ6rJG5TOT7PppxBKhqI"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334800,
+      "name": "Prophecy",
+      "url": "https://open.spotify.com/track/4LDXnOCkx6f7jo23c1zFaV"
+    },
+    {
+      "album": {
+        "name": "Camelot",
+        "url": "https://open.spotify.com/album/3BXgyHIuyxznQsNu0YxWAx"
+      },
+      "artists": [
+        {
+          "name": "Brandon Fiechter",
+          "url": "https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Quest for the Holy Grail",
+      "url": "https://open.spotify.com/track/0Patwsuj4zw4A2ODVMnR7G"
+    },
+    {
+      "album": {
+        "name": "Avalon - a Celtic Legend",
+        "url": "https://open.spotify.com/album/3Y4Qo7O9n5qCKPuOIQKKaE"
+      },
+      "artists": [
+        {
+          "name": "Enaid",
+          "url": "https://open.spotify.com/artist/2SCjnxZujs0rLuH1ByLPP1"
+        },
+        {
+          "name": "Diane Arkenstone",
+          "url": "https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Road to Camelot",
+      "url": "https://open.spotify.com/track/48nl5zt51TsK1wX86MjMWL"
+    },
+    {
+      "album": {
+        "name": "Music For A Tudor Feast",
+        "url": "https://open.spotify.com/album/2Ar4ZAOSusRvF7cW6CQD19"
+      },
+      "artists": [
+        {
+          "name": "Tylman Susato",
+          "url": "https://open.spotify.com/artist/0Xha0wKeGIdxE5Z1jnxbUD"
+        },
+        {
+          "name": "Trouvere Medieval Minstrels",
+          "url": "https://open.spotify.com/artist/4gRxVDZHtUhitbrJgyj1lc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ronde III",
+      "url": "https://open.spotify.com/track/67JV9CNNs2Q63FqpEZz1tb"
+    },
+    {
+      "album": {
+        "name": "Run in the fields",
+        "url": "https://open.spotify.com/album/4xo2KmjUmtb2mRoZ1iKnWg"
+      },
+      "artists": [
+        {
+          "name": "Bob Tillo",
+          "url": "https://open.spotify.com/artist/5OB1RbLfijYsqp6KetIps7"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224349,
+      "name": "Run in the fields",
+      "url": "https://open.spotify.com/track/5RpmLoQ2FxdfzKVPFMWyHb"
+    },
+    {
+      "album": {
+        "name": "Gothic Bard Fantasy for Medieval Lute, Guitar and Violin Inspired by Castles and Mountains of Italy, England and Ireland",
+        "url": "https://open.spotify.com/album/6CQ3CZl0IsN6VMRPvspse5"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134606,
+      "name": "Song of Lady of Venice",
+      "url": "https://open.spotify.com/track/4ZDoLQgCQpk3VhhyJ6iLxV"
+    },
+    {
+      "album": {
+        "name": "Medieval Celtic Folk Lute Fantasy of Magic Gothic Castle",
+        "url": "https://open.spotify.com/album/2t5PbiMx67VK68Z6nZXu67"
+      },
+      "artists": [
+        {
+          "name": "Andrei Krylov",
+          "url": "https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162101,
+      "name": "Souls Lost on Battlefield",
+      "url": "https://open.spotify.com/track/53AUa733kqaIcu0qXkj0Gn"
+    },
+    {
+      "album": {
+        "name": "The Mystic and the Muse (Celebrating 600 Years Of Women in Music)",
+        "url": "https://open.spotify.com/album/7LpwCYuatY0JaF6RQH2tUw"
+      },
+      "artists": [
+        {
+          "name": "Nancy Karpeles",
+          "url": "https://open.spotify.com/artist/0FoalaOlXtswyzgeTOCgNE"
+        },
+        {
+          "name": "Ensemble Galilei",
+          "url": "https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Sparrows and Cats",
+      "url": "https://open.spotify.com/track/4LyjsvjTpI3DV5kymom9eb"
+    },
+    {
+      "album": {
+        "name": "City Waites: The English Tradition - 400 Years of Music and Song",
+        "url": "https://open.spotify.com/album/2RMDwEhv3X9ckM5CZ3WBP7"
+      },
+      "artists": [
+        {
+          "name": "The City Waites",
+          "url": "https://open.spotify.com/artist/5VA8egIiCHGczJvaMifhAf"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130826,
+      "name": "Taunder naken",
+      "url": "https://open.spotify.com/track/61PtRJNWSbqP6XkYDjLBla"
+    },
+    {
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/4PlommMOBIH4NyAe7EbP35"
+      },
+      "artists": [
+        {
+          "name": "Rohith",
+          "url": "https://open.spotify.com/artist/4NkrNTKIDGbG7hqRyqO0Xq"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165437,
+      "name": "The Arrival",
+      "url": "https://open.spotify.com/track/3T9pyPL9ZaWSL0vNEIVU9c"
+    },
+    {
+      "album": {
+        "name": "The Court of Cintra",
+        "url": "https://open.spotify.com/album/3xAwS5r0L9VFzyEwOieUmp"
+      },
+      "artists": [
+        {
+          "name": "Roxane Genot",
+          "url": "https://open.spotify.com/artist/4jO41bgpC8DyhIQKU6bL2P"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122468,
+      "name": "The Court of Cintra",
+      "url": "https://open.spotify.com/track/3DQP9LWZeSm6oAH62lSmBn"
+    },
+    {
+      "album": {
+        "name": "Fantasy Realms",
+        "url": "https://open.spotify.com/album/2Tm5JKQGoiGLJSRWdheM3C"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65637,
+      "name": "The Friendly Arm Inn (From \"Baldur's Gate\")",
+      "url": "https://open.spotify.com/track/6d5geH3RQrDB7VHDW09pHS"
+    },
+    {
+      "album": {
+        "name": "The Ghost in the Machine",
+        "url": "https://open.spotify.com/album/7GQGezFRiyMbaBCySNvPFR"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Emily Baines",
+          "url": "https://open.spotify.com/artist/3rEXRrXcfadUa9KfEkLx3X"
+        },
+        {
+          "name": "Amyas",
+          "url": "https://open.spotify.com/artist/25mFImukQ6gsDBabrfFplV"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126586,
+      "name": "The Lass of Patie's Mill (Arr. E. Baines for Chamber Ensemble)",
+      "url": "https://open.spotify.com/track/4WZTvlprygW6ijp8mnHNBW"
+    },
+    {
+      "album": {
+        "name": "The lone wolf",
+        "url": "https://open.spotify.com/album/7orWWz1mOCuzOJTu3B5cVF"
+      },
+      "artists": [
+        {
+          "name": "Sagason",
+          "url": "https://open.spotify.com/artist/1NGD3wO5QFhjMhDppAV3ji"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249444,
+      "name": "The lone wolf",
+      "url": "https://open.spotify.com/track/4WTd5fsmO3SOtKeGsE0oEP"
+    },
+    {
+      "album": {
+        "name": "Avalon: Between Earth and Sky",
+        "url": "https://open.spotify.com/album/5vG190cMNeWDas2rcQa3Cq"
+      },
+      "artists": [
+        {
+          "name": "Diane Arkenstone",
+          "url": "https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29"
+        },
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217363,
+      "name": "The White Stallion",
+      "url": "https://open.spotify.com/track/53VKRjjkpWa3DrA4ORVPq9"
+    },
+    {
+      "album": {
+        "name": "World of Warcraft: Taverns of Azeroth Original Soundtrack",
+        "url": "https://open.spotify.com/album/13S74XwQHqT28nOyvwpFKh"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121146,
+      "name": "Thunderbrew",
+      "url": "https://open.spotify.com/track/0Ri1S3IyEhWvwUyPxoy2uO"
+    },
+    {
+      "album": {
+        "name": "Signum",
+        "url": "https://open.spotify.com/album/1uww0vXoFh8ArJcMQMSyfl"
+      },
+      "artists": [
+        {
+          "name": "Estampie",
+          "url": "https://open.spotify.com/artist/0VzFYfDDwb79K5TVr5z0JZ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Trotto",
+      "url": "https://open.spotify.com/track/3HrHnWMrA0CIjwQ12MkbuA"
+    },
+    {
+      "album": {
+        "name": "Medieval Times",
+        "url": "https://open.spotify.com/album/70EY2l6bxrIeDoUWb1zcY9"
+      },
+      "artists": [
+        {
+          "name": "Derek Fiechter",
+          "url": "https://open.spotify.com/artist/01Er12nK5rrnHx8usFPJAs"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Troubadour",
+      "url": "https://open.spotify.com/track/2LnqNMmpotmzwxwPggfnco"
+    },
+    {
+      "album": {
+        "name": "From the Edge of the World",
+        "url": "https://open.spotify.com/album/7MULUCW0CaaPCbFgMEyK2d"
+      },
+      "artists": [
+        {
+          "name": "Ensemble Galilei",
+          "url": "https://open.spotify.com/artist/38xsbLMXenDwkPP8SPAAV6"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Var Det Du",
+      "url": "https://open.spotify.com/track/5PL31Uf5jITiPCatgz4UbS"
+    },
+    {
+      "album": {
+        "name": "Weary Traveler",
+        "url": "https://open.spotify.com/album/4dx0fr11bIrwVT5qapcO6I"
+      },
+      "artists": [
+        {
+          "name": "John Theodore",
+          "url": "https://open.spotify.com/artist/3SHq8EK25NxclzXDj7DbQR"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Weary Traveler",
+      "url": "https://open.spotify.com/track/1a86BR1HbxC9CUk1ogyEcg"
+    },
+    {
+      "album": {
+        "name": "Inns & Taverns",
+        "url": "https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50180,
+      "name": "Wild Boar Inn",
+      "url": "https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB"
+    },
+    {
+      "album": {
+        "name": "Winter is coming",
+        "url": "https://open.spotify.com/album/4QInXujdGdS5UwDN2bC2Kn"
+      },
+      "artists": [
+        {
+          "name": "Bahrambient",
+          "url": "https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/0wwAGtWNfJgp6UlpC60yWY"
+    },
+    {
+      "album": {
+        "name": "Evocation I - The Arcane Dominion",
+        "url": "https://open.spotify.com/album/0oejZRECTMWgXXaVFtmQ2r"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111613,
+      "name": "Within the Grove",
+      "url": "https://open.spotify.com/track/7HkbZduZDZwkAxhpy6nFk9"
+    },
+    {
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/6b3giURddQkyGt9LZZacf7"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322245,
+      "name": "Yule - Acoustic",
+      "url": "https://open.spotify.com/track/6OvmT4ABabLnkYWMBQrHg5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcpQiOhpzS60"
 }

@@ -1,15 +1,15 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 70543,
+  "num_followers": 71468,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDAzMDZjZTg5MTBhY2VkNjFiMTUyYjZkZmU1ODcwNjk0YQ==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBjZDliOTE0ZTdjZGYwY2RiZjBhYTU1NmI3Mjk4NmRjOA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
@@ -73,27 +73,23 @@
       "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
       },
       "artists": [
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
@@ -104,12 +100,12 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 117013,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+      "duration_ms": 116240,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
@@ -129,7 +125,27 @@
       "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -145,7 +161,23 @@
       "url": "https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 117013,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
@@ -161,23 +193,7 @@
       "url": "https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Did It Again",
-      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Diva (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -213,7 +229,23 @@
       "url": "https://open.spotify.com/track/6dkffLWo31KnXmwCLsgA2K"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 134520,
+      "name": "DUI",
+      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
@@ -233,23 +265,7 @@
       "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 134520,
-      "name": "DUI",
-      "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -289,23 +305,7 @@
       "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 129638,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
@@ -321,7 +321,23 @@
       "url": "https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 129638,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -348,28 +364,12 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 131858,
-      "name": "TEC",
-      "url": "https://open.spotify.com/track/14QI6pBFZ9UtMqze2QdJhm"
+      "duration_ms": 137547,
+      "name": "Yves",
+      "url": "https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Treesha",
-        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105693,
-      "name": "Treesha",
-      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
@@ -385,7 +385,23 @@
       "url": "https://open.spotify.com/track/2BULAwmRpScmZE7YOF07e5"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Treesha",
+        "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 105693,
+      "name": "Treesha",
+      "url": "https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
@@ -420,48 +436,12 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 137547,
-      "name": "Yves",
-      "url": "https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei"
+      "duration_ms": 131858,
+      "name": "TEC",
+      "url": "https://open.spotify.com/track/14QI6pBFZ9UtMqze2QdJhm"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144594,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl"
@@ -485,23 +465,7 @@
       "url": "https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0YPBdNZyGlXr69hiCAJO5m"
@@ -521,7 +485,59 @@
       "url": "https://open.spotify.com/track/6eLY5NX9HkvAtrvRrPOW0F"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Rover (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 166805,
+      "name": "Rover (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144594,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Prada (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ"
@@ -565,27 +581,7 @@
       "url": "https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 132363,
-      "name": "SEASIDE (feat. iann dior)",
-      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
@@ -605,7 +601,27 @@
       "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 132363,
+      "name": "SEASIDE (feat. iann dior)",
+      "url": "https://open.spotify.com/track/45bXTH6SuR2MKjypu4ksNz"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
@@ -641,23 +657,7 @@
       "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 105882,
-      "name": "NO DISCUSSION",
-      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "prada (Remix)",
         "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
@@ -677,7 +677,39 @@
       "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 105882,
+      "name": "NO DISCUSSION",
+      "url": "https://open.spotify.com/track/1fU96l9s0oe6xwW4SQmcHn"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 118720,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Head Doctor (with Lil Tecca)",
         "url": "https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY"
@@ -697,39 +729,7 @@
       "url": "https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 118720,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
-      "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "MONEY ON ME",
-      "url": "https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT"
-    },
-    {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2 (Deluxe)",
         "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
@@ -745,7 +745,23 @@
       "url": "https://open.spotify.com/track/6pq1cvSNT9nuhvRPJ6UPE4"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "MONEY ON ME",
+      "url": "https://open.spotify.com/track/668vMRYpYfpLsOvWc73umT"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Trap Tumbado",
         "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
@@ -781,7 +797,27 @@
       "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
     },
     {
-      "added_at": "2024-01-02 12:15:38",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "BIRTHDAY MIX 6",
+        "url": "https://open.spotify.com/album/33nkEur8beeeEcTA4nxapX"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 134735,
+      "name": "Virgo World (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/1jN7omTNonXiWogKpngUAj"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"

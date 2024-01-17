@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-271 songs - 14 hr 18 min
+272 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 | 2023-12-30 |  |
 | [Chains](https://open.spotify.com/track/1N9NKdaJ7xB4U87oLoZu6C) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Pearls: Songs of Goffin & King](https://open.spotify.com/album/0rwgfoVEgvcCvuwNsamaul) | 2:56 | 2023-12-30 |  |
 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 | 2023-12-30 |  |
-| [Cheating \(Bonus Track\)](https://open.spotify.com/track/5Yl623nUsrMf5QBe5dvzb3) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 2:23 | 2023-12-30 |  |
+| [Cheating \(Bonus Track\)](https://open.spotify.com/track/5Yl623nUsrMf5QBe5dvzb3) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 2:23 | 2023-12-30 | 2024-01-05 |
 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 | 2023-12-30 |  |
 | [Child of Mine](https://open.spotify.com/track/4A7oANUhxquUpTCuu6GmoD) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:02 | 2023-12-30 |  |
 | [Come Down Easy](https://open.spotify.com/track/4WhYHtwrNzjloBMdLOeK4o) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:05 | 2023-12-30 |  |
@@ -51,6 +51,7 @@
 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 | 2023-12-30 |  |
 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 | 2023-12-30 |  |
 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 | 2023-12-30 |  |
+| [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 | 2024-01-04 |  |
 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 | 2023-12-30 |  |
 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 | 2023-12-30 |  |
 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 | 2023-12-30 |  |

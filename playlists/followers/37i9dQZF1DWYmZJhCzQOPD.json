@@ -1,584 +1,951 @@
 {
-  "2022-05-26": 36417,
-  "2022-05-27": 36539,
-  "2022-05-28": 36665,
-  "2022-05-29": 36799,
-  "2022-05-30": 36935,
-  "2022-05-31": 37062,
-  "2022-06-01": 37224,
-  "2022-06-02": 37247,
-  "2022-06-03": 37333,
-  "2022-06-04": 37435,
-  "2022-06-05": 37501,
-  "2022-06-06": 37583,
-  "2022-06-07": 37667,
-  "2022-06-08": 37764,
-  "2022-06-09": 37855,
-  "2022-06-10": 37965,
-  "2022-06-11": 38064,
-  "2022-06-12": 38140,
-  "2022-06-13": 38266,
-  "2022-06-14": 38357,
-  "2022-06-15": 38447,
-  "2022-06-16": 38558,
-  "2022-06-17": 38690,
-  "2022-06-18": 38805,
-  "2022-06-19": 39047,
-  "2022-06-20": 39047,
-  "2022-06-21": 39157,
-  "2022-06-22": 39347,
-  "2022-06-23": 39347,
-  "2022-06-24": 39458,
-  "2022-06-25": 39458,
-  "2022-06-26": 39637,
-  "2022-06-27": 39749,
-  "2022-06-28": 39852,
-  "2022-06-29": 39964,
-  "2022-06-30": 40066,
-  "2022-07-01": 40173,
-  "2022-07-02": 40261,
-  "2022-07-03": 40396,
-  "2022-07-04": 40532,
-  "2022-07-05": 40630,
-  "2022-07-06": 40729,
-  "2022-07-07": 40825,
-  "2022-07-08": 40907,
-  "2022-07-09": 40981,
-  "2022-07-10": 41081,
-  "2022-07-11": 41184,
-  "2022-07-12": 41276,
-  "2022-07-13": 41348,
-  "2022-07-14": 41445,
-  "2022-07-15": 41548,
-  "2022-07-16": 41659,
-  "2022-07-17": 41772,
-  "2022-07-18": 41872,
-  "2022-07-19": 41977,
-  "2022-07-20": 42089,
-  "2022-07-21": 42192,
-  "2022-07-22": 42312,
-  "2022-07-23": 42431,
-  "2022-07-24": 42568,
-  "2022-07-25": 42690,
-  "2022-07-26": 42782,
-  "2022-07-27": 42881,
-  "2022-07-28": 42975,
-  "2022-07-29": 43071,
-  "2022-07-30": 43310,
-  "2022-07-31": 43310,
-  "2022-08-01": 43417,
-  "2022-08-02": 43592,
-  "2022-08-03": 43592,
-  "2022-08-04": 43697,
-  "2022-08-05": 43788,
-  "2022-08-06": 43887,
-  "2022-08-07": 43994,
-  "2022-08-08": 44097,
-  "2022-08-09": 44192,
-  "2022-08-10": 44290,
-  "2022-08-11": 44385,
-  "2022-08-12": 44471,
-  "2022-08-13": 44554,
-  "2022-08-14": 44655,
-  "2022-08-15": 44787,
-  "2022-08-16": 44891,
-  "2022-08-17": 44995,
-  "2022-08-18": 45091,
-  "2022-08-19": 45186,
-  "2022-08-20": 45280,
-  "2022-08-21": 45418,
-  "2022-08-22": 45526,
-  "2022-08-23": 45610,
-  "2022-08-24": 45673,
-  "2022-08-25": 45777,
-  "2022-08-26": 45893,
-  "2022-08-27": 46005,
-  "2022-08-28": 46113,
-  "2022-08-29": 46232,
-  "2022-08-30": 46312,
-  "2022-08-31": 46407,
-  "2022-09-01": 46467,
-  "2022-09-02": 46583,
-  "2022-09-03": 46676,
-  "2022-09-04": 46790,
-  "2022-09-05": 46905,
-  "2022-09-06": 47025,
-  "2022-09-07": 47138,
-  "2022-09-09": 47305,
-  "2022-09-10": 47389,
-  "2022-09-11": 47484,
-  "2022-09-12": 47590,
-  "2022-09-13": 47670,
-  "2022-09-15": 47826,
-  "2022-09-16": 47926,
-  "2022-09-17": 48019,
-  "2022-09-18": 48103,
-  "2022-09-19": 48182,
-  "2022-09-20": 48253,
-  "2022-09-21": 48337,
-  "2022-09-22": 48431,
-  "2022-09-23": 48529,
-  "2022-09-24": 48641,
-  "2022-09-25": 48764,
-  "2022-09-26": 48878,
-  "2022-09-27": 48961,
-  "2022-09-28": 49078,
-  "2022-09-29": 49168,
-  "2022-09-30": 49241,
-  "2022-10-01": 49362,
-  "2022-10-02": 49506,
-  "2022-10-03": 49589,
-  "2022-10-04": 49692,
-  "2022-10-05": 49800,
-  "2022-10-06": 49886,
-  "2022-10-07": 49979,
-  "2022-10-08": 50076,
-  "2022-10-09": 50268,
-  "2022-10-10": 50306,
-  "2022-10-11": 50398,
-  "2022-10-12": 50493,
-  "2022-10-13": 50600,
-  "2022-10-14": 50717,
-  "2022-10-15": 50825,
-  "2022-10-16": 50968,
-  "2022-10-17": 51082,
-  "2022-10-18": 51173,
-  "2022-10-19": 51278,
-  "2022-10-20": 51382,
-  "2022-10-21": 51497,
-  "2022-10-22": 51602,
-  "2022-10-23": 51717,
-  "2022-10-24": 51839,
-  "2022-10-25": 51925,
-  "2022-10-26": 52010,
-  "2022-10-27": 52103,
-  "2022-10-28": 52218,
-  "2022-10-29": 52324,
-  "2022-10-30": 52438,
-  "2022-10-31": 52539,
-  "2022-11-01": 52624,
-  "2022-11-02": 52716,
-  "2022-11-03": 52823,
-  "2022-11-04": 52937,
-  "2022-11-05": 53041,
-  "2022-11-06": 53161,
-  "2022-11-07": 53282,
-  "2022-11-08": 53368,
-  "2022-11-09": 53486,
-  "2022-11-10": 53590,
-  "2022-11-11": 53708,
-  "2022-11-12": 53829,
-  "2022-11-13": 53935,
-  "2022-11-14": 54030,
-  "2022-11-15": 54127,
-  "2022-11-16": 54224,
-  "2022-11-17": 54319,
-  "2022-11-18": 54367,
-  "2022-11-19": 54353,
-  "2022-11-20": 54388,
-  "2022-11-21": 54477,
-  "2022-11-22": 54744,
-  "2022-11-23": 54728,
-  "2022-11-24": 54909,
-  "2022-11-25": 55126,
-  "2022-11-26": 55287,
-  "2022-11-27": 55429,
-  "2022-11-28": 55537,
-  "2022-11-29": 55607,
-  "2022-11-30": 55711,
-  "2022-12-01": 55836,
-  "2022-12-02": 55975,
-  "2022-12-03": 56086,
-  "2022-12-04": 56214,
-  "2022-12-05": 56350,
-  "2022-12-06": 56473,
-  "2022-12-07": 56600,
-  "2022-12-08": 56706,
-  "2022-12-09": 56835,
-  "2022-12-10": 56955,
-  "2022-12-11": 57078,
-  "2022-12-12": 57211,
-  "2022-12-13": 57306,
-  "2022-12-14": 57430,
-  "2022-12-15": 57539,
-  "2022-12-16": 57641,
-  "2022-12-17": 57774,
-  "2022-12-18": 57935,
-  "2022-12-19": 58038,
-  "2022-12-20": 58297,
-  "2022-12-21": 58297,
-  "2022-12-22": 58413,
-  "2022-12-24": 58706,
-  "2022-12-25": 58842,
-  "2022-12-26": 58958,
-  "2022-12-27": 59070,
-  "2022-12-28": 59227,
-  "2022-12-29": 59347,
-  "2022-12-30": 59470,
-  "2022-12-31": 59613,
-  "2023-01-01": 59773,
-  "2023-01-02": 59905,
-  "2023-01-03": 60069,
-  "2023-01-04": 60195,
-  "2023-01-05": 60328,
-  "2023-01-06": 60497,
-  "2023-01-07": 60730,
-  "2023-01-08": 60772,
-  "2023-01-09": 60909,
-  "2023-01-10": 61023,
-  "2023-01-11": 61150,
-  "2023-01-12": 61296,
-  "2023-01-13": 61426,
-  "2023-01-14": 61659,
-  "2023-01-15": 61709,
-  "2023-01-16": 61823,
-  "2023-01-17": 61942,
-  "2023-01-18": 62062,
-  "2023-01-19": 62176,
-  "2023-01-20": 62330,
-  "2023-01-21": 62467,
-  "2023-01-22": 62631,
-  "2023-01-23": 62779,
-  "2023-01-24": 62885,
-  "2023-01-25": 63028,
-  "2023-01-26": 63141,
-  "2023-01-27": 63241,
-  "2023-01-28": 63342,
-  "2023-01-29": 63471,
-  "2023-01-30": 63599,
-  "2023-01-31": 63599,
-  "2023-02-01": 63846,
-  "2023-02-02": 63949,
-  "2023-02-03": 64077,
-  "2023-02-04": 64233,
-  "2023-02-05": 64371,
-  "2023-02-06": 64523,
-  "2023-02-07": 64631,
-  "2023-02-08": 64885,
-  "2023-02-09": 64885,
-  "2023-02-10": 65020,
-  "2023-02-11": 65163,
-  "2023-02-12": 65496,
-  "2023-02-13": 65615,
-  "2023-02-14": 65615,
-  "2023-02-15": 65759,
-  "2023-02-16": 65906,
-  "2023-02-17": 66052,
-  "2023-02-18": 66329,
-  "2023-02-19": 66361,
-  "2023-02-20": 66482,
-  "2023-02-21": 66620,
-  "2023-02-22": 66783,
-  "2023-02-23": 66939,
-  "2023-02-24": 67090,
-  "2023-02-25": 67280,
-  "2023-02-26": 67384,
-  "2023-02-27": 67658,
-  "2023-02-28": 67658,
-  "2023-03-01": 67762,
-  "2023-03-02": 67874,
-  "2023-03-03": 68005,
-  "2023-03-04": 68120,
-  "2023-03-05": 68415,
-  "2023-03-06": 68415,
-  "2023-03-07": 68546,
-  "2023-03-08": 68654,
-  "2023-03-09": 68773,
-  "2023-03-10": 68899,
-  "2023-03-11": 69001,
-  "2023-03-12": 69132,
-  "2023-03-13": 69269,
-  "2023-03-14": 69393,
-  "2023-03-15": 69504,
-  "2023-03-16": 69630,
-  "2023-03-17": 69630,
-  "2023-03-18": 69866,
-  "2023-03-19": 70029,
-  "2023-03-20": 70150,
-  "2023-03-21": 70264,
-  "2023-03-22": 70379,
-  "2023-03-23": 70475,
-  "2023-03-24": 70475,
-  "2023-03-25": 70755,
-  "2023-03-26": 70898,
-  "2023-03-27": 71031,
-  "2023-03-28": 71145,
-  "2023-03-29": 71300,
-  "2023-03-30": 71537,
-  "2023-03-31": 71537,
-  "2023-04-01": 71701,
-  "2023-04-02": 71853,
-  "2023-04-03": 71992,
-  "2023-04-04": 72114,
-  "2023-04-05": 72224,
-  "2023-04-06": 72343,
-  "2023-04-07": 72450,
-  "2023-04-09": 72692,
-  "2023-04-10": 72818,
-  "2023-04-11": 73000,
-  "2023-04-12": 73000,
-  "2023-04-13": 73081,
-  "2023-04-14": 73190,
-  "2023-04-15": 73301,
-  "2023-04-16": 73420,
-  "2023-04-17": 73553,
-  "2023-04-18": 73665,
-  "2023-04-19": 73832,
-  "2023-04-20": 73961,
-  "2023-04-21": 74089,
-  "2023-04-22": 74228,
-  "2023-04-23": 74368,
-  "2023-04-24": 74462,
-  "2023-04-25": 74562,
-  "2023-04-26": 74670,
-  "2023-04-27": 74800,
-  "2023-04-28": 74901,
-  "2023-04-29": 75005,
-  "2023-04-30": 75133,
-  "2023-05-01": 75229,
-  "2023-05-02": 75333,
-  "2023-05-03": 75431,
-  "2023-05-04": 75516,
-  "2023-05-05": 75614,
-  "2023-05-06": 75711,
-  "2023-05-07": 75797,
-  "2023-05-08": 75903,
-  "2023-05-09": 76006,
-  "2023-05-10": 76100,
-  "2023-05-11": 76206,
-  "2023-05-12": 76301,
-  "2023-05-13": 76421,
-  "2023-05-14": 76528,
-  "2023-05-15": 76638,
-  "2023-05-16": 76704,
-  "2023-05-17": 76795,
-  "2023-05-18": 76903,
-  "2023-05-19": 77027,
-  "2023-05-20": 77300,
-  "2023-05-21": 77300,
-  "2023-05-22": 77300,
-  "2023-05-23": 77496,
-  "2023-05-24": 77657,
-  "2023-05-25": 77689,
-  "2023-05-26": 77786,
-  "2023-05-27": 77898,
-  "2023-05-28": 78016,
-  "2023-05-29": 78016,
-  "2023-05-30": 78205,
-  "2023-05-31": 78306,
-  "2023-06-01": 78411,
-  "2023-06-02": 78505,
-  "2023-06-03": 78606,
-  "2023-06-04": 78745,
-  "2023-06-05": 78844,
-  "2023-06-06": 78931,
-  "2023-06-07": 79040,
-  "2023-06-08": 79137,
-  "2023-06-09": 79217,
-  "2023-06-10": 79303,
-  "2023-06-11": 79416,
-  "2023-06-12": 79526,
-  "2023-06-13": 79622,
-  "2023-06-14": 79714,
-  "2023-06-15": 79805,
-  "2023-06-16": 79903,
-  "2023-06-17": 80012,
-  "2023-06-18": 80110,
-  "2023-06-19": 80222,
-  "2023-06-20": 80328,
-  "2023-06-21": 80423,
-  "2023-06-22": 80525,
-  "2023-06-23": 80634,
-  "2023-06-24": 80731,
-  "2023-06-25": 80833,
-  "2023-06-26": 80932,
-  "2023-06-27": 81035,
-  "2023-06-28": 81130,
-  "2023-06-29": 81210,
-  "2023-06-30": 81319,
-  "2023-07-01": 81533,
-  "2023-07-02": 81533,
-  "2023-07-03": 81607,
-  "2023-07-04": 81681,
-  "2023-07-05": 81766,
-  "2023-07-06": 81910,
-  "2023-07-07": 81910,
-  "2023-07-08": 82001,
-  "2023-07-09": 82117,
-  "2023-07-10": 82209,
-  "2023-07-11": 82272,
-  "2023-07-12": 82353,
-  "2023-07-13": 82425,
-  "2023-07-14": 82523,
-  "2023-07-15": 82599,
-  "2023-07-16": 82730,
-  "2023-07-17": 82831,
-  "2023-07-18": 82929,
-  "2023-07-19": 83024,
-  "2023-07-20": 83118,
-  "2023-07-21": 83215,
-  "2023-07-22": 83313,
-  "2023-07-23": 83425,
-  "2023-07-24": 83513,
-  "2023-07-25": 83607,
-  "2023-07-26": 83689,
-  "2023-07-27": 83759,
-  "2023-07-28": 83842,
-  "2023-07-29": 83933,
-  "2023-07-30": 84032,
-  "2023-07-31": 84130,
-  "2023-08-01": 84211,
-  "2023-08-02": 84309,
-  "2023-08-03": 84394,
-  "2023-08-04": 84505,
-  "2023-08-05": 84600,
-  "2023-08-06": 84830,
-  "2023-08-07": 84830,
-  "2023-08-08": 84909,
-  "2023-08-09": 84995,
-  "2023-08-10": 85079,
-  "2023-08-11": 85181,
-  "2023-08-12": 85286,
-  "2023-08-13": 85411,
-  "2023-08-14": 85508,
-  "2023-08-15": 85679,
-  "2023-08-16": 85679,
-  "2023-08-17": 85768,
-  "2023-08-18": 85871,
-  "2023-08-19": 85961,
-  "2023-08-20": 86067,
-  "2023-08-21": 86168,
-  "2023-08-22": 86270,
-  "2023-08-23": 86373,
-  "2023-08-24": 86479,
-  "2023-08-25": 86588,
-  "2023-08-26": 86685,
-  "2023-08-27": 86793,
-  "2023-08-28": 86877,
-  "2023-08-29": 86979,
-  "2023-08-30": 87078,
-  "2023-08-31": 87179,
-  "2023-09-01": 87338,
-  "2023-09-02": 87338,
-  "2023-09-03": 87428,
-  "2023-09-04": 87527,
-  "2023-09-05": 87606,
-  "2023-09-06": 87700,
-  "2023-09-07": 87781,
-  "2023-09-08": 87854,
-  "2023-09-09": 87987,
-  "2023-09-10": 88092,
-  "2023-09-11": 88187,
-  "2023-09-12": 88272,
-  "2023-09-13": 88374,
-  "2023-09-14": 88464,
-  "2023-09-15": 88543,
-  "2023-09-16": 88633,
-  "2023-09-17": 88718,
-  "2023-09-18": 88814,
-  "2023-09-19": 88903,
-  "2023-09-20": 88967,
-  "2023-09-21": 89057,
-  "2023-09-22": 89158,
-  "2023-09-23": 89260,
-  "2023-09-24": 89345,
-  "2023-09-25": 89425,
-  "2023-09-26": 89526,
-  "2023-09-27": 89594,
-  "2023-09-28": 89669,
-  "2023-09-29": 89756,
-  "2023-09-30": 89866,
-  "2023-10-01": 89962,
-  "2023-10-02": 90047,
-  "2023-10-03": 90131,
-  "2023-10-04": 90213,
-  "2023-10-05": 90303,
-  "2023-10-06": 90403,
-  "2023-10-07": 90506,
-  "2023-10-08": 90585,
-  "2023-10-09": 90658,
-  "2023-10-10": 90734,
-  "2023-10-11": 90901,
-  "2023-10-12": 90901,
-  "2023-10-13": 90998,
-  "2023-10-14": 91095,
-  "2023-10-15": 91195,
-  "2023-10-16": 91276,
-  "2023-10-17": 91374,
-  "2023-10-18": 91467,
-  "2023-10-19": 91556,
-  "2023-10-20": 91639,
-  "2023-10-21": 91722,
-  "2023-10-22": 91826,
-  "2023-10-23": 91919,
-  "2023-10-24": 92008,
-  "2023-10-25": 92081,
-  "2023-10-26": 92155,
-  "2023-10-27": 92242,
-  "2023-10-28": 92318,
-  "2023-10-29": 92400,
-  "2023-10-30": 92539,
-  "2023-10-31": 92539,
-  "2023-11-01": 92612,
-  "2023-11-02": 92685,
-  "2023-11-03": 92788,
-  "2023-11-04": 92873,
-  "2023-11-05": 92950,
-  "2023-11-06": 93039,
-  "2023-11-07": 93109,
-  "2023-11-08": 93187,
-  "2023-11-09": 93279,
-  "2023-11-10": 93356,
-  "2023-11-11": 93447,
-  "2023-11-12": 93540,
-  "2023-11-13": 93616,
-  "2023-11-14": 93698,
-  "2023-11-15": 93698,
-  "2023-11-16": 93853,
-  "2023-11-17": 93984,
-  "2023-11-18": 93984,
-  "2023-11-19": 94071,
-  "2023-11-20": 94153,
-  "2023-11-21": 94239,
-  "2023-11-22": 94323,
-  "2023-11-23": 94402,
-  "2023-11-24": 94489,
-  "2023-11-25": 94587,
-  "2023-11-26": 94674,
-  "2023-11-27": 94766,
-  "2023-11-28": 94847,
-  "2023-11-29": 95009,
-  "2023-11-30": 95009,
-  "2023-12-01": 95100,
-  "2023-12-02": 95182,
-  "2023-12-03": 95280,
-  "2023-12-04": 95345,
-  "2023-12-05": 95426,
-  "2023-12-06": 95512,
-  "2023-12-07": 95577,
-  "2023-12-08": 95667,
-  "2023-12-09": 95767,
-  "2023-12-10": 95883,
-  "2023-12-11": 95986,
-  "2023-12-12": 96081,
-  "2023-12-13": 96172,
-  "2023-12-14": 96281,
-  "2023-12-15": 96356,
-  "2023-12-16": 96472,
-  "2023-12-17": 96591,
-  "2023-12-18": 96695,
-  "2023-12-19": 96787,
-  "2023-12-20": 96857,
-  "2023-12-21": 96960,
-  "2023-12-22": 97066,
-  "2023-12-23": 97162,
-  "2023-12-24": 97270,
-  "2023-12-25": 97378,
-  "2023-12-26": 97483,
-  "2023-12-27": 97575,
-  "2023-12-30": 97896,
-  "2023-12-31": 98004,
-  "2024-01-01": 98115,
-  "2024-01-02": 98223,
-  "2024-01-03": 98351
+  "2024-01-17": 99887,
+  "date_first_scraped": "2022-05-26",
+  "description": "Funky and lush. This is Philly Soul which laid the groundwork for disco.\n",
+  "name": "Philly Soul",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nothing Says I Love You Like I Love You",
+        "url": "https://open.spotify.com/album/0fVINeq1MTsuUcaQ7RXK4I"
+      },
+      "artists": [
+        {
+          "name": "Jerry Butler",
+          "url": "https://open.spotify.com/artist/0U2mUJuJkthantMGmsJygP"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386360,
+      "name": "(I'm Just Thinking About) Cooling Out",
+      "url": "https://open.spotify.com/track/4EMnfH9SkLEbLfHMbrFssK"
+    },
+    {
+      "album": {
+        "name": "McFadden & Whitehead",
+        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420986,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+    },
+    {
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315693,
+      "name": "Am I Black Enough for You?",
+      "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
+    },
+    {
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+    },
+    {
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Break Your Promise - Remastered",
+      "url": "https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc"
+    },
+    {
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "album": {
+        "name": "La-La Means I Love You",
+        "url": "https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/0mJc5rDPSctw9RY46TOm5A"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "Dirty Ol' Man",
+      "url": "https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa"
+    },
+    {
+      "album": {
+        "name": "Boogie Down U.S.A.",
+        "url": "https://open.spotify.com/album/7eo0EGtff3h3DVIk6x57U0"
+      },
+      "artists": [
+        {
+          "name": "People's Choice",
+          "url": "https://open.spotify.com/artist/5OPSpcX9nVVWCIOKcoM4ot"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Do It Any Way You Wanna",
+      "url": "https://open.spotify.com/track/2Ede3F4IK319I9ZDpXmv8K"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363973,
+      "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "album": {
+        "name": "Happy To Be With You",
+        "url": "https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291333,
+      "name": "Don't Let It Go to Your Head - 12\" Version",
+      "url": "https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw"
+    },
+    {
+      "album": {
+        "name": "Where Will You Go When The Party's Over",
+        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259653,
+      "name": "Don't Let Love Get You Down",
+      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
+    },
+    {
+      "album": {
+        "name": "The Jacksons",
+        "url": "https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM"
+    },
+    {
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439866,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230719,
+      "name": "Ghetto Child",
+      "url": "https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS"
+    },
+    {
+      "album": {
+        "name": "The Best Of Philly Soul - Vol. 2",
+        "url": "https://open.spotify.com/album/3MwX3t13zHDtWhNLWiLOcd"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150893,
+      "name": "Girl Don't Make Me Wait",
+      "url": "https://open.spotify.com/track/7olM7DziKkkVEcMAT6fA7P"
+    },
+    {
+      "album": {
+        "name": "Here To Create Music",
+        "url": "https://open.spotify.com/album/5Rv0NeMR8ZvbyT56LFxHKr"
+      },
+      "artists": [
+        {
+          "name": "Leon Huff",
+          "url": "https://open.spotify.com/artist/24uSOCTYbMPqL1B56WYT7T"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355626,
+      "name": "I Ain't Jivin', I'm Jammin'",
+      "url": "https://open.spotify.com/track/1szYu68Fw2RuWZ0H73DDX7"
+    },
+    {
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
+    },
+    {
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397200,
+      "name": "I'll Always Love My Mama",
+      "url": "https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG"
+    },
+    {
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "album": {
+        "name": "Blue Magic",
+        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
+      },
+      "artists": [
+        {
+          "name": "Blue Magic",
+          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432586,
+      "name": "Just Don't Want to Be Lonely",
+      "url": "https://open.spotify.com/track/48IWmxvjgnWJ7V6eyE7qDw"
+    },
+    {
+      "album": {
+        "name": "The Manhattans (Expanded Version)",
+        "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Kiss and Say Goodbye",
+      "url": "https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI"
+    },
+    {
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242386,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg"
+    },
+    {
+      "album": {
+        "name": "The Best Of Philly Soul - Vol. 2",
+        "url": "https://open.spotify.com/album/3MwX3t13zHDtWhNLWiLOcd"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Let The Good Times Roll (Feel So Good)",
+      "url": "https://open.spotify.com/track/1BuTKhvxY74Ko2t8QIbsCx"
+    },
+    {
+      "album": {
+        "name": "Let's Clean Up the Ghetto",
+        "url": "https://open.spotify.com/album/2psrWvictVSOOD5zllFWBb"
+      },
+      "artists": [
+        {
+          "name": "The Philadelphia International All-Stars",
+          "url": "https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521373,
+      "name": "Let's Clean Up the Ghetto - 12\" Version",
+      "url": "https://open.spotify.com/track/6IHd0OhQbXVv9VcQjKS7L0"
+    },
+    {
+      "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "Living All Alone",
+      "url": "https://open.spotify.com/track/6c1Xd2ZERcoUmhLvYVrYIX"
+    },
+    {
+      "album": {
+        "name": "Trammps",
+        "url": "https://open.spotify.com/album/1SmPclq9Xud4FEJ6uZvlAK"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287960,
+      "name": "Love Epidemic",
+      "url": "https://open.spotify.com/track/1cKPRWmOkslPvvgYjNKqcT"
+    },
+    {
+      "album": {
+        "name": "Love Is The Message",
+        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396293,
+      "name": "Love Is the Message (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/7jPcmkRtO3BPBEAA9Q58AN"
+    },
+    {
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298120,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95"
+    },
+    {
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "One of a Kind (Love Affair)",
+      "url": "https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop"
+    },
+    {
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "See You When I Git There",
+      "url": "https://open.spotify.com/track/3vQcIveDIfPe0HFdlpIUSK"
+    },
+    {
+      "album": {
+        "name": "The Jacksons",
+        "url": "https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327746,
+      "name": "Show You the Way to Go",
+      "url": "https://open.spotify.com/track/3gGy2V4n2vELDCyuioZLYh"
+    },
+    {
+      "album": {
+        "name": "Blue Magic",
+        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
+      },
+      "artists": [
+        {
+          "name": "Blue Magic",
+          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Sideshow",
+      "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
+    },
+    {
+      "album": {
+        "name": "From Philly With Love",
+        "url": "https://open.spotify.com/album/37iNGYqlN7m1FNLNmapKAy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Williams",
+          "url": "https://open.spotify.com/artist/2u6sTEhZMp9PgpEPYn4Sry"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Slow Motion (Part 1)",
+      "url": "https://open.spotify.com/track/6EdVvkxAYAgT3DXW8Op4ZH"
+    },
+    {
+      "album": {
+        "name": "Trammps",
+        "url": "https://open.spotify.com/album/1SmPclq9Xud4FEJ6uZvlAK"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "Stop and Think",
+      "url": "https://open.spotify.com/track/11CSYQ5bUfyWuYY3DoPClu"
+    },
+    {
+      "album": {
+        "name": "Blue Magic",
+        "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
+      },
+      "artists": [
+        {
+          "name": "Blue Magic",
+          "url": "https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Stop to Start",
+      "url": "https://open.spotify.com/track/1jxI4xo29IaC2gSBb3eQcZ"
+    },
+    {
+      "album": {
+        "name": "Strategy",
+        "url": "https://open.spotify.com/album/1MP3ltiZak966JcSieq64T"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417480,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/64TIJiqmJn7ZnIYzYAEpbL"
+    },
+    {
+      "album": {
+        "name": "Love Is The Message",
+        "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222346,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
+      "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
+    },
+    {
+      "album": {
+        "name": "Life on Mars",
+        "url": "https://open.spotify.com/album/2AWYJNKdCCLaOPsAA96IC8"
+      },
+      "artists": [
+        {
+          "name": "Dexter Wansel",
+          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Theme from the Planets",
+      "url": "https://open.spotify.com/track/3cun7DzGeFGrJSgJgl5yQq"
+    },
+    {
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172240,
+      "name": "Time to Get Down",
+      "url": "https://open.spotify.com/track/2mhVy5a8BmJ1t3YFk9DlWi"
+    },
+    {
+      "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452773,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "You'll Never Find Another Love Like Mine",
+      "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+    },
+    {
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390986,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYmZJhCzQOPD"
 }

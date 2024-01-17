@@ -1,289 +1,1447 @@
 {
-  "2023-03-20": 3241670,
-  "2023-03-21": 3242666,
-  "2023-03-22": 3243524,
-  "2023-03-23": 3244378,
-  "2023-03-24": 3244378,
-  "2023-03-25": 3246077,
-  "2023-03-26": 3246952,
-  "2023-03-27": 3247778,
-  "2023-03-28": 3248484,
-  "2023-03-29": 3249334,
-  "2023-03-30": 3250710,
-  "2023-03-31": 3250710,
-  "2023-04-01": 3251634,
-  "2023-04-02": 3252534,
-  "2023-04-03": 3253280,
-  "2023-04-04": 3254127,
-  "2023-04-05": 3254937,
-  "2023-04-06": 3255870,
-  "2023-04-07": 3256731,
-  "2023-04-09": 3258258,
-  "2023-04-10": 3258949,
-  "2023-04-11": 3260560,
-  "2023-04-12": 3260560,
-  "2023-04-13": 3261378,
-  "2023-04-14": 3262245,
-  "2023-04-15": 3263142,
-  "2023-04-16": 3263952,
-  "2023-04-17": 3264619,
-  "2023-04-18": 3265335,
-  "2023-04-19": 3266022,
-  "2023-04-20": 3266817,
-  "2023-04-21": 3267638,
-  "2023-04-22": 3268560,
-  "2023-04-23": 3269386,
-  "2023-04-24": 3270169,
-  "2023-04-25": 3270900,
-  "2023-04-26": 3271724,
-  "2023-04-27": 3272460,
-  "2023-04-28": 3273356,
-  "2023-04-29": 3274173,
-  "2023-04-30": 3274980,
-  "2023-05-01": 3275664,
-  "2023-05-02": 3276473,
-  "2023-05-03": 3277155,
-  "2023-05-04": 3277801,
-  "2023-05-05": 3278621,
-  "2023-05-06": 3279377,
-  "2023-05-07": 3280216,
-  "2023-05-08": 3280947,
-  "2023-05-09": 3281658,
-  "2023-05-10": 3282513,
-  "2023-05-11": 3283371,
-  "2023-05-12": 3284277,
-  "2023-05-13": 3285269,
-  "2023-05-14": 3286104,
-  "2023-05-15": 3286960,
-  "2023-05-16": 3287691,
-  "2023-05-17": 3288489,
-  "2023-05-18": 3289232,
-  "2023-05-19": 3290056,
-  "2023-05-20": 3291773,
-  "2023-05-21": 3291773,
-  "2023-05-22": 3291773,
-  "2023-05-23": 3293278,
-  "2023-05-24": 3294720,
-  "2023-05-25": 3294909,
-  "2023-05-26": 3295687,
-  "2023-05-27": 3296354,
-  "2023-05-28": 3297066,
-  "2023-05-29": 3297066,
-  "2023-05-30": 3298448,
-  "2023-05-31": 3299232,
-  "2023-06-01": 3300000,
-  "2023-06-02": 3300770,
-  "2023-06-03": 3301578,
-  "2023-06-04": 3302489,
-  "2023-06-05": 3303142,
-  "2023-06-06": 3303870,
-  "2023-06-07": 3304600,
-  "2023-06-08": 3305382,
-  "2023-06-09": 3306135,
-  "2023-06-10": 3306885,
-  "2023-06-11": 3307719,
-  "2023-06-12": 3308423,
-  "2023-06-13": 3309144,
-  "2023-06-14": 3309944,
-  "2023-06-15": 3310774,
-  "2023-06-16": 3311610,
-  "2023-06-17": 3312399,
-  "2023-06-18": 3313158,
-  "2023-06-19": 3313940,
-  "2023-06-20": 3314633,
-  "2023-06-21": 3315408,
-  "2023-06-22": 3316227,
-  "2023-06-23": 3317094,
-  "2023-06-24": 3317774,
-  "2023-06-25": 3318590,
-  "2023-06-26": 3319333,
-  "2023-06-27": 3320249,
-  "2023-06-28": 3321086,
-  "2023-06-29": 3321935,
-  "2023-06-30": 3322762,
-  "2023-07-01": 3324387,
-  "2023-07-02": 3324387,
-  "2023-07-03": 3325125,
-  "2023-07-04": 3325860,
-  "2023-07-05": 3326644,
-  "2023-07-06": 3328138,
-  "2023-07-07": 3328138,
-  "2023-07-08": 3328935,
-  "2023-07-09": 3329743,
-  "2023-07-10": 3330511,
-  "2023-07-11": 3331294,
-  "2023-07-12": 3332062,
-  "2023-07-13": 3332874,
-  "2023-07-14": 3333668,
-  "2023-07-15": 3334324,
-  "2023-07-16": 3335264,
-  "2023-07-17": 3336084,
-  "2023-07-18": 3336993,
-  "2023-07-19": 3337947,
-  "2023-07-20": 3338988,
-  "2023-07-21": 3340002,
-  "2023-07-22": 3340984,
-  "2023-07-23": 3342011,
-  "2023-07-24": 3342833,
-  "2023-07-25": 3343734,
-  "2023-07-26": 3344549,
-  "2023-07-27": 3345461,
-  "2023-07-28": 3346350,
-  "2023-07-29": 3347128,
-  "2023-07-30": 3348009,
-  "2023-07-31": 3348779,
-  "2023-08-01": 3349553,
-  "2023-08-02": 3350382,
-  "2023-08-03": 3351293,
-  "2023-08-04": 3352157,
-  "2023-08-05": 3352973,
-  "2023-08-06": 3354617,
-  "2023-08-07": 3354617,
-  "2023-08-08": 3355336,
-  "2023-08-09": 3356136,
-  "2023-08-10": 3357077,
-  "2023-08-11": 3357948,
-  "2023-08-12": 3358943,
-  "2023-08-13": 3359801,
-  "2023-08-14": 3360574,
-  "2023-08-15": 3362247,
-  "2023-08-16": 3362247,
-  "2023-08-17": 3363195,
-  "2023-08-18": 3364181,
-  "2023-08-19": 3365101,
-  "2023-08-20": 3366076,
-  "2023-08-21": 3367013,
-  "2023-08-22": 3367995,
-  "2023-08-23": 3368898,
-  "2023-08-24": 3369881,
-  "2023-08-25": 3370829,
-  "2023-08-26": 3372273,
-  "2023-08-27": 3373485,
-  "2023-08-28": 3374526,
-  "2023-08-29": 3375753,
-  "2023-08-30": 3376771,
-  "2023-08-31": 3377842,
-  "2023-09-01": 3380052,
-  "2023-09-02": 3380052,
-  "2023-09-03": 3381016,
-  "2023-09-04": 3381932,
-  "2023-09-05": 3382872,
-  "2023-09-06": 3383777,
-  "2023-09-07": 3384619,
-  "2023-09-08": 3385463,
-  "2023-09-09": 3386486,
-  "2023-09-10": 3387315,
-  "2023-09-11": 3388076,
-  "2023-09-12": 3388901,
-  "2023-09-13": 3389593,
-  "2023-09-14": 3390347,
-  "2023-09-15": 3391175,
-  "2023-09-16": 3391961,
-  "2023-09-17": 3392746,
-  "2023-09-18": 3393523,
-  "2023-09-19": 3394313,
-  "2023-09-20": 3394886,
-  "2023-09-21": 3395604,
-  "2023-09-22": 3396316,
-  "2023-09-23": 3396956,
-  "2023-09-24": 3397663,
-  "2023-09-25": 3398322,
-  "2023-09-26": 3399153,
-  "2023-09-27": 3399664,
-  "2023-09-28": 3400422,
-  "2023-09-29": 3401262,
-  "2023-09-30": 3401888,
-  "2023-10-01": 3402513,
-  "2023-10-02": 3403172,
-  "2023-10-03": 3403726,
-  "2023-10-04": 3404390,
-  "2023-10-05": 3405124,
-  "2023-10-06": 3405865,
-  "2023-10-07": 3406521,
-  "2023-10-08": 3407141,
-  "2023-10-09": 3407692,
-  "2023-10-10": 3406017,
-  "2023-10-11": 3404791,
-  "2023-10-12": 3404791,
-  "2023-10-13": 3403418,
-  "2023-10-14": 3402403,
-  "2023-10-15": 3402651,
-  "2023-10-16": 3403206,
-  "2023-10-17": 3403877,
-  "2023-10-18": 3404501,
-  "2023-10-19": 3405140,
-  "2023-10-20": 3405839,
-  "2023-10-21": 3406461,
-  "2023-10-22": 3407022,
-  "2023-10-23": 3407547,
-  "2023-10-24": 3408084,
-  "2023-10-25": 3408638,
-  "2023-10-26": 3409166,
-  "2023-10-27": 3409739,
-  "2023-10-28": 3410314,
-  "2023-10-29": 3411022,
-  "2023-10-30": 3412253,
-  "2023-10-31": 3412253,
-  "2023-11-01": 3412704,
-  "2023-11-02": 3413273,
-  "2023-11-03": 3413812,
-  "2023-11-04": 3414322,
-  "2023-11-05": 3414824,
-  "2023-11-06": 3415253,
-  "2023-11-07": 3415754,
-  "2023-11-08": 3416239,
-  "2023-11-09": 3416817,
-  "2023-11-10": 3417418,
-  "2023-11-11": 3418064,
-  "2023-11-12": 3418545,
-  "2023-11-13": 3419160,
-  "2023-11-14": 3419696,
-  "2023-11-15": 3419696,
-  "2023-11-16": 3420765,
-  "2023-11-17": 3421743,
-  "2023-11-18": 3421743,
-  "2023-11-19": 3422320,
-  "2023-11-20": 3422751,
-  "2023-11-21": 3423257,
-  "2023-11-22": 3423825,
-  "2023-11-23": 3424401,
-  "2023-11-24": 3425051,
-  "2023-11-25": 3425653,
-  "2023-11-26": 3426187,
-  "2023-11-27": 3426699,
-  "2023-11-28": 3427267,
-  "2023-11-29": 3428364,
-  "2023-11-30": 3428364,
-  "2023-12-01": 3428943,
-  "2023-12-02": 3429612,
-  "2023-12-03": 3430340,
-  "2023-12-04": 3431037,
-  "2023-12-05": 3431592,
-  "2023-12-06": 3432253,
-  "2023-12-07": 3432814,
-  "2023-12-08": 3433601,
-  "2023-12-09": 3434412,
-  "2023-12-10": 3435233,
-  "2023-12-11": 3436004,
-  "2023-12-12": 3436770,
-  "2023-12-13": 3437560,
-  "2023-12-14": 3438550,
-  "2023-12-15": 3439125,
-  "2023-12-16": 3439910,
-  "2023-12-17": 3440586,
-  "2023-12-18": 3441276,
-  "2023-12-19": 3441976,
-  "2023-12-20": 3442597,
-  "2023-12-21": 3443300,
-  "2023-12-22": 3444072,
-  "2023-12-23": 3444893,
-  "2023-12-24": 3445684,
-  "2023-12-25": 3446359,
-  "2023-12-26": 3446999,
-  "2023-12-27": 3447857,
-  "2023-12-30": 3450387,
-  "2023-12-31": 3451157,
-  "2024-01-01": 3451848,
-  "2024-01-02": 3452455,
-  "2024-01-03": 3453136
+  "2024-01-17": 3458538,
+  "date_first_scraped": "2023-03-20",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is Ariana Grande",
+  "tracks": [
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "album": {
+        "name": "34+35 (Remix)",
+        "url": "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 182437,
+      "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+      "url": "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nathan Sykes",
+          "url": "https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327773,
+      "name": "Almost Is Never Enough",
+      "url": "https://open.spotify.com/track/63bo7NDoWdMFXufhsYOxwG"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Baby I",
+      "url": "https://open.spotify.com/track/6NmCCgnQcxKHPOAKgd9Nth"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "bad idea",
+      "url": "https://open.spotify.com/track/5Il6Oe7lr5XM7A0cWbVQtr"
+    },
+    {
+      "album": {
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/1MkFj1ThZZxjYMNkczx9mk"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Bed (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Best Mistake",
+      "url": "https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "bloodline",
+      "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+    },
+    {
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186106,
+      "name": "boyfriend (with Social House)",
+      "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "breathin",
+      "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231846,
+      "name": "Dance To This (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Dangerous Woman",
+      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
+    },
+    {
+      "album": {
+        "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Don\u2019t Call Me Angel (Charlie\u2019s Angels) (with Miley Cyrus & Lana Del Rey)",
+      "url": "https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4RJTTrZqPFWaWACVXHkvjw"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "everytime",
+      "url": "https://open.spotify.com/track/0WdR2AyLW1Drd3OUdwezM0"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208880,
+      "name": "fake smile",
+      "url": "https://open.spotify.com/track/3wFLWP0FcIqHK1wb1CPthQ"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322026,
+      "name": "get well soon",
+      "url": "https://open.spotify.com/track/7u6DMPznGbpziuEgCE0JGQ"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271466,
+      "name": "ghostin",
+      "url": "https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "God is a woman",
+      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "goodnight n go",
+      "url": "https://open.spotify.com/track/14kYOiFVPb7E7NfFbqhdln"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339733,
+      "name": "Honeymoon Avenue",
+      "url": "https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4T652DlATVHe0jdLKaN3Bw"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "album": {
+        "name": "It Was A\u2026 (Masked Christmas)",
+        "url": "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 180909,
+      "name": "It Was A\u2026 (Masked Christmas) (feat. Ariana Grande & Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232586,
+      "name": "Just A Little Bit Of Your Heart",
+      "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149900,
+      "name": "just like magic",
+      "url": "https://open.spotify.com/track/7miR3W96BChuGCX8NZtz3a"
+    },
+    {
+      "album": {
+        "name": "Just Look Up (From Don\u2019t Look Up)",
+        "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 201667,
+      "name": "Just Look Up (From Don\u2019t Look Up)",
+      "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299213,
+      "name": "Knew Better / Forever Boy",
+      "url": "https://open.spotify.com/track/1ywoy5kdf2LsG2019ClGjm"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/49vZduMPCMnDDrl1WBxUDk"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179860,
+      "name": "love language",
+      "url": "https://open.spotify.com/track/7GQzqBLZyjL69pAIKLx7ap"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140693,
+      "name": "make up",
+      "url": "https://open.spotify.com/track/27356GVuMPFWiJSZCragoM"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Devil\u2026The Art of Starting Over",
+        "url": "https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Met Him Last Night (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY",
+        "url": "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158586,
+      "name": "MONOPOLY (with Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167989,
+      "name": "motive (with Doja Cat)",
+      "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT"
+    },
+    {
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158436,
+      "name": "my hair",
+      "url": "https://open.spotify.com/track/6STFK268EWdTPZeRNlAs1n"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200732,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/7wA4ZnoGI9E6ZcyTPXq9HP"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146958,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/3yXToXVFzYJklkDWpzeRXb"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239949,
+      "name": "off the table (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0K2UmT0JOcEaLssWda2703"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234426,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/1bj8x3ERN9gSc2NfJIpc76"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9"
+      },
+      "artists": [
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258188,
+      "name": "Quit (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/4rwqrKdwlFWJ6LvPYaOtgn"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "R.E.M",
+      "url": "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ"
+    },
+    {
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37640,
+      "name": "raindrops (an angel cried)",
+      "url": "https://open.spotify.com/track/0v2LUO8oTHnkjQ8MmKuXyk"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "safety net (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6IHDsLAPM17ZS5uIe3P3He"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157710,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0egpmBxmeALIzcq2C1BOb7"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Side To Side",
+      "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183874,
+      "name": "six thirty",
+      "url": "https://open.spotify.com/track/0ooey28NPvpBWZKwOob963"
+    },
+    {
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "successful",
+      "url": "https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU"
+    },
+    {
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208493,
+      "name": "sweetener",
+      "url": "https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194706,
+      "name": "Tattooed Heart",
+      "url": "https://open.spotify.com/track/5yxghrFKJbU7pcaUFEv1Sg"
+    },
+    {
+      "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
+    },
+    {
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3BSzygCIET0gzTTIs7iB3y"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132278,
+      "name": "west side",
+      "url": "https://open.spotify.com/track/5ctjuy2gyXUxr6DxUa2O1B"
+    },
+    {
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1PfYnYcpw8w"
 }

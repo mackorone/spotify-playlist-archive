@@ -1,732 +1,729 @@
 {
-  "2021-12-28": 44027,
-  "2021-12-29": 44052,
-  "2021-12-30": 44075,
-  "2021-12-31": 44088,
-  "2022-01-01": 44124,
-  "2022-01-02": 44136,
-  "2022-01-03": 44150,
-  "2022-01-04": 44167,
-  "2022-01-05": 44168,
-  "2022-01-06": 44201,
-  "2022-01-07": 44218,
-  "2022-01-08": 44256,
-  "2022-01-09": 44258,
-  "2022-01-10": 44263,
-  "2022-01-11": 44265,
-  "2022-01-12": 44262,
-  "2022-01-13": 44262,
-  "2022-01-14": 44262,
-  "2022-01-15": 44262,
-  "2022-01-16": 44262,
-  "2022-01-17": 44262,
-  "2022-01-18": 44262,
-  "2022-01-19": 44262,
-  "2022-01-20": 44262,
-  "2022-01-21": 44262,
-  "2022-01-22": 44262,
-  "2022-01-23": 44262,
-  "2022-01-24": 44262,
-  "2022-01-25": 44262,
-  "2022-01-26": 44262,
-  "2022-01-27": 44262,
-  "2022-01-28": 44262,
-  "2022-01-29": 44262,
-  "2022-01-30": 44262,
-  "2022-01-31": 44262,
-  "2022-02-01": 44262,
-  "2022-02-02": 44262,
-  "2022-02-03": 44262,
-  "2022-02-04": 44262,
-  "2022-02-05": 44262,
-  "2022-02-06": 44262,
-  "2022-02-07": 44262,
-  "2022-02-08": 44262,
-  "2022-02-09": 44262,
-  "2022-02-10": 44262,
-  "2022-02-11": 44262,
-  "2022-02-12": 44262,
-  "2022-02-13": 44262,
-  "2022-02-14": 44262,
-  "2022-02-15": 44262,
-  "2022-02-16": 44262,
-  "2022-02-17": 44262,
-  "2022-02-18": 44262,
-  "2022-02-19": 44262,
-  "2022-02-20": 44262,
-  "2022-02-21": 44262,
-  "2022-02-22": 44262,
-  "2022-02-23": 44262,
-  "2022-02-24": 44262,
-  "2022-02-25": 44262,
-  "2022-02-26": 44262,
-  "2022-02-27": 44262,
-  "2022-02-28": 44262,
-  "2022-03-01": 44262,
-  "2022-03-02": 44262,
-  "2022-03-03": 44262,
-  "2022-03-04": 44262,
-  "2022-03-05": 44262,
-  "2022-03-06": 44262,
-  "2022-03-07": 44262,
-  "2022-03-08": 44262,
-  "2022-03-09": 44262,
-  "2022-03-10": 44262,
-  "2022-03-11": 44262,
-  "2022-03-12": 44262,
-  "2022-03-13": 44262,
-  "2022-03-14": 44262,
-  "2022-03-15": 44262,
-  "2022-03-16": 44262,
-  "2022-03-17": 44262,
-  "2022-03-18": 44262,
-  "2022-03-19": 44262,
-  "2022-03-20": 44262,
-  "2022-03-21": 44262,
-  "2022-03-22": 44262,
-  "2022-03-23": 44262,
-  "2022-03-24": 44262,
-  "2022-03-25": 44262,
-  "2022-03-26": 44262,
-  "2022-03-27": 44262,
-  "2022-03-28": 44262,
-  "2022-03-30": 44262,
-  "2022-03-31": 44262,
-  "2022-04-01": 44262,
-  "2022-04-02": 44262,
-  "2022-04-03": 44262,
-  "2022-04-04": 44262,
-  "2022-04-05": 44262,
-  "2022-04-06": 44262,
-  "2022-04-07": 44262,
-  "2022-04-08": 44262,
-  "2022-04-09": 44262,
-  "2022-04-10": 44262,
-  "2022-04-11": 44262,
-  "2022-04-12": 44262,
-  "2022-04-13": 44262,
-  "2022-04-14": 44262,
-  "2022-04-15": 44262,
-  "2022-04-16": 44262,
-  "2022-04-17": 44262,
-  "2022-04-18": 44262,
-  "2022-04-19": 44262,
-  "2022-04-20": 44262,
-  "2022-04-21": 44262,
-  "2022-04-22": 44262,
-  "2022-04-23": 44262,
-  "2022-04-24": 44262,
-  "2022-04-25": 44262,
-  "2022-04-26": 44262,
-  "2022-04-27": 44262,
-  "2022-04-28": 44262,
-  "2022-04-29": 44262,
-  "2022-04-30": 44262,
-  "2022-05-01": 44262,
-  "2022-05-02": 44262,
-  "2022-05-03": 44262,
-  "2022-05-04": 44262,
-  "2022-05-05": 44262,
-  "2022-05-06": 44262,
-  "2022-05-07": 44262,
-  "2022-05-08": 44262,
-  "2022-05-09": 44262,
-  "2022-05-10": 44262,
-  "2022-05-11": 44262,
-  "2022-05-12": 44262,
-  "2022-05-13": 44262,
-  "2022-05-14": 44262,
-  "2022-05-15": 44262,
-  "2022-05-16": 44262,
-  "2022-05-17": 44262,
-  "2022-05-18": 44262,
-  "2022-05-19": 44262,
-  "2022-05-20": 44262,
-  "2022-05-21": 44262,
-  "2022-05-22": 44262,
-  "2022-05-23": 44262,
-  "2022-05-24": 44262,
-  "2022-05-25": 44262,
-  "2022-05-26": 44262,
-  "2022-05-27": 44262,
-  "2022-05-28": 44262,
-  "2022-05-29": 44262,
-  "2022-05-30": 44262,
-  "2022-05-31": 44262,
-  "2022-06-01": 44262,
-  "2022-06-02": 44262,
-  "2022-06-03": 44262,
-  "2022-06-04": 44262,
-  "2022-06-05": 44262,
-  "2022-06-06": 44262,
-  "2022-06-07": 44262,
-  "2022-06-08": 44262,
-  "2022-06-09": 44262,
-  "2022-06-10": 44262,
-  "2022-06-11": 44262,
-  "2022-06-12": 44262,
-  "2022-06-13": 44262,
-  "2022-06-14": 44262,
-  "2022-06-15": 44262,
-  "2022-06-16": 44262,
-  "2022-06-17": 44262,
-  "2022-06-18": 44262,
-  "2022-06-19": 44262,
-  "2022-06-20": 44262,
-  "2022-06-21": 44262,
-  "2022-06-22": 44262,
-  "2022-06-23": 44262,
-  "2022-06-24": 44262,
-  "2022-06-25": 44262,
-  "2022-06-26": 44262,
-  "2022-06-27": 44262,
-  "2022-06-28": 44262,
-  "2022-06-29": 44262,
-  "2022-06-30": 44262,
-  "2022-07-01": 44262,
-  "2022-07-02": 44262,
-  "2022-07-03": 44262,
-  "2022-07-04": 44262,
-  "2022-07-05": 44262,
-  "2022-07-06": 44262,
-  "2022-07-07": 44262,
-  "2022-07-08": 44262,
-  "2022-07-09": 44262,
-  "2022-07-10": 44262,
-  "2022-07-11": 44262,
-  "2022-07-12": 44262,
-  "2022-07-13": 44262,
-  "2022-07-14": 44262,
-  "2022-07-15": 44262,
-  "2022-07-16": 44262,
-  "2022-07-17": 44262,
-  "2022-07-18": 44262,
-  "2022-07-19": 44262,
-  "2022-07-20": 44262,
-  "2022-07-21": 44262,
-  "2022-07-22": 44262,
-  "2022-07-23": 44262,
-  "2022-07-24": 44262,
-  "2022-07-25": 44262,
-  "2022-07-26": 44262,
-  "2022-07-27": 44262,
-  "2022-07-28": 44262,
-  "2022-07-29": 44262,
-  "2022-07-30": 44262,
-  "2022-07-31": 44262,
-  "2022-08-01": 44262,
-  "2022-08-02": 44262,
-  "2022-08-03": 44262,
-  "2022-08-04": 44262,
-  "2022-08-05": 44262,
-  "2022-08-06": 44262,
-  "2022-08-07": 44262,
-  "2022-08-08": 44262,
-  "2022-08-09": 44262,
-  "2022-08-10": 44262,
-  "2022-08-11": 44262,
-  "2022-08-12": 44262,
-  "2022-08-13": 44262,
-  "2022-08-14": 44262,
-  "2022-08-15": 44262,
-  "2022-08-16": 44262,
-  "2022-08-17": 44262,
-  "2022-08-18": 44262,
-  "2022-08-19": 44262,
-  "2022-08-20": 44262,
-  "2022-08-21": 44262,
-  "2022-08-22": 44262,
-  "2022-08-23": 44262,
-  "2022-08-24": 44262,
-  "2022-08-25": 44262,
-  "2022-08-26": 44262,
-  "2022-08-27": 44262,
-  "2022-08-28": 44262,
-  "2022-08-29": 44262,
-  "2022-08-30": 44262,
-  "2022-08-31": 44262,
-  "2022-09-01": 44262,
-  "2022-09-02": 44262,
-  "2022-09-03": 44262,
-  "2022-09-04": 44262,
-  "2022-09-05": 44262,
-  "2022-09-06": 44262,
-  "2022-09-07": 44262,
-  "2022-09-09": 44262,
-  "2022-09-10": 44262,
-  "2022-09-11": 44262,
-  "2022-09-12": 44262,
-  "2022-09-13": 44262,
-  "2022-09-15": 44262,
-  "2022-09-16": 44262,
-  "2022-09-17": 44262,
-  "2022-09-18": 44262,
-  "2022-09-19": 44262,
-  "2022-09-20": 44262,
-  "2022-09-21": 44262,
-  "2022-09-22": 44262,
-  "2022-09-23": 44262,
-  "2022-09-24": 44262,
-  "2022-09-25": 44262,
-  "2022-09-26": 44262,
-  "2022-09-27": 44262,
-  "2022-09-28": 44262,
-  "2022-09-29": 44262,
-  "2022-09-30": 44262,
-  "2022-10-01": 44262,
-  "2022-10-02": 44262,
-  "2022-10-03": 44262,
-  "2022-10-04": 44262,
-  "2022-10-05": 44262,
-  "2022-10-06": 44262,
-  "2022-10-07": 44262,
-  "2022-10-08": 44262,
-  "2022-10-09": 44262,
-  "2022-10-10": 44262,
-  "2022-10-11": 44262,
-  "2022-10-12": 44262,
-  "2022-10-13": 44262,
-  "2022-10-14": 44262,
-  "2022-10-15": 44262,
-  "2022-10-16": 44262,
-  "2022-10-17": 44262,
-  "2022-10-18": 44262,
-  "2022-10-19": 44262,
-  "2022-10-20": 44262,
-  "2022-10-21": 44262,
-  "2022-10-22": 44262,
-  "2022-10-23": 44262,
-  "2022-10-24": 44262,
-  "2022-10-25": 44262,
-  "2022-10-26": 44262,
-  "2022-10-27": 44262,
-  "2022-10-28": 44262,
-  "2022-10-29": 44262,
-  "2022-10-30": 44262,
-  "2022-10-31": 44262,
-  "2022-11-01": 44262,
-  "2022-11-02": 44262,
-  "2022-11-03": 44262,
-  "2022-11-04": 44262,
-  "2022-11-05": 44262,
-  "2022-11-06": 44262,
-  "2022-11-07": 44262,
-  "2022-11-08": 44262,
-  "2022-11-09": 44262,
-  "2022-11-10": 44262,
-  "2022-11-11": 44262,
-  "2022-11-12": 44262,
-  "2022-11-13": 44262,
-  "2022-11-14": 44262,
-  "2022-11-15": 44262,
-  "2022-11-16": 44262,
-  "2022-11-17": 44262,
-  "2022-11-18": 44262,
-  "2022-11-19": 44262,
-  "2022-11-20": 44262,
-  "2022-11-21": 44262,
-  "2022-11-22": 44262,
-  "2022-11-23": 44262,
-  "2022-11-24": 44262,
-  "2022-11-25": 44262,
-  "2022-11-26": 44262,
-  "2022-11-27": 44262,
-  "2022-11-28": 44262,
-  "2022-11-29": 44262,
-  "2022-11-30": 44262,
-  "2022-12-01": 44262,
-  "2022-12-02": 44262,
-  "2022-12-03": 44262,
-  "2022-12-04": 44262,
-  "2022-12-05": 44262,
-  "2022-12-06": 44262,
-  "2022-12-07": 44262,
-  "2022-12-08": 44262,
-  "2022-12-09": 44262,
-  "2022-12-10": 44262,
-  "2022-12-11": 44262,
-  "2022-12-12": 44262,
-  "2022-12-13": 44262,
-  "2022-12-14": 44262,
-  "2022-12-15": 44262,
-  "2022-12-16": 44262,
-  "2022-12-17": 44262,
-  "2022-12-18": 44262,
-  "2022-12-19": 44262,
-  "2022-12-20": 44262,
-  "2022-12-21": 44262,
-  "2022-12-22": 44262,
-  "2022-12-24": 44262,
-  "2022-12-25": 44262,
-  "2022-12-26": 44262,
-  "2022-12-27": 44262,
-  "2022-12-28": 44262,
-  "2022-12-29": 44262,
-  "2022-12-30": 44262,
-  "2022-12-31": 44262,
-  "2023-01-01": 44262,
-  "2023-01-02": 44262,
-  "2023-01-03": 44262,
-  "2023-01-04": 44262,
-  "2023-01-05": 44262,
-  "2023-01-06": 44262,
-  "2023-01-07": 44262,
-  "2023-01-08": 44262,
-  "2023-01-09": 44262,
-  "2023-01-10": 44262,
-  "2023-01-11": 44262,
-  "2023-01-12": 44262,
-  "2023-01-13": 44262,
-  "2023-01-14": 44262,
-  "2023-01-15": 44262,
-  "2023-01-16": 44262,
-  "2023-01-17": 44262,
-  "2023-01-18": 44262,
-  "2023-01-19": 44262,
-  "2023-01-20": 44262,
-  "2023-01-21": 44262,
-  "2023-01-22": 44262,
-  "2023-01-23": 44262,
-  "2023-01-24": 44262,
-  "2023-01-25": 44262,
-  "2023-01-26": 44262,
-  "2023-01-27": 44262,
-  "2023-01-28": 44262,
-  "2023-01-29": 44262,
-  "2023-01-30": 44262,
-  "2023-01-31": 44262,
-  "2023-02-01": 44262,
-  "2023-02-02": 44262,
-  "2023-02-03": 44262,
-  "2023-02-04": 44262,
-  "2023-02-05": 44262,
-  "2023-02-06": 44262,
-  "2023-02-07": 44262,
-  "2023-02-08": 44262,
-  "2023-02-09": 44262,
-  "2023-02-10": 44262,
-  "2023-02-11": 44262,
-  "2023-02-12": 44262,
-  "2023-02-13": 44262,
-  "2023-02-14": 44262,
-  "2023-02-15": 44262,
-  "2023-02-16": 44262,
-  "2023-02-17": 44262,
-  "2023-02-18": 44262,
-  "2023-02-19": 44262,
-  "2023-02-20": 44262,
-  "2023-02-21": 44262,
-  "2023-02-22": 44262,
-  "2023-02-23": 44262,
-  "2023-02-24": 44262,
-  "2023-02-25": 44262,
-  "2023-02-26": 44262,
-  "2023-02-27": 44262,
-  "2023-02-28": 44262,
-  "2023-03-01": 44262,
-  "2023-03-02": 44262,
-  "2023-03-03": 44262,
-  "2023-03-04": 44262,
-  "2023-03-05": 44262,
-  "2023-03-06": 44262,
-  "2023-03-07": 44262,
-  "2023-03-08": 44262,
-  "2023-03-09": 44262,
-  "2023-03-10": 44262,
-  "2023-03-11": 44262,
-  "2023-03-12": 44262,
-  "2023-03-13": 44262,
-  "2023-03-14": 44262,
-  "2023-03-15": 44262,
-  "2023-03-16": 44262,
-  "2023-03-17": 44262,
-  "2023-03-18": 44262,
-  "2023-03-19": 44262,
-  "2023-03-20": 44262,
-  "2023-03-21": 44262,
-  "2023-03-22": 44262,
-  "2023-03-23": 44262,
-  "2023-03-24": 44262,
-  "2023-03-25": 44262,
-  "2023-03-26": 44262,
-  "2023-03-27": 44262,
-  "2023-03-28": 44262,
-  "2023-03-29": 44262,
-  "2023-03-30": 44262,
-  "2023-03-31": 44262,
-  "2023-04-01": 44262,
-  "2023-04-02": 44262,
-  "2023-04-03": 44262,
-  "2023-04-04": 44262,
-  "2023-04-05": 44262,
-  "2023-04-06": 44262,
-  "2023-04-07": 44262,
-  "2023-04-09": 44262,
-  "2023-04-10": 44262,
-  "2023-04-11": 44262,
-  "2023-04-12": 44262,
-  "2023-04-13": 44262,
-  "2023-04-14": 44262,
-  "2023-04-15": 44262,
-  "2023-04-16": 44262,
-  "2023-04-17": 44262,
-  "2023-04-18": 44262,
-  "2023-04-19": 44262,
-  "2023-04-20": 44262,
-  "2023-04-21": 44262,
-  "2023-04-22": 44262,
-  "2023-04-23": 44262,
-  "2023-04-24": 44262,
-  "2023-04-25": 44262,
-  "2023-04-26": 44262,
-  "2023-04-27": 44262,
-  "2023-04-28": 44262,
-  "2023-04-29": 44262,
-  "2023-04-30": 44262,
-  "2023-05-01": 44262,
-  "2023-05-02": 44262,
-  "2023-05-03": 44262,
-  "2023-05-04": 44262,
-  "2023-05-05": 44262,
-  "2023-05-06": 44262,
-  "2023-05-07": 44262,
-  "2023-05-08": 44262,
-  "2023-05-09": 44262,
-  "2023-05-10": 44262,
-  "2023-05-11": 44262,
-  "2023-05-12": 44262,
-  "2023-05-13": 44262,
-  "2023-05-14": 44262,
-  "2023-05-15": 44262,
-  "2023-05-16": 44262,
-  "2023-05-17": 44262,
-  "2023-05-18": 44262,
-  "2023-05-19": 44262,
-  "2023-05-20": 44262,
-  "2023-05-21": 44262,
-  "2023-05-22": 44262,
-  "2023-05-23": 44262,
-  "2023-05-24": 44262,
-  "2023-05-25": 44262,
-  "2023-05-26": 44262,
-  "2023-05-27": 44262,
-  "2023-05-28": 44262,
-  "2023-05-29": 44262,
-  "2023-05-30": 44262,
-  "2023-05-31": 44262,
-  "2023-06-01": 44262,
-  "2023-06-02": 44262,
-  "2023-06-03": 44262,
-  "2023-06-04": 44262,
-  "2023-06-05": 44262,
-  "2023-06-06": 44262,
-  "2023-06-07": 44262,
-  "2023-06-08": 44262,
-  "2023-06-09": 44262,
-  "2023-06-10": 44262,
-  "2023-06-11": 44262,
-  "2023-06-12": 44262,
-  "2023-06-13": 44262,
-  "2023-06-14": 44262,
-  "2023-06-15": 44262,
-  "2023-06-16": 44262,
-  "2023-06-17": 44262,
-  "2023-06-18": 44262,
-  "2023-06-19": 44262,
-  "2023-06-20": 44262,
-  "2023-06-21": 44262,
-  "2023-06-22": 44262,
-  "2023-06-23": 44262,
-  "2023-06-24": 44262,
-  "2023-06-25": 44262,
-  "2023-06-26": 44262,
-  "2023-06-27": 44262,
-  "2023-06-28": 44262,
-  "2023-06-29": 44262,
-  "2023-06-30": 44262,
-  "2023-07-01": 44262,
-  "2023-07-02": 44262,
-  "2023-07-03": 44262,
-  "2023-07-04": 44262,
-  "2023-07-05": 44262,
-  "2023-07-06": 44262,
-  "2023-07-07": 44262,
-  "2023-07-08": 44262,
-  "2023-07-09": 44262,
-  "2023-07-10": 44262,
-  "2023-07-11": 44262,
-  "2023-07-12": 44262,
-  "2023-07-13": 44262,
-  "2023-07-14": 44262,
-  "2023-07-15": 44262,
-  "2023-07-16": 44262,
-  "2023-07-17": 44262,
-  "2023-07-18": 44262,
-  "2023-07-19": 44262,
-  "2023-07-20": 44262,
-  "2023-07-21": 44262,
-  "2023-07-22": 44262,
-  "2023-07-23": 44262,
-  "2023-07-24": 44262,
-  "2023-07-25": 44262,
-  "2023-07-26": 44262,
-  "2023-07-27": 44262,
-  "2023-07-28": 44262,
-  "2023-07-29": 44262,
-  "2023-07-30": 44262,
-  "2023-07-31": 44262,
-  "2023-08-01": 44262,
-  "2023-08-02": 44262,
-  "2023-08-03": 44262,
-  "2023-08-04": 44262,
-  "2023-08-05": 44262,
-  "2023-08-06": 44262,
-  "2023-08-07": 44262,
-  "2023-08-08": 44262,
-  "2023-08-09": 44262,
-  "2023-08-10": 44262,
-  "2023-08-11": 44262,
-  "2023-08-12": 44262,
-  "2023-08-13": 44262,
-  "2023-08-14": 44262,
-  "2023-08-15": 44262,
-  "2023-08-16": 44262,
-  "2023-08-17": 44262,
-  "2023-08-18": 44262,
-  "2023-08-19": 44262,
-  "2023-08-20": 44262,
-  "2023-08-21": 44262,
-  "2023-08-22": 44262,
-  "2023-08-23": 44262,
-  "2023-08-24": 44262,
-  "2023-08-25": 44262,
-  "2023-08-26": 44262,
-  "2023-08-27": 44262,
-  "2023-08-28": 44262,
-  "2023-08-29": 44262,
-  "2023-08-30": 44262,
-  "2023-08-31": 44262,
-  "2023-09-01": 44262,
-  "2023-09-02": 44262,
-  "2023-09-03": 44262,
-  "2023-09-04": 44262,
-  "2023-09-05": 44262,
-  "2023-09-06": 44262,
-  "2023-09-07": 44262,
-  "2023-09-08": 44262,
-  "2023-09-09": 44262,
-  "2023-09-10": 44262,
-  "2023-09-11": 44262,
-  "2023-09-12": 44262,
-  "2023-09-13": 44262,
-  "2023-09-14": 44262,
-  "2023-09-15": 44262,
-  "2023-09-16": 44262,
-  "2023-09-17": 44262,
-  "2023-09-18": 44262,
-  "2023-09-19": 44262,
-  "2023-09-20": 44262,
-  "2023-09-21": 44262,
-  "2023-09-22": 44262,
-  "2023-09-23": 44262,
-  "2023-09-24": 44262,
-  "2023-09-25": 44262,
-  "2023-09-26": 44262,
-  "2023-09-27": 44262,
-  "2023-09-28": 44262,
-  "2023-09-29": 44262,
-  "2023-09-30": 44262,
-  "2023-10-01": 44262,
-  "2023-10-02": 44262,
-  "2023-10-03": 44262,
-  "2023-10-04": 44262,
-  "2023-10-05": 44262,
-  "2023-10-06": 44262,
-  "2023-10-07": 44262,
-  "2023-10-08": 44262,
-  "2023-10-09": 44262,
-  "2023-10-10": 44262,
-  "2023-10-11": 44262,
-  "2023-10-12": 44262,
-  "2023-10-13": 44262,
-  "2023-10-14": 44262,
-  "2023-10-15": 44262,
-  "2023-10-16": 44262,
-  "2023-10-17": 44262,
-  "2023-10-18": 44262,
-  "2023-10-19": 44262,
-  "2023-10-20": 44262,
-  "2023-10-21": 44262,
-  "2023-10-22": 44262,
-  "2023-10-23": 44262,
-  "2023-10-24": 44262,
-  "2023-10-25": 44262,
-  "2023-10-26": 44262,
-  "2023-10-27": 44262,
-  "2023-10-28": 44262,
-  "2023-10-29": 44262,
-  "2023-10-30": 44262,
-  "2023-10-31": 44262,
-  "2023-11-01": 44262,
-  "2023-11-02": 44262,
-  "2023-11-03": 44262,
-  "2023-11-04": 44262,
-  "2023-11-05": 44262,
-  "2023-11-06": 44262,
-  "2023-11-07": 44262,
-  "2023-11-08": 44262,
-  "2023-11-09": 44262,
-  "2023-11-10": 44262,
-  "2023-11-11": 44262,
-  "2023-11-12": 44262,
-  "2023-11-13": 44262,
-  "2023-11-14": 44262,
-  "2023-11-15": 44262,
-  "2023-11-16": 44262,
-  "2023-11-17": 44262,
-  "2023-11-18": 44262,
-  "2023-11-19": 44262,
-  "2023-11-20": 44262,
-  "2023-11-21": 44262,
-  "2023-11-22": 44262,
-  "2023-11-23": 44262,
-  "2023-11-24": 44262,
-  "2023-11-25": 44262,
-  "2023-11-26": 44262,
-  "2023-11-27": 44262,
-  "2023-11-28": 44262,
-  "2023-11-29": 44262,
-  "2023-11-30": 44262,
-  "2023-12-01": 44262,
-  "2023-12-02": 44262,
-  "2023-12-03": 44262,
-  "2023-12-04": 44262,
-  "2023-12-05": 44262,
-  "2023-12-06": 44262,
-  "2023-12-07": 44262,
-  "2023-12-08": 44262,
-  "2023-12-09": 44262,
-  "2023-12-10": 44262,
-  "2023-12-11": 44262,
-  "2023-12-12": 44262,
-  "2023-12-13": 44262,
-  "2023-12-14": 44262,
-  "2023-12-15": 44262,
-  "2023-12-16": 44262,
-  "2023-12-17": 44262,
-  "2023-12-18": 44262,
-  "2023-12-19": 44262,
-  "2023-12-20": 44262,
-  "2023-12-21": 44262,
-  "2023-12-22": 44262,
-  "2023-12-23": 44262,
-  "2023-12-24": 44262,
-  "2023-12-25": 44262,
-  "2023-12-26": 44262,
-  "2023-12-27": 44262,
-  "2023-12-30": 44262,
-  "2023-12-31": 44262,
-  "2024-01-01": 44262,
-  "2024-01-02": 44262,
-  "2024-01-03": 44262
+  "2024-01-17": 44262,
+  "date_first_scraped": "2021-12-28",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is Fleet Foxes",
+  "tracks": [
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "- Naiads, Cassadies",
+      "url": "https://open.spotify.com/track/6ofZzDgnzUTHHlO6MVAKvk"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "A Long Way Past The Past",
+      "url": "https://open.spotify.com/track/0DjByaBRUl3710BRw3VD0P"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Battery Kinzie",
+      "url": "https://open.spotify.com/track/0GEL6WX7CHmwrZOIWnQvlu"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Bedouin Dress",
+      "url": "https://open.spotify.com/track/16vrX58E41OqkWhRbvyEsU"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/6T8qnBbc2rxlWLiweD1e5M"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Blue Spotted Tail",
+      "url": "https://open.spotify.com/track/6ZbdcZO79W18dTwXf356Gp"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Drops In The River",
+      "url": "https://open.spotify.com/track/1R5Y01vTKH96Y7XMmmcF9q"
+    },
+    {
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/1THgsJygpeEj3yfXuRm7Bb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281200,
+      "name": "English House",
+      "url": "https://open.spotify.com/track/5dalWHZyT2N6repeisFnVO"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230813,
+      "name": "Featherweight",
+      "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288413,
+      "name": "Fool's Errand",
+      "url": "https://open.spotify.com/track/2OC6drvbkFDGyPs6e1B2WF"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "For A Week Or Two",
+      "url": "https://open.spotify.com/track/4KBCTyZMeMACqA5uznxPmB"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "He Doesn't Know Why",
+      "url": "https://open.spotify.com/track/2xa35aj67lT8L4teMR64XK"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303386,
+      "name": "Helplessness Blues",
+      "url": "https://open.spotify.com/track/1pbOvzdkL5iujppWgzBQdS"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "I'm Not My Season",
+      "url": "https://open.spotify.com/track/4U7HfHTdn80sDr2uiQY2cF"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/1THgsJygpeEj3yfXuRm7Bb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187453,
+      "name": "Innocent Son",
+      "url": "https://open.spotify.com/track/5e1WERcnphjRRRngnhjaKT"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249320,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Kept Woman",
+      "url": "https://open.spotify.com/track/3TeHBNXVImoR6Xy6V8VtgR"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264840,
+      "name": "Lorelai",
+      "url": "https://open.spotify.com/track/4GY7FKDpl5MkO78zHCSbZi"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Maestranza",
+      "url": "https://open.spotify.com/track/38b1DeACd0UbDYh3j2rZfs"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Mearcstapa",
+      "url": "https://open.spotify.com/track/1iC7A5V4gVi39Ce5MQwWLW"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/6kzi5LTg5uECin8pC34nxV"
+    },
+    {
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Oliver James",
+      "url": "https://open.spotify.com/track/2OIIur6XNJFJK7UgUdkjvq"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "On Another Ocean (January / June)",
+      "url": "https://open.spotify.com/track/1B3RqpFxuPQhVoQzfRIPpB"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Quiet Houses",
+      "url": "https://open.spotify.com/track/1EgtfN5sES21dY7pRQRauz"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307213,
+      "name": "Ragged Wood",
+      "url": "https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259986,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/6bdy17W52RbHgDGqWAnvCt"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Someone You'd Admire",
+      "url": "https://open.spotify.com/track/4luYkMzGsCUtGJFfi8kVOv"
+    },
+    {
+      "album": {
+        "name": "Sun Giant",
+        "url": "https://open.spotify.com/album/1THgsJygpeEj3yfXuRm7Bb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134320,
+      "name": "Sun Giant",
+      "url": "https://open.spotify.com/track/27M37QcLHTmadHyX4eseKM"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Sun It Rises",
+      "url": "https://open.spotify.com/track/7ejNRmaEYpXVbdWEulQbb4"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127640,
+      "name": "The Cascades",
+      "url": "https://open.spotify.com/track/2U175WQ59CVtQXUZSxz3UI"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487293,
+      "name": "The Shrine / An Argument",
+      "url": "https://open.spotify.com/track/2S4ssB3KFsSKBn9rUlcYIo"
+    },
+    {
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525426,
+      "name": "Third of May / \u014cdaigahara",
+      "url": "https://open.spotify.com/track/2tUiuvEUs1Tw2pnfZUeIz1"
+    },
+    {
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Thymia",
+      "url": "https://open.spotify.com/track/0iY16QjklKx0h5Ej26ihFq"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "Tiger Mountain Peasant Song",
+      "url": "https://open.spotify.com/track/5oYkuJL2VQ3Ss2oxNuRk3L"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "Your Protector",
+      "url": "https://open.spotify.com/track/7pI54YxwZOSUa3yPNq8USf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWpEiFt0w46m"
 }

@@ -1,423 +1,1499 @@
 {
-  "2022-11-05": 232438,
-  "2022-11-06": 232555,
-  "2022-11-07": 232661,
-  "2022-11-08": 232754,
-  "2022-11-09": 232872,
-  "2022-11-10": 232962,
-  "2022-11-11": 233047,
-  "2022-11-12": 233160,
-  "2022-11-13": 233256,
-  "2022-11-14": 233347,
-  "2022-11-15": 233450,
-  "2022-11-16": 233525,
-  "2022-11-17": 233597,
-  "2022-11-18": 233646,
-  "2022-11-19": 233651,
-  "2022-11-20": 233745,
-  "2022-11-21": 233860,
-  "2022-11-22": 233937,
-  "2022-11-23": 234024,
-  "2022-11-24": 234174,
-  "2022-11-25": 234295,
-  "2022-11-26": 234375,
-  "2022-11-27": 234447,
-  "2022-11-28": 234511,
-  "2022-11-29": 234604,
-  "2022-11-30": 234676,
-  "2022-12-01": 234792,
-  "2022-12-02": 234845,
-  "2022-12-03": 234956,
-  "2022-12-04": 235069,
-  "2022-12-05": 235137,
-  "2022-12-06": 235238,
-  "2022-12-07": 235330,
-  "2022-12-08": 235416,
-  "2022-12-09": 235492,
-  "2022-12-10": 235561,
-  "2022-12-11": 235677,
-  "2022-12-12": 235791,
-  "2022-12-13": 235853,
-  "2022-12-14": 235939,
-  "2022-12-15": 236033,
-  "2022-12-16": 236141,
-  "2022-12-17": 236220,
-  "2022-12-18": 236330,
-  "2022-12-19": 236404,
-  "2022-12-20": 236576,
-  "2022-12-21": 236576,
-  "2022-12-22": 236670,
-  "2022-12-24": 236839,
-  "2022-12-25": 236920,
-  "2022-12-26": 237010,
-  "2022-12-27": 237098,
-  "2022-12-28": 237177,
-  "2022-12-29": 237275,
-  "2022-12-30": 237381,
-  "2022-12-31": 237507,
-  "2023-01-01": 237607,
-  "2023-01-02": 237676,
-  "2023-01-03": 237789,
-  "2023-01-04": 237866,
-  "2023-01-05": 237960,
-  "2023-01-06": 238103,
-  "2023-01-07": 238260,
-  "2023-01-08": 238294,
-  "2023-01-09": 238409,
-  "2023-01-10": 238536,
-  "2023-01-11": 238658,
-  "2023-01-12": 238769,
-  "2023-01-13": 238881,
-  "2023-01-14": 239110,
-  "2023-01-15": 239144,
-  "2023-01-16": 239277,
-  "2023-01-17": 239373,
-  "2023-01-18": 239489,
-  "2023-01-19": 239614,
-  "2023-01-20": 239745,
-  "2023-01-21": 239911,
-  "2023-01-22": 240104,
-  "2023-01-23": 240294,
-  "2023-01-24": 240439,
-  "2023-01-25": 240572,
-  "2023-01-26": 240699,
-  "2023-01-27": 240841,
-  "2023-01-28": 240992,
-  "2023-01-29": 241138,
-  "2023-01-30": 241283,
-  "2023-01-31": 241283,
-  "2023-02-01": 241525,
-  "2023-02-02": 241641,
-  "2023-02-03": 241762,
-  "2023-02-04": 241896,
-  "2023-02-05": 242082,
-  "2023-02-06": 242213,
-  "2023-02-07": 242315,
-  "2023-02-08": 242563,
-  "2023-02-09": 242563,
-  "2023-02-10": 242685,
-  "2023-02-11": 242827,
-  "2023-02-12": 243124,
-  "2023-02-13": 243235,
-  "2023-02-14": 243235,
-  "2023-02-15": 243353,
-  "2023-02-16": 243498,
-  "2023-02-17": 243605,
-  "2023-02-18": 243990,
-  "2023-02-19": 244033,
-  "2023-02-20": 244192,
-  "2023-02-21": 244355,
-  "2023-02-22": 244535,
-  "2023-02-23": 244697,
-  "2023-02-24": 244842,
-  "2023-02-25": 245063,
-  "2023-02-26": 245208,
-  "2023-02-27": 245490,
-  "2023-02-28": 245490,
-  "2023-03-01": 245609,
-  "2023-03-02": 245717,
-  "2023-03-03": 245840,
-  "2023-03-04": 245958,
-  "2023-03-05": 246293,
-  "2023-03-06": 246293,
-  "2023-03-07": 246410,
-  "2023-03-08": 246531,
-  "2023-03-09": 246674,
-  "2023-03-10": 246799,
-  "2023-03-11": 246958,
-  "2023-03-12": 247096,
-  "2023-03-13": 247224,
-  "2023-03-14": 247339,
-  "2023-03-15": 247434,
-  "2023-03-16": 247434,
-  "2023-03-17": 247434,
-  "2023-03-18": 247802,
-  "2023-03-19": 247802,
-  "2023-03-20": 248052,
-  "2023-03-21": 248140,
-  "2023-03-22": 248233,
-  "2023-03-23": 248332,
-  "2023-03-24": 248332,
-  "2023-03-25": 248563,
-  "2023-03-26": 248703,
-  "2023-03-27": 248824,
-  "2023-03-28": 248914,
-  "2023-03-29": 249030,
-  "2023-03-30": 249202,
-  "2023-03-31": 249202,
-  "2023-04-01": 249317,
-  "2023-04-02": 249433,
-  "2023-04-03": 249545,
-  "2023-04-04": 249653,
-  "2023-04-05": 249738,
-  "2023-04-06": 249847,
-  "2023-04-07": 249952,
-  "2023-04-09": 250178,
-  "2023-04-10": 250259,
-  "2023-04-11": 250471,
-  "2023-04-12": 250471,
-  "2023-04-13": 250543,
-  "2023-04-14": 250612,
-  "2023-04-15": 250699,
-  "2023-04-16": 250821,
-  "2023-04-17": 250936,
-  "2023-04-18": 251014,
-  "2023-04-19": 251096,
-  "2023-04-20": 251188,
-  "2023-04-21": 251289,
-  "2023-04-22": 251393,
-  "2023-04-23": 251484,
-  "2023-04-24": 251574,
-  "2023-04-25": 251651,
-  "2023-04-26": 251734,
-  "2023-04-27": 251807,
-  "2023-04-28": 251928,
-  "2023-04-29": 252031,
-  "2023-04-30": 252161,
-  "2023-05-01": 252262,
-  "2023-05-02": 252350,
-  "2023-05-03": 252425,
-  "2023-05-04": 252517,
-  "2023-05-05": 252601,
-  "2023-05-06": 252707,
-  "2023-05-07": 252806,
-  "2023-05-08": 252910,
-  "2023-05-09": 252991,
-  "2023-05-10": 253084,
-  "2023-05-11": 253175,
-  "2023-05-12": 253266,
-  "2023-05-13": 253376,
-  "2023-05-14": 253495,
-  "2023-05-15": 253555,
-  "2023-05-16": 253652,
-  "2023-05-17": 253747,
-  "2023-05-18": 253866,
-  "2023-05-19": 254033,
-  "2023-05-20": 254304,
-  "2023-05-21": 254304,
-  "2023-05-22": 254304,
-  "2023-05-23": 254550,
-  "2023-05-24": 254770,
-  "2023-05-25": 254797,
-  "2023-05-26": 254907,
-  "2023-05-27": 255038,
-  "2023-05-28": 255162,
-  "2023-05-29": 255162,
-  "2023-05-30": 255388,
-  "2023-05-31": 255472,
-  "2023-06-01": 255584,
-  "2023-06-02": 255710,
-  "2023-06-03": 255846,
-  "2023-06-04": 255995,
-  "2023-06-05": 256114,
-  "2023-06-06": 256229,
-  "2023-06-07": 256338,
-  "2023-06-08": 256413,
-  "2023-06-09": 256534,
-  "2023-06-10": 256630,
-  "2023-06-11": 256718,
-  "2023-06-12": 256809,
-  "2023-06-13": 256891,
-  "2023-06-14": 256966,
-  "2023-06-15": 257057,
-  "2023-06-16": 257141,
-  "2023-06-17": 257223,
-  "2023-06-18": 257304,
-  "2023-06-19": 257377,
-  "2023-06-20": 257451,
-  "2023-06-21": 257548,
-  "2023-06-22": 257645,
-  "2023-06-23": 257721,
-  "2023-06-24": 257831,
-  "2023-06-25": 257942,
-  "2023-06-26": 258042,
-  "2023-06-27": 258141,
-  "2023-06-28": 258237,
-  "2023-06-29": 258314,
-  "2023-06-30": 258427,
-  "2023-07-01": 258643,
-  "2023-07-02": 258643,
-  "2023-07-03": 258741,
-  "2023-07-04": 258816,
-  "2023-07-05": 258898,
-  "2023-07-06": 259058,
-  "2023-07-07": 259058,
-  "2023-07-08": 259058,
-  "2023-07-09": 259223,
-  "2023-07-10": 259294,
-  "2023-07-11": 259353,
-  "2023-07-12": 259413,
-  "2023-07-13": 259483,
-  "2023-07-14": 259551,
-  "2023-07-15": 259615,
-  "2023-07-16": 259701,
-  "2023-07-17": 259781,
-  "2023-07-18": 259841,
-  "2023-07-19": 259901,
-  "2023-07-20": 259901,
-  "2023-07-21": 260016,
-  "2023-07-22": 260096,
-  "2023-07-23": 260154,
-  "2023-07-24": 260223,
-  "2023-07-25": 260279,
-  "2023-07-26": 260350,
-  "2023-07-27": 260434,
-  "2023-07-28": 260521,
-  "2023-07-29": 260616,
-  "2023-07-30": 260616,
-  "2023-07-31": 260759,
-  "2023-08-01": 260835,
-  "2023-08-02": 260916,
-  "2023-08-03": 260982,
-  "2023-08-04": 261056,
-  "2023-08-05": 261133,
-  "2023-08-06": 261291,
-  "2023-08-07": 261291,
-  "2023-08-08": 261358,
-  "2023-08-09": 261424,
-  "2023-08-10": 261498,
-  "2023-08-11": 261563,
-  "2023-08-12": 261563,
-  "2023-08-13": 261563,
-  "2023-08-14": 261563,
-  "2023-08-15": 261563,
-  "2023-08-16": 261563,
-  "2023-08-17": 261563,
-  "2023-08-18": 261563,
-  "2023-08-19": 261563,
-  "2023-08-20": 262253,
-  "2023-08-21": 262253,
-  "2023-08-22": 262416,
-  "2023-08-23": 262416,
-  "2023-08-24": 262416,
-  "2023-08-25": 262416,
-  "2023-08-26": 262668,
-  "2023-08-27": 262668,
-  "2023-08-28": 262791,
-  "2023-08-29": 262791,
-  "2023-08-30": 262791,
-  "2023-08-31": 262982,
-  "2023-09-01": 263041,
-  "2023-09-02": 263041,
-  "2023-09-03": 263041,
-  "2023-09-04": 263041,
-  "2023-09-05": 263041,
-  "2023-09-06": 263041,
-  "2023-09-07": 263041,
-  "2023-09-08": 263041,
-  "2023-09-09": 263041,
-  "2023-09-10": 263041,
-  "2023-09-11": 263041,
-  "2023-09-12": 263041,
-  "2023-09-13": 263041,
-  "2023-09-14": 263041,
-  "2023-09-15": 263041,
-  "2023-09-16": 263910,
-  "2023-09-17": 263910,
-  "2023-09-18": 263910,
-  "2023-09-19": 264061,
-  "2023-09-20": 264061,
-  "2023-09-21": 264061,
-  "2023-09-22": 264186,
-  "2023-09-23": 264186,
-  "2023-09-24": 264186,
-  "2023-09-25": 264186,
-  "2023-09-26": 264397,
-  "2023-09-27": 264397,
-  "2023-09-28": 264397,
-  "2023-09-29": 264397,
-  "2023-09-30": 264397,
-  "2023-10-01": 264397,
-  "2023-10-02": 264397,
-  "2023-10-03": 264397,
-  "2023-10-04": 264397,
-  "2023-10-05": 264397,
-  "2023-10-06": 264397,
-  "2023-10-07": 264397,
-  "2023-10-08": 264397,
-  "2023-10-09": 264397,
-  "2023-10-10": 264397,
-  "2023-10-11": 264974,
-  "2023-10-12": 264974,
-  "2023-10-13": 264974,
-  "2023-10-14": 264974,
-  "2023-10-15": 264974,
-  "2023-10-16": 264974,
-  "2023-10-17": 264974,
-  "2023-10-18": 264974,
-  "2023-10-19": 264974,
-  "2023-10-20": 264974,
-  "2023-10-21": 264974,
-  "2023-10-22": 264974,
-  "2023-10-23": 264974,
-  "2023-10-24": 264974,
-  "2023-10-25": 264974,
-  "2023-10-26": 264974,
-  "2023-10-27": 264974,
-  "2023-10-28": 264974,
-  "2023-10-29": 264974,
-  "2023-10-30": 264974,
-  "2023-10-31": 264974,
-  "2023-11-01": 264974,
-  "2023-11-02": 264974,
-  "2023-11-03": 264974,
-  "2023-11-04": 264974,
-  "2023-11-05": 264974,
-  "2023-11-06": 264974,
-  "2023-11-07": 264974,
-  "2023-11-08": 264974,
-  "2023-11-09": 264974,
-  "2023-11-10": 264974,
-  "2023-11-11": 266384,
-  "2023-11-12": 266384,
-  "2023-11-13": 266384,
-  "2023-11-14": 266384,
-  "2023-11-15": 266384,
-  "2023-11-16": 266384,
-  "2023-11-17": 266384,
-  "2023-11-18": 266384,
-  "2023-11-19": 266384,
-  "2023-11-20": 266384,
-  "2023-11-21": 266384,
-  "2023-11-22": 266384,
-  "2023-11-23": 266384,
-  "2023-11-24": 266384,
-  "2023-11-25": 266384,
-  "2023-11-26": 266384,
-  "2023-11-27": 266384,
-  "2023-11-28": 266384,
-  "2023-11-29": 266384,
-  "2023-11-30": 266384,
-  "2023-12-01": 266384,
-  "2023-12-02": 266384,
-  "2023-12-03": 266384,
-  "2023-12-04": 266384,
-  "2023-12-05": 266384,
-  "2023-12-06": 266384,
-  "2023-12-07": 266384,
-  "2023-12-08": 266384,
-  "2023-12-09": 266384,
-  "2023-12-10": 266384,
-  "2023-12-11": 266384,
-  "2023-12-12": 266384,
-  "2023-12-13": 266384,
-  "2023-12-14": 267966,
-  "2023-12-15": 267984,
-  "2023-12-16": 268031,
-  "2023-12-17": 268074,
-  "2023-12-18": 268096,
-  "2023-12-19": 268132,
-  "2023-12-20": 268171,
-  "2023-12-21": 268225,
-  "2023-12-22": 268262,
-  "2023-12-23": 268299,
-  "2023-12-24": 268346,
-  "2023-12-25": 268386,
-  "2023-12-26": 268428,
-  "2023-12-27": 268481,
-  "2023-12-30": 268602,
-  "2023-12-31": 268657,
-  "2024-01-01": 268710,
-  "2024-01-02": 268738,
-  "2024-01-03": 268750
+  "2024-01-17": 268805,
+  "date_first_scraped": "2022-11-05",
+  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
+  "name": "This Is Def Leppard",
+  "tracks": [
+    {
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220460,
+      "name": "Action - Revised Version",
+      "url": "https://open.spotify.com/track/1PUCeAtLlyLCSeoBkfb9my"
+    },
+    {
+      "album": {
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320164,
+      "name": "All I Want Is Everything",
+      "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 286240,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/2gMEHHQ3aDoHHHT6RebFGr"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 299017,
+      "name": "Angels (Can't Help You Now)",
+      "url": "https://open.spotify.com/track/45Xf2iT30Xou8k3RjgSgIc"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 244560,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243057,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322866,
+      "name": "Armageddon It - Remastered 2017",
+      "url": "https://open.spotify.com/track/16MQZkAIAAtI4X5NuiEwuq"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273733,
+      "name": "Bringin' On The Heartbreak",
+      "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254501,
+      "name": "Comin' Under Fire",
+      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
+    },
+    {
+      "album": {
+        "name": "Def Leppard",
+        "url": "https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 206680,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266790,
+      "name": "Don't Shoot Shot Gun",
+      "url": "https://open.spotify.com/track/4IB9c8FQ2VNutSWdgkw0Ys"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 259341,
+      "name": "Excitable",
+      "url": "https://open.spotify.com/track/07FG0741wKv9I9kphNf9lO"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 199520,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274117,
+      "name": "Foolin'",
+      "url": "https://open.spotify.com/track/1wv8bYmoqY3TAKKQY3Qn7t"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397813,
+      "name": "Gods Of War",
+      "url": "https://open.spotify.com/track/04fSMvH0SLmdykyg06rXC3"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 266478,
+      "name": "Goodbye For Good This Time",
+      "url": "https://open.spotify.com/track/76CPp0CZcANwffiytgzrUQ"
+    },
+    {
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324026,
+      "name": "Have You Ever Needed Someone So Bad",
+      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
+    },
+    {
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213848,
+      "name": "Heaven Is",
+      "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "High 'N' Dry (Saturday Night)",
+      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 354268,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355972,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 365302,
+      "name": "Hysteria - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2RWd4riqvRVk586L76g9Vq"
+    },
+    {
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217648,
+      "name": "I Wanna Touch U",
+      "url": "https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x"
+    },
+    {
+      "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153506,
+      "name": "It Could Be You",
+      "url": "https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
+    },
+    {
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/5Hckd2gMvqMuVJwrV7lFtl"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/2l0P9ERrM4S0T0uX9BcX7h"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278917,
+      "name": "Lady Strange",
+      "url": "https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
+    },
+    {
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295957,
+      "name": "Let's Get Rocked",
+      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 259825,
+      "name": "Lifeless",
+      "url": "https://open.spotify.com/track/40E21pnus9UzAjO5EED4vg"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 241960,
+      "name": "Liquid Dust",
+      "url": "https://open.spotify.com/track/4vJ7Oeyo4ktzaaOtargieU"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "Long Long Way To Go",
+      "url": "https://open.spotify.com/track/6skdrQ6j8GOF6RFEADIH7Y"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 235048,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7Lfn01IwHSurMHtPHnqlIi"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276910,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/7zm4upLq0DrZlTHD2ELmQ6"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255624,
+      "name": "Make Love Like A Man",
+      "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247739,
+      "name": "Mirror Mirror (Look Into My Eyes)",
+      "url": "https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p"
+    },
+    {
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244611,
+      "name": "Miss You In A Heartbeat - Revised Version",
+      "url": "https://open.spotify.com/track/47jRWT09YkhZXJMuGBYkpb"
+    },
+    {
+      "album": {
+        "name": "Songs From The Sparkle Lounge",
+        "url": "https://open.spotify.com/album/1Nr06drKteANW0vMGMoptP"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 212093,
+      "name": "Nine Lives",
+      "url": "https://open.spotify.com/track/2haIaCgfAIpfAoqRZsCRZw"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327250,
+      "name": "Paper Sun",
+      "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 333590,
+      "name": "Paper Sun",
+      "url": "https://open.spotify.com/track/6mL5fmDwQnUf6eYTKl68uf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247962,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Emm Gryner",
+          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 326718,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/0VdBxLmYD7dN7SOZZ4TEoO"
+    },
+    {
+      "album": {
+        "name": "Pour Some Sugar On Me",
+        "url": "https://open.spotify.com/album/3v0h9KVInMCpKBcpiPEDny"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 114285,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/0MNnLzbnGy6O9AZK1oHCbu"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "album": {
+        "name": "Pour Some Sugar on Me",
+        "url": "https://open.spotify.com/album/3j9vEFTtoIkDB6T61oXfA6"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 114285,
+      "name": "Pour Some Sugar on Me.",
+      "url": "https://open.spotify.com/track/5sKtnoNA2vJ9c67swpGtnk"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239727,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4GbVDG1NFH1kzqCHRCFj5D"
+    },
+    {
+      "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188819,
+      "name": "Rock Brigade",
+      "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
+    },
+    {
+      "album": {
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173101,
+      "name": "Rock On",
+      "url": "https://open.spotify.com/track/0v0sa5TgqCXMJcynzY8Sqp"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "Rock Rock (Till You Drop)",
+      "url": "https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396823,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw"
+    },
+    {
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279300,
+      "name": "Run Riot",
+      "url": "https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z"
+    },
+    {
+      "album": {
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157841,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 205466,
+      "name": "SOS Emergency",
+      "url": "https://open.spotify.com/track/5SFe86BPtPFu7sSF7nuV5f"
+    },
+    {
+      "album": {
+        "name": "Spillways [Feat. Joe Elliott]",
+        "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Joe Elliott",
+          "url": "https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199809,
+      "name": "Spillways [Feat. Joe Elliott]",
+      "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224848,
+      "name": "Stagefright",
+      "url": "https://open.spotify.com/track/6wzYsqOkBLqyjyzFRohAFi"
+    },
+    {
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272871,
+      "name": "Stand Up (Kick Love Into Motion)",
+      "url": "https://open.spotify.com/track/0dr71rw5oIcPtUHRJES6gP"
+    },
+    {
+      "album": {
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217799,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 230466,
+      "name": "This Guitar",
+      "url": "https://open.spotify.com/track/2kh6aCEA51W67H4kJ7IkKh"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 232697,
+      "name": "To Be Alive",
+      "url": "https://open.spotify.com/track/6aufQGB0fTjLZafaEA6jp2"
+    },
+    {
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243321,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266728,
+      "name": "Too Late For Love",
+      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 329724,
+      "name": "Turn To Dust",
+      "url": "https://open.spotify.com/track/45kFdLMxxXsRfm8kABgsTg"
+    },
+    {
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256486,
+      "name": "Two Steps Behind - String / Acoustic Version",
+      "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
+    },
+    {
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 213253,
+      "name": "U Rok Mi",
+      "url": "https://open.spotify.com/track/0ruCYFlJQJBOzfY9B86QXe"
+    },
+    {
+      "album": {
+        "name": "On Through The Night",
+        "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
+    },
+    {
+      "album": {
+        "name": "Yeah!",
+        "url": "https://open.spotify.com/album/2XWi9UGkoa4bnObVeMGn8K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 218456,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/2O7IWczRwwqjIAD4inKJlG"
+    },
+    {
+      "album": {
+        "name": "The Story So Far: The Best Of Def Leppard",
+        "url": "https://open.spotify.com/album/7pL0TZHOXuFawocdIe90K5"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256866,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/4YwR2G26Pp5jNUX3gN3EIP"
+    },
+    {
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
+    },
+    {
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342510,
+      "name": "Women - Remastered 2017",
+      "url": "https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72"
 }

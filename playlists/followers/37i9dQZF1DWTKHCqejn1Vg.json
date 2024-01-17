@@ -1,580 +1,4707 @@
 {
-  "2022-05-30": 2587,
-  "2022-05-31": 2601,
-  "2022-06-01": 2627,
-  "2022-06-02": 2631,
-  "2022-06-03": 2638,
-  "2022-06-04": 2661,
-  "2022-06-05": 2664,
-  "2022-06-06": 2679,
-  "2022-06-07": 2691,
-  "2022-06-08": 2707,
-  "2022-06-09": 2715,
-  "2022-06-10": 2739,
-  "2022-06-11": 2781,
-  "2022-06-12": 2821,
-  "2022-06-13": 2842,
-  "2022-06-14": 2891,
-  "2022-06-15": 2929,
-  "2022-06-16": 2968,
-  "2022-06-17": 3018,
-  "2022-06-18": 3057,
-  "2022-06-19": 3144,
-  "2022-06-20": 3144,
-  "2022-06-21": 3191,
-  "2022-06-22": 3270,
-  "2022-06-23": 3270,
-  "2022-06-24": 3317,
-  "2022-06-25": 3342,
-  "2022-06-26": 3353,
-  "2022-06-27": 3364,
-  "2022-06-28": 3388,
-  "2022-06-29": 3439,
-  "2022-06-30": 3475,
-  "2022-07-01": 3513,
-  "2022-07-02": 3545,
-  "2022-07-03": 3565,
-  "2022-07-04": 3597,
-  "2022-07-05": 3631,
-  "2022-07-06": 3668,
-  "2022-07-07": 3710,
-  "2022-07-08": 3752,
-  "2022-07-09": 3782,
-  "2022-07-10": 3817,
-  "2022-07-11": 3832,
-  "2022-07-12": 3862,
-  "2022-07-13": 3895,
-  "2022-07-14": 3940,
-  "2022-07-15": 3979,
-  "2022-07-16": 4013,
-  "2022-07-17": 4040,
-  "2022-07-18": 4058,
-  "2022-07-19": 4081,
-  "2022-07-20": 4125,
-  "2022-07-21": 4159,
-  "2022-07-22": 4186,
-  "2022-07-23": 4237,
-  "2022-07-24": 4282,
-  "2022-07-25": 4310,
-  "2022-07-26": 4350,
-  "2022-07-27": 4382,
-  "2022-07-28": 4401,
-  "2022-07-29": 4416,
-  "2022-07-30": 4505,
-  "2022-07-31": 4505,
-  "2022-08-01": 4518,
-  "2022-08-02": 4584,
-  "2022-08-03": 4584,
-  "2022-08-04": 4611,
-  "2022-08-05": 4636,
-  "2022-08-06": 4671,
-  "2022-08-07": 4698,
-  "2022-08-08": 4730,
-  "2022-08-09": 4785,
-  "2022-08-10": 4817,
-  "2022-08-11": 4840,
-  "2022-08-12": 4891,
-  "2022-08-13": 4931,
-  "2022-08-14": 4995,
-  "2022-08-15": 5041,
-  "2022-08-16": 5087,
-  "2022-08-17": 5150,
-  "2022-08-18": 5191,
-  "2022-08-19": 5235,
-  "2022-08-20": 5280,
-  "2022-08-21": 5322,
-  "2022-08-22": 5362,
-  "2022-08-23": 5410,
-  "2022-08-24": 5455,
-  "2022-08-25": 5497,
-  "2022-08-26": 5540,
-  "2022-08-27": 5582,
-  "2022-08-28": 5624,
-  "2022-08-29": 5676,
-  "2022-08-30": 5714,
-  "2022-08-31": 5748,
-  "2022-09-01": 5788,
-  "2022-09-02": 5837,
-  "2022-09-03": 5886,
-  "2022-09-04": 5974,
-  "2022-09-05": 6054,
-  "2022-09-06": 6132,
-  "2022-09-07": 6242,
-  "2022-09-09": 6439,
-  "2022-09-10": 6537,
-  "2022-09-11": 6625,
-  "2022-09-12": 6712,
-  "2022-09-13": 6793,
-  "2022-09-15": 6955,
-  "2022-09-16": 7034,
-  "2022-09-17": 7102,
-  "2022-09-18": 7172,
-  "2022-09-19": 7260,
-  "2022-09-20": 7365,
-  "2022-09-21": 7441,
-  "2022-09-22": 7532,
-  "2022-09-23": 7621,
-  "2022-09-24": 7683,
-  "2022-09-25": 7749,
-  "2022-09-26": 7826,
-  "2022-09-27": 7904,
-  "2022-09-28": 7966,
-  "2022-09-29": 8037,
-  "2022-09-30": 8092,
-  "2022-10-01": 8144,
-  "2022-10-02": 8203,
-  "2022-10-03": 8261,
-  "2022-10-04": 8316,
-  "2022-10-05": 8405,
-  "2022-10-06": 8479,
-  "2022-10-07": 8545,
-  "2022-10-08": 8610,
-  "2022-10-09": 8742,
-  "2022-10-10": 8761,
-  "2022-10-11": 8849,
-  "2022-10-12": 8920,
-  "2022-10-13": 8995,
-  "2022-10-14": 9078,
-  "2022-10-15": 9140,
-  "2022-10-16": 9216,
-  "2022-10-17": 9304,
-  "2022-10-18": 9383,
-  "2022-10-19": 9445,
-  "2022-10-20": 9551,
-  "2022-10-21": 9619,
-  "2022-10-22": 9697,
-  "2022-10-23": 9770,
-  "2022-10-24": 9827,
-  "2022-10-25": 9886,
-  "2022-10-26": 9937,
-  "2022-10-27": 10009,
-  "2022-10-28": 10075,
-  "2022-10-29": 10133,
-  "2022-10-30": 10181,
-  "2022-10-31": 10242,
-  "2022-11-01": 10315,
-  "2022-11-02": 10375,
-  "2022-11-03": 10447,
-  "2022-11-04": 10532,
-  "2022-11-05": 10621,
-  "2022-11-06": 10699,
-  "2022-11-07": 10768,
-  "2022-11-08": 10831,
-  "2022-11-09": 10896,
-  "2022-11-10": 10944,
-  "2022-11-11": 11012,
-  "2022-11-12": 11108,
-  "2022-11-13": 11153,
-  "2022-11-14": 11207,
-  "2022-11-15": 11286,
-  "2022-11-16": 11365,
-  "2022-11-17": 11434,
-  "2022-11-18": 11465,
-  "2022-11-19": 11457,
-  "2022-11-20": 11471,
-  "2022-11-21": 11527,
-  "2022-11-22": 11585,
-  "2022-11-23": 11640,
-  "2022-11-24": 11801,
-  "2022-11-25": 11988,
-  "2022-11-26": 12107,
-  "2022-11-27": 12193,
-  "2022-11-28": 12293,
-  "2022-11-29": 12368,
-  "2022-11-30": 12456,
-  "2022-12-01": 12596,
-  "2022-12-02": 12716,
-  "2022-12-03": 12716,
-  "2022-12-04": 12837,
-  "2022-12-05": 12892,
-  "2022-12-06": 12972,
-  "2022-12-07": 13061,
-  "2022-12-08": 13158,
-  "2022-12-09": 13213,
-  "2022-12-10": 13272,
-  "2022-12-11": 13327,
-  "2022-12-12": 13375,
-  "2022-12-13": 13463,
-  "2022-12-14": 13526,
-  "2022-12-15": 13592,
-  "2022-12-16": 13651,
-  "2022-12-17": 13719,
-  "2022-12-18": 13783,
-  "2022-12-19": 13834,
-  "2022-12-20": 13973,
-  "2022-12-21": 13973,
-  "2022-12-22": 14038,
-  "2022-12-24": 14136,
-  "2022-12-25": 14170,
-  "2022-12-26": 14209,
-  "2022-12-27": 14258,
-  "2022-12-28": 14331,
-  "2022-12-29": 14404,
-  "2022-12-30": 14487,
-  "2022-12-31": 14554,
-  "2023-01-01": 14600,
-  "2023-01-02": 14668,
-  "2023-01-03": 14717,
-  "2023-01-04": 14785,
-  "2023-01-05": 14867,
-  "2023-01-06": 14968,
-  "2023-01-07": 15070,
-  "2023-01-08": 15083,
-  "2023-01-09": 15180,
-  "2023-01-10": 15251,
-  "2023-01-11": 15302,
-  "2023-01-12": 15381,
-  "2023-01-13": 15447,
-  "2023-01-14": 15589,
-  "2023-01-15": 15610,
-  "2023-01-16": 15671,
-  "2023-01-17": 15737,
-  "2023-01-18": 15782,
-  "2023-01-19": 15843,
-  "2023-01-20": 15890,
-  "2023-01-21": 15936,
-  "2023-01-22": 16005,
-  "2023-01-23": 16095,
-  "2023-01-24": 16174,
-  "2023-01-25": 16244,
-  "2023-01-26": 16332,
-  "2023-01-27": 16448,
-  "2023-01-28": 16510,
-  "2023-01-29": 16569,
-  "2023-01-30": 16630,
-  "2023-01-31": 16630,
-  "2023-02-01": 16741,
-  "2023-02-02": 16779,
-  "2023-02-03": 16828,
-  "2023-02-04": 16885,
-  "2023-02-05": 16935,
-  "2023-02-06": 16978,
-  "2023-02-07": 17026,
-  "2023-02-08": 17189,
-  "2023-02-09": 17189,
-  "2023-02-10": 17243,
-  "2023-02-11": 17312,
-  "2023-02-12": 17392,
-  "2023-02-13": 17446,
-  "2023-02-14": 17446,
-  "2023-02-15": 17511,
-  "2023-02-16": 17570,
-  "2023-02-17": 17648,
-  "2023-02-18": 17736,
-  "2023-02-19": 17749,
-  "2023-02-20": 17767,
-  "2023-02-21": 17805,
-  "2023-02-22": 17843,
-  "2023-02-23": 17900,
-  "2023-02-24": 17972,
-  "2023-02-25": 18026,
-  "2023-02-26": 18036,
-  "2023-02-27": 18153,
-  "2023-02-28": 18153,
-  "2023-03-01": 18187,
-  "2023-03-02": 18238,
-  "2023-03-03": 18284,
-  "2023-03-04": 18319,
-  "2023-03-05": 18411,
-  "2023-03-06": 18411,
-  "2023-03-07": 18453,
-  "2023-03-08": 18488,
-  "2023-03-09": 18531,
-  "2023-03-10": 18572,
-  "2023-03-11": 18600,
-  "2023-03-12": 18650,
-  "2023-03-13": 18695,
-  "2023-03-14": 18725,
-  "2023-03-15": 18763,
-  "2023-03-16": 18834,
-  "2023-03-17": 18834,
-  "2023-03-18": 18927,
-  "2023-03-19": 18966,
-  "2023-03-20": 19007,
-  "2023-03-21": 19066,
-  "2023-03-22": 19109,
-  "2023-03-23": 19137,
-  "2023-03-24": 19137,
-  "2023-03-25": 19217,
-  "2023-03-26": 19253,
-  "2023-03-27": 19296,
-  "2023-03-28": 19332,
-  "2023-03-29": 19380,
-  "2023-03-30": 19437,
-  "2023-03-31": 19437,
-  "2023-04-01": 19491,
-  "2023-04-02": 19539,
-  "2023-04-03": 19587,
-  "2023-04-04": 19636,
-  "2023-04-05": 19694,
-  "2023-04-06": 19741,
-  "2023-04-07": 19770,
-  "2023-04-09": 19845,
-  "2023-04-10": 19889,
-  "2023-04-11": 19981,
-  "2023-04-12": 19981,
-  "2023-04-13": 20030,
-  "2023-04-14": 20073,
-  "2023-04-15": 20118,
-  "2023-04-16": 20168,
-  "2023-04-17": 20218,
-  "2023-04-18": 20256,
-  "2023-04-19": 20303,
-  "2023-04-20": 20346,
-  "2023-04-21": 20387,
-  "2023-04-22": 20425,
-  "2023-04-23": 20452,
-  "2023-04-24": 20492,
-  "2023-04-25": 20526,
-  "2023-04-26": 20579,
-  "2023-04-27": 20647,
-  "2023-04-28": 20696,
-  "2023-04-29": 20743,
-  "2023-04-30": 20780,
-  "2023-05-01": 20809,
-  "2023-05-02": 20863,
-  "2023-05-03": 20901,
-  "2023-05-04": 20944,
-  "2023-05-05": 20981,
-  "2023-05-06": 21037,
-  "2023-05-07": 21086,
-  "2023-05-08": 21154,
-  "2023-05-09": 21225,
-  "2023-05-10": 21281,
-  "2023-05-11": 21336,
-  "2023-05-12": 21426,
-  "2023-05-13": 21463,
-  "2023-05-14": 21498,
-  "2023-05-15": 21556,
-  "2023-05-16": 21597,
-  "2023-05-17": 21670,
-  "2023-05-18": 21724,
-  "2023-05-19": 21765,
-  "2023-05-20": 21851,
-  "2023-05-21": 21851,
-  "2023-05-22": 21851,
-  "2023-05-23": 21947,
-  "2023-05-24": 22036,
-  "2023-05-25": 22042,
-  "2023-05-26": 22107,
-  "2023-05-27": 22170,
-  "2023-05-28": 22203,
-  "2023-05-29": 22203,
-  "2023-05-30": 22281,
-  "2023-05-31": 22326,
-  "2023-06-01": 22357,
-  "2023-06-02": 22403,
-  "2023-06-03": 22441,
-  "2023-06-04": 22473,
-  "2023-06-05": 22516,
-  "2023-06-06": 22562,
-  "2023-06-07": 22594,
-  "2023-06-08": 22625,
-  "2023-06-09": 22672,
-  "2023-06-10": 22715,
-  "2023-06-11": 22764,
-  "2023-06-12": 22805,
-  "2023-06-13": 22836,
-  "2023-06-14": 22861,
-  "2023-06-15": 22907,
-  "2023-06-16": 22939,
-  "2023-06-17": 22966,
-  "2023-06-18": 23013,
-  "2023-06-19": 23061,
-  "2023-06-20": 23103,
-  "2023-06-21": 23135,
-  "2023-06-22": 23165,
-  "2023-06-23": 23218,
-  "2023-06-24": 23245,
-  "2023-06-25": 23271,
-  "2023-06-26": 23299,
-  "2023-06-27": 23335,
-  "2023-06-28": 23374,
-  "2023-06-29": 23410,
-  "2023-06-30": 23445,
-  "2023-07-01": 23497,
-  "2023-07-02": 23497,
-  "2023-07-03": 23532,
-  "2023-07-04": 23547,
-  "2023-07-05": 23571,
-  "2023-07-06": 23628,
-  "2023-07-07": 23628,
-  "2023-07-08": 23659,
-  "2023-07-09": 23677,
-  "2023-07-10": 23714,
-  "2023-07-11": 23751,
-  "2023-07-12": 23779,
-  "2023-07-13": 23800,
-  "2023-07-14": 23838,
-  "2023-07-15": 23853,
-  "2023-07-16": 23898,
-  "2023-07-17": 23938,
-  "2023-07-18": 23963,
-  "2023-07-19": 24001,
-  "2023-07-20": 24036,
-  "2023-07-21": 24074,
-  "2023-07-22": 24091,
-  "2023-07-23": 24133,
-  "2023-07-24": 24143,
-  "2023-07-25": 24176,
-  "2023-07-26": 24202,
-  "2023-07-27": 24221,
-  "2023-07-28": 24263,
-  "2023-07-29": 24291,
-  "2023-07-30": 24330,
-  "2023-07-31": 24362,
-  "2023-08-01": 24399,
-  "2023-08-02": 24431,
-  "2023-08-03": 24458,
-  "2023-08-04": 24481,
-  "2023-08-05": 24501,
-  "2023-08-06": 24563,
-  "2023-08-07": 24563,
-  "2023-08-08": 24584,
-  "2023-08-09": 24613,
-  "2023-08-10": 24650,
-  "2023-08-11": 24688,
-  "2023-08-12": 24720,
-  "2023-08-13": 24762,
-  "2023-08-14": 24781,
-  "2023-08-15": 24858,
-  "2023-08-16": 24858,
-  "2023-08-17": 24889,
-  "2023-08-18": 24929,
-  "2023-08-19": 24965,
-  "2023-08-20": 25011,
-  "2023-08-21": 25059,
-  "2023-08-22": 25081,
-  "2023-08-23": 25117,
-  "2023-08-24": 25163,
-  "2023-08-25": 25191,
-  "2023-08-26": 25233,
-  "2023-08-27": 25264,
-  "2023-08-28": 25306,
-  "2023-08-29": 25331,
-  "2023-08-30": 25368,
-  "2023-08-31": 25403,
-  "2023-09-01": 25553,
-  "2023-09-02": 25553,
-  "2023-09-03": 25588,
-  "2023-09-04": 25649,
-  "2023-09-05": 25718,
-  "2023-09-06": 25780,
-  "2023-09-07": 25850,
-  "2023-09-08": 25904,
-  "2023-09-09": 25969,
-  "2023-09-10": 26039,
-  "2023-09-11": 26106,
-  "2023-09-12": 26181,
-  "2023-09-13": 26254,
-  "2023-09-14": 26298,
-  "2023-09-15": 26340,
-  "2023-09-16": 26409,
-  "2023-09-17": 26445,
-  "2023-09-18": 26480,
-  "2023-09-19": 26533,
-  "2023-09-20": 26591,
-  "2023-09-21": 26641,
-  "2023-09-22": 26699,
-  "2023-09-23": 26761,
-  "2023-09-24": 26818,
-  "2023-09-25": 26875,
-  "2023-09-26": 26954,
-  "2023-09-27": 27008,
-  "2023-09-28": 27077,
-  "2023-09-29": 27142,
-  "2023-09-30": 27209,
-  "2023-10-01": 27263,
-  "2023-10-02": 27317,
-  "2023-10-03": 27385,
-  "2023-10-04": 27439,
-  "2023-10-05": 27506,
-  "2023-10-06": 27542,
-  "2023-10-07": 27589,
-  "2023-10-08": 27618,
-  "2023-10-09": 27669,
-  "2023-10-10": 27728,
-  "2023-10-11": 27823,
-  "2023-10-12": 27823,
-  "2023-10-13": 27872,
-  "2023-10-14": 27910,
-  "2023-10-15": 27964,
-  "2023-10-16": 28030,
-  "2023-10-17": 28069,
-  "2023-10-18": 28101,
-  "2023-10-19": 28123,
-  "2023-10-20": 28183,
-  "2023-10-21": 28218,
-  "2023-10-22": 28256,
-  "2023-10-23": 28296,
-  "2023-10-24": 28335,
-  "2023-10-25": 28393,
-  "2023-10-26": 28437,
-  "2023-10-27": 28471,
-  "2023-10-28": 28514,
-  "2023-10-29": 28548,
-  "2023-10-30": 28626,
-  "2023-10-31": 28626,
-  "2023-11-01": 28665,
-  "2023-11-02": 28710,
-  "2023-11-03": 28756,
-  "2023-11-04": 28800,
-  "2023-11-05": 28839,
-  "2023-11-06": 28896,
-  "2023-11-07": 28913,
-  "2023-11-08": 28949,
-  "2023-11-09": 28984,
-  "2023-11-10": 29050,
-  "2023-11-11": 29083,
-  "2023-11-12": 29108,
-  "2023-11-13": 29155,
-  "2023-11-14": 29201,
-  "2023-11-15": 29201,
-  "2023-11-16": 29272,
-  "2023-11-17": 29364,
-  "2023-11-18": 29364,
-  "2023-11-19": 29421,
-  "2023-11-20": 29491,
-  "2023-11-21": 29557,
-  "2023-11-22": 29605,
-  "2023-11-23": 29663,
-  "2023-11-24": 29692,
-  "2023-11-25": 29732,
-  "2023-11-26": 29770,
-  "2023-11-27": 29821,
-  "2023-11-28": 29876,
-  "2023-11-29": 29996,
-  "2023-11-30": 29996,
-  "2023-12-01": 30079,
-  "2023-12-02": 30142,
-  "2023-12-03": 30182,
-  "2023-12-04": 30207,
-  "2023-12-05": 30255,
-  "2023-12-06": 30300,
-  "2023-12-07": 30355,
-  "2023-12-08": 30390,
-  "2023-12-09": 30410,
-  "2023-12-10": 30414,
-  "2023-12-11": 30419,
-  "2023-12-12": 30430,
-  "2023-12-13": 30452,
-  "2023-12-14": 30497,
-  "2023-12-15": 30508,
-  "2023-12-16": 30524,
-  "2023-12-17": 30535,
-  "2023-12-18": 30557,
-  "2023-12-19": 30586,
-  "2023-12-20": 30616,
-  "2023-12-21": 30639,
-  "2023-12-22": 30662,
-  "2023-12-23": 30681,
-  "2023-12-24": 30705,
-  "2023-12-25": 30729,
-  "2023-12-26": 30744,
-  "2023-12-27": 30754,
-  "2023-12-30": 30800,
-  "2023-12-31": 30819,
-  "2024-01-01": 30827,
-  "2024-01-02": 30844,
-  "2024-01-03": 30861
+  "2024-01-17": 31092,
+  "date_first_scraped": "2022-05-30",
+  "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
+  "name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
+  "tracks": [
+    {
+      "album": {
+        "name": "room",
+        "url": "https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz"
+      },
+      "artists": [
+        {
+          "name": "chzz!",
+          "url": "https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 222433,
+      "name": "+",
+      "url": "https://open.spotify.com/track/5FZNczPCUh5scxptzYLBTO"
+    },
+    {
+      "album": {
+        "name": "ETERNITY",
+        "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 220733,
+      "name": "2080",
+      "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+    },
+    {
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
+    },
+    {
+      "album": {
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
+      },
+      "artists": [
+        {
+          "name": "blienty",
+          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 163163,
+      "name": "24K (feat. Kvsh, DUT2)",
+      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
+    },
+    {
+      "album": {
+        "name": "28 Reasons - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "28 Reasons",
+      "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224951,
+      "name": "2nd Thots",
+      "url": "https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad"
+      },
+      "artists": [
+        {
+          "name": "Rosy",
+          "url": "https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 191125,
+      "name": "a Bottle of Ros\u00e9",
+      "url": "https://open.spotify.com/track/3eMR0Qz0QJUUMkhwTBujGc"
+    },
+    {
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 1",
+        "url": "https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "YONKO",
+          "url": "https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 235933,
+      "name": "Around (Feat. Yonko)",
+      "url": "https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6"
+    },
+    {
+      "album": {
+        "name": "room",
+        "url": "https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz"
+      },
+      "artists": [
+        {
+          "name": "chzz!",
+          "url": "https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 159115,
+      "name": "artificial man",
+      "url": "https://open.spotify.com/track/6IrkrxPfANv5EkpOwqD2QE"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Kuzi",
+          "url": "https://open.spotify.com/artist/6AhjAXPBLWwHJ8kUGuj9CQ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 143315,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
+    },
+    {
+      "album": {
+        "name": "Born To Be Cool",
+        "url": "https://open.spotify.com/album/5x7gSmfu5kKdJocii6Xdrg"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 247826,
+      "name": "B",
+      "url": "https://open.spotify.com/track/214PYv9UEuGTk2uZwu2caP"
+    },
+    {
+      "album": {
+        "name": "Sobrightttttttt",
+        "url": "https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 147356,
+      "name": "BadBadBad",
+      "url": "https://open.spotify.com/track/1dCJaXzglT0QrLhHyQgvGX"
+    },
+    {
+      "album": {
+        "name": "bag on you",
+        "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 144545,
+      "name": "bag on you",
+      "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
+    },
+    {
+      "album": {
+        "name": "DARKROOM : roommates only",
+        "url": "https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 150000,
+      "name": "bathtub",
+      "url": "https://open.spotify.com/track/2SH4AnYMV9sPXUVPbK1KAl"
+    },
+    {
+      "album": {
+        "name": "Be there",
+        "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"
+      },
+      "artists": [
+        {
+          "name": "DAVII",
+          "url": "https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc"
+        },
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 223008,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg"
+    },
+    {
+      "album": {
+        "name": "Be there",
+        "url": "https://open.spotify.com/album/7AWQVSj3AYCK7kBdrf5ICJ"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/1PbvNmIOnL1ZJgNvxUpomb"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 199920,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/7k9sKYkyH1wLeOVC3C5zsa"
+    },
+    {
+      "album": {
+        "name": "unorthodox",
+        "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
+      },
+      "artists": [
+        {
+          "name": "Devine Channel",
+          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 168160,
+      "name": "Being True (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/0LDZY13bnHSWjEsw3iskTW"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
+    },
+    {
+      "album": {
+        "name": "The Good Days Boys Vol.5",
+        "url": "https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 164042,
+      "name": "blame on you",
+      "url": "https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y"
+    },
+    {
+      "album": {
+        "name": "CONTRAST",
+        "url": "https://open.spotify.com/album/5szQsQrkytMSFtyXT9Z2JO"
+      },
+      "artists": [
+        {
+          "name": "SEORA",
+          "url": "https://open.spotify.com/artist/3ylLAsShwv2xgt8sygaxKT"
+        },
+        {
+          "name": "EunBii",
+          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 255272,
+      "name": "Blur (Prod. Snow-Key)",
+      "url": "https://open.spotify.com/track/48EmbbJ2SI6lX6mDixxkwo"
+    },
+    {
+      "album": {
+        "name": "call me tonight",
+        "url": "https://open.spotify.com/album/1h8YU5oqm0h1c2wIEENiQY"
+      },
+      "artists": [
+        {
+          "name": "Neul",
+          "url": "https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 248420,
+      "name": "call me tonight",
+      "url": "https://open.spotify.com/track/2wNT8UAcAZlABy0gEWoZfL"
+    },
+    {
+      "album": {
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+      },
+      "artists": [
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 194960,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 194960,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/4mPlvNApEXUR6UbNcQj0AY"
+    },
+    {
+      "album": {
+        "name": "Bind",
+        "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 199160,
+      "name": "Chain (Feat. Claire Hau)",
+      "url": "https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7"
+    },
+    {
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276186,
+      "name": "Change (Feat. sogumm)",
+      "url": "https://open.spotify.com/track/37u9cnlyTa27hIEPurW8EI"
+    },
+    {
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 276186,
+      "name": "Change (feat. sogumm)",
+      "url": "https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Naeezy Herr",
+          "url": "https://open.spotify.com/artist/2pK2yChZB3TQmkuBuMt12v"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 213352,
+      "name": "Chit Chat Ting",
+      "url": "https://open.spotify.com/track/3fLFTJnncqbljGsBiF9iSY"
+    },
+    {
+      "album": {
+        "name": "TRAPART",
+        "url": "https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Herr Nayne",
+          "url": "https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 231401,
+      "name": "Choppy",
+      "url": "https://open.spotify.com/track/6aCZBRe2y8fdKGehzthtzj"
+    },
+    {
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 185169,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
+    },
+    {
+      "album": {
+        "name": "room",
+        "url": "https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz"
+      },
+      "artists": [
+        {
+          "name": "chzz!",
+          "url": "https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 224000,
+      "name": "city orgasm",
+      "url": "https://open.spotify.com/track/03XFURik8cjLvlvc2W0gVP"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+    },
+    {
+      "album": {
+        "name": "COLD VIEW",
+        "url": "https://open.spotify.com/album/0yOD2vxIRCtL83xjS9bUZT"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 230625,
+      "name": "COLD VIEW",
+      "url": "https://open.spotify.com/track/0czXUP9ndZayiozj8jH0X1"
+    },
+    {
+      "album": {
+        "name": "Fake Red",
+        "url": "https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 236920,
+      "name": "Come (feat. Dbo)",
+      "url": "https://open.spotify.com/track/6FKIVwqfkELrhOtFh2ozVt"
+    },
+    {
+      "album": {
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
+    },
+    {
+      "album": {
+        "name": "COMFY",
+        "url": "https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S"
+      },
+      "artists": [
+        {
+          "name": "SEOA",
+          "url": "https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF"
+        },
+        {
+          "name": "SZN",
+          "url": "https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 225391,
+      "name": "COMFY",
+      "url": "https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3"
+    },
+    {
+      "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
+    },
+    {
+      "album": {
+        "name": "Born To Be Cool",
+        "url": "https://open.spotify.com/album/5x7gSmfu5kKdJocii6Xdrg"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 216373,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4WOfGo7v2C0Wi6f5cJ5THt"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "album": {
+        "name": "DALLA",
+        "url": "https://open.spotify.com/album/0F3sGK6A0IQ3TVkHrVnrzb"
+      },
+      "artists": [
+        {
+          "name": "Nody Cika",
+          "url": "https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 246318,
+      "name": "DALLA",
+      "url": "https://open.spotify.com/track/4GL4llMWprFXC5AFdCtzNQ"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198910,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+    },
+    {
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
+      },
+      "artists": [
+        {
+          "name": "MRSHLL",
+          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 217151,
+      "name": "DATE NiTE (feat. Yoonmirae)",
+      "url": "https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4r3f6kbozqZ1daPFEvmd0N"
+      },
+      "artists": [
+        {
+          "name": "yey",
+          "url": "https://open.spotify.com/artist/502fuIaKBgR51zNneCKFGj"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161866,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/1iUHDuJ3ZL6HrrgxQNVWF7"
+    },
+    {
+      "album": {
+        "name": "Dawn Call",
+        "url": "https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 193844,
+      "name": "Dawn Call",
+      "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
+    },
+    {
+      "album": {
+        "name": "House of Lies (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0NWeQSWJaihEyBVjvdns8A"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233799,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6bWpJP0DGtSO5r9aWFCYMh"
+    },
+    {
+      "album": {
+        "name": "PALETTE C#505.",
+        "url": "https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8"
+      },
+      "artists": [
+        {
+          "name": "SOUND PALETTE",
+          "url": "https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 216000,
+      "name": "Dejavu (Song by SIM2) (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/5ER4mtPENIKPNxmYCUNxIJ"
+    },
+    {
+      "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+      },
+      "artists": [
+        {
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "album": {
+        "name": "Don't pretend",
+        "url": "https://open.spotify.com/album/7AVQj5RTLOTvoKMPZMBUEi"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "Malitabu",
+          "url": "https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186000,
+      "name": "Don't pretend",
+      "url": "https://open.spotify.com/track/3yvjU1X8MziKtJP0QzqKbe"
+    },
+    {
+      "album": {
+        "name": "Room Stuff",
+        "url": "https://open.spotify.com/album/7Mw6HPaPoDNDRjiTzxEIjL"
+      },
+      "artists": [
+        {
+          "name": "BADROOM",
+          "url": "https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123829,
+      "name": "Door To The Room",
+      "url": "https://open.spotify.com/track/4xaMA6LgSXSJyJv4q5odqy"
+    },
+    {
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 213282,
+      "name": "Down (Feat. DUT2)",
+      "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
+    },
+    {
+      "album": {
+        "name": "Downy",
+        "url": "https://open.spotify.com/album/5BJ0wrvqRCT6CaczWJiaWw"
+      },
+      "artists": [
+        {
+          "name": "Jay Moon",
+          "url": "https://open.spotify.com/artist/7AndKWSFHKgM4NExxp2dTn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 210309,
+      "name": "Downy",
+      "url": "https://open.spotify.com/track/662jfaBSLrpa5UUKkbxURF"
+    },
+    {
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
+      },
+      "artists": [
+        {
+          "name": "MRSHLL",
+          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 237215,
+      "name": "DRiNK 2 4GET (feat. oceanfromtheblue)",
+      "url": "https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx"
+    },
+    {
+      "album": {
+        "name": "S.O.S (Sink or Swim)",
+        "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 183720,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/0K4VO0YFQjz846cR1PwawT"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185324,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/75mdXrYqhqmf5XFJSnMxI5"
+    },
+    {
+      "album": {
+        "name": "Nvllish",
+        "url": "https://open.spotify.com/album/1pJuT5wt6bowBqdTtdiBCq"
+      },
+      "artists": [
+        {
+          "name": "Nvll",
+          "url": "https://open.spotify.com/artist/3Wt11uU3dWk7lBxTmBKMBD"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 147857,
+      "name": "DWGU",
+      "url": "https://open.spotify.com/track/5WZl00wiXEQ1ZfOwpicbj6"
+    },
+    {
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 188548,
+      "name": "Easily(feat.MELOH)",
+      "url": "https://open.spotify.com/track/5tB6uXVvuviruwye8meGGj"
+    },
+    {
+      "album": {
+        "name": "EASY (feat. ELO)",
+        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
+      },
+      "artists": [
+        {
+          "name": "Kass",
+          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 165106,
+      "name": "EASY (feat. ELO)",
+      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
+    },
+    {
+      "album": {
+        "name": "En'dorphin",
+        "url": "https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "ilipp",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 158000,
+      "name": "En'dorphin",
+      "url": "https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD"
+    },
+    {
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/7fRY3ap1PANqSM1bhbfCQI"
+      },
+      "artists": [
+        {
+          "name": "doe.cent",
+          "url": "https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 176693,
+      "name": "Essential",
+      "url": "https://open.spotify.com/track/3H0nxyYFpzMPXGu8JdOS39"
+    },
+    {
+      "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "COCONA",
+          "url": "https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 157173,
+      "name": "Evident",
+      "url": "https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7"
+    },
+    {
+      "album": {
+        "name": "VROOM",
+        "url": "https://open.spotify.com/album/7keAD81agaGb7GmspbdMXK"
+      },
+      "artists": [
+        {
+          "name": "UMiN",
+          "url": "https://open.spotify.com/artist/4ZO41R4CUY3lR4CC0s8I9r"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 201416,
+      "name": "eww",
+      "url": "https://open.spotify.com/track/4wDHrwMYHdd8cQ4TMoEBYe"
+    },
+    {
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183149,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/2BW5ObmfJvP8zBslwAM1qV"
+    },
+    {
+      "album": {
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+    },
+    {
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/2DfyWdoLS1GO89aUyh05WJ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 196800,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/41xVl4Xpbmgb1u5ypTNuZi"
+    },
+    {
+      "album": {
+        "name": "KEUNG",
+        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "Yescoba",
+          "url": "https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 232435,
+      "name": "Extraordinary (feat. Yescoba)",
+      "url": "https://open.spotify.com/track/0y4qgb9SmTnyBPAqaEztJN"
+    },
+    {
+      "album": {
+        "name": "FALL IN LUST",
+        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "FALL IN LUST",
+      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS"
+      },
+      "artists": [
+        {
+          "name": "BAYLEE",
+          "url": "https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 168214,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 230414,
+      "name": "Feature (feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL"
+      },
+      "artists": [
+        {
+          "name": "OWLER",
+          "url": "https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 141500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i"
+    },
+    {
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        },
+        {
+          "name": "BAYLEE",
+          "url": "https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 184000,
+      "name": "First Time (Feat. BAYLEE)",
+      "url": "https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9"
+    },
+    {
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+    },
+    {
+      "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Hwanhee",
+          "url": "https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223267,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/6ka6rd0mjjn0tAbbHZIm3U"
+    },
+    {
+      "album": {
+        "name": "myworld",
+        "url": "https://open.spotify.com/album/3TCvBEad5CTLvGNDQQIyo4"
+      },
+      "artists": [
+        {
+          "name": "h3re",
+          "url": "https://open.spotify.com/artist/0smznozh1LvtEPKuUunm6c"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 172579,
+      "name": "free",
+      "url": "https://open.spotify.com/track/3FnIchDsti3r9sRyYOOiRt"
+    },
+    {
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
+    },
+    {
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI"
+    },
+    {
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "album": {
+        "name": "glass",
+        "url": "https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 208740,
+      "name": "glass",
+      "url": "https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN"
+    },
+    {
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 185751,
+      "name": "Goddamn",
+      "url": "https://open.spotify.com/track/607eyydbnlF3XKaMKpbmBh"
+    },
+    {
+      "album": {
+        "name": "Five Senses",
+        "url": "https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 219599,
+      "name": "Golden Time",
+      "url": "https://open.spotify.com/track/6RYMQoaFCfmgZPOZbMiEYM"
+    },
+    {
+      "album": {
+        "name": "SOULBYSEL Compilation 04",
+        "url": "https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "popeye",
+          "url": "https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 190457,
+      "name": "GOOD BYE SONG",
+      "url": "https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2z8pYpESu09LMi9aDSk1fZ"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192893,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6QyBEmvY2uQvorfZ2pmo95"
+    },
+    {
+      "album": {
+        "name": "Bad Girlfriend (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/3XkngC33ucHUrYmzczTiLD"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 179977,
+      "name": "Grxxdy",
+      "url": "https://open.spotify.com/track/1WAmQJRFZY6HPROxzuQnRb"
+    },
+    {
+      "album": {
+        "name": "Gunner",
+        "url": "https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 176126,
+      "name": "Gunner",
+      "url": "https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF"
+    },
+    {
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 224000,
+      "name": "Harujongil",
+      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+    },
+    {
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "Harujongil",
+      "url": "https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE"
+    },
+    {
+      "album": {
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
+      },
+      "artists": [
+        {
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "album": {
+        "name": "Hated you",
+        "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 209433,
+      "name": "Hated you",
+      "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
+    },
+    {
+      "album": {
+        "name": "haze",
+        "url": "https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM"
+      },
+      "artists": [
+        {
+          "name": "GRACY \uadf8\ub808\uc528",
+          "url": "https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 170825,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g"
+    },
+    {
+      "album": {
+        "name": "Fly me away",
+        "url": "https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ"
+      },
+      "artists": [
+        {
+          "name": "OA",
+          "url": "https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191773,
+      "name": "Heart is",
+      "url": "https://open.spotify.com/track/1ausSMkofY5DUmCPvmO4F2"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 226873,
+      "name": "Henny",
+      "url": "https://open.spotify.com/track/5hTcZKCWKGIH6ykVvNYqYX"
+    },
+    {
+      "album": {
+        "name": "duL",
+        "url": "https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW"
+      },
+      "artists": [
+        {
+          "name": "LLANO",
+          "url": "https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd"
+        },
+        {
+          "name": "Curren",
+          "url": "https://open.spotify.com/artist/1oKl2IxHi8Dwx4iTaBGVob"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 174466,
+      "name": "heowoojeog (Feat. Curren)",
+      "url": "https://open.spotify.com/track/5Ic9AAaaGl73otooQP5Gyg"
+    },
+    {
+      "album": {
+        "name": "Hometown, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7JQLAWDoYFobl6WKHHLYrZ"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 231923,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/4leGH4NBUcAeresVVORW40"
+    },
+    {
+      "album": {
+        "name": "Sobrightttttttt",
+        "url": "https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 138493,
+      "name": "Holdinon",
+      "url": "https://open.spotify.com/track/32uA3CHH8NmFVGNNAzrHOv"
+    },
+    {
+      "album": {
+        "name": "Virus Mix",
+        "url": "https://open.spotify.com/album/3eSzJfr41r54E9HS3AJXAV"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 219500,
+      "name": "Homework!",
+      "url": "https://open.spotify.com/track/2NZFb3ILAY5gmdHOMxTC3l"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5SuzqujsmDuJ6ECSPrDDAQ"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
+    },
+    {
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+    },
+    {
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 213000,
+      "name": "I want to (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
+    },
+    {
+      "album": {
+        "name": "Not my fault",
+        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
+      },
+      "artists": [
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214319,
+      "name": "I wonder (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
+    },
+    {
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/26vcAIAnkT3d7i9B8gtpTy"
+    },
+    {
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 198069,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2JYbQiOt1pX4gdOOCRem8A"
+    },
+    {
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
+    },
+    {
+      "album": {
+        "name": "IN THE DARK",
+        "url": "https://open.spotify.com/album/2NlJs4pg729VkN4mzveD2D"
+      },
+      "artists": [
+        {
+          "name": "Kik5o",
+          "url": "https://open.spotify.com/artist/4la6gdnmFGXMHwFuRmpCwj"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 234440,
+      "name": "IN THE DARK",
+      "url": "https://open.spotify.com/track/6BxLFLD1ccee0baZFxHYAG"
+    },
+    {
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218092,
+      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
+      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "album": {
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "album": {
+        "name": "Look! What Happened To Love?!",
+        "url": "https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144360,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/0b6WiWOtIetuh2257PVLL8"
+    },
+    {
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "album": {
+        "name": "EMO #1",
+        "url": "https://open.spotify.com/album/1wwdj2dlirH6UPsQomN4zh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 217488,
+      "name": "Justin Bieber",
+      "url": "https://open.spotify.com/track/37jtYxfBVcVkazwHxUI4hn"
+    },
+    {
+      "album": {
+        "name": "EMO #1",
+        "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217489,
+      "name": "Justin Bieber (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
+    },
+    {
+      "album": {
+        "name": "The Good Days Boys Vol.6",
+        "url": "https://open.spotify.com/album/6SUU76CAiFelXZCXITjoVC"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178321,
+      "name": "Keep Rollin'",
+      "url": "https://open.spotify.com/track/4fE4Bf56gcLB4xz91fz36E"
+    },
+    {
+      "album": {
+        "name": "KILL YOUR DARLINGS",
+        "url": "https://open.spotify.com/album/3duHcgxP9gzaqKZpTaFcFm"
+      },
+      "artists": [
+        {
+          "name": "Panda Gomm",
+          "url": "https://open.spotify.com/artist/6GghubkP0c1FPGeffPxTWZ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217915,
+      "name": "KILL YOUR DARLINGS",
+      "url": "https://open.spotify.com/track/4uxMRH0kYdYd17d4m3muGA"
+    },
+    {
+      "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
+    },
+    {
+      "album": {
+        "name": "KEUNG",
+        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 191667,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4KnyT34T9Oj013VwWnhRcj"
+      },
+      "artists": [
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 194308,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1itk8LxTTvJidBjwbMkeie"
+    },
+    {
+      "album": {
+        "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
+        "url": "https://open.spotify.com/album/5EIwnlCXNwajZpFC6o0tJ8"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        },
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        },
+        {
+          "name": "HENG",
+          "url": "https://open.spotify.com/artist/2P47IsuTElx3uXm1vKWh2N"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208566,
+      "name": "Like Lovers (feat. Seol Hoseung (SURL) & HENG)",
+      "url": "https://open.spotify.com/track/1oeGqU7j0HEyK19gty0SUY"
+    },
+    {
+      "album": {
+        "name": "Like The First Time",
+        "url": "https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji"
+      },
+      "artists": [
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 140177,
+      "name": "Like The First Time",
+      "url": "https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1"
+    },
+    {
+      "album": {
+        "name": "TRAPART",
+        "url": "https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 186085,
+      "name": "Link Up",
+      "url": "https://open.spotify.com/track/5GRwvD8VBGBzjfwrMhYyiU"
+    },
+    {
+      "album": {
+        "name": "LOVIN'",
+        "url": "https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 179933,
+      "name": "Lose myself to you",
+      "url": "https://open.spotify.com/track/0JIhIwqs8LksShUI4ZJBO9"
+    },
+    {
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277928,
+      "name": "Love Kills",
+      "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "album": {
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+      },
+      "artists": [
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+    },
+    {
+      "album": {
+        "name": "LUCID DREAM",
+        "url": "https://open.spotify.com/album/6IZWPcVfecATbfDL5g0P7Q"
+      },
+      "artists": [
+        {
+          "name": "Jiyoung Kang",
+          "url": "https://open.spotify.com/artist/7cEG2unrO9IXQZcVxK7WNV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 181867,
+      "name": "LUCID DREAM",
+      "url": "https://open.spotify.com/track/4G7lfJ2BwHgwhPFuyF1Ix0"
+    },
+    {
+      "album": {
+        "name": "LYING",
+        "url": "https://open.spotify.com/album/6yjppE7WDwovMGMjEQ6Kq6"
+      },
+      "artists": [
+        {
+          "name": "KHYO",
+          "url": "https://open.spotify.com/artist/6qjs1HBGVhe68VFIUdRlNR"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 208831,
+      "name": "LYING",
+      "url": "https://open.spotify.com/track/1NpIpw2JRLaR0SNRGcRE4t"
+    },
+    {
+      "album": {
+        "name": "Melting Point",
+        "url": "https://open.spotify.com/album/56YYIj6lRUN1DAzOIKm9Sg"
+      },
+      "artists": [
+        {
+          "name": "NiiHWA",
+          "url": "https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 221280,
+      "name": "Melting Point",
+      "url": "https://open.spotify.com/track/44VtzjjjBww4Rd9ypV8mNl"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/6hblDcscw3QMHXdAYtCqlp"
+      },
+      "artists": [
+        {
+          "name": "PEAXE MARKET",
+          "url": "https://open.spotify.com/artist/1i7On8URmBgs8EPqgrhRae"
+        },
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        },
+        {
+          "name": "sonza",
+          "url": "https://open.spotify.com/artist/69EFGR8J04D07wCif8lGyy"
+        },
+        {
+          "name": "TREASURE MAKER",
+          "url": "https://open.spotify.com/artist/2TIwj5HPW3tKdefZMlsXWX"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 132633,
+      "name": "Miracle (feat. Nieah & sonza) (with TREASURE MAKER)",
+      "url": "https://open.spotify.com/track/4Fqy6hVJNzAH1FFl0HSQ3w"
+    },
+    {
+      "album": {
+        "name": "YAMANGKKUN",
+        "url": "https://open.spotify.com/album/2PIJtqEPdEL81wsf9O2TKl"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 196441,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/1JplmXHjwiwtHCEHuCIwFV"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5xAfHVVvl1wbolDNpEk5h7"
+      },
+      "artists": [
+        {
+          "name": "MIXXXD BY",
+          "url": "https://open.spotify.com/artist/5TrpyeMunSR0tMqzxdvFVU"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/4lzOzwomlLCzI2fuITPsEs"
+    },
+    {
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
+    },
+    {
+      "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
+    },
+    {
+      "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/3AL0qHWE5sF8SYY273nFXX"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/7ut7SI5v0jHaU8xAxZVFjt"
+    },
+    {
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR"
+      },
+      "artists": [
+        {
+          "name": "ChaMane",
+          "url": "https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-31",
+      "duration_ms": 163500,
+      "name": "Neon Seoul",
+      "url": "https://open.spotify.com/track/0kNQe3euopbVh8ZgNPUsj4"
+    },
+    {
+      "album": {
+        "name": "TRAPART",
+        "url": "https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254203,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/2zJwAzKswW03XDPuK6vuZ2"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 196000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
+    },
+    {
+      "album": {
+        "name": "Yearbook 2022",
+        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+    },
+    {
+      "album": {
+        "name": "New Edition 41",
+        "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "album": {
+        "name": "New Edition 41",
+        "url": "https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC"
+    },
+    {
+      "album": {
+        "name": "SOULBYSEL Compilation 03",
+        "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153686,
+      "name": "nvrmnd",
+      "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
+    },
+    {
+      "album": {
+        "name": "Conquest",
+        "url": "https://open.spotify.com/album/0dL4MSbt5EwFdAXrLZOGTm"
+      },
+      "artists": [
+        {
+          "name": "gracie",
+          "url": "https://open.spotify.com/artist/5cEucK6zCdSeFyB5899bKC"
+        },
+        {
+          "name": "Junny",
+          "url": "https://open.spotify.com/artist/0a6XVA4t4UOSRbjHQ2JtXk"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 236622,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/4kMLkIKJRxD671HbomsF0C"
+    },
+    {
+      "album": {
+        "name": "Lost In Blue",
+        "url": "https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5"
+      },
+      "artists": [
+        {
+          "name": "COE",
+          "url": "https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173266,
+      "name": "OHD",
+      "url": "https://open.spotify.com/track/0dGSIYD4iHTjezagAOsYPh"
+    },
+    {
+      "album": {
+        "name": "Old School Love",
+        "url": "https://open.spotify.com/album/1nbRCbY97eD5ck4PlFISAB"
+      },
+      "artists": [
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 172168,
+      "name": "Old School Love",
+      "url": "https://open.spotify.com/track/6XjjWvWrqmTTS56upASKXN"
+    },
+    {
+      "album": {
+        "name": "How",
+        "url": "https://open.spotify.com/album/4coGyWNmRa8LQf3r1M2uAj"
+      },
+      "artists": [
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 200160,
+      "name": "On the Move",
+      "url": "https://open.spotify.com/track/67fJZxkkyzjDie41PzN2lg"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/7ieSVumUnovsa8igpHr1eY"
+      },
+      "artists": [
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        },
+        {
+          "name": "TOMMY YANG",
+          "url": "https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 210999,
+      "name": "Overdose (feat. Tommy Strate)",
+      "url": "https://open.spotify.com/track/5ZuKbf0TrWoa3mc1Arcx3Y"
+    },
+    {
+      "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4BJk2yNo87TZDZdUvvhqp9"
+      },
+      "artists": [
+        {
+          "name": "Alisha",
+          "url": "https://open.spotify.com/artist/52Z99H2LOLlhCqlHMGD36Z"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 187040,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6gcuViAjjCMPTvNsi505m3"
+    },
+    {
+      "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 225974,
+      "name": "Pass (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/4PXsYs6HSzCbfvG8nfYQJx"
+    },
+    {
+      "album": {
+        "name": "oceanfromtheblue",
+        "url": "https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 286625,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/3fbKBCRcSEKUie3jEaxBgC"
+    },
+    {
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "Owell Mood",
+          "url": "https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 206189,
+      "name": "Perfume(feat.Owell Mood)",
+      "url": "https://open.spotify.com/track/0KY7CFlGm0CUTZwFyRiBlv"
+    },
+    {
+      "album": {
+        "name": "Lost In Blue",
+        "url": "https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5"
+      },
+      "artists": [
+        {
+          "name": "COE",
+          "url": "https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 177560,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/2Pt0qKuoUA3M82VJbvmqEv"
+    },
+    {
+      "album": {
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185729,
+      "name": "Pick up your phone (Feat. MOON)",
+      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+    },
+    {
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253411,
+      "name": "Point (feat. Loopy)",
+      "url": "https://open.spotify.com/track/1mKvuX59nIvGwGpypwAy7k"
+    },
+    {
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253411,
+      "name": "Point (feat. Loopy)",
+      "url": "https://open.spotify.com/track/2T5mSXXCSAz7Nj1yLIJG1F"
+    },
+    {
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
+      },
+      "artists": [
+        {
+          "name": "MRSHLL",
+          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 183230,
+      "name": "PuZZLE",
+      "url": "https://open.spotify.com/track/56D3iGXn2ybnhgwzN1fSud"
+    },
+    {
+      "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 189000,
+      "name": "QUIET DOWN",
+      "url": "https://open.spotify.com/track/0YAcvxeJwf0jkcdLGTdiKx"
+    },
+    {
+      "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "album": {
+        "name": "Remained scent",
+        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186755,
+      "name": "Remained scent",
+      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 206613,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/23oMQhTRUBT4TlN4bHdzCx"
+    },
+    {
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206613,
+      "name": "RING RING",
+      "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267330,
+      "name": "ROSE (feat. Skinny Brown, Homeboy)",
+      "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 194857,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/19gWe787SaEXAoqOHJojds"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 148000,
+      "name": "Runners",
+      "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 189311,
+      "name": "SAD WALK (feat. sunwoojunga)",
+      "url": "https://open.spotify.com/track/0OxwazYebgNjwxFgGh6bu9"
+    },
+    {
+      "album": {
+        "name": "SCAR FACE",
+        "url": "https://open.spotify.com/album/3LEM5tpNQgPRE4qKbeCa7G"
+      },
+      "artists": [
+        {
+          "name": "nowimyoung",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "SUDO",
+          "url": "https://open.spotify.com/artist/0KLEGOxFdkllQF972DAiPU"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-25",
+      "duration_ms": 170541,
+      "name": "SCAR FACE",
+      "url": "https://open.spotify.com/track/3FaAn2OgqMklhl9y7M44Un"
+    },
+    {
+      "album": {
+        "name": "SEESAW",
+        "url": "https://open.spotify.com/album/3TtYIXwvVUZF2NiGI3T84U"
+      },
+      "artists": [
+        {
+          "name": "s/s",
+          "url": "https://open.spotify.com/artist/4YkQQOiBiIAhgvbTzub874"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 210048,
+      "name": "Seesaw (Feat. SUMIN)",
+      "url": "https://open.spotify.com/track/6HfLDGSvW6ZdsRI80cd6MV"
+    },
+    {
+      "album": {
+        "name": "Seiren",
+        "url": "https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq"
+      },
+      "artists": [
+        {
+          "name": "Seiren",
+          "url": "https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 182070,
+      "name": "Seiren",
+      "url": "https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/1yrGwTuSYORDMD7kIvAKNK"
+    },
+    {
+      "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "album": {
+        "name": "Show me up",
+        "url": "https://open.spotify.com/album/7jekot5UJwV1GL7YQu2J1l"
+      },
+      "artists": [
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 185040,
+      "name": "Show me up (Prod. TII)",
+      "url": "https://open.spotify.com/track/6ldGBHz01zDpodf7f310Rb"
+    },
+    {
+      "album": {
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
+      },
+      "artists": [
+        {
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 167500,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/2Oygz6GbZrGjUgfyXSxZLO"
+    },
+    {
+      "album": {
+        "name": "Sobrightttttttt",
+        "url": "https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 107926,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4l40k5B6eSdICiFtc5b8CR"
+    },
+    {
+      "album": {
+        "name": "Distrust",
+        "url": "https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU"
+      },
+      "artists": [
+        {
+          "name": "PINWHEEL",
+          "url": "https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 199906,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8"
+    },
+    {
+      "album": {
+        "name": "Sobrightttttttt",
+        "url": "https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 153000,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/1Phh7MO0sxhlyXdzhrib2s"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 234883,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/0FYutpyGWa09fFjJ0Kx2mH"
+    },
+    {
+      "album": {
+        "name": "SORANAN BAM (NOISY NIGHT)",
+        "url": "https://open.spotify.com/album/6jrGR0gnwHHjacUJ5B02uc"
+      },
+      "artists": [
+        {
+          "name": "Im DAI",
+          "url": "https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 206906,
+      "name": "SORANAN BAM (NOISY NIGHT)",
+      "url": "https://open.spotify.com/track/3huV5O3DJMTq184C4TKtxi"
+    },
+    {
+      "album": {
+        "name": "FL1P",
+        "url": "https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 221559,
+      "name": "SORRY (1000)",
+      "url": "https://open.spotify.com/track/7nxsVh3ar9i4KJU0wS2v3F"
+    },
+    {
+      "album": {
+        "name": "4:04AM",
+        "url": "https://open.spotify.com/album/2isxqvNnQwwtaqdDCkCBqz"
+      },
+      "artists": [
+        {
+          "name": "SWRY",
+          "url": "https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 246677,
+      "name": "STAY UP (feat. OLNL)",
+      "url": "https://open.spotify.com/track/0FGuK7FQ5uXAtVUPpPXKhu"
+    },
+    {
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "album": {
+        "name": "WHY DO YOU",
+        "url": "https://open.spotify.com/album/6YTlYnl0jbCrFrig3fXlT3"
+      },
+      "artists": [
+        {
+          "name": "Jane B",
+          "url": "https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 151037,
+      "name": "Stupid love songs",
+      "url": "https://open.spotify.com/track/5679QcuvT2ZamHbyUPq4mV"
+    },
+    {
+      "album": {
+        "name": "Fly me away",
+        "url": "https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ"
+      },
+      "artists": [
+        {
+          "name": "OA",
+          "url": "https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 204213,
+      "name": "Summer Rose",
+      "url": "https://open.spotify.com/track/4brUMG3m8vli4aWgx5yfM5"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
+      },
+      "artists": [
+        {
+          "name": "Wildberry",
+          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+        },
+        {
+          "name": "EunBii",
+          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 198000,
+      "name": "Sunrise (Feat. EunBii)",
+      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
+    },
+    {
+      "album": {
+        "name": "Sunset to Sunrise",
+        "url": "https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo"
+      },
+      "artists": [
+        {
+          "name": "YNR",
+          "url": "https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 154000,
+      "name": "Sunset to Sunrise",
+      "url": "https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61"
+    },
+    {
+      "album": {
+        "name": "CLAASSIC",
+        "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217922,
+      "name": "SWEATY",
+      "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "album": {
+        "name": "Sobrightttttttt",
+        "url": "https://open.spotify.com/album/0jUrrsr9cYJKS6Y6zKEcZ9"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218333,
+      "name": "Take a waltz",
+      "url": "https://open.spotify.com/track/66Q4XG9xGMMibKuJmtixyn"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/7aOP2H0xNemQHnRwtQu3cr"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 150000,
+      "name": "Take Me (prod. YEGNY & YOHANKIM)",
+      "url": "https://open.spotify.com/track/6v9fe6L2yXvJw3jqJliQwJ"
+    },
+    {
+      "album": {
+        "name": "Tats",
+        "url": "https://open.spotify.com/album/1sErkgeZfvcZog5HUHflat"
+      },
+      "artists": [
+        {
+          "name": "BADROOM",
+          "url": "https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 226000,
+      "name": "Tats",
+      "url": "https://open.spotify.com/track/6hyzfmjGcZlsGBJT7VrLMv"
+    },
+    {
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "album": {
+        "name": "Theodore (feat. SIKBOY)",
+        "url": "https://open.spotify.com/album/4213u333jQgHEguLcH2rl5"
+      },
+      "artists": [
+        {
+          "name": "MONIKA",
+          "url": "https://open.spotify.com/artist/5meEvkTLK0RwePJkMngINM"
+        },
+        {
+          "name": "Sikboy",
+          "url": "https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 177120,
+      "name": "Theodore (feat. SIKBOY)",
+      "url": "https://open.spotify.com/track/6VIyO0VQs0L9Du61buLkVU"
+    },
+    {
+      "album": {
+        "name": "Therapy Session",
+        "url": "https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "MRSHLL",
+          "url": "https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 186600,
+      "name": "Therapy (feat. MRSHLL)",
+      "url": "https://open.spotify.com/track/7mSrPHeHxpxnIkc7M1k4pT"
+    },
+    {
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263592,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
+    },
+    {
+      "album": {
+        "name": "TIME DIFFERENCE",
+        "url": "https://open.spotify.com/album/5rmN7rleTohEeHp3cUUpQX"
+      },
+      "artists": [
+        {
+          "name": "AARON",
+          "url": "https://open.spotify.com/artist/6xYGndMhmSaDbRZX97FWE7"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-30",
+      "duration_ms": 197552,
+      "name": "TIME DIFFERENCE",
+      "url": "https://open.spotify.com/track/18mvw5N4MiiRyWePhgPN8X"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187716,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/5LgzmmzIXRzmwEmCLYKamI"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 187716,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 1",
+        "url": "https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 228826,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/32oPFbO7aZjLjtCozxKQDw"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 206399,
+      "name": "Turn On (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
+    },
+    {
+      "album": {
+        "name": "2021 Works: 02",
+        "url": "https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK"
+      },
+      "artists": [
+        {
+          "name": "WR",
+          "url": "https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf"
+        },
+        {
+          "name": "gayon1mo",
+          "url": "https://open.spotify.com/artist/1oZXmOiAhf8LDBooBpUyHY"
+        },
+        {
+          "name": "Leff",
+          "url": "https://open.spotify.com/artist/43JfM0mbZHC2iw9SJYqqPy"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 192000,
+      "name": "Under the starlight (feat. gayon1mo, Leff)",
+      "url": "https://open.spotify.com/track/4Q4HGuQn3hl9jmYCJXPX9H"
+    },
+    {
+      "album": {
+        "name": "To City",
+        "url": "https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA"
+      },
+      "artists": [
+        {
+          "name": "Horace",
+          "url": "https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240000,
+      "name": "Urban Girl",
+      "url": "https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd"
+    },
+    {
+      "album": {
+        "name": "FL1P",
+        "url": "https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 198184,
+      "name": "VANESSA",
+      "url": "https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv"
+    },
+    {
+      "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 204374,
+      "name": "VLACK N VLUE",
+      "url": "https://open.spotify.com/track/2ymij4pGcq8mL1NyGIpAGw"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "album": {
+        "name": "Walk along",
+        "url": "https://open.spotify.com/album/0hT3EUgHkR9uks37SlT7bI"
+      },
+      "artists": [
+        {
+          "name": "Nody Cika",
+          "url": "https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 203625,
+      "name": "Walk along",
+      "url": "https://open.spotify.com/track/5Sv8HzkZnp3L7oBOHTPvKb"
+    },
+    {
+      "album": {
+        "name": "The Good Days Boys Vol.6",
+        "url": "https://open.spotify.com/album/6SUU76CAiFelXZCXITjoVC"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 179076,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/0bD2HMaG0QeruS7ahVTc0b"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/5k837IWARGZIaG4rQSS6hi"
+      },
+      "artists": [
+        {
+          "name": "Shower System",
+          "url": "https://open.spotify.com/artist/7xJ3JEzp3mVTHgWVtuKWv5"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173195,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3MUX4QV6VWySFkihjKzU93"
+    },
+    {
+      "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe"
+    },
+    {
+      "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/3VQbyEZSFxmZveA9dabFJM"
+      },
+      "artists": [
+        {
+          "name": "Risso",
+          "url": "https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 161293,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/7vkDQedL9mp2ItJM98N7zB"
+    },
+    {
+      "album": {
+        "name": "QUESTIONS",
+        "url": "https://open.spotify.com/album/3Jlslc3LjT6OKGv51O1g32"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "LILOOP",
+          "url": "https://open.spotify.com/artist/6iKrHUvFuVvoDPYb2AjtgS"
+        },
+        {
+          "name": "CLO\uffe6D",
+          "url": "https://open.spotify.com/artist/7uZssMIcJngQSZg1lyq7mB"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 229430,
+      "name": "WAY",
+      "url": "https://open.spotify.com/track/2MCDkhPAa7FYexf8zkO4cR"
+    },
+    {
+      "album": {
+        "name": "S.O.S (Sink or Swim)",
+        "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Wet The Bed",
+      "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
+    },
+    {
+      "album": {
+        "name": "White Lie",
+        "url": "https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 204000,
+      "name": "White Lie (feat. GI$T)",
+      "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
+    },
+    {
+      "album": {
+        "name": "White Snow",
+        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "White Snow (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
+    },
+    {
+      "album": {
+        "name": "Wild Dreams",
+        "url": "https://open.spotify.com/album/0RZRW5nSYteKyqKAfiCkGI"
+      },
+      "artists": [
+        {
+          "name": "V1VA",
+          "url": "https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 135554,
+      "name": "Wild Dreams",
+      "url": "https://open.spotify.com/track/2K0tO1NRmVdnPt5HIs8Q7w"
+    },
+    {
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+    },
+    {
+      "album": {
+        "name": "WINTER IS COMING",
+        "url": "https://open.spotify.com/album/3GBbcv53sfblBEAjjjhMMs"
+      },
+      "artists": [
+        {
+          "name": "M!KYLE",
+          "url": "https://open.spotify.com/artist/0X0jbwqUCjJ0oNrWwTNx29"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 188906,
+      "name": "WINTER IS COMING",
+      "url": "https://open.spotify.com/track/7xdk14qIhI0g3EPD1719JV"
+    },
+    {
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Wishing On You",
+      "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221834,
+      "name": "woo ah",
+      "url": "https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221834,
+      "name": "woo ah",
+      "url": "https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0"
+    },
+    {
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 211469,
+      "name": "XYZ",
+      "url": "https://open.spotify.com/track/5PGcigTxmOupyDeAp8lnFn"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv"
+    },
+    {
+      "album": {
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244153,
+      "name": "YOU KNOW (Feat. Okasian)",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "album": {
+        "name": "\ubc24\ubc24\ubc24 2:30 am",
+        "url": "https://open.spotify.com/album/5n0TI35HW4A42CqPtbcQoj"
+      },
+      "artists": [
+        {
+          "name": "Boni",
+          "url": "https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191739,
+      "name": "\ubc24\ubc24\ubc24 2:30 am",
+      "url": "https://open.spotify.com/track/2Jt5DoVuJ4PIBiBlg8fUXM"
+    },
+    {
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 243492,
+      "name": "\uc804\ud654\uae30\ub97c \uaebc\ub194 Turn Off Your Phone (feat. Elo) [Remix]",
+      "url": "https://open.spotify.com/track/35cLEBxDOme6iln8X7IxVe"
+    },
+    {
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTKHCqejn1Vg"
 }

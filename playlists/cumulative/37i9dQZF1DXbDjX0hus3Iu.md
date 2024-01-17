@@ -4,7 +4,7 @@
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-149 songs - 11 hr 39 min
+150 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 | 2020-11-03 |  |
 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 | 2020-11-03 |  |
 | [Goin' Down South](https://open.spotify.com/track/1ReIIb1zpDCKTod6GSM6Bm) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [The Early Years](https://open.spotify.com/album/3aEolpFqeEVhqUvcV5TaCJ) | 6:10 | 2020-11-03 | 2022-11-13 |
+| [Goin' Down South](https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7) | 6:10 | 2023-01-18 |  |
 | [Goin' Down South](https://open.spotify.com/track/3G1JcIdil3Jgxat0AdwSfR) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq) | 6:10 | 2020-11-03 | 2022-07-29 |
 | [Goin' Down South](https://open.spotify.com/track/6a8zQOJTMePV89Zp6LV8lD) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/4i4ExrDUBLGaPT8Kvbo3f1) | 6:10 | 2020-11-03 | 2023-12-24 |
 | [Green Grass & High Tides \- Remastered](https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [Best Of...Green Grass & High Tides](https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd) | 9:46 | 2020-11-03 |  |
@@ -91,7 +92,7 @@
 | [Midnight Rider](https://open.spotify.com/track/23ZOiEUix1FsthnLfpWXqj) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back \(Deluxe Edition\)](https://open.spotify.com/album/3UMtaez6qiiilTt74ypXXT) | 4:27 | 2020-11-03 |  |
 | [Midnight Rider](https://open.spotify.com/track/6T21PyniEP4FDxZJo7RgBN) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Blues for Kids](https://open.spotify.com/album/2oAR2g9s89eaJiaquuTPtC) | 4:27 | 2020-11-03 | 2022-11-13 |
 | [Midnight Rider](https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back](https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23) | 4:28 | 2020-11-03 | 2022-07-29 |
-| [Mind Bender](https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 4:16 | 2020-11-03 |  |
+| [Mind Bender](https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 4:16 | 2020-11-03 | 2024-01-11 |
 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 | 2020-11-03 |  |
 | [Oh, Atlanta](https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 3:29 | 2020-11-03 |  |
 | [On The Hunt](https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Nuthin' Fancy](https://open.spotify.com/album/6SIQDipZD7xtkwnlS5FvQx) | 5:28 | 2020-11-03 | 2023-01-19 |

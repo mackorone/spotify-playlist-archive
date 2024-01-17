@@ -1,284 +1,541 @@
 {
-  "2023-03-25": 68370,
-  "2023-03-26": 82363,
-  "2023-03-27": 89794,
-  "2023-03-28": 95468,
-  "2023-03-29": 102014,
-  "2023-03-30": 111469,
-  "2023-03-31": 111469,
-  "2023-04-01": 117561,
-  "2023-04-02": 122014,
-  "2023-04-03": 125732,
-  "2023-04-04": 129902,
-  "2023-04-05": 136840,
-  "2023-04-06": 141016,
-  "2023-04-07": 144615,
-  "2023-04-09": 153243,
-  "2023-04-10": 156910,
-  "2023-04-11": 162506,
-  "2023-04-12": 162506,
-  "2023-04-13": 165478,
-  "2023-04-14": 168239,
-  "2023-04-15": 170496,
-  "2023-04-16": 172954,
-  "2023-04-17": 175263,
-  "2023-04-18": 177054,
-  "2023-04-19": 179075,
-  "2023-04-20": 180889,
-  "2023-04-21": 182826,
-  "2023-04-22": 186151,
-  "2023-04-23": 188673,
-  "2023-04-24": 190870,
-  "2023-04-25": 192905,
-  "2023-04-26": 195323,
-  "2023-04-27": 197724,
-  "2023-04-28": 199968,
-  "2023-04-29": 202079,
-  "2023-04-30": 204184,
-  "2023-05-01": 206266,
-  "2023-05-02": 208183,
-  "2023-05-03": 209811,
-  "2023-05-04": 211563,
-  "2023-05-05": 213532,
-  "2023-05-06": 215369,
-  "2023-05-07": 217250,
-  "2023-05-08": 219249,
-  "2023-05-09": 221053,
-  "2023-05-10": 224020,
-  "2023-05-11": 226710,
-  "2023-05-12": 228713,
-  "2023-05-13": 230836,
-  "2023-05-14": 232843,
-  "2023-05-15": 234587,
-  "2023-05-16": 236259,
-  "2023-05-17": 238217,
-  "2023-05-18": 240063,
-  "2023-05-19": 243234,
-  "2023-05-20": 246806,
-  "2023-05-21": 246806,
-  "2023-05-22": 246806,
-  "2023-05-23": 249987,
-  "2023-05-24": 252361,
-  "2023-05-25": 252774,
-  "2023-05-26": 254232,
-  "2023-05-27": 255728,
-  "2023-05-28": 257251,
-  "2023-05-29": 257251,
-  "2023-05-30": 260183,
-  "2023-05-31": 261744,
-  "2023-06-01": 263323,
-  "2023-06-02": 264769,
-  "2023-06-03": 266468,
-  "2023-06-04": 268097,
-  "2023-06-05": 269780,
-  "2023-06-06": 271450,
-  "2023-06-07": 273445,
-  "2023-06-08": 275242,
-  "2023-06-09": 277082,
-  "2023-06-10": 279872,
-  "2023-06-11": 281809,
-  "2023-06-12": 283798,
-  "2023-06-13": 285230,
-  "2023-06-14": 286794,
-  "2023-06-15": 288595,
-  "2023-06-16": 290451,
-  "2023-06-17": 292101,
-  "2023-06-18": 294211,
-  "2023-06-19": 296245,
-  "2023-06-20": 297902,
-  "2023-06-21": 299229,
-  "2023-06-22": 300848,
-  "2023-06-23": 302641,
-  "2023-06-24": 304100,
-  "2023-06-25": 305469,
-  "2023-06-26": 307066,
-  "2023-06-27": 308483,
-  "2023-06-28": 310189,
-  "2023-06-29": 311861,
-  "2023-06-30": 313434,
-  "2023-07-01": 315555,
-  "2023-07-02": 315555,
-  "2023-07-03": 316572,
-  "2023-07-04": 319014,
-  "2023-07-05": 335884,
-  "2023-07-06": 340623,
-  "2023-07-07": 340623,
-  "2023-07-08": 342456,
-  "2023-07-09": 343910,
-  "2023-07-10": 346893,
-  "2023-07-11": 348985,
-  "2023-07-12": 351324,
-  "2023-07-13": 353687,
-  "2023-07-14": 356782,
-  "2023-07-15": 359727,
-  "2023-07-16": 363708,
-  "2023-07-17": 366311,
-  "2023-07-18": 368234,
-  "2023-07-19": 370067,
-  "2023-07-20": 364564,
-  "2023-07-21": 365194,
-  "2023-07-22": 368457,
-  "2023-07-23": 380775,
-  "2023-07-24": 408741,
-  "2023-07-25": 409954,
-  "2023-07-26": 411093,
-  "2023-07-27": 411967,
-  "2023-07-28": 412851,
-  "2023-07-29": 413240,
-  "2023-07-30": 413951,
-  "2023-07-31": 415438,
-  "2023-08-01": 416742,
-  "2023-08-02": 418600,
-  "2023-08-03": 420188,
-  "2023-08-04": 420855,
-  "2023-08-05": 418765,
-  "2023-08-06": 412729,
-  "2023-08-07": 412729,
-  "2023-08-08": 389807,
-  "2023-08-09": 378872,
-  "2023-08-10": 379002,
-  "2023-08-11": 380610,
-  "2023-08-12": 382806,
-  "2023-08-13": 384275,
-  "2023-08-14": 386607,
-  "2023-08-15": 389831,
-  "2023-08-16": 389831,
-  "2023-08-17": 391048,
-  "2023-08-18": 392165,
-  "2023-08-19": 393586,
-  "2023-08-20": 394975,
-  "2023-08-21": 395856,
-  "2023-08-22": 397067,
-  "2023-08-23": 397394,
-  "2023-08-24": 398468,
-  "2023-08-25": 399641,
-  "2023-08-26": 401832,
-  "2023-08-27": 403700,
-  "2023-08-28": 405592,
-  "2023-08-29": 406802,
-  "2023-08-30": 407758,
-  "2023-08-31": 408972,
-  "2023-09-01": 411898,
-  "2023-09-02": 411898,
-  "2023-09-03": 413494,
-  "2023-09-04": 415056,
-  "2023-09-05": 416372,
-  "2023-09-06": 417862,
-  "2023-09-07": 418881,
-  "2023-09-08": 420502,
-  "2023-09-09": 420859,
-  "2023-09-10": 421769,
-  "2023-09-11": 422725,
-  "2023-09-12": 422195,
-  "2023-09-13": 424067,
-  "2023-09-14": 424642,
-  "2023-09-15": 425861,
-  "2023-09-16": 427106,
-  "2023-09-17": 427584,
-  "2023-09-18": 428670,
-  "2023-09-19": 430641,
-  "2023-09-20": 431005,
-  "2023-09-21": 432068,
-  "2023-09-22": 432992,
-  "2023-09-23": 434072,
-  "2023-09-24": 434705,
-  "2023-09-25": 434263,
-  "2023-09-26": 434870,
-  "2023-09-27": 434774,
-  "2023-09-28": 434866,
-  "2023-09-29": 435127,
-  "2023-09-30": 435902,
-  "2023-10-01": 437140,
-  "2023-10-02": 438755,
-  "2023-10-03": 437497,
-  "2023-10-04": 438635,
-  "2023-10-05": 439835,
-  "2023-10-06": 440866,
-  "2023-10-07": 441969,
-  "2023-10-08": 435615,
-  "2023-10-09": 435277,
-  "2023-10-10": 435573,
-  "2023-10-11": 436700,
-  "2023-10-12": 436700,
-  "2023-10-13": 437775,
-  "2023-10-14": 437465,
-  "2023-10-15": 437559,
-  "2023-10-16": 437915,
-  "2023-10-17": 438204,
-  "2023-10-18": 438825,
-  "2023-10-19": 439488,
-  "2023-10-20": 440383,
-  "2023-10-21": 441121,
-  "2023-10-22": 441973,
-  "2023-10-23": 443251,
-  "2023-10-24": 443035,
-  "2023-10-25": 443184,
-  "2023-10-26": 443661,
-  "2023-10-27": 444197,
-  "2023-10-28": 445048,
-  "2023-10-29": 444646,
-  "2023-10-30": 444845,
-  "2023-10-31": 444845,
-  "2023-11-01": 445290,
-  "2023-11-02": 445994,
-  "2023-11-03": 447095,
-  "2023-11-04": 447248,
-  "2023-11-05": 448013,
-  "2023-11-06": 448825,
-  "2023-11-07": 449422,
-  "2023-11-08": 450263,
-  "2023-11-09": 451175,
-  "2023-11-10": 451778,
-  "2023-11-11": 452844,
-  "2023-11-12": 453424,
-  "2023-11-13": 454358,
-  "2023-11-14": 455000,
-  "2023-11-15": 455000,
-  "2023-11-16": 456206,
-  "2023-11-17": 456859,
-  "2023-11-18": 456859,
-  "2023-11-19": 457009,
-  "2023-11-20": 456883,
-  "2023-11-21": 457444,
-  "2023-11-22": 458400,
-  "2023-11-23": 458913,
-  "2023-11-24": 459549,
-  "2023-11-25": 460571,
-  "2023-11-26": 461239,
-  "2023-11-27": 461786,
-  "2023-11-28": 462071,
-  "2023-11-29": 463144,
-  "2023-11-30": 463144,
-  "2023-12-01": 462555,
-  "2023-12-02": 462932,
-  "2023-12-03": 463089,
-  "2023-12-04": 462809,
-  "2023-12-05": 463010,
-  "2023-12-06": 462871,
-  "2023-12-07": 463436,
-  "2023-12-08": 463491,
-  "2023-12-09": 463619,
-  "2023-12-10": 464223,
-  "2023-12-11": 465032,
-  "2023-12-12": 465577,
-  "2023-12-13": 466138,
-  "2023-12-14": 466652,
-  "2023-12-15": 466797,
-  "2023-12-16": 467115,
-  "2023-12-17": 467357,
-  "2023-12-18": 467691,
-  "2023-12-19": 467947,
-  "2023-12-20": 468053,
-  "2023-12-21": 468668,
-  "2023-12-22": 471361,
-  "2023-12-23": 474875,
-  "2023-12-24": 476325,
-  "2023-12-25": 477442,
-  "2023-12-26": 478059,
-  "2023-12-27": 479114,
-  "2023-12-30": 478951,
-  "2023-12-31": 479179,
-  "2024-01-01": 479462,
-  "2024-01-02": 480576,
-  "2024-01-03": 481823
+  "2024-01-17": 487033,
+  "date_first_scraped": "2023-03-25",
+  "description": "Jimin FACEd Billboard HOT 100 No.1. Congrat \ud83d\udc9c",
+  "name": "This Is Jimin",
+  "tracks": [
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 62789,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
+      "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176454,
+      "name": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
+      "url": "https://open.spotify.com/track/0ApadYqa3GRQkJJ3E7pQDJ"
+    },
+    {
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/75uqqeXpDMUOpWfrPmCubF"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197930,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/5oaQsszgxYAdABuXoWEOUe"
+    },
+    {
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229627,
+      "name": "Face-off",
+      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180220,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130996,
+      "name": "Interlude : Dive",
+      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
+    },
+    {
+      "album": {
+        "name": "Jimin's Message to ARMY Audio Liners",
+        "url": "https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8264,
+      "name": "Intro to 'This is Jimin'",
+      "url": "https://open.spotify.com/track/6EFMY32aseg0jFvZHOIasw"
+    },
+    {
+      "album": {
+        "name": "Jimin's Message to ARMY Audio Liners",
+        "url": "https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11206,
+      "name": "Jimin's Message to ARMY - FACE",
+      "url": "https://open.spotify.com/track/6awvd3C4Jz3E5UkuMhl1Im"
+    },
+    {
+      "album": {
+        "name": "Jimin's Message to ARMY Audio Liners",
+        "url": "https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19097,
+      "name": "Jimin's Message to ARMY - Like Crazy",
+      "url": "https://open.spotify.com/track/6boszEanA95tJosUwAjbbk"
+    },
+    {
+      "album": {
+        "name": "Jimin's Message to ARMY Audio Liners",
+        "url": "https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16114,
+      "name": "Jimin's Message to ARMY - Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/3cz0CnRD14qlRoHgdFswxK"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215752,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180719,
+      "name": "Like Crazy (Deep House Remix)",
+      "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212216,
+      "name": "Like Crazy (Instrumental)",
+      "url": "https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG"
+    },
+    {
+      "album": {
+        "name": "Like Crazy (Remixes)",
+        "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210395,
+      "name": "Like Crazy (UK Garage Remix)",
+      "url": "https://open.spotify.com/track/5tDxLjAnkojfnXnjOk6mvh"
+    },
+    {
+      "album": {
+        "name": "Jimin's Message to ARMY Audio Liners",
+        "url": "https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5445,
+      "name": "Outro Message from Jimin",
+      "url": "https://open.spotify.com/track/1uCSqZZIan266XTbkmTCCV"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7zugzVgHDiDlcwvsLxz43A"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/2RUcwyW74Sv4VracHFrKdh"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276707,
+      "name": "Serendipity - Full Length Edition",
+      "url": "https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N"
+    },
+    {
+      "album": {
+        "name": "Set Me Free Pt.2",
+        "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Set Me Free Pt.2",
+      "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7H4XpyC9TgJ"
 }

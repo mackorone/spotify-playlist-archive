@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 746753,
+  "num_followers": 748769,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDZkNTU0NTQzNDZhODgxOGFjYTUzMmEzNjM0NjM0ZDJmNjkwZTE2",
+  "snapshot_id": "MCxmY2M2OTA0ZDg3YjNkZDIyMGMwNjFiYzc0OTk3ZDExMGExNzZmNDA2",
   "tracks": [
     {
       "added_at": "2023-11-14 12:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Circadia",
+        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+      },
+      "artists": [
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 408400,
+      "name": "Circadia",
+      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
@@ -131,18 +147,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Circadia",
-        "url": "https://open.spotify.com/album/574UEtMpJoQwN3ZtW5CRvE"
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
       },
       "artists": [
         {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 408400,
-      "name": "Circadia",
-      "url": "https://open.spotify.com/track/3sSaIdFrhLOjOy8XCuKMfE"
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -211,38 +227,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -263,18 +247,34 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
       },
       "artists": [
         {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
         }
       ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -299,30 +299,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Aruna Chandra",
-        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
-      },
-      "artists": [
-        {
-          "name": "Mashti",
-          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
-        },
-        {
-          "name": "Deep Dive Corp.",
-          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
-        },
-        {
-          "name": "David Devanagari",
-          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
-        }
-      ],
-      "duration_ms": 538000,
-      "name": "Aruna Chandra",
-      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -343,38 +319,42 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Eternal Road",
-        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
       "artists": [
         {
-          "name": "Rapossa",
-          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Eternal Road - Edit",
-      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+        "name": "Aruna Chandra",
+        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
       "artists": [
         {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+          "name": "Mashti",
+          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
+        },
+        {
+          "name": "Deep Dive Corp.",
+          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
+        },
+        {
+          "name": "David Devanagari",
+          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
         }
       ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+      "duration_ms": 538000,
+      "name": "Aruna Chandra",
+      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -411,6 +391,26 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Eternal Road",
+        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
+      },
+      "artists": [
+        {
+          "name": "Rapossa",
+          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Eternal Road - Edit",
+      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/137gDgTwqUwTo3pmeCI0gA"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 242145,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3FHvCNoY4Pd8mJjOOaweBN"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -491,46 +507,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
-      },
-      "artists": [
-        {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
-        }
-      ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
@@ -563,6 +539,30 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
+      },
+      "artists": [
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
+        }
+      ],
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -579,46 +579,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        }
-      ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -643,46 +603,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        }
-      ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Ma Gally",
-        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
-      },
-      "artists": [
-        {
-          "name": "Hot Oasis",
-          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
-        },
-        {
-          "name": "Weam Ismail",
-          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
-        }
-      ],
-      "duration_ms": 433330,
-      "name": "Ya Nahar Ya Gamel",
-      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -703,22 +623,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         },
         {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -735,54 +655,6 @@
       "duration_ms": 420215,
       "name": "Astavakra",
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -811,6 +683,42 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
+      },
+      "artists": [
+        {
+          "name": "Theo Gramal",
+          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Ma Gally",
+        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Weam Ismail",
+          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
+        }
+      ],
+      "duration_ms": 433330,
+      "name": "Ya Nahar Ya Gamel",
+      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Jendayi EP",
         "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
@@ -827,22 +735,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
       "artists": [
         {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -879,18 +783,58 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 115090,
+      "name": "Terra",
+      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+      },
+      "artists": [
+        {
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+        }
+      ],
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Unsichtbar (Behrooz Zandi Remix)",
+        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        },
+        {
+          "name": "Behrooz Zandi",
+          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+        }
+      ],
+      "duration_ms": 370196,
+      "name": "Unsichtbar - Behrooz Zandi Remix",
+      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -931,28 +875,44 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
       },
       "artists": [
         {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
-        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
       "artists": [
         {
@@ -960,49 +920,13 @@
           "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
         },
         {
-          "name": "Sariel Orenda",
-          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Dilmano Dilbero - Sariel Orenda Remix",
-      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
-      },
-      "artists": [
-        {
-          "name": "Theo Gramal",
-          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "Pastel",
-      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1023,18 +947,74 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
       "artists": [
         {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
         }
       ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Visions 2 (Departure)",
+        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 509502,
+      "name": "Jungle Paradise",
+      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1055,22 +1035,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
       },
       "artists": [
         {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
-        },
-        {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
         }
       ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+      "duration_ms": 383861,
+      "name": "Running After Dark",
+      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1087,38 +1063,6 @@
       "duration_ms": 333818,
       "name": "Patika",
       "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "WannaCry",
-        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 383861,
-      "name": "Running After Dark",
-      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1143,38 +1087,58 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Persian Nights",
-        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
+        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
+        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
       },
       "artists": [
         {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
         },
         {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+          "name": "Sariel Orenda",
+          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
         }
       ],
-      "duration_ms": 198545,
-      "name": "Persian Nights",
-      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+      "duration_ms": 408000,
+      "name": "Dilmano Dilbero - Sariel Orenda Remix",
+      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
       "artists": [
         {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1195,90 +1159,34 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Visions 2 (Departure)",
-        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
       "artists": [
         {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
         }
       ],
-      "duration_ms": 509502,
-      "name": "Jungle Paradise",
-      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
         }
       ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Beyond Strings",
-        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
-      },
-      "artists": [
-        {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
-        },
-        {
-          "name": "Mohab Sammy",
-          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
-        }
-      ],
-      "duration_ms": 451525,
-      "name": "Beyond Strings",
-      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1303,58 +1211,78 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
+        "name": "Beyond Strings",
+        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
       },
       "artists": [
         {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
         },
         {
-          "name": "Amonita",
-          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
+          "name": "Mohab Sammy",
+          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
         }
       ],
-      "duration_ms": 478764,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
+      "duration_ms": 451525,
+      "name": "Beyond Strings",
+      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Na Lagoa (Remixes)",
-        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
         },
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 264317,
-      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
-      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+        "name": "Persian Nights",
+        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
       },
       "artists": [
         {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+      "duration_ms": 198545,
+      "name": "Persian Nights",
+      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1375,26 +1303,102 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "15 Years of Akbal Music, Pt. 2",
-        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
       "artists": [
         {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
         },
         {
-          "name": "Robbie Akbal",
-          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
+          "name": "Aitor Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a"
         },
         {
-          "name": "Ay Sarita",
-          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 464237,
-      "name": "Caminando de Noche",
-      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
+      "duration_ms": 449454,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Parivartan",
+        "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
+      },
+      "artists": [
+        {
+          "name": "Elcor",
+          "url": "https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj"
+        },
+        {
+          "name": "Skydrips",
+          "url": "https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF"
+        }
+      ],
+      "duration_ms": 486879,
+      "name": "Parivartan",
+      "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Bem a Tempo (Yemanjo Remix)",
+        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 337714,
+      "name": "Bem a Tempo - Yemanjo Remix",
+      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
     }
   ],
   "unique_name": "Org\u00e1nica",

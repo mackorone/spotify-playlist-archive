@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "name": "Mediod\u00eda Ac\u00fastico",
+  "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
+  "name": "Ac\u00fasticas",
   "tracks": [
     {
       "album": {
@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "album": {
         "name": "creo que todo estar\u00e1 bien",
         "url": "https://open.spotify.com/album/6vSBWbTdWml9R4Tr6mSoBR"
       },
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192922,
+      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
+    },
+    {
+      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1134,6 +1170,24 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz"
+      },
+      "artists": [
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134637,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3"
     },
     {
       "album": {
@@ -1542,7 +1596,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
@@ -1712,7 +1766,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 205066,
       "name": "Los Mejores A\u00f1os - live desde londres",
       "url": "https://open.spotify.com/track/03BlpWvq9i3TroZwE9pDqW"
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 186966,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"

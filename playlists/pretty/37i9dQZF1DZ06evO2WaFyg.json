@@ -1,15 +1,39 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 223795,
+  "num_followers": 224022,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTYsMDAwMDAwMDBiMDdmZGQ3NDRmNDNmMTQxNmJhMzU5YzVlNDZkZTE4OQ==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBhMmJhODVlNWU4M2IwOTMzNDQ5YmVlMDk2YzFhZDE2Nw==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "pop ur shit",
+      "url": "https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -33,7 +57,7 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -53,7 +77,7 @@
       "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
@@ -77,7 +101,7 @@
       "url": "https://open.spotify.com/track/3ruoIF2UnoXdzK8mR61ebq"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
@@ -97,7 +121,7 @@
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
@@ -121,27 +145,7 @@
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "My wrist (with Young Thug)",
-        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "My wrist (with Young Thug)",
-      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
@@ -161,7 +165,27 @@
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
@@ -181,27 +205,7 @@
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Metro Spider (with Young Thug)",
-      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
@@ -225,7 +229,27 @@
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Metro Spider (with Young Thug)",
+      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
@@ -249,7 +273,7 @@
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -269,7 +293,7 @@
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
@@ -293,7 +317,7 @@
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Bad Boy (with Young Thug)",
         "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
@@ -313,7 +337,7 @@
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -337,7 +361,7 @@
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
@@ -357,7 +381,7 @@
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
@@ -381,7 +405,7 @@
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
@@ -405,23 +429,7 @@
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
@@ -445,27 +453,43 @@
       "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
       },
       "artists": [
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 149040,
-      "name": "Bad Bad Bad (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "RAGER BOYZ (with Young Thug)",
+      "url": "https://open.spotify.com/track/22HND7HF2tHFME3qIDrfD1"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
@@ -489,7 +513,7 @@
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "pick up the phone",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
@@ -509,27 +533,27 @@
       "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+      "duration_ms": 149040,
+      "name": "Bad Bad Bad (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
@@ -557,7 +581,27 @@
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Beautiful Thugger Girls",
         "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
@@ -577,10 +621,10 @@
       "url": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
-        "name": "The London (feat. J. Cole & Travis Scott)",
-        "url": "https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
@@ -596,12 +640,12 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 200106,
+      "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx"
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
@@ -625,7 +669,7 @@
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
@@ -649,7 +693,7 @@
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
@@ -669,7 +713,7 @@
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
@@ -693,7 +737,7 @@
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
         "url": "https://open.spotify.com/album/6oEICQkozJ4HRWsetBGUl7"
@@ -717,43 +761,7 @@
       "url": "https://open.spotify.com/track/3SEd8nPd8MpGwk6ZZ8tk2j"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 220888,
-      "name": "Just Like Me (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
@@ -777,7 +785,43 @@
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 220888,
+      "name": "Just Like Me (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
@@ -797,7 +841,7 @@
       "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
@@ -817,67 +861,7 @@
       "url": "https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Mannequin Challenge (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "On the Run",
-        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Climax (feat. 6lack)",
-      "url": "https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Hellcat Kenny (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Die Lit",
         "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
@@ -897,23 +881,67 @@
       "url": "https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
-        "name": "From A Man",
-        "url": "https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 207133,
-      "name": "From A Man",
-      "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
+      "duration_ms": 162400,
+      "name": "Mannequin Challenge (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Hellcat Kenny (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Climax (feat. 6lack)",
+      "url": "https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
@@ -937,23 +965,7 @@
       "url": "https://open.spotify.com/track/3GkEnNf2RWmdwkA2FfjQ3g"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Jonesboro",
-      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "SremmLife",
         "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
@@ -977,7 +989,23 @@
       "url": "https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Jonesboro",
+      "url": "https://open.spotify.com/track/4mRcWpEcBCXNzrapIH76R7"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "JEFFERY",
         "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
@@ -993,7 +1021,7 @@
       "url": "https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "Hard II Love",
         "url": "https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz"
@@ -1013,7 +1041,23 @@
       "url": "https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
+      "album": {
+        "name": "From A Man",
+        "url": "https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "From A Man",
+      "url": "https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE"
+    },
+    {
+      "added_at": "2024-01-16 12:10:35",
       "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
@@ -1033,52 +1077,32 @@
       "url": "https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M"
     },
     {
-      "added_at": "2024-01-02 12:16:04",
+      "added_at": "2024-01-16 12:10:35",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Slime Language",
+        "url": "https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf"
       },
       "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Payday (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/2HolBGR6tpiWI80MXoV1dJ"
-    },
-    {
-      "added_at": "2024-01-02 12:16:04",
-      "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
+        },
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 207007,
-      "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
-      "url": "https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1"
+      "duration_ms": 201706,
+      "name": "Chanel (Go Get It) [feat. Gunna & Lil Baby]",
+      "url": "https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r"
     }
   ],
   "unique_name": "This Is Young Thug",

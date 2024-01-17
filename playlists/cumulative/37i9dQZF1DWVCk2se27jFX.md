@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Pio Perilla
 
-111 songs - 6 hr 47 min
+112 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Grita](https://open.spotify.com/track/5hHnZ2ty9FpXiFen169sfk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita](https://open.spotify.com/album/3tPjavyWfJ5TBihaEZQeGq) | 3:38 | 2023-09-25 | 2023-10-19 |
 | [Imagínate](https://open.spotify.com/track/0qcWrXvAbelJOTmeFsCE5S) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Imagínate](https://open.spotify.com/album/7utdMWkT64sYeDoeTvNBI5) | 4:30 | 2023-09-25 |  |
 | [Inmerso](https://open.spotify.com/track/1yT5pnA2Ixa9MM1etHmHDR) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Inmerso](https://open.spotify.com/album/6F3slBnojn36LwjYqPQRfW) | 3:00 | 2023-09-25 | 2023-12-03 |
-| [Inmerso](https://open.spotify.com/track/79LhLAiCuY197jNWwEzeE5) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:00 | 2023-10-07 |  |
+| [Inmerso](https://open.spotify.com/track/79LhLAiCuY197jNWwEzeE5) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:00 | 2023-10-07 | 2024-01-13 |
+| [Inmerso](https://open.spotify.com/track/37qHIRSEqzJ7Tvnj2qCWPt) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3pYi6ViS4cT8KBME5Qqg56) | 3:00 | 2023-12-08 |  |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2023-09-25 |  |
 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-09-25 |  |
 | [Juno \(Heridas Abiertas\)](https://open.spotify.com/track/1E6g38yUc5FgjO0DmxezLW) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Juno \(Heridas Abiertas\)](https://open.spotify.com/album/2Riv8GUr2oulH8wMknmSz0) | 2:59 | 2023-09-25 |  |

@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-144 songs - 10 hr 45 min
+146 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 | 2022-09-30 |  |
 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-05-25 |  |
 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 | 2022-05-25 |  |
+| [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 | 2023-10-05 | 2024-01-11 |
 | [Ball and Chain](https://open.spotify.com/track/5JrKfqQFOTwksNVdAUSF4b) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 5:47 | 2022-07-08 |  |
 | [Ball and Chain](https://open.spotify.com/track/6FvKiAUOXbDgRK4D4sy1P4) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Funky Bitch / Ball and Chain](https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K) | 5:47 | 2022-05-25 | 2022-07-29 |
 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 | 2023-02-24 |  |
@@ -116,8 +117,9 @@
 | [Sitting At Home Alone](https://open.spotify.com/track/1rjhzTMKG8NdgkNKRFnFmi) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sitting At Home Alone](https://open.spotify.com/album/77MTWaEpZrh3vjitwDfsdC) | 4:35 | 2022-05-25 | 2022-07-29 |
 | [Sitting At Home Alone](https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Try It...You Might Like It: GA\-20 Does Hound Dog Taylor](https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj) | 4:35 | 2022-11-18 |  |
 | [Slightly Hung Over](https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ) | [Blues Delight](https://open.spotify.com/artist/3t7lCLDraWpcK4U5TWUUdA) | [Rock Island Line](https://open.spotify.com/album/3WoHYiJLkjJ0ZsDKVG9NPh) | 4:45 | 2022-05-25 |  |
-| [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2022-07-01 |  |
+| [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 | 2022-07-01 | 2024-01-10 |
 | [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/1bCguZTvZwEhoMGFlngXsh) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 2:56 | 2022-05-25 | 2022-07-27 |
+| [Somebody Loan Me A Dime \- Remastered](https://open.spotify.com/track/3CBV8LLmD6YACpUR6P85Di) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime \(Remastered\)](https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ) | 2:56 | 2023-10-05 |  |
 | [Something With Feel](https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:07 | 2022-11-18 |  |
 | [Something With Feel](https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Something With Feel](https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln) | 3:07 | 2022-05-25 | 2022-07-28 |
 | [Something With Feel](https://open.spotify.com/track/6MAuL12Qbgkv5DpaZL4cZO) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:07 | 2022-09-30 | 2022-11-24 |

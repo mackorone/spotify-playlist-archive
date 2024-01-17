@@ -528,10 +528,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 334346,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/0N6z31hh35VOUNj5QfErzc"
+    },
+    {
+      "album": {
+        "name": "Seven Veils",
+        "url": "https://open.spotify.com/album/704N3l9N7PRWZsAKKclvUJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Rich",
+          "url": "https://open.spotify.com/artist/3ux92I3CgfnhgLyYNsXIwZ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334346,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/1adTQZExpaD0Je03gVIl6G"
     },
     {
       "album": {
@@ -586,10 +604,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 367600,
       "name": "Elemental Trigger",
       "url": "https://open.spotify.com/track/0DiCvcIVLY6QFywmplnFM6"
+    },
+    {
+      "album": {
+        "name": "Stalker",
+        "url": "https://open.spotify.com/album/0iBAiaMz6RUUUc11xjQ0AI"
+      },
+      "artists": [
+        {
+          "name": "B. Lustmord",
+          "url": "https://open.spotify.com/artist/017eqDZ4BqpQBzNvrs9TJJ"
+        },
+        {
+          "name": "Robert Rich",
+          "url": "https://open.spotify.com/artist/3ux92I3CgfnhgLyYNsXIwZ"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367600,
+      "name": "Elemental Trigger",
+      "url": "https://open.spotify.com/track/6C3jdmmqXakOhQthE0pEM9"
     },
     {
       "album": {
@@ -792,10 +832,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 467000,
       "name": "Infinite Shore",
       "url": "https://open.spotify.com/track/090bRxSmHfZK0HO0ZjYHfO"
+    },
+    {
+      "album": {
+        "name": "The Magnificent Void",
+        "url": "https://open.spotify.com/album/1qi4iJfMKg12AqvVEEacyO"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467000,
+      "name": "Infinite Shore",
+      "url": "https://open.spotify.com/track/3VnaYz5d8HPGRzB8zaaWYb"
     },
     {
       "album": {
@@ -1150,10 +1208,40 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 531360,
       "name": "Night Devotion",
       "url": "https://open.spotify.com/track/5elyZ0NvsnePQ2bHzZHbjn"
+    },
+    {
+      "album": {
+        "name": "Forgotten Gods",
+        "url": "https://open.spotify.com/album/7GQRTfCMfDYV7ay3L3HTOc"
+      },
+      "artists": [
+        {
+          "name": "Suspended Memories",
+          "url": "https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6"
+        },
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        },
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        },
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531360,
+      "name": "Night Devotion",
+      "url": "https://open.spotify.com/track/3TqPXLCzNOut0dQs94n8tx"
     },
     {
       "album": {
@@ -1385,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Dioses Olvidados",
+        "url": "https://open.spotify.com/album/4KVYRRA6SEaYZVvwlufgUp"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323200,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/2MwRtmiEguJD4fdLsBAuZV"
+    },
+    {
+      "album": {
         "name": "Forgotten Gods",
         "url": "https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW"
       },
@@ -1408,7 +1514,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 323106,
       "name": "Saguaro",
       "url": "https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj"

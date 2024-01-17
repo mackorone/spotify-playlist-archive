@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 184996,
-  "2021-12-26": 185055,
-  "2021-12-27": 185171,
-  "2021-12-28": 185171,
-  "2021-12-29": 185228,
-  "2021-12-30": 185289,
-  "2021-12-31": 185357,
-  "2022-01-01": 185482,
-  "2022-01-02": 185503,
-  "2022-01-03": 185540,
-  "2022-01-04": 185596,
-  "2022-01-05": 185641,
-  "2022-01-06": 185710,
-  "2022-01-07": 185748,
-  "2022-01-08": 185926,
-  "2022-01-09": 185928,
-  "2022-01-10": 185995,
-  "2022-01-11": 186022,
-  "2022-01-12": 186063,
-  "2022-01-13": 186063,
-  "2022-01-14": 186063,
-  "2022-01-15": 186063,
-  "2022-01-16": 186063,
-  "2022-01-17": 186063,
-  "2022-01-18": 186063,
-  "2022-01-19": 186063,
-  "2022-01-20": 186063,
-  "2022-01-21": 186063,
-  "2022-01-22": 186063,
-  "2022-01-23": 186063,
-  "2022-01-24": 186063,
-  "2022-01-25": 186063,
-  "2022-01-26": 186063,
-  "2022-01-27": 186063,
-  "2022-01-28": 186063,
-  "2022-01-29": 186063,
-  "2022-01-30": 186063,
-  "2022-01-31": 186063,
-  "2022-02-01": 186063,
-  "2022-02-02": 186063,
-  "2022-02-03": 186063,
-  "2022-02-04": 186063,
-  "2022-02-05": 186063,
-  "2022-02-06": 186063,
-  "2022-02-07": 186063,
-  "2022-02-08": 186063,
-  "2022-02-09": 186063,
-  "2022-02-10": 186063,
-  "2022-02-11": 186063,
-  "2022-02-12": 186063,
-  "2022-02-13": 186063,
-  "2022-02-14": 186063,
-  "2022-02-15": 186063,
-  "2022-02-16": 186063,
-  "2022-02-17": 186063,
-  "2022-02-18": 186063,
-  "2022-02-19": 186063,
-  "2022-02-20": 186063,
-  "2022-02-21": 186063,
-  "2022-02-22": 186063,
-  "2022-02-23": 186063,
-  "2022-02-24": 186063,
-  "2022-02-25": 186063,
-  "2022-02-26": 186063,
-  "2022-02-27": 186063,
-  "2022-02-28": 186063,
-  "2022-03-01": 186063,
-  "2022-03-02": 186063,
-  "2022-03-03": 186063,
-  "2022-03-04": 186063,
-  "2022-03-05": 186063,
-  "2022-03-06": 186063,
-  "2022-03-07": 186063,
-  "2022-03-08": 186063,
-  "2022-03-09": 186063,
-  "2022-03-10": 186063,
-  "2022-03-11": 186063,
-  "2022-03-12": 186063,
-  "2022-03-13": 186063,
-  "2022-03-14": 186063,
-  "2022-03-15": 186063,
-  "2022-03-16": 186063,
-  "2022-03-17": 186063,
-  "2022-03-18": 186063,
-  "2022-03-19": 186063,
-  "2022-03-20": 186063,
-  "2022-03-21": 186063,
-  "2022-03-22": 186063,
-  "2022-03-23": 186063,
-  "2022-03-24": 186063,
-  "2022-03-25": 186063,
-  "2022-03-26": 186063,
-  "2022-03-27": 186063,
-  "2022-03-28": 186063,
-  "2022-03-30": 186063,
-  "2022-03-31": 186063,
-  "2022-04-01": 186063,
-  "2022-04-02": 186063,
-  "2022-04-03": 186063,
-  "2022-04-04": 186063,
-  "2022-04-05": 186063,
-  "2022-04-06": 186063,
-  "2022-04-07": 186063,
-  "2022-04-08": 186063,
-  "2022-04-09": 186063,
-  "2022-04-10": 186063,
-  "2022-04-11": 186063,
-  "2022-04-12": 186063,
-  "2022-04-13": 186063,
-  "2022-04-14": 186063,
-  "2022-04-15": 186063,
-  "2022-04-16": 186063,
-  "2022-04-17": 186063,
-  "2022-04-18": 186063,
-  "2022-04-19": 186063,
-  "2022-04-20": 186063,
-  "2022-04-21": 186063,
-  "2022-04-22": 186063,
-  "2022-04-23": 186063,
-  "2022-04-24": 186063,
-  "2022-04-25": 186063,
-  "2022-04-26": 186063,
-  "2022-04-27": 186063,
-  "2022-04-28": 186063,
-  "2022-04-29": 186063,
-  "2022-04-30": 186063,
-  "2022-05-01": 186063,
-  "2022-05-02": 186063,
-  "2022-05-03": 186063,
-  "2022-05-04": 186063,
-  "2022-05-05": 186063,
-  "2022-05-06": 186063,
-  "2022-05-07": 186063,
-  "2022-05-08": 186063,
-  "2022-05-09": 186063,
-  "2022-05-10": 186063,
-  "2022-05-11": 186063,
-  "2022-05-12": 186063,
-  "2022-05-13": 186063,
-  "2022-05-14": 186063,
-  "2022-05-15": 186063,
-  "2022-05-16": 186063,
-  "2022-05-17": 186063,
-  "2022-05-18": 186063,
-  "2022-05-19": 186063,
-  "2022-05-20": 186063,
-  "2022-05-21": 186063,
-  "2022-05-22": 186063,
-  "2022-05-23": 186063,
-  "2022-05-24": 186063,
-  "2022-05-25": 186063,
-  "2022-05-26": 186063,
-  "2022-05-27": 186063,
-  "2022-05-28": 186063,
-  "2022-05-29": 186063,
-  "2022-05-30": 186063,
-  "2022-05-31": 186063,
-  "2022-06-01": 186063,
-  "2022-06-02": 186063,
-  "2022-06-03": 186063,
-  "2022-06-04": 186063,
-  "2022-06-05": 186063,
-  "2022-06-06": 186063,
-  "2022-06-07": 186063,
-  "2022-06-08": 186063,
-  "2022-06-09": 186063,
-  "2022-06-10": 186063,
-  "2022-06-11": 186063,
-  "2022-06-12": 186063,
-  "2022-06-13": 186063,
-  "2022-06-14": 186063,
-  "2022-06-15": 186063,
-  "2022-06-16": 186063,
-  "2022-06-17": 186063,
-  "2022-06-18": 186063,
-  "2022-06-19": 186063,
-  "2022-06-20": 186063,
-  "2022-06-21": 186063,
-  "2022-06-22": 186063,
-  "2022-06-23": 186063,
-  "2022-06-24": 186063,
-  "2022-06-25": 186063,
-  "2022-06-26": 186063,
-  "2022-06-27": 186063,
-  "2022-06-28": 186063,
-  "2022-06-29": 186063,
-  "2022-06-30": 186063,
-  "2022-07-01": 186063,
-  "2022-07-02": 186063,
-  "2022-07-03": 186063,
-  "2022-07-04": 186063,
-  "2022-07-05": 186063,
-  "2022-07-06": 186063,
-  "2022-07-07": 186063,
-  "2022-07-08": 186063,
-  "2022-07-09": 186063,
-  "2022-07-10": 186063,
-  "2022-07-11": 186063,
-  "2022-07-12": 186063,
-  "2022-07-13": 186063,
-  "2022-07-14": 186063,
-  "2022-07-15": 186063,
-  "2022-07-16": 186063,
-  "2022-07-17": 186063,
-  "2022-07-18": 186063,
-  "2022-07-19": 186063,
-  "2022-07-20": 186063,
-  "2022-07-21": 186063,
-  "2022-07-22": 186063,
-  "2022-07-23": 186063,
-  "2022-07-24": 186063,
-  "2022-07-25": 186063,
-  "2022-07-26": 186063,
-  "2022-07-27": 186063,
-  "2022-07-28": 186063,
-  "2022-07-29": 186063,
-  "2022-07-30": 186063,
-  "2022-07-31": 186063,
-  "2022-08-01": 186063,
-  "2022-08-02": 186063,
-  "2022-08-03": 186063,
-  "2022-08-04": 186063,
-  "2022-08-05": 186063,
-  "2022-08-06": 186063,
-  "2022-08-07": 186063,
-  "2022-08-08": 186063,
-  "2022-08-09": 186063,
-  "2022-08-10": 186063,
-  "2022-08-11": 186063,
-  "2022-08-12": 186063,
-  "2022-08-13": 186063,
-  "2022-08-14": 186063,
-  "2022-08-15": 186063,
-  "2022-08-16": 186063,
-  "2022-08-17": 186063,
-  "2022-08-18": 186063,
-  "2022-08-19": 186063,
-  "2022-08-20": 186063,
-  "2022-08-21": 186063,
-  "2022-08-22": 186063,
-  "2022-08-23": 186063,
-  "2022-08-24": 186063,
-  "2022-08-25": 186063,
-  "2022-08-26": 186063,
-  "2022-08-27": 186063,
-  "2022-08-28": 186063,
-  "2022-08-29": 186063,
-  "2022-08-30": 186063,
-  "2022-08-31": 186063,
-  "2022-09-01": 186063,
-  "2022-09-02": 186063,
-  "2022-09-03": 186063,
-  "2022-09-04": 186063,
-  "2022-09-05": 186063,
-  "2022-09-06": 186063,
-  "2022-09-07": 186063,
-  "2022-09-09": 186063,
-  "2022-09-10": 186063,
-  "2022-09-11": 186063,
-  "2022-09-12": 186063,
-  "2022-09-13": 186063,
-  "2022-09-15": 186063,
-  "2022-09-16": 186063,
-  "2022-09-17": 186063,
-  "2022-09-18": 186063,
-  "2022-09-19": 186063,
-  "2022-09-20": 186063,
-  "2022-09-21": 186063,
-  "2022-09-22": 186063,
-  "2022-09-23": 186063,
-  "2022-09-24": 186063,
-  "2022-09-25": 186063,
-  "2022-09-26": 186063,
-  "2022-09-27": 186063,
-  "2022-09-28": 186063,
-  "2022-09-29": 186063,
-  "2022-09-30": 186063,
-  "2022-10-01": 186063,
-  "2022-10-02": 186063,
-  "2022-10-03": 186063,
-  "2022-10-04": 186063,
-  "2022-10-05": 186063,
-  "2022-10-06": 186063,
-  "2022-10-07": 186063,
-  "2022-10-08": 186063,
-  "2022-10-09": 186063,
-  "2022-10-10": 186063,
-  "2022-10-11": 186063,
-  "2022-10-12": 186063,
-  "2022-10-13": 186063,
-  "2022-10-14": 186063,
-  "2022-10-15": 186063,
-  "2022-10-16": 186063,
-  "2022-10-17": 186063,
-  "2022-10-18": 186063,
-  "2022-10-19": 186063,
-  "2022-10-20": 186063,
-  "2022-10-21": 186063,
-  "2022-10-22": 186063,
-  "2022-10-23": 186063,
-  "2022-10-24": 186063,
-  "2022-10-25": 186063,
-  "2022-10-26": 186063,
-  "2022-10-27": 186063,
-  "2022-10-28": 186063,
-  "2022-10-29": 186063,
-  "2022-10-30": 186063,
-  "2022-10-31": 186063,
-  "2022-11-01": 186063,
-  "2022-11-02": 186063,
-  "2022-11-03": 186063,
-  "2022-11-04": 186063,
-  "2022-11-05": 186063,
-  "2022-11-06": 186063,
-  "2022-11-07": 186063,
-  "2022-11-08": 186063,
-  "2022-11-09": 186063,
-  "2022-11-10": 186063,
-  "2022-11-11": 186063,
-  "2022-11-12": 186063,
-  "2022-11-13": 186063,
-  "2022-11-14": 186063,
-  "2022-11-15": 186063,
-  "2022-11-16": 186063,
-  "2022-11-17": 186063,
-  "2022-11-18": 186063,
-  "2022-11-19": 186063,
-  "2022-11-20": 186063,
-  "2022-11-21": 186063,
-  "2022-11-22": 186063,
-  "2022-11-23": 186063,
-  "2022-11-24": 186063,
-  "2022-11-25": 186063,
-  "2022-11-26": 186063,
-  "2022-11-27": 186063,
-  "2022-11-28": 186063,
-  "2022-11-29": 186063,
-  "2022-11-30": 186063,
-  "2022-12-01": 186063,
-  "2022-12-02": 186063,
-  "2022-12-03": 186063,
-  "2022-12-04": 186063,
-  "2022-12-05": 186063,
-  "2022-12-06": 186063,
-  "2022-12-07": 186063,
-  "2022-12-08": 186063,
-  "2022-12-09": 186063,
-  "2022-12-10": 186063,
-  "2022-12-11": 186063,
-  "2022-12-12": 186063,
-  "2022-12-13": 186063,
-  "2022-12-14": 186063,
-  "2022-12-15": 186063,
-  "2022-12-16": 186063,
-  "2022-12-17": 186063,
-  "2022-12-18": 186063,
-  "2022-12-19": 186063,
-  "2022-12-20": 186063,
-  "2022-12-21": 186063,
-  "2022-12-22": 186063,
-  "2022-12-24": 186063,
-  "2022-12-25": 186063,
-  "2022-12-26": 186063,
-  "2022-12-27": 186063,
-  "2022-12-28": 186063,
-  "2022-12-29": 186063,
-  "2022-12-30": 186063,
-  "2022-12-31": 186063,
-  "2023-01-01": 186063,
-  "2023-01-02": 186063,
-  "2023-01-03": 186063,
-  "2023-01-04": 186063,
-  "2023-01-05": 186063,
-  "2023-01-06": 186063,
-  "2023-01-07": 186063,
-  "2023-01-08": 186063,
-  "2023-01-09": 186063,
-  "2023-01-10": 186063,
-  "2023-01-11": 186063,
-  "2023-01-12": 186063,
-  "2023-01-13": 186063,
-  "2023-01-14": 186063,
-  "2023-01-15": 186063,
-  "2023-01-16": 186063,
-  "2023-01-17": 186063,
-  "2023-01-18": 186063,
-  "2023-01-19": 186063,
-  "2023-01-20": 186063,
-  "2023-01-21": 186063,
-  "2023-01-22": 186063,
-  "2023-01-23": 186063,
-  "2023-01-24": 186063,
-  "2023-01-25": 186063,
-  "2023-01-26": 186063,
-  "2023-01-27": 186063,
-  "2023-01-28": 186063,
-  "2023-01-29": 186063,
-  "2023-01-30": 186063,
-  "2023-01-31": 186063,
-  "2023-02-01": 186063,
-  "2023-02-02": 186063,
-  "2023-02-03": 186063,
-  "2023-02-04": 186063,
-  "2023-02-05": 186063,
-  "2023-02-06": 186063,
-  "2023-02-07": 186063,
-  "2023-02-08": 186063,
-  "2023-02-09": 186063,
-  "2023-02-10": 186063,
-  "2023-02-11": 186063,
-  "2023-02-12": 186063,
-  "2023-02-13": 186063,
-  "2023-02-14": 186063,
-  "2023-02-15": 186063,
-  "2023-02-16": 186063,
-  "2023-02-17": 186063,
-  "2023-02-18": 186063,
-  "2023-02-19": 186063,
-  "2023-02-20": 186063,
-  "2023-02-21": 186063,
-  "2023-02-22": 186063,
-  "2023-02-23": 186063,
-  "2023-02-24": 186063,
-  "2023-02-25": 186063,
-  "2023-02-26": 186063,
-  "2023-02-27": 186063,
-  "2023-02-28": 186063,
-  "2023-03-01": 186063,
-  "2023-03-02": 186063,
-  "2023-03-03": 186063,
-  "2023-03-04": 186063,
-  "2023-03-05": 186063,
-  "2023-03-06": 186063,
-  "2023-03-07": 186063,
-  "2023-03-08": 186063,
-  "2023-03-09": 186063,
-  "2023-03-10": 186063,
-  "2023-03-11": 186063,
-  "2023-03-12": 186063,
-  "2023-03-13": 186063,
-  "2023-03-14": 186063,
-  "2023-03-15": 186063,
-  "2023-03-16": 186063,
-  "2023-03-17": 186063,
-  "2023-03-18": 186063,
-  "2023-03-19": 186063,
-  "2023-03-20": 186063,
-  "2023-03-21": 186063,
-  "2023-03-22": 186063,
-  "2023-03-23": 186063,
-  "2023-03-24": 186063,
-  "2023-03-25": 186063,
-  "2023-03-26": 186063,
-  "2023-03-27": 186063,
-  "2023-03-28": 186063,
-  "2023-03-29": 186063,
-  "2023-03-30": 186063,
-  "2023-03-31": 186063,
-  "2023-04-01": 186063,
-  "2023-04-02": 186063,
-  "2023-04-03": 186063,
-  "2023-04-04": 186063,
-  "2023-04-05": 186063,
-  "2023-04-06": 186063,
-  "2023-04-07": 186063,
-  "2023-04-09": 186063,
-  "2023-04-10": 186063,
-  "2023-04-11": 186063,
-  "2023-04-12": 186063,
-  "2023-04-13": 186063,
-  "2023-04-14": 186063,
-  "2023-04-15": 186063,
-  "2023-04-16": 186063,
-  "2023-04-17": 186063,
-  "2023-04-18": 186063,
-  "2023-04-19": 186063,
-  "2023-04-20": 186063,
-  "2023-04-21": 186063,
-  "2023-04-22": 186063,
-  "2023-04-23": 186063,
-  "2023-04-24": 186063,
-  "2023-04-25": 186063,
-  "2023-04-26": 186063,
-  "2023-04-27": 186063,
-  "2023-04-28": 186063,
-  "2023-04-29": 186063,
-  "2023-04-30": 186063,
-  "2023-05-01": 186063,
-  "2023-05-02": 186063,
-  "2023-05-03": 186063,
-  "2023-05-04": 186063,
-  "2023-05-05": 186063,
-  "2023-05-06": 186063,
-  "2023-05-07": 186063,
-  "2023-05-08": 186063,
-  "2023-05-09": 186063,
-  "2023-05-10": 186063,
-  "2023-05-11": 186063,
-  "2023-05-12": 186063,
-  "2023-05-13": 186063,
-  "2023-05-14": 186063,
-  "2023-05-15": 186063,
-  "2023-05-16": 186063,
-  "2023-05-17": 186063,
-  "2023-05-18": 186063,
-  "2023-05-19": 186063,
-  "2023-05-20": 186063,
-  "2023-05-21": 186063,
-  "2023-05-22": 186063,
-  "2023-05-23": 186063,
-  "2023-05-24": 186063,
-  "2023-05-25": 186063,
-  "2023-05-26": 186063,
-  "2023-05-27": 186063,
-  "2023-05-28": 186063,
-  "2023-05-29": 186063,
-  "2023-05-30": 186063,
-  "2023-05-31": 186063,
-  "2023-06-01": 186063,
-  "2023-06-02": 186063,
-  "2023-06-03": 186063,
-  "2023-06-04": 186063,
-  "2023-06-05": 186063,
-  "2023-06-06": 186063,
-  "2023-06-07": 186063,
-  "2023-06-08": 186063,
-  "2023-06-09": 186063,
-  "2023-06-10": 186063,
-  "2023-06-11": 186063,
-  "2023-06-12": 186063,
-  "2023-06-13": 186063,
-  "2023-06-14": 186063,
-  "2023-06-15": 186063,
-  "2023-06-16": 186063,
-  "2023-06-17": 186063,
-  "2023-06-18": 186063,
-  "2023-06-19": 186063,
-  "2023-06-20": 186063,
-  "2023-06-21": 186063,
-  "2023-06-22": 186063,
-  "2023-06-23": 186063,
-  "2023-06-24": 186063,
-  "2023-06-25": 186063,
-  "2023-06-26": 186063,
-  "2023-06-27": 186063,
-  "2023-06-28": 186063,
-  "2023-06-29": 186063,
-  "2023-06-30": 186063,
-  "2023-07-01": 186063,
-  "2023-07-02": 186063,
-  "2023-07-03": 186063,
-  "2023-07-04": 186063,
-  "2023-07-05": 186063,
-  "2023-07-06": 186063,
-  "2023-07-07": 186063,
-  "2023-07-08": 186063,
-  "2023-07-09": 186063,
-  "2023-07-10": 186063,
-  "2023-07-11": 186063,
-  "2023-07-12": 186063,
-  "2023-07-13": 186063,
-  "2023-07-14": 186063,
-  "2023-07-15": 186063,
-  "2023-07-16": 186063,
-  "2023-07-17": 186063,
-  "2023-07-18": 186063,
-  "2023-07-19": 186063,
-  "2023-07-20": 186063,
-  "2023-07-21": 186063,
-  "2023-07-22": 186063,
-  "2023-07-23": 186063,
-  "2023-07-24": 186063,
-  "2023-07-25": 186063,
-  "2023-07-26": 186063,
-  "2023-07-27": 186063,
-  "2023-07-28": 186063,
-  "2023-07-29": 186063,
-  "2023-07-30": 186063,
-  "2023-07-31": 186063,
-  "2023-08-01": 186063,
-  "2023-08-02": 186063,
-  "2023-08-03": 186063,
-  "2023-08-04": 186063,
-  "2023-08-05": 186063,
-  "2023-08-06": 186063,
-  "2023-08-07": 186063,
-  "2023-08-08": 186063,
-  "2023-08-09": 186063,
-  "2023-08-10": 186063,
-  "2023-08-11": 186063,
-  "2023-08-12": 186063,
-  "2023-08-13": 186063,
-  "2023-08-14": 186063,
-  "2023-08-15": 186063,
-  "2023-08-16": 186063,
-  "2023-08-17": 186063,
-  "2023-08-18": 186063,
-  "2023-08-19": 186063,
-  "2023-08-20": 186063,
-  "2023-08-21": 186063,
-  "2023-08-22": 186063,
-  "2023-08-23": 186063,
-  "2023-08-24": 186063,
-  "2023-08-25": 186063,
-  "2023-08-26": 186063,
-  "2023-08-27": 186063,
-  "2023-08-28": 186063,
-  "2023-08-29": 186063,
-  "2023-08-30": 186063,
-  "2023-08-31": 186063,
-  "2023-09-01": 186063,
-  "2023-09-02": 186063,
-  "2023-09-03": 186063,
-  "2023-09-04": 186063,
-  "2023-09-05": 186063,
-  "2023-09-06": 186063,
-  "2023-09-07": 186063,
-  "2023-09-08": 186063,
-  "2023-09-09": 186063,
-  "2023-09-10": 186063,
-  "2023-09-11": 186063,
-  "2023-09-12": 186063,
-  "2023-09-13": 186063,
-  "2023-09-14": 186063,
-  "2023-09-15": 186063,
-  "2023-09-16": 186063,
-  "2023-09-17": 186063,
-  "2023-09-18": 186063,
-  "2023-09-19": 186063,
-  "2023-09-20": 186063,
-  "2023-09-21": 186063,
-  "2023-09-22": 186063,
-  "2023-09-23": 186063,
-  "2023-09-24": 186063,
-  "2023-09-25": 186063,
-  "2023-09-26": 186063,
-  "2023-09-27": 186063,
-  "2023-09-28": 186063,
-  "2023-09-29": 186063,
-  "2023-09-30": 186063,
-  "2023-10-01": 186063,
-  "2023-10-02": 186063,
-  "2023-10-03": 186063,
-  "2023-10-04": 186063,
-  "2023-10-05": 186063,
-  "2023-10-06": 186063,
-  "2023-10-07": 186063,
-  "2023-10-08": 186063,
-  "2023-10-09": 186063,
-  "2023-10-10": 186063,
-  "2023-10-11": 186063,
-  "2023-10-12": 186063,
-  "2023-10-13": 186063,
-  "2023-10-14": 186063,
-  "2023-10-15": 186063,
-  "2023-10-16": 186063,
-  "2023-10-17": 186063,
-  "2023-10-18": 186063,
-  "2023-10-19": 186063,
-  "2023-10-20": 186063,
-  "2023-10-21": 186063,
-  "2023-10-22": 186063,
-  "2023-10-23": 186063,
-  "2023-10-24": 186063,
-  "2023-10-25": 186063,
-  "2023-10-26": 186063,
-  "2023-10-27": 186063,
-  "2023-10-28": 186063,
-  "2023-10-29": 186063,
-  "2023-10-30": 186063,
-  "2023-10-31": 186063,
-  "2023-11-01": 186063,
-  "2023-11-02": 186063,
-  "2023-11-03": 186063,
-  "2023-11-04": 186063,
-  "2023-11-05": 186063,
-  "2023-11-06": 186063,
-  "2023-11-07": 186063,
-  "2023-11-08": 186063,
-  "2023-11-09": 186063,
-  "2023-11-10": 186063,
-  "2023-11-11": 186063,
-  "2023-11-12": 186063,
-  "2023-11-13": 186063,
-  "2023-11-14": 186063,
-  "2023-11-15": 186063,
-  "2023-11-16": 186063,
-  "2023-11-17": 186063,
-  "2023-11-18": 186063,
-  "2023-11-19": 186063,
-  "2023-11-20": 186063,
-  "2023-11-21": 186063,
-  "2023-11-22": 186063,
-  "2023-11-23": 186063,
-  "2023-11-24": 186063,
-  "2023-11-25": 186063,
-  "2023-11-26": 186063,
-  "2023-11-27": 186063,
-  "2023-11-28": 186063,
-  "2023-11-29": 186063,
-  "2023-11-30": 186063,
-  "2023-12-01": 186063,
-  "2023-12-02": 186063,
-  "2023-12-03": 186063,
-  "2023-12-04": 186063,
-  "2023-12-05": 186063,
-  "2023-12-06": 186063,
-  "2023-12-07": 186063,
-  "2023-12-08": 186063,
-  "2023-12-09": 186063,
-  "2023-12-10": 186063,
-  "2023-12-11": 186063,
-  "2023-12-12": 186063,
-  "2023-12-13": 186063,
-  "2023-12-14": 186063,
-  "2023-12-15": 186063,
-  "2023-12-16": 186063,
-  "2023-12-17": 186063,
-  "2023-12-18": 186063,
-  "2023-12-19": 186063,
-  "2023-12-20": 186063,
-  "2023-12-21": 186063,
-  "2023-12-22": 186063,
-  "2023-12-23": 186063,
-  "2023-12-24": 186063,
-  "2023-12-25": 186063,
-  "2023-12-26": 186063,
-  "2023-12-27": 186063,
-  "2023-12-30": 186063,
-  "2023-12-31": 186063,
-  "2024-01-01": 186063,
-  "2024-01-02": 186063,
-  "2024-01-03": 186063
+  "2024-01-17": 186063,
+  "date_first_scraped": "2021-12-21",
+  "description": "A lifetime of legendary tunes courtesy of the holy triumvirate. Rest in peace, Neil Peart.",
+  "name": "This Is Rush",
+  "tracks": [
+    {
+      "album": {
+        "name": "2112 (40th Anniversary)",
+        "url": "https://open.spotify.com/album/0v0YxqAQGkgef8aPBDAo66"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1238786,
+      "name": "2112: Overture / The Temples Of Syrinx / Discovery",
+      "url": "https://open.spotify.com/track/7ameFAv8ZxB4AKb0KtJdmn"
+    },
+    {
+      "album": {
+        "name": "2112 (40th Anniversary)",
+        "url": "https://open.spotify.com/album/0v0YxqAQGkgef8aPBDAo66"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "A Passage To Bangkok",
+      "url": "https://open.spotify.com/track/1o8wORElQJKQooKmvkihBz"
+    },
+    {
+      "album": {
+        "name": "Counterparts",
+        "url": "https://open.spotify.com/album/4VCKgfNF86XlSLiuUGJhtm"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364493,
+      "name": "Animate",
+      "url": "https://open.spotify.com/track/3xKSe2EELhQaaR9pwMWHxo"
+    },
+    {
+      "album": {
+        "name": "Fly By Night",
+        "url": "https://open.spotify.com/album/6XyeORfYIaOgal05YZEdIQ"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266346,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3mpzU8jbzhAlgCNqLYf9GP"
+    },
+    {
+      "album": {
+        "name": "Caress Of Steel",
+        "url": "https://open.spotify.com/album/4V9oKEl9xMjhnqPaMIvK92"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280586,
+      "name": "Bastille Day",
+      "url": "https://open.spotify.com/track/5UD046uS2YRWRGi7m5SbjY"
+    },
+    {
+      "album": {
+        "name": "Roll The Bones",
+        "url": "https://open.spotify.com/album/2yKC3eNAD4pdyThzEegn0L"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275853,
+      "name": "Bravado",
+      "url": "https://open.spotify.com/track/3GgvvlaPOHMIpSKsVjttzD"
+    },
+    {
+      "album": {
+        "name": "Clockwork Angels",
+        "url": "https://open.spotify.com/album/06uSCkoevz04eltc5Mwoe5"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339880,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/7D2iCUBrscXMVB3x6qjbtM"
+    },
+    {
+      "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/6pMUUpDYKdHkEs0RpHl1Sl"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262360,
+      "name": "Cinderella Man",
+      "url": "https://open.spotify.com/track/3Fy8sBzkRkqLh91O7TD1r9"
+    },
+    {
+      "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/6pMUUpDYKdHkEs0RpHl1Sl"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Closer To The Heart",
+      "url": "https://open.spotify.com/track/3TrY8OdO07yXMolVPKoL85"
+    },
+    {
+      "album": {
+        "name": "Grace Under Pressure",
+        "url": "https://open.spotify.com/album/2pT8Jfioi5WBr6ZN0xjEr4"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297680,
+      "name": "Distant Early Warning",
+      "url": "https://open.spotify.com/track/7MrjAyGcYhIY8i6EBUpxnN"
+    },
+    {
+      "album": {
+        "name": "Roll The Bones",
+        "url": "https://open.spotify.com/album/2yKC3eNAD4pdyThzEegn0L"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277066,
+      "name": "Dreamline",
+      "url": "https://open.spotify.com/track/6pZKSHRe53dKiBVdbteZb0"
+    },
+    {
+      "album": {
+        "name": "Test For Echo",
+        "url": "https://open.spotify.com/album/6mVBfVy1H0ck8jNLuISkTI"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "Driven",
+      "url": "https://open.spotify.com/track/0DwdkyMRSGuqUTF5LspqY3"
+    },
+    {
+      "album": {
+        "name": "Snakes & Arrows",
+        "url": "https://open.spotify.com/album/7MBIsa69bA6imYuzEc5Nig"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318866,
+      "name": "Far Cry",
+      "url": "https://open.spotify.com/track/47Z4Gmi2cT6brS1BP6IWn3"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0lZRCf7prVEVVYjH5Im0TS"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307413,
+      "name": "Finding My Way",
+      "url": "https://open.spotify.com/track/1m5wdRNeZ1xDj7UQQzNcdF"
+    },
+    {
+      "album": {
+        "name": "Fly By Night",
+        "url": "https://open.spotify.com/album/6XyeORfYIaOgal05YZEdIQ"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202186,
+      "name": "Fly By Night",
+      "url": "https://open.spotify.com/track/0KxtirpuxfLfLC0zzDjiAo"
+    },
+    {
+      "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5thlgB7jQGLIMum6lQJXdO"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272920,
+      "name": "Force Ten",
+      "url": "https://open.spotify.com/track/3aws2jGOin02cg1UNntTOn"
+    },
+    {
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/1kz2QkH5rsqGVvKSlAPwzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324026,
+      "name": "Freewill",
+      "url": "https://open.spotify.com/track/3EZ26HEww0Tr94HSL10Wsf"
+    },
+    {
+      "album": {
+        "name": "Vapor Trails",
+        "url": "https://open.spotify.com/album/26GJ9kVXxI9s18g20LX3i2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341253,
+      "name": "Ghost Rider",
+      "url": "https://open.spotify.com/track/5TVhmhjFMHcEm6CsH2HLLl"
+    },
+    {
+      "album": {
+        "name": "Test For Echo",
+        "url": "https://open.spotify.com/album/6mVBfVy1H0ck8jNLuISkTI"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Half The World",
+      "url": "https://open.spotify.com/track/7wwIdJo5m4TYFlp6CuWeyP"
+    },
+    {
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/1kz2QkH5rsqGVvKSlAPwzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448520,
+      "name": "Jacob's Ladder",
+      "url": "https://open.spotify.com/track/238Id3Rt9IFiIpv6BWdhRR"
+    },
+    {
+      "album": {
+        "name": "Hemispheres",
+        "url": "https://open.spotify.com/album/2eYdguUFvuuZjBe234AJt4"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575013,
+      "name": "La Villa Strangiato",
+      "url": "https://open.spotify.com/track/2IvuKO8ZX6CmDaC9EhkyGu"
+    },
+    {
+      "album": {
+        "name": "Caress Of Steel",
+        "url": "https://open.spotify.com/album/4V9oKEl9xMjhnqPaMIvK92"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "Lakeside Park",
+      "url": "https://open.spotify.com/track/5gc7dLlpjMtBTQO5AxNJ5z"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259826,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/0rt4JtP7UgKdiUor9Ppir4"
+    },
+    {
+      "album": {
+        "name": "Power Windows",
+        "url": "https://open.spotify.com/album/0WEdgT5wRJTS7kvF0pPqzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307546,
+      "name": "Manhattan Project",
+      "url": "https://open.spotify.com/track/7E22PK90J7yBDiq20qzf5g"
+    },
+    {
+      "album": {
+        "name": "Power Windows",
+        "url": "https://open.spotify.com/album/0WEdgT5wRJTS7kvF0pPqzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369640,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/2YGcmrG86ba9MGK7txVvTg"
+    },
+    {
+      "album": {
+        "name": "Power Windows",
+        "url": "https://open.spotify.com/album/0WEdgT5wRJTS7kvF0pPqzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353960,
+      "name": "Mystic Rhythms",
+      "url": "https://open.spotify.com/track/7zdrwBHsOWZQj5io9iVx4h"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/0hPTl47PyeK2Lu00Ql5tcg"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "New World Man",
+      "url": "https://open.spotify.com/track/3gLGgS2zLcAwmofaaHlnHQ"
+    },
+    {
+      "album": {
+        "name": "Counterparts",
+        "url": "https://open.spotify.com/album/4VCKgfNF86XlSLiuUGJhtm"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295160,
+      "name": "Nobody's Hero",
+      "url": "https://open.spotify.com/track/6rpi7p9r61QGwxbN13viW3"
+    },
+    {
+      "album": {
+        "name": "Vapor Trails",
+        "url": "https://open.spotify.com/album/26GJ9kVXxI9s18g20LX3i2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308720,
+      "name": "One Little Victory",
+      "url": "https://open.spotify.com/track/4KEy2hvTbB8eoCUs2QsSRq"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370413,
+      "name": "Red Barchetta",
+      "url": "https://open.spotify.com/track/2Sm1PY9pcoQzFDL1NJsJj8"
+    },
+    {
+      "album": {
+        "name": "Grace Under Pressure",
+        "url": "https://open.spotify.com/album/2pT8Jfioi5WBr6ZN0xjEr4"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311866,
+      "name": "Red Sector A",
+      "url": "https://open.spotify.com/track/5YsrGiOhGUGzW89RXrLYGV"
+    },
+    {
+      "album": {
+        "name": "Roll The Bones",
+        "url": "https://open.spotify.com/album/2yKC3eNAD4pdyThzEegn0L"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330226,
+      "name": "Roll The Bones",
+      "url": "https://open.spotify.com/track/5tAnImXU93L8AgsyTyVDxw"
+    },
+    {
+      "album": {
+        "name": "Vapor Trails",
+        "url": "https://open.spotify.com/album/26GJ9kVXxI9s18g20LX3i2"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394546,
+      "name": "Secret Touch",
+      "url": "https://open.spotify.com/track/1nxLJ2M54Fk6RwJ6wg0Xv3"
+    },
+    {
+      "album": {
+        "name": "Presto",
+        "url": "https://open.spotify.com/album/4gLpuQxF2tmsxRdxvNVgOA"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300986,
+      "name": "Show Don't Tell",
+      "url": "https://open.spotify.com/track/77uq0UVNhh3zN67115RXt9"
+    },
+    {
+      "album": {
+        "name": "Counterparts",
+        "url": "https://open.spotify.com/album/4VCKgfNF86XlSLiuUGJhtm"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/4k9yATQjHBsdUKlt8LpuCv"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/0hPTl47PyeK2Lu00Ql5tcg"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334853,
+      "name": "Subdivisions",
+      "url": "https://open.spotify.com/track/0n3TDqqbs7epxzHUi3QbC5"
+    },
+    {
+      "album": {
+        "name": "Presto",
+        "url": "https://open.spotify.com/album/4gLpuQxF2tmsxRdxvNVgOA"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287386,
+      "name": "Superconductor",
+      "url": "https://open.spotify.com/track/0B2uwyYxmHIFCpfQUzvuOF"
+    },
+    {
+      "album": {
+        "name": "Test For Echo",
+        "url": "https://open.spotify.com/album/6mVBfVy1H0ck8jNLuISkTI"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355920,
+      "name": "Test For Echo",
+      "url": "https://open.spotify.com/track/2jUPDt8noqPcf4H4ulApLN"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/0hPTl47PyeK2Lu00Ql5tcg"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288013,
+      "name": "The Analog Kid",
+      "url": "https://open.spotify.com/track/4v2qlxRENbjPEtadUjIob6"
+    },
+    {
+      "album": {
+        "name": "Retrospective II (1981-1987)",
+        "url": "https://open.spotify.com/album/0AIPwZfozuQOKqG2hEDvuQ"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335920,
+      "name": "The Big Money",
+      "url": "https://open.spotify.com/track/3NUUqOkLr5jdOJwTU3uyu3"
+    },
+    {
+      "album": {
+        "name": "Presto",
+        "url": "https://open.spotify.com/album/4gLpuQxF2tmsxRdxvNVgOA"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290706,
+      "name": "The Pass",
+      "url": "https://open.spotify.com/track/3fnDmuvAk1zFpem0eBjRyL"
+    },
+    {
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/1kz2QkH5rsqGVvKSlAPwzr"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299146,
+      "name": "The Spirit Of Radio",
+      "url": "https://open.spotify.com/track/4pmNJH9lNCh9Qp88L2CRJU"
+    },
+    {
+      "album": {
+        "name": "Hemispheres",
+        "url": "https://open.spotify.com/album/2eYdguUFvuuZjBe234AJt4"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285013,
+      "name": "The Trees",
+      "url": "https://open.spotify.com/track/04B8uRunIuxlKGn4iay9Cd"
+    },
+    {
+      "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5thlgB7jQGLIMum6lQJXdO"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308880,
+      "name": "Time Stand Still",
+      "url": "https://open.spotify.com/track/51WJURzjbfVgHzNX4EeEho"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276973,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ"
+    },
+    {
+      "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5thlgB7jQGLIMum6lQJXdO"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295120,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/2BQivVwEHqhyLvPmoBZlSh"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/55YlfsaFPB5HTlhxY114CI"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286226,
+      "name": "Vital Signs",
+      "url": "https://open.spotify.com/track/5vqBPqekfM10cDcBresVTl"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0lZRCf7prVEVVYjH5Im0TS"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429813,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4oMtSasrvok9JIwZbXGGbU"
+    },
+    {
+      "album": {
+        "name": "A Farewell To Kings",
+        "url": "https://open.spotify.com/album/6pMUUpDYKdHkEs0RpHl1Sl"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667293,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/0uXuwBSTOEoGAVzw5KbOwN"
+    },
+    {
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2020-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265813,
+      "name": "YYZ",
+      "url": "https://open.spotify.com/track/6GhDVvKUE1f0xg7hTv9eZN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9E92APFiTvV"
 }

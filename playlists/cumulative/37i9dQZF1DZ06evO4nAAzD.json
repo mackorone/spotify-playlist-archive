@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "A Firma \u00e9 Forte",
+        "url": "https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "LOUD",
+          "url": "https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 163278,
+      "name": "A Firma \u00e9 Forte",
+      "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
+    },
+    {
+      "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
       },
@@ -182,7 +208,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 196402,
       "name": "Decolar",
       "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"

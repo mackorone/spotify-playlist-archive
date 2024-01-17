@@ -1,100 +1,1075 @@
 {
-  "2023-09-26": 214179,
-  "2023-09-27": 214179,
-  "2023-09-28": 214179,
-  "2023-09-29": 214179,
-  "2023-09-30": 214179,
-  "2023-10-01": 214179,
-  "2023-10-02": 214179,
-  "2023-10-03": 214179,
-  "2023-10-04": 214179,
-  "2023-10-05": 214179,
-  "2023-10-06": 214179,
-  "2023-10-07": 214179,
-  "2023-10-08": 214179,
-  "2023-10-09": 214179,
-  "2023-10-10": 214179,
-  "2023-10-11": 214179,
-  "2023-10-12": 214179,
-  "2023-10-13": 214179,
-  "2023-10-14": 214179,
-  "2023-10-15": 214179,
-  "2023-10-16": 214179,
-  "2023-10-17": 214179,
-  "2023-10-18": 214179,
-  "2023-10-19": 214179,
-  "2023-10-20": 214179,
-  "2023-10-21": 214179,
-  "2023-10-22": 214179,
-  "2023-10-23": 214179,
-  "2023-10-24": 214179,
-  "2023-10-25": 214179,
-  "2023-10-26": 214179,
-  "2023-10-27": 214179,
-  "2023-10-28": 214179,
-  "2023-10-29": 214179,
-  "2023-10-30": 214179,
-  "2023-10-31": 214179,
-  "2023-11-01": 214179,
-  "2023-11-02": 214179,
-  "2023-11-03": 214179,
-  "2023-11-04": 214179,
-  "2023-11-05": 214179,
-  "2023-11-06": 214179,
-  "2023-11-07": 214179,
-  "2023-11-08": 214179,
-  "2023-11-09": 214179,
-  "2023-11-10": 214179,
-  "2023-11-11": 217538,
-  "2023-11-12": 217538,
-  "2023-11-13": 217538,
-  "2023-11-14": 217538,
-  "2023-11-15": 217538,
-  "2023-11-16": 217538,
-  "2023-11-17": 217538,
-  "2023-11-18": 217538,
-  "2023-11-19": 217538,
-  "2023-11-20": 217538,
-  "2023-11-21": 217538,
-  "2023-11-22": 217538,
-  "2023-11-23": 217538,
-  "2023-11-24": 217538,
-  "2023-11-25": 217538,
-  "2023-11-26": 217538,
-  "2023-11-27": 217538,
-  "2023-11-28": 217538,
-  "2023-11-29": 217538,
-  "2023-11-30": 217538,
-  "2023-12-01": 217538,
-  "2023-12-02": 217538,
-  "2023-12-03": 217538,
-  "2023-12-04": 217538,
-  "2023-12-05": 217538,
-  "2023-12-06": 217538,
-  "2023-12-07": 217538,
-  "2023-12-08": 217538,
-  "2023-12-09": 217538,
-  "2023-12-10": 217538,
-  "2023-12-11": 217538,
-  "2023-12-12": 217538,
-  "2023-12-13": 217538,
-  "2023-12-14": 219400,
-  "2023-12-15": 219443,
-  "2023-12-16": 219498,
-  "2023-12-17": 219549,
-  "2023-12-18": 219603,
-  "2023-12-19": 219633,
-  "2023-12-20": 219687,
-  "2023-12-21": 219730,
-  "2023-12-22": 219768,
-  "2023-12-23": 219818,
-  "2023-12-24": 219872,
-  "2023-12-25": 219925,
-  "2023-12-26": 219945,
-  "2023-12-27": 219996,
-  "2023-12-30": 220138,
-  "2023-12-31": 220179,
-  "2024-01-01": 220230,
-  "2024-01-02": 220271,
-  "2024-01-03": 220300
+  "2024-01-17": 220614,
+  "date_first_scraped": "2023-09-26",
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "name": "This Is Eros Ramazzotti",
+  "tracks": [
+    {
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
+    },
+    {
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Ama",
+      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
+    },
+    {
+      "album": {
+        "name": "In Ogni Senso",
+        "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Antonella Bucci",
+          "url": "https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264026,
+      "name": "Amarti \u00e8 l'immenso per me",
+      "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
+    },
+    {
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305613,
+      "name": "Casi Amor (Quasi amore) - Remastered 2021",
+      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
+    },
+    {
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Completamente Enamorados",
+      "url": "https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO"
+    },
+    {
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288986,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
+    },
+    {
+      "album": {
+        "name": "Eros (Spanish Version)",
+        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Cuanto Amor Me Das",
+      "url": "https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe"
+    },
+    {
+      "album": {
+        "name": "Alas Y Raices",
+        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Dimelo a Mi",
+      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "En Mi Coraz\u00f3n Vivir\u00e1s",
+      "url": "https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ"
+    },
+    {
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279666,
+      "name": "Estrella Gemela",
+      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "album": {
+        "name": "Estilolibre (Spanish Version)",
+        "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "Fuego en el Fuego",
+      "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
+    },
+    {
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "Fuoco nel fuoco",
+      "url": "https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM"
+    },
+    {
+      "album": {
+        "name": "Todo Historias (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277266,
+      "name": "F\u00e1bula - Remastered 2021",
+      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+    },
+    {
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Gli ultimi romantici",
+      "url": "https://open.spotify.com/track/2rPRLpdjm0qpXzfM46piJe"
+    },
+    {
+      "album": {
+        "name": "Calma Apparente",
+        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "I Belong to You (feat. Anastacia)",
+      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
+    },
+    {
+      "album": {
+        "name": "Dietro Le Apparenze",
+        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234920,
+      "name": "Inevitabile (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
+    },
+    {
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335533,
+      "name": "La Aurora",
+      "url": "https://open.spotify.com/track/7lJ7Sv7lWJQ5KmhZa5nITJ"
+    },
+    {
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
+    },
+    {
+      "album": {
+        "name": "La Mia Felicit\u00e0 (feat. Eros Ramazzotti)",
+        "url": "https://open.spotify.com/album/22Jtg9y38pFvjlKl8CM7mL"
+      },
+      "artists": [
+        {
+          "name": "Fabio Rovazzi",
+          "url": "https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170847,
+      "name": "La Mia Felicit\u00e0 (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2GmQZYlkLrJcxPPuCL7s2N"
+    },
+    {
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/42ip91KdjOIlSinrzbT33f"
+    },
+    {
+      "album": {
+        "name": "Eros (Spanish Version)",
+        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 584573,
+      "name": "Musica \u00e8",
+      "url": "https://open.spotify.com/track/0iBOLnepgpMhH4NinExjCn"
+    },
+    {
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305400,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L"
+    },
+    {
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 228973,
+      "name": "Nessuno a parte noi",
+      "url": "https://open.spotify.com/track/28Zy2IHlctRGdoxeFp1rSg"
+    },
+    {
+      "album": {
+        "name": "e2",
+        "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "No Estamos Solos",
+      "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
+    },
+    {
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "album": {
+        "name": "Ali E Radici",
+        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Parla con me",
+      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
+    },
+    {
+      "album": {
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Per Le Strade Una Canzone (feat. Luis Fonsi)",
+      "url": "https://open.spotify.com/track/6e75CS2hDy0ABDiO6Lj0wO"
+    },
+    {
+      "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 232613,
+      "name": "Perfetto",
+      "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
+    },
+    {
+      "album": {
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265026,
+      "name": "Pi\u00f9 bella cosa",
+      "url": "https://open.spotify.com/track/0KligwQn4Iy344p2Q5m6k6"
+    },
+    {
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/1T2L4oDjpkXixxar9oNwWm"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "Pi\u00f9 che puoi (feat. Cher)",
+      "url": "https://open.spotify.com/track/1PNEeTt2kEIWAzbkW2PeBW"
+    },
+    {
+      "album": {
+        "name": "Hay Vida",
+        "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
+      "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
+    },
+    {
+      "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Por Ti Me Casare",
+      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
+    },
+    {
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
+    },
+    {
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 223293,
+      "name": "Ritornare a ballare",
+      "url": "https://open.spotify.com/track/2nk3Wt0ZZjjSULtfGZ093X"
+    },
+    {
+      "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323866,
+      "name": "Se bastasse una canzone",
+      "url": "https://open.spotify.com/track/7dp45uA0Ws4TadWaMwdIRw"
+    },
+    {
+      "album": {
+        "name": "The World Of Pavarotti",
+        "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Pierangelo Cassano",
+          "url": "https://open.spotify.com/artist/6CqL00R5aLssfYFfxef5b5"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        },
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Rob Mathes",
+          "url": "https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC"
+        },
+        {
+          "name": "Robbie Kondor",
+          "url": "https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Boemi",
+          "url": "https://open.spotify.com/artist/2tYvY5iGtDhQ0eUwEaHnCx"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "Se Bastasse Una Canzone",
+      "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "album": {
+        "name": "Eros Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304573,
+      "name": "Si Bastasen un Par de Canciones",
+      "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
+    },
+    {
+      "album": {
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 218426,
+      "name": "Siamo",
+      "url": "https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw"
+    },
+    {
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211693,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1"
+    },
+    {
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "Terra promessa",
+      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+    },
+    {
+      "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Ti sposer\u00f2 perch\u00e9",
+      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
+    },
+    {
+      "album": {
+        "name": "En Todos Los Sentidos",
+        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Toma la Luna",
+      "url": "https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht"
+    },
+    {
+      "album": {
+        "name": "Eros 30 (Spanish/Latin Version)",
+        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271093,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+    },
+    {
+      "album": {
+        "name": "Noi",
+        "url": "https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Un Angelo Disteso Al Sole",
+      "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
+    },
+    {
+      "album": {
+        "name": "Stilelibero",
+        "url": "https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "Un angelo non \u00e9",
+      "url": "https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
+    },
+    {
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Una Emocion para Siempre",
+      "url": "https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN"
+    },
+    {
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253053,
+      "name": "Una Historia Importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
+    },
+    {
+      "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "Una storia importante",
+      "url": "https://open.spotify.com/track/17v4BXFKtbYmJFPqBgpGla"
+    },
+    {
+      "album": {
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Vita Ce N'\u00e8",
+      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3yoK5i"
 }

@@ -1,272 +1,653 @@
 {
-  "2023-04-06": 264,
-  "2023-04-07": 297,
-  "2023-04-09": 366,
-  "2023-04-10": 379,
-  "2023-04-11": 403,
-  "2023-04-12": 403,
-  "2023-04-13": 417,
-  "2023-04-14": 429,
-  "2023-04-15": 447,
-  "2023-04-16": 458,
-  "2023-04-17": 476,
-  "2023-04-18": 490,
-  "2023-04-19": 501,
-  "2023-04-20": 519,
-  "2023-04-21": 537,
-  "2023-04-22": 555,
-  "2023-04-23": 573,
-  "2023-04-24": 581,
-  "2023-04-25": 595,
-  "2023-04-26": 614,
-  "2023-04-27": 625,
-  "2023-04-28": 636,
-  "2023-04-29": 654,
-  "2023-04-30": 664,
-  "2023-05-01": 675,
-  "2023-05-02": 685,
-  "2023-05-03": 695,
-  "2023-05-04": 709,
-  "2023-05-05": 722,
-  "2023-05-06": 734,
-  "2023-05-07": 738,
-  "2023-05-08": 752,
-  "2023-05-09": 763,
-  "2023-05-10": 777,
-  "2023-05-11": 788,
-  "2023-05-12": 799,
-  "2023-05-13": 811,
-  "2023-05-14": 827,
-  "2023-05-15": 838,
-  "2023-05-16": 853,
-  "2023-05-17": 868,
-  "2023-05-18": 877,
-  "2023-05-19": 889,
-  "2023-05-20": 916,
-  "2023-05-21": 916,
-  "2023-05-22": 916,
-  "2023-05-23": 940,
-  "2023-05-24": 960,
-  "2023-05-25": 962,
-  "2023-05-26": 969,
-  "2023-05-27": 986,
-  "2023-05-28": 997,
-  "2023-05-29": 997,
-  "2023-05-30": 1022,
-  "2023-05-31": 1031,
-  "2023-06-01": 1046,
-  "2023-06-02": 1059,
-  "2023-06-03": 1070,
-  "2023-06-04": 1085,
-  "2023-06-05": 1099,
-  "2023-06-06": 1107,
-  "2023-06-07": 1118,
-  "2023-06-08": 1125,
-  "2023-06-09": 1139,
-  "2023-06-10": 1153,
-  "2023-06-11": 1163,
-  "2023-06-12": 1176,
-  "2023-06-13": 1186,
-  "2023-06-14": 1191,
-  "2023-06-15": 1201,
-  "2023-06-16": 1222,
-  "2023-06-17": 1235,
-  "2023-06-18": 1248,
-  "2023-06-19": 1260,
-  "2023-06-20": 1271,
-  "2023-06-21": 1283,
-  "2023-06-22": 1291,
-  "2023-06-23": 1304,
-  "2023-06-24": 1310,
-  "2023-06-25": 1315,
-  "2023-06-26": 1320,
-  "2023-06-27": 1325,
-  "2023-06-28": 1328,
-  "2023-06-29": 1328,
-  "2023-06-30": 1335,
-  "2023-07-01": 1345,
-  "2023-07-02": 1345,
-  "2023-07-03": 1348,
-  "2023-07-04": 1357,
-  "2023-07-05": 1360,
-  "2023-07-06": 1369,
-  "2023-07-07": 1369,
-  "2023-07-08": 1372,
-  "2023-07-09": 1376,
-  "2023-07-10": 1381,
-  "2023-07-11": 1390,
-  "2023-07-12": 1400,
-  "2023-07-13": 1409,
-  "2023-07-14": 1418,
-  "2023-07-15": 1421,
-  "2023-07-16": 1432,
-  "2023-07-17": 1436,
-  "2023-07-18": 1440,
-  "2023-07-19": 1445,
-  "2023-07-20": 1454,
-  "2023-07-21": 1466,
-  "2023-07-22": 1474,
-  "2023-07-23": 1480,
-  "2023-07-24": 1488,
-  "2023-07-25": 1498,
-  "2023-07-26": 1499,
-  "2023-07-27": 1506,
-  "2023-07-28": 1518,
-  "2023-07-29": 1520,
-  "2023-07-30": 1524,
-  "2023-07-31": 1529,
-  "2023-08-01": 1534,
-  "2023-08-02": 1541,
-  "2023-08-03": 1548,
-  "2023-08-04": 1552,
-  "2023-08-05": 1553,
-  "2023-08-06": 1559,
-  "2023-08-07": 1559,
-  "2023-08-08": 1564,
-  "2023-08-09": 1563,
-  "2023-08-10": 1572,
-  "2023-08-11": 1578,
-  "2023-08-12": 1577,
-  "2023-08-13": 1580,
-  "2023-08-14": 1585,
-  "2023-08-15": 1595,
-  "2023-08-16": 1595,
-  "2023-08-17": 1601,
-  "2023-08-18": 1607,
-  "2023-08-19": 1609,
-  "2023-08-20": 1615,
-  "2023-08-21": 1620,
-  "2023-08-22": 1622,
-  "2023-08-23": 1626,
-  "2023-08-24": 1632,
-  "2023-08-25": 1635,
-  "2023-08-26": 1637,
-  "2023-08-27": 1638,
-  "2023-08-28": 1640,
-  "2023-08-29": 1644,
-  "2023-08-30": 1644,
-  "2023-08-31": 1650,
-  "2023-09-01": 1670,
-  "2023-09-02": 1670,
-  "2023-09-03": 1672,
-  "2023-09-04": 1680,
-  "2023-09-05": 1683,
-  "2023-09-06": 1691,
-  "2023-09-07": 1700,
-  "2023-09-08": 1707,
-  "2023-09-09": 1714,
-  "2023-09-10": 1724,
-  "2023-09-11": 1738,
-  "2023-09-12": 1750,
-  "2023-09-13": 1752,
-  "2023-09-14": 1757,
-  "2023-09-15": 1762,
-  "2023-09-16": 1771,
-  "2023-09-17": 1780,
-  "2023-09-18": 1790,
-  "2023-09-19": 1793,
-  "2023-09-20": 1798,
-  "2023-09-21": 1810,
-  "2023-09-22": 1821,
-  "2023-09-23": 1828,
-  "2023-09-24": 1834,
-  "2023-09-25": 1837,
-  "2023-09-26": 1844,
-  "2023-09-27": 1850,
-  "2023-09-28": 1859,
-  "2023-09-29": 1865,
-  "2023-09-30": 1869,
-  "2023-10-01": 1874,
-  "2023-10-02": 1887,
-  "2023-10-03": 1891,
-  "2023-10-04": 1901,
-  "2023-10-05": 1906,
-  "2023-10-06": 1907,
-  "2023-10-07": 1915,
-  "2023-10-08": 1920,
-  "2023-10-09": 1927,
-  "2023-10-10": 1937,
-  "2023-10-11": 1949,
-  "2023-10-12": 1949,
-  "2023-10-13": 1953,
-  "2023-10-14": 1955,
-  "2023-10-15": 1960,
-  "2023-10-16": 1963,
-  "2023-10-17": 1970,
-  "2023-10-18": 1973,
-  "2023-10-19": 1980,
-  "2023-10-20": 1982,
-  "2023-10-21": 1988,
-  "2023-10-22": 1991,
-  "2023-10-23": 1994,
-  "2023-10-24": 1998,
-  "2023-10-25": 2005,
-  "2023-10-26": 2010,
-  "2023-10-27": 2016,
-  "2023-10-28": 2020,
-  "2023-10-29": 2020,
-  "2023-10-30": 2033,
-  "2023-10-31": 2033,
-  "2023-11-01": 2036,
-  "2023-11-02": 2039,
-  "2023-11-03": 2043,
-  "2023-11-04": 2049,
-  "2023-11-05": 2054,
-  "2023-11-06": 2054,
-  "2023-11-07": 2054,
-  "2023-11-08": 2054,
-  "2023-11-09": 2054,
-  "2023-11-10": 2054,
-  "2023-11-11": 2054,
-  "2023-11-12": 2054,
-  "2023-11-13": 2054,
-  "2023-11-14": 2054,
-  "2023-11-15": 2054,
-  "2023-11-16": 2054,
-  "2023-11-17": 2054,
-  "2023-11-18": 2054,
-  "2023-11-19": 2054,
-  "2023-11-20": 2054,
-  "2023-11-21": 2054,
-  "2023-11-22": 2054,
-  "2023-11-23": 2054,
-  "2023-11-24": 2054,
-  "2023-11-25": 2054,
-  "2023-11-26": 2054,
-  "2023-11-27": 2054,
-  "2023-11-28": 2054,
-  "2023-11-29": 2054,
-  "2023-11-30": 2054,
-  "2023-12-01": 2054,
-  "2023-12-02": 2054,
-  "2023-12-03": 2054,
-  "2023-12-04": 2054,
-  "2023-12-05": 2054,
-  "2023-12-06": 2054,
-  "2023-12-07": 2054,
-  "2023-12-08": 2054,
-  "2023-12-09": 2054,
-  "2023-12-10": 2054,
-  "2023-12-11": 2054,
-  "2023-12-12": 2054,
-  "2023-12-13": 2054,
-  "2023-12-14": 2054,
-  "2023-12-15": 2054,
-  "2023-12-16": 2054,
-  "2023-12-17": 2054,
-  "2023-12-18": 2054,
-  "2023-12-19": 2054,
-  "2023-12-20": 2054,
-  "2023-12-21": 2054,
-  "2023-12-22": 2054,
-  "2023-12-23": 2054,
-  "2023-12-24": 2054,
-  "2023-12-25": 2054,
-  "2023-12-26": 2054,
-  "2023-12-27": 2054,
-  "2023-12-30": 2054,
-  "2023-12-31": 2054,
-  "2024-01-01": 2054,
-  "2024-01-02": 2054,
-  "2024-01-03": 2054
+  "2024-01-17": 2054,
+  "date_first_scraped": "2023-04-06",
+  "description": "Synonymous with Bass Music, <a href=\"spotify:artist:76M2Ekj8bG8W7X2nbx2CpF\">NGHTMRE</a>, will get you feeling like it's festival season in this exclusive mix!",
+  "name": "NGHTMRE's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alamut Conflict (Mixed)",
+        "url": "https://open.spotify.com/album/6aFagDt28wOtasn4U0DUwM"
+      },
+      "artists": [
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Alamut Conflict - Mixed",
+      "url": "https://open.spotify.com/track/5FolMaboOi6e6ml8WGNzAE"
+    },
+    {
+      "album": {
+        "name": "Another Dose (Mixed)",
+        "url": "https://open.spotify.com/album/6Q6n451AfXHwwjMuHvLxTj"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Another Dose - Mixed",
+      "url": "https://open.spotify.com/track/1WwCqDwpeqJAdiIqDDlwwZ"
+    },
+    {
+      "album": {
+        "name": "Dream State (Mixed)",
+        "url": "https://open.spotify.com/album/5fT3owKLdMRvWapj5IGd9I"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Dream State - Mixed",
+      "url": "https://open.spotify.com/track/3x3hThcOawOBTGizryZVui"
+    },
+    {
+      "album": {
+        "name": "Elbow Grease (Mixed)",
+        "url": "https://open.spotify.com/album/5B57ejjOoXCRzWuCgtX82i"
+      },
+      "artists": [
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Elbow Grease - Mixed",
+      "url": "https://open.spotify.com/track/5Lr8BmVopVLPbZq0noz888"
+    },
+    {
+      "album": {
+        "name": "Emoboy303 (SIDE) [Mixed]",
+        "url": "https://open.spotify.com/album/659RsFjGdpFlpnICclJjSO"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Emoboy303 (SIDE) - Mixed",
+      "url": "https://open.spotify.com/track/6wx5omluC9v5xTvJuCSCMA"
+    },
+    {
+      "album": {
+        "name": "Euphoria (Mixed)",
+        "url": "https://open.spotify.com/album/2Q64Wm3E3eKraKx0JfJdPw"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Euphoria - Mixed",
+      "url": "https://open.spotify.com/track/4o8RCWTYKeLN5vvMPb3Sme"
+    },
+    {
+      "album": {
+        "name": "Fall Into Me (Mixed)",
+        "url": "https://open.spotify.com/album/3yu7IPbKfudjdDHVLFYCRs"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Fall Into Me - Mixed",
+      "url": "https://open.spotify.com/track/2IPaU944CGGmvmUqu7P7Sl"
+    },
+    {
+      "album": {
+        "name": "Fear (Mixed)",
+        "url": "https://open.spotify.com/album/3HsfpKk0B6wBWxRgFsytcp"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "Fear - Mixed",
+      "url": "https://open.spotify.com/track/3UPShTrCT5XMoW0ynG3fBL"
+    },
+    {
+      "album": {
+        "name": "FEELING GUD (Mixed)",
+        "url": "https://open.spotify.com/album/2B5EFKo7m7tQ8svGB1oCFS"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "FEELING GUD - Mixed",
+      "url": "https://open.spotify.com/track/5FmwaXYU6VYvmSyAOvkk6I"
+    },
+    {
+      "album": {
+        "name": "First Time (feat. Dylan Matthew) - NGHTMRE Remix [Mixed]",
+        "url": "https://open.spotify.com/album/6XyP4iz2QI05KzezMq9RUv"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "First Time (feat. Dylan Matthew) - NGHTMRE Remix - Mixed",
+      "url": "https://open.spotify.com/track/5REsnhrEZVkH11euZqPxKl"
+    },
+    {
+      "album": {
+        "name": "Funk (Mixed)",
+        "url": "https://open.spotify.com/album/3b3q4hRTpM10hX1RS7cGR0"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Funk - Mixed",
+      "url": "https://open.spotify.com/track/2dxxIy8H3RWRjLBeWU4CbC"
+    },
+    {
+      "album": {
+        "name": "GUD VIBRATIONS (Mixed)",
+        "url": "https://open.spotify.com/album/3vBXTeSCaCZu1S4d4T1eKM"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "GUD VIBRATIONS - Mixed",
+      "url": "https://open.spotify.com/track/6UXenidEyYCHJODq3juWLD"
+    },
+    {
+      "album": {
+        "name": "Intro (Mixed)",
+        "url": "https://open.spotify.com/album/39FWXEBlbUH06DApt7rJ1k"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Intro - Mixed",
+      "url": "https://open.spotify.com/track/1F3UKf4UAWC96I3YMR77B1"
+    },
+    {
+      "album": {
+        "name": "Laserbeam (Mixed)",
+        "url": "https://open.spotify.com/album/2tyGjOh9omobF6DHvhNL3t"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Laserbeam - Mixed",
+      "url": "https://open.spotify.com/track/6GARBzcIb7NVdkWgEUAasI"
+    },
+    {
+      "album": {
+        "name": "Love (Mixed)",
+        "url": "https://open.spotify.com/album/6G2wm2SPKcHPVFqwvJLq25"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Love - Mixed",
+      "url": "https://open.spotify.com/track/0vkoH8ZGcdepE5v3opHpLw"
+    },
+    {
+      "album": {
+        "name": "Make U SWEAT! (Mixed)",
+        "url": "https://open.spotify.com/album/46rCSjiz5yuvKsdTI3BrKh"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Make U SWEAT! - Mixed",
+      "url": "https://open.spotify.com/track/6neUOu7KqFv3UwwnoJODX1"
+    },
+    {
+      "album": {
+        "name": "Man's First Inhibition (Mixed)",
+        "url": "https://open.spotify.com/album/5OKnDEMtRleUUTrlIxawf0"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kidd Keem",
+          "url": "https://open.spotify.com/artist/0Z7sj8gioUSbFQDJQPYHYK"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "Man's First Inhibition - Mixed",
+      "url": "https://open.spotify.com/track/1g8mSrao4fhKrn1BuTEHsh"
+    },
+    {
+      "album": {
+        "name": "MOSH - Stoned LeveL Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7BabOgu7otsVnhpFVS1yiH"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "MOSH - Stoned LeveL Remix - Mixed",
+      "url": "https://open.spotify.com/track/4M3ACxj24JwNqn6SsoiYpW"
+    },
+    {
+      "album": {
+        "name": "murdah (ISOxo Remix) [Mixed]",
+        "url": "https://open.spotify.com/album/4Qt3h8cPP3C5PVPNQy2DvZ"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "murdah (ISOxo Remix) - Mixed",
+      "url": "https://open.spotify.com/track/2XFnr426LxzwkBGiEVMkEF"
+    },
+    {
+      "album": {
+        "name": "Outro (Mixed)",
+        "url": "https://open.spotify.com/album/250MVUbBeLQXjqslu1HzDF"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46000,
+      "name": "Outro - Mixed",
+      "url": "https://open.spotify.com/track/5Td1RmPmRMCyp7Vm2CFjiM"
+    },
+    {
+      "album": {
+        "name": "REDloop (Mixed)",
+        "url": "https://open.spotify.com/album/4AwCSFYKg7nowVYtjQWGzO"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "REDloop - Mixed",
+      "url": "https://open.spotify.com/track/77ScEkkbuR36chWHk9SM5q"
+    },
+    {
+      "album": {
+        "name": "Shady Intentions (Mixed)",
+        "url": "https://open.spotify.com/album/3E7g8JLaw0AGwA1JyAy463"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Tori Levett",
+          "url": "https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Shady Intentions - Mixed",
+      "url": "https://open.spotify.com/track/6fOec69SpjG0fgHZY6oxHg"
+    },
+    {
+      "album": {
+        "name": "Skanka (Mixed)",
+        "url": "https://open.spotify.com/album/4C9mRgmFhY57oXx4CTpL1f"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "Skanka - Mixed",
+      "url": "https://open.spotify.com/track/542PMMYMg5MDukEMk0hfJ8"
+    },
+    {
+      "album": {
+        "name": "Survive (Mixed)",
+        "url": "https://open.spotify.com/album/7HJPzhkWKfLXT0WBmMUDsW"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Survive - Mixed",
+      "url": "https://open.spotify.com/track/7vZ1EKU00sfsOju0lOv7vn"
+    },
+    {
+      "album": {
+        "name": "Teardrop (Mixed)",
+        "url": "https://open.spotify.com/album/5AzJKp8OJllyIoH1kwzBO1"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Teardrop - Mixed",
+      "url": "https://open.spotify.com/track/143zLkoFyTBtcMSy9hOVPn"
+    },
+    {
+      "album": {
+        "name": "The One (Mixed)",
+        "url": "https://open.spotify.com/album/5z9qWddnnFri2NcMBeCLbc"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "The One - Mixed",
+      "url": "https://open.spotify.com/track/0XB45y49EWvVLWTSonjjMT"
+    },
+    {
+      "album": {
+        "name": "Threshold (Mixed)",
+        "url": "https://open.spotify.com/album/53QfOpY0mtuFasadDLZW1i"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "Threshold - Mixed",
+      "url": "https://open.spotify.com/track/1FBe8LO59stU2uzVZcdgDX"
+    },
+    {
+      "album": {
+        "name": "Trials - NGHTMRE & SPACE LACES Club Mix (Mixed)",
+        "url": "https://open.spotify.com/album/3JjplXXHSSDY3kOBbrGFRN"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Trials - NGHTMRE & SPACE LACES Club Mix - Mixed",
+      "url": "https://open.spotify.com/track/51pjyhG9vKbQJmHBlv5rYO"
+    },
+    {
+      "album": {
+        "name": "Tuba Demon - HOL! Remix (Mixed)",
+        "url": "https://open.spotify.com/album/5nNxaBy3fkRIWLkf8jDC77"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "Tuba Demon - HOL! Remix - Mixed",
+      "url": "https://open.spotify.com/track/2xsVS0Pk7LeAWEMPa2fZEt"
+    },
+    {
+      "album": {
+        "name": "XENA (Mixed)",
+        "url": "https://open.spotify.com/album/1Q9KnYgbrLusoTBCyg88BA"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69000,
+      "name": "XENA - Mixed",
+      "url": "https://open.spotify.com/track/4kUC16aei4mvSD19c5dufl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2WFMdfNdpBt"
 }

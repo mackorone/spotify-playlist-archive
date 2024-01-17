@@ -1,577 +1,575 @@
 {
-  "2022-06-02": 1865,
-  "2022-06-03": 1868,
-  "2022-06-04": 1873,
-  "2022-06-05": 1883,
-  "2022-06-06": 1885,
-  "2022-06-07": 1893,
-  "2022-06-08": 1900,
-  "2022-06-09": 1904,
-  "2022-06-10": 1908,
-  "2022-06-11": 1919,
-  "2022-06-12": 1926,
-  "2022-06-13": 1932,
-  "2022-06-14": 1940,
-  "2022-06-15": 1954,
-  "2022-06-16": 1960,
-  "2022-06-17": 1966,
-  "2022-06-18": 1974,
-  "2022-06-19": 1983,
-  "2022-06-20": 1983,
-  "2022-06-21": 1991,
-  "2022-06-22": 2000,
-  "2022-06-23": 2000,
-  "2022-06-24": 2009,
-  "2022-06-25": 2017,
-  "2022-06-26": 2024,
-  "2022-06-27": 2026,
-  "2022-06-28": 2041,
-  "2022-06-29": 2048,
-  "2022-06-30": 2059,
-  "2022-07-01": 2063,
-  "2022-07-02": 2068,
-  "2022-07-03": 2074,
-  "2022-07-04": 2082,
-  "2022-07-05": 2089,
-  "2022-07-06": 2102,
-  "2022-07-07": 2109,
-  "2022-07-08": 2117,
-  "2022-07-09": 2121,
-  "2022-07-10": 2129,
-  "2022-07-11": 2138,
-  "2022-07-12": 2148,
-  "2022-07-13": 2155,
-  "2022-07-14": 2160,
-  "2022-07-15": 2172,
-  "2022-07-16": 2183,
-  "2022-07-17": 2189,
-  "2022-07-18": 2191,
-  "2022-07-19": 2195,
-  "2022-07-20": 2203,
-  "2022-07-21": 2206,
-  "2022-07-22": 2213,
-  "2022-07-23": 2219,
-  "2022-07-24": 2224,
-  "2022-07-25": 2229,
-  "2022-07-26": 2233,
-  "2022-07-27": 2238,
-  "2022-07-28": 2246,
-  "2022-07-29": 2251,
-  "2022-07-30": 2262,
-  "2022-07-31": 2262,
-  "2022-08-01": 2271,
-  "2022-08-02": 2281,
-  "2022-08-03": 2281,
-  "2022-08-04": 2293,
-  "2022-08-05": 2303,
-  "2022-08-06": 2308,
-  "2022-08-07": 2311,
-  "2022-08-08": 2315,
-  "2022-08-09": 2326,
-  "2022-08-10": 2334,
-  "2022-08-11": 2351,
-  "2022-08-12": 2354,
-  "2022-08-13": 2354,
-  "2022-08-14": 2367,
-  "2022-08-15": 2370,
-  "2022-08-16": 2381,
-  "2022-08-17": 2393,
-  "2022-08-18": 2397,
-  "2022-08-19": 2405,
-  "2022-08-20": 2413,
-  "2022-08-21": 2415,
-  "2022-08-22": 2419,
-  "2022-08-23": 2422,
-  "2022-08-24": 2427,
-  "2022-08-25": 2436,
-  "2022-08-26": 2444,
-  "2022-08-27": 2446,
-  "2022-08-28": 2459,
-  "2022-08-29": 2466,
-  "2022-08-30": 2469,
-  "2022-08-31": 2474,
-  "2022-09-01": 2478,
-  "2022-09-02": 2486,
-  "2022-09-03": 2501,
-  "2022-09-04": 2509,
-  "2022-09-05": 2515,
-  "2022-09-06": 2519,
-  "2022-09-07": 2527,
-  "2022-09-09": 2548,
-  "2022-09-10": 2560,
-  "2022-09-11": 2569,
-  "2022-09-12": 2580,
-  "2022-09-13": 2596,
-  "2022-09-15": 2618,
-  "2022-09-16": 2638,
-  "2022-09-17": 2653,
-  "2022-09-18": 2664,
-  "2022-09-19": 2664,
-  "2022-09-20": 2670,
-  "2022-09-21": 2676,
-  "2022-09-22": 2690,
-  "2022-09-23": 2701,
-  "2022-09-24": 2711,
-  "2022-09-25": 2722,
-  "2022-09-26": 2733,
-  "2022-09-27": 2738,
-  "2022-09-28": 2747,
-  "2022-09-29": 2762,
-  "2022-09-30": 2772,
-  "2022-10-01": 2781,
-  "2022-10-02": 2794,
-  "2022-10-03": 2800,
-  "2022-10-04": 2808,
-  "2022-10-05": 2815,
-  "2022-10-06": 2825,
-  "2022-10-07": 2831,
-  "2022-10-08": 2843,
-  "2022-10-09": 2861,
-  "2022-10-10": 2863,
-  "2022-10-11": 2871,
-  "2022-10-12": 2881,
-  "2022-10-13": 2894,
-  "2022-10-14": 2909,
-  "2022-10-15": 2918,
-  "2022-10-16": 2927,
-  "2022-10-17": 2935,
-  "2022-10-18": 2944,
-  "2022-10-19": 2955,
-  "2022-10-20": 2962,
-  "2022-10-21": 2973,
-  "2022-10-22": 2979,
-  "2022-10-23": 2991,
-  "2022-10-24": 3001,
-  "2022-10-25": 3011,
-  "2022-10-26": 3021,
-  "2022-10-27": 3032,
-  "2022-10-28": 3039,
-  "2022-10-29": 3049,
-  "2022-10-30": 3058,
-  "2022-10-31": 3072,
-  "2022-11-01": 3084,
-  "2022-11-02": 3101,
-  "2022-11-03": 3114,
-  "2022-11-04": 3134,
-  "2022-11-05": 3139,
-  "2022-11-06": 3145,
-  "2022-11-07": 3156,
-  "2022-11-08": 3163,
-  "2022-11-09": 3177,
-  "2022-11-10": 3183,
-  "2022-11-11": 3188,
-  "2022-11-12": 3193,
-  "2022-11-13": 3200,
-  "2022-11-14": 3210,
-  "2022-11-15": 3220,
-  "2022-11-16": 3225,
-  "2022-11-17": 3233,
-  "2022-11-18": 3235,
-  "2022-11-19": 3235,
-  "2022-11-20": 3248,
-  "2022-11-21": 3246,
-  "2022-11-22": 3263,
-  "2022-11-23": 3263,
-  "2022-11-24": 3292,
-  "2022-11-25": 3306,
-  "2022-11-26": 3318,
-  "2022-11-27": 3325,
-  "2022-11-28": 3333,
-  "2022-11-29": 3346,
-  "2022-11-30": 3353,
-  "2022-12-01": 3358,
-  "2022-12-02": 3363,
-  "2022-12-03": 3374,
-  "2022-12-04": 3385,
-  "2022-12-05": 3399,
-  "2022-12-06": 3410,
-  "2022-12-07": 3422,
-  "2022-12-08": 3436,
-  "2022-12-09": 3441,
-  "2022-12-10": 3445,
-  "2022-12-11": 3451,
-  "2022-12-12": 3459,
-  "2022-12-13": 3465,
-  "2022-12-14": 3480,
-  "2022-12-15": 3484,
-  "2022-12-16": 3494,
-  "2022-12-17": 3502,
-  "2022-12-18": 3509,
-  "2022-12-19": 3513,
-  "2022-12-20": 3523,
-  "2022-12-21": 3523,
-  "2022-12-22": 3529,
-  "2022-12-24": 3542,
-  "2022-12-25": 3548,
-  "2022-12-26": 3553,
-  "2022-12-27": 3560,
-  "2022-12-28": 3569,
-  "2022-12-29": 3575,
-  "2022-12-30": 3580,
-  "2022-12-31": 3585,
-  "2023-01-01": 3595,
-  "2023-01-02": 3602,
-  "2023-01-03": 3611,
-  "2023-01-04": 3616,
-  "2023-01-05": 3628,
-  "2023-01-06": 3641,
-  "2023-01-07": 3657,
-  "2023-01-08": 3662,
-  "2023-01-09": 3674,
-  "2023-01-10": 3686,
-  "2023-01-11": 3696,
-  "2023-01-12": 3705,
-  "2023-01-13": 3719,
-  "2023-01-14": 3736,
-  "2023-01-15": 3741,
-  "2023-01-16": 3754,
-  "2023-01-17": 3772,
-  "2023-01-18": 3777,
-  "2023-01-19": 3782,
-  "2023-01-20": 3794,
-  "2023-01-21": 3801,
-  "2023-01-22": 3815,
-  "2023-01-23": 3827,
-  "2023-01-24": 3837,
-  "2023-01-25": 3846,
-  "2023-01-26": 3856,
-  "2023-01-27": 3870,
-  "2023-01-28": 3881,
-  "2023-01-29": 3891,
-  "2023-01-30": 3902,
-  "2023-01-31": 3902,
-  "2023-02-01": 3919,
-  "2023-02-02": 3925,
-  "2023-02-03": 3937,
-  "2023-02-04": 3946,
-  "2023-02-05": 3959,
-  "2023-02-06": 3971,
-  "2023-02-07": 3981,
-  "2023-02-08": 4008,
-  "2023-02-09": 4008,
-  "2023-02-10": 4015,
-  "2023-02-11": 4017,
-  "2023-02-12": 4040,
-  "2023-02-13": 4050,
-  "2023-02-14": 4050,
-  "2023-02-15": 4055,
-  "2023-02-16": 4068,
-  "2023-02-17": 4076,
-  "2023-02-18": 4086,
-  "2023-02-19": 4086,
-  "2023-02-20": 4092,
-  "2023-02-21": 4107,
-  "2023-02-22": 4120,
-  "2023-02-23": 4133,
-  "2023-02-24": 4144,
-  "2023-02-25": 4166,
-  "2023-02-26": 4174,
-  "2023-02-27": 4190,
-  "2023-02-28": 4190,
-  "2023-03-01": 4198,
-  "2023-03-02": 4208,
-  "2023-03-03": 4224,
-  "2023-03-04": 4231,
-  "2023-03-05": 4261,
-  "2023-03-06": 4261,
-  "2023-03-07": 4271,
-  "2023-03-08": 4277,
-  "2023-03-09": 4283,
-  "2023-03-10": 4293,
-  "2023-03-11": 4301,
-  "2023-03-12": 4309,
-  "2023-03-13": 4324,
-  "2023-03-14": 4337,
-  "2023-03-15": 4343,
-  "2023-03-16": 4358,
-  "2023-03-17": 4358,
-  "2023-03-18": 4370,
-  "2023-03-19": 4377,
-  "2023-03-20": 4387,
-  "2023-03-21": 4407,
-  "2023-03-22": 4415,
-  "2023-03-23": 4423,
-  "2023-03-24": 4423,
-  "2023-03-25": 4438,
-  "2023-03-26": 4448,
-  "2023-03-27": 4460,
-  "2023-03-28": 4477,
-  "2023-03-29": 4491,
-  "2023-03-30": 4505,
-  "2023-03-31": 4505,
-  "2023-04-01": 4517,
-  "2023-04-02": 4527,
-  "2023-04-03": 4534,
-  "2023-04-04": 4551,
-  "2023-04-05": 4560,
-  "2023-04-06": 4563,
-  "2023-04-07": 4575,
-  "2023-04-09": 4605,
-  "2023-04-10": 4611,
-  "2023-04-11": 4631,
-  "2023-04-12": 4631,
-  "2023-04-13": 4638,
-  "2023-04-14": 4649,
-  "2023-04-15": 4657,
-  "2023-04-16": 4668,
-  "2023-04-17": 4676,
-  "2023-04-18": 4685,
-  "2023-04-19": 4690,
-  "2023-04-20": 4695,
-  "2023-04-21": 4701,
-  "2023-04-22": 4707,
-  "2023-04-23": 4712,
-  "2023-04-24": 4724,
-  "2023-04-25": 4733,
-  "2023-04-26": 4742,
-  "2023-04-27": 4760,
-  "2023-04-28": 4762,
-  "2023-04-29": 4767,
-  "2023-04-30": 4778,
-  "2023-05-01": 4785,
-  "2023-05-02": 4793,
-  "2023-05-03": 4801,
-  "2023-05-04": 4806,
-  "2023-05-05": 4817,
-  "2023-05-06": 4826,
-  "2023-05-07": 4836,
-  "2023-05-08": 4843,
-  "2023-05-09": 4854,
-  "2023-05-10": 4868,
-  "2023-05-11": 4877,
-  "2023-05-12": 4888,
-  "2023-05-13": 4896,
-  "2023-05-14": 4906,
-  "2023-05-15": 4910,
-  "2023-05-16": 4917,
-  "2023-05-17": 4929,
-  "2023-05-18": 4932,
-  "2023-05-19": 4940,
-  "2023-05-20": 4950,
-  "2023-05-21": 4950,
-  "2023-05-22": 4950,
-  "2023-05-23": 4957,
-  "2023-05-24": 4974,
-  "2023-05-25": 4975,
-  "2023-05-26": 4980,
-  "2023-05-27": 4989,
-  "2023-05-28": 4997,
-  "2023-05-29": 4997,
-  "2023-05-30": 5016,
-  "2023-05-31": 5026,
-  "2023-06-01": 5038,
-  "2023-06-02": 5045,
-  "2023-06-03": 5052,
-  "2023-06-04": 5057,
-  "2023-06-05": 5065,
-  "2023-06-06": 5072,
-  "2023-06-07": 5080,
-  "2023-06-08": 5089,
-  "2023-06-09": 5095,
-  "2023-06-10": 5102,
-  "2023-06-11": 5106,
-  "2023-06-12": 5117,
-  "2023-06-13": 5132,
-  "2023-06-14": 5144,
-  "2023-06-15": 5157,
-  "2023-06-16": 5165,
-  "2023-06-17": 5173,
-  "2023-06-18": 5185,
-  "2023-06-19": 5194,
-  "2023-06-20": 5201,
-  "2023-06-21": 5210,
-  "2023-06-22": 5213,
-  "2023-06-23": 5213,
-  "2023-06-24": 5225,
-  "2023-06-25": 5231,
-  "2023-06-26": 5235,
-  "2023-06-27": 5244,
-  "2023-06-28": 5258,
-  "2023-06-29": 5266,
-  "2023-06-30": 5273,
-  "2023-07-01": 5291,
-  "2023-07-02": 5291,
-  "2023-07-03": 5303,
-  "2023-07-04": 5307,
-  "2023-07-05": 5313,
-  "2023-07-06": 5339,
-  "2023-07-07": 5339,
-  "2023-07-08": 5348,
-  "2023-07-09": 5358,
-  "2023-07-10": 5363,
-  "2023-07-11": 5371,
-  "2023-07-12": 5381,
-  "2023-07-13": 5390,
-  "2023-07-14": 5392,
-  "2023-07-15": 5392,
-  "2023-07-16": 5404,
-  "2023-07-17": 5410,
-  "2023-07-18": 5413,
-  "2023-07-19": 5421,
-  "2023-07-20": 5429,
-  "2023-07-21": 5435,
-  "2023-07-22": 5445,
-  "2023-07-23": 5453,
-  "2023-07-24": 5466,
-  "2023-07-25": 5477,
-  "2023-07-26": 5483,
-  "2023-07-27": 5489,
-  "2023-07-28": 5502,
-  "2023-07-29": 5519,
-  "2023-07-30": 5524,
-  "2023-07-31": 5531,
-  "2023-08-01": 5538,
-  "2023-08-02": 5547,
-  "2023-08-03": 5555,
-  "2023-08-04": 5563,
-  "2023-08-05": 5571,
-  "2023-08-06": 5582,
-  "2023-08-07": 5582,
-  "2023-08-08": 5589,
-  "2023-08-09": 5598,
-  "2023-08-10": 5613,
-  "2023-08-11": 5623,
-  "2023-08-12": 5637,
-  "2023-08-13": 5645,
-  "2023-08-14": 5654,
-  "2023-08-15": 5665,
-  "2023-08-16": 5665,
-  "2023-08-17": 5672,
-  "2023-08-18": 5677,
-  "2023-08-19": 5683,
-  "2023-08-20": 5696,
-  "2023-08-21": 5709,
-  "2023-08-22": 5713,
-  "2023-08-23": 5715,
-  "2023-08-24": 5725,
-  "2023-08-25": 5737,
-  "2023-08-26": 5741,
-  "2023-08-27": 5747,
-  "2023-08-28": 5765,
-  "2023-08-29": 5773,
-  "2023-08-30": 5781,
-  "2023-08-31": 5782,
-  "2023-09-01": 5807,
-  "2023-09-02": 5807,
-  "2023-09-03": 5816,
-  "2023-09-04": 5830,
-  "2023-09-05": 5838,
-  "2023-09-06": 5849,
-  "2023-09-07": 5861,
-  "2023-09-08": 5870,
-  "2023-09-09": 5884,
-  "2023-09-10": 5897,
-  "2023-09-11": 5911,
-  "2023-09-12": 5925,
-  "2023-09-13": 5947,
-  "2023-09-14": 5950,
-  "2023-09-15": 5966,
-  "2023-09-16": 5981,
-  "2023-09-17": 5989,
-  "2023-09-18": 6000,
-  "2023-09-19": 6014,
-  "2023-09-20": 6027,
-  "2023-09-21": 6032,
-  "2023-09-22": 6039,
-  "2023-09-23": 6050,
-  "2023-09-24": 6065,
-  "2023-09-25": 6071,
-  "2023-09-26": 6089,
-  "2023-09-27": 6103,
-  "2023-09-28": 6110,
-  "2023-09-29": 6127,
-  "2023-09-30": 6135,
-  "2023-10-01": 6145,
-  "2023-10-02": 6156,
-  "2023-10-03": 6162,
-  "2023-10-04": 6173,
-  "2023-10-05": 6185,
-  "2023-10-06": 6194,
-  "2023-10-07": 6199,
-  "2023-10-08": 6218,
-  "2023-10-09": 6225,
-  "2023-10-10": 6240,
-  "2023-10-11": 6254,
-  "2023-10-12": 6254,
-  "2023-10-13": 6263,
-  "2023-10-14": 6275,
-  "2023-10-15": 6283,
-  "2023-10-16": 6294,
-  "2023-10-17": 6309,
-  "2023-10-18": 6325,
-  "2023-10-19": 6338,
-  "2023-10-20": 6343,
-  "2023-10-21": 6362,
-  "2023-10-22": 6366,
-  "2023-10-23": 6373,
-  "2023-10-24": 6390,
-  "2023-10-25": 6409,
-  "2023-10-26": 6417,
-  "2023-10-27": 6428,
-  "2023-10-28": 6438,
-  "2023-10-29": 6446,
-  "2023-10-30": 6467,
-  "2023-10-31": 6467,
-  "2023-11-01": 6490,
-  "2023-11-02": 6503,
-  "2023-11-03": 6517,
-  "2023-11-04": 6523,
-  "2023-11-05": 6535,
-  "2023-11-06": 6544,
-  "2023-11-07": 6556,
-  "2023-11-08": 6562,
-  "2023-11-09": 6575,
-  "2023-11-10": 6580,
-  "2023-11-11": 6590,
-  "2023-11-12": 6603,
-  "2023-11-13": 6618,
-  "2023-11-14": 6623,
-  "2023-11-15": 6623,
-  "2023-11-16": 6645,
-  "2023-11-17": 6663,
-  "2023-11-18": 6663,
-  "2023-11-19": 6682,
-  "2023-11-20": 6692,
-  "2023-11-21": 6700,
-  "2023-11-22": 6713,
-  "2023-11-23": 6726,
-  "2023-11-24": 6740,
-  "2023-11-25": 6746,
-  "2023-11-26": 6758,
-  "2023-11-27": 6762,
-  "2023-11-28": 6775,
-  "2023-11-29": 6796,
-  "2023-11-30": 6796,
-  "2023-12-01": 6804,
-  "2023-12-02": 6809,
-  "2023-12-03": 6817,
-  "2023-12-04": 6830,
-  "2023-12-05": 6844,
-  "2023-12-06": 6849,
-  "2023-12-07": 6854,
-  "2023-12-08": 6860,
-  "2023-12-09": 6866,
-  "2023-12-10": 6870,
-  "2023-12-11": 6872,
-  "2023-12-12": 6875,
-  "2023-12-13": 6874,
-  "2023-12-14": 6882,
-  "2023-12-15": 6884,
-  "2023-12-16": 6888,
-  "2023-12-17": 6889,
-  "2023-12-18": 6893,
-  "2023-12-19": 6893,
-  "2023-12-20": 6895,
-  "2023-12-21": 6896,
-  "2023-12-22": 6899,
-  "2023-12-23": 6900,
-  "2023-12-24": 6902,
-  "2023-12-25": 6906,
-  "2023-12-26": 6912,
-  "2023-12-27": 6914,
-  "2023-12-30": 6922,
-  "2023-12-31": 6924,
-  "2024-01-01": 6926,
-  "2024-01-02": 6931,
-  "2024-01-03": 6934
+  "2024-01-17": 6983,
+  "date_first_scraped": "2022-06-02",
+  "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
+  "name": "Pueblos Ind\u00edgenas: Legado Musical",
+  "tracks": [
+    {
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "Adoraci\u00f3n al Sol",
+      "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181760,
+      "name": "Al Se\u00f1or Cuauhtemoc",
+      "url": "https://open.spotify.com/track/3UYKQp8Ty7HaAxXe8ZDGAc"
+    },
+    {
+      "album": {
+        "name": "Mayan Ancestral Music - Healing Music for Mother Earth",
+        "url": "https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412666,
+      "name": "Birth Song for Quetzalcoatl",
+      "url": "https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj"
+    },
+    {
+      "album": {
+        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
+        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
+      },
+      "artists": [
+        {
+          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "California Nipaia Nipaia - Adi\u00f3s California",
+      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
+    },
+    {
+      "album": {
+        "name": "Chiapas",
+        "url": "https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88293,
+      "name": "Chumeltic",
+      "url": "https://open.spotify.com/track/14QgWzTRoEyXSuvyFHVomT"
+    },
+    {
+      "album": {
+        "name": "Aztec Dances",
+        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283906,
+      "name": "Copal Offering To The Four Directions",
+      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158413,
+      "name": "Danza de los Concheros",
+      "url": "https://open.spotify.com/track/6DHxuMSkjuwd8L6cMPVgrQ"
+    },
+    {
+      "album": {
+        "name": "The Flayed God",
+        "url": "https://open.spotify.com/album/36hOL8R8t9sKSz64pQ9qxK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "Danza Del Tambor",
+      "url": "https://open.spotify.com/track/5aUsfU1EVSDQEBaoXjHNhK"
+    },
+    {
+      "album": {
+        "name": "Prehispanic Music",
+        "url": "https://open.spotify.com/album/0wYjSe3KWirJC0F1OPNu3A"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Feast In the Mountain",
+      "url": "https://open.spotify.com/track/11sAlVf9tnf4A1JfUuPGas"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142320,
+      "name": "Festival de Xochipilli",
+      "url": "https://open.spotify.com/track/1HVW1yYAqFf1M8C3aUfTpt"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68266,
+      "name": "Flauta Azteca-Teponaztli - Cascabeles y Sonajas",
+      "url": "https://open.spotify.com/track/4IHCFpAEZnjoMSX3O7JhrW"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52360,
+      "name": "Flauta Grande de Colima y Caracol Azteca",
+      "url": "https://open.spotify.com/track/0tGIHFgNu2kKuyWcJE5gug"
+    },
+    {
+      "album": {
+        "name": "Tree Of Life",
+        "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Icnocuicatl",
+      "url": "https://open.spotify.com/track/5ZqKUtJ6NADj7Y82skZgb0"
+    },
+    {
+      "album": {
+        "name": "K'op Kuxul",
+        "url": "https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Slajem K'op",
+          "url": "https://open.spotify.com/artist/0tfqvpIPdZzRdu8fcCedMb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Jajvel",
+      "url": "https://open.spotify.com/track/3xxs8YXrqQW2lILPeQ9Pxz"
+    },
+    {
+      "album": {
+        "name": "K'op Kuxul",
+        "url": "https://open.spotify.com/album/5gkAiy0mlD7bchVoHVAjFr"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        },
+        {
+          "name": "Slajem K\u2019op",
+          "url": "https://open.spotify.com/artist/4O3aVR4zj02Tm65QmHQQsv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205714,
+      "name": "Jajvel",
+      "url": "https://open.spotify.com/track/26yDq0F8D1NIBr6s133aMM"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda de la M\u00fasica P'urhepecha, Vol. VII",
+        "url": "https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Pr\u00f3spero",
+          "url": "https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153746,
+      "name": "Josefinita",
+      "url": "https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS"
+    },
+    {
+      "album": {
+        "name": "Flauta Ind\u00edgena de M\u00e9xico",
+        "url": "https://open.spotify.com/album/4o3JpQsSZ4aIqegl1V2XBH"
+      },
+      "artists": [
+        {
+          "name": "Ehecatl",
+          "url": "https://open.spotify.com/artist/0U9dywhQ4PRbBn82jXGy15"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Juego de Pelota",
+      "url": "https://open.spotify.com/track/3DJjJNBcBbUjEKwy4HOIIQ"
+    },
+    {
+      "album": {
+        "name": "Desde M\u00e9xico \"Sonido Huichol\"",
+        "url": "https://open.spotify.com/album/6VnlvZ1oTEyLXixqCvsjYd"
+      },
+      "artists": [
+        {
+          "name": "Huichol Musical",
+          "url": "https://open.spotify.com/artist/1gxAFRyAsrlZu5Pty5t5gO"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "La Cusinela",
+      "url": "https://open.spotify.com/track/3wafR8MqQB6Yk0XYDA9k05"
+    },
+    {
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+    },
+    {
+      "album": {
+        "name": "Codex - Music of Ancient Mexico",
+        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "Nightingale. Music for the Moon and Stars.",
+      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "Ofrenda a Huitzilopoxtli",
+      "url": "https://open.spotify.com/track/5tJWeSXyV9qzCbIPkKcrBh"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153026,
+      "name": "Ritual Consagrado a los Dioses",
+      "url": "https://open.spotify.com/track/5rvaAQ4KccKBQX3DgW5z8T"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Ritual Consagrado a los Dioses",
+      "url": "https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB"
+    },
+    {
+      "album": {
+        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
+        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
+      },
+      "artists": [
+        {
+          "name": "Luis Perez",
+          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "Suite al Culto Solar - In Altepetl Tonal",
+      "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
+    },
+    {
+      "album": {
+        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
+        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
+      },
+      "artists": [
+        {
+          "name": "Luis Perez",
+          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335480,
+      "name": "Suite al Culto Solar - Xochiyaoyoloh",
+      "url": "https://open.spotify.com/track/1Z3pQdIz4n1aqKqWXncPGT"
+    },
+    {
+      "album": {
+        "name": "Aztec Dances",
+        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382613,
+      "name": "Tezcatlipoca Y Fuego",
+      "url": "https://open.spotify.com/track/6WORAZYFYHHT6iRzoVW2Pk"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica",
+        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "The New Fire",
+      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+    },
+    {
+      "album": {
+        "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
+        "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Tlazolteotl",
+      "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
+    },
+    {
+      "album": {
+        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
+        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
+      },
+      "artists": [
+        {
+          "name": "Tzotzollin",
+          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137173,
+      "name": "Venadito Azul",
+      "url": "https://open.spotify.com/track/67V2u9yDO1PDFjbDC0QVVV"
+    },
+    {
+      "album": {
+        "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
+        "url": "https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160872,
+      "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
+      "url": "https://open.spotify.com/track/5dAalqBNmHi3qNeAfHeKfQ"
+    },
+    {
+      "album": {
+        "name": "13 Baktun",
+        "url": "https://open.spotify.com/album/1Q8CDRMwu9GCWfsvbRMb2G"
+      },
+      "artists": [
+        {
+          "name": "Sones de Mexico Ensemble",
+          "url": "https://open.spotify.com/artist/5lxgKqVd4v6cu4WiE3NWJF"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/6rVy3D7PEXq4rhLLwbx0i1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3nwrgSzvSMp"
 }

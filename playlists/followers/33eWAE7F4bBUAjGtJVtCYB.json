@@ -1,735 +1,767 @@
 {
-  "2021-12-25": 877,
-  "2021-12-26": 877,
-  "2021-12-27": 877,
-  "2021-12-28": 877,
-  "2021-12-29": 876,
-  "2021-12-30": 875,
-  "2021-12-31": 875,
-  "2022-01-01": 875,
-  "2022-01-02": 875,
-  "2022-01-03": 875,
-  "2022-01-04": 875,
-  "2022-01-05": 875,
-  "2022-01-06": 875,
-  "2022-01-07": 874,
-  "2022-01-08": 874,
-  "2022-01-09": 874,
-  "2022-01-10": 874,
-  "2022-01-11": 874,
-  "2022-01-12": 874,
-  "2022-01-13": 874,
-  "2022-01-14": 874,
-  "2022-01-15": 874,
-  "2022-01-16": 874,
-  "2022-01-17": 874,
-  "2022-01-18": 874,
-  "2022-01-19": 874,
-  "2022-01-20": 874,
-  "2022-01-21": 874,
-  "2022-01-22": 874,
-  "2022-01-23": 874,
-  "2022-01-24": 874,
-  "2022-01-25": 874,
-  "2022-01-26": 874,
-  "2022-01-27": 874,
-  "2022-01-28": 874,
-  "2022-01-29": 874,
-  "2022-01-30": 874,
-  "2022-01-31": 874,
-  "2022-02-01": 874,
-  "2022-02-02": 874,
-  "2022-02-03": 874,
-  "2022-02-04": 874,
-  "2022-02-05": 874,
-  "2022-02-06": 874,
-  "2022-02-07": 874,
-  "2022-02-08": 874,
-  "2022-02-09": 874,
-  "2022-02-10": 874,
-  "2022-02-11": 874,
-  "2022-02-12": 874,
-  "2022-02-13": 874,
-  "2022-02-14": 874,
-  "2022-02-15": 874,
-  "2022-02-16": 874,
-  "2022-02-17": 873,
-  "2022-02-18": 873,
-  "2022-02-19": 873,
-  "2022-02-20": 873,
-  "2022-02-21": 873,
-  "2022-02-22": 873,
-  "2022-02-23": 873,
-  "2022-02-24": 873,
-  "2022-02-25": 873,
-  "2022-02-26": 873,
-  "2022-02-27": 873,
-  "2022-02-28": 873,
-  "2022-03-01": 873,
-  "2022-03-02": 873,
-  "2022-03-03": 873,
-  "2022-03-04": 873,
-  "2022-03-05": 872,
-  "2022-03-06": 872,
-  "2022-03-07": 872,
-  "2022-03-08": 871,
-  "2022-03-09": 871,
-  "2022-03-10": 870,
-  "2022-03-11": 870,
-  "2022-03-12": 870,
-  "2022-03-13": 870,
-  "2022-03-14": 870,
-  "2022-03-15": 870,
-  "2022-03-16": 870,
-  "2022-03-17": 870,
-  "2022-03-18": 870,
-  "2022-03-19": 870,
-  "2022-03-20": 870,
-  "2022-03-21": 870,
-  "2022-03-22": 870,
-  "2022-03-23": 870,
-  "2022-03-24": 870,
-  "2022-03-25": 870,
-  "2022-03-26": 870,
-  "2022-03-27": 870,
-  "2022-03-28": 870,
-  "2022-03-30": 870,
-  "2022-03-31": 870,
-  "2022-04-01": 870,
-  "2022-04-02": 870,
-  "2022-04-03": 870,
-  "2022-04-04": 870,
-  "2022-04-05": 870,
-  "2022-04-06": 870,
-  "2022-04-07": 870,
-  "2022-04-08": 870,
-  "2022-04-09": 870,
-  "2022-04-10": 870,
-  "2022-04-11": 870,
-  "2022-04-12": 870,
-  "2022-04-13": 870,
-  "2022-04-14": 870,
-  "2022-04-15": 870,
-  "2022-04-16": 870,
-  "2022-04-17": 870,
-  "2022-04-18": 870,
-  "2022-04-19": 870,
-  "2022-04-20": 870,
-  "2022-04-21": 870,
-  "2022-04-22": 870,
-  "2022-04-23": 870,
-  "2022-04-24": 870,
-  "2022-04-25": 870,
-  "2022-04-26": 870,
-  "2022-04-27": 870,
-  "2022-04-28": 870,
-  "2022-04-29": 871,
-  "2022-04-30": 871,
-  "2022-05-01": 871,
-  "2022-05-02": 871,
-  "2022-05-03": 871,
-  "2022-05-04": 871,
-  "2022-05-05": 871,
-  "2022-05-06": 871,
-  "2022-05-07": 871,
-  "2022-05-08": 871,
-  "2022-05-09": 871,
-  "2022-05-10": 871,
-  "2022-05-11": 872,
-  "2022-05-12": 872,
-  "2022-05-13": 872,
-  "2022-05-14": 871,
-  "2022-05-15": 871,
-  "2022-05-16": 871,
-  "2022-05-17": 871,
-  "2022-05-18": 871,
-  "2022-05-19": 870,
-  "2022-05-20": 871,
-  "2022-05-21": 871,
-  "2022-05-22": 871,
-  "2022-05-23": 871,
-  "2022-05-24": 871,
-  "2022-05-25": 871,
-  "2022-05-26": 871,
-  "2022-05-27": 871,
-  "2022-05-28": 871,
-  "2022-05-29": 871,
-  "2022-05-30": 871,
-  "2022-05-31": 872,
-  "2022-06-01": 872,
-  "2022-06-02": 872,
-  "2022-06-03": 872,
-  "2022-06-04": 871,
-  "2022-06-05": 872,
-  "2022-06-06": 871,
-  "2022-06-07": 891,
-  "2022-06-08": 891,
-  "2022-06-09": 891,
-  "2022-06-10": 891,
-  "2022-06-11": 891,
-  "2022-06-12": 891,
-  "2022-06-13": 891,
-  "2022-06-14": 891,
-  "2022-06-15": 891,
-  "2022-06-16": 891,
-  "2022-06-17": 891,
-  "2022-06-18": 891,
-  "2022-06-19": 891,
-  "2022-06-20": 891,
-  "2022-06-21": 891,
-  "2022-06-22": 891,
-  "2022-06-23": 891,
-  "2022-06-24": 892,
-  "2022-06-25": 892,
-  "2022-06-26": 891,
-  "2022-06-27": 891,
-  "2022-06-28": 891,
-  "2022-06-29": 891,
-  "2022-06-30": 891,
-  "2022-07-01": 891,
-  "2022-07-02": 891,
-  "2022-07-03": 891,
-  "2022-07-04": 891,
-  "2022-07-05": 891,
-  "2022-07-06": 891,
-  "2022-07-07": 891,
-  "2022-07-08": 891,
-  "2022-07-09": 890,
-  "2022-07-10": 890,
-  "2022-07-11": 890,
-  "2022-07-12": 890,
-  "2022-07-13": 890,
-  "2022-07-14": 889,
-  "2022-07-15": 889,
-  "2022-07-16": 889,
-  "2022-07-17": 888,
-  "2022-07-18": 888,
-  "2022-07-19": 887,
-  "2022-07-20": 887,
-  "2022-07-21": 887,
-  "2022-07-22": 887,
-  "2022-07-23": 887,
-  "2022-07-24": 887,
-  "2022-07-25": 887,
-  "2022-07-26": 886,
-  "2022-07-27": 886,
-  "2022-07-28": 886,
-  "2022-07-29": 886,
-  "2022-07-30": 884,
-  "2022-07-31": 884,
-  "2022-08-01": 885,
-  "2022-08-02": 884,
-  "2022-08-03": 884,
-  "2022-08-04": 884,
-  "2022-08-05": 884,
-  "2022-08-06": 883,
-  "2022-08-07": 883,
-  "2022-08-08": 883,
-  "2022-08-09": 883,
-  "2022-08-10": 883,
-  "2022-08-11": 883,
-  "2022-08-12": 883,
-  "2022-08-13": 883,
-  "2022-08-14": 883,
-  "2022-08-15": 883,
-  "2022-08-16": 883,
-  "2022-08-17": 883,
-  "2022-08-18": 883,
-  "2022-08-19": 884,
-  "2022-08-20": 884,
-  "2022-08-21": 884,
-  "2022-08-22": 884,
-  "2022-08-23": 884,
-  "2022-08-24": 884,
-  "2022-08-25": 884,
-  "2022-08-26": 884,
-  "2022-08-27": 884,
-  "2022-08-28": 884,
-  "2022-08-29": 884,
-  "2022-08-30": 883,
-  "2022-08-31": 883,
-  "2022-09-01": 883,
-  "2022-09-02": 883,
-  "2022-09-03": 883,
-  "2022-09-04": 883,
-  "2022-09-05": 883,
-  "2022-09-06": 883,
-  "2022-09-07": 883,
-  "2022-09-09": 883,
-  "2022-09-10": 883,
-  "2022-09-11": 883,
-  "2022-09-12": 883,
-  "2022-09-13": 883,
-  "2022-09-15": 883,
-  "2022-09-16": 883,
-  "2022-09-17": 883,
-  "2022-09-18": 883,
-  "2022-09-19": 883,
-  "2022-09-20": 883,
-  "2022-09-21": 883,
-  "2022-09-22": 883,
-  "2022-09-23": 883,
-  "2022-09-24": 883,
-  "2022-09-25": 883,
-  "2022-09-26": 883,
-  "2022-09-27": 882,
-  "2022-09-28": 882,
-  "2022-09-29": 882,
-  "2022-09-30": 882,
-  "2022-10-01": 882,
-  "2022-10-02": 882,
-  "2022-10-03": 882,
-  "2022-10-04": 882,
-  "2022-10-05": 882,
-  "2022-10-06": 882,
-  "2022-10-07": 882,
-  "2022-10-08": 882,
-  "2022-10-09": 882,
-  "2022-10-10": 882,
-  "2022-10-11": 882,
-  "2022-10-12": 882,
-  "2022-10-13": 882,
-  "2022-10-14": 881,
-  "2022-10-15": 881,
-  "2022-10-16": 881,
-  "2022-10-17": 881,
-  "2022-10-18": 881,
-  "2022-10-19": 881,
-  "2022-10-20": 881,
-  "2022-10-21": 881,
-  "2022-10-22": 881,
-  "2022-10-23": 881,
-  "2022-10-24": 881,
-  "2022-10-25": 881,
-  "2022-10-26": 881,
-  "2022-10-27": 881,
-  "2022-10-28": 881,
-  "2022-10-29": 881,
-  "2022-10-30": 881,
-  "2022-10-31": 881,
-  "2022-11-01": 881,
-  "2022-11-02": 883,
-  "2022-11-03": 883,
-  "2022-11-04": 885,
-  "2022-11-05": 885,
-  "2022-11-06": 885,
-  "2022-11-07": 885,
-  "2022-11-08": 888,
-  "2022-11-09": 888,
-  "2022-11-10": 894,
-  "2022-11-11": 894,
-  "2022-11-12": 894,
-  "2022-11-13": 894,
-  "2022-11-14": 894,
-  "2022-11-15": 894,
-  "2022-11-16": 894,
-  "2022-11-17": 894,
-  "2022-11-18": 894,
-  "2022-11-19": 894,
-  "2022-11-20": 894,
-  "2022-11-21": 887,
-  "2022-11-22": 886,
-  "2022-11-23": 886,
-  "2022-11-24": 886,
-  "2022-11-25": 886,
-  "2022-11-26": 886,
-  "2022-11-27": 886,
-  "2022-11-28": 886,
-  "2022-11-29": 886,
-  "2022-11-30": 886,
-  "2022-12-01": 886,
-  "2022-12-02": 886,
-  "2022-12-03": 886,
-  "2022-12-04": 886,
-  "2022-12-05": 886,
-  "2022-12-06": 886,
-  "2022-12-07": 886,
-  "2022-12-08": 886,
-  "2022-12-09": 886,
-  "2022-12-10": 886,
-  "2022-12-11": 886,
-  "2022-12-12": 886,
-  "2022-12-13": 886,
-  "2022-12-14": 886,
-  "2022-12-15": 885,
-  "2022-12-16": 884,
-  "2022-12-17": 884,
-  "2022-12-18": 884,
-  "2022-12-19": 884,
-  "2022-12-20": 884,
-  "2022-12-21": 884,
-  "2022-12-22": 884,
-  "2022-12-24": 884,
-  "2022-12-25": 884,
-  "2022-12-26": 883,
-  "2022-12-27": 883,
-  "2022-12-28": 883,
-  "2022-12-29": 883,
-  "2022-12-30": 882,
-  "2022-12-31": 882,
-  "2023-01-01": 882,
-  "2023-01-02": 882,
-  "2023-01-03": 882,
-  "2023-01-04": 882,
-  "2023-01-05": 882,
-  "2023-01-06": 882,
-  "2023-01-07": 882,
-  "2023-01-08": 882,
-  "2023-01-09": 882,
-  "2023-01-10": 882,
-  "2023-01-11": 882,
-  "2023-01-12": 882,
-  "2023-01-13": 882,
-  "2023-01-14": 882,
-  "2023-01-15": 882,
-  "2023-01-16": 882,
-  "2023-01-17": 882,
-  "2023-01-18": 882,
-  "2023-01-19": 881,
-  "2023-01-20": 881,
-  "2023-01-21": 881,
-  "2023-01-22": 881,
-  "2023-01-23": 881,
-  "2023-01-24": 880,
-  "2023-01-25": 880,
-  "2023-01-26": 880,
-  "2023-01-27": 880,
-  "2023-01-28": 880,
-  "2023-01-29": 880,
-  "2023-01-30": 880,
-  "2023-01-31": 880,
-  "2023-02-01": 880,
-  "2023-02-02": 880,
-  "2023-02-03": 880,
-  "2023-02-04": 880,
-  "2023-02-05": 879,
-  "2023-02-06": 879,
-  "2023-02-07": 879,
-  "2023-02-08": 879,
-  "2023-02-09": 879,
-  "2023-02-10": 879,
-  "2023-02-11": 879,
-  "2023-02-12": 879,
-  "2023-02-13": 879,
-  "2023-02-14": 879,
-  "2023-02-15": 879,
-  "2023-02-16": 879,
-  "2023-02-17": 879,
-  "2023-02-18": 879,
-  "2023-02-19": 879,
-  "2023-02-20": 878,
-  "2023-02-21": 878,
-  "2023-02-22": 878,
-  "2023-02-23": 878,
-  "2023-02-24": 878,
-  "2023-02-25": 878,
-  "2023-02-26": 878,
-  "2023-02-27": 878,
-  "2023-02-28": 878,
-  "2023-03-01": 878,
-  "2023-03-02": 878,
-  "2023-03-03": 878,
-  "2023-03-04": 878,
-  "2023-03-05": 878,
-  "2023-03-06": 878,
-  "2023-03-07": 878,
-  "2023-03-08": 878,
-  "2023-03-09": 878,
-  "2023-03-10": 878,
-  "2023-03-11": 878,
-  "2023-03-12": 878,
-  "2023-03-13": 878,
-  "2023-03-14": 878,
-  "2023-03-15": 878,
-  "2023-03-16": 878,
-  "2023-03-17": 878,
-  "2023-03-18": 878,
-  "2023-03-19": 878,
-  "2023-03-20": 878,
-  "2023-03-21": 877,
-  "2023-03-22": 877,
-  "2023-03-23": 877,
-  "2023-03-24": 877,
-  "2023-03-25": 877,
-  "2023-03-26": 877,
-  "2023-03-27": 877,
-  "2023-03-28": 876,
-  "2023-03-29": 876,
-  "2023-03-30": 876,
-  "2023-03-31": 876,
-  "2023-04-01": 876,
-  "2023-04-02": 876,
-  "2023-04-03": 876,
-  "2023-04-04": 876,
-  "2023-04-05": 875,
-  "2023-04-06": 875,
-  "2023-04-07": 875,
-  "2023-04-09": 874,
-  "2023-04-10": 874,
-  "2023-04-11": 873,
-  "2023-04-12": 873,
-  "2023-04-13": 873,
-  "2023-04-14": 873,
-  "2023-04-15": 873,
-  "2023-04-16": 873,
-  "2023-04-17": 873,
-  "2023-04-18": 873,
-  "2023-04-19": 873,
-  "2023-04-20": 873,
-  "2023-04-21": 873,
-  "2023-04-22": 873,
-  "2023-04-23": 873,
-  "2023-04-24": 873,
-  "2023-04-25": 873,
-  "2023-04-26": 873,
-  "2023-04-27": 873,
-  "2023-04-28": 873,
-  "2023-04-29": 873,
-  "2023-04-30": 873,
-  "2023-05-01": 873,
-  "2023-05-02": 873,
-  "2023-05-03": 873,
-  "2023-05-04": 873,
-  "2023-05-05": 873,
-  "2023-05-06": 873,
-  "2023-05-07": 873,
-  "2023-05-08": 873,
-  "2023-05-09": 873,
-  "2023-05-10": 872,
-  "2023-05-11": 872,
-  "2023-05-12": 872,
-  "2023-05-13": 872,
-  "2023-05-14": 872,
-  "2023-05-15": 871,
-  "2023-05-16": 871,
-  "2023-05-17": 871,
-  "2023-05-18": 871,
-  "2023-05-19": 871,
-  "2023-05-20": 871,
-  "2023-05-21": 871,
-  "2023-05-22": 871,
-  "2023-05-23": 871,
-  "2023-05-24": 871,
-  "2023-05-25": 871,
-  "2023-05-26": 871,
-  "2023-05-27": 871,
-  "2023-05-28": 871,
-  "2023-05-29": 871,
-  "2023-05-30": 871,
-  "2023-05-31": 871,
-  "2023-06-01": 871,
-  "2023-06-02": 871,
-  "2023-06-03": 871,
-  "2023-06-04": 871,
-  "2023-06-05": 874,
-  "2023-06-06": 880,
-  "2023-06-07": 914,
-  "2023-06-08": 914,
-  "2023-06-09": 917,
-  "2023-06-10": 917,
-  "2023-06-11": 917,
-  "2023-06-12": 918,
-  "2023-06-13": 918,
-  "2023-06-14": 918,
-  "2023-06-15": 918,
-  "2023-06-16": 919,
-  "2023-06-17": 918,
-  "2023-06-18": 917,
-  "2023-06-19": 918,
-  "2023-06-20": 918,
-  "2023-06-21": 919,
-  "2023-06-22": 919,
-  "2023-06-23": 920,
-  "2023-06-24": 920,
-  "2023-06-25": 921,
-  "2023-06-26": 921,
-  "2023-06-27": 922,
-  "2023-06-28": 922,
-  "2023-06-29": 922,
-  "2023-06-30": 922,
-  "2023-07-01": 922,
-  "2023-07-02": 922,
-  "2023-07-03": 922,
-  "2023-07-04": 922,
-  "2023-07-05": 922,
-  "2023-07-06": 922,
-  "2023-07-07": 922,
-  "2023-07-08": 922,
-  "2023-07-09": 921,
-  "2023-07-10": 921,
-  "2023-07-11": 922,
-  "2023-07-12": 922,
-  "2023-07-13": 921,
-  "2023-07-14": 921,
-  "2023-07-15": 921,
-  "2023-07-16": 921,
-  "2023-07-17": 921,
-  "2023-07-18": 921,
-  "2023-07-19": 921,
-  "2023-07-20": 921,
-  "2023-07-21": 921,
-  "2023-07-22": 921,
-  "2023-07-23": 921,
-  "2023-07-24": 921,
-  "2023-07-25": 921,
-  "2023-07-26": 921,
-  "2023-07-27": 921,
-  "2023-07-28": 920,
-  "2023-07-29": 920,
-  "2023-07-30": 920,
-  "2023-07-31": 920,
-  "2023-08-01": 920,
-  "2023-08-02": 920,
-  "2023-08-03": 920,
-  "2023-08-04": 920,
-  "2023-08-05": 920,
-  "2023-08-06": 920,
-  "2023-08-07": 920,
-  "2023-08-08": 920,
-  "2023-08-09": 920,
-  "2023-08-10": 920,
-  "2023-08-11": 920,
-  "2023-08-12": 920,
-  "2023-08-13": 920,
-  "2023-08-14": 920,
-  "2023-08-15": 920,
-  "2023-08-16": 920,
-  "2023-08-17": 920,
-  "2023-08-18": 920,
-  "2023-08-19": 920,
-  "2023-08-20": 920,
-  "2023-08-21": 920,
-  "2023-08-22": 920,
-  "2023-08-23": 920,
-  "2023-08-24": 920,
-  "2023-08-25": 920,
-  "2023-08-26": 920,
-  "2023-08-27": 921,
-  "2023-08-28": 921,
-  "2023-08-29": 921,
-  "2023-08-30": 921,
-  "2023-08-31": 921,
-  "2023-09-01": 921,
-  "2023-09-02": 921,
-  "2023-09-03": 921,
-  "2023-09-04": 920,
-  "2023-09-05": 920,
-  "2023-09-06": 920,
-  "2023-09-07": 920,
-  "2023-09-08": 920,
-  "2023-09-09": 920,
-  "2023-09-10": 920,
-  "2023-09-11": 920,
-  "2023-09-12": 920,
-  "2023-09-13": 919,
-  "2023-09-14": 919,
-  "2023-09-15": 919,
-  "2023-09-16": 919,
-  "2023-09-17": 919,
-  "2023-09-18": 919,
-  "2023-09-19": 919,
-  "2023-09-20": 919,
-  "2023-09-21": 919,
-  "2023-09-22": 919,
-  "2023-09-23": 919,
-  "2023-09-24": 919,
-  "2023-09-25": 919,
-  "2023-09-26": 919,
-  "2023-09-27": 919,
-  "2023-09-28": 919,
-  "2023-09-29": 919,
-  "2023-09-30": 919,
-  "2023-10-01": 919,
-  "2023-10-02": 919,
-  "2023-10-03": 919,
-  "2023-10-04": 919,
-  "2023-10-05": 919,
-  "2023-10-06": 919,
-  "2023-10-07": 919,
-  "2023-10-08": 919,
-  "2023-10-09": 919,
-  "2023-10-10": 919,
-  "2023-10-11": 919,
-  "2023-10-12": 919,
-  "2023-10-13": 917,
-  "2023-10-14": 914,
-  "2023-10-15": 913,
-  "2023-10-16": 913,
-  "2023-10-17": 913,
-  "2023-10-18": 913,
-  "2023-10-19": 913,
-  "2023-10-20": 913,
-  "2023-10-21": 913,
-  "2023-10-22": 913,
-  "2023-10-23": 913,
-  "2023-10-24": 913,
-  "2023-10-25": 913,
-  "2023-10-26": 913,
-  "2023-10-27": 913,
-  "2023-10-28": 913,
-  "2023-10-29": 913,
-  "2023-10-30": 913,
-  "2023-10-31": 913,
-  "2023-11-01": 913,
-  "2023-11-02": 913,
-  "2023-11-03": 913,
-  "2023-11-04": 913,
-  "2023-11-05": 913,
-  "2023-11-06": 913,
-  "2023-11-07": 913,
-  "2023-11-08": 913,
-  "2023-11-09": 911,
-  "2023-11-10": 911,
-  "2023-11-11": 911,
-  "2023-11-12": 911,
-  "2023-11-13": 911,
-  "2023-11-14": 911,
-  "2023-11-15": 911,
-  "2023-11-16": 911,
-  "2023-11-17": 911,
-  "2023-11-18": 911,
-  "2023-11-19": 911,
-  "2023-11-20": 911,
-  "2023-11-21": 911,
-  "2023-11-22": 911,
-  "2023-11-23": 911,
-  "2023-11-24": 911,
-  "2023-11-25": 911,
-  "2023-11-26": 911,
-  "2023-11-27": 911,
-  "2023-11-28": 911,
-  "2023-11-29": 911,
-  "2023-11-30": 911,
-  "2023-12-01": 911,
-  "2023-12-02": 911,
-  "2023-12-03": 911,
-  "2023-12-04": 911,
-  "2023-12-05": 911,
-  "2023-12-06": 911,
-  "2023-12-07": 911,
-  "2023-12-08": 911,
-  "2023-12-09": 910,
-  "2023-12-10": 910,
-  "2023-12-11": 910,
-  "2023-12-12": 910,
-  "2023-12-13": 910,
-  "2023-12-14": 910,
-  "2023-12-15": 910,
-  "2023-12-16": 910,
-  "2023-12-17": 910,
-  "2023-12-18": 910,
-  "2023-12-19": 910,
-  "2023-12-20": 910,
-  "2023-12-21": 910,
-  "2023-12-22": 910,
-  "2023-12-23": 910,
-  "2023-12-24": 910,
-  "2023-12-25": 910,
-  "2023-12-26": 909,
-  "2023-12-27": 909,
-  "2023-12-30": 909,
-  "2023-12-31": 908,
-  "2024-01-01": 907,
-  "2024-01-02": 907,
-  "2024-01-03": 907
+  "2024-01-17": 903,
+  "date_first_scraped": "2021-12-21",
+  "description": "F\u00f6r att fira de bl\u00e5/gula f\u00e4rgerna har vi gr\u00e4vt djupt i den svenska l\u00e5tskatten och sammanst\u00e4llt en spellista med 40 \u00e4lskade klassiker. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spotify:app:tunigo\">Tunigo</a>",
+  "name": "Sveriges Nationaldag",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dans p\u00e5 Br\u00e4nn\u00f6 brygga",
+        "url": "https://open.spotify.com/album/367In3E9IyjFgZw8wtDVKt"
+      },
+      "artists": [
+        {
+          "name": "Andrew Walter",
+          "url": "https://open.spotify.com/artist/2Yxp7rubuk3AIyix35fUTi"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "Afton p\u00e5 Solvik",
+      "url": "https://open.spotify.com/track/35aEw0M5M0WPA7jobI12w8"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Tone Norum",
+          "url": "https://open.spotify.com/artist/0a6rCwqcO5k3S6nHJFCRyn"
+        },
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250893,
+      "name": "Allt som jag k\u00e4nner",
+      "url": "https://open.spotify.com/track/2QxhwvGFTcjdzicyUJaREZ"
+    },
+    {
+      "album": {
+        "name": "Sol, vind och vatten",
+        "url": "https://open.spotify.com/album/5ByQdOQTMaqhdtgudt2Ivm"
+      },
+      "artists": [
+        {
+          "name": "The Real Group",
+          "url": "https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "Att ang\u00f6ra en brygga",
+      "url": "https://open.spotify.com/track/3drbNrqO4iNlzCBLUOChpE"
+    },
+    {
+      "album": {
+        "name": "En bit p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/1FCgSQmMwUhUSu0Qd8GH9W"
+      },
+      "artists": [
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Av l\u00e4ngtan till dig",
+      "url": "https://open.spotify.com/track/4s7bzuomGTaQ57m9ewrdzD"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "url": "https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC"
+        },
+        {
+          "name": "Svante Thuresson",
+          "url": "https://open.spotify.com/artist/5p3OgFVHTqd8MAGGxlOYl3"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Axel \u00d6hman",
+      "url": "https://open.spotify.com/track/2VB00EzKCghtYuJgctvTGu"
+    },
+    {
+      "album": {
+        "name": "25 b\u00e4sta",
+        "url": "https://open.spotify.com/album/1FcDOfoPCjXVz6edERlgUQ"
+      },
+      "artists": [
+        {
+          "name": "Anita Lindblom",
+          "url": "https://open.spotify.com/artist/2mcJ23guBaJ3g8i8Hjjw6E"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Balladen om herr Fredrik \u00c5kare och den s\u00f6ta fr\u00f6ken Cecilia Lind",
+      "url": "https://open.spotify.com/track/4rDR0voqaAssWMNqaxHItT"
+    },
+    {
+      "album": {
+        "name": "V\u00e4der Och Vind",
+        "url": "https://open.spotify.com/album/7mbzFNxIbje2j3oq7ElGau"
+      },
+      "artists": [
+        {
+          "name": "Mats Paulson",
+          "url": "https://open.spotify.com/artist/0HW2OAV5XOPQgKoFx2Q6uJ"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Barfotavisan",
+      "url": "https://open.spotify.com/track/3f559IV4JDAlFO6SlG4usl"
+    },
+    {
+      "album": {
+        "name": "O vad en liten gumma kan gno",
+        "url": "https://open.spotify.com/album/5fSDA3K2BP3bHRwOQyySo0"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Gals and Pals",
+          "url": "https://open.spotify.com/artist/5jzboyuEKmtEVn8SqAnPVd"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "Bed\u00e5rande sommarvals",
+      "url": "https://open.spotify.com/track/0SgGRz86Qzr6q0td2rBBjm"
+    },
+    {
+      "album": {
+        "name": "Skynda att \u00e4lska",
+        "url": "https://open.spotify.com/album/4ORwenjc6VrwVb00DGV1B1"
+      },
+      "artists": [
+        {
+          "name": "Ainbusk",
+          "url": "https://open.spotify.com/artist/4bkmsIjrznXB4Eg19UATWt"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Blomstarteid (Den blomstertid nu kommer)",
+      "url": "https://open.spotify.com/track/3VijGUUqjWsYBe1s4eLEXJ"
+    },
+    {
+      "album": {
+        "name": "Osannolikt Svenskt",
+        "url": "https://open.spotify.com/album/5y4svVH50PNDryrQTizEB7"
+      },
+      "artists": [
+        {
+          "name": "Lasse Dahlquist",
+          "url": "https://open.spotify.com/artist/2QHYFZGCFIoIlU2GrAj664"
+        },
+        {
+          "name": "Einar Groths Orchestra",
+          "url": "https://open.spotify.com/artist/1kksoejNGEWwcdQ2XRZ9IW"
+        },
+        {
+          "name": "Unknown Artist",
+          "url": "https://open.spotify.com/artist/74Ch11L4833kZ9VfyziR3K"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "De' \u00e4' dans p\u00e5 Br\u00e4nn\u00f6 brygga",
+      "url": "https://open.spotify.com/track/4btmnUhwGptXwOV2tSCMvN"
+    },
+    {
+      "album": {
+        "name": "Under mitt tak",
+        "url": "https://open.spotify.com/album/0JVsx5CVxCBlpEOIfy7uoj"
+      },
+      "artists": [
+        {
+          "name": "Sonja Ald\u00e9n",
+          "url": "https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "Det bl\u00e5",
+      "url": "https://open.spotify.com/track/2Bc9r8LaZvW9EgB2zOgcij"
+    },
+    {
+      "album": {
+        "name": "Sol, vind och vatten",
+        "url": "https://open.spotify.com/album/5ByQdOQTMaqhdtgudt2Ivm"
+      },
+      "artists": [
+        {
+          "name": "Olle Adolphson",
+          "url": "https://open.spotify.com/artist/4hkOyd0eTeViYkZooM4Jay"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Det g\u00e5tfulla folket",
+      "url": "https://open.spotify.com/track/22w34SVETVpaPtfuuqHpQo"
+    },
+    {
+      "album": {
+        "name": "\u00c4nglamark",
+        "url": "https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Dr\u00f6mmen om Elin",
+      "url": "https://open.spotify.com/track/4razqcIog5PxJQu5bKZmGt"
+    },
+    {
+      "album": {
+        "name": "Ensam",
+        "url": "https://open.spotify.com/album/3ssNBlU22lLeuYEiUhkDAS"
+      },
+      "artists": [
+        {
+          "name": "Frida",
+          "url": "https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Ett liv i solen",
+      "url": "https://open.spotify.com/track/6OVkH9hsMLTTGP0SDYwTLK"
+    },
+    {
+      "album": {
+        "name": "Sol, vind och vatten/Det b\u00e4sta med Ted G\u00e4rdestad",
+        "url": "https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Ge en sol",
+      "url": "https://open.spotify.com/track/2dGmmktcPOB3OLds6zKG3H"
+    },
+    {
+      "album": {
+        "name": "24 B\u00e4sta",
+        "url": "https://open.spotify.com/album/4JciWM1Szae5nylLTHBVTH"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Hav och sand",
+      "url": "https://open.spotify.com/track/5b2SSDZIQzcaduHUoEPPpV"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/4cWqg5Ii9qHX33jjiLdV4m"
+    },
+    {
+      "album": {
+        "name": "Andliga S\u00e5nger",
+        "url": "https://open.spotify.com/album/2TZcPwBphNKyubx44lWLLe"
+      },
+      "artists": [
+        {
+          "name": "Christer Sj\u00f6gren",
+          "url": "https://open.spotify.com/artist/3zxcIxs8CwOEJaPYDKDtTE"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "Jag har h\u00f6rt om en stad",
+      "url": "https://open.spotify.com/track/7trkcOCPx0csUuGN3lx8Vv"
+    },
+    {
+      "album": {
+        "name": "Viser i sommervind 1",
+        "url": "https://open.spotify.com/album/0ig4qmR3mZhvq91g7cSotZ"
+      },
+      "artists": [
+        {
+          "name": "Alf Hambe",
+          "url": "https://open.spotify.com/artist/39cbWtgWgyTsE38vke37fn"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146894,
+      "name": "KAJSAS UDDE",
+      "url": "https://open.spotify.com/track/6hiirNI2vl0Tb4oveY7LcT"
+    },
+    {
+      "album": {
+        "name": "Musik vi minns - Svenska Klassiker - Anita Lindblom",
+        "url": "https://open.spotify.com/album/72VGnWFv2SP2Exx8CMmEyP"
+      },
+      "artists": [
+        {
+          "name": "Anita Lindblom",
+          "url": "https://open.spotify.com/artist/2mcJ23guBaJ3g8i8Hjjw6E"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Kring de sm\u00e5 husen i gr\u00e4nderna vid hamnen",
+      "url": "https://open.spotify.com/track/3CvcJL9c11U5DKjBgzg2jE"
+    },
+    {
+      "album": {
+        "name": "Fristorp Fullst\u00e4ndig [2 Cd]",
+        "url": "https://open.spotify.com/album/1sDi72AIyFuoMK3mGE5P0r"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ran Fristorp",
+          "url": "https://open.spotify.com/artist/2Yo1VjRnajVV0548nqI5gG"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248453,
+      "name": "Lilla Vackra Anna",
+      "url": "https://open.spotify.com/track/237NEFOtZLXpgLL11J3L3n"
+    },
+    {
+      "album": {
+        "name": "\u00c4nglamark",
+        "url": "https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "Menuett p\u00e5 Haga",
+      "url": "https://open.spotify.com/track/0IiZDoKIp8VMW4X5nTVzrw"
+    },
+    {
+      "album": {
+        "name": "Dikter Fr\u00e5n Ett Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/4nr7H6gtXYmvUOGig6kN0K"
+      },
+      "artists": [
+        {
+          "name": "Markoolio",
+          "url": "https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam"
+        }
+      ],
+      "date_added": "2012-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227646,
+      "name": "Mera M\u00e5l",
+      "url": "https://open.spotify.com/track/4xi2jcRkIXIJ9KwVcGPFvx"
+    },
+    {
+      "album": {
+        "name": "Det b\u00e4sta med Karin & Anders Glenmark",
+        "url": "https://open.spotify.com/album/5poZvTtZy7KsRNECvTF3LW"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/3NOJk6zZMTnwXVZkAu3Kgj"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "Mio Min Mio - Swedish Version",
+      "url": "https://open.spotify.com/track/1kGCVXPS24VC26fG5MT21F"
+    },
+    {
+      "album": {
+        "name": "National Anthem Sweden (Du Gamla, Du Fria)",
+        "url": "https://open.spotify.com/album/1qqnYZ5RAnPifhypdjCwog"
+      },
+      "artists": [
+        {
+          "name": "Kpm National Anthems",
+          "url": "https://open.spotify.com/artist/3ASrAFrD7EMO3yISaDjs78"
+        }
+      ],
+      "date_added": "2012-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47490,
+      "name": "National Anthem Sweden - Du Gamla, Du Fria",
+      "url": "https://open.spotify.com/track/7nL0243awu5NCbQseIro2q"
+    },
+    {
+      "album": {
+        "name": "Den svenska sommaren",
+        "url": "https://open.spotify.com/album/5P5XwOAYMZleMz7HLqTYlX"
+      },
+      "artists": [
+        {
+          "name": "Di sma undar j\u00e5rdi",
+          "url": "https://open.spotify.com/artist/4nMn2UgtOPeVl1xyTh0Xir"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276920,
+      "name": "Niu ligger have stille",
+      "url": "https://open.spotify.com/track/7Fuv6EChcCUeGFscYPyaV8"
+    },
+    {
+      "album": {
+        "name": "Taube Sjunger Taube",
+        "url": "https://open.spotify.com/album/5T85NS6pAaXZ8eM21izrXe"
+      },
+      "artists": [
+        {
+          "name": "Sven-Bertil Taube",
+          "url": "https://open.spotify.com/artist/7Gl6zw4YYJQ1CAgs7oEBPY"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/06rWBPnq8cNfLlZEAyP1FL"
+    },
+    {
+      "album": {
+        "name": "Oh boy! - Det b\u00e4sta med Peps Persson",
+        "url": "https://open.spotify.com/album/5ePdCgSsR80U6zQcU6jpW1"
+      },
+      "artists": [
+        {
+          "name": "Peps Persson",
+          "url": "https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Oh boy",
+      "url": "https://open.spotify.com/track/4UFb5t3CvBprPee5l8KXN3"
+    },
+    {
+      "album": {
+        "name": "Monica Zetterlund/Musik vi minns",
+        "url": "https://open.spotify.com/album/5Ts2TeXGs21S3rwLy13ls7"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "Sakta vi g\u00e5 genom stan",
+      "url": "https://open.spotify.com/track/6v6KRuPie9HjtfF9MVjAr7"
+    },
+    {
+      "album": {
+        "name": "Evert Taube/Musik vi minns",
+        "url": "https://open.spotify.com/album/5AO3qm5hMQR6ebrrL47nYi"
+      },
+      "artists": [
+        {
+          "name": "Evert Taube",
+          "url": "https://open.spotify.com/artist/3fUWKywZQbkzjqydZH15fT"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "Sj\u00f6sala vals",
+      "url": "https://open.spotify.com/track/5rTZToEwovN6JEBcPps7Ph"
+    },
+    {
+      "album": {
+        "name": "Sol, vind och vatten/Det b\u00e4sta med Ted G\u00e4rdestad",
+        "url": "https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/4IyN7o0glm8gXgvEvT6oiZ"
+    },
+    {
+      "album": {
+        "name": "Sommar, sommar, sommar",
+        "url": "https://open.spotify.com/album/0l537xeeUQXZAkArjKmb2H"
+      },
+      "artists": [
+        {
+          "name": "Radions Underhallningsorkester",
+          "url": "https://open.spotify.com/artist/7ekQSEOZHUS6bUkOqBTDwh"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "Sommar, Sommar, Sommar",
+      "url": "https://open.spotify.com/track/4OWOm8ol4P3uUT81eyRZxE"
+    },
+    {
+      "album": {
+        "name": "Tomas Ledin - 80-Tal",
+        "url": "https://open.spotify.com/album/0YdkVmcOnLjq178i8I2RzK"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Sommaren \u00e4r kort",
+      "url": "https://open.spotify.com/track/6wnWpJGIcYrY7P6yIikerN"
+    },
+    {
+      "album": {
+        "name": "\u00c4nglamark",
+        "url": "https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9"
+      },
+      "artists": [
+        {
+          "name": "Carl Anton",
+          "url": "https://open.spotify.com/artist/1cat5qANo5zS8TawCLUGAP"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Sommarvisa till Monique",
+      "url": "https://open.spotify.com/track/4EID5HiCscYucwCkGJtTTG"
+    },
+    {
+      "album": {
+        "name": "Svenska Dansfavoriter 3",
+        "url": "https://open.spotify.com/album/11zaLW3fRLxEgKO31a7O0R"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Str\u00e4ck ut din hand",
+      "url": "https://open.spotify.com/track/1Lc7bKPaiBceH4NYkLDn2P"
+    },
+    {
+      "album": {
+        "name": "\u00c4nglamark",
+        "url": "https://open.spotify.com/album/4ArA86KBWpxyBxVPfkAzd9"
+      },
+      "artists": [
+        {
+          "name": "Gustav Torrestad",
+          "url": "https://open.spotify.com/artist/165vNnFdkyAw88udlcY7eJ"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "S\u00e5 l\u00e4nge skutan kan g\u00e5",
+      "url": "https://open.spotify.com/track/3wuNF70gxsyRYbp2uab5Ih"
+    },
+    {
+      "album": {
+        "name": "24 B\u00e4sta",
+        "url": "https://open.spotify.com/album/28Q6o36lPOPWvMl6BcY69Q"
+      },
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "url": "https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "S\u00e5 skimrande var aldrig havet",
+      "url": "https://open.spotify.com/track/2Ghsy6SwtSqiwslp7bJrSv"
+    },
+    {
+      "album": {
+        "name": "Povel Ramel/Som om inget hade h\u00e4nt: Povel-pop fr\u00e5n f\u00f6rra \u00e5rtusendet!",
+        "url": "https://open.spotify.com/album/55tXi5zeF6xg6PYlIYPvDP"
+      },
+      "artists": [
+        {
+          "name": "Povel Ramel",
+          "url": "https://open.spotify.com/artist/2JXHbGSfNgJ25884YBIruo"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322906,
+      "name": "Ta av dej skorna!",
+      "url": "https://open.spotify.com/track/4Zv0HillN5kfwLNnCafsNN"
+    },
+    {
+      "album": {
+        "name": "En obotlig romantiker",
+        "url": "https://open.spotify.com/album/4DBEhoe3aXeQvKpXsujnwA"
+      },
+      "artists": [
+        {
+          "name": "Peter Lundblad",
+          "url": "https://open.spotify.com/artist/5yuHwiLMl8Mz5onBhn5HII"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308146,
+      "name": "Ta mig till havet",
+      "url": "https://open.spotify.com/track/6NHKAWhkZPiV0PJwuUQMol"
+    },
+    {
+      "album": {
+        "name": "Dan Andersson",
+        "url": "https://open.spotify.com/album/55SIYzqiP09PVpXwDMzuxS"
+      },
+      "artists": [
+        {
+          "name": "Thorstein Bergman",
+          "url": "https://open.spotify.com/artist/6RN0Wp8CBr7bij8JzB1qG2"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127466,
+      "name": "Till min syster",
+      "url": "https://open.spotify.com/track/0Cb4p7iH6DjBjmWPhfGuKo"
+    },
+    {
+      "album": {
+        "name": "Cornelis B\u00e4sta",
+        "url": "https://open.spotify.com/album/6eoQyqhkcoDgjMHsqAphHs"
+      },
+      "artists": [
+        {
+          "name": "Cornelis Vreeswijk",
+          "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9"
+        }
+      ],
+      "date_added": "2012-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Turistens klagan",
+      "url": "https://open.spotify.com/track/7E1LNK9XBkrBlVmiyBO6Sp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/33eWAE7F4bBUAjGtJVtCYB"
 }

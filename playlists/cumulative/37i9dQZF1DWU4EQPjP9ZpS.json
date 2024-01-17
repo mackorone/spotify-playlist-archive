@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\uff47\uff45\uff54\u3000\uff41\u3000\uff4a\uff4f\uff42 \u6797\u6a8e",
+        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+    },
+    {
+      "album": {
         "name": "self-care, Vol. 1",
         "url": "https://open.spotify.com/album/1rfkfGaRj113CXQSHpvuRj"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
@@ -2685,24 +2703,6 @@
     },
     {
       "album": {
-        "name": "get a job \u6797\u6a8e",
-        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "date_added": "2022-04-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130693,
-      "name": "Fruit That Sounds Friendly",
-      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
-    },
-    {
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/0M0klWWcMopvtxjFLGILJw"
       },
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 85090,
       "name": "Golden Glass",
       "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 153296,
       "name": "Home and Office",
       "url": "https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 172271,
       "name": "Nature",
       "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 162000,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 112278,
       "name": "W U H A N",
       "url": "https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY"

@@ -1,491 +1,3083 @@
 {
-  "2022-08-27": 210064,
-  "2022-08-28": 210271,
-  "2022-08-29": 210470,
-  "2022-08-30": 210603,
-  "2022-08-31": 210673,
-  "2022-09-01": 210736,
-  "2022-09-02": 210933,
-  "2022-09-03": 211000,
-  "2022-09-04": 211056,
-  "2022-09-05": 211261,
-  "2022-09-06": 211425,
-  "2022-09-07": 211581,
-  "2022-09-09": 211874,
-  "2022-09-10": 212009,
-  "2022-09-11": 212143,
-  "2022-09-12": 212240,
-  "2022-09-13": 212356,
-  "2022-09-15": 212547,
-  "2022-09-16": 212657,
-  "2022-09-17": 212742,
-  "2022-09-18": 212862,
-  "2022-09-19": 212954,
-  "2022-09-20": 213040,
-  "2022-09-21": 213128,
-  "2022-09-22": 213208,
-  "2022-09-23": 213295,
-  "2022-09-24": 213391,
-  "2022-09-25": 213470,
-  "2022-09-26": 213570,
-  "2022-09-27": 213663,
-  "2022-09-28": 213784,
-  "2022-09-29": 213886,
-  "2022-09-30": 213957,
-  "2022-10-01": 214017,
-  "2022-10-02": 214092,
-  "2022-10-03": 214170,
-  "2022-10-04": 214260,
-  "2022-10-05": 214350,
-  "2022-10-06": 214426,
-  "2022-10-07": 214485,
-  "2022-10-08": 214564,
-  "2022-10-09": 214715,
-  "2022-10-10": 214726,
-  "2022-10-11": 214794,
-  "2022-10-12": 214871,
-  "2022-10-13": 214943,
-  "2022-10-14": 215012,
-  "2022-10-15": 215085,
-  "2022-10-16": 215172,
-  "2022-10-17": 215258,
-  "2022-10-18": 215320,
-  "2022-10-19": 215385,
-  "2022-10-20": 215439,
-  "2022-10-21": 215496,
-  "2022-10-22": 215559,
-  "2022-10-23": 215615,
-  "2022-10-24": 215671,
-  "2022-10-25": 215764,
-  "2022-10-26": 215825,
-  "2022-10-27": 215912,
-  "2022-10-28": 215968,
-  "2022-10-29": 216031,
-  "2022-10-30": 216082,
-  "2022-10-31": 216130,
-  "2022-11-01": 216189,
-  "2022-11-02": 216257,
-  "2022-11-03": 216300,
-  "2022-11-04": 216371,
-  "2022-11-05": 216436,
-  "2022-11-06": 216498,
-  "2022-11-07": 216557,
-  "2022-11-08": 216598,
-  "2022-11-09": 216633,
-  "2022-11-10": 216721,
-  "2022-11-11": 216783,
-  "2022-11-12": 216865,
-  "2022-11-13": 216919,
-  "2022-11-14": 216980,
-  "2022-11-15": 217046,
-  "2022-11-16": 217093,
-  "2022-11-17": 217140,
-  "2022-11-18": 217164,
-  "2022-11-19": 217132,
-  "2022-11-20": 217207,
-  "2022-11-21": 217167,
-  "2022-11-22": 217344,
-  "2022-11-23": 217304,
-  "2022-11-24": 217510,
-  "2022-11-25": 217623,
-  "2022-11-26": 217685,
-  "2022-11-27": 217743,
-  "2022-11-28": 217809,
-  "2022-11-29": 217873,
-  "2022-11-30": 217932,
-  "2022-12-01": 217997,
-  "2022-12-02": 218044,
-  "2022-12-03": 218164,
-  "2022-12-04": 218229,
-  "2022-12-05": 218302,
-  "2022-12-06": 218342,
-  "2022-12-07": 218407,
-  "2022-12-08": 218489,
-  "2022-12-09": 218568,
-  "2022-12-10": 218631,
-  "2022-12-11": 218701,
-  "2022-12-12": 218758,
-  "2022-12-13": 218812,
-  "2022-12-14": 218878,
-  "2022-12-15": 218946,
-  "2022-12-16": 218998,
-  "2022-12-17": 219071,
-  "2022-12-18": 219131,
-  "2022-12-19": 219179,
-  "2022-12-20": 219294,
-  "2022-12-21": 219294,
-  "2022-12-22": 219332,
-  "2022-12-24": 219413,
-  "2022-12-25": 219471,
-  "2022-12-26": 219515,
-  "2022-12-27": 219586,
-  "2022-12-28": 219647,
-  "2022-12-29": 219729,
-  "2022-12-30": 219805,
-  "2022-12-31": 219889,
-  "2023-01-01": 219966,
-  "2023-01-02": 220034,
-  "2023-01-03": 220117,
-  "2023-01-04": 220176,
-  "2023-01-05": 220219,
-  "2023-01-06": 220315,
-  "2023-01-07": 220432,
-  "2023-01-08": 220446,
-  "2023-01-09": 220530,
-  "2023-01-10": 220591,
-  "2023-01-11": 220641,
-  "2023-01-12": 220709,
-  "2023-01-13": 220778,
-  "2023-01-14": 220899,
-  "2023-01-15": 220919,
-  "2023-01-16": 220987,
-  "2023-01-17": 221032,
-  "2023-01-18": 221088,
-  "2023-01-19": 221143,
-  "2023-01-20": 221198,
-  "2023-01-21": 221257,
-  "2023-01-22": 221300,
-  "2023-01-23": 221346,
-  "2023-01-24": 221382,
-  "2023-01-25": 221435,
-  "2023-01-26": 221467,
-  "2023-01-27": 221529,
-  "2023-01-28": 221577,
-  "2023-01-29": 221638,
-  "2023-01-30": 221692,
-  "2023-01-31": 221692,
-  "2023-02-01": 221801,
-  "2023-02-02": 221864,
-  "2023-02-03": 221911,
-  "2023-02-04": 221928,
-  "2023-02-05": 221990,
-  "2023-02-06": 222059,
-  "2023-02-07": 222097,
-  "2023-02-08": 222206,
-  "2023-02-09": 222206,
-  "2023-02-10": 222264,
-  "2023-02-11": 222318,
-  "2023-02-12": 222426,
-  "2023-02-13": 222473,
-  "2023-02-14": 222473,
-  "2023-02-15": 222516,
-  "2023-02-16": 222563,
-  "2023-02-17": 222620,
-  "2023-02-18": 222722,
-  "2023-02-19": 222740,
-  "2023-02-20": 222773,
-  "2023-02-21": 222809,
-  "2023-02-22": 222861,
-  "2023-02-23": 222908,
-  "2023-02-24": 222958,
-  "2023-02-25": 223052,
-  "2023-02-26": 223076,
-  "2023-02-27": 223159,
-  "2023-02-28": 223159,
-  "2023-03-01": 223202,
-  "2023-03-02": 223247,
-  "2023-03-03": 223297,
-  "2023-03-04": 223353,
-  "2023-03-05": 223447,
-  "2023-03-06": 223447,
-  "2023-03-07": 223489,
-  "2023-03-08": 223509,
-  "2023-03-09": 223553,
-  "2023-03-10": 223616,
-  "2023-03-11": 223653,
-  "2023-03-12": 223684,
-  "2023-03-13": 223730,
-  "2023-03-14": 223775,
-  "2023-03-15": 223811,
-  "2023-03-16": 223854,
-  "2023-03-17": 223854,
-  "2023-03-18": 223922,
-  "2023-03-19": 223963,
-  "2023-03-20": 224011,
-  "2023-03-21": 224046,
-  "2023-03-22": 224068,
-  "2023-03-23": 224119,
-  "2023-03-24": 224119,
-  "2023-03-25": 224220,
-  "2023-03-26": 224259,
-  "2023-03-27": 224300,
-  "2023-03-28": 224321,
-  "2023-03-29": 224385,
-  "2023-03-30": 224461,
-  "2023-03-31": 224461,
-  "2023-04-01": 224499,
-  "2023-04-02": 224557,
-  "2023-04-03": 224588,
-  "2023-04-04": 224613,
-  "2023-04-05": 224667,
-  "2023-04-06": 224710,
-  "2023-04-07": 224726,
-  "2023-04-09": 224783,
-  "2023-04-10": 224836,
-  "2023-04-11": 224920,
-  "2023-04-12": 224920,
-  "2023-04-13": 224959,
-  "2023-04-14": 224976,
-  "2023-04-15": 225027,
-  "2023-04-16": 225076,
-  "2023-04-17": 225118,
-  "2023-04-18": 225140,
-  "2023-04-19": 225191,
-  "2023-04-20": 225250,
-  "2023-04-21": 225299,
-  "2023-04-22": 225345,
-  "2023-04-23": 225398,
-  "2023-04-24": 225411,
-  "2023-04-25": 225460,
-  "2023-04-26": 225499,
-  "2023-04-27": 225532,
-  "2023-04-28": 225574,
-  "2023-04-29": 225632,
-  "2023-04-30": 225663,
-  "2023-05-01": 225706,
-  "2023-05-02": 225750,
-  "2023-05-03": 225791,
-  "2023-05-04": 225829,
-  "2023-05-05": 225858,
-  "2023-05-06": 225905,
-  "2023-05-07": 225942,
-  "2023-05-08": 225983,
-  "2023-05-09": 226020,
-  "2023-05-10": 226055,
-  "2023-05-11": 226099,
-  "2023-05-12": 226146,
-  "2023-05-13": 226183,
-  "2023-05-14": 226227,
-  "2023-05-15": 226276,
-  "2023-05-16": 226344,
-  "2023-05-17": 226404,
-  "2023-05-18": 226444,
-  "2023-05-19": 226464,
-  "2023-05-20": 226553,
-  "2023-05-21": 226553,
-  "2023-05-22": 226553,
-  "2023-05-23": 226635,
-  "2023-05-24": 226705,
-  "2023-05-25": 226705,
-  "2023-05-26": 226735,
-  "2023-05-27": 226768,
-  "2023-05-28": 226810,
-  "2023-05-29": 226810,
-  "2023-05-30": 226861,
-  "2023-05-31": 226891,
-  "2023-06-01": 226915,
-  "2023-06-02": 226956,
-  "2023-06-03": 227002,
-  "2023-06-04": 227055,
-  "2023-06-05": 227114,
-  "2023-06-06": 227148,
-  "2023-06-07": 227209,
-  "2023-06-08": 227261,
-  "2023-06-09": 227297,
-  "2023-06-10": 227373,
-  "2023-06-11": 227418,
-  "2023-06-12": 227470,
-  "2023-06-13": 227507,
-  "2023-06-14": 227508,
-  "2023-06-15": 227509,
-  "2023-06-16": 227551,
-  "2023-06-17": 227551,
-  "2023-06-18": 227551,
-  "2023-06-19": 227551,
-  "2023-06-20": 227551,
-  "2023-06-21": 227551,
-  "2023-06-22": 227551,
-  "2023-06-23": 227551,
-  "2023-06-24": 227551,
-  "2023-06-25": 227551,
-  "2023-06-26": 227551,
-  "2023-06-27": 227551,
-  "2023-06-28": 227551,
-  "2023-06-29": 227551,
-  "2023-06-30": 227551,
-  "2023-07-01": 227551,
-  "2023-07-02": 227551,
-  "2023-07-03": 227551,
-  "2023-07-04": 227551,
-  "2023-07-05": 227551,
-  "2023-07-06": 227551,
-  "2023-07-07": 227551,
-  "2023-07-08": 227551,
-  "2023-07-09": 227551,
-  "2023-07-10": 227551,
-  "2023-07-11": 227551,
-  "2023-07-12": 227551,
-  "2023-07-13": 227551,
-  "2023-07-14": 227551,
-  "2023-07-15": 227551,
-  "2023-07-16": 227551,
-  "2023-07-17": 227551,
-  "2023-07-18": 227551,
-  "2023-07-19": 227551,
-  "2023-07-20": 227551,
-  "2023-07-21": 227551,
-  "2023-07-22": 227551,
-  "2023-07-23": 227551,
-  "2023-07-24": 227551,
-  "2023-07-25": 227551,
-  "2023-07-26": 227551,
-  "2023-07-27": 227551,
-  "2023-07-28": 227551,
-  "2023-07-29": 227551,
-  "2023-07-30": 227551,
-  "2023-07-31": 227551,
-  "2023-08-01": 227551,
-  "2023-08-02": 227551,
-  "2023-08-03": 227551,
-  "2023-08-04": 227551,
-  "2023-08-05": 227551,
-  "2023-08-06": 227551,
-  "2023-08-07": 227551,
-  "2023-08-08": 227551,
-  "2023-08-09": 227551,
-  "2023-08-10": 227551,
-  "2023-08-11": 227551,
-  "2023-08-12": 227551,
-  "2023-08-13": 227551,
-  "2023-08-14": 227551,
-  "2023-08-15": 227551,
-  "2023-08-16": 227551,
-  "2023-08-17": 227551,
-  "2023-08-18": 227551,
-  "2023-08-19": 227551,
-  "2023-08-20": 227551,
-  "2023-08-21": 227551,
-  "2023-08-22": 227551,
-  "2023-08-23": 227551,
-  "2023-08-24": 227551,
-  "2023-08-25": 227551,
-  "2023-08-26": 227551,
-  "2023-08-27": 227551,
-  "2023-08-28": 227551,
-  "2023-08-29": 227551,
-  "2023-08-30": 227551,
-  "2023-08-31": 227551,
-  "2023-09-01": 227551,
-  "2023-09-02": 227551,
-  "2023-09-03": 227551,
-  "2023-09-04": 227551,
-  "2023-09-05": 227551,
-  "2023-09-06": 227551,
-  "2023-09-07": 227551,
-  "2023-09-08": 227551,
-  "2023-09-09": 227551,
-  "2023-09-10": 227551,
-  "2023-09-11": 227551,
-  "2023-09-12": 227551,
-  "2023-09-13": 227551,
-  "2023-09-14": 227551,
-  "2023-09-15": 227551,
-  "2023-09-16": 227551,
-  "2023-09-17": 227551,
-  "2023-09-18": 227551,
-  "2023-09-19": 227551,
-  "2023-09-20": 227551,
-  "2023-09-21": 227551,
-  "2023-09-22": 227551,
-  "2023-09-23": 227551,
-  "2023-09-24": 227551,
-  "2023-09-25": 227551,
-  "2023-09-26": 227551,
-  "2023-09-27": 227551,
-  "2023-09-28": 227551,
-  "2023-09-29": 227551,
-  "2023-09-30": 227551,
-  "2023-10-01": 227551,
-  "2023-10-02": 227551,
-  "2023-10-03": 227551,
-  "2023-10-04": 227551,
-  "2023-10-05": 227551,
-  "2023-10-06": 227551,
-  "2023-10-07": 227551,
-  "2023-10-08": 227551,
-  "2023-10-09": 227551,
-  "2023-10-10": 227551,
-  "2023-10-11": 227551,
-  "2023-10-12": 227551,
-  "2023-10-13": 227551,
-  "2023-10-14": 227551,
-  "2023-10-15": 227551,
-  "2023-10-16": 227551,
-  "2023-10-17": 227551,
-  "2023-10-18": 227551,
-  "2023-10-19": 227551,
-  "2023-10-20": 227551,
-  "2023-10-21": 227551,
-  "2023-10-22": 227551,
-  "2023-10-23": 227551,
-  "2023-10-24": 227551,
-  "2023-10-25": 227551,
-  "2023-10-26": 227551,
-  "2023-10-27": 227551,
-  "2023-10-28": 227551,
-  "2023-10-29": 227551,
-  "2023-10-30": 227551,
-  "2023-10-31": 227551,
-  "2023-11-01": 227551,
-  "2023-11-02": 227551,
-  "2023-11-03": 227551,
-  "2023-11-04": 227551,
-  "2023-11-05": 227551,
-  "2023-11-06": 227551,
-  "2023-11-07": 227551,
-  "2023-11-08": 227551,
-  "2023-11-09": 227551,
-  "2023-11-10": 227551,
-  "2023-11-11": 227551,
-  "2023-11-12": 227551,
-  "2023-11-13": 227551,
-  "2023-11-14": 227551,
-  "2023-11-15": 227551,
-  "2023-11-16": 227551,
-  "2023-11-17": 227551,
-  "2023-11-18": 227551,
-  "2023-11-19": 227551,
-  "2023-11-20": 227551,
-  "2023-11-21": 227551,
-  "2023-11-22": 227551,
-  "2023-11-23": 227551,
-  "2023-11-24": 227551,
-  "2023-11-25": 227551,
-  "2023-11-26": 227551,
-  "2023-11-27": 227551,
-  "2023-11-28": 227551,
-  "2023-11-29": 227551,
-  "2023-11-30": 227551,
-  "2023-12-01": 227551,
-  "2023-12-02": 227551,
-  "2023-12-03": 227551,
-  "2023-12-04": 227551,
-  "2023-12-05": 227551,
-  "2023-12-06": 227551,
-  "2023-12-07": 227551,
-  "2023-12-08": 227551,
-  "2023-12-09": 227551,
-  "2023-12-10": 227551,
-  "2023-12-11": 227551,
-  "2023-12-12": 227551,
-  "2023-12-13": 227551,
-  "2023-12-14": 227551,
-  "2023-12-15": 227551,
-  "2023-12-16": 227551,
-  "2023-12-17": 227551,
-  "2023-12-18": 227551,
-  "2023-12-19": 227551,
-  "2023-12-20": 227551,
-  "2023-12-21": 227551,
-  "2023-12-22": 227551,
-  "2023-12-23": 227551,
-  "2023-12-24": 227551,
-  "2023-12-25": 227551,
-  "2023-12-26": 227551,
-  "2023-12-27": 227551,
-  "2023-12-30": 227551,
-  "2023-12-31": 227551,
-  "2024-01-01": 227551,
-  "2024-01-02": 227551,
-  "2024-01-03": 227551
+  "2024-01-17": 227551,
+  "date_first_scraped": "2022-08-27",
+  "description": "This Is Girls' Generation. The essential tracks, all in one playlist.",
+  "name": "This Is Girls' Generation",
+  "tracks": [
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "KANGTA",
+          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "7989 (KANGTA & TAEYEON)",
+      "url": "https://open.spotify.com/track/2opcf7L4fSnbvHIu0LF6yA"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "KANGTA",
+          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "7989 (KANGTA & TAEYEON)",
+      "url": "https://open.spotify.com/track/3oFUrTsSshYJMCClIBMfiU"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "ALL MY LOVE IS FOR YOU",
+      "url": "https://open.spotify.com/track/3Mz4tnof8bgZ6TO2YqY8wq"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1UwERmn5UogyCz6qo21BmA"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/0PNG7rdhHhd3Eqx3mAoU4c"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/0Ql5ZdoSerPwu6uWtM40bD"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222524,
+      "name": "Baby Maybe",
+      "url": "https://open.spotify.com/track/4VYQw192sVfFn7cL1GG7pQ"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/24BWbBW2tMYQFIKzupkb8k"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/4KfsFGIJdoNt0RaOTSCJGr"
+    },
+    {
+      "album": {
+        "name": "Into the New World",
+        "url": "https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/4eHSzjSlnTUUDQqDW9i3Mf"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3vwCHNNoGuUPpPZcvPlLxz"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Boys & Girls",
+      "url": "https://open.spotify.com/track/2W6hbzF86uyg4StIT40iSI"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Boys & Girls",
+      "url": "https://open.spotify.com/track/5KeJqC9SAhwrCMgMi67giU"
+    },
+    {
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4efZAcyaIaPMIeBQheHKOy"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Catch Me If You Can - Korean Version",
+      "url": "https://open.spotify.com/track/5mejZAeca4Ry7Sptw7LnvS"
+    },
+    {
+      "album": {
+        "name": "THE BEST (New Edition)",
+        "url": "https://open.spotify.com/album/2GkAMWtstmMD1bOks6nOCf"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/1MHx2MLiK5D0BFFMcsqact"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206961,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF"
+    },
+    {
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/1sysmn95tSsSfmXxr9RwhD"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206961,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/4ttDxU3XbKTTifrlysSspP"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7JWXQE9QBQ8BAPFKAwnUWP"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/2AlaUGaBVhsCA4qI7B7spv"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5Z7fDuIF6XYXQWvnd2GigO"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215279,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/4NPyIBhauz5l8elysRS1mE"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/4O4yA8AWGhgghKtoYca73m"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/5R6RSkwFifELDFbP5BBrMj"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Dear. Mom",
+      "url": "https://open.spotify.com/track/2LXGsLRNmRDBbUANxOsicK"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/2cHUUBY7icbhD2eDGrBDEJ"
+    },
+    {
+      "album": {
+        "name": "THE BEST (New Edition)",
+        "url": "https://open.spotify.com/album/2GkAMWtstmMD1bOks6nOCf"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/5SH8PV6RhyzlYW4PSsoRtB"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211093,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5WcfAYCrFnpXcj9EHhIBar"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "Etude",
+      "url": "https://open.spotify.com/track/7kw83bSrpGoH34GP92Y9HZ"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206662,
+      "name": "Express 999",
+      "url": "https://open.spotify.com/track/01pTsoQajn2raKwmO7GYmB"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230635,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/6LUaidcmZGIXczdMtMbfZ9"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "Fire Alarm",
+      "url": "https://open.spotify.com/track/40n8bfgbFI745vNrhAzE7L"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "FLOWER POWER",
+      "url": "https://open.spotify.com/track/7x0PV8Qo4Utd7a3ffX2zSy"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269933,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0uk9yDzSJsgpKlsIFvYsUy"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269933,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7g4dl22g2z2WFAasxBSAmA"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4ncRdOnJVY9uSFC74jFJOa"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "GALAXY SUPERNOVA",
+      "url": "https://open.spotify.com/track/3r0o2kuL8PyzRJ6Q3OP4Jw"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/4cczsBhbMmU2eCnqHLLcSZ"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/3PehX6mXzk1DD2QWp6Du4n"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/6kN3vvzDiVZP2hiPA0ApMd"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/10XwIa6tx3OtaesTcgMWcU"
+    },
+    {
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4efZAcyaIaPMIeBQheHKOy"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236124,
+      "name": "Girls - Korean Version",
+      "url": "https://open.spotify.com/track/1QQPU6OW2RNqJPKdWd90WF"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205785,
+      "name": "Girls Are Back",
+      "url": "https://open.spotify.com/track/0WG9TuJbzIwc5wddbQmfcv"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Girls' Generation",
+      "url": "https://open.spotify.com/track/5pmS0WtBVwYrBtxxEtBufj"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Girls' Generation",
+      "url": "https://open.spotify.com/track/7GxaIFqvSXvAg18ai8i0gT"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193949,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2UyyNZgMZwViG27hY0xWcI"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/7C4aWThnPmubzxcrnJWGuk"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199563,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/43lngOMmCkkTQbL1kNyTC5"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/4YASShsmclMH0JJNNcH3sE"
+    },
+    {
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Hoot",
+      "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "How Great Is Your Love",
+      "url": "https://open.spotify.com/track/21JoMI2hhv7MQWElCJjoIA"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 232853,
+      "name": "How Great Is Your Love(Original Title : Still Believe In Love)",
+      "url": "https://open.spotify.com/track/5XA4vl2vgiUM3OICR4v4W9"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6JPW99nESYRVnSA4cysjp5"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Into the New World",
+      "url": "https://open.spotify.com/track/1RTW9UthqmZwr8Od6CH4i8"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Into the New World",
+      "url": "https://open.spotify.com/track/7LiCMjDVxGe7bk1mg0AwZI"
+    },
+    {
+      "album": {
+        "name": "Into the New World",
+        "url": "https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267320,
+      "name": "Into the New World",
+      "url": "https://open.spotify.com/track/24Gy6lVtCd8nOL2vzZiFyV"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/1dFPtrVUTcTsakExePtwYp"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "Kissing You - Skool Rock Remix",
+      "url": "https://open.spotify.com/track/5hUl4xOPfsecVo1tw93q9H"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Lazy Girl (Dolce Far Niente)",
+      "url": "https://open.spotify.com/track/5Ui4N1pjGHXcV8mgVxUG5p"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 183906,
+      "name": "Lazy Girl (Dolce Far Niente) (Original Title : Crazy Girl)",
+      "url": "https://open.spotify.com/track/3TULobrMBejFbm90zcLZ2X"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588120,
+      "name": "Let's Go Girls' Generation!! - Long Version",
+      "url": "https://open.spotify.com/track/3FNhGOaS12ePdta4zgm7Fw"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378386,
+      "name": "Let's Go Girls' Generation!! - Short Version",
+      "url": "https://open.spotify.com/track/3mxAjbhqANWcugxcZ4Aw8K"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Let's Talk About Love",
+      "url": "https://open.spotify.com/track/30lgvwsjS4JN9fN8FhlzuQ"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241107,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/6wHaswVnTnXSIOiB8t0Rfq"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224257,
+      "name": "Lion Heart",
+      "url": "https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181262,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/11ViLweS9tTwP4FgPygGxe"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218022,
+      "name": "Love Is Bitter",
+      "url": "https://open.spotify.com/track/5sksmysaBWQJ3yzEP1lXdt"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "Lucky Like That",
+      "url": "https://open.spotify.com/track/1dHHWJNYz8SfuDnaV11e67"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/0i4YVCM00ZSPZRcxdDs9Mx"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/3n72zEmcFCjx41bJaViRKb"
+    },
+    {
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249013,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/6BrhkD3BvUf1EFrWBqxVzf"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228946,
+      "name": "Mood Lamp",
+      "url": "https://open.spotify.com/track/3oPnpmmhtm608mSEXl1Aea"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 212733,
+      "name": "MR. TAXI (Original Title : Mr. Taxi)",
+      "url": "https://open.spotify.com/track/6BaZmJzvAtXx72MjSHSlbf"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235434,
+      "name": "Mr.Mr.",
+      "url": "https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213213,
+      "name": "MR.TAXI",
+      "url": "https://open.spotify.com/track/6n1iYH6HIbqf4lvMgwJYqj"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "MR.TAXI - Korean Version",
+      "url": "https://open.spotify.com/track/5lxq0GFWUhz5Qe7Yi8UHgd"
+    },
+    {
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/4sBDe6HM2JTSP1XbQNN4W1"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "My Child",
+      "url": "https://open.spotify.com/track/35m9yksNGIAw3Mi0smwsJK"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 231253,
+      "name": "My J",
+      "url": "https://open.spotify.com/track/75nF9YAJ7jLugRHGPq94eQ"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "My J",
+      "url": "https://open.spotify.com/track/60qQgI6pVYlk82uEYrs4wT"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Oh!",
+      "url": "https://open.spotify.com/track/264hNamcggdKXKAg3ypdQC"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Oh!",
+      "url": "https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4N8bc3QFJJcVwXRu4rcEQO"
+    },
+    {
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Jessica",
+          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241186,
+      "name": "One Year Later",
+      "url": "https://open.spotify.com/track/1OegdSRGCwdM30qbk5mnZz"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195630,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/6Wm9796jCPAQfplIM0Q7hF"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Ooh La-La!",
+      "url": "https://open.spotify.com/track/0Z224p1ZDeQvsq23A6evuE"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Ooh La-La!",
+      "url": "https://open.spotify.com/track/1BrAiycs43pH7GGbii0DfI"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 201040,
+      "name": "OSCAR",
+      "url": "https://open.spotify.com/track/5qD3Mbg6Zd8PaE73gFtFfI"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Oscar",
+      "url": "https://open.spotify.com/track/13rcBHebsfe2swjTJgfzQ3"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/4jNLpkzTsghN4RVUrra61P"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230822,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4qJb26r6kIeta7xQwV6IPR"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/0uak6K95JcYexDgqHmh5cc"
+    },
+    {
+      "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/1sysmn95tSsSfmXxr9RwhD"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/1sHT1fYy8hlr9X48PmenVI"
+    },
+    {
+      "album": {
+        "name": "Into the New World",
+        "url": "https://open.spotify.com/album/6EmLwnyjJRVgNOmOUpVhzz"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Perfect for You",
+      "url": "https://open.spotify.com/track/62OII8rXFkrcXRYkTgr2Nt"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195343,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5ZSfWneqLDLRvSmedSAeWS"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "Run Devil Run",
+      "url": "https://open.spotify.com/track/0U9jNoTJeTxXToakhsb7pV"
+    },
+    {
+      "album": {
+        "name": "Sailing (0805) - SM STATION",
+        "url": "https://open.spotify.com/album/6GvYONX7JKhU1OVX7BREO7"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260835,
+      "name": "Sailing (0805)",
+      "url": "https://open.spotify.com/track/4uJ3OmCWKLIKkk94iJUjE5"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 224680,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/5D1StG1rjvPjixCnVZR5HG"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2FdZO4kMRcQOonG8wcpGKi"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/1gLSIkfJc5TG1Nle8X4ImG"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219076,
+      "name": "Show Girls",
+      "url": "https://open.spotify.com/track/5lXHqiJoFY8O7dcb5TaBLL"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Show! Show! Show!",
+      "url": "https://open.spotify.com/track/4wvhF9ZixVTQzlb5qAxM6A"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Show! Show! Show!",
+      "url": "https://open.spotify.com/track/5jr7kSXEcAyfxey3zLtreN"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197276,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6GvX6iavjN0chlxm1hkavi"
+    },
+    {
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Snowy Wish",
+      "url": "https://open.spotify.com/track/1GqkLHmcTwQ51JLYrfTrGa"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226997,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/76ssTbsB9z3eXcAfcEx19r"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "Star Star Star (\u2606\u2605\u2606)",
+      "url": "https://open.spotify.com/track/0rbkEgXCFFomXwmxNn7Tlo"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270240,
+      "name": "Star Star Star (\u2606\u2605\u2606)",
+      "url": "https://open.spotify.com/track/3RpppdGLN08T2IznmCJ4mM"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269786,
+      "name": "Star Star Star (\u2606\u2605\u2606) - Acoustic R&B Version",
+      "url": "https://open.spotify.com/track/5GdcqoJgk4r6v5VowVfIib"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Stick Wit U",
+      "url": "https://open.spotify.com/track/27KZYfHvwcZfpnsSzgCGDf"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Stick Wit U",
+      "url": "https://open.spotify.com/track/5k2J7UV6xBJNe0BeQ5FFfw"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/7aGQ5amwc1HVB7AxGBDHBu"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 228333,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5k4qqexTJhwQUjlREsqy9s"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4OjaDdjehtEGNR0IhhWMNm"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200541,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/3x5mGMf6oxKCHyAN4mXa8m"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210413,
+      "name": "Sweet Talking Baby",
+      "url": "https://open.spotify.com/track/1vcgOYfvxMHYbTdzaJ5Fan"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210413,
+      "name": "Sweet Talking Baby",
+      "url": "https://open.spotify.com/track/3Fps3BO8axPHwN0lNk8OpY"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203279,
+      "name": "Talk Talk",
+      "url": "https://open.spotify.com/track/6Pcc7F41Tfo7m2JvDMRfc7"
+    },
+    {
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/3zChY1IU5iSfNjYRDmfVFH"
+    },
+    {
+      "album": {
+        "name": "Run Devil Run - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2b4JQKXl0gwf3bnAfhZwLA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/7AR3qFQVLAT2i0spq0Vnha"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/08AxQ3mH3grr4YFMLy3ZE3"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/5oumQiDmJw7C6xYgFzGRyz"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 223573,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/6QF4DgGx6Osgo60QDwvOPn"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/3Qzn45cJUxvqHH4j6coc8C"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 226893,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/6o6XlivwGtP1JgQZ8IAwty"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 226906,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/3ImHydeN8Sciy5cLgeDtOR"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 216733,
+      "name": "The Boys *Bring Dem Boys*",
+      "url": "https://open.spotify.com/track/1t1pTgdPrhJGMwt5gZqFel"
+    },
+    {
+      "album": {
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/1IwKtNTYM8znWPKnv3kU8J"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "The Boys *Bring Dem Boys* - Teddy Riley Remix",
+      "url": "https://open.spotify.com/track/79qKDXwVdpsalZvRX8eq0k"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 264000,
+      "name": "The Boys *Bring The Boys Out* - David Anthony Remix",
+      "url": "https://open.spotify.com/track/1clLR4YXaRgd5MP1PCr5SM"
+    },
+    {
+      "album": {
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "David Anthony",
+          "url": "https://open.spotify.com/artist/75frj8UB2JwByVGCHxGbpy"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265986,
+      "name": "The Boys *Bring The Boys Out* - David Anthony Remix",
+      "url": "https://open.spotify.com/track/5ecmJO7p9d4OSTUq3JiH7A"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 241200,
+      "name": "The Boys *Bring The Boys* - Teddy Riley Remix",
+      "url": "https://open.spotify.com/track/1hCBfU7DDU48zoeZNUJv6c"
+    },
+    {
+      "album": {
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243186,
+      "name": "The Boys *Bring The Boys* - Teddy Riley Remix",
+      "url": "https://open.spotify.com/track/751VCyYR0ZLHbz2IzBXUPy"
+    },
+    {
+      "album": {
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Lil Playy",
+          "url": "https://open.spotify.com/artist/1d5znoU7LGiCy3H8TMtLWg"
+        },
+        {
+          "name": "Clinton Sparks",
+          "url": "https://open.spotify.com/artist/3kOPviLsiuKCFTTsHc47lI"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256777,
+      "name": "The Boys - Clinton Sparks & Disco Fries Remix",
+      "url": "https://open.spotify.com/track/0lgjN8m6N7SndvLmwo5nm7"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 256786,
+      "name": "The Boys - Clinton Sparks & Disco Fries Remix",
+      "url": "https://open.spotify.com/track/7eIEa58JbbZyDPYpJNBkxc"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228880,
+      "name": "The Boys - English Version",
+      "url": "https://open.spotify.com/track/162MHwMBYufdE5jyoRobTo"
+    },
+    {
+      "album": {
+        "name": "'The Boys' Maxi Single",
+        "url": "https://open.spotify.com/album/2TKXGpbrsOCMjcyR1o2Yj1"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 228880,
+      "name": "The Boys - English Version",
+      "url": "https://open.spotify.com/track/3ym8svDx03YE9WDdLOOg1z"
+    },
+    {
+      "album": {
+        "name": "THE BEST",
+        "url": "https://open.spotify.com/album/1xf4URVJ3DRX2uumI916w6"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/01DWHWYLvPOo1VwidHhza8"
+    },
+    {
+      "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "Tinkerbell",
+      "url": "https://open.spotify.com/track/3WSLv2WNgHE0BNMrHC0Jye"
+    },
+    {
+      "album": {
+        "name": "BABY BABY - Girls' Generation Repackage",
+        "url": "https://open.spotify.com/album/4WzpK0mIeVP4igTpG5pdeg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "Tinkerbell",
+      "url": "https://open.spotify.com/track/50gbSEqBtfGfEawoTYvYcj"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "Top Secret",
+      "url": "https://open.spotify.com/track/7Crx79ybL06uWoJ5AeYjvt"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 177093,
+      "name": "TOP SECRET (Original Title : Shake The Tree)",
+      "url": "https://open.spotify.com/track/16EjZBUypOSgqiroAS48Ek"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/75ogbQvkIBORm0pYknQNY5"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 193560,
+      "name": "TRICK (Original Title : TYPICAL)",
+      "url": "https://open.spotify.com/track/0UmnjNUcWPhpxIJMqyqqGv"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182186,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/3FuL8QGYM7NWj9YWFCEc5W"
+    },
+    {
+      "album": {
+        "name": "The Boys",
+        "url": "https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 187133,
+      "name": "VITAMIN",
+      "url": "https://open.spotify.com/track/7JEQSlU7K7RC12y3gubFq7"
+    },
+    {
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Vitamin",
+      "url": "https://open.spotify.com/track/6QxUBq6MGLkveekZSEuNop"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204927,
+      "name": "Wait a Minute",
+      "url": "https://open.spotify.com/track/0F6LUUpLGKK3JR7yD7nJcT"
+    },
+    {
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6tENlLxDRp3LTNqmyZqKNK"
+    },
+    {
+      "album": {
+        "name": "Gee - The First Mini Album",
+        "url": "https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Way to Go",
+      "url": "https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195233,
+      "name": "XYZ",
+      "url": "https://open.spotify.com/track/2oAizQFMlBKmvtmMpRQXoY"
+    },
+    {
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "You Better Run",
+      "url": "https://open.spotify.com/track/7AKKUOFQjjhFyjzvhtawsM"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188608,
+      "name": "You Think",
+      "url": "https://open.spotify.com/track/0FleCid5zJl78Gc4NSpg3s"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239711,
+      "name": "\ub0ad\ub9cc\uae38 (Romantic St.)",
+      "url": "https://open.spotify.com/track/1Dxsu1IUedOLqx2yT1SyjG"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166379,
+      "name": "\ub9d0\ud574\ubd10 (Talk Talk)",
+      "url": "https://open.spotify.com/track/4fcMeRJFjEbvWagaEJD33A"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "\ubc31\ud5c8\uadf8 Back Hug",
+      "url": "https://open.spotify.com/track/6fYNaMLj4a7NZYLluzkB5M"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215940,
+      "name": "\uc5b4\ub5a4 \uc624\ud6c4 One Afternoon",
+      "url": "https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228637,
+      "name": "\uc608\uac10 Bump It",
+      "url": "https://open.spotify.com/track/0JbZnZ21MrSMZbOv81F0Kf"
+    },
+    {
+      "album": {
+        "name": "Holiday Night - The 6th Album",
+        "url": "https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "\uc624\ub79c \uc18c\uc6d0 It's You",
+      "url": "https://open.spotify.com/track/2o0tBYtr3tBBqesoZzHklI"
+    },
+    {
+      "album": {
+        "name": "Mr. Mr. - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "\uc720\ub85c\ud30c Europa",
+      "url": "https://open.spotify.com/track/13raMIk3oXkgjP2hAvVCu2"
+    },
+    {
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239903,
+      "name": "\uc720\ub9ac\uc544\uc774 (Lost In Love)",
+      "url": "https://open.spotify.com/track/3ds1h65uxnS3zVmaVLGTHQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0sGSAwFMowZ"
 }

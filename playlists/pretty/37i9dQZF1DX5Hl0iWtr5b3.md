@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,555 likes - 93 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,581 likes - 93 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: The Beatles",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo\n",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
+      },
+      "artists": [
+        {
+          "name": "Dnaipes",
+          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226624,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
+    },
+    {
+      "album": {
         "name": "Amor Em V\u00e3o",
         "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
       },
@@ -252,6 +270,24 @@
     {
       "album": {
         "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254263,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
+    },
+    {
+      "album": {
+        "name": "Birds and the Bees",
         "url": "https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn"
       },
       "artists": [
@@ -262,7 +298,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 254263,
       "name": "Birds and the Bees",
       "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
@@ -722,6 +758,24 @@
       "duration_ms": 192853,
       "name": "Hear Me Now - Ao Vivo",
       "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "album": {
@@ -1274,7 +1328,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205786,
       "name": "Por Que Voc\u00ea Me Trata Assim?",
       "url": "https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr"
@@ -1492,7 +1546,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 223202,
       "name": "Quimera",
       "url": "https://open.spotify.com/track/38AhroLzkLm5gs2JRkVjPJ"

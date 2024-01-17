@@ -4,7 +4,7 @@
 
 > you're gathering flowers in the forest, listening to birdsong, humming a sweet melody.
 
-94 songs - 4 hr 8 min
+97 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-04-26 |  |
 | [Comodinodi Foglie](https://open.spotify.com/track/1Is0TOiqxHpYjDCoHQSpiE) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Comodinodi Foglie](https://open.spotify.com/album/0EJFmkGxrSJ0FqxOedfpor) | 1:47 | 2023-10-09 | 2023-10-13 |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-26 | 2023-10-24 |
+| [Da Lat](https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [Da Lat](https://open.spotify.com/album/3WMsFEZNsxeQOYUQvt6RXS) | 2:02 | 2024-01-09 |  |
 | [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-09 |  |
 | [Days of Rain](https://open.spotify.com/track/0nwHmynSiU87VPESKBszNx) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/5DFWZ7r253ML5LOzRYEW5e) | 2:56 | 2023-10-17 |  |
 | [Days of Rain](https://open.spotify.com/track/5y8lkSuUCUU0aOY35ocja3) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/3c5uDhij6hPLqAZBY1RimI) | 2:56 | 2023-04-26 | 2023-12-09 |
@@ -57,6 +58,7 @@
 | [Iris](https://open.spotify.com/track/6ouyD7SLKECxbSpKne7bTM) | [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK) | [Iris](https://open.spotify.com/album/09NoNxKuhdI6RmmffIIkHZ) | 1:58 | 2023-04-26 | 2023-10-13 |
 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-04-26 | 2023-10-13 |
 | [La Pasión Del Bosque](https://open.spotify.com/track/1kMRtmFRoAvnRyWer5Cnpd) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [La Pasión Del Bosque](https://open.spotify.com/album/6vZYc1userUmjcVvNLBdqj) | 2:27 | 2023-10-17 |  |
+| [Locus Silvae](https://open.spotify.com/track/5gepXovlMpTNyys7A4Eykw) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Locus Silvae](https://open.spotify.com/album/4WZlTtDVwoTAfu1eHAWkyX) | 2:05 | 2024-01-09 |  |
 | [Lost](https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lost](https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa) | 3:07 | 2023-04-26 |  |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-04-26 |  |
 | [March 22 \(spring is coming\)](https://open.spotify.com/track/6oBzECFn0yDZMZqkZDd4ML) | [Ava Cohen](https://open.spotify.com/artist/0uCO8KkZMwQTXzi53QARiC) | [March 22 \(spring is coming\)](https://open.spotify.com/album/2rkv2XASJz26Ee8BWzVaI6) | 2:46 | 2023-04-26 |  |
@@ -98,6 +100,7 @@
 | [Umeboshi](https://open.spotify.com/track/4gU0z7F2WwnQcY888xgq2Y) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Umeboshi](https://open.spotify.com/album/77YHNRYe9atUBmHk7YZzak) | 3:00 | 2023-04-26 |  |
 | [Universo \(Sunday Mornings\)](https://open.spotify.com/track/2gLzXUJS3vv80m0B5rAqxS) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sunday Mornings, Vol\. III](https://open.spotify.com/album/3Vm1lhVJJ9HWpahKpxckaA) | 2:19 | 2023-04-26 |  |
 | [Upon Gliding Wings & Sunday Mornings](https://open.spotify.com/track/5YeEx99daiViCDGXVeVY03) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVII](https://open.spotify.com/album/0If7IfnqHrjBZFakxhc8cv) | 2:27 | 2023-04-26 |  |
+| [Volans Viridi](https://open.spotify.com/track/7JRUaNTp9CMmhvbJwxH4HW) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Volans Viridi](https://open.spotify.com/album/1VwmKkIpgKZjSSsjxYjDL2) | 2:01 | 2024-01-09 |  |
 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 | 2023-04-26 | 2023-10-13 |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-04-26 |  |
 | [Woven Song](https://open.spotify.com/track/4lSsH5NXdwFbBhRrFXPVFj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:10 | 2023-04-26 | 2023-10-10 |

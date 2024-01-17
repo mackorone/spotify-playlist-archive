@@ -4,7 +4,7 @@
 
 > ¡Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href="https://bahidora.com//"> aquí</a>.
 
-112 songs - 8 hr 24 min
+113 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Should've Brought an Umbrella](https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Silent Spring EP](https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u) | 7:15 | 2023-02-03 | 2023-11-02 |
 | [SHUT UP](https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [Blackthoven](https://open.spotify.com/artist/6KhtkRzbD5IKjYOlHanIjS) | [SHUT UP](https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34) | 2:48 | 2023-02-03 | 2023-11-02 |
 | [Si la Calle Bota Fuego](https://open.spotify.com/track/6bmPTVQnIUFEsPhTAGJ7Ky) | [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm), [Adrianigual](https://open.spotify.com/artist/1zPEKROH5M1RQz9wJinKPW) | [No Se](https://open.spotify.com/album/5G6fWdKvQpYZ9EScOMS1QH) | 3:13 | 2023-11-01 |  |
-| [si preguntas por mi](https://open.spotify.com/track/7z3rdMzhY122waIpkSsE7P) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:35 | 2023-11-01 |  |
+| [si preguntas por mi](https://open.spotify.com/track/5Uoni5ULnC7Aq69DsRR10G) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:35 | 2023-11-01 |  |
+| [si preguntas por mi](https://open.spotify.com/track/7z3rdMzhY122waIpkSsE7P) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:35 | 2023-11-01 | 2024-01-04 |
 | [Sola](https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 4:09 | 2023-02-03 | 2023-11-02 |
 | [Sonido Amazonico](https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:40 | 2023-11-01 |  |
 | [SPELL 주문](https://open.spotify.com/track/6Qk1WzbDmNd1dCsvKIFf4w) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:06 | 2023-11-01 |  |

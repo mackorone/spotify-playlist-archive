@@ -1,178 +1,1403 @@
 {
-  "2023-07-10": 498061,
-  "2023-07-11": 498344,
-  "2023-07-12": 498630,
-  "2023-07-13": 498919,
-  "2023-07-14": 499269,
-  "2023-07-15": 499505,
-  "2023-07-16": 499801,
-  "2023-07-17": 500058,
-  "2023-07-18": 500389,
-  "2023-07-19": 500763,
-  "2023-07-20": 501079,
-  "2023-07-21": 501363,
-  "2023-07-22": 501642,
-  "2023-07-23": 501903,
-  "2023-07-24": 502167,
-  "2023-07-25": 502447,
-  "2023-07-26": 502730,
-  "2023-07-27": 503014,
-  "2023-07-28": 503307,
-  "2023-07-29": 503604,
-  "2023-07-30": 503840,
-  "2023-07-31": 504117,
-  "2023-08-01": 504458,
-  "2023-08-02": 504789,
-  "2023-08-03": 505087,
-  "2023-08-04": 505339,
-  "2023-08-05": 505575,
-  "2023-08-06": 506107,
-  "2023-08-07": 506107,
-  "2023-08-08": 506341,
-  "2023-08-09": 506606,
-  "2023-08-10": 506873,
-  "2023-08-11": 507194,
-  "2023-08-12": 507414,
-  "2023-08-13": 507642,
-  "2023-08-14": 507898,
-  "2023-08-15": 508445,
-  "2023-08-16": 508445,
-  "2023-08-17": 508689,
-  "2023-08-18": 508970,
-  "2023-08-19": 509265,
-  "2023-08-20": 509572,
-  "2023-08-21": 509890,
-  "2023-08-22": 510199,
-  "2023-08-23": 510552,
-  "2023-08-24": 510902,
-  "2023-08-25": 511253,
-  "2023-08-26": 511563,
-  "2023-08-27": 511830,
-  "2023-08-28": 512114,
-  "2023-08-29": 512420,
-  "2023-08-30": 512730,
-  "2023-08-31": 513054,
-  "2023-09-01": 513664,
-  "2023-09-02": 513664,
-  "2023-09-03": 513902,
-  "2023-09-04": 514227,
-  "2023-09-05": 514539,
-  "2023-09-06": 514820,
-  "2023-09-07": 515138,
-  "2023-09-08": 515422,
-  "2023-09-09": 515675,
-  "2023-09-10": 515963,
-  "2023-09-11": 516292,
-  "2023-09-12": 516598,
-  "2023-09-13": 516909,
-  "2023-09-14": 517158,
-  "2023-09-15": 517496,
-  "2023-09-16": 517785,
-  "2023-09-17": 518067,
-  "2023-09-18": 518306,
-  "2023-09-19": 518622,
-  "2023-09-20": 518855,
-  "2023-09-21": 519150,
-  "2023-09-22": 519441,
-  "2023-09-23": 519735,
-  "2023-09-24": 520016,
-  "2023-09-25": 520266,
-  "2023-09-26": 520540,
-  "2023-09-27": 520798,
-  "2023-09-28": 521062,
-  "2023-09-29": 521359,
-  "2023-09-30": 521640,
-  "2023-10-01": 521908,
-  "2023-10-02": 522186,
-  "2023-10-03": 522438,
-  "2023-10-04": 522772,
-  "2023-10-05": 523046,
-  "2023-10-06": 523333,
-  "2023-10-07": 523569,
-  "2023-10-08": 523772,
-  "2023-10-09": 523937,
-  "2023-10-10": 523621,
-  "2023-10-11": 523619,
-  "2023-10-12": 523619,
-  "2023-10-13": 523427,
-  "2023-10-14": 523330,
-  "2023-10-15": 523384,
-  "2023-10-16": 523645,
-  "2023-10-17": 523920,
-  "2023-10-18": 524188,
-  "2023-10-19": 524521,
-  "2023-10-20": 524850,
-  "2023-10-21": 525160,
-  "2023-10-22": 525387,
-  "2023-10-23": 525616,
-  "2023-10-24": 525867,
-  "2023-10-25": 526170,
-  "2023-10-26": 526427,
-  "2023-10-27": 526711,
-  "2023-10-28": 526711,
-  "2023-10-29": 526711,
-  "2023-10-30": 527489,
-  "2023-10-31": 527489,
-  "2023-11-01": 528089,
-  "2023-11-02": 528379,
-  "2023-11-03": 528645,
-  "2023-11-04": 528645,
-  "2023-11-05": 528645,
-  "2023-11-06": 529325,
-  "2023-11-07": 529601,
-  "2023-11-08": 529872,
-  "2023-11-09": 529872,
-  "2023-11-10": 530394,
-  "2023-11-11": 530656,
-  "2023-11-12": 530834,
-  "2023-11-13": 531047,
-  "2023-11-14": 531246,
-  "2023-11-15": 531246,
-  "2023-11-16": 531683,
-  "2023-11-17": 532094,
-  "2023-11-18": 532094,
-  "2023-11-19": 532296,
-  "2023-11-20": 532513,
-  "2023-11-21": 532754,
-  "2023-11-22": 533017,
-  "2023-11-23": 533257,
-  "2023-11-24": 533257,
-  "2023-11-25": 533699,
-  "2023-11-26": 533699,
-  "2023-11-27": 534182,
-  "2023-11-28": 534452,
-  "2023-11-29": 534975,
-  "2023-11-30": 534975,
-  "2023-12-01": 534975,
-  "2023-12-02": 535376,
-  "2023-12-03": 535579,
-  "2023-12-04": 535579,
-  "2023-12-05": 535968,
-  "2023-12-06": 536171,
-  "2023-12-07": 536371,
-  "2023-12-08": 536371,
-  "2023-12-09": 536767,
-  "2023-12-10": 536767,
-  "2023-12-11": 537153,
-  "2023-12-12": 537153,
-  "2023-12-13": 537511,
-  "2023-12-14": 537746,
-  "2023-12-15": 537946,
-  "2023-12-16": 538157,
-  "2023-12-17": 538384,
-  "2023-12-18": 538586,
-  "2023-12-19": 538752,
-  "2023-12-20": 538960,
-  "2023-12-21": 539152,
-  "2023-12-22": 539336,
-  "2023-12-23": 539517,
-  "2023-12-24": 539723,
-  "2023-12-25": 539869,
-  "2023-12-26": 540021,
-  "2023-12-27": 540176,
-  "2023-12-30": 540751,
-  "2023-12-31": 540965,
-  "2024-01-01": 541132,
-  "2024-01-02": 541288,
-  "2024-01-03": 541493
+  "2024-01-17": 541355,
+  "date_first_scraped": "2023-07-10",
+  "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
+  "name": "Gospel Cl\u00e1ssicos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
+    },
+    {
+      "album": {
+        "name": "Eu Tenho a Promessa",
+        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336271,
+      "name": "Abra os Meus Olhos",
+      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
+    },
+    {
+      "album": {
+        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
+        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511226,
+      "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
+      "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289726,
+      "name": "Abra\u00e7a-Me",
+      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
+    },
+    {
+      "album": {
+        "name": "Abra\u00e7a-Me (Paix\u00e3o Fogo e Gl\u00f3ria) [Ao Vivo em BH]",
+        "url": "https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 847493,
+      "name": "Abra\u00e7a-Me - Ao Vivo em BH",
+      "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
+    },
+    {
+      "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455106,
+      "name": "Aclame ao Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "album": {
+        "name": "Excel\u00eancia",
+        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333546,
+      "name": "Adorador por Excel\u00eancia",
+      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
+    },
+    {
+      "album": {
+        "name": "No Infinito Deste Amor",
+        "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580946,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
+    },
+    {
+      "album": {
+        "name": "Flashback F\u00e9 (Live)",
+        "url": "https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450857,
+      "name": "Amigo Fiel - Live",
+      "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
+    },
+    {
+      "album": {
+        "name": "Hist\u00f3rias e Bicicletas",
+        "url": "https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339011,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt"
+    },
+    {
+      "album": {
+        "name": "Na Sala do Pai",
+        "url": "https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430440,
+      "name": "Arde Outra Vez",
+      "url": "https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g"
+    },
+    {
+      "album": {
+        "name": "Autor da Minha F\u00e9",
+        "url": "https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Logos",
+          "url": "https://open.spotify.com/artist/41XTLrYfIdtr8frsp8Em5C"
+        },
+        {
+          "name": "Paulo C\u00e9zar",
+          "url": "https://open.spotify.com/artist/59tkQh4975FMO2hfRLVfc7"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290143,
+      "name": "Autor da Minha F\u00e9 (feat. Paulo C\u00e9zar)",
+      "url": "https://open.spotify.com/track/3Nf2lSDsZY6YHctnDVX7rc"
+    },
+    {
+      "album": {
+        "name": "Cassiane - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382014,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
+    },
+    {
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "album": {
+        "name": "Te Quero Mais Que Tudo",
+        "url": "https://open.spotify.com/album/2zb82e3kM0sVzngRAac0cH"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
+          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 386773,
+      "name": "Descansarei",
+      "url": "https://open.spotify.com/track/5yNfMRJ8byUpEscMcy1ZXb"
+    },
+    {
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2"
+      },
+      "artists": [
+        {
+          "name": "Ronaldo Medeiros",
+          "url": "https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387613,
+      "name": "Descansarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6"
+    },
+    {
+      "album": {
+        "name": "Deserto",
+        "url": "https://open.spotify.com/album/3qh3aGtTcTBnLe6oxQ20RK"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/0Nby9xQzcKdepn9xH0Glnn"
+    },
+    {
+      "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245063,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
+    },
+    {
+      "album": {
+        "name": "Deus de Promessas",
+        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339033,
+      "name": "Deus de Promessas",
+      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "album": {
+        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
+      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+    },
+    {
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369331,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge"
+    },
+    {
+      "album": {
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
+    },
+    {
+      "album": {
+        "name": "Momentos de Louvor, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Vmp2BRhyXdhjSbtMFxzIl"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210651,
+      "name": "Ele \u00c9 Exaltado - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MVjVxZHphWNA5uAx2kwjY"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
+      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
+    },
+    {
+      "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/7IS8jD2ml760J58TRu2M9w"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324013,
+      "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442015,
+      "name": "Fiel a Mim",
+      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
+    },
+    {
+      "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+    },
+    {
+      "album": {
+        "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5OtHY60wun8AJWeiXRVLVN"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453106,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6GeGXOPJFa3pRwrWAnrV7j"
+    },
+    {
+      "album": {
+        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
+        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297680,
+      "name": "Grandes Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+    },
+    {
+      "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275853,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
+    },
+    {
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "Mais Alto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6qQBEy6IctIb8cm3Q4SG9E"
+    },
+    {
+      "album": {
+        "name": "Ao vivo Maracan\u00e3zinho, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2iTh7vLrv3NM0F4HDaSkLA"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487160,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PpOOzUCXzf5tanLKIjokX"
+    },
+    {
+      "album": {
+        "name": "Global Project Portugu\u00eas",
+        "url": "https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Global Project",
+          "url": "https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi"
+        },
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370146,
+      "name": "Me Rendo",
+      "url": "https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY"
+    },
+    {
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
+      },
+      "artists": [
+        {
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287826,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
+    },
+    {
+      "album": {
+        "name": "Preto no Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390386,
+      "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
+      "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
+    },
+    {
+      "album": {
+        "name": "Primeiro Passo",
+        "url": "https://open.spotify.com/album/3lJ1BI6U6HNDjeG57HIPau"
+      },
+      "artists": [
+        {
+          "name": "Rose Nascimento",
+          "url": "https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287506,
+      "name": "No Sil\u00eancio",
+      "url": "https://open.spotify.com/track/3BolY0shO32lLUW1qX8oPO"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264164,
+      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Me Esqueci de Ti",
+        "url": "https://open.spotify.com/album/6YSKpIf9u8uXp8apKMJkiV"
+      },
+      "artists": [
+        {
+          "name": "Arautos Do Rei",
+          "url": "https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 204893,
+      "name": "N\u00e3o Me Esqueci de Ti",
+      "url": "https://open.spotify.com/track/2YguP2fSOUBDCqFu11SScg"
+    },
+    {
+      "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
+    },
+    {
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311280,
+      "name": "O Maior Trof\u00e9u",
+      "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
+    },
+    {
+      "album": {
+        "name": "O Nome de Jesus",
+        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus",
+      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+    },
+    {
+      "album": {
+        "name": "Ana N\u00f3brega (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342353,
+      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439266,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "album": {
+        "name": "Eterno Dependente",
+        "url": "https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330804,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+    },
+    {
+      "album": {
+        "name": "Para Sempre, Vol. 1",
+        "url": "https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj"
+      },
+      "artists": [
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294586,
+      "name": "Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J"
+    },
+    {
+      "album": {
+        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 919733,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
+    },
+    {
+      "album": {
+        "name": "Diante do Trono 10 Anos - Tempo de Festa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2EWR5135TNFC58nhMIalIG"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668986,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/5JfiqvXnyiGfATt2c5sqJQ"
+    },
+    {
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
+    },
+    {
+      "album": {
+        "name": "Que Se Abram Os C\u00e9us",
+        "url": "https://open.spotify.com/album/3ev4KNHiwlz1s9afOb6mne"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307944,
+      "name": "Que Se Abram Os C\u00e9us",
+      "url": "https://open.spotify.com/track/2uUeFEF4hmM0rjFfvA4nxF"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH"
+      },
+      "artists": [
+        {
+          "name": "Mattos Nascimento",
+          "url": "https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278746,
+      "name": "Quer Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs"
+    },
+    {
+      "album": {
+        "name": "Sinais de Deus",
+        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288960,
+      "name": "Quero Descer",
+      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
+    },
+    {
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
+    },
+    {
+      "album": {
+        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Toque no Altar",
+          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448026,
+      "name": "Restitui - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk"
+    },
+    {
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322160,
+      "name": "Sabor de Mel",
+      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
+    },
+    {
+      "album": {
+        "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513960,
+      "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
+    },
+    {
+      "album": {
+        "name": "O Encontro",
+        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552564,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
+    },
+    {
+      "album": {
+        "name": "20 Anos de Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
+        {
+          "name": "Toque no Altar",
+          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348433,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "album": {
+        "name": "Aline Barros - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239815,
+      "name": "Sonda-me, Usa-me",
+      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
+    },
+    {
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "sublime - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm"
+    },
+    {
+      "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304973,
+      "name": "Te Agrade\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
+    },
+    {
+      "album": {
+        "name": "Sele\u00e7\u00e3o De Ouro",
+        "url": "https://open.spotify.com/album/3RKYWZSPtLvwFzYb35dqaZ"
+      },
+      "artists": [
+        {
+          "name": "Jamily",
+          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240373,
+      "name": "Tempo de Vencer",
+      "url": "https://open.spotify.com/track/4JJOLKyNrVeJhyDZt0MOSj"
+    },
+    {
+      "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
+    },
+    {
+      "album": {
+        "name": "Tua Gra\u00e7a (feat. Priscilla Alcantara)",
+        "url": "https://open.spotify.com/album/0G6oHBDRbkuSr6JQNRkonP"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/63W02eshTwySpJjkeiMDEA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299844,
+      "name": "Tua Gra\u00e7a (feat. Priscilla Alcantara)",
+      "url": "https://open.spotify.com/track/5SoyAxzmqc7yc1PdngMewL"
+    },
+    {
+      "album": {
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
+          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483485,
+      "name": "Tua Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
+    },
+    {
+      "album": {
+        "name": "Mais um Dia (ao Vivo)",
+        "url": "https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297365,
+      "name": "Vai Valer a Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaLcyqp5JErz"
 }

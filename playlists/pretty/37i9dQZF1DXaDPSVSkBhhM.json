@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66585,
+  "num_followers": 66739,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Himno (para los que est\u00e1n jodidos)",
-        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 185790,
-      "name": "Himno (para los que est\u00e1n jodidos)",
-      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Historias De La Calle",
         "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
@@ -147,6 +127,22 @@
       "duration_ms": 210337,
       "name": "Eso Es Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -171,18 +167,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+        "name": "Himno (para los que est\u00e1n jodidos)",
+        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+      "duration_ms": 185790,
+      "name": "Himno (para los que est\u00e1n jodidos)",
+      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
+        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "3 de Noviembre (No Me Ag\u00fcito)",
+      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
-        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
-      },
-      "artists": [
-        {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
-        }
-      ],
-      "duration_ms": 183209,
-      "name": "3 de Noviembre (No Me Ag\u00fcito)",
-      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -315,22 +315,6 @@
       "duration_ms": 217920,
       "name": "Apariencia",
       "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -371,6 +355,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Masappan",
         "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 164933,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
-      },
-      "artists": [
-        {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
-        },
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
-      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -439,34 +419,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Solo Dios lo Sabe",
-        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
+        "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+        "url": "https://open.spotify.com/album/09sex9lgVpZBDbkaQCp2ot"
       },
       "artists": [
         {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "Solo Dios lo Sabe",
-      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
         {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+          "name": "Barney Gombo",
+          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+      "duration_ms": 213306,
+      "name": "Ay Equis, Nada Que Ver... (Pinche Raza Igualada)",
+      "url": "https://open.spotify.com/track/4gXv8ukCY5oIpzVMMfSFAi"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -487,18 +455,34 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F"
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
       "artists": [
         {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 156703,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Solo Dios lo Sabe",
+        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
+      },
+      "artists": [
+        {
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "Solo Dios lo Sabe",
+      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -535,22 +519,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Volver a Empezar",
-        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Ll\u00e9vate Todo",
-      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
@@ -567,18 +535,34 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
       },
       "artists": [
         {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
         }
       ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+      "duration_ms": 209306,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 156703,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Disparos",
         "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 229500,
       "name": "Disparos",
       "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -687,18 +671,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
       "artists": [
         {
-          "name": "Abril 88",
-          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 166540,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -719,6 +703,22 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+        "name": "No Digas Lo Siento",
+        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
       },
       "artists": [
         {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
         }
       ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+      "duration_ms": 171821,
+      "name": "No Digas Lo Siento",
+      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "No Digas Lo Siento",
-        "url": "https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 171821,
-      "name": "No Digas Lo Siento",
-      "url": "https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Rompe Mi Mente",
         "url": "https://open.spotify.com/album/1PFTujkH7IQLyGtX9ZeFii"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     }
   ],
   "unique_name": "Escena Pop Punk",

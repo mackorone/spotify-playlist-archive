@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: Drew Holcomb & The Neighbors
 
-525 songs - 1 day 8 hr 22 min
+526 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Demons](https://open.spotify.com/track/42qQfL7lQefUOXvqtSyrWM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ben Haggard](https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 3:24 | 2022-03-04 | 2022-04-09 |
 | [Denim & Diamonds](https://open.spotify.com/track/7jAw05wdvqQhKDtKnFOH93) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:12 | 2022-09-23 |  |
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-18 | 2022-07-16 |
-| [Devil's in NOLA](https://open.spotify.com/track/1XlhGqnFYZtrFI2bMcn6Og) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Twenty on High](https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo) | 3:48 | 2023-03-03 |  |
+| [Devil's in NOLA](https://open.spotify.com/track/1XlhGqnFYZtrFI2bMcn6Og) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Twenty on High](https://open.spotify.com/album/7qAjWqcitYncXKTZzOAFQo) | 3:48 | 2023-03-03 | 2024-01-13 |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2021-12-17 | 2022-05-14 |
 | [Dig A Little Deeper \(In The Well\)](https://open.spotify.com/track/2LVc94jQD0PMgUcmcV2CkH) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Me / And / Dad](https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1) | 3:13 | 2022-11-18 | 2023-04-15 |
 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-02 | 2023-07-08 |
@@ -373,6 +373,7 @@
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-02-04 | 2022-04-09 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-06-10 |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-25 |  |
+| [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 | 2024-01-12 |  |
 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 | 2022-11-25 | 2023-04-15 |
 | [Roll](https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 3:12 | 2022-02-25 | 2022-10-01 |
 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-21 | 2023-12-16 |

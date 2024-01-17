@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 176594,
       "name": "Bad Spot",
       "url": "https://open.spotify.com/track/18l7PDQQ9gG5id24OeOMqD"
@@ -2540,6 +2540,24 @@
       "duration_ms": 205631,
       "name": "Juniper Leaves",
       "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
+    },
+    {
+      "album": {
+        "name": "Just Like Talking",
+        "url": "https://open.spotify.com/album/10pU0nothMHxWm1Jz7jDqJ"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212566,
+      "name": "Just Like Talking",
+      "url": "https://open.spotify.com/track/04o0imSbqJGkbXKPuvCgWv"
     },
     {
       "album": {
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 259893,
       "name": "The Clearing",
       "url": "https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp"
@@ -5498,7 +5516,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 301750,
       "name": "Things Unsaid",
       "url": "https://open.spotify.com/track/423sD6XxA3BexrKQ1j19Ba"
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 211000,
       "name": "VIII. yearning",
       "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 254931,
       "name": "When Stars Were Blue",
       "url": "https://open.spotify.com/track/756VaNUzSZUYUkgR0zpQ45"

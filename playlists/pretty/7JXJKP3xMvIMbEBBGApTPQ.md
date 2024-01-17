@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain](/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7JXJKP3xMvIMbEBBGApTPQ)
 
-### [K\-Pop Hits 2023](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
+### [K\-Pop Hits 2024](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
 
 > Tune in for the years hottest Kpop tracks\. <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> K\-Pop Tunes \| Kpop Mix \| Kpop Boyband \| Kpop Girl Groups \| Cover: NewJeans
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 343,308 likes - 60 songs - 3 hr 3 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 339,872 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 | 59 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 |
 | 60 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 |
 
-Snapshot ID: `NTg1MSw5MWMzMDQ1MjE3ZjlmZjFmNjA2OTNlYzk5ZjU1ZjRmYmNiNDZlNWRi`
+Snapshot ID: `NTg1OCw2ZjI2NzJhMjkzZmZjOGUzNGI4NjY4ZDc3MDhjNmZkMDAwZDdmYWJh`

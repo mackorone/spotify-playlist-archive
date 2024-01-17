@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,819 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,236 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

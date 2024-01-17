@@ -243,6 +243,32 @@
     },
     {
       "album": {
+        "name": "Around The Galaxy",
+        "url": "https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8"
+      },
+      "artists": [
+        {
+          "name": "AF\u00d8NK",
+          "url": "https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE"
+        },
+        {
+          "name": "Varra",
+          "url": "https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R"
+        },
+        {
+          "name": "Lorenzo Ceci",
+          "url": "https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Around The Galaxy",
+      "url": "https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq"
+    },
+    {
+      "album": {
         "name": "The Aristocrats",
         "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
       },
@@ -394,7 +420,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 269133,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/05RLMlOEa3HZn574VsLWxf"
@@ -2224,7 +2250,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 446927,
       "name": "Theme from a Perfect World",
       "url": "https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5"

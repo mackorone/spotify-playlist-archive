@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC?si=UoGh5yS4SryIbJNb32jmhA">Mahalia Buchanan</a>
 
-186 songs - 18 hr 49 min
+188 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne) | [Symphonic Music](https://open.spotify.com/artist/1RUlJvmnDSIJLQDOKyzm0y), [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/album/67FBxB1VchICOf1vU63kql) | 4:48 | 2023-06-16 | 2023-07-07 |
 | [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/track/1mSNKKV9AnVTrLotvDQWu6) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/album/3dDxgxhQ3DBSvn9T4DXpOZ) | 8:42 | 2023-09-08 |  |
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 |  |
+| [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 |  |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 |  |
 | [Imisebenzi Yakho](https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship](https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz) | 5:07 | 2023-04-11 | 2023-06-09 |
@@ -124,6 +125,7 @@
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2018-09-24 |  |
 | [Sibabaza Wena \- Live](https://open.spotify.com/track/1gDzT790azKHH5wkHCYOaW) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/3MwJ24l4rzuioInlgNwgf2) | 5:40 | 2020-03-13 | 2023-05-06 |
 | [Silapha](https://open.spotify.com/track/2wJUqVEPkLXTVw261oQE8c) | [Zodwa Twecu](https://open.spotify.com/artist/1iFGoRhMvpam8PfZ00epet) | [Andijiki](https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF) | 5:49 | 2023-05-05 | 2023-06-09 |
+| [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 | 2024-01-05 |  |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 |  |
 | [Sixolele](https://open.spotify.com/track/77DtZoPVPzsetJnfN7Gzn6) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo](https://open.spotify.com/album/6thyPQyQMTgLI3TzkRh4GP) | 5:00 | 2023-06-16 | 2023-07-07 |
 | [Surely Goodness](https://open.spotify.com/track/6EuTx7OqOebUZcEGZfE1d7) | [Sbu Noah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Surely Goodness](https://open.spotify.com/album/2YThyI33V5DNVVYLOSQQqA) | 7:28 | 2022-04-14 | 2023-06-16 |

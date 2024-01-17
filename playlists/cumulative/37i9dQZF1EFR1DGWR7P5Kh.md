@@ -4,12 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 2 hr 10 min
+42 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2021-12-27 |  |
-| [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 | 2023-12-14 | 2024-01-01 |
+| [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 | 2023-12-14 |  |
 | [All My Life \- Pt\. 1](https://open.spotify.com/track/1qXu9T7d1EJ23tqc4cLKcu) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 | 2021-12-27 |  |
 | [All My Life \- Pt\. 2](https://open.spotify.com/track/0SEwGE9vNsQsoyO6CxBjMA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:40 | 2021-12-27 |  |
 | [All My Life \- Pt\. 3](https://open.spotify.com/track/2JZRFfvZd8PmZftsGRwb1I) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 0:39 | 2021-12-27 |  |
@@ -40,12 +40,14 @@
 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 | 2023-03-26 |  |
 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 | 2021-12-27 |  |
 | [Something Keeps Pulling Me Back](https://open.spotify.com/track/6WC5YDTKztcTU3tWux0Jk1) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:04 | 2021-12-27 |  |
-| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-12-27 | 2024-01-02 |
-| [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 | 2023-12-14 |  |
+| [Spirited Away](https://open.spotify.com/track/13cpmGta0jcpakph0NoGZc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:08 | 2024-01-14 |  |
+| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-12-27 |  |
+| [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 | 2023-12-14 | 2024-01-17 |
 | [To The People I Hurt](https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Midwest Kids Can Make It Big](https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X) | 3:23 | 2021-12-27 |  |
 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 | 2021-12-27 | 2022-10-24 |
 | [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:44 | 2021-12-27 |  |
-| [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-12-27 |  |
+| [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-12-27 | 2024-01-15 |
+| [Why Don't You Touch Me](https://open.spotify.com/track/7IIzlXlQ5zqMzVTcG5svrN) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me \(Part 1 \- Official Video\)](https://open.spotify.com/album/2Tv4to9QNN00K3RAZH9PNG) | 4:15 | 2024-01-14 |  |
 | [Young And Free](https://open.spotify.com/track/4o7jNKOHdwtgdZAGby2TV2) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Young And Free](https://open.spotify.com/album/2sIJD8kpK3RhvBKkMQLfKm) | 2:46 | 2021-12-27 |  |
 | [強迫症](https://open.spotify.com/track/5KQFnunZEKYmzBiHH7OZG6) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [Not Typical](https://open.spotify.com/album/7HjJPtOBqOYWWaQTb9D37x) | 3:14 | 2021-12-27 | 2023-12-14 |
 

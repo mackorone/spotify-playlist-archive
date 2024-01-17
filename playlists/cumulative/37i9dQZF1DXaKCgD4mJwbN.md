@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKCgD4mJwbN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKCgD4mJwbN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKCgD4mJwbN)
 
-### [Pistiembre](https://open.spotify.com/playlist/37i9dQZF1DXaKCgD4mJwbN)
+### [Pa' Pistear](https://open.spotify.com/playlist/37i9dQZF1DXaKCgD4mJwbN)
 
-> beben y beben y vuelven a beber..\. salucita de la buena!
+> Puras rolitas pa' destapar un bote y empinar el codo.
 
 378 songs - 20 hr 12 min
 

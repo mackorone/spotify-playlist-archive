@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-276 songs - 15 hr 42 min
+278 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2021-07-16 |  |
 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-07-16 | 2023-05-17 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-07-16 |  |
+| [better on my own \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [better on my own \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i) | 3:48 | 2024-01-05 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-07-16 |  |
 | [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 | 2023-05-24 |
 | [Blinding Lights](https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:14 | 2021-07-16 | 2022-11-13 |
@@ -42,7 +43,7 @@
 | [Clap For Them](https://open.spotify.com/track/4vJRj3g7OyxytClCk0FzAb) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [Clap For Them](https://open.spotify.com/album/7BZaLbZxBSCdZM80GSGvgl) | 3:21 | 2021-07-16 | 2022-07-29 |
 | [Clocks](https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT) | [Praia Grande](https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v) | [Covers](https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E) | 3:45 | 2021-07-16 |  |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2021-07-16 | 2022-07-27 |
-| [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 | 2023-04-25 |
+| [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 | 2024-01-12 |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
 | [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2022-07-29 |
@@ -120,12 +121,13 @@
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2021-07-16 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-07-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-07-16 | 2023-01-03 |
-| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 |  |
+| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 | 2024-01-04 |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1NPW2NXMFicYNlIEoQRrht) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:40 | 2021-07-16 |  |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1siqwUNydX8aQjUIVvJ6Pz) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:40 | 2021-07-16 | 2022-10-14 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-07-16 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 | 2021-07-16 |  |
-| [If It Goes](https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c) | 3:44 | 2021-07-16 |  |
+| [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 | 2023-06-09 |  |
+| [If It Goes](https://open.spotify.com/track/1u0qpHAwzNshb1XU2EUclz) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/2uwvIfaBxfFyyk8RvKQj4c) | 3:44 | 2021-07-16 | 2024-01-06 |
 | [In the Air Tonight](https://open.spotify.com/track/4nixlf5mp4AuWZ5yDOHAsY) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [In the Air Tonight](https://open.spotify.com/album/0wTG8yKMH91knOCvxfCRrl) | 4:20 | 2021-07-16 | 2022-07-29 |
 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 | 2021-07-16 |  |
 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 | 2021-07-16 | 2023-07-12 |

@@ -1,735 +1,4037 @@
 {
-  "2021-12-25": 125015,
-  "2021-12-26": 125157,
-  "2021-12-27": 125362,
-  "2021-12-28": 125362,
-  "2021-12-29": 125432,
-  "2021-12-30": 125505,
-  "2021-12-31": 125598,
-  "2022-01-01": 125746,
-  "2022-01-02": 125781,
-  "2022-01-03": 125871,
-  "2022-01-04": 125939,
-  "2022-01-05": 125994,
-  "2022-01-06": 126043,
-  "2022-01-07": 126111,
-  "2022-01-08": 126235,
-  "2022-01-09": 126232,
-  "2022-01-10": 126351,
-  "2022-01-11": 126416,
-  "2022-01-12": 126476,
-  "2022-01-13": 126563,
-  "2022-01-14": 126649,
-  "2022-01-15": 126810,
-  "2022-01-16": 126816,
-  "2022-01-17": 126990,
-  "2022-01-18": 126993,
-  "2022-01-19": 127061,
-  "2022-01-20": 127124,
-  "2022-01-21": 127187,
-  "2022-01-22": 127258,
-  "2022-01-23": 127347,
-  "2022-01-24": 127442,
-  "2022-01-25": 127502,
-  "2022-01-26": 127576,
-  "2022-01-27": 127653,
-  "2022-01-28": 127718,
-  "2022-01-29": 127788,
-  "2022-01-30": 127899,
-  "2022-01-31": 127994,
-  "2022-02-01": 128073,
-  "2022-02-02": 128145,
-  "2022-02-03": 128195,
-  "2022-02-04": 128279,
-  "2022-02-05": 128369,
-  "2022-02-06": 128431,
-  "2022-02-07": 128532,
-  "2022-02-08": 128601,
-  "2022-02-09": 128667,
-  "2022-02-10": 128734,
-  "2022-02-11": 128816,
-  "2022-02-12": 128880,
-  "2022-02-13": 128982,
-  "2022-02-14": 129072,
-  "2022-02-15": 129157,
-  "2022-02-16": 129226,
-  "2022-02-17": 129293,
-  "2022-02-18": 129356,
-  "2022-02-19": 129435,
-  "2022-02-20": 129557,
-  "2022-02-21": 129649,
-  "2022-02-22": 129711,
-  "2022-02-23": 129758,
-  "2022-02-24": 129851,
-  "2022-02-25": 129900,
-  "2022-02-26": 129941,
-  "2022-02-27": 130095,
-  "2022-02-28": 130095,
-  "2022-03-01": 130146,
-  "2022-03-02": 130202,
-  "2022-03-03": 130256,
-  "2022-03-04": 130319,
-  "2022-03-05": 130378,
-  "2022-03-06": 130443,
-  "2022-03-07": 130518,
-  "2022-03-08": 130571,
-  "2022-03-09": 130615,
-  "2022-03-10": 130679,
-  "2022-03-11": 130738,
-  "2022-03-12": 130809,
-  "2022-03-13": 130898,
-  "2022-03-14": 130971,
-  "2022-03-15": 131019,
-  "2022-03-16": 131088,
-  "2022-03-17": 131143,
-  "2022-03-18": 131221,
-  "2022-03-19": 131257,
-  "2022-03-20": 131257,
-  "2022-03-21": 131426,
-  "2022-03-22": 131477,
-  "2022-03-23": 131549,
-  "2022-03-24": 131622,
-  "2022-03-25": 131684,
-  "2022-03-26": 131739,
-  "2022-03-27": 131825,
-  "2022-03-28": 131881,
-  "2022-03-30": 132009,
-  "2022-03-31": 132085,
-  "2022-04-01": 132152,
-  "2022-04-02": 132230,
-  "2022-04-03": 132339,
-  "2022-04-04": 132415,
-  "2022-04-05": 132466,
-  "2022-04-06": 132529,
-  "2022-04-07": 132590,
-  "2022-04-08": 132654,
-  "2022-04-09": 132727,
-  "2022-04-10": 132895,
-  "2022-04-11": 132952,
-  "2022-04-12": 132957,
-  "2022-04-13": 133022,
-  "2022-04-14": 133106,
-  "2022-04-15": 133168,
-  "2022-04-16": 133260,
-  "2022-04-17": 133340,
-  "2022-04-18": 133447,
-  "2022-04-19": 133511,
-  "2022-04-20": 133595,
-  "2022-04-21": 133668,
-  "2022-04-22": 133722,
-  "2022-04-23": 133790,
-  "2022-04-24": 133878,
-  "2022-04-25": 133950,
-  "2022-04-26": 134020,
-  "2022-04-27": 134103,
-  "2022-04-28": 134158,
-  "2022-04-29": 134255,
-  "2022-04-30": 134348,
-  "2022-05-01": 134474,
-  "2022-05-02": 134474,
-  "2022-05-03": 134557,
-  "2022-05-04": 134614,
-  "2022-05-05": 134693,
-  "2022-05-06": 134757,
-  "2022-05-07": 134876,
-  "2022-05-08": 135043,
-  "2022-05-09": 135056,
-  "2022-05-10": 135109,
-  "2022-05-11": 135182,
-  "2022-05-12": 135240,
-  "2022-05-13": 135305,
-  "2022-05-14": 135372,
-  "2022-05-15": 135463,
-  "2022-05-16": 135547,
-  "2022-05-17": 135611,
-  "2022-05-18": 135683,
-  "2022-05-19": 135763,
-  "2022-05-20": 135832,
-  "2022-05-21": 135982,
-  "2022-05-22": 135982,
-  "2022-05-23": 136052,
-  "2022-05-24": 136123,
-  "2022-05-25": 136195,
-  "2022-05-26": 136275,
-  "2022-05-27": 136335,
-  "2022-05-28": 136407,
-  "2022-05-29": 136484,
-  "2022-05-30": 136571,
-  "2022-05-31": 136627,
-  "2022-06-01": 136729,
-  "2022-06-02": 136738,
-  "2022-06-03": 136805,
-  "2022-06-04": 136874,
-  "2022-06-05": 136951,
-  "2022-06-06": 137033,
-  "2022-06-07": 137110,
-  "2022-06-08": 137185,
-  "2022-06-09": 137223,
-  "2022-06-10": 137273,
-  "2022-06-11": 137343,
-  "2022-06-12": 137427,
-  "2022-06-13": 137503,
-  "2022-06-14": 137577,
-  "2022-06-15": 137659,
-  "2022-06-16": 137755,
-  "2022-06-17": 137830,
-  "2022-06-18": 137895,
-  "2022-06-19": 138037,
-  "2022-06-20": 138037,
-  "2022-06-21": 138108,
-  "2022-06-22": 138230,
-  "2022-06-23": 138230,
-  "2022-06-24": 138299,
-  "2022-06-25": 138379,
-  "2022-06-26": 138438,
-  "2022-06-27": 138523,
-  "2022-06-28": 138580,
-  "2022-06-29": 138633,
-  "2022-06-30": 138686,
-  "2022-07-01": 138765,
-  "2022-07-02": 138837,
-  "2022-07-03": 138906,
-  "2022-07-04": 138991,
-  "2022-07-05": 139059,
-  "2022-07-06": 139139,
-  "2022-07-07": 139214,
-  "2022-07-08": 139285,
-  "2022-07-09": 139359,
-  "2022-07-10": 139448,
-  "2022-07-11": 139528,
-  "2022-07-12": 139607,
-  "2022-07-13": 139686,
-  "2022-07-14": 139744,
-  "2022-07-15": 139812,
-  "2022-07-16": 139883,
-  "2022-07-17": 139955,
-  "2022-07-18": 140050,
-  "2022-07-19": 140131,
-  "2022-07-20": 140201,
-  "2022-07-21": 140268,
-  "2022-07-22": 140335,
-  "2022-07-23": 140420,
-  "2022-07-24": 140501,
-  "2022-07-25": 140584,
-  "2022-07-26": 140686,
-  "2022-07-27": 140776,
-  "2022-07-28": 140835,
-  "2022-07-29": 140911,
-  "2022-07-30": 141055,
-  "2022-07-31": 141055,
-  "2022-08-01": 141172,
-  "2022-08-02": 141354,
-  "2022-08-03": 141354,
-  "2022-08-04": 141430,
-  "2022-08-05": 141505,
-  "2022-08-06": 141582,
-  "2022-08-07": 141669,
-  "2022-08-08": 141749,
-  "2022-08-09": 141811,
-  "2022-08-10": 141890,
-  "2022-08-11": 141951,
-  "2022-08-12": 142027,
-  "2022-08-13": 142095,
-  "2022-08-14": 142181,
-  "2022-08-15": 142281,
-  "2022-08-16": 142354,
-  "2022-08-17": 142418,
-  "2022-08-18": 142498,
-  "2022-08-19": 142590,
-  "2022-08-20": 142666,
-  "2022-08-21": 142760,
-  "2022-08-22": 142859,
-  "2022-08-23": 142924,
-  "2022-08-24": 142987,
-  "2022-08-25": 143061,
-  "2022-08-26": 143141,
-  "2022-08-27": 143218,
-  "2022-08-28": 143303,
-  "2022-08-29": 143368,
-  "2022-08-30": 143411,
-  "2022-08-31": 143421,
-  "2022-09-01": 143417,
-  "2022-09-02": 143427,
-  "2022-09-03": 143509,
-  "2022-09-04": 143380,
-  "2022-09-05": 143441,
-  "2022-09-06": 143518,
-  "2022-09-07": 143609,
-  "2022-09-09": 143731,
-  "2022-09-10": 143808,
-  "2022-09-11": 143884,
-  "2022-09-12": 143964,
-  "2022-09-13": 144021,
-  "2022-09-15": 144139,
-  "2022-09-16": 144216,
-  "2022-09-17": 144299,
-  "2022-09-18": 144379,
-  "2022-09-19": 144456,
-  "2022-09-20": 144514,
-  "2022-09-21": 144573,
-  "2022-09-22": 144648,
-  "2022-09-23": 144708,
-  "2022-09-24": 144774,
-  "2022-09-25": 144856,
-  "2022-09-26": 144954,
-  "2022-09-27": 145022,
-  "2022-09-28": 145095,
-  "2022-09-29": 145169,
-  "2022-09-30": 145238,
-  "2022-10-01": 145319,
-  "2022-10-02": 145401,
-  "2022-10-03": 145498,
-  "2022-10-04": 145566,
-  "2022-10-05": 145635,
-  "2022-10-06": 145708,
-  "2022-10-07": 145762,
-  "2022-10-08": 145845,
-  "2022-10-09": 146006,
-  "2022-10-10": 146025,
-  "2022-10-11": 146101,
-  "2022-10-12": 146176,
-  "2022-10-13": 146250,
-  "2022-10-14": 146334,
-  "2022-10-15": 146419,
-  "2022-10-16": 146515,
-  "2022-10-17": 146598,
-  "2022-10-18": 146670,
-  "2022-10-19": 146759,
-  "2022-10-20": 146831,
-  "2022-10-21": 146902,
-  "2022-10-22": 146989,
-  "2022-10-23": 147099,
-  "2022-10-24": 147201,
-  "2022-10-25": 147279,
-  "2022-10-26": 147374,
-  "2022-10-27": 147462,
-  "2022-10-28": 147548,
-  "2022-10-29": 147630,
-  "2022-10-30": 147711,
-  "2022-10-31": 147777,
-  "2022-11-01": 147856,
-  "2022-11-02": 147955,
-  "2022-11-03": 148051,
-  "2022-11-04": 148150,
-  "2022-11-05": 148236,
-  "2022-11-06": 148327,
-  "2022-11-07": 148403,
-  "2022-11-08": 148465,
-  "2022-11-09": 148554,
-  "2022-11-10": 148627,
-  "2022-11-11": 148720,
-  "2022-11-12": 148823,
-  "2022-11-13": 148905,
-  "2022-11-14": 149008,
-  "2022-11-15": 149087,
-  "2022-11-16": 149180,
-  "2022-11-17": 149260,
-  "2022-11-18": 149286,
-  "2022-11-19": 149266,
-  "2022-11-20": 149379,
-  "2022-11-21": 149348,
-  "2022-11-22": 149530,
-  "2022-11-23": 149512,
-  "2022-11-24": 149737,
-  "2022-11-25": 149844,
-  "2022-11-26": 149930,
-  "2022-11-27": 150037,
-  "2022-11-28": 150144,
-  "2022-11-29": 150231,
-  "2022-11-30": 150311,
-  "2022-12-01": 150404,
-  "2022-12-02": 150462,
-  "2022-12-03": 150578,
-  "2022-12-04": 150666,
-  "2022-12-05": 150789,
-  "2022-12-06": 150884,
-  "2022-12-07": 150973,
-  "2022-12-08": 151064,
-  "2022-12-09": 151146,
-  "2022-12-10": 151245,
-  "2022-12-11": 151341,
-  "2022-12-12": 151424,
-  "2022-12-13": 151534,
-  "2022-12-14": 151617,
-  "2022-12-15": 151695,
-  "2022-12-16": 151786,
-  "2022-12-17": 151878,
-  "2022-12-18": 151986,
-  "2022-12-19": 152088,
-  "2022-12-20": 152226,
-  "2022-12-21": 152226,
-  "2022-12-22": 152304,
-  "2022-12-24": 152441,
-  "2022-12-25": 152543,
-  "2022-12-26": 152637,
-  "2022-12-27": 152700,
-  "2022-12-28": 152777,
-  "2022-12-29": 152864,
-  "2022-12-30": 152952,
-  "2022-12-31": 153060,
-  "2023-01-01": 153154,
-  "2023-01-02": 153241,
-  "2023-01-03": 153322,
-  "2023-01-04": 153411,
-  "2023-01-05": 153486,
-  "2023-01-06": 153610,
-  "2023-01-07": 153764,
-  "2023-01-08": 153785,
-  "2023-01-09": 153894,
-  "2023-01-10": 153977,
-  "2023-01-11": 154057,
-  "2023-01-12": 154148,
-  "2023-01-13": 154253,
-  "2023-01-14": 154414,
-  "2023-01-15": 154449,
-  "2023-01-16": 154546,
-  "2023-01-17": 154580,
-  "2023-01-18": 154660,
-  "2023-01-19": 154727,
-  "2023-01-20": 154821,
-  "2023-01-21": 154897,
-  "2023-01-22": 154967,
-  "2023-01-23": 155084,
-  "2023-01-24": 155165,
-  "2023-01-25": 155242,
-  "2023-01-26": 155329,
-  "2023-01-27": 155430,
-  "2023-01-28": 155525,
-  "2023-01-29": 155607,
-  "2023-01-30": 155699,
-  "2023-01-31": 155699,
-  "2023-02-01": 155888,
-  "2023-02-02": 155967,
-  "2023-02-03": 156067,
-  "2023-02-04": 156167,
-  "2023-02-05": 156254,
-  "2023-02-06": 156373,
-  "2023-02-07": 156471,
-  "2023-02-08": 156622,
-  "2023-02-09": 156622,
-  "2023-02-10": 156700,
-  "2023-02-11": 156789,
-  "2023-02-12": 156950,
-  "2023-02-13": 157039,
-  "2023-02-14": 157039,
-  "2023-02-15": 157126,
-  "2023-02-16": 157218,
-  "2023-02-17": 157295,
-  "2023-02-18": 157485,
-  "2023-02-19": 157502,
-  "2023-02-20": 157591,
-  "2023-02-21": 157666,
-  "2023-02-22": 157757,
-  "2023-02-23": 157832,
-  "2023-02-24": 157916,
-  "2023-02-25": 158047,
-  "2023-02-26": 158121,
-  "2023-02-27": 158316,
-  "2023-02-28": 158316,
-  "2023-03-01": 158400,
-  "2023-03-02": 158478,
-  "2023-03-03": 158563,
-  "2023-03-04": 158641,
-  "2023-03-05": 158822,
-  "2023-03-06": 158822,
-  "2023-03-07": 158901,
-  "2023-03-08": 158970,
-  "2023-03-09": 159057,
-  "2023-03-10": 159153,
-  "2023-03-11": 159243,
-  "2023-03-12": 159316,
-  "2023-03-13": 159405,
-  "2023-03-14": 159469,
-  "2023-03-15": 159536,
-  "2023-03-16": 159613,
-  "2023-03-17": 159613,
-  "2023-03-18": 159738,
-  "2023-03-19": 159842,
-  "2023-03-20": 159937,
-  "2023-03-21": 160007,
-  "2023-03-22": 160064,
-  "2023-03-23": 160148,
-  "2023-03-24": 160148,
-  "2023-03-25": 160290,
-  "2023-03-26": 160389,
-  "2023-03-27": 160469,
-  "2023-03-28": 160543,
-  "2023-03-29": 160646,
-  "2023-03-30": 160767,
-  "2023-03-31": 160767,
-  "2023-04-01": 160821,
-  "2023-04-02": 160886,
-  "2023-04-03": 160975,
-  "2023-04-04": 161021,
-  "2023-04-05": 161092,
-  "2023-04-06": 161170,
-  "2023-04-07": 161246,
-  "2023-04-09": 161430,
-  "2023-04-10": 161532,
-  "2023-04-11": 161687,
-  "2023-04-12": 161687,
-  "2023-04-13": 161787,
-  "2023-04-14": 161863,
-  "2023-04-15": 161958,
-  "2023-04-16": 162054,
-  "2023-04-17": 162145,
-  "2023-04-18": 162217,
-  "2023-04-19": 162315,
-  "2023-04-20": 162407,
-  "2023-04-21": 162498,
-  "2023-04-22": 162587,
-  "2023-04-23": 162709,
-  "2023-04-24": 162808,
-  "2023-04-25": 162883,
-  "2023-04-26": 162975,
-  "2023-04-27": 163063,
-  "2023-04-28": 163156,
-  "2023-04-29": 163224,
-  "2023-04-30": 163329,
-  "2023-05-01": 163425,
-  "2023-05-02": 163513,
-  "2023-05-03": 163572,
-  "2023-05-04": 163652,
-  "2023-05-05": 163724,
-  "2023-05-06": 163813,
-  "2023-05-07": 163912,
-  "2023-05-08": 164011,
-  "2023-05-09": 164111,
-  "2023-05-10": 164177,
-  "2023-05-11": 164254,
-  "2023-05-12": 164321,
-  "2023-05-13": 164405,
-  "2023-05-14": 164483,
-  "2023-05-15": 164592,
-  "2023-05-16": 164671,
-  "2023-05-17": 164746,
-  "2023-05-18": 164826,
-  "2023-05-19": 164935,
-  "2023-05-20": 165140,
-  "2023-05-21": 165140,
-  "2023-05-22": 165140,
-  "2023-05-23": 165312,
-  "2023-05-24": 165428,
-  "2023-05-25": 165446,
-  "2023-05-26": 165508,
-  "2023-05-27": 165609,
-  "2023-05-28": 165712,
-  "2023-05-29": 165712,
-  "2023-05-30": 165866,
-  "2023-05-31": 165945,
-  "2023-06-01": 166033,
-  "2023-06-02": 166108,
-  "2023-06-03": 166182,
-  "2023-06-04": 166287,
-  "2023-06-05": 166412,
-  "2023-06-06": 166503,
-  "2023-06-07": 166586,
-  "2023-06-08": 166672,
-  "2023-06-09": 166760,
-  "2023-06-10": 166833,
-  "2023-06-11": 166952,
-  "2023-06-12": 167034,
-  "2023-06-13": 167122,
-  "2023-06-14": 167219,
-  "2023-06-15": 167293,
-  "2023-06-16": 167393,
-  "2023-06-17": 167471,
-  "2023-06-18": 167556,
-  "2023-06-19": 167652,
-  "2023-06-20": 167710,
-  "2023-06-21": 167785,
-  "2023-06-22": 167850,
-  "2023-06-23": 167931,
-  "2023-06-24": 168001,
-  "2023-06-25": 168072,
-  "2023-06-26": 168162,
-  "2023-06-27": 168232,
-  "2023-06-28": 168302,
-  "2023-06-29": 168349,
-  "2023-06-30": 168400,
-  "2023-07-01": 168553,
-  "2023-07-02": 168553,
-  "2023-07-03": 168663,
-  "2023-07-04": 168729,
-  "2023-07-05": 168800,
-  "2023-07-06": 168922,
-  "2023-07-07": 168922,
-  "2023-07-08": 168975,
-  "2023-07-09": 169077,
-  "2023-07-10": 169167,
-  "2023-07-11": 169243,
-  "2023-07-12": 169298,
-  "2023-07-13": 169380,
-  "2023-07-14": 169455,
-  "2023-07-15": 169513,
-  "2023-07-16": 169613,
-  "2023-07-17": 169692,
-  "2023-07-18": 169759,
-  "2023-07-19": 169851,
-  "2023-07-20": 169930,
-  "2023-07-21": 169990,
-  "2023-07-22": 170074,
-  "2023-07-23": 170146,
-  "2023-07-24": 170227,
-  "2023-07-25": 170309,
-  "2023-07-26": 170384,
-  "2023-07-27": 170461,
-  "2023-07-28": 170555,
-  "2023-07-29": 170618,
-  "2023-07-30": 170713,
-  "2023-07-31": 170788,
-  "2023-08-01": 170866,
-  "2023-08-02": 170930,
-  "2023-08-03": 171005,
-  "2023-08-04": 171080,
-  "2023-08-05": 171158,
-  "2023-08-06": 171313,
-  "2023-08-07": 171313,
-  "2023-08-08": 171411,
-  "2023-08-09": 171503,
-  "2023-08-10": 171586,
-  "2023-08-11": 171662,
-  "2023-08-12": 171751,
-  "2023-08-13": 171834,
-  "2023-08-14": 171927,
-  "2023-08-15": 172079,
-  "2023-08-16": 172079,
-  "2023-08-17": 172144,
-  "2023-08-18": 172229,
-  "2023-08-19": 172296,
-  "2023-08-20": 172385,
-  "2023-08-21": 172476,
-  "2023-08-22": 172556,
-  "2023-08-23": 172633,
-  "2023-08-24": 172703,
-  "2023-08-25": 172791,
-  "2023-08-26": 172875,
-  "2023-08-27": 172953,
-  "2023-08-28": 173040,
-  "2023-08-29": 173130,
-  "2023-08-30": 173218,
-  "2023-08-31": 173289,
-  "2023-09-01": 173459,
-  "2023-09-02": 173459,
-  "2023-09-03": 173512,
-  "2023-09-04": 173600,
-  "2023-09-05": 173664,
-  "2023-09-06": 173766,
-  "2023-09-07": 173864,
-  "2023-09-08": 173938,
-  "2023-09-09": 174029,
-  "2023-09-10": 174116,
-  "2023-09-11": 174218,
-  "2023-09-12": 174288,
-  "2023-09-13": 174371,
-  "2023-09-14": 174438,
-  "2023-09-15": 174519,
-  "2023-09-16": 174605,
-  "2023-09-17": 174718,
-  "2023-09-18": 174817,
-  "2023-09-19": 174903,
-  "2023-09-20": 174967,
-  "2023-09-21": 175046,
-  "2023-09-22": 175131,
-  "2023-09-23": 175210,
-  "2023-09-24": 175298,
-  "2023-09-25": 175402,
-  "2023-09-26": 175483,
-  "2023-09-27": 175546,
-  "2023-09-28": 175615,
-  "2023-09-29": 175672,
-  "2023-09-30": 175758,
-  "2023-10-01": 175842,
-  "2023-10-02": 175922,
-  "2023-10-03": 175986,
-  "2023-10-04": 176047,
-  "2023-10-05": 176121,
-  "2023-10-06": 176184,
-  "2023-10-07": 176248,
-  "2023-10-08": 176326,
-  "2023-10-09": 176398,
-  "2023-10-10": 176401,
-  "2023-10-11": 176482,
-  "2023-10-12": 176482,
-  "2023-10-13": 176507,
-  "2023-10-14": 176569,
-  "2023-10-15": 176637,
-  "2023-10-16": 176722,
-  "2023-10-17": 176779,
-  "2023-10-18": 176848,
-  "2023-10-19": 176941,
-  "2023-10-20": 177024,
-  "2023-10-21": 177108,
-  "2023-10-22": 177191,
-  "2023-10-23": 177269,
-  "2023-10-24": 177329,
-  "2023-10-25": 177390,
-  "2023-10-26": 177461,
-  "2023-10-27": 177558,
-  "2023-10-28": 177647,
-  "2023-10-29": 177727,
-  "2023-10-30": 177881,
-  "2023-10-31": 177881,
-  "2023-11-01": 177950,
-  "2023-11-02": 178036,
-  "2023-11-03": 178110,
-  "2023-11-04": 178191,
-  "2023-11-05": 178245,
-  "2023-11-06": 178322,
-  "2023-11-07": 178391,
-  "2023-11-08": 178451,
-  "2023-11-09": 178506,
-  "2023-11-10": 178586,
-  "2023-11-11": 178666,
-  "2023-11-12": 178746,
-  "2023-11-13": 178811,
-  "2023-11-14": 178874,
-  "2023-11-15": 178874,
-  "2023-11-16": 179012,
-  "2023-11-17": 179136,
-  "2023-11-18": 179136,
-  "2023-11-19": 179209,
-  "2023-11-20": 179296,
-  "2023-11-21": 179384,
-  "2023-11-22": 179461,
-  "2023-11-23": 179549,
-  "2023-11-24": 179629,
-  "2023-11-25": 179712,
-  "2023-11-26": 179812,
-  "2023-11-27": 179890,
-  "2023-11-28": 179952,
-  "2023-11-29": 180098,
-  "2023-11-30": 180098,
-  "2023-12-01": 180165,
-  "2023-12-02": 180242,
-  "2023-12-03": 180335,
-  "2023-12-04": 180403,
-  "2023-12-05": 180464,
-  "2023-12-06": 180535,
-  "2023-12-07": 180609,
-  "2023-12-08": 180672,
-  "2023-12-09": 180730,
-  "2023-12-10": 180829,
-  "2023-12-11": 180918,
-  "2023-12-12": 180978,
-  "2023-12-13": 181046,
-  "2023-12-14": 181133,
-  "2023-12-15": 181173,
-  "2023-12-16": 181249,
-  "2023-12-17": 181324,
-  "2023-12-18": 181419,
-  "2023-12-19": 181497,
-  "2023-12-20": 181569,
-  "2023-12-21": 181650,
-  "2023-12-22": 181710,
-  "2023-12-23": 181786,
-  "2023-12-24": 181861,
-  "2023-12-25": 181940,
-  "2023-12-26": 182036,
-  "2023-12-27": 182116,
-  "2023-12-30": 182371,
-  "2023-12-31": 182468,
-  "2024-01-01": 182557,
-  "2024-01-02": 182664,
-  "2024-01-03": 182715
+  "2024-01-17": 183469,
+  "date_first_scraped": "2021-12-21",
+  "description": "An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era. ",
+  "name": "This Is: Pavarotti",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pavarotti Studio Albums (Standard Slip Case)",
+        "url": "https://open.spotify.com/album/0hMTEeQbzUnq1Vb5NeuTi7"
+      },
+      "artists": [
+        {
+          "name": "Francesco Paolo Tosti",
+          "url": "https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Anton Guadagno",
+          "url": "https://open.spotify.com/artist/08tyjXrQMCizk1ffsER1mb"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188546,
+      "name": "'A vucchella",
+      "url": "https://open.spotify.com/track/0P28lhIXq0mejaPlI5Stqj"
+    },
+    {
+      "album": {
+        "name": "O Sole Mio",
+        "url": "https://open.spotify.com/album/2JdvpY38euCHBlIofmFUp6"
+      },
+      "artists": [
+        {
+          "name": "Francesco Paolo Tosti",
+          "url": "https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Anton Guadagno",
+          "url": "https://open.spotify.com/artist/08tyjXrQMCizk1ffsER1mb"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "'A vucchella",
+      "url": "https://open.spotify.com/track/1NZJULt4LISYlQShksvZGr"
+    },
+    {
+      "album": {
+        "name": "Pavarotti: Moments",
+        "url": "https://open.spotify.com/album/36Sa0KkYEl1tSj5e5wnWFH"
+      },
+      "artists": [
+        {
+          "name": "Francesco Paolo Tosti",
+          "url": "https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Anton Guadagno",
+          "url": "https://open.spotify.com/artist/08tyjXrQMCizk1ffsER1mb"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 190306,
+      "name": "'A vucchella",
+      "url": "https://open.spotify.com/track/5HTBUKtuNRiJ74Gkq77x7U"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - O Sole Mio - Favourite Neapolitan Songs",
+        "url": "https://open.spotify.com/album/3T08ln7kLe8QP1wgqNPETk"
+      },
+      "artists": [
+        {
+          "name": "Eduardo di Capua",
+          "url": "https://open.spotify.com/artist/2q0Rkp6Ud5XxPTCkCCdbYr"
+        },
+        {
+          "name": "Alfredo Mazzucchi",
+          "url": "https://open.spotify.com/artist/4vHK0wAa73KIgQzxeowBbh"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204533,
+      "name": "'O sole mio",
+      "url": "https://open.spotify.com/track/0ORlZrFiTNUXzh6psijlkW"
+    },
+    {
+      "album": {
+        "name": "'O sole mio",
+        "url": "https://open.spotify.com/album/5mzQPkCKaW7mC6AWzoqMaO"
+      },
+      "artists": [
+        {
+          "name": "Eduardo di Capua",
+          "url": "https://open.spotify.com/artist/2q0Rkp6Ud5XxPTCkCCdbYr"
+        },
+        {
+          "name": "Alfredo Mazzucchi",
+          "url": "https://open.spotify.com/artist/4vHK0wAa73KIgQzxeowBbh"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202680,
+      "name": "'O sole mio (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/0KFPsX30uBNCDpkgdz0JrV"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/58IGRT8VXuBwnK0tcODL3G"
+      },
+      "artists": [
+        {
+          "name": "Eduardo di Capua",
+          "url": "https://open.spotify.com/artist/2q0Rkp6Ud5XxPTCkCCdbYr"
+        },
+        {
+          "name": "Alfredo Mazzucchi",
+          "url": "https://open.spotify.com/artist/4vHK0wAa73KIgQzxeowBbh"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202680,
+      "name": "'O sole mio (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/3DcIm0S6Zig1Xrus1xeoX8"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - The Best",
+        "url": "https://open.spotify.com/album/0mriXOaHFSXDE9pCXCkEVl"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Eric Garrett",
+          "url": "https://open.spotify.com/artist/0LFstXaDPIMhKFRYP3YMT9"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 415413,
+      "name": "_: Donizetti: Ah mes amis - Pour mon ame [La fille du regiment]",
+      "url": "https://open.spotify.com/track/3tN9o2fLJ72VqEEvetfzsa"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - The Best",
+        "url": "https://open.spotify.com/album/0mriXOaHFSXDE9pCXCkEVl"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 163906,
+      "name": "_: Verdi: Forse la soglia attinse [Un ballo in maschera]",
+      "url": "https://open.spotify.com/track/0VmcjtJCun4YVFyzJZjN4p"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - The Best",
+        "url": "https://open.spotify.com/album/0mriXOaHFSXDE9pCXCkEVl"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Peter Maag",
+          "url": "https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231186,
+      "name": "_: Verdi: Quando le sere [Luisa Miller]",
+      "url": "https://open.spotify.com/track/4mdMrv9Qq2VtvlzLvIgAuf"
+    },
+    {
+      "album": {
+        "name": "Cinema Italiano",
+        "url": "https://open.spotify.com/album/34ACj7TUG6dpUyvIpR8nqd"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Andrea Griminelli",
+          "url": "https://open.spotify.com/artist/0VJAgzlFOmpubJOT3B8QEz"
+        },
+        {
+          "name": "The London Film Orchestra",
+          "url": "https://open.spotify.com/artist/0EpiswhHnwFyFFjCFxLpmG"
+        },
+        {
+          "name": "Gavyn Wright",
+          "url": "https://open.spotify.com/artist/7Kio0PkTLR8cD9QKMB8HIl"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228462,
+      "name": "Ai giocchi addio - From \"Romeo & Juliet\"",
+      "url": "https://open.spotify.com/track/2eGTH4EPQQs543YOkX2Yw0"
+    },
+    {
+      "album": {
+        "name": "Cinema Italiano",
+        "url": "https://open.spotify.com/album/3NJiI2BVOwzUuyOc7j4gyu"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Andrea Griminelli",
+          "url": "https://open.spotify.com/artist/0VJAgzlFOmpubJOT3B8QEz"
+        },
+        {
+          "name": "The London Film Orchestra",
+          "url": "https://open.spotify.com/artist/0EpiswhHnwFyFFjCFxLpmG"
+        },
+        {
+          "name": "Gavyn Wright",
+          "url": "https://open.spotify.com/artist/7Kio0PkTLR8cD9QKMB8HIl"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228462,
+      "name": "Ai giocchi addio - From \"Romeo & Juliet\"",
+      "url": "https://open.spotify.com/track/77DGyBy59tvBrlzR0YVQ8z"
+    },
+    {
+      "album": {
+        "name": "Verdi: A\u00efda (3 CDs)",
+        "url": "https://open.spotify.com/album/7MiSSexcfNDwPbmyIZFiYM"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244500,
+      "name": "Aida / Act 1: \"Se quel guerrier io fossi!..Celeste Aida\"",
+      "url": "https://open.spotify.com/track/3RM3MYdNATnEIOYvPf2mls"
+    },
+    {
+      "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/5nfPxKlTLRrNb1q8bWXnLb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "Aida / Act 1: \"Se quel guerrier io fossi!..Celeste Aida\"",
+      "url": "https://open.spotify.com/track/7rLFi55HFEwO72Mg0SYXZz"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/46Q6jCM6PXbhF9KnH0GkOV"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 246240,
+      "name": "Aida / Act 1: \"Se quel guerrier io fossi!..Celeste Aida\"",
+      "url": "https://open.spotify.com/track/44yPZVZMYFOGiJQKUbL3vp"
+    },
+    {
+      "album": {
+        "name": "Giordano: Andrea Ch\u00e9nier",
+        "url": "https://open.spotify.com/album/4zmR0AM4SCd89DvLjo7PsH"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Andrea Ch\u00e9nier / Act 4: Vicino a te",
+      "url": "https://open.spotify.com/track/1GpbnVAJrQEngYgvkUzs7b"
+    },
+    {
+      "album": {
+        "name": "Giordano: Andrea Ch\u00e9nier (2 CDs)",
+        "url": "https://open.spotify.com/album/10H8KttgryMPXstUL3l8YG"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219426,
+      "name": "Andrea Ch\u00e9nier / Act 4: Vicino a te",
+      "url": "https://open.spotify.com/track/7iqYhof4Mi23nIX3KSHiAb"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.6: Puccini, Mascagni, Leoncavallo",
+        "url": "https://open.spotify.com/album/3Uw0GNZItHxsTBFUtzlAXf"
+      },
+      "artists": [
+        {
+          "name": "Umberto Giordano",
+          "url": "https://open.spotify.com/artist/2vedxcgUX1uom0dCE4xTTj"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 221026,
+      "name": "Andrea Ch\u00e9nier / Act 4: Vicino a te",
+      "url": "https://open.spotify.com/track/1IkMBuJ6No5xyGPRBTEWL5"
+    },
+    {
+      "album": {
+        "name": "O Holy Night (with bonus tracks)",
+        "url": "https://open.spotify.com/album/4jOnDlSX6J1sHxxO61S2qS"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288346,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/2lNhZZtx49HQ5pPcmFomKT"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/15nFu56Jrdm4hZb6eiPZJL"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-10",
+      "duration_ms": 286773,
+      "name": "Ave Maria, D. 839 (Arr. Gamley)",
+      "url": "https://open.spotify.com/track/361FPPI02F63UWDPjmzTLQ"
+    },
+    {
+      "album": {
+        "name": "NATALE musica di festa",
+        "url": "https://open.spotify.com/album/77smMx7mIChlNYjZZZJiC5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 288346,
+      "name": "Ave Maria, D. 839 (Arr. Gamley)",
+      "url": "https://open.spotify.com/track/6vs9u6xreN6R7v2rIKAsDa"
+    },
+    {
+      "album": {
+        "name": "Franz Schubert - A Monument of Classics",
+        "url": "https://open.spotify.com/album/6DrUBsS2CXPKHtOZshQn21"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289999,
+      "name": "Ave Maria, D839 - Remastered 2013",
+      "url": "https://open.spotify.com/track/5yGHhF5C64ExdUuc2zWvPe"
+    },
+    {
+      "album": {
+        "name": "Pavarotti The 50 Greatest Tracks",
+        "url": "https://open.spotify.com/album/6Y4VuOvF942WNJNWxXERgZ"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "url": "https://open.spotify.com/artist/058Y9LnHNkJEnH36W12Bwl"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 269833,
+      "name": "Carmen / Act 2: \"La fleur que tu m'avais jet\u00e9e\"",
+      "url": "https://open.spotify.com/track/27NneWq8WTK8nhCVvQVLOP"
+    },
+    {
+      "album": {
+        "name": "The World's Best Loved Tenor Arias",
+        "url": "https://open.spotify.com/album/4TjI4Esyf5UOrqMgPCzfct"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "url": "https://open.spotify.com/artist/058Y9LnHNkJEnH36W12Bwl"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264000,
+      "name": "Carmen, WD 31 / Act 2: \"La fleur que tu m'avais jet\u00e9e\"",
+      "url": "https://open.spotify.com/track/6YQ42rryVikR0SGp8UOJGt"
+    },
+    {
+      "album": {
+        "name": "The World's Favourite Tenor Arias",
+        "url": "https://open.spotify.com/album/3aIROqSfb35aNdePJpBpgy"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "url": "https://open.spotify.com/artist/058Y9LnHNkJEnH36W12Bwl"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267026,
+      "name": "Carmen, WD 31, Act II: La fleur que tu m'avais jet\u00e9e",
+      "url": "https://open.spotify.com/track/5Xe5ib4is1lL7QtJaIISge"
+    },
+    {
+      "album": {
+        "name": "Italian Classics Unforgettable Songs",
+        "url": "https://open.spotify.com/album/73zDIIVhBdmVCrUHUmqQDl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 320933,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/5g1aTtgjpOmpYarWbduEvj"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Love Songs",
+        "url": "https://open.spotify.com/album/7s2tx6dUPM2kGDarmeEmB4"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320213,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/4BzU0yhepl7P3slDfpNFtz"
+    },
+    {
+      "album": {
+        "name": "Tutto Pavarotti",
+        "url": "https://open.spotify.com/album/01gyhMRB3RBxhgkfqbBNVi"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Unknown Artist",
+          "url": "https://open.spotify.com/artist/3POLGp1PDjloqIXcgfJZZl"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/5hV0uMeGIUtKASyf25htAo"
+    },
+    {
+      "album": {
+        "name": "The Three Tenors - The Best of the 3 Tenors",
+        "url": "https://open.spotify.com/album/2fVs3rLwgh37t8JK8ryHYx"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Cardillo",
+          "url": "https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "Core 'ngrato (Arr, Schifrin) - Live",
+      "url": "https://open.spotify.com/track/7zvL32GeH1F8qj8seeG8mg"
+    },
+    {
+      "album": {
+        "name": "The Three Tenors - In Concert, Rome 1990 (And Selected Highlights)",
+        "url": "https://open.spotify.com/album/6AWJUvJzyPQWxkTryQTbgE"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Cardillo",
+          "url": "https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 213666,
+      "name": "Core 'ngrato - Live",
+      "url": "https://open.spotify.com/track/6Af8MJ6iAT2C9hGZ1tkkdd"
+    },
+    {
+      "album": {
+        "name": "The Three Tenors - The Best of the 3 Tenors (Live)",
+        "url": "https://open.spotify.com/album/2dDikF2g2KJ97TjKGwlSue"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Cardillo",
+          "url": "https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL"
+        },
+        {
+          "name": "Jos\u00e9 Carreras",
+          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216986,
+      "name": "Core 'ngrato - Live",
+      "url": "https://open.spotify.com/track/6rkbpNQxtaGYQwkNRYe69U"
+    },
+    {
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3yTUISVAEwNyic01MmXvbC"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Di rigori armato il seno\"",
+      "url": "https://open.spotify.com/track/25t698K9Yd9imTiOXBxb4I"
+    },
+    {
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3rNflrnU3AkegpkpZQL7kx"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183613,
+      "name": "Der Rosenkavalier, Op.59 / Act 1: \"Di rigori armato il seno\"",
+      "url": "https://open.spotify.com/track/273iqcPZxEX9hUGXWD84Qw"
+    },
+    {
+      "album": {
+        "name": "Live From Lincoln Center",
+        "url": "https://open.spotify.com/album/26pbp9R2KNpCsUk9H14LGu"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Marilyn Horne",
+          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New York City Opera Orchestra",
+          "url": "https://open.spotify.com/artist/0bAN0dtIZuTD3Jf3nZScD7"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 413053,
+      "name": "Ernani / Part 4: \"Solingo, errante misero\" - Live In New York / 1981",
+      "url": "https://open.spotify.com/track/0BnMCDj4uKAI1ziOicgxUV"
+    },
+    {
+      "album": {
+        "name": "Verdi",
+        "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Marilyn Horne",
+          "url": "https://open.spotify.com/artist/2X1SZFqImVgl59tWagfjcl"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New York City Opera Orchestra",
+          "url": "https://open.spotify.com/artist/0bAN0dtIZuTD3Jf3nZScD7"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413053,
+      "name": "Ernani / Part 4: \"Solingo, errante misero\" - Live In New York / 1981",
+      "url": "https://open.spotify.com/track/3uGsBBESeDs4s50u0AoZU6"
+    },
+    {
+      "album": {
+        "name": "The World's Best Loved Tenor Arias",
+        "url": "https://open.spotify.com/album/4TjI4Esyf5UOrqMgPCzfct"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "url": "https://open.spotify.com/artist/058Y9LnHNkJEnH36W12Bwl"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324360,
+      "name": "Faust, CG 4 / Act 3: \"Quel trouble inconnu...Salut! Demeure chaste et pure\"",
+      "url": "https://open.spotify.com/track/11PKzh8oOBDsKbsZW8BA8S"
+    },
+    {
+      "album": {
+        "name": "The World's Favourite Tenor Arias",
+        "url": "https://open.spotify.com/album/3aIROqSfb35aNdePJpBpgy"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Vienna Volksoper Orchestra",
+          "url": "https://open.spotify.com/artist/058Y9LnHNkJEnH36W12Bwl"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328626,
+      "name": "Faust, CG 4, Act III: Quel trouble inconnu - Salut! Demeure chaste et pure",
+      "url": "https://open.spotify.com/track/4GCE6ipE5NI0DCNS8gnzT9"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Maurizio Benini",
+          "url": "https://open.spotify.com/artist/0b3DVt2aPHF1nu3QBxH230"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187960,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/6AedHMseo4Lor6Nk5uWN1Q"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Forever (2 CDs)",
+        "url": "https://open.spotify.com/album/6L7McXYWeIKeA3TO4F0MYT"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Maurizio Benini",
+          "url": "https://open.spotify.com/artist/0b3DVt2aPHF1nu3QBxH230"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188173,
+      "name": "Granada - minus applause",
+      "url": "https://open.spotify.com/track/1v1mJERFbmGU7Nb91gcCtz"
+    },
+    {
+      "album": {
+        "name": "Bellini: I Puritani",
+        "url": "https://open.spotify.com/album/7xxolpIFp1nYsB9eXvBUDI"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Gian Carlo Luccardi",
+          "url": "https://open.spotify.com/artist/1TM0WyEFU7P1YZAP1vY0jy"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346173,
+      "name": "I puritani / Act I: A te, o cara",
+      "url": "https://open.spotify.com/track/48fH1Mv10Nl8Hisna5y2Rf"
+    },
+    {
+      "album": {
+        "name": "Celeste Aida - The Verdi Album",
+        "url": "https://open.spotify.com/album/0YX6ZQtSxaTE8RqIIweh57"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234666,
+      "name": "I vespri siciliani - French version: A toi, que j'ai cherie",
+      "url": "https://open.spotify.com/track/4lGLK2AkfMcsTxpO5ikMyp"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.3: Verdi",
+        "url": "https://open.spotify.com/album/6I8BW52zQRbMAPapbBgGDt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 240000,
+      "name": "I vespri siciliani - French version: A toi, que j'ai cherie",
+      "url": "https://open.spotify.com/track/3G4GeHcAEPvSSiUHOTykSe"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Sings Rare Verdi Arias",
+        "url": "https://open.spotify.com/album/2lVfdUisYSUYW3yDER1vQL"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "I vespri siciliani: \u00c0 toi que j'ai ch\u00e9rie",
+      "url": "https://open.spotify.com/track/1GNULmSb2IH9VH6jYJkMQJ"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir John Pritchard",
+          "url": "https://open.spotify.com/artist/5Zkrloooz9qNDnHUf0q1UP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 322146,
+      "name": "Idomeneo / Act 2: Fuor del mar",
+      "url": "https://open.spotify.com/track/6cn58CPRHPBYqJFWdQHkwN"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition",
+        "url": "https://open.spotify.com/album/5YS41VyNOcGCR7AbYByGoj"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir John Pritchard",
+          "url": "https://open.spotify.com/artist/5Zkrloooz9qNDnHUf0q1UP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321853,
+      "name": "Idomeneo, re di Creta, K.366 / Act 2: \"Fuor del mar\"",
+      "url": "https://open.spotify.com/track/3cRjtfCQU1Av1QmwQMNkKm"
+    },
+    {
+      "album": {
+        "name": "Mozart: Idomeneo",
+        "url": "https://open.spotify.com/album/1nVlIJqVCGnAFae5BHxOdx"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir John Pritchard",
+          "url": "https://open.spotify.com/artist/5Zkrloooz9qNDnHUf0q1UP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 328106,
+      "name": "Idomeneo, re di Creta, K.366 / Act 2: \"Fuor del mar\"",
+      "url": "https://open.spotify.com/track/1UuuA0Ku1M9xNkVlKjukwR"
+    },
+    {
+      "album": {
+        "name": "Verdi: Il Trovatore",
+        "url": "https://open.spotify.com/album/0scT2wClXrkLBlv8vRbrje"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Il Trovatore / Act 3: \"Ah s\u00ec ben mio\"",
+      "url": "https://open.spotify.com/track/0droQM0XZC0tJKEsXNWuVD"
+    },
+    {
+      "album": {
+        "name": "Verdi: Il Trovatore (2 CDs)",
+        "url": "https://open.spotify.com/album/4cebergnRVznL7bCrHT6HC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180933,
+      "name": "Il Trovatore / Act 3: \"Ah s\u00ec ben mio\"",
+      "url": "https://open.spotify.com/track/0q8pdHBPJSRUvLFE6Bj43W"
+    },
+    {
+      "album": {
+        "name": "Verdi",
+        "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181186,
+      "name": "Il Trovatore / Act 3: \"Ah s\u00ec ben mio\"",
+      "url": "https://open.spotify.com/track/2KKNwNO5Vkj6JcOr2sYDb4"
+    },
+    {
+      "album": {
+        "name": "Verismo Recital",
+        "url": "https://open.spotify.com/album/3GOCePU6ETRIDjhj3ZLIr7"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Meyerbeer",
+          "url": "https://open.spotify.com/artist/6aItH4tJHWc4wKwlDXkJrc"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "L'Africaine / Act 4: \"Mi batte il cor... O Paradiso!\"",
+      "url": "https://open.spotify.com/track/1vVu1EmfjLVCZT6oYBkoHs"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Forever",
+        "url": "https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Meyerbeer",
+          "url": "https://open.spotify.com/artist/6aItH4tJHWc4wKwlDXkJrc"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210000,
+      "name": "L'Africaine / Act 4: \"Mi batte il cor... O Paradiso!\"",
+      "url": "https://open.spotify.com/track/5BplWWaZrVfk3uYQjGWDIF"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition (10 CDs + bonus)",
+        "url": "https://open.spotify.com/album/55bTXKn9qlQNXwbodD1t3l"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Meyerbeer",
+          "url": "https://open.spotify.com/artist/6aItH4tJHWc4wKwlDXkJrc"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216986,
+      "name": "L'Africaine / Act 4: \"Mi batte il cor...O Paradiso!\"",
+      "url": "https://open.spotify.com/track/59HoN0udEBEKwH3F7NsslU"
+    },
+    {
+      "album": {
+        "name": "Donizetti: The Elixir of Love",
+        "url": "https://open.spotify.com/album/5yhI6N044Od0khxnnJEAXK"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "L'elisir d'amore / Act II: \"Una furtiva lagrima\"",
+      "url": "https://open.spotify.com/track/7DKv6FjD4xxeT4ZmEdec9W"
+    },
+    {
+      "album": {
+        "name": "Donizetti:L'elisir d'amore - Highlights",
+        "url": "https://open.spotify.com/album/059UFZEuMVYi8W4xfhXlA6"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251506,
+      "name": "L'elisir d'amore / Act II: \"Una furtiva lagrima\"",
+      "url": "https://open.spotify.com/track/0efUWJNxiGHKGQ1CEFl8b7"
+    },
+    {
+      "album": {
+        "name": "Mad About Tenors",
+        "url": "https://open.spotify.com/album/1A6wIbaeSsF439DW53roDi"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 254000,
+      "name": "L'elisir d'amore / Act II: \"Una furtiva lagrima\"",
+      "url": "https://open.spotify.com/track/4qDjUAEA2gpW2HUymrcCz2"
+    },
+    {
+      "album": {
+        "name": "Mattinata",
+        "url": "https://open.spotify.com/album/2IZRsAS3iqvVDiYlABqNnD"
+      },
+      "artists": [
+        {
+          "name": "Francesco Paolo Tosti",
+          "url": "https://open.spotify.com/artist/4JMye18gQjYis7boz7XWyC"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Piero Gamba",
+          "url": "https://open.spotify.com/artist/7KfKWrilN906TAPWZf8Wc6"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "L'ultima canzone",
+      "url": "https://open.spotify.com/track/4qe5S9nIcyH6xG1nAzebXY"
+    },
+    {
+      "album": {
+        "name": "Puccini: La Boh\u00e8me (2 CDs)",
+        "url": "https://open.spotify.com/album/2Mfdnm5WWGhePSVYhA6ILf"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252453,
+      "name": "La Boh\u00e8me / Act 1: \"O soave fanciulla\"",
+      "url": "https://open.spotify.com/track/5hJVLQbPigabZDgZhulWVD"
+    },
+    {
+      "album": {
+        "name": "Puccini: La Boh\u00e8me",
+        "url": "https://open.spotify.com/album/0DdPI0pzTRV6uT4ty2JBpF"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "La boh\u00e8me, SC 67 / Act I: \"O soave fanciulla\"",
+      "url": "https://open.spotify.com/track/2NQJ7r83PSAFELsKAEIU4v"
+    },
+    {
+      "album": {
+        "name": "Ten Top Tenors",
+        "url": "https://open.spotify.com/album/0X6bOT89Jt0JVKgk23mTh7"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253093,
+      "name": "La boh\u00e8me, SC 67 / Act I: \"O soave fanciulla\"",
+      "url": "https://open.spotify.com/track/4URqKOGt52JJavIXCHH6WN"
+    },
+    {
+      "album": {
+        "name": "Puccini Gala",
+        "url": "https://open.spotify.com/album/4D48uVt3xU0dCTtEzyQBiv"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123360,
+      "name": "La Fanciulla del West / Act 3: \"Ch'ella mi creda libero e lontano\"",
+      "url": "https://open.spotify.com/track/0HDrBiMJf1bb7G3L683h22"
+    },
+    {
+      "album": {
+        "name": "Nessun Dorma - Puccini's Greatest Arias",
+        "url": "https://open.spotify.com/album/29MuZuq7hwCg9lHE5rRQI5"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122626,
+      "name": "La fanciulla del West: \"Ch'ella mi creda libero e lontano\"",
+      "url": "https://open.spotify.com/track/5paxMZCF4V7F9Dzu86x7aM"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Studio Albums",
+        "url": "https://open.spotify.com/album/23mDrZhj43UPFOneDdK7k4"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123346,
+      "name": "La fanciulla del West: \"Ch'ella mi creda libero e lontano\"",
+      "url": "https://open.spotify.com/track/28jUnEQYOef5EJuRyGzqwP"
+    },
+    {
+      "album": {
+        "name": "Donizetti: La Favorita",
+        "url": "https://open.spotify.com/album/6BPiOdPFfM8nUQVVU49QKR"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207733,
+      "name": "La Favorita - Italian version - Act 4: \"Spirto gentil, de'sogni miei\"",
+      "url": "https://open.spotify.com/track/6GC1OkxEiSuT8WyZjxm84F"
+    },
+    {
+      "album": {
+        "name": "Donizetti: La Favorita",
+        "url": "https://open.spotify.com/album/72beOcGK2BJV3j8Lngtr4b"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "La favorita / Act 4: \"Spirto gentil, de' sogni miei\"",
+      "url": "https://open.spotify.com/track/1YBAEaeCVt5DvgEF47vRX0"
+    },
+    {
+      "album": {
+        "name": "The People's Tenor",
+        "url": "https://open.spotify.com/album/3iSyfakqYJvsfhKc2z3Aid"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211769,
+      "name": "La favorita / Act 4: \"Spirto gentil, de' sogni miei\"",
+      "url": "https://open.spotify.com/track/0IGkWCW6IfFH2WE2z2nyjw"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Story (4 CDs)",
+        "url": "https://open.spotify.com/album/3iFhg1axcmsfNcESQE67Og"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Eric Garrett",
+          "url": "https://open.spotify.com/artist/0LFstXaDPIMhKFRYP3YMT9"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 414160,
+      "name": "La fille du r\u00e9giment / Act 1: \"Ah mes amis - Pour mon \u00e2me\"",
+      "url": "https://open.spotify.com/track/6RQW72OBP6MUYbhi9AwrPH"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - Una Furtiva Lagrima: Donizetti Arias",
+        "url": "https://open.spotify.com/album/7LJUNiKZDqhcQ6I0VLe7MP"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Eric Garrett",
+          "url": "https://open.spotify.com/artist/0LFstXaDPIMhKFRYP3YMT9"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417173,
+      "name": "La fille du r\u00e9giment / Act 1: Ah mes amis - Pour mon \u00e2me",
+      "url": "https://open.spotify.com/track/5ak8qOzus2Yh056whhY5K3"
+    },
+    {
+      "album": {
+        "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
+        "url": "https://open.spotify.com/album/6POyPDgP7HpLeaCjVzxcer"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 647233,
+      "name": "La Sonnambula / Act 1: \"Perdona, o mia diletta...Prendi: L'anel ti dono\"",
+      "url": "https://open.spotify.com/track/5DiGjDoaAdIMms6EBczQcR"
+    },
+    {
+      "album": {
+        "name": "Classic Duets",
+        "url": "https://open.spotify.com/album/1Znueh0tKMXTcuGCcFWiJN"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 654977,
+      "name": "La Sonnambula / Act 1: \"Perdona, o mia diletta...Prendi: L'anel ti dono\"",
+      "url": "https://open.spotify.com/track/7hCnYrUFt0j4XD5OMkWYzJ"
+    },
+    {
+      "album": {
+        "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
+        "url": "https://open.spotify.com/album/5gYvhebLNrR9xyBRJ5jcFK"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658703,
+      "name": "La Sonnambula / Act 1: \"Perdona, o mia diletta...Prendi: L'anel ti dono\"",
+      "url": "https://open.spotify.com/track/4ny6xkOrl77lTGDk4QisDY"
+    },
+    {
+      "album": {
+        "name": "Joan Sutherland / Luciano Pavarotti - Love Duets",
+        "url": "https://open.spotify.com/album/5gYvhebLNrR9xyBRJ5jcFK"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "The London Opera Chorus",
+          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179333,
+      "name": "La traviata / Act 1: \"Libiamo ne' lieti calici\" (Brindisi)",
+      "url": "https://open.spotify.com/track/0FHFC6N5cPBE7M8P1KAfyu"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata - Highlights",
+        "url": "https://open.spotify.com/album/4Mkgl0QtMo2KP5nrJLcRDw"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "The London Opera Chorus",
+          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169333,
+      "name": "La traviata / Act 1: \"Libiamo ne'lieti calici\"",
+      "url": "https://open.spotify.com/track/4Qe0RAx9MmZVxWFDgCYDg1"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "The London Opera Chorus",
+          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "La traviata / Act 1: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/2zGVfygrdGVKCZ54sxCaQH"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Forever",
+        "url": "https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Maurizio Benini",
+          "url": "https://open.spotify.com/artist/0b3DVt2aPHF1nu3QBxH230"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188173,
+      "name": "Lara: Granada",
+      "url": "https://open.spotify.com/track/19dmMI3GwKkgw9TjfmViiS"
+    },
+    {
+      "album": {
+        "name": "The Best Of Luciano Pavarotti 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/4TAcIFi7Sa5eH06WX7VVZ9"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Piero Gamba",
+          "url": "https://open.spotify.com/artist/7KfKWrilN906TAPWZf8Wc6"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Leoncavallo: Mattinata (Orch. Faris)",
+      "url": "https://open.spotify.com/track/4z2WTEwX66niZjo7v4SFj2"
+    },
+    {
+      "album": {
+        "name": "Pavarotti The 50 Greatest Tracks",
+        "url": "https://open.spotify.com/album/6Y4VuOvF942WNJNWxXERgZ"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Robin Stapleton",
+          "url": "https://open.spotify.com/artist/7BJN7t4KAFreVPjoGyqIgU"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324913,
+      "name": "Les Pecheurs des Perles / Act 1: \"Au fond du temple saint\"",
+      "url": "https://open.spotify.com/track/0KHZVwPtYZ6D9c1H5UmLtR"
+    },
+    {
+      "album": {
+        "name": "Christmas With Pavarotti",
+        "url": "https://open.spotify.com/album/09N9UkEQRmcGccwnonS5rq"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Robin Stapleton",
+          "url": "https://open.spotify.com/artist/7BJN7t4KAFreVPjoGyqIgU"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 323889,
+      "name": "Les p\u00eacheurs de perles, WD 13 / Act 1: \"Au fond du temple saint\"",
+      "url": "https://open.spotify.com/track/7tIK3irT3iwoo5IbOhbr2z"
+    },
+    {
+      "album": {
+        "name": "Opera Gold - 100 Great Tracks",
+        "url": "https://open.spotify.com/album/56MQT7HAxBXxG0IUGqdP7N"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Robin Stapleton",
+          "url": "https://open.spotify.com/artist/7BJN7t4KAFreVPjoGyqIgU"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324480,
+      "name": "Les p\u00eacheurs de perles, WD 13 / Act 1: \"Au fond du temple saint\"",
+      "url": "https://open.spotify.com/track/0CRzMfKf4cyExwPYnEIxu7"
+    },
+    {
+      "album": {
+        "name": "Pavarotti & Friends for War Child",
+        "url": "https://open.spotify.com/album/49rzYN7N4ujtQjfBVmnYR3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299426,
+      "name": "Live Like Horses - Live Finale Version",
+      "url": "https://open.spotify.com/track/5GZoBVPJ6P2R1ibdzEMeu9"
+    },
+    {
+      "album": {
+        "name": "Pavarotti & Friends for War Child",
+        "url": "https://open.spotify.com/album/2xtmWgpAXaPl7gaSqNjRUQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299426,
+      "name": "Live Like Horses - Live Finale Version",
+      "url": "https://open.spotify.com/track/6WqCGiMD1cfQHedbQUUPwg"
+    },
+    {
+      "album": {
+        "name": "Donizetti: Lucia di Lammermoor (3 CDs)",
+        "url": "https://open.spotify.com/album/2iLe8GVvKsfQek9Oq0DJiW"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Huguette Tourangeau",
+          "url": "https://open.spotify.com/artist/7rNxHagwcYjFBL84g1efuC"
+        },
+        {
+          "name": "Ryland Davies",
+          "url": "https://open.spotify.com/artist/4saF62i1VpvJVrfxMtPs2G"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221026,
+      "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
+      "url": "https://open.spotify.com/track/4Cf2xM4sxvgO572IEyQnUt"
+    },
+    {
+      "album": {
+        "name": "Donizetti: Lucia di Lammermoor",
+        "url": "https://open.spotify.com/album/28A8c6to7i1VhqDtXpiBGz"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Huguette Tourangeau",
+          "url": "https://open.spotify.com/artist/7rNxHagwcYjFBL84g1efuC"
+        },
+        {
+          "name": "Ryland Davies",
+          "url": "https://open.spotify.com/artist/4saF62i1VpvJVrfxMtPs2G"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
+      "url": "https://open.spotify.com/track/2WVrj7PoONyELZ3RrKNd2b"
+    },
+    {
+      "album": {
+        "name": "My Favourite Opera for Everyone",
+        "url": "https://open.spotify.com/album/4Mmh2JXYUW9kB1rDJ7Cyf5"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Huguette Tourangeau",
+          "url": "https://open.spotify.com/artist/7rNxHagwcYjFBL84g1efuC"
+        },
+        {
+          "name": "Ryland Davies",
+          "url": "https://open.spotify.com/artist/4saF62i1VpvJVrfxMtPs2G"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 222560,
+      "name": "Lucia di Lammermoor / Act 2: \"Chi mi frena in tal momento\"",
+      "url": "https://open.spotify.com/track/3Yrm55vifmTrXAntWL6DTT"
+    },
+    {
+      "album": {
+        "name": "Verdi: Luisa Miller (2 CDs)",
+        "url": "https://open.spotify.com/album/1oBGVwADXBDWEVhhDy7hMz"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Peter Maag",
+          "url": "https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226320,
+      "name": "Luisa Miller / Act 2: \"Quando le sere al placido chiaror d'un ciel stellato\"",
+      "url": "https://open.spotify.com/track/5qvHV6JJyoWE05sEoHqquQ"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.3: Verdi",
+        "url": "https://open.spotify.com/album/6I8BW52zQRbMAPapbBgGDt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Peter Maag",
+          "url": "https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Luisa Miller / Act 2: Quando le sere al placido chiaror d'un ciel stellato",
+      "url": "https://open.spotify.com/track/17dU8ZQ95Iu3Pss9l5BbMm"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Sings Verdi",
+        "url": "https://open.spotify.com/album/6GOhWCANtBMwF9Vjx6UwYm"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212586,
+      "name": "Macbeth - Revised version 1865 / Act 4: \"O figli...Ah, la paterna mano\"",
+      "url": "https://open.spotify.com/track/3XtRrgSQRarDz0lnvXYYQW"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.3: Verdi",
+        "url": "https://open.spotify.com/album/6I8BW52zQRbMAPapbBgGDt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Macbeth - Revised version 1865 / Act 4: \"O figli...Ah, la paterna mano\"",
+      "url": "https://open.spotify.com/track/2O0JinmqVgxh6FLB0HwCA1"
+    },
+    {
+      "album": {
+        "name": "Giuseppe Verdi: A Classical October",
+        "url": "https://open.spotify.com/album/0EWql95qXOhiaAXg2RE2zB"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215906,
+      "name": "Macbeth - Revised version 1865 / Act 4: \"O figli...Ah, la paterna mano\"",
+      "url": "https://open.spotify.com/track/4XlrRGiSJouELTocXjKY9j"
+    },
+    {
+      "album": {
+        "name": "Puccini: Madama Butterfly",
+        "url": "https://open.spotify.com/album/23W9Axn8o18Lyz7twID47Q"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473866,
+      "name": "Madama Butterfly / Act 1: Vogliatemi bene",
+      "url": "https://open.spotify.com/track/0TRaG7uArJYTw4HdOhIrZt"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Story (4 CDs)",
+        "url": "https://open.spotify.com/album/0vV258wt6t5w79GT4ulL4s"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 124413,
+      "name": "Manon Lescaut / Act 1: Donna non vidi mai",
+      "url": "https://open.spotify.com/track/2azNDSBHUpetjRSUTYwenh"
+    },
+    {
+      "album": {
+        "name": "Puccini: Manon Lescaut (2 CDs)",
+        "url": "https://open.spotify.com/album/4fQIgwiML5WB8RbPe5lAxz"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 131906,
+      "name": "Manon Lescaut / Act 1: Donna non vidi mai",
+      "url": "https://open.spotify.com/track/2iSBoERpclahz2ap6p6WNa"
+    },
+    {
+      "album": {
+        "name": "Puccini: Manon Lescaut",
+        "url": "https://open.spotify.com/album/4OUjFFattFoR4DKFDjgun1"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Manon Lescaut / Act 1: Donna non vidi mai",
+      "url": "https://open.spotify.com/track/3cKxn6nRLm1o1lmknyuH9b"
+    },
+    {
+      "album": {
+        "name": "Pavarotti The 50 Greatest Tracks",
+        "url": "https://open.spotify.com/album/2aeqnJTTRHrXPzy77nyorj"
+      },
+      "artists": [
+        {
+          "name": "Friedrich von Flotow",
+          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209587,
+      "name": "Martha / Act 3: \"M'appari\"",
+      "url": "https://open.spotify.com/track/7naG2rJ82DXWHlcGfe89ps"
+    },
+    {
+      "album": {
+        "name": "The World's Favourite Tenor Arias",
+        "url": "https://open.spotify.com/album/3aIROqSfb35aNdePJpBpgy"
+      },
+      "artists": [
+        {
+          "name": "Friedrich von Flotow",
+          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Martha, Act III: M'appari",
+      "url": "https://open.spotify.com/track/6zr3CEZAvJyxARO5oNt5lS"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - The Best",
+        "url": "https://open.spotify.com/album/4Vs1NFwf5L9woU49O5Djnp"
+      },
+      "artists": [
+        {
+          "name": "Friedrich von Flotow",
+          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210933,
+      "name": "Martha: \"M'appari\"",
+      "url": "https://open.spotify.com/track/0udYPKXyz4EQAvDxvorj4N"
+    },
+    {
+      "album": {
+        "name": "Verdi: Requiem etc (2 CDs)",
+        "url": "https://open.spotify.com/album/5nJ74rwQ7Bs2j347m8ha4n"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215733,
+      "name": "Messa da Requiem: 2h. Ingemisco",
+      "url": "https://open.spotify.com/track/7hmJWlpuNkJ2dC7HG1GxSx"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Sings Verdi",
+        "url": "https://open.spotify.com/album/18OSSgIKauUXxbKfhAn4te"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 216040,
+      "name": "Messa da Requiem: 2h. Ingemisco",
+      "url": "https://open.spotify.com/track/5rxRfslZ8MR6YCRCegtQvo"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.4: Verdi",
+        "url": "https://open.spotify.com/album/7pJDxXGzKrYu3UG1YLGH5I"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Messa da Requiem: 2h. Ingemisco",
+      "url": "https://open.spotify.com/track/52Sw6Cj7YACmax4c3NocY0"
+    },
+    {
+      "album": {
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/78Y8U7KsQbpAD2DHOMLmm9"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 609533,
+      "name": "Otello / Act 1: \"Gi\u00e0 nella notte densa...Venga la morte\" - Live In Chicago & New York / 1991",
+      "url": "https://open.spotify.com/track/22gBRxqxGeXoemlf2E2wkV"
+    },
+    {
+      "album": {
+        "name": "King of the High Cs (60th Anniversary: 1961-2021)",
+        "url": "https://open.spotify.com/album/3QFV786DZyl7rzr912UFCF"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 609533,
+      "name": "Otello / Act 1: \"Gi\u00e0 nella notte densa...Venga la morte\" - Live In Chicago & New York / 1991",
+      "url": "https://open.spotify.com/track/2J21g6cmN4TfIC3jodm3Vr"
+    },
+    {
+      "album": {
+        "name": "Verdi: Otello (2 CDs)",
+        "url": "https://open.spotify.com/album/6klv5OR2X1BmcVOpouI6JR"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 609533,
+      "name": "Otello / Act 1: \"Gi\u00e0 nella notte densa...Venga la morte\" - Live In Chicago & New York / 1991",
+      "url": "https://open.spotify.com/track/5U3NboBBsJsZRkuDMKNXn7"
+    },
+    {
+      "album": {
+        "name": "Anniversary",
+        "url": "https://open.spotify.com/album/0XXHb2lHyBHIxlaFjYsxrZ"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244706,
+      "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
+      "url": "https://open.spotify.com/track/64A2RXbPJIkEYnOy7pt8ZC"
+    },
+    {
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci (2CDs)",
+        "url": "https://open.spotify.com/album/7zWTySsAL1CsAci1rJbUkY"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248306,
+      "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
+      "url": "https://open.spotify.com/track/0C1CDKlrHKawIDQM1BNM8c"
+    },
+    {
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248306,
+      "name": "Pagliacci / Act 1: \"Recitar!...Vesti la giubba\"",
+      "url": "https://open.spotify.com/track/1gcF7SWXRSlceY4AadLGN8"
+    },
+    {
+      "album": {
+        "name": "Christmas With Pavarotti",
+        "url": "https://open.spotify.com/album/0gltks8rRjkjEtfyxuOrBK"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241636,
+      "name": "Panis Angelicus, Op.12",
+      "url": "https://open.spotify.com/track/7a9yvQVa4fVMgP00vt2SG3"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/15nFu56Jrdm4hZb6eiPZJL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Panis Angelicus, Op.12/V",
+      "url": "https://open.spotify.com/track/5xPIsB4RxLcHkdsT40eH0X"
+    },
+    {
+      "album": {
+        "name": "Religious Classic Songs",
+        "url": "https://open.spotify.com/album/5Q5IYPCzY4IjeAkuVPkwMo"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Kurt Herbert Adler",
+          "url": "https://open.spotify.com/artist/6hiFukbNj4yzxTtQ2CrUFP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 241636,
+      "name": "Panis Angelicus, Op.12/V",
+      "url": "https://open.spotify.com/track/5rt4uDsqeXr4XhW1Styfua"
+    },
+    {
+      "album": {
+        "name": "Pavarotti's Greatest Hits",
+        "url": "https://open.spotify.com/album/0dwF7qWwnhcMkbJMELD6hz"
+      },
+      "artists": [
+        {
+          "name": "Amilcare Ponchielli",
+          "url": "https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309506,
+      "name": "Ponchielli: La Gioconda, Op. 9 - \"Cielo e mar!\"",
+      "url": "https://open.spotify.com/track/4fQei2CKNj5ELzfqGbbRAy"
+    },
+    {
+      "album": {
+        "name": "Pavarotti (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/1rfBOY8Mm8WCgaIRouJgw6"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143573,
+      "name": "Rigoletto / Act 3: \"La donna \u00e8 mobile\"",
+      "url": "https://open.spotify.com/track/30CNRidKfNGwImhmvHpUS0"
+    },
+    {
+      "album": {
+        "name": "Verdi",
+        "url": "https://open.spotify.com/album/1iY9IQB9avls47I3shc9s7"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Rigoletto, Act III: La donna \u00e8 mobile",
+      "url": "https://open.spotify.com/track/5cR6xfzyicyDyAr52zB48k"
+    },
+    {
+      "album": {
+        "name": "King of the High Cs (60th Anniversary: 1961-2021)",
+        "url": "https://open.spotify.com/album/3QFV786DZyl7rzr912UFCF"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141600,
+      "name": "Rigoletto: \"La donna \u00e8 mobile\"",
+      "url": "https://open.spotify.com/track/5JHa1niLMM5SqLUEiO8Fyt"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - Passione",
+        "url": "https://open.spotify.com/album/2drdKA9e04ruPOeQ1hNE1D"
+      },
+      "artists": [
+        {
+          "name": "Ermes Alessandro Mario",
+          "url": "https://open.spotify.com/artist/3uTjdFkjzwZUaxatdZglOv"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345533,
+      "name": "Santa Lucia luntana (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/4GVDbAN83PfpsRejssMzNA"
+    },
+    {
+      "album": {
+        "name": "Pavarotti in Concert",
+        "url": "https://open.spotify.com/album/6QCt8N7M7ab1NBpSTmSq0o"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Soir\u00e9es musicales: No. 8, La danza",
+      "url": "https://open.spotify.com/track/7dHMNB4jNNhIu0se8jPvQy"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/0JJjnCP9EiwZ0zY9lhqVM3"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349666,
+      "name": "Stabat Mater: 2. Cujus animam gementem",
+      "url": "https://open.spotify.com/track/025Jb5eFLmoxi7VfVboILd"
+    },
+    {
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/1vnudhI0Kkm0KBhjswcYSN"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 349666,
+      "name": "Stabat Mater: 2. Cujus animam gementem",
+      "url": "https://open.spotify.com/track/5sLt1JDRtUVpLMKw0W8Bof"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 350262,
+      "name": "Stabat Mater: 2. Cujus animam gementem",
+      "url": "https://open.spotify.com/track/5afy0m32lyAONohlBUPVOl"
+    },
+    {
+      "album": {
+        "name": "Luciano Pavarotti - Pavarotti Hits And More",
+        "url": "https://open.spotify.com/album/3mppVIoBQrjGiaQWFp41oL"
+      },
+      "artists": [
+        {
+          "name": "Ernesto de Curtis",
+          "url": "https://open.spotify.com/artist/1LrxrWK05k4x6y5pbDhouE"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263826,
+      "name": "Torna a Surriento",
+      "url": "https://open.spotify.com/track/2MK6NUiMlHjpk8DxjcyEcT"
+    },
+    {
+      "album": {
+        "name": "O Sole Mio",
+        "url": "https://open.spotify.com/album/2JdvpY38euCHBlIofmFUp6"
+      },
+      "artists": [
+        {
+          "name": "Ernesto de Curtis",
+          "url": "https://open.spotify.com/artist/1LrxrWK05k4x6y5pbDhouE"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Torna a Surriento (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/4VrbYjU8w5eGAbkFLHeS1p"
+    },
+    {
+      "album": {
+        "name": "Pavarotti Greatest Hits - The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0ZFMMVdsaKdb0HymxxXRcf"
+      },
+      "artists": [
+        {
+          "name": "Ernesto de Curtis",
+          "url": "https://open.spotify.com/artist/1LrxrWK05k4x6y5pbDhouE"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giancarlo Chiaramello",
+          "url": "https://open.spotify.com/artist/68GjvtnJaBEP7b6Qd8JDRg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263666,
+      "name": "Torna a Surriento (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/4yk5efSG7s20o3OOIJwj0W"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca - Highlights",
+        "url": "https://open.spotify.com/album/2LBXCzPvJ6HrdoCSFMokv3"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176106,
+      "name": "Tosca / Act 3: \"E lucevan le stelle\"",
+      "url": "https://open.spotify.com/track/3mnbXEIWJKXNxEQS8ylqHh"
+    },
+    {
+      "album": {
+        "name": "Tutto Pavarotti",
+        "url": "https://open.spotify.com/album/01gyhMRB3RBxhgkfqbBNVi"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181893,
+      "name": "Tosca / Act 3: \"E lucevan le stelle\"",
+      "url": "https://open.spotify.com/track/5mikw7FQ0niLRVHPASo1nl"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/04b94fe4mKns2VB8FxrBYp"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175573,
+      "name": "Tosca: \"E lucevan le stelle\"",
+      "url": "https://open.spotify.com/track/6TULK1G2c2c66sg9XcLVA4"
+    },
+    {
+      "album": {
+        "name": "Puccini: Turandot - Highlights",
+        "url": "https://open.spotify.com/album/4sD3O2NsmbzU7hkjgTpbjG"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "Wandsworth School Boys Choir",
+          "url": "https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Turandot, SC 91, Act III: Nessun dorma!",
+      "url": "https://open.spotify.com/track/74WjYdm3Lvbwnds4thYPUU"
+    },
+    {
+      "album": {
+        "name": "Celeste Aida - The Verdi Album",
+        "url": "https://open.spotify.com/album/0YX6ZQtSxaTE8RqIIweh57"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162120,
+      "name": "Un ballo in maschera / Act 3: \"Forse la soglia attinse\"",
+      "url": "https://open.spotify.com/track/63IC22hd9rJiPeqfCRpF2X"
+    },
+    {
+      "album": {
+        "name": "The Pavarotti Edition, Vol.4: Verdi",
+        "url": "https://open.spotify.com/album/7pJDxXGzKrYu3UG1YLGH5I"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "Un ballo in maschera / Act 3: \"Forse la soglia attinse\"",
+      "url": "https://open.spotify.com/track/7vLtHEIHlrZgWNwQVqc6b9"
+    },
+    {
+      "album": {
+        "name": "Verismo Recital",
+        "url": "https://open.spotify.com/album/3xyaZbKM44Fpn5y5Sh76P3"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Oliviero de Fabritiis",
+          "url": "https://open.spotify.com/artist/5jDSvWeUQdlHGdUW2p3YLq"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Werther: \"Pourquoi me r\u00e9veiller, \u00f4 souffle du printemps?\"",
+      "url": "https://open.spotify.com/track/47KC5PP73D2eqdmnaLPAOy"
+    },
+    {
+      "album": {
+        "name": "Tenor Arias from Italian Opera",
+        "url": "https://open.spotify.com/album/78wYjYQvINU8FnBXE9cMap"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Wiener Opernchor",
+          "url": "https://open.spotify.com/artist/02Ifp0i8PDVh9ogYmcjHZ9"
+        },
+        {
+          "name": "Wiener Opernorchester",
+          "url": "https://open.spotify.com/artist/4fx1PTtUDsq0WA0mDbPyDr"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583946,
+      "name": "William Tell / Act 4: \"Ah.. non mi lasciar, o speme di vendetta\" - \"O muto asil del pianto\"",
+      "url": "https://open.spotify.com/track/2p075veDkaxNdK5LpUzSkZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5M3XSYkKZCl"
 }

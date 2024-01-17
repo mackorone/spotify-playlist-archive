@@ -1,577 +1,1555 @@
 {
-  "2022-06-02": 4140,
-  "2022-06-03": 4142,
-  "2022-06-04": 4147,
-  "2022-06-05": 4151,
-  "2022-06-06": 4164,
-  "2022-06-07": 4170,
-  "2022-06-08": 4182,
-  "2022-06-09": 4187,
-  "2022-06-10": 4190,
-  "2022-06-11": 4194,
-  "2022-06-12": 4195,
-  "2022-06-13": 4197,
-  "2022-06-14": 4198,
-  "2022-06-15": 4201,
-  "2022-06-16": 4202,
-  "2022-06-17": 4203,
-  "2022-06-18": 4209,
-  "2022-06-19": 4214,
-  "2022-06-20": 4214,
-  "2022-06-21": 4215,
-  "2022-06-22": 4221,
-  "2022-06-23": 4221,
-  "2022-06-24": 4222,
-  "2022-06-25": 4225,
-  "2022-06-26": 4226,
-  "2022-06-27": 4227,
-  "2022-06-28": 4228,
-  "2022-06-29": 4230,
-  "2022-06-30": 4232,
-  "2022-07-01": 4237,
-  "2022-07-02": 4238,
-  "2022-07-03": 4240,
-  "2022-07-04": 4240,
-  "2022-07-05": 4240,
-  "2022-07-06": 4240,
-  "2022-07-07": 4245,
-  "2022-07-08": 4242,
-  "2022-07-09": 4241,
-  "2022-07-10": 4244,
-  "2022-07-11": 4246,
-  "2022-07-12": 4248,
-  "2022-07-13": 4254,
-  "2022-07-14": 4255,
-  "2022-07-15": 4258,
-  "2022-07-16": 4260,
-  "2022-07-17": 4266,
-  "2022-07-18": 4270,
-  "2022-07-19": 4270,
-  "2022-07-20": 4269,
-  "2022-07-21": 4270,
-  "2022-07-22": 4274,
-  "2022-07-23": 4278,
-  "2022-07-24": 4280,
-  "2022-07-25": 4281,
-  "2022-07-26": 4282,
-  "2022-07-27": 4285,
-  "2022-07-28": 4286,
-  "2022-07-29": 4288,
-  "2022-07-30": 4291,
-  "2022-07-31": 4291,
-  "2022-08-01": 4294,
-  "2022-08-02": 4300,
-  "2022-08-03": 4300,
-  "2022-08-04": 4307,
-  "2022-08-05": 4312,
-  "2022-08-06": 4316,
-  "2022-08-07": 4318,
-  "2022-08-08": 4320,
-  "2022-08-09": 4319,
-  "2022-08-10": 4320,
-  "2022-08-11": 4324,
-  "2022-08-12": 4323,
-  "2022-08-13": 4326,
-  "2022-08-14": 4329,
-  "2022-08-15": 4335,
-  "2022-08-16": 4337,
-  "2022-08-17": 4344,
-  "2022-08-18": 4343,
-  "2022-08-19": 4345,
-  "2022-08-20": 4348,
-  "2022-08-21": 4351,
-  "2022-08-22": 4358,
-  "2022-08-23": 4363,
-  "2022-08-24": 4365,
-  "2022-08-25": 4373,
-  "2022-08-26": 4377,
-  "2022-08-27": 4380,
-  "2022-08-28": 4382,
-  "2022-08-29": 4385,
-  "2022-08-30": 4389,
-  "2022-08-31": 4389,
-  "2022-09-01": 4391,
-  "2022-09-02": 4390,
-  "2022-09-03": 4392,
-  "2022-09-04": 4395,
-  "2022-09-05": 4398,
-  "2022-09-06": 4400,
-  "2022-09-07": 4405,
-  "2022-09-09": 4411,
-  "2022-09-10": 4413,
-  "2022-09-11": 4414,
-  "2022-09-12": 4420,
-  "2022-09-13": 4423,
-  "2022-09-15": 4423,
-  "2022-09-16": 4426,
-  "2022-09-17": 4429,
-  "2022-09-18": 4432,
-  "2022-09-19": 4434,
-  "2022-09-20": 4435,
-  "2022-09-21": 4437,
-  "2022-09-22": 4438,
-  "2022-09-23": 4440,
-  "2022-09-24": 4440,
-  "2022-09-25": 4445,
-  "2022-09-26": 4446,
-  "2022-09-27": 4450,
-  "2022-09-28": 4451,
-  "2022-09-29": 4453,
-  "2022-09-30": 4454,
-  "2022-10-01": 4456,
-  "2022-10-02": 4460,
-  "2022-10-03": 4461,
-  "2022-10-04": 4462,
-  "2022-10-05": 4463,
-  "2022-10-06": 4469,
-  "2022-10-07": 4475,
-  "2022-10-08": 4476,
-  "2022-10-09": 4481,
-  "2022-10-10": 4481,
-  "2022-10-11": 4484,
-  "2022-10-12": 4486,
-  "2022-10-13": 4490,
-  "2022-10-14": 4490,
-  "2022-10-15": 4489,
-  "2022-10-16": 4490,
-  "2022-10-17": 4494,
-  "2022-10-18": 4494,
-  "2022-10-19": 4494,
-  "2022-10-20": 4495,
-  "2022-10-21": 4499,
-  "2022-10-22": 4502,
-  "2022-10-23": 4503,
-  "2022-10-24": 4506,
-  "2022-10-25": 4509,
-  "2022-10-26": 4507,
-  "2022-10-27": 4508,
-  "2022-10-28": 4510,
-  "2022-10-29": 4513,
-  "2022-10-30": 4519,
-  "2022-10-31": 4523,
-  "2022-11-01": 4524,
-  "2022-11-02": 4526,
-  "2022-11-03": 4529,
-  "2022-11-04": 4539,
-  "2022-11-05": 4541,
-  "2022-11-06": 4543,
-  "2022-11-07": 4542,
-  "2022-11-08": 4542,
-  "2022-11-09": 4544,
-  "2022-11-10": 4547,
-  "2022-11-11": 4554,
-  "2022-11-12": 4555,
-  "2022-11-13": 4556,
-  "2022-11-14": 4561,
-  "2022-11-15": 4563,
-  "2022-11-16": 4565,
-  "2022-11-17": 4564,
-  "2022-11-18": 4564,
-  "2022-11-19": 4565,
-  "2022-11-20": 4568,
-  "2022-11-21": 4572,
-  "2022-11-22": 4575,
-  "2022-11-23": 4576,
-  "2022-11-24": 4576,
-  "2022-11-25": 4581,
-  "2022-11-26": 4582,
-  "2022-11-27": 4585,
-  "2022-11-28": 4585,
-  "2022-11-29": 4589,
-  "2022-11-30": 4589,
-  "2022-12-01": 4595,
-  "2022-12-02": 4596,
-  "2022-12-03": 4599,
-  "2022-12-04": 4605,
-  "2022-12-05": 4605,
-  "2022-12-06": 4605,
-  "2022-12-07": 4605,
-  "2022-12-08": 4608,
-  "2022-12-09": 4612,
-  "2022-12-10": 4619,
-  "2022-12-11": 4623,
-  "2022-12-12": 4629,
-  "2022-12-13": 4633,
-  "2022-12-14": 4637,
-  "2022-12-15": 4639,
-  "2022-12-16": 4644,
-  "2022-12-17": 4643,
-  "2022-12-18": 4644,
-  "2022-12-19": 4644,
-  "2022-12-20": 4646,
-  "2022-12-21": 4646,
-  "2022-12-22": 4647,
-  "2022-12-24": 4651,
-  "2022-12-25": 4653,
-  "2022-12-26": 4656,
-  "2022-12-27": 4656,
-  "2022-12-28": 4659,
-  "2022-12-29": 4658,
-  "2022-12-30": 4661,
-  "2022-12-31": 4667,
-  "2023-01-01": 4673,
-  "2023-01-02": 4677,
-  "2023-01-03": 4678,
-  "2023-01-04": 4679,
-  "2023-01-05": 4681,
-  "2023-01-06": 4687,
-  "2023-01-07": 4687,
-  "2023-01-08": 4688,
-  "2023-01-09": 4688,
-  "2023-01-10": 4690,
-  "2023-01-11": 4692,
-  "2023-01-12": 4693,
-  "2023-01-13": 4696,
-  "2023-01-14": 4696,
-  "2023-01-15": 4698,
-  "2023-01-16": 4700,
-  "2023-01-17": 4706,
-  "2023-01-18": 4706,
-  "2023-01-19": 4707,
-  "2023-01-20": 4709,
-  "2023-01-21": 4712,
-  "2023-01-22": 4712,
-  "2023-01-23": 4713,
-  "2023-01-24": 4715,
-  "2023-01-25": 4716,
-  "2023-01-26": 4719,
-  "2023-01-27": 4722,
-  "2023-01-28": 4724,
-  "2023-01-29": 4726,
-  "2023-01-30": 4732,
-  "2023-01-31": 4732,
-  "2023-02-01": 4738,
-  "2023-02-02": 4741,
-  "2023-02-03": 4742,
-  "2023-02-04": 4741,
-  "2023-02-05": 4744,
-  "2023-02-06": 4748,
-  "2023-02-07": 4750,
-  "2023-02-08": 4754,
-  "2023-02-09": 4754,
-  "2023-02-10": 4755,
-  "2023-02-11": 4756,
-  "2023-02-12": 4754,
-  "2023-02-13": 4755,
-  "2023-02-14": 4755,
-  "2023-02-15": 4758,
-  "2023-02-16": 4758,
-  "2023-02-17": 4764,
-  "2023-02-18": 4766,
-  "2023-02-19": 4766,
-  "2023-02-20": 4766,
-  "2023-02-21": 4775,
-  "2023-02-22": 4778,
-  "2023-02-23": 4782,
-  "2023-02-24": 4786,
-  "2023-02-25": 4789,
-  "2023-02-26": 4795,
-  "2023-02-27": 4801,
-  "2023-02-28": 4801,
-  "2023-03-01": 4803,
-  "2023-03-02": 4804,
-  "2023-03-03": 4811,
-  "2023-03-04": 4815,
-  "2023-03-05": 4824,
-  "2023-03-06": 4824,
-  "2023-03-07": 4825,
-  "2023-03-08": 4827,
-  "2023-03-09": 4828,
-  "2023-03-10": 4829,
-  "2023-03-11": 4832,
-  "2023-03-12": 4832,
-  "2023-03-13": 4836,
-  "2023-03-14": 4843,
-  "2023-03-15": 4848,
-  "2023-03-16": 4848,
-  "2023-03-17": 4848,
-  "2023-03-18": 4858,
-  "2023-03-19": 4858,
-  "2023-03-20": 4865,
-  "2023-03-21": 4864,
-  "2023-03-22": 4864,
-  "2023-03-23": 4864,
-  "2023-03-24": 4864,
-  "2023-03-25": 4868,
-  "2023-03-26": 4868,
-  "2023-03-27": 4872,
-  "2023-03-28": 4876,
-  "2023-03-29": 4881,
-  "2023-03-30": 4885,
-  "2023-03-31": 4885,
-  "2023-04-01": 4891,
-  "2023-04-02": 4893,
-  "2023-04-03": 4897,
-  "2023-04-04": 4900,
-  "2023-04-05": 4905,
-  "2023-04-06": 4904,
-  "2023-04-07": 4909,
-  "2023-04-09": 4911,
-  "2023-04-10": 4913,
-  "2023-04-11": 4916,
-  "2023-04-12": 4916,
-  "2023-04-13": 4919,
-  "2023-04-14": 4922,
-  "2023-04-15": 4924,
-  "2023-04-16": 4926,
-  "2023-04-17": 4926,
-  "2023-04-18": 4926,
-  "2023-04-19": 4929,
-  "2023-04-20": 4929,
-  "2023-04-21": 4932,
-  "2023-04-22": 4935,
-  "2023-04-23": 4940,
-  "2023-04-24": 4946,
-  "2023-04-25": 4949,
-  "2023-04-26": 4952,
-  "2023-04-27": 4956,
-  "2023-04-28": 4958,
-  "2023-04-29": 4961,
-  "2023-04-30": 4962,
-  "2023-05-01": 4967,
-  "2023-05-02": 4970,
-  "2023-05-03": 4974,
-  "2023-05-04": 4972,
-  "2023-05-05": 4975,
-  "2023-05-06": 4974,
-  "2023-05-07": 4979,
-  "2023-05-08": 4981,
-  "2023-05-09": 4983,
-  "2023-05-10": 4983,
-  "2023-05-11": 4984,
-  "2023-05-12": 4986,
-  "2023-05-13": 4988,
-  "2023-05-14": 4990,
-  "2023-05-15": 4994,
-  "2023-05-16": 4994,
-  "2023-05-17": 4993,
-  "2023-05-18": 4994,
-  "2023-05-19": 4995,
-  "2023-05-20": 4999,
-  "2023-05-21": 4999,
-  "2023-05-22": 4999,
-  "2023-05-23": 5003,
-  "2023-05-24": 5008,
-  "2023-05-25": 5007,
-  "2023-05-26": 5009,
-  "2023-05-27": 5010,
-  "2023-05-28": 5012,
-  "2023-05-29": 5012,
-  "2023-05-30": 5018,
-  "2023-05-31": 5021,
-  "2023-06-01": 5024,
-  "2023-06-02": 5023,
-  "2023-06-03": 5024,
-  "2023-06-04": 5027,
-  "2023-06-05": 5029,
-  "2023-06-06": 5035,
-  "2023-06-07": 5039,
-  "2023-06-08": 5045,
-  "2023-06-09": 5047,
-  "2023-06-10": 5049,
-  "2023-06-11": 5055,
-  "2023-06-12": 5059,
-  "2023-06-13": 5061,
-  "2023-06-14": 5064,
-  "2023-06-15": 5068,
-  "2023-06-16": 5069,
-  "2023-06-17": 5071,
-  "2023-06-18": 5072,
-  "2023-06-19": 5073,
-  "2023-06-20": 5079,
-  "2023-06-21": 5086,
-  "2023-06-22": 5088,
-  "2023-06-23": 5092,
-  "2023-06-24": 5093,
-  "2023-06-25": 5096,
-  "2023-06-26": 5101,
-  "2023-06-27": 5102,
-  "2023-06-28": 5105,
-  "2023-06-29": 5109,
-  "2023-06-30": 5111,
-  "2023-07-01": 5120,
-  "2023-07-02": 5120,
-  "2023-07-03": 5121,
-  "2023-07-04": 5121,
-  "2023-07-05": 5124,
-  "2023-07-06": 5135,
-  "2023-07-07": 5135,
-  "2023-07-08": 5135,
-  "2023-07-09": 5143,
-  "2023-07-10": 5148,
-  "2023-07-11": 5150,
-  "2023-07-12": 5151,
-  "2023-07-13": 5151,
-  "2023-07-14": 5151,
-  "2023-07-15": 5152,
-  "2023-07-16": 5159,
-  "2023-07-17": 5160,
-  "2023-07-18": 5161,
-  "2023-07-19": 5166,
-  "2023-07-20": 5166,
-  "2023-07-21": 5174,
-  "2023-07-22": 5176,
-  "2023-07-23": 5179,
-  "2023-07-24": 5184,
-  "2023-07-25": 5187,
-  "2023-07-26": 5190,
-  "2023-07-27": 5194,
-  "2023-07-28": 5194,
-  "2023-07-29": 5196,
-  "2023-07-30": 5196,
-  "2023-07-31": 5204,
-  "2023-08-01": 5206,
-  "2023-08-02": 5213,
-  "2023-08-03": 5217,
-  "2023-08-04": 5220,
-  "2023-08-05": 5222,
-  "2023-08-06": 5228,
-  "2023-08-07": 5228,
-  "2023-08-08": 5228,
-  "2023-08-09": 5228,
-  "2023-08-10": 5231,
-  "2023-08-11": 5235,
-  "2023-08-12": 5235,
-  "2023-08-13": 5235,
-  "2023-08-14": 5235,
-  "2023-08-15": 5235,
-  "2023-08-16": 5235,
-  "2023-08-17": 5235,
-  "2023-08-18": 5235,
-  "2023-08-19": 5235,
-  "2023-08-20": 5263,
-  "2023-08-21": 5263,
-  "2023-08-22": 5267,
-  "2023-08-23": 5267,
-  "2023-08-24": 5267,
-  "2023-08-25": 5267,
-  "2023-08-26": 5278,
-  "2023-08-27": 5278,
-  "2023-08-28": 5278,
-  "2023-08-29": 5278,
-  "2023-08-30": 5278,
-  "2023-08-31": 5293,
-  "2023-09-01": 5294,
-  "2023-09-02": 5294,
-  "2023-09-03": 5294,
-  "2023-09-04": 5294,
-  "2023-09-05": 5294,
-  "2023-09-06": 5294,
-  "2023-09-07": 5294,
-  "2023-09-08": 5294,
-  "2023-09-09": 5294,
-  "2023-09-10": 5294,
-  "2023-09-11": 5294,
-  "2023-09-12": 5294,
-  "2023-09-13": 5294,
-  "2023-09-14": 5294,
-  "2023-09-15": 5294,
-  "2023-09-16": 5294,
-  "2023-09-17": 5294,
-  "2023-09-18": 5294,
-  "2023-09-19": 5294,
-  "2023-09-20": 5294,
-  "2023-09-21": 5294,
-  "2023-09-22": 5359,
-  "2023-09-23": 5359,
-  "2023-09-24": 5359,
-  "2023-09-25": 5359,
-  "2023-09-26": 5365,
-  "2023-09-27": 5365,
-  "2023-09-28": 5365,
-  "2023-09-29": 5365,
-  "2023-09-30": 5365,
-  "2023-10-01": 5365,
-  "2023-10-02": 5365,
-  "2023-10-03": 5365,
-  "2023-10-04": 5365,
-  "2023-10-05": 5365,
-  "2023-10-06": 5365,
-  "2023-10-07": 5365,
-  "2023-10-08": 5365,
-  "2023-10-09": 5365,
-  "2023-10-10": 5365,
-  "2023-10-11": 5365,
-  "2023-10-12": 5365,
-  "2023-10-13": 5365,
-  "2023-10-14": 5365,
-  "2023-10-15": 5365,
-  "2023-10-16": 5365,
-  "2023-10-17": 5365,
-  "2023-10-18": 5365,
-  "2023-10-19": 5365,
-  "2023-10-20": 5365,
-  "2023-10-21": 5365,
-  "2023-10-22": 5365,
-  "2023-10-23": 5365,
-  "2023-10-24": 5365,
-  "2023-10-25": 5365,
-  "2023-10-26": 5365,
-  "2023-10-27": 5365,
-  "2023-10-28": 5365,
-  "2023-10-29": 5365,
-  "2023-10-30": 5365,
-  "2023-10-31": 5365,
-  "2023-11-01": 5365,
-  "2023-11-02": 5365,
-  "2023-11-03": 5365,
-  "2023-11-04": 5365,
-  "2023-11-05": 5365,
-  "2023-11-06": 5365,
-  "2023-11-07": 5365,
-  "2023-11-08": 5365,
-  "2023-11-09": 5365,
-  "2023-11-10": 5365,
-  "2023-11-11": 5432,
-  "2023-11-12": 5432,
-  "2023-11-13": 5432,
-  "2023-11-14": 5432,
-  "2023-11-15": 5432,
-  "2023-11-16": 5432,
-  "2023-11-17": 5432,
-  "2023-11-18": 5432,
-  "2023-11-19": 5432,
-  "2023-11-20": 5432,
-  "2023-11-21": 5432,
-  "2023-11-22": 5432,
-  "2023-11-23": 5432,
-  "2023-11-24": 5432,
-  "2023-11-25": 5432,
-  "2023-11-26": 5432,
-  "2023-11-27": 5432,
-  "2023-11-28": 5432,
-  "2023-11-29": 5432,
-  "2023-11-30": 5432,
-  "2023-12-01": 5432,
-  "2023-12-02": 5432,
-  "2023-12-03": 5432,
-  "2023-12-04": 5432,
-  "2023-12-05": 5432,
-  "2023-12-06": 5432,
-  "2023-12-07": 5432,
-  "2023-12-08": 5432,
-  "2023-12-09": 5432,
-  "2023-12-10": 5432,
-  "2023-12-11": 5432,
-  "2023-12-12": 5432,
-  "2023-12-13": 5432,
-  "2023-12-14": 5481,
-  "2023-12-15": 5481,
-  "2023-12-16": 5479,
-  "2023-12-17": 5482,
-  "2023-12-18": 5484,
-  "2023-12-19": 5490,
-  "2023-12-20": 5491,
-  "2023-12-21": 5492,
-  "2023-12-22": 5494,
-  "2023-12-23": 5494,
-  "2023-12-24": 5495,
-  "2023-12-25": 5498,
-  "2023-12-26": 5501,
-  "2023-12-27": 5503,
-  "2023-12-30": 5511,
-  "2023-12-31": 5511,
-  "2024-01-01": 5511,
-  "2024-01-02": 5514,
-  "2024-01-03": 5516
+  "2024-01-17": 5524,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Toro. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Toro",
+  "tracks": [
+    {
+      "album": {
+        "name": "Con Mucho Ritmo",
+        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "A la Media Noche",
+      "url": "https://open.spotify.com/track/5IWjqjTkrXqQTouW3jkRNX"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "Ahora Puedo Mirar Claro",
+      "url": "https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq"
+    },
+    {
+      "album": {
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 128106,
+      "name": "Ando Buscando un Amor",
+      "url": "https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I"
+    },
+    {
+      "album": {
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/43e0OdJ7OCtdhmMKU6ERM4"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Bailala Baila",
+      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 173200,
+      "name": "Bonito y Sabroso",
+      "url": "https://open.spotify.com/track/7z4JT7Xxo7jZ4LRCHZptGV"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147680,
+      "name": "Camino de Guanajuato Ay Jalisco",
+      "url": "https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Carta Perdida - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 161453,
+      "name": "Chivo Chivon Chivito",
+      "url": "https://open.spotify.com/track/41eQTl3PY9oNhOojrHZOr8"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia, Vol. 2",
+        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "Como Paloma Errante",
+      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 178840,
+      "name": "Corrido de Chihuhua Sonora Querida",
+      "url": "https://open.spotify.com/track/4nxrWWGSI4V03zjUT7ds8Q"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 139160,
+      "name": "Cuahutemoc",
+      "url": "https://open.spotify.com/track/5kKzWn7o5HdszEL5s3VvDk"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 168093,
+      "name": "Cuatro Caminos - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4jYAKZXRsEZ2PtK1uG8d3z"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 232706,
+      "name": "Cumbia Opera",
+      "url": "https://open.spotify.com/track/76K2mVFJFLpKajgYLAdnmp"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/7IvILOjGYxYa7eUsiDQjwl"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        },
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 176000,
+      "name": "C\u00f3mo Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1QeTrtktIEFqZXtSKvuzxM"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137906,
+      "name": "Debajo de los Laureles - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134106,
+      "name": "Dichos y Refranes",
+      "url": "https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/20cJBbPZFn5BmqBbwxuHXS"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario Grandes Exitos",
+        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "El Cotorro Enamorado - Banda Sinaloense",
+      "url": "https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 198280,
+      "name": "El Gavilan",
+      "url": "https://open.spotify.com/track/3UYUgdnBCbK8jgTKExNy1E"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 236626,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "El Hijo Desobediente - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/3PwvDaEt34JSDyAWR086hp"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "El Moro de Cumpas - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "El Pajaro Chogui",
+      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "El Parrandero",
+      "url": "https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "El Pescuezo del Pollo",
+      "url": "https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "El Recogedor",
+      "url": "https://open.spotify.com/track/75FxBR7bvIvLA5ueut7RTM"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140920,
+      "name": "El Remedio - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 232333,
+      "name": "El Soltero",
+      "url": "https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "El Toro Zacatecano",
+      "url": "https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario Grandes Exitos",
+        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 147146,
+      "name": "El Toro Zacatecano - Banda Sinaloense",
+      "url": "https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 200080,
+      "name": "Esa Pared",
+      "url": "https://open.spotify.com/track/20S29aqxj8pXq2pyeKM6KL"
+    },
+    {
+      "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246653,
+      "name": "Funk Town",
+      "url": "https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6"
+    },
+    {
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140080,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 168733,
+      "name": "La Calandria - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "La Calandria Canta",
+      "url": "https://open.spotify.com/track/6CIOQAVklQM6h2N98e9uc8"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 173346,
+      "name": "La Falda Cortita",
+      "url": "https://open.spotify.com/track/0yJtjeAoUc2yYxpPVejqES"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "La Leccion",
+      "url": "https://open.spotify.com/track/61pAsXfJhNvB8DNg4ROCb8"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151253,
+      "name": "La Mafafa",
+      "url": "https://open.spotify.com/track/3Kisqq9Mr4DzHmffQsiY4Q"
+    },
+    {
+      "album": {
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 176093,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/0Mvx3TJjdU40Y0h08kwfKB"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Chicago Se Muri\u00f3",
+        "url": "https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK"
+      },
+      "artists": [
+        {
+          "name": "Los Estrafalarios",
+          "url": "https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf"
+        },
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 162360,
+      "name": "La Noche Que Chicago Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "La Ruca No Era Ruca",
+      "url": "https://open.spotify.com/track/7wj9uIM1WvyOPUxFmEcvpY"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "La Tijanita",
+      "url": "https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "La Tiznada",
+      "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 188426,
+      "name": "Lamento de Amor",
+      "url": "https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128213,
+      "name": "Las Mulas de Jaramillo",
+      "url": "https://open.spotify.com/track/3I6wNOHGBhvFFUxsKsLNWL"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168053,
+      "name": "Las Nieves de Enero",
+      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 177493,
+      "name": "Las Rejas No Matan - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/404UyA1jbIWYi9m6Z9b91X"
+    },
+    {
+      "album": {
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Los Gringos",
+      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 146786,
+      "name": "Los Laureles - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6ejHJrYMTWjCg9AdZ2yNLZ"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/1PjHhGK3Y1uAZsxrc0P2cM"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164786,
+      "name": "Me Caiste del Cielo",
+      "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 195946,
+      "name": "Me Rio de Miedo",
+      "url": "https://open.spotify.com/track/6WyCpcJaffr4lE9dmw0CiE"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 166000,
+      "name": "Mi Amiga Mi Esposa y Mi Amante",
+      "url": "https://open.spotify.com/track/1D72stKLFdW30djzszFRgc"
+    },
+    {
+      "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 164733,
+      "name": "Mi Matamoros Querido",
+      "url": "https://open.spotify.com/track/5nZpxQ5za8QNYALVpcBZip"
+    },
+    {
+      "album": {
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "Miraron Llorar un Hombre",
+      "url": "https://open.spotify.com/track/1obDcJ0spfjy2y44aj9BFq"
+    },
+    {
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226746,
+      "name": "No Voy a Llorar",
+      "url": "https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 155026,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/0hjeEnYSntYGl9yQysqBv4"
+    },
+    {
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Oh Que Gusto de Volverte a Ver",
+      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Pachuco Bailarin",
+      "url": "https://open.spotify.com/track/51Zz6TacdyEsi5JWiojkqu"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 159786,
+      "name": "Pirulin Pim Pom",
+      "url": "https://open.spotify.com/track/6D7DebsQ7Wmq7f4y50NEXv"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147493,
+      "name": "Polvo y Olvido - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/1elNKL1K8OrcXYNBpgTweQ"
+    },
+    {
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128053,
+      "name": "Por Fin un Caminito",
+      "url": "https://open.spotify.com/track/12KjCCPOKS3jmmLioALM1e"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 145213,
+      "name": "Que Se Largue Pa la Porra",
+      "url": "https://open.spotify.com/track/3q0veWQKp1DZkvNrqSW043"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Rios de Babilonia",
+      "url": "https://open.spotify.com/track/23yFtKPA217x9g6iyPHDeK"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 181133,
+      "name": "Rios de Babilonia - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4A0VKEol3raESTNxVT6CyU"
+    },
+    {
+      "album": {
+        "name": "Mano a Mano y Quebrando",
+        "url": "https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 216880,
+      "name": "Ritmo Sabroson",
+      "url": "https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb"
+    },
+    {
+      "album": {
+        "name": "Ni en Defensa Propia, Vol. 3",
+        "url": "https://open.spotify.com/album/7CsBGFFt21lKALK1IStoHB"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
+          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 120200,
+      "name": "Rumbo al Sur",
+      "url": "https://open.spotify.com/track/1UobfNlX7O6d15idejLEBj"
+    },
+    {
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 184253,
+      "name": "Sabor Amargo",
+      "url": "https://open.spotify.com/track/5pfKvfTbFIhOL5JUe1Cshr"
+    },
+    {
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117920,
+      "name": "Serenata - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4sjbR5EbyRz6MHBeF7zRJR"
+    },
+    {
+      "album": {
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 192266,
+      "name": "Solo Cumbia",
+      "url": "https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c"
+    },
+    {
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136386,
+      "name": "Tampico Hermoso San Luis Potosi",
+      "url": "https://open.spotify.com/track/32yy8yQftpKs6nI0nlmnfp"
+    },
+    {
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+    },
+    {
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 237120,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA"
+    },
+    {
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Ya Llego la Banda Toro",
+      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v"
 }

@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": "2024-01-12",
       "duration_ms": 171758,
       "name": "301",
       "url": "https://open.spotify.com/track/28vTK1SLOyjSbldzGlxkuO"
@@ -1707,6 +1707,32 @@
     },
     {
       "album": {
+        "name": "El Movimiento: The Mixtape",
+        "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
@@ -1812,7 +1838,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 276926,
       "name": "Dile a Ella",
       "url": "https://open.spotify.com/track/1X78fIDc2MXuaXCp0JqJh7"
@@ -2012,7 +2038,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 203666,
       "name": "Dos Palgas",
       "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
@@ -2692,7 +2718,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
@@ -4948,7 +4974,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 195816,
       "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
       "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
@@ -6874,7 +6900,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 197032,
       "name": "Solo Es Mejor",
       "url": "https://open.spotify.com/track/3nV7QGv51syv5DoXKeo27C"

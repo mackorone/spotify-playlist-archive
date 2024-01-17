@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
+  "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: NAV",
   "name": "Hip-Hop Rewind",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 204000,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 160000,
       "name": "Brk Frm Nrml",
       "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
@@ -582,6 +582,32 @@
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN"
+    },
+    {
+      "album": {
+        "name": "002 / LOVE ME",
+        "url": "https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266599,
+      "name": "Come Inside (Kaytranada Edit)",
+      "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
     },
     {
       "album": {
@@ -2046,7 +2072,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 208670,
       "name": "When The Moving Stops",
       "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"

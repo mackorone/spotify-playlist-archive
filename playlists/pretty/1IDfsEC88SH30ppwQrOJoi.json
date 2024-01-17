@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14705,
+  "num_followers": 14644,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "MjA2OCxhMmFkNWU2ZjlhNDM0ZjFjMWMyOGU4Y2I3YWNlOTk0MzNkNDUwNmJk",
+  "snapshot_id": "MjA3MixhNTgzN2M5MDgxMWE4MDYyZWExZDljYjdkODdmYjNmMTc2Yjg5ZTM3",
   "tracks": [
     {
       "added_at": "2023-12-01 06:40:58",
@@ -4087,6 +4087,58 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-01-08 19:38:19",
+      "album": {
+        "name": "More Amor Por Favor",
+        "url": "https://open.spotify.com/album/3mus1ZKMKim10fbXVXyXvO"
+      },
+      "artists": [
+        {
+          "name": "Dylan Linde",
+          "url": "https://open.spotify.com/artist/46TgAyti9rSypJlfwUYOso"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "More Amor Por Favor",
+      "url": "https://open.spotify.com/track/60udDsJRykIoU3NEkIxQhR"
+    },
+    {
+      "added_at": "2024-01-08 19:39:50",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Dance To The Music",
+      "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
+    },
+    {
+      "added_at": "2024-01-08 19:45:42",
+      "album": {
+        "name": "Foreign Love",
+        "url": "https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy"
+      },
+      "artists": [
+        {
+          "name": "MISS DRE",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Foreign Love",
+      "url": "https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx"
     }
   ],
   "unique_name": "Ultra Club Hits",

@@ -1,735 +1,1113 @@
 {
-  "2021-12-25": 188094,
-  "2021-12-26": 188131,
-  "2021-12-27": 188249,
-  "2021-12-28": 188248,
-  "2021-12-29": 188312,
-  "2021-12-30": 188374,
-  "2021-12-31": 188426,
-  "2022-01-01": 188519,
-  "2022-01-02": 188535,
-  "2022-01-03": 188571,
-  "2022-01-04": 188636,
-  "2022-01-05": 188695,
-  "2022-01-06": 188753,
-  "2022-01-07": 188805,
-  "2022-01-08": 188888,
-  "2022-01-09": 188888,
-  "2022-01-10": 188942,
-  "2022-01-11": 188942,
-  "2022-01-12": 188999,
-  "2022-01-13": 188999,
-  "2022-01-14": 188999,
-  "2022-01-15": 188999,
-  "2022-01-16": 188999,
-  "2022-01-17": 188999,
-  "2022-01-18": 188999,
-  "2022-01-19": 188999,
-  "2022-01-20": 188999,
-  "2022-01-21": 188999,
-  "2022-01-22": 188999,
-  "2022-01-23": 188999,
-  "2022-01-24": 188999,
-  "2022-01-25": 188999,
-  "2022-01-26": 188999,
-  "2022-01-27": 188999,
-  "2022-01-28": 188999,
-  "2022-01-29": 188999,
-  "2022-01-30": 188999,
-  "2022-01-31": 188999,
-  "2022-02-01": 188999,
-  "2022-02-02": 188999,
-  "2022-02-03": 188999,
-  "2022-02-04": 188999,
-  "2022-02-05": 188999,
-  "2022-02-06": 188999,
-  "2022-02-07": 188999,
-  "2022-02-08": 188999,
-  "2022-02-09": 188999,
-  "2022-02-10": 188999,
-  "2022-02-11": 188999,
-  "2022-02-12": 188999,
-  "2022-02-13": 188999,
-  "2022-02-14": 188999,
-  "2022-02-15": 188999,
-  "2022-02-16": 188999,
-  "2022-02-17": 188999,
-  "2022-02-18": 188999,
-  "2022-02-19": 188999,
-  "2022-02-20": 188999,
-  "2022-02-21": 188999,
-  "2022-02-22": 188999,
-  "2022-02-23": 188999,
-  "2022-02-24": 188999,
-  "2022-02-25": 188999,
-  "2022-02-26": 188999,
-  "2022-02-27": 188999,
-  "2022-02-28": 188999,
-  "2022-03-01": 188999,
-  "2022-03-02": 188999,
-  "2022-03-03": 188999,
-  "2022-03-04": 188999,
-  "2022-03-05": 188999,
-  "2022-03-06": 188999,
-  "2022-03-07": 188999,
-  "2022-03-08": 188999,
-  "2022-03-09": 188999,
-  "2022-03-10": 188999,
-  "2022-03-11": 188999,
-  "2022-03-12": 188999,
-  "2022-03-13": 188999,
-  "2022-03-14": 188999,
-  "2022-03-15": 188999,
-  "2022-03-16": 188999,
-  "2022-03-17": 188999,
-  "2022-03-18": 188999,
-  "2022-03-19": 188999,
-  "2022-03-20": 188999,
-  "2022-03-21": 188999,
-  "2022-03-22": 188999,
-  "2022-03-23": 188999,
-  "2022-03-24": 188999,
-  "2022-03-25": 188999,
-  "2022-03-26": 188999,
-  "2022-03-27": 188999,
-  "2022-03-28": 188999,
-  "2022-03-30": 188999,
-  "2022-03-31": 188999,
-  "2022-04-01": 188999,
-  "2022-04-02": 188999,
-  "2022-04-03": 188999,
-  "2022-04-04": 188999,
-  "2022-04-05": 188999,
-  "2022-04-06": 188999,
-  "2022-04-07": 188999,
-  "2022-04-08": 188999,
-  "2022-04-09": 188999,
-  "2022-04-10": 188999,
-  "2022-04-11": 188999,
-  "2022-04-12": 188999,
-  "2022-04-13": 188999,
-  "2022-04-14": 188999,
-  "2022-04-15": 188999,
-  "2022-04-16": 188999,
-  "2022-04-17": 188999,
-  "2022-04-18": 188999,
-  "2022-04-19": 188999,
-  "2022-04-20": 188999,
-  "2022-04-21": 188999,
-  "2022-04-22": 188999,
-  "2022-04-23": 188999,
-  "2022-04-24": 188999,
-  "2022-04-25": 188999,
-  "2022-04-26": 188999,
-  "2022-04-27": 188999,
-  "2022-04-28": 188999,
-  "2022-04-29": 188999,
-  "2022-04-30": 188999,
-  "2022-05-01": 188999,
-  "2022-05-02": 188999,
-  "2022-05-03": 188999,
-  "2022-05-04": 188999,
-  "2022-05-05": 188999,
-  "2022-05-06": 188999,
-  "2022-05-07": 188999,
-  "2022-05-08": 188999,
-  "2022-05-09": 188999,
-  "2022-05-10": 188999,
-  "2022-05-11": 188999,
-  "2022-05-12": 188999,
-  "2022-05-13": 188999,
-  "2022-05-14": 188999,
-  "2022-05-15": 188999,
-  "2022-05-16": 188999,
-  "2022-05-17": 188999,
-  "2022-05-18": 188999,
-  "2022-05-19": 188999,
-  "2022-05-20": 188999,
-  "2022-05-21": 188999,
-  "2022-05-22": 188999,
-  "2022-05-23": 188999,
-  "2022-05-24": 188999,
-  "2022-05-25": 188999,
-  "2022-05-26": 188999,
-  "2022-05-27": 188999,
-  "2022-05-28": 188999,
-  "2022-05-29": 188999,
-  "2022-05-30": 188999,
-  "2022-05-31": 188999,
-  "2022-06-01": 188999,
-  "2022-06-02": 188999,
-  "2022-06-03": 188999,
-  "2022-06-04": 188999,
-  "2022-06-05": 188999,
-  "2022-06-06": 188999,
-  "2022-06-07": 188999,
-  "2022-06-08": 188999,
-  "2022-06-09": 188999,
-  "2022-06-10": 188999,
-  "2022-06-11": 188999,
-  "2022-06-12": 188999,
-  "2022-06-13": 188999,
-  "2022-06-14": 188999,
-  "2022-06-15": 188999,
-  "2022-06-16": 188999,
-  "2022-06-17": 188999,
-  "2022-06-18": 188999,
-  "2022-06-19": 188999,
-  "2022-06-20": 188999,
-  "2022-06-21": 188999,
-  "2022-06-22": 188999,
-  "2022-06-23": 188999,
-  "2022-06-24": 188999,
-  "2022-06-25": 188999,
-  "2022-06-26": 188999,
-  "2022-06-27": 188999,
-  "2022-06-28": 188999,
-  "2022-06-29": 188999,
-  "2022-06-30": 188999,
-  "2022-07-01": 188999,
-  "2022-07-02": 188999,
-  "2022-07-03": 188999,
-  "2022-07-04": 188999,
-  "2022-07-05": 188999,
-  "2022-07-06": 188999,
-  "2022-07-07": 188999,
-  "2022-07-08": 188999,
-  "2022-07-09": 188999,
-  "2022-07-10": 188999,
-  "2022-07-11": 188999,
-  "2022-07-12": 188999,
-  "2022-07-13": 188999,
-  "2022-07-14": 188999,
-  "2022-07-15": 188999,
-  "2022-07-16": 188999,
-  "2022-07-17": 188999,
-  "2022-07-18": 188999,
-  "2022-07-19": 188999,
-  "2022-07-20": 188999,
-  "2022-07-21": 188999,
-  "2022-07-22": 188999,
-  "2022-07-23": 188999,
-  "2022-07-24": 188999,
-  "2022-07-25": 188999,
-  "2022-07-26": 188999,
-  "2022-07-27": 188999,
-  "2022-07-28": 188999,
-  "2022-07-29": 188999,
-  "2022-07-30": 188999,
-  "2022-07-31": 188999,
-  "2022-08-01": 188999,
-  "2022-08-02": 188999,
-  "2022-08-03": 188999,
-  "2022-08-04": 188999,
-  "2022-08-05": 188999,
-  "2022-08-06": 188999,
-  "2022-08-07": 188999,
-  "2022-08-08": 188999,
-  "2022-08-09": 188999,
-  "2022-08-10": 188999,
-  "2022-08-11": 188999,
-  "2022-08-12": 188999,
-  "2022-08-13": 188999,
-  "2022-08-14": 188999,
-  "2022-08-15": 188999,
-  "2022-08-16": 188999,
-  "2022-08-17": 188999,
-  "2022-08-18": 188999,
-  "2022-08-19": 188999,
-  "2022-08-20": 188999,
-  "2022-08-21": 188999,
-  "2022-08-22": 188999,
-  "2022-08-23": 188999,
-  "2022-08-24": 188999,
-  "2022-08-25": 188999,
-  "2022-08-26": 188999,
-  "2022-08-27": 188999,
-  "2022-08-28": 188999,
-  "2022-08-29": 188999,
-  "2022-08-30": 188999,
-  "2022-08-31": 188999,
-  "2022-09-01": 188999,
-  "2022-09-02": 188999,
-  "2022-09-03": 188999,
-  "2022-09-04": 188999,
-  "2022-09-05": 188999,
-  "2022-09-06": 188999,
-  "2022-09-07": 188999,
-  "2022-09-09": 188999,
-  "2022-09-10": 188999,
-  "2022-09-11": 188999,
-  "2022-09-12": 188999,
-  "2022-09-13": 188999,
-  "2022-09-15": 188999,
-  "2022-09-16": 188999,
-  "2022-09-17": 188999,
-  "2022-09-18": 188999,
-  "2022-09-19": 188999,
-  "2022-09-20": 188999,
-  "2022-09-21": 188999,
-  "2022-09-22": 188999,
-  "2022-09-23": 188999,
-  "2022-09-24": 188999,
-  "2022-09-25": 188999,
-  "2022-09-26": 188999,
-  "2022-09-27": 188999,
-  "2022-09-28": 188999,
-  "2022-09-29": 188999,
-  "2022-09-30": 188999,
-  "2022-10-01": 188999,
-  "2022-10-02": 188999,
-  "2022-10-03": 188999,
-  "2022-10-04": 188999,
-  "2022-10-05": 188999,
-  "2022-10-06": 188999,
-  "2022-10-07": 188999,
-  "2022-10-08": 188999,
-  "2022-10-09": 188999,
-  "2022-10-10": 188999,
-  "2022-10-11": 188999,
-  "2022-10-12": 188999,
-  "2022-10-13": 188999,
-  "2022-10-14": 188999,
-  "2022-10-15": 188999,
-  "2022-10-16": 188999,
-  "2022-10-17": 188999,
-  "2022-10-18": 188999,
-  "2022-10-19": 188999,
-  "2022-10-20": 188999,
-  "2022-10-21": 188999,
-  "2022-10-22": 188999,
-  "2022-10-23": 188999,
-  "2022-10-24": 188999,
-  "2022-10-25": 188999,
-  "2022-10-26": 188999,
-  "2022-10-27": 188999,
-  "2022-10-28": 188999,
-  "2022-10-29": 188999,
-  "2022-10-30": 188999,
-  "2022-10-31": 188999,
-  "2022-11-01": 188999,
-  "2022-11-02": 188999,
-  "2022-11-03": 188999,
-  "2022-11-04": 188999,
-  "2022-11-05": 188999,
-  "2022-11-06": 188999,
-  "2022-11-07": 188999,
-  "2022-11-08": 188999,
-  "2022-11-09": 188999,
-  "2022-11-10": 188999,
-  "2022-11-11": 188999,
-  "2022-11-12": 188999,
-  "2022-11-13": 188999,
-  "2022-11-14": 188999,
-  "2022-11-15": 188999,
-  "2022-11-16": 188999,
-  "2022-11-17": 188999,
-  "2022-11-18": 188999,
-  "2022-11-19": 188999,
-  "2022-11-20": 188999,
-  "2022-11-21": 188999,
-  "2022-11-22": 188999,
-  "2022-11-23": 188999,
-  "2022-11-24": 188999,
-  "2022-11-25": 188999,
-  "2022-11-26": 188999,
-  "2022-11-27": 188999,
-  "2022-11-28": 188999,
-  "2022-11-29": 188999,
-  "2022-11-30": 188999,
-  "2022-12-01": 188999,
-  "2022-12-02": 188999,
-  "2022-12-03": 188999,
-  "2022-12-04": 188999,
-  "2022-12-05": 188999,
-  "2022-12-06": 188999,
-  "2022-12-07": 188999,
-  "2022-12-08": 188999,
-  "2022-12-09": 188999,
-  "2022-12-10": 188999,
-  "2022-12-11": 188999,
-  "2022-12-12": 188999,
-  "2022-12-13": 188999,
-  "2022-12-14": 188999,
-  "2022-12-15": 188999,
-  "2022-12-16": 188999,
-  "2022-12-17": 188999,
-  "2022-12-18": 188999,
-  "2022-12-19": 188999,
-  "2022-12-20": 188999,
-  "2022-12-21": 188999,
-  "2022-12-22": 188999,
-  "2022-12-24": 188999,
-  "2022-12-25": 188999,
-  "2022-12-26": 188999,
-  "2022-12-27": 188999,
-  "2022-12-28": 188999,
-  "2022-12-29": 188999,
-  "2022-12-30": 188999,
-  "2022-12-31": 188999,
-  "2023-01-01": 188999,
-  "2023-01-02": 188999,
-  "2023-01-03": 188999,
-  "2023-01-04": 188999,
-  "2023-01-05": 188999,
-  "2023-01-06": 188999,
-  "2023-01-07": 188999,
-  "2023-01-08": 188999,
-  "2023-01-09": 188999,
-  "2023-01-10": 188999,
-  "2023-01-11": 188999,
-  "2023-01-12": 188999,
-  "2023-01-13": 188999,
-  "2023-01-14": 188999,
-  "2023-01-15": 188999,
-  "2023-01-16": 188999,
-  "2023-01-17": 188999,
-  "2023-01-18": 188999,
-  "2023-01-19": 188999,
-  "2023-01-20": 188999,
-  "2023-01-21": 188999,
-  "2023-01-22": 188999,
-  "2023-01-23": 188999,
-  "2023-01-24": 188999,
-  "2023-01-25": 188999,
-  "2023-01-26": 188999,
-  "2023-01-27": 188999,
-  "2023-01-28": 188999,
-  "2023-01-29": 188999,
-  "2023-01-30": 188999,
-  "2023-01-31": 188999,
-  "2023-02-01": 188999,
-  "2023-02-02": 188999,
-  "2023-02-03": 188999,
-  "2023-02-04": 188999,
-  "2023-02-05": 188999,
-  "2023-02-06": 188999,
-  "2023-02-07": 188999,
-  "2023-02-08": 188999,
-  "2023-02-09": 188999,
-  "2023-02-10": 188999,
-  "2023-02-11": 188999,
-  "2023-02-12": 188999,
-  "2023-02-13": 188999,
-  "2023-02-14": 188999,
-  "2023-02-15": 188999,
-  "2023-02-16": 188999,
-  "2023-02-17": 188999,
-  "2023-02-18": 188999,
-  "2023-02-19": 188999,
-  "2023-02-20": 188999,
-  "2023-02-21": 188999,
-  "2023-02-22": 188999,
-  "2023-02-23": 188999,
-  "2023-02-24": 188999,
-  "2023-02-25": 188999,
-  "2023-02-26": 188999,
-  "2023-02-27": 188999,
-  "2023-02-28": 188999,
-  "2023-03-01": 188999,
-  "2023-03-02": 188999,
-  "2023-03-03": 188999,
-  "2023-03-04": 188999,
-  "2023-03-05": 188999,
-  "2023-03-06": 188999,
-  "2023-03-07": 188999,
-  "2023-03-08": 188999,
-  "2023-03-09": 188999,
-  "2023-03-10": 188999,
-  "2023-03-11": 188999,
-  "2023-03-12": 188999,
-  "2023-03-13": 188999,
-  "2023-03-14": 188999,
-  "2023-03-15": 188999,
-  "2023-03-16": 188999,
-  "2023-03-17": 188999,
-  "2023-03-18": 188999,
-  "2023-03-19": 188999,
-  "2023-03-20": 188999,
-  "2023-03-21": 188999,
-  "2023-03-22": 188999,
-  "2023-03-23": 188999,
-  "2023-03-24": 188999,
-  "2023-03-25": 188999,
-  "2023-03-26": 188999,
-  "2023-03-27": 188999,
-  "2023-03-28": 188999,
-  "2023-03-29": 188999,
-  "2023-03-30": 188999,
-  "2023-03-31": 188999,
-  "2023-04-01": 188999,
-  "2023-04-02": 188999,
-  "2023-04-03": 188999,
-  "2023-04-04": 188999,
-  "2023-04-05": 188999,
-  "2023-04-06": 188999,
-  "2023-04-07": 188999,
-  "2023-04-09": 188999,
-  "2023-04-10": 188999,
-  "2023-04-11": 188999,
-  "2023-04-12": 188999,
-  "2023-04-13": 188999,
-  "2023-04-14": 188999,
-  "2023-04-15": 188999,
-  "2023-04-16": 188999,
-  "2023-04-17": 188999,
-  "2023-04-18": 188999,
-  "2023-04-19": 188999,
-  "2023-04-20": 188999,
-  "2023-04-21": 188999,
-  "2023-04-22": 188999,
-  "2023-04-23": 188999,
-  "2023-04-24": 188999,
-  "2023-04-25": 188999,
-  "2023-04-26": 188999,
-  "2023-04-27": 188999,
-  "2023-04-28": 188999,
-  "2023-04-29": 188999,
-  "2023-04-30": 188999,
-  "2023-05-01": 188999,
-  "2023-05-02": 188999,
-  "2023-05-03": 188999,
-  "2023-05-04": 188999,
-  "2023-05-05": 188999,
-  "2023-05-06": 188999,
-  "2023-05-07": 188999,
-  "2023-05-08": 188999,
-  "2023-05-09": 188999,
-  "2023-05-10": 188999,
-  "2023-05-11": 188999,
-  "2023-05-12": 188999,
-  "2023-05-13": 188999,
-  "2023-05-14": 188999,
-  "2023-05-15": 188999,
-  "2023-05-16": 188999,
-  "2023-05-17": 188999,
-  "2023-05-18": 188999,
-  "2023-05-19": 188999,
-  "2023-05-20": 188999,
-  "2023-05-21": 188999,
-  "2023-05-22": 188999,
-  "2023-05-23": 188999,
-  "2023-05-24": 188999,
-  "2023-05-25": 188999,
-  "2023-05-26": 188999,
-  "2023-05-27": 188999,
-  "2023-05-28": 188999,
-  "2023-05-29": 188999,
-  "2023-05-30": 188999,
-  "2023-05-31": 188999,
-  "2023-06-01": 188999,
-  "2023-06-02": 188999,
-  "2023-06-03": 188999,
-  "2023-06-04": 188999,
-  "2023-06-05": 188999,
-  "2023-06-06": 188999,
-  "2023-06-07": 188999,
-  "2023-06-08": 188999,
-  "2023-06-09": 188999,
-  "2023-06-10": 188999,
-  "2023-06-11": 188999,
-  "2023-06-12": 188999,
-  "2023-06-13": 188999,
-  "2023-06-14": 188999,
-  "2023-06-15": 188999,
-  "2023-06-16": 188999,
-  "2023-06-17": 188999,
-  "2023-06-18": 188999,
-  "2023-06-19": 188999,
-  "2023-06-20": 188999,
-  "2023-06-21": 188999,
-  "2023-06-22": 188999,
-  "2023-06-23": 188999,
-  "2023-06-24": 188999,
-  "2023-06-25": 188999,
-  "2023-06-26": 188999,
-  "2023-06-27": 188999,
-  "2023-06-28": 188999,
-  "2023-06-29": 188999,
-  "2023-06-30": 188999,
-  "2023-07-01": 188999,
-  "2023-07-02": 188999,
-  "2023-07-03": 188999,
-  "2023-07-04": 188999,
-  "2023-07-05": 188999,
-  "2023-07-06": 188999,
-  "2023-07-07": 188999,
-  "2023-07-08": 188999,
-  "2023-07-09": 188999,
-  "2023-07-10": 188999,
-  "2023-07-11": 188999,
-  "2023-07-12": 188999,
-  "2023-07-13": 188999,
-  "2023-07-14": 188999,
-  "2023-07-15": 188999,
-  "2023-07-16": 188999,
-  "2023-07-17": 188999,
-  "2023-07-18": 188999,
-  "2023-07-19": 188999,
-  "2023-07-20": 188999,
-  "2023-07-21": 188999,
-  "2023-07-22": 188999,
-  "2023-07-23": 188999,
-  "2023-07-24": 188999,
-  "2023-07-25": 188999,
-  "2023-07-26": 188999,
-  "2023-07-27": 188999,
-  "2023-07-28": 188999,
-  "2023-07-29": 188999,
-  "2023-07-30": 188999,
-  "2023-07-31": 188999,
-  "2023-08-01": 188999,
-  "2023-08-02": 188999,
-  "2023-08-03": 188999,
-  "2023-08-04": 188999,
-  "2023-08-05": 188999,
-  "2023-08-06": 188999,
-  "2023-08-07": 188999,
-  "2023-08-08": 188999,
-  "2023-08-09": 188999,
-  "2023-08-10": 188999,
-  "2023-08-11": 188999,
-  "2023-08-12": 188999,
-  "2023-08-13": 188999,
-  "2023-08-14": 188999,
-  "2023-08-15": 188999,
-  "2023-08-16": 188999,
-  "2023-08-17": 188999,
-  "2023-08-18": 188999,
-  "2023-08-19": 188999,
-  "2023-08-20": 188999,
-  "2023-08-21": 188999,
-  "2023-08-22": 188999,
-  "2023-08-23": 188999,
-  "2023-08-24": 188999,
-  "2023-08-25": 188999,
-  "2023-08-26": 188999,
-  "2023-08-27": 188999,
-  "2023-08-28": 188999,
-  "2023-08-29": 188999,
-  "2023-08-30": 188999,
-  "2023-08-31": 188999,
-  "2023-09-01": 188999,
-  "2023-09-02": 188999,
-  "2023-09-03": 188999,
-  "2023-09-04": 188999,
-  "2023-09-05": 188999,
-  "2023-09-06": 188999,
-  "2023-09-07": 188999,
-  "2023-09-08": 188999,
-  "2023-09-09": 188999,
-  "2023-09-10": 188999,
-  "2023-09-11": 188999,
-  "2023-09-12": 188999,
-  "2023-09-13": 188999,
-  "2023-09-14": 188999,
-  "2023-09-15": 188999,
-  "2023-09-16": 188999,
-  "2023-09-17": 188999,
-  "2023-09-18": 188999,
-  "2023-09-19": 188999,
-  "2023-09-20": 188999,
-  "2023-09-21": 188999,
-  "2023-09-22": 188999,
-  "2023-09-23": 188999,
-  "2023-09-24": 188999,
-  "2023-09-25": 188999,
-  "2023-09-26": 188999,
-  "2023-09-27": 188999,
-  "2023-09-28": 188999,
-  "2023-09-29": 188999,
-  "2023-09-30": 188999,
-  "2023-10-01": 188999,
-  "2023-10-02": 188999,
-  "2023-10-03": 188999,
-  "2023-10-04": 188999,
-  "2023-10-05": 188999,
-  "2023-10-06": 188999,
-  "2023-10-07": 188999,
-  "2023-10-08": 188999,
-  "2023-10-09": 188999,
-  "2023-10-10": 188999,
-  "2023-10-11": 188999,
-  "2023-10-12": 188999,
-  "2023-10-13": 188999,
-  "2023-10-14": 188999,
-  "2023-10-15": 188999,
-  "2023-10-16": 188999,
-  "2023-10-17": 188999,
-  "2023-10-18": 188999,
-  "2023-10-19": 188999,
-  "2023-10-20": 188999,
-  "2023-10-21": 188999,
-  "2023-10-22": 188999,
-  "2023-10-23": 188999,
-  "2023-10-24": 188999,
-  "2023-10-25": 188999,
-  "2023-10-26": 188999,
-  "2023-10-27": 188999,
-  "2023-10-28": 188999,
-  "2023-10-29": 188999,
-  "2023-10-30": 188999,
-  "2023-10-31": 188999,
-  "2023-11-01": 188999,
-  "2023-11-02": 188999,
-  "2023-11-03": 188999,
-  "2023-11-04": 188999,
-  "2023-11-05": 188999,
-  "2023-11-06": 188999,
-  "2023-11-07": 188999,
-  "2023-11-08": 188999,
-  "2023-11-09": 188999,
-  "2023-11-10": 188999,
-  "2023-11-11": 188999,
-  "2023-11-12": 188999,
-  "2023-11-13": 188999,
-  "2023-11-14": 188999,
-  "2023-11-15": 188999,
-  "2023-11-16": 188999,
-  "2023-11-17": 188999,
-  "2023-11-18": 188999,
-  "2023-11-19": 188999,
-  "2023-11-20": 188999,
-  "2023-11-21": 188999,
-  "2023-11-22": 188999,
-  "2023-11-23": 188999,
-  "2023-11-24": 188999,
-  "2023-11-25": 188999,
-  "2023-11-26": 188999,
-  "2023-11-27": 188999,
-  "2023-11-28": 188999,
-  "2023-11-29": 188999,
-  "2023-11-30": 188999,
-  "2023-12-01": 188999,
-  "2023-12-02": 188999,
-  "2023-12-03": 188999,
-  "2023-12-04": 188999,
-  "2023-12-05": 188999,
-  "2023-12-06": 188999,
-  "2023-12-07": 188999,
-  "2023-12-08": 188999,
-  "2023-12-09": 188999,
-  "2023-12-10": 188999,
-  "2023-12-11": 188999,
-  "2023-12-12": 188999,
-  "2023-12-13": 188999,
-  "2023-12-14": 188999,
-  "2023-12-15": 188999,
-  "2023-12-16": 188999,
-  "2023-12-17": 188999,
-  "2023-12-18": 188999,
-  "2023-12-19": 188999,
-  "2023-12-20": 188999,
-  "2023-12-21": 188999,
-  "2023-12-22": 188999,
-  "2023-12-23": 188999,
-  "2023-12-24": 188999,
-  "2023-12-25": 188999,
-  "2023-12-26": 188999,
-  "2023-12-27": 188999,
-  "2023-12-30": 188999,
-  "2023-12-31": 188999,
-  "2024-01-01": 188999,
-  "2024-01-02": 188999,
-  "2024-01-03": 188999
+  "2024-01-17": 188999,
+  "date_first_scraped": "2021-12-21",
+  "description": "This is the essential collection of songs from Trey Songz.",
+  "name": "This Is: Trey Songz",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/4YkX9Qiys9ICKCpio9jTpc"
+    },
+    {
+      "album": {
+        "name": "2020 Riots: How Many Times",
+        "url": "https://open.spotify.com/album/6RVQj393o1m6WPo3ytElmD"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204941,
+      "name": "2020 Riots: How Many Times",
+      "url": "https://open.spotify.com/track/2jLDRXGpa9yJ9fuhySSV8P"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/2ssYQKMqVUkoQgi02PmDPB"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2Ju4c6LkBAzhYg5Spp5pWK"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168954,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/385QArWR7KoT1hFLZoAZCc"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        },
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220412,
+      "name": "Automatic (feat. O.T. Genasis & Shy Glizzy)",
+      "url": "https://open.spotify.com/track/6YGjWy2mYuDTnthLMdPzHP"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1WOVH3u0VVMiJh2geTLMa2"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194575,
+      "name": "Back Home (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/5mEVSbyxT38iS2w7xG1c7R"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244806,
+      "name": "Body High (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/1SEcBXRlFw5R5QAXntDrwH"
+    },
+    {
+      "album": {
+        "name": "Passion, Pain & Pleasure",
+        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Bottoms Up (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2IpGdrWvIZipmaxo1YRxw5"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285400,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/23znB7WDG5MBUiGSsdvYRw"
+    },
+    {
+      "album": {
+        "name": "Passion, Pain & Pleasure",
+        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Can't Be Friends",
+      "url": "https://open.spotify.com/track/0H6fDB7YaMZe1rXCmATx9l"
+    },
+    {
+      "album": {
+        "name": "Trey Day",
+        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Can't Help but Wait",
+      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1WOVH3u0VVMiJh2geTLMa2"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257385,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5i2oI7MyeTiesGzIER2Tvx"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254317,
+      "name": "Closed Mouths",
+      "url": "https://open.spotify.com/track/5QmiMINK8PVpuromxLVqJn"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/7L0sPpF8fzmXxygzY2PdCo"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "Dead Wrong (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5VzHb4qg6PTzTosl3ckZ84"
+    },
+    {
+      "album": {
+        "name": "Chapter V (Deluxe)",
+        "url": "https://open.spotify.com/album/24IexOT10jPuK3MR6cS3ag"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/43hHjvaO9brl5t7ywedeyx"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183839,
+      "name": "Don't Say Shit (feat. Chris Brown & Fabolous)",
+      "url": "https://open.spotify.com/track/5ZnWj1YrfW9jdRxgRDMarB"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/0tyYpW6eJ2q7Dtfyc3v7rO"
+    },
+    {
+      "album": {
+        "name": "I Gotta Make It",
+        "url": "https://open.spotify.com/album/7sPfDVisrecDYGwiwXeEgW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247053,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/5Q4lFAfvLhGB7DNcg2DwgA"
+    },
+    {
+      "album": {
+        "name": "I Gotta Make It",
+        "url": "https://open.spotify.com/album/7sPfDVisrecDYGwiwXeEgW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243279,
+      "name": "Gotta Make It (feat. Twista)",
+      "url": "https://open.spotify.com/track/4xONUhRpKk1UIBsCSdviQo"
+    },
+    {
+      "album": {
+        "name": "Chapter V (Deluxe)",
+        "url": "https://open.spotify.com/album/24IexOT10jPuK3MR6cS3ag"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/25CA8QVJQrh5R05UUCaODM"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238949,
+      "name": "How Dat Sound (feat. 2 Chainz & Yo Gotti)",
+      "url": "https://open.spotify.com/track/54ZG8SPqphWy23Og6nH7PY"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "I Need a Girl",
+      "url": "https://open.spotify.com/track/5cU50IAoAFF7qFWOtdbEjr"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252100,
+      "name": "Keep It Right There (feat. Teddy Riley)",
+      "url": "https://open.spotify.com/track/3a5E43VYhAo25NlVLDPPQd"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224337,
+      "name": "Lay Yo Head",
+      "url": "https://open.spotify.com/track/31r9G4vYv3AprvPJM7AsX9"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208509,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4qEuVZCXLi9IFhkWzhj3GS"
+    },
+    {
+      "album": {
+        "name": "Passion, Pain & Pleasure",
+        "url": "https://open.spotify.com/album/5Qex4ioxOJfHrnsWbt8Zlj"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "Love Faces",
+      "url": "https://open.spotify.com/track/5rX60GiR64Epgri9Ubjzg9"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246066,
+      "name": "Loving You (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6cdMGLGp5unTMOf0l5AZxr"
+    },
+    {
+      "album": {
+        "name": "Trigga Bonus Tracks",
+        "url": "https://open.spotify.com/album/1z5dEyJs0uV8cW2E7S2vut"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275413,
+      "name": "Mr. Steal Your Girl",
+      "url": "https://open.spotify.com/track/6RUW0LBZ49ydQ0h8hppYSk"
+    },
+    {
+      "album": {
+        "name": "Trigga",
+        "url": "https://open.spotify.com/album/00no0cywmc15sIIoys7kM9"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "Na Na",
+      "url": "https://open.spotify.com/track/5maiP9UMnTSgoxPX8X3bdz"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Neighbors Know My Name",
+      "url": "https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Nobody Else but You",
+      "url": "https://open.spotify.com/track/1HOUzEsetdIPSpAgRPhZQt"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/5mff6Pbc4xGzsJojktF0Ua"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229806,
+      "name": "Please Don't Cry (feat. Rich Da Kid)",
+      "url": "https://open.spotify.com/track/1hnNHPy45iCbdXxFTusDOn"
+    },
+    {
+      "album": {
+        "name": "Kevin Hart: What Now? (The Mixtape Presents Chocolate Droppa) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/3AFjaBvKk8vtVkaTtXA4QY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Hart",
+          "url": "https://open.spotify.com/artist/3rHl3rSgCnHhOlVB87ZxyF"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232806,
+      "name": "Push It On Me - From \u201cWhat Now?\u201d",
+      "url": "https://open.spotify.com/track/0wasgXy8PI6t4EfA49YnXE"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230116,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/10qFh6PlEkDZBdgkyXmL3R"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Rotation (feat. Dave East)",
+      "url": "https://open.spotify.com/track/7yPySqBggjpWsuM7BjYevD"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "Say Aah (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "Shootin Shots (feat. Ty Dolla $ign & Tory Lanez)",
+      "url": "https://open.spotify.com/track/6oxV0UoJllrXUFGsGxe2iT"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "SmartPhones",
+      "url": "https://open.spotify.com/track/0f3VEP2XAWkiqovfANBalZ"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219052,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/7pSn2j9BhIWMqmKDfhkbTQ"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244280,
+      "name": "Song Goes Off",
+      "url": "https://open.spotify.com/track/7L87B1YWTT11I0mSAEYEOF"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166926,
+      "name": "Spark (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/4UVi6KT98KVLL27z2buJlG"
+    },
+    {
+      "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266253,
+      "name": "Successful (with Drake)",
+      "url": "https://open.spotify.com/track/2SItJHNsf37kaAi3IXjyft"
+    },
+    {
+      "album": {
+        "name": "Tremaine the Album",
+        "url": "https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364120,
+      "name": "The Sheets...Still",
+      "url": "https://open.spotify.com/track/2pqr9hcN6AVdlbgqw8ULPk"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227538,
+      "name": "Top 10 (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/6mtFYedCI3JMISqd7rITVw"
+    },
+    {
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221971,
+      "name": "Touchin, Lovin (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/4bkhs6spQvVnVJAlXuKR6a"
+    },
+    {
+      "album": {
+        "name": "Two Ways",
+        "url": "https://open.spotify.com/album/5QTUcfQ5QvsOsCzaEAan6e"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201168,
+      "name": "Two Ways",
+      "url": "https://open.spotify.com/track/7GIPHrEFcN8pt7ORkkJemv"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172678,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/4qch7lIHzL2ZphmFlD0B8Z"
+    },
+    {
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229969,
+      "name": "Who Let U Down",
+      "url": "https://open.spotify.com/track/7GCCR2IyFylZO621gkKmww"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/0DOSrX5RdPZhLBAuEmO6De"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "Wrist Watch (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/4bvVvzmt4s1saVh2Es97Yx"
+    },
+    {
+      "album": {
+        "name": "Trigga",
+        "url": "https://open.spotify.com/album/00no0cywmc15sIIoys7kM9"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365493,
+      "name": "Y.A.S.",
+      "url": "https://open.spotify.com/track/7K4pZy8fgpOr1Gpr9RRwuO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5xFQkXoZxdM"
 }

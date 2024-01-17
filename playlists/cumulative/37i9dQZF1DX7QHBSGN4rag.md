@@ -4,7 +4,7 @@
 
 > 如果愛是不同形狀組成的密碼，八個女孩子便會有八組不同的愛的密碼！
 
-53 songs - 3 hr 39 min
+54 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-02-07 | 2023-02-12 |
 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 | 2022-02-07 | 2023-02-12 |
 | [當你](https://open.spotify.com/track/56UzFYxgkvxU188BsCKBOc) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 4:09 | 2023-02-11 |  |
-| [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2023-02-11 |  |
+| [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 | 2023-02-11 |  |
+| [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2023-02-11 | 2024-01-09 |
 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2023-02-11 |  |
 | [街燈晚餐](https://open.spotify.com/track/7Fs5kXKd3zK1gbfjqk5Z4E) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Imagine](https://open.spotify.com/album/2xyPGbBIwwkGXNiWuHhs2m) | 5:12 | 2023-02-11 |  |
 | [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 | 2022-02-07 | 2023-02-12 |

@@ -1,595 +1,1933 @@
 {
-  "2022-05-15": 300196,
-  "2022-05-16": 300378,
-  "2022-05-17": 300531,
-  "2022-05-18": 300688,
-  "2022-05-19": 300870,
-  "2022-05-20": 301100,
-  "2022-05-21": 301467,
-  "2022-05-22": 301467,
-  "2022-05-23": 301645,
-  "2022-05-24": 301811,
-  "2022-05-25": 302010,
-  "2022-05-26": 302182,
-  "2022-05-27": 302385,
-  "2022-05-28": 302547,
-  "2022-05-29": 302743,
-  "2022-05-30": 302906,
-  "2022-05-31": 303086,
-  "2022-06-01": 303397,
-  "2022-06-02": 303428,
-  "2022-06-03": 303614,
-  "2022-06-04": 303802,
-  "2022-06-05": 303995,
-  "2022-06-06": 304129,
-  "2022-06-07": 304274,
-  "2022-06-08": 304420,
-  "2022-06-09": 304548,
-  "2022-06-10": 304747,
-  "2022-06-11": 304925,
-  "2022-06-12": 305116,
-  "2022-06-13": 305327,
-  "2022-06-14": 305469,
-  "2022-06-15": 305678,
-  "2022-06-16": 305875,
-  "2022-06-17": 306093,
-  "2022-06-18": 306093,
-  "2022-06-19": 306744,
-  "2022-06-20": 306744,
-  "2022-06-21": 306931,
-  "2022-06-22": 307288,
-  "2022-06-23": 307288,
-  "2022-06-24": 307470,
-  "2022-06-25": 307627,
-  "2022-06-26": 307789,
-  "2022-06-27": 307955,
-  "2022-06-28": 308072,
-  "2022-06-29": 308255,
-  "2022-06-30": 308451,
-  "2022-07-01": 308633,
-  "2022-07-02": 308816,
-  "2022-07-03": 309017,
-  "2022-07-04": 309197,
-  "2022-07-05": 309377,
-  "2022-07-06": 309544,
-  "2022-07-07": 309717,
-  "2022-07-08": 309844,
-  "2022-07-09": 310014,
-  "2022-07-10": 310175,
-  "2022-07-11": 310314,
-  "2022-07-12": 310485,
-  "2022-07-13": 310642,
-  "2022-07-14": 310802,
-  "2022-07-15": 310983,
-  "2022-07-16": 311171,
-  "2022-07-17": 311351,
-  "2022-07-18": 311521,
-  "2022-07-19": 311684,
-  "2022-07-20": 311886,
-  "2022-07-21": 312047,
-  "2022-07-22": 312230,
-  "2022-07-23": 312429,
-  "2022-07-24": 312646,
-  "2022-07-25": 312807,
-  "2022-07-26": 312987,
-  "2022-07-27": 313190,
-  "2022-07-28": 313364,
-  "2022-07-29": 313569,
-  "2022-07-30": 313964,
-  "2022-07-31": 313964,
-  "2022-08-01": 314156,
-  "2022-08-02": 314482,
-  "2022-08-03": 314482,
-  "2022-08-04": 314672,
-  "2022-08-05": 314876,
-  "2022-08-06": 315062,
-  "2022-08-07": 315234,
-  "2022-08-08": 315387,
-  "2022-08-09": 315555,
-  "2022-08-10": 315729,
-  "2022-08-11": 315909,
-  "2022-08-12": 316111,
-  "2022-08-13": 316280,
-  "2022-08-14": 316488,
-  "2022-08-15": 316668,
-  "2022-08-16": 316886,
-  "2022-08-17": 317075,
-  "2022-08-18": 317248,
-  "2022-08-19": 317442,
-  "2022-08-20": 317620,
-  "2022-08-21": 317795,
-  "2022-08-22": 317963,
-  "2022-08-23": 318102,
-  "2022-08-24": 318291,
-  "2022-08-25": 318485,
-  "2022-08-26": 318678,
-  "2022-08-27": 318873,
-  "2022-08-28": 319061,
-  "2022-08-29": 319220,
-  "2022-08-30": 319228,
-  "2022-08-31": 319068,
-  "2022-09-01": 318884,
-  "2022-09-02": 318634,
-  "2022-09-03": 318245,
-  "2022-09-04": 318133,
-  "2022-09-05": 318278,
-  "2022-09-06": 318439,
-  "2022-09-07": 318597,
-  "2022-09-09": 318928,
-  "2022-09-10": 319134,
-  "2022-09-11": 319343,
-  "2022-09-12": 319494,
-  "2022-09-13": 319641,
-  "2022-09-15": 319914,
-  "2022-09-16": 320113,
-  "2022-09-17": 320328,
-  "2022-09-18": 320525,
-  "2022-09-19": 320687,
-  "2022-09-20": 320837,
-  "2022-09-21": 321020,
-  "2022-09-22": 321177,
-  "2022-09-23": 321379,
-  "2022-09-24": 321594,
-  "2022-09-25": 321816,
-  "2022-09-26": 322008,
-  "2022-09-27": 322143,
-  "2022-09-28": 322354,
-  "2022-09-29": 322567,
-  "2022-09-30": 322754,
-  "2022-10-01": 322950,
-  "2022-10-02": 323144,
-  "2022-10-03": 323287,
-  "2022-10-04": 323456,
-  "2022-10-05": 323652,
-  "2022-10-06": 323856,
-  "2022-10-07": 324081,
-  "2022-10-08": 324307,
-  "2022-10-09": 324640,
-  "2022-10-10": 324679,
-  "2022-10-11": 324850,
-  "2022-10-12": 325019,
-  "2022-10-13": 325200,
-  "2022-10-14": 325407,
-  "2022-10-15": 325587,
-  "2022-10-16": 325821,
-  "2022-10-17": 326025,
-  "2022-10-18": 326205,
-  "2022-10-19": 326343,
-  "2022-10-20": 326524,
-  "2022-10-21": 326720,
-  "2022-10-22": 326906,
-  "2022-10-23": 327076,
-  "2022-10-24": 327280,
-  "2022-10-25": 327452,
-  "2022-10-26": 327614,
-  "2022-10-27": 327784,
-  "2022-10-28": 327951,
-  "2022-10-29": 328121,
-  "2022-10-30": 328282,
-  "2022-10-31": 328435,
-  "2022-11-01": 328587,
-  "2022-11-02": 328748,
-  "2022-11-03": 328920,
-  "2022-11-04": 329101,
-  "2022-11-05": 329285,
-  "2022-11-06": 329503,
-  "2022-11-07": 329663,
-  "2022-11-08": 329839,
-  "2022-11-09": 330011,
-  "2022-11-10": 330210,
-  "2022-11-11": 330393,
-  "2022-11-12": 330613,
-  "2022-11-13": 330797,
-  "2022-11-14": 330982,
-  "2022-11-15": 331131,
-  "2022-11-16": 331296,
-  "2022-11-17": 331457,
-  "2022-11-18": 331489,
-  "2022-11-19": 331557,
-  "2022-11-20": 331757,
-  "2022-11-21": 331935,
-  "2022-11-22": 332107,
-  "2022-11-23": 332274,
-  "2022-11-24": 332615,
-  "2022-11-25": 332874,
-  "2022-11-26": 333055,
-  "2022-11-27": 333214,
-  "2022-11-28": 333370,
-  "2022-11-29": 333509,
-  "2022-11-30": 333656,
-  "2022-12-01": 333879,
-  "2022-12-02": 334069,
-  "2022-12-03": 334262,
-  "2022-12-04": 334427,
-  "2022-12-05": 334572,
-  "2022-12-06": 334700,
-  "2022-12-07": 334859,
-  "2022-12-08": 335038,
-  "2022-12-09": 335223,
-  "2022-12-10": 335431,
-  "2022-12-11": 335648,
-  "2022-12-12": 335846,
-  "2022-12-13": 336026,
-  "2022-12-14": 336226,
-  "2022-12-15": 336454,
-  "2022-12-16": 336637,
-  "2022-12-17": 336852,
-  "2022-12-18": 337076,
-  "2022-12-19": 337318,
-  "2022-12-20": 337764,
-  "2022-12-21": 337764,
-  "2022-12-22": 338025,
-  "2022-12-24": 338464,
-  "2022-12-25": 338665,
-  "2022-12-26": 338850,
-  "2022-12-27": 339039,
-  "2022-12-28": 339246,
-  "2022-12-29": 339468,
-  "2022-12-30": 339718,
-  "2022-12-31": 339935,
-  "2023-01-01": 340149,
-  "2023-01-02": 340317,
-  "2023-01-03": 340451,
-  "2023-01-04": 340680,
-  "2023-01-05": 340910,
-  "2023-01-06": 341149,
-  "2023-01-07": 341491,
-  "2023-01-08": 341549,
-  "2023-01-09": 341739,
-  "2023-01-10": 341906,
-  "2023-01-11": 342060,
-  "2023-01-12": 342221,
-  "2023-01-13": 342445,
-  "2023-01-14": 342789,
-  "2023-01-15": 342840,
-  "2023-01-16": 343022,
-  "2023-01-17": 343189,
-  "2023-01-18": 343366,
-  "2023-01-19": 343538,
-  "2023-01-20": 343719,
-  "2023-01-21": 343891,
-  "2023-01-22": 344083,
-  "2023-01-23": 344249,
-  "2023-01-24": 344403,
-  "2023-01-25": 344538,
-  "2023-01-26": 344704,
-  "2023-01-27": 344866,
-  "2023-01-28": 345075,
-  "2023-01-29": 345248,
-  "2023-01-30": 345390,
-  "2023-01-31": 345390,
-  "2023-02-01": 345715,
-  "2023-02-02": 345872,
-  "2023-02-03": 346065,
-  "2023-02-04": 346254,
-  "2023-02-05": 346434,
-  "2023-02-06": 346580,
-  "2023-02-07": 346763,
-  "2023-02-08": 347096,
-  "2023-02-09": 347096,
-  "2023-02-10": 347252,
-  "2023-02-11": 347431,
-  "2023-02-12": 347793,
-  "2023-02-13": 347969,
-  "2023-02-14": 347969,
-  "2023-02-15": 348166,
-  "2023-02-16": 348344,
-  "2023-02-17": 348549,
-  "2023-02-18": 348927,
-  "2023-02-19": 348947,
-  "2023-02-20": 349094,
-  "2023-02-21": 349255,
-  "2023-02-22": 349414,
-  "2023-02-23": 349631,
-  "2023-02-24": 349830,
-  "2023-02-25": 350126,
-  "2023-02-26": 350312,
-  "2023-02-27": 350757,
-  "2023-02-28": 350757,
-  "2023-03-01": 351010,
-  "2023-03-02": 351249,
-  "2023-03-03": 351539,
-  "2023-03-04": 351796,
-  "2023-03-05": 352342,
-  "2023-03-06": 352342,
-  "2023-03-07": 352562,
-  "2023-03-08": 352845,
-  "2023-03-09": 353098,
-  "2023-03-10": 353318,
-  "2023-03-11": 353608,
-  "2023-03-12": 353873,
-  "2023-03-13": 354157,
-  "2023-03-14": 354404,
-  "2023-03-15": 354674,
-  "2023-03-16": 354996,
-  "2023-03-17": 354996,
-  "2023-03-18": 356749,
-  "2023-03-19": 357316,
-  "2023-03-20": 357633,
-  "2023-03-21": 357918,
-  "2023-03-22": 358173,
-  "2023-03-23": 358419,
-  "2023-03-24": 358419,
-  "2023-03-25": 358920,
-  "2023-03-26": 359185,
-  "2023-03-27": 359423,
-  "2023-03-28": 359641,
-  "2023-03-29": 359874,
-  "2023-03-30": 360396,
-  "2023-03-31": 360396,
-  "2023-04-01": 360701,
-  "2023-04-02": 360970,
-  "2023-04-03": 361242,
-  "2023-04-04": 361532,
-  "2023-04-05": 361767,
-  "2023-04-06": 361987,
-  "2023-04-07": 362227,
-  "2023-04-09": 362702,
-  "2023-04-10": 362933,
-  "2023-04-11": 363273,
-  "2023-04-12": 363273,
-  "2023-04-13": 363527,
-  "2023-04-14": 363772,
-  "2023-04-15": 363964,
-  "2023-04-16": 364201,
-  "2023-04-17": 364351,
-  "2023-04-18": 364564,
-  "2023-04-19": 364869,
-  "2023-04-20": 365097,
-  "2023-04-21": 365295,
-  "2023-04-22": 365546,
-  "2023-04-23": 365782,
-  "2023-04-24": 365974,
-  "2023-04-25": 366193,
-  "2023-04-26": 366419,
-  "2023-04-27": 366656,
-  "2023-04-28": 366815,
-  "2023-04-29": 367039,
-  "2023-04-30": 367219,
-  "2023-05-01": 367427,
-  "2023-05-02": 367623,
-  "2023-05-03": 367795,
-  "2023-05-04": 367990,
-  "2023-05-05": 368157,
-  "2023-05-06": 368351,
-  "2023-05-07": 368557,
-  "2023-05-08": 368766,
-  "2023-05-09": 368943,
-  "2023-05-10": 369107,
-  "2023-05-11": 369282,
-  "2023-05-12": 369483,
-  "2023-05-13": 369660,
-  "2023-05-14": 369868,
-  "2023-05-15": 370024,
-  "2023-05-16": 370190,
-  "2023-05-17": 370374,
-  "2023-05-18": 370607,
-  "2023-05-19": 370848,
-  "2023-05-20": 371251,
-  "2023-05-21": 371251,
-  "2023-05-22": 371251,
-  "2023-05-23": 371633,
-  "2023-05-24": 371966,
-  "2023-05-25": 372015,
-  "2023-05-26": 372246,
-  "2023-05-27": 372484,
-  "2023-05-28": 372712,
-  "2023-05-29": 372712,
-  "2023-05-30": 373061,
-  "2023-05-31": 373244,
-  "2023-06-01": 373466,
-  "2023-06-02": 373674,
-  "2023-06-03": 373872,
-  "2023-06-04": 374114,
-  "2023-06-05": 374296,
-  "2023-06-06": 374503,
-  "2023-06-07": 374669,
-  "2023-06-08": 374840,
-  "2023-06-09": 375041,
-  "2023-06-10": 375257,
-  "2023-06-11": 375450,
-  "2023-06-12": 375617,
-  "2023-06-13": 375770,
-  "2023-06-14": 375948,
-  "2023-06-15": 376142,
-  "2023-06-16": 376331,
-  "2023-06-17": 376549,
-  "2023-06-18": 376760,
-  "2023-06-19": 376960,
-  "2023-06-20": 377120,
-  "2023-06-21": 377309,
-  "2023-06-22": 377554,
-  "2023-06-23": 377786,
-  "2023-06-24": 377999,
-  "2023-06-25": 378188,
-  "2023-06-26": 378386,
-  "2023-06-27": 378582,
-  "2023-06-28": 378768,
-  "2023-06-29": 378964,
-  "2023-06-30": 379166,
-  "2023-07-01": 379588,
-  "2023-07-02": 379588,
-  "2023-07-03": 379726,
-  "2023-07-04": 379909,
-  "2023-07-05": 380073,
-  "2023-07-06": 380480,
-  "2023-07-07": 380480,
-  "2023-07-08": 380697,
-  "2023-07-09": 380895,
-  "2023-07-10": 381063,
-  "2023-07-11": 381247,
-  "2023-07-12": 381437,
-  "2023-07-13": 381619,
-  "2023-07-14": 381846,
-  "2023-07-15": 382054,
-  "2023-07-16": 382305,
-  "2023-07-17": 382504,
-  "2023-07-18": 382713,
-  "2023-07-19": 382925,
-  "2023-07-20": 383122,
-  "2023-07-21": 383327,
-  "2023-07-22": 383525,
-  "2023-07-23": 383694,
-  "2023-07-24": 383846,
-  "2023-07-25": 384015,
-  "2023-07-26": 384196,
-  "2023-07-27": 384372,
-  "2023-07-28": 384586,
-  "2023-07-29": 384844,
-  "2023-07-30": 385063,
-  "2023-07-31": 385235,
-  "2023-08-01": 385441,
-  "2023-08-02": 385644,
-  "2023-08-03": 385841,
-  "2023-08-04": 386073,
-  "2023-08-05": 386307,
-  "2023-08-06": 386733,
-  "2023-08-07": 386733,
-  "2023-08-08": 386920,
-  "2023-08-09": 387114,
-  "2023-08-10": 387330,
-  "2023-08-11": 387571,
-  "2023-08-12": 387791,
-  "2023-08-13": 388043,
-  "2023-08-14": 388251,
-  "2023-08-15": 388672,
-  "2023-08-16": 388672,
-  "2023-08-17": 388875,
-  "2023-08-18": 389116,
-  "2023-08-19": 389335,
-  "2023-08-20": 389577,
-  "2023-08-21": 389773,
-  "2023-08-22": 389978,
-  "2023-08-23": 390179,
-  "2023-08-24": 390413,
-  "2023-08-25": 390659,
-  "2023-08-26": 390901,
-  "2023-08-27": 391114,
-  "2023-08-28": 391323,
-  "2023-08-29": 391504,
-  "2023-08-30": 391696,
-  "2023-08-31": 391897,
-  "2023-09-01": 392277,
-  "2023-09-02": 392277,
-  "2023-09-03": 392417,
-  "2023-09-04": 392596,
-  "2023-09-05": 392780,
-  "2023-09-06": 392971,
-  "2023-09-07": 393139,
-  "2023-09-08": 393279,
-  "2023-09-09": 393522,
-  "2023-09-10": 393708,
-  "2023-09-11": 393839,
-  "2023-09-12": 393995,
-  "2023-09-13": 394197,
-  "2023-09-14": 394342,
-  "2023-09-15": 394524,
-  "2023-09-16": 394709,
-  "2023-09-17": 394863,
-  "2023-09-18": 395013,
-  "2023-09-19": 395153,
-  "2023-09-20": 395280,
-  "2023-09-21": 395462,
-  "2023-09-22": 395648,
-  "2023-09-23": 395859,
-  "2023-09-24": 396055,
-  "2023-09-25": 396206,
-  "2023-09-26": 396379,
-  "2023-09-27": 396519,
-  "2023-09-28": 396678,
-  "2023-09-29": 396865,
-  "2023-09-30": 397045,
-  "2023-10-01": 397179,
-  "2023-10-02": 397318,
-  "2023-10-03": 397484,
-  "2023-10-04": 397636,
-  "2023-10-05": 397807,
-  "2023-10-06": 397946,
-  "2023-10-07": 398073,
-  "2023-10-08": 398223,
-  "2023-10-09": 398359,
-  "2023-10-10": 398449,
-  "2023-10-11": 398696,
-  "2023-10-12": 398696,
-  "2023-10-13": 398800,
-  "2023-10-14": 398800,
-  "2023-10-15": 398800,
-  "2023-10-16": 399203,
-  "2023-10-17": 399203,
-  "2023-10-18": 399420,
-  "2023-10-19": 399556,
-  "2023-10-20": 399556,
-  "2023-10-21": 399875,
-  "2023-10-22": 399875,
-  "2023-10-23": 400100,
-  "2023-10-24": 400202,
-  "2023-10-25": 400202,
-  "2023-10-26": 400450,
-  "2023-10-27": 400584,
-  "2023-10-28": 400584,
-  "2023-10-29": 400584,
-  "2023-10-30": 400984,
-  "2023-10-31": 400984,
-  "2023-11-01": 401185,
-  "2023-11-02": 401319,
-  "2023-11-03": 401434,
-  "2023-11-04": 401434,
-  "2023-11-05": 401434,
-  "2023-11-06": 401819,
-  "2023-11-07": 401819,
-  "2023-11-08": 401819,
-  "2023-11-09": 401819,
-  "2023-11-10": 402274,
-  "2023-11-11": 402432,
-  "2023-11-12": 402542,
-  "2023-11-13": 402542,
-  "2023-11-14": 402542,
-  "2023-11-15": 402542,
-  "2023-11-16": 402542,
-  "2023-11-17": 403129,
-  "2023-11-18": 403129,
-  "2023-11-19": 403251,
-  "2023-11-20": 403251,
-  "2023-11-21": 403455,
-  "2023-11-22": 403549,
-  "2023-11-23": 403652,
-  "2023-11-24": 403652,
-  "2023-11-25": 403875,
-  "2023-11-26": 403875,
-  "2023-11-27": 404086,
-  "2023-11-28": 404086,
-  "2023-11-29": 404427,
-  "2023-11-30": 404427,
-  "2023-12-01": 404427,
-  "2023-12-02": 404817,
-  "2023-12-03": 404817,
-  "2023-12-04": 404817,
-  "2023-12-05": 404817,
-  "2023-12-06": 405364,
-  "2023-12-07": 405364,
-  "2023-12-08": 405364,
-  "2023-12-09": 405824,
-  "2023-12-10": 405824,
-  "2023-12-11": 406150,
-  "2023-12-12": 406150,
-  "2023-12-13": 406442,
-  "2023-12-14": 406627,
-  "2023-12-15": 406743,
-  "2023-12-16": 406893,
-  "2023-12-17": 407066,
-  "2023-12-18": 407217,
-  "2023-12-19": 407337,
-  "2023-12-20": 407475,
-  "2023-12-21": 407615,
-  "2023-12-22": 407750,
-  "2023-12-23": 407915,
-  "2023-12-24": 408090,
-  "2023-12-25": 408240,
-  "2023-12-26": 408348,
-  "2023-12-27": 408480,
-  "2023-12-30": 408913,
-  "2023-12-31": 409054,
-  "2024-01-01": 409244,
-  "2024-01-02": 409360,
-  "2024-01-03": 409465
+  "2024-01-17": 411174,
+  "date_first_scraped": "2022-05-15",
+  "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
+  "name": "Celtic Punk",
+  "tracks": [
+    {
+      "album": {
+        "name": "Beer and Loathing",
+        "url": "https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 214487,
+      "name": "36 Barrels",
+      "url": "https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0"
+    },
+    {
+      "album": {
+        "name": "Sleepin' Rough",
+        "url": "https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287186,
+      "name": "A Fistful O' Roses",
+      "url": "https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0"
+    },
+    {
+      "album": {
+        "name": "A Fistful O' Roses",
+        "url": "https://open.spotify.com/album/54ildx6MHioyvqGTAFASOe"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 292005,
+      "name": "A Fistful O' Roses",
+      "url": "https://open.spotify.com/track/0luBzUkwlfRGQKfUwDVwVe"
+    },
+    {
+      "album": {
+        "name": "SIR REG",
+        "url": "https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Arrive On St. Patrick's Day",
+      "url": "https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S"
+    },
+    {
+      "album": {
+        "name": "When the Shite Hits the Fans",
+        "url": "https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK"
+      },
+      "artists": [
+        {
+          "name": "The Gobshites",
+          "url": "https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 160146,
+      "name": "Arsehole",
+      "url": "https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG"
+    },
+    {
+      "album": {
+        "name": "The Loyal Men",
+        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
+      },
+      "artists": [
+        {
+          "name": "Black Tartan Clan",
+          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 195578,
+      "name": "Banks of the Roses",
+      "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
+    },
+    {
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Botany Bay",
+      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
+    },
+    {
+      "album": {
+        "name": "Bullhead",
+        "url": "https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159538,
+      "name": "Bullhead",
+      "url": "https://open.spotify.com/track/1Fa7HO1JHC20Fcv0wTTDTQ"
+    },
+    {
+      "album": {
+        "name": "Hestia",
+        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159538,
+      "name": "Bullhead",
+      "url": "https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Regis",
+          "url": "https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 196933,
+      "name": "Celtic Storm (2010)",
+      "url": "https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ"
+    },
+    {
+      "album": {
+        "name": "Tales from the Wasteland",
+        "url": "https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bastard",
+          "url": "https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Cheer Up Love (Worse Things Happen at Sea), Pt. 3",
+      "url": "https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW"
+    },
+    {
+      "album": {
+        "name": "Off the Leash",
+        "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Chip",
+      "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
+    },
+    {
+      "album": {
+        "name": "Off The Leash",
+        "url": "https://open.spotify.com/album/3nIof6pCfhhWAmK8LykMJ1"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194453,
+      "name": "Chip",
+      "url": "https://open.spotify.com/track/2SnZayZg4eTZ4592TmK6CN"
+    },
+    {
+      "album": {
+        "name": "Cider Holiday",
+        "url": "https://open.spotify.com/album/3UKDUinlsVMdCAabG9s8fY"
+      },
+      "artists": [
+        {
+          "name": "The Dreadnoughts",
+          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265431,
+      "name": "Cider Holiday",
+      "url": "https://open.spotify.com/track/0cYC4yBogMCYktHDiHN9y5"
+    },
+    {
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "Devil's Dance Floor",
+      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
+    },
+    {
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/7Jj1zGBtvK00r417boBIEj"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239653,
+      "name": "Devil\u2019s Dance Floor",
+      "url": "https://open.spotify.com/track/4HmWMHOYSwxgnnNKG8thuD"
+    },
+    {
+      "album": {
+        "name": "Drunk and Fucked Up",
+        "url": "https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 220927,
+      "name": "Drunk and Fucked Up",
+      "url": "https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo"
+    },
+    {
+      "album": {
+        "name": "Drunken Lullabies",
+        "url": "https://open.spotify.com/album/4BbJ5NKPiICpTrGo1YmQmO"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230640,
+      "name": "Drunken Lullabies",
+      "url": "https://open.spotify.com/track/3dtVKmxWGhAB9CLnHHS3Nm"
+    },
+    {
+      "album": {
+        "name": "Drunken Lullabies",
+        "url": "https://open.spotify.com/album/7EtBU4Uen8tfOq0Ah9tqz3"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Drunken Lullabies",
+      "url": "https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn"
+    },
+    {
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158213,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh"
+    },
+    {
+      "album": {
+        "name": "Grace O'malley",
+        "url": "https://open.spotify.com/album/4bdUykygUC8cj0VxaCnsnB"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176788,
+      "name": "Fearless and Brave",
+      "url": "https://open.spotify.com/track/3FaqFP70AuvbV0EbOIqonQ"
+    },
+    {
+      "album": {
+        "name": "The Perfect Match",
+        "url": "https://open.spotify.com/album/03SaEIWMLWXZp3Rd1fkQRa"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Fearless and Brave",
+      "url": "https://open.spotify.com/track/17GshEAJNdAnoXKqtF3Qpm"
+    },
+    {
+      "album": {
+        "name": "Modem Operandi",
+        "url": "https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg"
+      },
+      "artists": [
+        {
+          "name": "The Stanfields",
+          "url": "https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz"
+    },
+    {
+      "album": {
+        "name": "With All Due Respect: The Irish Sessions",
+        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp"
+    },
+    {
+      "album": {
+        "name": "With All Due Respect - The Irish Sessions",
+        "url": "https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 217066,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/6mOm4tpKBMfTD2eIDxqAzE"
+    },
+    {
+      "album": {
+        "name": "The Underdogs",
+        "url": "https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218867,
+      "name": "Fool (Fight of Our Lives)",
+      "url": "https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew"
+    },
+    {
+      "album": {
+        "name": "The Underdogs",
+        "url": "https://open.spotify.com/album/1kdh75Ql8j44IdYNeSxSXQ"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 218867,
+      "name": "FOOL (Fight Of Our Lives)",
+      "url": "https://open.spotify.com/track/3m7sVpqGVALvuVgFvYOO5V"
+    },
+    {
+      "album": {
+        "name": "Rats On Board",
+        "url": "https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene"
+    },
+    {
+      "album": {
+        "name": "The Underdogs",
+        "url": "https://open.spotify.com/album/1kdh75Ql8j44IdYNeSxSXQ"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 182003,
+      "name": "Giving It Up (The Drink)",
+      "url": "https://open.spotify.com/track/5hUyDIqCOt8oZqqs7W1PPP"
+    },
+    {
+      "album": {
+        "name": "Down and out in the City of Saints",
+        "url": "https://open.spotify.com/album/2gpS86odPTUcZV6ENCmM5L"
+      },
+      "artists": [
+        {
+          "name": "The Peelers",
+          "url": "https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173563,
+      "name": "Glad to See the Back of You",
+      "url": "https://open.spotify.com/track/37JVPMsOsY6tvG2pn0jI0e"
+    },
+    {
+      "album": {
+        "name": "Grace O'malley",
+        "url": "https://open.spotify.com/album/2ioktS4K96jpk7Q5McGouo"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 216736,
+      "name": "Grace O'malley",
+      "url": "https://open.spotify.com/track/7BxuW1u779q9orjpmbNlxF"
+    },
+    {
+      "album": {
+        "name": "3 Cheers for 30 Years",
+        "url": "https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 201653,
+      "name": "Haul Away, Joe",
+      "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
+    },
+    {
+      "album": {
+        "name": "Toil",
+        "url": "https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY"
+      },
+      "artists": [
+        {
+          "name": "Flatfoot 56",
+          "url": "https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164367,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6"
+    },
+    {
+      "album": {
+        "name": "Toil",
+        "url": "https://open.spotify.com/album/51b4dHUjtNFqMHVt6jx7Xi"
+      },
+      "artists": [
+        {
+          "name": "Flatfoot 56",
+          "url": "https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 166360,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv"
+    },
+    {
+      "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "I'm Shipping Up To Boston",
+      "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b"
+      },
+      "artists": [
+        {
+          "name": "Firkin",
+          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155041,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9"
+    },
+    {
+      "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/38XQUsaljqgj42wcTPzHhX"
+      },
+      "artists": [
+        {
+          "name": "Firkin",
+          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155041,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/6e2WRf588w7eJguT2URc5X"
+    },
+    {
+      "album": {
+        "name": "The Kraken",
+        "url": "https://open.spotify.com/album/30tG3Q5YhoOCBY6kITT3Gy"
+      },
+      "artists": [
+        {
+          "name": "Brave the Sea",
+          "url": "https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110590,
+      "name": "Jig of Death",
+      "url": "https://open.spotify.com/track/6U5dJB1GszvHA8dLvO7n50"
+    },
+    {
+      "album": {
+        "name": "Riot City Outlaws",
+        "url": "https://open.spotify.com/album/6sJs55Ph5KQrQ8maznQSBw"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 188000,
+      "name": "Join the Riot",
+      "url": "https://open.spotify.com/track/0ywLxPIfElvmPjYTwVIryT"
+    },
+    {
+      "album": {
+        "name": "Riot City Outlaws",
+        "url": "https://open.spotify.com/album/5K8Slbeyr5qy7U5qudDHOM"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188000,
+      "name": "Join the Riot",
+      "url": "https://open.spotify.com/track/6iJoFhzoWhytbtg7H7kQ5a"
+    },
+    {
+      "album": {
+        "name": "Riot City Outlaws",
+        "url": "https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu"
+      },
+      "artists": [
+        {
+          "name": "Paddy And The Rats",
+          "url": "https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189128,
+      "name": "Join the Riot",
+      "url": "https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM"
+    },
+    {
+      "album": {
+        "name": "Karma Killer",
+        "url": "https://open.spotify.com/album/0GaneqwiDOaqyUFCMfoQJY"
+      },
+      "artists": [
+        {
+          "name": "Pipes And Pints",
+          "url": "https://open.spotify.com/artist/4OqDoxT2t5pP2S7C1VkoGB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 198373,
+      "name": "Karma Killer",
+      "url": "https://open.spotify.com/track/0Js21h5mZmJ9tJchPQ33zg"
+    },
+    {
+      "album": {
+        "name": "Liquordale",
+        "url": "https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e"
+      },
+      "artists": [
+        {
+          "name": "The Peelers",
+          "url": "https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 193760,
+      "name": "Katie Bar the Door",
+      "url": "https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R"
+    },
+    {
+      "album": {
+        "name": "Kick Out The Scum",
+        "url": "https://open.spotify.com/album/0zMhFOgj0wLZIXbilDbF7Q"
+      },
+      "artists": [
+        {
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 215840,
+      "name": "Kick Out The Scum",
+      "url": "https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua"
+    },
+    {
+      "album": {
+        "name": "Mick Jones Nicked My Pudding",
+        "url": "https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/74KJL8Xmwr8EcYPY22jN5M"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6fKymBc5tF2uMbQhyRaezA"
+    },
+    {
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/2328yoKVtISkOGIcjIn7ou"
+      },
+      "artists": [
+        {
+          "name": "Flatfoot 56",
+          "url": "https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286500,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/3PLyelbjEqiV9YykUcaZoa"
+    },
+    {
+      "album": {
+        "name": "My Dark Foamy Friend",
+        "url": "https://open.spotify.com/album/4jDDvx41vbQMLiAAUjXYTg"
+      },
+      "artists": [
+        {
+          "name": "Paddy Murphy",
+          "url": "https://open.spotify.com/artist/2hbw7tsQv6Ejqc8kBDoFIK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 307972,
+      "name": "My Dark Foamy Friend",
+      "url": "https://open.spotify.com/track/3O1AZJjf5p6U079v6ZRhTQ"
+    },
+    {
+      "album": {
+        "name": "My Darling Dopamine",
+        "url": "https://open.spotify.com/album/2iqsju556G00B1EK1VmmLP"
+      },
+      "artists": [
+        {
+          "name": "Days N Daze",
+          "url": "https://open.spotify.com/artist/3wRGr9z5I5xmmVc21fIvC6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 202040,
+      "name": "My Darling Dopamine",
+      "url": "https://open.spotify.com/track/6WVswDACrMjAkj1nRxYI3Z"
+    },
+    {
+      "album": {
+        "name": "No Justice No Peace",
+        "url": "https://open.spotify.com/album/44yc7SkCdivSpBBcH69POX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Irish Bastard",
+          "url": "https://open.spotify.com/artist/5NhSUk5Sygly90DDO78eLK"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 232200,
+      "name": "No Justice No Peace",
+      "url": "https://open.spotify.com/track/60UgW3NINpPTIIljhpuxsu"
+    },
+    {
+      "album": {
+        "name": "The Murders Three",
+        "url": "https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo"
+      },
+      "artists": [
+        {
+          "name": "Brave the Sea",
+          "url": "https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Old Maui",
+      "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
+    },
+    {
+      "album": {
+        "name": "Heard Ya Say!",
+        "url": "https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x"
+      },
+      "artists": [
+        {
+          "name": "Happy Ol'McWeasel",
+          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229539,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY"
+    },
+    {
+      "album": {
+        "name": "Heyday (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
+    },
+    {
+      "album": {
+        "name": "Sixth and Porter",
+        "url": "https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8"
+      },
+      "artists": [
+        {
+          "name": "The Kreellers",
+          "url": "https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Orange and the Green",
+      "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/4FGoTIbvBV1F5AizFevZ1x"
+      },
+      "artists": [
+        {
+          "name": "The Mahones",
+          "url": "https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-13",
+      "duration_ms": 204506,
+      "name": "Paint the Town Red",
+      "url": "https://open.spotify.com/track/6VEg22DAHZ3bVoLN0fgOFv"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9"
+      },
+      "artists": [
+        {
+          "name": "The Mahones",
+          "url": "https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Paint the Town Red",
+      "url": "https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4"
+    },
+    {
+      "album": {
+        "name": "Pirates of Three Rivers",
+        "url": "https://open.spotify.com/album/2ikmqZzWcafBRECnJKgKmJ"
+      },
+      "artists": [
+        {
+          "name": "Bastard Bearded Irishmen",
+          "url": "https://open.spotify.com/artist/5EfmL47bDGY9AHNWih7uGZ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 218149,
+      "name": "Pirates of Three Rivers",
+      "url": "https://open.spotify.com/track/33feSMBaMfeDg18jvD1Xdp"
+    },
+    {
+      "album": {
+        "name": "Queen Of Suffolk County",
+        "url": "https://open.spotify.com/album/6bCGtKqUBknQoeYnnUdH1b"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231655,
+      "name": "Queen Of Suffolk County",
+      "url": "https://open.spotify.com/track/0Oqavw1vwKLOM0RJWhTHPc"
+    },
+    {
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "album": {
+        "name": "Hestia",
+        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215975,
+      "name": "Sainted Millions",
+      "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
+    },
+    {
+      "album": {
+        "name": "Sainted Millions",
+        "url": "https://open.spotify.com/album/1EJ0Kd7zPTP12eetg4W1tI"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215975,
+      "name": "Sainted Millions",
+      "url": "https://open.spotify.com/track/7LmBfdrRNRZrDnEICN8AjX"
+    },
+    {
+      "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Sally MacLennane",
+      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
+    },
+    {
+      "album": {
+        "name": "Within A Mile Of Home",
+        "url": "https://open.spotify.com/album/3dTWUxyDbFbPIxYe8CDSZC"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170146,
+      "name": "Seven Deadly Sins",
+      "url": "https://open.spotify.com/track/0Zaj8UBGB5AfwRfnr29gjD"
+    },
+    {
+      "album": {
+        "name": "Within a Mile of Home",
+        "url": "https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170146,
+      "name": "Seven Deadly Sins",
+      "url": "https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0"
+    },
+    {
+      "album": {
+        "name": "Within a Mile of Home",
+        "url": "https://open.spotify.com/album/1YkpNe3f9MctcZSMoGz1ah"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 170146,
+      "name": "Seven Deadly Sins",
+      "url": "https://open.spotify.com/track/7DpMB4j8Ye6PGU6owqQmfm"
+    },
+    {
+      "album": {
+        "name": "Tell No Tales",
+        "url": "https://open.spotify.com/album/2laiV8yrdjRfX6qlKlRAOI"
+      },
+      "artists": [
+        {
+          "name": "The American Wake",
+          "url": "https://open.spotify.com/artist/1TZHVc2jQfueHapzZOvAWo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 225933,
+      "name": "She Swears Like a Sailor",
+      "url": "https://open.spotify.com/track/3PyXHakiQiHdINKQaTRZKR"
+    },
+    {
+      "album": {
+        "name": "Rum, Bum and Violina",
+        "url": "https://open.spotify.com/album/26AKlMqSPrZzuPihhOAEQf"
+      },
+      "artists": [
+        {
+          "name": "The Porters",
+          "url": "https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275946,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/10c5bkq7d0xJewsycAMJlD"
+    },
+    {
+      "album": {
+        "name": "Rum, Bum and Violina",
+        "url": "https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ"
+      },
+      "artists": [
+        {
+          "name": "The Porters",
+          "url": "https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275946,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc"
+    },
+    {
+      "album": {
+        "name": "Gringo Mariachi",
+        "url": "https://open.spotify.com/album/5uwD1x8Wohjq2PtyKcffeQ"
+      },
+      "artists": [
+        {
+          "name": "The Wages of Sin",
+          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 211213,
+      "name": "Skull Creek Logger",
+      "url": "https://open.spotify.com/track/5Gh2ldlMcEjcxGXQZO2erc"
+    },
+    {
+      "album": {
+        "name": "Gringo Mariachi",
+        "url": "https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S"
+      },
+      "artists": [
+        {
+          "name": "The Wages of Sin",
+          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 211213,
+      "name": "Skull Creek Logger",
+      "url": "https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y"
+    },
+    {
+      "album": {
+        "name": "Polka's Not Dead",
+        "url": "https://open.spotify.com/album/6USXCdKuC6VosxTDmi5PvN"
+      },
+      "artists": [
+        {
+          "name": "The Dreadnoughts",
+          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189560,
+      "name": "Sleep Is For The Weak",
+      "url": "https://open.spotify.com/track/2jJwEjUt89eMfxRqO4WOOH"
+    },
+    {
+      "album": {
+        "name": "Polka's Not Dead",
+        "url": "https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH"
+      },
+      "artists": [
+        {
+          "name": "The Dreadnoughts",
+          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "Sleep Is for the Weak",
+      "url": "https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG"
+    },
+    {
+      "album": {
+        "name": "Smash Shit Up",
+        "url": "https://open.spotify.com/album/3FBUqLBuO2tUqfZiNbuwj3"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/21QpuibkIZywkkDQoAz3eh"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+    },
+    {
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
+      },
+      "artists": [
+        {
+          "name": "Jolly Jackers",
+          "url": "https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151634,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
+    },
+    {
+      "album": {
+        "name": "Toss the Coin",
+        "url": "https://open.spotify.com/album/2vthT4utjsxoiZB6YmvsZ7"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 211573,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM"
+    },
+    {
+      "album": {
+        "name": "Toss the Coin",
+        "url": "https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx"
+    },
+    {
+      "album": {
+        "name": "Spice It Up!",
+        "url": "https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4"
+      },
+      "artists": [
+        {
+          "name": "Firkin",
+          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167150,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/2lxPat5AT5o7D06Q7YNE6G"
+      },
+      "artists": [
+        {
+          "name": "Firkin",
+          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167150,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po"
+    },
+    {
+      "album": {
+        "name": "Raise 'em All",
+        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
+      },
+      "artists": [
+        {
+          "name": "Irish Moutarde",
+          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157875,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
+    },
+    {
+      "album": {
+        "name": "With All Due Respect - The Irish Sessions",
+        "url": "https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191906,
+      "name": "The Foggy Dew",
+      "url": "https://open.spotify.com/track/59cTalavalHWTXoEtGnrJA"
+    },
+    {
+      "album": {
+        "name": "With All Due Respect: The Irish Sessions",
+        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
+      },
+      "artists": [
+        {
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "The Foggy Dew",
+      "url": "https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp"
+    },
+    {
+      "album": {
+        "name": "Saints Preserve Us",
+        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271186,
+      "name": "The Foreman O'rourke",
+      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
+    },
+    {
+      "album": {
+        "name": "Saints Preserve Us",
+        "url": "https://open.spotify.com/album/76r4vFOptCvDT6rcZ749MO"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271186,
+      "name": "The Foreman O\u2019Rourke",
+      "url": "https://open.spotify.com/track/2godnUpDSagEKzc14Ooqhl"
+    },
+    {
+      "album": {
+        "name": "The Gipsy Dancer",
+        "url": "https://open.spotify.com/album/4a94PhrTzFNdeZWWl8A7CH"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169828,
+      "name": "The Gipsy Dancer",
+      "url": "https://open.spotify.com/track/6xpzEfi8vmrIQBgB2cvacW"
+    },
+    {
+      "album": {
+        "name": "Toss the Coin",
+        "url": "https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "The Gipsy Dancer",
+      "url": "https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC"
+    },
+    {
+      "album": {
+        "name": "On a Fine Spring Evening",
+        "url": "https://open.spotify.com/album/4IpjRyghZWy3TSq5Z4LSYo"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160906,
+      "name": "The Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/3x4exVFOQeIva1LTxjtwDc"
+    },
+    {
+      "album": {
+        "name": "On A Fine Spring Evening",
+        "url": "https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "The Rocky Road To Dublin",
+      "url": "https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Saint Bushmill's Choir",
+        "url": "https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I"
+      },
+      "artists": [
+        {
+          "name": "Saint Bushmill's Choir",
+          "url": "https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "The Secret Set (Drowsy Maggie / The Star of Munster)",
+      "url": "https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0"
+    },
+    {
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "The State Of Massachusetts",
+      "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"
+    },
+    {
+      "album": {
+        "name": "WestWinds",
+        "url": "https://open.spotify.com/album/0Piq7ZTmthM6KOlu3VUCTR"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247653,
+      "name": "The Tempest",
+      "url": "https://open.spotify.com/track/4Pi1gat00bwbi84xENZabP"
+    },
+    {
+      "album": {
+        "name": "Westwinds",
+        "url": "https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "The Tempest",
+      "url": "https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx"
+    },
+    {
+      "album": {
+        "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
+        "url": "https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 253376,
+      "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
+      "url": "https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/24VDA7uDpJNooCG6L7WTug"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253376,
+      "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
+      "url": "https://open.spotify.com/track/4mydnwj57bTdkUKqvxg9b4"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/24bp5VFAICVJ2ZXRuDUCJP"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 253376,
+      "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
+      "url": "https://open.spotify.com/track/7IOrBMvRcXDg7cbYN925xk"
+    },
+    {
+      "album": {
+        "name": "This Is Our Day",
+        "url": "https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ"
+      },
+      "artists": [
+        {
+          "name": "The Roughneck Riot",
+          "url": "https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "This Is Our Day",
+      "url": "https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr"
+    },
+    {
+      "album": {
+        "name": "This Is Our Day",
+        "url": "https://open.spotify.com/album/2AZk5BiFgrZT8w2NbcZhPK"
+      },
+      "artists": [
+        {
+          "name": "The Roughneck Riot",
+          "url": "https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203826,
+      "name": "This Is Our Day",
+      "url": "https://open.spotify.com/track/7cvkeq1Pjnbryp9gEXNggb"
+    },
+    {
+      "album": {
+        "name": "The Bollox",
+        "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
+      },
+      "artists": [
+        {
+          "name": "The Bollox",
+          "url": "https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224732,
+      "name": "Tura Lu",
+      "url": "https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial",
+        "url": "https://open.spotify.com/album/7a6NzWEOQMUJZcPXyWMmDo"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/2d05ApT2Mg3dss41OBhXRe"
+    },
+    {
+      "album": {
+        "name": "25 Blarney Roses",
+        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Victor and His Demons",
+      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
+    },
+    {
+      "album": {
+        "name": "Two Years Enough",
+        "url": "https://open.spotify.com/album/78aNC6N1fhpbXRBbgLsMiE"
+      },
+      "artists": [
+        {
+          "name": "Brick Top Blaggers",
+          "url": "https://open.spotify.com/artist/5NfRMlxntptF6CoAVVnpe2"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 160293,
+      "name": "Walk the Plank Again",
+      "url": "https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3"
+    },
+    {
+      "album": {
+        "name": "Honor",
+        "url": "https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ"
+      },
+      "artists": [
+        {
+          "name": "The Killigans",
+          "url": "https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166826,
+      "name": "Whiskey and Gin",
+      "url": "https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk"
+    },
+    {
+      "album": {
+        "name": "Wreckhead Wedding",
+        "url": "https://open.spotify.com/album/3s26yNHeTMOhxPGHzWEM0v"
+      },
+      "artists": [
+        {
+          "name": "The Gallowgate Murders",
+          "url": "https://open.spotify.com/artist/6pCJCybLgbksMuS4vki2s0"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 176409,
+      "name": "Wreck Head Wedding",
+      "url": "https://open.spotify.com/track/59Yc6uN8UjlhF7XXWAxxoH"
+    },
+    {
+      "album": {
+        "name": "Green Blood",
+        "url": "https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl"
+      },
+      "artists": [
+        {
+          "name": "The O'Reillys and the Paddyhats",
+          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Yesterday's Rebel",
+      "url": "https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8"
+    },
+    {
+      "album": {
+        "name": "Green Blood",
+        "url": "https://open.spotify.com/album/4vyVIxudWxYavhsRSjJoIa"
+      },
+      "artists": [
+        {
+          "name": "The O'Reillys and the Paddyhats",
+          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 174746,
+      "name": "Yesterday's Rebel",
+      "url": "https://open.spotify.com/track/4CORTiFsG6MgUTnyNNTlvW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb1IUaS6F7Z8"
 }

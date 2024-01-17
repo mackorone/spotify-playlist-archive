@@ -4,7 +4,7 @@
 
 > ZARAMAY en la casa del Trap Argentino.
 
-259 songs - 12 hr 31 min
+260 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,9 @@
 | [Cerca de tí \- Remix](https://open.spotify.com/track/51g3eI9dcemoeyk2mSe8wN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [Cerca de tí \(Remix\)](https://open.spotify.com/album/2pWtSzdh4ZYWDWOomBzaMr) | 4:01 | 2022-01-21 | 2022-07-08 |
 | [Chico Estrella](https://open.spotify.com/track/1VYaM9VSix6jth7nXiHvo2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Chico Estrella](https://open.spotify.com/album/05XZWDj3tPhgwD3zQw43X7) | 2:50 | 2022-01-21 |  |
 | [COACH](https://open.spotify.com/track/6YbzhSDVIz6zG9Hf7CoNUc) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:57 | 2022-05-09 | 2022-05-20 |
-| [Coco](https://open.spotify.com/track/5i3qNgv94AMv0KXGwneOYd) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Coco](https://open.spotify.com/album/35RE8FtGug6lS9KVdqn75R) | 2:28 | 2023-02-03 |  |
+| [Coco](https://open.spotify.com/track/5i3qNgv94AMv0KXGwneOYd) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Coco](https://open.spotify.com/album/35RE8FtGug6lS9KVdqn75R) | 2:28 | 2023-02-03 | 2024-01-13 |
 | [Comando](https://open.spotify.com/track/13GNmtxaAHgSYvf03I76IC) | [Khaled](https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Comando](https://open.spotify.com/album/4x5esQA7Po5dgWjRi2eovS) | 3:09 | 2022-07-15 | 2022-09-03 |
-| [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 | 2022-01-21 |  |
+| [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 | 2022-01-21 | 2024-01-13 |
 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-08 | 2023-06-14 |
 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 | 2023-09-11 |
 | [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 | 2023-10-28 |
@@ -58,6 +58,7 @@
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 | 2022-07-21 |
 | [Cuantas Veces Ma'](https://open.spotify.com/track/3gbxCU5idEzgq5VyH5O8FS) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Cuantas Veces Ma'](https://open.spotify.com/album/1w8j2WNLhVXaVTczEIPQb5) | 2:04 | 2022-05-20 | 2022-06-18 |
 | [Cuenta de Banco](https://open.spotify.com/track/2RlUm2pD3qwO9rkXM4PQKF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 2:50 | 2022-01-21 | 2022-04-16 |
+| [De las Shox a las Scorch](https://open.spotify.com/track/2i6PWZFkF8gnz668hT4sVX) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [PPP](https://open.spotify.com/album/1lsa2UwevjmI1Ud8JxvYPa) | 3:26 | 2024-01-12 |  |
 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 | 2022-01-21 | 2023-02-04 |
 | [DEL ESTUDIO AL ESTADIO](https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [buscando la luz \(deluxe\)](https://open.spotify.com/album/43aMkIvyWY3jMT73OmNpdY) | 3:35 | 2023-09-01 |  |
 | [DEMASIADO ACÁ](https://open.spotify.com/track/7m3Xelht46B638RTXA9GGQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [DEMASIADO ACÁ](https://open.spotify.com/album/3fJn9ymxRpel8WNvRwjOwV) | 2:10 | 2022-03-25 | 2022-06-09 |

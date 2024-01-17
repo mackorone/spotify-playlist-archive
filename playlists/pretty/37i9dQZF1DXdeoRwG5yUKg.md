@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,754 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,976 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 67 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 |
 | 68 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 |
 | 69 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 |
-| 70 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
+| 70 | [Now You Want Me Back](https://open.spotify.com/track/4Xdduaxx6hH6JER9A2Q71v) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/7lrmsF6mMiLYN8WAXJziez) | 4:09 |
 | 71 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 |
 | 72 | [Mountain](https://open.spotify.com/track/4rVyCobGlhYiLVIVgBaSn6) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Original](https://open.spotify.com/album/5pg0LnXJII43RFJrsfsnfJ) | 4:00 |
 | 73 | [Try Me](https://open.spotify.com/track/1OqIafVbegBpzFIONJsSX2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Allow Me to Confess](https://open.spotify.com/album/34puSs63TscNNMGLCjF7qY) | 3:14 |

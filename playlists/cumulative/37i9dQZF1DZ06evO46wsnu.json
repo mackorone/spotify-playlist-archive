@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Endgame",
+      "url": "https://open.spotify.com/track/2xbPgQOfICgLYs8P4lkEtx"
+    },
+    {
+      "album": {
         "name": "The Ghost Note Symphonies, Vol.1",
         "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 238573,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5sG3G54H21hNfd5etlheoe"

@@ -1,15 +1,15 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2287,
+  "num_followers": 2319,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDBlODFhMjFmNWI4Y2UwZjhmMWZjY2U2ODM5NzFiZjg0Yw==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAxYWYzYmU4Njc1OTQzMzVkYWMwZDhiNGFlYTc1NGNlZQ==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
         "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5ZC0vItywihOMCql4TRQRj"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5TVYykPNOs7gt1urSqsEih"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Sres. Papis",
         "url": "https://open.spotify.com/album/6kSmm9DKburGy0vHaA6ovB"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1ZHcMZyJU6gb8HwXgZuSkT"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
         "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1wQSySo4aInJ4f3UQkQme9"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
@@ -121,55 +121,7 @@
       "url": "https://open.spotify.com/track/2KC0gekyXoj4Rn5S7WApIL"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "Algo de Ti",
-      "url": "https://open.spotify.com/track/0m9qdx9xK1SankfVYz6eZe"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Lo Peor de Todo (Remasterizado)",
-        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Televidente",
-      "url": "https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Donde Vamos a Parar (Remasterizado)",
-        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 290480,
-      "name": "Todo Estaba Bien",
-      "url": "https://open.spotify.com/track/3vUkyvc3QTvsFrFfypwsBE"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
@@ -185,7 +137,55 @@
       "url": "https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Televidente",
+      "url": "https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 290480,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/3vUkyvc3QTvsFrFfypwsBE"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "Algo de Ti",
+      "url": "https://open.spotify.com/track/0m9qdx9xK1SankfVYz6eZe"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
         "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7siVuRZAlqTw0qG1cyN2tG"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/4M8gxBy9CHY07oSatlOTN6"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
         "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5pb0dvKEXc27MUCx9LuofT"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
@@ -297,23 +297,7 @@
       "url": "https://open.spotify.com/track/23Tq3thBgcq10RjBCFJo3V"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Donde Vamos a Parar (Remasterizado)",
-        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Mi Partido Lo Har\u00e1 (Los Pol\u00edticos)",
-      "url": "https://open.spotify.com/track/1k1Yho4briB01hvK4F9MNP"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/0rSNxNPMkzDx1gByZqS9c9"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Mi Partido Lo Har\u00e1 (Los Pol\u00edticos)",
+      "url": "https://open.spotify.com/track/1k1Yho4briB01hvK4F9MNP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
         "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5v8r5nnQuXUQL4qUTIAdrf"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
@@ -365,7 +365,23 @@
       "url": "https://open.spotify.com/track/3VNj2mxv5UqUVx8eJRLFLh"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Nena Resc\u00e1tame",
+      "url": "https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/1BwMhhbybfhAKeVanov4rp"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Todo Lo Que Quiero",
-      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Nuestra Cumbia",
         "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
@@ -433,39 +433,7 @@
       "url": "https://open.spotify.com/track/76MxsYy8Zo5X3WXgEczg7m"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Nena Resc\u00e1tame",
-      "url": "https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "D\u00f3nde Vas",
-      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
@@ -476,28 +444,12 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 191306,
-      "name": "No Es Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
+      "duration_ms": 243040,
+      "name": "Todo Lo Que Quiero",
+      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 218538,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/6CnD6Lf21ssKD6qyngqD2e"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
@@ -508,12 +460,12 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Vac\u00edo",
-      "url": "https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg"
+      "duration_ms": 234973,
+      "name": "Un Amor Sin Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4zzOetx3QIt95dC2nMYQPM"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
@@ -529,7 +481,103 @@
       "url": "https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 218538,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6CnD6Lf21ssKD6qyngqD2e"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/4UjJEOoa8JzbbmighGn5du"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "D\u00f3nde Vas",
+      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 154555,
+      "name": "No Puedes Olvidarme",
+      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "Dec\u00edas",
+      "url": "https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Nos Van a Escuchar",
         "url": "https://open.spotify.com/album/6Y0RNqz4faP11dGgasMaMJ"
@@ -585,7 +633,23 @@
       "url": "https://open.spotify.com/track/0ydZwMus6teAlHjJ9EExVT"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
@@ -601,39 +665,7 @@
       "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Un Amor Sin Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4zzOetx3QIt95dC2nMYQPM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "Dec\u00edas",
-      "url": "https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
@@ -649,103 +681,7 @@
       "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 154555,
-      "name": "No Puedes Olvidarme",
-      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Est\u00e1 en la M\u00fasica",
-      "url": "https://open.spotify.com/track/77Mmist7d3DDNtqVF70bKT"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Dicen Que el Viento",
-      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/4UjJEOoa8JzbbmighGn5du"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "De Vuelta al Barrio Vol.1",
-        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 181105,
-      "name": "Estoy Cantando",
-      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
-    },
-    {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
@@ -761,7 +697,23 @@
       "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/77Mmist7d3DDNtqVF70bKT"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
@@ -777,7 +729,23 @@
       "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "De Vuelta al Barrio Vol.1",
+        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 181105,
+      "name": "Estoy Cantando",
+      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
@@ -793,7 +761,7 @@
       "url": "https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
@@ -809,7 +777,23 @@
       "url": "https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Dicen Que el Viento",
+      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "\u00a1Vamos a Volver!",
         "url": "https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV"
@@ -825,7 +809,7 @@
       "url": "https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
@@ -841,7 +825,7 @@
       "url": "https://open.spotify.com/track/6UM9JjFbJWlIwVbcF6IOL3"
     },
     {
-      "added_at": "2024-01-02 12:15:54",
+      "added_at": "2024-01-16 12:10:38",
       "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
@@ -852,9 +836,25 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 166426,
-      "name": "Te Extra\u00f1o Igual",
-      "url": "https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t"
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+    },
+    {
+      "added_at": "2024-01-16 12:10:38",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Hechizo de Amor",
+      "url": "https://open.spotify.com/track/18Pc3bfmEYe4y9krL6F4uG"
     }
   ],
   "unique_name": "This Is Rio",

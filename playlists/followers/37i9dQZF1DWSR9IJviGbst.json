@@ -1,413 +1,1161 @@
 {
-  "2022-11-15": 15,
-  "2022-11-16": 20,
-  "2022-11-17": 28,
-  "2022-11-18": 35,
-  "2022-11-19": 38,
-  "2022-11-20": 42,
-  "2022-11-21": 51,
-  "2022-11-22": 54,
-  "2022-11-23": 61,
-  "2022-11-24": 69,
-  "2022-11-25": 74,
-  "2022-11-26": 78,
-  "2022-11-27": 88,
-  "2022-11-28": 123,
-  "2022-11-29": 175,
-  "2022-11-30": 248,
-  "2022-12-01": 301,
-  "2022-12-02": 331,
-  "2022-12-03": 411,
-  "2022-12-04": 458,
-  "2022-12-05": 511,
-  "2022-12-06": 562,
-  "2022-12-07": 611,
-  "2022-12-08": 661,
-  "2022-12-09": 712,
-  "2022-12-10": 747,
-  "2022-12-11": 791,
-  "2022-12-12": 836,
-  "2022-12-13": 885,
-  "2022-12-14": 935,
-  "2022-12-15": 975,
-  "2022-12-16": 1015,
-  "2022-12-17": 1041,
-  "2022-12-18": 1079,
-  "2022-12-19": 1114,
-  "2022-12-20": 1183,
-  "2022-12-21": 1183,
-  "2022-12-22": 1225,
-  "2022-12-24": 1300,
-  "2022-12-25": 1324,
-  "2022-12-26": 1367,
-  "2022-12-27": 1406,
-  "2022-12-28": 1462,
-  "2022-12-29": 1510,
-  "2022-12-30": 1558,
-  "2022-12-31": 1612,
-  "2023-01-01": 1640,
-  "2023-01-02": 1676,
-  "2023-01-03": 1728,
-  "2023-01-04": 1775,
-  "2023-01-05": 1836,
-  "2023-01-06": 1886,
-  "2023-01-07": 1952,
-  "2023-01-08": 1974,
-  "2023-01-09": 2023,
-  "2023-01-10": 2053,
-  "2023-01-11": 2097,
-  "2023-01-12": 2152,
-  "2023-01-13": 2193,
-  "2023-01-14": 2273,
-  "2023-01-15": 2294,
-  "2023-01-16": 2340,
-  "2023-01-17": 2384,
-  "2023-01-18": 2443,
-  "2023-01-19": 2515,
-  "2023-01-20": 2586,
-  "2023-01-21": 2634,
-  "2023-01-22": 2683,
-  "2023-01-23": 2740,
-  "2023-01-24": 2787,
-  "2023-01-25": 2824,
-  "2023-01-26": 2874,
-  "2023-01-27": 2918,
-  "2023-01-28": 2986,
-  "2023-01-29": 3045,
-  "2023-01-30": 3095,
-  "2023-01-31": 3095,
-  "2023-02-01": 3188,
-  "2023-02-02": 3228,
-  "2023-02-03": 3265,
-  "2023-02-04": 3298,
-  "2023-02-05": 3339,
-  "2023-02-06": 3390,
-  "2023-02-07": 3427,
-  "2023-02-08": 3507,
-  "2023-02-09": 3507,
-  "2023-02-10": 3546,
-  "2023-02-11": 3583,
-  "2023-02-12": 3654,
-  "2023-02-13": 3683,
-  "2023-02-14": 3683,
-  "2023-02-15": 3727,
-  "2023-02-16": 3760,
-  "2023-02-17": 3824,
-  "2023-02-18": 3909,
-  "2023-02-19": 3929,
-  "2023-02-20": 3962,
-  "2023-02-21": 4021,
-  "2023-02-22": 4090,
-  "2023-02-23": 4142,
-  "2023-02-24": 4194,
-  "2023-02-25": 4265,
-  "2023-02-26": 4288,
-  "2023-02-27": 4397,
-  "2023-02-28": 4397,
-  "2023-03-01": 4437,
-  "2023-03-02": 4514,
-  "2023-03-03": 4582,
-  "2023-03-04": 4624,
-  "2023-03-05": 4730,
-  "2023-03-06": 4730,
-  "2023-03-07": 4791,
-  "2023-03-08": 4847,
-  "2023-03-09": 4906,
-  "2023-03-10": 4955,
-  "2023-03-11": 4997,
-  "2023-03-12": 5047,
-  "2023-03-13": 5105,
-  "2023-03-14": 5156,
-  "2023-03-15": 5210,
-  "2023-03-16": 5262,
-  "2023-03-17": 5262,
-  "2023-03-18": 5360,
-  "2023-03-19": 5423,
-  "2023-03-20": 5493,
-  "2023-03-21": 5568,
-  "2023-03-22": 5618,
-  "2023-03-23": 5665,
-  "2023-03-24": 5665,
-  "2023-03-25": 5759,
-  "2023-03-26": 5800,
-  "2023-03-27": 5864,
-  "2023-03-28": 5932,
-  "2023-03-29": 5997,
-  "2023-03-30": 6084,
-  "2023-03-31": 6084,
-  "2023-04-01": 6127,
-  "2023-04-02": 6175,
-  "2023-04-03": 6223,
-  "2023-04-04": 6270,
-  "2023-04-05": 6313,
-  "2023-04-06": 6368,
-  "2023-04-07": 6429,
-  "2023-04-09": 6518,
-  "2023-04-10": 6557,
-  "2023-04-11": 6652,
-  "2023-04-12": 6652,
-  "2023-04-13": 6702,
-  "2023-04-14": 6736,
-  "2023-04-15": 6769,
-  "2023-04-16": 6824,
-  "2023-04-17": 6859,
-  "2023-04-18": 6914,
-  "2023-04-19": 6976,
-  "2023-04-20": 7032,
-  "2023-04-21": 7077,
-  "2023-04-22": 7127,
-  "2023-04-23": 7182,
-  "2023-04-24": 7242,
-  "2023-04-25": 7302,
-  "2023-04-26": 7375,
-  "2023-04-27": 7433,
-  "2023-04-28": 7474,
-  "2023-04-29": 7535,
-  "2023-04-30": 7580,
-  "2023-05-01": 7633,
-  "2023-05-02": 7679,
-  "2023-05-03": 7744,
-  "2023-05-04": 7792,
-  "2023-05-05": 7830,
-  "2023-05-06": 7884,
-  "2023-05-07": 7929,
-  "2023-05-08": 7978,
-  "2023-05-09": 8018,
-  "2023-05-10": 8053,
-  "2023-05-11": 8102,
-  "2023-05-12": 8142,
-  "2023-05-13": 8191,
-  "2023-05-14": 8252,
-  "2023-05-15": 8305,
-  "2023-05-16": 8366,
-  "2023-05-17": 8420,
-  "2023-05-18": 8476,
-  "2023-05-19": 8544,
-  "2023-05-20": 8683,
-  "2023-05-21": 8683,
-  "2023-05-22": 8683,
-  "2023-05-23": 8869,
-  "2023-05-24": 8990,
-  "2023-05-25": 9002,
-  "2023-05-26": 9055,
-  "2023-05-27": 9099,
-  "2023-05-28": 9136,
-  "2023-05-29": 9136,
-  "2023-05-30": 9232,
-  "2023-05-31": 9270,
-  "2023-06-01": 9327,
-  "2023-06-02": 9357,
-  "2023-06-03": 9390,
-  "2023-06-04": 9417,
-  "2023-06-05": 9452,
-  "2023-06-06": 9485,
-  "2023-06-07": 9521,
-  "2023-06-08": 9540,
-  "2023-06-09": 9581,
-  "2023-06-10": 9630,
-  "2023-06-11": 9658,
-  "2023-06-12": 9692,
-  "2023-06-13": 9723,
-  "2023-06-14": 9723,
-  "2023-06-15": 9778,
-  "2023-06-16": 9809,
-  "2023-06-17": 9842,
-  "2023-06-18": 9877,
-  "2023-06-19": 9912,
-  "2023-06-20": 9959,
-  "2023-06-21": 9999,
-  "2023-06-22": 10040,
-  "2023-06-23": 10081,
-  "2023-06-24": 10110,
-  "2023-06-25": 10133,
-  "2023-06-26": 10168,
-  "2023-06-27": 10199,
-  "2023-06-28": 10232,
-  "2023-06-29": 10280,
-  "2023-06-30": 10326,
-  "2023-07-01": 10423,
-  "2023-07-02": 10423,
-  "2023-07-03": 10462,
-  "2023-07-04": 10494,
-  "2023-07-05": 10522,
-  "2023-07-06": 10607,
-  "2023-07-07": 10607,
-  "2023-07-08": 10631,
-  "2023-07-09": 10671,
-  "2023-07-10": 10720,
-  "2023-07-11": 10768,
-  "2023-07-12": 10805,
-  "2023-07-13": 10846,
-  "2023-07-14": 10881,
-  "2023-07-15": 10908,
-  "2023-07-16": 10940,
-  "2023-07-17": 10977,
-  "2023-07-18": 11029,
-  "2023-07-19": 11100,
-  "2023-07-20": 11168,
-  "2023-07-21": 11210,
-  "2023-07-22": 11246,
-  "2023-07-23": 11273,
-  "2023-07-24": 11316,
-  "2023-07-25": 11354,
-  "2023-07-26": 11397,
-  "2023-07-27": 11426,
-  "2023-07-28": 11473,
-  "2023-07-29": 11514,
-  "2023-07-30": 11547,
-  "2023-07-31": 11591,
-  "2023-08-01": 11629,
-  "2023-08-02": 11675,
-  "2023-08-03": 11727,
-  "2023-08-04": 11782,
-  "2023-08-05": 11824,
-  "2023-08-06": 11913,
-  "2023-08-07": 11913,
-  "2023-08-08": 11949,
-  "2023-08-09": 11997,
-  "2023-08-10": 12061,
-  "2023-08-11": 12107,
-  "2023-08-12": 12159,
-  "2023-08-13": 12204,
-  "2023-08-14": 12246,
-  "2023-08-15": 12328,
-  "2023-08-16": 12328,
-  "2023-08-17": 12380,
-  "2023-08-18": 12425,
-  "2023-08-19": 12473,
-  "2023-08-20": 12519,
-  "2023-08-21": 12586,
-  "2023-08-22": 12636,
-  "2023-08-23": 12683,
-  "2023-08-24": 12756,
-  "2023-08-25": 12809,
-  "2023-08-26": 12858,
-  "2023-08-27": 12918,
-  "2023-08-28": 12972,
-  "2023-08-29": 13029,
-  "2023-08-30": 13081,
-  "2023-08-31": 13137,
-  "2023-09-01": 13224,
-  "2023-09-02": 13224,
-  "2023-09-03": 13246,
-  "2023-09-04": 13280,
-  "2023-09-05": 13318,
-  "2023-09-06": 13343,
-  "2023-09-07": 13375,
-  "2023-09-08": 13401,
-  "2023-09-09": 13432,
-  "2023-09-10": 13454,
-  "2023-09-11": 13492,
-  "2023-09-12": 13539,
-  "2023-09-13": 13594,
-  "2023-09-14": 13633,
-  "2023-09-15": 13662,
-  "2023-09-16": 13692,
-  "2023-09-17": 13742,
-  "2023-09-18": 13784,
-  "2023-09-19": 13817,
-  "2023-09-20": 13866,
-  "2023-09-21": 13912,
-  "2023-09-22": 13957,
-  "2023-09-23": 13991,
-  "2023-09-24": 14036,
-  "2023-09-25": 14083,
-  "2023-09-26": 14148,
-  "2023-09-27": 14187,
-  "2023-09-28": 14220,
-  "2023-09-29": 14254,
-  "2023-09-30": 14279,
-  "2023-10-01": 14316,
-  "2023-10-02": 14356,
-  "2023-10-03": 14383,
-  "2023-10-04": 14420,
-  "2023-10-05": 14449,
-  "2023-10-06": 14481,
-  "2023-10-07": 14513,
-  "2023-10-08": 14548,
-  "2023-10-09": 14583,
-  "2023-10-10": 14599,
-  "2023-10-11": 14673,
-  "2023-10-12": 14673,
-  "2023-10-13": 14703,
-  "2023-10-14": 14728,
-  "2023-10-15": 14764,
-  "2023-10-16": 14809,
-  "2023-10-17": 14846,
-  "2023-10-18": 14881,
-  "2023-10-19": 14912,
-  "2023-10-20": 14943,
-  "2023-10-21": 14964,
-  "2023-10-22": 14998,
-  "2023-10-23": 15030,
-  "2023-10-24": 15078,
-  "2023-10-25": 15113,
-  "2023-10-26": 15144,
-  "2023-10-27": 15175,
-  "2023-10-28": 15211,
-  "2023-10-29": 15248,
-  "2023-10-30": 15313,
-  "2023-10-31": 15313,
-  "2023-11-01": 15331,
-  "2023-11-02": 15354,
-  "2023-11-03": 15384,
-  "2023-11-04": 15406,
-  "2023-11-05": 15437,
-  "2023-11-06": 15470,
-  "2023-11-07": 15498,
-  "2023-11-08": 15524,
-  "2023-11-09": 15552,
-  "2023-11-10": 15598,
-  "2023-11-11": 15616,
-  "2023-11-12": 15643,
-  "2023-11-13": 15671,
-  "2023-11-14": 15703,
-  "2023-11-15": 15703,
-  "2023-11-16": 15763,
-  "2023-11-17": 15834,
-  "2023-11-18": 15834,
-  "2023-11-19": 15865,
-  "2023-11-20": 15900,
-  "2023-11-21": 15932,
-  "2023-11-22": 15971,
-  "2023-11-23": 16002,
-  "2023-11-24": 16026,
-  "2023-11-25": 16049,
-  "2023-11-26": 16075,
-  "2023-11-27": 16097,
-  "2023-11-28": 16133,
-  "2023-11-29": 16188,
-  "2023-11-30": 16188,
-  "2023-12-01": 16219,
-  "2023-12-02": 16246,
-  "2023-12-03": 16282,
-  "2023-12-04": 16320,
-  "2023-12-05": 16371,
-  "2023-12-06": 16395,
-  "2023-12-07": 16435,
-  "2023-12-08": 16461,
-  "2023-12-09": 16498,
-  "2023-12-10": 16530,
-  "2023-12-11": 16571,
-  "2023-12-12": 16611,
-  "2023-12-13": 16645,
-  "2023-12-14": 16702,
-  "2023-12-15": 16715,
-  "2023-12-16": 16755,
-  "2023-12-17": 16798,
-  "2023-12-18": 16833,
-  "2023-12-19": 16874,
-  "2023-12-20": 16902,
-  "2023-12-21": 16923,
-  "2023-12-22": 16954,
-  "2023-12-23": 16974,
-  "2023-12-24": 16999,
-  "2023-12-25": 17013,
-  "2023-12-26": 17045,
-  "2023-12-27": 17086,
-  "2023-12-30": 17177,
-  "2023-12-31": 17211,
-  "2024-01-01": 17247,
-  "2024-01-02": 17284,
-  "2024-01-03": 17320
+  "2024-01-17": 17872,
+  "date_first_scraped": "2022-11-15",
+  "description": "Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.",
+  "name": "Gentle Stream Water Sounds",
+  "tracks": [
+    {
+      "album": {
+        "name": "Babbling Stream in the Forest",
+        "url": "https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda"
+      },
+      "artists": [
+        {
+          "name": "The Nature Songs",
+          "url": "https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "A Babbling Brook",
+      "url": "https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m"
+    },
+    {
+      "album": {
+        "name": "A Creek In The Jungle",
+        "url": "https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp"
+      },
+      "artists": [
+        {
+          "name": "The Sound Designers",
+          "url": "https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 200213,
+      "name": "A Creek In The Jungle",
+      "url": "https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T"
+    },
+    {
+      "album": {
+        "name": "Soothing River Sounds",
+        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 170000,
+      "name": "Babbling Brook",
+      "url": "https://open.spotify.com/track/4ec3VGnJUyMfX5GEFCBipt"
+    },
+    {
+      "album": {
+        "name": "Babbling Stream",
+        "url": "https://open.spotify.com/album/6odFmCA3nOYG362B7Bel5v"
+      },
+      "artists": [
+        {
+          "name": "Calming Water",
+          "url": "https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Babbling Forest Brook",
+      "url": "https://open.spotify.com/track/70wI8fVLWlH0Cy0jZlH7tf"
+    },
+    {
+      "album": {
+        "name": "Waters of the North",
+        "url": "https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Scandinavia",
+          "url": "https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165470,
+      "name": "Big and calm creek, distant wind in trees",
+      "url": "https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Forest",
+        "url": "https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC"
+      },
+      "artists": [
+        {
+          "name": "Super Natural",
+          "url": "https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 128000,
+      "name": "Birds and A Beautiful Brook",
+      "url": "https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R"
+    },
+    {
+      "album": {
+        "name": "Blissful Nature Sounds",
+        "url": "https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blissful Brook (Rain)",
+      "url": "https://open.spotify.com/track/3fEv1aGc7IsFlDUUrxIsWL"
+    },
+    {
+      "album": {
+        "name": "Sound of Nature",
+        "url": "https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 156000,
+      "name": "Blue Stream",
+      "url": "https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry"
+    },
+    {
+      "album": {
+        "name": "Calm Rainforest Noise",
+        "url": "https://open.spotify.com/album/4iSALerJ8CpOKnfVfRZmHR"
+      },
+      "artists": [
+        {
+          "name": "Outside HD Samples",
+          "url": "https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 216033,
+      "name": "Calm Rainforest Noise",
+      "url": "https://open.spotify.com/track/2fB3f2KnKfgYj3wbjBh3Nj"
+    },
+    {
+      "album": {
+        "name": "Calm River Noise",
+        "url": "https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I"
+      },
+      "artists": [
+        {
+          "name": "The Outdoor Library",
+          "url": "https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201243,
+      "name": "Calm River Noise",
+      "url": "https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF"
+    },
+    {
+      "album": {
+        "name": "Swedish River Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf"
+      },
+      "artists": [
+        {
+          "name": "In The River (Sound FX)",
+          "url": "https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126765,
+      "name": "Calming River Water",
+      "url": "https://open.spotify.com/track/6vpNww23UkrnbMWdQLAQ94"
+    },
+    {
+      "album": {
+        "name": "Chilled Creek",
+        "url": "https://open.spotify.com/album/7HGxV79DywGHYEgzQcyfxk"
+      },
+      "artists": [
+        {
+          "name": "Natural Symphony",
+          "url": "https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159381,
+      "name": "Chill Forest Brook",
+      "url": "https://open.spotify.com/track/337SLftuDIp4wYyXdqpcOA"
+    },
+    {
+      "album": {
+        "name": "Wildlife and Nature Soundscapes",
+        "url": "https://open.spotify.com/album/3lM9fS11Kki3uL6o65Ozea"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 248000,
+      "name": "Crystal River",
+      "url": "https://open.spotify.com/track/3xI1aR8lHTFgPjYIoqo0S4"
+    },
+    {
+      "album": {
+        "name": "Scandinavian waters",
+        "url": "https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge"
+      },
+      "artists": [
+        {
+          "name": "FJORD",
+          "url": "https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dal\u00e4lven",
+      "url": "https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT"
+    },
+    {
+      "album": {
+        "name": "River & Waterfall Flow",
+        "url": "https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182208,
+      "name": "Deep River Rapid Flow",
+      "url": "https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk"
+    },
+    {
+      "album": {
+        "name": "Autumn River Sounds",
+        "url": "https://open.spotify.com/album/5QvHXt1ux5QNQzC2iWIwkD"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298497,
+      "name": "Deerfield River",
+      "url": "https://open.spotify.com/track/7KPje5zK1vRtKjFZROTqEl"
+    },
+    {
+      "album": {
+        "name": "Rivers Of Estel\u00ed",
+        "url": "https://open.spotify.com/album/0HvZofNu5eDDhzrw4VCk88"
+      },
+      "artists": [
+        {
+          "name": "Miraflor",
+          "url": "https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "Down The River",
+      "url": "https://open.spotify.com/track/4dU8unK0e42MOkGjnqpu66"
+    },
+    {
+      "album": {
+        "name": "Rivers And Streams",
+        "url": "https://open.spotify.com/album/3l3fLrLSL3024gMcvVLt9c"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Falls",
+          "url": "https://open.spotify.com/artist/4YEs6CRrsB6P1JZtNVZ09C"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 110000,
+      "name": "Fast Flowing River - Seamless",
+      "url": "https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB"
+    },
+    {
+      "album": {
+        "name": "More Swedish River Sounds",
+        "url": "https://open.spotify.com/album/4yhFtZFQE8rgGX81kYWAlv"
+      },
+      "artists": [
+        {
+          "name": "In The River (Sound FX)",
+          "url": "https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122530,
+      "name": "Fj\u00e4llb\u00e4ck",
+      "url": "https://open.spotify.com/track/6d54aNX0e0Y4IvncHa3whr"
+    },
+    {
+      "album": {
+        "name": "Floden",
+        "url": "https://open.spotify.com/album/59DYy1L2g1AQu8OvnRoccW"
+      },
+      "artists": [
+        {
+          "name": "Naturen",
+          "url": "https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Flod i skogen",
+      "url": "https://open.spotify.com/track/3RfktG11RapLgNH1qgHWgc"
+    },
+    {
+      "album": {
+        "name": "Porthgain Wave",
+        "url": "https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t"
+      },
+      "artists": [
+        {
+          "name": "Memminger",
+          "url": "https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127391,
+      "name": "Flood Of Dreams",
+      "url": "https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z"
+    },
+    {
+      "album": {
+        "name": "Relaxing Nature",
+        "url": "https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT"
+      },
+      "artists": [
+        {
+          "name": "Gentle Outdoors",
+          "url": "https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Forest Creek",
+      "url": "https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD"
+    },
+    {
+      "album": {
+        "name": "Forest Creek",
+        "url": "https://open.spotify.com/album/4Gd0bYZO9u4i6UPN0rCSok"
+      },
+      "artists": [
+        {
+          "name": "Embracing Sounds",
+          "url": "https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Forest Creek for Sleeping",
+      "url": "https://open.spotify.com/track/4z328Z1jztGtCgTSixowmY"
+    },
+    {
+      "album": {
+        "name": "Relaxing River",
+        "url": "https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs"
+      },
+      "artists": [
+        {
+          "name": "the river scout",
+          "url": "https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193931,
+      "name": "Forest River",
+      "url": "https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0"
+    },
+    {
+      "album": {
+        "name": "Running Water",
+        "url": "https://open.spotify.com/album/4uvOtiH0g3Y6Ft2WwCPVXY"
+      },
+      "artists": [
+        {
+          "name": "Wild Ambience",
+          "url": "https://open.spotify.com/artist/4jsAEGrVJtzzmF8baeNHy6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Forest River",
+      "url": "https://open.spotify.com/track/5ODwMwLtWtIidqySNMrjX9"
+    },
+    {
+      "album": {
+        "name": "Calming Nature Sounds",
+        "url": "https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM"
+      },
+      "artists": [
+        {
+          "name": "Natural Symphony",
+          "url": "https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Gentle Brook",
+      "url": "https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB"
+    },
+    {
+      "album": {
+        "name": "River Relaxation",
+        "url": "https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj"
+      },
+      "artists": [
+        {
+          "name": "Four Winds",
+          "url": "https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Gentle River",
+      "url": "https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE"
+    },
+    {
+      "album": {
+        "name": "Flowing Rivers",
+        "url": "https://open.spotify.com/album/7uhHSNlivW28TuDO2fs6J4"
+      },
+      "artists": [
+        {
+          "name": "Weather Garden",
+          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201152,
+      "name": "Gentle River Flow",
+      "url": "https://open.spotify.com/track/3Gs2QLEuEXUEJeLidHuk7y"
+    },
+    {
+      "album": {
+        "name": "Meditative Jungle Nature Sounds",
+        "url": "https://open.spotify.com/album/5937SZAIHexGC5Yx6rhgrL"
+      },
+      "artists": [
+        {
+          "name": "Sounds of the Jungle",
+          "url": "https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 191209,
+      "name": "Glistening Brook",
+      "url": "https://open.spotify.com/track/4BmaniaxmweEwQrHTkd86u"
+    },
+    {
+      "album": {
+        "name": "Sound of Nature",
+        "url": "https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 147000,
+      "name": "Infinite River",
+      "url": "https://open.spotify.com/track/6OWyUTNNnJOnPdPgPh2wqy"
+    },
+    {
+      "album": {
+        "name": "Jungle Forest",
+        "url": "https://open.spotify.com/album/2sRyaF3OL3fMnFPU7WIKs1"
+      },
+      "artists": [
+        {
+          "name": "Mother Nature Sound FX",
+          "url": "https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 228938,
+      "name": "Jungle Forest",
+      "url": "https://open.spotify.com/track/4CGrBVBcfmczt54C3WDrDs"
+    },
+    {
+      "album": {
+        "name": "Gentle Stream",
+        "url": "https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH"
+      },
+      "artists": [
+        {
+          "name": "Ebb&Flod",
+          "url": "https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Light Stream",
+      "url": "https://open.spotify.com/track/1IRVelDSzORo06pEzecCiI"
+    },
+    {
+      "album": {
+        "name": "Natural Relaxation",
+        "url": "https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Little Babbling Brook",
+      "url": "https://open.spotify.com/track/4oCZ4rR6q9FTXFwwEw3Xya"
+    },
+    {
+      "album": {
+        "name": "River Spirit",
+        "url": "https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT"
+      },
+      "artists": [
+        {
+          "name": "Creatress",
+          "url": "https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251624,
+      "name": "Lovely Stream",
+      "url": "https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5"
+    },
+    {
+      "album": {
+        "name": "Meditative River",
+        "url": "https://open.spotify.com/album/4AMIUbYbNG6iNwRw1KQB3J"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125192,
+      "name": "Meditative River",
+      "url": "https://open.spotify.com/track/5adT6DQtuNZX19CV8AOQq0"
+    },
+    {
+      "album": {
+        "name": "Circle of Earth",
+        "url": "https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184525,
+      "name": "Northern River",
+      "url": "https://open.spotify.com/track/6OyRkPLVvqrhLCJkObruWb"
+    },
+    {
+      "album": {
+        "name": "Streams & Falls",
+        "url": "https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP"
+      },
+      "artists": [
+        {
+          "name": "Naturae",
+          "url": "https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298229,
+      "name": "Overflowing Stream",
+      "url": "https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db"
+    },
+    {
+      "album": {
+        "name": "Pond Of Sleep",
+        "url": "https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4"
+      },
+      "artists": [
+        {
+          "name": "Ambrook Glacier",
+          "url": "https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127391,
+      "name": "Pond Of Sleep",
+      "url": "https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm"
+    },
+    {
+      "album": {
+        "name": "River Dreams Vol. 1",
+        "url": "https://open.spotify.com/album/50L1ElINmGvHh48jg0WaCK"
+      },
+      "artists": [
+        {
+          "name": "River Dreams Catalog",
+          "url": "https://open.spotify.com/artist/6eBzW7r64y7AQS4kE2BNmE"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148674,
+      "name": "Rain Forest River",
+      "url": "https://open.spotify.com/track/6VeOkaotCgCi5fqDR2aKxi"
+    },
+    {
+      "album": {
+        "name": "Down Stream",
+        "url": "https://open.spotify.com/album/51pQpU9fLo5xTjSBQ4NwtP"
+      },
+      "artists": [
+        {
+          "name": "Drifting Streams",
+          "url": "https://open.spotify.com/artist/7GdXNgwObAO7mvdQcDT0Yo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352191,
+      "name": "Rapid Calm",
+      "url": "https://open.spotify.com/track/56XP9cBYLWwB4tSDeyF0aF"
+    },
+    {
+      "album": {
+        "name": "Recordings from Avaiki Cave",
+        "url": "https://open.spotify.com/album/6JBeZUOWw58Ou5sjJNBa6l"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/79VpsHg6Cb4FOzObCEh42h"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Recordings from Avaiki Cave",
+      "url": "https://open.spotify.com/track/2eA1w9Q6bfMusKEbOe7bSb"
+    },
+    {
+      "album": {
+        "name": "Rippling Water",
+        "url": "https://open.spotify.com/album/1VGjNnahsAULDSGurQ5DDW"
+      },
+      "artists": [
+        {
+          "name": "Field Rec Deluxe",
+          "url": "https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 147600,
+      "name": "Rippling Stream",
+      "url": "https://open.spotify.com/track/7DcoQUbnca3hPw7V0DuwjV"
+    },
+    {
+      "album": {
+        "name": "River Creek",
+        "url": "https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj"
+      },
+      "artists": [
+        {
+          "name": "Monterio",
+          "url": "https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rippling Water",
+      "url": "https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5"
+    },
+    {
+      "album": {
+        "name": "Rivers and Forest Sounds",
+        "url": "https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "River Cleanse",
+      "url": "https://open.spotify.com/track/7FH0vD04glSk5ovGAcpAOb"
+    },
+    {
+      "album": {
+        "name": "Weather and Nature Sounds",
+        "url": "https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182358,
+      "name": "River Roots",
+      "url": "https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP"
+    },
+    {
+      "album": {
+        "name": "River Relaxation",
+        "url": "https://open.spotify.com/album/2eFLy8Nq0j7oUt7KxZka22"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195276,
+      "name": "Riverside Rocks",
+      "url": "https://open.spotify.com/track/2IMSmgeJgxcfKvc1rqZy8f"
+    },
+    {
+      "album": {
+        "name": "Peaceful Streams",
+        "url": "https://open.spotify.com/album/3mV7mbNJTs2LfGAgqgklzw"
+      },
+      "artists": [
+        {
+          "name": "Naturesque",
+          "url": "https://open.spotify.com/artist/7A4Vjuj5WfIu5VGpeG6v0x"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Rushing Stream",
+      "url": "https://open.spotify.com/track/4nf0arXczGpdXTMi401O1m"
+    },
+    {
+      "album": {
+        "name": "Rivers & Creeks Recordings",
+        "url": "https://open.spotify.com/album/2oKiktP91bHOAXKjBKpVZh"
+      },
+      "artists": [
+        {
+          "name": "Nature Library",
+          "url": "https://open.spotify.com/artist/1ZziVLB2fJY09QInnbK12X"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Small River in the Forest",
+      "url": "https://open.spotify.com/track/4G2Q9vWyTg0wAGzHzKuscy"
+    },
+    {
+      "album": {
+        "name": "River Water Flowing in Winter",
+        "url": "https://open.spotify.com/album/4d9puaEJSCPXGu4K2nV7eU"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222812,
+      "name": "Soothing River Flow",
+      "url": "https://open.spotify.com/track/3SKM9jaKCBuMCApHbWhVHG"
+    },
+    {
+      "album": {
+        "name": "Swedish River Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf"
+      },
+      "artists": [
+        {
+          "name": "In The River (Sound FX)",
+          "url": "https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 132902,
+      "name": "Soothing Spring Creek Sound",
+      "url": "https://open.spotify.com/track/1ELff1MF9KFsGkrpGBPXcC"
+    },
+    {
+      "album": {
+        "name": "River Run",
+        "url": "https://open.spotify.com/album/41ZY6k3GWlLC7eGf3tAeRE"
+      },
+      "artists": [
+        {
+          "name": "Daichi",
+          "url": "https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Soothing Stream",
+      "url": "https://open.spotify.com/track/1SORCxjXkhCI9KKMVWziVC"
+    },
+    {
+      "album": {
+        "name": "Sound Of The Brook",
+        "url": "https://open.spotify.com/album/5Zmh803Q2FStZrPpisw5Qy"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 231183,
+      "name": "Sound Of The Brook",
+      "url": "https://open.spotify.com/track/7uowYLfmCRzUsGsWUGUTZR"
+    },
+    {
+      "album": {
+        "name": "Sparkling Energy Creek",
+        "url": "https://open.spotify.com/album/3H8VAtA2cT2BbZwSZ42aPB"
+      },
+      "artists": [
+        {
+          "name": "Embracing Sounds",
+          "url": "https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 115480,
+      "name": "Sparkling Energy Creek",
+      "url": "https://open.spotify.com/track/7CQpRxRhiPsTIzbVaiMdXZ"
+    },
+    {
+      "album": {
+        "name": "Spring Creek",
+        "url": "https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143841,
+      "name": "Spring Creek",
+      "url": "https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx"
+    },
+    {
+      "album": {
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD"
+      },
+      "artists": [
+        {
+          "name": "Field Rec Deluxe",
+          "url": "https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Stream Three",
+      "url": "https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU"
+    },
+    {
+      "album": {
+        "name": "Sleep On The Ocean",
+        "url": "https://open.spotify.com/album/3tUgq5TQwhQHdvYIlRHEr8"
+      },
+      "artists": [
+        {
+          "name": "Rivulet",
+          "url": "https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "The River In Me",
+      "url": "https://open.spotify.com/track/0pN6GLYsTjaMlXCkpsWq8h"
+    },
+    {
+      "album": {
+        "name": "Woodland Waters",
+        "url": "https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y"
+      },
+      "artists": [
+        {
+          "name": "Pacific Soundscapes",
+          "url": "https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Tranquil Stream",
+      "url": "https://open.spotify.com/track/4xhbt3EVgOnXeBZHiMXea2"
+    },
+    {
+      "album": {
+        "name": "Trickeling Flow",
+        "url": "https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin"
+      },
+      "artists": [
+        {
+          "name": "Aurise",
+          "url": "https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Trickeling Flow",
+      "url": "https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd"
+    },
+    {
+      "album": {
+        "name": "Scandinavian waters",
+        "url": "https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge"
+      },
+      "artists": [
+        {
+          "name": "FJORD",
+          "url": "https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "V\u00e4rnen",
+      "url": "https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK"
+    },
+    {
+      "album": {
+        "name": "Watching a Stream",
+        "url": "https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk"
+      },
+      "artists": [
+        {
+          "name": "The One-Lane Bridge",
+          "url": "https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Watching a Stream",
+      "url": "https://open.spotify.com/track/5i1szf4HOvoa8O0nNAdrzS"
+    },
+    {
+      "album": {
+        "name": "Watching a Stream",
+        "url": "https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk"
+      },
+      "artists": [
+        {
+          "name": "The One-Lane Bridge",
+          "url": "https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Water Under a One-Lane Bridge",
+      "url": "https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy"
+    },
+    {
+      "album": {
+        "name": "At the Waterfall",
+        "url": "https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP"
+      },
+      "artists": [
+        {
+          "name": "Natural Waters",
+          "url": "https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162387,
+      "name": "Waterfall Creek",
+      "url": "https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK"
+    },
+    {
+      "album": {
+        "name": "JBE River Sounds 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EO82RP4AsdHuoKNc1cpDm"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156808,
+      "name": "Winter River",
+      "url": "https://open.spotify.com/track/5FXaMOQhFTRqTq2srk6EU0"
+    },
+    {
+      "album": {
+        "name": "Stream Of Life",
+        "url": "https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN"
+      },
+      "artists": [
+        {
+          "name": "Japanese Garden",
+          "url": "https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Zenful Water",
+      "url": "https://open.spotify.com/track/3Umi1MexD0B01HXRjo0k48"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSR9IJviGbst"
 }

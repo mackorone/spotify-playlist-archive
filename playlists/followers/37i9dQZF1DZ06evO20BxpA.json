@@ -1,152 +1,1525 @@
 {
-  "2023-08-05": 976,
-  "2023-08-06": 991,
-  "2023-08-07": 991,
-  "2023-08-08": 998,
-  "2023-08-09": 1006,
-  "2023-08-10": 1011,
-  "2023-08-11": 1016,
-  "2023-08-12": 1016,
-  "2023-08-13": 1016,
-  "2023-08-14": 1041,
-  "2023-08-15": 1041,
-  "2023-08-16": 1041,
-  "2023-08-17": 1041,
-  "2023-08-18": 1041,
-  "2023-08-19": 1041,
-  "2023-08-20": 1087,
-  "2023-08-21": 1087,
-  "2023-08-22": 1102,
-  "2023-08-23": 1102,
-  "2023-08-24": 1102,
-  "2023-08-25": 1102,
-  "2023-08-26": 1118,
-  "2023-08-27": 1118,
-  "2023-08-28": 1135,
-  "2023-08-29": 1135,
-  "2023-08-30": 1135,
-  "2023-08-31": 1159,
-  "2023-09-01": 1162,
-  "2023-09-02": 1162,
-  "2023-09-03": 1162,
-  "2023-09-04": 1162,
-  "2023-09-05": 1162,
-  "2023-09-06": 1161,
-  "2023-09-07": 1161,
-  "2023-09-08": 1161,
-  "2023-09-09": 1161,
-  "2023-09-10": 1164,
-  "2023-09-11": 1164,
-  "2023-09-12": 1164,
-  "2023-09-13": 1165,
-  "2023-09-14": 1165,
-  "2023-09-15": 1165,
-  "2023-09-16": 1167,
-  "2023-09-17": 1167,
-  "2023-09-18": 1167,
-  "2023-09-19": 1169,
-  "2023-09-20": 1169,
-  "2023-09-21": 1169,
-  "2023-09-22": 1171,
-  "2023-09-23": 1171,
-  "2023-09-24": 1171,
-  "2023-09-25": 1171,
-  "2023-09-26": 1170,
-  "2023-09-27": 1170,
-  "2023-09-28": 1170,
-  "2023-09-29": 1170,
-  "2023-09-30": 1170,
-  "2023-10-01": 1170,
-  "2023-10-02": 1170,
-  "2023-10-03": 1170,
-  "2023-10-04": 1170,
-  "2023-10-05": 1168,
-  "2023-10-06": 1168,
-  "2023-10-07": 1168,
-  "2023-10-08": 1168,
-  "2023-10-09": 1168,
-  "2023-10-10": 1168,
-  "2023-10-11": 1169,
-  "2023-10-12": 1169,
-  "2023-10-13": 1169,
-  "2023-10-14": 1169,
-  "2023-10-15": 1169,
-  "2023-10-16": 1169,
-  "2023-10-17": 1169,
-  "2023-10-18": 1169,
-  "2023-10-19": 1169,
-  "2023-10-20": 1169,
-  "2023-10-21": 1169,
-  "2023-10-22": 1169,
-  "2023-10-23": 1169,
-  "2023-10-24": 1169,
-  "2023-10-25": 1169,
-  "2023-10-26": 1169,
-  "2023-10-27": 1169,
-  "2023-10-28": 1169,
-  "2023-10-29": 1169,
-  "2023-10-30": 1169,
-  "2023-10-31": 1169,
-  "2023-11-01": 1169,
-  "2023-11-02": 1169,
-  "2023-11-03": 1169,
-  "2023-11-04": 1169,
-  "2023-11-05": 1169,
-  "2023-11-06": 1169,
-  "2023-11-07": 1169,
-  "2023-11-08": 1169,
-  "2023-11-09": 1169,
-  "2023-11-10": 1169,
-  "2023-11-11": 1181,
-  "2023-11-12": 1181,
-  "2023-11-13": 1181,
-  "2023-11-14": 1181,
-  "2023-11-15": 1181,
-  "2023-11-16": 1181,
-  "2023-11-17": 1181,
-  "2023-11-18": 1181,
-  "2023-11-19": 1181,
-  "2023-11-20": 1181,
-  "2023-11-21": 1181,
-  "2023-11-22": 1181,
-  "2023-11-23": 1181,
-  "2023-11-24": 1181,
-  "2023-11-25": 1181,
-  "2023-11-26": 1181,
-  "2023-11-27": 1181,
-  "2023-11-28": 1181,
-  "2023-11-29": 1181,
-  "2023-11-30": 1181,
-  "2023-12-01": 1181,
-  "2023-12-02": 1181,
-  "2023-12-03": 1181,
-  "2023-12-04": 1181,
-  "2023-12-05": 1181,
-  "2023-12-06": 1181,
-  "2023-12-07": 1181,
-  "2023-12-08": 1181,
-  "2023-12-09": 1181,
-  "2023-12-10": 1181,
-  "2023-12-11": 1181,
-  "2023-12-12": 1181,
-  "2023-12-13": 1181,
-  "2023-12-14": 1194,
-  "2023-12-15": 1195,
-  "2023-12-16": 1195,
-  "2023-12-17": 1195,
-  "2023-12-18": 1196,
-  "2023-12-19": 1196,
-  "2023-12-20": 1196,
-  "2023-12-21": 1196,
-  "2023-12-22": 1195,
-  "2023-12-23": 1196,
-  "2023-12-24": 1196,
-  "2023-12-25": 1196,
-  "2023-12-26": 1196,
-  "2023-12-27": 1198,
-  "2023-12-30": 1198,
-  "2023-12-31": 1198,
-  "2024-01-01": 1198,
-  "2024-01-02": 1198,
-  "2024-01-03": 1200
+  "2024-01-17": 1205,
+  "date_first_scraped": "2023-08-05",
+  "description": "This is Steven Price. The essential tracks, all in one playlist.",
+  "name": "This Is Steven Price",
+  "tracks": [
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "A Bonding Experience",
+      "url": "https://open.spotify.com/track/4OPsrol2u5iLgDyuzX9ae3"
+    },
+    {
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 141400,
+      "name": "A Different Set of Rules",
+      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197240,
+      "name": "A Game of Strategy",
+      "url": "https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W"
+    },
+    {
+      "album": {
+        "name": "Forests (Episode 8 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 85173,
+      "name": "A Lifeline",
+      "url": "https://open.spotify.com/track/1n0hTiZSRPnwUeslLKlA0U"
+    },
+    {
+      "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66933,
+      "name": "A Rich Community Of Life",
+      "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 236173,
+      "name": "A Sparrowhawk's Tale",
+      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110320,
+      "name": "Above Earth",
+      "url": "https://open.spotify.com/track/4wrfG7WZathU9Z6tXlPxd1"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+    },
+    {
+      "album": {
+        "name": "One Planet (Episode 1 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 106293,
+      "name": "All Life Here Is Waiting",
+      "url": "https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 169853,
+      "name": "An Ingenious Technique - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308720,
+      "name": "Aningaaq",
+      "url": "https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103186,
+      "name": "Aurora Borealis",
+      "url": "https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Baby Blue - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+    },
+    {
+      "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 154426,
+      "name": "Coastal Seas",
+      "url": "https://open.spotify.com/track/3kTSnrtFNGbkxfhToP3OIV"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137040,
+      "name": "Corals - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
+    },
+    {
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 136506,
+      "name": "Did It Feel Wrong",
+      "url": "https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4"
+    },
+    {
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170253,
+      "name": "Echo Fires Up Another",
+      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155826,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "Family Invasion",
+      "url": "https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Finding the Lost Population",
+      "url": "https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110906,
+      "name": "Fury Drives Into Camp",
+      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275320,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
+    },
+    {
+      "album": {
+        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81145,
+      "name": "How Much Longer",
+      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 78733,
+      "name": "I Would Feel Guilty",
+      "url": "https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 225733,
+      "name": "I'm Scared Too",
+      "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100066,
+      "name": "Imagining the Future - Instrumental",
+      "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 202373,
+      "name": "It's Good to Meet New People",
+      "url": "https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ"
+    },
+    {
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88920,
+      "name": "Italian Marble",
+      "url": "https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH"
+    },
+    {
+      "album": {
+        "name": "Jungles (Episode 3 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/6mo0cOVfG6KHW1KgGmT2es"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 96333,
+      "name": "Jungles",
+      "url": "https://open.spotify.com/track/1NaKI3qpnedSMNEMGRFggD"
+    },
+    {
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 117440,
+      "name": "Lifeless Again",
+      "url": "https://open.spotify.com/track/7dOrs9015T264sTjQj09E8"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 145546,
+      "name": "Like the Sea Is Breathing",
+      "url": "https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt"
+    },
+    {
+      "album": {
+        "name": "Our Eternal Sky",
+        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 197933,
+      "name": "Magdelana Bay",
+      "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 148320,
+      "name": "Majestic Submarine Forests - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/5MreM9BijX4ZHAuXXe8Yxz"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 188973,
+      "name": "Mayflies - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/2dDUOibqp9olH44axVCIux"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132906,
+      "name": "Moon Phases",
+      "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "album": {
+        "name": "My Policeman (From the Amazon Original Motion Picture Soundtrack \"My Policeman\")",
+        "url": "https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 309893,
+      "name": "My Policeman - From the Amazon Original Motion Picture Soundtrack \"My Policeman\"",
+      "url": "https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 211506,
+      "name": "Mythical Creatures Follow - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/2QRgLk0yjfdxguI59pUyVk"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99546,
+      "name": "Nighttime Conversation",
+      "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170844,
+      "name": "Norman",
+      "url": "https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132013,
+      "name": "Nothing To Stop Us",
+      "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67160,
+      "name": "Nowehere to Hide",
+      "url": "https://open.spotify.com/track/0SvH1H37XSxhFOIqZHsmuf"
+    },
+    {
+      "album": {
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 148200,
+      "name": "Of All The Amazing Things",
+      "url": "https://open.spotify.com/track/5KaXnve8UKz3BFXsB81s8x"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79653,
+      "name": "Race Against Time",
+      "url": "https://open.spotify.com/track/6HuhnYzrHayI1chpndrzjI"
+    },
+    {
+      "album": {
+        "name": "Forests (Episode 8 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82746,
+      "name": "Redwoods",
+      "url": "https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt"
+    },
+    {
+      "album": {
+        "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
+        "url": "https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Remember When We Said Goodbye (From the Netflix Film \"Over the Moon\")",
+      "url": "https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103866,
+      "name": "Science Project",
+      "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371200,
+      "name": "Shenzou",
+      "url": "https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 192573,
+      "name": "Social Networks",
+      "url": "https://open.spotify.com/track/101VB5xvh2BbeNImerRZs1"
+    },
+    {
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102920,
+      "name": "Soyuz",
+      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+    },
+    {
+      "album": {
+        "name": "The Swimmers (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 125960,
+      "name": "Swim For All Of Us",
+      "url": "https://open.spotify.com/track/5wSbVyZ8D3omU41TMM1rU3"
+    },
+    {
+      "album": {
+        "name": "Archive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yS4ub7LFjAmVlRXeQMmwY"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 117546,
+      "name": "Target Out of Reach",
+      "url": "https://open.spotify.com/track/5PbnLarSg2t2ePMkgY2LBm"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "The Age of Giants",
+      "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58586,
+      "name": "The Apartment",
+      "url": "https://open.spotify.com/track/1ei4vm7G5R6vit9NuEzSGZ"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312013,
+      "name": "The Blue Whale",
+      "url": "https://open.spotify.com/track/0llny9ylQqeIK0MCQ5XQ45"
+    },
+    {
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 97106,
+      "name": "The Clam Shell Challenge",
+      "url": "https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "The Importance Of This River - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq"
+    },
+    {
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 95813,
+      "name": "The Museum",
+      "url": "https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101333,
+      "name": "The Next Twenty Years - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/2GWv7nrW3EYNclXKi5jOhA"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140386,
+      "name": "The Ocean Returns The Favour - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
+    },
+    {
+      "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107866,
+      "name": "The War Is Not Over",
+      "url": "https://open.spotify.com/track/7MHmZEYVLowwputJgtcVT7"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147160,
+      "name": "The Whole of Humanity",
+      "url": "https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7"
+    },
+    {
+      "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 122080,
+      "name": "They Have To Run The Gauntlet",
+      "url": "https://open.spotify.com/track/6OpNkdiSQXSe1Oi68MTSTe"
+    },
+    {
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64706,
+      "name": "They Will Return",
+      "url": "https://open.spotify.com/track/67D1r6U2o0cYDyIIuzWIuF"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "This Is My Home",
+      "url": "https://open.spotify.com/track/3idWon2PSx8X7LE31Lzagp"
+    },
+    {
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "This Is Our Planet - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/1twnThKLYDlaKpP4WSW2QS"
+    },
+    {
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98293,
+      "name": "This Road is a Suicide Mission",
+      "url": "https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 139893,
+      "name": "We Must Rewild The World",
+      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
+    },
+    {
+      "album": {
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
+    },
+    {
+      "album": {
+        "name": "The Swimmers (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 260799,
+      "name": "When I Closed My Eyes",
+      "url": "https://open.spotify.com/track/4UfZpkSy0UIYKpe0ogsgb7"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102080,
+      "name": "Who Are You Greeting My Love?",
+      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+    },
+    {
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131453,
+      "name": "With Or Without Us",
+      "url": "https://open.spotify.com/track/6GR1FpZStbjtRdVUPDqCL5"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 174186,
+      "name": "You Are Like a Dream I Had",
+      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 145760,
+      "name": "You Cannot Imagine His Anguish",
+      "url": "https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "You Have The True Spirit of A Lady",
+      "url": "https://open.spotify.com/track/4q61vq8quw5AMFIe0jF0sm"
+    },
+    {
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77880,
+      "name": "You Stop My Heart",
+      "url": "https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj"
+    },
+    {
+      "album": {
+        "name": "Last Night In Soho (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
+      },
+      "artists": [
+        {
+          "name": "Anya Taylor-Joy",
+          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
+        },
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 138373,
+      "name": "You're My World - Soho Version",
+      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA"
 }

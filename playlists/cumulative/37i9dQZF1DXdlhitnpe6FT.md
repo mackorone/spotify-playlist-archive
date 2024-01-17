@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2020-12-08 |  |
+| [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2020-12-08 | 2024-01-16 |
 | [](https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 | 2020-12-08 | 2023-12-23 |
 | [A Swingin' Safari](https://open.spotify.com/track/2V9ZGEAaTrNaQuck6WBxPG) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza) | 2:15 | 2020-12-08 | 2022-07-12 |
 | [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 | 2020-12-08 |  |
@@ -45,7 +45,7 @@
 | [BLUE DOLPHIN](https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl) | [Stephen Schlaks](https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL), [Michel](https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn) | [...SI CI SONO ANCH'IO \(BLUE DOLPHIN\)](https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS) | 2:59 | 2020-12-08 |  |
 | [Blue Navajo](https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK) | [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Blue Navajo](https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ) | 3:33 | 2020-12-08 | 2023-09-13 |
 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 | 2020-12-08 |  |
-| [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 | 2020-12-08 | 2024-01-02 |
+| [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 | 2020-12-08 |  |
 | [Bésame Mucho](https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 2:36 | 2020-12-08 |  |
 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 | 2020-12-08 |  |
 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 | 2020-12-08 |  |
@@ -207,7 +207,7 @@
 | [Wheels](https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Orange Blossom Special And Wheels](https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0) | 2:08 | 2020-12-08 |  |
 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 | 2020-12-08 |  |
 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 | 2020-12-08 | 2022-07-29 |
-| [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 | 2020-12-08 | 2023-08-18 |
+| [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 | 2020-12-08 | 2024-01-17 |
 | [Yellow Bird](https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [The Very Best of Arthur Lyman \(The Sensual Sounds of Exotica\)](https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo) | 2:45 | 2020-12-08 | 2022-11-18 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

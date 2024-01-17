@@ -1,376 +1,5615 @@
 {
-  "2022-12-22": 34,
-  "2022-12-24": 105,
-  "2022-12-25": 129,
-  "2022-12-26": 159,
-  "2022-12-27": 196,
-  "2022-12-28": 239,
-  "2022-12-29": 283,
-  "2022-12-30": 333,
-  "2022-12-31": 380,
-  "2023-01-01": 424,
-  "2023-01-02": 467,
-  "2023-01-03": 545,
-  "2023-01-04": 604,
-  "2023-01-05": 749,
-  "2023-01-06": 1044,
-  "2023-01-07": 1324,
-  "2023-01-08": 1420,
-  "2023-01-09": 1724,
-  "2023-01-10": 1951,
-  "2023-01-11": 2221,
-  "2023-01-12": 2555,
-  "2023-01-13": 2898,
-  "2023-01-14": 3437,
-  "2023-01-15": 3565,
-  "2023-01-16": 3952,
-  "2023-01-17": 4269,
-  "2023-01-18": 4618,
-  "2023-01-19": 5000,
-  "2023-01-20": 5423,
-  "2023-01-21": 5817,
-  "2023-01-22": 6234,
-  "2023-01-23": 6713,
-  "2023-01-24": 7147,
-  "2023-01-25": 7545,
-  "2023-01-26": 7982,
-  "2023-01-27": 8400,
-  "2023-01-28": 8805,
-  "2023-01-29": 9191,
-  "2023-01-30": 9615,
-  "2023-01-31": 9615,
-  "2023-02-01": 10514,
-  "2023-02-02": 11043,
-  "2023-02-03": 11446,
-  "2023-02-04": 11828,
-  "2023-02-05": 12196,
-  "2023-02-06": 12629,
-  "2023-02-07": 13055,
-  "2023-02-08": 13865,
-  "2023-02-09": 13865,
-  "2023-02-10": 14259,
-  "2023-02-11": 14654,
-  "2023-02-12": 15464,
-  "2023-02-13": 15915,
-  "2023-02-14": 15915,
-  "2023-02-15": 16357,
-  "2023-02-16": 16784,
-  "2023-02-17": 17312,
-  "2023-02-18": 18193,
-  "2023-02-19": 18348,
-  "2023-02-20": 18718,
-  "2023-02-21": 19283,
-  "2023-02-22": 19863,
-  "2023-02-23": 20413,
-  "2023-02-24": 20937,
-  "2023-02-25": 21631,
-  "2023-02-26": 21897,
-  "2023-02-27": 22875,
-  "2023-02-28": 22875,
-  "2023-03-01": 23354,
-  "2023-03-02": 23848,
-  "2023-03-03": 24385,
-  "2023-03-04": 24744,
-  "2023-03-05": 25681,
-  "2023-03-06": 25681,
-  "2023-03-07": 26279,
-  "2023-03-08": 26730,
-  "2023-03-09": 27225,
-  "2023-03-10": 27690,
-  "2023-03-11": 28102,
-  "2023-03-12": 28513,
-  "2023-03-13": 29013,
-  "2023-03-14": 29477,
-  "2023-03-15": 29927,
-  "2023-03-16": 30414,
-  "2023-03-17": 30414,
-  "2023-03-18": 31343,
-  "2023-03-19": 31781,
-  "2023-03-20": 32305,
-  "2023-03-21": 32801,
-  "2023-03-22": 33298,
-  "2023-03-23": 33770,
-  "2023-03-24": 33770,
-  "2023-03-25": 34693,
-  "2023-03-26": 35075,
-  "2023-03-27": 35499,
-  "2023-03-28": 35971,
-  "2023-03-29": 36532,
-  "2023-03-30": 37202,
-  "2023-03-31": 37202,
-  "2023-04-01": 37551,
-  "2023-04-02": 37934,
-  "2023-04-03": 38327,
-  "2023-04-04": 38736,
-  "2023-04-05": 39157,
-  "2023-04-06": 39515,
-  "2023-04-07": 39929,
-  "2023-04-09": 40654,
-  "2023-04-10": 40976,
-  "2023-04-11": 41688,
-  "2023-04-12": 41688,
-  "2023-04-13": 42118,
-  "2023-04-14": 42450,
-  "2023-04-15": 42826,
-  "2023-04-16": 43199,
-  "2023-04-17": 43649,
-  "2023-04-18": 44072,
-  "2023-04-19": 44565,
-  "2023-04-20": 45008,
-  "2023-04-21": 45505,
-  "2023-04-22": 45901,
-  "2023-04-23": 46307,
-  "2023-04-24": 46850,
-  "2023-04-25": 47306,
-  "2023-04-26": 47741,
-  "2023-04-27": 48159,
-  "2023-04-28": 48486,
-  "2023-04-29": 48782,
-  "2023-04-30": 49067,
-  "2023-05-01": 49406,
-  "2023-05-02": 49744,
-  "2023-05-03": 50068,
-  "2023-05-04": 50401,
-  "2023-05-05": 50684,
-  "2023-05-06": 51166,
-  "2023-05-07": 51651,
-  "2023-05-08": 52134,
-  "2023-05-09": 52637,
-  "2023-05-10": 53108,
-  "2023-05-11": 53562,
-  "2023-05-12": 53994,
-  "2023-05-13": 54407,
-  "2023-05-14": 54809,
-  "2023-05-15": 55261,
-  "2023-05-16": 55686,
-  "2023-05-17": 56111,
-  "2023-05-18": 56501,
-  "2023-05-19": 56910,
-  "2023-05-20": 57530,
-  "2023-05-21": 57530,
-  "2023-05-22": 57530,
-  "2023-05-23": 58267,
-  "2023-05-24": 58868,
-  "2023-05-25": 58959,
-  "2023-05-26": 59265,
-  "2023-05-27": 59598,
-  "2023-05-28": 59869,
-  "2023-05-29": 59869,
-  "2023-05-30": 60423,
-  "2023-05-31": 60715,
-  "2023-06-01": 60985,
-  "2023-06-02": 61247,
-  "2023-06-03": 61489,
-  "2023-06-04": 61748,
-  "2023-06-05": 62047,
-  "2023-06-06": 62363,
-  "2023-06-07": 62691,
-  "2023-06-08": 62995,
-  "2023-06-09": 63217,
-  "2023-06-10": 63427,
-  "2023-06-11": 63613,
-  "2023-06-12": 63808,
-  "2023-06-13": 64058,
-  "2023-06-14": 64254,
-  "2023-06-15": 64437,
-  "2023-06-16": 64613,
-  "2023-06-17": 64756,
-  "2023-06-18": 64919,
-  "2023-06-19": 65080,
-  "2023-06-20": 65279,
-  "2023-06-21": 65497,
-  "2023-06-22": 65686,
-  "2023-06-23": 65894,
-  "2023-06-24": 66069,
-  "2023-06-25": 66229,
-  "2023-06-26": 66389,
-  "2023-06-27": 66584,
-  "2023-06-28": 66821,
-  "2023-06-29": 67049,
-  "2023-06-30": 67241,
-  "2023-07-01": 67809,
-  "2023-07-02": 67809,
-  "2023-07-03": 68126,
-  "2023-07-04": 68433,
-  "2023-07-05": 68701,
-  "2023-07-06": 69195,
-  "2023-07-07": 69195,
-  "2023-07-08": 69410,
-  "2023-07-09": 69637,
-  "2023-07-10": 70045,
-  "2023-07-11": 70380,
-  "2023-07-12": 70636,
-  "2023-07-13": 70901,
-  "2023-07-14": 71199,
-  "2023-07-15": 71372,
-  "2023-07-16": 71686,
-  "2023-07-17": 71954,
-  "2023-07-18": 72265,
-  "2023-07-19": 72511,
-  "2023-07-20": 72792,
-  "2023-07-21": 73058,
-  "2023-07-22": 73254,
-  "2023-07-23": 73434,
-  "2023-07-24": 73711,
-  "2023-07-25": 73969,
-  "2023-07-26": 74236,
-  "2023-07-27": 74510,
-  "2023-07-28": 74762,
-  "2023-07-29": 74993,
-  "2023-07-30": 75239,
-  "2023-07-31": 75528,
-  "2023-08-01": 75846,
-  "2023-08-02": 76173,
-  "2023-08-03": 76519,
-  "2023-08-04": 76910,
-  "2023-08-05": 77208,
-  "2023-08-06": 77823,
-  "2023-08-07": 77823,
-  "2023-08-08": 78138,
-  "2023-08-09": 78477,
-  "2023-08-10": 78747,
-  "2023-08-11": 79081,
-  "2023-08-12": 79381,
-  "2023-08-13": 79659,
-  "2023-08-14": 79990,
-  "2023-08-15": 80642,
-  "2023-08-16": 80642,
-  "2023-08-17": 80943,
-  "2023-08-18": 81309,
-  "2023-08-19": 81693,
-  "2023-08-20": 82016,
-  "2023-08-21": 82396,
-  "2023-08-22": 82846,
-  "2023-08-23": 83336,
-  "2023-08-24": 83811,
-  "2023-08-25": 84408,
-  "2023-08-26": 84857,
-  "2023-08-27": 85274,
-  "2023-08-28": 85870,
-  "2023-08-29": 86497,
-  "2023-08-30": 87043,
-  "2023-08-31": 87455,
-  "2023-09-01": 88309,
-  "2023-09-02": 88309,
-  "2023-09-03": 88758,
-  "2023-09-04": 89261,
-  "2023-09-05": 89726,
-  "2023-09-06": 90145,
-  "2023-09-07": 90502,
-  "2023-09-08": 90804,
-  "2023-09-09": 91074,
-  "2023-09-10": 91332,
-  "2023-09-11": 91671,
-  "2023-09-12": 92027,
-  "2023-09-13": 92340,
-  "2023-09-14": 92629,
-  "2023-09-15": 92945,
-  "2023-09-16": 93220,
-  "2023-09-17": 93603,
-  "2023-09-18": 94048,
-  "2023-09-19": 94484,
-  "2023-09-20": 94868,
-  "2023-09-21": 95246,
-  "2023-09-22": 95568,
-  "2023-09-23": 95870,
-  "2023-09-24": 96167,
-  "2023-09-25": 96546,
-  "2023-09-26": 97058,
-  "2023-09-27": 97362,
-  "2023-09-28": 97787,
-  "2023-09-29": 98245,
-  "2023-09-30": 98609,
-  "2023-10-01": 99079,
-  "2023-10-02": 99600,
-  "2023-10-03": 100104,
-  "2023-10-04": 100711,
-  "2023-10-05": 101313,
-  "2023-10-06": 101854,
-  "2023-10-07": 102295,
-  "2023-10-08": 102507,
-  "2023-10-09": 102776,
-  "2023-10-10": 103064,
-  "2023-10-11": 103783,
-  "2023-10-12": 103783,
-  "2023-10-13": 104124,
-  "2023-10-14": 104394,
-  "2023-10-15": 104680,
-  "2023-10-16": 105034,
-  "2023-10-17": 105360,
-  "2023-10-18": 105685,
-  "2023-10-19": 106001,
-  "2023-10-20": 106303,
-  "2023-10-21": 106718,
-  "2023-10-22": 107239,
-  "2023-10-23": 107784,
-  "2023-10-24": 108291,
-  "2023-10-25": 108775,
-  "2023-10-26": 109235,
-  "2023-10-27": 109613,
-  "2023-10-28": 109944,
-  "2023-10-29": 110385,
-  "2023-10-30": 111383,
-  "2023-10-31": 111383,
-  "2023-11-01": 111860,
-  "2023-11-02": 112349,
-  "2023-11-03": 112808,
-  "2023-11-04": 113237,
-  "2023-11-05": 113651,
-  "2023-11-06": 114209,
-  "2023-11-07": 114795,
-  "2023-11-08": 115213,
-  "2023-11-09": 115610,
-  "2023-11-10": 116001,
-  "2023-11-11": 116357,
-  "2023-11-12": 116621,
-  "2023-11-13": 117081,
-  "2023-11-14": 117474,
-  "2023-11-15": 117474,
-  "2023-11-16": 118172,
-  "2023-11-17": 118930,
-  "2023-11-18": 118930,
-  "2023-11-19": 119255,
-  "2023-11-20": 119723,
-  "2023-11-21": 120125,
-  "2023-11-22": 120529,
-  "2023-11-23": 120897,
-  "2023-11-24": 121202,
-  "2023-11-25": 121449,
-  "2023-11-26": 121725,
-  "2023-11-27": 122091,
-  "2023-11-28": 122463,
-  "2023-11-29": 123124,
-  "2023-11-30": 123124,
-  "2023-12-01": 123436,
-  "2023-12-02": 123770,
-  "2023-12-03": 124156,
-  "2023-12-04": 124595,
-  "2023-12-05": 124984,
-  "2023-12-06": 125364,
-  "2023-12-07": 125697,
-  "2023-12-08": 126139,
-  "2023-12-09": 126556,
-  "2023-12-10": 126942,
-  "2023-12-11": 127255,
-  "2023-12-12": 127606,
-  "2023-12-13": 127989,
-  "2023-12-14": 128658,
-  "2023-12-15": 128977,
-  "2023-12-16": 129352,
-  "2023-12-17": 129692,
-  "2023-12-18": 130077,
-  "2023-12-19": 130478,
-  "2023-12-20": 130901,
-  "2023-12-21": 131291,
-  "2023-12-22": 131634,
-  "2023-12-23": 131974,
-  "2023-12-24": 132369,
-  "2023-12-25": 132746,
-  "2023-12-26": 133103,
-  "2023-12-27": 133550,
-  "2023-12-30": 134803,
-  "2023-12-31": 135196,
-  "2024-01-01": 135514,
-  "2024-01-02": 135966,
-  "2024-01-03": 136487
+  "2024-01-17": 142966,
+  "date_first_scraped": "2022-12-22",
+  "description": "Calming green frequencies and nature sounds to help you relax and sleep.",
+  "name": "Green Noise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162596,
+      "name": "A Moment Of Peace (Rainy Green Noise)",
+      "url": "https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s"
+    },
+    {
+      "album": {
+        "name": "Green Noise for Sleep and Stress Relief",
+        "url": "https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Labs",
+          "url": "https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180875,
+      "name": "Ambient Green Noise with Waves",
+      "url": "https://open.spotify.com/track/4dFj5rAfLmDPgpGXn8uIrC"
+    },
+    {
+      "album": {
+        "name": "Deluxe Green Noise",
+        "url": "https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125436,
+      "name": "Ambient Waves (Green Noise)",
+      "url": "https://open.spotify.com/track/0XHDwwGxM46ao9RpbEQ6gN"
+    },
+    {
+      "album": {
+        "name": "Paradise Noise",
+        "url": "https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f"
+      },
+      "artists": [
+        {
+          "name": "Hill Of Noise",
+          "url": "https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 151579,
+      "name": "Aquatic Ambiance",
+      "url": "https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA"
+    },
+    {
+      "album": {
+        "name": "Eruption Green Noise",
+        "url": "https://open.spotify.com/album/4rd0WmbjmFrUZCKwN1tdzW"
+      },
+      "artists": [
+        {
+          "name": "Enhanced",
+          "url": "https://open.spotify.com/artist/4auEEOTDKfZ0MrLPoYuqzp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "Arctic Tundra Noise",
+      "url": "https://open.spotify.com/track/77FhVeJSf4kf6sExcOPVB1"
+    },
+    {
+      "album": {
+        "name": "Field Green Noise",
+        "url": "https://open.spotify.com/album/4QgmpIaGVc6RLocQJGds2U"
+      },
+      "artists": [
+        {
+          "name": "Gerador De Ru\u00eddo",
+          "url": "https://open.spotify.com/artist/1sopxqnIQTj8P9bK6AU5PB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 144892,
+      "name": "Atomic Structure Noise",
+      "url": "https://open.spotify.com/track/2h9Nqrei3ZSSsZw1T5azMM"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/0Uzy6dzGt6kPaZDDYzwQgb"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 141922,
+      "name": "Beach Green Noise",
+      "url": "https://open.spotify.com/track/0igbU2Zk1FwrpK6Jjx5PUg"
+    },
+    {
+      "album": {
+        "name": "Soundmaking Green Noise",
+        "url": "https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Side",
+          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147123,
+      "name": "Beach Green Noise",
+      "url": "https://open.spotify.com/track/6ANLRtWwu8GmfVe7AMffaD"
+    },
+    {
+      "album": {
+        "name": "Green Noise To Make you Sleepy",
+        "url": "https://open.spotify.com/album/4Y11tk3z99h78kah4lKcsF"
+      },
+      "artists": [
+        {
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145637,
+      "name": "Beach waves Green Noise",
+      "url": "https://open.spotify.com/track/5jsFj1yKdllwqNaiwGRA2o"
+    },
+    {
+      "album": {
+        "name": "Green Noise Waves",
+        "url": "https://open.spotify.com/album/3nUVcOXIspKTR9hN1H6C8U"
+      },
+      "artists": [
+        {
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Big Waves - Green Noise",
+      "url": "https://open.spotify.com/track/658kRcH3X71vY3UBcNuxhy"
+    },
+    {
+      "album": {
+        "name": "Blissful Zen (Green Noise)",
+        "url": "https://open.spotify.com/album/46GDr1dJywoxzFC2jrje2f"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 208000,
+      "name": "Blissful Zen - Green Noise",
+      "url": "https://open.spotify.com/track/0gkCXdVzL835YqOTkS6Mjn"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 168586,
+      "name": "BP 800hz Green Noise (Waves)",
+      "url": "https://open.spotify.com/track/02le0YX1j3kGvNg6poLZA4"
+    },
+    {
+      "album": {
+        "name": "Calm Green Waves",
+        "url": "https://open.spotify.com/album/0UMqdawdYvLYv6e5ZXQKCa"
+      },
+      "artists": [
+        {
+          "name": "Marronicity",
+          "url": "https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Calm Green Waves",
+      "url": "https://open.spotify.com/track/2JgSQywGRhFhO6IeUAcuRx"
+    },
+    {
+      "album": {
+        "name": "Green Noise by Nature",
+        "url": "https://open.spotify.com/album/4V9LXDB6CiKe6v6qtMlP5d"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157593,
+      "name": "Calm Winter Wind",
+      "url": "https://open.spotify.com/track/1Y9y1fN1f8OzbRYdJn9CE8"
+    },
+    {
+      "album": {
+        "name": "Study Green Noise",
+        "url": "https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP"
+      },
+      "artists": [
+        {
+          "name": "Eltern FX",
+          "url": "https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152325,
+      "name": "Calming Green Noise",
+      "url": "https://open.spotify.com/track/0QT7Dck1QWqG0NQGJKR7Ou"
+    },
+    {
+      "album": {
+        "name": "Green Sleep Noise",
+        "url": "https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz"
+      },
+      "artists": [
+        {
+          "name": "Sleep Recorders",
+          "url": "https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128547,
+      "name": "Chilled Waves",
+      "url": "https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9"
+    },
+    {
+      "album": {
+        "name": "Night Green Noise",
+        "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Noise Island",
+          "url": "https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 132260,
+      "name": "Current Green Noise",
+      "url": "https://open.spotify.com/track/72JjmSeDk6lnjtuOAREB8T"
+    },
+    {
+      "album": {
+        "name": "Worldwide Green Noise",
+        "url": "https://open.spotify.com/album/0FRzMGKvSbn98TvZvrqJc2"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 143995,
+      "name": "Dark Green Noise - Waves",
+      "url": "https://open.spotify.com/track/0cvOOCZPHc94K00YcEFbCY"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/5yLLmWvuXKRtstHUoPuyhW"
+      },
+      "artists": [
+        {
+          "name": "Green Noise Therapy",
+          "url": "https://open.spotify.com/artist/5spGUNaJx5zyrOzccgTFT3"
+        },
+        {
+          "name": "Green Noise For Sleep",
+          "url": "https://open.spotify.com/artist/38SWhNBDTM7Y2pYFkkKkkz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 60133,
+      "name": "Deep Green Noise",
+      "url": "https://open.spotify.com/track/4w0TOTl0Qb9w5IcZL7X3cW"
+    },
+    {
+      "album": {
+        "name": "Deep Green Noise",
+        "url": "https://open.spotify.com/album/2q77lwEnmXbrKYZpbAH7je"
+      },
+      "artists": [
+        {
+          "name": "Mentatranque",
+          "url": "https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Deep Green Noise",
+      "url": "https://open.spotify.com/track/4fSUx3uYzY2tWwR7jfZMd3"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/7sO7mkm1YY2Q2WqgScJjPI"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 123905,
+      "name": "Deep Warm Green Noise",
+      "url": "https://open.spotify.com/track/0FUsozyIOG7GluhSes6Lgc"
+    },
+    {
+      "album": {
+        "name": "Natural World Green Noise",
+        "url": "https://open.spotify.com/album/1lp7jDgvHy6TVJJlru1vBg"
+      },
+      "artists": [
+        {
+          "name": "Natural Samples",
+          "url": "https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129289,
+      "name": "Distant Waves Green Noise",
+      "url": "https://open.spotify.com/track/0Ft7xVz3b5KNuLxdhrHwn6"
+    },
+    {
+      "album": {
+        "name": "Dream Green Noise",
+        "url": "https://open.spotify.com/album/5MLTsLTItK9WXSALmuSNTY"
+      },
+      "artists": [
+        {
+          "name": "Dreamsound",
+          "url": "https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Dream Green Noise",
+      "url": "https://open.spotify.com/track/5nA98r713D2SbbRs2xWVu4"
+    },
+    {
+      "album": {
+        "name": "Fall Asleep Green Noise",
+        "url": "https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO"
+      },
+      "artists": [
+        {
+          "name": "Noise Sleep Machine",
+          "url": "https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138950,
+      "name": "Dreamy Green Noise Waves",
+      "url": "https://open.spotify.com/track/1Gz2xbs16H1ZddHIpmQbxg"
+    },
+    {
+      "album": {
+        "name": "Sleep: Green Noise",
+        "url": "https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC"
+      },
+      "artists": [
+        {
+          "name": "The BD Noise Maker",
+          "url": "https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148609,
+      "name": "Dripping Green Noise",
+      "url": "https://open.spotify.com/track/5CmFoZZ31Simna4jFOAL8j"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Green Noise",
+        "url": "https://open.spotify.com/album/5Q7vbjjGEmmEC39uhMyD9k"
+      },
+      "artists": [
+        {
+          "name": "State Of Rest",
+          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Drippy Rain Green Noise",
+      "url": "https://open.spotify.com/track/3cXI5qlukFprNcadMwSzxf"
+    },
+    {
+      "album": {
+        "name": "Melodic Bird Green Noise",
+        "url": "https://open.spotify.com/album/3eftFCkSeixOAT3aDJAJaS"
+      },
+      "artists": [
+        {
+          "name": "La Feux",
+          "url": "https://open.spotify.com/artist/3FZuYD8nRjLSLX6UWTM2H5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 114427,
+      "name": "Droning Green Noise",
+      "url": "https://open.spotify.com/track/2m7fpHeMCrn5ThGgnc5CtP"
+    },
+    {
+      "album": {
+        "name": "Earth Noise",
+        "url": "https://open.spotify.com/album/7u293iFD8sDnWmNXoUQ4kj"
+      },
+      "artists": [
+        {
+          "name": "Earthly Delights",
+          "url": "https://open.spotify.com/artist/3AhSKCMBK1DWhRGvem6prn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Earth Noise",
+      "url": "https://open.spotify.com/track/6HwVrv1ylrOeTiI1BByrae"
+    },
+    {
+      "album": {
+        "name": "Emerald Equilibrium (Green Noise)",
+        "url": "https://open.spotify.com/album/34POhvSxWfrBsKXbIzdtYA"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 164000,
+      "name": "Emerald Equilibrium - Green Noise",
+      "url": "https://open.spotify.com/track/7DdAxIRZq2r2oZ5LpGzS7g"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 172000,
+      "name": "Emerald Meadows - Green Noise",
+      "url": "https://open.spotify.com/track/4G0PKsTNnn9S2SZHq5u8LB"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Enigmatic Calm - Green Noise",
+      "url": "https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 184000,
+      "name": "Eucalyptus Enchantment - Green Noise",
+      "url": "https://open.spotify.com/track/5dwqUgpAxwWsreLyqSUy2l"
+    },
+    {
+      "album": {
+        "name": "Evergreen Escape (Green Noise)",
+        "url": "https://open.spotify.com/album/4pEJyRGQoHZP7u6ANKwTF1"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 184000,
+      "name": "Evergreen Escape - Green Noise",
+      "url": "https://open.spotify.com/track/4z55TgzgQGMpwL5TtyGdbe"
+    },
+    {
+      "album": {
+        "name": "Evergreen Noise",
+        "url": "https://open.spotify.com/album/7tmguPwwKGfDqpnaintaTN"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 201600,
+      "name": "Evergreen Waves",
+      "url": "https://open.spotify.com/track/5qD510mYD0R7mG2zATCvoL"
+    },
+    {
+      "album": {
+        "name": "Everlasting Green",
+        "url": "https://open.spotify.com/album/0QqdldQrBGzlof1Wy4stZH"
+      },
+      "artists": [
+        {
+          "name": "ATOM",
+          "url": "https://open.spotify.com/artist/0K8XPZ3XL6B0m6Hpd234lQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Everlasting Green",
+      "url": "https://open.spotify.com/track/3amu3SSMy5PIxCBELWzTrM"
+    },
+    {
+      "album": {
+        "name": "Landscape Serenity",
+        "url": "https://open.spotify.com/album/1NKT2FI8CneNor8QEzmwAM"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 248000,
+      "name": "Flowing Zephyr - Ocean",
+      "url": "https://open.spotify.com/track/4Xw5dWWgqtNd5FouPgMFCC"
+    },
+    {
+      "album": {
+        "name": "Study Green Noise",
+        "url": "https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP"
+      },
+      "artists": [
+        {
+          "name": "Eltern FX",
+          "url": "https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150096,
+      "name": "Focus Green Noise",
+      "url": "https://open.spotify.com/track/5vwUrO4HBNc1D8zAypPZL0"
+    },
+    {
+      "album": {
+        "name": "Relax With Green Noise",
+        "url": "https://open.spotify.com/album/7gowklwF9OPg9uqxtRSLDJ"
+      },
+      "artists": [
+        {
+          "name": "Sleep Liquids",
+          "url": "https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Foliage Rain With Green Noise",
+      "url": "https://open.spotify.com/track/2z9NoyC5KhIIUv8ejgeUNt"
+    },
+    {
+      "album": {
+        "name": "Fusion Green Noise",
+        "url": "https://open.spotify.com/album/4xYwNvoe0Jaut4HOINPrYp"
+      },
+      "artists": [
+        {
+          "name": "Ruido Independiente",
+          "url": "https://open.spotify.com/artist/0GrN4tfVwmaaJ4FnWWNVpe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 115914,
+      "name": "Fusion Green Noise",
+      "url": "https://open.spotify.com/track/0FDGvEzMdcAQPb5YMORmYY"
+    },
+    {
+      "album": {
+        "name": "Green Noise In the Rain",
+        "url": "https://open.spotify.com/album/294Q6SgC9y7VMqUa2RkHuz"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124681,
+      "name": "Geen Noise By the Falls",
+      "url": "https://open.spotify.com/track/2Rnkb7cvqzeEPPKVFzmmIb"
+    },
+    {
+      "album": {
+        "name": "Gentle Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/00c5e9N3neCLMYe7hPfs4w"
+      },
+      "artists": [
+        {
+          "name": "Three Peels",
+          "url": "https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212473,
+      "name": "Gentle Green Noise Relaxation",
+      "url": "https://open.spotify.com/track/1EbVcF9Ik1RdFyoSeIJuDd"
+    },
+    {
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 115916,
+      "name": "Gentle Waves",
+      "url": "https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC"
+    },
+    {
+      "album": {
+        "name": "Green Noise for Sleep and Stress Relief",
+        "url": "https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Labs",
+          "url": "https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180125,
+      "name": "Gently Moving Green Noise",
+      "url": "https://open.spotify.com/track/1GPkhQZbcDEzWhAnGTxsGQ"
+    },
+    {
+      "album": {
+        "name": "Green Noise 4 Focus",
+        "url": "https://open.spotify.com/album/0pkfIkmgI82mWT6UIHjyCi"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sauce",
+          "url": "https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Gigantic Green Noise",
+      "url": "https://open.spotify.com/track/1cmrc30YrsXWQNouxEtWuy"
+    },
+    {
+      "album": {
+        "name": "Surrender To Green Noise",
+        "url": "https://open.spotify.com/album/2x7g5pb2b3tvX90m27G8tx"
+      },
+      "artists": [
+        {
+          "name": "Mood Factory",
+          "url": "https://open.spotify.com/artist/70PahNfWLqq5m8R8kJvg1o"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 111574,
+      "name": "Good Night Green Noise",
+      "url": "https://open.spotify.com/track/2cJuVcnvcP2CMQzLUHRY1u"
+    },
+    {
+      "album": {
+        "name": "Fall Asleep Green Noise",
+        "url": "https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO"
+      },
+      "artists": [
+        {
+          "name": "Noise Sleep Machine",
+          "url": "https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "Good Night Green Waves",
+      "url": "https://open.spotify.com/track/0tB6oSFoiZCYkRrOmoiLAL"
+    },
+    {
+      "album": {
+        "name": "El Sue\u00f1o del Ruido Verde",
+        "url": "https://open.spotify.com/album/04HK8R2GPKSg3BO80iQYfF"
+      },
+      "artists": [
+        {
+          "name": "Construidor",
+          "url": "https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 111913,
+      "name": "Goteo de Ruido Verde",
+      "url": "https://open.spotify.com/track/3Omc5Xnki4TXhaVL79WO5N"
+    },
+    {
+      "album": {
+        "name": "Soft Green Noise",
+        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
+      },
+      "artists": [
+        {
+          "name": "The Noise Generator",
+          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 112944,
+      "name": "Green & Ping Noise Waves",
+      "url": "https://open.spotify.com/track/7hnPLZLBGAxJX9k11WD1ly"
+    },
+    {
+      "album": {
+        "name": "Green Calming",
+        "url": "https://open.spotify.com/album/5ZxiRe3apsPJNzbExEQe9f"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen Noise",
+          "url": "https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Green Calming Noise",
+      "url": "https://open.spotify.com/track/67ddjRbQpMlHS7u0mkCmGn"
+    },
+    {
+      "album": {
+        "name": "Green Chill Noise",
+        "url": "https://open.spotify.com/album/06SuwgbyxFBoEGWAQNmfnr"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Green Chill Noise",
+      "url": "https://open.spotify.com/track/3By4W7UmodLpHxDW5ymZdM"
+    },
+    {
+      "album": {
+        "name": "Green Comfort",
+        "url": "https://open.spotify.com/album/4WtrGoZ8xbZRb1PpwqUUxg"
+      },
+      "artists": [
+        {
+          "name": "Focus Frequency",
+          "url": "https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 114190,
+      "name": "Green Comfort - Water Stream",
+      "url": "https://open.spotify.com/track/0L7OfaE0YHyArR1YckKsQN"
+    },
+    {
+      "album": {
+        "name": "Dreamy Green Noise",
+        "url": "https://open.spotify.com/album/3L7pAk7jfvsfIbwrPmz2L1"
+      },
+      "artists": [
+        {
+          "name": "Dreamstatician",
+          "url": "https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Green Creek Full FLow",
+      "url": "https://open.spotify.com/track/1HmoH68v4MYUK0rvIHNKyd"
+    },
+    {
+      "album": {
+        "name": "Green Droplets",
+        "url": "https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF"
+      },
+      "artists": [
+        {
+          "name": "Che Dormono",
+          "url": "https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Green Drip-Drop",
+      "url": "https://open.spotify.com/track/1tFW89mxfwT6hCXemgjMUw"
+    },
+    {
+      "album": {
+        "name": "Green Noise Trickles",
+        "url": "https://open.spotify.com/album/4v8mw78MOshQsg5rQXU0Mt"
+      },
+      "artists": [
+        {
+          "name": "Pinkage",
+          "url": "https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Green Drip-Drops",
+      "url": "https://open.spotify.com/track/3iENay7nImYp3v7e3Jn9lL"
+    },
+    {
+      "album": {
+        "name": "Green Droplets",
+        "url": "https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF"
+      },
+      "artists": [
+        {
+          "name": "Che Dormono",
+          "url": "https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Green Droplets",
+      "url": "https://open.spotify.com/track/01SjqGtEipG5cj9HRNp8qa"
+    },
+    {
+      "album": {
+        "name": "Green Noise Calm",
+        "url": "https://open.spotify.com/album/3Idxh5C6Ano1xc18av9nl7"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Green Evening Ocean",
+      "url": "https://open.spotify.com/track/2VP7RtSDwj76BLDYGQiwvX"
+    },
+    {
+      "album": {
+        "name": "Sleppy Green",
+        "url": "https://open.spotify.com/album/1L6lOCw4V0fMrEPTWK4GTS"
+      },
+      "artists": [
+        {
+          "name": "Pink Noise Panther",
+          "url": "https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 96538,
+      "name": "Green Line",
+      "url": "https://open.spotify.com/track/0AtLG24aovG3YN5g3X6WJz"
+    },
+    {
+      "album": {
+        "name": "Green Mediterranean Chill",
+        "url": "https://open.spotify.com/album/3RyNCAmpwry5Twfd92DENA"
+      },
+      "artists": [
+        {
+          "name": "Nukahtaa",
+          "url": "https://open.spotify.com/artist/3WfE7A0OI5tIqY57aEE2T5"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Green Mediteranean Chill Time",
+      "url": "https://open.spotify.com/track/4nuRQOUKICwaiJMXOstdCl"
+    },
+    {
+      "album": {
+        "name": "Green Noise Calm",
+        "url": "https://open.spotify.com/album/3Idxh5C6Ano1xc18av9nl7"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "Green Night Waves",
+      "url": "https://open.spotify.com/track/5WBUZ1USCnHbq7mPHSaMFx"
+    },
+    {
+      "album": {
+        "name": "Green Nights",
+        "url": "https://open.spotify.com/album/1XKfZ3mZ9hWr7kEyuskPVI"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 108476,
+      "name": "Green Nights",
+      "url": "https://open.spotify.com/track/0l6gj4YnsH6rdvojnUrGh2"
+    },
+    {
+      "album": {
+        "name": "Green Nature Noise",
+        "url": "https://open.spotify.com/album/4kilJysd4nbAXrou1tg9wP"
+      },
+      "artists": [
+        {
+          "name": "Nature Trudge",
+          "url": "https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 153500,
+      "name": "Green Noise & Night Nature",
+      "url": "https://open.spotify.com/track/6fFrQbsT3MoQ99CCXUuK9y"
+    },
+    {
+      "album": {
+        "name": "Green Noise Vol. 1",
+        "url": "https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 156614,
+      "name": "Green Noise (Birds In The Forest)",
+      "url": "https://open.spotify.com/track/21OlNL9vqrVWusAv37QIgz"
+    },
+    {
+      "album": {
+        "name": "Nature Green Noise",
+        "url": "https://open.spotify.com/album/5hlSLZCjcNUscWpB7mRbYF"
+      },
+      "artists": [
+        {
+          "name": "Dream Shard",
+          "url": "https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Green Noise - Autumn",
+      "url": "https://open.spotify.com/track/3h2FgIAFtweCDHYqwdCciJ"
+    },
+    {
+      "album": {
+        "name": "Green Color Noise",
+        "url": "https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Focuz",
+          "url": "https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 157526,
+      "name": "Green Noise - Busy Ocean",
+      "url": "https://open.spotify.com/track/645RIKXEhlCkB1yjPtKIUV"
+    },
+    {
+      "album": {
+        "name": "Green Sleep Noise",
+        "url": "https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz"
+      },
+      "artists": [
+        {
+          "name": "Sleep Recorders",
+          "url": "https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125575,
+      "name": "Green Noise - Busy Waves",
+      "url": "https://open.spotify.com/track/45kPJRDQzTrD1yzXFlp9iz"
+    },
+    {
+      "album": {
+        "name": "Soft Green Noise",
+        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
+      },
+      "artists": [
+        {
+          "name": "The Noise Generator",
+          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128547,
+      "name": "Green Noise - Calm Waves",
+      "url": "https://open.spotify.com/track/6nGG05J1C33eYMvf5WXixT"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Calming River",
+        "url": "https://open.spotify.com/album/6nniJZ6ELOsNGc4vvyYiNy"
+      },
+      "artists": [
+        {
+          "name": "Brightlo",
+          "url": "https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Green Noise - Calming River",
+      "url": "https://open.spotify.com/track/3mfuVtyA5eIznfVoRPgUcq"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Calming Winds Green Noise - Calming Winds",
+        "url": "https://open.spotify.com/album/7bQSYc5T5PfqBO2bhiyfkJ"
+      },
+      "artists": [
+        {
+          "name": "Klangspiel",
+          "url": "https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178964,
+      "name": "Green Noise - Calming Winds",
+      "url": "https://open.spotify.com/track/12PjKkkUQHtGT4AqLKxxMU"
+    },
+    {
+      "album": {
+        "name": "The Sound of Nature",
+        "url": "https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 128547,
+      "name": "Green Noise - Cascade",
+      "url": "https://open.spotify.com/track/3ivb6w3eGniig9ICfKmQA0"
+    },
+    {
+      "album": {
+        "name": "Nature Green Noise",
+        "url": "https://open.spotify.com/album/5hlSLZCjcNUscWpB7mRbYF"
+      },
+      "artists": [
+        {
+          "name": "Dream Shard",
+          "url": "https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131411,
+      "name": "Green Noise - Cave",
+      "url": "https://open.spotify.com/track/2YNGpfcY2oGFBBHLemqLDK"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Chill River",
+        "url": "https://open.spotify.com/album/0qUoqFY9dQtDukyFjUQuJj"
+      },
+      "artists": [
+        {
+          "name": "Lavia 6",
+          "url": "https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179528,
+      "name": "Green Noise - Chill River",
+      "url": "https://open.spotify.com/track/1T2xOgiJfsCC1zesVZ7kQm"
+    },
+    {
+      "album": {
+        "name": "Calming Green Noise",
+        "url": "https://open.spotify.com/album/5pRqn2PgcONGLdLqeRTP0H"
+      },
+      "artists": [
+        {
+          "name": "Euaxation",
+          "url": "https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 147866,
+      "name": "Green Noise - Crickets",
+      "url": "https://open.spotify.com/track/7Az6a1YLFkXGEvO8Os8eOt"
+    },
+    {
+      "album": {
+        "name": "Sleep: Green Noise",
+        "url": "https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC"
+      },
+      "artists": [
+        {
+          "name": "The BD Noise Maker",
+          "url": "https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153811,
+      "name": "Green Noise - Flashflood",
+      "url": "https://open.spotify.com/track/6j8T3s2YkLixR1VDOymdF5"
+    },
+    {
+      "album": {
+        "name": "Green Noise - For your mind",
+        "url": "https://open.spotify.com/album/0a9cuM7aJHIWFvmvBJjumx"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126348,
+      "name": "Green Noise - Flowing Water",
+      "url": "https://open.spotify.com/track/1gULnpw7P8vhONqA7CjrDa"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4rW8NjH0ympuy6NJPA1Pfm"
+      },
+      "artists": [
+        {
+          "name": "Exodar",
+          "url": "https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Green Noise - Forest",
+      "url": "https://open.spotify.com/track/19Koi74AG7snbeuSmT0spg"
+    },
+    {
+      "album": {
+        "name": "The Color Of Nature",
+        "url": "https://open.spotify.com/album/24p6noTStBR2AsQ8gbiuyP"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122603,
+      "name": "Green Noise - Forest Flood",
+      "url": "https://open.spotify.com/track/547PjKmlGTZi0DJpOF3KoE"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Forest Meditation",
+        "url": "https://open.spotify.com/album/0bnQxeDkhvShDAVqHSe3cD"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171128,
+      "name": "Green Noise - Forest Meditation",
+      "url": "https://open.spotify.com/track/4QmE7Kzm47qeVe7gVawThV"
+    },
+    {
+      "album": {
+        "name": "The Background Noise of the World",
+        "url": "https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv"
+      },
+      "artists": [
+        {
+          "name": "Blancouver",
+          "url": "https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 120374,
+      "name": "Green Noise - Jungle",
+      "url": "https://open.spotify.com/track/5x8d5aFWr0V7lD5g7VvwLG"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/3OyqpUR1ODz1N3YXDJdmQv"
+      },
+      "artists": [
+        {
+          "name": "The Sound Farm",
+          "url": "https://open.spotify.com/artist/6lLSSLTRkcHuIjwSAXHFst"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 107742,
+      "name": "Green Noise - Light Rain",
+      "url": "https://open.spotify.com/track/1liJNDbRYDoUwDzgJmy2JT"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4rW8NjH0ympuy6NJPA1Pfm"
+      },
+      "artists": [
+        {
+          "name": "Exodar",
+          "url": "https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129748,
+      "name": "Green Noise - Nature",
+      "url": "https://open.spotify.com/track/3rEIRf5wVkFjagV1EDAZKV"
+    },
+    {
+      "album": {
+        "name": "Calming Green Noise",
+        "url": "https://open.spotify.com/album/1t2tklsezdnFpxj80K1b3C"
+      },
+      "artists": [
+        {
+          "name": "Fortuna",
+          "url": "https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134378,
+      "name": "Green Noise - Ocean Breeze",
+      "url": "https://open.spotify.com/track/5h6Br3pJj6BTabvRZ4x61i"
+    },
+    {
+      "album": {
+        "name": "The Sound of Nature",
+        "url": "https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130776,
+      "name": "Green Noise - Poaring",
+      "url": "https://open.spotify.com/track/24ON1yFMkxmhQ5ZIb0SIgV"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Rain in the Cabin",
+        "url": "https://open.spotify.com/album/3xe4Ob8bq5OTixBapikKDK"
+      },
+      "artists": [
+        {
+          "name": "Ozeanus",
+          "url": "https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Green Noise - Rain in the Cabin",
+      "url": "https://open.spotify.com/track/6nysCMweBgeTmclOUUkUmj"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/3OyqpUR1ODz1N3YXDJdmQv"
+      },
+      "artists": [
+        {
+          "name": "The Sound Farm",
+          "url": "https://open.spotify.com/artist/6lLSSLTRkcHuIjwSAXHFst"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 104027,
+      "name": "Green Noise - Rainy Day",
+      "url": "https://open.spotify.com/track/3g6wV2AwYT1vSL2BIHsRRE"
+    },
+    {
+      "album": {
+        "name": "Green Noise Focus",
+        "url": "https://open.spotify.com/album/08zuQcwCQID4xMV5lPTQvJ"
+      },
+      "artists": [
+        {
+          "name": "Emotion Noise",
+          "url": "https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Green Noise - Rough Waters",
+      "url": "https://open.spotify.com/track/3pJw6F5CnU2LipNWmLC9Gr"
+    },
+    {
+      "album": {
+        "name": "Fall Asleep Green Noise",
+        "url": "https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO"
+      },
+      "artists": [
+        {
+          "name": "Noise Sleep Machine",
+          "url": "https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142665,
+      "name": "Green Noise - Sleep Well",
+      "url": "https://open.spotify.com/track/4cDUY4YR4c7WulvUm8aiMu"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Slow River",
+        "url": "https://open.spotify.com/album/7hFutQUY8XHTzwamsGza2Y"
+      },
+      "artists": [
+        {
+          "name": "Crystal Slowdown",
+          "url": "https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202940,
+      "name": "Green Noise - Slow River",
+      "url": "https://open.spotify.com/track/0Zetbnm08U0cY4n1avrEfH"
+    },
+    {
+      "album": {
+        "name": "Green Noise River",
+        "url": "https://open.spotify.com/album/2vkt3QyfE8nUYdQYUlUdW3"
+      },
+      "artists": [
+        {
+          "name": "Crystal Slowdown",
+          "url": "https://open.spotify.com/artist/6O0u8LauyCpF8qnE347A4o"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Green Noise - Soothing Riverbank",
+      "url": "https://open.spotify.com/track/4105YDx0jCWGycP9LHVp3b"
+    },
+    {
+      "album": {
+        "name": "Green Noise Vol. 1",
+        "url": "https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128250,
+      "name": "Green Noise - Still Rain",
+      "url": "https://open.spotify.com/track/2aNjGPfVq0gg2rgPemKQRq"
+    },
+    {
+      "album": {
+        "name": "Green Water",
+        "url": "https://open.spotify.com/album/6qVju4Dj78zn5Cu4kAMSo9"
+      },
+      "artists": [
+        {
+          "name": "Science Boll",
+          "url": "https://open.spotify.com/artist/3jdIMgUC8zPx9O1EyB8gik"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 126934,
+      "name": "Green Noise - Storm",
+      "url": "https://open.spotify.com/track/5WdctY9KJn5U1QKbUELETU"
+    },
+    {
+      "album": {
+        "name": "Green Color Noise",
+        "url": "https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Focuz",
+          "url": "https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 147123,
+      "name": "Green Noise - Storm",
+      "url": "https://open.spotify.com/track/6fhTgX3uBdB151u1TeCqkP"
+    },
+    {
+      "album": {
+        "name": "Soundmaking Green Noise",
+        "url": "https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Side",
+          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 154554,
+      "name": "Green Noise - Storm at sea",
+      "url": "https://open.spotify.com/track/6Jd0pktsSc44wZP14jhI1U"
+    },
+    {
+      "album": {
+        "name": "Green Water",
+        "url": "https://open.spotify.com/album/6qVju4Dj78zn5Cu4kAMSo9"
+      },
+      "artists": [
+        {
+          "name": "Science Boll",
+          "url": "https://open.spotify.com/artist/3jdIMgUC8zPx9O1EyB8gik"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129187,
+      "name": "Green Noise - Stream",
+      "url": "https://open.spotify.com/track/1UqOoHHMbD1IJCDs8EdIQ2"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Stream of Consciousness",
+        "url": "https://open.spotify.com/album/1lhqqWvWDiQibaZqEYEWf8"
+      },
+      "artists": [
+        {
+          "name": "Three Peels",
+          "url": "https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230834,
+      "name": "Green Noise - Stream of Consciousness",
+      "url": "https://open.spotify.com/track/7k99Splk995P1SKtKUgn1x"
+    },
+    {
+      "album": {
+        "name": "Green Noise Focus",
+        "url": "https://open.spotify.com/album/08zuQcwCQID4xMV5lPTQvJ"
+      },
+      "artists": [
+        {
+          "name": "Emotion Noise",
+          "url": "https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150839,
+      "name": "Green Noise - Summer Waves",
+      "url": "https://open.spotify.com/track/4KwKDmw1vkdrKSaX8wecIr"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Relax & Focus",
+        "url": "https://open.spotify.com/album/1B1U1AbYQXjJoTsoRc9ovS"
+      },
+      "artists": [
+        {
+          "name": "Granular",
+          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137542,
+      "name": "Green Noise - Underwater",
+      "url": "https://open.spotify.com/track/4Io71ufS7ddYrMVGXcVu1s"
+    },
+    {
+      "album": {
+        "name": "Peaceful Green Noise",
+        "url": "https://open.spotify.com/album/12tmc0H6tL5Yd3FYzY3q5I"
+      },
+      "artists": [
+        {
+          "name": "Mind & Ears",
+          "url": "https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122369,
+      "name": "Green Noise - Water",
+      "url": "https://open.spotify.com/track/5LjFTR3BLS2nPcAmFBQO8G"
+    },
+    {
+      "album": {
+        "name": "Green Noise - Relax & Focus",
+        "url": "https://open.spotify.com/album/1B1U1AbYQXjJoTsoRc9ovS"
+      },
+      "artists": [
+        {
+          "name": "Granular",
+          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Green Noise - Water Stream",
+      "url": "https://open.spotify.com/track/5ETnzQmZh9BtNANWNnzuhJ"
+    },
+    {
+      "album": {
+        "name": "Calming Green Noise",
+        "url": "https://open.spotify.com/album/5pRqn2PgcONGLdLqeRTP0H"
+      },
+      "artists": [
+        {
+          "name": "Euaxation",
+          "url": "https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141179,
+      "name": "Green Noise - Waterfall",
+      "url": "https://open.spotify.com/track/0l6QSydskMrKXsAf7TIxKS"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179401,
+      "name": "Green Noise - Waterfall",
+      "url": "https://open.spotify.com/track/6mAoU8avyTdwxr1PsPlvdP"
+    },
+    {
+      "album": {
+        "name": "Peaceful Green Noise",
+        "url": "https://open.spotify.com/album/12tmc0H6tL5Yd3FYzY3q5I"
+      },
+      "artists": [
+        {
+          "name": "Mind & Ears",
+          "url": "https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147103,
+      "name": "Green Noise - Waves",
+      "url": "https://open.spotify.com/track/239ySxOMocOCz0KQ5D2sI1"
+    },
+    {
+      "album": {
+        "name": "Peaceful Green Noise",
+        "url": "https://open.spotify.com/album/12tmc0H6tL5Yd3FYzY3q5I"
+      },
+      "artists": [
+        {
+          "name": "Mind & Ears",
+          "url": "https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134378,
+      "name": "Green Noise - Winter",
+      "url": "https://open.spotify.com/track/5dbhkJV48F0S9ZgmI9832V"
+    },
+    {
+      "album": {
+        "name": "The Color of the Noise is Green",
+        "url": "https://open.spotify.com/album/5URiXJcmtfnsnyAjwBxbpy"
+      },
+      "artists": [
+        {
+          "name": "SHANGHAI NOISE FACTORY",
+          "url": "https://open.spotify.com/artist/3QLR2Hfe9Cfg3c0TbQWdnX"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "Green Noise 120 Hz High Pass",
+      "url": "https://open.spotify.com/track/1765I9zumRWehGxJVxHL3v"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/5xp7qiBsjDBibBlN0Sel06"
+      },
+      "artists": [
+        {
+          "name": "HOLISTIK",
+          "url": "https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192686,
+      "name": "Green Noise 400 Hz Bell",
+      "url": "https://open.spotify.com/track/5GOiE0diwN8NzK0VCfzeGG"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/5xp7qiBsjDBibBlN0Sel06"
+      },
+      "artists": [
+        {
+          "name": "HOLISTIK",
+          "url": "https://open.spotify.com/artist/5snzdlYPB9rks7jXF4bxl4"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Green Noise 436 Hz Bell",
+      "url": "https://open.spotify.com/track/4LDDxMhyuYP0Bo0y6puCC1"
+    },
+    {
+      "album": {
+        "name": "Natures Soundtrack",
+        "url": "https://open.spotify.com/album/3i94lLag4dkjHTEsRug0rE"
+      },
+      "artists": [
+        {
+          "name": "WNBN",
+          "url": "https://open.spotify.com/artist/7u9Ogseij8tcGiDLTCjpbC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125575,
+      "name": "Green Noise 500 Hz",
+      "url": "https://open.spotify.com/track/0rxmsK0e7l4FImr7HnYSEu"
+    },
+    {
+      "album": {
+        "name": "The Color Of Nature",
+        "url": "https://open.spotify.com/album/24p6noTStBR2AsQ8gbiuyP"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121117,
+      "name": "Green Noise : Night Rain",
+      "url": "https://open.spotify.com/track/0PBlHMSUnfrrBu1M9tm4kM"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Green Noise Ambient Nature",
+      "url": "https://open.spotify.com/track/3QvCrVrR50Wb99fxXTEG52"
+    },
+    {
+      "album": {
+        "name": "Green Noise Moments",
+        "url": "https://open.spotify.com/album/2m9XRZvwhhbjciq6ZcPOey"
+      },
+      "artists": [
+        {
+          "name": "Klangspiel",
+          "url": "https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 203747,
+      "name": "Green Noise and Calming Ocean Waves",
+      "url": "https://open.spotify.com/track/2Mru2svx8kplFkQ3vn6n4M"
+    },
+    {
+      "album": {
+        "name": "Green Noise and Water Meditation",
+        "url": "https://open.spotify.com/album/4KgSNTHTbmhO4x6FyPCVGZ"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188660,
+      "name": "Green Noise and Water Meditation",
+      "url": "https://open.spotify.com/track/0ECspZ5t3pFxmi4vL87PkG"
+    },
+    {
+      "album": {
+        "name": "Green Noise Water",
+        "url": "https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126934,
+      "name": "Green Noise Beside the Waterfall",
+      "url": "https://open.spotify.com/track/4qzc7OV8QSLyVQjnL3IfxR"
+    },
+    {
+      "album": {
+        "name": "Calming Green Noise",
+        "url": "https://open.spotify.com/album/5pRqn2PgcONGLdLqeRTP0H"
+      },
+      "artists": [
+        {
+          "name": "Euaxation",
+          "url": "https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141179,
+      "name": "Green Noise Bourne",
+      "url": "https://open.spotify.com/track/1xdKt1OT75Uqp4cxwTsxtZ"
+    },
+    {
+      "album": {
+        "name": "Calming Green",
+        "url": "https://open.spotify.com/album/4RlGUh0biVRljQCLOKx0mt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 163200,
+      "name": "Green Noise By The Creek",
+      "url": "https://open.spotify.com/track/14P7KpOpVoHkjNm7Ua1XNu"
+    },
+    {
+      "album": {
+        "name": "Green Noise by the Creek",
+        "url": "https://open.spotify.com/album/6AiR3cga3SEaArKT1KuSx1"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220107,
+      "name": "Green Noise by the Creek",
+      "url": "https://open.spotify.com/track/7qB4tS43dQrS3cplFkNXuD"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/0Uzy6dzGt6kPaZDDYzwQgb"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 145637,
+      "name": "Green Noise by the Ocean",
+      "url": "https://open.spotify.com/track/3pK1CJLQRIIG2dxxZFzJ71"
+    },
+    {
+      "album": {
+        "name": "Green Noise for Sleep and Stress Relief",
+        "url": "https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Labs",
+          "url": "https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 188493,
+      "name": "Green Noise by the Ocean",
+      "url": "https://open.spotify.com/track/4Bg9Zi8BW680FYiffjRuK4"
+    },
+    {
+      "album": {
+        "name": "Green Slumber Noise",
+        "url": "https://open.spotify.com/album/1Evu5xROYKHZjBANO4MUfY"
+      },
+      "artists": [
+        {
+          "name": "Good Ear Noise",
+          "url": "https://open.spotify.com/artist/0M5wxWoH4byI4kTvWQ6ISa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 109660,
+      "name": "Green Noise By The Sea",
+      "url": "https://open.spotify.com/track/5YFy8UCaZx7Fls9fXkXSHb"
+    },
+    {
+      "album": {
+        "name": "Focus Green Noise",
+        "url": "https://open.spotify.com/album/5OosOpXbAFgRquModHjs8q"
+      },
+      "artists": [
+        {
+          "name": "Gentle Nature",
+          "url": "https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144894,
+      "name": "Green Noise by The Waterfall",
+      "url": "https://open.spotify.com/track/5ZHzsDYbi4WWHPzrM0wQNR"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226951,
+      "name": "Green Noise by the Waterfall",
+      "url": "https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH"
+    },
+    {
+      "album": {
+        "name": "Green Noise Healing",
+        "url": "https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 172000,
+      "name": "Green Noise Calm",
+      "url": "https://open.spotify.com/track/0WxcfVuXESwWSdPTRYIEQx"
+    },
+    {
+      "album": {
+        "name": "Green Noise Calming Seawaves",
+        "url": "https://open.spotify.com/album/2RBPXZIVhME69FEtjXzIO4"
+      },
+      "artists": [
+        {
+          "name": "Pinkertonal",
+          "url": "https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 172800,
+      "name": "Green Noise Calming Seawaves",
+      "url": "https://open.spotify.com/track/5mIpcAqJY7yCbUf9SmWgmz"
+    },
+    {
+      "album": {
+        "name": "Green Noise To Make you Sleepy",
+        "url": "https://open.spotify.com/album/4Y11tk3z99h78kah4lKcsF"
+      },
+      "artists": [
+        {
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151582,
+      "name": "Green Noise Chilled waves",
+      "url": "https://open.spotify.com/track/7Exb0qTNjy4ze0QuMhRhk1"
+    },
+    {
+      "album": {
+        "name": "Green Ocean Spray",
+        "url": "https://open.spotify.com/album/1Y0iPYHEo4Wj5HwkZMppZz"
+      },
+      "artists": [
+        {
+          "name": "Inverted Noise",
+          "url": "https://open.spotify.com/artist/161UkB7gyd1nQMVFLwUrDP"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135195,
+      "name": "Green Noise Comes and Goes",
+      "url": "https://open.spotify.com/track/703ixSHbQ6lOAqOfdXsz18"
+    },
+    {
+      "album": {
+        "name": "The Pure Sound of Green Noise",
+        "url": "https://open.spotify.com/album/5YqR7sqoYnFioZRCFHTh8R"
+      },
+      "artists": [
+        {
+          "name": "Tech Sleep",
+          "url": "https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 115916,
+      "name": "Green Noise Creek",
+      "url": "https://open.spotify.com/track/5p2NEOE6JL6C6fcKeKSp7v"
+    },
+    {
+      "album": {
+        "name": "Snooze With Green Noise",
+        "url": "https://open.spotify.com/album/7FXuK2ebb4EmW37fW0LT3r"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177091,
+      "name": "Green Noise Fat Rain",
+      "url": "https://open.spotify.com/track/2vG9nbNi72fl60r6ZeA71Y"
+    },
+    {
+      "album": {
+        "name": "Natural World Green Noise",
+        "url": "https://open.spotify.com/album/1lp7jDgvHy6TVJJlru1vBg"
+      },
+      "artists": [
+        {
+          "name": "Natural Samples",
+          "url": "https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Green Noise Flood Rumble",
+      "url": "https://open.spotify.com/track/53ncz3L42Juh0SHKtZvbOl"
+    },
+    {
+      "album": {
+        "name": "Green Noise for the Sleep Deprived",
+        "url": "https://open.spotify.com/album/3S1v3gV0hrrysV9A7Lu88Y"
+      },
+      "artists": [
+        {
+          "name": "Pinkfreq",
+          "url": "https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223634,
+      "name": "Green Noise for the Sleep Deprived",
+      "url": "https://open.spotify.com/track/0EaYx95X7V4oQyZr4MkIr5"
+    },
+    {
+      "album": {
+        "name": "Green Relax",
+        "url": "https://open.spotify.com/album/10kiGHY22ARlW2kPuxAt3P"
+      },
+      "artists": [
+        {
+          "name": "Dreamstatician",
+          "url": "https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Green Noise Forest Rain",
+      "url": "https://open.spotify.com/track/3EtLx73xLc1wowtX9JM2pj"
+    },
+    {
+      "album": {
+        "name": "Green Noise in Kauai",
+        "url": "https://open.spotify.com/album/2TTFB3bON4lDuZtkhBbTce"
+      },
+      "artists": [
+        {
+          "name": "Day Nappers",
+          "url": "https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152442,
+      "name": "Green Noise in Kauai",
+      "url": "https://open.spotify.com/track/0GAgE2IWrXnrXxQrHJ2Waq"
+    },
+    {
+      "album": {
+        "name": "Green Noise and Water Meditation",
+        "url": "https://open.spotify.com/album/4KgSNTHTbmhO4x6FyPCVGZ"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 220762,
+      "name": "Green Noise in the Jungle",
+      "url": "https://open.spotify.com/track/68DBK81CkdZqCXlsotBAfG"
+    },
+    {
+      "album": {
+        "name": "Green Noise in the Pyrenees",
+        "url": "https://open.spotify.com/album/3g3QuT4GzGmkPSIvWjYFfu"
+      },
+      "artists": [
+        {
+          "name": "Lavia 6",
+          "url": "https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217756,
+      "name": "Green Noise in the Pyrenees",
+      "url": "https://open.spotify.com/track/4yc8fkf9mh5TSrEBa2QjWz"
+    },
+    {
+      "album": {
+        "name": "Green Noise in the Rain",
+        "url": "https://open.spotify.com/album/2cSXa3ZIh1FoPTMbsQ3Yub"
+      },
+      "artists": [
+        {
+          "name": "Aeoluzzz",
+          "url": "https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281895,
+      "name": "Green Noise in the Rain",
+      "url": "https://open.spotify.com/track/5j0u8J2xQxNSXBSKeGcwxq"
+    },
+    {
+      "album": {
+        "name": "Green Noise In the Rain",
+        "url": "https://open.spotify.com/album/294Q6SgC9y7VMqUa2RkHuz"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140452,
+      "name": "Green Noise In the Rain",
+      "url": "https://open.spotify.com/track/7swANaOyrRm5zVvxHefwxn"
+    },
+    {
+      "album": {
+        "name": "Green Noise Journeys",
+        "url": "https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Green Noise Journeys",
+      "url": "https://open.spotify.com/track/0X2L4MtUHhklXCUXooJ2vS"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/5yLLmWvuXKRtstHUoPuyhW"
+      },
+      "artists": [
+        {
+          "name": "Green Noise Therapy",
+          "url": "https://open.spotify.com/artist/5spGUNaJx5zyrOzccgTFT3"
+        },
+        {
+          "name": "Green Noise For Sleep",
+          "url": "https://open.spotify.com/artist/38SWhNBDTM7Y2pYFkkKkkz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 60133,
+      "name": "Green Noise Looped No Fade",
+      "url": "https://open.spotify.com/track/2iEbKAk47M4Q7bMwwRzDui"
+    },
+    {
+      "album": {
+        "name": "Green Noise Underneath the Waterfall",
+        "url": "https://open.spotify.com/album/2uRveJPH68CSCaqiufsBBK"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291234,
+      "name": "Green Noise Magic",
+      "url": "https://open.spotify.com/track/3oK6kZ95Uvo3VK9E2yytE5"
+    },
+    {
+      "album": {
+        "name": "Green Noise Mist",
+        "url": "https://open.spotify.com/album/2EyzQVDoXbWwlLCrSn2b05"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Green Noise Mist",
+      "url": "https://open.spotify.com/track/1DC799SCqQ37hxKOFqf3hD"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Green Noise Nature Background",
+      "url": "https://open.spotify.com/track/2DztszPlqufVleBh9UHhP0"
+    },
+    {
+      "album": {
+        "name": "Ru\u00eddo Da Ilha Verde",
+        "url": "https://open.spotify.com/album/4JBrV7w2FEYgzpGIwgfPNJ"
+      },
+      "artists": [
+        {
+          "name": "San Sebastiano",
+          "url": "https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175676,
+      "name": "Green Noise Ocean",
+      "url": "https://open.spotify.com/track/0JTYVTZfpoPce2m3lZ8uuO"
+    },
+    {
+      "album": {
+        "name": "Worldwide Green Noise",
+        "url": "https://open.spotify.com/album/0FRzMGKvSbn98TvZvrqJc2"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 153466,
+      "name": "Green Noise Ocean - HP EQ 350hz",
+      "url": "https://open.spotify.com/track/1jEi77wnlPUG3wpVJpqJpv"
+    },
+    {
+      "album": {
+        "name": "Nature Green Noise",
+        "url": "https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv"
+      },
+      "artists": [
+        {
+          "name": "Proper Noises",
+          "url": "https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144151,
+      "name": "Green Noise of Nature",
+      "url": "https://open.spotify.com/track/1GqmQPOvFwRxO1FDlyHY6P"
+    },
+    {
+      "album": {
+        "name": "Green Noise Pacific",
+        "url": "https://open.spotify.com/album/0GMpGPc357ZygUb0fZtNMh"
+      },
+      "artists": [
+        {
+          "name": "Mori Desu",
+          "url": "https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 201290,
+      "name": "Green Noise Pacific",
+      "url": "https://open.spotify.com/track/0ZAVSjM0ErAvGaj4jirIci"
+    },
+    {
+      "album": {
+        "name": "Crystal Green Dream",
+        "url": "https://open.spotify.com/album/2juOEOm48MfX5rbq5Ly9oc"
+      },
+      "artists": [
+        {
+          "name": "Vibe Industry",
+          "url": "https://open.spotify.com/artist/7pPIGqagTGdaLhOUxZTyag"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 75440,
+      "name": "Green Noise Paradise",
+      "url": "https://open.spotify.com/track/07bbQD6cvzCaLUJoHhJBZ7"
+    },
+    {
+      "album": {
+        "name": "Green Noise Healing",
+        "url": "https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 172000,
+      "name": "Green Noise Peace",
+      "url": "https://open.spotify.com/track/4PP8ADAgXNoxLdLuD0O1Tp"
+    },
+    {
+      "album": {
+        "name": "Green Noise Water",
+        "url": "https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 117921,
+      "name": "Green Noise Pouring Rain at Night",
+      "url": "https://open.spotify.com/track/7m6HcgUKjaVz2tnNjkAhZh"
+    },
+    {
+      "album": {
+        "name": "Benefitial Green Noise",
+        "url": "https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a"
+      },
+      "artists": [
+        {
+          "name": "Audioable Noise",
+          "url": "https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 110714,
+      "name": "Green Noise Rain",
+      "url": "https://open.spotify.com/track/4P9mX7y426wdAmMUt6R0xW"
+    },
+    {
+      "album": {
+        "name": "Green Noise Rain Storm",
+        "url": "https://open.spotify.com/album/1L1jy92Ekxn9sMocU6U1As"
+      },
+      "artists": [
+        {
+          "name": "Aeoluzzz",
+          "url": "https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168385,
+      "name": "Green Noise Rain Storm",
+      "url": "https://open.spotify.com/track/4UTRW6NIYuQ6Dvp2mTrU67"
+    },
+    {
+      "album": {
+        "name": "Green Noise Symphony",
+        "url": "https://open.spotify.com/album/7qLBlaGYtmRjvIkQRmBe4L"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 204000,
+      "name": "Green Noise Reflection",
+      "url": "https://open.spotify.com/track/3fRNErrf4U3665fXnEK5DA"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 196000,
+      "name": "Green Noise Relaxation",
+      "url": "https://open.spotify.com/track/5hmEFHyeQOuBtFgMwzIlVZ"
+    },
+    {
+      "album": {
+        "name": "Green Noise Water",
+        "url": "https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 118672,
+      "name": "Green Noise Rippling Stream",
+      "url": "https://open.spotify.com/track/3xKYNCdqWxvISQxKzkhp04"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ritual",
+        "url": "https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf"
+      },
+      "artists": [
+        {
+          "name": "Karma Ritual",
+          "url": "https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168754,
+      "name": "Green Noise Ritual",
+      "url": "https://open.spotify.com/track/2u6gCtrkaPT3IInl2MZIQc"
+    },
+    {
+      "album": {
+        "name": "Natures Soundtrack",
+        "url": "https://open.spotify.com/album/3i94lLag4dkjHTEsRug0rE"
+      },
+      "artists": [
+        {
+          "name": "WNBN",
+          "url": "https://open.spotify.com/artist/7u9Ogseij8tcGiDLTCjpbC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 113687,
+      "name": "Green Noise River",
+      "url": "https://open.spotify.com/track/25E4skY8WTMsJgZZM9R8Kw"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Green Noise River Stream",
+      "url": "https://open.spotify.com/track/4qMxFAhiZ4fNBCwjE8ABSS"
+    },
+    {
+      "album": {
+        "name": "Focus Green Noise",
+        "url": "https://open.spotify.com/album/5OosOpXbAFgRquModHjs8q"
+      },
+      "artists": [
+        {
+          "name": "Gentle Nature",
+          "url": "https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133006,
+      "name": "Green Noise Rolling River",
+      "url": "https://open.spotify.com/track/3H6puKR9CqOvVHigi7VuOK"
+    },
+    {
+      "album": {
+        "name": "Relaxing Green Noise",
+        "url": "https://open.spotify.com/album/2mzdebneyQf4dEJWuI07ZF"
+      },
+      "artists": [
+        {
+          "name": "Auplaudios",
+          "url": "https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134492,
+      "name": "Green Noise Sea",
+      "url": "https://open.spotify.com/track/2a9SOcUOk6FHs8SUod7foX"
+    },
+    {
+      "album": {
+        "name": "Green Noise Healing",
+        "url": "https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 204000,
+      "name": "Green Noise Serenity",
+      "url": "https://open.spotify.com/track/7JhdQFqrw5JJebkys3Dcnr"
+    },
+    {
+      "album": {
+        "name": "Green Noise Shoreline",
+        "url": "https://open.spotify.com/album/2gSgGthgtn39tk11Ax6iv3"
+      },
+      "artists": [
+        {
+          "name": "Dinkotrons",
+          "url": "https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 165750,
+      "name": "Green Noise Shoreline",
+      "url": "https://open.spotify.com/track/0aNShMq3wv7AVtVRWtBxIU"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxing Waves",
+        "url": "https://open.spotify.com/album/2FPduFcR5LEfTzR8wz7mcz"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138762,
+      "name": "Green Noise Sleep Aid",
+      "url": "https://open.spotify.com/track/4bExCFIxEw8UTb0bzf8o7I"
+    },
+    {
+      "album": {
+        "name": "Green Relax",
+        "url": "https://open.spotify.com/album/10kiGHY22ARlW2kPuxAt3P"
+      },
+      "artists": [
+        {
+          "name": "Dreamstatician",
+          "url": "https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Green Noise Slow Rain",
+      "url": "https://open.spotify.com/track/7vUgN5Xd2P5DHLI0fpIFCK"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxation",
+        "url": "https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 204000,
+      "name": "Green Noise Sound Mask",
+      "url": "https://open.spotify.com/track/4DemBjpIT8jGyk8XZMILy5"
+    },
+    {
+      "album": {
+        "name": "Green Noise Journeys",
+        "url": "https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Green Noise Spa",
+      "url": "https://open.spotify.com/track/6m3TwGaOoRjuV98Bh5VzjB"
+    },
+    {
+      "album": {
+        "name": "Calming Green",
+        "url": "https://open.spotify.com/album/4RlGUh0biVRljQCLOKx0mt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172291,
+      "name": "Green Noise Spring Creek",
+      "url": "https://open.spotify.com/track/5PTKbhAPYTGVDiN9eeu8wa"
+    },
+    {
+      "album": {
+        "name": "Green Noise Journeys",
+        "url": "https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Green Noise Stimuli",
+      "url": "https://open.spotify.com/track/1K8EV1wuiZT5KQF7h6IyBl"
+    },
+    {
+      "album": {
+        "name": "Green Noise Water",
+        "url": "https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120174,
+      "name": "Green Noise Stormy Rain",
+      "url": "https://open.spotify.com/track/5Y9anGHsnPjqvyKJMTq1Ep"
+    },
+    {
+      "album": {
+        "name": "Green Noise Journeys",
+        "url": "https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 204000,
+      "name": "Green Noise Streams",
+      "url": "https://open.spotify.com/track/5BR0lNpDFpFcIUH6vPu9g9"
+    },
+    {
+      "album": {
+        "name": "Green Noise In the Rain",
+        "url": "https://open.spotify.com/album/294Q6SgC9y7VMqUa2RkHuz"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123179,
+      "name": "Green Noise Under Shelter",
+      "url": "https://open.spotify.com/track/77QVNm9J1Ap4udwUTh0yyf"
+    },
+    {
+      "album": {
+        "name": "Natures Soundtrack",
+        "url": "https://open.spotify.com/album/3i94lLag4dkjHTEsRug0rE"
+      },
+      "artists": [
+        {
+          "name": "WNBN",
+          "url": "https://open.spotify.com/artist/7u9Ogseij8tcGiDLTCjpbC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 114430,
+      "name": "Green Noise Watefall",
+      "url": "https://open.spotify.com/track/6cONmjyfKlFlaBV4eqlHzi"
+    },
+    {
+      "album": {
+        "name": "Green Noise Natural Sounds",
+        "url": "https://open.spotify.com/album/6Kecrfs3qWcElAPROQ3C1M"
+      },
+      "artists": [
+        {
+          "name": "Imma Belten",
+          "url": "https://open.spotify.com/artist/7ACbSM2atJDaC0jzT0JyNc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121117,
+      "name": "Green Noise Water",
+      "url": "https://open.spotify.com/track/66eyX5juGOYfeEeGw1bxxN"
+    },
+    {
+      "album": {
+        "name": "Natural World Green Noise",
+        "url": "https://open.spotify.com/album/1lp7jDgvHy6TVJJlru1vBg"
+      },
+      "artists": [
+        {
+          "name": "Natural Samples",
+          "url": "https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "Green Noise Water Course",
+      "url": "https://open.spotify.com/track/7AFyqRyv0ESyvHFELDy7bs"
+    },
+    {
+      "album": {
+        "name": "Calming Green",
+        "url": "https://open.spotify.com/album/4RlGUh0biVRljQCLOKx0mt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Green Noise Water Relax",
+      "url": "https://open.spotify.com/track/51mbBWP21GAjLGUZAMRjcS"
+    },
+    {
+      "album": {
+        "name": "Green Noise by Nature",
+        "url": "https://open.spotify.com/album/4V9LXDB6CiKe6v6qtMlP5d"
+      },
+      "artists": [
+        {
+          "name": "Surrounding Life",
+          "url": "https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157985,
+      "name": "Green Noise Waterfall",
+      "url": "https://open.spotify.com/track/0E1GmJbfm6rB1cSEGoww1q"
+    },
+    {
+      "album": {
+        "name": "Relaxing Green Noise",
+        "url": "https://open.spotify.com/album/2mzdebneyQf4dEJWuI07ZF"
+      },
+      "artists": [
+        {
+          "name": "Auplaudios",
+          "url": "https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 118145,
+      "name": "Green Noise Waves",
+      "url": "https://open.spotify.com/track/74evaJ2cv8VhwlulQKiHYA"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ritual",
+        "url": "https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf"
+      },
+      "artists": [
+        {
+          "name": "Karma Ritual",
+          "url": "https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 171612,
+      "name": "Green Noise Waves",
+      "url": "https://open.spotify.com/track/0sfdIxrpf5qIhvcWS6lGkf"
+    },
+    {
+      "album": {
+        "name": "Evergreen Noise",
+        "url": "https://open.spotify.com/album/7tmguPwwKGfDqpnaintaTN"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 187168,
+      "name": "Green Noise Waves",
+      "url": "https://open.spotify.com/track/1KMEedUbEQlZvXtEV8aPu2"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relax",
+        "url": "https://open.spotify.com/album/3LlTApPmS6QOfb5MuuL5Hm"
+      },
+      "artists": [
+        {
+          "name": "Water Beds",
+          "url": "https://open.spotify.com/artist/3y1CfQi9gq0ZAa4hgPkdYF"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 167000,
+      "name": "Green Noise With Ocean Waves",
+      "url": "https://open.spotify.com/track/2VBCKKt7TxHYCgF0m8Ah27"
+    },
+    {
+      "album": {
+        "name": "Green Noise with Relaxing Stream",
+        "url": "https://open.spotify.com/album/0Vo4VDlqsV3wK5PclOkaKS"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279955,
+      "name": "Green Noise with Relaxing Stream",
+      "url": "https://open.spotify.com/track/3y2tjiVSZjKXPC9MiLsGGI"
+    },
+    {
+      "album": {
+        "name": "Green Noise Focus",
+        "url": "https://open.spotify.com/album/08zuQcwCQID4xMV5lPTQvJ"
+      },
+      "artists": [
+        {
+          "name": "Emotion Noise",
+          "url": "https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157526,
+      "name": "Green Noise With The Ocean",
+      "url": "https://open.spotify.com/track/0aogia9gkZ4PQVrpqIvZgI"
+    },
+    {
+      "album": {
+        "name": "Green No!zy Noise",
+        "url": "https://open.spotify.com/album/6tNWgR7V0TBy76jCQG3N5e"
+      },
+      "artists": [
+        {
+          "name": "No!zez",
+          "url": "https://open.spotify.com/artist/1qhuc6MreMmhbTROEUCyC8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147211,
+      "name": "Green Oceanic Noise",
+      "url": "https://open.spotify.com/track/5H0gwLuGliOdtHNgiz54H8"
+    },
+    {
+      "album": {
+        "name": "Green Noise Pacific",
+        "url": "https://open.spotify.com/album/0GMpGPc357ZygUb0fZtNMh"
+      },
+      "artists": [
+        {
+          "name": "Mori Desu",
+          "url": "https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Green Pacific Slow Waves",
+      "url": "https://open.spotify.com/track/1lgEqxiUMuRQkIs9uB2i5z"
+    },
+    {
+      "album": {
+        "name": "Mellow Green Noise",
+        "url": "https://open.spotify.com/album/4lLQ6wcsk4boNnoElyPzQJ"
+      },
+      "artists": [
+        {
+          "name": "Focus Noise",
+          "url": "https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129373,
+      "name": "Green Rain & Birds",
+      "url": "https://open.spotify.com/track/2UqEj4VwgZanBsbyp1SIOo"
+    },
+    {
+      "album": {
+        "name": "Green Endless Waves",
+        "url": "https://open.spotify.com/album/4cJuMbABZd04a22gl4msnD"
+      },
+      "artists": [
+        {
+          "name": "Slumberatronics",
+          "url": "https://open.spotify.com/artist/6gY0UbxnBwzDDMrmdQpwXQ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138571,
+      "name": "Green Relaxing Seas",
+      "url": "https://open.spotify.com/track/5HtE6Hbhjl2wj2Zk4jkyGn"
+    },
+    {
+      "album": {
+        "name": "Green No!zy Noise",
+        "url": "https://open.spotify.com/album/6tNWgR7V0TBy76jCQG3N5e"
+      },
+      "artists": [
+        {
+          "name": "No!zez",
+          "url": "https://open.spotify.com/artist/1qhuc6MreMmhbTROEUCyC8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "Green Rippling Noise",
+      "url": "https://open.spotify.com/track/7eQ5fhhunW6PP2x8gXPQfr"
+    },
+    {
+      "album": {
+        "name": "Deluxe Green Noise",
+        "url": "https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160970,
+      "name": "Green River Noise",
+      "url": "https://open.spotify.com/track/3eRTdzMi3pHLfvvQCmD6Vx"
+    },
+    {
+      "album": {
+        "name": "Green Noise Calming Seawaves",
+        "url": "https://open.spotify.com/album/2RBPXZIVhME69FEtjXzIO4"
+      },
+      "artists": [
+        {
+          "name": "Pinkertonal",
+          "url": "https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 168979,
+      "name": "Green Soothing Sea Sounds",
+      "url": "https://open.spotify.com/track/1lc6IkwrfK7V7Fy3yE1Zkq"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 92079,
+      "name": "Green Sounds",
+      "url": "https://open.spotify.com/track/6LlMZ8Gvpdbm65pBcSwyCN"
+    },
+    {
+      "album": {
+        "name": "Green No!zy Noise",
+        "url": "https://open.spotify.com/album/6tNWgR7V0TBy76jCQG3N5e"
+      },
+      "artists": [
+        {
+          "name": "No!zez",
+          "url": "https://open.spotify.com/artist/1qhuc6MreMmhbTROEUCyC8"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134444,
+      "name": "Green Swirling Noise",
+      "url": "https://open.spotify.com/track/4SO0kE6juvk7tuZSfAbPVv"
+    },
+    {
+      "album": {
+        "name": "The Background Noise of the World",
+        "url": "https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv"
+      },
+      "artists": [
+        {
+          "name": "Blancouver",
+          "url": "https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133749,
+      "name": "Green Waterfall",
+      "url": "https://open.spotify.com/track/5rAj3YUEgejWQzSiIemWNk"
+    },
+    {
+      "album": {
+        "name": "Green Noise Relaxing Waves",
+        "url": "https://open.spotify.com/album/2FPduFcR5LEfTzR8wz7mcz"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138703,
+      "name": "Green Wave Relax",
+      "url": "https://open.spotify.com/track/6rtOZHSo4qp01lkMo1jU1I"
+    },
+    {
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 117402,
+      "name": "Green Wave Sounds",
+      "url": "https://open.spotify.com/track/1zDnirYZvqBIJSqPyMAXum"
+    },
+    {
+      "album": {
+        "name": "Green Placid",
+        "url": "https://open.spotify.com/album/15WeHPxkFIAfpLU19eZHBs"
+      },
+      "artists": [
+        {
+          "name": "Delicatessen Noise",
+          "url": "https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Green Waves",
+      "url": "https://open.spotify.com/track/2OJPAHozl2WkZmW5U0Vili"
+    },
+    {
+      "album": {
+        "name": "Green Noise Open Sea",
+        "url": "https://open.spotify.com/album/5ihMLpkcW9RGSPk2REVYIG"
+      },
+      "artists": [
+        {
+          "name": "Ambientics",
+          "url": "https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138805,
+      "name": "Green Wavy Chill",
+      "url": "https://open.spotify.com/track/7kaJw1bhoaWObCADsBZAU9"
+    },
+    {
+      "album": {
+        "name": "Ru\u00eddo Verde na Natureza",
+        "url": "https://open.spotify.com/album/0i41B4A9FwoPnOb7NPo1Os"
+      },
+      "artists": [
+        {
+          "name": "Jardim De Amostra",
+          "url": "https://open.spotify.com/artist/1TMqqaHIWBJQHjVu4fV4oy"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 141203,
+      "name": "Grilos \u00e0 Beira-Mar",
+      "url": "https://open.spotify.com/track/19ZNLxoX8vN3vpI7pG9L8A"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 184000,
+      "name": "Harmonic Oasis - Green Noise",
+      "url": "https://open.spotify.com/track/3yJn5MHbhqJoN7GsuFVnyu"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 130037,
+      "name": "HD Green Noise (River)",
+      "url": "https://open.spotify.com/track/4M1dyWBQbQtbkfcNuVovOv"
+    },
+    {
+      "album": {
+        "name": "Green Sky",
+        "url": "https://open.spotify.com/album/0FnslyXwtUslJr8qV77zBt"
+      },
+      "artists": [
+        {
+          "name": "Sky Travis",
+          "url": "https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 118000,
+      "name": "Heavenly Green - Seamless",
+      "url": "https://open.spotify.com/track/5yLzUlJfZnLIPkDqKs1vzK"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/5TNoeP6xKaZElUHFlkeYGh"
+      },
+      "artists": [
+        {
+          "name": "Scientific Noise",
+          "url": "https://open.spotify.com/artist/0DH931C5uJzm7OceDNh41S"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145709,
+      "name": "Heavy Noise",
+      "url": "https://open.spotify.com/track/13EVtBX4UEXL060vNyB0wA"
+    },
+    {
+      "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141694,
+      "name": "Hidden River",
+      "url": "https://open.spotify.com/track/1POqOx1gAFK8hazWhWOMtk"
+    },
+    {
+      "album": {
+        "name": "Rain Forest Green Chill",
+        "url": "https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Hypnotic Green Noise",
+      "url": "https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU"
+    },
+    {
+      "album": {
+        "name": "Laurel Labyrinth (Green Noise)",
+        "url": "https://open.spotify.com/album/7n5PS1ZvyzBc3iQLEAeP4n"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Laurel Labyrinth - Green Noise",
+      "url": "https://open.spotify.com/track/3NmfftBMS2idqmKAtZG4lu"
+    },
+    {
+      "album": {
+        "name": "Little Noises",
+        "url": "https://open.spotify.com/album/6sZh4jnoErOmxguORUbpmX"
+      },
+      "artists": [
+        {
+          "name": "Little Koala",
+          "url": "https://open.spotify.com/artist/1gLRBiAgnTX3Fj6I29ULqQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Little Green Noise",
+      "url": "https://open.spotify.com/track/0Vsdu1FNvR7rrP6Pw5l0ML"
+    },
+    {
+      "album": {
+        "name": "Ruido Verde Sereno",
+        "url": "https://open.spotify.com/album/0Sl5qfpBWzVRnwljnNyAVz"
+      },
+      "artists": [
+        {
+          "name": "Ardeon",
+          "url": "https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 109874,
+      "name": "Lluvia Suave (Ruido Verde)",
+      "url": "https://open.spotify.com/track/0hKbv2cEuaHOjZUfLMoD22"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Lush Lullaby - Green Noise",
+      "url": "https://open.spotify.com/track/1rO8WZPwV6OKEKVhRWfsXS"
+    },
+    {
+      "album": {
+        "name": "Waves of Green Noise",
+        "url": "https://open.spotify.com/album/4or1sbutGrnDPUjpkCQwXG"
+      },
+      "artists": [
+        {
+          "name": "Ozeanus",
+          "url": "https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171657,
+      "name": "Meditating with Green Noise and the Waves",
+      "url": "https://open.spotify.com/track/37ZcgTeQclPJU8Jdirivod"
+    },
+    {
+      "album": {
+        "name": "Melodic Bird Green Noise",
+        "url": "https://open.spotify.com/album/3eftFCkSeixOAT3aDJAJaS"
+      },
+      "artists": [
+        {
+          "name": "La Feux",
+          "url": "https://open.spotify.com/artist/3FZuYD8nRjLSLX6UWTM2H5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 112941,
+      "name": "Melodic Bird Green Noise",
+      "url": "https://open.spotify.com/track/6VDbje8AcM6DdFVgnZmXaI"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ambience",
+        "url": "https://open.spotify.com/album/4C190h0pKa73fARygNIjFN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 184000,
+      "name": "Mid Green Noise",
+      "url": "https://open.spotify.com/track/3hCg0CCMGxFyA26QFEubRV"
+    },
+    {
+      "album": {
+        "name": "Mind Focus - Green Noise",
+        "url": "https://open.spotify.com/album/7zwa2mYAIbJqSkZEJ1zint"
+      },
+      "artists": [
+        {
+          "name": "Pil Grims",
+          "url": "https://open.spotify.com/artist/7zzDyDEf4TxmSAPfmDB3aD"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128436,
+      "name": "Mind Focus on Crashing Waves",
+      "url": "https://open.spotify.com/track/336sY1nMt3a2HgyDJIi1j3"
+    },
+    {
+      "album": {
+        "name": "Emerald Views Green Noise",
+        "url": "https://open.spotify.com/album/3NwNMNtcNyD5k6bXVqkaRS"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 196000,
+      "name": "Mind Waves Green Noise",
+      "url": "https://open.spotify.com/track/4sGYgY5xCxS4bpdr5J54Gw"
+    },
+    {
+      "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149895,
+      "name": "Morning Rain (Green Noise)",
+      "url": "https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128869,
+      "name": "Morning Rain - Green Noise",
+      "url": "https://open.spotify.com/track/0HzYqraQscAiyZDbUgvWxt"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mossy Meditation - Green Noise",
+      "url": "https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1"
+    },
+    {
+      "album": {
+        "name": "Night Green Noise",
+        "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Noise Island",
+          "url": "https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120372,
+      "name": "Mountain Ascent",
+      "url": "https://open.spotify.com/track/6BO7StXzy6FRgxhRZ6DJbZ"
+    },
+    {
+      "album": {
+        "name": "Tropical Green Noise",
+        "url": "https://open.spotify.com/album/1u8rO3NGbrcBHsLYBAubrg"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00fcrlicher",
+          "url": "https://open.spotify.com/artist/6YbProTCKdc1F85gbMcXvt"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136719,
+      "name": "Mountain Glacier Green Noise",
+      "url": "https://open.spotify.com/track/2p4DXR6onhUvquleQS8uyn"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK"
+      },
+      "artists": [
+        {
+          "name": "NC2 LABORATORIES",
+          "url": "https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Movements (500 Hz LP, 100 Hz HP)",
+      "url": "https://open.spotify.com/track/0SRqKEj7uiXP1FSCycYXUz"
+    },
+    {
+      "album": {
+        "name": "Nature Green Noise",
+        "url": "https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv"
+      },
+      "artists": [
+        {
+          "name": "Proper Noises",
+          "url": "https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151582,
+      "name": "Natural Green Noise",
+      "url": "https://open.spotify.com/track/6EodoSR2tA2MHHCoGTFpGV"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 96538,
+      "name": "Nature Sleep",
+      "url": "https://open.spotify.com/track/3V644t3gwB5jy7q1M2HCMw"
+    },
+    {
+      "album": {
+        "name": "Niagara Green Dreams",
+        "url": "https://open.spotify.com/album/0a9Wfv2cNxeQIl0h4hd8Ms"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 88000,
+      "name": "Niagara Green Dreams",
+      "url": "https://open.spotify.com/track/7gsHymkgq7H6Vy0M0dB983"
+    },
+    {
+      "album": {
+        "name": "Warm Green Noise",
+        "url": "https://open.spotify.com/album/3tyHCtEWORe6gmhYB29niI"
+      },
+      "artists": [
+        {
+          "name": "Hypnotronica",
+          "url": "https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 196800,
+      "name": "Night Crickets - Green Noise",
+      "url": "https://open.spotify.com/track/5VBHOXrzpcg8nSVlFYE068"
+    },
+    {
+      "album": {
+        "name": "Night Green Noise",
+        "url": "https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Noise Island",
+          "url": "https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130031,
+      "name": "Night Green Noise",
+      "url": "https://open.spotify.com/track/2cPEzcmtPJdl7K86W9xKte"
+    },
+    {
+      "album": {
+        "name": "Niagara Green Dreams",
+        "url": "https://open.spotify.com/album/0a9Wfv2cNxeQIl0h4hd8Ms"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 92079,
+      "name": "Noisy Spring",
+      "url": "https://open.spotify.com/track/09tKN86dbAT5cJIdbBYoUA"
+    },
+    {
+      "album": {
+        "name": "Relaxing Green Noise",
+        "url": "https://open.spotify.com/album/2mzdebneyQf4dEJWuI07ZF"
+      },
+      "artists": [
+        {
+          "name": "Auplaudios",
+          "url": "https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135978,
+      "name": "Ocean Green Noise",
+      "url": "https://open.spotify.com/track/4Dbawrmc5nJfSJNyQWUCnf"
+    },
+    {
+      "album": {
+        "name": "Nature Green Noise",
+        "url": "https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv"
+      },
+      "artists": [
+        {
+          "name": "Proper Noises",
+          "url": "https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134492,
+      "name": "Ocean Sound & Green Noise",
+      "url": "https://open.spotify.com/track/1WUclaGCtNyrwQwwKLNAOU"
+    },
+    {
+      "album": {
+        "name": "Soundmaking Green Noise",
+        "url": "https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Side",
+          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151582,
+      "name": "Oceanic Green Noise",
+      "url": "https://open.spotify.com/track/0Hg9UYsQyKaoKvqP8EW48x"
+    },
+    {
+      "album": {
+        "name": "Un Mar Verde de Ruido",
+        "url": "https://open.spotify.com/album/0srzhUAOtJkYdfMf6urehL"
+      },
+      "artists": [
+        {
+          "name": "Audiozze",
+          "url": "https://open.spotify.com/artist/4yCJwlN0FB8m09Qfxff2Jt"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 113415,
+      "name": "Olas Verdes Tormentosas",
+      "url": "https://open.spotify.com/track/1oJYcgZ4nN3Dz0V90O4C73"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Olive Oasis - Green Noise",
+      "url": "https://open.spotify.com/track/2AMfC7zqbdxJbLWDap3UqQ"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/3UjglpBRCskptI5Wpczwts"
+      },
+      "artists": [
+        {
+          "name": "Mindful Audio",
+          "url": "https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Peaceful Green Noise",
+      "url": "https://open.spotify.com/track/56efnPtt1KZTSI7DcTgzOz"
+    },
+    {
+      "album": {
+        "name": "Enchanted Forest (Green Noise)",
+        "url": "https://open.spotify.com/album/7DC17asyOzOXwiBpzjsBlD"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 898000,
+      "name": "Peaceful Respite - Green Noise",
+      "url": "https://open.spotify.com/track/1r7ya0gJFaSZ3ZzrFYutgW"
+    },
+    {
+      "album": {
+        "name": "Green Noise Vol. 1",
+        "url": "https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw"
+      },
+      "artists": [
+        {
+          "name": "JBE Noise Factory",
+          "url": "https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158771,
+      "name": "Perfect Rainy Green Noise",
+      "url": "https://open.spotify.com/track/7vfumRcj1Ga69SEulVaFQJ"
+    },
+    {
+      "album": {
+        "name": "Green Earth Noise",
+        "url": "https://open.spotify.com/album/4JIdhcvmRtzxvyFznmU3Lq"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Planetary Green Noise",
+      "url": "https://open.spotify.com/track/6ju7ZpO02Za1jF1qrRKHct"
+    },
+    {
+      "album": {
+        "name": "Focus Green Noise",
+        "url": "https://open.spotify.com/album/5OosOpXbAFgRquModHjs8q"
+      },
+      "artists": [
+        {
+          "name": "Gentle Nature",
+          "url": "https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133006,
+      "name": "Poaring Green Noise",
+      "url": "https://open.spotify.com/track/11kLiwsWRQ6ujog6szsROI"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
+      },
+      "artists": [
+        {
+          "name": "Mind Noises",
+          "url": "https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150966,
+      "name": "Pouring Noise",
+      "url": "https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX"
+    },
+    {
+      "album": {
+        "name": "Temperate Rain Green Noise",
+        "url": "https://open.spotify.com/album/3zypkU4M07KACLnzRogwtl"
+      },
+      "artists": [
+        {
+          "name": "Dr.Sleep",
+          "url": "https://open.spotify.com/artist/1G9B6h7wCw5W9tm8joT9GR"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "Prairie Sunrise",
+      "url": "https://open.spotify.com/track/7LLOr595zLW96catM7OimH"
+    },
+    {
+      "album": {
+        "name": "Pure Green Noise",
+        "url": "https://open.spotify.com/album/12sJXOpkC7CRzkHSAVekOd"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man Recordings",
+          "url": "https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Pure Green Noise",
+      "url": "https://open.spotify.com/track/4GpuUhXiDaIFqQW18pdB4j"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Radiant Greens - Green Noise",
+      "url": "https://open.spotify.com/track/6dNa4vsYmPCuizZO3FvGSO"
+    },
+    {
+      "album": {
+        "name": "Green Rain Noise",
+        "url": "https://open.spotify.com/album/37pOQ4i3f7pwnM68yZ1S5y"
+      },
+      "artists": [
+        {
+          "name": "Udder Dry",
+          "url": "https://open.spotify.com/artist/1WdwKDB7ev8E4H6tSqJePc"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Rain And Thunder With Green Noise",
+      "url": "https://open.spotify.com/track/797rH0dojKeRrBRfI6K0RK"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 196000,
+      "name": "Rainforest Reverie - Green Noise",
+      "url": "https://open.spotify.com/track/7sU0bWydZLTD0gfR4Lwoa9"
+    },
+    {
+      "album": {
+        "name": "Green Noise Landscape",
+        "url": "https://open.spotify.com/album/7zo6kRrAxIv3PIy36BYrLd"
+      },
+      "artists": [
+        {
+          "name": "Bona Nochy",
+          "url": "https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Rainy Forest Green Noise",
+      "url": "https://open.spotify.com/track/7BqBXrO7Mx0uK2llp5Mqyy"
+    },
+    {
+      "album": {
+        "name": "Washing Noise",
+        "url": "https://open.spotify.com/album/3mf1uu8hYWMXjDlGNW9SNU"
+      },
+      "artists": [
+        {
+          "name": "Myrs",
+          "url": "https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 94000,
+      "name": "Rainy Green Nights",
+      "url": "https://open.spotify.com/track/7sxP7ymbxWdoLtYUkAxwAH"
+    },
+    {
+      "album": {
+        "name": "Benefitial Green Noise",
+        "url": "https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a"
+      },
+      "artists": [
+        {
+          "name": "Audioable Noise",
+          "url": "https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 112201,
+      "name": "Rainy Green Noise",
+      "url": "https://open.spotify.com/track/34NreTkNZvefJirZTpMh1d"
+    },
+    {
+      "album": {
+        "name": "Green Noise Serenity",
+        "url": "https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Rainy Green Serenity - Green Noise",
+      "url": "https://open.spotify.com/track/3d7AFvilPf1pfT6n02j2oI"
+    },
+    {
+      "album": {
+        "name": "Worldwide Green Noise",
+        "url": "https://open.spotify.com/album/0FRzMGKvSbn98TvZvrqJc2"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139070,
+      "name": "Rainy Moment (Green Noise)",
+      "url": "https://open.spotify.com/track/1HTBRF6AoBZLhHho0PdOW7"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/4U0vt6QJHQrvrh4IRxO2pg"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136550,
+      "name": "Rainy Night - Sweet Spot Green Noise",
+      "url": "https://open.spotify.com/track/4K1TQrctzubFO1My5EiyMh"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW"
+      },
+      "artists": [
+        {
+          "name": "MKG Sound Library",
+          "url": "https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158276,
+      "name": "Rainy River - Green Noise",
+      "url": "https://open.spotify.com/track/0RBFDD0fACb1dnJaKrpV16"
+    },
+    {
+      "album": {
+        "name": "Study Green Noise",
+        "url": "https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP"
+      },
+      "artists": [
+        {
+          "name": "Eltern FX",
+          "url": "https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153811,
+      "name": "Reading Green Noise",
+      "url": "https://open.spotify.com/track/2snItDU0GMJczVLUphPhU8"
+    },
+    {
+      "album": {
+        "name": "Green Noise Serenity",
+        "url": "https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 216000,
+      "name": "Refreshing Mists - Green Noise",
+      "url": "https://open.spotify.com/track/2Io24Uwd0pEK0iW2DhcOyv"
+    },
+    {
+      "album": {
+        "name": "The Pure Sound of Green Noise",
+        "url": "https://open.spotify.com/album/5YqR7sqoYnFioZRCFHTh8R"
+      },
+      "artists": [
+        {
+          "name": "Tech Sleep",
+          "url": "https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 113687,
+      "name": "Relaxing rain & Green Noise",
+      "url": "https://open.spotify.com/track/7F6j7FKN8rvmKYJdf3DaOe"
+    },
+    {
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "Relaxing Wave Sounds",
+      "url": "https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK"
+      },
+      "artists": [
+        {
+          "name": "NC2 LABORATORIES",
+          "url": "https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Reverbed (500 Hz LP, 100 Hz HP)",
+      "url": "https://open.spotify.com/track/0hu1vKmSWjpFKRQ5mIbDTG"
+    },
+    {
+      "album": {
+        "name": "Fading Forest Green Noise",
+        "url": "https://open.spotify.com/album/13Oxn0mlcUoDcCZJqR8eaS"
+      },
+      "artists": [
+        {
+          "name": "Naturaleza FX",
+          "url": "https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "Right Mind Noise",
+      "url": "https://open.spotify.com/track/4Jwvt8ImF4ONUH1mf4dKB5"
+    },
+    {
+      "album": {
+        "name": "The Background Noise of the World",
+        "url": "https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv"
+      },
+      "artists": [
+        {
+          "name": "Blancouver",
+          "url": "https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121117,
+      "name": "River - Green Noise",
+      "url": "https://open.spotify.com/track/6cI3UOlAmSFMD3dS0iBQ3F"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ambience",
+        "url": "https://open.spotify.com/album/4C190h0pKa73fARygNIjFN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "River Green Noise",
+      "url": "https://open.spotify.com/track/4bU9LcQ6jRhTImPhpnn2Yu"
+    },
+    {
+      "album": {
+        "name": "Sleep: Green Noise",
+        "url": "https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC"
+      },
+      "artists": [
+        {
+          "name": "The BD Noise Maker",
+          "url": "https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147123,
+      "name": "River Green Noise",
+      "url": "https://open.spotify.com/track/0SiUFr6UgLcl8bq6Le5qkg"
+    },
+    {
+      "album": {
+        "name": "Deluxe Green Noise",
+        "url": "https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141396,
+      "name": "River Green Noise (BP 400Hz, 2.4kHz)",
+      "url": "https://open.spotify.com/track/4Jwrj69gcecUyT13C2uDGf"
+    },
+    {
+      "album": {
+        "name": "Green Slumber Noise",
+        "url": "https://open.spotify.com/album/1Evu5xROYKHZjBANO4MUfY"
+      },
+      "artists": [
+        {
+          "name": "Good Ear Noise",
+          "url": "https://open.spotify.com/artist/0M5wxWoH4byI4kTvWQ6ISa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 111162,
+      "name": "River Noise",
+      "url": "https://open.spotify.com/track/2drZkN6yir30OnAcIuSNYG"
+    },
+    {
+      "album": {
+        "name": "River of Green Noise",
+        "url": "https://open.spotify.com/album/3Cl1HV9fakBleWyFkNEwgs"
+      },
+      "artists": [
+        {
+          "name": "Lavia 6",
+          "url": "https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209632,
+      "name": "River of Green Noise",
+      "url": "https://open.spotify.com/track/0wwrXUgjEnoLbABJti20z8"
+    },
+    {
+      "album": {
+        "name": "El Sue\u00f1o del Ruido Verde",
+        "url": "https://open.spotify.com/album/04HK8R2GPKSg3BO80iQYfF"
+      },
+      "artists": [
+        {
+          "name": "Construidor",
+          "url": "https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 116419,
+      "name": "Ruido Verde Ondulante",
+      "url": "https://open.spotify.com/track/5SSeI3tXzFDnjNbL8rGjoF"
+    },
+    {
+      "album": {
+        "name": "Melodic Bird Green Noise",
+        "url": "https://open.spotify.com/album/3eftFCkSeixOAT3aDJAJaS"
+      },
+      "artists": [
+        {
+          "name": "La Feux",
+          "url": "https://open.spotify.com/artist/3FZuYD8nRjLSLX6UWTM2H5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 112198,
+      "name": "Rustling Leaves Green Noise",
+      "url": "https://open.spotify.com/track/2k43Lo6iP1AWpdU3KgsVmC"
+    },
+    {
+      "album": {
+        "name": "Mossy Meditation Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 184000,
+      "name": "Sage Serenade - Green Noise",
+      "url": "https://open.spotify.com/track/6tQulwhhEaSIPSNwyQiD9w"
+    },
+    {
+      "album": {
+        "name": "Ocean Of Green Noise",
+        "url": "https://open.spotify.com/album/245Bkog3hzu9uvoZyBUfDC"
+      },
+      "artists": [
+        {
+          "name": "Studio Sea",
+          "url": "https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Seashore With Green Noise",
+      "url": "https://open.spotify.com/track/5wXE09R420n29USlAR202e"
+    },
+    {
+      "album": {
+        "name": "Green Noise To Make you Sleepy",
+        "url": "https://open.spotify.com/album/4Y11tk3z99h78kah4lKcsF"
+      },
+      "artists": [
+        {
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144894,
+      "name": "Seaside Green Noise",
+      "url": "https://open.spotify.com/track/2iG9745rVgqG1JvDYhEyd3"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 164000,
+      "name": "Secret Grove - Green Noise",
+      "url": "https://open.spotify.com/track/6biC634YWCXh2mSF7bJbF3"
+    },
+    {
+      "album": {
+        "name": "Nebula Expansion Green Noise",
+        "url": "https://open.spotify.com/album/6rTuJd0kfqI9MaS9FkLjYR"
+      },
+      "artists": [
+        {
+          "name": "Samsura",
+          "url": "https://open.spotify.com/artist/7aKOy0qVVn5ARHyQqj1XuU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 142663,
+      "name": "Seismic Green Noise",
+      "url": "https://open.spotify.com/track/3GQAdxtB85eRjlg6DDfSmz"
+    },
+    {
+      "album": {
+        "name": "Green Noise Serenity",
+        "url": "https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 196000,
+      "name": "Serene Cascades - Green Noise",
+      "url": "https://open.spotify.com/track/27bNa1BFv7dhv8SYymo7mY"
+    },
+    {
+      "album": {
+        "name": "Fading Forest Green Noise",
+        "url": "https://open.spotify.com/album/13Oxn0mlcUoDcCZJqR8eaS"
+      },
+      "artists": [
+        {
+          "name": "Naturaleza FX",
+          "url": "https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144149,
+      "name": "Sleep Green Noise",
+      "url": "https://open.spotify.com/track/47ktXlGCs1NhYjkzFwyQKj"
+    },
+    {
+      "album": {
+        "name": "Niagara Green Dreams",
+        "url": "https://open.spotify.com/album/0a9Wfv2cNxeQIl0h4hd8Ms"
+      },
+      "artists": [
+        {
+          "name": "Erity",
+          "url": "https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 100000,
+      "name": "Sleeping Sounds Of Green",
+      "url": "https://open.spotify.com/track/3cveUVSogQigjosUH51Vzy"
+    },
+    {
+      "album": {
+        "name": "Evergreen Noise",
+        "url": "https://open.spotify.com/album/7tmguPwwKGfDqpnaintaTN"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Sleepy Green Waves",
+      "url": "https://open.spotify.com/track/2IK12NVHiDw78w4jE911Ry"
+    },
+    {
+      "album": {
+        "name": "Green Sleep Noise",
+        "url": "https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz"
+      },
+      "artists": [
+        {
+          "name": "Sleep Recorders",
+          "url": "https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "Sleepy Waves",
+      "url": "https://open.spotify.com/track/5aaTPI6dPUZjdD5YPVABCp"
+    },
+    {
+      "album": {
+        "name": "Sleppy Green",
+        "url": "https://open.spotify.com/album/1L6lOCw4V0fMrEPTWK4GTS"
+      },
+      "artists": [
+        {
+          "name": "Pink Noise Panther",
+          "url": "https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 96538,
+      "name": "Sleppy Green",
+      "url": "https://open.spotify.com/track/1XpKXmxVKAYnvy1d50JuqD"
+    },
+    {
+      "album": {
+        "name": "Green Noise Slow Down",
+        "url": "https://open.spotify.com/album/6Hu4mWoCK065ALHSltyjFz"
+      },
+      "artists": [
+        {
+          "name": "Calmatics",
+          "url": "https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "Slow Down Green Noise",
+      "url": "https://open.spotify.com/track/0VidS1O2GOntkfXYpbe4nP"
+    },
+    {
+      "album": {
+        "name": "Green Comforting Waves",
+        "url": "https://open.spotify.com/album/3GFFcGWja10dV1X5ZpB6oT"
+      },
+      "artists": [
+        {
+          "name": "Sleep Potential",
+          "url": "https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Slow Sea Green Noise",
+      "url": "https://open.spotify.com/track/70988moQ6nffjR3yIpAqhl"
+    },
+    {
+      "album": {
+        "name": "The Sound of Nature",
+        "url": "https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS"
+      },
+      "artists": [
+        {
+          "name": "HQ-10",
+          "url": "https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138207,
+      "name": "Small Brook Green Noise",
+      "url": "https://open.spotify.com/track/0HO4WDZJ8zQkBnqQ3XslJ6"
+    },
+    {
+      "album": {
+        "name": "Epitome of Green Noise",
+        "url": "https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 204000,
+      "name": "Smaragdine (Green Noise)",
+      "url": "https://open.spotify.com/track/2Lij1ZCRIuVjw4eH8hbZnq"
+    },
+    {
+      "album": {
+        "name": "Neon Night Green Noise",
+        "url": "https://open.spotify.com/album/0JL8X9R7oK8em4JYRDtxw4"
+      },
+      "artists": [
+        {
+          "name": "Sound Pass",
+          "url": "https://open.spotify.com/artist/3hZ1EI1xOO9FAl4MsYK78d"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "Smooth Assembly Green Noise",
+      "url": "https://open.spotify.com/track/6sipWZqoNuHMMRFu11aHsM"
+    },
+    {
+      "album": {
+        "name": "Soft Green Noise",
+        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
+      },
+      "artists": [
+        {
+          "name": "The Noise Generator",
+          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126318,
+      "name": "Smooth Waves",
+      "url": "https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/0Uzy6dzGt6kPaZDDYzwQgb"
+      },
+      "artists": [
+        {
+          "name": "Moon Geel",
+          "url": "https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 147866,
+      "name": "Sof Waves",
+      "url": "https://open.spotify.com/track/6aNkXy3MWPboQm0NbBxz6R"
+    },
+    {
+      "album": {
+        "name": "Green Droplets",
+        "url": "https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF"
+      },
+      "artists": [
+        {
+          "name": "Che Dormono",
+          "url": "https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Soft Green Rain",
+      "url": "https://open.spotify.com/track/4FUKhQYNwSVhiHVmnUfsFP"
+    },
+    {
+      "album": {
+        "name": "Soothing Breeze (Green Noise)",
+        "url": "https://open.spotify.com/album/0rY0wDqo2DjB13sohYNnqH"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 164000,
+      "name": "Soothing Breeze - Green Noise",
+      "url": "https://open.spotify.com/track/4hjA4x48lQq8NGI8ohTran"
+    },
+    {
+      "album": {
+        "name": "Green Noise",
+        "url": "https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd"
+      },
+      "artists": [
+        {
+          "name": "Noyze Freq",
+          "url": "https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216270,
+      "name": "Soothing Green Noise by the River",
+      "url": "https://open.spotify.com/track/4nAkLLFtlPh8oRrC9z0x5M"
+    },
+    {
+      "album": {
+        "name": "Ambient Green Noise",
+        "url": "https://open.spotify.com/album/0Ql7DZpQhomZch4cbEGMWz"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 102000,
+      "name": "Soothing Green Noise With Natural Waterfall Ambience",
+      "url": "https://open.spotify.com/track/2rpBSioMuNSDceN8HJ47OC"
+    },
+    {
+      "album": {
+        "name": "Sound Of Green",
+        "url": "https://open.spotify.com/album/0ep0hrKGzy34gULEEf1N6n"
+      },
+      "artists": [
+        {
+          "name": "Soundiescape",
+          "url": "https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 116135,
+      "name": "Sound Of Green",
+      "url": "https://open.spotify.com/track/6aY82PMwfUZxByuUT1pH15"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ambience",
+        "url": "https://open.spotify.com/album/4C190h0pKa73fARygNIjFN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 184000,
+      "name": "Steady Green Noise",
+      "url": "https://open.spotify.com/track/6ZD5t18SBLccJFBcKySczl"
+    },
+    {
+      "album": {
+        "name": "The Color Of Nature",
+        "url": "https://open.spotify.com/album/24p6noTStBR2AsQ8gbiuyP"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 118888,
+      "name": "Storm Green Noise",
+      "url": "https://open.spotify.com/track/72RmLKSNBwvVbW6uoVwtWv"
+    },
+    {
+      "album": {
+        "name": "Soothing Green Noise",
+        "url": "https://open.spotify.com/album/3OyqpUR1ODz1N3YXDJdmQv"
+      },
+      "artists": [
+        {
+          "name": "The Sound Farm",
+          "url": "https://open.spotify.com/artist/6lLSSLTRkcHuIjwSAXHFst"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 105513,
+      "name": "Stormy Day Green Noise",
+      "url": "https://open.spotify.com/track/5kkafHsIj18yOb5A2Gwhbp"
+    },
+    {
+      "album": {
+        "name": "Surrender To Green Noise",
+        "url": "https://open.spotify.com/album/2x7g5pb2b3tvX90m27G8tx"
+      },
+      "artists": [
+        {
+          "name": "Mood Factory",
+          "url": "https://open.spotify.com/artist/70PahNfWLqq5m8R8kJvg1o"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 112826,
+      "name": "Surrender To Green Noise",
+      "url": "https://open.spotify.com/track/7xQlvSrPuIKWhmrTROeJvU"
+    },
+    {
+      "album": {
+        "name": "Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/4MGL6PRUrSOFVDfAGxnmSy"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 130000,
+      "name": "Swaying Green Noise",
+      "url": "https://open.spotify.com/track/1MrfRcExCPHAGJ9fmizJk6"
+    },
+    {
+      "album": {
+        "name": "Rainforest Retreat: Experiencing the Green Noise of Nature's Canopy",
+        "url": "https://open.spotify.com/album/4iLNqLLvHuAfQPebzZAbXe"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Side",
+          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122803,
+      "name": "The Rustle of Leaves: Green Noise for Mindful Relaxation",
+      "url": "https://open.spotify.com/track/4wkMK1KHdLti7NoB5E7ric"
+    },
+    {
+      "album": {
+        "name": "Green Noise For Sleep",
+        "url": "https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK"
+      },
+      "artists": [
+        {
+          "name": "NC2 LABORATORIES",
+          "url": "https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "The Sleep (500 Hz LP, 100 Hz HP)",
+      "url": "https://open.spotify.com/track/2EZmdpnq1dViZ8FMmYUtyo"
+    },
+    {
+      "album": {
+        "name": "Epitome of Green Noise",
+        "url": "https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 164000,
+      "name": "Verdant (Green Noise)",
+      "url": "https://open.spotify.com/track/6gCwl7jJuZuAQTaf0mTLCb"
+    },
+    {
+      "album": {
+        "name": "Verdant Dreams (Green Noise)",
+        "url": "https://open.spotify.com/album/6d76Zt0Ut17WCn8ACFlALC"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Verdant Dreams - Green Noise",
+      "url": "https://open.spotify.com/track/4HZgcCetlTxxx4c9aEAY1A"
+    },
+    {
+      "album": {
+        "name": "Epitome of Green Noise",
+        "url": "https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Verdigris (Green Noise)",
+      "url": "https://open.spotify.com/track/3eDCjGdm8Wl2qyo52XzSNL"
+    },
+    {
+      "album": {
+        "name": "Sleppy Green",
+        "url": "https://open.spotify.com/album/1L6lOCw4V0fMrEPTWK4GTS"
+      },
+      "artists": [
+        {
+          "name": "Pink Noise Panther",
+          "url": "https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 87000,
+      "name": "Vert Noise",
+      "url": "https://open.spotify.com/track/1K1m4t4dMd14J3kehAq1CK"
+    },
+    {
+      "album": {
+        "name": "Epitome of Green Noise",
+        "url": "https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Viridity (Green Noise)",
+      "url": "https://open.spotify.com/track/652TBNxWCE4fdr3J2gZQcK"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves Crashing",
+        "url": "https://open.spotify.com/album/5lLLEPVDw61QgUyYsASTv4"
+      },
+      "artists": [
+        {
+          "name": "Sound Therapia",
+          "url": "https://open.spotify.com/artist/5uwNwJ0AIvPLTVndArC5Jl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 60891,
+      "name": "Vlny Oceanu",
+      "url": "https://open.spotify.com/track/4gdMUzYUA0bKIke8E0jUcX"
+    },
+    {
+      "album": {
+        "name": "Green Nights",
+        "url": "https://open.spotify.com/album/1XKfZ3mZ9hWr7kEyuskPVI"
+      },
+      "artists": [
+        {
+          "name": "Kali Sounds",
+          "url": "https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 96588,
+      "name": "Washing Greenery",
+      "url": "https://open.spotify.com/track/35O6IoruZcdzirez4j5cT1"
+    },
+    {
+      "album": {
+        "name": "Washing Noise",
+        "url": "https://open.spotify.com/album/3mf1uu8hYWMXjDlGNW9SNU"
+      },
+      "artists": [
+        {
+          "name": "Myrs",
+          "url": "https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 90593,
+      "name": "Washing Noise",
+      "url": "https://open.spotify.com/track/4ia89zEr3sWIKU23TTaWqL"
+    },
+    {
+      "album": {
+        "name": "Green Noise Natural Sounds",
+        "url": "https://open.spotify.com/album/6Kecrfs3qWcElAPROQ3C1M"
+      },
+      "artists": [
+        {
+          "name": "Imma Belten",
+          "url": "https://open.spotify.com/artist/7ACbSM2atJDaC0jzT0JyNc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123346,
+      "name": "Watefall Green Noise",
+      "url": "https://open.spotify.com/track/4fO7jue64AcjVU9dLCym9D"
+    },
+    {
+      "album": {
+        "name": "Green Harmony",
+        "url": "https://open.spotify.com/album/43H8m6IsGwcc9zHiXywu8C"
+      },
+      "artists": [
+        {
+          "name": "Rainer & Co",
+          "url": "https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142158,
+      "name": "Water Mirrors",
+      "url": "https://open.spotify.com/track/1bT3Al9bsQa9LGf51j5yVw"
+    },
+    {
+      "album": {
+        "name": "Green Noise Ambience",
+        "url": "https://open.spotify.com/album/4C190h0pKa73fARygNIjFN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 172000,
+      "name": "Waterfall Green Noise",
+      "url": "https://open.spotify.com/track/1rsxq3LyrtliUBAc51VIaI"
+    },
+    {
+      "album": {
+        "name": "Coastline Chorus",
+        "url": "https://open.spotify.com/album/2neOlMvrCBU5uGyTDNA9A7"
+      },
+      "artists": [
+        {
+          "name": "Surf & Turf",
+          "url": "https://open.spotify.com/artist/50629oufjz881d0uHfUC3n"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Waves Hitting Rocks",
+      "url": "https://open.spotify.com/track/5149jZeDqwWPrJ0jrW3SKI"
+    },
+    {
+      "album": {
+        "name": "Fusion Green Noise",
+        "url": "https://open.spotify.com/album/4xYwNvoe0Jaut4HOINPrYp"
+      },
+      "artists": [
+        {
+          "name": "Ruido Independiente",
+          "url": "https://open.spotify.com/artist/0GrN4tfVwmaaJ4FnWWNVpe"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 112198,
+      "name": "Waves of Energy",
+      "url": "https://open.spotify.com/track/1RSq9f6MQaPMNld0lB7seH"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo"
+      },
+      "artists": [
+        {
+          "name": "Haruna Fields",
+          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 94000,
+      "name": "Waves Of Green",
+      "url": "https://open.spotify.com/track/5MtM0JZlnc9XkGFarLmh04"
+    },
+    {
+      "album": {
+        "name": "Ru\u00eddo Da Ilha Verde",
+        "url": "https://open.spotify.com/album/4JBrV7w2FEYgzpGIwgfPNJ"
+      },
+      "artists": [
+        {
+          "name": "San Sebastiano",
+          "url": "https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Waves Of Green Noise",
+      "url": "https://open.spotify.com/track/0YxLvGBtnJAyWzhpgLk7PP"
+    },
+    {
+      "album": {
+        "name": "Ocean Of Green Noise",
+        "url": "https://open.spotify.com/album/245Bkog3hzu9uvoZyBUfDC"
+      },
+      "artists": [
+        {
+          "name": "Studio Sea",
+          "url": "https://open.spotify.com/artist/7kgPaIcut7uVFeUMFsRs58"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Waves With Green Noise",
+      "url": "https://open.spotify.com/track/7taOs0yq9518g9SWLXanv2"
+    },
+    {
+      "album": {
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 164000,
+      "name": "Whispering Leaves - Green Noise",
+      "url": "https://open.spotify.com/track/4WULsxIaEPj2gpIEONLmh4"
+    },
+    {
+      "album": {
+        "name": "The Colors of Noise: Audio Soundscapes for Sleep and Relaxation",
+        "url": "https://open.spotify.com/album/6KrbrW7gX8cntKAakbK5Ij"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 177000,
+      "name": "Wide Green Noise",
+      "url": "https://open.spotify.com/track/4aAotlqr28BKkUAtaUXxre"
+    },
+    {
+      "album": {
+        "name": "Ambient Green Noise",
+        "url": "https://open.spotify.com/album/0Ql7DZpQhomZch4cbEGMWz"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 144000,
+      "name": "Wide Stereo Dark Green Noise",
+      "url": "https://open.spotify.com/track/49rrqpIJRxckaki0jh603M"
+    },
+    {
+      "album": {
+        "name": "Willow Whispers (Green Noise)",
+        "url": "https://open.spotify.com/album/2NPrj910o3GxzQYF3zeRTQ"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 190000,
+      "name": "Willow Whispers - Green Noise",
+      "url": "https://open.spotify.com/track/7MEdVlzuF4kr6MI6dpPg4W"
+    },
+    {
+      "album": {
+        "name": "Green Noise Natural Sounds",
+        "url": "https://open.spotify.com/album/6Kecrfs3qWcElAPROQ3C1M"
+      },
+      "artists": [
+        {
+          "name": "Imma Belten",
+          "url": "https://open.spotify.com/artist/7ACbSM2atJDaC0jzT0JyNc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130033,
+      "name": "Wind & Water Green Noise",
+      "url": "https://open.spotify.com/track/7zcNN5RVo3lhbvSXGUeKHw"
+    },
+    {
+      "album": {
+        "name": "Green Noise Soundscapes",
+        "url": "https://open.spotify.com/album/4MGL6PRUrSOFVDfAGxnmSy"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 132000,
+      "name": "Windy Night Green Noise",
+      "url": "https://open.spotify.com/track/3tsKtJAeBH9lTEfMLNTd4u"
+    },
+    {
+      "album": {
+        "name": "Benefitial Green Noise",
+        "url": "https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a"
+      },
+      "artists": [
+        {
+          "name": "Audioable Noise",
+          "url": "https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 114430,
+      "name": "Windy Rain Green Noise",
+      "url": "https://open.spotify.com/track/4UGT9U7YsHyloUvynyjDG4"
+    },
+    {
+      "album": {
+        "name": "The Pure Sound of Green Noise",
+        "url": "https://open.spotify.com/album/5YqR7sqoYnFioZRCFHTh8R"
+      },
+      "artists": [
+        {
+          "name": "Tech Sleep",
+          "url": "https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 112201,
+      "name": "Windy Rainy Green Noise",
+      "url": "https://open.spotify.com/track/74cBRth54DlhjSLMbrtdpI"
+    },
+    {
+      "album": {
+        "name": "Green Color Noise",
+        "url": "https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Focuz",
+          "url": "https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 154554,
+      "name": "Windy Waves",
+      "url": "https://open.spotify.com/track/7DARDOK8wSQsdtDyWAZbEZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ8HCIPoGGKp"
 }

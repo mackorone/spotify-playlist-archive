@@ -1,145 +1,549 @@
 {
-  "2023-08-12": 16,
-  "2023-08-13": 71,
-  "2023-08-14": 116,
-  "2023-08-15": 303,
-  "2023-08-16": 303,
-  "2023-08-17": 411,
-  "2023-08-18": 519,
-  "2023-08-19": 640,
-  "2023-08-20": 756,
-  "2023-08-21": 887,
-  "2023-08-22": 991,
-  "2023-08-23": 1069,
-  "2023-08-24": 1135,
-  "2023-08-25": 1191,
-  "2023-08-26": 1258,
-  "2023-08-27": 1336,
-  "2023-08-28": 1447,
-  "2023-08-29": 1498,
-  "2023-08-30": 1529,
-  "2023-08-31": 1579,
-  "2023-09-01": 1659,
-  "2023-09-02": 1659,
-  "2023-09-03": 1705,
-  "2023-09-04": 1775,
-  "2023-09-05": 1814,
-  "2023-09-06": 1857,
-  "2023-09-07": 1903,
-  "2023-09-08": 1949,
-  "2023-09-09": 1981,
-  "2023-09-10": 2012,
-  "2023-09-11": 2071,
-  "2023-09-12": 2119,
-  "2023-09-13": 2152,
-  "2023-09-14": 2184,
-  "2023-09-15": 2207,
-  "2023-09-16": 2234,
-  "2023-09-17": 2276,
-  "2023-09-18": 2307,
-  "2023-09-19": 2332,
-  "2023-09-20": 2359,
-  "2023-09-21": 2379,
-  "2023-09-22": 2409,
-  "2023-09-23": 2439,
-  "2023-09-24": 2474,
-  "2023-09-25": 2498,
-  "2023-09-26": 2528,
-  "2023-09-27": 2544,
-  "2023-09-28": 2559,
-  "2023-09-29": 2577,
-  "2023-09-30": 2599,
-  "2023-10-01": 2635,
-  "2023-10-02": 2667,
-  "2023-10-03": 2699,
-  "2023-10-04": 2714,
-  "2023-10-05": 2741,
-  "2023-10-06": 2748,
-  "2023-10-07": 2759,
-  "2023-10-08": 2770,
-  "2023-10-09": 2784,
-  "2023-10-10": 2791,
-  "2023-10-11": 2803,
-  "2023-10-12": 2803,
-  "2023-10-13": 2810,
-  "2023-10-14": 2816,
-  "2023-10-15": 2823,
-  "2023-10-16": 2836,
-  "2023-10-17": 2842,
-  "2023-10-18": 2847,
-  "2023-10-19": 2854,
-  "2023-10-20": 2863,
-  "2023-10-21": 2868,
-  "2023-10-22": 2880,
-  "2023-10-23": 2888,
-  "2023-10-24": 2900,
-  "2023-10-25": 2909,
-  "2023-10-26": 2916,
-  "2023-10-27": 2930,
-  "2023-10-28": 2941,
-  "2023-10-29": 2948,
-  "2023-10-30": 2975,
-  "2023-10-31": 2975,
-  "2023-11-01": 2986,
-  "2023-11-02": 2989,
-  "2023-11-03": 2996,
-  "2023-11-04": 3009,
-  "2023-11-05": 3016,
-  "2023-11-06": 3020,
-  "2023-11-07": 3022,
-  "2023-11-08": 3030,
-  "2023-11-09": 3040,
-  "2023-11-10": 3043,
-  "2023-11-11": 3048,
-  "2023-11-12": 3054,
-  "2023-11-13": 3068,
-  "2023-11-14": 3071,
-  "2023-11-15": 3071,
-  "2023-11-16": 3093,
-  "2023-11-17": 3106,
-  "2023-11-18": 3106,
-  "2023-11-19": 3112,
-  "2023-11-20": 3121,
-  "2023-11-21": 3127,
-  "2023-11-22": 3126,
-  "2023-11-23": 3134,
-  "2023-11-24": 3139,
-  "2023-11-25": 3148,
-  "2023-11-26": 3161,
-  "2023-11-27": 3164,
-  "2023-11-28": 3171,
-  "2023-11-29": 3185,
-  "2023-11-30": 3185,
-  "2023-12-01": 3197,
-  "2023-12-02": 3201,
-  "2023-12-03": 3207,
-  "2023-12-04": 3215,
-  "2023-12-05": 3223,
-  "2023-12-06": 3235,
-  "2023-12-07": 3245,
-  "2023-12-08": 3255,
-  "2023-12-09": 3269,
-  "2023-12-10": 3276,
-  "2023-12-11": 3291,
-  "2023-12-12": 3305,
-  "2023-12-13": 3319,
-  "2023-12-14": 3330,
-  "2023-12-15": 3338,
-  "2023-12-16": 3342,
-  "2023-12-17": 3357,
-  "2023-12-18": 3371,
-  "2023-12-19": 3383,
-  "2023-12-20": 3396,
-  "2023-12-21": 3408,
-  "2023-12-22": 3417,
-  "2023-12-23": 3430,
-  "2023-12-24": 3438,
-  "2023-12-25": 3451,
-  "2023-12-26": 3459,
-  "2023-12-27": 3477,
-  "2023-12-30": 3507,
-  "2023-12-31": 3518,
-  "2024-01-01": 3534,
-  "2024-01-02": 3537,
-  "2024-01-03": 3547
+  "2024-01-17": 3704,
+  "date_first_scraped": "2023-08-12",
+  "description": "Defy the odds. Listen to music from and inspired by Heart of Stone, now streaming on Netflix. ",
+  "name": "Heart of Stone Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81920,
+      "name": "A Little Time To Think Things Over",
+      "url": "https://open.spotify.com/track/6n62ERQPOdzC1AcLRT2F61"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "A Winning Hand",
+      "url": "https://open.spotify.com/track/65vzUxOHO2RJobpdzbVT6q"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "All Under Control",
+      "url": "https://open.spotify.com/track/3bwMdkEJ5uqBtBGwZa5DE8"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Betting On Blood",
+      "url": "https://open.spotify.com/track/5MV9Lt8291uQswMxzMxxQX"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "Eat Tapas",
+      "url": "https://open.spotify.com/track/3S1fxSg81yzanCY2hKFp0y"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Either Us Or Them",
+      "url": "https://open.spotify.com/track/4sLzUSz9gjkIPNsksRcgZZ"
+    },
+    {
+      "album": {
+        "name": "KIDS (Bonus Edition)",
+        "url": "https://open.spotify.com/album/2q5LInjIt8EqR4QNGxH6hq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159985,
+      "name": "End of the Road",
+      "url": "https://open.spotify.com/track/7GF1fEMvKVtKQkRa6Sqh6S"
+    },
+    {
+      "album": {
+        "name": "Damn These Voices",
+        "url": "https://open.spotify.com/album/4qzPrl9XkuDpUjlJ4KILVr"
+      },
+      "artists": [
+        {
+          "name": "Nina Lee",
+          "url": "https://open.spotify.com/artist/3U12hH1pf72nEL57RNI4uY"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Go Baby Go",
+      "url": "https://open.spotify.com/track/4rD2SpgwtJ4k4eXrUwWUnK"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Guessing its Not The Nightlife",
+      "url": "https://open.spotify.com/track/6NPbAjDLzOrWP9xCMC0c75"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/3Qnpq7XQAnVttBNILDixHx"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131426,
+      "name": "I Don't Have A Parachute",
+      "url": "https://open.spotify.com/track/1kyRnRFN2J6UH9ncITcgR7"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105586,
+      "name": "I Hate Secrets",
+      "url": "https://open.spotify.com/track/35HhUGddta4rjcHFJQ5dH8"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "I Think You're Ready For The Field",
+      "url": "https://open.spotify.com/track/24GYoDzZSYsKOvPS4LdFSE"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "I Was So Pleased It Was You",
+      "url": "https://open.spotify.com/track/1RlBkmT99yIe7CcvvV1JRQ"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "If The Heart Wants To Find Us It Will",
+      "url": "https://open.spotify.com/track/71SNlR4jfYV33oUDbqSoDr"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Its Good To Hear From You",
+      "url": "https://open.spotify.com/track/4pLhgJk6us8IZOZ1RChPuK"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217253,
+      "name": "Look Who It Is",
+      "url": "https://open.spotify.com/track/6uHYzZDfCwvV5GE6xVxqMk"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277426,
+      "name": "Nine of Hearts",
+      "url": "https://open.spotify.com/track/631rV2bq8OGNC9FEFD25gM"
+    },
+    {
+      "album": {
+        "name": "Quiet [from the Netflix Film \u2018Heart of Stone\u2019]",
+        "url": "https://open.spotify.com/album/1XVaTJKPLDku4QGu0bZoXL"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189694,
+      "name": "Quiet [from the Netflix Film \u2018Heart of Stone\u2019]",
+      "url": "https://open.spotify.com/track/0ir6hnTJdwudrna8HJSHPN"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144320,
+      "name": "Secret Agent Our Way Back",
+      "url": "https://open.spotify.com/track/7sTzgVvlzZJpHun5bGcpRR"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/4hkJaMjBVITzChHbCpmR0h"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126480,
+      "name": "Settle Down Now",
+      "url": "https://open.spotify.com/track/3esaLjzqZ4tLF1JvrbtWJg"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "She Can Do This",
+      "url": "https://open.spotify.com/track/34FRxiiod8JnJ4tdiQhu0L"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Six Hostiles",
+      "url": "https://open.spotify.com/track/0HjVOSnWs7lTCz9AcHdPxi"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137880,
+      "name": "Stone Goes Home",
+      "url": "https://open.spotify.com/track/0xWd5gn7HBUJSjdxJHq7Se"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "The Heart and The Charter",
+      "url": "https://open.spotify.com/track/4Zt7PN3eIa1xS9JMyPRQEf"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Up And Running",
+      "url": "https://open.spotify.com/track/4ywptgsgh34s4JaT7e9Kdo"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306453,
+      "name": "Welcome Party",
+      "url": "https://open.spotify.com/track/7noemleBLPIyamvlXv3jus"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "When The Moment Comes",
+      "url": "https://open.spotify.com/track/2IWiq9ctdzJVI69BZlErNW"
+    },
+    {
+      "album": {
+        "name": "Heart of Stone (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/24zKcF2kwqTQjnjkSGQFB5"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Would You Look At That",
+      "url": "https://open.spotify.com/track/5W2faGSSQCJMSkwIwG6WRO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSWm72jNoKsV"
 }

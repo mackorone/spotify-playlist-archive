@@ -1,735 +1,1759 @@
 {
-  "2021-12-25": 167663,
-  "2021-12-26": 167666,
-  "2021-12-27": 167648,
-  "2021-12-28": 167648,
-  "2021-12-29": 167647,
-  "2021-12-30": 167641,
-  "2021-12-31": 167636,
-  "2022-01-01": 167649,
-  "2022-01-02": 167645,
-  "2022-01-03": 167638,
-  "2022-01-04": 167639,
-  "2022-01-05": 167641,
-  "2022-01-06": 167639,
-  "2022-01-07": 167639,
-  "2022-01-08": 167640,
-  "2022-01-09": 167639,
-  "2022-01-10": 167641,
-  "2022-01-11": 167637,
-  "2022-01-12": 167637,
-  "2022-01-13": 167643,
-  "2022-01-14": 167635,
-  "2022-01-15": 167637,
-  "2022-01-16": 167637,
-  "2022-01-17": 167644,
-  "2022-01-18": 167647,
-  "2022-01-19": 167647,
-  "2022-01-20": 167650,
-  "2022-01-21": 167643,
-  "2022-01-22": 167644,
-  "2022-01-23": 167640,
-  "2022-01-24": 167637,
-  "2022-01-25": 167635,
-  "2022-01-26": 167624,
-  "2022-01-27": 167621,
-  "2022-01-28": 167622,
-  "2022-01-29": 167623,
-  "2022-01-30": 167623,
-  "2022-01-31": 167618,
-  "2022-02-01": 167617,
-  "2022-02-02": 167607,
-  "2022-02-03": 167609,
-  "2022-02-04": 167612,
-  "2022-02-05": 167614,
-  "2022-02-06": 167615,
-  "2022-02-07": 167618,
-  "2022-02-08": 167620,
-  "2022-02-09": 167623,
-  "2022-02-10": 167624,
-  "2022-02-11": 167624,
-  "2022-02-12": 167626,
-  "2022-02-13": 167626,
-  "2022-02-14": 167620,
-  "2022-02-15": 167614,
-  "2022-02-16": 167605,
-  "2022-02-17": 167603,
-  "2022-02-18": 167602,
-  "2022-02-19": 167599,
-  "2022-02-20": 167591,
-  "2022-02-21": 167587,
-  "2022-02-22": 167580,
-  "2022-02-23": 167582,
-  "2022-02-24": 167578,
-  "2022-02-25": 167580,
-  "2022-02-26": 167568,
-  "2022-02-27": 167570,
-  "2022-02-28": 167570,
-  "2022-03-01": 167572,
-  "2022-03-02": 167571,
-  "2022-03-03": 167567,
-  "2022-03-04": 167560,
-  "2022-03-05": 167557,
-  "2022-03-06": 167557,
-  "2022-03-07": 167556,
-  "2022-03-08": 167565,
-  "2022-03-09": 167559,
-  "2022-03-10": 167560,
-  "2022-03-11": 167562,
-  "2022-03-12": 167565,
-  "2022-03-13": 167568,
-  "2022-03-14": 167577,
-  "2022-03-15": 167572,
-  "2022-03-16": 167579,
-  "2022-03-17": 167582,
-  "2022-03-18": 167579,
-  "2022-03-19": 167586,
-  "2022-03-20": 167586,
-  "2022-03-21": 167588,
-  "2022-03-22": 167585,
-  "2022-03-23": 167579,
-  "2022-03-24": 167577,
-  "2022-03-25": 167576,
-  "2022-03-26": 167580,
-  "2022-03-27": 167585,
-  "2022-03-28": 167590,
-  "2022-03-30": 167584,
-  "2022-03-31": 167583,
-  "2022-04-01": 167583,
-  "2022-04-02": 167585,
-  "2022-04-03": 167590,
-  "2022-04-04": 167585,
-  "2022-04-05": 167577,
-  "2022-04-06": 167584,
-  "2022-04-07": 167588,
-  "2022-04-08": 167592,
-  "2022-04-09": 167591,
-  "2022-04-10": 167593,
-  "2022-04-11": 167590,
-  "2022-04-12": 167590,
-  "2022-04-13": 167593,
-  "2022-04-14": 167596,
-  "2022-04-15": 167595,
-  "2022-04-16": 167598,
-  "2022-04-17": 167600,
-  "2022-04-18": 167604,
-  "2022-04-19": 167605,
-  "2022-04-20": 167605,
-  "2022-04-21": 167609,
-  "2022-04-22": 167610,
-  "2022-04-23": 167620,
-  "2022-04-24": 167614,
-  "2022-04-25": 167621,
-  "2022-04-26": 167623,
-  "2022-04-27": 167630,
-  "2022-04-28": 167632,
-  "2022-04-29": 167626,
-  "2022-04-30": 167630,
-  "2022-05-01": 167626,
-  "2022-05-02": 167626,
-  "2022-05-03": 167622,
-  "2022-05-04": 167629,
-  "2022-05-05": 167628,
-  "2022-05-06": 167632,
-  "2022-05-07": 167639,
-  "2022-05-08": 167640,
-  "2022-05-09": 167638,
-  "2022-05-10": 167642,
-  "2022-05-11": 167651,
-  "2022-05-12": 167643,
-  "2022-05-13": 167648,
-  "2022-05-14": 167651,
-  "2022-05-15": 167653,
-  "2022-05-16": 167653,
-  "2022-05-17": 167652,
-  "2022-05-18": 167657,
-  "2022-05-19": 167660,
-  "2022-05-20": 167660,
-  "2022-05-21": 167659,
-  "2022-05-22": 167659,
-  "2022-05-23": 167659,
-  "2022-05-24": 167663,
-  "2022-05-25": 167669,
-  "2022-05-26": 167664,
-  "2022-05-27": 167664,
-  "2022-05-28": 167665,
-  "2022-05-29": 167666,
-  "2022-05-30": 167666,
-  "2022-05-31": 167676,
-  "2022-06-01": 167673,
-  "2022-06-02": 167675,
-  "2022-06-03": 167685,
-  "2022-06-04": 167692,
-  "2022-06-05": 167693,
-  "2022-06-06": 167693,
-  "2022-06-07": 167693,
-  "2022-06-08": 167696,
-  "2022-06-09": 167699,
-  "2022-06-10": 167697,
-  "2022-06-11": 167706,
-  "2022-06-12": 167711,
-  "2022-06-13": 167707,
-  "2022-06-14": 167711,
-  "2022-06-15": 167713,
-  "2022-06-16": 167715,
-  "2022-06-17": 167711,
-  "2022-06-18": 167715,
-  "2022-06-19": 167712,
-  "2022-06-20": 167712,
-  "2022-06-21": 167711,
-  "2022-06-22": 167728,
-  "2022-06-23": 167728,
-  "2022-06-24": 167730,
-  "2022-06-25": 167737,
-  "2022-06-26": 167740,
-  "2022-06-27": 167741,
-  "2022-06-28": 167749,
-  "2022-06-29": 167748,
-  "2022-06-30": 167760,
-  "2022-07-01": 167756,
-  "2022-07-02": 167754,
-  "2022-07-03": 167761,
-  "2022-07-04": 167769,
-  "2022-07-05": 167773,
-  "2022-07-06": 167772,
-  "2022-07-07": 167770,
-  "2022-07-08": 167769,
-  "2022-07-09": 167777,
-  "2022-07-10": 167784,
-  "2022-07-11": 167786,
-  "2022-07-12": 167792,
-  "2022-07-13": 167795,
-  "2022-07-14": 167799,
-  "2022-07-15": 167804,
-  "2022-07-16": 167811,
-  "2022-07-17": 167809,
-  "2022-07-18": 167809,
-  "2022-07-19": 167807,
-  "2022-07-20": 167806,
-  "2022-07-21": 167807,
-  "2022-07-22": 167806,
-  "2022-07-23": 167807,
-  "2022-07-24": 167811,
-  "2022-07-25": 167810,
-  "2022-07-26": 167809,
-  "2022-07-27": 167809,
-  "2022-07-28": 167809,
-  "2022-07-29": 167809,
-  "2022-07-30": 167809,
-  "2022-07-31": 167809,
-  "2022-08-01": 167809,
-  "2022-08-02": 167809,
-  "2022-08-03": 167809,
-  "2022-08-04": 167809,
-  "2022-08-05": 167809,
-  "2022-08-06": 167809,
-  "2022-08-07": 167809,
-  "2022-08-08": 167809,
-  "2022-08-09": 167809,
-  "2022-08-10": 167809,
-  "2022-08-11": 167809,
-  "2022-08-12": 167809,
-  "2022-08-13": 167809,
-  "2022-08-14": 167809,
-  "2022-08-15": 167809,
-  "2022-08-16": 167809,
-  "2022-08-17": 167809,
-  "2022-08-18": 167809,
-  "2022-08-19": 167809,
-  "2022-08-20": 167809,
-  "2022-08-21": 167809,
-  "2022-08-22": 167809,
-  "2022-08-23": 167809,
-  "2022-08-24": 167809,
-  "2022-08-25": 167809,
-  "2022-08-26": 167809,
-  "2022-08-27": 167809,
-  "2022-08-28": 167809,
-  "2022-08-29": 167809,
-  "2022-08-30": 167809,
-  "2022-08-31": 167809,
-  "2022-09-01": 167809,
-  "2022-09-02": 167809,
-  "2022-09-03": 167809,
-  "2022-09-04": 167809,
-  "2022-09-05": 167809,
-  "2022-09-06": 167809,
-  "2022-09-07": 167809,
-  "2022-09-09": 167809,
-  "2022-09-10": 167809,
-  "2022-09-11": 167809,
-  "2022-09-12": 167809,
-  "2022-09-13": 167809,
-  "2022-09-15": 167809,
-  "2022-09-16": 167809,
-  "2022-09-17": 167809,
-  "2022-09-18": 167809,
-  "2022-09-19": 167809,
-  "2022-09-20": 167809,
-  "2022-09-21": 167809,
-  "2022-09-22": 167809,
-  "2022-09-23": 167809,
-  "2022-09-24": 167809,
-  "2022-09-25": 167809,
-  "2022-09-26": 167809,
-  "2022-09-27": 167809,
-  "2022-09-28": 167809,
-  "2022-09-29": 167809,
-  "2022-09-30": 167809,
-  "2022-10-01": 167809,
-  "2022-10-02": 167809,
-  "2022-10-03": 167809,
-  "2022-10-04": 167809,
-  "2022-10-05": 167809,
-  "2022-10-06": 167809,
-  "2022-10-07": 167809,
-  "2022-10-08": 167809,
-  "2022-10-09": 167809,
-  "2022-10-10": 167809,
-  "2022-10-11": 167809,
-  "2022-10-12": 167809,
-  "2022-10-13": 167809,
-  "2022-10-14": 167809,
-  "2022-10-15": 167809,
-  "2022-10-16": 167809,
-  "2022-10-17": 167809,
-  "2022-10-18": 167809,
-  "2022-10-19": 167809,
-  "2022-10-20": 167809,
-  "2022-10-21": 167809,
-  "2022-10-22": 167809,
-  "2022-10-23": 167809,
-  "2022-10-24": 167809,
-  "2022-10-25": 167809,
-  "2022-10-26": 167809,
-  "2022-10-27": 167809,
-  "2022-10-28": 167809,
-  "2022-10-29": 167809,
-  "2022-10-30": 167809,
-  "2022-10-31": 167809,
-  "2022-11-01": 167809,
-  "2022-11-02": 167809,
-  "2022-11-03": 167809,
-  "2022-11-04": 167809,
-  "2022-11-05": 167809,
-  "2022-11-06": 167809,
-  "2022-11-07": 167809,
-  "2022-11-08": 167809,
-  "2022-11-09": 167809,
-  "2022-11-10": 167809,
-  "2022-11-11": 167809,
-  "2022-11-12": 167809,
-  "2022-11-13": 167809,
-  "2022-11-14": 167809,
-  "2022-11-15": 167809,
-  "2022-11-16": 167809,
-  "2022-11-17": 167809,
-  "2022-11-18": 167809,
-  "2022-11-19": 167809,
-  "2022-11-20": 167809,
-  "2022-11-21": 167809,
-  "2022-11-22": 167809,
-  "2022-11-23": 167809,
-  "2022-11-24": 167809,
-  "2022-11-25": 167809,
-  "2022-11-26": 167809,
-  "2022-11-27": 167809,
-  "2022-11-28": 167809,
-  "2022-11-29": 167809,
-  "2022-11-30": 167809,
-  "2022-12-01": 167809,
-  "2022-12-02": 167809,
-  "2022-12-03": 167809,
-  "2022-12-04": 167809,
-  "2022-12-05": 167809,
-  "2022-12-06": 167809,
-  "2022-12-07": 167809,
-  "2022-12-08": 167809,
-  "2022-12-09": 167809,
-  "2022-12-10": 167809,
-  "2022-12-11": 167809,
-  "2022-12-12": 167809,
-  "2022-12-13": 167809,
-  "2022-12-14": 167809,
-  "2022-12-15": 167809,
-  "2022-12-16": 167809,
-  "2022-12-17": 167809,
-  "2022-12-18": 167809,
-  "2022-12-19": 167809,
-  "2022-12-20": 167809,
-  "2022-12-21": 167809,
-  "2022-12-22": 167809,
-  "2022-12-24": 167809,
-  "2022-12-25": 167809,
-  "2022-12-26": 167809,
-  "2022-12-27": 167809,
-  "2022-12-28": 167809,
-  "2022-12-29": 167809,
-  "2022-12-30": 167809,
-  "2022-12-31": 167809,
-  "2023-01-01": 167809,
-  "2023-01-02": 167809,
-  "2023-01-03": 167809,
-  "2023-01-04": 167809,
-  "2023-01-05": 167809,
-  "2023-01-06": 167809,
-  "2023-01-07": 167809,
-  "2023-01-08": 167809,
-  "2023-01-09": 167809,
-  "2023-01-10": 167809,
-  "2023-01-11": 167809,
-  "2023-01-12": 167809,
-  "2023-01-13": 167809,
-  "2023-01-14": 167809,
-  "2023-01-15": 167809,
-  "2023-01-16": 167809,
-  "2023-01-17": 167809,
-  "2023-01-18": 167809,
-  "2023-01-19": 167809,
-  "2023-01-20": 167809,
-  "2023-01-21": 167809,
-  "2023-01-22": 167809,
-  "2023-01-23": 167809,
-  "2023-01-24": 167809,
-  "2023-01-25": 167809,
-  "2023-01-26": 167809,
-  "2023-01-27": 167809,
-  "2023-01-28": 167809,
-  "2023-01-29": 167809,
-  "2023-01-30": 167809,
-  "2023-01-31": 167809,
-  "2023-02-01": 167809,
-  "2023-02-02": 167809,
-  "2023-02-03": 167809,
-  "2023-02-04": 167809,
-  "2023-02-05": 167809,
-  "2023-02-06": 167809,
-  "2023-02-07": 167809,
-  "2023-02-08": 167809,
-  "2023-02-09": 167809,
-  "2023-02-10": 167809,
-  "2023-02-11": 167809,
-  "2023-02-12": 167809,
-  "2023-02-13": 167809,
-  "2023-02-14": 167809,
-  "2023-02-15": 167809,
-  "2023-02-16": 167809,
-  "2023-02-17": 167809,
-  "2023-02-18": 167809,
-  "2023-02-19": 167809,
-  "2023-02-20": 167809,
-  "2023-02-21": 167809,
-  "2023-02-22": 167809,
-  "2023-02-23": 167809,
-  "2023-02-24": 167809,
-  "2023-02-25": 167809,
-  "2023-02-26": 167809,
-  "2023-02-27": 167809,
-  "2023-02-28": 167809,
-  "2023-03-01": 167809,
-  "2023-03-02": 167809,
-  "2023-03-03": 167809,
-  "2023-03-04": 167809,
-  "2023-03-05": 167809,
-  "2023-03-06": 167809,
-  "2023-03-07": 167809,
-  "2023-03-08": 167809,
-  "2023-03-09": 167809,
-  "2023-03-10": 167809,
-  "2023-03-11": 167809,
-  "2023-03-12": 167809,
-  "2023-03-13": 167809,
-  "2023-03-14": 167809,
-  "2023-03-15": 167809,
-  "2023-03-16": 167809,
-  "2023-03-17": 167809,
-  "2023-03-18": 167809,
-  "2023-03-19": 167809,
-  "2023-03-20": 167809,
-  "2023-03-21": 167809,
-  "2023-03-22": 167809,
-  "2023-03-23": 167809,
-  "2023-03-24": 167809,
-  "2023-03-25": 167809,
-  "2023-03-26": 167809,
-  "2023-03-27": 167809,
-  "2023-03-28": 167809,
-  "2023-03-29": 167809,
-  "2023-03-30": 167809,
-  "2023-03-31": 167809,
-  "2023-04-01": 167809,
-  "2023-04-02": 167809,
-  "2023-04-03": 167809,
-  "2023-04-04": 167809,
-  "2023-04-05": 167809,
-  "2023-04-06": 167809,
-  "2023-04-07": 167809,
-  "2023-04-09": 167809,
-  "2023-04-10": 167809,
-  "2023-04-11": 167809,
-  "2023-04-12": 167809,
-  "2023-04-13": 167809,
-  "2023-04-14": 167809,
-  "2023-04-15": 167809,
-  "2023-04-16": 167809,
-  "2023-04-17": 167809,
-  "2023-04-18": 167809,
-  "2023-04-19": 167809,
-  "2023-04-20": 167809,
-  "2023-04-21": 167809,
-  "2023-04-22": 167809,
-  "2023-04-23": 167809,
-  "2023-04-24": 167809,
-  "2023-04-25": 167809,
-  "2023-04-26": 167809,
-  "2023-04-27": 167809,
-  "2023-04-28": 167809,
-  "2023-04-29": 167809,
-  "2023-04-30": 167809,
-  "2023-05-01": 167809,
-  "2023-05-02": 167809,
-  "2023-05-03": 167809,
-  "2023-05-04": 167809,
-  "2023-05-05": 167809,
-  "2023-05-06": 167809,
-  "2023-05-07": 167809,
-  "2023-05-08": 167809,
-  "2023-05-09": 167809,
-  "2023-05-10": 167809,
-  "2023-05-11": 167809,
-  "2023-05-12": 167809,
-  "2023-05-13": 167809,
-  "2023-05-14": 167809,
-  "2023-05-15": 167809,
-  "2023-05-16": 167809,
-  "2023-05-17": 167809,
-  "2023-05-18": 167809,
-  "2023-05-19": 167809,
-  "2023-05-20": 167809,
-  "2023-05-21": 167809,
-  "2023-05-22": 167809,
-  "2023-05-23": 167809,
-  "2023-05-24": 167809,
-  "2023-05-25": 167809,
-  "2023-05-26": 167809,
-  "2023-05-27": 167809,
-  "2023-05-28": 167809,
-  "2023-05-29": 167809,
-  "2023-05-30": 167809,
-  "2023-05-31": 167809,
-  "2023-06-01": 167809,
-  "2023-06-02": 167809,
-  "2023-06-03": 167809,
-  "2023-06-04": 167809,
-  "2023-06-05": 167809,
-  "2023-06-06": 167809,
-  "2023-06-07": 167809,
-  "2023-06-08": 167809,
-  "2023-06-09": 167809,
-  "2023-06-10": 167809,
-  "2023-06-11": 167809,
-  "2023-06-12": 167809,
-  "2023-06-13": 167809,
-  "2023-06-14": 167809,
-  "2023-06-15": 167809,
-  "2023-06-16": 167809,
-  "2023-06-17": 167809,
-  "2023-06-18": 167809,
-  "2023-06-19": 167809,
-  "2023-06-20": 167809,
-  "2023-06-21": 167809,
-  "2023-06-22": 167809,
-  "2023-06-23": 167809,
-  "2023-06-24": 167809,
-  "2023-06-25": 167809,
-  "2023-06-26": 167809,
-  "2023-06-27": 167809,
-  "2023-06-28": 167809,
-  "2023-06-29": 167809,
-  "2023-06-30": 167809,
-  "2023-07-01": 167809,
-  "2023-07-02": 167809,
-  "2023-07-03": 167809,
-  "2023-07-04": 167809,
-  "2023-07-05": 167809,
-  "2023-07-06": 167809,
-  "2023-07-07": 167809,
-  "2023-07-08": 167809,
-  "2023-07-09": 167809,
-  "2023-07-10": 167809,
-  "2023-07-11": 167809,
-  "2023-07-12": 167809,
-  "2023-07-13": 167809,
-  "2023-07-14": 167809,
-  "2023-07-15": 167809,
-  "2023-07-16": 167809,
-  "2023-07-17": 167809,
-  "2023-07-18": 167809,
-  "2023-07-19": 167809,
-  "2023-07-20": 167809,
-  "2023-07-21": 167809,
-  "2023-07-22": 167809,
-  "2023-07-23": 167809,
-  "2023-07-24": 167809,
-  "2023-07-25": 167809,
-  "2023-07-26": 167809,
-  "2023-07-27": 167809,
-  "2023-07-28": 167809,
-  "2023-07-29": 167809,
-  "2023-07-30": 167809,
-  "2023-07-31": 167809,
-  "2023-08-01": 167809,
-  "2023-08-02": 167809,
-  "2023-08-03": 167809,
-  "2023-08-04": 167809,
-  "2023-08-05": 167809,
-  "2023-08-06": 167809,
-  "2023-08-07": 167809,
-  "2023-08-08": 167809,
-  "2023-08-09": 167809,
-  "2023-08-10": 167809,
-  "2023-08-11": 167809,
-  "2023-08-12": 167809,
-  "2023-08-13": 167809,
-  "2023-08-14": 167809,
-  "2023-08-15": 167809,
-  "2023-08-16": 167809,
-  "2023-08-17": 167809,
-  "2023-08-18": 167809,
-  "2023-08-19": 167809,
-  "2023-08-20": 167809,
-  "2023-08-21": 167809,
-  "2023-08-22": 167809,
-  "2023-08-23": 167809,
-  "2023-08-24": 167809,
-  "2023-08-25": 167809,
-  "2023-08-26": 167809,
-  "2023-08-27": 167809,
-  "2023-08-28": 167809,
-  "2023-08-29": 167809,
-  "2023-08-30": 167809,
-  "2023-08-31": 167809,
-  "2023-09-01": 167809,
-  "2023-09-02": 167809,
-  "2023-09-03": 167809,
-  "2023-09-04": 167809,
-  "2023-09-05": 167809,
-  "2023-09-06": 167809,
-  "2023-09-07": 167809,
-  "2023-09-08": 167809,
-  "2023-09-09": 167809,
-  "2023-09-10": 167809,
-  "2023-09-11": 167809,
-  "2023-09-12": 167809,
-  "2023-09-13": 167809,
-  "2023-09-14": 167809,
-  "2023-09-15": 167809,
-  "2023-09-16": 167809,
-  "2023-09-17": 167809,
-  "2023-09-18": 167809,
-  "2023-09-19": 167809,
-  "2023-09-20": 167809,
-  "2023-09-21": 167809,
-  "2023-09-22": 167809,
-  "2023-09-23": 167809,
-  "2023-09-24": 167809,
-  "2023-09-25": 167809,
-  "2023-09-26": 167809,
-  "2023-09-27": 167809,
-  "2023-09-28": 167809,
-  "2023-09-29": 167809,
-  "2023-09-30": 167809,
-  "2023-10-01": 167809,
-  "2023-10-02": 167809,
-  "2023-10-03": 167809,
-  "2023-10-04": 167809,
-  "2023-10-05": 167809,
-  "2023-10-06": 167809,
-  "2023-10-07": 167809,
-  "2023-10-08": 167809,
-  "2023-10-09": 167809,
-  "2023-10-10": 167809,
-  "2023-10-11": 167809,
-  "2023-10-12": 167809,
-  "2023-10-13": 167809,
-  "2023-10-14": 167809,
-  "2023-10-15": 167809,
-  "2023-10-16": 167809,
-  "2023-10-17": 167809,
-  "2023-10-18": 167809,
-  "2023-10-19": 167809,
-  "2023-10-20": 167809,
-  "2023-10-21": 167809,
-  "2023-10-22": 167809,
-  "2023-10-23": 167809,
-  "2023-10-24": 167809,
-  "2023-10-25": 167809,
-  "2023-10-26": 167809,
-  "2023-10-27": 167809,
-  "2023-10-28": 167809,
-  "2023-10-29": 167809,
-  "2023-10-30": 167809,
-  "2023-10-31": 167809,
-  "2023-11-01": 167809,
-  "2023-11-02": 167809,
-  "2023-11-03": 167809,
-  "2023-11-04": 167809,
-  "2023-11-05": 167809,
-  "2023-11-06": 167809,
-  "2023-11-07": 167809,
-  "2023-11-08": 167809,
-  "2023-11-09": 167809,
-  "2023-11-10": 167809,
-  "2023-11-11": 167809,
-  "2023-11-12": 167809,
-  "2023-11-13": 167809,
-  "2023-11-14": 167809,
-  "2023-11-15": 167809,
-  "2023-11-16": 167809,
-  "2023-11-17": 167809,
-  "2023-11-18": 167809,
-  "2023-11-19": 167809,
-  "2023-11-20": 167809,
-  "2023-11-21": 167809,
-  "2023-11-22": 167809,
-  "2023-11-23": 167809,
-  "2023-11-24": 167809,
-  "2023-11-25": 167809,
-  "2023-11-26": 167809,
-  "2023-11-27": 167809,
-  "2023-11-28": 167809,
-  "2023-11-29": 167809,
-  "2023-11-30": 167809,
-  "2023-12-01": 167809,
-  "2023-12-02": 167809,
-  "2023-12-03": 167809,
-  "2023-12-04": 167809,
-  "2023-12-05": 167809,
-  "2023-12-06": 167809,
-  "2023-12-07": 167809,
-  "2023-12-08": 167809,
-  "2023-12-09": 167809,
-  "2023-12-10": 167809,
-  "2023-12-11": 167809,
-  "2023-12-12": 167809,
-  "2023-12-13": 167809,
-  "2023-12-14": 167809,
-  "2023-12-15": 167809,
-  "2023-12-16": 167809,
-  "2023-12-17": 167809,
-  "2023-12-18": 167809,
-  "2023-12-19": 167809,
-  "2023-12-20": 167809,
-  "2023-12-21": 167809,
-  "2023-12-22": 167809,
-  "2023-12-23": 167809,
-  "2023-12-24": 167809,
-  "2023-12-25": 167809,
-  "2023-12-26": 167809,
-  "2023-12-27": 167809,
-  "2023-12-30": 167809,
-  "2023-12-31": 167809,
-  "2024-01-01": 167809,
-  "2024-01-02": 167809,
-  "2024-01-03": 167809
+  "2024-01-17": 167809,
+  "date_first_scraped": "2021-12-21",
+  "description": "Classic rock combined a guitar-driven sound with a particular era. This playlist delivers classic rock tracks for the entire workday.",
+  "name": "Workday: Rock Classics",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/24atu8BmjlxBrHAS8aWQS1"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "(Don't Fear) The Reaper - Single Version",
+      "url": "https://open.spotify.com/track/6fZO4Uk2yM4MwrY13n2zBI"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones Singles Collection: The London Years (Remastered)",
+        "url": "https://open.spotify.com/album/1YYEC5hLwDbQPtErSBD223"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",
+      "url": "https://open.spotify.com/track/57J2znxukXsXzS3XPuZ1TG"
+    },
+    {
+      "album": {
+        "name": "The Best Of Motorhead: All The Aces/ The Muggers Tapes",
+        "url": "https://open.spotify.com/album/2RF8wMQYGk14b8PeiInqSp"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "Ace Of Spades",
+      "url": "https://open.spotify.com/track/3RkS5epxKd1SFlDdLuKJMJ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/2BdSaGVMxZzEeJYjjrlo6n"
+    },
+    {
+      "album": {
+        "name": "A Collection Of Great Dance Songs",
+        "url": "https://open.spotify.com/album/15Tc3f1XzDKLodDXDELISe"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Another Brick In The Wall - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/7pmNNEJcBcODkrPHEIf7Cy"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
+        "name": "The Essential Heart",
+        "url": "https://open.spotify.com/album/1La86JTftH0TB87NPxrzFX"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4f2QcB0RYGz70dXGjvpR0w"
+    },
+    {
+      "album": {
+        "name": "70s 100 Hits",
+        "url": "https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg"
+      },
+      "artists": [
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237280,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/6fXseQ4TPa02SRGDf7Hm2p"
+    },
+    {
+      "album": {
+        "name": "Telephantasm",
+        "url": "https://open.spotify.com/album/3dCw2ZuqxrownGc7jHu034"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317693,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/5BHfKRD3LTxFz1tX8AH0DN"
+    },
+    {
+      "album": {
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY"
+    },
+    {
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
+    },
+    {
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2avaSeKHI5l4sLruVfLdi2"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329733,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+    },
+    {
+      "album": {
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/6YP72TaEOl8sG1TGFicJrA"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361226,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0N0q5D8KmH13mmODXJsJqS"
+    },
+    {
+      "album": {
+        "name": "The Essential Kansas",
+        "url": "https://open.spotify.com/album/5LNcEWLS2ysZU9Eid63qRJ"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322093,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
+    },
+    {
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4saAsJgmmKqFWTzaTdiYzC"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Cats In The Cradle",
+      "url": "https://open.spotify.com/track/1i8TVeZA6ZiSyrdLKQ4DEd"
+    },
+    {
+      "album": {
+        "name": "Classic Eric Clapton",
+        "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/6hDegaGv8VwBoMhGqoPfxR"
+    },
+    {
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "album": {
+        "name": "Memoirs of a Madman",
+        "url": "https://open.spotify.com/album/5k1h73bDwVffYMNx4yj22s"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/5kUdKwPCyamXAKGgF1WnCk"
+    },
+    {
+      "album": {
+        "name": "Young Lust: The Aerosmith Anthology",
+        "url": "https://open.spotify.com/album/5DS04MgiAZ1dI2jWUpDuGd"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308266,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/6XIQe8CyDYFHN0iCjfRIuj"
+    },
+    {
+      "album": {
+        "name": "Greatest Kiss",
+        "url": "https://open.spotify.com/album/69VIN1YAlKMb5JaOesGUKJ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/0yd0NF2DaG04KLqJT5LLV2"
+    },
+    {
+      "album": {
+        "name": "All Over The World: The Very Best Of ELO",
+        "url": "https://open.spotify.com/album/5N6jHY6IigIUWiF5cE8FQY"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243573,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/3eOFG0vqpsMqhGHTQJmjQi"
+    },
+    {
+      "album": {
+        "name": "Journey's Greatest Hits",
+        "url": "https://open.spotify.com/album/4RggYxkf40auRlIEyjBiXo"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/3oAV5Aa8zx9buAu15zHNlq"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/3cwDSDzTiWr5H5xMQhQ6Mx"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331573,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered)",
+        "url": "https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253250,
+      "name": "Every Breath You Take - Remastered 2003",
+      "url": "https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk"
+    },
+    {
+      "album": {
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260173,
+      "name": "Every Rose Has Its Thorn - Remastered 2003",
+      "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
+    },
+    {
+      "album": {
+        "name": "Ed Hunter",
+        "url": "https://open.spotify.com/album/0axV6lvqshTCcGxT2AYiIK"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436960,
+      "name": "Fear Of The Dark - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/6q9CRTF8dyABIcKj7bCJwf"
+    },
+    {
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
+    },
+    {
+      "album": {
+        "name": "Ballbreaker",
+        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Hard as a Rock",
+      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "album": {
+        "name": "Animalize (Remastered Version)",
+        "url": "https://open.spotify.com/album/1Fu0k9ymkJhWfTeO0rq2Bh"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Heaven's On Fire",
+      "url": "https://open.spotify.com/track/12A0IAyIegPcMStxpk47YM"
+    },
+    {
+      "album": {
+        "name": "Whitesnake's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235546,
+      "name": "Hold the Line",
+      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "album": {
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340640,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/54yLLvpezvPO1lA3GspiZj"
+    },
+    {
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
+    },
+    {
+      "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+    },
+    {
+      "album": {
+        "name": "Hysteria 2013 (Re-Recorded Version) - Single",
+        "url": "https://open.spotify.com/album/0MUiB479l1Bmb074bSGevp"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352377,
+      "name": "Hysteria 2013 (Re-Recorded Version) - Single",
+      "url": "https://open.spotify.com/track/4xrlTtOEd3OHvQT8eu5JYY"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355303,
+      "name": "Iron Man - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275760,
+      "name": "Is This Love - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/3k58VAgUkM9cSvRpjIVaC7"
+    },
+    {
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "album": {
+        "name": "The Better Life - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6P77jds0hG6gVzUuIQVj7E"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/3bbUkaQYGQHkx1TJi7gPSL"
+    },
+    {
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
+    },
+    {
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260440,
+      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster",
+      "url": "https://open.spotify.com/track/6YEOmCsXSk9ZPE0FkcCiuQ"
+    },
+    {
+      "album": {
+        "name": "Get A Grip (Reissue - Remaster)",
+        "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380853,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/0O712LGGTk8e0CFMdUPSB5"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Living After Midnight",
+      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "album": {
+        "name": "70s Classic Rock",
+        "url": "https://open.spotify.com/album/4LMCyx911631WjwnTs1DDN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261906,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/1PqETpgGlfWvkWRF4ypD9w"
+    },
+    {
+      "album": {
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284426,
+      "name": "Man in the Box",
+      "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"
+    },
+    {
+      "album": {
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/3a0UOgDWw2pTajw85QPMiz"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382834,
+      "name": "Money - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/3aoDEt6zSuYQ47gzarlaVo"
+    },
+    {
+      "album": {
+        "name": "The Best of Dire Straits & Mark Knopfler - Private Investigations (Limited Edition)",
+        "url": "https://open.spotify.com/album/0eB4vHv83yYk1pMim2NIar"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504200,
+      "name": "Money For Nothing",
+      "url": "https://open.spotify.com/track/6bOTe8T116DNpwp2H6Hxgh"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258973,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
+    },
+    {
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537506,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/53968oKecrFxkErocab2Al"
+    },
+    {
+      "album": {
+        "name": "90125",
+        "url": "https://open.spotify.com/album/6LgHvqzjJXtwpy66MAOKNs"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266266,
+      "name": "Owner Of A Lonely Heart",
+      "url": "https://open.spotify.com/track/0eaZbB3SewakRxB9uHKjjj"
+    },
+    {
+      "album": {
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/78Az0Z1vNJgqv9QSB0ULLV"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Van Halen (UK Release)",
+        "url": "https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Panama - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4o6dYxgEN6ZIlY8rwdrSPz"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405640,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
+    },
+    {
+      "album": {
+        "name": "Paranoid (Remastered)",
+        "url": "https://open.spotify.com/album/7DBES3oV6jjAmWob7kJg6P"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5ERnPWGQc5QK7M7HW3rjC6"
+    },
+    {
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/6qbsMDJ0kNKlROFRiK3uQB"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328426,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/521gC8oqqmUknLZpodHOh9"
+    },
+    {
+      "album": {
+        "name": "The Best Of Alice Cooper",
+        "url": "https://open.spotify.com/album/7fP5RXmvSPfAY1EgffEPVx"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270786,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/39J10NL0mFTAdJbapoo2rC"
+    },
+    {
+      "album": {
+        "name": "Pour Some Sugar On Me (2012)",
+        "url": "https://open.spotify.com/album/5eJnzLcFCVt0Wcepaj6GiW"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261532,
+      "name": "Pour Some Sugar On Me (2012)",
+      "url": "https://open.spotify.com/track/0LN0ASTtcGIbNTnjSHG6eO"
+    },
+    {
+      "album": {
+        "name": "Diamond Dogs (30th Anniversary)",
+        "url": "https://open.spotify.com/album/6JxxRxzjsOTtKVie29FTt2"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Rebel Rebel - 1999 Remaster",
+      "url": "https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g"
+    },
+    {
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287866,
+      "name": "Rebel Yell - 1999 - Remaster",
+      "url": "https://open.spotify.com/track/0swJk3Hoi5woYCdfnL5lWj"
+    },
+    {
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "Roadhouse Blues - New Stereo Mix",
+      "url": "https://open.spotify.com/track/4VHvZjaD1sdWA7vC4Dm2Au"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV",
+        "url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Rock and Roll - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3w2GGz0HjIu9OcWXINRFJR"
+    },
+    {
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255573,
+      "name": "Rock You Like a Hurricane",
+      "url": "https://open.spotify.com/track/46QazXxQS0B31CnbRCy8CV"
+    },
+    {
+      "album": {
+        "name": "The Number Of The Beast (1998 Remastered Edition)",
+        "url": "https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Run to the Hills - 1998 Remastered Version",
+      "url": "https://open.spotify.com/track/2JS1iE5A5RHvUPH5Zl9jlF"
+    },
+    {
+      "album": {
+        "name": "Van Halen (Reissue)",
+        "url": "https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Runnin' With The Devil",
+      "url": "https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324560,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/5pQYjzkALsgYOcFTC8DMmU"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "album": {
+        "name": "Fool for the City",
+        "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494533,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
+    },
+    {
+      "album": {
+        "name": "Nirvana (International Version)",
+        "url": "https://open.spotify.com/album/3SBQfBKAPWvCr4qse1uNis"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/4hy4fb5D1KL50b3sng9cjw"
+    },
+    {
+      "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340742,
+      "name": "Smoke On The Water - Remastered 2012",
+      "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV",
+        "url": "https://open.spotify.com/album/4Ib1gx1Yb4kvmcc7eZH0Mi"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478173,
+      "name": "Stairway To Heaven",
+      "url": "https://open.spotify.com/track/0AJ62x1CXjJf3VW25CeZXa"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394466,
+      "name": "Still Of The Night - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/7cvzMbuaFpFH3ZkutMcfNc"
+    },
+    {
+      "album": {
+        "name": "The Best of 1980-1990 & B-Sides",
+        "url": "https://open.spotify.com/album/1WupyTEE8twuMK5iEoBcm2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279493,
+      "name": "Sunday Bloody Sunday",
+      "url": "https://open.spotify.com/track/5Uf6OfGfz436zAegn1kui6"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354520,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
+    },
+    {
+      "album": {
+        "name": "Smells Like Children",
+        "url": "https://open.spotify.com/album/6V8b6itvyd7N3IRMXkjSi7"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2miAut6dp9BWdGmOxwSGEC"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+    },
+    {
+      "album": {
+        "name": "Second Helping",
+        "url": "https://open.spotify.com/album/5rtOJsiDDjA9V5306cyTRS"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281147,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb"
+    },
+    {
+      "album": {
+        "name": "Gods of Guitar",
+        "url": "https://open.spotify.com/album/2bLDX4i82RTwgUqI2GRL9M"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/40IzXkMLfTKAgRvfJvqmCx"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387133,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/5SnOyuBtyzufoXBAKOdcxD"
+    },
+    {
+      "album": {
+        "name": "Tenacious D",
+        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248053,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+    },
+    {
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
+    },
+    {
+      "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "White Wedding - Part 1 - 2001- Remaster",
+      "url": "https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo"
+    },
+    {
+      "album": {
+        "name": "Guitar Heaven: The Greatest Guitar Classics Of All Time",
+        "url": "https://open.spotify.com/album/2mvUHntZi5syPgO8rrlSdL"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Whole Lotta Love",
+      "url": "https://open.spotify.com/track/3fBuhWRaAlkXOUFFJL0Mag"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313226,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
+    },
+    {
+      "album": {
+        "name": "Bon Jovi Greatest Hits",
+        "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/61lqNlVRnWYiR9C7BDJw2l"
+    },
+    {
+      "album": {
+        "name": "Who Made Who",
+        "url": "https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2017-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1lwxXvReaux"
 }

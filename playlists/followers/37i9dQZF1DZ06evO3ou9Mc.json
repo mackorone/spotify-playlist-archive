@@ -1,472 +1,1047 @@
 {
-  "2022-09-17": 312195,
-  "2022-09-18": 312377,
-  "2022-09-19": 312506,
-  "2022-09-20": 312629,
-  "2022-09-21": 312773,
-  "2022-09-22": 312921,
-  "2022-09-23": 313091,
-  "2022-09-24": 313091,
-  "2022-09-25": 313415,
-  "2022-09-26": 313535,
-  "2022-09-27": 313690,
-  "2022-09-28": 313810,
-  "2022-09-29": 313965,
-  "2022-09-30": 314150,
-  "2022-10-01": 314291,
-  "2022-10-02": 314446,
-  "2022-10-03": 314625,
-  "2022-10-04": 314770,
-  "2022-10-05": 314918,
-  "2022-10-06": 315078,
-  "2022-10-07": 315231,
-  "2022-10-08": 315381,
-  "2022-10-09": 315646,
-  "2022-10-10": 315663,
-  "2022-10-11": 315777,
-  "2022-10-12": 315973,
-  "2022-10-13": 316146,
-  "2022-10-14": 316330,
-  "2022-10-15": 316507,
-  "2022-10-16": 316689,
-  "2022-10-17": 316846,
-  "2022-10-18": 316999,
-  "2022-10-19": 317165,
-  "2022-10-20": 317311,
-  "2022-10-21": 317485,
-  "2022-10-22": 317660,
-  "2022-10-23": 317841,
-  "2022-10-24": 317961,
-  "2022-10-25": 318093,
-  "2022-10-26": 318239,
-  "2022-10-27": 318377,
-  "2022-10-28": 318507,
-  "2022-10-29": 318631,
-  "2022-10-30": 318763,
-  "2022-10-31": 318866,
-  "2022-11-01": 318978,
-  "2022-11-02": 319106,
-  "2022-11-03": 319230,
-  "2022-11-04": 319385,
-  "2022-11-05": 319541,
-  "2022-11-06": 319704,
-  "2022-11-07": 319816,
-  "2022-11-08": 319975,
-  "2022-11-09": 320126,
-  "2022-11-10": 320270,
-  "2022-11-11": 320469,
-  "2022-11-12": 320657,
-  "2022-11-13": 320809,
-  "2022-11-14": 320954,
-  "2022-11-15": 321059,
-  "2022-11-16": 321178,
-  "2022-11-17": 321319,
-  "2022-11-18": 321337,
-  "2022-11-19": 321380,
-  "2022-11-20": 321506,
-  "2022-11-21": 321665,
-  "2022-11-22": 321767,
-  "2022-11-23": 321875,
-  "2022-11-24": 322128,
-  "2022-11-25": 322321,
-  "2022-11-26": 322460,
-  "2022-11-27": 322577,
-  "2022-11-28": 322687,
-  "2022-11-29": 322792,
-  "2022-11-30": 322956,
-  "2022-12-01": 323106,
-  "2022-12-02": 323179,
-  "2022-12-03": 323383,
-  "2022-12-04": 323543,
-  "2022-12-05": 323649,
-  "2022-12-06": 323800,
-  "2022-12-07": 323934,
-  "2022-12-08": 324091,
-  "2022-12-09": 324252,
-  "2022-12-10": 324378,
-  "2022-12-11": 324525,
-  "2022-12-12": 324672,
-  "2022-12-13": 324800,
-  "2022-12-14": 324939,
-  "2022-12-15": 325106,
-  "2022-12-16": 325277,
-  "2022-12-17": 325413,
-  "2022-12-18": 325568,
-  "2022-12-19": 325667,
-  "2022-12-20": 325906,
-  "2022-12-21": 325906,
-  "2022-12-22": 326048,
-  "2022-12-24": 326303,
-  "2022-12-25": 326421,
-  "2022-12-26": 326507,
-  "2022-12-27": 326617,
-  "2022-12-28": 326754,
-  "2022-12-29": 326868,
-  "2022-12-30": 327017,
-  "2022-12-31": 327149,
-  "2023-01-01": 327280,
-  "2023-01-02": 327365,
-  "2023-01-03": 327475,
-  "2023-01-04": 327580,
-  "2023-01-05": 327695,
-  "2023-01-06": 327858,
-  "2023-01-07": 328095,
-  "2023-01-08": 328132,
-  "2023-01-09": 328262,
-  "2023-01-10": 328376,
-  "2023-01-11": 328481,
-  "2023-01-12": 328632,
-  "2023-01-13": 328754,
-  "2023-01-14": 329035,
-  "2023-01-15": 329074,
-  "2023-01-16": 329201,
-  "2023-01-17": 329334,
-  "2023-01-18": 329447,
-  "2023-01-19": 329586,
-  "2023-01-20": 329733,
-  "2023-01-21": 329873,
-  "2023-01-22": 330058,
-  "2023-01-23": 330210,
-  "2023-01-24": 330333,
-  "2023-01-25": 330463,
-  "2023-01-26": 330598,
-  "2023-01-27": 330757,
-  "2023-01-28": 330915,
-  "2023-01-29": 331066,
-  "2023-01-30": 331206,
-  "2023-01-31": 331206,
-  "2023-02-01": 331447,
-  "2023-02-02": 331594,
-  "2023-02-03": 331740,
-  "2023-02-04": 331888,
-  "2023-02-05": 332058,
-  "2023-02-06": 332207,
-  "2023-02-07": 332326,
-  "2023-02-08": 332581,
-  "2023-02-09": 332581,
-  "2023-02-10": 332676,
-  "2023-02-11": 332803,
-  "2023-02-12": 333059,
-  "2023-02-13": 333167,
-  "2023-02-14": 333167,
-  "2023-02-15": 333282,
-  "2023-02-16": 333420,
-  "2023-02-17": 333566,
-  "2023-02-18": 333876,
-  "2023-02-19": 333901,
-  "2023-02-20": 333992,
-  "2023-02-21": 334110,
-  "2023-02-22": 334231,
-  "2023-02-23": 334339,
-  "2023-02-24": 334500,
-  "2023-02-25": 334661,
-  "2023-02-26": 334767,
-  "2023-02-27": 335050,
-  "2023-02-28": 335050,
-  "2023-03-01": 335189,
-  "2023-03-02": 335320,
-  "2023-03-03": 335476,
-  "2023-03-04": 335599,
-  "2023-03-05": 335836,
-  "2023-03-06": 335836,
-  "2023-03-07": 335941,
-  "2023-03-08": 336058,
-  "2023-03-09": 336200,
-  "2023-03-10": 336322,
-  "2023-03-11": 336472,
-  "2023-03-12": 336606,
-  "2023-03-13": 336729,
-  "2023-03-14": 336844,
-  "2023-03-15": 336968,
-  "2023-03-16": 336968,
-  "2023-03-17": 336968,
-  "2023-03-18": 337373,
-  "2023-03-19": 337373,
-  "2023-03-20": 337592,
-  "2023-03-21": 337718,
-  "2023-03-22": 337854,
-  "2023-03-23": 337989,
-  "2023-03-24": 337989,
-  "2023-03-25": 338268,
-  "2023-03-26": 338428,
-  "2023-03-27": 338560,
-  "2023-03-28": 338672,
-  "2023-03-29": 338839,
-  "2023-03-30": 339114,
-  "2023-03-31": 339114,
-  "2023-04-01": 339302,
-  "2023-04-02": 339427,
-  "2023-04-03": 339591,
-  "2023-04-04": 339719,
-  "2023-04-05": 339880,
-  "2023-04-06": 340036,
-  "2023-04-07": 340188,
-  "2023-04-09": 340459,
-  "2023-04-10": 340612,
-  "2023-04-11": 340845,
-  "2023-04-12": 340845,
-  "2023-04-13": 340983,
-  "2023-04-14": 341147,
-  "2023-04-15": 341291,
-  "2023-04-16": 341473,
-  "2023-04-17": 341617,
-  "2023-04-18": 341773,
-  "2023-04-19": 341926,
-  "2023-04-20": 342067,
-  "2023-04-21": 342268,
-  "2023-04-22": 342458,
-  "2023-04-23": 342619,
-  "2023-04-24": 342761,
-  "2023-04-25": 342907,
-  "2023-04-26": 343064,
-  "2023-04-27": 343221,
-  "2023-04-28": 343360,
-  "2023-04-29": 343527,
-  "2023-04-30": 343718,
-  "2023-05-01": 343867,
-  "2023-05-02": 343997,
-  "2023-05-03": 344123,
-  "2023-05-04": 344259,
-  "2023-05-05": 344415,
-  "2023-05-06": 344536,
-  "2023-05-07": 344678,
-  "2023-05-08": 344825,
-  "2023-05-09": 344952,
-  "2023-05-10": 345110,
-  "2023-05-11": 345277,
-  "2023-05-12": 345453,
-  "2023-05-13": 345640,
-  "2023-05-14": 345786,
-  "2023-05-15": 345962,
-  "2023-05-16": 346154,
-  "2023-05-17": 346319,
-  "2023-05-18": 346499,
-  "2023-05-19": 346650,
-  "2023-05-20": 347033,
-  "2023-05-21": 347033,
-  "2023-05-22": 347033,
-  "2023-05-23": 347306,
-  "2023-05-24": 347582,
-  "2023-05-25": 347616,
-  "2023-05-26": 347794,
-  "2023-05-27": 347984,
-  "2023-05-28": 348148,
-  "2023-05-29": 348148,
-  "2023-05-30": 348390,
-  "2023-05-31": 348510,
-  "2023-06-01": 348627,
-  "2023-06-02": 348821,
-  "2023-06-03": 348987,
-  "2023-06-04": 349146,
-  "2023-06-05": 349252,
-  "2023-06-06": 349381,
-  "2023-06-07": 349504,
-  "2023-06-08": 349646,
-  "2023-06-09": 349770,
-  "2023-06-10": 349919,
-  "2023-06-11": 350051,
-  "2023-06-12": 350172,
-  "2023-06-13": 350292,
-  "2023-06-14": 350389,
-  "2023-06-15": 350520,
-  "2023-06-16": 350644,
-  "2023-06-17": 350783,
-  "2023-06-18": 350932,
-  "2023-06-19": 351048,
-  "2023-06-20": 351146,
-  "2023-06-21": 351260,
-  "2023-06-22": 351397,
-  "2023-06-23": 351532,
-  "2023-06-24": 351648,
-  "2023-06-25": 351769,
-  "2023-06-26": 351883,
-  "2023-06-27": 352007,
-  "2023-06-28": 352121,
-  "2023-06-29": 352251,
-  "2023-06-30": 352370,
-  "2023-07-01": 352620,
-  "2023-07-02": 352620,
-  "2023-07-03": 352716,
-  "2023-07-04": 352824,
-  "2023-07-05": 352976,
-  "2023-07-06": 353240,
-  "2023-07-07": 353240,
-  "2023-07-08": 353240,
-  "2023-07-09": 353529,
-  "2023-07-10": 353635,
-  "2023-07-11": 353755,
-  "2023-07-12": 353879,
-  "2023-07-13": 353965,
-  "2023-07-14": 354074,
-  "2023-07-15": 354192,
-  "2023-07-16": 354374,
-  "2023-07-17": 354497,
-  "2023-07-18": 354612,
-  "2023-07-19": 354732,
-  "2023-07-20": 354732,
-  "2023-07-21": 354991,
-  "2023-07-22": 355127,
-  "2023-07-23": 355264,
-  "2023-07-24": 355403,
-  "2023-07-25": 355508,
-  "2023-07-26": 355633,
-  "2023-07-27": 355782,
-  "2023-07-28": 355934,
-  "2023-07-29": 356072,
-  "2023-07-30": 356072,
-  "2023-07-31": 356302,
-  "2023-08-01": 356425,
-  "2023-08-02": 356540,
-  "2023-08-03": 356660,
-  "2023-08-04": 356791,
-  "2023-08-05": 356914,
-  "2023-08-06": 357241,
-  "2023-08-07": 357241,
-  "2023-08-08": 357374,
-  "2023-08-09": 357537,
-  "2023-08-10": 357682,
-  "2023-08-11": 357820,
-  "2023-08-12": 357820,
-  "2023-08-13": 357820,
-  "2023-08-14": 357820,
-  "2023-08-15": 357820,
-  "2023-08-16": 357820,
-  "2023-08-17": 357820,
-  "2023-08-18": 357820,
-  "2023-08-19": 357820,
-  "2023-08-20": 359237,
-  "2023-08-21": 359237,
-  "2023-08-22": 359520,
-  "2023-08-23": 359520,
-  "2023-08-24": 359520,
-  "2023-08-25": 359520,
-  "2023-08-26": 360175,
-  "2023-08-27": 360175,
-  "2023-08-28": 360516,
-  "2023-08-29": 360516,
-  "2023-08-30": 360516,
-  "2023-08-31": 360897,
-  "2023-09-01": 361025,
-  "2023-09-02": 361025,
-  "2023-09-03": 361025,
-  "2023-09-04": 361025,
-  "2023-09-05": 361025,
-  "2023-09-06": 361025,
-  "2023-09-07": 361025,
-  "2023-09-08": 361025,
-  "2023-09-09": 361025,
-  "2023-09-10": 361025,
-  "2023-09-11": 361025,
-  "2023-09-12": 361025,
-  "2023-09-13": 361025,
-  "2023-09-14": 361025,
-  "2023-09-15": 361025,
-  "2023-09-16": 362932,
-  "2023-09-17": 362932,
-  "2023-09-18": 362932,
-  "2023-09-19": 363240,
-  "2023-09-20": 363240,
-  "2023-09-21": 363240,
-  "2023-09-22": 363504,
-  "2023-09-23": 363504,
-  "2023-09-24": 363504,
-  "2023-09-25": 363504,
-  "2023-09-26": 363931,
-  "2023-09-27": 363931,
-  "2023-09-28": 363931,
-  "2023-09-29": 363931,
-  "2023-09-30": 363931,
-  "2023-10-01": 363931,
-  "2023-10-02": 363931,
-  "2023-10-03": 363931,
-  "2023-10-04": 363931,
-  "2023-10-05": 363931,
-  "2023-10-06": 363931,
-  "2023-10-07": 363931,
-  "2023-10-08": 363931,
-  "2023-10-09": 363931,
-  "2023-10-10": 363931,
-  "2023-10-11": 363931,
-  "2023-10-12": 363931,
-  "2023-10-13": 363931,
-  "2023-10-14": 363931,
-  "2023-10-15": 363931,
-  "2023-10-16": 363931,
-  "2023-10-17": 363931,
-  "2023-10-18": 363931,
-  "2023-10-19": 363931,
-  "2023-10-20": 363931,
-  "2023-10-21": 363931,
-  "2023-10-22": 363931,
-  "2023-10-23": 363931,
-  "2023-10-24": 363931,
-  "2023-10-25": 363931,
-  "2023-10-26": 363931,
-  "2023-10-27": 363931,
-  "2023-10-28": 363931,
-  "2023-10-29": 363931,
-  "2023-10-30": 363931,
-  "2023-10-31": 363931,
-  "2023-11-01": 363931,
-  "2023-11-02": 363931,
-  "2023-11-03": 363931,
-  "2023-11-04": 363931,
-  "2023-11-05": 363931,
-  "2023-11-06": 363931,
-  "2023-11-07": 363931,
-  "2023-11-08": 363931,
-  "2023-11-09": 363931,
-  "2023-11-10": 363931,
-  "2023-11-11": 368572,
-  "2023-11-12": 368572,
-  "2023-11-13": 368572,
-  "2023-11-14": 368572,
-  "2023-11-15": 368572,
-  "2023-11-16": 368572,
-  "2023-11-17": 368572,
-  "2023-11-18": 368572,
-  "2023-11-19": 368572,
-  "2023-11-20": 368572,
-  "2023-11-21": 368572,
-  "2023-11-22": 368572,
-  "2023-11-23": 368572,
-  "2023-11-24": 368572,
-  "2023-11-25": 368572,
-  "2023-11-26": 368572,
-  "2023-11-27": 368572,
-  "2023-11-28": 368572,
-  "2023-11-29": 368572,
-  "2023-11-30": 368572,
-  "2023-12-01": 368572,
-  "2023-12-02": 368572,
-  "2023-12-03": 368572,
-  "2023-12-04": 368572,
-  "2023-12-05": 368572,
-  "2023-12-06": 368572,
-  "2023-12-07": 368572,
-  "2023-12-08": 368572,
-  "2023-12-09": 368572,
-  "2023-12-10": 368572,
-  "2023-12-11": 368572,
-  "2023-12-12": 368572,
-  "2023-12-13": 368572,
-  "2023-12-14": 371959,
-  "2023-12-15": 372047,
-  "2023-12-16": 372161,
-  "2023-12-17": 372268,
-  "2023-12-18": 372355,
-  "2023-12-19": 372436,
-  "2023-12-20": 372549,
-  "2023-12-21": 372648,
-  "2023-12-22": 372742,
-  "2023-12-23": 372859,
-  "2023-12-24": 372949,
-  "2023-12-25": 373013,
-  "2023-12-26": 373086,
-  "2023-12-27": 373158,
-  "2023-12-30": 373460,
-  "2023-12-31": 373554,
-  "2024-01-01": 373639,
-  "2024-01-02": 373711,
-  "2024-01-03": 373797
+  "2024-01-17": 374801,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "name": "This Is The Offspring",
+  "tracks": [
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134760,
+      "name": "(Can't Get My) Head Around You",
+      "url": "https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Americana",
+      "url": "https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Army Of One",
+      "url": "https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Behind Your Walls",
+      "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Can't Repeat",
+      "url": "https://open.spotify.com/track/4K20nocu6gubbWYiuCR23K"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Come Out Swinging",
+      "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167893,
+      "name": "Cool To Hate",
+      "url": "https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "Dammit, I Changed Again",
+      "url": "https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240213,
+      "name": "Dirty Magic",
+      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142413,
+      "name": "Dividing By Zero",
+      "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Gone Away - 1997",
+      "url": "https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Gotta Get Away",
+      "url": "https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "Half-Truism",
+      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278440,
+      "name": "Hammerhead",
+      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace (15th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YGXlFehYvg5MuzMPfgkdp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 337760,
+      "name": "Hammerhead - Live At Hellfest 2022",
+      "url": "https://open.spotify.com/track/2IAVsnPYeZV1jf7EjttJNN"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace (15th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZvLzeszidFikHrWgsaWXf"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 337760,
+      "name": "Hammerhead - Live At Hellfest 2022",
+      "url": "https://open.spotify.com/track/60KWofPwiHxnopbv834Qo4"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 236733,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169413,
+      "name": "Hit That",
+      "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 234666,
+      "name": "I Choose",
+      "url": "https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG"
+    },
+    {
+      "album": {
+        "name": "The Offspring",
+        "url": "https://open.spotify.com/album/39QzcBdUkrXWc7bhpW66p7"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155360,
+      "name": "Jennifer Lost The War",
+      "url": "https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu"
+    },
+    {
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Kick Him When He's Down",
+      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Kristy, Are You Doing Okay?",
+      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Nitro (Youth Energy)",
+      "url": "https://open.spotify.com/track/6LjDGj9Hn5ERX3uhrT9LGV"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124053,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/6kJiR8bUk9jEzfDU7f8s6v"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220946,
+      "name": "Original Prankster",
+      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Pretty Fly (For A White Guy)",
+      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 212173,
+      "name": "Race Against Myself",
+      "url": "https://open.spotify.com/track/1ZoTvDjwvmXDOQ3B2g5nDx"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Secrets From The Underground",
+      "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "album": {
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+    },
+    {
+      "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 125538,
+      "name": "she's got issues - lofi",
+      "url": "https://open.spotify.com/track/5fxZUjE2FwWMyOvCPEcphq"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Slim Pickens Does The Right Thing And Rides The Bomb To Hell",
+      "url": "https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Spare Me The Details",
+      "url": "https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133586,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248413,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/2B17416FS7vL5qljgqfm7L"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "album": {
+        "name": "americana, but lofi",
+        "url": "https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS"
+      },
+      "artists": [
+        {
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 132000,
+      "name": "the kids aren't alright - lofi",
+      "url": "https://open.spotify.com/track/4DXF9s5JioJFXxNFvbGovK"
+    },
+    {
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "The Meaning Of Life",
+      "url": "https://open.spotify.com/track/48WEsrIKIPyQzCW4pcf3sh"
+    },
+    {
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "The Noose",
+      "url": "https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "This Is Not Utopia",
+      "url": "https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
+    },
+    {
+      "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "We Never Have Sex Anymore",
+      "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "What Happened to You?",
+      "url": "https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp"
+    },
+    {
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ou9Mc"
 }

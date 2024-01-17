@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/1zdl2g07b86asvSAFwVY6C"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251611,
+      "name": "31",
+      "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
+    },
+    {
+      "album": {
         "name": "A Concert Six Months From Now",
         "url": "https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 218604,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
@@ -4306,6 +4324,24 @@
       "duration_ms": 191830,
       "name": "this is what sadness feels like",
       "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
+    },
+    {
+      "album": {
+        "name": "this is what winter feels like",
+        "url": "https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "this is what winter feels like",
+      "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZm3R48QXZjZ.md) - [plain]
 
 > Rival Consoles' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,709 likes - 35 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,356 likes - 35 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

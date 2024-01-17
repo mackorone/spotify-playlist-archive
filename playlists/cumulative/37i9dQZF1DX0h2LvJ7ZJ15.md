@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-234 songs - 13 hr 10 min
+235 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [ivy \- slowed + reverb](https://open.spotify.com/track/5CyCjhpFanDC11Tsc93Yaw) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [ivy \- slowed + reverb](https://open.spotify.com/album/6BF4dBoqfAhrTmGJ8v5pN5) | 1:47 | 2022-03-25 | 2022-04-02 |
 | [JACKIE BROWN \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [WASTELAND \- CHOPPED NOT SLOPPED](https://open.spotify.com/album/3DpamulE7VP1pDprRODb28) | 5:07 | 2023-05-05 | 2023-12-09 |
 | [Kangna Tera Nee \- Slowed + Reverb](https://open.spotify.com/track/7fz1JVXRXaa5Wfu7DcwhfZ) | [SickDude, YSRBEATS](https://open.spotify.com/artist/1bLz0kMKZ2iTm58sRK5fiO) | [Dil Mila Mera, Inti Si Bhaat Hai](https://open.spotify.com/album/1TbmtHDUtucciYcFp9Hl6O) | 4:05 | 2022-04-08 | 2022-06-01 |
-| [Kerosene \- Slowed](https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX) | 2:22 | 2023-12-08 |  |
+| [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 | 2024-01-05 |  |
+| [Kerosene \- Slowed](https://open.spotify.com/track/3BOQDjSv5ANlwvK97WDSyK) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/6tiGvKDEPIPBW0LeGXnNQX) | 2:22 | 2023-12-08 | 2024-01-13 |
 | [Kick Back \- slowed and reverbed](https://open.spotify.com/track/5hrV1NiNUBXbIpuIDizwcG) | [LOTU$](https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU), [Chicage](https://open.spotify.com/artist/3ifSLh9XOq2zWejn95G5KR) | [purple paradise](https://open.spotify.com/album/5n2IrCB1vEhvYiufcXxXxm) | 3:26 | 2022-01-05 | 2023-12-09 |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-10-01 |  |
 | [LEFT RIGHT \- Slowed](https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LEFT RIGHT \(Slowed\)](https://open.spotify.com/album/0HwvROOXn0C9CaVvTCkyG3) | 1:32 | 2021-10-01 | 2022-04-16 |
@@ -241,6 +242,6 @@
 | [Your voice\. \(Slowed and reverbed.\)](https://open.spotify.com/track/7l2QKC0ViJNxAJyeTpTurs) | [Bad Kisser](https://open.spotify.com/artist/3BCYz72nTa8Y2WY9yuDA2M) | [Everything started to change\. \(Slowed and reverbed.\)](https://open.spotify.com/album/5lcgIwA9pXkXKfjNDYUJNj) | 2:11 | 2022-01-05 | 2022-06-14 |
 | [Yucky Blucky Fruitcake \- Slowed and Chopped](https://open.spotify.com/track/2dX6YJyyIYdGmyDdY06DUA) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [Yucky Blucky Fruitcake \(Slowed and Chopped\)](https://open.spotify.com/album/2oHpme9OyMN1pDbabA7Vmk) | 3:58 | 2023-09-21 | 2023-12-09 |
 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 | 2023-12-08 |  |
-| [Отключаю телефон \(Slowed\)](https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон \(Slowed\)](https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H) | 3:07 | 2023-07-13 | 2023-12-16 |
+| [Отключаю телефон \(Slowed\)](https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон \(Slowed\)](https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H) | 3:07 | 2023-07-13 | 2024-01-16 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

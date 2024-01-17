@@ -1,577 +1,1739 @@
 {
-  "2022-06-02": 41620,
-  "2022-06-03": 41634,
-  "2022-06-04": 41650,
-  "2022-06-05": 41677,
-  "2022-06-06": 41690,
-  "2022-06-07": 41694,
-  "2022-06-08": 41717,
-  "2022-06-09": 41732,
-  "2022-06-10": 41750,
-  "2022-06-11": 41773,
-  "2022-06-12": 41792,
-  "2022-06-13": 41812,
-  "2022-06-14": 41822,
-  "2022-06-15": 41844,
-  "2022-06-16": 41863,
-  "2022-06-17": 41885,
-  "2022-06-18": 41909,
-  "2022-06-19": 41938,
-  "2022-06-20": 41938,
-  "2022-06-21": 41945,
-  "2022-06-22": 41981,
-  "2022-06-23": 41981,
-  "2022-06-24": 41998,
-  "2022-06-25": 42023,
-  "2022-06-26": 42047,
-  "2022-06-27": 42066,
-  "2022-06-28": 42076,
-  "2022-06-29": 42086,
-  "2022-06-30": 42093,
-  "2022-07-01": 42109,
-  "2022-07-02": 42126,
-  "2022-07-03": 42142,
-  "2022-07-04": 42166,
-  "2022-07-05": 42166,
-  "2022-07-06": 42166,
-  "2022-07-07": 42214,
-  "2022-07-08": 42223,
-  "2022-07-09": 42252,
-  "2022-07-10": 42259,
-  "2022-07-11": 42270,
-  "2022-07-12": 42282,
-  "2022-07-13": 42302,
-  "2022-07-14": 42335,
-  "2022-07-15": 42378,
-  "2022-07-16": 42421,
-  "2022-07-17": 42452,
-  "2022-07-18": 42468,
-  "2022-07-19": 42487,
-  "2022-07-20": 42501,
-  "2022-07-21": 42522,
-  "2022-07-22": 42547,
-  "2022-07-23": 42568,
-  "2022-07-24": 42592,
-  "2022-07-25": 42612,
-  "2022-07-26": 42624,
-  "2022-07-27": 42659,
-  "2022-07-28": 42673,
-  "2022-07-29": 42699,
-  "2022-07-30": 42755,
-  "2022-07-31": 42755,
-  "2022-08-01": 42767,
-  "2022-08-02": 42796,
-  "2022-08-03": 42796,
-  "2022-08-04": 42827,
-  "2022-08-05": 42850,
-  "2022-08-06": 42872,
-  "2022-08-07": 42883,
-  "2022-08-08": 42901,
-  "2022-08-09": 42927,
-  "2022-08-10": 42942,
-  "2022-08-11": 42973,
-  "2022-08-12": 42998,
-  "2022-08-13": 43010,
-  "2022-08-14": 43047,
-  "2022-08-15": 43064,
-  "2022-08-16": 43079,
-  "2022-08-17": 43103,
-  "2022-08-18": 43121,
-  "2022-08-19": 43138,
-  "2022-08-20": 43164,
-  "2022-08-21": 43177,
-  "2022-08-22": 43194,
-  "2022-08-23": 43213,
-  "2022-08-24": 43245,
-  "2022-08-25": 43268,
-  "2022-08-26": 43287,
-  "2022-08-27": 43308,
-  "2022-08-28": 43325,
-  "2022-08-29": 43345,
-  "2022-08-30": 43366,
-  "2022-08-31": 43382,
-  "2022-09-01": 43406,
-  "2022-09-02": 43434,
-  "2022-09-03": 43452,
-  "2022-09-04": 43467,
-  "2022-09-05": 43485,
-  "2022-09-06": 43504,
-  "2022-09-07": 43524,
-  "2022-09-09": 43562,
-  "2022-09-10": 43585,
-  "2022-09-11": 43604,
-  "2022-09-12": 43623,
-  "2022-09-13": 43646,
-  "2022-09-15": 43681,
-  "2022-09-16": 43718,
-  "2022-09-17": 43737,
-  "2022-09-18": 43754,
-  "2022-09-19": 43764,
-  "2022-09-20": 43791,
-  "2022-09-21": 43810,
-  "2022-09-22": 43831,
-  "2022-09-23": 43855,
-  "2022-09-24": 43855,
-  "2022-09-25": 43893,
-  "2022-09-26": 43915,
-  "2022-09-27": 43938,
-  "2022-09-28": 43963,
-  "2022-09-29": 43980,
-  "2022-09-30": 44005,
-  "2022-10-01": 44037,
-  "2022-10-02": 44056,
-  "2022-10-03": 44072,
-  "2022-10-04": 44089,
-  "2022-10-05": 44106,
-  "2022-10-06": 44147,
-  "2022-10-07": 44172,
-  "2022-10-08": 44195,
-  "2022-10-09": 44227,
-  "2022-10-10": 44232,
-  "2022-10-11": 44253,
-  "2022-10-12": 44268,
-  "2022-10-13": 44277,
-  "2022-10-14": 44307,
-  "2022-10-15": 44330,
-  "2022-10-16": 44351,
-  "2022-10-17": 44375,
-  "2022-10-18": 44395,
-  "2022-10-19": 44420,
-  "2022-10-20": 44449,
-  "2022-10-21": 44466,
-  "2022-10-22": 44490,
-  "2022-10-23": 44503,
-  "2022-10-24": 44528,
-  "2022-10-25": 44541,
-  "2022-10-26": 44554,
-  "2022-10-27": 44583,
-  "2022-10-28": 44601,
-  "2022-10-29": 44616,
-  "2022-10-30": 44633,
-  "2022-10-31": 44650,
-  "2022-11-01": 44662,
-  "2022-11-02": 44684,
-  "2022-11-03": 44700,
-  "2022-11-04": 44725,
-  "2022-11-05": 44747,
-  "2022-11-06": 44776,
-  "2022-11-07": 44806,
-  "2022-11-08": 44830,
-  "2022-11-09": 44851,
-  "2022-11-10": 44863,
-  "2022-11-11": 44893,
-  "2022-11-12": 44913,
-  "2022-11-13": 44929,
-  "2022-11-14": 44944,
-  "2022-11-15": 44960,
-  "2022-11-16": 44977,
-  "2022-11-17": 45003,
-  "2022-11-18": 45009,
-  "2022-11-19": 45015,
-  "2022-11-20": 45040,
-  "2022-11-21": 45068,
-  "2022-11-22": 45086,
-  "2022-11-23": 45104,
-  "2022-11-24": 45140,
-  "2022-11-25": 45172,
-  "2022-11-26": 45195,
-  "2022-11-27": 45218,
-  "2022-11-28": 45235,
-  "2022-11-29": 45247,
-  "2022-11-30": 45273,
-  "2022-12-01": 45293,
-  "2022-12-02": 45304,
-  "2022-12-03": 45329,
-  "2022-12-04": 45356,
-  "2022-12-05": 45374,
-  "2022-12-06": 45395,
-  "2022-12-07": 45435,
-  "2022-12-08": 45455,
-  "2022-12-09": 45497,
-  "2022-12-10": 45517,
-  "2022-12-11": 45541,
-  "2022-12-12": 45569,
-  "2022-12-13": 45591,
-  "2022-12-14": 45602,
-  "2022-12-15": 45624,
-  "2022-12-16": 45643,
-  "2022-12-17": 45668,
-  "2022-12-18": 45684,
-  "2022-12-19": 45700,
-  "2022-12-20": 45751,
-  "2022-12-21": 45751,
-  "2022-12-22": 45771,
-  "2022-12-24": 45816,
-  "2022-12-25": 45841,
-  "2022-12-26": 45856,
-  "2022-12-27": 45874,
-  "2022-12-28": 45883,
-  "2022-12-29": 45904,
-  "2022-12-30": 45922,
-  "2022-12-31": 45945,
-  "2023-01-01": 45971,
-  "2023-01-02": 45981,
-  "2023-01-03": 45994,
-  "2023-01-04": 46014,
-  "2023-01-05": 46044,
-  "2023-01-06": 46066,
-  "2023-01-07": 46092,
-  "2023-01-08": 46098,
-  "2023-01-09": 46121,
-  "2023-01-10": 46140,
-  "2023-01-11": 46152,
-  "2023-01-12": 46178,
-  "2023-01-13": 46204,
-  "2023-01-14": 46239,
-  "2023-01-15": 46246,
-  "2023-01-16": 46268,
-  "2023-01-17": 46277,
-  "2023-01-18": 46297,
-  "2023-01-19": 46307,
-  "2023-01-20": 46318,
-  "2023-01-21": 46338,
-  "2023-01-22": 46355,
-  "2023-01-23": 46378,
-  "2023-01-24": 46391,
-  "2023-01-25": 46408,
-  "2023-01-26": 46433,
-  "2023-01-27": 46447,
-  "2023-01-28": 46461,
-  "2023-01-29": 46481,
-  "2023-01-30": 46502,
-  "2023-01-31": 46502,
-  "2023-02-01": 46528,
-  "2023-02-02": 46552,
-  "2023-02-03": 46568,
-  "2023-02-04": 46587,
-  "2023-02-05": 46612,
-  "2023-02-06": 46635,
-  "2023-02-07": 46657,
-  "2023-02-08": 46698,
-  "2023-02-09": 46698,
-  "2023-02-10": 46714,
-  "2023-02-11": 46733,
-  "2023-02-12": 46773,
-  "2023-02-13": 46792,
-  "2023-02-14": 46792,
-  "2023-02-15": 46808,
-  "2023-02-16": 46818,
-  "2023-02-17": 46839,
-  "2023-02-18": 46880,
-  "2023-02-19": 46886,
-  "2023-02-20": 46898,
-  "2023-02-21": 46926,
-  "2023-02-22": 46941,
-  "2023-02-23": 46955,
-  "2023-02-24": 46987,
-  "2023-02-25": 47021,
-  "2023-02-26": 47035,
-  "2023-02-27": 47080,
-  "2023-02-28": 47080,
-  "2023-03-01": 47098,
-  "2023-03-02": 47117,
-  "2023-03-03": 47145,
-  "2023-03-04": 47177,
-  "2023-03-05": 47222,
-  "2023-03-06": 47222,
-  "2023-03-07": 47245,
-  "2023-03-08": 47255,
-  "2023-03-09": 47282,
-  "2023-03-10": 47307,
-  "2023-03-11": 47321,
-  "2023-03-12": 47345,
-  "2023-03-13": 47353,
-  "2023-03-14": 47368,
-  "2023-03-15": 47389,
-  "2023-03-16": 47389,
-  "2023-03-17": 47389,
-  "2023-03-18": 47437,
-  "2023-03-19": 47437,
-  "2023-03-20": 47473,
-  "2023-03-21": 47487,
-  "2023-03-22": 47508,
-  "2023-03-23": 47530,
-  "2023-03-24": 47530,
-  "2023-03-25": 47570,
-  "2023-03-26": 47587,
-  "2023-03-27": 47607,
-  "2023-03-28": 47617,
-  "2023-03-29": 47641,
-  "2023-03-30": 47680,
-  "2023-03-31": 47680,
-  "2023-04-01": 47700,
-  "2023-04-02": 47721,
-  "2023-04-03": 47735,
-  "2023-04-04": 47748,
-  "2023-04-05": 47763,
-  "2023-04-06": 47771,
-  "2023-04-07": 47801,
-  "2023-04-09": 47836,
-  "2023-04-10": 47850,
-  "2023-04-11": 47874,
-  "2023-04-12": 47874,
-  "2023-04-13": 47886,
-  "2023-04-14": 47899,
-  "2023-04-15": 47928,
-  "2023-04-16": 47943,
-  "2023-04-17": 47959,
-  "2023-04-18": 47978,
-  "2023-04-19": 47995,
-  "2023-04-20": 48014,
-  "2023-04-21": 48034,
-  "2023-04-22": 48053,
-  "2023-04-23": 48070,
-  "2023-04-24": 48102,
-  "2023-04-25": 48122,
-  "2023-04-26": 48145,
-  "2023-04-27": 48171,
-  "2023-04-28": 48199,
-  "2023-04-29": 48228,
-  "2023-04-30": 48241,
-  "2023-05-01": 48273,
-  "2023-05-02": 48286,
-  "2023-05-03": 48313,
-  "2023-05-04": 48335,
-  "2023-05-05": 48356,
-  "2023-05-06": 48380,
-  "2023-05-07": 48405,
-  "2023-05-08": 48428,
-  "2023-05-09": 48444,
-  "2023-05-10": 48466,
-  "2023-05-11": 48483,
-  "2023-05-12": 48507,
-  "2023-05-13": 48522,
-  "2023-05-14": 48555,
-  "2023-05-15": 48567,
-  "2023-05-16": 48590,
-  "2023-05-17": 48621,
-  "2023-05-18": 48642,
-  "2023-05-19": 48668,
-  "2023-05-20": 48705,
-  "2023-05-21": 48705,
-  "2023-05-22": 48705,
-  "2023-05-23": 48724,
-  "2023-05-24": 48764,
-  "2023-05-25": 48772,
-  "2023-05-26": 48794,
-  "2023-05-27": 48819,
-  "2023-05-28": 48852,
-  "2023-05-29": 48852,
-  "2023-05-30": 48887,
-  "2023-05-31": 48905,
-  "2023-06-01": 48929,
-  "2023-06-02": 48947,
-  "2023-06-03": 48975,
-  "2023-06-04": 48993,
-  "2023-06-05": 49010,
-  "2023-06-06": 49022,
-  "2023-06-07": 49051,
-  "2023-06-08": 49080,
-  "2023-06-09": 49102,
-  "2023-06-10": 49123,
-  "2023-06-11": 49153,
-  "2023-06-12": 49172,
-  "2023-06-13": 49202,
-  "2023-06-14": 49217,
-  "2023-06-15": 49235,
-  "2023-06-16": 49252,
-  "2023-06-17": 49272,
-  "2023-06-18": 49283,
-  "2023-06-19": 49300,
-  "2023-06-20": 49310,
-  "2023-06-21": 49327,
-  "2023-06-22": 49351,
-  "2023-06-23": 49373,
-  "2023-06-24": 49392,
-  "2023-06-25": 49416,
-  "2023-06-26": 49430,
-  "2023-06-27": 49447,
-  "2023-06-28": 49469,
-  "2023-06-29": 49480,
-  "2023-06-30": 49510,
-  "2023-07-01": 49544,
-  "2023-07-02": 49544,
-  "2023-07-03": 49562,
-  "2023-07-04": 49582,
-  "2023-07-05": 49590,
-  "2023-07-06": 49617,
-  "2023-07-07": 49617,
-  "2023-07-08": 49617,
-  "2023-07-09": 49651,
-  "2023-07-10": 49661,
-  "2023-07-11": 49671,
-  "2023-07-12": 49693,
-  "2023-07-13": 49732,
-  "2023-07-14": 49764,
-  "2023-07-15": 49785,
-  "2023-07-16": 49824,
-  "2023-07-17": 49840,
-  "2023-07-18": 49864,
-  "2023-07-19": 49898,
-  "2023-07-20": 49898,
-  "2023-07-21": 49954,
-  "2023-07-22": 49979,
-  "2023-07-23": 50006,
-  "2023-07-24": 50028,
-  "2023-07-25": 50050,
-  "2023-07-26": 50081,
-  "2023-07-27": 50120,
-  "2023-07-28": 50120,
-  "2023-07-29": 50176,
-  "2023-07-30": 50176,
-  "2023-07-31": 50212,
-  "2023-08-01": 50232,
-  "2023-08-02": 50257,
-  "2023-08-03": 50287,
-  "2023-08-04": 50302,
-  "2023-08-05": 50314,
-  "2023-08-06": 50356,
-  "2023-08-07": 50356,
-  "2023-08-08": 50376,
-  "2023-08-09": 50410,
-  "2023-08-10": 50424,
-  "2023-08-11": 50446,
-  "2023-08-12": 50446,
-  "2023-08-13": 50446,
-  "2023-08-14": 50446,
-  "2023-08-15": 50446,
-  "2023-08-16": 50446,
-  "2023-08-17": 50446,
-  "2023-08-18": 50446,
-  "2023-08-19": 50446,
-  "2023-08-20": 50672,
-  "2023-08-21": 50672,
-  "2023-08-22": 50715,
-  "2023-08-23": 50715,
-  "2023-08-24": 50715,
-  "2023-08-25": 50715,
-  "2023-08-26": 50806,
-  "2023-08-27": 50806,
-  "2023-08-28": 50843,
-  "2023-08-29": 50843,
-  "2023-08-30": 50843,
-  "2023-08-31": 50920,
-  "2023-09-01": 50951,
-  "2023-09-02": 50951,
-  "2023-09-03": 50951,
-  "2023-09-04": 50951,
-  "2023-09-05": 50951,
-  "2023-09-06": 50951,
-  "2023-09-07": 50951,
-  "2023-09-08": 50951,
-  "2023-09-09": 50951,
-  "2023-09-10": 50951,
-  "2023-09-11": 50951,
-  "2023-09-12": 50951,
-  "2023-09-13": 50951,
-  "2023-09-14": 50951,
-  "2023-09-15": 50951,
-  "2023-09-16": 51297,
-  "2023-09-17": 51297,
-  "2023-09-18": 51297,
-  "2023-09-19": 51297,
-  "2023-09-20": 51297,
-  "2023-09-21": 51297,
-  "2023-09-22": 51443,
-  "2023-09-23": 51443,
-  "2023-09-24": 51443,
-  "2023-09-25": 51443,
-  "2023-09-26": 51509,
-  "2023-09-27": 51509,
-  "2023-09-28": 51509,
-  "2023-09-29": 51509,
-  "2023-09-30": 51509,
-  "2023-10-01": 51509,
-  "2023-10-02": 51509,
-  "2023-10-03": 51509,
-  "2023-10-04": 51509,
-  "2023-10-05": 51509,
-  "2023-10-06": 51509,
-  "2023-10-07": 51509,
-  "2023-10-08": 51509,
-  "2023-10-09": 51509,
-  "2023-10-10": 51509,
-  "2023-10-11": 51509,
-  "2023-10-12": 51509,
-  "2023-10-13": 51509,
-  "2023-10-14": 51509,
-  "2023-10-15": 51509,
-  "2023-10-16": 51509,
-  "2023-10-17": 51509,
-  "2023-10-18": 51509,
-  "2023-10-19": 51509,
-  "2023-10-20": 51509,
-  "2023-10-21": 51509,
-  "2023-10-22": 51509,
-  "2023-10-23": 51509,
-  "2023-10-24": 51509,
-  "2023-10-25": 51509,
-  "2023-10-26": 51509,
-  "2023-10-27": 51509,
-  "2023-10-28": 51509,
-  "2023-10-29": 51509,
-  "2023-10-30": 51509,
-  "2023-10-31": 51509,
-  "2023-11-01": 51509,
-  "2023-11-02": 51509,
-  "2023-11-03": 51509,
-  "2023-11-04": 51509,
-  "2023-11-05": 51509,
-  "2023-11-06": 51509,
-  "2023-11-07": 51509,
-  "2023-11-08": 51509,
-  "2023-11-09": 51509,
-  "2023-11-10": 51509,
-  "2023-11-11": 52363,
-  "2023-11-12": 52363,
-  "2023-11-13": 52363,
-  "2023-11-14": 52363,
-  "2023-11-15": 52363,
-  "2023-11-16": 52363,
-  "2023-11-17": 52363,
-  "2023-11-18": 52363,
-  "2023-11-19": 52363,
-  "2023-11-20": 52363,
-  "2023-11-21": 52363,
-  "2023-11-22": 52363,
-  "2023-11-23": 52363,
-  "2023-11-24": 52363,
-  "2023-11-25": 52363,
-  "2023-11-26": 52363,
-  "2023-11-27": 52363,
-  "2023-11-28": 52363,
-  "2023-11-29": 52363,
-  "2023-11-30": 52363,
-  "2023-12-01": 52363,
-  "2023-12-02": 52363,
-  "2023-12-03": 52363,
-  "2023-12-04": 52363,
-  "2023-12-05": 52363,
-  "2023-12-06": 52363,
-  "2023-12-07": 52363,
-  "2023-12-08": 52363,
-  "2023-12-09": 52363,
-  "2023-12-10": 52363,
-  "2023-12-11": 52363,
-  "2023-12-12": 52363,
-  "2023-12-13": 52363,
-  "2023-12-14": 53073,
-  "2023-12-15": 53090,
-  "2023-12-16": 53120,
-  "2023-12-17": 53145,
-  "2023-12-18": 53175,
-  "2023-12-19": 53199,
-  "2023-12-20": 53226,
-  "2023-12-21": 53250,
-  "2023-12-22": 53279,
-  "2023-12-23": 53306,
-  "2023-12-24": 53325,
-  "2023-12-25": 53335,
-  "2023-12-26": 53347,
-  "2023-12-27": 53367,
-  "2023-12-30": 53438,
-  "2023-12-31": 53462,
-  "2024-01-01": 53472,
-  "2024-01-02": 53485,
-  "2024-01-03": 53492
+  "2024-01-17": 53591,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Carnaval",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 173000,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/7rSQQD13gfhbidmiCfrKpH"
+    },
+    {
+      "album": {
+        "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
+        "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153680,
+      "name": "A Ver A Qu\u00e9 Horas - En Vivo",
+      "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
+    },
+    {
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124960,
+      "name": "Ah\u00ed Les Encargo",
+      "url": "https://open.spotify.com/track/0kiGIbCbOmQPl7a5SZhnzI"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 182853,
+      "name": "Ando Que Me Lleva - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71e45Mjq3Tlda9o2J9Xv4n"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "As\u00ed Te Necesito",
+      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
+    },
+    {
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 206960,
+      "name": "A\u00f1os Sin Saber De Ti",
+      "url": "https://open.spotify.com/track/2WN2nNe4mYDA5uIOKxLMpq"
+    },
+    {
+      "album": {
+        "name": "Borracho Conocido",
+        "url": "https://open.spotify.com/album/07LeiBjD41ESGL4zF8qGVY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 135013,
+      "name": "Borracho Conocido",
+      "url": "https://open.spotify.com/track/6zVz0ihJiJse2eGIhUbAFb"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 179120,
+      "name": "Bote De Cerveza",
+      "url": "https://open.spotify.com/track/21xeMj9uwa9cCJnk4qznRP"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "album": {
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/62cNdvz0c0wDqgp4imMhpI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242786,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
+    },
+    {
+      "album": {
+        "name": "Cosas De La Peda",
+        "url": "https://open.spotify.com/album/4eyKTMJHSOkBASyTf2fDnr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Cosas De La Peda",
+      "url": "https://open.spotify.com/track/0756e1uD52MeG9AaRir5tF"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+    },
+    {
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138760,
+      "name": "De Buen Perfil",
+      "url": "https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO"
+    },
+    {
+      "album": {
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 166586,
+      "name": "El Becerro - En Vivo",
+      "url": "https://open.spotify.com/track/5afvrWUik1xfcvUrItN7Xm"
+    },
+    {
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191560,
+      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
+    },
+    {
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "El Cajoncito - En Vivo",
+      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
+    },
+    {
+      "album": {
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354240,
+      "name": "El Coyotito Medley - En Vivo/Medley",
+      "url": "https://open.spotify.com/track/0dmv8pv7JhxIJtaukiBeGJ"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130906,
+      "name": "El Magnate",
+      "url": "https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "El Mentiroso",
+      "url": "https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "El N\u00famero 1",
+      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fasticos (En Vivo)",
+        "url": "https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 200560,
+      "name": "El N\u00famero 1 - En Vivo",
+      "url": "https://open.spotify.com/track/0bcmcH4Dw3hizwWB7JKdSE"
+    },
+    {
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221146,
+      "name": "El Prisionero De La Celda 909",
+      "url": "https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5"
+    },
+    {
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 240840,
+      "name": "El Problema Es Tuyo",
+      "url": "https://open.spotify.com/track/5T47U3UcQ4RyjXYamMxMFW"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140453,
+      "name": "El Que Se Enamora Pierde",
+      "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Ella Es Mi Mujer",
+      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "En Qu\u00e9 Cabeza Cabe",
+      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Encontrarte",
+      "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Entre Ella Y T\u00fa",
+      "url": "https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 166840,
+      "name": "Entre La Lluvia Y Mi Llorar - En Vivo",
+      "url": "https://open.spotify.com/track/2yPC0Jqy4TyU6As3laVefc"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253053,
+      "name": "Esta Vez Soy Yo",
+      "url": "https://open.spotify.com/track/65faC3lVw7RvGuaMv82NxS"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 217413,
+      "name": "Esta Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0KpDXM7rU7Mbjy7u2ZiAoE"
+    },
+    {
+      "album": {
+        "name": "Fibras Sensibles",
+        "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Fibras Sensibles",
+      "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
+    },
+    {
+      "album": {
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148186,
+      "name": "Gente Batallosa",
+      "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 157133,
+      "name": "Hermosa Y Brillante",
+      "url": "https://open.spotify.com/track/4vQrwbsmnpxBMtj19jSbNU"
+    },
+    {
+      "album": {
+        "name": "Corridos De Alto Calibre (Vol. II)",
+        "url": "https://open.spotify.com/album/7wqVdv2T7Z7b1vDyRSjcIk"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/6iO3I852AXG3gZj5AdRxyX"
+    },
+    {
+      "album": {
+        "name": "Juan Ramos",
+        "url": "https://open.spotify.com/album/2BoOPZVDZePvxvTrVq2Fjn"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 175280,
+      "name": "Juan Ramos",
+      "url": "https://open.spotify.com/track/6J0AKwjpG3s2rvnPuFMvjS"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "La Doble Cara",
+      "url": "https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "La Historia De Mis Manos",
+      "url": "https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 163573,
+      "name": "La Piola",
+      "url": "https://open.spotify.com/track/7BavzVtmVuYtM3pV3xXvFR"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 204653,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/0epRumtLjExXKVCdnzxxDx"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 155333,
+      "name": "La Repetidora",
+      "url": "https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 179800,
+      "name": "Lo Que Nos Pas\u00f3",
+      "url": "https://open.spotify.com/track/4NpuPjCAp6J1lOvbV1OiHf"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Lo Que Pienso De Ti",
+      "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 173773,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/3tNN1pG4SrRNvRUzYD52g6"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Los Ninis",
+      "url": "https://open.spotify.com/track/2nGg4W9aN3awoVL2Y5dmve"
+    },
+    {
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157906,
+      "name": "Me Perd\u00ed De Un Amor",
+      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
+    },
+    {
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 287893,
+      "name": "Me Piden - En Vivo",
+      "url": "https://open.spotify.com/track/7eUkofrlYpIG8qK0GaXCF8"
+    },
+    {
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
+    },
+    {
+      "album": {
+        "name": "Mi Ranchito",
+        "url": "https://open.spotify.com/album/6UVu1KkkBpNHqdmVWQBNXb"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 139506,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/2G5oALhCFdtyX2f21RFjAh"
+    },
+    {
+      "album": {
+        "name": "Tributo Al Amo De La Banda",
+        "url": "https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 139973,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/49vhRf1PdCqTM6zhqABP9m"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 145920,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/0D6F8YIA0dTfhDhpokALgA"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 187720,
+      "name": "Mis Dos Vicios",
+      "url": "https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Olvidarte No Ser\u00e1 Sencillo",
+      "url": "https://open.spotify.com/track/28G1NMKWboIAlzSo7O0eT7"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Olvidarte, \u00bfC\u00f3mo?",
+      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 191640,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/1ZHeQ45MzbjfN2mz1l375g"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 153640,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 213520,
+      "name": "Porque Me Importas",
+      "url": "https://open.spotify.com/track/6078F7dFzJzLEKshvo9zgd"
+    },
+    {
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/6PjcA0YN8Tz9JcVjOeWid0"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 191773,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/0aI1wUPVSvg8MKQAPL0baz"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 222746,
+      "name": "Rendido A Tus Pies",
+      "url": "https://open.spotify.com/track/6CxTdAoG4OX4gvnoonTudO"
+    },
+    {
+      "album": {
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
+    },
+    {
+      "album": {
+        "name": "Se Est\u00e1 Muriendo Un Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Se Est\u00e1 Muriendo Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef"
+    },
+    {
+      "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 216200,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/5O5vy1yeRas4o7JYgdKPu2"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/5SHrspInTsWfV2u8lRUqk3"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 215600,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/0Wf6gRHcdfnKxDvYo9HPmI"
+    },
+    {
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "Te Cambio El Domicilio",
+      "url": "https://open.spotify.com/track/0ZAt82YCldAohnHnS9h1na"
+    },
+    {
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181706,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/5ePGMH85WfvJplfjx8Qf2t"
+    },
+    {
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 230520,
+      "name": "Tus Manos Son Mi Voz",
+      "url": "https://open.spotify.com/track/425uyB82GDHyiJRguCb4vi"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "Vas A Estar Bien",
+      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 185866,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/28DJPWV7RkA4TkX8z1NHfl"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 158826,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N"
+    },
+    {
+      "album": {
+        "name": "Vidita M\u00eda",
+        "url": "https://open.spotify.com/album/6igpMSmxfgA1dSIs0lSVtB"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 194600,
+      "name": "Vidita M\u00eda",
+      "url": "https://open.spotify.com/track/1EihKmeWn94bXue3CeHrJ1"
+    },
+    {
+      "album": {
+        "name": "Volver A Volar",
+        "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Banda La Ejecutiva",
+          "url": "https://open.spotify.com/artist/1ROmrzMDt3ZdBSwtNGBaSy"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Emir Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/2WLxRZFk4tyKg9CCp5m7lB"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        },
+        {
+          "name": "Grupo Sigma",
+          "url": "https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j"
+        },
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Figueroa",
+          "url": "https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF"
+        },
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Volver A Volar",
+      "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
+    },
+    {
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 233546,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/4LlLsV4tAVb40iglBkFDfl"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fasticos (En Vivo)",
+        "url": "https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 262533,
+      "name": "Vuelve, Vuelve - En Vivo",
+      "url": "https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF"
+    },
+    {
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223920,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Ya Me Sirvi\u00f3 De Experiencia",
+      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
+    },
+    {
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 208653,
+      "name": "Ya Me Vi Contigo",
+      "url": "https://open.spotify.com/track/3wvf2xLgmbgJIFyKuJVH3R"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "\u00bfC\u00f3mo Le Digo?",
+      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0nhYBDq7AGkaOFqrqYwN2I"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
+      "url": "https://open.spotify.com/track/6kKP6onITDDHShtAeOFRRt"
+    },
+    {
+      "album": {
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 161493,
+      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
+      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
+    },
+    {
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 201893,
+      "name": "\u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/4ApLEBkOlTh2KSwocjsULe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0"
 }

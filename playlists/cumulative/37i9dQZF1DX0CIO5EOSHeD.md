@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: feeble little horse
 
-379 songs - 20 hr 26 min
+380 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Highgate](https://open.spotify.com/track/4X5EzwTTLPAToRZS6uiell) | [L.A\. Sunday](https://open.spotify.com/artist/67vleotEEIwW5ymCQZFsOm) | [Highgate](https://open.spotify.com/album/3UVuoj13S3kbhWoPFTwEaU) | 2:26 | 2020-10-27\* | 2021-02-26 |
 | [Holiday Morning](https://open.spotify.com/track/3HJ06iTEB6DLB2S21sD0cg) | [Lazy Panda](https://open.spotify.com/artist/3zr6fVc1AndCi8ANwuk1cz) | [Holiday Morning](https://open.spotify.com/album/2s2rQCASIurpQEsM3ctyVI) | 1:32 | 2021-12-09 | 2022-04-26 |
 | [Home, runaway](https://open.spotify.com/track/5rghlBrjayTLBHmnsEO3Sx) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Home, runaway](https://open.spotify.com/album/695tCxZAPzCzVsy9w5XNCA) | 2:45 | 2021-09-03 | 2021-11-26 |
-| [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 | 2020-10-27\* |  |
+| [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 | 2020-10-27\* | 2024-01-17 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-27\* | 2022-07-29 |
 | [How to Have Fun](https://open.spotify.com/track/6jaxe5HpttOQVccAOqAMyq) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [How to Have Fun](https://open.spotify.com/album/0NXtoR3OrvS8Jfr3PkAl7g) | 3:31 | 2021-01-12 | 2022-07-29 |
 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 | 2021-04-29 |  |
@@ -243,6 +243,7 @@
 | [New York, Paris and London](https://open.spotify.com/track/1qz48hLN202OabIYOSkCFZ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO) | 3:26 | 2022-03-30 | 2023-07-09 |
 | [New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/3y08i0cgjlrH4Ca44CcdW7) | 3:26 | 2023-07-21 |  |
 | [New York, Paris and London](https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [New York, Paris and London](https://open.spotify.com/album/27hf9gYYN7sQ39oHHttwKB) | 3:26 | 2021-09-25 | 2022-07-28 |
+| [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 | 2023-12-02 |  |
 | [No Emotion](https://open.spotify.com/track/38a35dNALuJ3KGJ78lPXnz) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [No Emotion](https://open.spotify.com/album/205rzsc3VKhbpwTZHcexJH) | 2:55 | 2021-01-12 | 2021-02-26 |
 | [No Other Like You](https://open.spotify.com/track/0jwx104ASJH2nhF0RYTP55) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [No Other Like You](https://open.spotify.com/album/6kCIF9VWB5bJXQZpZlDv8e) | 3:28 | 2020-10-27\* | 2021-02-06 |
 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 | 2021-08-14 | 2023-01-15 |

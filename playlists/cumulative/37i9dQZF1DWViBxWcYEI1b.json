@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Dermot Kennedy",
+  "description": "For those with a taste for both the new and the classic. Cover: The Strumbellas",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -113,7 +113,7 @@
     },
     {
       "album": {
-        "name": "28 (with Dean Lewis)",
+        "name": "28",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
       "artists": [
@@ -130,7 +130,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208293,
-      "name": "28 - with Dean Lewis",
+      "name": "28",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 192207,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 159061,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6eLq9zMQ2iykSYmQSKyNGU"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 169721,
       "name": "as good a reason",
       "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 144752,
       "name": "bumpercar",
       "url": "https://open.spotify.com/track/7zBRgPUID7ERXyims1BufW"
@@ -4514,7 +4514,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 185480,
       "name": "Driving To Nowhere",
       "url": "https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26"
@@ -5054,6 +5054,24 @@
       "duration_ms": 246111,
       "name": "Everything is Fine",
       "url": "https://open.spotify.com/track/0FXrF08gtaPJA85kzaplzq"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4Duw84CjAvQ1DVfoEJR4tG"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266155,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/3khZfJxwsaXAPM4riEPHZB"
     },
     {
       "album": {
@@ -6451,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "hate myself for loving you",
+        "url": "https://open.spotify.com/album/4xcOAflH4IJ6aIPhy97PP5"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Arromba",
+          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176902,
+      "name": "hate myself for loving you",
+      "url": "https://open.spotify.com/track/79HlmezH9GAca2eY8gWQET"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
@@ -6970,7 +7006,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 172446,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
@@ -7072,6 +7108,24 @@
       "duration_ms": 252321,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/1mehm3BmnM8OKxmXonqcFc"
+    },
+    {
+      "album": {
+        "name": "Holster",
+        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180925,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
     },
     {
       "album": {
@@ -7256,6 +7310,24 @@
       "duration_ms": 201614,
       "name": "Howling At The Moon",
       "url": "https://open.spotify.com/track/3j1ImEmb1m5qI03UO7c8yV"
+    },
+    {
+      "album": {
+        "name": "Hungry Heart",
+        "url": "https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140186,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx"
     },
     {
       "album": {
@@ -7472,6 +7544,24 @@
       "duration_ms": 217133,
       "name": "I Don't Miss You",
       "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
+    },
+    {
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220676,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
     },
     {
       "album": {
@@ -9347,6 +9437,24 @@
     },
     {
       "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/0LtiWJtia4RzExzAsQvQLv"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/4VrZBc2Awl4kRcAG0TK5Zw"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -9782,6 +9890,24 @@
       "duration_ms": 194181,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0NMS0WFFMlNhEkJKuXfddr"
+    },
+    {
+      "album": {
+        "name": "Lonely People",
+        "url": "https://open.spotify.com/album/4bNFxdUVVkrmrSLf77im7T"
+      },
+      "artists": [
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175978,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/2GytDaWfMe09yBJ8KusZPz"
     },
     {
       "album": {
@@ -10380,7 +10506,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 225360,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
@@ -13025,6 +13151,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201071,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o"
+    },
+    {
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/7l8eJgDHwsou41aee14q2I"
       },
@@ -13398,6 +13542,24 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164063,
+      "name": "run for the hills (Spotify OUTSIDE Version) - Live from Malibu",
+      "url": "https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB"
     },
     {
       "album": {
@@ -14762,7 +14924,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
@@ -15480,7 +15642,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
@@ -16564,6 +16726,24 @@
       "duration_ms": 184266,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3hjceC6B76wOAd7q72gpzL"
+    },
+    {
+      "album": {
+        "name": "Want You More",
+        "url": "https://open.spotify.com/album/1MCbSXye5vHrHtU7jcNklY"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Want You More",
+      "url": "https://open.spotify.com/track/5bUUCAdoGDgF3IzfX4mRCd"
     },
     {
       "album": {
@@ -17694,7 +17874,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"

@@ -1,319 +1,3681 @@
 {
-  "2023-02-18": 39,
-  "2023-02-19": 44,
-  "2023-02-20": 78,
-  "2023-02-21": 112,
-  "2023-02-22": 187,
-  "2023-02-23": 255,
-  "2023-02-24": 347,
-  "2023-02-25": 459,
-  "2023-02-26": 521,
-  "2023-02-27": 678,
-  "2023-02-28": 678,
-  "2023-03-01": 759,
-  "2023-03-02": 842,
-  "2023-03-03": 961,
-  "2023-03-04": 1070,
-  "2023-03-05": 1328,
-  "2023-03-06": 1328,
-  "2023-03-07": 1460,
-  "2023-03-08": 1605,
-  "2023-03-09": 1740,
-  "2023-03-10": 1852,
-  "2023-03-11": 1978,
-  "2023-03-12": 2108,
-  "2023-03-13": 2251,
-  "2023-03-14": 2391,
-  "2023-03-15": 2540,
-  "2023-03-16": 2670,
-  "2023-03-17": 2670,
-  "2023-03-18": 2909,
-  "2023-03-19": 3016,
-  "2023-03-20": 3142,
-  "2023-03-21": 3258,
-  "2023-03-22": 3372,
-  "2023-03-23": 3471,
-  "2023-03-24": 3471,
-  "2023-03-25": 3694,
-  "2023-03-26": 3795,
-  "2023-03-27": 3908,
-  "2023-03-28": 4004,
-  "2023-03-29": 4094,
-  "2023-03-30": 4270,
-  "2023-03-31": 4270,
-  "2023-04-01": 4358,
-  "2023-04-02": 4464,
-  "2023-04-03": 4565,
-  "2023-04-04": 4650,
-  "2023-04-05": 4749,
-  "2023-04-06": 4861,
-  "2023-04-07": 4940,
-  "2023-04-09": 5082,
-  "2023-04-10": 5151,
-  "2023-04-11": 5308,
-  "2023-04-12": 5308,
-  "2023-04-13": 5394,
-  "2023-04-14": 5469,
-  "2023-04-15": 5548,
-  "2023-04-16": 5633,
-  "2023-04-17": 5697,
-  "2023-04-18": 5778,
-  "2023-04-19": 5863,
-  "2023-04-20": 5957,
-  "2023-04-21": 6026,
-  "2023-04-22": 6102,
-  "2023-04-23": 6167,
-  "2023-04-24": 6250,
-  "2023-04-25": 6317,
-  "2023-04-26": 6399,
-  "2023-04-27": 6459,
-  "2023-04-28": 6540,
-  "2023-04-29": 6616,
-  "2023-04-30": 6703,
-  "2023-05-01": 6778,
-  "2023-05-02": 6814,
-  "2023-05-03": 6872,
-  "2023-05-04": 6935,
-  "2023-05-05": 6998,
-  "2023-05-06": 7077,
-  "2023-05-07": 7133,
-  "2023-05-08": 7187,
-  "2023-05-09": 7284,
-  "2023-05-10": 7358,
-  "2023-05-11": 7421,
-  "2023-05-12": 7484,
-  "2023-05-13": 7531,
-  "2023-05-14": 7577,
-  "2023-05-15": 7633,
-  "2023-05-16": 7687,
-  "2023-05-17": 7743,
-  "2023-05-18": 7811,
-  "2023-05-19": 7900,
-  "2023-05-20": 8032,
-  "2023-05-21": 8032,
-  "2023-05-22": 8032,
-  "2023-05-23": 8161,
-  "2023-05-24": 8290,
-  "2023-05-25": 8303,
-  "2023-05-26": 8367,
-  "2023-05-27": 8420,
-  "2023-05-28": 8462,
-  "2023-05-29": 8462,
-  "2023-05-30": 8548,
-  "2023-05-31": 8598,
-  "2023-06-01": 8651,
-  "2023-06-02": 8709,
-  "2023-06-03": 8749,
-  "2023-06-04": 8778,
-  "2023-06-05": 8839,
-  "2023-06-06": 8894,
-  "2023-06-07": 8949,
-  "2023-06-08": 8999,
-  "2023-06-09": 9056,
-  "2023-06-10": 9107,
-  "2023-06-11": 9151,
-  "2023-06-12": 9183,
-  "2023-06-13": 9237,
-  "2023-06-14": 9237,
-  "2023-06-15": 9321,
-  "2023-06-16": 9368,
-  "2023-06-17": 9414,
-  "2023-06-18": 9450,
-  "2023-06-19": 9479,
-  "2023-06-20": 9534,
-  "2023-06-21": 9598,
-  "2023-06-22": 9644,
-  "2023-06-23": 9689,
-  "2023-06-24": 9735,
-  "2023-06-25": 9775,
-  "2023-06-26": 9821,
-  "2023-06-27": 9875,
-  "2023-06-28": 9929,
-  "2023-06-29": 9978,
-  "2023-06-30": 10022,
-  "2023-07-01": 10118,
-  "2023-07-02": 10118,
-  "2023-07-03": 10168,
-  "2023-07-04": 10204,
-  "2023-07-05": 10253,
-  "2023-07-06": 10365,
-  "2023-07-07": 10365,
-  "2023-07-08": 10403,
-  "2023-07-09": 10445,
-  "2023-07-10": 10487,
-  "2023-07-11": 10529,
-  "2023-07-12": 10556,
-  "2023-07-13": 10615,
-  "2023-07-14": 10670,
-  "2023-07-15": 10707,
-  "2023-07-16": 10758,
-  "2023-07-17": 10798,
-  "2023-07-18": 10844,
-  "2023-07-19": 10899,
-  "2023-07-20": 10941,
-  "2023-07-21": 10982,
-  "2023-07-22": 11021,
-  "2023-07-23": 11068,
-  "2023-07-24": 11127,
-  "2023-07-25": 11166,
-  "2023-07-26": 11197,
-  "2023-07-27": 11257,
-  "2023-07-28": 11294,
-  "2023-07-29": 11330,
-  "2023-07-30": 11378,
-  "2023-07-31": 11425,
-  "2023-08-01": 11478,
-  "2023-08-02": 11544,
-  "2023-08-03": 11620,
-  "2023-08-04": 11688,
-  "2023-08-05": 11740,
-  "2023-08-06": 11854,
-  "2023-08-07": 11854,
-  "2023-08-08": 11910,
-  "2023-08-09": 11969,
-  "2023-08-10": 12030,
-  "2023-08-11": 12092,
-  "2023-08-12": 12147,
-  "2023-08-13": 12187,
-  "2023-08-14": 12240,
-  "2023-08-15": 12327,
-  "2023-08-16": 12327,
-  "2023-08-17": 12394,
-  "2023-08-18": 12447,
-  "2023-08-19": 12483,
-  "2023-08-20": 12543,
-  "2023-08-21": 12605,
-  "2023-08-22": 12650,
-  "2023-08-23": 12709,
-  "2023-08-24": 12777,
-  "2023-08-25": 12843,
-  "2023-08-26": 12896,
-  "2023-08-27": 12951,
-  "2023-08-28": 13006,
-  "2023-08-29": 13067,
-  "2023-08-30": 13128,
-  "2023-08-31": 13199,
-  "2023-09-01": 13382,
-  "2023-09-02": 13382,
-  "2023-09-03": 13434,
-  "2023-09-04": 13522,
-  "2023-09-05": 13639,
-  "2023-09-06": 13752,
-  "2023-09-07": 13829,
-  "2023-09-08": 13910,
-  "2023-09-09": 13993,
-  "2023-09-10": 14090,
-  "2023-09-11": 14185,
-  "2023-09-12": 14274,
-  "2023-09-13": 14393,
-  "2023-09-14": 14480,
-  "2023-09-15": 14570,
-  "2023-09-16": 14663,
-  "2023-09-17": 14762,
-  "2023-09-18": 14864,
-  "2023-09-19": 14970,
-  "2023-09-20": 15062,
-  "2023-09-21": 15164,
-  "2023-09-22": 15256,
-  "2023-09-23": 15339,
-  "2023-09-24": 15418,
-  "2023-09-25": 15500,
-  "2023-09-26": 15586,
-  "2023-09-27": 15641,
-  "2023-09-28": 15707,
-  "2023-09-29": 15770,
-  "2023-09-30": 15841,
-  "2023-10-01": 15966,
-  "2023-10-02": 16073,
-  "2023-10-03": 16175,
-  "2023-10-04": 16290,
-  "2023-10-05": 16426,
-  "2023-10-06": 16529,
-  "2023-10-07": 16626,
-  "2023-10-08": 16725,
-  "2023-10-09": 16837,
-  "2023-10-10": 16940,
-  "2023-10-11": 17128,
-  "2023-10-12": 17128,
-  "2023-10-13": 17216,
-  "2023-10-14": 17297,
-  "2023-10-15": 17389,
-  "2023-10-16": 17491,
-  "2023-10-17": 17593,
-  "2023-10-18": 17687,
-  "2023-10-19": 17773,
-  "2023-10-20": 17872,
-  "2023-10-21": 17955,
-  "2023-10-22": 18048,
-  "2023-10-23": 18135,
-  "2023-10-24": 18238,
-  "2023-10-25": 18329,
-  "2023-10-26": 18411,
-  "2023-10-27": 18525,
-  "2023-10-28": 18606,
-  "2023-10-29": 18687,
-  "2023-10-30": 18867,
-  "2023-10-31": 18867,
-  "2023-11-01": 18967,
-  "2023-11-02": 19081,
-  "2023-11-03": 19201,
-  "2023-11-04": 19317,
-  "2023-11-05": 19419,
-  "2023-11-06": 19517,
-  "2023-11-07": 19627,
-  "2023-11-08": 19748,
-  "2023-11-09": 19874,
-  "2023-11-10": 19997,
-  "2023-11-11": 20099,
-  "2023-11-12": 20182,
-  "2023-11-13": 20285,
-  "2023-11-14": 20408,
-  "2023-11-15": 20408,
-  "2023-11-16": 20638,
-  "2023-11-17": 20856,
-  "2023-11-18": 20856,
-  "2023-11-19": 20988,
-  "2023-11-20": 21093,
-  "2023-11-21": 21210,
-  "2023-11-22": 21339,
-  "2023-11-23": 21455,
-  "2023-11-24": 21573,
-  "2023-11-25": 21650,
-  "2023-11-26": 21753,
-  "2023-11-27": 21855,
-  "2023-11-28": 21959,
-  "2023-11-29": 22196,
-  "2023-11-30": 22196,
-  "2023-12-01": 22314,
-  "2023-12-02": 22404,
-  "2023-12-03": 22512,
-  "2023-12-04": 22588,
-  "2023-12-05": 22675,
-  "2023-12-06": 22755,
-  "2023-12-07": 22822,
-  "2023-12-08": 22884,
-  "2023-12-09": 22939,
-  "2023-12-10": 22998,
-  "2023-12-11": 23073,
-  "2023-12-12": 23131,
-  "2023-12-13": 23187,
-  "2023-12-14": 23235,
-  "2023-12-15": 23259,
-  "2023-12-16": 23314,
-  "2023-12-17": 23353,
-  "2023-12-18": 23408,
-  "2023-12-19": 23459,
-  "2023-12-20": 23511,
-  "2023-12-21": 23564,
-  "2023-12-22": 23625,
-  "2023-12-23": 23689,
-  "2023-12-24": 23745,
-  "2023-12-25": 23798,
-  "2023-12-26": 23853,
-  "2023-12-27": 23911,
-  "2023-12-30": 24141,
-  "2023-12-31": 24224,
-  "2024-01-01": 24277,
-  "2024-01-02": 24355,
-  "2024-01-03": 24433
+  "2024-01-17": 25881,
+  "date_first_scraped": "2023-02-18",
+  "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
+  "name": "Wellness (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "432 Hz Delta Earth",
+        "url": "https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Sorrow",
+          "url": "https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142422,
+      "name": "432 Hz Delta Earth",
+      "url": "https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6"
+    },
+    {
+      "album": {
+        "name": "432 Hz Serenity Embrace",
+        "url": "https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh"
+      },
+      "artists": [
+        {
+          "name": "Juni Willow",
+          "url": "https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161647,
+      "name": "432 Hz Serenity Embrace",
+      "url": "https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj"
+    },
+    {
+      "album": {
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
+    },
+    {
+      "album": {
+        "name": "528 Hz - Depth",
+        "url": "https://open.spotify.com/album/4I6ywVOrEHtslVrCFC3tI8"
+      },
+      "artists": [
+        {
+          "name": "Willow Bird",
+          "url": "https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "528 Hz - Depth",
+      "url": "https://open.spotify.com/track/4wir6hzWdheNZVGQQMOrih"
+    },
+    {
+      "album": {
+        "name": "528 Hz Well Being",
+        "url": "https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp"
+      },
+      "artists": [
+        {
+          "name": "Rigby Jay",
+          "url": "https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181587,
+      "name": "528 Hz Well Being",
+      "url": "https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb"
+    },
+    {
+      "album": {
+        "name": "528 Hz \u2013 Delta",
+        "url": "https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "528 Hz \u2013 Delta",
+      "url": "https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL"
+    },
+    {
+      "album": {
+        "name": "A Peaceful Spirit",
+        "url": "https://open.spotify.com/album/7DUxxvDEhFeJshVETcb2uz"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 182951,
+      "name": "A Peaceful Spirit",
+      "url": "https://open.spotify.com/track/1ixzC6gMewFfnpGIR8tWuV"
+    },
+    {
+      "album": {
+        "name": "A Time To Pause",
+        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "A Time To Pause",
+      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
+    },
+    {
+      "album": {
+        "name": "Acoustic Valley",
+        "url": "https://open.spotify.com/album/24xzmt0JEDqo62DwXLUmlc"
+      },
+      "artists": [
+        {
+          "name": "Blauberg Calm",
+          "url": "https://open.spotify.com/artist/78Z2LNd3NigoMoYVYBSi8P"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Acoustic Valley",
+      "url": "https://open.spotify.com/track/2Fy8l9obAALKtJHe3IDP67"
+    },
+    {
+      "album": {
+        "name": "Aeonian Hope",
+        "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
+      },
+      "artists": [
+        {
+          "name": "The Peace Within",
+          "url": "https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Aeonian Hope",
+      "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "album": {
+        "name": "Aethaerum",
+        "url": "https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI"
+      },
+      "artists": [
+        {
+          "name": "Ayala Cola",
+          "url": "https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Aethaerum",
+      "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
+    },
+    {
+      "album": {
+        "name": "Afternoon in Gelug",
+        "url": "https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE"
+      },
+      "artists": [
+        {
+          "name": "Tibetan Tribe",
+          "url": "https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Afternoon in Gelug",
+      "url": "https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW"
+    },
+    {
+      "album": {
+        "name": "Alchemy of Peace 528 Hz",
+        "url": "https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Alchemy of Peace 528 Hz",
+      "url": "https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI"
+    },
+    {
+      "album": {
+        "name": "Algol",
+        "url": "https://open.spotify.com/album/0eeHbe3k3GE4uPXSGxdtdN"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Algol",
+      "url": "https://open.spotify.com/track/0WrV4m8QUHlbW9UuZm4G58"
+    },
+    {
+      "album": {
+        "name": "All Love 432 Hz",
+        "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
+      },
+      "artists": [
+        {
+          "name": "Emeli Saga",
+          "url": "https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187202,
+      "name": "All Love 432 Hz",
+      "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
+    },
+    {
+      "album": {
+        "name": "Alternating Current",
+        "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
+      },
+      "artists": [
+        {
+          "name": "Heriela",
+          "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242060,
+      "name": "Alternating Current",
+      "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
+    },
+    {
+      "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/0veARGclLULEvfaKbbLr0H"
+      },
+      "artists": [
+        {
+          "name": "Voyage Control",
+          "url": "https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "Ananda",
+      "url": "https://open.spotify.com/track/3uq6352VXgMMJ2VvVXLgI0"
+    },
+    {
+      "album": {
+        "name": "Ancient Garden",
+        "url": "https://open.spotify.com/album/6aZcDITWn4nEmUo5eq5bZ1"
+      },
+      "artists": [
+        {
+          "name": "Tom Vode",
+          "url": "https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 198051,
+      "name": "Ancient Garden",
+      "url": "https://open.spotify.com/track/7bkGyNEmJN1oDKe90FeuGt"
+    },
+    {
+      "album": {
+        "name": "Ancient Prayer",
+        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
+      },
+      "artists": [
+        {
+          "name": "Aura Lynx",
+          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176796,
+      "name": "Ancient Prayer",
+      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
+    },
+    {
+      "album": {
+        "name": "Apaisantes",
+        "url": "https://open.spotify.com/album/4aQuLGuuYxdFj4gjl7I2TB"
+      },
+      "artists": [
+        {
+          "name": "Pierrette Tremblay",
+          "url": "https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134310,
+      "name": "Apaisantes",
+      "url": "https://open.spotify.com/track/3713Dlm0BpTyUr1UmIhpk7"
+    },
+    {
+      "album": {
+        "name": "Arc of shadow",
+        "url": "https://open.spotify.com/album/3u6nn2MB8OvuKYHyiVAu0U"
+      },
+      "artists": [
+        {
+          "name": "Willow Close",
+          "url": "https://open.spotify.com/artist/3Z1wgazqU2FEU6Ghx7deIM"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153051,
+      "name": "Arc of shadow",
+      "url": "https://open.spotify.com/track/0ybNLWRa48C22VeZzq0b3m"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1u7Nad8QXxhyWPKLagu95M"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 191197,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/3Exl78B577DFANwmYM3bY4"
+    },
+    {
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+    },
+    {
+      "album": {
+        "name": "Asana",
+        "url": "https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Asana",
+      "url": "https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc"
+    },
+    {
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154751,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw"
+    },
+    {
+      "album": {
+        "name": "Astral Devotion",
+        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217274,
+      "name": "Astral Devotion - Spa 432Hz",
+      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
+    },
+    {
+      "album": {
+        "name": "Aura Sound Bath",
+        "url": "https://open.spotify.com/album/5aIwEEosN0woun4BzkMawo"
+      },
+      "artists": [
+        {
+          "name": "Spirit Garden",
+          "url": "https://open.spotify.com/artist/21ADT1cKkGhiB070brX819"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 186337,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/5kv8YaBfm2SZQk8YRPjXy5"
+    },
+    {
+      "album": {
+        "name": "Awakening Gaia",
+        "url": "https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X"
+      },
+      "artists": [
+        {
+          "name": "Juno Yang",
+          "url": "https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141874,
+      "name": "Awakening Gaia",
+      "url": "https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU"
+    },
+    {
+      "album": {
+        "name": "A\u00fan",
+        "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
+      },
+      "artists": [
+        {
+          "name": "Didio Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "A\u00fan",
+      "url": "https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153010,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0"
+    },
+    {
+      "album": {
+        "name": "Before Sunrise",
+        "url": "https://open.spotify.com/album/7s07QhYbfveHtORoHGGnr0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Nieminen",
+          "url": "https://open.spotify.com/artist/6NNzUhgjyPoZBtFy3VtqK7"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 267750,
+      "name": "Before Sunrise",
+      "url": "https://open.spotify.com/track/2cYp7CBDKMhyEwUgFzXUw5"
+    },
+    {
+      "album": {
+        "name": "Beyond Thought",
+        "url": "https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b"
+      },
+      "artists": [
+        {
+          "name": "Astral Shade",
+          "url": "https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Beyond Thought",
+      "url": "https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq"
+    },
+    {
+      "album": {
+        "name": "Big Sky",
+        "url": "https://open.spotify.com/album/2eVYfkj9FfLamFXSQB76fe"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/1pBLOl4l4pNgejlBywS0jz"
+    },
+    {
+      "album": {
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
+      },
+      "artists": [
+        {
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
+    },
+    {
+      "album": {
+        "name": "Blissful Pulses",
+        "url": "https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY"
+      },
+      "artists": [
+        {
+          "name": "astral rhythms",
+          "url": "https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 200000,
+      "name": "Blissful Pulses",
+      "url": "https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF"
+    },
+    {
+      "album": {
+        "name": "Beneath The Waves",
+        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186571,
+      "name": "Blue Reef",
+      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
+    },
+    {
+      "album": {
+        "name": "Healing Clarity EMDR",
+        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Breakthrough (EMDR)",
+      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ"
+      },
+      "artists": [
+        {
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190382,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4L1ZCIt38M2mnII7Sn87ca"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 370000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4K3hd7S53f3HiYN7LggDWL"
+    },
+    {
+      "album": {
+        "name": "Breathe With Me",
+        "url": "https://open.spotify.com/album/1fujTK186d1YXh85ub1jQD"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 216084,
+      "name": "Breathe With Me",
+      "url": "https://open.spotify.com/track/5Yg8xfu4paQ3HLeYsHYL3A"
+    },
+    {
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW"
+      },
+      "artists": [
+        {
+          "name": "Hontoni",
+          "url": "https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D"
+    },
+    {
+      "album": {
+        "name": "Breeze out",
+        "url": "https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Breeze out",
+      "url": "https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT"
+    },
+    {
+      "album": {
+        "name": "BYND TME",
+        "url": "https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao"
+      },
+      "artists": [
+        {
+          "name": "Nico Via",
+          "url": "https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "BYND TME",
+      "url": "https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc"
+    },
+    {
+      "album": {
+        "name": "Calm Cosmos",
+        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "Calm Cosmos",
+      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
+    },
+    {
+      "album": {
+        "name": "Captain Speaking",
+        "url": "https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377250,
+      "name": "Captain Speaking",
+      "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
+    },
+    {
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
+    },
+    {
+      "album": {
+        "name": "Chakra",
+        "url": "https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD"
+      },
+      "artists": [
+        {
+          "name": "Maasoom",
+          "url": "https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130354,
+      "name": "Chakra",
+      "url": "https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN"
+    },
+    {
+      "album": {
+        "name": "Circle of Life",
+        "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164302,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
+    },
+    {
+      "album": {
+        "name": "Clear Mind - 432 Hz",
+        "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
+      },
+      "artists": [
+        {
+          "name": "Liilia Janes",
+          "url": "https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Clear Mind - 432 Hz",
+      "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
+    },
+    {
+      "album": {
+        "name": "Clear Thoughts",
+        "url": "https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn"
+      },
+      "artists": [
+        {
+          "name": "Enapay",
+          "url": "https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180107,
+      "name": "Clear Thoughts",
+      "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
+    },
+    {
+      "album": {
+        "name": "Green Haven",
+        "url": "https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q"
+      },
+      "artists": [
+        {
+          "name": "Marolo Ocean",
+          "url": "https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163436,
+      "name": "Clearing Your Mind",
+      "url": "https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as"
+    },
+    {
+      "album": {
+        "name": "Clearings",
+        "url": "https://open.spotify.com/album/60o397RIevLIAx8f17RRss"
+      },
+      "artists": [
+        {
+          "name": "Bellezza Eterna",
+          "url": "https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Clearings",
+      "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
+    },
+    {
+      "album": {
+        "name": "Coastal Route",
+        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195913,
+      "name": "Coastal Route",
+      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+    },
+    {
+      "album": {
+        "name": "Comfortable Ease",
+        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Comfortable Ease",
+      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
+    },
+    {
+      "album": {
+        "name": "Compass of Peace 528 Hz",
+        "url": "https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Compass of Peace 528 Hz",
+      "url": "https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k"
+    },
+    {
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
+      },
+      "artists": [
+        {
+          "name": "Heart Chakra",
+          "url": "https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+    },
+    {
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198529,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk"
+    },
+    {
+      "album": {
+        "name": "Dawn Of Day",
+        "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Dawn Of Day",
+      "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
+    },
+    {
+      "album": {
+        "name": "Dawn Of Tomorrow",
+        "url": "https://open.spotify.com/album/6Z0UF4HIF3PrwAjfm9gJt7"
+      },
+      "artists": [
+        {
+          "name": "Nima Noi",
+          "url": "https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195831,
+      "name": "Dawn Of Tomorrow",
+      "url": "https://open.spotify.com/track/3ofVagnPk4aGFmQRBQNv8x"
+    },
+    {
+      "album": {
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
+    },
+    {
+      "album": {
+        "name": "Devine Minds",
+        "url": "https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Devine Minds",
+      "url": "https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl"
+    },
+    {
+      "album": {
+        "name": "Devotions",
+        "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
+      },
+      "artists": [
+        {
+          "name": "Hans Heeler",
+          "url": "https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Devotions",
+      "url": "https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg"
+    },
+    {
+      "album": {
+        "name": "Dock Of A Bay",
+        "url": "https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j"
+      },
+      "artists": [
+        {
+          "name": "Jo Quinn",
+          "url": "https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Dock Of A Bay",
+      "url": "https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq"
+    },
+    {
+      "album": {
+        "name": "Dream for me",
+        "url": "https://open.spotify.com/album/16xkhJ4gPdifxksHPjsO1a"
+      },
+      "artists": [
+        {
+          "name": "Complete Rest",
+          "url": "https://open.spotify.com/artist/2O9ViMiZbzgVQqngtC9nZ1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "Dream for me",
+      "url": "https://open.spotify.com/track/0Ev8yzzWg7n6WIFeTrup5Q"
+    },
+    {
+      "album": {
+        "name": "Dream Spheres",
+        "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265500,
+      "name": "Dream Spheres",
+      "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
+    },
+    {
+      "album": {
+        "name": "Dreamlike",
+        "url": "https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu"
+      },
+      "artists": [
+        {
+          "name": "Narmada Shore",
+          "url": "https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195643,
+      "name": "Dreamlike",
+      "url": "https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe"
+    },
+    {
+      "album": {
+        "name": "Dreams of Calmness",
+        "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
+      },
+      "artists": [
+        {
+          "name": "Niigata",
+          "url": "https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Dreams of Calmness",
+      "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180052,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy"
+    },
+    {
+      "album": {
+        "name": "En Paz 432Hz",
+        "url": "https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173365,
+      "name": "En Paz 432Hz",
+      "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
+    },
+    {
+      "album": {
+        "name": "Evening Flute",
+        "url": "https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Flute",
+          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441000,
+      "name": "Evening Flute",
+      "url": "https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+      },
+      "artists": [
+        {
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "album": {
+        "name": "Fading Warmth",
+        "url": "https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs"
+      },
+      "artists": [
+        {
+          "name": "Ollwen",
+          "url": "https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155049,
+      "name": "Fading Warmth",
+      "url": "https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g"
+    },
+    {
+      "album": {
+        "name": "Finding Enoughness",
+        "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
+      },
+      "artists": [
+        {
+          "name": "Jnana Flow",
+          "url": "https://open.spotify.com/artist/33aq2Cw6FRGfOLULrery52"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142312,
+      "name": "Finding Enoughness",
+      "url": "https://open.spotify.com/track/23aFD6OAXEzALKUdUs8kz9"
+    },
+    {
+      "album": {
+        "name": "Universal Frequencies",
+        "url": "https://open.spotify.com/album/03UysC81uBe9yVlytuQqKa"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Floating Aura",
+      "url": "https://open.spotify.com/track/5RZLhIZPGMhexvfw2WtVwy"
+    },
+    {
+      "album": {
+        "name": "Floatsam Flow",
+        "url": "https://open.spotify.com/album/4IGNptNvnocPI7riYNZAQ0"
+      },
+      "artists": [
+        {
+          "name": "Bengretzi Beat",
+          "url": "https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 159101,
+      "name": "Floatsam Flow",
+      "url": "https://open.spotify.com/track/5pyTFtEdFg4mNGCgSeSFVk"
+    },
+    {
+      "album": {
+        "name": "Flores Del Cielo",
+        "url": "https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0"
+      },
+      "artists": [
+        {
+          "name": "Sonic Xaman",
+          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Flores Del Cielo",
+      "url": "https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/5kZP8fWRXfqlvIDtIMiFdN"
+      },
+      "artists": [
+        {
+          "name": "Akleia",
+          "url": "https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257454,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E"
+    },
+    {
+      "album": {
+        "name": "Flute Healing",
+        "url": "https://open.spotify.com/album/2WLGdW54SxOEUfwt8cKN64"
+      },
+      "artists": [
+        {
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Flute Healing",
+      "url": "https://open.spotify.com/track/1maXwY21BGb8odKKutfKGw"
+    },
+    {
+      "album": {
+        "name": "Flute Meditation",
+        "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224407,
+      "name": "Flute Meditation",
+      "url": "https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI"
+    },
+    {
+      "album": {
+        "name": "Fond Memories",
+        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Fond Memories",
+      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
+    },
+    {
+      "album": {
+        "name": "Forest Birds (432 Hz)",
+        "url": "https://open.spotify.com/album/5YnDpuAJC5i5twquxOngGg"
+      },
+      "artists": [
+        {
+          "name": "Hrothgar Tarek",
+          "url": "https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158504,
+      "name": "Forest Birds (432 Hz)",
+      "url": "https://open.spotify.com/track/0D2BU6MNxuMXLATPvRr0z8"
+    },
+    {
+      "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "album": {
+        "name": "Frihet Natur",
+        "url": "https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 178750,
+      "name": "Frihet Natur",
+      "url": "https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD"
+    },
+    {
+      "album": {
+        "name": "Chaturanga",
+        "url": "https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr"
+      },
+      "artists": [
+        {
+          "name": "Start Of Something Good",
+          "url": "https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 191355,
+      "name": "Garden Of Rhythm",
+      "url": "https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5"
+    },
+    {
+      "album": {
+        "name": "Garden of Tranquility",
+        "url": "https://open.spotify.com/album/08Ii4bNT3RExNzWsmzr3Tr"
+      },
+      "artists": [
+        {
+          "name": "SARAB",
+          "url": "https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 170181,
+      "name": "Garden of Tranquility - Studio Edit",
+      "url": "https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY"
+    },
+    {
+      "album": {
+        "name": "Gateless Gate (Sound Bath)",
+        "url": "https://open.spotify.com/album/35CyzUyEsrT2tJmuXBUi0l"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Sky",
+          "url": "https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127113,
+      "name": "Gateless Gate (Sound Bath)",
+      "url": "https://open.spotify.com/track/1Mdsrdktj3SxXe0MrLJ6rj"
+    },
+    {
+      "album": {
+        "name": "Gentle Evening Rain",
+        "url": "https://open.spotify.com/album/11ClOEWh75IghVOySc1dLJ"
+      },
+      "artists": [
+        {
+          "name": "Momento",
+          "url": "https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 169018,
+      "name": "Gentle Evening Rain",
+      "url": "https://open.spotify.com/track/3KWJVR1IxvhfqtqGCqfi6e"
+    },
+    {
+      "album": {
+        "name": "Pouring rain",
+        "url": "https://open.spotify.com/album/3Ft9QVNyd9jlvgb89AYmNF"
+      },
+      "artists": [
+        {
+          "name": "Furna",
+          "url": "https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162794,
+      "name": "Geosmina",
+      "url": "https://open.spotify.com/track/1UUfaxvrgpx6IgQ8MCdsTC"
+    },
+    {
+      "album": {
+        "name": "Golden Meadow",
+        "url": "https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160937,
+      "name": "Golden Meadow",
+      "url": "https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ"
+    },
+    {
+      "album": {
+        "name": "Harmonious Waves",
+        "url": "https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6"
+      },
+      "artists": [
+        {
+          "name": "Torino Sky",
+          "url": "https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167343,
+      "name": "Harmonious Waves",
+      "url": "https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169105,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
+    },
+    {
+      "album": {
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Healing Serenade",
+      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
+    },
+    {
+      "album": {
+        "name": "Healing Solfeggio 528 Hz",
+        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
+      },
+      "artists": [
+        {
+          "name": "Zoe Sutherland",
+          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Healing Solfeggio 528 Hz",
+      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
+    },
+    {
+      "album": {
+        "name": "In Everness",
+        "url": "https://open.spotify.com/album/3askarTMsTIOOiFy338QD0"
+      },
+      "artists": [
+        {
+          "name": "Pranayama Squad",
+          "url": "https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "In Everness",
+      "url": "https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh"
+    },
+    {
+      "album": {
+        "name": "Inner Universe",
+        "url": "https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G"
+      },
+      "artists": [
+        {
+          "name": "Von Goo",
+          "url": "https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Inner Universe",
+      "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
+    },
+    {
+      "album": {
+        "name": "Into The Present",
+        "url": "https://open.spotify.com/album/651DX77ds7jckVS1NRH22G"
+      },
+      "artists": [
+        {
+          "name": "Ijaya Gupta",
+          "url": "https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199158,
+      "name": "Into The Present",
+      "url": "https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1"
+    },
+    {
+      "album": {
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "album": {
+        "name": "Iridescence",
+        "url": "https://open.spotify.com/album/4vWK3QWLMqhSD5DVET5UPa"
+      },
+      "artists": [
+        {
+          "name": "Uli Jons",
+          "url": "https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173298,
+      "name": "Iridescence",
+      "url": "https://open.spotify.com/track/6e4I3Y1IfBQxdv4iuaB3Wx"
+    },
+    {
+      "album": {
+        "name": "Jenna\u2019s Lullaby",
+        "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
+      },
+      "artists": [
+        {
+          "name": "Nerum",
+          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Jenna\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
+    },
+    {
+      "album": {
+        "name": "In het licht van de maan",
+        "url": "https://open.spotify.com/album/0UHBQoH5hrh3C81AdbXBpP"
+      },
+      "artists": [
+        {
+          "name": "Dardan Leistra",
+          "url": "https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 220000,
+      "name": "Jij bent alles",
+      "url": "https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa"
+    },
+    {
+      "album": {
+        "name": "Joyous Flow",
+        "url": "https://open.spotify.com/album/1rTRvKgABDgCZUrm6FxAKQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197555,
+      "name": "Joyous Flow",
+      "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
+    },
+    {
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203353,
+      "name": "Kalmte",
+      "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
+    },
+    {
+      "album": {
+        "name": "Lake Reflections",
+        "url": "https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p"
+      },
+      "artists": [
+        {
+          "name": "Glacial Patience",
+          "url": "https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Lake Reflections",
+      "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
+    },
+    {
+      "album": {
+        "name": "Layers Of Trust",
+        "url": "https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Layers Of Trust",
+      "url": "https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM"
+    },
+    {
+      "album": {
+        "name": "Landscapes",
+        "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
+      },
+      "artists": [
+        {
+          "name": "Rex Imaleo",
+          "url": "https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177101,
+      "name": "Lemon Balm",
+      "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
+    },
+    {
+      "album": {
+        "name": "Let The Waves Carry You",
+        "url": "https://open.spotify.com/album/2ek1KcqoL5K3kx8Vs9hcEC"
+      },
+      "artists": [
+        {
+          "name": "Lunar Bliss",
+          "url": "https://open.spotify.com/artist/3pPChrOJySpR5JYsGYmhg3"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172963,
+      "name": "Let The Waves Carry You",
+      "url": "https://open.spotify.com/track/10fDPZm1naD49AR3wkEXWg"
+    },
+    {
+      "album": {
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
+      },
+      "artists": [
+        {
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
+    },
+    {
+      "album": {
+        "name": "Leuchten",
+        "url": "https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Leuchten",
+      "url": "https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ"
+    },
+    {
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv"
+      },
+      "artists": [
+        {
+          "name": "faintface",
+          "url": "https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193885,
+      "name": "Looking for the Self",
+      "url": "https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g"
+    },
+    {
+      "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Connelly",
+          "url": "https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136820,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"
+    },
+    {
+      "album": {
+        "name": "Macromedas",
+        "url": "https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl"
+      },
+      "artists": [
+        {
+          "name": "Zoniacs",
+          "url": "https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153993,
+      "name": "Macromedas",
+      "url": "https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu"
+    },
+    {
+      "album": {
+        "name": "Madrean Pine",
+        "url": "https://open.spotify.com/album/4hNbQqGMfpSUmLMnQyAEDL"
+      },
+      "artists": [
+        {
+          "name": "Nagawa Meditation",
+          "url": "https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189742,
+      "name": "Madrean Pine",
+      "url": "https://open.spotify.com/track/4FrtOcGGkC5xRAf75zhAvu"
+    },
+    {
+      "album": {
+        "name": "Majestica",
+        "url": "https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193635,
+      "name": "Majestica",
+      "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"
+    },
+    {
+      "album": {
+        "name": "Mesmeric Quietude",
+        "url": "https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9"
+      },
+      "artists": [
+        {
+          "name": "Wes Gold",
+          "url": "https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149795,
+      "name": "Mesmeric Quietude",
+      "url": "https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4"
+    },
+    {
+      "album": {
+        "name": "Messiah Silica",
+        "url": "https://open.spotify.com/album/7xAHXVwAJDpeXlckASpuI9"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154786,
+      "name": "Messiah Silica",
+      "url": "https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7"
+    },
+    {
+      "album": {
+        "name": "Mindful Morning",
+        "url": "https://open.spotify.com/album/0MdLoo2an3hSFefvqc84gW"
+      },
+      "artists": [
+        {
+          "name": "Yaminu",
+          "url": "https://open.spotify.com/artist/5bTsHhnuBtER2fvtEjTsYG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 185624,
+      "name": "Mindful Morning",
+      "url": "https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx"
+      },
+      "artists": [
+        {
+          "name": "Aasha",
+          "url": "https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc"
+    },
+    {
+      "album": {
+        "name": "Nereal Beauty",
+        "url": "https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi"
+      },
+      "artists": [
+        {
+          "name": "Lola Fiennes",
+          "url": "https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Nereal Beauty",
+      "url": "https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG"
+    },
+    {
+      "album": {
+        "name": "Night Bells (432 Hz)",
+        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
+      },
+      "artists": [
+        {
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Night Bells (432 Hz)",
+      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "album": {
+        "name": "One Giant Leap",
+        "url": "https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Garden Gate",
+          "url": "https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "One Giant Leap",
+      "url": "https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9"
+    },
+    {
+      "album": {
+        "name": "Opulence",
+        "url": "https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9"
+      },
+      "artists": [
+        {
+          "name": "Spherical Harmonics",
+          "url": "https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
+    },
+    {
+      "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Irwin",
+          "url": "https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Osceola",
+      "url": "https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA"
+    },
+    {
+      "album": {
+        "name": "Paessagio Naturale",
+        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+      },
+      "artists": [
+        {
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Paessagio Naturale",
+      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
+    },
+    {
+      "album": {
+        "name": "Pax Mundi",
+        "url": "https://open.spotify.com/album/3EGJfV6X0lqRjau5fCCZ45"
+      },
+      "artists": [
+        {
+          "name": "Pax Soloman",
+          "url": "https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 136216,
+      "name": "Pax Mundi",
+      "url": "https://open.spotify.com/track/1KGbSpJomANfc0836NqTdg"
+    },
+    {
+      "album": {
+        "name": "Peace Within",
+        "url": "https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb"
+      },
+      "artists": [
+        {
+          "name": "Holly Summers",
+          "url": "https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136009,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
+    },
+    {
+      "album": {
+        "name": "Peaceful Garden",
+        "url": "https://open.spotify.com/album/26UPIsHGsD24Si9M186oYK"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 377000,
+      "name": "Peaceful Garden",
+      "url": "https://open.spotify.com/track/109Az5ZRvRYKE6UU9Rdnf0"
+    },
+    {
+      "album": {
+        "name": "peaceful year calling",
+        "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
+      },
+      "artists": [
+        {
+          "name": "our distant worlds",
+          "url": "https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "peaceful year calling",
+      "url": "https://open.spotify.com/track/2zyeQDY1Jg7DUHhmZyyUAn"
+    },
+    {
+      "album": {
+        "name": "Perceive",
+        "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
+      },
+      "artists": [
+        {
+          "name": "Julianne Pascal",
+          "url": "https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173499,
+      "name": "Perceive",
+      "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
+    },
+    {
+      "album": {
+        "name": "Perfect State Of Mind",
+        "url": "https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b"
+      },
+      "artists": [
+        {
+          "name": "Pine River",
+          "url": "https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155774,
+      "name": "Perfect State Of Mind",
+      "url": "https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ"
+    },
+    {
+      "album": {
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
+      },
+      "artists": [
+        {
+          "name": "Mentitoso",
+          "url": "https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112999,
+      "name": "Polysomnography",
+      "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
+    },
+    {
+      "album": {
+        "name": "Tantra",
+        "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Prav\u0101sa",
+      "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
+    },
+    {
+      "album": {
+        "name": "Prkahm Mindbeats",
+        "url": "https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci"
+      },
+      "artists": [
+        {
+          "name": "Tribal Tranquility",
+          "url": "https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Prkahm Mindbeats",
+      "url": "https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h"
+    },
+    {
+      "album": {
+        "name": "Pure And Calm",
+        "url": "https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j"
+      },
+      "artists": [
+        {
+          "name": "Golga Nesh",
+          "url": "https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165639,
+      "name": "Pure And Calm",
+      "url": "https://open.spotify.com/track/663LF9heB9sWluligQWpG8"
+    },
+    {
+      "album": {
+        "name": "Pyaar",
+        "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
+      },
+      "artists": [
+        {
+          "name": "Ashia Kashyap",
+          "url": "https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Pyaar",
+      "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
+    },
+    {
+      "album": {
+        "name": "Rainfall",
+        "url": "https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe"
+      },
+      "artists": [
+        {
+          "name": "Vabali",
+          "url": "https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 230652,
+      "name": "Rainfall",
+      "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
+    },
+    {
+      "album": {
+        "name": "Relieving",
+        "url": "https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0"
+      },
+      "artists": [
+        {
+          "name": "Degravitated",
+          "url": "https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Relieving",
+      "url": "https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+      },
+      "artists": [
+        {
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
+    },
+    {
+      "album": {
+        "name": "Restful Days",
+        "url": "https://open.spotify.com/album/1qdQorBzd93vJb4iRS43b8"
+      },
+      "artists": [
+        {
+          "name": "Ambient Saga",
+          "url": "https://open.spotify.com/artist/6jXJLmPCp6G9qpAK8XJZ81"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197231,
+      "name": "Restful Days",
+      "url": "https://open.spotify.com/track/0jVbxfgP0tbV1s1wqtIhAh"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 175792,
+      "name": "Restfulness",
+      "url": "https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW"
+    },
+    {
+      "album": {
+        "name": "Rila",
+        "url": "https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "Rila",
+      "url": "https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD"
+    },
+    {
+      "album": {
+        "name": "Rishis",
+        "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203310,
+      "name": "Rishis",
+      "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
+    },
+    {
+      "album": {
+        "name": "Rivers Of Flutes",
+        "url": "https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 445000,
+      "name": "Rivers Of Flutes",
+      "url": "https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH"
+    },
+    {
+      "album": {
+        "name": "Beyond My Senses",
+        "url": "https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2"
+      },
+      "artists": [
+        {
+          "name": "Golga Nesh",
+          "url": "https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 192899,
+      "name": "Sacred Spirit",
+      "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
+    },
+    {
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160759,
+      "name": "Sakshi / Witness",
+      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
+    },
+    {
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
+    },
+    {
+      "album": {
+        "name": "Samajhauta",
+        "url": "https://open.spotify.com/album/1Ge5uhuyA0O9JTyxYEMCNW"
+      },
+      "artists": [
+        {
+          "name": "Rura Gazdar",
+          "url": "https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 155438,
+      "name": "Samajhauta",
+      "url": "https://open.spotify.com/track/3QH2cod0TPHpg12q2qBl7j"
+    },
+    {
+      "album": {
+        "name": "Scintilla",
+        "url": "https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ"
+      },
+      "artists": [
+        {
+          "name": "Xo Liam",
+          "url": "https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 158459,
+      "name": "Scintilla",
+      "url": "https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW"
+    },
+    {
+      "album": {
+        "name": "Search For The Light",
+        "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
+      },
+      "artists": [
+        {
+          "name": "Wings Of Silk",
+          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "Search For The Light",
+      "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2KSHTLkxbjYzZfY85s8L2O"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Flute",
+          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341966,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/1n234FI6z2v1rUO4oQ9vQe"
+    },
+    {
+      "album": {
+        "name": "Aamani",
+        "url": "https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT"
+      },
+      "artists": [
+        {
+          "name": "Mathura Horizon",
+          "url": "https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190446,
+      "name": "Shalika",
+      "url": "https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk"
+    },
+    {
+      "album": {
+        "name": "Shimmering",
+        "url": "https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d"
+      },
+      "artists": [
+        {
+          "name": "Abril Vann",
+          "url": "https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146833,
+      "name": "Shimmering",
+      "url": "https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs"
+    },
+    {
+      "album": {
+        "name": "Shimmering Forest",
+        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
+      },
+      "artists": [
+        {
+          "name": "Ashcan Johansen",
+          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187169,
+      "name": "Shimmering Forest",
+      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
+    },
+    {
+      "album": {
+        "name": "Silent Solution",
+        "url": "https://open.spotify.com/album/26PXA4uPCpyhdh6lg3zXJO"
+      },
+      "artists": [
+        {
+          "name": "Vibrational Winds",
+          "url": "https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144265,
+      "name": "Silent Solution",
+      "url": "https://open.spotify.com/track/1ckaT9aUOZbUStGwWLVzQF"
+    },
+    {
+      "album": {
+        "name": "Silver Glass",
+        "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
+      },
+      "artists": [
+        {
+          "name": "Airin",
+          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203442,
+      "name": "Silver Glass",
+      "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
+    },
+    {
+      "album": {
+        "name": "Sky Lights",
+        "url": "https://open.spotify.com/album/7AOsa08sbSM7X0Qz8ad7lC"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 157912,
+      "name": "Sky Lights",
+      "url": "https://open.spotify.com/track/7HToCQy3ObwcSCpEEjkX7x"
+    },
+    {
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190687,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+    },
+    {
+      "album": {
+        "name": "Sojourn",
+        "url": "https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201217,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ"
+    },
+    {
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP"
+      },
+      "artists": [
+        {
+          "name": "Damir Yamm",
+          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155730,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc"
+    },
+    {
+      "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
+    },
+    {
+      "album": {
+        "name": "Sounds Of The Earth",
+        "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "Sounds Of The Earth",
+      "url": "https://open.spotify.com/track/1BwGOA5hAFxJSsCxMzofhC"
+    },
+    {
+      "album": {
+        "name": "Essence of Mind",
+        "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Sparrow Cloud",
+      "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "album": {
+        "name": "Spatial Healing",
+        "url": "https://open.spotify.com/album/6x7ptkcLvOwjKEj3VzeuzI"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 178282,
+      "name": "Spatial Healing",
+      "url": "https://open.spotify.com/track/3JJC1OPhvfUEkq2imeT9yu"
+    },
+    {
+      "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "album": {
+        "name": "Dream Will End",
+        "url": "https://open.spotify.com/album/2BX0VKPhfcUrCeITkQwKVu"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Dream World",
+          "url": "https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 156447,
+      "name": "Spiritual Sleep",
+      "url": "https://open.spotify.com/track/3NxOODwM9R5KfibzsvTT2F"
+    },
+    {
+      "album": {
+        "name": "Star Above Parvati",
+        "url": "https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k"
+      },
+      "artists": [
+        {
+          "name": "Peyote Level",
+          "url": "https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Star Above Parvati",
+      "url": "https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg"
+    },
+    {
+      "album": {
+        "name": "Starting Fresh",
+        "url": "https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Starting Fresh",
+      "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
+    },
+    {
+      "album": {
+        "name": "Stilte",
+        "url": "https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE"
+      },
+      "artists": [
+        {
+          "name": "Femke Edelijn",
+          "url": "https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194011,
+      "name": "Stilte",
+      "url": "https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF"
+    },
+    {
+      "album": {
+        "name": "Strings Of Serenity",
+        "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
+      },
+      "artists": [
+        {
+          "name": "X-Genie",
+          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Strings Of Serenity",
+      "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "album": {
+        "name": "Submerged",
+        "url": "https://open.spotify.com/album/6AS1ccXorg5PEKALw5wttV"
+      },
+      "artists": [
+        {
+          "name": "Rizzolo",
+          "url": "https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Submerged",
+      "url": "https://open.spotify.com/track/6Ldcbpyvgs11PgWMcjeqmW"
+    },
+    {
+      "album": {
+        "name": "Sunset Relief & Distant Exhale",
+        "url": "https://open.spotify.com/album/3IdOt4xx7TqVbjRYohAm78"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Mirage",
+          "url": "https://open.spotify.com/artist/50tMFE32bqSKVZEMuZjnCO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 266400,
+      "name": "Sunset Relief",
+      "url": "https://open.spotify.com/track/17qnGb6b5J4RzA6F4g2nFU"
+    },
+    {
+      "album": {
+        "name": "Temple of the Heart",
+        "url": "https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216672,
+      "name": "Temple of the Heart",
+      "url": "https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M"
+    },
+    {
+      "album": {
+        "name": "Terrestrial",
+        "url": "https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l"
+      },
+      "artists": [
+        {
+          "name": "Exhalious",
+          "url": "https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Terrestrial",
+      "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
+    },
+    {
+      "album": {
+        "name": "Testanaadee",
+        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+      },
+      "artists": [
+        {
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184512,
+      "name": "Testanaadee",
+      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "album": {
+        "name": "The Break of Dawn",
+        "url": "https://open.spotify.com/album/14zBgbLcZRWENB1zq8cp1n"
+      },
+      "artists": [
+        {
+          "name": "Pol To Sol",
+          "url": "https://open.spotify.com/artist/6hoVTfcaupGzwCGF4AIHuQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203416,
+      "name": "The Break of Dawn",
+      "url": "https://open.spotify.com/track/4mXD6Q7OPXWQm6LDajgOBl"
+    },
+    {
+      "album": {
+        "name": "The Five Koshas",
+        "url": "https://open.spotify.com/album/2ibstU7112zWeemrDknJKt"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 178431,
+      "name": "The Five Koshas",
+      "url": "https://open.spotify.com/track/668Kf9hcQra955lBWbFLNx"
+    },
+    {
+      "album": {
+        "name": "The Forest Waking Up",
+        "url": "https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180641,
+      "name": "The Forest Waking Up",
+      "url": "https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6"
+    },
+    {
+      "album": {
+        "name": "The Heritage",
+        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216063,
+      "name": "The Heritage",
+      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
+    },
+    {
+      "album": {
+        "name": "The Shimmer",
+        "url": "https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt"
+      },
+      "artists": [
+        {
+          "name": "ZIWA",
+          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169722,
+      "name": "The Shimmer",
+      "url": "https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Bansuri",
+        "url": "https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY"
+      },
+      "artists": [
+        {
+          "name": "Golgon Kami",
+          "url": "https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 166000,
+      "name": "The Sweetest Bansuri",
+      "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
+    },
+    {
+      "album": {
+        "name": "There And Back",
+        "url": "https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL"
+      },
+      "artists": [
+        {
+          "name": "Phanari",
+          "url": "https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173814,
+      "name": "There And Back",
+      "url": "https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu"
+    },
+    {
+      "album": {
+        "name": "Through The Changes",
+        "url": "https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns"
+      },
+      "artists": [
+        {
+          "name": "Uli Jons",
+          "url": "https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Through The Changes",
+      "url": "https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl"
+    },
+    {
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/0pP3iJlExImW0IusI2wy6Q"
+      },
+      "artists": [
+        {
+          "name": "Sascha Ann Riis",
+          "url": "https://open.spotify.com/artist/4OVKc3I1eQtw2J7xqVCRNs"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Tranquility",
+      "url": "https://open.spotify.com/track/0Xho0q1PiEDX0jrtxYuBUe"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies: Aligning for Change",
+        "url": "https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 214750,
+      "name": "Transcend Ego 432 Hz",
+      "url": "https://open.spotify.com/track/6OH0oW8GbQkmn5NthSMu3x"
+    },
+    {
+      "album": {
+        "name": "Himalayan Breeze",
+        "url": "https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh"
+      },
+      "artists": [
+        {
+          "name": "Man Dala",
+          "url": "https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248607,
+      "name": "Transcendent Whispers",
+      "url": "https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S"
+    },
+    {
+      "album": {
+        "name": "Travel Through Time",
+        "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
+      },
+      "artists": [
+        {
+          "name": "Sonic Ark",
+          "url": "https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200367,
+      "name": "Travel Through Time",
+      "url": "https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ"
+    },
+    {
+      "album": {
+        "name": "Treetop Whisperer",
+        "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
+      },
+      "artists": [
+        {
+          "name": "Beyond Observable",
+          "url": "https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189380,
+      "name": "Treetop Whisperer",
+      "url": "https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
+    },
+    {
+      "album": {
+        "name": "Unresolved",
+        "url": "https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy"
+      },
+      "artists": [
+        {
+          "name": "Hibisc",
+          "url": "https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 107740,
+      "name": "Unresolved",
+      "url": "https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD"
+    },
+    {
+      "album": {
+        "name": "Unwinding",
+        "url": "https://open.spotify.com/album/3hV6kEItg6jQLl1D3a2zau"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 606000,
+      "name": "Unwinding",
+      "url": "https://open.spotify.com/track/6ZbZUKPNtQQkipcV7Fu23l"
+    },
+    {
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "U\u0219\u0101 Dhy\u0101na / Dawn Meditation",
+      "url": "https://open.spotify.com/track/2bj4ffMQkjXAvXJbcbDsBH"
+    },
+    {
+      "album": {
+        "name": "Vents Calmes",
+        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
+      },
+      "artists": [
+        {
+          "name": "Ellis Atkins",
+          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Vents Calmes",
+      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
+    },
+    {
+      "album": {
+        "name": "Vinyasa",
+        "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
+      },
+      "artists": [
+        {
+          "name": "Krishna's Flute",
+          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238602,
+      "name": "Vinyasa",
+      "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
+    },
+    {
+      "album": {
+        "name": "Voices of Ether",
+        "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
+      },
+      "artists": [
+        {
+          "name": "La Moci\u00f3n",
+          "url": "https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147801,
+      "name": "Voices of Ether",
+      "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
+    },
+    {
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY"
+      },
+      "artists": [
+        {
+          "name": "Nima Noi",
+          "url": "https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "album": {
+        "name": "When The Night Comes Falling",
+        "url": "https://open.spotify.com/album/0AuGuxo0WS2AK2NZC2ViQq"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Sleep",
+          "url": "https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138037,
+      "name": "When The Night Comes Falling",
+      "url": "https://open.spotify.com/track/0pGqzYTy2GqJj1FJ8IO6QH"
+    },
+    {
+      "album": {
+        "name": "Distant Call",
+        "url": "https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185827,
+      "name": "White Stone",
+      "url": "https://open.spotify.com/track/46iDOpQlHuhBlznZapris4"
+    },
+    {
+      "album": {
+        "name": "Zen Dream",
+        "url": "https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 214501,
+      "name": "Zen Dream",
+      "url": "https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/5EijZWbp7RKBckHZPqHspP"
+      },
+      "artists": [
+        {
+          "name": "Gl\u00e5sbird",
+          "url": "https://open.spotify.com/artist/6bt0NrtqveKQvQJJv2cD5N"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 293952,
+      "name": "\u0100r\u014dha\u1e47a",
+      "url": "https://open.spotify.com/track/60jHNqUBMnj6mH5EqlxpTX"
+    },
+    {
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr"
 }

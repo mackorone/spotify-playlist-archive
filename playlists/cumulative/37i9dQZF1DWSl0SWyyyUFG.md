@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-267 songs - 13 hr 58 min
+269 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 | 2021-10-22 |  |
 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 | 2022-12-30 |  |
 | [Entrégame Tu Amor](https://open.spotify.com/track/2wzMk91znotFiJhsSUsPvl) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:46 | 2021-10-22 |  |
-| [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2021-10-22 |  |
+| [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2021-10-22 | 2024-01-15 |
 | [Esa Chica Me Vacila](https://open.spotify.com/track/0g5JLFIK31liC82k4m2hEs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/2kJCLd9dNdizlf0n8ATxOs) | 3:40 | 2021-10-22 | 2022-07-29 |
+| [Esa Chica Me Vacila](https://open.spotify.com/track/7q6yn8JrCnoCUGtD9JUiVg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 3:40 | 2023-10-11 |  |
 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 | 2021-10-22 | 2022-07-29 |
 | [Eso no, no, no](https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l) | 2:55 | 2021-10-22 | 2022-11-14 |
 | [Esta Cobardia](https://open.spotify.com/track/2BMWP4MEcaxK7WDRkNeEvn) | [Raúl Ortega](https://open.spotify.com/artist/4V7oup5mOTPuBUuZZs3Snb), [Banda Arre](https://open.spotify.com/artist/79M78gAcJWpErxfb380YMP) | [Andan Diciendo](https://open.spotify.com/album/2lFstwgDxa3CAU0pLiA1Iw) | 2:52 | 2021-10-22 | 2022-07-29 |
@@ -251,7 +252,8 @@
 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 | 2021-10-22 | 2023-10-01 |
 | [Tu Eterno Enamorado](https://open.spotify.com/track/0S3fsClMI9T26hpfwBdRqA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 3:40 | 2023-08-08 |  |
 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 | 2021-10-22 |  |
-| [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 | 2023-10-11 |  |
+| [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 | 2023-10-11 | 2024-01-17 |
+| [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:33 | 2023-10-11 |  |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/1p4f2Gu3ZW8YPqka0LQKQ6) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [12 Éxitos](https://open.spotify.com/album/7fr4dw7dUXCiBbDQB4eITu) | 2:34 | 2023-10-11 | 2023-11-04 |
 | [Tus Desprecios](https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:23 | 2023-08-08 |  |
 | [Un Angel](https://open.spotify.com/track/27zr6DtSt1DqfV2aVlkVDD) | [Banda Espuela De Oro](https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw) | [Los Mismos Pero No Iguales](https://open.spotify.com/album/74x1NJF19oqYd8hJv5iJ6n) | 3:08 | 2021-10-22 |  |

@@ -1,580 +1,1849 @@
 {
-  "2022-05-30": 12667,
-  "2022-05-31": 12684,
-  "2022-06-01": 12699,
-  "2022-06-02": 12700,
-  "2022-06-03": 12701,
-  "2022-06-04": 12707,
-  "2022-06-05": 12717,
-  "2022-06-06": 12722,
-  "2022-06-07": 12729,
-  "2022-06-08": 12740,
-  "2022-06-09": 12746,
-  "2022-06-10": 12761,
-  "2022-06-11": 12778,
-  "2022-06-12": 12787,
-  "2022-06-13": 12799,
-  "2022-06-14": 12808,
-  "2022-06-15": 12817,
-  "2022-06-16": 12846,
-  "2022-06-17": 12865,
-  "2022-06-18": 12868,
-  "2022-06-19": 12875,
-  "2022-06-20": 12875,
-  "2022-06-21": 12893,
-  "2022-06-22": 12915,
-  "2022-06-23": 12915,
-  "2022-06-24": 12938,
-  "2022-06-25": 12949,
-  "2022-06-26": 12959,
-  "2022-06-27": 12977,
-  "2022-06-28": 12985,
-  "2022-06-29": 12996,
-  "2022-06-30": 13003,
-  "2022-07-01": 13010,
-  "2022-07-02": 13026,
-  "2022-07-03": 13038,
-  "2022-07-04": 13047,
-  "2022-07-05": 13062,
-  "2022-07-06": 13073,
-  "2022-07-07": 13086,
-  "2022-07-08": 13097,
-  "2022-07-09": 13112,
-  "2022-07-10": 13127,
-  "2022-07-11": 13136,
-  "2022-07-12": 13156,
-  "2022-07-13": 13183,
-  "2022-07-14": 13191,
-  "2022-07-15": 13208,
-  "2022-07-16": 13217,
-  "2022-07-17": 13236,
-  "2022-07-18": 13251,
-  "2022-07-19": 13267,
-  "2022-07-20": 13275,
-  "2022-07-21": 13289,
-  "2022-07-22": 13303,
-  "2022-07-23": 13314,
-  "2022-07-24": 13320,
-  "2022-07-25": 13335,
-  "2022-07-26": 13357,
-  "2022-07-27": 13360,
-  "2022-07-28": 13383,
-  "2022-07-29": 13401,
-  "2022-07-30": 13426,
-  "2022-07-31": 13426,
-  "2022-08-01": 13435,
-  "2022-08-02": 13453,
-  "2022-08-03": 13453,
-  "2022-08-04": 13470,
-  "2022-08-05": 13474,
-  "2022-08-06": 13486,
-  "2022-08-07": 13498,
-  "2022-08-08": 13508,
-  "2022-08-09": 13525,
-  "2022-08-10": 13532,
-  "2022-08-11": 13549,
-  "2022-08-12": 13557,
-  "2022-08-13": 13563,
-  "2022-08-14": 13567,
-  "2022-08-15": 13584,
-  "2022-08-16": 13597,
-  "2022-08-17": 13612,
-  "2022-08-18": 13636,
-  "2022-08-19": 13654,
-  "2022-08-20": 13670,
-  "2022-08-21": 13686,
-  "2022-08-22": 13692,
-  "2022-08-23": 13704,
-  "2022-08-24": 13721,
-  "2022-08-25": 13730,
-  "2022-08-26": 13748,
-  "2022-08-27": 13756,
-  "2022-08-28": 13773,
-  "2022-08-29": 13792,
-  "2022-08-30": 13788,
-  "2022-08-31": 13770,
-  "2022-09-01": 13765,
-  "2022-09-02": 13781,
-  "2022-09-03": 13769,
-  "2022-09-04": 13742,
-  "2022-09-05": 13739,
-  "2022-09-06": 13755,
-  "2022-09-07": 13798,
-  "2022-09-09": 13841,
-  "2022-09-10": 13854,
-  "2022-09-11": 13875,
-  "2022-09-12": 13885,
-  "2022-09-13": 13903,
-  "2022-09-15": 13935,
-  "2022-09-16": 13956,
-  "2022-09-17": 13964,
-  "2022-09-18": 13978,
-  "2022-09-19": 13983,
-  "2022-09-20": 14002,
-  "2022-09-21": 14019,
-  "2022-09-22": 14035,
-  "2022-09-23": 14055,
-  "2022-09-24": 14071,
-  "2022-09-25": 14094,
-  "2022-09-26": 14106,
-  "2022-09-27": 14126,
-  "2022-09-28": 14143,
-  "2022-09-29": 14156,
-  "2022-09-30": 14177,
-  "2022-10-01": 14196,
-  "2022-10-02": 14211,
-  "2022-10-03": 14230,
-  "2022-10-04": 14235,
-  "2022-10-05": 14263,
-  "2022-10-06": 14286,
-  "2022-10-07": 14302,
-  "2022-10-08": 14315,
-  "2022-10-09": 14343,
-  "2022-10-10": 14345,
-  "2022-10-11": 14357,
-  "2022-10-12": 14370,
-  "2022-10-13": 14384,
-  "2022-10-14": 14396,
-  "2022-10-15": 14409,
-  "2022-10-16": 14415,
-  "2022-10-17": 14428,
-  "2022-10-18": 14449,
-  "2022-10-19": 14466,
-  "2022-10-20": 14471,
-  "2022-10-21": 14484,
-  "2022-10-22": 14500,
-  "2022-10-23": 14515,
-  "2022-10-24": 14523,
-  "2022-10-25": 14537,
-  "2022-10-26": 14546,
-  "2022-10-27": 14560,
-  "2022-10-28": 14580,
-  "2022-10-29": 14584,
-  "2022-10-30": 14593,
-  "2022-10-31": 14600,
-  "2022-11-01": 14609,
-  "2022-11-02": 14621,
-  "2022-11-03": 14636,
-  "2022-11-04": 14644,
-  "2022-11-05": 14654,
-  "2022-11-06": 14661,
-  "2022-11-07": 14669,
-  "2022-11-08": 14672,
-  "2022-11-09": 14687,
-  "2022-11-10": 14698,
-  "2022-11-11": 14707,
-  "2022-11-12": 14726,
-  "2022-11-13": 14737,
-  "2022-11-14": 14757,
-  "2022-11-15": 14776,
-  "2022-11-16": 14791,
-  "2022-11-17": 14805,
-  "2022-11-18": 14810,
-  "2022-11-19": 14804,
-  "2022-11-20": 14809,
-  "2022-11-21": 14808,
-  "2022-11-22": 14843,
-  "2022-11-23": 14840,
-  "2022-11-24": 14866,
-  "2022-11-25": 14890,
-  "2022-11-26": 14913,
-  "2022-11-27": 14929,
-  "2022-11-28": 14945,
-  "2022-11-29": 14955,
-  "2022-11-30": 14968,
-  "2022-12-01": 14973,
-  "2022-12-02": 14989,
-  "2022-12-03": 15004,
-  "2022-12-04": 15018,
-  "2022-12-05": 15035,
-  "2022-12-06": 15043,
-  "2022-12-07": 15051,
-  "2022-12-08": 15063,
-  "2022-12-09": 15081,
-  "2022-12-10": 15100,
-  "2022-12-11": 15116,
-  "2022-12-12": 15135,
-  "2022-12-13": 15155,
-  "2022-12-14": 15165,
-  "2022-12-15": 15183,
-  "2022-12-16": 15193,
-  "2022-12-17": 15203,
-  "2022-12-18": 15218,
-  "2022-12-19": 15222,
-  "2022-12-20": 15234,
-  "2022-12-21": 15234,
-  "2022-12-22": 15237,
-  "2022-12-24": 15250,
-  "2022-12-25": 15256,
-  "2022-12-26": 15262,
-  "2022-12-27": 15272,
-  "2022-12-28": 15273,
-  "2022-12-29": 15290,
-  "2022-12-30": 15304,
-  "2022-12-31": 15309,
-  "2023-01-01": 15328,
-  "2023-01-02": 15340,
-  "2023-01-03": 15348,
-  "2023-01-04": 15356,
-  "2023-01-05": 15365,
-  "2023-01-06": 15382,
-  "2023-01-07": 15405,
-  "2023-01-08": 15408,
-  "2023-01-09": 15417,
-  "2023-01-10": 15435,
-  "2023-01-11": 15438,
-  "2023-01-12": 15449,
-  "2023-01-13": 15471,
-  "2023-01-14": 15505,
-  "2023-01-15": 15505,
-  "2023-01-16": 15522,
-  "2023-01-17": 15531,
-  "2023-01-18": 15545,
-  "2023-01-19": 15553,
-  "2023-01-20": 15559,
-  "2023-01-21": 15563,
-  "2023-01-22": 15571,
-  "2023-01-23": 15587,
-  "2023-01-24": 15600,
-  "2023-01-25": 15607,
-  "2023-01-26": 15618,
-  "2023-01-27": 15628,
-  "2023-01-28": 15634,
-  "2023-01-29": 15635,
-  "2023-01-30": 15648,
-  "2023-01-31": 15648,
-  "2023-02-01": 15671,
-  "2023-02-02": 15683,
-  "2023-02-03": 15698,
-  "2023-02-04": 15707,
-  "2023-02-05": 15719,
-  "2023-02-06": 15729,
-  "2023-02-07": 15735,
-  "2023-02-08": 15748,
-  "2023-02-09": 15748,
-  "2023-02-10": 15759,
-  "2023-02-11": 15765,
-  "2023-02-12": 15787,
-  "2023-02-13": 15801,
-  "2023-02-14": 15801,
-  "2023-02-15": 15809,
-  "2023-02-16": 15822,
-  "2023-02-17": 15833,
-  "2023-02-18": 15855,
-  "2023-02-19": 15859,
-  "2023-02-20": 15866,
-  "2023-02-21": 15872,
-  "2023-02-22": 15882,
-  "2023-02-23": 15891,
-  "2023-02-24": 15899,
-  "2023-02-25": 15918,
-  "2023-02-26": 15922,
-  "2023-02-27": 15939,
-  "2023-02-28": 15939,
-  "2023-03-01": 15951,
-  "2023-03-02": 15963,
-  "2023-03-03": 15977,
-  "2023-03-04": 15993,
-  "2023-03-05": 16006,
-  "2023-03-06": 16006,
-  "2023-03-07": 16008,
-  "2023-03-08": 16019,
-  "2023-03-09": 16024,
-  "2023-03-10": 16041,
-  "2023-03-11": 16054,
-  "2023-03-12": 16061,
-  "2023-03-13": 16068,
-  "2023-03-14": 16080,
-  "2023-03-15": 16089,
-  "2023-03-16": 16102,
-  "2023-03-17": 16102,
-  "2023-03-18": 16130,
-  "2023-03-19": 16137,
-  "2023-03-20": 16139,
-  "2023-03-21": 16145,
-  "2023-03-22": 16162,
-  "2023-03-23": 16169,
-  "2023-03-24": 16169,
-  "2023-03-25": 16187,
-  "2023-03-26": 16193,
-  "2023-03-27": 16203,
-  "2023-03-28": 16202,
-  "2023-03-29": 16214,
-  "2023-03-30": 16232,
-  "2023-03-31": 16232,
-  "2023-04-01": 16237,
-  "2023-04-02": 16245,
-  "2023-04-03": 16252,
-  "2023-04-04": 16267,
-  "2023-04-05": 16279,
-  "2023-04-06": 16291,
-  "2023-04-07": 16301,
-  "2023-04-09": 16317,
-  "2023-04-10": 16343,
-  "2023-04-11": 16365,
-  "2023-04-12": 16365,
-  "2023-04-13": 16378,
-  "2023-04-14": 16387,
-  "2023-04-15": 16404,
-  "2023-04-16": 16409,
-  "2023-04-17": 16423,
-  "2023-04-18": 16432,
-  "2023-04-19": 16440,
-  "2023-04-20": 16458,
-  "2023-04-21": 16476,
-  "2023-04-22": 16484,
-  "2023-04-23": 16499,
-  "2023-04-24": 16515,
-  "2023-04-25": 16536,
-  "2023-04-26": 16555,
-  "2023-04-27": 16566,
-  "2023-04-28": 16577,
-  "2023-04-29": 16581,
-  "2023-04-30": 16600,
-  "2023-05-01": 16610,
-  "2023-05-02": 16613,
-  "2023-05-03": 16618,
-  "2023-05-04": 16629,
-  "2023-05-05": 16641,
-  "2023-05-06": 16647,
-  "2023-05-07": 16663,
-  "2023-05-08": 16678,
-  "2023-05-09": 16684,
-  "2023-05-10": 16692,
-  "2023-05-11": 16698,
-  "2023-05-12": 16702,
-  "2023-05-13": 16713,
-  "2023-05-14": 16728,
-  "2023-05-15": 16746,
-  "2023-05-16": 16762,
-  "2023-05-17": 16774,
-  "2023-05-18": 16791,
-  "2023-05-19": 16806,
-  "2023-05-20": 16845,
-  "2023-05-21": 16845,
-  "2023-05-22": 16845,
-  "2023-05-23": 16857,
-  "2023-05-24": 16871,
-  "2023-05-25": 16876,
-  "2023-05-26": 16879,
-  "2023-05-27": 16890,
-  "2023-05-28": 16904,
-  "2023-05-29": 16904,
-  "2023-05-30": 16921,
-  "2023-05-31": 16935,
-  "2023-06-01": 16942,
-  "2023-06-02": 16960,
-  "2023-06-03": 16975,
-  "2023-06-04": 16985,
-  "2023-06-05": 16991,
-  "2023-06-06": 17005,
-  "2023-06-07": 17012,
-  "2023-06-08": 17014,
-  "2023-06-09": 17021,
-  "2023-06-10": 17039,
-  "2023-06-11": 17062,
-  "2023-06-12": 17070,
-  "2023-06-13": 17081,
-  "2023-06-14": 17087,
-  "2023-06-15": 17090,
-  "2023-06-16": 3431,
-  "2023-06-17": 3431,
-  "2023-06-18": 3431,
-  "2023-06-19": 3431,
-  "2023-06-20": 3431,
-  "2023-06-21": 3431,
-  "2023-06-22": 3431,
-  "2023-06-23": 3431,
-  "2023-06-24": 3431,
-  "2023-06-25": 3431,
-  "2023-06-26": 3431,
-  "2023-06-27": 3431,
-  "2023-06-28": 3431,
-  "2023-06-29": 3431,
-  "2023-06-30": 3431,
-  "2023-07-01": 3431,
-  "2023-07-02": 3431,
-  "2023-07-03": 3431,
-  "2023-07-04": 3431,
-  "2023-07-05": 3431,
-  "2023-07-06": 3431,
-  "2023-07-07": 3431,
-  "2023-07-08": 3431,
-  "2023-07-09": 3431,
-  "2023-07-10": 3431,
-  "2023-07-11": 3431,
-  "2023-07-12": 3431,
-  "2023-07-13": 3431,
-  "2023-07-14": 3431,
-  "2023-07-15": 3431,
-  "2023-07-16": 3431,
-  "2023-07-17": 3431,
-  "2023-07-18": 3431,
-  "2023-07-19": 3431,
-  "2023-07-20": 3431,
-  "2023-07-21": 3431,
-  "2023-07-22": 3431,
-  "2023-07-23": 3431,
-  "2023-07-24": 3431,
-  "2023-07-25": 3431,
-  "2023-07-26": 3431,
-  "2023-07-27": 3431,
-  "2023-07-28": 3431,
-  "2023-07-29": 3431,
-  "2023-07-30": 3431,
-  "2023-07-31": 3431,
-  "2023-08-01": 3431,
-  "2023-08-02": 3431,
-  "2023-08-03": 3431,
-  "2023-08-04": 3431,
-  "2023-08-05": 3431,
-  "2023-08-06": 3431,
-  "2023-08-07": 3431,
-  "2023-08-08": 3431,
-  "2023-08-09": 3431,
-  "2023-08-10": 3431,
-  "2023-08-11": 3431,
-  "2023-08-12": 3431,
-  "2023-08-13": 3431,
-  "2023-08-14": 3431,
-  "2023-08-15": 3431,
-  "2023-08-16": 3431,
-  "2023-08-17": 3431,
-  "2023-08-18": 3431,
-  "2023-08-19": 3431,
-  "2023-08-20": 3431,
-  "2023-08-21": 3431,
-  "2023-08-22": 3431,
-  "2023-08-23": 3431,
-  "2023-08-24": 3431,
-  "2023-08-25": 3431,
-  "2023-08-26": 3431,
-  "2023-08-27": 3431,
-  "2023-08-28": 3431,
-  "2023-08-29": 3431,
-  "2023-08-30": 3431,
-  "2023-08-31": 3431,
-  "2023-09-01": 3431,
-  "2023-09-02": 3431,
-  "2023-09-03": 3431,
-  "2023-09-04": 3431,
-  "2023-09-05": 3431,
-  "2023-09-06": 3431,
-  "2023-09-07": 3431,
-  "2023-09-08": 3431,
-  "2023-09-09": 3431,
-  "2023-09-10": 3431,
-  "2023-09-11": 3431,
-  "2023-09-12": 3431,
-  "2023-09-13": 3431,
-  "2023-09-14": 3431,
-  "2023-09-15": 3431,
-  "2023-09-16": 3431,
-  "2023-09-17": 3431,
-  "2023-09-18": 3431,
-  "2023-09-19": 3431,
-  "2023-09-20": 3431,
-  "2023-09-21": 3431,
-  "2023-09-22": 3431,
-  "2023-09-23": 3431,
-  "2023-09-24": 3431,
-  "2023-09-25": 3431,
-  "2023-09-26": 3431,
-  "2023-09-27": 3431,
-  "2023-09-28": 3431,
-  "2023-09-29": 3431,
-  "2023-09-30": 3431,
-  "2023-10-01": 3431,
-  "2023-10-02": 3431,
-  "2023-10-03": 3431,
-  "2023-10-04": 3431,
-  "2023-10-05": 3431,
-  "2023-10-06": 3431,
-  "2023-10-07": 3431,
-  "2023-10-08": 3431,
-  "2023-10-09": 3431,
-  "2023-10-10": 3431,
-  "2023-10-11": 3431,
-  "2023-10-12": 3431,
-  "2023-10-13": 3431,
-  "2023-10-14": 3431,
-  "2023-10-15": 3431,
-  "2023-10-16": 3431,
-  "2023-10-17": 3431,
-  "2023-10-18": 3431,
-  "2023-10-19": 3431,
-  "2023-10-20": 3431,
-  "2023-10-21": 3431,
-  "2023-10-22": 3431,
-  "2023-10-23": 3431,
-  "2023-10-24": 3431,
-  "2023-10-25": 3431,
-  "2023-10-26": 3431,
-  "2023-10-27": 3431,
-  "2023-10-28": 3431,
-  "2023-10-29": 3431,
-  "2023-10-30": 3431,
-  "2023-10-31": 3431,
-  "2023-11-01": 3431,
-  "2023-11-02": 3431,
-  "2023-11-03": 3431,
-  "2023-11-04": 3431,
-  "2023-11-05": 3431,
-  "2023-11-06": 3431,
-  "2023-11-07": 3431,
-  "2023-11-08": 3431,
-  "2023-11-09": 3431,
-  "2023-11-10": 3431,
-  "2023-11-11": 3431,
-  "2023-11-12": 3431,
-  "2023-11-13": 3431,
-  "2023-11-14": 3431,
-  "2023-11-15": 3431,
-  "2023-11-16": 3431,
-  "2023-11-17": 3431,
-  "2023-11-18": 3431,
-  "2023-11-19": 3431,
-  "2023-11-20": 3431,
-  "2023-11-21": 3431,
-  "2023-11-22": 3431,
-  "2023-11-23": 3431,
-  "2023-11-24": 3431,
-  "2023-11-25": 3431,
-  "2023-11-26": 3431,
-  "2023-11-27": 3431,
-  "2023-11-28": 3431,
-  "2023-11-29": 3431,
-  "2023-11-30": 3431,
-  "2023-12-01": 3431,
-  "2023-12-02": 3431,
-  "2023-12-03": 3431,
-  "2023-12-04": 3431,
-  "2023-12-05": 3431,
-  "2023-12-06": 3431,
-  "2023-12-07": 3431,
-  "2023-12-08": 3431,
-  "2023-12-09": 3431,
-  "2023-12-10": 3431,
-  "2023-12-11": 3431,
-  "2023-12-12": 3431,
-  "2023-12-13": 3431,
-  "2023-12-14": 3431,
-  "2023-12-15": 3431,
-  "2023-12-16": 3431,
-  "2023-12-17": 3431,
-  "2023-12-18": 3431,
-  "2023-12-19": 3431,
-  "2023-12-20": 3431,
-  "2023-12-21": 3431,
-  "2023-12-22": 3431,
-  "2023-12-23": 3431,
-  "2023-12-24": 3431,
-  "2023-12-25": 3431,
-  "2023-12-26": 3431,
-  "2023-12-27": 3431,
-  "2023-12-30": 3431,
-  "2023-12-31": 3431,
-  "2024-01-01": 3431,
-  "2024-01-02": 3431,
-  "2024-01-03": 3431
+  "2024-01-17": 3431,
+  "date_first_scraped": "2022-05-30",
+  "description": "\"Absolute Six\" and also \"Above BrandNew Six\".",
+  "name": "This Is AB6IX",
+  "tracks": [
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212415,
+      "name": "1, 2, 3",
+      "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180335,
+      "name": "3\"",
+      "url": "https://open.spotify.com/track/4pgPks0xK9sfUJJSMSHVlD"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194034,
+      "name": "_AND ME",
+      "url": "https://open.spotify.com/track/3m7kJV91nKEVDpcRHIQTMK"
+    },
+    {
+      "album": {
+        "name": "MO' COMPLETE: HAVE A DREAM",
+        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201584,
+      "name": "A LONG WINTER",
+      "url": "https://open.spotify.com/track/6rMsZCcBEQCQJXvBfLPHs5"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "ABSOLUTE",
+      "url": "https://open.spotify.com/track/64qPf5epX2eQiS0derYypE"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "APRICITY",
+      "url": "https://open.spotify.com/track/58NQYnzPPC6UNdITirM5bb"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202924,
+      "name": "BE THERE",
+      "url": "https://open.spotify.com/track/0R4Mh4OX3HktD3A0XT4n1H"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/1AxfiAXRJhs8qLu1WFTjD7"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269616,
+      "name": "BEHIND YOU",
+      "url": "https://open.spotify.com/track/3KslL1oHw2JreJF9RBzuVt"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186638,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/6ALiB57WX3g2AbdRjA2KEI"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216991,
+      "name": "BLIND FOR LOVE",
+      "url": "https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "BLIND FOR LOVE - Nu Disco Mix",
+      "url": "https://open.spotify.com/track/6swEE23x1DdAufXul8fI7M"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211381,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/46px5VoYxS5EK2ejdCAoVx"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211381,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp"
+    },
+    {
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "LIM YOUNG MIN",
+          "url": "https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231736,
+      "name": "BREAK UP",
+      "url": "https://open.spotify.com/track/3cPl37Es32lxWY9AT3evat"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217823,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
+    },
+    {
+      "album": {
+        "name": "CHANCE",
+        "url": "https://open.spotify.com/album/0rRO9zYWBkQa03sAXplVmA"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "CHANCE",
+      "url": "https://open.spotify.com/track/7zbrGdA3eIhoCT3WLOfU5q"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "CHANCE - Korean Version",
+      "url": "https://open.spotify.com/track/1ezJFLTZ2lSxN06qLn2P8z"
+    },
+    {
+      "album": {
+        "name": "BRANDNEW YEAR 2020: BRANDNEW UP",
+        "url": "https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "BDC",
+          "url": "https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd"
+        },
+        {
+          "name": "Lee Eun Sang",
+          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196758,
+      "name": "CHANDELIER",
+      "url": "https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210535,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
+    },
+    {
+      "album": {
+        "name": "MO' COMPLETE: HAVE A DREAM",
+        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219834,
+      "name": "CLOSE",
+      "url": "https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q"
+    },
+    {
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192514,
+      "name": "COLOR EYE",
+      "url": "https://open.spotify.com/track/2VsjGK8eJPCthu3IANWwOH"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1zOqkbQj91txSswjXJZfXL"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189679,
+      "name": "CONSOLATION",
+      "url": "https://open.spotify.com/track/3tktQ5TEIE6CiDgb7io47d"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "JEON WOONG",
+          "url": "https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/338hmbCHBYnVecbOGCs4Gd"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/4ZA0mzMW4p1M0cnDT8dkw5"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204396,
+      "name": "D.R.E.A.M",
+      "url": "https://open.spotify.com/track/1MTU0TM6Nc3qWSbkto5R49"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204450,
+      "name": "DANCE FOR TWO",
+      "url": "https://open.spotify.com/track/7scwc2Hegepz04a3bnlmKC"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188587,
+      "name": "DANDELION",
+      "url": "https://open.spotify.com/track/3a7omVEAcSSd8fYqhBXeNj"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258390,
+      "name": "DEEP INSIDE",
+      "url": "https://open.spotify.com/track/4OHGuBU5yUrgsT1emgxMSu"
+    },
+    {
+      "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174232,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/3LzLtAzD3IT6m6SAG93jZs"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214006,
+      "name": "DO YOU REMEMBER",
+      "url": "https://open.spotify.com/track/2tmyzuhfWisbAMP0FS4Vz7"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183661,
+      "name": "DOWN FOR YOU",
+      "url": "https://open.spotify.com/track/5KbRQ2OKdjJg9gJOT8bRCs"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195513,
+      "name": "EINSTEIN",
+      "url": "https://open.spotify.com/track/4WiM9e6asPxzpuRCGMc9Yy"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "ABNEW",
+          "url": "https://open.spotify.com/artist/7AlGsK053CkIzcWtFZgJlv"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225375,
+      "name": "ENCORE (feat. ABNEW)",
+      "url": "https://open.spotify.com/track/7zRuShJWeYLZD25qCR50pp"
+    },
+    {
+      "album": {
+        "name": "Fallin\u2019 (Adrenaline) [Remixes]",
+        "url": "https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212962,
+      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
+      "url": "https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR"
+    },
+    {
+      "album": {
+        "name": "Fallin\u2019 (Adrenaline) [AB6IX Remix]",
+        "url": "https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212962,
+      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
+      "url": "https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV"
+    },
+    {
+      "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175329,
+      "name": "Feelin' Good (feat. Jiselle)",
+      "url": "https://open.spotify.com/track/5jmCwPd97v8ciEfPQMuoF9"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176537,
+      "name": "FRIEND ZONE",
+      "url": "https://open.spotify.com/track/14e9d2LyLPHqWna3WmavAf"
+    },
+    {
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH"
+    },
+    {
+      "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190676,
+      "name": "Gotta Go (feat. Verbal Jint)",
+      "url": "https://open.spotify.com/track/1TpK1bmTjm4N1BAcPi7x7Q"
+    },
+    {
+      "album": {
+        "name": "MO' COMPLETE: HAVE A DREAM",
+        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "HEADLINE",
+      "url": "https://open.spotify.com/track/3gC6MlNNzzFPRMDJFiANN4"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/1wBCZKRXLl3Ody9PwbeE7j"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/5dZIWP8a0NciO6bC0cMbb7"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202124,
+      "name": "HOLD TIGHT",
+      "url": "https://open.spotify.com/track/785F5cifRCjGnNmMTGdeYQ"
+    },
+    {
+      "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/6uqgoNzaXK39CVJS4MB7Ur"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189892,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/2NkcIFj9SwKdNqRobBju5C"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187234,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/5caCE7Uqhty9MtlB7Ks5a8"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "IN YOUR EYES",
+      "url": "https://open.spotify.com/track/6KqkUPBBGFPBe0jVEy3G4d"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166663,
+      "name": "LEVEL UP",
+      "url": "https://open.spotify.com/track/16QEfpbKhIOaqahtxvhdAo"
+    },
+    {
+      "album": {
+        "name": "The Fabulous, Pt. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1vXeRBsGL50xc3AeAGJDTu"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206405,
+      "name": "Life is beautiful",
+      "url": "https://open.spotify.com/track/7A1LziRSAes7mAJu3ea9wz"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194323,
+      "name": "LIGHT ME UP",
+      "url": "https://open.spotify.com/track/5nKCQmITzxTEfC8SNmTSkV"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212992,
+      "name": "LOVE AIR",
+      "url": "https://open.spotify.com/track/57tbiOceaiySa8CLwIKBmb"
+    },
+    {
+      "album": {
+        "name": "MO' COMPLETE: HAVE A DREAM",
+        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "LULULALA",
+      "url": "https://open.spotify.com/track/2wY0zy0zM1tUEinoJu6mY6"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/35TArxNhMONAZYlrrsz63r"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/5wKp16EDQxhKuMpdb0PnrK"
+    },
+    {
+      "album": {
+        "name": "BRANDNEW YEAR 2019 'DO THAT BRANDNEW THING'",
+        "url": "https://open.spotify.com/album/4IyIHTwpkxntQlugXUYewH"
+      },
+      "artists": [
+        {
+          "name": "Kanto",
+          "url": "https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Kang Min Hee",
+          "url": "https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH"
+        },
+        {
+          "name": "YODAYOUNG",
+          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
+        },
+        {
+          "name": "BDC",
+          "url": "https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191644,
+      "name": "MELTING",
+      "url": "https://open.spotify.com/track/1uO3h6GtQ4Q57HMOBP7WiX"
+    },
+    {
+      "album": {
+        "name": "MO' COMPLETE: HAVE A DREAM",
+        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204014,
+      "name": "MERRY-GO-ROUND",
+      "url": "https://open.spotify.com/track/0nZJq7yJ1bBbVMNqHygyN1"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188081,
+      "name": "MIDNIGHT BLUE",
+      "url": "https://open.spotify.com/track/1yGaSWjEICfbtHZ1MZYP8T"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205896,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/1uThwF3Gi9N9ZR8DVIjS2Q"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205896,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/7sMXQv5zDYBttme1UUItdR"
+    },
+    {
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "JEON WOONG",
+          "url": "https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224166,
+      "name": "MOONDANCE",
+      "url": "https://open.spotify.com/track/3hGQn8GEEjsJD558f6qAtd"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
+    },
+    {
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "KIM DONG HYUN",
+          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208152,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/5jQqFhmNdiRp57Y8UNkMsZ"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219316,
+      "name": "NOTHING WITHOUT YOU",
+      "url": "https://open.spotify.com/track/3Jx5wapdhDapIYX8EtHyRf"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186622,
+      "name": "OFF THE RECORD",
+      "url": "https://open.spotify.com/track/6axKJDZCXcbZdfJckoO0GT"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179888,
+      "name": "PARACHUTE",
+      "url": "https://open.spotify.com/track/0F3nwA38IqhL7rezgQv9N8"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196596,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/5FIZD2ZrMFPoq7oHB1p02q"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211942,
+      "name": "PRETTY",
+      "url": "https://open.spotify.com/track/6oUu7veCji260Uhx7rM9Di"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219037,
+      "name": "RED UP",
+      "url": "https://open.spotify.com/track/3fu0HeerXHfYzcVUVu4eJe"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203349,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/74yjPXCV3Ue97jV4DkSZWK"
+    },
+    {
+      "album": {
+        "name": "5NALLY",
+        "url": "https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        },
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205342,
+      "name": "ROSE, SCENT, KISS",
+      "url": "https://open.spotify.com/track/5eOb7OPhOkN0gUicVIcOCH"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188656,
+      "name": "SALUTE",
+      "url": "https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188656,
+      "name": "SALUTE",
+      "url": "https://open.spotify.com/track/6dZjwys4OGDogFFVh89MBY"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181103,
+      "name": "SAVIOR",
+      "url": "https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "SAVIOR -Japanese ver.-",
+      "url": "https://open.spotify.com/track/1UZdvZuUVkRNdRWFcBmjaQ"
+    },
+    {
+      "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284612,
+      "name": "Self-Portrait (feat. KIM JAE HWAN)",
+      "url": "https://open.spotify.com/track/0BC0BGu78DzVZ6sTUOevEa"
+    },
+    {
+      "album": {
+        "name": "Self-Portrait (feat. KIM JAE HWAN)",
+        "url": "https://open.spotify.com/album/70wZqV2TqpWbhVisqt27Ex"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284612,
+      "name": "Self-Portrait (feat. KIM JAE HWAN)",
+      "url": "https://open.spotify.com/track/1UChGtr3KzNRIxkOqPhDWw"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/2uHfd1rAFd9ZhAXSFS7KqW"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192438,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/6myWuWpEcdtX11cWbFxQT6"
+    },
+    {
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227590,
+      "name": "SHINING STARS",
+      "url": "https://open.spotify.com/track/03zPSjqUGeGKCSbNoQJBqd"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208919,
+      "name": "SHOWDOWN",
+      "url": "https://open.spotify.com/track/4wCyDQYkdns4adPaEQCIBa"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "SIMPLE LOVER",
+      "url": "https://open.spotify.com/track/5oHUSZjZ9MEZqAp9TEegJZ"
+    },
+    {
+      "album": {
+        "name": "MO\u2019 COMPLETE",
+        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240524,
+      "name": "STAY WITH ME",
+      "url": "https://open.spotify.com/track/20t9Wn063dlhUVMLtY2StX"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208929,
+      "name": "STAY YOUNG",
+      "url": "https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214010,
+      "name": "Sucker for your love",
+      "url": "https://open.spotify.com/track/3BgoJFAHeowRMb6LePgwUn"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Sucker for your love -Japanese ver.-",
+      "url": "https://open.spotify.com/track/47sWBKKishXyQd91jsQwru"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Sugarcoat",
+      "url": "https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy"
+    },
+    {
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "SUNSET",
+      "url": "https://open.spotify.com/track/3aw7rTmNRiB8NbV5w9z0Kw"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193755,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/28pj5S2cbGHxdF3sk2x4lc"
+    },
+    {
+      "album": {
+        "name": "SALUTE: A NEW HOPE",
+        "url": "https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217494,
+      "name": "SURREAL - Alternative Rock Mix",
+      "url": "https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190832,
+      "name": "THE ANSWER",
+      "url": "https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa"
+    },
+    {
+      "album": {
+        "name": "oWn",
+        "url": "https://open.spotify.com/album/2wGcS6TVNM0DBxdAEidf4g"
+      },
+      "artists": [
+        {
+          "name": "PARK WOO JIN",
+          "url": "https://open.spotify.com/artist/0kS1oLtVdBidgH2aKloRKR"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170538,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/70UObiGz3vxO2Gv9myhlVi"
+    },
+    {
+      "album": {
+        "name": "SAVIOR",
+        "url": "https://open.spotify.com/album/4m4BcuAMkZAH3QZ2oWefoY"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/0lHPWGj6Zl62Ff8afRIN7w"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "KIM DONG HYUN",
+          "url": "https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190501,
+      "name": "VENUS",
+      "url": "https://open.spotify.com/track/4qhd5mh5VBZJL6vhIM3Oxk"
+    },
+    {
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/3z4jfbtiivb9HYzCROWF1c"
+    },
+    {
+      "album": {
+        "name": "Walking In The Rain (TEN PROJECT, Pt. 4)",
+        "url": "https://open.spotify.com/album/0uFQ8dnMXvwkVRStsOn3va"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221161,
+      "name": "Walking In The Rain",
+      "url": "https://open.spotify.com/track/1VYwqTxCvQZHpvI9WQVmdq"
+    },
+    {
+      "album": {
+        "name": "A to B",
+        "url": "https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208686,
+      "name": "We Could Love",
+      "url": "https://open.spotify.com/track/13wL441ZsKQx0Xf8OMyM7C"
+    },
+    {
+      "album": {
+        "name": "TAKE A CHANCE",
+        "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186447,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/238xOQ6GbmUoIS9pqIZg15"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXZYiAIXe47k"
 }

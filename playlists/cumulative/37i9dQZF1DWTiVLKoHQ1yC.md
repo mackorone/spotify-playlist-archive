@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-112 songs - 8 hr 31 min
+113 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [How Often \- Ben Böhmer Remix](https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Brightest Lights Remixed](https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW) | 4:55 | 2022-01-14 |  |
 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 | 2022-11-25 |  |
 | [I Saw Good](https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [I Saw Good](https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU) | 3:07 | 2022-01-14 |  |
-| [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 | 2022-01-14 | 2023-12-21 |
+| [Influence \- Edit](https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Influence](https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o) | 4:19 | 2022-01-14 | 2024-01-13 |
 | [Just To Hear You Say](https://open.spotify.com/track/1bqLz6dF5MhBZkZO5QSf4N) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/4E8mL0pF0wa8wqQrShYVXQ) | 3:32 | 2022-01-14 | 2022-07-29 |
 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 | 2022-01-14 | 2022-11-14 |
 | [Just To Hear You Say](https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 3:33 | 2022-01-14 |  |
@@ -110,7 +110,8 @@
 | [Unite](https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Unite](https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd) | 3:08 | 2022-01-14 |  |
 | [Vaia \- PVSHL Remix Edit](https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz), [PVSHL](https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF) | [Vaia \(PVSHL Remix\)](https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS) | 4:36 | 2022-01-14 | 2022-11-11 |
 | [Vaia \- PVSHL Remix Edit](https://open.spotify.com/track/5j3kkxIyGrDaHLaWPNb56g) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz), [PVSHL](https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF) | [Vaia \(PVSHL Remix\)](https://open.spotify.com/album/5Y4NzuaqziJu0QFkP2WHiQ) | 4:36 | 2022-01-14 | 2022-07-29 |
-| [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 | 2022-01-14 |  |
+| [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 | 2022-01-14 | 2024-01-05 |
+| [Vanishing](https://open.spotify.com/track/0ycTj4BB8FFmFL6tWw7m6N) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX) | 6:12 | 2022-11-25 |  |
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 |  |
 | [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 |  |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |

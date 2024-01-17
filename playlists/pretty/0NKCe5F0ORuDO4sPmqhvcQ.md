@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,868 likes - 148 songs - 8 hr 27 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,844 likes - 149 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 146 | [bitbybit](https://open.spotify.com/track/38iLG7Onussu2QuehUiK1Y) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [leo](https://open.spotify.com/album/2HCJZS3ePjIeJIY4yxI7Hy) | 5:11 |
 | 147 | [Happy Days In Happy Weather](https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Happy Days In Happy Weather](https://open.spotify.com/album/4ztz1tyse71PSaomFWkvox) | 3:04 |
 | 148 | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC) | 3:00 |
+| 149 | [Growing Pains](https://open.spotify.com/track/094tCgchiXY2srShd51TvA) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Growing Pains](https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv) | 4:24 |
 
-Snapshot ID: `MTA1NzIsMTgyYTJjYWIxOWVkYjM1NTEwNzU2MWNmNTUyZWVkOTA5OTY0NDJhMQ==`
+Snapshot ID: `MTA1NzMsYmI0YTNmMzgzMzcxOWU1MDA4N2M4MjI3ZjFlNGY2MjYzNTlmZThkNA==`

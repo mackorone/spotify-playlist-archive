@@ -1,620 +1,827 @@
 {
-  "2022-04-20": 65888,
-  "2022-04-21": 65931,
-  "2022-04-22": 65962,
-  "2022-04-23": 65993,
-  "2022-04-24": 66024,
-  "2022-04-25": 66047,
-  "2022-04-26": 66076,
-  "2022-04-27": 66123,
-  "2022-04-28": 66145,
-  "2022-04-29": 66195,
-  "2022-04-30": 66213,
-  "2022-05-01": 66260,
-  "2022-05-02": 66260,
-  "2022-05-03": 66298,
-  "2022-05-04": 66360,
-  "2022-05-05": 66414,
-  "2022-05-06": 66490,
-  "2022-05-07": 66591,
-  "2022-05-08": 66681,
-  "2022-05-09": 66691,
-  "2022-05-10": 66733,
-  "2022-05-11": 66815,
-  "2022-05-12": 66869,
-  "2022-05-13": 66925,
-  "2022-05-14": 66963,
-  "2022-05-15": 67022,
-  "2022-05-16": 67073,
-  "2022-05-17": 67118,
-  "2022-05-18": 67162,
-  "2022-05-19": 67215,
-  "2022-05-20": 67265,
-  "2022-05-21": 67352,
-  "2022-05-22": 67352,
-  "2022-05-23": 67411,
-  "2022-05-24": 67456,
-  "2022-05-25": 67494,
-  "2022-05-26": 67542,
-  "2022-05-27": 67543,
-  "2022-05-28": 67581,
-  "2022-05-29": 67608,
-  "2022-05-30": 67659,
-  "2022-05-31": 67708,
-  "2022-06-01": 67773,
-  "2022-06-02": 67775,
-  "2022-06-03": 67823,
-  "2022-06-04": 67852,
-  "2022-06-05": 67901,
-  "2022-06-06": 67934,
-  "2022-06-07": 67980,
-  "2022-06-08": 68018,
-  "2022-06-09": 68064,
-  "2022-06-10": 68102,
-  "2022-06-11": 68126,
-  "2022-06-12": 68127,
-  "2022-06-13": 68152,
-  "2022-06-14": 68209,
-  "2022-06-15": 68238,
-  "2022-06-16": 68268,
-  "2022-06-17": 68310,
-  "2022-06-18": 68351,
-  "2022-06-19": 68423,
-  "2022-06-20": 68423,
-  "2022-06-21": 68473,
-  "2022-06-22": 68555,
-  "2022-06-23": 68555,
-  "2022-06-24": 68589,
-  "2022-06-25": 68634,
-  "2022-06-26": 68687,
-  "2022-06-27": 68736,
-  "2022-06-28": 68785,
-  "2022-06-29": 68841,
-  "2022-06-30": 68880,
-  "2022-07-01": 68922,
-  "2022-07-02": 68972,
-  "2022-07-03": 69010,
-  "2022-07-04": 69045,
-  "2022-07-05": 69077,
-  "2022-07-06": 69113,
-  "2022-07-07": 69153,
-  "2022-07-08": 69194,
-  "2022-07-09": 69242,
-  "2022-07-10": 69261,
-  "2022-07-11": 69288,
-  "2022-07-12": 69329,
-  "2022-07-13": 69375,
-  "2022-07-14": 69410,
-  "2022-07-15": 69446,
-  "2022-07-16": 69497,
-  "2022-07-17": 69528,
-  "2022-07-18": 69573,
-  "2022-07-19": 69612,
-  "2022-07-20": 69642,
-  "2022-07-21": 69686,
-  "2022-07-22": 69714,
-  "2022-07-23": 69733,
-  "2022-07-24": 69757,
-  "2022-07-25": 69784,
-  "2022-07-26": 69808,
-  "2022-07-27": 69850,
-  "2022-07-28": 69888,
-  "2022-07-29": 69925,
-  "2022-07-30": 69990,
-  "2022-07-31": 69990,
-  "2022-08-01": 70006,
-  "2022-08-02": 70069,
-  "2022-08-03": 70069,
-  "2022-08-04": 70090,
-  "2022-08-05": 70117,
-  "2022-08-06": 70145,
-  "2022-08-07": 70180,
-  "2022-08-08": 70213,
-  "2022-08-09": 70247,
-  "2022-08-10": 70263,
-  "2022-08-11": 70297,
-  "2022-08-12": 70328,
-  "2022-08-13": 70350,
-  "2022-08-14": 70395,
-  "2022-08-15": 70446,
-  "2022-08-16": 70490,
-  "2022-08-17": 70522,
-  "2022-08-18": 70559,
-  "2022-08-19": 70606,
-  "2022-08-20": 70649,
-  "2022-08-21": 70681,
-  "2022-08-22": 70710,
-  "2022-08-23": 70746,
-  "2022-08-24": 70792,
-  "2022-08-25": 70837,
-  "2022-08-26": 70870,
-  "2022-08-27": 70924,
-  "2022-08-28": 70955,
-  "2022-08-29": 70999,
-  "2022-08-30": 71001,
-  "2022-08-31": 70938,
-  "2022-09-01": 70896,
-  "2022-09-02": 70863,
-  "2022-09-03": 70755,
-  "2022-09-04": 70726,
-  "2022-09-05": 70745,
-  "2022-09-06": 70769,
-  "2022-09-07": 70803,
-  "2022-09-09": 70888,
-  "2022-09-10": 70928,
-  "2022-09-11": 70964,
-  "2022-09-12": 71017,
-  "2022-09-13": 71030,
-  "2022-09-15": 71121,
-  "2022-09-16": 71159,
-  "2022-09-17": 71206,
-  "2022-09-18": 71258,
-  "2022-09-19": 71297,
-  "2022-09-20": 71324,
-  "2022-09-21": 71362,
-  "2022-09-22": 71386,
-  "2022-09-23": 71436,
-  "2022-09-24": 71487,
-  "2022-09-25": 71512,
-  "2022-09-26": 71543,
-  "2022-09-27": 71590,
-  "2022-09-28": 71633,
-  "2022-09-29": 71679,
-  "2022-09-30": 71725,
-  "2022-10-01": 71751,
-  "2022-10-02": 71786,
-  "2022-10-03": 71827,
-  "2022-10-04": 71879,
-  "2022-10-05": 71921,
-  "2022-10-06": 71938,
-  "2022-10-07": 71969,
-  "2022-10-08": 71995,
-  "2022-10-09": 72029,
-  "2022-10-10": 72035,
-  "2022-10-11": 72068,
-  "2022-10-12": 72101,
-  "2022-10-13": 72126,
-  "2022-10-14": 72157,
-  "2022-10-15": 72186,
-  "2022-10-16": 72205,
-  "2022-10-17": 72240,
-  "2022-10-18": 72272,
-  "2022-10-19": 72317,
-  "2022-10-20": 72357,
-  "2022-10-21": 72393,
-  "2022-10-22": 72430,
-  "2022-10-23": 72456,
-  "2022-10-24": 72509,
-  "2022-10-25": 72551,
-  "2022-10-26": 72596,
-  "2022-10-27": 72643,
-  "2022-10-28": 72685,
-  "2022-10-29": 72718,
-  "2022-10-30": 72749,
-  "2022-10-31": 72768,
-  "2022-11-01": 72811,
-  "2022-11-02": 72843,
-  "2022-11-03": 72867,
-  "2022-11-04": 72908,
-  "2022-11-05": 72949,
-  "2022-11-06": 72980,
-  "2022-11-07": 73027,
-  "2022-11-08": 73064,
-  "2022-11-09": 73095,
-  "2022-11-10": 73122,
-  "2022-11-11": 73147,
-  "2022-11-12": 73185,
-  "2022-11-13": 73207,
-  "2022-11-14": 73239,
-  "2022-11-15": 73279,
-  "2022-11-16": 73317,
-  "2022-11-17": 73352,
-  "2022-11-18": 73360,
-  "2022-11-19": 73363,
-  "2022-11-20": 73388,
-  "2022-11-21": 73426,
-  "2022-11-22": 73449,
-  "2022-11-23": 73480,
-  "2022-11-24": 73550,
-  "2022-11-25": 73616,
-  "2022-11-26": 73657,
-  "2022-11-27": 73692,
-  "2022-11-28": 73731,
-  "2022-11-29": 73763,
-  "2022-11-30": 73792,
-  "2022-12-01": 73843,
-  "2022-12-02": 73885,
-  "2022-12-03": 73988,
-  "2022-12-04": 74057,
-  "2022-12-05": 74103,
-  "2022-12-06": 74160,
-  "2022-12-07": 74204,
-  "2022-12-08": 74248,
-  "2022-12-09": 74292,
-  "2022-12-10": 74333,
-  "2022-12-11": 74357,
-  "2022-12-12": 74413,
-  "2022-12-13": 74460,
-  "2022-12-14": 74500,
-  "2022-12-15": 74532,
-  "2022-12-16": 74577,
-  "2022-12-17": 74641,
-  "2022-12-18": 74681,
-  "2022-12-19": 74741,
-  "2022-12-20": 74782,
-  "2022-12-21": 74782,
-  "2022-12-22": 74813,
-  "2022-12-24": 74892,
-  "2022-12-25": 74925,
-  "2022-12-26": 74960,
-  "2022-12-27": 75001,
-  "2022-12-28": 75025,
-  "2022-12-29": 75091,
-  "2022-12-30": 75110,
-  "2022-12-31": 75151,
-  "2023-01-01": 75170,
-  "2023-01-02": 75196,
-  "2023-01-03": 75232,
-  "2023-01-04": 75272,
-  "2023-01-05": 75318,
-  "2023-01-06": 75379,
-  "2023-01-07": 75440,
-  "2023-01-08": 75450,
-  "2023-01-09": 75485,
-  "2023-01-10": 75532,
-  "2023-01-11": 75577,
-  "2023-01-12": 75613,
-  "2023-01-13": 75649,
-  "2023-01-14": 75738,
-  "2023-01-15": 75742,
-  "2023-01-16": 75796,
-  "2023-01-17": 75847,
-  "2023-01-18": 75898,
-  "2023-01-19": 75939,
-  "2023-01-20": 75989,
-  "2023-01-21": 76029,
-  "2023-01-22": 76056,
-  "2023-01-23": 76105,
-  "2023-01-24": 76143,
-  "2023-01-25": 76171,
-  "2023-01-26": 76213,
-  "2023-01-27": 76255,
-  "2023-01-28": 76273,
-  "2023-01-29": 76297,
-  "2023-01-30": 76339,
-  "2023-01-31": 76339,
-  "2023-02-01": 76422,
-  "2023-02-02": 76458,
-  "2023-02-03": 76499,
-  "2023-02-04": 76532,
-  "2023-02-05": 76605,
-  "2023-02-06": 76696,
-  "2023-02-07": 76763,
-  "2023-02-08": 76875,
-  "2023-02-09": 76875,
-  "2023-02-10": 76935,
-  "2023-02-11": 76980,
-  "2023-02-12": 77071,
-  "2023-02-13": 77127,
-  "2023-02-14": 77127,
-  "2023-02-15": 77159,
-  "2023-02-16": 77196,
-  "2023-02-17": 77235,
-  "2023-02-18": 77337,
-  "2023-02-19": 77346,
-  "2023-02-20": 77337,
-  "2023-02-21": 77372,
-  "2023-02-22": 77425,
-  "2023-02-23": 77460,
-  "2023-02-24": 77513,
-  "2023-02-25": 77582,
-  "2023-02-26": 77610,
-  "2023-02-27": 77687,
-  "2023-02-28": 77687,
-  "2023-03-01": 77702,
-  "2023-03-02": 77742,
-  "2023-03-03": 77783,
-  "2023-03-04": 77800,
-  "2023-03-05": 77879,
-  "2023-03-06": 77879,
-  "2023-03-07": 77909,
-  "2023-03-08": 77960,
-  "2023-03-09": 77995,
-  "2023-03-10": 78022,
-  "2023-03-11": 78061,
-  "2023-03-12": 78086,
-  "2023-03-13": 78119,
-  "2023-03-14": 78166,
-  "2023-03-15": 78213,
-  "2023-03-16": 78243,
-  "2023-03-17": 78243,
-  "2023-03-18": 78335,
-  "2023-03-19": 78372,
-  "2023-03-20": 78414,
-  "2023-03-21": 78440,
-  "2023-03-22": 78469,
-  "2023-03-23": 78504,
-  "2023-03-24": 78504,
-  "2023-03-25": 78569,
-  "2023-03-26": 78606,
-  "2023-03-27": 78638,
-  "2023-03-28": 78667,
-  "2023-03-29": 78715,
-  "2023-03-30": 78769,
-  "2023-03-31": 78769,
-  "2023-04-01": 78794,
-  "2023-04-02": 78820,
-  "2023-04-03": 78864,
-  "2023-04-04": 78918,
-  "2023-04-05": 78955,
-  "2023-04-06": 79000,
-  "2023-04-07": 79026,
-  "2023-04-09": 79106,
-  "2023-04-10": 79157,
-  "2023-04-11": 79257,
-  "2023-04-12": 79257,
-  "2023-04-13": 79300,
-  "2023-04-14": 79364,
-  "2023-04-15": 79407,
-  "2023-04-16": 79444,
-  "2023-04-17": 79478,
-  "2023-04-18": 79511,
-  "2023-04-19": 79557,
-  "2023-04-20": 79589,
-  "2023-04-21": 79637,
-  "2023-04-22": 79685,
-  "2023-04-23": 79719,
-  "2023-04-24": 79769,
-  "2023-04-25": 79875,
-  "2023-04-26": 79967,
-  "2023-04-27": 80040,
-  "2023-04-28": 80100,
-  "2023-04-29": 80181,
-  "2023-04-30": 80230,
-  "2023-05-01": 80253,
-  "2023-05-02": 80304,
-  "2023-05-03": 80361,
-  "2023-05-04": 80414,
-  "2023-05-05": 80453,
-  "2023-05-06": 80512,
-  "2023-05-07": 80567,
-  "2023-05-08": 80614,
-  "2023-05-09": 80663,
-  "2023-05-10": 80716,
-  "2023-05-11": 80748,
-  "2023-05-12": 80783,
-  "2023-05-13": 80826,
-  "2023-05-14": 80856,
-  "2023-05-15": 80897,
-  "2023-05-16": 80941,
-  "2023-05-17": 80976,
-  "2023-05-18": 81016,
-  "2023-05-19": 81054,
-  "2023-05-20": 81132,
-  "2023-05-21": 81132,
-  "2023-05-22": 81132,
-  "2023-05-23": 81195,
-  "2023-05-24": 81261,
-  "2023-05-25": 81272,
-  "2023-05-26": 81303,
-  "2023-05-27": 81340,
-  "2023-05-28": 81381,
-  "2023-05-29": 81381,
-  "2023-05-30": 81430,
-  "2023-05-31": 81447,
-  "2023-06-01": 81489,
-  "2023-06-02": 81538,
-  "2023-06-03": 81584,
-  "2023-06-04": 81631,
-  "2023-06-05": 81664,
-  "2023-06-06": 81702,
-  "2023-06-07": 81745,
-  "2023-06-08": 81791,
-  "2023-06-09": 81822,
-  "2023-06-10": 81865,
-  "2023-06-11": 81927,
-  "2023-06-12": 81975,
-  "2023-06-13": 82018,
-  "2023-06-14": 82084,
-  "2023-06-15": 82127,
-  "2023-06-16": 82175,
-  "2023-06-17": 82219,
-  "2023-06-18": 82246,
-  "2023-06-19": 82264,
-  "2023-06-20": 82296,
-  "2023-06-21": 82322,
-  "2023-06-22": 82343,
-  "2023-06-23": 82366,
-  "2023-06-24": 82391,
-  "2023-06-25": 82432,
-  "2023-06-26": 82463,
-  "2023-06-27": 82471,
-  "2023-06-28": 82506,
-  "2023-06-29": 82534,
-  "2023-06-30": 82576,
-  "2023-07-01": 82658,
-  "2023-07-02": 82658,
-  "2023-07-03": 82695,
-  "2023-07-04": 82724,
-  "2023-07-05": 82764,
-  "2023-07-06": 82847,
-  "2023-07-07": 82847,
-  "2023-07-08": 82879,
-  "2023-07-09": 82922,
-  "2023-07-10": 82947,
-  "2023-07-11": 82982,
-  "2023-07-12": 83039,
-  "2023-07-13": 83089,
-  "2023-07-14": 83128,
-  "2023-07-15": 83161,
-  "2023-07-16": 83219,
-  "2023-07-17": 83254,
-  "2023-07-18": 83279,
-  "2023-07-19": 83321,
-  "2023-07-20": 83355,
-  "2023-07-21": 83395,
-  "2023-07-22": 83417,
-  "2023-07-23": 83449,
-  "2023-07-24": 83483,
-  "2023-07-25": 83527,
-  "2023-07-26": 83551,
-  "2023-07-27": 83570,
-  "2023-07-28": 83618,
-  "2023-07-29": 83656,
-  "2023-07-30": 83694,
-  "2023-07-31": 83705,
-  "2023-08-01": 83747,
-  "2023-08-02": 83801,
-  "2023-08-03": 83838,
-  "2023-08-04": 83898,
-  "2023-08-05": 83951,
-  "2023-08-06": 84026,
-  "2023-08-07": 84026,
-  "2023-08-08": 84068,
-  "2023-08-09": 84110,
-  "2023-08-10": 84148,
-  "2023-08-11": 84175,
-  "2023-08-12": 84217,
-  "2023-08-13": 84268,
-  "2023-08-14": 84305,
-  "2023-08-15": 84376,
-  "2023-08-16": 84376,
-  "2023-08-17": 84408,
-  "2023-08-18": 84450,
-  "2023-08-19": 84484,
-  "2023-08-20": 84521,
-  "2023-08-21": 84550,
-  "2023-08-22": 84616,
-  "2023-08-23": 84642,
-  "2023-08-24": 84687,
-  "2023-08-25": 84713,
-  "2023-08-26": 84743,
-  "2023-08-27": 84789,
-  "2023-08-28": 84804,
-  "2023-08-29": 84842,
-  "2023-08-30": 84862,
-  "2023-08-31": 84892,
-  "2023-09-01": 84955,
-  "2023-09-02": 84955,
-  "2023-09-03": 84986,
-  "2023-09-04": 85021,
-  "2023-09-05": 85056,
-  "2023-09-06": 85090,
-  "2023-09-07": 85123,
-  "2023-09-08": 85148,
-  "2023-09-09": 85188,
-  "2023-09-10": 85215,
-  "2023-09-11": 85256,
-  "2023-09-12": 85281,
-  "2023-09-13": 85313,
-  "2023-09-14": 85334,
-  "2023-09-15": 85365,
-  "2023-09-16": 85406,
-  "2023-09-17": 85433,
-  "2023-09-18": 85457,
-  "2023-09-19": 85491,
-  "2023-09-20": 85510,
-  "2023-09-21": 85547,
-  "2023-09-22": 85568,
-  "2023-09-23": 85594,
-  "2023-09-24": 85635,
-  "2023-09-25": 85658,
-  "2023-09-26": 85679,
-  "2023-09-27": 85697,
-  "2023-09-28": 85737,
-  "2023-09-29": 85764,
-  "2023-09-30": 85786,
-  "2023-10-01": 85815,
-  "2023-10-02": 85856,
-  "2023-10-03": 85851,
-  "2023-10-04": 85891,
-  "2023-10-05": 85938,
-  "2023-10-06": 85984,
-  "2023-10-07": 86011,
-  "2023-10-08": 86022,
-  "2023-10-09": 86048,
-  "2023-10-10": 86046,
-  "2023-10-11": 86028,
-  "2023-10-12": 86028,
-  "2023-10-13": 86049,
-  "2023-10-14": 86060,
-  "2023-10-15": 86083,
-  "2023-10-16": 86112,
-  "2023-10-17": 86149,
-  "2023-10-18": 86158,
-  "2023-10-19": 86183,
-  "2023-10-20": 86222,
-  "2023-10-21": 86237,
-  "2023-10-22": 86282,
-  "2023-10-23": 86296,
-  "2023-10-24": 86362,
-  "2023-10-25": 86423,
-  "2023-10-26": 86471,
-  "2023-10-27": 86501,
-  "2023-10-28": 86501,
-  "2023-10-29": 86581,
-  "2023-10-30": 86634,
-  "2023-10-31": 86634,
-  "2023-11-01": 86654,
-  "2023-11-02": 86686,
-  "2023-11-03": 86709,
-  "2023-11-04": 86734,
-  "2023-11-05": 86763,
-  "2023-11-06": 86785,
-  "2023-11-07": 86807,
-  "2023-11-08": 86831,
-  "2023-11-09": 86845,
-  "2023-11-10": 86872,
-  "2023-11-11": 86885,
-  "2023-11-12": 86903,
-  "2023-11-13": 86919,
-  "2023-11-14": 86938,
-  "2023-11-15": 86938,
-  "2023-11-16": 86992,
-  "2023-11-17": 87045,
-  "2023-11-18": 87045,
-  "2023-11-19": 87065,
-  "2023-11-20": 87075,
-  "2023-11-21": 87123,
-  "2023-11-22": 87164,
-  "2023-11-23": 87181,
-  "2023-11-24": 87213,
-  "2023-11-25": 87242,
-  "2023-11-26": 87272,
-  "2023-11-27": 87281,
-  "2023-11-28": 87306,
-  "2023-11-29": 87367,
-  "2023-11-30": 87367,
-  "2023-12-01": 87410,
-  "2023-12-02": 87454,
-  "2023-12-03": 87490,
-  "2023-12-04": 87510,
-  "2023-12-05": 87536,
-  "2023-12-06": 87570,
-  "2023-12-07": 87587,
-  "2023-12-08": 87602,
-  "2023-12-09": 87628,
-  "2023-12-10": 87655,
-  "2023-12-11": 87679,
-  "2023-12-12": 87705,
-  "2023-12-13": 87742,
-  "2023-12-14": 87781,
-  "2023-12-15": 87805,
-  "2023-12-16": 87827,
-  "2023-12-17": 87839,
-  "2023-12-18": 87860,
-  "2023-12-19": 87888,
-  "2023-12-20": 87908,
-  "2023-12-21": 87936,
-  "2023-12-22": 87970,
-  "2023-12-23": 87991,
-  "2023-12-24": 88020,
-  "2023-12-25": 88039,
-  "2023-12-26": 88056,
-  "2023-12-27": 88077,
-  "2023-12-30": 88146,
-  "2023-12-31": 88169,
-  "2024-01-01": 88180,
-  "2024-01-02": 88194,
-  "2024-01-03": 88212
+  "2024-01-17": 88360,
+  "date_first_scraped": "2022-04-20",
+  "description": "Listen BAEKHYUN's all solo tracks here.",
+  "name": "This is BAEKHYUN",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/2iVsJ2ZuD6b0aHUSi6wcQG"
+    },
+    {
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201475,
+      "name": "Betcha",
+      "url": "https://open.spotify.com/track/1YhC9zXqhm1zsFpcf7vTPN"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Bungee",
+      "url": "https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237658,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1fDfhkAIfscEoGKBDRMvr1"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222415,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Every second",
+      "url": "https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7MmdJZrkNew5jymkmAOTq4"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Every second",
+      "url": "https://open.spotify.com/track/50eMP4iy5qLxcK7mHalDZw"
+    },
+    {
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5uyGfHRPwjZPyz6IN5ixPf"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196549,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1WVL1B65eUDa6eaUY4llg2"
+    },
+    {
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196549,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "album": {
+        "name": "Our Beloved BoA #1 - SM STATION",
+        "url": "https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "Garden In The Air",
+      "url": "https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv"
+    },
+    {
+      "album": {
+        "name": "Do You Like Brahms? OST Part.11",
+        "url": "https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 11",
+        "url": "https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN"
+    },
+    {
+      "album": {
+        "name": "Do You Like Brahms? OST",
+        "url": "https://open.spotify.com/album/2foGQCPi7r51K42QsxTbYq"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/4ktpGEOe6hPwlowhoOU6IN"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215846,
+      "name": "Ice Queen",
+      "url": "https://open.spotify.com/track/6z4suYXf384HJU1bK8PhOZ"
+    },
+    {
+      "album": {
+        "name": "Leo (feat. BAEKHYUN)",
+        "url": "https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187986,
+      "name": "Leo (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV"
+    },
+    {
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Leo (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Love Scene",
+      "url": "https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST",
+        "url": "https://open.spotify.com/album/2r2lnbE1PtqdUaSxUGDLHc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193930,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/0phZ2ubhVXBEk3aPSrOwuf"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.1",
+        "url": "https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193930,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
+    },
+    {
+      "album": {
+        "name": "HYENA (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1ps9C9hsH6eT2W46d9r68D"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238752,
+      "name": "On the road",
+      "url": "https://open.spotify.com/track/0i5rdCbqhk6Iao4bwI4B9J"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Poppin\u2019",
+      "url": "https://open.spotify.com/track/1JTUPJr0rSf93hNlRR6S0g"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Privacy",
+      "url": "https://open.spotify.com/track/4WxthDZgaQqmj5tIuneDNX"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205950,
+      "name": "Psycho - Bonus Track",
+      "url": "https://open.spotify.com/track/59i14jziCvvdoTYJn7SiKe"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "R U Ridin\u2019?",
+      "url": "https://open.spotify.com/track/4Jxc98fY5SQ6zyGg8Dnybw"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3p0UBB3OZJ9RLb6ecdu2dk"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226009,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5BORybllcNNjapY2shRHy1"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Stay Up",
+      "url": "https://open.spotify.com/track/1w6QVxfBpW9hImuZXNHcmL"
+    },
+    {
+      "album": {
+        "name": "Take You Home - SM STATION",
+        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234954,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "album": {
+        "name": "The Day - SM STATION",
+        "url": "https://open.spotify.com/album/5i0PmE4iiLVoQX8xc4UOJP"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230275,
+      "name": "The Day",
+      "url": "https://open.spotify.com/track/3MNJzWgUmu0X9tQxRuww8N"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235509,
+      "name": "UN Village",
+      "url": "https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U"
+    },
+    {
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "YOUNG",
+      "url": "https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193930,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
+      "url": "https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193930,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
+      "url": "https://open.spotify.com/track/2w6rMzo6ECQi8ubNeO9UQS"
+    },
+    {
+      "album": {
+        "name": "HYENA (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238752,
+      "name": "\ub108\uc5d0\uac8c \uac00\ub294 \uc774 \uae38 \uc704\uc5d0\uc11c (\ub108.\uc774.\uae38)",
+      "url": "https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac \uc606\uc9d1\uc5d0 EXO\uac00 \uc0b0\ub2e4 (EXO NEXT DOOR) OST",
+        "url": "https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
+      "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
+    },
+    {
+      "album": {
+        "name": "2015 \uac00\uc694\ub300\uc804 Limited Edition",
+        "url": "https://open.spotify.com/album/5QxeSMFLJ70kPLHzRiL2Nx"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181726,
+      "name": "\ube44\ucc98\ub7fc \uc74c\uc545\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/28XlJkvSn8Dq99UkThmoeQ"
+    },
+    {
+      "album": {
+        "name": "2015 \uac00\uc694\ub300\uc804 Limited Edition",
+        "url": "https://open.spotify.com/album/61gomND4rCDOYxKnR4sn69"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181726,
+      "name": "\ube44\ucc98\ub7fc \uc74c\uc545\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/2NituILXKHPDSTgPVh9wqt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX82z3m3RyeLu"
 }

@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-99 songs - 6 hr 55 min
+101 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [おまえとふたり](https://open.spotify.com/track/3OL41vM3n4DdyaWELJi6QL) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクション3\(1971\-1994\)～おまえとふたり～](https://open.spotify.com/album/5NC095cpBWbZNFGvpOVoki) | 3:27 | 2023-06-28 |  |
 | [さよなら](https://open.spotify.com/track/3bXH3Ks4KqYSAbZkBjDSLY) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [NEXT SOUND TRACK](https://open.spotify.com/album/25VxoClHqSX5tyVlvWI48J) | 5:01 | 2023-06-28 |  |
 | [さよならの向う側](https://open.spotify.com/track/0dnX79YvpXM4AX4nwrSZUm) | [Momoe Yamaguchi](https://open.spotify.com/artist/3QyXESPMLvue8SWNSnBwPp) | [GOLDEN☆BEST 山口百恵　コンプリート・シングルコレクション](https://open.spotify.com/album/6BQax7rP9LzOk2oJ2tpC75) | 6:04 | 2023-06-28 |  |
-| [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 | 2023-06-28 |  |
+| [とまり木](https://open.spotify.com/track/3V90kEOAJsvIewAG0rYbHt) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [歌手生活35周年記念 小林幸子ツイン･パック／雨月（つき）伝説](https://open.spotify.com/album/19fptgVCO9mArxE6rsk9ba) | 3:28 | 2023-06-28 |  |
+| [とまり木](https://open.spotify.com/track/0u9NfvZhBJOx0mD1dBp28O) | [Sachiko Kobayashi](https://open.spotify.com/artist/5Oljj7CrBfllZyQzifDmFo) | [小林幸子全曲集 2017](https://open.spotify.com/album/6qbTjzj9A6o6d79tHdi2iJ) | 3:29 | 2023-06-28 | 2024-01-17 |
 | [ひとり上手](https://open.spotify.com/track/7oSAzD9RTyiPHOM16noKMl) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [ひとり上手](https://open.spotify.com/album/2nSODtiSpNtJakuQDd6GMi) | 4:14 | 2023-06-28 |  |
 | [アンジェリーナ](https://open.spotify.com/track/3wytnIRvzHNwvYpIodyO7D) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb) | [BACK TO THE STREET](https://open.spotify.com/album/6fITdLIZrwkLeQarCMBfmU) | 4:03 | 2023-06-28 |  |
 | [ガラスのジェネレーション \(LPヴァージョン\)](https://open.spotify.com/track/7pZKEU5bOOaj1bkKYHfvdU) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb) | [Heart Beat](https://open.spotify.com/album/6kQ6P2P8W5a5kUrbuH0lSd) | 3:34 | 2023-06-28 |  |
@@ -85,7 +86,8 @@
 | [倖せさがして](https://open.spotify.com/track/7MjtzyieDOahWGjfpUakaV) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクション3\(1971\-1994\)～おまえとふたり～](https://open.spotify.com/album/5NC095cpBWbZNFGvpOVoki) | 3:33 | 2023-06-28 |  |
 | [唇よ、熱く君を語れ](https://open.spotify.com/track/2fnnbne12pt1I7wsTVcKY1) | [Machiko Watanabe](https://open.spotify.com/artist/3nkQoxtOno0tf1V5nRDL6S) | [Libra](https://open.spotify.com/album/60uGaoE9S0xCSyYWQucTEE) | 3:53 | 2023-06-28 |  |
 | [大都会](https://open.spotify.com/track/7CajKVWD5w6XxZs2oGYVQ1) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [CRYSTAL KING](https://open.spotify.com/album/7AWUmC03qNnit2u6Yti07i) | 4:54 | 2023-06-28 |  |
-| [大阪しぐれ](https://open.spotify.com/track/7uZIZF2hVsI86kFjhjBHKW) | [Harumi Miyako](https://open.spotify.com/artist/5TIK7wdMeoU5BGFP1mi8vC) | [歌屋 都はるみの真骨頂](https://open.spotify.com/album/5HDBMKlsBMwWiI8Duok4wh) | 4:02 | 2023-06-28 |  |
+| [大阪しぐれ](https://open.spotify.com/track/5syxmUaqEwldFgfZqRbbiJ) | [Harumi Miyako](https://open.spotify.com/artist/5TIK7wdMeoU5BGFP1mi8vC) | [都はるみ特選集 BIRTHDAY](https://open.spotify.com/album/2XPeABbxLBxt0cARSVgIO6) | 4:01 | 2023-06-28 |  |
+| [大阪しぐれ](https://open.spotify.com/track/7uZIZF2hVsI86kFjhjBHKW) | [Harumi Miyako](https://open.spotify.com/artist/5TIK7wdMeoU5BGFP1mi8vC) | [歌屋 都はるみの真骨頂](https://open.spotify.com/album/5HDBMKlsBMwWiI8Duok4wh) | 4:02 | 2023-06-28 | 2024-01-17 |
 | [恋](https://open.spotify.com/track/6mMUgbVHls7AcjaavWd8ZA) | [Chiharu Matsuyama](https://open.spotify.com/artist/6IyRW1yZPSZtdH7uYOeqOq) | [起承転結 II](https://open.spotify.com/album/4aRa2FXcVmnDxNvTvfbhuS) | 5:00 | 2023-06-28 |  |
 | [恋のバッド・チューニング](https://open.spotify.com/track/4PNeSwpxFecXp64rbzdmxa) | [Kenji Sawada](https://open.spotify.com/artist/4ODvJoXQmuckB89qwmCzTd) | [BAD TUNING](https://open.spotify.com/album/1xVCdBcNBtFOjvs8zoS5vq) | 4:20 | 2023-06-28 |  |
 | [恋人がサンタクロース](https://open.spotify.com/track/7K1w8pMu2MeXgU3FPqwxbR) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [SURF & SNOW](https://open.spotify.com/album/6T00pjmcIwiUhF0Jc7TGRr) | 5:05 | 2023-06-28 |  |

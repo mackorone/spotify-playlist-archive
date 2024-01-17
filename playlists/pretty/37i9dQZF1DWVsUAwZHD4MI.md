@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,902 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,878 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 46 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 47 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 | 48 | [Heavy Like Lead](https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:21 |
-| 49 | [I Want U](https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3axVRZvhSHCyzeRkZ2teC4) | 2:04 |
+| 49 | [I Want U](https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2) | [Sellhis](https://open.spotify.com/artist/6p2gy1xY2lTZEIPOqUxQ6X) | [I Want U](https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn) | 2:04 |
 | 50 | [Airborne Ashes \- Eartheater & Aleksandir Remix](https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Airborne Ashes \(Eartheater & Aleksandir Remix\)](https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E) | 4:29 |
 | 51 | [Atmosféra](https://open.spotify.com/track/3sPjpqGIsdKJv3It9OHl27) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Atmosféra](https://open.spotify.com/album/4mjNdqhKn35mF7XzOlDgwl) | 6:04 |
 

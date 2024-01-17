@@ -1,580 +1,3975 @@
 {
-  "2022-05-30": 3468,
-  "2022-05-31": 3483,
-  "2022-06-01": 3500,
-  "2022-06-02": 3501,
-  "2022-06-03": 3508,
-  "2022-06-04": 3523,
-  "2022-06-05": 3533,
-  "2022-06-06": 3531,
-  "2022-06-07": 3541,
-  "2022-06-08": 3538,
-  "2022-06-09": 3552,
-  "2022-06-10": 3558,
-  "2022-06-11": 3555,
-  "2022-06-12": 3556,
-  "2022-06-13": 3538,
-  "2022-06-14": 3551,
-  "2022-06-15": 3562,
-  "2022-06-16": 3569,
-  "2022-06-17": 3583,
-  "2022-06-18": 3585,
-  "2022-06-19": 3612,
-  "2022-06-20": 3612,
-  "2022-06-21": 3617,
-  "2022-06-22": 3645,
-  "2022-06-23": 3645,
-  "2022-06-24": 3659,
-  "2022-06-25": 3665,
-  "2022-06-26": 3670,
-  "2022-06-27": 3680,
-  "2022-06-28": 3686,
-  "2022-06-29": 3696,
-  "2022-06-30": 3708,
-  "2022-07-01": 3702,
-  "2022-07-02": 3704,
-  "2022-07-03": 3707,
-  "2022-07-04": 3711,
-  "2022-07-05": 3719,
-  "2022-07-06": 3735,
-  "2022-07-07": 3742,
-  "2022-07-08": 3747,
-  "2022-07-09": 3759,
-  "2022-07-10": 3761,
-  "2022-07-11": 3777,
-  "2022-07-12": 3775,
-  "2022-07-13": 3778,
-  "2022-07-14": 3783,
-  "2022-07-15": 3792,
-  "2022-07-16": 3793,
-  "2022-07-17": 3800,
-  "2022-07-18": 3810,
-  "2022-07-19": 3823,
-  "2022-07-20": 3846,
-  "2022-07-21": 3852,
-  "2022-07-22": 3858,
-  "2022-07-23": 3869,
-  "2022-07-24": 3882,
-  "2022-07-25": 3892,
-  "2022-07-26": 3893,
-  "2022-07-27": 3887,
-  "2022-07-28": 3899,
-  "2022-07-29": 3910,
-  "2022-07-30": 3930,
-  "2022-07-31": 3930,
-  "2022-08-01": 3939,
-  "2022-08-02": 3950,
-  "2022-08-03": 3950,
-  "2022-08-04": 3957,
-  "2022-08-05": 3960,
-  "2022-08-06": 3975,
-  "2022-08-07": 3993,
-  "2022-08-08": 4004,
-  "2022-08-09": 4025,
-  "2022-08-10": 4033,
-  "2022-08-11": 4053,
-  "2022-08-12": 4059,
-  "2022-08-13": 4064,
-  "2022-08-14": 4075,
-  "2022-08-15": 4094,
-  "2022-08-16": 4094,
-  "2022-08-17": 4103,
-  "2022-08-18": 4118,
-  "2022-08-19": 4130,
-  "2022-08-20": 4138,
-  "2022-08-21": 4149,
-  "2022-08-22": 4159,
-  "2022-08-23": 4170,
-  "2022-08-24": 4180,
-  "2022-08-25": 4197,
-  "2022-08-26": 4209,
-  "2022-08-27": 4221,
-  "2022-08-28": 4240,
-  "2022-08-29": 4255,
-  "2022-08-30": 4271,
-  "2022-08-31": 4285,
-  "2022-09-01": 4295,
-  "2022-09-02": 4302,
-  "2022-09-03": 4313,
-  "2022-09-04": 4328,
-  "2022-09-05": 4324,
-  "2022-09-06": 4347,
-  "2022-09-07": 4356,
-  "2022-09-09": 4379,
-  "2022-09-10": 4393,
-  "2022-09-11": 4400,
-  "2022-09-12": 4404,
-  "2022-09-13": 4413,
-  "2022-09-15": 4442,
-  "2022-09-16": 4453,
-  "2022-09-17": 4466,
-  "2022-09-18": 4478,
-  "2022-09-19": 4493,
-  "2022-09-20": 4504,
-  "2022-09-21": 4517,
-  "2022-09-22": 4524,
-  "2022-09-23": 4530,
-  "2022-09-24": 4542,
-  "2022-09-25": 4552,
-  "2022-09-26": 4571,
-  "2022-09-27": 4585,
-  "2022-09-28": 4592,
-  "2022-09-29": 4601,
-  "2022-09-30": 4616,
-  "2022-10-01": 4621,
-  "2022-10-02": 4625,
-  "2022-10-03": 4636,
-  "2022-10-04": 4646,
-  "2022-10-05": 4646,
-  "2022-10-06": 4660,
-  "2022-10-07": 4681,
-  "2022-10-08": 4687,
-  "2022-10-09": 4712,
-  "2022-10-10": 4708,
-  "2022-10-11": 4726,
-  "2022-10-12": 4741,
-  "2022-10-13": 4749,
-  "2022-10-14": 4760,
-  "2022-10-15": 4766,
-  "2022-10-16": 4781,
-  "2022-10-17": 4786,
-  "2022-10-18": 4795,
-  "2022-10-19": 4806,
-  "2022-10-20": 4818,
-  "2022-10-21": 4825,
-  "2022-10-22": 4840,
-  "2022-10-23": 4846,
-  "2022-10-24": 4856,
-  "2022-10-25": 4862,
-  "2022-10-26": 4868,
-  "2022-10-27": 4875,
-  "2022-10-28": 4879,
-  "2022-10-29": 4888,
-  "2022-10-30": 4889,
-  "2022-10-31": 4892,
-  "2022-11-01": 4896,
-  "2022-11-02": 4903,
-  "2022-11-03": 4906,
-  "2022-11-04": 4911,
-  "2022-11-05": 4917,
-  "2022-11-06": 4921,
-  "2022-11-07": 4934,
-  "2022-11-08": 4938,
-  "2022-11-09": 4947,
-  "2022-11-10": 4955,
-  "2022-11-11": 4958,
-  "2022-11-12": 4975,
-  "2022-11-13": 4986,
-  "2022-11-14": 4991,
-  "2022-11-15": 4994,
-  "2022-11-16": 5009,
-  "2022-11-17": 5012,
-  "2022-11-18": 5008,
-  "2022-11-19": 5005,
-  "2022-11-20": 5005,
-  "2022-11-21": 5005,
-  "2022-11-22": 5018,
-  "2022-11-23": 5012,
-  "2022-11-24": 5048,
-  "2022-11-25": 5062,
-  "2022-11-26": 5079,
-  "2022-11-27": 5092,
-  "2022-11-28": 5096,
-  "2022-11-29": 5105,
-  "2022-11-30": 5107,
-  "2022-12-01": 5118,
-  "2022-12-02": 5116,
-  "2022-12-03": 5138,
-  "2022-12-04": 5158,
-  "2022-12-05": 5174,
-  "2022-12-06": 5183,
-  "2022-12-07": 5194,
-  "2022-12-08": 5206,
-  "2022-12-09": 5225,
-  "2022-12-10": 5237,
-  "2022-12-11": 5238,
-  "2022-12-12": 5245,
-  "2022-12-13": 5255,
-  "2022-12-14": 5282,
-  "2022-12-15": 5290,
-  "2022-12-16": 5299,
-  "2022-12-17": 5308,
-  "2022-12-18": 5317,
-  "2022-12-19": 5326,
-  "2022-12-20": 5353,
-  "2022-12-21": 5353,
-  "2022-12-22": 5359,
-  "2022-12-24": 5377,
-  "2022-12-25": 5384,
-  "2022-12-26": 5392,
-  "2022-12-27": 5399,
-  "2022-12-28": 5409,
-  "2022-12-29": 5422,
-  "2022-12-30": 5433,
-  "2022-12-31": 5443,
-  "2023-01-01": 5457,
-  "2023-01-02": 5461,
-  "2023-01-03": 5474,
-  "2023-01-04": 5485,
-  "2023-01-05": 5483,
-  "2023-01-06": 5495,
-  "2023-01-07": 5522,
-  "2023-01-08": 5524,
-  "2023-01-09": 5537,
-  "2023-01-10": 5551,
-  "2023-01-11": 5568,
-  "2023-01-12": 5578,
-  "2023-01-13": 5587,
-  "2023-01-14": 5605,
-  "2023-01-15": 5607,
-  "2023-01-16": 5619,
-  "2023-01-17": 5629,
-  "2023-01-18": 5645,
-  "2023-01-19": 5661,
-  "2023-01-20": 5674,
-  "2023-01-21": 5683,
-  "2023-01-22": 5689,
-  "2023-01-23": 5690,
-  "2023-01-24": 5700,
-  "2023-01-25": 5710,
-  "2023-01-26": 5719,
-  "2023-01-27": 5726,
-  "2023-01-28": 5745,
-  "2023-01-29": 5753,
-  "2023-01-30": 5764,
-  "2023-01-31": 5764,
-  "2023-02-01": 5786,
-  "2023-02-02": 5789,
-  "2023-02-03": 5804,
-  "2023-02-04": 5813,
-  "2023-02-05": 5826,
-  "2023-02-06": 5831,
-  "2023-02-07": 5837,
-  "2023-02-08": 5856,
-  "2023-02-09": 5856,
-  "2023-02-10": 5871,
-  "2023-02-11": 5887,
-  "2023-02-12": 5898,
-  "2023-02-13": 5917,
-  "2023-02-14": 5917,
-  "2023-02-15": 5924,
-  "2023-02-16": 5927,
-  "2023-02-17": 5941,
-  "2023-02-18": 5952,
-  "2023-02-19": 5951,
-  "2023-02-20": 5958,
-  "2023-02-21": 5972,
-  "2023-02-22": 5981,
-  "2023-02-23": 5990,
-  "2023-02-24": 5996,
-  "2023-02-25": 6010,
-  "2023-02-26": 6013,
-  "2023-02-27": 6031,
-  "2023-02-28": 6031,
-  "2023-03-01": 6036,
-  "2023-03-02": 6047,
-  "2023-03-03": 6053,
-  "2023-03-04": 6062,
-  "2023-03-05": 6066,
-  "2023-03-06": 6066,
-  "2023-03-07": 6078,
-  "2023-03-08": 6085,
-  "2023-03-09": 6084,
-  "2023-03-10": 6097,
-  "2023-03-11": 6104,
-  "2023-03-12": 6108,
-  "2023-03-13": 6111,
-  "2023-03-14": 6122,
-  "2023-03-15": 6130,
-  "2023-03-16": 6138,
-  "2023-03-17": 6138,
-  "2023-03-18": 6151,
-  "2023-03-19": 6160,
-  "2023-03-20": 6184,
-  "2023-03-21": 6193,
-  "2023-03-22": 6205,
-  "2023-03-23": 6218,
-  "2023-03-24": 6218,
-  "2023-03-25": 6239,
-  "2023-03-26": 6242,
-  "2023-03-27": 6252,
-  "2023-03-28": 6253,
-  "2023-03-29": 6264,
-  "2023-03-30": 6279,
-  "2023-03-31": 6279,
-  "2023-04-01": 6285,
-  "2023-04-02": 6288,
-  "2023-04-03": 6297,
-  "2023-04-04": 6304,
-  "2023-04-05": 6310,
-  "2023-04-06": 6323,
-  "2023-04-07": 6325,
-  "2023-04-09": 6325,
-  "2023-04-10": 6324,
-  "2023-04-11": 6335,
-  "2023-04-12": 6335,
-  "2023-04-13": 6339,
-  "2023-04-14": 6346,
-  "2023-04-15": 6350,
-  "2023-04-16": 6352,
-  "2023-04-17": 6355,
-  "2023-04-18": 6359,
-  "2023-04-19": 6357,
-  "2023-04-20": 6365,
-  "2023-04-21": 6366,
-  "2023-04-22": 6374,
-  "2023-04-23": 6386,
-  "2023-04-24": 6397,
-  "2023-04-25": 6405,
-  "2023-04-26": 6416,
-  "2023-04-27": 6414,
-  "2023-04-28": 6423,
-  "2023-04-29": 6431,
-  "2023-04-30": 6426,
-  "2023-05-01": 6430,
-  "2023-05-02": 6442,
-  "2023-05-03": 6456,
-  "2023-05-04": 6458,
-  "2023-05-05": 6466,
-  "2023-05-06": 6474,
-  "2023-05-07": 6479,
-  "2023-05-08": 6484,
-  "2023-05-09": 6492,
-  "2023-05-10": 6499,
-  "2023-05-11": 6511,
-  "2023-05-12": 6511,
-  "2023-05-13": 6516,
-  "2023-05-14": 6524,
-  "2023-05-15": 6530,
-  "2023-05-16": 6536,
-  "2023-05-17": 6547,
-  "2023-05-18": 6562,
-  "2023-05-19": 6567,
-  "2023-05-20": 6572,
-  "2023-05-21": 6572,
-  "2023-05-22": 6572,
-  "2023-05-23": 6585,
-  "2023-05-24": 6607,
-  "2023-05-25": 6604,
-  "2023-05-26": 6611,
-  "2023-05-27": 6613,
-  "2023-05-28": 6621,
-  "2023-05-29": 6621,
-  "2023-05-30": 6630,
-  "2023-05-31": 6633,
-  "2023-06-01": 6633,
-  "2023-06-02": 6640,
-  "2023-06-03": 6644,
-  "2023-06-04": 6656,
-  "2023-06-05": 6661,
-  "2023-06-06": 6673,
-  "2023-06-07": 6677,
-  "2023-06-08": 6687,
-  "2023-06-09": 6701,
-  "2023-06-10": 6711,
-  "2023-06-11": 6718,
-  "2023-06-12": 6727,
-  "2023-06-13": 6729,
-  "2023-06-14": 6730,
-  "2023-06-15": 6737,
-  "2023-06-16": 6743,
-  "2023-06-17": 6751,
-  "2023-06-18": 6757,
-  "2023-06-19": 6766,
-  "2023-06-20": 6769,
-  "2023-06-21": 6777,
-  "2023-06-22": 6794,
-  "2023-06-23": 6802,
-  "2023-06-24": 6805,
-  "2023-06-25": 6811,
-  "2023-06-26": 6813,
-  "2023-06-27": 6813,
-  "2023-06-28": 6819,
-  "2023-06-29": 6824,
-  "2023-06-30": 6837,
-  "2023-07-01": 6844,
-  "2023-07-02": 6844,
-  "2023-07-03": 6851,
-  "2023-07-04": 6859,
-  "2023-07-05": 6868,
-  "2023-07-06": 6871,
-  "2023-07-07": 6871,
-  "2023-07-08": 6880,
-  "2023-07-09": 6881,
-  "2023-07-10": 6893,
-  "2023-07-11": 6903,
-  "2023-07-12": 6907,
-  "2023-07-13": 6909,
-  "2023-07-14": 6927,
-  "2023-07-15": 6929,
-  "2023-07-16": 6939,
-  "2023-07-17": 6950,
-  "2023-07-18": 6953,
-  "2023-07-19": 6960,
-  "2023-07-20": 6964,
-  "2023-07-21": 6977,
-  "2023-07-22": 6985,
-  "2023-07-23": 6986,
-  "2023-07-24": 6991,
-  "2023-07-25": 6999,
-  "2023-07-26": 7007,
-  "2023-07-27": 7014,
-  "2023-07-28": 7020,
-  "2023-07-29": 7028,
-  "2023-07-30": 7036,
-  "2023-07-31": 7045,
-  "2023-08-01": 7056,
-  "2023-08-02": 7060,
-  "2023-08-03": 7074,
-  "2023-08-04": 7080,
-  "2023-08-05": 7085,
-  "2023-08-06": 7103,
-  "2023-08-07": 7103,
-  "2023-08-08": 7112,
-  "2023-08-09": 7120,
-  "2023-08-10": 7130,
-  "2023-08-11": 7142,
-  "2023-08-12": 7156,
-  "2023-08-13": 7162,
-  "2023-08-14": 7166,
-  "2023-08-15": 7183,
-  "2023-08-16": 7183,
-  "2023-08-17": 7189,
-  "2023-08-18": 7195,
-  "2023-08-19": 7210,
-  "2023-08-20": 7216,
-  "2023-08-21": 7224,
-  "2023-08-22": 7230,
-  "2023-08-23": 7246,
-  "2023-08-24": 7253,
-  "2023-08-25": 7270,
-  "2023-08-26": 7282,
-  "2023-08-27": 7290,
-  "2023-08-28": 7304,
-  "2023-08-29": 7308,
-  "2023-08-30": 7317,
-  "2023-08-31": 7329,
-  "2023-09-01": 7365,
-  "2023-09-02": 7365,
-  "2023-09-03": 7390,
-  "2023-09-04": 7418,
-  "2023-09-05": 7441,
-  "2023-09-06": 7473,
-  "2023-09-07": 7510,
-  "2023-09-08": 7538,
-  "2023-09-09": 7562,
-  "2023-09-10": 7585,
-  "2023-09-11": 7612,
-  "2023-09-12": 7639,
-  "2023-09-13": 7668,
-  "2023-09-14": 7696,
-  "2023-09-15": 7729,
-  "2023-09-16": 7729,
-  "2023-09-17": 7729,
-  "2023-09-18": 7729,
-  "2023-09-19": 7729,
-  "2023-09-20": 7729,
-  "2023-09-21": 7729,
-  "2023-09-22": 7729,
-  "2023-09-23": 7729,
-  "2023-09-24": 7729,
-  "2023-09-25": 7729,
-  "2023-09-26": 7729,
-  "2023-09-27": 7729,
-  "2023-09-28": 7729,
-  "2023-09-29": 7729,
-  "2023-09-30": 7729,
-  "2023-10-01": 7729,
-  "2023-10-02": 7729,
-  "2023-10-03": 7729,
-  "2023-10-04": 7729,
-  "2023-10-05": 7729,
-  "2023-10-06": 7729,
-  "2023-10-07": 7729,
-  "2023-10-08": 7729,
-  "2023-10-09": 7729,
-  "2023-10-10": 7729,
-  "2023-10-11": 7729,
-  "2023-10-12": 7729,
-  "2023-10-13": 7729,
-  "2023-10-14": 7729,
-  "2023-10-15": 7729,
-  "2023-10-16": 7729,
-  "2023-10-17": 7729,
-  "2023-10-18": 7729,
-  "2023-10-19": 7729,
-  "2023-10-20": 7729,
-  "2023-10-21": 7729,
-  "2023-10-22": 7729,
-  "2023-10-23": 7729,
-  "2023-10-24": 7729,
-  "2023-10-25": 7729,
-  "2023-10-26": 7729,
-  "2023-10-27": 7729,
-  "2023-10-28": 7729,
-  "2023-10-29": 7729,
-  "2023-10-30": 7729,
-  "2023-10-31": 7729,
-  "2023-11-01": 7729,
-  "2023-11-02": 7729,
-  "2023-11-03": 7729,
-  "2023-11-04": 7729,
-  "2023-11-05": 7729,
-  "2023-11-06": 7729,
-  "2023-11-07": 7729,
-  "2023-11-08": 7729,
-  "2023-11-09": 7729,
-  "2023-11-10": 7729,
-  "2023-11-11": 7729,
-  "2023-11-12": 7729,
-  "2023-11-13": 7729,
-  "2023-11-14": 7729,
-  "2023-11-15": 7729,
-  "2023-11-16": 7729,
-  "2023-11-17": 7729,
-  "2023-11-18": 7729,
-  "2023-11-19": 7729,
-  "2023-11-20": 7729,
-  "2023-11-21": 7729,
-  "2023-11-22": 7729,
-  "2023-11-23": 7729,
-  "2023-11-24": 7729,
-  "2023-11-25": 7729,
-  "2023-11-26": 7729,
-  "2023-11-27": 7729,
-  "2023-11-28": 7729,
-  "2023-11-29": 7729,
-  "2023-11-30": 7729,
-  "2023-12-01": 7729,
-  "2023-12-02": 7729,
-  "2023-12-03": 7729,
-  "2023-12-04": 7729,
-  "2023-12-05": 7729,
-  "2023-12-06": 7729,
-  "2023-12-07": 7729,
-  "2023-12-08": 7729,
-  "2023-12-09": 7729,
-  "2023-12-10": 7729,
-  "2023-12-11": 7729,
-  "2023-12-12": 7729,
-  "2023-12-13": 7729,
-  "2023-12-14": 7729,
-  "2023-12-15": 7729,
-  "2023-12-16": 7729,
-  "2023-12-17": 7729,
-  "2023-12-18": 7729,
-  "2023-12-19": 7729,
-  "2023-12-20": 7729,
-  "2023-12-21": 7729,
-  "2023-12-22": 7729,
-  "2023-12-23": 7729,
-  "2023-12-24": 7729,
-  "2023-12-25": 7729,
-  "2023-12-26": 7729,
-  "2023-12-27": 7729,
-  "2023-12-30": 7729,
-  "2023-12-31": 7729,
-  "2024-01-01": 7729,
-  "2024-01-02": 7729,
-  "2024-01-03": 7729
+  "2024-01-17": 7729,
+  "date_first_scraped": "2022-05-30",
+  "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
+  "name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.12",
+        "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251483,
+      "name": "A Poem For Poetry - Instrumental",
+      "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204758,
+      "name": "ALWAYS - Instrumental",
+      "url": "https://open.spotify.com/track/02zIddEu5KR0z4riBzHJU4"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 233064,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3DgHBtEuX3Tg8NrE0d2LEj"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/6w9xkNdDMGzBHC4owKXFsk"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226351,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/5GHrRt43EsRmS3f4AcyeR0"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/3CT8vHhdIFY59dDSJaYVp6"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 226351,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/7BoA9W76UhejAW80tkgmZn"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 353837,
+      "name": "BACK - Piano Version",
+      "url": "https://open.spotify.com/track/5JC9b58oRJM74tIO46MYmP"
+    },
+    {
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Bad - Instrumental",
+      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 229008,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/16wCyZ1KSnaq1LrHUNiROZ"
+    },
+    {
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322910,
+      "name": "Bae Bae x Loser",
+      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 332197,
+      "name": "Bboom Bboom - Piano Version",
+      "url": "https://open.spotify.com/track/3kqu5ntamghnvQLizZ4bVm"
+    },
+    {
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202566,
+      "name": "Be a Flame",
+      "url": "https://open.spotify.com/track/2wt4pn6IN8L2eatDPT6EkC"
+    },
+    {
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2GgtfisvhpNIhRmmusMcwC"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202566,
+      "name": "Be a Flame - Instrumental",
+      "url": "https://open.spotify.com/track/6swvLQKo2MkZcbqOVxunHY"
+    },
+    {
+      "album": {
+        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228413,
+      "name": "Be My Light (Inst.)",
+      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/73w13Yr11HuTJzr6Fqg6Ti"
+    },
+    {
+      "album": {
+        "name": "Between Us (Feat. OVCOCO)",
+        "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
+      },
+      "artists": [
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
+        },
+        {
+          "name": "OVCOCO",
+          "url": "https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199304,
+      "name": "Between Us (Feat. OVCOCO) - Instrumental",
+      "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/78yzQkFOX1pS8yYwscON3E"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217680,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/0uQtxnTu1qUJwBIRejTxqx"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/19KkK8hM5JzQBSqjQilIhb"
+    },
+    {
+      "album": {
+        "name": "Blood Sweat & Tears",
+        "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241992,
+      "name": "Blood Sweat & Tears",
+      "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 359522,
+      "name": "BLUE - Piano Version",
+      "url": "https://open.spotify.com/track/5Kk2wLYQ6MfbrIG3Yaxeyj"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 240335,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/0TWshEbDM3ELQQQ7UvMYhb"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 240335,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO"
+    },
+    {
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245367,
+      "name": "Bravo, My Life! - Instrumental",
+      "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253186,
+      "name": "Breath - instrumental",
+      "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 269423,
+      "name": "BUBBLE POP - Piano Version",
+      "url": "https://open.spotify.com/track/6YYUgIvpMo7xGhue0i04C9"
+    },
+    {
+      "album": {
+        "name": "Piano Covers, Vol. 7 (Best of 2021)",
+        "url": "https://open.spotify.com/album/35LgiOE6OUXmRidKGVOoSb"
+      },
+      "artists": [
+        {
+          "name": "Piano Peace",
+          "url": "https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/05OogEWyJLjhUaNSdXBK63"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318360,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 227904,
+      "name": "Can't You See Me?",
+      "url": "https://open.spotify.com/track/4VpRot0lXWRwRyOAt5CpNL"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 464504,
+      "name": "CANDY POP - Piano Version",
+      "url": "https://open.spotify.com/track/1Z3d3LRmpKmcRCYf3MvWQO"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 219794,
+      "name": "Cheer Up",
+      "url": "https://open.spotify.com/track/16pNLEsd5ntwEiXcK3qOwK"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 198802,
+      "name": "DALLA DALLA - Piano Version",
+      "url": "https://open.spotify.com/track/4nGXFvAlJAv7CFoPvbYyj5"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 191304,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/4Johp8W8LWZ85bgccs8QYL"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 210504,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/0lVsRvqr3KM8Z1gT7VefGT"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/2VRiAjdWyI8CQBoSESWYuX"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203208,
+      "name": "Don't Know What To Do",
+      "url": "https://open.spotify.com/track/5tM6DBQHloeeAShdqDrRYF"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211539,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/3uIevIXr4mTipq1bBhNWGS"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 211539,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6GSJnyahmtMg8YVZqZY1W3"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258292,
+      "name": "DON'T WANNA CRY - Piano Version",
+      "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-02",
+      "duration_ms": 188784,
+      "name": "Dumb Dumb",
+      "url": "https://open.spotify.com/track/5zubCOJZPsVtkVITo2U6jv"
+    },
+    {
+      "album": {
+        "name": "Dynamite (Piano Cover)",
+        "url": "https://open.spotify.com/album/19bz1U5D3ZXrNqWNqCj35D"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 204648,
+      "name": "Dynamite - Piano Cover",
+      "url": "https://open.spotify.com/track/0NP0ZjMqO65wzH1vCXwr4o"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204648,
+      "name": "Dynamite - Piano Cover",
+      "url": "https://open.spotify.com/track/4numcWrrlJaISYq3s9UDQO"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176495,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/3mawoeGPC2iTtLicvHTQfC"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 176495,
+      "name": "Eight",
+      "url": "https://open.spotify.com/track/5DdFfttrCKUeOqsooKfQss"
+    },
+    {
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249042,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Every second - Instrumental",
+      "url": "https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418375,
+      "name": "EYES , NOSE ,LIPS - Piano Version",
+      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250224,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/0Gtv8Azl1fHywcbRE6VjaE"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250224,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
+    },
+    {
+      "album": {
+        "name": "Filter",
+        "url": "https://open.spotify.com/album/3uIdAVIa2N7VZuSq0h1FvY"
+      },
+      "artists": [
+        {
+          "name": "Felax",
+          "url": "https://open.spotify.com/artist/5PeZ1m5v30OjVgzBz6PgHa"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-24",
+      "duration_ms": 252264,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5OpnBorbH8fgEqPMH4c4mq"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 223392,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/7kolIWsuyUg0n8hOO0Cve8"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt.5 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256680,
+      "name": "Farewell In Tears - Instrumental",
+      "url": "https://open.spotify.com/track/02DOkO4lh65UO51sCcgXaT"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt. 5 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256680,
+      "name": "Farewell In Tears - Instrumental",
+      "url": "https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232055,
+      "name": "Feel Special (Sad Ver.)",
+      "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232055,
+      "name": "Feel Special (Sad Ver.)",
+      "url": "https://open.spotify.com/track/6Q6z6NRj5tlKxf7B4x5lbX"
+    },
+    {
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.2",
+        "url": "https://open.spotify.com/album/65cfy1V5lJQbP32hG9dlVr"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Feeling - Instrumental",
+      "url": "https://open.spotify.com/track/6iuQh2MJfEqnTuWxIAyno9"
+    },
+    {
+      "album": {
+        "name": "Fixed On You (new.MAKE20 #10)",
+        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Fixed On You - Instrumental",
+      "url": "https://open.spotify.com/track/5LVGmlKDMdTtWyronOyZdt"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252120,
+      "name": "Flower - Instrumental",
+      "url": "https://open.spotify.com/track/0s0NmdeBTHKQMN0d0fYEQ9"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252120,
+      "name": "Flower - Instrumental",
+      "url": "https://open.spotify.com/track/5eMQVkVGBM4wb9gjhECtch"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/4BblBGeUdTFQPKwjmtpCnf"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 246120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3oIyPdj0RTKBvLiUWOlHQh"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4DuwxCLFKTOQTtyVrRJHkn"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 321424,
+      "name": "GEE - Piano Version",
+      "url": "https://open.spotify.com/track/1vuauy43oLCN0mNT2tmFc2"
+    },
+    {
+      "album": {
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 351528,
+      "name": "Hands Up - Piano Version",
+      "url": "https://open.spotify.com/track/7KG89Rio0bp2wC5hcEdull"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 249215,
+      "name": "Hatey (Likey Sad Ver.)",
+      "url": "https://open.spotify.com/track/45evQto2Bg84KJLBdEQgyj"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 265344,
+      "name": "Heart Breaker (Heart Shaker Sad Ver.)",
+      "url": "https://open.spotify.com/track/01bVmJdlC5hVdHrbkpkmAr"
+    },
+    {
+      "album": {
+        "name": "Heart Shaker",
+        "url": "https://open.spotify.com/album/2vmqxFc48LkzwJXbY5Rhw7"
+      },
+      "artists": [
+        {
+          "name": "Chino Bernal",
+          "url": "https://open.spotify.com/artist/7IJm1PMY3Ozh9flQJLBnTN"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216725,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/7lSdsxAbIEfjvTliKEV109"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214848,
+      "name": "Heart Shaker",
+      "url": "https://open.spotify.com/track/0JRR7q8OgWnNm0CdMk4NCq"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 343846,
+      "name": "HIP - Piano Version",
+      "url": "https://open.spotify.com/track/6YGIFTQAg9MMP0A7xeY2n3"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 187584,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/2uJx9k7vR1q7np8kJ8ZVCw"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 249931,
+      "name": "I - Piano Version",
+      "url": "https://open.spotify.com/track/4H7RBa63gYxk2nO8F6BAct"
+    },
+    {
+      "album": {
+        "name": "I Can't Stop Me",
+        "url": "https://open.spotify.com/album/4mjHt8m06Kkz4lAHGtHwag"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 229512,
+      "name": "I Can't Stop Me",
+      "url": "https://open.spotify.com/track/5fiRGGKjrjSW7qR1RKkjbX"
+    },
+    {
+      "album": {
+        "name": "I draw you",
+        "url": "https://open.spotify.com/album/1NhyqimJ7BIgA1IGMEiGGj"
+      },
+      "artists": [
+        {
+          "name": "The Brothers",
+          "url": "https://open.spotify.com/artist/4cca1jneSmmm9K1uXTQaUc"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209087,
+      "name": "I draw you",
+      "url": "https://open.spotify.com/track/2lLLwAQTq5P4yCj8qTw0GI"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/3HfE2VCBSM1PwUQGd2RPu0"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229600,
+      "name": "I Fall In Love - Instrumental",
+      "url": "https://open.spotify.com/track/0IgC7kc3h8MKV3bpguITn5"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/5mmVliOxJVjTrV9axuBfnI"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "I Fall In Love - Instrumental",
+      "url": "https://open.spotify.com/track/42QFImERzyMNzljmaOLYrK"
+    },
+    {
+      "album": {
+        "name": "Purify (Live)",
+        "url": "https://open.spotify.com/album/6PaMFU20Jl7nxh4DxqkLsc"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "Nau Lee",
+          "url": "https://open.spotify.com/artist/7ne56vWwgNKT2euH6aDPz7"
+        },
+        {
+          "name": "DITTO Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0m5MFAn3RvCRhpmZlY0Iqy"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "I Giorni - Live",
+      "url": "https://open.spotify.com/track/3CGWghy5r1jIoaoVrh68ql"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/1UuWIae0GI6bk2C3sL0mOa"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/6Gj3uPrOKRrsHOaDPKqryV"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167974,
+      "name": "I Miss You - Instrumental",
+      "url": "https://open.spotify.com/track/6XAUinB9a1zkkFw8TlhlPI"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/61xaRdUwbRldy6GZfcLcwH"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/2dN9fgG33E00KPpZw6mPTi"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223560,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/7IUUzxDFb7LzcpLoEBp4PC"
+    },
+    {
+      "album": {
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227936,
+      "name": "I pray (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
+    },
+    {
+      "album": {
+        "name": "I Still Need You",
+        "url": "https://open.spotify.com/album/26VATjHeBHhjmqe8vhz8Kz"
+      },
+      "artists": [
+        {
+          "name": "Panini Brunch",
+          "url": "https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226618,
+      "name": "I Still Need You - Instrumental",
+      "url": "https://open.spotify.com/track/5CPuSwBmu12OIIXdoxwpNU"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar Pt.5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6crTXeOm8hTt52E7AwtWCs"
+      },
+      "artists": [
+        {
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/1DH1FRZZpbd38imzcuxfMn"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
+      },
+      "artists": [
+        {
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5hA45I1OlOp0bkrnJ1RTVJ"
+    },
+    {
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/5j1bpAnNEgW7em8x8Sqh05"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6W5onaafTW9qWIAxgg3oo4"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 237024,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/08wiTfFng2vF2MYm1JirL1"
+    },
+    {
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300840,
+      "name": "Into The New World",
+      "url": "https://open.spotify.com/track/2iIyTzkrcaGzHtwav1SCnF"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Into The New World",
+      "url": "https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8"
+    },
+    {
+      "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5x3yCvxKV0pX5d5PL3T4FM"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263779,
+      "name": "Is You - Instrumental",
+      "url": "https://open.spotify.com/track/1BMKKRFPC7C3pbjoYswcjk"
+    },
+    {
+      "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263779,
+      "name": "Is You - Instrumental",
+      "url": "https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f"
+    },
+    {
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
+        "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226715,
+      "name": "Just Like a Dream (Inst.)",
+      "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 194015,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/4X5uFZA1iJ7THSX0Cgi1Yv"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 224731,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/1UrDNoOyzmHOD3irT82Bvz"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 237792,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/3sPzR1hBJgWpn5EAYL30MN"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 209280,
+      "name": "LATATA",
+      "url": "https://open.spotify.com/track/4JSVrPU9iykBeSRYaMc4V8"
+    },
+    {
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240946,
+      "name": "Leaning on you - Instrumental",
+      "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
+    },
+    {
+      "album": {
+        "name": "Tale of the Nine Tailed (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/22VAJ9R2ps3qe9t5uzR506"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240946,
+      "name": "Leaning on you - Instrumental",
+      "url": "https://open.spotify.com/track/6h6aTADUMBNoWCYlQZZ0m7"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/5iqfGbG2zpIih56ptL9OUV"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221909,
+      "name": "Let Us Go - Instrumental",
+      "url": "https://open.spotify.com/track/01ot8f99IzD9i8iG0vOev5"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221909,
+      "name": "Let Us Go - Instrumental",
+      "url": "https://open.spotify.com/track/1ll1aZEXUFW8kzC8QKn9nN"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 322781,
+      "name": "LET'S NOT FALL IN LOVE - Piano Version",
+      "url": "https://open.spotify.com/track/2hDtzaVii5jWrzYt105chl"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/1xhrMusc4aK2RXpdeqXKDb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236495,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/4A63WkIqSbhpZtDY9WeNf0"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 311855,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/2bLGmRo9SF1CRPLIRymoJy"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 311855,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/7aLqXOGrYH4tMkQcCE2uMa"
+    },
+    {
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182865,
+      "name": "Like A Dream - Instrumental",
+      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 252290,
+      "name": "Like OOH-AHH",
+      "url": "https://open.spotify.com/track/06cu8LPlY0Te7Q1BORUcQ4"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 230328,
+      "name": "Likey",
+      "url": "https://open.spotify.com/track/7thIPd8m5M1Dkur164SN8v"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266213,
+      "name": "Little by little - instrumental",
+      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
+    },
+    {
+      "album": {
+        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2gLHVKRQC8o4sUGwpBi6J5"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250000,
+      "name": "Love Message - Instrumental",
+      "url": "https://open.spotify.com/track/175IQbssWstqUO8v9CjiCw"
+    },
+    {
+      "album": {
+        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Love Message - Instrumental",
+      "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
+    },
+    {
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256526,
+      "name": "Love Poem",
+      "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNG JAE",
+          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Love Resembles Memories - Instrumental",
+      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/73CKetwtdycJzWWeYTkvHg"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNGJAE",
+          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227413,
+      "name": "Love Resembles Memories - Instrumental",
+      "url": "https://open.spotify.com/track/1LHy7DISaJgNZTRFGSsKFI"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211824,
+      "name": "Love Scenario",
+      "url": "https://open.spotify.com/track/2zGa46tj0yrGPAFiAGa1gF"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211824,
+      "name": "Love Scenario",
+      "url": "https://open.spotify.com/track/6Mv7VUKArYqMuepAnUsjLe"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 215928,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0NnkzjSm8iwrx2cHwjUKaC"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 215928,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/2Sqdy1nkWllSjnsQQeBzZ4"
+    },
+    {
+      "album": {
+        "name": "Lovesick Girls",
+        "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 234480,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/5PNxrRnYzU3ZNnHo3D5Sh6"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 234480,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/79Vg1jq2tJP0qFolDNB8II"
+    },
+    {
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
+    },
+    {
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/08CiaMsdsokkeJ3lhJ15sB"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/3CVmxY7u7woQmibPrMy8Nw"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 233352,
+      "name": "MORE & MORE",
+      "url": "https://open.spotify.com/track/7BVI8rAPOBjCxSBPrVYrZa"
+    },
+    {
+      "album": {
+        "name": "DINNER MATE (Original Television Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/3wqQxZqOdOs2pNpyvBUQwD"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/0Vf8C6i7OSDzpLCzHycRkK"
+    },
+    {
+      "album": {
+        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 294067,
+      "name": "MR - Piano Version",
+      "url": "https://open.spotify.com/track/09j03gGhfEEN1DKmokreoT"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220920,
+      "name": "My Day Is Full Of You - Instrumental",
+      "url": "https://open.spotify.com/track/0w1ZwPdBO4O9DYbH0IrYcE"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "My Day Is Full Of You - Instrumental",
+      "url": "https://open.spotify.com/track/5CWn4CsR7PgVnVyReNvBlM"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "My Eyes - Instrumental",
+      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "My Tale - inst.",
+      "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 2",
+        "url": "https://open.spotify.com/album/6w9xkNdDMGzBHC4owKXFsk"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 263255,
+      "name": "NO or NO (YES or YES Sad Ver.)",
+      "url": "https://open.spotify.com/track/6phP2XkYFD9uwF9mi1JuLk"
+    },
+    {
+      "album": {
+        "name": "Men Are Men (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "Not Clumsy Anymore - Inst.",
+      "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 194184,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/4wDc2HHuGQvzmCV0CKC46S"
+    },
+    {
+      "album": {
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
+      },
+      "artists": [
+        {
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        },
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "OH NONONO - Instrumental",
+      "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 263975,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/2THllYnsASl83sKklR02TI"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/78yzQkFOX1pS8yYwscON3E"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 263975,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/5JsEDhBQQEJ0YoXBGHAQiB"
+    },
+    {
+      "album": {
+        "name": "On The Ground",
+        "url": "https://open.spotify.com/album/0Ad50oEGHFuVdElqU524Jk"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 181680,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/39uLdmwss8tqOFxWugxWKI"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273480,
+      "name": "One Of These Nights",
+      "url": "https://open.spotify.com/track/4Ce0YuZtxOcjTArxSeeQrD"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3lcftcc6ksaPBGRN839LYO"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/2tcdRzFu9TSKuKL1slihRn"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "Orbit - Instrumental",
+      "url": "https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299483,
+      "name": "PALETTE - Piano Version",
+      "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 207384,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/4u5VRxpMBQibHgdxRIGEN9"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272720,
+      "name": "Photo of My Mind - Instrumental",
+      "url": "https://open.spotify.com/track/6DVJfMK2L8gIP9YLu8HisW"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272720,
+      "name": "Photo of My Mind - Instrumental",
+      "url": "https://open.spotify.com/track/6eeFcUFMFDcYyuHL014IZl"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213264,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/1Ib3YkPqewulQ1sm4MxsI4"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235293,
+      "name": "Please Don't Cry - Instrumental",
+      "url": "https://open.spotify.com/track/0Jh9s5yB8fyK6hwm2BwVVA"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/4XWPJiQfB1sTbhy9JJTl47"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Please Don't Cry - Instrumental",
+      "url": "https://open.spotify.com/track/1duxldBw0SGQ56SPBg5gLb"
+    },
+    {
+      "album": {
+        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230768,
+      "name": "Please Forget Me - Instrumental",
+      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/3Cs7qbaTfqzeP7SIrcT6mB"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 215880,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1SmqqNWYBhuacOmk2w7cmQ"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228504,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/158FX7wtb9csvgHshvHkR8"
+    },
+    {
+      "album": {
+        "name": "Kan Mingtian",
+        "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
+      },
+      "artists": [
+        {
+          "name": "Onisan Lost Piano",
+          "url": "https://open.spotify.com/artist/2aEzybNq7HnpioCV1d4WHs"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231960,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+    },
+    {
+      "album": {
+        "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "Raindrops - Instrumental",
+      "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 320268,
+      "name": "REALLY REALLY - Piano Version",
+      "url": "https://open.spotify.com/track/0oA3qDJW0FkMditO2wAHxb"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 217704,
+      "name": "Red Flavor (Sad Ver.)",
+      "url": "https://open.spotify.com/track/5pdlm9DRVLfAgbTRywyG9U"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329355,
+      "name": "REPLAY - Piano Version",
+      "url": "https://open.spotify.com/track/7y2GtIPDukvL7MggApuboS"
+    },
+    {
+      "album": {
+        "name": "The Best of Red Velvet",
+        "url": "https://open.spotify.com/album/1okhqEBDj97vIc6oyOx6pP"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 218400,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/62Hb2ZtMUXKMO9RaCPzE6V"
+    },
+    {
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290078,
+      "name": "Sad Ending",
+      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+    },
+    {
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2GgtfisvhpNIhRmmusMcwC"
+      },
+      "artists": [
+        {
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290078,
+      "name": "Sad Ending - Instrumental",
+      "url": "https://open.spotify.com/track/6lKCbZjUIubGi17voBICoT"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210168,
+      "name": "Save ME",
+      "url": "https://open.spotify.com/track/5ozzrhrnokSSLK42H7Mrwo"
+    },
+    {
+      "album": {
+        "name": "Love Interference Season3 (Original Television Soundtrack), Pt. 17",
+        "url": "https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "Say I Love U - Instrumental",
+      "url": "https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m"
+    },
+    {
+      "album": {
+        "name": "Another Miss Oh (Original Television Soundtrack), Pt 8",
+        "url": "https://open.spotify.com/album/2ozr4kGDH8Wmn6OjY93AwE"
+      },
+      "artists": [
+        {
+          "name": "EZ Kim",
+          "url": "https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241257,
+      "name": "Scattered (Inst.)",
+      "url": "https://open.spotify.com/track/5uMnT9Q0IRw3LPMHETHlp9"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 254088,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/2mVNxrD2DufhTFBmHDoJLE"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 216480,
+      "name": "Secret Story of the Swan",
+      "url": "https://open.spotify.com/track/6XiqW5Q0yxuye8tk4OhnJF"
+    },
+    {
+      "album": {
+        "name": "Backstreet Rookie (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7BjnXrdKCpf6ehnG1PjUso"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204893,
+      "name": "See Saw - Inst.",
+      "url": "https://open.spotify.com/track/6rdtUu5dcx9YN9GZC97gX3"
+    },
+    {
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "Serendipity x Fake Love",
+      "url": "https://open.spotify.com/track/2A1AtpcXGZfNpfHdQwixyK"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern OST Part 4",
+        "url": "https://open.spotify.com/album/4r45yiczwTEjnU6BGHYte6"
+      },
+      "artists": [
+        {
+          "name": "Lee Soo Young",
+          "url": "https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265146,
+      "name": "Shine Bright (Inst.)",
+      "url": "https://open.spotify.com/track/2zZf9BeSIY4NL1snAg0BkT"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/4Os8itvdFggekD8x7SXAiF"
+      },
+      "artists": [
+        {
+          "name": "Lee Soo Young",
+          "url": "https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265146,
+      "name": "Shine Bright - Instrumental",
+      "url": "https://open.spotify.com/track/1rPrkZm9tZSVX4QBPFJEJP"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/38qslXFiGuokbX73CCHhew"
+      },
+      "artists": [
+        {
+          "name": "Lee Soo Young",
+          "url": "https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 265146,
+      "name": "Shine Bright - Instrumental",
+      "url": "https://open.spotify.com/track/4Yhr8m5waAHgyCilbSWIyZ"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270693,
+      "name": "Shine On You - Instrumental",
+      "url": "https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 333098,
+      "name": "SHORT HAIR/DAN BAL MEO RI - Piano Version",
+      "url": "https://open.spotify.com/track/0p9W0tkizI6eaEMXdeMFE1"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-06",
+      "duration_ms": 225959,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/4XzYWXaGSCUo7mLfNqZCIC"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 186888,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/4BR71tg3LgCGnWHjPLjXAP"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186888,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/4j656MxuT4dVMC61idr7ax"
+    },
+    {
+      "album": {
+        "name": "Romance is a Bonus Book OST Part.5",
+        "url": "https://open.spotify.com/album/0p0G4At4f5HhcYXxrSB3IH"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "SOMEDAY (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/3pBsq8ZRQAFl8DMeXDQaiM"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 368452,
+      "name": "SORRY SORRY - Piano Version",
+      "url": "https://open.spotify.com/track/6NyG7zyGc6zfPz5Lq7pLVE"
+    },
+    {
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Spring Day (Orchestra Version)",
+      "url": "https://open.spotify.com/track/7DCzN1YJlO2XbECum9zMFg"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251517,
+      "name": "Stardust love song (Inst.)",
+      "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/4BblBGeUdTFQPKwjmtpCnf"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 241200,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0HD4Acb4zc39laFFBwX79M"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241200,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/13iPImxjPpebfDtJXEMON7"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 268274,
+      "name": "STAY - Piano Version",
+      "url": "https://open.spotify.com/track/4X1wN4rp7VznPTH2aFu8qB"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 266495,
+      "name": "Stay Gold",
+      "url": "https://open.spotify.com/track/4WRJzi3ExPiibZCPpqlG6C"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266495,
+      "name": "Stay Gold",
+      "url": "https://open.spotify.com/track/7GwffgrxyiUAIsUpkXoWdO"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216734,
+      "name": "Sunset - Instrumental",
+      "url": "https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216734,
+      "name": "Sunset - Instrumental",
+      "url": "https://open.spotify.com/track/6FKSuCEc4UiO8gJidJKaoz"
+    },
+    {
+      "album": {
+        "name": "A Poem a Day (tvN DRAMA) OST Part.7",
+        "url": "https://open.spotify.com/album/01neY4Yc8lzmHDagkIuYW2"
+      },
+      "artists": [
+        {
+          "name": "Monogram",
+          "url": "https://open.spotify.com/artist/527XQt0xJFseCh4cu50LuC"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212828,
+      "name": "That Person - Instrumental",
+      "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 223440,
+      "name": "The Best Thing I Ever Did",
+      "url": "https://open.spotify.com/track/2xCHm9bo2LGgwhhrso4qEG"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt.6 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/2CA8HkbB26gmzF1KCr5f70"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241040,
+      "name": "The Days We Loved - Instrumental",
+      "url": "https://open.spotify.com/track/0D8YYyRM4lBD6y2ejYKoic"
+    },
+    {
+      "album": {
+        "name": "The World of the Married, Pt. 6 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/3giN7KiHhfRJb2L8LGToHu"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "The Days We Loved - Instrumental",
+      "url": "https://open.spotify.com/track/3Yo3Y7z6waKjc6WrpnSPse"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225171,
+      "name": "This Love - Instrumental",
+      "url": "https://open.spotify.com/track/0VF0fV86TBgc6PcOaPOZIs"
+    },
+    {
+      "album": {
+        "name": "Trying to say good-bye",
+        "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Trying to say good-bye (Inst.)",
+      "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 230160,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/79iiAZS06LhdkwZYDQgYKe"
+    },
+    {
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 374567,
+      "name": "TT - Piano Version",
+      "url": "https://open.spotify.com/track/1MDbO3y4nym9ZqEHm6YNOl"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern OST Part 3",
+        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307426,
+      "name": "Uphill (Inst.)",
+      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1H9T31njmTPATY5N7SseUE"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 307426,
+      "name": "Uphill - Instrumental",
+      "url": "https://open.spotify.com/track/0yTjmYvrc6p32V1hkKm8pP"
+    },
+    {
+      "album": {
+        "name": "Kkondae Intern (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1M6LffVG2YZp0IzPKOMH0e"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307426,
+      "name": "Uphill - Instrumental",
+      "url": "https://open.spotify.com/track/2x8jvMKyS2AjDbMJ9U26Wm"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 221975,
+      "name": "What Is Love?",
+      "url": "https://open.spotify.com/track/4EYygUo8LVI45IDHaF4p9y"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
+    },
+    {
+      "album": {
+        "name": "Mystic Pop-up Bar Pt.4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5RwaA2coByCfHAobFEMGgx"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/4ZQ970N8Yp4B6SlzHcJvNt"
+    },
+    {
+      "album": {
+        "name": "The Best of BLACKPINK",
+        "url": "https://open.spotify.com/album/3npTC50XwXr0Vpb8Qmxcy3"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 226392,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/2f56b1mqY0ncaMjBbLTpDu"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.9 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1ijtrIo5LrIB0TxJVFXNUL"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235814,
+      "name": "Wind Beneath Your Wings - Instrumental",
+      "url": "https://open.spotify.com/track/4S9b2RkYjv9fp3D9pTE5h1"
+    },
+    {
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253045,
+      "name": "With My Tears - Instrumental",
+      "url": "https://open.spotify.com/track/3B3unUWfhBzmrxPb9uwa0u"
+    },
+    {
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253045,
+      "name": "With My Tears - Instrumental",
+      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
+    },
+    {
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "Would Be Better - Instrumental",
+      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
+    },
+    {
+      "album": {
+        "name": "The Best of TWICE",
+        "url": "https://open.spotify.com/album/7liXioXpUEhiblBk6PyDWr"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 245952,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/0K0gAibng8wSMjWrgrjVqh"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "You Are My Everything - Instrumental",
+      "url": "https://open.spotify.com/track/1FCg1WKlpZU6earLUgWAJB"
+    },
+    {
+      "album": {
+        "name": "When the Camellia Blooms (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/2KNWyrKE9ltZRXUzO7x0tw"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/6IOxN1UboXNeUIxu91ygmZ"
+        },
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4JvkSeufESz68wTmyaLLNU"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238653,
+      "name": "You Are My Vitamin - Instrumental",
+      "url": "https://open.spotify.com/track/1qOtB0eHvyIWZ31Ml4PhKH"
+    },
+    {
+      "album": {
+        "name": "When the Camellia Blooms \ub3d9\ubc31\uaf43 \ud544 \ubb34\ub835 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/5Db9CVjvevtlcvOFAlt2It"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        },
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238653,
+      "name": "You Are My Vitamin \ub108\ub294 \ub0b4\uac8c \ube44\ud0c0\ubbfc \uac19\uc544 - Inst.",
+      "url": "https://open.spotify.com/track/6vZI5Hv8yTJrjZ3krIjxeO"
+    },
+    {
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "You're Cold - Instrumental",
+      "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "You're My End and My Beginning - Instrumental",
+      "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/2VGi9QEiqVmr1b9DP6BkHo"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251173,
+      "name": "You're My End and My Beginning - Instrumental",
+      "url": "https://open.spotify.com/track/5bgKxXjkqq4cWymNXGZEcY"
+    },
+    {
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298699,
+      "name": "\u110b\u1165\u1104\u1165\u11c2\u1100\u1166 \u110b\u1175\u1107\u1167\u11af\u1101\u1161\u110c\u1175 \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1100\u1166\u11bb\u110b\u1165, \u1102\u1165\u11af \u1109\u1161\u1105\u1161\u11bc\u1112\u1161\u1102\u1173\u11ab \u1100\u1165\u110c\u1175 How Can I Love the Heartbreak, You're the One I Love",
+      "url": "https://open.spotify.com/track/2SVljleA3gTLpujwBM2Xrf"
+    },
+    {
+      "album": {
+        "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
+        "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
+      },
+      "artists": [
+        {
+          "name": "\uc9f1\uad70 Zzanggoon",
+          "url": "https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253507,
+      "name": "\u1112\u1173\u11ab\u1103\u1173\u11af\u1105\u1175\u1102\u1173\u11ab \u1101\u1169\u11be\u1103\u1173\u11af \u1109\u1169\u11a8\u110b\u1166\u1109\u1165 \u1102\u1166 \u1109\u1163\u11b7\u1111\u116e\u1112\u1163\u11bc\u110b\u1175 \u1102\u1173\u1101\u1167\u110c\u1175\u11ab\u1100\u1165\u110b\u1163 Your Shampoo Scent in the Flowers",
+      "url": "https://open.spotify.com/track/1MFcbgbZxtoVnRg3zwcU2f"
+    },
+    {
+      "album": {
+        "name": "\ud0dc\uc591\uc758 \ud6c4\uc608 (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/2ugBlj6GAcAF2UsU9lNElx"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235873,
+      "name": "\uadf8\ub300, \ubc14\ub78c\uc774 \ub418\uc5b4 (Instrumental)",
+      "url": "https://open.spotify.com/track/1l1fUhTKQZLel0zM1dxPse"
+    },
+    {
+      "album": {
+        "name": "\ud0dc\uc591\uc758 \ud6c4\uc608 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/26r2DqK7nPfiE097XOjD7z"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226574,
+      "name": "\uc774 \uc0ac\ub791 (Instrumental)",
+      "url": "https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2TaeWblvPcE"
 }

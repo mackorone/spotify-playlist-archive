@@ -1,54 +1,18 @@
 {
   "description": "Techno is a state of mind. Cover: HI-LO",
-  "num_followers": 118268,
+  "num_followers": 118790,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjRjNjkwZWY1MDhkY2YxNzYxY2E5M2EzNzA1MjNjMTUwMTQ1Y2Nj",
+  "snapshot_id": "MCxlZWNjMmZlZWJiNWU4YzJkYzkxOTY3NjY3ZTkxYzllNGY2ZTgxNDQy",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        }
-      ],
-      "duration_ms": 165335,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 203155,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Aria",
-        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+        "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
       },
       "artists": [
         {
@@ -62,23 +26,39 @@
       ],
       "duration_ms": 236065,
       "name": "Aria",
-      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
+      "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Running Man",
+        "url": "https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Running Man",
+      "url": "https://open.spotify.com/track/7irrCOHmsuQve6JLGCMB0w"
     },
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Desert Queen",
-        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 236691,
-      "name": "Desert Queen",
-      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
+      "duration_ms": 191408,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -103,18 +83,54 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
         }
       ],
-      "duration_ms": 191408,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"
+      "duration_ms": 203155,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        }
+      ],
+      "duration_ms": 165335,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Desert Queen",
+        "url": "https://open.spotify.com/album/0yG7rxCosQLHe9LH6fgxoH"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "Desert Queen",
+      "url": "https://open.spotify.com/track/3XEGdwonYRQM5sX0I0CsoR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -203,6 +219,30 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "What I Do",
+        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Dirty Blonde",
         "url": "https://open.spotify.com/album/72p8LFXjfXEHqfmHoHoUDb"
       },
@@ -237,6 +277,62 @@
       "url": "https://open.spotify.com/track/2Vp2qK8gK6HPvVenIvCauz"
     },
     {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3cR3M7CUTCx9YYkE1d9qn5"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 231496,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5IUVlYlvUtiqEC1qJbFZu8"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Paris to Milan (Hugo Cantarra Remix)",
+        "url": "https://open.spotify.com/album/5ZnIZV2ROAognogJwcOAWs"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        }
+      ],
+      "duration_ms": 189193,
+      "name": "Paris to Milan - Hugo Cantarra Remix",
+      "url": "https://open.spotify.com/track/2CN7iIgAfCL9jP349VnzeH"
+    },
+    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Rozelle",
@@ -269,24 +365,24 @@
       "url": "https://open.spotify.com/track/15ASyKJc2D9t9Lu46TnxrP"
     },
     {
-      "added_at": "2023-12-22 00:01:00",
+      "added_at": "2024-01-12 00:01:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/35IaeVYU7soMmkdDbWVUo5"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         },
         {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
         }
       ],
-      "duration_ms": 197822,
-      "name": "Syren",
-      "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
+      "duration_ms": 160000,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/0sgh2BTw3Rgckpu04xmJGe"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -311,26 +407,6 @@
       "duration_ms": 165347,
       "name": "Hand In Hand - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/4z5TeX7iJyiBU0J0CbzToz"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
-      },
-      "artists": [
-        {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        },
-        {
-          "name": "AtcG",
-          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "The Master",
-      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -371,6 +447,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 197822,
+      "name": "Syren",
+      "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Making Papers",
         "url": "https://open.spotify.com/album/2ybj5Ff2isOTMz674PmPGQ"
       },
@@ -383,6 +479,26 @@
       "duration_ms": 178311,
       "name": "Making Papers",
       "url": "https://open.spotify.com/track/06wnb62LHnOLOyQIElfX6t"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        },
+        {
+          "name": "AtcG",
+          "url": "https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "The Master",
+      "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -439,22 +555,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
-      },
-      "artists": [
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 282247,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -487,30 +587,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "What I Do",
-        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Millean.",
-          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -671,6 +747,22 @@
       "duration_ms": 189855,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "added_at": "2024-01-12 00:01:00",
+      "album": {
+        "name": "Constellation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/3zh113FtyKoyyv2RP3anDl"
+      },
+      "artists": [
+        {
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+        }
+      ],
+      "duration_ms": 452626,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/4aEiPEkgpHcu4HAzmIBfr8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1159,22 +1251,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Aura / Distance",
-        "url": "https://open.spotify.com/album/7BOzIIvwf46hf8WVtaJcEG"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 423880,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/74R7A9muWldPpUhr8fqOiN"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/4E2kGTJZNQ8ssgwz81Pg5y"
       },
@@ -1203,22 +1279,6 @@
       "duration_ms": 164990,
       "name": "Walkin'",
       "url": "https://open.spotify.com/track/0lNn6sOzm96BzweoCGl6mG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Andromeda / Boreale",
-        "url": "https://open.spotify.com/album/238mifuuUarseMLOeSZCqx"
-      },
-      "artists": [
-        {
-          "name": "Anunaku",
-          "url": "https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ"
-        }
-      ],
-      "duration_ms": 459186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3bBK046iUp8YchkY4yVZfC"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1371,38 +1431,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        }
-      ],
-      "duration_ms": 241824,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Brunt",
-        "url": "https://open.spotify.com/album/6A76dZwPEFmVijVEs9o2FP"
-      },
-      "artists": [
-        {
-          "name": "Dense & Pika",
-          "url": "https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC"
-        }
-      ],
-      "duration_ms": 390037,
-      "name": "Brunt",
-      "url": "https://open.spotify.com/track/1VvIJidbGCkz0DA56K2Isn"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "1997",
         "url": "https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH"
       },
@@ -1415,22 +1443,6 @@
       "duration_ms": 253325,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Life Window",
-        "url": "https://open.spotify.com/album/0EnUlTPW784TP5qMnad7nB"
-      },
-      "artists": [
-        {
-          "name": "Space Dimension Controller",
-          "url": "https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s"
-        }
-      ],
-      "duration_ms": 235121,
-      "name": "Life Window",
-      "url": "https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS"
     }
   ],
   "unique_name": "Techno State",

@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "album": {
         "name": "Devotion (2020 Remix)",
         "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
       },
@@ -778,7 +800,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-07",
       "duration_ms": 152238,
       "name": "Mr. Navigator",
       "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
@@ -940,7 +962,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
@@ -1135,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Showing Signs",
+        "url": "https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Showing Signs",
+      "url": "https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut"
+    },
+    {
+      "album": {
         "name": "Stay Mine",
         "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
       },
@@ -1286,7 +1326,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 163555,
       "name": "The Way",
       "url": "https://open.spotify.com/track/5SuiKqQOfG2zvv0UG4RyWS"

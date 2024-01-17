@@ -1,472 +1,1525 @@
 {
-  "2022-09-17": 11821,
-  "2022-09-18": 11832,
-  "2022-09-19": 11843,
-  "2022-09-20": 11852,
-  "2022-09-21": 11864,
-  "2022-09-22": 11879,
-  "2022-09-23": 11894,
-  "2022-09-24": 11909,
-  "2022-09-25": 11920,
-  "2022-09-26": 11927,
-  "2022-09-27": 11935,
-  "2022-09-28": 11943,
-  "2022-09-29": 11955,
-  "2022-09-30": 11968,
-  "2022-10-01": 11979,
-  "2022-10-02": 11984,
-  "2022-10-03": 11992,
-  "2022-10-04": 11996,
-  "2022-10-05": 12004,
-  "2022-10-06": 12013,
-  "2022-10-07": 12013,
-  "2022-10-08": 12026,
-  "2022-10-09": 12033,
-  "2022-10-10": 12033,
-  "2022-10-11": 12037,
-  "2022-10-12": 12047,
-  "2022-10-13": 12062,
-  "2022-10-14": 12077,
-  "2022-10-15": 12083,
-  "2022-10-16": 12096,
-  "2022-10-17": 12101,
-  "2022-10-18": 12115,
-  "2022-10-19": 12121,
-  "2022-10-20": 12131,
-  "2022-10-21": 12142,
-  "2022-10-22": 12157,
-  "2022-10-23": 12166,
-  "2022-10-24": 12171,
-  "2022-10-25": 12178,
-  "2022-10-26": 12189,
-  "2022-10-27": 12203,
-  "2022-10-28": 12213,
-  "2022-10-29": 12221,
-  "2022-10-30": 12234,
-  "2022-10-31": 12253,
-  "2022-11-01": 12270,
-  "2022-11-02": 12274,
-  "2022-11-03": 12279,
-  "2022-11-04": 12292,
-  "2022-11-05": 12308,
-  "2022-11-06": 12320,
-  "2022-11-07": 12332,
-  "2022-11-08": 12347,
-  "2022-11-09": 12359,
-  "2022-11-10": 12372,
-  "2022-11-11": 12385,
-  "2022-11-12": 12407,
-  "2022-11-13": 12416,
-  "2022-11-14": 12422,
-  "2022-11-15": 12432,
-  "2022-11-16": 12444,
-  "2022-11-17": 12454,
-  "2022-11-18": 12459,
-  "2022-11-19": 12459,
-  "2022-11-20": 12468,
-  "2022-11-21": 12483,
-  "2022-11-22": 12499,
-  "2022-11-23": 12511,
-  "2022-11-24": 12530,
-  "2022-11-25": 12561,
-  "2022-11-26": 12569,
-  "2022-11-27": 12578,
-  "2022-11-28": 12587,
-  "2022-11-29": 12595,
-  "2022-11-30": 12611,
-  "2022-12-01": 12633,
-  "2022-12-02": 12641,
-  "2022-12-03": 12660,
-  "2022-12-04": 12671,
-  "2022-12-05": 12683,
-  "2022-12-06": 12700,
-  "2022-12-07": 12718,
-  "2022-12-08": 12732,
-  "2022-12-09": 12743,
-  "2022-12-10": 12748,
-  "2022-12-11": 12758,
-  "2022-12-12": 12771,
-  "2022-12-13": 12783,
-  "2022-12-14": 12795,
-  "2022-12-15": 12809,
-  "2022-12-16": 12818,
-  "2022-12-17": 12829,
-  "2022-12-18": 12849,
-  "2022-12-19": 12854,
-  "2022-12-20": 12892,
-  "2022-12-21": 12892,
-  "2022-12-22": 12906,
-  "2022-12-24": 12926,
-  "2022-12-25": 12936,
-  "2022-12-26": 12944,
-  "2022-12-27": 12952,
-  "2022-12-28": 12971,
-  "2022-12-29": 12978,
-  "2022-12-30": 12988,
-  "2022-12-31": 12999,
-  "2023-01-01": 13010,
-  "2023-01-02": 13016,
-  "2023-01-03": 13026,
-  "2023-01-04": 13033,
-  "2023-01-05": 13042,
-  "2023-01-06": 13047,
-  "2023-01-07": 13065,
-  "2023-01-08": 13071,
-  "2023-01-09": 13083,
-  "2023-01-10": 13097,
-  "2023-01-11": 13104,
-  "2023-01-12": 13125,
-  "2023-01-13": 13143,
-  "2023-01-14": 13152,
-  "2023-01-15": 13154,
-  "2023-01-16": 13164,
-  "2023-01-17": 13175,
-  "2023-01-18": 13195,
-  "2023-01-19": 13206,
-  "2023-01-20": 13210,
-  "2023-01-21": 13217,
-  "2023-01-22": 13227,
-  "2023-01-23": 13245,
-  "2023-01-24": 13249,
-  "2023-01-25": 13261,
-  "2023-01-26": 13270,
-  "2023-01-27": 13287,
-  "2023-01-28": 13288,
-  "2023-01-29": 13297,
-  "2023-01-30": 13311,
-  "2023-01-31": 13311,
-  "2023-02-01": 13332,
-  "2023-02-02": 13342,
-  "2023-02-03": 13349,
-  "2023-02-04": 13361,
-  "2023-02-05": 13375,
-  "2023-02-06": 13391,
-  "2023-02-07": 13402,
-  "2023-02-08": 13432,
-  "2023-02-09": 13432,
-  "2023-02-10": 13455,
-  "2023-02-11": 13470,
-  "2023-02-12": 13478,
-  "2023-02-13": 13490,
-  "2023-02-14": 13490,
-  "2023-02-15": 13502,
-  "2023-02-16": 13522,
-  "2023-02-17": 13532,
-  "2023-02-18": 13565,
-  "2023-02-19": 13564,
-  "2023-02-20": 13567,
-  "2023-02-21": 13573,
-  "2023-02-22": 13589,
-  "2023-02-23": 13599,
-  "2023-02-24": 13612,
-  "2023-02-25": 13634,
-  "2023-02-26": 13646,
-  "2023-02-27": 13667,
-  "2023-02-28": 13667,
-  "2023-03-01": 13674,
-  "2023-03-02": 13680,
-  "2023-03-03": 13689,
-  "2023-03-04": 13692,
-  "2023-03-05": 13714,
-  "2023-03-06": 13714,
-  "2023-03-07": 13721,
-  "2023-03-08": 13732,
-  "2023-03-09": 13737,
-  "2023-03-10": 13750,
-  "2023-03-11": 13760,
-  "2023-03-12": 13780,
-  "2023-03-13": 13791,
-  "2023-03-14": 13802,
-  "2023-03-15": 13815,
-  "2023-03-16": 13815,
-  "2023-03-17": 13815,
-  "2023-03-18": 13847,
-  "2023-03-19": 13847,
-  "2023-03-20": 13867,
-  "2023-03-21": 13883,
-  "2023-03-22": 13895,
-  "2023-03-23": 13906,
-  "2023-03-24": 13906,
-  "2023-03-25": 13932,
-  "2023-03-26": 13950,
-  "2023-03-27": 13956,
-  "2023-03-28": 13967,
-  "2023-03-29": 13987,
-  "2023-03-30": 14024,
-  "2023-03-31": 14024,
-  "2023-04-01": 14045,
-  "2023-04-02": 14062,
-  "2023-04-03": 14072,
-  "2023-04-04": 14089,
-  "2023-04-05": 14100,
-  "2023-04-06": 14115,
-  "2023-04-07": 14131,
-  "2023-04-09": 14161,
-  "2023-04-10": 14177,
-  "2023-04-11": 14205,
-  "2023-04-12": 14205,
-  "2023-04-13": 14225,
-  "2023-04-14": 14240,
-  "2023-04-15": 14260,
-  "2023-04-16": 14278,
-  "2023-04-17": 14290,
-  "2023-04-18": 14303,
-  "2023-04-19": 14320,
-  "2023-04-20": 14345,
-  "2023-04-21": 14363,
-  "2023-04-22": 14375,
-  "2023-04-23": 14387,
-  "2023-04-24": 14396,
-  "2023-04-25": 14418,
-  "2023-04-26": 14428,
-  "2023-04-27": 14439,
-  "2023-04-28": 14458,
-  "2023-04-29": 14470,
-  "2023-04-30": 14485,
-  "2023-05-01": 14494,
-  "2023-05-02": 14506,
-  "2023-05-03": 14514,
-  "2023-05-04": 14542,
-  "2023-05-05": 14553,
-  "2023-05-06": 14568,
-  "2023-05-07": 14583,
-  "2023-05-08": 14601,
-  "2023-05-09": 14612,
-  "2023-05-10": 14634,
-  "2023-05-11": 14641,
-  "2023-05-12": 14656,
-  "2023-05-13": 14670,
-  "2023-05-14": 14678,
-  "2023-05-15": 14682,
-  "2023-05-16": 14697,
-  "2023-05-17": 14709,
-  "2023-05-18": 14720,
-  "2023-05-19": 14732,
-  "2023-05-20": 14754,
-  "2023-05-21": 14754,
-  "2023-05-22": 14754,
-  "2023-05-23": 14770,
-  "2023-05-24": 14797,
-  "2023-05-25": 14802,
-  "2023-05-26": 14806,
-  "2023-05-27": 14817,
-  "2023-05-28": 14828,
-  "2023-05-29": 14828,
-  "2023-05-30": 14835,
-  "2023-05-31": 14847,
-  "2023-06-01": 14860,
-  "2023-06-02": 14871,
-  "2023-06-03": 14876,
-  "2023-06-04": 14886,
-  "2023-06-05": 14898,
-  "2023-06-06": 14908,
-  "2023-06-07": 14922,
-  "2023-06-08": 14938,
-  "2023-06-09": 14947,
-  "2023-06-10": 14962,
-  "2023-06-11": 14983,
-  "2023-06-12": 15001,
-  "2023-06-13": 15011,
-  "2023-06-14": 15016,
-  "2023-06-15": 15027,
-  "2023-06-16": 15036,
-  "2023-06-17": 15048,
-  "2023-06-18": 15067,
-  "2023-06-19": 15077,
-  "2023-06-20": 15086,
-  "2023-06-21": 15100,
-  "2023-06-22": 15109,
-  "2023-06-23": 15124,
-  "2023-06-24": 15136,
-  "2023-06-25": 15150,
-  "2023-06-26": 15162,
-  "2023-06-27": 15175,
-  "2023-06-28": 15194,
-  "2023-06-29": 15210,
-  "2023-06-30": 15227,
-  "2023-07-01": 15261,
-  "2023-07-02": 15261,
-  "2023-07-03": 15267,
-  "2023-07-04": 15270,
-  "2023-07-05": 15271,
-  "2023-07-06": 15289,
-  "2023-07-07": 15289,
-  "2023-07-08": 15304,
-  "2023-07-09": 15310,
-  "2023-07-10": 15322,
-  "2023-07-11": 15339,
-  "2023-07-12": 15349,
-  "2023-07-13": 15358,
-  "2023-07-14": 15368,
-  "2023-07-15": 15380,
-  "2023-07-16": 15398,
-  "2023-07-17": 15410,
-  "2023-07-18": 15425,
-  "2023-07-19": 15434,
-  "2023-07-20": 15448,
-  "2023-07-21": 15460,
-  "2023-07-22": 15475,
-  "2023-07-23": 15489,
-  "2023-07-24": 15501,
-  "2023-07-25": 15512,
-  "2023-07-26": 15521,
-  "2023-07-27": 15540,
-  "2023-07-28": 15561,
-  "2023-07-29": 15581,
-  "2023-07-30": 15590,
-  "2023-07-31": 15607,
-  "2023-08-01": 15614,
-  "2023-08-02": 15630,
-  "2023-08-03": 15639,
-  "2023-08-04": 15648,
-  "2023-08-05": 15672,
-  "2023-08-06": 15690,
-  "2023-08-07": 15690,
-  "2023-08-08": 15695,
-  "2023-08-09": 15699,
-  "2023-08-10": 15702,
-  "2023-08-11": 15712,
-  "2023-08-12": 15718,
-  "2023-08-13": 15718,
-  "2023-08-14": 15750,
-  "2023-08-15": 15757,
-  "2023-08-16": 15757,
-  "2023-08-17": 15773,
-  "2023-08-18": 15773,
-  "2023-08-19": 15787,
-  "2023-08-20": 15796,
-  "2023-08-21": 15806,
-  "2023-08-22": 15815,
-  "2023-08-23": 15819,
-  "2023-08-24": 15830,
-  "2023-08-25": 15830,
-  "2023-08-26": 15848,
-  "2023-08-27": 15858,
-  "2023-08-28": 15861,
-  "2023-08-29": 15861,
-  "2023-08-30": 15861,
-  "2023-08-31": 15877,
-  "2023-09-01": 15890,
-  "2023-09-02": 15890,
-  "2023-09-03": 15902,
-  "2023-09-04": 15902,
-  "2023-09-05": 15902,
-  "2023-09-06": 15924,
-  "2023-09-07": 15924,
-  "2023-09-08": 15924,
-  "2023-09-09": 15924,
-  "2023-09-10": 15957,
-  "2023-09-11": 15962,
-  "2023-09-12": 15962,
-  "2023-09-13": 15979,
-  "2023-09-14": 15979,
-  "2023-09-15": 15979,
-  "2023-09-16": 16006,
-  "2023-09-17": 16006,
-  "2023-09-18": 16006,
-  "2023-09-19": 16033,
-  "2023-09-20": 16033,
-  "2023-09-21": 16033,
-  "2023-09-22": 16060,
-  "2023-09-23": 16060,
-  "2023-09-24": 16060,
-  "2023-09-25": 16060,
-  "2023-09-26": 16093,
-  "2023-09-27": 16093,
-  "2023-09-28": 16093,
-  "2023-09-29": 16093,
-  "2023-09-30": 16093,
-  "2023-10-01": 16093,
-  "2023-10-02": 16151,
-  "2023-10-03": 16151,
-  "2023-10-04": 16151,
-  "2023-10-05": 16172,
-  "2023-10-06": 16180,
-  "2023-10-07": 16180,
-  "2023-10-08": 16180,
-  "2023-10-09": 16180,
-  "2023-10-10": 16180,
-  "2023-10-11": 16238,
-  "2023-10-12": 16238,
-  "2023-10-13": 16238,
-  "2023-10-14": 16238,
-  "2023-10-15": 16238,
-  "2023-10-16": 16238,
-  "2023-10-17": 16238,
-  "2023-10-18": 16238,
-  "2023-10-19": 16238,
-  "2023-10-20": 16238,
-  "2023-10-21": 16238,
-  "2023-10-22": 16238,
-  "2023-10-23": 16238,
-  "2023-10-24": 16238,
-  "2023-10-25": 16238,
-  "2023-10-26": 16238,
-  "2023-10-27": 16238,
-  "2023-10-28": 16238,
-  "2023-10-29": 16238,
-  "2023-10-30": 16238,
-  "2023-10-31": 16238,
-  "2023-11-01": 16238,
-  "2023-11-02": 16238,
-  "2023-11-03": 16238,
-  "2023-11-04": 16238,
-  "2023-11-05": 16238,
-  "2023-11-06": 16238,
-  "2023-11-07": 16238,
-  "2023-11-08": 16238,
-  "2023-11-09": 16238,
-  "2023-11-10": 16238,
-  "2023-11-11": 16503,
-  "2023-11-12": 16503,
-  "2023-11-13": 16503,
-  "2023-11-14": 16503,
-  "2023-11-15": 16503,
-  "2023-11-16": 16503,
-  "2023-11-17": 16503,
-  "2023-11-18": 16503,
-  "2023-11-19": 16503,
-  "2023-11-20": 16503,
-  "2023-11-21": 16503,
-  "2023-11-22": 16503,
-  "2023-11-23": 16503,
-  "2023-11-24": 16503,
-  "2023-11-25": 16503,
-  "2023-11-26": 16503,
-  "2023-11-27": 16503,
-  "2023-11-28": 16503,
-  "2023-11-29": 16503,
-  "2023-11-30": 16503,
-  "2023-12-01": 16503,
-  "2023-12-02": 16503,
-  "2023-12-03": 16503,
-  "2023-12-04": 16503,
-  "2023-12-05": 16503,
-  "2023-12-06": 16503,
-  "2023-12-07": 16503,
-  "2023-12-08": 16503,
-  "2023-12-09": 16503,
-  "2023-12-10": 16503,
-  "2023-12-11": 16503,
-  "2023-12-12": 16503,
-  "2023-12-13": 16503,
-  "2023-12-14": 16829,
-  "2023-12-15": 16838,
-  "2023-12-16": 16849,
-  "2023-12-17": 16859,
-  "2023-12-18": 16862,
-  "2023-12-19": 16869,
-  "2023-12-20": 16878,
-  "2023-12-21": 16890,
-  "2023-12-22": 16896,
-  "2023-12-23": 16907,
-  "2023-12-24": 16914,
-  "2023-12-25": 16923,
-  "2023-12-26": 16929,
-  "2023-12-27": 16930,
-  "2023-12-30": 16961,
-  "2023-12-31": 16966,
-  "2024-01-01": 16971,
-  "2024-01-02": 16973,
-  "2024-01-03": 16984
+  "2024-01-17": 17066,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Descendents. The essential tracks, all in one playlist.",
+  "name": "This Is Descendents",
+  "tracks": [
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111200,
+      "name": "'Merican",
+      "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56001,
+      "name": "Baby Doncha Know",
+      "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 134066,
+      "name": "Bikeage",
+      "url": "https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 183826,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/2HADzzKMyCh4FfXSSfSXNA"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 185066,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104333,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 104333,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/6LFuNuo5tixQyi414xrinC"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107906,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/7fvcx0cXsc7FZhViJAtRxg"
+    },
+    {
+      "album": {
+        "name": "Dead Tracks, Vol. 2",
+        "url": "https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI"
+      },
+      "artists": [
+        {
+          "name": "The Bronx",
+          "url": "https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4"
+        },
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 183906,
+      "name": "Cheer",
+      "url": "https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Clean Sheets",
+      "url": "https://open.spotify.com/track/3pCc0a00cKo9o1qCsNDgiP"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34573,
+      "name": "Coffee Mug",
+      "url": "https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe"
+    },
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "Cool to Be You",
+      "url": "https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167144,
+      "name": "Coolidge",
+      "url": "https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 167293,
+      "name": "Coolidge",
+      "url": "https://open.spotify.com/track/2albIR3fBkSoAj76RjqGw7"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65531,
+      "name": "Crepe Suzette",
+      "url": "https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 104400,
+      "name": "Descendents",
+      "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 132906,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/1z3URfQ4jYzrFmStzUu20i"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90200,
+      "name": "Everything Sux",
+      "url": "https://open.spotify.com/track/0LDAMbrDwcMlH94AG9VYwW"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74026,
+      "name": "Feel This",
+      "url": "https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 133575,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/37lLexBCC4kCIPZFL1unDo"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "Get The Time",
+      "url": "https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 196426,
+      "name": "Get The Time",
+      "url": "https://open.spotify.com/track/2H7W4q8W86r9GzRuTiiuTs"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 97925,
+      "name": "Glad All Over",
+      "url": "https://open.spotify.com/track/0lRhHskS0D5s2T3JV3Mlw3"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 140866,
+      "name": "Good Good Things",
+      "url": "https://open.spotify.com/track/0Mgo6qSfd40CBbGdoKbwN2"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "Good Good Things",
+      "url": "https://open.spotify.com/track/5d7WzaCFCmgwAwZML8uXmp"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 142333,
+      "name": "Good Good Things",
+      "url": "https://open.spotify.com/track/7HHle8A6urSZT4RxkDQIiz"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 88516,
+      "name": "Grudge",
+      "url": "https://open.spotify.com/track/4YpjGR5zqcDfxAhpAYbnG6"
+    },
+    {
+      "album": {
+        "name": "'Merican",
+        "url": "https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 157333,
+      "name": "H\u00fcrtin' Cr\u00fce",
+      "url": "https://open.spotify.com/track/0FaXeLoE7VHzwjpkVX8KBx"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81266,
+      "name": "I Don't Want To Grow Up",
+      "url": "https://open.spotify.com/track/0eDc197F5458sCXioVf2PJ"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 81266,
+      "name": "I Don't Want to Grow Up",
+      "url": "https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42626,
+      "name": "I Wanna Be a Bear",
+      "url": "https://open.spotify.com/track/2VSiXZhIe5sikKG233RQZE"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88773,
+      "name": "I'm Not a Loser",
+      "url": "https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 64160,
+      "name": "I'm Not a Punk",
+      "url": "https://open.spotify.com/track/1VMnHHIyXnIWbkhhMoI9kM"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 188400,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/7L5ZNuxX0DMOqOKibohM0Q"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "In Love This Way",
+      "url": "https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 152106,
+      "name": "In Love This Way",
+      "url": "https://open.spotify.com/track/4LlmKr3eGaU3oxnvd84kY4"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 97256,
+      "name": "It's A Hectic World",
+      "url": "https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 93840,
+      "name": "Jean Is Dead",
+      "url": "https://open.spotify.com/track/2kUxi7tRDgprqqJrGE3SDR"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 70733,
+      "name": "Kabuki Girl",
+      "url": "https://open.spotify.com/track/3lrQFKjwoDladcpdSauYCj"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56958,
+      "name": "Like the Way I Know",
+      "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61719,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43240,
+      "name": "M-16",
+      "url": "https://open.spotify.com/track/2fZPDNhVXaK6o5bas9LkxV"
+    },
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Mass Nerder",
+      "url": "https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx"
+    },
+    {
+      "album": {
+        "name": "Bonus Fat",
+        "url": "https://open.spotify.com/album/2U7TfH0i95pE82kiHdHDL4"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 37800,
+      "name": "My Dad Sucks",
+      "url": "https://open.spotify.com/track/5wdStG0p3BmBK5jAHI1DR1"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 120800,
+      "name": "Myage",
+      "url": "https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142843,
+      "name": "Nightage",
+      "url": "https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 43146,
+      "name": "No Fat Burger",
+      "url": "https://open.spotify.com/track/78ziKKuXb6s9jqFnT8L2YT"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 36466,
+      "name": "No FB",
+      "url": "https://open.spotify.com/track/7a8u4fFQF8BbYOPLtsWsTg"
+    },
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Nothing with You",
+      "url": "https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105864,
+      "name": "On Paper",
+      "url": "https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw"
+    },
+    {
+      "album": {
+        "name": "Suffrage",
+        "url": "https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 142861,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 185800,
+      "name": "Pep Talk",
+      "url": "https://open.spotify.com/track/2dsB4EWZpV3X5jin2pcjhm"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "Pervert",
+      "url": "https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 107200,
+      "name": "Pervert",
+      "url": "https://open.spotify.com/track/5R3w9JrCCcwjkXUbGAmmEr"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 134716,
+      "name": "Ride the Wild",
+      "url": "https://open.spotify.com/track/14FjdxiIwPJBJteMrqHBoL"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117733,
+      "name": "Rotting Out",
+      "url": "https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74900,
+      "name": "Sailor's Choice",
+      "url": "https://open.spotify.com/track/0HfSlRenXUSBpouR8DNQ8V"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125140,
+      "name": "Shameless Halo",
+      "url": "https://open.spotify.com/track/5tDHV0T0jLjO5qW5qXb3Pt"
+    },
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111533,
+      "name": "She Don't Care",
+      "url": "https://open.spotify.com/track/1YvA35HudRjB00cQxYGUNa"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 153893,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/67qUEZ8HOzdz3110FohG9k"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106200,
+      "name": "Sick-O-Me",
+      "url": "https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 142933,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/4ZuZrAUYIDTY2wjluNjidz"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 145026,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/1o0cObpbURSTFEoXSgmL6a"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145026,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/6B9hQU3z8L6u8Yd3qHLuhe"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190924,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 229240,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 231266,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 195649,
+      "name": "Spineless and Scarlet Red",
+      "url": "https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
+    },
+    {
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 82183,
+      "name": "Testosterone",
+      "url": "https://open.spotify.com/track/6jnunhDko6kFi4sVWFaR85"
+    },
+    {
+      "album": {
+        "name": "That's The Breaks",
+        "url": "https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 42724,
+      "name": "That's The Breaks",
+      "url": "https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 76538,
+      "name": "Tired of Being Tired",
+      "url": "https://open.spotify.com/track/4u3eECXPRzUzQQVdiSmsoS"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181466,
+      "name": "Van",
+      "url": "https://open.spotify.com/track/2SJHPnqYZPBAOFXqqiMUU9"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96941,
+      "name": "Victim Of Me",
+      "url": "https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T"
+    },
+    {
+      "album": {
+        "name": "Enjoy!",
+        "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 139800,
+      "name": "Wendy",
+      "url": "https://open.spotify.com/track/09zb1vmjubFswa5uUeCn58"
+    },
+    {
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+    },
+    {
+      "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199618,
+      "name": "Without Love",
+      "url": "https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb"
+    },
+    {
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 56766,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/73WGdFWbfvAxrckntllMQl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VULZP"
 }

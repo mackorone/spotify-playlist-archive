@@ -1,579 +1,1469 @@
 {
-  "2022-05-31": 1545095,
-  "2022-06-01": 1546088,
-  "2022-06-02": 1546167,
-  "2022-06-03": 1546797,
-  "2022-06-04": 1547491,
-  "2022-06-05": 1548114,
-  "2022-06-06": 1548678,
-  "2022-06-07": 1549203,
-  "2022-06-08": 1549975,
-  "2022-06-09": 1550586,
-  "2022-06-10": 1551364,
-  "2022-06-11": 1552163,
-  "2022-06-12": 1552812,
-  "2022-06-13": 1553362,
-  "2022-06-14": 1553926,
-  "2022-06-15": 1554556,
-  "2022-06-16": 1555231,
-  "2022-06-17": 1555945,
-  "2022-06-18": 1556670,
-  "2022-06-19": 1557951,
-  "2022-06-20": 1557951,
-  "2022-06-21": 1558563,
-  "2022-06-22": 1559970,
-  "2022-06-23": 1559970,
-  "2022-06-24": 1560672,
-  "2022-06-25": 1561434,
-  "2022-06-26": 1562102,
-  "2022-06-27": 1562717,
-  "2022-06-28": 1563342,
-  "2022-06-29": 1563994,
-  "2022-06-30": 1564661,
-  "2022-07-01": 1565335,
-  "2022-07-02": 1566694,
-  "2022-07-03": 1568631,
-  "2022-07-04": 1570676,
-  "2022-07-05": 1570676,
-  "2022-07-06": 1570676,
-  "2022-07-07": 1577432,
-  "2022-07-08": 1579853,
-  "2022-07-09": 1582096,
-  "2022-07-10": 1584312,
-  "2022-07-11": 1586030,
-  "2022-07-12": 1587888,
-  "2022-07-13": 1589777,
-  "2022-07-14": 1591576,
-  "2022-07-15": 1593310,
-  "2022-07-16": 1594953,
-  "2022-07-17": 1596585,
-  "2022-07-18": 1597915,
-  "2022-07-19": 1599235,
-  "2022-07-20": 1600455,
-  "2022-07-21": 1601703,
-  "2022-07-22": 1602965,
-  "2022-07-23": 1604290,
-  "2022-07-24": 1605646,
-  "2022-07-25": 1606659,
-  "2022-07-26": 1607649,
-  "2022-07-27": 1608734,
-  "2022-07-28": 1609834,
-  "2022-07-29": 1610863,
-  "2022-07-30": 1613322,
-  "2022-07-31": 1613322,
-  "2022-08-01": 1614414,
-  "2022-08-02": 1616482,
-  "2022-08-03": 1616482,
-  "2022-08-04": 1617599,
-  "2022-08-05": 1618686,
-  "2022-08-06": 1619781,
-  "2022-08-07": 1620854,
-  "2022-08-08": 1621786,
-  "2022-08-09": 1622610,
-  "2022-08-10": 1623474,
-  "2022-08-11": 1624427,
-  "2022-08-12": 1625439,
-  "2022-08-13": 1626461,
-  "2022-08-14": 1627466,
-  "2022-08-15": 1628312,
-  "2022-08-16": 1629209,
-  "2022-08-17": 1630110,
-  "2022-08-18": 1631028,
-  "2022-08-19": 1631919,
-  "2022-08-20": 1632834,
-  "2022-08-21": 1633690,
-  "2022-08-22": 1634452,
-  "2022-08-23": 1635167,
-  "2022-08-24": 1635922,
-  "2022-08-25": 1636702,
-  "2022-08-26": 1637442,
-  "2022-08-27": 1638242,
-  "2022-08-28": 1639021,
-  "2022-08-29": 1639685,
-  "2022-08-30": 1639959,
-  "2022-08-31": 1639598,
-  "2022-09-01": 1639202,
-  "2022-09-02": 1638777,
-  "2022-09-03": 1637745,
-  "2022-09-04": 1637652,
-  "2022-09-05": 1638153,
-  "2022-09-06": 1638752,
-  "2022-09-07": 1639341,
-  "2022-09-09": 1640599,
-  "2022-09-10": 1641210,
-  "2022-09-11": 1641817,
-  "2022-09-12": 1642297,
-  "2022-09-13": 1642825,
-  "2022-09-15": 1643972,
-  "2022-09-16": 1644573,
-  "2022-09-17": 1645176,
-  "2022-09-18": 1645693,
-  "2022-09-19": 1646165,
-  "2022-09-20": 1646632,
-  "2022-09-21": 1647156,
-  "2022-09-22": 1647758,
-  "2022-09-23": 1648404,
-  "2022-09-24": 1648404,
-  "2022-09-25": 1649562,
-  "2022-09-26": 1649998,
-  "2022-09-27": 1650530,
-  "2022-09-28": 1651121,
-  "2022-09-29": 1651744,
-  "2022-09-30": 1652394,
-  "2022-10-01": 1652981,
-  "2022-10-02": 1653639,
-  "2022-10-03": 1654246,
-  "2022-10-04": 1654793,
-  "2022-10-05": 1655368,
-  "2022-10-06": 1656015,
-  "2022-10-07": 1656651,
-  "2022-10-08": 1657283,
-  "2022-10-09": 1658349,
-  "2022-10-10": 1658455,
-  "2022-10-11": 1659008,
-  "2022-10-12": 1659584,
-  "2022-10-13": 1660148,
-  "2022-10-14": 1660743,
-  "2022-10-15": 1661441,
-  "2022-10-16": 1662117,
-  "2022-10-17": 1662610,
-  "2022-10-18": 1663151,
-  "2022-10-19": 1663703,
-  "2022-10-20": 1664315,
-  "2022-10-21": 1664950,
-  "2022-10-22": 1665684,
-  "2022-10-23": 1666326,
-  "2022-10-24": 1666860,
-  "2022-10-25": 1667365,
-  "2022-10-26": 1667941,
-  "2022-10-27": 1668525,
-  "2022-10-28": 1669117,
-  "2022-10-29": 1669748,
-  "2022-10-30": 1670387,
-  "2022-10-31": 1670883,
-  "2022-11-01": 1671429,
-  "2022-11-02": 1671984,
-  "2022-11-03": 1672492,
-  "2022-11-04": 1673048,
-  "2022-11-05": 1673659,
-  "2022-11-06": 1674273,
-  "2022-11-07": 1674776,
-  "2022-11-08": 1675319,
-  "2022-11-09": 1675856,
-  "2022-11-10": 1676495,
-  "2022-11-11": 1677194,
-  "2022-11-12": 1677861,
-  "2022-11-13": 1678383,
-  "2022-11-14": 1678926,
-  "2022-11-15": 1679391,
-  "2022-11-16": 1679897,
-  "2022-11-17": 1680432,
-  "2022-11-18": 1680525,
-  "2022-11-19": 1680636,
-  "2022-11-20": 1681113,
-  "2022-11-21": 1681656,
-  "2022-11-22": 1682158,
-  "2022-11-23": 1682583,
-  "2022-11-24": 1683556,
-  "2022-11-25": 1684356,
-  "2022-11-26": 1684945,
-  "2022-11-27": 1685400,
-  "2022-11-28": 1685803,
-  "2022-11-29": 1686529,
-  "2022-11-30": 1687504,
-  "2022-12-01": 1688481,
-  "2022-12-02": 1689977,
-  "2022-12-03": 1691894,
-  "2022-12-04": 1693117,
-  "2022-12-05": 1693935,
-  "2022-12-06": 1694610,
-  "2022-12-07": 1695403,
-  "2022-12-08": 1696137,
-  "2022-12-09": 1696854,
-  "2022-12-10": 1697512,
-  "2022-12-11": 1698169,
-  "2022-12-12": 1698712,
-  "2022-12-13": 1699279,
-  "2022-12-14": 1699877,
-  "2022-12-15": 1700551,
-  "2022-12-16": 1701141,
-  "2022-12-17": 1701800,
-  "2022-12-18": 1702434,
-  "2022-12-19": 1702939,
-  "2022-12-20": 1703960,
-  "2022-12-21": 1703960,
-  "2022-12-22": 1704533,
-  "2022-12-24": 1705675,
-  "2022-12-25": 1706278,
-  "2022-12-26": 1706754,
-  "2022-12-27": 1707359,
-  "2022-12-28": 1707932,
-  "2022-12-29": 1708510,
-  "2022-12-30": 1709159,
-  "2022-12-31": 1709816,
-  "2023-01-01": 1710387,
-  "2023-01-02": 1710810,
-  "2023-01-03": 1711389,
-  "2023-01-04": 1711861,
-  "2023-01-05": 1712451,
-  "2023-01-06": 1713033,
-  "2023-01-07": 1713989,
-  "2023-01-08": 1714124,
-  "2023-01-09": 1714628,
-  "2023-01-10": 1715136,
-  "2023-01-11": 1715715,
-  "2023-01-12": 1716339,
-  "2023-01-13": 1716986,
-  "2023-01-14": 1718118,
-  "2023-01-15": 1718237,
-  "2023-01-16": 1718794,
-  "2023-01-17": 1719319,
-  "2023-01-18": 1719913,
-  "2023-01-19": 1720590,
-  "2023-01-20": 1721282,
-  "2023-01-21": 1722069,
-  "2023-01-22": 1722857,
-  "2023-01-23": 1723462,
-  "2023-01-24": 1724109,
-  "2023-01-25": 1724715,
-  "2023-01-26": 1725310,
-  "2023-01-27": 1725850,
-  "2023-01-28": 1726468,
-  "2023-01-29": 1727071,
-  "2023-01-30": 1727577,
-  "2023-01-31": 1727577,
-  "2023-02-01": 1728578,
-  "2023-02-02": 1729090,
-  "2023-02-03": 1729690,
-  "2023-02-04": 1730280,
-  "2023-02-05": 1730878,
-  "2023-02-06": 1731374,
-  "2023-02-07": 1731837,
-  "2023-02-08": 1732814,
-  "2023-02-09": 1732814,
-  "2023-02-10": 1733422,
-  "2023-02-11": 1734067,
-  "2023-02-12": 1735230,
-  "2023-02-13": 1735728,
-  "2023-02-14": 1735728,
-  "2023-02-15": 1736274,
-  "2023-02-16": 1736889,
-  "2023-02-17": 1737543,
-  "2023-02-18": 1738768,
-  "2023-02-19": 1738853,
-  "2023-02-20": 1739233,
-  "2023-02-21": 1739746,
-  "2023-02-22": 1740286,
-  "2023-02-23": 1740834,
-  "2023-02-24": 1741510,
-  "2023-02-25": 1742353,
-  "2023-02-26": 1742793,
-  "2023-02-27": 1743805,
-  "2023-02-28": 1743805,
-  "2023-03-01": 1744352,
-  "2023-03-02": 1745019,
-  "2023-03-03": 1745731,
-  "2023-03-04": 1746408,
-  "2023-03-05": 1747590,
-  "2023-03-06": 1747590,
-  "2023-03-07": 1748198,
-  "2023-03-08": 1748804,
-  "2023-03-09": 1749397,
-  "2023-03-10": 1749959,
-  "2023-03-11": 1750565,
-  "2023-03-12": 1751142,
-  "2023-03-13": 1751685,
-  "2023-03-14": 1752226,
-  "2023-03-15": 1752750,
-  "2023-03-16": 1752750,
-  "2023-03-17": 1752750,
-  "2023-03-18": 1754582,
-  "2023-03-19": 1754582,
-  "2023-03-20": 1755668,
-  "2023-03-21": 1756167,
-  "2023-03-22": 1756725,
-  "2023-03-23": 1757334,
-  "2023-03-24": 1757334,
-  "2023-03-25": 1758518,
-  "2023-03-26": 1759167,
-  "2023-03-27": 1759734,
-  "2023-03-28": 1760228,
-  "2023-03-29": 1760866,
-  "2023-03-30": 1762021,
-  "2023-03-31": 1762021,
-  "2023-04-01": 1762705,
-  "2023-04-02": 1763346,
-  "2023-04-03": 1763919,
-  "2023-04-04": 1764529,
-  "2023-04-05": 1765132,
-  "2023-04-06": 1765758,
-  "2023-04-07": 1766377,
-  "2023-04-09": 1767614,
-  "2023-04-10": 1768146,
-  "2023-04-11": 1769305,
-  "2023-04-12": 1769305,
-  "2023-04-13": 1769975,
-  "2023-04-14": 1770739,
-  "2023-04-15": 1771655,
-  "2023-04-16": 1772463,
-  "2023-04-17": 1773064,
-  "2023-04-18": 1773672,
-  "2023-04-19": 1774252,
-  "2023-04-20": 1774893,
-  "2023-04-21": 1775615,
-  "2023-04-22": 1776390,
-  "2023-04-23": 1777055,
-  "2023-04-24": 1777650,
-  "2023-04-25": 1778191,
-  "2023-04-26": 1778777,
-  "2023-04-27": 1779429,
-  "2023-04-28": 1780155,
-  "2023-04-29": 1780864,
-  "2023-04-30": 1781597,
-  "2023-05-01": 1782202,
-  "2023-05-02": 1782842,
-  "2023-05-03": 1783333,
-  "2023-05-04": 1783968,
-  "2023-05-05": 1784544,
-  "2023-05-06": 1785168,
-  "2023-05-07": 1785799,
-  "2023-05-08": 1786357,
-  "2023-05-09": 1787000,
-  "2023-05-10": 1787575,
-  "2023-05-11": 1788152,
-  "2023-05-12": 1788631,
-  "2023-05-13": 1789263,
-  "2023-05-14": 1789750,
-  "2023-05-15": 1790188,
-  "2023-05-16": 1790698,
-  "2023-05-17": 1791194,
-  "2023-05-18": 1791658,
-  "2023-05-19": 1792209,
-  "2023-05-20": 1793303,
-  "2023-05-21": 1793303,
-  "2023-05-22": 1793303,
-  "2023-05-23": 1794140,
-  "2023-05-24": 1794995,
-  "2023-05-25": 1795132,
-  "2023-05-26": 1795694,
-  "2023-05-27": 1796382,
-  "2023-05-28": 1796941,
-  "2023-05-29": 1796941,
-  "2023-05-30": 1797967,
-  "2023-05-31": 1798543,
-  "2023-06-01": 1799092,
-  "2023-06-02": 1799649,
-  "2023-06-03": 1800242,
-  "2023-06-04": 1800811,
-  "2023-06-05": 1801284,
-  "2023-06-06": 1801815,
-  "2023-06-07": 1802366,
-  "2023-06-08": 1802896,
-  "2023-06-09": 1803470,
-  "2023-06-10": 1804111,
-  "2023-06-11": 1804675,
-  "2023-06-12": 1805181,
-  "2023-06-13": 1805628,
-  "2023-06-14": 1806134,
-  "2023-06-15": 1806621,
-  "2023-06-16": 1807121,
-  "2023-06-17": 1807760,
-  "2023-06-18": 1808327,
-  "2023-06-19": 1808823,
-  "2023-06-20": 1809356,
-  "2023-06-21": 1809802,
-  "2023-06-22": 1810252,
-  "2023-06-23": 1810724,
-  "2023-06-24": 1811260,
-  "2023-06-25": 1811790,
-  "2023-06-26": 1812244,
-  "2023-06-27": 1812753,
-  "2023-06-28": 1813268,
-  "2023-06-29": 1813781,
-  "2023-06-30": 1814320,
-  "2023-07-01": 1815353,
-  "2023-07-02": 1815353,
-  "2023-07-03": 1815846,
-  "2023-07-04": 1816214,
-  "2023-07-05": 1816640,
-  "2023-07-06": 1817566,
-  "2023-07-07": 1817566,
-  "2023-07-08": 1818070,
-  "2023-07-09": 1818498,
-  "2023-07-10": 1818925,
-  "2023-07-11": 1819320,
-  "2023-07-12": 1819718,
-  "2023-07-13": 1820185,
-  "2023-07-14": 1820707,
-  "2023-07-15": 1821111,
-  "2023-07-16": 1821732,
-  "2023-07-17": 1822159,
-  "2023-07-18": 1822581,
-  "2023-07-19": 1822992,
-  "2023-07-20": 1823409,
-  "2023-07-21": 1823830,
-  "2023-07-22": 1824421,
-  "2023-07-23": 1824892,
-  "2023-07-24": 1825308,
-  "2023-07-25": 1825700,
-  "2023-07-26": 1826085,
-  "2023-07-27": 1826517,
-  "2023-07-28": 1827002,
-  "2023-07-29": 1827538,
-  "2023-07-30": 1827987,
-  "2023-07-31": 1828371,
-  "2023-08-01": 1828799,
-  "2023-08-02": 1829198,
-  "2023-08-03": 1829618,
-  "2023-08-04": 1830112,
-  "2023-08-05": 1830638,
-  "2023-08-06": 1831570,
-  "2023-08-07": 1831570,
-  "2023-08-08": 1832000,
-  "2023-08-09": 1832471,
-  "2023-08-10": 1832969,
-  "2023-08-11": 1833403,
-  "2023-08-12": 1833403,
-  "2023-08-13": 1833403,
-  "2023-08-14": 1834884,
-  "2023-08-15": 1834884,
-  "2023-08-16": 1834884,
-  "2023-08-17": 1834884,
-  "2023-08-18": 1834884,
-  "2023-08-19": 1834884,
-  "2023-08-20": 1837978,
-  "2023-08-21": 1837978,
-  "2023-08-22": 1839038,
-  "2023-08-23": 1839038,
-  "2023-08-24": 1839038,
-  "2023-08-25": 1839038,
-  "2023-08-26": 1841196,
-  "2023-08-27": 1841196,
-  "2023-08-28": 1842163,
-  "2023-08-29": 1842163,
-  "2023-08-30": 1842163,
-  "2023-08-31": 1843638,
-  "2023-09-01": 1844180,
-  "2023-09-02": 1844180,
-  "2023-09-03": 1845373,
-  "2023-09-04": 1845373,
-  "2023-09-05": 1845373,
-  "2023-09-06": 1846782,
-  "2023-09-07": 1846782,
-  "2023-09-08": 1846782,
-  "2023-09-09": 1846782,
-  "2023-09-10": 1849138,
-  "2023-09-11": 1849138,
-  "2023-09-12": 1849138,
-  "2023-09-13": 1850583,
-  "2023-09-14": 1850583,
-  "2023-09-15": 1850583,
-  "2023-09-16": 1852107,
-  "2023-09-17": 1852107,
-  "2023-09-18": 1852107,
-  "2023-09-19": 1853390,
-  "2023-09-20": 1853390,
-  "2023-09-21": 1853390,
-  "2023-09-22": 1854735,
-  "2023-09-23": 1854735,
-  "2023-09-24": 1854735,
-  "2023-09-25": 1854735,
-  "2023-09-26": 1856557,
-  "2023-09-27": 1856557,
-  "2023-09-28": 1856557,
-  "2023-09-29": 1856557,
-  "2023-09-30": 1856557,
-  "2023-10-01": 1856557,
-  "2023-10-02": 1859194,
-  "2023-10-03": 1859194,
-  "2023-10-04": 1859194,
-  "2023-10-05": 1860402,
-  "2023-10-06": 1860402,
-  "2023-10-07": 1860402,
-  "2023-10-08": 1860402,
-  "2023-10-09": 1860402,
-  "2023-10-10": 1860402,
-  "2023-10-11": 1861952,
-  "2023-10-12": 1861952,
-  "2023-10-13": 1861952,
-  "2023-10-14": 1861952,
-  "2023-10-15": 1861952,
-  "2023-10-16": 1861952,
-  "2023-10-17": 1861952,
-  "2023-10-18": 1861952,
-  "2023-10-19": 1861952,
-  "2023-10-20": 1861952,
-  "2023-10-21": 1861952,
-  "2023-10-22": 1861952,
-  "2023-10-23": 1861952,
-  "2023-10-24": 1861952,
-  "2023-10-25": 1861952,
-  "2023-10-26": 1861952,
-  "2023-10-27": 1861952,
-  "2023-10-28": 1861952,
-  "2023-10-29": 1861952,
-  "2023-10-30": 1861952,
-  "2023-10-31": 1861952,
-  "2023-11-01": 1861952,
-  "2023-11-02": 1861952,
-  "2023-11-03": 1861952,
-  "2023-11-04": 1861952,
-  "2023-11-05": 1861952,
-  "2023-11-06": 1861952,
-  "2023-11-07": 1861952,
-  "2023-11-08": 1861952,
-  "2023-11-09": 1861952,
-  "2023-11-10": 1861952,
-  "2023-11-11": 1872627,
-  "2023-11-12": 1872627,
-  "2023-11-13": 1872627,
-  "2023-11-14": 1872627,
-  "2023-11-15": 1872627,
-  "2023-11-16": 1872627,
-  "2023-11-17": 1872627,
-  "2023-11-18": 1872627,
-  "2023-11-19": 1872627,
-  "2023-11-20": 1872627,
-  "2023-11-21": 1872627,
-  "2023-11-22": 1872627,
-  "2023-11-23": 1872627,
-  "2023-11-24": 1872627,
-  "2023-11-25": 1872627,
-  "2023-11-26": 1872627,
-  "2023-11-27": 1872627,
-  "2023-11-28": 1872627,
-  "2023-11-29": 1872627,
-  "2023-11-30": 1872627,
-  "2023-12-01": 1872627,
-  "2023-12-02": 1872627,
-  "2023-12-03": 1872627,
-  "2023-12-04": 1872627,
-  "2023-12-05": 1872627,
-  "2023-12-06": 1872627,
-  "2023-12-07": 1872627,
-  "2023-12-08": 1872627,
-  "2023-12-09": 1872627,
-  "2023-12-10": 1872627,
-  "2023-12-11": 1872627,
-  "2023-12-12": 1872627,
-  "2023-12-13": 1872627,
-  "2023-12-14": 1884751,
-  "2023-12-15": 1885039,
-  "2023-12-16": 1885476,
-  "2023-12-17": 1885881,
-  "2023-12-18": 1886173,
-  "2023-12-19": 1886452,
-  "2023-12-20": 1886787,
-  "2023-12-21": 1887125,
-  "2023-12-22": 1887515,
-  "2023-12-23": 1887912,
-  "2023-12-24": 1888249,
-  "2023-12-25": 1888563,
-  "2023-12-26": 1888811,
-  "2023-12-27": 1889149,
-  "2023-12-30": 1890245,
-  "2023-12-31": 1890603,
-  "2024-01-01": 1890929,
-  "2024-01-02": 1891167,
-  "2024-01-03": 1891471
+  "2024-01-17": 1891443,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Metallica. The essential tracks, all in one playlist.",
+  "name": "This Is Metallica",
+  "tracks": [
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 586506,
+      "name": "...And Justice For All",
+      "url": "https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477026,
+      "name": "All Nightmare Long",
+      "url": "https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312360,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400613,
+      "name": "Blackened",
+      "url": "https://open.spotify.com/track/0Tp7uSZK21LZTbZRBNb9ud"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 497933,
+      "name": "Bleeding Me",
+      "url": "https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 405106,
+      "name": "Chasing Light",
+      "url": "https://open.spotify.com/track/0aHwh2rqyJNN0eZ4sGZLEt"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395704,
+      "name": "Creeping Death - Creeping Death EP Version / Remastered",
+      "url": "https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 349400,
+      "name": "Crown of Barbed Wire",
+      "url": "https://open.spotify.com/track/6eiFVKWhv9EYL2RdrVFtyC"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 332465,
+      "name": "Damage, Inc.",
+      "url": "https://open.spotify.com/track/3n7b078PcVbHhUaYhBWIgZ"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 318960,
+      "name": "Devil's Dance",
+      "url": "https://open.spotify.com/track/3IHyDrQOASm7R0WBamMJO8"
+    },
+    {
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "Die, Die My Darling",
+      "url": "https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Don't Tread On Me",
+      "url": "https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x"
+    },
+    {
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 240160,
+      "name": "Don't Tread on Me (Remastered)",
+      "url": "https://open.spotify.com/track/0u9ORuO4xOQY5SHxNcvCnV"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331266,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 390026,
+      "name": "Eye Of The Beholder",
+      "url": "https://open.spotify.com/track/7p2yIOf8YXJUSmUnG3TAWr"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417226,
+      "name": "Fade To Black - Remastered",
+      "url": "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire - Remastered",
+      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls - Remastered",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
+    },
+    {
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 350358,
+      "name": "Frantic",
+      "url": "https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269800,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189347,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 345706,
+      "name": "Harvester Of Sorrow",
+      "url": "https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz"
+    },
+    {
+      "album": {
+        "name": "...And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345283,
+      "name": "Harvester of Sorrow (Remastered)",
+      "url": "https://open.spotify.com/track/3IolN0Ae207i0Fr9IHuNbu"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261906,
+      "name": "Hero Of The Day",
+      "url": "https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 255866,
+      "name": "Hit The Lights - Remastered",
+      "url": "https://open.spotify.com/track/2620eph8P9p5FQ1oQWcWuk"
+    },
+    {
+      "album": {
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
+    },
+    {
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281293,
+      "name": "Jump In The Fire - Remastered",
+      "url": "https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329760,
+      "name": "King Nothing",
+      "url": "https://open.spotify.com/track/30RKGpKHqr7ytcTljw436k"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 339880,
+      "name": "Leper Messiah",
+      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
+    },
+    {
+      "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319693,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3dWNUqrgkQakv9fj5epwPK"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Motorbreath - Remastered",
+      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343200,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388266,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs"
+    },
+    {
+      "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447440,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 507226,
+      "name": "Orion - Remastered",
+      "url": "https://open.spotify.com/track/3z9e5b0P7zoIeV6I3iyX8O"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 396986,
+      "name": "Ride The Lightning (Remastered)",
+      "url": "https://open.spotify.com/track/36DLF96pjKydN0MZtsahQz"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396986,
+      "name": "Ride The Lightning - Remastered",
+      "url": "https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 333706,
+      "name": "Room of Mirrors",
+      "url": "https://open.spotify.com/track/3L82LuRzu60EPSK1yf5Pxr"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323933,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
+    },
+    {
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/2iEqcqpNG3zKBZAmiZzuDv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/0dwoX2gsjlRNa3rS40KFhQ"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414720,
+      "name": "Seek & Destroy - Remastered",
+      "url": "https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371880,
+      "name": "Shadows Follow",
+      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416066,
+      "name": "Sleepwalk My Life Away",
+      "url": "https://open.spotify.com/track/6HeYgpgqEo8SGis4dHwRbu"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 429198,
+      "name": "Spit Out The Bone",
+      "url": "https://open.spotify.com/track/3eB1b4DL6O9TMOksOYg83l"
+    },
+    {
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476266,
+      "name": "The Day That Never Comes",
+      "url": "https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432546,
+      "name": "The Four Horsemen - Remastered",
+      "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279173,
+      "name": "The Memory Remains",
+      "url": "https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr"
+    },
+    {
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 395960,
+      "name": "The Shortest Straw",
+      "url": "https://open.spotify.com/track/2Aqz0jTeEsS6DZbQYqHRGh"
+    },
+    {
+      "album": {
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 395101,
+      "name": "The Shortest Straw (Remastered)",
+      "url": "https://open.spotify.com/track/2Rn5VhDVELkuB4BjZEVJKr"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396106,
+      "name": "The Thing That Should Not Be",
+      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 396106,
+      "name": "The Thing That Should Not Be - Remastered",
+      "url": "https://open.spotify.com/track/6FDpQJtEKdYgtyN316VxLO"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386493,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/4aYLAF6ckQ5ooGGGM7sWAa"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396440,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa"
+    },
+    {
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244066,
+      "name": "Trapped Under Ice - Remastered",
+      "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"
+    },
+    {
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 543866,
+      "name": "Tuesday's Gone",
+      "url": "https://open.spotify.com/track/1OX2eJLfU0SHLzcy9sv9Vj"
+    },
+    {
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366466,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
+    },
+    {
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267933,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
+    },
+    {
+      "album": {
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387146,
+      "name": "Welcome Home (Sanitarium) - Remastered",
+      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
+    },
+    {
+      "album": {
+        "name": "Wherever I May Roam",
+        "url": "https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 158573,
+      "name": "Wherever I May Roam",
+      "url": "https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403866,
+      "name": "Wherever I May Roam",
+      "url": "https://open.spotify.com/track/22GbAGb80ZZNgm2yrBMnpR"
+    },
+    {
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248546,
+      "name": "Whiplash - Remastered",
+      "url": "https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs"
+    },
+    {
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304693,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 423013,
+      "name": "You Must Burn!",
+      "url": "https://open.spotify.com/track/1ALXFmNr7lrTug2LAE989q"
+    },
+    {
+      "album": {
+        "name": "See My Friends (International Version)",
+        "url": "https://open.spotify.com/album/2dyCzJ71jPInWYrLyNXi3O"
+      },
+      "artists": [
+        {
+          "name": "Ray Davies",
+          "url": "https://open.spotify.com/artist/6spXkXEP6teMn2cu9sWbBR"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 135240,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/0Cn4x7JH0p50y3wn5u8GPU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sJmec"
 }

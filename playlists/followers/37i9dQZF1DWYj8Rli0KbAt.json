@@ -1,270 +1,341 @@
 {
-  "2023-04-09": 2168,
-  "2023-04-10": 2170,
-  "2023-04-11": 2176,
-  "2023-04-12": 2176,
-  "2023-04-13": 2179,
-  "2023-04-14": 2180,
-  "2023-04-15": 2185,
-  "2023-04-16": 2186,
-  "2023-04-17": 2187,
-  "2023-04-18": 2192,
-  "2023-04-19": 2195,
-  "2023-04-20": 2196,
-  "2023-04-21": 2200,
-  "2023-04-22": 2204,
-  "2023-04-23": 2206,
-  "2023-04-24": 2206,
-  "2023-04-25": 2207,
-  "2023-04-26": 2207,
-  "2023-04-27": 2210,
-  "2023-04-28": 2211,
-  "2023-04-29": 2214,
-  "2023-04-30": 2219,
-  "2023-05-01": 2219,
-  "2023-05-02": 2221,
-  "2023-05-03": 2224,
-  "2023-05-04": 2225,
-  "2023-05-05": 2226,
-  "2023-05-06": 2231,
-  "2023-05-07": 2230,
-  "2023-05-08": 2235,
-  "2023-05-09": 2235,
-  "2023-05-10": 2238,
-  "2023-05-11": 2238,
-  "2023-05-12": 2241,
-  "2023-05-13": 2245,
-  "2023-05-14": 2249,
-  "2023-05-15": 2254,
-  "2023-05-16": 2253,
-  "2023-05-17": 2254,
-  "2023-05-18": 2260,
-  "2023-05-19": 2263,
-  "2023-05-20": 2274,
-  "2023-05-21": 2274,
-  "2023-05-22": 2274,
-  "2023-05-23": 2277,
-  "2023-05-24": 2283,
-  "2023-05-25": 2283,
-  "2023-05-26": 2286,
-  "2023-05-27": 2294,
-  "2023-05-28": 2299,
-  "2023-05-29": 2299,
-  "2023-05-30": 2298,
-  "2023-05-31": 2300,
-  "2023-06-01": 2304,
-  "2023-06-02": 2306,
-  "2023-06-03": 2307,
-  "2023-06-04": 2308,
-  "2023-06-05": 2309,
-  "2023-06-06": 2311,
-  "2023-06-07": 2311,
-  "2023-06-08": 2312,
-  "2023-06-09": 2316,
-  "2023-06-10": 2317,
-  "2023-06-11": 2321,
-  "2023-06-12": 2321,
-  "2023-06-13": 2322,
-  "2023-06-14": 2324,
-  "2023-06-15": 2325,
-  "2023-06-16": 2331,
-  "2023-06-17": 2330,
-  "2023-06-18": 2330,
-  "2023-06-19": 2331,
-  "2023-06-20": 2333,
-  "2023-06-21": 2334,
-  "2023-06-22": 2334,
-  "2023-06-23": 2337,
-  "2023-06-24": 2341,
-  "2023-06-25": 2341,
-  "2023-06-26": 2345,
-  "2023-06-27": 2346,
-  "2023-06-28": 2345,
-  "2023-06-29": 2346,
-  "2023-06-30": 2348,
-  "2023-07-01": 2351,
-  "2023-07-02": 2351,
-  "2023-07-03": 2350,
-  "2023-07-04": 2354,
-  "2023-07-05": 2355,
-  "2023-07-06": 2363,
-  "2023-07-07": 2363,
-  "2023-07-08": 2368,
-  "2023-07-09": 2372,
-  "2023-07-10": 2373,
-  "2023-07-11": 2376,
-  "2023-07-12": 2376,
-  "2023-07-13": 2376,
-  "2023-07-14": 2379,
-  "2023-07-15": 2378,
-  "2023-07-16": 2379,
-  "2023-07-17": 2383,
-  "2023-07-18": 2384,
-  "2023-07-19": 2386,
-  "2023-07-20": 2390,
-  "2023-07-21": 2389,
-  "2023-07-22": 2392,
-  "2023-07-23": 2394,
-  "2023-07-24": 2398,
-  "2023-07-25": 2397,
-  "2023-07-26": 2397,
-  "2023-07-27": 2400,
-  "2023-07-28": 2402,
-  "2023-07-29": 2404,
-  "2023-07-30": 2403,
-  "2023-07-31": 2405,
-  "2023-08-01": 2404,
-  "2023-08-02": 2405,
-  "2023-08-03": 2407,
-  "2023-08-04": 2409,
-  "2023-08-05": 2412,
-  "2023-08-06": 2411,
-  "2023-08-07": 2411,
-  "2023-08-08": 2413,
-  "2023-08-09": 2415,
-  "2023-08-10": 2418,
-  "2023-08-11": 2417,
-  "2023-08-12": 2418,
-  "2023-08-13": 2419,
-  "2023-08-14": 2422,
-  "2023-08-15": 2426,
-  "2023-08-16": 2426,
-  "2023-08-17": 2426,
-  "2023-08-18": 2426,
-  "2023-08-19": 2427,
-  "2023-08-20": 2431,
-  "2023-08-21": 2432,
-  "2023-08-22": 2431,
-  "2023-08-23": 2432,
-  "2023-08-24": 2432,
-  "2023-08-25": 2433,
-  "2023-08-26": 2433,
-  "2023-08-27": 2432,
-  "2023-08-28": 2432,
-  "2023-08-29": 2432,
-  "2023-08-30": 2432,
-  "2023-08-31": 2431,
-  "2023-09-01": 2440,
-  "2023-09-02": 2440,
-  "2023-09-03": 2447,
-  "2023-09-04": 2454,
-  "2023-09-05": 2460,
-  "2023-09-06": 2470,
-  "2023-09-07": 2482,
-  "2023-09-08": 2490,
-  "2023-09-09": 2502,
-  "2023-09-10": 2507,
-  "2023-09-11": 2513,
-  "2023-09-12": 2519,
-  "2023-09-13": 2521,
-  "2023-09-14": 2529,
-  "2023-09-15": 2532,
-  "2023-09-16": 2537,
-  "2023-09-17": 2542,
-  "2023-09-18": 2546,
-  "2023-09-19": 2553,
-  "2023-09-20": 2561,
-  "2023-09-21": 2569,
-  "2023-09-22": 2575,
-  "2023-09-23": 2582,
-  "2023-09-24": 2589,
-  "2023-09-25": 2598,
-  "2023-09-26": 2602,
-  "2023-09-27": 2607,
-  "2023-09-28": 2612,
-  "2023-09-29": 2617,
-  "2023-09-30": 2625,
-  "2023-10-01": 2632,
-  "2023-10-02": 2635,
-  "2023-10-03": 2642,
-  "2023-10-04": 2646,
-  "2023-10-05": 2648,
-  "2023-10-06": 2658,
-  "2023-10-07": 2665,
-  "2023-10-08": 2673,
-  "2023-10-09": 2684,
-  "2023-10-10": 2687,
-  "2023-10-11": 2697,
-  "2023-10-12": 2697,
-  "2023-10-13": 2697,
-  "2023-10-14": 2705,
-  "2023-10-15": 2709,
-  "2023-10-16": 2713,
-  "2023-10-17": 2717,
-  "2023-10-18": 2726,
-  "2023-10-19": 2732,
-  "2023-10-20": 2741,
-  "2023-10-21": 2743,
-  "2023-10-22": 2752,
-  "2023-10-23": 2761,
-  "2023-10-24": 2761,
-  "2023-10-25": 2764,
-  "2023-10-26": 2770,
-  "2023-10-27": 2775,
-  "2023-10-28": 2781,
-  "2023-10-29": 2781,
-  "2023-10-30": 2787,
-  "2023-10-31": 2787,
-  "2023-11-01": 2789,
-  "2023-11-02": 2798,
-  "2023-11-03": 2802,
-  "2023-11-04": 2808,
-  "2023-11-05": 2814,
-  "2023-11-06": 2824,
-  "2023-11-07": 2824,
-  "2023-11-08": 2824,
-  "2023-11-09": 2824,
-  "2023-11-10": 2824,
-  "2023-11-11": 2824,
-  "2023-11-12": 2824,
-  "2023-11-13": 2824,
-  "2023-11-14": 2824,
-  "2023-11-15": 2824,
-  "2023-11-16": 2824,
-  "2023-11-17": 2824,
-  "2023-11-18": 2824,
-  "2023-11-19": 2824,
-  "2023-11-20": 2824,
-  "2023-11-21": 2824,
-  "2023-11-22": 2824,
-  "2023-11-23": 2824,
-  "2023-11-24": 2824,
-  "2023-11-25": 2824,
-  "2023-11-26": 2824,
-  "2023-11-27": 2824,
-  "2023-11-28": 2824,
-  "2023-11-29": 2824,
-  "2023-11-30": 2824,
-  "2023-12-01": 2824,
-  "2023-12-02": 2824,
-  "2023-12-03": 2824,
-  "2023-12-04": 2824,
-  "2023-12-05": 2824,
-  "2023-12-06": 2824,
-  "2023-12-07": 2824,
-  "2023-12-08": 2824,
-  "2023-12-09": 2824,
-  "2023-12-10": 2824,
-  "2023-12-11": 2824,
-  "2023-12-12": 2824,
-  "2023-12-13": 2824,
-  "2023-12-14": 2824,
-  "2023-12-15": 2824,
-  "2023-12-16": 2824,
-  "2023-12-17": 2824,
-  "2023-12-18": 2824,
-  "2023-12-19": 2824,
-  "2023-12-20": 2824,
-  "2023-12-21": 2824,
-  "2023-12-22": 2824,
-  "2023-12-23": 2824,
-  "2023-12-24": 2824,
-  "2023-12-25": 2824,
-  "2023-12-26": 2824,
-  "2023-12-27": 2824,
-  "2023-12-30": 2824,
-  "2023-12-31": 2824,
-  "2024-01-01": 2824,
-  "2024-01-02": 2824,
-  "2024-01-03": 2824
+  "2024-01-17": 2824,
+  "date_first_scraped": "2023-04-09",
+  "description": "Transport yourself to the underground world of <a href=\"spotify:artist:40JyDxGqtYSowWYT2jaive\">Alan Fitzpatrick</a>.",
+  "name": "Alan Fitzpatrick's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Call Out For Love (Mixed)",
+        "url": "https://open.spotify.com/album/4xsAKF2tkKqpoH35cxOf1h"
+      },
+      "artists": [
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "A Call Out For Love - Mixed",
+      "url": "https://open.spotify.com/track/1McCEmnisrIHBcmqidrd97"
+    },
+    {
+      "album": {
+        "name": "Acid Changes Everything (Mixed)",
+        "url": "https://open.spotify.com/album/4Y2bcRa0ADuc9tS7zBXQrP"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Acid Changes Everything - Mixed",
+      "url": "https://open.spotify.com/track/2EsBTKV9N1xsUxQLT3NvN4"
+    },
+    {
+      "album": {
+        "name": "Beinwill (Mixed)",
+        "url": "https://open.spotify.com/album/4O4K0fglMN6hDuZ4LhSIHo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rifaterra",
+          "url": "https://open.spotify.com/artist/3HtfQbL0GNlsFvQhGFkwnb"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Beinwill - Mixed",
+      "url": "https://open.spotify.com/track/2Vxriq8R5rTIHlZy6oeNLP"
+    },
+    {
+      "album": {
+        "name": "Bourgeois Imagery (Mixed)",
+        "url": "https://open.spotify.com/album/4uBMHjF2KadqKwuZztTTk3"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Bourgeois Imagery - Mixed",
+      "url": "https://open.spotify.com/track/3RCxwbcBw9MdW4QAeQIuSj"
+    },
+    {
+      "album": {
+        "name": "Chaos in the Distance (Mixed)",
+        "url": "https://open.spotify.com/album/4QXEpCctBlBsiuE9lY5s2K"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        },
+        {
+          "name": "CAYAM",
+          "url": "https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Chaos in the Distance - Mixed",
+      "url": "https://open.spotify.com/track/0PcyJ91xaF5IgWXJMcPi1f"
+    },
+    {
+      "album": {
+        "name": "Closer (Mixed)",
+        "url": "https://open.spotify.com/album/5DgtDGvAelxdj8Gx9fyG1l"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Closer - Mixed",
+      "url": "https://open.spotify.com/track/2YkbLWnXi612Lwj2udcojc"
+    },
+    {
+      "album": {
+        "name": "Closing In - Jody Wisternoff Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/3U0TIT9Eq5P7N0zFPguHOl"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Closing In - Jody Wisternoff Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/0oeOuSnmLJhzIoOjjc78NI"
+    },
+    {
+      "album": {
+        "name": "Cosmic Waves (Mixed)",
+        "url": "https://open.spotify.com/album/5QqAEHmhOgv6UN4solXsNi"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Cosmic Waves - Mixed",
+      "url": "https://open.spotify.com/track/1GfiBxTYUqzetZ1zHH2XAd"
+    },
+    {
+      "album": {
+        "name": "Dark Whisperings (Mixed)",
+        "url": "https://open.spotify.com/album/7okjkbwg3RxQbxxT6BrLyB"
+      },
+      "artists": [
+        {
+          "name": "3STRANGE",
+          "url": "https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Dark Whisperings - Mixed",
+      "url": "https://open.spotify.com/track/065MCUuyq7fkdesyTeEmxO"
+    },
+    {
+      "album": {
+        "name": "Losing Control (Mixed)",
+        "url": "https://open.spotify.com/album/2BEsXv4htMgrltronh5o8j"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Losing Control - Mixed",
+      "url": "https://open.spotify.com/track/6jXI6D1VVRQDlSoswjumAK"
+    },
+    {
+      "album": {
+        "name": "Martian in Detroit (Mixed)",
+        "url": "https://open.spotify.com/album/06aG8SHm7wHY5mJRPmCMGD"
+      },
+      "artists": [
+        {
+          "name": "3STRANGE",
+          "url": "https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Martian in Detroit - Mixed",
+      "url": "https://open.spotify.com/track/0D0KLmYD6l18sk2BeGQvjU"
+    },
+    {
+      "album": {
+        "name": "Something Wonderful - Mathew Jonson Remix (Mixed)",
+        "url": "https://open.spotify.com/album/6ppI1wYZlAJfU3TNeO24V9"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Mathew Jonson",
+          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Something Wonderful - Mathew Jonson Remix - Mixed",
+      "url": "https://open.spotify.com/track/32xgqsQNFMHps6v8YMp1fK"
+    },
+    {
+      "album": {
+        "name": "Something Wonderful - Steffi Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2Xzkx2Wmsot9ymVkybiyiT"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Steffi",
+          "url": "https://open.spotify.com/artist/644PvPeYIyoq0n0eBP5fxG"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Something Wonderful - Steffi Remix - Mixed",
+      "url": "https://open.spotify.com/track/1zrFvZgQCSlxaFQS9yzNSe"
+    },
+    {
+      "album": {
+        "name": "The Sweeper (Mixed)",
+        "url": "https://open.spotify.com/album/2BzFGUCh2Z5nr5AYa5q6Ir"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "The Sweeper - Mixed",
+      "url": "https://open.spotify.com/track/2VKvWgaoG4cVweunC9OK3e"
+    },
+    {
+      "album": {
+        "name": "W.A.I.S.T.D. - Genix Extended Mix (Mixed)",
+        "url": "https://open.spotify.com/album/2lKv8tbvZGJjVpZHeCTieW"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Genix",
+          "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "W.A.I.S.T.D. - Genix Extended Mix - Mixed",
+      "url": "https://open.spotify.com/track/2Dz0cft8O2256kJXxgccol"
+    },
+    {
+      "album": {
+        "name": "Warning Signs - CamelPhat Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4iA79OHpTBSy3pRcmQIRxj"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Warning Signs - CamelPhat Remix - Mixed",
+      "url": "https://open.spotify.com/track/3VWXnYbLWbB9HZsiFAt3qI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYj8Rli0KbAt"
 }

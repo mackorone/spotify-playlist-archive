@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,685 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,022 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

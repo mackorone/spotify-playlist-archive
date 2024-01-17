@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 293979,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 177706,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 181466,
       "name": "I Can't See Myself Leaving You",
       "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
@@ -3490,7 +3490,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 318253,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 468653,
       "name": "Quiet Storm",
       "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
@@ -4507,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "album": {
         "name": "Classics Volume 10",
         "url": "https://open.spotify.com/album/5cGhEtmYGzBkOhUgr3cljL"
       },
@@ -4612,6 +4630,24 @@
       "duration_ms": 281853,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+    },
+    {
+      "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/5NZSlAHmuK1l2W0yinDDHN"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209506,
+      "name": "Show & Tell",
+      "url": "https://open.spotify.com/track/7eRT4SS9oJH6L9FyOzndRW"
     },
     {
       "album": {
@@ -5208,7 +5244,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 201993,
       "name": "This Time",
       "url": "https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS"
@@ -5638,7 +5674,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 260826,
       "name": "Wish That You Were Mine",
       "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"

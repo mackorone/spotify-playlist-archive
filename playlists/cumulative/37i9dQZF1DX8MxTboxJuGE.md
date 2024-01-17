@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-96 songs - 7 hr 12 min
+97 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2023-07-14 |  |
 | [Checkmate](https://open.spotify.com/track/3xu91T5DMRDq72pDQU2tfN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:30 | 2023-07-14 |  |
 | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/track/6zZgn4nETQso6sDRhk0Vo6) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/album/6EKAeHlIR89cddIjX336xR) | 4:22 | 2023-07-14 |  |
-| [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 | 2023-07-14 |  |
+| [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/3yPBHqSBVEyYKSujOWHyJ4) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Torn Arteries](https://open.spotify.com/album/7gLYRl6OVQjgsceV95XuUR) | 4:29 | 2023-11-03 |  |
+| [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 | 2023-07-14 | 2024-01-06 |
 | [Dark Delight](https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G) | [Final Disaster](https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E) | [Dark Delight](https://open.spotify.com/album/4kKfDKnqHqveHWjT716F8D) | 5:26 | 2023-07-14 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2023-07-14 | 2023-11-04 |
 | [Days of Future Past](https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt) | 4:03 | 2023-11-03 |  |

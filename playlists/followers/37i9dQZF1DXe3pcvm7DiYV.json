@@ -1,94 +1,1059 @@
 {
-  "2023-10-02": 368,
-  "2023-10-03": 368,
-  "2023-10-04": 368,
-  "2023-10-05": 368,
-  "2023-10-06": 368,
-  "2023-10-07": 368,
-  "2023-10-08": 368,
-  "2023-10-09": 368,
-  "2023-10-10": 368,
-  "2023-10-11": 371,
-  "2023-10-12": 371,
-  "2023-10-13": 371,
-  "2023-10-14": 371,
-  "2023-10-15": 371,
-  "2023-10-16": 371,
-  "2023-10-17": 371,
-  "2023-10-18": 371,
-  "2023-10-19": 371,
-  "2023-10-20": 371,
-  "2023-10-21": 371,
-  "2023-10-22": 371,
-  "2023-10-23": 371,
-  "2023-10-24": 371,
-  "2023-10-25": 371,
-  "2023-10-26": 371,
-  "2023-10-27": 371,
-  "2023-10-28": 371,
-  "2023-10-29": 371,
-  "2023-10-30": 371,
-  "2023-10-31": 371,
-  "2023-11-01": 371,
-  "2023-11-02": 371,
-  "2023-11-03": 371,
-  "2023-11-04": 371,
-  "2023-11-05": 371,
-  "2023-11-06": 371,
-  "2023-11-07": 371,
-  "2023-11-08": 371,
-  "2023-11-09": 371,
-  "2023-11-10": 371,
-  "2023-11-11": 378,
-  "2023-11-12": 378,
-  "2023-11-13": 378,
-  "2023-11-14": 378,
-  "2023-11-15": 378,
-  "2023-11-16": 378,
-  "2023-11-17": 383,
-  "2023-11-18": 383,
-  "2023-11-19": 383,
-  "2023-11-20": 383,
-  "2023-11-21": 383,
-  "2023-11-22": 383,
-  "2023-11-23": 383,
-  "2023-11-24": 383,
-  "2023-11-25": 383,
-  "2023-11-26": 383,
-  "2023-11-27": 383,
-  "2023-11-28": 383,
-  "2023-11-29": 383,
-  "2023-11-30": 383,
-  "2023-12-01": 383,
-  "2023-12-02": 383,
-  "2023-12-03": 383,
-  "2023-12-04": 383,
-  "2023-12-05": 383,
-  "2023-12-06": 383,
-  "2023-12-07": 383,
-  "2023-12-08": 383,
-  "2023-12-09": 383,
-  "2023-12-10": 383,
-  "2023-12-11": 383,
-  "2023-12-12": 383,
-  "2023-12-13": 383,
-  "2023-12-14": 389,
-  "2023-12-15": 389,
-  "2023-12-16": 389,
-  "2023-12-17": 389,
-  "2023-12-18": 389,
-  "2023-12-19": 389,
-  "2023-12-20": 389,
-  "2023-12-21": 390,
-  "2023-12-22": 390,
-  "2023-12-23": 390,
-  "2023-12-24": 389,
-  "2023-12-25": 388,
-  "2023-12-26": 389,
-  "2023-12-27": 389,
-  "2023-12-30": 389,
-  "2023-12-31": 389,
-  "2024-01-01": 389,
-  "2024-01-02": 389,
-  "2024-01-03": 389
+  "2024-01-17": 390,
+  "date_first_scraped": "2023-10-02",
+  "description": "Courez, dansez, sautez avec cette playlist approuv\u00e9e par les enfants!",
+  "name": "La vie c'est muscl\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pinkfong Animal Songs",
+        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80927,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
+    },
+    {
+      "album": {
+        "name": "Best Friends Forever (Single Version)",
+        "url": "https://open.spotify.com/album/1E0ZOLgPgswwxXp9kwEFE7"
+      },
+      "artists": [
+        {
+          "name": "Regurgitator's Pogogo Show",
+          "url": "https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111013,
+      "name": "Best Friends Forever - Single Version",
+      "url": "https://open.spotify.com/track/0gLE9Q4nLeG6oDlQRJ0QOo"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/7GZmO8tmQ1MAskqokLzsFN"
+    },
+    {
+      "album": {
+        "name": "Shake It Up",
+        "url": "https://open.spotify.com/album/4ebzMDMuPUQx53NkRxzT6J"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150008,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/7K44meuixBWcunotVpdwJf"
+    },
+    {
+      "album": {
+        "name": "150 Preschool Songs",
+        "url": "https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103291,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/663LGTeJco27vlEHFZsy3v"
+    },
+    {
+      "album": {
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
+      },
+      "artists": [
+        {
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92920,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Workout Hits Vol. 1 (Music For Kids To Stay Fit)",
+        "url": "https://open.spotify.com/album/4gMQHDBKfxXo3vrR7NEsPO"
+      },
+      "artists": [
+        {
+          "name": "Fit Kids Allstars",
+          "url": "https://open.spotify.com/artist/3ibCz6zRxB2znkpUmyHhw5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198921,
+      "name": "Cotton Eye Joe (Workout Mix)",
+      "url": "https://open.spotify.com/track/5RjplS4rMfxkI8DlvIq2kC"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78947,
+      "name": "Dance to Your Daddy",
+      "url": "https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4"
+    },
+    {
+      "album": {
+        "name": "Dance Party!",
+        "url": "https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196041,
+      "name": "Do the Funky Robot",
+      "url": "https://open.spotify.com/track/7sLSjSDi92sRcG7L9xvkTv"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114211,
+      "name": "Do the Propeller!",
+      "url": "https://open.spotify.com/track/77GQOehkChjV2fUWV4OmNf"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132088,
+      "name": "Dorothy's Dance Party",
+      "url": "https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164070,
+      "name": "Double Scoop",
+      "url": "https://open.spotify.com/track/5PvFCi0HVzzTOxVS94dzai"
+    },
+    {
+      "album": {
+        "name": "Exercise Song",
+        "url": "https://open.spotify.com/album/44wJwQvqtaoQ74LNeK98nS"
+      },
+      "artists": [
+        {
+          "name": "ITS MUSIC",
+          "url": "https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132809,
+      "name": "Exercise Song",
+      "url": "https://open.spotify.com/track/6tH1WdxYRfFKuk3Szb16pk"
+    },
+    {
+      "album": {
+        "name": "The BeatBuds, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL"
+      },
+      "artists": [
+        {
+          "name": "The BeatBuds",
+          "url": "https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104187,
+      "name": "Faster!",
+      "url": "https://open.spotify.com/track/3PcemHi5mFgSWgNbBekunQ"
+    },
+    {
+      "album": {
+        "name": "Kids Dance Party",
+        "url": "https://open.spotify.com/album/3n7I4gGXEAsMhX5T6zzHG3"
+      },
+      "artists": [
+        {
+          "name": "Kids Dance Party",
+          "url": "https://open.spotify.com/artist/1fgvh9SD7beKdaE8v4LWOn"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Freeze Dance",
+      "url": "https://open.spotify.com/track/0gIY83JHf5Ih6zbfxlEMA1"
+    },
+    {
+      "album": {
+        "name": "Wiggle Time!",
+        "url": "https://open.spotify.com/album/2J9sgiEk6WX2RMY3k30cVv"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Get Ready to Wiggle",
+      "url": "https://open.spotify.com/track/0O0pn82JUSSDzZvvqQCalX"
+    },
+    {
+      "album": {
+        "name": "Whoopty Whoop",
+        "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117136,
+      "name": "Get Yo Body Movin'",
+      "url": "https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC"
+    },
+    {
+      "album": {
+        "name": "Imagination Movers: In a Big Warehouse",
+        "url": "https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87560,
+      "name": "Getting Stronger",
+      "url": "https://open.spotify.com/track/0kjTDM7NqT2XPJI3Xbi10c"
+    },
+    {
+      "album": {
+        "name": "A Hop, Skip, And A Jump - Activity Songs For The Very Young",
+        "url": "https://open.spotify.com/album/6ZOwSZzPangSTtHAvGlGJ2"
+      },
+      "artists": [
+        {
+          "name": "Pam Donkin",
+          "url": "https://open.spotify.com/artist/6Vb4EKTyuWa2cwRLSrrcxM"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101720,
+      "name": "Gotta Get The Beat",
+      "url": "https://open.spotify.com/track/3T6GLKOOeAwQ5rnFsiyEOv"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Elmo's Dance Party",
+        "url": "https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90373,
+      "name": "Happy Tappin' with Elmo",
+      "url": "https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1"
+    },
+    {
+      "album": {
+        "name": "Songs for Kids: Classic Children's Music",
+        "url": "https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq"
+      },
+      "artists": [
+        {
+          "name": "Toddler Tunes",
+          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83291,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68221,
+      "name": "I Just Want to Dance",
+      "url": "https://open.spotify.com/track/6pWIvwHHAW8uOclWErysdw"
+    },
+    {
+      "album": {
+        "name": "Under A Shady Tree",
+        "url": "https://open.spotify.com/album/6f7pFWEwVTTivCKpD9F54q"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "I'm Gonna Catch You",
+      "url": "https://open.spotify.com/track/4IW9N2bPYoIaFH4QwkW9Ib"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Kids' Favorite Songs 2",
+        "url": "https://open.spotify.com/album/16aAKJ6cx1nA0S15UTyEJm"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "The Sesame Street Kids",
+          "url": "https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151996,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/6di5gMpHQIvHezmekFG3BK"
+    },
+    {
+      "album": {
+        "name": "Taking Off!",
+        "url": "https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59534,
+      "name": "Introduction VII",
+      "url": "https://open.spotify.com/track/5Sle8jGZo4yVIu73PabtnC"
+    },
+    {
+      "album": {
+        "name": "My Family Tree",
+        "url": "https://open.spotify.com/album/0055NV6qBdM0bnNMGhiCIg"
+      },
+      "artists": [
+        {
+          "name": "Birdie",
+          "url": "https://open.spotify.com/artist/3HK0Kzy8QxtqXRSIjwYV8L"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143226,
+      "name": "Jump For Joy",
+      "url": "https://open.spotify.com/track/5CmMQ6ATyBqdh48pIPSSWG"
+    },
+    {
+      "album": {
+        "name": "Imagination Movers: For Those About to Hop",
+        "url": "https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65293,
+      "name": "Jump Up!",
+      "url": "https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Vincenzo",
+          "url": "https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Le coach (feat. Vincenzo)",
+      "url": "https://open.spotify.com/track/1RighqmKZNqLP9rklJ4HCz"
+    },
+    {
+      "album": {
+        "name": "Let The Music Move Your Feet",
+        "url": "https://open.spotify.com/album/2qApj0BwHEpe07QJNV09gV"
+      },
+      "artists": [
+        {
+          "name": "Debbie Doo",
+          "url": "https://open.spotify.com/artist/5AHUMrHGPwawAnAamJgDJU"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190166,
+      "name": "Let The Music Move Your Feet",
+      "url": "https://open.spotify.com/track/2RboQ5vYXjA8TQTp5DEEAl"
+    },
+    {
+      "album": {
+        "name": "Let's Play",
+        "url": "https://open.spotify.com/album/3CKSBk4Ivxw1gwjQ2GW3Ch"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Let's Play",
+      "url": "https://open.spotify.com/track/1CI0KTzVhyXAZWBS4GSCrV"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Workout Hits Vol. 1 (Music For Kids To Stay Fit)",
+        "url": "https://open.spotify.com/album/4gMQHDBKfxXo3vrR7NEsPO"
+      },
+      "artists": [
+        {
+          "name": "Fit Kids Allstars",
+          "url": "https://open.spotify.com/artist/3ibCz6zRxB2znkpUmyHhw5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249208,
+      "name": "Let\u2019s Get Loud (Workout Mix)",
+      "url": "https://open.spotify.com/track/78SJJ9O5RDRM4KvYRTEygH"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
+    },
+    {
+      "album": {
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
+      },
+      "artists": [
+        {
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75306,
+      "name": "Merengue!",
+      "url": "https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175088,
+      "name": "Monster Moves",
+      "url": "https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm"
+    },
+    {
+      "album": {
+        "name": "Everyone Together Now!",
+        "url": "https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK"
+      },
+      "artists": [
+        {
+          "name": "Mil's Trills",
+          "url": "https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj"
+        },
+        {
+          "name": "Amelia Robinson",
+          "url": "https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213746,
+      "name": "Mother May I?",
+      "url": "https://open.spotify.com/track/3KQu5t8RJ2UaEgrdfbotp8"
+    },
+    {
+      "album": {
+        "name": "My Jam",
+        "url": "https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "My Jam",
+      "url": "https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 21",
+        "url": "https://open.spotify.com/album/272fQpCPOG9CcFHXs7dZyd"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/2oNJsgvVdw5YSqhn91p9Ta"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/73MDMbmuuEgkyv5LMiJV6w"
+      },
+      "artists": [
+        {
+          "name": "The Battersby Duo",
+          "url": "https://open.spotify.com/artist/5KwmbOHKArPzgbmnGUWLmc"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Rhythm of the Sway",
+      "url": "https://open.spotify.com/track/1L9LumzTPzhFDS4eaRMgZ2"
+    },
+    {
+      "album": {
+        "name": "I Like the Me I See!",
+        "url": "https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO"
+      },
+      "artists": [
+        {
+          "name": "Culture Queen",
+          "url": "https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "Rise & Rhyme",
+      "url": "https://open.spotify.com/track/3XxEPzTOhPEmm7aj60oLQt"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Hey!",
+        "url": "https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB"
+      },
+      "artists": [
+        {
+          "name": "Money Mark",
+          "url": "https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88186,
+      "name": "Robo Dancing",
+      "url": "https://open.spotify.com/track/5lIo031iOkz2v9kKVbT5lA"
+    },
+    {
+      "album": {
+        "name": "Appetite for Construction",
+        "url": "https://open.spotify.com/album/7DKfQFAPfVDwBwTdZd8hD3"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 205946,
+      "name": "Robot Dance",
+      "url": "https://open.spotify.com/track/0GZ2ci08NLxQYs0ECpAuqf"
+    },
+    {
+      "album": {
+        "name": "The Pop Ups Essentials",
+        "url": "https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205946,
+      "name": "Robot Dance",
+      "url": "https://open.spotify.com/track/470l84TRRT6uM8udVunIDb"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 27",
+        "url": "https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp"
+    },
+    {
+      "album": {
+        "name": "Action Songs: Wiggle & Shake",
+        "url": "https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC"
+      },
+      "artists": [
+        {
+          "name": "Tumble Tots",
+          "url": "https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71440,
+      "name": "Shake My Sillies",
+      "url": "https://open.spotify.com/track/2M4X7QY9WTJKaWgOd8EiVR"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Laurie Berkner Band Collection",
+        "url": "https://open.spotify.com/album/76WdfWymaHkKBU84g37Mmb"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186427,
+      "name": "Shake Your Body Down",
+      "url": "https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee"
+    },
+    {
+      "album": {
+        "name": "Baby Shark Workout",
+        "url": "https://open.spotify.com/album/0V5KVEfoY7PbQiG2njjG7I"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "Shark Dance Party",
+      "url": "https://open.spotify.com/track/4s8oZhFMG08lR3bIUckeYZ"
+    },
+    {
+      "album": {
+        "name": "Get Active (Movement Songs For Kids)",
+        "url": "https://open.spotify.com/album/0chaqHXFo1yKizeENc7Ak7"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "SiDE 2 SiDE - DANCE MiX",
+      "url": "https://open.spotify.com/track/0oft8qGAQLQsjMfV52oOuT"
+    },
+    {
+      "album": {
+        "name": "Action Songs: Wiggle & Shake",
+        "url": "https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC"
+      },
+      "artists": [
+        {
+          "name": "Tumble Tots",
+          "url": "https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101306,
+      "name": "Stand up, Sit Down",
+      "url": "https://open.spotify.com/track/1VuC4DJJwk420tTk9P8bf6"
+    },
+    {
+      "album": {
+        "name": "Get Active (Movement Songs For Kids)",
+        "url": "https://open.spotify.com/album/0chaqHXFo1yKizeENc7Ak7"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109735,
+      "name": "STRETCH 2",
+      "url": "https://open.spotify.com/track/2YqN1h7IdAWI11t9tTZwXt"
+    },
+    {
+      "album": {
+        "name": "The BeatBuds, Vol. 3",
+        "url": "https://open.spotify.com/album/2hHYn4OtrO7CWesvPQJhRf"
+      },
+      "artists": [
+        {
+          "name": "The BeatBuds",
+          "url": "https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214965,
+      "name": "The Dino Dance!",
+      "url": "https://open.spotify.com/track/3UmbpHb6wSstg3JjcUQwhP"
+    },
+    {
+      "album": {
+        "name": "The Floor is Lava Song for Kids",
+        "url": "https://open.spotify.com/album/3kbwCxMvfrfMzmdELRWVTE"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210187,
+      "name": "The Floor is Lava Song for Kids",
+      "url": "https://open.spotify.com/track/5EYSpobhxemmxtmYpDEg33"
+    },
+    {
+      "album": {
+        "name": "Lishy Lou and Lucky Too!",
+        "url": "https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Thingamajig",
+      "url": "https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0"
+    },
+    {
+      "album": {
+        "name": "Songs to Help Us Grow",
+        "url": "https://open.spotify.com/album/6JSpITNyolbJT78dHSZotS"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82968,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/5goHB66d3gZBoC8L762CZ0"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 28",
+        "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"
+    },
+    {
+      "album": {
+        "name": "Space Bots & Tater Tots",
+        "url": "https://open.spotify.com/album/4DZ9KDTVv1wvInrdqvKU6I"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92918,
+      "name": "Wiggle It",
+      "url": "https://open.spotify.com/track/4xHA5RyRlbVeT2sDslkczq"
+    },
+    {
+      "album": {
+        "name": "Two Little Sounds - Fun with Phonics and Numbers",
+        "url": "https://open.spotify.com/album/0MGC1gffi0HGqPZxRiidGi"
+      },
+      "artists": [
+        {
+          "name": "Hap Palmer",
+          "url": "https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97200,
+      "name": "Wiggy Wiggles Freeze Dance",
+      "url": "https://open.spotify.com/track/2d85Zcuzp4zMrSZS19qHnS"
+    },
+    {
+      "album": {
+        "name": "Fiesta Buena",
+        "url": "https://open.spotify.com/album/5VHide40URoPoaMJ5Ou0vK"
+      },
+      "artists": [
+        {
+          "name": "Dj Mam's",
+          "url": "https://open.spotify.com/artist/5zuopBYKiJaChp2XlYxtB8"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Zumba He Zumba Ha (feat. Soldat Jahman & Luis Guisao)",
+      "url": "https://open.spotify.com/track/00PhRxMpNWMaIgGLrYeSEB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXe3pcvm7DiYV"
 }

@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-10",
       "duration_ms": 175724,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
@@ -1680,10 +1680,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 218811,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Hablan Los P\u00e1jaros",
+        "url": "https://open.spotify.com/album/3pYi6ViS4cT8KBME5Qqg56"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218811,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/6q170s6Dnxe4njEXGcZPM4"
     },
     {
       "album": {

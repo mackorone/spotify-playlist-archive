@@ -1,574 +1,1383 @@
 {
-  "2022-06-05": 147,
-  "2022-06-06": 149,
-  "2022-06-07": 150,
-  "2022-06-08": 151,
-  "2022-06-09": 151,
-  "2022-06-10": 152,
-  "2022-06-11": 153,
-  "2022-06-12": 154,
-  "2022-06-13": 155,
-  "2022-06-14": 155,
-  "2022-06-15": 156,
-  "2022-06-16": 156,
-  "2022-06-17": 156,
-  "2022-06-18": 156,
-  "2022-06-19": 156,
-  "2022-06-20": 156,
-  "2022-06-21": 157,
-  "2022-06-22": 158,
-  "2022-06-23": 158,
-  "2022-06-24": 159,
-  "2022-06-25": 159,
-  "2022-06-26": 160,
-  "2022-06-27": 160,
-  "2022-06-28": 160,
-  "2022-06-29": 163,
-  "2022-06-30": 163,
-  "2022-07-01": 164,
-  "2022-07-02": 165,
-  "2022-07-03": 166,
-  "2022-07-04": 167,
-  "2022-07-05": 167,
-  "2022-07-06": 167,
-  "2022-07-07": 169,
-  "2022-07-08": 170,
-  "2022-07-09": 170,
-  "2022-07-10": 170,
-  "2022-07-11": 171,
-  "2022-07-12": 171,
-  "2022-07-13": 171,
-  "2022-07-14": 171,
-  "2022-07-15": 171,
-  "2022-07-16": 171,
-  "2022-07-17": 171,
-  "2022-07-18": 171,
-  "2022-07-19": 171,
-  "2022-07-20": 172,
-  "2022-07-21": 172,
-  "2022-07-22": 172,
-  "2022-07-23": 172,
-  "2022-07-24": 172,
-  "2022-07-25": 173,
-  "2022-07-26": 174,
-  "2022-07-27": 174,
-  "2022-07-28": 176,
-  "2022-07-29": 178,
-  "2022-07-30": 179,
-  "2022-07-31": 179,
-  "2022-08-01": 179,
-  "2022-08-02": 181,
-  "2022-08-03": 181,
-  "2022-08-04": 181,
-  "2022-08-05": 183,
-  "2022-08-06": 183,
-  "2022-08-07": 183,
-  "2022-08-08": 184,
-  "2022-08-09": 184,
-  "2022-08-10": 183,
-  "2022-08-11": 184,
-  "2022-08-12": 184,
-  "2022-08-13": 185,
-  "2022-08-14": 186,
-  "2022-08-15": 188,
-  "2022-08-16": 188,
-  "2022-08-17": 189,
-  "2022-08-18": 189,
-  "2022-08-19": 189,
-  "2022-08-20": 189,
-  "2022-08-21": 190,
-  "2022-08-22": 191,
-  "2022-08-23": 192,
-  "2022-08-24": 192,
-  "2022-08-25": 193,
-  "2022-08-26": 195,
-  "2022-08-27": 195,
-  "2022-08-28": 195,
-  "2022-08-29": 195,
-  "2022-08-30": 195,
-  "2022-08-31": 196,
-  "2022-09-01": 196,
-  "2022-09-02": 195,
-  "2022-09-03": 195,
-  "2022-09-04": 199,
-  "2022-09-05": 200,
-  "2022-09-06": 201,
-  "2022-09-07": 200,
-  "2022-09-09": 201,
-  "2022-09-10": 200,
-  "2022-09-11": 200,
-  "2022-09-12": 203,
-  "2022-09-13": 202,
-  "2022-09-15": 203,
-  "2022-09-16": 203,
-  "2022-09-17": 207,
-  "2022-09-18": 207,
-  "2022-09-19": 207,
-  "2022-09-20": 207,
-  "2022-09-21": 207,
-  "2022-09-22": 207,
-  "2022-09-23": 208,
-  "2022-09-24": 208,
-  "2022-09-25": 208,
-  "2022-09-26": 208,
-  "2022-09-27": 208,
-  "2022-09-28": 209,
-  "2022-09-29": 209,
-  "2022-09-30": 211,
-  "2022-10-01": 211,
-  "2022-10-02": 212,
-  "2022-10-03": 212,
-  "2022-10-04": 212,
-  "2022-10-05": 212,
-  "2022-10-06": 213,
-  "2022-10-07": 215,
-  "2022-10-08": 215,
-  "2022-10-09": 215,
-  "2022-10-10": 215,
-  "2022-10-11": 215,
-  "2022-10-12": 215,
-  "2022-10-13": 215,
-  "2022-10-14": 215,
-  "2022-10-15": 216,
-  "2022-10-16": 216,
-  "2022-10-17": 216,
-  "2022-10-18": 217,
-  "2022-10-19": 217,
-  "2022-10-20": 217,
-  "2022-10-21": 218,
-  "2022-10-22": 220,
-  "2022-10-23": 220,
-  "2022-10-24": 221,
-  "2022-10-25": 221,
-  "2022-10-26": 222,
-  "2022-10-27": 222,
-  "2022-10-28": 222,
-  "2022-10-29": 223,
-  "2022-10-30": 221,
-  "2022-10-31": 223,
-  "2022-11-01": 223,
-  "2022-11-02": 223,
-  "2022-11-03": 223,
-  "2022-11-04": 223,
-  "2022-11-05": 223,
-  "2022-11-06": 223,
-  "2022-11-07": 223,
-  "2022-11-08": 224,
-  "2022-11-09": 224,
-  "2022-11-10": 225,
-  "2022-11-11": 225,
-  "2022-11-12": 225,
-  "2022-11-13": 225,
-  "2022-11-14": 225,
-  "2022-11-15": 225,
-  "2022-11-16": 225,
-  "2022-11-17": 225,
-  "2022-11-18": 225,
-  "2022-11-19": 225,
-  "2022-11-20": 225,
-  "2022-11-21": 225,
-  "2022-11-22": 225,
-  "2022-11-23": 226,
-  "2022-11-24": 226,
-  "2022-11-25": 226,
-  "2022-11-26": 227,
-  "2022-11-27": 227,
-  "2022-11-28": 227,
-  "2022-11-29": 227,
-  "2022-11-30": 226,
-  "2022-12-01": 226,
-  "2022-12-02": 226,
-  "2022-12-03": 227,
-  "2022-12-04": 228,
-  "2022-12-05": 229,
-  "2022-12-06": 229,
-  "2022-12-07": 232,
-  "2022-12-08": 232,
-  "2022-12-09": 232,
-  "2022-12-10": 232,
-  "2022-12-11": 232,
-  "2022-12-12": 235,
-  "2022-12-13": 236,
-  "2022-12-14": 237,
-  "2022-12-15": 237,
-  "2022-12-16": 237,
-  "2022-12-17": 237,
-  "2022-12-18": 238,
-  "2022-12-19": 238,
-  "2022-12-20": 241,
-  "2022-12-21": 241,
-  "2022-12-22": 243,
-  "2022-12-24": 245,
-  "2022-12-25": 245,
-  "2022-12-26": 245,
-  "2022-12-27": 245,
-  "2022-12-28": 247,
-  "2022-12-29": 247,
-  "2022-12-30": 249,
-  "2022-12-31": 249,
-  "2023-01-01": 250,
-  "2023-01-02": 250,
-  "2023-01-03": 251,
-  "2023-01-04": 251,
-  "2023-01-05": 251,
-  "2023-01-06": 251,
-  "2023-01-07": 251,
-  "2023-01-08": 251,
-  "2023-01-09": 251,
-  "2023-01-10": 251,
-  "2023-01-11": 251,
-  "2023-01-12": 252,
-  "2023-01-13": 253,
-  "2023-01-14": 254,
-  "2023-01-15": 254,
-  "2023-01-16": 254,
-  "2023-01-17": 255,
-  "2023-01-18": 255,
-  "2023-01-19": 256,
-  "2023-01-20": 257,
-  "2023-01-21": 257,
-  "2023-01-22": 258,
-  "2023-01-23": 257,
-  "2023-01-24": 257,
-  "2023-01-25": 258,
-  "2023-01-26": 258,
-  "2023-01-27": 258,
-  "2023-01-28": 258,
-  "2023-01-29": 259,
-  "2023-01-30": 259,
-  "2023-01-31": 259,
-  "2023-02-01": 260,
-  "2023-02-02": 262,
-  "2023-02-03": 263,
-  "2023-02-04": 263,
-  "2023-02-05": 263,
-  "2023-02-06": 263,
-  "2023-02-07": 264,
-  "2023-02-08": 265,
-  "2023-02-09": 265,
-  "2023-02-10": 265,
-  "2023-02-11": 265,
-  "2023-02-12": 265,
-  "2023-02-13": 265,
-  "2023-02-14": 265,
-  "2023-02-15": 265,
-  "2023-02-16": 265,
-  "2023-02-17": 265,
-  "2023-02-18": 266,
-  "2023-02-19": 266,
-  "2023-02-20": 266,
-  "2023-02-21": 267,
-  "2023-02-22": 268,
-  "2023-02-23": 268,
-  "2023-02-24": 269,
-  "2023-02-25": 270,
-  "2023-02-26": 270,
-  "2023-02-27": 271,
-  "2023-02-28": 271,
-  "2023-03-01": 273,
-  "2023-03-02": 272,
-  "2023-03-03": 273,
-  "2023-03-04": 273,
-  "2023-03-05": 274,
-  "2023-03-06": 274,
-  "2023-03-07": 274,
-  "2023-03-08": 274,
-  "2023-03-09": 274,
-  "2023-03-10": 275,
-  "2023-03-11": 276,
-  "2023-03-12": 278,
-  "2023-03-13": 278,
-  "2023-03-14": 279,
-  "2023-03-15": 279,
-  "2023-03-16": 279,
-  "2023-03-17": 279,
-  "2023-03-18": 280,
-  "2023-03-19": 280,
-  "2023-03-20": 281,
-  "2023-03-21": 281,
-  "2023-03-22": 281,
-  "2023-03-23": 282,
-  "2023-03-24": 282,
-  "2023-03-25": 283,
-  "2023-03-26": 283,
-  "2023-03-27": 284,
-  "2023-03-28": 286,
-  "2023-03-29": 287,
-  "2023-03-30": 288,
-  "2023-03-31": 288,
-  "2023-04-01": 289,
-  "2023-04-02": 290,
-  "2023-04-03": 291,
-  "2023-04-04": 293,
-  "2023-04-05": 293,
-  "2023-04-06": 293,
-  "2023-04-07": 292,
-  "2023-04-09": 295,
-  "2023-04-10": 295,
-  "2023-04-11": 296,
-  "2023-04-12": 296,
-  "2023-04-13": 297,
-  "2023-04-14": 298,
-  "2023-04-15": 298,
-  "2023-04-16": 298,
-  "2023-04-17": 299,
-  "2023-04-18": 299,
-  "2023-04-19": 299,
-  "2023-04-20": 299,
-  "2023-04-21": 299,
-  "2023-04-22": 299,
-  "2023-04-23": 299,
-  "2023-04-24": 300,
-  "2023-04-25": 301,
-  "2023-04-26": 301,
-  "2023-04-27": 302,
-  "2023-04-28": 303,
-  "2023-04-29": 303,
-  "2023-04-30": 304,
-  "2023-05-01": 304,
-  "2023-05-02": 304,
-  "2023-05-03": 304,
-  "2023-05-04": 304,
-  "2023-05-05": 304,
-  "2023-05-06": 303,
-  "2023-05-07": 303,
-  "2023-05-08": 303,
-  "2023-05-09": 304,
-  "2023-05-10": 304,
-  "2023-05-11": 304,
-  "2023-05-12": 304,
-  "2023-05-13": 305,
-  "2023-05-14": 306,
-  "2023-05-15": 306,
-  "2023-05-16": 306,
-  "2023-05-17": 306,
-  "2023-05-18": 307,
-  "2023-05-19": 307,
-  "2023-05-20": 308,
-  "2023-05-21": 308,
-  "2023-05-22": 308,
-  "2023-05-23": 308,
-  "2023-05-24": 308,
-  "2023-05-25": 308,
-  "2023-05-26": 308,
-  "2023-05-27": 308,
-  "2023-05-28": 308,
-  "2023-05-29": 308,
-  "2023-05-30": 309,
-  "2023-05-31": 309,
-  "2023-06-01": 309,
-  "2023-06-02": 309,
-  "2023-06-03": 309,
-  "2023-06-04": 309,
-  "2023-06-05": 310,
-  "2023-06-06": 311,
-  "2023-06-07": 311,
-  "2023-06-08": 311,
-  "2023-06-09": 312,
-  "2023-06-10": 313,
-  "2023-06-11": 314,
-  "2023-06-12": 314,
-  "2023-06-13": 314,
-  "2023-06-14": 314,
-  "2023-06-15": 314,
-  "2023-06-16": 315,
-  "2023-06-17": 316,
-  "2023-06-18": 316,
-  "2023-06-19": 316,
-  "2023-06-20": 318,
-  "2023-06-21": 316,
-  "2023-06-22": 316,
-  "2023-06-23": 317,
-  "2023-06-24": 318,
-  "2023-06-25": 318,
-  "2023-06-26": 317,
-  "2023-06-27": 318,
-  "2023-06-28": 319,
-  "2023-06-29": 318,
-  "2023-06-30": 319,
-  "2023-07-01": 318,
-  "2023-07-02": 318,
-  "2023-07-03": 317,
-  "2023-07-04": 318,
-  "2023-07-05": 318,
-  "2023-07-06": 317,
-  "2023-07-07": 317,
-  "2023-07-08": 317,
-  "2023-07-09": 318,
-  "2023-07-10": 318,
-  "2023-07-11": 317,
-  "2023-07-12": 318,
-  "2023-07-13": 318,
-  "2023-07-14": 318,
-  "2023-07-15": 318,
-  "2023-07-16": 318,
-  "2023-07-17": 320,
-  "2023-07-18": 321,
-  "2023-07-19": 321,
-  "2023-07-20": 321,
-  "2023-07-21": 323,
-  "2023-07-22": 324,
-  "2023-07-23": 324,
-  "2023-07-24": 325,
-  "2023-07-25": 325,
-  "2023-07-26": 325,
-  "2023-07-27": 325,
-  "2023-07-28": 325,
-  "2023-07-29": 327,
-  "2023-07-30": 327,
-  "2023-07-31": 328,
-  "2023-08-01": 328,
-  "2023-08-02": 329,
-  "2023-08-03": 329,
-  "2023-08-04": 328,
-  "2023-08-05": 328,
-  "2023-08-06": 329,
-  "2023-08-07": 329,
-  "2023-08-08": 331,
-  "2023-08-09": 331,
-  "2023-08-10": 331,
-  "2023-08-11": 330,
-  "2023-08-12": 330,
-  "2023-08-13": 330,
-  "2023-08-14": 330,
-  "2023-08-15": 330,
-  "2023-08-16": 330,
-  "2023-08-17": 330,
-  "2023-08-18": 330,
-  "2023-08-19": 330,
-  "2023-08-20": 332,
-  "2023-08-21": 332,
-  "2023-08-22": 333,
-  "2023-08-23": 333,
-  "2023-08-24": 333,
-  "2023-08-25": 333,
-  "2023-08-26": 333,
-  "2023-08-27": 333,
-  "2023-08-28": 335,
-  "2023-08-29": 335,
-  "2023-08-30": 335,
-  "2023-08-31": 334,
-  "2023-09-01": 336,
-  "2023-09-02": 336,
-  "2023-09-03": 336,
-  "2023-09-04": 336,
-  "2023-09-05": 336,
-  "2023-09-06": 336,
-  "2023-09-07": 336,
-  "2023-09-08": 336,
-  "2023-09-09": 336,
-  "2023-09-10": 336,
-  "2023-09-11": 336,
-  "2023-09-12": 336,
-  "2023-09-13": 336,
-  "2023-09-14": 336,
-  "2023-09-15": 336,
-  "2023-09-16": 336,
-  "2023-09-17": 336,
-  "2023-09-18": 336,
-  "2023-09-19": 336,
-  "2023-09-20": 336,
-  "2023-09-21": 336,
-  "2023-09-22": 336,
-  "2023-09-23": 336,
-  "2023-09-24": 336,
-  "2023-09-25": 336,
-  "2023-09-26": 347,
-  "2023-09-27": 347,
-  "2023-09-28": 347,
-  "2023-09-29": 347,
-  "2023-09-30": 347,
-  "2023-10-01": 347,
-  "2023-10-02": 347,
-  "2023-10-03": 347,
-  "2023-10-04": 347,
-  "2023-10-05": 347,
-  "2023-10-06": 347,
-  "2023-10-07": 347,
-  "2023-10-08": 347,
-  "2023-10-09": 347,
-  "2023-10-10": 347,
-  "2023-10-11": 347,
-  "2023-10-12": 347,
-  "2023-10-13": 347,
-  "2023-10-14": 347,
-  "2023-10-15": 347,
-  "2023-10-16": 347,
-  "2023-10-17": 347,
-  "2023-10-18": 347,
-  "2023-10-19": 347,
-  "2023-10-20": 347,
-  "2023-10-21": 347,
-  "2023-10-22": 347,
-  "2023-10-23": 347,
-  "2023-10-24": 347,
-  "2023-10-25": 347,
-  "2023-10-26": 347,
-  "2023-10-27": 347,
-  "2023-10-28": 347,
-  "2023-10-29": 347,
-  "2023-10-30": 347,
-  "2023-10-31": 347,
-  "2023-11-01": 347,
-  "2023-11-02": 347,
-  "2023-11-03": 347,
-  "2023-11-04": 347,
-  "2023-11-05": 347,
-  "2023-11-06": 347,
-  "2023-11-07": 347,
-  "2023-11-08": 347,
-  "2023-11-09": 347,
-  "2023-11-10": 347,
-  "2023-11-11": 347,
-  "2023-11-12": 347,
-  "2023-11-13": 347,
-  "2023-11-14": 347,
-  "2023-11-15": 347,
-  "2023-11-16": 347,
-  "2023-11-17": 347,
-  "2023-11-18": 347,
-  "2023-11-19": 347,
-  "2023-11-20": 347,
-  "2023-11-21": 347,
-  "2023-11-22": 347,
-  "2023-11-23": 347,
-  "2023-11-24": 347,
-  "2023-11-25": 347,
-  "2023-11-26": 347,
-  "2023-11-27": 347,
-  "2023-11-28": 347,
-  "2023-11-29": 347,
-  "2023-11-30": 347,
-  "2023-12-01": 347,
-  "2023-12-02": 347,
-  "2023-12-03": 347,
-  "2023-12-04": 347,
-  "2023-12-05": 347,
-  "2023-12-06": 347,
-  "2023-12-07": 347,
-  "2023-12-08": 347,
-  "2023-12-09": 347,
-  "2023-12-10": 347,
-  "2023-12-11": 347,
-  "2023-12-12": 347,
-  "2023-12-13": 347,
-  "2023-12-14": 359,
-  "2023-12-15": 359,
-  "2023-12-16": 359,
-  "2023-12-17": 360,
-  "2023-12-18": 360,
-  "2023-12-19": 359,
-  "2023-12-20": 359,
-  "2023-12-21": 359,
-  "2023-12-22": 358,
-  "2023-12-23": 358,
-  "2023-12-24": 358,
-  "2023-12-25": 358,
-  "2023-12-26": 358,
-  "2023-12-27": 358,
-  "2023-12-30": 359,
-  "2023-12-31": 359,
-  "2024-01-01": 359,
-  "2024-01-02": 359,
-  "2024-01-03": 360
+  "2024-01-17": 361,
+  "date_first_scraped": "2022-06-05",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa\">Luiz de Assis</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Luiz de Assis",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "1655 - Zumbi",
+      "url": "https://open.spotify.com/track/5MsOxXSGCq3x9G031ZAsnT"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277722,
+      "name": "A Cor",
+      "url": "https://open.spotify.com/track/1qD89mqTrXyq5QGWBtko6Z"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195964,
+      "name": "A Hora da Virada",
+      "url": "https://open.spotify.com/track/2DxcpDSp3ebJjQFZkNk7af"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "A Nuvem Passar\u00e1",
+      "url": "https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302405,
+      "name": "Apenas um Instrumento",
+      "url": "https://open.spotify.com/track/2jBAQgqdQWT5G0c4yBebR4"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210129,
+      "name": "Avante",
+      "url": "https://open.spotify.com/track/5rJ3s9LiQjY7qQCrUSWlZ9"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241186,
+      "name": "Bate Moleque",
+      "url": "https://open.spotify.com/track/0PoFl0ZuL5nh3u7z3ZKpu9"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "Bom Amigo",
+      "url": "https://open.spotify.com/track/0MY2maHNW1bTTRZrD75qYr"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Alex NSC",
+          "url": "https://open.spotify.com/artist/2c8NPTv8TrlGQNh13qXz9e"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 203735,
+      "name": "Cair\u00e1",
+      "url": "https://open.spotify.com/track/5h83k5YqRVsRmCxM45Hwkn"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263160,
+      "name": "Condores",
+      "url": "https://open.spotify.com/track/2e4UqGl4uZCoy3OiQZnZtU"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Fauzi Beydoun",
+          "url": "https://open.spotify.com/artist/1vHuQfr8LwXBa17DPHRWaF"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 229407,
+      "name": "Confronto",
+      "url": "https://open.spotify.com/track/5Y0N6iSEr3AgU06xamAZl8"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245585,
+      "name": "Congo-Bongo",
+      "url": "https://open.spotify.com/track/3Sm6jw1y0TULKqECkoDq2w"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "Constru\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/132ESaIYKuN5jWJeyPWenN"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/6R4eIow8KkeoLRaMImEupA"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 296100,
+      "name": "Derradeiro",
+      "url": "https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls"
+    },
+    {
+      "album": {
+        "name": "Persevere (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306195,
+      "name": "Derradeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248778,
+      "name": "Destemido Le\u00e3o",
+      "url": "https://open.spotify.com/track/5enTOdF1aPAfHHIr5AOACY"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307350,
+      "name": "D\u00favidas",
+      "url": "https://open.spotify.com/track/4DTaIg8SsZ40HyNR9tzIj4"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 170404,
+      "name": "Energia Pura",
+      "url": "https://open.spotify.com/track/6EuUwMvOChmivpCiUbc8Zx"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264370,
+      "name": "Ess\u00eancia Pura",
+      "url": "https://open.spotify.com/track/4b3NtZfP4stIhX4x0i5f1X"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/6Fa39cGOfU6amdyGH8ehGk"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 265009,
+      "name": "Eu Me Precipitei",
+      "url": "https://open.spotify.com/track/13bnBIfbcjmUFOPwNn7QTq"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Eu Me Precipitei",
+      "url": "https://open.spotify.com/track/6QcnrB9K9mLlbZQ8c6wpkT"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "Eu Vi",
+      "url": "https://open.spotify.com/track/5CMSSsWrLvHwurRcdNBbqw"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305933,
+      "name": "Ex\u00e9rcito de Jah",
+      "url": "https://open.spotify.com/track/5T8jiM1mrYeu7mlcBaIFgy"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Spiritual",
+          "url": "https://open.spotify.com/artist/3iLfHHQQYFPgsT3XE58LbJ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 217759,
+      "name": "Feel The Vibes",
+      "url": "https://open.spotify.com/track/3m2QnDXrOSPc0HTUYAAwwR"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 208353,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/4KYySzLQSw7gOYamsHwL2U"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Ad\u00e3o Negro",
+          "url": "https://open.spotify.com/artist/4lH76hEdSMHe60KOmDbUq3"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 215707,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/0ozDCUAUDVUGX9iNrgcb3Z"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233240,
+      "name": "Guardi\u00e3o",
+      "url": "https://open.spotify.com/track/2urMsGx4j1ZBVa0gDW4uek"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152573,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6kfZCeHGVpGIXEEYYdsjBy"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219149,
+      "name": "Homens de Rapina",
+      "url": "https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248186,
+      "name": "H\u00e1 Babil\u00f4nia",
+      "url": "https://open.spotify.com/track/6EDx91ASTLq4b5WBl8b52N"
+    },
+    {
+      "album": {
+        "name": "Levanta Sua Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/0kHiC8Iu34JhXoVcH79Ysl"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180416,
+      "name": "Levanta Sua Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1ixin8ZxtSD8mXaOSxBEDH"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183830,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/2MlqMhLBbCl1pG0gdILQWU"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282517,
+      "name": "Majestade Imperial",
+      "url": "https://open.spotify.com/track/2aQuclmh2JGAkSDdo6qnWr"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 205440,
+      "name": "Mar de Luz",
+      "url": "https://open.spotify.com/track/5ogZ0BhJqplsxQO1KvDtte"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Rodrigo Piccolo",
+          "url": "https://open.spotify.com/artist/52aLYcePUE9EfD3Q5vvKpz"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 228935,
+      "name": "Me Wan",
+      "url": "https://open.spotify.com/track/4PdcH15HcWzSG1D85Uo7t8"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Mentes Livres",
+      "url": "https://open.spotify.com/track/33kS2z12bSvgTE5xoayQrA"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230063,
+      "name": "Mexa-Se",
+      "url": "https://open.spotify.com/track/5D3O0licDSvPL1vHmuLFnx"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 212609,
+      "name": "Min e As Flores",
+      "url": "https://open.spotify.com/track/6mFzBsJnhujfsXS8rTVrgF"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234695,
+      "name": "Munda\u00fa Pede Socorro",
+      "url": "https://open.spotify.com/track/6l1B31s12kxhkEuova6scN"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432100,
+      "name": "M\u00e3e \u00c1frica",
+      "url": "https://open.spotify.com/track/3mVzDuDlDN7J9qogCsC7f5"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 284653,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/6n8Pek88cYFjOwijJtXGef"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291640,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4spDAAIKREnqX20szMXJva"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "M\u00fasica pra Despertar",
+      "url": "https://open.spotify.com/track/3yYyhvC7LePFFG6ZCE8eIX"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229169,
+      "name": "Natureza M\u00e3e",
+      "url": "https://open.spotify.com/track/3olNqFP6HRyQuuMNk9Hzxo"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275632,
+      "name": "O Grito Que Vem da Selva",
+      "url": "https://open.spotify.com/track/1nlby1Ihfs5BzpJTLyI98i"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269537,
+      "name": "O Trem da Vida",
+      "url": "https://open.spotify.com/track/1S5UDMSaEzTZlXNppJ4dJr"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232571,
+      "name": "O Vivo Ir\u00e1 Perceber",
+      "url": "https://open.spotify.com/track/3JSeSDz5deyZTDef7S4W0W"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280055,
+      "name": "Olhos Verdes",
+      "url": "https://open.spotify.com/track/1IJnD8eudZeKV8GqISVfZv"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 186159,
+      "name": "Ordem e Progresso",
+      "url": "https://open.spotify.com/track/7npk0ukq841MUA4WWCNKpy"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179014,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/3xIuG7kBU8x07pOzkPVmvW"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "Pedra",
+      "url": "https://open.spotify.com/track/5AYRLHJ7Tx5H69Xjh2GDUE"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201467,
+      "name": "Pedra Que N\u00e3o Foi Polida",
+      "url": "https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359735,
+      "name": "Portal Divino",
+      "url": "https://open.spotify.com/track/3op7K5KIqRHn414qISieDb"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "Posso Fugir",
+      "url": "https://open.spotify.com/track/4sMgpCEMFgsOF3DzXhq0xV"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 192220,
+      "name": "Pretinha Minha",
+      "url": "https://open.spotify.com/track/1XYXU6UaxtJzslWKAiG6WO"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237342,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/74MxjEIlybUbXPn2kNtw8n"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 163521,
+      "name": "Ruma de Ladr\u00e3o",
+      "url": "https://open.spotify.com/track/6gKmOoledFUFqVS7AfwFCe"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260946,
+      "name": "Sadrak, Mesak e Abed-Nego",
+      "url": "https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227067,
+      "name": "Sagrado Si\u00e3o",
+      "url": "https://open.spotify.com/track/5CeXorocm9cpk6GE2gO08V"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "Sa\u00fade Mental",
+      "url": "https://open.spotify.com/track/7jeMV1DH16GzjeYctu8KJh"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255756,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/2jgOBt27W91zPMDQV82efy"
+    },
+    {
+      "album": {
+        "name": "R\u00fastico",
+        "url": "https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 364669,
+      "name": "Sincronia (Recado a Eu)",
+      "url": "https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU"
+    },
+    {
+      "album": {
+        "name": "Persevere (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335237,
+      "name": "Sincronia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2InaWa7S0YdwnIn0Ls7H0c"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 202614,
+      "name": "Sintonizando",
+      "url": "https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340683,
+      "name": "Sossegado",
+      "url": "https://open.spotify.com/track/50JIuufaDwXtipM1PW5JeU"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255326,
+      "name": "S\u00f3 Jah",
+      "url": "https://open.spotify.com/track/2eqH6gTfvXmV7I301obWiy"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 207737,
+      "name": "Tempo de Renova\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6S3FO1J2okpv5TRuzYFS7w"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 246996,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/7HH4BzizeWnpKwou11wvjO"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Ver\u00e3o de Macei\u00f3",
+      "url": "https://open.spotify.com/track/6jUCgRxUKqvYNjLhGku4lv"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258924,
+      "name": "Vibra\u00e7\u00f5es Rasta",
+      "url": "https://open.spotify.com/track/3x5ZbTeiUxeOS6k3p5rwYf"
+    },
+    {
+      "album": {
+        "name": "Vibra\u00e7\u00f5es Rasta",
+        "url": "https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227567,
+      "name": "Vou Queimando",
+      "url": "https://open.spotify.com/track/4JKMGo8NqmKAuuR3M0MqHn"
+    },
+    {
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243112,
+      "name": "V\u00edtima",
+      "url": "https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz"
+    },
+    {
+      "album": {
+        "name": "Quilombagem",
+        "url": "https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Zumbi Vive",
+      "url": "https://open.spotify.com/track/4cDZVA6arbGWt3ARAGHiPZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFyV9fxDBL8dp"
 }

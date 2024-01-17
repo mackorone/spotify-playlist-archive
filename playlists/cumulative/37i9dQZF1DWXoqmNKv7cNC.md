@@ -2,7 +2,7 @@
 
 ### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Mujeres mexicanas icónicas del 2023 a todo volumen! Vivir Quintana en portada.
+> ¡Mujeres mexicanas icónicas del 2023 a todo volumen!
 
 904 songs - 2 day 1 hr 39 min
 

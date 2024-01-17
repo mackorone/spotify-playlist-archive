@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-132 songs - 8 hr 49 min
+135 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 | 2023-03-30 |  |
 | [Demolición](https://open.spotify.com/track/3dTcwy3L3fOP0vm4Lz0zdD) | [Los Saicos](https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv) | [¡Demolición! The Complete Recordings](https://open.spotify.com/album/3Ai7SkBLKNZusgIRiP1R1M) | 2:57 | 2023-03-30 |  |
 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 | 2023-03-30 |  |
-| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 | 2023-03-30 |  |
+| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/2doP03mm7jr6TQ1m2pkbbk) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 4:52 | 2023-03-30 |  |
+| [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 | 2023-03-30 | 2024-01-04 |
 | [Déjate Caer](https://open.spotify.com/track/1xtBatmC1muBOY1RnUvP8Z) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:22 | 2023-03-30 |  |
 | [Día Extraño](https://open.spotify.com/track/09JI62BSHJdqgd88LwZN2S) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 5:02 | 2023-03-30 |  |
 | [Eiti\-Leda \(Remasterizado 2021\)](https://open.spotify.com/track/6kbpMfsWlfpB2zFTDUH92f) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 6:58 | 2023-03-30 |  |
@@ -57,7 +58,8 @@
 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 | 2023-03-30 |  |
 | [Hombres de hierro](https://open.spotify.com/track/2JYIwI2gvuUbvEJdmJ7Aqn) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 4:37 | 2023-03-30 |  |
 | [Hombres de hierro](https://open.spotify.com/track/5YcGLMLhYZlFznMAUbp8fs) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 4:37 | 2023-03-30 | 2023-04-13 |
-| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-03-30 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 5:34 | 2023-03-30 |  |
+| [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 | 2023-03-30 | 2024-01-13 |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2023-03-30 |  |
 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 | 2023-03-30 |  |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2023-03-30 |  |
@@ -75,7 +77,8 @@
 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/4OJM6ltkeohPEkxvSugNBk) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:31 | 2023-03-30 |  |
 | [Los Dinosaurios](https://open.spotify.com/track/3VCKdfJAL8DTDlwZw5O6Ik) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:28 | 2023-03-30 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 | 2023-03-30 | 2023-12-09 |
-| [Lunes Por La Madrugada](https://open.spotify.com/track/3H5nkDbMCRFB4bdLv40H4D) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:16 | 2023-03-30 |  |
+| [Lunes Por La Madrugada](https://open.spotify.com/track/3H5nkDbMCRFB4bdLv40H4D) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:16 | 2023-03-30 | 2024-01-05 |
+| [Lunes Por La Madrugada \- 1994 Remastered Version](https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 3:14 | 2023-03-30 |  |
 | [Mariguana](https://open.spotify.com/track/7tg2dbJi72K4cK4kjdp2g2) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:02 | 2023-03-30 |  |
 | [Matador \- Remasterizado 2008](https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacíos](https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4) | 4:35 | 2023-03-30 |  |
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2023-03-30 |  |

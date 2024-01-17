@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Arpaviejas.
 
-93 songs - 4 hr 58 min
+94 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Esclavos del Siglo XXI](https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 2:39 | 2023-12-08 |  |
 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 | 2023-12-08 |  |
 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 | 2023-12-08 |  |
-| [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 | 2023-12-08 |  |
+| [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 | 2023-12-08 | 2024-01-12 |
 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 | 2023-12-08 |  |
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 |  |
@@ -75,6 +75,7 @@
 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 | 2023-12-08 |  |
 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 | 2023-12-08 |  |
 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 | 2023-12-08 |  |
+| [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 | 2023-12-28 |  |
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 |  |
 | [Otra Vez en Tus Manos](https://open.spotify.com/track/2cLQLHwrwwE1eljpXdDyRQ) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Mar Etílico](https://open.spotify.com/album/7yK5Z8ZRUm2UBWotLfDlKB) | 2:33 | 2023-12-08 |  |

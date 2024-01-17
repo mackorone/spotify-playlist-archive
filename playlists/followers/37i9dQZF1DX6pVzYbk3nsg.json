@@ -1,315 +1,1257 @@
 {
-  "2023-02-22": 1,
-  "2023-02-23": 15,
-  "2023-02-24": 36,
-  "2023-02-25": 56,
-  "2023-02-26": 67,
-  "2023-02-27": 83,
-  "2023-02-28": 83,
-  "2023-03-01": 110,
-  "2023-03-02": 131,
-  "2023-03-03": 151,
-  "2023-03-04": 169,
-  "2023-03-05": 199,
-  "2023-03-06": 199,
-  "2023-03-07": 222,
-  "2023-03-08": 240,
-  "2023-03-09": 254,
-  "2023-03-10": 273,
-  "2023-03-11": 293,
-  "2023-03-12": 309,
-  "2023-03-13": 326,
-  "2023-03-14": 345,
-  "2023-03-15": 363,
-  "2023-03-16": 375,
-  "2023-03-17": 375,
-  "2023-03-18": 392,
-  "2023-03-19": 404,
-  "2023-03-20": 422,
-  "2023-03-21": 434,
-  "2023-03-22": 449,
-  "2023-03-23": 466,
-  "2023-03-24": 466,
-  "2023-03-25": 488,
-  "2023-03-26": 501,
-  "2023-03-27": 512,
-  "2023-03-28": 523,
-  "2023-03-29": 538,
-  "2023-03-30": 562,
-  "2023-03-31": 562,
-  "2023-04-01": 585,
-  "2023-04-02": 608,
-  "2023-04-03": 621,
-  "2023-04-04": 635,
-  "2023-04-05": 650,
-  "2023-04-06": 663,
-  "2023-04-07": 672,
-  "2023-04-09": 710,
-  "2023-04-10": 733,
-  "2023-04-11": 748,
-  "2023-04-12": 748,
-  "2023-04-13": 758,
-  "2023-04-14": 771,
-  "2023-04-15": 780,
-  "2023-04-16": 798,
-  "2023-04-17": 821,
-  "2023-04-18": 837,
-  "2023-04-19": 853,
-  "2023-04-20": 866,
-  "2023-04-21": 890,
-  "2023-04-22": 901,
-  "2023-04-23": 922,
-  "2023-04-24": 942,
-  "2023-04-25": 951,
-  "2023-04-26": 961,
-  "2023-04-27": 976,
-  "2023-04-28": 986,
-  "2023-04-29": 994,
-  "2023-04-30": 1009,
-  "2023-05-01": 1020,
-  "2023-05-02": 1024,
-  "2023-05-03": 1040,
-  "2023-05-04": 1048,
-  "2023-05-05": 1055,
-  "2023-05-06": 1061,
-  "2023-05-07": 1077,
-  "2023-05-08": 1091,
-  "2023-05-09": 1099,
-  "2023-05-10": 1117,
-  "2023-05-11": 1126,
-  "2023-05-12": 1141,
-  "2023-05-13": 1160,
-  "2023-05-14": 1168,
-  "2023-05-15": 1180,
-  "2023-05-16": 1195,
-  "2023-05-17": 1205,
-  "2023-05-18": 1218,
-  "2023-05-19": 1225,
-  "2023-05-20": 1247,
-  "2023-05-21": 1247,
-  "2023-05-22": 1247,
-  "2023-05-23": 1269,
-  "2023-05-24": 1291,
-  "2023-05-25": 1295,
-  "2023-05-26": 1308,
-  "2023-05-27": 1322,
-  "2023-05-28": 1340,
-  "2023-05-29": 1340,
-  "2023-05-30": 1368,
-  "2023-05-31": 1378,
-  "2023-06-01": 1395,
-  "2023-06-02": 1406,
-  "2023-06-03": 1419,
-  "2023-06-04": 1433,
-  "2023-06-05": 1450,
-  "2023-06-06": 1463,
-  "2023-06-07": 1476,
-  "2023-06-08": 1491,
-  "2023-06-09": 1506,
-  "2023-06-10": 1554,
-  "2023-06-11": 1600,
-  "2023-06-12": 1642,
-  "2023-06-13": 1681,
-  "2023-06-14": 1694,
-  "2023-06-15": 1706,
-  "2023-06-16": 1717,
-  "2023-06-17": 1723,
-  "2023-06-18": 1732,
-  "2023-06-19": 1751,
-  "2023-06-20": 1755,
-  "2023-06-21": 1764,
-  "2023-06-22": 1770,
-  "2023-06-23": 1777,
-  "2023-06-24": 1785,
-  "2023-06-25": 1798,
-  "2023-06-26": 1805,
-  "2023-06-27": 1818,
-  "2023-06-28": 1824,
-  "2023-06-29": 1832,
-  "2023-06-30": 1836,
-  "2023-07-01": 1857,
-  "2023-07-02": 1857,
-  "2023-07-03": 1867,
-  "2023-07-04": 1874,
-  "2023-07-05": 1888,
-  "2023-07-06": 1903,
-  "2023-07-07": 1903,
-  "2023-07-08": 1916,
-  "2023-07-09": 1923,
-  "2023-07-10": 1938,
-  "2023-07-11": 1950,
-  "2023-07-12": 1967,
-  "2023-07-13": 1984,
-  "2023-07-14": 1997,
-  "2023-07-15": 2001,
-  "2023-07-16": 2013,
-  "2023-07-17": 2018,
-  "2023-07-18": 2024,
-  "2023-07-19": 2039,
-  "2023-07-20": 2048,
-  "2023-07-21": 2053,
-  "2023-07-22": 2070,
-  "2023-07-23": 2084,
-  "2023-07-24": 2091,
-  "2023-07-25": 2095,
-  "2023-07-26": 2107,
-  "2023-07-27": 2117,
-  "2023-07-28": 2121,
-  "2023-07-29": 2129,
-  "2023-07-30": 2141,
-  "2023-07-31": 2151,
-  "2023-08-01": 2165,
-  "2023-08-02": 2174,
-  "2023-08-03": 2183,
-  "2023-08-04": 2196,
-  "2023-08-05": 2214,
-  "2023-08-06": 2236,
-  "2023-08-07": 2236,
-  "2023-08-08": 2245,
-  "2023-08-09": 2252,
-  "2023-08-10": 2263,
-  "2023-08-11": 2271,
-  "2023-08-12": 2279,
-  "2023-08-13": 2294,
-  "2023-08-14": 2300,
-  "2023-08-15": 2325,
-  "2023-08-16": 2325,
-  "2023-08-17": 2335,
-  "2023-08-18": 2340,
-  "2023-08-19": 2349,
-  "2023-08-20": 2359,
-  "2023-08-21": 2374,
-  "2023-08-22": 2385,
-  "2023-08-23": 2390,
-  "2023-08-24": 2399,
-  "2023-08-25": 2409,
-  "2023-08-26": 2423,
-  "2023-08-27": 2442,
-  "2023-08-28": 2458,
-  "2023-08-29": 2464,
-  "2023-08-30": 2473,
-  "2023-08-31": 2483,
-  "2023-09-01": 2523,
-  "2023-09-02": 2523,
-  "2023-09-03": 2530,
-  "2023-09-04": 2536,
-  "2023-09-05": 2550,
-  "2023-09-06": 2566,
-  "2023-09-07": 2584,
-  "2023-09-08": 2591,
-  "2023-09-09": 2604,
-  "2023-09-10": 2617,
-  "2023-09-11": 2630,
-  "2023-09-12": 2645,
-  "2023-09-13": 2658,
-  "2023-09-14": 2671,
-  "2023-09-15": 2683,
-  "2023-09-16": 2699,
-  "2023-09-17": 2710,
-  "2023-09-18": 2725,
-  "2023-09-19": 2736,
-  "2023-09-20": 2747,
-  "2023-09-21": 2766,
-  "2023-09-22": 2783,
-  "2023-09-23": 2798,
-  "2023-09-24": 2821,
-  "2023-09-25": 2834,
-  "2023-09-26": 2849,
-  "2023-09-27": 2858,
-  "2023-09-28": 2873,
-  "2023-09-29": 2892,
-  "2023-09-30": 2907,
-  "2023-10-01": 2929,
-  "2023-10-02": 2938,
-  "2023-10-03": 2943,
-  "2023-10-04": 2953,
-  "2023-10-05": 2959,
-  "2023-10-06": 2975,
-  "2023-10-07": 2994,
-  "2023-10-08": 3008,
-  "2023-10-09": 3031,
-  "2023-10-10": 3046,
-  "2023-10-11": 3073,
-  "2023-10-12": 3073,
-  "2023-10-13": 3092,
-  "2023-10-14": 3111,
-  "2023-10-15": 3125,
-  "2023-10-16": 3134,
-  "2023-10-17": 3141,
-  "2023-10-18": 3146,
-  "2023-10-19": 3162,
-  "2023-10-20": 3170,
-  "2023-10-21": 3185,
-  "2023-10-22": 3193,
-  "2023-10-23": 3205,
-  "2023-10-24": 3224,
-  "2023-10-25": 3233,
-  "2023-10-26": 3245,
-  "2023-10-27": 3250,
-  "2023-10-28": 3258,
-  "2023-10-29": 3277,
-  "2023-10-30": 3303,
-  "2023-10-31": 3303,
-  "2023-11-01": 3317,
-  "2023-11-02": 3336,
-  "2023-11-03": 3351,
-  "2023-11-04": 3375,
-  "2023-11-05": 3395,
-  "2023-11-06": 3414,
-  "2023-11-07": 3442,
-  "2023-11-08": 3466,
-  "2023-11-09": 3496,
-  "2023-11-10": 3518,
-  "2023-11-11": 3539,
-  "2023-11-12": 3555,
-  "2023-11-13": 3573,
-  "2023-11-14": 3594,
-  "2023-11-15": 3594,
-  "2023-11-16": 3616,
-  "2023-11-17": 3665,
-  "2023-11-18": 3665,
-  "2023-11-19": 3687,
-  "2023-11-20": 3704,
-  "2023-11-21": 3719,
-  "2023-11-22": 3738,
-  "2023-11-23": 3760,
-  "2023-11-24": 3789,
-  "2023-11-25": 3804,
-  "2023-11-26": 3820,
-  "2023-11-27": 3837,
-  "2023-11-28": 3864,
-  "2023-11-29": 3899,
-  "2023-11-30": 3899,
-  "2023-12-01": 3914,
-  "2023-12-02": 3932,
-  "2023-12-03": 3961,
-  "2023-12-04": 3986,
-  "2023-12-05": 4004,
-  "2023-12-06": 4021,
-  "2023-12-07": 4037,
-  "2023-12-08": 4058,
-  "2023-12-09": 4083,
-  "2023-12-10": 4113,
-  "2023-12-11": 4140,
-  "2023-12-12": 4161,
-  "2023-12-13": 4170,
-  "2023-12-14": 4192,
-  "2023-12-15": 4204,
-  "2023-12-16": 4224,
-  "2023-12-17": 4250,
-  "2023-12-18": 4274,
-  "2023-12-19": 4290,
-  "2023-12-20": 4309,
-  "2023-12-21": 4331,
-  "2023-12-22": 4353,
-  "2023-12-23": 4389,
-  "2023-12-24": 4426,
-  "2023-12-25": 4468,
-  "2023-12-26": 4508,
-  "2023-12-27": 4526,
-  "2023-12-30": 4569,
-  "2023-12-31": 4595,
-  "2024-01-01": 4625,
-  "2024-01-02": 4646,
-  "2024-01-03": 4650
+  "2024-01-17": 4799,
+  "date_first_scraped": "2023-02-22",
+  "description": "Los sonidos tradicionales de la Isla del Encanto.",
+  "name": "Bomba y Plena",
+  "tracks": [
+    {
+      "album": {
+        "name": "A La Buena Si",
+        "url": "https://open.spotify.com/album/4uJmBA2GdFJExP1VUvTMUV"
+      },
+      "artists": [
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 174345,
+      "name": "A La Buena Si",
+      "url": "https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V"
+    },
+    {
+      "album": {
+        "name": "A La Buena S\u00ed",
+        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+      },
+      "artists": [
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174345,
+      "name": "A La Buena S\u00ed",
+      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Afro Boricua",
+      "url": "https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 214800,
+      "name": "Bomba para Afincar",
+      "url": "https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 214842,
+      "name": "Bomba para Afincar",
+      "url": "https://open.spotify.com/track/3QyIqnidIGIQYUatcIZ7Or"
+    },
+    {
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Bomba y Plena",
+      "url": "https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc"
+    },
+    {
+      "album": {
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+      },
+      "artists": [
+        {
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 296586,
+      "name": "B\u00e1mbula",
+      "url": "https://open.spotify.com/track/1fZXAwO0Rh3osppfV2SVAV"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296628,
+      "name": "B\u00e1mbula",
+      "url": "https://open.spotify.com/track/4BAc85WLOWaIczCy3xT6HP"
+    },
+    {
+      "album": {
+        "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
+        "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        },
+        {
+          "name": "Cojunto Melodia",
+          "url": "https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "Campo",
+      "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
+    },
+    {
+      "album": {
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+    },
+    {
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/7MSYsu14IUjgJ555rKPoTv"
+    },
+    {
+      "album": {
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+      },
+      "artists": [
+        {
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Candela (Seis Corrido) [Live]",
+      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135840,
+      "name": "El Conde De Loiza",
+      "url": "https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "El Conde De Loiza",
+      "url": "https://open.spotify.com/track/6pxmZBFQntoPBGc7CV0Nxv"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "El Doctor Guenaga",
+      "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270226,
+      "name": "El Galo Canta",
+      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+    },
+    {
+      "album": {
+        "name": "Betances Suena Asi (#Bandasonoraelantillano)",
+        "url": "https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332200,
+      "name": "El Hijo de Boriken",
+      "url": "https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X"
+    },
+    {
+      "album": {
+        "name": "Plena Combativa",
+        "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
+      },
+      "artists": [
+        {
+          "name": "Plena Combativa",
+          "url": "https://open.spotify.com/artist/3JBCcEZu6NeT0CxMAiBG4d"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299282,
+      "name": "El Tumbe",
+      "url": "https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH"
+    },
+    {
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
+        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Inyere",
+      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
+    },
+    {
+      "album": {
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 377893,
+      "name": "La Jibarita",
+      "url": "https://open.spotify.com/track/1hxCzBe0npyFyHI2xjC4gO"
+    },
+    {
+      "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
+    },
+    {
+      "album": {
+        "name": "Opus IV",
+        "url": "https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7"
+      },
+      "artists": [
+        {
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310440,
+      "name": "La Marej\u00e1 de los Muertos",
+      "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "La Negra Pancha",
+      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
+    },
+    {
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "La Novia Nueva",
+      "url": "https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy"
+    },
+    {
+      "album": {
+        "name": "Org\u00e1nico y Medicinal",
+        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
+      },
+      "artists": [
+        {
+          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
+          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300674,
+      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
+      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 383000,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352333,
+      "name": "Los de la Isla",
+      "url": "https://open.spotify.com/track/40z3hjVUQvuh7Oh1KS92E5"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 355333,
+      "name": "Los de la Isla",
+      "url": "https://open.spotify.com/track/0h4X0koKPNACw9UyYG9axh"
+    },
+    {
+      "album": {
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Madame Calal\u00fa",
+      "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"
+    },
+    {
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "Mam\u00e1, cu\u00eddame a Bel\u00e9n",
+      "url": "https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 177320,
+      "name": "Maria Luisa",
+      "url": "https://open.spotify.com/track/3B1SEZzoAyeevmv2ySEHVh"
+    },
+    {
+      "album": {
+        "name": "Estamos Gozando",
+        "url": "https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ"
+      },
+      "artists": [
+        {
+          "name": "Plena Libre",
+          "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381720,
+      "name": "Medley De La Calle San Sebastian",
+      "url": "https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz"
+    },
+    {
+      "album": {
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+      },
+      "artists": [
+        {
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 154240,
+      "name": "Meliton Tombe",
+      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 289213,
+      "name": "Mi Maria Luisa",
+      "url": "https://open.spotify.com/track/0igorIl2Os6lbeiwX6AU1v"
+    },
+    {
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/28rqtvA0NaHV51I81DIsvD"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289255,
+      "name": "Mi Maria Luisa",
+      "url": "https://open.spotify.com/track/1wvm0RlbYsW3FZWtmnHg2c"
+    },
+    {
+      "album": {
+        "name": "Candela!",
+        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Aldu\u00e9n",
+          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260946,
+      "name": "Ola de la Mar",
+      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
+    },
+    {
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Palo'e bandera",
+      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+    },
+    {
+      "album": {
+        "name": "Viento de Agua Unplugged: Materia Prima",
+        "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
+      },
+      "artists": [
+        {
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325666,
+      "name": "Pa\u2019 un Plenero (plena)",
+      "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
+    },
+    {
+      "album": {
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "album": {
+        "name": "Afrodiaspora",
+        "url": "https://open.spotify.com/album/33P899lSs20h8BEWTKskCv"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        },
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278786,
+      "name": "Plena y Bomba (feat. Calle 13)",
+      "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
+    },
+    {
+      "album": {
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+    },
+    {
+      "album": {
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451500,
+      "name": "Plenazo Callejero 2",
+      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 399306,
+      "name": "Posturas",
+      "url": "https://open.spotify.com/track/3t8Qm6EMW3BXw00ebAA4ba"
+    },
+    {
+      "album": {
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+      },
+      "artists": [
+        {
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5"
+      },
+      "artists": [
+        {
+          "name": "Plena Libre",
+          "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290213,
+      "name": "Que Bonita Bandera",
+      "url": "https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD"
+    },
+    {
+      "album": {
+        "name": "Ra\u00edces Borincanas",
+        "url": "https://open.spotify.com/album/6mZIvynRc62S8WicBG4xiS"
+      },
+      "artists": [
+        {
+          "name": "Ramito",
+          "url": "https://open.spotify.com/artist/4tiyu0r3ArpCssOu1rJtvN"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Que Bonita Bandera",
+      "url": "https://open.spotify.com/track/3nCwDELepkxtmUIGAqdsZg"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 168800,
+      "name": "Remigio Tombe",
+      "url": "https://open.spotify.com/track/6cSnXtQbb5u9OOQea1AdY3"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 336466,
+      "name": "Respeto a los Mayores",
+      "url": "https://open.spotify.com/track/5ZNPc6A6A5c4uuiOb4wUHm"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125493,
+      "name": "Rule Sonda",
+      "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Seis Corrido Medley",
+      "url": "https://open.spotify.com/track/5Worf5DYlPyHnUTkP0xiUM"
+    },
+    {
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 156106,
+      "name": "Seshuque Y Balance",
+      "url": "https://open.spotify.com/track/5PyVfVCAxsYPzHO94CzBgv"
+    },
+    {
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Si te preguntaran",
+      "url": "https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ"
+    },
+    {
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350346,
+      "name": "Sirenas, Sangueo y San Mill\u00e1n",
+      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "Soy Plenero Soy",
+      "url": "https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 242346,
+      "name": "Soy Plenero Soy",
+      "url": "https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn"
+    },
+    {
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+      },
+      "artists": [
+        {
+          "name": "Plena Adentro",
+          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Timba Timbo",
+      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299840,
+      "name": "Todito el A\u00f1o",
+      "url": "https://open.spotify.com/track/0wxTVGig2qcOwfH2kDJS8T"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 302840,
+      "name": "Todito el A\u00f1o",
+      "url": "https://open.spotify.com/track/5tBDqX720V9QIr9eBnRRpK"
+    },
+    {
+      "album": {
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "Yerba Bruja",
+      "url": "https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS"
+    },
+    {
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 260506,
+      "name": "Yerba Bruja",
+      "url": "https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm"
+    },
+    {
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 150333,
+      "name": "Yuba La Marile",
+      "url": "https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pVzYbk3nsg"
 }

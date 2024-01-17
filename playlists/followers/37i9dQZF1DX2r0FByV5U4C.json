@@ -1,735 +1,585 @@
 {
-  "2021-12-25": 262637,
-  "2021-12-26": 262630,
-  "2021-12-27": 262628,
-  "2021-12-28": 262628,
-  "2021-12-29": 262615,
-  "2021-12-30": 262609,
-  "2021-12-31": 262604,
-  "2022-01-01": 262587,
-  "2022-01-02": 262580,
-  "2022-01-03": 262566,
-  "2022-01-04": 262555,
-  "2022-01-05": 262545,
-  "2022-01-06": 262534,
-  "2022-01-07": 262523,
-  "2022-01-08": 262503,
-  "2022-01-09": 262502,
-  "2022-01-10": 262498,
-  "2022-01-11": 262483,
-  "2022-01-12": 262481,
-  "2022-01-13": 262472,
-  "2022-01-14": 262457,
-  "2022-01-15": 262443,
-  "2022-01-16": 262441,
-  "2022-01-17": 262422,
-  "2022-01-18": 262420,
-  "2022-01-19": 262414,
-  "2022-01-20": 262398,
-  "2022-01-21": 262390,
-  "2022-01-22": 262388,
-  "2022-01-23": 262381,
-  "2022-01-24": 262383,
-  "2022-01-25": 262377,
-  "2022-01-26": 262367,
-  "2022-01-27": 262364,
-  "2022-01-28": 262355,
-  "2022-01-29": 262347,
-  "2022-01-30": 262342,
-  "2022-01-31": 262333,
-  "2022-02-01": 262322,
-  "2022-02-02": 262322,
-  "2022-02-03": 262339,
-  "2022-02-04": 262365,
-  "2022-02-05": 262393,
-  "2022-02-06": 262406,
-  "2022-02-07": 262414,
-  "2022-02-08": 262409,
-  "2022-02-09": 262399,
-  "2022-02-10": 262415,
-  "2022-02-11": 262480,
-  "2022-02-12": 262557,
-  "2022-02-13": 262610,
-  "2022-02-14": 262642,
-  "2022-02-15": 262675,
-  "2022-02-16": 262730,
-  "2022-02-17": 262695,
-  "2022-02-18": 262666,
-  "2022-02-19": 262641,
-  "2022-02-20": 262632,
-  "2022-02-21": 262621,
-  "2022-02-22": 262638,
-  "2022-02-23": 262642,
-  "2022-02-24": 262640,
-  "2022-02-25": 262653,
-  "2022-02-26": 262655,
-  "2022-02-27": 262651,
-  "2022-02-28": 262651,
-  "2022-03-01": 262646,
-  "2022-03-02": 262627,
-  "2022-03-03": 262612,
-  "2022-03-04": 262597,
-  "2022-03-05": 262591,
-  "2022-03-06": 262584,
-  "2022-03-07": 262573,
-  "2022-03-08": 262565,
-  "2022-03-09": 262562,
-  "2022-03-10": 262559,
-  "2022-03-11": 262552,
-  "2022-03-12": 262543,
-  "2022-03-13": 262538,
-  "2022-03-14": 262536,
-  "2022-03-15": 262528,
-  "2022-03-16": 262522,
-  "2022-03-17": 262519,
-  "2022-03-18": 262508,
-  "2022-03-19": 262506,
-  "2022-03-20": 262506,
-  "2022-03-21": 262495,
-  "2022-03-22": 262490,
-  "2022-03-23": 262488,
-  "2022-03-24": 262492,
-  "2022-03-25": 262487,
-  "2022-03-26": 262489,
-  "2022-03-27": 262491,
-  "2022-03-28": 262479,
-  "2022-03-30": 262463,
-  "2022-03-31": 262457,
-  "2022-04-01": 262451,
-  "2022-04-02": 262452,
-  "2022-04-03": 262444,
-  "2022-04-04": 262443,
-  "2022-04-05": 262436,
-  "2022-04-06": 262434,
-  "2022-04-07": 262424,
-  "2022-04-08": 262422,
-  "2022-04-09": 262414,
-  "2022-04-10": 262404,
-  "2022-04-11": 262386,
-  "2022-04-12": 262388,
-  "2022-04-13": 262387,
-  "2022-04-14": 262383,
-  "2022-04-15": 262377,
-  "2022-04-16": 262380,
-  "2022-04-17": 262371,
-  "2022-04-18": 262362,
-  "2022-04-19": 262360,
-  "2022-04-20": 262352,
-  "2022-04-21": 262345,
-  "2022-04-22": 262342,
-  "2022-04-23": 262337,
-  "2022-04-24": 262328,
-  "2022-04-25": 262327,
-  "2022-04-26": 262317,
-  "2022-04-27": 262303,
-  "2022-04-28": 262304,
-  "2022-04-29": 262293,
-  "2022-04-30": 262285,
-  "2022-05-01": 262285,
-  "2022-05-02": 262285,
-  "2022-05-03": 262281,
-  "2022-05-04": 262276,
-  "2022-05-05": 262266,
-  "2022-05-06": 262262,
-  "2022-05-07": 262257,
-  "2022-05-08": 262260,
-  "2022-05-09": 262257,
-  "2022-05-10": 262251,
-  "2022-05-11": 262251,
-  "2022-05-12": 262253,
-  "2022-05-13": 262251,
-  "2022-05-14": 262248,
-  "2022-05-15": 262247,
-  "2022-05-16": 262249,
-  "2022-05-17": 262242,
-  "2022-05-18": 262239,
-  "2022-05-19": 262235,
-  "2022-05-20": 262230,
-  "2022-05-21": 262223,
-  "2022-05-22": 262223,
-  "2022-05-23": 262219,
-  "2022-05-24": 262220,
-  "2022-05-25": 262214,
-  "2022-05-26": 262200,
-  "2022-05-27": 262195,
-  "2022-05-28": 262198,
-  "2022-05-29": 262201,
-  "2022-05-30": 262197,
-  "2022-05-31": 262194,
-  "2022-06-01": 262196,
-  "2022-06-02": 262194,
-  "2022-06-03": 262192,
-  "2022-06-04": 262190,
-  "2022-06-05": 262186,
-  "2022-06-06": 262187,
-  "2022-06-07": 262187,
-  "2022-06-08": 262179,
-  "2022-06-09": 262180,
-  "2022-06-10": 262187,
-  "2022-06-11": 262186,
-  "2022-06-12": 262187,
-  "2022-06-13": 262179,
-  "2022-06-14": 262174,
-  "2022-06-15": 262168,
-  "2022-06-16": 262166,
-  "2022-06-17": 262158,
-  "2022-06-18": 262153,
-  "2022-06-19": 262161,
-  "2022-06-20": 262161,
-  "2022-06-21": 262155,
-  "2022-06-22": 262149,
-  "2022-06-23": 262149,
-  "2022-06-24": 262150,
-  "2022-06-25": 262146,
-  "2022-06-26": 262146,
-  "2022-06-27": 262147,
-  "2022-06-28": 262141,
-  "2022-06-29": 262134,
-  "2022-06-30": 262128,
-  "2022-07-01": 262131,
-  "2022-07-02": 262125,
-  "2022-07-03": 262121,
-  "2022-07-04": 262114,
-  "2022-07-05": 262116,
-  "2022-07-06": 262110,
-  "2022-07-07": 262107,
-  "2022-07-08": 262100,
-  "2022-07-09": 262099,
-  "2022-07-10": 262095,
-  "2022-07-11": 262089,
-  "2022-07-12": 262080,
-  "2022-07-13": 262075,
-  "2022-07-14": 262071,
-  "2022-07-15": 262066,
-  "2022-07-16": 262060,
-  "2022-07-17": 262057,
-  "2022-07-18": 262052,
-  "2022-07-19": 262050,
-  "2022-07-20": 262044,
-  "2022-07-21": 262035,
-  "2022-07-22": 262028,
-  "2022-07-23": 262026,
-  "2022-07-24": 262025,
-  "2022-07-25": 262025,
-  "2022-07-26": 262016,
-  "2022-07-27": 262006,
-  "2022-07-28": 262013,
-  "2022-07-29": 262008,
-  "2022-07-30": 262012,
-  "2022-07-31": 262012,
-  "2022-08-01": 262011,
-  "2022-08-02": 262010,
-  "2022-08-03": 262010,
-  "2022-08-04": 262011,
-  "2022-08-05": 262006,
-  "2022-08-06": 262002,
-  "2022-08-07": 262003,
-  "2022-08-08": 262004,
-  "2022-08-09": 262003,
-  "2022-08-10": 262004,
-  "2022-08-11": 262003,
-  "2022-08-12": 262001,
-  "2022-08-13": 262000,
-  "2022-08-14": 261996,
-  "2022-08-15": 262000,
-  "2022-08-16": 261999,
-  "2022-08-17": 261988,
-  "2022-08-18": 261991,
-  "2022-08-19": 261985,
-  "2022-08-20": 261986,
-  "2022-08-21": 261981,
-  "2022-08-22": 261977,
-  "2022-08-23": 261972,
-  "2022-08-24": 261971,
-  "2022-08-25": 261972,
-  "2022-08-26": 261972,
-  "2022-08-27": 261974,
-  "2022-08-28": 261969,
-  "2022-08-29": 261970,
-  "2022-08-30": 261963,
-  "2022-08-31": 261951,
-  "2022-09-01": 261936,
-  "2022-09-02": 261927,
-  "2022-09-03": 261919,
-  "2022-09-04": 261907,
-  "2022-09-05": 261900,
-  "2022-09-06": 261896,
-  "2022-09-07": 261891,
-  "2022-09-09": 261884,
-  "2022-09-10": 261889,
-  "2022-09-11": 261888,
-  "2022-09-12": 261886,
-  "2022-09-13": 261877,
-  "2022-09-15": 261875,
-  "2022-09-16": 261876,
-  "2022-09-17": 261867,
-  "2022-09-18": 261870,
-  "2022-09-19": 261869,
-  "2022-09-20": 261864,
-  "2022-09-21": 261855,
-  "2022-09-22": 261849,
-  "2022-09-23": 261844,
-  "2022-09-24": 261832,
-  "2022-09-25": 261825,
-  "2022-09-26": 261809,
-  "2022-09-27": 261804,
-  "2022-09-28": 261797,
-  "2022-09-29": 261790,
-  "2022-09-30": 261786,
-  "2022-10-01": 261785,
-  "2022-10-02": 261775,
-  "2022-10-03": 261776,
-  "2022-10-04": 261778,
-  "2022-10-05": 261776,
-  "2022-10-06": 261776,
-  "2022-10-07": 261776,
-  "2022-10-08": 261772,
-  "2022-10-09": 261775,
-  "2022-10-10": 261777,
-  "2022-10-11": 261782,
-  "2022-10-12": 261776,
-  "2022-10-13": 261769,
-  "2022-10-14": 261768,
-  "2022-10-15": 261762,
-  "2022-10-16": 261756,
-  "2022-10-17": 261751,
-  "2022-10-18": 261749,
-  "2022-10-19": 261748,
-  "2022-10-20": 261740,
-  "2022-10-21": 261742,
-  "2022-10-22": 261739,
-  "2022-10-23": 261735,
-  "2022-10-24": 261728,
-  "2022-10-25": 261728,
-  "2022-10-26": 261722,
-  "2022-10-27": 261718,
-  "2022-10-28": 261719,
-  "2022-10-29": 261719,
-  "2022-10-30": 261716,
-  "2022-10-31": 261716,
-  "2022-11-01": 261711,
-  "2022-11-02": 261703,
-  "2022-11-03": 261701,
-  "2022-11-04": 261701,
-  "2022-11-05": 261702,
-  "2022-11-06": 261697,
-  "2022-11-07": 261697,
-  "2022-11-08": 261699,
-  "2022-11-09": 261695,
-  "2022-11-10": 261694,
-  "2022-11-11": 261695,
-  "2022-11-12": 261694,
-  "2022-11-13": 261692,
-  "2022-11-14": 261691,
-  "2022-11-15": 261683,
-  "2022-11-16": 261677,
-  "2022-11-17": 261668,
-  "2022-11-18": 261656,
-  "2022-11-19": 261642,
-  "2022-11-20": 261634,
-  "2022-11-21": 261618,
-  "2022-11-22": 261615,
-  "2022-11-23": 261608,
-  "2022-11-24": 261612,
-  "2022-11-25": 261609,
-  "2022-11-26": 261607,
-  "2022-11-27": 261602,
-  "2022-11-28": 261599,
-  "2022-11-29": 261597,
-  "2022-11-30": 261599,
-  "2022-12-01": 261601,
-  "2022-12-02": 261594,
-  "2022-12-03": 261584,
-  "2022-12-04": 261578,
-  "2022-12-05": 261570,
-  "2022-12-06": 261568,
-  "2022-12-07": 261556,
-  "2022-12-08": 261544,
-  "2022-12-09": 261542,
-  "2022-12-10": 261536,
-  "2022-12-11": 261536,
-  "2022-12-12": 261525,
-  "2022-12-13": 261517,
-  "2022-12-14": 261517,
-  "2022-12-15": 261509,
-  "2022-12-16": 261510,
-  "2022-12-17": 261509,
-  "2022-12-18": 261505,
-  "2022-12-19": 261505,
-  "2022-12-20": 261505,
-  "2022-12-21": 261505,
-  "2022-12-22": 261496,
-  "2022-12-24": 261492,
-  "2022-12-25": 261493,
-  "2022-12-26": 261492,
-  "2022-12-27": 261486,
-  "2022-12-28": 261483,
-  "2022-12-29": 261483,
-  "2022-12-30": 261483,
-  "2022-12-31": 261479,
-  "2023-01-01": 261474,
-  "2023-01-02": 261463,
-  "2023-01-03": 261456,
-  "2023-01-04": 261452,
-  "2023-01-05": 261439,
-  "2023-01-06": 261434,
-  "2023-01-07": 261425,
-  "2023-01-08": 261420,
-  "2023-01-09": 261418,
-  "2023-01-10": 261418,
-  "2023-01-11": 261408,
-  "2023-01-12": 261407,
-  "2023-01-13": 261396,
-  "2023-01-14": 261391,
-  "2023-01-15": 261388,
-  "2023-01-16": 261384,
-  "2023-01-17": 261370,
-  "2023-01-18": 261364,
-  "2023-01-19": 261361,
-  "2023-01-20": 261353,
-  "2023-01-21": 261351,
-  "2023-01-22": 261347,
-  "2023-01-23": 261345,
-  "2023-01-24": 261337,
-  "2023-01-25": 261331,
-  "2023-01-26": 261339,
-  "2023-01-27": 261342,
-  "2023-01-28": 10597,
-  "2023-01-29": 10602,
-  "2023-01-30": 2232,
-  "2023-01-31": 2232,
-  "2023-02-01": 228,
-  "2023-02-02": 157,
-  "2023-02-03": 180,
-  "2023-02-04": 669,
-  "2023-02-05": 780,
-  "2023-02-06": 814,
-  "2023-02-07": 844,
-  "2023-02-08": 913,
-  "2023-02-09": 913,
-  "2023-02-10": 931,
-  "2023-02-11": 937,
-  "2023-02-12": 963,
-  "2023-02-13": 973,
-  "2023-02-14": 973,
-  "2023-02-15": 978,
-  "2023-02-16": 988,
-  "2023-02-17": 997,
-  "2023-02-18": 1008,
-  "2023-02-19": 1009,
-  "2023-02-20": 1014,
-  "2023-02-21": 1018,
-  "2023-02-22": 1022,
-  "2023-02-23": 1033,
-  "2023-02-24": 1047,
-  "2023-02-25": 1051,
-  "2023-02-26": 1056,
-  "2023-02-27": 1064,
-  "2023-02-28": 1064,
-  "2023-03-01": 1071,
-  "2023-03-02": 1076,
-  "2023-03-03": 1076,
-  "2023-03-04": 1076,
-  "2023-03-05": 1086,
-  "2023-03-06": 1086,
-  "2023-03-07": 1092,
-  "2023-03-08": 1097,
-  "2023-03-09": 1102,
-  "2023-03-10": 1106,
-  "2023-03-11": 1105,
-  "2023-03-12": 1112,
-  "2023-03-13": 1114,
-  "2023-03-14": 1117,
-  "2023-03-15": 1119,
-  "2023-03-16": 1118,
-  "2023-03-17": 1118,
-  "2023-03-18": 1126,
-  "2023-03-19": 1126,
-  "2023-03-20": 1129,
-  "2023-03-21": 1134,
-  "2023-03-22": 1137,
-  "2023-03-23": 1138,
-  "2023-03-24": 1138,
-  "2023-03-25": 1145,
-  "2023-03-26": 1146,
-  "2023-03-27": 1151,
-  "2023-03-28": 1152,
-  "2023-03-29": 1155,
-  "2023-03-30": 1162,
-  "2023-03-31": 1162,
-  "2023-04-01": 1166,
-  "2023-04-02": 1165,
-  "2023-04-03": 1169,
-  "2023-04-04": 1168,
-  "2023-04-05": 1172,
-  "2023-04-06": 1176,
-  "2023-04-07": 1180,
-  "2023-04-09": 1190,
-  "2023-04-10": 1190,
-  "2023-04-11": 1195,
-  "2023-04-12": 1195,
-  "2023-04-13": 1200,
-  "2023-04-14": 1201,
-  "2023-04-15": 1203,
-  "2023-04-16": 1205,
-  "2023-04-17": 1208,
-  "2023-04-18": 1209,
-  "2023-04-19": 1212,
-  "2023-04-20": 1215,
-  "2023-04-21": 1218,
-  "2023-04-22": 1219,
-  "2023-04-23": 1224,
-  "2023-04-24": 1229,
-  "2023-04-25": 1232,
-  "2023-04-26": 1233,
-  "2023-04-27": 1233,
-  "2023-04-28": 1233,
-  "2023-04-29": 1236,
-  "2023-04-30": 1239,
-  "2023-05-01": 1242,
-  "2023-05-02": 1243,
-  "2023-05-03": 1245,
-  "2023-05-04": 1247,
-  "2023-05-05": 1250,
-  "2023-05-06": 1252,
-  "2023-05-07": 1254,
-  "2023-05-08": 1255,
-  "2023-05-09": 1256,
-  "2023-05-10": 1261,
-  "2023-05-11": 1263,
-  "2023-05-12": 1264,
-  "2023-05-13": 1268,
-  "2023-05-14": 1268,
-  "2023-05-15": 1271,
-  "2023-05-16": 1277,
-  "2023-05-17": 1277,
-  "2023-05-18": 1285,
-  "2023-05-19": 1289,
-  "2023-05-20": 1294,
-  "2023-05-21": 1294,
-  "2023-05-22": 1294,
-  "2023-05-23": 1300,
-  "2023-05-24": 1304,
-  "2023-05-25": 1304,
-  "2023-05-26": 1304,
-  "2023-05-27": 1309,
-  "2023-05-28": 1312,
-  "2023-05-29": 1312,
-  "2023-05-30": 1318,
-  "2023-05-31": 1323,
-  "2023-06-01": 1326,
-  "2023-06-02": 1327,
-  "2023-06-03": 1328,
-  "2023-06-04": 1329,
-  "2023-06-05": 1336,
-  "2023-06-06": 1337,
-  "2023-06-07": 1340,
-  "2023-06-08": 1340,
-  "2023-06-09": 1341,
-  "2023-06-10": 1343,
-  "2023-06-11": 1347,
-  "2023-06-12": 1349,
-  "2023-06-13": 1351,
-  "2023-06-14": 1350,
-  "2023-06-15": 1347,
-  "2023-06-16": 1348,
-  "2023-06-17": 1349,
-  "2023-06-18": 1354,
-  "2023-06-19": 1360,
-  "2023-06-20": 1360,
-  "2023-06-21": 1362,
-  "2023-06-22": 1367,
-  "2023-06-23": 1371,
-  "2023-06-24": 1378,
-  "2023-06-25": 1380,
-  "2023-06-26": 1382,
-  "2023-06-27": 1384,
-  "2023-06-28": 1387,
-  "2023-06-29": 1389,
-  "2023-06-30": 1388,
-  "2023-07-01": 1391,
-  "2023-07-02": 1391,
-  "2023-07-03": 1395,
-  "2023-07-04": 1400,
-  "2023-07-05": 1403,
-  "2023-07-06": 1410,
-  "2023-07-07": 1410,
-  "2023-07-08": 1415,
-  "2023-07-09": 1417,
-  "2023-07-10": 1418,
-  "2023-07-11": 1421,
-  "2023-07-12": 1422,
-  "2023-07-13": 1422,
-  "2023-07-14": 1427,
-  "2023-07-15": 1427,
-  "2023-07-16": 1430,
-  "2023-07-17": 1429,
-  "2023-07-18": 2147,
-  "2023-07-19": 10783,
-  "2023-07-20": 11296,
-  "2023-07-21": 11341,
-  "2023-07-22": 11351,
-  "2023-07-23": 11355,
-  "2023-07-24": 11356,
-  "2023-07-25": 11359,
-  "2023-07-26": 11360,
-  "2023-07-27": 11359,
-  "2023-07-28": 11359,
-  "2023-07-29": 11362,
-  "2023-07-30": 11361,
-  "2023-07-31": 11368,
-  "2023-08-01": 11371,
-  "2023-08-02": 11101,
-  "2023-08-03": 4000,
-  "2023-08-04": 1971,
-  "2023-08-05": 1568,
-  "2023-08-06": 1476,
-  "2023-08-07": 1476,
-  "2023-08-08": 1473,
-  "2023-08-09": 1482,
-  "2023-08-10": 1484,
-  "2023-08-11": 1488,
-  "2023-08-12": 1488,
-  "2023-08-13": 1492,
-  "2023-08-14": 1495,
-  "2023-08-15": 1499,
-  "2023-08-16": 1499,
-  "2023-08-17": 1500,
-  "2023-08-18": 1503,
-  "2023-08-19": 1503,
-  "2023-08-20": 1505,
-  "2023-08-21": 1508,
-  "2023-08-22": 1506,
-  "2023-08-23": 1506,
-  "2023-08-24": 1507,
-  "2023-08-25": 1508,
-  "2023-08-26": 1508,
-  "2023-08-27": 1509,
-  "2023-08-28": 1514,
-  "2023-08-29": 1516,
-  "2023-08-30": 1517,
-  "2023-08-31": 1518,
-  "2023-09-01": 1521,
-  "2023-09-02": 1521,
-  "2023-09-03": 1523,
-  "2023-09-04": 1524,
-  "2023-09-05": 1523,
-  "2023-09-06": 1521,
-  "2023-09-07": 1521,
-  "2023-09-08": 1523,
-  "2023-09-09": 1523,
-  "2023-09-10": 1523,
-  "2023-09-11": 1521,
-  "2023-09-12": 1523,
-  "2023-09-13": 1526,
-  "2023-09-14": 1524,
-  "2023-09-15": 1528,
-  "2023-09-16": 1538,
-  "2023-09-17": 1538,
-  "2023-09-18": 1540,
-  "2023-09-19": 1540,
-  "2023-09-20": 1542,
-  "2023-09-21": 1542,
-  "2023-09-22": 1542,
-  "2023-09-23": 1542,
-  "2023-09-24": 1545,
-  "2023-09-25": 1546,
-  "2023-09-26": 1546,
-  "2023-09-27": 1550,
-  "2023-09-28": 1550,
-  "2023-09-29": 1550,
-  "2023-09-30": 1550,
-  "2023-10-01": 1550,
-  "2023-10-02": 1550,
-  "2023-10-03": 1553,
-  "2023-10-04": 1551,
-  "2023-10-05": 1552,
-  "2023-10-06": 1553,
-  "2023-10-07": 1556,
-  "2023-10-08": 1555,
-  "2023-10-09": 1559,
-  "2023-10-10": 1558,
-  "2023-10-11": 1561,
-  "2023-10-12": 1561,
-  "2023-10-13": 1560,
-  "2023-10-14": 1560,
-  "2023-10-15": 1562,
-  "2023-10-16": 1563,
-  "2023-10-17": 1564,
-  "2023-10-18": 1566,
-  "2023-10-19": 1566,
-  "2023-10-20": 1569,
-  "2023-10-21": 1569,
-  "2023-10-22": 1572,
-  "2023-10-23": 1574,
-  "2023-10-24": 1579,
-  "2023-10-25": 1579,
-  "2023-10-26": 1579,
-  "2023-10-27": 1580,
-  "2023-10-28": 1580,
-  "2023-10-29": 1581,
-  "2023-10-30": 1585,
-  "2023-10-31": 1585,
-  "2023-11-01": 1585,
-  "2023-11-02": 1586,
-  "2023-11-03": 1586,
-  "2023-11-04": 1587,
-  "2023-11-05": 1587,
-  "2023-11-06": 1586,
-  "2023-11-07": 1588,
-  "2023-11-08": 1588,
-  "2023-11-09": 1588,
-  "2023-11-10": 1589,
-  "2023-11-11": 1590,
-  "2023-11-12": 1592,
-  "2023-11-13": 1591,
-  "2023-11-14": 1592,
-  "2023-11-15": 1592,
-  "2023-11-16": 1592,
-  "2023-11-17": 1592,
-  "2023-11-18": 1592,
-  "2023-11-19": 1596,
-  "2023-11-20": 1597,
-  "2023-11-21": 1600,
-  "2023-11-22": 1600,
-  "2023-11-23": 1602,
-  "2023-11-24": 1604,
-  "2023-11-25": 1606,
-  "2023-11-26": 1607,
-  "2023-11-27": 1606,
-  "2023-11-28": 1605,
-  "2023-11-29": 1609,
-  "2023-11-30": 1609,
-  "2023-12-01": 1610,
-  "2023-12-02": 1609,
-  "2023-12-03": 1610,
-  "2023-12-04": 1610,
-  "2023-12-05": 1609,
-  "2023-12-06": 1610,
-  "2023-12-07": 1610,
-  "2023-12-08": 1610,
-  "2023-12-09": 1608,
-  "2023-12-10": 1608,
-  "2023-12-11": 1610,
-  "2023-12-12": 1609,
-  "2023-12-13": 1609,
-  "2023-12-14": 1612,
-  "2023-12-15": 1612,
-  "2023-12-16": 1612,
-  "2023-12-17": 1612,
-  "2023-12-18": 1612,
-  "2023-12-19": 1611,
-  "2023-12-20": 1612,
-  "2023-12-21": 1614,
-  "2023-12-22": 1614,
-  "2023-12-23": 1616,
-  "2023-12-24": 1618,
-  "2023-12-25": 1619,
-  "2023-12-26": 1618,
-  "2023-12-27": 1617,
-  "2023-12-30": 1617,
-  "2023-12-31": 1620,
-  "2024-01-01": 1619,
-  "2024-01-02": 1619,
-  "2024-01-03": 1621
+  "2024-01-17": 1649,
+  "date_first_scraped": "2021-12-21",
+  "description": "Saluting the songs and artists that have filled us with pride.",
+  "name": "Black History Salute",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adulthood",
+        "url": "https://open.spotify.com/album/64FLOlR1JB20A49iu9LJpF"
+      },
+      "artists": [
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178909,
+      "name": "Adulthood",
+      "url": "https://open.spotify.com/track/0eg1fvlZkRx115i95XVHy0"
+    },
+    {
+      "album": {
+        "name": "Adulthood",
+        "url": "https://open.spotify.com/album/7xqf7idexm8P5MoLzZbMd2"
+      },
+      "artists": [
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Adulthood",
+      "url": "https://open.spotify.com/track/1WQ5ADSmZVPEK7j71hxn8f"
+    },
+    {
+      "album": {
+        "name": "Caged Bird Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uOosas8GVTyqJIDc5mOER"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 208306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0ubXZ4MkT71sCkGMssg90b"
+    },
+    {
+      "album": {
+        "name": "Caged Bird Songs",
+        "url": "https://open.spotify.com/album/4PF18WekUteo4wMepPE8rv"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2J8yVtzNqgO40QDKhuNeQm"
+    },
+    {
+      "album": {
+        "name": "Caged Bird Songs",
+        "url": "https://open.spotify.com/album/1VmP4cahFDmehEWhXvnYbc"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/4rU1Cunyeg7JNdNM3mP8BL"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144213,
+      "name": "Ballad for Phyllis Wheatley",
+      "url": "https://open.spotify.com/track/0Awv8At3U3JlrUbs2je2ap"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Gwendolyn Brooks",
+          "url": "https://open.spotify.com/artist/0xWiIpqD8hHbxdavSslci2"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Beverly Hills, Chicago",
+      "url": "https://open.spotify.com/track/2ZtNLjx6tyh5o5weSOezdn"
+    },
+    {
+      "album": {
+        "name": "A Sun Lady for All Seasons Reads Her Poetry",
+        "url": "https://open.spotify.com/album/2m7s5UIx3Jhri1or9QRyuF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Sanchez",
+          "url": "https://open.spotify.com/artist/0hvH9P1nlB5xrNdlXwZ22P"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66093,
+      "name": "Blk/ Wooomen/ chant",
+      "url": "https://open.spotify.com/track/3iFDHZ8nurmotwOdupbH0f"
+    },
+    {
+      "album": {
+        "name": "Poets Read Their Contemporary Poetry: Before Columbus Foundation",
+        "url": "https://open.spotify.com/album/5vu3jh0MWkKRW6tDYRodk7"
+      },
+      "artists": [
+        {
+          "name": "Amiri Baraka",
+          "url": "https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335786,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/771WmrdhwYKmr3qSiYn8zI"
+    },
+    {
+      "album": {
+        "name": "Langston Hughes Recordings",
+        "url": "https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET"
+      },
+      "artists": [
+        {
+          "name": "Langston Hughes",
+          "url": "https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57443,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/6A7bVdaeKLeHCutvJovQrn"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Countee Cullen",
+          "url": "https://open.spotify.com/artist/2VctOiVxbCJKnTGMszx5JP"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "Heritage",
+      "url": "https://open.spotify.com/track/1BhtPxwzsPMFXhlfCpkw9B"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Langston Hughes",
+          "url": "https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69026,
+      "name": "I Have Known Rivers",
+      "url": "https://open.spotify.com/track/3RXOKHGxFK0t2k9zJJHb6y"
+    },
+    {
+      "album": {
+        "name": "Langston Hughes Recordings",
+        "url": "https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET"
+      },
+      "artists": [
+        {
+          "name": "Langston Hughes",
+          "url": "https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34455,
+      "name": "I Too",
+      "url": "https://open.spotify.com/track/0CQVLxSfVPz3kXH6ZUfleL"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Gwendolyn Brooks",
+          "url": "https://open.spotify.com/artist/0xWiIpqD8hHbxdavSslci2"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56880,
+      "name": "Kitchenette",
+      "url": "https://open.spotify.com/track/2GukSq65tlFQUc9N1wxeag"
+    },
+    {
+      "album": {
+        "name": "Words For You",
+        "url": "https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc"
+      },
+      "artists": [
+        {
+          "name": "James Earl Jones",
+          "url": "https://open.spotify.com/artist/28DFDpyRKnHQr6BFNPGP4L"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "Let America Be America Again by Langston Hughes",
+      "url": "https://open.spotify.com/track/7izKDKmGjfPVVY7n0LRz29"
+    },
+    {
+      "album": {
+        "name": "LITW",
+        "url": "https://open.spotify.com/album/4HsYjtJyLJ8VqScb1wiPLj"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Boy",
+          "url": "https://open.spotify.com/artist/0VyBEG8eC2lpv4UOXrUBz4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318232,
+      "name": "LITW",
+      "url": "https://open.spotify.com/track/5qUNlwj6E6mTuvgy2cFzFT"
+    },
+    {
+      "album": {
+        "name": "LITW",
+        "url": "https://open.spotify.com/album/3xKkbgPBuUidLWnlGf88Ne"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Boy",
+          "url": "https://open.spotify.com/artist/7IYwVupkZuGBcG3CPBzsC5"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 318232,
+      "name": "LITW",
+      "url": "https://open.spotify.com/track/6Mt1UnC2xs3s2VjZHHyhva"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Sterling A. Brown",
+          "url": "https://open.spotify.com/artist/0CcUeegrB22XBY0yaN6N6b"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131826,
+      "name": "Ma Rainey",
+      "url": "https://open.spotify.com/track/5uhuEd3FBXZO4ewGZ7JK3O"
+    },
+    {
+      "album": {
+        "name": "Maya Angelou Interview with Ebony Moments (Live Interview)",
+        "url": "https://open.spotify.com/album/0fEhPkcpzvV3QAxpGojyt4"
+      },
+      "artists": [
+        {
+          "name": "Maya Angelou",
+          "url": "https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304108,
+      "name": "Maya Angelou Interview with Ebony Moments - Live Interview",
+      "url": "https://open.spotify.com/track/3i5P8iTZNBjoccQm5jljsp"
+    },
+    {
+      "album": {
+        "name": "Anthology of Negro Poetry",
+        "url": "https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0"
+      },
+      "artists": [
+        {
+          "name": "Gwendolyn Brooks",
+          "url": "https://open.spotify.com/artist/0xWiIpqD8hHbxdavSslci2"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42600,
+      "name": "Old Laughter",
+      "url": "https://open.spotify.com/track/59QPVfPJ6IAhKQhB34eq5Z"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Rita Dove",
+          "url": "https://open.spotify.com/artist/2LOdBuHqu86VxbRqivfJsq"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254266,
+      "name": "Parsley",
+      "url": "https://open.spotify.com/track/2Sxo09VIgJDYNrytLGkkSJ"
+    },
+    {
+      "album": {
+        "name": "The Glory of Negro History",
+        "url": "https://open.spotify.com/album/3sQliGxkUSHeMOyk1vU7iY"
+      },
+      "artists": [
+        {
+          "name": "Claude McKay",
+          "url": "https://open.spotify.com/artist/6sHBT1KbVZuG7oqVYVYNL3"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65826,
+      "name": "Part II - The Glory: If We Must Die",
+      "url": "https://open.spotify.com/track/2E4YM0uyDfknQCfxfvbZ9v"
+    },
+    {
+      "album": {
+        "name": "Words For You",
+        "url": "https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc"
+      },
+      "artists": [
+        {
+          "name": "Ruby Dee",
+          "url": "https://open.spotify.com/artist/4h3T07QIlR7ws1Kclf0x6A"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159280,
+      "name": "Phenomenal Woman By Maya Angelou",
+      "url": "https://open.spotify.com/track/45hRiC1zMG0mIjZX83JYdt"
+    },
+    {
+      "album": {
+        "name": "The Negro Woman",
+        "url": "https://open.spotify.com/album/0JkcFU6EdvVB0PHtupwRTV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Washington",
+          "url": "https://open.spotify.com/artist/7mhAASgSu1jjjZx2lR37V9"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68413,
+      "name": "Phillis Wheatley (1753-1784)",
+      "url": "https://open.spotify.com/track/51czTvGzSRzOiX3AL8aMN3"
+    },
+    {
+      "album": {
+        "name": "Black Suit",
+        "url": "https://open.spotify.com/album/2mOeMaL5nlYMkkGmCMc8ae"
+      },
+      "artists": [
+        {
+          "name": "Nego True",
+          "url": "https://open.spotify.com/artist/3Wwcrarn4rr3pE8HqLNwFx"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240048,
+      "name": "Pick Your Poision",
+      "url": "https://open.spotify.com/track/6eb8Gh3Siz0UFIEpUHmO8z"
+    },
+    {
+      "album": {
+        "name": "Black Suit: Musical Poetry",
+        "url": "https://open.spotify.com/album/2qWpxksKGNnNfGjaPBEhh9"
+      },
+      "artists": [
+        {
+          "name": "Nego True",
+          "url": "https://open.spotify.com/artist/3Wwcrarn4rr3pE8HqLNwFx"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240019,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/0DBKzi2j2TfGXRu1Y9HWzD"
+    },
+    {
+      "album": {
+        "name": "Poets Read Their Contemporary Poetry: Before Columbus Foundation",
+        "url": "https://open.spotify.com/album/5vu3jh0MWkKRW6tDYRodk7"
+      },
+      "artists": [
+        {
+          "name": "Ishmael Reed",
+          "url": "https://open.spotify.com/artist/3kfQrdEicFEL3UJ8wp4zqo"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460786,
+      "name": "St Louis Woman",
+      "url": "https://open.spotify.com/track/0ZNfaWzf7xbB5FOZA5v1rZ"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172093,
+      "name": "The Ballad of the Free",
+      "url": "https://open.spotify.com/track/4kyEcp980YXWvWGc3yfHew"
+    },
+    {
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "The Revolution Will Not Be Televised",
+      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    },
+    {
+      "album": {
+        "name": "The Revolution Begins: The Flying Dutchman Masters",
+        "url": "https://open.spotify.com/album/6iTXdGkpPqaNkeaFUGQSCW"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187360,
+      "name": "The Revolution Will Not Be Televised",
+      "url": "https://open.spotify.com/track/2BEuUkh9r8NCYiVvSKZIol"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Margaret Walker",
+        "url": "https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT"
+      },
+      "artists": [
+        {
+          "name": "Margaret Walker",
+          "url": "https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "We Have Been Believers",
+      "url": "https://open.spotify.com/track/1F953129iN4gBeGvfeYE5K"
+    },
+    {
+      "album": {
+        "name": "On The Subway",
+        "url": "https://open.spotify.com/album/2Cezj5CMhk6pssl1EkUs0n"
+      },
+      "artists": [
+        {
+          "name": "The Last Poets",
+          "url": "https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "When The Revolution Comes",
+      "url": "https://open.spotify.com/track/2ZvNOGkA3mBmwru0VcK50C"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2r0FByV5U4C"
 }

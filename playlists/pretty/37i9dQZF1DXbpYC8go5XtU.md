@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,210 likes - 132 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,067 likes - 132 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 75 | [Whisper at a Party](https://open.spotify.com/track/6pcotNzRig5MZqmYn6dvF2) | [Isaac Helsen](https://open.spotify.com/artist/01xVhqpSuHMXiHWwby8ySK) | [Remnants Series](https://open.spotify.com/album/2MXjXBNtnGLctV5n0tXGBv) | 6:56 |
 | 76 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 |
 | 77 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 |
-| 78 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 |
+| 78 | [Saguaro](https://open.spotify.com/track/2MwRtmiEguJD4fdLsBAuZV) | [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV) | [Dioses Olvidados](https://open.spotify.com/album/4KVYRRA6SEaYZVvwlufgUp) | 5:23 |
 | 79 | [Zen Garden](https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:12 |
 | 80 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 81 | [Crystal Cathedral \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 3:26 |

@@ -497,6 +497,28 @@
     },
     {
       "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "DON'T TELL (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy"
+    },
+    {
+      "album": {
         "name": "REALLY HER",
         "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 142258,
       "name": "DON'T TELL (feat. Juicy J)",
       "url": "https://open.spotify.com/track/7ANhqhDBoEZ3nLDqMNtmTG"
@@ -610,7 +632,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 97744,
       "name": "FOUR SEASONS",
       "url": "https://open.spotify.com/track/0YXBtZvPdUW55yxlvGkaCY"
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 213211,
       "name": "Street Opera (Swizz Beatz feat. SAINt JHN, Fivio Foreign & BIA)",
       "url": "https://open.spotify.com/track/7qYGNevCXJh3xOzmr3XvyK"

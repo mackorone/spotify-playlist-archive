@@ -1,275 +1,649 @@
 {
-  "2023-04-03": 502,
-  "2023-04-04": 513,
-  "2023-04-05": 520,
-  "2023-04-06": 527,
-  "2023-04-07": 535,
-  "2023-04-09": 549,
-  "2023-04-10": 557,
-  "2023-04-11": 568,
-  "2023-04-12": 568,
-  "2023-04-13": 575,
-  "2023-04-14": 582,
-  "2023-04-15": 601,
-  "2023-04-16": 607,
-  "2023-04-17": 611,
-  "2023-04-18": 616,
-  "2023-04-19": 622,
-  "2023-04-20": 630,
-  "2023-04-21": 638,
-  "2023-04-22": 643,
-  "2023-04-23": 655,
-  "2023-04-24": 665,
-  "2023-04-25": 677,
-  "2023-04-26": 682,
-  "2023-04-27": 687,
-  "2023-04-28": 694,
-  "2023-04-29": 704,
-  "2023-04-30": 711,
-  "2023-05-01": 716,
-  "2023-05-02": 727,
-  "2023-05-03": 737,
-  "2023-05-04": 744,
-  "2023-05-05": 751,
-  "2023-05-06": 756,
-  "2023-05-07": 760,
-  "2023-05-08": 764,
-  "2023-05-09": 775,
-  "2023-05-10": 784,
-  "2023-05-11": 791,
-  "2023-05-12": 804,
-  "2023-05-13": 814,
-  "2023-05-14": 816,
-  "2023-05-15": 819,
-  "2023-05-16": 821,
-  "2023-05-17": 827,
-  "2023-05-18": 833,
-  "2023-05-19": 838,
-  "2023-05-20": 848,
-  "2023-05-21": 848,
-  "2023-05-22": 848,
-  "2023-05-23": 857,
-  "2023-05-24": 863,
-  "2023-05-25": 864,
-  "2023-05-26": 872,
-  "2023-05-27": 874,
-  "2023-05-28": 883,
-  "2023-05-29": 883,
-  "2023-05-30": 889,
-  "2023-05-31": 889,
-  "2023-06-01": 896,
-  "2023-06-02": 903,
-  "2023-06-03": 907,
-  "2023-06-04": 914,
-  "2023-06-05": 918,
-  "2023-06-06": 922,
-  "2023-06-07": 930,
-  "2023-06-08": 939,
-  "2023-06-09": 943,
-  "2023-06-10": 950,
-  "2023-06-11": 958,
-  "2023-06-12": 962,
-  "2023-06-13": 970,
-  "2023-06-14": 979,
-  "2023-06-15": 991,
-  "2023-06-16": 999,
-  "2023-06-17": 1008,
-  "2023-06-18": 1017,
-  "2023-06-19": 1030,
-  "2023-06-20": 1031,
-  "2023-06-21": 1038,
-  "2023-06-22": 1047,
-  "2023-06-23": 1055,
-  "2023-06-24": 1059,
-  "2023-06-25": 1064,
-  "2023-06-26": 1067,
-  "2023-06-27": 1075,
-  "2023-06-28": 1082,
-  "2023-06-29": 1087,
-  "2023-06-30": 1092,
-  "2023-07-01": 1098,
-  "2023-07-02": 1098,
-  "2023-07-03": 1100,
-  "2023-07-04": 1104,
-  "2023-07-05": 1109,
-  "2023-07-06": 1117,
-  "2023-07-07": 1117,
-  "2023-07-08": 1121,
-  "2023-07-09": 1122,
-  "2023-07-10": 1124,
-  "2023-07-11": 1135,
-  "2023-07-12": 1137,
-  "2023-07-13": 1142,
-  "2023-07-14": 1145,
-  "2023-07-15": 1147,
-  "2023-07-16": 1155,
-  "2023-07-17": 1156,
-  "2023-07-18": 1166,
-  "2023-07-19": 1174,
-  "2023-07-20": 1179,
-  "2023-07-21": 1186,
-  "2023-07-22": 1195,
-  "2023-07-23": 1201,
-  "2023-07-24": 1204,
-  "2023-07-25": 1213,
-  "2023-07-26": 1215,
-  "2023-07-27": 1220,
-  "2023-07-28": 1226,
-  "2023-07-29": 1230,
-  "2023-07-30": 1234,
-  "2023-07-31": 1234,
-  "2023-08-01": 1249,
-  "2023-08-02": 1254,
-  "2023-08-03": 1266,
-  "2023-08-04": 1274,
-  "2023-08-05": 1283,
-  "2023-08-06": 1289,
-  "2023-08-07": 1289,
-  "2023-08-08": 1298,
-  "2023-08-09": 1311,
-  "2023-08-10": 1326,
-  "2023-08-11": 1328,
-  "2023-08-12": 1332,
-  "2023-08-13": 1332,
-  "2023-08-14": 1353,
-  "2023-08-15": 1361,
-  "2023-08-16": 1361,
-  "2023-08-17": 1364,
-  "2023-08-18": 1374,
-  "2023-08-19": 1376,
-  "2023-08-20": 1381,
-  "2023-08-21": 1383,
-  "2023-08-22": 1392,
-  "2023-08-23": 1401,
-  "2023-08-24": 1405,
-  "2023-08-25": 1411,
-  "2023-08-26": 1419,
-  "2023-08-27": 1421,
-  "2023-08-28": 1429,
-  "2023-08-29": 1434,
-  "2023-08-30": 1434,
-  "2023-08-31": 1445,
-  "2023-09-01": 1453,
-  "2023-09-02": 1453,
-  "2023-09-03": 1462,
-  "2023-09-04": 1462,
-  "2023-09-05": 1473,
-  "2023-09-06": 1482,
-  "2023-09-07": 1482,
-  "2023-09-08": 1482,
-  "2023-09-09": 1482,
-  "2023-09-10": 1508,
-  "2023-09-11": 1512,
-  "2023-09-12": 1512,
-  "2023-09-13": 1524,
-  "2023-09-14": 1524,
-  "2023-09-15": 1535,
-  "2023-09-16": 1542,
-  "2023-09-17": 1542,
-  "2023-09-18": 1542,
-  "2023-09-19": 1560,
-  "2023-09-20": 1562,
-  "2023-09-21": 1562,
-  "2023-09-22": 1578,
-  "2023-09-23": 1578,
-  "2023-09-24": 1578,
-  "2023-09-25": 1578,
-  "2023-09-26": 1613,
-  "2023-09-27": 1613,
-  "2023-09-28": 1613,
-  "2023-09-29": 1613,
-  "2023-09-30": 1613,
-  "2023-10-01": 1613,
-  "2023-10-02": 1652,
-  "2023-10-03": 1652,
-  "2023-10-04": 1652,
-  "2023-10-05": 1668,
-  "2023-10-06": 1671,
-  "2023-10-07": 1671,
-  "2023-10-08": 1671,
-  "2023-10-09": 1671,
-  "2023-10-10": 1671,
-  "2023-10-11": 1696,
-  "2023-10-12": 1696,
-  "2023-10-13": 1703,
-  "2023-10-14": 1703,
-  "2023-10-15": 1703,
-  "2023-10-16": 1703,
-  "2023-10-17": 1703,
-  "2023-10-18": 1703,
-  "2023-10-19": 1703,
-  "2023-10-20": 1703,
-  "2023-10-21": 1703,
-  "2023-10-22": 1703,
-  "2023-10-23": 1703,
-  "2023-10-24": 1703,
-  "2023-10-25": 1703,
-  "2023-10-26": 1703,
-  "2023-10-27": 1703,
-  "2023-10-28": 1703,
-  "2023-10-29": 1703,
-  "2023-10-30": 1703,
-  "2023-10-31": 1703,
-  "2023-11-01": 1703,
-  "2023-11-02": 1703,
-  "2023-11-03": 1703,
-  "2023-11-04": 1703,
-  "2023-11-05": 1703,
-  "2023-11-06": 1703,
-  "2023-11-07": 1703,
-  "2023-11-08": 1703,
-  "2023-11-09": 1703,
-  "2023-11-10": 1703,
-  "2023-11-11": 1871,
-  "2023-11-12": 1871,
-  "2023-11-13": 1871,
-  "2023-11-14": 1871,
-  "2023-11-15": 1871,
-  "2023-11-16": 1871,
-  "2023-11-17": 1871,
-  "2023-11-18": 1871,
-  "2023-11-19": 1871,
-  "2023-11-20": 1871,
-  "2023-11-21": 1871,
-  "2023-11-22": 1871,
-  "2023-11-23": 1871,
-  "2023-11-24": 1871,
-  "2023-11-25": 1871,
-  "2023-11-26": 1871,
-  "2023-11-27": 1871,
-  "2023-11-28": 1871,
-  "2023-11-29": 1871,
-  "2023-11-30": 1871,
-  "2023-12-01": 1871,
-  "2023-12-02": 1871,
-  "2023-12-03": 1871,
-  "2023-12-04": 1871,
-  "2023-12-05": 1871,
-  "2023-12-06": 1871,
-  "2023-12-07": 1871,
-  "2023-12-08": 1871,
-  "2023-12-09": 1871,
-  "2023-12-10": 1871,
-  "2023-12-11": 1871,
-  "2023-12-12": 1871,
-  "2023-12-13": 1871,
-  "2023-12-14": 2002,
-  "2023-12-15": 2003,
-  "2023-12-16": 2008,
-  "2023-12-17": 2010,
-  "2023-12-18": 2011,
-  "2023-12-19": 2017,
-  "2023-12-20": 2021,
-  "2023-12-21": 2025,
-  "2023-12-22": 2029,
-  "2023-12-23": 2032,
-  "2023-12-24": 2033,
-  "2023-12-25": 2040,
-  "2023-12-26": 2044,
-  "2023-12-27": 2047,
-  "2023-12-30": 2064,
-  "2023-12-31": 2069,
-  "2024-01-01": 2073,
-  "2024-01-02": 2073,
-  "2024-01-03": 2077
+  "2024-01-17": 2143,
+  "date_first_scraped": "2023-04-03",
+  "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
+  "name": "This Is Micah Tyler",
+  "tracks": [
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "By Name",
+      "url": "https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB"
+    },
+    {
+      "album": {
+        "name": "God Bless the Broken Road",
+        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132240,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
+    },
+    {
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Comeback Song",
+      "url": "https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
+    },
+    {
+      "album": {
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "Feels Like Music",
+      "url": "https://open.spotify.com/track/6f6zDuRAt24focp2VMx0Pe"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Phil King",
+          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166623,
+      "name": "Headed for the Mountain (feat. Phil King)",
+      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+    },
+    {
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 204560,
+      "name": "If She Only Knew",
+      "url": "https://open.spotify.com/track/5l14L8mxpCQKA0cHYJowHt"
+    },
+    {
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184911,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 246688,
+      "name": "It's Raining, It's Pouring",
+      "url": "https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Last",
+      "url": "https://open.spotify.com/track/0rQO8MvUIpnbCQeNJlU7xz"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191653,
+      "name": "Love Lifted Me Up",
+      "url": "https://open.spotify.com/track/1eleJrs2gUPqDpSRKCfXF3"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242508,
+      "name": "Mighty to Love",
+      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
+    },
+    {
+      "album": {
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Never Been a Moment",
+      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "New Today",
+      "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
+    },
+    {
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214656,
+      "name": "Nothing Too Broken",
+      "url": "https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR"
+    },
+    {
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/2ZNuPqF1V2zlqdM1qh7dyJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225784,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/39pQLthr7p9e4CQsN5fP18"
+    },
+    {
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+    },
+    {
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259159,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+    },
+    {
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241998,
+      "name": "Southern Soul",
+      "url": "https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu"
+    },
+    {
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200829,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229343,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Walking Free",
+      "url": "https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7"
+    },
+    {
+      "album": {
+        "name": "The Emerging Sound, Vol. 3",
+        "url": "https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP"
+      },
+      "artists": [
+        {
+          "name": "People & Songs",
+          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+        },
+        {
+          "name": "Crystal Yates",
+          "url": "https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ"
+        },
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Joshua Sherman",
+          "url": "https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248984,
+      "name": "What Mercy Did for Me (feat. Crystal Yates, Micah Tyler & Joshua Sherman)",
+      "url": "https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr"
+    },
+    {
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        },
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "What Mercy Did For Me (feat. Maranda Curtis & Jason Crabb)",
+      "url": "https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8"
+    },
+    {
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374700,
+      "name": "Wretch No More",
+      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
+    },
+    {
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223883,
+      "name": "You Make Sense",
+      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYvnfr"
 }

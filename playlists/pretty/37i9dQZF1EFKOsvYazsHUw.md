@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 17 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
 | 18 | [Back To Life](https://open.spotify.com/track/1aych0BKUxtJkqh8SJUEjq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:42 |
 | 19 | [Back & Forth \(feat\. Vince Staples\)](https://open.spotify.com/track/4g9pJvaoIVrj89XWQ6HRqr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:22 |
-| 20 | [Darling](https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
-| 21 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
+| 20 | [who knew \- from Grown\-ish](https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [who knew \(from Grown\-ish\)](https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0) | 3:22 |
+| 21 | [Darling](https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 22 | [Not Worth It](https://open.spotify.com/track/0eSx5b1VuqB8ncSmXdhCpV) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:06 |
 | 23 | [Murder She Wrote](https://open.spotify.com/track/5Vg4FhZIbx6z9wPHBlkG4h) | [Brian Puspos](https://open.spotify.com/artist/6b7899n8Uz21dTYrABfFEO) | [Murder She Wrote](https://open.spotify.com/album/6bWg6jalDjYDpabESVxM8F) | 3:11 |
 | 24 | [Acting Like That](https://open.spotify.com/track/5ThJ3Q0IItsQkQCDJuIzxe) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:17 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 31 | [Focus](https://open.spotify.com/track/4rJdWYYtB15dqizbumex4a) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:47 |
 | 32 | [So Good](https://open.spotify.com/track/2IqXs6lr8O1laApnGoBHGY) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:45 |
 | 33 | [Stranger](https://open.spotify.com/track/3PxTsBlC26KCv3pbsgeZsb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:48 |
-| 34 | [Find Myself](https://open.spotify.com/track/3wyv3pKlVxP7dmUgIrQOU9) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:32 |
-| 35 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 |
+| 34 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 |
+| 35 | [Find Myself](https://open.spotify.com/track/3wyv3pKlVxP7dmUgIrQOU9) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:32 |
 | 36 | [Eventually](https://open.spotify.com/track/1hN2dpIJ7HzyBvyImnt21L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:43 |
 | 37 | [Yalla Habibi](https://open.spotify.com/track/5bh1nrFgPrF37UTFUqNF2K) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Rime](https://open.spotify.com/artist/6dzxyLQVwvrXYxhgX24PUY), [Kaz Money](https://open.spotify.com/artist/6FzGg6vAs0WklxyplF8jbn) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 3:20 |
 | 38 | [Stronger](https://open.spotify.com/track/1nuxaVFCgDnqYHGVr4AglT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:00 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 77 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 78 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDBkOGU3MTFjYzExMjYwZjg5YjZjZWI4NzRkNDM2NTdmZg==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDBkNDQ3NDdmNjQ2MjZmOGM1NTU4OTBmMDIzNTM0NjFhZg==`

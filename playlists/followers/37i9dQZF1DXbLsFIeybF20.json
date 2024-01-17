@@ -1,735 +1,1523 @@
 {
-  "2021-12-25": 134298,
-  "2021-12-26": 134306,
-  "2021-12-27": 134336,
-  "2021-12-28": 134336,
-  "2021-12-29": 134353,
-  "2021-12-30": 134370,
-  "2021-12-31": 134386,
-  "2022-01-01": 134424,
-  "2022-01-02": 134425,
-  "2022-01-03": 134433,
-  "2022-01-04": 134452,
-  "2022-01-05": 134455,
-  "2022-01-06": 134463,
-  "2022-01-07": 134482,
-  "2022-01-08": 134522,
-  "2022-01-09": 134521,
-  "2022-01-10": 134550,
-  "2022-01-11": 134563,
-  "2022-01-12": 134575,
-  "2022-01-13": 134606,
-  "2022-01-14": 134632,
-  "2022-01-15": 134679,
-  "2022-01-16": 134678,
-  "2022-01-17": 134712,
-  "2022-01-18": 134713,
-  "2022-01-19": 134723,
-  "2022-01-20": 134738,
-  "2022-01-21": 134759,
-  "2022-01-22": 134781,
-  "2022-01-23": 134792,
-  "2022-01-24": 134807,
-  "2022-01-25": 134822,
-  "2022-01-26": 134849,
-  "2022-01-27": 134870,
-  "2022-01-28": 134881,
-  "2022-01-29": 134891,
-  "2022-01-30": 134920,
-  "2022-01-31": 134943,
-  "2022-02-01": 134965,
-  "2022-02-02": 134975,
-  "2022-02-03": 134992,
-  "2022-02-04": 135008,
-  "2022-02-05": 135023,
-  "2022-02-06": 135052,
-  "2022-02-07": 135091,
-  "2022-02-08": 135103,
-  "2022-02-09": 135123,
-  "2022-02-10": 135137,
-  "2022-02-11": 135163,
-  "2022-02-12": 135190,
-  "2022-02-13": 135218,
-  "2022-02-14": 135239,
-  "2022-02-15": 135236,
-  "2022-02-16": 135234,
-  "2022-02-17": 135225,
-  "2022-02-18": 135239,
-  "2022-02-19": 135248,
-  "2022-02-20": 135252,
-  "2022-02-21": 135265,
-  "2022-02-22": 135283,
-  "2022-02-23": 135303,
-  "2022-02-24": 135318,
-  "2022-02-25": 135343,
-  "2022-02-26": 135360,
-  "2022-02-27": 135418,
-  "2022-02-28": 135418,
-  "2022-03-01": 135452,
-  "2022-03-02": 135548,
-  "2022-03-03": 135580,
-  "2022-03-04": 135592,
-  "2022-03-05": 135626,
-  "2022-03-06": 135638,
-  "2022-03-07": 135663,
-  "2022-03-08": 135686,
-  "2022-03-09": 135696,
-  "2022-03-10": 135718,
-  "2022-03-11": 135734,
-  "2022-03-12": 135751,
-  "2022-03-13": 135765,
-  "2022-03-14": 135784,
-  "2022-03-15": 135800,
-  "2022-03-16": 135808,
-  "2022-03-17": 135812,
-  "2022-03-18": 135822,
-  "2022-03-19": 135829,
-  "2022-03-20": 135829,
-  "2022-03-21": 135859,
-  "2022-03-22": 135860,
-  "2022-03-23": 135869,
-  "2022-03-24": 135886,
-  "2022-03-25": 135905,
-  "2022-03-26": 135919,
-  "2022-03-27": 135934,
-  "2022-03-28": 135946,
-  "2022-03-30": 135960,
-  "2022-03-31": 135986,
-  "2022-04-01": 136009,
-  "2022-04-02": 136021,
-  "2022-04-03": 136041,
-  "2022-04-04": 136056,
-  "2022-04-05": 136084,
-  "2022-04-06": 136100,
-  "2022-04-07": 136114,
-  "2022-04-08": 136133,
-  "2022-04-09": 136145,
-  "2022-04-10": 136184,
-  "2022-04-11": 136194,
-  "2022-04-12": 136195,
-  "2022-04-13": 136220,
-  "2022-04-14": 136230,
-  "2022-04-15": 136255,
-  "2022-04-16": 136272,
-  "2022-04-17": 136284,
-  "2022-04-18": 136306,
-  "2022-04-19": 136323,
-  "2022-04-20": 136339,
-  "2022-04-21": 136358,
-  "2022-04-22": 136381,
-  "2022-04-23": 136399,
-  "2022-04-24": 136411,
-  "2022-04-25": 136427,
-  "2022-04-26": 136443,
-  "2022-04-27": 136464,
-  "2022-04-28": 136481,
-  "2022-04-29": 136491,
-  "2022-04-30": 136519,
-  "2022-05-01": 136530,
-  "2022-05-02": 136530,
-  "2022-05-03": 136552,
-  "2022-05-04": 136563,
-  "2022-05-05": 136576,
-  "2022-05-06": 136590,
-  "2022-05-07": 136619,
-  "2022-05-08": 136643,
-  "2022-05-09": 136642,
-  "2022-05-10": 136656,
-  "2022-05-11": 136670,
-  "2022-05-12": 136686,
-  "2022-05-13": 136701,
-  "2022-05-14": 136715,
-  "2022-05-15": 136731,
-  "2022-05-16": 136746,
-  "2022-05-17": 136761,
-  "2022-05-18": 136779,
-  "2022-05-19": 136800,
-  "2022-05-20": 136813,
-  "2022-05-21": 136832,
-  "2022-05-22": 136832,
-  "2022-05-23": 136846,
-  "2022-05-24": 136851,
-  "2022-05-25": 136867,
-  "2022-05-26": 136876,
-  "2022-05-27": 136885,
-  "2022-05-28": 136905,
-  "2022-05-29": 136931,
-  "2022-05-30": 136939,
-  "2022-05-31": 136951,
-  "2022-06-01": 136982,
-  "2022-06-02": 136983,
-  "2022-06-03": 136991,
-  "2022-06-04": 137006,
-  "2022-06-05": 137023,
-  "2022-06-06": 137041,
-  "2022-06-07": 137059,
-  "2022-06-08": 137081,
-  "2022-06-09": 137092,
-  "2022-06-10": 137111,
-  "2022-06-11": 137119,
-  "2022-06-12": 137145,
-  "2022-06-13": 137161,
-  "2022-06-14": 137180,
-  "2022-06-15": 137187,
-  "2022-06-16": 137205,
-  "2022-06-17": 137221,
-  "2022-06-18": 137221,
-  "2022-06-19": 137255,
-  "2022-06-20": 137255,
-  "2022-06-21": 137277,
-  "2022-06-22": 137303,
-  "2022-06-23": 137303,
-  "2022-06-24": 137313,
-  "2022-06-25": 137323,
-  "2022-06-26": 137336,
-  "2022-06-27": 137359,
-  "2022-06-28": 137375,
-  "2022-06-29": 137391,
-  "2022-06-30": 137401,
-  "2022-07-01": 137413,
-  "2022-07-02": 137426,
-  "2022-07-03": 137441,
-  "2022-07-04": 137459,
-  "2022-07-05": 137477,
-  "2022-07-06": 137480,
-  "2022-07-07": 137492,
-  "2022-07-08": 137514,
-  "2022-07-09": 137526,
-  "2022-07-10": 137545,
-  "2022-07-11": 137569,
-  "2022-07-12": 137574,
-  "2022-07-13": 137589,
-  "2022-07-14": 137599,
-  "2022-07-15": 137613,
-  "2022-07-16": 137632,
-  "2022-07-17": 137661,
-  "2022-07-18": 137679,
-  "2022-07-19": 137707,
-  "2022-07-20": 137716,
-  "2022-07-21": 137723,
-  "2022-07-22": 137732,
-  "2022-07-23": 137750,
-  "2022-07-24": 137764,
-  "2022-07-25": 137778,
-  "2022-07-26": 137796,
-  "2022-07-27": 137811,
-  "2022-07-28": 137835,
-  "2022-07-29": 137853,
-  "2022-07-30": 137902,
-  "2022-07-31": 137902,
-  "2022-08-01": 137923,
-  "2022-08-02": 137943,
-  "2022-08-03": 137943,
-  "2022-08-04": 137959,
-  "2022-08-05": 137970,
-  "2022-08-06": 137989,
-  "2022-08-07": 138012,
-  "2022-08-08": 138038,
-  "2022-08-09": 138055,
-  "2022-08-10": 138069,
-  "2022-08-11": 138081,
-  "2022-08-12": 138110,
-  "2022-08-13": 138105,
-  "2022-08-14": 138121,
-  "2022-08-15": 138144,
-  "2022-08-16": 138155,
-  "2022-08-17": 138175,
-  "2022-08-18": 138183,
-  "2022-08-19": 138187,
-  "2022-08-20": 138208,
-  "2022-08-21": 138225,
-  "2022-08-22": 138238,
-  "2022-08-23": 138258,
-  "2022-08-24": 138293,
-  "2022-08-25": 138304,
-  "2022-08-26": 138325,
-  "2022-08-27": 138354,
-  "2022-08-28": 138382,
-  "2022-08-29": 138398,
-  "2022-08-30": 138403,
-  "2022-08-31": 138409,
-  "2022-09-01": 138421,
-  "2022-09-02": 138429,
-  "2022-09-03": 138429,
-  "2022-09-04": 138456,
-  "2022-09-05": 138479,
-  "2022-09-06": 138504,
-  "2022-09-07": 138521,
-  "2022-09-09": 138545,
-  "2022-09-10": 138559,
-  "2022-09-11": 138585,
-  "2022-09-12": 138603,
-  "2022-09-13": 138615,
-  "2022-09-15": 138629,
-  "2022-09-16": 138641,
-  "2022-09-17": 138647,
-  "2022-09-18": 138657,
-  "2022-09-19": 138682,
-  "2022-09-20": 138697,
-  "2022-09-21": 138712,
-  "2022-09-22": 138716,
-  "2022-09-23": 138733,
-  "2022-09-24": 138759,
-  "2022-09-25": 138786,
-  "2022-09-26": 138796,
-  "2022-09-27": 138810,
-  "2022-09-28": 138833,
-  "2022-09-29": 138842,
-  "2022-09-30": 138861,
-  "2022-10-01": 138876,
-  "2022-10-02": 138903,
-  "2022-10-03": 138909,
-  "2022-10-04": 138933,
-  "2022-10-05": 138948,
-  "2022-10-06": 138962,
-  "2022-10-07": 138976,
-  "2022-10-08": 138990,
-  "2022-10-09": 139034,
-  "2022-10-10": 139035,
-  "2022-10-11": 139059,
-  "2022-10-12": 139072,
-  "2022-10-13": 139093,
-  "2022-10-14": 139108,
-  "2022-10-15": 139134,
-  "2022-10-16": 139151,
-  "2022-10-17": 139172,
-  "2022-10-18": 139194,
-  "2022-10-19": 139212,
-  "2022-10-20": 139230,
-  "2022-10-21": 139249,
-  "2022-10-22": 139261,
-  "2022-10-23": 139272,
-  "2022-10-24": 139288,
-  "2022-10-25": 139316,
-  "2022-10-26": 139328,
-  "2022-10-27": 139338,
-  "2022-10-28": 139354,
-  "2022-10-29": 139368,
-  "2022-10-30": 139376,
-  "2022-10-31": 139396,
-  "2022-11-01": 139407,
-  "2022-11-02": 139417,
-  "2022-11-03": 139437,
-  "2022-11-04": 139462,
-  "2022-11-05": 139483,
-  "2022-11-06": 139495,
-  "2022-11-07": 139513,
-  "2022-11-08": 139536,
-  "2022-11-09": 139543,
-  "2022-11-10": 139561,
-  "2022-11-11": 139574,
-  "2022-11-12": 139597,
-  "2022-11-13": 139611,
-  "2022-11-14": 139633,
-  "2022-11-15": 139640,
-  "2022-11-16": 139651,
-  "2022-11-17": 139681,
-  "2022-11-18": 139678,
-  "2022-11-19": 139676,
-  "2022-11-20": 139687,
-  "2022-11-21": 139696,
-  "2022-11-22": 139711,
-  "2022-11-23": 139726,
-  "2022-11-24": 139767,
-  "2022-11-25": 139808,
-  "2022-11-26": 139837,
-  "2022-11-27": 139855,
-  "2022-11-28": 139866,
-  "2022-11-29": 139879,
-  "2022-11-30": 139909,
-  "2022-12-01": 139931,
-  "2022-12-02": 139932,
-  "2022-12-03": 139955,
-  "2022-12-04": 139984,
-  "2022-12-05": 140009,
-  "2022-12-06": 140028,
-  "2022-12-07": 140048,
-  "2022-12-08": 140050,
-  "2022-12-09": 140076,
-  "2022-12-10": 140084,
-  "2022-12-11": 140104,
-  "2022-12-12": 140117,
-  "2022-12-13": 140133,
-  "2022-12-14": 140160,
-  "2022-12-15": 140180,
-  "2022-12-16": 140188,
-  "2022-12-17": 140217,
-  "2022-12-18": 140228,
-  "2022-12-19": 140239,
-  "2022-12-20": 140267,
-  "2022-12-21": 140267,
-  "2022-12-22": 140280,
-  "2022-12-24": 140326,
-  "2022-12-25": 140347,
-  "2022-12-26": 140369,
-  "2022-12-27": 140384,
-  "2022-12-28": 140399,
-  "2022-12-29": 140412,
-  "2022-12-30": 140431,
-  "2022-12-31": 140443,
-  "2023-01-01": 140449,
-  "2023-01-02": 140470,
-  "2023-01-03": 140481,
-  "2023-01-04": 140493,
-  "2023-01-05": 140498,
-  "2023-01-06": 140530,
-  "2023-01-07": 140558,
-  "2023-01-08": 140555,
-  "2023-01-09": 140585,
-  "2023-01-10": 140601,
-  "2023-01-11": 140622,
-  "2023-01-12": 140644,
-  "2023-01-13": 140661,
-  "2023-01-14": 140704,
-  "2023-01-15": 140712,
-  "2023-01-16": 140750,
-  "2023-01-17": 140769,
-  "2023-01-18": 140782,
-  "2023-01-19": 140807,
-  "2023-01-20": 140836,
-  "2023-01-21": 140854,
-  "2023-01-22": 140880,
-  "2023-01-23": 140904,
-  "2023-01-24": 140922,
-  "2023-01-25": 140943,
-  "2023-01-26": 140960,
-  "2023-01-27": 140975,
-  "2023-01-28": 141006,
-  "2023-01-29": 141030,
-  "2023-01-30": 141044,
-  "2023-01-31": 141044,
-  "2023-02-01": 141090,
-  "2023-02-02": 141105,
-  "2023-02-03": 141131,
-  "2023-02-04": 141163,
-  "2023-02-05": 141189,
-  "2023-02-06": 141218,
-  "2023-02-07": 141225,
-  "2023-02-08": 141258,
-  "2023-02-09": 141258,
-  "2023-02-10": 141279,
-  "2023-02-11": 141297,
-  "2023-02-12": 141333,
-  "2023-02-13": 141340,
-  "2023-02-14": 141340,
-  "2023-02-15": 141341,
-  "2023-02-16": 141341,
-  "2023-02-17": 141351,
-  "2023-02-18": 141362,
-  "2023-02-19": 141363,
-  "2023-02-20": 141367,
-  "2023-02-21": 141370,
-  "2023-02-22": 141387,
-  "2023-02-23": 141390,
-  "2023-02-24": 141393,
-  "2023-02-25": 141390,
-  "2023-02-26": 141397,
-  "2023-02-27": 141388,
-  "2023-02-28": 141388,
-  "2023-03-01": 141395,
-  "2023-03-02": 141395,
-  "2023-03-03": 141398,
-  "2023-03-04": 141403,
-  "2023-03-05": 141412,
-  "2023-03-06": 141412,
-  "2023-03-07": 141409,
-  "2023-03-08": 141405,
-  "2023-03-09": 141396,
-  "2023-03-10": 141395,
-  "2023-03-11": 141395,
-  "2023-03-12": 141396,
-  "2023-03-13": 141405,
-  "2023-03-14": 141406,
-  "2023-03-15": 141402,
-  "2023-03-16": 141398,
-  "2023-03-17": 141398,
-  "2023-03-18": 141399,
-  "2023-03-19": 141393,
-  "2023-03-20": 141388,
-  "2023-03-21": 141378,
-  "2023-03-22": 141375,
-  "2023-03-23": 141369,
-  "2023-03-24": 141369,
-  "2023-03-25": 141380,
-  "2023-03-26": 141387,
-  "2023-03-27": 141387,
-  "2023-03-28": 141373,
-  "2023-03-29": 141371,
-  "2023-03-30": 141380,
-  "2023-03-31": 141380,
-  "2023-04-01": 141384,
-  "2023-04-02": 141383,
-  "2023-04-03": 141387,
-  "2023-04-04": 141387,
-  "2023-04-05": 141384,
-  "2023-04-06": 141378,
-  "2023-04-07": 141378,
-  "2023-04-09": 141383,
-  "2023-04-10": 141383,
-  "2023-04-11": 141373,
-  "2023-04-12": 141373,
-  "2023-04-13": 141373,
-  "2023-04-14": 141373,
-  "2023-04-15": 141373,
-  "2023-04-16": 141376,
-  "2023-04-17": 141378,
-  "2023-04-18": 141384,
-  "2023-04-19": 141385,
-  "2023-04-20": 141388,
-  "2023-04-21": 141391,
-  "2023-04-22": 141395,
-  "2023-04-23": 141397,
-  "2023-04-24": 141397,
-  "2023-04-25": 141398,
-  "2023-04-26": 141405,
-  "2023-04-27": 141400,
-  "2023-04-28": 141394,
-  "2023-04-29": 141393,
-  "2023-04-30": 141404,
-  "2023-05-01": 141401,
-  "2023-05-02": 141400,
-  "2023-05-03": 141402,
-  "2023-05-04": 141406,
-  "2023-05-05": 141405,
-  "2023-05-06": 141412,
-  "2023-05-07": 141426,
-  "2023-05-08": 141431,
-  "2023-05-09": 141428,
-  "2023-05-10": 141442,
-  "2023-05-11": 141441,
-  "2023-05-12": 141436,
-  "2023-05-13": 141438,
-  "2023-05-14": 141437,
-  "2023-05-15": 141443,
-  "2023-05-16": 141449,
-  "2023-05-17": 141450,
-  "2023-05-18": 141452,
-  "2023-05-19": 141455,
-  "2023-05-20": 141462,
-  "2023-05-21": 141462,
-  "2023-05-22": 141462,
-  "2023-05-23": 141468,
-  "2023-05-24": 141465,
-  "2023-05-25": 141467,
-  "2023-05-26": 141477,
-  "2023-05-27": 141474,
-  "2023-05-28": 141488,
-  "2023-05-29": 141488,
-  "2023-05-30": 141489,
-  "2023-05-31": 141498,
-  "2023-06-01": 141500,
-  "2023-06-02": 141494,
-  "2023-06-03": 141493,
-  "2023-06-04": 141490,
-  "2023-06-05": 141503,
-  "2023-06-06": 141503,
-  "2023-06-07": 141494,
-  "2023-06-08": 141504,
-  "2023-06-09": 141508,
-  "2023-06-10": 141515,
-  "2023-06-11": 141519,
-  "2023-06-12": 141526,
-  "2023-06-13": 141525,
-  "2023-06-14": 141521,
-  "2023-06-15": 141518,
-  "2023-06-16": 141513,
-  "2023-06-17": 141515,
-  "2023-06-18": 141519,
-  "2023-06-19": 141527,
-  "2023-06-20": 141522,
-  "2023-06-21": 141510,
-  "2023-06-22": 141514,
-  "2023-06-23": 141520,
-  "2023-06-24": 141511,
-  "2023-06-25": 141509,
-  "2023-06-26": 141512,
-  "2023-06-27": 141513,
-  "2023-06-28": 141520,
-  "2023-06-29": 141518,
-  "2023-06-30": 141519,
-  "2023-07-01": 141513,
-  "2023-07-02": 141513,
-  "2023-07-03": 141519,
-  "2023-07-04": 141526,
-  "2023-07-05": 141532,
-  "2023-07-06": 141537,
-  "2023-07-07": 141537,
-  "2023-07-08": 141536,
-  "2023-07-09": 141534,
-  "2023-07-10": 141542,
-  "2023-07-11": 141544,
-  "2023-07-12": 141541,
-  "2023-07-13": 141543,
-  "2023-07-14": 141544,
-  "2023-07-15": 141547,
-  "2023-07-16": 141546,
-  "2023-07-17": 141545,
-  "2023-07-18": 141544,
-  "2023-07-19": 141544,
-  "2023-07-20": 141551,
-  "2023-07-21": 141556,
-  "2023-07-22": 141559,
-  "2023-07-23": 141559,
-  "2023-07-24": 141568,
-  "2023-07-25": 141573,
-  "2023-07-26": 141579,
-  "2023-07-27": 141578,
-  "2023-07-28": 141582,
-  "2023-07-29": 141585,
-  "2023-07-30": 141590,
-  "2023-07-31": 141593,
-  "2023-08-01": 141584,
-  "2023-08-02": 141587,
-  "2023-08-03": 141596,
-  "2023-08-04": 141598,
-  "2023-08-05": 141598,
-  "2023-08-06": 141609,
-  "2023-08-07": 141609,
-  "2023-08-08": 141600,
-  "2023-08-09": 141599,
-  "2023-08-10": 141597,
-  "2023-08-11": 141594,
-  "2023-08-12": 141603,
-  "2023-08-13": 141602,
-  "2023-08-14": 141593,
-  "2023-08-15": 141589,
-  "2023-08-16": 141589,
-  "2023-08-17": 141593,
-  "2023-08-18": 141595,
-  "2023-08-19": 141598,
-  "2023-08-20": 141598,
-  "2023-08-21": 141601,
-  "2023-08-22": 141600,
-  "2023-08-23": 141594,
-  "2023-08-24": 141586,
-  "2023-08-25": 141588,
-  "2023-08-26": 141591,
-  "2023-08-27": 141598,
-  "2023-08-28": 141589,
-  "2023-08-29": 141588,
-  "2023-08-30": 141587,
-  "2023-08-31": 141592,
-  "2023-09-01": 141592,
-  "2023-09-02": 141592,
-  "2023-09-03": 141589,
-  "2023-09-04": 141593,
-  "2023-09-05": 141600,
-  "2023-09-06": 141597,
-  "2023-09-07": 141596,
-  "2023-09-08": 141592,
-  "2023-09-09": 141597,
-  "2023-09-10": 141591,
-  "2023-09-11": 141587,
-  "2023-09-12": 141584,
-  "2023-09-13": 141585,
-  "2023-09-14": 141577,
-  "2023-09-15": 141574,
-  "2023-09-16": 141574,
-  "2023-09-17": 141583,
-  "2023-09-18": 141580,
-  "2023-09-19": 141581,
-  "2023-09-20": 141580,
-  "2023-09-21": 141577,
-  "2023-09-22": 141580,
-  "2023-09-23": 141586,
-  "2023-09-24": 141588,
-  "2023-09-25": 141595,
-  "2023-09-26": 141589,
-  "2023-09-27": 141588,
-  "2023-09-28": 141588,
-  "2023-09-29": 141583,
-  "2023-09-30": 141581,
-  "2023-10-01": 141580,
-  "2023-10-02": 141577,
-  "2023-10-03": 141577,
-  "2023-10-04": 141572,
-  "2023-10-05": 141566,
-  "2023-10-06": 141562,
-  "2023-10-07": 141561,
-  "2023-10-08": 141560,
-  "2023-10-09": 141562,
-  "2023-10-10": 141491,
-  "2023-10-11": 141417,
-  "2023-10-12": 141417,
-  "2023-10-13": 141356,
-  "2023-10-14": 141356,
-  "2023-10-15": 141356,
-  "2023-10-16": 141280,
-  "2023-10-17": 141280,
-  "2023-10-18": 141270,
-  "2023-10-19": 141265,
-  "2023-10-20": 141265,
-  "2023-10-21": 141265,
-  "2023-10-22": 141265,
-  "2023-10-23": 141253,
-  "2023-10-24": 141250,
-  "2023-10-25": 141250,
-  "2023-10-26": 141250,
-  "2023-10-27": 141241,
-  "2023-10-28": 141241,
-  "2023-10-29": 141241,
-  "2023-10-30": 141230,
-  "2023-10-31": 141230,
-  "2023-11-01": 141217,
-  "2023-11-02": 141214,
-  "2023-11-03": 141217,
-  "2023-11-04": 141217,
-  "2023-11-05": 141217,
-  "2023-11-06": 141217,
-  "2023-11-07": 141217,
-  "2023-11-08": 141217,
-  "2023-11-09": 141217,
-  "2023-11-10": 141180,
-  "2023-11-11": 141177,
-  "2023-11-12": 141173,
-  "2023-11-13": 141173,
-  "2023-11-14": 141173,
-  "2023-11-15": 141173,
-  "2023-11-16": 141173,
-  "2023-11-17": 141144,
-  "2023-11-18": 141144,
-  "2023-11-19": 141144,
-  "2023-11-20": 141144,
-  "2023-11-21": 141132,
-  "2023-11-22": 141135,
-  "2023-11-23": 141134,
-  "2023-11-24": 141134,
-  "2023-11-25": 141138,
-  "2023-11-26": 141138,
-  "2023-11-27": 141138,
-  "2023-11-28": 141138,
-  "2023-11-29": 141138,
-  "2023-11-30": 141138,
-  "2023-12-01": 141138,
-  "2023-12-02": 141138,
-  "2023-12-03": 141138,
-  "2023-12-04": 141138,
-  "2023-12-05": 141138,
-  "2023-12-06": 141138,
-  "2023-12-07": 141138,
-  "2023-12-08": 141138,
-  "2023-12-09": 141072,
-  "2023-12-10": 141072,
-  "2023-12-11": 141064,
-  "2023-12-12": 141064,
-  "2023-12-13": 141051,
-  "2023-12-14": 141045,
-  "2023-12-15": 141046,
-  "2023-12-16": 141048,
-  "2023-12-17": 141048,
-  "2023-12-18": 141040,
-  "2023-12-19": 141035,
-  "2023-12-20": 141031,
-  "2023-12-21": 141027,
-  "2023-12-22": 141024,
-  "2023-12-23": 141024,
-  "2023-12-24": 141022,
-  "2023-12-25": 141018,
-  "2023-12-26": 141014,
-  "2023-12-27": 141010,
-  "2023-12-30": 140994,
-  "2023-12-31": 140988,
-  "2024-01-01": 140981,
-  "2024-01-02": 140973,
-  "2024-01-03": 140971
+  "2024-01-17": 140570,
+  "date_first_scraped": "2021-12-21",
+  "description": "Get into the spirit of New Orleans. Cover: Wynton Marsalis",
+  "name": "New Orleans Brass",
+  "tracks": [
+    {
+      "album": {
+        "name": "Masters of Classic Jazz: Dixieland",
+        "url": "https://open.spotify.com/album/6IEivXDSrmGlTaof4khaSc"
+      },
+      "artists": [
+        {
+          "name": "Bunk Johnson",
+          "url": "https://open.spotify.com/artist/4HGHKAXQPnK1YyzGmIFkrp"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Ballin\u2019 the Jack",
+      "url": "https://open.spotify.com/track/4YDnwykuaJDwmI5L3Fk8vW"
+    },
+    {
+      "album": {
+        "name": "Sounds Of New Orleans",
+        "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
+      },
+      "artists": [
+        {
+          "name": "Albert Burbank",
+          "url": "https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk"
+        },
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151453,
+      "name": "Bill Bailey",
+      "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+    },
+    {
+      "album": {
+        "name": "Jazz King Of New Orleans",
+        "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Black Bottom Stomp - 2002 Remastered",
+      "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "album": {
+        "name": "New Orleans Jazz Collection - French Quarter Favorites",
+        "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154825,
+      "name": "Bourbon Street Parade",
+      "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
+    },
+    {
+      "album": {
+        "name": "Our New Orleans",
+        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218986,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/08LDssCZG0BANHGtfXuy0O"
+    },
+    {
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "album": {
+        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
+        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+      },
+      "artists": [
+        {
+          "name": "George Lewis",
+          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 219666,
+      "name": "Careless Love",
+      "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+    },
+    {
+      "album": {
+        "name": "Chasing Birds (Preservation Hall Jazz Band Re-Version)",
+        "url": "https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 218702,
+      "name": "Chasing Birds - Preservation Hall Jazz Band Re-Version",
+      "url": "https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI"
+    },
+    {
+      "album": {
+        "name": "Narvin Kimball & Friends",
+        "url": "https://open.spotify.com/album/09RgsKCgcTflKa3BSUb28v"
+      },
+      "artists": [
+        {
+          "name": "Narvin Kimball",
+          "url": "https://open.spotify.com/artist/0P7taret1PsUMeLPmY9QsK"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+        },
+        {
+          "name": "David Grillier",
+          "url": "https://open.spotify.com/artist/0V80a4D2OEkrqxMbqr8p3S"
+        },
+        {
+          "name": "Frank Demond",
+          "url": "https://open.spotify.com/artist/5y8H4DEJbuqtQjv5Pd97pJ"
+        },
+        {
+          "name": "James Prevost",
+          "url": "https://open.spotify.com/artist/094VPI3YTKcl4uc5u2Jgrt"
+        },
+        {
+          "name": "Joe Lastie",
+          "url": "https://open.spotify.com/artist/3pJ1UarwRjBjrwKpZO98zt"
+        },
+        {
+          "name": "Lars Edegran",
+          "url": "https://open.spotify.com/artist/3wN28VKm70NmgkLGXYMvvc"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381960,
+      "name": "Clarinet Marmalade",
+      "url": "https://open.spotify.com/track/4VkDLtYQqgL7y54RPfb6hq"
+    },
+    {
+      "album": {
+        "name": "My Feet Can't Fail Me Now",
+        "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312640,
+      "name": "Do It Fluid",
+      "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
+    },
+    {
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "Do Whatcha Wanna",
+      "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
+    },
+    {
+      "album": {
+        "name": "The Great Chicago Concert 1956 - Complete",
+        "url": "https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306906,
+      "name": "Do You Know What It Means to Miss New Orleans - Live",
+      "url": "https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD"
+    },
+    {
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "album": {
+        "name": "The Sheik of Araby",
+        "url": "https://open.spotify.com/album/1KMFnmvtbtx6ZElipw5fBc"
+      },
+      "artists": [
+        {
+          "name": "George 'Kid Sheik' Cola",
+          "url": "https://open.spotify.com/artist/0QT5nK2NhypP144yooqttQ"
+        },
+        {
+          "name": "Louis Nelson",
+          "url": "https://open.spotify.com/artist/1UdP3fueeLvs7MASnJcaVR"
+        },
+        {
+          "name": "Clarence Ford",
+          "url": "https://open.spotify.com/artist/6my0cbStLrvXWuO56PsdxS"
+        },
+        {
+          "name": "Jeanette Kimball",
+          "url": "https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD"
+        },
+        {
+          "name": "Les Muscutt",
+          "url": "https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7"
+        },
+        {
+          "name": "Stewart Davis",
+          "url": "https://open.spotify.com/artist/4tNsyPoW2LMYivqg5rkMSI"
+        },
+        {
+          "name": "Chester Jones",
+          "url": "https://open.spotify.com/artist/6onoCEDLEhy5PloGJdY7WT"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Don't Go 'Way Nobody",
+      "url": "https://open.spotify.com/track/4D1Lfz1sRzTgNTnkIcVpRX"
+    },
+    {
+      "album": {
+        "name": "New Orleans Shout - The Complete Victor Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY"
+      },
+      "artists": [
+        {
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "King Oliver Orchestra",
+          "url": "https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "Don't You Think I Love You",
+      "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
+    },
+    {
+      "album": {
+        "name": "New Orleans Footwarmers",
+        "url": "https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ"
+      },
+      "artists": [
+        {
+          "name": "Chester Zardis",
+          "url": "https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL"
+        },
+        {
+          "name": "Sammy Rimington",
+          "url": "https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq"
+        },
+        {
+          "name": "Cliff'Kid'Bastien",
+          "url": "https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi"
+        },
+        {
+          "name": "Fredrik John",
+          "url": "https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R"
+        },
+        {
+          "name": "Jon Marks",
+          "url": "https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP"
+        },
+        {
+          "name": "Sven Stahlberg",
+          "url": "https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258160,
+      "name": "Down by the Old Mill Stream",
+      "url": "https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD"
+    },
+    {
+      "album": {
+        "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
+        "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
+      },
+      "artists": [
+        {
+          "name": "George Lewis",
+          "url": "https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/1BHMpKJngIU4iWpzZIj7hm"
+    },
+    {
+      "album": {
+        "name": "Live At Vaughan's",
+        "url": "https://open.spotify.com/album/4nEP1HypmT4fY2QidPM4kt"
+      },
+      "artists": [
+        {
+          "name": "Kermit Ruffins",
+          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258386,
+      "name": "Drop Me Off In New Orleans",
+      "url": "https://open.spotify.com/track/5PPG6S0didC96fCXpwtIDY"
+    },
+    {
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "album": {
+        "name": "1920s: The Jazz Age In New Orleans",
+        "url": "https://open.spotify.com/album/3ABkDvfwJiHsCxKabCQ9Nl"
+      },
+      "artists": [
+        {
+          "name": "Sam Morgan's Jazz Band",
+          "url": "https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "Everybody's Talking About Sammy",
+      "url": "https://open.spotify.com/track/0woTQyH6ECqlWzeR48tUUX"
+    },
+    {
+      "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 49333,
+      "name": "Everything's Lovely",
+      "url": "https://open.spotify.com/track/38CCKfmrlEEs95wFhEVSWy"
+    },
+    {
+      "album": {
+        "name": "Good Neighbor",
+        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
+      },
+      "artists": [
+        {
+          "name": "John Boutt\u00e9",
+          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Foot Of Canal Street",
+      "url": "https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd"
+    },
+    {
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
+    },
+    {
+      "album": {
+        "name": "Shake That Thing",
+        "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372106,
+      "name": "His Eye Is On The Sparrow",
+      "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
+    },
+    {
+      "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
+    },
+    {
+      "album": {
+        "name": "Do Watcha Wanna",
+        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335506,
+      "name": "I Feel Like Funkin' It Up - Extended Mix",
+      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
+    },
+    {
+      "album": {
+        "name": "Jazz In Hi-Fi",
+        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
+      },
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        },
+        {
+          "name": "Bobby Hackett",
+          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
+    },
+    {
+      "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385040,
+      "name": "I Gotta Woman - Bonus Track",
+      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
+    },
+    {
+      "album": {
+        "name": "Treme: Music From The HBO Original Series, Season 1",
+        "url": "https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb"
+      },
+      "artists": [
+        {
+          "name": "The New Orleans Jazz Vipers",
+          "url": "https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "I Hope Your Comin' Back To New Orleans",
+      "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
+    },
+    {
+      "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+    },
+    {
+      "album": {
+        "name": "Johnny Dodds & Jimmy Blythe 1926-1928",
+        "url": "https://open.spotify.com/album/0vTFwaAnpJLWQ42j8wE1Hn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dodds",
+          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
+        },
+        {
+          "name": "Jimmy Blythe",
+          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179600,
+      "name": "I'm Goin' Huntin'",
+      "url": "https://open.spotify.com/track/4gK9fOfg96Cll8RmuhSxY0"
+    },
+    {
+      "album": {
+        "name": "Presenting Johnny Dodds",
+        "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dodds",
+          "url": "https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp"
+        },
+        {
+          "name": "Jimmy Blythe",
+          "url": "https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "I'm Goin' Huntin'",
+      "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+    },
+    {
+      "album": {
+        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
+        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
+    },
+    {
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201826,
+      "name": "Joshua Fit De Battle of Jericho",
+      "url": "https://open.spotify.com/track/6mhzK4YvxzG2MQseaazRGt"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
+    },
+    {
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/4BSJR0EaIY1oxpZjpX0q2y"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Pell",
+          "url": "https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185226,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/3uq2fANGj5awEgr1q8R8R3"
+    },
+    {
+      "album": {
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Jazz Archive 8 - Jacks Hit The Road (1 Of 4)",
+        "url": "https://open.spotify.com/album/7LLJ7dgXSj7NIVfMVOqeIT"
+      },
+      "artists": [
+        {
+          "name": "Lu Watters",
+          "url": "https://open.spotify.com/artist/3vCSKqDwmD2rf9v4t1hhwv"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205199,
+      "name": "Milenberg Joys",
+      "url": "https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ"
+    },
+    {
+      "album": {
+        "name": "Our New Orleans",
+        "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276266,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/65sPImCpuvhK21doidXxS0"
+    },
+    {
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+    },
+    {
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "album": {
+        "name": "The Great Olympia Band",
+        "url": "https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "On the Square",
+      "url": "https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1"
+    },
+    {
+      "album": {
+        "name": "Night on Frenchmen Street",
+        "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
+      },
+      "artists": [
+        {
+          "name": "Norbert Susemihl",
+          "url": "https://open.spotify.com/artist/1UkYB1n44YzBCtMaKde48Y"
+        },
+        {
+          "name": "Jason Marsalis",
+          "url": "https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6"
+        },
+        {
+          "name": "Erika Lewis",
+          "url": "https://open.spotify.com/artist/58WQdrfsIZV2HwaGkN1Pfr"
+        },
+        {
+          "name": "Shaye Cohn",
+          "url": "https://open.spotify.com/artist/7HhwosbJ4EqUV4AzQXVUxB"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271229,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/1LnuXqYUH6jIWSIVyTMF9c"
+    },
+    {
+      "album": {
+        "name": "Back to My Roots",
+        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254885,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+    },
+    {
+      "album": {
+        "name": "Louis Armstrong's Hot Fives and Hot Sevens",
+        "url": "https://open.spotify.com/album/0PAhGSrWrytYbN2Vdkps22"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288841,
+      "name": "Potato Head Blues",
+      "url": "https://open.spotify.com/track/4lpYtp1nD9q15DCqHRFkfH"
+    },
+    {
+      "album": {
+        "name": "Two Clarinets on the Porch",
+        "url": "https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE"
+      },
+      "artists": [
+        {
+          "name": "Willie Humphrey",
+          "url": "https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT"
+        },
+        {
+          "name": "Brian O'Connell",
+          "url": "https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u"
+        },
+        {
+          "name": "Les Muscutt",
+          "url": "https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7"
+        },
+        {
+          "name": "Frank Fields",
+          "url": "https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW"
+        },
+        {
+          "name": "Ernie Elly",
+          "url": "https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1F6G1ewad31utaep702loo"
+    },
+    {
+      "album": {
+        "name": "The Luis Russell Story",
+        "url": "https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Russell",
+          "url": "https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP"
+        },
+        {
+          "name": "Albert Nicholas",
+          "url": "https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY"
+        },
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/2JXBvjlBB0Qu7MJ1XblhSM"
+        },
+        {
+          "name": "J. C. Higginbotham",
+          "url": "https://open.spotify.com/artist/5Qp4GPKEa8t2iM6ZDkg86Y"
+        },
+        {
+          "name": "Charlie Holmes",
+          "url": "https://open.spotify.com/artist/5dhfT2nL6RlvrQ1E7E9QE9"
+        },
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/5btCRpy3MmqEeGcm6PlOrA"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Saratoga Drag",
+      "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
+    },
+    {
+      "album": {
+        "name": "New Orleans Preservation, Vol. 1",
+        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Short Dressed Gal",
+      "url": "https://open.spotify.com/track/5LIn72haoobRVZg0cELDad"
+    },
+    {
+      "album": {
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
+    },
+    {
+      "album": {
+        "name": "Magnolia Stroll",
+        "url": "https://open.spotify.com/album/21LfD4XS0jCKseccGHcNKK"
+      },
+      "artists": [
+        {
+          "name": "Tuba Skinny",
+          "url": "https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Six Feet Down",
+      "url": "https://open.spotify.com/track/5KXn73ZV6VFCoOpdQCpXB0"
+    },
+    {
+      "album": {
+        "name": "Johnny St. Cyr",
+        "url": "https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf"
+      },
+      "artists": [
+        {
+          "name": "Johnny St. Cyr",
+          "url": "https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "Somebody Stole My Gal",
+      "url": "https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb"
+    },
+    {
+      "album": {
+        "name": "Stompin' Ground",
+        "url": "https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        },
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 271594,
+      "name": "Stompin' Ground",
+      "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
+    },
+    {
+      "album": {
+        "name": "Stompin' Ground",
+        "url": "https://open.spotify.com/album/5PROCLSs2Zpe2VWP5RtsuL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        },
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271594,
+      "name": "Stompin' Ground",
+      "url": "https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM"
+    },
+    {
+      "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+    },
+    {
+      "album": {
+        "name": "The Jungle Book (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
+      },
+      "artists": [
+        {
+          "name": "Bill Murray",
+          "url": "https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1"
+        },
+        {
+          "name": "Kermit Ruffins",
+          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
+    },
+    {
+      "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "album": {
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
+      },
+      "artists": [
+        {
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
+    },
+    {
+      "album": {
+        "name": "Dear Louis",
+        "url": "https://open.spotify.com/album/5OLuk4cPOgJ8zihkrFdAvx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424973,
+      "name": "Tight Like This",
+      "url": "https://open.spotify.com/track/0mkgfCq5dx1z1SMzaQGBKj"
+    },
+    {
+      "album": {
+        "name": "Tootie Ma",
+        "url": "https://open.spotify.com/album/3J3E1IsJTWZJs9TSAQSVIc"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Take Me to the River All-Stars",
+          "url": "https://open.spotify.com/artist/3S7MvfIRO6kPlTlU4boOzi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265503,
+      "name": "Tootie Ma",
+      "url": "https://open.spotify.com/track/0mCh7lEBaA2MMxv2TWGG9A"
+    },
+    {
+      "album": {
+        "name": "Tootie Ma",
+        "url": "https://open.spotify.com/album/5Eaafx5CvjG4HIWRjOoWua"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Take Me to the River All-Stars",
+          "url": "https://open.spotify.com/artist/3S7MvfIRO6kPlTlU4boOzi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 265503,
+      "name": "Tootie Ma",
+      "url": "https://open.spotify.com/track/4D4uydOUYaPKRZingpvoLg"
+    },
+    {
+      "album": {
+        "name": "Rebirth For Life",
+        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349666,
+      "name": "Tubaluba",
+      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+    },
+    {
+      "album": {
+        "name": "Mr. New Orleans",
+        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain",
+          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Walking Through New Orleans",
+      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
+    },
+    {
+      "album": {
+        "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
+        "url": "https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK"
+      },
+      "artists": [
+        {
+          "name": "New Breed Brass Band",
+          "url": "https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5"
+        },
+        {
+          "name": "5th Ward Weebie",
+          "url": "https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276976,
+      "name": "Watcha Workin It Fa (feat. 5th Ward Weebie)",
+      "url": "https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV"
+    },
+    {
+      "album": {
+        "name": "Shag",
+        "url": "https://open.spotify.com/album/56TN7ssm8MVlKDGTYfgw8F"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ladnier",
+          "url": "https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "Weary Blues",
+      "url": "https://open.spotify.com/track/1qsMtpIBZZXML5wnBpq6wq"
+    },
+    {
+      "album": {
+        "name": "Drop Me Off In Harlem",
+        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Barnet",
+          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
+        },
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163533,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
+    },
+    {
+      "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/2xuCuGJvbQxtrzt9UfUJlq"
+      },
+      "artists": [
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        },
+        {
+          "name": "Charlie Barnet",
+          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
+        },
+        {
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "Clarence Williams",
+          "url": "https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163533,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/0OHP5uq9yI8xrlovXxDaX0"
+    },
+    {
+      "album": {
+        "name": "1940-1944",
+        "url": "https://open.spotify.com/album/1KNz1AGZYgT4XsJdBJ6kte"
+      },
+      "artists": [
+        {
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 192933,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
+    },
+    {
+      "album": {
+        "name": "Swinging Mainstream Sides",
+        "url": "https://open.spotify.com/album/2S4vPrFt0T8IeqSUoqW0al"
+      },
+      "artists": [
+        {
+          "name": "Wingy Manone",
+          "url": "https://open.spotify.com/artist/1FmlPBCDxT2lgFy3S6BYtG"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "When I Get You Alone Tonight",
+      "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
+    },
+    {
+      "album": {
+        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
+        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+      },
+      "artists": [
+        {
+          "name": "Kid Thomas",
+          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
+        },
+        {
+          "name": "Thomas Jefferson",
+          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
+    },
+    {
+      "album": {
+        "name": "Firehouse Five Plus Two Story",
+        "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Yes Sir! That's My Baby",
+      "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
+    },
+    {
+      "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbLsFIeybF20"
 }

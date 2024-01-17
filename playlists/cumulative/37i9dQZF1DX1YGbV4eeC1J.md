@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Alikiba
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
 
-123 songs - 7 hr 1 min
+124 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-22 |  |
 | [Ananipenda](https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Ananipenda](https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl) | 3:35 | 2023-04-13 |  |
 | [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-04-28 |
+| [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 | 2024-01-11 |  |
 | [Beautiful \(Worth Living\) \[feat\. Barnaba\]](https://open.spotify.com/track/28EDIv29TAG4NvhfoIJPCJ) | [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Ceduction](https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy) | 3:06 | 2022-09-08 | 2023-01-13 |
 | [Calm Down](https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Calm Down](https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU) | 3:08 | 2023-11-30 |  |
 | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/07oL9PG3HyIpMEtKTEI8Fp) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Cheche \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5esLD4g5piSeeAalViPWkG) | 3:08 | 2022-05-26 | 2022-11-08 |
@@ -47,7 +48,7 @@
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 |  |
 | [Lazizi \- Spotify Singles \- Cover](https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lazizi \- Spotify Singles \(Cover\)](https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce) | 4:40 | 2023-11-03 |  |
 | [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 | 2023-07-27 |  |
-| [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-24 |  |
+| [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-24 | 2024-01-12 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-11-06 |  |
 | [Mae Wendi](https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Kitenge](https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke) | 3:43 | 2022-05-26 | 2023-06-09 |
 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 | 2023-02-16 |  |

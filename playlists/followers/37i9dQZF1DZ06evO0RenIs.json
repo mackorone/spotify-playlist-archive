@@ -1,289 +1,1209 @@
 {
-  "2023-03-20": 68158,
-  "2023-03-21": 68185,
-  "2023-03-22": 68225,
-  "2023-03-23": 68249,
-  "2023-03-24": 68249,
-  "2023-03-25": 68304,
-  "2023-03-26": 68329,
-  "2023-03-27": 68357,
-  "2023-03-28": 68372,
-  "2023-03-29": 68402,
-  "2023-03-30": 68448,
-  "2023-03-31": 68448,
-  "2023-04-01": 68467,
-  "2023-04-02": 68484,
-  "2023-04-03": 68505,
-  "2023-04-04": 68519,
-  "2023-04-05": 68537,
-  "2023-04-06": 68553,
-  "2023-04-07": 68578,
-  "2023-04-09": 68613,
-  "2023-04-10": 68643,
-  "2023-04-11": 68669,
-  "2023-04-12": 68669,
-  "2023-04-13": 68688,
-  "2023-04-14": 68708,
-  "2023-04-15": 68730,
-  "2023-04-16": 68744,
-  "2023-04-17": 68752,
-  "2023-04-18": 68755,
-  "2023-04-19": 68777,
-  "2023-04-20": 68790,
-  "2023-04-21": 68805,
-  "2023-04-22": 68826,
-  "2023-04-23": 68836,
-  "2023-04-24": 68861,
-  "2023-04-25": 68879,
-  "2023-04-26": 68887,
-  "2023-04-27": 68896,
-  "2023-04-28": 68900,
-  "2023-04-29": 68915,
-  "2023-04-30": 68939,
-  "2023-05-01": 68941,
-  "2023-05-02": 68949,
-  "2023-05-03": 68972,
-  "2023-05-04": 68989,
-  "2023-05-05": 68999,
-  "2023-05-06": 69019,
-  "2023-05-07": 69033,
-  "2023-05-08": 69048,
-  "2023-05-09": 69066,
-  "2023-05-10": 69081,
-  "2023-05-11": 69105,
-  "2023-05-12": 69124,
-  "2023-05-13": 69137,
-  "2023-05-14": 69149,
-  "2023-05-15": 69162,
-  "2023-05-16": 69179,
-  "2023-05-17": 69201,
-  "2023-05-18": 69224,
-  "2023-05-19": 69253,
-  "2023-05-20": 69283,
-  "2023-05-21": 69283,
-  "2023-05-22": 69283,
-  "2023-05-23": 69317,
-  "2023-05-24": 69349,
-  "2023-05-25": 69358,
-  "2023-05-26": 69365,
-  "2023-05-27": 69389,
-  "2023-05-28": 69417,
-  "2023-05-29": 69417,
-  "2023-05-30": 69453,
-  "2023-05-31": 69483,
-  "2023-06-01": 69497,
-  "2023-06-02": 69511,
-  "2023-06-03": 69529,
-  "2023-06-04": 69560,
-  "2023-06-05": 69593,
-  "2023-06-06": 69627,
-  "2023-06-07": 69669,
-  "2023-06-08": 69690,
-  "2023-06-09": 69720,
-  "2023-06-10": 69746,
-  "2023-06-11": 69787,
-  "2023-06-12": 69811,
-  "2023-06-13": 69849,
-  "2023-06-14": 69860,
-  "2023-06-15": 69884,
-  "2023-06-16": 69907,
-  "2023-06-17": 69926,
-  "2023-06-18": 69951,
-  "2023-06-19": 69983,
-  "2023-06-20": 69992,
-  "2023-06-21": 70009,
-  "2023-06-22": 70030,
-  "2023-06-23": 70041,
-  "2023-06-24": 70062,
-  "2023-06-25": 70093,
-  "2023-06-26": 70151,
-  "2023-06-27": 70196,
-  "2023-06-28": 70261,
-  "2023-06-29": 70303,
-  "2023-06-30": 70326,
-  "2023-07-01": 70393,
-  "2023-07-02": 70393,
-  "2023-07-03": 70422,
-  "2023-07-04": 70452,
-  "2023-07-05": 70472,
-  "2023-07-06": 70511,
-  "2023-07-07": 70511,
-  "2023-07-08": 70541,
-  "2023-07-09": 70561,
-  "2023-07-10": 70588,
-  "2023-07-11": 70605,
-  "2023-07-12": 70630,
-  "2023-07-13": 70667,
-  "2023-07-14": 70689,
-  "2023-07-15": 70716,
-  "2023-07-16": 70738,
-  "2023-07-17": 70758,
-  "2023-07-18": 70786,
-  "2023-07-19": 70813,
-  "2023-07-20": 70841,
-  "2023-07-21": 70869,
-  "2023-07-22": 70895,
-  "2023-07-23": 70915,
-  "2023-07-24": 70942,
-  "2023-07-25": 70964,
-  "2023-07-26": 70982,
-  "2023-07-27": 71009,
-  "2023-07-28": 71030,
-  "2023-07-29": 71064,
-  "2023-07-30": 71079,
-  "2023-07-31": 71096,
-  "2023-08-01": 71109,
-  "2023-08-02": 71121,
-  "2023-08-03": 71140,
-  "2023-08-04": 71157,
-  "2023-08-05": 71177,
-  "2023-08-06": 71224,
-  "2023-08-07": 71224,
-  "2023-08-08": 71250,
-  "2023-08-09": 71282,
-  "2023-08-10": 71306,
-  "2023-08-11": 71324,
-  "2023-08-12": 71342,
-  "2023-08-13": 71342,
-  "2023-08-14": 71392,
-  "2023-08-15": 71409,
-  "2023-08-16": 71409,
-  "2023-08-17": 71449,
-  "2023-08-18": 71449,
-  "2023-08-19": 71479,
-  "2023-08-20": 71496,
-  "2023-08-21": 71515,
-  "2023-08-22": 71539,
-  "2023-08-23": 71553,
-  "2023-08-24": 71582,
-  "2023-08-25": 71582,
-  "2023-08-26": 71619,
-  "2023-08-27": 71641,
-  "2023-08-28": 71650,
-  "2023-08-29": 71666,
-  "2023-08-30": 71666,
-  "2023-08-31": 71700,
-  "2023-09-01": 71737,
-  "2023-09-02": 71737,
-  "2023-09-03": 71758,
-  "2023-09-04": 71758,
-  "2023-09-05": 71758,
-  "2023-09-06": 71836,
-  "2023-09-07": 71836,
-  "2023-09-08": 71836,
-  "2023-09-09": 71836,
-  "2023-09-10": 71978,
-  "2023-09-11": 72007,
-  "2023-09-12": 72007,
-  "2023-09-13": 72034,
-  "2023-09-14": 72034,
-  "2023-09-15": 72034,
-  "2023-09-16": 72077,
-  "2023-09-17": 72077,
-  "2023-09-18": 72077,
-  "2023-09-19": 72115,
-  "2023-09-20": 72115,
-  "2023-09-21": 72115,
-  "2023-09-22": 72144,
-  "2023-09-23": 72144,
-  "2023-09-24": 72144,
-  "2023-09-25": 72144,
-  "2023-09-26": 72194,
-  "2023-09-27": 72194,
-  "2023-09-28": 72194,
-  "2023-09-29": 72194,
-  "2023-09-30": 72194,
-  "2023-10-01": 72194,
-  "2023-10-02": 72249,
-  "2023-10-03": 72249,
-  "2023-10-04": 72249,
-  "2023-10-05": 72287,
-  "2023-10-06": 72305,
-  "2023-10-07": 72305,
-  "2023-10-08": 72305,
-  "2023-10-09": 72305,
-  "2023-10-10": 72305,
-  "2023-10-11": 72339,
-  "2023-10-12": 72339,
-  "2023-10-13": 72339,
-  "2023-10-14": 72339,
-  "2023-10-15": 72339,
-  "2023-10-16": 72339,
-  "2023-10-17": 72339,
-  "2023-10-18": 72339,
-  "2023-10-19": 72339,
-  "2023-10-20": 72339,
-  "2023-10-21": 72339,
-  "2023-10-22": 72339,
-  "2023-10-23": 72339,
-  "2023-10-24": 72339,
-  "2023-10-25": 72339,
-  "2023-10-26": 72339,
-  "2023-10-27": 72339,
-  "2023-10-28": 72339,
-  "2023-10-29": 72339,
-  "2023-10-30": 72339,
-  "2023-10-31": 72339,
-  "2023-11-01": 72339,
-  "2023-11-02": 72339,
-  "2023-11-03": 72339,
-  "2023-11-04": 72339,
-  "2023-11-05": 72339,
-  "2023-11-06": 72339,
-  "2023-11-07": 72339,
-  "2023-11-08": 72339,
-  "2023-11-09": 72339,
-  "2023-11-10": 72339,
-  "2023-11-11": 72661,
-  "2023-11-12": 72661,
-  "2023-11-13": 72661,
-  "2023-11-14": 72661,
-  "2023-11-15": 72661,
-  "2023-11-16": 72661,
-  "2023-11-17": 72661,
-  "2023-11-18": 72661,
-  "2023-11-19": 72661,
-  "2023-11-20": 72661,
-  "2023-11-21": 72661,
-  "2023-11-22": 72661,
-  "2023-11-23": 72661,
-  "2023-11-24": 72661,
-  "2023-11-25": 72661,
-  "2023-11-26": 72661,
-  "2023-11-27": 72661,
-  "2023-11-28": 72661,
-  "2023-11-29": 72661,
-  "2023-11-30": 72661,
-  "2023-12-01": 72661,
-  "2023-12-02": 72661,
-  "2023-12-03": 72661,
-  "2023-12-04": 72661,
-  "2023-12-05": 72661,
-  "2023-12-06": 72661,
-  "2023-12-07": 72661,
-  "2023-12-08": 72661,
-  "2023-12-09": 72661,
-  "2023-12-10": 72661,
-  "2023-12-11": 72661,
-  "2023-12-12": 72661,
-  "2023-12-13": 72661,
-  "2023-12-14": 73312,
-  "2023-12-15": 73328,
-  "2023-12-16": 73345,
-  "2023-12-17": 73360,
-  "2023-12-18": 73365,
-  "2023-12-19": 73377,
-  "2023-12-20": 73388,
-  "2023-12-21": 73404,
-  "2023-12-22": 73413,
-  "2023-12-23": 73427,
-  "2023-12-24": 73441,
-  "2023-12-25": 73455,
-  "2023-12-26": 73465,
-  "2023-12-27": 73475,
-  "2023-12-30": 73511,
-  "2023-12-31": 73519,
-  "2024-01-01": 73533,
-  "2024-01-02": 73543,
-  "2024-01-03": 73547
+  "2024-01-17": 73664,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Phoenix. The essential tracks, all in one playlist.",
+  "name": "This Is Phoenix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 191733,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "album": {
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 184120,
+      "name": "All Eyes on Me",
+      "url": "https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg"
+    },
+    {
+      "album": {
+        "name": "All Eyes On Me (feat. BENEE, Chad Hugo & Pusha T)",
+        "url": "https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
+      "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172040,
+      "name": "Alpha Zulu",
+      "url": "https://open.spotify.com/track/3cczdpndCyT8IpH5cm1IbJ"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 184813,
+      "name": "Armistice",
+      "url": "https://open.spotify.com/track/4Xj1c80iHxUeog2hHB55iw"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185106,
+      "name": "Armistice",
+      "url": "https://open.spotify.com/track/0x1pUJuOfNh7nStPF1V0AK"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 204440,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/5DAkzBJ48N7z6lwY4eZ0PP"
+    },
+    {
+      "album": {
+        "name": "Artefact (feat. Le\u00f3n Larregui)",
+        "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Artefact (feat. Le\u00f3n Larregui)",
+      "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293226,
+      "name": "Bourgeois",
+      "url": "https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244813,
+      "name": "Chloroform",
+      "url": "https://open.spotify.com/track/55Gk9YGlpv5Tmloubm4jI6"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "Consolation Prizes",
+      "url": "https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100466,
+      "name": "Definitive Breaks",
+      "url": "https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Drakkar Noir",
+      "url": "https://open.spotify.com/track/0ggkwqbg3SgEGz4XcEVYJq"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 220240,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
+    },
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "Everything Is Everything",
+      "url": "https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "Fior di Latte",
+      "url": "https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 243733,
+      "name": "Fior Di Latte",
+      "url": "https://open.spotify.com/track/4JFXNDchRuhicS7fh2civh"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 204106,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/17O70WmNwEAhQGlGlZUzZp"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/6BqVLNQ0RGU8cytLaHLuo6"
+    },
+    {
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259560,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+    },
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "Holdin' on Together",
+      "url": "https://open.spotify.com/track/2foqLoUPvd5OcINiUtKZg8"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302026,
+      "name": "Identical",
+      "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/4Bu0XuiecALTHX3YWHOLml"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 248213,
+      "name": "J-Boy",
+      "url": "https://open.spotify.com/track/3yw4kKq5dcfCEV6lvIwwPx"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 241546,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186159,
+      "name": "Long Distance Call",
+      "url": "https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176186,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
+    },
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264866,
+      "name": "Love for Granted",
+      "url": "https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116720,
+      "name": "Love Like a Sunset, Pt. 2",
+      "url": "https://open.spotify.com/track/373z7Xe1jiRIuUxolaH10q"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "My Elixir",
+      "url": "https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301373,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/6ayQqGsXx1jxDiEku4V9Gg"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
+    },
+    {
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
+    },
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "S.O.S In Bel Air",
+      "url": "https://open.spotify.com/track/0xk4qhVCcETeg8rh4nvE5h"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Telefono",
+      "url": "https://open.spotify.com/track/3mb3SoBBkl15G4fJW6Kgji"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 225400,
+      "name": "Telefono",
+      "url": "https://open.spotify.com/track/0YDMGiwxjDbZwqtCnkDHot"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/5yE87rHl2tLsQqPM2igT4S"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 205920,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/62V5xyu3AMDqaQu7Ck46Fm"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Ezra Koenig",
+          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 246706,
+      "name": "Tonight (feat. Ezra Koenig)",
+      "url": "https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi"
+    },
+    {
+      "album": {
+        "name": "Tonight (feat. Ezra Koenig)",
+        "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Ezra Koenig",
+          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246706,
+      "name": "Tonight (feat. Ezra Koenig)",
+      "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB"
+    },
+    {
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Trying To Be Cool",
+      "url": "https://open.spotify.com/track/0UpuOCp6EU4BZabgmBqr1o"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/387304JRC4rHBwlVcbny0m"
+    },
+    {
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Victim of the Crime",
+      "url": "https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 236240,
+      "name": "Winter Solstice",
+      "url": "https://open.spotify.com/track/0rZQyxhJgVBSHXEyr7LDlg"
+    },
+    {
+      "album": {
+        "name": "Winter Solstice (Braxe + Falcon Remix)",
+        "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240156,
+      "name": "Winter Solstice - Braxe + Falcon Remix",
+      "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RenIs"
 }

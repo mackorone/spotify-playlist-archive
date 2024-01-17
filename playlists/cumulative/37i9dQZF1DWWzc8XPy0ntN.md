@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-142 songs - 11 hr 8 min
+143 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-05-06 |  |
 | [Chinchilla](https://open.spotify.com/track/00mZAuEr4xvy3dHSHeuQD5) | [Dj Fucci](https://open.spotify.com/artist/3b9DkESgNdbns5sfCc5Skl) | [Fauna](https://open.spotify.com/album/2JItddUuvX3ny8JYIrUeGo) | 3:45 | 2022-05-06 | 2022-07-25 |
 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 | 2022-05-06 | 2023-11-10 |
+| [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 | 2022-08-18 |  |
 | [Cook](https://open.spotify.com/track/6waQMnRtjGxMSYaA86pyqD) | [Fernanda Arrau](https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6) | [Cook](https://open.spotify.com/album/0ZsctRObWIwL6Dyrr4fAx3) | 4:56 | 2022-05-06 | 2023-05-28 |
 | [Copao](https://open.spotify.com/track/1X62uR39ow7ZLQECEXUYNW) | [IARAHEI](https://open.spotify.com/artist/0ZKsjP6hhMUhV2iCGDLoOd) | [Salto Cuántico](https://open.spotify.com/album/4s0MyYSC5L3cDnvG3wZbV9) | 4:12 | 2022-05-06 | 2022-07-25 |
 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 | 2022-05-06 |  |
@@ -80,7 +81,7 @@
 | [Kali](https://open.spotify.com/track/2CPkF7Q5xNTeMKA9Sxmkbh) | [Sonido Berzerk](https://open.spotify.com/artist/50nztpMMHYN1XE9RiuvQts) | [Club Jams, Vol\. 2](https://open.spotify.com/album/4SyZdMiBglZDnJ5go3lBod) | 2:15 | 2022-05-06 | 2023-10-09 |
 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 | 2022-05-06 |  |
 | [La Alarma \- Radio Club Edit](https://open.spotify.com/track/0ZZgr7SMp2vxCv2r65v5E3) | [Eddie Mercury](https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl) | [La Alarma](https://open.spotify.com/album/0mEzp7LUvfnBhHZDxrX4BA) | 6:31 | 2022-05-06 | 2022-07-22 |
-| [La Alarma \- Radio Club Edit](https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj) | [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Eddie Mercury](https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8) | [La Alarma](https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E) | 6:31 | 2022-08-18 | 2024-01-01 |
+| [La Alarma \- Radio Club Edit](https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj) | [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Eddie Mercury](https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8) | [La Alarma](https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E) | 6:31 | 2022-08-18 | 2024-01-12 |
 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 | 2022-05-06 |  |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2022-12-21 |  |
 | [Lejos](https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO) | 3:26 | 2022-05-06 | 2023-05-01 |
@@ -123,7 +124,7 @@
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2022-05-06 |  |
 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0) | 3:23 | 2022-08-18 | 2023-08-03 |
 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/3UojaSlo1EsQ597F17yEqA) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/0X2SieY5N8UXmPYyuhws83) | 3:23 | 2022-05-06 | 2022-07-28 |
-| [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 | 2022-05-06 |  |
+| [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 | 2022-05-06 | 2024-01-05 |
 | [Sin control](https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:46 | 2022-08-18 |  |
 | [Sin control](https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:46 | 2022-08-18 | 2023-04-30 |
 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 | 2022-05-06 | 2022-10-13 |

@@ -1,277 +1,1117 @@
 {
-  "2023-04-01": 47946,
-  "2023-04-02": 48013,
-  "2023-04-03": 48071,
-  "2023-04-04": 48164,
-  "2023-04-05": 48223,
-  "2023-04-06": 48296,
-  "2023-04-07": 48358,
-  "2023-04-09": 48478,
-  "2023-04-10": 48529,
-  "2023-04-11": 48658,
-  "2023-04-12": 48658,
-  "2023-04-13": 48720,
-  "2023-04-14": 48793,
-  "2023-04-15": 48848,
-  "2023-04-16": 48887,
-  "2023-04-17": 48952,
-  "2023-04-18": 49005,
-  "2023-04-19": 49065,
-  "2023-04-20": 49100,
-  "2023-04-21": 49137,
-  "2023-04-22": 49185,
-  "2023-04-23": 49223,
-  "2023-04-24": 49262,
-  "2023-04-25": 49297,
-  "2023-04-26": 49348,
-  "2023-04-27": 49400,
-  "2023-04-28": 49453,
-  "2023-04-29": 49487,
-  "2023-04-30": 49542,
-  "2023-05-01": 49576,
-  "2023-05-02": 49640,
-  "2023-05-03": 49690,
-  "2023-05-04": 49712,
-  "2023-05-05": 49753,
-  "2023-05-06": 49792,
-  "2023-05-07": 49839,
-  "2023-05-08": 49877,
-  "2023-05-09": 49909,
-  "2023-05-10": 49948,
-  "2023-05-11": 50007,
-  "2023-05-12": 50062,
-  "2023-05-13": 50122,
-  "2023-05-14": 50146,
-  "2023-05-15": 50186,
-  "2023-05-16": 50229,
-  "2023-05-17": 50286,
-  "2023-05-18": 50353,
-  "2023-05-19": 50392,
-  "2023-05-20": 50465,
-  "2023-05-21": 50465,
-  "2023-05-22": 50465,
-  "2023-05-23": 50554,
-  "2023-05-24": 50619,
-  "2023-05-25": 50631,
-  "2023-05-26": 50662,
-  "2023-05-27": 50710,
-  "2023-05-28": 50734,
-  "2023-05-29": 50734,
-  "2023-05-30": 50803,
-  "2023-05-31": 50862,
-  "2023-06-01": 50898,
-  "2023-06-02": 50930,
-  "2023-06-03": 50959,
-  "2023-06-04": 50993,
-  "2023-06-05": 50997,
-  "2023-06-06": 51022,
-  "2023-06-07": 51055,
-  "2023-06-08": 51088,
-  "2023-06-09": 51121,
-  "2023-06-10": 51146,
-  "2023-06-11": 51172,
-  "2023-06-12": 51200,
-  "2023-06-13": 51228,
-  "2023-06-14": 51271,
-  "2023-06-15": 51294,
-  "2023-06-16": 51329,
-  "2023-06-17": 51351,
-  "2023-06-18": 51374,
-  "2023-06-19": 51398,
-  "2023-06-20": 51431,
-  "2023-06-21": 51464,
-  "2023-06-22": 51491,
-  "2023-06-23": 51515,
-  "2023-06-24": 51539,
-  "2023-06-25": 51568,
-  "2023-06-26": 51599,
-  "2023-06-27": 51635,
-  "2023-06-28": 51646,
-  "2023-06-29": 51662,
-  "2023-06-30": 51703,
-  "2023-07-01": 51775,
-  "2023-07-02": 51775,
-  "2023-07-03": 51786,
-  "2023-07-04": 51826,
-  "2023-07-05": 51861,
-  "2023-07-06": 51925,
-  "2023-07-07": 51925,
-  "2023-07-08": 51959,
-  "2023-07-09": 51988,
-  "2023-07-10": 52015,
-  "2023-07-11": 52048,
-  "2023-07-12": 52089,
-  "2023-07-13": 52123,
-  "2023-07-14": 52154,
-  "2023-07-15": 52174,
-  "2023-07-16": 52205,
-  "2023-07-17": 52245,
-  "2023-07-18": 52288,
-  "2023-07-19": 52320,
-  "2023-07-20": 52344,
-  "2023-07-21": 52367,
-  "2023-07-22": 52403,
-  "2023-07-23": 52436,
-  "2023-07-24": 52456,
-  "2023-07-25": 52487,
-  "2023-07-26": 52528,
-  "2023-07-27": 52577,
-  "2023-07-28": 52625,
-  "2023-07-29": 52654,
-  "2023-07-30": 52700,
-  "2023-07-31": 52746,
-  "2023-08-01": 52782,
-  "2023-08-02": 52819,
-  "2023-08-03": 52849,
-  "2023-08-04": 52880,
-  "2023-08-05": 52908,
-  "2023-08-06": 52964,
-  "2023-08-07": 52964,
-  "2023-08-08": 53006,
-  "2023-08-09": 53030,
-  "2023-08-10": 53056,
-  "2023-08-11": 53083,
-  "2023-08-12": 53109,
-  "2023-08-13": 53137,
-  "2023-08-14": 53153,
-  "2023-08-15": 53224,
-  "2023-08-16": 53224,
-  "2023-08-17": 53264,
-  "2023-08-18": 53287,
-  "2023-08-19": 53310,
-  "2023-08-20": 53324,
-  "2023-08-21": 53343,
-  "2023-08-22": 53387,
-  "2023-08-23": 53413,
-  "2023-08-24": 53440,
-  "2023-08-25": 53470,
-  "2023-08-26": 53513,
-  "2023-08-27": 53540,
-  "2023-08-28": 53566,
-  "2023-08-29": 53586,
-  "2023-08-30": 53608,
-  "2023-08-31": 53649,
-  "2023-09-01": 53720,
-  "2023-09-02": 53720,
-  "2023-09-03": 53739,
-  "2023-09-04": 53780,
-  "2023-09-05": 53824,
-  "2023-09-06": 53852,
-  "2023-09-07": 53892,
-  "2023-09-08": 53926,
-  "2023-09-09": 53978,
-  "2023-09-10": 54019,
-  "2023-09-11": 54050,
-  "2023-09-12": 54093,
-  "2023-09-13": 54115,
-  "2023-09-14": 54156,
-  "2023-09-15": 54190,
-  "2023-09-16": 54222,
-  "2023-09-17": 54256,
-  "2023-09-18": 54283,
-  "2023-09-19": 54312,
-  "2023-09-20": 54332,
-  "2023-09-21": 54368,
-  "2023-09-22": 54418,
-  "2023-09-23": 54460,
-  "2023-09-24": 54483,
-  "2023-09-25": 54495,
-  "2023-09-26": 54529,
-  "2023-09-27": 54559,
-  "2023-09-28": 54584,
-  "2023-09-29": 54622,
-  "2023-09-30": 54639,
-  "2023-10-01": 54661,
-  "2023-10-02": 54689,
-  "2023-10-03": 54712,
-  "2023-10-04": 54736,
-  "2023-10-05": 54757,
-  "2023-10-06": 54795,
-  "2023-10-07": 54822,
-  "2023-10-08": 54834,
-  "2023-10-09": 54846,
-  "2023-10-10": 54866,
-  "2023-10-11": 54918,
-  "2023-10-12": 54918,
-  "2023-10-13": 54935,
-  "2023-10-14": 54947,
-  "2023-10-15": 54971,
-  "2023-10-16": 54988,
-  "2023-10-17": 55035,
-  "2023-10-18": 55058,
-  "2023-10-19": 55072,
-  "2023-10-20": 55110,
-  "2023-10-21": 55133,
-  "2023-10-22": 55161,
-  "2023-10-23": 55168,
-  "2023-10-24": 55204,
-  "2023-10-25": 55239,
-  "2023-10-26": 55265,
-  "2023-10-27": 55278,
-  "2023-10-28": 55294,
-  "2023-10-29": 55305,
-  "2023-10-30": 55337,
-  "2023-10-31": 55337,
-  "2023-11-01": 55348,
-  "2023-11-02": 55355,
-  "2023-11-03": 55377,
-  "2023-11-04": 55395,
-  "2023-11-05": 55408,
-  "2023-11-06": 55414,
-  "2023-11-07": 55426,
-  "2023-11-08": 55437,
-  "2023-11-09": 55458,
-  "2023-11-10": 55472,
-  "2023-11-11": 55495,
-  "2023-11-12": 55507,
-  "2023-11-13": 55522,
-  "2023-11-14": 55538,
-  "2023-11-15": 55538,
-  "2023-11-16": 55571,
-  "2023-11-17": 55591,
-  "2023-11-18": 55591,
-  "2023-11-19": 55611,
-  "2023-11-20": 55627,
-  "2023-11-21": 55649,
-  "2023-11-22": 55674,
-  "2023-11-23": 55687,
-  "2023-11-24": 55706,
-  "2023-11-25": 55708,
-  "2023-11-26": 55725,
-  "2023-11-27": 55731,
-  "2023-11-28": 55758,
-  "2023-11-29": 55771,
-  "2023-11-30": 55771,
-  "2023-12-01": 55776,
-  "2023-12-02": 55783,
-  "2023-12-03": 55796,
-  "2023-12-04": 55803,
-  "2023-12-05": 55826,
-  "2023-12-06": 55838,
-  "2023-12-07": 55844,
-  "2023-12-08": 55866,
-  "2023-12-09": 55870,
-  "2023-12-10": 55875,
-  "2023-12-11": 55890,
-  "2023-12-12": 55904,
-  "2023-12-13": 55926,
-  "2023-12-14": 55941,
-  "2023-12-15": 55953,
-  "2023-12-16": 55970,
-  "2023-12-17": 55976,
-  "2023-12-18": 55971,
-  "2023-12-19": 55977,
-  "2023-12-20": 55980,
-  "2023-12-21": 55995,
-  "2023-12-22": 56008,
-  "2023-12-23": 56011,
-  "2023-12-24": 56014,
-  "2023-12-25": 56032,
-  "2023-12-26": 56040,
-  "2023-12-27": 56052,
-  "2023-12-30": 56090,
-  "2023-12-31": 56110,
-  "2024-01-01": 56115,
-  "2024-01-02": 56119,
-  "2024-01-03": 56126
+  "2024-01-17": 56319,
+  "date_first_scraped": "2023-04-01",
+  "description": "Go hard or go home!",
+  "name": "Drill Work",
+  "tracks": [
+    {
+      "album": {
+        "name": "Music x Road",
+        "url": "https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189321,
+      "name": "18HUNNA (feat. Dave)",
+      "url": "https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg"
+    },
+    {
+      "album": {
+        "name": "6am in Brighton",
+        "url": "https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194366,
+      "name": "6am in Brighton",
+      "url": "https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA"
+    },
+    {
+      "album": {
+        "name": "A92 x Fumez The Engineer - Plugged In Freestyle",
+        "url": "https://open.spotify.com/album/2d2jGNehp3V4MKWusgvMbk"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "A92",
+          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
+        },
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "A92 x Fumez The Engineer - Plugged In Freestyle",
+      "url": "https://open.spotify.com/track/0goOUCNL6MYrqSVvGhvsxw"
+    },
+    {
+      "album": {
+        "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
+        "url": "https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
+      "url": "https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8"
+    },
+    {
+      "album": {
+        "name": "AirForce",
+        "url": "https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426"
+      },
+      "artists": [
+        {
+          "name": "DigDat",
+          "url": "https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221467,
+      "name": "AirForce",
+      "url": "https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo"
+    },
+    {
+      "album": {
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym"
+      },
+      "artists": [
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        },
+        {
+          "name": "Dirtbike Lb",
+          "url": "https://open.spotify.com/artist/3LxQ9uN2B3DAn7riENlpcQ"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/4o48inbA3UIzhN6bXmw7mq"
+    },
+    {
+      "album": {
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134142,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
+    },
+    {
+      "album": {
+        "name": "Bella latina",
+        "url": "https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181900,
+      "name": "Bella latina",
+      "url": "https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4"
+    },
+    {
+      "album": {
+        "name": "Block 6 x Fumez The Engineer - Plugged In Freestyle",
+        "url": "https://open.spotify.com/album/5nyybgL9emIvbudSnVbyAm"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Block 6",
+          "url": "https://open.spotify.com/artist/4greawD4iPVecLHKENer73"
+        },
+        {
+          "name": "Lucii",
+          "url": "https://open.spotify.com/artist/3aa1GMnXua8XTpaTcozfKR"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Block 6 x Fumez The Engineer - Plugged In Freestyle",
+      "url": "https://open.spotify.com/track/7esgTfwtLhISeKP7GgTsSP"
+    },
+    {
+      "album": {
+        "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+        "url": "https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "E1 (3x3)",
+          "url": "https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B"
+        },
+        {
+          "name": "ZT (3x3)",
+          "url": "https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS"
+        },
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "Buni",
+          "url": "https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278085,
+      "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+      "url": "https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ"
+    },
+    {
+      "album": {
+        "name": "Bringing It Back",
+        "url": "https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190937,
+      "name": "Bringing It Back",
+      "url": "https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE"
+    },
+    {
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Bumpy Johnson",
+      "url": "https://open.spotify.com/track/1kxu6GYmdIdEATyPLBDAc0"
+    },
+    {
+      "album": {
+        "name": "Call Me A Spartan",
+        "url": "https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN"
+      },
+      "artists": [
+        {
+          "name": "Harlem Spartans",
+          "url": "https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Call Me A Spartan",
+      "url": "https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft"
+    },
+    {
+      "album": {
+        "name": "Can't Be Us",
+        "url": "https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201555,
+      "name": "Can't Be Us",
+      "url": "https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M"
+    },
+    {
+      "album": {
+        "name": "Circles (feat. OFB, Bandokay & Double Lz)",
+        "url": "https://open.spotify.com/album/0CnIY05VI9uCGgZ8ufPXHS"
+      },
+      "artists": [
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "OFB",
+          "url": "https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Circles (feat. OFB, Bandokay & Double Lz)",
+      "url": "https://open.spotify.com/track/5TazMTxxEsLZMwnjjdb5t9"
+    },
+    {
+      "album": {
+        "name": "Commitment Issues",
+        "url": "https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150663,
+      "name": "Commitment Issues",
+      "url": "https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN"
+    },
+    {
+      "album": {
+        "name": "Corn",
+        "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
+      },
+      "artists": [
+        {
+          "name": "2smokeyy",
+          "url": "https://open.spotify.com/artist/4MUA591QaNW7xiMlMgBJV2"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
+    },
+    {
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/2Q2m0wCeOf3m5BoCllmlLH"
+      },
+      "artists": [
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        },
+        {
+          "name": "SJ",
+          "url": "https://open.spotify.com/artist/4CxaWKLsnDdSkSaOtL3zC0"
+        },
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200429,
+      "name": "Crep Shop",
+      "url": "https://open.spotify.com/track/0it3s0ugg3G4ZlzeH1qbOi"
+    },
+    {
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Crypto Price",
+      "url": "https://open.spotify.com/track/0GlNBy7uuYyc8zvr4grPVS"
+    },
+    {
+      "album": {
+        "name": "Ei8ht Mile",
+        "url": "https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN"
+      },
+      "artists": [
+        {
+          "name": "DigDat",
+          "url": "https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176088,
+      "name": "Ei8ht Mile (feat. Aitch)",
+      "url": "https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV"
+    },
+    {
+      "album": {
+        "name": "The Last Whip II",
+        "url": "https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215342,
+      "name": "Extra Sleeve",
+      "url": "https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB"
+    },
+    {
+      "album": {
+        "name": "Fizzler x Fumez The Engineer - Plugged In Freestyle",
+        "url": "https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159724,
+      "name": "Fizzler x Fumez The Engineer - Plugged In Freestyle",
+      "url": "https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH"
+    },
+    {
+      "album": {
+        "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+        "url": "https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178137,
+      "name": "I Dunno (feat. Dutchavelli & Stormzy)",
+      "url": "https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Know Better (feat. Rv)",
+      "url": "https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq"
+    },
+    {
+      "album": {
+        "name": "Lagga",
+        "url": "https://open.spotify.com/album/07ZZfkj294wdteUsHxwwog"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Lagga",
+      "url": "https://open.spotify.com/track/5GrnYtEXFHN51MvfBZz9ji"
+    },
+    {
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn"
+    },
+    {
+      "album": {
+        "name": "London (feat. Tion Wayne)",
+        "url": "https://open.spotify.com/album/4CDUyj6tjOqjZB2IDaLjol"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "London (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/0jgO2f0lAPSs36KBAHx9Dl"
+    },
+    {
+      "album": {
+        "name": "M24 x Fumez the Engineer - Plugged In",
+        "url": "https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152432,
+      "name": "M24 x Fumez the Engineer - Plugged In",
+      "url": "https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU"
+    },
+    {
+      "album": {
+        "name": "Double Tap Diaries",
+        "url": "https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "No Diet",
+      "url": "https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj"
+    },
+    {
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/34YkG2pMNOldalZtevHztN"
+    },
+    {
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
+        "name": "Only You Freestyle",
+        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248936,
+      "name": "Only You Freestyle",
+      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
+    },
+    {
+      "album": {
+        "name": "Paper Cuts",
+        "url": "https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "Paper Cuts",
+      "url": "https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL"
+    },
+    {
+      "album": {
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
+    },
+    {
+      "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Practice Makes Perfect",
+      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+    },
+    {
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl"
+      },
+      "artists": [
+        {
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121005,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5"
+    },
+    {
+      "album": {
+        "name": "Spin This Coupe",
+        "url": "https://open.spotify.com/album/14f53xLUSSKlpAuvgc6smC"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161564,
+      "name": "Spin This Coupe",
+      "url": "https://open.spotify.com/track/7CSjrlKu2HI9qNpzCWWYer"
+    },
+    {
+      "album": {
+        "name": "Spoilt",
+        "url": "https://open.spotify.com/album/0dqONCbDsca2ZgZ4daM8CJ"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 180000,
+      "name": "Spoilt",
+      "url": "https://open.spotify.com/track/6uPzjHmUcrErMjg4McdTnh"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/4uu6Jz7fGrOpVKgXPLMPYl"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167007,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/6wa1aDgVhjTuYXqkLcVL6A"
+    },
+    {
+      "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
+    },
+    {
+      "album": {
+        "name": "The Great Escape (feat. Central Cee)",
+        "url": "https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "The Great Escape (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
+    },
+    {
+      "album": {
+        "name": "Too Many Lies",
+        "url": "https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "LD",
+          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 199757,
+      "name": "Too Many Lies",
+      "url": "https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN"
+    },
+    {
+      "album": {
+        "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
+        "url": "https://open.spotify.com/album/0qD48aseZrFjSw4E5x3Lbf"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Sava",
+          "url": "https://open.spotify.com/artist/25A5LqeSK0yH4ks5fGxbI2"
+        },
+        {
+          "name": "OTP",
+          "url": "https://open.spotify.com/artist/3AFt30387waHIjjDL63XeI"
+        },
+        {
+          "name": "BM X MINI",
+          "url": "https://open.spotify.com/artist/6xNUn9epduXbZmCgsxutSx"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "TPL x Fumez The Engineer - Plugged In Freestyle",
+      "url": "https://open.spotify.com/track/2oW5T6viRcUuE6Ttk6TJ9B"
+    },
+    {
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        },
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174302,
+      "name": "Versus",
+      "url": "https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD"
+    },
+    {
+      "album": {
+        "name": "Trapo",
+        "url": "https://open.spotify.com/album/65OgHp58osKvhu1XlWwI09"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/7JWYtvZzxAptMETUfm37oL"
+    },
+    {
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152322,
+      "name": "Warm - Original",
+      "url": "https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da"
+    },
+    {
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151510,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/3jKFt4kXB8EjY9beWwdvOv"
+    },
+    {
+      "album": {
+        "name": "Welcome To Brixton",
+        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Welcome To Brixton",
+      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
+    },
+    {
+      "album": {
+        "name": "Who Else (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Who Else (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R"
+    },
+    {
+      "album": {
+        "name": "Woi",
+        "url": "https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182142,
+      "name": "Woi",
+      "url": "https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
+    },
+    {
+      "album": {
+        "name": "WW2",
+        "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201982,
+      "name": "WW2",
+      "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0fTL90LxKyz"
 }

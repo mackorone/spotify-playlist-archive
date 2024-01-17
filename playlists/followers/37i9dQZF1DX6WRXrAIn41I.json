@@ -1,362 +1,573 @@
 {
-  "2023-01-06": 25,
-  "2023-01-07": 281,
-  "2023-01-08": 288,
-  "2023-01-09": 375,
-  "2023-01-10": 443,
-  "2023-01-11": 498,
-  "2023-01-12": 550,
-  "2023-01-13": 594,
-  "2023-01-14": 696,
-  "2023-01-15": 707,
-  "2023-01-16": 758,
-  "2023-01-17": 842,
-  "2023-01-18": 928,
-  "2023-01-19": 989,
-  "2023-01-20": 1092,
-  "2023-01-21": 1187,
-  "2023-01-22": 1256,
-  "2023-01-23": 1319,
-  "2023-01-24": 1401,
-  "2023-01-25": 1480,
-  "2023-01-26": 1584,
-  "2023-01-27": 1653,
-  "2023-01-28": 1728,
-  "2023-01-29": 1815,
-  "2023-01-30": 1883,
-  "2023-01-31": 1883,
-  "2023-02-01": 2006,
-  "2023-02-02": 2167,
-  "2023-02-03": 2282,
-  "2023-02-04": 2363,
-  "2023-02-05": 2621,
-  "2023-02-06": 2776,
-  "2023-02-07": 2875,
-  "2023-02-08": 3058,
-  "2023-02-09": 3058,
-  "2023-02-10": 3127,
-  "2023-02-11": 3196,
-  "2023-02-12": 3298,
-  "2023-02-13": 3370,
-  "2023-02-14": 3370,
-  "2023-02-15": 3421,
-  "2023-02-16": 3484,
-  "2023-02-17": 3543,
-  "2023-02-18": 3691,
-  "2023-02-19": 3703,
-  "2023-02-20": 3755,
-  "2023-02-21": 3818,
-  "2023-02-22": 3876,
-  "2023-02-23": 3954,
-  "2023-02-24": 4013,
-  "2023-02-25": 4126,
-  "2023-02-26": 4185,
-  "2023-02-27": 4284,
-  "2023-02-28": 4284,
-  "2023-03-01": 4331,
-  "2023-03-02": 4374,
-  "2023-03-03": 4437,
-  "2023-03-04": 4501,
-  "2023-03-05": 4615,
-  "2023-03-06": 4615,
-  "2023-03-07": 4666,
-  "2023-03-08": 4723,
-  "2023-03-09": 4789,
-  "2023-03-10": 4854,
-  "2023-03-11": 4922,
-  "2023-03-12": 4976,
-  "2023-03-13": 5041,
-  "2023-03-14": 5095,
-  "2023-03-15": 5153,
-  "2023-03-16": 5220,
-  "2023-03-17": 5220,
-  "2023-03-18": 5358,
-  "2023-03-19": 5422,
-  "2023-03-20": 5489,
-  "2023-03-21": 5555,
-  "2023-03-22": 5615,
-  "2023-03-23": 5686,
-  "2023-03-24": 5686,
-  "2023-03-25": 5813,
-  "2023-03-26": 5869,
-  "2023-03-27": 5929,
-  "2023-03-28": 5990,
-  "2023-03-29": 6043,
-  "2023-03-30": 6156,
-  "2023-03-31": 6156,
-  "2023-04-01": 6205,
-  "2023-04-02": 6262,
-  "2023-04-03": 6311,
-  "2023-04-04": 6363,
-  "2023-04-05": 6423,
-  "2023-04-06": 6504,
-  "2023-04-07": 6587,
-  "2023-04-09": 6790,
-  "2023-04-10": 6834,
-  "2023-04-11": 6947,
-  "2023-04-12": 6947,
-  "2023-04-13": 7000,
-  "2023-04-14": 7060,
-  "2023-04-15": 7115,
-  "2023-04-16": 7172,
-  "2023-04-17": 7226,
-  "2023-04-18": 7270,
-  "2023-04-19": 7326,
-  "2023-04-20": 7394,
-  "2023-04-21": 7460,
-  "2023-04-22": 7523,
-  "2023-04-23": 7581,
-  "2023-04-24": 7617,
-  "2023-04-25": 7678,
-  "2023-04-26": 7738,
-  "2023-04-27": 7792,
-  "2023-04-28": 7841,
-  "2023-04-29": 7896,
-  "2023-04-30": 7949,
-  "2023-05-01": 7992,
-  "2023-05-02": 8033,
-  "2023-05-03": 8079,
-  "2023-05-04": 8136,
-  "2023-05-05": 8205,
-  "2023-05-06": 8261,
-  "2023-05-07": 8332,
-  "2023-05-08": 8383,
-  "2023-05-09": 8423,
-  "2023-05-10": 8489,
-  "2023-05-11": 8559,
-  "2023-05-12": 8612,
-  "2023-05-13": 8689,
-  "2023-05-14": 8744,
-  "2023-05-15": 8790,
-  "2023-05-16": 8843,
-  "2023-05-17": 8914,
-  "2023-05-18": 8967,
-  "2023-05-19": 9012,
-  "2023-05-20": 9100,
-  "2023-05-21": 9100,
-  "2023-05-22": 9100,
-  "2023-05-23": 9178,
-  "2023-05-24": 9286,
-  "2023-05-25": 9298,
-  "2023-05-26": 9344,
-  "2023-05-27": 9401,
-  "2023-05-28": 9472,
-  "2023-05-29": 9472,
-  "2023-05-30": 9559,
-  "2023-05-31": 9599,
-  "2023-06-01": 9662,
-  "2023-06-02": 9720,
-  "2023-06-03": 9772,
-  "2023-06-04": 9839,
-  "2023-06-05": 9897,
-  "2023-06-06": 9938,
-  "2023-06-07": 9980,
-  "2023-06-08": 10041,
-  "2023-06-09": 10089,
-  "2023-06-10": 10164,
-  "2023-06-11": 10212,
-  "2023-06-12": 10250,
-  "2023-06-13": 10295,
-  "2023-06-14": 10346,
-  "2023-06-15": 10400,
-  "2023-06-16": 10448,
-  "2023-06-17": 10515,
-  "2023-06-18": 10574,
-  "2023-06-19": 10615,
-  "2023-06-20": 10662,
-  "2023-06-21": 10700,
-  "2023-06-22": 10734,
-  "2023-06-23": 10782,
-  "2023-06-24": 10836,
-  "2023-06-25": 10875,
-  "2023-06-26": 10919,
-  "2023-06-27": 10982,
-  "2023-06-28": 11026,
-  "2023-06-29": 11072,
-  "2023-06-30": 11147,
-  "2023-07-01": 11243,
-  "2023-07-02": 11243,
-  "2023-07-03": 11280,
-  "2023-07-04": 11338,
-  "2023-07-05": 11387,
-  "2023-07-06": 11484,
-  "2023-07-07": 11484,
-  "2023-07-08": 11540,
-  "2023-07-09": 11582,
-  "2023-07-10": 11615,
-  "2023-07-11": 11654,
-  "2023-07-12": 11705,
-  "2023-07-13": 11764,
-  "2023-07-14": 11812,
-  "2023-07-15": 11848,
-  "2023-07-16": 11906,
-  "2023-07-17": 11967,
-  "2023-07-18": 12009,
-  "2023-07-19": 12051,
-  "2023-07-20": 12097,
-  "2023-07-21": 12154,
-  "2023-07-22": 12212,
-  "2023-07-23": 12265,
-  "2023-07-24": 12300,
-  "2023-07-25": 12357,
-  "2023-07-26": 12410,
-  "2023-07-27": 12484,
-  "2023-07-28": 12564,
-  "2023-07-29": 12610,
-  "2023-07-30": 12646,
-  "2023-07-31": 12691,
-  "2023-08-01": 12740,
-  "2023-08-02": 12784,
-  "2023-08-03": 12827,
-  "2023-08-04": 12874,
-  "2023-08-05": 12915,
-  "2023-08-06": 12990,
-  "2023-08-07": 12990,
-  "2023-08-08": 13041,
-  "2023-08-09": 13082,
-  "2023-08-10": 13133,
-  "2023-08-11": 13188,
-  "2023-08-12": 13251,
-  "2023-08-13": 13291,
-  "2023-08-14": 13319,
-  "2023-08-15": 13409,
-  "2023-08-16": 13409,
-  "2023-08-17": 13461,
-  "2023-08-18": 13515,
-  "2023-08-19": 13568,
-  "2023-08-20": 13617,
-  "2023-08-21": 13656,
-  "2023-08-22": 13703,
-  "2023-08-23": 13750,
-  "2023-08-24": 13801,
-  "2023-08-25": 13847,
-  "2023-08-26": 13895,
-  "2023-08-27": 13937,
-  "2023-08-28": 13973,
-  "2023-08-29": 14011,
-  "2023-08-30": 14037,
-  "2023-08-31": 14081,
-  "2023-09-01": 14316,
-  "2023-09-02": 14316,
-  "2023-09-03": 14393,
-  "2023-09-04": 14544,
-  "2023-09-05": 14689,
-  "2023-09-06": 14854,
-  "2023-09-07": 15003,
-  "2023-09-08": 15128,
-  "2023-09-09": 15284,
-  "2023-09-10": 15424,
-  "2023-09-11": 15543,
-  "2023-09-12": 15675,
-  "2023-09-13": 15828,
-  "2023-09-14": 15979,
-  "2023-09-15": 16145,
-  "2023-09-16": 16297,
-  "2023-09-17": 16456,
-  "2023-09-18": 16595,
-  "2023-09-19": 16708,
-  "2023-09-20": 16834,
-  "2023-09-21": 16972,
-  "2023-09-22": 17129,
-  "2023-09-23": 17276,
-  "2023-09-24": 17416,
-  "2023-09-25": 17525,
-  "2023-09-26": 17681,
-  "2023-09-27": 17752,
-  "2023-09-28": 17892,
-  "2023-09-29": 18012,
-  "2023-09-30": 18143,
-  "2023-10-01": 18283,
-  "2023-10-02": 18391,
-  "2023-10-03": 18534,
-  "2023-10-04": 18668,
-  "2023-10-05": 18809,
-  "2023-10-06": 18961,
-  "2023-10-07": 19138,
-  "2023-10-08": 19286,
-  "2023-10-09": 19401,
-  "2023-10-10": 19554,
-  "2023-10-11": 19884,
-  "2023-10-12": 19884,
-  "2023-10-13": 20025,
-  "2023-10-14": 20204,
-  "2023-10-15": 20364,
-  "2023-10-16": 20504,
-  "2023-10-17": 20661,
-  "2023-10-18": 20792,
-  "2023-10-19": 20952,
-  "2023-10-20": 21127,
-  "2023-10-21": 21331,
-  "2023-10-22": 21479,
-  "2023-10-23": 21624,
-  "2023-10-24": 21728,
-  "2023-10-25": 21866,
-  "2023-10-26": 22027,
-  "2023-10-27": 22187,
-  "2023-10-28": 22356,
-  "2023-10-29": 22493,
-  "2023-10-30": 22832,
-  "2023-10-31": 22832,
-  "2023-11-01": 22999,
-  "2023-11-02": 23153,
-  "2023-11-03": 23345,
-  "2023-11-04": 23506,
-  "2023-11-05": 23661,
-  "2023-11-06": 23791,
-  "2023-11-07": 23791,
-  "2023-11-08": 23791,
-  "2023-11-09": 23791,
-  "2023-11-10": 23791,
-  "2023-11-11": 23791,
-  "2023-11-12": 23791,
-  "2023-11-13": 23791,
-  "2023-11-14": 23791,
-  "2023-11-15": 23791,
-  "2023-11-16": 23791,
-  "2023-11-17": 23791,
-  "2023-11-18": 23791,
-  "2023-11-19": 23791,
-  "2023-11-20": 23791,
-  "2023-11-21": 23791,
-  "2023-11-22": 23791,
-  "2023-11-23": 23791,
-  "2023-11-24": 23791,
-  "2023-11-25": 23791,
-  "2023-11-26": 23791,
-  "2023-11-27": 23791,
-  "2023-11-28": 23791,
-  "2023-11-29": 23791,
-  "2023-11-30": 23791,
-  "2023-12-01": 23791,
-  "2023-12-02": 23791,
-  "2023-12-03": 23791,
-  "2023-12-04": 23791,
-  "2023-12-05": 23791,
-  "2023-12-06": 23791,
-  "2023-12-07": 23791,
-  "2023-12-08": 23791,
-  "2023-12-09": 23791,
-  "2023-12-10": 23791,
-  "2023-12-11": 23791,
-  "2023-12-12": 23791,
-  "2023-12-13": 23791,
-  "2023-12-14": 23791,
-  "2023-12-15": 23791,
-  "2023-12-16": 23791,
-  "2023-12-17": 23791,
-  "2023-12-18": 23791,
-  "2023-12-19": 23791,
-  "2023-12-20": 23791,
-  "2023-12-21": 23791,
-  "2023-12-22": 23791,
-  "2023-12-23": 23791,
-  "2023-12-24": 23791,
-  "2023-12-25": 23791,
-  "2023-12-26": 23791,
-  "2023-12-27": 23791,
-  "2023-12-30": 23791,
-  "2023-12-31": 23791,
-  "2024-01-01": 23791,
-  "2024-01-02": 23791,
-  "2024-01-03": 23791
+  "2024-01-17": 23791,
+  "date_first_scraped": "2023-01-06",
+  "description": "Defqon.1 Festival welcomes the New Year with their adrenaline-rushing, blood-bumping, hardstyle-filled Warrior Workout mix! ",
+  "name": "Defqon.1's Warrior Workout DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Back & Forth - Radio Edit (Mixed)",
+        "url": "https://open.spotify.com/album/1U1VcxCfpex2PTjYsySXsu"
+      },
+      "artists": [
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Back & Forth - Radio Edit - Mixed",
+      "url": "https://open.spotify.com/track/5zvN06o3aMSzYM9ek7x4qX"
+    },
+    {
+      "album": {
+        "name": "Burn (Sub Zero Project Remix) [Mixed]",
+        "url": "https://open.spotify.com/album/4uBTut9bKLeW9ZrfsfLYQF"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Burn (Sub Zero Project Remix) - Mixed",
+      "url": "https://open.spotify.com/track/05KUZGZXiS6kEO1wlZ3IYW"
+    },
+    {
+      "album": {
+        "name": "Driven By Pain (Mixed)",
+        "url": "https://open.spotify.com/album/5dsuUV42zzAAwiADFVAhS3"
+      },
+      "artists": [
+        {
+          "name": "MYST",
+          "url": "https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Driven By Pain - Mixed",
+      "url": "https://open.spotify.com/track/7M7Vfrj0xeVYn2MSqCiiGJ"
+    },
+    {
+      "album": {
+        "name": "Feel Inside (Mixed)",
+        "url": "https://open.spotify.com/album/6A8r5ATypAFURBaTJMKI0r"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Feel Inside - Mixed",
+      "url": "https://open.spotify.com/track/1zYit0PUEd9MJw8OeHxcie"
+    },
+    {
+      "album": {
+        "name": "Feel It! (Mixed)",
+        "url": "https://open.spotify.com/album/3mzCo9oHNCzj71nD3QSgs7"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Feel It! - Mixed",
+      "url": "https://open.spotify.com/track/6zzQbdghMrn2qinH0p7piF"
+    },
+    {
+      "album": {
+        "name": "Fire (Mixed)",
+        "url": "https://open.spotify.com/album/0JAitBWAfNTeNsDbJTeIYf"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Fire - Mixed",
+      "url": "https://open.spotify.com/track/6Pouc68Z8e85BQh8sw3XDX"
+    },
+    {
+      "album": {
+        "name": "Fitness Move (Warrior Workout OST) [Mixed]",
+        "url": "https://open.spotify.com/album/4xBgt0ovt04nzd1rTzNNCN"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/0pDkimjmYwN7lQSFNjo6Bx"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Fitness Move (Warrior Workout OST) - Mixed",
+      "url": "https://open.spotify.com/track/4jU6jFIrryDxUVyY3iHmo8"
+    },
+    {
+      "album": {
+        "name": "Gas met Die Zooi - Tha Playah Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0HSj8KF7xLEOfOTHRvUNV8"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Denekamps Gespuis",
+          "url": "https://open.spotify.com/artist/1NQ4QexlGeCvRipmfUJn90"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Gas met Die Zooi - Tha Playah Remix - Mixed",
+      "url": "https://open.spotify.com/track/1VHuNXUN3HhwB3ZvvovQ0T"
+    },
+    {
+      "album": {
+        "name": "Gladiator - Original Mix (Mixed)",
+        "url": "https://open.spotify.com/album/6Yd9ri7xTGoqLLCbSF7A2A"
+      },
+      "artists": [
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Gladiator - Original Mix - Mixed",
+      "url": "https://open.spotify.com/track/6Y7dmFAu51oLWtykTyTkh9"
+    },
+    {
+      "album": {
+        "name": "Groundstomp - Radio Edit (Mixed)",
+        "url": "https://open.spotify.com/album/4J4KdZ9FJDwdecK2IaYOKG"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Phrantic",
+          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Groundstomp - Radio Edit - Mixed",
+      "url": "https://open.spotify.com/track/3Ar2dYbJaTTyDSLEZ5yVws"
+    },
+    {
+      "album": {
+        "name": "Her Voice - Headhunterz Remix Edit (Mixed)",
+        "url": "https://open.spotify.com/album/0amwxVSG78FpLd45C0IamB"
+      },
+      "artists": [
+        {
+          "name": "Builder",
+          "url": "https://open.spotify.com/artist/2UdwxqumLvRmYJbROLxazo"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Her Voice - Headhunterz Remix Edit - Mixed",
+      "url": "https://open.spotify.com/track/5NvWIgkizOs7YPWM2gbLpf"
+    },
+    {
+      "album": {
+        "name": "High Power - The Next Level Remix (Mixed)",
+        "url": "https://open.spotify.com/album/6n6l42ecdJeTDbIL4xbcmz"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "High Power - The Next Level Remix - Mixed",
+      "url": "https://open.spotify.com/track/1StjT75UDfcSZb6c3C81L9"
+    },
+    {
+      "album": {
+        "name": "I Like To Move It (Mixed)",
+        "url": "https://open.spotify.com/album/7cuIK9nEgrWqW5OVnK3NKY"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "I Like To Move It - Mixed",
+      "url": "https://open.spotify.com/track/6tD2V5MAFJX6ROS5n3mVcr"
+    },
+    {
+      "album": {
+        "name": "Maximum Power (Mixed)",
+        "url": "https://open.spotify.com/album/1sJA8hLbB3VUDcpnU5gwLG"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Maximum Power - Mixed",
+      "url": "https://open.spotify.com/track/6HZxprohcBIDGNC0637O1P"
+    },
+    {
+      "album": {
+        "name": "Power Hour - Radio Edit (Mixed)",
+        "url": "https://open.spotify.com/album/3IxmTbP30it6NBJKYgFT9m"
+      },
+      "artists": [
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Power Hour - Radio Edit - Mixed",
+      "url": "https://open.spotify.com/track/7nselTlZFcRuZl4b3Nbx6Z"
+    },
+    {
+      "album": {
+        "name": "Psycho Style (Mixed)",
+        "url": "https://open.spotify.com/album/5xgMlRZSBn4DFkuORxVxNd"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        },
+        {
+          "name": "Zyon",
+          "url": "https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7"
+        },
+        {
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70000,
+      "name": "Psycho Style - Mixed",
+      "url": "https://open.spotify.com/track/1Ct38UmsyQd1DaEBeape8e"
+    },
+    {
+      "album": {
+        "name": "Raging in the Dancehall - Vertile Remix (Mixed)",
+        "url": "https://open.spotify.com/album/2iDqCOFnCSfX0EGrjIl6p9"
+      },
+      "artists": [
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        },
+        {
+          "name": "The Viper",
+          "url": "https://open.spotify.com/artist/1ovLf87ytwpNoA4prvV8wt"
+        },
+        {
+          "name": "Feral Is Kinky",
+          "url": "https://open.spotify.com/artist/6RntE098osyeJ7t1CzkJW2"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Raging in the Dancehall - Vertile Remix - Mixed",
+      "url": "https://open.spotify.com/track/6mTTLgPnH9sACIB1toeDJ9"
+    },
+    {
+      "album": {
+        "name": "Shake Ya Shimmy (Mixed)",
+        "url": "https://open.spotify.com/album/0rUu0YrSdsdlIc14biRrOD"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Code Black",
+          "url": "https://open.spotify.com/artist/6YUzQTqq4XTeZcCtwetuwS"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Shake Ya Shimmy - Mixed",
+      "url": "https://open.spotify.com/track/2uFtoVfEj8lVVXKjRpWjf2"
+    },
+    {
+      "album": {
+        "name": "Stampuhh!! (The Prophet's Stamp Remix) [Mixed]",
+        "url": "https://open.spotify.com/album/4HsmQL9oNk7RPiD3sohwgk"
+      },
+      "artists": [
+        {
+          "name": "Deepack",
+          "url": "https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev"
+        },
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Stampuhh!! (The Prophet's Stamp Remix) - Mixed",
+      "url": "https://open.spotify.com/track/7A7c6stwWK2y1GTSYx43w9"
+    },
+    {
+      "album": {
+        "name": "Stronger (Mixed)",
+        "url": "https://open.spotify.com/album/5VIbFTEo6Jdm2SHawJYDFm"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Stronger - Mixed",
+      "url": "https://open.spotify.com/track/5cll87VWaNRJBjktquEimd"
+    },
+    {
+      "album": {
+        "name": "The Alchemist (Mixed)",
+        "url": "https://open.spotify.com/album/6UFX3Siu9pclWxufl0ts8K"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        },
+        {
+          "name": "Wim Hof",
+          "url": "https://open.spotify.com/artist/3cAZOrN5tj0BTt7jYb2VMa"
+        },
+        {
+          "name": "Zac Aynsley",
+          "url": "https://open.spotify.com/artist/4n6xUSrgVHhTJoc8JTcrIK"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "The Alchemist - Mixed",
+      "url": "https://open.spotify.com/track/1jFs0Q2sG62kbm7yFyfvym"
+    },
+    {
+      "album": {
+        "name": "The Music Is Moving (Mixed)",
+        "url": "https://open.spotify.com/album/5GuvEXjnZ7NtjTepzAv8mz"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Rudeejay",
+          "url": "https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "The Music Is Moving - Mixed",
+      "url": "https://open.spotify.com/track/1Wb2Dl8IjRnmVwPwVHg0e0"
+    },
+    {
+      "album": {
+        "name": "The Next Level (Mixed)",
+        "url": "https://open.spotify.com/album/0vnM2gykPjF4U1Y6rT8BnA"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "The Next Level - Mixed",
+      "url": "https://open.spotify.com/track/5s9WUGMNF5qCiCjA8RgGLv"
+    },
+    {
+      "album": {
+        "name": "TOO HOT (Mixed)",
+        "url": "https://open.spotify.com/album/6HW8uiYkbjEspqQArMcmiF"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "TOO HOT - Mixed",
+      "url": "https://open.spotify.com/track/5xaAlLH9BmzotqmLK6pp1o"
+    },
+    {
+      "album": {
+        "name": "Wanna Play? (Mixed)",
+        "url": "https://open.spotify.com/album/0qiIVq1Z2rZWVlITVzgFaY"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Wanna Play? - Mixed",
+      "url": "https://open.spotify.com/track/1itH420vqwCc2RCvLBzR8G"
+    },
+    {
+      "album": {
+        "name": "What Happened (Mixed)",
+        "url": "https://open.spotify.com/album/044IOEyPIMSkYBu6GXTbJ5"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "What Happened - Mixed",
+      "url": "https://open.spotify.com/track/2ktmbKoq4R0RyxUD3tVJJ5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6WRXrAIn41I"
 }

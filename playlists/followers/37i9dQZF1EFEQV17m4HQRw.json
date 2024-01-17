@@ -1,574 +1,963 @@
 {
-  "2022-06-05": 166,
-  "2022-06-06": 166,
-  "2022-06-07": 166,
-  "2022-06-08": 168,
-  "2022-06-09": 169,
-  "2022-06-10": 172,
-  "2022-06-11": 174,
-  "2022-06-12": 174,
-  "2022-06-13": 175,
-  "2022-06-14": 175,
-  "2022-06-15": 176,
-  "2022-06-16": 177,
-  "2022-06-17": 177,
-  "2022-06-18": 177,
-  "2022-06-19": 177,
-  "2022-06-20": 177,
-  "2022-06-21": 178,
-  "2022-06-22": 179,
-  "2022-06-23": 179,
-  "2022-06-24": 181,
-  "2022-06-25": 181,
-  "2022-06-26": 181,
-  "2022-06-27": 182,
-  "2022-06-28": 183,
-  "2022-06-29": 185,
-  "2022-06-30": 185,
-  "2022-07-01": 186,
-  "2022-07-02": 186,
-  "2022-07-03": 188,
-  "2022-07-04": 188,
-  "2022-07-05": 188,
-  "2022-07-06": 188,
-  "2022-07-07": 190,
-  "2022-07-08": 193,
-  "2022-07-09": 193,
-  "2022-07-10": 193,
-  "2022-07-11": 193,
-  "2022-07-12": 193,
-  "2022-07-13": 195,
-  "2022-07-14": 196,
-  "2022-07-15": 195,
-  "2022-07-16": 196,
-  "2022-07-17": 197,
-  "2022-07-18": 198,
-  "2022-07-19": 199,
-  "2022-07-20": 199,
-  "2022-07-21": 198,
-  "2022-07-22": 200,
-  "2022-07-23": 200,
-  "2022-07-24": 199,
-  "2022-07-25": 200,
-  "2022-07-26": 200,
-  "2022-07-27": 200,
-  "2022-07-28": 203,
-  "2022-07-29": 204,
-  "2022-07-30": 204,
-  "2022-07-31": 204,
-  "2022-08-01": 205,
-  "2022-08-02": 207,
-  "2022-08-03": 207,
-  "2022-08-04": 208,
-  "2022-08-05": 208,
-  "2022-08-06": 209,
-  "2022-08-07": 208,
-  "2022-08-08": 212,
-  "2022-08-09": 212,
-  "2022-08-10": 211,
-  "2022-08-11": 210,
-  "2022-08-12": 210,
-  "2022-08-13": 209,
-  "2022-08-14": 210,
-  "2022-08-15": 213,
-  "2022-08-16": 213,
-  "2022-08-17": 215,
-  "2022-08-18": 215,
-  "2022-08-19": 218,
-  "2022-08-20": 220,
-  "2022-08-21": 220,
-  "2022-08-22": 220,
-  "2022-08-23": 219,
-  "2022-08-24": 220,
-  "2022-08-25": 221,
-  "2022-08-26": 223,
-  "2022-08-27": 223,
-  "2022-08-28": 224,
-  "2022-08-29": 224,
-  "2022-08-30": 224,
-  "2022-08-31": 225,
-  "2022-09-01": 225,
-  "2022-09-02": 225,
-  "2022-09-03": 225,
-  "2022-09-04": 227,
-  "2022-09-05": 228,
-  "2022-09-06": 229,
-  "2022-09-07": 228,
-  "2022-09-09": 229,
-  "2022-09-10": 228,
-  "2022-09-11": 228,
-  "2022-09-12": 228,
-  "2022-09-13": 228,
-  "2022-09-15": 228,
-  "2022-09-16": 228,
-  "2022-09-17": 229,
-  "2022-09-18": 230,
-  "2022-09-19": 230,
-  "2022-09-20": 231,
-  "2022-09-21": 232,
-  "2022-09-22": 233,
-  "2022-09-23": 233,
-  "2022-09-24": 233,
-  "2022-09-25": 233,
-  "2022-09-26": 233,
-  "2022-09-27": 233,
-  "2022-09-28": 234,
-  "2022-09-29": 235,
-  "2022-09-30": 235,
-  "2022-10-01": 237,
-  "2022-10-02": 239,
-  "2022-10-03": 239,
-  "2022-10-04": 239,
-  "2022-10-05": 241,
-  "2022-10-06": 243,
-  "2022-10-07": 243,
-  "2022-10-08": 245,
-  "2022-10-09": 244,
-  "2022-10-10": 244,
-  "2022-10-11": 244,
-  "2022-10-12": 245,
-  "2022-10-13": 247,
-  "2022-10-14": 247,
-  "2022-10-15": 250,
-  "2022-10-16": 250,
-  "2022-10-17": 250,
-  "2022-10-18": 250,
-  "2022-10-19": 250,
-  "2022-10-20": 250,
-  "2022-10-21": 251,
-  "2022-10-22": 251,
-  "2022-10-23": 251,
-  "2022-10-24": 253,
-  "2022-10-25": 253,
-  "2022-10-26": 253,
-  "2022-10-27": 253,
-  "2022-10-28": 256,
-  "2022-10-29": 257,
-  "2022-10-30": 257,
-  "2022-10-31": 258,
-  "2022-11-01": 259,
-  "2022-11-02": 259,
-  "2022-11-03": 259,
-  "2022-11-04": 261,
-  "2022-11-05": 261,
-  "2022-11-06": 261,
-  "2022-11-07": 261,
-  "2022-11-08": 262,
-  "2022-11-09": 263,
-  "2022-11-10": 263,
-  "2022-11-11": 265,
-  "2022-11-12": 265,
-  "2022-11-13": 265,
-  "2022-11-14": 265,
-  "2022-11-15": 265,
-  "2022-11-16": 266,
-  "2022-11-17": 266,
-  "2022-11-18": 266,
-  "2022-11-19": 266,
-  "2022-11-20": 267,
-  "2022-11-21": 267,
-  "2022-11-22": 267,
-  "2022-11-23": 267,
-  "2022-11-24": 269,
-  "2022-11-25": 269,
-  "2022-11-26": 271,
-  "2022-11-27": 272,
-  "2022-11-28": 272,
-  "2022-11-29": 273,
-  "2022-11-30": 273,
-  "2022-12-01": 273,
-  "2022-12-02": 273,
-  "2022-12-03": 274,
-  "2022-12-04": 275,
-  "2022-12-05": 277,
-  "2022-12-06": 278,
-  "2022-12-07": 278,
-  "2022-12-08": 279,
-  "2022-12-09": 282,
-  "2022-12-10": 284,
-  "2022-12-11": 287,
-  "2022-12-12": 288,
-  "2022-12-13": 288,
-  "2022-12-14": 288,
-  "2022-12-15": 288,
-  "2022-12-16": 289,
-  "2022-12-17": 290,
-  "2022-12-18": 291,
-  "2022-12-19": 292,
-  "2022-12-20": 293,
-  "2022-12-21": 293,
-  "2022-12-22": 295,
-  "2022-12-24": 298,
-  "2022-12-25": 298,
-  "2022-12-26": 300,
-  "2022-12-27": 300,
-  "2022-12-28": 301,
-  "2022-12-29": 302,
-  "2022-12-30": 303,
-  "2022-12-31": 303,
-  "2023-01-01": 304,
-  "2023-01-02": 306,
-  "2023-01-03": 309,
-  "2023-01-04": 311,
-  "2023-01-05": 311,
-  "2023-01-06": 312,
-  "2023-01-07": 312,
-  "2023-01-08": 312,
-  "2023-01-09": 314,
-  "2023-01-10": 315,
-  "2023-01-11": 315,
-  "2023-01-12": 317,
-  "2023-01-13": 318,
-  "2023-01-14": 320,
-  "2023-01-15": 321,
-  "2023-01-16": 320,
-  "2023-01-17": 322,
-  "2023-01-18": 322,
-  "2023-01-19": 324,
-  "2023-01-20": 324,
-  "2023-01-21": 324,
-  "2023-01-22": 324,
-  "2023-01-23": 325,
-  "2023-01-24": 325,
-  "2023-01-25": 325,
-  "2023-01-26": 325,
-  "2023-01-27": 325,
-  "2023-01-28": 323,
-  "2023-01-29": 324,
-  "2023-01-30": 324,
-  "2023-01-31": 324,
-  "2023-02-01": 323,
-  "2023-02-02": 325,
-  "2023-02-03": 324,
-  "2023-02-04": 324,
-  "2023-02-05": 326,
-  "2023-02-06": 327,
-  "2023-02-07": 328,
-  "2023-02-08": 331,
-  "2023-02-09": 331,
-  "2023-02-10": 331,
-  "2023-02-11": 331,
-  "2023-02-12": 331,
-  "2023-02-13": 331,
-  "2023-02-14": 331,
-  "2023-02-15": 332,
-  "2023-02-16": 331,
-  "2023-02-17": 331,
-  "2023-02-18": 332,
-  "2023-02-19": 332,
-  "2023-02-20": 332,
-  "2023-02-21": 332,
-  "2023-02-22": 334,
-  "2023-02-23": 334,
-  "2023-02-24": 336,
-  "2023-02-25": 337,
-  "2023-02-26": 337,
-  "2023-02-27": 337,
-  "2023-02-28": 337,
-  "2023-03-01": 338,
-  "2023-03-02": 338,
-  "2023-03-03": 338,
-  "2023-03-04": 338,
-  "2023-03-05": 338,
-  "2023-03-06": 338,
-  "2023-03-07": 339,
-  "2023-03-08": 341,
-  "2023-03-09": 341,
-  "2023-03-10": 340,
-  "2023-03-11": 341,
-  "2023-03-12": 341,
-  "2023-03-13": 342,
-  "2023-03-14": 342,
-  "2023-03-15": 342,
-  "2023-03-16": 342,
-  "2023-03-17": 342,
-  "2023-03-18": 343,
-  "2023-03-19": 343,
-  "2023-03-20": 344,
-  "2023-03-21": 344,
-  "2023-03-22": 345,
-  "2023-03-23": 345,
-  "2023-03-24": 345,
-  "2023-03-25": 345,
-  "2023-03-26": 345,
-  "2023-03-27": 345,
-  "2023-03-28": 345,
-  "2023-03-29": 347,
-  "2023-03-30": 348,
-  "2023-03-31": 348,
-  "2023-04-01": 349,
-  "2023-04-02": 351,
-  "2023-04-03": 352,
-  "2023-04-04": 354,
-  "2023-04-05": 357,
-  "2023-04-06": 358,
-  "2023-04-07": 358,
-  "2023-04-09": 363,
-  "2023-04-10": 363,
-  "2023-04-11": 365,
-  "2023-04-12": 365,
-  "2023-04-13": 366,
-  "2023-04-14": 367,
-  "2023-04-15": 367,
-  "2023-04-16": 367,
-  "2023-04-17": 367,
-  "2023-04-18": 367,
-  "2023-04-19": 367,
-  "2023-04-20": 367,
-  "2023-04-21": 367,
-  "2023-04-22": 368,
-  "2023-04-23": 369,
-  "2023-04-24": 369,
-  "2023-04-25": 369,
-  "2023-04-26": 369,
-  "2023-04-27": 371,
-  "2023-04-28": 371,
-  "2023-04-29": 371,
-  "2023-04-30": 371,
-  "2023-05-01": 371,
-  "2023-05-02": 374,
-  "2023-05-03": 375,
-  "2023-05-04": 375,
-  "2023-05-05": 375,
-  "2023-05-06": 376,
-  "2023-05-07": 378,
-  "2023-05-08": 378,
-  "2023-05-09": 379,
-  "2023-05-10": 379,
-  "2023-05-11": 379,
-  "2023-05-12": 379,
-  "2023-05-13": 380,
-  "2023-05-14": 383,
-  "2023-05-15": 383,
-  "2023-05-16": 383,
-  "2023-05-17": 383,
-  "2023-05-18": 383,
-  "2023-05-19": 383,
-  "2023-05-20": 385,
-  "2023-05-21": 385,
-  "2023-05-22": 385,
-  "2023-05-23": 385,
-  "2023-05-24": 385,
-  "2023-05-25": 385,
-  "2023-05-26": 386,
-  "2023-05-27": 386,
-  "2023-05-28": 386,
-  "2023-05-29": 386,
-  "2023-05-30": 388,
-  "2023-05-31": 388,
-  "2023-06-01": 388,
-  "2023-06-02": 388,
-  "2023-06-03": 388,
-  "2023-06-04": 388,
-  "2023-06-05": 388,
-  "2023-06-06": 390,
-  "2023-06-07": 390,
-  "2023-06-08": 391,
-  "2023-06-09": 392,
-  "2023-06-10": 394,
-  "2023-06-11": 395,
-  "2023-06-12": 395,
-  "2023-06-13": 395,
-  "2023-06-14": 396,
-  "2023-06-15": 396,
-  "2023-06-16": 398,
-  "2023-06-17": 399,
-  "2023-06-18": 399,
-  "2023-06-19": 398,
-  "2023-06-20": 401,
-  "2023-06-21": 399,
-  "2023-06-22": 399,
-  "2023-06-23": 399,
-  "2023-06-24": 399,
-  "2023-06-25": 399,
-  "2023-06-26": 398,
-  "2023-06-27": 399,
-  "2023-06-28": 400,
-  "2023-06-29": 402,
-  "2023-06-30": 402,
-  "2023-07-01": 405,
-  "2023-07-02": 405,
-  "2023-07-03": 406,
-  "2023-07-04": 407,
-  "2023-07-05": 407,
-  "2023-07-06": 407,
-  "2023-07-07": 407,
-  "2023-07-08": 407,
-  "2023-07-09": 407,
-  "2023-07-10": 407,
-  "2023-07-11": 408,
-  "2023-07-12": 408,
-  "2023-07-13": 408,
-  "2023-07-14": 409,
-  "2023-07-15": 409,
-  "2023-07-16": 410,
-  "2023-07-17": 413,
-  "2023-07-18": 414,
-  "2023-07-19": 414,
-  "2023-07-20": 414,
-  "2023-07-21": 415,
-  "2023-07-22": 415,
-  "2023-07-23": 417,
-  "2023-07-24": 417,
-  "2023-07-25": 419,
-  "2023-07-26": 419,
-  "2023-07-27": 419,
-  "2023-07-28": 419,
-  "2023-07-29": 418,
-  "2023-07-30": 418,
-  "2023-07-31": 419,
-  "2023-08-01": 420,
-  "2023-08-02": 419,
-  "2023-08-03": 420,
-  "2023-08-04": 420,
-  "2023-08-05": 420,
-  "2023-08-06": 420,
-  "2023-08-07": 420,
-  "2023-08-08": 423,
-  "2023-08-09": 423,
-  "2023-08-10": 423,
-  "2023-08-11": 422,
-  "2023-08-12": 422,
-  "2023-08-13": 422,
-  "2023-08-14": 422,
-  "2023-08-15": 422,
-  "2023-08-16": 422,
-  "2023-08-17": 422,
-  "2023-08-18": 422,
-  "2023-08-19": 422,
-  "2023-08-20": 426,
-  "2023-08-21": 426,
-  "2023-08-22": 426,
-  "2023-08-23": 426,
-  "2023-08-24": 426,
-  "2023-08-25": 426,
-  "2023-08-26": 428,
-  "2023-08-27": 428,
-  "2023-08-28": 430,
-  "2023-08-29": 430,
-  "2023-08-30": 430,
-  "2023-08-31": 432,
-  "2023-09-01": 433,
-  "2023-09-02": 433,
-  "2023-09-03": 433,
-  "2023-09-04": 433,
-  "2023-09-05": 433,
-  "2023-09-06": 433,
-  "2023-09-07": 433,
-  "2023-09-08": 433,
-  "2023-09-09": 433,
-  "2023-09-10": 433,
-  "2023-09-11": 433,
-  "2023-09-12": 433,
-  "2023-09-13": 433,
-  "2023-09-14": 433,
-  "2023-09-15": 433,
-  "2023-09-16": 433,
-  "2023-09-17": 433,
-  "2023-09-18": 433,
-  "2023-09-19": 433,
-  "2023-09-20": 433,
-  "2023-09-21": 433,
-  "2023-09-22": 433,
-  "2023-09-23": 433,
-  "2023-09-24": 433,
-  "2023-09-25": 433,
-  "2023-09-26": 433,
-  "2023-09-27": 433,
-  "2023-09-28": 433,
-  "2023-09-29": 433,
-  "2023-09-30": 433,
-  "2023-10-01": 433,
-  "2023-10-02": 433,
-  "2023-10-03": 433,
-  "2023-10-04": 433,
-  "2023-10-05": 433,
-  "2023-10-06": 433,
-  "2023-10-07": 433,
-  "2023-10-08": 433,
-  "2023-10-09": 433,
-  "2023-10-10": 433,
-  "2023-10-11": 433,
-  "2023-10-12": 433,
-  "2023-10-13": 433,
-  "2023-10-14": 433,
-  "2023-10-15": 433,
-  "2023-10-16": 433,
-  "2023-10-17": 433,
-  "2023-10-18": 433,
-  "2023-10-19": 433,
-  "2023-10-20": 433,
-  "2023-10-21": 433,
-  "2023-10-22": 433,
-  "2023-10-23": 433,
-  "2023-10-24": 433,
-  "2023-10-25": 433,
-  "2023-10-26": 433,
-  "2023-10-27": 433,
-  "2023-10-28": 433,
-  "2023-10-29": 433,
-  "2023-10-30": 433,
-  "2023-10-31": 433,
-  "2023-11-01": 433,
-  "2023-11-02": 433,
-  "2023-11-03": 433,
-  "2023-11-04": 433,
-  "2023-11-05": 433,
-  "2023-11-06": 433,
-  "2023-11-07": 433,
-  "2023-11-08": 433,
-  "2023-11-09": 433,
-  "2023-11-10": 433,
-  "2023-11-11": 433,
-  "2023-11-12": 433,
-  "2023-11-13": 433,
-  "2023-11-14": 433,
-  "2023-11-15": 433,
-  "2023-11-16": 433,
-  "2023-11-17": 433,
-  "2023-11-18": 433,
-  "2023-11-19": 433,
-  "2023-11-20": 433,
-  "2023-11-21": 433,
-  "2023-11-22": 433,
-  "2023-11-23": 433,
-  "2023-11-24": 433,
-  "2023-11-25": 433,
-  "2023-11-26": 433,
-  "2023-11-27": 433,
-  "2023-11-28": 433,
-  "2023-11-29": 433,
-  "2023-11-30": 433,
-  "2023-12-01": 433,
-  "2023-12-02": 433,
-  "2023-12-03": 433,
-  "2023-12-04": 433,
-  "2023-12-05": 433,
-  "2023-12-06": 433,
-  "2023-12-07": 433,
-  "2023-12-08": 433,
-  "2023-12-09": 433,
-  "2023-12-10": 433,
-  "2023-12-11": 433,
-  "2023-12-12": 433,
-  "2023-12-13": 433,
-  "2023-12-14": 467,
-  "2023-12-15": 467,
-  "2023-12-16": 467,
-  "2023-12-17": 468,
-  "2023-12-18": 468,
-  "2023-12-19": 468,
-  "2023-12-20": 468,
-  "2023-12-21": 467,
-  "2023-12-22": 467,
-  "2023-12-23": 467,
-  "2023-12-24": 467,
-  "2023-12-25": 468,
-  "2023-12-26": 468,
-  "2023-12-27": 469,
-  "2023-12-30": 470,
-  "2023-12-31": 470,
-  "2024-01-01": 470,
-  "2024-01-02": 470,
-  "2024-01-03": 470
+  "2024-01-17": 473,
+  "date_first_scraped": "2022-06-05",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn\">Jotta A</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Jotta A",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196067,
+      "name": "15",
+      "url": "https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236900,
+      "name": "911",
+      "url": "https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344986,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/37mqs99CoVLs3q4MQjHWCp"
+    },
+    {
+      "album": {
+        "name": "Aguenta Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273252,
+      "name": "Aguenta Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY"
+    },
+    {
+      "album": {
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276521,
+      "name": "Alasca",
+      "url": "https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329466,
+      "name": "Altar da Gra\u00e7a",
+      "url": "https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386786,
+      "name": "Amor Impetuoso",
+      "url": "https://open.spotify.com/track/6mnaqZnMNWgNsRKpfQxBYY"
+    },
+    {
+      "album": {
+        "name": "Apollo 11",
+        "url": "https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193640,
+      "name": "Apollo 11",
+      "url": "https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC"
+    },
+    {
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/6bWDNm3rA6TGfOLP9bB0pP"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206067,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/4ZwgnxVK1fxr58BEVo5sZ8"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279560,
+      "name": "Cante Outra Vez",
+      "url": "https://open.spotify.com/track/17mVv6aGrWt7ScrMWrVMXh"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208019,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/4oiAtbB2nWywnV6VaR5Fug"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259173,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK"
+    },
+    {
+      "album": {
+        "name": "Como o C\u00e9u Te Adora",
+        "url": "https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336720,
+      "name": "Ent\u00e3o Ora, Igreja",
+      "url": "https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB"
+    },
+    {
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413306,
+      "name": "Extravagante Adoraci\u00f3n",
+      "url": "https://open.spotify.com/track/1HuHdHmg3jep3qe6OblEUN"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181076,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236377,
+      "name": "Humano",
+      "url": "https://open.spotify.com/track/5OnEkb3DlPk155Y9XQvIKG"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225538,
+      "name": "La Dr\u00e1cula",
+      "url": "https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ"
+    },
+    {
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330933,
+      "name": "Libre para Adorar",
+      "url": "https://open.spotify.com/track/3V5gDsGQuqWC7MvNp2vMuV"
+    },
+    {
+      "album": {
+        "name": "Noel, Vol. 1",
+        "url": "https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Andreas Moss",
+          "url": "https://open.spotify.com/artist/2g6nfqSFo2cPVrafnW85jm"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265431,
+      "name": "Luz del Mundo",
+      "url": "https://open.spotify.com/track/4g62y55eG0bqSWmssbUAC2"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239053,
+      "name": "Maravilhoso",
+      "url": "https://open.spotify.com/track/2NlMQxiWYX7ZXOYkgi9YFn"
+    },
+    {
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
+    },
+    {
+      "album": {
+        "name": "Me Garanto",
+        "url": "https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB"
+      },
+      "artists": [
+        {
+          "name": "Carol Roberto",
+          "url": "https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164702,
+      "name": "Me Garanto",
+      "url": "https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf"
+    },
+    {
+      "album": {
+        "name": "Mercen\u00e1rias",
+        "url": "https://open.spotify.com/album/0iA8avL6J85MjDCRGgprox"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Titica",
+          "url": "https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159169,
+      "name": "Mercen\u00e1rias",
+      "url": "https://open.spotify.com/track/3uRuB1nkOD1wgMko3MZi2D"
+    },
+    {
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400920,
+      "name": "Mi Amado",
+      "url": "https://open.spotify.com/track/1jeSylgKUYSYQBU00byXTr"
+    },
+    {
+      "album": {
+        "name": "Noel, Vol. 1",
+        "url": "https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Bulla Beatz",
+          "url": "https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196251,
+      "name": "Multid\u00e3o",
+      "url": "https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401533,
+      "name": "Mu\u00e9strame Tu Gloria",
+      "url": "https://open.spotify.com/track/14BFOwWp5gp0AxgoxVldZe"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232586,
+      "name": "M\u00e1s Veloz",
+      "url": "https://open.spotify.com/track/7h6wsQoTMVmtR0BgZADere"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191056,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa"
+    },
+    {
+      "album": {
+        "name": "Originais",
+        "url": "https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Originais",
+      "url": "https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX"
+    },
+    {
+      "album": {
+        "name": "Pesadona",
+        "url": "https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Castilhol",
+          "url": "https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136162,
+      "name": "Pesadona",
+      "url": "https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL"
+    },
+    {
+      "album": {
+        "name": "Pessoa Certa",
+        "url": "https://open.spotify.com/album/11P5Ts5KJTKuUJB2KHSvY6"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Pessoa Certa",
+      "url": "https://open.spotify.com/track/3WeDX4xrTjr22Rua1f94A9"
+    },
+    {
+      "album": {
+        "name": "Professor Da F\u00e9",
+        "url": "https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320928,
+      "name": "Professor Da F\u00e9",
+      "url": "https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs"
+    },
+    {
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC"
+      },
+      "artists": [
+        {
+          "name": "Lais Souza",
+          "url": "https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285809,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy"
+    },
+    {
+      "album": {
+        "name": "Purificados",
+        "url": "https://open.spotify.com/album/1FChfjyeKe3iD83te6z5Xs"
+      },
+      "artists": [
+        {
+          "name": "Michelle Nascimento",
+          "url": "https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339986,
+      "name": "Purificados",
+      "url": "https://open.spotify.com/track/0DYqL9ijMsiUZEqMkyTUHL"
+    },
+    {
+      "album": {
+        "name": "Noel, Vol. 1",
+        "url": "https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "P\u00e1jaro de Acero",
+      "url": "https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358320,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/4khL1wI2vAJsI76YYT9AtG"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269480,
+      "name": "Rosa de Saron",
+      "url": "https://open.spotify.com/track/5XfnU51P1zZH68aFGgesn1"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Matheus Bird",
+          "url": "https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286693,
+      "name": "Seu Amigo",
+      "url": "https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx"
+    },
+    {
+      "album": {
+        "name": "Sinai",
+        "url": "https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy"
+      },
+      "artists": [
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298701,
+      "name": "Sinai",
+      "url": "https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d"
+    },
+    {
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "Sonhos de Jos\u00e9",
+      "url": "https://open.spotify.com/track/0WStd5zTa892KcxoMAiwMx"
+    },
+    {
+      "album": {
+        "name": "Surpresa do C\u00e9u",
+        "url": "https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Christiny",
+          "url": "https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301253,
+      "name": "Surpresa do C\u00e9u",
+      "url": "https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky"
+    },
+    {
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377253,
+      "name": "S\u00f3lo en Tu Brazos",
+      "url": "https://open.spotify.com/track/6AdKEowNdjZNuoYVl9ZRcA"
+    },
+    {
+      "album": {
+        "name": "La Dr\u00e1cula",
+        "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188857,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ"
+    },
+    {
+      "album": {
+        "name": "Vai virar TBT",
+        "url": "https://open.spotify.com/album/16AY6gtvOnC6XTfU5Jplzm"
+      },
+      "artists": [
+        {
+          "name": "Bruna de Paula",
+          "url": "https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y"
+        },
+        {
+          "name": "LONDU",
+          "url": "https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186969,
+      "name": "Vai virar TBT",
+      "url": "https://open.spotify.com/track/3h2tZQaIllLw4UwQqQgNMD"
+    },
+    {
+      "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9lia Bueno",
+          "url": "https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299502,
+      "name": "Vem Sabendo",
+      "url": "https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q"
+    },
+    {
+      "album": {
+        "name": "Viento y Fuego",
+        "url": "https://open.spotify.com/album/1gwEQd1JAuVzFmyNuhJxxa"
+      },
+      "artists": [
+        {
+          "name": "ICC Worship",
+          "url": "https://open.spotify.com/artist/78dYVP5riNvP1gSUMrir80"
+        },
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319960,
+      "name": "Viento y Fuego",
+      "url": "https://open.spotify.com/track/5G9vADNELif86MhpMfJsj5"
+    },
+    {
+      "album": {
+        "name": "\u00c9den",
+        "url": "https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178738,
+      "name": "\u00c9den",
+      "url": "https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFEQV17m4HQRw"
 }

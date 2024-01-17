@@ -1,580 +1,2735 @@
 {
-  "2022-05-30": 58246,
-  "2022-05-31": 58277,
-  "2022-06-01": 58320,
-  "2022-06-02": 58324,
-  "2022-06-03": 58341,
-  "2022-06-04": 58361,
-  "2022-06-05": 58387,
-  "2022-06-06": 58427,
-  "2022-06-07": 58465,
-  "2022-06-08": 58489,
-  "2022-06-09": 58530,
-  "2022-06-10": 58574,
-  "2022-06-11": 58589,
-  "2022-06-12": 58620,
-  "2022-06-13": 58646,
-  "2022-06-14": 58669,
-  "2022-06-15": 58704,
-  "2022-06-16": 58755,
-  "2022-06-17": 58804,
-  "2022-06-18": 58839,
-  "2022-06-19": 58915,
-  "2022-06-20": 58915,
-  "2022-06-21": 58962,
-  "2022-06-22": 59027,
-  "2022-06-23": 59027,
-  "2022-06-24": 59055,
-  "2022-06-25": 59089,
-  "2022-06-26": 59114,
-  "2022-06-27": 59114,
-  "2022-06-28": 59210,
-  "2022-06-29": 59266,
-  "2022-06-30": 59298,
-  "2022-07-01": 59353,
-  "2022-07-02": 59383,
-  "2022-07-03": 59421,
-  "2022-07-04": 59456,
-  "2022-07-05": 59499,
-  "2022-07-06": 59530,
-  "2022-07-07": 59554,
-  "2022-07-08": 59586,
-  "2022-07-09": 59628,
-  "2022-07-10": 59661,
-  "2022-07-11": 59707,
-  "2022-07-12": 59749,
-  "2022-07-13": 59789,
-  "2022-07-14": 59883,
-  "2022-07-15": 59932,
-  "2022-07-16": 59965,
-  "2022-07-17": 59985,
-  "2022-07-18": 60010,
-  "2022-07-19": 60058,
-  "2022-07-20": 60114,
-  "2022-07-21": 60155,
-  "2022-07-22": 60193,
-  "2022-07-23": 60231,
-  "2022-07-24": 60262,
-  "2022-07-25": 60311,
-  "2022-07-26": 60345,
-  "2022-07-27": 60389,
-  "2022-07-28": 60436,
-  "2022-07-29": 60470,
-  "2022-07-30": 60537,
-  "2022-07-31": 60537,
-  "2022-08-01": 60569,
-  "2022-08-02": 60654,
-  "2022-08-03": 60654,
-  "2022-08-04": 60681,
-  "2022-08-05": 60709,
-  "2022-08-06": 60734,
-  "2022-08-07": 60771,
-  "2022-08-08": 60814,
-  "2022-08-09": 60846,
-  "2022-08-10": 60884,
-  "2022-08-11": 60921,
-  "2022-08-12": 60934,
-  "2022-08-13": 60958,
-  "2022-08-14": 60995,
-  "2022-08-15": 61028,
-  "2022-08-16": 61068,
-  "2022-08-17": 61107,
-  "2022-08-18": 61141,
-  "2022-08-19": 61164,
-  "2022-08-20": 61195,
-  "2022-08-21": 61244,
-  "2022-08-22": 61290,
-  "2022-08-23": 61322,
-  "2022-08-24": 61368,
-  "2022-08-25": 61423,
-  "2022-08-26": 61472,
-  "2022-08-27": 61510,
-  "2022-08-28": 61551,
-  "2022-08-29": 61595,
-  "2022-08-30": 61614,
-  "2022-08-31": 61612,
-  "2022-09-01": 61603,
-  "2022-09-02": 61619,
-  "2022-09-03": 61563,
-  "2022-09-04": 61563,
-  "2022-09-05": 61588,
-  "2022-09-06": 61617,
-  "2022-09-07": 61651,
-  "2022-09-09": 61730,
-  "2022-09-10": 61761,
-  "2022-09-11": 61799,
-  "2022-09-12": 61832,
-  "2022-09-13": 61873,
-  "2022-09-15": 61959,
-  "2022-09-16": 61997,
-  "2022-09-17": 62027,
-  "2022-09-18": 62054,
-  "2022-09-19": 62087,
-  "2022-09-20": 62117,
-  "2022-09-21": 62151,
-  "2022-09-22": 62186,
-  "2022-09-23": 62205,
-  "2022-09-24": 62227,
-  "2022-09-25": 62267,
-  "2022-09-26": 62308,
-  "2022-09-27": 62338,
-  "2022-09-28": 62366,
-  "2022-09-29": 62389,
-  "2022-09-30": 62477,
-  "2022-10-01": 62534,
-  "2022-10-02": 62583,
-  "2022-10-03": 62630,
-  "2022-10-04": 62671,
-  "2022-10-05": 62715,
-  "2022-10-06": 62749,
-  "2022-10-07": 62804,
-  "2022-10-08": 62859,
-  "2022-10-09": 62930,
-  "2022-10-10": 62944,
-  "2022-10-11": 62963,
-  "2022-10-12": 63005,
-  "2022-10-13": 63045,
-  "2022-10-14": 63076,
-  "2022-10-15": 63118,
-  "2022-10-16": 63173,
-  "2022-10-17": 63228,
-  "2022-10-18": 63262,
-  "2022-10-19": 63302,
-  "2022-10-20": 63336,
-  "2022-10-21": 63365,
-  "2022-10-22": 63418,
-  "2022-10-23": 63438,
-  "2022-10-24": 63487,
-  "2022-10-25": 63545,
-  "2022-10-26": 63643,
-  "2022-10-27": 63737,
-  "2022-10-28": 63812,
-  "2022-10-29": 63875,
-  "2022-10-30": 63933,
-  "2022-10-31": 63998,
-  "2022-11-01": 64050,
-  "2022-11-02": 64117,
-  "2022-11-03": 64174,
-  "2022-11-04": 64225,
-  "2022-11-05": 64270,
-  "2022-11-06": 64307,
-  "2022-11-07": 64371,
-  "2022-11-08": 64418,
-  "2022-11-09": 64472,
-  "2022-11-10": 64497,
-  "2022-11-11": 64545,
-  "2022-11-12": 64596,
-  "2022-11-13": 64658,
-  "2022-11-14": 64709,
-  "2022-11-15": 64790,
-  "2022-11-16": 64840,
-  "2022-11-17": 64889,
-  "2022-11-18": 64907,
-  "2022-11-19": 64930,
-  "2022-11-20": 64971,
-  "2022-11-21": 65027,
-  "2022-11-22": 65075,
-  "2022-11-23": 65127,
-  "2022-11-24": 65215,
-  "2022-11-25": 65286,
-  "2022-11-26": 65347,
-  "2022-11-27": 65399,
-  "2022-11-28": 65465,
-  "2022-11-29": 65505,
-  "2022-11-30": 65562,
-  "2022-12-01": 65631,
-  "2022-12-02": 65641,
-  "2022-12-03": 65724,
-  "2022-12-04": 65772,
-  "2022-12-05": 65826,
-  "2022-12-06": 65892,
-  "2022-12-07": 65955,
-  "2022-12-08": 66018,
-  "2022-12-09": 66080,
-  "2022-12-10": 66131,
-  "2022-12-11": 66213,
-  "2022-12-12": 66403,
-  "2022-12-13": 66597,
-  "2022-12-14": 66795,
-  "2022-12-15": 66908,
-  "2022-12-16": 66996,
-  "2022-12-17": 67072,
-  "2022-12-18": 67147,
-  "2022-12-19": 67233,
-  "2022-12-20": 67375,
-  "2022-12-21": 67375,
-  "2022-12-22": 67456,
-  "2022-12-24": 67583,
-  "2022-12-25": 67688,
-  "2022-12-26": 67783,
-  "2022-12-27": 67873,
-  "2022-12-28": 67946,
-  "2022-12-29": 68016,
-  "2022-12-30": 68075,
-  "2022-12-31": 68135,
-  "2023-01-01": 68189,
-  "2023-01-02": 68257,
-  "2023-01-03": 68325,
-  "2023-01-04": 68387,
-  "2023-01-05": 68437,
-  "2023-01-06": 68663,
-  "2023-01-07": 68895,
-  "2023-01-08": 68912,
-  "2023-01-09": 69056,
-  "2023-01-10": 69166,
-  "2023-01-11": 69242,
-  "2023-01-12": 69325,
-  "2023-01-13": 69394,
-  "2023-01-14": 69510,
-  "2023-01-15": 69529,
-  "2023-01-16": 69642,
-  "2023-01-17": 69738,
-  "2023-01-18": 70010,
-  "2023-01-19": 70238,
-  "2023-01-20": 70401,
-  "2023-01-21": 70529,
-  "2023-01-22": 70621,
-  "2023-01-23": 70735,
-  "2023-01-24": 70835,
-  "2023-01-25": 70939,
-  "2023-01-26": 71029,
-  "2023-01-27": 71220,
-  "2023-01-28": 71376,
-  "2023-01-29": 71475,
-  "2023-01-30": 71565,
-  "2023-01-31": 71565,
-  "2023-02-01": 71688,
-  "2023-02-02": 72002,
-  "2023-02-03": 72083,
-  "2023-02-04": 72144,
-  "2023-02-05": 72217,
-  "2023-02-06": 72304,
-  "2023-02-07": 72366,
-  "2023-02-08": 72503,
-  "2023-02-09": 72503,
-  "2023-02-10": 72543,
-  "2023-02-11": 72593,
-  "2023-02-12": 72828,
-  "2023-02-13": 72925,
-  "2023-02-14": 72925,
-  "2023-02-15": 72997,
-  "2023-02-16": 73067,
-  "2023-02-17": 73113,
-  "2023-02-18": 73274,
-  "2023-02-19": 73292,
-  "2023-02-20": 73370,
-  "2023-02-21": 73436,
-  "2023-02-22": 73532,
-  "2023-02-23": 73624,
-  "2023-02-24": 73715,
-  "2023-02-25": 73836,
-  "2023-02-26": 73896,
-  "2023-02-27": 74040,
-  "2023-02-28": 74040,
-  "2023-03-01": 74091,
-  "2023-03-02": 74144,
-  "2023-03-03": 74174,
-  "2023-03-04": 74225,
-  "2023-03-05": 74333,
-  "2023-03-06": 74333,
-  "2023-03-07": 74395,
-  "2023-03-08": 74434,
-  "2023-03-09": 74470,
-  "2023-03-10": 74513,
-  "2023-03-11": 74545,
-  "2023-03-12": 74582,
-  "2023-03-13": 74627,
-  "2023-03-14": 74645,
-  "2023-03-15": 74675,
-  "2023-03-16": 74709,
-  "2023-03-17": 74709,
-  "2023-03-18": 74768,
-  "2023-03-19": 74802,
-  "2023-03-20": 74831,
-  "2023-03-21": 74866,
-  "2023-03-22": 74898,
-  "2023-03-23": 74928,
-  "2023-03-24": 74928,
-  "2023-03-25": 74980,
-  "2023-03-26": 75007,
-  "2023-03-27": 75031,
-  "2023-03-28": 75066,
-  "2023-03-29": 75101,
-  "2023-03-30": 75155,
-  "2023-03-31": 75155,
-  "2023-04-01": 75181,
-  "2023-04-02": 75220,
-  "2023-04-03": 80170,
-  "2023-04-04": 86442,
-  "2023-04-05": 89365,
-  "2023-04-06": 90984,
-  "2023-04-07": 92452,
-  "2023-04-09": 94446,
-  "2023-04-10": 95224,
-  "2023-04-11": 96134,
-  "2023-04-12": 96134,
-  "2023-04-13": 96533,
-  "2023-04-14": 96835,
-  "2023-04-15": 97113,
-  "2023-04-16": 97401,
-  "2023-04-17": 97676,
-  "2023-04-18": 97890,
-  "2023-04-19": 98106,
-  "2023-04-20": 98293,
-  "2023-04-21": 98460,
-  "2023-04-22": 98723,
-  "2023-04-23": 99027,
-  "2023-04-24": 99244,
-  "2023-04-25": 99406,
-  "2023-04-26": 99563,
-  "2023-04-27": 99738,
-  "2023-04-28": 99895,
-  "2023-04-29": 100031,
-  "2023-04-30": 100192,
-  "2023-05-01": 100353,
-  "2023-05-02": 100469,
-  "2023-05-03": 100569,
-  "2023-05-04": 100684,
-  "2023-05-05": 100791,
-  "2023-05-06": 100891,
-  "2023-05-07": 101018,
-  "2023-05-08": 101157,
-  "2023-05-09": 101281,
-  "2023-05-10": 101389,
-  "2023-05-11": 101494,
-  "2023-05-12": 101612,
-  "2023-05-13": 101736,
-  "2023-05-14": 101853,
-  "2023-05-15": 101954,
-  "2023-05-16": 102301,
-  "2023-05-17": 102568,
-  "2023-05-18": 102782,
-  "2023-05-19": 102916,
-  "2023-05-20": 103224,
-  "2023-05-21": 103224,
-  "2023-05-22": 103224,
-  "2023-05-23": 103498,
-  "2023-05-24": 103714,
-  "2023-05-25": 103750,
-  "2023-05-26": 103896,
-  "2023-05-27": 103999,
-  "2023-05-28": 104117,
-  "2023-05-29": 104117,
-  "2023-05-30": 104326,
-  "2023-05-31": 104409,
-  "2023-06-01": 104498,
-  "2023-06-02": 104587,
-  "2023-06-03": 104666,
-  "2023-06-04": 104760,
-  "2023-06-05": 104869,
-  "2023-06-06": 104949,
-  "2023-06-07": 105034,
-  "2023-06-08": 105109,
-  "2023-06-09": 105202,
-  "2023-06-10": 105309,
-  "2023-06-11": 105397,
-  "2023-06-12": 105491,
-  "2023-06-13": 105573,
-  "2023-06-14": 105658,
-  "2023-06-15": 105720,
-  "2023-06-16": 105787,
-  "2023-06-17": 105888,
-  "2023-06-18": 105977,
-  "2023-06-19": 106094,
-  "2023-06-20": 106196,
-  "2023-06-21": 106272,
-  "2023-06-22": 106375,
-  "2023-06-23": 106456,
-  "2023-06-24": 106532,
-  "2023-06-25": 106606,
-  "2023-06-26": 106706,
-  "2023-06-27": 106757,
-  "2023-06-28": 106827,
-  "2023-06-29": 106921,
-  "2023-06-30": 106998,
-  "2023-07-01": 107188,
-  "2023-07-02": 107188,
-  "2023-07-03": 107261,
-  "2023-07-04": 107368,
-  "2023-07-05": 107426,
-  "2023-07-06": 107623,
-  "2023-07-07": 107623,
-  "2023-07-08": 107722,
-  "2023-07-09": 107808,
-  "2023-07-10": 107882,
-  "2023-07-11": 107969,
-  "2023-07-12": 108032,
-  "2023-07-13": 108101,
-  "2023-07-14": 108176,
-  "2023-07-15": 108222,
-  "2023-07-16": 108293,
-  "2023-07-17": 108362,
-  "2023-07-18": 108435,
-  "2023-07-19": 108559,
-  "2023-07-20": 108629,
-  "2023-07-21": 108702,
-  "2023-07-22": 108754,
-  "2023-07-23": 108800,
-  "2023-07-24": 108864,
-  "2023-07-25": 108924,
-  "2023-07-26": 108985,
-  "2023-07-27": 109040,
-  "2023-07-28": 109109,
-  "2023-07-29": 109169,
-  "2023-07-30": 109229,
-  "2023-07-31": 109287,
-  "2023-08-01": 109356,
-  "2023-08-02": 109411,
-  "2023-08-03": 109478,
-  "2023-08-04": 109553,
-  "2023-08-05": 109630,
-  "2023-08-06": 109735,
-  "2023-08-07": 109735,
-  "2023-08-08": 109797,
-  "2023-08-09": 109859,
-  "2023-08-10": 109939,
-  "2023-08-11": 110000,
-  "2023-08-12": 110070,
-  "2023-08-13": 110129,
-  "2023-08-14": 110192,
-  "2023-08-15": 110268,
-  "2023-08-16": 110268,
-  "2023-08-17": 110315,
-  "2023-08-18": 110374,
-  "2023-08-19": 110431,
-  "2023-08-20": 110507,
-  "2023-08-21": 110571,
-  "2023-08-22": 110625,
-  "2023-08-23": 110670,
-  "2023-08-24": 110732,
-  "2023-08-25": 110782,
-  "2023-08-26": 110842,
-  "2023-08-27": 110915,
-  "2023-08-28": 110955,
-  "2023-08-29": 111004,
-  "2023-08-30": 111076,
-  "2023-08-31": 111279,
-  "2023-09-01": 111945,
-  "2023-09-02": 111945,
-  "2023-09-03": 112133,
-  "2023-09-04": 112334,
-  "2023-09-05": 112515,
-  "2023-09-06": 112667,
-  "2023-09-07": 112797,
-  "2023-09-08": 112936,
-  "2023-09-09": 113017,
-  "2023-09-10": 113112,
-  "2023-09-11": 113191,
-  "2023-09-12": 113244,
-  "2023-09-13": 113310,
-  "2023-09-14": 113356,
-  "2023-09-15": 113413,
-  "2023-09-16": 113453,
-  "2023-09-17": 113512,
-  "2023-09-18": 113563,
-  "2023-09-19": 113606,
-  "2023-09-20": 113645,
-  "2023-09-21": 113701,
-  "2023-09-22": 113732,
-  "2023-09-23": 113763,
-  "2023-09-24": 113802,
-  "2023-09-25": 113837,
-  "2023-09-26": 113889,
-  "2023-09-27": 113921,
-  "2023-09-28": 113970,
-  "2023-09-29": 114023,
-  "2023-09-30": 114062,
-  "2023-10-01": 114124,
-  "2023-10-02": 114170,
-  "2023-10-03": 114225,
-  "2023-10-04": 114281,
-  "2023-10-05": 114313,
-  "2023-10-06": 114362,
-  "2023-10-07": 114410,
-  "2023-10-08": 114457,
-  "2023-10-09": 114513,
-  "2023-10-10": 114530,
-  "2023-10-11": 114610,
-  "2023-10-12": 114610,
-  "2023-10-13": 114648,
-  "2023-10-14": 114681,
-  "2023-10-15": 114722,
-  "2023-10-16": 114766,
-  "2023-10-17": 114814,
-  "2023-10-18": 114850,
-  "2023-10-19": 114882,
-  "2023-10-20": 114916,
-  "2023-10-21": 114968,
-  "2023-10-22": 115020,
-  "2023-10-23": 115071,
-  "2023-10-24": 115109,
-  "2023-10-25": 115155,
-  "2023-10-26": 115206,
-  "2023-10-27": 115245,
-  "2023-10-28": 115245,
-  "2023-10-29": 115245,
-  "2023-10-30": 115376,
-  "2023-10-31": 115376,
-  "2023-11-01": 115473,
-  "2023-11-02": 115497,
-  "2023-11-03": 115527,
-  "2023-11-04": 115527,
-  "2023-11-05": 115642,
-  "2023-11-06": 115683,
-  "2023-11-07": 115728,
-  "2023-11-08": 115776,
-  "2023-11-09": 115776,
-  "2023-11-10": 115863,
-  "2023-11-11": 115902,
-  "2023-11-12": 115948,
-  "2023-11-13": 115991,
-  "2023-11-14": 116040,
-  "2023-11-15": 116040,
-  "2023-11-16": 116122,
-  "2023-11-17": 116212,
-  "2023-11-18": 116212,
-  "2023-11-19": 116255,
-  "2023-11-20": 116294,
-  "2023-11-21": 116324,
-  "2023-11-22": 116376,
-  "2023-11-23": 116418,
-  "2023-11-24": 116418,
-  "2023-11-25": 116513,
-  "2023-11-26": 116567,
-  "2023-11-27": 116614,
-  "2023-11-28": 116654,
-  "2023-11-29": 116735,
-  "2023-11-30": 116735,
-  "2023-12-01": 116735,
-  "2023-12-02": 116889,
-  "2023-12-03": 116954,
-  "2023-12-04": 116954,
-  "2023-12-05": 117035,
-  "2023-12-06": 117083,
-  "2023-12-07": 117112,
-  "2023-12-08": 117112,
-  "2023-12-09": 117177,
-  "2023-12-10": 117177,
-  "2023-12-11": 117229,
-  "2023-12-12": 117229,
-  "2023-12-13": 117305,
-  "2023-12-14": 117348,
-  "2023-12-15": 117373,
-  "2023-12-16": 117410,
-  "2023-12-17": 117450,
-  "2023-12-18": 117495,
-  "2023-12-19": 117521,
-  "2023-12-20": 117555,
-  "2023-12-21": 117592,
-  "2023-12-22": 117641,
-  "2023-12-23": 117682,
-  "2023-12-24": 117730,
-  "2023-12-25": 117801,
-  "2023-12-26": 117877,
-  "2023-12-27": 117923,
-  "2023-12-30": 118079,
-  "2023-12-31": 118147,
-  "2024-01-01": 118198,
-  "2024-01-02": 118241,
-  "2024-01-03": 118266
+  "2024-01-17": 118713,
+  "date_first_scraped": "2022-05-30",
+  "description": "The greatest works from mastermind composer Ryuichi Sakamoto",
+  "name": "This Is: Ryuichi Sakamoto",
+  "tracks": [
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 344573,
+      "name": "+33",
+      "url": "https://open.spotify.com/track/50f8IbD6O9HjhzQVQ9ZP3g"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 413476,
+      "name": "20210310",
+      "url": "https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413476,
+      "name": "20210310",
+      "url": "https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 322315,
+      "name": "20211130",
+      "url": "https://open.spotify.com/track/1QNI7DHjSVdRjHuNqeCaYc"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322315,
+      "name": "20211130",
+      "url": "https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332330,
+      "name": "20211201",
+      "url": "https://open.spotify.com/track/0I0PsgtPWJQZ3CCLhZVdid"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 332330,
+      "name": "20211201",
+      "url": "https://open.spotify.com/track/6m9T3udfB7T0pEDatisXuW"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 520703,
+      "name": "20220123",
+      "url": "https://open.spotify.com/track/22E04NAB1zTWaivAGbF3VD"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520703,
+      "name": "20220123",
+      "url": "https://open.spotify.com/track/6Xltbz4t2O90RlXTvopozY"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382554,
+      "name": "20220202",
+      "url": "https://open.spotify.com/track/2sGeliCeI7XPYGgzNgBAEx"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 382554,
+      "name": "20220202",
+      "url": "https://open.spotify.com/track/6DxUMCX5YY7f2zMUifYlCD"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 421393,
+      "name": "20220207",
+      "url": "https://open.spotify.com/track/02SkBGmCpVDiwotTdei0Jg"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421393,
+      "name": "20220207",
+      "url": "https://open.spotify.com/track/0u5YH19DTffJ7IAyCpnzJz"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 549799,
+      "name": "20220214",
+      "url": "https://open.spotify.com/track/0YpGBLDpxu0UwNkKrdY87g"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549799,
+      "name": "20220214",
+      "url": "https://open.spotify.com/track/7vLpc2i9HKDMxr2Gn5e5uJ"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172282,
+      "name": "20220302",
+      "url": "https://open.spotify.com/track/380T94939pKNMPEAVsw3QJ"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 172282,
+      "name": "20220302",
+      "url": "https://open.spotify.com/track/6v7FajGonvSGnMOnn0HGe9"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/3TlsuAkWKWNFvYajQ9IBZQ"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68610,
+      "name": "20220304",
+      "url": "https://open.spotify.com/track/3KNQ2XqFJwnPulIN8wpbxG"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 68610,
+      "name": "20220304",
+      "url": "https://open.spotify.com/track/3jJ6hWSyM93XVKFJbAbhgT"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 151087,
+      "name": "20220307",
+      "url": "https://open.spotify.com/track/4RlZTxX4WlqyboBxsrmWDg"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151087,
+      "name": "20220307",
+      "url": "https://open.spotify.com/track/6XgKz6CPm5wpKMlQYwo2Oi"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146376,
+      "name": "20220404",
+      "url": "https://open.spotify.com/track/1h0QKRX7WMuHSUDyzs9NNT"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 146376,
+      "name": "20220404",
+      "url": "https://open.spotify.com/track/5Pq43yDBVQLRYhPFj0Q2I6"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Everton Nelson",
+          "url": "https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100960,
+      "name": "A Day a Gorilla Gives a Banana",
+      "url": "https://open.spotify.com/track/44cO7NLBFvQJ7ltmvwiuKQ"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0RcwBD2P5YubxRUpeKezTF"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206894,
+      "name": "A Word I Give (with Ryuichi Sakamoto)",
+      "url": "https://open.spotify.com/track/1zANV84VJJnsxaHZzvh4IY"
+    },
+    {
+      "album": {
+        "name": "nord",
+        "url": "https://open.spotify.com/album/7uXwfMS4dqYCLixYQs5qWg"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 250626,
+      "name": "ambiguous lucidity - pf",
+      "url": "https://open.spotify.com/track/0eGrteJ4iGk7e2aNFYk9Or"
+    },
+    {
+      "album": {
+        "name": "/05",
+        "url": "https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 309066,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF"
+    },
+    {
+      "album": {
+        "name": "Playing The Piano",
+        "url": "https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "Andata",
+      "url": "https://open.spotify.com/track/5HgyC7aSmkHaLjfWowVkMk"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 278641,
+      "name": "andata",
+      "url": "https://open.spotify.com/track/2DuFmqmY2DatBTiWz2tXcF"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278641,
+      "name": "andata",
+      "url": "https://open.spotify.com/track/7yYmM8oJrndQRgCZXu5Pku"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176668,
+      "name": "Aoneko no Torso",
+      "url": "https://open.spotify.com/track/0ClmaylWZ3rPJ41nmiPq1D"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281317,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/5relTzF9GcxxTF0D4Id6uo"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81879,
+      "name": "Arriving at Fort Kiowa",
+      "url": "https://open.spotify.com/track/2wixnvmotpspIejhreU23v"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 139493,
+      "name": "Asience-fast piano",
+      "url": "https://open.spotify.com/track/5lUfpR58tOjITqXlLcwLtP"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221023,
+      "name": "Aubade 2020",
+      "url": "https://open.spotify.com/track/6drTALamGqtXj8IwW64kkC"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7gUFc4zNh4TD7XytN7WXMB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 420760,
+      "name": "Bibo No Aozora",
+      "url": "https://open.spotify.com/track/20LxhPn0ddmcBibesWQUvt"
+    },
+    {
+      "album": {
+        "name": "THREE",
+        "url": "https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 423560,
+      "name": "Bibo no Aozora - Instrumental",
+      "url": "https://open.spotify.com/track/1nQ084eeMdtALLLu0wVRQf"
+    },
+    {
+      "album": {
+        "name": "The Best of 'Playing the Orchestra 2014'",
+        "url": "https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319524,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8"
+    },
+    {
+      "album": {
+        "name": "Ryuichi Sakamoto | Playing the Piano 2013 in Yokohama",
+        "url": "https://open.spotify.com/album/0WH0fqeORqlKe9jnee6egR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 218893,
+      "name": "Choral No.1",
+      "url": "https://open.spotify.com/track/464EZhkm4qj5hrVG0LCeAx"
+    },
+    {
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/5RSXVXsgxW9Qx69g4cAxM0"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69400,
+      "name": "Dancing In the Sky",
+      "url": "https://open.spotify.com/track/12TkChYdKe9Vj8s5Tkq1SI"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71826,
+      "name": "Discovering River",
+      "url": "https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346434,
+      "name": "disintegration",
+      "url": "https://open.spotify.com/track/0jknT0Tg8CTfhPBntYGmMt"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 346434,
+      "name": "disintegration",
+      "url": "https://open.spotify.com/track/21jdI68hnC0YmN48N2KeI8"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30cb\u30fc\u6edd\u8c37",
+        "url": "https://open.spotify.com/album/2NYGYuqNgfOOKozXT88l0c"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 390733,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/2yAllYdt4JIHuwqOgEmkpx"
+    },
+    {
+      "album": {
+        "name": "Tony Takitani",
+        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 390733,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5UdT3OvM72PP4qSetZ7GvQ"
+    },
+    {
+      "album": {
+        "name": "L.O.L. (Lack Of Love)",
+        "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84800,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx"
+    },
+    {
+      "album": {
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272501,
+      "name": "energy flow",
+      "url": "https://open.spotify.com/track/38hwMaB4DWUhAWdyk1VljB"
+    },
+    {
+      "album": {
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 272501,
+      "name": "energy flow",
+      "url": "https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30e9BTTB",
+        "url": "https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 275066,
+      "name": "energy flow",
+      "url": "https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1"
+    },
+    {
+      "album": {
+        "name": "Heligoland",
+        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 294120,
+      "name": "Fatalism",
+      "url": "https://open.spotify.com/track/28koK0b9NRDZ8Jo5mJy5Za"
+    },
+    {
+      "album": {
+        "name": "Heligoland",
+        "url": "https://open.spotify.com/album/47zwSXi2WmVaWcZN2VVGcq"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294120,
+      "name": "Fatalism - \u5742\u672c\u9f8d\u4e00&\u9ad8\u6a4b\u5e78\u5b8f Remix",
+      "url": "https://open.spotify.com/track/4j1qIS3cgfG4816UQaI2aZ"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282973,
+      "name": "Forbidden Colors",
+      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Mr.Lawrence -30th Anniversary Edition-",
+        "url": "https://open.spotify.com/album/76mfncCdNLaCS9Cpyooxsc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108900,
+      "name": "Germination",
+      "url": "https://open.spotify.com/track/2thMhFEX3CxTvkY1cpFZO6"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 109066,
+      "name": "Germination",
+      "url": "https://open.spotify.com/track/2kAw46gk20ZAgAHNlq8eoS"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111106,
+      "name": "Glass and Buffalo Warrior Travel",
+      "url": "https://open.spotify.com/track/0u6MujE7DSgv0HyrTEUcHI"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7gUFc4zNh4TD7XytN7WXMB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320093,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/37UzG2G2NmjisintP8c5mp"
+    },
+    {
+      "album": {
+        "name": "THREE",
+        "url": "https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323053,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/1t0wA9xkyYZnlPuT6x0cJE"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134359,
+      "name": "Hawk Punished",
+      "url": "https://open.spotify.com/track/3rEBYnu7yDK336CdV22IiX"
+    },
+    {
+      "album": {
+        "name": "Ieta",
+        "url": "https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199784,
+      "name": "Ieta",
+      "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"
+    },
+    {
+      "album": {
+        "name": "BIG WORLD",
+        "url": "https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx"
+      },
+      "artists": [
+        {
+          "name": "Mondo Grosso",
+          "url": "https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Hikari Mitsushima",
+          "url": "https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281681,
+      "name": "IN THIS WORLD - feat. \u5742\u672c\u9f8d\u4e00 [Vocal : \u6e80\u5cf6\u3072\u304b\u308a]",
+      "url": "https://open.spotify.com/track/5FMRUnWOXZXXtTjaxpMxl3"
+    },
+    {
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/0jkkllHZt6ovs8LbcE5Xe6"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 178899,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/0e38wH30H0iLDda4NtNI4V"
+    },
+    {
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/4kTsxek2lBXpTueqI37qA8"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178899,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/741HcBynfd6qdUIAydLBSj"
+    },
+    {
+      "album": {
+        "name": "My TYRANO: Together, Forever Original Soundtrack by Ryuichi Sakamoto",
+        "url": "https://open.spotify.com/album/0h5Qx3bDxA9unv9HJ1ncfn"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91798,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/3QccCjmocanWvP9TD6aOUh"
+    },
+    {
+      "album": {
+        "name": "The Best of 'Playing the Orchestra 2014'",
+        "url": "https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 304524,
+      "name": "Kizuna World",
+      "url": "https://open.spotify.com/track/69Hp2DSeTD3bYbVFLKKxwo"
+    },
+    {
+      "album": {
+        "name": "The Best of 'Playing the Orchestra 2014'1st",
+        "url": "https://open.spotify.com/album/2GhLeF0tNcue7nx98rDgWA"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 304533,
+      "name": "Kizuna World",
+      "url": "https://open.spotify.com/track/55ICtLR62OyhzoRjlI5CV2"
+    },
+    {
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/5RSXVXsgxW9Qx69g4cAxM0"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/6holSPJTVmOypblQABUtCz"
+    },
+    {
+      "album": {
+        "name": "koko",
+        "url": "https://open.spotify.com/album/1Y29mK73HCEReyhBahnPZd"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245520,
+      "name": "koko",
+      "url": "https://open.spotify.com/track/0QhYkccJIhuzfM01Ytqfga"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263580,
+      "name": "LIFE, LIFE",
+      "url": "https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW"
+    },
+    {
+      "album": {
+        "name": "Little Buddha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6HarnE4tMlwcvSxAYtpz8y"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170466,
+      "name": "Little Buddha - Main Theme",
+      "url": "https://open.spotify.com/track/4B2dGIVNkTzkYPbETs1BRp"
+    },
+    {
+      "album": {
+        "name": "LOST CHILD",
+        "url": "https://open.spotify.com/album/7zfVuTvzI5bTI7mxyDbPrK"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 302093,
+      "name": "LOST CHILD - SQ&P",
+      "url": "https://open.spotify.com/track/2ZOcaBsgrSZzmkhNiBZxXR"
+    },
+    {
+      "album": {
+        "name": "Ongaku Zukan -2015 Edition-",
+        "url": "https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 334970,
+      "name": "M.A.Y. IN THE BACKYARD",
+      "url": "https://open.spotify.com/track/45vQStUpPYY0NEq7GKY5Wl"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u697d\u56f3\u9451 -2015 Edition-",
+        "url": "https://open.spotify.com/album/0rzXL99sRpufrmSXjSyhWB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334970,
+      "name": "M.A.Y. IN THE BACKYARD",
+      "url": "https://open.spotify.com/track/5jE7mMqCUMBBH3iU9yZt1u"
+    },
+    {
+      "album": {
+        "name": "Little Buddha (Bernardo Bertolucci's Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Bnk5sZEtCJhoa1I8N6FHo"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 170466,
+      "name": "Main Theme",
+      "url": "https://open.spotify.com/track/6iH8p3isdM1uRa2mQ3w2Jm"
+    },
+    {
+      "album": {
+        "name": "Nouvel an tib\u00e9tain 2011 - L'ann\u00e9e du li\u00e8vre de fer",
+        "url": "https://open.spotify.com/album/4INBsmZzCwaVe9larSnPR2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170553,
+      "name": "Main Theme - From 'Little Buddha'",
+      "url": "https://open.spotify.com/track/3SmwsuloqGL836aBATZJ0I"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 346685,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/7JWyqEGZGlWEONYvvpFTdQ"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Everton Nelson",
+          "url": "https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286466,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Mr. Lawrence (version 2020)",
+        "url": "https://open.spotify.com/album/1s8Zfke9hDnWU2w5W2VZm8"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346842,
+      "name": "Merry Christmas Mr. Lawrence - version 2020",
+      "url": "https://open.spotify.com/track/7LV2STzL0t9IXpJQ0SQHsm"
+    },
+    {
+      "album": {
+        "name": "Minamata Piano Theme",
+        "url": "https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170329,
+      "name": "Minamata Piano Theme",
+      "url": "https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255096,
+      "name": "Mizu no Naka no Bagatelle",
+      "url": "https://open.spotify.com/track/6hRxri4fCVRU77uHayZz7J"
+    },
+    {
+      "album": {
+        "name": "Monomom",
+        "url": "https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 331520,
+      "name": "Monomom",
+      "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
+    },
+    {
+      "album": {
+        "name": "Playing the Piano 12122020",
+        "url": "https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134301,
+      "name": "MUJI2020",
+      "url": "https://open.spotify.com/track/6q4yJfdPmQh5OkzJHrj538"
+    },
+    {
+      "album": {
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/4MI7PELbBbWJrTgAX1nbKR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "opus",
+      "url": "https://open.spotify.com/track/0U3fV7K4WFfVRgLGEAKh3g"
+    },
+    {
+      "album": {
+        "name": "BTTB - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 265960,
+      "name": "opus",
+      "url": "https://open.spotify.com/track/2rbHghryEuNQVjYaYl0m0D"
+    },
+    {
+      "album": {
+        "name": "BTTB",
+        "url": "https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265973,
+      "name": "opus",
+      "url": "https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J"
+    },
+    {
+      "album": {
+        "name": "Cendre",
+        "url": "https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 229933,
+      "name": "Oto",
+      "url": "https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ"
+    },
+    {
+      "album": {
+        "name": "Exception (Soundtrack from the Netflix Anime Series)",
+        "url": "https://open.spotify.com/album/4ToOQ4ZlOLxWKPHqDg3WlJ"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228928,
+      "name": "oxygen - from \"Exception\" Soundtrack",
+      "url": "https://open.spotify.com/track/3EhgZBz3LPFtR8L6pSKPvK"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 91133,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6717nIdDloEDMAkmGcrbnG"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "David Nadien",
+          "url": "https://open.spotify.com/artist/2DJqfDZuuxw73GMy6ognYM"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3mlqYwpqk8g5CFxmaJjAKv"
+    },
+    {
+      "album": {
+        "name": "Proxima (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159221,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Mr.Lawrence -30th Anniversary Edition-",
+        "url": "https://open.spotify.com/album/76mfncCdNLaCS9Cpyooxsc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 69289,
+      "name": "Ride Ride Ride - M-18 INST",
+      "url": "https://open.spotify.com/track/7kcennWbOD20D43kidYj0F"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275266,
+      "name": "Riot in Lagos",
+      "url": "https://open.spotify.com/track/3yCPzmnmaHI3q2iI82Hi2U"
+    },
+    {
+      "album": {
+        "name": "Playing The Piano",
+        "url": "https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 275320,
+      "name": "Riot In Lagos",
+      "url": "https://open.spotify.com/track/227RZTPuD8v6ZjYP8fu9cr"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7gUFc4zNh4TD7XytN7WXMB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341706,
+      "name": "Seven Samurai - Ending Theme",
+      "url": "https://open.spotify.com/track/4KDGqtwDGer1BcgOkLaBKL"
+    },
+    {
+      "album": {
+        "name": "THREE",
+        "url": "https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345440,
+      "name": "Seven Samurai - ending theme",
+      "url": "https://open.spotify.com/track/6zw0DPKOhqYC3yWM4HruKW"
+    },
+    {
+      "album": {
+        "name": "SILK",
+        "url": "https://open.spotify.com/album/5YpZ0qOc8z4VW6aQKbx4hZ"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 322893,
+      "name": "SILK Endroll",
+      "url": "https://open.spotify.com/track/32t55WIQ6A8u37yWsM3Qlq"
+    },
+    {
+      "album": {
+        "name": "Encyclopedia of Arto",
+        "url": "https://open.spotify.com/album/5oFZyxqdvuT5ac4gsNkO2U"
+      },
+      "artists": [
+        {
+          "name": "Arto Lindsay",
+          "url": "https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 224106,
+      "name": "Simply Are",
+      "url": "https://open.spotify.com/track/66VuLX5s1nrZzzQqJqPbri"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3"
+    },
+    {
+      "album": {
+        "name": "Tony Takitani",
+        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294266,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4bT9hPHDjm5lgGlHeUyvEe"
+    },
+    {
+      "album": {
+        "name": "Ryuichi Sakamoto: Playing The Piano 2009 Japan",
+        "url": "https://open.spotify.com/album/4gNDEkM7nK8BZ45iFYuhLw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 280826,
+      "name": "sweet revenge",
+      "url": "https://open.spotify.com/track/2p4NtprWrlCDyJqWxUbg3D"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 195440,
+      "name": "Tamago 2004",
+      "url": "https://open.spotify.com/track/1iUrKv8Yi56ZClINsg1iXe"
+    },
+    {
+      "album": {
+        "name": "SMOOCHY",
+        "url": "https://open.spotify.com/album/7oeVetwYBxgvx2uqLSrLAV"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276360,
+      "name": "TANGO",
+      "url": "https://open.spotify.com/track/0zHTKP1hZPZ4PkHegHeIRe"
+    },
+    {
+      "album": {
+        "name": "Smoochy",
+        "url": "https://open.spotify.com/album/3vOZPaudktiXQzX1dr3228"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 280240,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/0YiRTKDv9phGaSxKQuyHdF"
+    },
+    {
+      "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/3thtQaXOtMWoEKx8MTmFNM"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 127133,
+      "name": "Tema Para Ana",
+      "url": "https://open.spotify.com/track/6OTEPWnWVOmuwHf1153i1F"
+    },
+    {
+      "album": {
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/6wYXK1d4dK8oXwWd78flt2"
+      },
+      "artists": [
+        {
+          "name": "Morelenbaum2",
+          "url": "https://open.spotify.com/artist/0nPijYv2uVkfstvYBZ7QnZ"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 127160,
+      "name": "TEMA PARA ANA - Instrumental",
+      "url": "https://open.spotify.com/track/75OOVMUQxu2A25n8Ki5sLQ"
+    },
+    {
+      "album": {
+        "name": "THE ARRANGEMENT",
+        "url": "https://open.spotify.com/album/02D2D6niMNBAKhzXnJIRCw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Robin Scott",
+          "url": "https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291093,
+      "name": "THE ARRANGEMENT",
+      "url": "https://open.spotify.com/track/2ObWE3GLw2DvHkZaJNFNBS"
+    },
+    {
+      "album": {
+        "name": "THE ARRANGEMENT",
+        "url": "https://open.spotify.com/album/5BNZ9Mn7hU2ZLhVs8LqYg8"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Robin Scott",
+          "url": "https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 291093,
+      "name": "THE ARRANGEMENT",
+      "url": "https://open.spotify.com/track/3ZgXnrIOFfDJjSDNMwOVUu"
+    },
+    {
+      "album": {
+        "name": "B-2 Unit",
+        "url": "https://open.spotify.com/album/7mcQUJ1DvUqk4F7sGSOZVU"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296306,
+      "name": "the end of europe",
+      "url": "https://open.spotify.com/track/1spOegY3cSIfQ4HcET2iu0"
+    },
+    {
+      "album": {
+        "name": "B-2 Unit (2019 Remastering)",
+        "url": "https://open.spotify.com/album/4YR25C97afN2M0zeHVbelI"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 296893,
+      "name": "the end of europe (2019 Remastering)",
+      "url": "https://open.spotify.com/track/4jYxF1eRigHLSiorYnHUgs"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7gUFc4zNh4TD7XytN7WXMB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 379640,
+      "name": "The Last Emperor",
+      "url": "https://open.spotify.com/track/0iTKOldffazVoiJKIddWbl"
+    },
+    {
+      "album": {
+        "name": "THREE",
+        "url": "https://open.spotify.com/album/2vxrJgwfpt0sHQtDhSXjpc"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Judy Kang",
+          "url": "https://open.spotify.com/artist/5lLKVIJzQ5XyH4js5EHkoR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 382853,
+      "name": "The Last Emperor",
+      "url": "https://open.spotify.com/track/3dugzFuBMipcqjBTvacGZs"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161465,
+      "name": "The Revenant Main Theme",
+      "url": "https://open.spotify.com/track/4QrLwgJt0OGkUFBbQKk0fL"
+    },
+    {
+      "album": {
+        "name": "\u300cThe Revenant(\u8607\u3048\u308a\u3057\u8005)\u300d [\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u76e4]",
+        "url": "https://open.spotify.com/album/5xxoCkLzkfDKSivVlk0gcI"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161880,
+      "name": "The Revenant Main Theme",
+      "url": "https://open.spotify.com/track/6nFIzfloOR1GZe1NNpelSi"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114707,
+      "name": "The Revenant Theme 2",
+      "url": "https://open.spotify.com/track/5APRmdwkXEJwK3fSBklX5h"
+    },
+    {
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/0jkkllHZt6ovs8LbcE5Xe6"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 234800,
+      "name": "The Seed And The Sower",
+      "url": "https://open.spotify.com/track/0bQJClzvK07BJ5siBRTliF"
+    },
+    {
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/4kTsxek2lBXpTueqI37qA8"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234800,
+      "name": "The Seed And The Sower",
+      "url": "https://open.spotify.com/track/5Ez94Ahhpe99K8earadBLw"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 281626,
+      "name": "Theme for Roningai-symphonic",
+      "url": "https://open.spotify.com/track/6DgB4Eq04CEoRtAPIlxSWy"
+    },
+    {
+      "album": {
+        "name": "Thousand Knives - Thundercat Remodel",
+        "url": "https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 326413,
+      "name": "Thousand Knives - Thundercat Remodel",
+      "url": "https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N"
+    },
+    {
+      "album": {
+        "name": "Ongaku Zukan -2015 Edition-",
+        "url": "https://open.spotify.com/album/2CI4X2v5UpNLxh6RFpspHR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303100,
+      "name": "TIBETAN DANCE",
+      "url": "https://open.spotify.com/track/4AbkIYykiZVzWbQaUCdloT"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u697d\u56f3\u9451 -2015 Edition-",
+        "url": "https://open.spotify.com/album/0rzXL99sRpufrmSXjSyhWB"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303100,
+      "name": "TIBETAN DANCE",
+      "url": "https://open.spotify.com/track/4iimynArHV1ViFsRO72oof"
+    },
+    {
+      "album": {
+        "name": "Tong Poo for JUNYA WATANABE",
+        "url": "https://open.spotify.com/album/5oWMbgGF6FOtXitFIpEpZh"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317466,
+      "name": "Tong Poo for JUNYA WATANABE",
+      "url": "https://open.spotify.com/track/4N2qNs5FhQHZh4YtdIWy2v"
+    },
+    {
+      "album": {
+        "name": "undercooled",
+        "url": "https://open.spotify.com/album/5oUvRbJeHWc1G7u7vlq3w3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272333,
+      "name": "undercooled",
+      "url": "https://open.spotify.com/track/5E3j6OyiHVXOuRocNG9xPh"
+    },
+    {
+      "album": {
+        "name": "Chasm",
+        "url": "https://open.spotify.com/album/3leB8CzZK93wqD2CcmKVFQ"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 272360,
+      "name": "Undercooled",
+      "url": "https://open.spotify.com/track/16ZCbuPaZCZSl3Ua5SxKkZ"
+    },
+    {
+      "album": {
+        "name": "Vrioon",
+        "url": "https://open.spotify.com/album/0MyY7fyu8Lq7J3woAyyjvC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 580533,
+      "name": "Uoon II",
+      "url": "https://open.spotify.com/track/1y8vrWef2Q3cHilu1vnt70"
+    },
+    {
+      "album": {
+        "name": "Vrioon",
+        "url": "https://open.spotify.com/album/2myKuYcGPleSWTa5VKgRVl"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 580533,
+      "name": "Uoon II",
+      "url": "https://open.spotify.com/track/6B8uUGXbyeZdLZDeslWOho"
+    },
+    {
+      "album": {
+        "name": "The Last Emperor Original Soundtrack",
+        "url": "https://open.spotify.com/album/70iCI16xKlhPlJJT7OIKGH"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146200,
+      "name": "Where Is Armo?",
+      "url": "https://open.spotify.com/track/65PCR0u8UN3dSWaYjad1hC"
+    },
+    {
+      "album": {
+        "name": "WORLD CITIZEN -I won't be disappointed-",
+        "url": "https://open.spotify.com/album/5fSg0GYR6LRi33k9eg0iUM"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "WORLD CITIZEN -I won't be disappointed- - short version",
+      "url": "https://open.spotify.com/track/5YeWWr0tzI9hzhLPE2PMjd"
+    },
+    {
+      "album": {
+        "name": "/04",
+        "url": "https://open.spotify.com/album/5h5d12f2X21NAyfn7XdWaw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 183066,
+      "name": "Yamazaki2002",
+      "url": "https://open.spotify.com/track/2k0DXFhKCHyAYtIilUcoXh"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 311716,
+      "name": "ZURE",
+      "url": "https://open.spotify.com/track/2xQOtpTB4Q0gUAQPAUHfsL"
+    },
+    {
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 311716,
+      "name": "ZURE",
+      "url": "https://open.spotify.com/track/5ZJUC56dfmK9Ef76M7xk5K"
+    },
+    {
+      "album": {
+        "name": "\u30d9\u30b9\u30c8\u30d2\u30c3\u30c8\u6e05\u5fd7\u90ce",
+        "url": "https://open.spotify.com/album/68lNNhlnQMNTYgQq8kh0tT"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshiro Imawano",
+          "url": "https://open.spotify.com/artist/65su2o6jvWfsVRK5uRfvF9"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250560,
+      "name": "\u3044\u30fb\u3051\u30fb\u306a\u30fb\u3044 \u30eb\u30fc\u30b8\u30e5\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/3fPcPSsCUT4jL7tUvbAYOC"
+    },
+    {
+      "album": {
+        "name": "NHK\u5927\u6cb3\u30c9\u30e9\u30de\u300c\u516b\u91cd\u306e\u685c\u300d (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u76e4)",
+        "url": "https://open.spotify.com/album/2SXKwtazZVLnN6NYKt9L2R"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 162733,
+      "name": "\u516b\u91cd\u306e\u685c - \u30e1\u30a4\u30f3\u30c6\u30fc\u30de (Playing the Orchestra Ver.)",
+      "url": "https://open.spotify.com/track/2AwA1w50cFpu6OvkL0cUVd"
+    },
+    {
+      "album": {
+        "name": "\u5909\u9769\u306e\u4e16\u7d00",
+        "url": "https://open.spotify.com/album/3GEighWZunz7IbtsiVWd16"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "\u5909\u9769\u306e\u4e16\u7d00 - \u30d4\u30a2\u30ce\u30fb\u30bd\u30ed",
+      "url": "https://open.spotify.com/track/6LVZrwMtVshH2x4gad9jTf"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u3057\u3044\u9774\u3092\u8cb7\u308f\u306a\u304f\u3061\u3083 (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/37vLeHgM6w1QwXirmz52gO"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 284440,
+      "name": "\u65b0\u3057\u3044\u9774\u3092\u8cb7\u308f\u306a\u304f\u3061\u3083",
+      "url": "https://open.spotify.com/track/5DpVTujsexrXKslCHvscAv"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306b\u306a\u3063\u305f\u5c11\u5e74 \u301cShining Boy & Little Randy\u301c",
+        "url": "https://open.spotify.com/album/0TyQuGR1Y2KnD5cTutIajw"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241266,
+      "name": "\u661f\u306b\u306a\u3063\u305f\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/44ryK1Kvvf9Ud0F7MOVBb2"
+    },
+    {
+      "album": {
+        "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u91cd\u8c4a",
+          "url": "https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50"
+        },
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
+    },
+    {
+      "album": {
+        "name": "SMOOCHY",
+        "url": "https://open.spotify.com/album/7oeVetwYBxgvx2uqLSrLAV"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 339493,
+      "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a(Original)",
+      "url": "https://open.spotify.com/track/6Pr6KO5wWLBKCAZHmgZQNa"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30e9BTTB",
+        "url": "https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "\u9244\u9053\u54e1 - piano version",
+      "url": "https://open.spotify.com/track/29Fqs0C0twzae73tPkqUXZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa9Q01E86Ntt"
 }

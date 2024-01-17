@@ -32,6 +32,24 @@
     {
       "album": {
         "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
@@ -42,7 +60,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
@@ -82,10 +100,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 220000,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
+    },
+    {
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV"
     },
     {
       "album": {
@@ -100,10 +140,46 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 182390,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1pMNdCBZJvkW2zTjUl0ZBV"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182390,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/28t4WNpkljCOcCSADHqJ3q"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
     },
     {
       "album": {
@@ -118,10 +194,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 113619,
       "name": "Amor, Amor de Mis Amores",
       "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
     },
     {
       "album": {
@@ -136,7 +230,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 175889,
       "name": "Baila Esta Cumbia",
       "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
@@ -216,10 +310,54 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 289851,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/191We3P5E3Ui9Ylw3qoBT8"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/1J0zWKRK6gkzBzZXC9sqvL"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289851,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/3kwI7keOfbRg9dMRjWvxaV"
+    },
+    {
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194741,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX"
     },
     {
       "album": {
@@ -242,10 +380,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 194741,
       "name": "Camino de Guanajuato",
       "url": "https://open.spotify.com/track/5vMlfIViEycvmS2lAa8Gpj"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235805,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
     },
     {
       "album": {
@@ -260,10 +416,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 235813,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176365,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo"
     },
     {
       "album": {
@@ -278,7 +452,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 176365,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/7bZ50bzuhzhOoNomJPq5xr"
@@ -308,6 +482,28 @@
     {
       "album": {
         "name": "Cuando Dos Almas",
+        "url": "https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186513,
+      "name": "Cuando Dos Almas",
+      "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
+    },
+    {
+      "album": {
+        "name": "Cuando Dos Almas",
         "url": "https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1"
       },
       "artists": [
@@ -322,7 +518,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a"
@@ -428,6 +624,28 @@
     {
       "album": {
         "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
@@ -442,7 +660,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 228989,
       "name": "Ella Qu\u00e9 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
@@ -468,6 +686,28 @@
     {
       "album": {
         "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
       "artists": [
@@ -482,10 +722,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 173033,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B"
+    },
+    {
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "album": {
@@ -504,10 +766,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
     },
     {
       "album": {
@@ -522,7 +802,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 178934,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/293y4eczsVhfT5dbjvhUNz"
@@ -587,6 +867,32 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462000,
+      "name": "La Chancla / el Chivo / Pu\u00f1o de Tierra (En Vivo)",
+      "url": "https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
       },
@@ -606,7 +912,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 462000,
       "name": "La Chancla, el Chivo, Pu\u00f1o de Tierra",
       "url": "https://open.spotify.com/track/61Bjgk8Vrb3hY5MPcZj7FO"
@@ -642,10 +948,46 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 490753,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324365,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq"
     },
     {
       "album": {
@@ -660,7 +1002,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 324365,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
@@ -703,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183817,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1UnbIEyIi4qYi3p7p2llqF"
+    },
+    {
+      "album": {
         "name": "Primero Soy Mexicana",
         "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
@@ -714,10 +1074,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 183834,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/7A7pOBwLnrghUtt8ZrRZ2g"
+    },
+    {
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/6vgbQzrwfoawboJl6sIm1E"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4EQkyHaiZP5Tipa5hBtPjU"
     },
     {
       "album": {
@@ -732,7 +1110,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 171605,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/6kbmiCL77OvBdw6ZUfG6oV"
@@ -758,10 +1136,36 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV"
+    },
+    {
+      "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
     },
     {
       "album": {
@@ -798,10 +1202,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 170685,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "album": {
@@ -920,10 +1342,46 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 200269,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209181,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3elG0XofkA7ZJGi5xEYMf2"
     },
     {
       "album": {
@@ -938,7 +1396,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 209184,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
@@ -964,6 +1422,24 @@
     {
       "album": {
         "name": "Piensa en M\u00ed",
+        "url": "https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J"
+    },
+    {
+      "album": {
+        "name": "Piensa en M\u00ed",
         "url": "https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG"
       },
       "artists": [
@@ -974,7 +1450,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo"
@@ -1048,10 +1524,40 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 305120,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
     },
     {
       "album": {
@@ -1074,6 +1580,32 @@
     {
       "album": {
         "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178150,
+      "name": "Que Me Entierren Con la Banda",
+      "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
+    },
+    {
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
       },
       "artists": [
@@ -1092,7 +1624,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
       "url": "https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1"
@@ -1180,10 +1712,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 207526,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/3SNCoeOOJHbyhvGT2aGfji"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207526,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb"
     },
     {
       "album": {
@@ -1198,10 +1748,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/35vWB9Yj2WwxpuI2WceZ38"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW"
     },
     {
       "album": {
@@ -1216,10 +1784,46 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 168504,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/4FA7IjDMarat0OWXMuH0AC"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287277,
+      "name": "Te Quiero para M\u00ed",
+      "url": "https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd"
     },
     {
       "album": {
@@ -1234,10 +1838,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 287277,
       "name": "Te Quiero para M\u00ed",
       "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 134209,
+      "name": "Te Traigo Estas Flores",
+      "url": "https://open.spotify.com/track/1jAMSbwgex5699AuN2Ncp5"
     },
     {
       "album": {
@@ -1260,6 +1882,28 @@
     {
       "album": {
         "name": "Desde la Azotea - Fase II",
+        "url": "https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242429,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO"
+    },
+    {
+      "album": {
+        "name": "Desde la Azotea - Fase II",
         "url": "https://open.spotify.com/album/11Nxl65MBcH7MQuANJKHNI"
       },
       "artists": [
@@ -1274,10 +1918,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 242429,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/4nj0ZUzTStluIlGD80mCoa"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
     },
     {
       "album": {
@@ -1296,7 +1962,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 238022,
       "name": "Tu Sangre en Mi Cuerpo",
       "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
@@ -1380,10 +2046,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 279961,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279961,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/7eTOhRrSDK0qdZHKJ3Xodl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PzFZ7"

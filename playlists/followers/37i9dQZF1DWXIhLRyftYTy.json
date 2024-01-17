@@ -1,196 +1,745 @@
 {
-  "2023-06-22": 28,
-  "2023-06-23": 63,
-  "2023-06-24": 102,
-  "2023-06-25": 167,
-  "2023-06-26": 334,
-  "2023-06-27": 504,
-  "2023-06-28": 656,
-  "2023-06-29": 819,
-  "2023-06-30": 959,
-  "2023-07-01": 1206,
-  "2023-07-02": 1206,
-  "2023-07-03": 1298,
-  "2023-07-04": 1384,
-  "2023-07-05": 1473,
-  "2023-07-06": 1624,
-  "2023-07-07": 1624,
-  "2023-07-08": 1712,
-  "2023-07-09": 1823,
-  "2023-07-10": 1930,
-  "2023-07-11": 2028,
-  "2023-07-12": 2113,
-  "2023-07-13": 2195,
-  "2023-07-14": 2274,
-  "2023-07-15": 2326,
-  "2023-07-16": 2399,
-  "2023-07-17": 2493,
-  "2023-07-18": 2588,
-  "2023-07-19": 2659,
-  "2023-07-20": 2721,
-  "2023-07-21": 2773,
-  "2023-07-22": 2843,
-  "2023-07-23": 2902,
-  "2023-07-24": 2977,
-  "2023-07-25": 3054,
-  "2023-07-26": 3099,
-  "2023-07-27": 3144,
-  "2023-07-28": 3199,
-  "2023-07-29": 3260,
-  "2023-07-30": 3301,
-  "2023-07-31": 3382,
-  "2023-08-01": 3413,
-  "2023-08-02": 3457,
-  "2023-08-03": 3518,
-  "2023-08-04": 3573,
-  "2023-08-05": 3634,
-  "2023-08-06": 3743,
-  "2023-08-07": 3743,
-  "2023-08-08": 3794,
-  "2023-08-09": 3845,
-  "2023-08-10": 3889,
-  "2023-08-11": 3932,
-  "2023-08-12": 3977,
-  "2023-08-13": 4036,
-  "2023-08-14": 4092,
-  "2023-08-15": 4174,
-  "2023-08-16": 4174,
-  "2023-08-17": 4211,
-  "2023-08-18": 4256,
-  "2023-08-19": 4295,
-  "2023-08-20": 4340,
-  "2023-08-21": 4399,
-  "2023-08-22": 4438,
-  "2023-08-23": 4471,
-  "2023-08-24": 4527,
-  "2023-08-25": 4572,
-  "2023-08-26": 4617,
-  "2023-08-27": 4643,
-  "2023-08-28": 4685,
-  "2023-08-29": 4736,
-  "2023-08-30": 4772,
-  "2023-08-31": 4801,
-  "2023-09-01": 4828,
-  "2023-09-02": 4828,
-  "2023-09-03": 4842,
-  "2023-09-04": 4863,
-  "2023-09-05": 4875,
-  "2023-09-06": 4890,
-  "2023-09-07": 4898,
-  "2023-09-08": 4908,
-  "2023-09-09": 4921,
-  "2023-09-10": 4931,
-  "2023-09-11": 4955,
-  "2023-09-12": 4968,
-  "2023-09-13": 4982,
-  "2023-09-14": 5002,
-  "2023-09-15": 5010,
-  "2023-09-16": 5029,
-  "2023-09-17": 5043,
-  "2023-09-18": 5063,
-  "2023-09-19": 5077,
-  "2023-09-20": 5095,
-  "2023-09-21": 5103,
-  "2023-09-22": 5121,
-  "2023-09-23": 5140,
-  "2023-09-24": 5157,
-  "2023-09-25": 5173,
-  "2023-09-26": 5186,
-  "2023-09-27": 5202,
-  "2023-09-28": 5215,
-  "2023-09-29": 5229,
-  "2023-09-30": 5240,
-  "2023-10-01": 5256,
-  "2023-10-02": 5267,
-  "2023-10-03": 5274,
-  "2023-10-04": 5289,
-  "2023-10-05": 5299,
-  "2023-10-06": 5316,
-  "2023-10-07": 5325,
-  "2023-10-08": 5338,
-  "2023-10-09": 5352,
-  "2023-10-10": 5363,
-  "2023-10-11": 5383,
-  "2023-10-12": 5383,
-  "2023-10-13": 5395,
-  "2023-10-14": 5410,
-  "2023-10-15": 5420,
-  "2023-10-16": 5427,
-  "2023-10-17": 5436,
-  "2023-10-18": 5446,
-  "2023-10-19": 5461,
-  "2023-10-20": 5466,
-  "2023-10-21": 5481,
-  "2023-10-22": 5487,
-  "2023-10-23": 5501,
-  "2023-10-24": 5515,
-  "2023-10-25": 5521,
-  "2023-10-26": 5533,
-  "2023-10-27": 5537,
-  "2023-10-28": 5544,
-  "2023-10-29": 5544,
-  "2023-10-30": 5554,
-  "2023-10-31": 5554,
-  "2023-11-01": 5562,
-  "2023-11-02": 5571,
-  "2023-11-03": 5578,
-  "2023-11-04": 5587,
-  "2023-11-05": 5595,
-  "2023-11-06": 5605,
-  "2023-11-07": 5617,
-  "2023-11-08": 5628,
-  "2023-11-09": 5637,
-  "2023-11-10": 5643,
-  "2023-11-11": 5647,
-  "2023-11-12": 5657,
-  "2023-11-13": 5665,
-  "2023-11-14": 5673,
-  "2023-11-15": 5673,
-  "2023-11-16": 5683,
-  "2023-11-17": 5697,
-  "2023-11-18": 5697,
-  "2023-11-19": 5708,
-  "2023-11-20": 5715,
-  "2023-11-21": 5721,
-  "2023-11-22": 5725,
-  "2023-11-23": 5726,
-  "2023-11-24": 5731,
-  "2023-11-25": 5733,
-  "2023-11-26": 5742,
-  "2023-11-27": 5745,
-  "2023-11-28": 5750,
-  "2023-11-29": 5769,
-  "2023-11-30": 5769,
-  "2023-12-01": 5779,
-  "2023-12-02": 5785,
-  "2023-12-03": 5789,
-  "2023-12-04": 5797,
-  "2023-12-05": 5803,
-  "2023-12-06": 5808,
-  "2023-12-07": 5814,
-  "2023-12-08": 5827,
-  "2023-12-09": 5834,
-  "2023-12-10": 5844,
-  "2023-12-11": 5852,
-  "2023-12-12": 5858,
-  "2023-12-13": 5866,
-  "2023-12-14": 5873,
-  "2023-12-15": 5878,
-  "2023-12-16": 5884,
-  "2023-12-17": 5883,
-  "2023-12-18": 5898,
-  "2023-12-19": 5908,
-  "2023-12-20": 5917,
-  "2023-12-21": 5921,
-  "2023-12-22": 5926,
-  "2023-12-23": 5934,
-  "2023-12-24": 5942,
-  "2023-12-25": 5951,
-  "2023-12-26": 5956,
-  "2023-12-27": 5963,
-  "2023-12-30": 5984,
-  "2023-12-31": 5989,
-  "2024-01-01": 5996,
-  "2024-01-02": 6008,
-  "2024-01-03": 6020
+  "2024-01-17": 6112,
+  "date_first_scraped": "2023-06-22",
+  "description": "Listen to the soundtracks of the drama Dr. Romantic 3. (\ub4dc\ub77c\ub9c8 \ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd803\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd803 (Dr. Romantic 3)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/63PJ9AbiQrQLrCYGcLHsET"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Koo Ja Wan",
+          "url": "https://open.spotify.com/artist/0VZqZgAGaf18ojgOJ7jQST"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169268,
+      "name": "Broken Hope",
+      "url": "https://open.spotify.com/track/6i3QGBJ7XLp3yRrZfDvFHj"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Park Suk Won",
+          "url": "https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O"
+        },
+        {
+          "name": "Ju Ji Hoon",
+          "url": "https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194091,
+      "name": "Critical Moment",
+      "url": "https://open.spotify.com/track/6Tv5gQUO123QRdSUqkgTlD"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Lee Won Seok",
+          "url": "https://open.spotify.com/artist/7L7puiscY60hbljKPYyMRl"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/2Fxj10X7YDeoXNhoMJMRaF"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Jo Nam Wook",
+          "url": "https://open.spotify.com/artist/7fSWVjaOcoBCVOaODp2Cu4"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Doctor Of The West",
+      "url": "https://open.spotify.com/track/24BvRcdBE4jRmbiiFUYHUz"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Hwang Joong Won",
+          "url": "https://open.spotify.com/artist/62U2wGgINVNMnyLjUoIWrI"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237247,
+      "name": "Doldamgers",
+      "url": "https://open.spotify.com/track/5bnYF7F0yv50g5bs3R84Nt"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Park Suk Won",
+          "url": "https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O"
+        },
+        {
+          "name": "Ju Ji Hoon",
+          "url": "https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143508,
+      "name": "Exciting Emergency Room",
+      "url": "https://open.spotify.com/track/0jgBUEyUmUt2grY2PXjTyI"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Kim Hyun Jun",
+          "url": "https://open.spotify.com/artist/5Qhi3dwkU7seWRnj2c0dJn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258187,
+      "name": "Filibuster",
+      "url": "https://open.spotify.com/track/5tXxJCPDB7WgLtF9xdyHRA"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Kim Hyun Jun",
+          "url": "https://open.spotify.com/artist/5Qhi3dwkU7seWRnj2c0dJn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221920,
+      "name": "Final Story",
+      "url": "https://open.spotify.com/track/2fbKVFRlbgcKddkwIyb3xn"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Park Suk Won",
+          "url": "https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O"
+        },
+        {
+          "name": "Ju Ji Hoon",
+          "url": "https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220485,
+      "name": "Good Bye",
+      "url": "https://open.spotify.com/track/5Ku4CHHk8Va8T25ZVfiTZg"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176645,
+      "name": "He Knows Everything",
+      "url": "https://open.spotify.com/track/5kiBzoPb9jhOaNrH51JU2o"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7BPwGmwUCkRn4jqe3SC85y"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169581,
+      "name": "Hidden Tricks",
+      "url": "https://open.spotify.com/track/3cIc4N4InDrt8JIUYgOlCv"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Jo Nam Wook",
+          "url": "https://open.spotify.com/artist/7fSWVjaOcoBCVOaODp2Cu4"
+        },
+        {
+          "name": "Jo Byoung Hyun",
+          "url": "https://open.spotify.com/artist/3UpFQaK1g87D7swiZNSBvD"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186385,
+      "name": "Hospitals In The West",
+      "url": "https://open.spotify.com/track/6k3EbiyEiG0vuSZkFwgbIr"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292635,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/0q9OXn5RHZ6L85aaKJAE6o"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "I Will Stay With You",
+      "url": "https://open.spotify.com/track/76S2wSXX2joYsqXvyEVn0h"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Kim Hyun Jun",
+          "url": "https://open.spotify.com/artist/5Qhi3dwkU7seWRnj2c0dJn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "Impudent Doctor",
+      "url": "https://open.spotify.com/track/2GwBVVGFvWiNQKDemUI8NW"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/48xiw8NPud5tuLUDwImoGW"
+        },
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/4LW5EBlvm5LCR8JjWgj5PR"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190111,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/39kIjUG73wCaQB3uCHYSga"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182724,
+      "name": "Light Surgery",
+      "url": "https://open.spotify.com/track/2TCnlncKnSbE1Cyzv7RqKx"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173348,
+      "name": "Lonely Time",
+      "url": "https://open.spotify.com/track/5QLjII3sY9k97MJH42H4Aj"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "SeoDaHyun (tripleS)",
+          "url": "https://open.spotify.com/artist/6NEEmLZEda7n5paqlYTO4v"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "More Than Yesterday",
+      "url": "https://open.spotify.com/track/10L8YuJNMY9pEcxyOCGkYa"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Koo Ja Wan",
+          "url": "https://open.spotify.com/artist/0VZqZgAGaf18ojgOJ7jQST"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91576,
+      "name": "Mystery Master Kim",
+      "url": "https://open.spotify.com/track/1YeI8r0A2T8NQuziVT5rH7"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Koo Ja Wan",
+          "url": "https://open.spotify.com/artist/0VZqZgAGaf18ojgOJ7jQST"
+        },
+        {
+          "name": "Lee Yong Yoon",
+          "url": "https://open.spotify.com/artist/1qQJyZ8FiInBYcm7Obru4F"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220699,
+      "name": "Mystery Tension",
+      "url": "https://open.spotify.com/track/6nbUKsVD1aYoiv1RAvAYRE"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "One Hundred Love",
+      "url": "https://open.spotify.com/track/6ZR0brXWdvxCcBEIfZQJif"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Jo Nam Wook",
+          "url": "https://open.spotify.com/artist/7fSWVjaOcoBCVOaODp2Cu4"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "Peaceful Doldam",
+      "url": "https://open.spotify.com/track/0LQ4om03qXOyg23arAW71D"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Kim Hyun Jun",
+          "url": "https://open.spotify.com/artist/5Qhi3dwkU7seWRnj2c0dJn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114631,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/3vRfrOngcOSbvtd2ZPb0Kd"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Park Suk Won",
+          "url": "https://open.spotify.com/artist/5uGCypRnvhQBJKszJcJv9O"
+        },
+        {
+          "name": "Ju Ji Hoon",
+          "url": "https://open.spotify.com/artist/1XjL7Vy9RIaDN9oxonuEtN"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221067,
+      "name": "Romantic Doctor Ending Title",
+      "url": "https://open.spotify.com/track/28fPeutVAsojn8ja2msoCu"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Romantic Doctor Opening Title",
+      "url": "https://open.spotify.com/track/4ngVC9RTm0SSoBJFM8tIE5"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Jo Nam Wook",
+          "url": "https://open.spotify.com/artist/7fSWVjaOcoBCVOaODp2Cu4"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204236,
+      "name": "Romantic Surgery",
+      "url": "https://open.spotify.com/track/7y836LOFcMFF0RA4rPInrg"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165259,
+      "name": "Secret Operation",
+      "url": "https://open.spotify.com/track/6biB3Ng9CixH6qekuXFbgt"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN (SEVENTEEN)",
+          "url": "https://open.spotify.com/artist/4vYl3WahY3URtjubpKoGSR"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/6FcjCBqI9vAh1BYicaamUS"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Doldams",
+          "url": "https://open.spotify.com/artist/1Kl9OLx9kTOZVeSHA9yZkU"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Thank You for the Memories",
+      "url": "https://open.spotify.com/track/33ZXcOmnFOPRhOcOZktvnv"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "An Soo Wan",
+          "url": "https://open.spotify.com/artist/3hwnjB9bhZ8i5G3G1eKclM"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173825,
+      "name": "Tikitaka",
+      "url": "https://open.spotify.com/track/58iYFFgqJqykELmRQHGBOf"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 Original Sound Track",
+        "url": "https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO"
+      },
+      "artists": [
+        {
+          "name": "Jeon Chang Yeop",
+          "url": "https://open.spotify.com/artist/1qlSQp9D1zPBPRKr2LyUMe"
+        },
+        {
+          "name": "Jo Byoung Hyun",
+          "url": "https://open.spotify.com/artist/3UpFQaK1g87D7swiZNSBvD"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253687,
+      "name": "Urgent Moment",
+      "url": "https://open.spotify.com/track/0G8PKKaOU5uLFWfMtcOOAn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXIhLRyftYTy"
 }

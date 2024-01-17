@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,550 likes - 54 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,799 likes - 54 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 53 | [Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
 | 54 | [Turkish Rondo](https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 3:37 |
 
-Snapshot ID: `MCxjY2IzYjI4NTNjZWIzMmM3YmNiZDg2YjQxNzY2ZGIxN2NmMTIyZWE3`
+Snapshot ID: `MCw2MGI2ZWM1MGQ3Y2FkZDQwMGYwZjkxYmE5YzU0MTVhZDFjODI2YjY4`

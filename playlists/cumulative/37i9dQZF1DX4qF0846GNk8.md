@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=5pOYTLVwR4uoTuzhcAmH5Q"> كريم كرستيانو </a>
 
-201 songs - 12 hr 17 min
+202 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-07 |  |
 | [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 |  |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 | 2022-11-18 |
+| [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/track/1qhODkCMlYY22JflCKJQnz) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اللي نفسه فيا بيتي ميتوهش](https://open.spotify.com/album/6KvK6k20VxB2PGWw9zfml5) | 6:25 | 2024-01-16 |  |
 | [اللي نفسه كسرت نفسه \- اسمي وحدو يهز مدينه](https://open.spotify.com/track/393YAkz3XPYnbu3fNT8DLM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اللي نفسه كسرت نفسه \(اسمي وحدو يهز مدينه\)](https://open.spotify.com/album/7rrq4BXBos9aSioymk3jsi) | 4:29 | 2023-08-02 | 2023-08-09 |
 | [اللي يقابل التاني يبقي حلال علي التاني \( العين علي قد ما شافت \)](https://open.spotify.com/track/6g25CtqP6CarB0AS5ztvvP) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اللي يقابل التاني يبقي حلال علي التاني \( العين علي قد ما شافت \)](https://open.spotify.com/album/6MkWAnr2koowyF1e8plDeO) | 4:30 | 2023-06-16 | 2023-09-06 |
 | [النسور ع الدبابات](https://open.spotify.com/track/6n1P8XVuCBEJHkyKgtNOWz) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [النسور ع الدبابات](https://open.spotify.com/album/0vvrJe3Ip4wSP9UHaPGJYc) | 3:07 | 2022-10-16 | 2023-08-09 |
@@ -132,7 +133,7 @@
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-07-30 | 2023-03-02 |
 | [عز](https://open.spotify.com/track/6RN0ZW0fMbn2aeLzXVtc1S) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [عز](https://open.spotify.com/album/3bOClA68mnBD1lbcyd4XPR) | 3:03 | 2023-07-12 |  |
 | [عصفورة \- بتنقل الكلام دى مش رجوله](https://open.spotify.com/track/4Y0HYqCtlXqSCZp3C2UoaY) | [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG), [Za3blawy](https://open.spotify.com/artist/7BkpFKhw7N5aeZ3doZ2k8V) | [عصفورة \(بتنقل الكلام دى مش رجوله\)](https://open.spotify.com/album/61ErcbWUlflfi766DtCkG2) | 3:33 | 2021-12-16 | 2022-03-31 |
-| [عقباوي دمي حامي](https://open.spotify.com/track/589yxRQaTsgjX23dBtgaIz) | [Hamada Abo El Soud](https://open.spotify.com/artist/46Mk53pIP0buQqvhKNlsAH), [Te7a](https://open.spotify.com/artist/5upPnqjYhTrlCrxCwQqTyC) | [عقباوي دمي حامي](https://open.spotify.com/album/46ThkQd2YDMj6yFH1DZaWE) | 2:50 | 2021-12-16 |  |
+| [عقباوي دمي حامي](https://open.spotify.com/track/589yxRQaTsgjX23dBtgaIz) | [Hamada Abo El Soud](https://open.spotify.com/artist/46Mk53pIP0buQqvhKNlsAH), [Te7a](https://open.spotify.com/artist/5upPnqjYhTrlCrxCwQqTyC) | [عقباوي دمي حامي](https://open.spotify.com/album/46ThkQd2YDMj6yFH1DZaWE) | 2:50 | 2021-12-16 | 2024-01-16 |
 | [على باب الرزق خبط كسبت صحاب حلوه و جدعان](https://open.spotify.com/track/5YYzlmhag832EfWa5MLfhR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [على باب الرزق خبط كسبت صحاب حلوه و جدعان](https://open.spotify.com/album/0nbHjYEPdvNz2RG78JOM2m) | 2:58 | 2023-06-21 |  |
 | [على وضعنا](https://open.spotify.com/track/5sb9l21Adj5wafYN0U2eo7) | [Ahmed Faransa](https://open.spotify.com/artist/4edzZOS8Fd330sVuzn8D6q) | [على وضعنا](https://open.spotify.com/album/1etJ2v9Joi2EyIjZqQDNJo) | 2:02 | 2021-12-16 | 2022-09-28 |
 | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/track/18edBOhWy8oHrKYSpxzrgV) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمري انا ما بجلي كفاءه تملي](https://open.spotify.com/album/3ykZCZ4P3JUHOIGT5WdKD2) | 4:21 | 2022-02-16 | 2022-07-31 |

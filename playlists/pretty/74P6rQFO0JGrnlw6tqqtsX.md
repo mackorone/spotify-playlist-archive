@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74P6rQFO0JGrnlw6tqqtsX.md) - [plain]
 
 > 
 
-[LaDiamond Covington](https://open.spotify.com/user/walkerla2015) - 2,681 likes - 94 songs - 7 hr 31 min
+[LaDiamond Covington](https://open.spotify.com/user/walkerla2015) - 2,678 likes - 94 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

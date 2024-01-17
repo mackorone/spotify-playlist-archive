@@ -4,7 +4,7 @@
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-104 songs - 5 hr 2 min
+105 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 | 2022-01-11 |  |
 | [Palmeras](https://open.spotify.com/track/5iR7o7agHc6Xfyoa15dxKa) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:20 | 2022-03-30 | 2022-07-29 |
 | [Palmeras](https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:20 | 2022-03-30 |  |
+| [Perfidia](https://open.spotify.com/track/3Rc950NhMyavCGmxhGSmnw) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [The Dance Beat of Xavier Cugat](https://open.spotify.com/album/0I0zwKVL1SCPMuzC6GVKj4) | 3:25 | 2021-01-20 | 2024-01-11 |
 | [Perfidia](https://open.spotify.com/track/5SaOX5WmvmvyNIVGmyBJGp) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Xavier Cugat \- Música para Bailar!](https://open.spotify.com/album/488JrAteaK9HPFPB4ryg3O) | 3:27 | 2021-01-20 |  |
 | [Perfidia](https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Lo Mejor De Xavier Cugat Y Su Orquesta](https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he) | 3:27 | 2021-01-20 | 2023-03-23 |
 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 | 2021-01-20 |  |

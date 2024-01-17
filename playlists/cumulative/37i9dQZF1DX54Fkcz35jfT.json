@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CVLTE",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: 10-FEET",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-12",
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 227225,
       "name": "APEX",
       "url": "https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE"
@@ -168,6 +168,24 @@
       "duration_ms": 219533,
       "name": "BANG!!!",
       "url": "https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz"
+    },
+    {
+      "album": {
+        "name": "We Are Square",
+        "url": "https://open.spotify.com/album/0YzdiGzb6X9UmVeSv45HQQ"
+      },
+      "artists": [
+        {
+          "name": "Are Square",
+          "url": "https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "BANG!!!",
+      "url": "https://open.spotify.com/track/68syBLj2N0IUSzItDP4cnU"
     },
     {
       "album": {
@@ -467,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Bochibochi veteran",
+        "url": "https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1"
+      },
+      "artists": [
+        {
+          "name": "UchikubiGokumonDoukoukai",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207301,
+      "name": "Bucho puccho dou?",
+      "url": "https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag"
+    },
+    {
+      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
@@ -572,6 +608,28 @@
       "duration_ms": 175532,
       "name": "Dancer in the Dark",
       "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+    },
+    {
+      "album": {
+        "name": "Danger Danger",
+        "url": "https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        },
+        {
+          "name": "icy",
+          "url": "https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Danger Danger",
+      "url": "https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo"
     },
     {
       "album": {
@@ -882,7 +940,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 210922,
       "name": "Face My Fate",
       "url": "https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj"
@@ -900,7 +958,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 160642,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe"
@@ -1080,7 +1138,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 185712,
       "name": "hellsong. (let it in)",
       "url": "https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ"
@@ -1224,10 +1282,28 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 227800,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+    },
+    {
+      "album": {
+        "name": "I'll go first, sorry",
+        "url": "https://open.spotify.com/album/2iqvVaNNtKCxEWKc9m3Xlz"
+      },
+      "artists": [
+        {
+          "name": "ALMONDot",
+          "url": "https://open.spotify.com/artist/5uijk6q2ZtAEm4K0pWZLdh"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182629,
+      "name": "I'll go first, sorry",
+      "url": "https://open.spotify.com/track/0sx8nNfNy3c6GYF77ptRwX"
     },
     {
       "album": {
@@ -2089,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/11SCmdVqCUfuFF5DlvJ20K"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244288,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1im85tqQBpvHhbcwsI8zRa"
+    },
+    {
+      "album": {
         "name": "of course",
         "url": "https://open.spotify.com/album/68hagxENiIaUNAprO75WGC"
       },
@@ -2252,6 +2346,24 @@
       "duration_ms": 241153,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx"
+    },
+    {
+      "album": {
+        "name": "Parasites",
+        "url": "https://open.spotify.com/album/02Tb76LOod9iowVjS8r9sF"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130225,
+      "name": "Parasites",
+      "url": "https://open.spotify.com/track/2PvPwvinXuMcF82qkR9DqG"
     },
     {
       "album": {
@@ -2840,7 +2952,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 78297,
       "name": "SKY PRAYER",
       "url": "https://open.spotify.com/track/26F9zTeLrSRGJlKD5EZSwG"
@@ -2902,6 +3014,24 @@
       "duration_ms": 237813,
       "name": "Something New",
       "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
+    },
+    {
+      "album": {
+        "name": "Song For The Weak.",
+        "url": "https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6"
+      },
+      "artists": [
+        {
+          "name": "DEVILOOF",
+          "url": "https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314130,
+      "name": "Song For The Weak.",
+      "url": "https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr"
     },
     {
       "album": {
@@ -3006,7 +3136,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 318584,
       "name": "sugar cannon ball",
       "url": "https://open.spotify.com/track/6KF2HG0q8q7xighJaoKPvU"
@@ -3850,7 +3980,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
@@ -3886,7 +4016,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
@@ -4228,7 +4358,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
@@ -4286,7 +4416,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 207301,
       "name": "\u90e8\u9577\u3077\u3063\u3061\u3087\u3069\u3046\uff1f",
       "url": "https://open.spotify.com/track/2Oz4Nt5wvOhvh5DTT8PrqR"

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Backstabber",
+        "url": "https://open.spotify.com/album/4F7MDZ9vZyu91UNsp5HxgZ"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234478,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/6fvRlIuF0E1C05vILdR9oC"
+    },
+    {
+      "album": {
         "name": "Bad Luck & The Blues",
         "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 256733,
       "name": "Gone to Stay",
       "url": "https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209908,
       "name": "Oh! That Bitches Brew",
       "url": "https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK"
@@ -4433,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
+    },
+    {
+      "album": {
         "name": "We Cry",
         "url": "https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh"
       },
@@ -4700,10 +4736,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 235828,
       "name": "Woolamai",
       "url": "https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe"
+    },
+    {
+      "album": {
+        "name": "The Mojo Funk",
+        "url": "https://open.spotify.com/album/7HAijWOmT4QlIH5BqDn38W"
+      },
+      "artists": [
+        {
+          "name": "Smoke Stack Rhino",
+          "url": "https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235840,
+      "name": "Woolamai",
+      "url": "https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E"
     },
     {
       "album": {

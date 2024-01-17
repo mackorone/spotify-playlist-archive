@@ -1,601 +1,2145 @@
 {
-  "2022-05-09": 30586,
-  "2022-05-10": 30594,
-  "2022-05-11": 30608,
-  "2022-05-12": 30618,
-  "2022-05-13": 30625,
-  "2022-05-14": 30642,
-  "2022-05-15": 30657,
-  "2022-05-16": 30687,
-  "2022-05-17": 30704,
-  "2022-05-18": 30728,
-  "2022-05-19": 30741,
-  "2022-05-20": 30758,
-  "2022-05-21": 30785,
-  "2022-05-22": 30785,
-  "2022-05-23": 30802,
-  "2022-05-24": 30823,
-  "2022-05-25": 30841,
-  "2022-05-26": 30859,
-  "2022-05-27": 30875,
-  "2022-05-28": 30885,
-  "2022-05-29": 30907,
-  "2022-05-30": 30919,
-  "2022-05-31": 30939,
-  "2022-06-01": 30964,
-  "2022-06-02": 30963,
-  "2022-06-03": 30966,
-  "2022-06-04": 30980,
-  "2022-06-05": 30998,
-  "2022-06-06": 31001,
-  "2022-06-07": 31021,
-  "2022-06-08": 31043,
-  "2022-06-09": 31061,
-  "2022-06-10": 31081,
-  "2022-06-11": 31088,
-  "2022-06-12": 31096,
-  "2022-06-13": 31108,
-  "2022-06-14": 31124,
-  "2022-06-15": 31130,
-  "2022-06-16": 31145,
-  "2022-06-17": 31160,
-  "2022-06-18": 31175,
-  "2022-06-19": 31205,
-  "2022-06-20": 31205,
-  "2022-06-21": 31217,
-  "2022-06-22": 31238,
-  "2022-06-23": 31238,
-  "2022-06-24": 31250,
-  "2022-06-25": 31258,
-  "2022-06-26": 31274,
-  "2022-06-27": 31296,
-  "2022-06-28": 31306,
-  "2022-06-29": 31314,
-  "2022-06-30": 31331,
-  "2022-07-01": 31350,
-  "2022-07-02": 31363,
-  "2022-07-03": 31377,
-  "2022-07-04": 31404,
-  "2022-07-05": 31419,
-  "2022-07-06": 31440,
-  "2022-07-07": 31458,
-  "2022-07-08": 31473,
-  "2022-07-09": 31496,
-  "2022-07-10": 31517,
-  "2022-07-11": 31539,
-  "2022-07-12": 31548,
-  "2022-07-13": 31565,
-  "2022-07-14": 31580,
-  "2022-07-15": 31597,
-  "2022-07-16": 31619,
-  "2022-07-17": 31631,
-  "2022-07-18": 31648,
-  "2022-07-19": 31672,
-  "2022-07-20": 31691,
-  "2022-07-21": 31707,
-  "2022-07-22": 31718,
-  "2022-07-23": 31743,
-  "2022-07-24": 31751,
-  "2022-07-25": 31781,
-  "2022-07-26": 31808,
-  "2022-07-27": 31822,
-  "2022-07-28": 31850,
-  "2022-07-29": 31862,
-  "2022-07-30": 31896,
-  "2022-07-31": 31896,
-  "2022-08-01": 31922,
-  "2022-08-02": 31959,
-  "2022-08-03": 31959,
-  "2022-08-04": 31970,
-  "2022-08-05": 31985,
-  "2022-08-06": 32003,
-  "2022-08-07": 32018,
-  "2022-08-08": 32037,
-  "2022-08-09": 32053,
-  "2022-08-10": 32057,
-  "2022-08-11": 32071,
-  "2022-08-12": 32093,
-  "2022-08-13": 32108,
-  "2022-08-14": 32136,
-  "2022-08-15": 32150,
-  "2022-08-16": 32165,
-  "2022-08-17": 32196,
-  "2022-08-18": 32217,
-  "2022-08-19": 32243,
-  "2022-08-20": 32262,
-  "2022-08-21": 32283,
-  "2022-08-22": 32313,
-  "2022-08-23": 32336,
-  "2022-08-24": 32353,
-  "2022-08-25": 32386,
-  "2022-08-26": 32400,
-  "2022-08-27": 32415,
-  "2022-08-28": 32434,
-  "2022-08-29": 32453,
-  "2022-08-30": 32432,
-  "2022-08-31": 32357,
-  "2022-09-01": 32274,
-  "2022-09-02": 32198,
-  "2022-09-03": 32225,
-  "2022-09-04": 32028,
-  "2022-09-05": 32026,
-  "2022-09-06": 32047,
-  "2022-09-07": 32067,
-  "2022-09-09": 32112,
-  "2022-09-10": 32140,
-  "2022-09-11": 32159,
-  "2022-09-12": 32175,
-  "2022-09-13": 32191,
-  "2022-09-15": 32231,
-  "2022-09-16": 32262,
-  "2022-09-17": 32283,
-  "2022-09-18": 32300,
-  "2022-09-19": 32327,
-  "2022-09-20": 32364,
-  "2022-09-21": 32393,
-  "2022-09-22": 32415,
-  "2022-09-23": 32438,
-  "2022-09-24": 32462,
-  "2022-09-25": 32489,
-  "2022-09-26": 32509,
-  "2022-09-27": 32542,
-  "2022-09-28": 32555,
-  "2022-09-29": 32566,
-  "2022-09-30": 32586,
-  "2022-10-01": 32609,
-  "2022-10-02": 32629,
-  "2022-10-03": 32651,
-  "2022-10-04": 32682,
-  "2022-10-05": 32704,
-  "2022-10-06": 32723,
-  "2022-10-07": 32745,
-  "2022-10-08": 32762,
-  "2022-10-09": 32796,
-  "2022-10-10": 32807,
-  "2022-10-11": 32835,
-  "2022-10-12": 32865,
-  "2022-10-13": 32881,
-  "2022-10-14": 32900,
-  "2022-10-15": 32918,
-  "2022-10-16": 32936,
-  "2022-10-17": 32956,
-  "2022-10-18": 32958,
-  "2022-10-19": 32978,
-  "2022-10-20": 32989,
-  "2022-10-21": 33019,
-  "2022-10-22": 33039,
-  "2022-10-23": 33052,
-  "2022-10-24": 33068,
-  "2022-10-25": 33077,
-  "2022-10-26": 33089,
-  "2022-10-27": 33105,
-  "2022-10-28": 33128,
-  "2022-10-29": 33144,
-  "2022-10-30": 33163,
-  "2022-10-31": 33176,
-  "2022-11-01": 33195,
-  "2022-11-02": 33220,
-  "2022-11-03": 33229,
-  "2022-11-04": 33249,
-  "2022-11-05": 33270,
-  "2022-11-06": 33296,
-  "2022-11-07": 33318,
-  "2022-11-08": 33333,
-  "2022-11-09": 33354,
-  "2022-11-10": 33372,
-  "2022-11-11": 33385,
-  "2022-11-12": 33407,
-  "2022-11-13": 33422,
-  "2022-11-14": 33436,
-  "2022-11-15": 33453,
-  "2022-11-16": 33469,
-  "2022-11-17": 33496,
-  "2022-11-18": 33504,
-  "2022-11-19": 33490,
-  "2022-11-20": 33522,
-  "2022-11-21": 33512,
-  "2022-11-22": 33571,
-  "2022-11-23": 33554,
-  "2022-11-24": 33603,
-  "2022-11-25": 33637,
-  "2022-11-26": 33667,
-  "2022-11-27": 33690,
-  "2022-11-28": 33716,
-  "2022-11-29": 33734,
-  "2022-11-30": 33746,
-  "2022-12-01": 33771,
-  "2022-12-02": 33783,
-  "2022-12-03": 33818,
-  "2022-12-04": 33834,
-  "2022-12-05": 33857,
-  "2022-12-06": 33876,
-  "2022-12-07": 33889,
-  "2022-12-08": 33900,
-  "2022-12-09": 33918,
-  "2022-12-10": 33950,
-  "2022-12-11": 33963,
-  "2022-12-12": 33964,
-  "2022-12-13": 33982,
-  "2022-12-14": 34003,
-  "2022-12-15": 34023,
-  "2022-12-16": 34042,
-  "2022-12-17": 34069,
-  "2022-12-18": 34101,
-  "2022-12-19": 34122,
-  "2022-12-20": 34152,
-  "2022-12-21": 34152,
-  "2022-12-22": 34175,
-  "2022-12-24": 34208,
-  "2022-12-25": 34219,
-  "2022-12-26": 34237,
-  "2022-12-27": 34252,
-  "2022-12-28": 34264,
-  "2022-12-29": 34290,
-  "2022-12-30": 34309,
-  "2022-12-31": 34339,
-  "2023-01-01": 34353,
-  "2023-01-02": 34367,
-  "2023-01-03": 34384,
-  "2023-01-04": 34404,
-  "2023-01-05": 34433,
-  "2023-01-06": 34464,
-  "2023-01-07": 34500,
-  "2023-01-08": 34501,
-  "2023-01-09": 34539,
-  "2023-01-10": 34552,
-  "2023-01-11": 34573,
-  "2023-01-12": 34601,
-  "2023-01-13": 34631,
-  "2023-01-14": 34671,
-  "2023-01-15": 34669,
-  "2023-01-16": 34689,
-  "2023-01-17": 34715,
-  "2023-01-18": 34731,
-  "2023-01-19": 34755,
-  "2023-01-20": 34789,
-  "2023-01-21": 34802,
-  "2023-01-22": 34827,
-  "2023-01-23": 34838,
-  "2023-01-24": 34850,
-  "2023-01-25": 34867,
-  "2023-01-26": 34892,
-  "2023-01-27": 34923,
-  "2023-01-28": 34955,
-  "2023-01-29": 34969,
-  "2023-01-30": 34990,
-  "2023-01-31": 34990,
-  "2023-02-01": 35014,
-  "2023-02-02": 35032,
-  "2023-02-03": 35053,
-  "2023-02-04": 35073,
-  "2023-02-05": 35095,
-  "2023-02-06": 35122,
-  "2023-02-07": 35140,
-  "2023-02-08": 35189,
-  "2023-02-09": 35189,
-  "2023-02-10": 35201,
-  "2023-02-11": 35225,
-  "2023-02-12": 35260,
-  "2023-02-13": 35285,
-  "2023-02-14": 35285,
-  "2023-02-15": 35298,
-  "2023-02-16": 35318,
-  "2023-02-17": 35337,
-  "2023-02-18": 35385,
-  "2023-02-19": 35390,
-  "2023-02-20": 35402,
-  "2023-02-21": 35419,
-  "2023-02-22": 35441,
-  "2023-02-23": 35489,
-  "2023-02-24": 35525,
-  "2023-02-25": 35569,
-  "2023-02-26": 35599,
-  "2023-02-27": 35654,
-  "2023-02-28": 35654,
-  "2023-03-01": 35694,
-  "2023-03-02": 35720,
-  "2023-03-03": 35759,
-  "2023-03-04": 35789,
-  "2023-03-05": 35839,
-  "2023-03-06": 35839,
-  "2023-03-07": 35871,
-  "2023-03-08": 35894,
-  "2023-03-09": 35930,
-  "2023-03-10": 35958,
-  "2023-03-11": 36002,
-  "2023-03-12": 36022,
-  "2023-03-13": 36035,
-  "2023-03-14": 36055,
-  "2023-03-15": 36079,
-  "2023-03-16": 36098,
-  "2023-03-17": 36098,
-  "2023-03-18": 36137,
-  "2023-03-19": 36156,
-  "2023-03-20": 36179,
-  "2023-03-21": 36204,
-  "2023-03-22": 36234,
-  "2023-03-23": 36251,
-  "2023-03-24": 36251,
-  "2023-03-25": 36303,
-  "2023-03-26": 36331,
-  "2023-03-27": 36355,
-  "2023-03-28": 36384,
-  "2023-03-29": 36421,
-  "2023-03-30": 36463,
-  "2023-03-31": 36463,
-  "2023-04-01": 36483,
-  "2023-04-02": 36498,
-  "2023-04-03": 36517,
-  "2023-04-04": 36531,
-  "2023-04-05": 36542,
-  "2023-04-06": 36557,
-  "2023-04-07": 36585,
-  "2023-04-09": 36616,
-  "2023-04-10": 36630,
-  "2023-04-11": 36668,
-  "2023-04-12": 36668,
-  "2023-04-13": 36677,
-  "2023-04-14": 36686,
-  "2023-04-15": 36702,
-  "2023-04-16": 36716,
-  "2023-04-17": 36732,
-  "2023-04-18": 36751,
-  "2023-04-19": 36782,
-  "2023-04-20": 36808,
-  "2023-04-21": 36823,
-  "2023-04-22": 36838,
-  "2023-04-23": 36853,
-  "2023-04-24": 36859,
-  "2023-04-25": 36890,
-  "2023-04-26": 36901,
-  "2023-04-27": 36932,
-  "2023-04-28": 36951,
-  "2023-04-29": 36973,
-  "2023-04-30": 36982,
-  "2023-05-01": 37005,
-  "2023-05-02": 37020,
-  "2023-05-03": 37041,
-  "2023-05-04": 37064,
-  "2023-05-05": 37083,
-  "2023-05-06": 37093,
-  "2023-05-07": 37107,
-  "2023-05-08": 37123,
-  "2023-05-09": 37141,
-  "2023-05-10": 37165,
-  "2023-05-11": 37182,
-  "2023-05-12": 37203,
-  "2023-05-13": 37241,
-  "2023-05-14": 37262,
-  "2023-05-15": 37276,
-  "2023-05-16": 37301,
-  "2023-05-17": 37316,
-  "2023-05-18": 37344,
-  "2023-05-19": 37366,
-  "2023-05-20": 37403,
-  "2023-05-21": 37403,
-  "2023-05-22": 37403,
-  "2023-05-23": 37443,
-  "2023-05-24": 37481,
-  "2023-05-25": 37483,
-  "2023-05-26": 37512,
-  "2023-05-27": 37538,
-  "2023-05-28": 37560,
-  "2023-05-29": 37560,
-  "2023-05-30": 37601,
-  "2023-05-31": 37622,
-  "2023-06-01": 37641,
-  "2023-06-02": 37656,
-  "2023-06-03": 37674,
-  "2023-06-04": 37699,
-  "2023-06-05": 37724,
-  "2023-06-06": 37746,
-  "2023-06-07": 37769,
-  "2023-06-08": 37783,
-  "2023-06-09": 37801,
-  "2023-06-10": 37831,
-  "2023-06-11": 37848,
-  "2023-06-12": 37867,
-  "2023-06-13": 37902,
-  "2023-06-14": 37920,
-  "2023-06-15": 37937,
-  "2023-06-16": 37954,
-  "2023-06-17": 37978,
-  "2023-06-18": 38005,
-  "2023-06-19": 38031,
-  "2023-06-20": 38048,
-  "2023-06-21": 38074,
-  "2023-06-22": 38093,
-  "2023-06-23": 38115,
-  "2023-06-24": 38128,
-  "2023-06-25": 38151,
-  "2023-06-26": 38168,
-  "2023-06-27": 38197,
-  "2023-06-28": 38214,
-  "2023-06-29": 38233,
-  "2023-06-30": 38254,
-  "2023-07-01": 38296,
-  "2023-07-02": 38296,
-  "2023-07-03": 38315,
-  "2023-07-04": 38327,
-  "2023-07-05": 38352,
-  "2023-07-06": 38381,
-  "2023-07-07": 38381,
-  "2023-07-08": 38403,
-  "2023-07-09": 38423,
-  "2023-07-10": 38441,
-  "2023-07-11": 38455,
-  "2023-07-12": 38463,
-  "2023-07-13": 38477,
-  "2023-07-14": 38492,
-  "2023-07-15": 38504,
-  "2023-07-16": 38524,
-  "2023-07-17": 38542,
-  "2023-07-18": 38548,
-  "2023-07-19": 38562,
-  "2023-07-20": 38582,
-  "2023-07-21": 38591,
-  "2023-07-22": 38606,
-  "2023-07-23": 38631,
-  "2023-07-24": 38645,
-  "2023-07-25": 38652,
-  "2023-07-26": 38664,
-  "2023-07-27": 38668,
-  "2023-07-28": 38685,
-  "2023-07-29": 38706,
-  "2023-07-30": 38715,
-  "2023-07-31": 38737,
-  "2023-08-01": 38758,
-  "2023-08-02": 38773,
-  "2023-08-03": 38788,
-  "2023-08-04": 38806,
-  "2023-08-05": 38824,
-  "2023-08-06": 38860,
-  "2023-08-07": 38860,
-  "2023-08-08": 38880,
-  "2023-08-09": 38900,
-  "2023-08-10": 38913,
-  "2023-08-11": 38936,
-  "2023-08-12": 38940,
-  "2023-08-13": 38948,
-  "2023-08-14": 38974,
-  "2023-08-15": 39006,
-  "2023-08-16": 39006,
-  "2023-08-17": 39036,
-  "2023-08-18": 39047,
-  "2023-08-19": 39071,
-  "2023-08-20": 39102,
-  "2023-08-21": 39124,
-  "2023-08-22": 39153,
-  "2023-08-23": 39169,
-  "2023-08-24": 39184,
-  "2023-08-25": 39203,
-  "2023-08-26": 39216,
-  "2023-08-27": 39231,
-  "2023-08-28": 39249,
-  "2023-08-29": 39267,
-  "2023-08-30": 39297,
-  "2023-08-31": 39312,
-  "2023-09-01": 39366,
-  "2023-09-02": 39366,
-  "2023-09-03": 39382,
-  "2023-09-04": 39413,
-  "2023-09-05": 39439,
-  "2023-09-06": 39456,
-  "2023-09-07": 39483,
-  "2023-09-08": 39497,
-  "2023-09-09": 39523,
-  "2023-09-10": 39543,
-  "2023-09-11": 39559,
-  "2023-09-12": 39581,
-  "2023-09-13": 39607,
-  "2023-09-14": 39633,
-  "2023-09-15": 39654,
-  "2023-09-16": 39680,
-  "2023-09-17": 39701,
-  "2023-09-18": 39715,
-  "2023-09-19": 39737,
-  "2023-09-20": 39739,
-  "2023-09-21": 39767,
-  "2023-09-22": 39794,
-  "2023-09-23": 39823,
-  "2023-09-24": 39844,
-  "2023-09-25": 39863,
-  "2023-09-26": 39888,
-  "2023-09-27": 39899,
-  "2023-09-28": 39920,
-  "2023-09-29": 39949,
-  "2023-09-30": 39973,
-  "2023-10-01": 39989,
-  "2023-10-02": 40004,
-  "2023-10-03": 40020,
-  "2023-10-04": 40038,
-  "2023-10-05": 40055,
-  "2023-10-06": 40081,
-  "2023-10-07": 40097,
-  "2023-10-08": 40124,
-  "2023-10-09": 40135,
-  "2023-10-10": 40143,
-  "2023-10-11": 40175,
-  "2023-10-12": 40175,
-  "2023-10-13": 40189,
-  "2023-10-14": 40207,
-  "2023-10-15": 40226,
-  "2023-10-16": 40251,
-  "2023-10-17": 40273,
-  "2023-10-18": 40297,
-  "2023-10-19": 40314,
-  "2023-10-20": 40335,
-  "2023-10-21": 40354,
-  "2023-10-22": 40366,
-  "2023-10-23": 40388,
-  "2023-10-24": 40408,
-  "2023-10-25": 40438,
-  "2023-10-26": 40444,
-  "2023-10-27": 40470,
-  "2023-10-28": 40475,
-  "2023-10-29": 40489,
-  "2023-10-30": 40531,
-  "2023-10-31": 40531,
-  "2023-11-01": 40542,
-  "2023-11-02": 40570,
-  "2023-11-03": 40588,
-  "2023-11-04": 40595,
-  "2023-11-05": 40611,
-  "2023-11-06": 40626,
-  "2023-11-07": 40645,
-  "2023-11-08": 40660,
-  "2023-11-09": 40691,
-  "2023-11-10": 40739,
-  "2023-11-11": 40778,
-  "2023-11-12": 40813,
-  "2023-11-13": 40843,
-  "2023-11-14": 40885,
-  "2023-11-15": 40885,
-  "2023-11-16": 40954,
-  "2023-11-17": 41029,
-  "2023-11-18": 41029,
-  "2023-11-19": 41074,
-  "2023-11-20": 41099,
-  "2023-11-21": 41145,
-  "2023-11-22": 41177,
-  "2023-11-23": 41213,
-  "2023-11-24": 41251,
-  "2023-11-25": 41283,
-  "2023-11-26": 41305,
-  "2023-11-27": 41345,
-  "2023-11-28": 41384,
-  "2023-11-29": 41459,
-  "2023-11-30": 41459,
-  "2023-12-01": 41501,
-  "2023-12-02": 41518,
-  "2023-12-03": 41540,
-  "2023-12-04": 41561,
-  "2023-12-05": 41592,
-  "2023-12-06": 41604,
-  "2023-12-07": 41623,
-  "2023-12-08": 41647,
-  "2023-12-09": 41665,
-  "2023-12-10": 41687,
-  "2023-12-11": 41719,
-  "2023-12-12": 41740,
-  "2023-12-13": 41763,
-  "2023-12-14": 41794,
-  "2023-12-15": 41817,
-  "2023-12-16": 41835,
-  "2023-12-17": 41855,
-  "2023-12-18": 41882,
-  "2023-12-19": 41898,
-  "2023-12-20": 41910,
-  "2023-12-21": 41919,
-  "2023-12-22": 41932,
-  "2023-12-23": 41946,
-  "2023-12-24": 41965,
-  "2023-12-25": 41994,
-  "2023-12-26": 42002,
-  "2023-12-27": 42033,
-  "2023-12-30": 42078,
-  "2023-12-31": 42098,
-  "2024-01-01": 42113,
-  "2024-01-02": 42122,
-  "2024-01-03": 42137
+  "2024-01-17": 42391,
+  "date_first_scraped": "2022-05-09",
+  "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u767b\u5834",
+  "name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
+  "tracks": [
+    {
+      "album": {
+        "name": "GALAXY",
+        "url": "https://open.spotify.com/album/4cBKcZv5YHe92f1X60BrQh"
+      },
+      "artists": [
+        {
+          "name": "Crazy Ken Band",
+          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236360,
+      "name": "12\u670817\u65e5",
+      "url": "https://open.spotify.com/track/3z3rhxVF4MH70ZIGAgbtDv"
+    },
+    {
+      "album": {
+        "name": "GALAXY",
+        "url": "https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j"
+      },
+      "artists": [
+        {
+          "name": "Crazy Ken Band",
+          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236360,
+      "name": "12\u670817\u65e5",
+      "url": "https://open.spotify.com/track/4mwL32lnMsw2X9RIPqi5jZ"
+    },
+    {
+      "album": {
+        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251837,
+      "name": "24-hour Cinderella - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5EMX5Ed9GIlhTuQTiU8hxc"
+    },
+    {
+      "album": {
+        "name": "\u771f\u5cf6\u543e\u6717 \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251837,
+      "name": "24\u6642\u9593\u30b7\u30f3\u30c7\u30ec\u30e9 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5cWxbtuack9EjQyqXYEErq"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c3e\u6c60 \u667a\u53f2",
+          "url": "https://open.spotify.com/artist/6uzmmp0fEZY2brLf0S54Ho"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92080,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7J1wA8eLKbUoT6wNbF37JX"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5 \u4e00\u756a<\u4e2d\u8c37 \u4e00\u535a>",
+          "url": "https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "AKUMA NO JIGOKUNABE - Full Spec Edition",
+      "url": "https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5 \u4e00\u756a<\u4e2d\u8c37 \u4e00\u535a>",
+          "url": "https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 268333,
+      "name": "AKUMA NO JIGOKUNABE - Full Spec Edition",
+      "url": "https://open.spotify.com/track/0GBmHTLp9zXUcWY94c8oB5"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku 7 karaoke new song collection(Ryu ga gotoku 7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/003xjLhNJzHIsaxFT1jXPV"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u4e00\u756a(\u4e2d\u8c37\u4e00\u535a)",
+          "url": "https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 265945,
+      "name": "Akuma no Jigokunabe - Full Spec Edition",
+      "url": "https://open.spotify.com/track/28jDgMMjq3pvdf9BPDnR1g"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side A)",
+        "url": "https://open.spotify.com/album/3WXNB1IEdCsW6zRLU4Kjt0"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        },
+        {
+          "name": "\u7f8e\u7dd2",
+          "url": "https://open.spotify.com/artist/59OrirVzqqGU63UES7pKde"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156966,
+      "name": "As You Like",
+      "url": "https://open.spotify.com/track/03VWoSbfWvZhRF5HXOxgX8"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
+      },
+      "artists": [
+        {
+          "name": "\u5e7e\u677e(\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/6taXyAWJu1vUbUisFat4ms"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 242576,
+      "name": "Asura Komachi - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7l9Tk13ksOcFAVMZBfNB2Q"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291266,
+      "name": "Bakamitai - Taxi Driver Edition",
+      "url": "https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC"
+    },
+    {
+      "album": {
+        "name": "IF",
+        "url": "https://open.spotify.com/album/3Cm491VF4SVOLyuAJXRIyH"
+      },
+      "artists": [
+        {
+          "name": "GOSPELS OF JUDAS",
+          "url": "https://open.spotify.com/artist/59BRLcy4SjxESP4kbUSuzk"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 338629,
+      "name": "Bloody Moon",
+      "url": "https://open.spotify.com/track/23kIep0hm2FEJ8pkHh6Rr7"
+    },
+    {
+      "album": {
+        "name": "25th Anniversary BEST ALBUM \"GREATEST ANTHOLOGY\"",
+        "url": "https://open.spotify.com/album/2bT5vw23kS7odJDy32HSNd"
+      },
+      "artists": [
+        {
+          "name": "GOSPELS OF JUDAS",
+          "url": "https://open.spotify.com/artist/59BRLcy4SjxESP4kbUSuzk"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339680,
+      "name": "Bloody Moon",
+      "url": "https://open.spotify.com/track/3x097zSgBwU3NlX9eFdRLk"
+    },
+    {
+      "album": {
+        "name": "\u6e58\u5357\u4e43\u98a8 \u301c2023\u301c",
+        "url": "https://open.spotify.com/album/56fvIjP1swwRcNNTNPqJ2n"
+      },
+      "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 312146,
+      "name": "Born to be WILD",
+      "url": "https://open.spotify.com/track/5ibgvjYvwzuA1guRMV1XuJ"
+    },
+    {
+      "album": {
+        "name": "Black World/White Heat",
+        "url": "https://open.spotify.com/album/3cFa32IThm0QOnid4cvsj9"
+      },
+      "artists": [
+        {
+          "name": "ZEEBRA",
+          "url": "https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54"
+        },
+        {
+          "name": "RYO the SKYWALKER",
+          "url": "https://open.spotify.com/artist/2BwzHQCPEZc2nCeStyclIP"
+        },
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        },
+        {
+          "name": "DOUBLE",
+          "url": "https://open.spotify.com/artist/7aX0nvuOtj9eTDip2YXY6p"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Butterfly City",
+      "url": "https://open.spotify.com/track/17fzZod0jPS0RWsUJqzsNk"
+    },
+    {
+      "album": {
+        "name": "Butterfly City",
+        "url": "https://open.spotify.com/album/7rB8MbqCMNPoGVa6DFZrce"
+      },
+      "artists": [
+        {
+          "name": "ZEEBRA",
+          "url": "https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54"
+        },
+        {
+          "name": "RYO the SKYWALKER",
+          "url": "https://open.spotify.com/artist/2BwzHQCPEZc2nCeStyclIP"
+        },
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        },
+        {
+          "name": "DOUBLE",
+          "url": "https://open.spotify.com/artist/7aX0nvuOtj9eTDip2YXY6p"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 267733,
+      "name": "Butterfly City",
+      "url": "https://open.spotify.com/track/2BA0guIUcaGWuJi3ryeZIJ"
+    },
+    {
+      "album": {
+        "name": "Black World/White Heat",
+        "url": "https://open.spotify.com/album/6rui3femSUldzizhieIyLA"
+      },
+      "artists": [
+        {
+          "name": "Zeebra feat. RYO the SKYWALKER, Mummy-D & DOUBLE",
+          "url": "https://open.spotify.com/artist/2PFAgn6sCOrc4yy11iiAQa"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264680,
+      "name": "Butterfly City",
+      "url": "https://open.spotify.com/track/2RgiuezPjpHv6Pzeu7qo4p"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\u00d7\u50d5=",
+        "url": "https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235346,
+      "name": "Clock Strikes",
+      "url": "https://open.spotify.com/track/1XPzVq4TS2D38MUb9uu0hi"
+    },
+    {
+      "album": {
+        "name": "JINSEI KAKETE BOKU WA",
+        "url": "https://open.spotify.com/album/5dWke9BKYdBq7YXbb7jrLC"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Clock Strikes",
+      "url": "https://open.spotify.com/track/30CenAPBR2VmH91r4Um32b"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume1",
+        "url": "https://open.spotify.com/album/2LnwaZg33YpAkarvHCZTgl"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209891,
+      "name": "For Faith",
+      "url": "https://open.spotify.com/track/6IbtEbRcj2W64Ls504svdq"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume1)",
+        "url": "https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 209891,
+      "name": "For Faith",
+      "url": "https://open.spotify.com/track/7srBxCuuOUkZTvBhkJ6DXS"
+    },
+    {
+      "album": {
+        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 316172,
+      "name": "GET TO THE TOP! - Remix OF THE END",
+      "url": "https://open.spotify.com/track/4AGBW4uky6MckcAWtVwyg8"
+    },
+    {
+      "album": {
+        "name": "\u771f\u5cf6\u543e\u6717 \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316172,
+      "name": "GET TO THE TOP! - Remix OF THE END",
+      "url": "https://open.spotify.com/track/72VsXEcsAzFPcfz8MvZbJZ"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u798f\u7530 \u907c",
+          "url": "https://open.spotify.com/artist/4uKqJoShYWfv5yrwjFlAi7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92253,
+      "name": "Good Taste",
+      "url": "https://open.spotify.com/track/1IDegbxxxHU4FBbyD7KRFw"
+    },
+    {
+      "album": {
+        "name": "YAKUZA 6: THE SONG OF LIFE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0HMKppHnFphltdEzp3Sz7K"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 212342,
+      "name": "hands - Full Spec Edition",
+      "url": "https://open.spotify.com/track/2kBo896zEH6RuI82OmLxAA"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 212342,
+      "name": "hands - Full Spec Edition",
+      "url": "https://open.spotify.com/track/3WCKcEJrFuvBOzAevvZ12V"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212342,
+      "name": "hands - Full Spec Edition",
+      "url": "https://open.spotify.com/track/4swoDlKfBGqhzAWdoSHd7g"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c0f\u6797 \u79c0\u8061",
+          "url": "https://open.spotify.com/artist/0hUaNfEHmXkQQgxzSGkD3X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Hannya's Attack",
+      "url": "https://open.spotify.com/track/38RZDYEJLHsnrSlcYmwuvb"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530 \u7d17\u6804\u5b50<\u4e0a\u5742 \u3059\u307f\u308c>",
+          "url": "https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 242453,
+      "name": "harukaze - Full Spec Edition",
+      "url": "https://open.spotify.com/track/0UdESiFm3bzaiShAT88Nd1"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku 7 karaoke new song collection(Ryu ga gotoku 7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/003xjLhNJzHIsaxFT1jXPV"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 241600,
+      "name": "harukaze - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1iskvKJFrryDAlOmtk54OI"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f7 \u30ab\u30e9\u30aa\u30b1\u65b0\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241600,
+      "name": "harukaze - Full Spec Edition",
+      "url": "https://open.spotify.com/track/3EavbmJ3T0oDziNqwrWImj"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "harukaze - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 248133,
+      "name": "In The Name Of",
+      "url": "https://open.spotify.com/track/4HN9ojfqPcGhgoPf3tDEYo"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f7 \u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537 Original Soundtrack",
+        "url": "https://open.spotify.com/album/18UMqkCfW8jvNIjVcntBZW"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
+      "duration_ms": 248133,
+      "name": "In The Name Of",
+      "url": "https://open.spotify.com/track/6OPMim0rgtwyyorkCxsyY1"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "Steve J. Conte",
+          "url": "https://open.spotify.com/artist/2HCgF1ptXijYbr3gURtsim"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "I\u2019m Fading Away",
+      "url": "https://open.spotify.com/track/6N1imaUHeYFar4zMZM2hNj"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231973,
+      "name": "JUDGEMENT-Shinpan- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/3Jore2oSmdOgTOLTG0Bozo"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
+        "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231973,
+      "name": "JUDGEMENT-\u5be9\u5224- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/0fQv8Ok7Zp0MRFD2kvKvHA"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231973,
+      "name": "JUDGEMENT-\u5be9\u5224- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/2wf2iF6yS4sYSQqJblt2O9"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5009\u65b0\u516b(\u5c0f\u5c71\u529b\u4e5f)",
+          "url": "https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238352,
+      "name": "Kokyo ni nishiki we kazarubeshi - Full Spec Edition",
+      "url": "https://open.spotify.com/track/6P4nomyilY7gePxdc8LSuT"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
+      },
+      "artists": [
+        {
+          "name": "\u6fa4\u6751 \u9065(\u91d8\u5bae\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3"
+        },
+        {
+          "name": "\u6fa4\u6751 \u9065",
+          "url": "https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310552,
+      "name": "KONNAN\u3058\u3083\u306a\u3044\u3063!",
+      "url": "https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0"
+    },
+    {
+      "album": {
+        "name": "Ketsunopolis5",
+        "url": "https://open.spotify.com/album/4ilbi6RzOeNicKIYbI00kJ"
+      },
+      "artists": [
+        {
+          "name": "Ketsumeishi",
+          "url": "https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366613,
+      "name": "life is beautiful",
+      "url": "https://open.spotify.com/track/17c8p1kMZpogd4vhmrmrcC"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
+      },
+      "artists": [
+        {
+          "name": "T-SET",
+          "url": "https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0"
+        },
+        {
+          "name": "\u767d\u77f3\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl"
+        },
+        {
+          "name": "\u91ce\u4e2d\u85cd",
+          "url": "https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214045,
+      "name": "loneliness loop",
+      "url": "https://open.spotify.com/track/7a688ehMsOesi6RR6lNVQm"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270337,
+      "name": "MachineGun Kiss - Full Spec Edition",
+      "url": "https://open.spotify.com/track/4EwzzGCJncxHcOLwyppWTz"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270337,
+      "name": "MachineGun Kiss - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5a6SBFado9c4MmKQlXnOR2"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3044(\u30ad\u30e3\u30d0\u5b22)",
+          "url": "https://open.spotify.com/artist/4fEkryoARm02INZe34De3q"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 282186,
+      "name": "Moment de la Petite Sirene -\u5239\u90a3\u306e\u4eba\u9b5a\u59eb- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/09kXFMLhz3AAb1lYfBweU0"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3044(\u30ad\u30e3\u30d0\u5b22)",
+          "url": "https://open.spotify.com/artist/4fEkryoARm02INZe34De3q"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282186,
+      "name": "Moment de la Petite Sirene -\u5239\u90a3\u306e\u4eba\u9b5a\u59eb- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1qfQpyJ6rPnYsWBG1R3LRj"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88186,
+      "name": "Nouveau Riche",
+      "url": "https://open.spotify.com/track/7hgz5zFXQj0ukl3QUXABR1"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "Obedience",
+      "url": "https://open.spotify.com/track/0GrAxKSr7Bz0CrZyLwbYTb"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
+      },
+      "artists": [
+        {
+          "name": "\u82b1(\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/1A2yBiM3rc5VjokjfM06f4"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325533,
+      "name": "rain drops - Full Spec Edition",
+      "url": "https://open.spotify.com/track/22tEijyxz920RizPo8pMN2"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
+      },
+      "artists": [
+        {
+          "name": "\u82b1(\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/1A2yBiM3rc5VjokjfM06f4"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 325533,
+      "name": "rain drops - Full Spec Edition",
+      "url": "https://open.spotify.com/track/4l80XWJjaDUF2PryKZwucQ"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume1)",
+        "url": "https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 176540,
+      "name": "Receive and Bite You",
+      "url": "https://open.spotify.com/track/5V0nm46PQuRbl65hPX0aPg"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume1",
+        "url": "https://open.spotify.com/album/2LnwaZg33YpAkarvHCZTgl"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176540,
+      "name": "Receive and Bite You",
+      "url": "https://open.spotify.com/track/7euja7SWXt7NvamSiEyEWw"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0KsRvbwK7YVhTn8GYPXaAx"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5e84\u53f8 \u82f1\u5fb3",
+          "url": "https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 202846,
+      "name": "Receive You The Archetype",
+      "url": "https://open.spotify.com/track/4jHGBmn0GEwLF0KOrMQrXI"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u6c34\u91ce \u5065\u6cbb",
+          "url": "https://open.spotify.com/artist/5f9u63A1rfNgf5BBsnISqW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133053,
+      "name": "Reception at Coliseum",
+      "url": "https://open.spotify.com/track/3deWyw0vJNROgjP0KomsIN"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ad(\u6749\u5e73\u771f\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333615,
+      "name": "ring - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1n6eakU3mozez5M2F7HY1w"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ad(\u6749\u5e73\u771f\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 333615,
+      "name": "ring - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5ThjRHANUTYSy1aOJmqv5j"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u9752\u6728\u5343\u7d18",
+          "url": "https://open.spotify.com/artist/5cE3xgShUof2jaIatnTjlW"
+        },
+        {
+          "name": "\u304b\u3050\u3084",
+          "url": "https://open.spotify.com/artist/6AmKPBtO59mKLbf7vejKyz"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284390,
+      "name": "Rouge of Love",
+      "url": "https://open.spotify.com/track/4KzwEBfoXQ3TgUCpVORmgg"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308426,
+      "name": "SAYONARA Silent Night - Full Spec Edition",
+      "url": "https://open.spotify.com/track/12IUwXqHngfkifbdpkLavs"
+    },
+    {
+      "album": {
+        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390443,
+      "name": "Shiawase-nara-iiya - Full Spec Edition",
+      "url": "https://open.spotify.com/track/795netq7zSVvayTiDkbePw"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "SHIN\uff65I\uff65CHI\uff65ZU\uff65ZAMURAI - Full Spec Edition",
+      "url": "https://open.spotify.com/track/65bYGJ2GyyxqOynZlgL182"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107658,
+      "name": "summer memories",
+      "url": "https://open.spotify.com/track/3Ws4ohNQGBrVTHs2LHDztM"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume2",
+        "url": "https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107658,
+      "name": "summer memories",
+      "url": "https://open.spotify.com/track/3uIUMX4CdDCms4RtJ3Jx1D"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211385,
+      "name": "Today is a diamond - Full Spec Edition",
+      "url": "https://open.spotify.com/track/140e5u8qAM2IzhCyPqHfNG"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 279485,
+      "name": "TONIGHT-restart from this night- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1zjEnUbUuq7Kt1YzjQjZr4"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 279485,
+      "name": "TONIGHT-restart from this night- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/636lfobOQapmljr4NOgDIK"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279485,
+      "name": "TONIGHT-restart from this night- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/4Wzt6YCrth01FtTX24LWx0"
+    },
+    {
+      "album": {
+        "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 279485,
+      "name": "TONIGHT-restart from this night- - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7bdRmM99BqfRGNo4NwSLCE"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140573,
+      "name": "Two Faced Castle",
+      "url": "https://open.spotify.com/track/6GHmxVpI3yHDyuFqHc01NB"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5 \u4e00\u756a<\u4e2d\u8c37 \u4e00\u535a>",
+          "url": "https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "YUME MITA SUGATA E - Full Spec Edition",
+      "url": "https://open.spotify.com/track/0TMIymda8Ll0oNJSs4MmaR"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5 \u4e00\u756a<\u4e2d\u8c37 \u4e00\u535a>",
+          "url": "https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 225493,
+      "name": "YUME MITA SUGATA E - Full Spec Edition",
+      "url": "https://open.spotify.com/track/6HlDgEYFIdGVMKvDktLLJu"
+    },
+    {
+      "album": {
+        "name": "Ryu ga gotoku 7 karaoke new song collection(Ryu ga gotoku 7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/003xjLhNJzHIsaxFT1jXPV"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u4e00\u756a(\u4e2d\u8c37\u4e00\u535a)",
+          "url": "https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 224036,
+      "name": "Yume mita sugata e - Full Spec Edition",
+      "url": "https://open.spotify.com/track/2qp10byn6lBx3dSlRY4qQE"
+    },
+    {
+      "album": {
+        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
+        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        },
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267020,
+      "name": "Zetsubou-cho Pride - Maji Spec Edition",
+      "url": "https://open.spotify.com/track/6qjNszXxA6chVxq8ARWBCk"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
+        "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ad(\u6749\u5e73\u771f\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225077,
+      "name": "\u00d73\u30b7\u30e3\u30a4\u30f3 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1xt1FjDzNrTIGHTNwnQ4QB"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
+      },
+      "artists": [
+        {
+          "name": "\u30e6\u30ad(\u6749\u5e73\u771f\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225077,
+      "name": "\u00d73\u30b7\u30e3\u30a4\u30f3 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/28BWdl5BJy5Vyqp27UZY87"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291266,
+      "name": "\u3070\u304b\u307f\u305f\u3044 - Taxi Driver Edition",
+      "url": "https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f OF THE END \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/3ekg0kdMqduIysdGxDA4DL"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 210591,
+      "name": "\u308f\u3059\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/30FuMk37tWuBQ7BNKpR8pO"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
+      },
+      "artists": [
+        {
+          "name": "T-SET",
+          "url": "https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0"
+        },
+        {
+          "name": "\u767d\u77f3\u6dbc\u5b50",
+          "url": "https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl"
+        },
+        {
+          "name": "\u91ce\u4e2d\u85cd",
+          "url": "https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 267786,
+      "name": "\u30ad\u30df\u30cf\u30a4\u30eb\u30ab\u30e9",
+      "url": "https://open.spotify.com/track/2OPU1hw8yQoWAtTVTjrzNv"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
+      },
+      "artists": [
+        {
+          "name": "\u6fa4\u6751 \u9065(\u91d8\u5bae\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3"
+        },
+        {
+          "name": "\u6fa4\u6751 \u9065",
+          "url": "https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267832,
+      "name": "\u30ad\u30df\u30cf\u30a4\u30eb\u30ab\u30e9",
+      "url": "https://open.spotify.com/track/335BXqZ9dwAQZaNfHHsxL4"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146255,
+      "name": "\u30b5\u30bf\u30c7\u30fc\u30ca\u30a4\u30c8\u2606\u30e9\u30f4\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/0qmtwmjJIpHZyCSItymVqr"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume2",
+        "url": "https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146255,
+      "name": "\u30b5\u30bf\u30c7\u30fc\u30ca\u30a4\u30c8\u2606\u30e9\u30f4\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1j74Ne4RFw5MnijmWGULAn"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP"
+      },
+      "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296533,
+      "name": "\u30d0\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W"
+    },
+    {
+      "album": {
+        "name": "\u30b1\u30c4\u30ce\u30dd\u30ea\u30b95",
+        "url": "https://open.spotify.com/album/0icQ1sy5NbKWwOI4ItAt6w"
+      },
+      "artists": [
+        {
+          "name": "Ketsumeishi",
+          "url": "https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 366613,
+      "name": "\u30e9\u30a4\u30d5\u30a4\u30ba\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/7tjzUhIBqcIhsmLRL4y94p"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u756a\u6b4c",
+        "url": "https://open.spotify.com/album/2H98HIfvUyuGMBJsB0OAVg"
+      },
+      "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        },
+        {
+          "name": "Yasutaka Nakata",
+          "url": "https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301906,
+      "name": "\u4e00\u756a\u6b4c",
+      "url": "https://open.spotify.com/track/3KpKnheFsY52KFOSsLAk3C"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume2",
+        "url": "https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127373,
+      "name": "\u4e59\u5973\u8272my life",
+      "url": "https://open.spotify.com/track/1VtZLN1KfgBPF807Y6FJCl"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127373,
+      "name": "\u4e59\u5973\u8272my life",
+      "url": "https://open.spotify.com/track/3BMaKx6wNyIxMzJicTGbG8"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
+        "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u4f73",
+          "url": "https://open.spotify.com/artist/0EbN9AvLinWeyEFXHLcv6y"
+        },
+        {
+          "name": "\u5f69\u4e5f\u9999",
+          "url": "https://open.spotify.com/artist/23oYiC3mc5S0FCBTDeq1BY"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275251,
+      "name": "\u5239\u90a3\u306e\u4eba\u9b5a\u59eb\uff5eHeart break mermaid\uff5e - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f7 \u30ab\u30e9\u30aa\u30b1\u65b0\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u4e00\u756a(\u4e2d\u8c37\u4e00\u535a)",
+          "url": "https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224036,
+      "name": "\u5922\u898b\u305f\u59ff\u3078 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/0iAuMGZXdibcXPMbTgDhfj"
+    },
+    {
+      "album": {
+        "name": "\u771f\u5cf6\u543e\u6717 \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 390443,
+      "name": "\u5e78\u305b\u306a\u3089\u3044\u3044\u3084 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7cb0nlO69Cf4qNudDKXhGZ"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f7 \u30ab\u30e9\u30aa\u30b1\u65b0\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u4e00\u756a(\u4e2d\u8c37\u4e00\u535a)",
+          "url": "https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265945,
+      "name": "\u60aa\u9b54\u306e\u5730\u7344\u934b - Full Spec Edition",
+      "url": "https://open.spotify.com/track/4hv3C2dBdZ2mGBMwTDU34r"
+    },
+    {
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2xjU9Hgfo1BUrBZwg7ddt4"
+      },
+      "artists": [
+        {
+          "name": "Eikichi Yazawa",
+          "url": "https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 277493,
+      "name": "\u60f3\u3044\u304c\u3042\u3075\u308c\u305f\u3089",
+      "url": "https://open.spotify.com/track/637VpdPjdkmSNyNDcmMiVA"
+    },
+    {
+      "album": {
+        "name": "YES (50th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/02MlLY7GeHVDXCSXyjUvWS"
+      },
+      "artists": [
+        {
+          "name": "Eikichi Yazawa",
+          "url": "https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277520,
+      "name": "\u60f3\u3044\u304c\u3042\u3075\u308c\u305f\u3089 - Remastered 2022",
+      "url": "https://open.spotify.com/track/4ZdHdVHDpbZcXKEHoBwQge"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
+      },
+      "artists": [
+        {
+          "name": "\u9f4b\u85e4 \u4e00(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0JEtUo0kVK4epnMOfZVNh0"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "\u610f\u5730\u685c - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1IFmX1oMmlI0Mru3OjozNE"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 232188,
+      "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/28LKuw2CNTZ6y1xI6NDyhf"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 232188,
+      "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/6izSFKc1KYwqzeCW5ICsUk"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume2",
+        "url": "https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124905,
+      "name": "\u6307\u306e\u884c\u65b9",
+      "url": "https://open.spotify.com/track/0G3Dr0z1hXzshZ6uzOgd4j"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124905,
+      "name": "\u6307\u306e\u884c\u65b9",
+      "url": "https://open.spotify.com/track/3g80KGbeo6QCuzKEGLAkPW"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5009\u65b0\u516b(\u5c0f\u5c71\u529b\u4e5f)",
+          "url": "https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238352,
+      "name": "\u6545\u90f7\u306b\u9326\u3092\u98fe\u308b\u3079\u3057 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/56OY1A6LnXXwzKwsHTwBgw"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5009\u65b0\u516b(\u5c0f\u5c71\u529b\u4e5f)",
+          "url": "https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238352,
+      "name": "\u6545\u90f7\u306b\u9326\u3092\u98fe\u308b\u3079\u3057 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl"
+    },
+    {
+      "album": {
+        "name": "SUBWAY EXPRESS 2",
+        "url": "https://open.spotify.com/album/2WaM3JMPn0rTsrL3BMjS3j"
+      },
+      "artists": [
+        {
+          "name": "Eikichi Yazawa",
+          "url": "https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321840,
+      "name": "\u6642\u9593\u3088\u6b62\u307e\u308c",
+      "url": "https://open.spotify.com/track/09TIAps17rTEFzqXEMR2dV"
+    },
+    {
+      "album": {
+        "name": "ALL TIME BEST ALBUM (50th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/73gs4Ii5hcuHKnVmJDaTfo"
+      },
+      "artists": [
+        {
+          "name": "Eikichi Yazawa",
+          "url": "https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 321426,
+      "name": "\u6642\u9593\u3088\u6b62\u307e\u308c (\u30bb\u30eb\u30d5\u30ab\u30d0\u30fc) - Remastered 2022",
+      "url": "https://open.spotify.com/track/7uIy6xFDclXHTsrkJfgYhi"
+    },
+    {
+      "album": {
+        "name": "SUBWAY EXPRESS 2 (50th Anniversary Remastered)",
+        "url": "https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI"
+      },
+      "artists": [
+        {
+          "name": "Eikichi Yazawa",
+          "url": "https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321706,
+      "name": "\u6642\u9593\u3088\u6b62\u307e\u308c (\u30bb\u30eb\u30d5\u30ab\u30d0\u30fc) - Remastered 2022",
+      "url": "https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd"
+    },
+    {
+      "album": {
+        "name": "\u6850\u751f\u4e00\u99ac \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211385,
+      "name": "\u672c\u65e5\u306f\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1993DrL8RR2XNsgwBBACTb"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/6JliEwRyg4RmWdndGIqQMi"
+      },
+      "artists": [
+        {
+          "name": "Kazuya Yoshii",
+          "url": "https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 279586,
+      "name": "\u7169\u60a9\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6qSwDufLenGnRbSagSon0Q"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Volume2",
+        "url": "https://open.spotify.com/album/4UWUCgD1bkeLqYTwnnzYlb"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122529,
+      "name": "\u795e\u5ba4\u7d14\u604b\u6b4c ~\u6850\u751f&\u652f\u9759\u52a0~",
+      "url": "https://open.spotify.com/track/5FiMCLLAuaSnFPhiABx3ZX"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
+        "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122529,
+      "name": "\u795e\u5ba4\u7d14\u604b\u6b4c \uff5e\u6850\u751f&\u652f\u9759\u52a0\uff5e",
+      "url": "https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne"
+    },
+    {
+      "album": {
+        "name": "\u6e58\u5357\u4e43\u98a8 \u301cCOME AGAIN\u301c",
+        "url": "https://open.spotify.com/album/0rfIbXcXQYQDslQw1cvNPh"
+      },
+      "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377226,
+      "name": "\u7d05",
+      "url": "https://open.spotify.com/track/7Kyh4musIxUJhuhOVgR60f"
+    },
+    {
+      "album": {
+        "name": "\u771f\u5cf6\u543e\u6717 \u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/21kms4Raw1teQungved9p7"
+        },
+        {
+          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
+          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267020,
+      "name": "\u7d76\u671b\u9802\u30d7\u30e9\u30a4\u30c9 - Maji Spec Edition",
+      "url": "https://open.spotify.com/track/41t6dcmWLqe45WxBo2TYQ4"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
+      },
+      "artists": [
+        {
+          "name": "\u5e7e\u677e(\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/6taXyAWJu1vUbUisFat4ms"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242576,
+      "name": "\u963f\u4fee\u7f85\u5c0f\u753a - Full Spec Edition",
+      "url": "https://open.spotify.com/track/035uuOzl46CUtesB5WKvXg"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
+        "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
+      },
+      "artists": [
+        {
+          "name": "\u5e7e\u677e(\u5e73\u91ce\u7dbe)",
+          "url": "https://open.spotify.com/artist/6taXyAWJu1vUbUisFat4ms"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242576,
+      "name": "\u963f\u4fee\u7f85\u5c0f\u753a - Full Spec Edition",
+      "url": "https://open.spotify.com/track/2hBEJASlKm3if7l2MmINy3"
+    },
+    {
+      "album": {
+        "name": "GALAXY",
+        "url": "https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j"
+      },
+      "artists": [
+        {
+          "name": "Crazy Ken Band",
+          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "\u9ed2\u3044\u50b7\u8de1\u306e\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/2vETONR6Cg38Cutr15cm61"
+    },
+    {
+      "album": {
+        "name": "GALAXY",
+        "url": "https://open.spotify.com/album/4cBKcZv5YHe92f1X60BrQh"
+      },
+      "artists": [
+        {
+          "name": "Crazy Ken Band",
+          "url": "https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240493,
+      "name": "\u9ed2\u3044\u50b7\u8de1\u306e\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/4vIAmiJitmLTgRsf5B0KPn"
+    },
+    {
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237733,
+      "name": "\uff21",
+      "url": "https://open.spotify.com/track/77shkefXyUkPU45nis6XkK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX40xbLWvaxZD"
 }

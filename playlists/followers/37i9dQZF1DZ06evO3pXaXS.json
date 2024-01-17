@@ -1,471 +1,953 @@
 {
-  "2022-09-18": 265925,
-  "2022-09-19": 266078,
-  "2022-09-20": 266210,
-  "2022-09-21": 266336,
-  "2022-09-22": 266477,
-  "2022-09-23": 266609,
-  "2022-09-24": 266609,
-  "2022-09-25": 266937,
-  "2022-09-26": 267101,
-  "2022-09-27": 267248,
-  "2022-09-28": 267417,
-  "2022-09-29": 267553,
-  "2022-09-30": 267704,
-  "2022-10-01": 267863,
-  "2022-10-02": 268044,
-  "2022-10-03": 268243,
-  "2022-10-04": 268379,
-  "2022-10-05": 268503,
-  "2022-10-06": 268598,
-  "2022-10-07": 268716,
-  "2022-10-08": 268847,
-  "2022-10-09": 269113,
-  "2022-10-10": 269143,
-  "2022-10-11": 269255,
-  "2022-10-12": 269377,
-  "2022-10-13": 269517,
-  "2022-10-14": 269656,
-  "2022-10-15": 269801,
-  "2022-10-16": 269937,
-  "2022-10-17": 270085,
-  "2022-10-18": 270205,
-  "2022-10-19": 270364,
-  "2022-10-20": 270491,
-  "2022-10-21": 270653,
-  "2022-10-22": 270804,
-  "2022-10-23": 270956,
-  "2022-10-24": 271137,
-  "2022-10-25": 271252,
-  "2022-10-26": 271396,
-  "2022-10-27": 271512,
-  "2022-10-28": 271645,
-  "2022-10-29": 271797,
-  "2022-10-30": 271935,
-  "2022-10-31": 272060,
-  "2022-11-01": 272177,
-  "2022-11-02": 272300,
-  "2022-11-03": 272447,
-  "2022-11-04": 272606,
-  "2022-11-05": 272739,
-  "2022-11-06": 272895,
-  "2022-11-07": 273027,
-  "2022-11-08": 273144,
-  "2022-11-09": 273275,
-  "2022-11-10": 273374,
-  "2022-11-11": 273494,
-  "2022-11-12": 273645,
-  "2022-11-13": 273754,
-  "2022-11-14": 273899,
-  "2022-11-15": 274011,
-  "2022-11-16": 274123,
-  "2022-11-17": 274249,
-  "2022-11-18": 274298,
-  "2022-11-19": 274349,
-  "2022-11-20": 274478,
-  "2022-11-21": 274644,
-  "2022-11-22": 274768,
-  "2022-11-23": 274878,
-  "2022-11-24": 275085,
-  "2022-11-25": 275274,
-  "2022-11-26": 275420,
-  "2022-11-27": 275535,
-  "2022-11-28": 275666,
-  "2022-11-29": 275747,
-  "2022-11-30": 275881,
-  "2022-12-01": 276040,
-  "2022-12-02": 276138,
-  "2022-12-03": 276307,
-  "2022-12-04": 276481,
-  "2022-12-05": 276612,
-  "2022-12-06": 276726,
-  "2022-12-07": 276856,
-  "2022-12-08": 277009,
-  "2022-12-09": 277150,
-  "2022-12-10": 277281,
-  "2022-12-11": 277444,
-  "2022-12-12": 277620,
-  "2022-12-13": 277746,
-  "2022-12-14": 277856,
-  "2022-12-15": 278005,
-  "2022-12-16": 278114,
-  "2022-12-17": 278263,
-  "2022-12-18": 278441,
-  "2022-12-19": 278533,
-  "2022-12-20": 278802,
-  "2022-12-21": 278802,
-  "2022-12-22": 278955,
-  "2022-12-24": 279268,
-  "2022-12-25": 279429,
-  "2022-12-26": 279585,
-  "2022-12-27": 279731,
-  "2022-12-28": 279890,
-  "2022-12-29": 280070,
-  "2022-12-30": 280236,
-  "2022-12-31": 280419,
-  "2023-01-01": 280591,
-  "2023-01-02": 280756,
-  "2023-01-03": 280908,
-  "2023-01-04": 281059,
-  "2023-01-05": 281206,
-  "2023-01-06": 281402,
-  "2023-01-07": 281661,
-  "2023-01-08": 281722,
-  "2023-01-09": 281916,
-  "2023-01-10": 282095,
-  "2023-01-11": 282225,
-  "2023-01-12": 282389,
-  "2023-01-13": 282527,
-  "2023-01-14": 282806,
-  "2023-01-15": 282846,
-  "2023-01-16": 282998,
-  "2023-01-17": 283117,
-  "2023-01-18": 283275,
-  "2023-01-19": 283436,
-  "2023-01-20": 283586,
-  "2023-01-21": 283748,
-  "2023-01-22": 283927,
-  "2023-01-23": 284102,
-  "2023-01-24": 284264,
-  "2023-01-25": 284392,
-  "2023-01-26": 284573,
-  "2023-01-27": 284728,
-  "2023-01-28": 284907,
-  "2023-01-29": 285130,
-  "2023-01-30": 285313,
-  "2023-01-31": 285313,
-  "2023-02-01": 285596,
-  "2023-02-02": 285718,
-  "2023-02-03": 285860,
-  "2023-02-04": 286027,
-  "2023-02-05": 286221,
-  "2023-02-06": 286377,
-  "2023-02-07": 286516,
-  "2023-02-08": 286814,
-  "2023-02-09": 286814,
-  "2023-02-10": 286973,
-  "2023-02-11": 287118,
-  "2023-02-12": 287447,
-  "2023-02-13": 287583,
-  "2023-02-14": 287583,
-  "2023-02-15": 287665,
-  "2023-02-16": 287803,
-  "2023-02-17": 287950,
-  "2023-02-18": 288306,
-  "2023-02-19": 288333,
-  "2023-02-20": 288459,
-  "2023-02-21": 288634,
-  "2023-02-22": 288778,
-  "2023-02-23": 288901,
-  "2023-02-24": 289086,
-  "2023-02-25": 289291,
-  "2023-02-26": 289444,
-  "2023-02-27": 289785,
-  "2023-02-28": 289785,
-  "2023-03-01": 289933,
-  "2023-03-02": 290092,
-  "2023-03-03": 290284,
-  "2023-03-04": 290454,
-  "2023-03-05": 290825,
-  "2023-03-06": 290825,
-  "2023-03-07": 290950,
-  "2023-03-08": 291101,
-  "2023-03-09": 291237,
-  "2023-03-10": 291388,
-  "2023-03-11": 291541,
-  "2023-03-12": 291706,
-  "2023-03-13": 291848,
-  "2023-03-14": 291993,
-  "2023-03-15": 292112,
-  "2023-03-16": 292112,
-  "2023-03-17": 292112,
-  "2023-03-18": 292550,
-  "2023-03-19": 292550,
-  "2023-03-20": 292942,
-  "2023-03-21": 293080,
-  "2023-03-22": 293250,
-  "2023-03-23": 293421,
-  "2023-03-24": 293421,
-  "2023-03-25": 293721,
-  "2023-03-26": 293905,
-  "2023-03-27": 294066,
-  "2023-03-28": 294191,
-  "2023-03-29": 294366,
-  "2023-03-30": 294632,
-  "2023-03-31": 294632,
-  "2023-04-01": 294823,
-  "2023-04-02": 294986,
-  "2023-04-03": 295165,
-  "2023-04-04": 295316,
-  "2023-04-05": 295462,
-  "2023-04-06": 295620,
-  "2023-04-07": 295766,
-  "2023-04-09": 296129,
-  "2023-04-10": 296342,
-  "2023-04-11": 296640,
-  "2023-04-12": 296640,
-  "2023-04-13": 296794,
-  "2023-04-14": 296959,
-  "2023-04-15": 297111,
-  "2023-04-16": 297320,
-  "2023-04-17": 297529,
-  "2023-04-18": 297686,
-  "2023-04-19": 297845,
-  "2023-04-20": 297984,
-  "2023-04-21": 298137,
-  "2023-04-22": 298319,
-  "2023-04-23": 298508,
-  "2023-04-24": 298669,
-  "2023-04-25": 298819,
-  "2023-04-26": 298974,
-  "2023-04-27": 299146,
-  "2023-04-28": 299329,
-  "2023-04-29": 299493,
-  "2023-04-30": 299720,
-  "2023-05-01": 299883,
-  "2023-05-02": 300071,
-  "2023-05-03": 300237,
-  "2023-05-04": 300402,
-  "2023-05-05": 300555,
-  "2023-05-06": 300693,
-  "2023-05-07": 300869,
-  "2023-05-08": 301068,
-  "2023-05-09": 301194,
-  "2023-05-10": 301338,
-  "2023-05-11": 301476,
-  "2023-05-12": 301611,
-  "2023-05-13": 301800,
-  "2023-05-14": 301985,
-  "2023-05-15": 302141,
-  "2023-05-16": 302286,
-  "2023-05-17": 302412,
-  "2023-05-18": 302563,
-  "2023-05-19": 302766,
-  "2023-05-20": 303109,
-  "2023-05-21": 303109,
-  "2023-05-22": 303109,
-  "2023-05-23": 303391,
-  "2023-05-24": 303638,
-  "2023-05-25": 303669,
-  "2023-05-26": 303833,
-  "2023-05-27": 303983,
-  "2023-05-28": 304145,
-  "2023-05-29": 304145,
-  "2023-05-30": 304424,
-  "2023-05-31": 304574,
-  "2023-06-01": 304734,
-  "2023-06-02": 304886,
-  "2023-06-03": 305053,
-  "2023-06-04": 305201,
-  "2023-06-05": 305353,
-  "2023-06-06": 305468,
-  "2023-06-07": 305617,
-  "2023-06-08": 305733,
-  "2023-06-09": 305885,
-  "2023-06-10": 305984,
-  "2023-06-11": 306088,
-  "2023-06-12": 306194,
-  "2023-06-13": 306269,
-  "2023-06-14": 306352,
-  "2023-06-15": 306448,
-  "2023-06-16": 306557,
-  "2023-06-17": 306644,
-  "2023-06-18": 306761,
-  "2023-06-19": 306874,
-  "2023-06-20": 306983,
-  "2023-06-21": 307080,
-  "2023-06-22": 307188,
-  "2023-06-23": 307298,
-  "2023-06-24": 307406,
-  "2023-06-25": 307526,
-  "2023-06-26": 307633,
-  "2023-06-27": 307728,
-  "2023-06-28": 307837,
-  "2023-06-29": 307932,
-  "2023-06-30": 308012,
-  "2023-07-01": 308242,
-  "2023-07-02": 308242,
-  "2023-07-03": 308393,
-  "2023-07-04": 308468,
-  "2023-07-05": 308564,
-  "2023-07-06": 308754,
-  "2023-07-07": 308754,
-  "2023-07-08": 308754,
-  "2023-07-09": 308945,
-  "2023-07-10": 309056,
-  "2023-07-11": 309132,
-  "2023-07-12": 309232,
-  "2023-07-13": 309366,
-  "2023-07-14": 309470,
-  "2023-07-15": 309618,
-  "2023-07-16": 309788,
-  "2023-07-17": 309914,
-  "2023-07-18": 309997,
-  "2023-07-19": 310082,
-  "2023-07-20": 310082,
-  "2023-07-21": 310259,
-  "2023-07-22": 310376,
-  "2023-07-23": 310511,
-  "2023-07-24": 310624,
-  "2023-07-25": 310717,
-  "2023-07-26": 310814,
-  "2023-07-27": 310927,
-  "2023-07-28": 311047,
-  "2023-07-29": 311131,
-  "2023-07-30": 311131,
-  "2023-07-31": 311335,
-  "2023-08-01": 311422,
-  "2023-08-02": 311529,
-  "2023-08-03": 311623,
-  "2023-08-04": 311732,
-  "2023-08-05": 311841,
-  "2023-08-06": 312085,
-  "2023-08-07": 312085,
-  "2023-08-08": 312152,
-  "2023-08-09": 312239,
-  "2023-08-10": 312316,
-  "2023-08-11": 312424,
-  "2023-08-12": 312424,
-  "2023-08-13": 312424,
-  "2023-08-14": 312424,
-  "2023-08-15": 312424,
-  "2023-08-16": 312424,
-  "2023-08-17": 312424,
-  "2023-08-18": 312424,
-  "2023-08-19": 312424,
-  "2023-08-20": 313347,
-  "2023-08-21": 313347,
-  "2023-08-22": 313566,
-  "2023-08-23": 313566,
-  "2023-08-24": 313566,
-  "2023-08-25": 313566,
-  "2023-08-26": 313933,
-  "2023-08-27": 313933,
-  "2023-08-28": 314132,
-  "2023-08-29": 314132,
-  "2023-08-30": 314132,
-  "2023-08-31": 314402,
-  "2023-09-01": 314493,
-  "2023-09-02": 314493,
-  "2023-09-03": 314493,
-  "2023-09-04": 314493,
-  "2023-09-05": 314493,
-  "2023-09-06": 314493,
-  "2023-09-07": 314493,
-  "2023-09-08": 314493,
-  "2023-09-09": 314493,
-  "2023-09-10": 314493,
-  "2023-09-11": 314493,
-  "2023-09-12": 314493,
-  "2023-09-13": 314493,
-  "2023-09-14": 314493,
-  "2023-09-15": 314493,
-  "2023-09-16": 315876,
-  "2023-09-17": 315876,
-  "2023-09-18": 315876,
-  "2023-09-19": 316159,
-  "2023-09-20": 316159,
-  "2023-09-21": 316159,
-  "2023-09-22": 316375,
-  "2023-09-23": 316375,
-  "2023-09-24": 316375,
-  "2023-09-25": 316375,
-  "2023-09-26": 316732,
-  "2023-09-27": 316732,
-  "2023-09-28": 316732,
-  "2023-09-29": 316732,
-  "2023-09-30": 316732,
-  "2023-10-01": 316732,
-  "2023-10-02": 316732,
-  "2023-10-03": 316732,
-  "2023-10-04": 316732,
-  "2023-10-05": 316732,
-  "2023-10-06": 316732,
-  "2023-10-07": 316732,
-  "2023-10-08": 316732,
-  "2023-10-09": 316732,
-  "2023-10-10": 316732,
-  "2023-10-11": 316732,
-  "2023-10-12": 316732,
-  "2023-10-13": 316732,
-  "2023-10-14": 316732,
-  "2023-10-15": 316732,
-  "2023-10-16": 316732,
-  "2023-10-17": 316732,
-  "2023-10-18": 316732,
-  "2023-10-19": 316732,
-  "2023-10-20": 316732,
-  "2023-10-21": 316732,
-  "2023-10-22": 316732,
-  "2023-10-23": 316732,
-  "2023-10-24": 316732,
-  "2023-10-25": 316732,
-  "2023-10-26": 316732,
-  "2023-10-27": 316732,
-  "2023-10-28": 316732,
-  "2023-10-29": 316732,
-  "2023-10-30": 316732,
-  "2023-10-31": 316732,
-  "2023-11-01": 316732,
-  "2023-11-02": 316732,
-  "2023-11-03": 316732,
-  "2023-11-04": 316732,
-  "2023-11-05": 316732,
-  "2023-11-06": 316732,
-  "2023-11-07": 316732,
-  "2023-11-08": 316732,
-  "2023-11-09": 316732,
-  "2023-11-10": 316732,
-  "2023-11-11": 320607,
-  "2023-11-12": 320607,
-  "2023-11-13": 320607,
-  "2023-11-14": 320607,
-  "2023-11-15": 320607,
-  "2023-11-16": 320607,
-  "2023-11-17": 320607,
-  "2023-11-18": 320607,
-  "2023-11-19": 320607,
-  "2023-11-20": 320607,
-  "2023-11-21": 320607,
-  "2023-11-22": 320607,
-  "2023-11-23": 320607,
-  "2023-11-24": 320607,
-  "2023-11-25": 320607,
-  "2023-11-26": 320607,
-  "2023-11-27": 320607,
-  "2023-11-28": 320607,
-  "2023-11-29": 320607,
-  "2023-11-30": 320607,
-  "2023-12-01": 320607,
-  "2023-12-02": 320607,
-  "2023-12-03": 320607,
-  "2023-12-04": 320607,
-  "2023-12-05": 320607,
-  "2023-12-06": 320607,
-  "2023-12-07": 320607,
-  "2023-12-08": 320607,
-  "2023-12-09": 320607,
-  "2023-12-10": 320607,
-  "2023-12-11": 320607,
-  "2023-12-12": 320607,
-  "2023-12-13": 320607,
-  "2023-12-14": 323041,
-  "2023-12-15": 323095,
-  "2023-12-16": 323191,
-  "2023-12-17": 323260,
-  "2023-12-18": 323336,
-  "2023-12-19": 323404,
-  "2023-12-20": 323491,
-  "2023-12-21": 323559,
-  "2023-12-22": 323623,
-  "2023-12-23": 323728,
-  "2023-12-24": 323811,
-  "2023-12-25": 323886,
-  "2023-12-26": 323959,
-  "2023-12-27": 324039,
-  "2023-12-30": 324259,
-  "2023-12-31": 324333,
-  "2024-01-01": 324408,
-  "2024-01-02": 324440,
-  "2024-01-03": 324478
+  "2024-01-17": 325164,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is The Police. The essential tracks, all in one playlist.",
+  "name": "This Is The Police",
+  "tracks": [
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152453,
+      "name": "A Sermon",
+      "url": "https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 204000,
+      "name": "Be My Girl - Sally",
+      "url": "https://open.spotify.com/track/4cHObLf8gg0XIvi7AsUPuJ"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 173600,
+      "name": "Behind My Camel",
+      "url": "https://open.spotify.com/track/3ubCAVpBwpNiFpeOShjNTt"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255213,
+      "name": "Bring On The Night",
+      "url": "https://open.spotify.com/track/4EkNINvDLeGgIL4zYGsYPb"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390760,
+      "name": "Can't Stand Losing You/Reggatta De Blanc - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/7qXOUUDmgkYql3k9AJUeIw"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Canary In A Coalmine",
+      "url": "https://open.spotify.com/track/7A4rW6quroPut2I6OsCys9"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 193866,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/2zGmWtewQWYWMZMptybOMg"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "De Do Do Do, De Da Da Da",
+      "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Dead End Job",
+      "url": "https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 251960,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/4i3SC58kB65zfKo1oOW1q9"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357200,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/4cAWzXWGoRIezpTy9ZiDRg"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Driven To Tears",
+      "url": "https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373573,
+      "name": "Every Breath You Take - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/3ZPyWxGouBXvvSBqwNqCMC"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280946,
+      "name": "Every Little Thing She Does Is Magic - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/25Pifu9g726ZBSsBARVati"
+    },
+    {
+      "album": {
+        "name": "The Police",
+        "url": "https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123360,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290093,
+      "name": "Hole In My Life",
+      "url": "https://open.spotify.com/track/25McPIqh9oSdPSP36Gu7Jp"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Hungry For You",
+      "url": "https://open.spotify.com/track/6xK4wLYwSszCXsiPhOhG4I"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Alternate Sequence)",
+        "url": "https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "I Burn For You",
+      "url": "https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Invisible Sun",
+      "url": "https://open.spotify.com/track/5u8Dwz4h41DDOKfeFfexMR"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "It's Alright For You",
+      "url": "https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299040,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "Landlord",
+      "url": "https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138066,
+      "name": "Man In A Suitcase",
+      "url": "https://open.spotify.com/track/6C1ZUDfuIL0xHQeoGSdIMP"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290280,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300106,
+      "name": "Message In A Bottle - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/4rMfdcnfsWNPlIZCfEQive"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 276133,
+      "name": "Murder By Numbers",
+      "url": "https://open.spotify.com/track/2CFafx1QnpbK4CQVOhzxkT"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171973,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 176973,
+      "name": "On Any Other Day",
+      "url": "https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 234800,
+      "name": "Peanuts",
+      "url": "https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Reggatta De Blanc",
+      "url": "https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Secret Journey",
+      "url": "https://open.spotify.com/track/1klFQ3R5AN86f0moMUdSYS"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310306,
+      "name": "Shambelle",
+      "url": "https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289586,
+      "name": "So Lonely",
+      "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Spirits In The Material World",
+      "url": "https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Synchronicity I",
+      "url": "https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Synchronicity II",
+      "url": "https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259493,
+      "name": "Tea In The Sahara",
+      "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265093,
+      "name": "The Bed's Too Big Without You",
+      "url": "https://open.spotify.com/track/3PfBnnkOf0LbCw2jixUCQG"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Truth Hits Everybody",
+      "url": "https://open.spotify.com/track/4pLhVO0JuMiFDSJYDiGP7S"
+    },
+    {
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186160,
+      "name": "Visions Of The Night",
+      "url": "https://open.spotify.com/track/33Wh8esQvnlw5Zex1xcC4z"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
+    },
+    {
+      "album": {
+        "name": "Certifiable (Live in Buenos Aires)",
+        "url": "https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424120,
+      "name": "Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around - Live From River Plate Stadium, Buenos Aires",
+      "url": "https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ"
+    },
+    {
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300826,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ"
+    },
+    {
+      "album": {
+        "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        },
+        {
+          "name": "Adam Driver",
+          "url": "https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M"
+        },
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82613,
+      "name": "We Are the Police",
+      "url": "https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h"
+    },
+    {
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "When The World Is Running Down, You Make The Best Of What's Still Around",
+      "url": "https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313706,
+      "name": "Wrapped Around Your Finger - Remastered 2003",
+      "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS"
 }

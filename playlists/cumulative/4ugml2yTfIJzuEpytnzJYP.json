@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 315428,
       "name": "Arrive",
       "url": "https://open.spotify.com/track/47jS8CPFO50j9ilBmHqFWF"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 228253,
       "name": "Build it Back",
       "url": "https://open.spotify.com/track/3l8yWtNMw3BNijsOboPJnz"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 184120,
       "name": "Empires",
       "url": "https://open.spotify.com/track/6hoTJCsc1Q3CPnU7PR04Vp"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 198284,
       "name": "Head Rearranger",
       "url": "https://open.spotify.com/track/7HSnE5WcCrebbcZWTnTiPg"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 281146,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 222847,
       "name": "Manz",
       "url": "https://open.spotify.com/track/68EuLWerJTej8UmTonNieW"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 315428,
       "name": "Music That You Like",
       "url": "https://open.spotify.com/track/6EJAscqoPHzcvaJ5HQ8wQU"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 261333,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/4cIInqaA7CPOWc9kcVU02m"
@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 253750,
       "name": "Shake Junt",
       "url": "https://open.spotify.com/track/294cHNrHJPIfb5P6bmrgVf"
@@ -4235,6 +4235,28 @@
     },
     {
       "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/7MZGYgP0meMpaYInGkxgI4"
+      },
+      "artists": [
+        {
+          "name": "Nahlith",
+          "url": "https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ"
+        },
+        {
+          "name": "Mah Ze Tar",
+          "url": "https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233342,
+      "name": "Transcendence",
+      "url": "https://open.spotify.com/track/1XzOk2EiunSE9E2OKvWyq5"
+    },
+    {
+      "album": {
         "name": "Tribal Swagger",
         "url": "https://open.spotify.com/album/717tX0wFwpCy6X7PnAmkJ6"
       },
@@ -4300,7 +4322,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 233142,
       "name": "Ultraterrestrial - Original Mix",
       "url": "https://open.spotify.com/track/5EKgM39TMRz8n9llPkE5q2"
@@ -4388,7 +4410,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 195422,
       "name": "Underground - Abstrakt Sonance Remix",
       "url": "https://open.spotify.com/track/3mODHK1VtKNJOCZ6F7TAY7"
@@ -4762,7 +4784,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 210933,
       "name": "Worship",
       "url": "https://open.spotify.com/track/4CJcxFMisn0Ae4rKdGcMH9"

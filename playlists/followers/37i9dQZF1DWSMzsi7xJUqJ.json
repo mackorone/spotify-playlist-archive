@@ -1,732 +1,1011 @@
 {
-  "2021-12-28": 100624,
-  "2021-12-29": 100646,
-  "2021-12-30": 100674,
-  "2021-12-31": 100706,
-  "2022-01-01": 100757,
-  "2022-01-02": 100771,
-  "2022-01-03": 100802,
-  "2022-01-04": 100830,
-  "2022-01-05": 100844,
-  "2022-01-06": 100875,
-  "2022-01-07": 100910,
-  "2022-01-08": 100963,
-  "2022-01-09": 100964,
-  "2022-01-10": 101003,
-  "2022-01-11": 101002,
-  "2022-01-12": 101002,
-  "2022-01-13": 101002,
-  "2022-01-14": 101002,
-  "2022-01-15": 101002,
-  "2022-01-16": 101002,
-  "2022-01-17": 101002,
-  "2022-01-18": 101002,
-  "2022-01-19": 101002,
-  "2022-01-20": 101002,
-  "2022-01-21": 101002,
-  "2022-01-22": 101002,
-  "2022-01-23": 101002,
-  "2022-01-24": 101002,
-  "2022-01-25": 101002,
-  "2022-01-26": 101002,
-  "2022-01-27": 101002,
-  "2022-01-28": 101002,
-  "2022-01-29": 101002,
-  "2022-01-30": 101002,
-  "2022-01-31": 101002,
-  "2022-02-01": 101002,
-  "2022-02-02": 101002,
-  "2022-02-03": 101002,
-  "2022-02-04": 101002,
-  "2022-02-05": 101002,
-  "2022-02-06": 101002,
-  "2022-02-07": 101002,
-  "2022-02-08": 101002,
-  "2022-02-09": 101002,
-  "2022-02-10": 101002,
-  "2022-02-11": 101002,
-  "2022-02-12": 101002,
-  "2022-02-13": 101002,
-  "2022-02-14": 101002,
-  "2022-02-15": 101002,
-  "2022-02-16": 101002,
-  "2022-02-17": 101002,
-  "2022-02-18": 101002,
-  "2022-02-19": 101002,
-  "2022-02-20": 101002,
-  "2022-02-21": 101002,
-  "2022-02-22": 101002,
-  "2022-02-23": 101002,
-  "2022-02-24": 101002,
-  "2022-02-25": 101002,
-  "2022-02-26": 101002,
-  "2022-02-27": 101002,
-  "2022-02-28": 101002,
-  "2022-03-01": 101002,
-  "2022-03-02": 101002,
-  "2022-03-03": 101002,
-  "2022-03-04": 101002,
-  "2022-03-05": 101002,
-  "2022-03-06": 101002,
-  "2022-03-07": 101002,
-  "2022-03-08": 101002,
-  "2022-03-09": 101002,
-  "2022-03-10": 101002,
-  "2022-03-11": 101002,
-  "2022-03-12": 101002,
-  "2022-03-13": 101002,
-  "2022-03-14": 101002,
-  "2022-03-15": 101002,
-  "2022-03-16": 101002,
-  "2022-03-17": 101002,
-  "2022-03-18": 101002,
-  "2022-03-19": 101002,
-  "2022-03-20": 101002,
-  "2022-03-21": 101002,
-  "2022-03-22": 101002,
-  "2022-03-23": 101002,
-  "2022-03-24": 101002,
-  "2022-03-25": 101002,
-  "2022-03-26": 101002,
-  "2022-03-27": 101002,
-  "2022-03-28": 101002,
-  "2022-03-30": 101002,
-  "2022-03-31": 101002,
-  "2022-04-01": 101002,
-  "2022-04-02": 101002,
-  "2022-04-03": 101002,
-  "2022-04-04": 101002,
-  "2022-04-05": 101002,
-  "2022-04-06": 101002,
-  "2022-04-07": 101002,
-  "2022-04-08": 101002,
-  "2022-04-09": 101002,
-  "2022-04-10": 101002,
-  "2022-04-11": 101002,
-  "2022-04-12": 101002,
-  "2022-04-13": 101002,
-  "2022-04-14": 101002,
-  "2022-04-15": 101002,
-  "2022-04-16": 101002,
-  "2022-04-17": 101002,
-  "2022-04-18": 101002,
-  "2022-04-19": 101002,
-  "2022-04-20": 101002,
-  "2022-04-21": 101002,
-  "2022-04-22": 101002,
-  "2022-04-23": 101002,
-  "2022-04-24": 101002,
-  "2022-04-25": 101002,
-  "2022-04-26": 101002,
-  "2022-04-27": 101002,
-  "2022-04-28": 101002,
-  "2022-04-29": 101002,
-  "2022-04-30": 101002,
-  "2022-05-01": 101002,
-  "2022-05-02": 101002,
-  "2022-05-03": 101002,
-  "2022-05-04": 101002,
-  "2022-05-05": 101002,
-  "2022-05-06": 101002,
-  "2022-05-07": 101002,
-  "2022-05-08": 101002,
-  "2022-05-09": 101002,
-  "2022-05-10": 101002,
-  "2022-05-11": 101002,
-  "2022-05-12": 101002,
-  "2022-05-13": 101002,
-  "2022-05-14": 101002,
-  "2022-05-15": 101002,
-  "2022-05-16": 101002,
-  "2022-05-17": 101002,
-  "2022-05-18": 101002,
-  "2022-05-19": 101002,
-  "2022-05-20": 101002,
-  "2022-05-21": 101002,
-  "2022-05-22": 101002,
-  "2022-05-23": 101002,
-  "2022-05-24": 101002,
-  "2022-05-25": 101002,
-  "2022-05-26": 101002,
-  "2022-05-27": 101002,
-  "2022-05-28": 101002,
-  "2022-05-29": 101002,
-  "2022-05-30": 101002,
-  "2022-05-31": 101002,
-  "2022-06-01": 101002,
-  "2022-06-02": 101002,
-  "2022-06-03": 101002,
-  "2022-06-04": 101002,
-  "2022-06-05": 101002,
-  "2022-06-06": 101002,
-  "2022-06-07": 101002,
-  "2022-06-08": 101002,
-  "2022-06-09": 101002,
-  "2022-06-10": 101002,
-  "2022-06-11": 101002,
-  "2022-06-12": 101002,
-  "2022-06-13": 101002,
-  "2022-06-14": 101002,
-  "2022-06-15": 101002,
-  "2022-06-16": 101002,
-  "2022-06-17": 101002,
-  "2022-06-18": 101002,
-  "2022-06-19": 101002,
-  "2022-06-20": 101002,
-  "2022-06-21": 101002,
-  "2022-06-22": 101002,
-  "2022-06-23": 101002,
-  "2022-06-24": 101002,
-  "2022-06-25": 101002,
-  "2022-06-26": 101002,
-  "2022-06-27": 101002,
-  "2022-06-28": 101002,
-  "2022-06-29": 101002,
-  "2022-06-30": 101002,
-  "2022-07-01": 101002,
-  "2022-07-02": 101002,
-  "2022-07-03": 101002,
-  "2022-07-04": 101002,
-  "2022-07-05": 101002,
-  "2022-07-06": 101002,
-  "2022-07-07": 101002,
-  "2022-07-08": 101002,
-  "2022-07-09": 101002,
-  "2022-07-10": 101002,
-  "2022-07-11": 101002,
-  "2022-07-12": 101002,
-  "2022-07-13": 101002,
-  "2022-07-14": 101002,
-  "2022-07-15": 101002,
-  "2022-07-16": 101002,
-  "2022-07-17": 101002,
-  "2022-07-18": 101002,
-  "2022-07-19": 101002,
-  "2022-07-20": 101002,
-  "2022-07-21": 101002,
-  "2022-07-22": 101002,
-  "2022-07-23": 101002,
-  "2022-07-24": 101002,
-  "2022-07-25": 101002,
-  "2022-07-26": 101002,
-  "2022-07-27": 101002,
-  "2022-07-28": 101002,
-  "2022-07-29": 101002,
-  "2022-07-30": 101002,
-  "2022-07-31": 101002,
-  "2022-08-01": 101002,
-  "2022-08-02": 101002,
-  "2022-08-03": 101002,
-  "2022-08-04": 101002,
-  "2022-08-05": 101002,
-  "2022-08-06": 101002,
-  "2022-08-07": 101002,
-  "2022-08-08": 101002,
-  "2022-08-09": 101002,
-  "2022-08-10": 101002,
-  "2022-08-11": 101002,
-  "2022-08-12": 101002,
-  "2022-08-13": 101002,
-  "2022-08-14": 101002,
-  "2022-08-15": 101002,
-  "2022-08-16": 101002,
-  "2022-08-17": 101002,
-  "2022-08-18": 101002,
-  "2022-08-19": 101002,
-  "2022-08-20": 101002,
-  "2022-08-21": 101002,
-  "2022-08-22": 101002,
-  "2022-08-23": 101002,
-  "2022-08-24": 101002,
-  "2022-08-25": 101002,
-  "2022-08-26": 101002,
-  "2022-08-27": 101002,
-  "2022-08-28": 101002,
-  "2022-08-29": 101002,
-  "2022-08-30": 101002,
-  "2022-08-31": 101002,
-  "2022-09-01": 101002,
-  "2022-09-02": 101002,
-  "2022-09-03": 101002,
-  "2022-09-04": 101002,
-  "2022-09-05": 101002,
-  "2022-09-06": 101002,
-  "2022-09-07": 101002,
-  "2022-09-09": 101002,
-  "2022-09-10": 101002,
-  "2022-09-11": 101002,
-  "2022-09-12": 101002,
-  "2022-09-13": 101002,
-  "2022-09-15": 101002,
-  "2022-09-16": 101002,
-  "2022-09-17": 101002,
-  "2022-09-18": 101002,
-  "2022-09-19": 101002,
-  "2022-09-20": 101002,
-  "2022-09-21": 101002,
-  "2022-09-22": 101002,
-  "2022-09-23": 101002,
-  "2022-09-24": 101002,
-  "2022-09-25": 101002,
-  "2022-09-26": 101002,
-  "2022-09-27": 101002,
-  "2022-09-28": 101002,
-  "2022-09-29": 101002,
-  "2022-09-30": 101002,
-  "2022-10-01": 101002,
-  "2022-10-02": 101002,
-  "2022-10-03": 101002,
-  "2022-10-04": 101002,
-  "2022-10-05": 101002,
-  "2022-10-06": 101002,
-  "2022-10-07": 101002,
-  "2022-10-08": 101002,
-  "2022-10-09": 101002,
-  "2022-10-10": 101002,
-  "2022-10-11": 101002,
-  "2022-10-12": 101002,
-  "2022-10-13": 101002,
-  "2022-10-14": 101002,
-  "2022-10-15": 101002,
-  "2022-10-16": 101002,
-  "2022-10-17": 101002,
-  "2022-10-18": 101002,
-  "2022-10-19": 101002,
-  "2022-10-20": 101002,
-  "2022-10-21": 101002,
-  "2022-10-22": 101002,
-  "2022-10-23": 101002,
-  "2022-10-24": 101002,
-  "2022-10-25": 101002,
-  "2022-10-26": 101002,
-  "2022-10-27": 101002,
-  "2022-10-28": 101002,
-  "2022-10-29": 101002,
-  "2022-10-30": 101002,
-  "2022-10-31": 101002,
-  "2022-11-01": 101002,
-  "2022-11-02": 101002,
-  "2022-11-03": 101002,
-  "2022-11-04": 101002,
-  "2022-11-05": 101002,
-  "2022-11-06": 101002,
-  "2022-11-07": 101002,
-  "2022-11-08": 101002,
-  "2022-11-09": 101002,
-  "2022-11-10": 101002,
-  "2022-11-11": 101002,
-  "2022-11-12": 101002,
-  "2022-11-13": 101002,
-  "2022-11-14": 101002,
-  "2022-11-15": 101002,
-  "2022-11-16": 101002,
-  "2022-11-17": 101002,
-  "2022-11-18": 101002,
-  "2022-11-19": 101002,
-  "2022-11-20": 101002,
-  "2022-11-21": 101002,
-  "2022-11-22": 101002,
-  "2022-11-23": 101002,
-  "2022-11-24": 101002,
-  "2022-11-25": 101002,
-  "2022-11-26": 101002,
-  "2022-11-27": 101002,
-  "2022-11-28": 101002,
-  "2022-11-29": 101002,
-  "2022-11-30": 101002,
-  "2022-12-01": 101002,
-  "2022-12-02": 101002,
-  "2022-12-03": 101002,
-  "2022-12-04": 101002,
-  "2022-12-05": 101002,
-  "2022-12-06": 101002,
-  "2022-12-07": 101002,
-  "2022-12-08": 101002,
-  "2022-12-09": 101002,
-  "2022-12-10": 101002,
-  "2022-12-11": 101002,
-  "2022-12-12": 101002,
-  "2022-12-13": 101002,
-  "2022-12-14": 101002,
-  "2022-12-15": 101002,
-  "2022-12-16": 101002,
-  "2022-12-17": 101002,
-  "2022-12-18": 101002,
-  "2022-12-19": 101002,
-  "2022-12-20": 101002,
-  "2022-12-21": 101002,
-  "2022-12-22": 101002,
-  "2022-12-24": 101002,
-  "2022-12-25": 101002,
-  "2022-12-26": 101002,
-  "2022-12-27": 101002,
-  "2022-12-28": 101002,
-  "2022-12-29": 101002,
-  "2022-12-30": 101002,
-  "2022-12-31": 101002,
-  "2023-01-01": 101002,
-  "2023-01-02": 101002,
-  "2023-01-03": 101002,
-  "2023-01-04": 101002,
-  "2023-01-05": 101002,
-  "2023-01-06": 101002,
-  "2023-01-07": 101002,
-  "2023-01-08": 101002,
-  "2023-01-09": 101002,
-  "2023-01-10": 101002,
-  "2023-01-11": 101002,
-  "2023-01-12": 101002,
-  "2023-01-13": 101002,
-  "2023-01-14": 101002,
-  "2023-01-15": 101002,
-  "2023-01-16": 101002,
-  "2023-01-17": 101002,
-  "2023-01-18": 101002,
-  "2023-01-19": 101002,
-  "2023-01-20": 101002,
-  "2023-01-21": 101002,
-  "2023-01-22": 101002,
-  "2023-01-23": 101002,
-  "2023-01-24": 101002,
-  "2023-01-25": 101002,
-  "2023-01-26": 101002,
-  "2023-01-27": 101002,
-  "2023-01-28": 101002,
-  "2023-01-29": 101002,
-  "2023-01-30": 101002,
-  "2023-01-31": 101002,
-  "2023-02-01": 101002,
-  "2023-02-02": 101002,
-  "2023-02-03": 101002,
-  "2023-02-04": 101002,
-  "2023-02-05": 101002,
-  "2023-02-06": 101002,
-  "2023-02-07": 101002,
-  "2023-02-08": 101002,
-  "2023-02-09": 101002,
-  "2023-02-10": 101002,
-  "2023-02-11": 101002,
-  "2023-02-12": 101002,
-  "2023-02-13": 101002,
-  "2023-02-14": 101002,
-  "2023-02-15": 101002,
-  "2023-02-16": 101002,
-  "2023-02-17": 101002,
-  "2023-02-18": 101002,
-  "2023-02-19": 101002,
-  "2023-02-20": 101002,
-  "2023-02-21": 101002,
-  "2023-02-22": 101002,
-  "2023-02-23": 101002,
-  "2023-02-24": 101002,
-  "2023-02-25": 101002,
-  "2023-02-26": 101002,
-  "2023-02-27": 101002,
-  "2023-02-28": 101002,
-  "2023-03-01": 101002,
-  "2023-03-02": 101002,
-  "2023-03-03": 101002,
-  "2023-03-04": 101002,
-  "2023-03-05": 101002,
-  "2023-03-06": 101002,
-  "2023-03-07": 101002,
-  "2023-03-08": 101002,
-  "2023-03-09": 101002,
-  "2023-03-10": 101002,
-  "2023-03-11": 101002,
-  "2023-03-12": 101002,
-  "2023-03-13": 101002,
-  "2023-03-14": 101002,
-  "2023-03-15": 101002,
-  "2023-03-16": 101002,
-  "2023-03-17": 101002,
-  "2023-03-18": 101002,
-  "2023-03-19": 101002,
-  "2023-03-20": 101002,
-  "2023-03-21": 101002,
-  "2023-03-22": 101002,
-  "2023-03-23": 101002,
-  "2023-03-24": 101002,
-  "2023-03-25": 101002,
-  "2023-03-26": 101002,
-  "2023-03-27": 101002,
-  "2023-03-28": 101002,
-  "2023-03-29": 101002,
-  "2023-03-30": 101002,
-  "2023-03-31": 101002,
-  "2023-04-01": 101002,
-  "2023-04-02": 101002,
-  "2023-04-03": 101002,
-  "2023-04-04": 101002,
-  "2023-04-05": 101002,
-  "2023-04-06": 101002,
-  "2023-04-07": 101002,
-  "2023-04-09": 101002,
-  "2023-04-10": 101002,
-  "2023-04-11": 101002,
-  "2023-04-12": 101002,
-  "2023-04-13": 101002,
-  "2023-04-14": 101002,
-  "2023-04-15": 101002,
-  "2023-04-16": 101002,
-  "2023-04-17": 101002,
-  "2023-04-18": 101002,
-  "2023-04-19": 101002,
-  "2023-04-20": 101002,
-  "2023-04-21": 101002,
-  "2023-04-22": 101002,
-  "2023-04-23": 101002,
-  "2023-04-24": 101002,
-  "2023-04-25": 101002,
-  "2023-04-26": 101002,
-  "2023-04-27": 101002,
-  "2023-04-28": 101002,
-  "2023-04-29": 101002,
-  "2023-04-30": 101002,
-  "2023-05-01": 101002,
-  "2023-05-02": 101002,
-  "2023-05-03": 101002,
-  "2023-05-04": 101002,
-  "2023-05-05": 101002,
-  "2023-05-06": 101002,
-  "2023-05-07": 101002,
-  "2023-05-08": 101002,
-  "2023-05-09": 101002,
-  "2023-05-10": 101002,
-  "2023-05-11": 101002,
-  "2023-05-12": 101002,
-  "2023-05-13": 101002,
-  "2023-05-14": 101002,
-  "2023-05-15": 101002,
-  "2023-05-16": 101002,
-  "2023-05-17": 101002,
-  "2023-05-18": 101002,
-  "2023-05-19": 101002,
-  "2023-05-20": 101002,
-  "2023-05-21": 101002,
-  "2023-05-22": 101002,
-  "2023-05-23": 101002,
-  "2023-05-24": 101002,
-  "2023-05-25": 101002,
-  "2023-05-26": 101002,
-  "2023-05-27": 101002,
-  "2023-05-28": 101002,
-  "2023-05-29": 101002,
-  "2023-05-30": 101002,
-  "2023-05-31": 101002,
-  "2023-06-01": 101002,
-  "2023-06-02": 101002,
-  "2023-06-03": 101002,
-  "2023-06-04": 101002,
-  "2023-06-05": 101002,
-  "2023-06-06": 101002,
-  "2023-06-07": 101002,
-  "2023-06-08": 101002,
-  "2023-06-09": 101002,
-  "2023-06-10": 101002,
-  "2023-06-11": 101002,
-  "2023-06-12": 101002,
-  "2023-06-13": 101002,
-  "2023-06-14": 101002,
-  "2023-06-15": 101002,
-  "2023-06-16": 101002,
-  "2023-06-17": 101002,
-  "2023-06-18": 101002,
-  "2023-06-19": 101002,
-  "2023-06-20": 101002,
-  "2023-06-21": 101002,
-  "2023-06-22": 101002,
-  "2023-06-23": 101002,
-  "2023-06-24": 101002,
-  "2023-06-25": 101002,
-  "2023-06-26": 101002,
-  "2023-06-27": 101002,
-  "2023-06-28": 101002,
-  "2023-06-29": 101002,
-  "2023-06-30": 101002,
-  "2023-07-01": 101002,
-  "2023-07-02": 101002,
-  "2023-07-03": 101002,
-  "2023-07-04": 101002,
-  "2023-07-05": 101002,
-  "2023-07-06": 101002,
-  "2023-07-07": 101002,
-  "2023-07-08": 101002,
-  "2023-07-09": 101002,
-  "2023-07-10": 101002,
-  "2023-07-11": 101002,
-  "2023-07-12": 101002,
-  "2023-07-13": 101002,
-  "2023-07-14": 101002,
-  "2023-07-15": 101002,
-  "2023-07-16": 101002,
-  "2023-07-17": 101002,
-  "2023-07-18": 101002,
-  "2023-07-19": 101002,
-  "2023-07-20": 101002,
-  "2023-07-21": 101002,
-  "2023-07-22": 101002,
-  "2023-07-23": 101002,
-  "2023-07-24": 101002,
-  "2023-07-25": 101002,
-  "2023-07-26": 101002,
-  "2023-07-27": 101002,
-  "2023-07-28": 101002,
-  "2023-07-29": 101002,
-  "2023-07-30": 101002,
-  "2023-07-31": 101002,
-  "2023-08-01": 101002,
-  "2023-08-02": 101002,
-  "2023-08-03": 101002,
-  "2023-08-04": 101002,
-  "2023-08-05": 101002,
-  "2023-08-06": 101002,
-  "2023-08-07": 101002,
-  "2023-08-08": 101002,
-  "2023-08-09": 101002,
-  "2023-08-10": 101002,
-  "2023-08-11": 101002,
-  "2023-08-12": 101002,
-  "2023-08-13": 101002,
-  "2023-08-14": 101002,
-  "2023-08-15": 101002,
-  "2023-08-16": 101002,
-  "2023-08-17": 101002,
-  "2023-08-18": 101002,
-  "2023-08-19": 101002,
-  "2023-08-20": 101002,
-  "2023-08-21": 101002,
-  "2023-08-22": 101002,
-  "2023-08-23": 101002,
-  "2023-08-24": 101002,
-  "2023-08-25": 101002,
-  "2023-08-26": 101002,
-  "2023-08-27": 101002,
-  "2023-08-28": 101002,
-  "2023-08-29": 101002,
-  "2023-08-30": 101002,
-  "2023-08-31": 101002,
-  "2023-09-01": 101002,
-  "2023-09-02": 101002,
-  "2023-09-03": 101002,
-  "2023-09-04": 101002,
-  "2023-09-05": 101002,
-  "2023-09-06": 101002,
-  "2023-09-07": 101002,
-  "2023-09-08": 101002,
-  "2023-09-09": 101002,
-  "2023-09-10": 101002,
-  "2023-09-11": 101002,
-  "2023-09-12": 101002,
-  "2023-09-13": 101002,
-  "2023-09-14": 101002,
-  "2023-09-15": 101002,
-  "2023-09-16": 101002,
-  "2023-09-17": 101002,
-  "2023-09-18": 101002,
-  "2023-09-19": 101002,
-  "2023-09-20": 101002,
-  "2023-09-21": 101002,
-  "2023-09-22": 101002,
-  "2023-09-23": 101002,
-  "2023-09-24": 101002,
-  "2023-09-25": 101002,
-  "2023-09-26": 101002,
-  "2023-09-27": 101002,
-  "2023-09-28": 101002,
-  "2023-09-29": 101002,
-  "2023-09-30": 101002,
-  "2023-10-01": 101002,
-  "2023-10-02": 101002,
-  "2023-10-03": 101002,
-  "2023-10-04": 101002,
-  "2023-10-05": 101002,
-  "2023-10-06": 101002,
-  "2023-10-07": 101002,
-  "2023-10-08": 101002,
-  "2023-10-09": 101002,
-  "2023-10-10": 101002,
-  "2023-10-11": 101002,
-  "2023-10-12": 101002,
-  "2023-10-13": 101002,
-  "2023-10-14": 101002,
-  "2023-10-15": 101002,
-  "2023-10-16": 101002,
-  "2023-10-17": 101002,
-  "2023-10-18": 101002,
-  "2023-10-19": 101002,
-  "2023-10-20": 101002,
-  "2023-10-21": 101002,
-  "2023-10-22": 101002,
-  "2023-10-23": 101002,
-  "2023-10-24": 101002,
-  "2023-10-25": 101002,
-  "2023-10-26": 101002,
-  "2023-10-27": 101002,
-  "2023-10-28": 101002,
-  "2023-10-29": 101002,
-  "2023-10-30": 101002,
-  "2023-10-31": 101002,
-  "2023-11-01": 101002,
-  "2023-11-02": 101002,
-  "2023-11-03": 101002,
-  "2023-11-04": 101002,
-  "2023-11-05": 101002,
-  "2023-11-06": 101002,
-  "2023-11-07": 101002,
-  "2023-11-08": 101002,
-  "2023-11-09": 101002,
-  "2023-11-10": 101002,
-  "2023-11-11": 101002,
-  "2023-11-12": 101002,
-  "2023-11-13": 101002,
-  "2023-11-14": 101002,
-  "2023-11-15": 101002,
-  "2023-11-16": 101002,
-  "2023-11-17": 101002,
-  "2023-11-18": 101002,
-  "2023-11-19": 101002,
-  "2023-11-20": 101002,
-  "2023-11-21": 101002,
-  "2023-11-22": 101002,
-  "2023-11-23": 101002,
-  "2023-11-24": 101002,
-  "2023-11-25": 101002,
-  "2023-11-26": 101002,
-  "2023-11-27": 101002,
-  "2023-11-28": 101002,
-  "2023-11-29": 101002,
-  "2023-11-30": 101002,
-  "2023-12-01": 101002,
-  "2023-12-02": 101002,
-  "2023-12-03": 101002,
-  "2023-12-04": 101002,
-  "2023-12-05": 101002,
-  "2023-12-06": 101002,
-  "2023-12-07": 101002,
-  "2023-12-08": 101002,
-  "2023-12-09": 101002,
-  "2023-12-10": 101002,
-  "2023-12-11": 101002,
-  "2023-12-12": 101002,
-  "2023-12-13": 101002,
-  "2023-12-14": 101002,
-  "2023-12-15": 101002,
-  "2023-12-16": 101002,
-  "2023-12-17": 101002,
-  "2023-12-18": 101002,
-  "2023-12-19": 101002,
-  "2023-12-20": 101002,
-  "2023-12-21": 101002,
-  "2023-12-22": 101002,
-  "2023-12-23": 101002,
-  "2023-12-24": 101002,
-  "2023-12-25": 101002,
-  "2023-12-26": 101002,
-  "2023-12-27": 101002,
-  "2023-12-30": 101002,
-  "2023-12-31": 101002,
-  "2024-01-01": 101002,
-  "2024-01-02": 101002,
-  "2024-01-03": 101002
+  "2024-01-17": 101002,
+  "date_first_scraped": "2021-12-28",
+  "description": "First Aid Kit. The essential tracks, all in one playlist.",
+  "name": "This Is First Aid Kit",
+  "tracks": [
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "A Long Time Ago",
+      "url": "https://open.spotify.com/track/4amU151BcUJ8ZCtogTmPb3"
+    },
+    {
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2082IInYBrbMnzhR26dvQh"
+    },
+    {
+      "album": {
+        "name": "Who by Fire - Live Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229480,
+      "name": "Chelsea Hotel #2 - Live",
+      "url": "https://open.spotify.com/track/1i0BjfAF350w2Fv9LeTORW"
+    },
+    {
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Distant Star",
+      "url": "https://open.spotify.com/track/5cNR4VZQ7jvLal3WNaI5u1"
+    },
+    {
+      "album": {
+        "name": "The Fire and the Flame (feat. First Aid Kit)",
+        "url": "https://open.spotify.com/album/7cEecj8f1MfxMDtmMbea7M"
+      },
+      "artists": [
+        {
+          "name": "Blood Music",
+          "url": "https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289346,
+      "name": "Elbow in Your Face (feat. First Aid Kit)",
+      "url": "https://open.spotify.com/track/3TLcZQUrr2CR1NUiRj7soP"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/3JYZyuyjz9GDtNMfcE4kRi"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Emmylou",
+      "url": "https://open.spotify.com/track/4r9MqJ7MG26TFyxqr7PK01"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277040,
+      "name": "Fireworks - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/2s4nbsrQvvCP0j1pK5GU1X"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287360,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/68LvonMQyPyfepIUEPWb1r"
+    },
+    {
+      "album": {
+        "name": "Glad That You Called",
+        "url": "https://open.spotify.com/album/2bIju5ptcmL7voQOyiPOdX"
+      },
+      "artists": [
+        {
+          "name": "Blood Music",
+          "url": "https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228970,
+      "name": "Glad That You Called",
+      "url": "https://open.spotify.com/track/6XDKsKRDq7mIHT7orI1qdJ"
+    },
+    {
+      "album": {
+        "name": "I Tiden",
+        "url": "https://open.spotify.com/album/5Kb5cBrEHKzriayjjCuoJ2"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f6derna Lindgren",
+          "url": "https://open.spotify.com/artist/6O8LVdLFSAwvmKP80QUQZb"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Godnatt",
+      "url": "https://open.spotify.com/track/2ewIdjS9awuCVrtWAxNEcs"
+    },
+    {
+      "album": {
+        "name": "Who by Fire - Live Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "Annika Norlin",
+          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351440,
+      "name": "Hallelujah - Live",
+      "url": "https://open.spotify.com/track/1G7pP1R2loZpmzXCoxlvgL"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/2s4nbsrQvvCP0j1pK5GU1X"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220613,
+      "name": "Hard Believer",
+      "url": "https://open.spotify.com/track/74QIqluMDGuaAqlHirsflW"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/6IoWZFSe5KpRGWany6MCWz"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Heavy Storm",
+      "url": "https://open.spotify.com/track/726htx96cOaKKah0jo9gfq"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Hem of Her Dress",
+      "url": "https://open.spotify.com/track/0FGBKBVL24i3p0dCpnKrwR"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/2s4nbsrQvvCP0j1pK5GU1X"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "I Met Up With The King",
+      "url": "https://open.spotify.com/track/0eP2cPP0IBGIJmEOqnloOY"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253493,
+      "name": "In the Hearts of Men",
+      "url": "https://open.spotify.com/track/0LOCnWpo5TSPbZBaLLWXG4"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "It's a Shame",
+      "url": "https://open.spotify.com/track/3tetL39HqDX1sPDjfpGUkn"
+    },
+    {
+      "album": {
+        "name": "Drunken Trees",
+        "url": "https://open.spotify.com/album/3AkwaBIPJYLUYLZuCUa008"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "Jagadamba, You Might",
+      "url": "https://open.spotify.com/track/39ozdWC4aSC2fxbVTRCw4Z"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/3JYZyuyjz9GDtNMfcE4kRi"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "King of the World",
+      "url": "https://open.spotify.com/track/5g6QHlE01E69wL99ny45x3"
+    },
+    {
+      "album": {
+        "name": "Drunken Trees",
+        "url": "https://open.spotify.com/album/3AkwaBIPJYLUYLZuCUa008"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Little Moon",
+      "url": "https://open.spotify.com/track/0rv8PQX7Kusae9fNAjdnqp"
+    },
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Master Pretender",
+      "url": "https://open.spotify.com/track/7lMwFdaLeJDxiNFd78ScAu"
+    },
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "My Wild Sweet Love",
+      "url": "https://open.spotify.com/track/0RkVrsIWRCFAwommrPOlAB"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300973,
+      "name": "Nothing Has to Be True",
+      "url": "https://open.spotify.com/track/6RLCQkGIeLR7aoaozvheNT"
+    },
+    {
+      "album": {
+        "name": "The Fire and the Flame (feat. First Aid Kit)",
+        "url": "https://open.spotify.com/album/7cEecj8f1MfxMDtmMbea7M"
+      },
+      "artists": [
+        {
+          "name": "Blood Music",
+          "url": "https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Numbers (One Fine Day) [feat. First Aid Kit]",
+      "url": "https://open.spotify.com/track/4kbHrAOb3T6mCu5ZB5LWWC"
+    },
+    {
+      "album": {
+        "name": "Drunken Trees",
+        "url": "https://open.spotify.com/album/3AkwaBIPJYLUYLZuCUa008"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "Our Own Pretty Ways",
+      "url": "https://open.spotify.com/track/1CYParNnIfvlA29BDq4lab"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/2Xvjhf7ZECR2hwaCAcsFgb"
+    },
+    {
+      "album": {
+        "name": "Om du inte st\u00e5r f\u00f6r n\u00e5got faller du f\u00f6r allt (Samlade l\u00e5tar)",
+        "url": "https://open.spotify.com/album/4g9fAWhQ2QaedN3VaBbVkl"
+      },
+      "artists": [
+        {
+          "name": "Emil Jensen",
+          "url": "https://open.spotify.com/artist/2sdhZm1TCh9CLoM4QUBsll"
+        },
+        {
+          "name": "Klara S\u00f6derberg",
+          "url": "https://open.spotify.com/artist/3OymXdFdLhADhLIDEb964s"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Radioaktivitet (Ny version)",
+      "url": "https://open.spotify.com/track/141afKGhPmUowc0FRDO9Xt"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323480,
+      "name": "Rebel Heart",
+      "url": "https://open.spotify.com/track/460VbsObk5l2FGYxUDtaA6"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/5A80NDChWzcxBrPC0YQ8RW"
+      },
+      "artists": [
+        {
+          "name": "Van William",
+          "url": "https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/6Qr1ChOap1WchlSJh0JVsc"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/3PWW2hb1V9z84dX9w6XkiN"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236493,
+      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/2s4nbsrQvvCP0j1pK5GU1X"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164373,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/4AqPLfDBWsSaxPnvRMogB7"
+    },
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Shattered & Hollow",
+      "url": "https://open.spotify.com/track/1Z3jfwJXw8YymTkY0NuEQs"
+    },
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Stay Gold",
+      "url": "https://open.spotify.com/track/7Aqu18pKKdYTvtkC5RXCOR"
+    },
+    {
+      "album": {
+        "name": "Who by Fire - Live Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Suzanne - Live",
+      "url": "https://open.spotify.com/track/05LwDzXo5aeWXbwSsPk3yv"
+    },
+    {
+      "album": {
+        "name": "Drunken Trees",
+        "url": "https://open.spotify.com/album/3AkwaBIPJYLUYLZuCUa008"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3rIwk7sQGJr8CAP9cnuxIg"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "The Lion's Roar",
+      "url": "https://open.spotify.com/track/7kiB2HEyVrW9EdpVeQqZSY"
+    },
+    {
+      "album": {
+        "name": "The Fire and the Flame (feat. First Aid Kit)",
+        "url": "https://open.spotify.com/album/7cEecj8f1MfxMDtmMbea7M"
+      },
+      "artists": [
+        {
+          "name": "Blood Music",
+          "url": "https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375960,
+      "name": "The Swimming (feat. First Aid Kit)",
+      "url": "https://open.spotify.com/track/7nvvP0Y5xXBtsYF9CovGlk"
+    },
+    {
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "To Live a Life",
+      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "album": {
+        "name": "Universal Soldier",
+        "url": "https://open.spotify.com/album/6dtpXH9obh1fD1jGBSx0uE"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/6n9fb0bTTCicYXyrCYobAA"
+    },
+    {
+      "album": {
+        "name": "Wild - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5gUiAoK3N24NEA4DQivROt"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317520,
+      "name": "Walk Unafraid",
+      "url": "https://open.spotify.com/track/5avoYLYi2gYnCTm7wQQWTw"
+    },
+    {
+      "album": {
+        "name": "Hard Believer / Waltz For Richard",
+        "url": "https://open.spotify.com/album/3eiKukxVBosCk12Wlc1JcB"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Waltz For Richard",
+      "url": "https://open.spotify.com/track/75xNot6Xq8sRjFMfh7UMp9"
+    },
+    {
+      "album": {
+        "name": "We're Going To Be Friends",
+        "url": "https://open.spotify.com/album/2CWdtY0nbGExaIf6erazbK"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139217,
+      "name": "We're Going To Be Friends",
+      "url": "https://open.spotify.com/track/2y75B6hoT5HnWgLfEeT4pN"
+    },
+    {
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/19KxTEHvlp9dhoiVnlQs7r"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215573,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/2Z5zmur6Y9tpoNc9jkA1OS"
+    },
+    {
+      "album": {
+        "name": "The Fire and the Flame (feat. First Aid Kit)",
+        "url": "https://open.spotify.com/album/7cEecj8f1MfxMDtmMbea7M"
+      },
+      "artists": [
+        {
+          "name": "Blood Music",
+          "url": "https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134560,
+      "name": "When Will You Notice Me in the Crowd? (feat. First Aid Kit)",
+      "url": "https://open.spotify.com/track/18ROBZ5friNkpguOeYYb2c"
+    },
+    {
+      "album": {
+        "name": "The Big Black and the Blue",
+        "url": "https://open.spotify.com/album/2s4nbsrQvvCP0j1pK5GU1X"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219893,
+      "name": "Winter Is All Over You",
+      "url": "https://open.spotify.com/track/5VNz8AjX18ImPwa6rAaO9X"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2"
+    },
+    {
+      "album": {
+        "name": "You are the Problem Here",
+        "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "You are the Problem Here",
+      "url": "https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U"
+    },
+    {
+      "album": {
+        "name": "Drunken Trees",
+        "url": "https://open.spotify.com/album/3AkwaBIPJYLUYLZuCUa008"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2021-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "You're Not Coming Home Tonight",
+      "url": "https://open.spotify.com/track/2UqoXTlftOVmLePTxMZsVL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSMzsi7xJUqJ"
 }

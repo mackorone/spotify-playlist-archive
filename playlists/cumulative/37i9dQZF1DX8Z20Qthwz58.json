@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "You're mine, You!",
+        "url": "https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT"
+      },
+      "artists": [
+        {
+          "name": "Shin Youme",
+          "url": "https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232751,
+      "name": "You\u2019re mine, You!",
+      "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"
+    },
+    {
+      "album": {
         "name": "\uac78\uc5b4\uc11c \ub2ec\uae4c\uc9c0 walk to the moon (feat. kim seungyoon)",
         "url": "https://open.spotify.com/album/0BgBKmOe0WnWjMkVuxLSAS"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,089 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,058 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 2 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 |
 | 3 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 |
 | 4 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 |
-| 5 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
+| 5 | [我也難過的](https://open.spotify.com/track/2PkErrvrjQry3l1IhhJsor) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/2hFVXHct1VP9me00DzxDCj) | 4:38 |
 | 6 | [好好掛住](https://open.spotify.com/track/0QA3wOHY0d8IYsevIrBrce) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [好好掛住](https://open.spotify.com/album/4x8GGMwSp8CfwW5EG0RjBs) | 4:51 |
 | 7 | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/track/1lY6aCnPSoLbwpukEk9l57) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [致我們的夢想 \(feat\. Jeffrey 魏浚笙\)](https://open.spotify.com/album/6AMjxEmzxMtlDomTbD13dg) | 4:02 |
 | 8 | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/track/5EsbPLjrFIOHRndKFxbVnx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [尋找隱世巨聲 \(feat\. Young Hysan\)](https://open.spotify.com/album/0FH9XolUtz2VSuYCkuy3pc) | 3:29 |

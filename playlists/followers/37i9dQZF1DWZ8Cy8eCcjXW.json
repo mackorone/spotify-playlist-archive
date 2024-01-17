@@ -1,326 +1,1067 @@
 {
-  "2023-02-11": 330824,
-  "2023-02-12": 332815,
-  "2023-02-13": 333677,
-  "2023-02-14": 333677,
-  "2023-02-15": 334433,
-  "2023-02-16": 335218,
-  "2023-02-17": 336073,
-  "2023-02-18": 337568,
-  "2023-02-19": 337747,
-  "2023-02-20": 338356,
-  "2023-02-21": 339104,
-  "2023-02-22": 339797,
-  "2023-02-23": 340798,
-  "2023-02-24": 341705,
-  "2023-02-25": 342848,
-  "2023-02-26": 343367,
-  "2023-02-27": 344869,
-  "2023-02-28": 344869,
-  "2023-03-01": 345568,
-  "2023-03-02": 346233,
-  "2023-03-03": 347023,
-  "2023-03-04": 347658,
-  "2023-03-05": 348939,
-  "2023-03-06": 348939,
-  "2023-03-07": 349749,
-  "2023-03-08": 350375,
-  "2023-03-09": 350967,
-  "2023-03-10": 351605,
-  "2023-03-11": 352275,
-  "2023-03-12": 352917,
-  "2023-03-13": 353511,
-  "2023-03-14": 354088,
-  "2023-03-15": 354595,
-  "2023-03-16": 355172,
-  "2023-03-17": 355172,
-  "2023-03-18": 356544,
-  "2023-03-19": 357054,
-  "2023-03-20": 357631,
-  "2023-03-21": 358175,
-  "2023-03-22": 358738,
-  "2023-03-23": 359256,
-  "2023-03-24": 359256,
-  "2023-03-25": 360719,
-  "2023-03-26": 361660,
-  "2023-03-27": 362457,
-  "2023-03-28": 363131,
-  "2023-03-29": 363821,
-  "2023-03-30": 364874,
-  "2023-03-31": 364874,
-  "2023-04-01": 365492,
-  "2023-04-02": 366004,
-  "2023-04-03": 366577,
-  "2023-04-04": 367131,
-  "2023-04-05": 367646,
-  "2023-04-06": 368262,
-  "2023-04-07": 368829,
-  "2023-04-09": 369773,
-  "2023-04-10": 370186,
-  "2023-04-11": 371173,
-  "2023-04-12": 371173,
-  "2023-04-13": 372181,
-  "2023-04-14": 373112,
-  "2023-04-15": 373992,
-  "2023-04-16": 374649,
-  "2023-04-17": 375261,
-  "2023-04-18": 375829,
-  "2023-04-19": 376366,
-  "2023-04-20": 376935,
-  "2023-04-21": 377389,
-  "2023-04-22": 377890,
-  "2023-04-23": 378368,
-  "2023-04-24": 378804,
-  "2023-04-25": 379254,
-  "2023-04-26": 379701,
-  "2023-04-27": 380192,
-  "2023-04-28": 380674,
-  "2023-04-29": 381206,
-  "2023-04-30": 381693,
-  "2023-05-01": 382142,
-  "2023-05-02": 382607,
-  "2023-05-03": 383076,
-  "2023-05-04": 383465,
-  "2023-05-05": 383844,
-  "2023-05-06": 384272,
-  "2023-05-07": 384681,
-  "2023-05-08": 385110,
-  "2023-05-09": 385503,
-  "2023-05-10": 385876,
-  "2023-05-11": 386304,
-  "2023-05-12": 386725,
-  "2023-05-13": 387152,
-  "2023-05-14": 387541,
-  "2023-05-15": 387945,
-  "2023-05-16": 388352,
-  "2023-05-17": 388717,
-  "2023-05-18": 389164,
-  "2023-05-19": 389633,
-  "2023-05-20": 390497,
-  "2023-05-21": 390497,
-  "2023-05-22": 390497,
-  "2023-05-23": 391397,
-  "2023-05-24": 392007,
-  "2023-05-25": 392107,
-  "2023-05-26": 392507,
-  "2023-05-27": 392863,
-  "2023-05-28": 393198,
-  "2023-05-29": 393198,
-  "2023-05-30": 393875,
-  "2023-05-31": 394197,
-  "2023-06-01": 394564,
-  "2023-06-02": 394992,
-  "2023-06-03": 395453,
-  "2023-06-04": 395948,
-  "2023-06-05": 396389,
-  "2023-06-06": 396787,
-  "2023-06-07": 397174,
-  "2023-06-08": 397591,
-  "2023-06-09": 398001,
-  "2023-06-10": 398386,
-  "2023-06-11": 398788,
-  "2023-06-12": 399235,
-  "2023-06-13": 399719,
-  "2023-06-14": 400116,
-  "2023-06-15": 400530,
-  "2023-06-16": 401027,
-  "2023-06-17": 401562,
-  "2023-06-18": 402055,
-  "2023-06-19": 402615,
-  "2023-06-20": 403181,
-  "2023-06-21": 403651,
-  "2023-06-22": 404160,
-  "2023-06-23": 404694,
-  "2023-06-24": 405097,
-  "2023-06-25": 405534,
-  "2023-06-26": 405965,
-  "2023-06-27": 406375,
-  "2023-06-28": 406748,
-  "2023-06-29": 407046,
-  "2023-06-30": 407357,
-  "2023-07-01": 408008,
-  "2023-07-02": 408008,
-  "2023-07-03": 408252,
-  "2023-07-04": 408577,
-  "2023-07-05": 408873,
-  "2023-07-06": 409466,
-  "2023-07-07": 409466,
-  "2023-07-08": 409743,
-  "2023-07-09": 410001,
-  "2023-07-10": 410266,
-  "2023-07-11": 410564,
-  "2023-07-12": 410852,
-  "2023-07-13": 411142,
-  "2023-07-14": 411377,
-  "2023-07-15": 411602,
-  "2023-07-16": 411909,
-  "2023-07-17": 412167,
-  "2023-07-18": 412432,
-  "2023-07-19": 412670,
-  "2023-07-20": 412959,
-  "2023-07-21": 413201,
-  "2023-07-22": 413525,
-  "2023-07-23": 413818,
-  "2023-07-24": 414121,
-  "2023-07-25": 414388,
-  "2023-07-26": 414647,
-  "2023-07-27": 414978,
-  "2023-07-28": 415279,
-  "2023-07-29": 415620,
-  "2023-07-30": 415954,
-  "2023-07-31": 416257,
-  "2023-08-01": 416639,
-  "2023-08-02": 416944,
-  "2023-08-03": 417251,
-  "2023-08-04": 417580,
-  "2023-08-05": 417925,
-  "2023-08-06": 418541,
-  "2023-08-07": 418541,
-  "2023-08-08": 418894,
-  "2023-08-09": 419218,
-  "2023-08-10": 419576,
-  "2023-08-11": 419880,
-  "2023-08-12": 420213,
-  "2023-08-13": 420500,
-  "2023-08-14": 420820,
-  "2023-08-15": 421479,
-  "2023-08-16": 421479,
-  "2023-08-17": 421812,
-  "2023-08-18": 422139,
-  "2023-08-19": 422485,
-  "2023-08-20": 422804,
-  "2023-08-21": 423130,
-  "2023-08-22": 423467,
-  "2023-08-23": 423758,
-  "2023-08-24": 424039,
-  "2023-08-25": 424367,
-  "2023-08-26": 424798,
-  "2023-08-27": 425337,
-  "2023-08-28": 425768,
-  "2023-08-29": 426190,
-  "2023-08-30": 426576,
-  "2023-08-31": 427000,
-  "2023-09-01": 427786,
-  "2023-09-02": 427786,
-  "2023-09-03": 428104,
-  "2023-09-04": 428465,
-  "2023-09-05": 428764,
-  "2023-09-06": 429107,
-  "2023-09-07": 429414,
-  "2023-09-08": 429732,
-  "2023-09-09": 430092,
-  "2023-09-10": 430420,
-  "2023-09-11": 430772,
-  "2023-09-12": 431150,
-  "2023-09-13": 432205,
-  "2023-09-14": 432708,
-  "2023-09-15": 433137,
-  "2023-09-16": 433632,
-  "2023-09-17": 434134,
-  "2023-09-18": 434576,
-  "2023-09-19": 435014,
-  "2023-09-20": 435370,
-  "2023-09-21": 435797,
-  "2023-09-22": 436267,
-  "2023-09-23": 436635,
-  "2023-09-24": 437002,
-  "2023-09-25": 437356,
-  "2023-09-26": 437815,
-  "2023-09-27": 438110,
-  "2023-09-28": 438516,
-  "2023-09-29": 438933,
-  "2023-09-30": 439321,
-  "2023-10-01": 439654,
-  "2023-10-02": 439999,
-  "2023-10-03": 440292,
-  "2023-10-04": 440615,
-  "2023-10-05": 440997,
-  "2023-10-06": 441371,
-  "2023-10-07": 441746,
-  "2023-10-08": 442077,
-  "2023-10-09": 442423,
-  "2023-10-10": 442708,
-  "2023-10-11": 443409,
-  "2023-10-12": 443409,
-  "2023-10-13": 443745,
-  "2023-10-14": 444027,
-  "2023-10-15": 444345,
-  "2023-10-16": 444722,
-  "2023-10-17": 445062,
-  "2023-10-18": 445364,
-  "2023-10-19": 445671,
-  "2023-10-20": 445989,
-  "2023-10-21": 446288,
-  "2023-10-22": 446601,
-  "2023-10-23": 446862,
-  "2023-10-24": 447206,
-  "2023-10-25": 447474,
-  "2023-10-26": 447775,
-  "2023-10-27": 448080,
-  "2023-10-28": 448427,
-  "2023-10-29": 448841,
-  "2023-10-30": 449398,
-  "2023-10-31": 449398,
-  "2023-11-01": 449666,
-  "2023-11-02": 449945,
-  "2023-11-03": 450204,
-  "2023-11-04": 450510,
-  "2023-11-05": 450751,
-  "2023-11-06": 450992,
-  "2023-11-07": 451248,
-  "2023-11-08": 451664,
-  "2023-11-09": 452009,
-  "2023-11-10": 452313,
-  "2023-11-11": 452680,
-  "2023-11-12": 453003,
-  "2023-11-13": 453376,
-  "2023-11-14": 453689,
-  "2023-11-15": 453689,
-  "2023-11-16": 454405,
-  "2023-11-17": 454936,
-  "2023-11-18": 454936,
-  "2023-11-19": 455168,
-  "2023-11-20": 455384,
-  "2023-11-21": 455613,
-  "2023-11-22": 455874,
-  "2023-11-23": 456158,
-  "2023-11-24": 456437,
-  "2023-11-25": 456688,
-  "2023-11-26": 456959,
-  "2023-11-27": 457168,
-  "2023-11-28": 457445,
-  "2023-11-29": 458411,
-  "2023-11-30": 458411,
-  "2023-12-01": 459186,
-  "2023-12-02": 459752,
-  "2023-12-03": 460149,
-  "2023-12-04": 460544,
-  "2023-12-05": 460984,
-  "2023-12-06": 461404,
-  "2023-12-07": 461757,
-  "2023-12-08": 462093,
-  "2023-12-09": 462491,
-  "2023-12-10": 462852,
-  "2023-12-11": 463182,
-  "2023-12-12": 463636,
-  "2023-12-13": 464024,
-  "2023-12-14": 464527,
-  "2023-12-15": 464831,
-  "2023-12-16": 465243,
-  "2023-12-17": 465580,
-  "2023-12-18": 465949,
-  "2023-12-19": 466280,
-  "2023-12-20": 466679,
-  "2023-12-21": 467092,
-  "2023-12-22": 467503,
-  "2023-12-23": 467856,
-  "2023-12-24": 468186,
-  "2023-12-25": 468484,
-  "2023-12-26": 468807,
-  "2023-12-27": 469138,
-  "2023-12-30": 470277,
-  "2023-12-31": 470609,
-  "2024-01-01": 470965,
-  "2024-01-02": 471254,
-  "2024-01-03": 471622
+  "2024-01-17": 475797,
+  "date_first_scraped": "2023-02-11",
+  "description": "The genre-bending singer's essential hits.",
+  "name": "This Is SZA",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "9",
+      "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234284,
+      "name": "Babylon (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+    },
+    {
+      "album": {
+        "name": "Gahdamn!",
+        "url": "https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Caretaker (feat. SZA)",
+      "url": "https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Childs Play (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Doves In The Wind (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Drew Barrymore",
+      "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
+        "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Garden (Say It Like Dat)",
+      "url": "https://open.spotify.com/track/19woxaSpjOefa2JnAOoqW5"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
+    },
+    {
+      "album": {
+        "name": "These Days...",
+        "url": "https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258670,
+      "name": "Gods Reign",
+      "url": "https://open.spotify.com/track/4MaI1E1CQfm15THfV0WUIE"
+    },
+    {
+      "album": {
+        "name": "These Days...",
+        "url": "https://open.spotify.com/album/021zMZKO2pUA3yoUQFW2uy"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 258670,
+      "name": "Gods Reign (feat. Sza)",
+      "url": "https://open.spotify.com/track/5WqfumG2Ohc6ranjWl2n8i"
+    },
+    {
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279204,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222164,
+      "name": "HiiiJack",
+      "url": "https://open.spotify.com/track/4N0VFSI2wJu2NzwUuI0sMz"
+    },
+    {
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202007,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU"
+    },
+    {
+      "album": {
+        "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",
+        "url": "https://open.spotify.com/album/7kXQ0AvaykUJMxR0gRfr4d"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214254,
+      "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",
+      "url": "https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
+    },
+    {
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3oUSdLtRYOSvXcLMrHctv7"
+    },
+    {
+      "album": {
+        "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221378,
+      "name": "Just Us (feat. SZA)",
+      "url": "https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "album": {
+        "name": "Do What Thou Wilt.",
+        "url": "https://open.spotify.com/album/1CEeqK9sKrE7LzUHeT3bfP"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/1b7551cVRwC5FI8EBYWl2X"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394568,
+      "name": "Lonely Soul (feat. Punch) / / / The Law (Prelude) [feat. SZA]",
+      "url": "https://open.spotify.com/track/0d96nN78fcIPxZKEm4WZxe"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+    },
+    {
+      "album": {
+        "name": "Blank Face LP",
+        "url": "https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270226,
+      "name": "Neva CHange",
+      "url": "https://open.spotify.com/track/6tPDalwocS7zgeFpYi3xtr"
+    },
+    {
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253586,
+      "name": "Normal Girl",
+      "url": "https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K"
+    },
+    {
+      "album": {
+        "name": "Insecure: Music from the HBO Original Series, Season 2",
+        "url": "https://open.spotify.com/album/1hfSMy89JzdUmHjxDFXlZ1"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/0UQSyryW2vxE88AVFSZs3T"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211613,
+      "name": "Redemption (feat. SZA)",
+      "url": "https://open.spotify.com/track/3thNB1fmi1wuhJ1vWCRuNz"
+    },
+    {
+      "album": {
+        "name": "Cilvia Demo",
+        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198298,
+      "name": "Ronnie Drake (feat. SZA)",
+      "url": "https://open.spotify.com/track/0zbu6qCs5kqT8q3Zo0QWym"
+    },
+    {
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158840,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU"
+    },
+    {
+      "album": {
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423170,
+      "name": "Stuck in the Mud (feat. SZA)",
+      "url": "https://open.spotify.com/track/2eYY43d0V17SxOX0g7sBAD"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Supermodel",
+      "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243744,
+      "name": "Sweet November",
+      "url": "https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc"
+    },
+    {
+      "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216831,
+      "name": "The Need to Know (feat. SZA)",
+      "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
+    },
+    {
+      "album": {
+        "name": "The Other Side (from Trolls World Tour)",
+        "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "The Other Side (from Trolls World Tour)",
+      "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "album": {
+        "name": "The Weekend (Funk Wav Remix)",
+        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171805,
+      "name": "The Weekend - Funk Wav Remix",
+      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
+    },
+    {
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350911,
+      "name": "Warm Winds (feat. Isaiah Rashad)",
+      "url": "https://open.spotify.com/track/0Kz9aGVgFvndWkcaiylIt5"
+    },
+    {
+      "album": {
+        "name": "Cilvia Demo",
+        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "West Savannah (feat. SZA)",
+      "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
+    },
+    {
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199849,
+      "name": "What Lovers Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ8Cy8eCcjXW"
 }

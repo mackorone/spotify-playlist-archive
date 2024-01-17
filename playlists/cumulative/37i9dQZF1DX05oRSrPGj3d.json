@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 319200,
       "name": "17",
       "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
@@ -980,6 +980,24 @@
       "duration_ms": 206210,
       "name": "Every Single Kiss",
       "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
+    },
+    {
+      "album": {
+        "name": "Vol. 1- EP",
+        "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Every Single Kiss",
+      "url": "https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15"
     },
     {
       "album": {
@@ -2256,10 +2274,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 205333,
       "name": "Must Be The Whiskey",
       "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "Must Be the Whiskey",
+      "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
     },
     {
       "album": {
@@ -3222,7 +3258,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 239763,
       "name": "The Highway Kind",
       "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"

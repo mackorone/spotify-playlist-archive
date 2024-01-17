@@ -1,577 +1,1449 @@
 {
-  "2022-06-02": 21893,
-  "2022-06-03": 21902,
-  "2022-06-04": 21914,
-  "2022-06-05": 21925,
-  "2022-06-06": 21934,
-  "2022-06-07": 21948,
-  "2022-06-08": 21956,
-  "2022-06-09": 21964,
-  "2022-06-10": 21970,
-  "2022-06-11": 21982,
-  "2022-06-12": 21996,
-  "2022-06-13": 22006,
-  "2022-06-14": 22005,
-  "2022-06-15": 22014,
-  "2022-06-16": 22031,
-  "2022-06-17": 22052,
-  "2022-06-18": 22061,
-  "2022-06-19": 22105,
-  "2022-06-20": 22105,
-  "2022-06-21": 22117,
-  "2022-06-22": 22137,
-  "2022-06-23": 22137,
-  "2022-06-24": 22145,
-  "2022-06-25": 22153,
-  "2022-06-26": 22165,
-  "2022-06-27": 22172,
-  "2022-06-28": 22188,
-  "2022-06-29": 22190,
-  "2022-06-30": 22197,
-  "2022-07-01": 22208,
-  "2022-07-02": 22221,
-  "2022-07-03": 22240,
-  "2022-07-04": 22243,
-  "2022-07-05": 22243,
-  "2022-07-06": 22243,
-  "2022-07-07": 22273,
-  "2022-07-08": 22285,
-  "2022-07-09": 22293,
-  "2022-07-10": 22308,
-  "2022-07-11": 22320,
-  "2022-07-12": 22326,
-  "2022-07-13": 22343,
-  "2022-07-14": 22355,
-  "2022-07-15": 22361,
-  "2022-07-16": 22384,
-  "2022-07-17": 22393,
-  "2022-07-18": 22416,
-  "2022-07-19": 22421,
-  "2022-07-20": 22429,
-  "2022-07-21": 22440,
-  "2022-07-22": 22454,
-  "2022-07-23": 22466,
-  "2022-07-24": 22482,
-  "2022-07-25": 22493,
-  "2022-07-26": 22508,
-  "2022-07-27": 22513,
-  "2022-07-28": 22521,
-  "2022-07-29": 22534,
-  "2022-07-30": 22556,
-  "2022-07-31": 22556,
-  "2022-08-01": 22577,
-  "2022-08-02": 22601,
-  "2022-08-03": 22601,
-  "2022-08-04": 22614,
-  "2022-08-05": 22622,
-  "2022-08-06": 22638,
-  "2022-08-07": 22654,
-  "2022-08-08": 22664,
-  "2022-08-09": 22676,
-  "2022-08-10": 22692,
-  "2022-08-11": 22698,
-  "2022-08-12": 22716,
-  "2022-08-13": 22732,
-  "2022-08-14": 22747,
-  "2022-08-15": 22763,
-  "2022-08-16": 22771,
-  "2022-08-17": 22781,
-  "2022-08-18": 22794,
-  "2022-08-19": 22805,
-  "2022-08-20": 22822,
-  "2022-08-21": 22836,
-  "2022-08-22": 22852,
-  "2022-08-23": 22859,
-  "2022-08-24": 22871,
-  "2022-08-25": 22887,
-  "2022-08-26": 22903,
-  "2022-08-27": 22915,
-  "2022-08-28": 22929,
-  "2022-08-29": 22942,
-  "2022-08-30": 22955,
-  "2022-08-31": 22967,
-  "2022-09-01": 22983,
-  "2022-09-02": 22992,
-  "2022-09-03": 23011,
-  "2022-09-04": 23032,
-  "2022-09-05": 23047,
-  "2022-09-06": 23062,
-  "2022-09-07": 23070,
-  "2022-09-09": 23091,
-  "2022-09-10": 23102,
-  "2022-09-11": 23112,
-  "2022-09-12": 23130,
-  "2022-09-13": 23148,
-  "2022-09-15": 23169,
-  "2022-09-16": 23181,
-  "2022-09-17": 23195,
-  "2022-09-18": 23216,
-  "2022-09-19": 23226,
-  "2022-09-20": 23230,
-  "2022-09-21": 23236,
-  "2022-09-22": 23243,
-  "2022-09-23": 23260,
-  "2022-09-24": 23260,
-  "2022-09-25": 23273,
-  "2022-09-26": 23290,
-  "2022-09-27": 23295,
-  "2022-09-28": 23310,
-  "2022-09-29": 23314,
-  "2022-09-30": 23324,
-  "2022-10-01": 23339,
-  "2022-10-02": 23357,
-  "2022-10-03": 23372,
-  "2022-10-04": 23386,
-  "2022-10-05": 23395,
-  "2022-10-06": 23407,
-  "2022-10-07": 23414,
-  "2022-10-08": 23432,
-  "2022-10-09": 23464,
-  "2022-10-10": 23467,
-  "2022-10-11": 23473,
-  "2022-10-12": 23484,
-  "2022-10-13": 23488,
-  "2022-10-14": 23500,
-  "2022-10-15": 23530,
-  "2022-10-16": 23541,
-  "2022-10-17": 23555,
-  "2022-10-18": 23559,
-  "2022-10-19": 23564,
-  "2022-10-20": 23570,
-  "2022-10-21": 23593,
-  "2022-10-22": 23608,
-  "2022-10-23": 23622,
-  "2022-10-24": 23638,
-  "2022-10-25": 23644,
-  "2022-10-26": 23666,
-  "2022-10-27": 23677,
-  "2022-10-28": 23695,
-  "2022-10-29": 23706,
-  "2022-10-30": 23722,
-  "2022-10-31": 23738,
-  "2022-11-01": 23749,
-  "2022-11-02": 23767,
-  "2022-11-03": 23782,
-  "2022-11-04": 23800,
-  "2022-11-05": 23810,
-  "2022-11-06": 23829,
-  "2022-11-07": 23845,
-  "2022-11-08": 23858,
-  "2022-11-09": 23866,
-  "2022-11-10": 23873,
-  "2022-11-11": 23886,
-  "2022-11-12": 23898,
-  "2022-11-13": 23914,
-  "2022-11-14": 23932,
-  "2022-11-15": 23945,
-  "2022-11-16": 23955,
-  "2022-11-17": 23965,
-  "2022-11-18": 23966,
-  "2022-11-19": 23974,
-  "2022-11-20": 23986,
-  "2022-11-21": 24006,
-  "2022-11-22": 24027,
-  "2022-11-23": 24046,
-  "2022-11-24": 24064,
-  "2022-11-25": 24082,
-  "2022-11-26": 24113,
-  "2022-11-27": 24122,
-  "2022-11-28": 24130,
-  "2022-11-29": 24133,
-  "2022-11-30": 24139,
-  "2022-12-01": 24144,
-  "2022-12-02": 24148,
-  "2022-12-03": 24164,
-  "2022-12-04": 24185,
-  "2022-12-05": 24207,
-  "2022-12-06": 24211,
-  "2022-12-07": 24221,
-  "2022-12-08": 24230,
-  "2022-12-09": 24244,
-  "2022-12-10": 24258,
-  "2022-12-11": 24277,
-  "2022-12-12": 24289,
-  "2022-12-13": 24305,
-  "2022-12-14": 24308,
-  "2022-12-15": 24318,
-  "2022-12-16": 24330,
-  "2022-12-17": 24342,
-  "2022-12-18": 24358,
-  "2022-12-19": 24378,
-  "2022-12-20": 24405,
-  "2022-12-21": 24405,
-  "2022-12-22": 24417,
-  "2022-12-24": 24462,
-  "2022-12-25": 24495,
-  "2022-12-26": 24512,
-  "2022-12-27": 24525,
-  "2022-12-28": 24539,
-  "2022-12-29": 24548,
-  "2022-12-30": 24570,
-  "2022-12-31": 24592,
-  "2023-01-01": 24613,
-  "2023-01-02": 24639,
-  "2023-01-03": 24659,
-  "2023-01-04": 24665,
-  "2023-01-05": 24684,
-  "2023-01-06": 24693,
-  "2023-01-07": 24714,
-  "2023-01-08": 24717,
-  "2023-01-09": 24744,
-  "2023-01-10": 24758,
-  "2023-01-11": 24765,
-  "2023-01-12": 24779,
-  "2023-01-13": 24792,
-  "2023-01-14": 24822,
-  "2023-01-15": 24823,
-  "2023-01-16": 24855,
-  "2023-01-17": 24867,
-  "2023-01-18": 24875,
-  "2023-01-19": 24895,
-  "2023-01-20": 24904,
-  "2023-01-21": 24912,
-  "2023-01-22": 24930,
-  "2023-01-23": 24958,
-  "2023-01-24": 24972,
-  "2023-01-25": 24985,
-  "2023-01-26": 24994,
-  "2023-01-27": 25011,
-  "2023-01-28": 25024,
-  "2023-01-29": 25040,
-  "2023-01-30": 25042,
-  "2023-01-31": 25042,
-  "2023-02-01": 25080,
-  "2023-02-02": 25092,
-  "2023-02-03": 25106,
-  "2023-02-04": 25121,
-  "2023-02-05": 25139,
-  "2023-02-06": 25154,
-  "2023-02-07": 25169,
-  "2023-02-08": 25195,
-  "2023-02-09": 25195,
-  "2023-02-10": 25203,
-  "2023-02-11": 25215,
-  "2023-02-12": 25251,
-  "2023-02-13": 25259,
-  "2023-02-14": 25259,
-  "2023-02-15": 25265,
-  "2023-02-16": 25276,
-  "2023-02-17": 25279,
-  "2023-02-18": 25310,
-  "2023-02-19": 25322,
-  "2023-02-20": 25334,
-  "2023-02-21": 25341,
-  "2023-02-22": 25345,
-  "2023-02-23": 25355,
-  "2023-02-24": 25368,
-  "2023-02-25": 25390,
-  "2023-02-26": 25403,
-  "2023-02-27": 25430,
-  "2023-02-28": 25430,
-  "2023-03-01": 25437,
-  "2023-03-02": 25444,
-  "2023-03-03": 25453,
-  "2023-03-04": 25463,
-  "2023-03-05": 25502,
-  "2023-03-06": 25502,
-  "2023-03-07": 25514,
-  "2023-03-08": 25524,
-  "2023-03-09": 25540,
-  "2023-03-10": 25550,
-  "2023-03-11": 25559,
-  "2023-03-12": 25574,
-  "2023-03-13": 25594,
-  "2023-03-14": 25609,
-  "2023-03-15": 25618,
-  "2023-03-16": 25618,
-  "2023-03-17": 25618,
-  "2023-03-18": 25633,
-  "2023-03-19": 25633,
-  "2023-03-20": 25669,
-  "2023-03-21": 25678,
-  "2023-03-22": 25688,
-  "2023-03-23": 25701,
-  "2023-03-24": 25701,
-  "2023-03-25": 25712,
-  "2023-03-26": 25735,
-  "2023-03-27": 25750,
-  "2023-03-28": 25765,
-  "2023-03-29": 25780,
-  "2023-03-30": 25793,
-  "2023-03-31": 25793,
-  "2023-04-01": 25812,
-  "2023-04-02": 25835,
-  "2023-04-03": 25855,
-  "2023-04-04": 25868,
-  "2023-04-05": 25889,
-  "2023-04-06": 25907,
-  "2023-04-07": 25927,
-  "2023-04-09": 25984,
-  "2023-04-10": 26005,
-  "2023-04-11": 26029,
-  "2023-04-12": 26029,
-  "2023-04-13": 26047,
-  "2023-04-14": 26070,
-  "2023-04-15": 26080,
-  "2023-04-16": 26103,
-  "2023-04-17": 26119,
-  "2023-04-18": 26128,
-  "2023-04-19": 26136,
-  "2023-04-20": 26149,
-  "2023-04-21": 26161,
-  "2023-04-22": 26178,
-  "2023-04-23": 26197,
-  "2023-04-24": 26216,
-  "2023-04-25": 26231,
-  "2023-04-26": 26245,
-  "2023-04-27": 26259,
-  "2023-04-28": 26277,
-  "2023-04-29": 26296,
-  "2023-04-30": 26320,
-  "2023-05-01": 26336,
-  "2023-05-02": 26346,
-  "2023-05-03": 26355,
-  "2023-05-04": 26367,
-  "2023-05-05": 26380,
-  "2023-05-06": 26400,
-  "2023-05-07": 26420,
-  "2023-05-08": 26447,
-  "2023-05-09": 26451,
-  "2023-05-10": 26482,
-  "2023-05-11": 26537,
-  "2023-05-12": 26554,
-  "2023-05-13": 26571,
-  "2023-05-14": 26594,
-  "2023-05-15": 26619,
-  "2023-05-16": 26637,
-  "2023-05-17": 26647,
-  "2023-05-18": 26654,
-  "2023-05-19": 26674,
-  "2023-05-20": 26711,
-  "2023-05-21": 26711,
-  "2023-05-22": 26711,
-  "2023-05-23": 26744,
-  "2023-05-24": 26762,
-  "2023-05-25": 26764,
-  "2023-05-26": 26779,
-  "2023-05-27": 26806,
-  "2023-05-28": 26818,
-  "2023-05-29": 26818,
-  "2023-05-30": 26854,
-  "2023-05-31": 26870,
-  "2023-06-01": 26876,
-  "2023-06-02": 26894,
-  "2023-06-03": 26915,
-  "2023-06-04": 26937,
-  "2023-06-05": 26955,
-  "2023-06-06": 26965,
-  "2023-06-07": 26977,
-  "2023-06-08": 26988,
-  "2023-06-09": 26994,
-  "2023-06-10": 27009,
-  "2023-06-11": 27023,
-  "2023-06-12": 27045,
-  "2023-06-13": 27064,
-  "2023-06-14": 27080,
-  "2023-06-15": 27101,
-  "2023-06-16": 27114,
-  "2023-06-17": 27132,
-  "2023-06-18": 27151,
-  "2023-06-19": 27182,
-  "2023-06-20": 27201,
-  "2023-06-21": 27205,
-  "2023-06-22": 27211,
-  "2023-06-23": 27223,
-  "2023-06-24": 27239,
-  "2023-06-25": 27258,
-  "2023-06-26": 27282,
-  "2023-06-27": 27286,
-  "2023-06-28": 27302,
-  "2023-06-29": 27316,
-  "2023-06-30": 27330,
-  "2023-07-01": 27353,
-  "2023-07-02": 27353,
-  "2023-07-03": 27377,
-  "2023-07-04": 27376,
-  "2023-07-05": 27400,
-  "2023-07-06": 27427,
-  "2023-07-07": 27427,
-  "2023-07-08": 27443,
-  "2023-07-09": 27471,
-  "2023-07-10": 27494,
-  "2023-07-11": 27507,
-  "2023-07-12": 27520,
-  "2023-07-13": 27537,
-  "2023-07-14": 27554,
-  "2023-07-15": 27569,
-  "2023-07-16": 27595,
-  "2023-07-17": 27620,
-  "2023-07-18": 27629,
-  "2023-07-19": 27644,
-  "2023-07-20": 27648,
-  "2023-07-21": 27662,
-  "2023-07-22": 27671,
-  "2023-07-23": 27688,
-  "2023-07-24": 27700,
-  "2023-07-25": 27714,
-  "2023-07-26": 27729,
-  "2023-07-27": 27751,
-  "2023-07-28": 27766,
-  "2023-07-29": 27786,
-  "2023-07-30": 27805,
-  "2023-07-31": 27824,
-  "2023-08-01": 27832,
-  "2023-08-02": 27839,
-  "2023-08-03": 27846,
-  "2023-08-04": 27858,
-  "2023-08-05": 27870,
-  "2023-08-06": 27897,
-  "2023-08-07": 27897,
-  "2023-08-08": 27911,
-  "2023-08-09": 27925,
-  "2023-08-10": 27935,
-  "2023-08-11": 27944,
-  "2023-08-12": 27944,
-  "2023-08-13": 27944,
-  "2023-08-14": 28003,
-  "2023-08-15": 28003,
-  "2023-08-16": 28003,
-  "2023-08-17": 28003,
-  "2023-08-18": 28003,
-  "2023-08-19": 28003,
-  "2023-08-20": 28099,
-  "2023-08-21": 28099,
-  "2023-08-22": 28128,
-  "2023-08-23": 28128,
-  "2023-08-24": 28128,
-  "2023-08-25": 28128,
-  "2023-08-26": 28207,
-  "2023-08-27": 28207,
-  "2023-08-28": 28249,
-  "2023-08-29": 28249,
-  "2023-08-30": 28249,
-  "2023-08-31": 28304,
-  "2023-09-01": 28331,
-  "2023-09-02": 28331,
-  "2023-09-03": 28412,
-  "2023-09-04": 28412,
-  "2023-09-05": 28412,
-  "2023-09-06": 28455,
-  "2023-09-07": 28455,
-  "2023-09-08": 28455,
-  "2023-09-09": 28455,
-  "2023-09-10": 28545,
-  "2023-09-11": 28545,
-  "2023-09-12": 28545,
-  "2023-09-13": 28614,
-  "2023-09-14": 28614,
-  "2023-09-15": 28614,
-  "2023-09-16": 28688,
-  "2023-09-17": 28688,
-  "2023-09-18": 28688,
-  "2023-09-19": 28742,
-  "2023-09-20": 28742,
-  "2023-09-21": 28742,
-  "2023-09-22": 28770,
-  "2023-09-23": 28770,
-  "2023-09-24": 28770,
-  "2023-09-25": 28770,
-  "2023-09-26": 28823,
-  "2023-09-27": 28823,
-  "2023-09-28": 28823,
-  "2023-09-29": 28823,
-  "2023-09-30": 28823,
-  "2023-10-01": 28823,
-  "2023-10-02": 28823,
-  "2023-10-03": 28823,
-  "2023-10-04": 28823,
-  "2023-10-05": 28931,
-  "2023-10-06": 28931,
-  "2023-10-07": 28931,
-  "2023-10-08": 28931,
-  "2023-10-09": 28931,
-  "2023-10-10": 28931,
-  "2023-10-11": 28999,
-  "2023-10-12": 28999,
-  "2023-10-13": 28999,
-  "2023-10-14": 28999,
-  "2023-10-15": 28999,
-  "2023-10-16": 28999,
-  "2023-10-17": 28999,
-  "2023-10-18": 28999,
-  "2023-10-19": 28999,
-  "2023-10-20": 28999,
-  "2023-10-21": 28999,
-  "2023-10-22": 28999,
-  "2023-10-23": 28999,
-  "2023-10-24": 28999,
-  "2023-10-25": 28999,
-  "2023-10-26": 28999,
-  "2023-10-27": 28999,
-  "2023-10-28": 28999,
-  "2023-10-29": 28999,
-  "2023-10-30": 28999,
-  "2023-10-31": 28999,
-  "2023-11-01": 28999,
-  "2023-11-02": 28999,
-  "2023-11-03": 28999,
-  "2023-11-04": 28999,
-  "2023-11-05": 28999,
-  "2023-11-06": 28999,
-  "2023-11-07": 28999,
-  "2023-11-08": 28999,
-  "2023-11-09": 28999,
-  "2023-11-10": 28999,
-  "2023-11-11": 29550,
-  "2023-11-12": 29550,
-  "2023-11-13": 29550,
-  "2023-11-14": 29550,
-  "2023-11-15": 29550,
-  "2023-11-16": 29550,
-  "2023-11-17": 29550,
-  "2023-11-18": 29550,
-  "2023-11-19": 29550,
-  "2023-11-20": 29550,
-  "2023-11-21": 29550,
-  "2023-11-22": 29550,
-  "2023-11-23": 29550,
-  "2023-11-24": 29550,
-  "2023-11-25": 29550,
-  "2023-11-26": 29550,
-  "2023-11-27": 29550,
-  "2023-11-28": 29550,
-  "2023-11-29": 29550,
-  "2023-11-30": 29550,
-  "2023-12-01": 29550,
-  "2023-12-02": 29550,
-  "2023-12-03": 29550,
-  "2023-12-04": 29550,
-  "2023-12-05": 29550,
-  "2023-12-06": 29550,
-  "2023-12-07": 29550,
-  "2023-12-08": 29550,
-  "2023-12-09": 29550,
-  "2023-12-10": 29550,
-  "2023-12-11": 29550,
-  "2023-12-12": 29550,
-  "2023-12-13": 29550,
-  "2023-12-14": 30036,
-  "2023-12-15": 30043,
-  "2023-12-16": 30062,
-  "2023-12-17": 30072,
-  "2023-12-18": 30085,
-  "2023-12-19": 30095,
-  "2023-12-20": 30115,
-  "2023-12-21": 30127,
-  "2023-12-22": 30142,
-  "2023-12-23": 30161,
-  "2023-12-24": 30188,
-  "2023-12-25": 30227,
-  "2023-12-26": 30253,
-  "2023-12-27": 30273,
-  "2023-12-30": 30314,
-  "2023-12-31": 30341,
-  "2024-01-01": 30375,
-  "2024-01-02": 30394,
-  "2024-01-03": 30397
+  "2024-01-17": 30506,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
+  "name": "This Is Carlos Y Jose",
+  "tracks": [
+    {
+      "album": {
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Al Pie De Un Arbol",
+      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 179280,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/53bk8gYAjNAtz9s6uEtOB7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/0kUbjY97T4F4GLjYPdGUek"
+    },
+    {
+      "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s"
+    },
+    {
+      "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ay Que Triste!",
+        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 150226,
+      "name": "Beto Molina",
+      "url": "https://open.spotify.com/track/23IFCQgkLCcfRTXBYIUTFS"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Cada Copa",
+      "url": "https://open.spotify.com/track/2Zlf3gGvkONYYEnayQkXX6"
+    },
+    {
+      "album": {
+        "name": "Los 15 Mejores Corridos de Carlos y Jose, Vol. 1",
+        "url": "https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 190666,
+      "name": "Carga Blanca",
+      "url": "https://open.spotify.com/track/4Y5bCHdJG6kRx8ounxTqlg"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Cheque Al Portador",
+      "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138440,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/2odo6Lq6sOadOslMxzkGMw"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 193493,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/3kk0EWEnEwkqfhUb3ivUBx"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "Corrido De Armando Mart\u00ednez",
+      "url": "https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr"
+    },
+    {
+      "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
+      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
+    },
+    {
+      "album": {
+        "name": "Coleccion Superma Plus- Carlos Y Jose",
+        "url": "https://open.spotify.com/album/2K2mjjkSyQp0Ote1B3aCaY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 163013,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 157626,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/3jT3Rt7yQvoi2xVkJS9h7V"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 157701,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+    },
+    {
+      "album": {
+        "name": "Los Monstruos Del Corrido",
+        "url": "https://open.spotify.com/album/1PQZACqo58aGGs0ni2Xpcc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 199520,
+      "name": "El Arbol De La Horca",
+      "url": "https://open.spotify.com/track/6Unaw76VUQCRt5xSEDGqKQ"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "El Capitan Fantasma",
+      "url": "https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 188946,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/5hWgvf26WNDS7kfYp5v7IS"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "El Corrido De La Amapola",
+      "url": "https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo"
+    },
+    {
+      "album": {
+        "name": "El Gallo De San Juan",
+        "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "El Gallo De San Juan",
+      "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "El Jardin De Las Flores",
+      "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+    },
+    {
+      "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
+    },
+    {
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
+    },
+    {
+      "album": {
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "El Odio De Dos Hermanos",
+      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
+    },
+    {
+      "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 185520,
+      "name": "El Prisionero De San Juan De Ul\u00faa",
+      "url": "https://open.spotify.com/track/1aX0ProVmSEQIrP29QZZpp"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "El Quemador",
+      "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "El Rayo De Sinaloa",
+      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "El Rico Pobre",
+      "url": "https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb"
+    },
+    {
+      "album": {
+        "name": "Noches Eternas",
+        "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149826,
+      "name": "El Sauce Y La Palma",
+      "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
+    },
+    {
+      "album": {
+        "name": "Corridos De Caballos Famosos Con",
+        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
+    },
+    {
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142160,
+      "name": "El Taxista Enamorado",
+      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
+    },
+    {
+      "album": {
+        "name": "Los 15 Mejores Corridos de Carlos y Jose, Vol. 1",
+        "url": "https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 192333,
+      "name": "El Tres Dedos",
+      "url": "https://open.spotify.com/track/6UeGjn8CkmZYA1Wb6NvkT9"
+    },
+    {
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176280,
+      "name": "El Vengador de Federales",
+      "url": "https://open.spotify.com/track/6Kh562k6QThvyqq6ao1zd3"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-27",
+      "duration_ms": 176893,
+      "name": "El Vengador de los Federales",
+      "url": "https://open.spotify.com/track/2qolfM6jIjHcQ19oJTS1kB"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "El Vino Y La Parranda",
+      "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 128666,
+      "name": "Flor De Las Flores",
+      "url": "https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 207613,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207673,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
+    },
+    {
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 233413,
+      "name": "Jacinto el Tullido",
+      "url": "https://open.spotify.com/track/1WAaIX3DOlmBMfLD2tnNXV"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 203626,
+      "name": "Jacinto Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/34vgrochxz5O9QPrz1peLq"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 203702,
+      "name": "Jacinto Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Jorge Y El Comandante",
+      "url": "https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Jos\u00e9 Silva S\u00e1nchez",
+      "url": "https://open.spotify.com/track/71V2zS4cG5SN3rizPa6K8S"
+    },
+    {
+      "album": {
+        "name": "Los 15 Mejores Corridos de Carlos y Jose, Vol. 1",
+        "url": "https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 166000,
+      "name": "Juanita y Miguel",
+      "url": "https://open.spotify.com/track/1hBvx69jOTLHYPPmKMZ55O"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
+        "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 177000,
+      "name": "La Amapola",
+      "url": "https://open.spotify.com/track/1urkLh3lci1vMfMJOUc2y2"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2"
+    },
+    {
+      "album": {
+        "name": "Corridos Pal Jefe",
+        "url": "https://open.spotify.com/album/6JH1399KblhXLCUlJqJ9Fx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "La Cuerva De La Petaca",
+      "url": "https://open.spotify.com/track/7wnQcqvcRvDWThWabN9BMs"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174573,
+      "name": "La Emboscada Del Gallo",
+      "url": "https://open.spotify.com/track/1IbrUgORKmQVk6lbqY73eW"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Albur de Amor",
+        "url": "https://open.spotify.com/album/46qSRrnbd4My7mcFzuVSVI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 185173,
+      "name": "La Mata de Sand\u00eda",
+      "url": "https://open.spotify.com/track/6TsHzzIwCxI6lsvfJFvWis"
+    },
+    {
+      "album": {
+        "name": "Nuestros 15 Exitos",
+        "url": "https://open.spotify.com/album/7sXgyxW5GwAQfMTWA9NbWY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 191791,
+      "name": "La Noria Escondida",
+      "url": "https://open.spotify.com/track/0H3GAtMSZMEF6gdcq7qvEg"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+    },
+    {
+      "album": {
+        "name": "Tres Tumbas",
+        "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168520,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
+    },
+    {
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "Los Dos Contrabandos",
+      "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Los Federales De Caminos",
+      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
+    },
+    {
+      "album": {
+        "name": "Lo Dulce Y Lo Amargo",
+        "url": "https://open.spotify.com/album/1GiLhT7ASsEedLKoViDQOJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 146693,
+      "name": "Los Horoscopos",
+      "url": "https://open.spotify.com/track/3bBDCBuzpAGSfmOCyw31Uf"
+    },
+    {
+      "album": {
+        "name": "Grandes Canciones",
+        "url": "https://open.spotify.com/album/084lTJZiqiPOLBiPlnnGYr"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 209200,
+      "name": "Los Valientes De Teran",
+      "url": "https://open.spotify.com/track/0hKxFIJAUmxWfff2aciU9Q"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Luis Mart\u00ednez De La Campana",
+      "url": "https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 181720,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/2ijdMgCQVTKqyLqjEJnDXZ"
+    },
+    {
+      "album": {
+        "name": "Puros Exitos",
+        "url": "https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "Modesta Ayala",
+      "url": "https://open.spotify.com/track/4StR1lNQoe9ngAUFjbi2dk"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 206106,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/0BDlZpSr5IJoRm4C6R9dh1"
+    },
+    {
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161613,
+      "name": "Pancho Trevi\u00f1o",
+      "url": "https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Pescadores De Ensenada",
+      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
+    },
+    {
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146280,
+      "name": "Que Tristeza Me Acompa\u00f1a",
+      "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
+    },
+    {
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Santos Cant\u00fa",
+      "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
+    },
+    {
+      "album": {
+        "name": "Una Rosa De Castilla",
+        "url": "https://open.spotify.com/album/0Yt7GYHYoJseY90TbBqmZP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Se Vende Esta Casa",
+      "url": "https://open.spotify.com/track/3gkodEP1PBS8fAhBJyW1xE"
+    },
+    {
+      "album": {
+        "name": "Sus Exitos #1",
+        "url": "https://open.spotify.com/album/061jz0WaMwdoTM3kQhDnPz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 197160,
+      "name": "Se\u00f1orita Cantinera",
+      "url": "https://open.spotify.com/track/7uJoaVON7EZpkNEpnltLnE"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165880,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
+    },
+    {
+      "album": {
+        "name": "Tengo A Mi Lupe",
+        "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Tengo A Mi Lupe Aka Mi Lupita",
+      "url": "https://open.spotify.com/track/0kbnsN5La8x5adu0AeebTT"
+    },
+    {
+      "album": {
+        "name": "Una Noche Serena Y Obscura",
+        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 249226,
+      "name": "Una Noche Serena Y Oscura",
+      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
+    },
+    {
+      "album": {
+        "name": "Nuestros Grandes 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "\u00c1rboles de la Barranca",
+      "url": "https://open.spotify.com/track/0DCWVnZP7u6h0FcjqE1wVB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel"
 }

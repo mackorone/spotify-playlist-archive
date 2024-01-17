@@ -1,275 +1,1539 @@
 {
-  "2023-04-03": 478489,
-  "2023-04-04": 479436,
-  "2023-04-05": 480322,
-  "2023-04-06": 481280,
-  "2023-04-07": 482138,
-  "2023-04-09": 483572,
-  "2023-04-10": 484232,
-  "2023-04-11": 485899,
-  "2023-04-12": 485899,
-  "2023-04-13": 486861,
-  "2023-04-14": 487842,
-  "2023-04-15": 488789,
-  "2023-04-16": 489579,
-  "2023-04-17": 490377,
-  "2023-04-18": 491401,
-  "2023-04-19": 492391,
-  "2023-04-20": 493403,
-  "2023-04-21": 494373,
-  "2023-04-22": 495362,
-  "2023-04-23": 496251,
-  "2023-04-24": 497083,
-  "2023-04-25": 498015,
-  "2023-04-26": 498976,
-  "2023-04-27": 499978,
-  "2023-04-28": 501041,
-  "2023-04-29": 502007,
-  "2023-04-30": 502893,
-  "2023-05-01": 503607,
-  "2023-05-02": 504322,
-  "2023-05-03": 505122,
-  "2023-05-04": 505929,
-  "2023-05-05": 506845,
-  "2023-05-06": 507750,
-  "2023-05-07": 508571,
-  "2023-05-08": 509387,
-  "2023-05-09": 510189,
-  "2023-05-10": 510935,
-  "2023-05-11": 511706,
-  "2023-05-12": 512440,
-  "2023-05-13": 513121,
-  "2023-05-14": 513784,
-  "2023-05-15": 514434,
-  "2023-05-16": 515097,
-  "2023-05-17": 515763,
-  "2023-05-18": 516431,
-  "2023-05-19": 517148,
-  "2023-05-20": 518316,
-  "2023-05-21": 518316,
-  "2023-05-22": 518316,
-  "2023-05-23": 519437,
-  "2023-05-24": 520400,
-  "2023-05-25": 520538,
-  "2023-05-26": 521108,
-  "2023-05-27": 521623,
-  "2023-05-28": 522147,
-  "2023-05-29": 522147,
-  "2023-05-30": 523174,
-  "2023-05-31": 523688,
-  "2023-06-01": 524177,
-  "2023-06-02": 524679,
-  "2023-06-03": 525242,
-  "2023-06-04": 525722,
-  "2023-06-05": 526211,
-  "2023-06-06": 526671,
-  "2023-06-07": 527186,
-  "2023-06-08": 527712,
-  "2023-06-09": 528258,
-  "2023-06-10": 528740,
-  "2023-06-11": 529268,
-  "2023-06-12": 529698,
-  "2023-06-13": 530150,
-  "2023-06-14": 530389,
-  "2023-06-15": 530747,
-  "2023-06-16": 107019,
-  "2023-06-17": 107019,
-  "2023-06-18": 107019,
-  "2023-06-19": 107019,
-  "2023-06-20": 107019,
-  "2023-06-21": 107019,
-  "2023-06-22": 107019,
-  "2023-06-23": 107019,
-  "2023-06-24": 107019,
-  "2023-06-25": 107019,
-  "2023-06-26": 107019,
-  "2023-06-27": 107019,
-  "2023-06-28": 107019,
-  "2023-06-29": 107019,
-  "2023-06-30": 107019,
-  "2023-07-01": 107019,
-  "2023-07-02": 107019,
-  "2023-07-03": 107019,
-  "2023-07-04": 107019,
-  "2023-07-05": 107019,
-  "2023-07-06": 107019,
-  "2023-07-07": 107019,
-  "2023-07-08": 107019,
-  "2023-07-09": 107019,
-  "2023-07-10": 107019,
-  "2023-07-11": 107019,
-  "2023-07-12": 107019,
-  "2023-07-13": 107019,
-  "2023-07-14": 107019,
-  "2023-07-15": 107019,
-  "2023-07-16": 107019,
-  "2023-07-17": 107019,
-  "2023-07-18": 107019,
-  "2023-07-19": 107019,
-  "2023-07-20": 107019,
-  "2023-07-21": 107019,
-  "2023-07-22": 107019,
-  "2023-07-23": 107019,
-  "2023-07-24": 107019,
-  "2023-07-25": 107019,
-  "2023-07-26": 107019,
-  "2023-07-27": 107019,
-  "2023-07-28": 107019,
-  "2023-07-29": 107019,
-  "2023-07-30": 107019,
-  "2023-07-31": 107019,
-  "2023-08-01": 107019,
-  "2023-08-02": 107019,
-  "2023-08-03": 107019,
-  "2023-08-04": 107019,
-  "2023-08-05": 107019,
-  "2023-08-06": 107019,
-  "2023-08-07": 107019,
-  "2023-08-08": 107019,
-  "2023-08-09": 107019,
-  "2023-08-10": 107019,
-  "2023-08-11": 107019,
-  "2023-08-12": 107019,
-  "2023-08-13": 107019,
-  "2023-08-14": 107019,
-  "2023-08-15": 107019,
-  "2023-08-16": 107019,
-  "2023-08-17": 107019,
-  "2023-08-18": 107019,
-  "2023-08-19": 107019,
-  "2023-08-20": 107019,
-  "2023-08-21": 107019,
-  "2023-08-22": 107019,
-  "2023-08-23": 107019,
-  "2023-08-24": 107019,
-  "2023-08-25": 107019,
-  "2023-08-26": 107019,
-  "2023-08-27": 107019,
-  "2023-08-28": 107019,
-  "2023-08-29": 107019,
-  "2023-08-30": 107019,
-  "2023-08-31": 107019,
-  "2023-09-01": 107019,
-  "2023-09-02": 107019,
-  "2023-09-03": 107019,
-  "2023-09-04": 107019,
-  "2023-09-05": 107019,
-  "2023-09-06": 107019,
-  "2023-09-07": 107019,
-  "2023-09-08": 107019,
-  "2023-09-09": 107019,
-  "2023-09-10": 107019,
-  "2023-09-11": 107019,
-  "2023-09-12": 107019,
-  "2023-09-13": 107019,
-  "2023-09-14": 107019,
-  "2023-09-15": 107019,
-  "2023-09-16": 107019,
-  "2023-09-17": 107019,
-  "2023-09-18": 107019,
-  "2023-09-19": 107019,
-  "2023-09-20": 107019,
-  "2023-09-21": 107019,
-  "2023-09-22": 107019,
-  "2023-09-23": 107019,
-  "2023-09-24": 107019,
-  "2023-09-25": 107019,
-  "2023-09-26": 107019,
-  "2023-09-27": 107019,
-  "2023-09-28": 107019,
-  "2023-09-29": 107019,
-  "2023-09-30": 107019,
-  "2023-10-01": 107019,
-  "2023-10-02": 107019,
-  "2023-10-03": 107019,
-  "2023-10-04": 107019,
-  "2023-10-05": 107019,
-  "2023-10-06": 107019,
-  "2023-10-07": 107019,
-  "2023-10-08": 107019,
-  "2023-10-09": 107019,
-  "2023-10-10": 107019,
-  "2023-10-11": 107019,
-  "2023-10-12": 107019,
-  "2023-10-13": 107019,
-  "2023-10-14": 107019,
-  "2023-10-15": 107019,
-  "2023-10-16": 107019,
-  "2023-10-17": 107019,
-  "2023-10-18": 107019,
-  "2023-10-19": 107019,
-  "2023-10-20": 107019,
-  "2023-10-21": 107019,
-  "2023-10-22": 107019,
-  "2023-10-23": 107019,
-  "2023-10-24": 107019,
-  "2023-10-25": 107019,
-  "2023-10-26": 107019,
-  "2023-10-27": 107019,
-  "2023-10-28": 107019,
-  "2023-10-29": 107019,
-  "2023-10-30": 107019,
-  "2023-10-31": 107019,
-  "2023-11-01": 107019,
-  "2023-11-02": 107019,
-  "2023-11-03": 107019,
-  "2023-11-04": 107019,
-  "2023-11-05": 107019,
-  "2023-11-06": 107019,
-  "2023-11-07": 107019,
-  "2023-11-08": 107019,
-  "2023-11-09": 107019,
-  "2023-11-10": 107019,
-  "2023-11-11": 107019,
-  "2023-11-12": 107019,
-  "2023-11-13": 107019,
-  "2023-11-14": 107019,
-  "2023-11-15": 107019,
-  "2023-11-16": 107019,
-  "2023-11-17": 107019,
-  "2023-11-18": 107019,
-  "2023-11-19": 107019,
-  "2023-11-20": 107019,
-  "2023-11-21": 107019,
-  "2023-11-22": 107019,
-  "2023-11-23": 107019,
-  "2023-11-24": 107019,
-  "2023-11-25": 107019,
-  "2023-11-26": 107019,
-  "2023-11-27": 107019,
-  "2023-11-28": 107019,
-  "2023-11-29": 107019,
-  "2023-11-30": 107019,
-  "2023-12-01": 107019,
-  "2023-12-02": 107019,
-  "2023-12-03": 107019,
-  "2023-12-04": 107019,
-  "2023-12-05": 107019,
-  "2023-12-06": 107019,
-  "2023-12-07": 107019,
-  "2023-12-08": 107019,
-  "2023-12-09": 107019,
-  "2023-12-10": 107019,
-  "2023-12-11": 107019,
-  "2023-12-12": 107019,
-  "2023-12-13": 107019,
-  "2023-12-14": 107019,
-  "2023-12-15": 107019,
-  "2023-12-16": 107019,
-  "2023-12-17": 107019,
-  "2023-12-18": 107019,
-  "2023-12-19": 107019,
-  "2023-12-20": 107019,
-  "2023-12-21": 107019,
-  "2023-12-22": 107019,
-  "2023-12-23": 107019,
-  "2023-12-24": 107019,
-  "2023-12-25": 107019,
-  "2023-12-26": 107019,
-  "2023-12-27": 107019,
-  "2023-12-30": 107019,
-  "2023-12-31": 107019,
-  "2024-01-01": 107019,
-  "2024-01-02": 107019,
-  "2024-01-03": 107019
+  "2024-01-17": 107019,
+  "date_first_scraped": "2023-04-03",
+  "description": "There is only one Tyler, The Creator. ",
+  "name": "This Is Tyler, The Creator ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Aaron Shaw",
+          "url": "https://open.spotify.com/artist/0qPySm8H94HasHkSadRyie"
+        },
+        {
+          "name": "Samantha Nelson",
+          "url": "https://open.spotify.com/artist/3fzwnXOacJxjIFyGEr2WEN"
+        },
+        {
+          "name": "Austin Feinstein",
+          "url": "https://open.spotify.com/artist/5rgx5RylXHdByD9Px1mmXw"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409779,
+      "name": "2SEATER (feat. Aaron Shaw, Samantha Nelson & Austin Feinstein)",
+      "url": "https://open.spotify.com/track/6Xw3iWrQKgArwlRhVuU9CK"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "48",
+      "url": "https://open.spotify.com/track/2wK7y55bzry7tUDmDqYaz7"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255653,
+      "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "A BOY IS A GUN*",
+      "url": "https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "ARE WE STILL FRIENDS?",
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/6c7l5gpEyCNGr86jsWneGy"
+    },
+    {
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "album": {
+        "name": "Biking",
+        "url": "https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277520,
+      "name": "Biking",
+      "url": "https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57667,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/2X5m6irq8boS50Efx4oWew"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320720,
+      "name": "Boredom (feat. Rex Orange County & Anna of the North)",
+      "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
+    },
+    {
+      "album": {
+        "name": "Cash In Cash Out",
+        "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216135,
+      "name": "Cash In Cash Out",
+      "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213320,
+      "name": "Colossus",
+      "url": "https://open.spotify.com/track/5AnVuHLmgipXkFmBvj2Q6H"
+    },
+    {
+      "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Come On, Let's Go (with Nigo)",
+      "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146481,
+      "name": "CORSO",
+      "url": "https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Cole Alexander",
+          "url": "https://open.spotify.com/artist/1DB04hRRMsK7frWSjxQOxn"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189702,
+      "name": "DEATHCAMP (feat. Cole Alexander)",
+      "url": "https://open.spotify.com/track/1dXYBALYTj3AMxa8hgiQhA"
+    },
+    {
+      "album": {
+        "name": "DOGTOOTH",
+        "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Domo23",
+      "url": "https://open.spotify.com/track/75kiQfmmuQwgquZ9RLSvuA"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Droppin' Seeds (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "EARFQUAKE",
+      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Enjoy Right Now, Today",
+      "url": "https://open.spotify.com/track/3R1Vu4Ws7UitwDxDHTol0P"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179042,
+      "name": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
+      "url": "https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Foreword (feat. Rex Orange County)",
+      "url": "https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Chaz Bundick",
+          "url": "https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401572,
+      "name": "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)",
+      "url": "https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "Garden Shed (feat. Estelle)",
+      "url": "https://open.spotify.com/track/6ACiYjq5Q7e6BlhZEHz7cd"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/0qtK3XwbuG153dmwB8iepL"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408520,
+      "name": "Goblin",
+      "url": "https://open.spotify.com/track/5LJD1sBRPnDkhWs2D5qRk2"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375386,
+      "name": "GONE, GONE / THANK YOU",
+      "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
+    },
+    {
+      "album": {
+        "name": "Gravity (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "DJ Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214692,
+      "name": "Gravity (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "album": {
+        "name": "GROUP B",
+        "url": "https://open.spotify.com/album/5ufhf4tUkvX78Y8nJgXlqw"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118466,
+      "name": "GROUP B",
+      "url": "https://open.spotify.com/track/3NnINnjKVVs03xat0qLQFx"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155292,
+      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "I Ain't Got Time!",
+      "url": "https://open.spotify.com/track/430qNtapCS3Ue1yoSql1oV"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "I DON'T LOVE YOU ANYMORE",
+      "url": "https://open.spotify.com/track/5A0M6B0RBSXSNWv0wcppZ9"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "I THINK",
+      "url": "https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319253,
+      "name": "IFHY (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "IGOR'S THEME",
+      "url": "https://open.spotify.com/track/51RN0kzWd7xeR4th5HsEtW"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146419,
+      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130979,
+      "name": "LEMONHEAD (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR"
+    },
+    {
+      "album": {
+        "name": "LUMBERJACK",
+        "url": "https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138312,
+      "name": "LUMBERJACK",
+      "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175122,
+      "name": "MANIFESTO (feat. Domo Genesis)",
+      "url": "https://open.spotify.com/track/6qouBO0wJtYc3k7DfKRUBx"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223718,
+      "name": "MASSA",
+      "url": "https://open.spotify.com/track/2goHCrsDJaflEwQ930ef0o"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70926,
+      "name": "MOMMA TALK",
+      "url": "https://open.spotify.com/track/2HrRwAKgIzjTeuKoaj4akH"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225346,
+      "name": "November",
+      "url": "https://open.spotify.com/track/4XDpeWqPADoWRKcUY3dC84"
+    },
+    {
+      "album": {
+        "name": "OKRA",
+        "url": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "OKRA",
+      "url": "https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438493,
+      "name": "PartyIsntOver/Campfire/Bimmer (feat. Frank Ocean & Laetitia Sadier)",
+      "url": "https://open.spotify.com/track/04QTBqa3IA4ZAKEuqRPzEH"
+    },
+    {
+      "album": {
+        "name": "Peach Fuzz",
+        "url": "https://open.spotify.com/album/0mON6NgLc1WR44HQ3CkNZb"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156546,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/0F58GE2TtHBim5o4ZTQUwK"
+    },
+    {
+      "album": {
+        "name": "Potato Salad",
+        "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Potato Salad",
+      "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Pothole (feat. Jaden Smith)",
+      "url": "https://open.spotify.com/track/5SxlUF7J8tyFIEF22EomeP"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "PUPPET",
+      "url": "https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438333,
+      "name": "Radicals",
+      "url": "https://open.spotify.com/track/5a2vYvmIWmtA8KcUTthpRk"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203588,
+      "name": "RISE! (feat. DAISY WORLD)",
+      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229564,
+      "name": "RUNITUP (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/13HsOwrwTA5HgLuoaDHncP"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177226,
+      "name": "RUNNING OUT OF TIME",
+      "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177742,
+      "name": "SAFARI",
+      "url": "https://open.spotify.com/track/09xpQPfKWdio1wx6v17dGa"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Hodgy",
+          "url": "https://open.spotify.com/artist/4sXi6Uq6IzBaLfFi8wlb3I"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291226,
+      "name": "Sandwitches",
+      "url": "https://open.spotify.com/track/48dxLly3L9QERpreYM7MKv"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253386,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88624,
+      "name": "SIR BAUDELAIRE (feat. DJ Drama)",
+      "url": "https://open.spotify.com/track/4ydmav4vl7hebadtfZtMrg"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334363,
+      "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
+      "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
+    },
+    {
+      "album": {
+        "name": "Alfredo",
+        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Something to Rap About (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588139,
+      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253746,
+      "name": "Tron Cat",
+      "url": "https://open.spotify.com/track/3o3K5bwHFP36MqOLa0WSw3"
+    },
+    {
+      "album": {
+        "name": "Fear of God II: Let Us Pray",
+        "url": "https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Trouble on My Mind",
+      "url": "https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A"
+    },
+    {
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "WHAT'S GOOD",
+      "url": "https://open.spotify.com/track/6bOkaEXc5CopinGazSLokx"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Where This Flower Blooms (feat. Frank Ocean)",
+      "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Who Dat Boy (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515865,
+      "name": "WILSHIRE",
+      "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
+    },
+    {
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109893,
+      "name": "WOLF",
+      "url": "https://open.spotify.com/track/2JZpS2sOdJy37oBpn1GuPW"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121572,
+      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "album": {
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Yonkers",
+      "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8IzjtXj8ThV"
 }

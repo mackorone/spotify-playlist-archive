@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. ❄️ Check back in March for Primavera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,872 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,992 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

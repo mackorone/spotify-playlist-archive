@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Kalipsxau",
+  "description": "Les hits zouk du moment. Photo : L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
+    {
+      "album": {
+        "name": "Antananarivo",
+        "url": "https://open.spotify.com/album/376mfcAcLzP0TuKmrzvX0R"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ANTANANARIVO",
+      "url": "https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm"
+    },
     {
       "album": {
         "name": "Baby Oh",
@@ -108,6 +130,24 @@
       "duration_ms": 187500,
       "name": "Cadence",
       "url": "https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj"
+    },
+    {
+      "album": {
+        "name": "City Road",
+        "url": "https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134906,
+      "name": "City Road",
+      "url": "https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5"
     },
     {
       "album": {
@@ -366,6 +406,28 @@
       "duration_ms": 158352,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
+    },
+    {
+      "album": {
+        "name": "Intouchable",
+        "url": "https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha"
+      },
+      "artists": [
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        },
+        {
+          "name": "Phyllisia Ross",
+          "url": "https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "Intouchable",
+      "url": "https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk"
     },
     {
       "album": {
@@ -976,7 +1038,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 166022,
       "name": "Oublie Dehors",
       "url": "https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5"
@@ -1208,7 +1270,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 273815,
       "name": "STOP CA",
       "url": "https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0"
@@ -1226,10 +1288,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 169090,
       "name": "S\u00e9 Vou",
       "url": "https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6"
+    },
+    {
+      "album": {
+        "name": "Tellement doux",
+        "url": "https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j"
+      },
+      "artists": [
+        {
+          "name": "Liljooe",
+          "url": "https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195949,
+      "name": "Tellement doux",
+      "url": "https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR"
     },
     {
       "album": {
@@ -1470,7 +1550,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 221590,
       "name": "Visa",
       "url": "https://open.spotify.com/track/5DBZASQQb9BjZeYyjuA1WG"

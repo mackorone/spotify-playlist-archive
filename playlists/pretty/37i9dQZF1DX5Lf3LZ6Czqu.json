@@ -1,13 +1,37 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
-  "num_followers": 135462,
+  "num_followers": 135942,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjk5OWU5ZGM2YWNmMmY1MzljOWJlYWY5Y2QwZTM3MjFmYWY1M2Jj",
+  "snapshot_id": "MCwxODg4ZGIyYjYxYWFjZDZlNDI4ZTc5ZGMwNThjNDUxMWFhNzJkOTM1",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Around The Galaxy",
+        "url": "https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8"
+      },
+      "artists": [
+        {
+          "name": "AF\u00d8NK",
+          "url": "https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE"
+        },
+        {
+          "name": "Varra",
+          "url": "https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R"
+        },
+        {
+          "name": "Lorenzo Ceci",
+          "url": "https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Around The Galaxy",
+      "url": "https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq"
+    },
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
@@ -1309,22 +1333,6 @@
       "url": "https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40"
     },
     {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Theme from a Perfect World",
-        "url": "https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi"
-      },
-      "artists": [
-        {
-          "name": "Andy Timmons",
-          "url": "https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj"
-        }
-      ],
-      "duration_ms": 446927,
-      "name": "Theme from a Perfect World",
-      "url": "https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Seventeen",
@@ -1695,22 +1703,6 @@
       "duration_ms": 397411,
       "name": "Dirty Grease - Extended Version",
       "url": "https://open.spotify.com/track/0tzv5R7yFjUHlLK1VcC4pA"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/03k5c6BMyXdk4D2CE9zOQP"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/05RLMlOEa3HZn574VsLWxf"
     },
     {
       "added_at": "2022-10-11 14:34:22",

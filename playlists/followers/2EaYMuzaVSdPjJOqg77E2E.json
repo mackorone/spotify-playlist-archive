@@ -1,735 +1,1877 @@
 {
-  "2021-12-25": 431,
-  "2021-12-26": 431,
-  "2021-12-27": 431,
-  "2021-12-28": 431,
-  "2021-12-29": 431,
-  "2021-12-30": 431,
-  "2021-12-31": 431,
-  "2022-01-01": 431,
-  "2022-01-02": 431,
-  "2022-01-03": 431,
-  "2022-01-04": 431,
-  "2022-01-05": 431,
-  "2022-01-06": 431,
-  "2022-01-07": 431,
-  "2022-01-08": 431,
-  "2022-01-09": 431,
-  "2022-01-10": 431,
-  "2022-01-11": 430,
-  "2022-01-12": 430,
-  "2022-01-13": 429,
-  "2022-01-14": 429,
-  "2022-01-15": 429,
-  "2022-01-16": 429,
-  "2022-01-17": 429,
-  "2022-01-18": 429,
-  "2022-01-19": 429,
-  "2022-01-20": 429,
-  "2022-01-21": 429,
-  "2022-01-22": 429,
-  "2022-01-23": 429,
-  "2022-01-24": 429,
-  "2022-01-25": 429,
-  "2022-01-26": 429,
-  "2022-01-27": 429,
-  "2022-01-28": 429,
-  "2022-01-29": 429,
-  "2022-01-30": 429,
-  "2022-01-31": 429,
-  "2022-02-01": 429,
-  "2022-02-02": 429,
-  "2022-02-03": 429,
-  "2022-02-04": 429,
-  "2022-02-05": 429,
-  "2022-02-06": 429,
-  "2022-02-07": 429,
-  "2022-02-08": 429,
-  "2022-02-09": 429,
-  "2022-02-10": 429,
-  "2022-02-11": 429,
-  "2022-02-12": 429,
-  "2022-02-13": 429,
-  "2022-02-14": 429,
-  "2022-02-15": 429,
-  "2022-02-16": 429,
-  "2022-02-17": 429,
-  "2022-02-18": 429,
-  "2022-02-19": 429,
-  "2022-02-20": 429,
-  "2022-02-21": 429,
-  "2022-02-22": 429,
-  "2022-02-23": 429,
-  "2022-02-24": 429,
-  "2022-02-25": 429,
-  "2022-02-26": 429,
-  "2022-02-27": 429,
-  "2022-02-28": 429,
-  "2022-03-01": 429,
-  "2022-03-02": 429,
-  "2022-03-03": 429,
-  "2022-03-04": 429,
-  "2022-03-05": 429,
-  "2022-03-06": 429,
-  "2022-03-07": 429,
-  "2022-03-08": 429,
-  "2022-03-09": 429,
-  "2022-03-10": 429,
-  "2022-03-11": 429,
-  "2022-03-12": 429,
-  "2022-03-13": 429,
-  "2022-03-14": 429,
-  "2022-03-15": 429,
-  "2022-03-16": 429,
-  "2022-03-17": 429,
-  "2022-03-18": 428,
-  "2022-03-19": 428,
-  "2022-03-20": 428,
-  "2022-03-21": 428,
-  "2022-03-22": 428,
-  "2022-03-23": 428,
-  "2022-03-24": 428,
-  "2022-03-25": 428,
-  "2022-03-26": 428,
-  "2022-03-27": 428,
-  "2022-03-28": 428,
-  "2022-03-30": 428,
-  "2022-03-31": 428,
-  "2022-04-01": 428,
-  "2022-04-02": 428,
-  "2022-04-03": 428,
-  "2022-04-04": 423,
-  "2022-04-05": 428,
-  "2022-04-06": 428,
-  "2022-04-07": 428,
-  "2022-04-08": 428,
-  "2022-04-09": 428,
-  "2022-04-10": 428,
-  "2022-04-11": 428,
-  "2022-04-12": 428,
-  "2022-04-13": 428,
-  "2022-04-14": 428,
-  "2022-04-15": 428,
-  "2022-04-16": 428,
-  "2022-04-17": 428,
-  "2022-04-18": 428,
-  "2022-04-19": 428,
-  "2022-04-20": 428,
-  "2022-04-21": 428,
-  "2022-04-22": 428,
-  "2022-04-23": 428,
-  "2022-04-24": 428,
-  "2022-04-25": 428,
-  "2022-04-26": 428,
-  "2022-04-27": 428,
-  "2022-04-28": 428,
-  "2022-04-29": 427,
-  "2022-04-30": 427,
-  "2022-05-01": 427,
-  "2022-05-02": 427,
-  "2022-05-03": 427,
-  "2022-05-04": 427,
-  "2022-05-05": 427,
-  "2022-05-06": 427,
-  "2022-05-07": 426,
-  "2022-05-08": 426,
-  "2022-05-09": 426,
-  "2022-05-10": 426,
-  "2022-05-11": 426,
-  "2022-05-12": 426,
-  "2022-05-13": 426,
-  "2022-05-14": 426,
-  "2022-05-15": 426,
-  "2022-05-16": 426,
-  "2022-05-17": 425,
-  "2022-05-18": 425,
-  "2022-05-19": 425,
-  "2022-05-20": 425,
-  "2022-05-21": 425,
-  "2022-05-22": 425,
-  "2022-05-23": 425,
-  "2022-05-24": 425,
-  "2022-05-25": 425,
-  "2022-05-26": 425,
-  "2022-05-27": 425,
-  "2022-05-28": 425,
-  "2022-05-29": 425,
-  "2022-05-30": 425,
-  "2022-05-31": 425,
-  "2022-06-01": 425,
-  "2022-06-02": 425,
-  "2022-06-03": 425,
-  "2022-06-04": 425,
-  "2022-06-05": 425,
-  "2022-06-06": 425,
-  "2022-06-07": 425,
-  "2022-06-08": 425,
-  "2022-06-09": 425,
-  "2022-06-10": 425,
-  "2022-06-11": 425,
-  "2022-06-12": 425,
-  "2022-06-13": 425,
-  "2022-06-14": 425,
-  "2022-06-15": 425,
-  "2022-06-16": 425,
-  "2022-06-17": 425,
-  "2022-06-18": 425,
-  "2022-06-19": 425,
-  "2022-06-20": 425,
-  "2022-06-21": 425,
-  "2022-06-22": 425,
-  "2022-06-23": 425,
-  "2022-06-24": 425,
-  "2022-06-25": 425,
-  "2022-06-26": 425,
-  "2022-06-27": 425,
-  "2022-06-28": 425,
-  "2022-06-29": 425,
-  "2022-06-30": 425,
-  "2022-07-01": 425,
-  "2022-07-02": 425,
-  "2022-07-03": 425,
-  "2022-07-04": 425,
-  "2022-07-05": 425,
-  "2022-07-06": 425,
-  "2022-07-07": 425,
-  "2022-07-08": 425,
-  "2022-07-09": 425,
-  "2022-07-10": 425,
-  "2022-07-11": 425,
-  "2022-07-12": 425,
-  "2022-07-13": 425,
-  "2022-07-14": 425,
-  "2022-07-15": 425,
-  "2022-07-16": 425,
-  "2022-07-17": 425,
-  "2022-07-18": 425,
-  "2022-07-19": 425,
-  "2022-07-20": 426,
-  "2022-07-21": 426,
-  "2022-07-22": 426,
-  "2022-07-23": 426,
-  "2022-07-24": 426,
-  "2022-07-25": 426,
-  "2022-07-26": 426,
-  "2022-07-27": 426,
-  "2022-07-28": 426,
-  "2022-07-29": 426,
-  "2022-07-30": 426,
-  "2022-07-31": 426,
-  "2022-08-01": 426,
-  "2022-08-02": 426,
-  "2022-08-03": 426,
-  "2022-08-04": 426,
-  "2022-08-05": 426,
-  "2022-08-06": 426,
-  "2022-08-07": 426,
-  "2022-08-08": 426,
-  "2022-08-09": 425,
-  "2022-08-10": 425,
-  "2022-08-11": 425,
-  "2022-08-12": 425,
-  "2022-08-13": 425,
-  "2022-08-14": 425,
-  "2022-08-15": 425,
-  "2022-08-16": 425,
-  "2022-08-17": 425,
-  "2022-08-18": 425,
-  "2022-08-19": 425,
-  "2022-08-20": 425,
-  "2022-08-21": 425,
-  "2022-08-22": 425,
-  "2022-08-23": 425,
-  "2022-08-24": 425,
-  "2022-08-25": 425,
-  "2022-08-26": 425,
-  "2022-08-27": 425,
-  "2022-08-28": 425,
-  "2022-08-29": 425,
-  "2022-08-30": 425,
-  "2022-08-31": 425,
-  "2022-09-01": 425,
-  "2022-09-02": 425,
-  "2022-09-03": 425,
-  "2022-09-04": 425,
-  "2022-09-05": 425,
-  "2022-09-06": 425,
-  "2022-09-07": 425,
-  "2022-09-09": 425,
-  "2022-09-10": 425,
-  "2022-09-11": 425,
-  "2022-09-12": 425,
-  "2022-09-13": 425,
-  "2022-09-15": 425,
-  "2022-09-16": 425,
-  "2022-09-17": 425,
-  "2022-09-18": 425,
-  "2022-09-19": 425,
-  "2022-09-20": 425,
-  "2022-09-21": 425,
-  "2022-09-22": 425,
-  "2022-09-23": 425,
-  "2022-09-24": 425,
-  "2022-09-25": 425,
-  "2022-09-26": 425,
-  "2022-09-27": 425,
-  "2022-09-28": 425,
-  "2022-09-29": 424,
-  "2022-09-30": 424,
-  "2022-10-01": 424,
-  "2022-10-02": 424,
-  "2022-10-03": 423,
-  "2022-10-04": 423,
-  "2022-10-05": 423,
-  "2022-10-06": 423,
-  "2022-10-07": 423,
-  "2022-10-08": 423,
-  "2022-10-09": 422,
-  "2022-10-10": 422,
-  "2022-10-11": 422,
-  "2022-10-12": 422,
-  "2022-10-13": 422,
-  "2022-10-14": 422,
-  "2022-10-15": 422,
-  "2022-10-16": 421,
-  "2022-10-17": 421,
-  "2022-10-18": 421,
-  "2022-10-19": 421,
-  "2022-10-20": 421,
-  "2022-10-21": 421,
-  "2022-10-22": 421,
-  "2022-10-23": 421,
-  "2022-10-24": 421,
-  "2022-10-25": 421,
-  "2022-10-26": 421,
-  "2022-10-27": 422,
-  "2022-10-28": 422,
-  "2022-10-29": 422,
-  "2022-10-30": 422,
-  "2022-10-31": 422,
-  "2022-11-01": 422,
-  "2022-11-02": 423,
-  "2022-11-03": 423,
-  "2022-11-04": 426,
-  "2022-11-05": 426,
-  "2022-11-06": 426,
-  "2022-11-07": 426,
-  "2022-11-08": 428,
-  "2022-11-09": 428,
-  "2022-11-10": 432,
-  "2022-11-11": 434,
-  "2022-11-12": 433,
-  "2022-11-13": 433,
-  "2022-11-14": 433,
-  "2022-11-15": 433,
-  "2022-11-16": 433,
-  "2022-11-17": 433,
-  "2022-11-18": 433,
-  "2022-11-19": 433,
-  "2022-11-20": 428,
-  "2022-11-21": 427,
-  "2022-11-22": 426,
-  "2022-11-23": 426,
-  "2022-11-24": 426,
-  "2022-11-25": 426,
-  "2022-11-26": 426,
-  "2022-11-27": 424,
-  "2022-11-28": 424,
-  "2022-11-29": 424,
-  "2022-11-30": 424,
-  "2022-12-01": 424,
-  "2022-12-02": 424,
-  "2022-12-03": 424,
-  "2022-12-04": 424,
-  "2022-12-05": 424,
-  "2022-12-06": 424,
-  "2022-12-07": 424,
-  "2022-12-08": 424,
-  "2022-12-09": 424,
-  "2022-12-10": 424,
-  "2022-12-11": 424,
-  "2022-12-12": 424,
-  "2022-12-13": 424,
-  "2022-12-14": 423,
-  "2022-12-15": 423,
-  "2022-12-16": 423,
-  "2022-12-17": 423,
-  "2022-12-18": 423,
-  "2022-12-19": 423,
-  "2022-12-20": 423,
-  "2022-12-21": 423,
-  "2022-12-22": 423,
-  "2022-12-24": 423,
-  "2022-12-25": 422,
-  "2022-12-26": 422,
-  "2022-12-27": 422,
-  "2022-12-28": 422,
-  "2022-12-29": 422,
-  "2022-12-30": 422,
-  "2022-12-31": 422,
-  "2023-01-01": 422,
-  "2023-01-02": 422,
-  "2023-01-03": 422,
-  "2023-01-04": 422,
-  "2023-01-05": 422,
-  "2023-01-06": 422,
-  "2023-01-07": 422,
-  "2023-01-08": 422,
-  "2023-01-09": 422,
-  "2023-01-10": 422,
-  "2023-01-11": 422,
-  "2023-01-12": 422,
-  "2023-01-13": 422,
-  "2023-01-14": 422,
-  "2023-01-15": 422,
-  "2023-01-16": 422,
-  "2023-01-17": 422,
-  "2023-01-18": 422,
-  "2023-01-19": 422,
-  "2023-01-20": 422,
-  "2023-01-21": 422,
-  "2023-01-22": 422,
-  "2023-01-23": 422,
-  "2023-01-24": 422,
-  "2023-01-25": 422,
-  "2023-01-26": 422,
-  "2023-01-27": 422,
-  "2023-01-28": 422,
-  "2023-01-29": 422,
-  "2023-01-30": 422,
-  "2023-01-31": 422,
-  "2023-02-01": 422,
-  "2023-02-02": 422,
-  "2023-02-03": 422,
-  "2023-02-04": 421,
-  "2023-02-05": 421,
-  "2023-02-06": 420,
-  "2023-02-07": 420,
-  "2023-02-08": 420,
-  "2023-02-09": 420,
-  "2023-02-10": 420,
-  "2023-02-11": 420,
-  "2023-02-12": 420,
-  "2023-02-13": 420,
-  "2023-02-14": 420,
-  "2023-02-15": 420,
-  "2023-02-16": 420,
-  "2023-02-17": 420,
-  "2023-02-18": 420,
-  "2023-02-19": 420,
-  "2023-02-20": 420,
-  "2023-02-21": 420,
-  "2023-02-22": 420,
-  "2023-02-23": 420,
-  "2023-02-24": 420,
-  "2023-02-25": 419,
-  "2023-02-26": 419,
-  "2023-02-27": 419,
-  "2023-02-28": 419,
-  "2023-03-01": 419,
-  "2023-03-02": 419,
-  "2023-03-03": 419,
-  "2023-03-04": 419,
-  "2023-03-05": 419,
-  "2023-03-06": 419,
-  "2023-03-07": 419,
-  "2023-03-08": 419,
-  "2023-03-09": 419,
-  "2023-03-10": 419,
-  "2023-03-11": 419,
-  "2023-03-12": 419,
-  "2023-03-13": 419,
-  "2023-03-14": 419,
-  "2023-03-15": 419,
-  "2023-03-16": 419,
-  "2023-03-17": 419,
-  "2023-03-18": 419,
-  "2023-03-19": 419,
-  "2023-03-20": 419,
-  "2023-03-21": 418,
-  "2023-03-22": 418,
-  "2023-03-23": 418,
-  "2023-03-24": 418,
-  "2023-03-25": 418,
-  "2023-03-26": 418,
-  "2023-03-27": 418,
-  "2023-03-28": 418,
-  "2023-03-29": 418,
-  "2023-03-30": 418,
-  "2023-03-31": 418,
-  "2023-04-01": 418,
-  "2023-04-02": 418,
-  "2023-04-03": 418,
-  "2023-04-04": 418,
-  "2023-04-05": 418,
-  "2023-04-06": 418,
-  "2023-04-07": 418,
-  "2023-04-09": 418,
-  "2023-04-10": 418,
-  "2023-04-11": 418,
-  "2023-04-12": 418,
-  "2023-04-13": 418,
-  "2023-04-14": 418,
-  "2023-04-15": 418,
-  "2023-04-16": 418,
-  "2023-04-17": 418,
-  "2023-04-18": 418,
-  "2023-04-19": 418,
-  "2023-04-20": 418,
-  "2023-04-21": 418,
-  "2023-04-22": 418,
-  "2023-04-23": 418,
-  "2023-04-24": 418,
-  "2023-04-25": 418,
-  "2023-04-26": 418,
-  "2023-04-27": 418,
-  "2023-04-28": 418,
-  "2023-04-29": 418,
-  "2023-04-30": 418,
-  "2023-05-01": 418,
-  "2023-05-02": 417,
-  "2023-05-03": 417,
-  "2023-05-04": 417,
-  "2023-05-05": 417,
-  "2023-05-06": 417,
-  "2023-05-07": 417,
-  "2023-05-08": 417,
-  "2023-05-09": 417,
-  "2023-05-10": 417,
-  "2023-05-11": 417,
-  "2023-05-12": 417,
-  "2023-05-13": 417,
-  "2023-05-14": 417,
-  "2023-05-15": 417,
-  "2023-05-16": 417,
-  "2023-05-17": 417,
-  "2023-05-18": 417,
-  "2023-05-19": 417,
-  "2023-05-20": 417,
-  "2023-05-21": 417,
-  "2023-05-22": 417,
-  "2023-05-23": 417,
-  "2023-05-24": 417,
-  "2023-05-25": 417,
-  "2023-05-26": 417,
-  "2023-05-27": 417,
-  "2023-05-28": 417,
-  "2023-05-29": 417,
-  "2023-05-30": 417,
-  "2023-05-31": 417,
-  "2023-06-01": 417,
-  "2023-06-02": 417,
-  "2023-06-03": 417,
-  "2023-06-04": 417,
-  "2023-06-05": 417,
-  "2023-06-06": 417,
-  "2023-06-07": 417,
-  "2023-06-08": 417,
-  "2023-06-09": 417,
-  "2023-06-10": 417,
-  "2023-06-11": 417,
-  "2023-06-12": 417,
-  "2023-06-13": 417,
-  "2023-06-14": 417,
-  "2023-06-15": 417,
-  "2023-06-16": 417,
-  "2023-06-17": 417,
-  "2023-06-18": 417,
-  "2023-06-19": 417,
-  "2023-06-20": 417,
-  "2023-06-21": 417,
-  "2023-06-22": 417,
-  "2023-06-23": 417,
-  "2023-06-24": 417,
-  "2023-06-25": 417,
-  "2023-06-26": 417,
-  "2023-06-27": 418,
-  "2023-06-28": 418,
-  "2023-06-29": 418,
-  "2023-06-30": 418,
-  "2023-07-01": 418,
-  "2023-07-02": 418,
-  "2023-07-03": 418,
-  "2023-07-04": 418,
-  "2023-07-05": 418,
-  "2023-07-06": 418,
-  "2023-07-07": 418,
-  "2023-07-08": 418,
-  "2023-07-09": 417,
-  "2023-07-10": 417,
-  "2023-07-11": 417,
-  "2023-07-12": 417,
-  "2023-07-13": 417,
-  "2023-07-14": 417,
-  "2023-07-15": 417,
-  "2023-07-16": 417,
-  "2023-07-17": 417,
-  "2023-07-18": 417,
-  "2023-07-19": 417,
-  "2023-07-20": 417,
-  "2023-07-21": 417,
-  "2023-07-22": 417,
-  "2023-07-23": 417,
-  "2023-07-24": 417,
-  "2023-07-25": 417,
-  "2023-07-26": 417,
-  "2023-07-27": 417,
-  "2023-07-28": 417,
-  "2023-07-29": 417,
-  "2023-07-30": 417,
-  "2023-07-31": 417,
-  "2023-08-01": 417,
-  "2023-08-02": 417,
-  "2023-08-03": 417,
-  "2023-08-04": 417,
-  "2023-08-05": 417,
-  "2023-08-06": 416,
-  "2023-08-07": 416,
-  "2023-08-08": 416,
-  "2023-08-09": 416,
-  "2023-08-10": 416,
-  "2023-08-11": 416,
-  "2023-08-12": 416,
-  "2023-08-13": 416,
-  "2023-08-14": 416,
-  "2023-08-15": 416,
-  "2023-08-16": 416,
-  "2023-08-17": 416,
-  "2023-08-18": 416,
-  "2023-08-19": 416,
-  "2023-08-20": 416,
-  "2023-08-21": 416,
-  "2023-08-22": 416,
-  "2023-08-23": 416,
-  "2023-08-24": 416,
-  "2023-08-25": 416,
-  "2023-08-26": 416,
-  "2023-08-27": 416,
-  "2023-08-28": 416,
-  "2023-08-29": 416,
-  "2023-08-30": 416,
-  "2023-08-31": 416,
-  "2023-09-01": 416,
-  "2023-09-02": 416,
-  "2023-09-03": 416,
-  "2023-09-04": 416,
-  "2023-09-05": 416,
-  "2023-09-06": 416,
-  "2023-09-07": 416,
-  "2023-09-08": 416,
-  "2023-09-09": 416,
-  "2023-09-10": 416,
-  "2023-09-11": 416,
-  "2023-09-12": 416,
-  "2023-09-13": 416,
-  "2023-09-14": 416,
-  "2023-09-15": 416,
-  "2023-09-16": 416,
-  "2023-09-17": 416,
-  "2023-09-18": 416,
-  "2023-09-19": 416,
-  "2023-09-20": 416,
-  "2023-09-21": 416,
-  "2023-09-22": 416,
-  "2023-09-23": 416,
-  "2023-09-24": 416,
-  "2023-09-25": 416,
-  "2023-09-26": 416,
-  "2023-09-27": 416,
-  "2023-09-28": 416,
-  "2023-09-29": 416,
-  "2023-09-30": 416,
-  "2023-10-01": 416,
-  "2023-10-02": 416,
-  "2023-10-03": 416,
-  "2023-10-04": 416,
-  "2023-10-05": 416,
-  "2023-10-06": 416,
-  "2023-10-07": 416,
-  "2023-10-08": 416,
-  "2023-10-09": 416,
-  "2023-10-10": 415,
-  "2023-10-11": 415,
-  "2023-10-12": 415,
-  "2023-10-13": 415,
-  "2023-10-14": 415,
-  "2023-10-15": 415,
-  "2023-10-16": 415,
-  "2023-10-17": 415,
-  "2023-10-18": 415,
-  "2023-10-19": 415,
-  "2023-10-20": 415,
-  "2023-10-21": 415,
-  "2023-10-22": 415,
-  "2023-10-23": 415,
-  "2023-10-24": 415,
-  "2023-10-25": 415,
-  "2023-10-26": 415,
-  "2023-10-27": 415,
-  "2023-10-28": 415,
-  "2023-10-29": 415,
-  "2023-10-30": 415,
-  "2023-10-31": 415,
-  "2023-11-01": 415,
-  "2023-11-02": 415,
-  "2023-11-03": 415,
-  "2023-11-04": 415,
-  "2023-11-05": 415,
-  "2023-11-06": 415,
-  "2023-11-07": 415,
-  "2023-11-08": 415,
-  "2023-11-09": 415,
-  "2023-11-10": 415,
-  "2023-11-11": 415,
-  "2023-11-12": 415,
-  "2023-11-13": 415,
-  "2023-11-14": 415,
-  "2023-11-15": 415,
-  "2023-11-16": 415,
-  "2023-11-17": 415,
-  "2023-11-18": 415,
-  "2023-11-19": 415,
-  "2023-11-20": 415,
-  "2023-11-21": 415,
-  "2023-11-22": 415,
-  "2023-11-23": 415,
-  "2023-11-24": 415,
-  "2023-11-25": 415,
-  "2023-11-26": 415,
-  "2023-11-27": 415,
-  "2023-11-28": 415,
-  "2023-11-29": 415,
-  "2023-11-30": 415,
-  "2023-12-01": 415,
-  "2023-12-02": 415,
-  "2023-12-03": 415,
-  "2023-12-04": 415,
-  "2023-12-05": 415,
-  "2023-12-06": 415,
-  "2023-12-07": 415,
-  "2023-12-08": 415,
-  "2023-12-09": 415,
-  "2023-12-10": 415,
-  "2023-12-11": 415,
-  "2023-12-12": 415,
-  "2023-12-13": 415,
-  "2023-12-14": 415,
-  "2023-12-15": 415,
-  "2023-12-16": 415,
-  "2023-12-17": 415,
-  "2023-12-18": 415,
-  "2023-12-19": 415,
-  "2023-12-20": 415,
-  "2023-12-21": 415,
-  "2023-12-22": 415,
-  "2023-12-23": 415,
-  "2023-12-24": 415,
-  "2023-12-25": 415,
-  "2023-12-26": 415,
-  "2023-12-27": 415,
-  "2023-12-30": 415,
-  "2023-12-31": 415,
-  "2024-01-01": 415,
-  "2024-01-02": 415,
-  "2024-01-03": 415
+  "2024-01-17": 412,
+  "date_first_scraped": "2021-12-21",
+  "description": "Det finns hur m\u00e5nga drottningar av Sverige som helst. Vi har samlat 100 av dem i en spellista, d\u00e4r du h\u00f6r regenter fr\u00e5n ig\u00e5r, idag och i morrn. L\u00e5t dig imponeras och inspireras!",
+  "name": "Women of Sweden",
+  "tracks": [
+    {
+      "album": {
+        "name": "Buren",
+        "url": "https://open.spotify.com/album/6SkeZxGrCfxYPeoyEiiye4"
+      },
+      "artists": [
+        {
+          "name": "Anna J\u00e4rvinen",
+          "url": "https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212686,
+      "name": "Aff\u00e4ren",
+      "url": "https://open.spotify.com/track/0NArDPf1my7y2xHlCFEFXZ"
+    },
+    {
+      "album": {
+        "name": "Elin Bell",
+        "url": "https://open.spotify.com/album/6DsZSONTPhwN1uReSgZ2tL"
+      },
+      "artists": [
+        {
+          "name": "Elin Bell",
+          "url": "https://open.spotify.com/artist/0vbY7qZnawsS6XoxZ0wKev"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "All the Love",
+      "url": "https://open.spotify.com/track/7LvL49yYoxLqjlBXdnlK97"
+    },
+    {
+      "album": {
+        "name": "Allt jag n\u00e5nsin",
+        "url": "https://open.spotify.com/album/1Im4hTFJkTzjIhFWGpKuOF"
+      },
+      "artists": [
+        {
+          "name": "Julia Adams",
+          "url": "https://open.spotify.com/artist/3Cg6FMCFpcMHugD262Ynrl"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262792,
+      "name": "Allt jag n\u00e5nsin",
+      "url": "https://open.spotify.com/track/5dawOtKaj8rGJhhye85qdA"
+    },
+    {
+      "album": {
+        "name": "Animal Heart (Spotify exclusive)",
+        "url": "https://open.spotify.com/album/1Q595jsHM7uq6viLNjXDxw"
+      },
+      "artists": [
+        {
+          "name": "Nina Persson",
+          "url": "https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270613,
+      "name": "Animal Heart",
+      "url": "https://open.spotify.com/track/5vaQSIBnleSdIl8ZcM9vyj"
+    },
+    {
+      "album": {
+        "name": "Diamond Waves EP",
+        "url": "https://open.spotify.com/album/1UVq220d66clax8VogwgIR"
+      },
+      "artists": [
+        {
+          "name": "Josefin \u00d6hrn + The Liberation",
+          "url": "https://open.spotify.com/artist/6ExOR6M5umZFfNgXfjPcex"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Anything So Bright",
+      "url": "https://open.spotify.com/track/1trgRFfj4SCKy2Ww1nWTjc"
+    },
+    {
+      "album": {
+        "name": "Gnista + Gas",
+        "url": "https://open.spotify.com/album/63s8hDU767tEUF1oXAD53g"
+      },
+      "artists": [
+        {
+          "name": "Alina Devecerski",
+          "url": "https://open.spotify.com/artist/4HpFXZsVoerMLtLudMJJkb"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Arm\u00e9",
+      "url": "https://open.spotify.com/track/5L2Q1DDQ7ukZ6QN6UaMDgF"
+    },
+    {
+      "album": {
+        "name": "Allt \u00e4r kvar",
+        "url": "https://open.spotify.com/album/5x03hl3hahcLJ01JyGBy2S"
+      },
+      "artists": [
+        {
+          "name": "AnnaMelina",
+          "url": "https://open.spotify.com/artist/6dYcPetMNQCOUjyO0vTogs"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287973,
+      "name": "Bara du",
+      "url": "https://open.spotify.com/track/6Zt60IkHBbYZiFpKSiikOj"
+    },
+    {
+      "album": {
+        "name": "Yellow Memories",
+        "url": "https://open.spotify.com/album/0hg1LXzC5nqwTyEYHNFiwx"
+      },
+      "artists": [
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325213,
+      "name": "Biggest Joke of All",
+      "url": "https://open.spotify.com/track/300V5cWCzuWqtAC9DsNRxV"
+    },
+    {
+      "album": {
+        "name": "Color The Trees",
+        "url": "https://open.spotify.com/album/5Ttn8fOzeCgwJpt3AswoSq"
+      },
+      "artists": [
+        {
+          "name": "Firefox AK",
+          "url": "https://open.spotify.com/artist/6E6yZfLJy9X62bwXFDlCcw"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239560,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/6253gtkFvt00BjLqVS3gEy"
+    },
+    {
+      "album": {
+        "name": "Breaking and Shaking",
+        "url": "https://open.spotify.com/album/0FUxJv4VOv3YcDij7mXo6n"
+      },
+      "artists": [
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Breaking and Shaking",
+      "url": "https://open.spotify.com/track/6yQo4yhjAWd2dpRvJ129ng"
+    },
+    {
+      "album": {
+        "name": "Raw Like Sushi",
+        "url": "https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp"
+      },
+      "artists": [
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342360,
+      "name": "Buffalo Stance",
+      "url": "https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/65cv3nmpxcKiVLAkcVs3Tv"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254528,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/700ZxeYb20T62xLzAeBGd4"
+    },
+    {
+      "album": {
+        "name": "Love Is Not Pop",
+        "url": "https://open.spotify.com/album/4TjSu9lNrsX3o1k4HBgsNk"
+      },
+      "artists": [
+        {
+          "name": "El Perro del Mar",
+          "url": "https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308106,
+      "name": "Change of Heart",
+      "url": "https://open.spotify.com/track/1QCZBOOvZR5rj1ZlaibbjT"
+    },
+    {
+      "album": {
+        "name": "Singles and Selected",
+        "url": "https://open.spotify.com/album/1GsKpPr6FmbteyXxOHHFdZ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169018,
+      "name": "Dancing the Whole Way Home",
+      "url": "https://open.spotify.com/track/67tmclJQToXoCjiDCm43Jg"
+    },
+    {
+      "album": {
+        "name": "Facit",
+        "url": "https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo"
+      },
+      "artists": [
+        {
+          "name": "S\u00e4kert!",
+          "url": "https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Dansa, fast\u00e4n",
+      "url": "https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn"
+    },
+    {
+      "album": {
+        "name": "Dom Tio Budorden",
+        "url": "https://open.spotify.com/album/4mJzrlEyqYcNZefYbxJpn8"
+      },
+      "artists": [
+        {
+          "name": "Feven",
+          "url": "https://open.spotify.com/artist/2dIIk1exnmJHdJpqp7KgK5"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227626,
+      "name": "Dom tio budorden",
+      "url": "https://open.spotify.com/track/4WX5i4f5tMlt4OvlGOIvcm"
+    },
+    {
+      "album": {
+        "name": "Hey Hey",
+        "url": "https://open.spotify.com/album/7aAckmXx2tIaR6qB1F7cKs"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4pUOZFi8YiNmWZEsWR6DaR"
+    },
+    {
+      "album": {
+        "name": "Other Worlds",
+        "url": "https://open.spotify.com/album/1gWM2xcuoTezN5gvOB5nY4"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252080,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1gKFZ2ezyKNyj1doqBanBY"
+    },
+    {
+      "album": {
+        "name": "Drottningen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/4t6UK8udOzilA1noclz1fY"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225102,
+      "name": "Drottningen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2LlXxcAQtfEWlQjxduyydo"
+    },
+    {
+      "album": {
+        "name": "Guldkorn",
+        "url": "https://open.spotify.com/album/7CcL6PafFDUs0UKgyG2m7u"
+      },
+      "artists": [
+        {
+          "name": "Lill Lindfors",
+          "url": "https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "Du \u00e4r den ende",
+      "url": "https://open.spotify.com/track/3CFUxMvhpCqKIRNqFDY9gd"
+    },
+    {
+      "album": {
+        "name": "Amason",
+        "url": "https://open.spotify.com/album/4l59DECElhjyOQCfoZ8JRf"
+      },
+      "artists": [
+        {
+          "name": "Tant Strul",
+          "url": "https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286426,
+      "name": "Dunkar varmt",
+      "url": "https://open.spotify.com/track/35LnyUWdvdFADKdUcHEW9Q"
+    },
+    {
+      "album": {
+        "name": "Effortless",
+        "url": "https://open.spotify.com/album/3X9ZUpeCHQuU4CTQXIDc2v"
+      },
+      "artists": [
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/6hoRr1KXrixuhILElTIGUM"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/77geSTREeNrIHlpetsQoVz"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN"
+    },
+    {
+      "album": {
+        "name": "Manic Panic",
+        "url": "https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA"
+      },
+      "artists": [
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
+    },
+    {
+      "album": {
+        "name": "Follow You Down - Single",
+        "url": "https://open.spotify.com/album/5DygbtTT16uIx8ifAh7ISB"
+      },
+      "artists": [
+        {
+          "name": "Cajsa Siik",
+          "url": "https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224322,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/02rF6qvCSPtevzSMTvb4Ad"
+    },
+    {
+      "album": {
+        "name": "For You, Love",
+        "url": "https://open.spotify.com/album/6eGJttDsyuUsYcflGWYr1X"
+      },
+      "artists": [
+        {
+          "name": "Frida Sundemo",
+          "url": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "For You, Love",
+      "url": "https://open.spotify.com/track/3AbrdpZRaQLEuK8UQPhe7Y"
+    },
+    {
+      "album": {
+        "name": "Shaking the Habitual",
+        "url": "https://open.spotify.com/album/7eDaaP6J8Q3cYVTGRmARwx"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556506,
+      "name": "Full of Fire",
+      "url": "https://open.spotify.com/track/2hxH8h8GSUYuJhaoJJoz6T"
+    },
+    {
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/0Ie4L2DEKLQ0dun65tmLJL"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181226,
+      "name": "F\u00e5ngad av en stormvind - Swedish Version",
+      "url": "https://open.spotify.com/track/5I6eq9wK0SOkeUWEPHqD39"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r Evigt",
+        "url": "https://open.spotify.com/album/66gGBaMEf92Tt8mPpGxTMx"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Marlene",
+          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203937,
+      "name": "F\u00f6r Evigt",
+      "url": "https://open.spotify.com/track/14xZtVbG1Ue1Bv8fbVVSl5"
+    },
+    {
+      "album": {
+        "name": "This Is... Icona Pop",
+        "url": "https://open.spotify.com/album/0BMMKboeB89ifvQ9GUUxNJ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171320,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/5KLv5MUNLfrNJbGTPbAy6I"
+    },
+    {
+      "album": {
+        "name": "Die Another Day",
+        "url": "https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Eli",
+          "url": "https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp"
+    },
+    {
+      "album": {
+        "name": "Go The Distance",
+        "url": "https://open.spotify.com/album/4awhYqRmA3anjTzfM4XALQ"
+      },
+      "artists": [
+        {
+          "name": "Asha Ali",
+          "url": "https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209126,
+      "name": "Go The Distance",
+      "url": "https://open.spotify.com/track/7zkQ4RWKhKttlsxOxFC3XS"
+    },
+    {
+      "album": {
+        "name": "Oh My Goodness !",
+        "url": "https://open.spotify.com/album/6OwWdCK2dWAup60UlkP5ZX"
+      },
+      "artists": [
+        {
+          "name": "Gnucci",
+          "url": "https://open.spotify.com/artist/370RJTpcgcUSfYTR3gau1x"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Goodah",
+      "url": "https://open.spotify.com/track/4uttwyj27pRnPMtOJKDbi5"
+    },
+    {
+      "album": {
+        "name": "Though, I'm Just Me",
+        "url": "https://open.spotify.com/album/6HBHt2gESeUf3bvLBI56MF"
+      },
+      "artists": [
+        {
+          "name": "Maia Hirasawa",
+          "url": "https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231626,
+      "name": "Gothenburg",
+      "url": "https://open.spotify.com/track/6UTCUjslqhE55MIkMUezX2"
+    },
+    {
+      "album": {
+        "name": "If I Was a Band My Name Would Be Forevers",
+        "url": "https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu"
+      },
+      "artists": [
+        {
+          "name": "Britta Persson",
+          "url": "https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Grunge Girls",
+      "url": "https://open.spotify.com/track/2sKdYq2kHkFLgc3gBmBZkF"
+    },
+    {
+      "album": {
+        "name": "Vem e han",
+        "url": "https://open.spotify.com/album/4eW4fy6Q2yAhVTg8wzfUir"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
+        },
+        {
+          "name": "Broke n Tipsy",
+          "url": "https://open.spotify.com/artist/6JrqOWN63xkJdBaeysAddn"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195126,
+      "name": "G\u00e5 p\u00e5 salong",
+      "url": "https://open.spotify.com/track/4008dpmqe3536dNu10BVAM"
+    },
+    {
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/18AJRdgUoO9EYn11N7xzaT"
+    },
+    {
+      "album": {
+        "name": "Hang with Me",
+        "url": "https://open.spotify.com/album/2ln30Xypo5Sj0FwTeZRbjn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211808,
+      "name": "Hang With Me - Edit",
+      "url": "https://open.spotify.com/track/3ZEXTCyeUkyZ9ZVaxpoC8w"
+    },
+    {
+      "album": {
+        "name": "Hard Time",
+        "url": "https://open.spotify.com/album/4XX3ERKHMCoeBHtQFC6nIs"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/0PRAJw4IRVanGUHmeza5Yf"
+    },
+    {
+      "album": {
+        "name": "Heartbreakfree",
+        "url": "https://open.spotify.com/album/6wITnfLpQXsy5rXdRCyZVz"
+      },
+      "artists": [
+        {
+          "name": "Ji Nilsson",
+          "url": "https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "Heartbreakfree",
+      "url": "https://open.spotify.com/track/2mBqpAQLPXGC9RgoQaslmr"
+    },
+    {
+      "album": {
+        "name": "In Our Space Hero Suits (Blank)",
+        "url": "https://open.spotify.com/album/7EwW59WIgtBPIh9TRvPVp2"
+      },
+      "artists": [
+        {
+          "name": "Those Dancing Days",
+          "url": "https://open.spotify.com/artist/5JTKRNH8lzbZcSvOqZSehS"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Hitten",
+      "url": "https://open.spotify.com/track/1bDONeUXQ0suKnzCjyOtks"
+    },
+    {
+      "album": {
+        "name": "Beauty Is Pain",
+        "url": "https://open.spotify.com/album/0fnDS7UMg248Rp5IOfPvSb"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Holler",
+      "url": "https://open.spotify.com/track/3optgAUWyCFNqwwBO8URPO"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel?",
+        "url": "https://open.spotify.com/album/7klBCys45aj9xrA2KfhNh6"
+      },
+      "artists": [
+        {
+          "name": "Julia Vero",
+          "url": "https://open.spotify.com/artist/0Y3tjYXavSfCOvFjkPrSS6"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/35bC2skqceDj13rb0n6oIP"
+    },
+    {
+      "album": {
+        "name": "Tuggare utan gr\u00e4nser",
+        "url": "https://open.spotify.com/album/47l0NjsrR85NjFvUvBxSP0"
+      },
+      "artists": [
+        {
+          "name": "Lilla Namo",
+          "url": "https://open.spotify.com/artist/2DsNd8GBB1y1J0XMq0nT6s"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "H\u00f6j volymen",
+      "url": "https://open.spotify.com/track/0syrVcqLQMBMbj8VbthLA7"
+    },
+    {
+      "album": {
+        "name": "I Got My Gun",
+        "url": "https://open.spotify.com/album/4XCexbduIlrpNXx12XOMkU"
+      },
+      "artists": [
+        {
+          "name": "Dolores Haze",
+          "url": "https://open.spotify.com/artist/1eaRzpjJvZXJ531g9WrLP8"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131413,
+      "name": "I Got My Gun",
+      "url": "https://open.spotify.com/track/3M0z4Ua0xXpudn9njXqWiS"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Storm",
+        "url": "https://open.spotify.com/album/5bwrJyYYLdv0snAU6WweRy"
+      },
+      "artists": [
+        {
+          "name": "Elin Ruth Sigvardsson",
+          "url": "https://open.spotify.com/artist/4XLEZe0s7mV0tEBkHWr70y"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353360,
+      "name": "I Only Miss You When You're on My Mind",
+      "url": "https://open.spotify.com/track/3IASjJav4dEqw8waN4kQQl"
+    },
+    {
+      "album": {
+        "name": "I staden",
+        "url": "https://open.spotify.com/album/2gBjWy1NdE9z9X9elFGgjT"
+      },
+      "artists": [
+        {
+          "name": "Kumba",
+          "url": "https://open.spotify.com/artist/0GD2LYGX4nMj9F84HsIWp1"
+        },
+        {
+          "name": "Amanda Serra",
+          "url": "https://open.spotify.com/artist/6x5Okj9dLLSYeYE9LtnkIT"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176906,
+      "name": "I staden",
+      "url": "https://open.spotify.com/track/4PxOSNVoO7QbYPK6EIG353"
+    },
+    {
+      "album": {
+        "name": "I Wanna Have It All",
+        "url": "https://open.spotify.com/album/2TszSNGBTke0BFvVKpIRhV"
+      },
+      "artists": [
+        {
+          "name": "Jenny Wilson",
+          "url": "https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "I Wanna Have It All",
+      "url": "https://open.spotify.com/track/1KKFszNswuREK22egRsbzy"
+    },
+    {
+      "album": {
+        "name": "The Fox, The Hunter and Hello Saferide",
+        "url": "https://open.spotify.com/album/6pgOlt9oUIVJiqxSkcSROa"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "I Was Jesus",
+      "url": "https://open.spotify.com/track/5DrzgdmjGqDU987vRZvmGl"
+    },
+    {
+      "album": {
+        "name": "Baby Dry Your Eye",
+        "url": "https://open.spotify.com/album/64AW9sxYJpSs3b8H5Ny5ae"
+      },
+      "artists": [
+        {
+          "name": "Marit Bergman",
+          "url": "https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "I Will Always Be Your Soldier",
+      "url": "https://open.spotify.com/track/4n0TkiApnLXv1RSk17gOBH"
+    },
+    {
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4d9WOie0E4Iq4zs8rpcw9Y"
+      },
+      "artists": [
+        {
+          "name": "Zhala",
+          "url": "https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240472,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/0M94S8r84UQlj30DiGakJG"
+    },
+    {
+      "album": {
+        "name": "S\u00e5nger fr\u00e5n \u00f6n",
+        "url": "https://open.spotify.com/album/6K7hncUJwfcxma5egjvTwI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273880,
+      "name": "Illusionist",
+      "url": "https://open.spotify.com/track/6VFuvxBqwxOwIaEtBmH9kb"
+    },
+    {
+      "album": {
+        "name": "Indian Summer - EP",
+        "url": "https://open.spotify.com/album/5njkJEN4kJ2RCPbOixtFdC"
+      },
+      "artists": [
+        {
+          "name": "Marlene",
+          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/0Syg0S75x10U5F54ypxE6X"
+    },
+    {
+      "album": {
+        "name": "Guldkorn",
+        "url": "https://open.spotify.com/album/7sbTsMK5JNTGZOkSzCiOU1"
+      },
+      "artists": [
+        {
+          "name": "Marie Bergman",
+          "url": "https://open.spotify.com/artist/1EF9hLul0ZZcbh7dmXWF99"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Ingen kommer undan politiken",
+      "url": "https://open.spotify.com/track/3QYGkskUUEw8mH9QnQvJAA"
+    },
+    {
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw"
+      },
+      "artists": [
+        {
+          "name": "Naomi Pilgrim",
+          "url": "https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249233,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO"
+    },
+    {
+      "album": {
+        "name": "Musik vi minns...",
+        "url": "https://open.spotify.com/album/4KTLqlC1RI0LXyW3Xm0Kf5"
+      },
+      "artists": [
+        {
+          "name": "Lill-Babs",
+          "url": "https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Jag kan inte leva utan dig",
+      "url": "https://open.spotify.com/track/3G04rIXGeThaa3YlaumcmQ"
+    },
+    {
+      "album": {
+        "name": "Innan jag k\u00e4nde dig",
+        "url": "https://open.spotify.com/album/7aCSH1fnzWjLChB2VHG671"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Jag saknar dig mindre och mindre",
+      "url": "https://open.spotify.com/track/0atRkLynwT9JbhSQkoPdLY"
+    },
+    {
+      "album": {
+        "name": "G\u00f6r dig till hund",
+        "url": "https://open.spotify.com/album/5MxaWDH2D38b52c1jxQ6sP"
+      },
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237133,
+      "name": "Johnny Cash & Nina P.",
+      "url": "https://open.spotify.com/track/4tQ5Bk3dE3u83t6ShNdntI"
+    },
+    {
+      "album": {
+        "name": "Kattliv",
+        "url": "https://open.spotify.com/album/6F8xptDIjdalRhckYJi6hs"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0XgxgYnzpP0KwA4BMliFlq"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Kattliv",
+      "url": "https://open.spotify.com/track/3YHmE7BGCTAlMnwS58prHa"
+    },
+    {
+      "album": {
+        "name": "Kn\u00e4pper mina fingrar (Remix)",
+        "url": "https://open.spotify.com/album/3SqGWXewLT9SsdQRvFYJeQ"
+      },
+      "artists": [
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        },
+        {
+          "name": "Kumba",
+          "url": "https://open.spotify.com/artist/0GD2LYGX4nMj9F84HsIWp1"
+        },
+        {
+          "name": "ROSH",
+          "url": "https://open.spotify.com/artist/739zjStIc6EHrV5thshKkp"
+        },
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "SEP",
+          "url": "https://open.spotify.com/artist/7aNX7YUSCDIcwGNlZlVpKo"
+        },
+        {
+          "name": "Vanessa Falk",
+          "url": "https://open.spotify.com/artist/0GIFTbUHTZfEHaGy2ZsI0E"
+        },
+        {
+          "name": "Rawda",
+          "url": "https://open.spotify.com/artist/7vITWGrhforyqJKaMUwdAH"
+        },
+        {
+          "name": "Julia Spada",
+          "url": "https://open.spotify.com/artist/0GtgBnMAiOhU6MebyAB0V2"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0XgxgYnzpP0KwA4BMliFlq"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263021,
+      "name": "Kn\u00e4pper mina fingrar - Remix",
+      "url": "https://open.spotify.com/track/0PIXeBuPkFCpV0zAhLROoS"
+    },
+    {
+      "album": {
+        "name": "Lady Stardust",
+        "url": "https://open.spotify.com/album/6vrVxfW51WURkOE4gQMQlR"
+      },
+      "artists": [
+        {
+          "name": "Lisa Miskovsky",
+          "url": "https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Lady Stardust",
+      "url": "https://open.spotify.com/track/7tATqS3VKDY0VGW9p7PdOv"
+    },
+    {
+      "album": {
+        "name": "And She Closed Her Eyes",
+        "url": "https://open.spotify.com/album/13afX31wQfHT87BjRUFjU1"
+      },
+      "artists": [
+        {
+          "name": "Stina Nordenstam",
+          "url": "https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Little Star",
+      "url": "https://open.spotify.com/track/07vVUj64nGveXwpGR04JH4"
+    },
+    {
+      "album": {
+        "name": "Lonesome",
+        "url": "https://open.spotify.com/album/62ZXyvRwzB4nqrLyCWKBEU"
+      },
+      "artists": [
+        {
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187232,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/0hFFYKGhtSgUMkkhrAi0IQ"
+    },
+    {
+      "album": {
+        "name": "Lunar Lights",
+        "url": "https://open.spotify.com/album/2YtmtH8EtAW7ND7Bq4I13P"
+      },
+      "artists": [
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "Lunar Lights",
+      "url": "https://open.spotify.com/track/4ed54rPyaUwR377j0HfhUY"
+    },
+    {
+      "album": {
+        "name": "Till mina \u00e4lskade och \u00e4lskare",
+        "url": "https://open.spotify.com/album/4GT1R1qWhevQETcLMwrXxJ"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Lyckligare nu",
+      "url": "https://open.spotify.com/track/61o5tmzK4TdftIGykP7stT"
+    },
+    {
+      "album": {
+        "name": "Centrum",
+        "url": "https://open.spotify.com/album/3A84ljn6wa9q2LezCzEJrf"
+      },
+      "artists": [
+        {
+          "name": "Mack Beats",
+          "url": "https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4"
+        },
+        {
+          "name": "Julia Spada",
+          "url": "https://open.spotify.com/artist/0GtgBnMAiOhU6MebyAB0V2"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "L\u00e4gg dig ner (feat. Julia Spada)",
+      "url": "https://open.spotify.com/track/4Z1qkBTPjy6AaFBD3Mes0W"
+    },
+    {
+      "album": {
+        "name": "Med \u00d6gon K\u00e4nsliga F\u00f6r Gr\u00f6nt",
+        "url": "https://open.spotify.com/album/3Ob0OEmEgdaK8XfhhQG1T8"
+      },
+      "artists": [
+        {
+          "name": "Barbro H\u00f6rberg",
+          "url": "https://open.spotify.com/artist/7urXjli8ptr8Y8Z0XLtiJ9"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Med \u00f6gon k\u00e4nsliga f\u00f6r gr\u00f6nt",
+      "url": "https://open.spotify.com/track/5bIGTkzkJwyMsr9B2QnZ3E"
+    },
+    {
+      "album": {
+        "name": "Monica & Monica Tolkar BOA",
+        "url": "https://open.spotify.com/album/5JxH8Zg0E2ndVLrz2NVi1i"
+      },
+      "artists": [
+        {
+          "name": "Monica Nielsen",
+          "url": "https://open.spotify.com/artist/7qC5kDZWbR3fhjA6Vp5X70"
+        },
+        {
+          "name": "Monica Dominique",
+          "url": "https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "Mitt Eget Land",
+      "url": "https://open.spotify.com/track/62BynwcUwl6D8DbQF6mFGD"
+    },
+    {
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/4f3qVNqW36rlcTktIMcRlo"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215131,
+      "name": "Mountains Crave",
+      "url": "https://open.spotify.com/track/76kEf0oIweRqhHvagGmRY4"
+    },
+    {
+      "album": {
+        "name": "A Good Idea",
+        "url": "https://open.spotify.com/album/2U9POU8muz6ajTNUbEMX0e"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        },
+        {
+          "name": "Ras Fraser Jr.",
+          "url": "https://open.spotify.com/artist/1D2oK3cJRq97OXDzu77BFR"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Music Is Life",
+      "url": "https://open.spotify.com/track/3w6WFjsxlbjV1nF0arIRyl"
+    },
+    {
+      "album": {
+        "name": "My Flower",
+        "url": "https://open.spotify.com/album/6evWdmv5vg9xLTJ9MojyXg"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "My Flower",
+      "url": "https://open.spotify.com/track/6Q4CpyNSAmJjnJtQyOGK8r"
+    },
+    {
+      "album": {
+        "name": "Stay Gold",
+        "url": "https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "My Silver Lining",
+      "url": "https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q"
+    },
+    {
+      "album": {
+        "name": "I Never Learn",
+        "url": "https://open.spotify.com/album/4fGqfyineAZmulNxgitERh"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222718,
+      "name": "No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/2gCvWjrHt6PVJjIN1amlje"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreaming (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4DETWSxZQ0MFUeBf2LSqwz"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Nothing but a Heartbeat",
+      "url": "https://open.spotify.com/track/6R5SstUH21k4EEZWnFvi1U"
+    },
+    {
+      "album": {
+        "name": "Sanningen kommer om natten",
+        "url": "https://open.spotify.com/album/6ILfJ7yqHHtzvOM39MJyRb"
+      },
+      "artists": [
+        {
+          "name": "Sarah Dawn Finer",
+          "url": "https://open.spotify.com/artist/4TuGR5xkIry198WmY7hax2"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258426,
+      "name": "Nu vet du hur det k\u00e4nns",
+      "url": "https://open.spotify.com/track/5EdgK0Xt8wq23V5IlCHcZa"
+    },
+    {
+      "album": {
+        "name": "N\u00e4ra dej",
+        "url": "https://open.spotify.com/album/0dzut9xg5Hv9xXjlA2Zbrg"
+      },
+      "artists": [
+        {
+          "name": "Min Stora Sorg",
+          "url": "https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234683,
+      "name": "N\u00e4ra dej",
+      "url": "https://open.spotify.com/track/3wZNfK4KATlxIaWf0evAWV"
+    },
+    {
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4k2DpqQDpRJDZPR9FjIxyZ"
+      },
+      "artists": [
+        {
+          "name": "Beldina",
+          "url": "https://open.spotify.com/artist/1j9GGUnKOakzJXzYuaVGWT"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225331,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7ty4gGxSfxM4pdFrkvkpYZ"
+    },
+    {
+      "album": {
+        "name": "Omv\u00e4g hem",
+        "url": "https://open.spotify.com/album/1U0K4IohbClGgTkoeGhJGg"
+      },
+      "artists": [
+        {
+          "name": "Ebba Forsberg",
+          "url": "https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Omv\u00e4g hem",
+      "url": "https://open.spotify.com/track/6ZxdK9juchyFYyrCtyViDA"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 m\u00e5ndag b\u00f6rjar jag igen",
+        "url": "https://open.spotify.com/album/2Gkfo6fEnO30dxub6UZdrH"
+      },
+      "artists": [
+        {
+          "name": "Dolly Dolores",
+          "url": "https://open.spotify.com/artist/0AKqrIVjkHri0sY1PqZQk7"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183518,
+      "name": "P\u00e5 m\u00e5ndag b\u00f6rjar jag igen",
+      "url": "https://open.spotify.com/track/3lVnLAOXzBrjlKl2YJmbNW"
+    },
+    {
+      "album": {
+        "name": "Little Jinder",
+        "url": "https://open.spotify.com/album/7LIL14VAm9R4YDEyXDcj8J"
+      },
+      "artists": [
+        {
+          "name": "Little Jinder",
+          "url": "https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "Random Folk",
+      "url": "https://open.spotify.com/track/1JkcsJh6AWLxdVSe6fRe6y"
+    },
+    {
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/62yXWRE41Ye0N6AtrdSB6D"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/6yLQCqy8EbY7eRTchMZqwz"
+    },
+    {
+      "album": {
+        "name": "Se mig",
+        "url": "https://open.spotify.com/album/3ZFgKDVHC0csLpU5KBqBkY"
+      },
+      "artists": [
+        {
+          "name": "Ida Redig",
+          "url": "https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173355,
+      "name": "Se mig",
+      "url": "https://open.spotify.com/track/7eQqI59dSjsfwB3BZGGBd8"
+    },
+    {
+      "album": {
+        "name": "Handen i fickan fast jag bryr mig",
+        "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226520,
+      "name": "Sergels torg",
+      "url": "https://open.spotify.com/track/48ubkDBO9GAFRkn3hXFHVt"
+    },
+    {
+      "album": {
+        "name": "Sn\u00f6lejoninna",
+        "url": "https://open.spotify.com/album/3yJ75wd6pdWuO0dBoL6HuN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Jannok",
+          "url": "https://open.spotify.com/artist/61GJGvVkImL0wkfUQ5XuR8"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211058,
+      "name": "Sn\u00f6lejoninna",
+      "url": "https://open.spotify.com/track/1bX8OiS0Zt2HaOGHhfsfzp"
+    },
+    {
+      "album": {
+        "name": "Sjung",
+        "url": "https://open.spotify.com/album/1YqHIqrWx3eopxKFPqjqhT"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "Some Die Young",
+      "url": "https://open.spotify.com/track/2bfRfAO1RNWcpNtWJv042o"
+    },
+    {
+      "album": {
+        "name": "Somebody Cares",
+        "url": "https://open.spotify.com/album/2u6BamFyPPBLKazj86v4Ki"
+      },
+      "artists": [
+        {
+          "name": "Alice Babs",
+          "url": "https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192542,
+      "name": "Somebody Cares",
+      "url": "https://open.spotify.com/track/7nKe6gOGhc7Q7HsEDpxEf8"
+    },
+    {
+      "album": {
+        "name": "Svart diamant - EP",
+        "url": "https://open.spotify.com/album/3bUaNRiNxnyShRt2MOxc2q"
+      },
+      "artists": [
+        {
+          "name": "ROSH",
+          "url": "https://open.spotify.com/artist/739zjStIc6EHrV5thshKkp"
+        },
+        {
+          "name": "Vaz",
+          "url": "https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Svart diamant (feat. Vaz)",
+      "url": "https://open.spotify.com/track/4YaxzkqLGqa5YK1yXNvMdb"
+    },
+    {
+      "album": {
+        "name": "To The Soul",
+        "url": "https://open.spotify.com/album/5EMIxmFzKQckoxb3t7zYGH"
+      },
+      "artists": [
+        {
+          "name": "Frida Hyv\u00f6nen",
+          "url": "https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Terribly Dark",
+      "url": "https://open.spotify.com/track/5CUWXQ0aRksf6zqpgy7TrV"
+    },
+    {
+      "album": {
+        "name": "I Am Noonie Bao",
+        "url": "https://open.spotify.com/album/4lih8LOeKRk3NfEtS6QrDW"
+      },
+      "artists": [
+        {
+          "name": "Noonie Bao",
+          "url": "https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/5EWTEDKOcHy9WBjCipm69C"
+    },
+    {
+      "album": {
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/2Y3Tafde2FoT4kIYz4T6uW"
+      },
+      "artists": [
+        {
+          "name": "Crucified Barbara",
+          "url": "https://open.spotify.com/artist/5IHkB1o1qNXwLPe55WWTEH"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275866,
+      "name": "The Ghost Inside",
+      "url": "https://open.spotify.com/track/4zWat1jdF6YpY4mwemP3U6"
+    },
+    {
+      "album": {
+        "name": "The Night Visitor",
+        "url": "https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        },
+        {
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "The Longer The Waiting (The Sweeter The Kiss)",
+      "url": "https://open.spotify.com/track/1ErKzGtRz3WhZgsXsP7RJy"
+    },
+    {
+      "album": {
+        "name": "Livet Enligt Rosa",
+        "url": "https://open.spotify.com/album/1sFPO3y93AB2cduvwZ2xyV"
+      },
+      "artists": [
+        {
+          "name": "Anna Maria Espinosa",
+          "url": "https://open.spotify.com/artist/6nCO4Jv7mU99OS6jLevYVH"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180141,
+      "name": "To Win My Love (Radio Version)",
+      "url": "https://open.spotify.com/track/7b9wsKJ2a2gz147daQovy7"
+    },
+    {
+      "album": {
+        "name": "Diamanter",
+        "url": "https://open.spotify.com/album/14DOGxOeM9kYnVv00q3dT9"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264920,
+      "name": "Trubbel",
+      "url": "https://open.spotify.com/track/0DrH4a0eN0B8H8FI3NndXe"
+    },
+    {
+      "album": {
+        "name": "Samlade S\u00e5nger 1992 - 2003",
+        "url": "https://open.spotify.com/album/1N0Rm7hXCxrZFfQMXIMK0B"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Varje g\u00e5ng jag ser dig",
+      "url": "https://open.spotify.com/track/4kd0nTD3aBqorqT3YfR5DP"
+    },
+    {
+      "album": {
+        "name": "Lisa Ekdahl",
+        "url": "https://open.spotify.com/album/7zt7vhLaqKhVuR08UZSwNP"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Vem vet?",
+      "url": "https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8"
+    },
+    {
+      "album": {
+        "name": "Vintersaga",
+        "url": "https://open.spotify.com/album/744znYXORcYsjxrgKWok7Y"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "Vintersaga",
+      "url": "https://open.spotify.com/track/37SVPyQETIKEMYvWB3oxeZ"
+    },
+    {
+      "album": {
+        "name": "What If Leaving Is a Loving Thing",
+        "url": "https://open.spotify.com/album/5eIZ42osOPPTKEL65l8rV3"
+      },
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "url": "https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229706,
+      "name": "Visit to Vienna",
+      "url": "https://open.spotify.com/track/26UPjxLcM3he1jC5y3L0R9"
+    },
+    {
+      "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r minnenas skull",
+        "url": "https://open.spotify.com/album/64yRsvhrEVd3h2vyQUQI3d"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "date_added": "2015-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "\u00c4ngeln i rummet",
+      "url": "https://open.spotify.com/track/1fSMZgXCGuwH2aweCAnsn8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2EaYMuzaVSdPjJOqg77E2E"
 }

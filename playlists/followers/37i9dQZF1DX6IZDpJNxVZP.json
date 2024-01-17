@@ -1,735 +1,3959 @@
 {
-  "2021-12-25": 56147,
-  "2021-12-26": 56138,
-  "2021-12-27": 56101,
-  "2021-12-28": 56100,
-  "2021-12-29": 56089,
-  "2021-12-30": 56071,
-  "2021-12-31": 56051,
-  "2022-01-01": 56024,
-  "2022-01-02": 56014,
-  "2022-01-03": 56001,
-  "2022-01-04": 55986,
-  "2022-01-05": 55972,
-  "2022-01-06": 55965,
-  "2022-01-07": 55948,
-  "2022-01-08": 55923,
-  "2022-01-09": 55922,
-  "2022-01-10": 55909,
-  "2022-01-11": 55893,
-  "2022-01-12": 55881,
-  "2022-01-13": 55861,
-  "2022-01-14": 55846,
-  "2022-01-15": 55824,
-  "2022-01-16": 55823,
-  "2022-01-17": 55789,
-  "2022-01-18": 55788,
-  "2022-01-19": 55781,
-  "2022-01-20": 55771,
-  "2022-01-21": 55759,
-  "2022-01-22": 55739,
-  "2022-01-23": 55729,
-  "2022-01-24": 55715,
-  "2022-01-25": 55706,
-  "2022-01-26": 55689,
-  "2022-01-27": 55677,
-  "2022-01-28": 55668,
-  "2022-01-29": 55649,
-  "2022-01-30": 55641,
-  "2022-01-31": 55627,
-  "2022-02-01": 55620,
-  "2022-02-02": 55614,
-  "2022-02-03": 55608,
-  "2022-02-04": 55598,
-  "2022-02-05": 55586,
-  "2022-02-06": 55577,
-  "2022-02-07": 55566,
-  "2022-02-08": 55552,
-  "2022-02-09": 55540,
-  "2022-02-10": 55532,
-  "2022-02-11": 55525,
-  "2022-02-12": 55521,
-  "2022-02-13": 55509,
-  "2022-02-14": 55497,
-  "2022-02-15": 55487,
-  "2022-02-16": 55481,
-  "2022-02-17": 55470,
-  "2022-02-18": 55456,
-  "2022-02-19": 55444,
-  "2022-02-20": 55434,
-  "2022-02-21": 55419,
-  "2022-02-22": 55412,
-  "2022-02-23": 55407,
-  "2022-02-24": 55397,
-  "2022-02-25": 55390,
-  "2022-02-26": 55377,
-  "2022-02-27": 55363,
-  "2022-02-28": 55363,
-  "2022-03-01": 55355,
-  "2022-03-02": 55349,
-  "2022-03-03": 55333,
-  "2022-03-04": 55323,
-  "2022-03-05": 55319,
-  "2022-03-06": 55310,
-  "2022-03-07": 55305,
-  "2022-03-08": 55298,
-  "2022-03-09": 55285,
-  "2022-03-10": 55276,
-  "2022-03-11": 55266,
-  "2022-03-12": 55262,
-  "2022-03-13": 55251,
-  "2022-03-14": 55239,
-  "2022-03-15": 55233,
-  "2022-03-16": 55225,
-  "2022-03-17": 55216,
-  "2022-03-18": 55207,
-  "2022-03-19": 55202,
-  "2022-03-20": 55202,
-  "2022-03-21": 55189,
-  "2022-03-22": 55189,
-  "2022-03-23": 55180,
-  "2022-03-24": 55171,
-  "2022-03-25": 55166,
-  "2022-03-26": 55158,
-  "2022-03-27": 55153,
-  "2022-03-28": 55142,
-  "2022-03-30": 55127,
-  "2022-03-31": 55124,
-  "2022-04-01": 55116,
-  "2022-04-02": 55109,
-  "2022-04-03": 55103,
-  "2022-04-04": 55096,
-  "2022-04-05": 55088,
-  "2022-04-06": 55078,
-  "2022-04-07": 55066,
-  "2022-04-08": 55062,
-  "2022-04-09": 55060,
-  "2022-04-10": 55048,
-  "2022-04-11": 55039,
-  "2022-04-12": 55038,
-  "2022-04-13": 55036,
-  "2022-04-14": 55029,
-  "2022-04-15": 55024,
-  "2022-04-16": 55020,
-  "2022-04-17": 55011,
-  "2022-04-18": 55000,
-  "2022-04-19": 54997,
-  "2022-04-20": 54994,
-  "2022-04-21": 54986,
-  "2022-04-22": 54981,
-  "2022-04-23": 54973,
-  "2022-04-24": 54967,
-  "2022-04-25": 54965,
-  "2022-04-26": 54960,
-  "2022-04-27": 54952,
-  "2022-04-28": 54949,
-  "2022-04-29": 54944,
-  "2022-04-30": 54935,
-  "2022-05-01": 54925,
-  "2022-05-02": 54925,
-  "2022-05-03": 54920,
-  "2022-05-04": 54913,
-  "2022-05-05": 54906,
-  "2022-05-06": 54900,
-  "2022-05-07": 54895,
-  "2022-05-08": 54888,
-  "2022-05-09": 54887,
-  "2022-05-10": 54884,
-  "2022-05-11": 54875,
-  "2022-05-12": 54870,
-  "2022-05-13": 54867,
-  "2022-05-14": 54856,
-  "2022-05-15": 54854,
-  "2022-05-16": 54842,
-  "2022-05-17": 54837,
-  "2022-05-18": 54831,
-  "2022-05-19": 54825,
-  "2022-05-20": 54815,
-  "2022-05-21": 54806,
-  "2022-05-22": 54806,
-  "2022-05-23": 54798,
-  "2022-05-24": 54794,
-  "2022-05-25": 54792,
-  "2022-05-26": 54789,
-  "2022-05-27": 54786,
-  "2022-05-28": 54783,
-  "2022-05-29": 54776,
-  "2022-05-30": 54772,
-  "2022-05-31": 54768,
-  "2022-06-01": 54758,
-  "2022-06-02": 54756,
-  "2022-06-03": 54750,
-  "2022-06-04": 54749,
-  "2022-06-05": 54746,
-  "2022-06-06": 54739,
-  "2022-06-07": 54735,
-  "2022-06-08": 54727,
-  "2022-06-09": 54722,
-  "2022-06-10": 54716,
-  "2022-06-11": 54713,
-  "2022-06-12": 54703,
-  "2022-06-13": 54699,
-  "2022-06-14": 54697,
-  "2022-06-15": 54692,
-  "2022-06-16": 54688,
-  "2022-06-17": 54682,
-  "2022-06-18": 54676,
-  "2022-06-19": 54659,
-  "2022-06-20": 54659,
-  "2022-06-21": 54656,
-  "2022-06-22": 54645,
-  "2022-06-23": 54645,
-  "2022-06-24": 54645,
-  "2022-06-25": 54641,
-  "2022-06-26": 54634,
-  "2022-06-27": 54631,
-  "2022-06-28": 54629,
-  "2022-06-29": 54626,
-  "2022-06-30": 54621,
-  "2022-07-01": 54619,
-  "2022-07-02": 54615,
-  "2022-07-03": 54614,
-  "2022-07-04": 54610,
-  "2022-07-05": 54603,
-  "2022-07-06": 54599,
-  "2022-07-07": 54595,
-  "2022-07-08": 54590,
-  "2022-07-09": 54588,
-  "2022-07-10": 54584,
-  "2022-07-11": 54581,
-  "2022-07-12": 54574,
-  "2022-07-13": 54571,
-  "2022-07-14": 54564,
-  "2022-07-15": 54560,
-  "2022-07-16": 54551,
-  "2022-07-17": 54546,
-  "2022-07-18": 54544,
-  "2022-07-19": 54539,
-  "2022-07-20": 54534,
-  "2022-07-21": 54528,
-  "2022-07-22": 54524,
-  "2022-07-23": 54521,
-  "2022-07-24": 54516,
-  "2022-07-25": 54516,
-  "2022-07-26": 54514,
-  "2022-07-27": 54514,
-  "2022-07-28": 54511,
-  "2022-07-29": 54510,
-  "2022-07-30": 54505,
-  "2022-07-31": 54505,
-  "2022-08-01": 54499,
-  "2022-08-02": 54485,
-  "2022-08-03": 54485,
-  "2022-08-04": 54480,
-  "2022-08-05": 54471,
-  "2022-08-06": 54464,
-  "2022-08-07": 54458,
-  "2022-08-08": 54457,
-  "2022-08-09": 54453,
-  "2022-08-10": 54452,
-  "2022-08-11": 54447,
-  "2022-08-12": 54445,
-  "2022-08-13": 54441,
-  "2022-08-14": 54442,
-  "2022-08-15": 54440,
-  "2022-08-16": 54437,
-  "2022-08-17": 54437,
-  "2022-08-18": 54437,
-  "2022-08-19": 54434,
-  "2022-08-20": 54433,
-  "2022-08-21": 54427,
-  "2022-08-22": 54428,
-  "2022-08-23": 54428,
-  "2022-08-24": 54426,
-  "2022-08-25": 54423,
-  "2022-08-26": 54421,
-  "2022-08-27": 54417,
-  "2022-08-28": 54414,
-  "2022-08-29": 54416,
-  "2022-08-30": 54410,
-  "2022-08-31": 54402,
-  "2022-09-01": 54393,
-  "2022-09-02": 54381,
-  "2022-09-03": 54373,
-  "2022-09-04": 54373,
-  "2022-09-05": 54370,
-  "2022-09-06": 54374,
-  "2022-09-07": 54372,
-  "2022-09-09": 54369,
-  "2022-09-10": 54364,
-  "2022-09-11": 54362,
-  "2022-09-12": 54360,
-  "2022-09-13": 54361,
-  "2022-09-15": 54361,
-  "2022-09-16": 54359,
-  "2022-09-17": 54357,
-  "2022-09-18": 54356,
-  "2022-09-19": 54364,
-  "2022-09-20": 54372,
-  "2022-09-21": 54369,
-  "2022-09-22": 54368,
-  "2022-09-23": 54374,
-  "2022-09-24": 54382,
-  "2022-09-25": 54390,
-  "2022-09-26": 54395,
-  "2022-09-27": 54400,
-  "2022-09-28": 54402,
-  "2022-09-29": 54410,
-  "2022-09-30": 54406,
-  "2022-10-01": 54411,
-  "2022-10-02": 54441,
-  "2022-10-03": 54476,
-  "2022-10-04": 54520,
-  "2022-10-05": 54586,
-  "2022-10-06": 54666,
-  "2022-10-07": 54768,
-  "2022-10-08": 54842,
-  "2022-10-09": 54973,
-  "2022-10-10": 55005,
-  "2022-10-11": 55095,
-  "2022-10-12": 55175,
-  "2022-10-13": 55243,
-  "2022-10-14": 55341,
-  "2022-10-15": 55498,
-  "2022-10-16": 55746,
-  "2022-10-17": 55979,
-  "2022-10-18": 56189,
-  "2022-10-19": 56439,
-  "2022-10-20": 56725,
-  "2022-10-21": 57050,
-  "2022-10-22": 57381,
-  "2022-10-23": 57780,
-  "2022-10-24": 58126,
-  "2022-10-25": 58418,
-  "2022-10-26": 58923,
-  "2022-10-27": 59374,
-  "2022-10-28": 59828,
-  "2022-10-29": 60618,
-  "2022-10-30": 61416,
-  "2022-10-31": 62002,
-  "2022-11-01": 64064,
-  "2022-11-02": 64082,
-  "2022-11-03": 64065,
-  "2022-11-04": 64036,
-  "2022-11-05": 64014,
-  "2022-11-06": 63993,
-  "2022-11-07": 63972,
-  "2022-11-08": 63938,
-  "2022-11-09": 63915,
-  "2022-11-10": 63894,
-  "2022-11-11": 63865,
-  "2022-11-12": 63831,
-  "2022-11-13": 63822,
-  "2022-11-14": 63807,
-  "2022-11-15": 63792,
-  "2022-11-16": 63772,
-  "2022-11-17": 63752,
-  "2022-11-18": 63735,
-  "2022-11-19": 63718,
-  "2022-11-20": 63695,
-  "2022-11-21": 63677,
-  "2022-11-22": 63669,
-  "2022-11-23": 63648,
-  "2022-11-24": 63654,
-  "2022-11-25": 63648,
-  "2022-11-26": 63632,
-  "2022-11-27": 63627,
-  "2022-11-28": 63622,
-  "2022-11-29": 63614,
-  "2022-11-30": 63595,
-  "2022-12-01": 63572,
-  "2022-12-02": 63561,
-  "2022-12-03": 63537,
-  "2022-12-04": 63532,
-  "2022-12-05": 63518,
-  "2022-12-06": 63510,
-  "2022-12-07": 63499,
-  "2022-12-08": 63485,
-  "2022-12-09": 63475,
-  "2022-12-10": 63465,
-  "2022-12-11": 63459,
-  "2022-12-12": 63452,
-  "2022-12-13": 63444,
-  "2022-12-14": 63429,
-  "2022-12-15": 63424,
-  "2022-12-16": 63421,
-  "2022-12-17": 63417,
-  "2022-12-18": 63415,
-  "2022-12-19": 63408,
-  "2022-12-20": 63390,
-  "2022-12-21": 63390,
-  "2022-12-22": 63382,
-  "2022-12-24": 63368,
-  "2022-12-25": 63356,
-  "2022-12-26": 63353,
-  "2022-12-27": 63347,
-  "2022-12-28": 63335,
-  "2022-12-29": 63331,
-  "2022-12-30": 63322,
-  "2022-12-31": 63309,
-  "2023-01-01": 63297,
-  "2023-01-02": 63297,
-  "2023-01-03": 63281,
-  "2023-01-04": 63271,
-  "2023-01-05": 63259,
-  "2023-01-06": 63245,
-  "2023-01-07": 63222,
-  "2023-01-08": 63221,
-  "2023-01-09": 63214,
-  "2023-01-10": 63202,
-  "2023-01-11": 63196,
-  "2023-01-12": 63186,
-  "2023-01-13": 63176,
-  "2023-01-14": 63168,
-  "2023-01-15": 63167,
-  "2023-01-16": 63169,
-  "2023-01-17": 63158,
-  "2023-01-18": 63149,
-  "2023-01-19": 63142,
-  "2023-01-20": 63136,
-  "2023-01-21": 63127,
-  "2023-01-22": 63111,
-  "2023-01-23": 63110,
-  "2023-01-24": 63112,
-  "2023-01-25": 63103,
-  "2023-01-26": 63100,
-  "2023-01-27": 63082,
-  "2023-01-28": 63073,
-  "2023-01-29": 63066,
-  "2023-01-30": 63061,
-  "2023-01-31": 63061,
-  "2023-02-01": 63052,
-  "2023-02-02": 63045,
-  "2023-02-03": 63039,
-  "2023-02-04": 63034,
-  "2023-02-05": 63032,
-  "2023-02-06": 63023,
-  "2023-02-07": 63015,
-  "2023-02-08": 62997,
-  "2023-02-09": 62997,
-  "2023-02-10": 62992,
-  "2023-02-11": 62977,
-  "2023-02-12": 62971,
-  "2023-02-13": 62968,
-  "2023-02-14": 62968,
-  "2023-02-15": 62962,
-  "2023-02-16": 62962,
-  "2023-02-17": 62958,
-  "2023-02-18": 62952,
-  "2023-02-19": 62950,
-  "2023-02-20": 62944,
-  "2023-02-21": 62937,
-  "2023-02-22": 62940,
-  "2023-02-23": 62941,
-  "2023-02-24": 62934,
-  "2023-02-25": 62929,
-  "2023-02-26": 62929,
-  "2023-02-27": 62919,
-  "2023-02-28": 62919,
-  "2023-03-01": 62913,
-  "2023-03-02": 62909,
-  "2023-03-03": 62912,
-  "2023-03-04": 62905,
-  "2023-03-05": 62896,
-  "2023-03-06": 62896,
-  "2023-03-07": 62893,
-  "2023-03-08": 62894,
-  "2023-03-09": 62888,
-  "2023-03-10": 62885,
-  "2023-03-11": 62883,
-  "2023-03-12": 62878,
-  "2023-03-13": 62873,
-  "2023-03-14": 62872,
-  "2023-03-15": 62864,
-  "2023-03-16": 62856,
-  "2023-03-17": 62856,
-  "2023-03-18": 62854,
-  "2023-03-19": 62852,
-  "2023-03-20": 62852,
-  "2023-03-21": 62843,
-  "2023-03-22": 62839,
-  "2023-03-23": 62835,
-  "2023-03-24": 62835,
-  "2023-03-25": 62831,
-  "2023-03-26": 62825,
-  "2023-03-27": 62821,
-  "2023-03-28": 62816,
-  "2023-03-29": 62816,
-  "2023-03-30": 62807,
-  "2023-03-31": 62807,
-  "2023-04-01": 62803,
-  "2023-04-02": 62797,
-  "2023-04-03": 62796,
-  "2023-04-04": 62794,
-  "2023-04-05": 62790,
-  "2023-04-06": 62786,
-  "2023-04-07": 62785,
-  "2023-04-09": 62777,
-  "2023-04-10": 62779,
-  "2023-04-11": 62777,
-  "2023-04-12": 62777,
-  "2023-04-13": 62768,
-  "2023-04-14": 62767,
-  "2023-04-15": 62762,
-  "2023-04-16": 62755,
-  "2023-04-17": 62748,
-  "2023-04-18": 62741,
-  "2023-04-19": 62729,
-  "2023-04-20": 62728,
-  "2023-04-21": 62727,
-  "2023-04-22": 62720,
-  "2023-04-23": 62723,
-  "2023-04-24": 62713,
-  "2023-04-25": 62713,
-  "2023-04-26": 62715,
-  "2023-04-27": 62711,
-  "2023-04-28": 62709,
-  "2023-04-29": 62704,
-  "2023-04-30": 62706,
-  "2023-05-01": 62706,
-  "2023-05-02": 62706,
-  "2023-05-03": 62708,
-  "2023-05-04": 62703,
-  "2023-05-05": 62700,
-  "2023-05-06": 62700,
-  "2023-05-07": 62699,
-  "2023-05-08": 62695,
-  "2023-05-09": 62695,
-  "2023-05-10": 62692,
-  "2023-05-11": 62692,
-  "2023-05-12": 62692,
-  "2023-05-13": 62695,
-  "2023-05-14": 62702,
-  "2023-05-15": 62699,
-  "2023-05-16": 62697,
-  "2023-05-17": 62691,
-  "2023-05-18": 62692,
-  "2023-05-19": 62686,
-  "2023-05-20": 62687,
-  "2023-05-21": 62687,
-  "2023-05-22": 62687,
-  "2023-05-23": 62684,
-  "2023-05-24": 62687,
-  "2023-05-25": 62687,
-  "2023-05-26": 62685,
-  "2023-05-27": 62684,
-  "2023-05-28": 62683,
-  "2023-05-29": 62683,
-  "2023-05-30": 62689,
-  "2023-05-31": 62697,
-  "2023-06-01": 62698,
-  "2023-06-02": 62704,
-  "2023-06-03": 62703,
-  "2023-06-04": 62704,
-  "2023-06-05": 62702,
-  "2023-06-06": 62699,
-  "2023-06-07": 62702,
-  "2023-06-08": 62696,
-  "2023-06-09": 62695,
-  "2023-06-10": 62693,
-  "2023-06-11": 62695,
-  "2023-06-12": 62695,
-  "2023-06-13": 62697,
-  "2023-06-14": 62695,
-  "2023-06-15": 62691,
-  "2023-06-16": 62692,
-  "2023-06-17": 62693,
-  "2023-06-18": 62699,
-  "2023-06-19": 62708,
-  "2023-06-20": 62708,
-  "2023-06-21": 62711,
-  "2023-06-22": 62712,
-  "2023-06-23": 62711,
-  "2023-06-24": 62708,
-  "2023-06-25": 62707,
-  "2023-06-26": 62708,
-  "2023-06-27": 62706,
-  "2023-06-28": 62708,
-  "2023-06-29": 62710,
-  "2023-06-30": 62708,
-  "2023-07-01": 62712,
-  "2023-07-02": 62712,
-  "2023-07-03": 62717,
-  "2023-07-04": 62721,
-  "2023-07-05": 62724,
-  "2023-07-06": 62730,
-  "2023-07-07": 62730,
-  "2023-07-08": 62722,
-  "2023-07-09": 62718,
-  "2023-07-10": 62712,
-  "2023-07-11": 62706,
-  "2023-07-12": 62708,
-  "2023-07-13": 62706,
-  "2023-07-14": 62713,
-  "2023-07-15": 62715,
-  "2023-07-16": 62717,
-  "2023-07-17": 62727,
-  "2023-07-18": 62726,
-  "2023-07-19": 62734,
-  "2023-07-20": 62738,
-  "2023-07-21": 62741,
-  "2023-07-22": 62741,
-  "2023-07-23": 62741,
-  "2023-07-24": 62746,
-  "2023-07-25": 62749,
-  "2023-07-26": 62751,
-  "2023-07-27": 62756,
-  "2023-07-28": 62762,
-  "2023-07-29": 62767,
-  "2023-07-30": 62763,
-  "2023-07-31": 62776,
-  "2023-08-01": 62777,
-  "2023-08-02": 62778,
-  "2023-08-03": 62784,
-  "2023-08-04": 62790,
-  "2023-08-05": 62798,
-  "2023-08-06": 62809,
-  "2023-08-07": 62809,
-  "2023-08-08": 62806,
-  "2023-08-09": 62813,
-  "2023-08-10": 62810,
-  "2023-08-11": 62804,
-  "2023-08-12": 62808,
-  "2023-08-13": 62809,
-  "2023-08-14": 62806,
-  "2023-08-15": 62805,
-  "2023-08-16": 62805,
-  "2023-08-17": 62811,
-  "2023-08-18": 62818,
-  "2023-08-19": 62823,
-  "2023-08-20": 62832,
-  "2023-08-21": 62840,
-  "2023-08-22": 62846,
-  "2023-08-23": 62847,
-  "2023-08-24": 62851,
-  "2023-08-25": 62857,
-  "2023-08-26": 62867,
-  "2023-08-27": 62876,
-  "2023-08-28": 62881,
-  "2023-08-29": 62886,
-  "2023-08-30": 62886,
-  "2023-08-31": 62893,
-  "2023-09-01": 62905,
-  "2023-09-02": 62905,
-  "2023-09-03": 62913,
-  "2023-09-04": 62925,
-  "2023-09-05": 62938,
-  "2023-09-06": 62948,
-  "2023-09-07": 62957,
-  "2023-09-08": 62959,
-  "2023-09-09": 62974,
-  "2023-09-10": 62986,
-  "2023-09-11": 62997,
-  "2023-09-12": 63002,
-  "2023-09-13": 63013,
-  "2023-09-14": 63022,
-  "2023-09-15": 63023,
-  "2023-09-16": 63035,
-  "2023-09-17": 63043,
-  "2023-09-18": 63056,
-  "2023-09-19": 63058,
-  "2023-09-20": 63058,
-  "2023-09-21": 63072,
-  "2023-09-22": 63076,
-  "2023-09-23": 63075,
-  "2023-09-24": 63088,
-  "2023-09-25": 63096,
-  "2023-09-26": 63159,
-  "2023-09-27": 63207,
-  "2023-09-28": 63272,
-  "2023-09-29": 63315,
-  "2023-09-30": 63375,
-  "2023-10-01": 63430,
-  "2023-10-02": 63500,
-  "2023-10-03": 63549,
-  "2023-10-04": 63607,
-  "2023-10-05": 63664,
-  "2023-10-06": 63708,
-  "2023-10-07": 63740,
-  "2023-10-08": 63777,
-  "2023-10-09": 63814,
-  "2023-10-10": 63754,
-  "2023-10-11": 63734,
-  "2023-10-12": 63734,
-  "2023-10-13": 63681,
-  "2023-10-14": 63680,
-  "2023-10-15": 63739,
-  "2023-10-16": 63818,
-  "2023-10-17": 63956,
-  "2023-10-18": 64129,
-  "2023-10-19": 64287,
-  "2023-10-20": 64454,
-  "2023-10-21": 64574,
-  "2023-10-22": 64710,
-  "2023-10-23": 64843,
-  "2023-10-24": 64937,
-  "2023-10-25": 65046,
-  "2023-10-26": 65146,
-  "2023-10-27": 65281,
-  "2023-10-28": 65499,
-  "2023-10-29": 65965,
-  "2023-10-30": 66268,
-  "2023-10-31": 66268,
-  "2023-11-01": 67560,
-  "2023-11-02": 67512,
-  "2023-11-03": 67508,
-  "2023-11-04": 67495,
-  "2023-11-05": 67510,
-  "2023-11-06": 67485,
-  "2023-11-07": 67478,
-  "2023-11-08": 67473,
-  "2023-11-09": 67470,
-  "2023-11-10": 67465,
-  "2023-11-11": 67465,
-  "2023-11-12": 67467,
-  "2023-11-13": 67469,
-  "2023-11-14": 67461,
-  "2023-11-15": 67461,
-  "2023-11-16": 67446,
-  "2023-11-17": 67422,
-  "2023-11-18": 67422,
-  "2023-11-19": 67411,
-  "2023-11-20": 67401,
-  "2023-11-21": 67386,
-  "2023-11-22": 67377,
-  "2023-11-23": 67371,
-  "2023-11-24": 67360,
-  "2023-11-25": 67354,
-  "2023-11-26": 67345,
-  "2023-11-27": 67341,
-  "2023-11-28": 67331,
-  "2023-11-29": 67305,
-  "2023-11-30": 67305,
-  "2023-12-01": 67294,
-  "2023-12-02": 67286,
-  "2023-12-03": 67276,
-  "2023-12-04": 67271,
-  "2023-12-05": 67265,
-  "2023-12-06": 67256,
-  "2023-12-07": 67251,
-  "2023-12-08": 67248,
-  "2023-12-09": 67242,
-  "2023-12-10": 67238,
-  "2023-12-11": 67233,
-  "2023-12-12": 67223,
-  "2023-12-13": 67222,
-  "2023-12-14": 67221,
-  "2023-12-15": 67217,
-  "2023-12-16": 67217,
-  "2023-12-17": 67215,
-  "2023-12-18": 67213,
-  "2023-12-19": 67203,
-  "2023-12-20": 67201,
-  "2023-12-21": 67199,
-  "2023-12-22": 67195,
-  "2023-12-23": 67192,
-  "2023-12-24": 67190,
-  "2023-12-25": 67184,
-  "2023-12-26": 67180,
-  "2023-12-27": 67173,
-  "2023-12-30": 67158,
-  "2023-12-31": 67154,
-  "2024-01-01": 67143,
-  "2024-01-02": 67135,
-  "2024-01-03": 67130
+  "2024-01-17": 66601,
+  "date_first_scraped": "2021-12-21",
+  "description": "Celebrate Halloween at home with these fun tracks",
+  "name": "Trick or Treat",
+  "tracks": [
+    {
+      "album": {
+        "name": "Learn to Count with LitttleBabyBum! Counting & Number Songs for Children, Vol. 1",
+        "url": "https://open.spotify.com/album/2RzdkdQwLO5gHsNLrtN2Au"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97183,
+      "name": "5 Little Monsters",
+      "url": "https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH"
+    },
+    {
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 8: Children's Sing Along Songs",
+        "url": "https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142536,
+      "name": "A Haunted House on Halloween Night",
+      "url": "https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "A Nightmare On My Street",
+      "url": "https://open.spotify.com/track/6z1MBaO36cMLtBnlVjJP2b"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 235519,
+      "name": "A Nightmare On My Street",
+      "url": "https://open.spotify.com/track/6z2ioD6ikzth6aTkYWFvSu"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids: Party Songs and Sound Effects",
+        "url": "https://open.spotify.com/album/6UBoipzz4mxE0SGs6IRuzN"
+      },
+      "artists": [
+        {
+          "name": "Halloween Kids",
+          "url": "https://open.spotify.com/artist/6MFuXk9n7iZreVFl6MUo3h"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83606,
+      "name": "Adams Family Theme Song",
+      "url": "https://open.spotify.com/track/170q55BUUCSdUrjS38hVjf"
+    },
+    {
+      "album": {
+        "name": "Ain't No Party Like Halloween",
+        "url": "https://open.spotify.com/album/3c5QVNtP0v79PwlzYwlYSU"
+      },
+      "artists": [
+        {
+          "name": "Secret Agent 23 Skidoo",
+          "url": "https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204652,
+      "name": "Ain't No Party Like Halloween",
+      "url": "https://open.spotify.com/track/2PSAudepLWTZgKx3hmTUpg"
+    },
+    {
+      "album": {
+        "name": "Easter Baskets (Easter Fun and Games for Kids)",
+        "url": "https://open.spotify.com/album/4YCJjxXU53Q0OOuHViqYOb"
+      },
+      "artists": [
+        {
+          "name": "Easter Kidstime Party Band",
+          "url": "https://open.spotify.com/artist/0OJ36jdlA7JoW01dc1heot"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 44500,
+      "name": "Are You Afraid of the Dark",
+      "url": "https://open.spotify.com/track/3QYESiSML0hfJCfCVrOU0x"
+    },
+    {
+      "album": {
+        "name": "Kid's TV Themes (30 Children's TV Classics New & Old)",
+        "url": "https://open.spotify.com/album/5MwKllUQqlGq1nlM1WvNQ9"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44500,
+      "name": "Are You Afraid of the Dark (From \"Are You Afraid of the Dark\") - Halloween Party Mix",
+      "url": "https://open.spotify.com/track/6LFekuyzHrOOoAMHEhpICx"
+    },
+    {
+      "album": {
+        "name": "Ghostly Games for Kids - 65 Spooky Halloween Tunes",
+        "url": "https://open.spotify.com/album/7N2hcqAf5sI2ms5yGAqB2y"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 44500,
+      "name": "Are You Afraid of the Dark Main Theme (From \"Are You Afraid of the Dark\") - Halloween Party Mix",
+      "url": "https://open.spotify.com/track/0hnglJUALErhvkTGP4cJ0j"
+    },
+    {
+      "album": {
+        "name": "Halloween Fun and Games for Kids",
+        "url": "https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-23",
+      "duration_ms": 44500,
+      "name": "Are You Afraid of the Dark Theme - Halloween Party Mix",
+      "url": "https://open.spotify.com/track/4DwlwNbUMKJvAFkc3dCVpZ"
+    },
+    {
+      "album": {
+        "name": "Baby Ghost",
+        "url": "https://open.spotify.com/album/0oDKbLKGqzWUqSd8Ld32Qw"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96709,
+      "name": "Baby Ghost",
+      "url": "https://open.spotify.com/track/5ojQFlYr2HgRxV8GPT6yAH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq"
+    },
+    {
+      "album": {
+        "name": "Kids Halloween Party Music",
+        "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "Batman Theme",
+      "url": "https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL"
+    },
+    {
+      "album": {
+        "name": "Bones! Bones! Bones!",
+        "url": "https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Awesome Sauce",
+          "url": "https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97455,
+      "name": "Bones! Bones! Bones!",
+      "url": "https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7"
+    },
+    {
+      "album": {
+        "name": "Play Along With Sam: BOO!",
+        "url": "https://open.spotify.com/album/7mxuyTQ5lj6KFelI8zv8EW"
+      },
+      "artists": [
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124022,
+      "name": "BOO!",
+      "url": "https://open.spotify.com/track/2mCzGRsiuMYDZnc9q7N7Hu"
+    },
+    {
+      "album": {
+        "name": "The Best Halloween Stories for Kids",
+        "url": "https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150493,
+      "name": "Bump in the Night",
+      "url": "https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop"
+    },
+    {
+      "album": {
+        "name": "Bumps in the Night",
+        "url": "https://open.spotify.com/album/22T70YwMgTaTl9saldJGDO"
+      },
+      "artists": [
+        {
+          "name": "KB Whirly",
+          "url": "https://open.spotify.com/artist/7B2JoMPGHMLWXKfuhLa892"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156548,
+      "name": "Bumps in the Night",
+      "url": "https://open.spotify.com/track/5JzhuMnBiO3GEG7dZ5RVIK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214879,
+      "name": "Candy Girl",
+      "url": "https://open.spotify.com/track/7JWdD53mrh74GCdkHR531r"
+    },
+    {
+      "album": {
+        "name": "Bestest Kids Halloween Songs Ever",
+        "url": "https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82840,
+      "name": "Casper The Friendly Ghost",
+      "url": "https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk"
+    },
+    {
+      "album": {
+        "name": "Everyone Together Now!",
+        "url": "https://open.spotify.com/album/15zXp1K6Q2RlZxBhuBC9sK"
+      },
+      "artists": [
+        {
+          "name": "Mil's Trills",
+          "url": "https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj"
+        },
+        {
+          "name": "Amelia Robinson",
+          "url": "https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/2Ur5ADNf6q89b3HsEiE9LU"
+    },
+    {
+      "album": {
+        "name": "The Pop Ups Essentials",
+        "url": "https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 265332,
+      "name": "Costume Party",
+      "url": "https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3"
+    },
+    {
+      "album": {
+        "name": "The Pop Ups Essentials",
+        "url": "https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265332,
+      "name": "Costume Party",
+      "url": "https://open.spotify.com/track/752gzqJYvYKjGfPOiGzEPS"
+    },
+    {
+      "album": {
+        "name": "101 Dalmatians",
+        "url": "https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr"
+      },
+      "artists": [
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303760,
+      "name": "Cruella De Vil - From \"101 Dalmatians\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN"
+    },
+    {
+      "album": {
+        "name": "The 50 Best Summer Songs",
+        "url": "https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184933,
+      "name": "Day-O (The Banana Boat Song)",
+      "url": "https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC"
+    },
+    {
+      "album": {
+        "name": "Halloween y diversi\u00f3n para peques",
+        "url": "https://open.spotify.com/album/3l7nn2ZoTDBGnMrOzsB6dT"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161560,
+      "name": "Ding Dong The Witch Is Dead",
+      "url": "https://open.spotify.com/track/5mkjplHZNNa8ebq0ZEucBh"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 174933,
+      "name": "Ding Dong The Witch Is Dead",
+      "url": "https://open.spotify.com/track/0HtwOTyMC27b6I9xY3b5OH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174960,
+      "name": "Ding Dong The Witch Is Dead",
+      "url": "https://open.spotify.com/track/2sr9uIqzkfWgeQwOKyI97Z"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173039,
+      "name": "Ding-Dong! The Witch Is Dead",
+      "url": "https://open.spotify.com/track/1pR2YLSmjE5XdXdrdiSKbY"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207746,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/00EWWA1tKqSTugshap445P"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 207973,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/41k7b8nkY1Xx6H00Ux348r"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV"
+    },
+    {
+      "album": {
+        "name": "Kids Trap Halloween",
+        "url": "https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La"
+      },
+      "artists": [
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        },
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142628,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/5yWfv221O1PWuEmq2FRMEn"
+    },
+    {
+      "album": {
+        "name": "DRACULA: A Children's Story",
+        "url": "https://open.spotify.com/album/75bHKoH63jSVVuhOrcVHgF"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 312402,
+      "name": "DRACULA: A Children's Story",
+      "url": "https://open.spotify.com/track/40OHlrykUVxbIp1OUcOr3U"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Halloween",
+        "url": "https://open.spotify.com/album/7J38JSeloioAyrcZtVV3Jm"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 116389,
+      "name": "Eeny Meeny Miny Monster",
+      "url": "https://open.spotify.com/track/0hYADFwp87tvEGJGsPPy7T"
+    },
+    {
+      "album": {
+        "name": "Halloween With Cocomelon",
+        "url": "https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 116389,
+      "name": "Eeny Meeny Miny Monster",
+      "url": "https://open.spotify.com/track/3q3qBl2tHuOTu35SozYFBF"
+    },
+    {
+      "album": {
+        "name": "Descendants (Original TV Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "Evil Like Me",
+      "url": "https://open.spotify.com/track/0oe0UYSKAESBUR12I1ESXQ"
+    },
+    {
+      "album": {
+        "name": "This is the Way We Trick or Treat & More Kids Halloween Songs",
+        "url": "https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125547,
+      "name": "Five Little Ghosts",
+      "url": "https://open.spotify.com/track/0ABAdoCdNORkJqMIB5rbwv"
+    },
+    {
+      "album": {
+        "name": "Preschool Halloween Songs",
+        "url": "https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Five Little Pumpkins Sitting on a Gate",
+      "url": "https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN"
+    },
+    {
+      "album": {
+        "name": "Ghost in My House",
+        "url": "https://open.spotify.com/album/5E6psWOfS7OSASUjYWbn0v"
+      },
+      "artists": [
+        {
+          "name": "Jumpin' jamie",
+          "url": "https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 201110,
+      "name": "Ghost in My House",
+      "url": "https://open.spotify.com/track/0DCob65XLxSCojZZr0SWPu"
+    },
+    {
+      "album": {
+        "name": "Kookie",
+        "url": "https://open.spotify.com/album/0Wg1YzktkuNoyV48GFQ2Wz"
+      },
+      "artists": [
+        {
+          "name": "Jumpin' jamie",
+          "url": "https://open.spotify.com/artist/2xrfLcoMMhihcXbCHl7Ytt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201110,
+      "name": "Ghost in My House",
+      "url": "https://open.spotify.com/track/0RKlpEAPELRwO3LbCX6Sgh"
+    },
+    {
+      "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "album": {
+        "name": "Ghostbusters (Original Motion Picture Soundtrack) [1984]",
+        "url": "https://open.spotify.com/album/61n9hzk4CiJRrCmrEfBXRJ"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/0phGofl3ppS5Itk1zM9eKa"
+    },
+    {
+      "album": {
+        "name": "Happy Haunted Halloween",
+        "url": "https://open.spotify.com/album/13f41FYKOgFUuGKyHXWxHH"
+      },
+      "artists": [
+        {
+          "name": "Mr. Singer & The Sharp Cookies",
+          "url": "https://open.spotify.com/artist/2cNEUfwTvDZy45RQYjDlHv"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Going to a Ghost Town",
+      "url": "https://open.spotify.com/track/2iVCjCKBXRFKvvnsBUTxSh"
+    },
+    {
+      "album": {
+        "name": "Happy Haunted Halloween",
+        "url": "https://open.spotify.com/album/13f41FYKOgFUuGKyHXWxHH"
+      },
+      "artists": [
+        {
+          "name": "Mr. Singer & The Sharp Cookies",
+          "url": "https://open.spotify.com/artist/2cNEUfwTvDZy45RQYjDlHv"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Gonna Get Me a Monster",
+      "url": "https://open.spotify.com/track/5YaeRgZ2HFIoLGVHvO4JWK"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Monsters & Goosebumps",
+        "url": "https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141777,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/5XZz9OwrEQJVpgkntifwzk"
+    },
+    {
+      "album": {
+        "name": "Cocomelon & Friends Halloween",
+        "url": "https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183387,
+      "name": "Graveyard Dance-Off",
+      "url": "https://open.spotify.com/track/0EdZLLA7xYslXoEvzby2So"
+    },
+    {
+      "album": {
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183387,
+      "name": "Graveyard Dance-Off",
+      "url": "https://open.spotify.com/track/0XAl1fAdJlcLZVmKp4rnbu"
+    },
+    {
+      "album": {
+        "name": "Disney Classics",
+        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
+      },
+      "artists": [
+        {
+          "name": "The Melomen",
+          "url": "https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB"
+        },
+        {
+          "name": "Paul Frees",
+          "url": "https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk"
+        },
+        {
+          "name": "Betty Taylor",
+          "url": "https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1"
+        },
+        {
+          "name": "Bill Lee",
+          "url": "https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL"
+        },
+        {
+          "name": "Thurl Ravenscroft",
+          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332906,
+      "name": "Grim Grinning Ghosts - From \"The Haunted Mansion\"",
+      "url": "https://open.spotify.com/track/6PDomgzbyDHx0pxJwWQ5HI"
+    },
+    {
+      "album": {
+        "name": "Halloveen",
+        "url": "https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy"
+      },
+      "artists": [
+        {
+          "name": "Little Ditto",
+          "url": "https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116288,
+      "name": "Halloveen",
+      "url": "https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2"
+    },
+    {
+      "album": {
+        "name": "Kids Trap Halloween",
+        "url": "https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La"
+      },
+      "artists": [
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        },
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104306,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147107,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Halloween at School",
+      "url": "https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125884,
+      "name": "Halloween Boogie Dance",
+      "url": "https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs 2",
+        "url": "https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110965,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
+    },
+    {
+      "album": {
+        "name": "Halloween Floor is Lava",
+        "url": "https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Halloween Floor is Lava",
+      "url": "https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I"
+    },
+    {
+      "album": {
+        "name": "Halloween Is Finally Here",
+        "url": "https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3"
+      },
+      "artists": [
+        {
+          "name": "Bears and Lions",
+          "url": "https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105586,
+      "name": "Halloween Is Finally Here",
+      "url": "https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh"
+    },
+    {
+      "album": {
+        "name": "Halloween Jack In The Box",
+        "url": "https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D"
+      },
+      "artists": [
+        {
+          "name": "The MikMaks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 119000,
+      "name": "Halloween Jack In The Box",
+      "url": "https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu"
+    },
+    {
+      "album": {
+        "name": "Halloween Night",
+        "url": "https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5"
+      },
+      "artists": [
+        {
+          "name": "Like Father Like Son",
+          "url": "https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206143,
+      "name": "Halloween Night",
+      "url": "https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg"
+    },
+    {
+      "album": {
+        "name": "Halloween Night",
+        "url": "https://open.spotify.com/album/1nLJKyLcltqRpexKUN43tz"
+      },
+      "artists": [
+        {
+          "name": "Little Blue Globe Band",
+          "url": "https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 137234,
+      "name": "Halloween Night",
+      "url": "https://open.spotify.com/track/7FRaszW7wMNkVwZztGansN"
+    },
+    {
+      "album": {
+        "name": "Halloween Night",
+        "url": "https://open.spotify.com/album/6wRmojz3wzGxq6nbbntwZS"
+      },
+      "artists": [
+        {
+          "name": "Little Blue Globe Band",
+          "url": "https://open.spotify.com/artist/4kajLiIKFFPxfQdtCgYuOq"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 138234,
+      "name": "Halloween Night",
+      "url": "https://open.spotify.com/track/10HzJHG4qFRAcxxQWOAlTg"
+    },
+    {
+      "album": {
+        "name": "Halloween Oh Halloween Song for Kids",
+        "url": "https://open.spotify.com/album/3jojeJFmhtogkLitNNOSoN"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191699,
+      "name": "Halloween Oh Halloween Song for Kids",
+      "url": "https://open.spotify.com/track/5Y7G0aWQ1Um9VyMQFOty1I"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134141,
+      "name": "Halloween Party",
+      "url": "https://open.spotify.com/track/3slFq8eyDLgZa415zxHPrV"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/4TNubeWlW4FPG1hXRRzVxo"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134141,
+      "name": "Halloween Party",
+      "url": "https://open.spotify.com/track/7iqijTBAtZidxC3teIrGK9"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Halloween Rules",
+      "url": "https://open.spotify.com/track/22MrUsCoZsypVksOdgGBtJ"
+    },
+    {
+      "album": {
+        "name": "Baby Shark Special",
+        "url": "https://open.spotify.com/album/32rfxYeHQua1OqWpmBEK90"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95291,
+      "name": "Halloween Shark",
+      "url": "https://open.spotify.com/track/1Pt4uDDVb4kl9BQngDohY3"
+    },
+    {
+      "album": {
+        "name": "Blippi & Friends Halloween",
+        "url": "https://open.spotify.com/album/54l6QDK8Tz9a5dbPV3wmuV"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158608,
+      "name": "Halloween Song",
+      "url": "https://open.spotify.com/track/1qMjcS1I4cvd04rvjadGI9"
+    },
+    {
+      "album": {
+        "name": "Halloween Song",
+        "url": "https://open.spotify.com/album/4Olv8YYdSgaWqXMPrDIjgO"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158608,
+      "name": "Halloween Song",
+      "url": "https://open.spotify.com/track/6Avwx0hg6gz2UmN7DAyK6w"
+    },
+    {
+      "album": {
+        "name": "Blippi Essentials",
+        "url": "https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Halloween Song",
+      "url": "https://open.spotify.com/track/7lKVNgm75OpgfdCI3Kpkoc"
+    },
+    {
+      "album": {
+        "name": "Halloween Train",
+        "url": "https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "Halloween Train",
+      "url": "https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7"
+    },
+    {
+      "album": {
+        "name": "Happy Halloween",
+        "url": "https://open.spotify.com/album/1ZrBWKo38JZcs4QwqwFrDU"
+      },
+      "artists": [
+        {
+          "name": "Sing-A-Saurus",
+          "url": "https://open.spotify.com/artist/35u0nCaFF1RXsDjf0aYn8M"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Happy Halloween",
+      "url": "https://open.spotify.com/track/6sXyNJtkTkLXny7HEtQIhb"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz"
+      },
+      "artists": [
+        {
+          "name": "Dad Jokes Duo",
+          "url": "https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172993,
+      "name": "Happy Happy Halloween",
+      "url": "https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+    },
+    {
+      "album": {
+        "name": "This is the Way We Trick or Treat & More Kids Halloween Songs",
+        "url": "https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158229,
+      "name": "Hello, Trick or Treat?",
+      "url": "https://open.spotify.com/track/0RcldlMDk4i2MRsbyHaEkq"
+    },
+    {
+      "album": {
+        "name": "I Picked One Pumpkin",
+        "url": "https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130916,
+      "name": "I Picked One Pumpkin",
+      "url": "https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu"
+    },
+    {
+      "album": {
+        "name": "57 Kids Greatest Halloween Songs, Stories, And Sounds",
+        "url": "https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Tigger",
+          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72426,
+      "name": "I Wanna Scare Myself",
+      "url": "https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs & Sounds",
+        "url": "https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo"
+      },
+      "artists": [
+        {
+          "name": "Tigger",
+          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73093,
+      "name": "I Wanna Scare Myself",
+      "url": "https://open.spotify.com/track/1rd06xXXXPuZsa1u4K5qwF"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 164533,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 80s Gold",
+        "url": "https://open.spotify.com/album/28ZiTmTCzG7D4J6Mr1lMIX"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 165333,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6JSti8EXneP1ufpN7kAXdC"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170853,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6T90zwOKB8mioZZukRu5y3"
+    },
+    {
+      "album": {
+        "name": "I Want Candy (From A Really Haunted Loud House)",
+        "url": "https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4"
+      },
+      "artists": [
+        {
+          "name": "The Really Loud House",
+          "url": "https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192604,
+      "name": "I Want Candy (From A Really Haunted Loud House)",
+      "url": "https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 168506,
+      "name": "I Want Candy - 2022",
+      "url": "https://open.spotify.com/track/41e2OiEDKLjKHnj0lX8elu"
+    },
+    {
+      "album": {
+        "name": "It Must Be Halloween",
+        "url": "https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG"
+      },
+      "artists": [
+        {
+          "name": "LVCRFT",
+          "url": "https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149852,
+      "name": "It Must Be Halloween",
+      "url": "https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W"
+    },
+    {
+      "album": {
+        "name": "Big Things",
+        "url": "https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kalantari",
+          "url": "https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "It's Halloween",
+      "url": "https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Halloween!",
+        "url": "https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135083,
+      "name": "It's Halloween",
+      "url": "https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/3u6vZlQssUmnNBuiEXESoR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200545,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3xshS12p6z39Vfvh02vayH"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "Let's Get Spooky",
+      "url": "https://open.spotify.com/track/2QAH8HPq0MBWj0MfiOKGPi"
+    },
+    {
+      "album": {
+        "name": "Muppets Haunted Mansion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX"
+      },
+      "artists": [
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        },
+        {
+          "name": "Will Arnett",
+          "url": "https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217210,
+      "name": "Life Hereafter",
+      "url": "https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/6K8LgaK1oJFfZfNGszd4TG"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/08itpTfeEyIcN8OvgBvN75"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165346,
+      "name": "Little Shop Of Horrors",
+      "url": "https://open.spotify.com/track/7iWCPjc2yyewvw9P188RKn"
+    },
+    {
+      "album": {
+        "name": "Trick or Treat! Halloween Party Hits for Kids",
+        "url": "https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123000,
+      "name": "Love Potion No. 9",
+      "url": "https://open.spotify.com/track/2OQV5Wvz9b3POilgYoX7A6"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids: Party Songs and Sound Effects",
+        "url": "https://open.spotify.com/album/25e7mAmvjKtrgM6K3eVxnt"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123000,
+      "name": "Love Potion No. 9",
+      "url": "https://open.spotify.com/track/39iy7IwDAcxziFZoOW3SDE"
+    },
+    {
+      "album": {
+        "name": "Kids Bop to the Oldies",
+        "url": "https://open.spotify.com/album/5rYazUsuP7KAhK4DSNwwyz"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Love Potion No. 9",
+      "url": "https://open.spotify.com/track/6cxhVMUVolU0x2LfSeUpGe"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Laurie Berkner Band",
+        "url": "https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79560,
+      "name": "Monster Boogie",
+      "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 167946,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
+    },
+    {
+      "album": {
+        "name": "Ultimate Halloween for Kids",
+        "url": "https://open.spotify.com/album/2mgmrUUCEVrjM65P4rDPX2"
+      },
+      "artists": [
+        {
+          "name": "Halloween Kids",
+          "url": "https://open.spotify.com/artist/6MFuXk9n7iZreVFl6MUo3h"
+        },
+        {
+          "name": "All Hallows' Eve",
+          "url": "https://open.spotify.com/artist/4QnjDSm3SaG06NXO7S3wiH"
+        },
+        {
+          "name": "Kids' Halloween Party",
+          "url": "https://open.spotify.com/artist/5o3ZrNklBvnKRf46i6xqr2"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 199213,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0QDa2zDalnvqhhWyexOn0T"
+    },
+    {
+      "album": {
+        "name": "Kid Drew and the Kids Present: Spooky Halloween Party Music",
+        "url": "https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a"
+      },
+      "artists": [
+        {
+          "name": "Kid Drew and the Kids",
+          "url": "https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/5VnJN193do97HJy4aSY92j"
+    },
+    {
+      "album": {
+        "name": "Monster Mash",
+        "url": "https://open.spotify.com/album/43AGwlKWNTU3lPQyIa6ZWk"
+      },
+      "artists": [
+        {
+          "name": "Mellodees",
+          "url": "https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 157770,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/4LAVB1DRFfzLduE0Fa0t9P"
+    },
+    {
+      "album": {
+        "name": "Halloween With Cocomelon",
+        "url": "https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138511,
+      "name": "Monster Monster Go Away",
+      "url": "https://open.spotify.com/track/2OoCYK4mhTzm9OsgGTEaCJ"
+    },
+    {
+      "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138511,
+      "name": "Monster Monster Go Away",
+      "url": "https://open.spotify.com/track/6sYPhhMJHEIF99EXecMYoA"
+    },
+    {
+      "album": {
+        "name": "2021 Halloween",
+        "url": "https://open.spotify.com/album/3fzdBp3ljXP5VbbYv3tTjx"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138511,
+      "name": "Monster Monster Go Away",
+      "url": "https://open.spotify.com/track/6vareqOmporuXzDp2cHZvj"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175088,
+      "name": "Monster Moves",
+      "url": "https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm"
+    },
+    {
+      "album": {
+        "name": "Monster Party",
+        "url": "https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103361,
+      "name": "Monster Party",
+      "url": "https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Monsters & Goosebumps",
+        "url": "https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152531,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Halloween!",
+        "url": "https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126710,
+      "name": "Monsters Everywhere",
+      "url": "https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Old MacDonald's Haunted Farm",
+      "url": "https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr"
+    },
+    {
+      "album": {
+        "name": "The Addams Family (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3"
+      },
+      "artists": [
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118586,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs"
+    },
+    {
+      "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123485,
+      "name": "Peekaboo!",
+      "url": "https://open.spotify.com/track/39wGdxjdIChhASl1jE3jvG"
+    },
+    {
+      "album": {
+        "name": "Halloween With Cocomelon",
+        "url": "https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123485,
+      "name": "Peekaboo!",
+      "url": "https://open.spotify.com/track/3q2cQTJP9EQGgeHfuHAj0E"
+    },
+    {
+      "album": {
+        "name": "Halloween 2021 Songs For Children",
+        "url": "https://open.spotify.com/album/6ACIBV4IQWkHZ78SpXFyWU"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123485,
+      "name": "Peekaboo!",
+      "url": "https://open.spotify.com/track/5uqJh4Zjn8QTejV3VpjVBT"
+    },
+    {
+      "album": {
+        "name": "Kids Halloween Movie Themes",
+        "url": "https://open.spotify.com/album/1NFW9JfxAZTDtpyB0fEQfN"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198052,
+      "name": "Pokemon Theme",
+      "url": "https://open.spotify.com/track/2VPRDWwo9NR9WcAjsLuKBl"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG"
+      },
+      "artists": [
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN"
+    },
+    {
+      "album": {
+        "name": "Pumpkin Party",
+        "url": "https://open.spotify.com/album/74n24toiPe1cSKO962h10V"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Pumpkin Party",
+      "url": "https://open.spotify.com/track/5QngzdLq2rAyeSfyOqFs97"
+    },
+    {
+      "album": {
+        "name": "Pumpkin Party",
+        "url": "https://open.spotify.com/album/3U2lgta9oCiuOUfOcRNBmS"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 180386,
+      "name": "Pumpkin Party",
+      "url": "https://open.spotify.com/track/6fO6QFBBG58vfmBpiFVh0X"
+    },
+    {
+      "album": {
+        "name": "10 Best Halloween Songs 4 Kids",
+        "url": "https://open.spotify.com/album/7bo6w5NffPhxBu5sSHVSLB"
+      },
+      "artists": [
+        {
+          "name": "Kids Beat",
+          "url": "https://open.spotify.com/artist/1tZqDZy9Alk30gH9hHbBUe"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q"
+    },
+    {
+      "album": {
+        "name": "Kids sing the Oldies",
+        "url": "https://open.spotify.com/album/710xnvRhQRHXob51s3TqAZ"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 130500,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/0PZqoFkMT5U9GRY9EvZluF"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids: Party Songs and Sound Effects",
+        "url": "https://open.spotify.com/album/25e7mAmvjKtrgM6K3eVxnt"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130500,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/6c2GhX5Gip3QamwhqSM3b0"
+    },
+    {
+      "album": {
+        "name": "Halloween With Cocomelon",
+        "url": "https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo"
+      },
+      "artists": [
+        {
+          "name": "Cocomelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141242,
+      "name": "Rock-a-bye Ghoulie",
+      "url": "https://open.spotify.com/track/1wgzJ8a7DwhvaUshgfDKuh"
+    },
+    {
+      "album": {
+        "name": "Happy Halloween",
+        "url": "https://open.spotify.com/album/1142XkyuIYZQbO8ODUzeMk"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141242,
+      "name": "Rock-a-bye Ghoulie",
+      "url": "https://open.spotify.com/track/2sKYCb8jiN1kzihZq1QxRo"
+    },
+    {
+      "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141242,
+      "name": "Rock-a-bye Ghoulie",
+      "url": "https://open.spotify.com/track/72kahzuikdEgLrf5wZBJWr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100560,
+      "name": "Scooby Doo, Where Are You?",
+      "url": "https://open.spotify.com/track/1qy4aJr8kyYObvdjF9UX5y"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100560,
+      "name": "Scooby Doo, Where Are You?",
+      "url": "https://open.spotify.com/track/4tHL2ARKN75Romnwr6nWiH"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 129799,
+      "name": "Scooby Doo, Where Are You?",
+      "url": "https://open.spotify.com/track/025WXPwOkWZWuEztMQonuu"
+    },
+    {
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Shake Your Bones",
+      "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
+    },
+    {
+      "album": {
+        "name": "Halloween Kids Party With Little Baby Bum",
+        "url": "https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126729,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw"
+    },
+    {
+      "album": {
+        "name": "Kooky Spooky... In Stereo!",
+        "url": "https://open.spotify.com/album/1V2nJyNQSsEDRhP8xOOSDv"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263091,
+      "name": "Skeleton Inside!",
+      "url": "https://open.spotify.com/track/5RYJpJXyhU4jxB5JPMKX7Q"
+    },
+    {
+      "album": {
+        "name": "I FOUND YOU!",
+        "url": "https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "Skeletone",
+      "url": "https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs For Kids",
+        "url": "https://open.spotify.com/album/5b83BDTJvUGohjOfy4cYWy"
+      },
+      "artists": [
+        {
+          "name": "Mr Yipadee",
+          "url": "https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS"
+        },
+        {
+          "name": "Deano Yipadee",
+          "url": "https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128208,
+      "name": "Smelloween",
+      "url": "https://open.spotify.com/track/3vntT5h9WBgNOej8x0Oq3g"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-25",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn"
+    },
+    {
+      "album": {
+        "name": "Happy Haunted Halloween Tunes",
+        "url": "https://open.spotify.com/album/0Imh8AJGlHc3S0hHy8fImK"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/30W04PUt6gHISFbrtFYkp0"
+    },
+    {
+      "album": {
+        "name": "Kids Songs: Halloween Party!",
+        "url": "https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids",
+        "url": "https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237760,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+    },
+    {
+      "album": {
+        "name": "Hitsville USA, The Motown Collection 1972-1992",
+        "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 238773,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
+    },
+    {
+      "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 227266,
+      "name": "Somebody\u2019s Watching Me",
+      "url": "https://open.spotify.com/track/1kjOgPtsd6QPpa9LECfLK3"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227279,
+      "name": "Somebody\u2019s Watching Me",
+      "url": "https://open.spotify.com/track/2jwMh6fBHaTF1mS8v0fJQ3"
+    },
+    {
+      "album": {
+        "name": "Bestest Kids Halloween Songs Ever",
+        "url": "https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew",
+          "url": "https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46720,
+      "name": "Spongebob Squarepants Theme",
+      "url": "https://open.spotify.com/track/4cwAvEnJRST9QoKR2bGLIW"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298760,
+      "name": "Spooky Halloween Sounds",
+      "url": "https://open.spotify.com/track/0FfgMJRnYNODbeiDdGnOwu"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 298772,
+      "name": "Spooky Halloween Sounds",
+      "url": "https://open.spotify.com/track/6YDdozyjB3omVQKL9NrBs6"
+    },
+    {
+      "album": {
+        "name": "Spooky Night (from A Really Haunted Loud House)",
+        "url": "https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW"
+      },
+      "artists": [
+        {
+          "name": "The Really Loud House",
+          "url": "https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "Spooky Night (from A Really Haunted Loud House)",
+      "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
+    },
+    {
+      "album": {
+        "name": "Spooky Party",
+        "url": "https://open.spotify.com/album/50lsphXHwwnzab521OijpQ"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "The Best Tees",
+          "url": "https://open.spotify.com/artist/0iMbhQ3qjEbpzE5c8vU8pp"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153309,
+      "name": "Spooky Party",
+      "url": "https://open.spotify.com/track/3qAhbAWsDTLV2DpL3yuuxb"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298760,
+      "name": "Spooky Sounds",
+      "url": "https://open.spotify.com/track/6IvQD1HKpSfTzEdiN42iui"
+    },
+    {
+      "album": {
+        "name": "Spooky Wooky",
+        "url": "https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139033,
+      "name": "Spooky Wooky",
+      "url": "https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160417,
+      "name": "Spooky, Scary Skeletons",
+      "url": "https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 167732,
+      "name": "Spooky, Scary Skeletons",
+      "url": "https://open.spotify.com/track/6RPJ1EvnTu8AgaLoVxTm6d"
+    },
+    {
+      "album": {
+        "name": "It's Me Jennielea And My Very First CD",
+        "url": "https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq"
+      },
+      "artists": [
+        {
+          "name": "Jennielea",
+          "url": "https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58933,
+      "name": "Stirring The Brew",
+      "url": "https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU"
+    },
+    {
+      "album": {
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67520,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
+    },
+    {
+      "album": {
+        "name": "Songs From The Hit Show - Season One: Extra Seasoning",
+        "url": "https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        },
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186563,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5"
+    },
+    {
+      "album": {
+        "name": "Halloween Kids Party With Little Baby Bum",
+        "url": "https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118442,
+      "name": "The Monster Jive",
+      "url": "https://open.spotify.com/track/6hLPVenFMzwng4DNScuuaR"
+    },
+    {
+      "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124814,
+      "name": "The Monsters In The House",
+      "url": "https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/7JhfiWlYRO2H0dz2q6apKy"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 126986,
+      "name": "The Munster's Theme",
+      "url": "https://open.spotify.com/track/0BuXHYNppINIXDWRT79BtC"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/0u6EVSGdOYoYOgiLzGgZrR"
+      },
+      "artists": [
+        {
+          "name": "Columbia River Group Entertainment",
+          "url": "https://open.spotify.com/artist/2dPE3yMpMCMw2SjUZYUzw1"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 60800,
+      "name": "The Munsters",
+      "url": "https://open.spotify.com/track/1IEOi2GC4hJX5FndFHLXv5"
+    },
+    {
+      "album": {
+        "name": "Kids' Halloween Party",
+        "url": "https://open.spotify.com/album/7m0wJdvmyNQskDff9uauo2"
+      },
+      "artists": [
+        {
+          "name": "Halloween Party Band",
+          "url": "https://open.spotify.com/artist/7vhWWtOvkWR4Tp4QDdi3wR"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 58053,
+      "name": "The Munsters",
+      "url": "https://open.spotify.com/track/7cGtpKTohYnjjT5RcXDQH6"
+    },
+    {
+      "album": {
+        "name": "Kids' Halloween Party",
+        "url": "https://open.spotify.com/album/1sb4d6vMZiNn2TWUztKZ0i"
+      },
+      "artists": [
+        {
+          "name": "Kids' Halloween Party",
+          "url": "https://open.spotify.com/artist/5o3ZrNklBvnKRf46i6xqr2"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 58053,
+      "name": "The Munsters",
+      "url": "https://open.spotify.com/track/3UbRa7attOrA8B7J2JKIai"
+    },
+    {
+      "album": {
+        "name": "The Greatest Tv Show Themes",
+        "url": "https://open.spotify.com/album/4c2EFeXdKNzRuQmdRC9Cax"
+      },
+      "artists": [
+        {
+          "name": "The Great TV Crew",
+          "url": "https://open.spotify.com/artist/5rqKH0wSGQc4DAZXjXCIvY"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 77216,
+      "name": "The Munsters Theme",
+      "url": "https://open.spotify.com/track/1HAzaGNVyyMYVtmykjfNX9"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "The Munsters' Theme",
+      "url": "https://open.spotify.com/track/7kuCHonhRzHG1O5EJ5AYBh"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll 101 for Kids, Vol. 2",
+        "url": "https://open.spotify.com/album/4aUeXpVuf2vAhyp5yRR4PC"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 130500,
+      "name": "The Purple People Eater",
+      "url": "https://open.spotify.com/track/4FnstDEDoN4khsNK7JkrP2"
+    },
+    {
+      "album": {
+        "name": "Kids Bop to the Oldies",
+        "url": "https://open.spotify.com/album/5rYazUsuP7KAhK4DSNwwyz"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "The Purple People Eater",
+      "url": "https://open.spotify.com/track/6bYJ2Ei1PP7IzL67PMeip8"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Halloween Collection - Spooky Anthems for your Haunted House",
+        "url": "https://open.spotify.com/album/3ylBbGcMhglgc5APhOLIh4"
+      },
+      "artists": [
+        {
+          "name": "Harajuku Nation",
+          "url": "https://open.spotify.com/artist/4HG25gcGxUsLKlhPKyCods"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 84210,
+      "name": "The Simpsons (Halloween Special Theme)",
+      "url": "https://open.spotify.com/track/3aa39YrzS0Hkl5h8yNM0pQ"
+    },
+    {
+      "album": {
+        "name": "Halloween Pre Game - Get Ready for the Party of the Year!",
+        "url": "https://open.spotify.com/album/2jFAFh8rHf6bBCTR6trTXB"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 84210,
+      "name": "The Simpsons - Halloween Special Theme (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/1cOvOe6N00MmFTst5j2Eny"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs and Tunes - 45 Classic Songs for Your Halloween Party",
+        "url": "https://open.spotify.com/album/7i6LyayvwuNTII8mE19cZv"
+      },
+      "artists": [
+        {
+          "name": "Kids Halloween Party Band",
+          "url": "https://open.spotify.com/artist/5aC89Ulm1BfnveKgEVgbzM"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84210,
+      "name": "The Simpsons Halloween Special Theme (From \"The Simpsons\") - Kids Halloween Party Mix",
+      "url": "https://open.spotify.com/track/4tlJfR16fuW8pQwNVHLpjP"
+    },
+    {
+      "album": {
+        "name": "Halloween Fun and Games for Kids",
+        "url": "https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-24",
+      "duration_ms": 84210,
+      "name": "The Simpsons Halloween Theme (Halloween Party Mix)",
+      "url": "https://open.spotify.com/track/5VSPokYYDjEnXyG5mVTqBK"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs",
+        "url": "https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80262,
+      "name": "The Skeleton Band",
+      "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Marco Marinangeli",
+          "url": "https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142866,
+      "name": "The Werewolf Song",
+      "url": "https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "This is Halloween",
+      "url": "https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
+    },
+    {
+      "album": {
+        "name": "This is the Way We Trick or Treat & More Kids Halloween Songs",
+        "url": "https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109196,
+      "name": "This is the Way We Trick or Treat",
+      "url": "https://open.spotify.com/track/1C7ob1VIwc1JiEmMDNfHWt"
+    },
+    {
+      "album": {
+        "name": "Halloween Fun and Games for Kids",
+        "url": "https://open.spotify.com/album/7BB3XXoA8ilVktiW4Vn8zv"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-24",
+      "duration_ms": 330999,
+      "name": "Thriller (Halloween Party Mix)",
+      "url": "https://open.spotify.com/track/243fOom6o8pnOPYmiCJCpd"
+    },
+    {
+      "album": {
+        "name": "Halloween Horror Nights - The Soundtrack for your Haunted House Party",
+        "url": "https://open.spotify.com/album/6qYpjMrM6wvDLkkpFGbmUg"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 330999,
+      "name": "Thriller (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/0aNbRclcawtn7MqJYFzKlG"
+    },
+    {
+      "album": {
+        "name": "Happy Halloween Party - Songs for Stories and Jokes",
+        "url": "https://open.spotify.com/album/4nkQtI9pd2YNaRjwVqyXRb"
+      },
+      "artists": [
+        {
+          "name": "The Evolved",
+          "url": "https://open.spotify.com/artist/7xSBnqOw8Dz4kNiHvVvbNt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 330999,
+      "name": "Thriller - Halloween Party Mix",
+      "url": "https://open.spotify.com/track/0VkybwD2YKfRtjRBG4qZlJ"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs and Tunes - 45 Classic Songs for Your Halloween Party",
+        "url": "https://open.spotify.com/album/7i6LyayvwuNTII8mE19cZv"
+      },
+      "artists": [
+        {
+          "name": "Kids Halloween Party Band",
+          "url": "https://open.spotify.com/artist/5aC89Ulm1BfnveKgEVgbzM"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330999,
+      "name": "Thriller - Kids Halloween Party Mix",
+      "url": "https://open.spotify.com/track/3buVhJpLfKO5hTxNw3mTgQ"
+    },
+    {
+      "album": {
+        "name": "Blue's Sing-Along Spectacular",
+        "url": "https://open.spotify.com/album/4DkCDgZJNNeGRA3xyKYMPQ"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 85604,
+      "name": "Time For Halloween",
+      "url": "https://open.spotify.com/track/0j7NN6tiaAd9TpHSiM6XWR"
+    },
+    {
+      "album": {
+        "name": "Spooky Scary Tunes for Kids",
+        "url": "https://open.spotify.com/album/23PKfY96XSY26OeLKyJucM"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85604,
+      "name": "Time For Halloween",
+      "url": "https://open.spotify.com/track/2FbFxJEQSnG6TpAYmDm6ZU"
+    },
+    {
+      "album": {
+        "name": "Blue's Sing-Along Spectacular",
+        "url": "https://open.spotify.com/album/43d5DHMVa3CbUDs9eC3RIg"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 85604,
+      "name": "Time For Halloween",
+      "url": "https://open.spotify.com/track/3iLUuK5OeQgu60vhasY27q"
+    },
+    {
+      "album": {
+        "name": "Blue's Sing-Along Spectacular",
+        "url": "https://open.spotify.com/album/0pxwh5JfIYlY8IGwWnsSGZ"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-24",
+      "duration_ms": 85604,
+      "name": "Time For Halloween",
+      "url": "https://open.spotify.com/track/5mBxvbUwiDBkt5eBsN45PK"
+    },
+    {
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+        },
+        {
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+    },
+    {
+      "album": {
+        "name": "Toilet Paper Mummy",
+        "url": "https://open.spotify.com/album/3wvdzbQIUFORGuRC0RQIve"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133615,
+      "name": "Toilet Paper Mummy",
+      "url": "https://open.spotify.com/track/5LiH5hCxDDxvFG2Zo2n8dr"
+    },
+    {
+      "album": {
+        "name": "Halloween Party",
+        "url": "https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2021-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133615,
+      "name": "Toilet Paper Mummy",
+      "url": "https://open.spotify.com/track/6iFfqyU2EA0q3ei8p8sHw9"
+    },
+    {
+      "album": {
+        "name": "Blippi Essentials",
+        "url": "https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Trick or Treat",
+      "url": "https://open.spotify.com/track/0UK7D7Bo1HoecPSS899i4I"
+    },
+    {
+      "album": {
+        "name": "Blippi & Friends Halloween",
+        "url": "https://open.spotify.com/album/54l6QDK8Tz9a5dbPV3wmuV"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179000,
+      "name": "Trick or Treat",
+      "url": "https://open.spotify.com/track/73qnmF0SLhNOTpyU6NUGsn"
+    },
+    {
+      "album": {
+        "name": "Halloween Song Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7frT4iiTOzaILQjsJRIJGw"
+      },
+      "artists": [
+        {
+          "name": "The Singing Walrus",
+          "url": "https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 156521,
+      "name": "Trick or Treat Song",
+      "url": "https://open.spotify.com/track/6adE2NIEXvLmIntPc4Rnce"
+    },
+    {
+      "album": {
+        "name": "Spooky Spooky: Halloween Songs for Kids",
+        "url": "https://open.spotify.com/album/6Vz0zRCj3cPc11lkzkhLBi"
+      },
+      "artists": [
+        {
+          "name": "Maple Leaf Learning",
+          "url": "https://open.spotify.com/artist/7jze83chqHoyro7onnZBx9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132333,
+      "name": "Trick or Treating",
+      "url": "https://open.spotify.com/track/2SOaGHay97PK2gBrFsVirj"
+    },
+    {
+      "album": {
+        "name": "The Loud House Mega Music Countdown (Soundtrack)",
+        "url": "https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL"
+      },
+      "artists": [
+        {
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122869,
+      "name": "Tricked",
+      "url": "https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT"
+    },
+    {
+      "album": {
+        "name": "Troll Under My Bed",
+        "url": "https://open.spotify.com/album/1LiV0SbKdvyGyBxQ4d4vMH"
+      },
+      "artists": [
+        {
+          "name": "Pixel Kids",
+          "url": "https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113185,
+      "name": "Troll Under My Bed",
+      "url": "https://open.spotify.com/track/0Vl9jDLSe5gU13b0dFa0RM"
+    },
+    {
+      "album": {
+        "name": "Halloween With Friends",
+        "url": "https://open.spotify.com/album/4gQb4THy0jw2Y0iH11q6ap"
+      },
+      "artists": [
+        {
+          "name": "Pixel Kids",
+          "url": "https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 113185,
+      "name": "Troll Under My Bed",
+      "url": "https://open.spotify.com/track/1fyxDcPKVgOgtpuQoxVae5"
+    },
+    {
+      "album": {
+        "name": "Cocomelon & Friends Halloween",
+        "url": "https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72"
+      },
+      "artists": [
+        {
+          "name": "Pixel Kids",
+          "url": "https://open.spotify.com/artist/6aa2NIHq5o1ebL8BbGkUDW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113185,
+      "name": "Troll Under My Bed",
+      "url": "https://open.spotify.com/track/6Fm9c4RsLkazwV37PYhqjc"
+    },
+    {
+      "album": {
+        "name": "Halloween Songs 3",
+        "url": "https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81130,
+      "name": "Vampire Wedding",
+      "url": "https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ"
+    },
+    {
+      "album": {
+        "name": "Boo! It's Halloween",
+        "url": "https://open.spotify.com/album/6fWfpZA7c3puk13L7YfIt2"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120859,
+      "name": "We Love Halloween",
+      "url": "https://open.spotify.com/track/40WjfvGm7cMJHdElsDwAVG"
+    },
+    {
+      "album": {
+        "name": "We Love Halloween",
+        "url": "https://open.spotify.com/album/0TCjVZ1r377txbCgGLfhA3"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-10",
+      "duration_ms": 120859,
+      "name": "We Love Halloween",
+      "url": "https://open.spotify.com/track/4opsqf7Z84kvVFYto5XnrV"
+    },
+    {
+      "album": {
+        "name": "We Love Halloween",
+        "url": "https://open.spotify.com/album/1OlgNg367Vh1lDWc32cwCs"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 120859,
+      "name": "We Love Halloween",
+      "url": "https://open.spotify.com/track/5pPfdRgCuJhvlZy1L9kMGE"
+    },
+    {
+      "album": {
+        "name": "CoComelon & Friends Halloween",
+        "url": "https://open.spotify.com/album/4vqE4T87hpSjIUdXOGnzMI"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 120859,
+      "name": "We Love Halloween",
+      "url": "https://open.spotify.com/track/73cRrnQ3VtwyXUK5gBW9j4"
+    },
+    {
+      "album": {
+        "name": "30 Kids' Halloween Party Tracks",
+        "url": "https://open.spotify.com/album/1TABHN2mIGRKynJ0ZjDV5W"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 210106,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/0boylEapfSI87ao8KndwsW"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 219066,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/322Wso1mXWHJBtZKXUbOF0"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219280,
+      "name": "Werewolves of London",
+      "url": "https://open.spotify.com/track/66TwYuATZiIe3SyuiKvpRd"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/2YB6oRXEKmgAcl9ON5capM"
+    },
+    {
+      "album": {
+        "name": "A Quiet Normal Life: The Best of Warren Zevon",
+        "url": "https://open.spotify.com/album/41u8E08e0jIP808qLi1GHB"
+      },
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 208173,
+      "name": "Werewolves of London",
+      "url": "https://open.spotify.com/track/2nmaEzFZrSm2aMLtfJDzyG"
+    },
+    {
+      "album": {
+        "name": "What Am I Gonna Be (For Halloween)?",
+        "url": "https://open.spotify.com/album/4R4m9wj10VYRObGkOCpBG6"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171308,
+      "name": "What Am I Gonna Be (For Halloween)?",
+      "url": "https://open.spotify.com/track/6YzW96S4wiZ7HUBV4tG2MV"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/4vuBTENFXy2LwCbsAa1ick"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "What Should I Be For Halloween?",
+      "url": "https://open.spotify.com/track/0r96OZJdxo6RrBLOrnXJgW"
+    },
+    {
+      "album": {
+        "name": "A Scary Very Halloween",
+        "url": "https://open.spotify.com/album/7JhfiWlYRO2H0dz2q6apKy"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 168560,
+      "name": "What Should I Be for Halloween?",
+      "url": "https://open.spotify.com/track/2jh6FmnzLlqkE222YYs9jo"
+    },
+    {
+      "album": {
+        "name": "Monster Music! Kids Halloween Songs",
+        "url": "https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133314,
+      "name": "Where's the Werewolf Pack?",
+      "url": "https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH"
+    },
+    {
+      "album": {
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Which Witch Is Which?",
+      "url": "https://open.spotify.com/track/0z35rHwhneq2HGJy3GtoH7"
+    },
+    {
+      "album": {
+        "name": "Kids Halloween Party Music",
+        "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166733,
+      "name": "Who Let The Ghosts Out",
+      "url": "https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop Halloween Hits!",
+        "url": "https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145226,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0"
+    },
+    {
+      "album": {
+        "name": "Spooktacular Hits 2021",
+        "url": "https://open.spotify.com/album/2c1lxRoEyvJ7lYYE6X5xvO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 145226,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/36mtpa7tGI9mSB4yIG98Ni"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Hits!",
+        "url": "https://open.spotify.com/album/2oIkZAjJSJejPND1NXr97U"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145226,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/7unF15gTsfTYA99K61gHw5"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "Witch Doctor",
+      "url": "https://open.spotify.com/track/6MYgiBe0fh6YOr0m5dceRy"
+    },
+    {
+      "album": {
+        "name": "Blippi's Halloween Bops!",
+        "url": "https://open.spotify.com/album/0jysWIywvaFCww3PV8yb3c"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141964,
+      "name": "Witch's Flight",
+      "url": "https://open.spotify.com/track/0xNYsD4YmFrN1C1VaB8coE"
+    },
+    {
+      "album": {
+        "name": "Blippi's Halloween Bops!",
+        "url": "https://open.spotify.com/album/3oQnuPBJdpMs4eirlc6kPZ"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 141964,
+      "name": "Witch's Flight",
+      "url": "https://open.spotify.com/track/7uWpi2uIxRFdIRY2L3nfsr"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Halloween Party!",
+        "url": "https://open.spotify.com/album/6CpueN14uwF290ufghdCgT"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Witchy Woman",
+      "url": "https://open.spotify.com/track/2ue226HXGINwAKcb9ILXZE"
+    },
+    {
+      "album": {
+        "name": "Disney's Greatest Vol. 3",
+        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
+      },
+      "artists": [
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Yo, Ho! (A Pirate's Life For Me) - From \"Pirates of the Caribbean\"",
+      "url": "https://open.spotify.com/track/2oj1WfUGiBa8eCyMx5D3I5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6IZDpJNxVZP"
 }

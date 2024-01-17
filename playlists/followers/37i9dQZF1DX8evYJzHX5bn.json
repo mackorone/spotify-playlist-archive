@@ -1,732 +1,1181 @@
 {
-  "2021-12-28": 746899,
-  "2021-12-29": 747157,
-  "2021-12-30": 747404,
-  "2021-12-31": 747681,
-  "2022-01-01": 748299,
-  "2022-01-02": 748376,
-  "2022-01-03": 748557,
-  "2022-01-04": 748756,
-  "2022-01-05": 748950,
-  "2022-01-06": 749139,
-  "2022-01-07": 749303,
-  "2022-01-08": 749757,
-  "2022-01-09": 749771,
-  "2022-01-10": 750018,
-  "2022-01-11": 750124,
-  "2022-01-12": 750241,
-  "2022-01-13": 750241,
-  "2022-01-14": 750241,
-  "2022-01-15": 750241,
-  "2022-01-16": 750241,
-  "2022-01-17": 750241,
-  "2022-01-18": 750241,
-  "2022-01-19": 750241,
-  "2022-01-20": 750241,
-  "2022-01-21": 750241,
-  "2022-01-22": 750241,
-  "2022-01-23": 750241,
-  "2022-01-24": 750241,
-  "2022-01-25": 750241,
-  "2022-01-26": 750241,
-  "2022-01-27": 750241,
-  "2022-01-28": 750241,
-  "2022-01-29": 750241,
-  "2022-01-30": 750241,
-  "2022-01-31": 750241,
-  "2022-02-01": 750241,
-  "2022-02-02": 750241,
-  "2022-02-03": 750241,
-  "2022-02-04": 750241,
-  "2022-02-05": 750241,
-  "2022-02-06": 750241,
-  "2022-02-07": 750241,
-  "2022-02-08": 750241,
-  "2022-02-09": 750241,
-  "2022-02-10": 750241,
-  "2022-02-11": 750241,
-  "2022-02-12": 750241,
-  "2022-02-13": 750241,
-  "2022-02-14": 750241,
-  "2022-02-15": 750241,
-  "2022-02-16": 750241,
-  "2022-02-17": 750241,
-  "2022-02-18": 750241,
-  "2022-02-19": 750241,
-  "2022-02-20": 750241,
-  "2022-02-21": 750241,
-  "2022-02-22": 750241,
-  "2022-02-23": 750241,
-  "2022-02-24": 750241,
-  "2022-02-25": 750241,
-  "2022-02-26": 750241,
-  "2022-02-27": 750241,
-  "2022-02-28": 750241,
-  "2022-03-01": 750241,
-  "2022-03-02": 750241,
-  "2022-03-03": 750241,
-  "2022-03-04": 750241,
-  "2022-03-05": 750241,
-  "2022-03-06": 750241,
-  "2022-03-07": 750241,
-  "2022-03-08": 750241,
-  "2022-03-09": 750241,
-  "2022-03-10": 750241,
-  "2022-03-11": 750241,
-  "2022-03-12": 750241,
-  "2022-03-13": 750241,
-  "2022-03-14": 750241,
-  "2022-03-15": 750241,
-  "2022-03-16": 750241,
-  "2022-03-17": 750241,
-  "2022-03-18": 750241,
-  "2022-03-19": 750241,
-  "2022-03-20": 750241,
-  "2022-03-21": 750241,
-  "2022-03-22": 750241,
-  "2022-03-23": 750241,
-  "2022-03-24": 750241,
-  "2022-03-25": 750241,
-  "2022-03-26": 750241,
-  "2022-03-27": 750241,
-  "2022-03-28": 750241,
-  "2022-03-30": 750241,
-  "2022-03-31": 750241,
-  "2022-04-01": 750241,
-  "2022-04-02": 750241,
-  "2022-04-03": 750241,
-  "2022-04-04": 750241,
-  "2022-04-05": 750241,
-  "2022-04-06": 750241,
-  "2022-04-07": 750241,
-  "2022-04-08": 750241,
-  "2022-04-09": 750241,
-  "2022-04-10": 750241,
-  "2022-04-11": 750241,
-  "2022-04-12": 750241,
-  "2022-04-13": 750241,
-  "2022-04-14": 750241,
-  "2022-04-15": 750241,
-  "2022-04-16": 750241,
-  "2022-04-17": 750241,
-  "2022-04-18": 750241,
-  "2022-04-19": 750241,
-  "2022-04-20": 750241,
-  "2022-04-21": 750241,
-  "2022-04-22": 750241,
-  "2022-04-23": 750241,
-  "2022-04-24": 750241,
-  "2022-04-25": 750241,
-  "2022-04-26": 750241,
-  "2022-04-27": 750241,
-  "2022-04-28": 750241,
-  "2022-04-29": 750241,
-  "2022-04-30": 750241,
-  "2022-05-01": 750241,
-  "2022-05-02": 750241,
-  "2022-05-03": 750241,
-  "2022-05-04": 750241,
-  "2022-05-05": 750241,
-  "2022-05-06": 750241,
-  "2022-05-07": 750241,
-  "2022-05-08": 750241,
-  "2022-05-09": 750241,
-  "2022-05-10": 750241,
-  "2022-05-11": 750241,
-  "2022-05-12": 750241,
-  "2022-05-13": 750241,
-  "2022-05-14": 750241,
-  "2022-05-15": 750241,
-  "2022-05-16": 750241,
-  "2022-05-17": 750241,
-  "2022-05-18": 750241,
-  "2022-05-19": 750241,
-  "2022-05-20": 750241,
-  "2022-05-21": 750241,
-  "2022-05-22": 750241,
-  "2022-05-23": 750241,
-  "2022-05-24": 750241,
-  "2022-05-25": 750241,
-  "2022-05-26": 750241,
-  "2022-05-27": 750241,
-  "2022-05-28": 750241,
-  "2022-05-29": 750241,
-  "2022-05-30": 750241,
-  "2022-05-31": 750241,
-  "2022-06-01": 750241,
-  "2022-06-02": 750241,
-  "2022-06-03": 750241,
-  "2022-06-04": 750241,
-  "2022-06-05": 750241,
-  "2022-06-06": 750241,
-  "2022-06-07": 750241,
-  "2022-06-08": 750241,
-  "2022-06-09": 750241,
-  "2022-06-10": 750241,
-  "2022-06-11": 750241,
-  "2022-06-12": 750241,
-  "2022-06-13": 750241,
-  "2022-06-14": 750241,
-  "2022-06-15": 750241,
-  "2022-06-16": 750241,
-  "2022-06-17": 750241,
-  "2022-06-18": 750241,
-  "2022-06-19": 750241,
-  "2022-06-20": 750241,
-  "2022-06-21": 750241,
-  "2022-06-22": 750241,
-  "2022-06-23": 750241,
-  "2022-06-24": 750241,
-  "2022-06-25": 750241,
-  "2022-06-26": 750241,
-  "2022-06-27": 750241,
-  "2022-06-28": 750241,
-  "2022-06-29": 750241,
-  "2022-06-30": 750241,
-  "2022-07-01": 750241,
-  "2022-07-02": 750241,
-  "2022-07-03": 750241,
-  "2022-07-04": 750241,
-  "2022-07-05": 750241,
-  "2022-07-06": 750241,
-  "2022-07-07": 750241,
-  "2022-07-08": 750241,
-  "2022-07-09": 750241,
-  "2022-07-10": 750241,
-  "2022-07-11": 750241,
-  "2022-07-12": 750241,
-  "2022-07-13": 750241,
-  "2022-07-14": 750241,
-  "2022-07-15": 750241,
-  "2022-07-16": 750241,
-  "2022-07-17": 750241,
-  "2022-07-18": 750241,
-  "2022-07-19": 750241,
-  "2022-07-20": 750241,
-  "2022-07-21": 750241,
-  "2022-07-22": 750241,
-  "2022-07-23": 750241,
-  "2022-07-24": 750241,
-  "2022-07-25": 750241,
-  "2022-07-26": 750241,
-  "2022-07-27": 750241,
-  "2022-07-28": 750241,
-  "2022-07-29": 750241,
-  "2022-07-30": 750241,
-  "2022-07-31": 750241,
-  "2022-08-01": 750241,
-  "2022-08-02": 750241,
-  "2022-08-03": 750241,
-  "2022-08-04": 750241,
-  "2022-08-05": 750241,
-  "2022-08-06": 750241,
-  "2022-08-07": 750241,
-  "2022-08-08": 750241,
-  "2022-08-09": 750241,
-  "2022-08-10": 750241,
-  "2022-08-11": 750241,
-  "2022-08-12": 750241,
-  "2022-08-13": 750241,
-  "2022-08-14": 750241,
-  "2022-08-15": 750241,
-  "2022-08-16": 750241,
-  "2022-08-17": 750241,
-  "2022-08-18": 750241,
-  "2022-08-19": 750241,
-  "2022-08-20": 750241,
-  "2022-08-21": 750241,
-  "2022-08-22": 750241,
-  "2022-08-23": 750241,
-  "2022-08-24": 750241,
-  "2022-08-25": 750241,
-  "2022-08-26": 750241,
-  "2022-08-27": 750241,
-  "2022-08-28": 750241,
-  "2022-08-29": 750241,
-  "2022-08-30": 750241,
-  "2022-08-31": 750241,
-  "2022-09-01": 750241,
-  "2022-09-02": 750241,
-  "2022-09-03": 750241,
-  "2022-09-04": 750241,
-  "2022-09-05": 750241,
-  "2022-09-06": 750241,
-  "2022-09-07": 750241,
-  "2022-09-09": 750241,
-  "2022-09-10": 750241,
-  "2022-09-11": 750241,
-  "2022-09-12": 750241,
-  "2022-09-13": 750241,
-  "2022-09-15": 750241,
-  "2022-09-16": 750241,
-  "2022-09-17": 750241,
-  "2022-09-18": 750241,
-  "2022-09-19": 750241,
-  "2022-09-20": 750241,
-  "2022-09-21": 750241,
-  "2022-09-22": 750241,
-  "2022-09-23": 750241,
-  "2022-09-24": 750241,
-  "2022-09-25": 750241,
-  "2022-09-26": 750241,
-  "2022-09-27": 750241,
-  "2022-09-28": 750241,
-  "2022-09-29": 750241,
-  "2022-09-30": 750241,
-  "2022-10-01": 750241,
-  "2022-10-02": 750241,
-  "2022-10-03": 750241,
-  "2022-10-04": 750241,
-  "2022-10-05": 750241,
-  "2022-10-06": 750241,
-  "2022-10-07": 750241,
-  "2022-10-08": 750241,
-  "2022-10-09": 750241,
-  "2022-10-10": 750241,
-  "2022-10-11": 750241,
-  "2022-10-12": 750241,
-  "2022-10-13": 750241,
-  "2022-10-14": 750241,
-  "2022-10-15": 750241,
-  "2022-10-16": 750241,
-  "2022-10-17": 750241,
-  "2022-10-18": 750241,
-  "2022-10-19": 750241,
-  "2022-10-20": 750241,
-  "2022-10-21": 750241,
-  "2022-10-22": 750241,
-  "2022-10-23": 750241,
-  "2022-10-24": 750241,
-  "2022-10-25": 750241,
-  "2022-10-26": 750241,
-  "2022-10-27": 750241,
-  "2022-10-28": 750241,
-  "2022-10-29": 750241,
-  "2022-10-30": 750241,
-  "2022-10-31": 750241,
-  "2022-11-01": 750241,
-  "2022-11-02": 750241,
-  "2022-11-03": 750241,
-  "2022-11-04": 750241,
-  "2022-11-05": 750241,
-  "2022-11-06": 750241,
-  "2022-11-07": 750241,
-  "2022-11-08": 750241,
-  "2022-11-09": 750241,
-  "2022-11-10": 750241,
-  "2022-11-11": 750241,
-  "2022-11-12": 750241,
-  "2022-11-13": 750241,
-  "2022-11-14": 750241,
-  "2022-11-15": 750241,
-  "2022-11-16": 750241,
-  "2022-11-17": 750241,
-  "2022-11-18": 750241,
-  "2022-11-19": 750241,
-  "2022-11-20": 750241,
-  "2022-11-21": 750241,
-  "2022-11-22": 750241,
-  "2022-11-23": 750241,
-  "2022-11-24": 750241,
-  "2022-11-25": 750241,
-  "2022-11-26": 750241,
-  "2022-11-27": 750241,
-  "2022-11-28": 750241,
-  "2022-11-29": 750241,
-  "2022-11-30": 750241,
-  "2022-12-01": 750241,
-  "2022-12-02": 750241,
-  "2022-12-03": 750241,
-  "2022-12-04": 750241,
-  "2022-12-05": 750241,
-  "2022-12-06": 750241,
-  "2022-12-07": 750241,
-  "2022-12-08": 750241,
-  "2022-12-09": 750241,
-  "2022-12-10": 750241,
-  "2022-12-11": 750241,
-  "2022-12-12": 750241,
-  "2022-12-13": 750241,
-  "2022-12-14": 750241,
-  "2022-12-15": 750241,
-  "2022-12-16": 750241,
-  "2022-12-17": 750241,
-  "2022-12-18": 750241,
-  "2022-12-19": 750241,
-  "2022-12-20": 750241,
-  "2022-12-21": 750241,
-  "2022-12-22": 750241,
-  "2022-12-24": 750241,
-  "2022-12-25": 750241,
-  "2022-12-26": 750241,
-  "2022-12-27": 750241,
-  "2022-12-28": 750241,
-  "2022-12-29": 750241,
-  "2022-12-30": 750241,
-  "2022-12-31": 750241,
-  "2023-01-01": 750241,
-  "2023-01-02": 750241,
-  "2023-01-03": 750241,
-  "2023-01-04": 750241,
-  "2023-01-05": 750241,
-  "2023-01-06": 750241,
-  "2023-01-07": 750241,
-  "2023-01-08": 750241,
-  "2023-01-09": 750241,
-  "2023-01-10": 750241,
-  "2023-01-11": 750241,
-  "2023-01-12": 750241,
-  "2023-01-13": 750241,
-  "2023-01-14": 750241,
-  "2023-01-15": 750241,
-  "2023-01-16": 750241,
-  "2023-01-17": 750241,
-  "2023-01-18": 750241,
-  "2023-01-19": 750241,
-  "2023-01-20": 750241,
-  "2023-01-21": 750241,
-  "2023-01-22": 750241,
-  "2023-01-23": 750241,
-  "2023-01-24": 750241,
-  "2023-01-25": 750241,
-  "2023-01-26": 750241,
-  "2023-01-27": 750241,
-  "2023-01-28": 750241,
-  "2023-01-29": 750241,
-  "2023-01-30": 750241,
-  "2023-01-31": 750241,
-  "2023-02-01": 750241,
-  "2023-02-02": 750241,
-  "2023-02-03": 750241,
-  "2023-02-04": 750241,
-  "2023-02-05": 750241,
-  "2023-02-06": 750241,
-  "2023-02-07": 750241,
-  "2023-02-08": 750241,
-  "2023-02-09": 750241,
-  "2023-02-10": 750241,
-  "2023-02-11": 750241,
-  "2023-02-12": 750241,
-  "2023-02-13": 750241,
-  "2023-02-14": 750241,
-  "2023-02-15": 750241,
-  "2023-02-16": 750241,
-  "2023-02-17": 750241,
-  "2023-02-18": 750241,
-  "2023-02-19": 750241,
-  "2023-02-20": 750241,
-  "2023-02-21": 750241,
-  "2023-02-22": 750241,
-  "2023-02-23": 750241,
-  "2023-02-24": 750241,
-  "2023-02-25": 750241,
-  "2023-02-26": 750241,
-  "2023-02-27": 750241,
-  "2023-02-28": 750241,
-  "2023-03-01": 750241,
-  "2023-03-02": 750241,
-  "2023-03-03": 750241,
-  "2023-03-04": 750241,
-  "2023-03-05": 750241,
-  "2023-03-06": 750241,
-  "2023-03-07": 750241,
-  "2023-03-08": 750241,
-  "2023-03-09": 750241,
-  "2023-03-10": 750241,
-  "2023-03-11": 750241,
-  "2023-03-12": 750241,
-  "2023-03-13": 750241,
-  "2023-03-14": 750241,
-  "2023-03-15": 750241,
-  "2023-03-16": 750241,
-  "2023-03-17": 750241,
-  "2023-03-18": 750241,
-  "2023-03-19": 750241,
-  "2023-03-20": 750241,
-  "2023-03-21": 750241,
-  "2023-03-22": 750241,
-  "2023-03-23": 750241,
-  "2023-03-24": 750241,
-  "2023-03-25": 750241,
-  "2023-03-26": 750241,
-  "2023-03-27": 750241,
-  "2023-03-28": 750241,
-  "2023-03-29": 750241,
-  "2023-03-30": 750241,
-  "2023-03-31": 750241,
-  "2023-04-01": 750241,
-  "2023-04-02": 750241,
-  "2023-04-03": 750241,
-  "2023-04-04": 750241,
-  "2023-04-05": 750241,
-  "2023-04-06": 750241,
-  "2023-04-07": 750241,
-  "2023-04-09": 750241,
-  "2023-04-10": 750241,
-  "2023-04-11": 750241,
-  "2023-04-12": 750241,
-  "2023-04-13": 750241,
-  "2023-04-14": 750241,
-  "2023-04-15": 750241,
-  "2023-04-16": 750241,
-  "2023-04-17": 750241,
-  "2023-04-18": 750241,
-  "2023-04-19": 750241,
-  "2023-04-20": 750241,
-  "2023-04-21": 750241,
-  "2023-04-22": 750241,
-  "2023-04-23": 750241,
-  "2023-04-24": 750241,
-  "2023-04-25": 750241,
-  "2023-04-26": 750241,
-  "2023-04-27": 750241,
-  "2023-04-28": 750241,
-  "2023-04-29": 750241,
-  "2023-04-30": 750241,
-  "2023-05-01": 750241,
-  "2023-05-02": 750241,
-  "2023-05-03": 750241,
-  "2023-05-04": 750241,
-  "2023-05-05": 750241,
-  "2023-05-06": 750241,
-  "2023-05-07": 750241,
-  "2023-05-08": 750241,
-  "2023-05-09": 750241,
-  "2023-05-10": 750241,
-  "2023-05-11": 750241,
-  "2023-05-12": 750241,
-  "2023-05-13": 750241,
-  "2023-05-14": 750241,
-  "2023-05-15": 750241,
-  "2023-05-16": 750241,
-  "2023-05-17": 750241,
-  "2023-05-18": 750241,
-  "2023-05-19": 750241,
-  "2023-05-20": 750241,
-  "2023-05-21": 750241,
-  "2023-05-22": 750241,
-  "2023-05-23": 750241,
-  "2023-05-24": 750241,
-  "2023-05-25": 750241,
-  "2023-05-26": 750241,
-  "2023-05-27": 750241,
-  "2023-05-28": 750241,
-  "2023-05-29": 750241,
-  "2023-05-30": 750241,
-  "2023-05-31": 750241,
-  "2023-06-01": 750241,
-  "2023-06-02": 750241,
-  "2023-06-03": 750241,
-  "2023-06-04": 750241,
-  "2023-06-05": 750241,
-  "2023-06-06": 750241,
-  "2023-06-07": 750241,
-  "2023-06-08": 750241,
-  "2023-06-09": 750241,
-  "2023-06-10": 750241,
-  "2023-06-11": 750241,
-  "2023-06-12": 750241,
-  "2023-06-13": 750241,
-  "2023-06-14": 750241,
-  "2023-06-15": 750241,
-  "2023-06-16": 750241,
-  "2023-06-17": 750241,
-  "2023-06-18": 750241,
-  "2023-06-19": 750241,
-  "2023-06-20": 750241,
-  "2023-06-21": 750241,
-  "2023-06-22": 750241,
-  "2023-06-23": 750241,
-  "2023-06-24": 750241,
-  "2023-06-25": 750241,
-  "2023-06-26": 750241,
-  "2023-06-27": 750241,
-  "2023-06-28": 750241,
-  "2023-06-29": 750241,
-  "2023-06-30": 750241,
-  "2023-07-01": 750241,
-  "2023-07-02": 750241,
-  "2023-07-03": 750241,
-  "2023-07-04": 750241,
-  "2023-07-05": 750241,
-  "2023-07-06": 750241,
-  "2023-07-07": 750241,
-  "2023-07-08": 750241,
-  "2023-07-09": 750241,
-  "2023-07-10": 750241,
-  "2023-07-11": 750241,
-  "2023-07-12": 750241,
-  "2023-07-13": 750241,
-  "2023-07-14": 750241,
-  "2023-07-15": 750241,
-  "2023-07-16": 750241,
-  "2023-07-17": 750241,
-  "2023-07-18": 750241,
-  "2023-07-19": 750241,
-  "2023-07-20": 750241,
-  "2023-07-21": 750241,
-  "2023-07-22": 750241,
-  "2023-07-23": 750241,
-  "2023-07-24": 750241,
-  "2023-07-25": 750241,
-  "2023-07-26": 750241,
-  "2023-07-27": 750241,
-  "2023-07-28": 750241,
-  "2023-07-29": 750241,
-  "2023-07-30": 750241,
-  "2023-07-31": 750241,
-  "2023-08-01": 750241,
-  "2023-08-02": 750241,
-  "2023-08-03": 750241,
-  "2023-08-04": 750241,
-  "2023-08-05": 750241,
-  "2023-08-06": 750241,
-  "2023-08-07": 750241,
-  "2023-08-08": 750241,
-  "2023-08-09": 750241,
-  "2023-08-10": 750241,
-  "2023-08-11": 750241,
-  "2023-08-12": 750241,
-  "2023-08-13": 750241,
-  "2023-08-14": 750241,
-  "2023-08-15": 750241,
-  "2023-08-16": 750241,
-  "2023-08-17": 750241,
-  "2023-08-18": 750241,
-  "2023-08-19": 750241,
-  "2023-08-20": 750241,
-  "2023-08-21": 750241,
-  "2023-08-22": 750241,
-  "2023-08-23": 750241,
-  "2023-08-24": 750241,
-  "2023-08-25": 750241,
-  "2023-08-26": 750241,
-  "2023-08-27": 750241,
-  "2023-08-28": 750241,
-  "2023-08-29": 750241,
-  "2023-08-30": 750241,
-  "2023-08-31": 750241,
-  "2023-09-01": 750241,
-  "2023-09-02": 750241,
-  "2023-09-03": 750241,
-  "2023-09-04": 750241,
-  "2023-09-05": 750241,
-  "2023-09-06": 750241,
-  "2023-09-07": 750241,
-  "2023-09-08": 750241,
-  "2023-09-09": 750241,
-  "2023-09-10": 750241,
-  "2023-09-11": 750241,
-  "2023-09-12": 750241,
-  "2023-09-13": 750241,
-  "2023-09-14": 750241,
-  "2023-09-15": 750241,
-  "2023-09-16": 750241,
-  "2023-09-17": 750241,
-  "2023-09-18": 750241,
-  "2023-09-19": 750241,
-  "2023-09-20": 750241,
-  "2023-09-21": 750241,
-  "2023-09-22": 750241,
-  "2023-09-23": 750241,
-  "2023-09-24": 750241,
-  "2023-09-25": 750241,
-  "2023-09-26": 750241,
-  "2023-09-27": 750241,
-  "2023-09-28": 750241,
-  "2023-09-29": 750241,
-  "2023-09-30": 750241,
-  "2023-10-01": 750241,
-  "2023-10-02": 750241,
-  "2023-10-03": 750241,
-  "2023-10-04": 750241,
-  "2023-10-05": 750241,
-  "2023-10-06": 750241,
-  "2023-10-07": 750241,
-  "2023-10-08": 750241,
-  "2023-10-09": 750241,
-  "2023-10-10": 750241,
-  "2023-10-11": 750241,
-  "2023-10-12": 750241,
-  "2023-10-13": 750241,
-  "2023-10-14": 750241,
-  "2023-10-15": 750241,
-  "2023-10-16": 750241,
-  "2023-10-17": 750241,
-  "2023-10-18": 750241,
-  "2023-10-19": 750241,
-  "2023-10-20": 750241,
-  "2023-10-21": 750241,
-  "2023-10-22": 750241,
-  "2023-10-23": 750241,
-  "2023-10-24": 750241,
-  "2023-10-25": 750241,
-  "2023-10-26": 750241,
-  "2023-10-27": 750241,
-  "2023-10-28": 750241,
-  "2023-10-29": 750241,
-  "2023-10-30": 750241,
-  "2023-10-31": 750241,
-  "2023-11-01": 750241,
-  "2023-11-02": 750241,
-  "2023-11-03": 750241,
-  "2023-11-04": 750241,
-  "2023-11-05": 750241,
-  "2023-11-06": 750241,
-  "2023-11-07": 750241,
-  "2023-11-08": 750241,
-  "2023-11-09": 750241,
-  "2023-11-10": 750241,
-  "2023-11-11": 750241,
-  "2023-11-12": 750241,
-  "2023-11-13": 750241,
-  "2023-11-14": 750241,
-  "2023-11-15": 750241,
-  "2023-11-16": 750241,
-  "2023-11-17": 750241,
-  "2023-11-18": 750241,
-  "2023-11-19": 750241,
-  "2023-11-20": 750241,
-  "2023-11-21": 750241,
-  "2023-11-22": 750241,
-  "2023-11-23": 750241,
-  "2023-11-24": 750241,
-  "2023-11-25": 750241,
-  "2023-11-26": 750241,
-  "2023-11-27": 750241,
-  "2023-11-28": 750241,
-  "2023-11-29": 750241,
-  "2023-11-30": 750241,
-  "2023-12-01": 750241,
-  "2023-12-02": 750241,
-  "2023-12-03": 750241,
-  "2023-12-04": 750241,
-  "2023-12-05": 750241,
-  "2023-12-06": 750241,
-  "2023-12-07": 750241,
-  "2023-12-08": 750241,
-  "2023-12-09": 750241,
-  "2023-12-10": 750241,
-  "2023-12-11": 750241,
-  "2023-12-12": 750241,
-  "2023-12-13": 750241,
-  "2023-12-14": 750241,
-  "2023-12-15": 750241,
-  "2023-12-16": 750241,
-  "2023-12-17": 750241,
-  "2023-12-18": 750241,
-  "2023-12-19": 750241,
-  "2023-12-20": 750241,
-  "2023-12-21": 750241,
-  "2023-12-22": 750241,
-  "2023-12-23": 750241,
-  "2023-12-24": 750241,
-  "2023-12-25": 750241,
-  "2023-12-26": 750241,
-  "2023-12-27": 750241,
-  "2023-12-30": 750241,
-  "2023-12-31": 750241,
-  "2024-01-01": 750241,
-  "2024-01-02": 750241,
-  "2024-01-03": 750241
+  "2024-01-17": 750241,
+  "date_first_scraped": "2021-12-28",
+  "description": "The latest and greatest. Lo nuevo y lo esencial.",
+  "name": "This Is Marc Anthony",
+  "tracks": [
+    {
+      "album": {
+        "name": "Iconos",
+        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274680,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
+    },
+    {
+      "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
+    },
+    {
+      "album": {
+        "name": "Marc Anthony \"El Cantante\" OST",
+        "url": "https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315266,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0Bf3bLtRSlpXl5l5MuzZd6"
+    },
+    {
+      "album": {
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305346,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Cautivo de Este Amor",
+      "url": "https://open.spotify.com/track/68HaHh0yF0PZA8rt7IVCL9"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285173,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/7jmoBQVXVFProuKMZJ1vru"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296013,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/10Hh9lle7aae8A0qrXfOgE"
+    },
+    {
+      "album": {
+        "name": "Conv\u00e9nceme",
+        "url": "https://open.spotify.com/album/6oxouERjg3yRQALERagHVx"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208567,
+      "name": "Conv\u00e9nceme",
+      "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
+    },
+    {
+      "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "album": {
+        "name": "Deja Que Te Bese",
+        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244353,
+      "name": "Deja Que Te Bese",
+      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
+    },
+    {
+      "album": {
+        "name": "Deje de Amar",
+        "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
+      },
+      "artists": [
+        {
+          "name": "Felipe Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "Deje de Amar",
+      "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Dime Si No es Verdad",
+      "url": "https://open.spotify.com/track/3fZQ34JaZ1DPbB3U9CUnlg"
+    },
+    {
+      "album": {
+        "name": "Marc Anthony",
+        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "D\u00edmelo",
+      "url": "https://open.spotify.com/track/0SzNJxel0NMpA4xM2COhO4"
+    },
+    {
+      "album": {
+        "name": "Marc Anthony \"El Cantante\" OST",
+        "url": "https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407533,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "Espera",
+      "url": "https://open.spotify.com/track/2NmGPWrGw43hOnhs3s8lKP"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5ODq74kSUgWq9uLc6OWVLU"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294373,
+      "name": "Este Loco Que Te Mira",
+      "url": "https://open.spotify.com/track/5TrVQXTSUdfBgBLcCrZoIA"
+    },
+    {
+      "album": {
+        "name": "Est\u00e1 Rico",
+        "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215151,
+      "name": "Est\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
+    },
+    {
+      "album": {
+        "name": "Felices los 4 (Salsa Version)",
+        "url": "https://open.spotify.com/album/0q1hXb96D8wruU3tp6IPZf"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242319,
+      "name": "Felices los 4 - Salsa Version",
+      "url": "https://open.spotify.com/track/33F4IHQ2JcXWSDXNA9b4tK"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280453,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "Hasta Ayer",
+      "url": "https://open.spotify.com/track/2mzG4KN7dEGPMlkwj2x7SL"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292146,
+      "name": "Hasta Que Te Conoci",
+      "url": "https://open.spotify.com/track/7cByIwoiisDonLQ20KGLFh"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271706,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/7DqCwFrRTSuLIrBCI3qNPn"
+    },
+    {
+      "album": {
+        "name": "Marc Anthony",
+        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "I Need to Know",
+      "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/0jMU9W1kcLyxXYloMHCt2i"
+    },
+    {
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310186,
+      "name": "Lo Peor de M\u00ed",
+      "url": "https://open.spotify.com/track/7iXdo6hpRStLGnV6ZbSzEE"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Lo Que Te Di",
+      "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353706,
+      "name": "Muy Dentro De M\u00ed (You Sang To Me) - Spanish Version",
+      "url": "https://open.spotify.com/track/2QbcikdPIWOLA9Uumiis1X"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "Nadie Como Ella",
+      "url": "https://open.spotify.com/track/4nIfmbuvmCn4AOyw1QW02Q"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304960,
+      "name": "No Me Ames",
+      "url": "https://open.spotify.com/track/08YNtHfd6ic8XmnTDuQdIW"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291986,
+      "name": "No Me Conoces",
+      "url": "https://open.spotify.com/track/43eajaKyhaOeptEKAQFn1O"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "No Sabes Como Duele",
+      "url": "https://open.spotify.com/track/5TIQpl0gO9uaEb8DALslWB"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Reconozco",
+      "url": "https://open.spotify.com/track/0aG17biAmgU7qiExo3gYkt"
+    },
+    {
+      "album": {
+        "name": "Sin Frenos",
+        "url": "https://open.spotify.com/album/3qF9Y1VQ2QvSJ7mfjxxmRs"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/0uBqj4YiynPDWw3I68yzVh"
+    },
+    {
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276373,
+      "name": "Se Esfuma Tu Amor - Salsa Version",
+      "url": "https://open.spotify.com/track/7qhDd43Mw3H2dRvh6i6CYT"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Si Me Creyeras",
+      "url": "https://open.spotify.com/track/6bOQdhEjkS8FS6XcNKEA8T"
+    },
+    {
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286133,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1TQyXfe1Bdjvq4pPFF6w3Q"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271880,
+      "name": "Si Tu No Te Fueras",
+      "url": "https://open.spotify.com/track/3XNs1fgG8q9Yn6sSaWiIvx"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290520,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/1siATRpCTikt3dpJiBonfk"
+    },
+    {
+      "album": {
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "Tan Solo Palabras",
+      "url": "https://open.spotify.com/track/0mUKppNt7UrwzGyiBdIq0w"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275386,
+      "name": "Te Amare",
+      "url": "https://open.spotify.com/track/4w4faq7iVJYvbESlUqXofK"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301013,
+      "name": "Te Conozco Bien",
+      "url": "https://open.spotify.com/track/5VhWU3h4X7PXSwfOZ1rKkE"
+    },
+    {
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "Traidora (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/7Fl3wSxRqBljyQH8dJSz9c"
+    },
+    {
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "album": {
+        "name": "Tu Vida en la M\u00eda",
+        "url": "https://open.spotify.com/album/2ahx5REabp2JWsWWwM8Dqf"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373200,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/0amRhMUb9wYrDOmSD938AQ"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258640,
+      "name": "Un Amor Eterno",
+      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5ODq74kSUgWq9uLc6OWVLU"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Viviendo",
+      "url": "https://open.spotify.com/track/4asxNfr9DG2f2g921Rl4PU"
+    },
+    {
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318760,
+      "name": "Volando Entre Tus Brazos - Salsa Version",
+      "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276626,
+      "name": "Volver a Comenzar",
+      "url": "https://open.spotify.com/track/4rB9Ji4iw2CKDjuaU3djPd"
+    },
+    {
+      "album": {
+        "name": "Iconos",
+        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240733,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
+    },
+    {
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/3JKA2HqHrFgIhfJU7sceSe"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386360,
+      "name": "Y Hubo Alguien",
+      "url": "https://open.spotify.com/track/36OpPmqPTLYPQESBhtY8ku"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306453,
+      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5ODq74kSUgWq9uLc6OWVLU"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309800,
+      "name": "Yo Te Quiero",
+      "url": "https://open.spotify.com/track/7yHfaJC3F613a8eCUKa9Fq"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "Yo Te Recuerdo - Version Salsa",
+      "url": "https://open.spotify.com/track/4rJ0gZnmLl9CxWqRKz7S0E"
+    },
+    {
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299880,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/4mOJzarE7lW4dXOkoKYJD2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8evYJzHX5bn"
 }

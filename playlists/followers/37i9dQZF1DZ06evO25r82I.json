@@ -1,423 +1,1129 @@
 {
-  "2022-11-05": 36453,
-  "2022-11-06": 36461,
-  "2022-11-07": 36479,
-  "2022-11-08": 36482,
-  "2022-11-09": 36490,
-  "2022-11-10": 36503,
-  "2022-11-11": 36513,
-  "2022-11-12": 36528,
-  "2022-11-13": 36541,
-  "2022-11-14": 36552,
-  "2022-11-15": 36554,
-  "2022-11-16": 36560,
-  "2022-11-17": 36570,
-  "2022-11-18": 36575,
-  "2022-11-19": 36575,
-  "2022-11-20": 36583,
-  "2022-11-21": 36594,
-  "2022-11-22": 36603,
-  "2022-11-23": 36618,
-  "2022-11-24": 36639,
-  "2022-11-25": 36657,
-  "2022-11-26": 36665,
-  "2022-11-27": 36680,
-  "2022-11-28": 36695,
-  "2022-11-29": 36705,
-  "2022-11-30": 36718,
-  "2022-12-01": 36732,
-  "2022-12-02": 36740,
-  "2022-12-03": 36760,
-  "2022-12-04": 36766,
-  "2022-12-05": 36776,
-  "2022-12-06": 36791,
-  "2022-12-07": 36808,
-  "2022-12-08": 36816,
-  "2022-12-09": 36826,
-  "2022-12-10": 36834,
-  "2022-12-11": 36849,
-  "2022-12-12": 36860,
-  "2022-12-13": 36866,
-  "2022-12-14": 36885,
-  "2022-12-15": 36900,
-  "2022-12-16": 36911,
-  "2022-12-17": 36928,
-  "2022-12-18": 36944,
-  "2022-12-19": 36952,
-  "2022-12-20": 36978,
-  "2022-12-21": 36978,
-  "2022-12-22": 36980,
-  "2022-12-24": 36995,
-  "2022-12-25": 37014,
-  "2022-12-26": 37019,
-  "2022-12-27": 37022,
-  "2022-12-28": 37029,
-  "2022-12-29": 37043,
-  "2022-12-30": 37053,
-  "2022-12-31": 37062,
-  "2023-01-01": 37072,
-  "2023-01-02": 37079,
-  "2023-01-03": 37085,
-  "2023-01-04": 37094,
-  "2023-01-05": 37112,
-  "2023-01-06": 37114,
-  "2023-01-07": 37133,
-  "2023-01-08": 37135,
-  "2023-01-09": 37152,
-  "2023-01-10": 37166,
-  "2023-01-11": 37176,
-  "2023-01-12": 37192,
-  "2023-01-13": 37212,
-  "2023-01-14": 37225,
-  "2023-01-15": 37227,
-  "2023-01-16": 37243,
-  "2023-01-17": 37257,
-  "2023-01-18": 37265,
-  "2023-01-19": 37280,
-  "2023-01-20": 37282,
-  "2023-01-21": 37294,
-  "2023-01-22": 37296,
-  "2023-01-23": 37313,
-  "2023-01-24": 37328,
-  "2023-01-25": 37342,
-  "2023-01-26": 37352,
-  "2023-01-27": 37364,
-  "2023-01-28": 37371,
-  "2023-01-29": 37385,
-  "2023-01-30": 37388,
-  "2023-01-31": 37388,
-  "2023-02-01": 37404,
-  "2023-02-02": 37412,
-  "2023-02-03": 37426,
-  "2023-02-04": 37440,
-  "2023-02-05": 37448,
-  "2023-02-06": 37458,
-  "2023-02-07": 37471,
-  "2023-02-08": 37482,
-  "2023-02-09": 37482,
-  "2023-02-10": 37494,
-  "2023-02-11": 37515,
-  "2023-02-12": 37529,
-  "2023-02-13": 37543,
-  "2023-02-14": 37543,
-  "2023-02-15": 37549,
-  "2023-02-16": 37553,
-  "2023-02-17": 37554,
-  "2023-02-18": 37580,
-  "2023-02-19": 37587,
-  "2023-02-20": 37591,
-  "2023-02-21": 37602,
-  "2023-02-22": 37617,
-  "2023-02-23": 37622,
-  "2023-02-24": 37637,
-  "2023-02-25": 37657,
-  "2023-02-26": 37665,
-  "2023-02-27": 37686,
-  "2023-02-28": 37686,
-  "2023-03-01": 37705,
-  "2023-03-02": 37718,
-  "2023-03-03": 37730,
-  "2023-03-04": 37743,
-  "2023-03-05": 37765,
-  "2023-03-06": 37765,
-  "2023-03-07": 37782,
-  "2023-03-08": 37798,
-  "2023-03-09": 37810,
-  "2023-03-10": 37826,
-  "2023-03-11": 37848,
-  "2023-03-12": 37864,
-  "2023-03-13": 37876,
-  "2023-03-14": 37909,
-  "2023-03-15": 37933,
-  "2023-03-16": 37933,
-  "2023-03-17": 37933,
-  "2023-03-18": 38018,
-  "2023-03-19": 38018,
-  "2023-03-20": 38072,
-  "2023-03-21": 38093,
-  "2023-03-22": 38116,
-  "2023-03-23": 38131,
-  "2023-03-24": 38131,
-  "2023-03-25": 38169,
-  "2023-03-26": 38186,
-  "2023-03-27": 38210,
-  "2023-03-28": 38221,
-  "2023-03-29": 38238,
-  "2023-03-30": 38254,
-  "2023-03-31": 38254,
-  "2023-04-01": 38278,
-  "2023-04-02": 38295,
-  "2023-04-03": 38313,
-  "2023-04-04": 38326,
-  "2023-04-05": 38332,
-  "2023-04-06": 38342,
-  "2023-04-07": 38344,
-  "2023-04-09": 38374,
-  "2023-04-10": 38384,
-  "2023-04-11": 38404,
-  "2023-04-12": 38404,
-  "2023-04-13": 38414,
-  "2023-04-14": 38428,
-  "2023-04-15": 38439,
-  "2023-04-16": 38444,
-  "2023-04-17": 38462,
-  "2023-04-18": 38474,
-  "2023-04-19": 38478,
-  "2023-04-20": 38484,
-  "2023-04-21": 38494,
-  "2023-04-22": 38508,
-  "2023-04-23": 38520,
-  "2023-04-24": 38536,
-  "2023-04-25": 38541,
-  "2023-04-26": 38557,
-  "2023-04-27": 38578,
-  "2023-04-28": 38588,
-  "2023-04-29": 38603,
-  "2023-04-30": 38618,
-  "2023-05-01": 38628,
-  "2023-05-02": 38634,
-  "2023-05-03": 38656,
-  "2023-05-04": 38669,
-  "2023-05-05": 38676,
-  "2023-05-06": 38686,
-  "2023-05-07": 38691,
-  "2023-05-08": 38708,
-  "2023-05-09": 38725,
-  "2023-05-10": 38732,
-  "2023-05-11": 38744,
-  "2023-05-12": 38757,
-  "2023-05-13": 38778,
-  "2023-05-14": 38797,
-  "2023-05-15": 38808,
-  "2023-05-16": 38814,
-  "2023-05-17": 38834,
-  "2023-05-18": 38855,
-  "2023-05-19": 38865,
-  "2023-05-20": 38889,
-  "2023-05-21": 38889,
-  "2023-05-22": 38889,
-  "2023-05-23": 38912,
-  "2023-05-24": 38938,
-  "2023-05-25": 38938,
-  "2023-05-26": 38948,
-  "2023-05-27": 38960,
-  "2023-05-28": 38972,
-  "2023-05-29": 38972,
-  "2023-05-30": 38994,
-  "2023-05-31": 39008,
-  "2023-06-01": 39031,
-  "2023-06-02": 39041,
-  "2023-06-03": 39065,
-  "2023-06-04": 39076,
-  "2023-06-05": 39090,
-  "2023-06-06": 39104,
-  "2023-06-07": 39110,
-  "2023-06-08": 39129,
-  "2023-06-09": 39146,
-  "2023-06-10": 39173,
-  "2023-06-11": 39195,
-  "2023-06-12": 39201,
-  "2023-06-13": 39218,
-  "2023-06-14": 39228,
-  "2023-06-15": 39245,
-  "2023-06-16": 39252,
-  "2023-06-17": 39274,
-  "2023-06-18": 39290,
-  "2023-06-19": 39305,
-  "2023-06-20": 39322,
-  "2023-06-21": 39329,
-  "2023-06-22": 39338,
-  "2023-06-23": 39355,
-  "2023-06-24": 39372,
-  "2023-06-25": 39388,
-  "2023-06-26": 39407,
-  "2023-06-27": 39427,
-  "2023-06-28": 39441,
-  "2023-06-29": 39453,
-  "2023-06-30": 39464,
-  "2023-07-01": 39505,
-  "2023-07-02": 39505,
-  "2023-07-03": 39514,
-  "2023-07-04": 39530,
-  "2023-07-05": 39535,
-  "2023-07-06": 39569,
-  "2023-07-07": 39569,
-  "2023-07-08": 39569,
-  "2023-07-09": 39597,
-  "2023-07-10": 39619,
-  "2023-07-11": 39625,
-  "2023-07-12": 39647,
-  "2023-07-13": 39669,
-  "2023-07-14": 39698,
-  "2023-07-15": 39706,
-  "2023-07-16": 39723,
-  "2023-07-17": 39732,
-  "2023-07-18": 39746,
-  "2023-07-19": 39757,
-  "2023-07-20": 39776,
-  "2023-07-21": 39790,
-  "2023-07-22": 39812,
-  "2023-07-23": 39833,
-  "2023-07-24": 39845,
-  "2023-07-25": 39862,
-  "2023-07-26": 39871,
-  "2023-07-27": 39886,
-  "2023-07-28": 39899,
-  "2023-07-29": 39924,
-  "2023-07-30": 39941,
-  "2023-07-31": 39965,
-  "2023-08-01": 39979,
-  "2023-08-02": 39991,
-  "2023-08-03": 40006,
-  "2023-08-04": 40016,
-  "2023-08-05": 40034,
-  "2023-08-06": 40068,
-  "2023-08-07": 40068,
-  "2023-08-08": 40082,
-  "2023-08-09": 40098,
-  "2023-08-10": 40113,
-  "2023-08-11": 40120,
-  "2023-08-12": 40120,
-  "2023-08-13": 40120,
-  "2023-08-14": 40153,
-  "2023-08-15": 40153,
-  "2023-08-16": 40153,
-  "2023-08-17": 40153,
-  "2023-08-18": 40153,
-  "2023-08-19": 40153,
-  "2023-08-20": 40248,
-  "2023-08-21": 40248,
-  "2023-08-22": 40291,
-  "2023-08-23": 40291,
-  "2023-08-24": 40291,
-  "2023-08-25": 40291,
-  "2023-08-26": 40357,
-  "2023-08-27": 40357,
-  "2023-08-28": 40384,
-  "2023-08-29": 40384,
-  "2023-08-30": 40384,
-  "2023-08-31": 40417,
-  "2023-09-01": 40429,
-  "2023-09-02": 40429,
-  "2023-09-03": 40455,
-  "2023-09-04": 40455,
-  "2023-09-05": 40455,
-  "2023-09-06": 40483,
-  "2023-09-07": 40483,
-  "2023-09-08": 40483,
-  "2023-09-09": 40483,
-  "2023-09-10": 40553,
-  "2023-09-11": 40553,
-  "2023-09-12": 40553,
-  "2023-09-13": 40603,
-  "2023-09-14": 40603,
-  "2023-09-15": 40603,
-  "2023-09-16": 40653,
-  "2023-09-17": 40653,
-  "2023-09-18": 40653,
-  "2023-09-19": 40683,
-  "2023-09-20": 40683,
-  "2023-09-21": 40683,
-  "2023-09-22": 40728,
-  "2023-09-23": 40728,
-  "2023-09-24": 40728,
-  "2023-09-25": 40728,
-  "2023-09-26": 40770,
-  "2023-09-27": 40770,
-  "2023-09-28": 40770,
-  "2023-09-29": 40770,
-  "2023-09-30": 40770,
-  "2023-10-01": 40770,
-  "2023-10-02": 40770,
-  "2023-10-03": 40770,
-  "2023-10-04": 40770,
-  "2023-10-05": 40857,
-  "2023-10-06": 40857,
-  "2023-10-07": 40857,
-  "2023-10-08": 40857,
-  "2023-10-09": 40857,
-  "2023-10-10": 40857,
-  "2023-10-11": 40897,
-  "2023-10-12": 40897,
-  "2023-10-13": 40897,
-  "2023-10-14": 40897,
-  "2023-10-15": 40897,
-  "2023-10-16": 40897,
-  "2023-10-17": 40897,
-  "2023-10-18": 40897,
-  "2023-10-19": 40897,
-  "2023-10-20": 40897,
-  "2023-10-21": 40897,
-  "2023-10-22": 40897,
-  "2023-10-23": 40897,
-  "2023-10-24": 40897,
-  "2023-10-25": 40897,
-  "2023-10-26": 40897,
-  "2023-10-27": 40897,
-  "2023-10-28": 40897,
-  "2023-10-29": 40897,
-  "2023-10-30": 40897,
-  "2023-10-31": 40897,
-  "2023-11-01": 40897,
-  "2023-11-02": 40897,
-  "2023-11-03": 40897,
-  "2023-11-04": 40897,
-  "2023-11-05": 40897,
-  "2023-11-06": 40897,
-  "2023-11-07": 40897,
-  "2023-11-08": 40897,
-  "2023-11-09": 40897,
-  "2023-11-10": 40897,
-  "2023-11-11": 41198,
-  "2023-11-12": 41198,
-  "2023-11-13": 41198,
-  "2023-11-14": 41198,
-  "2023-11-15": 41198,
-  "2023-11-16": 41198,
-  "2023-11-17": 41198,
-  "2023-11-18": 41198,
-  "2023-11-19": 41198,
-  "2023-11-20": 41198,
-  "2023-11-21": 41198,
-  "2023-11-22": 41198,
-  "2023-11-23": 41198,
-  "2023-11-24": 41198,
-  "2023-11-25": 41198,
-  "2023-11-26": 41198,
-  "2023-11-27": 41198,
-  "2023-11-28": 41198,
-  "2023-11-29": 41198,
-  "2023-11-30": 41198,
-  "2023-12-01": 41198,
-  "2023-12-02": 41198,
-  "2023-12-03": 41198,
-  "2023-12-04": 41198,
-  "2023-12-05": 41198,
-  "2023-12-06": 41198,
-  "2023-12-07": 41198,
-  "2023-12-08": 41198,
-  "2023-12-09": 41198,
-  "2023-12-10": 41198,
-  "2023-12-11": 41198,
-  "2023-12-12": 41198,
-  "2023-12-13": 41198,
-  "2023-12-14": 41545,
-  "2023-12-15": 41554,
-  "2023-12-16": 41566,
-  "2023-12-17": 41584,
-  "2023-12-18": 41589,
-  "2023-12-19": 41596,
-  "2023-12-20": 41607,
-  "2023-12-21": 41617,
-  "2023-12-22": 41631,
-  "2023-12-23": 41645,
-  "2023-12-24": 41654,
-  "2023-12-25": 41663,
-  "2023-12-26": 41668,
-  "2023-12-27": 41673,
-  "2023-12-30": 41690,
-  "2023-12-31": 41699,
-  "2024-01-01": 41704,
-  "2024-01-02": 41712,
-  "2024-01-03": 41719
+  "2024-01-17": 41819,
+  "date_first_scraped": "2022-11-05",
+  "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
+  "name": "This Is Jimmy Eat World",
+  "tracks": [
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433160,
+      "name": "23",
+      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "555",
+      "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        },
+        {
+          "name": "Davey Vonbohlen",
+          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "A Praise Chorus",
+      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160826,
+      "name": "Action Needs An Audience",
+      "url": "https://open.spotify.com/track/4wWQfo5vHRiwDsAVVEPPVn"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245746,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Always Be",
+      "url": "https://open.spotify.com/track/7LyZKnITD52R7SLxoh2VFq"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba Gabba! Hey!",
+        "url": "https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 101509,
+      "name": "Beautiful Day with My Best Friend",
+      "url": "https://open.spotify.com/track/2S1597oJ3sAKSViYlL2PaJ"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Believe In What You Want",
+      "url": "https://open.spotify.com/track/1MiVBh1JWUmplMqR79UjzF"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Big Casino",
+      "url": "https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Call It In The Air",
+      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Chase This Light",
+      "url": "https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Coffee And Cigarettes",
+      "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191796,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
+    },
+    {
+      "album": {
+        "name": "Stay On My Side Tonight",
+        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464200,
+      "name": "Disintegration",
+      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285800,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176906,
+      "name": "Electable (Give It Up)",
+      "url": "https://open.spotify.com/track/6YF86Myf8ganLrq9QtCg0E"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246560,
+      "name": "For Me This Is Heaven",
+      "url": "https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "I Will Steal You Back",
+      "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 427120,
+      "name": "Invented",
+      "url": "https://open.spotify.com/track/0a9gDPRPLntNNowrvg4xHs"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "It Matters",
+      "url": "https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "Kill",
+      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
+    },
+    {
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2Vm9PdvlNkCDqInLdOVkAN"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "Littlething",
+      "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229706,
+      "name": "Lucky Denver Mint",
+      "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "My Best Theory",
+      "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
+    },
+    {
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+    },
+    {
+      "album": {
+        "name": "Stay On My Side Tonight",
+        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 226133,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/78FHi3kc3BbaCXIjyti0vX"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
+    },
+    {
+      "album": {
+        "name": "Place Your Debts",
+        "url": "https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310380,
+      "name": "Place Your Debts",
+      "url": "https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 407026,
+      "name": "Pol Roger",
+      "url": "https://open.spotify.com/track/1JrSekFi8F901m1DWdx0ut"
+    },
+    {
+      "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 251560,
+      "name": "Pretty Grids",
+      "url": "https://open.spotify.com/track/2s7uFsolFNS1VlVsQRA4uF"
+    },
+    {
+      "album": {
+        "name": "Something Loud",
+        "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196618,
+      "name": "Something Loud",
+      "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 214786,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/5P0IZCEAXz3Bbsp9xquM82"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215706,
+      "name": "Sure and Certain",
+      "url": "https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm"
+    },
+    {
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+    },
+    {
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 228373,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/2WKfrlOLw7U1RvqvdiMpM2"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "The Authority Song",
+      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
+    },
+    {
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "The Middle - Acoustic Version",
+      "url": "https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5"
+    },
+    {
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 171226,
+      "name": "Thinking, That's All",
+      "url": "https://open.spotify.com/track/6woVdVXtPpcw9K7w0LJHBK"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+    },
+    {
+      "album": {
+        "name": "Futures (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 254840,
+      "name": "You Are Free",
+      "url": "https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm"
+    },
+    {
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318373,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
+    },
+    {
+      "album": {
+        "name": "Clarity (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Your New Aesthetic",
+      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25r82I"
 }

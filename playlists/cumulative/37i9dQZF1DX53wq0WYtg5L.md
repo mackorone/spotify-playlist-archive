@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-197 songs - 10 hr 21 min
+198 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Cumbia Medley: Mariachi Loco, La Pollera Colora, La Bala, No Te Metas Con Mi Cucu, Rosa Maria, La Cucaracha, Yo No Fui](https://open.spotify.com/track/5eK3yqT9NrWPh36KszcjDU) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [Dulce Dano](https://open.spotify.com/album/64kCvIceqzonCUngVgk9KC) | 4:56 | 2021-09-01 | 2022-07-29 |
 | [El Arrancazacate](https://open.spotify.com/track/1N7YdHZU4eXNcXewNb8bvh) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Mexico](https://open.spotify.com/album/77A7HWM9Xslf18knwthmge) | 0:48 | 2021-09-01 | 2022-01-25 |
 | [El Balajú / Huapango](https://open.spotify.com/track/6ejQdiWRgOUK0f7ws7K0Sf) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:49 | 2021-09-01 |  |
-| [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-08-02 |  |
+| [El Barzon](https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt) | [Luis Perez Meza](https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu) | [19 Éxitos Con Banda](https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie) | 2:46 | 2022-09-12 |  |
+| [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-08-02 | 2024-01-13 |
 | [El Caballito](https://open.spotify.com/track/3eiOUlAZSK8DQ9IIqrg8r3) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR) | 2:00 | 2021-09-01 | 2022-07-29 |
 | [El Caballito](https://open.spotify.com/track/5kjGfKsHvI8zk0hd1NyJb5) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:00 | 2022-01-25 |  |
 | [El Caporal de Chihuahua](https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:56 | 2021-09-01 |  |

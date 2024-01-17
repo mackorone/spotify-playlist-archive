@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 
 > The official playlist for” Blue Orchestra” TVアニメ『<a href="https://aooke\-anime.com/">青のオーケストラ</a>』に登場する名曲を公式プレイリストで。©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,586 likes - 36 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,673 likes - 36 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

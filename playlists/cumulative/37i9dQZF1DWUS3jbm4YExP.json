@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 338251,
       "name": "Akihi",
       "url": "https://open.spotify.com/track/585G4ngYqOUkHfRNyLzsd1"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 443989,
       "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
       "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
@@ -1333,6 +1333,32 @@
     },
     {
       "album": {
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Gilbert K",
+          "url": "https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393367,
+      "name": "Better Days (Kumba)",
+      "url": "https://open.spotify.com/track/40CXXNs2PIe82JadEWTNPZ"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/0Nxl08hPtWD64wmJ4QDtKz"
       },
@@ -1414,7 +1440,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 295469,
       "name": "Black Times - Radio Edit",
       "url": "https://open.spotify.com/track/2mbWm1eg1c1h2RuXm2kme9"
@@ -1444,6 +1470,24 @@
       "duration_ms": 295469,
       "name": "Black Times - Radio Edit",
       "url": "https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4"
+    },
+    {
+      "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
       "album": {
@@ -3034,7 +3078,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 246034,
       "name": "Dub Azucar",
       "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
@@ -4015,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/0VpCI9FcWXIPLOnq7Sj2wb"
+      },
+      "artists": [
+        {
+          "name": "Solovino",
+          "url": "https://open.spotify.com/artist/1tK101wDTXF3fmqGUAUYnA"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245365,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/3TaLLashha0SbJRIrEj5gZ"
+    },
+    {
+      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/2P2mEfHVA713lsDSIs1Qkf"
       },
@@ -4379,6 +4441,42 @@
     },
     {
       "album": {
+        "name": "Good Blood",
+        "url": "https://open.spotify.com/album/3m0uBQjlAC1dFyFmuYtKXd"
+      },
+      "artists": [
+        {
+          "name": "King Edi K",
+          "url": "https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315483,
+      "name": "Good Blood",
+      "url": "https://open.spotify.com/track/0IhKRPBbC5vm3XIXT6bOtW"
+    },
+    {
+      "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228813,
+      "name": "Gotoku Lemon",
+      "url": "https://open.spotify.com/track/77b6MAvDeH0NILyuFgcQw7"
+    },
+    {
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/7e1tZm29M23DLNgPtzFUvr"
       },
@@ -4420,6 +4518,24 @@
       "duration_ms": 286638,
       "name": "Gringofire In Ethiopia",
       "url": "https://open.spotify.com/track/14pNRBawPwR34gawYSX5tb"
+    },
+    {
+      "album": {
+        "name": "Guajirando",
+        "url": "https://open.spotify.com/album/18wajZarjucF8FNEExQdGY"
+      },
+      "artists": [
+        {
+          "name": "Mito y Comadre",
+          "url": "https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238236,
+      "name": "Guajirando",
+      "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"
     },
     {
       "album": {
@@ -6388,7 +6504,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 232946,
       "name": "Las Panteras",
       "url": "https://open.spotify.com/track/78wov1rtJdf7ZnPNNXBDWY"
@@ -7054,6 +7170,24 @@
       "duration_ms": 231353,
       "name": "Mande Moin On Lajan, Pa Mande Moin Za Fe An Moin",
       "url": "https://open.spotify.com/track/69HiuYUNtxJoxcPzYMTwI4"
+    },
+    {
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "album": {
@@ -9816,7 +9950,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179497,
       "name": "Shoreline Transit",
       "url": "https://open.spotify.com/track/3qo9MuJSAYzXSyxPmNN4HB"
@@ -9986,6 +10120,28 @@
       "duration_ms": 261839,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/3RaajzNOCvM1AHrroBgwOe"
+    },
+    {
+      "album": {
+        "name": "Smells Like You",
+        "url": "https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        },
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269696,
+      "name": "Smells Like You",
+      "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
     },
     {
       "album": {
@@ -10470,7 +10626,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 224882,
       "name": "Sunset Sound",
       "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
@@ -11766,7 +11922,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
@@ -11918,6 +12074,28 @@
       "duration_ms": 202938,
       "name": "Watch me Dance",
       "url": "https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl"
+    },
+    {
+      "album": {
+        "name": "Water of Life",
+        "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304334,
+      "name": "Water of Life",
+      "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
     },
     {
       "album": {
@@ -12520,7 +12698,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 232500,
       "name": "\u00d1e\u00f1o",
       "url": "https://open.spotify.com/track/04wkclUopy6en6H0Fvqs9E"

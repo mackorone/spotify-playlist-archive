@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-92 songs - 6 hr 46 min
+93 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Ace Of Spades](https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [Ace Of Spades](https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK) | 2:36 | 2022-09-30 |  |
 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 | 2020-12-01 |  |
 | [Baby I Will](https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 4:29 | 2020-12-01 |  |
-| [Betcha Didn't Know](https://open.spotify.com/track/2sXl847DWvw9guoTrHpdSL) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI) | 4:17 | 2020-12-01 |  |
+| [Betcha Didn't Know](https://open.spotify.com/track/0lQ5vJJhJWjxpvoilbq137) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/0GahKnjx2DsUw3ZN2mdinA) | 4:17 | 2020-12-01 |  |
+| [Betcha Didn't Know](https://open.spotify.com/track/2sXl847DWvw9guoTrHpdSL) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI) | 4:17 | 2020-12-01 | 2024-01-14 |
 | [Betcha Didn't Know](https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Betcha Didn't Know](https://open.spotify.com/album/5tAKD9toNUPBnDi7DJJ8c3) | 4:17 | 2020-12-01 | 2023-07-22 |
 | [Black Cat Roun' My Do'](https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:56 | 2020-12-01 |  |
 | [Blues All Over You](https://open.spotify.com/track/5pHKdXNCOodQ4EzWzi75nd) | [Joey Gilmore](https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64) | [The Ghosts of Mississippi Meet the Gods of Africa](https://open.spotify.com/album/2FhmXNQTIIjlW5i84cELVQ) | 3:41 | 2020-12-01 |  |

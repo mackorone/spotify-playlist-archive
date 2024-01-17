@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,033 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 | 72 | [All Summer Long](https://open.spotify.com/track/4X0Ym9rv0Y12F04O5UGpSG) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Kid Rock](https://open.spotify.com/album/6y84YXp2Tpm6dhuVHWihiZ) | 4:18 |
 | 73 | [I Hope You Dance \(Lullaby Version\)](https://open.spotify.com/track/3CD1qck2RKMrZs0eB0tPEq) | [Infinite Hit Band](https://open.spotify.com/artist/6yNita4fnzh0pQAzbAwmdJ) | [Lullabies \- Country Lullaby Music](https://open.spotify.com/album/2yAOS4HuDgQ6tHTJG2DjQc) | 2:57 |
 
-Snapshot ID: `MCxjNTk1ZGQ4ZGM3NzZmY2U3YjA0NTM2NjI5YjE4ZjdhN2VmNTQxMmQ1`
+Snapshot ID: `MCxmN2MwYmRmODY0OGQ4MTE1NWExZmYzODA2NDkzZWYzMjcwODVkYTYz`

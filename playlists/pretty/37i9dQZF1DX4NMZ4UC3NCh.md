@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,796 likes - 118 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,119 likes - 118 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 49 | [행복 \(Happiness\)](https://open.spotify.com/track/6XP9L7di5JnOc9WaeAW8oe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [행복\(Happiness\)](https://open.spotify.com/album/6MMkaYzyM0aLZmDBce3nL6) | 3:40 |
 | 50 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
 | 51 | [Eyes Locked, Hands Locked](https://open.spotify.com/track/5vdqSjUj9JZsAHdr02Vygk) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 4:10 |
-| 52 | [Your Name](https://open.spotify.com/track/7MyhcoU6jpoeDSTXw9yXAp) | [조이](https://open.spotify.com/artist/1C9THAsTBK6yqZi8sKP10v) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7Hte4qBJwmSCELZyYiJeP3) | 3:45 |
+| 52 | [Your Name](https://open.spotify.com/track/7MyhcoU6jpoeDSTXw9yXAp) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7Hte4qBJwmSCELZyYiJeP3) | 3:45 |
 | 53 | [두 글자](https://open.spotify.com/track/0RmDq47ZpG5wIKDM0f0nDA) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [START\-UP \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/3G5kDIO4kKC58Hf6beFEnE) | 3:59 |
 | 54 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 |
 | 55 | [Bad Boy \- English Version, Bonus Track](https://open.spotify.com/track/78HD9IN4cKE1MMHWeVJPWh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:28 |

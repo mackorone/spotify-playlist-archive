@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-298 songs - 18 hr 45 min
+300 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 | 2021-07-30 |  |
 | [Olalla](https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:07 | 2022-02-25 | 2022-11-13 |
 | [Olalla](https://open.spotify.com/track/4d4OJTq2Yl7TyiuGMLxa1h) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Olalla](https://open.spotify.com/album/7ezEVlzMBGfVkGWuwcINqY) | 4:07 | 2021-07-30 | 2022-07-29 |
-| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-02-25 |  |
+| [Olalla](https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:08 | 2023-06-09 |  |
+| [Olalla](https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG) | 4:08 | 2022-02-25 | 2024-01-06 |
 | [Olympians \- Acoustic](https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [We Are Olympians](https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf) | 4:57 | 2021-07-30 |  |
 | [On the Radio](https://open.spotify.com/track/33uOm4KiN69SEZ4k2sKMu0) | [Holly Miranda](https://open.spotify.com/artist/0CNehpGYdxk87YYMiBpnyP) | [Mutual Horse](https://open.spotify.com/album/77NBjLz7WofTazhriPT3X2) | 4:07 | 2021-07-30 |  |
 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 | 2021-07-30 |  |
@@ -231,7 +232,8 @@
 | [Sadness Is Taking Over](https://open.spotify.com/track/6Eos3ejwtcIinRuYDF1jim) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Nothing Lasts Forever \(And It's Fine\)](https://open.spotify.com/album/4cyvsgs2Sx5JeVqOkXZdSe) | 3:48 | 2022-02-25 |  |
 | [Salem](https://open.spotify.com/track/0Kp0CPUzFcEqhBbHoRKtbm) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:44 | 2021-07-30 | 2022-07-29 |
 | [Salem](https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:44 | 2022-02-25 |  |
-| [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 | 2021-07-30 |  |
+| [Samara](https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:12 | 2023-06-09 |  |
+| [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 | 2021-07-30 | 2024-01-06 |
 | [Sea Creatures](https://open.spotify.com/track/0ziGHz1rdtRE426q03NC8F) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/7lZZYA2lDZhSNBgXK2dEig) | 4:16 | 2021-07-30 | 2022-07-29 |
 | [Sea Creatures](https://open.spotify.com/track/3HzVDoiZWZbDBgzyjH3sTO) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Best Indie Folk of 2020, Vol\. 2](https://open.spotify.com/album/0WlaZ7aIunmn5333SI1kGw) | 4:16 | 2022-02-25 | 2022-11-13 |
 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 | 2022-02-25 | 2022-09-12 |

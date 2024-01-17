@@ -1,187 +1,535 @@
 {
-  "2023-07-01": 1610,
-  "2023-07-02": 1610,
-  "2023-07-03": 2514,
-  "2023-07-04": 3421,
-  "2023-07-05": 4314,
-  "2023-07-06": 6127,
-  "2023-07-07": 6127,
-  "2023-07-08": 7000,
-  "2023-07-09": 7949,
-  "2023-07-10": 9159,
-  "2023-07-11": 10259,
-  "2023-07-12": 11208,
-  "2023-07-13": 12257,
-  "2023-07-14": 13219,
-  "2023-07-15": 14052,
-  "2023-07-16": 15429,
-  "2023-07-17": 16640,
-  "2023-07-18": 17695,
-  "2023-07-19": 18684,
-  "2023-07-20": 19517,
-  "2023-07-21": 20332,
-  "2023-07-22": 21152,
-  "2023-07-23": 21984,
-  "2023-07-24": 22742,
-  "2023-07-25": 23488,
-  "2023-07-26": 24180,
-  "2023-07-27": 24901,
-  "2023-07-28": 25515,
-  "2023-07-29": 26078,
-  "2023-07-30": 26650,
-  "2023-07-31": 27180,
-  "2023-08-01": 27649,
-  "2023-08-02": 28127,
-  "2023-08-03": 28597,
-  "2023-08-04": 29035,
-  "2023-08-05": 29451,
-  "2023-08-06": 30282,
-  "2023-08-07": 30282,
-  "2023-08-08": 30673,
-  "2023-08-09": 31015,
-  "2023-08-10": 31308,
-  "2023-08-11": 31622,
-  "2023-08-12": 31950,
-  "2023-08-13": 32349,
-  "2023-08-14": 32811,
-  "2023-08-15": 33565,
-  "2023-08-16": 33565,
-  "2023-08-17": 33927,
-  "2023-08-18": 34290,
-  "2023-08-19": 34610,
-  "2023-08-20": 34972,
-  "2023-08-21": 35335,
-  "2023-08-22": 35614,
-  "2023-08-23": 35855,
-  "2023-08-24": 36105,
-  "2023-08-25": 36349,
-  "2023-08-26": 36605,
-  "2023-08-27": 36874,
-  "2023-08-28": 37157,
-  "2023-08-29": 37335,
-  "2023-08-30": 37566,
-  "2023-08-31": 37769,
-  "2023-09-01": 38132,
-  "2023-09-02": 38132,
-  "2023-09-03": 38352,
-  "2023-09-04": 38352,
-  "2023-09-05": 38810,
-  "2023-09-06": 38995,
-  "2023-09-07": 38995,
-  "2023-09-08": 38995,
-  "2023-09-09": 39530,
-  "2023-09-10": 39739,
-  "2023-09-11": 39963,
-  "2023-09-12": 39963,
-  "2023-09-13": 40300,
-  "2023-09-14": 40300,
-  "2023-09-15": 40598,
-  "2023-09-16": 40759,
-  "2023-09-17": 40759,
-  "2023-09-18": 40759,
-  "2023-09-19": 41260,
-  "2023-09-20": 41370,
-  "2023-09-21": 41521,
-  "2023-09-22": 41640,
-  "2023-09-23": 41640,
-  "2023-09-24": 41640,
-  "2023-09-25": 41640,
-  "2023-09-26": 42299,
-  "2023-09-27": 42299,
-  "2023-09-28": 42299,
-  "2023-09-29": 42299,
-  "2023-09-30": 42299,
-  "2023-10-01": 42299,
-  "2023-10-02": 42985,
-  "2023-10-03": 43096,
-  "2023-10-04": 43096,
-  "2023-10-05": 43344,
-  "2023-10-06": 43450,
-  "2023-10-07": 43450,
-  "2023-10-08": 43450,
-  "2023-10-09": 43450,
-  "2023-10-10": 43450,
-  "2023-10-11": 43987,
-  "2023-10-12": 43987,
-  "2023-10-13": 44140,
-  "2023-10-14": 44140,
-  "2023-10-15": 44140,
-  "2023-10-16": 44140,
-  "2023-10-17": 44140,
-  "2023-10-18": 44140,
-  "2023-10-19": 44140,
-  "2023-10-20": 44140,
-  "2023-10-21": 44140,
-  "2023-10-22": 44140,
-  "2023-10-23": 44140,
-  "2023-10-24": 44140,
-  "2023-10-25": 44140,
-  "2023-10-26": 44140,
-  "2023-10-27": 44140,
-  "2023-10-28": 44140,
-  "2023-10-29": 44140,
-  "2023-10-30": 44140,
-  "2023-10-31": 44140,
-  "2023-11-01": 44140,
-  "2023-11-02": 44140,
-  "2023-11-03": 44140,
-  "2023-11-04": 44140,
-  "2023-11-05": 44140,
-  "2023-11-06": 44140,
-  "2023-11-07": 44140,
-  "2023-11-08": 44140,
-  "2023-11-09": 44140,
-  "2023-11-10": 44140,
-  "2023-11-11": 46950,
-  "2023-11-12": 46950,
-  "2023-11-13": 46950,
-  "2023-11-14": 46950,
-  "2023-11-15": 46950,
-  "2023-11-16": 46950,
-  "2023-11-17": 47495,
-  "2023-11-18": 47495,
-  "2023-11-19": 47495,
-  "2023-11-20": 47495,
-  "2023-11-21": 47495,
-  "2023-11-22": 47495,
-  "2023-11-23": 47495,
-  "2023-11-24": 47495,
-  "2023-11-25": 47495,
-  "2023-11-26": 47495,
-  "2023-11-27": 47495,
-  "2023-11-28": 47495,
-  "2023-11-29": 47495,
-  "2023-11-30": 47495,
-  "2023-12-01": 47495,
-  "2023-12-02": 47495,
-  "2023-12-03": 47495,
-  "2023-12-04": 47495,
-  "2023-12-05": 47495,
-  "2023-12-06": 47495,
-  "2023-12-07": 47495,
-  "2023-12-08": 47495,
-  "2023-12-09": 47495,
-  "2023-12-10": 47495,
-  "2023-12-11": 47495,
-  "2023-12-12": 47495,
-  "2023-12-13": 47495,
-  "2023-12-14": 49496,
-  "2023-12-15": 49572,
-  "2023-12-16": 49685,
-  "2023-12-17": 49817,
-  "2023-12-18": 49919,
-  "2023-12-19": 50033,
-  "2023-12-20": 50136,
-  "2023-12-21": 50242,
-  "2023-12-22": 50340,
-  "2023-12-23": 50444,
-  "2023-12-24": 50554,
-  "2023-12-25": 50659,
-  "2023-12-26": 50735,
-  "2023-12-27": 50846,
-  "2023-12-30": 51240,
-  "2023-12-31": 51361,
-  "2024-01-01": 51472,
-  "2024-01-02": 51567,
-  "2024-01-03": 51669
+  "2024-01-17": 53207,
+  "date_first_scraped": "2023-07-01",
+  "description": "A new hero takes shape. Listen to the music from and inspired by Nimona, now streaming on Netflix. ",
+  "name": "Nimona Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jennie Bomb",
+        "url": "https://open.spotify.com/album/06dSMb1QmbZu6EU49qLZJ2"
+      },
+      "artists": [
+        {
+          "name": "Sahara Hotnights",
+          "url": "https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126973,
+      "name": "Alright Alright (Here's My Fist Where's the Fight ?)",
+      "url": "https://open.spotify.com/track/4KdmaktDUkC9hcfap6bW7i"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119760,
+      "name": "Back to the Shadows",
+      "url": "https://open.spotify.com/track/0QJVepDX4YlVM4ncUTDsEd"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154133,
+      "name": "Ballister's Theme",
+      "url": "https://open.spotify.com/track/1xWpOXJPmIgdgcfb0c15ez"
+    },
+    {
+      "album": {
+        "name": "The Incredible Shrinking Dickies (Expanded Version)",
+        "url": "https://open.spotify.com/album/4Ihag1SKHFDIxLFIJUT1Wb"
+      },
+      "artists": [
+        {
+          "name": "The Dickies",
+          "url": "https://open.spotify.com/artist/3xWO6nOrnGGL9hfB2vWxLI"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116213,
+      "name": "Banana Splits",
+      "url": "https://open.spotify.com/track/3vLERdxRiXhEVbHxuqMH6V"
+    },
+    {
+      "album": {
+        "name": "Because I'm Awesome",
+        "url": "https://open.spotify.com/album/7sZjZITDN5UvWvMYmrQxpW"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Because I'm Awesome",
+      "url": "https://open.spotify.com/track/0lIAJkyVBkmXq4Vz0BN0cc"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96320,
+      "name": "Born to Protect",
+      "url": "https://open.spotify.com/track/2XJdEszPVXJWkDBAsT4m5c"
+    },
+    {
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "Breaking the Law",
+      "url": "https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57266,
+      "name": "Caught",
+      "url": "https://open.spotify.com/track/2ceZ4oaF08Ie4gRHHbxzpL"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "Everybody Hates You Too",
+      "url": "https://open.spotify.com/track/4guKCLJUltWGWaLPwwlJCQ"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Gloreth's Theme",
+      "url": "https://open.spotify.com/track/1iM4M7idpri4BSgc8JbfIm"
+    },
+    {
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203053,
+      "name": "GO! (feat. Karen O)",
+      "url": "https://open.spotify.com/track/6rx4jBTSagd1W4ZkQI63oK"
+    },
+    {
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Gold Guns Girls",
+      "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
+    },
+    {
+      "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92946,
+      "name": "Healed",
+      "url": "https://open.spotify.com/track/3Vqny7GvmXcDJa2KzCiENB"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104066,
+      "name": "Last Stop",
+      "url": "https://open.spotify.com/track/5ZT6eES6620s1A2wWWrsPq"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192453,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/4kOpFj6zFdHVYyezCvBLhd"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Nimona's Theme",
+      "url": "https://open.spotify.com/track/4Yxw255m6kcWKl1ZNcvpCE"
+    },
+    {
+      "album": {
+        "name": "One Two Punch (from the Netflix Film \"Nimona\")",
+        "url": "https://open.spotify.com/album/57dCpxS30H85Kc6XhVN6da"
+      },
+      "artists": [
+        {
+          "name": "Jessica Boudreaux",
+          "url": "https://open.spotify.com/artist/3jlRFxFUvKIu1npXwbWwTL"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "One Two Punch (from the Netflix Film \"Nimona\")",
+      "url": "https://open.spotify.com/track/0FiLixhwCJtVLYBl9eKtRS"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Please Come Back",
+      "url": "https://open.spotify.com/track/7rXCGnji8UU0RHbWoNJ0Oe"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230213,
+      "name": "Regicide",
+      "url": "https://open.spotify.com/track/2BcEGlaAf25eAauAJAH4b5"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332653,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4YDhlNiW3ze7Cm5M8gV1dK"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98360,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/07M50gccwevAJAbMO6gnYi"
+    },
+    {
+      "album": {
+        "name": "T-Rex (from the Netflix Film \"Nimona\")",
+        "url": "https://open.spotify.com/album/5Q5ZxN5xo2Gw5Ddf6Sjs07"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "T-Rex (from the Netflix Film \"Nimona\")",
+      "url": "https://open.spotify.com/track/6AjiC6ZSglAeusQABB6LTj"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73533,
+      "name": "The Legend of Gloreth",
+      "url": "https://open.spotify.com/track/7LqYxAzdPuBW88PPCbKhFM"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104093,
+      "name": "The Night to Knight",
+      "url": "https://open.spotify.com/track/6Fecp5QEDVkxt0MifClNXT"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42760,
+      "name": "The Search",
+      "url": "https://open.spotify.com/track/46xm0f5C1uzy3s847b4fXF"
+    },
+    {
+      "album": {
+        "name": "The Tra La La Song (One Banana, Two Banana) / Don't Go Away - Go Go Girl",
+        "url": "https://open.spotify.com/album/5Q1ce5qXmlb69XfIuEQhQF"
+      },
+      "artists": [
+        {
+          "name": "The Banana Splits",
+          "url": "https://open.spotify.com/artist/1IFqL5UiEPVc2CCzgsKTtA"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87133,
+      "name": "The Tra La La Song (One Banana, Two Banana)",
+      "url": "https://open.spotify.com/track/2j9w5xu69ioTxUZFvqvuGs"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1bGcUR2XpvlY8jk2R33CXA"
+    },
+    {
+      "album": {
+        "name": "Nimona (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1M0d2jqE9oDr0NCEbao5rS"
+      },
+      "artists": [
+        {
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78760,
+      "name": "Zombies",
+      "url": "https://open.spotify.com/track/775QBeXjIT1aGwbFCTb6gX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXduL9tgVUiAe"
 }

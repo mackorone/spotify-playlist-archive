@@ -2197,6 +2197,28 @@
     },
     {
       "album": {
+        "name": "Romantic Piano Masters",
+        "url": "https://open.spotify.com/album/7z7YKuLmvD4kAa4Sgy58vb"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14 \"Kupelwieser Walzer\"",
+      "url": "https://open.spotify.com/track/3wI7S8vadJMsbQCCBUEYhx"
+    },
+    {
+      "album": {
         "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, 'Kupelwieser Walzer'",
         "url": "https://open.spotify.com/album/2YO6S0ZS95UpPqZcTqn0yi"
       },
@@ -2216,28 +2238,6 @@
       "duration_ms": 112493,
       "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, \"Kupelwieser Walzer\"",
       "url": "https://open.spotify.com/track/2XVPMHh86z4M8ghTw5xvxn"
-    },
-    {
-      "album": {
-        "name": "Romantic Piano Masters",
-        "url": "https://open.spotify.com/album/7z7YKuLmvD4kAa4Sgy58vb"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Mariam Batsashvili",
-          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
-        }
-      ],
-      "date_added": "2022-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 112493,
-      "name": "Schubert: Waltz in G-Flat Major, D. Anh. I/14, \"Kupelwieser Walzer\"",
-      "url": "https://open.spotify.com/track/3wI7S8vadJMsbQCCBUEYhx"
     },
     {
       "album": {

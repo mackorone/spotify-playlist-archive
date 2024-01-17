@@ -1,569 +1,3463 @@
 {
-  "2022-06-10": 229138,
-  "2022-06-11": 229221,
-  "2022-06-12": 229280,
-  "2022-06-13": 229325,
-  "2022-06-14": 229395,
-  "2022-06-15": 229457,
-  "2022-06-16": 229538,
-  "2022-06-17": 229607,
-  "2022-06-18": 229648,
-  "2022-06-19": 229794,
-  "2022-06-20": 229794,
-  "2022-06-21": 229839,
-  "2022-06-22": 229979,
-  "2022-06-23": 229979,
-  "2022-06-24": 230088,
-  "2022-06-25": 230182,
-  "2022-06-26": 230327,
-  "2022-06-27": 230497,
-  "2022-06-28": 230630,
-  "2022-06-29": 230736,
-  "2022-06-30": 230854,
-  "2022-07-01": 230959,
-  "2022-07-02": 231047,
-  "2022-07-03": 231115,
-  "2022-07-04": 231224,
-  "2022-07-05": 231324,
-  "2022-07-06": 231389,
-  "2022-07-07": 231484,
-  "2022-07-08": 231588,
-  "2022-07-09": 231675,
-  "2022-07-10": 231795,
-  "2022-07-11": 231890,
-  "2022-07-12": 231983,
-  "2022-07-13": 232062,
-  "2022-07-14": 232128,
-  "2022-07-15": 232189,
-  "2022-07-16": 232290,
-  "2022-07-17": 232370,
-  "2022-07-18": 232447,
-  "2022-07-19": 232495,
-  "2022-07-20": 232546,
-  "2022-07-21": 232615,
-  "2022-07-22": 232682,
-  "2022-07-23": 232749,
-  "2022-07-24": 232819,
-  "2022-07-25": 232896,
-  "2022-07-26": 232958,
-  "2022-07-27": 233020,
-  "2022-07-28": 233089,
-  "2022-07-29": 233149,
-  "2022-07-30": 233270,
-  "2022-07-31": 233270,
-  "2022-08-01": 233324,
-  "2022-08-02": 233471,
-  "2022-08-03": 233471,
-  "2022-08-04": 233513,
-  "2022-08-05": 233569,
-  "2022-08-06": 233621,
-  "2022-08-07": 233667,
-  "2022-08-08": 233779,
-  "2022-08-09": 233808,
-  "2022-08-10": 233907,
-  "2022-08-11": 233997,
-  "2022-08-12": 234068,
-  "2022-08-13": 234146,
-  "2022-08-14": 234225,
-  "2022-08-15": 234311,
-  "2022-08-16": 234355,
-  "2022-08-17": 234432,
-  "2022-08-18": 234496,
-  "2022-08-19": 234551,
-  "2022-08-20": 234636,
-  "2022-08-21": 234699,
-  "2022-08-22": 234759,
-  "2022-08-23": 234837,
-  "2022-08-24": 234892,
-  "2022-08-25": 234975,
-  "2022-08-26": 235015,
-  "2022-08-27": 235069,
-  "2022-08-28": 235134,
-  "2022-08-29": 235201,
-  "2022-08-30": 234817,
-  "2022-08-31": 234043,
-  "2022-09-01": 233166,
-  "2022-09-02": 233229,
-  "2022-09-03": 232289,
-  "2022-09-04": 230772,
-  "2022-09-05": 229990,
-  "2022-09-06": 230019,
-  "2022-09-07": 230038,
-  "2022-09-09": 230145,
-  "2022-09-10": 230199,
-  "2022-09-11": 230243,
-  "2022-09-12": 230263,
-  "2022-09-13": 230324,
-  "2022-09-15": 230414,
-  "2022-09-16": 230468,
-  "2022-09-17": 230488,
-  "2022-09-18": 230551,
-  "2022-09-19": 230582,
-  "2022-09-20": 230637,
-  "2022-09-21": 230704,
-  "2022-09-22": 230790,
-  "2022-09-23": 230905,
-  "2022-09-24": 230987,
-  "2022-09-25": 231076,
-  "2022-09-26": 231186,
-  "2022-09-27": 231258,
-  "2022-09-28": 231368,
-  "2022-09-29": 231444,
-  "2022-09-30": 231531,
-  "2022-10-01": 231626,
-  "2022-10-02": 231700,
-  "2022-10-03": 231810,
-  "2022-10-04": 231867,
-  "2022-10-05": 231936,
-  "2022-10-06": 232003,
-  "2022-10-07": 232107,
-  "2022-10-08": 232173,
-  "2022-10-09": 232335,
-  "2022-10-10": 232350,
-  "2022-10-11": 232396,
-  "2022-10-12": 232467,
-  "2022-10-13": 232538,
-  "2022-10-14": 232620,
-  "2022-10-15": 232707,
-  "2022-10-16": 232795,
-  "2022-10-17": 232875,
-  "2022-10-18": 232919,
-  "2022-10-19": 232970,
-  "2022-10-20": 233041,
-  "2022-10-21": 233118,
-  "2022-10-22": 233187,
-  "2022-10-23": 233263,
-  "2022-10-24": 233326,
-  "2022-10-25": 233379,
-  "2022-10-26": 233476,
-  "2022-10-27": 233519,
-  "2022-10-28": 233594,
-  "2022-10-29": 233643,
-  "2022-10-30": 233764,
-  "2022-10-31": 233865,
-  "2022-11-01": 233952,
-  "2022-11-02": 234014,
-  "2022-11-03": 234082,
-  "2022-11-04": 234177,
-  "2022-11-05": 234261,
-  "2022-11-06": 234357,
-  "2022-11-07": 234437,
-  "2022-11-08": 234506,
-  "2022-11-09": 234576,
-  "2022-11-10": 234667,
-  "2022-11-11": 234756,
-  "2022-11-12": 234845,
-  "2022-11-13": 234913,
-  "2022-11-14": 234995,
-  "2022-11-15": 235068,
-  "2022-11-16": 235149,
-  "2022-11-17": 235207,
-  "2022-11-18": 235224,
-  "2022-11-19": 235129,
-  "2022-11-20": 235119,
-  "2022-11-21": 235223,
-  "2022-11-22": 235537,
-  "2022-11-23": 235463,
-  "2022-11-24": 235627,
-  "2022-11-25": 235823,
-  "2022-11-26": 235963,
-  "2022-11-27": 236054,
-  "2022-11-28": 236115,
-  "2022-11-29": 236153,
-  "2022-11-30": 236228,
-  "2022-12-01": 236250,
-  "2022-12-02": 236297,
-  "2022-12-03": 236335,
-  "2022-12-04": 236436,
-  "2022-12-05": 236507,
-  "2022-12-06": 236590,
-  "2022-12-07": 236655,
-  "2022-12-08": 236731,
-  "2022-12-09": 236779,
-  "2022-12-10": 236838,
-  "2022-12-11": 236900,
-  "2022-12-12": 236973,
-  "2022-12-13": 237019,
-  "2022-12-14": 237103,
-  "2022-12-15": 237170,
-  "2022-12-16": 237246,
-  "2022-12-17": 237330,
-  "2022-12-18": 237406,
-  "2022-12-19": 237479,
-  "2022-12-20": 237597,
-  "2022-12-21": 237597,
-  "2022-12-22": 237641,
-  "2022-12-24": 237757,
-  "2022-12-25": 237811,
-  "2022-12-26": 237839,
-  "2022-12-27": 237903,
-  "2022-12-28": 237947,
-  "2022-12-29": 238019,
-  "2022-12-30": 238076,
-  "2022-12-31": 238159,
-  "2023-01-01": 238210,
-  "2023-01-02": 238266,
-  "2023-01-03": 238316,
-  "2023-01-04": 238336,
-  "2023-01-05": 238393,
-  "2023-01-06": 238492,
-  "2023-01-07": 238565,
-  "2023-01-08": 238578,
-  "2023-01-09": 238640,
-  "2023-01-10": 238713,
-  "2023-01-11": 238789,
-  "2023-01-12": 238885,
-  "2023-01-13": 238954,
-  "2023-01-14": 239077,
-  "2023-01-15": 239099,
-  "2023-01-16": 239171,
-  "2023-01-17": 239213,
-  "2023-01-18": 239300,
-  "2023-01-19": 239360,
-  "2023-01-20": 239424,
-  "2023-01-21": 239493,
-  "2023-01-22": 239572,
-  "2023-01-23": 239637,
-  "2023-01-24": 239678,
-  "2023-01-25": 239703,
-  "2023-01-26": 239727,
-  "2023-01-27": 239790,
-  "2023-01-28": 239823,
-  "2023-01-29": 239878,
-  "2023-01-30": 239937,
-  "2023-01-31": 239937,
-  "2023-02-01": 239985,
-  "2023-02-02": 240054,
-  "2023-02-03": 240107,
-  "2023-02-04": 240160,
-  "2023-02-05": 240199,
-  "2023-02-06": 240254,
-  "2023-02-07": 240288,
-  "2023-02-08": 240418,
-  "2023-02-09": 240418,
-  "2023-02-10": 240473,
-  "2023-02-11": 240528,
-  "2023-02-12": 240690,
-  "2023-02-13": 240733,
-  "2023-02-14": 240733,
-  "2023-02-15": 240771,
-  "2023-02-16": 240820,
-  "2023-02-17": 240864,
-  "2023-02-18": 240942,
-  "2023-02-19": 240963,
-  "2023-02-20": 241020,
-  "2023-02-21": 241046,
-  "2023-02-22": 241097,
-  "2023-02-23": 241139,
-  "2023-02-24": 241203,
-  "2023-02-25": 241275,
-  "2023-02-26": 241303,
-  "2023-02-27": 241432,
-  "2023-02-28": 241432,
-  "2023-03-01": 241503,
-  "2023-03-02": 241546,
-  "2023-03-03": 241629,
-  "2023-03-04": 241695,
-  "2023-03-05": 241839,
-  "2023-03-06": 241839,
-  "2023-03-07": 241920,
-  "2023-03-08": 242023,
-  "2023-03-09": 242082,
-  "2023-03-10": 242160,
-  "2023-03-11": 242262,
-  "2023-03-12": 242354,
-  "2023-03-13": 242441,
-  "2023-03-14": 242499,
-  "2023-03-15": 242575,
-  "2023-03-16": 242633,
-  "2023-03-17": 242633,
-  "2023-03-18": 242776,
-  "2023-03-19": 242827,
-  "2023-03-20": 242930,
-  "2023-03-21": 243006,
-  "2023-03-22": 243056,
-  "2023-03-23": 243115,
-  "2023-03-24": 243115,
-  "2023-03-25": 243217,
-  "2023-03-26": 243288,
-  "2023-03-27": 243360,
-  "2023-03-28": 243434,
-  "2023-03-29": 243514,
-  "2023-03-30": 243672,
-  "2023-03-31": 243672,
-  "2023-04-01": 243732,
-  "2023-04-02": 243787,
-  "2023-04-03": 243839,
-  "2023-04-04": 243884,
-  "2023-04-05": 243927,
-  "2023-04-06": 243999,
-  "2023-04-07": 244055,
-  "2023-04-09": 244155,
-  "2023-04-10": 244219,
-  "2023-04-11": 244348,
-  "2023-04-12": 244348,
-  "2023-04-13": 244398,
-  "2023-04-14": 244424,
-  "2023-04-15": 244490,
-  "2023-04-16": 244545,
-  "2023-04-17": 244581,
-  "2023-04-18": 244647,
-  "2023-04-19": 244729,
-  "2023-04-20": 244791,
-  "2023-04-21": 244855,
-  "2023-04-22": 244924,
-  "2023-04-23": 244984,
-  "2023-04-24": 245068,
-  "2023-04-25": 245152,
-  "2023-04-26": 245218,
-  "2023-04-27": 245307,
-  "2023-04-28": 245361,
-  "2023-04-29": 245407,
-  "2023-04-30": 245501,
-  "2023-05-01": 245556,
-  "2023-05-02": 245591,
-  "2023-05-03": 245629,
-  "2023-05-04": 245679,
-  "2023-05-05": 245727,
-  "2023-05-06": 245791,
-  "2023-05-07": 245850,
-  "2023-05-08": 245894,
-  "2023-05-09": 245936,
-  "2023-05-10": 245958,
-  "2023-05-11": 245999,
-  "2023-05-12": 246044,
-  "2023-05-13": 246084,
-  "2023-05-14": 246148,
-  "2023-05-15": 246188,
-  "2023-05-16": 246225,
-  "2023-05-17": 246244,
-  "2023-05-18": 246294,
-  "2023-05-19": 246363,
-  "2023-05-20": 246445,
-  "2023-05-21": 246445,
-  "2023-05-22": 246445,
-  "2023-05-23": 246533,
-  "2023-05-24": 246629,
-  "2023-05-25": 246635,
-  "2023-05-26": 246713,
-  "2023-05-27": 246756,
-  "2023-05-28": 246797,
-  "2023-05-29": 246797,
-  "2023-05-30": 246896,
-  "2023-05-31": 246934,
-  "2023-06-01": 246975,
-  "2023-06-02": 247027,
-  "2023-06-03": 247078,
-  "2023-06-04": 247099,
-  "2023-06-05": 247131,
-  "2023-06-06": 247190,
-  "2023-06-07": 247230,
-  "2023-06-08": 247272,
-  "2023-06-09": 247346,
-  "2023-06-10": 247373,
-  "2023-06-11": 247441,
-  "2023-06-12": 247516,
-  "2023-06-13": 247618,
-  "2023-06-14": 247618,
-  "2023-06-15": 247703,
-  "2023-06-16": 247748,
-  "2023-06-17": 247803,
-  "2023-06-18": 247861,
-  "2023-06-19": 247908,
-  "2023-06-20": 247929,
-  "2023-06-21": 247979,
-  "2023-06-22": 248008,
-  "2023-06-23": 248051,
-  "2023-06-24": 248094,
-  "2023-06-25": 248130,
-  "2023-06-26": 248175,
-  "2023-06-27": 248239,
-  "2023-06-28": 248271,
-  "2023-06-29": 248323,
-  "2023-06-30": 248376,
-  "2023-07-01": 248514,
-  "2023-07-02": 248514,
-  "2023-07-03": 248553,
-  "2023-07-04": 248615,
-  "2023-07-05": 248682,
-  "2023-07-06": 248986,
-  "2023-07-07": 248986,
-  "2023-07-08": 249187,
-  "2023-07-09": 249358,
-  "2023-07-10": 249544,
-  "2023-07-11": 249799,
-  "2023-07-12": 250172,
-  "2023-07-13": 250480,
-  "2023-07-14": 250820,
-  "2023-07-15": 250914,
-  "2023-07-16": 251083,
-  "2023-07-17": 251196,
-  "2023-07-18": 251306,
-  "2023-07-19": 251400,
-  "2023-07-20": 251481,
-  "2023-07-21": 251582,
-  "2023-07-22": 251706,
-  "2023-07-23": 251833,
-  "2023-07-24": 251947,
-  "2023-07-25": 252023,
-  "2023-07-26": 252118,
-  "2023-07-27": 252182,
-  "2023-07-28": 252277,
-  "2023-07-29": 252386,
-  "2023-07-30": 252486,
-  "2023-07-31": 252600,
-  "2023-08-01": 252709,
-  "2023-08-02": 252823,
-  "2023-08-03": 252946,
-  "2023-08-04": 253084,
-  "2023-08-05": 253271,
-  "2023-08-06": 253719,
-  "2023-08-07": 253719,
-  "2023-08-08": 253874,
-  "2023-08-09": 254089,
-  "2023-08-10": 254295,
-  "2023-08-11": 254477,
-  "2023-08-12": 254701,
-  "2023-08-13": 254923,
-  "2023-08-14": 255140,
-  "2023-08-15": 255592,
-  "2023-08-16": 255592,
-  "2023-08-17": 255870,
-  "2023-08-18": 256113,
-  "2023-08-19": 256371,
-  "2023-08-20": 256616,
-  "2023-08-21": 256877,
-  "2023-08-22": 257131,
-  "2023-08-23": 257355,
-  "2023-08-24": 257577,
-  "2023-08-25": 257811,
-  "2023-08-26": 258132,
-  "2023-08-27": 258421,
-  "2023-08-28": 258695,
-  "2023-08-29": 258932,
-  "2023-08-30": 259181,
-  "2023-08-31": 259458,
-  "2023-09-01": 260298,
-  "2023-09-02": 260298,
-  "2023-09-03": 260589,
-  "2023-09-04": 260892,
-  "2023-09-05": 261155,
-  "2023-09-06": 261368,
-  "2023-09-07": 261663,
-  "2023-09-08": 262212,
-  "2023-09-09": 262720,
-  "2023-09-10": 263251,
-  "2023-09-11": 263539,
-  "2023-09-12": 263754,
-  "2023-09-13": 263973,
-  "2023-09-14": 264185,
-  "2023-09-15": 264373,
-  "2023-09-16": 264586,
-  "2023-09-17": 264840,
-  "2023-09-18": 265017,
-  "2023-09-19": 265215,
-  "2023-09-20": 265412,
-  "2023-09-21": 265594,
-  "2023-09-22": 265765,
-  "2023-09-23": 266135,
-  "2023-09-24": 266378,
-  "2023-09-25": 266688,
-  "2023-09-26": 266936,
-  "2023-09-27": 267089,
-  "2023-09-28": 267249,
-  "2023-09-29": 267401,
-  "2023-09-30": 267610,
-  "2023-10-01": 267823,
-  "2023-10-02": 267980,
-  "2023-10-03": 268118,
-  "2023-10-04": 268255,
-  "2023-10-05": 268413,
-  "2023-10-06": 268620,
-  "2023-10-07": 268830,
-  "2023-10-08": 269072,
-  "2023-10-09": 269314,
-  "2023-10-10": 269529,
-  "2023-10-11": 269939,
-  "2023-10-12": 269939,
-  "2023-10-13": 270078,
-  "2023-10-14": 270250,
-  "2023-10-15": 270445,
-  "2023-10-16": 270647,
-  "2023-10-17": 270836,
-  "2023-10-18": 270974,
-  "2023-10-19": 271145,
-  "2023-10-20": 271358,
-  "2023-10-21": 271574,
-  "2023-10-22": 271797,
-  "2023-10-23": 272061,
-  "2023-10-24": 272259,
-  "2023-10-25": 272469,
-  "2023-10-26": 272668,
-  "2023-10-27": 272869,
-  "2023-10-28": 273039,
-  "2023-10-29": 273247,
-  "2023-10-30": 273614,
-  "2023-10-31": 273614,
-  "2023-11-01": 273745,
-  "2023-11-02": 273902,
-  "2023-11-03": 274091,
-  "2023-11-04": 274304,
-  "2023-11-05": 274513,
-  "2023-11-06": 274845,
-  "2023-11-07": 275116,
-  "2023-11-08": 275365,
-  "2023-11-09": 275600,
-  "2023-11-10": 275811,
-  "2023-11-11": 276031,
-  "2023-11-12": 276257,
-  "2023-11-13": 276435,
-  "2023-11-14": 276613,
-  "2023-11-15": 276613,
-  "2023-11-16": 276974,
-  "2023-11-17": 277360,
-  "2023-11-18": 277360,
-  "2023-11-19": 277588,
-  "2023-11-20": 277801,
-  "2023-11-21": 277981,
-  "2023-11-22": 278194,
-  "2023-11-23": 278392,
-  "2023-11-24": 278620,
-  "2023-11-25": 278801,
-  "2023-11-26": 278987,
-  "2023-11-27": 279190,
-  "2023-11-28": 279368,
-  "2023-11-29": 279699,
-  "2023-11-30": 279699,
-  "2023-12-01": 279899,
-  "2023-12-02": 280073,
-  "2023-12-03": 280276,
-  "2023-12-04": 280472,
-  "2023-12-05": 280649,
-  "2023-12-06": 280818,
-  "2023-12-07": 280979,
-  "2023-12-08": 281165,
-  "2023-12-09": 281357,
-  "2023-12-10": 281573,
-  "2023-12-11": 281757,
-  "2023-12-12": 281940,
-  "2023-12-13": 282099,
-  "2023-12-14": 282286,
-  "2023-12-15": 282410,
-  "2023-12-16": 282604,
-  "2023-12-17": 282800,
-  "2023-12-18": 283006,
-  "2023-12-19": 283185,
-  "2023-12-20": 283321,
-  "2023-12-21": 283532,
-  "2023-12-22": 283697,
-  "2023-12-23": 283911,
-  "2023-12-24": 284111,
-  "2023-12-25": 284327,
-  "2023-12-26": 284520,
-  "2023-12-27": 284720,
-  "2023-12-30": 285486,
-  "2023-12-31": 285778,
-  "2024-01-01": 286051,
-  "2024-01-02": 286289,
-  "2024-01-03": 286504
+  "2024-01-17": 289468,
+  "date_first_scraped": "2022-06-10",
+  "description": "TV\u30a2\u30cb\u30e1<a href=\"https://jujutsukaisen.jp/\">\u300c\u546a\u8853\u5efb\u6226\u300d</a> \u306e\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u3053\u308c\u307e\u3067\u306eOP/ED\u66f2\u3001 <a href=\"spotify:show:1OApR2wyRtWRAydfmg3Vto\">\u300c\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \u30cb\u30ad </a>\u300d\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u3092\u5408\u308f\u305b\u3066\u30c1\u30a7\u30c3\u30af\uff01 / \"You should use your strength to help others.\" - Enjoy music and podcast from Jujutsu Kaisen!",
+  "name": "\u546a\u8853\u5efb\u6226 - Jujutsu Kaisen -",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212441,
+      "name": "7 to 3",
+      "url": "https://open.spotify.com/track/3FkHIhQdbqwX736X3gCYx3"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212386,
+      "name": "7:3",
+      "url": "https://open.spotify.com/track/0MH2yR8M3HardOAngG5zoa"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "A Feeling Of Strangeness",
+      "url": "https://open.spotify.com/track/4xENq8OR5opEhke8h6PGtn"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166426,
+      "name": "A Feeling Of Strangeness",
+      "url": "https://open.spotify.com/track/4oDib4RG9ZzufHZRNcdkwz"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 126000,
+      "name": "A Little Lesson",
+      "url": "https://open.spotify.com/track/55nRoZhXqT0HdVsjfcZhih"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "A Little Lesson",
+      "url": "https://open.spotify.com/track/6Nug8wiMf2LVD1G6bSpu5r"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95520,
+      "name": "A Mission",
+      "url": "https://open.spotify.com/track/1hIDaIMvt3xUw3M53FsmKy"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95520,
+      "name": "A Mission",
+      "url": "https://open.spotify.com/track/6Tb4mvqh06Pkzsa5hyrrQ0"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106720,
+      "name": "About Maki",
+      "url": "https://open.spotify.com/track/084etVzDRwzU1ySEqFibC3"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106720,
+      "name": "About Maki",
+      "url": "https://open.spotify.com/track/4DhULE7wOhAjRuv4uJZK3C"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Arrogance",
+      "url": "https://open.spotify.com/track/5kVaz8nPPGazclZHMESeLv"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 141000,
+      "name": "Arrogance",
+      "url": "https://open.spotify.com/track/630pBH3SoKjjGgkEK9q4Qw"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 103500,
+      "name": "Attack By Storm",
+      "url": "https://open.spotify.com/track/58X6OSh6sgLEiOUaG7TY3n"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "Attack By Storm",
+      "url": "https://open.spotify.com/track/5ZsedbJTz8cnT5NnlKDtRW"
+    },
+    {
+      "album": {
+        "name": "Kaizin",
+        "url": "https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204086,
+      "name": "Avant",
+      "url": "https://open.spotify.com/track/4tscsbUMuX7EUZE2m97C6d"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Che Lingo",
+          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186693,
+      "name": "Be Prepared",
+      "url": "https://open.spotify.com/track/5QnX0nV5jFhgzBWRh7ZCAQ"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Che Lingo",
+          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
+        },
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186737,
+      "name": "Be Prepared",
+      "url": "https://open.spotify.com/track/6s054FcTsu9gFk5EgvZ7d9"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/1hZl95Cl9a9ud87rYLt4Su"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/1C1EpfFyHscxXSlHjsuUsX"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/1hZl95Cl9a9ud87rYLt4Su"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 122500,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/7pq5KIOGFJ6NODYawc3trP"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4cZPf5cN4RzJyRqtPnLKM9"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/6hZcSE5QkC2lBsESf95ahm"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 46640,
+      "name": "Cursed Speech",
+      "url": "https://open.spotify.com/track/2aaAuQywfLoXGEP1Plg7yf"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46640,
+      "name": "Cursed Speech",
+      "url": "https://open.spotify.com/track/7iVnFS6nWHXHvH8QZQdF2f"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 156000,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/1KZaJhOQ6vGVZhAol3nXJ1"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/6Kj0Xa1LlqppY0R8V4go68"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104440,
+      "name": "Declare War",
+      "url": "https://open.spotify.com/track/6hIfVeKgaeGUxmywNl2Lli"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104440,
+      "name": "Declare War",
+      "url": "https://open.spotify.com/track/1sB7ZQ13hzRrDkakqpxN9k"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/2yLb9W6vFKlJdMmvHmFtpT"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 150000,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/4pwpIPTrh8pGCcXKFsWIoW"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 128000,
+      "name": "Elegant Time",
+      "url": "https://open.spotify.com/track/28EWcvkKt3thtqvPlIEFEs"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Elegant Time",
+      "url": "https://open.spotify.com/track/4AHgEP3fLT82u3pFGpzIiB"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112000,
+      "name": "Fisticuffs",
+      "url": "https://open.spotify.com/track/0cEE9a8Axbhll2tCnYdkwa"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Fisticuffs",
+      "url": "https://open.spotify.com/track/3X0RdG7P7nCCkPu64DPYkW"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106173,
+      "name": "From Unknown",
+      "url": "https://open.spotify.com/track/2vVTJyYLxM6fgACcZ6ErqF"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106173,
+      "name": "From Unknown",
+      "url": "https://open.spotify.com/track/6bI1VRIyuYF9s19clwmQuV"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 90520,
+      "name": "Geto's Residuals",
+      "url": "https://open.spotify.com/track/0PbJqcNqkkpWO9q0WJBJJZ"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "Geto's True Identity",
+      "url": "https://open.spotify.com/track/0o5WkJonhUVKr6XN97uGha"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189186,
+      "name": "Geto's True Identity",
+      "url": "https://open.spotify.com/track/5KPi19U6YQMulbtPcXx8JI"
+    },
+    {
+      "album": {
+        "name": "give it back",
+        "url": "https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI"
+      },
+      "artists": [
+        {
+          "name": "C\u00f6 shu Nie",
+          "url": "https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212476,
+      "name": "give it back",
+      "url": "https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171853,
+      "name": "Gojo VS Miguel",
+      "url": "https://open.spotify.com/track/0vEFtfkatnXjhOyxMGdCS3"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171853,
+      "name": "Gojo VS Miguel",
+      "url": "https://open.spotify.com/track/5amvbgzOshFw9MZrxDFKTD"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        },
+        {
+          "name": "Chez",
+          "url": "https://open.spotify.com/artist/3QPkiE4U7jN0j6oAy1QJLo"
+        },
+        {
+          "name": "Jessica Gelinas",
+          "url": "https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Greatest Strength",
+      "url": "https://open.spotify.com/track/0qLRYyADLptZlBy1WAW1lG"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        },
+        {
+          "name": "Chez",
+          "url": "https://open.spotify.com/artist/51rJlc3rKBPc6o6SZkM4gn"
+        },
+        {
+          "name": "Jessica Gelinas",
+          "url": "https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192640,
+      "name": "Greatest Strength",
+      "url": "https://open.spotify.com/track/5aH7qIIzr7Ej577rPRlh8o"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/253HUx9i3fVnQEwc040dhi"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152640,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/7aYL2gshJnXBGwZUjnZ9g3"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Hidden Inventory",
+      "url": "https://open.spotify.com/track/3F2BvwuOOs8cddpx2chlSC"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232817,
+      "name": "Hollow Purple",
+      "url": "https://open.spotify.com/track/4P7pNVKPrgNFWEOzkQZCQH"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106515,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6QGA2ZzFliSA1Dsg7rBoJJ"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "If I Am With You",
+      "url": "https://open.spotify.com/track/3kTia7ayynt7DvMq1y77jC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Paranom",
+          "url": "https://open.spotify.com/artist/0ktM7PMneJlD9FdEX9SSpZ"
+        },
+        {
+          "name": "Kasper",
+          "url": "https://open.spotify.com/artist/7J6dQo2GCHwBS8JYQD0lVc"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159373,
+      "name": "Impatience",
+      "url": "https://open.spotify.com/track/1iTKKqr7W5k6t6ZfD3YECy"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Paranom",
+          "url": "https://open.spotify.com/artist/0ktM7PMneJlD9FdEX9SSpZ"
+        },
+        {
+          "name": "Kasper",
+          "url": "https://open.spotify.com/artist/0JaJs8LTgT32M7rU29lGJJ"
+        },
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159439,
+      "name": "Impatience",
+      "url": "https://open.spotify.com/track/0z6IIwef5zNtbwuIW4pmFs"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114293,
+      "name": "In Similar Circumstances",
+      "url": "https://open.spotify.com/track/1TyfWXtggFZ8gjFoNh1tFk"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114293,
+      "name": "In Similar Circumstances",
+      "url": "https://open.spotify.com/track/2bAcFkHWqyMPB6XdKMXGtK"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90520,
+      "name": "In Similar Circumstances Geto's Residuals",
+      "url": "https://open.spotify.com/track/70oYILIWmTWXopRdU5Nccu"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46213,
+      "name": "It's a Promise",
+      "url": "https://open.spotify.com/track/4vOvzDOGhEpo9KBziDXXHt"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 46213,
+      "name": "It's a Promise",
+      "url": "https://open.spotify.com/track/6RTOyd2Iv4fHPWeJPZDr6O"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109623,
+      "name": "JUJUTSU KAISEN",
+      "url": "https://open.spotify.com/track/7eD9SZJiW771D7Cng4pLkI"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214218,
+      "name": "Jujutsu Sorcerer Megumi Fushiguro",
+      "url": "https://open.spotify.com/track/7JkakKNpZ1iPgisu6mXEwP"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan",
+        "url": "https://open.spotify.com/album/20avoisFInptrZfBRFdCP3"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219234,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju"
+    },
+    {
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 King Gnu\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/53SooXx8XtIPd91BbGl0nD"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72980,
+      "name": "King Gnu\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/66leDOjVa7T4cbGW6lS1oJ"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Limitless Cursed Technique",
+      "url": "https://open.spotify.com/track/2z2Km9SCsCU9EeQWqvRsiE"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 116500,
+      "name": "Little Hand",
+      "url": "https://open.spotify.com/track/4Py3SBp06RH9pKafLgVNaW"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "Little Hand",
+      "url": "https://open.spotify.com/track/5OfbqBk23IIFBmbFPlRuT9"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165003,
+      "name": "Looming Threat",
+      "url": "https://open.spotify.com/track/5stZw6VNtqJ71vO2rr9e1c"
+    },
+    {
+      "album": {
+        "name": "LOST IN PARADISE",
+        "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328960,
+      "name": "LOST IN PARADISE",
+      "url": "https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG"
+    },
+    {
+      "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 179500,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/4p8lbKhuD207HQYuNLPJQ7"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/79ielBF1RwIMgvBJHfOqfR"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Our Fellow Sorcerers' Corpses",
+      "url": "https://open.spotify.com/track/0qAvKfMAH7B8Mee3zbsxgc"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Our Mission",
+      "url": "https://open.spotify.com/track/09mQcjWOVvln5tYYCVNimN"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 135500,
+      "name": "Our Mission",
+      "url": "https://open.spotify.com/track/39twNLevmMQUuVGM3y2Lrs"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Peace Out",
+      "url": "https://open.spotify.com/track/6C0K3BerbADnxqOovi6Kgx"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208613,
+      "name": "Peace Out",
+      "url": "https://open.spotify.com/track/6zA9lnhSmj4ogICJyDJ9By"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Physical Prowess",
+      "url": "https://open.spotify.com/track/690mVl3rGG1hpCICNz9oQy"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/1XS1B0Hf7EBqaFECoOSXTg"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210666,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/6uO2J5LJ09WBR2NAPCCV3o"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Premature",
+      "url": "https://open.spotify.com/track/2aa7E1tLlf5EkHYa5L1Pqg"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Prepare Yourself",
+      "url": "https://open.spotify.com/track/0jK7uIm1i6sIhZRlhlAI0j"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 151500,
+      "name": "Prepare Yourself",
+      "url": "https://open.spotify.com/track/7JNziPcWRX4qfs40riToKf"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 61560,
+      "name": "RECORD",
+      "url": "https://open.spotify.com/track/1JwMMimsQLAnBeBdPiG31h"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61560,
+      "name": "RECORD",
+      "url": "https://open.spotify.com/track/3tYYORmratig1Ufljuk8fj"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Masato(coldrain)",
+          "url": "https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8"
+        },
+        {
+          "name": "coladrain",
+          "url": "https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4"
+        },
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243333,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Masto (coldrain)",
+          "url": "https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D"
+        },
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243396,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Searching for Riko",
+      "url": "https://open.spotify.com/track/5TDoBVOLNC4pXu9StPh88z"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112575,
+      "name": "Self-Embodiment Of Perfection",
+      "url": "https://open.spotify.com/track/5uYgzNP1o6iZ4Ozk1aWMg2"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117093,
+      "name": "Special Grade Vengeful Cursed Spirit : RIKA",
+      "url": "https://open.spotify.com/track/5rDwCQnS0I67iDae2nXLH3"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117093,
+      "name": "Special Grade Vengeful Cursed Spirit : RIKA",
+      "url": "https://open.spotify.com/track/6SpwgxiXBuKdcoXbNwGYLe"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/7AHSWTjUw8mzUDwXM3uwwP"
+        },
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95308,
+      "name": "Straw Doll Technique Resonance",
+      "url": "https://open.spotify.com/track/3UUMOv0BGV1QQCyoQBkpGF"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202645,
+      "name": "Strong And Intellgent Allies",
+      "url": "https://open.spotify.com/track/26HTJGB1s1uPG6CMO4rLFk"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127080,
+      "name": "Team Up If They Are Weak",
+      "url": "https://open.spotify.com/track/3wPaKJClfxgzpslsVPgPBq"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "Team Up If They Are Weak",
+      "url": "https://open.spotify.com/track/6fb7GOpWtcWFN8ifKR3yXO"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104059,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/4ZWjY5RhT2C23v06YNyICs"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127160,
+      "name": "The Cursed Child",
+      "url": "https://open.spotify.com/track/7mIHaZ6pBBkIHDD1d3t9Az"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127160,
+      "name": "The Cursed Child",
+      "url": "https://open.spotify.com/track/2JfQJ1UJryvZJfyLfDriKI"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 86200,
+      "name": "The Night Parade Of a Hundred Demons",
+      "url": "https://open.spotify.com/track/2SeIJbZJkjAxXyFSxZM9o0"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86200,
+      "name": "The Night Parade Of a Hundred Demons",
+      "url": "https://open.spotify.com/track/40dnmUEswP5joLCDwmEgqe"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290253,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/0Wo6LSJJ2SAQO4gAF92ZQT"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "Toft Willingham",
+          "url": "https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290253,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/2MZH9x88Sm8xHFn2xlPkcE"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201679,
+      "name": "The Scariest",
+      "url": "https://open.spotify.com/track/4FAvxlxeKF5jQwzzHNJysC"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "The Search For The Cursed Spirit",
+      "url": "https://open.spotify.com/track/7MLXU8gNZpFukQHKtFTw3E"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "The Taste of A Cursed Spirit",
+      "url": "https://open.spotify.com/track/4hKfkbYVb9g6RmwdxN9DFA"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60213,
+      "name": "Things Are Lookn' Good",
+      "url": "https://open.spotify.com/track/0MkUZAwGFhEdxsTjm1XATg"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 60213,
+      "name": "Things Are Lookn' Good",
+      "url": "https://open.spotify.com/track/1dVSuloILiUnNipP5BPiV7"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "This Is Pure Love",
+      "url": "https://open.spotify.com/track/5ZTabZZBvyRlPyMQBMtP8n"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320000,
+      "name": "This Is Pure Love",
+      "url": "https://open.spotify.com/track/5hIkGV4cEcR5FWVhC4yR8K"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        },
+        {
+          "name": "\u7f8e\u97f3",
+          "url": "https://open.spotify.com/artist/2V0voVlJMtUSI81WZyAWQ1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Tida Sansan (Dazzling Sun)",
+      "url": "https://open.spotify.com/track/7bgMyEZcPIyEQNvFad2iZb"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406360,
+      "name": "To Fight The Curse",
+      "url": "https://open.spotify.com/track/6OIfNDb5aS07pBebNuuiP6"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 406360,
+      "name": "To Fight The Curse",
+      "url": "https://open.spotify.com/track/0TYHtqNJq76wbIYsm0zFgC"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Toge And Okkotsu",
+      "url": "https://open.spotify.com/track/0bTPh8XF125kTwBN4FGJFC"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297000,
+      "name": "Toge And Okkotsu",
+      "url": "https://open.spotify.com/track/4V6Zxqbz5HahEZS0UHjur9"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Together Forever And Ever",
+      "url": "https://open.spotify.com/track/0IMKjz1BdeHSkGKQO97kaH"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136266,
+      "name": "Together Forever And Ever",
+      "url": "https://open.spotify.com/track/4XfPnsAplx0GhkHdBdygVn"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "Alisa Okehazama",
+          "url": "https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60386,
+      "name": "Transfer Student",
+      "url": "https://open.spotify.com/track/0Hh6onGWGbNb91vv9t61m8"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 60386,
+      "name": "Transfer Student",
+      "url": "https://open.spotify.com/track/39NRBvrHy3HfiNJ4BoR6nK"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 171500,
+      "name": "Trip Itinerary",
+      "url": "https://open.spotify.com/track/4tFDbsK5qUrSoZm8mFLDNR"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Trip Itinerary",
+      "url": "https://open.spotify.com/track/5BuAX5gCxKmEBhIRmQPPNl"
+    },
+    {
+      "album": {
+        "name": "VIVID VICE",
+        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
+      },
+      "artists": [
+        {
+          "name": "Who-ya Extended",
+          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "VIVID VICE",
+      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "We Are Stop The Attack",
+      "url": "https://open.spotify.com/track/54BSm82s6luZx9dtSIcczw"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126333,
+      "name": "We Are Stop The Attack",
+      "url": "https://open.spotify.com/track/6zTqWr6viPYlpHSpP7zDEq"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5287\u5834\u7248 \u546a\u8853\u5efb\u6226 0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240320,
+      "name": "What'd You Expect?",
+      "url": "https://open.spotify.com/track/1IZ56C6BOK7hCAPXtfFmbP"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "What'd You Expect?",
+      "url": "https://open.spotify.com/track/3TQUsNerUlBIovIN1dXUwj"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 141500,
+      "name": "With Rage",
+      "url": "https://open.spotify.com/track/4XqoIEcCuM8Kk43rhPna9L"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "With Rage",
+      "url": "https://open.spotify.com/track/7J02LqkFEj6cBCrojNTaiL"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129241,
+      "name": "Working Overtime",
+      "url": "https://open.spotify.com/track/0L42ZPF4U4EDaaL7cfcDKB"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "You Better Get Strong",
+      "url": "https://open.spotify.com/track/0JSqME27H1MScwKofGT1DH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 116500,
+      "name": "You Jerk",
+      "url": "https://open.spotify.com/track/0Ah8ipQZTFAZgsCrqTCs2i"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+        "url": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "You Jerk",
+      "url": "https://open.spotify.com/track/1jou8NZHQqzF3669XEH5oY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Chica",
+          "url": "https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243173,
+      "name": "Your Battle is My Battle",
+      "url": "https://open.spotify.com/track/4iFuZNzjqsn5oShyqezq6q"
+    },
+    {
+      "album": {
+        "name": "Jujutsu Kaisen (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt"
+      },
+      "artists": [
+        {
+          "name": "Chica",
+          "url": "https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ"
+        },
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243214,
+      "name": "Your Battle Is My Battle",
+      "url": "https://open.spotify.com/track/1tsJoCqWvSQWR0HEgj0RFS"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1788133,
+      "name": "\u3010Anime Japan 2021 \u7279\u5225\u7248\u3011 \u30b2\u30b9\u30c8\u702c\u6238\u9ebb\u6c99\u7f8e\u3055\u3093\u300c\u521d\u3081\u3066\u306e\u516c\u958b\u53ce\u9332\u3067\u3059\uff01\uff01\u300d",
+      "url": "https://open.spotify.com/episode/6MPWg3nJcj8vnPugPiOgn1"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f4\u30a1\u30f3",
+        "url": "https://open.spotify.com/album/4vfjzp5dho1PqElZc3LaIC"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206685,
+      "name": "\u30a2\u30f4\u30a1\u30f3",
+      "url": "https://open.spotify.com/track/6BxPsHJtz8jTEDARrYUSnv"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 135500,
+      "name": "\u30d5\u30a3\u30b8\u30ab\u30eb\u30ae\u30d5\u30c6\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/4q2wQpH2lxOHagFMvIz4nF"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 146000,
+      "name": "\u4e00\u7dd2\u306a\u3089",
+      "url": "https://open.spotify.com/track/6RLo80Ds4FriePBrxmacsh"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 126500,
+      "name": "\u4ef2\u9593\uff08\u3058\u3085\u3064\u3057\uff09\u306e\u5c4d",
+      "url": "https://open.spotify.com/track/7vl0egKjavQe54ePjrx8Nb"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "\u4f0f\u9ed2\u751a\u723e",
+      "url": "https://open.spotify.com/track/7FrJtDFwzxdGOBsqApV8s4"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214160,
+      "name": "\u546a\u8853\u5e2b\u30fb\u4f0f\u9ed2\u6075",
+      "url": "https://open.spotify.com/track/44oikQHnyJ2PFofLZp7beL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        },
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 109560,
+      "name": "\u546a\u8853\u5efb\u6226",
+      "url": "https://open.spotify.com/track/1tKMUFARc7k3FbL8yPwzK8"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 103000,
+      "name": "\u546a\u970a\u306e\u5473",
+      "url": "https://open.spotify.com/track/1yYwxnXSnhmmVsyppshMj3"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 143500,
+      "name": "\u546a\u970a\u306e\u63a2\u7d22",
+      "url": "https://open.spotify.com/track/4j7nYEQnFnrJWaK0BvzmtK"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u97f3",
+          "url": "https://open.spotify.com/artist/2V0voVlJMtUSI81WZyAWQ1"
+        },
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 147000,
+      "name": "\u592a\u967d\u71e6\u3005(\u3066\u3043\u3060\u3055\u3093\u3055\u3093)",
+      "url": "https://open.spotify.com/track/0eZF9pF6oB1d2YgkU2OPXC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104013,
+      "name": "\u59cb\u307e\u308a",
+      "url": "https://open.spotify.com/track/6YSRzpKr6kTbjlD0FpF5Fi"
+    },
+    {
+      "album": {
+        "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221425,
+      "name": "\u5efb\u5efb\u5947\u8b5a",
+      "url": "https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 136333,
+      "name": "\u5f37\u304f\u306a\u3063\u3066\u3088",
+      "url": "https://open.spotify.com/track/0v9UmYaC510S9UcJCgGLQC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202600,
+      "name": "\u5f37\u304f\u8061\u3044\u4ef2\u9593",
+      "url": "https://open.spotify.com/track/0SJGti6KQm45GxLVOvecqU"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 89000,
+      "name": "\u61d0\u7389",
+      "url": "https://open.spotify.com/track/53VEuWiwDhPU9CxdzaD3wD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129186,
+      "name": "\u6642\u9593\u5916\u52b4\u50cd",
+      "url": "https://open.spotify.com/track/7kiql8ZPxOzlLzi0vfPCcF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201626,
+      "name": "\u6700\u6050",
+      "url": "https://open.spotify.com/track/1FhjvrViB0kE1WWoyL6eQP"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 139000,
+      "name": "\u7121\u4e0b\u9650\u546a\u8853",
+      "url": "https://open.spotify.com/track/542LcS4Zm90coo9TDuPf9T"
+    },
+    {
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 82000,
+      "name": "\u7389\u6298",
+      "url": "https://open.spotify.com/track/0prqADXM6RjFGk5uteDUGH"
+    },
+    {
+      "album": {
+        "name": "\u300c\u546a\u8853\u5efb\u6226 \u61d0\u7389\u30fb\u7389\u6298\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 101000,
+      "name": "\u7406\u5b50\u306e\u635c\u7d22",
+      "url": "https://open.spotify.com/track/010F2ahEBCTeT5qXmynryr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tsutsumi",
+          "url": "https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106466,
+      "name": "\u75db\u307f",
+      "url": "https://open.spotify.com/track/4MCM5UJS4nVBCPPGjRKS0W"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1547572,
+      "name": "\u7b2c10\u56de \u4f0f\u9ed2\u6075\u5f79 \u5185\u7530\u96c4\u99ac\u3055\u3093\u300c\u4eca\u56de\u306f\u7d50\u69cb\u672c\u7de8\u306e\u8a71\u591a\u3081\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/01GEu1zEcHVwY3eHdtIlFm"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1963180,
+      "name": "\u7b2c11\u56de \u30d1\u30f3\u30c0\u5f79 \u95a2\u667a\u4e00\u3055\u3093\u300c\u829d\u5c45\u306e\u3053\u3068\u805e\u304d\u305f\u304f\u306a\u3063\u3061\u3083\u3046\u304b\u3089\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/5YDL2Qll2jMIuuxV8JqBKX"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1753704,
+      "name": "\u7b2c12\u56de \u30d1\u30f3\u30c0\u5f79 \u95a2\u667a\u4e00\u3055\u3093\u300c\u89aa\u8fd1\u611f\u304c\u6e67\u304d\u307e\u3057\u305f\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/1YsbgOvT1wGJHVj1p6Q7fb"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1572310,
+      "name": "\u7b2c13\u56de \u79aa\u9662\u771f\u5e0c\u5f79 \u5c0f\u677e\u672a\u53ef\u5b50\u3055\u3093 & \u72d7\u5dfb\u68d8\u5f79 \u5185\u5c71\u6602\u8f1d\u3055\u3093\u300c\u5b9f\u308a\u3042\u308b\u8a71\u304c\u3067\u304d\u305f\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/0eBPLtwfgrqVKUfsTHrXxU"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1472235,
+      "name": "\u7b2c14\u56de \u79aa\u9662\u771f\u5e0c\u5f79 \u5c0f\u677e\u672a\u53ef\u5b50\u3055\u3093 & \u72d7\u5dfb\u68d8\u5f79 \u5185\u5c71\u6602\u8f1d\u3055\u3093\u300c\u8272\u3005\u3057\u3083\u3079\u3063\u3061\u3083\u3063\u305f\u306a\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/3np56LKUi295IiNeI8kCXS"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1370540,
+      "name": "\u7b2c15\u56de \u5409\u91ce\u9806\u5e73\u5f79 \u5c71\u8c37\u7965\u751f\u3055\u3093\u300c\u30de\u30d6\u3067\u3059\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/3fma6aerOjiQ0qyXGE067i"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1596342,
+      "name": "\u7b2c16\u56de \u5409\u91ce\u9806\u5e73\u5f79 \u5c71\u8c37\u7965\u751f\u3055\u3093\u300c\u5b09\u3057\u3044\u306a\u3063\u3066\u601d\u3044\u307e\u3057\u305f\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/5Fx2AZ6djce92D24GWbfzy"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1650834,
+      "name": "\u7b2c17\u56de \u771f\u4eba\u5f79 \u5cf6\ufa11\u4fe1\u9577\u3055\u3093\u300c\u5168\u7136\u8db3\u308a\u306a\u3044\u3088\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/3slVt1yhD9f1Pz95JpNzB0"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2194468,
+      "name": "\u7b2c18\u56de \u771f\u4eba\u5f79 \u5cf6\ufa11\u4fe1\u9577\u3055\u3093\u300c\u307e\u305f\u8a71\u304c\u9577\u304f\u306a\u308b\uff01\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/30VlCGG5eY5admKC2MyVFE"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2095986,
+      "name": "\u7b2c19\u56de \u4e03\u6d77\u5efa\u4eba\u5f79 \u6d25\u7530\u5065\u6b21\u90ce\u3055\u3093\u300c\u4e03\u6d77\u306e\u8a71\u3082\u3063\u3068\u3057\u306a\u304d\u3083\u3044\u3051\u306a\u304b\u3063\u305f\u306e\u306b\u2026\uff01\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/0zwvK8WIrBQVPZMn8KCziM"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2023314,
+      "name": "\u7b2c1\u56de \u864e\u6756\uff06\u4f0f\u9ed2 \u7de8 \u300c\u4f0f\u9ed2\u3001\u3001\u59cb\u3081\u308b\u524d\u306b\uff11\u500b\u3060\u3051\u3044\u3044\u304b\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/1N1aHRH9ux5sJI1sGnRmmn"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1924832,
+      "name": "\u7b2c20\u56de \u4e03\u6d77\u5efa\u4eba\u5f79 \u6d25\u7530\u5065\u6b21\u90ce\u3055\u3093\u300c\u546a\u8853\u5efb\u6226\u306e\u8a71\u304c\u3063\u3064\u308a\u3057\u307e\u3057\u305f\u3088\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/4z54sGUVxEN1OicBTU76Pn"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2148832,
+      "name": "\u7b2c21\u56de \u4e21\u9762\u5bbf\u513a\u5f79 \u8acf\u8a2a\u90e8\u9806\u4e00\u3055\u3093\u300c\u307e\u305f\u5225\u306e\u610f\u5473\u3067\u9762\u767d\u3044\u56de\u306b\u306a\u3063\u305f\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/73nSadNCgkKw5qk4x8eFem"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1783431,
+      "name": "\u7b2c22\u56de \u4e21\u9762\u5bbf\u513a\u5f79 \u8acf\u8a2a\u90e8\u9806\u4e00\u3055\u3093\u300c\u307b\u3093\u3068\u8a71\u3057\u305f\u3044\u4e8b\u3044\u3063\u3071\u3044\u3042\u308a\u307e\u3059\u3057\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/68XV9MtFJdX4CE09q5bbkK"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2225841,
+      "name": "\u7b2c22\u56de \u91d8\u5d0e\u91ce\u8594\u8587\u5f79\u306e\u702c\u6238\u9ebb\u6c99\u7f8e\u3055\u3093\u3068\u65b0\u7530\u660e\u5f79\u306e\u5fb3\u4e95\u9752\u7a7a\u3055\u3093\u300c\u79c1\u3001\u30d0\u30ea\u30aa\u30bf\u30af\u3067\u3059\u306d\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/631GfmTsHdcANZbjyWSpEu"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2211657,
+      "name": "\u7b2c23\u56de \u8840\u5857\u5f79 \u5c71\u53e3\u52dd\u5e73\u3055\u3093&\u58ca\u76f8\u5f79 \u6a9c\u5c71\u4fee\u4e4b\u3055\u3093\u300c\u305d\u306e\u30bb\u30ea\u30d5\u3001\u3061\u3087\u3063\u3068\u5bc4\u3063\u3066\u307e\u3059\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/7GPDeMrFYAK9StHNP56JMM"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2149120,
+      "name": "\u7b2c24\u56de \u4f0f\u9ed2\u6075\u5f79 \u5185\u7530\u96c4\u99ac\u3055\u3093&\u91d8\u5d0e\u91ce\u8594\u8587\u5f79 \u702c\u6238\u9ebb\u6c99\u7f8e\u3055\u3093\u300c\u4ffa\u305f\u3061\u306e\u6226\u3044\u306f\u3001\u3053\u308c\u304b\u3089\u3060\uff01\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/6tUi3lSzT36JCj7ZH4wCBQ"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1703392,
+      "name": "\u7b2c2\u56de \u864e\u6756\uff06\u4e94\u6761 \u7de8 \u300c\u60a0\u4ec1\u306f\u9069\u5f53\u306b\u76f8\u69cc\u6253\u3063\u3066\u308b\u3060\u3051\u3067\u5927\u4e08\u592b\u3060\u304b\u3089\u300d",
+      "url": "https://open.spotify.com/episode/6eQbKTHYICz765rdsWRN28"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1772460,
+      "name": "\u7b2c3\u56de \u864e\u6756\uff06\u4e94\u6761 \u7de8 \u300c\u3084\u308b\u3067\u3057\u3087\u3001\u30b5\u30d7\u30e9\u30a4\u30ba\u300d",
+      "url": "https://open.spotify.com/episode/4JpP0Iq0BW8Ee2tT1x1kNg"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2155337,
+      "name": "\u7b2c4\u56de \u864e\u6756\uff06\u91d8\u5d0e \u7de8 \u300c\u306d\u3048\u3001\u864e\u6756\u898b\u3066\u898b\u3066\uff01\u300d",
+      "url": "https://open.spotify.com/episode/3oIwYSB613GZvSbUPy6gvk"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1904169,
+      "name": "\u7b2c5\u56de \u864e\u6756\uff06\u91d8\u5d0e \u7de8 \u300c\u306a\u3042\u3001\u91d8\u5d0e\u3002\u91d1\u69cc\u3068\u91d8\u3063\u3066\u4eca\u6301\u3063\u3066\u308b\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/0BFZWhuuQwcqRWfshtGWuN"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1431248,
+      "name": "\u7b2c6\u56de \u864e\u6756\uff06\u6771\u5802 \u7de8 \u300c\u30b3\u30f3\u30b0\u30e9\u30c1\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3\u3001\u30d6\u30e9\u30b6\u30fc\uff01\u300d",
+      "url": "https://open.spotify.com/episode/1P4M0Q8p6CDJIfmRpZrdDX"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1463693,
+      "name": "\u7b2c7\u56de \u864e\u6756\uff06\u6771\u5802 \u7de8 \u300c\u3064\u3044\u3066\u3053\u3044\u30d6\u30e9\u30b6\u30fc\uff01\u5168\u529b\u3067\u5c0e\u304f\uff01\u300d",
+      "url": "https://open.spotify.com/episode/3X7eJilDGRCy8Yev2d7TAZ"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2733505,
+      "name": "\u7b2c8\u56de \u30b2\u30b9\u30c8\u300cWho-ya Extended\u300d\uff06\u300cC\u00f6 shu Nie\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/6cDslSFaxQllS74lyWEzrc"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+        "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+      },
+      "artists": [
+        {
+          "name": "\u546a\u8853\u5efb\u6226 \u3058\u3085\u3058\u3085\u3068\u30fc\u304f \uff0b \u30aa\u30fc\u30c7\u30a3\u30aa\u30b3\u30e1\u30f3\u30bf\u30ea\u30fc",
+          "url": "https://open.spotify.com/show/24s1gq2QNlYGwGLpGYYDuS"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1926948,
+      "name": "\u7b2c9\u56de \u4f0f\u9ed2\u6075\u5f79 \u5185\u7530\u96c4\u99ac\u3055\u3093\u300c\u3055\u3059\u304c\u30d0\u30e9\u30f3\u30b5\u30fc\u300d\u7de8",
+      "url": "https://open.spotify.com/episode/5mtaz8NNgd6dqfyIKowG1s"
+    },
+    {
+      "album": {
+        "name": "\u546a\u8853\u5efb\u6226 \u7f8a\u6587\u5b66\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/3wB0HoU1lIFyHnquWWRRuz"
+      },
+      "artists": [
+        {
+          "name": "\u7f8a\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/02bFzKSPYdIQCxTUCKWCOs"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46946,
+      "name": "\u7f8a\u6587\u5b66\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/0xT6pQdVBZeRjSc2eAhWAe"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112533,
+      "name": "\u81ea\u9589\u5186\u9813\u88f9",
+      "url": "https://open.spotify.com/track/1YUQYvNoFuOqqGY0ucr0vI"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/7AHSWTjUw8mzUDwXM3uwwP"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95266,
+      "name": "\u82bb\u970a\u546a\u6cd5\u300c\u5171\u9cf4\u308a\u300d",
+      "url": "https://open.spotify.com/track/72wEjk5XFsXsw2hHzBY5BZ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u6876\u72ed\u9593\u3042\u308a\u3055",
+          "url": "https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232773,
+      "name": "\u865a\u5f0f\u300c\u8308\u300d",
+      "url": "https://open.spotify.com/track/1BO2xCMHbWzjNrLXM8V7zv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u546a\u8853\u5efb\u6226\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164960,
+      "name": "\u8feb\u308b\u5371\u967a",
+      "url": "https://open.spotify.com/track/2G5cjmuaaliaAnlVMvemnR"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "album": {
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYFFegQlq0Hb"
 }

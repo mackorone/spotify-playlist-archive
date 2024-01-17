@@ -1,535 +1,555 @@
 {
-  "2022-07-14": 7328,
-  "2022-07-15": 7366,
-  "2022-07-16": 7406,
-  "2022-07-17": 7442,
-  "2022-07-18": 7475,
-  "2022-07-19": 7515,
-  "2022-07-20": 7566,
-  "2022-07-21": 7595,
-  "2022-07-22": 7635,
-  "2022-07-23": 7676,
-  "2022-07-24": 7710,
-  "2022-07-25": 7747,
-  "2022-07-26": 7798,
-  "2022-07-27": 7847,
-  "2022-07-28": 7878,
-  "2022-07-29": 7914,
-  "2022-07-30": 7972,
-  "2022-07-31": 7972,
-  "2022-08-01": 8009,
-  "2022-08-02": 8075,
-  "2022-08-03": 8075,
-  "2022-08-04": 8117,
-  "2022-08-05": 8144,
-  "2022-08-06": 8184,
-  "2022-08-07": 8209,
-  "2022-08-08": 8242,
-  "2022-08-09": 8268,
-  "2022-08-10": 8288,
-  "2022-08-11": 8303,
-  "2022-08-12": 8358,
-  "2022-08-13": 8392,
-  "2022-08-14": 8431,
-  "2022-08-15": 8467,
-  "2022-08-16": 8491,
-  "2022-08-17": 8534,
-  "2022-08-18": 8556,
-  "2022-08-19": 8590,
-  "2022-08-20": 8619,
-  "2022-08-21": 8635,
-  "2022-08-22": 8672,
-  "2022-08-23": 8707,
-  "2022-08-24": 8744,
-  "2022-08-25": 8771,
-  "2022-08-26": 8808,
-  "2022-08-27": 8854,
-  "2022-08-28": 8889,
-  "2022-08-29": 8923,
-  "2022-08-30": 8938,
-  "2022-08-31": 8958,
-  "2022-09-01": 8995,
-  "2022-09-02": 9020,
-  "2022-09-03": 9035,
-  "2022-09-04": 9068,
-  "2022-09-05": 9090,
-  "2022-09-06": 9117,
-  "2022-09-07": 9145,
-  "2022-09-09": 9202,
-  "2022-09-10": 9225,
-  "2022-09-11": 9264,
-  "2022-09-12": 9301,
-  "2022-09-13": 9332,
-  "2022-09-15": 9390,
-  "2022-09-16": 9422,
-  "2022-09-17": 9465,
-  "2022-09-18": 9517,
-  "2022-09-19": 9555,
-  "2022-09-20": 9601,
-  "2022-09-21": 9654,
-  "2022-09-22": 9682,
-  "2022-09-23": 9717,
-  "2022-09-24": 9755,
-  "2022-09-25": 9807,
-  "2022-09-26": 9837,
-  "2022-09-27": 9871,
-  "2022-09-28": 9914,
-  "2022-09-29": 9942,
-  "2022-09-30": 9976,
-  "2022-10-01": 10019,
-  "2022-10-02": 10072,
-  "2022-10-03": 10119,
-  "2022-10-04": 10155,
-  "2022-10-05": 10190,
-  "2022-10-06": 10223,
-  "2022-10-07": 10259,
-  "2022-10-08": 10300,
-  "2022-10-09": 10369,
-  "2022-10-10": 10375,
-  "2022-10-11": 10414,
-  "2022-10-12": 10451,
-  "2022-10-13": 10489,
-  "2022-10-14": 10529,
-  "2022-10-15": 10557,
-  "2022-10-16": 10593,
-  "2022-10-17": 10632,
-  "2022-10-18": 10660,
-  "2022-10-19": 10705,
-  "2022-10-20": 10737,
-  "2022-10-21": 10764,
-  "2022-10-22": 10814,
-  "2022-10-23": 10852,
-  "2022-10-24": 10874,
-  "2022-10-25": 10917,
-  "2022-10-26": 10949,
-  "2022-10-27": 10979,
-  "2022-10-28": 10995,
-  "2022-10-29": 11026,
-  "2022-10-30": 11041,
-  "2022-10-31": 11068,
-  "2022-11-01": 11079,
-  "2022-11-02": 11097,
-  "2022-11-03": 11109,
-  "2022-11-04": 11130,
-  "2022-11-05": 11154,
-  "2022-11-06": 11172,
-  "2022-11-07": 11186,
-  "2022-11-08": 11208,
-  "2022-11-09": 11229,
-  "2022-11-10": 11248,
-  "2022-11-11": 11267,
-  "2022-11-12": 11295,
-  "2022-11-13": 11312,
-  "2022-11-14": 11328,
-  "2022-11-15": 11344,
-  "2022-11-16": 11361,
-  "2022-11-17": 11378,
-  "2022-11-18": 11379,
-  "2022-11-19": 11383,
-  "2022-11-20": 11404,
-  "2022-11-21": 11416,
-  "2022-11-22": 11433,
-  "2022-11-23": 11448,
-  "2022-11-24": 11470,
-  "2022-11-25": 11502,
-  "2022-11-26": 11522,
-  "2022-11-27": 11547,
-  "2022-11-28": 11568,
-  "2022-11-29": 11590,
-  "2022-11-30": 11601,
-  "2022-12-01": 11615,
-  "2022-12-02": 11636,
-  "2022-12-03": 11660,
-  "2022-12-04": 11682,
-  "2022-12-05": 11699,
-  "2022-12-06": 11714,
-  "2022-12-07": 11736,
-  "2022-12-08": 11750,
-  "2022-12-09": 11771,
-  "2022-12-10": 11795,
-  "2022-12-11": 11813,
-  "2022-12-12": 11829,
-  "2022-12-13": 11846,
-  "2022-12-14": 11861,
-  "2022-12-15": 11884,
-  "2022-12-16": 11902,
-  "2022-12-17": 11918,
-  "2022-12-18": 11951,
-  "2022-12-19": 11969,
-  "2022-12-20": 12005,
-  "2022-12-21": 12005,
-  "2022-12-22": 12037,
-  "2022-12-24": 12071,
-  "2022-12-25": 12098,
-  "2022-12-26": 12119,
-  "2022-12-27": 12139,
-  "2022-12-28": 12169,
-  "2022-12-29": 12193,
-  "2022-12-30": 12220,
-  "2022-12-31": 12251,
-  "2023-01-01": 12296,
-  "2023-01-02": 12309,
-  "2023-01-03": 12328,
-  "2023-01-04": 12346,
-  "2023-01-05": 12358,
-  "2023-01-06": 12382,
-  "2023-01-07": 12423,
-  "2023-01-08": 12428,
-  "2023-01-09": 12457,
-  "2023-01-10": 12466,
-  "2023-01-11": 12488,
-  "2023-01-12": 12507,
-  "2023-01-13": 12530,
-  "2023-01-14": 12568,
-  "2023-01-15": 12575,
-  "2023-01-16": 12597,
-  "2023-01-17": 12618,
-  "2023-01-18": 12638,
-  "2023-01-19": 12654,
-  "2023-01-20": 12673,
-  "2023-01-21": 12701,
-  "2023-01-22": 12730,
-  "2023-01-23": 12755,
-  "2023-01-24": 12773,
-  "2023-01-25": 12798,
-  "2023-01-26": 12826,
-  "2023-01-27": 12854,
-  "2023-01-28": 12868,
-  "2023-01-29": 12878,
-  "2023-01-30": 12896,
-  "2023-01-31": 12896,
-  "2023-02-01": 12918,
-  "2023-02-02": 12935,
-  "2023-02-03": 12956,
-  "2023-02-04": 12977,
-  "2023-02-05": 13000,
-  "2023-02-06": 13012,
-  "2023-02-07": 13022,
-  "2023-02-08": 13054,
-  "2023-02-09": 13054,
-  "2023-02-10": 13065,
-  "2023-02-11": 13089,
-  "2023-02-12": 13131,
-  "2023-02-13": 13155,
-  "2023-02-14": 13155,
-  "2023-02-15": 13162,
-  "2023-02-16": 13182,
-  "2023-02-17": 13194,
-  "2023-02-18": 13252,
-  "2023-02-19": 13254,
-  "2023-02-20": 13271,
-  "2023-02-21": 13281,
-  "2023-02-22": 13294,
-  "2023-02-23": 13319,
-  "2023-02-24": 13334,
-  "2023-02-25": 13358,
-  "2023-02-26": 13372,
-  "2023-02-27": 13405,
-  "2023-02-28": 13405,
-  "2023-03-01": 13415,
-  "2023-03-02": 13429,
-  "2023-03-03": 13444,
-  "2023-03-04": 13456,
-  "2023-03-05": 13503,
-  "2023-03-06": 13503,
-  "2023-03-07": 13522,
-  "2023-03-08": 13545,
-  "2023-03-09": 13559,
-  "2023-03-10": 13574,
-  "2023-03-11": 13592,
-  "2023-03-12": 13614,
-  "2023-03-13": 13632,
-  "2023-03-14": 13652,
-  "2023-03-15": 13666,
-  "2023-03-16": 13689,
-  "2023-03-17": 13689,
-  "2023-03-18": 13730,
-  "2023-03-19": 13749,
-  "2023-03-20": 13768,
-  "2023-03-21": 13790,
-  "2023-03-22": 13815,
-  "2023-03-23": 13834,
-  "2023-03-24": 13834,
-  "2023-03-25": 13876,
-  "2023-03-26": 13897,
-  "2023-03-27": 13912,
-  "2023-03-28": 13924,
-  "2023-03-29": 13936,
-  "2023-03-30": 13970,
-  "2023-03-31": 13970,
-  "2023-04-01": 13990,
-  "2023-04-02": 14010,
-  "2023-04-03": 14024,
-  "2023-04-04": 14052,
-  "2023-04-05": 14063,
-  "2023-04-06": 14080,
-  "2023-04-07": 14099,
-  "2023-04-09": 14167,
-  "2023-04-10": 14188,
-  "2023-04-11": 14219,
-  "2023-04-12": 14219,
-  "2023-04-13": 14236,
-  "2023-04-14": 14249,
-  "2023-04-15": 14277,
-  "2023-04-16": 14298,
-  "2023-04-17": 14317,
-  "2023-04-18": 14333,
-  "2023-04-19": 14351,
-  "2023-04-20": 14368,
-  "2023-04-21": 14387,
-  "2023-04-22": 14417,
-  "2023-04-23": 14432,
-  "2023-04-24": 14456,
-  "2023-04-25": 14468,
-  "2023-04-26": 14486,
-  "2023-04-27": 14508,
-  "2023-04-28": 14517,
-  "2023-04-29": 14532,
-  "2023-04-30": 14559,
-  "2023-05-01": 14575,
-  "2023-05-02": 14593,
-  "2023-05-03": 14609,
-  "2023-05-04": 14629,
-  "2023-05-05": 14639,
-  "2023-05-06": 14656,
-  "2023-05-07": 14680,
-  "2023-05-08": 14698,
-  "2023-05-09": 14700,
-  "2023-05-10": 14715,
-  "2023-05-11": 14728,
-  "2023-05-12": 14743,
-  "2023-05-13": 14753,
-  "2023-05-14": 14778,
-  "2023-05-15": 14795,
-  "2023-05-16": 14815,
-  "2023-05-17": 14835,
-  "2023-05-18": 14849,
-  "2023-05-19": 14866,
-  "2023-05-20": 14911,
-  "2023-05-21": 14911,
-  "2023-05-22": 14911,
-  "2023-05-23": 14943,
-  "2023-05-24": 14972,
-  "2023-05-25": 14977,
-  "2023-05-26": 14993,
-  "2023-05-27": 15009,
-  "2023-05-28": 15022,
-  "2023-05-29": 15022,
-  "2023-05-30": 15043,
-  "2023-05-31": 15053,
-  "2023-06-01": 15059,
-  "2023-06-02": 15069,
-  "2023-06-03": 15090,
-  "2023-06-04": 15112,
-  "2023-06-05": 15134,
-  "2023-06-06": 15145,
-  "2023-06-07": 15166,
-  "2023-06-08": 15178,
-  "2023-06-09": 15195,
-  "2023-06-10": 15217,
-  "2023-06-11": 15237,
-  "2023-06-12": 15261,
-  "2023-06-13": 15285,
-  "2023-06-14": 15297,
-  "2023-06-15": 15318,
-  "2023-06-16": 15332,
-  "2023-06-17": 15362,
-  "2023-06-18": 15383,
-  "2023-06-19": 15403,
-  "2023-06-20": 15410,
-  "2023-06-21": 15424,
-  "2023-06-22": 15435,
-  "2023-06-23": 15446,
-  "2023-06-24": 15463,
-  "2023-06-25": 15484,
-  "2023-06-26": 15505,
-  "2023-06-27": 15515,
-  "2023-06-28": 15531,
-  "2023-06-29": 15537,
-  "2023-06-30": 15554,
-  "2023-07-01": 15586,
-  "2023-07-02": 15586,
-  "2023-07-03": 15604,
-  "2023-07-04": 15617,
-  "2023-07-05": 15640,
-  "2023-07-06": 15674,
-  "2023-07-07": 15674,
-  "2023-07-08": 15700,
-  "2023-07-09": 15717,
-  "2023-07-10": 15740,
-  "2023-07-11": 15749,
-  "2023-07-12": 15771,
-  "2023-07-13": 15777,
-  "2023-07-14": 15793,
-  "2023-07-15": 15810,
-  "2023-07-16": 15829,
-  "2023-07-17": 15846,
-  "2023-07-18": 15860,
-  "2023-07-19": 15880,
-  "2023-07-20": 15899,
-  "2023-07-21": 15909,
-  "2023-07-22": 15918,
-  "2023-07-23": 15936,
-  "2023-07-24": 15953,
-  "2023-07-25": 15975,
-  "2023-07-26": 15989,
-  "2023-07-27": 16009,
-  "2023-07-28": 16033,
-  "2023-07-29": 16049,
-  "2023-07-30": 16065,
-  "2023-07-31": 16089,
-  "2023-08-01": 16114,
-  "2023-08-02": 16136,
-  "2023-08-03": 16154,
-  "2023-08-04": 16171,
-  "2023-08-05": 16183,
-  "2023-08-06": 16221,
-  "2023-08-07": 16221,
-  "2023-08-08": 16248,
-  "2023-08-09": 16273,
-  "2023-08-10": 16293,
-  "2023-08-11": 16312,
-  "2023-08-12": 16333,
-  "2023-08-13": 16348,
-  "2023-08-14": 16378,
-  "2023-08-15": 16418,
-  "2023-08-16": 16418,
-  "2023-08-17": 16432,
-  "2023-08-18": 16456,
-  "2023-08-19": 16478,
-  "2023-08-20": 16496,
-  "2023-08-21": 16514,
-  "2023-08-22": 16529,
-  "2023-08-23": 16547,
-  "2023-08-24": 16568,
-  "2023-08-25": 16578,
-  "2023-08-26": 16592,
-  "2023-08-27": 16606,
-  "2023-08-28": 16628,
-  "2023-08-29": 16647,
-  "2023-08-30": 16657,
-  "2023-08-31": 16678,
-  "2023-09-01": 16734,
-  "2023-09-02": 16734,
-  "2023-09-03": 16753,
-  "2023-09-04": 16776,
-  "2023-09-05": 16809,
-  "2023-09-06": 16834,
-  "2023-09-07": 16865,
-  "2023-09-08": 16889,
-  "2023-09-09": 16918,
-  "2023-09-10": 16948,
-  "2023-09-11": 16978,
-  "2023-09-12": 17010,
-  "2023-09-13": 17038,
-  "2023-09-14": 17038,
-  "2023-09-15": 17075,
-  "2023-09-16": 17092,
-  "2023-09-17": 17092,
-  "2023-09-18": 17159,
-  "2023-09-19": 17186,
-  "2023-09-20": 17209,
-  "2023-09-21": 17235,
-  "2023-09-22": 17259,
-  "2023-09-23": 17289,
-  "2023-09-24": 17289,
-  "2023-09-25": 17289,
-  "2023-09-26": 17368,
-  "2023-09-27": 17381,
-  "2023-09-28": 17403,
-  "2023-09-29": 17426,
-  "2023-09-30": 17426,
-  "2023-10-01": 17470,
-  "2023-10-02": 17489,
-  "2023-10-03": 17509,
-  "2023-10-04": 17528,
-  "2023-10-05": 17547,
-  "2023-10-06": 17564,
-  "2023-10-07": 17564,
-  "2023-10-08": 17622,
-  "2023-10-09": 17622,
-  "2023-10-10": 17672,
-  "2023-10-11": 17689,
-  "2023-10-12": 17689,
-  "2023-10-13": 17739,
-  "2023-10-14": 17739,
-  "2023-10-15": 17739,
-  "2023-10-16": 17739,
-  "2023-10-17": 17739,
-  "2023-10-18": 17739,
-  "2023-10-19": 17739,
-  "2023-10-20": 17739,
-  "2023-10-21": 17739,
-  "2023-10-22": 17739,
-  "2023-10-23": 17739,
-  "2023-10-24": 18041,
-  "2023-10-25": 18041,
-  "2023-10-26": 18041,
-  "2023-10-27": 18041,
-  "2023-10-28": 18041,
-  "2023-10-29": 18041,
-  "2023-10-30": 18041,
-  "2023-10-31": 18041,
-  "2023-11-01": 18041,
-  "2023-11-02": 18041,
-  "2023-11-03": 18041,
-  "2023-11-04": 18041,
-  "2023-11-05": 18041,
-  "2023-11-06": 18041,
-  "2023-11-07": 18041,
-  "2023-11-08": 18041,
-  "2023-11-09": 18041,
-  "2023-11-10": 18041,
-  "2023-11-11": 18041,
-  "2023-11-12": 18041,
-  "2023-11-13": 18041,
-  "2023-11-14": 18041,
-  "2023-11-15": 18041,
-  "2023-11-16": 18041,
-  "2023-11-17": 18041,
-  "2023-11-18": 18041,
-  "2023-11-19": 18041,
-  "2023-11-20": 18041,
-  "2023-11-21": 18041,
-  "2023-11-22": 18041,
-  "2023-11-23": 18041,
-  "2023-11-24": 18041,
-  "2023-11-25": 18041,
-  "2023-11-26": 18041,
-  "2023-11-27": 18041,
-  "2023-11-28": 18041,
-  "2023-11-29": 18041,
-  "2023-11-30": 18041,
-  "2023-12-01": 18041,
-  "2023-12-02": 18041,
-  "2023-12-03": 18041,
-  "2023-12-04": 18041,
-  "2023-12-05": 18041,
-  "2023-12-06": 18041,
-  "2023-12-07": 18041,
-  "2023-12-08": 18041,
-  "2023-12-09": 18041,
-  "2023-12-10": 18041,
-  "2023-12-11": 18041,
-  "2023-12-12": 18041,
-  "2023-12-13": 18041,
-  "2023-12-14": 18041,
-  "2023-12-15": 18041,
-  "2023-12-16": 18041,
-  "2023-12-17": 18041,
-  "2023-12-18": 18041,
-  "2023-12-19": 18041,
-  "2023-12-20": 18041,
-  "2023-12-21": 18041,
-  "2023-12-22": 18041,
-  "2023-12-23": 18041,
-  "2023-12-24": 18041,
-  "2023-12-25": 18041,
-  "2023-12-26": 18041,
-  "2023-12-27": 18041,
-  "2023-12-30": 18041,
-  "2023-12-31": 18041,
-  "2024-01-01": 18041,
-  "2024-01-02": 18041,
-  "2024-01-03": 18041
+  "2024-01-17": 18041,
+  "date_first_scraped": "2022-07-14",
+  "description": "Italian superstar producer & DJ <a href=\"spotify:artist:5ENS85nZShljwNgg4wFD7D\">Gabry Ponte</a> promises a good time with his mix featuring recent hits!",
+  "name": "Gabry Ponte's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alive (with Roland Clark) [Mixed]",
+        "url": "https://open.spotify.com/album/4sMwkUt0bekM8Xo0Qk2oOu"
+      },
+      "artists": [
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Alive (with Roland Clark) - Mixed",
+      "url": "https://open.spotify.com/track/4sbUn7SDGKWHpLyPtfxHIG"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over You (feat. Aloe Blacc) [Mixed]",
+        "url": "https://open.spotify.com/album/3ibWTUEvylVAwMf2wEiUuX"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184000,
+      "name": "Can't Get Over You (feat. Aloe Blacc) - Mixed",
+      "url": "https://open.spotify.com/track/6FSo0jhWCG0XumADCttxmt"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/3dxWxqKrVJNdHOtqZRTblp"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Can't Get Over You - Mixed",
+      "url": "https://open.spotify.com/track/11Rg3yZw3moNt5syQVGEjc"
+    },
+    {
+      "album": {
+        "name": "Dancing (Mixed)",
+        "url": "https://open.spotify.com/album/7CTRRLyexKMhKQCUYnkROd"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Dancing - Mixed",
+      "url": "https://open.spotify.com/track/04W3AvvoUngXGYhtFpbNyV"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Mixed)",
+        "url": "https://open.spotify.com/album/0ORribk1iFBNGluCyCatWg"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Diamonds - Mixed",
+      "url": "https://open.spotify.com/track/7fj5oRXrAfxlwwkDYCdDtc"
+    },
+    {
+      "album": {
+        "name": "Equal in the Darkness (Gabry Ponte Remix) [Mixed]",
+        "url": "https://open.spotify.com/album/2cGPItZsPsjf5Nb04v1LuG"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Equal in the Darkness (Gabry Ponte Remix) - Mixed",
+      "url": "https://open.spotify.com/track/72QGmEBlO6SvAmYabY9Hpw"
+    },
+    {
+      "album": {
+        "name": "Ferris Wheel - Ashley Wallbridge Remix (Mixed)",
+        "url": "https://open.spotify.com/album/12InWOMfp0IuhvnYF2UA6r"
+      },
+      "artists": [
+        {
+          "name": "Gid Sedgwick",
+          "url": "https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y"
+        },
+        {
+          "name": "Norni",
+          "url": "https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW"
+        },
+        {
+          "name": "Ashley Wallbridge",
+          "url": "https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Ferris Wheel - Ashley Wallbridge Remix - Mixed",
+      "url": "https://open.spotify.com/track/1WQ8ibSIyPrDkiwnuehnd3"
+    },
+    {
+      "album": {
+        "name": "Flexin (Mixed)",
+        "url": "https://open.spotify.com/album/5g7IAfon0PFXDOHFhtCV1o"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Flexin - Mixed",
+      "url": "https://open.spotify.com/track/4iquRRlk4yOUxA6p9pDked"
+    },
+    {
+      "album": {
+        "name": "Give My All - Gabry Ponte & R3SPAWN Remix Edit (Mixed)",
+        "url": "https://open.spotify.com/album/2HM3SRClBL0jIWjPZn9aiQ"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Give My All - Gabry Ponte & R3SPAWN Remix Edit - Mixed",
+      "url": "https://open.spotify.com/track/20CgCb9BEgKlVhkJelHKsN"
+    },
+    {
+      "album": {
+        "name": "God is A DJ - Extended (Mixed)",
+        "url": "https://open.spotify.com/album/3MOk3D2GneHSWqMdGzyHiM"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5kLyhOcVNlVIifeilSDECg"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "God is A DJ - Extended - Mixed",
+      "url": "https://open.spotify.com/track/1qWotqeHDajIDHZhfQWZyO"
+    },
+    {
+      "album": {
+        "name": "Love Is Gone - Ti\u00ebsto Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0VUNhVuBEVa5slfPUyrsAM"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Love Is Gone - Ti\u00ebsto Remix - Mixed",
+      "url": "https://open.spotify.com/track/6ILn3LTuMX5h0CB5LaiWEM"
+    },
+    {
+      "album": {
+        "name": "Nasty (Mixed)",
+        "url": "https://open.spotify.com/album/3KtxOn9vqOGm6lIFkKzsEQ"
+      },
+      "artists": [
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Nasty - Mixed",
+      "url": "https://open.spotify.com/track/601E1XE2GodZBGBAKJI6Fg"
+    },
+    {
+      "album": {
+        "name": "Odyssey (Mixed)",
+        "url": "https://open.spotify.com/album/4uOkNcwxyGI4zd7aMElTNm"
+      },
+      "artists": [
+        {
+          "name": "Guy Scheiman",
+          "url": "https://open.spotify.com/artist/1q3efgluOwme3U175ED6l5"
+        },
+        {
+          "name": "Rafael Barreto",
+          "url": "https://open.spotify.com/artist/7hI3eZ9qhvkRcwA51LFXGy"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Odyssey - Mixed",
+      "url": "https://open.spotify.com/track/74caR25H3P8UR9AGiqCxqw"
+    },
+    {
+      "album": {
+        "name": "Our Love (Mixed)",
+        "url": "https://open.spotify.com/album/0Lr2T4XOAGmjWx1PNkYUmQ"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Badoi",
+          "url": "https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7"
+        },
+        {
+          "name": "Andrew Mirt",
+          "url": "https://open.spotify.com/artist/1KaSbBC2GyoCF1cBMfQWOB"
+        },
+        {
+          "name": "FEEL",
+          "url": "https://open.spotify.com/artist/79pkz4kQTE5mLWss4U0ozi"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Our Love - Mixed",
+      "url": "https://open.spotify.com/track/0btEPFTDXQON3rupI5YfVg"
+    },
+    {
+      "album": {
+        "name": "Piece Of Art (Mixed)",
+        "url": "https://open.spotify.com/album/2Fk0HoIFSpzKsBKFl3zOP3"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Piece Of Art - Mixed",
+      "url": "https://open.spotify.com/track/30w2S2cSNEIi2Vm1zLiazn"
+    },
+    {
+      "album": {
+        "name": "Pyramid - Nicky Romero Remix (Mixed)",
+        "url": "https://open.spotify.com/album/49oghdBWOyOhU1oKaEXLZP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Pyramid - Nicky Romero Remix - Mixed",
+      "url": "https://open.spotify.com/track/2btF5VRC2GV55Rp35mb9Om"
+    },
+    {
+      "album": {
+        "name": "Revision feat Giovanni - Original Mix (Mixed)",
+        "url": "https://open.spotify.com/album/2QHTUvOykShZ7GIPdm8XUI"
+      },
+      "artists": [
+        {
+          "name": "Program2",
+          "url": "https://open.spotify.com/artist/2OY7mhuIt3eCpTkW1IdADL"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/3KF46vzbkpKa1c9sdlidvs"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Revision feat Giovanni - Original Mix - Mixed",
+      "url": "https://open.spotify.com/track/6RsnwwL0fHldEC8uavu8RS"
+    },
+    {
+      "album": {
+        "name": "Tactus (hungry for your touch) [Mixed]",
+        "url": "https://open.spotify.com/album/3M1WpRPnlAa0KnMyQzwGlX"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "CILVR",
+          "url": "https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Tactus (hungry for your touch) - Mixed",
+      "url": "https://open.spotify.com/track/3QsOgYaBaZvhKqa8L4PdM7"
+    },
+    {
+      "album": {
+        "name": "Tactus - Mixed",
+        "url": "https://open.spotify.com/album/1BH2pClAxV4TTwjZ1nIwow"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "CILVR",
+          "url": "https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 203000,
+      "name": "Tactus - Mixed",
+      "url": "https://open.spotify.com/track/7rfJGvoiOvry3STzujztG1"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/4PviKr5rO2Nhh967uRjDFg"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170000,
+      "name": "Thunder - Mixed",
+      "url": "https://open.spotify.com/track/29LrX4N25uyQ9nz5m24P76"
+    },
+    {
+      "album": {
+        "name": "Thunder (Mixed)",
+        "url": "https://open.spotify.com/album/1mUn86v8euqFTFiCxOEV8q"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170000,
+      "name": "Thunder - Mixed",
+      "url": "https://open.spotify.com/track/6RxHwMLZmlXkfYY47K0UhI"
+    },
+    {
+      "album": {
+        "name": "Wild Love (Mixed)",
+        "url": "https://open.spotify.com/album/2JE403nCygERc8PBGAI3Lm"
+      },
+      "artists": [
+        {
+          "name": "DJ Angelo",
+          "url": "https://open.spotify.com/artist/5hGWA7e7IBqK5cjIBGyH02"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "Aleesia",
+          "url": "https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Wild Love - Mixed",
+      "url": "https://open.spotify.com/track/7AkD7CN6lhlGkoeoe4ry8H"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcpzpfnVhpIz"
 }

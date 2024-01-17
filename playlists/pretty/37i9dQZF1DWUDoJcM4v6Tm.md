@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,119 likes - 134 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,183 likes - 134 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 44 | [Age of Apathy](https://open.spotify.com/track/3ZzMnokqu1zCrHI9NJviKj) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:58 |
 | 45 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
 | 46 | [The Man I'll Never Find](https://open.spotify.com/track/5VQ6fxm4bWEZYhLxih5kTc) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 4:01 |
-| 47 | [Mano a Mano](https://open.spotify.com/track/0htv5uauilJWqekkWEaQDN) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Mano a Mano](https://open.spotify.com/album/0PzLKXSA6VfCovo8w3kzve) | 6:20 |
+| 47 | [Mano a Mano](https://open.spotify.com/track/4FoaAPXDmI89X6ntYpKJEu) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 6:20 |
 | 48 | [Colorado Blues](https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 2:37 |
 | 49 | [Made For This](https://open.spotify.com/track/12zsnvR0HghiFtHbsfMBrM) | [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Made For This](https://open.spotify.com/album/5Tu4YwduM7y8R0JjWXeSPa) | 4:26 |
 | 50 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 |

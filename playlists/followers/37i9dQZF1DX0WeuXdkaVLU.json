@@ -1,438 +1,677 @@
 {
-  "2022-10-21": 2434,
-  "2022-10-22": 3510,
-  "2022-10-23": 4820,
-  "2022-10-24": 6132,
-  "2022-10-25": 7080,
-  "2022-10-26": 7924,
-  "2022-10-27": 8741,
-  "2022-10-28": 9383,
-  "2022-10-29": 10113,
-  "2022-10-30": 10991,
-  "2022-10-31": 11924,
-  "2022-11-01": 12494,
-  "2022-11-02": 12995,
-  "2022-11-03": 13378,
-  "2022-11-04": 13700,
-  "2022-11-05": 14009,
-  "2022-11-06": 14386,
-  "2022-11-07": 14739,
-  "2022-11-08": 14963,
-  "2022-11-09": 15180,
-  "2022-11-10": 15315,
-  "2022-11-11": 15499,
-  "2022-11-12": 15750,
-  "2022-11-13": 15973,
-  "2022-11-14": 16251,
-  "2022-11-15": 16410,
-  "2022-11-16": 16570,
-  "2022-11-17": 16733,
-  "2022-11-18": 16787,
-  "2022-11-19": 16712,
-  "2022-11-20": 17027,
-  "2022-11-21": 16980,
-  "2022-11-22": 17452,
-  "2022-11-23": 17399,
-  "2022-11-24": 17831,
-  "2022-11-25": 18018,
-  "2022-11-26": 18104,
-  "2022-11-27": 18260,
-  "2022-11-28": 18414,
-  "2022-11-29": 18502,
-  "2022-11-30": 18595,
-  "2022-12-01": 18684,
-  "2022-12-02": 18730,
-  "2022-12-03": 18842,
-  "2022-12-04": 18941,
-  "2022-12-05": 19032,
-  "2022-12-06": 19125,
-  "2022-12-07": 19186,
-  "2022-12-08": 19250,
-  "2022-12-09": 19311,
-  "2022-12-10": 19397,
-  "2022-12-11": 19484,
-  "2022-12-12": 19588,
-  "2022-12-13": 19657,
-  "2022-12-14": 19724,
-  "2022-12-15": 19797,
-  "2022-12-16": 19863,
-  "2022-12-17": 19944,
-  "2022-12-18": 20034,
-  "2022-12-19": 20111,
-  "2022-12-20": 20245,
-  "2022-12-21": 20245,
-  "2022-12-22": 20298,
-  "2022-12-24": 20413,
-  "2022-12-25": 20470,
-  "2022-12-26": 20535,
-  "2022-12-27": 20590,
-  "2022-12-28": 20657,
-  "2022-12-29": 20724,
-  "2022-12-30": 20786,
-  "2022-12-31": 20851,
-  "2023-01-01": 20909,
-  "2023-01-02": 20971,
-  "2023-01-03": 21043,
-  "2023-01-04": 21087,
-  "2023-01-05": 21133,
-  "2023-01-06": 21176,
-  "2023-01-07": 21258,
-  "2023-01-08": 21277,
-  "2023-01-09": 21361,
-  "2023-01-10": 21415,
-  "2023-01-11": 21457,
-  "2023-01-12": 21495,
-  "2023-01-13": 21512,
-  "2023-01-14": 21567,
-  "2023-01-15": 21589,
-  "2023-01-16": 21661,
-  "2023-01-17": 21687,
-  "2023-01-18": 21712,
-  "2023-01-19": 21743,
-  "2023-01-20": 21758,
-  "2023-01-21": 21782,
-  "2023-01-22": 21832,
-  "2023-01-23": 21893,
-  "2023-01-24": 21937,
-  "2023-01-25": 21970,
-  "2023-01-26": 22001,
-  "2023-01-27": 22019,
-  "2023-01-28": 22058,
-  "2023-01-29": 22107,
-  "2023-01-30": 22150,
-  "2023-01-31": 22150,
-  "2023-02-01": 22215,
-  "2023-02-02": 22240,
-  "2023-02-03": 22272,
-  "2023-02-04": 22300,
-  "2023-02-05": 22360,
-  "2023-02-06": 22406,
-  "2023-02-07": 22417,
-  "2023-02-08": 22463,
-  "2023-02-09": 22463,
-  "2023-02-10": 22472,
-  "2023-02-11": 22496,
-  "2023-02-12": 22673,
-  "2023-02-13": 22764,
-  "2023-02-14": 22764,
-  "2023-02-15": 22848,
-  "2023-02-16": 22943,
-  "2023-02-17": 23027,
-  "2023-02-18": 23228,
-  "2023-02-19": 23253,
-  "2023-02-20": 23351,
-  "2023-02-21": 23442,
-  "2023-02-22": 23523,
-  "2023-02-23": 23611,
-  "2023-02-24": 23710,
-  "2023-02-25": 23847,
-  "2023-02-26": 23950,
-  "2023-02-27": 24158,
-  "2023-02-28": 24158,
-  "2023-03-01": 24232,
-  "2023-03-02": 24320,
-  "2023-03-03": 24427,
-  "2023-03-04": 24506,
-  "2023-03-05": 24736,
-  "2023-03-06": 24736,
-  "2023-03-07": 24807,
-  "2023-03-08": 24864,
-  "2023-03-09": 24927,
-  "2023-03-10": 24987,
-  "2023-03-11": 25053,
-  "2023-03-12": 25137,
-  "2023-03-13": 25208,
-  "2023-03-14": 25285,
-  "2023-03-15": 25347,
-  "2023-03-16": 25427,
-  "2023-03-17": 25427,
-  "2023-03-18": 25582,
-  "2023-03-19": 25682,
-  "2023-03-20": 25755,
-  "2023-03-21": 25821,
-  "2023-03-22": 25884,
-  "2023-03-23": 25967,
-  "2023-03-24": 25967,
-  "2023-03-25": 26134,
-  "2023-03-26": 26239,
-  "2023-03-27": 26323,
-  "2023-03-28": 26401,
-  "2023-03-29": 26477,
-  "2023-03-30": 26645,
-  "2023-03-31": 26645,
-  "2023-04-01": 26724,
-  "2023-04-02": 26803,
-  "2023-04-03": 26922,
-  "2023-04-04": 27002,
-  "2023-04-05": 27069,
-  "2023-04-06": 27160,
-  "2023-04-07": 27277,
-  "2023-04-09": 27455,
-  "2023-04-10": 27549,
-  "2023-04-11": 27688,
-  "2023-04-12": 27688,
-  "2023-04-13": 27767,
-  "2023-04-14": 27843,
-  "2023-04-15": 27914,
-  "2023-04-16": 28011,
-  "2023-04-17": 28097,
-  "2023-04-18": 28165,
-  "2023-04-19": 28256,
-  "2023-04-20": 28320,
-  "2023-04-21": 28388,
-  "2023-04-22": 28473,
-  "2023-04-23": 28592,
-  "2023-04-24": 28676,
-  "2023-04-25": 28752,
-  "2023-04-26": 28849,
-  "2023-04-27": 28920,
-  "2023-04-28": 28999,
-  "2023-04-29": 29082,
-  "2023-04-30": 29181,
-  "2023-05-01": 29300,
-  "2023-05-02": 29365,
-  "2023-05-03": 29436,
-  "2023-05-04": 29502,
-  "2023-05-05": 29570,
-  "2023-05-06": 29657,
-  "2023-05-07": 29743,
-  "2023-05-08": 29840,
-  "2023-05-09": 29905,
-  "2023-05-10": 29979,
-  "2023-05-11": 30051,
-  "2023-05-12": 30118,
-  "2023-05-13": 30213,
-  "2023-05-14": 30323,
-  "2023-05-15": 30425,
-  "2023-05-16": 30494,
-  "2023-05-17": 30572,
-  "2023-05-18": 30641,
-  "2023-05-19": 30735,
-  "2023-05-20": 30886,
-  "2023-05-21": 30886,
-  "2023-05-22": 30886,
-  "2023-05-23": 31026,
-  "2023-05-24": 31118,
-  "2023-05-25": 31137,
-  "2023-05-26": 31192,
-  "2023-05-27": 31277,
-  "2023-05-28": 31365,
-  "2023-05-29": 31365,
-  "2023-05-30": 31536,
-  "2023-05-31": 31596,
-  "2023-06-01": 31687,
-  "2023-06-02": 31761,
-  "2023-06-03": 31821,
-  "2023-06-04": 31900,
-  "2023-06-05": 31952,
-  "2023-06-06": 32009,
-  "2023-06-07": 32089,
-  "2023-06-08": 32161,
-  "2023-06-09": 32238,
-  "2023-06-10": 32290,
-  "2023-06-11": 32372,
-  "2023-06-12": 32453,
-  "2023-06-13": 32516,
-  "2023-06-14": 32585,
-  "2023-06-15": 32635,
-  "2023-06-16": 32697,
-  "2023-06-17": 32773,
-  "2023-06-18": 32855,
-  "2023-06-19": 32913,
-  "2023-06-20": 32970,
-  "2023-06-21": 33020,
-  "2023-06-22": 33069,
-  "2023-06-23": 33113,
-  "2023-06-24": 33171,
-  "2023-06-25": 33235,
-  "2023-06-26": 33305,
-  "2023-06-27": 33365,
-  "2023-06-28": 33438,
-  "2023-06-29": 33489,
-  "2023-06-30": 33551,
-  "2023-07-01": 33687,
-  "2023-07-02": 33687,
-  "2023-07-03": 33753,
-  "2023-07-04": 33813,
-  "2023-07-05": 33876,
-  "2023-07-06": 33984,
-  "2023-07-07": 33984,
-  "2023-07-08": 34050,
-  "2023-07-09": 34100,
-  "2023-07-10": 34158,
-  "2023-07-11": 34204,
-  "2023-07-12": 34248,
-  "2023-07-13": 34314,
-  "2023-07-14": 34376,
-  "2023-07-15": 34421,
-  "2023-07-16": 34478,
-  "2023-07-17": 34537,
-  "2023-07-18": 34583,
-  "2023-07-19": 34646,
-  "2023-07-20": 34688,
-  "2023-07-21": 34727,
-  "2023-07-22": 34784,
-  "2023-07-23": 34853,
-  "2023-07-24": 34921,
-  "2023-07-25": 34977,
-  "2023-07-26": 35035,
-  "2023-07-27": 35079,
-  "2023-07-28": 35141,
-  "2023-07-29": 35210,
-  "2023-07-30": 35274,
-  "2023-07-31": 35335,
-  "2023-08-01": 35378,
-  "2023-08-02": 35435,
-  "2023-08-03": 35482,
-  "2023-08-04": 35544,
-  "2023-08-05": 35601,
-  "2023-08-06": 35762,
-  "2023-08-07": 35762,
-  "2023-08-08": 35827,
-  "2023-08-09": 35881,
-  "2023-08-10": 35938,
-  "2023-08-11": 35984,
-  "2023-08-12": 36064,
-  "2023-08-13": 36126,
-  "2023-08-14": 36167,
-  "2023-08-15": 36269,
-  "2023-08-16": 36269,
-  "2023-08-17": 36342,
-  "2023-08-18": 36396,
-  "2023-08-19": 36458,
-  "2023-08-20": 36544,
-  "2023-08-21": 36610,
-  "2023-08-22": 36668,
-  "2023-08-23": 36724,
-  "2023-08-24": 36772,
-  "2023-08-25": 36842,
-  "2023-08-26": 36912,
-  "2023-08-27": 36961,
-  "2023-08-28": 37035,
-  "2023-08-29": 37102,
-  "2023-08-30": 37127,
-  "2023-08-31": 37188,
-  "2023-09-01": 37272,
-  "2023-09-02": 37272,
-  "2023-09-03": 37324,
-  "2023-09-04": 37378,
-  "2023-09-05": 37415,
-  "2023-09-06": 37454,
-  "2023-09-07": 37488,
-  "2023-09-08": 37532,
-  "2023-09-09": 37575,
-  "2023-09-10": 37616,
-  "2023-09-11": 37666,
-  "2023-09-12": 37703,
-  "2023-09-13": 37739,
-  "2023-09-14": 37776,
-  "2023-09-15": 37807,
-  "2023-09-16": 37849,
-  "2023-09-17": 37900,
-  "2023-09-18": 37950,
-  "2023-09-19": 37976,
-  "2023-09-20": 38019,
-  "2023-09-21": 38065,
-  "2023-09-22": 38100,
-  "2023-09-23": 38147,
-  "2023-09-24": 38216,
-  "2023-09-25": 38256,
-  "2023-09-26": 38304,
-  "2023-09-27": 38336,
-  "2023-09-28": 38364,
-  "2023-09-29": 38393,
-  "2023-09-30": 38443,
-  "2023-10-01": 38483,
-  "2023-10-02": 38530,
-  "2023-10-03": 38558,
-  "2023-10-04": 38595,
-  "2023-10-05": 38628,
-  "2023-10-06": 38663,
-  "2023-10-07": 38704,
-  "2023-10-08": 38749,
-  "2023-10-09": 38797,
-  "2023-10-10": 38823,
-  "2023-10-11": 38891,
-  "2023-10-12": 38891,
-  "2023-10-13": 38930,
-  "2023-10-14": 38971,
-  "2023-10-15": 39003,
-  "2023-10-16": 39036,
-  "2023-10-17": 39054,
-  "2023-10-18": 39078,
-  "2023-10-19": 39111,
-  "2023-10-20": 39140,
-  "2023-10-21": 39161,
-  "2023-10-22": 39192,
-  "2023-10-23": 39241,
-  "2023-10-24": 39273,
-  "2023-10-25": 39324,
-  "2023-10-26": 39368,
-  "2023-10-27": 39391,
-  "2023-10-28": 39424,
-  "2023-10-29": 39454,
-  "2023-10-30": 39515,
-  "2023-10-31": 39515,
-  "2023-11-01": 39558,
-  "2023-11-02": 39592,
-  "2023-11-03": 39613,
-  "2023-11-04": 39650,
-  "2023-11-05": 39696,
-  "2023-11-06": 39730,
-  "2023-11-07": 39756,
-  "2023-11-08": 39786,
-  "2023-11-09": 39806,
-  "2023-11-10": 39823,
-  "2023-11-11": 39831,
-  "2023-11-12": 39830,
-  "2023-11-13": 39847,
-  "2023-11-14": 39866,
-  "2023-11-15": 39866,
-  "2023-11-16": 39881,
-  "2023-11-17": 39915,
-  "2023-11-18": 39915,
-  "2023-11-19": 39939,
-  "2023-11-20": 39971,
-  "2023-11-21": 39997,
-  "2023-11-22": 40025,
-  "2023-11-23": 40042,
-  "2023-11-24": 40071,
-  "2023-11-25": 40085,
-  "2023-11-26": 40113,
-  "2023-11-27": 40129,
-  "2023-11-28": 40149,
-  "2023-11-29": 40152,
-  "2023-11-30": 40152,
-  "2023-12-01": 40160,
-  "2023-12-02": 40163,
-  "2023-12-03": 40190,
-  "2023-12-04": 40213,
-  "2023-12-05": 40219,
-  "2023-12-06": 40231,
-  "2023-12-07": 40245,
-  "2023-12-08": 40258,
-  "2023-12-09": 40281,
-  "2023-12-10": 40307,
-  "2023-12-11": 40340,
-  "2023-12-12": 40369,
-  "2023-12-13": 40389,
-  "2023-12-14": 40424,
-  "2023-12-15": 40450,
-  "2023-12-16": 40466,
-  "2023-12-17": 40489,
-  "2023-12-18": 40520,
-  "2023-12-19": 40537,
-  "2023-12-20": 40546,
-  "2023-12-21": 40580,
-  "2023-12-22": 40605,
-  "2023-12-23": 40631,
-  "2023-12-24": 40663,
-  "2023-12-25": 40683,
-  "2023-12-26": 40701,
-  "2023-12-27": 40724,
-  "2023-12-30": 40823,
-  "2023-12-31": 40848,
-  "2024-01-01": 40879,
-  "2024-01-02": 40898,
-  "2024-01-03": 40933
+  "2024-01-17": 41313,
+  "date_first_scraped": "2022-10-21",
+  "description": "Music from and inspired by The School for Good and Evil. Watch now on Netflix.\n",
+  "name": "The School For Good And Evil Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/2ATG57Hve0t2OzvIfOp8iu"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199407,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/4bgb21hvVzbiTWYkJORaRy"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210372,
+      "name": "COZY",
+      "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
+    },
+    {
+      "album": {
+        "name": "Life's Too Good",
+        "url": "https://open.spotify.com/album/0UQGKhImc5hgh2SxYAA3Jp"
+      },
+      "artists": [
+        {
+          "name": "The Sugarcubes",
+          "url": "https://open.spotify.com/artist/1G0Xwj8mza6b03iYkVdzDP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Delicious Demon",
+      "url": "https://open.spotify.com/track/7xUfx7xVgxt4wsIN0eQJ8e"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 151874,
+      "name": "Gregor's Third Fail",
+      "url": "https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Gregor's Third Fail",
+      "url": "https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ"
+    },
+    {
+      "album": {
+        "name": "STRiKiNG ViPERS",
+        "url": "https://open.spotify.com/album/5DxmHJwrZYgaGkCqMOo31g"
+      },
+      "artists": [
+        {
+          "name": "STRIKING VIPERS",
+          "url": "https://open.spotify.com/artist/4Wz9QHADy9XhAjDGoTchTU"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "HERE CoMES TROUBLE",
+      "url": "https://open.spotify.com/track/4a29OGFFyujnR6iOjqm8HK"
+    },
+    {
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
+      "album": {
+        "name": "Pieces Of You (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1AKK0MFNHhYhOZGOWePh4o"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176723,
+      "name": "I\u2019m Sensitive",
+      "url": "https://open.spotify.com/track/6SoZSWIEtPyf9C1rh6Ws4j"
+    },
+    {
+      "album": {
+        "name": "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)",
+        "url": "https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252656,
+      "name": "Magic Dance",
+      "url": "https://open.spotify.com/track/4EHZ571PqEo5hH4HSegSA3"
+    },
+    {
+      "album": {
+        "name": "mememe",
+        "url": "https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-07",
+      "duration_ms": 166003,
+      "name": "mememe",
+      "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+    },
+    {
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "mememe",
+      "url": "https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc"
+    },
+    {
+      "album": {
+        "name": "Heavenly Harp",
+        "url": "https://open.spotify.com/album/7wlkMkHsZ79mRM7G5zSOwV"
+      },
+      "artists": [
+        {
+          "name": "Erica Goodman",
+          "url": "https://open.spotify.com/artist/1EelcDEygYtkxrPAAK1vG0"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "Prelude No. 1 in C Major, BWV 846: Well-Tempered Klavier - From the Well-Tempered Klavier",
+      "url": "https://open.spotify.com/track/6rrPRUbOf3Kvzktz4T5FST"
+    },
+    {
+      "album": {
+        "name": "Burning Up Slow",
+        "url": "https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/7635hWMCKR3csDnRdON93M"
+    },
+    {
+      "album": {
+        "name": "Ready for It",
+        "url": "https://open.spotify.com/album/1QCGloL6t0yeDLoFA2G0yL"
+      },
+      "artists": [
+        {
+          "name": "Rayelle",
+          "url": "https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "Ready for It",
+      "url": "https://open.spotify.com/track/29HpBx2DOjT9y6BpBQ4itU"
+    },
+    {
+      "album": {
+        "name": "Young for Eternity",
+        "url": "https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR"
+      },
+      "artists": [
+        {
+          "name": "The Subways",
+          "url": "https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Rock & Roll Queen",
+      "url": "https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ"
+    },
+    {
+      "album": {
+        "name": "Young For Eternity",
+        "url": "https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN"
+      },
+      "artists": [
+        {
+          "name": "The Subways",
+          "url": "https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 169946,
+      "name": "Rock & Roll Queen",
+      "url": "https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ"
+    },
+    {
+      "album": {
+        "name": "SPACE MAN",
+        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 263452,
+      "name": "The Ever Ball",
+      "url": "https://open.spotify.com/track/5BIUpHqrXFecyDzTAlbHp9"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263452,
+      "name": "The Ever Ball",
+      "url": "https://open.spotify.com/track/6UeG5ncu0OKMmf3MuBJ93H"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 182234,
+      "name": "The Stymph",
+      "url": "https://open.spotify.com/track/6neDaEkc7o1iJfCyr0kFpt"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182234,
+      "name": "The Stymph",
+      "url": "https://open.spotify.com/track/7nTFxjURswzKehFVNkzjcd"
+    },
+    {
+      "album": {
+        "name": "Imaginary Life",
+        "url": "https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr"
+      },
+      "artists": [
+        {
+          "name": "Worriers",
+          "url": "https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 138824,
+      "name": "They / Them / Theirs",
+      "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
+    },
+    {
+      "album": {
+        "name": "Imaginary Life",
+        "url": "https://open.spotify.com/album/3uCYNGmkNe9udFYrzB373J"
+      },
+      "artists": [
+        {
+          "name": "Worriers",
+          "url": "https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138824,
+      "name": "They / Them / Theirs",
+      "url": "https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "album": {
+        "name": "Sequels",
+        "url": "https://open.spotify.com/album/3cVAdcxaUZIvkV6Da2BTdC"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/10VGirghK8scti9gNw2NTw"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/01lXgHJJp8bcFZvq5lScUg"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 237426,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1lhSumcZpcom7vrJRCefSt"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179505,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/4lCH00JMunFbuaySSm66HV"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 179505,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/59LlVNnNW1YV0MHtyziRfm"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Venus as a Boy",
+      "url": "https://open.spotify.com/track/5G9LvzXcBoIBXOd2jzdJTs"
+    },
+    {
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254034,
+      "name": "Vision (feat. Zelooperz)",
+      "url": "https://open.spotify.com/track/79N9aDPDWEWND2oySCsTTa"
+    },
+    {
+      "album": {
+        "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
+        "url": "https://open.spotify.com/album/1gRsdrNctsEVt119Ehyf7M"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 210942,
+      "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
+      "url": "https://open.spotify.com/track/4vNwP4hi3Ep76kQ4fTx7P6"
+    },
+    {
+      "album": {
+        "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
+        "url": "https://open.spotify.com/album/3JdRTT9xQikqUp7pvkNDes"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210942,
+      "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
+      "url": "https://open.spotify.com/track/5FXxHdzu0WW1ArMWrvlgHt"
+    },
+    {
+      "album": {
+        "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 210942,
+      "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
+      "url": "https://open.spotify.com/track/6eFldLL9bU3XZHJXdSkCnq"
+    },
+    {
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "you should see me in a crown",
+      "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0WeuXdkaVLU"
 }

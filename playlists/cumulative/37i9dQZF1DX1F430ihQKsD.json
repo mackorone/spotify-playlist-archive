@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: C\u00e9drik St-Onge",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Born At Midnite",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 194125,
       "name": "Alice",
       "url": "https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY"
@@ -1402,6 +1402,24 @@
       "duration_ms": 220856,
       "name": "CNQDL",
       "url": "https://open.spotify.com/track/1pATaHaOYhL8Z7HNr2LH99"
+    },
+    {
+      "album": {
+        "name": "Coca cola",
+        "url": "https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t"
+      },
+      "artists": [
+        {
+          "name": "Les Passagers",
+          "url": "https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246173,
+      "name": "Coca Cola",
+      "url": "https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe"
     },
     {
       "album": {
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 203466,
       "name": "Not Ideal",
       "url": "https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy"
@@ -7602,6 +7620,24 @@
       "duration_ms": 172735,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN"
+    },
+    {
+      "album": {
+        "name": "why do we keep running away?",
+        "url": "https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX"
+      },
+      "artists": [
+        {
+          "name": "kkanji",
+          "url": "https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151218,
+      "name": "why do we keep running away?",
+      "url": "https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3"
     },
     {
       "album": {

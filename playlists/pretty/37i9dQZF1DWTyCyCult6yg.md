@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 
 > Caterina Barbieri's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,116 likes - 29 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,553 likes - 29 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyCyCult6yg.md) - [plain]
 | 24 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 | 25 | [Childhood / Land of the Young](https://open.spotify.com/track/6ZoFiIpWtkP80Ya0RJmBQL) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg), [Else Torp](https://open.spotify.com/artist/5Fj6OfoKIjoyz8i8ZrYWnS), [Kate Macoboy](https://open.spotify.com/artist/0lHGLJ9pLyZuBOGQFJSi1m), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Childhood / Land Of The Young](https://open.spotify.com/album/5UZixjLfZBr0EdFVCXqMJ5) | 5:35 |
 | 26 | [Simple Song \#3](https://open.spotify.com/track/3LFOeWFs0DIMtM4Gfgc90y) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6), [Terry Davies](https://open.spotify.com/artist/6APswPnMBKxYpJuuxkhjFN), [David Lang](https://open.spotify.com/artist/7rdRfDNLKnGbxnnanaggQ2) | [Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/4PEi00t2ZRYcvyvmzk5vUi) | 6:02 |
-| 27 | [Structures from Silence](https://open.spotify.com/track/3v6UGvx3CJ0F0iEq5jWwl1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 28:33 |
+| 27 | [Structures from Silence](https://open.spotify.com/track/6fWQiphelkd7NF3CoPegB1) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 28:33 |
 | 28 | [Agalma VI](https://open.spotify.com/track/2AMuGr4llwtut9y4l4TJNU) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/5qHPkkSl1GwTNqHQx0nuwk) | 5:48 |
 | 29 | [Fantas](https://open.spotify.com/track/4mrRhrbG2o102StszS7I8y) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/2wcVvjGwKFPtVV8Ggn5dkm) | 10:31 |
 

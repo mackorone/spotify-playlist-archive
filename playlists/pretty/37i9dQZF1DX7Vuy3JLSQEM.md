@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,194 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,226 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

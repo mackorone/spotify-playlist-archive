@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,112 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,593 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 50 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 |
 | 51 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 |
 | 52 | [Estoy Tocando Fondo](https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:54 |
-| 53 | [Lunes Por La Madrugada](https://open.spotify.com/track/3H5nkDbMCRFB4bdLv40H4D) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:16 |
+| 53 | [Lunes Por La Madrugada \- 1994 Remastered Version](https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 3:14 |
 | 54 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 |
 | 55 | [Panza De Torino](https://open.spotify.com/track/3XFK2OTSY6x1ioT4ng3IQ0) | [Ulises Butrón](https://open.spotify.com/artist/264oCh73no9KvChVyWZoCe) | [Viajero](https://open.spotify.com/album/1JmrBH4PpT7R4wKq1apdSM) | 3:02 |
 | 56 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 95 | [Pobre de Ti](https://open.spotify.com/track/1mBbKzmlbQUQNK7tw2Etdf) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [No](https://open.spotify.com/album/3glRjXzdGdiFA254NwD5Rs) | 4:37 |
 | 96 | [D\-Generación](https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Pasto](https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa) | 3:50 |
 | 97 | [Abarajame](https://open.spotify.com/track/3hhq2bSKf42wfuOWPvlmnr) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Solo Para Fanáticos](https://open.spotify.com/album/2AhDy5vggIg5MamFp3icCm) | 4:20 |
-| 98 | [Ji Ji Ji](https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 5:34 |
+| 98 | [Ji Ji Ji](https://open.spotify.com/track/0VWBsKl936U9OO0zypvRCZ) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI) | 5:34 |
 | 99 | [Transgresores de la Ley](https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock Milenium](https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA) | 5:02 |
 | 100 | [El baile y el salón](https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 5:08 |
 | 101 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 104 | [Gimme Tha Power \- En Vivo Desde Rusia/2010](https://open.spotify.com/track/0Hj07dMek52Z90S7H9MnfE) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Desde Rusia Con Amor](https://open.spotify.com/album/7nMFp8S29V0rzGGpR65BmA) | 4:20 |
 | 105 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [El Ultimo Concierto B \(Remastered\)](https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk) | 4:51 |
 | 106 | [Se Viene](https://open.spotify.com/track/3sDmwlRdEdsb1BLDChJSJV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Libertinaje](https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri) | 3:25 |
-| 107 | [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/3ovWYDbzfrEL0rVy2kW0IC) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 4:52 |
+| 107 | [Dientes de Cordero \- En Vivo](https://open.spotify.com/track/2doP03mm7jr6TQ1m2pkbbk) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 4:52 |
 | 108 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 109 | [Soñé](https://open.spotify.com/track/4oMaBqivBDg7ID3EHtydeX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:17 |
 | 110 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |

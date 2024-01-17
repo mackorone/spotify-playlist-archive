@@ -1,268 +1,649 @@
 {
-  "2023-04-11": 8191,
-  "2023-04-12": 8191,
-  "2023-04-13": 10257,
-  "2023-04-14": 11792,
-  "2023-04-15": 13309,
-  "2023-04-16": 14994,
-  "2023-04-17": 16617,
-  "2023-04-18": 17765,
-  "2023-04-19": 18925,
-  "2023-04-20": 19943,
-  "2023-04-21": 20799,
-  "2023-04-22": 21724,
-  "2023-04-23": 22626,
-  "2023-04-24": 23468,
-  "2023-04-25": 24060,
-  "2023-04-26": 24632,
-  "2023-04-27": 25121,
-  "2023-04-28": 25713,
-  "2023-04-29": 26298,
-  "2023-04-30": 26987,
-  "2023-05-01": 27570,
-  "2023-05-02": 28182,
-  "2023-05-03": 28747,
-  "2023-05-04": 29337,
-  "2023-05-05": 29859,
-  "2023-05-06": 30455,
-  "2023-05-07": 31069,
-  "2023-05-08": 31676,
-  "2023-05-09": 32270,
-  "2023-05-10": 32815,
-  "2023-05-11": 33349,
-  "2023-05-12": 33741,
-  "2023-05-13": 34185,
-  "2023-05-14": 34719,
-  "2023-05-15": 35204,
-  "2023-05-16": 35726,
-  "2023-05-17": 36152,
-  "2023-05-18": 36531,
-  "2023-05-19": 36980,
-  "2023-05-20": 37895,
-  "2023-05-21": 37895,
-  "2023-05-22": 37895,
-  "2023-05-23": 38704,
-  "2023-05-24": 39290,
-  "2023-05-25": 39363,
-  "2023-05-26": 39720,
-  "2023-05-27": 40179,
-  "2023-05-28": 40635,
-  "2023-05-29": 40635,
-  "2023-05-30": 41420,
-  "2023-05-31": 41776,
-  "2023-06-01": 42137,
-  "2023-06-02": 42485,
-  "2023-06-03": 42859,
-  "2023-06-04": 43269,
-  "2023-06-05": 43656,
-  "2023-06-06": 43998,
-  "2023-06-07": 44322,
-  "2023-06-08": 44628,
-  "2023-06-09": 44916,
-  "2023-06-10": 45266,
-  "2023-06-11": 45621,
-  "2023-06-12": 45976,
-  "2023-06-13": 46278,
-  "2023-06-14": 46567,
-  "2023-06-15": 46852,
-  "2023-06-16": 47156,
-  "2023-06-17": 47461,
-  "2023-06-18": 47779,
-  "2023-06-19": 48084,
-  "2023-06-20": 48338,
-  "2023-06-21": 48630,
-  "2023-06-22": 48948,
-  "2023-06-23": 49224,
-  "2023-06-24": 49512,
-  "2023-06-25": 49812,
-  "2023-06-26": 50115,
-  "2023-06-27": 50361,
-  "2023-06-28": 50596,
-  "2023-06-29": 50902,
-  "2023-06-30": 51154,
-  "2023-07-01": 51811,
-  "2023-07-02": 51811,
-  "2023-07-03": 52140,
-  "2023-07-04": 52447,
-  "2023-07-05": 52746,
-  "2023-07-06": 53279,
-  "2023-07-07": 53279,
-  "2023-07-08": 53520,
-  "2023-07-09": 53808,
-  "2023-07-10": 54092,
-  "2023-07-11": 54303,
-  "2023-07-12": 54530,
-  "2023-07-13": 54761,
-  "2023-07-14": 55048,
-  "2023-07-15": 55237,
-  "2023-07-16": 55564,
-  "2023-07-17": 55796,
-  "2023-07-18": 56037,
-  "2023-07-19": 56247,
-  "2023-07-20": 56477,
-  "2023-07-21": 56686,
-  "2023-07-22": 56951,
-  "2023-07-23": 57226,
-  "2023-07-24": 57461,
-  "2023-07-25": 57700,
-  "2023-07-26": 57950,
-  "2023-07-27": 58181,
-  "2023-07-28": 58502,
-  "2023-07-29": 58764,
-  "2023-07-30": 59033,
-  "2023-07-31": 59306,
-  "2023-08-01": 59553,
-  "2023-08-02": 59803,
-  "2023-08-03": 60027,
-  "2023-08-04": 60248,
-  "2023-08-05": 60454,
-  "2023-08-06": 60914,
-  "2023-08-07": 60914,
-  "2023-08-08": 61119,
-  "2023-08-09": 61310,
-  "2023-08-10": 61524,
-  "2023-08-11": 61741,
-  "2023-08-12": 61985,
-  "2023-08-13": 62234,
-  "2023-08-14": 62454,
-  "2023-08-15": 62894,
-  "2023-08-16": 62894,
-  "2023-08-17": 63079,
-  "2023-08-18": 63291,
-  "2023-08-19": 63485,
-  "2023-08-20": 63730,
-  "2023-08-21": 63937,
-  "2023-08-22": 64131,
-  "2023-08-23": 64336,
-  "2023-08-24": 64522,
-  "2023-08-25": 64687,
-  "2023-08-26": 64881,
-  "2023-08-27": 65095,
-  "2023-08-28": 65306,
-  "2023-08-29": 65512,
-  "2023-08-30": 65692,
-  "2023-08-31": 65882,
-  "2023-09-01": 66261,
-  "2023-09-02": 66261,
-  "2023-09-03": 66423,
-  "2023-09-04": 66615,
-  "2023-09-05": 66788,
-  "2023-09-06": 66946,
-  "2023-09-07": 67112,
-  "2023-09-08": 67267,
-  "2023-09-09": 67426,
-  "2023-09-10": 67620,
-  "2023-09-11": 67796,
-  "2023-09-12": 67984,
-  "2023-09-13": 68158,
-  "2023-09-14": 68319,
-  "2023-09-15": 68472,
-  "2023-09-16": 68645,
-  "2023-09-17": 68812,
-  "2023-09-18": 68974,
-  "2023-09-19": 69117,
-  "2023-09-20": 69255,
-  "2023-09-21": 69426,
-  "2023-09-22": 69574,
-  "2023-09-23": 69722,
-  "2023-09-24": 69922,
-  "2023-09-25": 70102,
-  "2023-09-26": 70488,
-  "2023-09-27": 70694,
-  "2023-09-28": 70959,
-  "2023-09-29": 71219,
-  "2023-09-30": 71436,
-  "2023-10-01": 71659,
-  "2023-10-02": 71896,
-  "2023-10-03": 72076,
-  "2023-10-04": 72273,
-  "2023-10-05": 72492,
-  "2023-10-06": 72668,
-  "2023-10-07": 73089,
-  "2023-10-08": 73502,
-  "2023-10-09": 73860,
-  "2023-10-10": 74171,
-  "2023-10-11": 74660,
-  "2023-10-12": 74660,
-  "2023-10-13": 74915,
-  "2023-10-14": 75296,
-  "2023-10-15": 75648,
-  "2023-10-16": 76036,
-  "2023-10-17": 76330,
-  "2023-10-18": 76604,
-  "2023-10-19": 76895,
-  "2023-10-20": 77214,
-  "2023-10-21": 77499,
-  "2023-10-22": 77833,
-  "2023-10-23": 78144,
-  "2023-10-24": 78419,
-  "2023-10-25": 78641,
-  "2023-10-26": 78881,
-  "2023-10-27": 79104,
-  "2023-10-28": 79322,
-  "2023-10-29": 79610,
-  "2023-10-30": 80098,
-  "2023-10-31": 80098,
-  "2023-11-01": 80281,
-  "2023-11-02": 80484,
-  "2023-11-03": 80678,
-  "2023-11-04": 80882,
-  "2023-11-05": 81091,
-  "2023-11-06": 81297,
-  "2023-11-07": 81486,
-  "2023-11-08": 81671,
-  "2023-11-09": 82049,
-  "2023-11-10": 82296,
-  "2023-11-11": 82606,
-  "2023-11-12": 82811,
-  "2023-11-13": 83039,
-  "2023-11-14": 83255,
-  "2023-11-15": 83255,
-  "2023-11-16": 83685,
-  "2023-11-17": 84136,
-  "2023-11-18": 84136,
-  "2023-11-19": 84359,
-  "2023-11-20": 84565,
-  "2023-11-21": 84712,
-  "2023-11-22": 84876,
-  "2023-11-23": 85022,
-  "2023-11-24": 85215,
-  "2023-11-25": 85371,
-  "2023-11-26": 85529,
-  "2023-11-27": 85735,
-  "2023-11-28": 85898,
-  "2023-11-29": 86315,
-  "2023-11-30": 86315,
-  "2023-12-01": 86559,
-  "2023-12-02": 86770,
-  "2023-12-03": 87055,
-  "2023-12-04": 87274,
-  "2023-12-05": 87504,
-  "2023-12-06": 87674,
-  "2023-12-07": 87871,
-  "2023-12-08": 88081,
-  "2023-12-09": 88296,
-  "2023-12-10": 88554,
-  "2023-12-11": 88809,
-  "2023-12-12": 88987,
-  "2023-12-13": 89157,
-  "2023-12-14": 89360,
-  "2023-12-15": 89495,
-  "2023-12-16": 89683,
-  "2023-12-17": 89848,
-  "2023-12-18": 90051,
-  "2023-12-19": 90219,
-  "2023-12-20": 90374,
-  "2023-12-21": 90531,
-  "2023-12-22": 90697,
-  "2023-12-23": 90912,
-  "2023-12-24": 91090,
-  "2023-12-25": 91244,
-  "2023-12-26": 91388,
-  "2023-12-27": 91603,
-  "2023-12-30": 92191,
-  "2023-12-31": 92370,
-  "2024-01-01": 92546,
-  "2024-01-02": 92706,
-  "2024-01-03": 92884
+  "2024-01-17": 95205,
+  "date_first_scraped": "2023-04-11",
+  "description": "Let's DIVE into IVE.",
+  "name": "This Is IVE",
+  "tracks": [
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154360,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
+    },
+    {
+      "album": {
+        "name": "Blue & Black",
+        "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
+      },
+      "artists": [
+        {
+          "name": "HYOJUNG",
+          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
+        },
+        {
+          "name": "ARIN",
+          "url": "https://open.spotify.com/artist/48xUzGT4qYI9vdnVCJZpmw"
+        },
+        {
+          "name": "JANGWONYOUNG",
+          "url": "https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw"
+        },
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        },
+        {
+          "name": "SERIM",
+          "url": "https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO"
+        },
+        {
+          "name": "JUNGMO",
+          "url": "https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Blue & Black",
+      "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5"
+    },
+    {
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+    },
+    {
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "album": {
+        "name": "ELEVEN -Japanese version-",
+        "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "ELEVEN -Japanese version-",
+      "url": "https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Holy Moly",
+      "url": "https://open.spotify.com/track/5q288Nbf39kqh2HtI2H2op"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "album": {
+        "name": "I WANT",
+        "url": "https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "I WANT",
+      "url": "https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs"
+    },
+    {
+      "album": {
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE -Japanese version-",
+        "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "LOVE DIVE -Japanese version-",
+      "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1"
+    },
+    {
+      "album": {
+        "name": "Move Like This (Feat. YUNA KIM)",
+        "url": "https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "ANYUJIN",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        },
+        {
+          "name": "YUNA KIM",
+          "url": "https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196106,
+      "name": "Move Like This (Feat. YUNA KIM)",
+      "url": "https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "NOT YOUR GIRL",
+      "url": "https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj"
+    },
+    {
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/6TNx6kHZeVDByUNMVxkAfa"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "OTT",
+      "url": "https://open.spotify.com/track/0ANTnEM0En14CMHPxs0MZj"
+    },
+    {
+      "album": {
+        "name": "I'VE MINE",
+        "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188213,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1RYK0mKtwjWaNLe7Mi6jYN"
+    },
+    {
+      "album": {
+        "name": "ELEVEN -Japanese version-",
+        "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "Queen of Hearts",
+      "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
+    },
+    {
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "ROYAL",
+      "url": "https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Shine With Me",
+      "url": "https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9"
+    },
+    {
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g"
+    },
+    {
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "\uad81\uae08\ud574 (Next Page)",
+      "url": "https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "\uc12c\ucc1f (Hypnosis)",
+      "url": "https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6pLfLmbGM3d"
 }

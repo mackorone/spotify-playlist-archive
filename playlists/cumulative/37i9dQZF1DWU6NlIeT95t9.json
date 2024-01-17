@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Top 50 tracks from RADAR Pakistan in 2023.   Cover: Hassan & Roshaan",
-  "name": "Best of RADAR PAKISTAN 2023",
+  "description": "Meet the future.  Cover: Hassan & Roshaan",
+  "name": "RADAR PAKISTAN",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 191020,
       "name": "Aankhon Mein Aansu",
       "url": "https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 268295,
       "name": "Akhiyaan",
       "url": "https://open.spotify.com/track/3EywoDCSQSykcVgdKvTgAQ"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Alvida",
       "url": "https://open.spotify.com/track/6WEL0IfG8t9dxlxFxhKPAC"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 186598,
       "name": "Andaaz-E-Karam",
       "url": "https://open.spotify.com/track/7iI9CyxhmRqqk6u8odtvAq"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 186008,
       "name": "Andheri Raat",
       "url": "https://open.spotify.com/track/2ojtfOXp5BR9Jxh3GIdZ6h"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 130909,
       "name": "DESIRE",
       "url": "https://open.spotify.com/track/2eSukmpblBGGf5Iyq7cM4e"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 195558,
       "name": "Diya",
       "url": "https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 178714,
       "name": "Kali Raat",
       "url": "https://open.spotify.com/track/74UHCurjieq16JY1saeasF"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "MAHI // AVAY",
+        "url": "https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154552,
+      "name": "MAHI // AVAY",
+      "url": "https://open.spotify.com/track/4klMH7SD2ypbWvV8GxR452"
+    },
+    {
+      "album": {
         "name": "Mann Mein Tu",
         "url": "https://open.spotify.com/album/68gFrMFNTNTxLa8Nmm9Lx0"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 179466,
       "name": "Mann Mein Tu",
       "url": "https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/60zoHgHcJhStSg8qUbndjl"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 162000,
       "name": "Mukhtasir Baatein",
       "url": "https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 151200,
       "name": "Nishana",
       "url": "https://open.spotify.com/track/5yyS3rLURpzQBHZ5yIZQIU"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 161311,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 186122,
       "name": "Teray Naam",
       "url": "https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 194660,
       "name": "Teriyan",
       "url": "https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 160686,
       "name": "Thandi",
       "url": "https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b"

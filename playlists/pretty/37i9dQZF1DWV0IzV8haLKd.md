@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0IzV8haLKd.md) - [plain]
 
 > 【セトリ公開】2023年8月22日、豊洲PITにて行われたリアム・ギャラガー単独公演"SUMMER SONIC EXTRA"\(Sold Out公演\)セットリストを公開！<br/>\*セットリストの後にオリジナル・バージョンも併せてお楽しみください。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,280 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,317 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

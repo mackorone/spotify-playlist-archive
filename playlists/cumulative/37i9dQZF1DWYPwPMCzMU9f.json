@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-13",
-  "description": "\ud83d\udc94 tan f\u00e1cil que es enamorarme y tan dif\u00edcil olvidarte \ud83d\udc94 En portada: Jessi Uribe",
+  "description": "\ud83d\udc94 tan f\u00e1cil que es enamorarme y tan dif\u00edcil olvidarte \ud83d\udc94",
   "name": "La Llorer\u00eda",
   "tracks": [
     {
@@ -990,10 +990,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 197819,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
+    },
+    {
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
     },
     {
       "album": {

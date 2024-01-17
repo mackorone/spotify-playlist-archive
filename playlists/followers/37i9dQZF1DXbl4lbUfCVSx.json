@@ -1,268 +1,953 @@
 {
-  "2023-04-11": 26051,
-  "2023-04-12": 26051,
-  "2023-04-13": 26066,
-  "2023-04-14": 26078,
-  "2023-04-15": 26091,
-  "2023-04-16": 26117,
-  "2023-04-17": 26129,
-  "2023-04-18": 26151,
-  "2023-04-19": 26158,
-  "2023-04-20": 26171,
-  "2023-04-21": 26189,
-  "2023-04-22": 26203,
-  "2023-04-23": 26217,
-  "2023-04-24": 26233,
-  "2023-04-25": 26244,
-  "2023-04-26": 26256,
-  "2023-04-27": 26263,
-  "2023-04-28": 26276,
-  "2023-04-29": 26291,
-  "2023-04-30": 26314,
-  "2023-05-01": 26324,
-  "2023-05-02": 26339,
-  "2023-05-03": 26351,
-  "2023-05-04": 26362,
-  "2023-05-05": 26377,
-  "2023-05-06": 26391,
-  "2023-05-07": 26411,
-  "2023-05-08": 26427,
-  "2023-05-09": 26444,
-  "2023-05-10": 26458,
-  "2023-05-11": 26476,
-  "2023-05-12": 26491,
-  "2023-05-13": 26507,
-  "2023-05-14": 26518,
-  "2023-05-15": 26527,
-  "2023-05-16": 26537,
-  "2023-05-17": 26557,
-  "2023-05-18": 26566,
-  "2023-05-19": 26594,
-  "2023-05-20": 26631,
-  "2023-05-21": 26631,
-  "2023-05-22": 26631,
-  "2023-05-23": 26652,
-  "2023-05-24": 26680,
-  "2023-05-25": 26682,
-  "2023-05-26": 26696,
-  "2023-05-27": 26713,
-  "2023-05-28": 26720,
-  "2023-05-29": 26720,
-  "2023-05-30": 26745,
-  "2023-05-31": 26760,
-  "2023-06-01": 26774,
-  "2023-06-02": 26780,
-  "2023-06-03": 26795,
-  "2023-06-04": 26812,
-  "2023-06-05": 26823,
-  "2023-06-06": 26826,
-  "2023-06-07": 26840,
-  "2023-06-08": 26845,
-  "2023-06-09": 26865,
-  "2023-06-10": 26886,
-  "2023-06-11": 26904,
-  "2023-06-12": 26913,
-  "2023-06-13": 26920,
-  "2023-06-14": 26930,
-  "2023-06-15": 26936,
-  "2023-06-16": 26944,
-  "2023-06-17": 26965,
-  "2023-06-18": 26976,
-  "2023-06-19": 26984,
-  "2023-06-20": 26995,
-  "2023-06-21": 27007,
-  "2023-06-22": 27018,
-  "2023-06-23": 27029,
-  "2023-06-24": 27036,
-  "2023-06-25": 27043,
-  "2023-06-26": 27060,
-  "2023-06-27": 27073,
-  "2023-06-28": 27079,
-  "2023-06-29": 27088,
-  "2023-06-30": 27099,
-  "2023-07-01": 27124,
-  "2023-07-02": 27124,
-  "2023-07-03": 27136,
-  "2023-07-04": 27146,
-  "2023-07-05": 27148,
-  "2023-07-06": 27152,
-  "2023-07-07": 27152,
-  "2023-07-08": 27160,
-  "2023-07-09": 27168,
-  "2023-07-10": 27177,
-  "2023-07-11": 27191,
-  "2023-07-12": 27200,
-  "2023-07-13": 27212,
-  "2023-07-14": 27227,
-  "2023-07-15": 27238,
-  "2023-07-16": 27246,
-  "2023-07-17": 27268,
-  "2023-07-18": 27275,
-  "2023-07-19": 27286,
-  "2023-07-20": 27293,
-  "2023-07-21": 27300,
-  "2023-07-22": 27313,
-  "2023-07-23": 27326,
-  "2023-07-24": 27338,
-  "2023-07-25": 27346,
-  "2023-07-26": 27358,
-  "2023-07-27": 27368,
-  "2023-07-28": 27382,
-  "2023-07-29": 27390,
-  "2023-07-30": 27403,
-  "2023-07-31": 27417,
-  "2023-08-01": 27426,
-  "2023-08-02": 27442,
-  "2023-08-03": 27450,
-  "2023-08-04": 27462,
-  "2023-08-05": 27481,
-  "2023-08-06": 27508,
-  "2023-08-07": 27508,
-  "2023-08-08": 27508,
-  "2023-08-09": 27514,
-  "2023-08-10": 27523,
-  "2023-08-11": 27528,
-  "2023-08-12": 27538,
-  "2023-08-13": 27551,
-  "2023-08-14": 27573,
-  "2023-08-15": 27593,
-  "2023-08-16": 27593,
-  "2023-08-17": 27600,
-  "2023-08-18": 27617,
-  "2023-08-19": 27633,
-  "2023-08-20": 27642,
-  "2023-08-21": 27648,
-  "2023-08-22": 27656,
-  "2023-08-23": 27669,
-  "2023-08-24": 27682,
-  "2023-08-25": 27692,
-  "2023-08-26": 27701,
-  "2023-08-27": 27714,
-  "2023-08-28": 27720,
-  "2023-08-29": 27732,
-  "2023-08-30": 27751,
-  "2023-08-31": 27762,
-  "2023-09-01": 27796,
-  "2023-09-02": 27796,
-  "2023-09-03": 27818,
-  "2023-09-04": 27855,
-  "2023-09-05": 27879,
-  "2023-09-06": 27912,
-  "2023-09-07": 27939,
-  "2023-09-08": 27973,
-  "2023-09-09": 27997,
-  "2023-09-10": 28025,
-  "2023-09-11": 28052,
-  "2023-09-12": 28079,
-  "2023-09-13": 28101,
-  "2023-09-14": 28131,
-  "2023-09-15": 28155,
-  "2023-09-16": 28184,
-  "2023-09-17": 28184,
-  "2023-09-18": 28241,
-  "2023-09-19": 28280,
-  "2023-09-20": 28296,
-  "2023-09-21": 28332,
-  "2023-09-22": 28370,
-  "2023-09-23": 28390,
-  "2023-09-24": 28390,
-  "2023-09-25": 28450,
-  "2023-09-26": 28484,
-  "2023-09-27": 28507,
-  "2023-09-28": 28530,
-  "2023-09-29": 28559,
-  "2023-09-30": 28579,
-  "2023-10-01": 28612,
-  "2023-10-02": 28635,
-  "2023-10-03": 28657,
-  "2023-10-04": 28681,
-  "2023-10-05": 28706,
-  "2023-10-06": 28731,
-  "2023-10-07": 28757,
-  "2023-10-08": 28781,
-  "2023-10-09": 28809,
-  "2023-10-10": 28820,
-  "2023-10-11": 28866,
-  "2023-10-12": 28866,
-  "2023-10-13": 28884,
-  "2023-10-14": 28884,
-  "2023-10-15": 28884,
-  "2023-10-16": 28884,
-  "2023-10-17": 28884,
-  "2023-10-18": 29007,
-  "2023-10-19": 29036,
-  "2023-10-20": 29036,
-  "2023-10-21": 29036,
-  "2023-10-22": 29036,
-  "2023-10-23": 29131,
-  "2023-10-24": 29146,
-  "2023-10-25": 29146,
-  "2023-10-26": 29146,
-  "2023-10-27": 29146,
-  "2023-10-28": 29146,
-  "2023-10-29": 29146,
-  "2023-10-30": 29146,
-  "2023-10-31": 29146,
-  "2023-11-01": 29146,
-  "2023-11-02": 29372,
-  "2023-11-03": 29372,
-  "2023-11-04": 29372,
-  "2023-11-05": 29372,
-  "2023-11-06": 29372,
-  "2023-11-07": 29372,
-  "2023-11-08": 29372,
-  "2023-11-09": 29372,
-  "2023-11-10": 29372,
-  "2023-11-11": 29600,
-  "2023-11-12": 29627,
-  "2023-11-13": 29627,
-  "2023-11-14": 29627,
-  "2023-11-15": 29627,
-  "2023-11-16": 29627,
-  "2023-11-17": 29772,
-  "2023-11-18": 29772,
-  "2023-11-19": 29772,
-  "2023-11-20": 29772,
-  "2023-11-21": 29857,
-  "2023-11-22": 29857,
-  "2023-11-23": 29906,
-  "2023-11-24": 29906,
-  "2023-11-25": 29906,
-  "2023-11-26": 29906,
-  "2023-11-27": 29906,
-  "2023-11-28": 29906,
-  "2023-11-29": 29906,
-  "2023-11-30": 29906,
-  "2023-12-01": 29906,
-  "2023-12-02": 29906,
-  "2023-12-03": 29906,
-  "2023-12-04": 29906,
-  "2023-12-05": 29906,
-  "2023-12-06": 29906,
-  "2023-12-07": 29906,
-  "2023-12-08": 29906,
-  "2023-12-09": 30280,
-  "2023-12-10": 30280,
-  "2023-12-11": 30299,
-  "2023-12-12": 30299,
-  "2023-12-13": 30299,
-  "2023-12-14": 30338,
-  "2023-12-15": 30346,
-  "2023-12-16": 30359,
-  "2023-12-17": 30375,
-  "2023-12-18": 30392,
-  "2023-12-19": 30399,
-  "2023-12-20": 30410,
-  "2023-12-21": 30412,
-  "2023-12-22": 30413,
-  "2023-12-23": 30427,
-  "2023-12-24": 30435,
-  "2023-12-25": 30459,
-  "2023-12-26": 30468,
-  "2023-12-27": 30481,
-  "2023-12-30": 30505,
-  "2023-12-31": 30523,
-  "2024-01-01": 30539,
-  "2024-01-02": 30548,
-  "2024-01-03": 30561
+  "2024-01-17": 30653,
+  "date_first_scraped": "2023-04-12",
+  "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
+  "name": "Kompas Dir\u00e8k",
+  "tracks": [
+    {
+      "album": {
+        "name": "#Esolf",
+        "url": "https://open.spotify.com/album/7EDHii05sIu37py58x4F76"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "#TPM",
+      "url": "https://open.spotify.com/track/2nC05mJIPSnHLiSX1xzIBX"
+    },
+    {
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258090,
+      "name": "Another Round - Zouk",
+      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
+    },
+    {
+      "album": {
+        "name": "Av\u00e9'w",
+        "url": "https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf"
+      },
+      "artists": [
+        {
+          "name": "Daan Junior",
+          "url": "https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335026,
+      "name": "Av\u00e9'w",
+      "url": "https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01"
+    },
+    {
+      "album": {
+        "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
+        "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
+      },
+      "artists": [
+        {
+          "name": "Djakout Mizik",
+          "url": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 394031,
+      "name": "Biznis pam",
+      "url": "https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH"
+    },
+    {
+      "album": {
+        "name": "Ret Nan Liy Ou",
+        "url": "https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314280,
+      "name": "Blakawout",
+      "url": "https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS"
+    },
+    {
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
+    },
+    {
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr"
+      },
+      "artists": [
+        {
+          "name": "X-tassy",
+          "url": "https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264341,
+      "name": "Di'm Kib\u00f2'w Vle'l #Quickie",
+      "url": "https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp"
+    },
+    {
+      "album": {
+        "name": "Atis Lokal Pap Janm Lague",
+        "url": "https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy"
+      },
+      "artists": [
+        {
+          "name": "Mikaben",
+          "url": "https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp"
+        },
+        {
+          "name": "Carimi",
+          "url": "https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285933,
+      "name": "Fanm Sa a Move",
+      "url": "https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM"
+    },
+    {
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
+      },
+      "artists": [
+        {
+          "name": "K-Zino",
+          "url": "https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247663,
+      "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
+      "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+    },
+    {
+      "album": {
+        "name": "Gen Bagay",
+        "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
+      },
+      "artists": [
+        {
+          "name": "Yani Martelly",
+          "url": "https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy"
+        },
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194716,
+      "name": "Gen Bagay",
+      "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "album": {
+        "name": "Nouvel R",
+        "url": "https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD"
+      },
+      "artists": [
+        {
+          "name": "Jim Rama",
+          "url": "https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282120,
+      "name": "Gouy\u00e9",
+      "url": "https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR"
+    },
+    {
+      "album": {
+        "name": "No Dead End",
+        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+      },
+      "artists": [
+        {
+          "name": "Zenglen",
+          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-18",
+      "duration_ms": 316706,
+      "name": "Grev B\u00e8b\u00e8",
+      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
+    },
+    {
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
+    },
+    {
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372484,
+      "name": "Incroyable",
+      "url": "https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q"
+    },
+    {
+      "album": {
+        "name": "Encyclopedie",
+        "url": "https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9"
+      },
+      "artists": [
+        {
+          "name": "Arly Lariviere",
+          "url": "https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402933,
+      "name": "Is It Real?",
+      "url": "https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst"
+    },
+    {
+      "album": {
+        "name": "Our Own World",
+        "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
+      },
+      "artists": [
+        {
+          "name": "J-BEATZ",
+          "url": "https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293918,
+      "name": "It's Getting Late",
+      "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+      },
+      "artists": [
+        {
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "album": {
+        "name": "Kanpe devanm (feat. Tony Mix)",
+        "url": "https://open.spotify.com/album/0nt3MwxJVZMRPZh2sOpn7u"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        },
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303079,
+      "name": "Kanpe devanm",
+      "url": "https://open.spotify.com/track/5ZfBDA0XCxmxwClnn4BaCZ"
+    },
+    {
+      "album": {
+        "name": "F\u00f2k T\u00e8t Ou La",
+        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
+      },
+      "artists": [
+        {
+          "name": "Roody Roodboy",
+          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263414,
+      "name": "Kenbe'l La",
+      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+    },
+    {
+      "album": {
+        "name": "Kilot",
+        "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        },
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309936,
+      "name": "Kilot",
+      "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
+    },
+    {
+      "album": {
+        "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
+        "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165224,
+      "name": "Kimb\u00e9 sa nan rinw",
+      "url": "https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9"
+    },
+    {
+      "album": {
+        "name": "Kompa SHATTA",
+        "url": "https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm"
+      },
+      "artists": [
+        {
+          "name": "Ken'zii Bwa",
+          "url": "https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114934,
+      "name": "Kompa SHATTA",
+      "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
+    },
+    {
+      "album": {
+        "name": "Sans limites",
+        "url": "https://open.spotify.com/album/6A1Dvjmqa22Rr68IhBTkDc"
+      },
+      "artists": [
+        {
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 383800,
+      "name": "Lakay",
+      "url": "https://open.spotify.com/track/6ulOU7gP6XTPnohMCkaion"
+    },
+    {
+      "album": {
+        "name": "Ha\u00efti Twoubadou Volume 1",
+        "url": "https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA"
+      },
+      "artists": [
+        {
+          "name": "Jacques Sauveur Jean",
+          "url": "https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e"
+        },
+        {
+          "name": "Fabrice Rouzier",
+          "url": "https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Lanmou Doudou",
+      "url": "https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD"
+    },
+    {
+      "album": {
+        "name": "Lanmou fasil",
+        "url": "https://open.spotify.com/album/75fxo7YkV4ECR7dnmfeltx"
+      },
+      "artists": [
+        {
+          "name": "Vayb",
+          "url": "https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H"
+        },
+        {
+          "name": "Micka\u00ebl Guirand",
+          "url": "https://open.spotify.com/artist/2reMqfOpA1CUDx3Pqj0Gyr"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335500,
+      "name": "Lanmou fasil",
+      "url": "https://open.spotify.com/track/2XlCHzfLY1K1Wh1CjvFE1a"
+    },
+    {
+      "album": {
+        "name": "L\u00f2d Nan Dez\u00f2d",
+        "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395226,
+      "name": "Libre D'aimer",
+      "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
+    },
+    {
+      "album": {
+        "name": "De Ger",
+        "url": "https://open.spotify.com/album/326B0vsovArwhIildjVOdc"
+      },
+      "artists": [
+        {
+          "name": "Mizik Mizik",
+          "url": "https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "L\u00e8 Nap F\u00e8 Lanmou",
+      "url": "https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2"
+    },
+    {
+      "album": {
+        "name": "No Dead End",
+        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+      },
+      "artists": [
+        {
+          "name": "Zenglen",
+          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "M Swet\u00e9'l Dans\u00e9",
+      "url": "https://open.spotify.com/track/1Whs5ALWz4z5VAtrcUWQJY"
+    },
+    {
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307493,
+      "name": "Ma Cherie Je T'aime",
+      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
+    },
+    {
+      "album": {
+        "name": "Malade (feat. Richard Cave)",
+        "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Richard Cav\u00e9",
+          "url": "https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309107,
+      "name": "Malade (feat. Richard Cave)",
+      "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
+    },
+    {
+      "album": {
+        "name": "Bagay Yo Chanje!",
+        "url": "https://open.spotify.com/album/0nYwb6eZYkb7wXjRiN13vS"
+      },
+      "artists": [
+        {
+          "name": "K-Dans",
+          "url": "https://open.spotify.com/artist/4KV6KEiSrUZRoF5YqMjyIx"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 319893,
+      "name": "Move chwa",
+      "url": "https://open.spotify.com/track/5SqW0PVDbz3bXsyxRdUJfR"
+    },
+    {
+      "album": {
+        "name": "Diferan",
+        "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 297960,
+      "name": "Mwen bouke",
+      "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
+    },
+    {
+      "album": {
+        "name": "Diferan",
+        "url": "https://open.spotify.com/album/3jVojC2xLgVe5jbWeGQvYK"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298057,
+      "name": "Mwen bouke",
+      "url": "https://open.spotify.com/track/2FsxVv8SMZHUGLh7EFEGWF"
+    },
+    {
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
+    },
+    {
+      "album": {
+        "name": "Pa kite'm (Djazz Dj'aa)",
+        "url": "https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc"
+      },
+      "artists": [
+        {
+          "name": "5Lan",
+          "url": "https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi"
+        },
+        {
+          "name": "Olivier Duret",
+          "url": "https://open.spotify.com/artist/4Lo1kP4n9FjjG8bDmOl2zB"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 335699,
+      "name": "Pa kite'm - Djazz Dj'aa",
+      "url": "https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB"
+    },
+    {
+      "album": {
+        "name": "Nan Building Nan",
+        "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
+      },
+      "artists": [
+        {
+          "name": "System Band",
+          "url": "https://open.spotify.com/artist/1OpB6rkG92KAq4hVbRV0nU"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323268,
+      "name": "Pa Leve Main Ou Sou Li",
+      "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
+    },
+    {
+      "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "album": {
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "album": {
+        "name": "3 Tou 9",
+        "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289537,
+      "name": "San Limit",
+      "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+    },
+    {
+      "album": {
+        "name": "She's a Freak",
+        "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414024,
+      "name": "She's a Freak",
+      "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
+    },
+    {
+      "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 331871,
+      "name": "Simplicit\u00e9",
+      "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"
+    },
+    {
+      "album": {
+        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
+        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
+      },
+      "artists": [
+        {
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 268480,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
+    },
+    {
+      "album": {
+        "name": "Entre vous et moi (32 Hits)",
+        "url": "https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB"
+      },
+      "artists": [
+        {
+          "name": "Harry Diboula",
+          "url": "https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Tu me manques",
+      "url": "https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP"
+    },
+    {
+      "album": {
+        "name": "Invictus",
+        "url": "https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy"
+      },
+      "artists": [
+        {
+          "name": "Kreyol La",
+          "url": "https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214987,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq"
+    },
+    {
+      "album": {
+        "name": "Et pourtant",
+        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
+      },
+      "artists": [
+        {
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301087,
+      "name": "Vini'm pale w",
+      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
+    },
+    {
+      "album": {
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
+    },
+    {
+      "album": {
+        "name": "I Got This",
+        "url": "https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl"
+      },
+      "artists": [
+        {
+          "name": "Nu-Look",
+          "url": "https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 388080,
+      "name": "What About Tomorrow",
+      "url": "https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk"
+    },
+    {
+      "album": {
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324026,
+      "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
+    },
+    {
+      "album": {
+        "name": "Soca 101 Vol. 4",
+        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
+      },
+      "artists": [
+        {
+          "name": "Kassav",
+          "url": "https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 331413,
+      "name": "Zouk-La-Se Sel Medikaman Nou Ni",
+      "url": "https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbl4lbUfCVSx"
 }

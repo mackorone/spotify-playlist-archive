@@ -4,7 +4,7 @@
 
 > Mergulhe dentro da sua mente com esses sons do mar.
 
-251 songs - 12 hr 47 min
+252 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Stormy Beach](https://open.spotify.com/track/5L3jDDvC3NQ7UIkQkOjBHm) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 3:59 | 2023-07-03 |  |
 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 | 2023-07-03 |  |
 | [Stormy Ocean Sounds](https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:17 | 2023-07-03 |  |
-| [Stormy Sea](https://open.spotify.com/track/6b1OG21ffrJMI7yITNivSl) | [Ocean HD](https://open.spotify.com/artist/5o3yuYZ9aXhcARXy2SeCrL) | [Ocean Hd](https://open.spotify.com/album/49cagZyC7CpLn1zFMOrzLb) | 2:47 | 2023-07-03 |  |
+| [Stormy Sea](https://open.spotify.com/track/6b1OG21ffrJMI7yITNivSl) | [Ocean HD](https://open.spotify.com/artist/5o3yuYZ9aXhcARXy2SeCrL) | [Ocean Hd](https://open.spotify.com/album/49cagZyC7CpLn1zFMOrzLb) | 2:47 | 2023-07-03 | 2024-01-12 |
 | [Stormy Waves](https://open.spotify.com/track/4v72wZUSK1njS9GD6grIpw) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:25 | 2023-07-03 |  |
 | [Stream Of Life](https://open.spotify.com/track/4PhsPrBK6rlffgawm1Jy0U) | [Aqua Mori](https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X) | [Stream Of Life](https://open.spotify.com/album/0s8EB6gEdqpI2Aa1Ek87CY) | 2:24 | 2023-07-03 |  |
 | [Stream Of Sleep](https://open.spotify.com/track/2sntSmbUc6xYEAh82RfreY) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Liquid Dream](https://open.spotify.com/album/0tnqwi45420HdLVOC1V9rn) | 2:24 | 2023-07-03 |  |
@@ -230,6 +230,7 @@
 | [Waves Crashing on Rocks](https://open.spotify.com/track/1orDQvwwaBsGbsxMNeiWZa) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Peaceful Rivers, Rains, Waves](https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv) | 2:44 | 2023-07-03 |  |
 | [Waves Crashing Relax](https://open.spotify.com/track/4M1nbhmkmAVyptAnd8dc8c) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:18 | 2023-07-03 |  |
 | [Waves Crashing The Beach](https://open.spotify.com/track/4JPAibfVEbNIDncwz2IEfG) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves Vol\. 2](https://open.spotify.com/album/7crlUClPdjmLLhvxOpQkSk) | 3:13 | 2023-07-03 |  |
+| [Waves for Relaxation](https://open.spotify.com/track/7CxFjP8i6McIwI4lNFwPD5) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 2:59 | 2023-07-03 |  |
 | [Waves from the Outlook](https://open.spotify.com/track/3HneefmTTrhPH9VHsuY5KO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:14 | 2023-07-03 |  |
 | [Waves from the South](https://open.spotify.com/track/3zQ2nhWajBddajUQXYSXDz) | [Nature 101](https://open.spotify.com/artist/6eu6iTsysW1wIPR23xq8BB) | [Deep Ocean](https://open.spotify.com/album/22Ceilw9Kxk2xMVbqpqkWt) | 2:45 | 2023-07-03 |  |
 | [Waves In A Small Cove 2](https://open.spotify.com/track/0P9kqZymGXK95D6TIbccr7) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Waves In A Small Cove](https://open.spotify.com/album/0awUNlc3YJ8KrTV9pbYmpx) | 2:02 | 2023-07-03 |  |

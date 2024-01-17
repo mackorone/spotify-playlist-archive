@@ -4,11 +4,11 @@
 
 > Because bass\. Cover: Victor Wooten
 
-100 songs - 7 hr 16 min
+101 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 | 2021-05-06 |  |
+| [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 | 2021-05-06 | 2024-01-13 |
 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 | 2021-05-06 |  |
 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 | 2021-05-06 |  |
 | [Actualize](https://open.spotify.com/track/1NENL1nGSuAnJhZz8xZd6N) | [Evan Brewer](https://open.spotify.com/artist/5tYE3ViKxF5APISuBhET9y) | [Alone](https://open.spotify.com/album/3n97LxQTiIk9QBZWdzZggl) | 4:19 | 2021-05-06 |  |
@@ -86,6 +86,7 @@
 | [Straight Up](https://open.spotify.com/track/1FQCQGCTDasksoloXfrzc0) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [Straight Up](https://open.spotify.com/album/6CnmMovLwcBrMugpM8erlA) | 4:40 | 2021-05-06 | 2022-07-26 |
 | [Sun Chaser](https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3) | 4:06 | 2021-05-06 |  |
 | [Sun Chaser](https://open.spotify.com/track/1rK6mqNOInbXGUrhkdSotu) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/1M6laJpwe22wioRlcpQ6wD) | 4:07 | 2021-05-06 | 2022-07-29 |
+| [Swimming in the Sky](https://open.spotify.com/track/6rIdd2UpgitHNdHMLtpkxU) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Swimming in the Sky](https://open.spotify.com/album/5E1rqqb3M4LxkHBGxPB3VQ) | 4:54 | 2024-01-12 |  |
 | [Symmetry](https://open.spotify.com/track/1BC1Zv4tJ0FUcc7dSYgPIs) | [Nathan Navarro](https://open.spotify.com/artist/3QvzE5pxVPhkCBGrUdefmQ) | [Myriads Rise](https://open.spotify.com/album/2xnkw4h4ttVNm2JSRNfe7X) | 2:49 | 2021-05-06 |  |
 | [The Bassment](https://open.spotify.com/track/7FzR482cXPSleaXixFRNdu) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl), [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN), [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Just Feelin' It](https://open.spotify.com/album/0h9t713CAy7J1nz3oQeB9y) | 5:55 | 2021-05-06 | 2022-08-14 |
 | [The Bassment \(feat\. George Duke\)](https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Just Feelin' It](https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l) | 5:55 | 2021-05-06 |  |

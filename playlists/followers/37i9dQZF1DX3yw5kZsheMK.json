@@ -1,621 +1,2237 @@
 {
-  "2022-04-19": 2314,
-  "2022-04-20": 2318,
-  "2022-04-21": 2325,
-  "2022-04-22": 2334,
-  "2022-04-23": 2342,
-  "2022-04-24": 2346,
-  "2022-04-25": 2355,
-  "2022-04-26": 2361,
-  "2022-04-27": 2367,
-  "2022-04-28": 2375,
-  "2022-04-29": 2389,
-  "2022-04-30": 2398,
-  "2022-05-01": 2410,
-  "2022-05-02": 2410,
-  "2022-05-03": 2415,
-  "2022-05-04": 2425,
-  "2022-05-05": 2430,
-  "2022-05-06": 2437,
-  "2022-05-07": 2448,
-  "2022-05-08": 2457,
-  "2022-05-09": 2459,
-  "2022-05-10": 2468,
-  "2022-05-11": 2476,
-  "2022-05-12": 2480,
-  "2022-05-13": 2486,
-  "2022-05-14": 2492,
-  "2022-05-15": 2504,
-  "2022-05-16": 2510,
-  "2022-05-17": 2525,
-  "2022-05-18": 2541,
-  "2022-05-19": 2551,
-  "2022-05-20": 2559,
-  "2022-05-21": 2567,
-  "2022-05-22": 2567,
-  "2022-05-23": 2582,
-  "2022-05-24": 2590,
-  "2022-05-25": 2601,
-  "2022-05-26": 2613,
-  "2022-05-27": 2622,
-  "2022-05-28": 2629,
-  "2022-05-29": 2635,
-  "2022-05-30": 2643,
-  "2022-05-31": 2658,
-  "2022-06-01": 2674,
-  "2022-06-02": 2675,
-  "2022-06-03": 2678,
-  "2022-06-04": 2687,
-  "2022-06-05": 2690,
-  "2022-06-06": 2696,
-  "2022-06-07": 2703,
-  "2022-06-08": 2711,
-  "2022-06-09": 2712,
-  "2022-06-10": 2723,
-  "2022-06-11": 2730,
-  "2022-06-12": 2740,
-  "2022-06-13": 2742,
-  "2022-06-14": 2746,
-  "2022-06-15": 2752,
-  "2022-06-16": 2762,
-  "2022-06-17": 2769,
-  "2022-06-18": 2770,
-  "2022-06-19": 2785,
-  "2022-06-20": 2785,
-  "2022-06-21": 2790,
-  "2022-06-22": 2799,
-  "2022-06-23": 2799,
-  "2022-06-24": 2811,
-  "2022-06-25": 2809,
-  "2022-06-26": 2810,
-  "2022-06-27": 2818,
-  "2022-06-28": 2818,
-  "2022-06-29": 2828,
-  "2022-06-30": 2836,
-  "2022-07-01": 2841,
-  "2022-07-02": 2846,
-  "2022-07-03": 2853,
-  "2022-07-04": 2859,
-  "2022-07-05": 2859,
-  "2022-07-06": 2871,
-  "2022-07-07": 2882,
-  "2022-07-08": 2892,
-  "2022-07-09": 2896,
-  "2022-07-10": 2906,
-  "2022-07-11": 2916,
-  "2022-07-12": 2923,
-  "2022-07-13": 2932,
-  "2022-07-14": 2947,
-  "2022-07-15": 2954,
-  "2022-07-16": 2962,
-  "2022-07-17": 2970,
-  "2022-07-18": 2974,
-  "2022-07-19": 2984,
-  "2022-07-20": 2991,
-  "2022-07-21": 2991,
-  "2022-07-22": 3004,
-  "2022-07-23": 3006,
-  "2022-07-24": 3015,
-  "2022-07-25": 3027,
-  "2022-07-26": 3036,
-  "2022-07-27": 3043,
-  "2022-07-28": 3048,
-  "2022-07-29": 3052,
-  "2022-07-30": 3066,
-  "2022-07-31": 3066,
-  "2022-08-01": 3077,
-  "2022-08-02": 3097,
-  "2022-08-03": 3097,
-  "2022-08-04": 3104,
-  "2022-08-05": 3110,
-  "2022-08-06": 3121,
-  "2022-08-07": 3129,
-  "2022-08-08": 3141,
-  "2022-08-09": 3146,
-  "2022-08-10": 3154,
-  "2022-08-11": 3158,
-  "2022-08-12": 3166,
-  "2022-08-13": 3179,
-  "2022-08-14": 3190,
-  "2022-08-15": 3197,
-  "2022-08-16": 3204,
-  "2022-08-17": 3208,
-  "2022-08-18": 3213,
-  "2022-08-19": 3220,
-  "2022-08-20": 3225,
-  "2022-08-21": 3234,
-  "2022-08-22": 3242,
-  "2022-08-23": 3247,
-  "2022-08-24": 3258,
-  "2022-08-25": 3272,
-  "2022-08-26": 3281,
-  "2022-08-27": 3287,
-  "2022-08-28": 3302,
-  "2022-08-29": 3317,
-  "2022-08-30": 3324,
-  "2022-08-31": 3330,
-  "2022-09-01": 3336,
-  "2022-09-02": 3344,
-  "2022-09-03": 3355,
-  "2022-09-04": 3361,
-  "2022-09-05": 3373,
-  "2022-09-06": 3382,
-  "2022-09-07": 3398,
-  "2022-09-09": 3416,
-  "2022-09-10": 3430,
-  "2022-09-11": 3440,
-  "2022-09-12": 3442,
-  "2022-09-13": 3457,
-  "2022-09-15": 3481,
-  "2022-09-16": 3485,
-  "2022-09-17": 3492,
-  "2022-09-18": 3498,
-  "2022-09-19": 3503,
-  "2022-09-20": 3508,
-  "2022-09-21": 3517,
-  "2022-09-22": 3526,
-  "2022-09-23": 3533,
-  "2022-09-24": 3541,
-  "2022-09-25": 3551,
-  "2022-09-26": 3571,
-  "2022-09-27": 3579,
-  "2022-09-28": 3588,
-  "2022-09-29": 3596,
-  "2022-09-30": 3600,
-  "2022-10-01": 3610,
-  "2022-10-02": 3617,
-  "2022-10-03": 3628,
-  "2022-10-04": 3631,
-  "2022-10-05": 3638,
-  "2022-10-06": 3646,
-  "2022-10-07": 3656,
-  "2022-10-08": 3666,
-  "2022-10-09": 3684,
-  "2022-10-10": 3684,
-  "2022-10-11": 3689,
-  "2022-10-12": 3693,
-  "2022-10-13": 3701,
-  "2022-10-14": 3712,
-  "2022-10-15": 3716,
-  "2022-10-16": 3727,
-  "2022-10-17": 3734,
-  "2022-10-18": 3739,
-  "2022-10-19": 3744,
-  "2022-10-20": 3756,
-  "2022-10-21": 3771,
-  "2022-10-22": 3776,
-  "2022-10-23": 3786,
-  "2022-10-24": 3793,
-  "2022-10-25": 3801,
-  "2022-10-26": 3803,
-  "2022-10-27": 3812,
-  "2022-10-28": 3820,
-  "2022-10-29": 3829,
-  "2022-10-30": 3835,
-  "2022-10-31": 3849,
-  "2022-11-01": 3858,
-  "2022-11-02": 3872,
-  "2022-11-03": 3886,
-  "2022-11-04": 3898,
-  "2022-11-05": 3907,
-  "2022-11-06": 3913,
-  "2022-11-07": 3927,
-  "2022-11-08": 3939,
-  "2022-11-09": 3945,
-  "2022-11-10": 3957,
-  "2022-11-11": 3965,
-  "2022-11-12": 3984,
-  "2022-11-13": 3994,
-  "2022-11-14": 3996,
-  "2022-11-15": 4004,
-  "2022-11-16": 4015,
-  "2022-11-17": 4024,
-  "2022-11-18": 4025,
-  "2022-11-19": 4022,
-  "2022-11-20": 4033,
-  "2022-11-21": 4031,
-  "2022-11-22": 4051,
-  "2022-11-23": 4051,
-  "2022-11-24": 4079,
-  "2022-11-25": 4098,
-  "2022-11-26": 4103,
-  "2022-11-27": 4113,
-  "2022-11-28": 4120,
-  "2022-11-29": 4128,
-  "2022-11-30": 4134,
-  "2022-12-01": 4139,
-  "2022-12-02": 4138,
-  "2022-12-03": 4154,
-  "2022-12-04": 4165,
-  "2022-12-05": 4172,
-  "2022-12-06": 4180,
-  "2022-12-07": 4183,
-  "2022-12-08": 4191,
-  "2022-12-09": 4192,
-  "2022-12-10": 4196,
-  "2022-12-11": 4203,
-  "2022-12-12": 4209,
-  "2022-12-13": 4209,
-  "2022-12-14": 4213,
-  "2022-12-15": 4219,
-  "2022-12-16": 4230,
-  "2022-12-17": 4236,
-  "2022-12-18": 4243,
-  "2022-12-19": 4248,
-  "2022-12-20": 4262,
-  "2022-12-21": 4262,
-  "2022-12-22": 4268,
-  "2022-12-24": 4275,
-  "2022-12-25": 4277,
-  "2022-12-26": 4283,
-  "2022-12-27": 4294,
-  "2022-12-28": 4311,
-  "2022-12-29": 4314,
-  "2022-12-30": 4320,
-  "2022-12-31": 4326,
-  "2023-01-01": 4334,
-  "2023-01-02": 4345,
-  "2023-01-03": 4349,
-  "2023-01-04": 4360,
-  "2023-01-05": 4363,
-  "2023-01-06": 4378,
-  "2023-01-07": 4388,
-  "2023-01-08": 4393,
-  "2023-01-09": 4405,
-  "2023-01-10": 4418,
-  "2023-01-11": 4438,
-  "2023-01-12": 4453,
-  "2023-01-13": 4457,
-  "2023-01-14": 4476,
-  "2023-01-15": 4482,
-  "2023-01-16": 4487,
-  "2023-01-17": 4503,
-  "2023-01-18": 4511,
-  "2023-01-19": 4529,
-  "2023-01-20": 4542,
-  "2023-01-21": 4548,
-  "2023-01-22": 4557,
-  "2023-01-23": 4566,
-  "2023-01-24": 4578,
-  "2023-01-25": 4583,
-  "2023-01-26": 4590,
-  "2023-01-27": 4595,
-  "2023-01-28": 4607,
-  "2023-01-29": 4619,
-  "2023-01-30": 4622,
-  "2023-01-31": 4622,
-  "2023-02-01": 4644,
-  "2023-02-02": 4655,
-  "2023-02-03": 4668,
-  "2023-02-04": 4678,
-  "2023-02-05": 4691,
-  "2023-02-06": 4702,
-  "2023-02-07": 4712,
-  "2023-02-08": 4730,
-  "2023-02-09": 4730,
-  "2023-02-10": 4742,
-  "2023-02-11": 4759,
-  "2023-02-12": 4783,
-  "2023-02-13": 4797,
-  "2023-02-14": 4797,
-  "2023-02-15": 4807,
-  "2023-02-16": 4824,
-  "2023-02-17": 4835,
-  "2023-02-18": 4859,
-  "2023-02-19": 4865,
-  "2023-02-20": 4871,
-  "2023-02-21": 4878,
-  "2023-02-22": 4891,
-  "2023-02-23": 4904,
-  "2023-02-24": 4916,
-  "2023-02-25": 4934,
-  "2023-02-26": 4934,
-  "2023-02-27": 4942,
-  "2023-02-28": 4942,
-  "2023-03-01": 4956,
-  "2023-03-02": 4959,
-  "2023-03-03": 4971,
-  "2023-03-04": 4983,
-  "2023-03-05": 5015,
-  "2023-03-06": 5015,
-  "2023-03-07": 5036,
-  "2023-03-08": 5047,
-  "2023-03-09": 5065,
-  "2023-03-10": 5076,
-  "2023-03-11": 5088,
-  "2023-03-12": 5092,
-  "2023-03-13": 5110,
-  "2023-03-14": 5125,
-  "2023-03-15": 5134,
-  "2023-03-16": 5148,
-  "2023-03-17": 5148,
-  "2023-03-18": 5167,
-  "2023-03-19": 5181,
-  "2023-03-20": 5219,
-  "2023-03-21": 5269,
-  "2023-03-22": 5291,
-  "2023-03-23": 5295,
-  "2023-03-24": 5295,
-  "2023-03-25": 5314,
-  "2023-03-26": 5328,
-  "2023-03-27": 5339,
-  "2023-03-28": 5355,
-  "2023-03-29": 5373,
-  "2023-03-30": 5389,
-  "2023-03-31": 5389,
-  "2023-04-01": 5405,
-  "2023-04-02": 5413,
-  "2023-04-03": 5421,
-  "2023-04-04": 5428,
-  "2023-04-05": 5434,
-  "2023-04-06": 5445,
-  "2023-04-07": 5452,
-  "2023-04-09": 5458,
-  "2023-04-10": 5465,
-  "2023-04-11": 5487,
-  "2023-04-12": 5487,
-  "2023-04-13": 5495,
-  "2023-04-14": 5505,
-  "2023-04-15": 5515,
-  "2023-04-16": 5518,
-  "2023-04-17": 5527,
-  "2023-04-18": 5531,
-  "2023-04-19": 5539,
-  "2023-04-20": 5544,
-  "2023-04-21": 5553,
-  "2023-04-22": 5560,
-  "2023-04-23": 5572,
-  "2023-04-24": 5579,
-  "2023-04-25": 5590,
-  "2023-04-26": 5598,
-  "2023-04-27": 5604,
-  "2023-04-28": 5614,
-  "2023-04-29": 5620,
-  "2023-04-30": 5629,
-  "2023-05-01": 5639,
-  "2023-05-02": 5648,
-  "2023-05-03": 5661,
-  "2023-05-04": 5670,
-  "2023-05-05": 5681,
-  "2023-05-06": 5686,
-  "2023-05-07": 5695,
-  "2023-05-08": 5700,
-  "2023-05-09": 5704,
-  "2023-05-10": 5706,
-  "2023-05-11": 5714,
-  "2023-05-12": 5717,
-  "2023-05-13": 5725,
-  "2023-05-14": 5734,
-  "2023-05-15": 5746,
-  "2023-05-16": 5753,
-  "2023-05-17": 5760,
-  "2023-05-18": 5769,
-  "2023-05-19": 5778,
-  "2023-05-20": 5793,
-  "2023-05-21": 5793,
-  "2023-05-22": 5793,
-  "2023-05-23": 5805,
-  "2023-05-24": 5817,
-  "2023-05-25": 5818,
-  "2023-05-26": 5826,
-  "2023-05-27": 5836,
-  "2023-05-28": 5838,
-  "2023-05-29": 5838,
-  "2023-05-30": 5858,
-  "2023-05-31": 5865,
-  "2023-06-01": 5877,
-  "2023-06-02": 5883,
-  "2023-06-03": 5893,
-  "2023-06-04": 5899,
-  "2023-06-05": 5915,
-  "2023-06-06": 5928,
-  "2023-06-07": 5936,
-  "2023-06-08": 5942,
-  "2023-06-09": 5940,
-  "2023-06-10": 5941,
-  "2023-06-11": 5947,
-  "2023-06-12": 5954,
-  "2023-06-13": 5963,
-  "2023-06-14": 5971,
-  "2023-06-15": 5981,
-  "2023-06-16": 5988,
-  "2023-06-17": 6001,
-  "2023-06-18": 6013,
-  "2023-06-19": 6029,
-  "2023-06-20": 6038,
-  "2023-06-21": 6049,
-  "2023-06-22": 6056,
-  "2023-06-23": 6066,
-  "2023-06-24": 6074,
-  "2023-06-25": 6084,
-  "2023-06-26": 6102,
-  "2023-06-27": 6110,
-  "2023-06-28": 6128,
-  "2023-06-29": 6140,
-  "2023-06-30": 6148,
-  "2023-07-01": 6163,
-  "2023-07-02": 6163,
-  "2023-07-03": 6170,
-  "2023-07-04": 6177,
-  "2023-07-05": 6183,
-  "2023-07-06": 6202,
-  "2023-07-07": 6202,
-  "2023-07-08": 6211,
-  "2023-07-09": 6215,
-  "2023-07-10": 6227,
-  "2023-07-11": 6238,
-  "2023-07-12": 6252,
-  "2023-07-13": 6257,
-  "2023-07-14": 6269,
-  "2023-07-15": 6268,
-  "2023-07-16": 6276,
-  "2023-07-17": 6288,
-  "2023-07-18": 6296,
-  "2023-07-19": 6303,
-  "2023-07-20": 6310,
-  "2023-07-21": 6318,
-  "2023-07-22": 6323,
-  "2023-07-23": 6336,
-  "2023-07-24": 6348,
-  "2023-07-25": 6356,
-  "2023-07-26": 6368,
-  "2023-07-27": 6378,
-  "2023-07-28": 6386,
-  "2023-07-29": 6395,
-  "2023-07-30": 6406,
-  "2023-07-31": 6411,
-  "2023-08-01": 6422,
-  "2023-08-02": 6430,
-  "2023-08-03": 6433,
-  "2023-08-04": 6444,
-  "2023-08-05": 6456,
-  "2023-08-06": 6481,
-  "2023-08-07": 6481,
-  "2023-08-08": 6489,
-  "2023-08-09": 6501,
-  "2023-08-10": 6513,
-  "2023-08-11": 6518,
-  "2023-08-12": 6528,
-  "2023-08-13": 6530,
-  "2023-08-14": 6543,
-  "2023-08-15": 6561,
-  "2023-08-16": 6561,
-  "2023-08-17": 6582,
-  "2023-08-18": 6594,
-  "2023-08-19": 6604,
-  "2023-08-20": 6617,
-  "2023-08-21": 6631,
-  "2023-08-22": 6644,
-  "2023-08-23": 6651,
-  "2023-08-24": 6660,
-  "2023-08-25": 6670,
-  "2023-08-26": 6677,
-  "2023-08-27": 6686,
-  "2023-08-28": 6696,
-  "2023-08-29": 6709,
-  "2023-08-30": 6718,
-  "2023-08-31": 6721,
-  "2023-09-01": 6735,
-  "2023-09-02": 6735,
-  "2023-09-03": 6741,
-  "2023-09-04": 6752,
-  "2023-09-05": 6760,
-  "2023-09-06": 6774,
-  "2023-09-07": 6786,
-  "2023-09-08": 6797,
-  "2023-09-09": 6801,
-  "2023-09-10": 6811,
-  "2023-09-11": 6814,
-  "2023-09-12": 6819,
-  "2023-09-13": 6830,
-  "2023-09-14": 6835,
-  "2023-09-15": 6840,
-  "2023-09-16": 6846,
-  "2023-09-17": 6851,
-  "2023-09-18": 6859,
-  "2023-09-19": 6866,
-  "2023-09-20": 6871,
-  "2023-09-21": 6887,
-  "2023-09-22": 6898,
-  "2023-09-23": 6904,
-  "2023-09-24": 6912,
-  "2023-09-25": 6917,
-  "2023-09-26": 6928,
-  "2023-09-27": 6933,
-  "2023-09-28": 6940,
-  "2023-09-29": 6951,
-  "2023-09-30": 6956,
-  "2023-10-01": 6964,
-  "2023-10-02": 6973,
-  "2023-10-03": 6977,
-  "2023-10-04": 6985,
-  "2023-10-05": 6990,
-  "2023-10-06": 6995,
-  "2023-10-07": 7003,
-  "2023-10-08": 7010,
-  "2023-10-09": 7022,
-  "2023-10-10": 7034,
-  "2023-10-11": 7049,
-  "2023-10-12": 7049,
-  "2023-10-13": 7054,
-  "2023-10-14": 7057,
-  "2023-10-15": 7065,
-  "2023-10-16": 7070,
-  "2023-10-17": 7079,
-  "2023-10-18": 7081,
-  "2023-10-19": 7087,
-  "2023-10-20": 7090,
-  "2023-10-21": 7097,
-  "2023-10-22": 7105,
-  "2023-10-23": 7113,
-  "2023-10-24": 7121,
-  "2023-10-25": 7126,
-  "2023-10-26": 7130,
-  "2023-10-27": 7133,
-  "2023-10-28": 7136,
-  "2023-10-29": 7144,
-  "2023-10-30": 7153,
-  "2023-10-31": 7153,
-  "2023-11-01": 7158,
-  "2023-11-02": 7165,
-  "2023-11-03": 7174,
-  "2023-11-04": 7184,
-  "2023-11-05": 7197,
-  "2023-11-06": 7201,
-  "2023-11-07": 7203,
-  "2023-11-08": 7210,
-  "2023-11-09": 7208,
-  "2023-11-10": 7219,
-  "2023-11-11": 7227,
-  "2023-11-12": 7231,
-  "2023-11-13": 7239,
-  "2023-11-14": 7242,
-  "2023-11-15": 7242,
-  "2023-11-16": 7257,
-  "2023-11-17": 7268,
-  "2023-11-18": 7268,
-  "2023-11-19": 7276,
-  "2023-11-20": 7282,
-  "2023-11-21": 7289,
-  "2023-11-22": 7306,
-  "2023-11-23": 7314,
-  "2023-11-24": 7326,
-  "2023-11-25": 7332,
-  "2023-11-26": 7337,
-  "2023-11-27": 7340,
-  "2023-11-28": 7343,
-  "2023-11-29": 7370,
-  "2023-11-30": 7370,
-  "2023-12-01": 7389,
-  "2023-12-02": 7393,
-  "2023-12-03": 7398,
-  "2023-12-04": 7403,
-  "2023-12-05": 7408,
-  "2023-12-06": 7414,
-  "2023-12-07": 7420,
-  "2023-12-08": 7429,
-  "2023-12-09": 7436,
-  "2023-12-10": 7442,
-  "2023-12-11": 7448,
-  "2023-12-12": 7460,
-  "2023-12-13": 7460,
-  "2023-12-14": 7460,
-  "2023-12-15": 7465,
-  "2023-12-16": 7468,
-  "2023-12-17": 7474,
-  "2023-12-18": 7487,
-  "2023-12-19": 7488,
-  "2023-12-20": 7490,
-  "2023-12-21": 7501,
-  "2023-12-22": 7501,
-  "2023-12-23": 7502,
-  "2023-12-24": 7506,
-  "2023-12-25": 7505,
-  "2023-12-26": 7509,
-  "2023-12-27": 7516,
-  "2023-12-30": 7534,
-  "2023-12-31": 7539,
-  "2024-01-01": 7542,
-  "2024-01-02": 7548,
-  "2024-01-03": 7556
+  "2024-01-17": 11376,
+  "date_first_scraped": "2022-04-19",
+  "description": "Lyrical lullabies for your bedtime routine.",
+  "name": "Lullabies for Little Ones",
+  "tracks": [
+    {
+      "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "10 Sleepy Pandas",
+      "url": "https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121276,
+      "name": "A Lullaby",
+      "url": "https://open.spotify.com/track/2BwG4cGfOyYx04OideYePS"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121276,
+      "name": "A Lullaby",
+      "url": "https://open.spotify.com/track/5WSQMNRrxyxVfUIosDVvQX"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105773,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/3kQyh3yEb2MEO7MQ3vXvJg"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105773,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/7dLIzZDsp5AWxWukgyw0Rj"
+    },
+    {
+      "album": {
+        "name": "Always Be My Baby",
+        "url": "https://open.spotify.com/album/5pjrFrxKA33xQWnj0UbfYp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        },
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Josh Ottum",
+          "url": "https://open.spotify.com/artist/0HuUZip4HsqYsjkq4qZ6NB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254306,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/2hVaNGGvdvvzRPCK9BUZmA"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111371,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY"
+    },
+    {
+      "album": {
+        "name": "Night Night!",
+        "url": "https://open.spotify.com/album/3lXJ5A9A9UO6YOFSNGypoc"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134120,
+      "name": "Beneath the Water",
+      "url": "https://open.spotify.com/track/2NB5Rqonen6SzYRBAa2H3u"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "album": {
+        "name": "Blue Clouds",
+        "url": "https://open.spotify.com/album/7eDeaYK9ywRt1sp83aMVE6"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Mitchell",
+          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Blue Clouds",
+      "url": "https://open.spotify.com/track/2mAaFZ1z2b1k5Ca8jFxcaH"
+    },
+    {
+      "album": {
+        "name": "Brahms Lullaby (Cradle Song)",
+        "url": "https://open.spotify.com/album/60Ugf0sCUQdKbKl4MdPxYe"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Liona Boyd",
+          "url": "https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144720,
+      "name": "Brahms Lullaby (Cradle Song)",
+      "url": "https://open.spotify.com/track/5iaobBgDcg2zPvhgXf0Z7g"
+    },
+    {
+      "album": {
+        "name": "Brahms Lullaby (Cradle Song)",
+        "url": "https://open.spotify.com/album/2PVV7ZVcEreUEb6VX2DOmJ"
+      },
+      "artists": [
+        {
+          "name": "Liona Boyd",
+          "url": "https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144720,
+      "name": "Brahms Lullaby (Cradle Song)",
+      "url": "https://open.spotify.com/track/1L0jC2agTADottddsXxQzB"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/6aDRCnCbuqY7NkerfUcyp7"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286773,
+      "name": "Brahms' lullaby",
+      "url": "https://open.spotify.com/track/40D6z3SPM1SdYVtqXfsgTh"
+    },
+    {
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
+    },
+    {
+      "album": {
+        "name": "Paseo Lunar",
+        "url": "https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Band",
+          "url": "https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/7J9ypEO9kgPoEUOkKpUoqs"
+    },
+    {
+      "album": {
+        "name": "A Child's World Of Lullabies-Multicultural Songs For Quiet Times",
+        "url": "https://open.spotify.com/album/49YLwPm7UlhCNUFLU1vgah"
+      },
+      "artists": [
+        {
+          "name": "Hap Palmer",
+          "url": "https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "Dormite Ninito",
+      "url": "https://open.spotify.com/track/3cjwj8u9bPYqQtS6MjhFzW"
+    },
+    {
+      "album": {
+        "name": "Sing Me to Sleep: Indie Lullabies",
+        "url": "https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6"
+      },
+      "artists": [
+        {
+          "name": "Dala",
+          "url": "https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/1Bcvf1B43yNT9liL8ajutf"
+    },
+    {
+      "album": {
+        "name": "Dream Sweetly",
+        "url": "https://open.spotify.com/album/548YLG0w2vC7tV3ZJ4bDsU"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Dream Sweetly",
+      "url": "https://open.spotify.com/track/3YfneEUM11WLG9v6rgS65e"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5JlaVgkkQ5YHrHEpxRfUrR"
+      },
+      "artists": [
+        {
+          "name": "The Tambourine Social",
+          "url": "https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/000LoWv5N8SDvgew8im38f"
+    },
+    {
+      "album": {
+        "name": "Colour the World",
+        "url": "https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225736,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/344BEyYv1Cl55zOBYI2HFI"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        },
+        {
+          "name": "Lullabies",
+          "url": "https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "Drops",
+      "url": "https://open.spotify.com/track/3CknObGZkPnOdBIhN83Bu2"
+    },
+    {
+      "album": {
+        "name": "Ebb and Flow (Ocean Lullaby)",
+        "url": "https://open.spotify.com/album/14mfqWUtcSxMBuGw73vAd9"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        },
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Ebb and Flow (Ocean Lullaby)",
+      "url": "https://open.spotify.com/track/6bh5m8X8f7hpYJKlChNuRn"
+    },
+    {
+      "album": {
+        "name": "songs for rosie",
+        "url": "https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56346,
+      "name": "edelweiss",
+      "url": "https://open.spotify.com/track/6oDe3eIQbq1v3VsBMp0uMk"
+    },
+    {
+      "album": {
+        "name": "Fairy Lullaby",
+        "url": "https://open.spotify.com/album/4c9inSElr1syCIGN4ud2to"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81387,
+      "name": "Fairy Lullaby",
+      "url": "https://open.spotify.com/track/1bdy457ogbnHdqwuusDWmv"
+    },
+    {
+      "album": {
+        "name": "Into The Unknown",
+        "url": "https://open.spotify.com/album/22Qyf2iquUXN1VPfa4dUpB"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barks",
+          "url": "https://open.spotify.com/artist/4gOl5m9dY7IGAipqpul7GZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/0yupWfe68gD7soULefeynB"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/44ykdYOrHhItqDovusBYwg"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182052,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/13N082Nr0OZMqjKXo3PXR7"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI"
+      },
+      "artists": [
+        {
+          "name": "Kath Bee",
+          "url": "https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 182052,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v"
+    },
+    {
+      "album": {
+        "name": "Go To Sleep",
+        "url": "https://open.spotify.com/album/3KC84qwDEw7VuGBV4Roibl"
+      },
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "url": "https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Annie Wiggins",
+          "url": "https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79701,
+      "name": "Go To Sleep",
+      "url": "https://open.spotify.com/track/0jvUB9ZhpQ8g7xA4mIanu7"
+    },
+    {
+      "album": {
+        "name": "Songs For Children, Vol. 2",
+        "url": "https://open.spotify.com/album/1xM7IU1K3OrgJrAGvs67Tc"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79626,
+      "name": "Go to Sleep My Teddy Bear",
+      "url": "https://open.spotify.com/track/2frrIhxZdD67NYk0bX4Uai"
+    },
+    {
+      "album": {
+        "name": "Golden Slumbers",
+        "url": "https://open.spotify.com/album/26HS7AIvR0Sb1smgYK98xt"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 135973,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/4wDjXh9DyUisZAZ7V2EVb7"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/4zSTcxSkj1SuHXoB0inmMj"
+    },
+    {
+      "album": {
+        "name": "Baby Songs & Lullabies",
+        "url": "https://open.spotify.com/album/0TmJVpPygubYNn8dMsmtsY"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/4dsDamCdYIyxQhKg5y7W39"
+    },
+    {
+      "album": {
+        "name": "Under the Pepper Tree",
+        "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228339,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/6XIVXKOjICtiAsbet18HND"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200373,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2xUJOHPTKldZ6RdgqVT7gf"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Animal Songs",
+        "url": "https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200373,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/5X10LCfLfYrFO2NPAWGCTL"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/7qrXQVznkh7TZmUorSMSPl"
+    },
+    {
+      "album": {
+        "name": "Paseo Lunar",
+        "url": "https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Band",
+          "url": "https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154440,
+      "name": "Goodnight My Love",
+      "url": "https://open.spotify.com/track/71t5FgLpawI7kauFCymGmq"
+    },
+    {
+      "album": {
+        "name": "Lullabies For Sleepy Eyes",
+        "url": "https://open.spotify.com/album/4ZeJtNKFVbY1esxG8lIFin"
+      },
+      "artists": [
+        {
+          "name": "Susie Tallman",
+          "url": "https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135480,
+      "name": "Goodnight To You All",
+      "url": "https://open.spotify.com/track/6v68TtxvJqThwIFHHVZfPZ"
+    },
+    {
+      "album": {
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby",
+        "url": "https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/1e7c8gV3mxz1s4J3l563h5"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby",
+        "url": "https://open.spotify.com/album/5iSMSI2TNOsDueioOVsavk"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152866,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/74CUuLDFnUP5Fb4lAZaPdf"
+    },
+    {
+      "album": {
+        "name": "Calming Lullabies",
+        "url": "https://open.spotify.com/album/5wcyqJKYGYqZL9n30E2BYp"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181546,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/2cgJ4loDbrQawzg3ug7IPX"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/63Kg240oKnWjsXlKLE7lzt"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/3AY9D4csUC3lUxmMntdGJw"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner Lullabies",
+        "url": "https://open.spotify.com/album/6Jb1nc24pVaLhOoLeKorAa"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        },
+        {
+          "name": "Brady Rymer",
+          "url": "https://open.spotify.com/artist/6Tw9CIKjWd3ysEK1eGsafx"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181546,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/2c9HKwi5n2z4n5queDX0AE"
+    },
+    {
+      "album": {
+        "name": "My Tiny Twilight",
+        "url": "https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 165343,
+      "name": "Hushabye",
+      "url": "https://open.spotify.com/track/2y1YF28BrCoTpKRmo3CxBV"
+    },
+    {
+      "album": {
+        "name": "My Tiny Twilight",
+        "url": "https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165343,
+      "name": "Hushabye",
+      "url": "https://open.spotify.com/track/59Q0iF2Jc2xpI8RENeVS2g"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Love",
+        "url": "https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR"
+      },
+      "artists": [
+        {
+          "name": "Renee & Jeremy",
+          "url": "https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5"
+        },
+        {
+          "name": "Renee Stahl",
+          "url": "https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ"
+        },
+        {
+          "name": "Jeremy Toback",
+          "url": "https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170264,
+      "name": "I Can See Clearly Now",
+      "url": "https://open.spotify.com/track/3e6JSJ8NtOzxbatXKnV6xh"
+    },
+    {
+      "album": {
+        "name": "Sweet Dream Lullabies",
+        "url": "https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107323,
+      "name": "I Can Sing a Rainbow",
+      "url": "https://open.spotify.com/track/4mNAzxoAuv4pCWEdgzCxVb"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Parents, Vol. 1",
+        "url": "https://open.spotify.com/album/3fgHiWJqP3SwbVWkStt1xg"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "I Will Carry You (Always Here for You)",
+      "url": "https://open.spotify.com/track/7jAxBhPJmRahOUGWD6YFop"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams: Lullabies & Bedtime Nursery Rhymes",
+        "url": "https://open.spotify.com/album/18AuP1JfaJY9N3DKGlIs50"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        },
+        {
+          "name": "Auntie Sally",
+          "url": "https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 254666,
+      "name": "I'll Be Dreaming of a Rainbow",
+      "url": "https://open.spotify.com/track/6X6VftEidoeZ65GyQOiffT"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams: Lullabies & Bedtime Nursery Rhymes",
+        "url": "https://open.spotify.com/album/16Tzm02NUQ0n0AagK8UIKM"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        },
+        {
+          "name": "Auntie Sally",
+          "url": "https://open.spotify.com/artist/5f6BpYOumkBvrQukhTeckc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254666,
+      "name": "I'll Be Dreaming of a Rainbow",
+      "url": "https://open.spotify.com/track/7CG6ENa49qllF3eix2ilF4"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163222,
+      "name": "If There Is A Song",
+      "url": "https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW"
+    },
+    {
+      "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168586,
+      "name": "If You Can't Sleep",
+      "url": "https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN"
+    },
+    {
+      "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168586,
+      "name": "If You Can't Sleep",
+      "url": "https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133480,
+      "name": "It's a New Day",
+      "url": "https://open.spotify.com/track/21AldKHuzpB5CNOLNPcrZt"
+    },
+    {
+      "album": {
+        "name": "It's Time to Go to Sleep",
+        "url": "https://open.spotify.com/album/32PC9aY7h3YQVdPagTiyVL"
+      },
+      "artists": [
+        {
+          "name": "Jenn Cleary",
+          "url": "https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "It's Time to Go to Sleep",
+      "url": "https://open.spotify.com/track/1ss4tJzutCvbAOJOtl8Hwd"
+    },
+    {
+      "album": {
+        "name": "From My Head to My Toes",
+        "url": "https://open.spotify.com/album/5GqrcPwPUPHuHGnmkBOaWA"
+      },
+      "artists": [
+        {
+          "name": "Music with Mandy",
+          "url": "https://open.spotify.com/artist/2FkQ1kvpxbGnnL3hIW0uJ2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106280,
+      "name": "It's You I Like",
+      "url": "https://open.spotify.com/track/6ajyjxQLGHg37GEmMDgzNo"
+    },
+    {
+      "album": {
+        "name": "songs for rosie",
+        "url": "https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73986,
+      "name": "just be",
+      "url": "https://open.spotify.com/track/0fsPJ6XJ34XJzzMwaz3xTy"
+    },
+    {
+      "album": {
+        "name": "Night Night!",
+        "url": "https://open.spotify.com/album/3lXJ5A9A9UO6YOFSNGypoc"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145266,
+      "name": "Just for You",
+      "url": "https://open.spotify.com/track/56tfCkVs0KJgF7qmGoc2oL"
+    },
+    {
+      "album": {
+        "name": "Littlefolk",
+        "url": "https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT"
+      },
+      "artists": [
+        {
+          "name": "Angie Who",
+          "url": "https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132430,
+      "name": "Land of Nod",
+      "url": "https://open.spotify.com/track/2JPHEhGQapKdUcLh80Pjvl"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161407,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7LZkMzyslPJIhDMGnBFPty"
+    },
+    {
+      "album": {
+        "name": "Littlefolk",
+        "url": "https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT"
+      },
+      "artists": [
+        {
+          "name": "Angie Who",
+          "url": "https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94582,
+      "name": "Lavender's Blue",
+      "url": "https://open.spotify.com/track/20sVIRIKo0vWNLpBuT614r"
+    },
+    {
+      "album": {
+        "name": "Little Beets",
+        "url": "https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET"
+      },
+      "artists": [
+        {
+          "name": "Levity Beet",
+          "url": "https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148874,
+      "name": "Little Wolf",
+      "url": "https://open.spotify.com/track/0kAiYfl3K5BwOkSkIzmagz"
+    },
+    {
+      "album": {
+        "name": "Little Wolf",
+        "url": "https://open.spotify.com/album/3YxqL2SOtXUZul9xFUJ5jr"
+      },
+      "artists": [
+        {
+          "name": "Levity Beet",
+          "url": "https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 148874,
+      "name": "Little Wolf",
+      "url": "https://open.spotify.com/track/734CJLcXhKp8jYtH9iiZJS"
+    },
+    {
+      "album": {
+        "name": "Taking The Long Way",
+        "url": "https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350712,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83"
+    },
+    {
+      "album": {
+        "name": "Little Wild Lullabies",
+        "url": "https://open.spotify.com/album/3P0s8jrqf4TSH4A3i9BRcw"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221696,
+      "name": "Lullaby Time",
+      "url": "https://open.spotify.com/track/20ygFVMqTk7iMTz6DfkcuC"
+    },
+    {
+      "album": {
+        "name": "Little Wild Lullabies",
+        "url": "https://open.spotify.com/album/1OCNGLYFe7hRnkprYd3wtS"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221696,
+      "name": "Lullaby Time",
+      "url": "https://open.spotify.com/track/3qzI1bsZGTumdSD52IHadr"
+    },
+    {
+      "album": {
+        "name": "Little Wild Lullabies",
+        "url": "https://open.spotify.com/album/7Jl8kmlsg97DncVuNp3UIm"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 221696,
+      "name": "Lullaby Time",
+      "url": "https://open.spotify.com/track/6Qbemk2ei6Cg0d9RnXAYcW"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208339,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2NZEJxIUnsP18o2aNzeuZW"
+    },
+    {
+      "album": {
+        "name": "Sing Me to Sleep: Indie Lullabies",
+        "url": "https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6"
+      },
+      "artists": [
+        {
+          "name": "Tanya Donelly",
+          "url": "https://open.spotify.com/artist/3T4EY2HthpDQceZWzgSar5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1WCH0gUqhNsiuxNdN6wyod"
+    },
+    {
+      "album": {
+        "name": "Moonbeams",
+        "url": "https://open.spotify.com/album/4wtdAEUKe2db0m0DPexbGE"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 209133,
+      "name": "Moonbeams",
+      "url": "https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "Moonbeams",
+      "url": "https://open.spotify.com/track/4UQWAEefrXffaaPyx1cT6y"
+    },
+    {
+      "album": {
+        "name": "Relaxing Music for Children",
+        "url": "https://open.spotify.com/album/4iZ1n5HfNcRgzgbKqrroso"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97777,
+      "name": "Obisana",
+      "url": "https://open.spotify.com/track/1VrdL8Jxz9sxH3XZkIyzRD"
+    },
+    {
+      "album": {
+        "name": "Alone In Iz World",
+        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/1Lcth0stK7A9Xl46Gknzc7"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        },
+        {
+          "name": "Lullabies",
+          "url": "https://open.spotify.com/artist/49Ig1fdepIMRJ5JUIr7Ppg"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Paper Boat",
+      "url": "https://open.spotify.com/track/6MwywkGKmWtYDtsHEtVnB4"
+    },
+    {
+      "album": {
+        "name": "Paseo Lunar",
+        "url": "https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Band",
+          "url": "https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Paseo Lunar",
+      "url": "https://open.spotify.com/track/1BjvW2l7mZHx5AFwSCXjZd"
+    },
+    {
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/20jFHindSeIz3oN7Siih7N"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188901,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/5oZ1P41Y1G4aKNNfKzrwpN"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/0dDdc2ugBXcZkO00xvR6wZ"
+    },
+    {
+      "album": {
+        "name": "Remember Who You Are (Acoustic)",
+        "url": "https://open.spotify.com/album/7Eixc2iVAQkvHF20e2Uwnc"
+      },
+      "artists": [
+        {
+          "name": "The One Who Sings",
+          "url": "https://open.spotify.com/artist/2q2MBrkkj7y8evCayJ15PG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Remember Who You Are - Live Acoustic",
+      "url": "https://open.spotify.com/track/4Uy7g9lQTe4nU8wvaKAoSI"
+    },
+    {
+      "album": {
+        "name": "Rise and Fall",
+        "url": "https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi"
+      },
+      "artists": [
+        {
+          "name": "Little Ripples",
+          "url": "https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334901,
+      "name": "Rise and Fall",
+      "url": "https://open.spotify.com/track/0OYxmXAaOipWo1dC4Osia7"
+    },
+    {
+      "album": {
+        "name": "Baby Lullaby Songs for Children",
+        "url": "https://open.spotify.com/album/31xFA4izVFsCED45vgzVGV"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77320,
+      "name": "Rock a Bye Baby",
+      "url": "https://open.spotify.com/track/2TTqXBSrWHMRACtARFmWyS"
+    },
+    {
+      "album": {
+        "name": "Rock-A-Bye Baby",
+        "url": "https://open.spotify.com/album/7Chtl8crvIMpP9vg5yvERL"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Lindsay Munroe",
+          "url": "https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139080,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/5yKFPvSHKaHpXZXOA58Ly0"
+    },
+    {
+      "album": {
+        "name": "Lullaby Themes For Sleepy Dreams",
+        "url": "https://open.spotify.com/album/5wCpEVK0y9immXvofTnMoH"
+      },
+      "artists": [
+        {
+          "name": "Susie Tallman",
+          "url": "https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7"
+        },
+        {
+          "name": "Merrie Amsterburg",
+          "url": "https://open.spotify.com/artist/5TH8HN45xZ81HdL4v0Jyii"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123893,
+      "name": "Rock-a-bye Baby",
+      "url": "https://open.spotify.com/track/6atm4olAOxKmRv8NDiOSOa"
+    },
+    {
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/5FbcUqv44TZnt8Ox6bzzZT"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/1J3w85cS3FEmoSKRu2dQJ8"
+    },
+    {
+      "album": {
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "album": {
+        "name": "Shadows Dance",
+        "url": "https://open.spotify.com/album/6M6hmHRilooUD1mkz6sWiu"
+      },
+      "artists": [
+        {
+          "name": "The Zing Zangs",
+          "url": "https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104986,
+      "name": "Shadows Dance",
+      "url": "https://open.spotify.com/track/4o3YurEnytlOsxxtMQ97fb"
+    },
+    {
+      "album": {
+        "name": "Songs for Peaceful Pandas, Vol. 2",
+        "url": "https://open.spotify.com/album/5TaNJtwnMN8XTpgxP3ioMs"
+      },
+      "artists": [
+        {
+          "name": "Kira Willey",
+          "url": "https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138293,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/0WUiaAtWa6rlvqQrh5LPV0"
+    },
+    {
+      "album": {
+        "name": "songs for rosie",
+        "url": "https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137080,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/0XIcnB5ioyvvc4VWZHrRsB"
+    },
+    {
+      "album": {
+        "name": "Christmas: The Collection (50 of the Greatest Original Xmas Hits)",
+        "url": "https://open.spotify.com/album/7bwBbFF8jfX6zqudzmxF2l"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1gjzrOrBfjv21A6Ol9GhcY"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby, Vol.2",
+        "url": "https://open.spotify.com/album/1cjgBwwG52o3cZQOyMcjZT"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175113,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/43Q4KALeZvDtLxH7GztgeK"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby, Vol. 2",
+        "url": "https://open.spotify.com/album/0jAoTfUdILoNxyxEuEZJpm"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175152,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/0RCaO2RKZSXsaDk8bpatpi"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/3Z9Q0CJg8PAN3WCQIFm7oa"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171320,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/0DFRrU92NWqLAzvbOsX9gH"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4NafQjETWnvxVOKIsOkysB"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 171320,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/2HuL7rUWFHEglIh7X7LeKK"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/6llW0Vf3YYuvnWC64o9cIB"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 171320,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/7jfoeT6J6bLHf6rgksNS6F"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 171320,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Love",
+        "url": "https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR"
+      },
+      "artists": [
+        {
+          "name": "Renee & Jeremy",
+          "url": "https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5"
+        },
+        {
+          "name": "Renee Stahl",
+          "url": "https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ"
+        },
+        {
+          "name": "Jeremy Toback",
+          "url": "https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200047,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs"
+    },
+    {
+      "album": {
+        "name": "Sweet Dream Lullabies",
+        "url": "https://open.spotify.com/album/1QfDDyXowHGlr3k65BvTYu"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95603,
+      "name": "Sweet Starlight",
+      "url": "https://open.spotify.com/track/7bDvZgHO5Td50ueLXcgh7j"
+    },
+    {
+      "album": {
+        "name": "Together We Shine, Vol. 1",
+        "url": "https://open.spotify.com/album/0OxB9BCnFjkUobw4Z1V6Y4"
+      },
+      "artists": [
+        {
+          "name": "Slumberkins",
+          "url": "https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi"
+        },
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166873,
+      "name": "Take A Deep Breath",
+      "url": "https://open.spotify.com/track/58IaCPTc9RebTlyBwjbBxb"
+    },
+    {
+      "album": {
+        "name": "The Goodnight Song",
+        "url": "https://open.spotify.com/album/2FINMH50M6gjbZ82Zuptp4"
+      },
+      "artists": [
+        {
+          "name": "Blake Wonders",
+          "url": "https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "The Goodnight Song",
+      "url": "https://open.spotify.com/track/4P2Na81VGRFOA9Gf7BykUX"
+    },
+    {
+      "album": {
+        "name": "It's a Big World",
+        "url": "https://open.spotify.com/album/0YvbQAofFp33MyqSF6bO9w"
+      },
+      "artists": [
+        {
+          "name": "Renee & Jeremy",
+          "url": "https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/3PmyRCChFNofwqZNd8spmM"
+    },
+    {
+      "album": {
+        "name": "songs for carmella: lullabies & sing-a-longs",
+        "url": "https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127613,
+      "name": "til there was you",
+      "url": "https://open.spotify.com/track/7fmVIBMLYiXRtTFOlxv90i"
+    },
+    {
+      "album": {
+        "name": "Lullabies For Sleeping",
+        "url": "https://open.spotify.com/album/1TucZ7QooKpncuPPObCqRB"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Too Ra Loo Ra - Calming, Soft Lullaby",
+      "url": "https://open.spotify.com/track/2WNkq2ZfausciEkhZTCKWa"
+    },
+    {
+      "album": {
+        "name": "Catch the Moon",
+        "url": "https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130880,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/1MznOtXyvkaNrWyeKs1rre"
+    },
+    {
+      "album": {
+        "name": "Catch the Moon",
+        "url": "https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 130880,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/4lrgWZJ9dgIiEHs5Xs0lFK"
+    },
+    {
+      "album": {
+        "name": "11 Nursery Rhymes and Songs",
+        "url": "https://open.spotify.com/album/2rdgJ7cbYy3zZQDqxlQ6oE"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 66120,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/0DglcPkQ6yRdTdZaIKXubl"
+    },
+    {
+      "album": {
+        "name": "11 Nursery Rhymes and Songs",
+        "url": "https://open.spotify.com/album/7w3Zc13sMNpB8LNEv8Km39"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66120,
+      "name": "Twinkle Twinkle Little Star",
+      "url": "https://open.spotify.com/track/4SSSrOH03iDsZHuexC1VIK"
+    },
+    {
+      "album": {
+        "name": "Relaxing Music for Children",
+        "url": "https://open.spotify.com/album/4iZ1n5HfNcRgzgbKqrroso"
+      },
+      "artists": [
+        {
+          "name": "Music House for Children",
+          "url": "https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR"
+        },
+        {
+          "name": "Emma Hutchinson",
+          "url": "https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140370,
+      "name": "Watch the Stars",
+      "url": "https://open.spotify.com/track/2N4u8eLwpAhTvJvmoQmG2Z"
+    },
+    {
+      "album": {
+        "name": "Busted Jukebox Volume 3",
+        "url": "https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/4JlWuaAEZss5M4nEGkSJXJ"
+    },
+    {
+      "album": {
+        "name": "Kiri and Lou Singalongsongs",
+        "url": "https://open.spotify.com/album/0d6wsRrnj100hjkM1LsBhI"
+      },
+      "artists": [
+        {
+          "name": "Kiri and Lou",
+          "url": "https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm"
+        },
+        {
+          "name": "Rima Te Wiata",
+          "url": "https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 136246,
+      "name": "Who Is Sleepy Now?",
+      "url": "https://open.spotify.com/track/1pMK2po6HUUw9qSCBkizso"
+    },
+    {
+      "album": {
+        "name": "Kiri and Lou Singalongsongs",
+        "url": "https://open.spotify.com/album/7t3ycH3UhcWwVgtEdnQn5P"
+      },
+      "artists": [
+        {
+          "name": "Kiri and Lou",
+          "url": "https://open.spotify.com/artist/07SlK23lxMoyC85csoEmZm"
+        },
+        {
+          "name": "Rima Te Wiata",
+          "url": "https://open.spotify.com/artist/12oMciQkQAsq9QppsBGr8b"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136246,
+      "name": "Who Is Sleepy Now?",
+      "url": "https://open.spotify.com/track/7L7bTMEXxXxgOzX8nJmLbk"
+    },
+    {
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA"
+      },
+      "artists": [
+        {
+          "name": "Anna Elizabeth Laube",
+          "url": "https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm"
+    },
+    {
+      "album": {
+        "name": "McKnighttime Lullabies",
+        "url": "https://open.spotify.com/album/1sh3Rg2dugulwHxl98WTC6"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178266,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho"
+    },
+    {
+      "album": {
+        "name": "songs for carmella: lullabies & sing-a-longs",
+        "url": "https://open.spotify.com/album/3xl0OvcSlc9Mwe5ToaFtD3"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82200,
+      "name": "you are my sunshine",
+      "url": "https://open.spotify.com/track/4cNpO3kF8rqcH8G3huFCJp"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby",
+        "url": "https://open.spotify.com/album/49k5jl8u2iuxMU4iyczJ9M"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136048,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/0tIwgdXaGSp9rYvjVNAoP7"
+    },
+    {
+      "album": {
+        "name": "Lullaby Baby",
+        "url": "https://open.spotify.com/album/5iSMSI2TNOsDueioOVsavk"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136048,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2eP2kKhFaTBWjnoi7LxLUm"
+    },
+    {
+      "album": {
+        "name": "Sleep Baby Lullabies",
+        "url": "https://open.spotify.com/album/3zd4FY7D8AZGLM3SG8AUde"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes 123",
+          "url": "https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 136048,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2qKHqkqAY9OvzxuT3hoopH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3yw5kZsheMK"
 }

@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 308116,
       "name": "Chica Rutera",
       "url": "https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 254653,
       "name": "Dime Si - remix",
       "url": "https://open.spotify.com/track/0loFeCW1BOS6hclCR34I84"
@@ -1180,6 +1180,24 @@
       "duration_ms": 340856,
       "name": "Drowned",
       "url": "https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "album": {
@@ -3420,7 +3438,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 160519,
       "name": "perfecta",
       "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 255200,
       "name": "Todo Se Est\u00e1 Cayendo",
       "url": "https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8"
@@ -4554,7 +4572,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 224119,
       "name": "Vengas Conmigo",
       "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 137261,
       "name": "V\u00f3mito",
       "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"

@@ -1,238 +1,1805 @@
 {
-  "2023-05-11": 18645,
-  "2023-05-12": 18655,
-  "2023-05-13": 18668,
-  "2023-05-14": 18679,
-  "2023-05-15": 18696,
-  "2023-05-16": 18713,
-  "2023-05-17": 18722,
-  "2023-05-18": 18735,
-  "2023-05-19": 18751,
-  "2023-05-20": 18780,
-  "2023-05-21": 18780,
-  "2023-05-22": 18780,
-  "2023-05-23": 18788,
-  "2023-05-24": 18802,
-  "2023-05-25": 18809,
-  "2023-05-26": 18817,
-  "2023-05-27": 18836,
-  "2023-05-28": 18842,
-  "2023-05-29": 18842,
-  "2023-05-30": 18858,
-  "2023-05-31": 18875,
-  "2023-06-01": 18897,
-  "2023-06-02": 18905,
-  "2023-06-03": 18922,
-  "2023-06-04": 18935,
-  "2023-06-05": 18947,
-  "2023-06-06": 18962,
-  "2023-06-07": 18978,
-  "2023-06-08": 18986,
-  "2023-06-09": 19003,
-  "2023-06-10": 19018,
-  "2023-06-11": 19024,
-  "2023-06-12": 19030,
-  "2023-06-13": 19035,
-  "2023-06-14": 19047,
-  "2023-06-15": 19056,
-  "2023-06-16": 19061,
-  "2023-06-17": 19076,
-  "2023-06-18": 19086,
-  "2023-06-19": 19100,
-  "2023-06-20": 19105,
-  "2023-06-21": 19111,
-  "2023-06-22": 19117,
-  "2023-06-23": 19133,
-  "2023-06-24": 19141,
-  "2023-06-25": 19151,
-  "2023-06-26": 19164,
-  "2023-06-27": 19180,
-  "2023-06-28": 19195,
-  "2023-06-29": 19207,
-  "2023-06-30": 19217,
-  "2023-07-01": 19230,
-  "2023-07-02": 19230,
-  "2023-07-03": 19234,
-  "2023-07-04": 19238,
-  "2023-07-05": 19247,
-  "2023-07-06": 19260,
-  "2023-07-07": 19260,
-  "2023-07-08": 19273,
-  "2023-07-09": 19278,
-  "2023-07-10": 19289,
-  "2023-07-11": 19307,
-  "2023-07-12": 19316,
-  "2023-07-13": 19338,
-  "2023-07-14": 19351,
-  "2023-07-15": 19364,
-  "2023-07-16": 19386,
-  "2023-07-17": 19398,
-  "2023-07-18": 19404,
-  "2023-07-19": 19420,
-  "2023-07-20": 19427,
-  "2023-07-21": 19431,
-  "2023-07-22": 19442,
-  "2023-07-23": 19457,
-  "2023-07-24": 19472,
-  "2023-07-25": 19485,
-  "2023-07-26": 19493,
-  "2023-07-27": 19512,
-  "2023-07-28": 19532,
-  "2023-07-29": 19547,
-  "2023-07-30": 19563,
-  "2023-07-31": 19573,
-  "2023-08-01": 19589,
-  "2023-08-02": 19599,
-  "2023-08-03": 19606,
-  "2023-08-04": 19624,
-  "2023-08-05": 19635,
-  "2023-08-06": 19677,
-  "2023-08-07": 19677,
-  "2023-08-08": 19693,
-  "2023-08-09": 19709,
-  "2023-08-10": 19731,
-  "2023-08-11": 19738,
-  "2023-08-12": 19747,
-  "2023-08-13": 19762,
-  "2023-08-14": 19781,
-  "2023-08-15": 19800,
-  "2023-08-16": 19800,
-  "2023-08-17": 19812,
-  "2023-08-18": 19821,
-  "2023-08-19": 19829,
-  "2023-08-20": 19832,
-  "2023-08-21": 19841,
-  "2023-08-22": 19858,
-  "2023-08-23": 19872,
-  "2023-08-24": 19887,
-  "2023-08-25": 19898,
-  "2023-08-26": 19910,
-  "2023-08-27": 19917,
-  "2023-08-28": 19934,
-  "2023-08-29": 19944,
-  "2023-08-30": 19959,
-  "2023-08-31": 19966,
-  "2023-09-01": 19985,
-  "2023-09-02": 19985,
-  "2023-09-03": 19988,
-  "2023-09-04": 19994,
-  "2023-09-05": 19999,
-  "2023-09-06": 20002,
-  "2023-09-07": 20015,
-  "2023-09-08": 20025,
-  "2023-09-09": 20040,
-  "2023-09-10": 20055,
-  "2023-09-11": 20065,
-  "2023-09-12": 20075,
-  "2023-09-13": 20088,
-  "2023-09-14": 20095,
-  "2023-09-15": 20102,
-  "2023-09-16": 20112,
-  "2023-09-17": 20122,
-  "2023-09-18": 20136,
-  "2023-09-19": 20144,
-  "2023-09-20": 20153,
-  "2023-09-21": 20171,
-  "2023-09-22": 20180,
-  "2023-09-23": 20188,
-  "2023-09-24": 20202,
-  "2023-09-25": 20215,
-  "2023-09-26": 20222,
-  "2023-09-27": 20229,
-  "2023-09-28": 20233,
-  "2023-09-29": 20249,
-  "2023-09-30": 20258,
-  "2023-10-01": 20259,
-  "2023-10-02": 20271,
-  "2023-10-03": 20285,
-  "2023-10-04": 20291,
-  "2023-10-05": 20300,
-  "2023-10-06": 20307,
-  "2023-10-07": 20312,
-  "2023-10-08": 20321,
-  "2023-10-09": 20328,
-  "2023-10-10": 20327,
-  "2023-10-11": 20341,
-  "2023-10-12": 20341,
-  "2023-10-13": 20340,
-  "2023-10-14": 20346,
-  "2023-10-15": 20358,
-  "2023-10-16": 20359,
-  "2023-10-17": 20365,
-  "2023-10-18": 20367,
-  "2023-10-19": 20377,
-  "2023-10-20": 20380,
-  "2023-10-21": 20388,
-  "2023-10-22": 20402,
-  "2023-10-23": 20416,
-  "2023-10-24": 20432,
-  "2023-10-25": 20442,
-  "2023-10-26": 20457,
-  "2023-10-27": 20468,
-  "2023-10-28": 20477,
-  "2023-10-29": 20488,
-  "2023-10-30": 20509,
-  "2023-10-31": 20509,
-  "2023-11-01": 20519,
-  "2023-11-02": 20523,
-  "2023-11-03": 20535,
-  "2023-11-04": 20542,
-  "2023-11-05": 20555,
-  "2023-11-06": 20566,
-  "2023-11-07": 20583,
-  "2023-11-08": 20595,
-  "2023-11-09": 20610,
-  "2023-11-10": 20618,
-  "2023-11-11": 20625,
-  "2023-11-12": 20638,
-  "2023-11-13": 20652,
-  "2023-11-14": 20657,
-  "2023-11-15": 20657,
-  "2023-11-16": 20685,
-  "2023-11-17": 20710,
-  "2023-11-18": 20710,
-  "2023-11-19": 20719,
-  "2023-11-20": 20725,
-  "2023-11-21": 20739,
-  "2023-11-22": 20743,
-  "2023-11-23": 20757,
-  "2023-11-24": 20766,
-  "2023-11-25": 20776,
-  "2023-11-26": 20784,
-  "2023-11-27": 20793,
-  "2023-11-28": 20808,
-  "2023-11-29": 20830,
-  "2023-11-30": 20830,
-  "2023-12-01": 20843,
-  "2023-12-02": 20857,
-  "2023-12-03": 20865,
-  "2023-12-04": 20877,
-  "2023-12-05": 20884,
-  "2023-12-06": 20893,
-  "2023-12-07": 20901,
-  "2023-12-08": 20912,
-  "2023-12-09": 20928,
-  "2023-12-10": 20936,
-  "2023-12-11": 20944,
-  "2023-12-12": 20956,
-  "2023-12-13": 20967,
-  "2023-12-14": 20990,
-  "2023-12-15": 21001,
-  "2023-12-16": 21011,
-  "2023-12-17": 21025,
-  "2023-12-18": 21041,
-  "2023-12-19": 21048,
-  "2023-12-20": 21060,
-  "2023-12-21": 21071,
-  "2023-12-22": 21083,
-  "2023-12-23": 21093,
-  "2023-12-24": 21115,
-  "2023-12-25": 21134,
-  "2023-12-26": 21139,
-  "2023-12-27": 21151,
-  "2023-12-30": 21185,
-  "2023-12-31": 21200,
-  "2024-01-01": 21216,
-  "2024-01-02": 21232,
-  "2024-01-03": 21248
+  "2024-01-17": 21456,
+  "date_first_scraped": "2023-05-11",
+  "description": "Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.",
+  "name": "This Is Yuna",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "(Not) The Love Of My Life",
+      "url": "https://open.spotify.com/track/5ACPHH68L8NG0kXSZP7Un0"
+    },
+    {
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175900,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/0ujDmkO6xZwv2cHbKJEaAT"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/58RTRxdJg6JHyq83zUhgAN"
+    },
+    {
+      "album": {
+        "name": "ANGRY HEARTS",
+        "url": "https://open.spotify.com/album/3H9mOpsztHarggXBOaNTsB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202838,
+      "name": "ANGRY HEARTS",
+      "url": "https://open.spotify.com/track/78ZSpNggaGhHY1HdcjGJr4"
+    },
+    {
+      "album": {
+        "name": "Masih Yuna",
+        "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Asing",
+      "url": "https://open.spotify.com/track/5R8ZfnGDbXOdoGtrJSIdsK"
+    },
+    {
+      "album": {
+        "name": "Baby Boy (feat. Yuna)",
+        "url": "https://open.spotify.com/album/52WULnV3arSE5JwhAhe3XV"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Baby Boy (feat. Yuna)",
+      "url": "https://open.spotify.com/track/2iQNtCDgx4oEhUBo8c5df4"
+    },
+    {
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/6woTomg4IThua1tXT9bsVx"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143731,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0d7Z3ZMcCXP25EidWPC0Sf"
+    },
+    {
+      "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161884,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Best Love",
+      "url": "https://open.spotify.com/track/42ZTvtzDTTwq5J74RaZKUJ"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233746,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/7F0K8l8zL5ci567eovodtD"
+    },
+    {
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/67SECQMJ3wC0VislGuQDA0"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232613,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/4baFSFLNit6bSF4tAt6NGS"
+    },
+    {
+      "album": {
+        "name": "Bicara",
+        "url": "https://open.spotify.com/album/6ufoegReK29yTjs90kUycb"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219271,
+      "name": "Bicara",
+      "url": "https://open.spotify.com/track/7twGTbiq9QAlXwrqQR8aHE"
+    },
+    {
+      "album": {
+        "name": "Blank Marquee",
+        "url": "https://open.spotify.com/album/5d2TPnMOde0tUIfzDZwAcr"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "Blank Marquee",
+      "url": "https://open.spotify.com/track/4Ipmi2u1eQ45RaYk4Rl512"
+    },
+    {
+      "album": {
+        "name": "Masih Yuna",
+        "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199701,
+      "name": "Camaraderie",
+      "url": "https://open.spotify.com/track/4ifkFslxRF6O8n5BkQA3CJ"
+    },
+    {
+      "album": {
+        "name": "Y5",
+        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216603,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+    },
+    {
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218203,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2hi0n0WV9VwJRa1tcZwFDR"
+    },
+    {
+      "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6OVTzggJbGZRNJj7gjj0It"
+    },
+    {
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/111V69LdYDmj8FVteHKMUo"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/48Egr6zPIlUDMflxQzg4uM"
+    },
+    {
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/0Zm9ipBEwWxHcmZYz68iJA"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0ObxUuZOX5GOliEfhGeV6b"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc"
+    },
+    {
+      "album": {
+        "name": "Battle",
+        "url": "https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/2rK1Db8xEtfnabBB8tLpEt"
+    },
+    {
+      "album": {
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Decorate",
+      "url": "https://open.spotify.com/track/7mQn2FH0hM9gYIp39vyoi1"
+    },
+    {
+      "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257191,
+      "name": "Deeper Conversation",
+      "url": "https://open.spotify.com/track/0uJrYwDIKZgHLtCY3z36Dj"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "album": {
+        "name": "Don't Blame It On Love",
+        "url": "https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197541,
+      "name": "Don't Blame It On Love",
+      "url": "https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW"
+    },
+    {
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/2BgaLvetf63G4VdXOUxZ4R"
+    },
+    {
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151244,
+      "name": "Empty Room - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2g5u6IsOCEuwMBoQcP07wG"
+    },
+    {
+      "album": {
+        "name": "Y5",
+        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1UVOIeEqSQi2SJA03lWW9i"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Fading Flower",
+      "url": "https://open.spotify.com/track/7tEYqT5yrhltSKDCdAnEsi"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1BwXRI7LNEOwGFp3SgNxbd"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Favourite Thing",
+      "url": "https://open.spotify.com/track/7vzwp2cxXQQAb5TUvod05n"
+    },
+    {
+      "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274553,
+      "name": "Fears And Frustrations",
+      "url": "https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN"
+    },
+    {
+      "album": {
+        "name": "Shoffy",
+        "url": "https://open.spotify.com/album/102J7QdW6oFSUlQcWmJZ3E"
+      },
+      "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208744,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/3J9vgqmKhQmC7GFwGrA2ik"
+    },
+    {
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+    },
+    {
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/1xyfMKTdotUdGmnC5B5lUD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233946,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/0ZOkSl1fZHaDYmgSKBDOyB"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Forget About You",
+      "url": "https://open.spotify.com/track/4Z6rzupjLzFdjR489LBqwj"
+    },
+    {
+      "album": {
+        "name": "P. Ramlee : Satu Indiepretasi",
+        "url": "https://open.spotify.com/album/3n3dlojrdjl8clhx3dT5lH"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160947,
+      "name": "Gelora Jiwa",
+      "url": "https://open.spotify.com/track/5L6GF1QgRVb7Ox1aTFdQ7B"
+    },
+    {
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Girl U Used 2 Know",
+      "url": "https://open.spotify.com/track/20CL5Ad8EQ5uIHLYZI6aZa"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ"
+    },
+    {
+      "album": {
+        "name": "Calling All Heroes",
+        "url": "https://open.spotify.com/album/3Wi7Mwc31hrN7WZCxKM9Ke"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257044,
+      "name": "Gold (feat. Yuna)",
+      "url": "https://open.spotify.com/track/31cX56mMJcLXaTJljNxsu7"
+    },
+    {
+      "album": {
+        "name": "Calling All Heroes",
+        "url": "https://open.spotify.com/album/1gLPm1bWZFHv6ORBbEmQPM"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 257044,
+      "name": "Gold (feat. Yuna)",
+      "url": "https://open.spotify.com/track/3wjen23Xb9H1kU4V50QyiZ"
+    },
+    {
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146867,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1Kob3GjOFd7jvgf3CV97i4"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/0Ss4J4QHCkl0btHF5j9xvI"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/6arq2bSoU7HJQZjk1IRz9U"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228648,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/1OerJEsQx82DtYL2VoZXUp"
+    },
+    {
+      "album": {
+        "name": "Y5",
+        "url": "https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Kiss The Moon",
+      "url": "https://open.spotify.com/track/3m72DbCsyauAyLGBG1SkT5"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "Lanes",
+      "url": "https://open.spotify.com/track/2IQyAo7BKgYGOL9SYaXdw3"
+    },
+    {
+      "album": {
+        "name": "Langit (Single)",
+        "url": "https://open.spotify.com/album/4iBiPGE1fOxJ3lAGtTld8x"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Langit",
+      "url": "https://open.spotify.com/track/6znALQgiLf17IIfCsRDkxy"
+    },
+    {
+      "album": {
+        "name": "Lautan",
+        "url": "https://open.spotify.com/album/0rTLWi37ESBVwKI2qwhQbF"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272378,
+      "name": "Lautan",
+      "url": "https://open.spotify.com/track/5Ggl1nIAbq8DhsfZAkwx7L"
+    },
+    {
+      "album": {
+        "name": "Material (Yuna)",
+        "url": "https://open.spotify.com/album/22MgQWfRDQSqZhPZONVjVJ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241565,
+      "name": "Lelaki (Remaster 2015)",
+      "url": "https://open.spotify.com/track/0lhAdSoAgXjHHGJhoatDXO"
+    },
+    {
+      "album": {
+        "name": "Sixth Street EP",
+        "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Let Love Come Through",
+      "url": "https://open.spotify.com/track/52mRPy2g9SmQoqu9pOHkqm"
+    },
+    {
+      "album": {
+        "name": "Lights And Camera",
+        "url": "https://open.spotify.com/album/7wA4RVDhJ7rcscmbzhrD1J"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228447,
+      "name": "Lights And Camera",
+      "url": "https://open.spotify.com/track/4USgaSv1DqJby1iW6wVpeH"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Likes",
+      "url": "https://open.spotify.com/track/4KXAulHeLjKCVoHrCAMdto"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193346,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/298GtxeVHZbbotHS1e3vxO"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Lovely Intermission",
+      "url": "https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/7D2toenyHJ9NaVFRgY5get"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252953,
+      "name": "Lullabies - Adventure Club Remix",
+      "url": "https://open.spotify.com/track/3RJuptH9QoeJWzHd4ZCI0u"
+    },
+    {
+      "album": {
+        "name": "Y2",
+        "url": "https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
+    },
+    {
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193900,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1DbxaS3eXoPKyuozdx2K4U"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215346,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/7wCUtxSlTy1oJQYHgO4fHU"
+    },
+    {
+      "album": {
+        "name": "Masih Yuna",
+        "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Masih Sunyi",
+      "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
+    },
+    {
+      "album": {
+        "name": "Menanti",
+        "url": "https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Menanti",
+      "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/44PPBr9Erm49p5VxHKTnDx"
+    },
+    {
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3iMJbAaMEEAuq6IyTffTz8"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200362,
+      "name": "No Different (Feat. Yuna)",
+      "url": "https://open.spotify.com/track/5aChZc5uCUTB3UTfOZv1Wn"
+    },
+    {
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240840,
+      "name": "Pink Youth",
+      "url": "https://open.spotify.com/track/6XhnayiqvBCpmzTvbb0bMr"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Places To Go",
+      "url": "https://open.spotify.com/track/0EgpgnzlNHZJMkU6Te9gx9"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "Poor Heart",
+      "url": "https://open.spotify.com/track/5f6SnXCbbdgRMdJ5w5BlHH"
+    },
+    {
+      "album": {
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/74CtUACIorbi85uLiLXv14"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201219,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/2FlD3k6jV8ylgvh1ocMHmB"
+    },
+    {
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208187,
+      "name": "Relax Your Mind",
+      "url": "https://open.spotify.com/track/0PYda6TzmdxYdy1qupkgj6"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7v9Z565IlQCbjF2rgrMwWN"
+    },
+    {
+      "album": {
+        "name": "Sixth Street EP",
+        "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Right Again",
+      "url": "https://open.spotify.com/track/0bAVgtlPYLBJZsRf8sI9jO"
+    },
+    {
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "album": {
+        "name": "The Croods (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "Shine Your Way",
+      "url": "https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t"
+    },
+    {
+      "album": {
+        "name": "So Right (feat. Yuna)",
+        "url": "https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "So Right (feat. Yuna)",
+      "url": "https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj"
+    },
+    {
+      "album": {
+        "name": "Decorate",
+        "url": "https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180582,
+      "name": "Someone Out Of Town",
+      "url": "https://open.spotify.com/track/5arSLsu32pb7Kr8oNPydH7"
+    },
+    {
+      "album": {
+        "name": "Nocturnal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Someone Who Can",
+      "url": "https://open.spotify.com/track/3njmCkSeyIwe6rNjxL27tM"
+    },
+    {
+      "album": {
+        "name": "Stay Where You Are",
+        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209205,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
+    },
+    {
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182368,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/2w51uNsOAFZWlyklAcZspM"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245773,
+      "name": "Sunset (feat. Yuna Zarai)",
+      "url": "https://open.spotify.com/track/0yIUV22RiuBmcdPQHIFNsX"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "MIYAVI",
+          "url": "https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "Teenage Heartbreak",
+      "url": "https://open.spotify.com/track/1dQ6fXJvfnqMWeZBXHquGI"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164813,
+      "name": "Tiada Akhir",
+      "url": "https://open.spotify.com/track/15Hc18rqD3gSMqDJpJBk6V"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4u4hQml1aNk0wQUhQzijNr"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/6M1VZfBisoKZDCzBIoGpFk"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/6gUQcNP5JKqs4fKCZVzHDg"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/20A2K6ZbdhIORwhL2Wnmt7"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/7EMR7wcOHzK7qdyRPnqRMm"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Used To Love You",
+      "url": "https://open.spotify.com/track/7nOtXCM1w97j4KeBRH2rPj"
+    },
+    {
+      "album": {
+        "name": "Sixth Street EP",
+        "url": "https://open.spotify.com/album/2bhurBsj5WhPEiptH0HXt0"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/4gm6Wt1RPjxUObbW4RJk5m"
+    },
+    {
+      "album": {
+        "name": "Chapters (Deluxe)",
+        "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52FKgcBw9YcVVguoqiDFEq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZqOoX6ompfy"
 }

@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Have I Told You Lately",
+        "url": "https://open.spotify.com/album/1AA75iErptW1VsXWGNvVS8"
+      },
+      "artists": [
+        {
+          "name": "Ned Michaels",
+          "url": "https://open.spotify.com/artist/2WPWA7qliZnR3cxRZYiv1v"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/7giDF8my2xaJIbyc7aWZhh"
+    },
+    {
+      "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/25SXr9Z24oTBxdcIksPefu"
       },
@@ -3836,6 +3854,24 @@
       "duration_ms": 149804,
       "name": "The Long And Winding Road",
       "url": "https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn"
+    },
+    {
+      "album": {
+        "name": "The Path of the Wind",
+        "url": "https://open.spotify.com/album/0WCAk84CLdkrJTCc77pESJ"
+      },
+      "artists": [
+        {
+          "name": "Moldoni",
+          "url": "https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102306,
+      "name": "The Path of the Wind",
+      "url": "https://open.spotify.com/track/12Ij9SbpofEHe5uOjYrjJo"
     },
     {
       "album": {

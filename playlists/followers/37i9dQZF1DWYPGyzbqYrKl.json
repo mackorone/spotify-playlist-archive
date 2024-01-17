@@ -1,97 +1,1949 @@
 {
-  "2023-09-29": 1166,
-  "2023-09-30": 1167,
-  "2023-10-01": 1167,
-  "2023-10-02": 1167,
-  "2023-10-03": 1168,
-  "2023-10-04": 1169,
-  "2023-10-05": 1171,
-  "2023-10-06": 1174,
-  "2023-10-07": 1175,
-  "2023-10-08": 1175,
-  "2023-10-09": 1175,
-  "2023-10-10": 1174,
-  "2023-10-11": 1177,
-  "2023-10-12": 1177,
-  "2023-10-13": 1178,
-  "2023-10-14": 1179,
-  "2023-10-15": 1178,
-  "2023-10-16": 1184,
-  "2023-10-17": 1186,
-  "2023-10-18": 1188,
-  "2023-10-19": 1187,
-  "2023-10-20": 1189,
-  "2023-10-21": 1189,
-  "2023-10-22": 1191,
-  "2023-10-23": 1193,
-  "2023-10-24": 1193,
-  "2023-10-25": 1192,
-  "2023-10-26": 1195,
-  "2023-10-27": 1196,
-  "2023-10-28": 1195,
-  "2023-10-29": 1196,
-  "2023-10-30": 1198,
-  "2023-10-31": 1198,
-  "2023-11-01": 1202,
-  "2023-11-02": 1202,
-  "2023-11-03": 1204,
-  "2023-11-04": 1205,
-  "2023-11-05": 1205,
-  "2023-11-06": 1203,
-  "2023-11-07": 1203,
-  "2023-11-08": 1205,
-  "2023-11-09": 1208,
-  "2023-11-10": 1209,
-  "2023-11-11": 1212,
-  "2023-11-12": 1214,
-  "2023-11-13": 1215,
-  "2023-11-14": 1214,
-  "2023-11-15": 1214,
-  "2023-11-16": 1221,
-  "2023-11-17": 1222,
-  "2023-11-18": 1222,
-  "2023-11-19": 1222,
-  "2023-11-20": 1224,
-  "2023-11-21": 1224,
-  "2023-11-22": 1224,
-  "2023-11-23": 1223,
-  "2023-11-24": 1223,
-  "2023-11-25": 1225,
-  "2023-11-26": 1224,
-  "2023-11-27": 1224,
-  "2023-11-28": 1225,
-  "2023-11-29": 1227,
-  "2023-11-30": 1227,
-  "2023-12-01": 1226,
-  "2023-12-02": 1226,
-  "2023-12-03": 1225,
-  "2023-12-04": 1229,
-  "2023-12-05": 1231,
-  "2023-12-06": 1232,
-  "2023-12-07": 1232,
-  "2023-12-08": 1232,
-  "2023-12-09": 1232,
-  "2023-12-10": 1232,
-  "2023-12-11": 1234,
-  "2023-12-12": 1233,
-  "2023-12-13": 1233,
-  "2023-12-14": 1234,
-  "2023-12-15": 1235,
-  "2023-12-16": 1236,
-  "2023-12-17": 1238,
-  "2023-12-18": 1240,
-  "2023-12-19": 1240,
-  "2023-12-20": 1240,
-  "2023-12-21": 1239,
-  "2023-12-22": 1239,
-  "2023-12-23": 1238,
-  "2023-12-24": 1238,
-  "2023-12-25": 1238,
-  "2023-12-26": 1238,
-  "2023-12-27": 1238,
-  "2023-12-30": 1238,
-  "2023-12-31": 1238,
-  "2024-01-01": 1238,
-  "2024-01-02": 1238,
-  "2024-01-03": 1239
+  "2024-01-17": 1250,
+  "date_first_scraped": "2023-09-29",
+  "description": "De la savane \u00e0 la toundra, des steppes aux rizi\u00e8res, 100 berceuses pour faire le tour du monde",
+  "name": "Berceuses du monde",
+  "tracks": [
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129746,
+      "name": "A Canoa Virou",
+      "url": "https://open.spotify.com/track/1ScYK7ufhBiep1J27KS9YV"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71293,
+      "name": "A Moda Da Rita - L'air Que Rita Chantait",
+      "url": "https://open.spotify.com/track/0rrQmgl9UImU1gkn7x4FPj"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Souleymane Mbodj",
+          "url": "https://open.spotify.com/artist/0MI1M3APMr26QwCFJowll5"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Aayaa yimb\u00e9y",
+      "url": "https://open.spotify.com/track/5NHDGqAHsv7cPJcDNNiKI8"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Aminata Seck",
+          "url": "https://open.spotify.com/artist/2SovdxBD0tOkHQhY16QV3H"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87493,
+      "name": "Aayoo nenne !",
+      "url": "https://open.spotify.com/track/6IaYJf6rJKQ0UibELZqX8I"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Patricia San Sebastian",
+          "url": "https://open.spotify.com/artist/0mgpa6SBxUbmg5vZ0vyKOs"
+        },
+        {
+          "name": "Ezequiel San Sebastian Bonnet",
+          "url": "https://open.spotify.com/artist/551ixVIcZIYGpdWGCYxVZO"
+        },
+        {
+          "name": "P\u00eda San Sebastian Bonnet",
+          "url": "https://open.spotify.com/artist/59bUFzqbSyxasXf4BbwcAN"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15240,
+      "name": "Aserr\u00edn, aserr\u00e1n",
+      "url": "https://open.spotify.com/track/47x7zAky3ITCgcyyy3Vy1V"
+    },
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "Atirei O Pau No Gato",
+      "url": "https://open.spotify.com/track/20pZTUpOpm4w5F3HOLSzbY"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Giang Ngo Huong",
+          "url": "https://open.spotify.com/artist/2YIaYLyZqZnuTnEpqLBmH8"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Bac kim thang",
+      "url": "https://open.spotify.com/track/6qH9LImnhVBJT9TVyjka89"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Mikha\u00efl Polichtchouk",
+          "url": "https://open.spotify.com/artist/1QbZ5yrV8AN2ieHjLsWlbP"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Baiouchki baiou",
+      "url": "https://open.spotify.com/track/0RAbQmfBrrRi8VmGEcGrq8"
+    },
+    {
+      "album": {
+        "name": "Central Africa: Songs, Nursery Rhymes and Lullabies",
+        "url": "https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81641,
+      "name": "Baobab",
+      "url": "https://open.spotify.com/track/1fM2QEtIqDokwPUMP7Rtt1"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Lucie Da Silvera",
+          "url": "https://open.spotify.com/artist/4J9DoBQGv1pOK2YnmsQJAw"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74160,
+      "name": "Baranin",
+      "url": "https://open.spotify.com/track/0GplPFXFXfHGI7GYz6ioNg"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Yansanne",
+          "url": "https://open.spotify.com/artist/09U94nCnWTX3KXNXHB1ncr"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91813,
+      "name": "Bo bo bo bo",
+      "url": "https://open.spotify.com/track/2y3TKXIC8Lk4sAK8U4CTMr"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83266,
+      "name": "Bobo - B\u00e9b\u00e9 (Guin\u00e9e)",
+      "url": "https://open.spotify.com/track/21GJIcsbSrDQoXYjyHZG9a"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Bachka Konieczna",
+          "url": "https://open.spotify.com/artist/3ZBxHuMqFCpEtHoJe00F33"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147853,
+      "name": "Byl sobie krol",
+      "url": "https://open.spotify.com/track/2eR6Dwai3S9vAk9dwQZrqj"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108040,
+      "name": "B\u00e9b\u00e9 mok\u00e9 (Petit b\u00e9b\u00e9)",
+      "url": "https://open.spotify.com/track/3gjD2fMMrpP8yCuVuIToH7"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Oscar Barahona",
+          "url": "https://open.spotify.com/artist/5jkLKKiGUMv9sKpqMnimCr"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101586,
+      "name": "Canci\u00f3n de cuna",
+      "url": "https://open.spotify.com/track/7HP6MOkDy6z7xKBr9F21o7"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Agullo",
+          "url": "https://open.spotify.com/artist/6EGOlJXruNqgzMipbAHZdj"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191106,
+      "name": "Canci\u00f3n del jangadero",
+      "url": "https://open.spotify.com/track/2uflGZhrkrAaxap4E3QyHD"
+    },
+    {
+      "album": {
+        "name": "La Guadeloupe: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1"
+      },
+      "artists": [
+        {
+          "name": "Magguy",
+          "url": "https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36480,
+      "name": "Dame Gabrielle",
+      "url": "https://open.spotify.com/track/2AUFTgiis7bFPzdWo7wS4e"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76613,
+      "name": "Dodo la minette",
+      "url": "https://open.spotify.com/track/2G7SasY9e9zmDppeCiRBsW"
+    },
+    {
+      "album": {
+        "name": "La Guadeloupe: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1"
+      },
+      "artists": [
+        {
+          "name": "Magguy",
+          "url": "https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76200,
+      "name": "Dodo pitite a manman",
+      "url": "https://open.spotify.com/track/0YI4SZg2Mj3N2sYQ9jIksK"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52333,
+      "name": "Dodo Siya",
+      "url": "https://open.spotify.com/track/0Quan0Wt3lvoEjjHtykUaQ"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123546,
+      "name": "Dododila\u00e9",
+      "url": "https://open.spotify.com/track/04hOoSJl3i5sEJIv02yUUV"
+    },
+    {
+      "album": {
+        "name": "Central Africa: Songs, Nursery Rhymes and Lullabies",
+        "url": "https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88650,
+      "name": "Doli, doli",
+      "url": "https://open.spotify.com/track/3tyDFmZrsV8H5uhxJa8g6y"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138626,
+      "name": "Don Solidon",
+      "url": "https://open.spotify.com/track/2URTYfOf098ksGGdCwFXoG"
+    },
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55413,
+      "name": "Dorme Nene",
+      "url": "https://open.spotify.com/track/0PZLy3niQ6DYVtnBPdOwmy"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105426,
+      "name": "Dounga",
+      "url": "https://open.spotify.com/track/2M0DCvPYmD940YzBWrOUJl"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Landgrave",
+          "url": "https://open.spotify.com/artist/2KhzueiXZt3dN2x0bxaeWO"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115040,
+      "name": "Duerme negrito",
+      "url": "https://open.spotify.com/track/30s0yY9sQSFxubLT3Eyqrc"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Sana\u00e9 Rodiere",
+          "url": "https://open.spotify.com/artist/3Ndu7QWLMfI8kIz5dsebKI"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "Edo no komoriuta",
+      "url": "https://open.spotify.com/track/5081yEyKImptYb8D74ERM7"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106426,
+      "name": "Gawobe (Guin\u00e9e)",
+      "url": "https://open.spotify.com/track/2fLB6wY9pst3QvenAbDhZF"
+    },
+    {
+      "album": {
+        "name": "Comptines & berceuses tsiganes",
+        "url": "https://open.spotify.com/album/6sorJljiLsFdYFQspImhrz"
+      },
+      "artists": [
+        {
+          "name": "Zsuzsanna V\u00e1rkonyi",
+          "url": "https://open.spotify.com/artist/2eJ0rIlyn48lZAHBxQzeEo"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Hej ! Sz\u00e9l f\u00fa",
+      "url": "https://open.spotify.com/track/5xMhkDSM6MGwXIrnAlydEO"
+    },
+    {
+      "album": {
+        "name": "Comptines & berceuses tsiganes",
+        "url": "https://open.spotify.com/album/6sorJljiLsFdYFQspImhrz"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        },
+        {
+          "name": "Souliko",
+          "url": "https://open.spotify.com/artist/0FitrSlb4ZsVG5bD6S7G9d"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "Herdelezi",
+      "url": "https://open.spotify.com/track/4uQ1RANTsrtDabtnft5LKo"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100880,
+      "name": "Houbava Si, Moja Goro",
+      "url": "https://open.spotify.com/track/5dsa01szP3FqCJbBxMvicH"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Chantal Habyalimana",
+          "url": "https://open.spotify.com/artist/5mn6AJFk9ApkmltKpVesDH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97693,
+      "name": "Injangwe yanjye",
+      "url": "https://open.spotify.com/track/1qhaNPCYVBdAorrKSZtsKe"
+    },
+    {
+      "album": {
+        "name": "Madagascar: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/2Ix9FlA0rV5bGvvkWgzKqa"
+      },
+      "artists": [
+        {
+          "name": "Mbolatiana",
+          "url": "https://open.spotify.com/artist/6hjfIBvIC3UskXNmLfMAN2"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166546,
+      "name": "Iny hono izy (L\u2019oiseau blanc)",
+      "url": "https://open.spotify.com/track/1EoX7j2GJg6ZfDrc84Lnlu"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Marilyne Seredouma",
+          "url": "https://open.spotify.com/artist/3Bpp6ygEDgs13Q6MqS4ls3"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108066,
+      "name": "It\u00e4 z\u00e2ke - Awe beb\u00ebe",
+      "url": "https://open.spotify.com/track/0HP4B2VIQJtfyShJ1Ap0u4"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106400,
+      "name": "I\u2019m going chop crabs - Allons attraper des crabes (Lib\u00e9ria)",
+      "url": "https://open.spotify.com/track/2p7Qf4oR88FwGUCPgjYOei"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Kyung-Shin Im",
+          "url": "https://open.spotify.com/artist/7CB6N0xs36w01NsvY6eN6G"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Ja jang ja jang",
+      "url": "https://open.spotify.com/track/6Qj1PsAmJhfOAU8HimPnSw"
+    },
+    {
+      "album": {
+        "name": "La Guadeloupe: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1"
+      },
+      "artists": [
+        {
+          "name": "Magguy",
+          "url": "https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81466,
+      "name": "J\u2019aime maman j\u2019aime papa",
+      "url": "https://open.spotify.com/track/2jGnfvBv0Djb2YV3rKKiKy"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Mikha\u00efl Polichtchouk",
+          "url": "https://open.spotify.com/artist/1QbZ5yrV8AN2ieHjLsWlbP"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174906,
+      "name": "Kak pa\u00efdou ia na bystrouiou ri\u00e9tchkou",
+      "url": "https://open.spotify.com/track/2bOfdl5foUoZnkOZndpjvr"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Lucie le Floch",
+          "url": "https://open.spotify.com/artist/4lobQjOCtRKK4VmWTXTXGA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130759,
+      "name": "Kalikhanka",
+      "url": "https://open.spotify.com/track/0ZnXN0nXWvDPaGEoWiFAhL"
+    },
+    {
+      "album": {
+        "name": "La Guadeloupe: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1"
+      },
+      "artists": [
+        {
+          "name": "Magguy",
+          "url": "https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161133,
+      "name": "Kan pitite an mwen",
+      "url": "https://open.spotify.com/track/0E7bRUztQzXhTObzzxTA3k"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122693,
+      "name": "Kanzenzenze",
+      "url": "https://open.spotify.com/track/2kYC2kFdoJpZKVu3nK5vsq"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102720,
+      "name": "Katoto lala (Dors mon b\u00e9b\u00e9)",
+      "url": "https://open.spotify.com/track/14bOC0LBxWvANKny0cmwfg"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Kett\u00e9 molengu\u00e9 - Petit enfant (Centrafrique)",
+      "url": "https://open.spotify.com/track/35eeFHOCu0MgIVHB7SBwpY"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83133,
+      "name": "Kum ba ya (Nig\u00e9ria)",
+      "url": "https://open.spotify.com/track/4MjlN7AuJePWJrEbyNpfvY"
+    },
+    {
+      "album": {
+        "name": "Scandinavie: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/4r2m242FpXi6YVVRqqzx5i"
+      },
+      "artists": [
+        {
+          "name": "Asa Junesjo",
+          "url": "https://open.spotify.com/artist/0tPzu2qFGeNLJTv5pkq4lq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67040,
+      "name": "K\u00e4uner du lotta, min v\u00e4n",
+      "url": "https://open.spotify.com/track/51zIAMeCk0t5lgmbyEH44D"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148013,
+      "name": "La Bourbonnaise",
+      "url": "https://open.spotify.com/track/3Xn4RezdF9YAWqVyj8AvYt"
+    },
+    {
+      "album": {
+        "name": "La Guadeloupe: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/5NfvABuCZeNtasTrnXigM1"
+      },
+      "artists": [
+        {
+          "name": "Magguy",
+          "url": "https://open.spotify.com/artist/7l69UQCHPmiRC2ivxIhYYH"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82613,
+      "name": "La line kl\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6N0DiaL4fZDaHyiL389idG"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Landgrave",
+          "url": "https://open.spotify.com/artist/2KhzueiXZt3dN2x0bxaeWO"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/3xDmKqXhLkm32xqmojAUaf"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Christine Audat",
+          "url": "https://open.spotify.com/artist/2YjaJfyuarCE937kv2TcN0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134426,
+      "name": "La mar estaba serena",
+      "url": "https://open.spotify.com/track/6RvyXe6M6YWWHSp9Nnjge3"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116626,
+      "name": "La rivir Tani\u00e9 instrumental",
+      "url": "https://open.spotify.com/track/3e9ZdURSbsl5tjqlioDDfs"
+    },
+    {
+      "album": {
+        "name": "Central Africa: Songs, Nursery Rhymes and Lullabies",
+        "url": "https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104293,
+      "name": "Lango \u00eb bolingo",
+      "url": "https://open.spotify.com/track/1AvMq5qEA67lcBLeV4dbFE"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Marta Budkiewicz",
+          "url": "https://open.spotify.com/artist/5cBbx7Bg8poCmVAegFeSl8"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Lulajze, Jezuniu",
+      "url": "https://open.spotify.com/track/5dAB66PcNKKVaLu81TGxs5"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Lulka",
+      "url": "https://open.spotify.com/track/515f7T4vH766DBi4Jqd943"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Souleymane Mbodj",
+          "url": "https://open.spotify.com/artist/0MI1M3APMr26QwCFJowll5"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Mademba",
+      "url": "https://open.spotify.com/track/5iDLOWjnLUYWKKIkx4QTI9"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Mama yaka (Viens maman)",
+      "url": "https://open.spotify.com/track/2NvNyEsCNaw9gWHjkkMGpM"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66520,
+      "name": "Meu Lirio Roxo Do Campo - Mon Lys Mauve",
+      "url": "https://open.spotify.com/track/24imagVwz3N9cGhh4fzPdM"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69760,
+      "name": "Mila Moja Mamo",
+      "url": "https://open.spotify.com/track/0mk8kZKV1iTdN2wBK1bAkj"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64773,
+      "name": "Moutubarouke",
+      "url": "https://open.spotify.com/track/3wusJ8wGKnWzaWESV8Y9Eq"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130360,
+      "name": "Mtoto mdogo (Mon gar\u00e7on)",
+      "url": "https://open.spotify.com/track/0qSrVu5z9I0FPZfB8iq9rk"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98640,
+      "name": "Muana bila dila (Ne pleure pas petit)",
+      "url": "https://open.spotify.com/track/5VHDjYOymXbp6W9WQXtUkT"
+    },
+    {
+      "album": {
+        "name": "L'Afrique des Grands Lacs: Rondes, comptines et berceuses (Swahili, Lingala, Kikongo, Kimbunda)",
+        "url": "https://open.spotify.com/album/0MUAIFRtNtuMSTsoEYEsHx"
+      },
+      "artists": [
+        {
+          "name": "Jean-Emile Biayenda",
+          "url": "https://open.spotify.com/artist/10rORBUcRQmkcnQLXo2cFL"
+        },
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Shoming Bouboul Akwel",
+          "url": "https://open.spotify.com/artist/1HI7iUjR6JomUgqanDbLep"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134586,
+      "name": "Muana mok\u00e9 (Un enfant ne fume pas la pipe)",
+      "url": "https://open.spotify.com/track/1yu6NoyJ8MPG8serUiCE2D"
+    },
+    {
+      "album": {
+        "name": "Comptines & berceuses tsiganes",
+        "url": "https://open.spotify.com/album/6sorJljiLsFdYFQspImhrz"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127306,
+      "name": "Nane c\u00f2xa",
+      "url": "https://open.spotify.com/track/4HhauqqHr9aLUKL0ukKFVk"
+    },
+    {
+      "album": {
+        "name": "Comptines & berceuses tsiganes",
+        "url": "https://open.spotify.com/album/6sorJljiLsFdYFQspImhrz"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        },
+        {
+          "name": "Souliko",
+          "url": "https://open.spotify.com/artist/0FitrSlb4ZsVG5bD6S7G9d"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Nie buditie",
+      "url": "https://open.spotify.com/track/092PZoIGPCaB4RpLCjHLwy"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Chantal Habyalimana",
+          "url": "https://open.spotify.com/artist/5mn6AJFk9ApkmltKpVesDH"
+        },
+        {
+          "name": "Gis\u00e8le Candy Nyirabanzi",
+          "url": "https://open.spotify.com/artist/0UR8afKzPUpnsVPo2Ciwi0"
+        },
+        {
+          "name": "Nadia Uwaliraye",
+          "url": "https://open.spotify.com/artist/1mXjPz4Lp2LrZjhSy2UIbU"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "Nkwihoreze",
+      "url": "https://open.spotify.com/track/2bkKly685Vm5Qy73MTLbq2"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99120,
+      "name": "O Coelhindo - Le Lapin",
+      "url": "https://open.spotify.com/track/0kYxip2mWFJzT8dQJBJkHu"
+    },
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73626,
+      "name": "O Cravo E A Rosa",
+      "url": "https://open.spotify.com/track/2jk2itUWcVN8EGcY6yMfnT"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Hayley Soto",
+          "url": "https://open.spotify.com/artist/57s2skwfUJq75NSSi5Fujj"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Oraci\u00f3n ratona",
+      "url": "https://open.spotify.com/track/6EMoZzix59fk5K7g0EB7cr"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Muriel Hirshmann",
+          "url": "https://open.spotify.com/artist/0m8eOuC7Py6vgmAwSXyzxY"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Oyfn pripetchik",
+      "url": "https://open.spotify.com/track/6oJ6jVPjhlKpFmXNXtY1id"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        },
+        {
+          "name": "Souliko",
+          "url": "https://open.spotify.com/artist/0FitrSlb4ZsVG5bD6S7G9d"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "O\u00ef ou haiou",
+      "url": "https://open.spotify.com/track/0w00sft9RmzbsHroV5mJ72"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69066,
+      "name": "Papagaio Loiro - Le Perroquet",
+      "url": "https://open.spotify.com/track/3BRrCLVDaRbolJVr0GyT0V"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Christine Audat",
+          "url": "https://open.spotify.com/artist/2YjaJfyuarCE937kv2TcN0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140013,
+      "name": "Plantita de alel\u00ed",
+      "url": "https://open.spotify.com/track/69DipG6QJMDQtxkBxW5At9"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Helena Recalde",
+          "url": "https://open.spotify.com/artist/2z3KsfXSWSDtfogWWdRwvl"
+        },
+        {
+          "name": "Isabel Angulo de Recalde",
+          "url": "https://open.spotify.com/artist/3gJbWbUfQ69HJijkPLSRlF"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Pobre coraz\u00f3n",
+      "url": "https://open.spotify.com/track/10d0zI7HQqnTltHZO76SkM"
+    },
+    {
+      "album": {
+        "name": "Portugal: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0coL474T8QWpN0ltp5yp3z"
+      },
+      "artists": [
+        {
+          "name": "Julia Da Silva",
+          "url": "https://open.spotify.com/artist/71DBpXTgry9UBicKcJePFm"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96066,
+      "name": "Quando Eu Era Pequenina",
+      "url": "https://open.spotify.com/track/4d8Z30b4l4x6mU7cCXVfMk"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Patricia San Sebastian",
+          "url": "https://open.spotify.com/artist/0mgpa6SBxUbmg5vZ0vyKOs"
+        },
+        {
+          "name": "Ezequiel San Sebastian Bonnet",
+          "url": "https://open.spotify.com/artist/551ixVIcZIYGpdWGCYxVZO"
+        },
+        {
+          "name": "P\u00eda San Sebastian Bonnet",
+          "url": "https://open.spotify.com/artist/59bUFzqbSyxasXf4BbwcAN"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29280,
+      "name": "Saco una manito",
+      "url": "https://open.spotify.com/track/10UN1VXMKGMrbrl8kLfl2l"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Houmdavanh Khamphasith",
+          "url": "https://open.spotify.com/artist/2vEtmiSZNf0zMGX1V9kM1D"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Say nam",
+      "url": "https://open.spotify.com/track/0atmrq8A5mROplTifU6z2X"
+    },
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151853,
+      "name": "Se Esta Rua Fosse Minha",
+      "url": "https://open.spotify.com/track/5sLjqLolHLy12Zq3ituuIE"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Li Song",
+          "url": "https://open.spotify.com/artist/2UII0w5uZcXuvHdY3k0reJ"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60706,
+      "name": "Shi shang zhi you mama hao",
+      "url": "https://open.spotify.com/track/6t0Yk0YL3SrgrQdzuqZ3Ek"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Elena Polonska",
+          "url": "https://open.spotify.com/artist/7x5LyG2eRFdvnNbw0RIpdR"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79093,
+      "name": "Sleep Baby",
+      "url": "https://open.spotify.com/track/2jz365w2NwJUwlFllqygez"
+    },
+    {
+      "album": {
+        "name": "Russie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv"
+      },
+      "artists": [
+        {
+          "name": "Mamouchka",
+          "url": "https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Spi Moi Roussky Medvejionok",
+      "url": "https://open.spotify.com/track/6Mtxc7Lexbhp5s5WQ68zWq"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        },
+        {
+          "name": "Souliko",
+          "url": "https://open.spotify.com/artist/0FitrSlb4ZsVG5bD6S7G9d"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133586,
+      "name": "Spi, mladi\u00e9ni\u00e9ts, mo\u00ef pri\u00e9krasny\u00ef",
+      "url": "https://open.spotify.com/track/6yw8k1LHEfg3Fk0o5QnUWE"
+    },
+    {
+      "album": {
+        "name": "Russie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv"
+      },
+      "artists": [
+        {
+          "name": "Mamouchka",
+          "url": "https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Spiat Oustalye Igrouchki",
+      "url": "https://open.spotify.com/track/6VKsXdrFuBZyb7yd0FgVn0"
+    },
+    {
+      "album": {
+        "name": "Central Africa: Songs, Nursery Rhymes and Lullabies",
+        "url": "https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120011,
+      "name": "Taniyo iyol\u00e9",
+      "url": "https://open.spotify.com/track/3z7zj6PD2vQL3TgavlAwu4"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85733,
+      "name": "Tchasovnik",
+      "url": "https://open.spotify.com/track/72SBjeXb4NqRjpjClXS8xI"
+    },
+    {
+      "album": {
+        "name": "Central Africa: Songs, Nursery Rhymes and Lullabies",
+        "url": "https://open.spotify.com/album/7haGUjTa5HRA20OiuJWrYO"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122624,
+      "name": "Tchou tchou gbovi - Instrumental",
+      "url": "https://open.spotify.com/track/171b5sFDMNZNCQre36eEPt"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97533,
+      "name": "Tchou-ou tchou-ou gbovi",
+      "url": "https://open.spotify.com/track/474L6THJUrvO3MoN6VXXHi"
+    },
+    {
+      "album": {
+        "name": "Madagascar: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/2Ix9FlA0rV5bGvvkWgzKqa"
+      },
+      "artists": [
+        {
+          "name": "Mbolatiana",
+          "url": "https://open.spotify.com/artist/6hjfIBvIC3UskXNmLfMAN2"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129093,
+      "name": "Tia zaza (Les petits enfants)",
+      "url": "https://open.spotify.com/track/77LNJpPQvGsNrUqVCKO1kq"
+    },
+    {
+      "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78666,
+      "name": "Tole ya wati (Ethiopie)",
+      "url": "https://open.spotify.com/track/0a7ZfMEiUa4CaJjCovQalV"
+    },
+    {
+      "album": {
+        "name": "Br\u00e9sil: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/4f7gzwjUjJhuIVTNHJFpWT"
+      },
+      "artists": [
+        {
+          "name": "De Aquino Luiz",
+          "url": "https://open.spotify.com/artist/3cfpv0uxkeolaMv2YI9lZ0"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142120,
+      "name": "Tutu Maramba",
+      "url": "https://open.spotify.com/track/6kCLCL7FwrorCAdDkYBaoC"
+    },
+    {
+      "album": {
+        "name": "\u00cele de La R\u00e9union: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/6rv1m4bSCWUPRoOmhyUyn3"
+      },
+      "artists": [
+        {
+          "name": "Yela",
+          "url": "https://open.spotify.com/artist/6PXtDgVTMoFfkG1e0vRre1"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340386,
+      "name": "Ty fleur fan\u00e9e",
+      "url": "https://open.spotify.com/track/0HazRddmTwnzvUPyO2ngsm"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marie Bolangassa",
+          "url": "https://open.spotify.com/artist/5EYMCZHZySno9oBjAYcHYz"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129093,
+      "name": "U\u00e9l\u00e9l\u00e9 moilb\u00e9 makasi",
+      "url": "https://open.spotify.com/track/7qk7IAcQ1TlvEf0uRbq41N"
+    },
+    {
+      "album": {
+        "name": "Scandinavie: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/4r2m242FpXi6YVVRqqzx5i"
+      },
+      "artists": [
+        {
+          "name": "Asa Junesjo",
+          "url": "https://open.spotify.com/artist/0tPzu2qFGeNLJTv5pkq4lq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "Vem kan segla",
+      "url": "https://open.spotify.com/track/0UjbLYOe7o3RdKlwxrlHAr"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses d'Am\u00e9rique latine (Argentine, Equateur, Colombie, Mexique, P\u00e9rou, Uruguay, Venezuela)",
+        "url": "https://open.spotify.com/album/69PFTLAIKU58elA411VUBK"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Agullo",
+          "url": "https://open.spotify.com/artist/6EGOlJXruNqgzMipbAHZdj"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Vidalas",
+      "url": "https://open.spotify.com/track/2uh8ADIiuEFFgp0pOu7Aur"
+    },
+    {
+      "album": {
+        "name": "Russie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/1fB4Vh9p0dakJo8papVCMv"
+      },
+      "artists": [
+        {
+          "name": "Mamouchka",
+          "url": "https://open.spotify.com/artist/2IHn1nqZGxPMQQLJ49euLI"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133146,
+      "name": "Vyrastala Iolka",
+      "url": "https://open.spotify.com/track/4X65zsoXlYNqpIv12BVhf9"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
+        "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
+      },
+      "artists": [
+        {
+          "name": "Marie-C\u00e9cile Maloumbi Mata",
+          "url": "https://open.spotify.com/artist/7cfDqwzMQP29kQMN9gaaG6"
+        },
+        {
+          "name": "Jean-Marie Bolangassa",
+          "url": "https://open.spotify.com/artist/5EYMCZHZySno9oBjAYcHYz"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161520,
+      "name": "Wa wa wa wa",
+      "url": "https://open.spotify.com/track/246xyejP0dFJJ8K4JTvXjS"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses des rizi\u00e8res (29 comptines de Chine et d'Asie)",
+        "url": "https://open.spotify.com/album/4KoyjFGPwVhGAXwytzhHXu"
+      },
+      "artists": [
+        {
+          "name": "Honglian Xu",
+          "url": "https://open.spotify.com/artist/4qkdVeO1Um2yGbdvKRgrui"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161746,
+      "name": "Xiao xingxing",
+      "url": "https://open.spotify.com/track/2bwcYb6ElrvJ4u3kqQZAdI"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "Ya Kagi Mi",
+      "url": "https://open.spotify.com/track/7MBkeF49BLZvK5gFEcHtKc"
+    },
+    {
+      "album": {
+        "name": "Comptines et berceuses de babouchka",
+        "url": "https://open.spotify.com/album/5kshmsmueXKGP2DC0XrBgh"
+      },
+      "artists": [
+        {
+          "name": "Irina Kane",
+          "url": "https://open.spotify.com/artist/56KSwyz9Bdb6FIS2KU6Ep4"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Zainka / Valach",
+      "url": "https://open.spotify.com/track/6UzHJHIH73gn2A9GAXXDI8"
+    },
+    {
+      "album": {
+        "name": "Bulgarie: Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/7vx3afY7P8UKujvOPEkUec"
+      },
+      "artists": [
+        {
+          "name": "Emmi Kaltcheva",
+          "url": "https://open.spotify.com/artist/3m8hRKnxjzPNTtn3gII5Iq"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Zajtchentzeto Bjalo",
+      "url": "https://open.spotify.com/track/6UQPD17iptdm2UCx5NbXGu"
+    },
+    {
+      "album": {
+        "name": "Madagascar: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/2Ix9FlA0rV5bGvvkWgzKqa"
+      },
+      "artists": [
+        {
+          "name": "Mbolatiana",
+          "url": "https://open.spotify.com/artist/6hjfIBvIC3UskXNmLfMAN2"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116346,
+      "name": "Zaza madio (L\u2019enfant propre)",
+      "url": "https://open.spotify.com/track/2Cc0O2ddZtIvduOQGM4byP"
+    },
+    {
+      "album": {
+        "name": "Comptines & berceuses tsiganes",
+        "url": "https://open.spotify.com/album/6sorJljiLsFdYFQspImhrz"
+      },
+      "artists": [
+        {
+          "name": "Bielka",
+          "url": "https://open.spotify.com/artist/6wbDSoWrwzeaCCfSaAagIr"
+        }
+      ],
+      "date_added": "2021-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124400,
+      "name": "\u015ailali balval",
+      "url": "https://open.spotify.com/track/7BIFbOzvpwCU0qggudktmW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYPGyzbqYrKl"
 }

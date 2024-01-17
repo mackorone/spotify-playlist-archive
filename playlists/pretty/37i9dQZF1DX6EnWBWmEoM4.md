@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 
 > Ya no vuelvas, a menos que sea cuarteteando\. Foto: Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,726 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,509 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

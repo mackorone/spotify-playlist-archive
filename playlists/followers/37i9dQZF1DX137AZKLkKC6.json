@@ -1,480 +1,3969 @@
 {
-  "2022-09-07": 186568,
-  "2022-09-09": 186685,
-  "2022-09-10": 186765,
-  "2022-09-11": 186883,
-  "2022-09-12": 186963,
-  "2022-09-13": 187018,
-  "2022-09-15": 187131,
-  "2022-09-16": 187182,
-  "2022-09-17": 187241,
-  "2022-09-18": 187324,
-  "2022-09-19": 187412,
-  "2022-09-20": 187464,
-  "2022-09-21": 187519,
-  "2022-09-22": 187577,
-  "2022-09-23": 187642,
-  "2022-09-24": 187705,
-  "2022-09-25": 187789,
-  "2022-09-26": 187876,
-  "2022-09-27": 187941,
-  "2022-09-28": 188016,
-  "2022-09-29": 188052,
-  "2022-09-30": 188104,
-  "2022-10-01": 188183,
-  "2022-10-02": 188274,
-  "2022-10-03": 188329,
-  "2022-10-04": 188366,
-  "2022-10-05": 188412,
-  "2022-10-06": 188469,
-  "2022-10-07": 188525,
-  "2022-10-08": 188586,
-  "2022-10-09": 188715,
-  "2022-10-10": 188738,
-  "2022-10-11": 188787,
-  "2022-10-12": 188827,
-  "2022-10-13": 188871,
-  "2022-10-14": 188928,
-  "2022-10-15": 189013,
-  "2022-10-16": 189120,
-  "2022-10-17": 189220,
-  "2022-10-18": 189274,
-  "2022-10-19": 189310,
-  "2022-10-20": 189363,
-  "2022-10-21": 189415,
-  "2022-10-22": 189473,
-  "2022-10-23": 189546,
-  "2022-10-24": 189595,
-  "2022-10-25": 189637,
-  "2022-10-26": 189686,
-  "2022-10-27": 189732,
-  "2022-10-28": 189796,
-  "2022-10-29": 189853,
-  "2022-10-30": 189935,
-  "2022-10-31": 189990,
-  "2022-11-01": 190029,
-  "2022-11-02": 190070,
-  "2022-11-03": 190109,
-  "2022-11-04": 190168,
-  "2022-11-05": 190273,
-  "2022-11-06": 190384,
-  "2022-11-07": 190478,
-  "2022-11-08": 190573,
-  "2022-11-09": 190613,
-  "2022-11-10": 190669,
-  "2022-11-11": 190726,
-  "2022-11-12": 190824,
-  "2022-11-13": 190903,
-  "2022-11-14": 190985,
-  "2022-11-15": 191041,
-  "2022-11-16": 191084,
-  "2022-11-17": 191141,
-  "2022-11-18": 191151,
-  "2022-11-19": 191128,
-  "2022-11-20": 191208,
-  "2022-11-21": 191189,
-  "2022-11-22": 191353,
-  "2022-11-23": 191339,
-  "2022-11-24": 191571,
-  "2022-11-25": 191599,
-  "2022-11-26": 191653,
-  "2022-11-27": 191702,
-  "2022-11-28": 191761,
-  "2022-11-29": 191800,
-  "2022-11-30": 191851,
-  "2022-12-01": 191909,
-  "2022-12-02": 191931,
-  "2022-12-03": 191978,
-  "2022-12-04": 192028,
-  "2022-12-05": 192100,
-  "2022-12-06": 192125,
-  "2022-12-07": 192157,
-  "2022-12-08": 192213,
-  "2022-12-09": 192278,
-  "2022-12-10": 192301,
-  "2022-12-11": 192378,
-  "2022-12-12": 192433,
-  "2022-12-13": 192478,
-  "2022-12-14": 192521,
-  "2022-12-15": 192575,
-  "2022-12-16": 192618,
-  "2022-12-17": 192665,
-  "2022-12-18": 192721,
-  "2022-12-19": 192776,
-  "2022-12-20": 192885,
-  "2022-12-21": 192885,
-  "2022-12-22": 192919,
-  "2022-12-24": 193028,
-  "2022-12-25": 193113,
-  "2022-12-26": 193212,
-  "2022-12-27": 193269,
-  "2022-12-28": 193328,
-  "2022-12-29": 193397,
-  "2022-12-30": 193482,
-  "2022-12-31": 193585,
-  "2023-01-01": 193694,
-  "2023-01-02": 193773,
-  "2023-01-03": 193853,
-  "2023-01-04": 193921,
-  "2023-01-05": 193987,
-  "2023-01-06": 194075,
-  "2023-01-07": 194237,
-  "2023-01-08": 194257,
-  "2023-01-09": 194327,
-  "2023-01-10": 194403,
-  "2023-01-11": 194451,
-  "2023-01-12": 194496,
-  "2023-01-13": 194560,
-  "2023-01-14": 194674,
-  "2023-01-15": 194703,
-  "2023-01-16": 194768,
-  "2023-01-17": 194818,
-  "2023-01-18": 194858,
-  "2023-01-19": 194883,
-  "2023-01-20": 194925,
-  "2023-01-21": 194956,
-  "2023-01-22": 195023,
-  "2023-01-23": 195080,
-  "2023-01-24": 195118,
-  "2023-01-25": 195163,
-  "2023-01-26": 195197,
-  "2023-01-27": 195242,
-  "2023-01-28": 195297,
-  "2023-01-29": 195358,
-  "2023-01-30": 195433,
-  "2023-01-31": 195433,
-  "2023-02-01": 195528,
-  "2023-02-02": 195567,
-  "2023-02-03": 195615,
-  "2023-02-04": 195675,
-  "2023-02-05": 195744,
-  "2023-02-06": 195807,
-  "2023-02-07": 195858,
-  "2023-02-08": 195944,
-  "2023-02-09": 195944,
-  "2023-02-10": 195982,
-  "2023-02-11": 196041,
-  "2023-02-12": 196186,
-  "2023-02-13": 196227,
-  "2023-02-14": 196227,
-  "2023-02-15": 196303,
-  "2023-02-16": 196370,
-  "2023-02-17": 196412,
-  "2023-02-18": 196556,
-  "2023-02-19": 196572,
-  "2023-02-20": 196626,
-  "2023-02-21": 196674,
-  "2023-02-22": 196731,
-  "2023-02-23": 196775,
-  "2023-02-24": 196817,
-  "2023-02-25": 196871,
-  "2023-02-26": 196912,
-  "2023-02-27": 196994,
-  "2023-02-28": 196994,
-  "2023-03-01": 197011,
-  "2023-03-02": 197056,
-  "2023-03-03": 197102,
-  "2023-03-04": 197153,
-  "2023-03-05": 197291,
-  "2023-03-06": 197291,
-  "2023-03-07": 197348,
-  "2023-03-08": 197394,
-  "2023-03-09": 197444,
-  "2023-03-10": 197476,
-  "2023-03-11": 197510,
-  "2023-03-12": 197557,
-  "2023-03-13": 197613,
-  "2023-03-14": 197639,
-  "2023-03-15": 197688,
-  "2023-03-16": 197717,
-  "2023-03-17": 197717,
-  "2023-03-18": 197825,
-  "2023-03-19": 197913,
-  "2023-03-20": 197989,
-  "2023-03-21": 198061,
-  "2023-03-22": 198111,
-  "2023-03-23": 198168,
-  "2023-03-24": 198168,
-  "2023-03-25": 198287,
-  "2023-03-26": 198361,
-  "2023-03-27": 198424,
-  "2023-03-28": 198465,
-  "2023-03-29": 198526,
-  "2023-03-30": 198599,
-  "2023-03-31": 198599,
-  "2023-04-01": 198665,
-  "2023-04-02": 198723,
-  "2023-04-03": 198779,
-  "2023-04-04": 198836,
-  "2023-04-05": 198895,
-  "2023-04-06": 198983,
-  "2023-04-07": 199075,
-  "2023-04-09": 199223,
-  "2023-04-10": 199283,
-  "2023-04-11": 199386,
-  "2023-04-12": 199386,
-  "2023-04-13": 199444,
-  "2023-04-14": 199513,
-  "2023-04-15": 199595,
-  "2023-04-16": 199663,
-  "2023-04-17": 199732,
-  "2023-04-18": 199777,
-  "2023-04-19": 199863,
-  "2023-04-20": 199910,
-  "2023-04-21": 199953,
-  "2023-04-22": 200018,
-  "2023-04-23": 200108,
-  "2023-04-24": 200197,
-  "2023-04-25": 200246,
-  "2023-04-26": 200308,
-  "2023-04-27": 200370,
-  "2023-04-28": 200429,
-  "2023-04-29": 200499,
-  "2023-04-30": 200569,
-  "2023-05-01": 200639,
-  "2023-05-02": 200706,
-  "2023-05-03": 200764,
-  "2023-05-04": 200826,
-  "2023-05-05": 200896,
-  "2023-05-06": 200955,
-  "2023-05-07": 201044,
-  "2023-05-08": 201135,
-  "2023-05-09": 201189,
-  "2023-05-10": 201247,
-  "2023-05-11": 201299,
-  "2023-05-12": 201378,
-  "2023-05-13": 201450,
-  "2023-05-14": 201537,
-  "2023-05-15": 201627,
-  "2023-05-16": 201707,
-  "2023-05-17": 201770,
-  "2023-05-18": 201841,
-  "2023-05-19": 201916,
-  "2023-05-20": 202100,
-  "2023-05-21": 202100,
-  "2023-05-22": 202100,
-  "2023-05-23": 202246,
-  "2023-05-24": 202380,
-  "2023-05-25": 202401,
-  "2023-05-26": 202462,
-  "2023-05-27": 202535,
-  "2023-05-28": 202609,
-  "2023-05-29": 202609,
-  "2023-05-30": 202840,
-  "2023-05-31": 202885,
-  "2023-06-01": 202943,
-  "2023-06-02": 203007,
-  "2023-06-03": 203091,
-  "2023-06-04": 203186,
-  "2023-06-05": 203257,
-  "2023-06-06": 203312,
-  "2023-06-07": 203375,
-  "2023-06-08": 203442,
-  "2023-06-09": 203511,
-  "2023-06-10": 203567,
-  "2023-06-11": 203642,
-  "2023-06-12": 203705,
-  "2023-06-13": 203758,
-  "2023-06-14": 203791,
-  "2023-06-15": 203837,
-  "2023-06-16": 203888,
-  "2023-06-17": 203951,
-  "2023-06-18": 204024,
-  "2023-06-19": 204097,
-  "2023-06-20": 204164,
-  "2023-06-21": 204202,
-  "2023-06-22": 204244,
-  "2023-06-23": 204301,
-  "2023-06-24": 204375,
-  "2023-06-25": 204431,
-  "2023-06-26": 204495,
-  "2023-06-27": 204549,
-  "2023-06-28": 204587,
-  "2023-06-29": 204645,
-  "2023-06-30": 204724,
-  "2023-07-01": 204888,
-  "2023-07-02": 204888,
-  "2023-07-03": 204950,
-  "2023-07-04": 205006,
-  "2023-07-05": 205040,
-  "2023-07-06": 205129,
-  "2023-07-07": 205129,
-  "2023-07-08": 205180,
-  "2023-07-09": 205248,
-  "2023-07-10": 205335,
-  "2023-07-11": 205390,
-  "2023-07-12": 205449,
-  "2023-07-13": 205508,
-  "2023-07-14": 205572,
-  "2023-07-15": 205607,
-  "2023-07-16": 205692,
-  "2023-07-17": 205746,
-  "2023-07-18": 205799,
-  "2023-07-19": 205858,
-  "2023-07-20": 205908,
-  "2023-07-21": 205996,
-  "2023-07-22": 206040,
-  "2023-07-23": 206103,
-  "2023-07-24": 206169,
-  "2023-07-25": 206220,
-  "2023-07-26": 206258,
-  "2023-07-27": 206303,
-  "2023-07-28": 206379,
-  "2023-07-29": 206455,
-  "2023-07-30": 206551,
-  "2023-07-31": 206604,
-  "2023-08-01": 206662,
-  "2023-08-02": 206719,
-  "2023-08-03": 206776,
-  "2023-08-04": 206835,
-  "2023-08-05": 206909,
-  "2023-08-06": 207097,
-  "2023-08-07": 207097,
-  "2023-08-08": 207179,
-  "2023-08-09": 207232,
-  "2023-08-10": 207292,
-  "2023-08-11": 207351,
-  "2023-08-12": 207414,
-  "2023-08-13": 207496,
-  "2023-08-14": 207572,
-  "2023-08-15": 207683,
-  "2023-08-16": 207683,
-  "2023-08-17": 207744,
-  "2023-08-18": 207810,
-  "2023-08-19": 207921,
-  "2023-08-20": 208093,
-  "2023-08-21": 208241,
-  "2023-08-22": 208440,
-  "2023-08-23": 208547,
-  "2023-08-24": 208672,
-  "2023-08-25": 208779,
-  "2023-08-26": 208894,
-  "2023-08-27": 209053,
-  "2023-08-28": 209208,
-  "2023-08-29": 209319,
-  "2023-08-30": 209416,
-  "2023-08-31": 209520,
-  "2023-09-01": 209785,
-  "2023-09-02": 209785,
-  "2023-09-03": 209955,
-  "2023-09-04": 210104,
-  "2023-09-05": 210209,
-  "2023-09-06": 210319,
-  "2023-09-07": 210440,
-  "2023-09-08": 210566,
-  "2023-09-09": 210701,
-  "2023-09-10": 210873,
-  "2023-09-11": 211007,
-  "2023-09-12": 211106,
-  "2023-09-13": 211224,
-  "2023-09-14": 211345,
-  "2023-09-15": 211461,
-  "2023-09-16": 211569,
-  "2023-09-17": 211700,
-  "2023-09-18": 211830,
-  "2023-09-19": 211952,
-  "2023-09-20": 212024,
-  "2023-09-21": 212151,
-  "2023-09-22": 212234,
-  "2023-09-23": 212384,
-  "2023-09-24": 212530,
-  "2023-09-25": 212597,
-  "2023-09-26": 212683,
-  "2023-09-27": 212741,
-  "2023-09-28": 212794,
-  "2023-09-29": 212853,
-  "2023-09-30": 212932,
-  "2023-10-01": 213006,
-  "2023-10-02": 213081,
-  "2023-10-03": 213117,
-  "2023-10-04": 213170,
-  "2023-10-05": 213241,
-  "2023-10-06": 213300,
-  "2023-10-07": 213376,
-  "2023-10-08": 213474,
-  "2023-10-09": 213540,
-  "2023-10-10": 213284,
-  "2023-10-11": 213072,
-  "2023-10-12": 213072,
-  "2023-10-13": 212857,
-  "2023-10-14": 212736,
-  "2023-10-15": 212766,
-  "2023-10-16": 212847,
-  "2023-10-17": 212909,
-  "2023-10-18": 212947,
-  "2023-10-19": 213017,
-  "2023-10-20": 213067,
-  "2023-10-21": 213103,
-  "2023-10-22": 213179,
-  "2023-10-23": 213231,
-  "2023-10-24": 213263,
-  "2023-10-25": 213305,
-  "2023-10-26": 213348,
-  "2023-10-27": 213381,
-  "2023-10-28": 213431,
-  "2023-10-29": 213505,
-  "2023-10-30": 213592,
-  "2023-10-31": 213592,
-  "2023-11-01": 213643,
-  "2023-11-02": 213706,
-  "2023-11-03": 213766,
-  "2023-11-04": 213830,
-  "2023-11-05": 213886,
-  "2023-11-06": 213940,
-  "2023-11-07": 213997,
-  "2023-11-08": 214048,
-  "2023-11-09": 214102,
-  "2023-11-10": 214152,
-  "2023-11-11": 214243,
-  "2023-11-12": 214355,
-  "2023-11-13": 214461,
-  "2023-11-14": 214525,
-  "2023-11-15": 214525,
-  "2023-11-16": 214681,
-  "2023-11-17": 214819,
-  "2023-11-18": 214819,
-  "2023-11-19": 214932,
-  "2023-11-20": 215030,
-  "2023-11-21": 215104,
-  "2023-11-22": 215179,
-  "2023-11-23": 215245,
-  "2023-11-24": 215302,
-  "2023-11-25": 215382,
-  "2023-11-26": 215456,
-  "2023-11-27": 215556,
-  "2023-11-28": 215639,
-  "2023-11-29": 215792,
-  "2023-11-30": 215792,
-  "2023-12-01": 215864,
-  "2023-12-02": 215931,
-  "2023-12-03": 216023,
-  "2023-12-04": 216133,
-  "2023-12-05": 216204,
-  "2023-12-06": 216268,
-  "2023-12-07": 216343,
-  "2023-12-08": 216424,
-  "2023-12-09": 216541,
-  "2023-12-10": 216627,
-  "2023-12-11": 216710,
-  "2023-12-12": 216781,
-  "2023-12-13": 216842,
-  "2023-12-14": 216917,
-  "2023-12-15": 216965,
-  "2023-12-16": 217048,
-  "2023-12-17": 217149,
-  "2023-12-18": 217203,
-  "2023-12-19": 217254,
-  "2023-12-20": 217322,
-  "2023-12-21": 217375,
-  "2023-12-22": 217458,
-  "2023-12-23": 217533,
-  "2023-12-24": 217637,
-  "2023-12-25": 217745,
-  "2023-12-26": 217826,
-  "2023-12-27": 217885,
-  "2023-12-30": 218164,
-  "2023-12-31": 218277,
-  "2024-01-01": 218389,
-  "2024-01-02": 218476,
-  "2024-01-03": 218527
+  "2024-01-17": 217730,
+  "date_first_scraped": "2022-09-07",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Jessi Uribe",
+  "name": "La + Popular",
+  "tracks": [
+    {
+      "album": {
+        "name": "100 A\u00f1os",
+        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185074,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
+    },
+    {
+      "album": {
+        "name": "2 Veces",
+        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
+    },
+    {
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
+    },
+    {
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/1Tef5lg7nycsUlABVz41Cy"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 183759,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/5xWl4EKIDgoBEekNbNDrvJ"
+    },
+    {
+      "album": {
+        "name": "Adicta al Dolor",
+        "url": "https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL"
+      },
+      "artists": [
+        {
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173670,
+      "name": "Adicta al Dolor",
+      "url": "https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU"
+    },
+    {
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "album": {
+        "name": "Cena Mexicana",
+        "url": "https://open.spotify.com/album/6PZrzKy73syaMZvWZku2lv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202480,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/1AfE3gHrlA57QOTemKuVDb"
+    },
+    {
+      "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/5FT5JbCNLUB6SO7eruWV65"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Daniel Merak",
+          "url": "https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 180644,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/7srhcfKVVgCyrBCEmmei90"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 241106,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
+    },
+    {
+      "album": {
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+    },
+    {
+      "album": {
+        "name": "Alguien M\u00e1s (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/6e6r99qv7LJue8WVljNOqk"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 136125,
+      "name": "Alguien M\u00e1s - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/3Br6gkQqhN4obEhaucA7Sh"
+    },
+    {
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+    },
+    {
+      "album": {
+        "name": "Amiga Botella",
+        "url": "https://open.spotify.com/album/57nPQiegrO6AEch9AvwPIu"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 195650,
+      "name": "Amiga Botella",
+      "url": "https://open.spotify.com/track/7bsXNZS48T1IhHrtyfjmNU"
+    },
+    {
+      "album": {
+        "name": "Aniversario",
+        "url": "https://open.spotify.com/album/2x052u3ARlZ6K1aGBpYAfy"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 155409,
+      "name": "Aniversario",
+      "url": "https://open.spotify.com/track/6dzx9hxZPagyI3y0biZMZg"
+    },
+    {
+      "album": {
+        "name": "Antes de que muera",
+        "url": "https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 248613,
+      "name": "Antes de que muera",
+      "url": "https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
+      "album": {
+        "name": "Arrepentida",
+        "url": "https://open.spotify.com/album/03I50pfVSI7o2Y2Gqt5gkQ"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        },
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 228874,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/7oT9EcTnAuCj3EMDd3qZP2"
+    },
+    {
+      "album": {
+        "name": "Asi Soy Yo (Remix)",
+        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Asi Soy Yo - Remix",
+      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Es la Vida",
+        "url": "https://open.spotify.com/album/29qpYeOQXOq8OzSNbtxyti"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190165,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/6ZMXWQmqoPXDpQIZb8Ek7L"
+    },
+    {
+      "album": {
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
+    },
+    {
+      "album": {
+        "name": "Bebiendo Me Entretengo",
+        "url": "https://open.spotify.com/album/2OmnOo0O8JNaklxLeCc1Qc"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Colorado",
+          "url": "https://open.spotify.com/artist/4X5JWaBP73DBk4nxNFV1uQ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 167333,
+      "name": "Bebiendo Me Entretengo",
+      "url": "https://open.spotify.com/track/2mPvmRtUoUIFS2JCERwUz0"
+    },
+    {
+      "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
+    },
+    {
+      "album": {
+        "name": "BIPOLAR",
+        "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265045,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
+    },
+    {
+      "album": {
+        "name": "Busca Un Confidente (En Vivo)",
+        "url": "https://open.spotify.com/album/5pjRfkF6HSgrawn27YliQd"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 249748,
+      "name": "Busca Un Confidente - En Vivo",
+      "url": "https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
+    },
+    {
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "album": {
+        "name": "Mi Mejor Momento",
+        "url": "https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 168131,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/3ayEHdV1m8PdezGWvM4t8v"
+    },
+    {
+      "album": {
+        "name": "Como El Primer D\u00eda",
+        "url": "https://open.spotify.com/album/6BUA5fhYaie7fDtkE2HiKr"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 153715,
+      "name": "Como El Primer D\u00eda",
+      "url": "https://open.spotify.com/track/4oBMezBt65kRwqU8dNyU9C"
+    },
+    {
+      "album": {
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 189208,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 189208,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
+    },
+    {
+      "album": {
+        "name": "Como una Pelota",
+        "url": "https://open.spotify.com/album/306ib7yX5JegvImZ8VMrSF"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 175674,
+      "name": "Como una Pelota",
+      "url": "https://open.spotify.com/track/5iJBBQOi25f86NEurPAszB"
+    },
+    {
+      "album": {
+        "name": "Como una Pelota (feat. Espinoza Paz)",
+        "url": "https://open.spotify.com/album/3MIYSFtANScbsIejPwRZuP"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 175674,
+      "name": "Como una Pelota (feat. Espinoza Paz)",
+      "url": "https://open.spotify.com/track/4wVmbrxbSos5XFSkxJgStl"
+    },
+    {
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/5xYcQs87dQWn1hNYn0dc7h"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227403,
+      "name": "Copita de Licor",
+      "url": "https://open.spotify.com/track/6sBvUFDc0MmcAr4VFfp838"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Maleante",
+        "url": "https://open.spotify.com/album/6f0gQlCUlMQqPOdlWfOwqS"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 147945,
+      "name": "Coraz\u00f3n Maleante",
+      "url": "https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd"
+    },
+    {
+      "album": {
+        "name": "Corro A Tus Brazos",
+        "url": "https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 224312,
+      "name": "Corro A Tus Brazos",
+      "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
+    },
+    {
+      "album": {
+        "name": "Cupido Fall\u00f3",
+        "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197642,
+      "name": "Cupido Fall\u00f3",
+      "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+    },
+    {
+      "album": {
+        "name": "De Carne Y Hueso",
+        "url": "https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 187930,
+      "name": "De Carne Y Hueso",
+      "url": "https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7"
+    },
+    {
+      "album": {
+        "name": "DE LUNES A LUNES",
+        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "album": {
+        "name": "De Rodillas (Versi\u00f3n Popular)",
+        "url": "https://open.spotify.com/album/4u0j4w4d3Yiv3I5Hhx9zz4"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Mariana G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3KM7Awm5GI3R4cKb0U5thK"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 203210,
+      "name": "De Rodillas - Versi\u00f3n Popular",
+      "url": "https://open.spotify.com/track/2ZDslBpDojVklqu9Vvc2O1"
+    },
+    {
+      "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "album": {
+        "name": "Demalas (Versi\u00f3n Corrido)",
+        "url": "https://open.spotify.com/album/3Hqi4nN7D5Tewtq7OVIg64"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157837,
+      "name": "Demalas (Versi\u00f3n Corrido)",
+      "url": "https://open.spotify.com/track/3rABYMCFJFzKapGzFV2Sd4"
+    },
+    {
+      "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+    },
+    {
+      "album": {
+        "name": "Despechada",
+        "url": "https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO"
+      },
+      "artists": [
+        {
+          "name": "Alan Ramirez",
+          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147983,
+      "name": "Despechada",
+      "url": "https://open.spotify.com/track/1CaAXPzgXMzwzDJTS6Jnq4"
+    },
+    {
+      "album": {
+        "name": "Devu\u00e9lveme La Vida",
+        "url": "https://open.spotify.com/album/3ERp2qBa4MJdLUfP82prbN"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217770,
+      "name": "Devu\u00e9lveme la Vida - Versi\u00f3n Popular",
+      "url": "https://open.spotify.com/track/0UwnN8UNj4srAQEsHWFqwY"
+    },
+    {
+      "album": {
+        "name": "Devu\u00e9lveme los Besos",
+        "url": "https://open.spotify.com/album/5W688My9t8Xd3Awdkp47QL"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 181221,
+      "name": "Devu\u00e9lveme los Besos",
+      "url": "https://open.spotify.com/track/3DXD0U8dh3PmLhFqVDssjH"
+    },
+    {
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/3p2SakWSIBgyeaPJoxLCbj"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 156123,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/7nrILFArrudnS5ctCggSc6"
+    },
+    {
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "album": {
+        "name": "Direcci\u00f3n Equivocada",
+        "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 189093,
+      "name": "Direcci\u00f3n Equivocada",
+      "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
+    },
+    {
+      "album": {
+        "name": "Distancia 83",
+        "url": "https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Bloom",
+          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 181001,
+      "name": "Distancia 83",
+      "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
+    },
+    {
+      "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197365,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "album": {
+        "name": "Dulce Pecado",
+        "url": "https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 175456,
+      "name": "Dulce Pecado",
+      "url": "https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7"
+    },
+    {
+      "album": {
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 175456,
+      "name": "Dulce Pecado",
+      "url": "https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu"
+    },
+    {
+      "album": {
+        "name": "El Desmadre",
+        "url": "https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "El Desmadre",
+      "url": "https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j"
+    },
+    {
+      "album": {
+        "name": "El DM",
+        "url": "https://open.spotify.com/album/6tjkmYe7q6QVEPwLMWpuus"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 184413,
+      "name": "El DM",
+      "url": "https://open.spotify.com/track/4jVs3F4YeYMc4mi33rItRt"
+    },
+    {
+      "album": {
+        "name": "EL HECHIZO",
+        "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 167988,
+      "name": "EL HECHIZO",
+      "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
+    },
+    {
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170297,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
+    },
+    {
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
+    },
+    {
+      "album": {
+        "name": "El Malo (Remix)",
+        "url": "https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259910,
+      "name": "El Malo - Remix",
+      "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy y Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301220,
+      "name": "El Precio de Tu Error - En Vivo",
+      "url": "https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt"
+    },
+    {
+      "album": {
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 215263,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI"
+    },
+    {
+      "album": {
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 193578,
+      "name": "El \u00daltimo No",
+      "url": "https://open.spotify.com/track/0UVGcwBmQUNbsBlsZgFzDK"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo No",
+        "url": "https://open.spotify.com/album/48ScSRTZO4kwZ5U1hEHxCr"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 193578,
+      "name": "El \u00daltimo No",
+      "url": "https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ"
+    },
+    {
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 215243,
+      "name": "Ellas As\u00ed Son",
+      "url": "https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C"
+    },
+    {
+      "album": {
+        "name": "Ellas As\u00ed Son",
+        "url": "https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 215243,
+      "name": "Ellas As\u00ed Son",
+      "url": "https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN"
+    },
+    {
+      "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
+    },
+    {
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "album": {
+        "name": "ERES",
+        "url": "https://open.spotify.com/album/5dKSoVrPfoyvr9UaxnJMPu"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "ERES",
+      "url": "https://open.spotify.com/track/6EYyCZ5gsRb1xNdyXYtEJF"
+    },
+    {
+      "album": {
+        "name": "Ese Fui Yo",
+        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 162133,
+      "name": "Ese Fui Yo",
+      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+    },
+    {
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0ivu9BBPUy5YLLeOLKAHUb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 192857,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3n4DLwgE37rcLYmrzFAPGI"
+    },
+    {
+      "album": {
+        "name": "Gracias A Ti",
+        "url": "https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174756,
+      "name": "Gracias A Ti",
+      "url": "https://open.spotify.com/track/6si8DH4KS3qLuC1JEIyCBv"
+    },
+    {
+      "album": {
+        "name": "Guaro (Remix)",
+        "url": "https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        },
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        },
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "Guaro - Remix",
+      "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
+    },
+    {
+      "album": {
+        "name": "Hasta La Madre",
+        "url": "https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158160,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF"
+    },
+    {
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/4X6DG3LgEiIBmxm6gIjrmx"
+      },
+      "artists": [
+        {
+          "name": "Marlon Arenas",
+          "url": "https://open.spotify.com/artist/3DKftlYPvpGgCvPVBj8OR3"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 149746,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/4hbGBaXM4L5VRcBoYQemw2"
+    },
+    {
+      "album": {
+        "name": "Jur\u00e9",
+        "url": "https://open.spotify.com/album/5XxFlKVLOFkklkz1NgyeyX"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148412,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2FHEbBCdGu5tDzMLkxY0bS"
+    },
+    {
+      "album": {
+        "name": "La Calientahuevos",
+        "url": "https://open.spotify.com/album/44ZBC1HGyDGvxvxi9jY8cg"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 138170,
+      "name": "La Calientahuevos",
+      "url": "https://open.spotify.com/track/6ZeJi7RQrOGN8PVJ8J5vHj"
+    },
+    {
+      "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "album": {
+        "name": "La Cantina (Remix)",
+        "url": "https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp"
+      },
+      "artists": [
+        {
+          "name": "Hernan G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217567,
+      "name": "La Cantina - Remix",
+      "url": "https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f"
+    },
+    {
+      "album": {
+        "name": "La Cita (feat. Jessi Uribe)",
+        "url": "https://open.spotify.com/album/1TpTCn8O48aX2O8UyOspLB"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 225657,
+      "name": "La Cita (feat. Jessi Uribe)",
+      "url": "https://open.spotify.com/track/3oqopsjoBm9wRdbT4QXtIE"
+    },
+    {
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157193,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
+    },
+    {
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
+    },
+    {
+      "album": {
+        "name": "La Interesada",
+        "url": "https://open.spotify.com/album/0e6DoOVWobtACCRavXpCkF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Arnau",
+          "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 158116,
+      "name": "La Interesada",
+      "url": "https://open.spotify.com/track/2yJqNAtTReCz7JAs5eCRXu"
+    },
+    {
+      "album": {
+        "name": "La lista de mis Ex",
+        "url": "https://open.spotify.com/album/7xJ396zdd4du0sFpGSXh1v"
+      },
+      "artists": [
+        {
+          "name": "Camilo Baena",
+          "url": "https://open.spotify.com/artist/1ZaFqYadyVXsabvWnMITxB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 159299,
+      "name": "La lista de mis Ex",
+      "url": "https://open.spotify.com/track/32zdk3scjEMNdIciy8IvQE"
+    },
+    {
+      "album": {
+        "name": "La Peor",
+        "url": "https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 210187,
+      "name": "La Peor",
+      "url": "https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj"
+    },
+    {
+      "album": {
+        "name": "La Perd\u00ed",
+        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 170570,
+      "name": "La Perd\u00ed",
+      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
+    },
+    {
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
+    },
+    {
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "album": {
+        "name": "LA UBI",
+        "url": "https://open.spotify.com/album/1E52H00B5Jxzuth8Jp72XP"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 156470,
+      "name": "LA UBI",
+      "url": "https://open.spotify.com/track/5gPYfQZslTQV5516i27ZRs"
+    },
+    {
+      "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "album": {
+        "name": "Le Hace Falta Un Beso (feat. Pipe Bueno) [Versi\u00f3n Ranchera]",
+        "url": "https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Le Hace Falta Un Beso (feat. Pipe Bueno) - Versi\u00f3n Ranchera",
+      "url": "https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3"
+    },
+    {
+      "album": {
+        "name": "Forajido EP 1",
+        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 174741,
+      "name": "Lim\u00f3n Con Sal",
+      "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
+    },
+    {
+      "album": {
+        "name": "Lo Que No Sirve, Estorba",
+        "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 156640,
+      "name": "Lo Que No Sirve, Estorba",
+      "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 163551,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY"
+    },
+    {
+      "album": {
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/6Stvri2icQltU5XEPRfO2q"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 209990,
+      "name": "Malo",
+      "url": "https://open.spotify.com/track/1DcVxDd20Hm4WjYcQRPfH1"
+    },
+    {
+      "album": {
+        "name": "MAM\u00c1 PERD\u00d3N",
+        "url": "https://open.spotify.com/album/2S7Lc5WX67KGJvlH6xk0ts"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 152023,
+      "name": "MAM\u00c1 PERD\u00d3N",
+      "url": "https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
+    },
+    {
+      "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+    },
+    {
+      "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/6BvdvLtltlpV2EqBjOzMBx"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 179372,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1TbIhbN9v9Qbrlsyp7VE5T"
+    },
+    {
+      "album": {
+        "name": "Me Pase de Tragos",
+        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
+      },
+      "artists": [
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 178800,
+      "name": "Me Pase de Tragos",
+      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "album": {
+        "name": "Me Tir\u00e9 Al Alcohol",
+        "url": "https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 163561,
+      "name": "Me Tir\u00e9 Al Alcohol",
+      "url": "https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu"
+    },
+    {
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/1GZGQpmwMbtj8hty4KFkbP"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Ayala",
+          "url": "https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 157380,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4"
+    },
+    {
+      "album": {
+        "name": "Mi Decisi\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Sebasti\u00e1n Ayala",
+          "url": "https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200375,
+      "name": "Mi Decisi\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ"
+    },
+    {
+      "album": {
+        "name": "Mi Venganza",
+        "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191634,
+      "name": "Mi Venganza",
+      "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
+    },
+    {
+      "album": {
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "album": {
+        "name": "YT Rocket Hits",
+        "url": "https://open.spotify.com/album/5AHZY3HQTNVPpKYbRwj7gO"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/5NSljTmp3TVnCxXw7Ru43B"
+    },
+    {
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/3xTefPNi5demDd4X2s4nch"
+      },
+      "artists": [
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 210812,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/20Iw28nojWZVqPFYEdH8ag"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico en Mi Voz",
+        "url": "https://open.spotify.com/album/3K6llo2F2tGmc8d2dww0xE"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199489,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/1aonRnI6HP31i30Gcbsuj6"
+    },
+    {
+      "album": {
+        "name": "De Regreso al Dolor",
+        "url": "https://open.spotify.com/album/5g86joQp94OGhGhKrzU9Yc"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181194,
+      "name": "Muy Bandida",
+      "url": "https://open.spotify.com/track/74Q5KgYnmaaD4onOW77Deu"
+    },
+    {
+      "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "Nace Un Borracho",
+      "url": "https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro"
+    },
+    {
+      "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 155933,
+      "name": "Ni Que Fueras la Mas Buena",
+      "url": "https://open.spotify.com/track/3rbeV5mt1vaQP0p7Ts1E17"
+    },
+    {
+      "album": {
+        "name": "Ni Tengo Ni Necesito",
+        "url": "https://open.spotify.com/album/3y0wLmxhOrDjmSw0LUUVEi"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201693,
+      "name": "Ni Tengo Ni Necesito",
+      "url": "https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV"
+    },
+    {
+      "album": {
+        "name": "ni t\u00fa ni yo",
+        "url": "https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175203,
+      "name": "ni t\u00fa ni yo",
+      "url": "https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC"
+    },
+    {
+      "album": {
+        "name": "No Copio de Nada",
+        "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        },
+        {
+          "name": "King Daga",
+          "url": "https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3"
+        },
+        {
+          "name": "JHONA",
+          "url": "https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 167449,
+      "name": "No Copio de Nada",
+      "url": "https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0"
+    },
+    {
+      "album": {
+        "name": "No Duele Tu Olvido",
+        "url": "https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 170280,
+      "name": "No Duele Tu Olvido",
+      "url": "https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj"
+    },
+    {
+      "album": {
+        "name": "No Me Digas Que No (Remix)",
+        "url": "https://open.spotify.com/album/1OdRfo9yfhQYmMnsFMaFHt"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197380,
+      "name": "No Me Digas Que No - Remix",
+      "url": "https://open.spotify.com/track/06yVKqQFFuvq9Zqnmcsb7a"
+    },
+    {
+      "album": {
+        "name": "No Me Hablen de \u00c9l",
+        "url": "https://open.spotify.com/album/70RI4gxiCzSrYmWsnChiIz"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 191936,
+      "name": "No Me Hablen de \u00c9l",
+      "url": "https://open.spotify.com/track/0evFiUFMG6KNXTnXlthNRT"
+    },
+    {
+      "album": {
+        "name": "No Me Hubiera Enamorado",
+        "url": "https://open.spotify.com/album/0DeM6uRe2NUTaNLr27NaQd"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 198545,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4ggJRnJzcDtXwrkmQ8ZiLG"
+    },
+    {
+      "album": {
+        "name": "No Me Hubiera Enamorado",
+        "url": "https://open.spotify.com/album/7MSKmORkjFaVDyWfRxbgJl"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 198545,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/5qTOMXiOdtjgaaqnrANccu"
+    },
+    {
+      "album": {
+        "name": "No Quer\u00eda Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 241728,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+    },
+    {
+      "album": {
+        "name": "No Sufrir\u00e9 por Nadie (Remix)",
+        "url": "https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        },
+        {
+          "name": "Maycol Rosero",
+          "url": "https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu"
+        },
+        {
+          "name": "Beren",
+          "url": "https://open.spotify.com/artist/2eVjwcrAdghDt14w3e7nDu"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 211523,
+      "name": "No Sufrir\u00e9 por Nadie - Remix",
+      "url": "https://open.spotify.com/track/4wxik78a6zidW8pshbCviV"
+    },
+    {
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156946,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
+    },
+    {
+      "album": {
+        "name": "No Te Guardo Rencor",
+        "url": "https://open.spotify.com/album/4IcpUKHSzOd050HvhuRbM7"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 180600,
+      "name": "No Te Guardo Rencor",
+      "url": "https://open.spotify.com/track/1HtnC5ryoojHGlbMrEAGcY"
+    },
+    {
+      "album": {
+        "name": "Nuestro Juramento",
+        "url": "https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR"
+      },
+      "artists": [
+        {
+          "name": "Juan Fernando Velasco",
+          "url": "https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 202425,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A"
+    },
+    {
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141336,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Mano de Obra",
+        "url": "https://open.spotify.com/album/46OnImUL8cGg0srjXJxj2l"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 141336,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6g13x2XNa9kAmRxJgac6T0"
+    },
+    {
+      "album": {
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 141336,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7CpzHbrYhaqLHUdpfyYUsM"
+    },
+    {
+      "album": {
+        "name": "Pa Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/2UufMxMzrT7slWILaSfR0T"
+      },
+      "artists": [
+        {
+          "name": "Marbelle",
+          "url": "https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188458,
+      "name": "Pa Todo el An\u0303o",
+      "url": "https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm"
+    },
+    {
+      "album": {
+        "name": "Pa' Volver A Enamorarme",
+        "url": "https://open.spotify.com/album/7quKNBRlHoF2jzPn0YRHDh"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 177280,
+      "name": "Pa' Volver A Enamorarme",
+      "url": "https://open.spotify.com/track/7cpdN4FqOSCFUqNKh3hcis"
+    },
+    {
+      "album": {
+        "name": "Pacto De Olvido",
+        "url": "https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 156620,
+      "name": "Pacto De Olvido",
+      "url": "https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B"
+    },
+    {
+      "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+    },
+    {
+      "album": {
+        "name": "Pasado Pisado",
+        "url": "https://open.spotify.com/album/5sc1umOiGXOncvv3oSj3p8"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 206292,
+      "name": "Pasado Pisado",
+      "url": "https://open.spotify.com/track/4se93i19bLXGvZrFyJPF91"
+    },
+    {
+      "album": {
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "album": {
+        "name": "Mi Promesa (Con el Corazon)",
+        "url": "https://open.spotify.com/album/41unRHnDM7z4qslFNtwWbp"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177496,
+      "name": "Por Qu\u00e9 la Envidia",
+      "url": "https://open.spotify.com/track/4AQT9Lh9tjYztUGmubRD9q"
+    },
+    {
+      "album": {
+        "name": "Con el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2PdefbGb9IwkyPs00rhrSQ"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177528,
+      "name": "Por Qu\u00e9 la Envidia",
+      "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
+    },
+    {
+      "album": {
+        "name": "Preg\u00fantale Por Qui\u00e9n Llora",
+        "url": "https://open.spotify.com/album/4Mxv4SjgddWtxXGnzMg5TT"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 219034,
+      "name": "Preg\u00fantale Por Qui\u00e9n Llora",
+      "url": "https://open.spotify.com/track/4MZrruknp5UrZ6kzBg2e4s"
+    },
+    {
+      "album": {
+        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
+        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Franko",
+          "url": "https://open.spotify.com/artist/69bk5U1iIqM7jbcvLoyZvb"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 183048,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/1VLkiIqQk4T4fcOMFNwW3S"
+    },
+    {
+      "album": {
+        "name": "Punto Aparte",
+        "url": "https://open.spotify.com/album/2AdJS699AvOgjwSbKctVLV"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 156257,
+      "name": "Punto Aparte",
+      "url": "https://open.spotify.com/track/4PKT6XWdribjfoxO91coC2"
+    },
+    {
+      "album": {
+        "name": "Que Onda",
+        "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Que Onda",
+      "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
+    },
+    {
+      "album": {
+        "name": "Las Compuse Para Ti",
+        "url": "https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200384,
+      "name": "Que Te Lo Crea Tu Madre",
+      "url": "https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk"
+    },
+    {
+      "album": {
+        "name": "Las Compuse para Ti",
+        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 200384,
+      "name": "Que Te Lo Crea Tu Madre",
+      "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
+    },
+    {
+      "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 160752,
+      "name": "Quedate Conmigo",
+      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 197819,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
+    },
+    {
+      "album": {
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
+      "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pensaste",
+        "url": "https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes"
+      },
+      "artists": [
+        {
+          "name": "Grupo Dominio",
+          "url": "https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200232,
+      "name": "Qu\u00e9 Pensaste",
+      "url": "https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
+    },
+    {
+      "album": {
+        "name": "Renuncio",
+        "url": "https://open.spotify.com/album/1DZeF0T2EnATyKIqdiuA5I"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 204861,
+      "name": "Renuncio",
+      "url": "https://open.spotify.com/track/3bilLSXa7DLZVsjLMi2eaQ"
+    },
+    {
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
+    },
+    {
+      "album": {
+        "name": "Result\u00f3 Muy Perra (Me Dej\u00f3 Solito)",
+        "url": "https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 144916,
+      "name": "Resulto\u0301 Muy Perra (Me Dej\u00f3 Solito)",
+      "url": "https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj"
+    },
+    {
+      "album": {
+        "name": "Prohibido, Salud Por \u00c9l Y M\u00e1s \u00c9xitos",
+        "url": "https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226083,
+      "name": "Salud Por \u00c9l",
+      "url": "https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj"
+    },
+    {
+      "album": {
+        "name": "Se Me Olvid\u00f3",
+        "url": "https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e"
+    },
+    {
+      "album": {
+        "name": "Se Me Va La Vida",
+        "url": "https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij"
+      },
+      "artists": [
+        {
+          "name": "Lukas Bloom",
+          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 163075,
+      "name": "Se Me Va La Vida",
+      "url": "https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo"
+    },
+    {
+      "album": {
+        "name": "Se Te Nota",
+        "url": "https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185461,
+      "name": "Se Te Nota",
+      "url": "https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1"
+    },
+    {
+      "album": {
+        "name": "Si Dios Perdona",
+        "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 180748,
+      "name": "Si Dios Perdona",
+      "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
+    },
+    {
+      "album": {
+        "name": "Si Me Vas Abandonar (Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX"
+      },
+      "artists": [
+        {
+          "name": "Adriana Bottina",
+          "url": "https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 179188,
+      "name": "Si Me Vas Abandonar (Norte\u00f1o)",
+      "url": "https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz"
+    },
+    {
+      "album": {
+        "name": "Si Me Vas Abandonar (Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/5f9qt2svDGSn6zZ6bOwNaI"
+      },
+      "artists": [
+        {
+          "name": "Adriana Bottina",
+          "url": "https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 179188,
+      "name": "Si Me Vas Abandonar (Norte\u00f1o)",
+      "url": "https://open.spotify.com/track/5i5OIawLy7YP0mq2S8eOMN"
+    },
+    {
+      "album": {
+        "name": "Si Me Ven Llorando",
+        "url": "https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163506,
+      "name": "Si Me Ven Llorando",
+      "url": "https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm"
+    },
+    {
+      "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/0Oi2DcpQozGUnvWbx9OZA0"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 204000,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7cZB9m0xJlmHtAPx981dsC"
+    },
+    {
+      "album": {
+        "name": "Sin Ropa Eres M\u00eda",
+        "url": "https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160818,
+      "name": "Sin Ropa Eres M\u00eda",
+      "url": "https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm"
+    },
+    {
+      "album": {
+        "name": "El Rey del Chupe",
+        "url": "https://open.spotify.com/album/7jDZkDqmE1QNWEvcrxXwwm"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/3x0cDerFLCgNxTsUWtjoAi"
+    },
+    {
+      "album": {
+        "name": "Sobrevivir\u00e9",
+        "url": "https://open.spotify.com/album/5J4Phy8c2UDxTQ1kB4ThgN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236731,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/0er9eZxOsGP652IMsKCVil"
+    },
+    {
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
+    },
+    {
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/5OLQHzC7PupWPDPVPFMiUB"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1pdxfcoAl2QOW3WOC1R8zd"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183491,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/41r4Bi95vksuMFgKx9yftT"
+    },
+    {
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
+    },
+    {
+      "album": {
+        "name": "Te Hice Llorar",
+        "url": "https://open.spotify.com/album/7H2htZEeJCoOPc3LjQK55o"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/1LUT39TVX4LAIHZLbxAVDt"
+    },
+    {
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193071,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+    },
+    {
+      "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "album": {
+        "name": "Tu Amante",
+        "url": "https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204653,
+      "name": "Tu Amante",
+      "url": "https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH"
+    },
+    {
+      "album": {
+        "name": "Tu Forma de Amar",
+        "url": "https://open.spotify.com/album/1qbnIXfdu9jhHyAKzN7dTx"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 150260,
+      "name": "Tu Forma de Amar",
+      "url": "https://open.spotify.com/track/2BjpFeEueHgxSqnLQBrOnk"
+    },
+    {
+      "album": {
+        "name": "Tu Maniqu\u00ed",
+        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 154834,
+      "name": "Tu Maniqu\u00ed",
+      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
+    },
+    {
+      "album": {
+        "name": "Un Cumbi\u00f3n Dolido",
+        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 235434,
+      "name": "Un Cumbi\u00f3n Dolido",
+      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
+    },
+    {
+      "album": {
+        "name": "Un Loco Enamorado",
+        "url": "https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 201001,
+      "name": "Un Loco Enamorado",
+      "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"
+    },
+    {
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "Una Noche",
+        "url": "https://open.spotify.com/album/6thhCxR0dkeLfKoCZ4SyCj"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191997,
+      "name": "Una Noche",
+      "url": "https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0"
+    },
+    {
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 180989,
+      "name": "Ve Y Dile",
+      "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
+    },
+    {
+      "album": {
+        "name": "Venga Que No Es Pa' Eso",
+        "url": "https://open.spotify.com/album/2fi7le7g3T9HLUSFRaeun1"
+      },
+      "artists": [
+        {
+          "name": "Alan Ramirez",
+          "url": "https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141824,
+      "name": "Venga Que No Es Pa' Eso",
+      "url": "https://open.spotify.com/track/5k1EZGQSCDf6lI6ko5Can8"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/4IWgA9K4aBcXCrHiXpW2Wn"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189020,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH"
+    },
+    {
+      "album": {
+        "name": "Vivo en el 6",
+        "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 192185,
+      "name": "Vivo en el 6",
+      "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
+    },
+    {
+      "album": {
+        "name": "Voy a Amarte (Remix)",
+        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 142422,
+      "name": "Voy a Amarte - Remix",
+      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
+    },
+    {
+      "album": {
+        "name": "Todo de Mi (Vol. 4)",
+        "url": "https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 195535,
+      "name": "Vuelve y Me Pasa",
+      "url": "https://open.spotify.com/track/2wTUAAdqoRpaP9w5VIzM6s"
+    },
+    {
+      "album": {
+        "name": "Y Si Me Dejas",
+        "url": "https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 178218,
+      "name": "Y Si Me Dejas",
+      "url": "https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2"
+    },
+    {
+      "album": {
+        "name": "Ya No Estoy a Tus Pies",
+        "url": "https://open.spotify.com/album/763xBBavvXtYoiKxDVTTTa"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179719,
+      "name": "Ya No Estoy a Tus Pies",
+      "url": "https://open.spotify.com/track/1fLDqQSdDcKZEsmtXsnojw"
+    },
+    {
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "album": {
+        "name": "Yo Quiero Ser",
+        "url": "https://open.spotify.com/album/4lSQhkv2M8CeYsHkK99Zam"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 174951,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/0rCtrINW2fQkemOgKzk43t"
+    },
+    {
+      "album": {
+        "name": "Yo Se Cuando Miente",
+        "url": "https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 198985,
+      "name": "Yo Se Cuando Miente",
+      "url": "https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v"
+    },
+    {
+      "album": {
+        "name": "\u00bfCulpa de Qui\u00e9n? (Remix)",
+        "url": "https://open.spotify.com/album/6p1oBzyenswryLUPHYeyXA"
+      },
+      "artists": [
+        {
+          "name": "Yohan Usuga",
+          "url": "https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ"
+        },
+        {
+          "name": "Zion Hwang",
+          "url": "https://open.spotify.com/artist/2dvndHOR9rTRjzHxDdgxfD"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "\u00bfCulpa de Qui\u00e9n? (Remix)",
+      "url": "https://open.spotify.com/track/5zRc8LYoCkrBp8ryT2iN60"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel o Demonio",
+        "url": "https://open.spotify.com/album/1XnfrUTeFCfXEFXXu4d2qM"
+      },
+      "artists": [
+        {
+          "name": "Fredy Montoya",
+          "url": "https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199296,
+      "name": "\u00c1ngel o Demonio",
+      "url": "https://open.spotify.com/track/3t17siJ4pNDgSxtpcTVB1m"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6"
 }

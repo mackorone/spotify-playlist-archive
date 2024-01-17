@@ -1,21 +1,1085 @@
 {
-  "2023-12-14": 174524,
-  "2023-12-15": 174715,
-  "2023-12-16": 175014,
-  "2023-12-17": 175296,
-  "2023-12-18": 175544,
-  "2023-12-19": 175766,
-  "2023-12-20": 176025,
-  "2023-12-21": 176295,
-  "2023-12-22": 176595,
-  "2023-12-23": 176912,
-  "2023-12-24": 177195,
-  "2023-12-25": 177420,
-  "2023-12-26": 177599,
-  "2023-12-27": 177829,
-  "2023-12-30": 178630,
-  "2023-12-31": 178933,
-  "2024-01-01": 179209,
-  "2024-01-02": 179536,
-  "2024-01-03": 179818
+  "2024-01-17": 184331,
+  "date_first_scraped": "2023-12-14",
+  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
+  "name": "This Is Jelly Roll",
+  "tracks": [
+    {
+      "album": {
+        "name": "Self Medicated",
+        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226511,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
+    },
+    {
+      "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280647,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
+    },
+    {
+      "album": {
+        "name": "No Filter",
+        "url": "https://open.spotify.com/album/0dE86L3lCP52MRnPjUOTtf"
+      },
+      "artists": [
+        {
+          "name": "Lil Wyte",
+          "url": "https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Band Plays On",
+      "url": "https://open.spotify.com/track/62x93blgkWEz6Huop8eSQA"
+    },
+    {
+      "album": {
+        "name": "Mud to Gold",
+        "url": "https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX"
+      },
+      "artists": [
+        {
+          "name": "Upchurch",
+          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "Blame Us (feat. Merkules & Jelly Roll)",
+      "url": "https://open.spotify.com/track/1Z0rdmLAw7VJ9WCIT3TkiC"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172421,
+      "name": "Bottle and Mary Jane",
+      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
+    },
+    {
+      "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Chevrolet (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
+    },
+    {
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153388,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT"
+    },
+    {
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152100,
+      "name": "Copenhagen In A Cadillac",
+      "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239592,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
+    },
+    {
+      "album": {
+        "name": "Self Medicated",
+        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Dance With Ghosts",
+      "url": "https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9"
+    },
+    {
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
+    },
+    {
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177228,
+      "name": "Double Crown",
+      "url": "https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9"
+    },
+    {
+      "album": {
+        "name": "Goodnight Nashville",
+        "url": "https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Cub da CookUpBoss",
+          "url": "https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237180,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie 2",
+        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Fall in the Fall",
+      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229103,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+    },
+    {
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163103,
+      "name": "Hate Goes On",
+      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
+    },
+    {
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169258,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
+    },
+    {
+      "album": {
+        "name": "Hotel Kalifornia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "House Of Mirrors (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+    },
+    {
+      "album": {
+        "name": "Self Medicated",
+        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167635,
+      "name": "Johnny and June",
+      "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/38Xgxs0gyMoxftBuTrV83I"
+      },
+      "artists": [
+        {
+          "name": "Benny Holiday",
+          "url": "https://open.spotify.com/artist/4YMAnaqA8h3Djt7Z5SPgbL"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "C-Lance",
+          "url": "https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 155795,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/3aohNUmAixSr12gJxaR2wE"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Brix",
+          "url": "https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254277,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+    },
+    {
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200174,
+      "name": "Love the Heartless",
+      "url": "https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6"
+    },
+    {
+      "album": {
+        "name": "Mud Mouth",
+        "url": "https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318640,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie IV",
+        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "My Only Enemy",
+      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203550,
+      "name": "Nothing Left At All",
+      "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
+    },
+    {
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie III",
+        "url": "https://open.spotify.com/album/138S8GterIlZRtIQCzMeml"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Upchurch",
+          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191024,
+      "name": "Outlaw Classics",
+      "url": "https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg"
+    },
+    {
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136253,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF"
+    },
+    {
+      "album": {
+        "name": "No Filter 2",
+        "url": "https://open.spotify.com/album/0tQHA4lZ8voLMIJ4W9wcVA"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lil Wyte",
+          "url": "https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/6T9QVklRmYwXCCesJI0T54"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 260062,
+      "name": "Problem Wit It (feat. DJ Paul)",
+      "url": "https://open.spotify.com/track/3E99aSAFKvgFAK4CtOoZVd"
+    },
+    {
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "She",
+      "url": "https://open.spotify.com/track/6FDLekYf22WFgeZXMbA91X"
+    },
+    {
+      "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
+    },
+    {
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
+    },
+    {
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Son Of A Sinner",
+      "url": "https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO"
+    },
+    {
+      "album": {
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156816,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "The Lost",
+      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
+    },
+    {
+      "album": {
+        "name": "Self Medicated",
+        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Ryan Nelson",
+          "url": "https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126166,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/6v0OFUHCLCIFwwowVXMXPj"
+    },
+    {
+      "album": {
+        "name": "Sobriety Sucks",
+        "url": "https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle",
+          "url": "https://open.spotify.com/artist/0EmCmRWJM3kIDf0IBrj62j"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209969,
+      "name": "Train Tracks (feat. Struggle)",
+      "url": "https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202675,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD"
+    },
+    {
+      "album": {
+        "name": "People's Champ",
+        "url": "https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT"
+      },
+      "artists": [
+        {
+          "name": "Upchurch",
+          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231457,
+      "name": "Vows (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS"
+    },
+    {
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207269,
+      "name": "Wheels Fall Off",
+      "url": "https://open.spotify.com/track/4yGeJP63Z6gLEOZNHjkNnW"
+    },
+    {
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Whiskey Bent (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+    },
+    {
+      "album": {
+        "name": "Wild Ones (feat. Jelly Roll)",
+        "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141367,
+      "name": "Wild Ones (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie IV",
+        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Tommy Vext",
+          "url": "https://open.spotify.com/artist/0C8Tdbzb05PRgz58aKN5gc"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285631,
+      "name": "Winds of Change",
+      "url": "https://open.spotify.com/track/5jJOhbVGJt9O28IrPlBs7e"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Crktg"
 }

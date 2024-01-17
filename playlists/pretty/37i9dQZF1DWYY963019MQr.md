@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,787 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,492 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 56 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 |
 | 57 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 |
 | 58 | [Day and Age](https://open.spotify.com/track/6dYMhDVzfJYxlP3Hoa7ipt) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:41 |
-| 59 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 |
-| 60 | [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 |
-| 61 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 |
-| 62 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 |
-| 63 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 |
-| 64 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 |
-| 65 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 |
-| 66 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 |
-| 67 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
-| 68 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 |
-| 69 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
-| 70 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
+| 59 | [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 |
+| 60 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 |
+| 61 | [How High The Moon](https://open.spotify.com/track/62feEPkgAS1dAVN6EB06PQ) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 3:02 |
+| 62 | [Golden Slumbers](https://open.spotify.com/track/553aXMKRk0Kh41QpvbuuFt) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6) | [Plays McCartney](https://open.spotify.com/album/7Fo8n4zfC54z0Yjgv8qVKY) | 2:43 |
+| 63 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 |
+| 64 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 |
+| 65 | [When I Fall In Love](https://open.spotify.com/track/1hsPTRZmb8mf0wZQfMAdhG) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [When I Fall In Love](https://open.spotify.com/album/1Mw304xtAcLXdPpxkcuDXF) | 2:12 |
+| 66 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
+| 67 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 |
+| 68 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 |
+| 69 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 
-Snapshot ID: `MCwyNTQ4N2EzOWExZGJiYjZiMWEyNGJhMDg0M2E1N2EyY2UyOTI5OTFi`
+Snapshot ID: `MCwyMjA2ZWJjNjU3ZjYzMDY2ZDZjZGFjZjQ5MWQ1OTg0MjNiZjI0ZDJi`

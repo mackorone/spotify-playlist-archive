@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Makin Noi",
+        "url": "https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "suei",
+          "url": "https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162268,
+      "name": "Makin Noi",
+      "url": "https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e"
       },
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 156386,
       "name": "P0rn0 Gr@t1$",
       "url": "https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq"

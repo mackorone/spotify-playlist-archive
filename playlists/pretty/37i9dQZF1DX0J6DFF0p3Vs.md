@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,650 likes - 85 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,823 likes - 85 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 84 | [The Man I Love](https://open.spotify.com/track/6fAUPWKwkhEYXw4ukeTGeD) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius After Hours](https://open.spotify.com/album/7EJGrdiiltSQADyrwfDBnL) | 4:26 |
 | 85 | [You Don't Know What Love Is \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1to5IySvboywOgXW9jCjDn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:29 |
 
-Snapshot ID: `MCwzOWQzZmFhNzhmODE0OWEyMjRhNzE3OTQ4ZGE3NmZkOWFmMGNmMDI5`
+Snapshot ID: `MCwxZTZkMzNjNmI3Y2U2NmRiYTQwYTc5OWJkMWJjMjYyOTBhNTgxYTQw`

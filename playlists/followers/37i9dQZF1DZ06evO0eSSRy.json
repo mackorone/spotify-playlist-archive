@@ -1,472 +1,621 @@
 {
-  "2022-09-17": 459,
-  "2022-09-18": 459,
-  "2022-09-19": 459,
-  "2022-09-20": 459,
-  "2022-09-21": 459,
-  "2022-09-22": 459,
-  "2022-09-23": 459,
-  "2022-09-24": 459,
-  "2022-09-25": 460,
-  "2022-09-26": 459,
-  "2022-09-27": 459,
-  "2022-09-28": 459,
-  "2022-09-29": 459,
-  "2022-09-30": 459,
-  "2022-10-01": 459,
-  "2022-10-02": 459,
-  "2022-10-03": 460,
-  "2022-10-04": 459,
-  "2022-10-05": 459,
-  "2022-10-06": 460,
-  "2022-10-07": 460,
-  "2022-10-08": 460,
-  "2022-10-09": 460,
-  "2022-10-10": 460,
-  "2022-10-11": 460,
-  "2022-10-12": 460,
-  "2022-10-13": 460,
-  "2022-10-14": 460,
-  "2022-10-15": 459,
-  "2022-10-16": 460,
-  "2022-10-17": 460,
-  "2022-10-18": 461,
-  "2022-10-19": 460,
-  "2022-10-20": 461,
-  "2022-10-21": 461,
-  "2022-10-22": 461,
-  "2022-10-23": 461,
-  "2022-10-24": 460,
-  "2022-10-25": 460,
-  "2022-10-26": 460,
-  "2022-10-27": 460,
-  "2022-10-28": 460,
-  "2022-10-29": 460,
-  "2022-10-30": 461,
-  "2022-10-31": 461,
-  "2022-11-01": 461,
-  "2022-11-02": 461,
-  "2022-11-03": 461,
-  "2022-11-04": 461,
-  "2022-11-05": 461,
-  "2022-11-06": 461,
-  "2022-11-07": 461,
-  "2022-11-08": 461,
-  "2022-11-09": 460,
-  "2022-11-10": 460,
-  "2022-11-11": 460,
-  "2022-11-12": 459,
-  "2022-11-13": 459,
-  "2022-11-14": 459,
-  "2022-11-15": 459,
-  "2022-11-16": 459,
-  "2022-11-17": 459,
-  "2022-11-18": 459,
-  "2022-11-19": 459,
-  "2022-11-20": 459,
-  "2022-11-21": 460,
-  "2022-11-22": 460,
-  "2022-11-23": 461,
-  "2022-11-24": 461,
-  "2022-11-25": 461,
-  "2022-11-26": 462,
-  "2022-11-27": 462,
-  "2022-11-28": 464,
-  "2022-11-29": 463,
-  "2022-11-30": 463,
-  "2022-12-01": 463,
-  "2022-12-02": 464,
-  "2022-12-03": 464,
-  "2022-12-04": 464,
-  "2022-12-05": 464,
-  "2022-12-06": 464,
-  "2022-12-07": 464,
-  "2022-12-08": 464,
-  "2022-12-09": 464,
-  "2022-12-10": 463,
-  "2022-12-11": 463,
-  "2022-12-12": 464,
-  "2022-12-13": 463,
-  "2022-12-14": 463,
-  "2022-12-15": 464,
-  "2022-12-16": 464,
-  "2022-12-17": 465,
-  "2022-12-18": 465,
-  "2022-12-19": 466,
-  "2022-12-20": 466,
-  "2022-12-21": 466,
-  "2022-12-22": 466,
-  "2022-12-24": 467,
-  "2022-12-25": 467,
-  "2022-12-26": 468,
-  "2022-12-27": 468,
-  "2022-12-28": 468,
-  "2022-12-29": 468,
-  "2022-12-30": 467,
-  "2022-12-31": 468,
-  "2023-01-01": 468,
-  "2023-01-02": 468,
-  "2023-01-03": 468,
-  "2023-01-04": 468,
-  "2023-01-05": 468,
-  "2023-01-06": 468,
-  "2023-01-07": 468,
-  "2023-01-08": 468,
-  "2023-01-09": 468,
-  "2023-01-10": 468,
-  "2023-01-11": 468,
-  "2023-01-12": 468,
-  "2023-01-13": 468,
-  "2023-01-14": 468,
-  "2023-01-15": 468,
-  "2023-01-16": 468,
-  "2023-01-17": 468,
-  "2023-01-18": 468,
-  "2023-01-19": 469,
-  "2023-01-20": 470,
-  "2023-01-21": 470,
-  "2023-01-22": 470,
-  "2023-01-23": 470,
-  "2023-01-24": 471,
-  "2023-01-25": 471,
-  "2023-01-26": 472,
-  "2023-01-27": 472,
-  "2023-01-28": 472,
-  "2023-01-29": 472,
-  "2023-01-30": 472,
-  "2023-01-31": 472,
-  "2023-02-01": 472,
-  "2023-02-02": 472,
-  "2023-02-03": 472,
-  "2023-02-04": 472,
-  "2023-02-05": 472,
-  "2023-02-06": 472,
-  "2023-02-07": 472,
-  "2023-02-08": 472,
-  "2023-02-09": 472,
-  "2023-02-10": 472,
-  "2023-02-11": 472,
-  "2023-02-12": 472,
-  "2023-02-13": 471,
-  "2023-02-14": 471,
-  "2023-02-15": 471,
-  "2023-02-16": 471,
-  "2023-02-17": 471,
-  "2023-02-18": 470,
-  "2023-02-19": 470,
-  "2023-02-20": 470,
-  "2023-02-21": 470,
-  "2023-02-22": 470,
-  "2023-02-23": 469,
-  "2023-02-24": 470,
-  "2023-02-25": 469,
-  "2023-02-26": 469,
-  "2023-02-27": 469,
-  "2023-02-28": 469,
-  "2023-03-01": 469,
-  "2023-03-02": 469,
-  "2023-03-03": 469,
-  "2023-03-04": 469,
-  "2023-03-05": 469,
-  "2023-03-06": 469,
-  "2023-03-07": 469,
-  "2023-03-08": 470,
-  "2023-03-09": 470,
-  "2023-03-10": 470,
-  "2023-03-11": 470,
-  "2023-03-12": 470,
-  "2023-03-13": 470,
-  "2023-03-14": 471,
-  "2023-03-15": 469,
-  "2023-03-16": 469,
-  "2023-03-17": 469,
-  "2023-03-18": 473,
-  "2023-03-19": 473,
-  "2023-03-20": 473,
-  "2023-03-21": 474,
-  "2023-03-22": 475,
-  "2023-03-23": 474,
-  "2023-03-24": 474,
-  "2023-03-25": 475,
-  "2023-03-26": 475,
-  "2023-03-27": 476,
-  "2023-03-28": 476,
-  "2023-03-29": 477,
-  "2023-03-30": 476,
-  "2023-03-31": 476,
-  "2023-04-01": 476,
-  "2023-04-02": 479,
-  "2023-04-03": 479,
-  "2023-04-04": 479,
-  "2023-04-05": 482,
-  "2023-04-06": 482,
-  "2023-04-07": 482,
-  "2023-04-09": 482,
-  "2023-04-10": 483,
-  "2023-04-11": 482,
-  "2023-04-12": 482,
-  "2023-04-13": 481,
-  "2023-04-14": 482,
-  "2023-04-15": 482,
-  "2023-04-16": 484,
-  "2023-04-17": 485,
-  "2023-04-18": 486,
-  "2023-04-19": 486,
-  "2023-04-20": 486,
-  "2023-04-21": 488,
-  "2023-04-22": 488,
-  "2023-04-23": 491,
-  "2023-04-24": 493,
-  "2023-04-25": 493,
-  "2023-04-26": 493,
-  "2023-04-27": 493,
-  "2023-04-28": 493,
-  "2023-04-29": 493,
-  "2023-04-30": 493,
-  "2023-05-01": 493,
-  "2023-05-02": 494,
-  "2023-05-03": 493,
-  "2023-05-04": 495,
-  "2023-05-05": 496,
-  "2023-05-06": 496,
-  "2023-05-07": 497,
-  "2023-05-08": 498,
-  "2023-05-09": 499,
-  "2023-05-10": 498,
-  "2023-05-11": 498,
-  "2023-05-12": 498,
-  "2023-05-13": 501,
-  "2023-05-14": 500,
-  "2023-05-15": 501,
-  "2023-05-16": 502,
-  "2023-05-17": 503,
-  "2023-05-18": 503,
-  "2023-05-19": 505,
-  "2023-05-20": 505,
-  "2023-05-21": 505,
-  "2023-05-22": 505,
-  "2023-05-23": 506,
-  "2023-05-24": 508,
-  "2023-05-25": 508,
-  "2023-05-26": 508,
-  "2023-05-27": 508,
-  "2023-05-28": 510,
-  "2023-05-29": 510,
-  "2023-05-30": 511,
-  "2023-05-31": 511,
-  "2023-06-01": 513,
-  "2023-06-02": 513,
-  "2023-06-03": 514,
-  "2023-06-04": 514,
-  "2023-06-05": 515,
-  "2023-06-06": 515,
-  "2023-06-07": 515,
-  "2023-06-08": 516,
-  "2023-06-09": 516,
-  "2023-06-10": 516,
-  "2023-06-11": 518,
-  "2023-06-12": 520,
-  "2023-06-13": 520,
-  "2023-06-14": 520,
-  "2023-06-15": 521,
-  "2023-06-16": 522,
-  "2023-06-17": 525,
-  "2023-06-18": 525,
-  "2023-06-19": 527,
-  "2023-06-20": 526,
-  "2023-06-21": 528,
-  "2023-06-22": 528,
-  "2023-06-23": 528,
-  "2023-06-24": 529,
-  "2023-06-25": 528,
-  "2023-06-26": 530,
-  "2023-06-27": 530,
-  "2023-06-28": 531,
-  "2023-06-29": 532,
-  "2023-06-30": 533,
-  "2023-07-01": 535,
-  "2023-07-02": 535,
-  "2023-07-03": 535,
-  "2023-07-04": 537,
-  "2023-07-05": 537,
-  "2023-07-06": 537,
-  "2023-07-07": 537,
-  "2023-07-08": 538,
-  "2023-07-09": 537,
-  "2023-07-10": 539,
-  "2023-07-11": 540,
-  "2023-07-12": 540,
-  "2023-07-13": 540,
-  "2023-07-14": 542,
-  "2023-07-15": 543,
-  "2023-07-16": 543,
-  "2023-07-17": 544,
-  "2023-07-18": 544,
-  "2023-07-19": 547,
-  "2023-07-20": 548,
-  "2023-07-21": 549,
-  "2023-07-22": 550,
-  "2023-07-23": 554,
-  "2023-07-24": 555,
-  "2023-07-25": 557,
-  "2023-07-26": 559,
-  "2023-07-27": 559,
-  "2023-07-28": 560,
-  "2023-07-29": 560,
-  "2023-07-30": 560,
-  "2023-07-31": 561,
-  "2023-08-01": 562,
-  "2023-08-02": 563,
-  "2023-08-03": 563,
-  "2023-08-04": 566,
-  "2023-08-05": 566,
-  "2023-08-06": 566,
-  "2023-08-07": 566,
-  "2023-08-08": 566,
-  "2023-08-09": 567,
-  "2023-08-10": 567,
-  "2023-08-11": 567,
-  "2023-08-12": 567,
-  "2023-08-13": 567,
-  "2023-08-14": 572,
-  "2023-08-15": 572,
-  "2023-08-16": 572,
-  "2023-08-17": 576,
-  "2023-08-18": 576,
-  "2023-08-19": 579,
-  "2023-08-20": 579,
-  "2023-08-21": 579,
-  "2023-08-22": 580,
-  "2023-08-23": 581,
-  "2023-08-24": 581,
-  "2023-08-25": 581,
-  "2023-08-26": 583,
-  "2023-08-27": 584,
-  "2023-08-28": 583,
-  "2023-08-29": 583,
-  "2023-08-30": 583,
-  "2023-08-31": 585,
-  "2023-09-01": 586,
-  "2023-09-02": 586,
-  "2023-09-03": 586,
-  "2023-09-04": 586,
-  "2023-09-05": 586,
-  "2023-09-06": 586,
-  "2023-09-07": 586,
-  "2023-09-08": 586,
-  "2023-09-09": 586,
-  "2023-09-10": 589,
-  "2023-09-11": 589,
-  "2023-09-12": 589,
-  "2023-09-13": 590,
-  "2023-09-14": 590,
-  "2023-09-15": 590,
-  "2023-09-16": 591,
-  "2023-09-17": 591,
-  "2023-09-18": 591,
-  "2023-09-19": 592,
-  "2023-09-20": 592,
-  "2023-09-21": 592,
-  "2023-09-22": 593,
-  "2023-09-23": 593,
-  "2023-09-24": 593,
-  "2023-09-25": 593,
-  "2023-09-26": 593,
-  "2023-09-27": 593,
-  "2023-09-28": 593,
-  "2023-09-29": 593,
-  "2023-09-30": 593,
-  "2023-10-01": 593,
-  "2023-10-02": 595,
-  "2023-10-03": 595,
-  "2023-10-04": 595,
-  "2023-10-05": 595,
-  "2023-10-06": 594,
-  "2023-10-07": 594,
-  "2023-10-08": 594,
-  "2023-10-09": 594,
-  "2023-10-10": 594,
-  "2023-10-11": 595,
-  "2023-10-12": 595,
-  "2023-10-13": 595,
-  "2023-10-14": 595,
-  "2023-10-15": 595,
-  "2023-10-16": 595,
-  "2023-10-17": 595,
-  "2023-10-18": 595,
-  "2023-10-19": 595,
-  "2023-10-20": 595,
-  "2023-10-21": 595,
-  "2023-10-22": 595,
-  "2023-10-23": 595,
-  "2023-10-24": 595,
-  "2023-10-25": 595,
-  "2023-10-26": 595,
-  "2023-10-27": 595,
-  "2023-10-28": 595,
-  "2023-10-29": 595,
-  "2023-10-30": 595,
-  "2023-10-31": 595,
-  "2023-11-01": 595,
-  "2023-11-02": 595,
-  "2023-11-03": 595,
-  "2023-11-04": 595,
-  "2023-11-05": 595,
-  "2023-11-06": 595,
-  "2023-11-07": 595,
-  "2023-11-08": 595,
-  "2023-11-09": 595,
-  "2023-11-10": 595,
-  "2023-11-11": 604,
-  "2023-11-12": 604,
-  "2023-11-13": 604,
-  "2023-11-14": 604,
-  "2023-11-15": 604,
-  "2023-11-16": 604,
-  "2023-11-17": 604,
-  "2023-11-18": 604,
-  "2023-11-19": 604,
-  "2023-11-20": 604,
-  "2023-11-21": 604,
-  "2023-11-22": 604,
-  "2023-11-23": 604,
-  "2023-11-24": 604,
-  "2023-11-25": 604,
-  "2023-11-26": 604,
-  "2023-11-27": 604,
-  "2023-11-28": 604,
-  "2023-11-29": 604,
-  "2023-11-30": 604,
-  "2023-12-01": 604,
-  "2023-12-02": 604,
-  "2023-12-03": 604,
-  "2023-12-04": 604,
-  "2023-12-05": 604,
-  "2023-12-06": 604,
-  "2023-12-07": 604,
-  "2023-12-08": 604,
-  "2023-12-09": 604,
-  "2023-12-10": 604,
-  "2023-12-11": 604,
-  "2023-12-12": 604,
-  "2023-12-13": 604,
-  "2023-12-14": 610,
-  "2023-12-15": 610,
-  "2023-12-16": 611,
-  "2023-12-17": 611,
-  "2023-12-18": 612,
-  "2023-12-19": 612,
-  "2023-12-20": 613,
-  "2023-12-21": 615,
-  "2023-12-22": 616,
-  "2023-12-23": 617,
-  "2023-12-24": 617,
-  "2023-12-25": 617,
-  "2023-12-26": 617,
-  "2023-12-27": 616,
-  "2023-12-30": 619,
-  "2023-12-31": 619,
-  "2024-01-01": 619,
-  "2024-01-02": 618,
-  "2024-01-03": 619
+  "2024-01-17": 621,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is P\u00c6RISH. The essential tracks, all in one playlist.",
+  "name": "This Is P\u00c6RISH",
+  "tracks": [
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234065,
+      "name": "412",
+      "url": "https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180736,
+      "name": "7-57",
+      "url": "https://open.spotify.com/track/2WMmoQEfnPoPxi7fHDebnK"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177658,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 246231,
+      "name": "Albert Suffers",
+      "url": "https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197915,
+      "name": "Archives",
+      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
+    },
+    {
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 245788,
+      "name": "Brian Wilfuzz",
+      "url": "https://open.spotify.com/track/3kfobAX9fSj7Dc0KsCCzz5"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+    },
+    {
+      "album": {
+        "name": "Houses of American Style",
+        "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 211274,
+      "name": "I Got Punched in the Face, What's Your Excuse",
+      "url": "https://open.spotify.com/track/1UWkXVBzlGeADNlUXep8B5"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243612,
+      "name": "It Only Bothers You",
+      "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208974,
+      "name": "Journey of the Prairie King",
+      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
+    },
+    {
+      "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 136099,
+      "name": "My Every Step",
+      "url": "https://open.spotify.com/track/17AB8UiKW3MO4euoJQEofd"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228789,
+      "name": "Party's over, Biff",
+      "url": "https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 223946,
+      "name": "Semi Finalists",
+      "url": "https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 205514,
+      "name": "ShaqFu",
+      "url": "https://open.spotify.com/track/5myvfocYHmjLdbIvHhExo5"
+    },
+    {
+      "album": {
+        "name": "Stick to Silence",
+        "url": "https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226456,
+      "name": "Stick to Silence",
+      "url": "https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
+    },
+    {
+      "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
+        "name": "The Luck You Had",
+        "url": "https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252169,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-27",
+      "duration_ms": 254528,
+      "name": "Winona Ryder",
+      "url": "https://open.spotify.com/track/3Ss1NP5PLQmRakgtYwUS0o"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 185433,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0eSSRy"
 }

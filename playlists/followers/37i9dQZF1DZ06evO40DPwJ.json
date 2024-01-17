@@ -1,731 +1,1133 @@
 {
-  "2021-12-29": 12559,
-  "2021-12-30": 12562,
-  "2021-12-31": 12571,
-  "2022-01-01": 12580,
-  "2022-01-02": 12586,
-  "2022-01-03": 12587,
-  "2022-01-04": 12598,
-  "2022-01-05": 12609,
-  "2022-01-06": 12612,
-  "2022-01-07": 12616,
-  "2022-01-08": 12624,
-  "2022-01-09": 12624,
-  "2022-01-10": 12625,
-  "2022-01-11": 12635,
-  "2022-01-12": 12640,
-  "2022-01-13": 12647,
-  "2022-01-14": 12654,
-  "2022-01-15": 12669,
-  "2022-01-16": 12669,
-  "2022-01-17": 12691,
-  "2022-01-18": 12691,
-  "2022-01-19": 12693,
-  "2022-01-20": 12698,
-  "2022-01-21": 12700,
-  "2022-01-22": 12705,
-  "2022-01-23": 12709,
-  "2022-01-24": 12715,
-  "2022-01-25": 12719,
-  "2022-01-26": 12722,
-  "2022-01-27": 12728,
-  "2022-01-28": 12734,
-  "2022-01-29": 12739,
-  "2022-01-30": 12746,
-  "2022-01-31": 12747,
-  "2022-02-01": 12753,
-  "2022-02-02": 12757,
-  "2022-02-03": 12765,
-  "2022-02-04": 12772,
-  "2022-02-05": 12777,
-  "2022-02-06": 12784,
-  "2022-02-07": 12792,
-  "2022-02-08": 12797,
-  "2022-02-09": 12797,
-  "2022-02-10": 12806,
-  "2022-02-11": 12816,
-  "2022-02-12": 12820,
-  "2022-02-13": 12828,
-  "2022-02-14": 12834,
-  "2022-02-15": 12832,
-  "2022-02-16": 12833,
-  "2022-02-17": 12840,
-  "2022-02-18": 12847,
-  "2022-02-19": 12843,
-  "2022-02-20": 12847,
-  "2022-02-21": 12851,
-  "2022-02-22": 12851,
-  "2022-02-23": 12858,
-  "2022-02-24": 12862,
-  "2022-02-25": 12866,
-  "2022-02-26": 12870,
-  "2022-02-27": 12887,
-  "2022-02-28": 12887,
-  "2022-03-01": 12889,
-  "2022-03-02": 12902,
-  "2022-03-03": 12907,
-  "2022-03-04": 12908,
-  "2022-03-05": 12917,
-  "2022-03-06": 12922,
-  "2022-03-07": 12928,
-  "2022-03-08": 12936,
-  "2022-03-09": 12939,
-  "2022-03-10": 12948,
-  "2022-03-11": 12951,
-  "2022-03-12": 12954,
-  "2022-03-13": 12964,
-  "2022-03-14": 12964,
-  "2022-03-15": 12968,
-  "2022-03-16": 12970,
-  "2022-03-17": 12976,
-  "2022-03-18": 12983,
-  "2022-03-19": 12990,
-  "2022-03-20": 12990,
-  "2022-03-21": 13006,
-  "2022-03-22": 13009,
-  "2022-03-23": 13015,
-  "2022-03-24": 13018,
-  "2022-03-25": 13025,
-  "2022-03-26": 13033,
-  "2022-03-27": 13041,
-  "2022-03-28": 13047,
-  "2022-03-30": 13058,
-  "2022-03-31": 13068,
-  "2022-04-01": 13080,
-  "2022-04-02": 13088,
-  "2022-04-03": 13091,
-  "2022-04-04": 13093,
-  "2022-04-05": 13093,
-  "2022-04-06": 13099,
-  "2022-04-07": 13104,
-  "2022-04-08": 13112,
-  "2022-04-09": 13114,
-  "2022-04-10": 13120,
-  "2022-04-11": 13122,
-  "2022-04-12": 13122,
-  "2022-04-13": 13122,
-  "2022-04-14": 13127,
-  "2022-04-15": 13130,
-  "2022-04-16": 13134,
-  "2022-04-17": 13136,
-  "2022-04-18": 13141,
-  "2022-04-19": 13146,
-  "2022-04-20": 13149,
-  "2022-04-21": 13155,
-  "2022-04-22": 13164,
-  "2022-04-23": 13173,
-  "2022-04-24": 13181,
-  "2022-04-25": 13190,
-  "2022-04-26": 13195,
-  "2022-04-27": 13195,
-  "2022-04-28": 13196,
-  "2022-04-29": 13204,
-  "2022-04-30": 13205,
-  "2022-05-01": 13213,
-  "2022-05-02": 13213,
-  "2022-05-03": 13217,
-  "2022-05-04": 13220,
-  "2022-05-05": 13224,
-  "2022-05-06": 13232,
-  "2022-05-07": 13240,
-  "2022-05-08": 13248,
-  "2022-05-09": 13247,
-  "2022-05-10": 13243,
-  "2022-05-11": 13252,
-  "2022-05-12": 13258,
-  "2022-05-13": 13263,
-  "2022-05-14": 13270,
-  "2022-05-15": 13275,
-  "2022-05-16": 13276,
-  "2022-05-17": 13280,
-  "2022-05-18": 13283,
-  "2022-05-19": 13288,
-  "2022-05-20": 13293,
-  "2022-05-21": 13303,
-  "2022-05-22": 13303,
-  "2022-05-23": 13310,
-  "2022-05-24": 13315,
-  "2022-05-25": 13317,
-  "2022-05-26": 13317,
-  "2022-05-27": 13317,
-  "2022-05-28": 13325,
-  "2022-05-29": 13336,
-  "2022-05-30": 13338,
-  "2022-05-31": 13349,
-  "2022-06-01": 13358,
-  "2022-06-02": 13356,
-  "2022-06-03": 13361,
-  "2022-06-04": 13363,
-  "2022-06-05": 13366,
-  "2022-06-06": 13372,
-  "2022-06-07": 13383,
-  "2022-06-08": 13385,
-  "2022-06-09": 13389,
-  "2022-06-10": 13393,
-  "2022-06-11": 13399,
-  "2022-06-12": 13414,
-  "2022-06-13": 13418,
-  "2022-06-14": 13422,
-  "2022-06-15": 13420,
-  "2022-06-16": 13422,
-  "2022-06-17": 13426,
-  "2022-06-18": 13431,
-  "2022-06-19": 13440,
-  "2022-06-20": 13440,
-  "2022-06-21": 13448,
-  "2022-06-22": 13460,
-  "2022-06-23": 13460,
-  "2022-06-24": 13463,
-  "2022-06-25": 13465,
-  "2022-06-26": 13473,
-  "2022-06-27": 13478,
-  "2022-06-28": 13483,
-  "2022-06-29": 13484,
-  "2022-06-30": 13484,
-  "2022-07-01": 13489,
-  "2022-07-02": 13497,
-  "2022-07-03": 13506,
-  "2022-07-04": 13507,
-  "2022-07-05": 13507,
-  "2022-07-06": 13507,
-  "2022-07-07": 13514,
-  "2022-07-08": 13515,
-  "2022-07-09": 13518,
-  "2022-07-10": 13529,
-  "2022-07-11": 13536,
-  "2022-07-12": 13540,
-  "2022-07-13": 13544,
-  "2022-07-14": 13546,
-  "2022-07-15": 13550,
-  "2022-07-16": 13557,
-  "2022-07-17": 13560,
-  "2022-07-18": 13563,
-  "2022-07-19": 13566,
-  "2022-07-20": 13570,
-  "2022-07-21": 13577,
-  "2022-07-22": 13584,
-  "2022-07-23": 13586,
-  "2022-07-24": 13594,
-  "2022-07-25": 13604,
-  "2022-07-26": 13607,
-  "2022-07-27": 13618,
-  "2022-07-28": 13618,
-  "2022-07-29": 13620,
-  "2022-07-30": 13632,
-  "2022-07-31": 13632,
-  "2022-08-01": 13636,
-  "2022-08-02": 13650,
-  "2022-08-03": 13650,
-  "2022-08-04": 13656,
-  "2022-08-05": 13660,
-  "2022-08-06": 13662,
-  "2022-08-07": 13672,
-  "2022-08-08": 13683,
-  "2022-08-09": 13687,
-  "2022-08-10": 13689,
-  "2022-08-11": 13695,
-  "2022-08-12": 13701,
-  "2022-08-13": 13703,
-  "2022-08-14": 13706,
-  "2022-08-15": 13709,
-  "2022-08-16": 13713,
-  "2022-08-17": 13723,
-  "2022-08-18": 13728,
-  "2022-08-19": 13731,
-  "2022-08-20": 13745,
-  "2022-08-21": 13753,
-  "2022-08-22": 13760,
-  "2022-08-23": 13764,
-  "2022-08-24": 13769,
-  "2022-08-25": 13781,
-  "2022-08-26": 13789,
-  "2022-08-27": 13789,
-  "2022-08-28": 13793,
-  "2022-08-29": 13801,
-  "2022-08-30": 13805,
-  "2022-08-31": 13807,
-  "2022-09-01": 13805,
-  "2022-09-02": 13808,
-  "2022-09-03": 13815,
-  "2022-09-04": 13826,
-  "2022-09-05": 13828,
-  "2022-09-06": 13828,
-  "2022-09-07": 13833,
-  "2022-09-09": 13846,
-  "2022-09-10": 13854,
-  "2022-09-11": 13857,
-  "2022-09-12": 13860,
-  "2022-09-13": 13867,
-  "2022-09-15": 13877,
-  "2022-09-16": 13881,
-  "2022-09-17": 13886,
-  "2022-09-18": 13893,
-  "2022-09-19": 13899,
-  "2022-09-20": 13898,
-  "2022-09-21": 13903,
-  "2022-09-22": 13906,
-  "2022-09-23": 13911,
-  "2022-09-24": 13911,
-  "2022-09-25": 13926,
-  "2022-09-26": 13931,
-  "2022-09-27": 13938,
-  "2022-09-28": 13940,
-  "2022-09-29": 13949,
-  "2022-09-30": 13951,
-  "2022-10-01": 13957,
-  "2022-10-02": 13965,
-  "2022-10-03": 13976,
-  "2022-10-04": 13983,
-  "2022-10-05": 13992,
-  "2022-10-06": 14000,
-  "2022-10-07": 14004,
-  "2022-10-08": 14007,
-  "2022-10-09": 14023,
-  "2022-10-10": 14022,
-  "2022-10-11": 14024,
-  "2022-10-12": 14028,
-  "2022-10-13": 14029,
-  "2022-10-14": 14034,
-  "2022-10-15": 14039,
-  "2022-10-16": 14046,
-  "2022-10-17": 14050,
-  "2022-10-18": 14052,
-  "2022-10-19": 14053,
-  "2022-10-20": 14058,
-  "2022-10-21": 14061,
-  "2022-10-22": 14066,
-  "2022-10-23": 14064,
-  "2022-10-24": 14065,
-  "2022-10-25": 14066,
-  "2022-10-26": 14070,
-  "2022-10-27": 14079,
-  "2022-10-28": 14083,
-  "2022-10-29": 14092,
-  "2022-10-30": 14096,
-  "2022-10-31": 14095,
-  "2022-11-01": 14104,
-  "2022-11-02": 14115,
-  "2022-11-03": 14117,
-  "2022-11-04": 14119,
-  "2022-11-05": 14123,
-  "2022-11-06": 14123,
-  "2022-11-07": 14124,
-  "2022-11-08": 14133,
-  "2022-11-09": 14134,
-  "2022-11-10": 14142,
-  "2022-11-11": 14149,
-  "2022-11-12": 14152,
-  "2022-11-13": 14158,
-  "2022-11-14": 14162,
-  "2022-11-15": 14166,
-  "2022-11-16": 14169,
-  "2022-11-17": 14177,
-  "2022-11-18": 14176,
-  "2022-11-19": 14177,
-  "2022-11-20": 14186,
-  "2022-11-21": 14184,
-  "2022-11-22": 14194,
-  "2022-11-23": 14199,
-  "2022-11-24": 14203,
-  "2022-11-25": 14213,
-  "2022-11-26": 14214,
-  "2022-11-27": 14222,
-  "2022-11-28": 14227,
-  "2022-11-29": 14227,
-  "2022-11-30": 14225,
-  "2022-12-01": 14233,
-  "2022-12-02": 14242,
-  "2022-12-03": 14245,
-  "2022-12-04": 14244,
-  "2022-12-05": 14248,
-  "2022-12-06": 14255,
-  "2022-12-07": 14261,
-  "2022-12-08": 14261,
-  "2022-12-09": 14268,
-  "2022-12-10": 14272,
-  "2022-12-11": 14277,
-  "2022-12-12": 14279,
-  "2022-12-13": 14293,
-  "2022-12-14": 14293,
-  "2022-12-15": 14302,
-  "2022-12-16": 14305,
-  "2022-12-17": 14311,
-  "2022-12-18": 14313,
-  "2022-12-19": 14317,
-  "2022-12-20": 14322,
-  "2022-12-21": 14322,
-  "2022-12-22": 14331,
-  "2022-12-24": 14345,
-  "2022-12-25": 14355,
-  "2022-12-26": 14361,
-  "2022-12-27": 14366,
-  "2022-12-28": 14367,
-  "2022-12-29": 14373,
-  "2022-12-30": 14376,
-  "2022-12-31": 14384,
-  "2023-01-01": 14385,
-  "2023-01-02": 14392,
-  "2023-01-03": 14399,
-  "2023-01-04": 14404,
-  "2023-01-05": 14414,
-  "2023-01-06": 14421,
-  "2023-01-07": 14429,
-  "2023-01-08": 14431,
-  "2023-01-09": 14438,
-  "2023-01-10": 14444,
-  "2023-01-11": 14448,
-  "2023-01-12": 14451,
-  "2023-01-13": 14458,
-  "2023-01-14": 14469,
-  "2023-01-15": 14473,
-  "2023-01-16": 14474,
-  "2023-01-17": 14475,
-  "2023-01-18": 14482,
-  "2023-01-19": 14487,
-  "2023-01-20": 14495,
-  "2023-01-21": 14504,
-  "2023-01-22": 14511,
-  "2023-01-23": 14514,
-  "2023-01-24": 14518,
-  "2023-01-25": 14521,
-  "2023-01-26": 14531,
-  "2023-01-27": 14543,
-  "2023-01-28": 14549,
-  "2023-01-29": 14551,
-  "2023-01-30": 14560,
-  "2023-01-31": 14560,
-  "2023-02-01": 14572,
-  "2023-02-02": 14575,
-  "2023-02-03": 14588,
-  "2023-02-04": 14595,
-  "2023-02-05": 14600,
-  "2023-02-06": 14605,
-  "2023-02-07": 14608,
-  "2023-02-08": 14616,
-  "2023-02-09": 14616,
-  "2023-02-10": 14623,
-  "2023-02-11": 14630,
-  "2023-02-12": 14643,
-  "2023-02-13": 14649,
-  "2023-02-14": 14649,
-  "2023-02-15": 14657,
-  "2023-02-16": 14655,
-  "2023-02-17": 14665,
-  "2023-02-18": 14679,
-  "2023-02-19": 14681,
-  "2023-02-20": 14686,
-  "2023-02-21": 14694,
-  "2023-02-22": 14701,
-  "2023-02-23": 14715,
-  "2023-02-24": 14718,
-  "2023-02-25": 14731,
-  "2023-02-26": 14736,
-  "2023-02-27": 14745,
-  "2023-02-28": 14745,
-  "2023-03-01": 14754,
-  "2023-03-02": 14757,
-  "2023-03-03": 14764,
-  "2023-03-04": 14774,
-  "2023-03-05": 14784,
-  "2023-03-06": 14784,
-  "2023-03-07": 14786,
-  "2023-03-08": 14795,
-  "2023-03-09": 14792,
-  "2023-03-10": 14796,
-  "2023-03-11": 14800,
-  "2023-03-12": 14807,
-  "2023-03-13": 14821,
-  "2023-03-14": 14823,
-  "2023-03-15": 14831,
-  "2023-03-16": 14831,
-  "2023-03-17": 14831,
-  "2023-03-18": 14855,
-  "2023-03-19": 14855,
-  "2023-03-20": 14868,
-  "2023-03-21": 14875,
-  "2023-03-22": 14883,
-  "2023-03-23": 14887,
-  "2023-03-24": 14887,
-  "2023-03-25": 14900,
-  "2023-03-26": 14902,
-  "2023-03-27": 14910,
-  "2023-03-28": 14919,
-  "2023-03-29": 14930,
-  "2023-03-30": 14935,
-  "2023-03-31": 14935,
-  "2023-04-01": 14942,
-  "2023-04-02": 14945,
-  "2023-04-03": 14955,
-  "2023-04-04": 14963,
-  "2023-04-05": 14966,
-  "2023-04-06": 14981,
-  "2023-04-07": 14986,
-  "2023-04-09": 15000,
-  "2023-04-10": 15011,
-  "2023-04-11": 15034,
-  "2023-04-12": 15034,
-  "2023-04-13": 15043,
-  "2023-04-14": 15051,
-  "2023-04-15": 15061,
-  "2023-04-16": 15066,
-  "2023-04-17": 15070,
-  "2023-04-18": 15080,
-  "2023-04-19": 15082,
-  "2023-04-20": 15090,
-  "2023-04-21": 15094,
-  "2023-04-22": 15100,
-  "2023-04-23": 15110,
-  "2023-04-24": 15122,
-  "2023-04-25": 15123,
-  "2023-04-26": 15128,
-  "2023-04-27": 15135,
-  "2023-04-28": 15143,
-  "2023-04-29": 15152,
-  "2023-04-30": 15156,
-  "2023-05-01": 15156,
-  "2023-05-02": 15160,
-  "2023-05-03": 15159,
-  "2023-05-04": 15163,
-  "2023-05-05": 15168,
-  "2023-05-06": 15169,
-  "2023-05-07": 15172,
-  "2023-05-08": 15176,
-  "2023-05-09": 15184,
-  "2023-05-10": 15187,
-  "2023-05-11": 15196,
-  "2023-05-12": 15197,
-  "2023-05-13": 15204,
-  "2023-05-14": 15212,
-  "2023-05-15": 15217,
-  "2023-05-16": 15227,
-  "2023-05-17": 15231,
-  "2023-05-18": 15244,
-  "2023-05-19": 15246,
-  "2023-05-20": 15257,
-  "2023-05-21": 15257,
-  "2023-05-22": 15257,
-  "2023-05-23": 15268,
-  "2023-05-24": 15276,
-  "2023-05-25": 15278,
-  "2023-05-26": 15287,
-  "2023-05-27": 15292,
-  "2023-05-28": 15293,
-  "2023-05-29": 15293,
-  "2023-05-30": 15300,
-  "2023-05-31": 15304,
-  "2023-06-01": 15309,
-  "2023-06-02": 15313,
-  "2023-06-03": 15322,
-  "2023-06-04": 15328,
-  "2023-06-05": 15336,
-  "2023-06-06": 15343,
-  "2023-06-07": 15348,
-  "2023-06-08": 15354,
-  "2023-06-09": 15358,
-  "2023-06-10": 15369,
-  "2023-06-11": 15368,
-  "2023-06-12": 15370,
-  "2023-06-13": 15373,
-  "2023-06-14": 15376,
-  "2023-06-15": 15380,
-  "2023-06-16": 15384,
-  "2023-06-17": 15388,
-  "2023-06-18": 15392,
-  "2023-06-19": 15395,
-  "2023-06-20": 15395,
-  "2023-06-21": 15402,
-  "2023-06-22": 15404,
-  "2023-06-23": 15413,
-  "2023-06-24": 15417,
-  "2023-06-25": 15423,
-  "2023-06-26": 15434,
-  "2023-06-27": 15440,
-  "2023-06-28": 15443,
-  "2023-06-29": 15446,
-  "2023-06-30": 15454,
-  "2023-07-01": 15458,
-  "2023-07-02": 15458,
-  "2023-07-03": 15466,
-  "2023-07-04": 15467,
-  "2023-07-05": 15471,
-  "2023-07-06": 15481,
-  "2023-07-07": 15481,
-  "2023-07-08": 15481,
-  "2023-07-09": 15494,
-  "2023-07-10": 15499,
-  "2023-07-11": 15503,
-  "2023-07-12": 15505,
-  "2023-07-13": 15510,
-  "2023-07-14": 15517,
-  "2023-07-15": 15523,
-  "2023-07-16": 15529,
-  "2023-07-17": 15535,
-  "2023-07-18": 15539,
-  "2023-07-19": 15543,
-  "2023-07-20": 15543,
-  "2023-07-21": 15552,
-  "2023-07-22": 15555,
-  "2023-07-23": 15562,
-  "2023-07-24": 15563,
-  "2023-07-25": 15570,
-  "2023-07-26": 15576,
-  "2023-07-27": 15584,
-  "2023-07-28": 15584,
-  "2023-07-29": 15597,
-  "2023-07-30": 15597,
-  "2023-07-31": 15605,
-  "2023-08-01": 15614,
-  "2023-08-02": 15618,
-  "2023-08-03": 15630,
-  "2023-08-04": 15636,
-  "2023-08-05": 15639,
-  "2023-08-06": 15658,
-  "2023-08-07": 15658,
-  "2023-08-08": 15660,
-  "2023-08-09": 15662,
-  "2023-08-10": 15665,
-  "2023-08-11": 15665,
-  "2023-08-12": 15665,
-  "2023-08-13": 15665,
-  "2023-08-14": 15665,
-  "2023-08-15": 15665,
-  "2023-08-16": 15665,
-  "2023-08-17": 15665,
-  "2023-08-18": 15665,
-  "2023-08-19": 15665,
-  "2023-08-20": 15715,
-  "2023-08-21": 15715,
-  "2023-08-22": 15731,
-  "2023-08-23": 15731,
-  "2023-08-24": 15731,
-  "2023-08-25": 15731,
-  "2023-08-26": 15754,
-  "2023-08-27": 15754,
-  "2023-08-28": 15759,
-  "2023-08-29": 15759,
-  "2023-08-30": 15759,
-  "2023-08-31": 15777,
-  "2023-09-01": 15778,
-  "2023-09-02": 15778,
-  "2023-09-03": 15778,
-  "2023-09-04": 15778,
-  "2023-09-05": 15778,
-  "2023-09-06": 15778,
-  "2023-09-07": 15778,
-  "2023-09-08": 15778,
-  "2023-09-09": 15778,
-  "2023-09-10": 15778,
-  "2023-09-11": 15778,
-  "2023-09-12": 15778,
-  "2023-09-13": 15778,
-  "2023-09-14": 15778,
-  "2023-09-15": 15778,
-  "2023-09-16": 15855,
-  "2023-09-17": 15855,
-  "2023-09-18": 15855,
-  "2023-09-19": 15855,
-  "2023-09-20": 15855,
-  "2023-09-21": 15855,
-  "2023-09-22": 15887,
-  "2023-09-23": 15887,
-  "2023-09-24": 15887,
-  "2023-09-25": 15887,
-  "2023-09-26": 15914,
-  "2023-09-27": 15914,
-  "2023-09-28": 15914,
-  "2023-09-29": 15914,
-  "2023-09-30": 15914,
-  "2023-10-01": 15914,
-  "2023-10-02": 15914,
-  "2023-10-03": 15914,
-  "2023-10-04": 15914,
-  "2023-10-05": 15914,
-  "2023-10-06": 15914,
-  "2023-10-07": 15914,
-  "2023-10-08": 15914,
-  "2023-10-09": 15914,
-  "2023-10-10": 15914,
-  "2023-10-11": 15914,
-  "2023-10-12": 15914,
-  "2023-10-13": 15914,
-  "2023-10-14": 15914,
-  "2023-10-15": 15914,
-  "2023-10-16": 15914,
-  "2023-10-17": 15914,
-  "2023-10-18": 15914,
-  "2023-10-19": 15914,
-  "2023-10-20": 15914,
-  "2023-10-21": 15914,
-  "2023-10-22": 15914,
-  "2023-10-23": 15914,
-  "2023-10-24": 15914,
-  "2023-10-25": 15914,
-  "2023-10-26": 15914,
-  "2023-10-27": 15914,
-  "2023-10-28": 15914,
-  "2023-10-29": 15914,
-  "2023-10-30": 15914,
-  "2023-10-31": 15914,
-  "2023-11-01": 15914,
-  "2023-11-02": 15914,
-  "2023-11-03": 15914,
-  "2023-11-04": 15914,
-  "2023-11-05": 15914,
-  "2023-11-06": 15914,
-  "2023-11-07": 15914,
-  "2023-11-08": 15914,
-  "2023-11-09": 15914,
-  "2023-11-10": 15914,
-  "2023-11-11": 16169,
-  "2023-11-12": 16169,
-  "2023-11-13": 16169,
-  "2023-11-14": 16169,
-  "2023-11-15": 16169,
-  "2023-11-16": 16169,
-  "2023-11-17": 16169,
-  "2023-11-18": 16169,
-  "2023-11-19": 16169,
-  "2023-11-20": 16169,
-  "2023-11-21": 16169,
-  "2023-11-22": 16169,
-  "2023-11-23": 16169,
-  "2023-11-24": 16169,
-  "2023-11-25": 16169,
-  "2023-11-26": 16169,
-  "2023-11-27": 16169,
-  "2023-11-28": 16169,
-  "2023-11-29": 16169,
-  "2023-11-30": 16169,
-  "2023-12-01": 16169,
-  "2023-12-02": 16169,
-  "2023-12-03": 16169,
-  "2023-12-04": 16169,
-  "2023-12-05": 16169,
-  "2023-12-06": 16169,
-  "2023-12-07": 16169,
-  "2023-12-08": 16169,
-  "2023-12-09": 16169,
-  "2023-12-10": 16169,
-  "2023-12-11": 16169,
-  "2023-12-12": 16169,
-  "2023-12-13": 16169,
-  "2023-12-14": 16298,
-  "2023-12-15": 16302,
-  "2023-12-16": 16305,
-  "2023-12-17": 16311,
-  "2023-12-18": 16313,
-  "2023-12-19": 16318,
-  "2023-12-20": 16324,
-  "2023-12-21": 16328,
-  "2023-12-22": 16329,
-  "2023-12-23": 16330,
-  "2023-12-24": 16329,
-  "2023-12-25": 16336,
-  "2023-12-26": 16337,
-  "2023-12-27": 16340,
-  "2023-12-30": 16355,
-  "2023-12-31": 16355,
-  "2024-01-01": 16363,
-  "2024-01-02": 16365,
-  "2024-01-03": 16372
+  "2024-01-17": 16409,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
+  "name": "This Is Taio Cruz",
+  "tracks": [
+    {
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1ZlOVBJe134G0mm1N9eIf9"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/0u39yW18Oo0pURg5XrtSOv"
+    },
+    {
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
+    },
+    {
+      "album": {
+        "name": "Booty Bounce",
+        "url": "https://open.spotify.com/album/42n9ah7zuBftx5C0X09Xhs"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 196506,
+      "name": "Booty Bounce",
+      "url": "https://open.spotify.com/track/53TfXXQXVXUX7FvifN6ZZX"
+    },
+    {
+      "album": {
+        "name": "Booty Bounce",
+        "url": "https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Booty Bounce - Extended Mix",
+      "url": "https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
+    },
+    {
+      "album": {
+        "name": "Jersey Shore Soundtrack",
+        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266413,
+      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
+      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212613,
+      "name": "Come On Girl",
+      "url": "https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE"
+    },
+    {
+      "album": {
+        "name": "Rokstarr",
+        "url": "https://open.spotify.com/album/0ubDm7S0h9Yzt0CvwmOhGf"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 213320,
+      "name": "Come On Girl",
+      "url": "https://open.spotify.com/track/4jlySewVFl772WGuXXqzsp"
+    },
+    {
+      "album": {
+        "name": "Cryin' Over You",
+        "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
+      },
+      "artists": [
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Cryin Over You - Cahill Radio Edit",
+      "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Dirty Picture",
+      "url": "https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD"
+    },
+    {
+      "album": {
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/04zgNiSQl0PiOG85BNHwFP"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/1Tv1NuaM2jnCrGUE1cVaG6"
+    },
+    {
+      "album": {
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
+    },
+    {
+      "album": {
+        "name": "Party Attitude",
+        "url": "https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "DJ SNYPAYUSH",
+          "url": "https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 245356,
+      "name": "Dynamate",
+      "url": "https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "album": {
+        "name": "The Annual Compilation 2012 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "David May",
+          "url": "https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280312,
+      "name": "Dynamite - David May Rmx Edit",
+      "url": "https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe"
+    },
+    {
+      "album": {
+        "name": "Dynamite (The Remixes)",
+        "url": "https://open.spotify.com/album/1QIRKG66PdTq9PKf7ooDQA"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "StoneBridge",
+          "url": "https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Dynamite - Stonebridge Remix Radio Edit",
+      "url": "https://open.spotify.com/track/3woqA7BkmDe9ROuGkqo7WT"
+    },
+    {
+      "album": {
+        "name": "Ultimate R&B 2009 (International Version)",
+        "url": "https://open.spotify.com/album/4meVJvSnundOZ4jYKl2aYm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/6bRHHbM9mxFakL8gcDUUmG"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 211546,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/3u9dgy0yEKAUh02mjGmczS"
+    },
+    {
+      "album": {
+        "name": "The Fast Hits EP",
+        "url": "https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 217400,
+      "name": "Feel Again - Remastered 2010",
+      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Forever Love",
+      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244906,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/5pmL3RzOy3IvGFaSDi4hZL"
+    },
+    {
+      "album": {
+        "name": "Hangover (Latino Version)",
+        "url": "https://open.spotify.com/album/674xP1BV18kOu3aw6Jhmzz"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 244584,
+      "name": "Hangover (Latino Version)",
+      "url": "https://open.spotify.com/track/1kI6dbPJALktaIm1wF9G3V"
+    },
+    {
+      "album": {
+        "name": "Hangover (Remixes)",
+        "url": "https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Hangover - Hardwell Remix Radio Edit",
+      "url": "https://open.spotify.com/track/63fyL7QZ1vhGZzZ9G56rcp"
+    },
+    {
+      "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "I Can Be",
+      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Imagine - Big Brothers Big Sisters Charity Single",
+      "url": "https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p"
+    },
+    {
+      "album": {
+        "name": "NapsterLive Sessions",
+        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q"
+    },
+    {
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192275,
+      "name": "Little Bad Girl (feat. Taio Cruz & Ludacris)",
+      "url": "https://open.spotify.com/track/55VzNhbcf0Gxf6qRCUAV01"
+    },
+    {
+      "album": {
+        "name": "Higher (International)",
+        "url": "https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Little Lion Man - BBC Live version",
+      "url": "https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Make It Last Forever",
+      "url": "https://open.spotify.com/track/3v6FtXE6M4JuKo9zeuprb8"
+    },
+    {
+      "album": {
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196222,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
+    },
+    {
+      "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "No Other One - Remastered",
+      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/1Zy86iStgYViyKefN5cdkx"
+    },
+    {
+      "album": {
+        "name": "Row The Body (feat. French Montana)",
+        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Row The Body (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
+    },
+    {
+      "album": {
+        "name": "Third Strike",
+        "url": "https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ"
+      },
+      "artists": [
+        {
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P"
+    },
+    {
+      "album": {
+        "name": "NapsterLive Sessions",
+        "url": "https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "She's Always Gone! - NapsterLive",
+      "url": "https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs"
+    },
+    {
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218706,
+      "name": "She's Like A Star",
+      "url": "https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb"
+    },
+    {
+      "album": {
+        "name": "Above The Noise",
+        "url": "https://open.spotify.com/album/0PktNBv5Cem8XPnhkubCjR"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218615,
+      "name": "Shine A Light - Radio Edit",
+      "url": "https://open.spotify.com/track/5potQQ4p1E51003y375eVC"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Shotcaller",
+      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173119,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
+    },
+    {
+      "album": {
+        "name": "Catch 22",
+        "url": "https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY"
+      },
+      "artists": [
+        {
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu"
+    },
+    {
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206253,
+      "name": "Take Me Back - 2010 Remix",
+      "url": "https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
+      },
+      "artists": [
+        {
+          "name": "Tinchy Stryder",
+          "url": "https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Take Me Back Remix - feat. Sway & Chipmunk",
+      "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 192680,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb"
+    },
+    {
+      "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Telling The World",
+      "url": "https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw"
+    },
+    {
+      "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208611,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
+    },
+    {
+      "album": {
+        "name": "Time For You",
+        "url": "https://open.spotify.com/album/72J1dmhoEB2IFkRLMP5ZAR"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 199976,
+      "name": "Time For You",
+      "url": "https://open.spotify.com/track/5INdME9pj1dzHgHaQDIuwY"
+    },
+    {
+      "album": {
+        "name": "Time For You",
+        "url": "https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199976,
+      "name": "Time For You",
+      "url": "https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220280,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/60Qa4MfNC1dgVfuDF6rgMS"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "World In Our Hands",
+      "url": "https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd"
+    },
+    {
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 199066,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/4E8dV8dmrt8bz6sTV6tKF6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO40DPwJ"
 }

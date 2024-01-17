@@ -4499,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Michael Franks: A Backward Glance",
+        "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275400,
+      "name": "Popsicle Toes",
+      "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
+    },
+    {
+      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-15",
       "duration_ms": 230280,
       "name": "Space of You",
       "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 168229,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"

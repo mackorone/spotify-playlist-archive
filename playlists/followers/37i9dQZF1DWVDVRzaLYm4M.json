@@ -1,734 +1,2187 @@
 {
-  "2021-12-25": 166085,
-  "2021-12-26": 166171,
-  "2021-12-27": 166301,
-  "2021-12-28": 166300,
-  "2021-12-29": 166377,
-  "2021-12-30": 166438,
-  "2021-12-31": 166521,
-  "2022-01-01": 166635,
-  "2022-01-02": 166661,
-  "2022-01-03": 166701,
-  "2022-01-04": 166768,
-  "2022-01-05": 166839,
-  "2022-01-06": 166903,
-  "2022-01-07": 166944,
-  "2022-01-08": 167071,
-  "2022-01-09": 167073,
-  "2022-01-10": 167125,
-  "2022-01-11": 167198,
-  "2022-01-12": 167253,
-  "2022-01-13": 167304,
-  "2022-01-14": 167350,
-  "2022-01-15": 167501,
-  "2022-01-16": 167507,
-  "2022-01-17": 167632,
-  "2022-01-18": 167637,
-  "2022-01-19": 167662,
-  "2022-01-20": 167716,
-  "2022-01-21": 167779,
-  "2022-01-22": 167831,
-  "2022-01-23": 167903,
-  "2022-01-24": 167945,
-  "2022-01-25": 167992,
-  "2022-01-26": 168047,
-  "2022-01-27": 168089,
-  "2022-01-28": 168148,
-  "2022-01-29": 168187,
-  "2022-01-30": 168252,
-  "2022-01-31": 168295,
-  "2022-02-01": 168347,
-  "2022-02-02": 168401,
-  "2022-02-03": 168448,
-  "2022-02-04": 168524,
-  "2022-02-05": 168586,
-  "2022-02-06": 168636,
-  "2022-02-07": 168689,
-  "2022-02-08": 168736,
-  "2022-02-09": 168781,
-  "2022-02-10": 168826,
-  "2022-02-11": 168872,
-  "2022-02-12": 168906,
-  "2022-02-13": 168941,
-  "2022-02-14": 168997,
-  "2022-02-15": 169007,
-  "2022-02-16": 169046,
-  "2022-02-17": 169062,
-  "2022-02-18": 169081,
-  "2022-02-19": 169117,
-  "2022-02-20": 169155,
-  "2022-02-21": 169203,
-  "2022-02-22": 169233,
-  "2022-02-23": 169263,
-  "2022-02-24": 169306,
-  "2022-02-25": 169342,
-  "2022-02-26": 169447,
-  "2022-02-27": 169550,
-  "2022-02-28": 169550,
-  "2022-03-01": 169601,
-  "2022-03-02": 169622,
-  "2022-03-03": 169681,
-  "2022-03-04": 169708,
-  "2022-03-05": 169764,
-  "2022-03-06": 169823,
-  "2022-03-07": 169857,
-  "2022-03-08": 169888,
-  "2022-03-09": 169911,
-  "2022-03-10": 169945,
-  "2022-03-11": 169984,
-  "2022-03-12": 170021,
-  "2022-03-13": 170076,
-  "2022-03-14": 170126,
-  "2022-03-15": 170168,
-  "2022-03-16": 170205,
-  "2022-03-17": 170239,
-  "2022-03-18": 170299,
-  "2022-03-19": 170334,
-  "2022-03-20": 170334,
-  "2022-03-21": 170436,
-  "2022-03-22": 170472,
-  "2022-03-23": 170500,
-  "2022-03-24": 170541,
-  "2022-03-25": 170572,
-  "2022-03-26": 170599,
-  "2022-03-27": 170620,
-  "2022-03-28": 170656,
-  "2022-03-30": 170717,
-  "2022-03-31": 170758,
-  "2022-04-01": 170789,
-  "2022-04-02": 170827,
-  "2022-04-03": 170873,
-  "2022-04-04": 170904,
-  "2022-04-05": 170951,
-  "2022-04-06": 170978,
-  "2022-04-07": 171003,
-  "2022-04-08": 171036,
-  "2022-04-09": 171078,
-  "2022-04-10": 171170,
-  "2022-04-11": 171197,
-  "2022-04-12": 171194,
-  "2022-04-13": 171237,
-  "2022-04-14": 171275,
-  "2022-04-15": 171309,
-  "2022-04-16": 171338,
-  "2022-04-17": 171367,
-  "2022-04-18": 171408,
-  "2022-04-19": 171425,
-  "2022-04-20": 171465,
-  "2022-04-21": 171499,
-  "2022-04-22": 171530,
-  "2022-04-23": 171568,
-  "2022-04-24": 171594,
-  "2022-04-25": 171630,
-  "2022-04-26": 171667,
-  "2022-04-27": 171702,
-  "2022-04-28": 171720,
-  "2022-04-29": 171786,
-  "2022-04-30": 171820,
-  "2022-05-01": 171872,
-  "2022-05-02": 171872,
-  "2022-05-03": 171904,
-  "2022-05-04": 171925,
-  "2022-05-05": 171949,
-  "2022-05-06": 171981,
-  "2022-05-07": 172024,
-  "2022-05-08": 172086,
-  "2022-05-09": 172093,
-  "2022-05-10": 172129,
-  "2022-05-11": 172149,
-  "2022-05-12": 172175,
-  "2022-05-13": 172207,
-  "2022-05-14": 172248,
-  "2022-05-15": 172285,
-  "2022-05-16": 172314,
-  "2022-05-17": 172346,
-  "2022-05-18": 172374,
-  "2022-05-19": 172414,
-  "2022-05-20": 172453,
-  "2022-05-21": 172532,
-  "2022-05-22": 172532,
-  "2022-05-23": 172564,
-  "2022-05-24": 172589,
-  "2022-05-25": 172620,
-  "2022-05-26": 172644,
-  "2022-05-27": 172670,
-  "2022-05-28": 172716,
-  "2022-05-29": 172752,
-  "2022-05-30": 172782,
-  "2022-05-31": 172818,
-  "2022-06-01": 172869,
-  "2022-06-02": 172878,
-  "2022-06-03": 172917,
-  "2022-06-04": 172950,
-  "2022-06-05": 172994,
-  "2022-06-06": 173045,
-  "2022-06-07": 173073,
-  "2022-06-08": 173108,
-  "2022-06-09": 173126,
-  "2022-06-10": 173149,
-  "2022-06-11": 173179,
-  "2022-06-12": 173213,
-  "2022-06-13": 173247,
-  "2022-06-14": 173280,
-  "2022-06-15": 173302,
-  "2022-06-16": 173343,
-  "2022-06-17": 173371,
-  "2022-06-18": 173407,
-  "2022-06-19": 173518,
-  "2022-06-20": 173518,
-  "2022-06-21": 173542,
-  "2022-06-22": 173617,
-  "2022-06-23": 173617,
-  "2022-06-24": 173647,
-  "2022-06-25": 173682,
-  "2022-06-26": 173682,
-  "2022-06-27": 173761,
-  "2022-06-28": 173806,
-  "2022-06-29": 173838,
-  "2022-06-30": 173875,
-  "2022-07-01": 173903,
-  "2022-07-02": 173926,
-  "2022-07-03": 173974,
-  "2022-07-04": 174012,
-  "2022-07-05": 174044,
-  "2022-07-06": 174073,
-  "2022-07-07": 174098,
-  "2022-07-08": 174118,
-  "2022-07-09": 174150,
-  "2022-07-10": 174183,
-  "2022-07-12": 174236,
-  "2022-07-13": 174261,
-  "2022-07-14": 174292,
-  "2022-07-15": 174321,
-  "2022-07-16": 174349,
-  "2022-07-17": 174397,
-  "2022-07-18": 174435,
-  "2022-07-19": 174459,
-  "2022-07-20": 174483,
-  "2022-07-21": 174501,
-  "2022-07-22": 174536,
-  "2022-07-23": 174574,
-  "2022-07-24": 174613,
-  "2022-07-25": 174650,
-  "2022-07-26": 174682,
-  "2022-07-27": 174726,
-  "2022-07-28": 174774,
-  "2022-07-29": 174816,
-  "2022-07-30": 174908,
-  "2022-07-31": 174908,
-  "2022-08-01": 174946,
-  "2022-08-02": 175029,
-  "2022-08-03": 175029,
-  "2022-08-04": 175073,
-  "2022-08-05": 175100,
-  "2022-08-06": 175146,
-  "2022-08-07": 175202,
-  "2022-08-08": 175246,
-  "2022-08-09": 175281,
-  "2022-08-10": 175320,
-  "2022-08-11": 175356,
-  "2022-08-12": 175394,
-  "2022-08-13": 175427,
-  "2022-08-14": 175467,
-  "2022-08-15": 175506,
-  "2022-08-16": 175520,
-  "2022-08-17": 175548,
-  "2022-08-18": 175587,
-  "2022-08-19": 175625,
-  "2022-08-20": 175666,
-  "2022-08-21": 175699,
-  "2022-08-22": 175736,
-  "2022-08-23": 175766,
-  "2022-08-24": 175795,
-  "2022-08-25": 175829,
-  "2022-08-26": 175845,
-  "2022-08-27": 175889,
-  "2022-08-28": 175925,
-  "2022-08-29": 175945,
-  "2022-08-30": 175951,
-  "2022-08-31": 175938,
-  "2022-09-01": 175924,
-  "2022-09-02": 175958,
-  "2022-09-03": 175938,
-  "2022-09-04": 175876,
-  "2022-09-05": 175863,
-  "2022-09-06": 175898,
-  "2022-09-07": 175933,
-  "2022-09-09": 176006,
-  "2022-09-10": 176027,
-  "2022-09-11": 176063,
-  "2022-09-12": 176094,
-  "2022-09-13": 176111,
-  "2022-09-15": 176160,
-  "2022-09-16": 176187,
-  "2022-09-17": 176222,
-  "2022-09-18": 176252,
-  "2022-09-19": 176278,
-  "2022-09-20": 176312,
-  "2022-09-21": 176345,
-  "2022-09-22": 176368,
-  "2022-09-23": 176398,
-  "2022-09-24": 176428,
-  "2022-09-25": 176469,
-  "2022-09-26": 176501,
-  "2022-09-27": 176528,
-  "2022-09-28": 176548,
-  "2022-09-29": 176588,
-  "2022-09-30": 176622,
-  "2022-10-01": 176654,
-  "2022-10-02": 176688,
-  "2022-10-03": 176705,
-  "2022-10-04": 176743,
-  "2022-10-05": 176803,
-  "2022-10-06": 176828,
-  "2022-10-07": 176859,
-  "2022-10-08": 176901,
-  "2022-10-09": 176977,
-  "2022-10-10": 176986,
-  "2022-10-11": 177029,
-  "2022-10-12": 177061,
-  "2022-10-13": 177103,
-  "2022-10-14": 177152,
-  "2022-10-15": 177182,
-  "2022-10-16": 177228,
-  "2022-10-17": 177272,
-  "2022-10-18": 177313,
-  "2022-10-19": 177341,
-  "2022-10-20": 177371,
-  "2022-10-21": 177406,
-  "2022-10-22": 177443,
-  "2022-10-23": 177488,
-  "2022-10-24": 177530,
-  "2022-10-25": 177569,
-  "2022-10-26": 177605,
-  "2022-10-27": 177641,
-  "2022-10-28": 177675,
-  "2022-10-29": 177707,
-  "2022-10-30": 177740,
-  "2022-10-31": 177780,
-  "2022-11-01": 177814,
-  "2022-11-02": 177862,
-  "2022-11-03": 177887,
-  "2022-11-04": 177926,
-  "2022-11-05": 177990,
-  "2022-11-06": 178026,
-  "2022-11-07": 178057,
-  "2022-11-08": 178099,
-  "2022-11-09": 178143,
-  "2022-11-10": 178170,
-  "2022-11-11": 178227,
-  "2022-11-12": 178281,
-  "2022-11-13": 178329,
-  "2022-11-14": 178380,
-  "2022-11-15": 178409,
-  "2022-11-16": 178445,
-  "2022-11-17": 178497,
-  "2022-11-18": 178503,
-  "2022-11-19": 178489,
-  "2022-11-20": 178494,
-  "2022-11-21": 178530,
-  "2022-11-22": 178568,
-  "2022-11-23": 178605,
-  "2022-11-24": 178681,
-  "2022-11-25": 178758,
-  "2022-11-26": 178831,
-  "2022-11-27": 178889,
-  "2022-11-28": 178940,
-  "2022-11-29": 178992,
-  "2022-11-30": 179076,
-  "2022-12-01": 179144,
-  "2022-12-02": 179179,
-  "2022-12-03": 179217,
-  "2022-12-04": 179292,
-  "2022-12-05": 179352,
-  "2022-12-06": 179416,
-  "2022-12-07": 179469,
-  "2022-12-08": 179507,
-  "2022-12-09": 179573,
-  "2022-12-10": 179608,
-  "2022-12-11": 179653,
-  "2022-12-12": 179717,
-  "2022-12-13": 179754,
-  "2022-12-14": 179793,
-  "2022-12-15": 179821,
-  "2022-12-16": 179866,
-  "2022-12-17": 179903,
-  "2022-12-18": 179942,
-  "2022-12-19": 179986,
-  "2022-12-20": 180073,
-  "2022-12-21": 180073,
-  "2022-12-22": 180105,
-  "2022-12-24": 180194,
-  "2022-12-25": 180234,
-  "2022-12-26": 180275,
-  "2022-12-27": 180319,
-  "2022-12-28": 180363,
-  "2022-12-29": 180430,
-  "2022-12-30": 180467,
-  "2022-12-31": 180521,
-  "2023-01-01": 180600,
-  "2023-01-02": 180637,
-  "2023-01-03": 180689,
-  "2023-01-04": 180718,
-  "2023-01-05": 180764,
-  "2023-01-06": 180820,
-  "2023-01-07": 180882,
-  "2023-01-08": 180897,
-  "2023-01-09": 180944,
-  "2023-01-10": 180988,
-  "2023-01-11": 181037,
-  "2023-01-12": 181091,
-  "2023-01-13": 181149,
-  "2023-01-14": 181256,
-  "2023-01-15": 181279,
-  "2023-01-16": 181331,
-  "2023-01-17": 181378,
-  "2023-01-18": 181408,
-  "2023-01-19": 181440,
-  "2023-01-20": 181495,
-  "2023-01-21": 181542,
-  "2023-01-22": 181609,
-  "2023-01-23": 181646,
-  "2023-01-24": 181690,
-  "2023-01-25": 181731,
-  "2023-01-26": 181777,
-  "2023-01-27": 181822,
-  "2023-01-28": 181863,
-  "2023-01-29": 181919,
-  "2023-01-30": 181958,
-  "2023-01-31": 181958,
-  "2023-02-01": 182032,
-  "2023-02-02": 182075,
-  "2023-02-03": 182127,
-  "2023-02-04": 182168,
-  "2023-02-05": 182215,
-  "2023-02-06": 182277,
-  "2023-02-07": 182316,
-  "2023-02-08": 182375,
-  "2023-02-09": 182375,
-  "2023-02-10": 182426,
-  "2023-02-11": 182481,
-  "2023-02-12": 182590,
-  "2023-02-13": 182616,
-  "2023-02-14": 182616,
-  "2023-02-15": 182645,
-  "2023-02-16": 182683,
-  "2023-02-17": 182724,
-  "2023-02-18": 182798,
-  "2023-02-19": 182803,
-  "2023-02-20": 182832,
-  "2023-02-21": 182857,
-  "2023-02-22": 182898,
-  "2023-02-23": 182944,
-  "2023-02-24": 182975,
-  "2023-02-25": 183058,
-  "2023-02-26": 183170,
-  "2023-02-27": 183335,
-  "2023-02-28": 183335,
-  "2023-03-01": 183399,
-  "2023-03-02": 183445,
-  "2023-03-03": 183506,
-  "2023-03-04": 183562,
-  "2023-03-05": 183707,
-  "2023-03-06": 183707,
-  "2023-03-07": 183770,
-  "2023-03-08": 183811,
-  "2023-03-09": 183860,
-  "2023-03-10": 183892,
-  "2023-03-11": 183940,
-  "2023-03-12": 183985,
-  "2023-03-13": 184026,
-  "2023-03-14": 184057,
-  "2023-03-15": 184103,
-  "2023-03-16": 184134,
-  "2023-03-17": 184134,
-  "2023-03-18": 184209,
-  "2023-03-19": 184249,
-  "2023-03-20": 184299,
-  "2023-03-21": 184344,
-  "2023-03-22": 184379,
-  "2023-03-23": 184405,
-  "2023-03-24": 184405,
-  "2023-03-25": 184479,
-  "2023-03-26": 184527,
-  "2023-03-27": 184567,
-  "2023-03-28": 184585,
-  "2023-03-29": 184620,
-  "2023-03-30": 184706,
-  "2023-03-31": 184706,
-  "2023-04-01": 184752,
-  "2023-04-02": 184796,
-  "2023-04-03": 184831,
-  "2023-04-04": 184870,
-  "2023-04-05": 184910,
-  "2023-04-06": 184956,
-  "2023-04-07": 184993,
-  "2023-04-09": 185085,
-  "2023-04-10": 185129,
-  "2023-04-11": 185211,
-  "2023-04-12": 185211,
-  "2023-04-13": 185238,
-  "2023-04-14": 185287,
-  "2023-04-15": 185342,
-  "2023-04-16": 185391,
-  "2023-04-17": 185432,
-  "2023-04-18": 185471,
-  "2023-04-19": 185520,
-  "2023-04-20": 185566,
-  "2023-04-21": 185614,
-  "2023-04-22": 185674,
-  "2023-04-23": 185728,
-  "2023-04-24": 185779,
-  "2023-04-25": 185807,
-  "2023-04-26": 185865,
-  "2023-04-27": 185903,
-  "2023-04-28": 185938,
-  "2023-04-29": 185972,
-  "2023-04-30": 186012,
-  "2023-05-01": 186055,
-  "2023-05-02": 186110,
-  "2023-05-03": 186147,
-  "2023-05-04": 186197,
-  "2023-05-05": 186232,
-  "2023-05-06": 186276,
-  "2023-05-07": 186311,
-  "2023-05-08": 186372,
-  "2023-05-09": 186416,
-  "2023-05-10": 186447,
-  "2023-05-11": 186482,
-  "2023-05-12": 186527,
-  "2023-05-13": 186572,
-  "2023-05-14": 186607,
-  "2023-05-15": 186639,
-  "2023-05-16": 186678,
-  "2023-05-17": 186720,
-  "2023-05-18": 186749,
-  "2023-05-19": 186801,
-  "2023-05-20": 186885,
-  "2023-05-21": 186885,
-  "2023-05-22": 186885,
-  "2023-05-23": 186984,
-  "2023-05-24": 187049,
-  "2023-05-25": 187059,
-  "2023-05-26": 187115,
-  "2023-05-27": 187162,
-  "2023-05-28": 187219,
-  "2023-05-29": 187219,
-  "2023-05-30": 187280,
-  "2023-05-31": 187331,
-  "2023-06-01": 187372,
-  "2023-06-02": 187423,
-  "2023-06-03": 187473,
-  "2023-06-04": 187514,
-  "2023-06-05": 187545,
-  "2023-06-06": 187580,
-  "2023-06-07": 187616,
-  "2023-06-08": 187654,
-  "2023-06-09": 187693,
-  "2023-06-10": 187731,
-  "2023-06-11": 187790,
-  "2023-06-12": 187841,
-  "2023-06-13": 187879,
-  "2023-06-14": 187898,
-  "2023-06-15": 187918,
-  "2023-06-16": 187947,
-  "2023-06-17": 187947,
-  "2023-06-18": 187947,
-  "2023-06-19": 187947,
-  "2023-06-20": 187947,
-  "2023-06-21": 187947,
-  "2023-06-22": 187947,
-  "2023-06-23": 187947,
-  "2023-06-24": 187947,
-  "2023-06-25": 187947,
-  "2023-06-26": 187947,
-  "2023-06-27": 187947,
-  "2023-06-28": 187947,
-  "2023-06-29": 187947,
-  "2023-06-30": 187947,
-  "2023-07-01": 187947,
-  "2023-07-02": 187947,
-  "2023-07-03": 187947,
-  "2023-07-04": 187947,
-  "2023-07-05": 187947,
-  "2023-07-06": 187947,
-  "2023-07-07": 187947,
-  "2023-07-08": 187947,
-  "2023-07-09": 187947,
-  "2023-07-10": 187947,
-  "2023-07-11": 187947,
-  "2023-07-12": 187947,
-  "2023-07-13": 187947,
-  "2023-07-14": 187947,
-  "2023-07-15": 187947,
-  "2023-07-16": 187947,
-  "2023-07-17": 187947,
-  "2023-07-18": 187947,
-  "2023-07-19": 187947,
-  "2023-07-20": 187947,
-  "2023-07-21": 187947,
-  "2023-07-22": 187947,
-  "2023-07-23": 187947,
-  "2023-07-24": 187947,
-  "2023-07-25": 187947,
-  "2023-07-26": 187947,
-  "2023-07-27": 187947,
-  "2023-07-28": 187947,
-  "2023-07-29": 187947,
-  "2023-07-30": 187947,
-  "2023-07-31": 187947,
-  "2023-08-01": 187947,
-  "2023-08-02": 187947,
-  "2023-08-03": 187947,
-  "2023-08-04": 187947,
-  "2023-08-05": 187947,
-  "2023-08-06": 187947,
-  "2023-08-07": 187947,
-  "2023-08-08": 187947,
-  "2023-08-09": 187947,
-  "2023-08-10": 187947,
-  "2023-08-11": 187947,
-  "2023-08-12": 187947,
-  "2023-08-13": 187947,
-  "2023-08-14": 187947,
-  "2023-08-15": 187947,
-  "2023-08-16": 187947,
-  "2023-08-17": 187947,
-  "2023-08-18": 187947,
-  "2023-08-19": 187947,
-  "2023-08-20": 187947,
-  "2023-08-21": 187947,
-  "2023-08-22": 187947,
-  "2023-08-23": 187947,
-  "2023-08-24": 187947,
-  "2023-08-25": 187947,
-  "2023-08-26": 187947,
-  "2023-08-27": 187947,
-  "2023-08-28": 187947,
-  "2023-08-29": 187947,
-  "2023-08-30": 187947,
-  "2023-08-31": 187947,
-  "2023-09-01": 187947,
-  "2023-09-02": 187947,
-  "2023-09-03": 187947,
-  "2023-09-04": 187947,
-  "2023-09-05": 187947,
-  "2023-09-06": 187947,
-  "2023-09-07": 187947,
-  "2023-09-08": 187947,
-  "2023-09-09": 187947,
-  "2023-09-10": 187947,
-  "2023-09-11": 187947,
-  "2023-09-12": 187947,
-  "2023-09-13": 187947,
-  "2023-09-14": 187947,
-  "2023-09-15": 187947,
-  "2023-09-16": 187947,
-  "2023-09-17": 187947,
-  "2023-09-18": 187947,
-  "2023-09-19": 187947,
-  "2023-09-20": 187947,
-  "2023-09-21": 187947,
-  "2023-09-22": 187947,
-  "2023-09-23": 187947,
-  "2023-09-24": 187947,
-  "2023-09-25": 187947,
-  "2023-09-26": 187947,
-  "2023-09-27": 187947,
-  "2023-09-28": 187947,
-  "2023-09-29": 187947,
-  "2023-09-30": 187947,
-  "2023-10-01": 187947,
-  "2023-10-02": 187947,
-  "2023-10-03": 187947,
-  "2023-10-04": 187947,
-  "2023-10-05": 187947,
-  "2023-10-06": 187947,
-  "2023-10-07": 187947,
-  "2023-10-08": 187947,
-  "2023-10-09": 187947,
-  "2023-10-10": 187947,
-  "2023-10-11": 187947,
-  "2023-10-12": 187947,
-  "2023-10-13": 187947,
-  "2023-10-14": 187947,
-  "2023-10-15": 187947,
-  "2023-10-16": 187947,
-  "2023-10-17": 187947,
-  "2023-10-18": 187947,
-  "2023-10-19": 187947,
-  "2023-10-20": 187947,
-  "2023-10-21": 187947,
-  "2023-10-22": 187947,
-  "2023-10-23": 187947,
-  "2023-10-24": 187947,
-  "2023-10-25": 187947,
-  "2023-10-26": 187947,
-  "2023-10-27": 187947,
-  "2023-10-28": 187947,
-  "2023-10-29": 187947,
-  "2023-10-30": 187947,
-  "2023-10-31": 187947,
-  "2023-11-01": 187947,
-  "2023-11-02": 187947,
-  "2023-11-03": 187947,
-  "2023-11-04": 187947,
-  "2023-11-05": 187947,
-  "2023-11-06": 187947,
-  "2023-11-07": 187947,
-  "2023-11-08": 187947,
-  "2023-11-09": 187947,
-  "2023-11-10": 187947,
-  "2023-11-11": 187947,
-  "2023-11-12": 187947,
-  "2023-11-13": 187947,
-  "2023-11-14": 187947,
-  "2023-11-15": 187947,
-  "2023-11-16": 187947,
-  "2023-11-17": 187947,
-  "2023-11-18": 187947,
-  "2023-11-19": 187947,
-  "2023-11-20": 187947,
-  "2023-11-21": 187947,
-  "2023-11-22": 187947,
-  "2023-11-23": 187947,
-  "2023-11-24": 187947,
-  "2023-11-25": 187947,
-  "2023-11-26": 187947,
-  "2023-11-27": 187947,
-  "2023-11-28": 187947,
-  "2023-11-29": 187947,
-  "2023-11-30": 187947,
-  "2023-12-01": 187947,
-  "2023-12-02": 187947,
-  "2023-12-03": 187947,
-  "2023-12-04": 187947,
-  "2023-12-05": 187947,
-  "2023-12-06": 187947,
-  "2023-12-07": 187947,
-  "2023-12-08": 187947,
-  "2023-12-09": 187947,
-  "2023-12-10": 187947,
-  "2023-12-11": 187947,
-  "2023-12-12": 187947,
-  "2023-12-13": 187947,
-  "2023-12-14": 187947,
-  "2023-12-15": 187947,
-  "2023-12-16": 187947,
-  "2023-12-17": 187947,
-  "2023-12-18": 187947,
-  "2023-12-19": 187947,
-  "2023-12-20": 187947,
-  "2023-12-21": 187947,
-  "2023-12-22": 187947,
-  "2023-12-23": 187947,
-  "2023-12-24": 187947,
-  "2023-12-25": 187947,
-  "2023-12-26": 187947,
-  "2023-12-27": 187947,
-  "2023-12-30": 187947,
-  "2023-12-31": 187947,
-  "2024-01-01": 187947,
-  "2024-01-02": 187947,
-  "2024-01-03": 187947
+  "2024-01-17": 187947,
+  "date_first_scraped": "2021-12-21",
+  "description": "The quiet Beatle. Listen to all his essential tracks.",
+  "name": "This Is George Harrison",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226866,
+      "name": "All Things Must Pass",
+      "url": "https://open.spotify.com/track/7gMS9hT5vlxQEn4FuxXmAN"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - 2014 Remaster",
+      "url": "https://open.spotify.com/track/16OwZQuzMqnwn3FZsCBZly"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - Remastered 2014",
+      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
+    },
+    {
+      "album": {
+        "name": "Somewhere In England",
+        "url": "https://open.spotify.com/album/4aMfh6PrZhCm5Vc6m3rQgF"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "All Those Years Ago - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1PntNx4N7Is7ZMIlF8JgxV"
+    },
+    {
+      "album": {
+        "name": "Somewhere In England",
+        "url": "https://open.spotify.com/album/574Ws1iXSN3oLjtWyfoMZH"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 227320,
+      "name": "All Those Years Ago - Remastered 2004",
+      "url": "https://open.spotify.com/track/32fKHW6Eac4yBXn9WY7Aic"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 231560,
+      "name": "Any Road",
+      "url": "https://open.spotify.com/track/13D1n0jyyJoLDjcmFvfS5W"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2vKE95MoA7121JceosMm3d"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Any Road",
+      "url": "https://open.spotify.com/track/3OROFwLWGOK9VlzjVVuQ4K"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218800,
+      "name": "Art Of Dying",
+      "url": "https://open.spotify.com/track/6TA07XOmiBtJL6x2MyFFAy"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218802,
+      "name": "Art of Dying - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6Jod7qrtYBhU3HcUmKk4hX"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 218800,
+      "name": "Art Of Dying - Remastered 2014",
+      "url": "https://open.spotify.com/track/7tMem33U649eRpq52kfbkw"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168053,
+      "name": "Awaiting On You All",
+      "url": "https://open.spotify.com/track/47ZOXXxvdzBwog8cnA2Wv6"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168044,
+      "name": "Awaiting on You All - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0b65WkrBrg2qOkzQeDtQ9d"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 168053,
+      "name": "Awaiting On You All - Remastered 2014",
+      "url": "https://open.spotify.com/track/2VXjgueoSOIxAEswR3uRsp"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228373,
+      "name": "Ballad Of Sir Frankie Crisp (Let It Roll)",
+      "url": "https://open.spotify.com/track/2rqjQ9seqvnhwyyysPwtSr"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228653,
+      "name": "Ballad Of Sir Frankie Crisp (Let It Roll) - 2009 Mix",
+      "url": "https://open.spotify.com/track/60pxshhXLeimv7gsUKu9Gy"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228371,
+      "name": "Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0FWeRrB8T5R6maHbWQw4Kk"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 228373,
+      "name": "Ballad Of Sir Frankie Crisp (Let It Roll) - Remastered 2014",
+      "url": "https://open.spotify.com/track/0sX4OzAtIubFc4s9y5KrB7"
+    },
+    {
+      "album": {
+        "name": "Thirty Three & 1/3",
+        "url": "https://open.spotify.com/album/3R2AXnn3nt6qnxhAgSiHTB"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Beautiful Girl - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2nzzJAvS4cg6Zhs0jAc0aa"
+    },
+    {
+      "album": {
+        "name": "Thirty Three & 1/3",
+        "url": "https://open.spotify.com/album/7y9Fefugnr5b8fHHt9eE7X"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 222080,
+      "name": "Beautiful Girl - Remastered 2004",
+      "url": "https://open.spotify.com/track/6utKZ21ASljZWbC5nDzIYo"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186952,
+      "name": "Behind That Locked Door",
+      "url": "https://open.spotify.com/track/2VVbLn8nMcWJzjcL1tZsUr"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186960,
+      "name": "Behind That Locked Door",
+      "url": "https://open.spotify.com/track/1qqGWtUzp1kGrVbuFU4EmQ"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 186960,
+      "name": "Behind That Locked Door - Remastered 2014",
+      "url": "https://open.spotify.com/track/2pTZsG61UdgMK24OLa3ofa"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231133,
+      "name": "Beware Of Darkness",
+      "url": "https://open.spotify.com/track/5D9KDPjIHL5aZRug8gCzFJ"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231143,
+      "name": "Beware of Darkness - 2014 Remaster",
+      "url": "https://open.spotify.com/track/606MCyZFMBlc52Ojnn1nvU"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 231133,
+      "name": "Beware Of Darkness - Remastered 2014",
+      "url": "https://open.spotify.com/track/6TRZDhDxS4PJs3nxh9FBzk"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240680,
+      "name": "Blow Away - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2XUrTl8a003hedQ7Xmj1eo"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 240680,
+      "name": "Blow Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/67F9MFQj4YZG2i0V0HCMUs"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 367800,
+      "name": "Brainwashed",
+      "url": "https://open.spotify.com/track/1vxKboEoCzJXJW8CsSTArA"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2vKE95MoA7121JceosMm3d"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367800,
+      "name": "Brainwashed",
+      "url": "https://open.spotify.com/track/4XNw405eqaBFaOEAtcWJ6Z"
+    },
+    {
+      "album": {
+        "name": "Extra Texture (Remastered)",
+        "url": "https://open.spotify.com/album/3ZmAgqz6EzC4Zrxc8FQAhf"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272840,
+      "name": "Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/1ewoOusucZ6KHYkfjVxCW1"
+    },
+    {
+      "album": {
+        "name": "Extra Texture",
+        "url": "https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/3TxLHeMtU04LxaEIgyBoDk"
+    },
+    {
+      "album": {
+        "name": "Extra Texture (Remastered)",
+        "url": "https://open.spotify.com/album/1GEkHRNkeVpfKQOs6ezjbD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 272840,
+      "name": "Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/779CxDIcfDXFgPWFXyb41p"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246133,
+      "name": "Cheer Down - 2009 Mix",
+      "url": "https://open.spotify.com/track/35sKi1iEOS6xCq1NHzgZJE"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 246133,
+      "name": "Cheer Down - 2009 Mix",
+      "url": "https://open.spotify.com/track/6g5x0JGaOiDrUMYWul6gLs"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs of George Harrison",
+        "url": "https://open.spotify.com/album/268chmnwEoWz9MLqIKDzFz"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "Cheer Down - 2009 Remaster",
+      "url": "https://open.spotify.com/track/6l2rAhDEjUXrCHDqTK9QF7"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/5fedUEU0Vq8BUfTcK5nzd9"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 196626,
+      "name": "Cloud Nine - Remastered 2004",
+      "url": "https://open.spotify.com/track/6bNFmr8aQ9guGerSLqf0Ct"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
+        "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 129573,
+      "name": "Cosmic Empire - Day 2 Demo / Take 1",
+      "url": "https://open.spotify.com/track/3M50AuTabW54Mc8Xey5Qlq"
+    },
+    {
+      "album": {
+        "name": "Cosmic Empire/Run Of The Mill",
+        "url": "https://open.spotify.com/album/47LKl381PkVTCkM3GD6U6w"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129573,
+      "name": "Cosmic Empire - Day 2 Demo / Take 1",
+      "url": "https://open.spotify.com/track/3dbhRlMVh3tiz1NdBbMlTp"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "Cosmic Empire - Day 2 Demo; Take 1",
+      "url": "https://open.spotify.com/track/0lcQZ03nobpkiXGMFtPHhJ"
+    },
+    {
+      "album": {
+        "name": "Thirty Three & 1/3",
+        "url": "https://open.spotify.com/album/3R2AXnn3nt6qnxhAgSiHTB"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238213,
+      "name": "Crackerbox Palace - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4DsN68KVYkhZ52SQ4ypnut"
+    },
+    {
+      "album": {
+        "name": "Thirty Three & 1/3",
+        "url": "https://open.spotify.com/album/7y9Fefugnr5b8fHHt9eE7X"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 238213,
+      "name": "Crackerbox Palace - Remastered 2004",
+      "url": "https://open.spotify.com/track/3bygXv7MxNgL7zJFq7Cg9W"
+    },
+    {
+      "album": {
+        "name": "Dark Horse (Remastered)",
+        "url": "https://open.spotify.com/album/0dpBzOluKhOa3IieEsmMjL"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233720,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/0Bd3LPxBrRGIE28hqEnuAS"
+    },
+    {
+      "album": {
+        "name": "Dark Horse (Remastered)",
+        "url": "https://open.spotify.com/album/0dO8qorptUT8tWmeW5wcF6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 233720,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/14zj5jZTzV1MN8pQAR730z"
+    },
+    {
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/4NnA3aRQY4dFLbhNV9LQAE"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233724,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/5KezUBlM6tavamVSO4MTMN"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202253,
+      "name": "Dark Sweet Lady - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6FTsjLMWWzfY26n7wSKgeJ"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 202253,
+      "name": "Dark Sweet Lady - Remastered 2004",
+      "url": "https://open.spotify.com/track/3WzTqTiSXXIFeKEYqd7U5b"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233800,
+      "name": "Devil's Radio",
+      "url": "https://open.spotify.com/track/4QvGhkJJNi6aRHeJM6S3ke"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 233800,
+      "name": "Devil's Radio - Remastered 2004",
+      "url": "https://open.spotify.com/track/19Rse1n6cwfl98trLEKW6A"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271960,
+      "name": "Dream Away - 2004 Remaster",
+      "url": "https://open.spotify.com/track/52hsnBOeoEefQVoPQtKwMH"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 271960,
+      "name": "Dream Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/1GFGcPhn4h9q57gJ8RXC8o"
+    },
+    {
+      "album": {
+        "name": "Trending Classic Hits",
+        "url": "https://open.spotify.com/album/1flJw0uicWg1LYNxJiIZ0F"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2OUzV6yTNSWmsvkjGHcWuq"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys Collection",
+        "url": "https://open.spotify.com/album/0VLa5f9BTACR1SQexZaSSD"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/2bOaKNkHC1vABgIBApu46l"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204306,
+      "name": "Fish On The Sand",
+      "url": "https://open.spotify.com/track/3ZzswsZrQNDQZ0eJU3tJmi"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 204306,
+      "name": "Fish On The Sand - Remastered 2004",
+      "url": "https://open.spotify.com/track/7dcAoN9JaXOf3jtbUkifCn"
+    },
+    {
+      "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215693,
+      "name": "Give Me Love (Give Me Peace On Earth)",
+      "url": "https://open.spotify.com/track/0UkZexeWaFY7geHlCLqjQR"
+    },
+    {
+      "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 215693,
+      "name": "Give Me Love (Give Me Peace On Earth)",
+      "url": "https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu"
+    },
+    {
+      "album": {
+        "name": "Living in the Material World",
+        "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215701,
+      "name": "Give Me Love (Give Me Peace on Earth)",
+      "url": "https://open.spotify.com/track/71fXxvXqo1zxWDtBmjoEVk"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 215266,
+      "name": "Give Me Love (Give Me Peace On Earth) - 2009 Mix",
+      "url": "https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - Remastered 2004",
+      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/1vQxicuNSODoBECPMFjHMG"
+    },
+    {
+      "album": {
+        "name": "Happy Soft Rock For Kids",
+        "url": "https://open.spotify.com/album/0Fkuj45yLOf8BcYaTuC56r"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/49RDkqyoajMxcejmU09uyU"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/0FtmosiBG35MGb66MdmWsi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199586,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/4wdvkTP86WAvmr1pB01KFw"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/0FtmosiBG35MGb66MdmWsi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216693,
+      "name": "Heading For The Light",
+      "url": "https://open.spotify.com/track/0XchmaUyED9eALwVRP912Q"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "Heading For The Light",
+      "url": "https://open.spotify.com/track/3WukTEV57eYvJUfQUCKAMV"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290080,
+      "name": "Here Comes The Moon - 2004 Remaster",
+      "url": "https://open.spotify.com/track/3FCBBfKKmzvrEeDX6mVIiN"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 290080,
+      "name": "Here Comes The Moon - Remastered 2004",
+      "url": "https://open.spotify.com/track/7CFfGfrq3ACeUTs3Dp1UJ4"
+    },
+    {
+      "album": {
+        "name": "Live In Japan",
+        "url": "https://open.spotify.com/album/4S2ZR5njbJez1rV8DV5Vtl"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 211320,
+      "name": "Here Comes The Sun - Live In Japan, 1991 / 2004 Mix",
+      "url": "https://open.spotify.com/track/4gdhsYfXJoVQsWpbmh32Da"
+    },
+    {
+      "album": {
+        "name": "Live In Japan",
+        "url": "https://open.spotify.com/album/5TyovIEekOOHrI3qYt0CFK"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Here Comes The Sun - Live; 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pfKtWtLIkydDlpEXrrQZU"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "I Want To Tell You - Remastered 2009",
+      "url": "https://open.spotify.com/track/7orb0y6ySGdsYZywMoQtsD"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 430866,
+      "name": "Isn't It A Pity",
+      "url": "https://open.spotify.com/track/12zoIiuBHpEsdTeHkWz0HX"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 427628,
+      "name": "Isn't It A Pity - 2009 Mix",
+      "url": "https://open.spotify.com/track/3hwezmkHofZ5TAXQiG4VzW"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430877,
+      "name": "Isn't It a Pity - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1mBGRVmAV83ahj2HjehcRn"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 430866,
+      "name": "Isn't It A Pity - Remastered 2014",
+      "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
+    },
+    {
+      "album": {
+        "name": "Yellow Submarine Songtrack",
+        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385600,
+      "name": "It's All Too Much",
+      "url": "https://open.spotify.com/track/1ntoOW2GNFCnSO7mmabrTU"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys Collection",
+        "url": "https://open.spotify.com/album/0VLa5f9BTACR1SQexZaSSD"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231240,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1d2Ga3Di0eRZSEhJRmvX1l"
+    },
+    {
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/6hOCmsiGjQaS27iiLe2t0i"
+    },
+    {
+      "album": {
+        "name": "Somewhere In England",
+        "url": "https://open.spotify.com/album/4aMfh6PrZhCm5Vc6m3rQgF"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "Life Itself - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6U9n640JJqlpqWGk3kixuS"
+    },
+    {
+      "album": {
+        "name": "Somewhere In England",
+        "url": "https://open.spotify.com/album/574Ws1iXSN3oLjtWyfoMZH"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 266760,
+      "name": "Life Itself - Remastered 2004",
+      "url": "https://open.spotify.com/track/5CV2p81MSOfLEuldUkSvGs"
+    },
+    {
+      "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/7be23wKM6wpduQKzbCcvH3"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 330360,
+      "name": "Living In The Material World",
+      "url": "https://open.spotify.com/track/1lT1K7etQIkyWmXOh0XrLZ"
+    },
+    {
+      "album": {
+        "name": "Living In The Material World (Remastered)",
+        "url": "https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 330360,
+      "name": "Living In The Material World",
+      "url": "https://open.spotify.com/track/5NTATcezbDapq50Zwxl7Ri"
+    },
+    {
+      "album": {
+        "name": "Living in the Material World",
+        "url": "https://open.spotify.com/album/3xVauK9QJcJWnUzOmyB3os"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330364,
+      "name": "Living in the Material World",
+      "url": "https://open.spotify.com/track/0lkAVvpjQk9iTckvxRo4AV"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 229400,
+      "name": "Looking For My Life",
+      "url": "https://open.spotify.com/track/1Dgn1VU5l9eMV8WuSRNwmI"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2vKE95MoA7121JceosMm3d"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Looking For My Life",
+      "url": "https://open.spotify.com/track/6kNoimZJlYhev17NgBN6wr"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Love Comes To Everyone - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD"
+    },
+    {
+      "album": {
+        "name": "George Harrison",
+        "url": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 276213,
+      "name": "Love Comes To Everyone - Remastered 2004",
+      "url": "https://open.spotify.com/track/1dYimSgEq46lJ30MKQP9l6"
+    },
+    {
+      "album": {
+        "name": "Eric Clapton: Life In 12 Bars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cfUT6PId9Jnjar3ftQ3Bk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 280466,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281226,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/3Njxl86N4inxFi5xBuCoR1"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 281226,
+      "name": "My Sweet Lord - Remastered 2014",
+      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+    },
+    {
+      "album": {
+        "name": "Live In Japan",
+        "url": "https://open.spotify.com/album/4S2ZR5njbJez1rV8DV5Vtl"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 285413,
+      "name": "Roll Over Beethoven - Live In Japan, 1991 / 2004 Mix",
+      "url": "https://open.spotify.com/track/6cm97MSTgQ4bLCq0eHEoTw"
+    },
+    {
+      "album": {
+        "name": "Live In Japan",
+        "url": "https://open.spotify.com/album/5TyovIEekOOHrI3qYt0CFK"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Roll Over Beethoven - Live; 2004 Remaster",
+      "url": "https://open.spotify.com/track/5f22zNhITYpLJSihSBf2by"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171693,
+      "name": "Run Of The Mill",
+      "url": "https://open.spotify.com/track/3QLZFIQaJebqAovcAIpk7L"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171698,
+      "name": "Run of the Mill - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4uSlUBg3NVOA77E7wwKFTO"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 171693,
+      "name": "Run Of The Mill - Remastered 2014",
+      "url": "https://open.spotify.com/track/3S574gsoQJl826YjsuRqSr"
+    },
+    {
+      "album": {
+        "name": "Run Of The Mill (Session Outtakes And Jams / Take 36)",
+        "url": "https://open.spotify.com/album/3hs9zvJX2ENKKqMkYM52Nk"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145880,
+      "name": "Run Of The Mill - Session Outtakes And Jams / Take 36",
+      "url": "https://open.spotify.com/track/1YpS4q3O0IwpOItFiW7k58"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary/Super Deluxe)",
+        "url": "https://open.spotify.com/album/0pDJt9M0HWkIs4vrTK6aC6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 145880,
+      "name": "Run Of The Mill - Session Outtakes And Jams / Take 36",
+      "url": "https://open.spotify.com/track/4AohRRap7A8q6LmgkoPMWw"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "Run of the Mill - Session Outtakes and Jams; Take 36",
+      "url": "https://open.spotify.com/track/0V4kIykxpXCdnOe5zZBBta"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 244826,
+      "name": "Stuck Inside A Cloud",
+      "url": "https://open.spotify.com/track/0IF7XHfvCoEkabkVvaLvv4"
+    },
+    {
+      "album": {
+        "name": "Brainwashed",
+        "url": "https://open.spotify.com/album/2vKE95MoA7121JceosMm3d"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Stuck Inside A Cloud",
+      "url": "https://open.spotify.com/track/57wq2D80KGwZEca5Cw018c"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158853,
+      "name": "Taxman - Remastered 2009",
+      "url": "https://open.spotify.com/track/4BRkPBUxOYffM2QXVlq7aC"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "That's The Way It Goes - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4To7pXp0pjNNC1fzmDVEhq"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 217733,
+      "name": "That's The Way It Goes - Remastered 2004",
+      "url": "https://open.spotify.com/track/1WnaMlprEQHKVoXm7RInm4"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/7G7x2c3R3aDIv6x1C25YpG"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Wake Up My Love - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6L6v7ZZMfjUG5o2sEptpLY"
+    },
+    {
+      "album": {
+        "name": "Gone Troppo",
+        "url": "https://open.spotify.com/album/6hqxSTZauLStrt5lThvY2r"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 216066,
+      "name": "Wake Up My Love - Remastered 2004",
+      "url": "https://open.spotify.com/track/3dRafF3mJEGCxVaONlh4h2"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264413,
+      "name": "What Is Life",
+      "url": "https://open.spotify.com/track/7be7aHPLjs3qkKmxR18jeY"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264986,
+      "name": "What Is Life - 2009 Mix",
+      "url": "https://open.spotify.com/track/0oBw6F8Wl5tTbwexgcFV1N"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264405,
+      "name": "What Is Life - 2014 Remaster",
+      "url": "https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 264413,
+      "name": "What Is Life - Remastered 2014",
+      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "When We Was Fab",
+      "url": "https://open.spotify.com/track/1f9QwNYSdRyBsxCup3h1Q1"
+    },
+    {
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 239853,
+      "name": "When We Was Fab - Remastered 2004",
+      "url": "https://open.spotify.com/track/6fAADiK2jnjdm5QRI7hSYc"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs of George Harrison",
+        "url": "https://open.spotify.com/album/268chmnwEoWz9MLqIKDzFz"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286733,
+      "name": "While My Guitar Gently Weeps - Live At Madison Square Garden; 2009 Remaster",
+      "url": "https://open.spotify.com/track/4Egi6XuC0rbLlXfqmQeuFa"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/3AMq1D2XLJSADpdYTAtKoL"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286733,
+      "name": "While My Guitar Gently Weeps - Live From Madison Square Garden, New York, U.S.A, 1971 / 2009 Mix",
+      "url": "https://open.spotify.com/track/1sW8AxMW4vuoV5LCDZj7r7"
+    },
+    {
+      "album": {
+        "name": "Let It Roll - Songs Of George Harrison",
+        "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 286733,
+      "name": "While My Guitar Gently Weeps - Live From Madison Square Garden, New York, U.S.A, 1971 / 2009 Mix",
+      "url": "https://open.spotify.com/track/3DwKoC1oDOOPBdulE4aMsY"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "While My Guitar Gently Weeps - Remastered 2009",
+      "url": "https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O"
+    },
+    {
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "Within You Without You - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Umg8CDhO8dOSj7yBTInYb"
+    },
+    {
+      "album": {
+        "name": "Extra Texture (Remastered)",
+        "url": "https://open.spotify.com/album/1GEkHRNkeVpfKQOs6ezjbD"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 223493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1T01BrKrtYSifByqQIWMB8"
+    },
+    {
+      "album": {
+        "name": "Extra Texture (Remastered)",
+        "url": "https://open.spotify.com/album/3ZmAgqz6EzC4Zrxc8FQAhf"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1WGK9GqetBJp4Cg6TlVluD"
+    },
+    {
+      "album": {
+        "name": "Extra Texture",
+        "url": "https://open.spotify.com/album/3Vfv1ycDVgpEf9S9vuXsyC"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223504,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6wADbpmrLxUWygJcJsbww8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVDVRzaLYm4M"
 }

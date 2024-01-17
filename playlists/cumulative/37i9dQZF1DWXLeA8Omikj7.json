@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 309051,
       "name": "Blaumeise",
       "url": "https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 114129,
       "name": "cheated",
       "url": "https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK"
@@ -5208,7 +5208,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 130700,
       "name": "Fire Tree",
       "url": "https://open.spotify.com/track/5iZ8hamrBBu5MrmXp7puAi"
@@ -10870,7 +10870,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 251338,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
@@ -13390,7 +13390,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 170666,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M"
@@ -13970,7 +13970,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 347413,
       "name": "Surrender Yourself",
       "url": "https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5"
@@ -14294,7 +14294,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
@@ -14878,7 +14878,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 146000,
       "name": "The Warehouse",
       "url": "https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi"
@@ -15012,6 +15012,24 @@
       "duration_ms": 216999,
       "name": "Three Ralphs",
       "url": "https://open.spotify.com/track/0fXyhTmLlNm7NqrXA8el0v"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216751,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"
     },
     {
       "album": {
@@ -16384,6 +16402,28 @@
       "duration_ms": 225906,
       "name": "Where Angels Fear To Tread",
       "url": "https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL"
+    },
+    {
+      "album": {
+        "name": "Wirbel",
+        "url": "https://open.spotify.com/album/3aDnuXX0vkoXJZjYZvs69L"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        },
+        {
+          "name": "David Bergm\u00fcller",
+          "url": "https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290117,
+      "name": "Whirl",
+      "url": "https://open.spotify.com/track/1GzNJTAhYDIjN1WXJlXPBM"
     },
     {
       "album": {

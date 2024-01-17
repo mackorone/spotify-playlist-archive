@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Abeer Nehme.
 
-137 songs - 7 hr 56 min
+140 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Nsitik Walla](https://open.spotify.com/track/4IQnD9cH2EYCLfW4xzENAz) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Nsitik Walla](https://open.spotify.com/album/5stqwsIhXlVW0foboQytUu) | 3:10 | 2023-06-28 |  |
 | [Ohebuka Raghman](https://open.spotify.com/track/2Y0K3JBY7toZYiq4cUP9Eu) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ohebuka Raghman](https://open.spotify.com/album/6BOAJQ63qhOdFOuU8O9rAW) | 3:20 | 2022-06-22 |  |
 | [Ouaa Tkhaf](https://open.spotify.com/track/56ghyTakOok9eCfKVktmpR) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Ouaa Tkhaf](https://open.spotify.com/album/2mP2rUwMr39mK3tajSBxmU) | 2:50 | 2022-07-16 |  |
-| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-13 |  |
+| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-03-13 | 2024-01-07 |
+| [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 | 2023-12-27 |  |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-09 | 2022-10-23 |
 | [Rabeh Marra](https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Rabeh Marra](https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG) | 3:11 | 2023-03-13 |  |
 | [Raje3lek](https://open.spotify.com/track/6SNkENSOaM6I7tdE95O4h1) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Raje3lek](https://open.spotify.com/album/4OByYjnuaQ9wQ7J85404NO) | 3:55 | 2022-05-04 | 2022-07-17 |
@@ -129,9 +130,11 @@
 | [الدنيا بعينيا](https://open.spotify.com/track/5HsOqrwWovST07mWul6LfD) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [الدنيا بعينيا](https://open.spotify.com/album/19l3MlaXMntBa9xOoB79ZJ) | 2:25 | 2022-06-20 |  |
 | [انت وحدي](https://open.spotify.com/track/1ZNjO544sLEqARY6mGVp85) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [انت وحدي](https://open.spotify.com/album/3HNeYYsoZQilBCQsjzYQKY) | 3:24 | 2022-12-01 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-17 |
-| [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 | 2022-08-28 |  |
+| [بحارب فيها](https://open.spotify.com/track/0XDtC0f0gsLPPVvbFiu07q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/0LLAkjCkZJFQInR2cQ9KFe) | 4:05 | 2022-08-28 | 2024-01-07 |
 | [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 | 2022-06-20 | 2022-11-02 |
-| [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 | 2023-07-27 |  |
+| [بحارب فيها](https://open.spotify.com/track/7CMWymjluZIFObjuvzHYeT) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/5RimBiLxkawPsr59cDnkWT) | 4:05 | 2023-12-27 |  |
+| [بركان](https://open.spotify.com/track/57by0g52xM5QUUFFI5ZaiX) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 3:10 | 2023-07-27 | 2024-01-07 |
+| [بركان](https://open.spotify.com/track/5ebPGUF0ycevMKFLepmYdU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 3:10 | 2023-12-27 |  |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-01-06 |
 | [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 |  |
 | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/track/0QdVWAqqAUcCg0kWVKInoy) | [Ahmed Al Glamawy](https://open.spotify.com/artist/1v8UZn3HGKyy1rqesyDhKl) | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/album/5GtpCK8jXXqp1f61R6mxqF) | 6:45 | 2023-08-25 | 2023-10-05 |

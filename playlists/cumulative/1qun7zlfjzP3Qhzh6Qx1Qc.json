@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "25 to Life",
+        "url": "https://open.spotify.com/album/1Bdp0nV1GvqiY6069YxD8Y"
+      },
+      "artists": [
+        {
+          "name": "Jason Benoit",
+          "url": "https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178244,
+      "name": "25 to Life",
+      "url": "https://open.spotify.com/track/4Qy7iFOMMiyRJVNUtQ629P"
+    },
+    {
+      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209154,
       "name": "Different Kind of Blue",
       "url": "https://open.spotify.com/track/7bpAdXNMxxKHqOAvCIdHOd"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6RxtsOjMkQI3AVqgJDs3It"
@@ -423,7 +441,7 @@
     },
     {
       "album": {
-        "name": "Farm Life",
+        "name": "North Wind",
         "url": "https://open.spotify.com/album/0SxGOkzhiAzDR2wVVq0mkM"
       },
       "artists": [
@@ -730,7 +748,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 165853,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7tAK6Y4CnO4nbm6FST7foC"
@@ -770,6 +788,24 @@
       "duration_ms": 182087,
       "name": "No Can Do",
       "url": "https://open.spotify.com/track/77b70swv6ONiPN2gZJ0D3M"
+    },
+    {
+      "album": {
+        "name": "Not Yet",
+        "url": "https://open.spotify.com/album/64X6Dn40pMX4gBBkfr91b1"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq"
     },
     {
       "album": {
@@ -832,6 +868,24 @@
       "duration_ms": 208746,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5c6gRadNcBezr5lzERoRsv"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/5HS8aICH7tjYXSBxzjE9PU"
     },
     {
       "album": {

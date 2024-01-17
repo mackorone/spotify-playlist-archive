@@ -7061,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo"
+      },
+      "artists": [
+        {
+          "name": "Jonth",
+          "url": "https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI"
+    },
+    {
+      "album": {
         "name": "What I Say",
         "url": "https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF"
       },

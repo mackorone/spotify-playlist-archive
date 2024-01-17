@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Myke Towers",
+  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Trueno",
   "name": "Mucho Rap",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 186091,
       "name": "Air France",
       "url": "https://open.spotify.com/track/2oIna6bIDK8vrNutDuIE7Y"
@@ -3824,7 +3824,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 243200,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9"
@@ -4124,7 +4124,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 135232,
       "name": "Flight 0012",
       "url": "https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb"
@@ -4146,7 +4146,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": "2024-01-16",
       "duration_ms": 236500,
       "name": "Flor",
       "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 142916,
       "name": "FUCK EL POLICE - REMIX",
       "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 245446,
       "name": "Fxck Remix",
       "url": "https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA"
@@ -4514,7 +4514,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 217228,
       "name": "G-500",
       "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 186322,
       "name": "HELLCAT",
       "url": "https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff"
@@ -7931,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "No Cap - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130069,
+      "name": "No Cap - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+    },
+    {
+      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -9817,6 +9835,24 @@
     },
     {
       "album": {
+        "name": "Ron En El Piso",
+        "url": "https://open.spotify.com/album/2FfQlGud9aEcHPuDkwYj5z"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335111,
+      "name": "Ron En El Piso",
+      "url": "https://open.spotify.com/track/4NV0h97tYFnu3nlj8dyDqP"
+    },
+    {
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -11104,7 +11140,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 168824,
       "name": "Te Va a Gustar",
       "url": "https://open.spotify.com/track/0HMmzc6sW3DRrxlt5e4EmE"
@@ -12762,7 +12798,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"

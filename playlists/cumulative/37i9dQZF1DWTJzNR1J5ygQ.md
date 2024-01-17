@@ -2,7 +2,7 @@
 
 ### [I Love My Midwest Classics](https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ)
 
-> It's a Midwest thing\. Cover: Bone Thugs\-N\-Harmony
+> It's a Midwest thing\. Cover: Common
 
 83 songs - 5 hr 52 min
 
@@ -25,7 +25,7 @@
 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 | 2022-03-07 |  |
 | [Flashing Lights](https://open.spotify.com/track/31I3Rt1bPa2LrE74DdNizO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:57 | 2021-02-01 | 2022-03-08 |
 | [Funkdafied](https://open.spotify.com/track/29VrHhpC5AS9b7XJYDPhqb) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [Funkdafied](https://open.spotify.com/album/3wQuZdfDboB8bo5MPTUpgA) | 3:05 | 2021-02-01 | 2022-05-20 |
-| [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2021-02-01 |  |
+| [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 | 2021-02-01 | 2024-01-13 |
 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 | 2022-03-07 |  |
 | [Gotta Get Mine](https://open.spotify.com/track/5oqSr3rehtGgZyDh0LCSA7) | [MC Breed](https://open.spotify.com/artist/63727CmmJ8oWFh8eAHvDYq) | [The New Breed](https://open.spotify.com/album/63fBdGVcKoOOcI1eLOoDwT) | 4:24 | 2022-03-07 |  |
 | [Guilty Conscience](https://open.spotify.com/track/2iW8D4Vdy8lrOEBkYEJOzd) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Slim Shady LP \(Expanded Edition\)](https://open.spotify.com/album/10nO3EJJDMm6j6d2uK3Jah) | 3:19 | 2021-02-01 | 2022-03-08 |
@@ -38,7 +38,7 @@
 | [I Don't Like](https://open.spotify.com/track/7qYRhhj1tC6hYpgWJiAQkw) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/108j4R9oEcFUaVRzE8RZKI) | 4:53 | 2021-02-01 | 2022-03-08 |
 | [I Gotcha](https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:58 | 2021-02-01 | 2022-03-08 |
 | [I Love College](https://open.spotify.com/track/1akgiRM3mN2nxu2AX6ACCW) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Asleep In The Bread Aisle](https://open.spotify.com/album/6QCSrh0eusuJrRpYjnmtTN) | 4:01 | 2022-05-20 |  |
-| [I Used to Love H.E.R.](https://open.spotify.com/track/4TboAbE2pCUUB0fk6Q9rUU) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 4:38 | 2021-02-01 | 2022-05-20 |
+| [I Used to Love H.E.R.](https://open.spotify.com/track/4TboAbE2pCUUB0fk6Q9rUU) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 4:38 | 2021-02-01 |  |
 | [Jesus Walks](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:13 | 2021-02-01 |  |
 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 | 2022-05-20 |  |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2021-02-01 |  |
@@ -74,9 +74,9 @@
 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 | 2022-03-07 | 2022-10-15 |
 | [Sunshine](https://open.spotify.com/track/7JjIWXd0RopJ8wSMTIsfZr) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:55 | 2022-05-20 |  |
 | [Tainted](https://open.spotify.com/track/6tc2nHTmQjXQXo2ybeVZB7) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Trinity \(Past, Present And Future\)](https://open.spotify.com/album/4NkAGMoVNPvEmGFtVKCMCB) | 4:26 | 2021-02-01 | 2022-03-08 |
-| [Testify](https://open.spotify.com/track/6fo9uskjOIoWXAaUNxN7Bl) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 2:36 | 2022-05-20 |  |
+| [Testify](https://open.spotify.com/track/6fo9uskjOIoWXAaUNxN7Bl) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 2:36 | 2022-05-20 | 2024-01-13 |
 | [Tha Crossroads](https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 3:43 | 2021-02-01 |  |
-| [The Corner](https://open.spotify.com/track/31rk2z6XreitvUgfJURMil) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:45 | 2021-02-01 | 2022-05-20 |
+| [The Corner](https://open.spotify.com/track/31rk2z6XreitvUgfJURMil) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:45 | 2021-02-01 |  |
 | [The Food \- Live](https://open.spotify.com/track/1Ke6bqdvdGJF1ftvuO8qtP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:36 | 2022-05-20 | 2022-10-15 |
 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 | 2021-02-01 |  |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2021-02-01 |  |

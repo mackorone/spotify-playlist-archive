@@ -1,735 +1,2347 @@
 {
-  "2021-12-25": 2301575,
-  "2021-12-26": 2302036,
-  "2021-12-27": 2303288,
-  "2021-12-28": 2303303,
-  "2021-12-29": 2304105,
-  "2021-12-30": 2304805,
-  "2021-12-31": 2305580,
-  "2022-01-01": 2306711,
-  "2022-01-02": 2306906,
-  "2022-01-03": 2307350,
-  "2022-01-04": 2307965,
-  "2022-01-05": 2308551,
-  "2022-01-06": 2309212,
-  "2022-01-07": 2309864,
-  "2022-01-08": 2311234,
-  "2022-01-09": 2311258,
-  "2022-01-10": 2311853,
-  "2022-01-11": 2312395,
-  "2022-01-12": 2313062,
-  "2022-01-13": 2313762,
-  "2022-01-14": 2314501,
-  "2022-01-15": 2315909,
-  "2022-01-16": 2315957,
-  "2022-01-17": 2317368,
-  "2022-01-18": 2317433,
-  "2022-01-19": 2317906,
-  "2022-01-20": 2318638,
-  "2022-01-21": 2319316,
-  "2022-01-22": 2320107,
-  "2022-01-23": 2320835,
-  "2022-01-24": 2321566,
-  "2022-01-25": 2322176,
-  "2022-01-26": 2322841,
-  "2022-01-27": 2323590,
-  "2022-01-28": 2324415,
-  "2022-01-29": 2325169,
-  "2022-01-30": 2325957,
-  "2022-01-31": 2326700,
-  "2022-02-01": 2327822,
-  "2022-02-02": 2329159,
-  "2022-02-03": 2330345,
-  "2022-02-04": 2331766,
-  "2022-02-05": 2332958,
-  "2022-02-06": 2334087,
-  "2022-02-07": 2334920,
-  "2022-02-08": 2335694,
-  "2022-02-09": 2336519,
-  "2022-02-10": 2337384,
-  "2022-02-11": 2338243,
-  "2022-02-12": 2339198,
-  "2022-02-13": 2340071,
-  "2022-02-14": 2340866,
-  "2022-02-15": 2341616,
-  "2022-02-16": 2342487,
-  "2022-02-17": 2343350,
-  "2022-02-18": 2344242,
-  "2022-02-19": 2345201,
-  "2022-02-20": 2346104,
-  "2022-02-21": 2346976,
-  "2022-02-22": 2347793,
-  "2022-02-23": 2348586,
-  "2022-02-24": 2349535,
-  "2022-02-25": 2350232,
-  "2022-02-26": 2351040,
-  "2022-02-27": 2352488,
-  "2022-02-28": 2352488,
-  "2022-03-01": 2353177,
-  "2022-03-02": 2353873,
-  "2022-03-03": 2354596,
-  "2022-03-04": 2355390,
-  "2022-03-05": 2356224,
-  "2022-03-06": 2357079,
-  "2022-03-07": 2357779,
-  "2022-03-08": 2358430,
-  "2022-03-09": 2359120,
-  "2022-03-10": 2359911,
-  "2022-03-11": 2360657,
-  "2022-03-12": 2361500,
-  "2022-03-13": 2362277,
-  "2022-03-14": 2362943,
-  "2022-03-15": 2363675,
-  "2022-03-16": 2364557,
-  "2022-03-17": 2365392,
-  "2022-03-18": 2366555,
-  "2022-03-19": 2367125,
-  "2022-03-20": 2367125,
-  "2022-03-21": 2368777,
-  "2022-03-22": 2369429,
-  "2022-03-23": 2370112,
-  "2022-03-24": 2370869,
-  "2022-03-25": 2371635,
-  "2022-03-26": 2372432,
-  "2022-03-27": 2373206,
-  "2022-03-28": 2373888,
-  "2022-03-30": 2375240,
-  "2022-03-31": 2375956,
-  "2022-04-01": 2376714,
-  "2022-04-02": 2377506,
-  "2022-04-03": 2378190,
-  "2022-04-04": 2378759,
-  "2022-04-05": 2379350,
-  "2022-04-06": 2379975,
-  "2022-04-07": 2380627,
-  "2022-04-08": 2381394,
-  "2022-04-09": 2382083,
-  "2022-04-10": 2383349,
-  "2022-04-11": 2383977,
-  "2022-04-12": 2384072,
-  "2022-04-13": 2384701,
-  "2022-04-14": 2385459,
-  "2022-04-15": 2386160,
-  "2022-04-16": 2386989,
-  "2022-04-17": 2387777,
-  "2022-04-18": 2388605,
-  "2022-04-19": 2389120,
-  "2022-04-20": 2389802,
-  "2022-04-21": 2390508,
-  "2022-04-22": 2391250,
-  "2022-04-23": 2392025,
-  "2022-04-24": 2392748,
-  "2022-04-25": 2393384,
-  "2022-04-26": 2394064,
-  "2022-04-27": 2394844,
-  "2022-04-28": 2395436,
-  "2022-04-29": 2396570,
-  "2022-04-30": 2397348,
-  "2022-05-01": 2398115,
-  "2022-05-02": 2398115,
-  "2022-05-03": 2398684,
-  "2022-05-04": 2399218,
-  "2022-05-05": 2399797,
-  "2022-05-06": 2400480,
-  "2022-05-07": 2401306,
-  "2022-05-08": 2402291,
-  "2022-05-09": 2402407,
-  "2022-05-10": 2402998,
-  "2022-05-11": 2403574,
-  "2022-05-12": 2404172,
-  "2022-05-13": 2404838,
-  "2022-05-14": 2405454,
-  "2022-05-15": 2406057,
-  "2022-05-16": 2406623,
-  "2022-05-17": 2407076,
-  "2022-05-18": 2407673,
-  "2022-05-19": 2408274,
-  "2022-05-20": 2408944,
-  "2022-05-21": 2410054,
-  "2022-05-22": 2410054,
-  "2022-05-23": 2410524,
-  "2022-05-24": 2411130,
-  "2022-05-25": 2411747,
-  "2022-05-26": 2412374,
-  "2022-05-27": 2413032,
-  "2022-05-28": 2413639,
-  "2022-05-29": 2414229,
-  "2022-05-30": 2414712,
-  "2022-05-31": 2415225,
-  "2022-06-01": 2416401,
-  "2022-06-02": 2416483,
-  "2022-06-03": 2417113,
-  "2022-06-04": 2417732,
-  "2022-06-05": 2418381,
-  "2022-06-06": 2418860,
-  "2022-06-07": 2419383,
-  "2022-06-08": 2420086,
-  "2022-06-09": 2420573,
-  "2022-06-10": 2421168,
-  "2022-06-11": 2421730,
-  "2022-06-12": 2422356,
-  "2022-06-13": 2422815,
-  "2022-06-14": 2423421,
-  "2022-06-15": 2424004,
-  "2022-06-16": 2424634,
-  "2022-06-17": 2425242,
-  "2022-06-18": 2425872,
-  "2022-06-19": 2426941,
-  "2022-06-20": 2426941,
-  "2022-06-21": 2427530,
-  "2022-06-22": 2428608,
-  "2022-06-23": 2428608,
-  "2022-06-24": 2429153,
-  "2022-06-25": 2429750,
-  "2022-06-26": 2430277,
-  "2022-06-27": 2430732,
-  "2022-06-28": 2431216,
-  "2022-06-29": 2431676,
-  "2022-06-30": 2432213,
-  "2022-07-01": 2432766,
-  "2022-07-02": 2433304,
-  "2022-07-03": 2433870,
-  "2022-07-04": 2434365,
-  "2022-07-05": 2434833,
-  "2022-07-06": 2435400,
-  "2022-07-07": 2435931,
-  "2022-07-08": 2436463,
-  "2022-07-09": 2437067,
-  "2022-07-10": 2437565,
-  "2022-07-11": 2438088,
-  "2022-07-12": 2438603,
-  "2022-07-13": 2439131,
-  "2022-07-14": 2439701,
-  "2022-07-15": 2440295,
-  "2022-07-16": 2440911,
-  "2022-07-17": 2441540,
-  "2022-07-18": 2441998,
-  "2022-07-19": 2442492,
-  "2022-07-20": 2443070,
-  "2022-07-21": 2443616,
-  "2022-07-22": 2444206,
-  "2022-07-23": 2444815,
-  "2022-07-24": 2445380,
-  "2022-07-25": 2445880,
-  "2022-07-26": 2446399,
-  "2022-07-27": 2446939,
-  "2022-07-28": 2447566,
-  "2022-07-29": 2448140,
-  "2022-07-30": 2449353,
-  "2022-07-31": 2449353,
-  "2022-08-01": 2449918,
-  "2022-08-02": 2451011,
-  "2022-08-03": 2451011,
-  "2022-08-04": 2451568,
-  "2022-08-05": 2452236,
-  "2022-08-06": 2452236,
-  "2022-08-07": 2452236,
-  "2022-08-08": 2452236,
-  "2022-08-09": 2452236,
-  "2022-08-10": 2452236,
-  "2022-08-11": 2452236,
-  "2022-08-12": 2452236,
-  "2022-08-13": 2452236,
-  "2022-08-14": 2452236,
-  "2022-08-15": 2452236,
-  "2022-08-16": 2452236,
-  "2022-08-17": 2452236,
-  "2022-08-18": 2308381,
-  "2022-08-19": 2180312,
-  "2022-08-20": 2180175,
-  "2022-08-21": 2154467,
-  "2022-08-22": 2149348,
-  "2022-08-23": 2148314,
-  "2022-08-24": 2148051,
-  "2022-08-25": 2147995,
-  "2022-08-26": 2148044,
-  "2022-08-27": 2148068,
-  "2022-08-28": 2148112,
-  "2022-08-29": 2148098,
-  "2022-08-30": 2147755,
-  "2022-08-31": 2147086,
-  "2022-09-01": 2146329,
-  "2022-09-02": 2146339,
-  "2022-09-03": 2145582,
-  "2022-09-04": 2144278,
-  "2022-09-05": 2143506,
-  "2022-09-06": 2143449,
-  "2022-09-07": 2143457,
-  "2022-09-09": 1445742,
-  "2022-09-10": 1445843,
-  "2022-09-11": 1422665,
-  "2022-09-12": 1417110,
-  "2022-09-13": 1417177,
-  "2022-09-15": 287043,
-  "2022-09-16": 287267,
-  "2022-09-17": 61447,
-  "2022-09-18": 7438,
-  "2022-09-19": 5878,
-  "2022-09-20": 5739,
-  "2022-09-21": 5885,
-  "2022-09-22": 6101,
-  "2022-09-23": 6364,
-  "2022-09-24": 6600,
-  "2022-09-25": 6875,
-  "2022-09-26": 7203,
-  "2022-09-27": 7630,
-  "2022-09-28": 8032,
-  "2022-09-29": 8386,
-  "2022-09-30": 8717,
-  "2022-10-01": 9018,
-  "2022-10-02": 9294,
-  "2022-10-03": 9565,
-  "2022-10-04": 9856,
-  "2022-10-05": 10127,
-  "2022-10-06": 10414,
-  "2022-10-07": 10684,
-  "2022-10-08": 10919,
-  "2022-10-09": 11338,
-  "2022-10-10": 11386,
-  "2022-10-11": 11591,
-  "2022-10-12": 11847,
-  "2022-10-13": 12074,
-  "2022-10-14": 12349,
-  "2022-10-15": 12603,
-  "2022-10-16": 12860,
-  "2022-10-17": 13127,
-  "2022-10-18": 13338,
-  "2022-10-19": 13561,
-  "2022-10-20": 13798,
-  "2022-10-21": 14060,
-  "2022-10-22": 14322,
-  "2022-10-23": 14590,
-  "2022-10-24": 14833,
-  "2022-10-25": 15055,
-  "2022-10-26": 15262,
-  "2022-10-27": 15529,
-  "2022-10-28": 15836,
-  "2022-10-29": 16316,
-  "2022-10-30": 16674,
-  "2022-10-31": 16961,
-  "2022-11-01": 17180,
-  "2022-11-02": 17386,
-  "2022-11-03": 17621,
-  "2022-11-04": 17885,
-  "2022-11-05": 18105,
-  "2022-11-06": 18312,
-  "2022-11-07": 18527,
-  "2022-11-08": 18729,
-  "2022-11-09": 18981,
-  "2022-11-10": 19177,
-  "2022-11-11": 19412,
-  "2022-11-12": 19716,
-  "2022-11-13": 19926,
-  "2022-11-14": 20202,
-  "2022-11-15": 20446,
-  "2022-11-16": 20663,
-  "2022-11-17": 20892,
-  "2022-11-18": 20984,
-  "2022-11-19": 20952,
-  "2022-11-20": 21018,
-  "2022-11-21": 21242,
-  "2022-11-22": 21727,
-  "2022-11-23": 21691,
-  "2022-11-24": 22085,
-  "2022-11-25": 22507,
-  "2022-11-26": 22868,
-  "2022-11-27": 23142,
-  "2022-11-28": 23329,
-  "2022-11-29": 23526,
-  "2022-11-30": 23780,
-  "2022-12-01": 24112,
-  "2022-12-02": 24397,
-  "2022-12-03": 24513,
-  "2022-12-04": 24859,
-  "2022-12-05": 25138,
-  "2022-12-06": 25386,
-  "2022-12-07": 25659,
-  "2022-12-08": 25933,
-  "2022-12-09": 26225,
-  "2022-12-10": 26503,
-  "2022-12-11": 26740,
-  "2022-12-12": 26975,
-  "2022-12-13": 27204,
-  "2022-12-14": 27431,
-  "2022-12-15": 27634,
-  "2022-12-16": 27832,
-  "2022-12-17": 28063,
-  "2022-12-18": 28281,
-  "2022-12-19": 28488,
-  "2022-12-20": 28890,
-  "2022-12-21": 28890,
-  "2022-12-22": 29114,
-  "2022-12-24": 29563,
-  "2022-12-25": 29776,
-  "2022-12-26": 29922,
-  "2022-12-27": 30140,
-  "2022-12-28": 30377,
-  "2022-12-29": 30612,
-  "2022-12-30": 30843,
-  "2022-12-31": 31107,
-  "2023-01-01": 31369,
-  "2023-01-02": 31576,
-  "2023-01-03": 31871,
-  "2023-01-04": 32138,
-  "2023-01-05": 32398,
-  "2023-01-06": 32669,
-  "2023-01-07": 33073,
-  "2023-01-08": 33134,
-  "2023-01-09": 33388,
-  "2023-01-10": 33633,
-  "2023-01-11": 33835,
-  "2023-01-12": 34062,
-  "2023-01-13": 34298,
-  "2023-01-14": 34764,
-  "2023-01-15": 34838,
-  "2023-01-16": 35048,
-  "2023-01-17": 35288,
-  "2023-01-18": 35557,
-  "2023-01-19": 35809,
-  "2023-01-20": 36042,
-  "2023-01-21": 36268,
-  "2023-01-22": 36531,
-  "2023-01-23": 36804,
-  "2023-01-24": 37052,
-  "2023-01-25": 37332,
-  "2023-01-26": 37543,
-  "2023-01-27": 37812,
-  "2023-01-28": 38037,
-  "2023-01-29": 7933,
-  "2023-01-30": 2090,
-  "2023-01-31": 2090,
-  "2023-02-01": 1081,
-  "2023-02-02": 1287,
-  "2023-02-03": 1542,
-  "2023-02-04": 1814,
-  "2023-02-05": 2097,
-  "2023-02-06": 2386,
-  "2023-02-07": 2701,
-  "2023-02-08": 3269,
-  "2023-02-09": 3269,
-  "2023-02-10": 3665,
-  "2023-02-11": 4072,
-  "2023-02-12": 5158,
-  "2023-02-13": 7876,
-  "2023-02-14": 7876,
-  "2023-02-15": 9380,
-  "2023-02-16": 10625,
-  "2023-02-17": 11756,
-  "2023-02-18": 13735,
-  "2023-02-19": 13893,
-  "2023-02-20": 14475,
-  "2023-02-21": 15123,
-  "2023-02-22": 15717,
-  "2023-02-23": 16248,
-  "2023-02-24": 16790,
-  "2023-02-25": 17466,
-  "2023-02-26": 17792,
-  "2023-02-27": 18664,
-  "2023-02-28": 18664,
-  "2023-03-01": 19079,
-  "2023-03-02": 19434,
-  "2023-03-03": 19874,
-  "2023-03-04": 20211,
-  "2023-03-05": 20951,
-  "2023-03-06": 20951,
-  "2023-03-07": 21324,
-  "2023-03-08": 21644,
-  "2023-03-09": 22016,
-  "2023-03-10": 22351,
-  "2023-03-11": 22664,
-  "2023-03-12": 23042,
-  "2023-03-13": 23399,
-  "2023-03-14": 23712,
-  "2023-03-15": 23994,
-  "2023-03-16": 24298,
-  "2023-03-17": 24298,
-  "2023-03-18": 24929,
-  "2023-03-19": 25252,
-  "2023-03-20": 25502,
-  "2023-03-21": 25785,
-  "2023-03-22": 26025,
-  "2023-03-23": 26318,
-  "2023-03-24": 26318,
-  "2023-03-25": 26834,
-  "2023-03-26": 27149,
-  "2023-03-27": 27367,
-  "2023-03-28": 27624,
-  "2023-03-29": 27901,
-  "2023-03-30": 28393,
-  "2023-03-31": 28393,
-  "2023-04-01": 28682,
-  "2023-04-02": 28971,
-  "2023-04-03": 29246,
-  "2023-04-04": 29503,
-  "2023-04-05": 29717,
-  "2023-04-06": 29971,
-  "2023-04-07": 30179,
-  "2023-04-09": 30604,
-  "2023-04-10": 30791,
-  "2023-04-11": 31215,
-  "2023-04-12": 31215,
-  "2023-04-13": 31415,
-  "2023-04-14": 31635,
-  "2023-04-15": 31860,
-  "2023-04-16": 32095,
-  "2023-04-17": 32313,
-  "2023-04-18": 32519,
-  "2023-04-19": 32745,
-  "2023-04-20": 32944,
-  "2023-04-21": 33164,
-  "2023-04-22": 33390,
-  "2023-04-23": 33613,
-  "2023-04-24": 33815,
-  "2023-04-25": 34006,
-  "2023-04-26": 34213,
-  "2023-04-27": 34415,
-  "2023-04-28": 34622,
-  "2023-04-29": 34835,
-  "2023-04-30": 35064,
-  "2023-05-01": 35262,
-  "2023-05-02": 35442,
-  "2023-05-03": 35626,
-  "2023-05-04": 35813,
-  "2023-05-05": 36012,
-  "2023-05-06": 36199,
-  "2023-05-07": 36397,
-  "2023-05-08": 36586,
-  "2023-05-09": 36785,
-  "2023-05-10": 36975,
-  "2023-05-11": 37190,
-  "2023-05-12": 37444,
-  "2023-05-13": 37645,
-  "2023-05-14": 37843,
-  "2023-05-15": 38009,
-  "2023-05-16": 38190,
-  "2023-05-17": 38366,
-  "2023-05-18": 38555,
-  "2023-05-19": 38776,
-  "2023-05-20": 39163,
-  "2023-05-21": 39163,
-  "2023-05-22": 39163,
-  "2023-05-23": 39536,
-  "2023-05-24": 39859,
-  "2023-05-25": 39897,
-  "2023-05-26": 40057,
-  "2023-05-27": 40256,
-  "2023-05-28": 40394,
-  "2023-05-29": 40394,
-  "2023-05-30": 40707,
-  "2023-05-31": 40890,
-  "2023-06-01": 41047,
-  "2023-06-02": 41219,
-  "2023-06-03": 41367,
-  "2023-06-04": 41551,
-  "2023-06-05": 41696,
-  "2023-06-06": 41873,
-  "2023-06-07": 42047,
-  "2023-06-08": 42232,
-  "2023-06-09": 42391,
-  "2023-06-10": 42551,
-  "2023-06-11": 42724,
-  "2023-06-12": 42907,
-  "2023-06-13": 43052,
-  "2023-06-14": 43226,
-  "2023-06-15": 43398,
-  "2023-06-16": 43560,
-  "2023-06-17": 43716,
-  "2023-06-18": 43903,
-  "2023-06-19": 44064,
-  "2023-06-20": 44218,
-  "2023-06-21": 44401,
-  "2023-06-22": 44567,
-  "2023-06-23": 44749,
-  "2023-06-24": 44932,
-  "2023-06-25": 45105,
-  "2023-06-26": 45273,
-  "2023-06-27": 45443,
-  "2023-06-28": 45599,
-  "2023-06-29": 45784,
-  "2023-06-30": 45946,
-  "2023-07-01": 46291,
-  "2023-07-02": 46291,
-  "2023-07-03": 46438,
-  "2023-07-04": 46601,
-  "2023-07-05": 46759,
-  "2023-07-06": 47094,
-  "2023-07-07": 47094,
-  "2023-07-08": 47258,
-  "2023-07-09": 47390,
-  "2023-07-10": 47519,
-  "2023-07-11": 47670,
-  "2023-07-12": 47818,
-  "2023-07-13": 47970,
-  "2023-07-14": 48133,
-  "2023-07-15": 48277,
-  "2023-07-16": 48450,
-  "2023-07-17": 48621,
-  "2023-07-18": 48770,
-  "2023-07-19": 48936,
-  "2023-07-20": 49090,
-  "2023-07-21": 49227,
-  "2023-07-22": 49400,
-  "2023-07-23": 49542,
-  "2023-07-24": 49682,
-  "2023-07-25": 49842,
-  "2023-07-26": 49972,
-  "2023-07-27": 50097,
-  "2023-07-28": 50254,
-  "2023-07-29": 50404,
-  "2023-07-30": 50574,
-  "2023-07-31": 50684,
-  "2023-08-01": 50837,
-  "2023-08-02": 50991,
-  "2023-08-03": 51171,
-  "2023-08-04": 51301,
-  "2023-08-05": 51448,
-  "2023-08-06": 51743,
-  "2023-08-07": 51743,
-  "2023-08-08": 51848,
-  "2023-08-09": 51972,
-  "2023-08-10": 52137,
-  "2023-08-11": 52277,
-  "2023-08-12": 52444,
-  "2023-08-13": 52588,
-  "2023-08-14": 52709,
-  "2023-08-15": 52967,
-  "2023-08-16": 52967,
-  "2023-08-17": 53102,
-  "2023-08-18": 53243,
-  "2023-08-19": 53420,
-  "2023-08-20": 53558,
-  "2023-08-21": 53685,
-  "2023-08-22": 53815,
-  "2023-08-23": 53932,
-  "2023-08-24": 54067,
-  "2023-08-25": 54214,
-  "2023-08-26": 54364,
-  "2023-08-27": 54512,
-  "2023-08-28": 54656,
-  "2023-08-29": 54786,
-  "2023-08-30": 54917,
-  "2023-08-31": 55067,
-  "2023-09-01": 55312,
-  "2023-09-02": 55312,
-  "2023-09-03": 55386,
-  "2023-09-04": 55489,
-  "2023-09-05": 55597,
-  "2023-09-06": 55706,
-  "2023-09-07": 55835,
-  "2023-09-08": 55943,
-  "2023-09-09": 56108,
-  "2023-09-10": 56245,
-  "2023-09-11": 56360,
-  "2023-09-12": 56509,
-  "2023-09-13": 56625,
-  "2023-09-14": 56747,
-  "2023-09-15": 56866,
-  "2023-09-16": 57000,
-  "2023-09-17": 57137,
-  "2023-09-18": 57253,
-  "2023-09-19": 57365,
-  "2023-09-20": 57464,
-  "2023-09-21": 57568,
-  "2023-09-22": 57689,
-  "2023-09-23": 57838,
-  "2023-09-24": 57983,
-  "2023-09-25": 58115,
-  "2023-09-26": 58254,
-  "2023-09-27": 58254,
-  "2023-09-28": 58254,
-  "2023-09-29": 58254,
-  "2023-09-30": 58254,
-  "2023-10-01": 58254,
-  "2023-10-02": 58254,
-  "2023-10-03": 58254,
-  "2023-10-04": 58254,
-  "2023-10-05": 58254,
-  "2023-10-06": 58254,
-  "2023-10-07": 58254,
-  "2023-10-08": 58254,
-  "2023-10-09": 58254,
-  "2023-10-10": 58254,
-  "2023-10-11": 58254,
-  "2023-10-12": 58254,
-  "2023-10-13": 58254,
-  "2023-10-14": 58254,
-  "2023-10-15": 58254,
-  "2023-10-16": 58254,
-  "2023-10-17": 58254,
-  "2023-10-18": 58254,
-  "2023-10-19": 58254,
-  "2023-10-20": 58254,
-  "2023-10-21": 58254,
-  "2023-10-22": 58254,
-  "2023-10-23": 58254,
-  "2023-10-24": 58254,
-  "2023-10-25": 58254,
-  "2023-10-26": 58254,
-  "2023-10-27": 58254,
-  "2023-10-28": 58254,
-  "2023-10-29": 58254,
-  "2023-10-30": 58254,
-  "2023-10-31": 58254,
-  "2023-11-01": 58254,
-  "2023-11-02": 58254,
-  "2023-11-03": 58254,
-  "2023-11-04": 58254,
-  "2023-11-05": 58254,
-  "2023-11-06": 58254,
-  "2023-11-07": 58254,
-  "2023-11-08": 58254,
-  "2023-11-09": 58254,
-  "2023-11-10": 58254,
-  "2023-11-11": 58254,
-  "2023-11-12": 58254,
-  "2023-11-13": 58254,
-  "2023-11-14": 58254,
-  "2023-11-15": 58254,
-  "2023-11-16": 58254,
-  "2023-11-17": 58254,
-  "2023-11-18": 58254,
-  "2023-11-19": 58254,
-  "2023-11-20": 58254,
-  "2023-11-21": 58254,
-  "2023-11-22": 58254,
-  "2023-11-23": 58254,
-  "2023-11-24": 58254,
-  "2023-11-25": 58254,
-  "2023-11-26": 58254,
-  "2023-11-27": 58254,
-  "2023-11-28": 58254,
-  "2023-11-29": 58254,
-  "2023-11-30": 58254,
-  "2023-12-01": 58254,
-  "2023-12-02": 58254,
-  "2023-12-03": 58254,
-  "2023-12-04": 58254,
-  "2023-12-05": 58254,
-  "2023-12-06": 58254,
-  "2023-12-07": 58254,
-  "2023-12-08": 58254,
-  "2023-12-09": 58254,
-  "2023-12-10": 58254,
-  "2023-12-11": 58254,
-  "2023-12-12": 58254,
-  "2023-12-13": 58254,
-  "2023-12-14": 58254,
-  "2023-12-15": 58254,
-  "2023-12-16": 58254,
-  "2023-12-17": 58254,
-  "2023-12-18": 58254,
-  "2023-12-19": 58254,
-  "2023-12-20": 58254,
-  "2023-12-21": 58254,
-  "2023-12-22": 58254,
-  "2023-12-23": 58254,
-  "2023-12-24": 58254,
-  "2023-12-25": 58254,
-  "2023-12-26": 58254,
-  "2023-12-27": 58254,
-  "2023-12-30": 58254,
-  "2023-12-31": 58254,
-  "2024-01-01": 58254,
-  "2024-01-02": 58254,
-  "2024-01-03": 58254
+  "2024-01-17": 58254,
+  "date_first_scraped": "2021-12-21",
+  "description": "Catch all the essential tracks by the multitalented Rihanna.",
+  "name": "This Is Rihanna (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/2IyX9LGBbewZDfNZ5Cjn4G"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320161,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X"
+    },
+    {
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/1jzR3xpKcncJ1GBBucctXP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 320161,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/539HpTjkmnhbPn3p7mjByN"
+    },
+    {
+      "album": {
+        "name": "At My Worst - Chilled Pop",
+        "url": "https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78200,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo"
+    },
+    {
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/0L6tzOdcRwb82xMBZ3WZyi"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/5lnsCyEKWofnC00U4Ax0ti"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/5pvFhFt1nzE8sCbm1wjNRv"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213373,
+      "name": "Break It Off",
+      "url": "https://open.spotify.com/track/2osdbXkJFUwPBLiZ4gRaEv"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Break It Off",
+      "url": "https://open.spotify.com/track/4PgtB6Sul8WDTRZCe5e8St"
+    },
+    {
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251600,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/1ceiWukdMtlzOFhiAMluOj"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251613,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/0uIGzK6ukV0A5yWoCxPkRL"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-11",
+      "duration_ms": 223226,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/2SMf3oF07WpSE55fCuEvSG"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161066,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/2Gxna051PLTjjQVWTOP67D"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161066,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/4pp7VqgssnQtlLJg7LIrkO"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186466,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/60RWYBk24Z6lHxMcWD0oh0"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4JQSMg83F8qYwSBt5xOXsQ"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "album": {
+        "name": "Def Jam 25: DJ Bring That Back",
+        "url": "https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235560,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/612uXBSMPkjDMMKt12NT3B"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/01BvT9GPtThEzcMxkptkgN"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/6tXjP6xgPJ7Xr1igrO6bOE"
+    },
+    {
+      "album": {
+        "name": "FourFiveSeconds",
+        "url": "https://open.spotify.com/album/3W6dGZZiH1GxBiQWE5CjzK"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188238,
+      "name": "FourFiveSeconds",
+      "url": "https://open.spotify.com/track/5XzmZjXhMjDHr7ZfJ6DELQ"
+    },
+    {
+      "album": {
+        "name": "FourFiveSeconds",
+        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188238,
+      "name": "FourFiveSeconds",
+      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218946,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/4789yoeBIsBi6et3z0fyly"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 218946,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Hate That I Love You",
+      "url": "https://open.spotify.com/track/669Zz4glMcFwFl1BRltkXP"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-11",
+      "duration_ms": 120626,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/62uuztuThFtrMuigPgbGuR"
+    },
+    {
+      "album": {
+        "name": "If It's Lovin' That You Want",
+        "url": "https://open.spotify.com/album/1ig72A2siD32Pi0TyKWBbM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/3eZq3x598iAWrcKJ8xY3HO"
+    },
+    {
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253080,
+      "name": "Kiss It Better",
+      "url": "https://open.spotify.com/track/1dI1pt7GNjMI6pbSOd2MD6"
+    },
+    {
+      "album": {
+        "name": "Lemon (Edit)",
+        "url": "https://open.spotify.com/album/2xGzVkqqc7CFi74fAoIbAa"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-31",
+      "duration_ms": 146906,
+      "name": "Lemon - Edit",
+      "url": "https://open.spotify.com/track/2LKlHBPHxLG5ArAXfF148n"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296226,
+      "name": "Love The Way You Lie (Part II) - Pt. 2",
+      "url": "https://open.spotify.com/track/4aPRuTsiG7B4owTTF8Dm3U"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296226,
+      "name": "Love The Way You Lie (Part II) - Pt. 2",
+      "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/3DZQ6mzUkAdHqZWzqxBKIK"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/4XBfFj0WYyh5mBtU61EdyY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/3Ij4WlSogXNafuyz6V2Xvl"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/454h9zAIuTe1eJyw9iTnj4"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/3kfxarilcBr81mb2hmZLeh"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Promised",
+        "url": "https://open.spotify.com/album/7yOTJiQr9w0uJdJLIdNYdb"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170680,
+      "name": "Nothing Is Promised",
+      "url": "https://open.spotify.com/track/5ARLOHcUfEh9qdlRiKDjEU"
+    },
+    {
+      "album": {
+        "name": "Ransom 2",
+        "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170751,
+      "name": "Nothing Is Promised (with Rihanna)",
+      "url": "https://open.spotify.com/track/4MdQkwmoI9lrUfHGD7wOzy"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
+    },
+    {
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235520,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/6jAsmDJI8iPhGWtS27kZ67"
+    },
+    {
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/2Pr6XAzfBObBUTgiSXmr3n"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/6GC6lcKgjCdsdIz5OiCUw5"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/4XBfFj0WYyh5mBtU61EdyY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/1edP9mOIcf8lDzlO1ORbCr"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
+    },
+    {
+      "album": {
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217575,
+      "name": "Princess of China - Radio Edit",
+      "url": "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/4sFRAkllCBqIa08boTHX5A"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294720,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/5bXd8zA39HyVPdfcFqR3lK"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181626,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/28OX5qT45GZBuu8CNKBOj6"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/4XBfFj0WYyh5mBtU61EdyY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181626,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3dK6PU05GCPr505YNOwV24"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181626,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/0lpi9UvopEQr9sVpFVv52w"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222920,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/5hlWtrnVUyAze5WkxF9P56"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/0lpi9UvopEQr9sVpFVv52w"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227533,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/2e2XwMMNEdERsHLpOg7aEM"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/5oMe51UhWt6rsnkAvNRd1A"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227573,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/2jrsywnNPJiJRIP2u21hmD"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243533,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/08Bfk5Y2S5fCxgxk371Eel"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243533,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+    },
+    {
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Sex With Me",
+      "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212280,
+      "name": "Shut Up And Drive",
+      "url": "https://open.spotify.com/track/3m7Fne4xA0bsKzEaWbNucr"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "Shut Up And Drive",
+      "url": "https://open.spotify.com/track/4QdX6pmNnJ5cleufWQIr5D"
+    },
+    {
+      "album": {
+        "name": "Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+        "url": "https://open.spotify.com/album/1kv0MtCYndTXtkdzvGHkMx"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Sledgehammer - From The Motion Picture \"Star Trek Beyond\"",
+      "url": "https://open.spotify.com/track/3EdsfpdAlaQBMO0LgNOEhn"
+    },
+    {
+      "album": {
+        "name": "Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+        "url": "https://open.spotify.com/album/1ieb2SouU3imMuStgx14L1"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211400,
+      "name": "Sledgehammer - From The Motion Picture \"Star Trek Beyond\"",
+      "url": "https://open.spotify.com/track/3tY79n1hkpT8Q6i9XuxVdC"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238920,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238920,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/4S5b3wwIXpVNvY2jeIQdKu"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4qaEPJ1S3GkITZRzuNgiwQ"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3mmjD9G2HUUzDbFl3NRDLM"
+    },
+    {
+      "album": {
+        "name": "\u590f\u65e5\u55e8\u6b4c",
+        "url": "https://open.spotify.com/album/5Wuq3XeKL2Atb2x4OL5Z0N"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229666,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3pa5zcTEXmRpdzFwOueOOQ"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/57mKcbEq7nMqtJ4gqJvWcp"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 209600,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/7drd8T07dm62NkcYESlVhu"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209600,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/7ksS2VMMt5ZDSpZOQTVj73"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
+    },
+    {
+      "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/2Y2ud3awMZHDxOCpDebiv3"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224629,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/3husjxyCMBvNeiTEcrpPSe"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+    },
+    {
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/6RXqIGyOGj0zqdpN0Nlv4g"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/0aUWfpD3PlSv3FTTKcT2rN"
+    },
+    {
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243093,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/2RWs4c3ZJ74WwXlVC3QCQN"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/0XJya16l3K1J2dEwY19F8z"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243093,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/5I6KaV4xAc6ZYyOgEtp6dc"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/35dJsQDEr549O5DTFUy3uM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263173,
+      "name": "What's My Name?",
+      "url": "https://open.spotify.com/track/1pYKzfOlpHWtVUiEIu4Vn7"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263173,
+      "name": "What's My Name?",
+      "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
+    },
+    {
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263173,
+      "name": "What's My Name?",
+      "url": "https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1tjY4H0X706ZH03SXa1DFh"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/51h0awzHny8CZmIS6ECabP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/7yIgJcn1aSgtFB13Razxvf"
+    },
+    {
+      "album": {
+        "name": "Wild Thoughts",
+        "url": "https://open.spotify.com/album/6XMTRp9sURjgP9g23ppEri"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204664,
+      "name": "Wild Thoughts",
+      "url": "https://open.spotify.com/track/4IIUaKqGMElZ3rGtuvYlNc"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204664,
+      "name": "Wild Thoughts (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5gZsEYaYvyi1sAVyuiXbDm"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133080,
+      "name": "Yeah, I Said It",
+      "url": "https://open.spotify.com/track/4Ruw8TzoqEgDe9A5xfZ8GG"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "Yeah, I Said It",
+      "url": "https://open.spotify.com/track/7eDYNlBwRMeFOZHOZ95dZ1"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/3sW7wD2qdMjs7KncaOoIJ5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/2tSFTvHVaLxkqXHaofPKQk"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/5DBfBBTNQH20XbNqp2XZJE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWhBhYl3ZMvY"
 }

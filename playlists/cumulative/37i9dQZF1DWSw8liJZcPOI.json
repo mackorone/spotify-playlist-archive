@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "All We Can't See (Piano Version)",
+        "url": "https://open.spotify.com/album/6FQAJXWN0sJOBrSJhVRott"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 118110,
+      "name": "All We Can't See - Piano Version",
+      "url": "https://open.spotify.com/track/6XaPhn8iq2ij8G6lDgRhQU"
+    },
+    {
+      "album": {
         "name": "Always With You",
         "url": "https://open.spotify.com/album/6yWYaXO5FfwY1NMjC7bRYI"
       },
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 246257,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 386718,
       "name": "Flight from the City - V\u00edkingur \u00d3lafsson Rework",
       "url": "https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 250312,
       "name": "For Now I Am Winter - Nils Frahm Rework",
       "url": "https://open.spotify.com/track/6XfYMFnnwPZasthiS7ph3g"
@@ -5627,6 +5645,24 @@
     },
     {
       "album": {
+        "name": "the world is finally quiet",
+        "url": "https://open.spotify.com/album/7lCUmeQ7puZK4IQ2BAchPq"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/0vkkQav4MwEM0uGJNjMbDz"
+    },
+    {
+      "album": {
         "name": "Partisans",
         "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
       },
@@ -6120,7 +6156,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
@@ -8370,7 +8406,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-11",
       "duration_ms": 145333,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
@@ -8414,7 +8450,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 170539,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"

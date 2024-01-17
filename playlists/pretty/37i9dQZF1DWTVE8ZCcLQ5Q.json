@@ -1,6 +1,6 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 418737,
+  "num_followers": 416024,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Aulas e Cursos",
-        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
       "artists": [
         {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
         }
       ],
-      "duration_ms": 213634,
-      "name": "Aulas e Cursos",
-      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -243,30 +251,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Todo Mundo Ama O Sol",
-        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
-      },
-      "artists": [
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "pumapjl",
-          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Quebra Cabe\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
       },
@@ -291,66 +275,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Malvatrem",
-        "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
+        "name": "Aulas e Cursos",
+        "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
       },
       "artists": [
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Combate",
-        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
-      },
-      "artists": [
-        {
-          "name": "RAP, falando",
-          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Combate",
-      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+      "duration_ms": 213634,
+      "name": "Aulas e Cursos",
+      "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -383,6 +319,70 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Combate",
+        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Combate",
+      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Putaria 2000",
         "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
       },
@@ -399,30 +399,6 @@
       "duration_ms": 107204,
       "name": "Putaria 2000",
       "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -463,6 +439,30 @@
       "duration_ms": 138461,
       "name": "Eu Fiquei Com a Puta",
       "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -635,6 +635,30 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -663,26 +687,46 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/1pm3hj3qfoAE19oN5paIec"
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
         }
       ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/449BJmYTFxZiF3hIyRrrOw"
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "O outro lado do rio",
+        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Mathias",
+          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Me chama pra dan\u00e7ar",
+      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -719,30 +763,6 @@
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -791,26 +811,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "O outro lado do rio",
-        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Mathias",
-          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Me chama pra dan\u00e7ar",
-      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "COSTA QUENTE",
         "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 166285,
       "name": "COSTA QUENTE",
       "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -915,46 +915,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Eu Te Dei, Amor",
-        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 131071,
-      "name": "Eu Te Dei, Amor",
-      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -979,22 +939,42 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Ceder",
-        "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
+        "name": "Eu Te Dei, Amor",
+        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 197617,
-      "name": "Ceder",
-      "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+      "duration_ms": 131071,
+      "name": "Eu Te Dei, Amor",
+      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 171601,
       "name": "bonita e miser\u00e1vel",
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Ceder",
+        "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "duration_ms": 197617,
+      "name": "Ceder",
+      "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "HODARI",
+        "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 149473,
+      "name": "SEM M\u00c9NAGE",
+      "url": "https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1135,38 +1151,6 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "HODARI",
-        "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 149473,
-      "name": "SEM M\u00c9NAGE",
-      "url": "https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 152062,
       "name": "Face ID",
       "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+        }
+      ],
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Ver\u00e3o 021",
         "url": "https://open.spotify.com/album/0YEmY36nlVtX7odjfKFasc"
       },
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
-        }
-      ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "alice (s\u00f3 que sem as maravilhas)",
         "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 177524,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Eldorado Music",
+          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Eldorado Music",
-          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Na Mente",
         "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
       },
@@ -1523,30 +1523,6 @@
       "duration_ms": 124948,
       "name": "Na Mente",
       "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Santana Amarelo",
-        "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
-      },
-      "artists": [
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "Elic\u00ea",
-          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
-        },
-        {
-          "name": "Nochica",
-          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Santana Amarelo",
-      "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1587,6 +1563,30 @@
       "duration_ms": 136289,
       "name": "Vai Com Calma",
       "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Santana Amarelo",
+        "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
+      },
+      "artists": [
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Santana Amarelo",
+      "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
     },
     {
       "added_at": "2023-10-05 08:00:00",

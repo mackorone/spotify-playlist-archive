@@ -1236,6 +1236,28 @@
     {
       "album": {
         "name": "Benign Strangers",
+        "url": "https://open.spotify.com/album/5XtrGD3pOkiDEwij44Rjt7"
+      },
+      "artists": [
+        {
+          "name": "Davy Mooney",
+          "url": "https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq"
+        },
+        {
+          "name": "Ko Omura",
+          "url": "https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365880,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4"
+    },
+    {
+      "album": {
+        "name": "Benign Strangers",
         "url": "https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx"
       },
       "artists": [
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 370533,
       "name": "Easy To Remember",
       "url": "https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK"
@@ -1748,6 +1770,28 @@
       "duration_ms": 337804,
       "name": "Goor Katan",
       "url": "https://open.spotify.com/track/3QkYKsHpTagzTUuRmHtPEM"
+    },
+    {
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/00G3MkRVJ8Kkd6YYxLS0uA"
+      },
+      "artists": [
+        {
+          "name": "Anat Fort Trio",
+          "url": "https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3"
+        },
+        {
+          "name": "Anat Fort",
+          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337804,
+      "name": "Goor Katan",
+      "url": "https://open.spotify.com/track/2OvghHcDNdpXYutDpm90f6"
     },
     {
       "album": {
@@ -2430,7 +2474,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 460693,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/44ugYcT4elLHdwItplCeln"
@@ -4586,7 +4630,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 523266,
       "name": "Sweet Sorrow",
       "url": "https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os"
@@ -4940,6 +4984,24 @@
       "duration_ms": 302640,
       "name": "The Wind In The Night",
       "url": "https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN"
+    },
+    {
+      "album": {
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302640,
+      "name": "The Wind In The Night",
+      "url": "https://open.spotify.com/track/6GTSgyjdnJIehgiQu38qhL"
     },
     {
       "album": {

@@ -1006,7 +1006,7 @@
     {
       "album": {
         "name": "Good Love",
-        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
+        "url": "https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w"
       },
       "artists": [
         {
@@ -1017,6 +1017,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 289514,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
       "duration_ms": 289514,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P"

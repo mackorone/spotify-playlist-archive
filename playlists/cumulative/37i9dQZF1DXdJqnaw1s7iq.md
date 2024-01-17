@@ -2,9 +2,9 @@
 
 ### [voltage](https://open.spotify.com/playlist/37i9dQZF1DXdJqnaw1s7iq)
 
-> electronic nostalgia ⚡️ Cover: The xx
+> electronic nostalgia ⚡️ Cover: James Blake
 
-130 songs - 9 hr 17 min
+131 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,14 +28,15 @@
 | [California Girls](https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [California Girls](https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ) | 3:36 | 2023-05-17 |  |
 | [Camelblues](https://open.spotify.com/track/5afxMT80ZvKcrCeJCV2PXL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Yawn Zen](https://open.spotify.com/album/47iZJnSRStm66cAJiSJHwm) | 2:32 | 2023-05-17 | 2023-06-10 |
 | [Can't See What Is Burning There \- Mixed](https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [DJ\-KiCKS \(Wolf + Lamb vs Soul Clap\) \[DJ Mix\]](https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW) | 1:57 | 2023-05-17 |  |
-| [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 | 2023-05-17 | 2023-12-26 |
+| [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 | 2023-05-17 |  |
 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 | 2023-05-17 |  |
 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 | 2023-05-17 | 2023-08-13 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2023-05-17 |  |
-| [CMYK](https://open.spotify.com/track/09alZMvBX6qVQGzfFsRi9X) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Iotdxi](https://open.spotify.com/album/3VOh4ZvVfyIDe4hlW300qv) | 3:39 | 2023-05-17 |  |
+| [CMYK](https://open.spotify.com/track/09alZMvBX6qVQGzfFsRi9X) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Iotdxi](https://open.spotify.com/album/3VOh4ZvVfyIDe4hlW300qv) | 3:39 | 2023-05-17 | 2024-01-14 |
 | [CMYK](https://open.spotify.com/track/493ZpVleSN7MnPyWc8mzUQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK EP](https://open.spotify.com/album/0LSInSSnuRkl4G6cQ14dFB) | 3:39 | 2023-05-17 | 2023-07-09 |
+| [CMYK](https://open.spotify.com/track/4Bzwd1e5sfxhGuL8tph1zk) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [CMYK](https://open.spotify.com/album/7gcbbflML9B0ayPt11Qina) | 3:39 | 2023-12-08 |  |
 | [Coffee](https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 4:28 | 2023-05-17 |  |
-| [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2023-12-08 |  |
+| [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2023-12-08 | 2024-01-09 |
 | [Dear Miami](https://open.spotify.com/track/1HI2DCMcSu1DaRm1cu3RNK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Overpowered](https://open.spotify.com/album/4VX43pbOazOuTzApLx3ub7) | 3:40 | 2023-05-17 |  |
 | [Destiny](https://open.spotify.com/track/5yQp0RrQ7wdMZoiQ6fnAme) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 4:53 | 2023-05-17 |  |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2023-05-17 |  |

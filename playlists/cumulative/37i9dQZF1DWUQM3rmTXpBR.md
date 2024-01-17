@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Mohammed Saeed
 
-179 songs - 10 hr 57 min
+181 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-23 | 2023-04-24 |
 | [Khayal](https://open.spotify.com/track/6oItsPDKVtqJFtbIn8V4AW) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Khayal](https://open.spotify.com/album/7seFxa9r1rPYcgdCka6hcN) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2021-12-23 | 2022-04-08 |
-| [Kol Shi](https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Kol Shi](https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2) | 3:49 | 2023-04-23 |  |
+| [Kol Shi](https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Kol Shi](https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2) | 3:49 | 2023-04-23 |  |
 | [Koulou Banat](https://open.spotify.com/track/0ht0NTzJCbrS6yO1MU3Jgi) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Koulou Banat](https://open.spotify.com/album/0GVHXr4UrQtrvexyuMGZsv) | 5:14 | 2023-05-06 |  |
 | [La Tlou' El Daw](https://open.spotify.com/track/0pHL3idFQ7AT944IFJQVH6) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [La Tlou' El Daw](https://open.spotify.com/album/3iyIcDBdCVnRHsN0zb6Q5h) | 3:50 | 2021-12-23 | 2023-04-24 |
 | [Lah Al Qamar](https://open.spotify.com/track/278N9IZBZUfhV2b4RhbVxu) | [Albaitil Ashwai](https://open.spotify.com/artist/6Xb2llJHXVw4OBdXGcAfX7) | [Lah Al Qamar](https://open.spotify.com/album/01iHkNbQL7KmFgo46nm3qP) | 3:28 | 2023-06-23 | 2023-08-24 |
@@ -114,7 +114,8 @@
 | [Nehayat El Hakawy](https://open.spotify.com/track/5y2CUolrd9Qjrb7lyEuQ3b) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [El Album](https://open.spotify.com/album/6T1mRxav5p4HHQ3KdKxkrd) | 2:40 | 2021-12-23 | 2022-04-08 |
 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 | 2021-12-23 |  |
 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 | 2022-08-05 |  |
-| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-04-23 |  |
+| [Ountha](https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho) | 3:27 | 2023-04-23 | 2024-01-07 |
+| [Ountha](https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ountha](https://open.spotify.com/album/3QfnsKo5JJ3mCJTyv47crg) | 3:27 | 2023-12-28 |  |
 | [Ouzoreny](https://open.spotify.com/track/7MklY2GT9V5Lnd8ieXfFQ4) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ouzoreny](https://open.spotify.com/album/3J14UoBBPGZluNbNbnsBCu) | 4:31 | 2021-12-23 | 2023-04-24 |
 | [Qendil](https://open.spotify.com/track/41xnwQ7jV43F3r0hGz32W8) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [Qendil](https://open.spotify.com/album/07FghzexOj5xqhoEQ6nzuz) | 2:58 | 2021-12-23 | 2022-02-18 |
 | [Raghm El Masafa](https://open.spotify.com/track/2pL1V75Sv9ZUTJuWrRcu0v) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Asmaa Abo El Yazid](https://open.spotify.com/artist/3yJkKgJ67DldbUljPLAgBZ) | [Raghm El Masafa](https://open.spotify.com/album/5SMueDztaTumldxEJxQBSV) | 4:13 | 2023-04-23 | 2023-08-24 |
@@ -163,8 +164,9 @@
 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-02 | 2023-06-08 |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-04-01 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 | 2023-04-24 |
-| [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 | 2023-06-23 |  |
-| [راضي](https://open.spotify.com/track/6jWUp7xsCPRkDqq7aj2qeP) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [راضي](https://open.spotify.com/album/2UBkpxSc0SNsiap3xZjOqd) | 3:26 | 2023-05-26 |  |
+| [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 | 2023-06-23 | 2024-01-07 |
+| [خاطي](https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 4:20 | 2023-12-28 |  |
+| [راضي](https://open.spotify.com/track/6jWUp7xsCPRkDqq7aj2qeP) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [راضي](https://open.spotify.com/album/2UBkpxSc0SNsiap3xZjOqd) | 3:26 | 2023-05-26 |  |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 | 2023-04-24 |
 | [سيلي](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I), [بحر غازي](https://open.spotify.com/artist/46FaNQ24WNfMzWOVobepxY) | [سيلي](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 | 2022-04-18 | 2023-04-24 |
@@ -178,7 +180,7 @@
 | [غايب](https://open.spotify.com/track/3KntmeYoXY9wFr0vMslHnM) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/7jmeyI1M0wAXHXC4TQJERP) | 3:58 | 2022-09-20 | 2023-04-24 |
 | [غايب](https://open.spotify.com/track/6murO5dlAsmNoxv8JjlRYJ) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/4aoHITm8BSyqKTXobNQ6mR) | 3:58 | 2022-09-08 | 2022-11-02 |
 | [في السماء \(Fe Samaa\)](https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [ڭليثر Glitter٥٥](https://open.spotify.com/artist/2KWnDPIjSGjvYrwexIdYyI) | [في السماء \(Fe Samaa\)](https://open.spotify.com/album/03rlICPw5ab843v5pXMo4H) | 3:53 | 2021-12-23 | 2022-04-19 |
-| [كان لازم](https://open.spotify.com/track/55CSUlBluvD9gauoJNxRPt) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [كان لازم](https://open.spotify.com/album/4J3bWdyJvM81e1SmLci0fI) | 3:23 | 2023-04-23 |  |
+| [كان لازم](https://open.spotify.com/track/55CSUlBluvD9gauoJNxRPt) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [كان لازم](https://open.spotify.com/album/4J3bWdyJvM81e1SmLci0fI) | 3:23 | 2023-04-23 |  |
 | [لا تزعل مني](https://open.spotify.com/track/2OXIsflZ6QACOXefjU2XtX) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [لا تزعل مني](https://open.spotify.com/album/1mZy0tmloE0ReUGWyHcSxe) | 3:23 | 2023-08-24 |  |
 | [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
 | [لو](https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [لو](https://open.spotify.com/album/5DKgNNMIerP7WFn4H10RMw) | 3:36 | 2023-01-19 | 2023-04-01 |

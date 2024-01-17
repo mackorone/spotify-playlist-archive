@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,310 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,564 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

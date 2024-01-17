@@ -1,577 +1,1065 @@
 {
-  "2022-06-02": 100691,
-  "2022-06-03": 100852,
-  "2022-06-04": 101030,
-  "2022-06-05": 101165,
-  "2022-06-06": 101268,
-  "2022-06-07": 101405,
-  "2022-06-08": 101600,
-  "2022-06-09": 101682,
-  "2022-06-10": 101839,
-  "2022-06-11": 101972,
-  "2022-06-12": 102133,
-  "2022-06-13": 102275,
-  "2022-06-14": 102428,
-  "2022-06-15": 102565,
-  "2022-06-16": 102697,
-  "2022-06-17": 102815,
-  "2022-06-18": 102942,
-  "2022-06-19": 103192,
-  "2022-06-20": 103192,
-  "2022-06-21": 103313,
-  "2022-06-22": 103557,
-  "2022-06-23": 103557,
-  "2022-06-24": 103686,
-  "2022-06-25": 103784,
-  "2022-06-26": 103901,
-  "2022-06-27": 104022,
-  "2022-06-28": 104147,
-  "2022-06-29": 104278,
-  "2022-06-30": 104414,
-  "2022-07-01": 104532,
-  "2022-07-02": 104634,
-  "2022-07-03": 104744,
-  "2022-07-04": 104854,
-  "2022-07-05": 104996,
-  "2022-07-06": 104996,
-  "2022-07-07": 105208,
-  "2022-07-08": 105331,
-  "2022-07-09": 105466,
-  "2022-07-10": 105611,
-  "2022-07-11": 105719,
-  "2022-07-12": 105888,
-  "2022-07-13": 106082,
-  "2022-07-14": 106209,
-  "2022-07-15": 106341,
-  "2022-07-16": 106486,
-  "2022-07-17": 106615,
-  "2022-07-18": 106765,
-  "2022-07-19": 106883,
-  "2022-07-20": 107015,
-  "2022-07-21": 107175,
-  "2022-07-22": 107302,
-  "2022-07-23": 107425,
-  "2022-07-24": 107527,
-  "2022-07-25": 107625,
-  "2022-07-26": 107739,
-  "2022-07-27": 107858,
-  "2022-07-28": 107972,
-  "2022-07-29": 108108,
-  "2022-07-30": 108421,
-  "2022-07-31": 108421,
-  "2022-08-01": 108520,
-  "2022-08-02": 108761,
-  "2022-08-03": 108761,
-  "2022-08-04": 108879,
-  "2022-08-05": 108998,
-  "2022-08-06": 109134,
-  "2022-08-07": 109263,
-  "2022-08-08": 109363,
-  "2022-08-09": 109518,
-  "2022-08-10": 109648,
-  "2022-08-11": 109788,
-  "2022-08-12": 109932,
-  "2022-08-13": 110024,
-  "2022-08-14": 110163,
-  "2022-08-15": 110234,
-  "2022-08-16": 110355,
-  "2022-08-17": 110509,
-  "2022-08-18": 110633,
-  "2022-08-19": 110786,
-  "2022-08-20": 110914,
-  "2022-08-21": 111080,
-  "2022-08-22": 111176,
-  "2022-08-23": 111297,
-  "2022-08-24": 111424,
-  "2022-08-25": 111574,
-  "2022-08-26": 111717,
-  "2022-08-27": 111859,
-  "2022-08-28": 112054,
-  "2022-08-29": 112210,
-  "2022-08-30": 112345,
-  "2022-08-31": 112485,
-  "2022-09-01": 112611,
-  "2022-09-02": 112773,
-  "2022-09-03": 112920,
-  "2022-09-04": 113042,
-  "2022-09-05": 113194,
-  "2022-09-06": 113332,
-  "2022-09-07": 113460,
-  "2022-09-09": 113759,
-  "2022-09-10": 113904,
-  "2022-09-11": 114044,
-  "2022-09-12": 114171,
-  "2022-09-13": 114337,
-  "2022-09-15": 114600,
-  "2022-09-16": 114765,
-  "2022-09-17": 114892,
-  "2022-09-18": 115031,
-  "2022-09-19": 115165,
-  "2022-09-20": 115323,
-  "2022-09-21": 115482,
-  "2022-09-22": 115631,
-  "2022-09-23": 115823,
-  "2022-09-24": 115998,
-  "2022-09-25": 116152,
-  "2022-09-26": 116281,
-  "2022-09-27": 116461,
-  "2022-09-28": 116634,
-  "2022-09-29": 116797,
-  "2022-09-30": 116999,
-  "2022-10-01": 117156,
-  "2022-10-02": 117319,
-  "2022-10-03": 117490,
-  "2022-10-04": 117653,
-  "2022-10-05": 117824,
-  "2022-10-06": 117983,
-  "2022-10-07": 118150,
-  "2022-10-08": 118324,
-  "2022-10-09": 118596,
-  "2022-10-10": 118644,
-  "2022-10-11": 118820,
-  "2022-10-12": 118988,
-  "2022-10-13": 119197,
-  "2022-10-14": 119397,
-  "2022-10-15": 119571,
-  "2022-10-16": 119736,
-  "2022-10-17": 119903,
-  "2022-10-18": 120054,
-  "2022-10-19": 120252,
-  "2022-10-20": 120474,
-  "2022-10-21": 120666,
-  "2022-10-22": 120821,
-  "2022-10-23": 121019,
-  "2022-10-24": 121170,
-  "2022-10-25": 121343,
-  "2022-10-26": 121516,
-  "2022-10-27": 121694,
-  "2022-10-28": 121864,
-  "2022-10-29": 122041,
-  "2022-10-30": 122210,
-  "2022-10-31": 122347,
-  "2022-11-01": 122482,
-  "2022-11-02": 122647,
-  "2022-11-03": 122800,
-  "2022-11-04": 122987,
-  "2022-11-05": 123174,
-  "2022-11-06": 123327,
-  "2022-11-07": 123475,
-  "2022-11-08": 123659,
-  "2022-11-09": 123872,
-  "2022-11-10": 124067,
-  "2022-11-11": 124267,
-  "2022-11-12": 124484,
-  "2022-11-13": 124607,
-  "2022-11-14": 124738,
-  "2022-11-15": 124861,
-  "2022-11-16": 125005,
-  "2022-11-17": 125150,
-  "2022-11-18": 125199,
-  "2022-11-19": 125226,
-  "2022-11-20": 125347,
-  "2022-11-21": 125480,
-  "2022-11-22": 125606,
-  "2022-11-23": 125733,
-  "2022-11-24": 125967,
-  "2022-11-25": 126223,
-  "2022-11-26": 126387,
-  "2022-11-27": 126497,
-  "2022-11-28": 126620,
-  "2022-11-29": 126767,
-  "2022-11-30": 126903,
-  "2022-12-01": 127046,
-  "2022-12-02": 127156,
-  "2022-12-03": 127390,
-  "2022-12-04": 127534,
-  "2022-12-05": 127663,
-  "2022-12-06": 127803,
-  "2022-12-07": 127959,
-  "2022-12-08": 128095,
-  "2022-12-09": 128239,
-  "2022-12-10": 128394,
-  "2022-12-11": 128518,
-  "2022-12-12": 128663,
-  "2022-12-13": 128760,
-  "2022-12-14": 128890,
-  "2022-12-15": 129020,
-  "2022-12-16": 129137,
-  "2022-12-17": 129290,
-  "2022-12-18": 129427,
-  "2022-12-19": 129540,
-  "2022-12-20": 129756,
-  "2022-12-21": 129756,
-  "2022-12-22": 129883,
-  "2022-12-24": 130121,
-  "2022-12-25": 130247,
-  "2022-12-26": 130352,
-  "2022-12-27": 130476,
-  "2022-12-28": 130609,
-  "2022-12-29": 130741,
-  "2022-12-30": 130904,
-  "2022-12-31": 131076,
-  "2023-01-01": 131209,
-  "2023-01-02": 131315,
-  "2023-01-03": 131466,
-  "2023-01-04": 131607,
-  "2023-01-05": 131780,
-  "2023-01-06": 131953,
-  "2023-01-07": 132123,
-  "2023-01-08": 132167,
-  "2023-01-09": 132300,
-  "2023-01-10": 132473,
-  "2023-01-11": 132617,
-  "2023-01-12": 132774,
-  "2023-01-13": 132911,
-  "2023-01-14": 133138,
-  "2023-01-15": 133162,
-  "2023-01-16": 133277,
-  "2023-01-17": 133419,
-  "2023-01-18": 133531,
-  "2023-01-19": 133661,
-  "2023-01-20": 133777,
-  "2023-01-21": 133899,
-  "2023-01-22": 134001,
-  "2023-01-23": 134107,
-  "2023-01-24": 134219,
-  "2023-01-25": 134344,
-  "2023-01-26": 134468,
-  "2023-01-27": 134560,
-  "2023-01-28": 134681,
-  "2023-01-29": 134785,
-  "2023-01-30": 134910,
-  "2023-01-31": 134910,
-  "2023-02-01": 135136,
-  "2023-02-02": 135231,
-  "2023-02-03": 135333,
-  "2023-02-04": 135453,
-  "2023-02-05": 135577,
-  "2023-02-06": 135677,
-  "2023-02-07": 135774,
-  "2023-02-08": 136007,
-  "2023-02-09": 136007,
-  "2023-02-10": 136184,
-  "2023-02-11": 136375,
-  "2023-02-12": 136795,
-  "2023-02-13": 137045,
-  "2023-02-14": 137045,
-  "2023-02-15": 137305,
-  "2023-02-16": 137609,
-  "2023-02-17": 137933,
-  "2023-02-18": 138647,
-  "2023-02-19": 138708,
-  "2023-02-20": 138833,
-  "2023-02-21": 139064,
-  "2023-02-22": 139321,
-  "2023-02-23": 139544,
-  "2023-02-24": 139769,
-  "2023-02-25": 140038,
-  "2023-02-26": 140141,
-  "2023-02-27": 140511,
-  "2023-02-28": 140511,
-  "2023-03-01": 140799,
-  "2023-03-02": 141156,
-  "2023-03-03": 141465,
-  "2023-03-04": 141695,
-  "2023-03-05": 142105,
-  "2023-03-06": 142105,
-  "2023-03-07": 142351,
-  "2023-03-08": 142524,
-  "2023-03-09": 142708,
-  "2023-03-10": 142842,
-  "2023-03-11": 143005,
-  "2023-03-12": 143184,
-  "2023-03-13": 143341,
-  "2023-03-14": 143528,
-  "2023-03-15": 143690,
-  "2023-03-16": 143690,
-  "2023-03-17": 143690,
-  "2023-03-18": 147109,
-  "2023-03-19": 147109,
-  "2023-03-20": 147566,
-  "2023-03-21": 147845,
-  "2023-03-22": 148104,
-  "2023-03-23": 148355,
-  "2023-03-24": 148355,
-  "2023-03-25": 148868,
-  "2023-03-26": 149150,
-  "2023-03-27": 149373,
-  "2023-03-28": 149591,
-  "2023-03-29": 149892,
-  "2023-03-30": 150285,
-  "2023-03-31": 150285,
-  "2023-04-01": 150505,
-  "2023-04-02": 150709,
-  "2023-04-03": 150884,
-  "2023-04-04": 151146,
-  "2023-04-05": 151449,
-  "2023-04-06": 151709,
-  "2023-04-07": 151949,
-  "2023-04-09": 152412,
-  "2023-04-10": 152652,
-  "2023-04-11": 153194,
-  "2023-04-12": 153194,
-  "2023-04-13": 153453,
-  "2023-04-14": 153722,
-  "2023-04-15": 153970,
-  "2023-04-16": 154242,
-  "2023-04-17": 154492,
-  "2023-04-18": 154802,
-  "2023-04-19": 155078,
-  "2023-04-20": 155333,
-  "2023-04-21": 155612,
-  "2023-04-22": 155892,
-  "2023-04-23": 156191,
-  "2023-04-24": 156440,
-  "2023-04-25": 156674,
-  "2023-04-26": 156939,
-  "2023-04-27": 157643,
-  "2023-04-28": 160002,
-  "2023-04-29": 161027,
-  "2023-04-30": 161426,
-  "2023-05-01": 161796,
-  "2023-05-02": 162165,
-  "2023-05-03": 162626,
-  "2023-05-04": 163023,
-  "2023-05-05": 163355,
-  "2023-05-06": 163691,
-  "2023-05-07": 164008,
-  "2023-05-08": 164287,
-  "2023-05-09": 164566,
-  "2023-05-10": 164818,
-  "2023-05-11": 165053,
-  "2023-05-12": 165318,
-  "2023-05-13": 165596,
-  "2023-05-14": 165884,
-  "2023-05-15": 166106,
-  "2023-05-16": 166331,
-  "2023-05-17": 166559,
-  "2023-05-18": 166766,
-  "2023-05-19": 167003,
-  "2023-05-20": 167395,
-  "2023-05-21": 167395,
-  "2023-05-22": 167395,
-  "2023-05-23": 167782,
-  "2023-05-24": 168128,
-  "2023-05-25": 168207,
-  "2023-05-26": 168447,
-  "2023-05-27": 168638,
-  "2023-05-28": 168808,
-  "2023-05-29": 168808,
-  "2023-05-30": 169144,
-  "2023-05-31": 169326,
-  "2023-06-01": 169510,
-  "2023-06-02": 169728,
-  "2023-06-03": 169883,
-  "2023-06-04": 170089,
-  "2023-06-05": 170267,
-  "2023-06-06": 170458,
-  "2023-06-07": 170640,
-  "2023-06-08": 170816,
-  "2023-06-09": 170981,
-  "2023-06-10": 171198,
-  "2023-06-11": 171355,
-  "2023-06-12": 171516,
-  "2023-06-13": 171684,
-  "2023-06-14": 171847,
-  "2023-06-15": 171983,
-  "2023-06-16": 172116,
-  "2023-06-17": 172275,
-  "2023-06-18": 172442,
-  "2023-06-19": 172558,
-  "2023-06-20": 172725,
-  "2023-06-21": 172892,
-  "2023-06-22": 173075,
-  "2023-06-23": 173209,
-  "2023-06-24": 173341,
-  "2023-06-25": 173470,
-  "2023-06-26": 173586,
-  "2023-06-27": 173690,
-  "2023-06-28": 173823,
-  "2023-06-29": 173966,
-  "2023-06-30": 174122,
-  "2023-07-01": 174372,
-  "2023-07-02": 174372,
-  "2023-07-03": 174482,
-  "2023-07-04": 174587,
-  "2023-07-05": 174691,
-  "2023-07-06": 174964,
-  "2023-07-07": 174964,
-  "2023-07-08": 175061,
-  "2023-07-09": 175177,
-  "2023-07-10": 175289,
-  "2023-07-11": 175372,
-  "2023-07-12": 175468,
-  "2023-07-13": 175569,
-  "2023-07-14": 175682,
-  "2023-07-15": 175739,
-  "2023-07-16": 175887,
-  "2023-07-17": 175992,
-  "2023-07-18": 176070,
-  "2023-07-19": 176171,
-  "2023-07-20": 176289,
-  "2023-07-21": 176433,
-  "2023-07-22": 176554,
-  "2023-07-23": 176665,
-  "2023-07-24": 176768,
-  "2023-07-25": 176877,
-  "2023-07-26": 177008,
-  "2023-07-27": 177140,
-  "2023-07-28": 177304,
-  "2023-07-29": 177399,
-  "2023-07-30": 177496,
-  "2023-07-31": 177578,
-  "2023-08-01": 177689,
-  "2023-08-02": 177788,
-  "2023-08-03": 177896,
-  "2023-08-04": 177960,
-  "2023-08-05": 178041,
-  "2023-08-06": 178237,
-  "2023-08-07": 178237,
-  "2023-08-08": 178321,
-  "2023-08-09": 178401,
-  "2023-08-10": 178473,
-  "2023-08-11": 178568,
-  "2023-08-12": 178568,
-  "2023-08-13": 178568,
-  "2023-08-14": 178808,
-  "2023-08-15": 178808,
-  "2023-08-16": 178808,
-  "2023-08-17": 179092,
-  "2023-08-18": 179092,
-  "2023-08-19": 179303,
-  "2023-08-20": 179396,
-  "2023-08-21": 179396,
-  "2023-08-22": 179581,
-  "2023-08-23": 179581,
-  "2023-08-24": 179822,
-  "2023-08-25": 179822,
-  "2023-08-26": 180024,
-  "2023-08-27": 180024,
-  "2023-08-28": 180211,
-  "2023-08-29": 180211,
-  "2023-08-30": 180211,
-  "2023-08-31": 180470,
-  "2023-09-01": 180643,
-  "2023-09-02": 180643,
-  "2023-09-03": 180717,
-  "2023-09-04": 180717,
-  "2023-09-05": 180717,
-  "2023-09-06": 181011,
-  "2023-09-07": 181011,
-  "2023-09-08": 181011,
-  "2023-09-09": 181011,
-  "2023-09-10": 181407,
-  "2023-09-11": 181487,
-  "2023-09-12": 181487,
-  "2023-09-13": 181655,
-  "2023-09-14": 181655,
-  "2023-09-15": 181655,
-  "2023-09-16": 181937,
-  "2023-09-17": 181937,
-  "2023-09-18": 181937,
-  "2023-09-19": 182210,
-  "2023-09-20": 182210,
-  "2023-09-21": 182210,
-  "2023-09-22": 182510,
-  "2023-09-23": 182510,
-  "2023-09-24": 182510,
-  "2023-09-25": 182510,
-  "2023-09-26": 182823,
-  "2023-09-27": 182823,
-  "2023-09-28": 182823,
-  "2023-09-29": 182823,
-  "2023-09-30": 182823,
-  "2023-10-01": 182823,
-  "2023-10-02": 183507,
-  "2023-10-03": 183507,
-  "2023-10-04": 183507,
-  "2023-10-05": 183839,
-  "2023-10-06": 183980,
-  "2023-10-07": 183980,
-  "2023-10-08": 183980,
-  "2023-10-09": 183980,
-  "2023-10-10": 183980,
-  "2023-10-11": 184383,
-  "2023-10-12": 184383,
-  "2023-10-13": 184383,
-  "2023-10-14": 184383,
-  "2023-10-15": 184383,
-  "2023-10-16": 184383,
-  "2023-10-17": 184383,
-  "2023-10-18": 184383,
-  "2023-10-19": 184383,
-  "2023-10-20": 184383,
-  "2023-10-21": 184383,
-  "2023-10-22": 184383,
-  "2023-10-23": 184383,
-  "2023-10-24": 184383,
-  "2023-10-25": 184383,
-  "2023-10-26": 184383,
-  "2023-10-27": 184383,
-  "2023-10-28": 184383,
-  "2023-10-29": 184383,
-  "2023-10-30": 184383,
-  "2023-10-31": 184383,
-  "2023-11-01": 184383,
-  "2023-11-02": 184383,
-  "2023-11-03": 184383,
-  "2023-11-04": 184383,
-  "2023-11-05": 184383,
-  "2023-11-06": 184383,
-  "2023-11-07": 184383,
-  "2023-11-08": 184383,
-  "2023-11-09": 184383,
-  "2023-11-10": 184383,
-  "2023-11-11": 186794,
-  "2023-11-12": 186794,
-  "2023-11-13": 186794,
-  "2023-11-14": 186794,
-  "2023-11-15": 186794,
-  "2023-11-16": 186794,
-  "2023-11-17": 186794,
-  "2023-11-18": 186794,
-  "2023-11-19": 186794,
-  "2023-11-20": 186794,
-  "2023-11-21": 186794,
-  "2023-11-22": 186794,
-  "2023-11-23": 186794,
-  "2023-11-24": 186794,
-  "2023-11-25": 186794,
-  "2023-11-26": 186794,
-  "2023-11-27": 186794,
-  "2023-11-28": 186794,
-  "2023-11-29": 186794,
-  "2023-11-30": 186794,
-  "2023-12-01": 186794,
-  "2023-12-02": 186794,
-  "2023-12-03": 186794,
-  "2023-12-04": 186794,
-  "2023-12-05": 186794,
-  "2023-12-06": 186794,
-  "2023-12-07": 186794,
-  "2023-12-08": 186794,
-  "2023-12-09": 186794,
-  "2023-12-10": 186794,
-  "2023-12-11": 186794,
-  "2023-12-12": 186794,
-  "2023-12-13": 186794,
-  "2023-12-14": 188958,
-  "2023-12-15": 189007,
-  "2023-12-16": 189082,
-  "2023-12-17": 189159,
-  "2023-12-18": 189216,
-  "2023-12-19": 189272,
-  "2023-12-20": 189339,
-  "2023-12-21": 189401,
-  "2023-12-22": 189445,
-  "2023-12-23": 189501,
-  "2023-12-24": 189567,
-  "2023-12-25": 189617,
-  "2023-12-26": 189657,
-  "2023-12-27": 189705,
-  "2023-12-30": 189843,
-  "2023-12-31": 189892,
-  "2024-01-01": 189941,
-  "2024-01-02": 189969,
-  "2024-01-03": 190014
+  "2024-01-17": 190784,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
+  "name": "This Is Eslabon Armado",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317362,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307375,
+      "name": "Ando M\u00e1s Que Mal",
+      "url": "https://open.spotify.com/track/2uVW9s3bC14wp15d3Ma6EO"
+    },
+    {
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172501,
+      "name": "Aretes",
+      "url": "https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215954,
+      "name": "Catorce de Febrero",
+      "url": "https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 242718,
+      "name": "Dame Otro Beso",
+      "url": "https://open.spotify.com/track/5hYP1GgVxJ1a6kdoUCPTP6"
+    },
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222926,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/5kPEpa2Z7jWjfA6YMq9CGE"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "DOS MORRITAS",
+      "url": "https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8"
+    },
+    {
+      "album": {
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 45031,
+      "name": "Eslabon Intro",
+      "url": "https://open.spotify.com/track/4rvQ7BtQl20UuLmW0DwItj"
+    },
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239874,
+      "name": "Ganas Que Te Tengo",
+      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209902,
+      "name": "HASTA LA MUERTE",
+      "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
+    },
+    {
+      "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN"
+    },
+    {
+      "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208326,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205692,
+      "name": "LA PERRIE",
+      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
+    },
+    {
+      "album": {
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 189402,
+      "name": "Llamarte o Bloquearte",
+      "url": "https://open.spotify.com/track/2ReB2tmjOVjgwk4AkCfsvI"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 204482,
+      "name": "LUCES ROJAS",
+      "url": "https://open.spotify.com/track/1A8phlx4xWUfd1uOZc98K4"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "ME CAMBIASTE (with Eslabon Armado)",
+      "url": "https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239420,
+      "name": "Me Decepcionaste",
+      "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/50g9l7cOUIXt9LVl9eX784"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217182,
+      "name": "Me Prendes",
+      "url": "https://open.spotify.com/track/2ZrZyoZJub4kQyIXmxl47l"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229479,
+      "name": "Mejor Acabar",
+      "url": "https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd"
+    },
+    {
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398466,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199737,
+      "name": "MODO DEPRE :(",
+      "url": "https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD"
+    },
+    {
+      "album": {
+        "name": "M\u00eda Un A\u00f1o",
+        "url": "https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 174626,
+      "name": "M\u00eda Un A\u00f1o",
+      "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
+    },
+    {
+      "album": {
+        "name": "Navegando y Flotando",
+        "url": "https://open.spotify.com/album/5nlr24zHTeIXfuBci42L1Q"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 162507,
+      "name": "Nada Me Va Mal",
+      "url": "https://open.spotify.com/track/1C0OMWgbKnJza9HEyC7s8g"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "No Dudes de Ti",
+      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107153,
+      "name": "QUE DIABLOS HICE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160752,
+      "name": "Quedate Conmigo",
+      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230443,
+      "name": "Quien Es El?",
+      "url": "https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "Regresa Mami",
+      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
+    },
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
+    },
+    {
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+    },
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220383,
+      "name": "Te Quiero a Ti",
+      "url": "https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242442,
+      "name": "Tentacion",
+      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 195348,
+      "name": "Termine Sufriendo",
+      "url": "https://open.spotify.com/track/79A1VwJknwHTh2105djsQm"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "Tonto Perdedor",
+      "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216685,
+      "name": "Tres de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
+    },
+    {
+      "album": {
+        "name": "Una Mentirosa",
+        "url": "https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Una Mentirosa",
+      "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Una Peda",
+      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166246,
+      "name": "VETE A LA FREGADA",
+      "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
+    },
+    {
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292052,
+      "name": "\u00bfDonde Has Estado?",
+      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY"
 }

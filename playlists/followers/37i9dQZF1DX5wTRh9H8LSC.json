@@ -1,620 +1,993 @@
 {
-  "2022-04-20": 44102,
-  "2022-04-21": 44128,
-  "2022-04-22": 44165,
-  "2022-04-23": 44205,
-  "2022-04-24": 44227,
-  "2022-04-25": 44249,
-  "2022-04-26": 44277,
-  "2022-04-27": 44323,
-  "2022-04-28": 44342,
-  "2022-04-29": 44387,
-  "2022-04-30": 44417,
-  "2022-05-01": 44445,
-  "2022-05-02": 44445,
-  "2022-05-03": 44472,
-  "2022-05-04": 44505,
-  "2022-05-05": 44543,
-  "2022-05-06": 44573,
-  "2022-05-07": 44617,
-  "2022-05-08": 44684,
-  "2022-05-09": 44694,
-  "2022-05-10": 44724,
-  "2022-05-11": 44769,
-  "2022-05-12": 44808,
-  "2022-05-13": 44836,
-  "2022-05-14": 44865,
-  "2022-05-15": 44907,
-  "2022-05-16": 44938,
-  "2022-05-17": 44960,
-  "2022-05-18": 44993,
-  "2022-05-19": 45032,
-  "2022-05-20": 45053,
-  "2022-05-21": 45102,
-  "2022-05-22": 45102,
-  "2022-05-23": 45148,
-  "2022-05-24": 45186,
-  "2022-05-25": 45206,
-  "2022-05-26": 45238,
-  "2022-05-27": 45278,
-  "2022-05-28": 45314,
-  "2022-05-29": 45342,
-  "2022-05-30": 45378,
-  "2022-05-31": 45412,
-  "2022-06-01": 45484,
-  "2022-06-02": 45487,
-  "2022-06-03": 45536,
-  "2022-06-04": 45571,
-  "2022-06-05": 45596,
-  "2022-06-06": 45626,
-  "2022-06-07": 45651,
-  "2022-06-08": 45682,
-  "2022-06-09": 45706,
-  "2022-06-10": 45747,
-  "2022-06-11": 45782,
-  "2022-06-12": 45819,
-  "2022-06-13": 45841,
-  "2022-06-14": 45864,
-  "2022-06-15": 45910,
-  "2022-06-16": 45942,
-  "2022-06-17": 45979,
-  "2022-06-18": 46037,
-  "2022-06-19": 46121,
-  "2022-06-20": 46121,
-  "2022-06-21": 46144,
-  "2022-06-22": 46227,
-  "2022-06-23": 46227,
-  "2022-06-24": 46260,
-  "2022-06-25": 46293,
-  "2022-06-26": 46324,
-  "2022-06-27": 46360,
-  "2022-06-28": 46380,
-  "2022-06-29": 46416,
-  "2022-06-30": 46513,
-  "2022-07-01": 46618,
-  "2022-07-02": 46730,
-  "2022-07-03": 46850,
-  "2022-07-04": 46951,
-  "2022-07-05": 47054,
-  "2022-07-06": 47127,
-  "2022-07-07": 47224,
-  "2022-07-08": 47345,
-  "2022-07-09": 47431,
-  "2022-07-10": 47518,
-  "2022-07-11": 47573,
-  "2022-07-12": 47649,
-  "2022-07-13": 47731,
-  "2022-07-14": 47803,
-  "2022-07-15": 47873,
-  "2022-07-16": 47932,
-  "2022-07-17": 47975,
-  "2022-07-18": 48028,
-  "2022-07-19": 48098,
-  "2022-07-20": 48151,
-  "2022-07-21": 48192,
-  "2022-07-22": 48246,
-  "2022-07-23": 48299,
-  "2022-07-24": 48342,
-  "2022-07-25": 48407,
-  "2022-07-26": 48470,
-  "2022-07-27": 48524,
-  "2022-07-28": 48575,
-  "2022-07-29": 48616,
-  "2022-07-30": 48726,
-  "2022-07-31": 48726,
-  "2022-08-01": 48769,
-  "2022-08-02": 48823,
-  "2022-08-03": 48823,
-  "2022-08-04": 48877,
-  "2022-08-05": 48917,
-  "2022-08-06": 48983,
-  "2022-08-07": 49010,
-  "2022-08-08": 49077,
-  "2022-08-09": 49125,
-  "2022-08-10": 49172,
-  "2022-08-11": 49237,
-  "2022-08-12": 49295,
-  "2022-08-13": 49348,
-  "2022-08-14": 49404,
-  "2022-08-15": 49460,
-  "2022-08-16": 49541,
-  "2022-08-17": 49583,
-  "2022-08-18": 49633,
-  "2022-08-19": 49702,
-  "2022-08-20": 49756,
-  "2022-08-21": 49821,
-  "2022-08-22": 49865,
-  "2022-08-23": 49913,
-  "2022-08-24": 49951,
-  "2022-08-25": 49997,
-  "2022-08-26": 50037,
-  "2022-08-27": 50105,
-  "2022-08-28": 50158,
-  "2022-08-29": 50201,
-  "2022-08-30": 50200,
-  "2022-08-31": 50132,
-  "2022-09-01": 50052,
-  "2022-09-02": 49968,
-  "2022-09-03": 50019,
-  "2022-09-04": 49798,
-  "2022-09-05": 49836,
-  "2022-09-06": 49892,
-  "2022-09-07": 49943,
-  "2022-09-09": 50020,
-  "2022-09-10": 50074,
-  "2022-09-11": 50126,
-  "2022-09-12": 50174,
-  "2022-09-13": 50227,
-  "2022-09-15": 50325,
-  "2022-09-16": 50364,
-  "2022-09-17": 50406,
-  "2022-09-18": 50455,
-  "2022-09-19": 50497,
-  "2022-09-20": 50529,
-  "2022-09-21": 50572,
-  "2022-09-22": 50596,
-  "2022-09-23": 50619,
-  "2022-09-24": 50644,
-  "2022-09-25": 50671,
-  "2022-09-26": 50708,
-  "2022-09-27": 50729,
-  "2022-09-28": 50753,
-  "2022-09-29": 50774,
-  "2022-09-30": 50788,
-  "2022-10-01": 50824,
-  "2022-10-02": 50878,
-  "2022-10-03": 50918,
-  "2022-10-04": 50947,
-  "2022-10-05": 50974,
-  "2022-10-06": 51006,
-  "2022-10-07": 51030,
-  "2022-10-08": 51073,
-  "2022-10-09": 51143,
-  "2022-10-10": 51143,
-  "2022-10-11": 51187,
-  "2022-10-12": 51205,
-  "2022-10-13": 51233,
-  "2022-10-14": 51258,
-  "2022-10-15": 51292,
-  "2022-10-16": 51319,
-  "2022-10-17": 51352,
-  "2022-10-18": 51383,
-  "2022-10-19": 51422,
-  "2022-10-20": 51458,
-  "2022-10-21": 51484,
-  "2022-10-22": 51509,
-  "2022-10-23": 51538,
-  "2022-10-24": 51573,
-  "2022-10-25": 51606,
-  "2022-10-26": 51638,
-  "2022-10-27": 51666,
-  "2022-10-28": 51686,
-  "2022-10-29": 51742,
-  "2022-10-30": 51785,
-  "2022-10-31": 51810,
-  "2022-11-01": 51840,
-  "2022-11-02": 51864,
-  "2022-11-03": 51879,
-  "2022-11-04": 51915,
-  "2022-11-05": 51944,
-  "2022-11-06": 51971,
-  "2022-11-07": 52013,
-  "2022-11-08": 52031,
-  "2022-11-09": 52051,
-  "2022-11-10": 52085,
-  "2022-11-11": 52125,
-  "2022-11-12": 52159,
-  "2022-11-13": 52190,
-  "2022-11-14": 52224,
-  "2022-11-15": 52260,
-  "2022-11-16": 52280,
-  "2022-11-17": 52317,
-  "2022-11-18": 52330,
-  "2022-11-19": 52315,
-  "2022-11-20": 52351,
-  "2022-11-21": 52320,
-  "2022-11-22": 52432,
-  "2022-11-23": 52417,
-  "2022-11-24": 52527,
-  "2022-11-25": 52582,
-  "2022-11-26": 52634,
-  "2022-11-27": 52665,
-  "2022-11-28": 52698,
-  "2022-11-29": 52740,
-  "2022-11-30": 52770,
-  "2022-12-01": 52827,
-  "2022-12-02": 52851,
-  "2022-12-03": 52921,
-  "2022-12-04": 52961,
-  "2022-12-05": 53006,
-  "2022-12-06": 53045,
-  "2022-12-07": 53075,
-  "2022-12-08": 53116,
-  "2022-12-09": 53147,
-  "2022-12-10": 53175,
-  "2022-12-11": 53206,
-  "2022-12-12": 53227,
-  "2022-12-13": 53258,
-  "2022-12-14": 53283,
-  "2022-12-15": 53312,
-  "2022-12-16": 53352,
-  "2022-12-17": 53394,
-  "2022-12-18": 53434,
-  "2022-12-19": 53465,
-  "2022-12-20": 53514,
-  "2022-12-21": 53514,
-  "2022-12-22": 53535,
-  "2022-12-24": 53591,
-  "2022-12-25": 53637,
-  "2022-12-26": 53667,
-  "2022-12-27": 53712,
-  "2022-12-28": 53743,
-  "2022-12-29": 53773,
-  "2022-12-30": 53808,
-  "2022-12-31": 53837,
-  "2023-01-01": 53875,
-  "2023-01-02": 53900,
-  "2023-01-03": 53927,
-  "2023-01-04": 53946,
-  "2023-01-05": 53961,
-  "2023-01-06": 53989,
-  "2023-01-07": 54031,
-  "2023-01-08": 54040,
-  "2023-01-09": 54067,
-  "2023-01-10": 54088,
-  "2023-01-11": 54136,
-  "2023-01-12": 54168,
-  "2023-01-13": 54210,
-  "2023-01-14": 54274,
-  "2023-01-15": 54277,
-  "2023-01-16": 54308,
-  "2023-01-17": 54343,
-  "2023-01-18": 54378,
-  "2023-01-19": 54414,
-  "2023-01-20": 54446,
-  "2023-01-21": 54480,
-  "2023-01-22": 54516,
-  "2023-01-23": 54548,
-  "2023-01-24": 54564,
-  "2023-01-25": 54584,
-  "2023-01-26": 54618,
-  "2023-01-27": 54653,
-  "2023-01-28": 54685,
-  "2023-01-29": 54705,
-  "2023-01-30": 54746,
-  "2023-01-31": 54746,
-  "2023-02-01": 54796,
-  "2023-02-02": 54820,
-  "2023-02-03": 54838,
-  "2023-02-04": 54876,
-  "2023-02-05": 54916,
-  "2023-02-06": 54943,
-  "2023-02-07": 54966,
-  "2023-02-08": 55034,
-  "2023-02-09": 55034,
-  "2023-02-10": 55063,
-  "2023-02-11": 55095,
-  "2023-02-12": 55136,
-  "2023-02-13": 55159,
-  "2023-02-14": 55159,
-  "2023-02-15": 55170,
-  "2023-02-16": 55190,
-  "2023-02-17": 55208,
-  "2023-02-18": 55260,
-  "2023-02-19": 55266,
-  "2023-02-20": 55295,
-  "2023-02-21": 55323,
-  "2023-02-22": 55347,
-  "2023-02-23": 55373,
-  "2023-02-24": 55411,
-  "2023-02-25": 55464,
-  "2023-02-26": 55481,
-  "2023-02-27": 55525,
-  "2023-02-28": 55525,
-  "2023-03-01": 55550,
-  "2023-03-02": 55579,
-  "2023-03-03": 55617,
-  "2023-03-04": 55634,
-  "2023-03-05": 55678,
-  "2023-03-06": 55678,
-  "2023-03-07": 55688,
-  "2023-03-08": 55722,
-  "2023-03-09": 55747,
-  "2023-03-10": 55773,
-  "2023-03-11": 55798,
-  "2023-03-12": 55818,
-  "2023-03-13": 55837,
-  "2023-03-14": 55859,
-  "2023-03-15": 55873,
-  "2023-03-16": 55902,
-  "2023-03-17": 55902,
-  "2023-03-18": 55929,
-  "2023-03-19": 55958,
-  "2023-03-20": 55984,
-  "2023-03-21": 56002,
-  "2023-03-22": 56026,
-  "2023-03-23": 56045,
-  "2023-03-24": 56045,
-  "2023-03-25": 56082,
-  "2023-03-26": 56097,
-  "2023-03-27": 56112,
-  "2023-03-28": 56128,
-  "2023-03-29": 56149,
-  "2023-03-30": 56205,
-  "2023-03-31": 56205,
-  "2023-04-01": 56220,
-  "2023-04-02": 56248,
-  "2023-04-03": 56273,
-  "2023-04-04": 56287,
-  "2023-04-05": 56306,
-  "2023-04-06": 56333,
-  "2023-04-07": 56360,
-  "2023-04-09": 56379,
-  "2023-04-10": 56386,
-  "2023-04-11": 56437,
-  "2023-04-12": 56437,
-  "2023-04-13": 56454,
-  "2023-04-14": 56482,
-  "2023-04-15": 56505,
-  "2023-04-16": 56534,
-  "2023-04-17": 56547,
-  "2023-04-18": 56565,
-  "2023-04-19": 56597,
-  "2023-04-20": 56628,
-  "2023-04-21": 56658,
-  "2023-04-22": 56681,
-  "2023-04-23": 56701,
-  "2023-04-24": 56715,
-  "2023-04-25": 56751,
-  "2023-04-26": 56773,
-  "2023-04-27": 56794,
-  "2023-04-28": 56829,
-  "2023-04-29": 56850,
-  "2023-04-30": 56873,
-  "2023-05-01": 56892,
-  "2023-05-02": 56908,
-  "2023-05-03": 56923,
-  "2023-05-04": 56944,
-  "2023-05-05": 56973,
-  "2023-05-06": 56995,
-  "2023-05-07": 57016,
-  "2023-05-08": 57027,
-  "2023-05-09": 57053,
-  "2023-05-10": 57079,
-  "2023-05-11": 57093,
-  "2023-05-12": 57114,
-  "2023-05-13": 57133,
-  "2023-05-14": 57151,
-  "2023-05-15": 57174,
-  "2023-05-16": 57199,
-  "2023-05-17": 57226,
-  "2023-05-18": 57246,
-  "2023-05-19": 57267,
-  "2023-05-20": 57316,
-  "2023-05-21": 57316,
-  "2023-05-22": 57316,
-  "2023-05-23": 57364,
-  "2023-05-24": 57397,
-  "2023-05-25": 57401,
-  "2023-05-26": 57420,
-  "2023-05-27": 57440,
-  "2023-05-28": 57456,
-  "2023-05-29": 57456,
-  "2023-05-30": 57497,
-  "2023-05-31": 57522,
-  "2023-06-01": 57539,
-  "2023-06-02": 57566,
-  "2023-06-03": 57584,
-  "2023-06-04": 57603,
-  "2023-06-05": 57635,
-  "2023-06-06": 57643,
-  "2023-06-07": 57667,
-  "2023-06-08": 57676,
-  "2023-06-09": 57691,
-  "2023-06-10": 57703,
-  "2023-06-11": 57719,
-  "2023-06-12": 57736,
-  "2023-06-13": 57760,
-  "2023-06-14": 57778,
-  "2023-06-15": 57802,
-  "2023-06-16": 57827,
-  "2023-06-17": 57842,
-  "2023-06-18": 57867,
-  "2023-06-19": 57894,
-  "2023-06-20": 57902,
-  "2023-06-21": 57929,
-  "2023-06-22": 57946,
-  "2023-06-23": 57976,
-  "2023-06-24": 57996,
-  "2023-06-25": 58023,
-  "2023-06-26": 58040,
-  "2023-06-27": 58052,
-  "2023-06-28": 58070,
-  "2023-06-29": 58092,
-  "2023-06-30": 58121,
-  "2023-07-01": 58171,
-  "2023-07-02": 58171,
-  "2023-07-03": 58192,
-  "2023-07-04": 58212,
-  "2023-07-05": 58243,
-  "2023-07-06": 58284,
-  "2023-07-07": 58284,
-  "2023-07-08": 58295,
-  "2023-07-09": 58301,
-  "2023-07-10": 58317,
-  "2023-07-11": 58322,
-  "2023-07-12": 58336,
-  "2023-07-13": 58356,
-  "2023-07-14": 58385,
-  "2023-07-15": 58388,
-  "2023-07-16": 58408,
-  "2023-07-17": 58433,
-  "2023-07-18": 58448,
-  "2023-07-19": 58476,
-  "2023-07-20": 58506,
-  "2023-07-21": 58527,
-  "2023-07-22": 58534,
-  "2023-07-23": 58553,
-  "2023-07-24": 58570,
-  "2023-07-25": 58588,
-  "2023-07-26": 58614,
-  "2023-07-27": 58633,
-  "2023-07-28": 58650,
-  "2023-07-29": 58670,
-  "2023-07-30": 58684,
-  "2023-07-31": 58698,
-  "2023-08-01": 58719,
-  "2023-08-02": 58722,
-  "2023-08-03": 58754,
-  "2023-08-04": 58782,
-  "2023-08-05": 58798,
-  "2023-08-06": 58835,
-  "2023-08-07": 58835,
-  "2023-08-08": 58856,
-  "2023-08-09": 58878,
-  "2023-08-10": 58891,
-  "2023-08-11": 58906,
-  "2023-08-12": 58934,
-  "2023-08-13": 58949,
-  "2023-08-14": 58971,
-  "2023-08-15": 59007,
-  "2023-08-16": 59007,
-  "2023-08-17": 59024,
-  "2023-08-18": 59038,
-  "2023-08-19": 59056,
-  "2023-08-20": 59070,
-  "2023-08-21": 59084,
-  "2023-08-22": 59084,
-  "2023-08-23": 59106,
-  "2023-08-24": 59117,
-  "2023-08-25": 59122,
-  "2023-08-26": 59149,
-  "2023-08-27": 59167,
-  "2023-08-28": 59166,
-  "2023-08-29": 59176,
-  "2023-08-30": 59195,
-  "2023-08-31": 59190,
-  "2023-09-01": 59208,
-  "2023-09-02": 59208,
-  "2023-09-03": 59210,
-  "2023-09-04": 59224,
-  "2023-09-05": 59234,
-  "2023-09-06": 59246,
-  "2023-09-07": 59268,
-  "2023-09-08": 59281,
-  "2023-09-09": 59304,
-  "2023-09-10": 59321,
-  "2023-09-11": 59337,
-  "2023-09-12": 59347,
-  "2023-09-13": 59367,
-  "2023-09-14": 59386,
-  "2023-09-15": 59397,
-  "2023-09-16": 59408,
-  "2023-09-17": 59426,
-  "2023-09-18": 59431,
-  "2023-09-19": 59446,
-  "2023-09-20": 59466,
-  "2023-09-21": 59492,
-  "2023-09-22": 59508,
-  "2023-09-23": 59532,
-  "2023-09-24": 59560,
-  "2023-09-25": 59577,
-  "2023-09-26": 59592,
-  "2023-09-27": 59598,
-  "2023-09-28": 59618,
-  "2023-09-29": 59625,
-  "2023-09-30": 59642,
-  "2023-10-01": 59662,
-  "2023-10-02": 59675,
-  "2023-10-03": 59689,
-  "2023-10-04": 59705,
-  "2023-10-05": 59736,
-  "2023-10-06": 59742,
-  "2023-10-07": 59756,
-  "2023-10-08": 59776,
-  "2023-10-09": 59788,
-  "2023-10-10": 59798,
-  "2023-10-11": 59829,
-  "2023-10-12": 59829,
-  "2023-10-13": 59838,
-  "2023-10-14": 59853,
-  "2023-10-15": 59873,
-  "2023-10-16": 59886,
-  "2023-10-17": 59904,
-  "2023-10-18": 59935,
-  "2023-10-19": 59949,
-  "2023-10-20": 59975,
-  "2023-10-21": 59991,
-  "2023-10-22": 60013,
-  "2023-10-23": 60038,
-  "2023-10-24": 60065,
-  "2023-10-25": 60087,
-  "2023-10-26": 60114,
-  "2023-10-27": 60137,
-  "2023-10-28": 60149,
-  "2023-10-29": 60174,
-  "2023-10-30": 60215,
-  "2023-10-31": 60215,
-  "2023-11-01": 60226,
-  "2023-11-02": 60232,
-  "2023-11-03": 60233,
-  "2023-11-04": 60251,
-  "2023-11-05": 60267,
-  "2023-11-06": 60290,
-  "2023-11-07": 60306,
-  "2023-11-08": 60325,
-  "2023-11-09": 60320,
-  "2023-11-10": 60342,
-  "2023-11-11": 60359,
-  "2023-11-12": 60377,
-  "2023-11-13": 60388,
-  "2023-11-14": 60396,
-  "2023-11-15": 60396,
-  "2023-11-16": 60410,
-  "2023-11-17": 60433,
-  "2023-11-18": 60433,
-  "2023-11-19": 60449,
-  "2023-11-20": 60459,
-  "2023-11-21": 60471,
-  "2023-11-22": 60485,
-  "2023-11-23": 60496,
-  "2023-11-24": 60514,
-  "2023-11-25": 60523,
-  "2023-11-26": 60533,
-  "2023-11-27": 60542,
-  "2023-11-28": 60556,
-  "2023-11-29": 60605,
-  "2023-11-30": 60605,
-  "2023-12-01": 60610,
-  "2023-12-02": 60626,
-  "2023-12-03": 60644,
-  "2023-12-04": 60660,
-  "2023-12-05": 60676,
-  "2023-12-06": 60690,
-  "2023-12-07": 60700,
-  "2023-12-08": 60706,
-  "2023-12-09": 60717,
-  "2023-12-10": 60737,
-  "2023-12-11": 60749,
-  "2023-12-12": 60771,
-  "2023-12-13": 60781,
-  "2023-12-14": 60793,
-  "2023-12-15": 60801,
-  "2023-12-16": 60814,
-  "2023-12-17": 60822,
-  "2023-12-18": 60835,
-  "2023-12-19": 60832,
-  "2023-12-20": 60843,
-  "2023-12-21": 60860,
-  "2023-12-22": 60866,
-  "2023-12-23": 60868,
-  "2023-12-24": 60884,
-  "2023-12-25": 60894,
-  "2023-12-26": 60910,
-  "2023-12-27": 60924,
-  "2023-12-30": 60971,
-  "2023-12-31": 60991,
-  "2024-01-01": 60994,
-  "2024-01-02": 60989,
-  "2024-01-03": 61004
+  "2024-01-17": 61152,
+  "date_first_scraped": "2022-04-20",
+  "description": "Listen Heroine's music 24 Hours.",
+  "name": "This Is SUNMI",
+  "tracks": [
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "1/6",
+      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 201590,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/2HLohseraYUuuP9Jgz6pZ7"
+    },
+    {
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/4ag4tJmAksjMdxICMV83Aw"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201590,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/4ayWErdGIvSo4o6a3lMVLt"
+    },
+    {
+      "album": {
+        "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
+        "url": "https://open.spotify.com/album/6DlHIJKs51neBto8JtrcMC"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 201590,
+      "name": "24\uc2dc\uac04\uc774 \ubaa8\uc790\ub77c",
+      "url": "https://open.spotify.com/track/1KvMjr7Yx2WKl5WV4YCj9Y"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112361,
+      "name": "ADDICT",
+      "url": "https://open.spotify.com/track/2k75ZjRth50bLdyjFpAv7f"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112361,
+      "name": "ADDICT",
+      "url": "https://open.spotify.com/track/4SKDBovL7V7JzFz4BtAaUd"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Black Pearl",
+      "url": "https://open.spotify.com/track/5SEh5ElnuNTz6zn8Th5pP9"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199320,
+      "name": "Black Pearl",
+      "url": "https://open.spotify.com/track/6f5h8n8UR4fsz8LjCkAOFy"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/2ufe0UMTd8ay3irNf1kIsX"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 209351,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1leUuiU53gcrZsnTmwidNb"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209351,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7tDtfRpDciNstyvwKzCcyO"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/2HmA6srhyIetFJ9pb4kvdG"
+    },
+    {
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89440,
+      "name": "Calm myself",
+      "url": "https://open.spotify.com/track/0oOQEVd7D7peOKaQCQk6fp"
+    },
+    {
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217353,
+      "name": "Curve",
+      "url": "https://open.spotify.com/track/0dxN4KBx1LIneaq3Idtl3X"
+    },
+    {
+      "album": {
+        "name": "SUNMIYA CLUB",
+        "url": "https://open.spotify.com/album/5m1kGBVJBKcrlLBgy300vV"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114706,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/6PW5GLnTnF9krvqR3QcjWg"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202179,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/3klmHDE1vmBq6FYyPz0QE0"
+    },
+    {
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "album": {
+        "name": "Go or Stop?",
+        "url": "https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Go or Stop?",
+      "url": "https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt"
+    },
+    {
+      "album": {
+        "name": "XX (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4qneAGjgqL6nMSVY8J2OCD"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 179119,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6fYDnLnVFV0n3FMxgEnIcg"
+    },
+    {
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Heart Burn",
+      "url": "https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227571,
+      "name": "If That Was You",
+      "url": "https://open.spotify.com/track/2fQP5ZQmyXTcvjn8Jj6gTf"
+    },
+    {
+      "album": {
+        "name": "LALALAY",
+        "url": "https://open.spotify.com/album/7qmsar8kXnwi8k6OCTNoj5"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "LALALAY",
+      "url": "https://open.spotify.com/track/0wqdresTib8pJkrpKK1nmF"
+    },
+    {
+      "album": {
+        "name": "[BILLION MUSIC PROJECT VOL.1]",
+        "url": "https://open.spotify.com/album/5WyawwlLnlCHeLGChPaJii"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/1z7X7lFkoF2KRoDaxUfN99"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232520,
+      "name": "Narcissism",
+      "url": "https://open.spotify.com/track/4VVbHgWyMvvuvSo4h36xS9"
+    },
+    {
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/1EBhkTQyICi50mKuybqDp9"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209678,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/1KCXYoPIpvafzaAGtiRjci"
+    },
+    {
+      "album": {
+        "name": "Oh Sorry Ya",
+        "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155214,
+      "name": "Oh Sorry Ya",
+      "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
+    },
+    {
+      "album": {
+        "name": "My fuxxxxx romance 01",
+        "url": "https://open.spotify.com/album/6QEoy9NgTE3tpCoHgb4crc"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252868,
+      "name": "OH YEAH",
+      "url": "https://open.spotify.com/track/3eTv0AJWT9abddyIboLd01"
+    },
+    {
+      "album": {
+        "name": "pporappippam",
+        "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "pporappippam",
+      "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92351,
+      "name": "Secret Tape",
+      "url": "https://open.spotify.com/track/2shjrcZS945n1zu1EaeOrH"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199133,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/6ySoz8mujfiQS37xjEEZCv"
+    },
+    {
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "SUNNY",
+      "url": "https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU"
+    },
+    {
+      "album": {
+        "name": "TAIL",
+        "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "TAIL",
+      "url": "https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278859,
+      "name": "Time Is Up",
+      "url": "https://open.spotify.com/track/6ZxavH9mJlUGYOSCdSplJs"
+    },
+    {
+      "album": {
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
+      },
+      "artists": [
+        {
+          "name": "HOOK",
+          "url": "https://open.spotify.com/artist/3pS5aTs5sdGlypb1vVWhvA"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "Too young to die (Prod. FRANTS)",
+      "url": "https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2"
+    },
+    {
+      "album": {
+        "name": "TAIL",
+        "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "What The Flower",
+      "url": "https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT"
+    },
+    {
+      "album": {
+        "name": "When We Disco",
+        "url": "https://open.spotify.com/album/3cftLnzB9VeNPp5LRWqHNo"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224387,
+      "name": "When We Disco",
+      "url": "https://open.spotify.com/track/7C7BgAc0fEcNzQZqTc6eQL"
+    },
+    {
+      "album": {
+        "name": "When We Disco",
+        "url": "https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511"
+      },
+      "artists": [
+        {
+          "name": "J.Y. Park",
+          "url": "https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 224387,
+      "name": "When We Disco (Duet with SUNMI)",
+      "url": "https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1XXWe0K2CUtO7ILhkdhBqu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232524,
+      "name": "Who am I",
+      "url": "https://open.spotify.com/track/2LMo8WtAlG7BOGZt9jC1gt"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 232524,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2mCm2BC5rNsX4dCe0IedxS"
+    },
+    {
+      "album": {
+        "name": "SOLO DAY",
+        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        },
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "YOU (feat. SUNMI)",
+      "url": "https://open.spotify.com/track/1bthBgj2YMcn2w0LBQl5eI"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "You can't sit with us",
+      "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
+    },
+    {
+      "album": {
+        "name": "XX (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0ftTaGQKUoSrBKH4ZqWIxq"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179119,
+      "name": "\uac00\ub77c\uace0 (Gotta Go)",
+      "url": "https://open.spotify.com/track/7xY4ZyZ8v7Crjtu3Esmnql"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217353,
+      "name": "\uace1\uc120",
+      "url": "https://open.spotify.com/track/4F0zJatuBIKVCaezK26Uvo"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 227571,
+      "name": "\uadf8\uac8c \ub108\ub77c\uba74",
+      "url": "https://open.spotify.com/track/5ISTy9kctyjm2zNW9TeZqI"
+    },
+    {
+      "album": {
+        "name": "STRANGER",
+        "url": "https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "\ub355\uc9c8 (Call my name)",
+      "url": "https://open.spotify.com/track/3616bZAuzinwxMPqj4RmRg"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 278859,
+      "name": "\uba48\ucdb0\ubc84\ub9b0 \uc2dc\uac04",
+      "url": "https://open.spotify.com/track/4AgEO6iy3fsyLbpjAdt42g"
+    },
+    {
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6Pm5C5xZsAvhHfquG5iO9Q"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        },
+        {
+          "name": "Lena",
+          "url": "https://open.spotify.com/artist/0EmA3wlv6dnf3Pc9SINsvA"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 202179,
+      "name": "\ubcf4\ub984\ub2ec",
+      "url": "https://open.spotify.com/track/4DrMEpcUwwRyxLtRjnPvZk"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/7FapH4ThxhFnwohoMGs4dR"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 92351,
+      "name": "\ube44\ubc00\ud14c\uc774\ud504",
+      "url": "https://open.spotify.com/track/2g5Tbu6EbZz9pT3ku8JXfc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5wTRh9H8LSC"
 }

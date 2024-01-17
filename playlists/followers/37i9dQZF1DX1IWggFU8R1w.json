@@ -1,478 +1,3859 @@
 {
-  "2022-09-09": 680,
-  "2022-09-10": 698,
-  "2022-09-11": 713,
-  "2022-09-12": 724,
-  "2022-09-13": 736,
-  "2022-09-15": 770,
-  "2022-09-16": 785,
-  "2022-09-17": 802,
-  "2022-09-19": 828,
-  "2022-09-20": 839,
-  "2022-09-21": 855,
-  "2022-09-22": 865,
-  "2022-09-23": 876,
-  "2022-09-24": 895,
-  "2022-09-25": 907,
-  "2022-09-26": 924,
-  "2022-09-27": 934,
-  "2022-09-28": 952,
-  "2022-09-29": 962,
-  "2022-09-30": 968,
-  "2022-10-01": 982,
-  "2022-10-02": 995,
-  "2022-10-03": 1009,
-  "2022-10-04": 1022,
-  "2022-10-05": 1039,
-  "2022-10-06": 1052,
-  "2022-10-07": 1056,
-  "2022-10-08": 1068,
-  "2022-10-09": 1095,
-  "2022-10-10": 1096,
-  "2022-10-11": 1106,
-  "2022-10-12": 1117,
-  "2022-10-13": 1134,
-  "2022-10-14": 1149,
-  "2022-10-15": 1165,
-  "2022-10-16": 1178,
-  "2022-10-17": 1191,
-  "2022-10-18": 1196,
-  "2022-10-19": 1205,
-  "2022-10-20": 1216,
-  "2022-10-21": 1227,
-  "2022-10-22": 1238,
-  "2022-10-23": 1250,
-  "2022-10-24": 1258,
-  "2022-10-25": 1266,
-  "2022-10-26": 1279,
-  "2022-10-27": 1287,
-  "2022-10-28": 1298,
-  "2022-10-29": 1315,
-  "2022-10-30": 1343,
-  "2022-10-31": 1353,
-  "2022-11-01": 1370,
-  "2022-11-02": 1379,
-  "2022-11-03": 1391,
-  "2022-11-04": 1403,
-  "2022-11-05": 1417,
-  "2022-11-06": 1433,
-  "2022-11-07": 1446,
-  "2022-11-08": 1459,
-  "2022-11-09": 1468,
-  "2022-11-10": 1486,
-  "2022-11-11": 1513,
-  "2022-11-12": 1548,
-  "2022-11-13": 1572,
-  "2022-11-14": 1599,
-  "2022-11-15": 1624,
-  "2022-11-16": 1640,
-  "2022-11-17": 1649,
-  "2022-11-18": 1654,
-  "2022-11-19": 1648,
-  "2022-11-20": 1683,
-  "2022-11-21": 1679,
-  "2022-11-22": 1737,
-  "2022-11-23": 1735,
-  "2022-11-24": 1806,
-  "2022-11-25": 1834,
-  "2022-11-26": 1856,
-  "2022-11-27": 1873,
-  "2022-11-28": 1897,
-  "2022-11-29": 1920,
-  "2022-11-30": 1940,
-  "2022-12-01": 1968,
-  "2022-12-02": 1988,
-  "2022-12-03": 2018,
-  "2022-12-04": 2045,
-  "2022-12-05": 2069,
-  "2022-12-06": 2084,
-  "2022-12-07": 2101,
-  "2022-12-08": 2120,
-  "2022-12-09": 2138,
-  "2022-12-10": 2147,
-  "2022-12-11": 2167,
-  "2022-12-12": 2193,
-  "2022-12-13": 2212,
-  "2022-12-14": 2226,
-  "2022-12-15": 2250,
-  "2022-12-16": 2261,
-  "2022-12-17": 2280,
-  "2022-12-18": 2321,
-  "2022-12-19": 2348,
-  "2022-12-20": 2392,
-  "2022-12-21": 2392,
-  "2022-12-22": 2421,
-  "2022-12-24": 2472,
-  "2022-12-25": 2486,
-  "2022-12-26": 2519,
-  "2022-12-27": 2574,
-  "2022-12-28": 2622,
-  "2022-12-29": 2667,
-  "2022-12-30": 2704,
-  "2022-12-31": 2752,
-  "2023-01-01": 2785,
-  "2023-01-02": 2827,
-  "2023-01-03": 2867,
-  "2023-01-04": 2904,
-  "2023-01-05": 2940,
-  "2023-01-06": 2967,
-  "2023-01-07": 3039,
-  "2023-01-08": 3048,
-  "2023-01-09": 3085,
-  "2023-01-10": 3109,
-  "2023-01-11": 3137,
-  "2023-01-12": 3170,
-  "2023-01-13": 3207,
-  "2023-01-14": 3257,
-  "2023-01-15": 3269,
-  "2023-01-16": 3300,
-  "2023-01-17": 3320,
-  "2023-01-18": 3351,
-  "2023-01-19": 3380,
-  "2023-01-20": 3412,
-  "2023-01-21": 3453,
-  "2023-01-22": 3498,
-  "2023-01-23": 3529,
-  "2023-01-24": 3557,
-  "2023-01-25": 3577,
-  "2023-01-26": 3606,
-  "2023-01-27": 3643,
-  "2023-01-28": 3669,
-  "2023-01-29": 3705,
-  "2023-01-30": 3737,
-  "2023-01-31": 3737,
-  "2023-02-01": 3781,
-  "2023-02-02": 3809,
-  "2023-02-03": 3836,
-  "2023-02-04": 3857,
-  "2023-02-05": 3883,
-  "2023-02-06": 3910,
-  "2023-02-07": 3937,
-  "2023-02-08": 3974,
-  "2023-02-09": 3974,
-  "2023-02-10": 3983,
-  "2023-02-11": 4002,
-  "2023-02-12": 4123,
-  "2023-02-13": 4182,
-  "2023-02-14": 4182,
-  "2023-02-15": 4252,
-  "2023-02-16": 4310,
-  "2023-02-17": 4353,
-  "2023-02-18": 4471,
-  "2023-02-19": 4485,
-  "2023-02-20": 4542,
-  "2023-02-21": 4613,
-  "2023-02-22": 4680,
-  "2023-02-23": 4749,
-  "2023-02-24": 4795,
-  "2023-02-25": 4868,
-  "2023-02-26": 4912,
-  "2023-02-27": 5021,
-  "2023-02-28": 5021,
-  "2023-03-01": 5071,
-  "2023-03-02": 5111,
-  "2023-03-03": 5171,
-  "2023-03-04": 5230,
-  "2023-03-05": 5333,
-  "2023-03-06": 5333,
-  "2023-03-07": 5382,
-  "2023-03-08": 5441,
-  "2023-03-09": 5500,
-  "2023-03-10": 5560,
-  "2023-03-11": 5614,
-  "2023-03-12": 5666,
-  "2023-03-13": 5721,
-  "2023-03-14": 5786,
-  "2023-03-15": 5838,
-  "2023-03-16": 5893,
-  "2023-03-17": 5893,
-  "2023-03-18": 5976,
-  "2023-03-19": 6023,
-  "2023-03-20": 6072,
-  "2023-03-21": 6121,
-  "2023-03-22": 6169,
-  "2023-03-23": 6218,
-  "2023-03-24": 6218,
-  "2023-03-25": 6322,
-  "2023-03-26": 6371,
-  "2023-03-27": 6425,
-  "2023-03-28": 6465,
-  "2023-03-29": 6516,
-  "2023-03-30": 6612,
-  "2023-03-31": 6612,
-  "2023-04-01": 6655,
-  "2023-04-02": 6698,
-  "2023-04-03": 6748,
-  "2023-04-04": 6784,
-  "2023-04-05": 6843,
-  "2023-04-06": 6907,
-  "2023-04-07": 6939,
-  "2023-04-09": 7039,
-  "2023-04-10": 7087,
-  "2023-04-11": 7197,
-  "2023-04-12": 7197,
-  "2023-04-13": 7249,
-  "2023-04-14": 7298,
-  "2023-04-15": 7343,
-  "2023-04-16": 7394,
-  "2023-04-17": 7428,
-  "2023-04-18": 7488,
-  "2023-04-19": 7561,
-  "2023-04-20": 7616,
-  "2023-04-21": 7680,
-  "2023-04-22": 7742,
-  "2023-04-23": 7795,
-  "2023-04-24": 7837,
-  "2023-04-25": 7893,
-  "2023-04-26": 7962,
-  "2023-04-27": 8023,
-  "2023-04-28": 8077,
-  "2023-04-29": 8118,
-  "2023-04-30": 8161,
-  "2023-05-01": 8196,
-  "2023-05-02": 8249,
-  "2023-05-03": 8312,
-  "2023-05-04": 8379,
-  "2023-05-05": 8426,
-  "2023-05-06": 8466,
-  "2023-05-07": 8501,
-  "2023-05-08": 8555,
-  "2023-05-09": 8605,
-  "2023-05-10": 14862,
-  "2023-05-11": 14897,
-  "2023-05-12": 14897,
-  "2023-05-13": 14969,
-  "2023-05-14": 15024,
-  "2023-05-15": 15078,
-  "2023-05-16": 15130,
-  "2023-05-17": 15191,
-  "2023-05-18": 15230,
-  "2023-05-19": 15277,
-  "2023-05-20": 15364,
-  "2023-05-21": 15364,
-  "2023-05-22": 15364,
-  "2023-05-23": 15436,
-  "2023-05-24": 15491,
-  "2023-05-25": 15501,
-  "2023-05-26": 15523,
-  "2023-05-27": 15565,
-  "2023-05-28": 15604,
-  "2023-05-29": 15604,
-  "2023-05-30": 15653,
-  "2023-05-31": 15691,
-  "2023-06-01": 15724,
-  "2023-06-02": 15767,
-  "2023-06-03": 15795,
-  "2023-06-04": 15843,
-  "2023-06-05": 15890,
-  "2023-06-06": 15944,
-  "2023-06-07": 15966,
-  "2023-06-08": 16013,
-  "2023-06-09": 16063,
-  "2023-06-10": 16105,
-  "2023-06-11": 16164,
-  "2023-06-12": 16204,
-  "2023-06-13": 16233,
-  "2023-06-14": 16278,
-  "2023-06-15": 16325,
-  "2023-06-16": 16356,
-  "2023-06-17": 16401,
-  "2023-06-18": 16448,
-  "2023-06-19": 16498,
-  "2023-06-20": 16533,
-  "2023-06-21": 16584,
-  "2023-06-22": 16616,
-  "2023-06-23": 16662,
-  "2023-06-24": 16707,
-  "2023-06-25": 16758,
-  "2023-06-26": 16797,
-  "2023-06-27": 16842,
-  "2023-06-28": 16875,
-  "2023-06-29": 16914,
-  "2023-06-30": 16983,
-  "2023-07-01": 17134,
-  "2023-07-02": 17134,
-  "2023-07-03": 17231,
-  "2023-07-04": 17337,
-  "2023-07-05": 17425,
-  "2023-07-06": 17580,
-  "2023-07-07": 17580,
-  "2023-07-08": 17651,
-  "2023-07-09": 17718,
-  "2023-07-10": 17803,
-  "2023-07-11": 17881,
-  "2023-07-12": 17963,
-  "2023-07-13": 18028,
-  "2023-07-14": 18087,
-  "2023-07-15": 18205,
-  "2023-07-16": 18369,
-  "2023-07-17": 18553,
-  "2023-07-18": 18712,
-  "2023-07-19": 18883,
-  "2023-07-20": 19010,
-  "2023-07-21": 19140,
-  "2023-07-22": 19245,
-  "2023-07-23": 19359,
-  "2023-07-24": 19477,
-  "2023-07-25": 19584,
-  "2023-07-26": 19693,
-  "2023-07-27": 19804,
-  "2023-07-28": 20005,
-  "2023-07-29": 20226,
-  "2023-07-30": 20416,
-  "2023-07-31": 20623,
-  "2023-08-01": 20807,
-  "2023-08-02": 20961,
-  "2023-08-03": 21105,
-  "2023-08-04": 21259,
-  "2023-08-05": 21380,
-  "2023-08-06": 21659,
-  "2023-08-07": 21659,
-  "2023-08-08": 21782,
-  "2023-08-09": 21909,
-  "2023-08-10": 22026,
-  "2023-08-11": 22118,
-  "2023-08-12": 22230,
-  "2023-08-13": 22366,
-  "2023-08-14": 22496,
-  "2023-08-15": 22675,
-  "2023-08-16": 22675,
-  "2023-08-17": 22771,
-  "2023-08-18": 22897,
-  "2023-08-19": 23021,
-  "2023-08-20": 23141,
-  "2023-08-21": 23234,
-  "2023-08-22": 23300,
-  "2023-08-23": 23383,
-  "2023-08-24": 23474,
-  "2023-08-25": 23561,
-  "2023-08-26": 23626,
-  "2023-08-27": 23705,
-  "2023-08-28": 23790,
-  "2023-08-29": 23852,
-  "2023-08-30": 23931,
-  "2023-08-31": 24024,
-  "2023-09-01": 24173,
-  "2023-09-02": 24173,
-  "2023-09-03": 24223,
-  "2023-09-04": 24328,
-  "2023-09-05": 24404,
-  "2023-09-06": 24497,
-  "2023-09-07": 24584,
-  "2023-09-08": 24680,
-  "2023-09-09": 24781,
-  "2023-09-10": 24863,
-  "2023-09-11": 24945,
-  "2023-09-12": 25027,
-  "2023-09-13": 25130,
-  "2023-09-14": 25231,
-  "2023-09-15": 27124,
-  "2023-09-16": 27171,
-  "2023-09-17": 27262,
-  "2023-09-18": 27359,
-  "2023-09-19": 27443,
-  "2023-09-20": 27526,
-  "2023-09-21": 27618,
-  "2023-09-22": 27694,
-  "2023-09-23": 27792,
-  "2023-09-24": 27877,
-  "2023-09-25": 27967,
-  "2023-09-26": 28085,
-  "2023-09-27": 28158,
-  "2023-09-28": 28244,
-  "2023-09-29": 28323,
-  "2023-09-30": 28390,
-  "2023-10-01": 28455,
-  "2023-10-02": 28528,
-  "2023-10-03": 28615,
-  "2023-10-04": 28694,
-  "2023-10-05": 28768,
-  "2023-10-06": 28848,
-  "2023-10-07": 28910,
-  "2023-10-08": 28997,
-  "2023-10-09": 29097,
-  "2023-10-10": 29175,
-  "2023-10-11": 29326,
-  "2023-10-12": 29326,
-  "2023-10-13": 29402,
-  "2023-10-14": 29495,
-  "2023-10-15": 29570,
-  "2023-10-16": 29660,
-  "2023-10-17": 29747,
-  "2023-10-18": 29821,
-  "2023-10-19": 29898,
-  "2023-10-20": 29971,
-  "2023-10-21": 30027,
-  "2023-10-22": 30088,
-  "2023-10-23": 30171,
-  "2023-10-24": 30235,
-  "2023-10-25": 30282,
-  "2023-10-26": 30362,
-  "2023-10-27": 30437,
-  "2023-10-28": 30513,
-  "2023-10-29": 30571,
-  "2023-10-30": 30705,
-  "2023-10-31": 30705,
-  "2023-11-01": 30767,
-  "2023-11-02": 30827,
-  "2023-11-03": 30909,
-  "2023-11-04": 30976,
-  "2023-11-05": 31037,
-  "2023-11-06": 31089,
-  "2023-11-07": 31162,
-  "2023-11-08": 31223,
-  "2023-11-09": 31289,
-  "2023-11-10": 31355,
-  "2023-11-11": 31435,
-  "2023-11-12": 31497,
-  "2023-11-13": 31573,
-  "2023-11-14": 31630,
-  "2023-11-15": 31630,
-  "2023-11-16": 31780,
-  "2023-11-17": 31910,
-  "2023-11-18": 31910,
-  "2023-11-19": 31985,
-  "2023-11-20": 32064,
-  "2023-11-21": 32125,
-  "2023-11-22": 32186,
-  "2023-11-23": 32245,
-  "2023-11-24": 32308,
-  "2023-11-25": 32362,
-  "2023-11-26": 32424,
-  "2023-11-27": 32493,
-  "2023-11-28": 32566,
-  "2023-11-29": 32689,
-  "2023-11-30": 32689,
-  "2023-12-01": 32752,
-  "2023-12-02": 32828,
-  "2023-12-03": 32896,
-  "2023-12-04": 32949,
-  "2023-12-05": 33011,
-  "2023-12-06": 33087,
-  "2023-12-07": 33150,
-  "2023-12-08": 33216,
-  "2023-12-09": 33286,
-  "2023-12-10": 33381,
-  "2023-12-11": 33460,
-  "2023-12-12": 33548,
-  "2023-12-13": 33629,
-  "2023-12-14": 33725,
-  "2023-12-15": 33771,
-  "2023-12-16": 33842,
-  "2023-12-17": 33913,
-  "2023-12-18": 33985,
-  "2023-12-19": 34037,
-  "2023-12-20": 34121,
-  "2023-12-21": 34186,
-  "2023-12-22": 34265,
-  "2023-12-23": 34338,
-  "2023-12-24": 34425,
-  "2023-12-25": 34495,
-  "2023-12-26": 34566,
-  "2023-12-27": 34617,
-  "2023-12-30": 34868,
-  "2023-12-31": 34945,
-  "2024-01-01": 35031,
-  "2024-01-02": 35115,
-  "2024-01-03": 35195
+  "2024-01-17": 36302,
+  "date_first_scraped": "2022-09-09",
+  "description": "The worst monsters are the ones we create. Listen to the music from The Witcher, now streaming on Netflix.",
+  "name": "The Witcher Official Playlist ",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120789,
+      "name": "A Fate's Hesitation",
+      "url": "https://open.spotify.com/track/3VMKk1EYMToQyjyX2ivnAQ"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168202,
+      "name": "A Gift for the Princess",
+      "url": "https://open.spotify.com/track/41yC7uY7DcptdwNx1afHtv"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "A Life of Coin",
+      "url": "https://open.spotify.com/track/6yVghatEAbDBWnmF6ytJ15"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100864,
+      "name": "A Lucrative Business",
+      "url": "https://open.spotify.com/track/6NWCPmcOGeaQgIimAfgjmI"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127965,
+      "name": "A Mission For You",
+      "url": "https://open.spotify.com/track/1utdSwzbY0ldV0J755ih9y"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 127965,
+      "name": "A Mission For You",
+      "url": "https://open.spotify.com/track/6X1W7c82bgsLD9GvOkbiH1"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85130,
+      "name": "A Stranger",
+      "url": "https://open.spotify.com/track/5ljbzK2xjOoOeiGWKbDJCJ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 359412,
+      "name": "A Time of Contempt (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2KnBVrFN7RXO3DL7QRB7Uj"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359412,
+      "name": "A Time of Contempt (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2SxDYlO4SiN6uikJDElx92"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236693,
+      "name": "A Witcher",
+      "url": "https://open.spotify.com/track/2QXD3ES6qRPYtkDTYoqzWn"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118235,
+      "name": "Aeschna",
+      "url": "https://open.spotify.com/track/1AHnmbGoIGdlyxDmbXz5zl"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 118235,
+      "name": "Aeschna",
+      "url": "https://open.spotify.com/track/1RiuHNmkXfGOj8cp1nSEyv"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Armarkwei Laryea",
+          "url": "https://open.spotify.com/artist/5akwaSLOWoZ8oPw5bq3H3E"
+        },
+        {
+          "name": "GLOR1A",
+          "url": "https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK"
+        },
+        {
+          "name": "Josh Weller",
+          "url": "https://open.spotify.com/artist/57El0Va2PEm0Su4wJ5rBwR"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220298,
+      "name": "All Is Not As It Seems (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/10wW9n7RiX925GdWKC7qkh"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Nathan Armarkwei Laryea",
+          "url": "https://open.spotify.com/artist/5akwaSLOWoZ8oPw5bq3H3E"
+        },
+        {
+          "name": "GLOR1A",
+          "url": "https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK"
+        },
+        {
+          "name": "Josh Weller",
+          "url": "https://open.spotify.com/artist/57El0Va2PEm0Su4wJ5rBwR"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 220298,
+      "name": "All Is Not As It Seems (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1uX0j8dNEIkQflva2FtTij"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95984,
+      "name": "Alone at Last",
+      "url": "https://open.spotify.com/track/0y6fQYoqYF7kMlxLRvwZYm"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 95984,
+      "name": "Alone at Last",
+      "url": "https://open.spotify.com/track/7KqYZ2dE95c9wiqh0SSItp"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62474,
+      "name": "An Unraveling Lie",
+      "url": "https://open.spotify.com/track/5vhtluOs7TUxmgaw9PpiVS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95829,
+      "name": "Aretuza Loses Another",
+      "url": "https://open.spotify.com/track/6sBieS2Go7uKoVW095ePs4"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249693,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0USbo0aX8XOERkcM3NXyuI"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Minee Mais",
+          "url": "https://open.spotify.com/artist/2JSNsbvJyV5DEmDNto0Jyo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94346,
+      "name": "Away You Hunters",
+      "url": "https://open.spotify.com/track/7L7rvdECkfKdGbonVM413x"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Balor",
+      "url": "https://open.spotify.com/track/3Peup5jnbgm7GfezqhM160"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419455,
+      "name": "Basilisks",
+      "url": "https://open.spotify.com/track/6MoajpBjCJrSlvWeDR2qAP"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161109,
+      "name": "Battle for the Bridge",
+      "url": "https://open.spotify.com/track/7mHOugOINhYlDTtSbW64Lm"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257680,
+      "name": "Battle of Marnadal",
+      "url": "https://open.spotify.com/track/4hD8Y7hZh8btoxflDyLugZ"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241498,
+      "name": "Battle of Sodden",
+      "url": "https://open.spotify.com/track/27Yd1QeognuRmSQaKr5zRW"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284677,
+      "name": "Blame Destiny",
+      "url": "https://open.spotify.com/track/5AbLAP2HPoEsK99RXsNL1a"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94320,
+      "name": "Blaviken Inn",
+      "url": "https://open.spotify.com/track/1iRG2KAY5bVz7HncTQF14h"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134706,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/47cmrLpx1evFKWVsgdLqnX"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110040,
+      "name": "Bread, Breasts and Beer",
+      "url": "https://open.spotify.com/track/3Lp49Ke7d6pjz7XTVMXwzV"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159430,
+      "name": "Burn Butcher Burn",
+      "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77909,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/5XTP8ZsvB2hpuMWmnbQ6WE"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187049,
+      "name": "Changing Destiny is a Weighty Business (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3QV1xuqhSiszJLROPLUQVY"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 187049,
+      "name": "Changing Destiny is a Weighty Business (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3W71Ur3hK0Nrkhr0Mbe8Wl"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269141,
+      "name": "Chaos Is All Around Us",
+      "url": "https://open.spotify.com/track/052VQK13vE2FIuEuINOk74"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134843,
+      "name": "Chernobog",
+      "url": "https://open.spotify.com/track/5vIRylmVUI2TLBl4Z0vg15"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196714,
+      "name": "Children Are Our Favorite",
+      "url": "https://open.spotify.com/track/1tJDnftYNFy9KgDfW0V3Pl"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75966,
+      "name": "Death Itself",
+      "url": "https://open.spotify.com/track/4NGrpe55iYckV54Wed0oWE"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 75966,
+      "name": "Death Itself",
+      "url": "https://open.spotify.com/track/4R9YjmogyxHwBqI0OCCAji"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137050,
+      "name": "Deglan's Deception",
+      "url": "https://open.spotify.com/track/33i9eCdDNsrU34CtbGhspC"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129258,
+      "name": "Djinni Djinn Djinn",
+      "url": "https://open.spotify.com/track/4qqw1sObbcCIbkg00armxj"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292928,
+      "name": "Do You Actually Have What It Takes",
+      "url": "https://open.spotify.com/track/1xYKGXZF1R1AmIO9sayi1b"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290152,
+      "name": "Done Dealing in Debts",
+      "url": "https://open.spotify.com/track/25f36zPqo9qO0F4VfWIOS4"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293506,
+      "name": "Eile & Fjall",
+      "url": "https://open.spotify.com/track/68V4LJ9rL8DwaWN0ajJMKt"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163944,
+      "name": "Elder Blood",
+      "url": "https://open.spotify.com/track/429wuVMhHX2fPtYPc9Shf4"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94411,
+      "name": "Elves' Allegiance",
+      "url": "https://open.spotify.com/track/3c3a0jVcm1QQV6NFHcE345"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 151221,
+      "name": "Emhyr var Emreis",
+      "url": "https://open.spotify.com/track/1Ii144IgHqZFiBCFD4jCHk"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151221,
+      "name": "Emhyr var Emreis",
+      "url": "https://open.spotify.com/track/78uLdo62WVire7JRLXCCiz"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        },
+        {
+          "name": "BL\u00c1NID",
+          "url": "https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231509,
+      "name": "End of an Age",
+      "url": "https://open.spotify.com/track/21kzD1vtXg46q1jsucd2nl"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169034,
+      "name": "Enter the Bestiary",
+      "url": "https://open.spotify.com/track/08jZwRS8oClmStiJVO06Xq"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127514,
+      "name": "Everytime You Leave",
+      "url": "https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98741,
+      "name": "Exorcism",
+      "url": "https://open.spotify.com/track/2AyN93eT2V2XmAePNiOpsb"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199569,
+      "name": "Extraordinary Things",
+      "url": "https://open.spotify.com/track/0rzL1SeARBlazMD3laG6WM"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 199569,
+      "name": "Extraordinary Things",
+      "url": "https://open.spotify.com/track/4Kce6WvWvXvyQQE8FW6WeT"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293450,
+      "name": "Fire Fucker",
+      "url": "https://open.spotify.com/track/7wHWiSQ6dOkgGQ0rdqEZqX"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82568,
+      "name": "Foul Sorcery",
+      "url": "https://open.spotify.com/track/1g2OuQptjpDb76W45mGkWD"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257216,
+      "name": "Four Marks",
+      "url": "https://open.spotify.com/track/7CbQNZFLfSk4g0IcjhZRXi"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112186,
+      "name": "Geralt of Rivia",
+      "url": "https://open.spotify.com/track/1hDwBeBz3G5xVYftAjK2BQ"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102085,
+      "name": "Giltine the Artist",
+      "url": "https://open.spotify.com/track/7LjkYjpf2uURgrZoCi5KOj"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229488,
+      "name": "Girl from Cintra (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/4HOrv9UN3gWLs7q5333zuE"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 229488,
+      "name": "Girl from Cintra (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/5lCDFxSa86U9quQFuerVUj"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349189,
+      "name": "Gold Dragons Are the Rarest",
+      "url": "https://open.spotify.com/track/7JY0CTHiOogxhmJBrTBcp0"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "Goodbye Illyana",
+      "url": "https://open.spotify.com/track/0cEsgNhPiorB6u1lx7wii6"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Happy Childhoods Make For Dull Company",
+      "url": "https://open.spotify.com/track/1Ny6vWtIlFvPMFLZzUjrlB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 98381,
+      "name": "He's a Spoon",
+      "url": "https://open.spotify.com/track/0E3MbsJbnZ8aCwu9WfBKdz"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98381,
+      "name": "He's a Spoon",
+      "url": "https://open.spotify.com/track/282K3puivKm7134DOR9cTo"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "He's One of the Clean Ones",
+      "url": "https://open.spotify.com/track/43fnC9EwpHeyHNPXXAxq71"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120213,
+      "name": "Her Sweet Kiss",
+      "url": "https://open.spotify.com/track/5ifi01PWSK7Nx1FbIZ0jT8"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Here's Your Destiny",
+      "url": "https://open.spotify.com/track/1lE1kfzgoTKpWYYADYrwIe"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153007,
+      "name": "I Believe in You",
+      "url": "https://open.spotify.com/track/2WCYIyGsVIfXQ2rH6kN8IE"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109237,
+      "name": "I Choose My Own Fate",
+      "url": "https://open.spotify.com/track/1SlhQZ8kE7BdFDJo01noQB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 72658,
+      "name": "I Importune You (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72658,
+      "name": "I Importune You (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Arngeir Hauksson",
+          "url": "https://open.spotify.com/artist/0klVJbwD3aqGsq6Tux99IB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164853,
+      "name": "I'm Helping the Idiot",
+      "url": "https://open.spotify.com/track/52ifLFAEeFXYfQWMHe0X7y"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453231,
+      "name": "I'm the One with the Wishes",
+      "url": "https://open.spotify.com/track/4ukcO4njNNClwMnOP4BLQS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194469,
+      "name": "Illyana's Theme",
+      "url": "https://open.spotify.com/track/08maeoY4mGYb6PMYeMyo7d"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Into the Misty Marsh",
+      "url": "https://open.spotify.com/track/75OtG83NvLHRE6LYMy9Hyx"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234963,
+      "name": "It's an Ultimatum",
+      "url": "https://open.spotify.com/track/0um7RSSiq1YiFkkYheLVuS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207232,
+      "name": "It's Just an Illusion",
+      "url": "https://open.spotify.com/track/4EMtaGZqDBj2VmLvBcHyRq"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106112,
+      "name": "Jesting Around",
+      "url": "https://open.spotify.com/track/3JTmsWMP4aXOqwnZ19FicG"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103703,
+      "name": "Kaer Morhen",
+      "url": "https://open.spotify.com/track/4KVoIrXeO4SVe4Cthl36LZ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224768,
+      "name": "Kitsu's Illusion",
+      "url": "https://open.spotify.com/track/2qG8ZsJKANZlF7xAQtf8lc"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134869,
+      "name": "Last Stand",
+      "url": "https://open.spotify.com/track/5xTlXm9MgKYNZ324Vg3keT"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159441,
+      "name": "Late Wee Pups Don't Get to Bark",
+      "url": "https://open.spotify.com/track/2PPh5d93KFv70OUaUcqDtb"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370700,
+      "name": "Leshen",
+      "url": "https://open.spotify.com/track/0JAclXDSMIi9NC9HtTpqx5"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 67948,
+      "name": "Lessons in Smiling",
+      "url": "https://open.spotify.com/track/3iXQ7SAmNfjYrDspTMmm8z"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67948,
+      "name": "Lessons in Smiling",
+      "url": "https://open.spotify.com/track/5vKCFkDvULSeD5vF6RFpvw"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31216,
+      "name": "Let Me Guess, You Have A Plan? (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2VpkBtBBCbd0RVjvcEyDX9"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 31216,
+      "name": "Let Me Guess, You Have A Plan? (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/46TZetqTOR4F1nfa2gf9Np"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159701,
+      "name": "Lovely Rendez-vous \u00e0 la Montagne",
+      "url": "https://open.spotify.com/track/6kDxBKwbpmfzxbF9j9kFSk"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244128,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/3HHc8Vff5i1ogMlXHEoogb"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93208,
+      "name": "March of the Monsters",
+      "url": "https://open.spotify.com/track/3Uu5NZaZWSdiPTwELoR2HK"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167877,
+      "name": "Marilka That's My Name",
+      "url": "https://open.spotify.com/track/4U6gIusvEnrkrSqJDQxCKA"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Meldof and Gwen",
+      "url": "https://open.spotify.com/track/0zdtVmjnTk39XQNPuXP65x"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "Melitele",
+      "url": "https://open.spotify.com/track/2DZRB61rdfkU1FfiP84X6Z"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Merwyn of Xintrea",
+      "url": "https://open.spotify.com/track/5seMmBWzwLEkcxKbezXan8"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Misleading the Enemy",
+      "url": "https://open.spotify.com/track/1wTjuEUY5Tsrg9lJjiu3jh"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        },
+        {
+          "name": "Luke Youngblood",
+          "url": "https://open.spotify.com/artist/3IxhzTi1bCPuow5TD6sBub"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102677,
+      "name": "Monstrum's Lullaby",
+      "url": "https://open.spotify.com/track/6QKpSl993xEJ8na3qTtepP"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192634,
+      "name": "Myrapod Chase",
+      "url": "https://open.spotify.com/track/2oSOPt3f284PQNB6JrPX06"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158713,
+      "name": "Nilfgaard Attacks",
+      "url": "https://open.spotify.com/track/0bngtPi5C56c6IGB4h9XVS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208732,
+      "name": "Nivellen",
+      "url": "https://open.spotify.com/track/4unPYsOj9hWzLG9b39rnLn"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320528,
+      "name": "Pain and Desperation",
+      "url": "https://open.spotify.com/track/7K0WFtGwGgqqJ1NFFQxFRp"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56309,
+      "name": "Point Me to Temeria",
+      "url": "https://open.spotify.com/track/6BF1zkgQllvTwu5LSl27MU"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282537,
+      "name": "Power and Purpose",
+      "url": "https://open.spotify.com/track/2nP8z6THTm4DVaFDPD9IUK"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139840,
+      "name": "Pretty Ballads Hide Bastard Truths",
+      "url": "https://open.spotify.com/track/3fcGcamR01XVSsV44qbNke"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268341,
+      "name": "Ragamuffin",
+      "url": "https://open.spotify.com/track/4Q4OPuuuCJ4KHQ5EJvGLIz"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279368,
+      "name": "Remembering Cintra",
+      "url": "https://open.spotify.com/track/6Rn95CtlE5cpNfDmjc5HqE"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234943,
+      "name": "Rewriting History",
+      "url": "https://open.spotify.com/track/6pktnzWEkli12iDo6Y1jTz"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69680,
+      "name": "Round of Applause",
+      "url": "https://open.spotify.com/track/7gu99i0zbE2SIKzXkKW8ZA"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227008,
+      "name": "Ruins of a Past Age",
+      "url": "https://open.spotify.com/track/5dkHwDjtTfzkgdetpS0cj8"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "Scian's Camp",
+      "url": "https://open.spotify.com/track/3h9TScshQ3TMl6nLGvVUet"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241843,
+      "name": "Serious Accusations",
+      "url": "https://open.spotify.com/track/0x67NPdVkyMQiqM9EPgbWN"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 241843,
+      "name": "Serious Accusations",
+      "url": "https://open.spotify.com/track/1AImnrQhtdvzdWpkiQIVmM"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 190084,
+      "name": "Shaerrawedd (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/0YMeq87I90jjT8MBifCVhS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190084,
+      "name": "Shaerrawedd (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3WM1kfj4HIAtcSNUIvSmsl"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 128181,
+      "name": "Shaerrawedd Brawl (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/25ndjc8CmvWX6GmbutFAwt"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128181,
+      "name": "Shaerrawedd Brawl (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/6MYrtBNgKhqBneT7g04pNh"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181073,
+      "name": "She Was Gone (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1HRr0b2R2RBFbCzKI2rkXB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 181073,
+      "name": "She Was Gone (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1s2wZbNb98hlUEiwp9SXXC"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98476,
+      "name": "Should Have Chosen a Side",
+      "url": "https://open.spotify.com/track/1ZSEgPsbblf5oLuuDAhXYQ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 98476,
+      "name": "Should Have Chosen a Side",
+      "url": "https://open.spotify.com/track/3MUu7qjenSII7fOu1xE7Fn"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141320,
+      "name": "Shouldn't You Know When Someone Is Pretending",
+      "url": "https://open.spotify.com/track/4ppMrMWZB3RPJwaFp2DNm3"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91996,
+      "name": "Some Wounds Can't Be Healed",
+      "url": "https://open.spotify.com/track/1QZZBOAzcMYVpKbG6WJx6b"
+    },
+    {
+      "album": {
+        "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+        "url": "https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227162,
+      "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+      "url": "https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262557,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/1qsAi8mYYVGztCRqaYQcDh"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 262557,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/2hZESGcoZAmrGyjrl8FzyT"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191041,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/488afZ4YrlW3fh00NhLSWc"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "Strength in Unity",
+      "url": "https://open.spotify.com/track/13iDbXwqZieTXEL4TTcxPY"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60304,
+      "name": "Sugo's Lamentation",
+      "url": "https://open.spotify.com/track/6WSsD7mCahx2WAT3U4K5pC"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276563,
+      "name": "Sworn to Protect",
+      "url": "https://open.spotify.com/track/0hMSKKA3zdckgDUjMk0pCw"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199391,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/5On8t2uMbQ9mLVkrSPYnTB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        },
+        {
+          "name": "BL\u00c1NID",
+          "url": "https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU"
+        },
+        {
+          "name": "Regina Reichherzer",
+          "url": "https://open.spotify.com/artist/0TSa8w4aynSLhLhWPiGjH8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "Tetra's Wrath",
+      "url": "https://open.spotify.com/track/2ZMnyGeKp9oGNepVIh6wdx"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "The Black Rose",
+      "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410954,
+      "name": "The Curse of the Black Sun",
+      "url": "https://open.spotify.com/track/5rlZ3f5UuXmLc3WgLi4FoB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Declan de Barra",
+          "url": "https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138816,
+      "name": "The End's Beginning",
+      "url": "https://open.spotify.com/track/3hyZYDPhYpZx3IfrrlCEiV"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76146,
+      "name": "The Fishmonger's Daughter",
+      "url": "https://open.spotify.com/track/4n3axXPWHMpFBMGZ4GMhgM"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "The Golden One",
+      "url": "https://open.spotify.com/track/5XY0TCgfr2MqwfByeZCoVs"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244223,
+      "name": "The Great Cleansing",
+      "url": "https://open.spotify.com/track/2lL0L2vPfIZ9xdxpEJiQ3S"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "The Hydra",
+      "url": "https://open.spotify.com/track/46WHvyPyirym87KKN6jGAe"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104573,
+      "name": "The Key to the Future",
+      "url": "https://open.spotify.com/track/7FUPXwT2dcCxuSbA0rAhpU"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Rodion Belousov",
+          "url": "https://open.spotify.com/artist/1KW8WK6utvO6uYlK9vj7Da"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305510,
+      "name": "The Knight Who Was Taught to Save Dragons",
+      "url": "https://open.spotify.com/track/6KZWM62G22AAOATjRKkHs9"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Declan de Barra",
+          "url": "https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "The Last Rose of Cintra",
+      "url": "https://open.spotify.com/track/0AYPWlZmdBqukG0OOp2Ine"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270368,
+      "name": "The Law of Surprise",
+      "url": "https://open.spotify.com/track/6Sorz09TdlUnyo2Ja4uNzb"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130565,
+      "name": "The Long Road Ahead",
+      "url": "https://open.spotify.com/track/1z4w2h22Lx9vxUy1Em1SN5"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 271915,
+      "name": "The Melange (A Witcher Tango) (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/5Ie0NEMltz0TqYuNSY6cP3"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271915,
+      "name": "The Melange (A Witcher Tango) (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/6iLsA8ijoNNNOMSRmXv8Mc"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136994,
+      "name": "The Pendulum",
+      "url": "https://open.spotify.com/track/6kSva3rEUBLkVKPoi7ND4I"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88666,
+      "name": "The Pensive Dragon Inn",
+      "url": "https://open.spotify.com/track/0UHN6K1BofQn0yciyilJGT"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189952,
+      "name": "The Red Swamp",
+      "url": "https://open.spotify.com/track/437Xa31yqmoawBJ6aidR4O"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Declan de Barra",
+          "url": "https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "The Song of the White Wolf",
+      "url": "https://open.spotify.com/track/3oEFh0g2JrawRNdlQm7NdZ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "The Story of the First Witcher",
+      "url": "https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Declan de Barra",
+          "url": "https://open.spotify.com/artist/6W2QYampFdGnd0hTPbujX8"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296602,
+      "name": "The Time of Axe and Sword Is Now",
+      "url": "https://open.spotify.com/track/6BTTmqavOi1KKpMBMRiYZ8"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168655,
+      "name": "The White Flame",
+      "url": "https://open.spotify.com/track/0qFcpGirlxoukfOyNA9meC"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215658,
+      "name": "The White Flame Has Brought Us Together",
+      "url": "https://open.spotify.com/track/6t7PLCmMFrAXkf1UCwpQz7"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145151,
+      "name": "The Wild Hunt",
+      "url": "https://open.spotify.com/track/16Tuzk2qtm5Qch0mq65w0l"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        },
+        {
+          "name": "BL\u00c1NID",
+          "url": "https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164906,
+      "name": "There'll Always Be Another Monster",
+      "url": "https://open.spotify.com/track/277m7fiKpjfeMgGLDzlqEO"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Lindsay Deutsch",
+          "url": "https://open.spotify.com/artist/2WXkYbNLvrHPGcUM1kMBTx"
+        },
+        {
+          "name": "Burak Besir",
+          "url": "https://open.spotify.com/artist/6pcigdkzdMo7QzAokCHXgY"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101906,
+      "name": "They're Alive",
+      "url": "https://open.spotify.com/track/7euHyiqapZIQ08A4lerMOK"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258519,
+      "name": "To a New Beginning",
+      "url": "https://open.spotify.com/track/6c01DgxazfTvZJzJCsA5UG"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98573,
+      "name": "Today Isn't Your Day Is It",
+      "url": "https://open.spotify.com/track/63oM1GngVrACWQdFdaWeSE"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93920,
+      "name": "Tomorrow I'll Leave Blaviken For Good",
+      "url": "https://open.spotify.com/track/6eoXV1fjEBB9ussPSftEwA"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Tormented Lovers",
+      "url": "https://open.spotify.com/track/4iTQ4eY8gKg7heomMnxAdj"
+    },
+    {
+      "album": {
+        "name": "Toss A Coin To Your Witcher",
+        "url": "https://open.spotify.com/album/2zC7zR2MR9AvpM1hQCzGNG"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Toss A Coin To Your Witcher",
+      "url": "https://open.spotify.com/track/7iQM9DQUFKUSNjVt8GQZV2"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170289,
+      "name": "Two Standing Stones",
+      "url": "https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "Two Vows Here Tonight",
+      "url": "https://open.spotify.com/track/6sdaGuPCEW4kOtOelRxZjX"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
+        "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146858,
+      "name": "Vesemir's Trial",
+      "url": "https://open.spotify.com/track/0CI6x7s55Kvxaozhg5d5tw"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 199289,
+      "name": "Vuilpanne (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/06ZKV4Vhv9k2Sh5XkiAmHw"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199289,
+      "name": "Vuilpanne (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3l5kLdrx8wj9OX4yT4FtjW"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215362,
+      "name": "War is Brewing",
+      "url": "https://open.spotify.com/track/19wxq2CDZXvEmHDUAvL5iu"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 215362,
+      "name": "War is Brewing",
+      "url": "https://open.spotify.com/track/4BHu4h8Vu0tpH6YtwDWMKM"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181157,
+      "name": "We're Your Family",
+      "url": "https://open.spotify.com/track/4I4p1MpjsFyn8N11xRv40V"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 269419,
+      "name": "Whispers of a Dozen Bounties",
+      "url": "https://open.spotify.com/track/4wpjYOY2ch1YNI05Fd2LSx"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269419,
+      "name": "Whispers of a Dozen Bounties",
+      "url": "https://open.spotify.com/track/7HtTYmzwlDe0ymYAdQ5KdQ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106242,
+      "name": "Who Did This to You?",
+      "url": "https://open.spotify.com/track/3Urwzd1CPW3n9W1X7o5akj"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127108,
+      "name": "Whoreson Prison Blues",
+      "url": "https://open.spotify.com/track/1B2156X1TLuhzMcpaDt8f5"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131133,
+      "name": "Witcher Training",
+      "url": "https://open.spotify.com/track/6zwhlb96RIzTUd5HIAlx1H"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123040,
+      "name": "Would You Honor Me With a Dance",
+      "url": "https://open.spotify.com/track/6qqsCLb53W6dzqijbzAUrn"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Yennefer of Vengerberg",
+      "url": "https://open.spotify.com/track/77HfdYVU9F9RiRJSeKPKPJ"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96626,
+      "name": "You Belong With Us",
+      "url": "https://open.spotify.com/track/1MkLCKtcVLcc1mkAl08qHl"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313514,
+      "name": "You Lost Your Chance to Be Beautiful",
+      "url": "https://open.spotify.com/track/5pDx2xXt8Bxu1KawK5X2IH"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 233159,
+      "name": "You Sure About This?",
+      "url": "https://open.spotify.com/track/2Kah8449beqRapO3lU7fs2"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233159,
+      "name": "You Sure About This?",
+      "url": "https://open.spotify.com/track/7xzL9HS6gFNAuZ7PeWMmJY"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271354,
+      "name": "You Will Rule This Land Someday",
+      "url": "https://open.spotify.com/track/28eSkxyYbmE89HIeZTMnsC"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544456,
+      "name": "You'll Have to Fight It Until Dawn",
+      "url": "https://open.spotify.com/track/6yznYy0ivwdpMVXQ9vbN0d"
+    },
+    {
+      "album": {
+        "name": "The Witcher (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "You're in Brokilon Forest",
+      "url": "https://open.spotify.com/track/6XdxafgMPNj7sPtDQPijPo"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210973,
+      "name": "Zacare the Healer",
+      "url": "https://open.spotify.com/track/1HSOCjveEHM9s20S1mAYcC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1IWggFU8R1w"
 }

@@ -1,125 +1,477 @@
 {
-  "2023-09-01": 325,
-  "2023-09-02": 325,
-  "2023-09-03": 331,
-  "2023-09-04": 348,
-  "2023-09-05": 362,
-  "2023-09-06": 382,
-  "2023-09-07": 401,
-  "2023-09-08": 420,
-  "2023-09-09": 428,
-  "2023-09-10": 444,
-  "2023-09-11": 458,
-  "2023-09-12": 477,
-  "2023-09-13": 492,
-  "2023-09-14": 510,
-  "2023-09-15": 519,
-  "2023-09-16": 535,
-  "2023-09-17": 548,
-  "2023-09-18": 564,
-  "2023-09-19": 580,
-  "2023-09-20": 590,
-  "2023-09-21": 613,
-  "2023-09-22": 631,
-  "2023-09-23": 640,
-  "2023-09-24": 650,
-  "2023-09-25": 657,
-  "2023-09-26": 674,
-  "2023-09-27": 680,
-  "2023-09-28": 690,
-  "2023-09-29": 703,
-  "2023-09-30": 714,
-  "2023-10-01": 725,
-  "2023-10-02": 741,
-  "2023-10-03": 749,
-  "2023-10-04": 758,
-  "2023-10-05": 768,
-  "2023-10-06": 774,
-  "2023-10-07": 785,
-  "2023-10-08": 795,
-  "2023-10-09": 805,
-  "2023-10-10": 818,
-  "2023-10-11": 831,
-  "2023-10-12": 831,
-  "2023-10-13": 842,
-  "2023-10-14": 847,
-  "2023-10-15": 857,
-  "2023-10-16": 863,
-  "2023-10-17": 864,
-  "2023-10-18": 882,
-  "2023-10-19": 898,
-  "2023-10-20": 910,
-  "2023-10-21": 918,
-  "2023-10-22": 927,
-  "2023-10-23": 934,
-  "2023-10-24": 947,
-  "2023-10-25": 961,
-  "2023-10-26": 973,
-  "2023-10-27": 982,
-  "2023-10-28": 992,
-  "2023-10-29": 1002,
-  "2023-10-30": 1032,
-  "2023-10-31": 1032,
-  "2023-11-01": 1039,
-  "2023-11-02": 1045,
-  "2023-11-03": 1057,
-  "2023-11-04": 1067,
-  "2023-11-05": 1073,
-  "2023-11-06": 1081,
-  "2023-11-07": 1081,
-  "2023-11-08": 1081,
-  "2023-11-09": 1081,
-  "2023-11-10": 1081,
-  "2023-11-11": 1081,
-  "2023-11-12": 1081,
-  "2023-11-13": 1081,
-  "2023-11-14": 1081,
-  "2023-11-15": 1081,
-  "2023-11-16": 1081,
-  "2023-11-17": 1081,
-  "2023-11-18": 1081,
-  "2023-11-19": 1081,
-  "2023-11-20": 1081,
-  "2023-11-21": 1081,
-  "2023-11-22": 1081,
-  "2023-11-23": 1081,
-  "2023-11-24": 1081,
-  "2023-11-25": 1081,
-  "2023-11-26": 1081,
-  "2023-11-27": 1081,
-  "2023-11-28": 1081,
-  "2023-11-29": 1081,
-  "2023-11-30": 1081,
-  "2023-12-01": 1081,
-  "2023-12-02": 1081,
-  "2023-12-03": 1081,
-  "2023-12-04": 1081,
-  "2023-12-05": 1081,
-  "2023-12-06": 1081,
-  "2023-12-07": 1081,
-  "2023-12-08": 1081,
-  "2023-12-09": 1081,
-  "2023-12-10": 1081,
-  "2023-12-11": 1081,
-  "2023-12-12": 1081,
-  "2023-12-13": 1081,
-  "2023-12-14": 1081,
-  "2023-12-15": 1081,
-  "2023-12-16": 1081,
-  "2023-12-17": 1081,
-  "2023-12-18": 1081,
-  "2023-12-19": 1081,
-  "2023-12-20": 1081,
-  "2023-12-21": 1081,
-  "2023-12-22": 1081,
-  "2023-12-23": 1081,
-  "2023-12-24": 1081,
-  "2023-12-25": 1081,
-  "2023-12-26": 1081,
-  "2023-12-27": 1081,
-  "2023-12-30": 1081,
-  "2023-12-31": 1081,
-  "2024-01-01": 1081,
-  "2024-01-02": 1081,
-  "2024-01-03": 1081
+  "2024-01-17": 1081,
+  "date_first_scraped": "2023-09-02",
+  "description": "Singer, music producer and DJ, <a href=\"spotify:artist:66VgJGpaRMwrNaS2MPqIDf\">Pauline Herr</a> gives us a sample of her ethereal world in her latest mix for Spotify.",
+  "name": "bitbird: Pauline Herr's DJ Mix ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Addicted (Mixed)",
+        "url": "https://open.spotify.com/album/2Ac5kCACijpRvkkU5Yc9z2"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Addicted - Mixed",
+      "url": "https://open.spotify.com/track/1Y0cQcsy9a81oiaSzzhkYO"
+    },
+    {
+      "album": {
+        "name": "Alaris (Mixed)",
+        "url": "https://open.spotify.com/album/5SANLozfnpv1G9kUHOPHHh"
+      },
+      "artists": [
+        {
+          "name": "Heimanu",
+          "url": "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Alaris - Mixed",
+      "url": "https://open.spotify.com/track/3oRHhnon9rRPjIllv8332o"
+    },
+    {
+      "album": {
+        "name": "ASTER (Mixed)",
+        "url": "https://open.spotify.com/album/38VXPZziooLQzKh7k3aCeI"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "ASTER - Mixed",
+      "url": "https://open.spotify.com/track/6OkDQMYe1h7i88SVxFDIXH"
+    },
+    {
+      "album": {
+        "name": "Break My Mind (Mixed)",
+        "url": "https://open.spotify.com/album/7iOttzF4XQbN7JhNgcv5Ve"
+      },
+      "artists": [
+        {
+          "name": "Team EZY",
+          "url": "https://open.spotify.com/artist/11hcFxBAtGtAFcXFrKjHG8"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Break My Mind - Mixed",
+      "url": "https://open.spotify.com/track/1n6vZSZJMkdwXUvCdTpfDR"
+    },
+    {
+      "album": {
+        "name": "Bring Me Back (Mixed)",
+        "url": "https://open.spotify.com/album/31DoKII7kXdyTpGtpEXNn7"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Bring Me Back - Mixed",
+      "url": "https://open.spotify.com/track/1w3qn36RLGgUyvie9mqPnN"
+    },
+    {
+      "album": {
+        "name": "call me up (Mixed)",
+        "url": "https://open.spotify.com/album/4WLNNrDCL2leJjaoGFILFJ"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        },
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "call me up - Mixed",
+      "url": "https://open.spotify.com/track/4eI7mSzDfIjItGJLP0Ve1T"
+    },
+    {
+      "album": {
+        "name": "CANT TAKE BACK (Mixed)",
+        "url": "https://open.spotify.com/album/4hDfRNpCLhCWJkfXa5pSyU"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "CANT TAKE BACK - Mixed",
+      "url": "https://open.spotify.com/track/3JfvsSPSWMQ3f7fJX3jbhk"
+    },
+    {
+      "album": {
+        "name": "Colours (Mixed)",
+        "url": "https://open.spotify.com/album/7FKdKW1PkaHroK5djCNhon"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Colours - Mixed",
+      "url": "https://open.spotify.com/track/4z8UNmAdwN793v9KPDn6ML"
+    },
+    {
+      "album": {
+        "name": "Crossed Our Hearts (Mixed)",
+        "url": "https://open.spotify.com/album/6eqxb2qpVUzCIltA3yaLUn"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Crossed Our Hearts - Mixed",
+      "url": "https://open.spotify.com/track/1hGg0hTW7Ge4BQxRVjF5ZM"
+    },
+    {
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Mixed]",
+        "url": "https://open.spotify.com/album/2UjZQ7JWbmGrHowdz9AHF6"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204675,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Mixed",
+      "url": "https://open.spotify.com/track/1AYNYYJ0kXrUrdRLQrLHZ5"
+    },
+    {
+      "album": {
+        "name": "DON'T SAY (Mixed)",
+        "url": "https://open.spotify.com/album/2Rsfb8Y0KwHXFvjCelsdY0"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "DON'T SAY - Mixed",
+      "url": "https://open.spotify.com/track/2fZBILRxIpYB4dIaDVbkm1"
+    },
+    {
+      "album": {
+        "name": "East Bridge (Mixed)",
+        "url": "https://open.spotify.com/album/30bA2BoD0HxZJRHz67zmia"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "Sejo",
+          "url": "https://open.spotify.com/artist/0KPmCqiU6iscwxQo62WBXN"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "East Bridge - Mixed",
+      "url": "https://open.spotify.com/track/7srYdNd15ICntAeiJFjJLf"
+    },
+    {
+      "album": {
+        "name": "END-LE77 (Mixed)",
+        "url": "https://open.spotify.com/album/4A9pIzLyUfplj7qacEjmq2"
+      },
+      "artists": [
+        {
+          "name": "Eastghost",
+          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "END-LE77 - Mixed",
+      "url": "https://open.spotify.com/track/4MpezmuUXSkpHguagnhS1M"
+    },
+    {
+      "album": {
+        "name": "Inconvenient (Mixed)",
+        "url": "https://open.spotify.com/album/2M78Xwixj2Ydmi8UliuV1g"
+      },
+      "artists": [
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        },
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Inconvenient - Mixed",
+      "url": "https://open.spotify.com/track/6uj2cQfFx9HbOnlUu4r7Ax"
+    },
+    {
+      "album": {
+        "name": "Inferno (Mixed)",
+        "url": "https://open.spotify.com/album/5DfRx0FPLGS9ksoWyEX3p4"
+      },
+      "artists": [
+        {
+          "name": "Loston",
+          "url": "https://open.spotify.com/artist/5CQRDXvlbQzuHbUyzwPyLo"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        },
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "HWLS",
+          "url": "https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64000,
+      "name": "Inferno - Mixed",
+      "url": "https://open.spotify.com/track/1lcsQKKuLeps11mteahfcV"
+    },
+    {
+      "album": {
+        "name": "Interference Pattern (Mixed)",
+        "url": "https://open.spotify.com/album/6RKYO8i8yjTndo0zFqHUGz"
+      },
+      "artists": [
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Interference Pattern - Mixed",
+      "url": "https://open.spotify.com/track/1sKUKdFM6aKhB9P4YDrtIl"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope (Me&U) [Mixed]",
+        "url": "https://open.spotify.com/album/2NMCSNtFrYq4IoOl05jAuP"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Alexander Lewis",
+          "url": "https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Kaleidoscope (Me&U) - Mixed",
+      "url": "https://open.spotify.com/track/3iXNGflau0tI0CcMeHuPje"
+    },
+    {
+      "album": {
+        "name": "Let You Go (Mixed)",
+        "url": "https://open.spotify.com/album/5UeLtRR89UDnqwOpZrOORG"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Let You Go - Mixed",
+      "url": "https://open.spotify.com/track/2vBG8pdlHUK6bu9BuV8x5L"
+    },
+    {
+      "album": {
+        "name": "MINDDD (Mixed)",
+        "url": "https://open.spotify.com/album/0L2zQ0XTSW59y0LZhlsfZV"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "MINDDD - Mixed",
+      "url": "https://open.spotify.com/track/5coljI62IIjegT85T3bOSW"
+    },
+    {
+      "album": {
+        "name": "Watch Me Go (Mixed)",
+        "url": "https://open.spotify.com/album/0sT1FMqxywZwBieeosxU9l"
+      },
+      "artists": [
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Watch Me Go - Mixed",
+      "url": "https://open.spotify.com/track/0Hwtp6cmQgcI6uiKiHzBK3"
+    },
+    {
+      "album": {
+        "name": "When I Fall (Mixed)",
+        "url": "https://open.spotify.com/album/1oooPcdeg2oZr9VH7YR1a2"
+      },
+      "artists": [
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "When I Fall - Mixed",
+      "url": "https://open.spotify.com/track/7wQ2iTRLnCqKsuPcYu82bR"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (Mixed)",
+        "url": "https://open.spotify.com/album/6oukFQ3gXzm27nW5jX9sMb"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "Wherever You Go - Mixed",
+      "url": "https://open.spotify.com/track/4k87ekDsfV002BaEkiL2Sn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSxDKMDClcje"
 }

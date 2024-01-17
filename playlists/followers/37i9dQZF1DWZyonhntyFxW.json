@@ -1,597 +1,5365 @@
 {
-  "2022-05-13": 78761,
-  "2022-05-14": 78897,
-  "2022-05-15": 79003,
-  "2022-05-16": 79130,
-  "2022-05-17": 79290,
-  "2022-05-18": 79447,
-  "2022-05-19": 79632,
-  "2022-05-20": 79827,
-  "2022-05-21": 80122,
-  "2022-05-22": 80122,
-  "2022-05-23": 80311,
-  "2022-05-24": 80488,
-  "2022-05-25": 80665,
-  "2022-05-26": 80851,
-  "2022-05-27": 81073,
-  "2022-05-28": 81277,
-  "2022-05-29": 81477,
-  "2022-05-30": 81675,
-  "2022-05-31": 81870,
-  "2022-06-01": 82228,
-  "2022-06-02": 82254,
-  "2022-06-03": 82469,
-  "2022-06-04": 82650,
-  "2022-06-05": 82885,
-  "2022-06-06": 83095,
-  "2022-06-07": 83315,
-  "2022-06-08": 83527,
-  "2022-06-09": 83709,
-  "2022-06-10": 83903,
-  "2022-06-11": 84097,
-  "2022-06-12": 84283,
-  "2022-06-13": 84502,
-  "2022-06-14": 84696,
-  "2022-06-15": 84982,
-  "2022-06-16": 87701,
-  "2022-06-17": 89482,
-  "2022-06-18": 90875,
-  "2022-06-19": 92597,
-  "2022-06-20": 92597,
-  "2022-06-21": 93228,
-  "2022-06-22": 94450,
-  "2022-06-23": 94450,
-  "2022-06-24": 95018,
-  "2022-06-25": 95695,
-  "2022-06-26": 96401,
-  "2022-06-27": 97216,
-  "2022-06-28": 97993,
-  "2022-06-29": 98701,
-  "2022-06-30": 99345,
-  "2022-07-01": 99885,
-  "2022-07-02": 100428,
-  "2022-07-03": 101021,
-  "2022-07-04": 101651,
-  "2022-07-05": 102229,
-  "2022-07-06": 102782,
-  "2022-07-07": 103351,
-  "2022-07-08": 103941,
-  "2022-07-09": 104452,
-  "2022-07-10": 104947,
-  "2022-07-11": 105487,
-  "2022-07-12": 106096,
-  "2022-07-13": 106715,
-  "2022-07-14": 107295,
-  "2022-07-15": 107903,
-  "2022-07-16": 108344,
-  "2022-07-17": 108677,
-  "2022-07-18": 109014,
-  "2022-07-19": 109338,
-  "2022-07-20": 109657,
-  "2022-07-21": 109929,
-  "2022-07-22": 110225,
-  "2022-07-23": 110468,
-  "2022-07-24": 110726,
-  "2022-07-25": 110976,
-  "2022-07-26": 111242,
-  "2022-07-27": 111576,
-  "2022-07-28": 111814,
-  "2022-07-29": 112078,
-  "2022-07-30": 112535,
-  "2022-07-31": 112535,
-  "2022-08-01": 112762,
-  "2022-08-02": 113266,
-  "2022-08-03": 113266,
-  "2022-08-04": 113533,
-  "2022-08-05": 113833,
-  "2022-08-06": 114046,
-  "2022-08-07": 114277,
-  "2022-08-08": 114502,
-  "2022-08-09": 114763,
-  "2022-08-10": 114994,
-  "2022-08-11": 115222,
-  "2022-08-12": 115496,
-  "2022-08-13": 115744,
-  "2022-08-14": 115998,
-  "2022-08-15": 116253,
-  "2022-08-16": 116508,
-  "2022-08-17": 116745,
-  "2022-08-18": 116990,
-  "2022-08-19": 117240,
-  "2022-08-20": 117437,
-  "2022-08-21": 117662,
-  "2022-08-22": 117861,
-  "2022-08-23": 118076,
-  "2022-08-24": 118293,
-  "2022-08-25": 118538,
-  "2022-08-26": 118799,
-  "2022-08-27": 119022,
-  "2022-08-28": 119238,
-  "2022-08-29": 119473,
-  "2022-08-30": 119712,
-  "2022-08-31": 119926,
-  "2022-09-01": 120119,
-  "2022-09-02": 120358,
-  "2022-09-03": 120545,
-  "2022-09-04": 120739,
-  "2022-09-05": 120975,
-  "2022-09-06": 121202,
-  "2022-09-07": 121407,
-  "2022-09-09": 121805,
-  "2022-09-10": 122027,
-  "2022-09-11": 122210,
-  "2022-09-12": 122398,
-  "2022-09-13": 122581,
-  "2022-09-15": 122969,
-  "2022-09-16": 123159,
-  "2022-09-17": 123320,
-  "2022-09-18": 123522,
-  "2022-09-19": 123684,
-  "2022-09-20": 123858,
-  "2022-09-21": 124046,
-  "2022-09-22": 124242,
-  "2022-09-23": 124462,
-  "2022-09-24": 124636,
-  "2022-09-25": 124810,
-  "2022-09-26": 124985,
-  "2022-09-27": 125168,
-  "2022-09-28": 125324,
-  "2022-09-29": 125502,
-  "2022-09-30": 125693,
-  "2022-10-01": 125819,
-  "2022-10-02": 125972,
-  "2022-10-03": 126125,
-  "2022-10-04": 126266,
-  "2022-10-05": 126444,
-  "2022-10-06": 126621,
-  "2022-10-07": 126831,
-  "2022-10-08": 127023,
-  "2022-10-09": 127272,
-  "2022-10-10": 127308,
-  "2022-10-11": 127478,
-  "2022-10-12": 127656,
-  "2022-10-13": 127830,
-  "2022-10-14": 128007,
-  "2022-10-15": 128216,
-  "2022-10-16": 128448,
-  "2022-10-17": 128628,
-  "2022-10-18": 128840,
-  "2022-10-19": 129086,
-  "2022-10-20": 129354,
-  "2022-10-21": 129634,
-  "2022-10-22": 130018,
-  "2022-10-23": 130364,
-  "2022-10-24": 130662,
-  "2022-10-25": 130977,
-  "2022-10-26": 131260,
-  "2022-10-27": 131605,
-  "2022-10-28": 131986,
-  "2022-10-29": 132403,
-  "2022-10-30": 132789,
-  "2022-10-31": 133122,
-  "2022-11-01": 133604,
-  "2022-11-02": 134115,
-  "2022-11-03": 134634,
-  "2022-11-04": 135173,
-  "2022-11-05": 135709,
-  "2022-11-06": 136251,
-  "2022-11-07": 136700,
-  "2022-11-08": 137115,
-  "2022-11-09": 137501,
-  "2022-11-10": 137866,
-  "2022-11-11": 138302,
-  "2022-11-12": 138785,
-  "2022-11-13": 139179,
-  "2022-11-14": 139549,
-  "2022-11-15": 139931,
-  "2022-11-16": 140280,
-  "2022-11-17": 140627,
-  "2022-11-18": 140733,
-  "2022-11-19": 140562,
-  "2022-11-20": 140704,
-  "2022-11-21": 141036,
-  "2022-11-22": 141897,
-  "2022-11-23": 141779,
-  "2022-11-24": 142455,
-  "2022-11-25": 143319,
-  "2022-11-26": 143705,
-  "2022-11-27": 144046,
-  "2022-11-28": 144347,
-  "2022-11-29": 144646,
-  "2022-11-30": 144944,
-  "2022-12-01": 145224,
-  "2022-12-02": 145411,
-  "2022-12-03": 145831,
-  "2022-12-04": 146129,
-  "2022-12-05": 146406,
-  "2022-12-06": 146678,
-  "2022-12-07": 146913,
-  "2022-12-08": 147169,
-  "2022-12-09": 147458,
-  "2022-12-10": 147745,
-  "2022-12-11": 148027,
-  "2022-12-12": 148286,
-  "2022-12-13": 148550,
-  "2022-12-14": 148810,
-  "2022-12-15": 149076,
-  "2022-12-16": 149377,
-  "2022-12-17": 149824,
-  "2022-12-18": 150165,
-  "2022-12-19": 150420,
-  "2022-12-20": 151032,
-  "2022-12-21": 151032,
-  "2022-12-22": 151347,
-  "2022-12-24": 151973,
-  "2022-12-25": 152268,
-  "2022-12-26": 152559,
-  "2022-12-27": 152853,
-  "2022-12-28": 153127,
-  "2022-12-29": 153411,
-  "2022-12-30": 153681,
-  "2022-12-31": 153980,
-  "2023-01-01": 154240,
-  "2023-01-02": 154486,
-  "2023-01-03": 154758,
-  "2023-01-04": 154992,
-  "2023-01-05": 155245,
-  "2023-01-06": 155483,
-  "2023-01-07": 155843,
-  "2023-01-08": 155909,
-  "2023-01-09": 156114,
-  "2023-01-10": 156327,
-  "2023-01-11": 156583,
-  "2023-01-12": 156784,
-  "2023-01-13": 157027,
-  "2023-01-14": 157365,
-  "2023-01-15": 157431,
-  "2023-01-16": 157608,
-  "2023-01-17": 157852,
-  "2023-01-18": 158056,
-  "2023-01-19": 158293,
-  "2023-01-20": 158492,
-  "2023-01-21": 158648,
-  "2023-01-22": 158817,
-  "2023-01-23": 158974,
-  "2023-01-24": 159139,
-  "2023-01-25": 159319,
-  "2023-01-26": 159531,
-  "2023-01-27": 159743,
-  "2023-01-28": 159942,
-  "2023-01-29": 160135,
-  "2023-01-30": 160295,
-  "2023-01-31": 160295,
-  "2023-02-01": 160673,
-  "2023-02-02": 160852,
-  "2023-02-03": 161027,
-  "2023-02-04": 161177,
-  "2023-02-05": 161314,
-  "2023-02-06": 161512,
-  "2023-02-07": 161646,
-  "2023-02-08": 161960,
-  "2023-02-09": 161960,
-  "2023-02-10": 162144,
-  "2023-02-11": 162293,
-  "2023-02-12": 162539,
-  "2023-02-13": 162648,
-  "2023-02-14": 162648,
-  "2023-02-15": 162754,
-  "2023-02-16": 162903,
-  "2023-02-17": 163032,
-  "2023-02-18": 163303,
-  "2023-02-19": 163313,
-  "2023-02-20": 163437,
-  "2023-02-21": 163564,
-  "2023-02-22": 163665,
-  "2023-02-23": 163789,
-  "2023-02-24": 163938,
-  "2023-02-25": 164095,
-  "2023-02-26": 164198,
-  "2023-02-27": 164466,
-  "2023-02-28": 164466,
-  "2023-03-01": 164592,
-  "2023-03-02": 164719,
-  "2023-03-03": 164859,
-  "2023-03-04": 165005,
-  "2023-03-05": 165321,
-  "2023-03-06": 165321,
-  "2023-03-07": 165467,
-  "2023-03-08": 165618,
-  "2023-03-09": 165792,
-  "2023-03-10": 165971,
-  "2023-03-11": 166167,
-  "2023-03-12": 166341,
-  "2023-03-13": 166531,
-  "2023-03-14": 166701,
-  "2023-03-15": 166878,
-  "2023-03-16": 167063,
-  "2023-03-17": 167063,
-  "2023-03-18": 167440,
-  "2023-03-19": 167613,
-  "2023-03-20": 167762,
-  "2023-03-21": 167935,
-  "2023-03-22": 168118,
-  "2023-03-23": 168247,
-  "2023-03-24": 168247,
-  "2023-03-25": 168436,
-  "2023-03-26": 168535,
-  "2023-03-27": 168639,
-  "2023-03-28": 168728,
-  "2023-03-29": 168804,
-  "2023-03-30": 168974,
-  "2023-03-31": 168974,
-  "2023-04-01": 169065,
-  "2023-04-02": 169159,
-  "2023-04-03": 169263,
-  "2023-04-04": 169381,
-  "2023-04-05": 169504,
-  "2023-04-06": 169634,
-  "2023-04-07": 169757,
-  "2023-04-09": 169998,
-  "2023-04-10": 170098,
-  "2023-04-11": 170267,
-  "2023-04-12": 170267,
-  "2023-04-13": 170371,
-  "2023-04-14": 170484,
-  "2023-04-15": 170603,
-  "2023-04-16": 170715,
-  "2023-04-17": 170812,
-  "2023-04-18": 170928,
-  "2023-04-19": 171022,
-  "2023-04-20": 171142,
-  "2023-04-21": 171238,
-  "2023-04-22": 171377,
-  "2023-04-23": 171546,
-  "2023-04-24": 171722,
-  "2023-04-25": 171907,
-  "2023-04-26": 172059,
-  "2023-04-27": 172240,
-  "2023-04-28": 172426,
-  "2023-04-29": 172645,
-  "2023-04-30": 172821,
-  "2023-05-01": 173000,
-  "2023-05-02": 173187,
-  "2023-05-03": 173393,
-  "2023-05-04": 173625,
-  "2023-05-05": 173868,
-  "2023-05-06": 174060,
-  "2023-05-07": 174269,
-  "2023-05-08": 174465,
-  "2023-05-09": 174654,
-  "2023-05-10": 174882,
-  "2023-05-11": 175117,
-  "2023-05-12": 175381,
-  "2023-05-13": 175655,
-  "2023-05-14": 175946,
-  "2023-05-15": 176251,
-  "2023-05-16": 176632,
-  "2023-05-17": 177053,
-  "2023-05-18": 177455,
-  "2023-05-19": 177993,
-  "2023-05-20": 178810,
-  "2023-05-21": 178810,
-  "2023-05-22": 178810,
-  "2023-05-23": 179549,
-  "2023-05-24": 180166,
-  "2023-05-25": 180255,
-  "2023-05-26": 180606,
-  "2023-05-27": 180902,
-  "2023-05-28": 181213,
-  "2023-05-29": 181213,
-  "2023-05-30": 181877,
-  "2023-05-31": 182198,
-  "2023-06-01": 182531,
-  "2023-06-02": 182823,
-  "2023-06-03": 183121,
-  "2023-06-04": 183444,
-  "2023-06-05": 183717,
-  "2023-06-06": 184059,
-  "2023-06-07": 184395,
-  "2023-06-08": 184680,
-  "2023-06-09": 185029,
-  "2023-06-10": 185308,
-  "2023-06-11": 185588,
-  "2023-06-12": 185848,
-  "2023-06-13": 186120,
-  "2023-06-14": 186400,
-  "2023-06-15": 186680,
-  "2023-06-16": 187013,
-  "2023-06-17": 187330,
-  "2023-06-18": 187617,
-  "2023-06-19": 187911,
-  "2023-06-20": 188207,
-  "2023-06-21": 188452,
-  "2023-06-22": 188725,
-  "2023-06-23": 188984,
-  "2023-06-24": 189244,
-  "2023-06-25": 189523,
-  "2023-06-26": 189801,
-  "2023-06-27": 190046,
-  "2023-06-28": 190223,
-  "2023-06-29": 190470,
-  "2023-06-30": 190739,
-  "2023-07-01": 191252,
-  "2023-07-02": 191252,
-  "2023-07-03": 191453,
-  "2023-07-04": 191699,
-  "2023-07-05": 191915,
-  "2023-07-06": 192350,
-  "2023-07-07": 192350,
-  "2023-07-08": 192560,
-  "2023-07-09": 192779,
-  "2023-07-10": 192985,
-  "2023-07-11": 193190,
-  "2023-07-12": 193341,
-  "2023-07-13": 193502,
-  "2023-07-14": 193668,
-  "2023-07-15": 193804,
-  "2023-07-16": 193968,
-  "2023-07-17": 194130,
-  "2023-07-18": 194300,
-  "2023-07-19": 194435,
-  "2023-07-20": 194535,
-  "2023-07-21": 194655,
-  "2023-07-22": 194763,
-  "2023-07-23": 194901,
-  "2023-07-24": 195015,
-  "2023-07-25": 195173,
-  "2023-07-26": 195311,
-  "2023-07-27": 195437,
-  "2023-07-28": 195597,
-  "2023-07-29": 195741,
-  "2023-07-30": 196219,
-  "2023-07-31": 196480,
-  "2023-08-01": 196671,
-  "2023-08-02": 196827,
-  "2023-08-03": 196965,
-  "2023-08-04": 197075,
-  "2023-08-05": 197210,
-  "2023-08-06": 197440,
-  "2023-08-07": 197440,
-  "2023-08-08": 197570,
-  "2023-08-09": 197693,
-  "2023-08-10": 197834,
-  "2023-08-11": 197956,
-  "2023-08-12": 198131,
-  "2023-08-13": 198247,
-  "2023-08-14": 198355,
-  "2023-08-15": 198590,
-  "2023-08-16": 198590,
-  "2023-08-17": 198710,
-  "2023-08-18": 198889,
-  "2023-08-19": 199022,
-  "2023-08-20": 199154,
-  "2023-08-21": 199259,
-  "2023-08-22": 199372,
-  "2023-08-23": 199487,
-  "2023-08-24": 199590,
-  "2023-08-25": 199711,
-  "2023-08-26": 199826,
-  "2023-08-27": 199934,
-  "2023-08-28": 200066,
-  "2023-08-29": 200205,
-  "2023-08-30": 200375,
-  "2023-08-31": 200550,
-  "2023-09-01": 200814,
-  "2023-09-02": 200814,
-  "2023-09-03": 200930,
-  "2023-09-04": 201067,
-  "2023-09-05": 201193,
-  "2023-09-06": 201307,
-  "2023-09-07": 201418,
-  "2023-09-08": 201532,
-  "2023-09-09": 201842,
-  "2023-09-10": 202117,
-  "2023-09-11": 202436,
-  "2023-09-12": 202726,
-  "2023-09-13": 203053,
-  "2023-09-14": 203308,
-  "2023-09-15": 203600,
-  "2023-09-16": 203829,
-  "2023-09-17": 204084,
-  "2023-09-18": 204324,
-  "2023-09-19": 204576,
-  "2023-09-20": 204801,
-  "2023-09-21": 205055,
-  "2023-09-22": 205358,
-  "2023-09-23": 205848,
-  "2023-09-24": 206261,
-  "2023-09-25": 206643,
-  "2023-09-26": 207157,
-  "2023-09-27": 207491,
-  "2023-09-28": 207902,
-  "2023-09-29": 208351,
-  "2023-09-30": 208694,
-  "2023-10-01": 208987,
-  "2023-10-02": 209266,
-  "2023-10-03": 209487,
-  "2023-10-04": 209779,
-  "2023-10-05": 210111,
-  "2023-10-06": 210454,
-  "2023-10-07": 210860,
-  "2023-10-08": 211119,
-  "2023-10-09": 211331,
-  "2023-10-10": 211518,
-  "2023-10-11": 211957,
-  "2023-10-12": 211957,
-  "2023-10-13": 212186,
-  "2023-10-14": 212477,
-  "2023-10-15": 212797,
-  "2023-10-16": 213108,
-  "2023-10-17": 213398,
-  "2023-10-18": 213652,
-  "2023-10-19": 213905,
-  "2023-10-20": 214138,
-  "2023-10-21": 214369,
-  "2023-10-22": 214613,
-  "2023-10-23": 214840,
-  "2023-10-24": 215051,
-  "2023-10-25": 215242,
-  "2023-10-26": 215422,
-  "2023-10-27": 215626,
-  "2023-10-28": 215831,
-  "2023-10-29": 215998,
-  "2023-10-30": 216315,
-  "2023-10-31": 216315,
-  "2023-11-01": 216481,
-  "2023-11-02": 216656,
-  "2023-11-03": 216838,
-  "2023-11-04": 217071,
-  "2023-11-05": 217245,
-  "2023-11-06": 217422,
-  "2023-11-07": 217566,
-  "2023-11-08": 217746,
-  "2023-11-09": 217920,
-  "2023-11-10": 218132,
-  "2023-11-11": 218328,
-  "2023-11-12": 218526,
-  "2023-11-13": 218711,
-  "2023-11-14": 218914,
-  "2023-11-15": 218914,
-  "2023-11-16": 219236,
-  "2023-11-17": 219615,
-  "2023-11-18": 219615,
-  "2023-11-19": 219823,
-  "2023-11-20": 220010,
-  "2023-11-21": 220195,
-  "2023-11-22": 220365,
-  "2023-11-23": 220548,
-  "2023-11-24": 220744,
-  "2023-11-25": 220915,
-  "2023-11-26": 221092,
-  "2023-11-27": 221269,
-  "2023-11-28": 221646,
-  "2023-11-29": 222164,
-  "2023-11-30": 222164,
-  "2023-12-01": 222360,
-  "2023-12-02": 222603,
-  "2023-12-03": 222835,
-  "2023-12-04": 223054,
-  "2023-12-05": 223298,
-  "2023-12-06": 223646,
-  "2023-12-07": 224011,
-  "2023-12-08": 224290,
-  "2023-12-09": 224506,
-  "2023-12-10": 224767,
-  "2023-12-11": 224987,
-  "2023-12-12": 225209,
-  "2023-12-13": 225413,
-  "2023-12-14": 225665,
-  "2023-12-15": 225850,
-  "2023-12-16": 226078,
-  "2023-12-17": 226274,
-  "2023-12-18": 226503,
-  "2023-12-19": 226690,
-  "2023-12-20": 226844,
-  "2023-12-21": 227067,
-  "2023-12-22": 227237,
-  "2023-12-23": 227423,
-  "2023-12-24": 227596,
-  "2023-12-25": 227802,
-  "2023-12-26": 227954,
-  "2023-12-27": 228121,
-  "2023-12-30": 228630,
-  "2023-12-31": 228825,
-  "2024-01-01": 228977,
-  "2024-01-02": 229140,
-  "2024-01-03": 229325
+  "2024-01-17": 231620,
+  "date_first_scraped": "2022-05-13",
+  "description": "<a href=\"https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9?si=Pb48qvpcQXyihE4cOGp6Xg\"> Lege-Cy </a> : \u0627\u062c\u0645\u062f \u0627\u0644\u062a\u0631\u0627\u0643\u0627\u062a \u0643\u0644\u0647\u0627 \u0639\u0644\u0649 \u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646 \u063a\u0644\u0627\u0641 \n\n\n",
+  "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
+  "tracks": [
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133901,
+      "name": "1",
+      "url": "https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF"
+    },
+    {
+      "album": {
+        "name": "2000 W KAM",
+        "url": "https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL"
+      },
+      "artists": [
+        {
+          "name": "Yonyo",
+          "url": "https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "100 WAHDA",
+      "url": "https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy"
+    },
+    {
+      "album": {
+        "name": "Wa7ed Wa7ed",
+        "url": "https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 164757,
+      "name": "3azraeel",
+      "url": "https://open.spotify.com/track/3j5XyebVOoFAG7i2b5rAub"
+    },
+    {
+      "album": {
+        "name": "3latol",
+        "url": "https://open.spotify.com/album/4dMol51wkB8izKa8Z9AlOx"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 188846,
+      "name": "3latol",
+      "url": "https://open.spotify.com/track/3BW4QtHR5ExFrgD1YzcvCx"
+    },
+    {
+      "album": {
+        "name": "7ABAYBY",
+        "url": "https://open.spotify.com/album/3azkh7kw6gTSaIbpHdr4bV"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 156267,
+      "name": "7ABAYBY",
+      "url": "https://open.spotify.com/track/6pcftuLAqLrKmMP3WJwhqJ"
+    },
+    {
+      "album": {
+        "name": "7abayby",
+        "url": "https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Mostt",
+          "url": "https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 156267,
+      "name": "7abayby",
+      "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
+    },
+    {
+      "album": {
+        "name": "7een Maysara",
+        "url": "https://open.spotify.com/album/6xloo6KQt8sMmC723Hds7N"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 192000,
+      "name": "7een Maysara",
+      "url": "https://open.spotify.com/track/7B5bU1o9ReQz0J8R7y8FYh"
+    },
+    {
+      "album": {
+        "name": "7een Maysara (Molowave)",
+        "url": "https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 192000,
+      "name": "7een Maysara (Molowave)",
+      "url": "https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W"
+    },
+    {
+      "album": {
+        "name": "IMPORT//EXPORT",
+        "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224874,
+      "name": "7OB KHENA2",
+      "url": "https://open.spotify.com/track/15lgnDg0wa4gXWpts60aOF"
+    },
+    {
+      "album": {
+        "name": "8/8/G",
+        "url": "https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 176169,
+      "name": "8/8/G",
+      "url": "https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7"
+    },
+    {
+      "album": {
+        "name": "Abales",
+        "url": "https://open.spotify.com/album/7rqsUMg3760eEoY4yGNFpY"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 191431,
+      "name": "Abales",
+      "url": "https://open.spotify.com/track/6miyWg7etuBnEU4opRcR1d"
+    },
+    {
+      "album": {
+        "name": "Abo El Anwar X Ahmed Santa X Lil baba - GG | See you at @INSOMNIAEGYPT",
+        "url": "https://open.spotify.com/album/57IuOz58Aic9351GUeol4V"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 167225,
+      "name": "Abo El Anwar X Ahmed Santa X Lil baba - GG | See you at @INSOMNIAEGYPT",
+      "url": "https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV"
+    },
+    {
+      "album": {
+        "name": "3awdet Eldab3",
+        "url": "https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv"
+      },
+      "artists": [
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133676,
+      "name": "Abo Galum",
+      "url": "https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd"
+    },
+    {
+      "album": {
+        "name": "Adriana Lima",
+        "url": "https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 181392,
+      "name": "Adriana Lima",
+      "url": "https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
+      "duration_ms": 197468,
+      "name": "AFREQYA W AMREKA",
+      "url": "https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 157974,
+      "name": "AFROTO TYPE BEAT",
+      "url": "https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8"
+    },
+    {
+      "album": {
+        "name": "Santa El Gded",
+        "url": "https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Ahmed Santa",
+      "url": "https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 201398,
+      "name": "AHWAGY",
+      "url": "https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh"
+    },
+    {
+      "album": {
+        "name": "Algham",
+        "url": "https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 167613,
+      "name": "Algham",
+      "url": "https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj"
+    },
+    {
+      "album": {
+        "name": "Beeny we Beenek",
+        "url": "https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 306790,
+      "name": "Aloomek",
+      "url": "https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 192006,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W"
+    },
+    {
+      "album": {
+        "name": "El Sahaba Bonus",
+        "url": "https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 168251,
+      "name": "AMTAR",
+      "url": "https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7"
+    },
+    {
+      "album": {
+        "name": "ANA DEAL",
+        "url": "https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 195642,
+      "name": "ANA DEAL",
+      "url": "https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD"
+    },
+    {
+      "album": {
+        "name": "Ana w Zmely",
+        "url": "https://open.spotify.com/album/0X0i3G96Ajte0wpha1I4Hj"
+      },
+      "artists": [
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 178153,
+      "name": "Ana w Zmely",
+      "url": "https://open.spotify.com/track/6o187GRw3avGumhmhiMgM8"
+    },
+    {
+      "album": {
+        "name": "Mangesto",
+        "url": "https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 118687,
+      "name": "Ana Wingii",
+      "url": "https://open.spotify.com/track/776sud6Dt8OnUuRcQnmKe8"
+    },
+    {
+      "album": {
+        "name": "El Kebir",
+        "url": "https://open.spotify.com/album/3OI8G2Gclk9WFXo4JPnzNf"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 181714,
+      "name": "Ansak Wansahom",
+      "url": "https://open.spotify.com/track/1IiDvZtAgkNHsjgowc42eT"
+    },
+    {
+      "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170919,
+      "name": "Askot Khales",
+      "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
+    },
+    {
+      "album": {
+        "name": "Madina",
+        "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 233023,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT"
+    },
+    {
+      "album": {
+        "name": "Law Makonash 7awelna",
+        "url": "https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 162253,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu"
+    },
+    {
+      "album": {
+        "name": "BAHZ",
+        "url": "https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179136,
+      "name": "BAHZ",
+      "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
+    },
+    {
+      "album": {
+        "name": "BARBARY",
+        "url": "https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 156501,
+      "name": "BARBARY",
+      "url": "https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM"
+    },
+    {
+      "album": {
+        "name": "BASHA",
+        "url": "https://open.spotify.com/album/0rcbVE8UgjA7xWJUy95Ww3"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 153802,
+      "name": "BASHA",
+      "url": "https://open.spotify.com/track/1fgU43Ln9aByhg4kZpTJnX"
+    },
+    {
+      "album": {
+        "name": "BEL 3AKS",
+        "url": "https://open.spotify.com/album/4ds49GyngSgvVoUt8TEtLE"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        },
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 230526,
+      "name": "BEL 3AKS",
+      "url": "https://open.spotify.com/track/6ar3PwuylnywVRKfIFAyJN"
+    },
+    {
+      "album": {
+        "name": "Beluga",
+        "url": "https://open.spotify.com/album/1dvNFHIsX27M4lIYV3Z2sO"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Karim Enzo",
+          "url": "https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 217000,
+      "name": "Beluga",
+      "url": "https://open.spotify.com/track/3sHG3Wv2MqYFRZhUdnIXCO"
+    },
+    {
+      "album": {
+        "name": "Madina",
+        "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 193973,
+      "name": "Bestaya",
+      "url": "https://open.spotify.com/track/6ymLwKX8u2fMMu20TnM02D"
+    },
+    {
+      "album": {
+        "name": "Agzakhana",
+        "url": "https://open.spotify.com/album/1xXO29qVBNrs7NsagU8MPs"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 206714,
+      "name": "Betadeen",
+      "url": "https://open.spotify.com/track/5SSh0fKEEkyaBGOhQG47AE"
+    },
+    {
+      "album": {
+        "name": "Agzakhana",
+        "url": "https://open.spotify.com/album/655aNZA5EP7l9CgwM0XYMh"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 206759,
+      "name": "Betadeen",
+      "url": "https://open.spotify.com/track/693Zm4S9surNZUPZp0RCXi"
+    },
+    {
+      "album": {
+        "name": "FLORIDA DARK MODE (el malahy)",
+        "url": "https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 242608,
+      "name": "BIG MOOD",
+      "url": "https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY"
+    },
+    {
+      "album": {
+        "name": "Akhro Noor",
+        "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 212000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5"
+    },
+    {
+      "album": {
+        "name": "Brrr Brrr Brrr",
+        "url": "https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 207058,
+      "name": "Brrr Brrr Brrr",
+      "url": "https://open.spotify.com/track/56toH670HEUhhOYEbubXYr"
+    },
+    {
+      "album": {
+        "name": "Setta Bel Hob",
+        "url": "https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-07",
+      "duration_ms": 206400,
+      "name": "Buffon",
+      "url": "https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S"
+    },
+    {
+      "album": {
+        "name": "FLORIDA DARK MODE (el malahy)",
+        "url": "https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 174538,
+      "name": "CA7BY",
+      "url": "https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH"
+    },
+    {
+      "album": {
+        "name": "CAP MERCEDES",
+        "url": "https://open.spotify.com/album/5Xw5WVvVrPJTU96wj5gHgV"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 166956,
+      "name": "CAP MERCEDES",
+      "url": "https://open.spotify.com/track/1e6lP3m32MeLVEtZ2W1tnI"
+    },
+    {
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 149420,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim"
+    },
+    {
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/0XcxqyJ2wJAKPFc7vpjnKX"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 134511,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/49b5PKQTRiFp6fJq0idjB8"
+    },
+    {
+      "album": {
+        "name": "TRAUMA (2023)",
+        "url": "https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 182857,
+      "name": "CHAPTER III: GORAA",
+      "url": "https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw"
+    },
+    {
+      "album": {
+        "name": "Madina",
+        "url": "https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Alfy",
+          "url": "https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 186666,
+      "name": "Daftar A7mar",
+      "url": "https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 158267,
+      "name": "DAWLETNA",
+      "url": "https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb"
+    },
+    {
+      "album": {
+        "name": "Dawly",
+        "url": "https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy"
+      },
+      "artists": [
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        },
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196206,
+      "name": "Dawly",
+      "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
+    },
+    {
+      "album": {
+        "name": "De Bruyne",
+        "url": "https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 149373,
+      "name": "De Bruyne",
+      "url": "https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "De Bruyne",
+      "url": "https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx"
+    },
+    {
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 125504,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs"
+    },
+    {
+      "album": {
+        "name": "IMPORT//EXPORT",
+        "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 165511,
+      "name": "DKHOOL\\\\KHROOG",
+      "url": "https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH"
+    },
+    {
+      "album": {
+        "name": "Double Face",
+        "url": "https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 180983,
+      "name": "Double Face",
+      "url": "https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN"
+    },
+    {
+      "album": {
+        "name": "DOUBLEZUKSH",
+        "url": "https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 249183,
+      "name": "DOUBLEZUKSH",
+      "url": "https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir"
+    },
+    {
+      "album": {
+        "name": "El 3asefa",
+        "url": "https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 149177,
+      "name": "El 3asefa",
+      "url": "https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg"
+    },
+    {
+      "album": {
+        "name": "El 3asefa",
+        "url": "https://open.spotify.com/album/6lH9q9RdXfuewaVEu2et8A"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 155492,
+      "name": "El 3asefa",
+      "url": "https://open.spotify.com/track/665TwdtuLDvcosWE631uEL"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 378160,
+      "name": "EL ASEMA",
+      "url": "https://open.spotify.com/track/7xGbfFIhE3fNwS9Djjjq7P"
+    },
+    {
+      "album": {
+        "name": "EL BABA",
+        "url": "https://open.spotify.com/album/5aXEcbeROqVWPx9zYCYeBJ"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 203443,
+      "name": "EL BABA",
+      "url": "https://open.spotify.com/track/5hqTZ3iZFOZAeojDVC9QPJ"
+    },
+    {
+      "album": {
+        "name": "El Baba",
+        "url": "https://open.spotify.com/album/0RVaaq1N7PBzB5ZAXgo7qy"
+      },
+      "artists": [
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 184196,
+      "name": "El Baba",
+      "url": "https://open.spotify.com/track/5RJ36vbZUMFzS70hX6nx0k"
+    },
+    {
+      "album": {
+        "name": "EL HALAL",
+        "url": "https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-27",
+      "duration_ms": 230208,
+      "name": "EL HALAL",
+      "url": "https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P"
+    },
+    {
+      "album": {
+        "name": "ZAZA ELWASEEM",
+        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 187245,
+      "name": "EL LOVE",
+      "url": "https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158586,
+      "name": "El Mabda2",
+      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+    },
+    {
+      "album": {
+        "name": "MAQSOUM",
+        "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 257832,
+      "name": "El QOWA",
+      "url": "https://open.spotify.com/track/0rzAtcL37WVll20dFCYTsj"
+    },
+    {
+      "album": {
+        "name": "El Rap Ghayarni",
+        "url": "https://open.spotify.com/album/604qvjYynAS8jwYMPVlAgk"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 252631,
+      "name": "El Rap Ghayarni",
+      "url": "https://open.spotify.com/track/0SQ5ckrJfPLlBzfVxJ7qZn"
+    },
+    {
+      "album": {
+        "name": "EL-NEGM EL-SAHELY",
+        "url": "https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 133270,
+      "name": "EL-NEGM EL-SAHELY",
+      "url": "https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7"
+    },
+    {
+      "album": {
+        "name": "ElNaw Wy",
+        "url": "https://open.spotify.com/album/0c020gB5ryHFx3Vh7aK1fb"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 149908,
+      "name": "ElNaw Wy",
+      "url": "https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw"
+    },
+    {
+      "album": {
+        "name": "Escobar",
+        "url": "https://open.spotify.com/album/2mAiQSJIzExk7PQOzOKvce"
+      },
+      "artists": [
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        },
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186495,
+      "name": "Escobar",
+      "url": "https://open.spotify.com/track/35SaLcWrRF8lRBiY93MSnn"
+    },
+    {
+      "album": {
+        "name": "FAR2 KHEBRA",
+        "url": "https://open.spotify.com/album/08pIAC8EPHbSDQFsY0xRov"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188356,
+      "name": "FAR2 KHEBRA",
+      "url": "https://open.spotify.com/track/53BjuhvFCmv5T0VRhKuNrb"
+    },
+    {
+      "album": {
+        "name": "Feeha La Khfeeha",
+        "url": "https://open.spotify.com/album/3bIEOYEgi9eKH6mXNosRsg"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 189000,
+      "name": "Feeha La Khfeeha",
+      "url": "https://open.spotify.com/track/5IadhJSL2h9WKI6ChfTTgj"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Fel Galeed",
+      "url": "https://open.spotify.com/track/66AGXOI1NENOCWVGuERCqa"
+    },
+    {
+      "album": {
+        "name": "Dawama",
+        "url": "https://open.spotify.com/album/3afugJgjarUyVMCfeRxjxn"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 225769,
+      "name": "Ferksh (feat. Slyver PV)",
+      "url": "https://open.spotify.com/track/5byhbOVu1cQ2hUu7EtAkeF"
+    },
+    {
+      "album": {
+        "name": "Fish Wa2t",
+        "url": "https://open.spotify.com/album/5dI5JMzymMU1ZAbXT12hOn"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 156990,
+      "name": "Fish Wa2t",
+      "url": "https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ"
+    },
+    {
+      "album": {
+        "name": "Freedom Music: Scene Cypher 2",
+        "url": "https://open.spotify.com/album/0IpOZAQTWlE2pn9sw2LiVb"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        },
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/16m87d8FV11gipfSu03k0Y"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-18",
+      "duration_ms": 308000,
+      "name": "Freedom Music: Scene Cypher 2",
+      "url": "https://open.spotify.com/track/2WGsTI0dM1DsHsi3y1svgp"
+    },
+    {
+      "album": {
+        "name": "Freedom Music: Scene Cypher 3",
+        "url": "https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        },
+        {
+          "name": "Lil Noby",
+          "url": "https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa"
+        },
+        {
+          "name": "Tommy",
+          "url": "https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244864,
+      "name": "Freedom Music: Scene Cypher 3",
+      "url": "https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/33Z8BT35ZwgYBRREcKiwCg"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-07",
+      "duration_ms": 149498,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/28I6S4VxP42TMjgMYszHu7"
+    },
+    {
+      "album": {
+        "name": "Freska",
+        "url": "https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534"
+      },
+      "artists": [
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 132574,
+      "name": "Freska",
+      "url": "https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0645 \u0627\u0644\u0646\u0627\u0633",
+        "url": "https://open.spotify.com/album/3Z8DIw39pBCt0FtDMNrR9Z"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Motherfunkers",
+          "url": "https://open.spotify.com/artist/5BdvZsl7YVwq7m0shqTmq7"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 129882,
+      "name": "GAZAR",
+      "url": "https://open.spotify.com/track/7u5HkKhLRlnbPIE2N2WbTE"
+    },
+    {
+      "album": {
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
+    },
+    {
+      "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 218600,
+      "name": "Ghi T9al (Et2al)",
+      "url": "https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn"
+    },
+    {
+      "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 218619,
+      "name": "Ghi T9al (Et2al)",
+      "url": "https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx"
+    },
+    {
+      "album": {
+        "name": "El Sahaba",
+        "url": "https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 161203,
+      "name": "GHOYOUM",
+      "url": "https://open.spotify.com/track/304utXC7fLHXEv1k2vFqQd"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139279,
+      "name": "Guardiola",
+      "url": "https://open.spotify.com/track/29YCDHtUuXgOLUvmQnoKE0"
+    },
+    {
+      "album": {
+        "name": "Ha3",
+        "url": "https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 131282,
+      "name": "Ha3",
+      "url": "https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk"
+    },
+    {
+      "album": {
+        "name": "Haaland",
+        "url": "https://open.spotify.com/album/7FymPbSAQXe9Pd4aumoHzy"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 231690,
+      "name": "Haaland",
+      "url": "https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 231690,
+      "name": "Haaland",
+      "url": "https://open.spotify.com/track/2soVy9jLOXdXPW8OFNzzrj"
+    },
+    {
+      "album": {
+        "name": "Habebi",
+        "url": "https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 202000,
+      "name": "Habebi",
+      "url": "https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH"
+    },
+    {
+      "album": {
+        "name": "Hanfantazook",
+        "url": "https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 193124,
+      "name": "Hanfantazook",
+      "url": "https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3"
+    },
+    {
+      "album": {
+        "name": "Mextape",
+        "url": "https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abo EL Anwar",
+          "url": "https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 185263,
+      "name": "Haram",
+      "url": "https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh"
+    },
+    {
+      "album": {
+        "name": "HARAZEEK",
+        "url": "https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Amr Saad",
+          "url": "https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 158848,
+      "name": "HARAZEEK",
+      "url": "https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 120017,
+      "name": "HOSS",
+      "url": "https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N"
+    },
+    {
+      "album": {
+        "name": "HUSTLE",
+        "url": "https://open.spotify.com/album/3caZFDjOYlqVVsrBjCgAOy"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Alyoungofficial",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randarofficial",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 165006,
+      "name": "HUSTLE",
+      "url": "https://open.spotify.com/track/3Ya32EkNaAQL8VDbvsfTup"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/6ip534OtB5OaZtDYmw0L6H"
+      },
+      "artists": [
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 124000,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2oE69DSJhprjMLJfPWMrfR"
+    },
+    {
+      "album": {
+        "name": "Java",
+        "url": "https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 140434,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6"
+    },
+    {
+      "album": {
+        "name": "Justin Bieber",
+        "url": "https://open.spotify.com/album/1v8ywufxiUSUBD2wB9Ib2f"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 193992,
+      "name": "Justin Bieber",
+      "url": "https://open.spotify.com/track/6gf1hPyK9vn60kJQoTZw4c"
+    },
+    {
+      "album": {
+        "name": "IMPORT//EXPORT",
+        "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 229598,
+      "name": "KALAM MANTEQY",
+      "url": "https://open.spotify.com/track/7oKulWKm0k80hKAu1oHOoX"
+    },
+    {
+      "album": {
+        "name": "METHANOL 62",
+        "url": "https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU"
+      },
+      "artists": [
+        {
+          "name": "Mahdy Madness",
+          "url": "https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201714,
+      "name": "KAMASHA - \u0643\u0645\u0627\u0634\u0647 (feat. Wezza Montaser)",
+      "url": "https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf"
+    },
+    {
+      "album": {
+        "name": "Kameen",
+        "url": "https://open.spotify.com/album/4brM0gtGX5BeVAcW2v8dxC"
+      },
+      "artists": [
+        {
+          "name": "VLI WEEZY",
+          "url": "https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i"
+        },
+        {
+          "name": "Meno Zein",
+          "url": "https://open.spotify.com/artist/0df230FJvyG1mWACyMcVTr"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 192022,
+      "name": "Kameen",
+      "url": "https://open.spotify.com/track/52AFgbG5RAgtGu971gwEfx"
+    },
+    {
+      "album": {
+        "name": "Kash7o - \u0643\u0627\u0634\u062d\u0647",
+        "url": "https://open.spotify.com/album/1pKPU6z2R7lIh6uoZTEZbx"
+      },
+      "artists": [
+        {
+          "name": "3ab3az",
+          "url": "https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kash7o - \u0643\u0627\u0634\u062d\u0647",
+      "url": "https://open.spotify.com/track/1yIrBx4pYvh9Lqt4r1g2q8"
+    },
+    {
+      "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 150857,
+      "name": "KATAFAST",
+      "url": "https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm"
+    },
+    {
+      "album": {
+        "name": "Kawabes",
+        "url": "https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW"
+      },
+      "artists": [
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        },
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "uncl",
+          "url": "https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 163405,
+      "name": "kawabes",
+      "url": "https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg"
+    },
+    {
+      "album": {
+        "name": "Keify Keda",
+        "url": "https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 193621,
+      "name": "Keify Keda",
+      "url": "https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 138857,
+      "name": "Khamsa",
+      "url": "https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 157720,
+      "name": "Kitkat - Freestyle",
+      "url": "https://open.spotify.com/track/7BDmhU0TnKMATUSNeiSB83"
+    },
+    {
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/67GW8ttYMQksrL6ER2Ovaf"
+      },
+      "artists": [
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 202733,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+    },
+    {
+      "album": {
+        "name": "Law Makonash 7awelna",
+        "url": "https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 186897,
+      "name": "Law Makonash 7awelna",
+      "url": "https://open.spotify.com/track/1KjEG5GBB8aUSkMTwGglWv"
+    },
+    {
+      "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/0apSvBI2Dw5KWkIKdBPFSJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 148292,
+      "name": "Leh Nehzar",
+      "url": "https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9"
+    },
+    {
+      "album": {
+        "name": "LELLY YAH",
+        "url": "https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-27",
+      "duration_ms": 189826,
+      "name": "LELLY YAH",
+      "url": "https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ"
+    },
+    {
+      "album": {
+        "name": "LOCATION",
+        "url": "https://open.spotify.com/album/7fdRfsOvqgcJmFeM5WJwYX"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 149999,
+      "name": "LOCATION",
+      "url": "https://open.spotify.com/track/2HbIwat8F8LtvfQkU6Yymf"
+    },
+    {
+      "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 126857,
+      "name": "LOGAN",
+      "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
+    },
+    {
+      "album": {
+        "name": "LOKLOK",
+        "url": "https://open.spotify.com/album/7rMduOQflk9P9TnxwRjs4X"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "Farra",
+          "url": "https://open.spotify.com/artist/4jaR2Xjm4FXiPM3JB1l0rT"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 219219,
+      "name": "LOKLOK",
+      "url": "https://open.spotify.com/track/5nXheavFnyhPyQXdO0jL3u"
+    },
+    {
+      "album": {
+        "name": "Ma 3aleena",
+        "url": "https://open.spotify.com/album/6uisIEObaucNxczbcv67wc"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 206084,
+      "name": "Ma 3aleena",
+      "url": "https://open.spotify.com/track/0BZwBHaJKCClcVXIAZA0F5"
+    },
+    {
+      "album": {
+        "name": "Ma 3Aleena",
+        "url": "https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 206084,
+      "name": "Ma 3Aleena",
+      "url": "https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5"
+    },
+    {
+      "album": {
+        "name": "Ma3lesh Ana Toht",
+        "url": "https://open.spotify.com/album/1Bto2XiqyMEb9FHB1BkGFI"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 213271,
+      "name": "Ma3lesh Ana Toht",
+      "url": "https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23"
+    },
+    {
+      "album": {
+        "name": "3awdet Eldab3",
+        "url": "https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv"
+      },
+      "artists": [
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 160695,
+      "name": "Ma3rafnish",
+      "url": "https://open.spotify.com/track/35f5B1FqqHkHIJhi85wDYz"
+    },
+    {
+      "album": {
+        "name": "Mafesh Mane3",
+        "url": "https://open.spotify.com/album/3pkXXciOn1FgsroRvaR9Lj"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 220107,
+      "name": "Mafesh Mane3",
+      "url": "https://open.spotify.com/track/3oE8bLxqY4L14n7GPLSRR3"
+    },
+    {
+      "album": {
+        "name": "MAGANEEN",
+        "url": "https://open.spotify.com/album/7qDjmgVN6jRPH2Kue0njD8"
+      },
+      "artists": [
+        {
+          "name": "Mosalem",
+          "url": "https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 240346,
+      "name": "MAGANEEN",
+      "url": "https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU"
+    },
+    {
+      "album": {
+        "name": "Ras Shitan",
+        "url": "https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 218725,
+      "name": "Maged El Masry",
+      "url": "https://open.spotify.com/track/29AFznq7V8b5C5w5fAaQTx"
+    },
+    {
+      "album": {
+        "name": "MAGHOOL",
+        "url": "https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 233888,
+      "name": "MAGHOOL",
+      "url": "https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic"
+    },
+    {
+      "album": {
+        "name": "El Hob Ebn Wes5a",
+        "url": "https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 195488,
+      "name": "Malaksh Da3wa",
+      "url": "https://open.spotify.com/track/4RlYNdvL0xebVFp3YrxtSK"
+    },
+    {
+      "album": {
+        "name": "Falta",
+        "url": "https://open.spotify.com/album/5JuZlR6i3oxUFEfVewws68"
+      },
+      "artists": [
+        {
+          "name": "Lil Noby",
+          "url": "https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 208400,
+      "name": "Maleesh Zay",
+      "url": "https://open.spotify.com/track/6hR4F00fwdG8QFGV4bQDwt"
+    },
+    {
+      "album": {
+        "name": "Kazakairo",
+        "url": "https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 163120,
+      "name": "Malyan",
+      "url": "https://open.spotify.com/track/0Z8F28QfH9fApYKHdqlaqH"
+    },
+    {
+      "album": {
+        "name": "Mamlaka",
+        "url": "https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 209490,
+      "name": "Mamlaka",
+      "url": "https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra"
+    },
+    {
+      "album": {
+        "name": "Santa El Gded",
+        "url": "https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 240000,
+      "name": "Marassi",
+      "url": "https://open.spotify.com/track/0ENJ2buPFODud17reJ1tvI"
+    },
+    {
+      "album": {
+        "name": "Mareed",
+        "url": "https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216710,
+      "name": "Mareed",
+      "url": "https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 216710,
+      "name": "MAREED",
+      "url": "https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 216710,
+      "name": "MAREED",
+      "url": "https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217839,
+      "name": "Masr7ya",
+      "url": "https://open.spotify.com/track/0NRCKDMBB0RB9vKWO9ePY1"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156415,
+      "name": "Matafetch",
+      "url": "https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7"
+    },
+    {
+      "album": {
+        "name": "Matbosesh 3Al Sora Kteer",
+        "url": "https://open.spotify.com/album/1jxRTZnozNblBwG3EZTpCc"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 181986,
+      "name": "Matbosesh 3Al Sora Kteer",
+      "url": "https://open.spotify.com/track/02hW8iovo5mxTEYxV0me0E"
+    },
+    {
+      "album": {
+        "name": "MATBOSESH 3AL SORA KTEER",
+        "url": "https://open.spotify.com/album/6KEVEDUAhskxwMkMOT53PI"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 182044,
+      "name": "MATBOSESH 3AL SORA KTEER",
+      "url": "https://open.spotify.com/track/1GpGDH9ZjwsEsYpvWQlqed"
+    },
+    {
+      "album": {
+        "name": "Matgreesh",
+        "url": "https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu"
+      },
+      "artists": [
+        {
+          "name": "VLI WEEZY",
+          "url": "https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i"
+        },
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 204348,
+      "name": "Matgreesh",
+      "url": "https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb"
+    },
+    {
+      "album": {
+        "name": "Matkhafesh Yamma",
+        "url": "https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Ouzzy",
+          "url": "https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 163200,
+      "name": "Matkhafesh Yamma",
+      "url": "https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh"
+    },
+    {
+      "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 203520,
+      "name": "Matloob",
+      "url": "https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs"
+    },
+    {
+      "album": {
+        "name": "MAWAWEL",
+        "url": "https://open.spotify.com/album/2UKKXEuzmNF6RW0ZfOq1rN"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "MAWAWEL",
+      "url": "https://open.spotify.com/track/4pHTYFhKIdmDWHBi9oliWv"
+    },
+    {
+      "album": {
+        "name": "Mel Awel",
+        "url": "https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS"
+      },
+      "artists": [
+        {
+          "name": "3askalany",
+          "url": "https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Mel Awel",
+      "url": "https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 141015,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/0izKRFFUPvOctUpMVo9XIN"
+    },
+    {
+      "album": {
+        "name": "Melok El Scene",
+        "url": "https://open.spotify.com/album/2EAY4ezzVKdRd7KrzEEmxN"
+      },
+      "artists": [
+        {
+          "name": "MR YASEEN",
+          "url": "https://open.spotify.com/artist/17ffht4Wa7TD9dhalJDw6K"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 220235,
+      "name": "Melok El Scene",
+      "url": "https://open.spotify.com/track/3m3mUrLGCe65i4MOugQSZf"
+    },
+    {
+      "album": {
+        "name": "Men El Akher",
+        "url": "https://open.spotify.com/album/41jloKy8Li6pfkwSrLxZ0r"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 261294,
+      "name": "Men El Akher",
+      "url": "https://open.spotify.com/track/2qzHA1TrDl6EhnaCZpM2yx"
+    },
+    {
+      "album": {
+        "name": "Mesabek",
+        "url": "https://open.spotify.com/album/33eGSVyONMDWu2bBpGNMCP"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 249236,
+      "name": "Mesabek",
+      "url": "https://open.spotify.com/track/6FLWYkD96VoBh2Sv2SWewV"
+    },
+    {
+      "album": {
+        "name": "MESAMA3EEN (Deluxe)",
+        "url": "https://open.spotify.com/album/0F05Bs9oMtCyuAd22o4xKQ"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180425,
+      "name": "MESAMA3EEN",
+      "url": "https://open.spotify.com/track/6gg53gW5wlz0jSQmOcqIfY"
+    },
+    {
+      "album": {
+        "name": "MESH ZAY ELE 7ASO",
+        "url": "https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 180094,
+      "name": "MESH ZAY ELE 7ASO",
+      "url": "https://open.spotify.com/track/7f9GYz8Hcb58pKxOddasNR"
+    },
+    {
+      "album": {
+        "name": "Law Makonash 7awelna",
+        "url": "https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        },
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/6hKj4ZCRD7oML9Wq3Z1knr"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 192000,
+      "name": "Messi",
+      "url": "https://open.spotify.com/track/4KkGIW8FQfKTnt0WL3fb2N"
+    },
+    {
+      "album": {
+        "name": "Mexicano Bro",
+        "url": "https://open.spotify.com/album/2fnBQ0t795zHnHFLxHCnju"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238644,
+      "name": "Mexicano Bro",
+      "url": "https://open.spotify.com/track/7JCZsaFXM2sXmUIEOGbaji"
+    },
+    {
+      "album": {
+        "name": "Karta",
+        "url": "https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 127754,
+      "name": "MI AMORI",
+      "url": "https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff"
+    },
+    {
+      "album": {
+        "name": "Min Mafesh",
+        "url": "https://open.spotify.com/album/64RrPflL1cMVfgGC5te4XQ"
+      },
+      "artists": [
+        {
+          "name": "Molotof",
+          "url": "https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 233142,
+      "name": "Min Mafesh",
+      "url": "https://open.spotify.com/track/4SeiaRJgwj6QxoHXWBytTF"
+    },
+    {
+      "album": {
+        "name": "Mossadas Soot",
+        "url": "https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 193845,
+      "name": "Mossadas Soot",
+      "url": "https://open.spotify.com/track/235QPIAPALhFf6KaKJiNqy"
+    },
+    {
+      "album": {
+        "name": "Msh Da Elle Ekhtarto",
+        "url": "https://open.spotify.com/album/4kAMmCobqwvID1jNNVJGzG"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 182720,
+      "name": "Msh Da Elle Ekhtarto",
+      "url": "https://open.spotify.com/track/6zh6n6FzAPZxKYr1gWkemc"
+    },
+    {
+      "album": {
+        "name": "Msh Da Elle Ekhtarto",
+        "url": "https://open.spotify.com/album/2dLHncSmks58yzlVvgsGFd"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 182752,
+      "name": "Msh Da Elle Ekhtarto",
+      "url": "https://open.spotify.com/track/4TA9jCeWYJvru5fv3FGAII"
+    },
+    {
+      "album": {
+        "name": "Msh Ha7el",
+        "url": "https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 240000,
+      "name": "Msh Ha7el",
+      "url": "https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 168000,
+      "name": "Msh True",
+      "url": "https://open.spotify.com/track/4e9CodHmD7W5Yh4pPo3rBH"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Msh True",
+      "url": "https://open.spotify.com/track/77HrEBy6qY1rRPrUw9OlzZ"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 144793,
+      "name": "NAPALM",
+      "url": "https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez"
+    },
+    {
+      "album": {
+        "name": "Narcos",
+        "url": "https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 172918,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ"
+    },
+    {
+      "album": {
+        "name": "Nargasa",
+        "url": "https://open.spotify.com/album/6auK24zM4t5RIKPC6cI17y"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153264,
+      "name": "Nargasa",
+      "url": "https://open.spotify.com/track/6C3b22RiVowlAiv0aDHvRl"
+    },
+    {
+      "album": {
+        "name": "Awdet El Ebn El Dal",
+        "url": "https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168005,
+      "name": "Nazlet Seman",
+      "url": "https://open.spotify.com/track/3kvFynFheCVVecaJLKketl"
+    },
+    {
+      "album": {
+        "name": "Negm",
+        "url": "https://open.spotify.com/album/3ULU5GSdofZzkRbm4YQvbr"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 220000,
+      "name": "Negm",
+      "url": "https://open.spotify.com/track/1PXtsjfRF9gTo49aKHvSky"
+    },
+    {
+      "album": {
+        "name": "Negm",
+        "url": "https://open.spotify.com/album/50hODkRSOKdbimK9moVDfJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 220000,
+      "name": "Negm",
+      "url": "https://open.spotify.com/track/3PeiVnZUO7PFRqGjV2hCW8"
+    },
+    {
+      "album": {
+        "name": "No Problema",
+        "url": "https://open.spotify.com/album/1LgemKfJ05vDyUePTOr1gv"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        },
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 138000,
+      "name": "No Problema",
+      "url": "https://open.spotify.com/track/3ULltzFiFkQO1ojly0zUh3"
+    },
+    {
+      "album": {
+        "name": "No Problema",
+        "url": "https://open.spotify.com/album/3PWZcOc8IeMcCq0tiSqdpZ"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        },
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 138000,
+      "name": "No Problema",
+      "url": "https://open.spotify.com/track/5AjsPhrcGQdRdkqLRalRfw"
+    },
+    {
+      "album": {
+        "name": "Oghnya OldSchool Gdeda",
+        "url": "https://open.spotify.com/album/3AFOSy3rF2dxso0lImNmIu"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 210050,
+      "name": "Oghnya OldSchool Gdeda",
+      "url": "https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7"
+    },
+    {
+      "album": {
+        "name": "FAYADAN",
+        "url": "https://open.spotify.com/album/5s8hUlmO9exajp6IxL2Nm4"
+      },
+      "artists": [
+        {
+          "name": "Xander Ghost",
+          "url": "https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-27",
+      "duration_ms": 213205,
+      "name": "OGRA",
+      "url": "https://open.spotify.com/track/3rUyiFJIBHLuDj62O0IDwF"
+    },
+    {
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE"
+      },
+      "artists": [
+        {
+          "name": "Budgy",
+          "url": "https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk"
+        },
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 150651,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh"
+    },
+    {
+      "album": {
+        "name": "OPPS",
+        "url": "https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 132225,
+      "name": "OPPS",
+      "url": "https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad"
+    },
+    {
+      "album": {
+        "name": "MAQSOUM",
+        "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 187444,
+      "name": "QESA HAZENA",
+      "url": "https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe"
+    },
+    {
+      "album": {
+        "name": "RACORE",
+        "url": "https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176407,
+      "name": "RACORE",
+      "url": "https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ"
+    },
+    {
+      "album": {
+        "name": "IMPORT//EXPORT",
+        "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "RO7 3ALATOL",
+      "url": "https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 202025,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd"
+    },
+    {
+      "album": {
+        "name": "Cabina",
+        "url": "https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 189382,
+      "name": "Roo7",
+      "url": "https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj"
+    },
+    {
+      "album": {
+        "name": "OV (The Mixtape)",
+        "url": "https://open.spotify.com/album/4krw20D1j4humTzgD8l8GM"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 171728,
+      "name": "Saa'e3",
+      "url": "https://open.spotify.com/track/0Fbl0jYUJkLzz5BIUJ2t7r"
+    },
+    {
+      "album": {
+        "name": "El Sahaba",
+        "url": "https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 187826,
+      "name": "SAFINA",
+      "url": "https://open.spotify.com/track/2imCmZa01FzAv5j0BiD9ab"
+    },
+    {
+      "album": {
+        "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
+        "url": "https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp"
+      },
+      "artists": [
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156770,
+      "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
+      "url": "https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5"
+    },
+    {
+      "album": {
+        "name": "ZAZA ELWASEEM",
+        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128444,
+      "name": "SAM3 AKHINA",
+      "url": "https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Lorenzoo",
+          "url": "https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 134685,
+      "name": "SAME3 EL HAKY",
+      "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/6KKkeRpV3Nf7QVouHOyqNR"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177551,
+      "name": "SAN STEFANO",
+      "url": "https://open.spotify.com/track/0B6AYBv6KlwUwHtAIj9lzF"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 177551,
+      "name": "SAN STEFANO",
+      "url": "https://open.spotify.com/track/2iFj2z7KNZjQfYZHVk02ZT"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177551,
+      "name": "SAN STEFANO",
+      "url": "https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC"
+    },
+    {
+      "album": {
+        "name": "Sanam",
+        "url": "https://open.spotify.com/album/3uRsl2WhhppeCZEOaLAT59"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 102530,
+      "name": "Sanam",
+      "url": "https://open.spotify.com/track/4P2ekaZHDehwk4KzFTkkD4"
+    },
+    {
+      "album": {
+        "name": "Santos",
+        "url": "https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 184000,
+      "name": "Santos",
+      "url": "https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ"
+    },
+    {
+      "album": {
+        "name": "3awdet Eldab3",
+        "url": "https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv"
+      },
+      "artists": [
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 134634,
+      "name": "Saye2 Souq",
+      "url": "https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor"
+    },
+    {
+      "album": {
+        "name": "Serag Mohema",
+        "url": "https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 164384,
+      "name": "Serag Mohema",
+      "url": "https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN"
+    },
+    {
+      "album": {
+        "name": "Share3 El 100",
+        "url": "https://open.spotify.com/album/0Me0fSxdj5G3vFSDtlgAZC"
+      },
+      "artists": [
+        {
+          "name": "Double Zuksh",
+          "url": "https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 133655,
+      "name": "Share3 El 100",
+      "url": "https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx"
+    },
+    {
+      "album": {
+        "name": "5 X El Wesh",
+        "url": "https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        },
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 179214,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5"
+    },
+    {
+      "album": {
+        "name": "MESAMA3EEN",
+        "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 154285,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/4EwSe0EnXry3Zh3cyFfHWn"
+    },
+    {
+      "album": {
+        "name": "Sou2 El Cassette",
+        "url": "https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 163862,
+      "name": "Sou2 El Cassette",
+      "url": "https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 199537,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no"
+    },
+    {
+      "album": {
+        "name": "Star W Mayhemosh (Freedom Music)",
+        "url": "https://open.spotify.com/album/1dQbyN9XSJFNgxxiJsLEhX"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        },
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 181400,
+      "name": "Star W Mayhemosh (Freedom Music)",
+      "url": "https://open.spotify.com/track/0kK6Ew7B4FiS2LUrO9Uw1D"
+    },
+    {
+      "album": {
+        "name": "Sonseyat",
+        "url": "https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 161541,
+      "name": "Stop - Magnolia",
+      "url": "https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir"
+    },
+    {
+      "album": {
+        "name": "STR3",
+        "url": "https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx"
+      },
+      "artists": [
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        },
+        {
+          "name": "Intomymind",
+          "url": "https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208285,
+      "name": "STR3",
+      "url": "https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP"
+    },
+    {
+      "album": {
+        "name": "Sutra",
+        "url": "https://open.spotify.com/album/1utLviV8tlSBjtEmE8US9m"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 173468,
+      "name": "Sutra",
+      "url": "https://open.spotify.com/track/2CRvMCAXKFYKMZ1jmxAGPe"
+    },
+    {
+      "album": {
+        "name": "Sutra",
+        "url": "https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ"
+      },
+      "artists": [
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 173468,
+      "name": "Sutra",
+      "url": "https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD"
+    },
+    {
+      "album": {
+        "name": "TA TA TA",
+        "url": "https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159810,
+      "name": "TA TA TA",
+      "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
+    },
+    {
+      "album": {
+        "name": "Ta2reban",
+        "url": "https://open.spotify.com/album/2ktW3wBPnU7MVrs305ULyV"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 209433,
+      "name": "Ta2reban",
+      "url": "https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR"
+    },
+    {
+      "album": {
+        "name": "Tag",
+        "url": "https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 229859,
+      "name": "Tag",
+      "url": "https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz"
+    },
+    {
+      "album": {
+        "name": "Beyt El Ro3b",
+        "url": "https://open.spotify.com/album/6qgcvg7IquOqjbgnBeRnfY"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 208027,
+      "name": "Talata Zayaha",
+      "url": "https://open.spotify.com/track/48M1XgdOGc3Pti50SfgW0U"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/3JPrrTh4yG6WZBXXYa6Wsy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "7a7a",
+          "url": "https://open.spotify.com/artist/5yhMmeUQ0NZn1WuW0sbD5s"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Tarab",
+      "url": "https://open.spotify.com/track/709KYvIszGGKs4vjmWzAPq"
+    },
+    {
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 182096,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K"
+    },
+    {
+      "album": {
+        "name": "TEENA",
+        "url": "https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 170163,
+      "name": "TEENA",
+      "url": "https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm"
+    },
+    {
+      "album": {
+        "name": "Tege Goal",
+        "url": "https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 196363,
+      "name": "Tege Goal",
+      "url": "https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N"
+    },
+    {
+      "album": {
+        "name": "TOTLOB AMA TOTLOB",
+        "url": "https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk"
+      },
+      "artists": [
+        {
+          "name": "El Joker",
+          "url": "https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 312857,
+      "name": "TOTLOB AMA TOTLOB",
+      "url": "https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/1MLqccNxmrlLeG2R5cBAeH"
+    },
+    {
+      "album": {
+        "name": "Placebo Ch.1",
+        "url": "https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE"
+    },
+    {
+      "album": {
+        "name": "Tuta Ankh Amoon",
+        "url": "https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        },
+        {
+          "name": "MiniM",
+          "url": "https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 237284,
+      "name": "Tuta Ankh Amoon",
+      "url": "https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ"
+    },
+    {
+      "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 159493,
+      "name": "Ultra Attack",
+      "url": "https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 157402,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7"
+    },
+    {
+      "album": {
+        "name": "VALENTINO",
+        "url": "https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157402,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 157402,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM"
+    },
+    {
+      "album": {
+        "name": "Mangesto",
+        "url": "https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5"
+      },
+      "artists": [
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119629,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4WKcS5bpZNwg31wcGpO2o0"
+    },
+    {
+      "album": {
+        "name": "IMPORT//EXPORT",
+        "url": "https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "VOLT 3ALY",
+      "url": "https://open.spotify.com/track/6AWF8puOSMgTbxnd8mtuTG"
+    },
+    {
+      "album": {
+        "name": "Wasa3",
+        "url": "https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 129000,
+      "name": "Wasa3",
+      "url": "https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk"
+    },
+    {
+      "album": {
+        "name": "Akhro Noor",
+        "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 198260,
+      "name": "Wija",
+      "url": "https://open.spotify.com/track/2WGt3cf3Jb63fMO9fUt0d1"
+    },
+    {
+      "album": {
+        "name": "Akhro Noor",
+        "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 211636,
+      "name": "Wo Wo",
+      "url": "https://open.spotify.com/track/4DOXUf71PoUQmF2IeCgJqw"
+    },
+    {
+      "album": {
+        "name": "Ya Wa3dy",
+        "url": "https://open.spotify.com/album/5O803jOfSfDdSFbztbJ0aQ"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 181864,
+      "name": "Ya Wa3dy",
+      "url": "https://open.spotify.com/track/1DQFgzRwvvWuRFQYsKbE0P"
+    },
+    {
+      "album": {
+        "name": "Ya Wa3dy",
+        "url": "https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 181904,
+      "name": "Ya Wa3dy",
+      "url": "https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9"
+    },
+    {
+      "album": {
+        "name": "YA7",
+        "url": "https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 147919,
+      "name": "YA7",
+      "url": "https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu"
+    },
+    {
+      "album": {
+        "name": "Yaba",
+        "url": "https://open.spotify.com/album/0EPLFiYGRSbu7WdWLYbhig"
+      },
+      "artists": [
+        {
+          "name": "Slyver PV",
+          "url": "https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 181301,
+      "name": "Yaba",
+      "url": "https://open.spotify.com/track/4CzLzmQVOC0jjTacKi5hEU"
+    },
+    {
+      "album": {
+        "name": "YAL BENT YAL AMWAL",
+        "url": "https://open.spotify.com/album/79vYPems7ABKByaaJ0yAz4"
+      },
+      "artists": [
+        {
+          "name": "Khaled Rossia",
+          "url": "https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 186214,
+      "name": "YAL BENT YAL AMWAL",
+      "url": "https://open.spotify.com/track/4FhiS0mcyUsUlmErYI3Wus"
+    },
+    {
+      "album": {
+        "name": "Ya Kahera",
+        "url": "https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 196806,
+      "name": "YAZMEELY",
+      "url": "https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 132071,
+      "name": "Yom Gdeed",
+      "url": "https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E"
+    },
+    {
+      "album": {
+        "name": "\u0634\u064a\u0627\u0637\u064a\u0646",
+        "url": "https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 203591,
+      "name": "\u0627\u062d\u0646\u0627 \u0643\u062f\u0647",
+      "url": "https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa"
+    },
+    {
+      "album": {
+        "name": "\u0627\u063a\u0646\u064a\u0629 \u0627\u0642\u0648\u0649 \u0645\u064a\u0643\u0633 \u0645\u0646 \u0648\u064a",
+        "url": "https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB"
+      },
+      "artists": [
+        {
+          "name": "Telecom Egypt",
+          "url": "https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v"
+        },
+        {
+          "name": "Ahmed Mekky",
+          "url": "https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 190615,
+      "name": "\u0627\u063a\u0646\u064a\u0629 \u0627\u0642\u0648\u0649 \u0645\u064a\u0643\u0633 \u0645\u0646 \u0648\u064a",
+      "url": "https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0628\u062e\u062a",
+        "url": "https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 206112,
+      "name": "\u0627\u0644\u0628\u062e\u062a",
+      "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0636\u0627\u0639\u062a",
+        "url": "https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 209993,
+      "name": "\u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0636\u0627\u0639\u062a",
+      "url": "https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062e\u0644\u0637\u0647 - El Khalta",
+        "url": "https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju"
+      },
+      "artists": [
+        {
+          "name": "3ab3az",
+          "url": "https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132889,
+      "name": "\u0627\u0644\u062e\u0644\u0637\u0647 - El Khalta",
+      "url": "https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u064a\u0647",
+        "url": "https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218718,
+      "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u064a\u0647",
+      "url": "https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+        "url": "https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+      "url": "https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0637\u0644",
+        "url": "https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX"
+      },
+      "artists": [
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        },
+        {
+          "name": "Lil baba",
+          "url": "https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 207002,
+      "name": "\u0628\u0637\u0644",
+      "url": "https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 183783,
+      "name": "\u0628\u0637\u0644 \u0639\u0627\u0644\u0645",
+      "url": "https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+        "url": "https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191673,
+      "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+      "url": "https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+        "url": "https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 191673,
+      "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+      "url": "https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0648\u063a\u0627\u062a\u064a",
+        "url": "https://open.spotify.com/album/4DpbKWBZKyvuSKDL33ija7"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 154106,
+      "name": "\u0628\u0648\u063a\u0627\u062a\u064a",
+      "url": "https://open.spotify.com/track/7hyO6hAXbu7tRjx78lsR2D"
+    },
+    {
+      "album": {
+        "name": "\u0628\u064a\u0646 \u0646\u0627\u0631\u064a\u0646",
+        "url": "https://open.spotify.com/album/1B1mU89o7V3VqhFvmR7vn8"
+      },
+      "artists": [
+        {
+          "name": "Aida el Ayoubi",
+          "url": "https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 232527,
+      "name": "\u0628\u064a\u0646 \u0646\u0627\u0631\u064a\u0646",
+      "url": "https://open.spotify.com/track/6SbP8Z2e9mUfUv1dfNWnat"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 166227,
+      "name": "\u062a\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4"
+    },
+    {
+      "album": {
+        "name": "\u062c\u0648\u0627\u0631\u062f\u064a\u0648\u0644\u0627",
+        "url": "https://open.spotify.com/album/2LWrVbPtdckEKzkHzyouoc"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 139279,
+      "name": "\u062c\u0648\u0627\u0631\u062f\u064a\u0648\u0644\u0627",
+      "url": "https://open.spotify.com/track/265EaF8gBPOsbvZKqi0LDv"
+    },
+    {
+      "album": {
+        "name": "\u062c\u064a\u0632\u0629",
+        "url": "https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ"
+      },
+      "artists": [
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 178064,
+      "name": "\u062c\u064a\u0632\u0629",
+      "url": "https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 157000,
+      "name": "\u062d\u062f\u0648\u062a\u0647 \u0627\u0644\u0645\u0627\u0646\u0649",
+      "url": "https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0627\u0644\u0635\u0629 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        },
+        {
+          "name": "Mello",
+          "url": "https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 203833,
+      "name": "\u062e\u0627\u0644\u0635\u0629 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
+        "url": "https://open.spotify.com/album/1NfFVrdOU9l6xHvNRG8Zw0"
+      },
+      "artists": [
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 182063,
+      "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
+      "url": "https://open.spotify.com/track/0UEVzjzh4cdVdseez14q1G"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
+        "url": "https://open.spotify.com/album/7mo4jctLOQgaxuuC3PVkCU"
+      },
+      "artists": [
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 182063,
+      "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
+      "url": "https://open.spotify.com/track/6B2ZBGIwT28egK3PAZN3Sx"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 197250,
+      "name": "\u0633\u062d\u0645\u062f",
+      "url": "https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt"
+    },
+    {
+      "album": {
+        "name": "\u0633\u062e\u0646\u062a",
+        "url": "https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Ismail Nosrat",
+          "url": "https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "\u0633\u062e\u0646\u062a",
+      "url": "https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t"
+    },
+    {
+      "album": {
+        "name": "\u0635\u062d \u0635\u062d \u0644\u0644\u0643\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/6JJjjiKFYr7fUOCBOZGODr"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 189714,
+      "name": "\u0635\u062d \u0635\u062d \u0644\u0644\u0643\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0631\u0641\u0629",
+        "url": "https://open.spotify.com/album/4EXcT2v8Vy1zUpBwjMF39Y"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 161519,
+      "name": "\u0639\u0631\u0641\u0629",
+      "url": "https://open.spotify.com/track/7KPk6KMHIlPO31D8Ku39vP"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0631\u0641\u0629",
+        "url": "https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 161519,
+      "name": "\u0639\u0631\u0641\u0629",
+      "url": "https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0633\u0627\u0641",
+        "url": "https://open.spotify.com/album/2peaPoRtPE3UtRMUTCdMOW"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 168013,
+      "name": "\u0639\u0633\u0627\u0641",
+      "url": "https://open.spotify.com/track/4rmGLKTCLKNVvc6a4WFKOd"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631",
+        "url": "https://open.spotify.com/album/7oT3KutU3W3hLFp1kHdSQ8"
+      },
+      "artists": [
+        {
+          "name": "SFerroe",
+          "url": "https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW"
+        },
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 87954,
+      "name": "\u0639\u0637\u0634\u0627\u0646 \u0648\u0628\u0633\u062a\u0646\u0649 \u062a\u063a\u064a\u064a\u0631",
+      "url": "https://open.spotify.com/track/1rbwwRQqDe3hBAoFUqwpFu"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0646\u062f \u0628\u0639\u0646\u062f",
+        "url": "https://open.spotify.com/album/20LuZCEAFfT8DQ06MxGSdF"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 154303,
+      "name": "\u0639\u0646\u062f \u0628\u0639\u0646\u062f",
+      "url": "https://open.spotify.com/track/13p4ETF99JwFFY8yNyWjgI"
+    },
+    {
+      "album": {
+        "name": "\u0634\u064a\u0627\u0637\u064a\u0646",
+        "url": "https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3"
+      },
+      "artists": [
+        {
+          "name": "FL EX",
+          "url": "https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 116687,
+      "name": "\u063a\u0627\u063a\u0629",
+      "url": "https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX"
+    },
+    {
+      "album": {
+        "name": "\u0641\u0627\u0636\u064a\u0629",
+        "url": "https://open.spotify.com/album/0wEYC1Z9lZ2RG72mC3xzzr"
+      },
+      "artists": [
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 170273,
+      "name": "\u0641\u0627\u0636\u064a\u0629",
+      "url": "https://open.spotify.com/track/4y5CyUdrD89uY6rNwuR7Ra"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0648\u0644\u0648\u0648",
+        "url": "https://open.spotify.com/album/42GsU84UOKjhCdccI6MLku"
+      },
+      "artists": [
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 132000,
+      "name": "\u0642\u0648\u0644\u0648\u0648",
+      "url": "https://open.spotify.com/track/6nqQeu7flmyBXJRe8qdgja"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0628\u062a\u0646",
+        "url": "https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Rafiek",
+          "url": "https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 178321,
+      "name": "\u0643\u0627\u0628\u062a\u0646",
+      "url": "https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0628\u062a\u0646",
+        "url": "https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Rafiek",
+          "url": "https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 178321,
+      "name": "\u0643\u0627\u0628\u062a\u0646",
+      "url": "https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a",
+        "url": "https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 196000,
+      "name": "\u0643\u0644\u0645\u0647 \u0642\u0628\u0644 \u0645\u0627 \u0623\u0645\u0648\u062a",
+      "url": "https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
+        "url": "https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 189099,
+      "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
+      "url": "https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
+        "url": "https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 189099,
+      "name": "\u0645\u062a\u062c\u0644\u0648\u0646\u0634",
+      "url": "https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0631\u0632\u0645\u0646",
+        "url": "https://open.spotify.com/album/3FL28N3jiv212RwqZlB5gO"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 175200,
+      "name": "\u0645\u0631\u0632\u0645\u0646",
+      "url": "https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+        "url": "https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Rafiek",
+          "url": "https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 181132,
+      "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+      "url": "https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+        "url": "https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Rafiek",
+          "url": "https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 181132,
+      "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+      "url": "https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0641\u064a\u0634 \u0645\u0627\u0646\u0639",
+        "url": "https://open.spotify.com/album/6OVfW5ln6vTI1reXFHaiGd"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 220068,
+      "name": "\u0645\u0641\u064a\u0634 \u0645\u0627\u0646\u0639",
+      "url": "https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u0648\u0642",
+        "url": "https://open.spotify.com/album/2V77iWvLY9oxgpgi01bCRG"
+      },
+      "artists": [
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-25",
+      "duration_ms": 174885,
+      "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u0648\u0642",
+      "url": "https://open.spotify.com/track/0xKWVC12CELTtXQ2misRoC"
+    },
+    {
+      "album": {
+        "name": "\u0645\u064a\u0646 \u064a\u062a\u062d\u062f\u0649",
+        "url": "https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm"
+      },
+      "artists": [
+        {
+          "name": "SFerroe",
+          "url": "https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Tasneem El Aidy",
+          "url": "https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx"
+        },
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 128104,
+      "name": "\u0645\u064a\u0646 \u064a\u062a\u062d\u062f\u0649",
+      "url": "https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T"
+    },
+    {
+      "album": {
+        "name": "\u0622\u0645\u0644",
+        "url": "https://open.spotify.com/album/2kjRdr3nzgOGPPWQctC91A"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 153182,
+      "name": "\u0646\u0631\u062c\u0633\u0647",
+      "url": "https://open.spotify.com/track/0RpasZfuIcTzJURLIoQr8u"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 234000,
+      "name": "\u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0645\u0644\u064a\u0648\u0646",
+      "url": "https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr"
+    },
+    {
+      "album": {
+        "name": "\u0648\u062f\u0648",
+        "url": "https://open.spotify.com/album/5eHO358gOBVasJ6U6Qtlno"
+      },
+      "artists": [
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 173714,
+      "name": "\u0648\u062f\u0648",
+      "url": "https://open.spotify.com/track/2nM65NRVtWRHRz69gUHJ09"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW"
 }

@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 171481,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/264EQ3efdfDChq4PjuywR7"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": "2024-01-08",
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 149853,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
@@ -4504,7 +4504,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-17",
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
@@ -5039,6 +5039,32 @@
     },
     {
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/150WjuATWqqdVxLeWQrlGV"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 215000,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2E9bJ7vsFylaYwLwf6dH4f"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -5206,6 +5232,24 @@
       "duration_ms": 176560,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166979,
+      "name": "DASH",
+      "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
     },
     {
       "album": {
@@ -7944,7 +7988,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 171160,
       "name": "For Us",
       "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
@@ -9599,6 +9643,28 @@
     },
     {
       "album": {
+        "name": "High Note",
+        "url": "https://open.spotify.com/album/2GzRfuJoyGNEbIYpbYT4pM"
+      },
+      "artists": [
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        },
+        {
+          "name": "Code G",
+          "url": "https://open.spotify.com/artist/39hzvvkLOg7HDWgWPkdPcD"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241104,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/3RoP3fJWHDXKhxDJaknv4n"
+    },
+    {
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
       },
@@ -9958,7 +10024,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-16",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -13065,6 +13131,28 @@
     },
     {
       "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4GbcWTiggWeyywhWIAIqNb"
+      },
+      "artists": [
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        },
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219032,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/4sVC4dgJWVc9PrKKdH6gZe"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
       },
@@ -13098,6 +13186,24 @@
       "duration_ms": 197173,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
+    },
+    {
+      "album": {
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
     },
     {
       "album": {
@@ -13206,7 +13312,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 215040,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0yfQBmmOIVqiwhV5u10EhN"
@@ -13564,6 +13670,24 @@
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "album": {
@@ -14846,7 +14970,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 230813,
       "name": "My Starry Love",
       "url": "https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc"
@@ -15274,7 +15398,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 172280,
       "name": "Nest",
       "url": "https://open.spotify.com/track/05STjz8kmPBUebu3uu5sO0"
@@ -15346,7 +15470,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-16",
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
@@ -16990,7 +17114,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 146684,
       "name": "Please Don't Change (feat. DJ Snake)",
       "url": "https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ"
@@ -21410,7 +21534,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
@@ -24675,6 +24799,24 @@
     },
     {
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -24766,7 +24908,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-15",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"

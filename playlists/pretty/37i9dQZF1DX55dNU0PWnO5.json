@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 565786,
+  "num_followers": 565263,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODAwY2Q2N2ZiYzRhMzYxNzIyMTRmZWIyMDcwNDI1YWIyNGJhMWNj",
+  "snapshot_id": "MCxhNjIyZGJlYmIxNDY0MWEyMzUwYjlhOWFiODEyZjEzY2U3YmUwOTJi",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "I Sing To Find Peace Of Mind (feat. Simbad)",
+        "url": "https://open.spotify.com/album/7vdnIZtiWu3SpdP5pC6hpz"
+      },
+      "artists": [
+        {
+          "name": "LEFTO EARLY BIRD",
+          "url": "https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj"
+        },
+        {
+          "name": "Simbad",
+          "url": "https://open.spotify.com/artist/7i0E2ILBOdsvqmrX7shhJE"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "I Sing To Find Peace Of Mind (feat. Simbad)",
+      "url": "https://open.spotify.com/track/2kZWWWMqFKYuYY6ilPS5Ag"
+    },
     {
       "added_at": "2023-12-08 00:10:00",
       "album": {
@@ -65,10 +85,10 @@
       "url": "https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7"
     },
     {
-      "added_at": "2023-12-01 05:01:00",
+      "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "White Out",
-        "url": "https://open.spotify.com/album/2F0W8v3yo93XOmFSG40CDj"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5"
       },
       "artists": [
         {
@@ -76,9 +96,9 @@
           "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
         }
       ],
-      "duration_ms": 168413,
-      "name": "White Out",
-      "url": "https://open.spotify.com/track/4YZ9cfpQajbJksSLynprVr"
+      "duration_ms": 179680,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -1883,22 +1903,6 @@
       "duration_ms": 296727,
       "name": "Elias",
       "url": "https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "RED PILL",
-        "url": "https://open.spotify.com/album/1aqoGWInaXRSQrc9Daxrtm"
-      },
-      "artists": [
-        {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
-        }
-      ],
-      "duration_ms": 161495,
-      "name": "RED PILL",
-      "url": "https://open.spotify.com/track/2XFuWi1l0V7tTQsfXWPotg"
     },
     {
       "added_at": "2022-07-08 04:02:00",

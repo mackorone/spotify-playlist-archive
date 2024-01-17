@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Hear the world in new ways with music from National Geographic’s Incredible Animal Journeys, Wild Life, Secrets of the Elephants, A Small Light, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,428 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

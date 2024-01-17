@@ -1,200 +1,1039 @@
 {
-  "2023-06-18": 14104,
-  "2023-06-19": 14118,
-  "2023-06-20": 14124,
-  "2023-06-21": 14128,
-  "2023-06-22": 14133,
-  "2023-06-23": 14140,
-  "2023-06-24": 14155,
-  "2023-06-25": 14167,
-  "2023-06-26": 14170,
-  "2023-06-27": 14178,
-  "2023-06-28": 14188,
-  "2023-06-29": 14198,
-  "2023-06-30": 14201,
-  "2023-07-01": 14220,
-  "2023-07-02": 14220,
-  "2023-07-03": 14228,
-  "2023-07-04": 14233,
-  "2023-07-05": 14241,
-  "2023-07-06": 14256,
-  "2023-07-07": 14256,
-  "2023-07-08": 14256,
-  "2023-07-09": 14270,
-  "2023-07-10": 14279,
-  "2023-07-11": 14284,
-  "2023-07-12": 14287,
-  "2023-07-13": 14287,
-  "2023-07-14": 14302,
-  "2023-07-15": 14308,
-  "2023-07-16": 14318,
-  "2023-07-17": 14324,
-  "2023-07-18": 14325,
-  "2023-07-19": 14329,
-  "2023-07-20": 14329,
-  "2023-07-21": 14344,
-  "2023-07-22": 14354,
-  "2023-07-23": 14359,
-  "2023-07-24": 14365,
-  "2023-07-25": 14364,
-  "2023-07-26": 14373,
-  "2023-07-27": 14378,
-  "2023-07-28": 14378,
-  "2023-07-29": 14393,
-  "2023-07-30": 14393,
-  "2023-07-31": 14411,
-  "2023-08-01": 14419,
-  "2023-08-02": 14427,
-  "2023-08-03": 14434,
-  "2023-08-04": 14441,
-  "2023-08-05": 14445,
-  "2023-08-06": 14466,
-  "2023-08-07": 14466,
-  "2023-08-08": 14470,
-  "2023-08-09": 14476,
-  "2023-08-10": 14482,
-  "2023-08-11": 14493,
-  "2023-08-12": 14493,
-  "2023-08-13": 14493,
-  "2023-08-14": 14493,
-  "2023-08-15": 14493,
-  "2023-08-16": 14493,
-  "2023-08-17": 14493,
-  "2023-08-18": 14493,
-  "2023-08-19": 14493,
-  "2023-08-20": 14554,
-  "2023-08-21": 14554,
-  "2023-08-22": 14568,
-  "2023-08-23": 14568,
-  "2023-08-24": 14568,
-  "2023-08-25": 14568,
-  "2023-08-26": 14606,
-  "2023-08-27": 14606,
-  "2023-08-28": 14624,
-  "2023-08-29": 14624,
-  "2023-08-30": 14624,
-  "2023-08-31": 14641,
-  "2023-09-01": 14647,
-  "2023-09-02": 14647,
-  "2023-09-03": 14647,
-  "2023-09-04": 14647,
-  "2023-09-05": 14647,
-  "2023-09-06": 14647,
-  "2023-09-07": 14647,
-  "2023-09-08": 14647,
-  "2023-09-09": 14647,
-  "2023-09-10": 14647,
-  "2023-09-11": 14647,
-  "2023-09-12": 14647,
-  "2023-09-13": 14647,
-  "2023-09-14": 14647,
-  "2023-09-15": 14647,
-  "2023-09-16": 14647,
-  "2023-09-17": 14647,
-  "2023-09-18": 14647,
-  "2023-09-19": 14647,
-  "2023-09-20": 14647,
-  "2023-09-21": 14647,
-  "2023-09-22": 14786,
-  "2023-09-23": 14786,
-  "2023-09-24": 14786,
-  "2023-09-25": 14786,
-  "2023-09-26": 14816,
-  "2023-09-27": 14816,
-  "2023-09-28": 14816,
-  "2023-09-29": 14816,
-  "2023-09-30": 14816,
-  "2023-10-01": 14816,
-  "2023-10-02": 14816,
-  "2023-10-03": 14816,
-  "2023-10-04": 14816,
-  "2023-10-05": 14816,
-  "2023-10-06": 14816,
-  "2023-10-07": 14816,
-  "2023-10-08": 14816,
-  "2023-10-09": 14816,
-  "2023-10-10": 14816,
-  "2023-10-11": 14816,
-  "2023-10-12": 14816,
-  "2023-10-13": 14816,
-  "2023-10-14": 14816,
-  "2023-10-15": 14816,
-  "2023-10-16": 14816,
-  "2023-10-17": 14816,
-  "2023-10-18": 14816,
-  "2023-10-19": 14816,
-  "2023-10-20": 14816,
-  "2023-10-21": 14816,
-  "2023-10-22": 14816,
-  "2023-10-23": 14816,
-  "2023-10-24": 14816,
-  "2023-10-25": 14816,
-  "2023-10-26": 14816,
-  "2023-10-27": 14816,
-  "2023-10-28": 14816,
-  "2023-10-29": 14816,
-  "2023-10-30": 14816,
-  "2023-10-31": 14816,
-  "2023-11-01": 14816,
-  "2023-11-02": 14816,
-  "2023-11-03": 14816,
-  "2023-11-04": 14816,
-  "2023-11-05": 14816,
-  "2023-11-06": 14816,
-  "2023-11-07": 14816,
-  "2023-11-08": 14816,
-  "2023-11-09": 14816,
-  "2023-11-10": 14816,
-  "2023-11-11": 15081,
-  "2023-11-12": 15081,
-  "2023-11-13": 15081,
-  "2023-11-14": 15081,
-  "2023-11-15": 15081,
-  "2023-11-16": 15081,
-  "2023-11-17": 15081,
-  "2023-11-18": 15081,
-  "2023-11-19": 15081,
-  "2023-11-20": 15081,
-  "2023-11-21": 15081,
-  "2023-11-22": 15081,
-  "2023-11-23": 15081,
-  "2023-11-24": 15081,
-  "2023-11-25": 15081,
-  "2023-11-26": 15081,
-  "2023-11-27": 15081,
-  "2023-11-28": 15081,
-  "2023-11-29": 15081,
-  "2023-11-30": 15081,
-  "2023-12-01": 15081,
-  "2023-12-02": 15081,
-  "2023-12-03": 15081,
-  "2023-12-04": 15081,
-  "2023-12-05": 15081,
-  "2023-12-06": 15081,
-  "2023-12-07": 15081,
-  "2023-12-08": 15081,
-  "2023-12-09": 15081,
-  "2023-12-10": 15081,
-  "2023-12-11": 15081,
-  "2023-12-12": 15081,
-  "2023-12-13": 15081,
-  "2023-12-14": 15238,
-  "2023-12-15": 15242,
-  "2023-12-16": 15246,
-  "2023-12-17": 15250,
-  "2023-12-18": 15257,
-  "2023-12-19": 15252,
-  "2023-12-20": 15255,
-  "2023-12-21": 15261,
-  "2023-12-22": 15260,
-  "2023-12-23": 15267,
-  "2023-12-24": 15274,
-  "2023-12-25": 15277,
-  "2023-12-26": 15280,
-  "2023-12-27": 15288,
-  "2023-12-30": 15300,
-  "2023-12-31": 15309,
-  "2024-01-01": 15321,
-  "2024-01-02": 15324,
-  "2024-01-03": 15324
+  "2024-01-17": 15373,
+  "date_first_scraped": "2023-06-18",
+  "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
+  "name": "This Is Lee Kernaghan",
+  "tracks": [
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254800,
+      "name": "'Cause I'm Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
+    },
+    {
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "Australian Boy - Remastered 2017",
+      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223046,
+      "name": "Backroad Nation",
+      "url": "https://open.spotify.com/track/6xnIlmkLTaMmd3UYkPqTgm"
+    },
+    {
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Baptise the Ute - Remastered 2017",
+      "url": "https://open.spotify.com/track/5X39AOvrxpRVwZNrBacYOo"
+    },
+    {
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+    },
+    {
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Boys from the Bush - Remastered 2017",
+      "url": "https://open.spotify.com/track/5tUpijqpFAlj13CGpuWn5s"
+    },
+    {
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Mitch Tambo",
+          "url": "https://open.spotify.com/artist/4lZDozMc6MjVYp3DVzaT0W"
+        },
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251463,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
+    },
+    {
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Country Crowd - Remastered 2017",
+      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
+    },
+    {
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/1pOL91067XJL27UpqiBPZ3"
+      },
+      "artists": [
+        {
+          "name": "Catherine Britt",
+          "url": "https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 191713,
+      "name": "Country Fan",
+      "url": "https://open.spotify.com/track/6fnli47Ghohf4zCgqKrLDN"
+    },
+    {
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "Country Girls - Remastered 2017",
+      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
+    },
+    {
+      "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Cowgirls Do - Remastered 2017",
+      "url": "https://open.spotify.com/track/7iMhxEoTkfsdGJeJv9xG3b"
+    },
+    {
+      "album": {
+        "name": "Rules of the Road",
+        "url": "https://open.spotify.com/album/4sVCJ30mcb8ZoyAL8sANyW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Cunnamulla Feller - Remastered 2017",
+      "url": "https://open.spotify.com/track/1wmhQHJmtJIQmwPAOdMrJi"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182308,
+      "name": "Damn Good Mates",
+      "url": "https://open.spotify.com/track/2NrD87AMr1AuvjqM1R1Zjq"
+    },
+    {
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Dirt - Remastered 2017",
+      "url": "https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161875,
+      "name": "Dumb Things",
+      "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
+    },
+    {
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+    },
+    {
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Flying with the King",
+      "url": "https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm"
+    },
+    {
+      "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Goondiwindi Moon - Remastered 2017",
+      "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
+    },
+    {
+      "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "Hat Town - Remastered 2017",
+      "url": "https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd"
+    },
+    {
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "High Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/0xunCI8zIlFHAWY4Qe0NOy"
+    },
+    {
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "I Was Only 19 (A Walk in the Green Light)",
+      "url": "https://open.spotify.com/track/1HjIAAxirr5WL30SSjQOC9"
+    },
+    {
+      "album": {
+        "name": "Rhythm of the Highway (Tamworth Edition)",
+        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
+      },
+      "artists": [
+        {
+          "name": "Travis Sinclair",
+          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "I'm from the Country",
+      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
+    },
+    {
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "Keep on Truckin'",
+      "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "John Schumann",
+          "url": "https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 252920,
+      "name": "Kokoda - Only the Brave Ones",
+      "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
+    },
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Leave Him in the Longyard - Remastered 2017",
+      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169433,
+      "name": "Let There Be Cowgirls",
+      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
+    },
+    {
+      "album": {
+        "name": "Beautiful Noise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zxVQlfTfrEFNmQTHYjF1X"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210938,
+      "name": "Lights on the Hill",
+      "url": "https://open.spotify.com/track/0Odp6NXvX6Rhq6tiRJbkCl"
+    },
+    {
+      "album": {
+        "name": "The New Bush",
+        "url": "https://open.spotify.com/album/77sAOoJegr423FoQPpLJ4M"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 186280,
+      "name": "Listen to the Radio - Remastered 2017",
+      "url": "https://open.spotify.com/track/0FqHsYbCL25ppr7PyHajbL"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Bush",
+        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220973,
+      "name": "Mate - Remastered 2017",
+      "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Planet Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
+    },
+    {
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Scrubbashin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/6q6IpgtoCx2jqQD1KawjBM"
+    },
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "She's My Ute - Remastered 2017",
+      "url": "https://open.spotify.com/track/5Qi0HBS6QTQGr7RgEb4iDe"
+    },
+    {
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Skinny Dippin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
+    },
+    {
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Something in the Water - Remastered 2017",
+      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
+    },
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Southern Son - Remastered 2017",
+      "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/3FkCjDVyQwqMH98pfjhXWR"
+        },
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/1CeNCdxmvF9Q0KGiTYhRuQ"
+        },
+        {
+          "name": "Jon Stevens",
+          "url": "https://open.spotify.com/artist/2e5VLxRuciU8ubPypnJnj0"
+        },
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/5TktQungcqCi8oRA1L2jPr"
+        },
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233293,
+      "name": "Spirit of the Anzacs",
+      "url": "https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Bush",
+        "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Steve Forde",
+          "url": "https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Spirit of the Bush - Remastered 2017",
+      "url": "https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h"
+    },
+    {
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "Texas Qld 4385 - Remastered 2017",
+      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
+    },
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "The Outback Club - Remastered 2017",
+      "url": "https://open.spotify.com/track/2c5kAeXAQmgb97baBdtLqI"
+    },
+    {
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "The Way It Is - Remastered 2017",
+      "url": "https://open.spotify.com/track/5zt0PxcezbJTGgcZwzMz0A"
+    },
+    {
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "This Cowboy's Hat - Remastered 2017",
+      "url": "https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK"
+    },
+    {
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254173,
+      "name": "Three Chain Road - Remastered 2017",
+      "url": "https://open.spotify.com/track/1G84cb9RM32J4EdOcS7w6F"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "Till It Ends",
+      "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
+    },
+    {
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
+    },
+    {
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226446,
+      "name": "Walk a Country Mile",
+      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "We'll Take Beersheba",
+      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171523,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
+    },
+    {
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "When the First Bombs Fell",
+      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
+    },
+    {
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Robby X",
+          "url": "https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185345,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4prP6L"
 }

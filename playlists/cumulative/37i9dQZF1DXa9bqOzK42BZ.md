@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD\_XhBS2mDgi67XVbyhA">Phina</a>
 
-133 songs - 12 hr 42 min
+135 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,8 @@
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |
 | [Sisi Ni Wale \(feat\. Freshow Band\) \- choir Version](https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Freshow Band](https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA) | [Sisi Ni Wale \(feat\. Freshow Band\) \[choir Version\]](https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4) | 2:32 | 2023-12-15 |  |
+| [SON RISE \(Level Up\)](https://open.spotify.com/track/52oPQzJWO1V5MB3pdOENLC) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT), [Lesynem Junior](https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU), [Lilywhite](https://open.spotify.com/artist/3XZRThtQlKOeXND2c522BQ), [Tcj Muzik](https://open.spotify.com/artist/5MiZBWIk8ZhNpcQuoOx8Ax), [Lyrical Vybe](https://open.spotify.com/artist/5SF62tZ9pXscOFItLsJOsT), [Pam Gach](https://open.spotify.com/artist/0bwKLBq7iCqHYVyosOg6ek), [Thedjpeshie](https://open.spotify.com/artist/4CCHS8fgYLeaVscZ9BpP2X) | [SON RISE \(Level Up\)](https://open.spotify.com/album/4N5X7080eF7gCSssRRXjCO) | 5:34 | 2024-01-05 |  |
+| [SON RISE \(Servant\)](https://open.spotify.com/track/0MKmPgpBppNrg7gWEyVctc) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT), [Dj Wysh](https://open.spotify.com/artist/1qYDiWgGFO0QFBFmPGLkaE), [Tha Remnant](https://open.spotify.com/artist/6ZriY1R5iOdmPzmyfY5xIO), [Dr Fisher](https://open.spotify.com/artist/5xp8fdEMFG56NVEl0lNmet), [Jayliste](https://open.spotify.com/artist/78JDCx7zuFYrSwL0ee6yc2), [P149](https://open.spotify.com/artist/39Bep31xzRT3773OmqgaqO) | [SON RISE \(Servant\)](https://open.spotify.com/album/5lH4hKAykg2Ng6APuSmPtJ) | 6:10 | 2024-01-12 |  |
 | [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-21 |  |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 |  |
 | [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-11-24 |  |

@@ -1,735 +1,1115 @@
 {
-  "2021-12-25": 24,
-  "2021-12-26": 24,
-  "2021-12-27": 24,
-  "2021-12-28": 24,
-  "2021-12-29": 24,
-  "2021-12-30": 24,
-  "2021-12-31": 24,
-  "2022-01-01": 24,
-  "2022-01-02": 24,
-  "2022-01-03": 24,
-  "2022-01-04": 24,
-  "2022-01-05": 24,
-  "2022-01-06": 24,
-  "2022-01-07": 24,
-  "2022-01-08": 24,
-  "2022-01-09": 24,
-  "2022-01-10": 24,
-  "2022-01-11": 24,
-  "2022-01-12": 24,
-  "2022-01-13": 24,
-  "2022-01-14": 24,
-  "2022-01-15": 24,
-  "2022-01-16": 24,
-  "2022-01-17": 24,
-  "2022-01-18": 24,
-  "2022-01-19": 24,
-  "2022-01-20": 24,
-  "2022-01-21": 24,
-  "2022-01-22": 24,
-  "2022-01-23": 24,
-  "2022-01-24": 24,
-  "2022-01-25": 24,
-  "2022-01-26": 24,
-  "2022-01-27": 24,
-  "2022-01-28": 24,
-  "2022-01-29": 24,
-  "2022-01-30": 24,
-  "2022-01-31": 24,
-  "2022-02-01": 24,
-  "2022-02-02": 24,
-  "2022-02-03": 24,
-  "2022-02-04": 24,
-  "2022-02-05": 24,
-  "2022-02-06": 24,
-  "2022-02-07": 24,
-  "2022-02-08": 24,
-  "2022-02-09": 24,
-  "2022-02-10": 24,
-  "2022-02-11": 24,
-  "2022-02-12": 24,
-  "2022-02-13": 24,
-  "2022-02-14": 24,
-  "2022-02-15": 24,
-  "2022-02-16": 24,
-  "2022-02-17": 24,
-  "2022-02-18": 24,
-  "2022-02-19": 24,
-  "2022-02-20": 24,
-  "2022-02-21": 24,
-  "2022-02-22": 24,
-  "2022-02-23": 24,
-  "2022-02-24": 24,
-  "2022-02-25": 24,
-  "2022-02-26": 24,
-  "2022-02-27": 24,
-  "2022-02-28": 24,
-  "2022-03-01": 24,
-  "2022-03-02": 24,
-  "2022-03-03": 24,
-  "2022-03-04": 24,
-  "2022-03-05": 24,
-  "2022-03-06": 24,
-  "2022-03-07": 24,
-  "2022-03-08": 24,
-  "2022-03-09": 24,
-  "2022-03-10": 24,
-  "2022-03-11": 24,
-  "2022-03-12": 24,
-  "2022-03-13": 24,
-  "2022-03-14": 24,
-  "2022-03-15": 24,
-  "2022-03-16": 24,
-  "2022-03-17": 24,
-  "2022-03-18": 24,
-  "2022-03-19": 24,
-  "2022-03-20": 24,
-  "2022-03-21": 24,
-  "2022-03-22": 24,
-  "2022-03-23": 24,
-  "2022-03-24": 24,
-  "2022-03-25": 24,
-  "2022-03-26": 24,
-  "2022-03-27": 24,
-  "2022-03-28": 24,
-  "2022-03-30": 24,
-  "2022-03-31": 24,
-  "2022-04-01": 24,
-  "2022-04-02": 24,
-  "2022-04-03": 24,
-  "2022-04-04": 24,
-  "2022-04-05": 24,
-  "2022-04-06": 24,
-  "2022-04-07": 24,
-  "2022-04-08": 24,
-  "2022-04-09": 24,
-  "2022-04-10": 24,
-  "2022-04-11": 24,
-  "2022-04-12": 24,
-  "2022-04-13": 24,
-  "2022-04-14": 24,
-  "2022-04-15": 24,
-  "2022-04-16": 24,
-  "2022-04-17": 24,
-  "2022-04-18": 24,
-  "2022-04-19": 24,
-  "2022-04-20": 24,
-  "2022-04-21": 24,
-  "2022-04-22": 24,
-  "2022-04-23": 24,
-  "2022-04-24": 24,
-  "2022-04-25": 24,
-  "2022-04-26": 24,
-  "2022-04-27": 24,
-  "2022-04-28": 24,
-  "2022-04-29": 24,
-  "2022-04-30": 24,
-  "2022-05-01": 24,
-  "2022-05-02": 24,
-  "2022-05-03": 24,
-  "2022-05-04": 24,
-  "2022-05-05": 24,
-  "2022-05-06": 24,
-  "2022-05-07": 24,
-  "2022-05-08": 24,
-  "2022-05-09": 24,
-  "2022-05-10": 24,
-  "2022-05-11": 24,
-  "2022-05-12": 24,
-  "2022-05-13": 24,
-  "2022-05-14": 24,
-  "2022-05-15": 24,
-  "2022-05-16": 24,
-  "2022-05-17": 24,
-  "2022-05-18": 24,
-  "2022-05-19": 24,
-  "2022-05-20": 24,
-  "2022-05-21": 24,
-  "2022-05-22": 24,
-  "2022-05-23": 24,
-  "2022-05-24": 24,
-  "2022-05-25": 24,
-  "2022-05-26": 24,
-  "2022-05-27": 24,
-  "2022-05-28": 24,
-  "2022-05-29": 24,
-  "2022-05-30": 24,
-  "2022-05-31": 24,
-  "2022-06-01": 24,
-  "2022-06-02": 24,
-  "2022-06-03": 24,
-  "2022-06-04": 24,
-  "2022-06-05": 24,
-  "2022-06-06": 24,
-  "2022-06-07": 24,
-  "2022-06-08": 24,
-  "2022-06-09": 24,
-  "2022-06-10": 24,
-  "2022-06-11": 24,
-  "2022-06-12": 24,
-  "2022-06-13": 24,
-  "2022-06-14": 24,
-  "2022-06-15": 24,
-  "2022-06-16": 24,
-  "2022-06-17": 24,
-  "2022-06-18": 24,
-  "2022-06-19": 24,
-  "2022-06-20": 24,
-  "2022-06-21": 24,
-  "2022-06-22": 24,
-  "2022-06-23": 24,
-  "2022-06-24": 24,
-  "2022-06-25": 24,
-  "2022-06-26": 24,
-  "2022-06-27": 24,
-  "2022-06-28": 24,
-  "2022-06-29": 24,
-  "2022-06-30": 24,
-  "2022-07-01": 24,
-  "2022-07-02": 24,
-  "2022-07-03": 24,
-  "2022-07-04": 24,
-  "2022-07-05": 24,
-  "2022-07-06": 24,
-  "2022-07-07": 24,
-  "2022-07-08": 24,
-  "2022-07-09": 24,
-  "2022-07-10": 24,
-  "2022-07-11": 24,
-  "2022-07-12": 24,
-  "2022-07-13": 24,
-  "2022-07-14": 24,
-  "2022-07-15": 24,
-  "2022-07-16": 24,
-  "2022-07-17": 24,
-  "2022-07-18": 24,
-  "2022-07-19": 24,
-  "2022-07-20": 24,
-  "2022-07-21": 24,
-  "2022-07-22": 24,
-  "2022-07-23": 24,
-  "2022-07-24": 24,
-  "2022-07-25": 24,
-  "2022-07-26": 24,
-  "2022-07-27": 24,
-  "2022-07-28": 24,
-  "2022-07-29": 24,
-  "2022-07-30": 24,
-  "2022-07-31": 24,
-  "2022-08-01": 24,
-  "2022-08-02": 24,
-  "2022-08-03": 24,
-  "2022-08-04": 24,
-  "2022-08-05": 24,
-  "2022-08-06": 24,
-  "2022-08-07": 24,
-  "2022-08-08": 24,
-  "2022-08-09": 24,
-  "2022-08-10": 24,
-  "2022-08-11": 24,
-  "2022-08-12": 24,
-  "2022-08-13": 24,
-  "2022-08-14": 24,
-  "2022-08-15": 24,
-  "2022-08-16": 24,
-  "2022-08-17": 24,
-  "2022-08-18": 24,
-  "2022-08-19": 24,
-  "2022-08-20": 24,
-  "2022-08-21": 24,
-  "2022-08-22": 24,
-  "2022-08-23": 24,
-  "2022-08-24": 24,
-  "2022-08-25": 24,
-  "2022-08-26": 24,
-  "2022-08-27": 24,
-  "2022-08-28": 24,
-  "2022-08-29": 24,
-  "2022-08-30": 24,
-  "2022-08-31": 24,
-  "2022-09-01": 23,
-  "2022-09-02": 23,
-  "2022-09-03": 23,
-  "2022-09-04": 23,
-  "2022-09-05": 23,
-  "2022-09-06": 23,
-  "2022-09-07": 23,
-  "2022-09-09": 23,
-  "2022-09-10": 23,
-  "2022-09-11": 23,
-  "2022-09-12": 23,
-  "2022-09-13": 23,
-  "2022-09-15": 23,
-  "2022-09-16": 23,
-  "2022-09-17": 23,
-  "2022-09-18": 23,
-  "2022-09-19": 23,
-  "2022-09-20": 23,
-  "2022-09-21": 23,
-  "2022-09-22": 23,
-  "2022-09-23": 23,
-  "2022-09-24": 23,
-  "2022-09-25": 23,
-  "2022-09-26": 23,
-  "2022-09-27": 23,
-  "2022-09-28": 23,
-  "2022-09-29": 23,
-  "2022-09-30": 23,
-  "2022-10-01": 23,
-  "2022-10-02": 23,
-  "2022-10-03": 23,
-  "2022-10-04": 23,
-  "2022-10-05": 23,
-  "2022-10-06": 23,
-  "2022-10-07": 23,
-  "2022-10-08": 23,
-  "2022-10-09": 23,
-  "2022-10-10": 23,
-  "2022-10-11": 23,
-  "2022-10-12": 23,
-  "2022-10-13": 23,
-  "2022-10-14": 23,
-  "2022-10-15": 23,
-  "2022-10-16": 23,
-  "2022-10-17": 23,
-  "2022-10-18": 23,
-  "2022-10-19": 23,
-  "2022-10-20": 23,
-  "2022-10-21": 23,
-  "2022-10-22": 23,
-  "2022-10-23": 23,
-  "2022-10-24": 23,
-  "2022-10-25": 23,
-  "2022-10-26": 23,
-  "2022-10-27": 23,
-  "2022-10-28": 23,
-  "2022-10-29": 23,
-  "2022-10-30": 23,
-  "2022-10-31": 23,
-  "2022-11-01": 23,
-  "2022-11-02": 23,
-  "2022-11-03": 23,
-  "2022-11-04": 23,
-  "2022-11-05": 23,
-  "2022-11-06": 23,
-  "2022-11-07": 23,
-  "2022-11-08": 24,
-  "2022-11-09": 23,
-  "2022-11-10": 25,
-  "2022-11-11": 25,
-  "2022-11-12": 25,
-  "2022-11-13": 25,
-  "2022-11-14": 25,
-  "2022-11-15": 25,
-  "2022-11-16": 25,
-  "2022-11-17": 25,
-  "2022-11-18": 25,
-  "2022-11-19": 25,
-  "2022-11-20": 25,
-  "2022-11-21": 25,
-  "2022-11-22": 25,
-  "2022-11-23": 25,
-  "2022-11-24": 25,
-  "2022-11-25": 25,
-  "2022-11-26": 24,
-  "2022-11-27": 24,
-  "2022-11-28": 24,
-  "2022-11-29": 24,
-  "2022-11-30": 24,
-  "2022-12-01": 24,
-  "2022-12-02": 24,
-  "2022-12-03": 24,
-  "2022-12-04": 24,
-  "2022-12-05": 24,
-  "2022-12-06": 24,
-  "2022-12-07": 24,
-  "2022-12-08": 24,
-  "2022-12-09": 24,
-  "2022-12-10": 24,
-  "2022-12-11": 24,
-  "2022-12-12": 24,
-  "2022-12-13": 24,
-  "2022-12-14": 24,
-  "2022-12-15": 24,
-  "2022-12-16": 24,
-  "2022-12-17": 24,
-  "2022-12-18": 24,
-  "2022-12-19": 24,
-  "2022-12-20": 24,
-  "2022-12-21": 24,
-  "2022-12-22": 24,
-  "2022-12-24": 24,
-  "2022-12-25": 23,
-  "2022-12-26": 23,
-  "2022-12-27": 23,
-  "2022-12-28": 23,
-  "2022-12-29": 23,
-  "2022-12-30": 23,
-  "2022-12-31": 23,
-  "2023-01-01": 23,
-  "2023-01-02": 23,
-  "2023-01-03": 23,
-  "2023-01-04": 23,
-  "2023-01-05": 23,
-  "2023-01-06": 23,
-  "2023-01-07": 23,
-  "2023-01-08": 23,
-  "2023-01-09": 23,
-  "2023-01-10": 23,
-  "2023-01-11": 23,
-  "2023-01-12": 23,
-  "2023-01-13": 23,
-  "2023-01-14": 23,
-  "2023-01-15": 23,
-  "2023-01-16": 23,
-  "2023-01-17": 23,
-  "2023-01-18": 23,
-  "2023-01-19": 23,
-  "2023-01-20": 23,
-  "2023-01-21": 23,
-  "2023-01-22": 23,
-  "2023-01-23": 23,
-  "2023-01-24": 22,
-  "2023-01-25": 22,
-  "2023-01-26": 22,
-  "2023-01-27": 22,
-  "2023-01-28": 22,
-  "2023-01-29": 22,
-  "2023-01-30": 22,
-  "2023-01-31": 22,
-  "2023-02-01": 22,
-  "2023-02-02": 22,
-  "2023-02-03": 22,
-  "2023-02-04": 22,
-  "2023-02-05": 22,
-  "2023-02-06": 22,
-  "2023-02-07": 22,
-  "2023-02-08": 22,
-  "2023-02-09": 22,
-  "2023-02-10": 22,
-  "2023-02-11": 22,
-  "2023-02-12": 21,
-  "2023-02-13": 21,
-  "2023-02-14": 21,
-  "2023-02-15": 21,
-  "2023-02-16": 21,
-  "2023-02-17": 21,
-  "2023-02-18": 21,
-  "2023-02-19": 21,
-  "2023-02-20": 21,
-  "2023-02-21": 21,
-  "2023-02-22": 21,
-  "2023-02-23": 21,
-  "2023-02-24": 21,
-  "2023-02-25": 21,
-  "2023-02-26": 21,
-  "2023-02-27": 21,
-  "2023-02-28": 21,
-  "2023-03-01": 21,
-  "2023-03-02": 21,
-  "2023-03-03": 21,
-  "2023-03-04": 21,
-  "2023-03-05": 21,
-  "2023-03-06": 21,
-  "2023-03-07": 21,
-  "2023-03-08": 21,
-  "2023-03-09": 21,
-  "2023-03-10": 21,
-  "2023-03-11": 21,
-  "2023-03-12": 21,
-  "2023-03-13": 21,
-  "2023-03-14": 21,
-  "2023-03-15": 21,
-  "2023-03-16": 21,
-  "2023-03-17": 21,
-  "2023-03-18": 21,
-  "2023-03-19": 21,
-  "2023-03-20": 21,
-  "2023-03-21": 21,
-  "2023-03-22": 21,
-  "2023-03-23": 21,
-  "2023-03-24": 21,
-  "2023-03-25": 21,
-  "2023-03-26": 21,
-  "2023-03-27": 21,
-  "2023-03-28": 21,
-  "2023-03-29": 21,
-  "2023-03-30": 21,
-  "2023-03-31": 21,
-  "2023-04-01": 21,
-  "2023-04-02": 21,
-  "2023-04-03": 21,
-  "2023-04-04": 21,
-  "2023-04-05": 21,
-  "2023-04-06": 21,
-  "2023-04-07": 21,
-  "2023-04-09": 21,
-  "2023-04-10": 21,
-  "2023-04-11": 21,
-  "2023-04-12": 21,
-  "2023-04-13": 21,
-  "2023-04-14": 21,
-  "2023-04-15": 21,
-  "2023-04-16": 21,
-  "2023-04-17": 21,
-  "2023-04-18": 21,
-  "2023-04-19": 21,
-  "2023-04-20": 21,
-  "2023-04-21": 21,
-  "2023-04-22": 21,
-  "2023-04-23": 21,
-  "2023-04-24": 21,
-  "2023-04-25": 21,
-  "2023-04-26": 21,
-  "2023-04-27": 21,
-  "2023-04-28": 21,
-  "2023-04-29": 21,
-  "2023-04-30": 21,
-  "2023-05-01": 21,
-  "2023-05-02": 21,
-  "2023-05-03": 21,
-  "2023-05-04": 21,
-  "2023-05-05": 21,
-  "2023-05-06": 21,
-  "2023-05-07": 21,
-  "2023-05-08": 21,
-  "2023-05-09": 21,
-  "2023-05-10": 21,
-  "2023-05-11": 21,
-  "2023-05-12": 21,
-  "2023-05-13": 21,
-  "2023-05-14": 21,
-  "2023-05-15": 21,
-  "2023-05-16": 21,
-  "2023-05-17": 21,
-  "2023-05-18": 21,
-  "2023-05-19": 21,
-  "2023-05-20": 21,
-  "2023-05-21": 21,
-  "2023-05-22": 21,
-  "2023-05-23": 21,
-  "2023-05-24": 21,
-  "2023-05-25": 21,
-  "2023-05-26": 21,
-  "2023-05-27": 21,
-  "2023-05-28": 21,
-  "2023-05-29": 21,
-  "2023-05-30": 21,
-  "2023-05-31": 21,
-  "2023-06-01": 21,
-  "2023-06-02": 21,
-  "2023-06-03": 21,
-  "2023-06-04": 21,
-  "2023-06-05": 21,
-  "2023-06-06": 21,
-  "2023-06-07": 21,
-  "2023-06-08": 21,
-  "2023-06-09": 21,
-  "2023-06-10": 21,
-  "2023-06-11": 21,
-  "2023-06-12": 21,
-  "2023-06-13": 21,
-  "2023-06-14": 21,
-  "2023-06-15": 21,
-  "2023-06-16": 21,
-  "2023-06-17": 21,
-  "2023-06-18": 21,
-  "2023-06-19": 21,
-  "2023-06-20": 21,
-  "2023-06-21": 21,
-  "2023-06-22": 21,
-  "2023-06-23": 21,
-  "2023-06-24": 21,
-  "2023-06-25": 21,
-  "2023-06-26": 21,
-  "2023-06-27": 22,
-  "2023-06-28": 22,
-  "2023-06-29": 22,
-  "2023-06-30": 22,
-  "2023-07-01": 22,
-  "2023-07-02": 22,
-  "2023-07-03": 22,
-  "2023-07-04": 22,
-  "2023-07-05": 22,
-  "2023-07-06": 22,
-  "2023-07-07": 22,
-  "2023-07-08": 22,
-  "2023-07-09": 21,
-  "2023-07-10": 21,
-  "2023-07-11": 21,
-  "2023-07-12": 21,
-  "2023-07-13": 21,
-  "2023-07-14": 21,
-  "2023-07-15": 21,
-  "2023-07-16": 21,
-  "2023-07-17": 21,
-  "2023-07-18": 21,
-  "2023-07-19": 21,
-  "2023-07-20": 21,
-  "2023-07-21": 21,
-  "2023-07-22": 21,
-  "2023-07-23": 21,
-  "2023-07-24": 21,
-  "2023-07-25": 21,
-  "2023-07-26": 21,
-  "2023-07-27": 21,
-  "2023-07-28": 21,
-  "2023-07-29": 21,
-  "2023-07-30": 21,
-  "2023-07-31": 21,
-  "2023-08-01": 21,
-  "2023-08-02": 21,
-  "2023-08-03": 21,
-  "2023-08-04": 21,
-  "2023-08-05": 21,
-  "2023-08-06": 21,
-  "2023-08-07": 21,
-  "2023-08-08": 21,
-  "2023-08-09": 21,
-  "2023-08-10": 21,
-  "2023-08-11": 21,
-  "2023-08-12": 21,
-  "2023-08-13": 21,
-  "2023-08-14": 21,
-  "2023-08-15": 21,
-  "2023-08-16": 21,
-  "2023-08-17": 21,
-  "2023-08-18": 21,
-  "2023-08-19": 21,
-  "2023-08-20": 21,
-  "2023-08-21": 21,
-  "2023-08-22": 21,
-  "2023-08-23": 21,
-  "2023-08-24": 21,
-  "2023-08-25": 21,
-  "2023-08-26": 21,
-  "2023-08-27": 21,
-  "2023-08-28": 21,
-  "2023-08-29": 21,
-  "2023-08-30": 21,
-  "2023-08-31": 21,
-  "2023-09-01": 21,
-  "2023-09-02": 21,
-  "2023-09-03": 21,
-  "2023-09-04": 21,
-  "2023-09-05": 21,
-  "2023-09-06": 21,
-  "2023-09-07": 21,
-  "2023-09-08": 21,
-  "2023-09-09": 21,
-  "2023-09-10": 21,
-  "2023-09-11": 21,
-  "2023-09-12": 21,
-  "2023-09-13": 21,
-  "2023-09-14": 21,
-  "2023-09-15": 21,
-  "2023-09-16": 21,
-  "2023-09-17": 21,
-  "2023-09-18": 21,
-  "2023-09-19": 21,
-  "2023-09-20": 21,
-  "2023-09-21": 21,
-  "2023-09-22": 21,
-  "2023-09-23": 21,
-  "2023-09-24": 21,
-  "2023-09-25": 21,
-  "2023-09-26": 21,
-  "2023-09-27": 21,
-  "2023-09-28": 21,
-  "2023-09-29": 21,
-  "2023-09-30": 21,
-  "2023-10-01": 21,
-  "2023-10-02": 21,
-  "2023-10-03": 21,
-  "2023-10-04": 21,
-  "2023-10-05": 21,
-  "2023-10-06": 21,
-  "2023-10-07": 21,
-  "2023-10-08": 21,
-  "2023-10-09": 21,
-  "2023-10-10": 21,
-  "2023-10-11": 21,
-  "2023-10-12": 21,
-  "2023-10-13": 21,
-  "2023-10-14": 21,
-  "2023-10-15": 21,
-  "2023-10-16": 21,
-  "2023-10-17": 21,
-  "2023-10-18": 21,
-  "2023-10-19": 21,
-  "2023-10-20": 21,
-  "2023-10-21": 21,
-  "2023-10-22": 21,
-  "2023-10-23": 21,
-  "2023-10-24": 21,
-  "2023-10-25": 21,
-  "2023-10-26": 21,
-  "2023-10-27": 21,
-  "2023-10-28": 21,
-  "2023-10-29": 21,
-  "2023-10-30": 21,
-  "2023-10-31": 21,
-  "2023-11-01": 21,
-  "2023-11-02": 21,
-  "2023-11-03": 21,
-  "2023-11-04": 21,
-  "2023-11-05": 21,
-  "2023-11-06": 21,
-  "2023-11-07": 21,
-  "2023-11-08": 21,
-  "2023-11-09": 21,
-  "2023-11-10": 21,
-  "2023-11-11": 21,
-  "2023-11-12": 21,
-  "2023-11-13": 21,
-  "2023-11-14": 21,
-  "2023-11-15": 21,
-  "2023-11-16": 21,
-  "2023-11-17": 21,
-  "2023-11-18": 21,
-  "2023-11-19": 21,
-  "2023-11-20": 21,
-  "2023-11-21": 21,
-  "2023-11-22": 21,
-  "2023-11-23": 21,
-  "2023-11-24": 21,
-  "2023-11-25": 21,
-  "2023-11-26": 21,
-  "2023-11-27": 21,
-  "2023-11-28": 21,
-  "2023-11-29": 21,
-  "2023-11-30": 21,
-  "2023-12-01": 21,
-  "2023-12-02": 21,
-  "2023-12-03": 21,
-  "2023-12-04": 21,
-  "2023-12-05": 21,
-  "2023-12-06": 21,
-  "2023-12-07": 21,
-  "2023-12-08": 21,
-  "2023-12-09": 21,
-  "2023-12-10": 21,
-  "2023-12-11": 21,
-  "2023-12-12": 21,
-  "2023-12-13": 21,
-  "2023-12-14": 21,
-  "2023-12-15": 21,
-  "2023-12-16": 21,
-  "2023-12-17": 21,
-  "2023-12-18": 21,
-  "2023-12-19": 21,
-  "2023-12-20": 21,
-  "2023-12-21": 21,
-  "2023-12-22": 21,
-  "2023-12-23": 21,
-  "2023-12-24": 21,
-  "2023-12-25": 21,
-  "2023-12-26": 21,
-  "2023-12-27": 21,
-  "2023-12-30": 21,
-  "2023-12-31": 21,
-  "2024-01-01": 21,
-  "2024-01-02": 21,
-  "2024-01-03": 21
+  "2024-01-17": 21,
+  "date_first_scraped": "2021-12-21",
+  "description": "Storsj\u00f6yran \u00e4r Sveriges \u00e4ldsta stadsfestival, grundad 1963. Sommarens festival arrangeras 27 - 28 juli i \u00d6stersund. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spottily:app:tunigo\">Tunigo</a>. ",
+  "name": "Storsj\u00f6yran 2012",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Tender Trap",
+        "url": "https://open.spotify.com/album/4NzMlGiKpsKfhhPl4nJOmx"
+      },
+      "artists": [
+        {
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217653,
+      "name": "A Tender Trap",
+      "url": "https://open.spotify.com/track/0USH38353ARXKwD9vSBIi2"
+    },
+    {
+      "album": {
+        "name": "A Master Of Ceremonies",
+        "url": "https://open.spotify.com/album/0QNytpsFx3rr7bBP2oenh5"
+      },
+      "artists": [
+        {
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "A Young Summer's Youth",
+      "url": "https://open.spotify.com/track/2FNEXXWKxSyZGbViyfQ19w"
+    },
+    {
+      "album": {
+        "name": "April Fool",
+        "url": "https://open.spotify.com/album/4Nhtp0iSdvBp5mTJaAYFoz"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "April Fool",
+      "url": "https://open.spotify.com/track/7b9FS2uvbKobrnM2RyJDsB"
+    },
+    {
+      "album": {
+        "name": "Outside Society",
+        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
+    },
+    {
+      "album": {
+        "name": "Me and Simon",
+        "url": "https://open.spotify.com/album/5miuVRm6nR172VxxQSDdkb"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Bjur\u00f6 klubb",
+      "url": "https://open.spotify.com/track/5ah8bwmT61dQPS6Yz5Ty6j"
+    },
+    {
+      "album": {
+        "name": "Blood To Play",
+        "url": "https://open.spotify.com/album/0XU5PqUqVqlOBrzhR0m7Kd"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169253,
+      "name": "Blood To Play",
+      "url": "https://open.spotify.com/track/4c4QaN8EfLpFmJVGjsJKSr"
+    },
+    {
+      "album": {
+        "name": "Bullets",
+        "url": "https://open.spotify.com/album/62YfOSgu9MDGVOuWcSm2Bn"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Bullets",
+      "url": "https://open.spotify.com/track/28FmVrFsjZsNjynjFteDA6"
+    },
+    {
+      "album": {
+        "name": "M\u00e4nsklig v\u00e4rme",
+        "url": "https://open.spotify.com/album/0snLl5NOtBxWegGE6BHJ4Y"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Caf\u00e9 de Flore",
+      "url": "https://open.spotify.com/track/4vvc389wVMEtlRBb4ebtVU"
+    },
+    {
+      "album": {
+        "name": "Markusevangeliet (Bonus Version)",
+        "url": "https://open.spotify.com/album/0RYYBzTGauaISnYOqHjnUi"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Det \u00e4r ett idogt jobb att driva ungdomen ut ur sin kropp",
+      "url": "https://open.spotify.com/track/4tQzK0vGoYOiMB3CTEJxkf"
+    },
+    {
+      "album": {
+        "name": "V\u00e5re Demoner",
+        "url": "https://open.spotify.com/album/6CSTOAMHphZGon9leEyN9c"
+      },
+      "artists": [
+        {
+          "name": "Kaizers Orchestra",
+          "url": "https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296773,
+      "name": "Die Polizei",
+      "url": "https://open.spotify.com/track/6miKVfoSMfMJ0GtAARyy7v"
+    },
+    {
+      "album": {
+        "name": "Svart Flagg",
+        "url": "https://open.spotify.com/album/4V1lliNkivN2XPOU5k7m8P"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ekelund & St\u00e5let",
+          "url": "https://open.spotify.com/artist/2mABGGsYRv5X5Kbf8WvgLH"
+        },
+        {
+          "name": "Magnus Ekelund",
+          "url": "https://open.spotify.com/artist/0XvPjVbMf3QLOWrPNitOwF"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234825,
+      "name": "Din jobbigaste v\u00e4n",
+      "url": "https://open.spotify.com/track/5dsiAOxJ8qxtArB9uYGArQ"
+    },
+    {
+      "album": {
+        "name": "Uppochnerv\u00e4nda kors",
+        "url": "https://open.spotify.com/album/0QDQ0pKAk8NOLmtLuZA8ij"
+      },
+      "artists": [
+        {
+          "name": "Knivderby",
+          "url": "https://open.spotify.com/artist/1cPDnJPKDJxPCwpnz2PA5G"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82440,
+      "name": "Du tror vi faller men vi reser oss \u00f6ver",
+      "url": "https://open.spotify.com/track/3dNlIPSAst3P16ENIndqUL"
+    },
+    {
+      "album": {
+        "name": "Inte L\u00e4ngre Fiender",
+        "url": "https://open.spotify.com/album/2dPDRvG79EGFLQj1sNUlJv"
+      },
+      "artists": [
+        {
+          "name": "Aleks",
+          "url": "https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262280,
+      "name": "En Dr\u00f6m",
+      "url": "https://open.spotify.com/track/3gSxeZs5b7V2p6Mttoi5g2"
+    },
+    {
+      "album": {
+        "name": "S\u00f6ndermarken",
+        "url": "https://open.spotify.com/album/3lkjNFt9emmcRyjfW1ng68"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/0NVEBSIb895m8mY8mxvOYs"
+    },
+    {
+      "album": {
+        "name": "Flytta p\u00e5 dej (Du m\u00e5ste flytta p\u00e5 dig)",
+        "url": "https://open.spotify.com/album/47lFmDpyhb07H1sxN3WBy0"
+      },
+      "artists": [
+        {
+          "name": "Alina Devecerski",
+          "url": "https://open.spotify.com/artist/4HpFXZsVoerMLtLudMJJkb"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Flytta p\u00e5 dej",
+      "url": "https://open.spotify.com/track/3JO3ywp8UufIiKkszm7DkE"
+    },
+    {
+      "album": {
+        "name": "Glasvegas",
+        "url": "https://open.spotify.com/album/3UQhYMOGKYLoFyHIG4EeH4"
+      },
+      "artists": [
+        {
+          "name": "Glasvegas",
+          "url": "https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Go Square Go",
+      "url": "https://open.spotify.com/track/4HfLEcRw1HAQkUiYXhd0xa"
+    },
+    {
+      "album": {
+        "name": "Jag \u00f6nskar dig",
+        "url": "https://open.spotify.com/album/3XapSFLy2msE9M9NrJFXyK"
+      },
+      "artists": [
+        {
+          "name": "Tant Strul",
+          "url": "https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Hela mitt guld",
+      "url": "https://open.spotify.com/track/1UYEJ0Yoeppoz0SrUjclMy"
+    },
+    {
+      "album": {
+        "name": "The Black and White album",
+        "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Hey Little World",
+      "url": "https://open.spotify.com/track/7IwngDZWipg9xwTc0flTpE"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/5yzgPH0kne4QcuYt4Mkn9R"
+      },
+      "artists": [
+        {
+          "name": "Eldkvarn",
+          "url": "https://open.spotify.com/artist/6TLywjDgcz3M1rTrX7ht5k"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169626,
+      "name": "Huvudet h\u00f6gt",
+      "url": "https://open.spotify.com/track/3OryrGGKlJBK09IVgEOY6d"
+    },
+    {
+      "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/2NdsxJipz3wJv1nRcWrRNa"
+      },
+      "artists": [
+        {
+          "name": "Loney Dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Ignorant Boy, Beatiful Girl",
+      "url": "https://open.spotify.com/track/3tKZnG0UASS8zftOrFIH95"
+    },
+    {
+      "album": {
+        "name": "Islands & Shores",
+        "url": "https://open.spotify.com/album/0CcemDxth7sipgWhMj3TvZ"
+      },
+      "artists": [
+        {
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339906,
+      "name": "Islands & Shores",
+      "url": "https://open.spotify.com/track/1lp0bwGX8D31vUybJSiCm8"
+    },
+    {
+      "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "Ja just du ska vara gla",
+      "url": "https://open.spotify.com/track/10von6Bw97oT6C5dqW2pUs"
+    },
+    {
+      "album": {
+        "name": "Jag ska fly tills jag hittar hem",
+        "url": "https://open.spotify.com/album/0YsDhf0CgIPTMh6Njwc7w6"
+      },
+      "artists": [
+        {
+          "name": "V\u00e5nna Inget",
+          "url": "https://open.spotify.com/artist/2tTog0elDQJuJg66zHtwN4"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Jag ska fly tills jag hittar hem",
+      "url": "https://open.spotify.com/track/73dAY8D9QRy1UKE0tWG2xs"
+    },
+    {
+      "album": {
+        "name": "Jane Doe",
+        "url": "https://open.spotify.com/album/4tgifXvbe7FSZtxKXkHmvm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Jane Doe",
+      "url": "https://open.spotify.com/track/6YNn1VuFAt8q5kisMIqg92"
+    },
+    {
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/3B4QGsos9iNRUSLuceNZzV"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192028,
+      "name": "Ju Mer Dom Spottar",
+      "url": "https://open.spotify.com/track/6809ESRbIU87qbXCeR80xA"
+    },
+    {
+      "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Kung f\u00f6r en dag",
+      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
+    },
+    {
+      "album": {
+        "name": "Ett fel n\u00e4rmare r\u00e4tt",
+        "url": "https://open.spotify.com/album/1dRSyjLs2uPXQmWBXO1PdO"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Ledig",
+      "url": "https://open.spotify.com/track/53LUzoFOYkDsWhxscBO8Vx"
+    },
+    {
+      "album": {
+        "name": "Long Time",
+        "url": "https://open.spotify.com/album/1cG4FkacGFOCdpNx3UUKvS"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Long Time feat. Andreas Moe - Radio Edit",
+      "url": "https://open.spotify.com/track/6LgvIxMG9ykPRNEJ8WlseG"
+    },
+    {
+      "album": {
+        "name": "L\u00e5nga N\u00e4tter",
+        "url": "https://open.spotify.com/album/357nQyU7dtZmBxRckZR1Vh"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "L\u00e5nga n\u00e4tter",
+      "url": "https://open.spotify.com/track/2Vp9Ox6vewOZBdCL97gitE"
+    },
+    {
+      "album": {
+        "name": "Made Of",
+        "url": "https://open.spotify.com/album/0BhhZyShekRJzf3yqxti9L"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Made Of - Radio Edit",
+      "url": "https://open.spotify.com/track/0BxuyVxyAab1f5xL2yuhbm"
+    },
+    {
+      "album": {
+        "name": "Mellow",
+        "url": "https://open.spotify.com/album/2GObxzCZy5MlOCoSzFCUVD"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Mellow - Radio Edit",
+      "url": "https://open.spotify.com/track/73PeEBRLps6oF10ZLc4ien"
+    },
+    {
+      "album": {
+        "name": "The Flowerpot Sessions (2CD Set)",
+        "url": "https://open.spotify.com/album/7muTP6JiEEFlMtzgrjs1XY"
+      },
+      "artists": [
+        {
+          "name": "Marcus Foster",
+          "url": "https://open.spotify.com/artist/0jBTGpTyxmDIEBwtjXgEOC"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329400,
+      "name": "Movement - Live At The Flowerpot, Kentish Town, July 2010",
+      "url": "https://open.spotify.com/track/1vgGwWl2dW5YMOUfGdwQ7s"
+    },
+    {
+      "album": {
+        "name": "Nights Like This EP",
+        "url": "https://open.spotify.com/album/5iKMwyNulmMULK7QamTqwt"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/1G6Whx5c9eN9oWtZcmtciP"
+    },
+    {
+      "album": {
+        "name": "Innan jag k\u00e4nde dig",
+        "url": "https://open.spotify.com/album/7aCSH1fnzWjLChB2VHG671"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "N\u00e5t annat \u00e4n det h\u00e4r",
+      "url": "https://open.spotify.com/track/3TfL2ZimF9Bo5adrVzIz1h"
+    },
+    {
+      "album": {
+        "name": "Kvelertak",
+        "url": "https://open.spotify.com/album/08d7MnYYp9OEsQ8GcnMHOn"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270013,
+      "name": "Offernatt",
+      "url": "https://open.spotify.com/track/3sqDGGkmV3MONB3HrU7Y0Z"
+    },
+    {
+      "album": {
+        "name": "Violeta Violeta Volume I",
+        "url": "https://open.spotify.com/album/1AsK1pSUx2TGQo2cvzcbox"
+      },
+      "artists": [
+        {
+          "name": "Kaizers Orchestra",
+          "url": "https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202706,
+      "name": "Philemon Arthur & the Dung",
+      "url": "https://open.spotify.com/track/4BhBLf2T1fvsCMvTYzgZEc"
+    },
+    {
+      "album": {
+        "name": "EUPHORIC /// HEARTBREAK \\\\\\",
+        "url": "https://open.spotify.com/album/6pctRSbyNPGa1mV6q7eoOc"
+      },
+      "artists": [
+        {
+          "name": "Glasvegas",
+          "url": "https://open.spotify.com/artist/478peoEkoKPsTgRiVzkvPl"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "Shine Like Stars",
+      "url": "https://open.spotify.com/track/6KfsaLkaGv0kve2IeTYExZ"
+    },
+    {
+      "album": {
+        "name": "...och stora havet",
+        "url": "https://open.spotify.com/album/6kGjc8k2YvmmZGqspJuRlK"
+      },
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Sk\u00f6ra v\u00e4rld",
+      "url": "https://open.spotify.com/track/4P6HnQGXpsnEWqOSiPavp0"
+    },
+    {
+      "album": {
+        "name": "Slussen 23:15",
+        "url": "https://open.spotify.com/album/3BUjIksUjxF3Fc2Z9VvQzg"
+      },
+      "artists": [
+        {
+          "name": "Fritjof & Pikanen",
+          "url": "https://open.spotify.com/artist/2P1adertYPHMXKgklSns8R"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Slussen 23:15",
+      "url": "https://open.spotify.com/track/76GUOMKAbAnVliU40wM534"
+    },
+    {
+      "album": {
+        "name": "Me and Simon",
+        "url": "https://open.spotify.com/album/5miuVRm6nR172VxxQSDdkb"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259187,
+      "name": "Sn\u00f6",
+      "url": "https://open.spotify.com/track/0RKTDDcdUvulNlDyLaktZB"
+    },
+    {
+      "album": {
+        "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
+        "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285013,
+      "name": "St\u00e4der n\u00e4r jag bl\u00f6der",
+      "url": "https://open.spotify.com/track/2MrCUiiZPKkWNztV6kQAa4"
+    },
+    {
+      "album": {
+        "name": "Jag \u00f6nskar dig",
+        "url": "https://open.spotify.com/album/3XapSFLy2msE9M9NrJFXyK"
+      },
+      "artists": [
+        {
+          "name": "Tant Strul",
+          "url": "https://open.spotify.com/artist/2EUZieXlU07oWuMDi8H3KF"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "Svarta diamant",
+      "url": "https://open.spotify.com/track/2s8olw2w6DxOqRe1YcPFjg"
+    },
+    {
+      "album": {
+        "name": "S\u00f6nder Boulevard",
+        "url": "https://open.spotify.com/album/3G7ZuYTcNynbt3zMOFvXjO"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "S\u00f6nder Boulevard - Edit",
+      "url": "https://open.spotify.com/track/6N76LTXOE73V0sbItb2MQx"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnorna Finns H\u00e4r",
+        "url": "https://open.spotify.com/album/4QOvAfc4y78TN6nTEnPGqH"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220813,
+      "name": "Ta inga order",
+      "url": "https://open.spotify.com/track/3Tyy3ORSBcCdwCPzuzjKfb"
+    },
+    {
+      "album": {
+        "name": "Titta n\u00e4r han dansar",
+        "url": "https://open.spotify.com/album/2xDrWCSDHQY837dQw2vDVm"
+      },
+      "artists": [
+        {
+          "name": "Panda Da Panda",
+          "url": "https://open.spotify.com/artist/5CFHkGrLdtDurzPPIPYze9"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169986,
+      "name": "Titta n\u00e4r han dansar",
+      "url": "https://open.spotify.com/track/4Sx7onAF6vT8PHVA7Xwmbi"
+    },
+    {
+      "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/3JYZyuyjz9GDtNMfcE4kRi"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2013-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "To a Poet",
+      "url": "https://open.spotify.com/track/6J17iv0a47LhUKcbAkoBV3"
+    },
+    {
+      "album": {
+        "name": "Somebody Outside",
+        "url": "https://open.spotify.com/album/65jMLW7QaxhGTKvmDo3L14"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166893,
+      "name": "To Be Gone",
+      "url": "https://open.spotify.com/track/6FuXlnPocnI8yzMbRHuKHV"
+    },
+    {
+      "album": {
+        "name": "Le D\u00e9b\u00e2cle Compilation 1",
+        "url": "https://open.spotify.com/album/6lUBzDFqVG8hprnzcUcwGu"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Top Rated",
+      "url": "https://open.spotify.com/track/5m0nO7DGgStfXIQ3LXzDFs"
+    },
+    {
+      "album": {
+        "name": "Troll",
+        "url": "https://open.spotify.com/album/6PYHg7xcz0M2bZEml9cRba"
+      },
+      "artists": [
+        {
+          "name": "Qulinez",
+          "url": "https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366376,
+      "name": "Troll - Original Mix",
+      "url": "https://open.spotify.com/track/1NY8DKH5VnnBBmytMeJdTQ"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f6jan du hatar",
+        "url": "https://open.spotify.com/album/2PKQICrbi1lN8aTCyxXQbQ"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209080,
+      "name": "Tr\u00f6jan du hatar",
+      "url": "https://open.spotify.com/track/17qZsun9q3L8ceIa3kPz4A"
+    },
+    {
+      "album": {
+        "name": "The Megaphonic Thrift",
+        "url": "https://open.spotify.com/album/3F2x0aI7CcLdSSRWrJvqbW"
+      },
+      "artists": [
+        {
+          "name": "The Megaphonic Thrift",
+          "url": "https://open.spotify.com/artist/1zBQLP6saP3rFpTxJ6tiXH"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181025,
+      "name": "Tune Your Mind",
+      "url": "https://open.spotify.com/track/7CtlQ2tiJV2aVCZrEdDkSd"
+    },
+    {
+      "album": {
+        "name": "Med solen i \u00f6gonen",
+        "url": "https://open.spotify.com/album/18QW3rouH4E7srIj7PkwCL"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326333,
+      "name": "Tvivel",
+      "url": "https://open.spotify.com/track/3mClGFGgF0C5M2XS5Shbnn"
+    },
+    {
+      "album": {
+        "name": "...och stora havet",
+        "url": "https://open.spotify.com/album/6kGjc8k2YvmmZGqspJuRlK"
+      },
+      "artists": [
+        {
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "T\u00e5g",
+      "url": "https://open.spotify.com/track/4U8QAiTjj3cfmrXfflbcNo"
+    },
+    {
+      "album": {
+        "name": "De ber\u00f6mdas aveny",
+        "url": "https://open.spotify.com/album/2t8jAkW4kPaxlCp0sVNRMU"
+      },
+      "artists": [
+        {
+          "name": "Eldkvarn",
+          "url": "https://open.spotify.com/artist/6TLywjDgcz3M1rTrX7ht5k"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268213,
+      "name": "T\u00e5rar fr\u00e5n en clown",
+      "url": "https://open.spotify.com/track/660XC3yisTYvIzcHaLsCMd"
+    },
+    {
+      "album": {
+        "name": "Ultro (feat. Fred Lilla)",
+        "url": "https://open.spotify.com/album/2x7XnPLs7eUc8n91l7Vcqc"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        },
+        {
+          "name": "Fred Lilla",
+          "url": "https://open.spotify.com/artist/2YDMcyY6kHwBXg08KT66qy"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412493,
+      "name": "Ultro (feat. Fred Lilla)",
+      "url": "https://open.spotify.com/track/4jxy77JsHWjWcFm1Y3Uhzd"
+    },
+    {
+      "album": {
+        "name": "Kvelertak",
+        "url": "https://open.spotify.com/album/08d7MnYYp9OEsQ8GcnMHOn"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382893,
+      "name": "Utrydd dei Svake",
+      "url": "https://open.spotify.com/track/3c6fWa8BYFpMyyFJs8V3uM"
+    },
+    {
+      "album": {
+        "name": "Ett fel n\u00e4rmare r\u00e4tt",
+        "url": "https://open.spotify.com/album/1dRSyjLs2uPXQmWBXO1PdO"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "Vart jag mig i v\u00e4rlden v\u00e4nder",
+      "url": "https://open.spotify.com/track/7Fruf2e0JApJma17sGX8Xq"
+    },
+    {
+      "album": {
+        "name": "Tr\u00f6jan du hatar",
+        "url": "https://open.spotify.com/album/2PKQICrbi1lN8aTCyxXQbQ"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Vi f\u00f6r Vendetta",
+      "url": "https://open.spotify.com/track/36r1vIeGj9dUfCohNpYlJj"
+    },
+    {
+      "album": {
+        "name": "What Have I Done",
+        "url": "https://open.spotify.com/album/5C5672wS8iOBshPI68TDlP"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "What Have I Done",
+      "url": "https://open.spotify.com/track/3D653cf0WZQgcy2DxyJ8yM"
+    },
+    {
+      "album": {
+        "name": "Damaged Goods",
+        "url": "https://open.spotify.com/album/2HoI2FPbtmGJy0KDfCi2y2"
+      },
+      "artists": [
+        {
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "Who Is Gonna Meet Me",
+      "url": "https://open.spotify.com/track/6hHrkCeVuEeBU0E0qds4oH"
+    },
+    {
+      "album": {
+        "name": "The Black and White album",
+        "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "date_added": "2012-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Won't Be Long",
+      "url": "https://open.spotify.com/track/03GIk20uwlLmxs5getH3Wb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/2XQnLAZo27gz7VGRBl34l9"
 }

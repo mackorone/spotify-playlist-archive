@@ -1,15 +1,31 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 5830,
+  "num_followers": 5860,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDA5NGVkMTdkODZmM2Y3MmExOWQ0NTRmZTFmYjYwYzBkNg==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBkNjgyNGZjNzZmM2NhYjAyZTVlYjYyNDBjOTcyMjY5OA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "Blue And Lonesome - Single Version",
-      "url": "https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -65,10 +65,10 @@
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -76,28 +76,12 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 156506,
-      "name": "The Toddle",
-      "url": "https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8"
+      "duration_ms": 143840,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/3tQULiAweMvxtwadRonAER"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
@@ -113,7 +97,23 @@
       "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Crazy Mixed Up World - Alternate Take",
+      "url": "https://open.spotify.com/track/1mzIGcHiEagCiaLKb4YIvM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
@@ -220,12 +220,28 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+      "duration_ms": 156506,
+      "name": "The Toddle",
+      "url": "https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
@@ -241,23 +257,7 @@
       "url": "https://open.spotify.com/track/3ryMwGsogVwbliTHds0KqO"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
@@ -289,23 +289,7 @@
       "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Crazy Mixed Up World - Alternate Take",
-      "url": "https://open.spotify.com/track/1mzIGcHiEagCiaLKb4YIvM"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Hate To See You Go",
         "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
@@ -321,7 +305,87 @@
       "url": "https://open.spotify.com/track/3FYj59pAO66id6OJagsLyo"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 126253,
+      "name": "Nobody But You - Single Version",
+      "url": "https://open.spotify.com/track/6a0uCkcpkSvqrKzXI7rJwn"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Don't Need No Horse",
+      "url": "https://open.spotify.com/track/44f9KFtJb0tdnqJ7RFBqLN"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
@@ -353,75 +417,7 @@
       "url": "https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Sad Hours",
-      "url": "https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "I Got To Find My Baby",
-      "url": "https://open.spotify.com/track/5LGv5qR3OLizfzWWbEP9le"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
@@ -437,31 +433,7 @@
       "url": "https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "You're the One - Remastered",
-      "url": "https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -485,7 +457,7 @@
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
@@ -501,27 +473,23 @@
       "url": "https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
       "artists": [
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 185266,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO"
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
@@ -537,7 +505,7 @@
       "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -561,7 +529,7 @@
       "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
@@ -572,12 +540,12 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Last Boogie",
-      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
@@ -593,7 +561,7 @@
       "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
@@ -604,12 +572,12 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Come Back Baby",
-      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
+      "duration_ms": 165560,
+      "name": "Shake Dancer",
+      "url": "https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -633,7 +601,23 @@
       "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     },
     {
-      "added_at": "2024-01-02 12:15:53",
+      "added_at": "2024-01-16 12:10:52",
+      "album": {
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Last Boogie",
+      "url": "https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:52",
       "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
@@ -647,74 +631,6 @@
       "duration_ms": 186000,
       "name": "Back In the Alley",
       "url": "https://open.spotify.com/track/3qRGCfSxvQXFBM0kYCsWnd"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        },
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 160186,
-      "name": "Joliet Blues",
-      "url": "https://open.spotify.com/track/28AUjQQLabQ80nRG37TnOF"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Shake Dancer",
-      "url": "https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Driftin'",
-      "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
-    },
-    {
-      "added_at": "2024-01-02 12:15:53",
-      "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 151066,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/5W6QOzg8jRB7L4518phKBP"
     }
   ],
   "unique_name": "This Is Little Walter",

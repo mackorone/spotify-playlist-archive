@@ -1,201 +1,1179 @@
 {
-  "2023-06-17": 339,
-  "2023-06-18": 496,
-  "2023-06-19": 624,
-  "2023-06-20": 695,
-  "2023-06-21": 770,
-  "2023-06-22": 823,
-  "2023-06-23": 903,
-  "2023-06-24": 947,
-  "2023-06-25": 1026,
-  "2023-06-26": 1081,
-  "2023-06-27": 1141,
-  "2023-06-28": 1202,
-  "2023-06-29": 1253,
-  "2023-06-30": 1301,
-  "2023-07-01": 1407,
-  "2023-07-02": 1407,
-  "2023-07-03": 1477,
-  "2023-07-04": 1530,
-  "2023-07-05": 1582,
-  "2023-07-06": 1682,
-  "2023-07-07": 1682,
-  "2023-07-08": 1731,
-  "2023-07-09": 1777,
-  "2023-07-10": 1837,
-  "2023-07-11": 1881,
-  "2023-07-12": 1917,
-  "2023-07-13": 1971,
-  "2023-07-14": 2018,
-  "2023-07-15": 2040,
-  "2023-07-16": 2082,
-  "2023-07-17": 2114,
-  "2023-07-18": 2151,
-  "2023-07-19": 2179,
-  "2023-07-20": 2203,
-  "2023-07-21": 2230,
-  "2023-07-22": 2264,
-  "2023-07-23": 2285,
-  "2023-07-24": 2306,
-  "2023-07-25": 2322,
-  "2023-07-26": 2348,
-  "2023-07-27": 2368,
-  "2023-07-28": 2411,
-  "2023-07-29": 2422,
-  "2023-07-30": 2449,
-  "2023-07-31": 2479,
-  "2023-08-01": 2516,
-  "2023-08-02": 2551,
-  "2023-08-03": 2581,
-  "2023-08-04": 2599,
-  "2023-08-05": 2615,
-  "2023-08-06": 2669,
-  "2023-08-07": 2669,
-  "2023-08-08": 2699,
-  "2023-08-09": 2734,
-  "2023-08-10": 2762,
-  "2023-08-11": 2783,
-  "2023-08-12": 2805,
-  "2023-08-13": 2831,
-  "2023-08-14": 2861,
-  "2023-08-15": 2922,
-  "2023-08-16": 2922,
-  "2023-08-17": 2957,
-  "2023-08-18": 2980,
-  "2023-08-19": 3011,
-  "2023-08-20": 3038,
-  "2023-08-21": 3065,
-  "2023-08-22": 3105,
-  "2023-08-23": 3134,
-  "2023-08-24": 3150,
-  "2023-08-25": 3187,
-  "2023-08-26": 3214,
-  "2023-08-27": 3242,
-  "2023-08-28": 3267,
-  "2023-08-29": 3289,
-  "2023-08-30": 3314,
-  "2023-08-31": 3339,
-  "2023-09-01": 3409,
-  "2023-09-02": 3409,
-  "2023-09-03": 3440,
-  "2023-09-04": 3471,
-  "2023-09-05": 3511,
-  "2023-09-06": 3536,
-  "2023-09-07": 3582,
-  "2023-09-08": 3621,
-  "2023-09-09": 3648,
-  "2023-09-10": 3698,
-  "2023-09-11": 3759,
-  "2023-09-12": 3799,
-  "2023-09-13": 3843,
-  "2023-09-14": 3887,
-  "2023-09-15": 3915,
-  "2023-09-16": 3944,
-  "2023-09-17": 3975,
-  "2023-09-18": 4011,
-  "2023-09-19": 4048,
-  "2023-09-20": 4074,
-  "2023-09-21": 4112,
-  "2023-09-22": 4156,
-  "2023-09-23": 4204,
-  "2023-09-24": 4241,
-  "2023-09-25": 4293,
-  "2023-09-26": 4332,
-  "2023-09-27": 4355,
-  "2023-09-28": 4385,
-  "2023-09-29": 4426,
-  "2023-09-30": 4464,
-  "2023-10-01": 4495,
-  "2023-10-02": 4552,
-  "2023-10-03": 4591,
-  "2023-10-04": 4630,
-  "2023-10-05": 4672,
-  "2023-10-06": 4708,
-  "2023-10-07": 4725,
-  "2023-10-08": 4773,
-  "2023-10-09": 4829,
-  "2023-10-10": 4897,
-  "2023-10-11": 5009,
-  "2023-10-12": 5009,
-  "2023-10-13": 5090,
-  "2023-10-14": 5220,
-  "2023-10-15": 5426,
-  "2023-10-16": 5570,
-  "2023-10-17": 5635,
-  "2023-10-18": 5705,
-  "2023-10-19": 5774,
-  "2023-10-20": 5842,
-  "2023-10-21": 5905,
-  "2023-10-22": 5986,
-  "2023-10-23": 6082,
-  "2023-10-24": 6162,
-  "2023-10-25": 6256,
-  "2023-10-26": 6307,
-  "2023-10-27": 6378,
-  "2023-10-28": 6438,
-  "2023-10-29": 6506,
-  "2023-10-30": 6635,
-  "2023-10-31": 6635,
-  "2023-11-01": 6683,
-  "2023-11-02": 6741,
-  "2023-11-03": 6799,
-  "2023-11-04": 6875,
-  "2023-11-05": 6947,
-  "2023-11-06": 7019,
-  "2023-11-07": 7073,
-  "2023-11-08": 7121,
-  "2023-11-09": 7176,
-  "2023-11-10": 7219,
-  "2023-11-11": 7265,
-  "2023-11-12": 7316,
-  "2023-11-13": 7365,
-  "2023-11-14": 7408,
-  "2023-11-15": 7408,
-  "2023-11-16": 7501,
-  "2023-11-17": 7579,
-  "2023-11-18": 7579,
-  "2023-11-19": 7627,
-  "2023-11-20": 7672,
-  "2023-11-21": 7716,
-  "2023-11-22": 7761,
-  "2023-11-23": 7813,
-  "2023-11-24": 7865,
-  "2023-11-25": 7893,
-  "2023-11-26": 7942,
-  "2023-11-27": 7985,
-  "2023-11-28": 8031,
-  "2023-11-29": 8119,
-  "2023-11-30": 8119,
-  "2023-12-01": 8154,
-  "2023-12-02": 8201,
-  "2023-12-03": 8242,
-  "2023-12-04": 8293,
-  "2023-12-05": 8335,
-  "2023-12-06": 8355,
-  "2023-12-07": 8372,
-  "2023-12-08": 8381,
-  "2023-12-09": 8389,
-  "2023-12-10": 8409,
-  "2023-12-11": 8420,
-  "2023-12-12": 8427,
-  "2023-12-13": 8435,
-  "2023-12-14": 8454,
-  "2023-12-15": 8457,
-  "2023-12-16": 8463,
-  "2023-12-17": 8470,
-  "2023-12-18": 8477,
-  "2023-12-19": 8483,
-  "2023-12-20": 8489,
-  "2023-12-21": 8495,
-  "2023-12-22": 8505,
-  "2023-12-23": 8506,
-  "2023-12-24": 8514,
-  "2023-12-25": 8522,
-  "2023-12-26": 8531,
-  "2023-12-27": 8532,
-  "2023-12-30": 8553,
-  "2023-12-31": 8563,
-  "2024-01-01": 8570,
-  "2024-01-02": 8572,
-  "2024-01-03": 8586
+  "2024-01-17": 8673,
+  "date_first_scraped": "2023-06-17",
+  "description": "The official playlist for\u201d Blue Orchestra\u201d TV\u30a2\u30cb\u30e1\u300e<a href=\"https://aooke-anime.com/\">\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9</a>\u300f\u306b\u767b\u5834\u3059\u308b\u540d\u66f2\u3092\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u963f\u4e45\u4e95\u771f\uff0f\u5c0f\u5b66\u9928\uff0fNHK\u30fbNEP\u30fb\u65e5\u672c\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n",
+  "name": "Blue Orchestra \u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Paganini: 24 Caprices for Solo Violin, Op. 1, MS 25: No. 24 in A Minor",
+        "url": "https://open.spotify.com/album/58H8jUnGxNudttqGewZnPj"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 269753,
+      "name": "24 Caprices for Solo Violin, Op. 1, MS 25: No. 24 in A Minor",
+      "url": "https://open.spotify.com/track/5Dop3VhzsB4OxQPL8LPjgU"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275706,
+      "name": "24 Caprices for Solo Violin, Op. 1, MS 25: No. 24 in A Minor",
+      "url": "https://open.spotify.com/track/1FX7XwLimxdNrGwvVKS0Dl"
+    },
+    {
+      "album": {
+        "name": "Paganini: 24 Capricci",
+        "url": "https://open.spotify.com/album/60kcP5l7qsfGnvolKe5uED"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Shlomo Mintz",
+          "url": "https://open.spotify.com/artist/1tZYCX0p64TtsPv1sGa67y"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 383933,
+      "name": "24 Caprices for Violin, Op. 1: No. 24 in A minor",
+      "url": "https://open.spotify.com/track/1nGQNprvMoRwNM0YelJ6On"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k",
+        "url": "https://open.spotify.com/album/1gVmv1dGiK0bpMHNgxnDWs"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Ayami Ikeba",
+          "url": "https://open.spotify.com/artist/76zESGziPIU4qii4AwG7Ek"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 192146,
+      "name": "8 Humoresques, Op. 101, B. 187: No. 7 Poco Lento e grazioso",
+      "url": "https://open.spotify.com/track/3HSmz1PmRKqhkONFdMvOGT"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u606d\u5b50",
+          "url": "https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310480,
+      "name": "Air on the G String (Version for Violin Solo)",
+      "url": "https://open.spotify.com/track/6ISMzJg3eW5RWMf3Irs6TU"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157546,
+      "name": "Aono & Akine",
+      "url": "https://open.spotify.com/track/5IxhBZklW9cMTdAKeApHFK"
+    },
+    {
+      "album": {
+        "name": "Aono \uff06 Akine (From \"Blue Orchestra\" Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 157554,
+      "name": "Aono & Akine",
+      "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Beyond The Fears",
+      "url": "https://open.spotify.com/track/2svgP8qZaIaDJVBKjQmxwd"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127853,
+      "name": "Bright Days Ahead",
+      "url": "https://open.spotify.com/track/4Xw4MOc39q4jQIu3NDyjJL"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        },
+        {
+          "name": "\u6771 \u4eae\u6c70",
+          "url": "https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364213,
+      "name": "Canon in D Major, P. 37/1 (Arr. Haginomori for Violin Solo)",
+      "url": "https://open.spotify.com/track/28YTWnr0PIGh16cWSu31a4"
+    },
+    {
+      "album": {
+        "name": "Cantabile",
+        "url": "https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Cantabile",
+      "url": "https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "\u5c71\u7530\u53cb\u91cc\u6075",
+          "url": "https://open.spotify.com/artist/5SYBXGlvWG5OmfwvJvCdi4"
+        },
+        {
+          "name": "\u9ed2\u7530\u967d\u9999",
+          "url": "https://open.spotify.com/artist/24YPy5gSplL8wywc6EI4M0"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150200,
+      "name": "Carmen Suite No. 1: I. Pr\u00e9lude (Arr. Haginomori for Violin and Piano)",
+      "url": "https://open.spotify.com/track/7mapkOLZqfKXHUnchWGGLw"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/6exQ9t4jeygG0htgvnHiYs"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 215533,
+      "name": "Carmen: Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/2pDJ5SFIaIlpv6KlAfIXgZ"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/3KbjX2NFZajvjvnF9Lo3ik"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/35e64xhuYZISaWyR96uOLA"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Zolt\u00e1n Kod\u00e1ly",
+          "url": "https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        },
+        {
+          "name": "\u5c3e\u5f35\u62d3\u767b",
+          "url": "https://open.spotify.com/artist/3XuNwZcem8hNAf8zZPtAtN"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520280,
+      "name": "Duo for Violin and Cello, Op. 7: I. Allegro serioso, non troppo",
+      "url": "https://open.spotify.com/track/7CHOXOaVQ6jmGwQq8we1A8"
+    },
+    {
+      "album": {
+        "name": "Kod\u00e1ly: Duo for Violin & Cello; Solo Cello Sonata / Veress: Solo Violin Sonata",
+        "url": "https://open.spotify.com/album/7MO0ZP8zAQY6h5UTgT0CW2"
+      },
+      "artists": [
+        {
+          "name": "Zolt\u00e1n Kod\u00e1ly",
+          "url": "https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE"
+        },
+        {
+          "name": "Sergiu Luca",
+          "url": "https://open.spotify.com/artist/51ccWWxbIm9BwWeoULYhb2"
+        },
+        {
+          "name": "Roel Dieltiens",
+          "url": "https://open.spotify.com/artist/6WKKEjvbccpj0xEHHpAL2Q"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 494800,
+      "name": "Duo for Violin and Cello, Op. 7: I. Allegro serioso, non troppo",
+      "url": "https://open.spotify.com/track/4trRL4K7telpEkxAoHePtV"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5vyLrWYfTWXzsLoj5CdaXQ"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114840,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/4tPUNruMhPnBjbpFWA06da"
+    },
+    {
+      "album": {
+        "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/0qLvMhZZZzjh4YYllmCSyY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mariko Senju",
+          "url": "https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 200826,
+      "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/633NPmRCMw0iNxn3C8kL3Z"
+    },
+    {
+      "album": {
+        "name": "J.S.\u30d0\u30c3\u30cf\uff1aG\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2\uff08\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248\uff09",
+        "url": "https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5ddd\u606d\u5b50",
+          "url": "https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 305054,
+      "name": "G\u7dda\u4e0a\u306e\u30a2\u30ea\u30a2\uff08\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248\uff09",
+      "url": "https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "\u6771 \u4eae\u6c70",
+          "url": "https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Humoresque No. 7 in G-Flat Major, Op. 101 (Arr. Rehfeld for Violin)",
+      "url": "https://open.spotify.com/track/7aMoXoj0yaML8UecGxtm9E"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126053,
+      "name": "Innocent Blue",
+      "url": "https://open.spotify.com/track/0E6kURDBznETDJ6jwIx6jE"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138786,
+      "name": "Into The Sounds",
+      "url": "https://open.spotify.com/track/5qUz70iEOXluWXUwoD216w"
+    },
+    {
+      "album": {
+        "name": "Famous Overtures",
+        "url": "https://open.spotify.com/album/3QArONsmtuZiAOIUDpyFVZ"
+      },
+      "artists": [
+        {
+          "name": "Franz von Supp\u00e9",
+          "url": "https://open.spotify.com/artist/0Yy8ebHB2Ubh1xVIdddNYF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353600,
+      "name": "Light Cavalry: Overture",
+      "url": "https://open.spotify.com/track/7gz3tN6esipr13ktSoz9Le"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125546,
+      "name": "Moonlight Nocturne",
+      "url": "https://open.spotify.com/track/2KAliLaGoVOLEiHH2bNfg3"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69320,
+      "name": "Moonlight Nocturne - Orgel Version",
+      "url": "https://open.spotify.com/track/4T9gjR6kdO6Vb1U4cuRUlU"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Romeo and Juliet (Fantasy Overture After Shakespeare); The Nutcracker, Op. 71a (Suite From The Ballet Op. 71)",
+        "url": "https://open.spotify.com/album/5gMbHiDO0vjqX7ykF6sVcM"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "Nutcracker Suite, Op. 71a: 3. Waltz Of The Flowers",
+      "url": "https://open.spotify.com/track/0MHTCSFH0WzxGquCysX4gq"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94613,
+      "name": "Ordinary Days",
+      "url": "https://open.spotify.com/track/7rn8sTjmmnHSWZxNb6TFlZ"
+    },
+    {
+      "album": {
+        "name": "Violin on Stage",
+        "url": "https://open.spotify.com/album/77cffOhDde3cxLtZuychf9"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "Bomsori",
+          "url": "https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "Giancarlo Guerrero",
+          "url": "https://open.spotify.com/artist/2p1ajptgFozpil91yrYncQ"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347333,
+      "name": "Polonaise de concert, Op. 4 (Orch. Kornowicz)",
+      "url": "https://open.spotify.com/track/6Y4Qzr7CwsKgzM0fIZPjeA"
+    },
+    {
+      "album": {
+        "name": "Con Amore",
+        "url": "https://open.spotify.com/album/73yFQjwvyJDCjG3D7BiuR3"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "Kyung Wha Chung",
+          "url": "https://open.spotify.com/artist/0LtGkeRp03UAHQZNKrQ4XC"
+        },
+        {
+          "name": "Phillip Moll",
+          "url": "https://open.spotify.com/artist/0IPYikN1DXDK1XK7eMkIIE"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280533,
+      "name": "Scherzo-Tarantelle, Op. 16",
+      "url": "https://open.spotify.com/track/5DiUOWdIOx41ypk7YqoyeB"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Sinking in Sorrow",
+      "url": "https://open.spotify.com/track/5tYVsKjv0XtwRIyjEJrmZr"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Sparkle",
+      "url": "https://open.spotify.com/track/1aTJoALzqcFDNZoRk2zQza"
+    },
+    {
+      "album": {
+        "name": "Bach: Six Suites for Solo Cello",
+        "url": "https://open.spotify.com/album/322JJOlqMTWTgnEqBA2rib"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 132626,
+      "name": "Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/74wviZD57Apg7ln1OXG6HV"
+    },
+    {
+      "album": {
+        "name": "Best Classical Music in Anime",
+        "url": "https://open.spotify.com/album/6Urq8Cur3j8obawkPdkSVM"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mariko Senju",
+          "url": "https://open.spotify.com/artist/2MkoLewykoUQinAGtZdF9W"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 200186,
+      "name": "Suite No. 3 in D, BWV 1068: Air",
+      "url": "https://open.spotify.com/track/5zSzgsDTpsAk3FvcnyAm8r"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\" / Smetana: The Moldau",
+        "url": "https://open.spotify.com/album/6FMu88LoghMcmme2aDkK3S"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747000,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": II. Largo",
+      "url": "https://open.spotify.com/track/1e6trFi8oxi8goRZpViKZr"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Symphony No.9; Othello Overture",
+        "url": "https://open.spotify.com/album/3UzDwtg4tvx7gA5NeU9qyo"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688133,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": IV. Allegro con fuoco - Live at Philharmonie, Berlin, 1997",
+      "url": "https://open.spotify.com/track/6LtIVDlwkraIk17Xz6MoCN"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Symphony No.9 'From the New World'/Suite in A Major etc.",
+        "url": "https://open.spotify.com/album/6a0gxR89Q0RkQe3MpBFlQt"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Kirill Kondrashin",
+          "url": "https://open.spotify.com/artist/1nBRaXFNbBFqcFNeB1AMg2"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 701773,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178, \"From the New World\": I. Adagio - Allegro molto",
+      "url": "https://open.spotify.com/track/2joLdmhXZVVqvieY5oxVE1"
+    },
+    {
+      "album": {
+        "name": "Dvorak: The 9 Symphonies",
+        "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484666,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178, \"From the New World\": III. Scherzo (Molto vivace)",
+      "url": "https://open.spotify.com/track/0c75sVCZ392c963pWjowBL"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons - Concerto In G Minor, RV 315, \"The Summer\"",
+        "url": "https://open.spotify.com/album/4JY0uYJEb5ZqNav3gvFUR7"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Avi Avital",
+          "url": "https://open.spotify.com/artist/3NbuyRJml6VdSfpDFC5a7b"
+        },
+        {
+          "name": "Venice Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/68xp8lYo96f9PMra0LHHl6"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 173360,
+      "name": "The Four Seasons - Concerto in G Minor, RV 315, \"The Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/7tLf3bNtwycqODOMTxPNvd"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "\u201c\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u201d \u30b9\u30da\u30b7\u30e3\u30eb\u5f26\u697d\u5408\u594f\u56e3",
+          "url": "https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T"
+        },
+        {
+          "name": "\u30de\u30ea\u30a2\u30fb\u30c9\u30a5\u30a8\u30cb\u30e3\u30b9",
+          "url": "https://open.spotify.com/artist/4aKN6schPYwLphJuuq7KZZ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "The Four Seasons / Violin Concerto in E Major, RV 269 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons / Violin Concerto in G Minor, RV 315 \"Summer\": III. Presto (Musical Moments)",
+        "url": "https://open.spotify.com/album/4DHhyGZZ7MQroh1fJiSz0r"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "\"Blue Orchestra\" Special String Orchestra",
+          "url": "https://open.spotify.com/artist/3IlOzMQNBzmTOJf2iq8Txg"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 167553,
+      "name": "The Four Seasons / Violin Concerto in G Minor, RV 315 \"Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/01qyjBjNPtbJSWnIpVJRDJ"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra - Premium Classic",
+        "url": "https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "\u201c\u9752\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u201d \u30b9\u30da\u30b7\u30e3\u30eb\u5f26\u697d\u5408\u594f\u56e3",
+          "url": "https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T"
+        },
+        {
+          "name": "\u30de\u30ea\u30a2\u30fb\u30c9\u30a5\u30a8\u30cb\u30e3\u30b9",
+          "url": "https://open.spotify.com/artist/4aKN6schPYwLphJuuq7KZZ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "The Four Seasons / Violin Concerto in G Minor, RV 315 \"Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/54SZdKd0csV6mMCD67EjQ7"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker, Op. 71, TH 14 (Live at Walt Disney Concert Hall, Los Angeles / 2013)",
+        "url": "https://open.spotify.com/album/1WQELFJnq1V0rrrncloMzt"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "The Nutcracker, Op. 71, TH 14: Overture - Live at Walt Disney Concert Hall, Los Angeles / 2013",
+      "url": "https://open.spotify.com/track/5tZyifkQ2gmk22ovSZleS5"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "The Shadows in Between",
+      "url": "https://open.spotify.com/track/2a87PUiODU1FfHYKB4xBUc"
+    },
+    {
+      "album": {
+        "name": "Blue Orchestra (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "Think/Consider",
+      "url": "https://open.spotify.com/track/386Ob32WB8Vp3995dRtXjN"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: The Four Seasons",
+        "url": "https://open.spotify.com/album/1smxmzL8C2nXjtrpLj0802"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Candida Thompson",
+          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
+        },
+        {
+          "name": "Henk Rubingh",
+          "url": "https://open.spotify.com/artist/7ocblNnID5VgPzixlZ4EFO"
+        },
+        {
+          "name": "Julian Rachlin",
+          "url": "https://open.spotify.com/artist/6aXeLNKDAYfLVrVcy5ISaX"
+        },
+        {
+          "name": "Stacey Watton",
+          "url": "https://open.spotify.com/artist/1E9GJVMj19cBIwiRegnF5F"
+        },
+        {
+          "name": "Maarten Jansen",
+          "url": "https://open.spotify.com/artist/5Ff0ekDZLWLZRlv4jKe3ZB"
+        },
+        {
+          "name": "Liz Kenny",
+          "url": "https://open.spotify.com/artist/6s4N9nzRrgbx8LnB7VbVEc"
+        },
+        {
+          "name": "Jan Jansen",
+          "url": "https://open.spotify.com/artist/4S5wP8Mk9tMgPBgeB0f7UX"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 199986,
+      "name": "Violin Concerto No. 1 in E Major, RV 269 \"La primavera\": I. Allegro",
+      "url": "https://open.spotify.com/track/5XG44N2hyQns8V7XZHL9Ym"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb:\u30ab\u30ce\u30f3(\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248 / \u7de8:\u8429\u68ee\u82f1\u660e)",
+        "url": "https://open.spotify.com/album/4V2hzUgmMOvcSppnJpl0pH"
+      },
+      "artists": [
+        {
+          "name": "\u6771 \u4eae\u6c70",
+          "url": "https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 357331,
+      "name": "\u30ab\u30ce\u30f3(\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248 / \u7de8:\u8429\u68ee\u82f1\u660e)",
+      "url": "https://open.spotify.com/track/2i5tJba0MzIg8IoRgCIPr0"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3001\u30e1\u30f3\u30c7\u30eb\u30b9\u30be\u30fc\u30f3:\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u5354\u594f\u66f2",
+        "url": "https://open.spotify.com/album/4nFCOvL2ulzpHTKf4c04iQ"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Sayaka Shoji",
+          "url": "https://open.spotify.com/artist/11OqwK96LZdmndmul6hPex"
+        },
+        {
+          "name": "\u30d5\u30e9\u30f3\u30b9\u653e\u9001\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc\u7ba1\u5f26\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/3nJ6UKgyatVS2SqL6wowDl"
+        },
+        {
+          "name": "\u30c1\u30e7\u30f3\u30fb\u30df\u30e7\u30f3\u30d5\u30f3",
+          "url": "https://open.spotify.com/artist/07kqB64WF9H72nLdGcAIZS"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414080,
+      "name": "\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u5354\u594f\u66f2 \u30db\u77ed\u8abf \u4f5c\u54c164: \u7b2c3\u697d\u7ae0: Allegretto non troppo - Allegro molto vivace",
+      "url": "https://open.spotify.com/track/4KEvcFdZntfsJgy49HH27T"
+    },
+    {
+      "album": {
+        "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        },
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191417,
+      "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x"
+    },
+    {
+      "album": {
+        "name": "J.S.\u30d0\u30c3\u30cf:\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV 1007 \u7b2c1\u66f2: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7sI7B6dHB3hvRISIkuHvwp"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Haruma Sato",
+          "url": "https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 171404,
+      "name": "\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV 1007: \u7b2c1\u66f2: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/4UbBCKxwhcjm5cxrXCpNrv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZwI9xDkwMFb"
 }

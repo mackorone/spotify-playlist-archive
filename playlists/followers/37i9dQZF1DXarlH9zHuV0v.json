@@ -1,735 +1,2415 @@
 {
-  "2021-12-25": 231031,
-  "2021-12-26": 230988,
-  "2021-12-27": 230883,
-  "2021-12-28": 230883,
-  "2021-12-29": 230819,
-  "2021-12-30": 230759,
-  "2021-12-31": 230697,
-  "2022-01-01": 230601,
-  "2022-01-02": 230571,
-  "2022-01-03": 230499,
-  "2022-01-04": 230418,
-  "2022-01-05": 230356,
-  "2022-01-06": 230289,
-  "2022-01-07": 230212,
-  "2022-01-08": 230091,
-  "2022-01-09": 230086,
-  "2022-01-10": 230025,
-  "2022-01-11": 229949,
-  "2022-01-12": 229890,
-  "2022-01-13": 229839,
-  "2022-01-14": 229770,
-  "2022-01-15": 229663,
-  "2022-01-16": 229660,
-  "2022-01-17": 229526,
-  "2022-01-18": 229518,
-  "2022-01-19": 229481,
-  "2022-01-20": 229425,
-  "2022-01-21": 229377,
-  "2022-01-22": 229306,
-  "2022-01-23": 229256,
-  "2022-01-24": 229211,
-  "2022-01-25": 229151,
-  "2022-01-26": 229090,
-  "2022-01-27": 229031,
-  "2022-01-28": 228969,
-  "2022-01-29": 228920,
-  "2022-01-30": 228873,
-  "2022-01-31": 228807,
-  "2022-02-01": 228763,
-  "2022-02-02": 228723,
-  "2022-02-03": 228679,
-  "2022-02-04": 228629,
-  "2022-02-05": 228571,
-  "2022-02-06": 228516,
-  "2022-02-07": 228461,
-  "2022-02-08": 228414,
-  "2022-02-09": 228371,
-  "2022-02-10": 228332,
-  "2022-02-11": 228288,
-  "2022-02-12": 228247,
-  "2022-02-13": 228214,
-  "2022-02-14": 228171,
-  "2022-02-15": 228127,
-  "2022-02-16": 228075,
-  "2022-02-17": 228033,
-  "2022-02-18": 227989,
-  "2022-02-19": 227934,
-  "2022-02-20": 227888,
-  "2022-02-21": 227848,
-  "2022-02-22": 227803,
-  "2022-02-23": 227748,
-  "2022-02-24": 227696,
-  "2022-02-25": 227676,
-  "2022-02-26": 227636,
-  "2022-02-27": 227552,
-  "2022-02-28": 227552,
-  "2022-03-01": 227515,
-  "2022-03-02": 227474,
-  "2022-03-03": 227432,
-  "2022-03-04": 227395,
-  "2022-03-05": 227356,
-  "2022-03-06": 227324,
-  "2022-03-07": 227284,
-  "2022-03-08": 227251,
-  "2022-03-09": 227213,
-  "2022-03-10": 227172,
-  "2022-03-11": 227138,
-  "2022-03-12": 227098,
-  "2022-03-13": 227054,
-  "2022-03-14": 227010,
-  "2022-03-15": 226978,
-  "2022-03-16": 226956,
-  "2022-03-17": 226929,
-  "2022-03-18": 226891,
-  "2022-03-19": 226875,
-  "2022-03-20": 226875,
-  "2022-03-21": 226827,
-  "2022-03-22": 226798,
-  "2022-03-23": 226767,
-  "2022-03-24": 226736,
-  "2022-03-25": 226710,
-  "2022-03-26": 226681,
-  "2022-03-27": 226650,
-  "2022-03-28": 226616,
-  "2022-03-30": 226561,
-  "2022-03-31": 226528,
-  "2022-04-01": 226498,
-  "2022-04-02": 226470,
-  "2022-04-03": 226439,
-  "2022-04-04": 226414,
-  "2022-04-05": 226379,
-  "2022-04-06": 226342,
-  "2022-04-07": 226314,
-  "2022-04-08": 226290,
-  "2022-04-09": 226266,
-  "2022-04-10": 226203,
-  "2022-04-11": 226167,
-  "2022-04-12": 226166,
-  "2022-04-13": 226148,
-  "2022-04-14": 226118,
-  "2022-04-15": 226080,
-  "2022-04-16": 226048,
-  "2022-04-17": 226017,
-  "2022-04-18": 225983,
-  "2022-04-19": 225954,
-  "2022-04-20": 225928,
-  "2022-04-21": 225903,
-  "2022-04-22": 225874,
-  "2022-04-23": 225851,
-  "2022-04-24": 225827,
-  "2022-04-25": 225802,
-  "2022-04-26": 225771,
-  "2022-04-27": 225740,
-  "2022-04-28": 225713,
-  "2022-04-29": 225662,
-  "2022-04-30": 225638,
-  "2022-05-01": 225602,
-  "2022-05-02": 225602,
-  "2022-05-03": 225572,
-  "2022-05-04": 225550,
-  "2022-05-05": 225524,
-  "2022-05-06": 225495,
-  "2022-05-07": 225470,
-  "2022-05-08": 225439,
-  "2022-05-09": 225430,
-  "2022-05-10": 225406,
-  "2022-05-11": 225385,
-  "2022-05-12": 225363,
-  "2022-05-13": 225339,
-  "2022-05-14": 225319,
-  "2022-05-15": 225295,
-  "2022-05-16": 225264,
-  "2022-05-17": 225239,
-  "2022-05-18": 225212,
-  "2022-05-19": 225184,
-  "2022-05-20": 225155,
-  "2022-05-21": 225119,
-  "2022-05-22": 225119,
-  "2022-05-23": 225102,
-  "2022-05-24": 225070,
-  "2022-05-25": 225042,
-  "2022-05-26": 225012,
-  "2022-05-27": 224984,
-  "2022-05-28": 224943,
-  "2022-05-29": 224918,
-  "2022-05-30": 224892,
-  "2022-05-31": 224866,
-  "2022-06-01": 224831,
-  "2022-06-02": 224831,
-  "2022-06-03": 224812,
-  "2022-06-04": 224797,
-  "2022-06-05": 224781,
-  "2022-06-06": 224759,
-  "2022-06-07": 224719,
-  "2022-06-08": 224684,
-  "2022-06-09": 224663,
-  "2022-06-10": 224634,
-  "2022-06-11": 224607,
-  "2022-06-12": 224582,
-  "2022-06-13": 224553,
-  "2022-06-14": 224524,
-  "2022-06-15": 224502,
-  "2022-06-16": 224477,
-  "2022-06-17": 224456,
-  "2022-06-18": 224439,
-  "2022-06-19": 224399,
-  "2022-06-20": 224399,
-  "2022-06-21": 224384,
-  "2022-06-22": 224363,
-  "2022-06-23": 224363,
-  "2022-06-24": 224342,
-  "2022-06-25": 224324,
-  "2022-06-26": 224310,
-  "2022-06-27": 224295,
-  "2022-06-28": 224272,
-  "2022-06-29": 224248,
-  "2022-06-30": 224229,
-  "2022-07-01": 224210,
-  "2022-07-02": 224186,
-  "2022-07-03": 224169,
-  "2022-07-04": 224148,
-  "2022-07-05": 224129,
-  "2022-07-06": 224106,
-  "2022-07-07": 224096,
-  "2022-07-08": 224075,
-  "2022-07-09": 224053,
-  "2022-07-10": 224036,
-  "2022-07-11": 224015,
-  "2022-07-12": 223989,
-  "2022-07-13": 223963,
-  "2022-07-14": 223935,
-  "2022-07-15": 223914,
-  "2022-07-16": 223906,
-  "2022-07-17": 223890,
-  "2022-07-18": 223876,
-  "2022-07-19": 223855,
-  "2022-07-20": 223834,
-  "2022-07-21": 223807,
-  "2022-07-22": 223791,
-  "2022-07-23": 223773,
-  "2022-07-24": 223764,
-  "2022-07-25": 223757,
-  "2022-07-26": 223749,
-  "2022-07-27": 223730,
-  "2022-07-28": 223711,
-  "2022-07-29": 223708,
-  "2022-07-30": 223686,
-  "2022-07-31": 223686,
-  "2022-08-01": 223675,
-  "2022-08-02": 223659,
-  "2022-08-03": 223659,
-  "2022-08-04": 223654,
-  "2022-08-05": 223662,
-  "2022-08-06": 223644,
-  "2022-08-07": 223641,
-  "2022-08-08": 223629,
-  "2022-08-09": 223619,
-  "2022-08-10": 223611,
-  "2022-08-11": 223599,
-  "2022-08-12": 223584,
-  "2022-08-13": 223582,
-  "2022-08-14": 223589,
-  "2022-08-15": 223589,
-  "2022-08-16": 223585,
-  "2022-08-17": 223591,
-  "2022-08-18": 223596,
-  "2022-08-19": 223597,
-  "2022-08-20": 223605,
-  "2022-08-21": 223613,
-  "2022-08-22": 223623,
-  "2022-08-23": 223621,
-  "2022-08-24": 223633,
-  "2022-08-25": 223638,
-  "2022-08-26": 223641,
-  "2022-08-27": 223666,
-  "2022-08-28": 223683,
-  "2022-08-29": 223713,
-  "2022-08-30": 223704,
-  "2022-08-31": 223655,
-  "2022-09-01": 223609,
-  "2022-09-02": 223606,
-  "2022-09-03": 223540,
-  "2022-09-04": 223515,
-  "2022-09-05": 223534,
-  "2022-09-06": 223586,
-  "2022-09-07": 223636,
-  "2022-09-09": 223682,
-  "2022-09-10": 223727,
-  "2022-09-11": 223779,
-  "2022-09-12": 223810,
-  "2022-09-13": 223860,
-  "2022-09-15": 223965,
-  "2022-09-16": 224017,
-  "2022-09-17": 224074,
-  "2022-09-18": 224160,
-  "2022-09-19": 224292,
-  "2022-09-20": 224389,
-  "2022-09-21": 224491,
-  "2022-09-22": 224569,
-  "2022-09-23": 224613,
-  "2022-09-24": 224695,
-  "2022-09-25": 224788,
-  "2022-09-26": 224895,
-  "2022-09-27": 224948,
-  "2022-09-28": 225018,
-  "2022-09-29": 225105,
-  "2022-09-30": 225193,
-  "2022-10-01": 225308,
-  "2022-10-02": 225587,
-  "2022-10-03": 225839,
-  "2022-10-04": 226041,
-  "2022-10-05": 226254,
-  "2022-10-06": 226488,
-  "2022-10-07": 226720,
-  "2022-10-08": 227030,
-  "2022-10-09": 227648,
-  "2022-10-10": 227736,
-  "2022-10-11": 228053,
-  "2022-10-12": 228354,
-  "2022-10-13": 228647,
-  "2022-10-14": 229039,
-  "2022-10-15": 229319,
-  "2022-10-16": 229661,
-  "2022-10-17": 229895,
-  "2022-10-18": 230065,
-  "2022-10-19": 230225,
-  "2022-10-20": 230423,
-  "2022-10-21": 230612,
-  "2022-10-22": 230838,
-  "2022-10-23": 231115,
-  "2022-10-24": 231344,
-  "2022-10-25": 231627,
-  "2022-10-26": 231995,
-  "2022-10-27": 234049,
-  "2022-10-28": 234772,
-  "2022-10-29": 235599,
-  "2022-10-30": 236681,
-  "2022-10-31": 237416,
-  "2022-11-01": 239447,
-  "2022-11-02": 239416,
-  "2022-11-03": 239321,
-  "2022-11-04": 239229,
-  "2022-11-05": 239140,
-  "2022-11-06": 239067,
-  "2022-11-07": 238988,
-  "2022-11-08": 238907,
-  "2022-11-09": 238817,
-  "2022-11-10": 238774,
-  "2022-11-11": 238710,
-  "2022-11-12": 238633,
-  "2022-11-13": 238583,
-  "2022-11-14": 238531,
-  "2022-11-15": 238476,
-  "2022-11-16": 238435,
-  "2022-11-17": 238380,
-  "2022-11-18": 238336,
-  "2022-11-19": 238277,
-  "2022-11-20": 238241,
-  "2022-11-21": 238208,
-  "2022-11-22": 238155,
-  "2022-11-23": 238122,
-  "2022-11-24": 238091,
-  "2022-11-25": 238055,
-  "2022-11-26": 238016,
-  "2022-11-27": 237979,
-  "2022-11-28": 237939,
-  "2022-11-29": 237890,
-  "2022-11-30": 237859,
-  "2022-12-01": 237796,
-  "2022-12-02": 237745,
-  "2022-12-03": 237677,
-  "2022-12-04": 237632,
-  "2022-12-05": 237596,
-  "2022-12-06": 237561,
-  "2022-12-07": 237524,
-  "2022-12-08": 237482,
-  "2022-12-09": 237445,
-  "2022-12-10": 237414,
-  "2022-12-11": 237379,
-  "2022-12-12": 237337,
-  "2022-12-13": 237302,
-  "2022-12-14": 237269,
-  "2022-12-15": 237245,
-  "2022-12-16": 237218,
-  "2022-12-17": 237184,
-  "2022-12-18": 237154,
-  "2022-12-19": 237126,
-  "2022-12-20": 237068,
-  "2022-12-21": 237068,
-  "2022-12-22": 237032,
-  "2022-12-24": 236982,
-  "2022-12-25": 236958,
-  "2022-12-26": 236941,
-  "2022-12-27": 236912,
-  "2022-12-28": 236883,
-  "2022-12-29": 236840,
-  "2022-12-30": 236809,
-  "2022-12-31": 236765,
-  "2023-01-01": 236747,
-  "2023-01-02": 236712,
-  "2023-01-03": 236661,
-  "2023-01-04": 236631,
-  "2023-01-05": 236597,
-  "2023-01-06": 236555,
-  "2023-01-07": 236503,
-  "2023-01-08": 236496,
-  "2023-01-09": 236452,
-  "2023-01-10": 236408,
-  "2023-01-11": 236382,
-  "2023-01-12": 236328,
-  "2023-01-13": 236300,
-  "2023-01-14": 236257,
-  "2023-01-15": 236250,
-  "2023-01-16": 236218,
-  "2023-01-17": 236177,
-  "2023-01-18": 236143,
-  "2023-01-19": 236120,
-  "2023-01-20": 236089,
-  "2023-01-21": 236057,
-  "2023-01-22": 236038,
-  "2023-01-23": 236003,
-  "2023-01-24": 235967,
-  "2023-01-25": 235928,
-  "2023-01-26": 235903,
-  "2023-01-27": 235870,
-  "2023-01-28": 235848,
-  "2023-01-29": 235820,
-  "2023-01-30": 235794,
-  "2023-01-31": 235794,
-  "2023-02-01": 235750,
-  "2023-02-02": 235724,
-  "2023-02-03": 235685,
-  "2023-02-04": 235658,
-  "2023-02-05": 235632,
-  "2023-02-06": 235611,
-  "2023-02-07": 235590,
-  "2023-02-08": 235527,
-  "2023-02-09": 235527,
-  "2023-02-10": 235495,
-  "2023-02-11": 235465,
-  "2023-02-12": 235422,
-  "2023-02-13": 235400,
-  "2023-02-14": 235400,
-  "2023-02-15": 235367,
-  "2023-02-16": 235343,
-  "2023-02-17": 235320,
-  "2023-02-18": 235265,
-  "2023-02-19": 235259,
-  "2023-02-20": 235242,
-  "2023-02-21": 235217,
-  "2023-02-22": 235185,
-  "2023-02-23": 235153,
-  "2023-02-24": 235134,
-  "2023-02-25": 235117,
-  "2023-02-26": 235097,
-  "2023-02-27": 235062,
-  "2023-02-28": 235062,
-  "2023-03-01": 235030,
-  "2023-03-02": 235013,
-  "2023-03-03": 234986,
-  "2023-03-04": 234973,
-  "2023-03-05": 234939,
-  "2023-03-06": 234939,
-  "2023-03-07": 234910,
-  "2023-03-08": 234887,
-  "2023-03-09": 234859,
-  "2023-03-10": 234841,
-  "2023-03-11": 234815,
-  "2023-03-12": 234795,
-  "2023-03-13": 234777,
-  "2023-03-14": 234752,
-  "2023-03-15": 234724,
-  "2023-03-16": 234709,
-  "2023-03-17": 234709,
-  "2023-03-18": 234667,
-  "2023-03-19": 234645,
-  "2023-03-20": 234621,
-  "2023-03-21": 234601,
-  "2023-03-22": 234576,
-  "2023-03-23": 234548,
-  "2023-03-24": 234548,
-  "2023-03-25": 234507,
-  "2023-03-26": 234490,
-  "2023-03-27": 234466,
-  "2023-03-28": 234447,
-  "2023-03-29": 234416,
-  "2023-03-30": 234375,
-  "2023-03-31": 234375,
-  "2023-04-01": 234351,
-  "2023-04-02": 234330,
-  "2023-04-03": 234320,
-  "2023-04-04": 234296,
-  "2023-04-05": 234271,
-  "2023-04-06": 234250,
-  "2023-04-07": 234238,
-  "2023-04-09": 234189,
-  "2023-04-10": 234175,
-  "2023-04-11": 234123,
-  "2023-04-12": 234123,
-  "2023-04-13": 234102,
-  "2023-04-14": 234083,
-  "2023-04-15": 234061,
-  "2023-04-16": 234028,
-  "2023-04-17": 234007,
-  "2023-04-18": 233986,
-  "2023-04-19": 233967,
-  "2023-04-20": 233944,
-  "2023-04-21": 233920,
-  "2023-04-22": 233901,
-  "2023-04-23": 233877,
-  "2023-04-24": 233848,
-  "2023-04-25": 233830,
-  "2023-04-26": 233812,
-  "2023-04-27": 233794,
-  "2023-04-28": 233777,
-  "2023-04-29": 233764,
-  "2023-04-30": 233751,
-  "2023-05-01": 233729,
-  "2023-05-02": 233710,
-  "2023-05-03": 233693,
-  "2023-05-04": 233678,
-  "2023-05-05": 233656,
-  "2023-05-06": 233630,
-  "2023-05-07": 233621,
-  "2023-05-08": 233607,
-  "2023-05-09": 233589,
-  "2023-05-10": 233579,
-  "2023-05-11": 233568,
-  "2023-05-12": 233555,
-  "2023-05-13": 233538,
-  "2023-05-14": 233523,
-  "2023-05-15": 233516,
-  "2023-05-16": 233503,
-  "2023-05-17": 233480,
-  "2023-05-18": 233473,
-  "2023-05-19": 233453,
-  "2023-05-20": 233420,
-  "2023-05-21": 233420,
-  "2023-05-22": 233420,
-  "2023-05-23": 233397,
-  "2023-05-24": 233367,
-  "2023-05-25": 233358,
-  "2023-05-26": 233348,
-  "2023-05-27": 233333,
-  "2023-05-28": 233311,
-  "2023-05-29": 233311,
-  "2023-05-30": 233268,
-  "2023-05-31": 233249,
-  "2023-06-01": 233230,
-  "2023-06-02": 233215,
-  "2023-06-03": 233202,
-  "2023-06-04": 233188,
-  "2023-06-05": 233175,
-  "2023-06-06": 233167,
-  "2023-06-07": 233150,
-  "2023-06-08": 233140,
-  "2023-06-09": 233123,
-  "2023-06-10": 233111,
-  "2023-06-11": 233100,
-  "2023-06-12": 233080,
-  "2023-06-13": 233063,
-  "2023-06-14": 233052,
-  "2023-06-15": 233036,
-  "2023-06-16": 233015,
-  "2023-06-17": 232998,
-  "2023-06-18": 232990,
-  "2023-06-19": 232975,
-  "2023-06-20": 232956,
-  "2023-06-21": 232936,
-  "2023-06-22": 232920,
-  "2023-06-23": 232904,
-  "2023-06-24": 232886,
-  "2023-06-25": 232871,
-  "2023-06-26": 232863,
-  "2023-06-27": 232848,
-  "2023-06-28": 232830,
-  "2023-06-29": 232812,
-  "2023-06-30": 232801,
-  "2023-07-01": 232767,
-  "2023-07-02": 232767,
-  "2023-07-03": 232750,
-  "2023-07-04": 232740,
-  "2023-07-05": 232729,
-  "2023-07-06": 232706,
-  "2023-07-07": 232706,
-  "2023-07-08": 232694,
-  "2023-07-09": 232682,
-  "2023-07-10": 232661,
-  "2023-07-11": 232653,
-  "2023-07-12": 232637,
-  "2023-07-13": 232624,
-  "2023-07-14": 232608,
-  "2023-07-15": 232602,
-  "2023-07-16": 232577,
-  "2023-07-17": 232574,
-  "2023-07-18": 232560,
-  "2023-07-19": 232548,
-  "2023-07-20": 232535,
-  "2023-07-21": 232528,
-  "2023-07-22": 232526,
-  "2023-07-23": 232515,
-  "2023-07-24": 232499,
-  "2023-07-25": 232491,
-  "2023-07-26": 232482,
-  "2023-07-27": 232475,
-  "2023-07-28": 232468,
-  "2023-07-29": 232452,
-  "2023-07-30": 232452,
-  "2023-07-31": 232436,
-  "2023-08-01": 232422,
-  "2023-08-02": 232417,
-  "2023-08-03": 232422,
-  "2023-08-04": 232423,
-  "2023-08-05": 232427,
-  "2023-08-06": 232413,
-  "2023-08-07": 232413,
-  "2023-08-08": 232412,
-  "2023-08-09": 232405,
-  "2023-08-10": 232400,
-  "2023-08-11": 232398,
-  "2023-08-12": 232392,
-  "2023-08-13": 232381,
-  "2023-08-14": 232375,
-  "2023-08-15": 232387,
-  "2023-08-16": 232387,
-  "2023-08-17": 232383,
-  "2023-08-18": 232390,
-  "2023-08-19": 232388,
-  "2023-08-20": 232383,
-  "2023-08-21": 232391,
-  "2023-08-22": 232389,
-  "2023-08-23": 232392,
-  "2023-08-24": 232409,
-  "2023-08-25": 232415,
-  "2023-08-26": 232422,
-  "2023-08-27": 232440,
-  "2023-08-28": 232461,
-  "2023-08-29": 232470,
-  "2023-08-30": 232498,
-  "2023-08-31": 232500,
-  "2023-09-01": 232574,
-  "2023-09-02": 232574,
-  "2023-09-03": 232618,
-  "2023-09-04": 232639,
-  "2023-09-05": 232688,
-  "2023-09-06": 232715,
-  "2023-09-07": 232749,
-  "2023-09-08": 232776,
-  "2023-09-09": 232796,
-  "2023-09-10": 232836,
-  "2023-09-11": 232880,
-  "2023-09-12": 232914,
-  "2023-09-13": 232954,
-  "2023-09-14": 232987,
-  "2023-09-15": 233024,
-  "2023-09-16": 233058,
-  "2023-09-17": 233106,
-  "2023-09-18": 233185,
-  "2023-09-19": 233247,
-  "2023-09-20": 233292,
-  "2023-09-21": 233328,
-  "2023-09-22": 233354,
-  "2023-09-23": 233402,
-  "2023-09-24": 233457,
-  "2023-09-25": 233505,
-  "2023-09-26": 233556,
-  "2023-09-27": 233592,
-  "2023-09-28": 233672,
-  "2023-09-29": 233727,
-  "2023-09-30": 233785,
-  "2023-10-01": 233881,
-  "2023-10-02": 234067,
-  "2023-10-03": 234180,
-  "2023-10-04": 234336,
-  "2023-10-05": 234482,
-  "2023-10-06": 234643,
-  "2023-10-07": 234820,
-  "2023-10-08": 234995,
-  "2023-10-09": 235137,
-  "2023-10-10": 235198,
-  "2023-10-11": 235413,
-  "2023-10-12": 235413,
-  "2023-10-13": 235508,
-  "2023-10-14": 235508,
-  "2023-10-15": 235508,
-  "2023-10-16": 236131,
-  "2023-10-17": 236131,
-  "2023-10-18": 236460,
-  "2023-10-19": 236622,
-  "2023-10-20": 236786,
-  "2023-10-21": 236959,
-  "2023-10-22": 236959,
-  "2023-10-23": 237343,
-  "2023-10-24": 237473,
-  "2023-10-25": 237473,
-  "2023-10-26": 237886,
-  "2023-10-27": 238171,
-  "2023-10-28": 238171,
-  "2023-10-29": 238171,
-  "2023-10-30": 239520,
-  "2023-10-31": 239520,
-  "2023-11-01": 241095,
-  "2023-11-02": 241030,
-  "2023-11-03": 241014,
-  "2023-11-04": 241014,
-  "2023-11-05": 241014,
-  "2023-11-06": 240913,
-  "2023-11-07": 240913,
-  "2023-11-08": 240802,
-  "2023-11-09": 240802,
-  "2023-11-10": 240726,
-  "2023-11-11": 240694,
-  "2023-11-12": 240670,
-  "2023-11-13": 240670,
-  "2023-11-14": 240670,
-  "2023-11-15": 240670,
-  "2023-11-16": 240559,
-  "2023-11-17": 240501,
-  "2023-11-18": 240501,
-  "2023-11-19": 240461,
-  "2023-11-20": 240461,
-  "2023-11-21": 240418,
-  "2023-11-22": 240397,
-  "2023-11-23": 240373,
-  "2023-11-24": 240373,
-  "2023-11-25": 240331,
-  "2023-11-26": 240331,
-  "2023-11-27": 240270,
-  "2023-11-28": 240270,
-  "2023-11-29": 240175,
-  "2023-11-30": 240175,
-  "2023-12-01": 240175,
-  "2023-12-02": 240104,
-  "2023-12-03": 240104,
-  "2023-12-04": 240104,
-  "2023-12-05": 240104,
-  "2023-12-06": 239990,
-  "2023-12-07": 239990,
-  "2023-12-08": 239990,
-  "2023-12-09": 239935,
-  "2023-12-10": 239935,
-  "2023-12-11": 239895,
-  "2023-12-12": 239895,
-  "2023-12-13": 239853,
-  "2023-12-14": 239834,
-  "2023-12-15": 239813,
-  "2023-12-16": 239791,
-  "2023-12-17": 239772,
-  "2023-12-18": 239755,
-  "2023-12-19": 239727,
-  "2023-12-20": 239696,
-  "2023-12-21": 239679,
-  "2023-12-22": 239659,
-  "2023-12-23": 239637,
-  "2023-12-24": 239626,
-  "2023-12-25": 239608,
-  "2023-12-26": 239597,
-  "2023-12-27": 239579,
-  "2023-12-30": 239500,
-  "2023-12-31": 239472,
-  "2024-01-01": 239449,
-  "2024-01-02": 239430,
-  "2024-01-03": 239402
+  "2024-01-17": 238788,
+  "date_first_scraped": "2021-12-21",
+  "description": "A playlist of spooky songs to get you ready for fright night!",
+  "name": "Ultimate Halloween",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "album": {
+        "name": "The Essential Blue \u00d6yster Cult",
+        "url": "https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308640,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
+    },
+    {
+      "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 168906,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/2mLLuOoaVnbcynL3UIw0Ff"
+    },
+    {
+      "album": {
+        "name": "Black Magic Woman - The Best Of",
+        "url": "https://open.spotify.com/album/3or0EzuBzgIeFxvc6pSOQ7"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 171813,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/1zhuei5rdq2S1qQ3x2kfCD"
+    },
+    {
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "album": {
+        "name": "Blood (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4dFJFO3yECHks7SBQiD7Sc"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207586,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/0Cps36esAzovJOuT0ZZxIJ"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207586,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/308BpHy6evPQz9hSPpSLNf"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7qzNc93sUMR3vHt5WADmOa"
+    },
+    {
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174698,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
+    },
+    {
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/5LK6DCdahD6OyHinbwM6Gv"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177234,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/1FO4wvAKz3dACUwLcXwUDZ"
+    },
+    {
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193143,
+      "name": "bury a friend",
+      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+    },
+    {
+      "album": {
+        "name": "A.N.T. Farm",
+        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-09",
+      "duration_ms": 206506,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+    },
+    {
+      "album": {
+        "name": "Calling All The Monsters",
+        "url": "https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe"
+    },
+    {
+      "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx"
+    },
+    {
+      "album": {
+        "name": "Spooky Halloween Hits",
+        "url": "https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 194186,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/6E7QcFSHgspdzwHxpYP9Vj"
+    },
+    {
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194186,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l"
+    },
+    {
+      "album": {
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3"
+    },
+    {
+      "album": {
+        "name": "Fragile Future (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0iPDvB9rAkq3UBfUu0I6JM"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192173,
+      "name": "Corps of Corpses",
+      "url": "https://open.spotify.com/track/1lDFvDVZxEeeMrOqIHAuql"
+    },
+    {
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
+    },
+    {
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning",
+        "url": "https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 395133,
+      "name": "Creeping Death",
+      "url": "https://open.spotify.com/track/3LM41UarpHPJkUZ7rVbbGx"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/1nTvIQEXvygqSIqc2vuwAz"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/3qXEqKdzI3MSGB1FlGMBz5"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395706,
+      "name": "Creeping Death (Remastered)",
+      "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+    },
+    {
+      "album": {
+        "name": "Rock Halloween",
+        "url": "https://open.spotify.com/album/6tsCGbcKoqmYDojADKRDoE"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/6Q8S5B32KJee8nJy3odoCP"
+    },
+    {
+      "album": {
+        "name": "Darkside",
+        "url": "https://open.spotify.com/album/64WDoAGyTcPlSIFAiSDsB0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        },
+        {
+          "name": "Tomine Harket",
+          "url": "https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG"
+    },
+    {
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/38S8ntzzlvdPNMWKYncgnu"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201426,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/57CXhuTXrLqxXKgLC7UA1s"
+    },
+    {
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/4hcp0DzR3sCvI5XEG4D1xb"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 201431,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/50kI1xlsXavwbMXpcYpOUn"
+    },
+    {
+      "album": {
+        "name": "Onyx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LttsAVVuHrSB7nWL6DqHo"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201431,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/592s63wvXY9JR4T9NuiY6a"
+    },
+    {
+      "album": {
+        "name": "Onyx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 201431,
+      "name": "Deal with the Devil",
+      "url": "https://open.spotify.com/track/6aoCWGknNkO1GmDMih37TQ"
+    },
+    {
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
+    },
+    {
+      "album": {
+        "name": "Continued Silence EP",
+        "url": "https://open.spotify.com/album/5eJa2BP7rrqkrpFpTiANPg"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 175653,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/7hJxHZj0M7MIZLbi1Bfpiu"
+    },
+    {
+      "album": {
+        "name": "Halloween Party 2022",
+        "url": "https://open.spotify.com/album/624LASK1ipzgobhmcECvgp"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 177506,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1Nv9AeLzP7GVNSe0Cfpned"
+    },
+    {
+      "album": {
+        "name": "Just For The Record...",
+        "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 114960,
+      "name": "Ding-Dong! The Witch Is Dead (feat. Harold Arlen)",
+      "url": "https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM"
+    },
+    {
+      "album": {
+        "name": "Def Jam 25: DJ Bring That Back",
+        "url": "https://open.spotify.com/album/6x9b726D8KTyUDZcvQyzxd"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235560,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/612uXBSMPkjDMMKt12NT3B"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/01BvT9GPtThEzcMxkptkgN"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Disturbia",
+      "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/3NW8J1M4aVLFhMX3cCcD9x"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 247013,
+      "name": "Dracula - Main Edit",
+      "url": "https://open.spotify.com/track/0SsItLTdrowLLHqXvJd668"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/1rk6Xn8Kod7DQH1Q4wOfRg"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247013,
+      "name": "Dracula - Main Edit",
+      "url": "https://open.spotify.com/track/3yKFb0tjiiyCbgqyQkUQvA"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/4FZRhzEtEDk05L6Z2OT9UB"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152733,
+      "name": "Dracula's Wedding",
+      "url": "https://open.spotify.com/track/1HS1yIO8uhNoQylBg9boFU"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152413,
+      "name": "Dracula's Wedding (feat. Kelis)",
+      "url": "https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO"
+    },
+    {
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2kYUGuzvFalmxjhSD0q7u1"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222840,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/4QEFQlNFerDnWvNU8NASiV"
+    },
+    {
+      "album": {
+        "name": "Espantoso y Divertido Halloween",
+        "url": "https://open.spotify.com/album/7e4bBnc0y3ml0ohJDeru9G"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222893,
+      "name": "Dragula",
+      "url": "https://open.spotify.com/track/7hSixKXeeXtLpNiq4kEfPL"
+    },
+    {
+      "album": {
+        "name": "Drowaton",
+        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+      },
+      "artists": [
+        {
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173760,
+      "name": "Eyes Of The Night",
+      "url": "https://open.spotify.com/track/0RJPnt0r5BRQPCedaffMrw"
+    },
+    {
+      "album": {
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284693,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best Of Alice Cooper",
+        "url": "https://open.spotify.com/album/5M50gz8rh6inIVTdBUJ7z9"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285093,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/1oDATX0oMlqu03e3pclagF"
+    },
+    {
+      "album": {
+        "name": "The Best Of Edgar Winter",
+        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
+      },
+      "artists": [
+        {
+          "name": "The Edgar Winter Group",
+          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "album": {
+        "name": "Ghostbusters",
+        "url": "https://open.spotify.com/album/5yPHlWyVZRtYszki7TXfJw"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244573,
+      "name": "Ghostbusters - From \"Ghostbusters\"",
+      "url": "https://open.spotify.com/track/20yaQDVW6gefTsdoa9Out7"
+    },
+    {
+      "album": {
+        "name": "Best of 00-10",
+        "url": "https://open.spotify.com/album/2vbAeAhBqZxuF3aJmlPWBQ"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271373,
+      "name": "Ghosts - Single Edit",
+      "url": "https://open.spotify.com/track/4QIxv5yjb9TvbJeVzMQFt1"
+    },
+    {
+      "album": {
+        "name": "Ghosts (Remixes)",
+        "url": "https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271373,
+      "name": "Ghosts - Single Edit",
+      "url": "https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht"
+    },
+    {
+      "album": {
+        "name": "Going To Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276053,
+      "name": "Going To Hell",
+      "url": "https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG"
+    },
+    {
+      "album": {
+        "name": "Going to Hell",
+        "url": "https://open.spotify.com/album/4BgfwxJn5S5U1Qb3LrzdZX"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276053,
+      "name": "Going to Hell",
+      "url": "https://open.spotify.com/track/2zjQmMLev4cOwEQ5YHZlhd"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Speciel Edition)",
+        "url": "https://open.spotify.com/album/5crHzO0kyQmmI23LINH9AO"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk"
+    },
+    {
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "album": {
+        "name": "Sponge Fingerz",
+        "url": "https://open.spotify.com/album/2ZhVdSdjk24j3XsmdloQ2N"
+      },
+      "artists": [
+        {
+          "name": "New Beat Fund",
+          "url": "https://open.spotify.com/artist/5IqdTZwvASXwM39z5qPqAA"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234163,
+      "name": "Halloween Birthdaze",
+      "url": "https://open.spotify.com/track/3KR93nZtntqBvwWCtj8TPo"
+    },
+    {
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
+        "name": "Halloween Mix",
+        "url": "https://open.spotify.com/album/2uX8vuhVKDOKwqJoUeBQTh"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2lt8UNhwCaywSa8jPEORkX"
+    },
+    {
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
+    },
+    {
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3nuLaHUml2Ul4Vu1hv7iT4"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185440,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7uXVBv1Uj4lnfUHVpcCAyQ"
+    },
+    {
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
+    },
+    {
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210866,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/2EpWSz9znbY1B2ycbPK2HX"
+    },
+    {
+      "album": {
+        "name": "Smells Like Children",
+        "url": "https://open.spotify.com/album/6V8b6itvyd7N3IRMXkjSi7"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216735,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/1C4xjDGHbociEC1NPOfGIB"
+    },
+    {
+      "album": {
+        "name": "Smells Like Children",
+        "url": "https://open.spotify.com/album/5XiQM9S9V3XL03xxmIMPeb"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0F5qpNAXWKyvyrHbpn168z"
+    },
+    {
+      "album": {
+        "name": "The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
+    },
+    {
+      "album": {
+        "name": "Kel Terribl\u00e9",
+        "url": "https://open.spotify.com/album/2LQ5Eam9TaEdPmwttVxLQv"
+      },
+      "artists": [
+        {
+          "name": "Rob Kelly",
+          "url": "https://open.spotify.com/artist/6RkG8owckWkmNWkMlzNujI"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235878,
+      "name": "Jack the Ripper",
+      "url": "https://open.spotify.com/track/0r7DoETSotkN7yln8GW6ei"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+    },
+    {
+      "album": {
+        "name": "Last Rights",
+        "url": "https://open.spotify.com/album/7JnmzVs8Mq1BqugKVsQm0N"
+      },
+      "artists": [
+        {
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228866,
+      "name": "Killing Game",
+      "url": "https://open.spotify.com/track/0EDMG2eqzC6cudqSMPOmCL"
+    },
+    {
+      "album": {
+        "name": "Last Rights",
+        "url": "https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq"
+      },
+      "artists": [
+        {
+          "name": "Skinny Puppy",
+          "url": "https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Killing Game",
+      "url": "https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ"
+    },
+    {
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+    },
+    {
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/0SaaFUUlPyazy4vnae7y8n"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202173,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/24x9VzJwvTkMxaAUGzTts0"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "album": {
+        "name": "The Addams Family (Original Music From The T.V. Show)",
+        "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy and His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120066,
+      "name": "Main Theme: The Addams Family - Instrumental Version",
+      "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
+    },
+    {
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "album": {
+        "name": "Midnight City",
+        "url": "https://open.spotify.com/album/5DB2xMdT0qoWeaHGW9q8e6"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/6uaBPdNeTvL4yH9CVJOg6K"
+    },
+    {
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6MBuQugGuX7VMBX0uiBnAQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-15",
+      "duration_ms": 243960,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/4kO7mrAPfqIrsKwUOK5BFx"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (International Deluxe)",
+        "url": "https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249253,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg"
+    },
+    {
+      "album": {
+        "name": "Awake (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ"
+    },
+    {
+      "album": {
+        "name": "OutRun",
+        "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175653,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/2L229dt48Ged4SdbenZrd7"
+    },
+    {
+      "album": {
+        "name": "OutRun",
+        "url": "https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9"
+    },
+    {
+      "album": {
+        "name": "Van Halen (Reissue)",
+        "url": "https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216733,
+      "name": "Runnin' With The Devil",
+      "url": "https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp"
+    },
+    {
+      "album": {
+        "name": "The Best of Both Worlds",
+        "url": "https://open.spotify.com/album/4O7PQY7R5d5gUV8hftZHHT"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2rGjxjmxK5ZuksP0jXHHjs"
+    },
+    {
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
+    },
+    {
+      "album": {
+        "name": "Scary Monsters",
+        "url": "https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312626,
+      "name": "Scary Monsters (And Super Creeps) - 1999 Remaster",
+      "url": "https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1"
+    },
+    {
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
+        "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-25",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn"
+    },
+    {
+      "album": {
+        "name": "Kids Songs: Halloween Party!",
+        "url": "https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX"
+    },
+    {
+      "album": {
+        "name": "Halloween for Kids",
+        "url": "https://open.spotify.com/album/7oYdF4y0Djq4nQpyHlcfYq"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6tUEdj7qGKPN3rV6GpBwuc"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237760,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+    },
+    {
+      "album": {
+        "name": "Hitsville USA, The Motown Collection 1972-1992",
+        "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/18SBju6wBZGpevPcsWMAM3"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 238773,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
+    },
+    {
+      "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
+    },
+    {
+      "album": {
+        "name": "Rewind, Replay, Rebound (Deluxe)",
+        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Sorry Sack Of Bones",
+      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
+    },
+    {
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
+    },
+    {
+      "album": {
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Stabbing In The Dark",
+      "url": "https://open.spotify.com/track/7H5q9RsWBDRrKq2qCdv2HG"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet",
+        "url": "https://open.spotify.com/album/5WZFtmADuJUZPtt0NER0Qi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 377746,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/4sFbojhVXQv7dBC9PVCcRn"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "album": {
+        "name": "Football Songs",
+        "url": "https://open.spotify.com/album/5QcGMeNhparwMjzDTl8TtQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition / Remastered 2018",
+      "url": "https://open.spotify.com/track/0lLPAht0tX1ex2ZpzNS3nF"
+    },
+    {
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+      "url": "https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw"
+    },
+    {
+      "album": {
+        "name": "100 Greatest TV Themes",
+        "url": "https://open.spotify.com/album/7D31xIneotn8D1JGWB0bKB"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 139598,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/3BkFCWaLPDrkf7HWQdSyQe"
+    },
+    {
+      "album": {
+        "name": "100 Greatest TV Themes",
+        "url": "https://open.spotify.com/album/0afkOxN5LzmMr3slmUhi6F"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 141346,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/4rzBn7FbXAel09UcinvyOA"
+    },
+    {
+      "album": {
+        "name": "Battlestar Galactica: The A to Z of Fantasy TV",
+        "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142560,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
+    },
+    {
+      "album": {
+        "name": "Dark Orchestral Music",
+        "url": "https://open.spotify.com/album/7f3ts8v116LNesJLAvnM4K"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy",
+          "url": "https://open.spotify.com/artist/4qJMdTpIuAWD8rOq0mBgHx"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 119893,
+      "name": "The Addams Family",
+      "url": "https://open.spotify.com/track/7BOED8Z0Mu9tsivXSPGGk1"
+    },
+    {
+      "album": {
+        "name": "The Addams Family",
+        "url": "https://open.spotify.com/album/5qSCwxD0bKiqmiD9hQXaAS"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy & His Orchestra",
+          "url": "https://open.spotify.com/artist/6a8HATOQDGF1wciECYb6vl"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 119893,
+      "name": "The Addams Family Theme",
+      "url": "https://open.spotify.com/track/5QIVtapQoKCkzUiCLavP9l"
+    },
+    {
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
+    },
+    {
+      "album": {
+        "name": "Lowering The Tone",
+        "url": "https://open.spotify.com/album/2T4J3Ia78GLZIpmiBy1tBu"
+      },
+      "artists": [
+        {
+          "name": "The Brad Pitt Light Orchestra",
+          "url": "https://open.spotify.com/artist/7JMRUQ02VgQk4vT9jxS88v"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 176106,
+      "name": "The Devil & Me",
+      "url": "https://open.spotify.com/track/56FmL59G1U0QKEfr5zJRhe"
+    },
+    {
+      "album": {
+        "name": "The Devil's Bleeding Crown",
+        "url": "https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
+    },
+    {
+      "album": {
+        "name": "Seal The Deal & Let's Boogie",
+        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP2",
+        "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250188,
+      "name": "The Monster",
+      "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
+    },
+    {
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3qGeRY1wt4rrLIt1YuSwHR"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 250188,
+      "name": "The Monster",
+      "url": "https://open.spotify.com/track/5U8hKxSaDXB8cVeLFQjvwx"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202800,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/7aoInyY7amyKi0NFDLFZbP"
+    },
+    {
+      "album": {
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202960,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/6wYJJ8AEhgS2euFsuTvZ1g"
+    },
+    {
+      "album": {
+        "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
+        "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "This is Halloween - Pop Version",
+      "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
+    },
+    {
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358053,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
+    },
+    {
+      "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 34920,
+      "name": "Thunderstorm - Overhead",
+      "url": "https://open.spotify.com/track/7zPLxHTkPAjy4U0QQ80JQH"
+    },
+    {
+      "album": {
+        "name": "Tenacious D",
+        "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248053,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+    },
+    {
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
+    },
+    {
+      "album": {
+        "name": "Slash",
+        "url": "https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 271906,
+      "name": "We're All Gonna Die",
+      "url": "https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd"
+    },
+    {
+      "album": {
+        "name": "The Very Best of the Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0"
+    },
+    {
+      "album": {
+        "name": "Yes, I'm A Witch",
+        "url": "https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        },
+        {
+          "name": "Palumbo Of The Brothers Brothers",
+          "url": "https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b"
+        },
+        {
+          "name": "John Palumbo",
+          "url": "https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 228640,
+      "name": "Yes, I'm A Witch",
+      "url": "https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP"
+    },
+    {
+      "album": {
+        "name": "EAT ME, DRINK ME",
+        "url": "https://open.spotify.com/album/2A49izrVW0wRLcst64owry"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
+      "duration_ms": 264266,
+      "name": "You And Me And The Devil Makes 3",
+      "url": "https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
+    },
+    {
+      "album": {
+        "name": "Halloween Jams 2020",
+        "url": "https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2019-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 307440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXarlH9zHuV0v"
 }

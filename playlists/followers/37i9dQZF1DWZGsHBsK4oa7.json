@@ -1,222 +1,1307 @@
 {
-  "2023-05-27": 18721,
-  "2023-05-28": 19041,
-  "2023-05-29": 19041,
-  "2023-05-30": 19231,
-  "2023-05-31": 19357,
-  "2023-06-01": 19463,
-  "2023-06-02": 19539,
-  "2023-06-03": 19625,
-  "2023-06-04": 19711,
-  "2023-06-05": 19820,
-  "2023-06-06": 19910,
-  "2023-06-07": 20004,
-  "2023-06-08": 20186,
-  "2023-06-09": 20396,
-  "2023-06-10": 21097,
-  "2023-06-11": 21570,
-  "2023-06-12": 21915,
-  "2023-06-13": 22166,
-  "2023-06-14": 22348,
-  "2023-06-15": 22606,
-  "2023-06-16": 22747,
-  "2023-06-17": 22884,
-  "2023-06-18": 23036,
-  "2023-06-19": 23146,
-  "2023-06-20": 23262,
-  "2023-06-21": 23374,
-  "2023-06-22": 23531,
-  "2023-06-23": 23632,
-  "2023-06-24": 23732,
-  "2023-06-25": 23811,
-  "2023-06-26": 23890,
-  "2023-06-27": 23966,
-  "2023-06-28": 24017,
-  "2023-06-29": 24075,
-  "2023-06-30": 24155,
-  "2023-07-01": 24485,
-  "2023-07-02": 24485,
-  "2023-07-03": 24655,
-  "2023-07-04": 24747,
-  "2023-07-05": 24835,
-  "2023-07-06": 25015,
-  "2023-07-07": 25015,
-  "2023-07-08": 25093,
-  "2023-07-09": 25178,
-  "2023-07-10": 25243,
-  "2023-07-11": 25300,
-  "2023-07-12": 25350,
-  "2023-07-13": 25401,
-  "2023-07-14": 25439,
-  "2023-07-15": 25467,
-  "2023-07-16": 25524,
-  "2023-07-17": 25572,
-  "2023-07-18": 25607,
-  "2023-07-19": 25643,
-  "2023-07-20": 25668,
-  "2023-07-21": 25703,
-  "2023-07-22": 25739,
-  "2023-07-23": 25773,
-  "2023-07-24": 25784,
-  "2023-07-25": 25794,
-  "2023-07-26": 25837,
-  "2023-07-27": 25874,
-  "2023-07-28": 25897,
-  "2023-07-29": 25919,
-  "2023-07-30": 25942,
-  "2023-07-31": 25962,
-  "2023-08-01": 25976,
-  "2023-08-02": 26002,
-  "2023-08-03": 26008,
-  "2023-08-04": 26036,
-  "2023-08-05": 26063,
-  "2023-08-06": 26107,
-  "2023-08-07": 26107,
-  "2023-08-08": 26117,
-  "2023-08-09": 26127,
-  "2023-08-10": 26152,
-  "2023-08-11": 26167,
-  "2023-08-12": 26188,
-  "2023-08-13": 26193,
-  "2023-08-14": 26193,
-  "2023-08-15": 26198,
-  "2023-08-16": 26198,
-  "2023-08-17": 26207,
-  "2023-08-18": 26215,
-  "2023-08-19": 26213,
-  "2023-08-20": 26221,
-  "2023-08-21": 26221,
-  "2023-08-22": 26222,
-  "2023-08-23": 26229,
-  "2023-08-24": 26225,
-  "2023-08-25": 26232,
-  "2023-08-26": 26232,
-  "2023-08-27": 26240,
-  "2023-08-28": 26245,
-  "2023-08-29": 26245,
-  "2023-08-30": 26249,
-  "2023-08-31": 26253,
-  "2023-09-01": 26280,
-  "2023-09-02": 26280,
-  "2023-09-03": 26295,
-  "2023-09-04": 26325,
-  "2023-09-05": 26342,
-  "2023-09-06": 26363,
-  "2023-09-07": 26380,
-  "2023-09-08": 26403,
-  "2023-09-09": 26423,
-  "2023-09-10": 26445,
-  "2023-09-11": 26462,
-  "2023-09-12": 26481,
-  "2023-09-13": 26494,
-  "2023-09-14": 26512,
-  "2023-09-15": 26528,
-  "2023-09-16": 26542,
-  "2023-09-17": 26552,
-  "2023-09-18": 26583,
-  "2023-09-19": 26600,
-  "2023-09-20": 26613,
-  "2023-09-21": 26641,
-  "2023-09-22": 26653,
-  "2023-09-23": 26664,
-  "2023-09-24": 26682,
-  "2023-09-25": 26700,
-  "2023-09-26": 26718,
-  "2023-09-27": 26737,
-  "2023-09-28": 26753,
-  "2023-09-29": 26765,
-  "2023-09-30": 26788,
-  "2023-10-01": 26800,
-  "2023-10-02": 26819,
-  "2023-10-03": 26830,
-  "2023-10-04": 26847,
-  "2023-10-05": 26866,
-  "2023-10-06": 26884,
-  "2023-10-07": 26895,
-  "2023-10-08": 26908,
-  "2023-10-09": 26921,
-  "2023-10-10": 26953,
-  "2023-10-11": 26984,
-  "2023-10-12": 26984,
-  "2023-10-13": 26995,
-  "2023-10-14": 27011,
-  "2023-10-15": 27026,
-  "2023-10-16": 27036,
-  "2023-10-17": 27043,
-  "2023-10-18": 27056,
-  "2023-10-19": 27075,
-  "2023-10-20": 27085,
-  "2023-10-21": 27095,
-  "2023-10-22": 27114,
-  "2023-10-23": 27129,
-  "2023-10-24": 27149,
-  "2023-10-25": 27164,
-  "2023-10-26": 27188,
-  "2023-10-27": 27195,
-  "2023-10-28": 27216,
-  "2023-10-29": 27228,
-  "2023-10-30": 27261,
-  "2023-10-31": 27261,
-  "2023-11-01": 27273,
-  "2023-11-02": 27287,
-  "2023-11-03": 27305,
-  "2023-11-04": 27315,
-  "2023-11-05": 27337,
-  "2023-11-06": 27348,
-  "2023-11-07": 27361,
-  "2023-11-08": 27360,
-  "2023-11-09": 27373,
-  "2023-11-10": 27381,
-  "2023-11-11": 27407,
-  "2023-11-12": 27419,
-  "2023-11-13": 27425,
-  "2023-11-14": 27441,
-  "2023-11-15": 27441,
-  "2023-11-16": 27456,
-  "2023-11-17": 27469,
-  "2023-11-18": 27469,
-  "2023-11-19": 27493,
-  "2023-11-20": 27506,
-  "2023-11-21": 27517,
-  "2023-11-22": 27533,
-  "2023-11-23": 27550,
-  "2023-11-24": 27567,
-  "2023-11-25": 27579,
-  "2023-11-26": 27589,
-  "2023-11-27": 27603,
-  "2023-11-28": 27615,
-  "2023-11-29": 27621,
-  "2023-11-30": 27621,
-  "2023-12-01": 27633,
-  "2023-12-02": 27638,
-  "2023-12-03": 27651,
-  "2023-12-04": 27670,
-  "2023-12-05": 27682,
-  "2023-12-06": 27694,
-  "2023-12-07": 27709,
-  "2023-12-08": 27723,
-  "2023-12-09": 27721,
-  "2023-12-10": 27717,
-  "2023-12-11": 27719,
-  "2023-12-12": 27712,
-  "2023-12-13": 27711,
-  "2023-12-14": 27708,
-  "2023-12-15": 27705,
-  "2023-12-16": 27706,
-  "2023-12-17": 27703,
-  "2023-12-18": 27702,
-  "2023-12-19": 27708,
-  "2023-12-20": 27710,
-  "2023-12-21": 27713,
-  "2023-12-22": 27710,
-  "2023-12-23": 27715,
-  "2023-12-24": 27716,
-  "2023-12-25": 27716,
-  "2023-12-26": 27716,
-  "2023-12-27": 27718,
-  "2023-12-30": 27729,
-  "2023-12-31": 27725,
-  "2024-01-01": 27728,
-  "2024-01-02": 27727,
-  "2024-01-03": 27728
+  "2024-01-17": 27722,
+  "date_first_scraped": "2023-05-27",
+  "description": "Music From \"Pretty Guardian Sailor Moon\"! \u6b74\u4ee3\u30b7\u30ea\u30fc\u30ba\u306e\u540d\u66f2\u3068\u8fbf\u308b\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u300d\u306e\u4e16\u754c! \u00a9\u6b66\u5185\u76f4\u5b50\u30fbPNP\uff0f\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "Pretty Guardian Sailor Moon -\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Meu",
+          "url": "https://open.spotify.com/artist/0C0sPt2eBCiTGaMwJJnvT8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "\"Rashiku\"Ikimasyo",
+      "url": "https://open.spotify.com/track/1fFKUBInZJfiT2m6I5ckwu"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u91ce\u4e9c\u7f8e(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/1j2hBvwTKOUkUAy1NDUtQd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282612,
+      "name": "a touch of rain",
+      "url": "https://open.spotify.com/track/0KOiWEQ7Yuj4lDVMlb20vg"
+    },
+    {
+      "album": {
+        "name": "Ai no senshi",
+        "url": "https://open.spotify.com/album/4zWQdvqmUfpg4CJcFlgcJI"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ishida",
+          "url": "https://open.spotify.com/artist/74DwyQJH0RnijEbWeJeoqV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Ai no senshi",
+      "url": "https://open.spotify.com/track/1FGEOEZK9Zrmg2ZWZ2wX2W"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30a6\u30e9\u30cc\u30b9(CV:\u7686\u5ddd\u7d14\u5b50)",
+          "url": "https://open.spotify.com/artist/2hZP64JYO1ctIfpFkQU6gU"
+        },
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30cd\u30d7\u30c1\u30e5\u30fc\u30f3(CV:\u5927\u539f\u3055\u3084\u304b)",
+          "url": "https://open.spotify.com/artist/1Td604lKE857MkGbLB9hfA"
+        },
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30d7\u30eb\u30fc\u30c8(CV:\u524d\u7530 \u611b)",
+          "url": "https://open.spotify.com/artist/4skqpADhFFbkevS1b8jBiw"
+        },
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30b5\u30bf\u30fc\u30f3(CV:\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/4vpBnBuJ8SXhXt91pMu4WT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Astral Mission",
+      "url": "https://open.spotify.com/track/2Ou6okZAEk5PjE2470pzZF"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u6728\u91ce\u307e\u3053\u3068(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/43PFKLflTggVF6BTmIEh98"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295271,
+      "name": "cherry pie",
+      "url": "https://open.spotify.com/track/4CQofcLAu4In8OuswOfVRv"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/4BM1ZTDFObgfN4fkd6lBA4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273920,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/2RXhmy8WkiLVOjTXiIS5HJ"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30cb\u30e5\u30fc\u30e0\u30fc\u30f3\u306b\u604b\u3057\u3066\u300d\u3084\u304f\u3057\u307e\u308b\u3048\u3064\u3053/\u300ceternal eternity\u300d\u30bb\u30fc\u30e9\u30fc\u30a6\u30e9\u30cc\u30b9(CV.\u7686\u5ddd\u7d14\u5b50)\u00d7\u30bb\u30fc\u30e9\u30fc\u30cd\u30d7\u30c1\u30e5\u30fc\u30f3(CV.\u5927\u539f\u3055\u3084\u304b)",
+        "url": "https://open.spotify.com/album/5BPhzRWt3rNkIVQZA3zYrW"
+      },
+      "artists": [
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30a6\u30e9\u30cc\u30b9(CV:\u7686\u5ddd\u7d14\u5b50)",
+          "url": "https://open.spotify.com/artist/3qxkTCULwJLZa7GMUIdYDS"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30cd\u30d7\u30c1\u30e5\u30fc\u30f3(CV:\u5927\u539f\u3055\u3084\u304b)",
+          "url": "https://open.spotify.com/artist/3tGvVuZj0yC0cqux0CnJiN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257729,
+      "name": "eternal eternity",
+      "url": "https://open.spotify.com/track/0zmERzVXU8vN8Vnkjd9gem"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/0svg5O5Cubkd9quz1C7jjo"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "ETERNAL MYSTAR",
+      "url": "https://open.spotify.com/track/6PTezs5xVs4XvKARmIamyX"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/34J1TesR1bf6HAykMh53Mb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "formula in blue",
+      "url": "https://open.spotify.com/track/4Ga9bmy7XZbFYS45oy8EBK"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/0ke6zrXhOaXabphxPiQ4KV"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u6708\u91ce\u3046\u3055\u304e(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/6dIHtXS2YKKFui4SYOWUU5"
+        },
+        {
+          "name": "\u5730\u5834\u885b(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/6qJsu9v3EmPhvFvHUBVLTa"
+        },
+        {
+          "name": "\u3061\u3073\u3046\u3055\uff08\uff23\uff36\uff0e\u798f\u5713\u7f8e\u91cc\uff09",
+          "url": "https://open.spotify.com/artist/4ey6qL9ZZW2IDbTtMtl0sZ"
+        },
+        {
+          "name": "\u6c34\u91ce\u4e9c\u7f8e(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/1j2hBvwTKOUkUAy1NDUtQd"
+        },
+        {
+          "name": "\u706b\u91ce\u30ec\u30a4(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/2A6j3ppgGMPs2RhYy5mMN9"
+        },
+        {
+          "name": "\u6728\u91ce\u307e\u3053\u3068(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/43PFKLflTggVF6BTmIEh98"
+        },
+        {
+          "name": "\u611b\u91ce\u7f8e\u5948\u5b50(CV:\u4f0a\u85e4\u9759)",
+          "url": "https://open.spotify.com/artist/0PdZ42jTjONCQqMYFfoqqg"
+        },
+        {
+          "name": "\u5929\u738b\u306f\u308b\u304b(CV.\u7686\u5ddd\u7d14\u5b50)",
+          "url": "https://open.spotify.com/artist/6yYS4wFc4W05tN8H02nS1f"
+        },
+        {
+          "name": "\u6d77\u738b\u307f\u3061\u308b(CV.\u5927\u539f\u3055\u3084\u304b)",
+          "url": "https://open.spotify.com/artist/5JONvfbtyIftXWK7BWbqOq"
+        },
+        {
+          "name": "\u51a5\u738b\u305b\u3064\u306a(CV.\u524d\u7530 \u611b)",
+          "url": "https://open.spotify.com/artist/4vTrPEWc8zmrIhUlf3cYZf"
+        },
+        {
+          "name": "\u571f\u8420\u307b\u305f\u308b(CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/0nlm3sm1n89kapvvzHvDCd"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197810,
+      "name": "Happy Marriage Song",
+      "url": "https://open.spotify.com/track/71wf2toI44fvx2h3R26eoA"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Misae Takamatsu",
+          "url": "https://open.spotify.com/artist/3pHqwhzg2iI3peCNmuMcbR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "HEART MOVING",
+      "url": "https://open.spotify.com/track/3wtH4hKfXgTu4GT2FtRfSo"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30a7\u30c0\u30a4\u30c8(CV:\u5cb8\u5c3e\u3060\u3044\u3059\u3051)",
+          "url": "https://open.spotify.com/artist/2PPr0r7deuWZ2TZ1ICYSjh"
+        },
+        {
+          "name": "\u30cd\u30d5\u30e9\u30a4\u30c8(CV:\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6uNPzeOiwKekahDyZ1wP1j"
+        },
+        {
+          "name": "\u30be\u30a4\u30b5\u30a4\u30c8(CV:\u677e\u98a8\u96c5\u4e5f)",
+          "url": "https://open.spotify.com/artist/246YJfcgDKtJoHyZLSggg4"
+        },
+        {
+          "name": "\u30af\u30f3\u30c4\u30a1\u30a4\u30c8(CV:\u7af9\u672c\u82f1\u53f2)",
+          "url": "https://open.spotify.com/artist/6ZBdfMPpYNzQOfCANke1QI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241892,
+      "name": "I'M GOING DOWN",
+      "url": "https://open.spotify.com/track/1uERRhoa52Q51Odr1tilpO"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/0zz6BUu6M4JTRR8OiM4z2G"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "I'm gonna be an IDOL!",
+      "url": "https://open.spotify.com/track/5D7jRpJcH0f6w5jX0tfYy7"
+    },
+    {
+      "album": {
+        "name": "La Soldier",
+        "url": "https://open.spotify.com/album/3Xj1z1LsKowkVW8Bq7ebZe"
+      },
+      "artists": [
+        {
+          "name": "Sakurakkokurabu sakuragumi",
+          "url": "https://open.spotify.com/artist/6wj7aFhKc2IsxKwudPuTtA"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "La Soldier",
+      "url": "https://open.spotify.com/track/4RrXMCdLBSzIHuerLOgEnm"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/0vayXkaNmY0ss9VG3NS9WS"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u3061\u3073\u30e0\u30fc\u30f3(CV:\u798f\u5713\u7f8e\u91cc)",
+          "url": "https://open.spotify.com/artist/0NZRcaYUx1NdLW3bRdtEjB"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/4NpZScinftidudpPSy6jNC"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/3e71gWgrpcqofCufn94m8P"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/5gifeFylr4hLNLl9IclZCj"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/2oHHu9xblrnbBmRqEY1QDe"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30a6\u30e9\u30cc\u30b9(CV:\u7686\u5ddd\u7d14\u5b50)",
+          "url": "https://open.spotify.com/artist/7cVUt42Snf9bje9GHHePWO"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30cd\u30d7\u30c1\u30e5\u30fc\u30f3(CV:\u5927\u539f\u3055\u3084\u304b)",
+          "url": "https://open.spotify.com/artist/43qZh16nrRjZ9mnGZFzvda"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30d7\u30eb\u30fc\u30c8(CV:\u524d\u7530 \u611b)",
+          "url": "https://open.spotify.com/artist/3IlGReQvKtWsoFQRi8MNMa"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30b5\u30bf\u30fc\u30f3(CV:\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/60MLefL1c8fZTgJMRbt2Fv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372600,
+      "name": "Moon Effect",
+      "url": "https://open.spotify.com/track/0ppkuIeLTyF140J3Vaq6O2"
+    },
+    {
+      "album": {
+        "name": "MOON PRIDE",
+        "url": "https://open.spotify.com/album/20DCms7dy0snEfn87xFVBZ"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "MOON PRIDE",
+      "url": "https://open.spotify.com/track/2vKK2J9JLSHXwxz2njJvph"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Sailor Guardian",
+          "url": "https://open.spotify.com/artist/2BIlUI0iPhjS6vqHCysGth"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Moon Revenge",
+      "url": "https://open.spotify.com/track/1bbPkR58fBSOie4AbxGs3r"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Asakawa",
+          "url": "https://open.spotify.com/artist/40RzdpOLaxQ5yJo2BJ1NXn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358826,
+      "name": "Moonlight Destiny",
+      "url": "https://open.spotify.com/track/5lqX2JMcr4UjcJEOAJtIvb"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "DALI",
+          "url": "https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175573,
+      "name": "Moonlight Legend",
+      "url": "https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Pretty Cast",
+          "url": "https://open.spotify.com/artist/6GIDth52rL9sjZeGbVPqe0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Morning Moon De Aimasyo",
+      "url": "https://open.spotify.com/track/1WPEDFFO7aZJLS4qduy4mh"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Three Lights",
+          "url": "https://open.spotify.com/artist/5aUjuREMkwFIBAUUVyZct0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287040,
+      "name": "Nagareboshihe",
+      "url": "https://open.spotify.com/track/11KuM12cQEHpgf8lKGSf7w"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ishida",
+          "url": "https://open.spotify.com/artist/74DwyQJH0RnijEbWeJeoqV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Otome no Policy",
+      "url": "https://open.spotify.com/track/4X2DC0jmAEGaoUhdSiK8tk"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Usio Hasahimoto",
+          "url": "https://open.spotify.com/artist/5M8uLiob7e6ZeBSOjUm7MN"
+        },
+        {
+          "name": "ApplePie",
+          "url": "https://open.spotify.com/artist/4Idzv2rQLAQleQW6mS0asf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Princess Moon",
+      "url": "https://open.spotify.com/track/1oGEsPChXMElrojC0hcwQm"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30ad\u30b7\u30fc\u30c9\u4eee\u9762(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/3qbj7B4dSyvvGxtQUYe7xP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251080,
+      "name": "Ray of light",
+      "url": "https://open.spotify.com/track/7tRlxCKKNkHjSLOcZ8XuFX"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Kae Hanazawa",
+          "url": "https://open.spotify.com/artist/0WA4xAfZ5cdIE6x3HQQhVX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "Sailor Star Song",
+      "url": "https://open.spotify.com/track/6SIYZ3n9UmwJ75AuyDCKMe"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/3wIjaYOVp0GjGJK175CcKi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "Signpost",
+      "url": "https://open.spotify.com/track/6zdZ9vnxefQXISYEbxjxe4"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u706b\u91ce\u30ec\u30a4(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/2A6j3ppgGMPs2RhYy5mMN9"
+        },
+        {
+          "name": "\u611b\u91ce\u7f8e\u5948\u5b50(CV:\u4f0a\u85e4\u9759)",
+          "url": "https://open.spotify.com/artist/0PdZ42jTjONCQqMYFfoqqg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254864,
+      "name": "Star on Stars",
+      "url": "https://open.spotify.com/track/2GO2pgbA9JWJtgpmQufUbQ"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Three Lights",
+          "url": "https://open.spotify.com/artist/5aUjuREMkwFIBAUUVyZct0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Todokanuomoi -my friend's love-",
+      "url": "https://open.spotify.com/track/0RCOLzeHNwbmsVBWHSygNn"
+    },
+    {
+      "album": {
+        "name": "Pretty Guardian Sailor Moon BEST",
+        "url": "https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp"
+      },
+      "artists": [
+        {
+          "name": "Kotono Mitsuishi",
+          "url": "https://open.spotify.com/artist/30P5BGFd8PetvAJKA4Knqz"
+        },
+        {
+          "name": "Michie Tomizawa",
+          "url": "https://open.spotify.com/artist/05OAQ6XvHtu63YJaLimhlz"
+        },
+        {
+          "name": "Aya Hisakawa",
+          "url": "https://open.spotify.com/artist/6RkJFVr972VOKHA5IiHHTr"
+        },
+        {
+          "name": "emi Shinohara",
+          "url": "https://open.spotify.com/artist/1piO8wKQzzldIm5rOkQejL"
+        },
+        {
+          "name": "Rika Fukami",
+          "url": "https://open.spotify.com/artist/6fsv6zlf4xoulWyPuhmGQd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Tuxedo Mirage",
+      "url": "https://open.spotify.com/track/33KfggawduqZ3MIOB4UTNv"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30bb\u30ec\u30bb\u30ec(CV:\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/7KvujMl3DmdiIOa3mbqJCO"
+        },
+        {
+          "name": "\u30d1\u30e9\u30d1\u30e9(CV:\u8af8\u661f\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/6o8I12YcrnBg68o9BcuEPw"
+        },
+        {
+          "name": "\u30b8\u30e5\u30f3\u30b8\u30e5\u30f3(CV:\u539f \u512a\u5b50)",
+          "url": "https://open.spotify.com/artist/7cfZkoeKkvMMeEt7zTCCLa"
+        },
+        {
+          "name": "\u30d9\u30b9\u30d9\u30b9(CV:\u9ad8\u6a4b\u674e\u4f9d)",
+          "url": "https://open.spotify.com/artist/4a9J0iRkD1bdTpd80A2u3Z"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "Welcome to the circus",
+      "url": "https://open.spotify.com/track/6pLeVuSjOJ3NzjEC5c2S0Q"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u300d\u304b\u3050\u3084\u59eb\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/5P53RKW4orY8Z4q43SoDMU"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d\u68a8\u745a(\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3)",
+          "url": "https://open.spotify.com/artist/4B4XR40isPyVzVBD8kKL5B"
+        },
+        {
+          "name": "\u524d\u5ddd\u6b4c\u97f3(\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc)",
+          "url": "https://open.spotify.com/artist/1jVBMZ6niiv4z138YyhQzp"
+        },
+        {
+          "name": "\u5c0f\u6797\u308c\u3044(\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/0eqCkTijY0zCtfFetVGz66"
+        },
+        {
+          "name": "\u677e\u6751\u30ad\u30b5\u30e9(\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc)",
+          "url": "https://open.spotify.com/artist/4yaOpADCoRPy1nROrVJc5G"
+        },
+        {
+          "name": "\u7267\u91ce\u771f\u9234(\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9)",
+          "url": "https://open.spotify.com/artist/5NFx6Q1tjA9dY0PjpIMnJF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166853,
+      "name": "You're my universe(Short ver.)",
+      "url": "https://open.spotify.com/track/3xXtURBktWg3OB9GlickLx"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u611b\u91ce\u7f8e\u5948\u5b50(CV:\u4f0a\u85e4\u9759)",
+          "url": "https://open.spotify.com/artist/0PdZ42jTjONCQqMYFfoqqg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243134,
+      "name": "\u2661\u304c\u98db\u3093\u3058\u3083\u3046\u7a7a\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/0mQxws8OMoNaZBhpckp9kR"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/0v8pUMWdAdQyOaHEnVeVwW"
+      },
+      "artists": [
+        {
+          "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d",
+          "url": "https://open.spotify.com/artist/4hM4v8xQG7s0OsNYVJ1bld"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47190,
+      "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+      "url": "https://open.spotify.com/track/2goHLaTJR51OJ1j5iZzYWN"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30ea\u30fc\u30e9\u30a4\u30c4\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+        "url": "https://open.spotify.com/album/31sUYdhs90Sb3PH4TkZXz1"
+      },
+      "artists": [
+        {
+          "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d",
+          "url": "https://open.spotify.com/artist/4hM4v8xQG7s0OsNYVJ1bld"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 28561,
+      "name": "\u30b9\u30ea\u30fc\u30e9\u30a4\u30c4\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8!",
+      "url": "https://open.spotify.com/track/0bwAlUIYqfYnoihBJHQzDl"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos\u300d \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/0ke6zrXhOaXabphxPiQ4KV"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u706b\u7403(CV.\u6c34\u6a39\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/3UTT2lZ7O1r0KSlf0Ab6Nh"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30d5\u30a1\u30a4\u30bf\u30fc(CV.\u4e95\u4e0a\u9ebb\u91cc\u5948)",
+          "url": "https://open.spotify.com/artist/5Ttw7YU2v9SFE6mOJyBxBZ"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30e1\u30a4\u30ab\u30fc(CV.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/1aVFZMZjJ9wHj4yyi1LNNq"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30d2\u30fc\u30e9\u30fc(CV.\u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/22T6raiTvN9ey0V482otci"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235716,
+      "name": "\u30bb\u30fc\u30e9\u30fc\u30b9\u30bf\u30fc\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/3OGLn1JbwjoBWdiFZs402k"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 Classic Concert ALBUM 2018",
+        "url": "https://open.spotify.com/album/5an9r2MuIaqk9q9R6bhKqv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        },
+        {
+          "name": "\u4e09\u77f3\u7434\u4e43",
+          "url": "https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797228,
+      "name": "\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u5287\u4f34(BGM)\u97f3\u697d\u30e1\u30c9\u30ec\u30fc",
+      "url": "https://open.spotify.com/track/5dnvgh3yAfmGofhnSsjm1q"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30a4\u30ac\u30fc\u30ba\u30fb\u30a2\u30a4(CV:\u65e5\u91ce \u8061)",
+          "url": "https://open.spotify.com/artist/6ShNtDNBEgIlrMMTCLMbID"
+        },
+        {
+          "name": "\u30db\u30fc\u30af\u30b9\u30fb\u30a2\u30a4(CV:\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/31u7HtAumho1P3tPUtRNcA"
+        },
+        {
+          "name": "\u30d5\u30a3\u30c3\u30b7\u30e5\u30fb\u30a2\u30a4(CV:\u84bc\u4e95\u7fd4\u592a)",
+          "url": "https://open.spotify.com/artist/4ZFXanwNT7lWp3ipRk36BU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "\u30c9\u30ea\u30fc\u30e0\u30ba\u30fb\u30a2\u30a4",
+      "url": "https://open.spotify.com/track/6SAQ4rzbCEFTiyge2p5ckc"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30cb\u30e5\u30fc\u30e0\u30fc\u30f3\u306b\u604b\u3057\u3066\u300d\u3084\u304f\u3057\u307e\u308b\u3048\u3064\u3053/\u300ceternal eternity\u300d\u30bb\u30fc\u30e9\u30fc\u30a6\u30e9\u30cc\u30b9(CV.\u7686\u5ddd\u7d14\u5b50)\u00d7\u30bb\u30fc\u30e9\u30fc\u30cd\u30d7\u30c1\u30e5\u30fc\u30f3(CV.\u5927\u539f\u3055\u3084\u304b)",
+        "url": "https://open.spotify.com/album/5BPhzRWt3rNkIVQZA3zYrW"
+      },
+      "artists": [
+        {
+          "name": "YAKUSHIMARU Etsuko",
+          "url": "https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264561,
+      "name": "\u30cb\u30e5\u30fc\u30e0\u30fc\u30f3\u306b\u604b\u3057\u3066",
+      "url": "https://open.spotify.com/track/4A67S9AXWsG4t1EHhseOGW"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 \u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h"
+      },
+      "artists": [
+        {
+          "name": "\u6a4b\u672c \u6f6e",
+          "url": "https://open.spotify.com/artist/6vx6kXklkOGywEp4PyujHT"
+        },
+        {
+          "name": "\u30a2\u30c3\u30d7\u30eb\u30d1\u30a4",
+          "url": "https://open.spotify.com/artist/1R0lYkLRxvSIK4o77PuAGm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 244666,
+      "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30e0\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/53UNsb1WPOjQtEbjwZyfY9"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 THE 20TH ANNIVERSARY MEMORIAL TRIBUTE",
+        "url": "https://open.spotify.com/album/7v3boxFW6SwgaCbKe0B5hc"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/5Evz4JdzvH5X4LNmES6SBb"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac/\u6d41\u308c\u661f\u3078",
+        "url": "https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/0vayXkaNmY0ss9VG3NS9WS"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/4NpZScinftidudpPSy6jNC"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/3e71gWgrpcqofCufn94m8P"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/5gifeFylr4hLNLl9IclZCj"
+        },
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4 \u9759)",
+          "url": "https://open.spotify.com/artist/2oHHu9xblrnbBmRqEY1QDe"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185141,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/64QWRvVuZet8Ov3mCNM7yR"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3\u300d\u304b\u3050\u3084\u59eb\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/5P53RKW4orY8Z4q43SoDMU"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d\u68a8\u745a(\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3)",
+          "url": "https://open.spotify.com/artist/4B4XR40isPyVzVBD8kKL5B"
+        },
+        {
+          "name": "\u524d\u5ddd\u6b4c\u97f3(\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc)",
+          "url": "https://open.spotify.com/artist/1jVBMZ6niiv4z138YyhQzp"
+        },
+        {
+          "name": "\u5c0f\u6797\u308c\u3044(\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/0eqCkTijY0zCtfFetVGz66"
+        },
+        {
+          "name": "\u677e\u6751\u30ad\u30b5\u30e9(\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc)",
+          "url": "https://open.spotify.com/artist/4yaOpADCoRPy1nROrVJc5G"
+        },
+        {
+          "name": "\u7267\u91ce\u771f\u9234(\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9)",
+          "url": "https://open.spotify.com/artist/5NFx6Q1tjA9dY0PjpIMnJF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115570,
+      "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac(Short ver.)",
+      "url": "https://open.spotify.com/track/4r5aWSAIrJF5RcBfTQshoh"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 25\u5468\u5e74\u8a18\u5ff5Classic Concert ALBUM",
+        "url": "https://open.spotify.com/album/5Vw1uQ3V9G6uNQVnGlv4Va"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80906,
+      "name": "\u30e0\u30fc\u30f3\u30fb\u30d7\u30ea\u30ba\u30e0\u30fb\u30d1\u30ef\u30fc\u30fb\u30e1\u30a4\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/track/5aC7yJBbtQbUbxERCqkjjR"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30cb\u30e5\u30fc\u30e0\u30fc\u30f3\u306b\u604b\u3057\u3066\u300d\u5800\u6c5f\u7f8e\u90fd\u5b50/\u300c\u4e59\u5973\u306e\u30b9\u30b9\u30e1\u300d\u3061\u3073\u3046\u3055(CV.\u798f\u5713\u7f8e\u91cc)",
+        "url": "https://open.spotify.com/album/6TXPGvuFejKtWL7M2hsnfM"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u3073\u3046\u3055\uff08\uff23\uff36\uff0e\u798f\u5713\u7f8e\u91cc\uff09",
+          "url": "https://open.spotify.com/artist/4ey6qL9ZZW2IDbTtMtl0sZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144180,
+      "name": "\u4e59\u5973\u306e\u30b9\u30b9\u30e1",
+      "url": "https://open.spotify.com/track/2m0LgNk05dNd8c9bLg67WA"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u5730\u5834\u885b(CV:\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/6qJsu9v3EmPhvFvHUBVLTa"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265316,
+      "name": "\u541b\u306e\u77b3\u306eMoonrise",
+      "url": "https://open.spotify.com/track/6dBygh8ksbL2x8PiQ0lyG2"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300c\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Eternal\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u96c6 Eternal Collection",
+        "url": "https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u30bb\u30fc\u30e9\u30fc\u3061\u3073\u30e0\u30fc\u30f3(CV:\u798f\u5713\u7f8e\u91cc)",
+          "url": "https://open.spotify.com/artist/49C2oVpWooSQLMlY4Ir2TK"
+        },
+        {
+          "name": "\u30a8\u30ea\u30aa\u30b9(CV:\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/2m8vqKZtM8ZRgxAk2m9o4p"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "\u5922\u8272\u306e\u521d\u604b",
+      "url": "https://open.spotify.com/track/7x7SNai8TwFPtz6wqCCA0k"
+    },
+    {
+      "album": {
+        "name": "\u6708\u306e\u82b1",
+        "url": "https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR"
+      },
+      "artists": [
+        {
+          "name": "Daoko",
+          "url": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+        },
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241152,
+      "name": "\u6708\u306e\u82b1",
+      "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"
+    },
+    {
+      "album": {
+        "name": "\u6708\u8272Chainon (Eternal\u76e4)",
+        "url": "https://open.spotify.com/album/3QXwfNBhlJWaNXPJqEUj5W"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3082\u3044\u308d\u30af\u30ed\u30fc\u30d0\u30fcZ with \u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)&\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)&\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)&\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)&\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4\u9759)",
+          "url": "https://open.spotify.com/artist/40yfXJ77BGAz9QNzRPS4Jq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260118,
+      "name": "\u6708\u8272Chainon",
+      "url": "https://open.spotify.com/track/4k6s07py0efMchbNA0FKIu"
+    },
+    {
+      "album": {
+        "name": "MOON PRIDE",
+        "url": "https://open.spotify.com/album/20DCms7dy0snEfn87xFVBZ"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262906,
+      "name": "\u6708\u8679",
+      "url": "https://open.spotify.com/track/1jTR0CxHMVkuGecpWiXKKi"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30cb\u30e5\u30fc\u30e0\u30fc\u30f3\u306b\u604b\u3057\u3066\u300d\u3082\u3082\u3044\u308d\u30af\u30ed\u30fc\u30d0\u30fcZ/\u300c\u6c38\u9060\u3060\u3051\u304c\u4e8c\u4eba\u3092\u67b6\u3051\u308b\u300d\u30bf\u30ad\u30b7\u30fc\u30c9\u4eee\u9762(CV.\u91ce\u5cf6\u5065\u5150)",
+        "url": "https://open.spotify.com/album/3ALDhjXjy0xPKfuSSc2qEY"
+      },
+      "artists": [
+        {
+          "name": "\u30bf\u30ad\u30b7\u30fc\u30c9\u4eee\u9762(CV.\u91ce\u5cf6\u5065\u5150)",
+          "url": "https://open.spotify.com/artist/7frGU8k39x1o0k7DwEjmwC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265708,
+      "name": "\u6c38\u9060\u3060\u3051\u304c\u4e8c\u4eba\u3092\u67b6\u3051\u308b",
+      "url": "https://open.spotify.com/track/74oHRXv3CaZ2ExJoocIbLl"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u4f1d\u8aac/\u6d41\u308c\u661f\u3078",
+        "url": "https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Cosmos",
+          "url": "https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe"
+        },
+        {
+          "name": "\u30b9\u30ea\u30fc\u30e9\u30a4\u30c4",
+          "url": "https://open.spotify.com/artist/6RMcwW6VGECjqfKTPTRZSn"
+        },
+        {
+          "name": "\u661f\u91ce\u5149(CV.\u4e95\u4e0a\u9ebb\u91cc\u5948)",
+          "url": "https://open.spotify.com/artist/2JQNwbQUfwlZ39EHAysZDD"
+        },
+        {
+          "name": "\u5927\u6c17\u5149(CV.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/0ceOybSIg6DzdoT4jnZ6Ml"
+        },
+        {
+          "name": "\u591c\u5929\u5149(CV.\u4f50\u5009\u7dbe\u97f3)",
+          "url": "https://open.spotify.com/artist/6sgYkuPgjdV9fTgE5kCevR"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235574,
+      "name": "\u6d41\u308c\u661f\u3078",
+      "url": "https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u706b\u91ce\u30ec\u30a4(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/2A6j3ppgGMPs2RhYy5mMN9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239885,
+      "name": "\u706b\u306e\u6d77",
+      "url": "https://open.spotify.com/track/00gLJEspRsuHXdoEpjREEA"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u91ce\u4e9c\u7f8e(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/1j2hBvwTKOUkUAy1NDUtQd"
+        },
+        {
+          "name": "\u6728\u91ce\u307e\u3053\u3068(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/43PFKLflTggVF6BTmIEh98"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255093,
+      "name": "\u771f\u591c\u4e2dsecret talk",
+      "url": "https://open.spotify.com/track/4nqR9XOHp4WY43aIpJRsmC"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u91ce\u3046\u3055\u304e(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/6dIHtXS2YKKFui4SYOWUU5"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299410,
+      "name": "\u964d\u3063\u3066\u3082 \u6674\u308c\u3066\u3082 -come rain or come shine-",
+      "url": "https://open.spotify.com/track/6u8WjxTI7DVfiS79yMwizL"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3Crystal\u3000\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u97f3\u697d\u96c6\u3000Crystal Collection",
+        "url": "https://open.spotify.com/album/1B3JPyB38BQHIkUwePddCr"
+      },
+      "artists": [
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3(CV:\u4e09\u77f3\u7434\u4e43)",
+          "url": "https://open.spotify.com/artist/63n62Jq6LMlB24j7Uv9y6y"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ad\u30e5\u30ea\u30fc(CV:\u91d1\u5143\u5bff\u5b50)",
+          "url": "https://open.spotify.com/artist/5AFo75PCBqapt7O0iBHCIt"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30de\u30fc\u30ba(CV:\u4f50\u85e4\u5229\u5948)",
+          "url": "https://open.spotify.com/artist/5QgIHxt0JpGcoKcrofN3Yj"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30b8\u30e5\u30d4\u30bf\u30fc(CV:\u5c0f\u6e05\u6c34\u4e9c\u7f8e)",
+          "url": "https://open.spotify.com/artist/18S6dL7s3wbyEPEFCIuzYt"
+        },
+        {
+          "name": "\u30bb\u30fc\u30e9\u30fc\u30f4\u30a3\u30fc\u30ca\u30b9(CV:\u4f0a\u85e4\u9759)",
+          "url": "https://open.spotify.com/artist/64pQz94ontOPdDfkTmaK7A"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236394,
+      "name": "\u9769\u547d\u306f\u30ca\u30a4\u30c8\uff06\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/757oG2NJtiXheIvWzxi5rW"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u3082\u7a7a\u3082\u304d\u3063\u3068\u2026",
+        "url": "https://open.spotify.com/album/1CS6IutJnsvco0I0De7yEg"
+      },
+      "artists": [
+        {
+          "name": "Alisa Mizuki",
+          "url": "https://open.spotify.com/artist/3F9qxTNNdfUkuxCFBHFCHg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286933,
+      "name": "\u98a8\u3082\u7a7a\u3082\u304d\u3063\u3068\u2026",
+      "url": "https://open.spotify.com/track/50tRpoVWeGheugpKFlg7en"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 THE 20TH ANNIVERSARY MEMORIAL TRIBUTE",
+        "url": "https://open.spotify.com/album/7v3boxFW6SwgaCbKe0B5hc"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kawamoto",
+          "url": "https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370213,
+      "name": "\u98a8\u3082\u7a7a\u3082\u304d\u3063\u3068\u2026",
+      "url": "https://open.spotify.com/track/4MsgOTHHgDCGYay0wMYyPc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZGsHBsK4oa7"
 }

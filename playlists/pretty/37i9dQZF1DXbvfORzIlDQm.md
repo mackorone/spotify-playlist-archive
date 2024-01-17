@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,734 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,791 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

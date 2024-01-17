@@ -1,320 +1,903 @@
 {
-  "2023-02-17": 2385,
-  "2023-02-18": 2481,
-  "2023-02-19": 2491,
-  "2023-02-20": 2530,
-  "2023-02-21": 3352,
-  "2023-02-22": 4022,
-  "2023-02-23": 4505,
-  "2023-02-24": 5004,
-  "2023-02-25": 5417,
-  "2023-02-26": 5570,
-  "2023-02-27": 5857,
-  "2023-02-28": 5857,
-  "2023-03-01": 5930,
-  "2023-03-02": 6047,
-  "2023-03-03": 6153,
-  "2023-03-04": 6232,
-  "2023-03-05": 6392,
-  "2023-03-06": 6392,
-  "2023-03-07": 6461,
-  "2023-03-08": 6497,
-  "2023-03-09": 6552,
-  "2023-03-10": 6626,
-  "2023-03-11": 6702,
-  "2023-03-12": 6799,
-  "2023-03-13": 6884,
-  "2023-03-14": 6988,
-  "2023-03-15": 7058,
-  "2023-03-16": 7131,
-  "2023-03-17": 7131,
-  "2023-03-18": 7510,
-  "2023-03-19": 7679,
-  "2023-03-20": 7801,
-  "2023-03-21": 7941,
-  "2023-03-22": 8068,
-  "2023-03-23": 8197,
-  "2023-03-24": 8197,
-  "2023-03-25": 8927,
-  "2023-03-26": 9134,
-  "2023-03-27": 9274,
-  "2023-03-28": 9408,
-  "2023-03-29": 9541,
-  "2023-03-30": 9778,
-  "2023-03-31": 9778,
-  "2023-04-01": 9895,
-  "2023-04-02": 10008,
-  "2023-04-03": 10120,
-  "2023-04-04": 10203,
-  "2023-04-05": 10290,
-  "2023-04-06": 10412,
-  "2023-04-07": 10605,
-  "2023-04-09": 10891,
-  "2023-04-10": 10996,
-  "2023-04-11": 11197,
-  "2023-04-12": 11197,
-  "2023-04-13": 11264,
-  "2023-04-14": 11356,
-  "2023-04-15": 11451,
-  "2023-04-16": 11536,
-  "2023-04-17": 11599,
-  "2023-04-18": 11663,
-  "2023-04-19": 11729,
-  "2023-04-20": 11811,
-  "2023-04-21": 11923,
-  "2023-04-22": 12074,
-  "2023-04-23": 12163,
-  "2023-04-24": 12254,
-  "2023-04-25": 12316,
-  "2023-04-26": 12379,
-  "2023-04-27": 12441,
-  "2023-04-28": 12488,
-  "2023-04-29": 12537,
-  "2023-04-30": 12606,
-  "2023-05-01": 12655,
-  "2023-05-02": 12714,
-  "2023-05-03": 12752,
-  "2023-05-04": 12783,
-  "2023-05-05": 12821,
-  "2023-05-06": 12854,
-  "2023-05-07": 12893,
-  "2023-05-08": 12934,
-  "2023-05-09": 12978,
-  "2023-05-10": 13014,
-  "2023-05-11": 13038,
-  "2023-05-12": 13064,
-  "2023-05-13": 13089,
-  "2023-05-14": 13122,
-  "2023-05-15": 13147,
-  "2023-05-16": 13166,
-  "2023-05-17": 13205,
-  "2023-05-18": 13232,
-  "2023-05-19": 13252,
-  "2023-05-20": 13287,
-  "2023-05-21": 13287,
-  "2023-05-22": 13287,
-  "2023-05-23": 13313,
-  "2023-05-24": 13347,
-  "2023-05-25": 13353,
-  "2023-05-26": 13372,
-  "2023-05-27": 13402,
-  "2023-05-28": 13422,
-  "2023-05-29": 13422,
-  "2023-05-30": 13450,
-  "2023-05-31": 13462,
-  "2023-06-01": 13468,
-  "2023-06-02": 13479,
-  "2023-06-03": 13497,
-  "2023-06-04": 13519,
-  "2023-06-05": 13535,
-  "2023-06-06": 13548,
-  "2023-06-07": 13580,
-  "2023-06-08": 13594,
-  "2023-06-09": 13603,
-  "2023-06-10": 13611,
-  "2023-06-11": 13615,
-  "2023-06-12": 13631,
-  "2023-06-13": 13640,
-  "2023-06-14": 13648,
-  "2023-06-15": 13652,
-  "2023-06-16": 13659,
-  "2023-06-17": 13667,
-  "2023-06-18": 13669,
-  "2023-06-19": 13670,
-  "2023-06-20": 13676,
-  "2023-06-21": 13683,
-  "2023-06-22": 13692,
-  "2023-06-23": 13699,
-  "2023-06-24": 13705,
-  "2023-06-25": 13709,
-  "2023-06-26": 13710,
-  "2023-06-27": 13714,
-  "2023-06-28": 13723,
-  "2023-06-29": 13729,
-  "2023-06-30": 13731,
-  "2023-07-01": 13748,
-  "2023-07-02": 13748,
-  "2023-07-03": 13755,
-  "2023-07-04": 13759,
-  "2023-07-05": 13760,
-  "2023-07-06": 13766,
-  "2023-07-07": 13766,
-  "2023-07-08": 13767,
-  "2023-07-09": 13769,
-  "2023-07-10": 13768,
-  "2023-07-11": 13772,
-  "2023-07-12": 13782,
-  "2023-07-13": 13779,
-  "2023-07-14": 13790,
-  "2023-07-15": 13789,
-  "2023-07-16": 13785,
-  "2023-07-17": 13782,
-  "2023-07-18": 13781,
-  "2023-07-19": 13791,
-  "2023-07-20": 13793,
-  "2023-07-21": 13790,
-  "2023-07-22": 13800,
-  "2023-07-23": 13805,
-  "2023-07-24": 13800,
-  "2023-07-25": 13808,
-  "2023-07-26": 13808,
-  "2023-07-27": 13805,
-  "2023-07-28": 13809,
-  "2023-07-29": 13813,
-  "2023-07-30": 13814,
-  "2023-07-31": 13819,
-  "2023-08-01": 13828,
-  "2023-08-02": 13830,
-  "2023-08-03": 13835,
-  "2023-08-04": 13844,
-  "2023-08-05": 13859,
-  "2023-08-06": 13861,
-  "2023-08-07": 13861,
-  "2023-08-08": 13854,
-  "2023-08-09": 13853,
-  "2023-08-10": 13853,
-  "2023-08-11": 13859,
-  "2023-08-12": 13861,
-  "2023-08-13": 13862,
-  "2023-08-14": 13863,
-  "2023-08-15": 13874,
-  "2023-08-16": 13874,
-  "2023-08-17": 13875,
-  "2023-08-18": 13883,
-  "2023-08-19": 13881,
-  "2023-08-20": 13881,
-  "2023-08-21": 13876,
-  "2023-08-22": 13882,
-  "2023-08-23": 13875,
-  "2023-08-24": 13877,
-  "2023-08-25": 13877,
-  "2023-08-26": 13881,
-  "2023-08-27": 13876,
-  "2023-08-28": 13874,
-  "2023-08-29": 13878,
-  "2023-08-30": 13875,
-  "2023-08-31": 13872,
-  "2023-09-01": 13881,
-  "2023-09-02": 13881,
-  "2023-09-03": 13891,
-  "2023-09-04": 13908,
-  "2023-09-05": 13910,
-  "2023-09-06": 13922,
-  "2023-09-07": 13931,
-  "2023-09-08": 13943,
-  "2023-09-09": 13960,
-  "2023-09-10": 13964,
-  "2023-09-11": 13971,
-  "2023-09-12": 13975,
-  "2023-09-13": 13980,
-  "2023-09-14": 13988,
-  "2023-09-15": 14002,
-  "2023-09-16": 14007,
-  "2023-09-17": 14013,
-  "2023-09-18": 14025,
-  "2023-09-19": 14037,
-  "2023-09-20": 14037,
-  "2023-09-21": 14051,
-  "2023-09-22": 14056,
-  "2023-09-23": 14073,
-  "2023-09-24": 14076,
-  "2023-09-25": 14087,
-  "2023-09-26": 14097,
-  "2023-09-27": 14113,
-  "2023-09-28": 14122,
-  "2023-09-29": 14132,
-  "2023-09-30": 14139,
-  "2023-10-01": 14142,
-  "2023-10-02": 14161,
-  "2023-10-03": 14158,
-  "2023-10-04": 14161,
-  "2023-10-05": 14166,
-  "2023-10-06": 14173,
-  "2023-10-07": 14182,
-  "2023-10-08": 14196,
-  "2023-10-09": 14188,
-  "2023-10-10": 14194,
-  "2023-10-11": 14233,
-  "2023-10-12": 14233,
-  "2023-10-13": 14247,
-  "2023-10-14": 14255,
-  "2023-10-15": 14264,
-  "2023-10-16": 14277,
-  "2023-10-17": 14290,
-  "2023-10-18": 14301,
-  "2023-10-19": 14307,
-  "2023-10-20": 14305,
-  "2023-10-21": 14307,
-  "2023-10-22": 14311,
-  "2023-10-23": 14321,
-  "2023-10-24": 14326,
-  "2023-10-25": 14328,
-  "2023-10-26": 14333,
-  "2023-10-27": 14345,
-  "2023-10-28": 14345,
-  "2023-10-29": 14354,
-  "2023-10-30": 14372,
-  "2023-10-31": 14372,
-  "2023-11-01": 14377,
-  "2023-11-02": 14383,
-  "2023-11-03": 14390,
-  "2023-11-04": 14403,
-  "2023-11-05": 14414,
-  "2023-11-06": 14421,
-  "2023-11-07": 14433,
-  "2023-11-08": 14442,
-  "2023-11-09": 14451,
-  "2023-11-10": 14456,
-  "2023-11-11": 14469,
-  "2023-11-12": 14474,
-  "2023-11-13": 14480,
-  "2023-11-14": 14488,
-  "2023-11-15": 14488,
-  "2023-11-16": 14503,
-  "2023-11-17": 14507,
-  "2023-11-18": 14507,
-  "2023-11-19": 14512,
-  "2023-11-20": 14518,
-  "2023-11-21": 14532,
-  "2023-11-22": 14538,
-  "2023-11-23": 14544,
-  "2023-11-24": 14547,
-  "2023-11-25": 14548,
-  "2023-11-26": 14556,
-  "2023-11-27": 14570,
-  "2023-11-28": 14573,
-  "2023-11-29": 14603,
-  "2023-11-30": 14603,
-  "2023-12-01": 14608,
-  "2023-12-02": 14614,
-  "2023-12-03": 14614,
-  "2023-12-04": 14619,
-  "2023-12-05": 14628,
-  "2023-12-06": 14632,
-  "2023-12-07": 14649,
-  "2023-12-08": 14660,
-  "2023-12-09": 14683,
-  "2023-12-10": 14690,
-  "2023-12-11": 14696,
-  "2023-12-12": 14711,
-  "2023-12-13": 14724,
-  "2023-12-14": 14745,
-  "2023-12-15": 14754,
-  "2023-12-16": 14757,
-  "2023-12-17": 14761,
-  "2023-12-18": 14760,
-  "2023-12-19": 14757,
-  "2023-12-20": 14763,
-  "2023-12-21": 14766,
-  "2023-12-22": 14772,
-  "2023-12-23": 14782,
-  "2023-12-24": 14796,
-  "2023-12-25": 14803,
-  "2023-12-26": 14805,
-  "2023-12-27": 14811,
-  "2023-12-30": 14843,
-  "2023-12-31": 14846,
-  "2024-01-01": 14856,
-  "2024-01-02": 14858,
-  "2024-01-03": 14873
+  "2024-01-17": 14923,
+  "date_first_scraped": "2023-02-17",
+  "description": "Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! (JTBC\uc758 \uae00\ub85c\ubc8c \uc544\uc774\ub3cc \uc624\ub514\uc158 '\ud53c\ud06c\ud0c0\uc784'\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\uacfc \ub3c5\uc810 \ubbf8\uacf5\uac1c \uc601\uc0c1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "name": "PEAK TIME (\ud53c\ud06c\ud0c0\uc784)",
+  "tracks": [
+    {
+      "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "TEAM 15:00",
+          "url": "https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "12:30",
+      "url": "https://open.spotify.com/track/1zWHJqSRlyXOIpxmvhLKhF"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4lY8pK8bvznvMR0WphEOK8"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145213,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/2jdI7mFoybIVPo4ALN7w63"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "TEAM 24:00",
+          "url": "https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4SUoJARMnoLM8raLDxL52X"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "TEAM 15:00",
+          "url": "https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159426,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3oTqTIaSQw1A7pPabZLwtw"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match>Pt.2",
+        "url": "https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY"
+      },
+      "artists": [
+        {
+          "name": "Vocal B Unit",
+          "url": "https://open.spotify.com/artist/33X2dzv4Dv0qTVYSaYoJVS"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Behind You",
+      "url": "https://open.spotify.com/track/4mctihpby0FE4YlG26eFgc"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "DIGNITY",
+          "url": "https://open.spotify.com/artist/0abB92vuvpYuTLTXFfbHDt"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "BOOMERANG",
+      "url": "https://open.spotify.com/track/2RzArAk9SebsfvGsDYqIbH"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "TEAM 10:00",
+          "url": "https://open.spotify.com/artist/6NdafHpJaUBRRSjQukavNJ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125946,
+      "name": "BTD (Before The Dawn)",
+      "url": "https://open.spotify.com/track/3ne82NJ7MhkoxtbjDGhsnS"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "TEAM 23:00",
+          "url": "https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6DnltfCFJE2yzuj3LoMIno"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "NTX",
+          "url": "https://open.spotify.com/artist/0cjqlZoKVk46DiiM9JdYbH"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "CIRCUIT",
+      "url": "https://open.spotify.com/track/2WvsWMrKzoqSJuWIwu6tZB"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4lY8pK8bvznvMR0WphEOK8"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Coco Colada",
+      "url": "https://open.spotify.com/track/2m7mHlWmijH6FBfkhlwcxA"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "BAE173",
+          "url": "https://open.spotify.com/artist/0DeTQZQaVVseKd9Zy9cxCV"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185906,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/2jeRzsj9tstZ7vhVJQtQy6"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "SEVENUS",
+          "url": "https://open.spotify.com/artist/4mfjxEJ9EhtCPyMNc8RFCm"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Doesn\u2019t Matter",
+      "url": "https://open.spotify.com/track/3rgzMSf3aouR4lZSoJql5w"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "GHOST9",
+          "url": "https://open.spotify.com/artist/0II6bFFAPO59zO8qFSf4Gb"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7fKHiD0Gtevk7iTC5pkZpT"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "M.O.N.T",
+          "url": "https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/3hTZba78tfUUkLmqznISeP"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "M.O.N.T",
+          "url": "https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155386,
+      "name": "GO CRAZY!",
+      "url": "https://open.spotify.com/track/5sTmNrQOtnMTNlne4izk8z"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "BAE173",
+          "url": "https://open.spotify.com/artist/5fJVQ0nHnXNlNSXIbF6jcm"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220893,
+      "name": "GT (prod. KENZIE)",
+      "url": "https://open.spotify.com/track/6W9ejn591TMQJNSedTNZGv"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "SEVENUS",
+          "url": "https://open.spotify.com/artist/4mfjxEJ9EhtCPyMNc8RFCm"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7tdDHP7ZyOjbTQuizyHI1c"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "BXB",
+          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "HOLA!",
+      "url": "https://open.spotify.com/track/29trjL95k1YM8DfxztI3Ru"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match> Pt.1",
+        "url": "https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc"
+      },
+      "artists": [
+        {
+          "name": "Rap A Unit",
+          "url": "https://open.spotify.com/artist/0ym3Wo2fqvcQipQZRxu8aK"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/61v4FdBRkYwnr7PZFZOcOu"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "BAE173",
+          "url": "https://open.spotify.com/artist/0DeTQZQaVVseKd9Zy9cxCV"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "La Song",
+      "url": "https://open.spotify.com/track/5Sgu2I18iq4Ubva69D8uz4"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "M.O.N.T",
+          "url": "https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Like We\u2019ve Never Been",
+      "url": "https://open.spotify.com/track/6sGSemAYoAkSimoC3hETv6"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Love Killa",
+      "url": "https://open.spotify.com/track/0mOyMG1lzvVoWFaUFtSfsH"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "DIGNITY",
+          "url": "https://open.spotify.com/artist/0abB92vuvpYuTLTXFfbHDt"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "MAVERICK",
+      "url": "https://open.spotify.com/track/4Nzq4HQhbvTq5sC5ooBF2k"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "MEOS (THE REAL) - \ud765: \u8208",
+      "url": "https://open.spotify.com/track/38UMVwxbkrn2rD9f06d4ws"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match> Pt.1",
+        "url": "https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc"
+      },
+      "artists": [
+        {
+          "name": "Rap C Unit",
+          "url": "https://open.spotify.com/artist/6ylpnfNVf228vO79ZUI3rk"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "MY BAG",
+      "url": "https://open.spotify.com/track/6EU8cfmj4s9kyub1NxkMIH"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "GHOST9",
+          "url": "https://open.spotify.com/artist/0II6bFFAPO59zO8qFSf4Gb"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/54yalx0ONuGj0mMyBNZxhm"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "NTX",
+          "url": "https://open.spotify.com/artist/0cjqlZoKVk46DiiM9JdYbH"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150813,
+      "name": "NO MERCY",
+      "url": "https://open.spotify.com/track/0UMtPtJ6SSKbbiYmc8XwKa"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "M.O.N.T",
+          "url": "https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "NOIR (prod. LEE MINHYUK (HUTA))",
+      "url": "https://open.spotify.com/track/2OmeuDlrS8BwyKlLwfOOOE"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "TEAM 15:00",
+          "url": "https://open.spotify.com/artist/44qUs2UwzLHgKPkC8rsSdn"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Nothin' without you",
+      "url": "https://open.spotify.com/track/2zCBydeXslxRDueRELNtTI"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "NTX",
+          "url": "https://open.spotify.com/artist/7htPt70e617Mwjh2Vcfei1"
+        },
+        {
+          "name": "GHOST9",
+          "url": "https://open.spotify.com/artist/6ILRJfx2UZGCrDpXPG7DhO"
+        },
+        {
+          "name": "TAEBEEN",
+          "url": "https://open.spotify.com/artist/4nKXR2krsxU92v9Aqk53fL"
+        },
+        {
+          "name": "ILKYUNG",
+          "url": "https://open.spotify.com/artist/1rkCca2HRzffXv3QwJQbag"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "NXT2U (prod. Tiffany Young)",
+      "url": "https://open.spotify.com/track/2AUqpWMPmLFkvBpKnVKJ4v"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Prime Time (prod. Ryan S. Jhun)",
+      "url": "https://open.spotify.com/track/0ykp0WfkApTfQHH3aqGIBk"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "DIGNITY",
+          "url": "https://open.spotify.com/artist/4JXwnODs4LpQQoZjmJaeNV"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "RE-ZERO",
+      "url": "https://open.spotify.com/track/1Axfp66kiGBYjU6iWthx7m"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "BLITZERS",
+          "url": "https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "S.O.D.A.",
+      "url": "https://open.spotify.com/track/0VA8Pk2csgAqqJpRNFocXq"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - Survival Round",
+        "url": "https://open.spotify.com/album/67ty9JxnL34dc5TZdAAsqt"
+      },
+      "artists": [
+        {
+          "name": "KINGDOM",
+          "url": "https://open.spotify.com/artist/6bYUblIvqIJ0smCP0EWogn"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145693,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/4eGfwECVEMiEJYlLwAQzzu"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "TEAM 23:00",
+          "url": "https://open.spotify.com/artist/3MkfOOCUo4pqJzdZv6YzrN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/6LA7jsaedQXehK60jarEuu"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "VANNER",
+          "url": "https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/5Jl3AmBWFlvU2jOMVeBk32"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "24K+",
+          "url": "https://open.spotify.com/artist/5r6waWb7zJbYnwwdy08EPO"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "STEP BY STEP",
+      "url": "https://open.spotify.com/track/0Gfdo6899913Re01dh7lFU"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match> Pt.1",
+        "url": "https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc"
+      },
+      "artists": [
+        {
+          "name": "Rap B Unit",
+          "url": "https://open.spotify.com/artist/1psbejooT9jqUKUcXdCkWb"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192760,
+      "name": "TAING TAING TAING",
+      "url": "https://open.spotify.com/track/3VdYMqC6R6gGm2diiEOUTd"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "TEXT ME (1052)",
+      "url": "https://open.spotify.com/track/0cJksW6QDYGKaVQ9x7i6uU"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "TEAM 24:00",
+          "url": "https://open.spotify.com/artist/5L7N8Gswa6XUVHLPJ2M7a0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "This That Shhh (prod. Jay Park)",
+      "url": "https://open.spotify.com/track/4EL9QTokXzqdo3ohc5b68e"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 3Round <Originals Match>",
+        "url": "https://open.spotify.com/album/2aItKmuyEnQ9nKmUY0IGrU"
+      },
+      "artists": [
+        {
+          "name": "BDC",
+          "url": "https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Thunder(Urr)",
+      "url": "https://open.spotify.com/track/5Cy07EPonlsFFQ4HCbBkQE"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match>Pt.2",
+        "url": "https://open.spotify.com/album/3uTbsS82hqYxpmf0dAWTLY"
+      },
+      "artists": [
+        {
+          "name": "Vocal A Unit",
+          "url": "https://open.spotify.com/artist/3Dom1R1u7Jbn8VSuiFDjx6"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169893,
+      "name": "Time of Our Life",
+      "url": "https://open.spotify.com/track/4lPq0t2yWlIpRuURifAdJi"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Turning Point (prod. \u5468\u5baa)",
+      "url": "https://open.spotify.com/track/4behFIxkLEWUh0XlBgsVJ0"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/5L2m9ywoDOiguu1jG4fnHc"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157266,
+      "name": "Very Good",
+      "url": "https://open.spotify.com/track/7JczxlJf6JYDQ8I0W02M0X"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1Round <Rival match>Pt.1",
+        "url": "https://open.spotify.com/album/2vKJbVuTNtuPoR8iY323dB"
+      },
+      "artists": [
+        {
+          "name": "BXB",
+          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Victory Song",
+      "url": "https://open.spotify.com/track/4ljZRhdhJhAMLCS2BNuakN"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - <FINAL ROUND>",
+        "url": "https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4"
+      },
+      "artists": [
+        {
+          "name": "SEVENUS",
+          "url": "https://open.spotify.com/artist/58HJi7yFLO4Q2Qu0m7XmTQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192680,
+      "name": "WAVE (prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/20fjmNYvcr8L14A9VqkOkI"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 2Round <Union match> Pt.1",
+        "url": "https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc"
+      },
+      "artists": [
+        {
+          "name": "Vocal C Unit",
+          "url": "https://open.spotify.com/artist/08CajDfHSx3HVYfOxteGSX"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/03gv7SwS0qm9dCfuuKgBYv"
+    },
+    {
+      "album": {
+        "name": "PEAK TIME - 1 Round <Rival match> Pt.2",
+        "url": "https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K"
+      },
+      "artists": [
+        {
+          "name": "SEVENUS",
+          "url": "https://open.spotify.com/artist/4mfjxEJ9EhtCPyMNc8RFCm"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/7Eqlekbk5iiYs6DHwheKjk"
+    },
+    {
+      "album": {
+        "name": "YOUR TIME",
+        "url": "https://open.spotify.com/album/6vkd9JWoW9yyyewCfs8dBY"
+      },
+      "artists": [
+        {
+          "name": "PEAK TIME TOP6",
+          "url": "https://open.spotify.com/artist/3VTia3pbTP2XEaOWJRQtoY"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "YOUR TIME",
+      "url": "https://open.spotify.com/track/4dSp0RtgeLkoZpjgN8f9Lb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYjqIbceAHm0"
 }

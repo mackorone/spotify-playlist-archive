@@ -1,731 +1,1963 @@
 {
-  "2021-12-29": 36,
-  "2021-12-30": 35,
-  "2021-12-31": 35,
-  "2022-01-01": 35,
-  "2022-01-02": 35,
-  "2022-01-03": 35,
-  "2022-01-04": 36,
-  "2022-01-05": 37,
-  "2022-01-06": 37,
-  "2022-01-07": 37,
-  "2022-01-08": 37,
-  "2022-01-09": 37,
-  "2022-01-10": 38,
-  "2022-01-11": 38,
-  "2022-01-12": 38,
-  "2022-01-13": 38,
-  "2022-01-14": 38,
-  "2022-01-15": 38,
-  "2022-01-16": 38,
-  "2022-01-17": 36,
-  "2022-01-18": 36,
-  "2022-01-19": 37,
-  "2022-01-20": 37,
-  "2022-01-21": 37,
-  "2022-01-22": 37,
-  "2022-01-23": 38,
-  "2022-01-24": 38,
-  "2022-01-25": 38,
-  "2022-01-26": 39,
-  "2022-01-27": 39,
-  "2022-01-28": 39,
-  "2022-01-29": 39,
-  "2022-01-30": 40,
-  "2022-01-31": 40,
-  "2022-02-01": 40,
-  "2022-02-02": 41,
-  "2022-02-03": 41,
-  "2022-02-04": 41,
-  "2022-02-05": 42,
-  "2022-02-06": 42,
-  "2022-02-07": 42,
-  "2022-02-08": 43,
-  "2022-02-09": 44,
-  "2022-02-10": 46,
-  "2022-02-11": 46,
-  "2022-02-12": 46,
-  "2022-02-13": 46,
-  "2022-02-14": 46,
-  "2022-02-15": 47,
-  "2022-02-16": 47,
-  "2022-02-17": 47,
-  "2022-02-18": 47,
-  "2022-02-19": 47,
-  "2022-02-20": 47,
-  "2022-02-21": 47,
-  "2022-02-22": 47,
-  "2022-02-23": 47,
-  "2022-02-24": 47,
-  "2022-02-25": 47,
-  "2022-02-26": 47,
-  "2022-02-27": 47,
-  "2022-02-28": 47,
-  "2022-03-01": 47,
-  "2022-03-02": 47,
-  "2022-03-03": 47,
-  "2022-03-04": 47,
-  "2022-03-05": 47,
-  "2022-03-06": 47,
-  "2022-03-07": 47,
-  "2022-03-08": 47,
-  "2022-03-09": 47,
-  "2022-03-10": 47,
-  "2022-03-11": 47,
-  "2022-03-12": 47,
-  "2022-03-13": 47,
-  "2022-03-14": 48,
-  "2022-03-15": 49,
-  "2022-03-16": 49,
-  "2022-03-17": 49,
-  "2022-03-18": 49,
-  "2022-03-19": 49,
-  "2022-03-20": 49,
-  "2022-03-21": 50,
-  "2022-03-22": 50,
-  "2022-03-23": 50,
-  "2022-03-24": 50,
-  "2022-03-25": 50,
-  "2022-03-26": 50,
-  "2022-03-27": 51,
-  "2022-03-28": 51,
-  "2022-03-30": 51,
-  "2022-03-31": 52,
-  "2022-04-01": 52,
-  "2022-04-02": 52,
-  "2022-04-03": 52,
-  "2022-04-04": 54,
-  "2022-04-05": 54,
-  "2022-04-06": 54,
-  "2022-04-07": 55,
-  "2022-04-08": 55,
-  "2022-04-09": 55,
-  "2022-04-10": 55,
-  "2022-04-11": 55,
-  "2022-04-12": 55,
-  "2022-04-13": 55,
-  "2022-04-14": 55,
-  "2022-04-15": 55,
-  "2022-04-16": 55,
-  "2022-04-17": 55,
-  "2022-04-18": 55,
-  "2022-04-19": 55,
-  "2022-04-20": 55,
-  "2022-04-21": 55,
-  "2022-04-22": 56,
-  "2022-04-23": 56,
-  "2022-04-24": 56,
-  "2022-04-25": 56,
-  "2022-04-26": 56,
-  "2022-04-27": 56,
-  "2022-04-28": 56,
-  "2022-04-29": 56,
-  "2022-04-30": 57,
-  "2022-05-01": 57,
-  "2022-05-02": 57,
-  "2022-05-03": 57,
-  "2022-05-04": 57,
-  "2022-05-05": 57,
-  "2022-05-06": 57,
-  "2022-05-07": 57,
-  "2022-05-08": 59,
-  "2022-05-09": 59,
-  "2022-05-10": 59,
-  "2022-05-11": 61,
-  "2022-05-12": 61,
-  "2022-05-13": 61,
-  "2022-05-14": 61,
-  "2022-05-15": 61,
-  "2022-05-16": 61,
-  "2022-05-17": 61,
-  "2022-05-18": 61,
-  "2022-05-19": 61,
-  "2022-05-20": 61,
-  "2022-05-21": 63,
-  "2022-05-22": 63,
-  "2022-05-23": 63,
-  "2022-05-24": 63,
-  "2022-05-25": 63,
-  "2022-05-26": 64,
-  "2022-05-27": 64,
-  "2022-05-28": 64,
-  "2022-05-29": 64,
-  "2022-05-30": 64,
-  "2022-05-31": 64,
-  "2022-06-01": 64,
-  "2022-06-02": 64,
-  "2022-06-03": 64,
-  "2022-06-04": 64,
-  "2022-06-05": 64,
-  "2022-06-06": 64,
-  "2022-06-07": 64,
-  "2022-06-08": 64,
-  "2022-06-09": 64,
-  "2022-06-10": 64,
-  "2022-06-11": 64,
-  "2022-06-12": 64,
-  "2022-06-13": 64,
-  "2022-06-14": 64,
-  "2022-06-15": 64,
-  "2022-06-16": 64,
-  "2022-06-17": 64,
-  "2022-06-18": 65,
-  "2022-06-19": 66,
-  "2022-06-20": 66,
-  "2022-06-21": 66,
-  "2022-06-22": 66,
-  "2022-06-23": 66,
-  "2022-06-24": 66,
-  "2022-06-25": 66,
-  "2022-06-26": 66,
-  "2022-06-27": 65,
-  "2022-06-28": 65,
-  "2022-06-29": 65,
-  "2022-06-30": 65,
-  "2022-07-01": 65,
-  "2022-07-02": 65,
-  "2022-07-03": 65,
-  "2022-07-04": 65,
-  "2022-07-05": 65,
-  "2022-07-06": 65,
-  "2022-07-07": 66,
-  "2022-07-08": 66,
-  "2022-07-09": 66,
-  "2022-07-10": 66,
-  "2022-07-11": 66,
-  "2022-07-12": 66,
-  "2022-07-13": 66,
-  "2022-07-14": 66,
-  "2022-07-15": 66,
-  "2022-07-16": 67,
-  "2022-07-17": 67,
-  "2022-07-18": 67,
-  "2022-07-19": 67,
-  "2022-07-20": 67,
-  "2022-07-21": 67,
-  "2022-07-22": 67,
-  "2022-07-23": 67,
-  "2022-07-24": 67,
-  "2022-07-25": 67,
-  "2022-07-26": 67,
-  "2022-07-27": 67,
-  "2022-07-28": 67,
-  "2022-07-29": 67,
-  "2022-07-30": 67,
-  "2022-07-31": 67,
-  "2022-08-01": 67,
-  "2022-08-02": 67,
-  "2022-08-03": 67,
-  "2022-08-04": 67,
-  "2022-08-05": 69,
-  "2022-08-06": 69,
-  "2022-08-07": 69,
-  "2022-08-08": 69,
-  "2022-08-09": 69,
-  "2022-08-10": 69,
-  "2022-08-11": 71,
-  "2022-08-12": 71,
-  "2022-08-13": 71,
-  "2022-08-14": 72,
-  "2022-08-15": 73,
-  "2022-08-16": 73,
-  "2022-08-17": 73,
-  "2022-08-18": 73,
-  "2022-08-19": 73,
-  "2022-08-20": 73,
-  "2022-08-21": 73,
-  "2022-08-22": 73,
-  "2022-08-23": 73,
-  "2022-08-24": 73,
-  "2022-08-25": 73,
-  "2022-08-26": 73,
-  "2022-08-27": 73,
-  "2022-08-28": 73,
-  "2022-08-29": 73,
-  "2022-08-30": 73,
-  "2022-08-31": 73,
-  "2022-09-01": 73,
-  "2022-09-02": 73,
-  "2022-09-03": 73,
-  "2022-09-04": 73,
-  "2022-09-05": 74,
-  "2022-09-06": 75,
-  "2022-09-07": 76,
-  "2022-09-09": 76,
-  "2022-09-10": 77,
-  "2022-09-11": 78,
-  "2022-09-12": 78,
-  "2022-09-13": 79,
-  "2022-09-15": 79,
-  "2022-09-16": 80,
-  "2022-09-17": 80,
-  "2022-09-18": 81,
-  "2022-09-19": 81,
-  "2022-09-20": 82,
-  "2022-09-21": 82,
-  "2022-09-22": 83,
-  "2022-09-23": 82,
-  "2022-09-24": 82,
-  "2022-09-25": 81,
-  "2022-09-26": 81,
-  "2022-09-27": 81,
-  "2022-09-28": 81,
-  "2022-09-29": 81,
-  "2022-09-30": 81,
-  "2022-10-01": 81,
-  "2022-10-02": 82,
-  "2022-10-03": 82,
-  "2022-10-04": 82,
-  "2022-10-05": 82,
-  "2022-10-06": 83,
-  "2022-10-07": 83,
-  "2022-10-08": 83,
-  "2022-10-09": 83,
-  "2022-10-10": 83,
-  "2022-10-11": 83,
-  "2022-10-12": 84,
-  "2022-10-13": 85,
-  "2022-10-14": 85,
-  "2022-10-15": 85,
-  "2022-10-16": 85,
-  "2022-10-17": 85,
-  "2022-10-18": 85,
-  "2022-10-19": 85,
-  "2022-10-20": 85,
-  "2022-10-21": 86,
-  "2022-10-22": 86,
-  "2022-10-23": 86,
-  "2022-10-24": 87,
-  "2022-10-25": 88,
-  "2022-10-26": 88,
-  "2022-10-27": 88,
-  "2022-10-28": 88,
-  "2022-10-29": 88,
-  "2022-10-30": 88,
-  "2022-10-31": 88,
-  "2022-11-01": 88,
-  "2022-11-02": 89,
-  "2022-11-03": 89,
-  "2022-11-04": 89,
-  "2022-11-05": 89,
-  "2022-11-06": 90,
-  "2022-11-07": 90,
-  "2022-11-08": 92,
-  "2022-11-09": 93,
-  "2022-11-10": 93,
-  "2022-11-11": 94,
-  "2022-11-12": 94,
-  "2022-11-13": 95,
-  "2022-11-14": 95,
-  "2022-11-15": 95,
-  "2022-11-16": 95,
-  "2022-11-17": 96,
-  "2022-11-18": 96,
-  "2022-11-19": 96,
-  "2022-11-20": 96,
-  "2022-11-21": 96,
-  "2022-11-22": 97,
-  "2022-11-23": 98,
-  "2022-11-24": 98,
-  "2022-11-25": 97,
-  "2022-11-26": 97,
-  "2022-11-27": 97,
-  "2022-11-28": 98,
-  "2022-11-29": 98,
-  "2022-11-30": 99,
-  "2022-12-01": 99,
-  "2022-12-02": 99,
-  "2022-12-03": 99,
-  "2022-12-04": 99,
-  "2022-12-05": 99,
-  "2022-12-06": 99,
-  "2022-12-07": 100,
-  "2022-12-08": 100,
-  "2022-12-09": 101,
-  "2022-12-10": 101,
-  "2022-12-11": 101,
-  "2022-12-12": 101,
-  "2022-12-13": 101,
-  "2022-12-14": 101,
-  "2022-12-15": 102,
-  "2022-12-16": 102,
-  "2022-12-17": 103,
-  "2022-12-18": 103,
-  "2022-12-19": 103,
-  "2022-12-20": 105,
-  "2022-12-21": 105,
-  "2022-12-22": 105,
-  "2022-12-24": 105,
-  "2022-12-25": 106,
-  "2022-12-26": 106,
-  "2022-12-27": 106,
-  "2022-12-28": 106,
-  "2022-12-29": 106,
-  "2022-12-30": 107,
-  "2022-12-31": 107,
-  "2023-01-01": 108,
-  "2023-01-02": 108,
-  "2023-01-03": 108,
-  "2023-01-04": 108,
-  "2023-01-05": 108,
-  "2023-01-06": 108,
-  "2023-01-07": 108,
-  "2023-01-08": 109,
-  "2023-01-09": 109,
-  "2023-01-10": 110,
-  "2023-01-11": 110,
-  "2023-01-12": 110,
-  "2023-01-13": 110,
-  "2023-01-14": 111,
-  "2023-01-15": 111,
-  "2023-01-16": 111,
-  "2023-01-17": 111,
-  "2023-01-18": 111,
-  "2023-01-19": 111,
-  "2023-01-20": 112,
-  "2023-01-21": 112,
-  "2023-01-22": 112,
-  "2023-01-23": 112,
-  "2023-01-24": 112,
-  "2023-01-25": 112,
-  "2023-01-26": 112,
-  "2023-01-27": 112,
-  "2023-01-28": 112,
-  "2023-01-29": 112,
-  "2023-01-30": 113,
-  "2023-01-31": 113,
-  "2023-02-01": 113,
-  "2023-02-02": 113,
-  "2023-02-03": 113,
-  "2023-02-04": 113,
-  "2023-02-05": 113,
-  "2023-02-06": 113,
-  "2023-02-07": 113,
-  "2023-02-08": 113,
-  "2023-02-09": 113,
-  "2023-02-10": 114,
-  "2023-02-11": 114,
-  "2023-02-12": 115,
-  "2023-02-13": 115,
-  "2023-02-14": 115,
-  "2023-02-15": 115,
-  "2023-02-16": 115,
-  "2023-02-17": 115,
-  "2023-02-18": 116,
-  "2023-02-19": 116,
-  "2023-02-20": 116,
-  "2023-02-21": 116,
-  "2023-02-22": 116,
-  "2023-02-23": 116,
-  "2023-02-24": 116,
-  "2023-02-25": 116,
-  "2023-02-26": 116,
-  "2023-02-27": 116,
-  "2023-02-28": 116,
-  "2023-03-01": 117,
-  "2023-03-02": 117,
-  "2023-03-03": 117,
-  "2023-03-04": 117,
-  "2023-03-05": 117,
-  "2023-03-06": 117,
-  "2023-03-07": 117,
-  "2023-03-08": 117,
-  "2023-03-09": 117,
-  "2023-03-10": 118,
-  "2023-03-11": 118,
-  "2023-03-12": 118,
-  "2023-03-13": 119,
-  "2023-03-14": 119,
-  "2023-03-15": 119,
-  "2023-03-16": 119,
-  "2023-03-17": 119,
-  "2023-03-18": 121,
-  "2023-03-19": 121,
-  "2023-03-20": 121,
-  "2023-03-21": 121,
-  "2023-03-22": 122,
-  "2023-03-23": 122,
-  "2023-03-24": 122,
-  "2023-03-25": 122,
-  "2023-03-26": 122,
-  "2023-03-27": 122,
-  "2023-03-28": 122,
-  "2023-03-29": 122,
-  "2023-03-30": 124,
-  "2023-03-31": 124,
-  "2023-04-01": 124,
-  "2023-04-02": 124,
-  "2023-04-03": 124,
-  "2023-04-04": 124,
-  "2023-04-05": 124,
-  "2023-04-06": 124,
-  "2023-04-07": 124,
-  "2023-04-09": 124,
-  "2023-04-10": 124,
-  "2023-04-11": 124,
-  "2023-04-12": 124,
-  "2023-04-13": 124,
-  "2023-04-14": 124,
-  "2023-04-15": 124,
-  "2023-04-16": 124,
-  "2023-04-17": 124,
-  "2023-04-18": 124,
-  "2023-04-19": 124,
-  "2023-04-20": 124,
-  "2023-04-21": 125,
-  "2023-04-22": 125,
-  "2023-04-23": 125,
-  "2023-04-24": 125,
-  "2023-04-25": 125,
-  "2023-04-26": 125,
-  "2023-04-27": 125,
-  "2023-04-28": 125,
-  "2023-04-29": 125,
-  "2023-04-30": 125,
-  "2023-05-01": 126,
-  "2023-05-02": 128,
-  "2023-05-03": 127,
-  "2023-05-04": 127,
-  "2023-05-05": 128,
-  "2023-05-06": 128,
-  "2023-05-07": 128,
-  "2023-05-08": 128,
-  "2023-05-09": 129,
-  "2023-05-10": 129,
-  "2023-05-11": 129,
-  "2023-05-12": 129,
-  "2023-05-13": 129,
-  "2023-05-14": 129,
-  "2023-05-15": 129,
-  "2023-05-16": 129,
-  "2023-05-17": 129,
-  "2023-05-18": 130,
-  "2023-05-19": 129,
-  "2023-05-20": 130,
-  "2023-05-21": 130,
-  "2023-05-22": 130,
-  "2023-05-23": 130,
-  "2023-05-24": 130,
-  "2023-05-25": 130,
-  "2023-05-26": 131,
-  "2023-05-27": 131,
-  "2023-05-28": 131,
-  "2023-05-29": 131,
-  "2023-05-30": 131,
-  "2023-05-31": 131,
-  "2023-06-01": 131,
-  "2023-06-02": 131,
-  "2023-06-03": 131,
-  "2023-06-04": 131,
-  "2023-06-05": 131,
-  "2023-06-06": 131,
-  "2023-06-07": 131,
-  "2023-06-08": 131,
-  "2023-06-09": 130,
-  "2023-06-10": 131,
-  "2023-06-11": 131,
-  "2023-06-12": 131,
-  "2023-06-13": 131,
-  "2023-06-14": 132,
-  "2023-06-15": 133,
-  "2023-06-16": 5378,
-  "2023-06-17": 5360,
-  "2023-06-18": 5395,
-  "2023-06-19": 5401,
-  "2023-06-20": 5407,
-  "2023-06-21": 5409,
-  "2023-06-22": 5411,
-  "2023-06-23": 5414,
-  "2023-06-24": 5416,
-  "2023-06-25": 5419,
-  "2023-06-26": 5419,
-  "2023-06-27": 5421,
-  "2023-06-28": 5424,
-  "2023-06-29": 5427,
-  "2023-06-30": 5430,
-  "2023-07-01": 5439,
-  "2023-07-02": 5439,
-  "2023-07-03": 5443,
-  "2023-07-04": 5446,
-  "2023-07-05": 5450,
-  "2023-07-06": 5456,
-  "2023-07-07": 5456,
-  "2023-07-08": 5456,
-  "2023-07-09": 5462,
-  "2023-07-10": 5466,
-  "2023-07-11": 5467,
-  "2023-07-12": 5471,
-  "2023-07-13": 5471,
-  "2023-07-14": 5473,
-  "2023-07-15": 5476,
-  "2023-07-16": 5482,
-  "2023-07-17": 5483,
-  "2023-07-18": 5483,
-  "2023-07-19": 5487,
-  "2023-07-20": 5487,
-  "2023-07-21": 5495,
-  "2023-07-22": 5500,
-  "2023-07-23": 5504,
-  "2023-07-24": 5505,
-  "2023-07-25": 5507,
-  "2023-07-26": 5509,
-  "2023-07-27": 5510,
-  "2023-07-28": 5510,
-  "2023-07-29": 5516,
-  "2023-07-30": 5516,
-  "2023-07-31": 5521,
-  "2023-08-01": 5521,
-  "2023-08-02": 5523,
-  "2023-08-03": 5524,
-  "2023-08-04": 5523,
-  "2023-08-05": 5525,
-  "2023-08-06": 5534,
-  "2023-08-07": 5534,
-  "2023-08-08": 5541,
-  "2023-08-09": 5542,
-  "2023-08-10": 5544,
-  "2023-08-11": 5544,
-  "2023-08-12": 5544,
-  "2023-08-13": 5544,
-  "2023-08-14": 5544,
-  "2023-08-15": 5544,
-  "2023-08-16": 5544,
-  "2023-08-17": 5544,
-  "2023-08-18": 5544,
-  "2023-08-19": 5544,
-  "2023-08-20": 5571,
-  "2023-08-21": 5571,
-  "2023-08-22": 5576,
-  "2023-08-23": 5576,
-  "2023-08-24": 5576,
-  "2023-08-25": 5576,
-  "2023-08-26": 5589,
-  "2023-08-27": 5589,
-  "2023-08-28": 5592,
-  "2023-08-29": 5592,
-  "2023-08-30": 5592,
-  "2023-08-31": 5604,
-  "2023-09-01": 5607,
-  "2023-09-02": 5607,
-  "2023-09-03": 5607,
-  "2023-09-04": 5607,
-  "2023-09-05": 5607,
-  "2023-09-06": 5607,
-  "2023-09-07": 5607,
-  "2023-09-08": 5607,
-  "2023-09-09": 5607,
-  "2023-09-10": 5607,
-  "2023-09-11": 5607,
-  "2023-09-12": 5607,
-  "2023-09-13": 5607,
-  "2023-09-14": 5607,
-  "2023-09-15": 5607,
-  "2023-09-16": 5607,
-  "2023-09-17": 5607,
-  "2023-09-18": 5607,
-  "2023-09-19": 5607,
-  "2023-09-20": 5607,
-  "2023-09-21": 5607,
-  "2023-09-22": 5686,
-  "2023-09-23": 5686,
-  "2023-09-24": 5686,
-  "2023-09-25": 5686,
-  "2023-09-26": 5702,
-  "2023-09-27": 5702,
-  "2023-09-28": 5702,
-  "2023-09-29": 5702,
-  "2023-09-30": 5702,
-  "2023-10-01": 5702,
-  "2023-10-02": 5702,
-  "2023-10-03": 5702,
-  "2023-10-04": 5702,
-  "2023-10-05": 5702,
-  "2023-10-06": 5702,
-  "2023-10-07": 5702,
-  "2023-10-08": 5702,
-  "2023-10-09": 5702,
-  "2023-10-10": 5702,
-  "2023-10-11": 5702,
-  "2023-10-12": 5702,
-  "2023-10-13": 5702,
-  "2023-10-14": 5702,
-  "2023-10-15": 5702,
-  "2023-10-16": 5702,
-  "2023-10-17": 5702,
-  "2023-10-18": 5702,
-  "2023-10-19": 5702,
-  "2023-10-20": 5702,
-  "2023-10-21": 5702,
-  "2023-10-22": 5702,
-  "2023-10-23": 5702,
-  "2023-10-24": 5702,
-  "2023-10-25": 5702,
-  "2023-10-26": 5702,
-  "2023-10-27": 5702,
-  "2023-10-28": 5702,
-  "2023-10-29": 5702,
-  "2023-10-30": 5702,
-  "2023-10-31": 5702,
-  "2023-11-01": 5702,
-  "2023-11-02": 5702,
-  "2023-11-03": 5702,
-  "2023-11-04": 5702,
-  "2023-11-05": 5702,
-  "2023-11-06": 5702,
-  "2023-11-07": 5702,
-  "2023-11-08": 5702,
-  "2023-11-09": 5702,
-  "2023-11-10": 5702,
-  "2023-11-11": 5847,
-  "2023-11-12": 5847,
-  "2023-11-13": 5847,
-  "2023-11-14": 5847,
-  "2023-11-15": 5847,
-  "2023-11-16": 5847,
-  "2023-11-17": 5847,
-  "2023-11-18": 5847,
-  "2023-11-19": 5847,
-  "2023-11-20": 5847,
-  "2023-11-21": 5847,
-  "2023-11-22": 5847,
-  "2023-11-23": 5847,
-  "2023-11-24": 5847,
-  "2023-11-25": 5847,
-  "2023-11-26": 5847,
-  "2023-11-27": 5847,
-  "2023-11-28": 5847,
-  "2023-11-29": 5847,
-  "2023-11-30": 5847,
-  "2023-12-01": 5847,
-  "2023-12-02": 5847,
-  "2023-12-03": 5847,
-  "2023-12-04": 5847,
-  "2023-12-05": 5847,
-  "2023-12-06": 5847,
-  "2023-12-07": 5847,
-  "2023-12-08": 5847,
-  "2023-12-09": 5847,
-  "2023-12-10": 5847,
-  "2023-12-11": 5847,
-  "2023-12-12": 5847,
-  "2023-12-13": 5847,
-  "2023-12-14": 5980,
-  "2023-12-15": 5983,
-  "2023-12-16": 5985,
-  "2023-12-17": 5986,
-  "2023-12-18": 5988,
-  "2023-12-19": 5993,
-  "2023-12-20": 5998,
-  "2023-12-21": 5998,
-  "2023-12-22": 6001,
-  "2023-12-23": 6001,
-  "2023-12-24": 6005,
-  "2023-12-25": 6008,
-  "2023-12-26": 6009,
-  "2023-12-27": 6013,
-  "2023-12-30": 6021,
-  "2023-12-31": 6028,
-  "2024-01-01": 6031,
-  "2024-01-02": 6032,
-  "2024-01-03": 6031
+  "2024-01-17": 6076,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Timaya. The essential tracks, all in one playlist.",
+  "name": "This Is Timaya",
+  "tracks": [
+    {
+      "album": {
+        "name": "2 Stoopid",
+        "url": "https://open.spotify.com/album/63aQt6R3E1ifV5xVOyJTgG"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-12",
+      "duration_ms": 178909,
+      "name": "2 Stoopid",
+      "url": "https://open.spotify.com/track/4p7XmoBgBDQ3BVSbLHhAZq"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RsttwlINL1UxDTZL2rQ6I"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Tuface",
+          "url": "https://open.spotify.com/artist/103VoRYJOoSKigBMkS5fNR"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 212498,
+      "name": "Abeg Abeg (Remix) [feat. Tuface & Timaya]",
+      "url": "https://open.spotify.com/track/1RkV1sgWgZOllXvsuNFVkw"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212498,
+      "name": "Abeg Abeg - Remix",
+      "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
+    },
+    {
+      "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "album": {
+        "name": "Hotems",
+        "url": "https://open.spotify.com/album/6tHqC86SjQqjj9cgd03i2k"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-02",
+      "duration_ms": 211608,
+      "name": "Ajaga",
+      "url": "https://open.spotify.com/track/5rCR9R0uouEls7zjY214Hz"
+    },
+    {
+      "album": {
+        "name": "The Never Say Never Guy",
+        "url": "https://open.spotify.com/album/3rEGE6EoPd7EtLJg8pWWSH"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-23",
+      "duration_ms": 209931,
+      "name": "Ajaga",
+      "url": "https://open.spotify.com/track/0FtOWRVFZqfcM0mpohywIN"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-13",
+      "duration_ms": 196000,
+      "name": "Akuna",
+      "url": "https://open.spotify.com/track/4akPPKpqd7IkvwQ4nBAZOe"
+    },
+    {
+      "album": {
+        "name": "Alkayida",
+        "url": "https://open.spotify.com/album/09V8ahQAvn922cCNx6iJ0a"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 219786,
+      "name": "Alkayida",
+      "url": "https://open.spotify.com/track/0tXjdxP16Xee1wBNo9CZCK"
+    },
+    {
+      "album": {
+        "name": "Dance, Vol. 1",
+        "url": "https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw"
+      },
+      "artists": [
+        {
+          "name": "Splendid",
+          "url": "https://open.spotify.com/artist/2OogZdzhF6Z9rSC6jUg8nU"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 241712,
+      "name": "Amen (feat. Timaya)",
+      "url": "https://open.spotify.com/track/126nB4UhmyQ6d35khxQQ2i"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/4qATPFkC2gftNidKNKsvbs"
+    },
+    {
+      "album": {
+        "name": "Appreciation (feat. 2face)",
+        "url": "https://open.spotify.com/album/6fRbhhodwDnrh76bc6g3VL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Face",
+          "url": "https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174001,
+      "name": "Appreciation (feat. 2face)",
+      "url": "https://open.spotify.com/track/2Cic7igD3PiuXlqaEqjKWo"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 220235,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+    },
+    {
+      "album": {
+        "name": "Better Than Them",
+        "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213921,
+      "name": "Better Than Them",
+      "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
+    },
+    {
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
+    },
+    {
+      "album": {
+        "name": "Born to Win",
+        "url": "https://open.spotify.com/album/321Mt20RKG05X44Ta4JvKF"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-24",
+      "duration_ms": 173840,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/7aMI3W4ZCeTe6Ehw17SCAr"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 204680,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 218826,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/2khTwf0sIaNkodJRHRgk6s"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 218826,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/4XMGNnGcv1dcTqBPCDnvgz"
+    },
+    {
+      "album": {
+        "name": "Essential Afrobeats",
+        "url": "https://open.spotify.com/album/1WaOIzLO6mNNTO23vNlMOz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216574,
+      "name": "Bum Bum (Remix)",
+      "url": "https://open.spotify.com/track/3popcfrtGgytx4Urp2OTUQ"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
+    },
+    {
+      "album": {
+        "name": "Charger",
+        "url": "https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 206384,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url"
+    },
+    {
+      "album": {
+        "name": "Chop Life",
+        "url": "https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145794,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
+    },
+    {
+      "album": {
+        "name": "Cold Outside",
+        "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Cold Outside",
+      "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203280,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+    },
+    {
+      "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "2Solo",
+          "url": "https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte"
+        },
+        {
+          "name": "Recoba",
+          "url": "https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272040,
+      "name": "Dem Mama Anthem",
+      "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
+    },
+    {
+      "album": {
+        "name": "Eff All Day",
+        "url": "https://open.spotify.com/album/3qQU6dnpM4ZsQx1ABxNZUy"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-02",
+      "duration_ms": 197647,
+      "name": "Eff All Day",
+      "url": "https://open.spotify.com/track/0ZhCxpwGscBQ3ay4Qa743X"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-12",
+      "duration_ms": 207946,
+      "name": "Ekoloma Demba (Bonus)",
+      "url": "https://open.spotify.com/track/5uKbxMJk4Y8SFOV1lqtwsW"
+    },
+    {
+      "album": {
+        "name": "Erima",
+        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Erima",
+      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 210866,
+      "name": "Eshe",
+      "url": "https://open.spotify.com/track/1qWpFFt57ak6pg15CEp8aw"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Deetii",
+          "url": "https://open.spotify.com/artist/6FU92TtrjOCgI9Yg3y94VH"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Gbagam",
+      "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
+    },
+    {
+      "album": {
+        "name": "Gbagam (feat. Deettii & Phyno)",
+        "url": "https://open.spotify.com/album/08OTfvY73KcSjiflKgiv3R"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Deettii",
+          "url": "https://open.spotify.com/artist/22B60sKa0PpmhadrNHuyJD"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 187637,
+      "name": "Gbagam (feat. Deettii & Phyno)",
+      "url": "https://open.spotify.com/track/2T7w6niKZZ3pQWR8MxwGim"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Mafia",
+        "url": "https://open.spotify.com/album/10fn5C8XnQ46Lt3aas7VI0"
+      },
+      "artists": [
+        {
+          "name": "Obesere",
+          "url": "https://open.spotify.com/artist/3zCVI8q382lEWM4JwLJ8P9"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 262478,
+      "name": "Gbo Se Wo (feat. Timaya)",
+      "url": "https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs"
+    },
+    {
+      "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "album": {
+        "name": "CITIZEN OF THE WORLD",
+        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Get the Money",
+      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 209493,
+      "name": "Girls Dem",
+      "url": "https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB"
+    },
+    {
+      "album": {
+        "name": "Givin Dem",
+        "url": "https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x"
+      },
+      "artists": [
+        {
+          "name": "Yung Willis",
+          "url": "https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Kabusa Oriental Choir",
+          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154616,
+      "name": "Givin Dem",
+      "url": "https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32"
+    },
+    {
+      "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 272213,
+      "name": "God You Are 2 Much",
+      "url": "https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm"
+    },
+    {
+      "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
+      },
+      "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Good Or Bad (Oway)",
+      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-16",
+      "duration_ms": 214468,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/7xP5NIhbFrK5jMx7dxEa7g"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 167746,
+      "name": "Hold Me Now (Bonus)",
+      "url": "https://open.spotify.com/track/5ldHBe4cfQMNtH8mcITJmR"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "I Can't Kill Myself",
+      "url": "https://open.spotify.com/track/20MyQk60qEzkGVML0VMaCq"
+    },
+    {
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245960,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+    },
+    {
+      "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Shayo Pisanta",
+          "url": "https://open.spotify.com/artist/5ZuUI0UIaNU4Cglic3NbDa"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-18",
+      "duration_ms": 279373,
+      "name": "I Don Blow",
+      "url": "https://open.spotify.com/track/0Mp8jkvCKwn0kR6YGt38wy"
+    },
+    {
+      "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "album": {
+        "name": "Igbalode",
+        "url": "https://open.spotify.com/album/5D1kgcGV5HEs2OiC8IKLIj"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148928,
+      "name": "Igbalode",
+      "url": "https://open.spotify.com/track/7gywnmiiHFGaGadY27UJ8X"
+    },
+    {
+      "album": {
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135186,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-05",
+      "duration_ms": 218773,
+      "name": "It's Allowed",
+      "url": "https://open.spotify.com/track/54tucLaXBYc3SpulVRqghX"
+    },
+    {
+      "album": {
+        "name": "Joko (feat. Shaggy)",
+        "url": "https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Joko (feat. Shaggy)",
+      "url": "https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p"
+    },
+    {
+      "album": {
+        "name": "Kom Kom",
+        "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Kom Kom",
+      "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 223426,
+      "name": "Lai Lai",
+      "url": "https://open.spotify.com/track/7Iibw3MdViIx13i5gLHD4U"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 194718,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3qRm4AxGiDz8IUR8ciXpt6"
+    },
+    {
+      "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/0vsUBIp6yJsp9ZomhLXuiq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4LV4Zfb9bz5ELPOb9rOjf0"
+    },
+    {
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
+    },
+    {
+      "album": {
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "album": {
+        "name": "Mind over Matter (feat. D'banj)",
+        "url": "https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Mind over Matter (feat. D'banj)",
+      "url": "https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR"
+    },
+    {
+      "album": {
+        "name": "Solidstar",
+        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
+      },
+      "artists": [
+        {
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+    },
+    {
+      "album": {
+        "name": "My Moto",
+        "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "My Moto",
+      "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 196413,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177439,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr"
+    },
+    {
+      "album": {
+        "name": "The Gehn Gehn Album",
+        "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207317,
+      "name": "Ogede",
+      "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+    },
+    {
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 244052,
+      "name": "One Chance (feat. Timaya)",
+      "url": "https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 246120,
+      "name": "Plantain Boy",
+      "url": "https://open.spotify.com/track/2meBCVaypff9yy1jhnqqv0"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 246120,
+      "name": "Plantain Boy",
+      "url": "https://open.spotify.com/track/4BgsF8GGZkTaBEx44pcKRH"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+    },
+    {
+      "album": {
+        "name": "Samankwe",
+        "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212554,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+    },
+    {
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 216920,
+      "name": "Sexy Ladies",
+      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
+    },
+    {
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum",
+      "url": "https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2"
+    },
+    {
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum - Machel Montano Remix",
+      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+    },
+    {
+      "album": {
+        "name": "Sili-Kon",
+        "url": "https://open.spotify.com/album/7hZfm5V8n3sGnk0LS1fvFr"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 171186,
+      "name": "Sili-Kon",
+      "url": "https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT"
+    },
+    {
+      "album": {
+        "name": "W.E.E.D.",
+        "url": "https://open.spotify.com/album/23BR88E4ycb1L19PLZbEuP"
+      },
+      "artists": [
+        {
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 181453,
+      "name": "Silicon",
+      "url": "https://open.spotify.com/track/14eP2vY4pILhupUAUQ6vX9"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Something Must to Kill a Man",
+      "url": "https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 200727,
+      "name": "Stoopid",
+      "url": "https://open.spotify.com/track/4VssiQZ9g8eUa3d22eYBcW"
+    },
+    {
+      "album": {
+        "name": "SWEET US",
+        "url": "https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma"
+    },
+    {
+      "album": {
+        "name": "Telli Person",
+        "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224754,
+      "name": "Telli Person",
+      "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 238158,
+      "name": "Timaya",
+      "url": "https://open.spotify.com/track/7JP7ibFI7Sk70ahn5ZOzBy"
+    },
+    {
+      "album": {
+        "name": "To U",
+        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 224444,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
+    },
+    {
+      "album": {
+        "name": "Tomato",
+        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162222,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
+    },
+    {
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 190560,
+      "name": "Ukwu (Bonus)",
+      "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/5N5mhuYQmUztgNdBgz1YZh"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-24",
+      "duration_ms": 206600,
+      "name": "Watta BamBam",
+      "url": "https://open.spotify.com/track/4TayDd2l3E6yQKWlP2zEkH"
+    },
+    {
+      "album": {
+        "name": "Woyo",
+        "url": "https://open.spotify.com/album/6ZWbdO3QrtR8YI193q5K2O"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 163005,
+      "name": "Woyo",
+      "url": "https://open.spotify.com/track/4tbVAVxiGJAZNiFRBHhGwV"
+    },
+    {
+      "album": {
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218826,
+      "name": "Yankulu Ya (Dem Mama Remix)",
+      "url": "https://open.spotify.com/track/2BSINTT3Xoyxoo9aBeJtx8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iGtt9"
 }

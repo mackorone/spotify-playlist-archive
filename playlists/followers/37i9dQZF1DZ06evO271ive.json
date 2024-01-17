@@ -1,54 +1,1257 @@
 {
-  "2023-11-11": 5082,
-  "2023-11-12": 5082,
-  "2023-11-13": 5082,
-  "2023-11-14": 5082,
-  "2023-11-15": 5082,
-  "2023-11-16": 5082,
-  "2023-11-17": 5082,
-  "2023-11-18": 5082,
-  "2023-11-19": 5082,
-  "2023-11-20": 5082,
-  "2023-11-21": 5082,
-  "2023-11-22": 5082,
-  "2023-11-23": 5082,
-  "2023-11-24": 5082,
-  "2023-11-25": 5082,
-  "2023-11-26": 5082,
-  "2023-11-27": 5082,
-  "2023-11-28": 5082,
-  "2023-11-29": 5082,
-  "2023-11-30": 5082,
-  "2023-12-01": 5082,
-  "2023-12-02": 5082,
-  "2023-12-03": 5082,
-  "2023-12-04": 5082,
-  "2023-12-05": 5082,
-  "2023-12-06": 5082,
-  "2023-12-07": 5082,
-  "2023-12-08": 5082,
-  "2023-12-09": 5082,
-  "2023-12-10": 5082,
-  "2023-12-11": 5082,
-  "2023-12-12": 5082,
-  "2023-12-13": 5082,
-  "2023-12-14": 6435,
-  "2023-12-15": 6466,
-  "2023-12-16": 6516,
-  "2023-12-17": 6552,
-  "2023-12-18": 6597,
-  "2023-12-19": 6625,
-  "2023-12-20": 6661,
-  "2023-12-21": 6717,
-  "2023-12-22": 6763,
-  "2023-12-23": 6798,
-  "2023-12-24": 6823,
-  "2023-12-25": 6855,
-  "2023-12-26": 6879,
-  "2023-12-27": 6910,
-  "2023-12-30": 7066,
-  "2023-12-31": 7108,
-  "2024-01-01": 7144,
-  "2024-01-02": 7182,
-  "2024-01-03": 7212
+  "2024-01-17": 7722,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
+  "name": "This Is Sexyy Red",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ah Thousand Jugs",
+        "url": "https://open.spotify.com/album/7Cdru5tnHs7L3VhswRunOS"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 110272,
+      "name": "Ah Thousand Jugs",
+      "url": "https://open.spotify.com/track/0YPrvrAOPG1Vdp1hsx4K0p"
+    },
+    {
+      "album": {
+        "name": "All White Air Forces",
+        "url": "https://open.spotify.com/album/3YRpkdq38v1Dm8wSg0t0jx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 154096,
+      "name": "All White Air Forces",
+      "url": "https://open.spotify.com/track/0Bc2QTj9Eajw7rRckFzTNM"
+    },
+    {
+      "album": {
+        "name": "Area Codes: The Remixes",
+        "url": "https://open.spotify.com/album/4rOzFoHxBS1O7H4Rv0Xbk8"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137033,
+      "name": "Area Codes (314 Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU"
+    },
+    {
+      "album": {
+        "name": "41 World: Not The Album",
+        "url": "https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Bent (Remix) (with Kyle Richh, Jenn Carter, TaTa & Sexyy Red)",
+      "url": "https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq"
+    },
+    {
+      "album": {
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151272,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 162056,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
+    },
+    {
+      "album": {
+        "name": "Daddy (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193041,
+      "name": "Daddy (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
+    {
+      "album": {
+        "name": "Don't Get Beat",
+        "url": "https://open.spotify.com/album/5zfiG2ja4Nh4OBph2QAOMK"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141635,
+      "name": "Don't Get Beat",
+      "url": "https://open.spotify.com/track/5pcTiNM6KXYjvOEgmKxIXH"
+    },
+    {
+      "album": {
+        "name": "Don't Trust Em",
+        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 210102,
+      "name": "Don't Trust Em",
+      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+    },
+    {
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
+      },
+      "artists": [
+        {
+          "name": "MCVERTT",
+          "url": "https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174967,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151353,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/4KbbzhLFx8pGzQ8EJkqNFx"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149958,
+      "name": "Female Gucci Mane",
+      "url": "https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8"
+    },
+    {
+      "album": {
+        "name": "Free My N***a",
+        "url": "https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129145,
+      "name": "Free My N***a",
+      "url": "https://open.spotify.com/track/2z7LbO6rugeuWIBOWpncVi"
+    },
+    {
+      "album": {
+        "name": "Free Smoke",
+        "url": "https://open.spotify.com/album/0SzTRjPaLPdqoNvBW8sNKz"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 231941,
+      "name": "Free Smoke",
+      "url": "https://open.spotify.com/track/1ID66U5O797kF6F3bQpX3E"
+    },
+    {
+      "album": {
+        "name": "FYM",
+        "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160175,
+      "name": "FYM",
+      "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "Ghetto Freestyle",
+      "url": "https://open.spotify.com/track/14cDqt0n4v50DerFfFpBXD"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218234,
+      "name": "Ghetto Princess (feat. Chief Keef)",
+      "url": "https://open.spotify.com/track/7yqOIcohmWYSGosoIKHc3M"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
+    },
+    {
+      "album": {
+        "name": "Hellcats SRTs 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165863,
+      "name": "Hellcats SRTs 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145504,
+      "name": "Hold On Yeah",
+      "url": "https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157344,
+      "name": "Hood Bitch",
+      "url": "https://open.spotify.com/track/3zBwBkR18TfwaZTQ5fOIWl"
+    },
+    {
+      "album": {
+        "name": "Hood Rats (with Sukihana)",
+        "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175125,
+      "name": "Hood Rats (with Sukihana)",
+      "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
+    },
+    {
+      "album": {
+        "name": "I love freaks (Sexyy\u2019s Version)",
+        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163696,
+      "name": "I love freaks (Sexyy\u2019s Version)",
+      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
+    },
+    {
+      "album": {
+        "name": "I Love My Nickel",
+        "url": "https://open.spotify.com/album/5NqDt0UzIjimOthcVq5zZM"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124578,
+      "name": "I Love My Nickel",
+      "url": "https://open.spotify.com/track/3E3K5odae35rwcOhBYcITc"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "I Might (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "I\u2019m The Shit",
+      "url": "https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159291,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 127529,
+      "name": "Man At Home",
+      "url": "https://open.spotify.com/track/7G5Cf56y5w6ttJQvhNk8wH"
+    },
+    {
+      "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+    },
+    {
+      "album": {
+        "name": "My Twin",
+        "url": "https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "My Twin",
+      "url": "https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl"
+    },
+    {
+      "album": {
+        "name": "No Panties (with Sexyy Red) [From Rap Sh!t S2: The Mixtape]",
+        "url": "https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap"
+      },
+      "artists": [
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125926,
+      "name": "No Panties (with Sexyy Red) - From Rap Sh!t S2: The Mixtape",
+      "url": "https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba"
+    },
+    {
+      "album": {
+        "name": "Northside",
+        "url": "https://open.spotify.com/album/14DUsgTIeAW8GhMsZVeQsN"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Northside",
+      "url": "https://open.spotify.com/track/03t5G8yq7OkU7zK2gFy0OA"
+    },
+    {
+      "album": {
+        "name": "One Margarita (Margarita Song) [with Sexyy Red, FendiDa Rappa & Flo Milli] [Ladies Remix]",
+        "url": "https://open.spotify.com/album/6BnsDzHgSov2AiCsVa4hTZ"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 216417,
+      "name": "One Margarita (Margarita Song) [with Sexyy Red, FendiDa Rappa & Flo Milli] - Ladies Remix",
+      "url": "https://open.spotify.com/track/0S6OAcbPuDmpDDbdNBqISD"
+    },
+    {
+      "album": {
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "album": {
+        "name": "Perc & Sex",
+        "url": "https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258220,
+      "name": "Perc & Sex",
+      "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
+    },
+    {
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "album": {
+        "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+        "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+      "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "Push Start",
+        "url": "https://open.spotify.com/album/7xuDlK70JLIameLE27289x"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Push Start",
+      "url": "https://open.spotify.com/track/0iwW0dxjJk0sA08HNyDscr"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197880,
+      "name": "Sexyy",
+      "url": "https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG"
+    },
+    {
+      "album": {
+        "name": "SEXT8PE",
+        "url": "https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170523,
+      "name": "Sexyy & Conceited",
+      "url": "https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h"
+    },
+    {
+      "album": {
+        "name": "Sexyy Red (Ghetto Freestyle)",
+        "url": "https://open.spotify.com/album/5dApoP8kgFL7gS5ba3y5dY"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 158275,
+      "name": "Sexyy Red (Ghetto Freestyle)",
+      "url": "https://open.spotify.com/track/6m3OCtsa664lDlwtYAvf3K"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140756,
+      "name": "Sexyy Red For President",
+      "url": "https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153958,
+      "name": "Sexyy Walk",
+      "url": "https://open.spotify.com/track/4EN1lLc3xt2hOazpC4LabP"
+    },
+    {
+      "album": {
+        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
+        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
+      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+    },
+    {
+      "album": {
+        "name": "Shake Yo Dreads",
+        "url": "https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Shake Yo Dreads",
+      "url": "https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j"
+    },
+    {
+      "album": {
+        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216541,
+      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
+        "name": "Slob on My Ckat",
+        "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148114,
+      "name": "Slob on My Ckat",
+      "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
+    },
+    {
+      "album": {
+        "name": "SLUT ME OUT (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203858,
+      "name": "SLUT ME OUT (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstar",
+        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Sticky Icky (Roll Det)",
+      "url": "https://open.spotify.com/track/3k56wuGvKg3l9g1t61C9jW"
+    },
+    {
+      "album": {
+        "name": "Throw That Mf",
+        "url": "https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127463,
+      "name": "Throw That Mf",
+      "url": "https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb"
+    },
+    {
+      "album": {
+        "name": "Throwin' It",
+        "url": "https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149472,
+      "name": "Throwin' It",
+      "url": "https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk"
+    },
+    {
+      "album": {
+        "name": "Tired (feat. Rob49)",
+        "url": "https://open.spotify.com/album/7DX362BKElkVx87g476jeA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "Tired (feat. Rob49)",
+      "url": "https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y"
+    },
+    {
+      "album": {
+        "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
+        "url": "https://open.spotify.com/album/0BbrF9bl7IIQGJNQfw7kbm"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
+      "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
+    },
+    {
+      "album": {
+        "name": "Young Hot Nigga",
+        "url": "https://open.spotify.com/album/7ISFhhm937WFl2JKmRZz8q"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 192052,
+      "name": "Young Hot Nigga",
+      "url": "https://open.spotify.com/track/5XXQ0DVpF8dVW7Pndv4AVH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO271ive"
 }

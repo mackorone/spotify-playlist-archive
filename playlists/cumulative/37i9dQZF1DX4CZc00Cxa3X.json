@@ -2061,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Forgettings",
+        "url": "https://open.spotify.com/album/1f7ttZhjl8oKOcX4CQV0Kp"
+      },
+      "artists": [
+        {
+          "name": "Holland Andrews",
+          "url": "https://open.spotify.com/artist/1J6SJabt5gQLn1mpQ0zp4g"
+        },
+        {
+          "name": "Ryan Lott",
+          "url": "https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195140,
+      "name": "Far Place",
+      "url": "https://open.spotify.com/track/4Zc7tToUcplEctwWxsARSY"
+    },
+    {
+      "album": {
         "name": "Home Normal",
         "url": "https://open.spotify.com/album/2oiQ6Ck93DZDl9DHDOqpS1"
       },
@@ -2875,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/6QQEN5mwHoeypL9soPByPj"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337200,
+      "name": "june",
+      "url": "https://open.spotify.com/track/5mMuvuQLsF4rbC6OmW3Tbc"
+    },
+    {
+      "album": {
         "name": "Kalimba",
         "url": "https://open.spotify.com/album/4ynLLx1nn1Jyd9WT4teDm7"
       },
@@ -3394,10 +3434,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 213779,
       "name": "Loved Ones",
       "url": "https://open.spotify.com/track/5gx6A2v2yq2a5YbfV6rtsh"
+    },
+    {
+      "album": {
+        "name": "Philanthropy",
+        "url": "https://open.spotify.com/album/0ts04BxWX0tqhE7uCSyWOp"
+      },
+      "artists": [
+        {
+          "name": "Hauschka",
+          "url": "https://open.spotify.com/artist/6fTuDQJqqMDrrEXSFmgyJt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213779,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/7rteNw7alL8uZiLmtBWiAP"
     },
     {
       "album": {
@@ -3448,7 +3506,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 272695,
       "name": "Luck (\u904b)",
       "url": "https://open.spotify.com/track/5Eswd8cRz3J9rqYRpLyTuM"
@@ -4602,7 +4660,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-16",
       "duration_ms": 286000,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM"
@@ -5964,7 +6022,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 198000,
       "name": "Swim Twice",
       "url": "https://open.spotify.com/track/08864Qlmsn00wnngEjCYGk"
@@ -5986,6 +6044,24 @@
       "duration_ms": 400000,
       "name": "Sycamore Screen",
       "url": "https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/7sOj3wUCWlPlOstZqNK5qL"
+      },
+      "artists": [
+        {
+          "name": "Deux Filles",
+          "url": "https://open.spotify.com/artist/2PNeKY2obbpjO7MrVJf0M3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 226975,
+      "name": "Take it Easy - Single Version",
+      "url": "https://open.spotify.com/track/5oaP0XHFuiaR1f2i9J6Ebq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-105 songs - 6 hr 48 min
+106 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 | 2021-06-28 | 2023-01-26 |
 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 | 2021-06-28 |  |
 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 | 2021-06-28 | 2023-11-04 |
+| [Action & Action](https://open.spotify.com/track/4okVNqpGk7OA61vmlzkewe) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/0P1YuWWjYz6vnwizYv81Z3) | 4:05 | 2023-03-28 |  |
 | [All These Things](https://open.spotify.com/track/5bDDMJLKJrQLeMj2FpKTXd) | [Benton Falls](https://open.spotify.com/artist/2Gy32a74uxhKUDGuQL57kl) | [Fighting Starlight](https://open.spotify.com/album/3g2zFcP2exTjpyvOncGB9Z) | 5:03 | 2021-06-28 | 2023-03-15 |
 | [Always Focused](https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Pleasant Living](https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci) | 2:40 | 2023-03-14 |  |
 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 | 2023-03-14 |  |
@@ -29,7 +30,7 @@
 | [Copper and Stars](https://open.spotify.com/track/3X6BvcNz8QSYaXLqJ3uHfw) | [Planes Mistaken For Stars](https://open.spotify.com/artist/2rfJuPYf7n3inXgdDNxMku) | [Planes Mistaken for Stars](https://open.spotify.com/album/2yyupliWXQe9Dz4xYT3Y14) | 3:31 | 2021-06-28 | 2023-03-15 |
 | [Courage Was Confused](https://open.spotify.com/track/2kVc8s89MliCutzKkXXROb) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [Day Three of My New Life](https://open.spotify.com/album/6xK0rYqqBtzcIiq0rY90Al) | 3:51 | 2021-06-28 | 2023-03-15 |
 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 | 2023-03-14 |  |
-| [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 | 2023-03-14 |  |
+| [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 | 2023-03-14 | 2024-01-14 |
 | [Dreams](https://open.spotify.com/track/4EutGBgzvoJ1MXN1LNfMOD) | [Sense Field](https://open.spotify.com/artist/5LzLPIRLOQVl1Gs3b4CRBT) | [Sense Field](https://open.spotify.com/album/4tx4qeSe8wTjMwznIHnvUa) | 4:22 | 2021-06-28 | 2023-03-15 |
 | [Earthquakes and Sharks](https://open.spotify.com/track/7jATtiR7Sjfke3qKdA5HEd) | [Brandtson](https://open.spotify.com/artist/4wlNIqMnqGY8g2lcFTkzsY) | [Hello, Control.](https://open.spotify.com/album/6vfntMjrhjePcDe48vXOwz) | 2:57 | 2021-06-28 | 2023-03-15 |
 | [Eleven to Your Seven](https://open.spotify.com/track/1hxLx1gmWfsCSpDp8cJOl0) | [Hey Mercedes](https://open.spotify.com/artist/0R8uN7rVUuKGfTXQHjvB5U) | [Everynight Fire Works](https://open.spotify.com/album/7yBqFEyyKAzCJYoEmyuyTl) | 3:54 | 2021-06-28 | 2023-03-15 |
@@ -58,7 +59,7 @@
 | [Killing A Camera](https://open.spotify.com/track/3RRDWqEDP3045W8EP7xnY4) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame and Canvas](https://open.spotify.com/album/4Q0Q0m5YzJA4liSkoBlbhL) | 2:33 | 2021-06-28 | 2022-11-25 |
 | [Killing A Camera](https://open.spotify.com/track/4pXESY1mSf9tXH6ODOw8PV) | [Braid](https://open.spotify.com/artist/36gdsrHzKZ0Wyb3uH7ZbEv) | [Frame & Canvas](https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ) | 2:33 | 2022-06-09 |  |
 | [Liberation Frequency](https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 4:10 | 2023-03-14 |  |
-| [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 | 2023-03-14 | 2023-11-07 |
+| [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 | 2023-03-14 | 2024-01-15 |
 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 | 2023-03-14 |  |
 | [M](https://open.spotify.com/track/53sk4XbQHveSGDXq0k8asW) | [Penfold](https://open.spotify.com/artist/6DNcBVkeL2ucCkkTDJGcYn) | [Amateurs & Professionals](https://open.spotify.com/album/34MllYh3dtTSVGnE3m7mbg) | 4:23 | 2021-06-28 | 2023-03-15 |
 | [Marigold & Patchwork](https://open.spotify.com/track/2MPndJjBcn555aZQyuvt3S) | [The Appleseed Cast](https://open.spotify.com/artist/0MkAzpDHUZpuDnWGUII4RN) | [The End Of The Ring Wars](https://open.spotify.com/album/46522TAHAMPyA2utw8bo3F) | 5:49 | 2021-06-28 | 2023-03-15 |

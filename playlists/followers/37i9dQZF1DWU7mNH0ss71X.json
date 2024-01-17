@@ -1,384 +1,891 @@
 {
-  "2022-12-14": 664,
-  "2022-12-15": 670,
-  "2022-12-16": 669,
-  "2022-12-17": 672,
-  "2022-12-18": 674,
-  "2022-12-19": 680,
-  "2022-12-20": 689,
-  "2022-12-21": 689,
-  "2022-12-22": 695,
-  "2022-12-24": 708,
-  "2022-12-25": 710,
-  "2022-12-26": 717,
-  "2022-12-27": 721,
-  "2022-12-28": 727,
-  "2022-12-29": 733,
-  "2022-12-30": 740,
-  "2022-12-31": 745,
-  "2023-01-01": 749,
-  "2023-01-02": 752,
-  "2023-01-03": 758,
-  "2023-01-04": 759,
-  "2023-01-05": 768,
-  "2023-01-06": 771,
-  "2023-01-07": 782,
-  "2023-01-08": 785,
-  "2023-01-09": 792,
-  "2023-01-10": 795,
-  "2023-01-11": 801,
-  "2023-01-12": 811,
-  "2023-01-13": 822,
-  "2023-01-14": 828,
-  "2023-01-15": 828,
-  "2023-01-16": 832,
-  "2023-01-17": 838,
-  "2023-01-18": 841,
-  "2023-01-19": 846,
-  "2023-01-20": 855,
-  "2023-01-21": 859,
-  "2023-01-22": 863,
-  "2023-01-23": 862,
-  "2023-01-24": 870,
-  "2023-01-25": 877,
-  "2023-01-26": 883,
-  "2023-01-27": 891,
-  "2023-01-28": 900,
-  "2023-01-29": 904,
-  "2023-01-30": 909,
-  "2023-01-31": 909,
-  "2023-02-01": 915,
-  "2023-02-02": 920,
-  "2023-02-03": 920,
-  "2023-02-04": 923,
-  "2023-02-05": 926,
-  "2023-02-06": 929,
-  "2023-02-07": 932,
-  "2023-02-08": 942,
-  "2023-02-09": 942,
-  "2023-02-10": 947,
-  "2023-02-11": 955,
-  "2023-02-12": 966,
-  "2023-02-13": 971,
-  "2023-02-14": 971,
-  "2023-02-15": 978,
-  "2023-02-16": 979,
-  "2023-02-17": 981,
-  "2023-02-18": 985,
-  "2023-02-19": 986,
-  "2023-02-20": 990,
-  "2023-02-21": 994,
-  "2023-02-22": 998,
-  "2023-02-23": 1012,
-  "2023-02-24": 1020,
-  "2023-02-25": 1027,
-  "2023-02-26": 1027,
-  "2023-02-27": 1028,
-  "2023-02-28": 1028,
-  "2023-03-01": 1030,
-  "2023-03-02": 1033,
-  "2023-03-03": 1042,
-  "2023-03-04": 1046,
-  "2023-03-05": 1058,
-  "2023-03-06": 1058,
-  "2023-03-07": 1064,
-  "2023-03-08": 1071,
-  "2023-03-09": 1078,
-  "2023-03-10": 1079,
-  "2023-03-11": 1085,
-  "2023-03-12": 1086,
-  "2023-03-13": 1088,
-  "2023-03-14": 1091,
-  "2023-03-15": 1096,
-  "2023-03-16": 1099,
-  "2023-03-17": 1099,
-  "2023-03-18": 1109,
-  "2023-03-19": 1111,
-  "2023-03-20": 1112,
-  "2023-03-21": 1114,
-  "2023-03-22": 1125,
-  "2023-03-23": 1130,
-  "2023-03-24": 1130,
-  "2023-03-25": 1139,
-  "2023-03-26": 1144,
-  "2023-03-27": 1149,
-  "2023-03-28": 1156,
-  "2023-03-29": 1161,
-  "2023-03-30": 1170,
-  "2023-03-31": 1170,
-  "2023-04-01": 1178,
-  "2023-04-02": 1182,
-  "2023-04-03": 1181,
-  "2023-04-04": 1190,
-  "2023-04-05": 1193,
-  "2023-04-06": 1196,
-  "2023-04-07": 1198,
-  "2023-04-09": 1209,
-  "2023-04-10": 1209,
-  "2023-04-11": 1213,
-  "2023-04-12": 1213,
-  "2023-04-13": 1217,
-  "2023-04-14": 1226,
-  "2023-04-15": 1226,
-  "2023-04-16": 1229,
-  "2023-04-17": 1233,
-  "2023-04-18": 1235,
-  "2023-04-19": 1239,
-  "2023-04-20": 1242,
-  "2023-04-21": 1244,
-  "2023-04-22": 1254,
-  "2023-04-23": 1255,
-  "2023-04-24": 1256,
-  "2023-04-25": 1258,
-  "2023-04-26": 1262,
-  "2023-04-27": 1265,
-  "2023-04-28": 1265,
-  "2023-04-29": 1271,
-  "2023-04-30": 1273,
-  "2023-05-01": 1276,
-  "2023-05-02": 1278,
-  "2023-05-03": 1279,
-  "2023-05-04": 1281,
-  "2023-05-05": 1284,
-  "2023-05-06": 1287,
-  "2023-05-07": 1289,
-  "2023-05-08": 1293,
-  "2023-05-09": 1294,
-  "2023-05-10": 1294,
-  "2023-05-11": 1299,
-  "2023-05-12": 1302,
-  "2023-05-13": 1303,
-  "2023-05-14": 1308,
-  "2023-05-15": 1314,
-  "2023-05-16": 1314,
-  "2023-05-17": 1318,
-  "2023-05-18": 1324,
-  "2023-05-19": 1324,
-  "2023-05-20": 1336,
-  "2023-05-21": 1336,
-  "2023-05-22": 1336,
-  "2023-05-23": 1349,
-  "2023-05-24": 1350,
-  "2023-05-25": 1352,
-  "2023-05-26": 1353,
-  "2023-05-27": 1355,
-  "2023-05-28": 1357,
-  "2023-05-29": 1357,
-  "2023-05-30": 1362,
-  "2023-05-31": 1364,
-  "2023-06-01": 1364,
-  "2023-06-02": 1363,
-  "2023-06-03": 1363,
-  "2023-06-04": 1363,
-  "2023-06-05": 1366,
-  "2023-06-06": 1367,
-  "2023-06-07": 1366,
-  "2023-06-08": 1366,
-  "2023-06-09": 1367,
-  "2023-06-10": 1371,
-  "2023-06-11": 1377,
-  "2023-06-12": 1377,
-  "2023-06-13": 1379,
-  "2023-06-14": 1380,
-  "2023-06-15": 1382,
-  "2023-06-16": 1385,
-  "2023-06-17": 1386,
-  "2023-06-18": 1388,
-  "2023-06-19": 1390,
-  "2023-06-20": 1394,
-  "2023-06-21": 1395,
-  "2023-06-22": 1398,
-  "2023-06-23": 1398,
-  "2023-06-24": 1403,
-  "2023-06-25": 1405,
-  "2023-06-26": 1408,
-  "2023-06-27": 1409,
-  "2023-06-28": 1408,
-  "2023-06-29": 1409,
-  "2023-06-30": 1410,
-  "2023-07-01": 1414,
-  "2023-07-02": 1414,
-  "2023-07-03": 1414,
-  "2023-07-04": 1414,
-  "2023-07-05": 1420,
-  "2023-07-06": 1423,
-  "2023-07-07": 1423,
-  "2023-07-08": 1423,
-  "2023-07-09": 1425,
-  "2023-07-10": 1426,
-  "2023-07-11": 1427,
-  "2023-07-12": 1434,
-  "2023-07-13": 1434,
-  "2023-07-14": 1438,
-  "2023-07-15": 1438,
-  "2023-07-16": 1445,
-  "2023-07-17": 1448,
-  "2023-07-18": 1449,
-  "2023-07-19": 1451,
-  "2023-07-20": 1452,
-  "2023-07-21": 1454,
-  "2023-07-22": 1460,
-  "2023-07-23": 1461,
-  "2023-07-24": 1462,
-  "2023-07-25": 1461,
-  "2023-07-26": 1465,
-  "2023-07-27": 1468,
-  "2023-07-28": 1473,
-  "2023-07-29": 1478,
-  "2023-07-30": 1481,
-  "2023-07-31": 1482,
-  "2023-08-01": 1483,
-  "2023-08-02": 1487,
-  "2023-08-03": 1489,
-  "2023-08-04": 1494,
-  "2023-08-05": 1494,
-  "2023-08-06": 1498,
-  "2023-08-07": 1498,
-  "2023-08-08": 1501,
-  "2023-08-09": 1504,
-  "2023-08-10": 1508,
-  "2023-08-11": 1512,
-  "2023-08-12": 1514,
-  "2023-08-13": 1517,
-  "2023-08-14": 1520,
-  "2023-08-15": 1522,
-  "2023-08-16": 1522,
-  "2023-08-17": 1523,
-  "2023-08-18": 1525,
-  "2023-08-19": 1525,
-  "2023-08-20": 1529,
-  "2023-08-21": 1530,
-  "2023-08-22": 1530,
-  "2023-08-23": 1530,
-  "2023-08-24": 1534,
-  "2023-08-25": 1535,
-  "2023-08-26": 1537,
-  "2023-08-27": 1536,
-  "2023-08-28": 1540,
-  "2023-08-29": 1541,
-  "2023-08-30": 1541,
-  "2023-08-31": 1541,
-  "2023-09-01": 1550,
-  "2023-09-02": 1550,
-  "2023-09-03": 1553,
-  "2023-09-04": 1562,
-  "2023-09-05": 1570,
-  "2023-09-06": 1576,
-  "2023-09-07": 1589,
-  "2023-09-08": 1596,
-  "2023-09-09": 1604,
-  "2023-09-10": 1612,
-  "2023-09-11": 1615,
-  "2023-09-12": 1625,
-  "2023-09-13": 1628,
-  "2023-09-14": 1635,
-  "2023-09-15": 1643,
-  "2023-09-16": 1651,
-  "2023-09-17": 1657,
-  "2023-09-18": 1659,
-  "2023-09-19": 1663,
-  "2023-09-20": 1671,
-  "2023-09-21": 1680,
-  "2023-09-22": 1688,
-  "2023-09-23": 1692,
-  "2023-09-24": 1698,
-  "2023-09-25": 1705,
-  "2023-09-26": 1711,
-  "2023-09-27": 1718,
-  "2023-09-28": 1726,
-  "2023-09-29": 1730,
-  "2023-09-30": 1735,
-  "2023-10-01": 1737,
-  "2023-10-02": 1739,
-  "2023-10-03": 1746,
-  "2023-10-04": 1748,
-  "2023-10-05": 1751,
-  "2023-10-06": 1756,
-  "2023-10-07": 1765,
-  "2023-10-08": 1772,
-  "2023-10-09": 1778,
-  "2023-10-10": 1785,
-  "2023-10-11": 1792,
-  "2023-10-12": 1792,
-  "2023-10-13": 1795,
-  "2023-10-14": 1797,
-  "2023-10-15": 1798,
-  "2023-10-16": 1803,
-  "2023-10-17": 1804,
-  "2023-10-18": 1806,
-  "2023-10-19": 1811,
-  "2023-10-20": 1814,
-  "2023-10-21": 1820,
-  "2023-10-22": 1824,
-  "2023-10-23": 1827,
-  "2023-10-24": 1833,
-  "2023-10-25": 1836,
-  "2023-10-26": 1846,
-  "2023-10-27": 1850,
-  "2023-10-28": 1857,
-  "2023-10-29": 1861,
-  "2023-10-30": 1876,
-  "2023-10-31": 1876,
-  "2023-11-01": 1885,
-  "2023-11-02": 1892,
-  "2023-11-03": 1895,
-  "2023-11-04": 1896,
-  "2023-11-05": 1904,
-  "2023-11-06": 1910,
-  "2023-11-07": 1910,
-  "2023-11-08": 1910,
-  "2023-11-09": 1910,
-  "2023-11-10": 1910,
-  "2023-11-11": 1910,
-  "2023-11-12": 1910,
-  "2023-11-13": 1910,
-  "2023-11-14": 1910,
-  "2023-11-15": 1910,
-  "2023-11-16": 1910,
-  "2023-11-17": 1910,
-  "2023-11-18": 1910,
-  "2023-11-19": 1910,
-  "2023-11-20": 1910,
-  "2023-11-21": 1910,
-  "2023-11-22": 1910,
-  "2023-11-23": 1910,
-  "2023-11-24": 1910,
-  "2023-11-25": 1910,
-  "2023-11-26": 1910,
-  "2023-11-27": 1910,
-  "2023-11-28": 1910,
-  "2023-11-29": 1910,
-  "2023-11-30": 1910,
-  "2023-12-01": 1910,
-  "2023-12-02": 1910,
-  "2023-12-03": 1910,
-  "2023-12-04": 1910,
-  "2023-12-05": 1910,
-  "2023-12-06": 1910,
-  "2023-12-07": 1910,
-  "2023-12-08": 1910,
-  "2023-12-09": 1910,
-  "2023-12-10": 1910,
-  "2023-12-11": 1910,
-  "2023-12-12": 1910,
-  "2023-12-13": 1910,
-  "2023-12-14": 1910,
-  "2023-12-15": 1910,
-  "2023-12-16": 1910,
-  "2023-12-17": 1910,
-  "2023-12-18": 1910,
-  "2023-12-19": 1910,
-  "2023-12-20": 1910,
-  "2023-12-21": 1910,
-  "2023-12-22": 1910,
-  "2023-12-23": 1910,
-  "2023-12-24": 1910,
-  "2023-12-25": 1910,
-  "2023-12-26": 1910,
-  "2023-12-27": 1910,
-  "2023-12-30": 1910,
-  "2023-12-31": 1910,
-  "2024-01-01": 1910,
-  "2024-01-02": 1910,
-  "2024-01-03": 1910
+  "2024-01-17": 1910,
+  "date_first_scraped": "2022-12-14",
+  "description": "U.K. rising star <a href=\"spotify:artist:6DnQYUjtYusK9QJts9HqSC\">Skepsis</a>\n delivers a mix filled with gritty basslines and fist-pumping tracks.",
+  "name": "Skepsis DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Acid - VIP (Mixed)",
+        "url": "https://open.spotify.com/album/4NhbjexDYBBzHhGp7ujSgC"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "Acid - VIP - Mixed",
+      "url": "https://open.spotify.com/track/5Q2pTyNfTRtqlN3jRXap3E"
+    },
+    {
+      "album": {
+        "name": "Again (Mixed)",
+        "url": "https://open.spotify.com/album/5AG8FGk0kfE0EHF3re7Eb2"
+      },
+      "artists": [
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Again - Mixed",
+      "url": "https://open.spotify.com/track/1LrL4N1Gfy5PzVmv8z90Yv"
+    },
+    {
+      "album": {
+        "name": "All Night (Mixed)",
+        "url": "https://open.spotify.com/album/0fAh3w27Cs6LF9iZPC9djO"
+      },
+      "artists": [
+        {
+          "name": "Riddim Commission",
+          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "All Night - Mixed",
+      "url": "https://open.spotify.com/track/6R3SM1XqZpL3HEoPUeDd3h"
+    },
+    {
+      "album": {
+        "name": "Banzai (Mixed)",
+        "url": "https://open.spotify.com/album/5dghbmhBQ6IAaqh5pzN93Q"
+      },
+      "artists": [
+        {
+          "name": "Eloquin",
+          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
+        },
+        {
+          "name": "HODA",
+          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "Banzai - Mixed",
+      "url": "https://open.spotify.com/track/4tUbQZYsrh5dsZjVmOogdE"
+    },
+    {
+      "album": {
+        "name": "Bumpa (Mixed)",
+        "url": "https://open.spotify.com/album/4keXV2mZ1hlHR13SRnPJFN"
+      },
+      "artists": [
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Bumpa - Mixed",
+      "url": "https://open.spotify.com/track/1JlnCIF5zMWOJGQgkD84Jw"
+    },
+    {
+      "album": {
+        "name": "Burning (Mixed)",
+        "url": "https://open.spotify.com/album/2hygmDYe3kgQWXDJSLFRES"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Burning - Mixed",
+      "url": "https://open.spotify.com/track/29vfpxOxuTzMQlKsD2xiKp"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes (Mixed)",
+        "url": "https://open.spotify.com/album/2KcG99C8pLqebP7QnBB5kv"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Close Your Eyes - Mixed",
+      "url": "https://open.spotify.com/track/1sAFW1YSqi0onRokalR6ov"
+    },
+    {
+      "album": {
+        "name": "Dat Funk (Mixed)",
+        "url": "https://open.spotify.com/album/1oL1ObA1vEAzknv8PtZsQE"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59000,
+      "name": "Dat Funk - Mixed",
+      "url": "https://open.spotify.com/track/4Nf4I57msbH76Qe0o66iMj"
+    },
+    {
+      "album": {
+        "name": "Fakers (Mixed)",
+        "url": "https://open.spotify.com/album/3tlcO17w79mo5U9mRnZK2K"
+      },
+      "artists": [
+        {
+          "name": "Diskord",
+          "url": "https://open.spotify.com/artist/3o8BMojuQONFOJ0cJ0qOEc"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62000,
+      "name": "Fakers - Mixed",
+      "url": "https://open.spotify.com/track/6NZry6T0ByXcjsFSJXnhEO"
+    },
+    {
+      "album": {
+        "name": "Feel So Free (Mixed)",
+        "url": "https://open.spotify.com/album/09Z0c5SDiN5atH1VrphNRN"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Feel So Free - Mixed",
+      "url": "https://open.spotify.com/track/7A5dPJZIQij9sfoBkWAo08"
+    },
+    {
+      "album": {
+        "name": "Fly With Us (Mixed)",
+        "url": "https://open.spotify.com/album/752Y1StjD041LVXUEEDTcQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Fly With Us - Mixed",
+      "url": "https://open.spotify.com/track/2veqvGps1j49K0GMdCilgP"
+    },
+    {
+      "album": {
+        "name": "Fool (Mixed)",
+        "url": "https://open.spotify.com/album/7tAvz2952AlFj0GQbrSz0f"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Fool - Mixed",
+      "url": "https://open.spotify.com/track/7aL8oBhb5hgsSiOwPwlF2D"
+    },
+    {
+      "album": {
+        "name": "Freak (Mixed)",
+        "url": "https://open.spotify.com/album/3niAmp8RA2ow4oCz2osYCE"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Freak - Mixed",
+      "url": "https://open.spotify.com/track/5AHhs1tfcIr4Yq3pGY9c5I"
+    },
+    {
+      "album": {
+        "name": "Get Dumb (Mixed)",
+        "url": "https://open.spotify.com/album/2c3QmVevm6bnjfNw4AsALO"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "Get Dumb - Mixed",
+      "url": "https://open.spotify.com/track/1e8WAwL8auG3e49wVD1twc"
+    },
+    {
+      "album": {
+        "name": "Gold Dust - Skepsis Remix (Mixed)",
+        "url": "https://open.spotify.com/album/6de6N29eYh55ci4Fax5wg4"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Gold Dust - Skepsis Remix - Mixed",
+      "url": "https://open.spotify.com/track/4KccmgNw4KkdtoWK5iSqnW"
+    },
+    {
+      "album": {
+        "name": "Hard Hitters (Mixed)",
+        "url": "https://open.spotify.com/album/6ktBKpr6rI3dDFtpiNghMV"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Hard Hitters - Mixed",
+      "url": "https://open.spotify.com/track/5c20HXCDGHvowMQ8mMqxZa"
+    },
+    {
+      "album": {
+        "name": "High Class VIP (Mixed)",
+        "url": "https://open.spotify.com/album/5mwmJRAdmENzn7dKDeTnGV"
+      },
+      "artists": [
+        {
+          "name": "Arc Nade",
+          "url": "https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL"
+        },
+        {
+          "name": "Wulflock",
+          "url": "https://open.spotify.com/artist/0CUcadD1x41grLqlH1iubO"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "High Class VIP - Mixed",
+      "url": "https://open.spotify.com/track/7CXZPR1kORgYeSHbPMLoJ6"
+    },
+    {
+      "album": {
+        "name": "Hooked (Mixed)",
+        "url": "https://open.spotify.com/album/2cOerOyCmmmA6JaU5ePNN5"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Hooked - Mixed",
+      "url": "https://open.spotify.com/track/2GPpNr79eBj8weB8jkaOKM"
+    },
+    {
+      "album": {
+        "name": "Hot Flush (Mixed)",
+        "url": "https://open.spotify.com/album/2N3PUTtSJZJbrtDOJ7gqR7"
+      },
+      "artists": [
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Hot Flush - Mixed",
+      "url": "https://open.spotify.com/track/7fu3rRXpxVNznDy4Vhlj04"
+    },
+    {
+      "album": {
+        "name": "I Dare You - Skepsis Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7sH0vsWwT01Fhs6haXb8HM"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "I Dare You - Skepsis Remix - Mixed",
+      "url": "https://open.spotify.com/track/10WUxH9Dz5i8XAsSiUrtj8"
+    },
+    {
+      "album": {
+        "name": "I Was Lovin' You (feat. Dots Per Inch & Ayak) - TS7 Remix [Mixed]",
+        "url": "https://open.spotify.com/album/5hMYaZFfNvZMelKySnTLEP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Dots Per Inch",
+          "url": "https://open.spotify.com/artist/20BQJA9TcJiWM3AWbMY7wl"
+        },
+        {
+          "name": "Ayak",
+          "url": "https://open.spotify.com/artist/47NAtOqGZrJ5PHt0a0sZlP"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "I Was Lovin' You (feat. Dots Per Inch & Ayak) - TS7 Remix - Mixed",
+      "url": "https://open.spotify.com/track/58gmIqK2fkjOWtl67NQ9UO"
+    },
+    {
+      "album": {
+        "name": "Juggernaut (Mixed)",
+        "url": "https://open.spotify.com/album/6aPmpQlYhYAMoEyfjs2cp0"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Juggernaut - Mixed",
+      "url": "https://open.spotify.com/track/6z79qMltFPMlahFA3A0FIa"
+    },
+    {
+      "album": {
+        "name": "Knock Knock (Mixed)",
+        "url": "https://open.spotify.com/album/7LV3bKp23cFM4md2GmZQ1m"
+      },
+      "artists": [
+        {
+          "name": "Deppz",
+          "url": "https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2"
+        },
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "Knock Knock - Mixed",
+      "url": "https://open.spotify.com/track/6Btrx9JxGfKd2Nl3q4PWeE"
+    },
+    {
+      "album": {
+        "name": "Lazerbeams (Mixed)",
+        "url": "https://open.spotify.com/album/0n3VXQkKU7Hz5O4rYsh4Bd"
+      },
+      "artists": [
+        {
+          "name": "Wheeto",
+          "url": "https://open.spotify.com/artist/5YZNr5ukMm2xAT7Y4LbTl2"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Lazerbeams - Mixed",
+      "url": "https://open.spotify.com/track/7uyWoV5STKYsezhRf7yydK"
+    },
+    {
+      "album": {
+        "name": "Lighter (feat. KSI) - Shapes Remix [Mixed]",
+        "url": "https://open.spotify.com/album/3iSgQXz5pIZ04pW9cSsstA"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Lighter (feat. KSI) - Shapes Remix - Mixed",
+      "url": "https://open.spotify.com/track/34fUxyPvrztsL1juIDipDI"
+    },
+    {
+      "album": {
+        "name": "M.O.D (Mixed)",
+        "url": "https://open.spotify.com/album/7xOKbHe4efJPsykIuZwoJB"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "M.O.D - Mixed",
+      "url": "https://open.spotify.com/track/22e2rfxrHhbkICOKVaMO9G"
+    },
+    {
+      "album": {
+        "name": "Night Mode (Mixed)",
+        "url": "https://open.spotify.com/album/5Lnx2wIUPZ1EpFwOzXHSGK"
+      },
+      "artists": [
+        {
+          "name": "Dubloadz",
+          "url": "https://open.spotify.com/artist/4akLvvJyLbJxlbpSXHTLvT"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Night Mode - Mixed",
+      "url": "https://open.spotify.com/track/7g9Ccu9D2KApU96ZbnQgOw"
+    },
+    {
+      "album": {
+        "name": "Over You (Mixed)",
+        "url": "https://open.spotify.com/album/3gyH7UOaYA1Y7XQ0nDoicd"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Over You - Mixed",
+      "url": "https://open.spotify.com/track/2XWYFznXlU4eqYKWBnPoNg"
+    },
+    {
+      "album": {
+        "name": "Point (Mixed)",
+        "url": "https://open.spotify.com/album/1ZZHtX5ztamqoYwxqAnVNh"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Point - Mixed",
+      "url": "https://open.spotify.com/track/1xucXmi3Sie43p3nZ4F4Hz"
+    },
+    {
+      "album": {
+        "name": "Point (Mixed)",
+        "url": "https://open.spotify.com/album/66cAQS8NL49Z8SOHHLs0G6"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 66000,
+      "name": "Point - Mixed",
+      "url": "https://open.spotify.com/track/5beBbkRTZOnyvBuEoLPVI5"
+    },
+    {
+      "album": {
+        "name": "Screamer (Mixed)",
+        "url": "https://open.spotify.com/album/5sCsNbQ7L3yBk0j1CHRwOI"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59000,
+      "name": "Screamer - Mixed",
+      "url": "https://open.spotify.com/track/4VHjgoeKUVcqfe4iKOQTWh"
+    },
+    {
+      "album": {
+        "name": "Secure the Bag (Mixed)",
+        "url": "https://open.spotify.com/album/0UJyXHtE58lbDIAmFGTWRq"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Secure the Bag - Mixed",
+      "url": "https://open.spotify.com/track/69KrRNUxQPGEdQLaXGPS4h"
+    },
+    {
+      "album": {
+        "name": "Set Me Free (Mixed)",
+        "url": "https://open.spotify.com/album/6JUlt3xXqRjEjE2EikuYth"
+      },
+      "artists": [
+        {
+          "name": "Bellecour",
+          "url": "https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Set Me Free - Mixed",
+      "url": "https://open.spotify.com/track/4V4iEwKwTxF8GNhRTuBVyX"
+    },
+    {
+      "album": {
+        "name": "Show Me (Mixed)",
+        "url": "https://open.spotify.com/album/53t6TOMI2nBNWm5ZWQE0Ta"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2023-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61000,
+      "name": "Show Me - Mixed",
+      "url": "https://open.spotify.com/track/30Dbe0a7prbgqx9L81bGd3"
+    },
+    {
+      "album": {
+        "name": "Show Me (Mixed)",
+        "url": "https://open.spotify.com/album/19B8YfQDH3Z5E8xVUZjpRV"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 61000,
+      "name": "Show Me - Mixed",
+      "url": "https://open.spotify.com/track/5gyxiLgdIq2j5ZA1geduRf"
+    },
+    {
+      "album": {
+        "name": "Stormaz - Mintnite Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7f7TgghWc1RVTVi6A45npF"
+      },
+      "artists": [
+        {
+          "name": "Phatworld",
+          "url": "https://open.spotify.com/artist/5rBIR1y90WuRA7A83OWOfi"
+        },
+        {
+          "name": "Mintnite",
+          "url": "https://open.spotify.com/artist/2dVSvPGXXJBWKlG82Ov2r6"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "Stormaz - Mintnite Remix - Mixed",
+      "url": "https://open.spotify.com/track/5xdFIPnYKTT9v3VnVRwtXW"
+    },
+    {
+      "album": {
+        "name": "TELL ME (Mixed)",
+        "url": "https://open.spotify.com/album/6Y1nvOpOZunyiq6YSX20HZ"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "TELL ME - Mixed",
+      "url": "https://open.spotify.com/track/5pyDKx0CiBDUOeSwD7rExx"
+    },
+    {
+      "album": {
+        "name": "Time (Mixed)",
+        "url": "https://open.spotify.com/album/7v7wb12Jpx8kY5GykdfCqP"
+      },
+      "artists": [
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Time - Mixed",
+      "url": "https://open.spotify.com/track/4wGOAD955UfmhHSwsG91Hw"
+    },
+    {
+      "album": {
+        "name": "What's the Move (feat. General Degree) [Mixed]",
+        "url": "https://open.spotify.com/album/6KvvAaZ9vhs6ib33DvxkC1"
+      },
+      "artists": [
+        {
+          "name": "General Degree",
+          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "What's the Move (feat. General Degree) - Mixed",
+      "url": "https://open.spotify.com/track/4Mrvf5MZa29agwNQLIsqzs"
+    },
+    {
+      "album": {
+        "name": "With U (Mixed)",
+        "url": "https://open.spotify.com/album/0pI4f4qn3tqlmtDDbLKwkC"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "FineArt",
+          "url": "https://open.spotify.com/artist/4rpDgbKcQ6a8rT7mk60a7o"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "With U - Mixed",
+      "url": "https://open.spotify.com/track/1Z6Xf3TJhUwKt4HPAQAGmC"
+    },
+    {
+      "album": {
+        "name": "You & I - Notion Remix (Mixed)",
+        "url": "https://open.spotify.com/album/0VPAYD6ETE5Dr9aAlP7Wf6"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "You & I - Notion Remix - Mixed",
+      "url": "https://open.spotify.com/track/5a9iQBYTllSbYkhTmHjnVp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU7mNH0ss71X"
 }

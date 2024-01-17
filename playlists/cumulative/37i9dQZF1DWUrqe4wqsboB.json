@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 199308,
       "name": "Aguadilla",
       "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 153333,
       "name": "Beso Con Sal",
       "url": "https://open.spotify.com/track/6OOzp7GNfEPBbhCmEw8ycA"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 211169,
       "name": "Mares\u00eda",
       "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/3qjCjRW2rQEWqe0NP7Y9Nb"
+      },
+      "artists": [
+        {
+          "name": "Valeria Cid",
+          "url": "https://open.spotify.com/artist/1klJBfGgnBcEI8uVTwLm9U"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212983,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/6cRKwJ29ugWQmCyUhy2htP"
+    },
+    {
+      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 200022,
       "name": "TQD",
       "url": "https://open.spotify.com/track/2AQVo81C3slum4RinFZWkM"

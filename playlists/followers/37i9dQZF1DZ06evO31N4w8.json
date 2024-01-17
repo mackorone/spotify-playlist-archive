@@ -1,577 +1,1415 @@
 {
-  "2022-06-02": 38192,
-  "2022-06-03": 38206,
-  "2022-06-04": 38231,
-  "2022-06-05": 38257,
-  "2022-06-06": 38289,
-  "2022-06-07": 38293,
-  "2022-06-08": 38314,
-  "2022-06-09": 38333,
-  "2022-06-10": 38347,
-  "2022-06-11": 38375,
-  "2022-06-12": 38411,
-  "2022-06-13": 38426,
-  "2022-06-14": 38441,
-  "2022-06-15": 38453,
-  "2022-06-16": 38471,
-  "2022-06-17": 38488,
-  "2022-06-18": 38514,
-  "2022-06-19": 38578,
-  "2022-06-20": 38578,
-  "2022-06-21": 38595,
-  "2022-06-22": 38630,
-  "2022-06-23": 38630,
-  "2022-06-24": 38656,
-  "2022-06-25": 38675,
-  "2022-06-26": 38696,
-  "2022-06-27": 38727,
-  "2022-06-28": 38748,
-  "2022-06-29": 38765,
-  "2022-06-30": 38780,
-  "2022-07-01": 38807,
-  "2022-07-02": 38845,
-  "2022-07-03": 38884,
-  "2022-07-04": 38895,
-  "2022-07-05": 38895,
-  "2022-07-06": 38895,
-  "2022-07-07": 38942,
-  "2022-07-08": 38958,
-  "2022-07-09": 38973,
-  "2022-07-10": 39001,
-  "2022-07-11": 39027,
-  "2022-07-12": 39043,
-  "2022-07-13": 39062,
-  "2022-07-14": 39092,
-  "2022-07-15": 39118,
-  "2022-07-16": 39143,
-  "2022-07-17": 39172,
-  "2022-07-18": 39204,
-  "2022-07-19": 39228,
-  "2022-07-20": 39244,
-  "2022-07-21": 39258,
-  "2022-07-22": 39279,
-  "2022-07-23": 39300,
-  "2022-07-24": 39336,
-  "2022-07-25": 39361,
-  "2022-07-26": 39380,
-  "2022-07-27": 39398,
-  "2022-07-28": 39417,
-  "2022-07-29": 39432,
-  "2022-07-30": 39476,
-  "2022-07-31": 39476,
-  "2022-08-01": 39504,
-  "2022-08-02": 39539,
-  "2022-08-03": 39539,
-  "2022-08-04": 39564,
-  "2022-08-05": 39581,
-  "2022-08-06": 39614,
-  "2022-08-07": 39644,
-  "2022-08-08": 39665,
-  "2022-08-09": 39687,
-  "2022-08-10": 39705,
-  "2022-08-11": 39723,
-  "2022-08-12": 39741,
-  "2022-08-13": 39753,
-  "2022-08-14": 39782,
-  "2022-08-15": 39809,
-  "2022-08-16": 39826,
-  "2022-08-17": 39842,
-  "2022-08-18": 39864,
-  "2022-08-19": 39881,
-  "2022-08-20": 39920,
-  "2022-08-21": 39947,
-  "2022-08-22": 39990,
-  "2022-08-23": 40009,
-  "2022-08-24": 40024,
-  "2022-08-25": 40041,
-  "2022-08-26": 40065,
-  "2022-08-27": 40086,
-  "2022-08-28": 40106,
-  "2022-08-29": 40129,
-  "2022-08-30": 40157,
-  "2022-08-31": 40174,
-  "2022-09-01": 40191,
-  "2022-09-02": 40222,
-  "2022-09-03": 40245,
-  "2022-09-04": 40277,
-  "2022-09-05": 40307,
-  "2022-09-06": 40323,
-  "2022-09-07": 40343,
-  "2022-09-09": 40372,
-  "2022-09-10": 40397,
-  "2022-09-11": 40429,
-  "2022-09-12": 40460,
-  "2022-09-13": 40489,
-  "2022-09-15": 40520,
-  "2022-09-16": 40547,
-  "2022-09-17": 40576,
-  "2022-09-18": 40611,
-  "2022-09-19": 40637,
-  "2022-09-20": 40657,
-  "2022-09-21": 40676,
-  "2022-09-22": 40700,
-  "2022-09-23": 40726,
-  "2022-09-24": 40726,
-  "2022-09-25": 40769,
-  "2022-09-26": 40794,
-  "2022-09-27": 40798,
-  "2022-09-28": 40815,
-  "2022-09-29": 40829,
-  "2022-09-30": 40850,
-  "2022-10-01": 40879,
-  "2022-10-02": 40905,
-  "2022-10-03": 40931,
-  "2022-10-04": 40962,
-  "2022-10-05": 40986,
-  "2022-10-06": 41005,
-  "2022-10-07": 41018,
-  "2022-10-08": 41037,
-  "2022-10-09": 41075,
-  "2022-10-10": 41084,
-  "2022-10-11": 41090,
-  "2022-10-12": 41103,
-  "2022-10-13": 41125,
-  "2022-10-14": 41147,
-  "2022-10-15": 41178,
-  "2022-10-16": 41206,
-  "2022-10-17": 41232,
-  "2022-10-18": 41259,
-  "2022-10-19": 41274,
-  "2022-10-20": 41301,
-  "2022-10-21": 41337,
-  "2022-10-22": 41357,
-  "2022-10-23": 41396,
-  "2022-10-24": 41414,
-  "2022-10-25": 41435,
-  "2022-10-26": 41462,
-  "2022-10-27": 41485,
-  "2022-10-28": 41507,
-  "2022-10-29": 41531,
-  "2022-10-30": 41570,
-  "2022-10-31": 41593,
-  "2022-11-01": 41612,
-  "2022-11-02": 41634,
-  "2022-11-03": 41658,
-  "2022-11-04": 41681,
-  "2022-11-05": 41710,
-  "2022-11-06": 41744,
-  "2022-11-07": 41764,
-  "2022-11-08": 41776,
-  "2022-11-09": 41789,
-  "2022-11-10": 41809,
-  "2022-11-11": 41823,
-  "2022-11-12": 41852,
-  "2022-11-13": 41879,
-  "2022-11-14": 41919,
-  "2022-11-15": 41939,
-  "2022-11-16": 41960,
-  "2022-11-17": 41983,
-  "2022-11-18": 41987,
-  "2022-11-19": 41993,
-  "2022-11-20": 42014,
-  "2022-11-21": 42044,
-  "2022-11-22": 42067,
-  "2022-11-23": 42090,
-  "2022-11-24": 42127,
-  "2022-11-25": 42159,
-  "2022-11-26": 42183,
-  "2022-11-27": 42203,
-  "2022-11-28": 42218,
-  "2022-11-29": 42238,
-  "2022-11-30": 42268,
-  "2022-12-01": 42287,
-  "2022-12-02": 42295,
-  "2022-12-03": 42319,
-  "2022-12-04": 42350,
-  "2022-12-05": 42375,
-  "2022-12-06": 42402,
-  "2022-12-07": 42424,
-  "2022-12-08": 42447,
-  "2022-12-09": 42472,
-  "2022-12-10": 42502,
-  "2022-12-11": 42533,
-  "2022-12-12": 42564,
-  "2022-12-13": 42587,
-  "2022-12-14": 42604,
-  "2022-12-15": 42630,
-  "2022-12-16": 42655,
-  "2022-12-17": 42690,
-  "2022-12-18": 42715,
-  "2022-12-19": 42744,
-  "2022-12-20": 42792,
-  "2022-12-21": 42792,
-  "2022-12-22": 42814,
-  "2022-12-24": 42884,
-  "2022-12-25": 42928,
-  "2022-12-26": 42983,
-  "2022-12-27": 43017,
-  "2022-12-28": 43044,
-  "2022-12-29": 43072,
-  "2022-12-30": 43103,
-  "2022-12-31": 43146,
-  "2023-01-01": 43205,
-  "2023-01-02": 43257,
-  "2023-01-03": 43290,
-  "2023-01-04": 43305,
-  "2023-01-05": 43325,
-  "2023-01-06": 43357,
-  "2023-01-07": 43398,
-  "2023-01-08": 43405,
-  "2023-01-09": 43439,
-  "2023-01-10": 43451,
-  "2023-01-11": 43484,
-  "2023-01-12": 43518,
-  "2023-01-13": 43548,
-  "2023-01-14": 43596,
-  "2023-01-15": 43602,
-  "2023-01-16": 43644,
-  "2023-01-17": 43676,
-  "2023-01-18": 43695,
-  "2023-01-19": 43705,
-  "2023-01-20": 43727,
-  "2023-01-21": 43756,
-  "2023-01-22": 43795,
-  "2023-01-23": 43837,
-  "2023-01-24": 43850,
-  "2023-01-25": 43866,
-  "2023-01-26": 43891,
-  "2023-01-27": 43914,
-  "2023-01-28": 43944,
-  "2023-01-29": 43971,
-  "2023-01-30": 43997,
-  "2023-01-31": 43997,
-  "2023-02-01": 44050,
-  "2023-02-02": 44067,
-  "2023-02-03": 44089,
-  "2023-02-04": 44119,
-  "2023-02-05": 44146,
-  "2023-02-06": 44169,
-  "2023-02-07": 44200,
-  "2023-02-08": 44246,
-  "2023-02-09": 44246,
-  "2023-02-10": 44276,
-  "2023-02-11": 44289,
-  "2023-02-12": 44337,
-  "2023-02-13": 44352,
-  "2023-02-14": 44352,
-  "2023-02-15": 44372,
-  "2023-02-16": 44388,
-  "2023-02-17": 44414,
-  "2023-02-18": 44478,
-  "2023-02-19": 44484,
-  "2023-02-20": 44507,
-  "2023-02-21": 44525,
-  "2023-02-22": 44541,
-  "2023-02-23": 44556,
-  "2023-02-24": 44574,
-  "2023-02-25": 44611,
-  "2023-02-26": 44624,
-  "2023-02-27": 44670,
-  "2023-02-28": 44670,
-  "2023-03-01": 44692,
-  "2023-03-02": 44708,
-  "2023-03-03": 44734,
-  "2023-03-04": 44757,
-  "2023-03-05": 44833,
-  "2023-03-06": 44833,
-  "2023-03-07": 44856,
-  "2023-03-08": 44876,
-  "2023-03-09": 44892,
-  "2023-03-10": 44917,
-  "2023-03-11": 44944,
-  "2023-03-12": 44965,
-  "2023-03-13": 44993,
-  "2023-03-14": 45008,
-  "2023-03-15": 45023,
-  "2023-03-16": 45023,
-  "2023-03-17": 45023,
-  "2023-03-18": 45093,
-  "2023-03-19": 45093,
-  "2023-03-20": 45129,
-  "2023-03-21": 45153,
-  "2023-03-22": 45183,
-  "2023-03-23": 45211,
-  "2023-03-24": 45211,
-  "2023-03-25": 45263,
-  "2023-03-26": 45299,
-  "2023-03-27": 45327,
-  "2023-03-28": 45342,
-  "2023-03-29": 45365,
-  "2023-03-30": 45415,
-  "2023-03-31": 45415,
-  "2023-04-01": 45449,
-  "2023-04-02": 45486,
-  "2023-04-03": 45521,
-  "2023-04-04": 45541,
-  "2023-04-05": 45569,
-  "2023-04-06": 45602,
-  "2023-04-07": 45634,
-  "2023-04-09": 45694,
-  "2023-04-10": 45722,
-  "2023-04-11": 45764,
-  "2023-04-12": 45764,
-  "2023-04-13": 45789,
-  "2023-04-14": 45810,
-  "2023-04-15": 45838,
-  "2023-04-16": 45865,
-  "2023-04-17": 45908,
-  "2023-04-18": 45922,
-  "2023-04-19": 45945,
-  "2023-04-20": 45962,
-  "2023-04-21": 45978,
-  "2023-04-22": 46011,
-  "2023-04-23": 46043,
-  "2023-04-24": 46065,
-  "2023-04-25": 46078,
-  "2023-04-26": 46093,
-  "2023-04-27": 46118,
-  "2023-04-28": 46136,
-  "2023-04-29": 46172,
-  "2023-04-30": 46191,
-  "2023-05-01": 46228,
-  "2023-05-02": 46253,
-  "2023-05-03": 46273,
-  "2023-05-04": 46300,
-  "2023-05-05": 46316,
-  "2023-05-06": 46343,
-  "2023-05-07": 46375,
-  "2023-05-08": 46409,
-  "2023-05-09": 46430,
-  "2023-05-10": 46444,
-  "2023-05-11": 46478,
-  "2023-05-12": 46511,
-  "2023-05-13": 46548,
-  "2023-05-14": 46595,
-  "2023-05-15": 46624,
-  "2023-05-16": 46644,
-  "2023-05-17": 46664,
-  "2023-05-18": 46685,
-  "2023-05-19": 46711,
-  "2023-05-20": 46765,
-  "2023-05-21": 46765,
-  "2023-05-22": 46765,
-  "2023-05-23": 46816,
-  "2023-05-24": 46861,
-  "2023-05-25": 46881,
-  "2023-05-26": 46921,
-  "2023-05-27": 46966,
-  "2023-05-28": 46998,
-  "2023-05-29": 46998,
-  "2023-05-30": 47053,
-  "2023-05-31": 47083,
-  "2023-06-01": 47105,
-  "2023-06-02": 47137,
-  "2023-06-03": 47175,
-  "2023-06-04": 47214,
-  "2023-06-05": 47245,
-  "2023-06-06": 47273,
-  "2023-06-07": 47310,
-  "2023-06-08": 47332,
-  "2023-06-09": 47354,
-  "2023-06-10": 47390,
-  "2023-06-11": 47426,
-  "2023-06-12": 47466,
-  "2023-06-13": 47491,
-  "2023-06-14": 47516,
-  "2023-06-15": 47543,
-  "2023-06-16": 47571,
-  "2023-06-17": 47599,
-  "2023-06-18": 47629,
-  "2023-06-19": 47671,
-  "2023-06-20": 47685,
-  "2023-06-21": 47711,
-  "2023-06-22": 47742,
-  "2023-06-23": 47771,
-  "2023-06-24": 47795,
-  "2023-06-25": 47847,
-  "2023-06-26": 47885,
-  "2023-06-27": 47911,
-  "2023-06-28": 47932,
-  "2023-06-29": 47953,
-  "2023-06-30": 47981,
-  "2023-07-01": 48033,
-  "2023-07-02": 48033,
-  "2023-07-03": 48062,
-  "2023-07-04": 48081,
-  "2023-07-05": 48104,
-  "2023-07-06": 48157,
-  "2023-07-07": 48157,
-  "2023-07-08": 48157,
-  "2023-07-09": 48229,
-  "2023-07-10": 48253,
-  "2023-07-11": 48268,
-  "2023-07-12": 48292,
-  "2023-07-13": 48331,
-  "2023-07-14": 48360,
-  "2023-07-15": 48385,
-  "2023-07-16": 48430,
-  "2023-07-17": 48456,
-  "2023-07-18": 48486,
-  "2023-07-19": 48527,
-  "2023-07-20": 48552,
-  "2023-07-21": 48595,
-  "2023-07-22": 48640,
-  "2023-07-23": 48678,
-  "2023-07-24": 48706,
-  "2023-07-25": 48730,
-  "2023-07-26": 48758,
-  "2023-07-27": 48784,
-  "2023-07-28": 48818,
-  "2023-07-29": 48840,
-  "2023-07-30": 48875,
-  "2023-07-31": 48910,
-  "2023-08-01": 48940,
-  "2023-08-02": 48966,
-  "2023-08-03": 48991,
-  "2023-08-04": 49026,
-  "2023-08-05": 49052,
-  "2023-08-06": 49108,
-  "2023-08-07": 49108,
-  "2023-08-08": 49139,
-  "2023-08-09": 49157,
-  "2023-08-10": 49165,
-  "2023-08-11": 49192,
-  "2023-08-12": 49192,
-  "2023-08-13": 49192,
-  "2023-08-14": 49293,
-  "2023-08-15": 49293,
-  "2023-08-16": 49293,
-  "2023-08-17": 49293,
-  "2023-08-18": 49293,
-  "2023-08-19": 49293,
-  "2023-08-20": 49554,
-  "2023-08-21": 49554,
-  "2023-08-22": 49618,
-  "2023-08-23": 49618,
-  "2023-08-24": 49618,
-  "2023-08-25": 49618,
-  "2023-08-26": 49815,
-  "2023-08-27": 49815,
-  "2023-08-28": 49935,
-  "2023-08-29": 49935,
-  "2023-08-30": 49935,
-  "2023-08-31": 50038,
-  "2023-09-01": 50077,
-  "2023-09-02": 50077,
-  "2023-09-03": 50077,
-  "2023-09-04": 50077,
-  "2023-09-05": 50077,
-  "2023-09-06": 50077,
-  "2023-09-07": 50077,
-  "2023-09-08": 50077,
-  "2023-09-09": 50077,
-  "2023-09-10": 50077,
-  "2023-09-11": 50077,
-  "2023-09-12": 50077,
-  "2023-09-13": 50077,
-  "2023-09-14": 50077,
-  "2023-09-15": 50077,
-  "2023-09-16": 50646,
-  "2023-09-17": 50646,
-  "2023-09-18": 50646,
-  "2023-09-19": 50768,
-  "2023-09-20": 50768,
-  "2023-09-21": 50768,
-  "2023-09-22": 50840,
-  "2023-09-23": 50840,
-  "2023-09-24": 50840,
-  "2023-09-25": 50840,
-  "2023-09-26": 50958,
-  "2023-09-27": 50958,
-  "2023-09-28": 50958,
-  "2023-09-29": 50958,
-  "2023-09-30": 50958,
-  "2023-10-01": 50958,
-  "2023-10-02": 50958,
-  "2023-10-03": 50958,
-  "2023-10-04": 50958,
-  "2023-10-05": 50958,
-  "2023-10-06": 50958,
-  "2023-10-07": 50958,
-  "2023-10-08": 50958,
-  "2023-10-09": 50958,
-  "2023-10-10": 50958,
-  "2023-10-11": 51326,
-  "2023-10-12": 51326,
-  "2023-10-13": 51326,
-  "2023-10-14": 51326,
-  "2023-10-15": 51326,
-  "2023-10-16": 51326,
-  "2023-10-17": 51326,
-  "2023-10-18": 51326,
-  "2023-10-19": 51326,
-  "2023-10-20": 51326,
-  "2023-10-21": 51326,
-  "2023-10-22": 51326,
-  "2023-10-23": 51326,
-  "2023-10-24": 51326,
-  "2023-10-25": 51326,
-  "2023-10-26": 51326,
-  "2023-10-27": 51326,
-  "2023-10-28": 51326,
-  "2023-10-29": 51326,
-  "2023-10-30": 51326,
-  "2023-10-31": 51326,
-  "2023-11-01": 51326,
-  "2023-11-02": 51326,
-  "2023-11-03": 51326,
-  "2023-11-04": 51326,
-  "2023-11-05": 51326,
-  "2023-11-06": 51326,
-  "2023-11-07": 51326,
-  "2023-11-08": 51326,
-  "2023-11-09": 51326,
-  "2023-11-10": 51326,
-  "2023-11-11": 52115,
-  "2023-11-12": 52115,
-  "2023-11-13": 52115,
-  "2023-11-14": 52115,
-  "2023-11-15": 52115,
-  "2023-11-16": 52115,
-  "2023-11-17": 52115,
-  "2023-11-18": 52115,
-  "2023-11-19": 52115,
-  "2023-11-20": 52115,
-  "2023-11-21": 52115,
-  "2023-11-22": 52115,
-  "2023-11-23": 52115,
-  "2023-11-24": 52115,
-  "2023-11-25": 52115,
-  "2023-11-26": 52115,
-  "2023-11-27": 52115,
-  "2023-11-28": 52115,
-  "2023-11-29": 52115,
-  "2023-11-30": 52115,
-  "2023-12-01": 52115,
-  "2023-12-02": 52115,
-  "2023-12-03": 52115,
-  "2023-12-04": 52115,
-  "2023-12-05": 52115,
-  "2023-12-06": 52115,
-  "2023-12-07": 52115,
-  "2023-12-08": 52115,
-  "2023-12-09": 52115,
-  "2023-12-10": 52115,
-  "2023-12-11": 52115,
-  "2023-12-12": 52115,
-  "2023-12-13": 52115,
-  "2023-12-14": 52978,
-  "2023-12-15": 52985,
-  "2023-12-16": 53010,
-  "2023-12-17": 53046,
-  "2023-12-18": 53074,
-  "2023-12-19": 53097,
-  "2023-12-20": 53112,
-  "2023-12-21": 53135,
-  "2023-12-22": 53169,
-  "2023-12-23": 53201,
-  "2023-12-24": 53227,
-  "2023-12-25": 53273,
-  "2023-12-26": 53306,
-  "2023-12-27": 53317,
-  "2023-12-30": 53379,
-  "2023-12-31": 53421,
-  "2024-01-01": 53461,
-  "2024-01-02": 53485,
-  "2024-01-03": 53502
+  "2024-01-17": 53641,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
+  "name": "This Is Los Rieleros Del Norte",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 181773,
+      "name": "A Punto De Llorar",
+      "url": "https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182560,
+      "name": "A Punto De Llorar",
+      "url": "https://open.spotify.com/track/6CNZmbCSVhFJciK0uPSbpm"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Abrazado De Un Poste",
+      "url": "https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn"
+    },
+    {
+      "album": {
+        "name": "Prieta Orgullosa",
+        "url": "https://open.spotify.com/album/3ax1gPCh8V8EJcMnThK30F"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-14",
+      "duration_ms": 149160,
+      "name": "Abrazado De Un Poste",
+      "url": "https://open.spotify.com/track/70BFiMyeVvuTyOfcSsmQGk"
+    },
+    {
+      "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+    },
+    {
+      "album": {
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Ayer La Vi Por La Calle",
+      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Ay\u00fadame A Olvidarte",
+      "url": "https://open.spotify.com/track/694ISCxj0nirQhsAn830hu"
+    },
+    {
+      "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/1h8QkUflLLufMQUmZevdTI"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "Busca Otro Amor",
+      "url": "https://open.spotify.com/track/4m95i8gZfz5uUtxcDghKzj"
+    },
+    {
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+    },
+    {
+      "album": {
+        "name": "Castillo De Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 206533,
+      "name": "Castillo De Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
+    },
+    {
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "album": {
+        "name": "20 Kilates 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0B2714WqW6QKPN15X9GG5s"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 200000,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/435dRHWUd9Kav1N96MUFCH"
+    },
+    {
+      "album": {
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159373,
+      "name": "Como Piedra En Pozo",
+      "url": "https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo"
+    },
+    {
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 178533,
+      "name": "Con La Misma Tijera",
+      "url": "https://open.spotify.com/track/4r9o9yr3h8HvjpTSlygKdm"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 214400,
+      "name": "Cuando Triste",
+      "url": "https://open.spotify.com/track/3xahllYXsO2wSlDuDcfjo6"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/4z8sLfNnAf8Th8B8EwcTQ4"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
+    },
+    {
+      "album": {
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 219533,
+      "name": "Desprecios Y Mentiras",
+      "url": "https://open.spotify.com/track/2WXZzMxOFESxUETXSgPpoM"
+    },
+    {
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
+    },
+    {
+      "album": {
+        "name": "Prieta Orgullosa",
+        "url": "https://open.spotify.com/album/3ax1gPCh8V8EJcMnThK30F"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 173840,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/1l3ILbIylMR5NE1urmrtpd"
+    },
+    {
+      "album": {
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 146413,
+      "name": "Dulces Mentiras",
+      "url": "https://open.spotify.com/track/1s90RxawZmkzRvL17uQbYP"
+    },
+    {
+      "album": {
+        "name": "El Columpio",
+        "url": "https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+    },
+    {
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "El Invencible",
+      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183760,
+      "name": "El Maquinista",
+      "url": "https://open.spotify.com/track/3mcYBTMWzLUn9E1sYPDuxk"
+    },
+    {
+      "album": {
+        "name": "Rifare Mi Suerte",
+        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "En las Cantinas",
+      "url": "https://open.spotify.com/track/0zHz9rDKzeaKNIw9CI5PjA"
+    },
+    {
+      "album": {
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187871,
+      "name": "Es por Eso Que Te Quiero",
+      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
+    },
+    {
+      "album": {
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Estabas Tan Linda",
+      "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+    },
+    {
+      "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/12hvhaWD4ZIN2zskXJYQm4"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 179026,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/5gT1s5O16yAMsHOH7SZxQX"
+    },
+    {
+      "album": {
+        "name": "Ignacio Parra",
+        "url": "https://open.spotify.com/album/4EHo1LRCtNhfd64IqEYVKX"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 258733,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/7CHLz5o5iO1T8E0TvnBJwo"
+    },
+    {
+      "album": {
+        "name": "La Golosa",
+        "url": "https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211720,
+      "name": "Juan Marta",
+      "url": "https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9"
+    },
+    {
+      "album": {
+        "name": "La Ech\u00e9 En Un Carrito",
+        "url": "https://open.spotify.com/album/6WXw2GMFbJMiMKAeOoWZWi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 171106,
+      "name": "La Ech\u00e9 En Un Carrito",
+      "url": "https://open.spotify.com/track/0fJh2z8ZrYNYPtgErkqBZ5"
+    },
+    {
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "La Equivocaci\u00f3n",
+      "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
+    },
+    {
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "La Loba del Mal",
+      "url": "https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV"
+    },
+    {
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 224373,
+      "name": "La Ruleta",
+      "url": "https://open.spotify.com/track/3mK4Zv1oitX7LyUsKsVhwh"
+    },
+    {
+      "album": {
+        "name": "Reafirmando el Estilo",
+        "url": "https://open.spotify.com/album/1CwNs3S5dwhVaknX8a2FAL"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        },
+        {
+          "name": "Angel Sanchez",
+          "url": "https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 243095,
+      "name": "Lo Siento Amigo - Mariachi",
+      "url": "https://open.spotify.com/track/25lwn5YDaP9Tp80HyvJTsX"
+    },
+    {
+      "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/6gu5C4B82H9RWekehc9qIm"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183600,
+      "name": "Me Lo Contaron Ayer",
+      "url": "https://open.spotify.com/track/0lWHxgeKgWiNpUHKD7Y8QW"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Mi Amor No Lo Mereces",
+      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
+    },
+    {
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208973,
+      "name": "Mi Primer Amor (Meu Primeiro Amor)",
+      "url": "https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo"
+    },
+    {
+      "album": {
+        "name": "Ni Arrepentida",
+        "url": "https://open.spotify.com/album/43PsyRpPmNrE8DVSiPWmFm"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 156160,
+      "name": "Ni Arrepentida",
+      "url": "https://open.spotify.com/track/7qJ1VmcnkQI7etwyRBE5fT"
+    },
+    {
+      "album": {
+        "name": "No Digas Mentiras",
+        "url": "https://open.spotify.com/album/2gIFbMCEIcu2p7yf4NFPt0"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        },
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170713,
+      "name": "No Digas Mentiras",
+      "url": "https://open.spotify.com/track/23e6dU25FC7HSLxAQntHF5"
+    },
+    {
+      "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "No Le Digas a Nadie",
+      "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
+    },
+    {
+      "album": {
+        "name": "De Lo Bueno Lo Mejor",
+        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170693,
+      "name": "Noches Eternas",
+      "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
+    },
+    {
+      "album": {
+        "name": "Hay Niveles (Deluxe)",
+        "url": "https://open.spotify.com/album/57wH0J3vSAfAGuBFfofS9r"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 181573,
+      "name": "Nom\u00e1s El Pilar Qued\u00f3",
+      "url": "https://open.spotify.com/track/61KmU6lrXP0GPITY0uo47P"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddala Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VJ0vupv8Zz3Ixm9IbybTr"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 210880,
+      "name": "Olv\u00eddala Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4cS2MD9v9hc5wOy5VxvaRS"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Para Qu\u00e9 Quieres Que Vuelva",
+      "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "album": {
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
+    },
+    {
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/6gVntjxduFYV1JmT9eSjtc"
+    },
+    {
+      "album": {
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Que El Mundo Ruede",
+      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
+    },
+    {
+      "album": {
+        "name": "La Moraleja",
+        "url": "https://open.spotify.com/album/3l5CzjCkJqSBhvbwtrtATL"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Reina De Reyes",
+      "url": "https://open.spotify.com/track/2Ey4ALvSymgKNQTXgnITHo"
+    },
+    {
+      "album": {
+        "name": "De Lo Bueno Lo Mejor",
+        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 191546,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/2z33LxY7FyiJA6Dyl5jVby"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
+    },
+    {
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "Sabor Amargo",
+      "url": "https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3"
+    },
+    {
+      "album": {
+        "name": "Reafirmando el Estilo",
+        "url": "https://open.spotify.com/album/1CwNs3S5dwhVaknX8a2FAL"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        },
+        {
+          "name": "Polo Urias Y Su Maquina Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 250788,
+      "name": "Sen\u0303orita Cantinera - Ft. Polo Urias",
+      "url": "https://open.spotify.com/track/3D2v3EEjmEenJoAfJb9JOp"
+    },
+    {
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 219813,
+      "name": "Seria Una Flor",
+      "url": "https://open.spotify.com/track/4gAEmR4qMioTuqRmKN9B3S"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita Cantinera (Ft. Polo Urias)",
+        "url": "https://open.spotify.com/album/4ZxwyGJIOlWK2Lat34y0w5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        },
+        {
+          "name": "Polo Urias Y Su Maquina Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0zM1RE17huCYfueF8Iut1Z"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250788,
+      "name": "Se\u00f1orita Cantinera - Ft. Polo Urias",
+      "url": "https://open.spotify.com/track/3mGgITcQH3mFDEaiILoF44"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254706,
+      "name": "Sim\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5sGSpfHovVN7Nvj4WWvZQR"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 148800,
+      "name": "Suerte Perra",
+      "url": "https://open.spotify.com/track/0UsKh6z2cpwvaMG8c70cYd"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 203440,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+    },
+    {
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Ten\u00eda Raz\u00f3n Mi 'Am\u00e1",
+      "url": "https://open.spotify.com/track/7fuPZGzcmnE6mio5Rsb9lM"
+    },
+    {
+      "album": {
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175093,
+      "name": "Tu Nuevo Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/5UCPSGLNI76qSbzPyMMyo2"
+    },
+    {
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 172120,
+      "name": "Un Engan\u0303o Ma\u0301s",
+      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
+    },
+    {
+      "album": {
+        "name": "Castillo de Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
+    },
+    {
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
+    },
+    {
+      "album": {
+        "name": "Pos' Que No...Claro Que Si",
+        "url": "https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 198066,
+      "name": "Voy A Dejarte",
+      "url": "https://open.spotify.com/track/1P7iWhnMV5gY8jpxaEMNWW"
+    },
+    {
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Ya Para Que",
+      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
+    },
+    {
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163440,
+      "name": "Yo Quer\u00eda A Las Dos",
+      "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
+    },
+    {
+      "album": {
+        "name": "Pese A Quien Le Pese",
+        "url": "https://open.spotify.com/album/1umeqNZCptQODifsdTUmOi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 205453,
+      "name": "\u00bfY Ahora Que?",
+      "url": "https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "\u00bfY Ahora Que?",
+      "url": "https://open.spotify.com/track/222ealJk2LBZ56PX07GuLL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31N4w8"
 }

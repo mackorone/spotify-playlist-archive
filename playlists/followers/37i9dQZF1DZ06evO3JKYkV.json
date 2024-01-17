@@ -1,580 +1,2331 @@
 {
-  "2022-05-30": 38894,
-  "2022-05-31": 38927,
-  "2022-06-01": 38979,
-  "2022-06-02": 38985,
-  "2022-06-03": 39004,
-  "2022-06-04": 39031,
-  "2022-06-05": 39052,
-  "2022-06-06": 39074,
-  "2022-06-07": 39102,
-  "2022-06-08": 39135,
-  "2022-06-09": 39159,
-  "2022-06-10": 39186,
-  "2022-06-11": 39215,
-  "2022-06-12": 39241,
-  "2022-06-13": 39268,
-  "2022-06-14": 39301,
-  "2022-06-15": 39325,
-  "2022-06-16": 39350,
-  "2022-06-17": 39379,
-  "2022-06-18": 39404,
-  "2022-06-19": 39464,
-  "2022-06-20": 39464,
-  "2022-06-21": 39490,
-  "2022-06-22": 39537,
-  "2022-06-23": 39537,
-  "2022-06-24": 39563,
-  "2022-06-25": 39583,
-  "2022-06-26": 39598,
-  "2022-06-27": 39638,
-  "2022-06-28": 39655,
-  "2022-06-29": 39692,
-  "2022-06-30": 39719,
-  "2022-07-01": 39756,
-  "2022-07-02": 39792,
-  "2022-07-03": 39822,
-  "2022-07-04": 39858,
-  "2022-07-05": 39858,
-  "2022-07-06": 39858,
-  "2022-07-07": 39962,
-  "2022-07-08": 39986,
-  "2022-07-09": 40009,
-  "2022-07-10": 40034,
-  "2022-07-11": 40056,
-  "2022-07-12": 40073,
-  "2022-07-13": 40089,
-  "2022-07-14": 40123,
-  "2022-07-15": 40143,
-  "2022-07-16": 40165,
-  "2022-07-17": 40184,
-  "2022-07-18": 40212,
-  "2022-07-19": 40241,
-  "2022-07-20": 40275,
-  "2022-07-21": 40302,
-  "2022-07-22": 40335,
-  "2022-07-23": 40352,
-  "2022-07-24": 40383,
-  "2022-07-25": 40408,
-  "2022-07-26": 40427,
-  "2022-07-27": 40444,
-  "2022-07-28": 40469,
-  "2022-07-29": 40492,
-  "2022-07-30": 40536,
-  "2022-07-31": 40536,
-  "2022-08-01": 40549,
-  "2022-08-02": 40604,
-  "2022-08-03": 40604,
-  "2022-08-04": 40623,
-  "2022-08-05": 40644,
-  "2022-08-06": 40657,
-  "2022-08-07": 40684,
-  "2022-08-08": 40715,
-  "2022-08-09": 40735,
-  "2022-08-10": 40767,
-  "2022-08-11": 40796,
-  "2022-08-12": 40820,
-  "2022-08-13": 40845,
-  "2022-08-14": 40871,
-  "2022-08-15": 40897,
-  "2022-08-16": 40922,
-  "2022-08-17": 40949,
-  "2022-08-18": 40967,
-  "2022-08-19": 40989,
-  "2022-08-20": 41019,
-  "2022-08-21": 41032,
-  "2022-08-22": 41051,
-  "2022-08-23": 41066,
-  "2022-08-24": 41083,
-  "2022-08-25": 41105,
-  "2022-08-26": 41127,
-  "2022-08-27": 41154,
-  "2022-08-28": 41186,
-  "2022-08-29": 41209,
-  "2022-08-30": 41178,
-  "2022-08-31": 41131,
-  "2022-09-01": 41058,
-  "2022-09-02": 40984,
-  "2022-09-03": 40850,
-  "2022-09-04": 40817,
-  "2022-09-05": 40835,
-  "2022-09-06": 40859,
-  "2022-09-07": 40879,
-  "2022-09-09": 40950,
-  "2022-09-10": 40972,
-  "2022-09-11": 40999,
-  "2022-09-12": 41028,
-  "2022-09-13": 41060,
-  "2022-09-15": 41186,
-  "2022-09-16": 41237,
-  "2022-09-17": 41269,
-  "2022-09-18": 41328,
-  "2022-09-19": 41359,
-  "2022-09-20": 41401,
-  "2022-09-21": 41432,
-  "2022-09-22": 41474,
-  "2022-09-23": 41520,
-  "2022-09-24": 41520,
-  "2022-09-25": 41571,
-  "2022-09-26": 41587,
-  "2022-09-27": 41620,
-  "2022-09-28": 41653,
-  "2022-09-29": 41697,
-  "2022-09-30": 41732,
-  "2022-10-01": 41762,
-  "2022-10-02": 41779,
-  "2022-10-03": 41813,
-  "2022-10-04": 41849,
-  "2022-10-05": 41889,
-  "2022-10-06": 41928,
-  "2022-10-07": 41967,
-  "2022-10-08": 41989,
-  "2022-10-09": 42033,
-  "2022-10-10": 42048,
-  "2022-10-11": 42090,
-  "2022-10-12": 42122,
-  "2022-10-13": 42173,
-  "2022-10-14": 42218,
-  "2022-10-15": 42270,
-  "2022-10-16": 42299,
-  "2022-10-17": 42329,
-  "2022-10-18": 42363,
-  "2022-10-19": 42408,
-  "2022-10-20": 42437,
-  "2022-10-21": 42471,
-  "2022-10-22": 42501,
-  "2022-10-23": 42536,
-  "2022-10-24": 42577,
-  "2022-10-25": 42618,
-  "2022-10-26": 42665,
-  "2022-10-27": 42706,
-  "2022-10-28": 42731,
-  "2022-10-29": 42751,
-  "2022-10-30": 42779,
-  "2022-10-31": 42810,
-  "2022-11-01": 42845,
-  "2022-11-02": 42871,
-  "2022-11-03": 42917,
-  "2022-11-04": 42955,
-  "2022-11-05": 42999,
-  "2022-11-06": 43035,
-  "2022-11-07": 43063,
-  "2022-11-08": 43101,
-  "2022-11-09": 43148,
-  "2022-11-10": 43176,
-  "2022-11-11": 43219,
-  "2022-11-12": 43264,
-  "2022-11-13": 43295,
-  "2022-11-14": 43334,
-  "2022-11-15": 43367,
-  "2022-11-16": 43401,
-  "2022-11-17": 43445,
-  "2022-11-18": 43449,
-  "2022-11-19": 43458,
-  "2022-11-20": 43495,
-  "2022-11-21": 43530,
-  "2022-11-22": 43573,
-  "2022-11-23": 43611,
-  "2022-11-24": 43695,
-  "2022-11-25": 43750,
-  "2022-11-26": 43792,
-  "2022-11-27": 43829,
-  "2022-11-28": 43875,
-  "2022-11-29": 43924,
-  "2022-11-30": 43968,
-  "2022-12-01": 44042,
-  "2022-12-02": 44083,
-  "2022-12-03": 44169,
-  "2022-12-04": 44213,
-  "2022-12-05": 44270,
-  "2022-12-06": 44321,
-  "2022-12-07": 44359,
-  "2022-12-08": 44414,
-  "2022-12-09": 44467,
-  "2022-12-10": 44501,
-  "2022-12-11": 44542,
-  "2022-12-12": 44591,
-  "2022-12-13": 44652,
-  "2022-12-14": 44689,
-  "2022-12-15": 44719,
-  "2022-12-16": 44754,
-  "2022-12-17": 44786,
-  "2022-12-18": 44817,
-  "2022-12-19": 44855,
-  "2022-12-20": 44903,
-  "2022-12-21": 44903,
-  "2022-12-22": 44941,
-  "2022-12-24": 45023,
-  "2022-12-25": 45052,
-  "2022-12-26": 45087,
-  "2022-12-27": 45116,
-  "2022-12-28": 45154,
-  "2022-12-29": 45187,
-  "2022-12-30": 45239,
-  "2022-12-31": 45285,
-  "2023-01-01": 45320,
-  "2023-01-02": 45360,
-  "2023-01-03": 45406,
-  "2023-01-04": 45446,
-  "2023-01-05": 45493,
-  "2023-01-06": 45537,
-  "2023-01-07": 45585,
-  "2023-01-08": 45590,
-  "2023-01-09": 45658,
-  "2023-01-10": 45709,
-  "2023-01-11": 45754,
-  "2023-01-12": 45798,
-  "2023-01-13": 45841,
-  "2023-01-14": 45948,
-  "2023-01-15": 45958,
-  "2023-01-16": 45995,
-  "2023-01-17": 46040,
-  "2023-01-18": 46083,
-  "2023-01-19": 46128,
-  "2023-01-20": 46170,
-  "2023-01-21": 46226,
-  "2023-01-22": 46271,
-  "2023-01-23": 46333,
-  "2023-01-24": 46382,
-  "2023-01-25": 46429,
-  "2023-01-26": 46486,
-  "2023-01-27": 46563,
-  "2023-01-28": 46619,
-  "2023-01-29": 46662,
-  "2023-01-30": 46706,
-  "2023-01-31": 46706,
-  "2023-02-01": 46782,
-  "2023-02-02": 46828,
-  "2023-02-03": 46877,
-  "2023-02-04": 46920,
-  "2023-02-05": 46931,
-  "2023-02-06": 46964,
-  "2023-02-07": 47005,
-  "2023-02-08": 47094,
-  "2023-02-09": 47094,
-  "2023-02-10": 47161,
-  "2023-02-11": 47198,
-  "2023-02-12": 47291,
-  "2023-02-13": 47339,
-  "2023-02-14": 47339,
-  "2023-02-15": 47383,
-  "2023-02-16": 47410,
-  "2023-02-17": 47459,
-  "2023-02-18": 47537,
-  "2023-02-19": 47545,
-  "2023-02-20": 47583,
-  "2023-02-21": 47630,
-  "2023-02-22": 47662,
-  "2023-02-23": 47705,
-  "2023-02-24": 47758,
-  "2023-02-25": 47795,
-  "2023-02-26": 47821,
-  "2023-02-27": 47883,
-  "2023-02-28": 47883,
-  "2023-03-01": 47935,
-  "2023-03-02": 47974,
-  "2023-03-03": 47999,
-  "2023-03-04": 48037,
-  "2023-03-05": 48125,
-  "2023-03-06": 48125,
-  "2023-03-07": 48175,
-  "2023-03-08": 48239,
-  "2023-03-09": 48278,
-  "2023-03-10": 48331,
-  "2023-03-11": 48379,
-  "2023-03-12": 48433,
-  "2023-03-13": 48458,
-  "2023-03-14": 48500,
-  "2023-03-15": 48543,
-  "2023-03-16": 48543,
-  "2023-03-17": 48543,
-  "2023-03-18": 48666,
-  "2023-03-19": 48666,
-  "2023-03-20": 48740,
-  "2023-03-21": 48785,
-  "2023-03-22": 48836,
-  "2023-03-23": 48866,
-  "2023-03-24": 48866,
-  "2023-03-25": 48957,
-  "2023-03-26": 49007,
-  "2023-03-27": 49055,
-  "2023-03-28": 49089,
-  "2023-03-29": 49150,
-  "2023-03-30": 49236,
-  "2023-03-31": 49236,
-  "2023-04-01": 49270,
-  "2023-04-02": 49335,
-  "2023-04-03": 49403,
-  "2023-04-04": 49437,
-  "2023-04-05": 49472,
-  "2023-04-06": 49495,
-  "2023-04-07": 49534,
-  "2023-04-09": 49602,
-  "2023-04-10": 49627,
-  "2023-04-11": 49709,
-  "2023-04-12": 49709,
-  "2023-04-13": 49747,
-  "2023-04-14": 49778,
-  "2023-04-15": 49821,
-  "2023-04-16": 49862,
-  "2023-04-17": 49901,
-  "2023-04-18": 49950,
-  "2023-04-19": 50009,
-  "2023-04-20": 50044,
-  "2023-04-21": 50103,
-  "2023-04-22": 50162,
-  "2023-04-23": 50193,
-  "2023-04-24": 50245,
-  "2023-04-25": 50281,
-  "2023-04-26": 50327,
-  "2023-04-27": 50359,
-  "2023-04-28": 50416,
-  "2023-04-29": 50464,
-  "2023-04-30": 50502,
-  "2023-05-01": 50542,
-  "2023-05-02": 50566,
-  "2023-05-03": 50595,
-  "2023-05-04": 50637,
-  "2023-05-05": 50675,
-  "2023-05-06": 50726,
-  "2023-05-07": 50751,
-  "2023-05-08": 50783,
-  "2023-05-09": 50843,
-  "2023-05-10": 50881,
-  "2023-05-11": 50933,
-  "2023-05-12": 50974,
-  "2023-05-13": 51026,
-  "2023-05-14": 51052,
-  "2023-05-15": 51086,
-  "2023-05-16": 51134,
-  "2023-05-17": 51171,
-  "2023-05-18": 51212,
-  "2023-05-19": 51257,
-  "2023-05-20": 51326,
-  "2023-05-21": 51326,
-  "2023-05-22": 51326,
-  "2023-05-23": 51398,
-  "2023-05-24": 51451,
-  "2023-05-25": 51463,
-  "2023-05-26": 51493,
-  "2023-05-27": 51524,
-  "2023-05-28": 51560,
-  "2023-05-29": 51560,
-  "2023-05-30": 51615,
-  "2023-05-31": 51644,
-  "2023-06-01": 51682,
-  "2023-06-02": 51720,
-  "2023-06-03": 51748,
-  "2023-06-04": 51770,
-  "2023-06-05": 51797,
-  "2023-06-06": 51836,
-  "2023-06-07": 51862,
-  "2023-06-08": 51908,
-  "2023-06-09": 51942,
-  "2023-06-10": 51984,
-  "2023-06-11": 52031,
-  "2023-06-12": 52078,
-  "2023-06-13": 52141,
-  "2023-06-14": 52184,
-  "2023-06-15": 52234,
-  "2023-06-16": 52277,
-  "2023-06-17": 52330,
-  "2023-06-18": 52388,
-  "2023-06-19": 52431,
-  "2023-06-20": 52468,
-  "2023-06-21": 52506,
-  "2023-06-22": 52578,
-  "2023-06-23": 52655,
-  "2023-06-24": 52717,
-  "2023-06-25": 52763,
-  "2023-06-26": 52801,
-  "2023-06-27": 52863,
-  "2023-06-28": 52914,
-  "2023-06-29": 52981,
-  "2023-06-30": 53037,
-  "2023-07-01": 53125,
-  "2023-07-02": 53125,
-  "2023-07-03": 53171,
-  "2023-07-04": 53211,
-  "2023-07-05": 53256,
-  "2023-07-06": 53332,
-  "2023-07-07": 53332,
-  "2023-07-08": 53332,
-  "2023-07-09": 53425,
-  "2023-07-10": 53458,
-  "2023-07-11": 53490,
-  "2023-07-12": 53525,
-  "2023-07-13": 53567,
-  "2023-07-14": 53596,
-  "2023-07-15": 53635,
-  "2023-07-16": 53678,
-  "2023-07-17": 53728,
-  "2023-07-18": 53758,
-  "2023-07-19": 53794,
-  "2023-07-20": 53794,
-  "2023-07-21": 53859,
-  "2023-07-22": 53899,
-  "2023-07-23": 53939,
-  "2023-07-24": 53980,
-  "2023-07-25": 54024,
-  "2023-07-26": 54053,
-  "2023-07-27": 54082,
-  "2023-07-28": 54128,
-  "2023-07-29": 54190,
-  "2023-07-30": 54227,
-  "2023-07-31": 54257,
-  "2023-08-01": 54294,
-  "2023-08-02": 54345,
-  "2023-08-03": 54373,
-  "2023-08-04": 54422,
-  "2023-08-05": 54446,
-  "2023-08-06": 54540,
-  "2023-08-07": 54540,
-  "2023-08-08": 54590,
-  "2023-08-09": 54627,
-  "2023-08-10": 54658,
-  "2023-08-11": 54695,
-  "2023-08-12": 54695,
-  "2023-08-13": 54695,
-  "2023-08-14": 54791,
-  "2023-08-15": 54791,
-  "2023-08-16": 54791,
-  "2023-08-17": 54791,
-  "2023-08-18": 54791,
-  "2023-08-19": 54791,
-  "2023-08-20": 55089,
-  "2023-08-21": 55089,
-  "2023-08-22": 55189,
-  "2023-08-23": 55189,
-  "2023-08-24": 55189,
-  "2023-08-25": 55189,
-  "2023-08-26": 55345,
-  "2023-08-27": 55345,
-  "2023-08-28": 55434,
-  "2023-08-29": 55434,
-  "2023-08-30": 55434,
-  "2023-08-31": 55562,
-  "2023-09-01": 55610,
-  "2023-09-02": 55610,
-  "2023-09-03": 55610,
-  "2023-09-04": 55610,
-  "2023-09-05": 55610,
-  "2023-09-06": 55610,
-  "2023-09-07": 55610,
-  "2023-09-08": 55610,
-  "2023-09-09": 55610,
-  "2023-09-10": 55610,
-  "2023-09-11": 55610,
-  "2023-09-12": 55610,
-  "2023-09-13": 55610,
-  "2023-09-14": 55610,
-  "2023-09-15": 55610,
-  "2023-09-16": 56284,
-  "2023-09-17": 56284,
-  "2023-09-18": 56284,
-  "2023-09-19": 56418,
-  "2023-09-20": 56418,
-  "2023-09-21": 56418,
-  "2023-09-22": 56539,
-  "2023-09-23": 56539,
-  "2023-09-24": 56539,
-  "2023-09-25": 56539,
-  "2023-09-26": 56688,
-  "2023-09-27": 56688,
-  "2023-09-28": 56688,
-  "2023-09-29": 56688,
-  "2023-09-30": 56688,
-  "2023-10-01": 56688,
-  "2023-10-02": 56688,
-  "2023-10-03": 56688,
-  "2023-10-04": 56688,
-  "2023-10-05": 56688,
-  "2023-10-06": 56688,
-  "2023-10-07": 56688,
-  "2023-10-08": 56688,
-  "2023-10-09": 56688,
-  "2023-10-10": 56688,
-  "2023-10-11": 57186,
-  "2023-10-12": 57186,
-  "2023-10-13": 57186,
-  "2023-10-14": 57186,
-  "2023-10-15": 57186,
-  "2023-10-16": 57186,
-  "2023-10-17": 57186,
-  "2023-10-18": 57186,
-  "2023-10-19": 57186,
-  "2023-10-20": 57186,
-  "2023-10-21": 57186,
-  "2023-10-22": 57186,
-  "2023-10-23": 57186,
-  "2023-10-24": 57186,
-  "2023-10-25": 57186,
-  "2023-10-26": 57186,
-  "2023-10-27": 57186,
-  "2023-10-28": 57186,
-  "2023-10-29": 57186,
-  "2023-10-30": 57186,
-  "2023-10-31": 57186,
-  "2023-11-01": 57186,
-  "2023-11-02": 57186,
-  "2023-11-03": 57186,
-  "2023-11-04": 57186,
-  "2023-11-05": 57186,
-  "2023-11-06": 57186,
-  "2023-11-07": 57186,
-  "2023-11-08": 57186,
-  "2023-11-09": 57186,
-  "2023-11-10": 57186,
-  "2023-11-11": 58274,
-  "2023-11-12": 58274,
-  "2023-11-13": 58274,
-  "2023-11-14": 58274,
-  "2023-11-15": 58274,
-  "2023-11-16": 58274,
-  "2023-11-17": 58274,
-  "2023-11-18": 58274,
-  "2023-11-19": 58274,
-  "2023-11-20": 58274,
-  "2023-11-21": 58274,
-  "2023-11-22": 58274,
-  "2023-11-23": 58274,
-  "2023-11-24": 58274,
-  "2023-11-25": 58274,
-  "2023-11-26": 58274,
-  "2023-11-27": 58274,
-  "2023-11-28": 58274,
-  "2023-11-29": 58274,
-  "2023-11-30": 58274,
-  "2023-12-01": 58274,
-  "2023-12-02": 58274,
-  "2023-12-03": 58274,
-  "2023-12-04": 58274,
-  "2023-12-05": 58274,
-  "2023-12-06": 58274,
-  "2023-12-07": 58274,
-  "2023-12-08": 58274,
-  "2023-12-09": 58274,
-  "2023-12-10": 58274,
-  "2023-12-11": 58274,
-  "2023-12-12": 58274,
-  "2023-12-13": 58274,
-  "2023-12-14": 59364,
-  "2023-12-15": 59389,
-  "2023-12-16": 59422,
-  "2023-12-17": 59442,
-  "2023-12-18": 59455,
-  "2023-12-19": 59486,
-  "2023-12-20": 59528,
-  "2023-12-21": 59557,
-  "2023-12-22": 59586,
-  "2023-12-23": 59629,
-  "2023-12-24": 59653,
-  "2023-12-25": 59670,
-  "2023-12-26": 59682,
-  "2023-12-27": 59708,
-  "2023-12-30": 59783,
-  "2023-12-31": 59823,
-  "2024-01-01": 59850,
-  "2024-01-02": 59877,
-  "2024-01-03": 59907
+  "2024-01-17": 60356,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "name": "This Is Aphex Twin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 447800,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447800,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 440333,
+      "name": "#13",
+      "url": "https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 480506,
+      "name": "#14",
+      "url": "https://open.spotify.com/track/2KhubLGvTQRSmsXLy10JU1"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 357533,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/4rBDwVatn86sMwFiSv5a89"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 394240,
+      "name": "#2",
+      "url": "https://open.spotify.com/track/0o3pBoCxCCVF6ungXlgVyL"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/5Y98R18mTx06sAuefOLZDr"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 414706,
+      "name": "#9",
+      "url": "https://open.spotify.com/track/6AiDG8KtDJX9ZZS8fSxWjT"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 191466,
+      "name": "180db_ [130]",
+      "url": "https://open.spotify.com/track/2VfEcR59Czu8ii3u6kKeP8"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "180db_ [130]",
+      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 217133,
+      "name": "4",
+      "url": "https://open.spotify.com/track/00wT7HAtqZ2BnemrR34vbO"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "4",
+      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 268813,
+      "name": "4 bit 9d api+e+6 [126.26]",
+      "url": "https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 366906,
+      "name": "54 Cymru Beats",
+      "url": "https://open.spotify.com/track/4Mkyor4q868wX93Vg3z1eX"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/3Bp478Itxv8gxqqEcf8HRL"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 455000,
+      "name": "Actium",
+      "url": "https://open.spotify.com/track/78w0l5CJ3VwtXKBpRCktwa"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323186,
+      "name": "Ageispolis",
+      "url": "https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+    },
+    {
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286293,
+      "name": "Analogue Bubblebath",
+      "url": "https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO"
+    },
+    {
+      "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/3TfLuGfGoYS978gsEsyTwZ"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91106,
+      "name": "Beetles",
+      "url": "https://open.spotify.com/track/2nHLDYwX62AQX4fru2EpVb"
+    },
+    {
+      "album": {
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
+    },
+    {
+      "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blackbox Life Recorder 22 [Parallax Mix]",
+      "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 344466,
+      "name": "Bucephalus Bouncing Ball",
+      "url": "https://open.spotify.com/track/0dHbniuO4zBQfE8ArIqFgV"
+    },
+    {
+      "album": {
+        "name": "Cheetah EP",
+        "url": "https://open.spotify.com/album/1pC7hHcaOmrDotqv1ZnuT8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 37320,
+      "name": "CHEETA2 ms800",
+      "url": "https://open.spotify.com/track/0dosJWZB74Oqw4PrWDxgNd"
+    },
+    {
+      "album": {
+        "name": "Cheetah EP",
+        "url": "https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37320,
+      "name": "CHEETA2 ms800",
+      "url": "https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 360200,
+      "name": "CIRCLONT6A [141.98][syrobonkus mix]",
+      "url": "https://open.spotify.com/track/0Zn4jYnGokSATIvpNLJAGd"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 318333,
+      "name": "Cock/ver10",
+      "url": "https://open.spotify.com/track/1ppw4aUaKKiY43tRMJD05h"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 344666,
+      "name": "Come On You Slags",
+      "url": "https://open.spotify.com/track/1e3b0rN8vtP5q6ZCoLy5Ym"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 262533,
+      "name": "Come To Daddy - Pappy Mix",
+      "url": "https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Come To Daddy - Pappy Mix",
+      "url": "https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 333600,
+      "name": "Cow Cud Is A Twin",
+      "url": "https://open.spotify.com/track/1rfsweNl8UOYQnugjH5b5g"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 333600,
+      "name": "Cow Cud Is A Twin",
+      "url": "https://open.spotify.com/track/3JdvEIcI6e6Ovi7bGJO1b1"
+    },
+    {
+      "album": {
+        "name": "Digeridoo",
+        "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 431466,
+      "name": "Digeridoo",
+      "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 146033,
+      "name": "diskhat1",
+      "url": "https://open.spotify.com/track/1s6ux0lNiTziSrd7iUAADH"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 146033,
+      "name": "diskhat1",
+      "url": "https://open.spotify.com/track/63Vu4RLpirG3B3PIKtLBmP"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38388,
+      "name": "diskhat2",
+      "url": "https://open.spotify.com/track/27wNZm2RGG8D7OQmVnvsWA"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 38388,
+      "name": "diskhat2",
+      "url": "https://open.spotify.com/track/5ZSouyaLUY9IKcr6SPK4OL"
+    },
+    {
+      "album": {
+        "name": "Donkey Rhubarb",
+        "url": "https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 368173,
+      "name": "Donkey Rhubarb",
+      "url": "https://open.spotify.com/track/0c0PhGTdl4K1SRWu0kYkBh"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Fingerbib",
+      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 228866,
+      "name": "Fingerbib",
+      "url": "https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19"
+    },
+    {
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 420386,
+      "name": "Flaphead",
+      "url": "https://open.spotify.com/track/0txK6VEZKu9mbwXewGwIDr"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 177093,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 347080,
+      "name": "Formula",
+      "url": "https://open.spotify.com/track/4JTOXfltCmoPoOqNUjV1BV"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 238466,
+      "name": "Funny Little Man",
+      "url": "https://open.spotify.com/track/0136xsceivJ2NsoiE0cmcb"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/4LKt0wUUHg7Tq3sfg0AwBK"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/0HqN7Cd4XsZGvj2NgwEmFO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/6GJQR1HX6pcGfkXIn3vrRf"
+    },
+    {
+      "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 292200,
+      "name": "Girl Boy (NLS Mix)",
+      "url": "https://open.spotify.com/track/33ccBrtEr6MniK1HgLT4z1"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 292826,
+      "name": "Girl/Boy Song",
+      "url": "https://open.spotify.com/track/2JrkJg6slbznYpsxWk9IHk"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292826,
+      "name": "Girl/Boy Song",
+      "url": "https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122466,
+      "name": "Goon Gumpas",
+      "url": "https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 122466,
+      "name": "Goon Gumpas",
+      "url": "https://open.spotify.com/track/72tmERTlZn90IJ0px2B38Q"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "Heliosphan",
+      "url": "https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77346,
+      "name": "I",
+      "url": "https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 367053,
+      "name": "Icct Hedral",
+      "url": "https://open.spotify.com/track/74i6T5ax1LB1gBVhLg6q9d"
+    },
+    {
+      "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "in a room7 F760",
+      "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1"
+    },
+    {
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/7etelDpVxaPTzmeZrYo8Qy"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 213706,
+      "name": "Logan Rock Witch",
+      "url": "https://open.spotify.com/track/6y8jQsfUEPZuhcxpHzk0zn"
+    },
+    {
+      "album": {
+        "name": "Girl/Boy EP",
+        "url": "https://open.spotify.com/album/2Y34XFg6QPoAmbM1ClS3Hk"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 248933,
+      "name": "Milk Man",
+      "url": "https://open.spotify.com/track/5b1uULGkmUg8M6pFvQIUlO"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287586,
+      "name": "minipops 67 [120.2][source field mix]",
+      "url": "https://open.spotify.com/track/00xFfMsOn9TbRe3sZcdABm"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 287586,
+      "name": "minipops 67 [120.2][source field mix]",
+      "url": "https://open.spotify.com/track/6kzLbNxsJidjc80Nw3uZVg"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/7uEpv5U7Oz12wFJHAyTa6I"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 490413,
+      "name": "Mt Saint Michel + Saint Michaels Mount",
+      "url": "https://open.spotify.com/track/27oZwWrAt3WJwZGqSIrvq1"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 255773,
+      "name": "Nannou",
+      "url": "https://open.spotify.com/track/3sUVNEHBQJSb4qRyQ4ahwK"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6Wei2NUSG66WzLiqSuQAy5"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Nanou2",
+      "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 284946,
+      "name": "Next Heap With",
+      "url": "https://open.spotify.com/track/1KIq3HD7Ju6sHOPHDkGjRS"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 292480,
+      "name": "Omgyjya-Switch7",
+      "url": "https://open.spotify.com/track/5XgWTzM9N81tXJH7cFWkba"
+    },
+    {
+      "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/13yMvXe4YS3m2qFyC9aqID"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 432893,
+      "name": "On",
+      "url": "https://open.spotify.com/track/4UYW3jllzFyWdaxob0UVMr"
+    },
+    {
+      "album": {
+        "name": "On",
+        "url": "https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432893,
+      "name": "On",
+      "url": "https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S"
+    },
+    {
+      "album": {
+        "name": "Donkey Rhubarb",
+        "url": "https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 271293,
+      "name": "Pancake Lizard",
+      "url": "https://open.spotify.com/track/3Z7wJtqMNc3q7ukYplaCa9"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 258973,
+      "name": "PAPAT4 [155][pineal mix]",
+      "url": "https://open.spotify.com/track/2MmI2fOFAYnOJcMyWkn1js"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 185093,
+      "name": "Peek 82454201",
+      "url": "https://open.spotify.com/track/4KzwoaaI2oyx5sib9D93w0"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131346,
+      "name": "Petiatil Cx Htdui",
+      "url": "https://open.spotify.com/track/75qP1ztAEjjJwvU967su8u"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 50343,
+      "name": "piano un1 arpej",
+      "url": "https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50343,
+      "name": "piano un1 arpej",
+      "url": "https://open.spotify.com/track/3s2ID3iHa7h3K8Fv1NnnLi"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/15anCXEEnV6wyF1CAGnBCt"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108011,
+      "name": "piano un10 it happened",
+      "url": "https://open.spotify.com/track/75NjAlMKrabtXiM2P89E5F"
+    },
+    {
+      "album": {
+        "name": "Xylem Tube EP",
+        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
+    },
+    {
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303920,
+      "name": "produk 29 [101]",
+      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 303920,
+      "name": "produk 29 [101]",
+      "url": "https://open.spotify.com/track/4ZShsMZrAhAvemrjx1wxuv"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Pulsewidth",
+      "url": "https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/7vuYfz0siJY66fLEiDKnEh"
+    },
+    {
+      "album": {
+        "name": "Peel Session 2",
+        "url": "https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 213900,
+      "name": "Slo Bird Whistle - Peel Session",
+      "url": "https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 365373,
+      "name": "Start As You Mean To Go On",
+      "url": "https://open.spotify.com/track/7F1YDlmTRGuOqmdDUElHfm"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 392960,
+      "name": "syro u473t8+e [141.98][piezoluminescence mix]",
+      "url": "https://open.spotify.com/track/1LWoUuBXLo7moQQ0Rm1Tf7"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547133,
+      "name": "Tha",
+      "url": "https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 289693,
+      "name": "The Waxen Pith",
+      "url": "https://open.spotify.com/track/0dZvL5TDpKiwvZtB49g6Ky"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "The Waxen Pith",
+      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 243826,
+      "name": "To Cure A Weakling Child",
+      "url": "https://open.spotify.com/track/0Qe87CjGvXot5t4FADTq3Y"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "To Cure A Weakling Child",
+      "url": "https://open.spotify.com/track/1jNd1HqFj9yZlDgdkpddkm"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 291386,
+      "name": "Vordhosbn",
+      "url": "https://open.spotify.com/track/3tWiIOPBJjgjA6PpozJqNO"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 258959,
+      "name": "Wax The Nip",
+      "url": "https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 258959,
+      "name": "Wax The Nip",
+      "url": "https://open.spotify.com/track/4OLn9JczgVsRespw6XSlHc"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 463520,
+      "name": "We Are the Music Makers",
+      "url": "https://open.spotify.com/track/1sTzDqhcrpB2BC8TOMeInR"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365640,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 368400,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/6CUxhtTkH0fSwfmsiOKPNV"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293751,
+      "name": "Xtal",
+      "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/3yPDtsP4pwO80uK7Bkg4vP"
+    },
+    {
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Yellow Calx",
+      "url": "https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq"
+    },
+    {
+      "album": {
+        "name": "Blackbox Life Recorder 21f / in a room7 F760",
+        "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "zin2 test5",
+      "url": "https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV"
 }

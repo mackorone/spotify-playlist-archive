@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn?si=C7E_eE0SQaa4tMoedx4tBQ\"> Beeztrap KOTM</a>  ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=44ypFljwS7KHqFvdra2eFg\"> Medikal</a>  ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 171423,
       "name": "Akata Krakye",
       "url": "https://open.spotify.com/track/23S5BZg2WkhxBc08XNVb1u"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 179571,
       "name": "ALA BEKE 2",
       "url": "https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 217165,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 154383,
       "name": "Danjuma",
       "url": "https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 224106,
       "name": "Donkomi - Remix",
       "url": "https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 173245,
       "name": "Focus On Me",
       "url": "https://open.spotify.com/track/3gQxTu5e5K9btGajeTy5iv"
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "KABUTEY FLOW",
+        "url": "https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137183,
+      "name": "KABUTEY FLOW",
+      "url": "https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY"
+    },
+    {
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -1689,6 +1707,32 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205083,
+      "name": "Kusuu",
+      "url": "https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy"
+    },
+    {
+      "album": {
         "name": "Kusuu",
         "url": "https://open.spotify.com/album/4aOZ8ao2T20NAhM93nMa2t"
       },
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205083,
       "name": "Kusuu",
       "url": "https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf"
@@ -1792,7 +1836,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 164211,
       "name": "Live From 233",
       "url": "https://open.spotify.com/track/1mxaeq1bLsbLAYfxd8hDAf"
@@ -2104,7 +2148,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 158371,
       "name": "Muntashi",
       "url": "https://open.spotify.com/track/23qrtEsnizy2O5v6Tr8MJQ"
@@ -2148,7 +2192,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 140125,
       "name": "No Luck",
       "url": "https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ"
@@ -2450,7 +2494,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 200733,
       "name": "Oliver Khan",
       "url": "https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD"
@@ -2685,6 +2729,36 @@
     },
     {
       "album": {
+        "name": "Sa Me",
+        "url": "https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "XlimKid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        },
+        {
+          "name": "City Boy",
+          "url": "https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Sa Me",
+      "url": "https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR"
+    },
+    {
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -2730,6 +2804,24 @@
       "duration_ms": 137142,
       "name": "Senza Me",
       "url": "https://open.spotify.com/track/3okTuqX0Kly3X0JUPXh3gb"
+    },
+    {
+      "album": {
+        "name": "Show Working",
+        "url": "https://open.spotify.com/album/6EP7oNJfif0bUl2AFxWWSn"
+      },
+      "artists": [
+        {
+          "name": "st Lennon",
+          "url": "https://open.spotify.com/artist/1EwRNWlGnMEf3K515NAPvB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Show Working",
+      "url": "https://open.spotify.com/track/2mwqFfDi6vQCI5QFUp1g1I"
     },
     {
       "album": {
@@ -2934,7 +3026,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 158093,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm"

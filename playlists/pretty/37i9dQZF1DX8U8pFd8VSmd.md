@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,103 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 | 49 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 | 50 | [La Bamba](https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Just Another Band From East L.A.: A Collection](https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87) | 2:52 |
 
-Snapshot ID: `MCxjNTA0MGMzNWE1NmIyNDk4Yjk4ZTdiZjdjMDQxOWMyNTdmMTJhZjM5`
+Snapshot ID: `MCw5OWM1NGE0MzE5MzIxZDI3MzhiMWIzNWRhMjFiMjVmM2VmMWI0NjBi`

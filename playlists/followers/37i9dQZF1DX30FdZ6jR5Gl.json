@@ -1,735 +1,1123 @@
 {
-  "2021-12-25": 73176,
-  "2021-12-26": 73194,
-  "2021-12-27": 73226,
-  "2021-12-28": 73226,
-  "2021-12-29": 73252,
-  "2021-12-30": 73291,
-  "2021-12-31": 73315,
-  "2022-01-01": 73356,
-  "2022-01-02": 73365,
-  "2022-01-03": 73386,
-  "2022-01-04": 73414,
-  "2022-01-05": 73469,
-  "2022-01-06": 73544,
-  "2022-01-07": 73622,
-  "2022-01-08": 73767,
-  "2022-01-09": 73770,
-  "2022-01-10": 73845,
-  "2022-01-11": 73927,
-  "2022-01-12": 73994,
-  "2022-01-13": 74061,
-  "2022-01-14": 74143,
-  "2022-01-15": 74283,
-  "2022-01-16": 74288,
-  "2022-01-17": 74484,
-  "2022-01-18": 74494,
-  "2022-01-19": 74553,
-  "2022-01-20": 74622,
-  "2022-01-21": 74692,
-  "2022-01-22": 74772,
-  "2022-01-23": 74861,
-  "2022-01-24": 74944,
-  "2022-01-25": 75023,
-  "2022-01-26": 75084,
-  "2022-01-27": 75157,
-  "2022-01-28": 75238,
-  "2022-01-29": 75305,
-  "2022-01-30": 75400,
-  "2022-01-31": 75491,
-  "2022-02-01": 75584,
-  "2022-02-02": 75674,
-  "2022-02-03": 75772,
-  "2022-02-04": 75863,
-  "2022-02-05": 75950,
-  "2022-02-06": 76049,
-  "2022-02-07": 76137,
-  "2022-02-08": 76210,
-  "2022-02-09": 76294,
-  "2022-02-10": 76353,
-  "2022-02-11": 76418,
-  "2022-02-12": 76448,
-  "2022-02-13": 76496,
-  "2022-02-14": 76535,
-  "2022-02-15": 76553,
-  "2022-02-16": 76565,
-  "2022-02-17": 76603,
-  "2022-02-18": 76635,
-  "2022-02-19": 76672,
-  "2022-02-20": 76705,
-  "2022-02-21": 76749,
-  "2022-02-22": 76786,
-  "2022-02-23": 76823,
-  "2022-02-24": 76855,
-  "2022-02-25": 76888,
-  "2022-02-26": 76934,
-  "2022-02-27": 77005,
-  "2022-02-28": 77005,
-  "2022-03-01": 77031,
-  "2022-03-02": 77054,
-  "2022-03-03": 77099,
-  "2022-03-04": 77124,
-  "2022-03-05": 77162,
-  "2022-03-06": 77213,
-  "2022-03-07": 77246,
-  "2022-03-08": 77275,
-  "2022-03-09": 77300,
-  "2022-03-10": 77342,
-  "2022-03-11": 77377,
-  "2022-03-12": 77406,
-  "2022-03-13": 77439,
-  "2022-03-14": 77485,
-  "2022-03-15": 77511,
-  "2022-03-16": 77549,
-  "2022-03-17": 77577,
-  "2022-03-18": 77602,
-  "2022-03-19": 77627,
-  "2022-03-20": 77627,
-  "2022-03-21": 77713,
-  "2022-03-22": 77737,
-  "2022-03-23": 77779,
-  "2022-03-24": 77830,
-  "2022-03-25": 77871,
-  "2022-03-26": 77898,
-  "2022-03-27": 77935,
-  "2022-03-28": 77972,
-  "2022-03-30": 78039,
-  "2022-03-31": 78096,
-  "2022-04-01": 78145,
-  "2022-04-02": 78190,
-  "2022-04-03": 78218,
-  "2022-04-04": 78269,
-  "2022-04-05": 78312,
-  "2022-04-06": 78357,
-  "2022-04-07": 78405,
-  "2022-04-08": 78444,
-  "2022-04-09": 78480,
-  "2022-04-10": 78544,
-  "2022-04-11": 78578,
-  "2022-04-12": 78581,
-  "2022-04-13": 78622,
-  "2022-04-14": 78642,
-  "2022-04-15": 78676,
-  "2022-04-16": 78705,
-  "2022-04-17": 78722,
-  "2022-04-18": 78762,
-  "2022-04-19": 78790,
-  "2022-04-20": 78820,
-  "2022-04-21": 78849,
-  "2022-04-22": 78880,
-  "2022-04-23": 78908,
-  "2022-04-24": 78944,
-  "2022-04-25": 78967,
-  "2022-04-26": 79005,
-  "2022-04-27": 79059,
-  "2022-04-28": 79083,
-  "2022-04-29": 79133,
-  "2022-04-30": 79172,
-  "2022-05-01": 79200,
-  "2022-05-02": 79200,
-  "2022-05-03": 79239,
-  "2022-05-04": 79257,
-  "2022-05-05": 79296,
-  "2022-05-06": 79319,
-  "2022-05-07": 79360,
-  "2022-05-08": 79421,
-  "2022-05-09": 79434,
-  "2022-05-10": 79466,
-  "2022-05-11": 79503,
-  "2022-05-12": 79529,
-  "2022-05-13": 79570,
-  "2022-05-14": 79604,
-  "2022-05-15": 79639,
-  "2022-05-16": 79673,
-  "2022-05-17": 79693,
-  "2022-05-18": 79718,
-  "2022-05-19": 79752,
-  "2022-05-20": 79774,
-  "2022-05-21": 79844,
-  "2022-05-22": 79844,
-  "2022-05-23": 79879,
-  "2022-05-24": 79911,
-  "2022-05-25": 79941,
-  "2022-05-26": 79970,
-  "2022-05-27": 80006,
-  "2022-05-28": 80041,
-  "2022-05-29": 80066,
-  "2022-05-30": 80100,
-  "2022-05-31": 80143,
-  "2022-06-01": 80184,
-  "2022-06-02": 80191,
-  "2022-06-03": 80222,
-  "2022-06-04": 80262,
-  "2022-06-05": 80293,
-  "2022-06-06": 80339,
-  "2022-06-07": 80363,
-  "2022-06-08": 80407,
-  "2022-06-09": 80437,
-  "2022-06-10": 80483,
-  "2022-06-11": 80512,
-  "2022-06-12": 80547,
-  "2022-06-13": 80581,
-  "2022-06-14": 80606,
-  "2022-06-15": 80650,
-  "2022-06-16": 80687,
-  "2022-06-17": 80734,
-  "2022-06-18": 80756,
-  "2022-06-19": 80870,
-  "2022-06-20": 80870,
-  "2022-06-21": 80910,
-  "2022-06-22": 80954,
-  "2022-06-23": 80954,
-  "2022-06-24": 81003,
-  "2022-06-25": 81045,
-  "2022-06-26": 81078,
-  "2022-06-27": 81108,
-  "2022-06-28": 81129,
-  "2022-06-29": 81164,
-  "2022-06-30": 81192,
-  "2022-07-01": 81229,
-  "2022-07-02": 81276,
-  "2022-07-03": 81307,
-  "2022-07-04": 81327,
-  "2022-07-05": 81350,
-  "2022-07-06": 81375,
-  "2022-07-07": 81412,
-  "2022-07-08": 81446,
-  "2022-07-09": 81483,
-  "2022-07-10": 81510,
-  "2022-07-11": 81553,
-  "2022-07-12": 81583,
-  "2022-07-13": 81603,
-  "2022-07-14": 81632,
-  "2022-07-15": 81680,
-  "2022-07-16": 81712,
-  "2022-07-17": 81745,
-  "2022-07-18": 81796,
-  "2022-07-19": 81827,
-  "2022-07-20": 81860,
-  "2022-07-21": 81914,
-  "2022-07-22": 81945,
-  "2022-07-23": 81992,
-  "2022-07-24": 82010,
-  "2022-07-25": 82053,
-  "2022-07-26": 82081,
-  "2022-07-27": 82097,
-  "2022-07-28": 82138,
-  "2022-07-29": 82165,
-  "2022-07-30": 82235,
-  "2022-07-31": 82235,
-  "2022-08-01": 82267,
-  "2022-08-02": 82331,
-  "2022-08-03": 82331,
-  "2022-08-04": 82378,
-  "2022-08-05": 82419,
-  "2022-08-06": 82451,
-  "2022-08-07": 82478,
-  "2022-08-08": 82518,
-  "2022-08-09": 82550,
-  "2022-08-10": 82583,
-  "2022-08-11": 82618,
-  "2022-08-12": 82652,
-  "2022-08-13": 82677,
-  "2022-08-14": 82714,
-  "2022-08-15": 82762,
-  "2022-08-16": 82792,
-  "2022-08-17": 82826,
-  "2022-08-18": 82855,
-  "2022-08-19": 82898,
-  "2022-08-20": 82923,
-  "2022-08-21": 82956,
-  "2022-08-22": 82992,
-  "2022-08-23": 83024,
-  "2022-08-24": 83047,
-  "2022-08-25": 83077,
-  "2022-08-26": 83103,
-  "2022-08-27": 83124,
-  "2022-08-28": 83160,
-  "2022-08-29": 83198,
-  "2022-08-30": 83196,
-  "2022-08-31": 83166,
-  "2022-09-01": 83148,
-  "2022-09-02": 83103,
-  "2022-09-03": 83139,
-  "2022-09-04": 83031,
-  "2022-09-05": 83045,
-  "2022-09-06": 83075,
-  "2022-09-07": 83106,
-  "2022-09-09": 83167,
-  "2022-09-10": 83200,
-  "2022-09-11": 83243,
-  "2022-09-12": 83298,
-  "2022-09-13": 83331,
-  "2022-09-15": 83413,
-  "2022-09-16": 83442,
-  "2022-09-17": 83486,
-  "2022-09-18": 83516,
-  "2022-09-19": 83560,
-  "2022-09-20": 83600,
-  "2022-09-21": 83640,
-  "2022-09-22": 83676,
-  "2022-09-23": 83715,
-  "2022-09-24": 83748,
-  "2022-09-25": 83805,
-  "2022-09-26": 83846,
-  "2022-09-27": 83885,
-  "2022-09-28": 83931,
-  "2022-09-29": 83970,
-  "2022-09-30": 84009,
-  "2022-10-01": 84048,
-  "2022-10-02": 84088,
-  "2022-10-03": 84125,
-  "2022-10-04": 84178,
-  "2022-10-05": 84291,
-  "2022-10-06": 84343,
-  "2022-10-07": 84389,
-  "2022-10-08": 84428,
-  "2022-10-09": 84495,
-  "2022-10-10": 84506,
-  "2022-10-11": 84550,
-  "2022-10-12": 84575,
-  "2022-10-13": 84607,
-  "2022-10-14": 84639,
-  "2022-10-15": 84683,
-  "2022-10-16": 84722,
-  "2022-10-17": 84760,
-  "2022-10-18": 84797,
-  "2022-10-19": 84844,
-  "2022-10-20": 84874,
-  "2022-10-21": 84918,
-  "2022-10-22": 84955,
-  "2022-10-23": 85000,
-  "2022-10-24": 85034,
-  "2022-10-25": 85081,
-  "2022-10-26": 85109,
-  "2022-10-27": 85136,
-  "2022-10-28": 85196,
-  "2022-10-29": 85227,
-  "2022-10-30": 85272,
-  "2022-10-31": 85315,
-  "2022-11-01": 85357,
-  "2022-11-02": 85406,
-  "2022-11-03": 85461,
-  "2022-11-04": 85513,
-  "2022-11-05": 85562,
-  "2022-11-06": 85616,
-  "2022-11-07": 85662,
-  "2022-11-08": 85706,
-  "2022-11-09": 85753,
-  "2022-11-10": 85789,
-  "2022-11-11": 85838,
-  "2022-11-12": 85900,
-  "2022-11-13": 85942,
-  "2022-11-14": 85985,
-  "2022-11-15": 86038,
-  "2022-11-16": 86074,
-  "2022-11-17": 86125,
-  "2022-11-18": 86136,
-  "2022-11-19": 86118,
-  "2022-11-20": 86169,
-  "2022-11-21": 86159,
-  "2022-11-22": 86256,
-  "2022-11-23": 86244,
-  "2022-11-24": 86385,
-  "2022-11-25": 86443,
-  "2022-11-26": 86471,
-  "2022-11-27": 86521,
-  "2022-11-28": 86570,
-  "2022-11-29": 86605,
-  "2022-11-30": 86645,
-  "2022-12-01": 86687,
-  "2022-12-02": 86718,
-  "2022-12-03": 86775,
-  "2022-12-04": 86827,
-  "2022-12-05": 86876,
-  "2022-12-06": 86915,
-  "2022-12-07": 86972,
-  "2022-12-08": 87008,
-  "2022-12-09": 87042,
-  "2022-12-10": 87065,
-  "2022-12-11": 87106,
-  "2022-12-12": 87155,
-  "2022-12-13": 87214,
-  "2022-12-14": 87266,
-  "2022-12-15": 87287,
-  "2022-12-16": 87336,
-  "2022-12-17": 87378,
-  "2022-12-18": 87413,
-  "2022-12-19": 87458,
-  "2022-12-20": 87531,
-  "2022-12-21": 87531,
-  "2022-12-22": 87567,
-  "2022-12-24": 87664,
-  "2022-12-25": 87710,
-  "2022-12-26": 87736,
-  "2022-12-27": 87778,
-  "2022-12-28": 87844,
-  "2022-12-29": 87896,
-  "2022-12-30": 87938,
-  "2022-12-31": 88005,
-  "2023-01-01": 88047,
-  "2023-01-02": 88098,
-  "2023-01-03": 88163,
-  "2023-01-04": 88204,
-  "2023-01-05": 88246,
-  "2023-01-06": 88306,
-  "2023-01-07": 88388,
-  "2023-01-08": 88406,
-  "2023-01-09": 88478,
-  "2023-01-10": 88550,
-  "2023-01-11": 88611,
-  "2023-01-12": 88661,
-  "2023-01-13": 88724,
-  "2023-01-14": 88786,
-  "2023-01-15": 88802,
-  "2023-01-16": 88857,
-  "2023-01-17": 88904,
-  "2023-01-18": 88952,
-  "2023-01-19": 88991,
-  "2023-01-20": 89030,
-  "2023-01-21": 89078,
-  "2023-01-22": 89121,
-  "2023-01-23": 89185,
-  "2023-01-24": 89247,
-  "2023-01-25": 89305,
-  "2023-01-26": 89344,
-  "2023-01-27": 89390,
-  "2023-01-28": 89444,
-  "2023-01-29": 89496,
-  "2023-01-30": 89559,
-  "2023-01-31": 89559,
-  "2023-02-01": 89674,
-  "2023-02-02": 89716,
-  "2023-02-03": 89775,
-  "2023-02-04": 89808,
-  "2023-02-05": 89851,
-  "2023-02-06": 89902,
-  "2023-02-07": 89962,
-  "2023-02-08": 90059,
-  "2023-02-09": 90059,
-  "2023-02-10": 90106,
-  "2023-02-11": 90147,
-  "2023-02-12": 90261,
-  "2023-02-13": 90303,
-  "2023-02-14": 90303,
-  "2023-02-15": 90361,
-  "2023-02-16": 90410,
-  "2023-02-17": 90452,
-  "2023-02-18": 90541,
-  "2023-02-19": 90553,
-  "2023-02-20": 90590,
-  "2023-02-21": 90644,
-  "2023-02-22": 90695,
-  "2023-02-23": 90738,
-  "2023-02-24": 90785,
-  "2023-02-25": 90846,
-  "2023-02-26": 90878,
-  "2023-02-27": 90984,
-  "2023-02-28": 90984,
-  "2023-03-01": 91015,
-  "2023-03-02": 91059,
-  "2023-03-03": 91114,
-  "2023-03-04": 91171,
-  "2023-03-05": 91266,
-  "2023-03-06": 91266,
-  "2023-03-07": 91305,
-  "2023-03-08": 91337,
-  "2023-03-09": 91372,
-  "2023-03-10": 91400,
-  "2023-03-11": 91459,
-  "2023-03-12": 91502,
-  "2023-03-13": 91528,
-  "2023-03-14": 91557,
-  "2023-03-15": 91594,
-  "2023-03-16": 91628,
-  "2023-03-17": 91628,
-  "2023-03-18": 91695,
-  "2023-03-19": 91741,
-  "2023-03-20": 91774,
-  "2023-03-21": 91818,
-  "2023-03-22": 91857,
-  "2023-03-23": 91900,
-  "2023-03-24": 91900,
-  "2023-03-25": 91980,
-  "2023-03-26": 92005,
-  "2023-03-27": 92061,
-  "2023-03-28": 92090,
-  "2023-03-29": 92126,
-  "2023-03-30": 92204,
-  "2023-03-31": 92204,
-  "2023-04-01": 92249,
-  "2023-04-02": 92296,
-  "2023-04-03": 92360,
-  "2023-04-04": 92409,
-  "2023-04-05": 92448,
-  "2023-04-06": 92486,
-  "2023-04-07": 92525,
-  "2023-04-09": 92589,
-  "2023-04-10": 92623,
-  "2023-04-11": 92698,
-  "2023-04-12": 92698,
-  "2023-04-13": 92733,
-  "2023-04-14": 92774,
-  "2023-04-15": 92815,
-  "2023-04-16": 92860,
-  "2023-04-17": 92909,
-  "2023-04-18": 92952,
-  "2023-04-19": 92986,
-  "2023-04-20": 93024,
-  "2023-04-21": 93065,
-  "2023-04-22": 93095,
-  "2023-04-23": 93139,
-  "2023-04-24": 93178,
-  "2023-04-25": 93226,
-  "2023-04-26": 93265,
-  "2023-04-27": 93305,
-  "2023-04-28": 93347,
-  "2023-04-29": 93385,
-  "2023-04-30": 93414,
-  "2023-05-01": 93449,
-  "2023-05-02": 93485,
-  "2023-05-03": 93524,
-  "2023-05-04": 93585,
-  "2023-05-05": 93624,
-  "2023-05-06": 93668,
-  "2023-05-07": 93703,
-  "2023-05-08": 93737,
-  "2023-05-09": 93789,
-  "2023-05-10": 93833,
-  "2023-05-11": 93862,
-  "2023-05-12": 93907,
-  "2023-05-13": 93956,
-  "2023-05-14": 94004,
-  "2023-05-15": 94043,
-  "2023-05-16": 94089,
-  "2023-05-17": 94124,
-  "2023-05-18": 94156,
-  "2023-05-19": 94208,
-  "2023-05-20": 94280,
-  "2023-05-21": 94280,
-  "2023-05-22": 94280,
-  "2023-05-23": 94377,
-  "2023-05-24": 94419,
-  "2023-05-25": 94431,
-  "2023-05-26": 94471,
-  "2023-05-27": 94518,
-  "2023-05-28": 94562,
-  "2023-05-29": 94562,
-  "2023-05-30": 94625,
-  "2023-05-31": 94660,
-  "2023-06-01": 94701,
-  "2023-06-02": 94722,
-  "2023-06-03": 94754,
-  "2023-06-04": 94803,
-  "2023-06-05": 94845,
-  "2023-06-06": 94874,
-  "2023-06-07": 94895,
-  "2023-06-08": 94939,
-  "2023-06-09": 94976,
-  "2023-06-10": 95011,
-  "2023-06-11": 95053,
-  "2023-06-12": 95085,
-  "2023-06-13": 95122,
-  "2023-06-14": 95159,
-  "2023-06-15": 95200,
-  "2023-06-16": 95227,
-  "2023-06-17": 95251,
-  "2023-06-18": 95289,
-  "2023-06-19": 95323,
-  "2023-06-20": 95356,
-  "2023-06-21": 95400,
-  "2023-06-22": 95430,
-  "2023-06-23": 95461,
-  "2023-06-24": 95497,
-  "2023-06-25": 95521,
-  "2023-06-26": 95552,
-  "2023-06-27": 95590,
-  "2023-06-28": 95616,
-  "2023-06-29": 95647,
-  "2023-06-30": 95685,
-  "2023-07-01": 95734,
-  "2023-07-02": 95734,
-  "2023-07-03": 95779,
-  "2023-07-04": 95800,
-  "2023-07-05": 95833,
-  "2023-07-06": 95899,
-  "2023-07-07": 95899,
-  "2023-07-08": 95926,
-  "2023-07-09": 95958,
-  "2023-07-10": 95983,
-  "2023-07-11": 96015,
-  "2023-07-12": 96050,
-  "2023-07-13": 96075,
-  "2023-07-14": 96097,
-  "2023-07-15": 96133,
-  "2023-07-16": 96170,
-  "2023-07-17": 96200,
-  "2023-07-18": 96223,
-  "2023-07-19": 96251,
-  "2023-07-20": 96287,
-  "2023-07-21": 96308,
-  "2023-07-22": 96334,
-  "2023-07-23": 96361,
-  "2023-07-24": 96393,
-  "2023-07-25": 96423,
-  "2023-07-26": 96455,
-  "2023-07-27": 96496,
-  "2023-07-28": 96531,
-  "2023-07-29": 96556,
-  "2023-07-30": 96587,
-  "2023-07-31": 96619,
-  "2023-08-01": 96647,
-  "2023-08-02": 96678,
-  "2023-08-03": 96714,
-  "2023-08-04": 96743,
-  "2023-08-05": 96778,
-  "2023-08-06": 96841,
-  "2023-08-07": 96841,
-  "2023-08-08": 96877,
-  "2023-08-09": 96922,
-  "2023-08-10": 96962,
-  "2023-08-11": 96996,
-  "2023-08-12": 97037,
-  "2023-08-13": 97077,
-  "2023-08-14": 97110,
-  "2023-08-15": 97171,
-  "2023-08-16": 97171,
-  "2023-08-17": 97209,
-  "2023-08-18": 97232,
-  "2023-08-19": 97277,
-  "2023-08-20": 97302,
-  "2023-08-21": 97327,
-  "2023-08-22": 97352,
-  "2023-08-23": 97379,
-  "2023-08-24": 97410,
-  "2023-08-25": 97437,
-  "2023-08-26": 97467,
-  "2023-08-27": 97507,
-  "2023-08-28": 97531,
-  "2023-08-29": 97570,
-  "2023-08-30": 97601,
-  "2023-08-31": 97620,
-  "2023-09-01": 97679,
-  "2023-09-02": 97679,
-  "2023-09-03": 97716,
-  "2023-09-04": 97744,
-  "2023-09-05": 97764,
-  "2023-09-06": 97802,
-  "2023-09-07": 97841,
-  "2023-09-08": 97876,
-  "2023-09-09": 97905,
-  "2023-09-10": 97937,
-  "2023-09-11": 97971,
-  "2023-09-12": 98012,
-  "2023-09-13": 98051,
-  "2023-09-14": 98080,
-  "2023-09-15": 98109,
-  "2023-09-16": 98145,
-  "2023-09-17": 98191,
-  "2023-09-18": 98244,
-  "2023-09-19": 98294,
-  "2023-09-20": 98316,
-  "2023-09-21": 98350,
-  "2023-09-22": 98403,
-  "2023-09-23": 98420,
-  "2023-09-24": 98463,
-  "2023-09-25": 98523,
-  "2023-09-26": 98565,
-  "2023-09-27": 98596,
-  "2023-09-28": 98632,
-  "2023-09-29": 98647,
-  "2023-09-30": 98689,
-  "2023-10-01": 98721,
-  "2023-10-02": 98740,
-  "2023-10-03": 98778,
-  "2023-10-04": 98809,
-  "2023-10-05": 98844,
-  "2023-10-06": 98882,
-  "2023-10-07": 98918,
-  "2023-10-08": 98952,
-  "2023-10-09": 98983,
-  "2023-10-10": 98993,
-  "2023-10-11": 99062,
-  "2023-10-12": 99062,
-  "2023-10-13": 99096,
-  "2023-10-14": 99122,
-  "2023-10-15": 99150,
-  "2023-10-16": 99182,
-  "2023-10-17": 99203,
-  "2023-10-18": 99219,
-  "2023-10-19": 99255,
-  "2023-10-20": 99300,
-  "2023-10-21": 99318,
-  "2023-10-22": 99358,
-  "2023-10-23": 99398,
-  "2023-10-24": 99436,
-  "2023-10-25": 99459,
-  "2023-10-26": 99488,
-  "2023-10-27": 99523,
-  "2023-10-28": 99551,
-  "2023-10-29": 99585,
-  "2023-10-30": 99631,
-  "2023-10-31": 99631,
-  "2023-11-01": 99653,
-  "2023-11-02": 99689,
-  "2023-11-03": 99731,
-  "2023-11-04": 99774,
-  "2023-11-05": 99812,
-  "2023-11-06": 99851,
-  "2023-11-07": 99894,
-  "2023-11-08": 99932,
-  "2023-11-09": 99971,
-  "2023-11-10": 100013,
-  "2023-11-11": 100053,
-  "2023-11-12": 100083,
-  "2023-11-13": 100126,
-  "2023-11-14": 100150,
-  "2023-11-15": 100150,
-  "2023-11-16": 100218,
-  "2023-11-17": 100285,
-  "2023-11-18": 100285,
-  "2023-11-19": 100327,
-  "2023-11-20": 100367,
-  "2023-11-21": 100400,
-  "2023-11-22": 100435,
-  "2023-11-23": 100479,
-  "2023-11-24": 100505,
-  "2023-11-25": 100530,
-  "2023-11-26": 100578,
-  "2023-11-27": 100613,
-  "2023-11-28": 100649,
-  "2023-11-29": 100727,
-  "2023-11-30": 100727,
-  "2023-12-01": 100766,
-  "2023-12-02": 100814,
-  "2023-12-03": 100862,
-  "2023-12-04": 100900,
-  "2023-12-05": 100939,
-  "2023-12-06": 100977,
-  "2023-12-07": 101016,
-  "2023-12-08": 101053,
-  "2023-12-09": 101081,
-  "2023-12-10": 101125,
-  "2023-12-11": 101166,
-  "2023-12-12": 101199,
-  "2023-12-13": 101246,
-  "2023-12-14": 101296,
-  "2023-12-15": 101323,
-  "2023-12-16": 101362,
-  "2023-12-17": 101403,
-  "2023-12-18": 101428,
-  "2023-12-19": 101450,
-  "2023-12-20": 101491,
-  "2023-12-21": 101527,
-  "2023-12-22": 101577,
-  "2023-12-23": 101614,
-  "2023-12-24": 101656,
-  "2023-12-25": 101684,
-  "2023-12-26": 101715,
-  "2023-12-27": 101756,
-  "2023-12-30": 101856,
-  "2023-12-31": 101894,
-  "2024-01-01": 101923,
-  "2024-01-02": 101952,
-  "2024-01-03": 101980
+  "2024-01-17": 102579,
+  "date_first_scraped": "2021-12-21",
+  "description": "An introduction to American composer Philip Glass (b. 1937), whose hypnotic and powerful music has become part of our cultural soundtrack.",
+  "name": "This Is Philip Glass",
+  "tracks": [
+    {
+      "album": {
+        "name": "Glass: The Voyage - An Opera In Three Acts",
+        "url": "https://open.spotify.com/album/6P6CNcM0RELLsYJa9Nwilz"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Landestheater Linz",
+          "url": "https://open.spotify.com/artist/3pYbfPGpr6yPw6KjP7AqGv"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        },
+        {
+          "name": "Bruckner Orchester Linz",
+          "url": "https://open.spotify.com/artist/0P3FfzjOGEHknmwzb2qEQl"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366026,
+      "name": "Act I: Scene 2 - Interlude",
+      "url": "https://open.spotify.com/track/6pSoGWSF1pF7wscSzRGba3"
+    },
+    {
+      "album": {
+        "name": "The Juniper Tree",
+        "url": "https://open.spotify.com/album/6bL8FhtXTeuJ2quYT9icAJ"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Richard Pittman",
+          "url": "https://open.spotify.com/artist/6mY73S1YsUIioepksJf5Wf"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128413,
+      "name": "Act One: Bird Song",
+      "url": "https://open.spotify.com/track/3OtOBW7uPd9GlqqLrM30K6"
+    },
+    {
+      "album": {
+        "name": "Glass: Akhnaten",
+        "url": "https://open.spotify.com/album/5xE7mkPZfZa8eu5A1DxzhG"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310400,
+      "name": "Akhnaten: Act II, Scene 3: Dance",
+      "url": "https://open.spotify.com/track/3FlJC8dYQIEeDYwLiIhqoR"
+    },
+    {
+      "album": {
+        "name": "Glass Cuts: Philip Glass Remixed",
+        "url": "https://open.spotify.com/album/1mo2JIjBg1vxLF2iqiqCYI"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Marcos Romero",
+          "url": "https://open.spotify.com/artist/082lztoc3xsdmrTyntllkc"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307720,
+      "name": "Channels and Winds",
+      "url": "https://open.spotify.com/track/2asp9d6CmJyTWDx7lUmas6"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Concerto Project, Vol. III",
+        "url": "https://open.spotify.com/album/0d6tJiedEfgRHGZc9VjRFi"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "The Rasch\u00e8r Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/5rOaxFxp2vk3KURqOCJO7j"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382893,
+      "name": "Concerto for Saxophone Quartet: Movement I",
+      "url": "https://open.spotify.com/track/6y34pSTyU4j9wxPnTuIzua"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: In the Upper Room",
+        "url": "https://open.spotify.com/album/3hcy52aPl8VwyffjrymFPV"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488400,
+      "name": "Dance IX",
+      "url": "https://open.spotify.com/track/3P7kgxM0JiC87XToyex76Q"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Hours / Distant Figure",
+        "url": "https://open.spotify.com/album/0pto9IZl9X4FFN5yT3RATO"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Anton Batagov",
+          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 830703,
+      "name": "Distant Figure Passacaglia",
+      "url": "https://open.spotify.com/track/0vGqX02b3BNZrb63CcyEUC"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Kepler",
+        "url": "https://open.spotify.com/album/7Aufu8GsH10hNytQXjc8Oy"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        },
+        {
+          "name": "Bruckner Orchestra Linz",
+          "url": "https://open.spotify.com/artist/54mhWv3fRj86K1E5HyEzmL"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369386,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/2ZLxU8hese8L2l3slQit8u"
+    },
+    {
+      "album": {
+        "name": "The Complete Piano Etudes - Live in Moscow",
+        "url": "https://open.spotify.com/album/1e1eDiT2ebH1NqoZq3SJr3"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Anton Batagov",
+          "url": "https://open.spotify.com/artist/6ygtSGdFH18miXSoJCRFCX"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541586,
+      "name": "Etude 5",
+      "url": "https://open.spotify.com/track/48JmlZDpp4YT5CiBsgE6w4"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Complete Piano Etudes",
+        "url": "https://open.spotify.com/album/7fAV0q7la4SLQ3Z9jXbA0n"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Maki Namekawa",
+          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254720,
+      "name": "Etude No. 16",
+      "url": "https://open.spotify.com/track/7iXFtup6RbQ26P4XqI5pmE"
+    },
+    {
+      "album": {
+        "name": "Etudes for Piano Vol 1 No. 1-10",
+        "url": "https://open.spotify.com/album/5Ya7ft5JteI5pIS4eCMKOC"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295560,
+      "name": "Etude No. 2",
+      "url": "https://open.spotify.com/track/5bi8ryL6gy6a1BRXOf43y9"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Complete Piano Etudes",
+        "url": "https://open.spotify.com/album/7fAV0q7la4SLQ3Z9jXbA0n"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Maki Namekawa",
+          "url": "https://open.spotify.com/artist/6htuRIPptVcECBt22n7MGo"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625280,
+      "name": "Etude No. 20",
+      "url": "https://open.spotify.com/track/3H8VtKnoMB90B016Pam9BY"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Cinematix (Remixes by Kummerspeck)",
+        "url": "https://open.spotify.com/album/7n2yiXLAsfSt3FZOaCdX3n"
+      },
+      "artists": [
+        {
+          "name": "Kummerspeck",
+          "url": "https://open.spotify.com/artist/7sKPIqlHiKAPJGzvRyfBL7"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156956,
+      "name": "Etude No. 9",
+      "url": "https://open.spotify.com/track/4TSWKaAikYcyChwVegp8no"
+    },
+    {
+      "album": {
+        "name": "Glassworks - Expanded Edition",
+        "url": "https://open.spotify.com/album/1My9AZY0XBwVwwy1DDVSQS"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441200,
+      "name": "Facades",
+      "url": "https://open.spotify.com/track/17Ymh369W4qCPXYzndYurO"
+    },
+    {
+      "album": {
+        "name": "From The Kitchen Archives, No. 5 - Pianos in the Kitchen",
+        "url": "https://open.spotify.com/album/5FtId0exZbrdu5fJ3r8htF"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 724120,
+      "name": "Fourth Series, Part IV (Mad Rush)",
+      "url": "https://open.spotify.com/track/5h5EdJ3zJsOpjXvDZGXeWw"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Glassworks - Live at (le) Poisson Rouge",
+        "url": "https://open.spotify.com/album/3l4MBawpEqOAqR6CsuvW1a"
+      },
+      "artists": [
+        {
+          "name": "Signal",
+          "url": "https://open.spotify.com/artist/7w4ShCiJWx2ue1iWpaLHWx"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390853,
+      "name": "Glassworks: I. Opening",
+      "url": "https://open.spotify.com/track/1N06xKid6sYj3vRPbVQX1m"
+    },
+    {
+      "album": {
+        "name": "Notes on a Scandal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/08FMYTikWTv7UBhetbZuw7"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I Knew Her",
+      "url": "https://open.spotify.com/track/2gTc0Vgo3Lg8erahaCwVjm"
+    },
+    {
+      "album": {
+        "name": "Notes on a Scandal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ncAuRqCBvL9m94F30FTEc"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202840,
+      "name": "I Knew Her",
+      "url": "https://open.spotify.com/track/5cDIQncK7a2TsiEPWymeyk"
+    },
+    {
+      "album": {
+        "name": "Music From The Fog of War",
+        "url": "https://open.spotify.com/album/4IyzdblblFLBgR3B4OISsE"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/4XSTwgAd59NFiUG1CEMb4R"
+    },
+    {
+      "album": {
+        "name": "The Music of Candyman (Soundtrack from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2iSu7cG7QiCGjWx7CHJxXx"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        },
+        {
+          "name": "The Western Wind",
+          "url": "https://open.spotify.com/artist/7lZGfOemnkXeF4TK4uG9MD"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "It Was Always You, Helen",
+      "url": "https://open.spotify.com/track/4xA8HPOZdWsEQOjjbJ4Fmt"
+    },
+    {
+      "album": {
+        "name": "Glass: Einstein on the Beach",
+        "url": "https://open.spotify.com/album/27OF0Qk1FnCZVvsyNP4L1j"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass Ensemble",
+          "url": "https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484666,
+      "name": "Knee 5",
+      "url": "https://open.spotify.com/track/5LBTIPGXEn7I7ON0BB961z"
+    },
+    {
+      "album": {
+        "name": "Koyaanisqatsi (Complete Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ruApgAZVeqcDJp77jSGg7"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "Koyaanisqatsi",
+      "url": "https://open.spotify.com/track/7C2OUKlFfGq68qCwAhgjkI"
+    },
+    {
+      "album": {
+        "name": "The Illusionist",
+        "url": "https://open.spotify.com/album/1EVv1anJUyA6zlIHAdlmtN"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271693,
+      "name": "Life In The Mountains",
+      "url": "https://open.spotify.com/track/6UlNYL6Q528xMKXGGMubwk"
+    },
+    {
+      "album": {
+        "name": "Glass: Aguas da Amazonia",
+        "url": "https://open.spotify.com/album/4DcdPm3T4xGbJmpiBP0KWO"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Charles Coleman",
+          "url": "https://open.spotify.com/artist/1COLnRToRX7AxZGVj2Byjl"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Absolute Ensemble",
+          "url": "https://open.spotify.com/artist/5QEHQw5uiE7WQY3cMXXe3T"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178350,
+      "name": "Medeira River",
+      "url": "https://open.spotify.com/track/4Oa2RGjojNwGpswrykHaAM"
+    },
+    {
+      "album": {
+        "name": "Glass: Saxophone",
+        "url": "https://open.spotify.com/album/2SkzcCM1blHAsmcoRCrq3g"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "The Rasch\u00e8r Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/5rOaxFxp2vk3KURqOCJO7j"
+        },
+        {
+          "name": "Andrew Sterman",
+          "url": "https://open.spotify.com/artist/4QHfF0rdTMr74UYLmNQ9p9"
+        },
+        {
+          "name": "Jon Gibson",
+          "url": "https://open.spotify.com/artist/4atxzoJU835TvPtIfiRtRv"
+        },
+        {
+          "name": "Richard Peck",
+          "url": "https://open.spotify.com/artist/2vX1BfrqrXMIRuNs8EZjw1"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Melodies for Saxophone: Melody 1",
+      "url": "https://open.spotify.com/track/3eGVKKDVzDRFyNftNHIyTN"
+    },
+    {
+      "album": {
+        "name": "Mad Rush",
+        "url": "https://open.spotify.com/album/5rRMX3jU0Bv14iejPW302S"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Lisa Moore",
+          "url": "https://open.spotify.com/artist/2rFj4PhcyhhacY9MAMXvT2"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439066,
+      "name": "Metamorphosis II",
+      "url": "https://open.spotify.com/track/2IrV7FyyiUjCvElq3ALKWB"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Portrait",
+        "url": "https://open.spotify.com/album/7piXYhtgoZj5dPDHkjGE0y"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Ang\u00e8le Dubeau",
+          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Piet\u00e0",
+          "url": "https://open.spotify.com/artist/1Ym2xfkbYM2QZqBty2cTGU"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195720,
+      "name": "Mishima: Blood Oath",
+      "url": "https://open.spotify.com/track/6Y3JXsXRN3Uh37225YxAKl"
+    },
+    {
+      "album": {
+        "name": "Glass: Symphony No. 4 \"Heroes\"",
+        "url": "https://open.spotify.com/album/3hUzpZVyn8AKsV35kzPdpV"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        },
+        {
+          "name": "Sinfonieorchester Basel",
+          "url": "https://open.spotify.com/artist/6IHkZ4mLQr4dLxiSJr3yJ8"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568373,
+      "name": "Movement I: Heroes",
+      "url": "https://open.spotify.com/track/4B33STUQ7hmtFEGoOWpFmi"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Music in Eight Parts",
+        "url": "https://open.spotify.com/album/33d6foXMROuC4DIDRRshQL"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Philip Glass Ensemble",
+          "url": "https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1296516,
+      "name": "Music in Eight Parts",
+      "url": "https://open.spotify.com/track/71nOqlhtPrCR2RBvMASXRZ"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Grid",
+        "url": "https://open.spotify.com/album/6ZZvgZTAktrniRUDmTNXPd"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "James McVinnie",
+          "url": "https://open.spotify.com/artist/4aFXwGxCEd4fSBcXE7N3V5"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159223,
+      "name": "North Star: \u00c9toile polaire (Arranged by James McVinnie)",
+      "url": "https://open.spotify.com/track/0pwzhEP9LWccpnJmfxeKYS"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Dracula",
+        "url": "https://open.spotify.com/album/0CVa8Zv0TIBtFghs6wwsJW"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280773,
+      "name": "Or a Wolf",
+      "url": "https://open.spotify.com/track/6KvDJt44IrChwCBwqos56L"
+    },
+    {
+      "album": {
+        "name": "Voices for Didgeridoo and Organ",
+        "url": "https://open.spotify.com/album/60ttq74LZ0hcaO1LEfT3j6"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Mark Atkins",
+          "url": "https://open.spotify.com/artist/4I9VsKIkEGLoiJjXvsTYgm"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524200,
+      "name": "Organ Suite: New Cities",
+      "url": "https://open.spotify.com/track/2tbTj5WYMfMsap27RKdAXk"
+    },
+    {
+      "album": {
+        "name": "Perpetulum: Philip Glass, Gavin Bryars, Third Coast Percussion",
+        "url": "https://open.spotify.com/album/1IK7kcKtDHopNnYmz7Moz7"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Third Coast Percussion",
+          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325133,
+      "name": "Perpetulum: Part 3",
+      "url": "https://open.spotify.com/track/4zicpvAsp4zFqWce5qkJWM"
+    },
+    {
+      "album": {
+        "name": "Circles: Piano Concertos by Bach + Glass",
+        "url": "https://open.spotify.com/album/0QO9iPshTAlBinTwtft6Cc"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        },
+        {
+          "name": "A Far Cry",
+          "url": "https://open.spotify.com/artist/1vsRr2muQHYrOKhTNZYLcR"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838333,
+      "name": "Piano Concerto No. 3 (2017): Movement III",
+      "url": "https://open.spotify.com/track/5IZa0EqBWuaNFjw2abchTr"
+    },
+    {
+      "album": {
+        "name": "REWORK (Philip Glass Remixed)",
+        "url": "https://open.spotify.com/album/4YSbn4LNDIKqRhAwKsvaAG"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Protest",
+      "url": "https://open.spotify.com/track/4XdzPrd5c4Gj9Hc4eZLhnS"
+    },
+    {
+      "album": {
+        "name": "Koyaanisqatsi (Complete Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ruApgAZVeqcDJp77jSGg7"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470920,
+      "name": "Pruitt Igoe",
+      "url": "https://open.spotify.com/track/18APnag6mkchj7jEOW921Q"
+    },
+    {
+      "album": {
+        "name": "Les Enfants Terribles",
+        "url": "https://open.spotify.com/album/24ve0G1o3OD89p1YidzbNY"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252626,
+      "name": "Scene 6: The Somnambulist",
+      "url": "https://open.spotify.com/track/55zLvuujvivrSFRQyWkgQK"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: The Secret Agent",
+        "url": "https://open.spotify.com/album/4ybEJTW7MTjFhej34mGmep"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291573,
+      "name": "Secret Agent",
+      "url": "https://open.spotify.com/track/6hWOzchcVbVHuyA5Mb88bs"
+    },
+    {
+      "album": {
+        "name": "The Dublin Guitar Quartet performs Philip Glass",
+        "url": "https://open.spotify.com/album/2JSDiHyjo42UEL07mKVzg2"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Dublin Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2HlDze2dhT575tHcGzZcT5"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106213,
+      "name": "String Quartet no. 2 \"Company\": II.",
+      "url": "https://open.spotify.com/track/74ABFfTOF0Bsq4RRKVfDxs"
+    },
+    {
+      "album": {
+        "name": "Glass: Symphony No. 3 & \"The Hours\" Suite",
+        "url": "https://open.spotify.com/album/43t5Lwsrw5hFGQvJWDXTGv"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        },
+        {
+          "name": "Anne Manson",
+          "url": "https://open.spotify.com/artist/7EEmqfqhXZ7BYhuUNNMG5l"
+        },
+        {
+          "name": "Manitoba Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2j8tNSxw5XlqWAOCAEXU9i"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630893,
+      "name": "Suite from \"The Hours\" - Movement I",
+      "url": "https://open.spotify.com/track/0EXWcVFtynKrWiQqpRDkTh"
+    },
+    {
+      "album": {
+        "name": "Glass: Symphony No. 3 & \"The Hours\" Suite",
+        "url": "https://open.spotify.com/album/43t5Lwsrw5hFGQvJWDXTGv"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Michael Riesman",
+          "url": "https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1"
+        },
+        {
+          "name": "Anne Manson",
+          "url": "https://open.spotify.com/artist/7EEmqfqhXZ7BYhuUNNMG5l"
+        },
+        {
+          "name": "Manitoba Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2j8tNSxw5XlqWAOCAEXU9i"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633200,
+      "name": "Symphony No. 3 - Movement III",
+      "url": "https://open.spotify.com/track/5gALXW3tLnPUUfyMTWQ7So"
+    },
+    {
+      "album": {
+        "name": "Animals In Love",
+        "url": "https://open.spotify.com/album/0fw3dn4dipq2VvRBxe3FFd"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158306,
+      "name": "The Birth Of The Fawn",
+      "url": "https://open.spotify.com/track/6McvV8QnrovqQAXyTt83LO"
+    },
+    {
+      "album": {
+        "name": "The Music of Undertow",
+        "url": "https://open.spotify.com/album/7zkewrlZEO1whDA87Jz2qU"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/5lA87X6SJGMavK3onS0u5d"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Cello Concerto No. 2 \"Naqoyqatsi\"",
+        "url": "https://open.spotify.com/album/0y2jj1haJ3KPI0o1N2h5yO"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Matt Haimovits",
+          "url": "https://open.spotify.com/artist/0Et4eBSPYtjsxlb5taPahX"
+        },
+        {
+          "name": "Dennis Russell Davies",
+          "url": "https://open.spotify.com/artist/6Ap58z5zmafflrr6BRbre8"
+        },
+        {
+          "name": "Cincinnati Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/47lbvBv6v9UShnf2jlHcmu"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453400,
+      "name": "The Vivid Unknown",
+      "url": "https://open.spotify.com/track/7tlwALyPpwfce6EWJilPgn"
+    },
+    {
+      "album": {
+        "name": "Philip Glass: Songs and Poems for Solo Cello",
+        "url": "https://open.spotify.com/album/0QqI4A6ZXroBE5WnVPXere"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Wendy Sutter",
+          "url": "https://open.spotify.com/artist/7hJQ2WEqIPwa9gDf5ht3Wi"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192253,
+      "name": "Tissue No. 7",
+      "url": "https://open.spotify.com/track/4AUjEDqoGjB0T5XyleU1Xu"
+    },
+    {
+      "album": {
+        "name": "The Truman Show (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111831,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV"
+    },
+    {
+      "album": {
+        "name": "The Truman Show",
+        "url": "https://open.spotify.com/album/5Lmt26Q6HEdagwj7AqaBv3"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Burkhard Dallwitz",
+          "url": "https://open.spotify.com/artist/0P4GFxua61mu5nAOtqyE5X"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111831,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/5GdsFfVUUnRvSk3kXu0P5O"
+    },
+    {
+      "album": {
+        "name": "Glass/Bernstein: Violin Concerto No. 1 / Serenade",
+        "url": "https://open.spotify.com/album/0dg6LP47eovNPt5NdhWNsl"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Dennis Russell Davis",
+          "url": "https://open.spotify.com/artist/47AFhmJuHIlo58MbEG8EWe"
+        },
+        {
+          "name": "Bruckner Orchester Linz",
+          "url": "https://open.spotify.com/artist/0P3FfzjOGEHknmwzb2qEQl"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711426,
+      "name": "Violin Concerto No. 1 (1987) Movement II",
+      "url": "https://open.spotify.com/track/14JguI1ttjlnIDzrANthR5"
+    },
+    {
+      "album": {
+        "name": "Philip Glass : Violin Concerto No.2 \"The American Four Seasons\" (10.4.17)",
+        "url": "https://open.spotify.com/album/1nf8b4P40slgI0fQCiCLzO"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Robert McDuffie",
+          "url": "https://open.spotify.com/artist/2auwPdI12KzPvvF23eGpT2"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629106,
+      "name": "Violin Concerto No.2 \"The American Four Seasons\" - Movement II",
+      "url": "https://open.spotify.com/track/6whknaFyzmZ8VBPoi4HD8a"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX30FdZ6jR5Gl"
 }

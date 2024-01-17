@@ -1,577 +1,2333 @@
 {
-  "2022-06-02": 28872,
-  "2022-06-03": 28887,
-  "2022-06-04": 28907,
-  "2022-06-05": 28934,
-  "2022-06-06": 28950,
-  "2022-06-07": 28970,
-  "2022-06-08": 28988,
-  "2022-06-09": 29004,
-  "2022-06-10": 29023,
-  "2022-06-11": 29039,
-  "2022-06-12": 29053,
-  "2022-06-13": 29075,
-  "2022-06-14": 29091,
-  "2022-06-15": 29109,
-  "2022-06-16": 29122,
-  "2022-06-17": 29138,
-  "2022-06-18": 29151,
-  "2022-06-19": 29194,
-  "2022-06-20": 29194,
-  "2022-06-21": 29217,
-  "2022-06-22": 29252,
-  "2022-06-23": 29252,
-  "2022-06-24": 29273,
-  "2022-06-25": 29280,
-  "2022-06-26": 29300,
-  "2022-06-27": 29317,
-  "2022-06-28": 29335,
-  "2022-06-29": 29352,
-  "2022-06-30": 29364,
-  "2022-07-01": 29382,
-  "2022-07-02": 29402,
-  "2022-07-03": 29423,
-  "2022-07-04": 29442,
-  "2022-07-05": 29459,
-  "2022-07-06": 29487,
-  "2022-07-07": 29493,
-  "2022-07-08": 29511,
-  "2022-07-09": 29523,
-  "2022-07-10": 29540,
-  "2022-07-11": 29576,
-  "2022-07-12": 29592,
-  "2022-07-13": 29624,
-  "2022-07-14": 29641,
-  "2022-07-15": 29658,
-  "2022-07-16": 29683,
-  "2022-07-17": 29701,
-  "2022-07-18": 29719,
-  "2022-07-19": 29747,
-  "2022-07-20": 29766,
-  "2022-07-21": 29776,
-  "2022-07-22": 29804,
-  "2022-07-23": 29824,
-  "2022-07-24": 29855,
-  "2022-07-25": 29884,
-  "2022-07-26": 29896,
-  "2022-07-27": 29916,
-  "2022-07-28": 29940,
-  "2022-07-29": 29958,
-  "2022-07-30": 30007,
-  "2022-07-31": 30007,
-  "2022-08-01": 30031,
-  "2022-08-02": 30078,
-  "2022-08-03": 30078,
-  "2022-08-04": 30090,
-  "2022-08-05": 30111,
-  "2022-08-06": 30125,
-  "2022-08-07": 30135,
-  "2022-08-08": 30158,
-  "2022-08-09": 30177,
-  "2022-08-10": 30205,
-  "2022-08-11": 30228,
-  "2022-08-12": 30246,
-  "2022-08-13": 30270,
-  "2022-08-14": 30291,
-  "2022-08-15": 30322,
-  "2022-08-16": 30340,
-  "2022-08-17": 30353,
-  "2022-08-18": 30383,
-  "2022-08-19": 30399,
-  "2022-08-20": 30416,
-  "2022-08-21": 30442,
-  "2022-08-22": 30466,
-  "2022-08-23": 30485,
-  "2022-08-24": 30505,
-  "2022-08-25": 30526,
-  "2022-08-26": 30545,
-  "2022-08-27": 30565,
-  "2022-08-28": 30591,
-  "2022-08-29": 30618,
-  "2022-08-30": 30636,
-  "2022-08-31": 30656,
-  "2022-09-01": 30676,
-  "2022-09-02": 30696,
-  "2022-09-03": 30716,
-  "2022-09-04": 30745,
-  "2022-09-05": 30782,
-  "2022-09-06": 30802,
-  "2022-09-07": 30820,
-  "2022-09-09": 30874,
-  "2022-09-10": 30891,
-  "2022-09-11": 30920,
-  "2022-09-12": 30935,
-  "2022-09-13": 30946,
-  "2022-09-15": 30982,
-  "2022-09-16": 30990,
-  "2022-09-17": 31002,
-  "2022-09-18": 31014,
-  "2022-09-19": 31034,
-  "2022-09-20": 31052,
-  "2022-09-21": 31074,
-  "2022-09-22": 31087,
-  "2022-09-23": 31108,
-  "2022-09-24": 31123,
-  "2022-09-25": 31132,
-  "2022-09-26": 31153,
-  "2022-09-27": 31172,
-  "2022-09-28": 31197,
-  "2022-09-29": 31210,
-  "2022-09-30": 31223,
-  "2022-10-01": 31237,
-  "2022-10-02": 31248,
-  "2022-10-03": 31265,
-  "2022-10-04": 31274,
-  "2022-10-05": 31283,
-  "2022-10-06": 31300,
-  "2022-10-07": 31315,
-  "2022-10-08": 31322,
-  "2022-10-09": 31359,
-  "2022-10-10": 31366,
-  "2022-10-11": 31388,
-  "2022-10-12": 31409,
-  "2022-10-13": 31417,
-  "2022-10-14": 31430,
-  "2022-10-15": 31447,
-  "2022-10-16": 31459,
-  "2022-10-17": 31479,
-  "2022-10-18": 31491,
-  "2022-10-19": 31501,
-  "2022-10-20": 31521,
-  "2022-10-21": 31532,
-  "2022-10-22": 31542,
-  "2022-10-23": 31551,
-  "2022-10-24": 31569,
-  "2022-10-25": 31579,
-  "2022-10-26": 31588,
-  "2022-10-27": 31609,
-  "2022-10-28": 31620,
-  "2022-10-29": 31636,
-  "2022-10-30": 31647,
-  "2022-10-31": 31660,
-  "2022-11-01": 31682,
-  "2022-11-02": 31695,
-  "2022-11-03": 31710,
-  "2022-11-04": 31719,
-  "2022-11-05": 31730,
-  "2022-11-06": 31737,
-  "2022-11-07": 31757,
-  "2022-11-08": 31768,
-  "2022-11-09": 31784,
-  "2022-11-10": 31795,
-  "2022-11-11": 31811,
-  "2022-11-12": 31819,
-  "2022-11-13": 31830,
-  "2022-11-14": 31846,
-  "2022-11-15": 31862,
-  "2022-11-16": 31883,
-  "2022-11-17": 31899,
-  "2022-11-18": 31900,
-  "2022-11-19": 31896,
-  "2022-11-20": 31897,
-  "2022-11-21": 31905,
-  "2022-11-22": 31934,
-  "2022-11-23": 31931,
-  "2022-11-24": 31949,
-  "2022-11-25": 31970,
-  "2022-11-26": 31985,
-  "2022-11-27": 31993,
-  "2022-11-28": 32003,
-  "2022-11-29": 32010,
-  "2022-11-30": 32018,
-  "2022-12-01": 32032,
-  "2022-12-02": 32035,
-  "2022-12-03": 32047,
-  "2022-12-04": 32053,
-  "2022-12-05": 32061,
-  "2022-12-06": 32070,
-  "2022-12-07": 32083,
-  "2022-12-08": 32095,
-  "2022-12-09": 32107,
-  "2022-12-10": 32116,
-  "2022-12-11": 32123,
-  "2022-12-12": 32133,
-  "2022-12-13": 32139,
-  "2022-12-14": 32146,
-  "2022-12-15": 32154,
-  "2022-12-16": 32161,
-  "2022-12-17": 32168,
-  "2022-12-18": 32177,
-  "2022-12-19": 32181,
-  "2022-12-20": 32202,
-  "2022-12-21": 32202,
-  "2022-12-22": 32210,
-  "2022-12-24": 32221,
-  "2022-12-25": 32231,
-  "2022-12-26": 32237,
-  "2022-12-27": 32239,
-  "2022-12-28": 32243,
-  "2022-12-29": 32253,
-  "2022-12-30": 32263,
-  "2022-12-31": 32267,
-  "2023-01-01": 32272,
-  "2023-01-02": 32279,
-  "2023-01-03": 32289,
-  "2023-01-04": 32297,
-  "2023-01-05": 32306,
-  "2023-01-06": 32321,
-  "2023-01-07": 32346,
-  "2023-01-08": 32347,
-  "2023-01-09": 32365,
-  "2023-01-10": 32378,
-  "2023-01-11": 32387,
-  "2023-01-12": 32398,
-  "2023-01-13": 32403,
-  "2023-01-14": 32428,
-  "2023-01-15": 32429,
-  "2023-01-16": 32443,
-  "2023-01-17": 32442,
-  "2023-01-18": 32458,
-  "2023-01-19": 32467,
-  "2023-01-20": 32487,
-  "2023-01-21": 32499,
-  "2023-01-22": 32504,
-  "2023-01-23": 32514,
-  "2023-01-24": 32521,
-  "2023-01-25": 32533,
-  "2023-01-26": 32541,
-  "2023-01-27": 32553,
-  "2023-01-28": 32567,
-  "2023-01-29": 32575,
-  "2023-01-30": 32592,
-  "2023-01-31": 32592,
-  "2023-02-01": 32624,
-  "2023-02-02": 32633,
-  "2023-02-03": 32641,
-  "2023-02-04": 32652,
-  "2023-02-05": 32663,
-  "2023-02-06": 32674,
-  "2023-02-07": 32684,
-  "2023-02-08": 32710,
-  "2023-02-09": 32710,
-  "2023-02-10": 32720,
-  "2023-02-11": 32731,
-  "2023-02-12": 32751,
-  "2023-02-13": 32756,
-  "2023-02-14": 32756,
-  "2023-02-15": 32772,
-  "2023-02-16": 32775,
-  "2023-02-17": 32786,
-  "2023-02-18": 32802,
-  "2023-02-19": 32804,
-  "2023-02-20": 32812,
-  "2023-02-21": 32827,
-  "2023-02-22": 32844,
-  "2023-02-23": 32862,
-  "2023-02-24": 32867,
-  "2023-02-25": 32879,
-  "2023-02-26": 32885,
-  "2023-02-27": 32907,
-  "2023-02-28": 32907,
-  "2023-03-01": 32918,
-  "2023-03-02": 32926,
-  "2023-03-03": 32935,
-  "2023-03-04": 32942,
-  "2023-03-05": 32959,
-  "2023-03-06": 32959,
-  "2023-03-07": 32969,
-  "2023-03-08": 32980,
-  "2023-03-09": 32992,
-  "2023-03-10": 32996,
-  "2023-03-11": 32998,
-  "2023-03-12": 33012,
-  "2023-03-13": 33025,
-  "2023-03-14": 33035,
-  "2023-03-15": 33040,
-  "2023-03-16": 33052,
-  "2023-03-17": 33052,
-  "2023-03-18": 33073,
-  "2023-03-19": 33081,
-  "2023-03-20": 33093,
-  "2023-03-21": 33102,
-  "2023-03-22": 33107,
-  "2023-03-23": 33119,
-  "2023-03-24": 33119,
-  "2023-03-25": 33141,
-  "2023-03-26": 33150,
-  "2023-03-27": 33162,
-  "2023-03-28": 33176,
-  "2023-03-29": 33181,
-  "2023-03-30": 33198,
-  "2023-03-31": 33198,
-  "2023-04-01": 33207,
-  "2023-04-02": 33225,
-  "2023-04-03": 33283,
-  "2023-04-04": 33354,
-  "2023-04-05": 33416,
-  "2023-04-06": 33482,
-  "2023-04-07": 33601,
-  "2023-04-09": 33876,
-  "2023-04-10": 33928,
-  "2023-04-11": 33979,
-  "2023-04-12": 33979,
-  "2023-04-13": 34000,
-  "2023-04-14": 34020,
-  "2023-04-15": 34033,
-  "2023-04-16": 34060,
-  "2023-04-17": 34092,
-  "2023-04-18": 34112,
-  "2023-04-19": 34136,
-  "2023-04-20": 34154,
-  "2023-04-21": 34178,
-  "2023-04-22": 34196,
-  "2023-04-23": 34216,
-  "2023-04-24": 34236,
-  "2023-04-25": 34257,
-  "2023-04-26": 34282,
-  "2023-04-27": 34299,
-  "2023-04-28": 34317,
-  "2023-04-29": 34331,
-  "2023-04-30": 34336,
-  "2023-05-01": 34354,
-  "2023-05-02": 34382,
-  "2023-05-03": 34408,
-  "2023-05-04": 34431,
-  "2023-05-05": 34448,
-  "2023-05-06": 34462,
-  "2023-05-07": 34482,
-  "2023-05-08": 34499,
-  "2023-05-09": 34519,
-  "2023-05-10": 34539,
-  "2023-05-11": 34558,
-  "2023-05-12": 34576,
-  "2023-05-13": 34589,
-  "2023-05-14": 34605,
-  "2023-05-15": 34620,
-  "2023-05-16": 34640,
-  "2023-05-17": 34649,
-  "2023-05-18": 34661,
-  "2023-05-19": 34683,
-  "2023-05-20": 34720,
-  "2023-05-21": 34720,
-  "2023-05-22": 34720,
-  "2023-05-23": 34752,
-  "2023-05-24": 34775,
-  "2023-05-25": 34782,
-  "2023-05-26": 34801,
-  "2023-05-27": 34816,
-  "2023-05-28": 34840,
-  "2023-05-29": 34840,
-  "2023-05-30": 34872,
-  "2023-05-31": 34889,
-  "2023-06-01": 34905,
-  "2023-06-02": 34923,
-  "2023-06-03": 34942,
-  "2023-06-04": 34954,
-  "2023-06-05": 34971,
-  "2023-06-06": 34979,
-  "2023-06-07": 34995,
-  "2023-06-08": 35010,
-  "2023-06-09": 35020,
-  "2023-06-10": 35031,
-  "2023-06-11": 35044,
-  "2023-06-12": 35067,
-  "2023-06-13": 35090,
-  "2023-06-14": 35108,
-  "2023-06-15": 35125,
-  "2023-06-16": 35138,
-  "2023-06-17": 35146,
-  "2023-06-18": 35155,
-  "2023-06-19": 35180,
-  "2023-06-20": 35199,
-  "2023-06-21": 35213,
-  "2023-06-22": 35223,
-  "2023-06-23": 35242,
-  "2023-06-24": 35252,
-  "2023-06-25": 35274,
-  "2023-06-26": 35299,
-  "2023-06-27": 35327,
-  "2023-06-28": 35348,
-  "2023-06-29": 35376,
-  "2023-06-30": 35407,
-  "2023-07-01": 35427,
-  "2023-07-02": 35427,
-  "2023-07-03": 35450,
-  "2023-07-04": 35462,
-  "2023-07-05": 35481,
-  "2023-07-06": 35503,
-  "2023-07-07": 35503,
-  "2023-07-08": 35520,
-  "2023-07-09": 35543,
-  "2023-07-10": 35558,
-  "2023-07-11": 35574,
-  "2023-07-12": 35587,
-  "2023-07-13": 35606,
-  "2023-07-14": 35625,
-  "2023-07-15": 35628,
-  "2023-07-16": 35653,
-  "2023-07-17": 35669,
-  "2023-07-18": 35678,
-  "2023-07-19": 35701,
-  "2023-07-20": 35716,
-  "2023-07-21": 35732,
-  "2023-07-22": 35745,
-  "2023-07-23": 35775,
-  "2023-07-24": 35795,
-  "2023-07-25": 35818,
-  "2023-07-26": 35834,
-  "2023-07-27": 35847,
-  "2023-07-28": 35864,
-  "2023-07-29": 35886,
-  "2023-07-30": 35902,
-  "2023-07-31": 35924,
-  "2023-08-01": 35946,
-  "2023-08-02": 35956,
-  "2023-08-03": 35971,
-  "2023-08-04": 35986,
-  "2023-08-05": 36013,
-  "2023-08-06": 36047,
-  "2023-08-07": 36047,
-  "2023-08-08": 36072,
-  "2023-08-09": 36094,
-  "2023-08-10": 36118,
-  "2023-08-11": 36137,
-  "2023-08-12": 36167,
-  "2023-08-13": 36191,
-  "2023-08-14": 36214,
-  "2023-08-15": 36254,
-  "2023-08-16": 36254,
-  "2023-08-17": 36268,
-  "2023-08-18": 36293,
-  "2023-08-19": 36311,
-  "2023-08-20": 36332,
-  "2023-08-21": 36362,
-  "2023-08-22": 36382,
-  "2023-08-23": 36400,
-  "2023-08-24": 36428,
-  "2023-08-25": 36454,
-  "2023-08-26": 36473,
-  "2023-08-27": 36498,
-  "2023-08-28": 36519,
-  "2023-08-29": 36550,
-  "2023-08-30": 36573,
-  "2023-08-31": 36590,
-  "2023-09-01": 36626,
-  "2023-09-02": 36626,
-  "2023-09-03": 36652,
-  "2023-09-04": 36679,
-  "2023-09-05": 36699,
-  "2023-09-06": 36715,
-  "2023-09-07": 36737,
-  "2023-09-08": 36755,
-  "2023-09-09": 36771,
-  "2023-09-10": 36791,
-  "2023-09-11": 36825,
-  "2023-09-12": 36850,
-  "2023-09-13": 36869,
-  "2023-09-14": 36888,
-  "2023-09-15": 36914,
-  "2023-09-16": 36942,
-  "2023-09-17": 36972,
-  "2023-09-18": 37004,
-  "2023-09-19": 37031,
-  "2023-09-20": 37052,
-  "2023-09-21": 37074,
-  "2023-09-22": 37102,
-  "2023-09-23": 37114,
-  "2023-09-24": 37135,
-  "2023-09-25": 37153,
-  "2023-09-26": 37186,
-  "2023-09-27": 37208,
-  "2023-09-28": 37232,
-  "2023-09-29": 37252,
-  "2023-09-30": 37271,
-  "2023-10-01": 37285,
-  "2023-10-02": 37305,
-  "2023-10-03": 37333,
-  "2023-10-04": 37356,
-  "2023-10-05": 37372,
-  "2023-10-06": 37407,
-  "2023-10-07": 37425,
-  "2023-10-08": 37450,
-  "2023-10-09": 37477,
-  "2023-10-10": 37499,
-  "2023-10-11": 37523,
-  "2023-10-12": 37523,
-  "2023-10-13": 37533,
-  "2023-10-14": 37544,
-  "2023-10-15": 37571,
-  "2023-10-16": 37602,
-  "2023-10-17": 37628,
-  "2023-10-18": 37655,
-  "2023-10-19": 37676,
-  "2023-10-20": 37695,
-  "2023-10-21": 37722,
-  "2023-10-22": 37745,
-  "2023-10-23": 37777,
-  "2023-10-24": 37807,
-  "2023-10-25": 37832,
-  "2023-10-26": 37858,
-  "2023-10-27": 37881,
-  "2023-10-28": 37895,
-  "2023-10-29": 37914,
-  "2023-10-30": 37951,
-  "2023-10-31": 37951,
-  "2023-11-01": 37974,
-  "2023-11-02": 37989,
-  "2023-11-03": 38007,
-  "2023-11-04": 38021,
-  "2023-11-05": 38048,
-  "2023-11-06": 38071,
-  "2023-11-07": 38101,
-  "2023-11-08": 38125,
-  "2023-11-09": 38147,
-  "2023-11-10": 38167,
-  "2023-11-11": 38187,
-  "2023-11-12": 38202,
-  "2023-11-13": 38227,
-  "2023-11-14": 38246,
-  "2023-11-15": 38246,
-  "2023-11-16": 38290,
-  "2023-11-17": 38327,
-  "2023-11-18": 38327,
-  "2023-11-19": 38345,
-  "2023-11-20": 38362,
-  "2023-11-21": 38379,
-  "2023-11-22": 38395,
-  "2023-11-23": 38408,
-  "2023-11-24": 38429,
-  "2023-11-25": 38445,
-  "2023-11-26": 38461,
-  "2023-11-27": 38485,
-  "2023-11-28": 38504,
-  "2023-11-29": 38539,
-  "2023-11-30": 38539,
-  "2023-12-01": 38562,
-  "2023-12-02": 38580,
-  "2023-12-03": 38600,
-  "2023-12-04": 38621,
-  "2023-12-05": 38637,
-  "2023-12-06": 38655,
-  "2023-12-07": 38679,
-  "2023-12-08": 38698,
-  "2023-12-09": 38703,
-  "2023-12-10": 38717,
-  "2023-12-11": 38731,
-  "2023-12-12": 38745,
-  "2023-12-13": 38761,
-  "2023-12-14": 38782,
-  "2023-12-15": 38785,
-  "2023-12-16": 38792,
-  "2023-12-17": 38797,
-  "2023-12-18": 38803,
-  "2023-12-19": 38819,
-  "2023-12-20": 38830,
-  "2023-12-21": 38850,
-  "2023-12-22": 38855,
-  "2023-12-23": 38865,
-  "2023-12-24": 38882,
-  "2023-12-25": 38887,
-  "2023-12-26": 38898,
-  "2023-12-27": 38913,
-  "2023-12-30": 38937,
-  "2023-12-31": 38949,
-  "2024-01-01": 38965,
-  "2024-01-02": 38976,
-  "2024-01-03": 38984
+  "2024-01-17": 39090,
+  "date_first_scraped": "2022-06-02",
+  "description": "Be inspired and let the music heal your soul and uplift your spirits.",
+  "name": "Sing His Praises",
+  "tracks": [
+    {
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 178189,
+      "name": "10,000 Reasons / What a Beautiful Name",
+      "url": "https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL"
+    },
+    {
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "10,000 Reasons / What a Beautiful Name",
+      "url": "https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED"
+    },
+    {
+      "album": {
+        "name": "10,000 Reasons / What a Beautiful Name",
+        "url": "https://open.spotify.com/album/00rMWiOm3uX2yNcvsvLns4"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178189,
+      "name": "10,000 Reasons / What a Beautiful Name",
+      "url": "https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0"
+    },
+    {
+      "album": {
+        "name": "Age to Age",
+        "url": "https://open.spotify.com/album/6RiosIiIQrqNjPnSAZINqd"
+      },
+      "artists": [
+        {
+          "name": "Living Word Christian Music",
+          "url": "https://open.spotify.com/artist/38OYSwcUYA1udLHszdRFAn"
+        },
+        {
+          "name": "Ferdinand Aragon",
+          "url": "https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk"
+        },
+        {
+          "name": "Delight Grace",
+          "url": "https://open.spotify.com/artist/2H1kZsKy72sPXPNTIhsB3T"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329383,
+      "name": "Age to Age",
+      "url": "https://open.spotify.com/track/1bhqpLlmbpvOVcFNx0CQ8Y"
+    },
+    {
+      "album": {
+        "name": "AIK",
+        "url": "https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0"
+      },
+      "artists": [
+        {
+          "name": "JC Ronato",
+          "url": "https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279166,
+      "name": "AIK",
+      "url": "https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ"
+    },
+    {
+      "album": {
+        "name": "Ako Ay Iyo",
+        "url": "https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT"
+      },
+      "artists": [
+        {
+          "name": "Yeuseff",
+          "url": "https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn"
+        },
+        {
+          "name": "Deovincci Dasig",
+          "url": "https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240117,
+      "name": "Ako Ay Iyo",
+      "url": "https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW"
+    },
+    {
+      "album": {
+        "name": "Ako\u2019y Lumalapit",
+        "url": "https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp"
+      },
+      "artists": [
+        {
+          "name": "Avenue of Grace Worship",
+          "url": "https://open.spotify.com/artist/2NwMDlv8xyqpptsuasQswC"
+        },
+        {
+          "name": "Jeanne Columbine Rodriguez",
+          "url": "https://open.spotify.com/artist/36hIhBw88ScawVgplXcMYk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317492,
+      "name": "Ako\u2019y Lumalapit",
+      "url": "https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex"
+    },
+    {
+      "album": {
+        "name": "Another In The Fire (Tagalog Version)",
+        "url": "https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255787,
+      "name": "Another In The Fire (Tagalog Version)",
+      "url": "https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf"
+    },
+    {
+      "album": {
+        "name": "Bagong Buhay",
+        "url": "https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5"
+      },
+      "artists": [
+        {
+          "name": "Hazel Faith",
+          "url": "https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Bagong Buhay",
+      "url": "https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/3yhuVybhx9FmLa5LPJFqhF"
+      },
+      "artists": [
+        {
+          "name": "Ogie Alcasid",
+          "url": "https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3q7FPEDlu4LPAt51vovq82"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli"
+      },
+      "artists": [
+        {
+          "name": "Ogie Alcasid",
+          "url": "https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 334000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov"
+    },
+    {
+      "album": {
+        "name": "blink",
+        "url": "https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "blink",
+      "url": "https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG"
+    },
+    {
+      "album": {
+        "name": "Wonderstruck",
+        "url": "https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563145,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp"
+    },
+    {
+      "album": {
+        "name": "BUNTONG HININGA",
+        "url": "https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2"
+      },
+      "artists": [
+        {
+          "name": "EJ De Perio",
+          "url": "https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268541,
+      "name": "BUNTONG HININGA",
+      "url": "https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK"
+    },
+    {
+      "album": {
+        "name": "Burst into Songs Ministries",
+        "url": "https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lopez",
+          "url": "https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Change My Heart, Oh God",
+      "url": "https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr"
+    },
+    {
+      "album": {
+        "name": "Burst into Songs Ministries",
+        "url": "https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lopez",
+          "url": "https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 324000,
+      "name": "Change My Heart, Oh God",
+      "url": "https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/7aO5bOCwrYCx33fUzuaKVO"
+      },
+      "artists": [
+        {
+          "name": "Hazel Faith",
+          "url": "https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190654,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/21ECSoDa2Z8NjzNs9133x0"
+    },
+    {
+      "album": {
+        "name": "Dakilang Kaloob",
+        "url": "https://open.spotify.com/album/52JCoJKm2RHU6NnUysVoj8"
+      },
+      "artists": [
+        {
+          "name": "Biyaya at Papuri",
+          "url": "https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235826,
+      "name": "Dakilang Kaloob",
+      "url": "https://open.spotify.com/track/7fTbQWBsJvShgg1wc3L7ta"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Josh Kpozehouen",
+          "url": "https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+    },
+    {
+      "album": {
+        "name": "ENOUGH",
+        "url": "https://open.spotify.com/album/3RyQfb4ouTf4b7clUhSEPY"
+      },
+      "artists": [
+        {
+          "name": "Niya",
+          "url": "https://open.spotify.com/artist/7usk2ErISYUqxthDAtYqap"
+        },
+        {
+          "name": "Ruth Lee Resuello",
+          "url": "https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20"
+        },
+        {
+          "name": "Shayne Carmel",
+          "url": "https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165673,
+      "name": "ENOUGH",
+      "url": "https://open.spotify.com/track/71LGMpCjCz3k4uhVZkH3f6"
+    },
+    {
+      "album": {
+        "name": "Everything You Are",
+        "url": "https://open.spotify.com/album/2u37n6yGiFl0UoGkqYwRUq"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210088,
+      "name": "Everything You Are",
+      "url": "https://open.spotify.com/track/6NAAoxdiUNwHSQUVj8dOns"
+    },
+    {
+      "album": {
+        "name": "Far Greater Love",
+        "url": "https://open.spotify.com/album/5SV09W7HxgLw6ETLhNrF6q"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        },
+        {
+          "name": "Toto Sorioso",
+          "url": "https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250976,
+      "name": "Far Greater Love",
+      "url": "https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj"
+    },
+    {
+      "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/4khy1mvYxpPCFeSmsnUT7A"
+      },
+      "artists": [
+        {
+          "name": "Are You Listening?",
+          "url": "https://open.spotify.com/artist/2LFfeV95OHrftjthC9Nwz5"
+        },
+        {
+          "name": "Amber Davis",
+          "url": "https://open.spotify.com/artist/3udH8JnPyK3qIYot37kBwW"
+        },
+        {
+          "name": "Marcus Davis Jr.",
+          "url": "https://open.spotify.com/artist/4P6d2bv9BELY00yshUdMgc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "Fight for Tomorrow",
+      "url": "https://open.spotify.com/track/4H3oOIKGvdpgJsDrF3pdr1"
+    },
+    {
+      "album": {
+        "name": "FORTRESS",
+        "url": "https://open.spotify.com/album/1ya0fmkQ86Yh1eCqAGpXCV"
+      },
+      "artists": [
+        {
+          "name": "nathan huang",
+          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224142,
+      "name": "FORTRESS",
+      "url": "https://open.spotify.com/track/07PSmpoDsd7gKHov4mGcn1"
+    },
+    {
+      "album": {
+        "name": "FORTRESS (WATERWALK Sessions Version)",
+        "url": "https://open.spotify.com/album/641t7jcTZmxUtlFEugUihJ"
+      },
+      "artists": [
+        {
+          "name": "nathan huang",
+          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232485,
+      "name": "FORTRESS - WATERWALK Sessions Version",
+      "url": "https://open.spotify.com/track/6GxQHdGG4k3hsahfNPm4dl"
+    },
+    {
+      "album": {
+        "name": "Love More",
+        "url": "https://open.spotify.com/album/6Piqo6T3fkhtdXbbw6PpqH"
+      },
+      "artists": [
+        {
+          "name": "Ablaze Music",
+          "url": "https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336960,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/00T1wuCx37A8TP4Brl5M3a"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3OEdV5rSGQxZ3BNxX3a7pj"
+      },
+      "artists": [
+        {
+          "name": "Mansville Worship",
+          "url": "https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0"
+        },
+        {
+          "name": "Georg Laurente",
+          "url": "https://open.spotify.com/artist/0E3GfAoEP9sF0LGTCNK34t"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3IKjZWUe8xnV98x17Pehvc"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7hTzsUnPyuqCbqWPBH7iYZ"
+      },
+      "artists": [
+        {
+          "name": "LG Fuentes",
+          "url": "https://open.spotify.com/artist/5C7ZZauzEZgsMYCdRPEKNu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289600,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0oBSBvVSq4URqyyxpaM3sy"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Instead",
+        "url": "https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt"
+      },
+      "artists": [
+        {
+          "name": "Mary Oz",
+          "url": "https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p"
+        },
+        {
+          "name": "Ike Ozaraga",
+          "url": "https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Hallelujah Instead",
+      "url": "https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6"
+    },
+    {
+      "album": {
+        "name": "Together \u2013 EP",
+        "url": "https://open.spotify.com/album/54CX7lXUMplryuXFTCjkbM"
+      },
+      "artists": [
+        {
+          "name": "Feast Worship",
+          "url": "https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346285,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/4kMA31fDbWXxbIO7A5Zd13"
+    },
+    {
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0iO6fYCTOPYurJHcrcoDYv"
+      },
+      "artists": [
+        {
+          "name": "Zack Sympson",
+          "url": "https://open.spotify.com/artist/416D28zAVhFTjDuC6JqSdA"
+        },
+        {
+          "name": "Rachel Mills",
+          "url": "https://open.spotify.com/artist/21d4U06RQBVu5hEWKV4hC0"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331162,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3KX8BuXC0wOWHeaZmVS7f9"
+    },
+    {
+      "album": {
+        "name": "I Can Live Again (Reimagined)",
+        "url": "https://open.spotify.com/album/7CpXmwCa0CRjBfBTCuse2Y"
+      },
+      "artists": [
+        {
+          "name": "thelukasband",
+          "url": "https://open.spotify.com/artist/6QZIw3ZNQkMlypwr0xkwKE"
+        },
+        {
+          "name": "Julz Savard",
+          "url": "https://open.spotify.com/artist/4zqtMz5qTefYQAwhQg3rUt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232571,
+      "name": "I Can Live Again (Reimagined)",
+      "url": "https://open.spotify.com/track/4BNZyOQEWDrnpltb4IjKjV"
+    },
+    {
+      "album": {
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/6xYRuoQsypJrrAPpxlDOKi"
+      },
+      "artists": [
+        {
+          "name": "Mansville Worship",
+          "url": "https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0"
+        },
+        {
+          "name": "Stephen Nellas",
+          "url": "https://open.spotify.com/artist/2Cg3fkzikZw5MG4OQqYohL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/6WWgbKRm25AUoiaNun07tn"
+    },
+    {
+      "album": {
+        "name": "Take Heart (Again)",
+        "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314493,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
+    },
+    {
+      "album": {
+        "name": "Lord of My Life",
+        "url": "https://open.spotify.com/album/3VZHfSoZQBzSqTcuZa6pM1"
+      },
+      "artists": [
+        {
+          "name": "Fatima Soriano",
+          "url": "https://open.spotify.com/artist/4kAGu0OFEMwgWAZYF3KITq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325400,
+      "name": "I Will Trust You",
+      "url": "https://open.spotify.com/track/4KFJJ4Yem7vQQi9W8JlcMK"
+    },
+    {
+      "album": {
+        "name": "Ihip ng Trumpeta, Awit ng Papuri",
+        "url": "https://open.spotify.com/album/4WRKKj9dhvuxe7gNF8Cz0N"
+      },
+      "artists": [
+        {
+          "name": "Darren Sanchez",
+          "url": "https://open.spotify.com/artist/6u3QwegLEwu8RLoxSp5frv"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272810,
+      "name": "Ihip ng Trumpeta, Awit ng Papuri",
+      "url": "https://open.spotify.com/track/728ZiVcGHHxpTPzgDZYyXR"
+    },
+    {
+      "album": {
+        "name": "Ikaw Ang Pag-ibig",
+        "url": "https://open.spotify.com/album/2JUq5w3bUz1EoVYsg5W0GI"
+      },
+      "artists": [
+        {
+          "name": "KDR Music House",
+          "url": "https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0"
+        },
+        {
+          "name": "Reynen Nueva",
+          "url": "https://open.spotify.com/artist/78I7nq1txl16GLWwhohOkN"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265196,
+      "name": "Ikaw Ang Pag-ibig",
+      "url": "https://open.spotify.com/track/1wUSsvDFhZwwbtpiUeYl2h"
+    },
+    {
+      "album": {
+        "name": "Ililigtas Ka Niya",
+        "url": "https://open.spotify.com/album/1eSVR8lo6sErkXaqrQPpah"
+      },
+      "artists": [
+        {
+          "name": "ABS-CBN Music All Star",
+          "url": "https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278260,
+      "name": "Ililigtas Ka Niya",
+      "url": "https://open.spotify.com/track/00LHqyWw8CoUcqk3jgCUUb"
+    },
+    {
+      "album": {
+        "name": "Ililigtas Ka Niya",
+        "url": "https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey"
+      },
+      "artists": [
+        {
+          "name": "ABS-CBN Music All Star",
+          "url": "https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 278260,
+      "name": "Ililigtas Ka Niya",
+      "url": "https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/78tYA5dpbLsaD3GYiLZT4U"
+      },
+      "artists": [
+        {
+          "name": "Liveloud Worship",
+          "url": "https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253484,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/4irfvqovhqNcmZ6fMfDVCS"
+    },
+    {
+      "album": {
+        "name": "KARANGALAN NAMIN",
+        "url": "https://open.spotify.com/album/20zRwgyneQvI8ZXHyKvIZM"
+      },
+      "artists": [
+        {
+          "name": "Poleane Carmen",
+          "url": "https://open.spotify.com/artist/7sIrJsdICtBotqfN5KioK2"
+        },
+        {
+          "name": "Keyl Mizpah",
+          "url": "https://open.spotify.com/artist/1ie4vlw7U4P9vtxCbTYvWW"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266529,
+      "name": "KARANGALAN NAMIN",
+      "url": "https://open.spotify.com/track/3nVI3y69ibD4DfgAT30dUv"
+    },
+    {
+      "album": {
+        "name": "Kay Buti Buti Mo Panginoon",
+        "url": "https://open.spotify.com/album/0DJsbDzh4VWj3A8diEbRVe"
+      },
+      "artists": [
+        {
+          "name": "Oswald PH",
+          "url": "https://open.spotify.com/artist/753ZE0RrSAhNLNlJfUvi9N"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "Kay Buti Buti Mo Panginoon",
+      "url": "https://open.spotify.com/track/4USpxYHu8IgXAEfDbz4he5"
+    },
+    {
+      "album": {
+        "name": "Kingdom Coming",
+        "url": "https://open.spotify.com/album/1iLNh8DaRIhxWv4bTJU3ZK"
+      },
+      "artists": [
+        {
+          "name": "imPULSE Worship",
+          "url": "https://open.spotify.com/artist/0Y8uyspVmA4AACJrlNIrVj"
+        },
+        {
+          "name": "one vo1ce",
+          "url": "https://open.spotify.com/artist/2XbrRvsnu4m56qwgBx5nnD"
+        },
+        {
+          "name": "Tim Be Told",
+          "url": "https://open.spotify.com/artist/6L0mxhIWyV5ySKJvWrD70h"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236472,
+      "name": "Kingdom Coming",
+      "url": "https://open.spotify.com/track/4tWAElVjppLMaPE6tN52IW"
+    },
+    {
+      "album": {
+        "name": "Kingdom in Me",
+        "url": "https://open.spotify.com/album/3bGmWMZ9GCi1duR6IGDYU0"
+      },
+      "artists": [
+        {
+          "name": "Chona Borromeo",
+          "url": "https://open.spotify.com/artist/1cl58aUsUgtpAdD7jZBVjs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417376,
+      "name": "Kingdom in Me",
+      "url": "https://open.spotify.com/track/4JtuiiHbqw1ksx6WmN0E6i"
+    },
+    {
+      "album": {
+        "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
+        "url": "https://open.spotify.com/album/3ATRZ1qXdv6WPhWAvrDGVw"
+      },
+      "artists": [
+        {
+          "name": "Floyd Tena",
+          "url": "https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255915,
+      "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
+      "url": "https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ"
+    },
+    {
+      "album": {
+        "name": "Let Go and Let God",
+        "url": "https://open.spotify.com/album/1K7msly7UcnICxvHCcEDkW"
+      },
+      "artists": [
+        {
+          "name": "Siso",
+          "url": "https://open.spotify.com/artist/0BaEB7y6wk1YJVhbnoV2rf"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "Let Go and Let God",
+      "url": "https://open.spotify.com/track/2yjDIpMlli8JJZINM7qgSo"
+    },
+    {
+      "album": {
+        "name": "Let God",
+        "url": "https://open.spotify.com/album/7GaTQ2O0gRXqM8deTXzrOw"
+      },
+      "artists": [
+        {
+          "name": "Lara Maigue",
+          "url": "https://open.spotify.com/artist/6ipkg2AA87aARg3YLnHBWX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241304,
+      "name": "Let God",
+      "url": "https://open.spotify.com/track/5rLxqWMkBul7VvrXKkXNMa"
+    },
+    {
+      "album": {
+        "name": "Lighthouse in the Storm",
+        "url": "https://open.spotify.com/album/6ASnuC91fC5llmBogdwmg2"
+      },
+      "artists": [
+        {
+          "name": "Hazel Faith",
+          "url": "https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209038,
+      "name": "Lighthouse in the Storm",
+      "url": "https://open.spotify.com/track/4ZNpAwmAFBjIkE49GUqDUm"
+    },
+    {
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/5WcZ6Do5YLPerJ6F8abx0E"
+      },
+      "artists": [
+        {
+          "name": "Feast Worship",
+          "url": "https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344500,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/2KCT1NuIYxKHSy8z6WLpgM"
+    },
+    {
+      "album": {
+        "name": "Lord Speak",
+        "url": "https://open.spotify.com/album/71uUBDN7MkIv4EGk2Usad5"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 273305,
+      "name": "Lord Speak",
+      "url": "https://open.spotify.com/track/20WFxQ4lx4hvxvnuu13FSN"
+    },
+    {
+      "album": {
+        "name": "Lord Speak",
+        "url": "https://open.spotify.com/album/07wLGsjHbpbFxLDlT9tgvY"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273305,
+      "name": "Lord Speak",
+      "url": "https://open.spotify.com/track/2D3ZFUBbnKSJklgoE7w3gb"
+    },
+    {
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+    },
+    {
+      "album": {
+        "name": "Lubos",
+        "url": "https://open.spotify.com/album/3ibXFdy7QhfzDD5qiPOnJu"
+      },
+      "artists": [
+        {
+          "name": "Mansville Worship",
+          "url": "https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0"
+        },
+        {
+          "name": "Glynis Gozo-Mansueto",
+          "url": "https://open.spotify.com/artist/0hRbanU6jFvWsiMlcBwm6D"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256004,
+      "name": "Lubos",
+      "url": "https://open.spotify.com/track/2jvC5YCDFuw0frV6BKKD6w"
+    },
+    {
+      "album": {
+        "name": "Luwalhati",
+        "url": "https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is"
+      },
+      "artists": [
+        {
+          "name": "Biyaya at Papuri",
+          "url": "https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Luwalhati",
+      "url": "https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE"
+    },
+    {
+      "album": {
+        "name": "Maghihilom",
+        "url": "https://open.spotify.com/album/7Mpu2umw5scLP0dq7mLwUb"
+      },
+      "artists": [
+        {
+          "name": "JC Ronato",
+          "url": "https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Maghihilom",
+      "url": "https://open.spotify.com/track/0CxD8FCxanmV0YvxyZySEI"
+    },
+    {
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/7ADkYzRHMGejbX9NmYlsa4"
+      },
+      "artists": [
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260771,
+      "name": "Malaya Na",
+      "url": "https://open.spotify.com/track/1BKuNBuBTkBNHvda2vvUve"
+    },
+    {
+      "album": {
+        "name": "MANLILIKHARI",
+        "url": "https://open.spotify.com/album/20C1u82pG3ozJxB9SHxawT"
+      },
+      "artists": [
+        {
+          "name": "Gianne Hinolan",
+          "url": "https://open.spotify.com/artist/5OHIMSFA9R88wAW10q2Q1H"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307806,
+      "name": "MANLILIKHARI",
+      "url": "https://open.spotify.com/track/2mgegQ1inujns4tBfKiJua"
+    },
+    {
+      "album": {
+        "name": "MAPAYAPA (Feat. Hazel Faith)",
+        "url": "https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        },
+        {
+          "name": "Hazel Faith",
+          "url": "https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262062,
+      "name": "MAPAYAPA - Feat. Hazel Faith",
+      "url": "https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU"
+    },
+    {
+      "album": {
+        "name": "MAPAYAPA (WATERWALK Sessions Version)",
+        "url": "https://open.spotify.com/album/6rlAgI26tV91JNQZdWcZXp"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        },
+        {
+          "name": "Hazel Faith",
+          "url": "https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265521,
+      "name": "MAPAYAPA - WATERWALK Sessions Version",
+      "url": "https://open.spotify.com/track/2HPehVMri8sxetneSsiI3J"
+    },
+    {
+      "album": {
+        "name": "Masdan",
+        "url": "https://open.spotify.com/album/0C4oPwJehejJaLwXwwMOz5"
+      },
+      "artists": [
+        {
+          "name": "KDR Music House",
+          "url": "https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0"
+        },
+        {
+          "name": "JAN CASEY",
+          "url": "https://open.spotify.com/artist/4R7xUiZyIO9X82xReso9a6"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195074,
+      "name": "Masdan",
+      "url": "https://open.spotify.com/track/0QOIZMsc6tV1UsNEk6Ao9x"
+    },
+    {
+      "album": {
+        "name": "More of You",
+        "url": "https://open.spotify.com/album/1ZuRlofCPYnkEWpq8DPWf9"
+      },
+      "artists": [
+        {
+          "name": "Zack Sympson",
+          "url": "https://open.spotify.com/artist/416D28zAVhFTjDuC6JqSdA"
+        },
+        {
+          "name": "Rachel Mills",
+          "url": "https://open.spotify.com/artist/4CFJDpfKLzcK4HPTM1b17g"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285230,
+      "name": "More of You",
+      "url": "https://open.spotify.com/track/2FBg070EGrNodMbX3sWIVE"
+    },
+    {
+      "album": {
+        "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+        "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
+    },
+    {
+      "album": {
+        "name": "Nasaan Kaya Ako",
+        "url": "https://open.spotify.com/album/0rVyPpwmXgnvk7Z7bKYs7B"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 244239,
+      "name": "Nasaan Kaya Ako",
+      "url": "https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ"
+    },
+    {
+      "album": {
+        "name": "Nasaan Kaya Ako",
+        "url": "https://open.spotify.com/album/0smW8euaOWK2X8o8j5Y3gy"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244239,
+      "name": "Nasaan Kaya Ako",
+      "url": "https://open.spotify.com/track/2ynqCIq6D7vJKL873GFQrt"
+    },
+    {
+      "album": {
+        "name": "Never Wanna Go Back",
+        "url": "https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX"
+      },
+      "artists": [
+        {
+          "name": "May Angeles",
+          "url": "https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh"
+        },
+        {
+          "name": "People & Songs",
+          "url": "https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Never Wanna Go Back",
+      "url": "https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3"
+    },
+    {
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG"
+      },
+      "artists": [
+        {
+          "name": "Cocoy Claravall",
+          "url": "https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq"
+        },
+        {
+          "name": "Jeng Belen",
+          "url": "https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Impossible (Tagalog Version)",
+        "url": "https://open.spotify.com/album/3w0EPoqOH21BOPYfZORYwq"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245688,
+      "name": "Nothing Is Impossible (Tagalog Version)",
+      "url": "https://open.spotify.com/track/5bIfEy5ND1XLIozSI6nY1x"
+    },
+    {
+      "album": {
+        "name": "O AMING DAKILA",
+        "url": "https://open.spotify.com/album/6YaULX1ApjUcL2Otl6wsqo"
+      },
+      "artists": [
+        {
+          "name": "James Reyes",
+          "url": "https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287785,
+      "name": "O AMING DAKILA",
+      "url": "https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq"
+    },
+    {
+      "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 536000,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i"
+    },
+    {
+      "album": {
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "album": {
+        "name": "Essential Christian Mix",
+        "url": "https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Jad Gillies",
+          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271586,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/0HiR1fErIN1CgzLyzBFhDw"
+    },
+    {
+      "album": {
+        "name": "On This Day on This Hour",
+        "url": "https://open.spotify.com/album/4bq1w4dtLOtZ7qNOSJSEb0"
+      },
+      "artists": [
+        {
+          "name": "Mark Anthony Cuevas",
+          "url": "https://open.spotify.com/artist/52ngUZYjfnI4GOTkqyMbhd"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365932,
+      "name": "On This Day on This Hour",
+      "url": "https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw"
+    },
+    {
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+    },
+    {
+      "album": {
+        "name": "PAANO MO KINAYA (WATERWALK Sessions Version)",
+        "url": "https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3"
+      },
+      "artists": [
+        {
+          "name": "Lee Simon Brown",
+          "url": "https://open.spotify.com/artist/2JCVZPC2G6aBFrcDfLRSIX"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250773,
+      "name": "PAANO MO KINAYA - WATERWALK Sessions Version",
+      "url": "https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF"
+    },
+    {
+      "album": {
+        "name": "Pagsintang Papuri",
+        "url": "https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR"
+      },
+      "artists": [
+        {
+          "name": "Jojo Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/05NCyKg98MYGeFobMmMd2x"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Pagsintang Papuri",
+      "url": "https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d"
+    },
+    {
+      "album": {
+        "name": "Panaginip",
+        "url": "https://open.spotify.com/album/6BLaL8oRhm8AXzCQGYbx98"
+      },
+      "artists": [
+        {
+          "name": "Sasaya",
+          "url": "https://open.spotify.com/artist/0nTnDnS4mFcZHI2O8OmZ3u"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311296,
+      "name": "Panaginip",
+      "url": "https://open.spotify.com/track/5AzItYJaYpu36CTSK9ZvKj"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5"
+      },
+      "artists": [
+        {
+          "name": "allen&elle",
+          "url": "https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213517,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/06VVEg6ZKBSdffLW55bLId"
+      },
+      "artists": [
+        {
+          "name": "Feast Worship",
+          "url": "https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6XUH3f6pfvszR8Z9cQGl1D"
+    },
+    {
+      "album": {
+        "name": "Reliably True",
+        "url": "https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml"
+      },
+      "artists": [
+        {
+          "name": "Elevate Exalt",
+          "url": "https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390216,
+      "name": "Reliably True",
+      "url": "https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW"
+    },
+    {
+      "album": {
+        "name": "Remember Me My Lord",
+        "url": "https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8"
+      },
+      "artists": [
+        {
+          "name": "Cocoy Claravall",
+          "url": "https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq"
+        },
+        {
+          "name": "Paul Tagle",
+          "url": "https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309133,
+      "name": "Remember Me My Lord",
+      "url": "https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4OColfyGElToe70XzNKfpm"
+      },
+      "artists": [
+        {
+          "name": "Snow Toledo",
+          "url": "https://open.spotify.com/artist/5PQHP12lp6eyjBjIdMXESj"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295172,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/6nf6Cxq4oHCdbjRRSl4O9x"
+    },
+    {
+      "album": {
+        "name": "Sa Krus Iyong Tinapos",
+        "url": "https://open.spotify.com/album/6mOIQKIfRHNXZJLgMGa25Q"
+      },
+      "artists": [
+        {
+          "name": "Soulution Worship",
+          "url": "https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338629,
+      "name": "Sa Krus Iyong Tinapos",
+      "url": "https://open.spotify.com/track/5WTLqKYllbZjKBdISllks9"
+    },
+    {
+      "album": {
+        "name": "Sa'yo O Diyos",
+        "url": "https://open.spotify.com/album/74X0rxvPSb0hk01Jj5hL9R"
+      },
+      "artists": [
+        {
+          "name": "Carlosjay",
+          "url": "https://open.spotify.com/artist/4Fe6PXZjB4jAD33Kg4wXVG"
+        },
+        {
+          "name": "Charlie",
+          "url": "https://open.spotify.com/artist/6ArLLVlZXo8uCmRv2vyRbV"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169491,
+      "name": "Sa'yo O Diyos",
+      "url": "https://open.spotify.com/track/5HFUszHdfrPTPyJfhPcFvS"
+    },
+    {
+      "album": {
+        "name": "SAMO",
+        "url": "https://open.spotify.com/album/7exJ5yEqzDtyCXwsFy7SA4"
+      },
+      "artists": [
+        {
+          "name": "Nicole & Carlo",
+          "url": "https://open.spotify.com/artist/7Ehj6xOK6PahCxb8CyOS60"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270857,
+      "name": "SAMO",
+      "url": "https://open.spotify.com/track/1dIXJgoo9JsbkmEX6BSCET"
+    },
+    {
+      "album": {
+        "name": "SEARCH ME (WATERWALK Sessions Version)",
+        "url": "https://open.spotify.com/album/7khKImIC1jZozSxHyj0Qwh"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240156,
+      "name": "SEARCH ME - WATERWALK Sessions Version",
+      "url": "https://open.spotify.com/track/3EVZnYSGzDsdLdUNiPLJ6V"
+    },
+    {
+      "album": {
+        "name": "Seek First",
+        "url": "https://open.spotify.com/album/4nkKfOpZO7HwEqMFxMakXg"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Seek First",
+      "url": "https://open.spotify.com/track/4o6pshGnOos2RCypsDJ3VW"
+    },
+    {
+      "album": {
+        "name": "Showers of Love",
+        "url": "https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne"
+      },
+      "artists": [
+        {
+          "name": "Zid Yarcia",
+          "url": "https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253044,
+      "name": "Showers of Love",
+      "url": "https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3"
+    },
+    {
+      "album": {
+        "name": "Sigaw Ng Puso",
+        "url": "https://open.spotify.com/album/3houv6BmnMopjWysIRohVd"
+      },
+      "artists": [
+        {
+          "name": "Erik Santos",
+          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 402612,
+      "name": "Sigaw Ng Puso",
+      "url": "https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5"
+    },
+    {
+      "album": {
+        "name": "Sigaw Ng Puso",
+        "url": "https://open.spotify.com/album/2flD7DmaCDO7JAlWRBZakP"
+      },
+      "artists": [
+        {
+          "name": "Erik Santos",
+          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402612,
+      "name": "Sigaw Ng Puso",
+      "url": "https://open.spotify.com/track/5MhOky7jQ564pwCf6QbZrC"
+    },
+    {
+      "album": {
+        "name": "Lord I Come",
+        "url": "https://open.spotify.com/album/4IBxJfazadFZ2fEhSmITGy"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Angeles",
+          "url": "https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256842,
+      "name": "Sinasamba Kita",
+      "url": "https://open.spotify.com/track/1aBymU4ycD12YpUBT9nuaj"
+    },
+    {
+      "album": {
+        "name": "Sinasamba Kita",
+        "url": "https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Angeles",
+          "url": "https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 256842,
+      "name": "Sinasamba Kita",
+      "url": "https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH"
+    },
+    {
+      "album": {
+        "name": "Song of Freedom",
+        "url": "https://open.spotify.com/album/1XPhZB0bje8woprQRWUcU0"
+      },
+      "artists": [
+        {
+          "name": "Mansville Worship",
+          "url": "https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0"
+        },
+        {
+          "name": "Ann Castro",
+          "url": "https://open.spotify.com/artist/72DpgjafpMYZ3Wu1FYMPYE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265013,
+      "name": "Song of Freedom",
+      "url": "https://open.spotify.com/track/3KuxuZqks50WAxMivImeBq"
+    },
+    {
+      "album": {
+        "name": "SUMASALANGIT",
+        "url": "https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o"
+      },
+      "artists": [
+        {
+          "name": "Judah Vibar",
+          "url": "https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327900,
+      "name": "SUMASALANGIT",
+      "url": "https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ"
+    },
+    {
+      "album": {
+        "name": "The Good God",
+        "url": "https://open.spotify.com/album/2NT0QHJDsW8lupjeCBluL6"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 272500,
+      "name": "The Good God",
+      "url": "https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb"
+    },
+    {
+      "album": {
+        "name": "The Good God",
+        "url": "https://open.spotify.com/album/7BLeAdJsjIz2aRiM3jLvch"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272500,
+      "name": "The Good God",
+      "url": "https://open.spotify.com/track/5W2lmvNODzxh8HWKIKGuWt"
+    },
+    {
+      "album": {
+        "name": "The Lord Is My Strength",
+        "url": "https://open.spotify.com/album/5yp8ku9AspiR681MinboV9"
+      },
+      "artists": [
+        {
+          "name": "Winter Lines",
+          "url": "https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
+      "duration_ms": 183868,
+      "name": "The Lord Is My Strength",
+      "url": "https://open.spotify.com/track/2h3ijpjDCPUT8Xk0dSamdP"
+    },
+    {
+      "album": {
+        "name": "The Lord Is My Strength",
+        "url": "https://open.spotify.com/album/5F810zz502uWowONYFj6qJ"
+      },
+      "artists": [
+        {
+          "name": "Winter Lines",
+          "url": "https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183868,
+      "name": "The Lord Is My Strength",
+      "url": "https://open.spotify.com/track/4nLRzSNYahU2dg4kMb8DCw"
+    },
+    {
+      "album": {
+        "name": "The Lord Is My Strength",
+        "url": "https://open.spotify.com/album/3pet4Bt1uQWLf24NsiT93T"
+      },
+      "artists": [
+        {
+          "name": "Winter Lines",
+          "url": "https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183868,
+      "name": "The Lord Is My Strength",
+      "url": "https://open.spotify.com/track/5pn6jIp7xDLeqsolqo8xPM"
+    },
+    {
+      "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/5s1UWPJuRes1KBa3ODY8Kv"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 180974,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/232GkQUm3vxkug4dFIknAf"
+    },
+    {
+      "album": {
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/0ueqRiZwnfRqcm2ZZqYeuL"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180974,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso"
+    },
+    {
+      "album": {
+        "name": "Never Wanna Go Back",
+        "url": "https://open.spotify.com/album/2KoA6hrHiqvWzz6ItlJDhc"
+      },
+      "artists": [
+        {
+          "name": "May Angeles",
+          "url": "https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh"
+        },
+        {
+          "name": "Jordan Merritt",
+          "url": "https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361600,
+      "name": "Throne Room Song",
+      "url": "https://open.spotify.com/track/1PUvZx8bARsf3ORSdmTxuN"
+    },
+    {
+      "album": {
+        "name": "Trust in You (Renewed)",
+        "url": "https://open.spotify.com/album/05fAHM2ARLtd0DEDfXmNmF"
+      },
+      "artists": [
+        {
+          "name": "Feast Worship",
+          "url": "https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278571,
+      "name": "Trust in You - Renewed",
+      "url": "https://open.spotify.com/track/4cOAWfJIUmybRvbhX3LHBx"
+    },
+    {
+      "album": {
+        "name": "TWCN (Dymph Track)",
+        "url": "https://open.spotify.com/album/6Wx4Rc1D8R9wb5MEIGfgvk"
+      },
+      "artists": [
+        {
+          "name": "Liveloud Worship",
+          "url": "https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294260,
+      "name": "TWCN - Dymph Track",
+      "url": "https://open.spotify.com/track/1nmQkvDfWa5XHycvqz10tJ"
+    },
+    {
+      "album": {
+        "name": "U.R.",
+        "url": "https://open.spotify.com/album/5B1w6BGv6j1wLtfXWhgaeh"
+      },
+      "artists": [
+        {
+          "name": "Rutella",
+          "url": "https://open.spotify.com/artist/1LKE1tOJHPl3jNjmLhTTMy"
+        },
+        {
+          "name": "Ruth Lee Resuello",
+          "url": "https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217850,
+      "name": "U.R.",
+      "url": "https://open.spotify.com/track/59RXrifYHhI0ikAa3srRjV"
+    },
+    {
+      "album": {
+        "name": "Worship Companion, Vol. 4",
+        "url": "https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO"
+      },
+      "artists": [
+        {
+          "name": "Ablaze Music",
+          "url": "https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "Victory to Our King",
+      "url": "https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg"
+    },
+    {
+      "album": {
+        "name": "Wala Nang Pipigil",
+        "url": "https://open.spotify.com/album/32d4XVfu9ajHIPJYrcWksw"
+      },
+      "artists": [
+        {
+          "name": "Musicians On Fire",
+          "url": "https://open.spotify.com/artist/7Ggr2dsNBVyD18r151SA52"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326386,
+      "name": "Wala Nang Pipigil",
+      "url": "https://open.spotify.com/track/4oQiBasWqTHdwjLCf3Aisu"
+    },
+    {
+      "album": {
+        "name": "WALANG KATULAD (WATERWALK Sessions Version)",
+        "url": "https://open.spotify.com/album/5AHMQnJt5EmLyYmhDlhkz5"
+      },
+      "artists": [
+        {
+          "name": "Cherise Katriel",
+          "url": "https://open.spotify.com/artist/5w0v3Y4sMwMokCwiHeVDIN"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277625,
+      "name": "WALANG KATULAD - WATERWALK Sessions Version",
+      "url": "https://open.spotify.com/track/2mfF6yRz8D3o1pRE0wSjNe"
+    },
+    {
+      "album": {
+        "name": "Walang Makapaghihiwalay",
+        "url": "https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP"
+      },
+      "artists": [
+        {
+          "name": "Brokenchains",
+          "url": "https://open.spotify.com/artist/5Vky9Lsd7Lp7hOm9fjc80c"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276943,
+      "name": "Walang Makapaghihiwalay",
+      "url": "https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05"
+    },
+    {
+      "album": {
+        "name": "WATERWALK",
+        "url": "https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9"
+      },
+      "artists": [
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355122,
+      "name": "WATERWALK",
+      "url": "https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI"
+    },
+    {
+      "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 244784,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q"
+    },
+    {
+      "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5"
+      },
+      "artists": [
+        {
+          "name": "gloryfall",
+          "url": "https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244784,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA"
+    },
+    {
+      "album": {
+        "name": "WHY DO YOU LOVE ME?",
+        "url": "https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN"
+      },
+      "artists": [
+        {
+          "name": "Janine Danielle",
+          "url": "https://open.spotify.com/artist/08uLGVhzLS7zpGtrCZfing"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "WHY DO YOU LOVE ME?",
+      "url": "https://open.spotify.com/track/4NEFSN1DzwyV3pIEIGCeU4"
+    },
+    {
+      "album": {
+        "name": "Wonderstruck",
+        "url": "https://open.spotify.com/album/0CpE0Qa69lByhqnOSYHsC0"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278806,
+      "name": "Wonderstruck",
+      "url": "https://open.spotify.com/track/66kjME9bCPZyk8mL6cgEys"
+    },
+    {
+      "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/4F0528pvPbAsCswccCm57R"
+      },
+      "artists": [
+        {
+          "name": "Biyaya at Papuri",
+          "url": "https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311076,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Sm9RiZX3E5ENZNqMuhE2q"
+    },
+    {
+      "album": {
+        "name": "You Love Me",
+        "url": "https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE"
+      },
+      "artists": [
+        {
+          "name": "KJ",
+          "url": "https://open.spotify.com/artist/71D8L6gZO2xM7SrFWCrddr"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/664weT87LP5crWXjBEs18y"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Amanda Malela",
+          "url": "https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308823,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1o9yDhDTHFEQgk88JnnriX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWL9d6xr614O"
 }

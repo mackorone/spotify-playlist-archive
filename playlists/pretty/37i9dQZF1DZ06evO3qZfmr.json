@@ -1,15 +1,15 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 4422,
+  "num_followers": 4775,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDAwYzY5YzcxZTU1MTg3YTA4YzBmMmQ0YjY4MTQzMmU1Yg==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBiMzZkMGFmNWNiODc5YWRjOGI2YTZmMzQwNDRmYTRmMA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Can't Break Up Now",
         "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
@@ -65,39 +65,7 @@
       "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 222139,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
-    },
-    {
-      "added_at": "2024-01-02 12:15:41",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
-    },
-    {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
@@ -113,7 +81,39 @@
       "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+    },
+    {
+      "added_at": "2024-01-16 12:10:43",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 222139,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58"
+    },
+    {
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
@@ -133,7 +133,23 @@
       "url": "https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
+      "album": {
+        "name": "What Are You Listening To?",
+        "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 251479,
+      "name": "What Are You Listening To?",
+      "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt"
     },
     {
-      "added_at": "2024-01-02 12:15:41",
+      "added_at": "2024-01-16 12:10:43",
       "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"

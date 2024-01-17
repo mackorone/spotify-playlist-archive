@@ -1,434 +1,1325 @@
 {
-  "2022-10-25": 1080662,
-  "2022-10-26": 1080920,
-  "2022-10-27": 1081192,
-  "2022-10-28": 1081486,
-  "2022-10-29": 1072513,
-  "2022-10-30": 215373,
-  "2022-10-31": 44431,
-  "2022-11-01": 9023,
-  "2022-11-02": 2096,
-  "2022-11-03": 820,
-  "2022-11-04": 685,
-  "2022-11-05": 724,
-  "2022-11-06": 803,
-  "2022-11-07": 898,
-  "2022-11-08": 970,
-  "2022-11-09": 1052,
-  "2022-11-10": 1119,
-  "2022-11-11": 1179,
-  "2022-11-12": 1281,
-  "2022-11-13": 1362,
-  "2022-11-14": 1452,
-  "2022-11-15": 1513,
-  "2022-11-16": 1578,
-  "2022-11-17": 1643,
-  "2022-11-18": 1666,
-  "2022-11-19": 1689,
-  "2022-11-20": 1754,
-  "2022-11-21": 1835,
-  "2022-11-22": 1903,
-  "2022-11-23": 1960,
-  "2022-11-24": 2057,
-  "2022-11-25": 2154,
-  "2022-11-26": 2220,
-  "2022-11-27": 2277,
-  "2022-11-28": 2332,
-  "2022-11-29": 2384,
-  "2022-11-30": 2437,
-  "2022-12-01": 2523,
-  "2022-12-02": 2578,
-  "2022-12-03": 2684,
-  "2022-12-04": 2788,
-  "2022-12-05": 2869,
-  "2022-12-06": 2949,
-  "2022-12-07": 3024,
-  "2022-12-08": 3095,
-  "2022-12-09": 3166,
-  "2022-12-10": 3224,
-  "2022-12-11": 3303,
-  "2022-12-12": 3382,
-  "2022-12-13": 3444,
-  "2022-12-14": 3505,
-  "2022-12-15": 3566,
-  "2022-12-16": 3618,
-  "2022-12-17": 3672,
-  "2022-12-18": 3754,
-  "2022-12-19": 3814,
-  "2022-12-20": 3935,
-  "2022-12-21": 3935,
-  "2022-12-22": 3999,
-  "2022-12-24": 4128,
-  "2022-12-25": 4231,
-  "2022-12-26": 4307,
-  "2022-12-27": 4367,
-  "2022-12-28": 4434,
-  "2022-12-29": 4505,
-  "2022-12-30": 4579,
-  "2022-12-31": 4644,
-  "2023-01-01": 4718,
-  "2023-01-02": 4791,
-  "2023-01-03": 4872,
-  "2023-01-04": 4950,
-  "2023-01-05": 5031,
-  "2023-01-06": 5098,
-  "2023-01-07": 5220,
-  "2023-01-08": 5237,
-  "2023-01-09": 5328,
-  "2023-01-10": 5417,
-  "2023-01-11": 5513,
-  "2023-01-12": 5590,
-  "2023-01-13": 5668,
-  "2023-01-14": 5808,
-  "2023-01-15": 5829,
-  "2023-01-16": 5933,
-  "2023-01-17": 6002,
-  "2023-01-18": 6064,
-  "2023-01-19": 6164,
-  "2023-01-20": 6250,
-  "2023-01-21": 6332,
-  "2023-01-22": 6412,
-  "2023-01-23": 6502,
-  "2023-01-24": 6569,
-  "2023-01-25": 6639,
-  "2023-01-26": 6707,
-  "2023-01-27": 6778,
-  "2023-01-28": 6845,
-  "2023-01-29": 6951,
-  "2023-01-30": 7038,
-  "2023-01-31": 7038,
-  "2023-02-01": 7183,
-  "2023-02-02": 7266,
-  "2023-02-03": 7350,
-  "2023-02-04": 7428,
-  "2023-02-05": 7518,
-  "2023-02-06": 7610,
-  "2023-02-07": 7668,
-  "2023-02-08": 7816,
-  "2023-02-09": 7816,
-  "2023-02-10": 7899,
-  "2023-02-11": 7972,
-  "2023-02-12": 8119,
-  "2023-02-13": 8178,
-  "2023-02-14": 8178,
-  "2023-02-15": 8227,
-  "2023-02-16": 8289,
-  "2023-02-17": 8349,
-  "2023-02-18": 712524,
-  "2023-02-19": 712548,
-  "2023-02-20": 1035846,
-  "2023-02-21": 1100712,
-  "2023-02-22": 1113901,
-  "2023-02-23": 1116765,
-  "2023-02-24": 1117582,
-  "2023-02-25": 1118085,
-  "2023-02-26": 1118363,
-  "2023-02-27": 1118959,
-  "2023-02-28": 1118959,
-  "2023-03-01": 1119181,
-  "2023-03-02": 1119440,
-  "2023-03-03": 1119740,
-  "2023-03-04": 1119992,
-  "2023-03-05": 1120652,
-  "2023-03-06": 1120652,
-  "2023-03-07": 1120911,
-  "2023-03-08": 1121168,
-  "2023-03-09": 1121446,
-  "2023-03-10": 1121724,
-  "2023-03-11": 1122020,
-  "2023-03-12": 1122347,
-  "2023-03-13": 1122657,
-  "2023-03-14": 1122924,
-  "2023-03-15": 1123255,
-  "2023-03-16": 1123255,
-  "2023-03-17": 1123255,
-  "2023-03-18": 1124552,
-  "2023-03-19": 1124552,
-  "2023-03-20": 1125669,
-  "2023-03-21": 1126062,
-  "2023-03-22": 1126522,
-  "2023-03-23": 1126973,
-  "2023-03-24": 1126973,
-  "2023-03-25": 1127781,
-  "2023-03-26": 1128265,
-  "2023-03-27": 1128694,
-  "2023-03-28": 1129016,
-  "2023-03-29": 1129423,
-  "2023-03-30": 1130027,
-  "2023-03-31": 1130027,
-  "2023-04-01": 1130401,
-  "2023-04-02": 1130776,
-  "2023-04-03": 1131140,
-  "2023-04-04": 1131456,
-  "2023-04-05": 1131753,
-  "2023-04-06": 1132087,
-  "2023-04-07": 1132451,
-  "2023-04-09": 1133217,
-  "2023-04-10": 1133538,
-  "2023-04-11": 1134099,
-  "2023-04-12": 1134099,
-  "2023-04-13": 1134380,
-  "2023-04-14": 1134705,
-  "2023-04-15": 1135014,
-  "2023-04-16": 1135357,
-  "2023-04-17": 1135636,
-  "2023-04-18": 1135885,
-  "2023-04-19": 1136113,
-  "2023-04-20": 1136346,
-  "2023-04-21": 1136621,
-  "2023-04-22": 1136918,
-  "2023-04-23": 1137239,
-  "2023-04-24": 1137532,
-  "2023-04-25": 1137768,
-  "2023-04-26": 1138052,
-  "2023-04-27": 1138331,
-  "2023-04-28": 1138624,
-  "2023-04-29": 1138964,
-  "2023-04-30": 1139330,
-  "2023-05-01": 1139669,
-  "2023-05-02": 1139977,
-  "2023-05-03": 1140214,
-  "2023-05-04": 1140426,
-  "2023-05-05": 1140671,
-  "2023-05-06": 1140968,
-  "2023-05-07": 1141324,
-  "2023-05-08": 1141599,
-  "2023-05-09": 1141885,
-  "2023-05-10": 1142094,
-  "2023-05-11": 1142371,
-  "2023-05-12": 1142624,
-  "2023-05-13": 1142908,
-  "2023-05-14": 1143196,
-  "2023-05-15": 1143476,
-  "2023-05-16": 1143727,
-  "2023-05-17": 1143959,
-  "2023-05-18": 1144218,
-  "2023-05-19": 1144454,
-  "2023-05-20": 1145018,
-  "2023-05-21": 1145018,
-  "2023-05-22": 1145018,
-  "2023-05-23": 1145551,
-  "2023-05-24": 1145967,
-  "2023-05-25": 1146026,
-  "2023-05-26": 1146252,
-  "2023-05-27": 1146535,
-  "2023-05-28": 1146809,
-  "2023-05-29": 1146809,
-  "2023-05-30": 1147320,
-  "2023-05-31": 1147553,
-  "2023-06-01": 1147765,
-  "2023-06-02": 1148003,
-  "2023-06-03": 1148333,
-  "2023-06-04": 1148682,
-  "2023-06-05": 1149014,
-  "2023-06-06": 1149272,
-  "2023-06-07": 1149545,
-  "2023-06-08": 1149878,
-  "2023-06-09": 1150164,
-  "2023-06-10": 1150437,
-  "2023-06-11": 1150696,
-  "2023-06-12": 1150910,
-  "2023-06-13": 1151111,
-  "2023-06-14": 1151300,
-  "2023-06-15": 1151542,
-  "2023-06-16": 1151791,
-  "2023-06-17": 1152000,
-  "2023-06-18": 1152243,
-  "2023-06-19": 1152459,
-  "2023-06-20": 1152627,
-  "2023-06-21": 1152766,
-  "2023-06-22": 1152951,
-  "2023-06-23": 1153156,
-  "2023-06-24": 1153327,
-  "2023-06-25": 1153568,
-  "2023-06-26": 1153775,
-  "2023-06-27": 1153949,
-  "2023-06-28": 1154118,
-  "2023-06-29": 1154306,
-  "2023-06-30": 1154459,
-  "2023-07-01": 1154854,
-  "2023-07-02": 1154854,
-  "2023-07-03": 1155027,
-  "2023-07-04": 1155181,
-  "2023-07-05": 1155369,
-  "2023-07-06": 1155739,
-  "2023-07-07": 1155739,
-  "2023-07-08": 1155739,
-  "2023-07-09": 1156198,
-  "2023-07-10": 1156449,
-  "2023-07-11": 1156644,
-  "2023-07-12": 1156860,
-  "2023-07-13": 1157064,
-  "2023-07-14": 1157306,
-  "2023-07-15": 1157518,
-  "2023-07-16": 1157863,
-  "2023-07-17": 1158122,
-  "2023-07-18": 1158347,
-  "2023-07-19": 1158543,
-  "2023-07-20": 1158726,
-  "2023-07-21": 1158917,
-  "2023-07-22": 1159172,
-  "2023-07-23": 1159437,
-  "2023-07-24": 1159666,
-  "2023-07-25": 1159877,
-  "2023-07-26": 1160090,
-  "2023-07-27": 1160344,
-  "2023-07-28": 1160618,
-  "2023-07-29": 1160892,
-  "2023-07-30": 1161153,
-  "2023-07-31": 1161413,
-  "2023-08-01": 1161608,
-  "2023-08-02": 1161782,
-  "2023-08-03": 1161976,
-  "2023-08-04": 1162217,
-  "2023-08-05": 1162436,
-  "2023-08-06": 1162948,
-  "2023-08-07": 1162948,
-  "2023-08-08": 1163160,
-  "2023-08-09": 1163410,
-  "2023-08-10": 1163635,
-  "2023-08-11": 1163874,
-  "2023-08-12": 1163874,
-  "2023-08-13": 1163874,
-  "2023-08-14": 1164710,
-  "2023-08-15": 1164710,
-  "2023-08-16": 1164710,
-  "2023-08-17": 1164710,
-  "2023-08-18": 1164710,
-  "2023-08-19": 1164710,
-  "2023-08-20": 1166215,
-  "2023-08-21": 1166215,
-  "2023-08-22": 1166673,
-  "2023-08-23": 1166673,
-  "2023-08-24": 1166673,
-  "2023-08-25": 1166673,
-  "2023-08-26": 1167565,
-  "2023-08-27": 1167565,
-  "2023-08-28": 1168005,
-  "2023-08-29": 1168005,
-  "2023-08-30": 1168005,
-  "2023-08-31": 1168607,
-  "2023-09-01": 1168818,
-  "2023-09-02": 1168818,
-  "2023-09-03": 1168818,
-  "2023-09-04": 1168818,
-  "2023-09-05": 1168818,
-  "2023-09-06": 1169918,
-  "2023-09-07": 1169918,
-  "2023-09-08": 1169918,
-  "2023-09-09": 1169918,
-  "2023-09-10": 1170895,
-  "2023-09-11": 1170895,
-  "2023-09-12": 1170895,
-  "2023-09-13": 1170895,
-  "2023-09-14": 1170895,
-  "2023-09-15": 1170895,
-  "2023-09-16": 1172108,
-  "2023-09-17": 1172108,
-  "2023-09-18": 1172108,
-  "2023-09-19": 1172730,
-  "2023-09-20": 1172730,
-  "2023-09-21": 1172730,
-  "2023-09-22": 1173186,
-  "2023-09-23": 1173186,
-  "2023-09-24": 1173186,
-  "2023-09-25": 1173186,
-  "2023-09-26": 1174059,
-  "2023-09-27": 1174059,
-  "2023-09-28": 1174059,
-  "2023-09-29": 1174059,
-  "2023-09-30": 1174059,
-  "2023-10-01": 1174059,
-  "2023-10-02": 1174059,
-  "2023-10-03": 1174059,
-  "2023-10-04": 1174059,
-  "2023-10-05": 1174059,
-  "2023-10-06": 1174059,
-  "2023-10-07": 1174059,
-  "2023-10-08": 1174059,
-  "2023-10-09": 1174059,
-  "2023-10-10": 1174059,
-  "2023-10-11": 1179240,
-  "2023-10-12": 1179240,
-  "2023-10-13": 1179240,
-  "2023-10-14": 1179240,
-  "2023-10-15": 1179240,
-  "2023-10-16": 1179240,
-  "2023-10-17": 1179240,
-  "2023-10-18": 1179240,
-  "2023-10-19": 1179240,
-  "2023-10-20": 1179240,
-  "2023-10-21": 1179240,
-  "2023-10-22": 1179240,
-  "2023-10-23": 1179240,
-  "2023-10-24": 1179240,
-  "2023-10-25": 1179240,
-  "2023-10-26": 1179240,
-  "2023-10-27": 1179240,
-  "2023-10-28": 1179240,
-  "2023-10-29": 1179240,
-  "2023-10-30": 1179240,
-  "2023-10-31": 1179240,
-  "2023-11-01": 1179240,
-  "2023-11-02": 1179240,
-  "2023-11-03": 1179240,
-  "2023-11-04": 1179240,
-  "2023-11-05": 1179240,
-  "2023-11-06": 1179240,
-  "2023-11-07": 1179240,
-  "2023-11-08": 1179240,
-  "2023-11-09": 1179240,
-  "2023-11-10": 1179240,
-  "2023-11-11": 1186060,
-  "2023-11-12": 1186060,
-  "2023-11-13": 1186060,
-  "2023-11-14": 1186060,
-  "2023-11-15": 1186060,
-  "2023-11-16": 1186060,
-  "2023-11-17": 1186060,
-  "2023-11-18": 1186060,
-  "2023-11-19": 1186060,
-  "2023-11-20": 1186060,
-  "2023-11-21": 1186060,
-  "2023-11-22": 1186060,
-  "2023-11-23": 1186060,
-  "2023-11-24": 1186060,
-  "2023-11-25": 1186060,
-  "2023-11-26": 1186060,
-  "2023-11-27": 1186060,
-  "2023-11-28": 1186060,
-  "2023-11-29": 1186060,
-  "2023-11-30": 1186060,
-  "2023-12-01": 1186060,
-  "2023-12-02": 1186060,
-  "2023-12-03": 1186060,
-  "2023-12-04": 1186060,
-  "2023-12-05": 1186060,
-  "2023-12-06": 1186060,
-  "2023-12-07": 1186060,
-  "2023-12-08": 1186060,
-  "2023-12-09": 1186060,
-  "2023-12-10": 1186060,
-  "2023-12-11": 1186060,
-  "2023-12-12": 1186060,
-  "2023-12-13": 1186060,
-  "2023-12-14": 1191773,
-  "2023-12-15": 1191921,
-  "2023-12-16": 1192101,
-  "2023-12-17": 1192274,
-  "2023-12-18": 1192421,
-  "2023-12-19": 1192571,
-  "2023-12-20": 1192720,
-  "2023-12-21": 1192888,
-  "2023-12-22": 1193048,
-  "2023-12-23": 1193255,
-  "2023-12-24": 1193445,
-  "2023-12-25": 1193574,
-  "2023-12-26": 1193733,
-  "2023-12-27": 1193936,
-  "2023-12-30": 1194429,
-  "2023-12-31": 1194620,
-  "2024-01-01": 1194815,
-  "2024-01-02": 1194982,
-  "2024-01-03": 1195145
+  "2024-01-17": 1194772,
+  "date_first_scraped": "2022-10-25",
+  "description": "This is U2. The essential tracks, all in one playlist.",
+  "name": "This Is U2",
+  "tracks": [
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 238423,
+      "name": "11 O'Clock Tick Tock - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/7wAbGha9YKADhOCmNRnlu1"
+    },
+    {
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389933,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
+    },
+    {
+      "album": {
+        "name": "Atomic City",
+        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210842,
+      "name": "Atomic City",
+      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349506,
+      "name": "Bad - Edit",
+      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
+    },
+    {
+      "album": {
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 368440,
+      "name": "Bad - Remastered 2009",
+      "url": "https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 331913,
+      "name": "Bad - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/2Xnbnmo8pIBbfkcgEBVydz"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 271546,
+      "name": "Bullet The Blue Sky - Remastered 2007",
+      "url": "https://open.spotify.com/track/1C6Tmo58WMtnAPdxYz9qCz"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345706,
+      "name": "City Of Blinding Lights",
+      "url": "https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV"
+    },
+    {
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 253533,
+      "name": "Electrical Storm - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/38TuPQLkiKQMTcOd2e81RG"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 277466,
+      "name": "Electrical Storm - William Orbit Mix",
+      "url": "https://open.spotify.com/track/3gkijt6bxk8ts6S2RCEu4n"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1980-1990 & B-Sides",
+        "url": "https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/2e3kaO7DTPQ7kZJ6wGwcLo"
+    },
+    {
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252162,
+      "name": "Every Breaking Wave",
+      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 238293,
+      "name": "Get Out Of Your Own Way",
+      "url": "https://open.spotify.com/track/4nXYb4yc3c1a3NWqdpDrnd"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 207046,
+      "name": "Get Out Of Your Own Way - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5e3v1Ulz5O6j09dmry1KgB"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
+    },
+    {
+      "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "I Will Follow - Remastered 2008",
+      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
+    },
+    {
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 253946,
+      "name": "I'll Go Crazy If I Don't Go Crazy Tonight",
+      "url": "https://open.spotify.com/track/6Bxd6SGnWO0bTWCDYh4ZWk"
+    },
+    {
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 322466,
+      "name": "If God Will Send His Angels",
+      "url": "https://open.spotify.com/track/3VefJ4Kkzy8zeOFK8omiOd"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "In A Little While",
+      "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176596,
+      "name": "In God's Country",
+      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
+    },
+    {
+      "album": {
+        "name": "Invisible - (RED) Edit",
+        "url": "https://open.spotify.com/album/6aGUWIKg6BA37SB3gwOAUZ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 226670,
+      "name": "Invisible - (RED) Edit",
+      "url": "https://open.spotify.com/track/1zU1hssVqbyepuLza1qmgO"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263919,
+      "name": "Invisible - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
+    },
+    {
+      "album": {
+        "name": "Songs Of Innocence",
+        "url": "https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 319457,
+      "name": "Iris (Hold Me Close)",
+      "url": "https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb"
+    },
+    {
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416533,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 256893,
+      "name": "Lights Of Home",
+      "url": "https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp"
+    },
+    {
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324013,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 234013,
+      "name": "Miracle Drug",
+      "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
+    },
+    {
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
+    },
+    {
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
+    },
+    {
+      "album": {
+        "name": "October (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 141040,
+      "name": "October - Remastered 2008",
+      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
+    },
+    {
+      "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260466,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "Ordinary Love - Extraordinary Mix",
+      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274120,
+      "name": "Original Of The Species",
+      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+    },
+    {
+      "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 254040,
+      "name": "Out Of Control - Remastered 2008",
+      "url": "https://open.spotify.com/track/7dni8dPFeedwSTX8hqcC3s"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 249595,
+      "name": "Out Of Control - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/29KzsvzQFnaZ2qzH8E1vlk"
+    },
+    {
+      "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 302752,
+      "name": "Red Hill Mining Town - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/0XhCo22ahqUjXskKRDzE6W"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305080,
+      "name": "Sometimes You Can't Make It On Your Own",
+      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
+    },
+    {
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
+    },
+    {
+      "album": {
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+    },
+    {
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298426,
+      "name": "Stay (Faraway, So Close!)",
+      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 171909,
+      "name": "Stories For Boys - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5pmrqutc908t5jqcXU6ha6"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279440,
+      "name": "Sunday Bloody Sunday - Remastered 2008",
+      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
+    },
+    {
+      "album": {
+        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
+        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171546,
+      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
+      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 269053,
+      "name": "The Fly",
+      "url": "https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 209747,
+      "name": "The Miracle (Of Joey Ramone) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/3IfReU5MI9ApiJy95ZVCZH"
+    },
+    {
+      "album": {
+        "name": "The Saints Are Coming",
+        "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "The Saints Are Coming",
+      "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
+    },
+    {
+      "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "The Unforgettable Fire - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330506,
+      "name": "Ultra Violet (Light My Way)",
+      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
+    },
+    {
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Walk On",
+      "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
+    },
+    {
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254266,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337505,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
+    },
+    {
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316426,
+      "name": "Who's Gonna Ride Your Wild Horses",
+      "url": "https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt"
+    },
+    {
+      "album": {
+        "name": "Songs Of Surrender",
+        "url": "https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 317412,
+      "name": "Who's Gonna Ride Your Wild Horses - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CjB4qqDvWuFpbkHI53qsb"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254200,
+      "name": "XXX. FEAT. U2.",
+      "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Your Song Saved My Life - From Sing 2",
+      "url": "https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "You\u2019re The Best Thing About Me",
+      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Sfg6tDxHc.md) - [plain]
 
 > Time to enjoy some mulled wine, a bag of roasted almonds, and a few classic Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,204 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,050 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

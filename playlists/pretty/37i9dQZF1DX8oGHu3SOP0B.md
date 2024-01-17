@@ -1,17 +1,17 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain](/playlists/plain/37i9dQZF1DX8oGHu3SOP0B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8oGHu3SOP0B)
 
-### [Best of EQUAL Thailand 2023](https://open.spotify.com/playlist/37i9dQZF1DX8oGHu3SOP0B)
+### [EQUAL Thailand](https://open.spotify.com/playlist/37i9dQZF1DX8oGHu3SOP0B)
 
-> ไฮไลท์ปี 2023 ฟังเสียงของศิลปินหญิงในประเทศไทย\. Highlights of 2023, listen to women at full volume\. ปก: RedSpin
+> ฟังเสียงของศิลปินหญิงในประเทศไทย\. ปก: RedSpin
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,010 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,663 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 |
-| 2 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:34 |
-| 3 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
-| 4 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
+| 1 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
+| 2 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
+| 3 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
+| 4 | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/track/1zNIyVAeeNCgPNZFFkzxw9) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [มีสิทธิ์พูดไหม \(Untold Story\)](https://open.spotify.com/album/2Fxj7pZgv1NMdmQAG8Mphz) | 3:34 |
 | 5 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 6 | [พูดไม่ออก \(Mute\)](https://open.spotify.com/track/18PwDfOlpsz2PvGU1SXV7Q) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [พูดไม่ออก \(Mute\)](https://open.spotify.com/album/5Wq6kTJU9h1F2GgJifHOZ7) | 3:11 |
 | 7 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/track/6BJYRFCxU0tp1WoAX4m37c) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/album/6qryy0vluBpKQXZAm8CQNu) | 3:48 |
 | 50 | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี](https://open.spotify.com/track/2C5J9uFIOCN2XiMKJlSSTH) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ที่ดีก็ไม่ได้ ที่ได้ก็ไม่ดี \- Single](https://open.spotify.com/album/5kMZzGZPmzR1p5X8O67fSu) | 4:40 |
 
-Snapshot ID: `MCw4MjFjYjM2Y2IxMjMwOWMxMDdhZDRkYzYyZjQwZjUyMTFiZDY3YjMz`
+Snapshot ID: `MCw2N2I1NjJiNzMwNmFmODg4NDgxMWE1YmZmNWNmMzk1ZmFhODRjOGVl`

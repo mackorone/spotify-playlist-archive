@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-229 songs - 13 hr 44 min
+232 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Csay Csay](https://open.spotify.com/track/0cTLKPTA5rwpjrGutKO1r8) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/1Att1v11WfFuJMnaFkQBQe) | 6:01 | 2019-12-16 | 2022-07-29 |
 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 | 2019-12-16 | 2022-12-03 |
 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 | 2022-08-31 |  |
-| [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 |  |
+| [Dead Metal](https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW) | [Rhys Lindsay](https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8) | [Exo One \(Original Game Soundtrack\)](https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme) | 1:05 | 2023-09-08 | 2024-01-15 |
 | [Distant Memory](https://open.spotify.com/track/7HL7aFk0ONq1QnlnDTtzov) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Distant Memory](https://open.spotify.com/album/5r4tbLxLxxotZV0qRQbpFG) | 2:43 | 2022-08-31 | 2023-04-12 |
 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 | 2019-12-16 | 2022-09-01 |
 | [Don't Get Any Closer](https://open.spotify.com/track/5aEW7hL4yJ3StRw4x9ZLLn) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/4BMYwbOZd1i9vraiSXtSkg) | 9:06 | 2019-12-16 | 2022-07-29 |
@@ -117,7 +117,8 @@
 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 | 2022-08-31 |  |
 | [Let Go](https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG) | [ghostlycheeks](https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv) | [Let Go](https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k) | 3:30 | 2023-09-08 | 2023-11-30 |
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-31 | 2022-09-03 |
-| [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 | 2023-09-08 |  |
+| [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 | 2023-09-08 | 2024-01-09 |
+| [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 | 2023-09-08 | 2024-01-08 |
 | [Long Whale Song](https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ) | [SymphoCat](https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN) | [Long Whale Song](https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv) | 19:25 | 2023-09-08 |  |
 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 | 2022-08-31 | 2024-01-03 |
 | [Lovely Lofi](https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF) | [Bonsai Beats](https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y) | [Lovely Lofi](https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8) | 1:12 | 2022-09-29 | 2023-09-09 |
@@ -127,6 +128,7 @@
 | [Melanine](https://open.spotify.com/track/18rXOovmohAMcFwUPAUAN2) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 2:53 | 2019-12-16 | 2022-07-29 |
 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 | 2019-12-16 |  |
 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 | 2023-09-08 | 2023-11-30 |
+| [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 | 2023-11-29 | 2024-01-17 |
 | [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 | 2022-11-20 |
 | [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 | 2022-11-22 | 2023-09-09 |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |
@@ -193,7 +195,7 @@
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 | 2023-09-09 |
 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 | 2023-09-08 |  |
 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 | 2023-11-29 |  |
-| [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 | 2023-09-08 | 2023-11-28 |
+| [Stargazing](https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR) | 2:13 | 2023-09-08 |  |
 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 | 2022-08-31 | 2023-09-09 |
 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 | 2023-09-08 |  |
 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 | 2019-12-16 | 2023-09-09 |
@@ -231,6 +233,7 @@
 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 | 2019-12-16 | 2023-09-09 |
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-12-16 | 2022-07-29 |
 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 | 2023-09-08 |  |
+| [where the light is](https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [where the light is](https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1) | 2:06 | 2023-11-29 |  |
 | [why do u shut everyone out](https://open.spotify.com/track/6LmkLxMPhaXg7XOsIth0SX) | [heavenly curse](https://open.spotify.com/artist/34K7H4JibtJ4E9p44sCSvT) | [why do u shut everyone out](https://open.spotify.com/album/4SVaI2Xa5L395zIteQWKZN) | 1:55 | 2022-08-31 | 2022-09-03 |
 | [Ww](https://open.spotify.com/track/5PHSyGMwRTpB2iP6pYjoWV) | [Other Nothing](https://open.spotify.com/artist/4DXOz58gkpdeCcsW4Xjxgd) | [Not Songs](https://open.spotify.com/album/5ucsbLLlsgfWOrCHl8uCiO) | 1:33 | 2023-09-08 | 2023-11-30 |
 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 | 2022-08-31 | 2023-09-09 |

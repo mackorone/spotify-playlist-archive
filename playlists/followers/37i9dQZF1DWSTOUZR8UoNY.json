@@ -1,735 +1,1845 @@
 {
-  "2021-12-25": 4187,
-  "2021-12-26": 4186,
-  "2021-12-27": 4185,
-  "2021-12-28": 4185,
-  "2021-12-29": 4184,
-  "2021-12-30": 4184,
-  "2021-12-31": 4183,
-  "2022-01-01": 4184,
-  "2022-01-02": 4184,
-  "2022-01-03": 4184,
-  "2022-01-04": 4184,
-  "2022-01-05": 4184,
-  "2022-01-06": 4184,
-  "2022-01-07": 4184,
-  "2022-01-08": 4183,
-  "2022-01-09": 4183,
-  "2022-01-10": 4181,
-  "2022-01-11": 4180,
-  "2022-01-12": 4181,
-  "2022-01-13": 4181,
-  "2022-01-14": 4181,
-  "2022-01-15": 4181,
-  "2022-01-16": 4181,
-  "2022-01-17": 4179,
-  "2022-01-18": 4179,
-  "2022-01-19": 4179,
-  "2022-01-20": 4179,
-  "2022-01-21": 4179,
-  "2022-01-22": 4178,
-  "2022-01-23": 4178,
-  "2022-01-24": 4178,
-  "2022-01-25": 4179,
-  "2022-01-26": 4179,
-  "2022-01-27": 4179,
-  "2022-01-28": 4179,
-  "2022-01-29": 4179,
-  "2022-01-30": 4179,
-  "2022-01-31": 4178,
-  "2022-02-01": 4178,
-  "2022-02-02": 4177,
-  "2022-02-03": 4176,
-  "2022-02-04": 4175,
-  "2022-02-05": 4175,
-  "2022-02-06": 4175,
-  "2022-02-07": 4175,
-  "2022-02-08": 4175,
-  "2022-02-09": 4175,
-  "2022-02-10": 4174,
-  "2022-02-11": 4174,
-  "2022-02-12": 4174,
-  "2022-02-13": 4174,
-  "2022-02-14": 4174,
-  "2022-02-15": 4173,
-  "2022-02-16": 4172,
-  "2022-02-17": 4170,
-  "2022-02-18": 4169,
-  "2022-02-19": 4168,
-  "2022-02-20": 4167,
-  "2022-02-21": 4167,
-  "2022-02-22": 4167,
-  "2022-02-23": 4167,
-  "2022-02-24": 4165,
-  "2022-02-25": 4165,
-  "2022-02-26": 4165,
-  "2022-02-27": 4164,
-  "2022-02-28": 4164,
-  "2022-03-01": 4164,
-  "2022-03-02": 4164,
-  "2022-03-03": 4164,
-  "2022-03-04": 4164,
-  "2022-03-05": 4164,
-  "2022-03-06": 4164,
-  "2022-03-07": 4164,
-  "2022-03-08": 4164,
-  "2022-03-09": 4164,
-  "2022-03-10": 4164,
-  "2022-03-11": 4164,
-  "2022-03-12": 4164,
-  "2022-03-13": 4164,
-  "2022-03-14": 4165,
-  "2022-03-15": 4165,
-  "2022-03-16": 4165,
-  "2022-03-17": 4165,
-  "2022-03-18": 4165,
-  "2022-03-19": 4165,
-  "2022-03-20": 4165,
-  "2022-03-21": 4164,
-  "2022-03-22": 4164,
-  "2022-03-23": 4165,
-  "2022-03-24": 4165,
-  "2022-03-25": 4165,
-  "2022-03-26": 4165,
-  "2022-03-27": 4165,
-  "2022-03-28": 4165,
-  "2022-03-30": 4165,
-  "2022-03-31": 4165,
-  "2022-04-01": 4165,
-  "2022-04-02": 4165,
-  "2022-04-03": 4165,
-  "2022-04-04": 4165,
-  "2022-04-05": 4165,
-  "2022-04-06": 4165,
-  "2022-04-07": 4165,
-  "2022-04-08": 4165,
-  "2022-04-09": 4165,
-  "2022-04-10": 4165,
-  "2022-04-11": 4165,
-  "2022-04-12": 4165,
-  "2022-04-13": 4165,
-  "2022-04-14": 4165,
-  "2022-04-15": 4165,
-  "2022-04-16": 4165,
-  "2022-04-17": 4165,
-  "2022-04-18": 4165,
-  "2022-04-19": 4165,
-  "2022-04-20": 4165,
-  "2022-04-21": 4165,
-  "2022-04-22": 4165,
-  "2022-04-23": 4165,
-  "2022-04-24": 4165,
-  "2022-04-25": 4165,
-  "2022-04-26": 4165,
-  "2022-04-27": 4165,
-  "2022-04-28": 4165,
-  "2022-04-29": 4165,
-  "2022-04-30": 4165,
-  "2022-05-01": 4165,
-  "2022-05-02": 4165,
-  "2022-05-03": 4165,
-  "2022-05-04": 4165,
-  "2022-05-05": 4165,
-  "2022-05-06": 4165,
-  "2022-05-07": 4165,
-  "2022-05-08": 4165,
-  "2022-05-09": 4165,
-  "2022-05-10": 4165,
-  "2022-05-11": 4165,
-  "2022-05-12": 4165,
-  "2022-05-13": 4165,
-  "2022-05-14": 4165,
-  "2022-05-15": 4165,
-  "2022-05-16": 4165,
-  "2022-05-17": 4165,
-  "2022-05-18": 4165,
-  "2022-05-19": 4165,
-  "2022-05-20": 4165,
-  "2022-05-21": 4165,
-  "2022-05-22": 4165,
-  "2022-05-23": 4165,
-  "2022-05-24": 4165,
-  "2022-05-25": 4165,
-  "2022-05-26": 4165,
-  "2022-05-27": 4165,
-  "2022-05-28": 4165,
-  "2022-05-29": 4165,
-  "2022-05-30": 4165,
-  "2022-05-31": 4165,
-  "2022-06-01": 4165,
-  "2022-06-02": 4165,
-  "2022-06-03": 4165,
-  "2022-06-04": 4165,
-  "2022-06-05": 4165,
-  "2022-06-06": 4165,
-  "2022-06-07": 4165,
-  "2022-06-08": 4165,
-  "2022-06-09": 4165,
-  "2022-06-10": 4165,
-  "2022-06-11": 4165,
-  "2022-06-12": 4165,
-  "2022-06-13": 4165,
-  "2022-06-14": 4165,
-  "2022-06-15": 4165,
-  "2022-06-16": 4165,
-  "2022-06-17": 4165,
-  "2022-06-18": 4165,
-  "2022-06-19": 4165,
-  "2022-06-20": 4165,
-  "2022-06-21": 4165,
-  "2022-06-22": 4165,
-  "2022-06-23": 4165,
-  "2022-06-24": 4165,
-  "2022-06-25": 4165,
-  "2022-06-26": 4165,
-  "2022-06-27": 4165,
-  "2022-06-28": 4165,
-  "2022-06-29": 4165,
-  "2022-06-30": 4165,
-  "2022-07-01": 4165,
-  "2022-07-02": 4165,
-  "2022-07-03": 4165,
-  "2022-07-04": 4165,
-  "2022-07-05": 4165,
-  "2022-07-06": 4165,
-  "2022-07-07": 4165,
-  "2022-07-08": 4165,
-  "2022-07-09": 4165,
-  "2022-07-10": 4165,
-  "2022-07-11": 4165,
-  "2022-07-12": 4165,
-  "2022-07-13": 4165,
-  "2022-07-14": 4165,
-  "2022-07-15": 4165,
-  "2022-07-16": 4165,
-  "2022-07-17": 4165,
-  "2022-07-18": 4165,
-  "2022-07-19": 4165,
-  "2022-07-20": 4165,
-  "2022-07-21": 4165,
-  "2022-07-22": 4165,
-  "2022-07-23": 4165,
-  "2022-07-24": 4165,
-  "2022-07-25": 4165,
-  "2022-07-26": 4165,
-  "2022-07-27": 4165,
-  "2022-07-28": 4165,
-  "2022-07-29": 4165,
-  "2022-07-30": 4165,
-  "2022-07-31": 4165,
-  "2022-08-01": 4165,
-  "2022-08-02": 4165,
-  "2022-08-03": 4165,
-  "2022-08-04": 4165,
-  "2022-08-05": 4165,
-  "2022-08-06": 4165,
-  "2022-08-07": 4165,
-  "2022-08-08": 4165,
-  "2022-08-09": 4165,
-  "2022-08-10": 4165,
-  "2022-08-11": 4165,
-  "2022-08-12": 4165,
-  "2022-08-13": 4165,
-  "2022-08-14": 4165,
-  "2022-08-15": 4165,
-  "2022-08-16": 4165,
-  "2022-08-17": 4165,
-  "2022-08-18": 4165,
-  "2022-08-19": 4165,
-  "2022-08-20": 4165,
-  "2022-08-21": 4165,
-  "2022-08-22": 4165,
-  "2022-08-23": 4165,
-  "2022-08-24": 4165,
-  "2022-08-25": 4165,
-  "2022-08-26": 4165,
-  "2022-08-27": 4165,
-  "2022-08-28": 4165,
-  "2022-08-29": 4165,
-  "2022-08-30": 4165,
-  "2022-08-31": 4165,
-  "2022-09-01": 4165,
-  "2022-09-02": 4165,
-  "2022-09-03": 4165,
-  "2022-09-04": 4165,
-  "2022-09-05": 4165,
-  "2022-09-06": 4165,
-  "2022-09-07": 4165,
-  "2022-09-09": 4165,
-  "2022-09-10": 4165,
-  "2022-09-11": 4165,
-  "2022-09-12": 4165,
-  "2022-09-13": 4165,
-  "2022-09-15": 4165,
-  "2022-09-16": 4165,
-  "2022-09-17": 4165,
-  "2022-09-18": 4165,
-  "2022-09-19": 4165,
-  "2022-09-20": 4165,
-  "2022-09-21": 4165,
-  "2022-09-22": 4165,
-  "2022-09-23": 4165,
-  "2022-09-24": 4165,
-  "2022-09-25": 4165,
-  "2022-09-26": 4165,
-  "2022-09-27": 4165,
-  "2022-09-28": 4165,
-  "2022-09-29": 4165,
-  "2022-09-30": 4165,
-  "2022-10-01": 4165,
-  "2022-10-02": 4165,
-  "2022-10-03": 4165,
-  "2022-10-04": 4165,
-  "2022-10-05": 4165,
-  "2022-10-06": 4165,
-  "2022-10-07": 4165,
-  "2022-10-08": 4165,
-  "2022-10-09": 4165,
-  "2022-10-10": 4165,
-  "2022-10-11": 4165,
-  "2022-10-12": 4165,
-  "2022-10-13": 4165,
-  "2022-10-14": 4165,
-  "2022-10-15": 4165,
-  "2022-10-16": 4165,
-  "2022-10-17": 4165,
-  "2022-10-18": 4165,
-  "2022-10-19": 4165,
-  "2022-10-20": 4165,
-  "2022-10-21": 4165,
-  "2022-10-22": 4165,
-  "2022-10-23": 4165,
-  "2022-10-24": 4165,
-  "2022-10-25": 4165,
-  "2022-10-26": 4165,
-  "2022-10-27": 4165,
-  "2022-10-28": 4165,
-  "2022-10-29": 4165,
-  "2022-10-30": 4165,
-  "2022-10-31": 4165,
-  "2022-11-01": 4165,
-  "2022-11-02": 4165,
-  "2022-11-03": 4165,
-  "2022-11-04": 4165,
-  "2022-11-05": 4165,
-  "2022-11-06": 4165,
-  "2022-11-07": 4165,
-  "2022-11-08": 4165,
-  "2022-11-09": 4165,
-  "2022-11-10": 4165,
-  "2022-11-11": 4165,
-  "2022-11-12": 4165,
-  "2022-11-13": 4165,
-  "2022-11-14": 4165,
-  "2022-11-15": 4165,
-  "2022-11-16": 4165,
-  "2022-11-17": 4165,
-  "2022-11-18": 4165,
-  "2022-11-19": 4165,
-  "2022-11-20": 4165,
-  "2022-11-21": 4165,
-  "2022-11-22": 4165,
-  "2022-11-23": 4165,
-  "2022-11-24": 4165,
-  "2022-11-25": 4165,
-  "2022-11-26": 4165,
-  "2022-11-27": 4165,
-  "2022-11-28": 4165,
-  "2022-11-29": 4165,
-  "2022-11-30": 4165,
-  "2022-12-01": 4165,
-  "2022-12-02": 4165,
-  "2022-12-03": 4165,
-  "2022-12-04": 4165,
-  "2022-12-05": 4165,
-  "2022-12-06": 4165,
-  "2022-12-07": 4165,
-  "2022-12-08": 4165,
-  "2022-12-09": 4165,
-  "2022-12-10": 4165,
-  "2022-12-11": 4165,
-  "2022-12-12": 4165,
-  "2022-12-13": 4165,
-  "2022-12-14": 4165,
-  "2022-12-15": 4165,
-  "2022-12-16": 4165,
-  "2022-12-17": 4165,
-  "2022-12-18": 4165,
-  "2022-12-19": 4165,
-  "2022-12-20": 4165,
-  "2022-12-21": 4165,
-  "2022-12-22": 4165,
-  "2022-12-24": 4165,
-  "2022-12-25": 4165,
-  "2022-12-26": 4165,
-  "2022-12-27": 4165,
-  "2022-12-28": 4165,
-  "2022-12-29": 4165,
-  "2022-12-30": 4165,
-  "2022-12-31": 4165,
-  "2023-01-01": 4165,
-  "2023-01-02": 4165,
-  "2023-01-03": 4165,
-  "2023-01-04": 4165,
-  "2023-01-05": 4165,
-  "2023-01-06": 4165,
-  "2023-01-07": 4165,
-  "2023-01-08": 4165,
-  "2023-01-09": 4165,
-  "2023-01-10": 4165,
-  "2023-01-11": 4165,
-  "2023-01-12": 4165,
-  "2023-01-13": 4165,
-  "2023-01-14": 4165,
-  "2023-01-15": 4165,
-  "2023-01-16": 4165,
-  "2023-01-17": 4165,
-  "2023-01-18": 4165,
-  "2023-01-19": 4165,
-  "2023-01-20": 4165,
-  "2023-01-21": 4165,
-  "2023-01-22": 4165,
-  "2023-01-23": 4165,
-  "2023-01-24": 4165,
-  "2023-01-25": 4165,
-  "2023-01-26": 4165,
-  "2023-01-27": 4165,
-  "2023-01-28": 4165,
-  "2023-01-29": 4165,
-  "2023-01-30": 4165,
-  "2023-01-31": 4165,
-  "2023-02-01": 4165,
-  "2023-02-02": 4165,
-  "2023-02-03": 4165,
-  "2023-02-04": 4165,
-  "2023-02-05": 4165,
-  "2023-02-06": 4165,
-  "2023-02-07": 4165,
-  "2023-02-08": 4165,
-  "2023-02-09": 4165,
-  "2023-02-10": 4165,
-  "2023-02-11": 4165,
-  "2023-02-12": 4165,
-  "2023-02-13": 4165,
-  "2023-02-14": 4165,
-  "2023-02-15": 4165,
-  "2023-02-16": 4165,
-  "2023-02-17": 4165,
-  "2023-02-18": 4165,
-  "2023-02-19": 4165,
-  "2023-02-20": 4165,
-  "2023-02-21": 4165,
-  "2023-02-22": 4165,
-  "2023-02-23": 4165,
-  "2023-02-24": 4165,
-  "2023-02-25": 4165,
-  "2023-02-26": 4165,
-  "2023-02-27": 4165,
-  "2023-02-28": 4165,
-  "2023-03-01": 4165,
-  "2023-03-02": 4165,
-  "2023-03-03": 4165,
-  "2023-03-04": 4165,
-  "2023-03-05": 4165,
-  "2023-03-06": 4165,
-  "2023-03-07": 4165,
-  "2023-03-08": 4165,
-  "2023-03-09": 4165,
-  "2023-03-10": 4165,
-  "2023-03-11": 4165,
-  "2023-03-12": 4165,
-  "2023-03-13": 4165,
-  "2023-03-14": 4165,
-  "2023-03-15": 4165,
-  "2023-03-16": 4165,
-  "2023-03-17": 4165,
-  "2023-03-18": 4165,
-  "2023-03-19": 4165,
-  "2023-03-20": 4165,
-  "2023-03-21": 4165,
-  "2023-03-22": 4165,
-  "2023-03-23": 4165,
-  "2023-03-24": 4165,
-  "2023-03-25": 4165,
-  "2023-03-26": 4165,
-  "2023-03-27": 4165,
-  "2023-03-28": 4165,
-  "2023-03-29": 4165,
-  "2023-03-30": 4165,
-  "2023-03-31": 4165,
-  "2023-04-01": 4165,
-  "2023-04-02": 4165,
-  "2023-04-03": 4165,
-  "2023-04-04": 4165,
-  "2023-04-05": 4165,
-  "2023-04-06": 4165,
-  "2023-04-07": 4165,
-  "2023-04-09": 4165,
-  "2023-04-10": 4165,
-  "2023-04-11": 4165,
-  "2023-04-12": 4165,
-  "2023-04-13": 4165,
-  "2023-04-14": 4165,
-  "2023-04-15": 4165,
-  "2023-04-16": 4165,
-  "2023-04-17": 4165,
-  "2023-04-18": 4165,
-  "2023-04-19": 4165,
-  "2023-04-20": 4165,
-  "2023-04-21": 4165,
-  "2023-04-22": 4165,
-  "2023-04-23": 4165,
-  "2023-04-24": 4165,
-  "2023-04-25": 4165,
-  "2023-04-26": 4165,
-  "2023-04-27": 4165,
-  "2023-04-28": 4165,
-  "2023-04-29": 4165,
-  "2023-04-30": 4165,
-  "2023-05-01": 4165,
-  "2023-05-02": 4165,
-  "2023-05-03": 4165,
-  "2023-05-04": 4165,
-  "2023-05-05": 4165,
-  "2023-05-06": 4165,
-  "2023-05-07": 4165,
-  "2023-05-08": 4165,
-  "2023-05-09": 4165,
-  "2023-05-10": 4165,
-  "2023-05-11": 4165,
-  "2023-05-12": 4165,
-  "2023-05-13": 4165,
-  "2023-05-14": 4165,
-  "2023-05-15": 4165,
-  "2023-05-16": 4165,
-  "2023-05-17": 4165,
-  "2023-05-18": 4165,
-  "2023-05-19": 4165,
-  "2023-05-20": 4165,
-  "2023-05-21": 4165,
-  "2023-05-22": 4165,
-  "2023-05-23": 4165,
-  "2023-05-24": 4165,
-  "2023-05-25": 4165,
-  "2023-05-26": 4165,
-  "2023-05-27": 4165,
-  "2023-05-28": 4165,
-  "2023-05-29": 4165,
-  "2023-05-30": 4165,
-  "2023-05-31": 4165,
-  "2023-06-01": 4165,
-  "2023-06-02": 4165,
-  "2023-06-03": 4165,
-  "2023-06-04": 4165,
-  "2023-06-05": 4165,
-  "2023-06-06": 4165,
-  "2023-06-07": 4165,
-  "2023-06-08": 4165,
-  "2023-06-09": 4165,
-  "2023-06-10": 4165,
-  "2023-06-11": 4165,
-  "2023-06-12": 4165,
-  "2023-06-13": 4165,
-  "2023-06-14": 4165,
-  "2023-06-15": 4165,
-  "2023-06-16": 4165,
-  "2023-06-17": 4165,
-  "2023-06-18": 4165,
-  "2023-06-19": 4165,
-  "2023-06-20": 4165,
-  "2023-06-21": 4165,
-  "2023-06-22": 4165,
-  "2023-06-23": 4165,
-  "2023-06-24": 4165,
-  "2023-06-25": 4165,
-  "2023-06-26": 4165,
-  "2023-06-27": 4165,
-  "2023-06-28": 4165,
-  "2023-06-29": 4165,
-  "2023-06-30": 4165,
-  "2023-07-01": 4165,
-  "2023-07-02": 4165,
-  "2023-07-03": 4165,
-  "2023-07-04": 4165,
-  "2023-07-05": 4165,
-  "2023-07-06": 4165,
-  "2023-07-07": 4165,
-  "2023-07-08": 4165,
-  "2023-07-09": 4165,
-  "2023-07-10": 4165,
-  "2023-07-11": 4165,
-  "2023-07-12": 4165,
-  "2023-07-13": 4165,
-  "2023-07-14": 4165,
-  "2023-07-15": 4165,
-  "2023-07-16": 4165,
-  "2023-07-17": 4165,
-  "2023-07-18": 4165,
-  "2023-07-19": 4165,
-  "2023-07-20": 4165,
-  "2023-07-21": 4165,
-  "2023-07-22": 4165,
-  "2023-07-23": 4165,
-  "2023-07-24": 4165,
-  "2023-07-25": 4165,
-  "2023-07-26": 4165,
-  "2023-07-27": 4165,
-  "2023-07-28": 4165,
-  "2023-07-29": 4165,
-  "2023-07-30": 4165,
-  "2023-07-31": 4165,
-  "2023-08-01": 4165,
-  "2023-08-02": 4165,
-  "2023-08-03": 4165,
-  "2023-08-04": 4165,
-  "2023-08-05": 4165,
-  "2023-08-06": 4165,
-  "2023-08-07": 4165,
-  "2023-08-08": 4165,
-  "2023-08-09": 4165,
-  "2023-08-10": 4165,
-  "2023-08-11": 4165,
-  "2023-08-12": 4165,
-  "2023-08-13": 4165,
-  "2023-08-14": 4165,
-  "2023-08-15": 4165,
-  "2023-08-16": 4165,
-  "2023-08-17": 4165,
-  "2023-08-18": 4165,
-  "2023-08-19": 4165,
-  "2023-08-20": 4165,
-  "2023-08-21": 4165,
-  "2023-08-22": 4165,
-  "2023-08-23": 4165,
-  "2023-08-24": 4165,
-  "2023-08-25": 4165,
-  "2023-08-26": 4165,
-  "2023-08-27": 4165,
-  "2023-08-28": 4165,
-  "2023-08-29": 4165,
-  "2023-08-30": 4165,
-  "2023-08-31": 4165,
-  "2023-09-01": 4165,
-  "2023-09-02": 4165,
-  "2023-09-03": 4165,
-  "2023-09-04": 4165,
-  "2023-09-05": 4165,
-  "2023-09-06": 4165,
-  "2023-09-07": 4165,
-  "2023-09-08": 4165,
-  "2023-09-09": 4165,
-  "2023-09-10": 4165,
-  "2023-09-11": 4165,
-  "2023-09-12": 4165,
-  "2023-09-13": 4165,
-  "2023-09-14": 4165,
-  "2023-09-15": 4165,
-  "2023-09-16": 4165,
-  "2023-09-17": 4165,
-  "2023-09-18": 4165,
-  "2023-09-19": 4165,
-  "2023-09-20": 4165,
-  "2023-09-21": 4165,
-  "2023-09-22": 4165,
-  "2023-09-23": 4165,
-  "2023-09-24": 4165,
-  "2023-09-25": 4165,
-  "2023-09-26": 4165,
-  "2023-09-27": 4165,
-  "2023-09-28": 4165,
-  "2023-09-29": 4165,
-  "2023-09-30": 4165,
-  "2023-10-01": 4165,
-  "2023-10-02": 4165,
-  "2023-10-03": 4165,
-  "2023-10-04": 4165,
-  "2023-10-05": 4165,
-  "2023-10-06": 4165,
-  "2023-10-07": 4165,
-  "2023-10-08": 4165,
-  "2023-10-09": 4165,
-  "2023-10-10": 4165,
-  "2023-10-11": 4165,
-  "2023-10-12": 4165,
-  "2023-10-13": 4165,
-  "2023-10-14": 4165,
-  "2023-10-15": 4165,
-  "2023-10-16": 4165,
-  "2023-10-17": 4165,
-  "2023-10-18": 4165,
-  "2023-10-19": 4165,
-  "2023-10-20": 4165,
-  "2023-10-21": 4165,
-  "2023-10-22": 4165,
-  "2023-10-23": 4165,
-  "2023-10-24": 4165,
-  "2023-10-25": 4165,
-  "2023-10-26": 4165,
-  "2023-10-27": 4165,
-  "2023-10-28": 4165,
-  "2023-10-29": 4165,
-  "2023-10-30": 4165,
-  "2023-10-31": 4165,
-  "2023-11-01": 4165,
-  "2023-11-02": 4165,
-  "2023-11-03": 4165,
-  "2023-11-04": 4165,
-  "2023-11-05": 4165,
-  "2023-11-06": 4165,
-  "2023-11-07": 4165,
-  "2023-11-08": 4165,
-  "2023-11-09": 4165,
-  "2023-11-10": 4165,
-  "2023-11-11": 4165,
-  "2023-11-12": 4165,
-  "2023-11-13": 4165,
-  "2023-11-14": 4165,
-  "2023-11-15": 4165,
-  "2023-11-16": 4165,
-  "2023-11-17": 4165,
-  "2023-11-18": 4165,
-  "2023-11-19": 4165,
-  "2023-11-20": 4165,
-  "2023-11-21": 4165,
-  "2023-11-22": 4165,
-  "2023-11-23": 4165,
-  "2023-11-24": 4165,
-  "2023-11-25": 4165,
-  "2023-11-26": 4165,
-  "2023-11-27": 4165,
-  "2023-11-28": 4165,
-  "2023-11-29": 4165,
-  "2023-11-30": 4165,
-  "2023-12-01": 4165,
-  "2023-12-02": 4165,
-  "2023-12-03": 4165,
-  "2023-12-04": 4165,
-  "2023-12-05": 4165,
-  "2023-12-06": 4165,
-  "2023-12-07": 4165,
-  "2023-12-08": 4165,
-  "2023-12-09": 4165,
-  "2023-12-10": 4165,
-  "2023-12-11": 4165,
-  "2023-12-12": 4165,
-  "2023-12-13": 4165,
-  "2023-12-14": 4165,
-  "2023-12-15": 4165,
-  "2023-12-16": 4165,
-  "2023-12-17": 4165,
-  "2023-12-18": 4165,
-  "2023-12-19": 4165,
-  "2023-12-20": 4165,
-  "2023-12-21": 4165,
-  "2023-12-22": 4165,
-  "2023-12-23": 4165,
-  "2023-12-24": 4165,
-  "2023-12-25": 4165,
-  "2023-12-26": 4165,
-  "2023-12-27": 4165,
-  "2023-12-30": 4165,
-  "2023-12-31": 4165,
-  "2024-01-01": 4165,
-  "2024-01-02": 4165,
-  "2024-01-03": 4165
+  "2024-01-17": 4165,
+  "date_first_scraped": "2021-12-21",
+  "description": "Listen to poet Dylan Thomas read great works \u2013 both his own and those of others.",
+  "name": "Readings from Dylan Thomas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Reading Vol. 1: A Child's Christmas in Wales & Five Poems",
+        "url": "https://open.spotify.com/album/6NHyJiihn1aPvzHNtC4AWf"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1192200,
+      "name": "A Child's Christmas in Wales, A Story",
+      "url": "https://open.spotify.com/track/0omhMtNi2uB1RbLh8k36sf"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 3: Over Sir John's Hill & Other Poems",
+        "url": "https://open.spotify.com/album/46Rw68zrokUzrrqJzvHV4R"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818693,
+      "name": "A Few Words of a Kind",
+      "url": "https://open.spotify.com/track/2Y3flBBh4awuAJTAStdMIs"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84333,
+      "name": "A Glass of Beer (James Stephens)",
+      "url": "https://open.spotify.com/track/2zc1xyMoTQgihowYHaJeKd"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 2: Poem On His Birthday, And Death Shall Have No Dominion, Lament & Other Poems",
+        "url": "https://open.spotify.com/album/67ZfKKtotGkxYq0gYHywhB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104373,
+      "name": "A Refusal to Mourn the Death, By Fire, Of a Child in London",
+      "url": "https://open.spotify.com/track/4ilCmUEHTsIJ56DBpDTs7l"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637400,
+      "name": "A Visit to America - An Irreverent Preamble",
+      "url": "https://open.spotify.com/track/5qkpMDNGni23Bu3lZSnvH2"
+    },
+    {
+      "album": {
+        "name": "Reading Quite Early One Morning & Other Memories",
+        "url": "https://open.spotify.com/album/25WGwWxDwAg58dS60U82TM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567693,
+      "name": "A Visit to Grandpa's",
+      "url": "https://open.spotify.com/track/6muCiVnzKbEM4AeWElOp6A"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 2: Poem On His Birthday, And Death Shall Have No Dominion, Lament & Other Poems",
+        "url": "https://open.spotify.com/album/67ZfKKtotGkxYq0gYHywhB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 712573,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/2fpXKUI85PiH14z4QpK8ws"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "After the Funeral",
+      "url": "https://open.spotify.com/track/6ncUcyA0fdeZFD13Am290d"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26106,
+      "name": "After the Funeral (Introduction)",
+      "url": "https://open.spotify.com/track/79SkhF9krJk4W00xZ2scX0"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79733,
+      "name": "Among Those Killed in the Dawn Raid Was a Man Aged One Hundred",
+      "url": "https://open.spotify.com/track/0gPVaqY2dmcTjFYbthzjVr"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148133,
+      "name": "An Introduction to Thomas Hardy",
+      "url": "https://open.spotify.com/track/3w8wFEdVGmhujHVGdpM0U4"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "An Irreverent Introduction",
+      "url": "https://open.spotify.com/track/6wz0ADkg3vCp1VAStk2pvS"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 2: Poem On His Birthday, And Death Shall Have No Dominion, Lament & Other Poems",
+        "url": "https://open.spotify.com/album/67ZfKKtotGkxYq0gYHywhB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116533,
+      "name": "And Death Shall Have No Dominion",
+      "url": "https://open.spotify.com/track/4VUltllrPc86Mr6E3gU18F"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "As I Walked Out One Evening (W.H. Auden)",
+      "url": "https://open.spotify.com/track/2FjbUUhEk3Sq8uoPzzTEFN"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 1: A Child's Christmas in Wales & Five Poems",
+        "url": "https://open.spotify.com/album/6NHyJiihn1aPvzHNtC4AWf"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 724760,
+      "name": "Ballad of the Long-Legged Bait",
+      "url": "https://open.spotify.com/track/7LCHPFQdrBjEpN2IqPKNG3"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92040,
+      "name": "Broken Appointment (Thomas Hardy)",
+      "url": "https://open.spotify.com/track/1LrrDgkhrjtnR2ysqABKkE"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 1: A Child's Christmas in Wales & Five Poems",
+        "url": "https://open.spotify.com/album/6NHyJiihn1aPvzHNtC4AWf"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Ceremony After a Fire Raid",
+      "url": "https://open.spotify.com/track/2BU0ZtcVqrkBiqeM6K0dN4"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1080933,
+      "name": "Chapter I - A Fine Beginning, Part 4 (Beginning)",
+      "url": "https://open.spotify.com/track/2wluropaOij3XP8w2qp5in"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439333,
+      "name": "Chapter I - Part 4 (Conclusion)",
+      "url": "https://open.spotify.com/track/1spJDnSKFDuUuy4BiKNqRA"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Chapter II - Part 2",
+      "url": "https://open.spotify.com/track/5eN07Hj87H43ECmWU1kPtJ"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 987333,
+      "name": "Chapter II - Part 3",
+      "url": "https://open.spotify.com/track/6hQcNg0PZw9BpS2ndijkzP"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98866,
+      "name": "Chapter II - Part 4",
+      "url": "https://open.spotify.com/track/1POFHJQ7TOIRfnmizNY6CA"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601000,
+      "name": "Chapter II - Part I (Conclusion)",
+      "url": "https://open.spotify.com/track/2z4YTLZI1pmIEi7USIpZiB"
+    },
+    {
+      "album": {
+        "name": "Reads from His Adventures in the Skin Trade",
+        "url": "https://open.spotify.com/album/58sHhvpeTpSKrqRYtyH61S"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479240,
+      "name": "Chapter II - Plenty of Furniture, Part I (Beginning)",
+      "url": "https://open.spotify.com/track/7piPtlgSthsgEz2waj3gaM"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120200,
+      "name": "Chard Witlow: Mr. T.S. Eliot's Sunday Evening Broadcast Postscript (Henry Reid)",
+      "url": "https://open.spotify.com/track/4KhX7LBXUalpxRPWj7Je0B"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Child Lovers (W.H. Davies)",
+      "url": "https://open.spotify.com/track/3IqkGh2Ddz3gyhrTv7RFKP"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49133,
+      "name": "Comus 11, 331-342 (John Milton)",
+      "url": "https://open.spotify.com/track/3wWc3nqDk9Ww8YSS9bHCJk"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79173,
+      "name": "Comus 11, 366-385 (John Milton)",
+      "url": "https://open.spotify.com/track/6OYlZtqgamd8o0efB9BBG1"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271560,
+      "name": "Comus 11, 407-475 (John Milton)",
+      "url": "https://open.spotify.com/track/3QFwOKCeuIB7KaLAIbIwvh"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84240,
+      "name": "Comus 11, 568-608 (John Milton)",
+      "url": "https://open.spotify.com/track/6gbWCm4MprCBPiBonJpjTK"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas Reading Vol. 1",
+        "url": "https://open.spotify.com/album/68IRtfkGjnj5FT9fq1yRAo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Do Not Go Gentle into That Good Night",
+      "url": "https://open.spotify.com/track/6iLJE6LRRlqawQHOQoem1c"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390493,
+      "name": "Dr. Faustus Excerpt (Christopher Marlowe)",
+      "url": "https://open.spotify.com/track/4brDwmFENWKdsgJABDIrdN"
+    },
+    {
+      "album": {
+        "name": "Reading Volume 1",
+        "url": "https://open.spotify.com/album/4hU0Mnk6BU6tzfSHsS81Y8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257270,
+      "name": "Fern Hill",
+      "url": "https://open.spotify.com/track/1S1sXikTRFp0e5jvY33uff"
+    },
+    {
+      "album": {
+        "name": "Reading Quite Early One Morning & Other Memories",
+        "url": "https://open.spotify.com/album/25WGwWxDwAg58dS60U82TM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1097106,
+      "name": "Holiday Memory",
+      "url": "https://open.spotify.com/track/3qL3wrtNlAOhKDSlovoJTT"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "If I Were Tickled By the Rub of Love",
+      "url": "https://open.spotify.com/track/5C6EabQ85DzekbrQBxOB7t"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "If My Head Hurt a Hair's Foot",
+      "url": "https://open.spotify.com/track/3sUtd2EBJJU6AdJQt8QDbd"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "In Country Heaven (Excerpt)",
+      "url": "https://open.spotify.com/track/44Kjjj6kt7jIP23up4Ctno"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548040,
+      "name": "In Country Sleep",
+      "url": "https://open.spotify.com/track/1TfITQ9OZYUhpj0rRTjl3l"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106493,
+      "name": "In Death Divided (Thomas Hardy)",
+      "url": "https://open.spotify.com/track/3avahWNpbybOsAoyg5zN43"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67400,
+      "name": "In My Craft",
+      "url": "https://open.spotify.com/track/3xcLrGuE7ES79PG1fginA6"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "In My Craft and Sullen Art",
+      "url": "https://open.spotify.com/track/5CVaBZUn1V9zfH8aWR2ud9"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116360,
+      "name": "In Tara's Halls (William Butler Yeats)",
+      "url": "https://open.spotify.com/track/05nj4UMi3A4qvgnheRb8Cp"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335426,
+      "name": "In the White Giant's Thigh",
+      "url": "https://open.spotify.com/track/71c0ca3Z9558E0BJ6JycUF"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373266,
+      "name": "Intro to Over Sir John's Hill",
+      "url": "https://open.spotify.com/track/0K0Bc6dzldfsVkeTb662Fe"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127933,
+      "name": "Intro: The Voice of Dylan Thomas",
+      "url": "https://open.spotify.com/track/5z6T3Z2r8SeWz5npkiYVLF"
+    },
+    {
+      "album": {
+        "name": "Under Milk Wood",
+        "url": "https://open.spotify.com/album/11JIW2QLPo2HkZJQWa3oYn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2758550,
+      "name": "Introduction/Part One",
+      "url": "https://open.spotify.com/track/6jl5kdIZVNIPVv63kivuFL"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112560,
+      "name": "John Kinsella's Lament for Mrs. Mary Moore (W.B. Yeats)",
+      "url": "https://open.spotify.com/track/0AUCDQ5536gDjPXKTf7qJQ"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 2: Poem On His Birthday, And Death Shall Have No Dominion, Lament & Other Poems",
+        "url": "https://open.spotify.com/album/67ZfKKtotGkxYq0gYHywhB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269533,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/1hMXnpcvQi13MOqugKHlxV"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Lapis Lazuli (William Butler Yeats)",
+      "url": "https://open.spotify.com/track/4VfJ0ecX8JH3vhtvGPDgEa"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256866,
+      "name": "Laugharne",
+      "url": "https://open.spotify.com/track/2bebNoBOk26DKF4hOY3y2d"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "Lent (W.R. Rogers)",
+      "url": "https://open.spotify.com/track/30hONLNbOj2keSGwPoC7En"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 3: Over Sir John's Hill & Other Poems",
+        "url": "https://open.spotify.com/album/46Rw68zrokUzrrqJzvHV4R"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148626,
+      "name": "Light Breaks Where No Sun Shines",
+      "url": "https://open.spotify.com/track/1QYG5vJyrIf5dWoueDwgmy"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas reads his prose & more poetry",
+        "url": "https://open.spotify.com/album/3D01PN7Mfj6gTjz1lhzPHc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/2IPh0FDZvqgOEPoyWbixBO"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80400,
+      "name": "Love in the Asylum",
+      "url": "https://open.spotify.com/track/109Zec5XsMKvAsnxdxwY7Q"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas Reading, Volume IV",
+        "url": "https://open.spotify.com/album/5vCWfWCArfoZ0NrinmQabm"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72613,
+      "name": "Master And Bos'n Song",
+      "url": "https://open.spotify.com/track/5u61emBs5etWhisNTnPFQL"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76866,
+      "name": "Master and Bos'n Song (W.H. Auden)",
+      "url": "https://open.spotify.com/track/5kVefSHM9xOp5BG9dF0ONn"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Naming of Parts (Henry Reid)",
+      "url": "https://open.spotify.com/track/6EH5gELIepnblCl9otIu6c"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144560,
+      "name": "On Reading One's Own Poems",
+      "url": "https://open.spotify.com/track/6JayGHoNe6BYA3XIDBHJV7"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 3: Over Sir John's Hill & Other Poems",
+        "url": "https://open.spotify.com/album/46Rw68zrokUzrrqJzvHV4R"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114773,
+      "name": "On the Marriage of a Virgin",
+      "url": "https://open.spotify.com/track/7pWKdPPI5jj9EPBVsIHDhf"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "One Poet Visits Another (W.H. Davies)",
+      "url": "https://open.spotify.com/track/0x5DaRTSCTU6uPn04ks2TB"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Over Sir John's Hill",
+      "url": "https://open.spotify.com/track/2U4mcnGriYuDOczJPVXBZh"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130533,
+      "name": "Paradise Lost Book I, 11, 242-270 (John Milton)",
+      "url": "https://open.spotify.com/track/0en8LjpgmxswQCX7olzPj2"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67533,
+      "name": "Paradise Lost Book I, 11, 315-330 (John Milton)",
+      "url": "https://open.spotify.com/track/387Oz50uUWYGefz1MB5Y6w"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Paradise Lost Book I, 11, 622-663 (John Milton)",
+      "url": "https://open.spotify.com/track/1iJCf6PqiHPH1TUPgOnQK7"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145826,
+      "name": "Paradise Lost Book II, 11, 430-466 (John Milton)",
+      "url": "https://open.spotify.com/track/1RTLT3OETmJLR58uwdhEmw"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31373,
+      "name": "Paradise Lost Book II, 11, 681-687 (John Milton)",
+      "url": "https://open.spotify.com/track/3ajNLPtec6EwHBIvVQOD5s"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116093,
+      "name": "Paradise Lost Book II, 11, 817-844 (John Milton)",
+      "url": "https://open.spotify.com/track/2VtcEKQsPzCMTUUz5pnH7J"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72733,
+      "name": "Paradise Lost Book II, 11, 968-987 (John Milton)",
+      "url": "https://open.spotify.com/track/3NCFIvBZ0y1O8sblJPiC9b"
+    },
+    {
+      "album": {
+        "name": "Under Milk Wood",
+        "url": "https://open.spotify.com/album/11JIW2QLPo2HkZJQWa3oYn"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2549084,
+      "name": "Part Two/Conclusion",
+      "url": "https://open.spotify.com/track/1lAqJVuxrqKSp7mMPY86s2"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141706,
+      "name": "Passing the Graveyard (Andrew Young)",
+      "url": "https://open.spotify.com/track/7GA3lehTsutHRWJCYsBwfr"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Poem in October (It Was My Thirtieth Year...)",
+      "url": "https://open.spotify.com/track/3S5VJanNQwuEXY1q5qDLcY"
+    },
+    {
+      "album": {
+        "name": "Reading Volume 2",
+        "url": "https://open.spotify.com/album/1tdk3WkKJx3XR9uC54QocV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442076,
+      "name": "Poem On His Birthday",
+      "url": "https://open.spotify.com/track/1VzR5wZy86INF0wW2hdBK5"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas reads his prose & more poetry",
+        "url": "https://open.spotify.com/album/3D01PN7Mfj6gTjz1lhzPHc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/2IPh0FDZvqgOEPoyWbixBO"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335400,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/6ioGK67PK26DFrLQilUdWW"
+    },
+    {
+      "album": {
+        "name": "Reading Quite Early One Morning & Other Memories",
+        "url": "https://open.spotify.com/album/25WGwWxDwAg58dS60U82TM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758666,
+      "name": "Quite Early One Morning",
+      "url": "https://open.spotify.com/track/2EMXBjA4JjRKsyvRSTNHTe"
+    },
+    {
+      "album": {
+        "name": "Reading Quite Early One Morning & Other Memories",
+        "url": "https://open.spotify.com/album/25WGwWxDwAg58dS60U82TM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 816000,
+      "name": "Reminiscences of Childhood",
+      "url": "https://open.spotify.com/track/2o0zi3oL0zlsuoQOF1nuNI"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas reads his prose & more poetry",
+        "url": "https://open.spotify.com/album/3D01PN7Mfj6gTjz1lhzPHc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/2IPh0FDZvqgOEPoyWbixBO"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1606400,
+      "name": "Return Journey",
+      "url": "https://open.spotify.com/track/3CcHlR7KJVXuBoUUV0Sj4v"
+    },
+    {
+      "album": {
+        "name": "In Country Heaven - The Evolution of a Poem",
+        "url": "https://open.spotify.com/album/3BJdAUC7piIzXsD0AFNlgd"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504733,
+      "name": "Revisions of Over Sir John's Hill",
+      "url": "https://open.spotify.com/track/7N1uzAGk5rHDsyp36O3sDS"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Sacco Writes to His Son (Alun Lewis)",
+      "url": "https://open.spotify.com/track/1zcjIBrq5yGxg5Qa8k4jr3"
+    },
+    {
+      "album": {
+        "name": "Reading Volume 2",
+        "url": "https://open.spotify.com/album/1tdk3WkKJx3XR9uC54QocV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85003,
+      "name": "Should Laterns Shine",
+      "url": "https://open.spotify.com/track/1ZIecekxxtRrEY3bCtXfHz"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Song (Alun Lewis)",
+      "url": "https://open.spotify.com/track/0Jp3QWjKLUhWdETLXpawj5"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Strange Meeting (Parts 1 & 2) [Wilfred Owen]",
+      "url": "https://open.spotify.com/track/0GAI2h677tw0Acnpc4NCfo"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "The Bards (Walter DE La Mare)",
+      "url": "https://open.spotify.com/track/6nHJQWtQsIvmSOOLSkStqv"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108640,
+      "name": "The Child On the Cliffs (Edward Thomas)",
+      "url": "https://open.spotify.com/track/7j6XPTlcjjbAYvPZ0hTBgX"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140866,
+      "name": "The Collier (Vernon Watkins)",
+      "url": "https://open.spotify.com/track/055U92LdrZxtZC5bAp6YQB"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas reads his prose & more poetry",
+        "url": "https://open.spotify.com/album/3D01PN7Mfj6gTjz1lhzPHc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/2IPh0FDZvqgOEPoyWbixBO"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111400,
+      "name": "The Force that through the Green Fuse Drives the Flower\u2026",
+      "url": "https://open.spotify.com/track/5mojCyTzkLzI0m8mUj4FHe"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83800,
+      "name": "The Hand That Signed the Paper",
+      "url": "https://open.spotify.com/track/6ZdUbh6MVL12p3ODUfclXI"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 3: Over Sir John's Hill & Other Poems",
+        "url": "https://open.spotify.com/album/46Rw68zrokUzrrqJzvHV4R"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147626,
+      "name": "The Hunchback in the Park",
+      "url": "https://open.spotify.com/track/5gsnUXjSrIKh2OBRiipkGv"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "The Leaden Echo & The Golden Echo (Gerard Hopkins)",
+      "url": "https://open.spotify.com/track/1Klp71EO0FFKRPK59YhG05"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328066,
+      "name": "The Outing, Pt. 1",
+      "url": "https://open.spotify.com/track/4K0I4jAaOwhUuZWksNZAMO"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "The Outing, Pt. 2",
+      "url": "https://open.spotify.com/track/6Mw7MPDTd9Xra2byoKr9HG"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "The Outing, Pt. 3",
+      "url": "https://open.spotify.com/track/29nlC3tur2GDMp1Rsicfk8"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "The Outing, Pt. 4",
+      "url": "https://open.spotify.com/track/0BzwyTm97HGoPmTrlbTR5g"
+    },
+    {
+      "album": {
+        "name": "Poems On the Radio",
+        "url": "https://open.spotify.com/album/5XCCCTKYxu4Hxn7hSmQvEH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "The Outing, Pt. 5",
+      "url": "https://open.spotify.com/track/6ScjnmjjpLb4Jx3zuLtxKN"
+    },
+    {
+      "album": {
+        "name": "Reading Vol. 4: A Visit to America & Poems",
+        "url": "https://open.spotify.com/album/1xT3LIwfVn7a30oyA6WVRY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96693,
+      "name": "The Owl (Edward Thomas)",
+      "url": "https://open.spotify.com/track/6gFkOyMzb3FFqpfJIlFfOX"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "The Ruined Maid (Hardy)",
+      "url": "https://open.spotify.com/track/7cgXFpD6gDfmy9kk4wFSmI"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483266,
+      "name": "The Ship of Death (D.H. Lawrence)",
+      "url": "https://open.spotify.com/track/1zyedK3cscXb48zrx9Imit"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272906,
+      "name": "The Three Bushes (William Butler Yeats)",
+      "url": "https://open.spotify.com/track/1A1cu32NE7J4ArqqrZFltW"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74026,
+      "name": "The Traveler's Curse After Misdirection (Welsh Traditional)",
+      "url": "https://open.spotify.com/track/4HxIHbDUpWBvPaMkdKwG6V"
+    },
+    {
+      "album": {
+        "name": "Reading Volume 2",
+        "url": "https://open.spotify.com/album/1tdk3WkKJx3XR9uC54QocV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197462,
+      "name": "There Was A Saviour",
+      "url": "https://open.spotify.com/track/2uxgp0Kxg4kOfERJ1FMctu"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123533,
+      "name": "This Side of Truth",
+      "url": "https://open.spotify.com/track/2sECLpWqit8iQFjcg8l9nJ"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138266,
+      "name": "To Lizbie Browne (Hardy)",
+      "url": "https://open.spotify.com/track/3lHNQIxLwcuOzbdCIeQf23"
+    },
+    {
+      "album": {
+        "name": "An Evening With Dylan Thomas",
+        "url": "https://open.spotify.com/album/1w1ye02KgS7ujdopZtd2jo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "To My Son Aged Eight (John Betjeman)",
+      "url": "https://open.spotify.com/track/6O3RxkYRTFzMP7kY2D0fgF"
+    },
+    {
+      "album": {
+        "name": "Dylan Thomas Reading, Volume IV",
+        "url": "https://open.spotify.com/album/5vCWfWCArfoZ0NrinmQabm"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2014-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 682104,
+      "name": "Vist To America",
+      "url": "https://open.spotify.com/track/2neF3l6J7LavKGDaRqxnrX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTOUZR8UoNY"
 }

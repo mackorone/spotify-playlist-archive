@@ -1,727 +1,2763 @@
 {
-  "2022-01-02": 87027,
-  "2022-01-03": 87096,
-  "2022-01-04": 87169,
-  "2022-01-05": 87248,
-  "2022-01-06": 87304,
-  "2022-01-07": 87383,
-  "2022-01-08": 87601,
-  "2022-01-09": 87602,
-  "2022-01-10": 87718,
-  "2022-01-11": 87780,
-  "2022-01-12": 87838,
-  "2022-01-13": 87910,
-  "2022-01-14": 87958,
-  "2022-01-15": 88142,
-  "2022-01-16": 88157,
-  "2022-01-17": 88329,
-  "2022-01-18": 88331,
-  "2022-01-19": 88366,
-  "2022-01-20": 88408,
-  "2022-01-21": 88467,
-  "2022-01-22": 88546,
-  "2022-01-23": 88615,
-  "2022-01-24": 88703,
-  "2022-01-25": 88776,
-  "2022-01-26": 88845,
-  "2022-01-27": 88881,
-  "2022-01-28": 88942,
-  "2022-01-29": 89030,
-  "2022-01-30": 89131,
-  "2022-01-31": 89232,
-  "2022-02-01": 89295,
-  "2022-02-02": 89352,
-  "2022-02-03": 89423,
-  "2022-02-04": 89499,
-  "2022-02-05": 89584,
-  "2022-02-06": 89683,
-  "2022-02-07": 89754,
-  "2022-02-08": 89819,
-  "2022-02-09": 89876,
-  "2022-02-10": 89915,
-  "2022-02-11": 89974,
-  "2022-02-12": 90020,
-  "2022-02-13": 90081,
-  "2022-02-14": 90153,
-  "2022-02-15": 90216,
-  "2022-02-16": 90273,
-  "2022-02-17": 90340,
-  "2022-02-18": 90407,
-  "2022-02-19": 90497,
-  "2022-02-20": 90573,
-  "2022-02-21": 90640,
-  "2022-02-22": 90675,
-  "2022-02-23": 90722,
-  "2022-02-24": 90795,
-  "2022-02-25": 90830,
-  "2022-02-26": 90912,
-  "2022-02-27": 91114,
-  "2022-02-28": 91114,
-  "2022-03-01": 91188,
-  "2022-03-02": 91233,
-  "2022-03-03": 91288,
-  "2022-03-04": 91332,
-  "2022-03-05": 91389,
-  "2022-03-06": 91450,
-  "2022-03-07": 91522,
-  "2022-03-08": 91575,
-  "2022-03-09": 91624,
-  "2022-03-10": 91670,
-  "2022-03-11": 91695,
-  "2022-03-12": 91748,
-  "2022-03-13": 91811,
-  "2022-03-14": 91903,
-  "2022-03-15": 91946,
-  "2022-03-16": 91988,
-  "2022-03-17": 92027,
-  "2022-03-18": 92101,
-  "2022-03-19": 92147,
-  "2022-03-20": 92147,
-  "2022-03-21": 92269,
-  "2022-03-22": 92299,
-  "2022-03-23": 92332,
-  "2022-03-24": 92377,
-  "2022-03-25": 92428,
-  "2022-03-26": 92464,
-  "2022-03-27": 92531,
-  "2022-03-28": 92602,
-  "2022-03-30": 92695,
-  "2022-03-31": 92751,
-  "2022-04-01": 92807,
-  "2022-04-02": 92862,
-  "2022-04-03": 92939,
-  "2022-04-04": 92989,
-  "2022-04-05": 93021,
-  "2022-04-06": 93059,
-  "2022-04-07": 93102,
-  "2022-04-08": 93146,
-  "2022-04-09": 93210,
-  "2022-04-10": 93350,
-  "2022-04-11": 93399,
-  "2022-04-12": 93411,
-  "2022-04-13": 93465,
-  "2022-04-14": 93521,
-  "2022-04-15": 93602,
-  "2022-04-16": 93682,
-  "2022-04-17": 93755,
-  "2022-04-18": 93835,
-  "2022-04-19": 93856,
-  "2022-04-20": 93909,
-  "2022-04-21": 93959,
-  "2022-04-22": 94007,
-  "2022-04-23": 94067,
-  "2022-04-24": 94122,
-  "2022-04-25": 94173,
-  "2022-04-26": 94203,
-  "2022-04-27": 94247,
-  "2022-04-28": 94276,
-  "2022-04-29": 94352,
-  "2022-04-30": 94409,
-  "2022-05-01": 94492,
-  "2022-05-02": 94492,
-  "2022-05-03": 94524,
-  "2022-05-04": 94592,
-  "2022-05-05": 94629,
-  "2022-05-06": 94665,
-  "2022-05-07": 94732,
-  "2022-05-08": 94818,
-  "2022-05-09": 94841,
-  "2022-05-10": 94866,
-  "2022-05-11": 94906,
-  "2022-05-12": 94951,
-  "2022-05-13": 95001,
-  "2022-05-14": 95057,
-  "2022-05-15": 95115,
-  "2022-05-16": 95160,
-  "2022-05-17": 95185,
-  "2022-05-18": 95233,
-  "2022-05-19": 95256,
-  "2022-05-20": 95304,
-  "2022-05-21": 95424,
-  "2022-05-22": 95424,
-  "2022-05-23": 95478,
-  "2022-05-24": 95517,
-  "2022-05-25": 95559,
-  "2022-05-26": 95591,
-  "2022-05-27": 95623,
-  "2022-05-28": 95671,
-  "2022-05-29": 95746,
-  "2022-05-30": 95799,
-  "2022-05-31": 95839,
-  "2022-06-01": 95905,
-  "2022-06-02": 95911,
-  "2022-06-03": 95938,
-  "2022-06-04": 95998,
-  "2022-06-05": 96053,
-  "2022-06-06": 96085,
-  "2022-06-07": 96124,
-  "2022-06-08": 96176,
-  "2022-06-09": 96207,
-  "2022-06-10": 96263,
-  "2022-06-11": 96303,
-  "2022-06-12": 96351,
-  "2022-06-13": 96396,
-  "2022-06-14": 96436,
-  "2022-06-15": 96471,
-  "2022-06-16": 96522,
-  "2022-06-17": 96565,
-  "2022-06-18": 96624,
-  "2022-06-19": 96731,
-  "2022-06-20": 96731,
-  "2022-06-21": 96764,
-  "2022-06-22": 96813,
-  "2022-06-23": 96813,
-  "2022-06-24": 96856,
-  "2022-06-25": 96892,
-  "2022-06-26": 96932,
-  "2022-06-27": 96977,
-  "2022-06-28": 97018,
-  "2022-06-29": 97055,
-  "2022-06-30": 97093,
-  "2022-07-01": 97129,
-  "2022-07-02": 97164,
-  "2022-07-03": 97207,
-  "2022-07-04": 97255,
-  "2022-07-05": 97288,
-  "2022-07-06": 97321,
-  "2022-07-07": 97352,
-  "2022-07-08": 97382,
-  "2022-07-09": 97421,
-  "2022-07-10": 97492,
-  "2022-07-11": 97534,
-  "2022-07-12": 97554,
-  "2022-07-13": 97587,
-  "2022-07-14": 97617,
-  "2022-07-15": 97650,
-  "2022-07-16": 97708,
-  "2022-07-17": 97750,
-  "2022-07-18": 97774,
-  "2022-07-19": 97821,
-  "2022-07-20": 97854,
-  "2022-07-21": 97892,
-  "2022-07-22": 97938,
-  "2022-07-23": 97987,
-  "2022-07-24": 98030,
-  "2022-07-25": 98072,
-  "2022-07-26": 98113,
-  "2022-07-27": 98156,
-  "2022-07-28": 98205,
-  "2022-07-29": 98254,
-  "2022-07-30": 98341,
-  "2022-07-31": 98341,
-  "2022-08-01": 98396,
-  "2022-08-02": 98458,
-  "2022-08-03": 98458,
-  "2022-08-04": 98509,
-  "2022-08-05": 98546,
-  "2022-08-06": 98598,
-  "2022-08-07": 98656,
-  "2022-08-08": 98714,
-  "2022-08-09": 98734,
-  "2022-08-10": 98760,
-  "2022-08-11": 98811,
-  "2022-08-12": 98846,
-  "2022-08-13": 98914,
-  "2022-08-14": 98972,
-  "2022-08-15": 99035,
-  "2022-08-16": 99086,
-  "2022-08-17": 99123,
-  "2022-08-18": 99164,
-  "2022-08-19": 99195,
-  "2022-08-20": 99257,
-  "2022-08-21": 99311,
-  "2022-08-22": 99366,
-  "2022-08-23": 99401,
-  "2022-08-24": 99447,
-  "2022-08-25": 99509,
-  "2022-08-26": 99554,
-  "2022-08-27": 99622,
-  "2022-08-28": 99690,
-  "2022-08-29": 99735,
-  "2022-08-30": 99760,
-  "2022-08-31": 99789,
-  "2022-09-01": 99825,
-  "2022-09-02": 99873,
-  "2022-09-03": 99920,
-  "2022-09-04": 99972,
-  "2022-09-05": 100038,
-  "2022-09-06": 100079,
-  "2022-09-07": 100116,
-  "2022-09-09": 100204,
-  "2022-09-10": 100245,
-  "2022-09-11": 100293,
-  "2022-09-12": 100322,
-  "2022-09-13": 100358,
-  "2022-09-15": 100432,
-  "2022-09-16": 100486,
-  "2022-09-17": 100545,
-  "2022-09-18": 100600,
-  "2022-09-19": 100652,
-  "2022-09-20": 100682,
-  "2022-09-21": 100719,
-  "2022-09-22": 100763,
-  "2022-09-23": 100803,
-  "2022-09-24": 100845,
-  "2022-09-25": 100902,
-  "2022-09-26": 100964,
-  "2022-09-27": 101008,
-  "2022-09-28": 101065,
-  "2022-09-29": 101103,
-  "2022-09-30": 101172,
-  "2022-10-01": 101227,
-  "2022-10-02": 101293,
-  "2022-10-03": 101353,
-  "2022-10-04": 101385,
-  "2022-10-05": 101426,
-  "2022-10-06": 101472,
-  "2022-10-07": 101533,
-  "2022-10-08": 101612,
-  "2022-10-09": 101725,
-  "2022-10-10": 101738,
-  "2022-10-11": 101794,
-  "2022-10-12": 101835,
-  "2022-10-13": 101883,
-  "2022-10-14": 101926,
-  "2022-10-15": 101982,
-  "2022-10-16": 102050,
-  "2022-10-17": 102109,
-  "2022-10-18": 102145,
-  "2022-10-19": 102186,
-  "2022-10-20": 102216,
-  "2022-10-21": 102263,
-  "2022-10-22": 102329,
-  "2022-10-23": 102392,
-  "2022-10-24": 102430,
-  "2022-10-25": 102472,
-  "2022-10-26": 102516,
-  "2022-10-27": 102559,
-  "2022-10-28": 102617,
-  "2022-10-29": 102673,
-  "2022-10-30": 102738,
-  "2022-10-31": 102783,
-  "2022-11-01": 102817,
-  "2022-11-02": 102870,
-  "2022-11-03": 102912,
-  "2022-11-04": 102974,
-  "2022-11-05": 103066,
-  "2022-11-06": 103130,
-  "2022-11-07": 103181,
-  "2022-11-08": 103226,
-  "2022-11-09": 103269,
-  "2022-11-10": 103320,
-  "2022-11-11": 103359,
-  "2022-11-12": 103419,
-  "2022-11-13": 103464,
-  "2022-11-14": 103539,
-  "2022-11-15": 103574,
-  "2022-11-16": 103617,
-  "2022-11-17": 103664,
-  "2022-11-18": 103689,
-  "2022-11-19": 103675,
-  "2022-11-20": 103685,
-  "2022-11-21": 103748,
-  "2022-11-22": 103924,
-  "2022-11-23": 103904,
-  "2022-11-24": 103999,
-  "2022-11-25": 104080,
-  "2022-11-26": 104170,
-  "2022-11-27": 104244,
-  "2022-11-28": 104304,
-  "2022-11-29": 104337,
-  "2022-11-30": 104375,
-  "2022-12-01": 104424,
-  "2022-12-02": 104466,
-  "2022-12-03": 104516,
-  "2022-12-04": 104584,
-  "2022-12-05": 104656,
-  "2022-12-06": 104692,
-  "2022-12-07": 104744,
-  "2022-12-08": 104793,
-  "2022-12-09": 104876,
-  "2022-12-10": 104931,
-  "2022-12-11": 104988,
-  "2022-12-12": 105084,
-  "2022-12-13": 105147,
-  "2022-12-14": 105211,
-  "2022-12-15": 105280,
-  "2022-12-16": 105331,
-  "2022-12-17": 105394,
-  "2022-12-18": 105490,
-  "2022-12-19": 105535,
-  "2022-12-20": 105629,
-  "2022-12-21": 105629,
-  "2022-12-22": 105699,
-  "2022-12-24": 105842,
-  "2022-12-25": 105964,
-  "2022-12-26": 106077,
-  "2022-12-27": 106150,
-  "2022-12-28": 106201,
-  "2022-12-29": 106276,
-  "2022-12-30": 106352,
-  "2022-12-31": 106459,
-  "2023-01-01": 106667,
-  "2023-01-02": 106825,
-  "2023-01-03": 106886,
-  "2023-01-04": 106940,
-  "2023-01-05": 107003,
-  "2023-01-06": 107080,
-  "2023-01-07": 107254,
-  "2023-01-08": 107303,
-  "2023-01-09": 107433,
-  "2023-01-10": 107504,
-  "2023-01-11": 107596,
-  "2023-01-12": 107687,
-  "2023-01-13": 107758,
-  "2023-01-14": 107927,
-  "2023-01-15": 107973,
-  "2023-01-16": 108079,
-  "2023-01-17": 108154,
-  "2023-01-18": 108242,
-  "2023-01-19": 108312,
-  "2023-01-20": 108399,
-  "2023-01-21": 108506,
-  "2023-01-22": 108643,
-  "2023-01-23": 108734,
-  "2023-01-24": 108823,
-  "2023-01-25": 108890,
-  "2023-01-26": 108975,
-  "2023-01-27": 109053,
-  "2023-01-28": 109127,
-  "2023-01-29": 109236,
-  "2023-01-30": 109339,
-  "2023-01-31": 109339,
-  "2023-02-01": 109460,
-  "2023-02-02": 109521,
-  "2023-02-03": 109593,
-  "2023-02-04": 109671,
-  "2023-02-05": 109778,
-  "2023-02-06": 109857,
-  "2023-02-07": 109905,
-  "2023-02-08": 110028,
-  "2023-02-09": 110028,
-  "2023-02-10": 110098,
-  "2023-02-11": 110174,
-  "2023-02-12": 110387,
-  "2023-02-13": 110429,
-  "2023-02-14": 110429,
-  "2023-02-15": 110493,
-  "2023-02-16": 110556,
-  "2023-02-17": 110628,
-  "2023-02-18": 110805,
-  "2023-02-19": 110829,
-  "2023-02-20": 110890,
-  "2023-02-21": 110974,
-  "2023-02-22": 111049,
-  "2023-02-23": 111106,
-  "2023-02-24": 111162,
-  "2023-02-25": 111247,
-  "2023-02-26": 111306,
-  "2023-02-27": 111414,
-  "2023-02-28": 111414,
-  "2023-03-01": 111472,
-  "2023-03-02": 111530,
-  "2023-03-03": 111590,
-  "2023-03-04": 111637,
-  "2023-03-05": 111861,
-  "2023-03-06": 111861,
-  "2023-03-07": 111922,
-  "2023-03-08": 111974,
-  "2023-03-09": 112018,
-  "2023-03-10": 112095,
-  "2023-03-11": 112167,
-  "2023-03-12": 112291,
-  "2023-03-13": 112397,
-  "2023-03-14": 112442,
-  "2023-03-15": 112503,
-  "2023-03-16": 112556,
-  "2023-03-17": 112556,
-  "2023-03-18": 112740,
-  "2023-03-19": 112857,
-  "2023-03-20": 112929,
-  "2023-03-21": 113005,
-  "2023-03-22": 113070,
-  "2023-03-23": 113130,
-  "2023-03-24": 113130,
-  "2023-03-25": 113291,
-  "2023-03-26": 113385,
-  "2023-03-27": 113488,
-  "2023-03-28": 113562,
-  "2023-03-29": 113653,
-  "2023-03-30": 113841,
-  "2023-03-31": 113841,
-  "2023-04-01": 113942,
-  "2023-04-02": 114060,
-  "2023-04-03": 114148,
-  "2023-04-04": 114218,
-  "2023-04-05": 114298,
-  "2023-04-06": 114396,
-  "2023-04-07": 114504,
-  "2023-04-09": 114720,
-  "2023-04-10": 114817,
-  "2023-04-11": 114965,
-  "2023-04-12": 114965,
-  "2023-04-13": 115035,
-  "2023-04-14": 115125,
-  "2023-04-15": 115231,
-  "2023-04-16": 115334,
-  "2023-04-17": 115424,
-  "2023-04-18": 115505,
-  "2023-04-19": 115576,
-  "2023-04-20": 115657,
-  "2023-04-21": 115729,
-  "2023-04-22": 115822,
-  "2023-04-23": 115924,
-  "2023-04-24": 115999,
-  "2023-04-25": 116077,
-  "2023-04-26": 116187,
-  "2023-04-27": 116278,
-  "2023-04-28": 116367,
-  "2023-04-29": 116467,
-  "2023-04-30": 116569,
-  "2023-05-01": 116663,
-  "2023-05-02": 116757,
-  "2023-05-03": 116819,
-  "2023-05-04": 116885,
-  "2023-05-05": 116951,
-  "2023-05-06": 117037,
-  "2023-05-07": 117153,
-  "2023-05-08": 117203,
-  "2023-05-09": 117267,
-  "2023-05-10": 117307,
-  "2023-05-11": 117350,
-  "2023-05-12": 117442,
-  "2023-05-13": 117527,
-  "2023-05-14": 117595,
-  "2023-05-15": 117683,
-  "2023-05-16": 117716,
-  "2023-05-17": 117787,
-  "2023-05-18": 117853,
-  "2023-05-19": 117942,
-  "2023-05-20": 118121,
-  "2023-05-21": 118121,
-  "2023-05-22": 118121,
-  "2023-05-23": 118258,
-  "2023-05-24": 118376,
-  "2023-05-25": 118385,
-  "2023-05-26": 118441,
-  "2023-05-27": 118501,
-  "2023-05-28": 118571,
-  "2023-05-29": 118571,
-  "2023-05-30": 118699,
-  "2023-05-31": 118753,
-  "2023-06-01": 118814,
-  "2023-06-02": 118880,
-  "2023-06-03": 118953,
-  "2023-06-04": 119053,
-  "2023-06-05": 119100,
-  "2023-06-06": 119163,
-  "2023-06-07": 119219,
-  "2023-06-08": 119263,
-  "2023-06-09": 119338,
-  "2023-06-10": 119390,
-  "2023-06-11": 119471,
-  "2023-06-12": 119538,
-  "2023-06-13": 119585,
-  "2023-06-14": 119628,
-  "2023-06-15": 119662,
-  "2023-06-16": 119722,
-  "2023-06-17": 119835,
-  "2023-06-18": 119915,
-  "2023-06-19": 119994,
-  "2023-06-20": 120073,
-  "2023-06-21": 120131,
-  "2023-06-22": 120172,
-  "2023-06-23": 120216,
-  "2023-06-24": 120283,
-  "2023-06-25": 120354,
-  "2023-06-26": 120428,
-  "2023-06-27": 120470,
-  "2023-06-28": 120511,
-  "2023-06-29": 120564,
-  "2023-06-30": 120628,
-  "2023-07-01": 120808,
-  "2023-07-02": 120808,
-  "2023-07-03": 120879,
-  "2023-07-04": 120934,
-  "2023-07-05": 120996,
-  "2023-07-06": 121151,
-  "2023-07-07": 121151,
-  "2023-07-08": 121229,
-  "2023-07-09": 121324,
-  "2023-07-10": 121402,
-  "2023-07-11": 121446,
-  "2023-07-12": 121504,
-  "2023-07-13": 121556,
-  "2023-07-14": 121591,
-  "2023-07-15": 121651,
-  "2023-07-16": 121748,
-  "2023-07-17": 121811,
-  "2023-07-18": 121850,
-  "2023-07-19": 121924,
-  "2023-07-20": 121968,
-  "2023-07-21": 122034,
-  "2023-07-22": 122127,
-  "2023-07-23": 122203,
-  "2023-07-24": 122270,
-  "2023-07-25": 122312,
-  "2023-07-26": 122351,
-  "2023-07-27": 122393,
-  "2023-07-28": 122456,
-  "2023-07-29": 122514,
-  "2023-07-30": 122591,
-  "2023-07-31": 122644,
-  "2023-08-01": 122704,
-  "2023-08-02": 122747,
-  "2023-08-03": 122796,
-  "2023-08-04": 122856,
-  "2023-08-05": 122919,
-  "2023-08-06": 123010,
-  "2023-08-07": 123010,
-  "2023-08-08": 123053,
-  "2023-08-09": 123089,
-  "2023-08-10": 123147,
-  "2023-08-11": 123203,
-  "2023-08-12": 123277,
-  "2023-08-13": 123339,
-  "2023-08-14": 123410,
-  "2023-08-15": 123519,
-  "2023-08-16": 123519,
-  "2023-08-17": 123573,
-  "2023-08-18": 123637,
-  "2023-08-19": 123717,
-  "2023-08-20": 123813,
-  "2023-08-21": 123871,
-  "2023-08-22": 123928,
-  "2023-08-23": 123959,
-  "2023-08-24": 124003,
-  "2023-08-25": 124058,
-  "2023-08-26": 124124,
-  "2023-08-27": 124202,
-  "2023-08-28": 124250,
-  "2023-08-29": 124299,
-  "2023-08-30": 124358,
-  "2023-08-31": 124423,
-  "2023-09-01": 124551,
-  "2023-09-02": 124551,
-  "2023-09-03": 124600,
-  "2023-09-04": 124691,
-  "2023-09-05": 124754,
-  "2023-09-06": 124839,
-  "2023-09-07": 124921,
-  "2023-09-08": 124998,
-  "2023-09-09": 125130,
-  "2023-09-10": 125260,
-  "2023-09-11": 125410,
-  "2023-09-12": 125495,
-  "2023-09-13": 125610,
-  "2023-09-14": 125712,
-  "2023-09-15": 125812,
-  "2023-09-16": 125936,
-  "2023-09-17": 126094,
-  "2023-09-18": 126238,
-  "2023-09-19": 126328,
-  "2023-09-20": 126415,
-  "2023-09-21": 126493,
-  "2023-09-22": 126619,
-  "2023-09-23": 126753,
-  "2023-09-24": 126888,
-  "2023-09-25": 126995,
-  "2023-09-26": 127090,
-  "2023-09-27": 127160,
-  "2023-09-28": 127264,
-  "2023-09-29": 127344,
-  "2023-09-30": 127447,
-  "2023-10-01": 127560,
-  "2023-10-02": 127654,
-  "2023-10-03": 127717,
-  "2023-10-04": 127783,
-  "2023-10-05": 127873,
-  "2023-10-06": 127950,
-  "2023-10-07": 128072,
-  "2023-10-08": 128186,
-  "2023-10-09": 128295,
-  "2023-10-10": 128231,
-  "2023-10-11": 128274,
-  "2023-10-12": 128274,
-  "2023-10-13": 128272,
-  "2023-10-14": 128308,
-  "2023-10-15": 128412,
-  "2023-10-16": 128542,
-  "2023-10-17": 128675,
-  "2023-10-18": 128767,
-  "2023-10-19": 128858,
-  "2023-10-20": 128953,
-  "2023-10-21": 129059,
-  "2023-10-22": 129197,
-  "2023-10-23": 129304,
-  "2023-10-24": 129394,
-  "2023-10-25": 129482,
-  "2023-10-26": 129580,
-  "2023-10-27": 129672,
-  "2023-10-28": 129799,
-  "2023-10-29": 129922,
-  "2023-10-30": 130112,
-  "2023-10-31": 130112,
-  "2023-11-01": 130185,
-  "2023-11-02": 130286,
-  "2023-11-03": 130391,
-  "2023-11-04": 130507,
-  "2023-11-05": 130582,
-  "2023-11-06": 130708,
-  "2023-11-07": 130770,
-  "2023-11-08": 130835,
-  "2023-11-09": 130942,
-  "2023-11-10": 131033,
-  "2023-11-11": 131152,
-  "2023-11-12": 131263,
-  "2023-11-13": 131393,
-  "2023-11-14": 131445,
-  "2023-11-15": 131445,
-  "2023-11-16": 131622,
-  "2023-11-17": 131820,
-  "2023-11-18": 131820,
-  "2023-11-19": 131965,
-  "2023-11-20": 132078,
-  "2023-11-21": 132186,
-  "2023-11-22": 132264,
-  "2023-11-23": 132349,
-  "2023-11-24": 132463,
-  "2023-11-25": 132562,
-  "2023-11-26": 132697,
-  "2023-11-27": 132796,
-  "2023-11-28": 132885,
-  "2023-11-29": 133073,
-  "2023-11-30": 133073,
-  "2023-12-01": 133172,
-  "2023-12-02": 133274,
-  "2023-12-03": 133394,
-  "2023-12-04": 133500,
-  "2023-12-05": 133576,
-  "2023-12-06": 133647,
-  "2023-12-07": 133748,
-  "2023-12-08": 133848,
-  "2023-12-09": 133936,
-  "2023-12-10": 134033,
-  "2023-12-11": 134127,
-  "2023-12-12": 134199,
-  "2023-12-13": 134274,
-  "2023-12-14": 134339,
-  "2023-12-15": 134399,
-  "2023-12-16": 134472,
-  "2023-12-17": 134573,
-  "2023-12-18": 134644,
-  "2023-12-19": 134712,
-  "2023-12-20": 134774,
-  "2023-12-21": 134855,
-  "2023-12-22": 134932,
-  "2023-12-23": 135015,
-  "2023-12-24": 135161,
-  "2023-12-25": 135383,
-  "2023-12-26": 135527,
-  "2023-12-27": 135617,
-  "2023-12-30": 135944,
-  "2023-12-31": 136085,
-  "2024-01-01": 136326,
-  "2024-01-02": 136478,
-  "2024-01-03": 136553
+  "2024-01-17": 137118,
+  "date_first_scraped": "2022-01-02",
+  "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
+  "name": "Vivo de Cumbia",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adicta al Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmIayPZeQ2qqQFRYwWdOA"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 184430,
+      "name": "Adicta al Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
+    },
+    {
+      "album": {
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "album": {
+        "name": "En Vivo En La Quinta Vergara",
+        "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 224806,
+      "name": "Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
+    },
+    {
+      "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
+    },
+    {
+      "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia en la Quinta Vergara)",
+        "url": "https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia en la Quinta Vergara)",
+      "url": "https://open.spotify.com/track/3jIpcXHmCRl894HKVlHcjN"
+    },
+    {
+      "album": {
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
+    },
+    {
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312512,
+      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 139800,
+      "name": "Amor de Papel - En Vivo",
+      "url": "https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 139800,
+      "name": "Amor de Papel - En Vivo",
+      "url": "https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os Santaferia (En Vivo Movistar Arena Santiago, Chile)",
+        "url": "https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras (En Vivo Movistar Arena Santiago, Chile)",
+      "url": "https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 462272,
+      "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
+      "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
+    },
+    {
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+    },
+    {
+      "album": {
+        "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
+        "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 208613,
+      "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
+      "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278133,
+      "name": "Como Podr\u00e9",
+      "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97466,
+      "name": "Conmigo te gust\u00f3",
+      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+    },
+    {
+      "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 97466,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8"
+    },
+    {
+      "album": {
+        "name": "Costumbres (Vivo)",
+        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133077,
+      "name": "Costumbres - Vivo",
+      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
+    },
+    {
+      "album": {
+        "name": "Vivo Niceto Club",
+        "url": "https://open.spotify.com/album/3tbUBD2mtaeIDsjsyNAshh"
+      },
+      "artists": [
+        {
+          "name": "La Provisoria",
+          "url": "https://open.spotify.com/artist/1oExLOsTX1ok1TCH0FSf1h"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 222208,
+      "name": "Cumbia Fuerte - En Vivo",
+      "url": "https://open.spotify.com/track/6SVlZ15BSPgi0ieB4SO8gG"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Ciudad Cultural Konex",
+        "url": "https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 218151,
+      "name": "C\u00f3ncavo y Convexo - En Vivo",
+      "url": "https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR"
+    },
+    {
+      "album": {
+        "name": "Damas Gratis Mix",
+        "url": "https://open.spotify.com/album/5yS2IHOvthngA9QJM59NYb"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 317068,
+      "name": "Damas Gratis Mix",
+      "url": "https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8"
+    },
+    {
+      "album": {
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
+    },
+    {
+      "album": {
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/5zDeIjAtEvFxYRC6h10NDE"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - En Vivo",
+      "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
+    },
+    {
+      "album": {
+        "name": "Crecer (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB3GNXuINYpN8MxBNTe2E"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 212266,
+      "name": "Dime Si Eres Feliz - Vivo",
+      "url": "https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7"
+    },
+    {
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+    },
+    {
+      "album": {
+        "name": "El Campanero (En Vivo En El Luna Park)",
+        "url": "https://open.spotify.com/album/0VfGlIBiaHVSjWqlhVaGm5"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Sabor Colombiano",
+          "url": "https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270374,
+      "name": "El Campanero (En Vivo En El Luna Park)",
+      "url": "https://open.spotify.com/track/0pGoCLgrzTFc7QjhodQEv0"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/2ZlaAvyAp0jI5k8zHglaSO"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
+          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295778,
+      "name": "El Ni\u00f1o - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3lwB6hwSgLec4z5SgoghHc"
+    },
+    {
+      "album": {
+        "name": "El Que Siempre Te Espera",
+        "url": "https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173412,
+      "name": "El Que Siempre Te Espera",
+      "url": "https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c"
+    },
+    {
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
+    },
+    {
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-21",
+      "duration_ms": 139066,
+      "name": "El vago fumanchu - En Vivo",
+      "url": "https://open.spotify.com/track/19UnqDxb33wJ9tPowoVRLh"
+    },
+    {
+      "album": {
+        "name": "Ella Dijo / Mil Horas",
+        "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199435,
+      "name": "Ella Dijo / Mil Horas - En Vivo",
+      "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
+    },
+    {
+      "album": {
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
+    },
+    {
+      "album": {
+        "name": "Era Tranquila (En Vivo)",
+        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-10",
+      "duration_ms": 237098,
+      "name": "Era Tranquila - En Vivo",
+      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Cartucho",
+          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Estoy Buscando un Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
+    },
+    {
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE"
+      },
+      "artists": [
+        {
+          "name": "Karen Britos",
+          "url": "https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 184790,
+      "name": "Falso Malo - En Vivo",
+      "url": "https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 297351,
+      "name": "Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame - En Vivo",
+      "url": "https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5"
+    },
+    {
+      "album": {
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+    },
+    {
+      "album": {
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/16T2Dow87fIOSsP4m311pg"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/5z5JQRzM2xqwgyiIScY3pW"
+    },
+    {
+      "album": {
+        "name": "Hacela de Noche / Nacido para Geder",
+        "url": "https://open.spotify.com/album/5S8ieLH6FQeggv4zwa1eeF"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "La Superbanda Gedienta",
+          "url": "https://open.spotify.com/artist/2DEF6eHAXJwZ0wjZRcmNw1"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 218789,
+      "name": "Hacela de Noche / Nacido para Geder (En Vivo)",
+      "url": "https://open.spotify.com/track/7v6TLyj3SaYd9qBN0QebGK"
+    },
+    {
+      "album": {
+        "name": "Hacela de Noche / Nacido para Geder (En Vivo en Tropitango)",
+        "url": "https://open.spotify.com/album/51j6588xhcDwtGBH7IAoDQ"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 218827,
+      "name": "Hacela de Noche / Nacido para Geder - En Vivo en Tropitango",
+      "url": "https://open.spotify.com/track/2iNKr6J2h2iE0wOPbOqQEK"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os Santaferia (En Vivo Movistar Arena Santiago, Chile)",
+        "url": "https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 257091,
+      "name": "Haciendo Nada (En Vivo Movistar Arena Santiago, Chile)",
+      "url": "https://open.spotify.com/track/4QZ9cwXcaMSLI4pBlkNWc8"
+    },
+    {
+      "album": {
+        "name": "Hawai / Vida de Rico (Live Session)",
+        "url": "https://open.spotify.com/album/2Z7mjYtgS9vVh6u8yz0D3C"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 166000,
+      "name": "Hawai / Vida de Rico - Live Session",
+      "url": "https://open.spotify.com/track/55PpTrstgX5l4CpJIjm34I"
+    },
+    {
+      "album": {
+        "name": "Hembra Salvaje / Placer y Olvido / Ni Tu Amiga Ni Tu Amante / Me Vas a Extra\u00f1ar / No Te Creas Tan Importante / La Cerveza",
+        "url": "https://open.spotify.com/album/0lmgOelx7eAgod7tuHZj6k"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-21",
+      "duration_ms": 503514,
+      "name": "Hembra Salvaje / Placer y Olvido / Ni Tu Amiga Ni Tu Amante / Me Vas a Extra\u00f1ar / No Te Creas Tan Importante / La Cerveza",
+      "url": "https://open.spotify.com/track/645tk4gC3hk9hBDEXSX5os"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "album": {
+        "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+        "url": "https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330339,
+      "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
+      "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
+    },
+    {
+      "album": {
+        "name": "La Cancioncita (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Orquesta Infanto-juvenil de Constituci\u00f3n",
+          "url": "https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 339212,
+      "name": "La Cancioncita - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp"
+    },
+    {
+      "album": {
+        "name": "La Fiesta (En Vivo)",
+        "url": "https://open.spotify.com/album/2vw8QONQeAzZrOfOppQomN"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-24",
+      "duration_ms": 123271,
+      "name": "La Cola Less - En Vivo",
+      "url": "https://open.spotify.com/track/1Mc3igeO36vqjsEknZtj4I"
+    },
+    {
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 37440,
+      "name": "La danza de los mirlos - En Vivo",
+      "url": "https://open.spotify.com/track/03gL2VXNNyYdeZHYbdsYYO"
+    },
+    {
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496146,
+      "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
+      "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 1189152,
+      "name": "La Huella / Aprovechadora / Has Vuelto Mi Amor / Vengo a Pedirte / Amor de Adolescente / Una Noche Mas / Regresa por Favor / La Que Me Pudo Enamorar / Te Extra\u00f1o a Ti / Pensando en Ti / Desesperado - En Vivo",
+      "url": "https://open.spotify.com/track/6K4dgYClJiJvHmlxHGKY4X"
+    },
+    {
+      "album": {
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
+    },
+    {
+      "album": {
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/02hXee7R8HsMSBVPsoz4Cj"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/3ER0mZbN9ZlTNKqzZDjBaj"
+    },
+    {
+      "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "album": {
+        "name": "Un sue\u00f1o hecho realidad",
+        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        },
+        {
+          "name": "Gladys La Bomba Tucumana",
+          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "La pollera amarilla",
+      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 124253,
+      "name": "La Ultima Cancion - En Vivo",
+      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+    },
+    {
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 92020,
+      "name": "Labios Compartidos - En Vivo",
+      "url": "https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q"
+    },
+    {
+      "album": {
+        "name": "Lo Intentamos (En Vivo)",
+        "url": "https://open.spotify.com/album/6ZG2zkEkNlpiEq8SRcn7tT"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 140565,
+      "name": "Lo Intentamos - En Vivo",
+      "url": "https://open.spotify.com/track/63Du15jCCnjjM2nzQ3OIS4"
+    },
+    {
+      "album": {
+        "name": "Locura y Pasi\u00f3n (En Vivo en la Quinta Vergara)",
+        "url": "https://open.spotify.com/album/2RjtKMQlFgUXw7UOnzi3Uk"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 240773,
+      "name": "Locura y Pasi\u00f3n (En Vivo en la Quinta Vergara)",
+      "url": "https://open.spotify.com/track/34ibXLS4Wp2x2vDAlAzIRM"
+    },
+    {
+      "album": {
+        "name": "40 Minutos Atr (En Vivo)",
+        "url": "https://open.spotify.com/album/7A1uzPilKxcvgBh7TZyk7j"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130922,
+      "name": "Los Duen\u0303os del Pabell\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/2UixuBXjGIS0hoyECo85Vp"
+    },
+    {
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287320,
+      "name": "Los Pibes Chorros / Solo Le Pido a Dios / Botellero",
+      "url": "https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq"
+    },
+    {
+      "album": {
+        "name": "Bonita / Madre Soltera (En Vivo)",
+        "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232896,
+      "name": "Madre Soltera - En Vivo",
+      "url": "https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 95400,
+      "name": "Maldita Cazafortuna - En Vivo",
+      "url": "https://open.spotify.com/track/4xkwbDPG8vtks0zkmdOUYv"
+    },
+    {
+      "album": {
+        "name": "Me Acostumbr\u00e9 a Ti / Chica Brasilera (Live Session)",
+        "url": "https://open.spotify.com/album/23xgXJA2MLnOAXHy9JQiBc"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-09",
+      "duration_ms": 340000,
+      "name": "Me Acostumbr\u00e9 a Ti / Chica Brasilera - Live Session",
+      "url": "https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M"
+    },
+    {
+      "album": {
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "album": {
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "album": {
+        "name": "Un So\u00f1ador Eterno",
+        "url": "https://open.spotify.com/album/0gDwcXu8hITigvMrZci4wo"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Magoman",
+          "url": "https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/26WHTbuQHbpkx3TBNR4afU"
+    },
+    {
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "album": {
+        "name": "Mentiras / Es Mi Culpa / Lo Intentamos (En Vivo)",
+        "url": "https://open.spotify.com/album/5SU7PDzbzYTJW9ZkfzM9yM"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 474505,
+      "name": "Mentiras / Es Mi Culpa / Lo Intentamos - En Vivo",
+      "url": "https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 180244,
+      "name": "Mi Condena - En Vivo",
+      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 168195,
+      "name": "Mi Unico Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1D4uvZibCvsPF4iaBcyQ57"
+    },
+    {
+      "album": {
+        "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 589000,
+      "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
+    },
+    {
+      "album": {
+        "name": "Muero Por Ti (Vivo)",
+        "url": "https://open.spotify.com/album/4yZMxxx2r9b0a7fKdysT1k"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "Muero Por Ti - Vivo",
+      "url": "https://open.spotify.com/track/7CynOao5TaEsvjxtdi8uMS"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/099aeUDVT72wUfwwdEdcM9"
+      },
+      "artists": [
+        {
+          "name": "El Apache Ness",
+          "url": "https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 212009,
+      "name": "Mueve el Cucuta - En Vivo en Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/7lAS6xdJTGd7QJPX467jsq"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq"
+    },
+    {
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128800,
+      "name": "No eres para mi - En Vivo",
+      "url": "https://open.spotify.com/track/3bKBWywv7XSJ9pViRrw6zD"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177739,
+      "name": "No Llores - En Vivo",
+      "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+    },
+    {
+      "album": {
+        "name": "Repiola (En Vivo)",
+        "url": "https://open.spotify.com/album/2ISeQ9tbK98OIp6FtiPzQT"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 183583,
+      "name": "No Me Vuelvo a Enamorar - En Vivo",
+      "url": "https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo"
+    },
+    {
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 172333,
+      "name": "No Te Vi Crecer - En Vivo",
+      "url": "https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf"
+    },
+    {
+      "album": {
+        "name": "No Voy A Llorar / Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "El Club de la Cumbia",
+          "url": "https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194894,
+      "name": "No Voy A Llorar / Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+    },
+    {
+      "album": {
+        "name": "Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184618,
+      "name": "Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
+    },
+    {
+      "album": {
+        "name": "Paisaje (En Vivo)",
+        "url": "https://open.spotify.com/album/1JgFPt2VdpuaMNRFtJ9N65"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 156969,
+      "name": "Paisaje - En Vivo",
+      "url": "https://open.spotify.com/track/6eoyDlYshTp0L8t6qPodeN"
+    },
+    {
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
+      "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "album": {
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
+    },
+    {
+      "album": {
+        "name": "Perdoname (En Vivo)",
+        "url": "https://open.spotify.com/album/3TXYJH08gHDEyGpDhhZfgb"
+      },
+      "artists": [
+        {
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116625,
+      "name": "Perdoname - En Vivo",
+      "url": "https://open.spotify.com/track/3Kblkkz9XPxduAQbykNCKK"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269848,
+      "name": "Perdoname / Te Quiero a Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/0yrlxBC5eeMRXLQyVVMV9e"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 255973,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 198930,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198930,
+      "name": "Pobre Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n (En vivo)",
+        "url": "https://open.spotify.com/album/76vyJ5BEey5rKrDglOfkpV"
+      },
+      "artists": [
+        {
+          "name": "Music Factory",
+          "url": "https://open.spotify.com/artist/7xj1YIDzHU6vkUwP76NEyx"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 198468,
+      "name": "Pobre Coraz\u00f3n - En vivo",
+      "url": "https://open.spotify.com/track/6UsuNAY6rB2LMD4NPMK9lF"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/4XO4d5OymSnSwoQYYRPInc"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        },
+        {
+          "name": "Fede Rojas",
+          "url": "https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-20",
+      "duration_ms": 227506,
+      "name": "Por Culpa del Vino",
+      "url": "https://open.spotify.com/track/35u7dRVnxMJwA9TL9jQ3of"
+    },
+    {
+      "album": {
+        "name": "Por Una Vez En La Vida (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 264917,
+      "name": "Por Una Vez En La Vida - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Ciudad Cultural Konex",
+        "url": "https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 246946,
+      "name": "Presentaci\u00f3n / Dej\u00e9moslo As\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/0KOhixb30mbp9ylyQXnufj"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 71981,
+      "name": "Pupilas Lejanas - En Vivo",
+      "url": "https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR"
+    },
+    {
+      "album": {
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Quiero Yo Saber (Donde Esta El Amor)",
+      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75180,
+      "name": "Sabes (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Hasta las Manos",
+        "url": "https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301346,
+      "name": "Se Te Ve la Tanga - En Vivo",
+      "url": "https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j"
+    },
+    {
+      "album": {
+        "name": "Sencillamente (En Vivo)",
+        "url": "https://open.spotify.com/album/148HwFdc4WPUhEEK0eeSGQ"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 131120,
+      "name": "Sencillamente - En Vivo",
+      "url": "https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if"
+    },
+    {
+      "album": {
+        "name": "Session Live: Te Llevas Todo / Me Preocupa Sin Ti / D\u00e9jenla Que Llore Sola",
+        "url": "https://open.spotify.com/album/6GPnVSdpLG7EkcFBywAVmK"
+      },
+      "artists": [
+        {
+          "name": "Brian Lanzelotta",
+          "url": "https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 306238,
+      "name": "Session Live: Te Llevas Todo / Me Preocupa Sin Ti / D\u00e9jenla Que Llore Sola",
+      "url": "https://open.spotify.com/track/0ipf9Js7CHIj2LXzuFMFkR"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-10",
+      "duration_ms": 79516,
+      "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
+    },
+    {
+      "album": {
+        "name": "Le Mandamos Cumbia Perro (En Vivo)",
+        "url": "https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71843,
+      "name": "Sobrio - En Vivo",
+      "url": "https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk"
+    },
+    {
+      "album": {
+        "name": "Sola Y Suelta (En Vivo)",
+        "url": "https://open.spotify.com/album/2DX8ZsbgoEXTZTLeHzOoun"
+      },
+      "artists": [
+        {
+          "name": "Luana",
+          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 169941,
+      "name": "Sola y Suelta - En Vivo",
+      "url": "https://open.spotify.com/track/4WLsKfXYMXlF3Kus95sSNC"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Hasta las Manos",
+        "url": "https://open.spotify.com/album/34hLpBNhr8YQXksZp9Vgwi"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 235106,
+      "name": "Solo Aspirina - En Vivo",
+      "url": "https://open.spotify.com/track/6uZwsrPLO56Y4CnVF2aks3"
+    },
+    {
+      "album": {
+        "name": "El Origen (En Vivo en Teatro Opera)",
+        "url": "https://open.spotify.com/album/58vHChksRDkwhI3xPDgXqL"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/5Otrrijwbk7pDKPN7QZv3t"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
+    },
+    {
+      "album": {
+        "name": "Su Mujer y La Cita (En Vivo)",
+        "url": "https://open.spotify.com/album/0tWuHnt43HKYwa4QXkrmtx"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 384634,
+      "name": "Su Mujer y La Cita - En Vivo",
+      "url": "https://open.spotify.com/track/0AOj4m3RMoqpQAXpbUtOb6"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "album": {
+        "name": "Te Amar\u00e9 Hasta Que Me Olvides (Live Session)",
+        "url": "https://open.spotify.com/album/4kNgjHhyAVhyhWPNhPGyNE"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 178000,
+      "name": "Te Amar\u00e9 Hasta Que Me Olvides - Live Session",
+      "url": "https://open.spotify.com/track/6FA9D5Ne8D8qFxZAuL03wk"
+    },
+    {
+      "album": {
+        "name": "Te Hubieras Ido Antes (En Vivo)",
+        "url": "https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Los Forasteros",
+          "url": "https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 213859,
+      "name": "Te Hubieras Ido Antes - En Vivo",
+      "url": "https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+    },
+    {
+      "album": {
+        "name": "Te Voy a Perder",
+        "url": "https://open.spotify.com/album/3jksMdYdw8skT3mwaTHYTs"
+      },
+      "artists": [
+        {
+          "name": "Maxi y La Champions Liga",
+          "url": "https://open.spotify.com/artist/6eFCmeWnt7lHM1NYbXCZoC"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 184032,
+      "name": "Te Voy a Perder",
+      "url": "https://open.spotify.com/track/1zpZws099ymKYMQsQNZJ8n"
+    },
+    {
+      "album": {
+        "name": "En Vivo en la M\u00e1gica",
+        "url": "https://open.spotify.com/album/6qWCARpGNxbI0hqAi4XTPm"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 220800,
+      "name": "Tomar\u00e9 para Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/7aygU6AcA7qItFRSQRQfsQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 121087,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
+    },
+    {
+      "album": {
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+    },
+    {
+      "album": {
+        "name": "En Vivo en Mao Mao",
+        "url": "https://open.spotify.com/album/3EQpcVvzFoeywSzhwLI8i5"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 171343,
+      "name": "Tu Sin Mi - En Vivo en Mao Mao",
+      "url": "https://open.spotify.com/track/0SQQie0iqa7HRzpMtIyw2C"
+    },
+    {
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "T\u00fa, La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/0INfS0VDSgKQS3jCDdTMOX"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105000,
+      "name": "Un Amor Que No Se Olvida - En Vivo",
+      "url": "https://open.spotify.com/track/2U7pudlBcLKtF79qyUjRKJ"
+    },
+    {
+      "album": {
+        "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
+        "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 429920,
+      "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
+      "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
+    },
+    {
+      "album": {
+        "name": "Un Mont\u00f3n de Estrellas (En Vivo Gran Rex)",
+        "url": "https://open.spotify.com/album/26n9BrsrguZZFxxLruIgNR"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Un Mont\u00f3n de Estrellas - En Vivo Gran Rex",
+      "url": "https://open.spotify.com/track/555Op74S64KmntebD6O3wa"
+    },
+    {
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164071,
+      "name": "Una Calle Nos Separa - En Vivo",
+      "url": "https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf"
+    },
+    {
+      "album": {
+        "name": "Una Copa de M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
+      },
+      "artists": [
+        {
+          "name": "Sonido Caracol",
+          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316182,
+      "name": "Una Copa de M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 298293,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 298293,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT"
+    },
+    {
+      "album": {
+        "name": "Y Tu Te Vas / P\u00eddeme",
+        "url": "https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350687,
+      "name": "Y Tu Te Vas / P\u00eddeme",
+      "url": "https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt"
+    },
+    {
+      "album": {
+        "name": "Ya Te Olvide (En Vivo)",
+        "url": "https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260096,
+      "name": "Ya Te Olvide - En Vivo",
+      "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"
+    },
+    {
+      "album": {
+        "name": "Yo Tengo un Angel (En Vivo)",
+        "url": "https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 129904,
+      "name": "Yo Tengo un Angel - En Vivo",
+      "url": "https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI"
+    },
+    {
+      "album": {
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 1",
+        "url": "https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "Yo tomo licor - En Vivo",
+      "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
+    },
+    {
+      "album": {
+        "name": "Yo Tomo Licor / Yo Me Enamor\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ffrFL4GjLMZC1xgxDpbib"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 229173,
+      "name": "Yo Tomo Licor / Yo Me Enamor\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/69kGoQVtPWKNqGOhitTQAw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXeDU5PJuUQs"
 }

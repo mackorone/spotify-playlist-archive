@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > The official playlist for Valeria\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,630 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,599 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

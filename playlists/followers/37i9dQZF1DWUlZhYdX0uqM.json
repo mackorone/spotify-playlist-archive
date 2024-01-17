@@ -1,735 +1,1421 @@
 {
-  "2021-12-25": 287063,
-  "2021-12-26": 287105,
-  "2021-12-27": 287191,
-  "2021-12-28": 287190,
-  "2021-12-29": 287226,
-  "2021-12-30": 287263,
-  "2021-12-31": 287286,
-  "2022-01-01": 287366,
-  "2022-01-02": 287382,
-  "2022-01-03": 287397,
-  "2022-01-04": 287433,
-  "2022-01-05": 287452,
-  "2022-01-06": 287481,
-  "2022-01-07": 287519,
-  "2022-01-08": 287603,
-  "2022-01-09": 287601,
-  "2022-01-10": 287639,
-  "2022-01-11": 287639,
-  "2022-01-12": 287700,
-  "2022-01-13": 287700,
-  "2022-01-14": 287700,
-  "2022-01-15": 287700,
-  "2022-01-16": 287700,
-  "2022-01-17": 287700,
-  "2022-01-18": 287700,
-  "2022-01-19": 287700,
-  "2022-01-20": 287700,
-  "2022-01-21": 287700,
-  "2022-01-22": 287700,
-  "2022-01-23": 287700,
-  "2022-01-24": 287700,
-  "2022-01-25": 287700,
-  "2022-01-26": 287700,
-  "2022-01-27": 287700,
-  "2022-01-28": 287700,
-  "2022-01-29": 287700,
-  "2022-01-30": 287700,
-  "2022-01-31": 287700,
-  "2022-02-01": 287700,
-  "2022-02-02": 287700,
-  "2022-02-03": 287700,
-  "2022-02-04": 287700,
-  "2022-02-05": 287700,
-  "2022-02-06": 287700,
-  "2022-02-07": 287700,
-  "2022-02-08": 287700,
-  "2022-02-09": 287700,
-  "2022-02-10": 287700,
-  "2022-02-11": 287700,
-  "2022-02-12": 287700,
-  "2022-02-13": 287700,
-  "2022-02-14": 287700,
-  "2022-02-15": 287700,
-  "2022-02-16": 287700,
-  "2022-02-17": 287700,
-  "2022-02-18": 287700,
-  "2022-02-19": 287700,
-  "2022-02-20": 287700,
-  "2022-02-21": 287700,
-  "2022-02-22": 287700,
-  "2022-02-23": 287700,
-  "2022-02-24": 287700,
-  "2022-02-25": 287700,
-  "2022-02-26": 287700,
-  "2022-02-27": 287700,
-  "2022-02-28": 287700,
-  "2022-03-01": 287700,
-  "2022-03-02": 287700,
-  "2022-03-03": 287700,
-  "2022-03-04": 287700,
-  "2022-03-05": 287700,
-  "2022-03-06": 287700,
-  "2022-03-07": 287700,
-  "2022-03-08": 287700,
-  "2022-03-09": 287700,
-  "2022-03-10": 287700,
-  "2022-03-11": 287700,
-  "2022-03-12": 287700,
-  "2022-03-13": 287700,
-  "2022-03-14": 287700,
-  "2022-03-15": 287700,
-  "2022-03-16": 287700,
-  "2022-03-17": 287700,
-  "2022-03-18": 287700,
-  "2022-03-19": 287700,
-  "2022-03-20": 287700,
-  "2022-03-21": 287700,
-  "2022-03-22": 287700,
-  "2022-03-23": 287700,
-  "2022-03-24": 287700,
-  "2022-03-25": 287700,
-  "2022-03-26": 287700,
-  "2022-03-27": 287700,
-  "2022-03-28": 287700,
-  "2022-03-30": 287700,
-  "2022-03-31": 287700,
-  "2022-04-01": 287700,
-  "2022-04-02": 287700,
-  "2022-04-03": 287700,
-  "2022-04-04": 287700,
-  "2022-04-05": 287700,
-  "2022-04-06": 287700,
-  "2022-04-07": 287700,
-  "2022-04-08": 287700,
-  "2022-04-09": 287700,
-  "2022-04-10": 287700,
-  "2022-04-11": 287700,
-  "2022-04-12": 287700,
-  "2022-04-13": 287700,
-  "2022-04-14": 287700,
-  "2022-04-15": 287700,
-  "2022-04-16": 287700,
-  "2022-04-17": 287700,
-  "2022-04-18": 287700,
-  "2022-04-19": 287700,
-  "2022-04-20": 287700,
-  "2022-04-21": 287700,
-  "2022-04-22": 287700,
-  "2022-04-23": 287700,
-  "2022-04-24": 287700,
-  "2022-04-25": 287700,
-  "2022-04-26": 287700,
-  "2022-04-27": 287700,
-  "2022-04-28": 287700,
-  "2022-04-29": 287700,
-  "2022-04-30": 287700,
-  "2022-05-01": 287700,
-  "2022-05-02": 287700,
-  "2022-05-03": 287700,
-  "2022-05-04": 287700,
-  "2022-05-05": 287700,
-  "2022-05-06": 287700,
-  "2022-05-07": 287700,
-  "2022-05-08": 287700,
-  "2022-05-09": 287700,
-  "2022-05-10": 287700,
-  "2022-05-11": 287700,
-  "2022-05-12": 287700,
-  "2022-05-13": 287700,
-  "2022-05-14": 287700,
-  "2022-05-15": 287700,
-  "2022-05-16": 287700,
-  "2022-05-17": 287700,
-  "2022-05-18": 287700,
-  "2022-05-19": 287700,
-  "2022-05-20": 287700,
-  "2022-05-21": 287700,
-  "2022-05-22": 287700,
-  "2022-05-23": 287700,
-  "2022-05-24": 287700,
-  "2022-05-25": 287700,
-  "2022-05-26": 287700,
-  "2022-05-27": 287700,
-  "2022-05-28": 287700,
-  "2022-05-29": 287700,
-  "2022-05-30": 287700,
-  "2022-05-31": 287700,
-  "2022-06-01": 287700,
-  "2022-06-02": 287700,
-  "2022-06-03": 287700,
-  "2022-06-04": 287700,
-  "2022-06-05": 287700,
-  "2022-06-06": 287700,
-  "2022-06-07": 287700,
-  "2022-06-08": 287700,
-  "2022-06-09": 287700,
-  "2022-06-10": 287700,
-  "2022-06-11": 287700,
-  "2022-06-12": 287700,
-  "2022-06-13": 287700,
-  "2022-06-14": 287700,
-  "2022-06-15": 287700,
-  "2022-06-16": 287700,
-  "2022-06-17": 287700,
-  "2022-06-18": 287700,
-  "2022-06-19": 287700,
-  "2022-06-20": 287700,
-  "2022-06-21": 287700,
-  "2022-06-22": 287700,
-  "2022-06-23": 287700,
-  "2022-06-24": 287700,
-  "2022-06-25": 287700,
-  "2022-06-26": 287700,
-  "2022-06-27": 287700,
-  "2022-06-28": 287700,
-  "2022-06-29": 287700,
-  "2022-06-30": 287700,
-  "2022-07-01": 287700,
-  "2022-07-02": 287700,
-  "2022-07-03": 287700,
-  "2022-07-04": 287700,
-  "2022-07-05": 287700,
-  "2022-07-06": 287700,
-  "2022-07-07": 287700,
-  "2022-07-08": 287700,
-  "2022-07-09": 287700,
-  "2022-07-10": 287700,
-  "2022-07-11": 287700,
-  "2022-07-12": 287700,
-  "2022-07-13": 287700,
-  "2022-07-14": 287700,
-  "2022-07-15": 287700,
-  "2022-07-16": 287700,
-  "2022-07-17": 287700,
-  "2022-07-18": 287700,
-  "2022-07-19": 287700,
-  "2022-07-20": 287700,
-  "2022-07-21": 287700,
-  "2022-07-22": 287700,
-  "2022-07-23": 287700,
-  "2022-07-24": 287700,
-  "2022-07-25": 287700,
-  "2022-07-26": 287700,
-  "2022-07-27": 287700,
-  "2022-07-28": 287700,
-  "2022-07-29": 287700,
-  "2022-07-30": 287700,
-  "2022-07-31": 287700,
-  "2022-08-01": 287700,
-  "2022-08-02": 287700,
-  "2022-08-03": 287700,
-  "2022-08-04": 287700,
-  "2022-08-05": 287700,
-  "2022-08-06": 287700,
-  "2022-08-07": 287700,
-  "2022-08-08": 287700,
-  "2022-08-09": 287700,
-  "2022-08-10": 287700,
-  "2022-08-11": 287700,
-  "2022-08-12": 287700,
-  "2022-08-13": 287700,
-  "2022-08-14": 287700,
-  "2022-08-15": 287700,
-  "2022-08-16": 287700,
-  "2022-08-17": 287700,
-  "2022-08-18": 287700,
-  "2022-08-19": 287700,
-  "2022-08-20": 287700,
-  "2022-08-21": 287700,
-  "2022-08-22": 287700,
-  "2022-08-23": 287700,
-  "2022-08-24": 287700,
-  "2022-08-25": 287700,
-  "2022-08-26": 287700,
-  "2022-08-27": 287700,
-  "2022-08-28": 287700,
-  "2022-08-29": 287700,
-  "2022-08-30": 287700,
-  "2022-08-31": 287700,
-  "2022-09-01": 287700,
-  "2022-09-02": 287700,
-  "2022-09-03": 287700,
-  "2022-09-04": 287700,
-  "2022-09-05": 287700,
-  "2022-09-06": 287700,
-  "2022-09-07": 287700,
-  "2022-09-09": 287700,
-  "2022-09-10": 287700,
-  "2022-09-11": 287700,
-  "2022-09-12": 287700,
-  "2022-09-13": 287700,
-  "2022-09-15": 287700,
-  "2022-09-16": 287700,
-  "2022-09-17": 287700,
-  "2022-09-18": 287700,
-  "2022-09-19": 287700,
-  "2022-09-20": 287700,
-  "2022-09-21": 287700,
-  "2022-09-22": 287700,
-  "2022-09-23": 287700,
-  "2022-09-24": 287700,
-  "2022-09-25": 287700,
-  "2022-09-26": 287700,
-  "2022-09-27": 287700,
-  "2022-09-28": 287700,
-  "2022-09-29": 287700,
-  "2022-09-30": 287700,
-  "2022-10-01": 287700,
-  "2022-10-02": 287700,
-  "2022-10-03": 287700,
-  "2022-10-04": 287700,
-  "2022-10-05": 287700,
-  "2022-10-06": 287700,
-  "2022-10-07": 287700,
-  "2022-10-08": 287700,
-  "2022-10-09": 287700,
-  "2022-10-10": 287700,
-  "2022-10-11": 287700,
-  "2022-10-12": 287700,
-  "2022-10-13": 287700,
-  "2022-10-14": 287700,
-  "2022-10-15": 287700,
-  "2022-10-16": 287700,
-  "2022-10-17": 287700,
-  "2022-10-18": 287700,
-  "2022-10-19": 287700,
-  "2022-10-20": 287700,
-  "2022-10-21": 287700,
-  "2022-10-22": 287700,
-  "2022-10-23": 287700,
-  "2022-10-24": 287700,
-  "2022-10-25": 287700,
-  "2022-10-26": 287700,
-  "2022-10-27": 287700,
-  "2022-10-28": 287700,
-  "2022-10-29": 287700,
-  "2022-10-30": 287700,
-  "2022-10-31": 287700,
-  "2022-11-01": 287700,
-  "2022-11-02": 287700,
-  "2022-11-03": 287700,
-  "2022-11-04": 287700,
-  "2022-11-05": 287700,
-  "2022-11-06": 287700,
-  "2022-11-07": 287700,
-  "2022-11-08": 287700,
-  "2022-11-09": 287700,
-  "2022-11-10": 287700,
-  "2022-11-11": 287700,
-  "2022-11-12": 287700,
-  "2022-11-13": 287700,
-  "2022-11-14": 287700,
-  "2022-11-15": 287700,
-  "2022-11-16": 287700,
-  "2022-11-17": 287700,
-  "2022-11-18": 287700,
-  "2022-11-19": 287700,
-  "2022-11-20": 287700,
-  "2022-11-21": 287700,
-  "2022-11-22": 287700,
-  "2022-11-23": 287700,
-  "2022-11-24": 287700,
-  "2022-11-25": 287700,
-  "2022-11-26": 287700,
-  "2022-11-27": 287700,
-  "2022-11-28": 287700,
-  "2022-11-29": 287700,
-  "2022-11-30": 287700,
-  "2022-12-01": 287700,
-  "2022-12-02": 287700,
-  "2022-12-03": 287700,
-  "2022-12-04": 287700,
-  "2022-12-05": 287700,
-  "2022-12-06": 287700,
-  "2022-12-07": 287700,
-  "2022-12-08": 287700,
-  "2022-12-09": 287700,
-  "2022-12-10": 287700,
-  "2022-12-11": 287700,
-  "2022-12-12": 287700,
-  "2022-12-13": 287700,
-  "2022-12-14": 287700,
-  "2022-12-15": 287700,
-  "2022-12-16": 287700,
-  "2022-12-17": 287700,
-  "2022-12-18": 287700,
-  "2022-12-19": 287700,
-  "2022-12-20": 287700,
-  "2022-12-21": 287700,
-  "2022-12-22": 287700,
-  "2022-12-24": 287700,
-  "2022-12-25": 287700,
-  "2022-12-26": 287700,
-  "2022-12-27": 287700,
-  "2022-12-28": 287700,
-  "2022-12-29": 287700,
-  "2022-12-30": 287700,
-  "2022-12-31": 287700,
-  "2023-01-01": 287700,
-  "2023-01-02": 287700,
-  "2023-01-03": 287700,
-  "2023-01-04": 287700,
-  "2023-01-05": 287700,
-  "2023-01-06": 287700,
-  "2023-01-07": 287700,
-  "2023-01-08": 287700,
-  "2023-01-09": 287700,
-  "2023-01-10": 287700,
-  "2023-01-11": 287700,
-  "2023-01-12": 287700,
-  "2023-01-13": 287700,
-  "2023-01-14": 287700,
-  "2023-01-15": 287700,
-  "2023-01-16": 287700,
-  "2023-01-17": 287700,
-  "2023-01-18": 287700,
-  "2023-01-19": 287700,
-  "2023-01-20": 287700,
-  "2023-01-21": 287700,
-  "2023-01-22": 287700,
-  "2023-01-23": 287700,
-  "2023-01-24": 287700,
-  "2023-01-25": 287700,
-  "2023-01-26": 287700,
-  "2023-01-27": 287700,
-  "2023-01-28": 287700,
-  "2023-01-29": 287700,
-  "2023-01-30": 287700,
-  "2023-01-31": 287700,
-  "2023-02-01": 287700,
-  "2023-02-02": 287700,
-  "2023-02-03": 287700,
-  "2023-02-04": 287700,
-  "2023-02-05": 287700,
-  "2023-02-06": 287700,
-  "2023-02-07": 287700,
-  "2023-02-08": 287700,
-  "2023-02-09": 287700,
-  "2023-02-10": 287700,
-  "2023-02-11": 287700,
-  "2023-02-12": 287700,
-  "2023-02-13": 287700,
-  "2023-02-14": 287700,
-  "2023-02-15": 287700,
-  "2023-02-16": 287700,
-  "2023-02-17": 287700,
-  "2023-02-18": 287700,
-  "2023-02-19": 287700,
-  "2023-02-20": 287700,
-  "2023-02-21": 287700,
-  "2023-02-22": 287700,
-  "2023-02-23": 287700,
-  "2023-02-24": 287700,
-  "2023-02-25": 287700,
-  "2023-02-26": 287700,
-  "2023-02-27": 287700,
-  "2023-02-28": 287700,
-  "2023-03-01": 287700,
-  "2023-03-02": 287700,
-  "2023-03-03": 287700,
-  "2023-03-04": 287700,
-  "2023-03-05": 287700,
-  "2023-03-06": 287700,
-  "2023-03-07": 287700,
-  "2023-03-08": 287700,
-  "2023-03-09": 287700,
-  "2023-03-10": 287700,
-  "2023-03-11": 287700,
-  "2023-03-12": 287700,
-  "2023-03-13": 287700,
-  "2023-03-14": 287700,
-  "2023-03-15": 287700,
-  "2023-03-16": 287700,
-  "2023-03-17": 287700,
-  "2023-03-18": 287700,
-  "2023-03-19": 287700,
-  "2023-03-20": 287700,
-  "2023-03-21": 287700,
-  "2023-03-22": 287700,
-  "2023-03-23": 287700,
-  "2023-03-24": 287700,
-  "2023-03-25": 287700,
-  "2023-03-26": 287700,
-  "2023-03-27": 287700,
-  "2023-03-28": 287700,
-  "2023-03-29": 287700,
-  "2023-03-30": 287700,
-  "2023-03-31": 287700,
-  "2023-04-01": 287700,
-  "2023-04-02": 287700,
-  "2023-04-03": 287700,
-  "2023-04-04": 287700,
-  "2023-04-05": 287700,
-  "2023-04-06": 287700,
-  "2023-04-07": 287700,
-  "2023-04-09": 287700,
-  "2023-04-10": 287700,
-  "2023-04-11": 287700,
-  "2023-04-12": 287700,
-  "2023-04-13": 287700,
-  "2023-04-14": 287700,
-  "2023-04-15": 287700,
-  "2023-04-16": 287700,
-  "2023-04-17": 287700,
-  "2023-04-18": 287700,
-  "2023-04-19": 287700,
-  "2023-04-20": 287700,
-  "2023-04-21": 287700,
-  "2023-04-22": 287700,
-  "2023-04-23": 287700,
-  "2023-04-24": 287700,
-  "2023-04-25": 287700,
-  "2023-04-26": 287700,
-  "2023-04-27": 287700,
-  "2023-04-28": 287700,
-  "2023-04-29": 287700,
-  "2023-04-30": 287700,
-  "2023-05-01": 287700,
-  "2023-05-02": 287700,
-  "2023-05-03": 287700,
-  "2023-05-04": 287700,
-  "2023-05-05": 287700,
-  "2023-05-06": 287700,
-  "2023-05-07": 287700,
-  "2023-05-08": 287700,
-  "2023-05-09": 287700,
-  "2023-05-10": 287700,
-  "2023-05-11": 287700,
-  "2023-05-12": 287700,
-  "2023-05-13": 287700,
-  "2023-05-14": 287700,
-  "2023-05-15": 287700,
-  "2023-05-16": 287700,
-  "2023-05-17": 287700,
-  "2023-05-18": 287700,
-  "2023-05-19": 287700,
-  "2023-05-20": 287700,
-  "2023-05-21": 287700,
-  "2023-05-22": 287700,
-  "2023-05-23": 287700,
-  "2023-05-24": 287700,
-  "2023-05-25": 287700,
-  "2023-05-26": 287700,
-  "2023-05-27": 287700,
-  "2023-05-28": 287700,
-  "2023-05-29": 287700,
-  "2023-05-30": 287700,
-  "2023-05-31": 287700,
-  "2023-06-01": 287700,
-  "2023-06-02": 287700,
-  "2023-06-03": 287700,
-  "2023-06-04": 287700,
-  "2023-06-05": 287700,
-  "2023-06-06": 287700,
-  "2023-06-07": 287700,
-  "2023-06-08": 287700,
-  "2023-06-09": 287700,
-  "2023-06-10": 287700,
-  "2023-06-11": 287700,
-  "2023-06-12": 287700,
-  "2023-06-13": 287700,
-  "2023-06-14": 287700,
-  "2023-06-15": 287700,
-  "2023-06-16": 287700,
-  "2023-06-17": 287700,
-  "2023-06-18": 287700,
-  "2023-06-19": 287700,
-  "2023-06-20": 287700,
-  "2023-06-21": 287700,
-  "2023-06-22": 287700,
-  "2023-06-23": 287700,
-  "2023-06-24": 287700,
-  "2023-06-25": 287700,
-  "2023-06-26": 287700,
-  "2023-06-27": 287700,
-  "2023-06-28": 287700,
-  "2023-06-29": 287700,
-  "2023-06-30": 287700,
-  "2023-07-01": 287700,
-  "2023-07-02": 287700,
-  "2023-07-03": 287700,
-  "2023-07-04": 287700,
-  "2023-07-05": 287700,
-  "2023-07-06": 287700,
-  "2023-07-07": 287700,
-  "2023-07-08": 287700,
-  "2023-07-09": 287700,
-  "2023-07-10": 287700,
-  "2023-07-11": 287700,
-  "2023-07-12": 287700,
-  "2023-07-13": 287700,
-  "2023-07-14": 287700,
-  "2023-07-15": 287700,
-  "2023-07-16": 287700,
-  "2023-07-17": 287700,
-  "2023-07-18": 287700,
-  "2023-07-19": 287700,
-  "2023-07-20": 287700,
-  "2023-07-21": 287700,
-  "2023-07-22": 287700,
-  "2023-07-23": 287700,
-  "2023-07-24": 287700,
-  "2023-07-25": 287700,
-  "2023-07-26": 287700,
-  "2023-07-27": 287700,
-  "2023-07-28": 287700,
-  "2023-07-29": 287700,
-  "2023-07-30": 287700,
-  "2023-07-31": 287700,
-  "2023-08-01": 287700,
-  "2023-08-02": 287700,
-  "2023-08-03": 287700,
-  "2023-08-04": 287700,
-  "2023-08-05": 287700,
-  "2023-08-06": 287700,
-  "2023-08-07": 287700,
-  "2023-08-08": 287700,
-  "2023-08-09": 287700,
-  "2023-08-10": 287700,
-  "2023-08-11": 287700,
-  "2023-08-12": 287700,
-  "2023-08-13": 287700,
-  "2023-08-14": 287700,
-  "2023-08-15": 287700,
-  "2023-08-16": 287700,
-  "2023-08-17": 287700,
-  "2023-08-18": 287700,
-  "2023-08-19": 287700,
-  "2023-08-20": 287700,
-  "2023-08-21": 287700,
-  "2023-08-22": 287700,
-  "2023-08-23": 287700,
-  "2023-08-24": 287700,
-  "2023-08-25": 287700,
-  "2023-08-26": 287700,
-  "2023-08-27": 287700,
-  "2023-08-28": 287700,
-  "2023-08-29": 287700,
-  "2023-08-30": 287700,
-  "2023-08-31": 287700,
-  "2023-09-01": 287700,
-  "2023-09-02": 287700,
-  "2023-09-03": 287700,
-  "2023-09-04": 287700,
-  "2023-09-05": 287700,
-  "2023-09-06": 287700,
-  "2023-09-07": 287700,
-  "2023-09-08": 287700,
-  "2023-09-09": 287700,
-  "2023-09-10": 287700,
-  "2023-09-11": 287700,
-  "2023-09-12": 287700,
-  "2023-09-13": 287700,
-  "2023-09-14": 287700,
-  "2023-09-15": 287700,
-  "2023-09-16": 287700,
-  "2023-09-17": 287700,
-  "2023-09-18": 287700,
-  "2023-09-19": 287700,
-  "2023-09-20": 287700,
-  "2023-09-21": 287700,
-  "2023-09-22": 287700,
-  "2023-09-23": 287700,
-  "2023-09-24": 287700,
-  "2023-09-25": 287700,
-  "2023-09-26": 287700,
-  "2023-09-27": 287700,
-  "2023-09-28": 287700,
-  "2023-09-29": 287700,
-  "2023-09-30": 287700,
-  "2023-10-01": 287700,
-  "2023-10-02": 287700,
-  "2023-10-03": 287700,
-  "2023-10-04": 287700,
-  "2023-10-05": 287700,
-  "2023-10-06": 287700,
-  "2023-10-07": 287700,
-  "2023-10-08": 287700,
-  "2023-10-09": 287700,
-  "2023-10-10": 287700,
-  "2023-10-11": 287700,
-  "2023-10-12": 287700,
-  "2023-10-13": 287700,
-  "2023-10-14": 287700,
-  "2023-10-15": 287700,
-  "2023-10-16": 287700,
-  "2023-10-17": 287700,
-  "2023-10-18": 287700,
-  "2023-10-19": 287700,
-  "2023-10-20": 287700,
-  "2023-10-21": 287700,
-  "2023-10-22": 287700,
-  "2023-10-23": 287700,
-  "2023-10-24": 287700,
-  "2023-10-25": 287700,
-  "2023-10-26": 287700,
-  "2023-10-27": 287700,
-  "2023-10-28": 287700,
-  "2023-10-29": 287700,
-  "2023-10-30": 287700,
-  "2023-10-31": 287700,
-  "2023-11-01": 287700,
-  "2023-11-02": 287700,
-  "2023-11-03": 287700,
-  "2023-11-04": 287700,
-  "2023-11-05": 287700,
-  "2023-11-06": 287700,
-  "2023-11-07": 287700,
-  "2023-11-08": 287700,
-  "2023-11-09": 287700,
-  "2023-11-10": 287700,
-  "2023-11-11": 287700,
-  "2023-11-12": 287700,
-  "2023-11-13": 287700,
-  "2023-11-14": 287700,
-  "2023-11-15": 287700,
-  "2023-11-16": 287700,
-  "2023-11-17": 287700,
-  "2023-11-18": 287700,
-  "2023-11-19": 287700,
-  "2023-11-20": 287700,
-  "2023-11-21": 287700,
-  "2023-11-22": 287700,
-  "2023-11-23": 287700,
-  "2023-11-24": 287700,
-  "2023-11-25": 287700,
-  "2023-11-26": 287700,
-  "2023-11-27": 287700,
-  "2023-11-28": 287700,
-  "2023-11-29": 287700,
-  "2023-11-30": 287700,
-  "2023-12-01": 287700,
-  "2023-12-02": 287700,
-  "2023-12-03": 287700,
-  "2023-12-04": 287700,
-  "2023-12-05": 287700,
-  "2023-12-06": 287700,
-  "2023-12-07": 287700,
-  "2023-12-08": 287700,
-  "2023-12-09": 287700,
-  "2023-12-10": 287700,
-  "2023-12-11": 287700,
-  "2023-12-12": 287700,
-  "2023-12-13": 287700,
-  "2023-12-14": 287700,
-  "2023-12-15": 287700,
-  "2023-12-16": 287700,
-  "2023-12-17": 287700,
-  "2023-12-18": 287700,
-  "2023-12-19": 287700,
-  "2023-12-20": 287700,
-  "2023-12-21": 287700,
-  "2023-12-22": 287700,
-  "2023-12-23": 287700,
-  "2023-12-24": 287700,
-  "2023-12-25": 287700,
-  "2023-12-26": 287700,
-  "2023-12-27": 287700,
-  "2023-12-30": 287700,
-  "2023-12-31": 287700,
-  "2024-01-01": 287700,
-  "2024-01-02": 287700,
-  "2024-01-03": 287700
+  "2024-01-17": 287700,
+  "date_first_scraped": "2021-12-21",
+  "description": "Experience Tom Petty's final project, \"Wildflowers & All The Rest,\" the way he originally envisioned it.",
+  "name": "This Is Tom Petty",
+  "tracks": [
+    {
+      "album": {
+        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
+        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2021-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190727,
+      "name": "105 Degrees",
+      "url": "https://open.spotify.com/track/061NHZijloOmBvbujB72sm"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234674,
+      "name": "A Higher Place - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6XgY33mdcI6rhnW7XHPkFv"
+    },
+    {
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259773,
+      "name": "A Woman In Love (It's Not Me)",
+      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
+    },
+    {
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "American Dream Plan B",
+      "url": "https://open.spotify.com/track/5TCq5VBFgZx6Pg3qeGqUE4"
+    },
+    {
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+    },
+    {
+      "album": {
+        "name": "She's the One (Songs and Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Angel Dream (No. 4)",
+      "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
+    },
+    {
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ"
+    },
+    {
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "Cabin Down Below - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0c1QFVTz14DuVKtX22xPR2"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157278,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4NFej39abFtnhoTbStc9T8"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "Climb That Hill",
+      "url": "https://open.spotify.com/track/3t7fSeVQyPxxJ97owbnSEH"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152994,
+      "name": "Climb That Hill Blues",
+      "url": "https://open.spotify.com/track/6W1lzwSszRRPauQspm81v9"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259935,
+      "name": "Confusion Wheel",
+      "url": "https://open.spotify.com/track/0FuJ7lWU0lUtlPHvmo01jl"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303200,
+      "name": "Crawling Back to You - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6up6wflOSkh1FWDB7OcUQa"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304066,
+      "name": "Don't Come Around Here No More",
+      "url": "https://open.spotify.com/track/0AEXJF8D64oc9o62fQMEyD"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Don't Do Me Like That",
+      "url": "https://open.spotify.com/track/487KLCKteHJzeoGdbBrgkq"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210758,
+      "name": "Don't Fade on Me - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5LVVowFa9eflHtkOrYi4ub"
+    },
+    {
+      "album": {
+        "name": "Finding Wildflowers (Alternate Versions)",
+        "url": "https://open.spotify.com/album/0hRuPNZV5ff9JZwRBNqosj"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300252,
+      "name": "Drivin' Down To Georgia",
+      "url": "https://open.spotify.com/track/0FN3JxhFO85JOdxrsHzKFl"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396773,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5BKc1D4DKDRjAg37HT7vLD"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Even The Losers",
+      "url": "https://open.spotify.com/track/1L3uVLsPEC8Er4uoyixLk5"
+    },
+    {
+      "album": {
+        "name": "For Real / The Best Of Everything",
+        "url": "https://open.spotify.com/album/47cu5tTEfZujAblpkBkXgt"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231946,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/5xIXisYiSN60TOr9udGTrL"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Free Girl Now",
+      "url": "https://open.spotify.com/track/1ayC8ThLb56mKdLsF3ognO"
+    },
+    {
+      "album": {
+        "name": "Gainesville (Outtake, 1998)",
+        "url": "https://open.spotify.com/album/4F9Q5jC8tPpg7H58FtcKsR"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Gainesville - Outtake, 1998",
+      "url": "https://open.spotify.com/track/3zrFI5zwOOrW2QURRPJeh8"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Hard on Me - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0HJlP4VRsBNOOo6OOd6YZF"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233441,
+      "name": "Harry Green",
+      "url": "https://open.spotify.com/track/2mxmOjndJSNyx68rIzueCH"
+    },
+    {
+      "album": {
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245906,
+      "name": "Have Love, Will Travel",
+      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263933,
+      "name": "Here Comes My Girl",
+      "url": "https://open.spotify.com/track/075rqIE8gmoigDH7N8rlaz"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297707,
+      "name": "Honey Bee - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1gPm3GiTlBOpC8seaWkPbA"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182199,
+      "name": "Hope You Never",
+      "url": "https://open.spotify.com/track/1sCvzeYzErQhfD11TKVyeV"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330226,
+      "name": "House in the Woods - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6b3a7rTy0vfhIKEjCAUMnP"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362306,
+      "name": "Hung Up and Overdue",
+      "url": "https://open.spotify.com/track/1OmVQd1NR9at8GS4Sjqerf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/65e26luF3vz3lfMnbmO3RP"
+    },
+    {
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Into The Great Wide Open",
+      "url": "https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308173,
+      "name": "It's Good to Be King - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3fuW9bGCLVJGpMBfqam3E5"
+    },
+    {
+      "album": {
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249093,
+      "name": "Jammin' Me",
+      "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
+    },
+    {
+      "album": {
+        "name": "Keep a Little Soul (Outtake, 1982)",
+        "url": "https://open.spotify.com/album/073bHtlHVYA30LOv7cyk3V"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Keep a Little Soul - Outtake, 1982",
+      "url": "https://open.spotify.com/track/7aaHlvqJoea0S46e3YPVEX"
+    },
+    {
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255088,
+      "name": "Leave Virginia Alone",
+      "url": "https://open.spotify.com/track/5fVdrd2aYqMInWGtnvQrXZ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Listen To Her Heart",
+      "url": "https://open.spotify.com/track/5LYMs4ZrB5chAdu2FusRf7"
+    },
+    {
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352413,
+      "name": "Louisiana Rain",
+      "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Love Is A Long Road",
+      "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
+    },
+    {
+      "album": {
+        "name": "Anthology: Through The Years",
+        "url": "https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "Mary Jane's Last Dance",
+      "url": "https://open.spotify.com/track/5eYwDBLucWfWI5KsV7oYX2"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268493,
+      "name": "Only a Broken Heart - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1GZJrOxhpUvlgFBm73Pq9q"
+    },
+    {
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321693,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
+    },
+    {
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/2JnQvMvZyV8c2fiLMKHZ80"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/72HUyOvpvwX2Z2o2R3cf4X"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300933,
+      "name": "Room at the Top",
+      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "album": {
+        "name": "Anthology: Through The Years",
+        "url": "https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Runnin' Down A Dream",
+      "url": "https://open.spotify.com/track/75wP08AtMfGfjk0nPdvVw3"
+    },
+    {
+      "album": {
+        "name": "Highway Companion",
+        "url": "https://open.spotify.com/album/1CvE8Bp9CDOArk2aL3NuC4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "Saving Grace",
+      "url": "https://open.spotify.com/track/7tSt526i6jm3zmhUfbXZHX"
+    },
+    {
+      "album": {
+        "name": "Anthology: Through The Years",
+        "url": "https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219066,
+      "name": "So You Want To Be A Rock 'N' Roll Star",
+      "url": "https://open.spotify.com/track/54ttq5KdFvNcLHQ8CobHXP"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274630,
+      "name": "Something Could Happen",
+      "url": "https://open.spotify.com/track/42DoDWKE0Ie1lSjjdALfrA"
+    },
+    {
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276261,
+      "name": "Somewhere Under Heaven",
+      "url": "https://open.spotify.com/track/1wcu77IwJHYejTbGbG7lIq"
+    },
+    {
+      "album": {
+        "name": "Highway Companion",
+        "url": "https://open.spotify.com/album/1CvE8Bp9CDOArk2aL3NuC4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/4MXCpUjTFXgbmANvLzdVVl"
+    },
+    {
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0Adyxuv3X9l2CtMt0OeY5M"
+    },
+    {
+      "album": {
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
+    },
+    {
+      "album": {
+        "name": "Anthology: Through The Years",
+        "url": "https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2WBPjJtyw6ILfpUpFOzzve"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330306,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
+    },
+    {
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "The Best Of Everything",
+      "url": "https://open.spotify.com/track/684sVqM8FA9ZUYGm4ik7QP"
+    },
+    {
+      "album": {
+        "name": "For Real / The Best Of Everything",
+        "url": "https://open.spotify.com/album/47cu5tTEfZujAblpkBkXgt"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325760,
+      "name": "The Best Of Everything - Alternate Version / Extra Verse",
+      "url": "https://open.spotify.com/track/2Rt5hqqGQX70MEDDeWO1Cx"
+    },
+    {
+      "album": {
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "The Last DJ",
+      "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "The Waiting",
+      "url": "https://open.spotify.com/track/37bRLJTVUFl3zU0OXwcAze"
+    },
+    {
+      "album": {
+        "name": "There Goes Angela (Dream Away) [Home Recording]",
+        "url": "https://open.spotify.com/album/5RmC7RblZ1iSrvVVfbKv8n"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229002,
+      "name": "There Goes Angela (Dream Away) - Home Recording",
+      "url": "https://open.spotify.com/track/1zzjrHAKeLtbvlxl3WSU97"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Time to Move On - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5F2oiIyan6JZVa0LnhLG1l"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "To Find a Friend - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2HLmE9ihzfjWFzNXrrSfnI"
+    },
+    {
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317693,
+      "name": "Wake Up Time - 2014 Remaster",
+      "url": "https://open.spotify.com/track/5MpA89rQe3ufImMsYcJaNw"
+    },
+    {
+      "album": {
+        "name": "She's the One (Songs and Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Walls (No. 3)",
+      "url": "https://open.spotify.com/track/4eHWgathEi3nUnZhEG4XV6"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Wildflowers - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1BQGscTgSs3CuptO6WM4eV"
+    },
+    {
+      "album": {
+        "name": "Wildflowers (Home Recording)",
+        "url": "https://open.spotify.com/album/0NKtyNRRxWJrjaNz41AH5o"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Wildflowers - Home Recording",
+      "url": "https://open.spotify.com/track/6eCcxpVmduC1me0tndYpW1"
+    },
+    {
+      "album": {
+        "name": "You and Me (Clubhouse Version, 2007)",
+        "url": "https://open.spotify.com/album/3Q2viWFEnkjVfr9wGiwqN1"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "You and Me - Clubhouse Version, 2007",
+      "url": "https://open.spotify.com/track/0fQ5cNJvtwfeyXMDyVGMmO"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287726,
+      "name": "You Don't Know How It Feels - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2TwiWFSRb0K19XLc9k8Avi"
+    },
+    {
+      "album": {
+        "name": "You Don't Know How It Feels (Home Recording)",
+        "url": "https://open.spotify.com/album/4A91O5EyPeofiZLnDn334L"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280872,
+      "name": "You Don't Know How it Feels - Home Recording",
+      "url": "https://open.spotify.com/track/7ntHCJUKfTtW8EExLF7A5b"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2uxG4gg4WnqR5eriMN6ehS"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "You Got Lucky",
+      "url": "https://open.spotify.com/track/1iN5keQmzqiCN2AwuYDcZ8"
+    },
+    {
+      "album": {
+        "name": "Wildflowers & All The Rest (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2s7jw1QyMFXe1fsSzla8cv"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202120,
+      "name": "You Wreck Me - 2014 Remaster",
+      "url": "https://open.spotify.com/track/34JN9pX4aBjGMxeKs4XMGe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUlZhYdX0uqM"
 }

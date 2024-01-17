@@ -1,476 +1,1267 @@
 {
-  "2022-09-12": 28699,
-  "2022-09-13": 28730,
-  "2022-09-15": 28805,
-  "2022-09-16": 28841,
-  "2022-09-17": 28872,
-  "2022-09-18": 28903,
-  "2022-09-19": 28930,
-  "2022-09-20": 28975,
-  "2022-09-21": 29020,
-  "2022-09-22": 29061,
-  "2022-09-23": 29091,
-  "2022-09-24": 29121,
-  "2022-09-25": 29157,
-  "2022-09-26": 29203,
-  "2022-09-27": 29235,
-  "2022-09-28": 29289,
-  "2022-09-29": 29324,
-  "2022-09-30": 29372,
-  "2022-10-01": 29414,
-  "2022-10-02": 29451,
-  "2022-10-03": 29486,
-  "2022-10-04": 29516,
-  "2022-10-05": 29552,
-  "2022-10-06": 29593,
-  "2022-10-07": 29634,
-  "2022-10-08": 29685,
-  "2022-10-09": 29774,
-  "2022-10-10": 29781,
-  "2022-10-11": 29823,
-  "2022-10-12": 29863,
-  "2022-10-13": 29898,
-  "2022-10-14": 29931,
-  "2022-10-15": 29970,
-  "2022-10-16": 30011,
-  "2022-10-17": 30057,
-  "2022-10-18": 30091,
-  "2022-10-19": 30130,
-  "2022-10-20": 30178,
-  "2022-10-21": 30221,
-  "2022-10-22": 30262,
-  "2022-10-23": 30298,
-  "2022-10-24": 30346,
-  "2022-10-25": 30397,
-  "2022-10-26": 30428,
-  "2022-10-27": 30477,
-  "2022-10-28": 30525,
-  "2022-10-29": 30569,
-  "2022-10-30": 30610,
-  "2022-10-31": 30648,
-  "2022-11-01": 30694,
-  "2022-11-02": 30735,
-  "2022-11-03": 30790,
-  "2022-11-04": 30841,
-  "2022-11-05": 30900,
-  "2022-11-06": 30957,
-  "2022-11-07": 31009,
-  "2022-11-08": 31062,
-  "2022-11-09": 31114,
-  "2022-11-10": 31165,
-  "2022-11-11": 31218,
-  "2022-11-12": 31278,
-  "2022-11-13": 31330,
-  "2022-11-14": 31387,
-  "2022-11-15": 31448,
-  "2022-11-16": 31492,
-  "2022-11-17": 31542,
-  "2022-11-18": 31558,
-  "2022-11-19": 31547,
-  "2022-11-20": 31565,
-  "2022-11-21": 31621,
-  "2022-11-22": 31664,
-  "2022-11-23": 31717,
-  "2022-11-24": 31797,
-  "2022-11-25": 31878,
-  "2022-11-26": 31953,
-  "2022-11-27": 32001,
-  "2022-11-28": 32049,
-  "2022-11-29": 32101,
-  "2022-11-30": 32169,
-  "2022-12-01": 32224,
-  "2022-12-02": 32281,
-  "2022-12-03": 32321,
-  "2022-12-04": 32390,
-  "2022-12-05": 32441,
-  "2022-12-06": 32488,
-  "2022-12-07": 32529,
-  "2022-12-08": 32569,
-  "2022-12-09": 32612,
-  "2022-12-10": 32665,
-  "2022-12-11": 32711,
-  "2022-12-12": 32776,
-  "2022-12-13": 32824,
-  "2022-12-14": 32866,
-  "2022-12-15": 32919,
-  "2022-12-16": 32974,
-  "2022-12-17": 33019,
-  "2022-12-18": 33059,
-  "2022-12-19": 33107,
-  "2022-12-20": 33195,
-  "2022-12-21": 33195,
-  "2022-12-22": 33230,
-  "2022-12-24": 33319,
-  "2022-12-25": 33360,
-  "2022-12-26": 33390,
-  "2022-12-27": 33428,
-  "2022-12-28": 33474,
-  "2022-12-29": 33515,
-  "2022-12-30": 33547,
-  "2022-12-31": 33596,
-  "2023-01-01": 33616,
-  "2023-01-02": 33648,
-  "2023-01-03": 33706,
-  "2023-01-04": 33748,
-  "2023-01-05": 33804,
-  "2023-01-06": 33849,
-  "2023-01-07": 33938,
-  "2023-01-08": 33949,
-  "2023-01-09": 34000,
-  "2023-01-10": 34064,
-  "2023-01-11": 34103,
-  "2023-01-12": 34146,
-  "2023-01-13": 34201,
-  "2023-01-14": 34298,
-  "2023-01-15": 34312,
-  "2023-01-16": 34378,
-  "2023-01-17": 34434,
-  "2023-01-18": 34497,
-  "2023-01-19": 34549,
-  "2023-01-20": 34596,
-  "2023-01-21": 34643,
-  "2023-01-22": 34698,
-  "2023-01-23": 34752,
-  "2023-01-24": 34803,
-  "2023-01-25": 34858,
-  "2023-01-26": 34885,
-  "2023-01-27": 34947,
-  "2023-01-28": 35008,
-  "2023-01-29": 35057,
-  "2023-01-30": 35101,
-  "2023-01-31": 35101,
-  "2023-02-01": 35197,
-  "2023-02-02": 35252,
-  "2023-02-03": 35301,
-  "2023-02-04": 35342,
-  "2023-02-05": 35416,
-  "2023-02-06": 35461,
-  "2023-02-07": 35516,
-  "2023-02-08": 35613,
-  "2023-02-09": 35613,
-  "2023-02-10": 35662,
-  "2023-02-11": 35706,
-  "2023-02-12": 35804,
-  "2023-02-13": 35842,
-  "2023-02-14": 35842,
-  "2023-02-15": 35885,
-  "2023-02-16": 35926,
-  "2023-02-17": 35958,
-  "2023-02-18": 36034,
-  "2023-02-19": 36038,
-  "2023-02-20": 36093,
-  "2023-02-21": 36135,
-  "2023-02-22": 36176,
-  "2023-02-23": 36236,
-  "2023-02-24": 36274,
-  "2023-02-25": 36331,
-  "2023-02-26": 36366,
-  "2023-02-27": 36458,
-  "2023-02-28": 36458,
-  "2023-03-01": 36512,
-  "2023-03-02": 36555,
-  "2023-03-03": 36618,
-  "2023-03-04": 36671,
-  "2023-03-05": 36778,
-  "2023-03-06": 36778,
-  "2023-03-07": 36819,
-  "2023-03-08": 36858,
-  "2023-03-09": 36906,
-  "2023-03-10": 36949,
-  "2023-03-11": 36995,
-  "2023-03-12": 37052,
-  "2023-03-13": 37119,
-  "2023-03-14": 37165,
-  "2023-03-15": 37222,
-  "2023-03-16": 37267,
-  "2023-03-17": 37267,
-  "2023-03-18": 37357,
-  "2023-03-19": 37397,
-  "2023-03-20": 37445,
-  "2023-03-21": 37481,
-  "2023-03-22": 37520,
-  "2023-03-23": 37557,
-  "2023-03-24": 37557,
-  "2023-03-25": 37611,
-  "2023-03-26": 37641,
-  "2023-03-27": 37679,
-  "2023-03-28": 37720,
-  "2023-03-29": 37746,
-  "2023-03-30": 37823,
-  "2023-03-31": 37823,
-  "2023-04-01": 37853,
-  "2023-04-02": 37893,
-  "2023-04-03": 37937,
-  "2023-04-04": 37976,
-  "2023-04-05": 38011,
-  "2023-04-06": 38081,
-  "2023-04-07": 38121,
-  "2023-04-09": 38212,
-  "2023-04-10": 38245,
-  "2023-04-11": 38314,
-  "2023-04-12": 38314,
-  "2023-04-13": 38346,
-  "2023-04-14": 38395,
-  "2023-04-15": 38430,
-  "2023-04-16": 38465,
-  "2023-04-17": 38502,
-  "2023-04-18": 38538,
-  "2023-04-19": 38582,
-  "2023-04-20": 38628,
-  "2023-04-21": 38661,
-  "2023-04-22": 38690,
-  "2023-04-23": 38728,
-  "2023-04-24": 38761,
-  "2023-04-25": 38796,
-  "2023-04-26": 38843,
-  "2023-04-27": 38878,
-  "2023-04-28": 38917,
-  "2023-04-29": 38948,
-  "2023-04-30": 38987,
-  "2023-05-01": 39024,
-  "2023-05-02": 39057,
-  "2023-05-03": 39094,
-  "2023-05-04": 39132,
-  "2023-05-05": 39162,
-  "2023-05-06": 39199,
-  "2023-05-07": 39231,
-  "2023-05-08": 39271,
-  "2023-05-09": 39309,
-  "2023-05-10": 39335,
-  "2023-05-11": 39383,
-  "2023-05-12": 39427,
-  "2023-05-13": 39451,
-  "2023-05-14": 39495,
-  "2023-05-15": 39535,
-  "2023-05-16": 39563,
-  "2023-05-17": 39620,
-  "2023-05-18": 39657,
-  "2023-05-19": 39699,
-  "2023-05-20": 39789,
-  "2023-05-21": 39789,
-  "2023-05-22": 39789,
-  "2023-05-23": 39874,
-  "2023-05-24": 39927,
-  "2023-05-25": 39933,
-  "2023-05-26": 39971,
-  "2023-05-27": 39996,
-  "2023-05-28": 40029,
-  "2023-05-29": 40029,
-  "2023-05-30": 40107,
-  "2023-05-31": 40154,
-  "2023-06-01": 40192,
-  "2023-06-02": 40227,
-  "2023-06-03": 40253,
-  "2023-06-04": 40289,
-  "2023-06-05": 40327,
-  "2023-06-06": 40364,
-  "2023-06-07": 40406,
-  "2023-06-08": 40439,
-  "2023-06-09": 40478,
-  "2023-06-10": 40521,
-  "2023-06-11": 40565,
-  "2023-06-12": 40611,
-  "2023-06-13": 40654,
-  "2023-06-14": 40695,
-  "2023-06-15": 40733,
-  "2023-06-16": 40765,
-  "2023-06-17": 40787,
-  "2023-06-18": 40803,
-  "2023-06-19": 40824,
-  "2023-06-20": 40846,
-  "2023-06-21": 40882,
-  "2023-06-22": 40913,
-  "2023-06-23": 40934,
-  "2023-06-24": 40959,
-  "2023-06-25": 40983,
-  "2023-06-26": 41008,
-  "2023-06-27": 41033,
-  "2023-06-28": 41065,
-  "2023-06-29": 41097,
-  "2023-06-30": 41124,
-  "2023-07-01": 41169,
-  "2023-07-02": 41169,
-  "2023-07-03": 41193,
-  "2023-07-04": 41207,
-  "2023-07-05": 41245,
-  "2023-07-06": 41287,
-  "2023-07-07": 41287,
-  "2023-07-08": 41309,
-  "2023-07-09": 41326,
-  "2023-07-10": 41351,
-  "2023-07-11": 41383,
-  "2023-07-12": 41403,
-  "2023-07-13": 41432,
-  "2023-07-14": 41452,
-  "2023-07-15": 41473,
-  "2023-07-16": 41504,
-  "2023-07-17": 41525,
-  "2023-07-18": 41557,
-  "2023-07-19": 41582,
-  "2023-07-20": 41614,
-  "2023-07-21": 41653,
-  "2023-07-22": 41679,
-  "2023-07-23": 41714,
-  "2023-07-24": 41738,
-  "2023-07-25": 41762,
-  "2023-07-26": 41789,
-  "2023-07-27": 41814,
-  "2023-07-28": 41847,
-  "2023-07-29": 41871,
-  "2023-07-30": 41906,
-  "2023-07-31": 41932,
-  "2023-08-01": 41955,
-  "2023-08-02": 41981,
-  "2023-08-03": 42010,
-  "2023-08-04": 42034,
-  "2023-08-05": 42076,
-  "2023-08-06": 42132,
-  "2023-08-07": 42132,
-  "2023-08-08": 42151,
-  "2023-08-09": 42190,
-  "2023-08-10": 42217,
-  "2023-08-11": 42250,
-  "2023-08-12": 42290,
-  "2023-08-13": 42328,
-  "2023-08-14": 42354,
-  "2023-08-15": 42413,
-  "2023-08-16": 42413,
-  "2023-08-17": 42445,
-  "2023-08-18": 42468,
-  "2023-08-19": 42483,
-  "2023-08-20": 42507,
-  "2023-08-21": 42542,
-  "2023-08-22": 42567,
-  "2023-08-23": 42597,
-  "2023-08-24": 42627,
-  "2023-08-25": 42670,
-  "2023-08-26": 42701,
-  "2023-08-27": 42739,
-  "2023-08-28": 42776,
-  "2023-08-29": 42806,
-  "2023-08-30": 42840,
-  "2023-08-31": 42870,
-  "2023-09-01": 42929,
-  "2023-09-02": 42929,
-  "2023-09-03": 42954,
-  "2023-09-04": 42997,
-  "2023-09-05": 43022,
-  "2023-09-06": 43056,
-  "2023-09-07": 43085,
-  "2023-09-08": 43105,
-  "2023-09-09": 43140,
-  "2023-09-10": 43176,
-  "2023-09-11": 43205,
-  "2023-09-12": 43232,
-  "2023-09-13": 43263,
-  "2023-09-14": 43302,
-  "2023-09-15": 43334,
-  "2023-09-16": 43371,
-  "2023-09-17": 43401,
-  "2023-09-18": 43423,
-  "2023-09-19": 43452,
-  "2023-09-20": 43473,
-  "2023-09-21": 43514,
-  "2023-09-22": 43565,
-  "2023-09-23": 43597,
-  "2023-09-24": 43623,
-  "2023-09-25": 43654,
-  "2023-09-26": 43697,
-  "2023-09-27": 43720,
-  "2023-09-28": 43744,
-  "2023-09-29": 43779,
-  "2023-09-30": 43824,
-  "2023-10-01": 43859,
-  "2023-10-02": 43894,
-  "2023-10-03": 43912,
-  "2023-10-04": 43937,
-  "2023-10-05": 43972,
-  "2023-10-06": 43997,
-  "2023-10-07": 44035,
-  "2023-10-08": 44067,
-  "2023-10-09": 44096,
-  "2023-10-10": 44116,
-  "2023-10-11": 44168,
-  "2023-10-12": 44168,
-  "2023-10-13": 44205,
-  "2023-10-14": 44227,
-  "2023-10-15": 44250,
-  "2023-10-16": 44281,
-  "2023-10-17": 44304,
-  "2023-10-18": 44338,
-  "2023-10-19": 44359,
-  "2023-10-20": 44380,
-  "2023-10-21": 44426,
-  "2023-10-22": 44448,
-  "2023-10-23": 44477,
-  "2023-10-24": 44510,
-  "2023-10-25": 44541,
-  "2023-10-26": 44577,
-  "2023-10-27": 44612,
-  "2023-10-28": 44646,
-  "2023-10-29": 44688,
-  "2023-10-30": 44749,
-  "2023-10-31": 44749,
-  "2023-11-01": 44777,
-  "2023-11-02": 44808,
-  "2023-11-03": 44839,
-  "2023-11-04": 44873,
-  "2023-11-05": 44900,
-  "2023-11-06": 44932,
-  "2023-11-07": 44958,
-  "2023-11-08": 45003,
-  "2023-11-09": 45037,
-  "2023-11-10": 45064,
-  "2023-11-11": 45090,
-  "2023-11-12": 45109,
-  "2023-11-13": 45141,
-  "2023-11-14": 45177,
-  "2023-11-15": 45177,
-  "2023-11-16": 45223,
-  "2023-11-17": 45280,
-  "2023-11-18": 45280,
-  "2023-11-19": 45320,
-  "2023-11-20": 45351,
-  "2023-11-21": 45390,
-  "2023-11-22": 45424,
-  "2023-11-23": 45454,
-  "2023-11-24": 45486,
-  "2023-11-25": 45518,
-  "2023-11-26": 45545,
-  "2023-11-27": 45590,
-  "2023-11-28": 45616,
-  "2023-11-29": 45696,
-  "2023-11-30": 45696,
-  "2023-12-01": 45730,
-  "2023-12-02": 45750,
-  "2023-12-03": 45786,
-  "2023-12-04": 45839,
-  "2023-12-05": 45890,
-  "2023-12-06": 45933,
-  "2023-12-07": 45955,
-  "2023-12-08": 45995,
-  "2023-12-09": 46025,
-  "2023-12-10": 46070,
-  "2023-12-11": 46094,
-  "2023-12-12": 46125,
-  "2023-12-13": 46144,
-  "2023-12-14": 46187,
-  "2023-12-15": 46206,
-  "2023-12-16": 46230,
-  "2023-12-17": 46265,
-  "2023-12-18": 46298,
-  "2023-12-19": 46319,
-  "2023-12-20": 46347,
-  "2023-12-21": 46383,
-  "2023-12-22": 46413,
-  "2023-12-23": 46448,
-  "2023-12-24": 46475,
-  "2023-12-25": 46502,
-  "2023-12-26": 46531,
-  "2023-12-27": 46562,
-  "2023-12-30": 46626,
-  "2023-12-31": 46654,
-  "2024-01-01": 46687,
-  "2024-01-02": 46719,
-  "2024-01-03": 46757
+  "2024-01-17": 47261,
+  "date_first_scraped": "2022-09-12",
+  "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
+  "name": "Bach Piano",
+  "tracks": [
+    {
+      "album": {
+        "name": "Easy-Listening Piano Classics: Bach",
+        "url": "https://open.spotify.com/album/1RYyM0yCtSZEPxEwYzQe3q"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 96893,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/7vGTdPgKgTWktgLNcAelWf"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+    },
+    {
+      "album": {
+        "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
+        "url": "https://open.spotify.com/album/4CyjtDDcXde5wcJFdCb2Im"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121333,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 2 in C Minor, BWV 773",
+      "url": "https://open.spotify.com/track/5q6CAvTQ3u2EvRZtHJoKjY"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108626,
+      "name": "3-Part Inventions (Sinfonias), BWV 787\u2013801: Sinfonia No. 6 in E Major, BWV 792",
+      "url": "https://open.spotify.com/track/43lPvNKR0TTffhawRDZMpS"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+    },
+    {
+      "album": {
+        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
+        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483600,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
+    },
+    {
+      "album": {
+        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
+        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430893,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
+      "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
+      "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50306,
+      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in D Minor, BWV Anh. II 132",
+      "url": "https://open.spotify.com/track/483bj6UuRHHGPhhhVVtrOE"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/2eCYStBziLfnCLBXu79MWw"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89040,
+      "name": "Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Minuet in G Major, BWV Anh. II 114",
+      "url": "https://open.spotify.com/track/62CN1hWMMR8JoPvNy0C1uM"
+    },
+    {
+      "album": {
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+    },
+    {
+      "album": {
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        },
+        {
+          "name": "Candida Thompson",
+          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453880,
+      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication]",
+      "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
+    },
+    {
+      "album": {
+        "name": "Bach",
+        "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lucas Jussen",
+          "url": "https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI"
+        },
+        {
+          "name": "Arthur Jussen",
+          "url": "https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297280,
+      "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo",
+      "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
+        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285760,
+      "name": "Concerto For 2 Keyboards In C Minor, BWV 1060: I. Allegro",
+      "url": "https://open.spotify.com/track/781TUTZWgtsB4ShYBl2KFt"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach: Harpsichord Concertos III",
+        "url": "https://open.spotify.com/album/7qjdqeKScMlcXFy6Vmm3rx"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285466,
+      "name": "Concerto For 2 Keyboards in C Minor, BWV 1060: I. Allegro",
+      "url": "https://open.spotify.com/track/3521xl1xZ9X6DidY1LyLxL"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Concertos for Two, Three and Four Harpsichords",
+        "url": "https://open.spotify.com/album/0sWnJN5bMvJM8p2G4yuvda"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207973,
+      "name": "Concerto for 2 Keyboards in C Minor, BWV 1062: I. (Allegro)",
+      "url": "https://open.spotify.com/track/7s4KxZxOf7odG9NSmtbzCL"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
+        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Michael Behringer",
+          "url": "https://open.spotify.com/artist/7xXQd1Y5NTNGgXnYdmwOSM"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "Concerto For 2 Keyboards In C Minor, BWV 1062: I. - Allegro",
+      "url": "https://open.spotify.com/track/3yZEUIdqCvuPvxVXWETXBL"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach : Concertos For Two, Three And Four Harpsichords",
+        "url": "https://open.spotify.com/album/4oeVee0QfTVVX2UPvI5uqw"
+      },
+      "artists": [
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Roderick Shaw",
+          "url": "https://open.spotify.com/artist/2uXVqtUt7EJ3m7QEb9WxaL"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Concerto For 4 Harpsichords In A Minor, BWV 1065: III. Allegro",
+      "url": "https://open.spotify.com/track/29VbJKD8INeKkz1fgMmZal"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
+        "url": "https://open.spotify.com/album/3TvmccGkejrXD2k047NXBI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gerald Hambitzer",
+          "url": "https://open.spotify.com/artist/1xWkZfLpMgjzLJzlReQNlc"
+        },
+        {
+          "name": "Robert Hill",
+          "url": "https://open.spotify.com/artist/14FFQEn4WDq7ikoi2ciBiS"
+        },
+        {
+          "name": "Christoph Anselm Noll",
+          "url": "https://open.spotify.com/artist/2yrKYpJMXZuHvLwt0KhWt8"
+        },
+        {
+          "name": "Robert Shaw",
+          "url": "https://open.spotify.com/artist/24K3MJ131xjKnqDf87M3Qm"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut Muller-Bruhl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204000,
+      "name": "Concerto for 4 Keyboards in A Minor, BWV 1065 (arr. of Vivaldi's, Concerto for 4 Violins in B Minor, Op. 3, No. 10, RV 580): III. Allegro",
+      "url": "https://open.spotify.com/track/1rASWEBeTjmvWvK5jIGmqF"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
+    },
+    {
+      "album": {
+        "name": "J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes",
+        "url": "https://open.spotify.com/album/1T61gHDk7P2LloxbCcjf6U"
+      },
+      "artists": [
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Concerto In The Italian Style, BWV 971, \"Italian Concerto\": I. (Allegro)",
+      "url": "https://open.spotify.com/track/3ayc2swWKTlCXcqvNJCneu"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410160,
+      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
+      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
+      "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
+        "url": "https://open.spotify.com/album/1snsyGmFTelTBj48fPRHBX"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 544493,
+      "name": "English Suite No. 6 in D Minor, BWV 811: I. Prelude",
+      "url": "https://open.spotify.com/track/32cYz7QarUtpgbHy2F9gj6"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: English Suites Nos. 4-6, Bwv 809-811",
+        "url": "https://open.spotify.com/album/3Bcig5Swn4x4KrHea3b2ab"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544493,
+      "name": "English Suite No. 6 in D Minor, BWV 811: I. Prelude",
+      "url": "https://open.spotify.com/track/6vBFn3JVbd8hvsUU0uPLn6"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: French Suites Nos. 1-2 / Italian Concerto / Chromatic Fantasia and Fugue",
+        "url": "https://open.spotify.com/album/3WHDztwanWiA1DvORNNBx6"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84973,
+      "name": "French Suite No. 2 in C Minor, BWV 813: IV. Air",
+      "url": "https://open.spotify.com/track/4LTlvSoS9iupihOSMdzrhR"
+    },
+    {
+      "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
+      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+    },
+    {
+      "album": {
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110773,
+      "name": "Goldberg Variations, BWV 988: Var. 1",
+      "url": "https://open.spotify.com/track/78sZ6qdT6HFK2NZPSoClLa"
+    },
+    {
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95893,
+      "name": "Goldberg Variations, BWV 988: Var. 2",
+      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/3TOMQGaZieoPQQCJ3ft9bc"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rafa\u0142 Blechacz",
+          "url": "https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Herz und Mund und Tat und Leben, Cantata BWV 147: Jesu, Joy of Man's Desiring (Arr. Myra Hess for Piano)",
+      "url": "https://open.spotify.com/track/2Tz7fLm0pWasWCCfJiHPlJ"
+    },
+    {
+      "album": {
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481160,
+      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
+      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
+        "url": "https://open.spotify.com/album/7o2NF0vvFYqq7CLP8PlFcB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 50306,
+      "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in D Minor, BWV Anh. II 132",
+      "url": "https://open.spotify.com/track/0yggGOgr8lNJgUGBCNofh8"
+    },
+    {
+      "album": {
+        "name": "Bach: Partitas, BWV 825-826 - Capriccio on the Departure of his Most Beloved Brother - Prelude and Fughetta in G major, BWV 902",
+        "url": "https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342040,
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "url": "https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389706,
+      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252786,
+      "name": "Partita No. 5 in G major, BWV 829 : II. Allemande",
+      "url": "https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS"
+    },
+    {
+      "album": {
+        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/45hpNIkF0E398IbixnH9m3"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252786,
+      "name": "Partita No. 5 in G Major, BWV 829: II. Allemande",
+      "url": "https://open.spotify.com/track/1oi4rx10o74j7rqk8suClF"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125760,
+      "name": "Partita No. 6 in E minor, BWV 830 : IV. Air",
+      "url": "https://open.spotify.com/track/1oj8MLlueb0DNDmxoLUX0h"
+    },
+    {
+      "album": {
+        "name": "Bach, J.s.: From The W.f. Bach Notebook / 5 Little Preludes",
+        "url": "https://open.spotify.com/album/7xSObzYExuN0kkixkfSXTo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67573,
+      "name": "Preambulum In C Major, BWV 924",
+      "url": "https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K"
+    },
+    {
+      "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846-869",
+        "url": "https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in F Major, BWV 856: I. Prelude",
+      "url": "https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9"
+    },
+    {
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier, Vol. I",
+        "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dina Ugorskaja",
+          "url": "https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-19",
+      "duration_ms": 85599,
+      "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
+      "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTLz6aEnpwGt"
 }

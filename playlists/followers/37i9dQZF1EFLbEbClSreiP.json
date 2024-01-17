@@ -1,274 +1,459 @@
 {
-  "2023-04-04": 13,
-  "2023-04-05": 15,
-  "2023-04-06": 20,
-  "2023-04-07": 33,
-  "2023-04-09": 40,
-  "2023-04-10": 39,
-  "2023-04-11": 43,
-  "2023-04-12": 43,
-  "2023-04-13": 45,
-  "2023-04-14": 49,
-  "2023-04-15": 53,
-  "2023-04-16": 56,
-  "2023-04-17": 60,
-  "2023-04-18": 60,
-  "2023-04-19": 60,
-  "2023-04-20": 65,
-  "2023-04-21": 74,
-  "2023-04-22": 78,
-  "2023-04-23": 82,
-  "2023-04-24": 88,
-  "2023-04-25": 94,
-  "2023-04-26": 97,
-  "2023-04-27": 102,
-  "2023-04-28": 105,
-  "2023-04-29": 107,
-  "2023-04-30": 109,
-  "2023-05-01": 114,
-  "2023-05-02": 121,
-  "2023-05-03": 122,
-  "2023-05-04": 128,
-  "2023-05-05": 133,
-  "2023-05-06": 139,
-  "2023-05-07": 148,
-  "2023-05-08": 152,
-  "2023-05-09": 156,
-  "2023-05-10": 162,
-  "2023-05-11": 165,
-  "2023-05-12": 173,
-  "2023-05-13": 175,
-  "2023-05-14": 183,
-  "2023-05-15": 187,
-  "2023-05-16": 187,
-  "2023-05-17": 193,
-  "2023-05-18": 203,
-  "2023-05-19": 205,
-  "2023-05-20": 216,
-  "2023-05-21": 216,
-  "2023-05-22": 216,
-  "2023-05-23": 228,
-  "2023-05-24": 231,
-  "2023-05-25": 232,
-  "2023-05-26": 235,
-  "2023-05-27": 236,
-  "2023-05-28": 237,
-  "2023-05-29": 237,
-  "2023-05-30": 246,
-  "2023-05-31": 250,
-  "2023-06-01": 252,
-  "2023-06-02": 267,
-  "2023-06-03": 268,
-  "2023-06-04": 271,
-  "2023-06-05": 276,
-  "2023-06-06": 278,
-  "2023-06-07": 278,
-  "2023-06-08": 281,
-  "2023-06-09": 258,
-  "2023-06-10": 258,
-  "2023-06-11": 258,
-  "2023-06-12": 263,
-  "2023-06-13": 265,
-  "2023-06-14": 265,
-  "2023-06-15": 273,
-  "2023-06-16": 275,
-  "2023-06-17": 274,
-  "2023-06-18": 274,
-  "2023-06-19": 280,
-  "2023-06-20": 282,
-  "2023-06-21": 284,
-  "2023-06-22": 285,
-  "2023-06-23": 288,
-  "2023-06-24": 292,
-  "2023-06-25": 292,
-  "2023-06-26": 297,
-  "2023-06-27": 297,
-  "2023-06-28": 301,
-  "2023-06-29": 307,
-  "2023-06-30": 309,
-  "2023-07-01": 315,
-  "2023-07-02": 315,
-  "2023-07-03": 319,
-  "2023-07-04": 322,
-  "2023-07-05": 324,
-  "2023-07-06": 329,
-  "2023-07-07": 329,
-  "2023-07-08": 329,
-  "2023-07-09": 333,
-  "2023-07-10": 333,
-  "2023-07-11": 339,
-  "2023-07-12": 339,
-  "2023-07-13": 339,
-  "2023-07-14": 344,
-  "2023-07-15": 342,
-  "2023-07-16": 342,
-  "2023-07-17": 348,
-  "2023-07-18": 349,
-  "2023-07-19": 352,
-  "2023-07-20": 352,
-  "2023-07-21": 357,
-  "2023-07-22": 358,
-  "2023-07-23": 358,
-  "2023-07-24": 365,
-  "2023-07-25": 369,
-  "2023-07-26": 373,
-  "2023-07-27": 373,
-  "2023-07-28": 373,
-  "2023-07-29": 394,
-  "2023-07-30": 394,
-  "2023-07-31": 399,
-  "2023-08-01": 401,
-  "2023-08-02": 407,
-  "2023-08-03": 410,
-  "2023-08-04": 414,
-  "2023-08-05": 414,
-  "2023-08-06": 415,
-  "2023-08-07": 415,
-  "2023-08-08": 416,
-  "2023-08-09": 421,
-  "2023-08-10": 425,
-  "2023-08-11": 426,
-  "2023-08-12": 426,
-  "2023-08-13": 426,
-  "2023-08-14": 426,
-  "2023-08-15": 426,
-  "2023-08-16": 426,
-  "2023-08-17": 426,
-  "2023-08-18": 426,
-  "2023-08-19": 426,
-  "2023-08-20": 438,
-  "2023-08-21": 438,
-  "2023-08-22": 441,
-  "2023-08-23": 441,
-  "2023-08-24": 441,
-  "2023-08-25": 441,
-  "2023-08-26": 441,
-  "2023-08-27": 441,
-  "2023-08-28": 453,
-  "2023-08-29": 453,
-  "2023-08-30": 453,
-  "2023-08-31": 455,
-  "2023-09-01": 459,
-  "2023-09-02": 459,
-  "2023-09-03": 459,
-  "2023-09-04": 459,
-  "2023-09-05": 459,
-  "2023-09-06": 459,
-  "2023-09-07": 459,
-  "2023-09-08": 459,
-  "2023-09-09": 459,
-  "2023-09-10": 459,
-  "2023-09-11": 459,
-  "2023-09-12": 459,
-  "2023-09-13": 459,
-  "2023-09-14": 459,
-  "2023-09-15": 459,
-  "2023-09-16": 459,
-  "2023-09-17": 459,
-  "2023-09-18": 459,
-  "2023-09-19": 459,
-  "2023-09-20": 459,
-  "2023-09-21": 459,
-  "2023-09-22": 459,
-  "2023-09-23": 459,
-  "2023-09-24": 459,
-  "2023-09-25": 459,
-  "2023-09-26": 510,
-  "2023-09-27": 510,
-  "2023-09-28": 510,
-  "2023-09-29": 510,
-  "2023-09-30": 510,
-  "2023-10-01": 510,
-  "2023-10-02": 510,
-  "2023-10-03": 510,
-  "2023-10-04": 510,
-  "2023-10-05": 510,
-  "2023-10-06": 510,
-  "2023-10-07": 510,
-  "2023-10-08": 510,
-  "2023-10-09": 510,
-  "2023-10-10": 510,
-  "2023-10-11": 510,
-  "2023-10-12": 510,
-  "2023-10-13": 510,
-  "2023-10-14": 510,
-  "2023-10-15": 510,
-  "2023-10-16": 510,
-  "2023-10-17": 510,
-  "2023-10-18": 510,
-  "2023-10-19": 510,
-  "2023-10-20": 510,
-  "2023-10-21": 510,
-  "2023-10-22": 510,
-  "2023-10-23": 510,
-  "2023-10-24": 510,
-  "2023-10-25": 510,
-  "2023-10-26": 510,
-  "2023-10-27": 510,
-  "2023-10-28": 510,
-  "2023-10-29": 510,
-  "2023-10-30": 510,
-  "2023-10-31": 510,
-  "2023-11-01": 510,
-  "2023-11-02": 510,
-  "2023-11-03": 510,
-  "2023-11-04": 510,
-  "2023-11-05": 510,
-  "2023-11-06": 510,
-  "2023-11-07": 510,
-  "2023-11-08": 510,
-  "2023-11-09": 510,
-  "2023-11-10": 510,
-  "2023-11-11": 510,
-  "2023-11-12": 510,
-  "2023-11-13": 510,
-  "2023-11-14": 510,
-  "2023-11-15": 510,
-  "2023-11-16": 510,
-  "2023-11-17": 510,
-  "2023-11-18": 510,
-  "2023-11-19": 510,
-  "2023-11-20": 510,
-  "2023-11-21": 510,
-  "2023-11-22": 510,
-  "2023-11-23": 510,
-  "2023-11-24": 510,
-  "2023-11-25": 510,
-  "2023-11-26": 510,
-  "2023-11-27": 510,
-  "2023-11-28": 510,
-  "2023-11-29": 510,
-  "2023-11-30": 510,
-  "2023-12-01": 510,
-  "2023-12-02": 510,
-  "2023-12-03": 510,
-  "2023-12-04": 510,
-  "2023-12-05": 510,
-  "2023-12-06": 510,
-  "2023-12-07": 510,
-  "2023-12-08": 510,
-  "2023-12-09": 510,
-  "2023-12-10": 510,
-  "2023-12-11": 510,
-  "2023-12-12": 510,
-  "2023-12-13": 510,
-  "2023-12-14": 599,
-  "2023-12-15": 599,
-  "2023-12-16": 599,
-  "2023-12-17": 600,
-  "2023-12-18": 602,
-  "2023-12-19": 603,
-  "2023-12-20": 603,
-  "2023-12-21": 605,
-  "2023-12-22": 607,
-  "2023-12-23": 606,
-  "2023-12-24": 608,
-  "2023-12-25": 609,
-  "2023-12-26": 610,
-  "2023-12-27": 612,
-  "2023-12-30": 613,
-  "2023-12-31": 614,
-  "2024-01-01": 614,
-  "2024-01-02": 615,
-  "2024-01-03": 617
+  "2024-01-17": 627,
+  "date_first_scraped": "2023-04-04",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU\">Ines Dunn</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By Ines Dunn",
+  "tracks": [
+    {
+      "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200911,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx"
+    },
+    {
+      "album": {
+        "name": "Antichrist / Room Service",
+        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200911,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
+    },
+    {
+      "album": {
+        "name": "Body Better",
+        "url": "https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 189493,
+      "name": "Body Better",
+      "url": "https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v"
+    },
+    {
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "Body Better",
+      "url": "https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "Both Of Us",
+      "url": "https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a"
+    },
+    {
+      "album": {
+        "name": "by the end of the night",
+        "url": "https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "by the end of the night",
+      "url": "https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 176989,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+    },
+    {
+      "album": {
+        "name": "Freezing (Official Music Video)",
+        "url": "https://open.spotify.com/album/13xmSqE74BOPfYj6VEAdPg"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177216,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/61ypmrpI4Duo6Sn2Tbr3jo"
+    },
+    {
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155970,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
+    },
+    {
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 139001,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf"
+    },
+    {
+      "album": {
+        "name": "House On Fire (Official Music Video)",
+        "url": "https://open.spotify.com/album/5qG3zaKFxgQXjgUD2SiU36"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158485,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3oy1jvGbUDdYPyQRSfSCdJ"
+    },
+    {
+      "album": {
+        "name": "METTENARRATIVE",
+        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200198,
+      "name": "MAMA'S EYES",
+      "url": "https://open.spotify.com/track/5cW2aVfOGvbnxlXm8POXLR"
+    },
+    {
+      "album": {
+        "name": "MAMA'S EYES",
+        "url": "https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200199,
+      "name": "MAMA'S EYES",
+      "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
+    },
+    {
+      "album": {
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc"
+      },
+      "artists": [
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121161,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/390f3txdKIeV7cCv0thgOB"
+    },
+    {
+      "album": {
+        "name": "Not Another Rockstar",
+        "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149053,
+      "name": "Not Another Rockstar",
+      "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+    },
+    {
+      "album": {
+        "name": "METTENARRATIVE",
+        "url": "https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM"
+      },
+      "artists": [
+        {
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150051,
+      "name": "PSYCHO (NAH NAH)",
+      "url": "https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0"
+    },
+    {
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
+    },
+    {
+      "album": {
+        "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213924,
+      "name": "Stormy Skies (Diamonds)",
+      "url": "https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69"
+    },
+    {
+      "album": {
+        "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 213924,
+      "name": "Stormy Skies (Diamonds)",
+      "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
+    },
+    {
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235786,
+      "name": "The Band And I",
+      "url": "https://open.spotify.com/track/4gEYooYobqQWokcdP4aKPr"
+    },
+    {
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7s9gcI3vON7hpTzQO2PEun"
+    },
+    {
+      "album": {
+        "name": "Think Like a Man",
+        "url": "https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143230,
+      "name": "Think Like a Man",
+      "url": "https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee"
+    },
+    {
+      "album": {
+        "name": "The Good Witch (Deluxe)",
+        "url": "https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/25JGrdT3bi62ZzPeNxZiBu"
+    },
+    {
+      "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFLbEbClSreiP"
 }

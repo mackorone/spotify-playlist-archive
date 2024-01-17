@@ -1,6 +1,6 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 1782,
+  "num_followers": 2545,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,38 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -115,42 +147,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
         }
       ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Sgudi Snyc",
-        "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
-      },
-      "artists": [
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        },
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        }
-      ],
-      "duration_ms": 331377,
-      "name": "Sgudi Snyc",
-      "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -175,54 +183,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -255,6 +215,46 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Sgudi Snyc",
+        "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
+      },
+      "artists": [
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 331377,
+      "name": "Sgudi Snyc",
+      "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -323,22 +323,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 227100,
-      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -387,6 +387,26 @@
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -423,26 +443,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -495,22 +495,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Skin Tight",
-        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 248626,
-      "name": "Skin Tight",
-      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -563,22 +559,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "So Mi So",
         "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 245182,
       "name": "So Mi So",
       "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Nkao Tempela",
-        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
-      },
-      "artists": [
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 361528,
-      "name": "Nkao Tempela",
-      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Party Hard",
         "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 218773,
       "name": "Party Hard",
       "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Ahomka Womu",
-        "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
-      },
-      "artists": [
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        },
-        {
-          "name": "Tic Tac,Frank Mensah,2-Tee,Lil Kryz,Abortion",
-          "url": "https://open.spotify.com/artist/373YE3CDdFni3txqURZTch"
-        }
-      ],
-      "duration_ms": 327720,
-      "name": "Ahomka Wo Mu",
-      "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -751,6 +731,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Ahomka Womu",
+        "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        },
+        {
+          "name": "Tic Tac,Frank Mensah,2-Tee,Lil Kryz,Abortion",
+          "url": "https://open.spotify.com/artist/373YE3CDdFni3txqURZTch"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Ahomka Wo Mu",
+      "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Turn On The Lights",
-        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Turn On The Lights",
-      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Turn On The Lights",
+        "url": "https://open.spotify.com/album/7J1jyEOZjy5DJwPk3bXuou"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Turn On The Lights",
+      "url": "https://open.spotify.com/track/6RstYH2vOXeXnz5hj3Ppnv"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Otoolege",
         "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
       },
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Condemn (feat. City Boy, O'Kenneth, reggie & Kwaku DMC)",
         "url": "https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d"
       },
@@ -951,22 +931,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Omo Ada (Dem Sleep)",
-        "url": "https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Omo Ada (Dem Sleep)",
-      "url": "https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Wiase (Y3d3 Remix)",
         "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
@@ -987,6 +951,62 @@
       "duration_ms": 276401,
       "name": "Wiase (Y3d3 Remix)",
       "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Omo Ada (Dem Sleep)",
+        "url": "https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Omo Ada (Dem Sleep)",
+      "url": "https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1019,26 +1039,6 @@
       "duration_ms": 186666,
       "name": "Eboso",
       "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+        "name": "Amanfuor Girls",
+        "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
         },
         {
-          "name": "Sister Deborah",
-          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         }
       ],
-      "duration_ms": 240157,
-      "name": "Too Risky (feat. Sister Deborah)",
-      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
+      "duration_ms": 193515,
+      "name": "Amanfuor Girls",
+      "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Amanfuor Girls",
-        "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
       },
       "artists": [
         {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        },
-        {
           "name": "Medikal",
           "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
         }
       ],
-      "duration_ms": 193515,
-      "name": "Amanfuor Girls",
-      "url": "https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN"
+      "duration_ms": 240157,
+      "name": "Too Risky (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
     },
     {
       "added_at": "2023-12-08 08:55:17",

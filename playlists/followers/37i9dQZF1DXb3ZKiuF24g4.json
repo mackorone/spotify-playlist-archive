@@ -1,620 +1,1321 @@
 {
-  "2022-04-19": 712,
-  "2022-04-20": 714,
-  "2022-04-21": 715,
-  "2022-04-22": 717,
-  "2022-04-23": 718,
-  "2022-04-24": 720,
-  "2022-04-25": 722,
-  "2022-04-26": 724,
-  "2022-04-27": 726,
-  "2022-04-28": 727,
-  "2022-04-29": 727,
-  "2022-04-30": 727,
-  "2022-05-01": 728,
-  "2022-05-02": 728,
-  "2022-05-03": 730,
-  "2022-05-04": 730,
-  "2022-05-05": 730,
-  "2022-05-06": 731,
-  "2022-05-07": 734,
-  "2022-05-08": 736,
-  "2022-05-09": 736,
-  "2022-05-10": 737,
-  "2022-05-11": 738,
-  "2022-05-12": 741,
-  "2022-05-13": 741,
-  "2022-05-14": 743,
-  "2022-05-15": 743,
-  "2022-05-16": 744,
-  "2022-05-17": 746,
-  "2022-05-18": 749,
-  "2022-05-19": 750,
-  "2022-05-20": 751,
-  "2022-05-21": 752,
-  "2022-05-22": 752,
-  "2022-05-23": 755,
-  "2022-05-24": 756,
-  "2022-05-25": 757,
-  "2022-05-26": 757,
-  "2022-05-27": 758,
-  "2022-05-28": 761,
-  "2022-05-29": 765,
-  "2022-05-30": 769,
-  "2022-05-31": 772,
-  "2022-06-01": 779,
-  "2022-06-02": 778,
-  "2022-06-03": 779,
-  "2022-06-04": 784,
-  "2022-06-05": 784,
-  "2022-06-06": 785,
-  "2022-06-07": 784,
-  "2022-06-08": 790,
-  "2022-06-09": 792,
-  "2022-06-10": 792,
-  "2022-06-11": 795,
-  "2022-06-12": 799,
-  "2022-06-13": 802,
-  "2022-06-14": 801,
-  "2022-06-15": 801,
-  "2022-06-16": 803,
-  "2022-06-17": 806,
-  "2022-06-18": 806,
-  "2022-06-19": 811,
-  "2022-06-20": 811,
-  "2022-06-21": 812,
-  "2022-06-22": 815,
-  "2022-06-23": 815,
-  "2022-06-24": 818,
-  "2022-06-25": 819,
-  "2022-06-26": 821,
-  "2022-06-27": 821,
-  "2022-06-28": 827,
-  "2022-06-29": 826,
-  "2022-06-30": 830,
-  "2022-07-01": 832,
-  "2022-07-02": 830,
-  "2022-07-03": 830,
-  "2022-07-04": 833,
-  "2022-07-05": 834,
-  "2022-07-06": 834,
-  "2022-07-07": 834,
-  "2022-07-08": 834,
-  "2022-07-09": 835,
-  "2022-07-10": 837,
-  "2022-07-11": 838,
-  "2022-07-12": 837,
-  "2022-07-13": 839,
-  "2022-07-14": 840,
-  "2022-07-15": 843,
-  "2022-07-16": 845,
-  "2022-07-17": 848,
-  "2022-07-18": 849,
-  "2022-07-19": 855,
-  "2022-07-20": 857,
-  "2022-07-21": 859,
-  "2022-07-22": 859,
-  "2022-07-23": 858,
-  "2022-07-24": 862,
-  "2022-07-25": 865,
-  "2022-07-26": 866,
-  "2022-07-27": 868,
-  "2022-07-28": 870,
-  "2022-07-29": 870,
-  "2022-07-30": 876,
-  "2022-07-31": 876,
-  "2022-08-01": 883,
-  "2022-08-02": 888,
-  "2022-08-03": 888,
-  "2022-08-04": 888,
-  "2022-08-05": 888,
-  "2022-08-06": 895,
-  "2022-08-07": 897,
-  "2022-08-08": 897,
-  "2022-08-09": 899,
-  "2022-08-10": 903,
-  "2022-08-11": 905,
-  "2022-08-13": 911,
-  "2022-08-14": 913,
-  "2022-08-15": 917,
-  "2022-08-16": 918,
-  "2022-08-17": 920,
-  "2022-08-18": 920,
-  "2022-08-19": 922,
-  "2022-08-20": 924,
-  "2022-08-21": 928,
-  "2022-08-22": 930,
-  "2022-08-23": 932,
-  "2022-08-24": 934,
-  "2022-08-25": 934,
-  "2022-08-26": 935,
-  "2022-08-27": 936,
-  "2022-08-28": 938,
-  "2022-08-29": 942,
-  "2022-08-30": 945,
-  "2022-08-31": 945,
-  "2022-09-01": 948,
-  "2022-09-02": 949,
-  "2022-09-03": 949,
-  "2022-09-04": 953,
-  "2022-09-05": 955,
-  "2022-09-06": 956,
-  "2022-09-07": 958,
-  "2022-09-09": 960,
-  "2022-09-10": 962,
-  "2022-09-11": 964,
-  "2022-09-12": 964,
-  "2022-09-13": 967,
-  "2022-09-15": 970,
-  "2022-09-16": 971,
-  "2022-09-17": 973,
-  "2022-09-18": 974,
-  "2022-09-19": 980,
-  "2022-09-20": 979,
-  "2022-09-21": 981,
-  "2022-09-22": 981,
-  "2022-09-23": 980,
-  "2022-09-24": 980,
-  "2022-09-25": 984,
-  "2022-09-26": 984,
-  "2022-09-27": 985,
-  "2022-09-28": 986,
-  "2022-09-29": 990,
-  "2022-09-30": 993,
-  "2022-10-01": 996,
-  "2022-10-02": 996,
-  "2022-10-03": 995,
-  "2022-10-04": 996,
-  "2022-10-05": 996,
-  "2022-10-06": 998,
-  "2022-10-07": 1001,
-  "2022-10-08": 1002,
-  "2022-10-09": 1003,
-  "2022-10-10": 1003,
-  "2022-10-11": 1006,
-  "2022-10-12": 1008,
-  "2022-10-13": 1007,
-  "2022-10-14": 1009,
-  "2022-10-15": 1010,
-  "2022-10-16": 1009,
-  "2022-10-17": 1007,
-  "2022-10-18": 1009,
-  "2022-10-19": 1009,
-  "2022-10-20": 1010,
-  "2022-10-21": 1010,
-  "2022-10-22": 1011,
-  "2022-10-23": 1012,
-  "2022-10-24": 1012,
-  "2022-10-25": 1014,
-  "2022-10-26": 1015,
-  "2022-10-27": 1015,
-  "2022-10-28": 1016,
-  "2022-10-29": 1018,
-  "2022-10-30": 1022,
-  "2022-10-31": 1024,
-  "2022-11-01": 1026,
-  "2022-11-02": 1028,
-  "2022-11-03": 1030,
-  "2022-11-04": 1033,
-  "2022-11-05": 1036,
-  "2022-11-06": 1035,
-  "2022-11-07": 1035,
-  "2022-11-08": 1036,
-  "2022-11-09": 1037,
-  "2022-11-10": 1039,
-  "2022-11-11": 1040,
-  "2022-11-12": 1043,
-  "2022-11-13": 1043,
-  "2022-11-14": 1043,
-  "2022-11-15": 1043,
-  "2022-11-16": 1043,
-  "2022-11-17": 1044,
-  "2022-11-18": 1046,
-  "2022-11-19": 1046,
-  "2022-11-20": 1048,
-  "2022-11-21": 1050,
-  "2022-11-22": 1052,
-  "2022-11-23": 1051,
-  "2022-11-24": 1054,
-  "2022-11-25": 1054,
-  "2022-11-26": 1055,
-  "2022-11-27": 1058,
-  "2022-11-28": 1058,
-  "2022-11-29": 1059,
-  "2022-11-30": 1060,
-  "2022-12-01": 1060,
-  "2022-12-02": 1060,
-  "2022-12-03": 1062,
-  "2022-12-04": 1062,
-  "2022-12-05": 1062,
-  "2022-12-06": 1062,
-  "2022-12-07": 1061,
-  "2022-12-08": 1061,
-  "2022-12-09": 1062,
-  "2022-12-10": 1063,
-  "2022-12-11": 1063,
-  "2022-12-12": 1063,
-  "2022-12-13": 1065,
-  "2022-12-14": 1064,
-  "2022-12-15": 1064,
-  "2022-12-16": 1065,
-  "2022-12-17": 1065,
-  "2022-12-18": 1066,
-  "2022-12-19": 1067,
-  "2022-12-20": 1067,
-  "2022-12-21": 1067,
-  "2022-12-22": 1067,
-  "2022-12-24": 1067,
-  "2022-12-25": 1067,
-  "2022-12-26": 1070,
-  "2022-12-27": 1073,
-  "2022-12-28": 1076,
-  "2022-12-29": 1077,
-  "2022-12-30": 1078,
-  "2022-12-31": 1081,
-  "2023-01-01": 1083,
-  "2023-01-02": 1082,
-  "2023-01-03": 1083,
-  "2023-01-04": 1084,
-  "2023-01-05": 1085,
-  "2023-01-06": 1089,
-  "2023-01-07": 1090,
-  "2023-01-08": 1091,
-  "2023-01-09": 1091,
-  "2023-01-10": 1092,
-  "2023-01-11": 1095,
-  "2023-01-12": 1095,
-  "2023-01-13": 1098,
-  "2023-01-14": 1104,
-  "2023-01-15": 1104,
-  "2023-01-16": 1104,
-  "2023-01-17": 1106,
-  "2023-01-18": 1108,
-  "2023-01-19": 1109,
-  "2023-01-20": 1109,
-  "2023-01-21": 1108,
-  "2023-01-22": 1108,
-  "2023-01-23": 1110,
-  "2023-01-24": 1110,
-  "2023-01-25": 1111,
-  "2023-01-26": 1113,
-  "2023-01-27": 1114,
-  "2023-01-28": 1114,
-  "2023-01-29": 1117,
-  "2023-01-30": 1117,
-  "2023-01-31": 1117,
-  "2023-02-01": 1119,
-  "2023-02-02": 1119,
-  "2023-02-03": 1120,
-  "2023-02-04": 1121,
-  "2023-02-05": 1124,
-  "2023-02-06": 1125,
-  "2023-02-07": 1129,
-  "2023-02-08": 1134,
-  "2023-02-09": 1134,
-  "2023-02-10": 1137,
-  "2023-02-11": 1139,
-  "2023-02-12": 1143,
-  "2023-02-13": 1143,
-  "2023-02-14": 1143,
-  "2023-02-15": 1143,
-  "2023-02-16": 1145,
-  "2023-02-17": 1146,
-  "2023-02-18": 1152,
-  "2023-02-19": 1152,
-  "2023-02-20": 1153,
-  "2023-02-21": 1160,
-  "2023-02-22": 1162,
-  "2023-02-23": 1163,
-  "2023-02-24": 1162,
-  "2023-02-25": 1163,
-  "2023-02-26": 1165,
-  "2023-02-27": 1165,
-  "2023-02-28": 1165,
-  "2023-03-01": 1165,
-  "2023-03-02": 1166,
-  "2023-03-03": 1166,
-  "2023-03-04": 1166,
-  "2023-03-05": 1167,
-  "2023-03-06": 1167,
-  "2023-03-07": 1166,
-  "2023-03-08": 1166,
-  "2023-03-09": 1166,
-  "2023-03-10": 1168,
-  "2023-03-11": 1169,
-  "2023-03-12": 1169,
-  "2023-03-13": 1170,
-  "2023-03-14": 1170,
-  "2023-03-15": 1172,
-  "2023-03-16": 1172,
-  "2023-03-17": 1172,
-  "2023-03-18": 1173,
-  "2023-03-19": 1175,
-  "2023-03-20": 1174,
-  "2023-03-21": 1174,
-  "2023-03-22": 1174,
-  "2023-03-23": 1176,
-  "2023-03-24": 1176,
-  "2023-03-25": 1179,
-  "2023-03-26": 1177,
-  "2023-03-27": 1179,
-  "2023-03-28": 1179,
-  "2023-03-29": 1185,
-  "2023-03-30": 1189,
-  "2023-03-31": 1189,
-  "2023-04-01": 1191,
-  "2023-04-02": 1192,
-  "2023-04-03": 1193,
-  "2023-04-04": 1198,
-  "2023-04-05": 1196,
-  "2023-04-06": 1196,
-  "2023-04-07": 1200,
-  "2023-04-09": 1202,
-  "2023-04-10": 1202,
-  "2023-04-11": 1206,
-  "2023-04-12": 1206,
-  "2023-04-13": 1208,
-  "2023-04-14": 1209,
-  "2023-04-15": 1213,
-  "2023-04-16": 1214,
-  "2023-04-17": 1214,
-  "2023-04-18": 1214,
-  "2023-04-19": 1214,
-  "2023-04-20": 1216,
-  "2023-04-21": 1217,
-  "2023-04-22": 1220,
-  "2023-04-23": 1224,
-  "2023-04-24": 1224,
-  "2023-04-25": 1226,
-  "2023-04-26": 1229,
-  "2023-04-27": 1232,
-  "2023-04-28": 1235,
-  "2023-04-29": 1236,
-  "2023-04-30": 1237,
-  "2023-05-01": 1239,
-  "2023-05-02": 1244,
-  "2023-05-03": 1248,
-  "2023-05-04": 1249,
-  "2023-05-05": 1249,
-  "2023-05-06": 1250,
-  "2023-05-07": 1250,
-  "2023-05-08": 1251,
-  "2023-05-09": 1252,
-  "2023-05-10": 1252,
-  "2023-05-11": 1253,
-  "2023-05-12": 1253,
-  "2023-05-13": 1256,
-  "2023-05-14": 1256,
-  "2023-05-15": 1257,
-  "2023-05-16": 1262,
-  "2023-05-17": 1265,
-  "2023-05-18": 1265,
-  "2023-05-19": 1266,
-  "2023-05-20": 1271,
-  "2023-05-21": 1271,
-  "2023-05-22": 1271,
-  "2023-05-23": 1276,
-  "2023-05-24": 1285,
-  "2023-05-25": 1285,
-  "2023-05-26": 1285,
-  "2023-05-27": 1290,
-  "2023-05-28": 1295,
-  "2023-05-29": 1295,
-  "2023-05-30": 1305,
-  "2023-05-31": 1305,
-  "2023-06-01": 1309,
-  "2023-06-02": 1311,
-  "2023-06-03": 1315,
-  "2023-06-04": 1322,
-  "2023-06-05": 1334,
-  "2023-06-06": 1340,
-  "2023-06-07": 1346,
-  "2023-06-08": 1354,
-  "2023-06-09": 1363,
-  "2023-06-10": 1367,
-  "2023-06-11": 1374,
-  "2023-06-12": 1379,
-  "2023-06-13": 1384,
-  "2023-06-14": 1391,
-  "2023-06-15": 1394,
-  "2023-06-16": 1398,
-  "2023-06-17": 1399,
-  "2023-06-18": 1405,
-  "2023-06-19": 1408,
-  "2023-06-20": 1416,
-  "2023-06-21": 1420,
-  "2023-06-22": 1421,
-  "2023-06-23": 1426,
-  "2023-06-24": 1433,
-  "2023-06-25": 1436,
-  "2023-06-26": 1446,
-  "2023-06-27": 1454,
-  "2023-06-28": 1456,
-  "2023-06-29": 1460,
-  "2023-06-30": 1464,
-  "2023-07-01": 1475,
-  "2023-07-02": 1475,
-  "2023-07-03": 1477,
-  "2023-07-04": 1480,
-  "2023-07-05": 1486,
-  "2023-07-06": 1496,
-  "2023-07-07": 1496,
-  "2023-07-08": 1504,
-  "2023-07-09": 1508,
-  "2023-07-10": 1512,
-  "2023-07-11": 1519,
-  "2023-07-12": 1521,
-  "2023-07-13": 1524,
-  "2023-07-14": 1529,
-  "2023-07-15": 1532,
-  "2023-07-16": 1539,
-  "2023-07-17": 1542,
-  "2023-07-18": 1544,
-  "2023-07-19": 1548,
-  "2023-07-20": 1550,
-  "2023-07-21": 1555,
-  "2023-07-22": 1563,
-  "2023-07-23": 1566,
-  "2023-07-24": 1570,
-  "2023-07-25": 1570,
-  "2023-07-26": 1575,
-  "2023-07-27": 1583,
-  "2023-07-28": 1588,
-  "2023-07-29": 1590,
-  "2023-07-30": 1598,
-  "2023-07-31": 1605,
-  "2023-08-01": 1614,
-  "2023-08-02": 1618,
-  "2023-08-03": 1624,
-  "2023-08-04": 1629,
-  "2023-08-05": 1638,
-  "2023-08-06": 1655,
-  "2023-08-07": 1655,
-  "2023-08-08": 1658,
-  "2023-08-09": 1660,
-  "2023-08-10": 1659,
-  "2023-08-11": 1661,
-  "2023-08-12": 1667,
-  "2023-08-13": 1678,
-  "2023-08-14": 1689,
-  "2023-08-15": 1695,
-  "2023-08-16": 1695,
-  "2023-08-17": 1701,
-  "2023-08-18": 1704,
-  "2023-08-19": 1708,
-  "2023-08-20": 1716,
-  "2023-08-21": 1717,
-  "2023-08-22": 1721,
-  "2023-08-23": 1724,
-  "2023-08-24": 1730,
-  "2023-08-25": 1731,
-  "2023-08-26": 1736,
-  "2023-08-27": 1743,
-  "2023-08-28": 1749,
-  "2023-08-29": 1754,
-  "2023-08-30": 1759,
-  "2023-08-31": 1763,
-  "2023-09-01": 1773,
-  "2023-09-02": 1773,
-  "2023-09-03": 1776,
-  "2023-09-04": 1781,
-  "2023-09-05": 1789,
-  "2023-09-06": 1791,
-  "2023-09-07": 1793,
-  "2023-09-08": 1795,
-  "2023-09-09": 1797,
-  "2023-09-10": 1798,
-  "2023-09-11": 1800,
-  "2023-09-12": 1801,
-  "2023-09-13": 1803,
-  "2023-09-14": 1806,
-  "2023-09-15": 1808,
-  "2023-09-16": 1811,
-  "2023-09-17": 1816,
-  "2023-09-18": 1820,
-  "2023-09-19": 1821,
-  "2023-09-20": 1822,
-  "2023-09-21": 1827,
-  "2023-09-22": 1826,
-  "2023-09-23": 1826,
-  "2023-09-24": 1826,
-  "2023-09-25": 1827,
-  "2023-09-26": 1832,
-  "2023-09-27": 1833,
-  "2023-09-28": 1835,
-  "2023-09-29": 1835,
-  "2023-09-30": 1838,
-  "2023-10-01": 1841,
-  "2023-10-02": 1841,
-  "2023-10-03": 1841,
-  "2023-10-04": 1839,
-  "2023-10-05": 1838,
-  "2023-10-06": 1840,
-  "2023-10-07": 1842,
-  "2023-10-08": 1842,
-  "2023-10-09": 1842,
-  "2023-10-10": 1841,
-  "2023-10-11": 1840,
-  "2023-10-12": 1840,
-  "2023-10-13": 1840,
-  "2023-10-14": 1840,
-  "2023-10-15": 1840,
-  "2023-10-16": 1840,
-  "2023-10-17": 1840,
-  "2023-10-18": 1841,
-  "2023-10-19": 1840,
-  "2023-10-20": 1840,
-  "2023-10-21": 1839,
-  "2023-10-22": 1839,
-  "2023-10-23": 1841,
-  "2023-10-24": 1840,
-  "2023-10-25": 1840,
-  "2023-10-26": 1841,
-  "2023-10-27": 1843,
-  "2023-10-28": 1843,
-  "2023-10-29": 1843,
-  "2023-10-30": 1844,
-  "2023-10-31": 1844,
-  "2023-11-01": 1845,
-  "2023-11-02": 1847,
-  "2023-11-03": 1847,
-  "2023-11-04": 1847,
-  "2023-11-05": 1847,
-  "2023-11-06": 1847,
-  "2023-11-07": 1847,
-  "2023-11-08": 1847,
-  "2023-11-09": 1847,
-  "2023-11-10": 1848,
-  "2023-11-11": 1849,
-  "2023-11-12": 1848,
-  "2023-11-13": 1848,
-  "2023-11-14": 1848,
-  "2023-11-15": 1848,
-  "2023-11-16": 1848,
-  "2023-11-17": 1848,
-  "2023-11-18": 1848,
-  "2023-11-19": 1848,
-  "2023-11-20": 1848,
-  "2023-11-21": 1848,
-  "2023-11-22": 1848,
-  "2023-11-23": 1849,
-  "2023-11-24": 1849,
-  "2023-11-25": 1850,
-  "2023-11-26": 1850,
-  "2023-11-27": 1850,
-  "2023-11-28": 1850,
-  "2023-11-29": 1852,
-  "2023-11-30": 1852,
-  "2023-12-01": 1852,
-  "2023-12-02": 1851,
-  "2023-12-03": 1851,
-  "2023-12-04": 1851,
-  "2023-12-05": 1851,
-  "2023-12-06": 1853,
-  "2023-12-07": 1853,
-  "2023-12-08": 1853,
-  "2023-12-09": 1854,
-  "2023-12-10": 1854,
-  "2023-12-11": 1852,
-  "2023-12-12": 1852,
-  "2023-12-13": 1851,
-  "2023-12-14": 1851,
-  "2023-12-15": 1851,
-  "2023-12-16": 1851,
-  "2023-12-17": 1851,
-  "2023-12-18": 1851,
-  "2023-12-19": 1851,
-  "2023-12-20": 1851,
-  "2023-12-21": 1851,
-  "2023-12-22": 1850,
-  "2023-12-23": 1849,
-  "2023-12-24": 1849,
-  "2023-12-25": 1849,
-  "2023-12-26": 1849,
-  "2023-12-27": 1849,
-  "2023-12-30": 1850,
-  "2023-12-31": 1848,
-  "2024-01-01": 1848,
-  "2024-01-02": 1848,
-  "2024-01-03": 1848
+  "2024-01-17": 1851,
+  "date_first_scraped": "2022-04-19",
+  "description": "The perfect soundtrack for when you're having fun in the sun.",
+  "name": "Family Beach Time",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211080,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
+    },
+    {
+      "album": {
+        "name": "Deep Sea Diver",
+        "url": "https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164706,
+      "name": "Beach Ball",
+      "url": "https://open.spotify.com/track/7cD1t11YSnEtvZbLJLllD4"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5Ko4WA7utUQPe8HJTDGq5p"
+      },
+      "artists": [
+        {
+          "name": "Dog On Fleas",
+          "url": "https://open.spotify.com/artist/4IeVO9BEsrReZNdAtF2h6L"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Beach Song",
+      "url": "https://open.spotify.com/track/1bDMoH8fmHwGRqEBy0v8Eg"
+    },
+    {
+      "album": {
+        "name": "Nanatunes",
+        "url": "https://open.spotify.com/album/1uShZkpPPa8nATGJcb0rWo"
+      },
+      "artists": [
+        {
+          "name": "\"Mrs. Kate\" Carpenter",
+          "url": "https://open.spotify.com/artist/7oUHwZ5Zx7NYPvtUh0oSJs"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "Bird On the Beach",
+      "url": "https://open.spotify.com/track/6NFR6PdaSZlsUVnW783hvx"
+    },
+    {
+      "album": {
+        "name": "California Sun - the Best of the Rivieras",
+        "url": "https://open.spotify.com/album/212ZbylSmSvOazpXpR7T60"
+      },
+      "artists": [
+        {
+          "name": "The Rivieras",
+          "url": "https://open.spotify.com/artist/5iIxOyBhMCDCFwAYGM6B3P"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146133,
+      "name": "California Sun",
+      "url": "https://open.spotify.com/track/6qpTh8eRZ4wPycoRZvbWnd"
+    },
+    {
+      "album": {
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "Coastal",
+      "url": "https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk"
+    },
+    {
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Summer Belongs to You",
+        "url": "https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF"
+      },
+      "artists": [
+        {
+          "name": "Danny Jacob",
+          "url": "https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS"
+        },
+        {
+          "name": "Laura Dickinson",
+          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82360,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/0fGe6WYDEaC9TQLJt2AqRn"
+    },
+    {
+      "album": {
+        "name": "Desert Island Disc",
+        "url": "https://open.spotify.com/album/15bBuB1A3MOOhfbqv45PbS"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "Getting a Sunburn",
+      "url": "https://open.spotify.com/track/6H7tY1fZgPTAPwl9zhVW16"
+    },
+    {
+      "album": {
+        "name": "Get Your Splash Hands Ready!",
+        "url": "https://open.spotify.com/album/3rrFsOAwF0D7klzbrLzhfD"
+      },
+      "artists": [
+        {
+          "name": "Splashdance",
+          "url": "https://open.spotify.com/artist/4Ice11eCBrh8t9cBQ48xAh"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108573,
+      "name": "Hot Beach Hop",
+      "url": "https://open.spotify.com/track/7ou35IxsYMKLvttu8qsIpZ"
+    },
+    {
+      "album": {
+        "name": "Get Your Splash Hands Ready",
+        "url": "https://open.spotify.com/album/6x4woJfLWo0EXsulbpoA5L"
+      },
+      "artists": [
+        {
+          "name": "Splashdance",
+          "url": "https://open.spotify.com/artist/4Ice11eCBrh8t9cBQ48xAh"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108573,
+      "name": "Hot Beach Hop",
+      "url": "https://open.spotify.com/track/7vyYyyGh5rwpCYuBO2KLMP"
+    },
+    {
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+    },
+    {
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/7wop1zYIUtT0T9auF2s1jz"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/4OT4AvPAq1o0rscVNdC20X"
+    },
+    {
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
+    },
+    {
+      "album": {
+        "name": "Electronically Tested",
+        "url": "https://open.spotify.com/album/3Yg1sU4RPNSHRoDlRcdejo"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/7jhKkbM3KZvnuqzMX5fADH"
+    },
+    {
+      "album": {
+        "name": "One Hit Wonders - Vol. 7",
+        "url": "https://open.spotify.com/album/3kwz9WsdaspUscD1jVVDmG"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221626,
+      "name": "In The Summertime",
+      "url": "https://open.spotify.com/track/2DdEKsE7xI60WGuGQNM8Cb"
+    },
+    {
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212640,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214533,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
+    },
+    {
+      "album": {
+        "name": "Catch A Wave: Beach Songs For Kids",
+        "url": "https://open.spotify.com/album/4bv3l226v9aulHL5wga5B6"
+      },
+      "artists": [
+        {
+          "name": "Music For Little People Choir",
+          "url": "https://open.spotify.com/artist/56VxN57aiLCz1TXtVi9Pt6"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Kokomo",
+      "url": "https://open.spotify.com/track/1oA9t2tKsEUeqesFG7SFfe"
+    },
+    {
+      "album": {
+        "name": "Deep Sea Diver",
+        "url": "https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/7ya9Wb5ek21dYx06TtD0V5"
+    },
+    {
+      "album": {
+        "name": "Live on the Fourth of July",
+        "url": "https://open.spotify.com/album/1b6zeDLID2xClNInu6SapM"
+      },
+      "artists": [
+        {
+          "name": "Rolie Polie Guacamole",
+          "url": "https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75893,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/2VaNzOnn2kzyZbXVxiTL9k"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 3",
+        "url": "https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115914,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/2WXKBIFUj7NO103uqsWXN7"
+    },
+    {
+      "album": {
+        "name": "Blippi Tunes, Vol. 3",
+        "url": "https://open.spotify.com/album/6TkfhNkfCi1WKoXIhcJOII"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115914,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/3vgygg2evBB9dS9yRDq23P"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172813,
+      "name": "One Love - Medley",
+      "url": "https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
+    },
+    {
+      "album": {
+        "name": "Peanut Butter and JAM",
+        "url": "https://open.spotify.com/album/0NjKamX0KpwHIwp27z0WJw"
+      },
+      "artists": [
+        {
+          "name": "Charity and the Jamband",
+          "url": "https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143826,
+      "name": "Ridin' the Big Waves",
+      "url": "https://open.spotify.com/track/4oGkikhxhR2gdrM3J7MQCW"
+    },
+    {
+      "album": {
+        "name": "Imagination Movers: In a Big Warehouse",
+        "url": "https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Riding the Waves",
+      "url": "https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa"
+    },
+    {
+      "album": {
+        "name": "Rock Lobster: 1979 Rock",
+        "url": "https://open.spotify.com/album/2go7n6CHACI1b8WW6zHUpG"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296053,
+      "name": "Rock Lobster (Single Version)",
+      "url": "https://open.spotify.com/track/3kSGrLqC4rHroqYaYt1wjH"
+    },
+    {
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
+    },
+    {
+      "album": {
+        "name": "Building Blocks",
+        "url": "https://open.spotify.com/album/33jHk8rzSY28IkVSXBTeou"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "Sand + Imagination",
+      "url": "https://open.spotify.com/track/4PYGLTb9OJOfWUmini8cw2"
+    },
+    {
+      "album": {
+        "name": "Building Blocks",
+        "url": "https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 173983,
+      "name": "Sand + Imagination",
+      "url": "https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0"
+    },
+    {
+      "album": {
+        "name": "Deep Sea Diver",
+        "url": "https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143186,
+      "name": "Seagull",
+      "url": "https://open.spotify.com/track/33tOziCAipYKTpARr3imte"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224800,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/4er8NyQ8cFnZ2b643Tjc44"
+    },
+    {
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+    },
+    {
+      "album": {
+        "name": "Old But Gold 90's",
+        "url": "https://open.spotify.com/album/1PzWrln9DIpVKFyHPe8eBR"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/4H5G4zCVeDg31QdBBec8nW"
+    },
+    {
+      "album": {
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
+    },
+    {
+      "album": {
+        "name": "The Best Of Sugar Ray",
+        "url": "https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "Someday - Remastered",
+      "url": "https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "album": {
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/7ywqOIgIAcR2Gu8ITxuXTg"
+    },
+    {
+      "album": {
+        "name": "Seals & Crofts' Greatest Hits",
+        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
+    },
+    {
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "album": {
+        "name": "The Aquabats! Super Show! (Television Soundtrack), Vol. 1",
+        "url": "https://open.spotify.com/album/2zfV24Z3J5tYbbITneW2Ju"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79213,
+      "name": "Summertime!",
+      "url": "https://open.spotify.com/track/1gAaCOTfapa9tB4nWkUWP2"
+    },
+    {
+      "album": {
+        "name": "Super Show! Vol. 1 (Music from The Aquabats! Super Show! Soundtrack)",
+        "url": "https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79213,
+      "name": "SUMMERTIME!",
+      "url": "https://open.spotify.com/track/5MwfVQ4xXUMzKTmG9RuoHZ"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL"
+    },
+    {
+      "album": {
+        "name": "Surf City: The Best Of Jan & Dean",
+        "url": "https://open.spotify.com/album/1q3jhhU1DSw1zNAoeyhCsE"
+      },
+      "artists": [
+        {
+          "name": "Jan & Dean",
+          "url": "https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "Surf City - Remastered 1990/Stereo Remix",
+      "url": "https://open.spotify.com/track/4ZzXPeOfMXk0iKNQGdlzDq"
+    },
+    {
+      "album": {
+        "name": "Surfer Girl (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/11HAwlOWpKxJVbGIxnZ3qI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Surfer Girl (Stereo)",
+      "url": "https://open.spotify.com/track/0yQLW0FSYo8fye3FsMgAQU"
+    },
+    {
+      "album": {
+        "name": "The Baby Grands",
+        "url": "https://open.spotify.com/album/4QNuQTPY9OzOSoiY6BWYc9"
+      },
+      "artists": [
+        {
+          "name": "The Baby Grands",
+          "url": "https://open.spotify.com/artist/5utOgNLzDC1fg5EuztlYbC"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116453,
+      "name": "Surfer Shake",
+      "url": "https://open.spotify.com/track/3KrrtXZHE3w9Aiy5E9pZl1"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/21oqj4VIaceueMP4WuDWv7"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/1YAZmYEermeBg0RZfLMARL"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh"
+    },
+    {
+      "album": {
+        "name": "Surfin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126640,
+      "name": "Surfin' Safari - Mono/Remastered 2001",
+      "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
+    },
+    {
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "album": {
+        "name": "Teen Beach Movie",
+        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Maia Mitchell",
+          "url": "https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC"
+        },
+        {
+          "name": "Teen Beach Movie Cast",
+          "url": "https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Surf\u2019s Up - From \"Teen Beach Movie\"",
+      "url": "https://open.spotify.com/track/4FLwksoBdffxACteswhNlU"
+    },
+    {
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282160,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/1jLRap9S6KxWpzlxBqYh17"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+    },
+    {
+      "album": {
+        "name": "Hopeful Music",
+        "url": "https://open.spotify.com/album/2KLYTP6Lm6Sgsc4oCxWYO4"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180800,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
+    },
+    {
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7"
+    },
+    {
+      "album": {
+        "name": "Oh Lucky Day!",
+        "url": "https://open.spotify.com/album/7BSumVCs7CD287vUZ3IQ5C"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7rPKUKo4fQbZJhS5CRVfXH"
+    },
+    {
+      "album": {
+        "name": "Return To The Valley Of The Go-Go's",
+        "url": "https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/1vJOi8S2MSq3jZsni1gm4x"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
+    },
+    {
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "album": {
+        "name": "Wipe Out",
+        "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "Wipe Out",
+      "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Surfaris",
+        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Wipe Out - Hit Version / Extended Ending",
+      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb3ZKiuF24g4"
 }

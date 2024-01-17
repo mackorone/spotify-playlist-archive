@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
+    },
+    {
+      "album": {
         "name": "Chegaste",
         "url": "https://open.spotify.com/album/6Hu8uwwicNW49TbvTyZnPO"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-14",
       "duration_ms": 230146,
       "name": "Se Acab\u00f3 el Amor - Urban Version",
       "url": "https://open.spotify.com/track/37ZbdPsSjAZjPTVKPi8Dii"

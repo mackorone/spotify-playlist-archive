@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Lyfe - Instrumental",
+        "url": "https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5"
+      },
+      "artists": [
+        {
+          "name": "teefaygoo",
+          "url": "https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV"
+        },
+        {
+          "name": "prodbysky",
+          "url": "https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175716,
+      "name": "Lyfe",
+      "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
+    },
+    {
+      "album": {
         "name": "MBGB2",
         "url": "https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t"
       },
@@ -618,7 +640,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 178496,
       "name": "on dat shit",
       "url": "https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h"
@@ -636,7 +658,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -694,6 +716,32 @@
       "duration_ms": 126615,
       "name": "Penthouse Shordy",
       "url": "https://open.spotify.com/track/0p761VSAObNRJF855bIHRF"
+    },
+    {
+      "album": {
+        "name": "SONY",
+        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
     },
     {
       "album": {

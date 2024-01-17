@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 65803,
+  "num_followers": 65960,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Aviator",
         "url": "https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL"
       },
@@ -187,22 +207,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Carbon Based Lifeforms",
+          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
         }
       ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+      "duration_ms": 389325,
+      "name": "Interloper",
+      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -223,74 +239,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/3g1Bz7vXLd0GgxHId19oqc"
+        "name": "11am",
+        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
       },
       "artists": [
         {
-          "name": "Carbon Based Lifeforms",
-          "url": "https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11"
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
         }
       ],
-      "duration_ms": 389325,
-      "name": "Interloper",
-      "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
-      },
-      "artists": [
-        {
-          "name": "TRYM",
-          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 443026,
-      "name": "Trinity - Amelie Lens Remix",
-      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 361160,
-      "name": "Blurred - Bonobo Remix",
-      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
+      "duration_ms": 222320,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -315,50 +275,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/1EqeS2WcAaUwzVGsDGiJBN"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 138371,
-      "name": "Poly",
-      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "11am",
-        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
-      },
-      "artists": [
+          "name": "TRYM",
+          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
+        },
         {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Nina Kraviz",
-        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Ghetto Kraviz",
-      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
+      "duration_ms": 443026,
+      "name": "Trinity - Amelie Lens Remix",
+      "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -375,6 +307,74 @@
       "duration_ms": 216267,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 361160,
+      "name": "Blurred - Bonobo Remix",
+      "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 138371,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Nina Kraviz",
+        "url": "https://open.spotify.com/album/4obvGroj4Sg4PbuLfdhFSo"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Ghetto Kraviz",
+      "url": "https://open.spotify.com/track/1vYUnLz9DfpJCnGB77UFFJ"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Stars Wrapped In Skin EP",
-        "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        },
-        {
-          "name": "Aparde",
-          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
-        }
-      ],
-      "duration_ms": 387887,
-      "name": "Neverland - Aparde Remix",
-      "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -487,22 +467,6 @@
       "duration_ms": 459081,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
-      },
-      "artists": [
-        {
-          "name": "Fantom '87",
-          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
-        }
-      ],
-      "duration_ms": 353407,
-      "name": "Pay Phone",
-      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -523,18 +487,38 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Fantom '87",
+          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+      "duration_ms": 353407,
+      "name": "Pay Phone",
+      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Stars Wrapped In Skin EP",
+        "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        },
+        {
+          "name": "Aparde",
+          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
+        }
+      ],
+      "duration_ms": 387887,
+      "name": "Neverland - Aparde Remix",
+      "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -555,50 +539,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Dubmission (Original Edit)",
-        "url": "https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4"
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
       },
       "artists": [
         {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 395209,
-      "name": "Dubmission - Original",
-      "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "The Only Way Out Is Through",
-        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 494109,
-      "name": "The Only Way Out Is Through",
-      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
-        "name": "The Year After",
-        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
-      },
-      "artists": [
-        {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
-        }
-      ],
-      "duration_ms": 428936,
-      "name": "The Year After",
-      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -619,6 +571,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
+        "name": "The Year After",
+        "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        }
+      ],
+      "duration_ms": 428936,
+      "name": "The Year After",
+      "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -635,6 +603,22 @@
       "duration_ms": 272346,
       "name": "The Right Place (feat. Teira)",
       "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "The Only Way Out Is Through",
+        "url": "https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 494109,
+      "name": "The Only Way Out Is Through",
+      "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -767,22 +751,6 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2023-06-09 18:05:35",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5dVLxKHRqppIumWNp5Crzb"
       },
@@ -813,32 +781,36 @@
       "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
-      "added_at": "2023-06-23 14:51:15",
+      "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Simple Child",
-        "url": "https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi"
+        "name": "Dubmission (Original Edit)",
+        "url": "https://open.spotify.com/album/3gMvOnZHnahNKmw1k5MqJ4"
       },
       "artists": [
         {
-          "name": "Meloko",
-          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
-        },
-        {
-          "name": "LKF Project",
-          "url": "https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d"
-        },
-        {
-          "name": "Selim Sivade",
-          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
-        },
-        {
-          "name": "Rondo Mo",
-          "url": "https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG"
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Simple Child",
-      "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
+      "duration_ms": 395209,
+      "name": "Dubmission - Original",
+      "url": "https://open.spotify.com/track/23AKDhAiWJSyLOdn5AB9Gs"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -873,24 +845,48 @@
       "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
     },
     {
-      "added_at": "2023-06-09 18:05:35",
+      "added_at": "2023-06-23 14:51:15",
       "album": {
-        "name": "In Another Lifetime",
-        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+        "name": "Simple Child",
+        "url": "https://open.spotify.com/album/3YRYyLIIgyWaCZ5okstYIi"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
         },
         {
-          "name": "Roos Jonker",
-          "url": "https://open.spotify.com/artist/7zKcaqZKaQv5O6oZYBoFBf"
+          "name": "LKF Project",
+          "url": "https://open.spotify.com/artist/2RuOG1js6Y29wWnyN7xx2d"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Rondo Mo",
+          "url": "https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG"
         }
       ],
-      "duration_ms": 303734,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/4yAGUSWR2xzOEV0SLgBWZX"
+      "duration_ms": 376000,
+      "name": "Simple Child",
+      "url": "https://open.spotify.com/track/091XExKLCNuX2sIJ3UvP1X"
+    },
+    {
+      "added_at": "2023-06-09 18:05:35",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7MZG3LSOOdw5tfFFN9OJUs"
+      },
+      "artists": [
+        {
+          "name": "Third Son",
+          "url": "https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc"
+        }
+      ],
+      "duration_ms": 92017,
+      "name": "Truman Sleeps",
+      "url": "https://open.spotify.com/track/0BXOKtZDCf9gLOMmqPZfAY"
     }
   ],
   "unique_name": "Deep Study",

@@ -1,732 +1,3345 @@
 {
-  "2021-12-28": 382723,
-  "2021-12-29": 382951,
-  "2021-12-30": 383135,
-  "2021-12-31": 383329,
-  "2022-01-01": 383634,
-  "2022-01-02": 383696,
-  "2022-01-03": 383839,
-  "2022-01-04": 384092,
-  "2022-01-05": 384326,
-  "2022-01-06": 384651,
-  "2022-01-07": 641338,
-  "2022-01-08": 641787,
-  "2022-01-09": 641832,
-  "2022-01-10": 642086,
-  "2022-01-11": 642366,
-  "2022-01-12": 642696,
-  "2022-01-13": 643032,
-  "2022-01-14": 643352,
-  "2022-01-15": 643868,
-  "2022-01-16": 643887,
-  "2022-01-17": 644491,
-  "2022-01-18": 644527,
-  "2022-01-19": 644785,
-  "2022-01-20": 645053,
-  "2022-01-21": 645345,
-  "2022-01-22": 738233,
-  "2022-01-23": 738500,
-  "2022-01-24": 738740,
-  "2022-01-25": 739004,
-  "2022-01-26": 739277,
-  "2022-01-27": 739523,
-  "2022-01-28": 739780,
-  "2022-01-29": 740003,
-  "2022-01-30": 740248,
-  "2022-01-31": 740524,
-  "2022-02-01": 740770,
-  "2022-02-02": 741023,
-  "2022-02-03": 741266,
-  "2022-02-04": 741554,
-  "2022-02-05": 741792,
-  "2022-02-06": 742015,
-  "2022-02-07": 742271,
-  "2022-02-08": 742530,
-  "2022-02-09": 742748,
-  "2022-02-10": 743014,
-  "2022-02-11": 743251,
-  "2022-02-12": 743476,
-  "2022-02-13": 743690,
-  "2022-02-14": 743902,
-  "2022-02-15": 744089,
-  "2022-02-16": 744311,
-  "2022-02-17": 744501,
-  "2022-02-18": 744783,
-  "2022-02-19": 745027,
-  "2022-02-20": 745250,
-  "2022-02-21": 745492,
-  "2022-02-22": 745736,
-  "2022-02-23": 746033,
-  "2022-02-24": 746333,
-  "2022-02-25": 746554,
-  "2022-02-26": 746783,
-  "2022-02-27": 747202,
-  "2022-02-28": 747202,
-  "2022-03-01": 747438,
-  "2022-03-02": 747675,
-  "2022-03-03": 747943,
-  "2022-03-04": 748199,
-  "2022-03-05": 748419,
-  "2022-03-06": 748651,
-  "2022-03-07": 748863,
-  "2022-03-08": 749110,
-  "2022-03-09": 749318,
-  "2022-03-10": 749604,
-  "2022-03-11": 749861,
-  "2022-03-12": 750148,
-  "2022-03-13": 750333,
-  "2022-03-14": 750611,
-  "2022-03-15": 750849,
-  "2022-03-16": 751089,
-  "2022-03-17": 751335,
-  "2022-03-18": 751604,
-  "2022-03-19": 751777,
-  "2022-03-20": 751777,
-  "2022-03-21": 752221,
-  "2022-03-22": 752450,
-  "2022-03-23": 752696,
-  "2022-03-24": 752924,
-  "2022-03-25": 753194,
-  "2022-03-26": 753433,
-  "2022-03-27": 753772,
-  "2022-03-28": 754153,
-  "2022-03-30": 755406,
-  "2022-03-31": 756163,
-  "2022-04-01": 756840,
-  "2022-04-02": 757517,
-  "2022-04-03": 758156,
-  "2022-04-04": 758849,
-  "2022-04-05": 759523,
-  "2022-04-06": 760159,
-  "2022-04-07": 760791,
-  "2022-04-08": 761348,
-  "2022-04-09": 761883,
-  "2022-04-10": 762891,
-  "2022-04-11": 763504,
-  "2022-04-12": 763576,
-  "2022-04-13": 764075,
-  "2022-04-14": 764610,
-  "2022-04-15": 765088,
-  "2022-04-16": 765551,
-  "2022-04-17": 766046,
-  "2022-04-18": 766528,
-  "2022-04-19": 766939,
-  "2022-04-20": 767377,
-  "2022-04-21": 767845,
-  "2022-04-22": 768326,
-  "2022-04-23": 768769,
-  "2022-04-24": 769223,
-  "2022-04-25": 769671,
-  "2022-04-26": 770168,
-  "2022-04-27": 770942,
-  "2022-04-28": 771559,
-  "2022-04-29": 772390,
-  "2022-04-30": 772822,
-  "2022-05-01": 773270,
-  "2022-05-02": 773270,
-  "2022-05-03": 773681,
-  "2022-05-04": 774048,
-  "2022-05-05": 774465,
-  "2022-05-06": 774838,
-  "2022-05-07": 775243,
-  "2022-05-08": 775714,
-  "2022-05-09": 775773,
-  "2022-05-10": 776105,
-  "2022-05-11": 776442,
-  "2022-05-12": 776763,
-  "2022-05-13": 777100,
-  "2022-05-14": 777435,
-  "2022-05-15": 777728,
-  "2022-05-16": 777991,
-  "2022-05-17": 778343,
-  "2022-05-18": 778678,
-  "2022-05-19": 779003,
-  "2022-05-20": 779404,
-  "2022-05-21": 779903,
-  "2022-05-22": 779903,
-  "2022-05-23": 780189,
-  "2022-05-24": 780434,
-  "2022-05-25": 780751,
-  "2022-05-26": 781054,
-  "2022-05-27": 781355,
-  "2022-05-28": 781637,
-  "2022-05-29": 781907,
-  "2022-05-30": 782171,
-  "2022-05-31": 782435,
-  "2022-06-01": 782984,
-  "2022-06-02": 783014,
-  "2022-06-03": 783285,
-  "2022-06-04": 783568,
-  "2022-06-05": 783840,
-  "2022-06-06": 784139,
-  "2022-06-07": 784408,
-  "2022-06-08": 784741,
-  "2022-06-09": 784997,
-  "2022-06-10": 785318,
-  "2022-06-11": 785569,
-  "2022-06-12": 785777,
-  "2022-06-13": 786016,
-  "2022-06-14": 786340,
-  "2022-06-15": 786639,
-  "2022-06-16": 786908,
-  "2022-06-17": 787140,
-  "2022-06-18": 787363,
-  "2022-06-19": 787771,
-  "2022-06-20": 787771,
-  "2022-06-21": 788005,
-  "2022-06-22": 788541,
-  "2022-06-23": 788541,
-  "2022-06-24": 788758,
-  "2022-06-25": 788938,
-  "2022-06-26": 789163,
-  "2022-06-27": 789409,
-  "2022-06-28": 789625,
-  "2022-06-29": 789880,
-  "2022-06-30": 790105,
-  "2022-07-01": 790322,
-  "2022-07-02": 790572,
-  "2022-07-03": 790772,
-  "2022-07-04": 791041,
-  "2022-07-05": 791255,
-  "2022-07-06": 791530,
-  "2022-07-07": 791807,
-  "2022-07-08": 792104,
-  "2022-07-09": 792320,
-  "2022-07-10": 792548,
-  "2022-07-11": 792769,
-  "2022-07-12": 793039,
-  "2022-07-13": 793266,
-  "2022-07-14": 793515,
-  "2022-07-15": 793839,
-  "2022-07-16": 794111,
-  "2022-07-17": 794375,
-  "2022-07-18": 794629,
-  "2022-07-19": 794872,
-  "2022-07-20": 795114,
-  "2022-07-21": 795376,
-  "2022-07-22": 795665,
-  "2022-07-23": 795915,
-  "2022-07-24": 796158,
-  "2022-07-25": 796384,
-  "2022-07-26": 796634,
-  "2022-07-27": 796901,
-  "2022-07-28": 797196,
-  "2022-07-29": 797505,
-  "2022-07-30": 797993,
-  "2022-07-31": 797993,
-  "2022-08-01": 798217,
-  "2022-08-02": 798702,
-  "2022-08-03": 798702,
-  "2022-08-04": 798967,
-  "2022-08-05": 799202,
-  "2022-08-06": 799439,
-  "2022-08-07": 799671,
-  "2022-08-08": 799883,
-  "2022-08-09": 800113,
-  "2022-08-10": 800308,
-  "2022-08-11": 800547,
-  "2022-08-12": 800730,
-  "2022-08-13": 800982,
-  "2022-08-14": 801182,
-  "2022-08-15": 801420,
-  "2022-08-16": 801681,
-  "2022-08-17": 801961,
-  "2022-08-18": 802198,
-  "2022-08-19": 802458,
-  "2022-08-20": 802695,
-  "2022-08-21": 802923,
-  "2022-08-22": 803178,
-  "2022-08-23": 803408,
-  "2022-08-24": 803691,
-  "2022-08-25": 804002,
-  "2022-08-26": 804260,
-  "2022-08-27": 804475,
-  "2022-08-28": 804684,
-  "2022-08-29": 804885,
-  "2022-08-30": 804817,
-  "2022-08-31": 804416,
-  "2022-09-01": 803939,
-  "2022-09-02": 804245,
-  "2022-09-03": 803653,
-  "2022-09-04": 802554,
-  "2022-09-05": 802106,
-  "2022-09-06": 802345,
-  "2022-09-07": 802589,
-  "2022-09-09": 803119,
-  "2022-09-10": 803381,
-  "2022-09-11": 803576,
-  "2022-09-12": 803785,
-  "2022-09-13": 804020,
-  "2022-09-15": 804542,
-  "2022-09-16": 804777,
-  "2022-09-17": 805030,
-  "2022-09-18": 805275,
-  "2022-09-19": 805533,
-  "2022-09-20": 805792,
-  "2022-09-21": 806052,
-  "2022-09-22": 806304,
-  "2022-09-23": 806601,
-  "2022-09-24": 806901,
-  "2022-09-25": 807094,
-  "2022-09-26": 807323,
-  "2022-09-27": 807567,
-  "2022-09-28": 807832,
-  "2022-09-29": 808080,
-  "2022-09-30": 808375,
-  "2022-10-01": 808660,
-  "2022-10-02": 808876,
-  "2022-10-03": 809099,
-  "2022-10-04": 809413,
-  "2022-10-05": 809642,
-  "2022-10-06": 809895,
-  "2022-10-07": 810166,
-  "2022-10-08": 810438,
-  "2022-10-09": 810782,
-  "2022-10-10": 810824,
-  "2022-10-11": 811103,
-  "2022-10-12": 811331,
-  "2022-10-13": 811590,
-  "2022-10-14": 811863,
-  "2022-10-15": 812157,
-  "2022-10-16": 812384,
-  "2022-10-17": 812626,
-  "2022-10-18": 812919,
-  "2022-10-19": 813236,
-  "2022-10-20": 813514,
-  "2022-10-21": 813780,
-  "2022-10-22": 814015,
-  "2022-10-23": 814246,
-  "2022-10-24": 814455,
-  "2022-10-25": 814678,
-  "2022-10-26": 814896,
-  "2022-10-27": 815146,
-  "2022-10-28": 815445,
-  "2022-10-29": 815760,
-  "2022-10-30": 815997,
-  "2022-10-31": 816184,
-  "2022-11-01": 816395,
-  "2022-11-02": 816630,
-  "2022-11-03": 816873,
-  "2022-11-04": 817121,
-  "2022-11-05": 817381,
-  "2022-11-06": 817596,
-  "2022-11-07": 817859,
-  "2022-11-08": 818089,
-  "2022-11-09": 818349,
-  "2022-11-10": 818606,
-  "2022-11-11": 818882,
-  "2022-11-12": 819148,
-  "2022-11-13": 819342,
-  "2022-11-14": 819558,
-  "2022-11-15": 819801,
-  "2022-11-16": 820075,
-  "2022-11-17": 820341,
-  "2022-11-18": 820389,
-  "2022-11-19": 820288,
-  "2022-11-20": 820358,
-  "2022-11-21": 820605,
-  "2022-11-22": 820849,
-  "2022-11-23": 821079,
-  "2022-11-24": 821536,
-  "2022-11-25": 822114,
-  "2022-11-26": 822480,
-  "2022-11-27": 822731,
-  "2022-11-28": 822954,
-  "2022-11-29": 823260,
-  "2022-11-30": 823541,
-  "2022-12-01": 823818,
-  "2022-12-02": 824102,
-  "2022-12-03": 824267,
-  "2022-12-04": 824623,
-  "2022-12-05": 824977,
-  "2022-12-06": 825308,
-  "2022-12-07": 825790,
-  "2022-12-08": 826270,
-  "2022-12-09": 826657,
-  "2022-12-10": 827023,
-  "2022-12-11": 827314,
-  "2022-12-12": 827618,
-  "2022-12-13": 827934,
-  "2022-12-14": 828271,
-  "2022-12-15": 828648,
-  "2022-12-16": 828945,
-  "2022-12-17": 829226,
-  "2022-12-18": 829499,
-  "2022-12-19": 829805,
-  "2022-12-20": 830335,
-  "2022-12-21": 830335,
-  "2022-12-22": 830621,
-  "2022-12-24": 831102,
-  "2022-12-25": 831292,
-  "2022-12-26": 831472,
-  "2022-12-27": 831670,
-  "2022-12-28": 831935,
-  "2022-12-29": 832194,
-  "2022-12-30": 832507,
-  "2022-12-31": 832799,
-  "2023-01-01": 833027,
-  "2023-01-02": 833251,
-  "2023-01-03": 833550,
-  "2023-01-04": 833875,
-  "2023-01-05": 834271,
-  "2023-01-06": 834723,
-  "2023-01-07": 835227,
-  "2023-01-08": 835337,
-  "2023-01-09": 835688,
-  "2023-01-10": 836112,
-  "2023-01-11": 836524,
-  "2023-01-12": 836950,
-  "2023-01-13": 837309,
-  "2023-01-14": 837984,
-  "2023-01-15": 838102,
-  "2023-01-16": 838454,
-  "2023-01-17": 838851,
-  "2023-01-18": 839286,
-  "2023-01-19": 839674,
-  "2023-01-20": 840079,
-  "2023-01-21": 840440,
-  "2023-01-22": 840806,
-  "2023-01-23": 841191,
-  "2023-01-24": 841580,
-  "2023-01-25": 841975,
-  "2023-01-26": 842399,
-  "2023-01-27": 842866,
-  "2023-01-28": 843312,
-  "2023-01-29": 843621,
-  "2023-01-30": 843927,
-  "2023-01-31": 843927,
-  "2023-02-01": 844626,
-  "2023-02-02": 844990,
-  "2023-02-03": 845371,
-  "2023-02-04": 845710,
-  "2023-02-05": 846018,
-  "2023-02-06": 846309,
-  "2023-02-07": 846638,
-  "2023-02-08": 847348,
-  "2023-02-09": 847348,
-  "2023-02-10": 847695,
-  "2023-02-11": 848012,
-  "2023-02-12": 848575,
-  "2023-02-13": 848833,
-  "2023-02-14": 848833,
-  "2023-02-15": 849119,
-  "2023-02-16": 849419,
-  "2023-02-17": 849736,
-  "2023-02-18": 850330,
-  "2023-02-19": 850374,
-  "2023-02-20": 850564,
-  "2023-02-21": 850861,
-  "2023-02-22": 851153,
-  "2023-02-23": 851497,
-  "2023-02-24": 851885,
-  "2023-02-25": 852266,
-  "2023-02-26": 852491,
-  "2023-02-27": 853037,
-  "2023-02-28": 853037,
-  "2023-03-01": 853357,
-  "2023-03-02": 853675,
-  "2023-03-03": 853954,
-  "2023-03-04": 854242,
-  "2023-03-05": 854773,
-  "2023-03-06": 854773,
-  "2023-03-07": 855080,
-  "2023-03-08": 855360,
-  "2023-03-09": 855652,
-  "2023-03-10": 855934,
-  "2023-03-11": 856199,
-  "2023-03-12": 856458,
-  "2023-03-13": 856717,
-  "2023-03-14": 856958,
-  "2023-03-15": 857248,
-  "2023-03-16": 857574,
-  "2023-03-17": 857574,
-  "2023-03-18": 858094,
-  "2023-03-19": 858290,
-  "2023-03-20": 858569,
-  "2023-03-21": 858858,
-  "2023-03-22": 859140,
-  "2023-03-23": 859449,
-  "2023-03-24": 859449,
-  "2023-03-25": 859997,
-  "2023-03-26": 860187,
-  "2023-03-27": 860432,
-  "2023-03-28": 860705,
-  "2023-03-29": 861296,
-  "2023-03-30": 861881,
-  "2023-03-31": 861881,
-  "2023-04-01": 862163,
-  "2023-04-02": 862393,
-  "2023-04-03": 862618,
-  "2023-04-04": 862864,
-  "2023-04-05": 863114,
-  "2023-04-06": 863332,
-  "2023-04-07": 863521,
-  "2023-04-09": 863887,
-  "2023-04-10": 864069,
-  "2023-04-11": 864501,
-  "2023-04-12": 864501,
-  "2023-04-13": 864723,
-  "2023-04-14": 864942,
-  "2023-04-15": 865160,
-  "2023-04-16": 865373,
-  "2023-04-17": 865586,
-  "2023-04-18": 865759,
-  "2023-04-19": 865984,
-  "2023-04-20": 866236,
-  "2023-04-21": 866500,
-  "2023-04-22": 866746,
-  "2023-04-23": 866941,
-  "2023-04-24": 867167,
-  "2023-04-25": 867393,
-  "2023-04-26": 867655,
-  "2023-04-27": 867958,
-  "2023-04-28": 868234,
-  "2023-04-29": 868450,
-  "2023-04-30": 868627,
-  "2023-05-01": 868816,
-  "2023-05-02": 869021,
-  "2023-05-03": 869242,
-  "2023-05-04": 869426,
-  "2023-05-05": 869674,
-  "2023-05-06": 869964,
-  "2023-05-07": 870222,
-  "2023-05-08": 870485,
-  "2023-05-09": 870862,
-  "2023-05-10": 871198,
-  "2023-05-11": 871486,
-  "2023-05-12": 871896,
-  "2023-05-13": 872172,
-  "2023-05-14": 872449,
-  "2023-05-15": 872763,
-  "2023-05-16": 873034,
-  "2023-05-17": 873352,
-  "2023-05-18": 873637,
-  "2023-05-19": 873977,
-  "2023-05-20": 874546,
-  "2023-05-21": 874546,
-  "2023-05-22": 874546,
-  "2023-05-23": 875046,
-  "2023-05-24": 875550,
-  "2023-05-25": 875647,
-  "2023-05-26": 875916,
-  "2023-05-27": 876116,
-  "2023-05-28": 876324,
-  "2023-05-29": 876324,
-  "2023-05-30": 876702,
-  "2023-05-31": 876931,
-  "2023-06-01": 877165,
-  "2023-06-02": 877418,
-  "2023-06-03": 877606,
-  "2023-06-04": 877794,
-  "2023-06-05": 878017,
-  "2023-06-06": 878224,
-  "2023-06-07": 878485,
-  "2023-06-08": 878704,
-  "2023-06-09": 878912,
-  "2023-06-10": 879078,
-  "2023-06-11": 879252,
-  "2023-06-12": 879433,
-  "2023-06-13": 879631,
-  "2023-06-14": 879811,
-  "2023-06-15": 879989,
-  "2023-06-16": 880201,
-  "2023-06-17": 880389,
-  "2023-06-18": 880541,
-  "2023-06-19": 880726,
-  "2023-06-20": 880931,
-  "2023-06-21": 881126,
-  "2023-06-22": 881340,
-  "2023-06-23": 881526,
-  "2023-06-24": 881701,
-  "2023-06-25": 881869,
-  "2023-06-26": 882016,
-  "2023-06-27": 882195,
-  "2023-06-28": 882382,
-  "2023-06-29": 882564,
-  "2023-06-30": 882760,
-  "2023-07-01": 883079,
-  "2023-07-02": 883079,
-  "2023-07-03": 883259,
-  "2023-07-04": 883390,
-  "2023-07-05": 883537,
-  "2023-07-06": 883889,
-  "2023-07-07": 883889,
-  "2023-07-08": 884024,
-  "2023-07-09": 884184,
-  "2023-07-10": 884316,
-  "2023-07-11": 884453,
-  "2023-07-12": 884615,
-  "2023-07-13": 884795,
-  "2023-07-14": 884981,
-  "2023-07-15": 885110,
-  "2023-07-16": 885330,
-  "2023-07-17": 885527,
-  "2023-07-18": 885701,
-  "2023-07-19": 885949,
-  "2023-07-20": 886114,
-  "2023-07-21": 886355,
-  "2023-07-22": 886511,
-  "2023-07-23": 886656,
-  "2023-07-24": 886813,
-  "2023-07-25": 886986,
-  "2023-07-26": 887159,
-  "2023-07-27": 887333,
-  "2023-07-28": 887534,
-  "2023-07-29": 887741,
-  "2023-07-30": 887893,
-  "2023-07-31": 888057,
-  "2023-08-01": 888241,
-  "2023-08-02": 888377,
-  "2023-08-03": 888626,
-  "2023-08-04": 888876,
-  "2023-08-05": 889114,
-  "2023-08-06": 889532,
-  "2023-08-07": 889532,
-  "2023-08-08": 889739,
-  "2023-08-09": 889970,
-  "2023-08-10": 890197,
-  "2023-08-11": 890401,
-  "2023-08-12": 890597,
-  "2023-08-13": 890794,
-  "2023-08-14": 890972,
-  "2023-08-15": 891404,
-  "2023-08-16": 891404,
-  "2023-08-17": 891635,
-  "2023-08-18": 891846,
-  "2023-08-19": 892063,
-  "2023-08-20": 892228,
-  "2023-08-21": 892399,
-  "2023-08-22": 892611,
-  "2023-08-23": 892826,
-  "2023-08-24": 893060,
-  "2023-08-25": 893317,
-  "2023-08-26": 893532,
-  "2023-08-27": 893742,
-  "2023-08-28": 893934,
-  "2023-08-29": 894160,
-  "2023-08-30": 894390,
-  "2023-08-31": 894623,
-  "2023-09-01": 895144,
-  "2023-09-02": 895144,
-  "2023-09-03": 895308,
-  "2023-09-04": 895460,
-  "2023-09-05": 895631,
-  "2023-09-06": 895828,
-  "2023-09-07": 896074,
-  "2023-09-08": 896292,
-  "2023-09-09": 896524,
-  "2023-09-10": 896732,
-  "2023-09-11": 896927,
-  "2023-09-12": 897134,
-  "2023-09-13": 897396,
-  "2023-09-14": 897596,
-  "2023-09-15": 897842,
-  "2023-09-16": 898079,
-  "2023-09-17": 898290,
-  "2023-09-18": 898479,
-  "2023-09-19": 898742,
-  "2023-09-20": 898983,
-  "2023-09-21": 899189,
-  "2023-09-22": 899404,
-  "2023-09-23": 899639,
-  "2023-09-24": 899836,
-  "2023-09-25": 900024,
-  "2023-09-26": 900277,
-  "2023-09-27": 900440,
-  "2023-09-28": 900656,
-  "2023-09-29": 900876,
-  "2023-09-30": 901109,
-  "2023-10-01": 901262,
-  "2023-10-02": 901465,
-  "2023-10-03": 901623,
-  "2023-10-04": 901826,
-  "2023-10-05": 902021,
-  "2023-10-06": 902257,
-  "2023-10-07": 902469,
-  "2023-10-08": 902662,
-  "2023-10-09": 902839,
-  "2023-10-10": 902514,
-  "2023-10-11": 902346,
-  "2023-10-12": 902346,
-  "2023-10-13": 902572,
-  "2023-10-14": 902271,
-  "2023-10-15": 901958,
-  "2023-10-16": 902225,
-  "2023-10-17": 902438,
-  "2023-10-18": 902611,
-  "2023-10-19": 902838,
-  "2023-10-20": 903071,
-  "2023-10-21": 903262,
-  "2023-10-22": 903469,
-  "2023-10-23": 903656,
-  "2023-10-24": 903844,
-  "2023-10-25": 904049,
-  "2023-10-26": 904275,
-  "2023-10-27": 904440,
-  "2023-10-28": 904652,
-  "2023-10-29": 904836,
-  "2023-10-30": 905163,
-  "2023-10-31": 905163,
-  "2023-11-01": 905336,
-  "2023-11-02": 905541,
-  "2023-11-03": 905781,
-  "2023-11-04": 905969,
-  "2023-11-05": 906129,
-  "2023-11-06": 906266,
-  "2023-11-07": 906440,
-  "2023-11-08": 906599,
-  "2023-11-09": 906796,
-  "2023-11-10": 907006,
-  "2023-11-11": 907191,
-  "2023-11-12": 907337,
-  "2023-11-13": 907480,
-  "2023-11-14": 907643,
-  "2023-11-15": 907643,
-  "2023-11-16": 907915,
-  "2023-11-17": 908204,
-  "2023-11-18": 908204,
-  "2023-11-19": 908329,
-  "2023-11-20": 908464,
-  "2023-11-21": 908617,
-  "2023-11-22": 908787,
-  "2023-11-23": 908947,
-  "2023-11-24": 909071,
-  "2023-11-25": 909191,
-  "2023-11-26": 909307,
-  "2023-11-27": 909416,
-  "2023-11-28": 909553,
-  "2023-11-29": 909830,
-  "2023-11-30": 909830,
-  "2023-12-01": 909953,
-  "2023-12-02": 910082,
-  "2023-12-03": 910206,
-  "2023-12-04": 910303,
-  "2023-12-05": 910438,
-  "2023-12-06": 910602,
-  "2023-12-07": 910750,
-  "2023-12-08": 910887,
-  "2023-12-09": 911006,
-  "2023-12-10": 911120,
-  "2023-12-11": 911254,
-  "2023-12-12": 911401,
-  "2023-12-13": 911524,
-  "2023-12-14": 911679,
-  "2023-12-15": 911768,
-  "2023-12-16": 911885,
-  "2023-12-17": 911970,
-  "2023-12-18": 912063,
-  "2023-12-19": 912171,
-  "2023-12-20": 912306,
-  "2023-12-21": 912408,
-  "2023-12-22": 912510,
-  "2023-12-23": 912626,
-  "2023-12-24": 912745,
-  "2023-12-25": 912834,
-  "2023-12-26": 912913,
-  "2023-12-27": 912998,
-  "2023-12-30": 913305,
-  "2023-12-31": 913452,
-  "2024-01-01": 913560,
-  "2024-01-02": 913646,
-  "2024-01-03": 913801
+  "2024-01-17": 913222,
+  "date_first_scraped": "2021-12-28",
+  "description": "Your favorite pop songs, classically reimagined.",
+  "name": "Pop Goes Classical",
+  "tracks": [
+    {
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0"
+    },
+    {
+      "album": {
+        "name": "abcdefu (arr. piano)",
+        "url": "https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161325,
+      "name": "abcdefu (arr. piano)",
+      "url": "https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu"
+    },
+    {
+      "album": {
+        "name": "Across The Universe (Arr. Lawson)",
+        "url": "https://open.spotify.com/album/7HXVpWl09KTOsLM39pW5o5"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Rowena Calvert",
+          "url": "https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0"
+        },
+        {
+          "name": "Sam Becker",
+          "url": "https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT"
+        },
+        {
+          "name": "Lysandre M\u00e9nard",
+          "url": "https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230369,
+      "name": "Across The Universe (Arr. Lawson)",
+      "url": "https://open.spotify.com/track/3tjcfuKQ71cu6fQTwzBNnv"
+    },
+    {
+      "album": {
+        "name": "Adore You (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 198410,
+      "name": "Adore You (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh"
+    },
+    {
+      "album": {
+        "name": "Pop Goes Classical",
+        "url": "https://open.spotify.com/album/20Et1l6jsJdticffIphZQP"
+      },
+      "artists": [
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP"
+    },
+    {
+      "album": {
+        "name": "Pop Goes Classical",
+        "url": "https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo"
+      },
+      "artists": [
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198053,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/4YvpNIX2uxTvY5KXn1QLvg"
+      },
+      "artists": [
+        {
+          "name": "Dallas String Quartet",
+          "url": "https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4QoywwYw4xnKRHOSmbmSQx"
+    },
+    {
+      "album": {
+        "name": "Anti Hero (arr. piano)",
+        "url": "https://open.spotify.com/album/56wtDQM2uL66GbgYQXAlhP"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 198751,
+      "name": "Anti-Hero (arr. piano)",
+      "url": "https://open.spotify.com/track/4xZP0zYF23dP8JRcqyF2mV"
+    },
+    {
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 191381,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161724,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe"
+      },
+      "artists": [
+        {
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191974,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4"
+    },
+    {
+      "album": {
+        "name": "Piano Essentials. Vol. 11",
+        "url": "https://open.spotify.com/album/4Qq8fPqxJHITlUS9NRAmyy"
+      },
+      "artists": [
+        {
+          "name": "Pianoholic",
+          "url": "https://open.spotify.com/artist/3vOJJbGGUOtC9csissiL0G"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 184000,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/0tKH2CJjEBh74qXBdh8Xvl"
+    },
+    {
+      "album": {
+        "name": "Bad Habits (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/2mV9Gs9S0tuXTSjD6bKsUO"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236226,
+      "name": "Bad Habits (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4RkslWnwxbvU5wy00BNRsR"
+    },
+    {
+      "album": {
+        "name": "Bad Romance (Stripped Mix)",
+        "url": "https://open.spotify.com/album/1oI5SHSH9NwRUjNubYNdp2"
+      },
+      "artists": [
+        {
+          "name": "Power-Haus",
+          "url": "https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq"
+        },
+        {
+          "name": "Axel Tenner",
+          "url": "https://open.spotify.com/artist/3DAVUiUCEyfSuCgkbWz2HZ"
+        },
+        {
+          "name": "Sebastian Pecznik",
+          "url": "https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139155,
+      "name": "Bad Romance - Stripped Mix",
+      "url": "https://open.spotify.com/track/7Ba0kauYzWtgc9WCO8hv2T"
+    },
+    {
+      "album": {
+        "name": "Barbie Girl",
+        "url": "https://open.spotify.com/album/7GSCQKkADBRS7uGz4Gig6m"
+      },
+      "artists": [
+        {
+          "name": "Power-Haus",
+          "url": "https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq"
+        },
+        {
+          "name": "Christian Reindl",
+          "url": "https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB"
+        },
+        {
+          "name": "Lucie Paradis",
+          "url": "https://open.spotify.com/artist/62IE8780a3EQi3hqeKVZFJ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-18",
+      "duration_ms": 99173,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/1RFwVievLaxv9MF2LmUBT5"
+    },
+    {
+      "album": {
+        "name": "Basket Case",
+        "url": "https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4"
+      },
+      "artists": [
+        {
+          "name": "Thomas Bryan Parker",
+          "url": "https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169849,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM"
+    },
+    {
+      "album": {
+        "name": "Bastille: The Piano Tribute Medley",
+        "url": "https://open.spotify.com/album/3sCEvqtJngunwfa5yZHGhi"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 331757,
+      "name": "Bastille: The Piano Tribute Medley",
+      "url": "https://open.spotify.com/track/72VAb7qicZRp0ZL0JKir20"
+    },
+    {
+      "album": {
+        "name": "Bastille: The Piano Tribute Medley",
+        "url": "https://open.spotify.com/album/2MhY3eaXyskSe0CpHl4kOw"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331757,
+      "name": "Bastille: The Piano Tribute Medley",
+      "url": "https://open.spotify.com/track/7LVIdIAod9vKTGui5KU60K"
+    },
+    {
+      "album": {
+        "name": "90s Piano Covers (Vol. 1)",
+        "url": "https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped"
+      },
+      "artists": [
+        {
+          "name": "Henry Smith",
+          "url": "https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Believe - Piano Version",
+      "url": "https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0WC1s9ctdfec7tGbp2fuCN"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220274,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6Vnejeh0h9zCY0qrLAxKal"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/29OyLTZAtJ1URhQlHPDELU"
+      },
+      "artists": [
+        {
+          "name": "Dallas String Quartet",
+          "url": "https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242834,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4yw5GYrOrrJ53yfYuxSCOz"
+    },
+    {
+      "album": {
+        "name": "Better Together (Instrumental)",
+        "url": "https://open.spotify.com/album/4jW9gXgYVJnwp836OzWP5n"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        },
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        },
+        {
+          "name": "Avery Bright",
+          "url": "https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 218181,
+      "name": "Better Together - Instrumental",
+      "url": "https://open.spotify.com/track/2f9V1rIwActY4UKBQuxHqq"
+    },
+    {
+      "album": {
+        "name": "Blackbird - The Beatles Album",
+        "url": "https://open.spotify.com/album/3VIL0T0cLNHDcNGO0WPNhh"
+      },
+      "artists": [
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-05",
+      "duration_ms": 152115,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3gGtHBS7wV3oP9KEClHd4i"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Sessions",
+        "url": "https://open.spotify.com/album/7hBwTnRSuuOisqubNG4lwv"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/2mMarfkPpZPPKV5AUGdz58"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2020",
+        "url": "https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/5x17OfFfF4UNy5XkRBZjWB"
+    },
+    {
+      "album": {
+        "name": "Bloodstream (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0a5HUKkzFXx0G1K4DOLKs5"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Billy Watman",
+          "url": "https://open.spotify.com/artist/5npqfvzYEvgXzVzdLYPskb"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192576,
+      "name": "Bloodstream - Acoustic Version",
+      "url": "https://open.spotify.com/track/6RvQoBITPQHjx7MKCG3ya3"
+    },
+    {
+      "album": {
+        "name": "Break My Heart (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/1jUuXQfOc3JjZrsEidfGOH"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215769,
+      "name": "Break My Heart (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/1dTjB9y2xJke2FwVCCVEwa"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2021, Vol. 1",
+        "url": "https://open.spotify.com/album/6La6D0hm5BAJt7Ce6OOoFr"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 165293,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/535WnJgwiRvQ7uig5fbr7C"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2014, Vol. 2",
+        "url": "https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 215000,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/5A51C7Ank2IRW0TmhYkeoK"
+    },
+    {
+      "album": {
+        "name": "Simply Three",
+        "url": "https://open.spotify.com/album/0pJfpfWc8YB4HXg89wmMA3"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC"
+    },
+    {
+      "album": {
+        "name": "Simply Three",
+        "url": "https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202946,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe"
+    },
+    {
+      "album": {
+        "name": "Simply Three",
+        "url": "https://open.spotify.com/album/5PQfgKvAKCS4UodD41FAfb"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 202946,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6YQcHXmPKwghGkWUZdKPDG"
+    },
+    {
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/2Fupb3QjSo2f7C3r03QPAy"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 204480,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/7vAP0gqZTynSCBAsunLW20"
+    },
+    {
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/1Uoh8IxgZHWDekaVWnHjbs"
+      },
+      "artists": [
+        {
+          "name": "Redi Hasa",
+          "url": "https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239160,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/0ch4tJ0zq4s0obJbXCBgGU"
+    },
+    {
+      "album": {
+        "name": "Nov\u00f6 Piano",
+        "url": "https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM"
+      },
+      "artists": [
+        {
+          "name": "Maxence Cyrin",
+          "url": "https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 232160,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6fh2YS29IrmW1yCHMlTDTM"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Sessions 9",
+        "url": "https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225907,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279840,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t"
+    },
+    {
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/074kRHbl52DdVYRBaC0CsL"
+      },
+      "artists": [
+        {
+          "name": "Benny G\u00f6ran Bror Andersson",
+          "url": "https://open.spotify.com/artist/7kJH3LO9yXGfm8pdkGufyc"
+        },
+        {
+          "name": "Bjoern Ulvaeus",
+          "url": "https://open.spotify.com/artist/3QRq0UZ09oqVXjHvcfXbeb"
+        },
+        {
+          "name": "Stig Erik Leopold Anderson",
+          "url": "https://open.spotify.com/artist/7FvbRhmQWfkj1gNsvXeruW"
+        },
+        {
+          "name": "Spark",
+          "url": "https://open.spotify.com/artist/3sIOuYma5E6SlVQeuDnEif"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 306571,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/1WhbXPpGtDdMlu9yPpA9fb"
+    },
+    {
+      "album": {
+        "name": "Daylight (Instrumental)",
+        "url": "https://open.spotify.com/album/51LxsIqA3s3wfTQLuBFbZX"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220670,
+      "name": "Daylight - Instrumental",
+      "url": "https://open.spotify.com/track/0nA0BTzf0GpQp2CJ7LLQoA"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/1jl0lRJT9NgzMQlI7qIWmh"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/6yeK9rzYyy66WsqlyQq4VX"
+    },
+    {
+      "album": {
+        "name": "Despacito",
+        "url": "https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Erika Ender",
+          "url": "https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq"
+        },
+        {
+          "name": "Luis Rodriguez",
+          "url": "https://open.spotify.com/artist/7dTPvuNcEXLkQ1XiAuiWIP"
+        },
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146195,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0"
+    },
+    {
+      "album": {
+        "name": "One Quiet Night",
+        "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 187786,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/6KE4QXE06QDEn7zRFkpxdk"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now (Piano Arrangement)",
+        "url": "https://open.spotify.com/album/2ukWfzXS1vRh3elja259of"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Don't Start Now - Piano Arrangement",
+      "url": "https://open.spotify.com/track/25whEqyIHgzfvnfwORMgUv"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now (Piano Arrangement)",
+        "url": "https://open.spotify.com/album/25cZqm0GvwFkEQq8CEgKPL"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161250,
+      "name": "Don't Start Now - Piano Arrangement",
+      "url": "https://open.spotify.com/track/645iSJrCsQZMgLoMqdGkI0"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Know",
+        "url": "https://open.spotify.com/album/4vMI0fAQpkjuqSmB2fjn2E"
+      },
+      "artists": [
+        {
+          "name": "Costantino Carrara",
+          "url": "https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 177600,
+      "name": "Don't Wanna Know",
+      "url": "https://open.spotify.com/track/7ICe7aEcO7GaVGWwUc0edv"
+    },
+    {
+      "album": {
+        "name": "Dreams (arr. piano)",
+        "url": "https://open.spotify.com/album/4epwq0q9qT41lPguDbL2bE"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 188080,
+      "name": "Dreams (arr. piano)",
+      "url": "https://open.spotify.com/track/7duITMDjpMAtEwjnMRyucT"
+    },
+    {
+      "album": {
+        "name": "drivers license (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/6DYyz4hIsisHrB8VhKrWyF"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242003,
+      "name": "drivers license (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/4vy1RotKCE0qpxw3GZyLXS"
+    },
+    {
+      "album": {
+        "name": "Piano Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/2QvgQR5we5RgiEkFKpwfB1"
+      },
+      "artists": [
+        {
+          "name": "The Theorist",
+          "url": "https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 250174,
+      "name": "Drop the Game (Piano Arrangement)",
+      "url": "https://open.spotify.com/track/74XiL7qOPpqY1jOItswAWr"
+    },
+    {
+      "album": {
+        "name": "Earned It (Solo Piano)",
+        "url": "https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246026,
+      "name": "Earned It - Solo Piano",
+      "url": "https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL"
+    },
+    {
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 196000,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy"
+    },
+    {
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/1x9lgY53hXXUzsC8TsUQFe"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/6GOGtYDbwevpKEZpGyptmc"
+    },
+    {
+      "album": {
+        "name": "Ted Yoder Band Live",
+        "url": "https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV"
+      },
+      "artists": [
+        {
+          "name": "Ted Yoder",
+          "url": "https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243304,
+      "name": "Eleanor Rigby - Live",
+      "url": "https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5"
+    },
+    {
+      "album": {
+        "name": "Enjoy The Silence",
+        "url": "https://open.spotify.com/album/6TU8GCDEvZzciExmRRE6YD"
+      },
+      "artists": [
+        {
+          "name": "Martin Gore",
+          "url": "https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Morphing Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208818,
+      "name": "Enjoy the Silence - Piano and String Quartet Version",
+      "url": "https://open.spotify.com/track/3paWLtYo9854AxRLx3tb7Z"
+    },
+    {
+      "album": {
+        "name": "everything i wanted (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 245167,
+      "name": "everything i wanted (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT"
+    },
+    {
+      "album": {
+        "name": "everything i wanted (notturno)",
+        "url": "https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332671,
+      "name": "everything i wanted (notturno)",
+      "url": "https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194371,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G"
+    },
+    {
+      "album": {
+        "name": "True Love Waits (Christopher O'Riley Plays Radiohead)",
+        "url": "https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm"
+      },
+      "artists": [
+        {
+          "name": "Christopher O'Riley",
+          "url": "https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294973,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO"
+    },
+    {
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 177071,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J"
+    },
+    {
+      "album": {
+        "name": "Fingers Crossed (arr. piano)",
+        "url": "https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-26",
+      "duration_ms": 187948,
+      "name": "Fingers Crossed (arr. piano)",
+      "url": "https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t"
+    },
+    {
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/48sxpy1XGBS2dVU8ebh9lY"
+      },
+      "artists": [
+        {
+          "name": "Dallas String Quartet",
+          "url": "https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/5Y2g2734P6TcuJJmDwz9QO"
+    },
+    {
+      "album": {
+        "name": "Firework",
+        "url": "https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Green",
+          "url": "https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234193,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Dover Quartet",
+          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304888,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3mSjIIHyriD6HOCqNOKzTQ"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235021,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5tyoGp4suJjn9HAbLAKkdx"
+    },
+    {
+      "album": {
+        "name": "Glimpse of Us (arr. string quartet)",
+        "url": "https://open.spotify.com/album/5eoLxn3SoMfPex3N23hPRq"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Strings",
+          "url": "https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq"
+        },
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "Glimpse of Us (arr. string quartet)",
+      "url": "https://open.spotify.com/track/4u91K1WDKhzLLg8QJsQlor"
+    },
+    {
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/627csj4wkox8X11EmpEhgG"
+      },
+      "artists": [
+        {
+          "name": "Brian Wilson",
+          "url": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 229026,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s"
+    },
+    {
+      "album": {
+        "name": "Good 4 U (Arr. for String Quartet)",
+        "url": "https://open.spotify.com/album/6IS1QBDwuR4NUDVd7we5wo"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Good 4 U - Arr. for String Quartet",
+      "url": "https://open.spotify.com/track/0wOg1VN28vZswbqVYKC3KM"
+    },
+    {
+      "album": {
+        "name": "Good 4 U (arr. String Quartet)",
+        "url": "https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 177706,
+      "name": "Good 4 U - arr. String Quartet",
+      "url": "https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 165882,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/5AjALe4ac200zNXQolG3uk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Green",
+          "url": "https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0FilCJDN0Cvjo0jezjxgAC"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0Zu8fh2i6Kl58mDPTgxeRn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Chops",
+          "url": "https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 253000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4mfzUScqJrZuzL9EvP1jTE"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Sessions 11",
+        "url": "https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229826,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY"
+    },
+    {
+      "album": {
+        "name": "Higher Love (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
+        "url": "https://open.spotify.com/album/3g8ZOcsJebfAwwcxoGreRk"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203387,
+      "name": "Higher Love (arr. string quartet) - Inspired by \u2018Bridgerton\u2019",
+      "url": "https://open.spotify.com/track/1v2ZoMBeTmUaoDKrFkpdfR"
+    },
+    {
+      "album": {
+        "name": "How Will I Know (arr. piano)",
+        "url": "https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 218307,
+      "name": "How Will I Know (arr. piano)",
+      "url": "https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1"
+    },
+    {
+      "album": {
+        "name": "Geek Wedding, Vol. 2: The Sequel",
+        "url": "https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Howl's Moving Castle - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ"
+    },
+    {
+      "album": {
+        "name": "Boyd Meets Girl",
+        "url": "https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk"
+      },
+      "artists": [
+        {
+          "name": "Steve Porcaro",
+          "url": "https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn"
+        },
+        {
+          "name": "Boyd Meets Girl",
+          "url": "https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162745,
+      "name": "Human Nature (Arr. R. Boyd & L. Metcalf for Cello & Guitar)",
+      "url": "https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s"
+    },
+    {
+      "album": {
+        "name": "Alone Together, Vol 6 (The Living Room Sessions)",
+        "url": "https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6"
+      },
+      "artists": [
+        {
+          "name": "Holly Bowling",
+          "url": "https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 372746,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS"
+    },
+    {
+      "album": {
+        "name": "I Want It That Way",
+        "url": "https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207755,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285946,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ"
+    },
+    {
+      "album": {
+        "name": "IDOL",
+        "url": "https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/40THRMzCNR75ta2uRvcVlS"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN"
+    },
+    {
+      "album": {
+        "name": "Imagine What a Wonderful World",
+        "url": "https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC"
+      },
+      "artists": [
+        {
+          "name": "Christine Brown",
+          "url": "https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 294100,
+      "name": "Imagine / What a Wonderful World",
+      "url": "https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV"
+    },
+    {
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/13INsz9Ec6Xvwm3K3TjGcl"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Dover Quartet",
+          "url": "https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247155,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/2W2JGTBmzMyP0j4jvaogsQ"
+    },
+    {
+      "album": {
+        "name": "Iris (arr. piano)",
+        "url": "https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 156081,
+      "name": "Iris (arr. piano)",
+      "url": "https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221364,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme"
+    },
+    {
+      "album": {
+        "name": "LA FAMA",
+        "url": "https://open.spotify.com/album/2BID0wZNtqNSN8x7FS0i91"
+      },
+      "artists": [
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179106,
+      "name": "LA FAMA",
+      "url": "https://open.spotify.com/track/1RTMnKO8H1XiZaJUmBVg4b"
+    },
+    {
+      "album": {
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3fX7jccVdL4ZuYkJ806fIR"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/3ujhnUL6rvA8CTGTj2qc3F"
+    },
+    {
+      "album": {
+        "name": "Explosive (Deluxe)",
+        "url": "https://open.spotify.com/album/1BOjQtnxLLlJupPGOKEeck"
+      },
+      "artists": [
+        {
+          "name": "David Garrett",
+          "url": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Franck van der Heijden",
+          "url": "https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186426,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/1crphtLmE5qben7biopmp3"
+    },
+    {
+      "album": {
+        "name": "Explosive (Deluxe)",
+        "url": "https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU"
+      },
+      "artists": [
+        {
+          "name": "David Garrett",
+          "url": "https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Franck van der Heijden",
+          "url": "https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186426,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM"
+    },
+    {
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274166,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/43izAMB4XyHkEghLzaxnKi"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Sessions II",
+        "url": "https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU"
+    },
+    {
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC"
+      },
+      "artists": [
+        {
+          "name": "TwoPlusFour",
+          "url": "https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184855,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244339,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k"
+    },
+    {
+      "album": {
+        "name": "Matilda",
+        "url": "https://open.spotify.com/album/0XTCR8EFxyZoT3zBfOJRMR"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274012,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/0FsaTknAtvrXcf6qtJkOjI"
+    },
+    {
+      "album": {
+        "name": "Piano Portraits",
+        "url": "https://open.spotify.com/album/1Yo5LUdLUSn2fwNgYFEebf"
+      },
+      "artists": [
+        {
+          "name": "Rick Wakeman",
+          "url": "https://open.spotify.com/artist/0mkcYaXUbJUs5mJointuzB"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 221653,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/4TaDnIQ6UmD8BW07VCH0ie"
+    },
+    {
+      "album": {
+        "name": "Moves Like Jagger",
+        "url": "https://open.spotify.com/album/236GnBMmPj4RzbhhpADljT"
+      },
+      "artists": [
+        {
+          "name": "TwoPlusFour",
+          "url": "https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-05",
+      "duration_ms": 178726,
+      "name": "Moves Like Jagger",
+      "url": "https://open.spotify.com/track/4GI6DgHjcyThFVotaMepa4"
+    },
+    {
+      "album": {
+        "name": "My Gift Is My Song",
+        "url": "https://open.spotify.com/album/3bGTshvqxl7igqEbBuFlW4"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233947,
+      "name": "My Gift Is My Song (Single Edit): Your Song / Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/257EJQlyUhELc7VqoBqMcx"
+    },
+    {
+      "album": {
+        "name": "My Immortal",
+        "url": "https://open.spotify.com/album/5J79Wux3JlirmrDK495gJW"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260663,
+      "name": "My Immortal",
+      "url": "https://open.spotify.com/track/5NRN8rJsOhBO1ayH08EBRY"
+    },
+    {
+      "album": {
+        "name": "Epic",
+        "url": "https://open.spotify.com/album/6MTmVRcfXZS1Ri4yQT9Gv9"
+      },
+      "artists": [
+        {
+          "name": "Justin Paul",
+          "url": "https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic"
+        },
+        {
+          "name": "Jenny Oaks Baker",
+          "url": "https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb"
+        },
+        {
+          "name": "The Shadow Mountain Symphony",
+          "url": "https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 213286,
+      "name": "Never Enough (From \"The Greatest Showman\")",
+      "url": "https://open.spotify.com/track/3Lq1M8hjMMK5a2L0brZUsy"
+    },
+    {
+      "album": {
+        "name": "Epic",
+        "url": "https://open.spotify.com/album/6rsxJNPhDo0ABe5PYYk43u"
+      },
+      "artists": [
+        {
+          "name": "Justin Paul",
+          "url": "https://open.spotify.com/artist/1A2uplrPcSu6bqDaRp7Xs9"
+        },
+        {
+          "name": "Jenny Oaks Baker",
+          "url": "https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb"
+        },
+        {
+          "name": "The Shadow Mountain Symphony",
+          "url": "https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213286,
+      "name": "Never Enough (From \"The Greatest Showman\")",
+      "url": "https://open.spotify.com/track/3hz0FkSMzk9lvBqmYwiOIC"
+    },
+    {
+      "album": {
+        "name": "Our Flashback Wedding",
+        "url": "https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 234453,
+      "name": "Never Gonna Give You Up (feat. Simply Three)",
+      "url": "https://open.spotify.com/track/4TijaNZQchZj9E86WK5jSH"
+    },
+    {
+      "album": {
+        "name": "Nightcall (From \"Drive\")",
+        "url": "https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz"
+      },
+      "artists": [
+        {
+          "name": "Thibault Cauvin",
+          "url": "https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181146,
+      "name": "Nightcall - From \"Drive\"",
+      "url": "https://open.spotify.com/track/3BCe21LqWVOWWDfHjuoeeR"
+    },
+    {
+      "album": {
+        "name": "No Time to Die",
+        "url": "https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr"
+      },
+      "artists": [
+        {
+          "name": "Queenz of Piano",
+          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141970,
+      "name": "No Time to Die",
+      "url": "https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT"
+    },
+    {
+      "album": {
+        "name": "Bob Marley: No Woman, No Cry (Arr. Cello)",
+        "url": "https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146018,
+      "name": "No Woman, No Cry (Arr. Kanneh-Mason)",
+      "url": "https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe"
+    },
+    {
+      "album": {
+        "name": "Inquisition Symphony",
+        "url": "https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285533,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z"
+    },
+    {
+      "album": {
+        "name": "Inquisition Symphony",
+        "url": "https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285533,
+      "name": "Nothing Else Matters - Instrumental Version",
+      "url": "https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0"
+    },
+    {
+      "album": {
+        "name": "Numb (Piano Version)",
+        "url": "https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Numb - Piano Version",
+      "url": "https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP"
+    },
+    {
+      "album": {
+        "name": "ON",
+        "url": "https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 234493,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v"
+    },
+    {
+      "album": {
+        "name": "The Strings 'n' Things Album",
+        "url": "https://open.spotify.com/album/6gIUSFzJgnHeF2WjGZQuCW"
+      },
+      "artists": [
+        {
+          "name": "Power-Haus",
+          "url": "https://open.spotify.com/artist/1s71OiuXqJ8Catad9h0dlq"
+        },
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128216,
+      "name": "P.I.M.P",
+      "url": "https://open.spotify.com/track/3pc4KWkfyB9EUKi0JsTyRY"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Paint It Black",
+      "url": "https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE"
+      },
+      "artists": [
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2020, Vol. 2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "positions - Bonus Track",
+      "url": "https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty"
+    },
+    {
+      "album": {
+        "name": "Rainbow (Instrumental)",
+        "url": "https://open.spotify.com/album/2lvlAMsNnMMXhGqZY5ZIWB"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        },
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203727,
+      "name": "Rainbow - Instrumental",
+      "url": "https://open.spotify.com/track/77fsaToe6geS16GLiwBzlm"
+    },
+    {
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
+      },
+      "artists": [
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Remind U (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
+    },
+    {
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Retrograde (Arr. Rimmer / Maydew)",
+      "url": "https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 184440,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP"
+    },
+    {
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Run the World",
+      "url": "https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289648,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill (Violin)",
+        "url": "https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 246666,
+      "name": "Running Up That Hill - Violin",
+      "url": "https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears (arr. String quartet) [Inspired by 'Bridgerton']",
+        "url": "https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Save Your Tears (arr. string quartet) - Inspired by 'Bridgerton'",
+      "url": "https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184144,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE"
+    },
+    {
+      "album": {
+        "name": "Shake It Off (Originally Performed by Taylor Swift)",
+        "url": "https://open.spotify.com/album/4nUKrWBOAJ0jb4lVFkDej2"
+      },
+      "artists": [
+        {
+          "name": "Sean Redmond",
+          "url": "https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160496,
+      "name": "Shake It Off (Originally Performed by Taylor Swift)",
+      "url": "https://open.spotify.com/track/4gcQGnyJYyxlbTtO8Qx9Dy"
+    },
+    {
+      "album": {
+        "name": "Shake It Off (Originally Performed by Taylor Swift)",
+        "url": "https://open.spotify.com/album/6fsnME3JizGwIc7MgPwxNO"
+      },
+      "artists": [
+        {
+          "name": "Sean Redmond",
+          "url": "https://open.spotify.com/artist/23DhHJzAZA8q1WUa52UySA"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Shake It Off (Originally Performed by Taylor Swift)",
+      "url": "https://open.spotify.com/track/5lZKq1z5jpVu7ha6zklvXS"
+    },
+    {
+      "album": {
+        "name": "Shallow (Piano Version)",
+        "url": "https://open.spotify.com/album/0VmNjm95rxyjhzwJiT3bhE"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258531,
+      "name": "Shallow - Piano Version",
+      "url": "https://open.spotify.com/track/2TVtbMZR9r2nxI7XAnhxbF"
+    },
+    {
+      "album": {
+        "name": "Shallow Day",
+        "url": "https://open.spotify.com/album/2vUmVYXtbMq8JaUEw4QR0Y"
+      },
+      "artists": [
+        {
+          "name": "Dan Evmark",
+          "url": "https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258531,
+      "name": "Shallow Day",
+      "url": "https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa"
+    },
+    {
+      "album": {
+        "name": "Shape of My Heart",
+        "url": "https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj"
+      },
+      "artists": [
+        {
+          "name": "Michael Logozar",
+          "url": "https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344703,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are"
+    },
+    {
+      "album": {
+        "name": "Shivers (Piano Version)",
+        "url": "https://open.spotify.com/album/34ktTFpOFuZRQtfoW56aAj"
+      },
+      "artists": [
+        {
+          "name": "Flying Fingers",
+          "url": "https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195517,
+      "name": "Shivers - Piano Version",
+      "url": "https://open.spotify.com/track/3EfJK2rJtMjGZoIdBrFqh6"
+    },
+    {
+      "album": {
+        "name": "Simply The Best (arr. piano)",
+        "url": "https://open.spotify.com/album/1xZviTqam23dfVpt6eccS4"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 174514,
+      "name": "Simply The Best (arr. piano)",
+      "url": "https://open.spotify.com/track/5kYIZfn2qQbZHokroBDYxB"
+    },
+    {
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/5ekaL7idjwFklKpUPZqChX"
+      },
+      "artists": [
+        {
+          "name": "Queenz of Piano",
+          "url": "https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227153,
+      "name": "Smells Like Teen Spirit - Piano Cover",
+      "url": "https://open.spotify.com/track/6fvqtnABaU0svCjVTg7oSk"
+    },
+    {
+      "album": {
+        "name": "What Just Happened?",
+        "url": "https://open.spotify.com/album/0tc53fBUv9MTYjhqFOIeWH"
+      },
+      "artists": [
+        {
+          "name": "Mike Dawes",
+          "url": "https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/4RF3cNvUyTDYiuj1Xw4XWs"
+    },
+    {
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/6ueqbqheTXOv1vkf0KUWZT"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203146,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/0PiNYPMkmHxtDS0EZKK35X"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This / Hungarian Rhapsody",
+        "url": "https://open.spotify.com/album/1F1IX4M5peq9lduLhUriXu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Guy Berryman",
+          "url": "https://open.spotify.com/artist/2R0YxXQyGLURmOrY26P1kZ"
+        },
+        {
+          "name": "Jonathan Buckland",
+          "url": "https://open.spotify.com/artist/6ZK1R7WvOURjOviPQkVJEm"
+        },
+        {
+          "name": "William Champion",
+          "url": "https://open.spotify.com/artist/2DXdrllW1KAUjT9KJsB9NH"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/5esOg4joS5bpE6xBsMLcBi"
+        },
+        {
+          "name": "Andrew Taggart",
+          "url": "https://open.spotify.com/artist/0fztDa29WvYXWSGqU2kLEF"
+        },
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233841,
+      "name": "Something Just Like This / Hungarian Rhapsody",
+      "url": "https://open.spotify.com/track/7tPETW7bPcWw0IpTkeo150"
+    },
+    {
+      "album": {
+        "name": "Song 2 (Woo Hoo)",
+        "url": "https://open.spotify.com/album/6Hb2alu2sB62badqv0pC1F"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 115682,
+      "name": "Song 2 (Woo Hoo)",
+      "url": "https://open.spotify.com/track/1AftiFHwqBqCwlVinYwPmK"
+    },
+    {
+      "album": {
+        "name": "Sour Times",
+        "url": "https://open.spotify.com/album/2qOwHnB9gPok5Bp5qLtBef"
+      },
+      "artists": [
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 197586,
+      "name": "Sour Times (arr. Metcalfe, Assad)",
+      "url": "https://open.spotify.com/track/7hK2z7ph7UHY5kcY0qeBUT"
+    },
+    {
+      "album": {
+        "name": "Space Oddity",
+        "url": "https://open.spotify.com/album/2hAI9RiMftw5OiaLNOdhhm"
+      },
+      "artists": [
+        {
+          "name": "Metropole Orkest Cellos",
+          "url": "https://open.spotify.com/artist/6wyZZfsz3SxmQZCFA7Tsh1"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 395721,
+      "name": "Space Oddity",
+      "url": "https://open.spotify.com/track/2BZkZHf4HRzWQtQQefZIRm"
+    },
+    {
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/6PgAziFSFpBCXwuoHW7LhT"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        },
+        {
+          "name": "Jerry Leiber",
+          "url": "https://open.spotify.com/artist/3oL5CpaC5cBSVmERMXuV7d"
+        },
+        {
+          "name": "Mike Stoller",
+          "url": "https://open.spotify.com/artist/1wsgQOJMWtqd2GF0sGSRUm"
+        },
+        {
+          "name": "Zachary Reaves",
+          "url": "https://open.spotify.com/artist/3PvJOPfvRASwmEQTvNxEdK"
+        },
+        {
+          "name": "Altius Quartet",
+          "url": "https://open.spotify.com/artist/2LLcwkbqzJrcotABcvnktN"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 174819,
+      "name": "Stand by Me (Arr. Z. Reaves for String Quartet)",
+      "url": "https://open.spotify.com/track/4RlXEaBtwr5yLWKoR5XbAF"
+    },
+    {
+      "album": {
+        "name": "Stay with Me (Piano Version)",
+        "url": "https://open.spotify.com/album/2MnSnUp1uwPOJTarD1hZoW"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Stay with Me - Piano Version",
+      "url": "https://open.spotify.com/track/2pR4qxDdRpHfQduAg1NDS1"
+    },
+    {
+      "album": {
+        "name": "Fuzzbox",
+        "url": "https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc"
+      },
+      "artists": [
+        {
+          "name": "The Section Quartet",
+          "url": "https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278400,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1"
+    },
+    {
+      "album": {
+        "name": "Fuzzbox",
+        "url": "https://open.spotify.com/album/6obah2tloYKurr25coxtTm"
+      },
+      "artists": [
+        {
+          "name": "The Section Quartet",
+          "url": "https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ"
+    },
+    {
+      "album": {
+        "name": "Take No Prisoners",
+        "url": "https://open.spotify.com/album/1P5EHnwDFWD1dH1cl5JxI1"
+      },
+      "artists": [
+        {
+          "name": "The Hampton String Quartet",
+          "url": "https://open.spotify.com/artist/6znv7r79kszSnESrTp05nc"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246804,
+      "name": "Sweet Dream are Made of This",
+      "url": "https://open.spotify.com/track/3IoqMnXkCRPWcEGr0C5S9e"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/4zXRI1N7np71w5xqGmP0on"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/3hWJYwHivHN8TTNS4AAaCO"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ"
+      },
+      "artists": [
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250600,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6"
+    },
+    {
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17"
+      },
+      "artists": [
+        {
+          "name": "Aston",
+          "url": "https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225566,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S"
+    },
+    {
+      "album": {
+        "name": "Thinking Out Loud",
+        "url": "https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 232636,
+      "name": "Thinking Out Loud",
+      "url": "https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232636,
+      "name": "Thinking Out Loud",
+      "url": "https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4"
+    },
+    {
+      "album": {
+        "name": "Electric Air",
+        "url": "https://open.spotify.com/album/1NclbYhtOpfC89I4tGhme2"
+      },
+      "artists": [
+        {
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226622,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL"
+    },
+    {
+      "album": {
+        "name": "Electric Air",
+        "url": "https://open.spotify.com/album/6G1BNEaFS6wJ1dPB5qMY4h"
+      },
+      "artists": [
+        {
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 226626,
+      "name": "Titanium - David Guetta",
+      "url": "https://open.spotify.com/track/4X54FzF8cMJVMdMTpg79zE"
+    },
+    {
+      "album": {
+        "name": "Total Eclipse of the Heart (feat. Simply Three)",
+        "url": "https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 273426,
+      "name": "Total Eclipse of the Heart (feat. Simply Three)",
+      "url": "https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS"
+    },
+    {
+      "album": {
+        "name": "Traitor (Arr. for String Quartet / Inspired by Bridgerton)",
+        "url": "https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Traitor - Arr. for String Quartet / Inspired by Bridgerton",
+      "url": "https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU"
+    },
+    {
+      "album": {
+        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
+        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 222466,
+      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
+      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
+    },
+    {
+      "album": {
+        "name": "Un-break My Heart (arr. piano)",
+        "url": "https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 163268,
+      "name": "Un-break My Heart (arr. piano)",
+      "url": "https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 189453,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/5COQiZO96OTpgWPLOglz4N"
+    },
+    {
+      "album": {
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/2rs0qLNt0Z1itHycvLZfDE"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221612,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/5y4aQFRElzXJCJi0T6ol6C"
+    },
+    {
+      "album": {
+        "name": "Waiting on the World to Change (Instrumental)",
+        "url": "https://open.spotify.com/album/1qd3fl7QXEqFFA5FoMm7pk"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        },
+        {
+          "name": "Lance Allen",
+          "url": "https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186326,
+      "name": "Waiting on the World to Change - Instrumental",
+      "url": "https://open.spotify.com/track/4DOZYZ45UAwfx6CTuvIF2d"
+    },
+    {
+      "album": {
+        "name": "Watermelon Sugar",
+        "url": "https://open.spotify.com/album/25ejJm7KpguIh1zBc3q7ev"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 175934,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/3vZ5bB1uAQQsG6N78BvaIJ"
+    },
+    {
+      "album": {
+        "name": "Who Wants to Live Forever: Queen on a Steinway",
+        "url": "https://open.spotify.com/album/2VH1mSWHCYUqQMRsD3FazF"
+      },
+      "artists": [
+        {
+          "name": "Freddie Mercury",
+          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
+        },
+        {
+          "name": "Simon Mulligan",
+          "url": "https://open.spotify.com/artist/6HOM0TW25PhhjMXcif7xQw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-14",
+      "duration_ms": 181160,
+      "name": "We Are the Champions (Arr. S. Mulligan for Piano)",
+      "url": "https://open.spotify.com/track/3w2R0fwS0APnP1hKPNI2kB"
+    },
+    {
+      "album": {
+        "name": "In2ition",
+        "url": "https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D"
+      },
+      "artists": [
+        {
+          "name": "2CELLOS",
+          "url": "https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9"
+    },
+    {
+      "album": {
+        "name": "Wellerman (arr. piano)",
+        "url": "https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121775,
+      "name": "Wellerman (arr. piano)",
+      "url": "https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc"
+    },
+    {
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/36jRbgc6JEZPQhwBxBoKFJ"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0wgYA6SSrBSI9Egd3a5DBH"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291213,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? (Piano Version)",
+        "url": "https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Piano Covers",
+          "url": "https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223023,
+      "name": "What Was I Made For? - Piano Version",
+      "url": "https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0"
+    },
+    {
+      "album": {
+        "name": "when the party\u2019s over",
+        "url": "https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T"
+      },
+      "artists": [
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208663,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/1hsrPDPkjpeHlI6Tf5tALg"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/3lIwgE7hC7X6kbRH3zKYsv"
+    },
+    {
+      "album": {
+        "name": "Asphalt Orchestra Plays Pixies: Surfer Rosa",
+        "url": "https://open.spotify.com/album/0WReoZTH1Tsrf6uul92LCV"
+      },
+      "artists": [
+        {
+          "name": "Asphalt Orchestra",
+          "url": "https://open.spotify.com/artist/3j5J0E4sG4HOzPasFjB51f"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-05",
+      "duration_ms": 235171,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/06gXdKwutegGzRSKX4lOa4"
+    },
+    {
+      "album": {
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP"
+    },
+    {
+      "album": {
+        "name": "Wrecking ball (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Wrecking Ball - Solo Piano Version",
+      "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
+    },
+    {
+      "album": {
+        "name": "Yesterday Once More",
+        "url": "https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n"
+      },
+      "artists": [
+        {
+          "name": "Richard Carpenter",
+          "url": "https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200588,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc"
+    },
+    {
+      "album": {
+        "name": "You Are The Reason",
+        "url": "https://open.spotify.com/album/2lCk8Gp0JgIAsqAqDNIGyi"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Duo",
+          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/4o7NgKeVcNZeyGR27FOtPs"
+    },
+    {
+      "album": {
+        "name": "Bridgerton Season Two (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
+      },
+      "artists": [
+        {
+          "name": "Duomo",
+          "url": "https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR"
+        },
+        {
+          "name": "Tom\u00e1s Peire-Serrate",
+          "url": "https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167609,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1"
 }

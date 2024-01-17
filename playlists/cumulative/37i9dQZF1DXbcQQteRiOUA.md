@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:2C0q6kKsOqXe490AYXubeA">Dish Dash</a>'s favorite tracks\. Updated regularly\. Curated by Dish Dash\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 5 hr 23 min
+58 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-06 |  |
-| [1998 \- Whitesquare Remix](https://open.spotify.com/track/2j4LVBnKBM4umlgz4sWXpi) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:55 | 2023-03-01 |  |
+| [1998 \(Whitesquare Remix\)](https://open.spotify.com/track/09igOiyfEIc7cWKNWTgdZ4) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Unity Pt\. 3](https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9) | 4:55 | 2023-03-01 |  |
+| [1998 \- Whitesquare Remix](https://open.spotify.com/track/2j4LVBnKBM4umlgz4sWXpi) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 4:55 | 2023-03-01 | 2024-01-05 |
 | [909303](https://open.spotify.com/track/7ifF8u2Bfok8AMb84lk8Hn) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [909303](https://open.spotify.com/album/6nYPEF5IKiUUGjzd7lyBfW) | 4:00 | 2023-07-06 |  |
 | [Acid Afternoon](https://open.spotify.com/track/1JYz5SuQGNpunPcPflQJ0R) | [Giza Djs](https://open.spotify.com/artist/1qdcEzD1e7TMb4w33aO6R8) | [Acid Afternoon](https://open.spotify.com/album/6TafiwV75aajdIagA8oHpZ) | 6:42 | 2023-03-01 |  |
 | [Carte Blanche \- Alternative Dub Version](https://open.spotify.com/track/47EQgnnkKHkLh6igAw5bmD) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Carte Blanche](https://open.spotify.com/album/2OC1mqKWM8vMUAe8rZpQCU) | 5:03 | 2023-03-01 |  |
@@ -51,8 +52,10 @@
 | [The Attention Deficit Track \- Terrace Mix](https://open.spotify.com/track/5dW1cobAwlDjLGIOjPkdeU) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB) | [The Attention Deficit Track](https://open.spotify.com/album/20PFDRbltmy3mHCn7vPl2Y) | 6:14 | 2023-03-01 | 2023-11-11 |
 | [The Beach \- Bonus Track](https://open.spotify.com/track/0FCUZdyI2UvVscNAnKHopR) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 4:41 | 2023-03-01 |  |
 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 | 2023-03-01 |  |
-| [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2023-03-01 |  |
-| [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2023-03-01 |  |
+| [The Feeling \(2022 Remaster\)](https://open.spotify.com/track/1unXvavR2QS22taOlliPeI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/2qIcJiNHC3TOROP79PFEYm) | 6:08 | 2023-03-01 |  |
+| [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2023-03-01 | 2024-01-06 |
+| [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 | 2023-03-01 | 2024-01-05 |
+| [The Mirage](https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV) | 6:11 | 2023-03-01 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-07-06 |  |
 | [The Trip](https://open.spotify.com/track/31zTeINz22W9ttYsWqnng1) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Trip EP](https://open.spotify.com/album/4lOu7x8uCibHI6GQamIOe9) | 7:28 | 2023-03-01 |  |
 | [Tonight](https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Lost & Found EP Vol\. 1](https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg) | 7:20 | 2023-03-01 |  |

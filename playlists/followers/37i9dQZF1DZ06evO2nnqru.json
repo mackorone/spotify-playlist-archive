@@ -1,577 +1,1603 @@
 {
-  "2022-06-02": 106691,
-  "2022-06-03": 106770,
-  "2022-06-04": 106847,
-  "2022-06-05": 106959,
-  "2022-06-06": 107042,
-  "2022-06-07": 107129,
-  "2022-06-08": 107232,
-  "2022-06-09": 107277,
-  "2022-06-10": 107364,
-  "2022-06-11": 107458,
-  "2022-06-12": 107521,
-  "2022-06-13": 107615,
-  "2022-06-14": 107698,
-  "2022-06-15": 107761,
-  "2022-06-16": 107846,
-  "2022-06-17": 107942,
-  "2022-06-18": 108074,
-  "2022-06-19": 108290,
-  "2022-06-20": 108290,
-  "2022-06-21": 108380,
-  "2022-06-22": 108603,
-  "2022-06-23": 108603,
-  "2022-06-24": 108683,
-  "2022-06-25": 108804,
-  "2022-06-26": 108909,
-  "2022-06-27": 109006,
-  "2022-06-28": 109076,
-  "2022-06-29": 109189,
-  "2022-06-30": 109338,
-  "2022-07-01": 109467,
-  "2022-07-02": 109550,
-  "2022-07-03": 109633,
-  "2022-07-04": 109713,
-  "2022-07-05": 109713,
-  "2022-07-06": 109713,
-  "2022-07-07": 109967,
-  "2022-07-08": 110069,
-  "2022-07-09": 110173,
-  "2022-07-10": 110275,
-  "2022-07-11": 110356,
-  "2022-07-12": 110418,
-  "2022-07-13": 110487,
-  "2022-07-14": 110577,
-  "2022-07-15": 110669,
-  "2022-07-16": 110753,
-  "2022-07-17": 110853,
-  "2022-07-18": 110926,
-  "2022-07-19": 111012,
-  "2022-07-20": 111080,
-  "2022-07-21": 111172,
-  "2022-07-22": 111260,
-  "2022-07-23": 111354,
-  "2022-07-24": 111450,
-  "2022-07-25": 111528,
-  "2022-07-26": 111601,
-  "2022-07-27": 111669,
-  "2022-07-28": 111741,
-  "2022-07-29": 111809,
-  "2022-07-30": 111975,
-  "2022-07-31": 111975,
-  "2022-08-01": 112040,
-  "2022-08-02": 112198,
-  "2022-08-03": 112198,
-  "2022-08-04": 112291,
-  "2022-08-05": 112398,
-  "2022-08-06": 112527,
-  "2022-08-07": 112618,
-  "2022-08-08": 112690,
-  "2022-08-09": 112753,
-  "2022-08-10": 112855,
-  "2022-08-11": 112918,
-  "2022-08-12": 113020,
-  "2022-08-13": 113107,
-  "2022-08-14": 113218,
-  "2022-08-15": 113301,
-  "2022-08-16": 113387,
-  "2022-08-17": 113469,
-  "2022-08-18": 113555,
-  "2022-08-19": 113629,
-  "2022-08-20": 113705,
-  "2022-08-21": 113783,
-  "2022-08-22": 113865,
-  "2022-08-23": 113936,
-  "2022-08-24": 114001,
-  "2022-08-25": 114102,
-  "2022-08-26": 114182,
-  "2022-08-27": 114264,
-  "2022-08-28": 114348,
-  "2022-08-29": 114422,
-  "2022-08-30": 114488,
-  "2022-08-31": 114553,
-  "2022-09-01": 114656,
-  "2022-09-02": 114737,
-  "2022-09-03": 114820,
-  "2022-09-04": 114902,
-  "2022-09-05": 115001,
-  "2022-09-06": 115055,
-  "2022-09-07": 115130,
-  "2022-09-09": 115314,
-  "2022-09-10": 115409,
-  "2022-09-11": 115479,
-  "2022-09-12": 115539,
-  "2022-09-13": 115623,
-  "2022-09-15": 115769,
-  "2022-09-16": 115866,
-  "2022-09-17": 115937,
-  "2022-09-18": 116029,
-  "2022-09-19": 116089,
-  "2022-09-20": 116148,
-  "2022-09-21": 116240,
-  "2022-09-22": 116324,
-  "2022-09-23": 116394,
-  "2022-09-24": 116394,
-  "2022-09-25": 116532,
-  "2022-09-26": 116618,
-  "2022-09-27": 116697,
-  "2022-09-28": 116798,
-  "2022-09-29": 116855,
-  "2022-09-30": 116940,
-  "2022-10-01": 117039,
-  "2022-10-02": 117108,
-  "2022-10-03": 117172,
-  "2022-10-04": 117236,
-  "2022-10-05": 117341,
-  "2022-10-06": 117411,
-  "2022-10-07": 117494,
-  "2022-10-08": 117561,
-  "2022-10-09": 117675,
-  "2022-10-10": 117701,
-  "2022-10-11": 117773,
-  "2022-10-12": 117855,
-  "2022-10-13": 117931,
-  "2022-10-14": 118057,
-  "2022-10-15": 118155,
-  "2022-10-16": 118243,
-  "2022-10-17": 118328,
-  "2022-10-18": 118426,
-  "2022-10-19": 118562,
-  "2022-10-20": 118670,
-  "2022-10-21": 118786,
-  "2022-10-22": 118887,
-  "2022-10-23": 118974,
-  "2022-10-24": 119060,
-  "2022-10-25": 119150,
-  "2022-10-26": 119234,
-  "2022-10-27": 119324,
-  "2022-10-28": 119416,
-  "2022-10-29": 119506,
-  "2022-10-30": 119586,
-  "2022-10-31": 119655,
-  "2022-11-01": 119732,
-  "2022-11-02": 119797,
-  "2022-11-03": 119860,
-  "2022-11-04": 119923,
-  "2022-11-05": 120032,
-  "2022-11-06": 120120,
-  "2022-11-07": 120236,
-  "2022-11-08": 120323,
-  "2022-11-09": 120412,
-  "2022-11-10": 120496,
-  "2022-11-11": 120598,
-  "2022-11-12": 120692,
-  "2022-11-13": 120774,
-  "2022-11-14": 120847,
-  "2022-11-15": 120920,
-  "2022-11-16": 120989,
-  "2022-11-17": 121059,
-  "2022-11-18": 121086,
-  "2022-11-19": 121106,
-  "2022-11-20": 121182,
-  "2022-11-21": 121254,
-  "2022-11-22": 121333,
-  "2022-11-23": 121404,
-  "2022-11-24": 121525,
-  "2022-11-25": 121652,
-  "2022-11-26": 121742,
-  "2022-11-27": 121811,
-  "2022-11-28": 121884,
-  "2022-11-29": 121928,
-  "2022-11-30": 121999,
-  "2022-12-01": 122073,
-  "2022-12-02": 122117,
-  "2022-12-03": 122230,
-  "2022-12-04": 122348,
-  "2022-12-05": 122449,
-  "2022-12-06": 122513,
-  "2022-12-07": 122595,
-  "2022-12-08": 122674,
-  "2022-12-09": 122756,
-  "2022-12-10": 122815,
-  "2022-12-11": 122893,
-  "2022-12-12": 122948,
-  "2022-12-13": 123009,
-  "2022-12-14": 123071,
-  "2022-12-15": 123155,
-  "2022-12-16": 123221,
-  "2022-12-17": 123287,
-  "2022-12-18": 123355,
-  "2022-12-19": 123403,
-  "2022-12-20": 123507,
-  "2022-12-21": 123507,
-  "2022-12-22": 123574,
-  "2022-12-24": 123671,
-  "2022-12-25": 123736,
-  "2022-12-26": 123793,
-  "2022-12-27": 123827,
-  "2022-12-28": 123881,
-  "2022-12-29": 123951,
-  "2022-12-30": 124036,
-  "2022-12-31": 124121,
-  "2023-01-01": 124189,
-  "2023-01-02": 124260,
-  "2023-01-03": 124310,
-  "2023-01-04": 124371,
-  "2023-01-05": 124419,
-  "2023-01-06": 124487,
-  "2023-01-07": 124581,
-  "2023-01-08": 124605,
-  "2023-01-09": 124668,
-  "2023-01-10": 124720,
-  "2023-01-11": 124790,
-  "2023-01-12": 124861,
-  "2023-01-13": 124922,
-  "2023-01-14": 125003,
-  "2023-01-15": 125016,
-  "2023-01-16": 125084,
-  "2023-01-17": 125122,
-  "2023-01-18": 125166,
-  "2023-01-19": 125208,
-  "2023-01-20": 125255,
-  "2023-01-21": 125314,
-  "2023-01-22": 125385,
-  "2023-01-23": 125442,
-  "2023-01-24": 125476,
-  "2023-01-25": 125536,
-  "2023-01-26": 125602,
-  "2023-01-27": 125654,
-  "2023-01-28": 125712,
-  "2023-01-29": 125760,
-  "2023-01-30": 125813,
-  "2023-01-31": 125813,
-  "2023-02-01": 125909,
-  "2023-02-02": 125951,
-  "2023-02-03": 126008,
-  "2023-02-04": 126070,
-  "2023-02-05": 126144,
-  "2023-02-06": 126195,
-  "2023-02-07": 126239,
-  "2023-02-08": 126336,
-  "2023-02-09": 126336,
-  "2023-02-10": 126408,
-  "2023-02-11": 126461,
-  "2023-02-12": 126575,
-  "2023-02-13": 126614,
-  "2023-02-14": 126614,
-  "2023-02-15": 126659,
-  "2023-02-16": 126727,
-  "2023-02-17": 126761,
-  "2023-02-18": 126867,
-  "2023-02-19": 126882,
-  "2023-02-20": 126901,
-  "2023-02-21": 126962,
-  "2023-02-22": 127015,
-  "2023-02-23": 127055,
-  "2023-02-24": 127116,
-  "2023-02-25": 127180,
-  "2023-02-26": 127222,
-  "2023-02-27": 127311,
-  "2023-02-28": 127311,
-  "2023-03-01": 127362,
-  "2023-03-02": 127395,
-  "2023-03-03": 127472,
-  "2023-03-04": 127525,
-  "2023-03-05": 127641,
-  "2023-03-06": 127641,
-  "2023-03-07": 127692,
-  "2023-03-08": 127757,
-  "2023-03-09": 127873,
-  "2023-03-10": 127956,
-  "2023-03-11": 128041,
-  "2023-03-12": 128089,
-  "2023-03-13": 128159,
-  "2023-03-14": 128244,
-  "2023-03-15": 128296,
-  "2023-03-16": 128296,
-  "2023-03-17": 128296,
-  "2023-03-18": 128474,
-  "2023-03-19": 128474,
-  "2023-03-20": 128586,
-  "2023-03-21": 128632,
-  "2023-03-22": 128662,
-  "2023-03-23": 128716,
-  "2023-03-24": 128716,
-  "2023-03-25": 128819,
-  "2023-03-26": 128861,
-  "2023-03-27": 128912,
-  "2023-03-28": 128972,
-  "2023-03-29": 129044,
-  "2023-03-30": 129189,
-  "2023-03-31": 129189,
-  "2023-04-01": 129283,
-  "2023-04-02": 129354,
-  "2023-04-03": 129401,
-  "2023-04-04": 129474,
-  "2023-04-05": 129531,
-  "2023-04-06": 129598,
-  "2023-04-07": 129662,
-  "2023-04-09": 129773,
-  "2023-04-10": 129829,
-  "2023-04-11": 129922,
-  "2023-04-12": 129922,
-  "2023-04-13": 129998,
-  "2023-04-14": 130045,
-  "2023-04-15": 130112,
-  "2023-04-16": 130192,
-  "2023-04-17": 130260,
-  "2023-04-18": 130312,
-  "2023-04-19": 130372,
-  "2023-04-20": 130407,
-  "2023-04-21": 130481,
-  "2023-04-22": 130566,
-  "2023-04-23": 130621,
-  "2023-04-24": 130684,
-  "2023-04-25": 130723,
-  "2023-04-26": 130825,
-  "2023-04-27": 130925,
-  "2023-04-28": 131033,
-  "2023-04-29": 131081,
-  "2023-04-30": 131156,
-  "2023-05-01": 131200,
-  "2023-05-02": 131245,
-  "2023-05-03": 131308,
-  "2023-05-04": 131368,
-  "2023-05-05": 131429,
-  "2023-05-06": 131496,
-  "2023-05-07": 131565,
-  "2023-05-08": 131612,
-  "2023-05-09": 131658,
-  "2023-05-10": 131695,
-  "2023-05-11": 131736,
-  "2023-05-12": 131796,
-  "2023-05-13": 131840,
-  "2023-05-14": 131864,
-  "2023-05-15": 131894,
-  "2023-05-16": 131937,
-  "2023-05-17": 131982,
-  "2023-05-18": 132024,
-  "2023-05-19": 132070,
-  "2023-05-20": 132170,
-  "2023-05-21": 132170,
-  "2023-05-22": 132170,
-  "2023-05-23": 132256,
-  "2023-05-24": 132332,
-  "2023-05-25": 132349,
-  "2023-05-26": 132414,
-  "2023-05-27": 132458,
-  "2023-05-28": 132512,
-  "2023-05-29": 132512,
-  "2023-05-30": 132583,
-  "2023-05-31": 132622,
-  "2023-06-01": 132670,
-  "2023-06-02": 132732,
-  "2023-06-03": 132789,
-  "2023-06-04": 132844,
-  "2023-06-05": 132884,
-  "2023-06-06": 132926,
-  "2023-06-07": 132959,
-  "2023-06-08": 133014,
-  "2023-06-09": 133056,
-  "2023-06-10": 133131,
-  "2023-06-11": 133191,
-  "2023-06-12": 133244,
-  "2023-06-13": 133284,
-  "2023-06-14": 133315,
-  "2023-06-15": 133368,
-  "2023-06-16": 133409,
-  "2023-06-17": 133457,
-  "2023-06-18": 133517,
-  "2023-06-19": 133554,
-  "2023-06-20": 133590,
-  "2023-06-21": 133643,
-  "2023-06-22": 133691,
-  "2023-06-23": 133751,
-  "2023-06-24": 133791,
-  "2023-06-25": 133829,
-  "2023-06-26": 133873,
-  "2023-06-27": 133899,
-  "2023-06-28": 133943,
-  "2023-06-29": 133970,
-  "2023-06-30": 134015,
-  "2023-07-01": 134104,
-  "2023-07-02": 134104,
-  "2023-07-03": 134149,
-  "2023-07-04": 134210,
-  "2023-07-05": 134236,
-  "2023-07-06": 134323,
-  "2023-07-07": 134323,
-  "2023-07-08": 134323,
-  "2023-07-09": 134419,
-  "2023-07-10": 134463,
-  "2023-07-11": 134506,
-  "2023-07-12": 134544,
-  "2023-07-13": 134606,
-  "2023-07-14": 134643,
-  "2023-07-15": 134673,
-  "2023-07-16": 134738,
-  "2023-07-17": 134781,
-  "2023-07-18": 134841,
-  "2023-07-19": 134893,
-  "2023-07-20": 134939,
-  "2023-07-21": 134989,
-  "2023-07-22": 135040,
-  "2023-07-23": 135111,
-  "2023-07-24": 135148,
-  "2023-07-25": 135192,
-  "2023-07-26": 135225,
-  "2023-07-27": 135260,
-  "2023-07-28": 135299,
-  "2023-07-29": 135345,
-  "2023-07-30": 135385,
-  "2023-07-31": 135413,
-  "2023-08-01": 135463,
-  "2023-08-02": 135519,
-  "2023-08-03": 135582,
-  "2023-08-04": 135639,
-  "2023-08-05": 135677,
-  "2023-08-06": 135783,
-  "2023-08-07": 135783,
-  "2023-08-08": 135823,
-  "2023-08-09": 135888,
-  "2023-08-10": 135943,
-  "2023-08-11": 136005,
-  "2023-08-12": 136005,
-  "2023-08-13": 136005,
-  "2023-08-14": 136175,
-  "2023-08-15": 136175,
-  "2023-08-16": 136175,
-  "2023-08-17": 136175,
-  "2023-08-18": 136175,
-  "2023-08-19": 136175,
-  "2023-08-20": 136477,
-  "2023-08-21": 136477,
-  "2023-08-22": 136580,
-  "2023-08-23": 136580,
-  "2023-08-24": 136580,
-  "2023-08-25": 136580,
-  "2023-08-26": 136894,
-  "2023-08-27": 136894,
-  "2023-08-28": 137030,
-  "2023-08-29": 137030,
-  "2023-08-30": 137030,
-  "2023-08-31": 137192,
-  "2023-09-01": 137263,
-  "2023-09-02": 137263,
-  "2023-09-03": 137263,
-  "2023-09-04": 137263,
-  "2023-09-05": 137263,
-  "2023-09-06": 137263,
-  "2023-09-07": 137263,
-  "2023-09-08": 137263,
-  "2023-09-09": 137263,
-  "2023-09-10": 137263,
-  "2023-09-11": 137263,
-  "2023-09-12": 137263,
-  "2023-09-13": 137263,
-  "2023-09-14": 137263,
-  "2023-09-15": 137263,
-  "2023-09-16": 138536,
-  "2023-09-17": 138536,
-  "2023-09-18": 138536,
-  "2023-09-19": 138737,
-  "2023-09-20": 138737,
-  "2023-09-21": 138737,
-  "2023-09-22": 138978,
-  "2023-09-23": 138978,
-  "2023-09-24": 138978,
-  "2023-09-25": 138978,
-  "2023-09-26": 139265,
-  "2023-09-27": 139265,
-  "2023-09-28": 139265,
-  "2023-09-29": 139265,
-  "2023-09-30": 139265,
-  "2023-10-01": 139265,
-  "2023-10-02": 139265,
-  "2023-10-03": 139265,
-  "2023-10-04": 139265,
-  "2023-10-05": 139265,
-  "2023-10-06": 139265,
-  "2023-10-07": 139265,
-  "2023-10-08": 139265,
-  "2023-10-09": 139265,
-  "2023-10-10": 139265,
-  "2023-10-11": 140086,
-  "2023-10-12": 140086,
-  "2023-10-13": 140086,
-  "2023-10-14": 140086,
-  "2023-10-15": 140086,
-  "2023-10-16": 140086,
-  "2023-10-17": 140086,
-  "2023-10-18": 140086,
-  "2023-10-19": 140086,
-  "2023-10-20": 140086,
-  "2023-10-21": 140086,
-  "2023-10-22": 140086,
-  "2023-10-23": 140086,
-  "2023-10-24": 140086,
-  "2023-10-25": 140086,
-  "2023-10-26": 140086,
-  "2023-10-27": 140086,
-  "2023-10-28": 140086,
-  "2023-10-29": 140086,
-  "2023-10-30": 140086,
-  "2023-10-31": 140086,
-  "2023-11-01": 140086,
-  "2023-11-02": 140086,
-  "2023-11-03": 140086,
-  "2023-11-04": 140086,
-  "2023-11-05": 140086,
-  "2023-11-06": 140086,
-  "2023-11-07": 140086,
-  "2023-11-08": 140086,
-  "2023-11-09": 140086,
-  "2023-11-10": 140086,
-  "2023-11-11": 141572,
-  "2023-11-12": 141572,
-  "2023-11-13": 141572,
-  "2023-11-14": 141572,
-  "2023-11-15": 141572,
-  "2023-11-16": 141572,
-  "2023-11-17": 141572,
-  "2023-11-18": 141572,
-  "2023-11-19": 141572,
-  "2023-11-20": 141572,
-  "2023-11-21": 141572,
-  "2023-11-22": 141572,
-  "2023-11-23": 141572,
-  "2023-11-24": 141572,
-  "2023-11-25": 141572,
-  "2023-11-26": 141572,
-  "2023-11-27": 141572,
-  "2023-11-28": 141572,
-  "2023-11-29": 141572,
-  "2023-11-30": 141572,
-  "2023-12-01": 141572,
-  "2023-12-02": 141572,
-  "2023-12-03": 141572,
-  "2023-12-04": 141572,
-  "2023-12-05": 141572,
-  "2023-12-06": 141572,
-  "2023-12-07": 141572,
-  "2023-12-08": 141572,
-  "2023-12-09": 141572,
-  "2023-12-10": 141572,
-  "2023-12-11": 141572,
-  "2023-12-12": 141572,
-  "2023-12-13": 141572,
-  "2023-12-14": 142987,
-  "2023-12-15": 143007,
-  "2023-12-16": 143042,
-  "2023-12-17": 143083,
-  "2023-12-18": 143103,
-  "2023-12-19": 143134,
-  "2023-12-20": 143174,
-  "2023-12-21": 143223,
-  "2023-12-22": 143249,
-  "2023-12-23": 143276,
-  "2023-12-24": 143312,
-  "2023-12-25": 143333,
-  "2023-12-26": 143363,
-  "2023-12-27": 143381,
-  "2023-12-30": 143466,
-  "2023-12-31": 143508,
-  "2024-01-01": 143558,
-  "2024-01-02": 143585,
-  "2024-01-03": 143614
+  "2024-01-17": 143984,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Marca MP. The essential tracks, all in one playlist.",
+  "name": "This Is Marca MP",
+  "tracks": [
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185568,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3JNUs18dkIO6sNRSdCaMKd"
+    },
+    {
+      "album": {
+        "name": "A Lo Que Sigue",
+        "url": "https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "A Lo Que Sigue",
+      "url": "https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 187943,
+      "name": "A Mis Enemigos - En vivo",
+      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
+    },
+    {
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175031,
+      "name": "Ac\u00e1 en Guanajuato",
+      "url": "https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-30",
+      "duration_ms": 172042,
+      "name": "Aguanta Corazon - En vivo",
+      "url": "https://open.spotify.com/track/7nICKx0YTIEi9JSNid54tb"
+    },
+    {
+      "album": {
+        "name": "Ando Sad",
+        "url": "https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158875,
+      "name": "Ando Sad",
+      "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 180551,
+      "name": "Aqu\u00ed en El Chaleco",
+      "url": "https://open.spotify.com/track/2knMErrj3LxbqXSM0rDSSY"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Aunque Digan",
+      "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 112875,
+      "name": "Batallandole",
+      "url": "https://open.spotify.com/track/11rWU8SmenUBGXxcdgtGbN"
+    },
+    {
+      "album": {
+        "name": "Bien Alerta (En vivo)",
+        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Bien Alerta - En vivo",
+      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
+    },
+    {
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "Bien Me Conoces",
+      "url": "https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 192936,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 102816,
+      "name": "Como Hueso",
+      "url": "https://open.spotify.com/track/7eoxbqx7fRSCj6zjwm6rnk"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 185543,
+      "name": "Con La Suela Roja - en Vivo",
+      "url": "https://open.spotify.com/track/4t60v6e6eUhwhAAFFBoXZ1"
+    },
+    {
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 188290,
+      "name": "Contigo Me Siento Completo - En vivo",
+      "url": "https://open.spotify.com/track/62mMhp140i2DfUsLcZdart"
+    },
+    {
+      "album": {
+        "name": "Creci\u00f3 La Cuenta",
+        "url": "https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Creci\u00f3 La Cuenta",
+      "url": "https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192576,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
+    },
+    {
+      "album": {
+        "name": "De Morro",
+        "url": "https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "De Morro",
+      "url": "https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs"
+    },
+    {
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 211931,
+      "name": "Despegando el Vuelo - En vivo",
+      "url": "https://open.spotify.com/track/2MQWeK6zYI6PEN2vYRery3"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+        "url": "https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231137,
+      "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+      "url": "https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 212423,
+      "name": "Disculpe Usted - En vivo",
+      "url": "https://open.spotify.com/track/0ZZuut71uB0C6NWJw9GWMz"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "El 220",
+      "url": "https://open.spotify.com/track/7yfvVH5iOtisfraEH64QiS"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 175777,
+      "name": "El B\u00faho - En vivo",
+      "url": "https://open.spotify.com/track/2ca33MiWXy5JR0ELVH6SXj"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 202416,
+      "name": "El Compa Jessy - en Vivo",
+      "url": "https://open.spotify.com/track/6lJm3qu9j8BwAsAnWRaS6V"
+    },
+    {
+      "album": {
+        "name": "El G\u00fcero (Feat. Marca MP)",
+        "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213254,
+      "name": "El G\u00fcero (Feat. Marca MP)",
+      "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
+    },
+    {
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "El G\u00fcero - En vivo",
+      "url": "https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193151,
+      "name": "El Muchacho De La Barba - en Vivo",
+      "url": "https://open.spotify.com/track/6CkRmXlHU4EK01FXpB4eyu"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182909,
+      "name": "El Rapido",
+      "url": "https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK"
+    },
+    {
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 219036,
+      "name": "El Shadow - En vivo",
+      "url": "https://open.spotify.com/track/752ewFkVffZbVoSfBXdNx3"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 173808,
+      "name": "El Solicitado - En vivo",
+      "url": "https://open.spotify.com/track/4hC9Nq2yhpD2OAy3TN9k51"
+    },
+    {
+      "album": {
+        "name": "$ad Boyz 4 Life",
+        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "El Velador",
+      "url": "https://open.spotify.com/track/1bnM75H69llLIWrazZwKty"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 124551,
+      "name": "Escuela de la Vida - En vivo",
+      "url": "https://open.spotify.com/track/1dkVY6IUehZkOojMTDobOe"
+    },
+    {
+      "album": {
+        "name": "Hasta el D\u00eda de Hoy (En Vivo)",
+        "url": "https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Hasta El D\u00eda De Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Hombre De Respeto",
+      "url": "https://open.spotify.com/track/0Gr2I1qIAHvavmROFRIgXP"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 166056,
+      "name": "Ismael",
+      "url": "https://open.spotify.com/track/3eaEpp8GTMBLRV0BCDlXMe"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 202296,
+      "name": "La Mitad - en Vivo",
+      "url": "https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 188063,
+      "name": "Lo Echaste A Perder",
+      "url": "https://open.spotify.com/track/1F0dWXX30Ftztr8lwR2SKF"
+    },
+    {
+      "album": {
+        "name": "Lo Que Hay x Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6b2PIJN4fzFif2Y1RivYOb"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Lo Que Hay x Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3Ck2hZFoRgNL2CUUkp64Bf"
+    },
+    {
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 140543,
+      "name": "Lumbre Al Cigarro",
+      "url": "https://open.spotify.com/track/59c3aYfsXyTSo88Jet72tQ"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220029,
+      "name": "Me Gustas Mucho - En vivo",
+      "url": "https://open.spotify.com/track/30R4GITMuZLLVGmXXGwr9I"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245808,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
+    },
+    {
+      "album": {
+        "name": "Mil Gracias Por Existir",
+        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225541,
+      "name": "Mil Gracias Por Existir",
+      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "album": {
+        "name": "Mira Jodidon",
+        "url": "https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Mira Jodidon",
+      "url": "https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 198791,
+      "name": "Mujer De Piedra - en Vivo",
+      "url": "https://open.spotify.com/track/62wAZvEX6hMflSGYfC46xV"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 193375,
+      "name": "Nina De Mis Suenos",
+      "url": "https://open.spotify.com/track/59cKhO1nVynbetDKrk7vHR"
+    },
+    {
+      "album": {
+        "name": "No Me Quejo",
+        "url": "https://open.spotify.com/album/1XHBge67A0zqNcND56t6eq"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 271845,
+      "name": "No Me Quejo",
+      "url": "https://open.spotify.com/track/2ZBIU7ObY7HGdB5ShPrA98"
+    },
+    {
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178050,
+      "name": "No Me Voy a Rajar - En vivo",
+      "url": "https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 202800,
+      "name": "Pa' Andar Relax",
+      "url": "https://open.spotify.com/track/4GEx3rzkF42MVcFPLGxGir"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 177816,
+      "name": "Pa' Contarla",
+      "url": "https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 217776,
+      "name": "Plomo Traigo - en Vivo",
+      "url": "https://open.spotify.com/track/6odDzEMGI4wpzkqVF1cJNF"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 198791,
+      "name": "Que Casualidad - En vivo",
+      "url": "https://open.spotify.com/track/2puoDFA9WmRPqF2QUPymxI"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227552,
+      "name": "Que Fue Lo Que Paso",
+      "url": "https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ"
+    },
+    {
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221675,
+      "name": "Que Me Falto - En vivo",
+      "url": "https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "R1",
+      "url": "https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 184659,
+      "name": "Rios Por Apellido - En vivo",
+      "url": "https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK"
+    },
+    {
+      "album": {
+        "name": "Despegando el Vuelo (En vivo)",
+        "url": "https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276035,
+      "name": "Sabes Amor - En vivo",
+      "url": "https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 230303,
+      "name": "Saliste De Mi Mente",
+      "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177696,
+      "name": "Sigo Al Frente",
+      "url": "https://open.spotify.com/track/0na2KcdWb67qUDu0297IWf"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "album": {
+        "name": "Sin Rencores",
+        "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148624,
+      "name": "Sin Rencores",
+      "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 163680,
+      "name": "Sofisticado",
+      "url": "https://open.spotify.com/track/0vq4MJPXBzJoufua6cZryv"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 4 (En Vivo)",
+        "url": "https://open.spotify.com/album/73ZvjsY05oQ16RTnKuHGgW"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 174191,
+      "name": "Solo Un D\u00eda (En Vivo)",
+      "url": "https://open.spotify.com/track/5pUwzBRD8Sz2gZJBBOyJJ9"
+    },
+    {
+      "album": {
+        "name": "Seguimos Avanzando",
+        "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189431,
+      "name": "Soy Alegre",
+      "url": "https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH"
+    },
+    {
+      "album": {
+        "name": "Soy Para Ti",
+        "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
+    },
+    {
+      "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142124,
+      "name": "Subete A Mi Troca",
+      "url": "https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182047,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb"
+    },
+    {
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 190928,
+      "name": "Te Presumo - En vivo",
+      "url": "https://open.spotify.com/track/7lVq8F676WGqagSh8FV0XK"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231625,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 184680,
+      "name": "Tengo Con Que",
+      "url": "https://open.spotify.com/track/6Gv2GDFZzmhK6b82lUwjhG"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 3 (En vivo)",
+        "url": "https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271281,
+      "name": "Todo Cambi\u00f3 - En vivo",
+      "url": "https://open.spotify.com/track/3ypv02X21XqFopTC7Hw3qx"
+    },
+    {
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167568,
+      "name": "Tolin Infante",
+      "url": "https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153547,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC"
+    },
+    {
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Tu Ventana",
+      "url": "https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw"
+    },
+    {
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153155,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO"
+    },
+    {
+      "album": {
+        "name": "Don't Stop The Magic",
+        "url": "https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 211858,
+      "name": "Vengo A Confesar",
+      "url": "https://open.spotify.com/track/71C5O8r7jGfggDjzEm6wG1"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde el Malecon: Sold Out",
+        "url": "https://open.spotify.com/album/5UNBJmHfoH32MrZBKNkhc6"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 168280,
+      "name": "Vida Rencorosa",
+      "url": "https://open.spotify.com/track/6FdGKzJRwqIoZCpxUiQKzr"
+    },
+    {
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 281782,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/4UobQ7x4ioXVDuXrajpgUb"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188917,
+      "name": "Yo Te Necesito - En vivo",
+      "url": "https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru"
 }

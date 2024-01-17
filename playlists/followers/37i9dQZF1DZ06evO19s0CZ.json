@@ -1,718 +1,1725 @@
 {
-  "2022-01-11": 823423,
-  "2022-01-12": 823377,
-  "2022-01-13": 823348,
-  "2022-01-14": 823471,
-  "2022-01-15": 824047,
-  "2022-01-16": 824065,
-  "2022-01-17": 824310,
-  "2022-01-18": 824320,
-  "2022-01-19": 824405,
-  "2022-01-20": 824519,
-  "2022-01-21": 824657,
-  "2022-01-22": 824815,
-  "2022-01-23": 825045,
-  "2022-01-24": 825246,
-  "2022-01-25": 825386,
-  "2022-01-26": 825499,
-  "2022-01-27": 825671,
-  "2022-01-28": 825821,
-  "2022-01-29": 825955,
-  "2022-01-30": 826134,
-  "2022-01-31": 826266,
-  "2022-02-01": 826419,
-  "2022-02-02": 826589,
-  "2022-02-03": 826768,
-  "2022-02-04": 826971,
-  "2022-02-05": 827156,
-  "2022-02-06": 827366,
-  "2022-02-07": 827576,
-  "2022-02-08": 827729,
-  "2022-02-09": 827920,
-  "2022-02-10": 828073,
-  "2022-02-11": 828224,
-  "2022-02-12": 828392,
-  "2022-02-13": 828615,
-  "2022-02-14": 828790,
-  "2022-02-15": 828867,
-  "2022-02-16": 828949,
-  "2022-02-17": 829038,
-  "2022-02-18": 829142,
-  "2022-02-19": 829318,
-  "2022-02-20": 829514,
-  "2022-02-21": 829701,
-  "2022-02-22": 829868,
-  "2022-02-23": 830014,
-  "2022-02-24": 830191,
-  "2022-02-25": 830271,
-  "2022-02-26": 830473,
-  "2022-02-27": 830873,
-  "2022-02-28": 830873,
-  "2022-03-01": 831007,
-  "2022-03-02": 831117,
-  "2022-03-03": 831241,
-  "2022-03-04": 831415,
-  "2022-03-05": 831542,
-  "2022-03-06": 831742,
-  "2022-03-07": 831906,
-  "2022-03-08": 832065,
-  "2022-03-09": 832212,
-  "2022-03-10": 832361,
-  "2022-03-11": 832516,
-  "2022-03-12": 832708,
-  "2022-03-13": 832928,
-  "2022-03-14": 833107,
-  "2022-03-15": 833313,
-  "2022-03-16": 833614,
-  "2022-03-17": 833961,
-  "2022-03-18": 834348,
-  "2022-03-19": 834584,
-  "2022-03-20": 834584,
-  "2022-03-21": 835137,
-  "2022-03-22": 835329,
-  "2022-03-23": 835526,
-  "2022-03-24": 835702,
-  "2022-03-25": 835887,
-  "2022-03-26": 836088,
-  "2022-03-27": 836347,
-  "2022-03-28": 836571,
-  "2022-03-30": 836951,
-  "2022-03-31": 837140,
-  "2022-04-01": 837312,
-  "2022-04-02": 837502,
-  "2022-04-03": 837741,
-  "2022-04-04": 837931,
-  "2022-04-05": 838077,
-  "2022-04-06": 838246,
-  "2022-04-07": 838419,
-  "2022-04-08": 838589,
-  "2022-04-09": 838790,
-  "2022-04-10": 839206,
-  "2022-04-11": 839350,
-  "2022-04-12": 839370,
-  "2022-04-13": 839514,
-  "2022-04-14": 839712,
-  "2022-04-15": 839931,
-  "2022-04-16": 840155,
-  "2022-04-17": 840405,
-  "2022-04-18": 840651,
-  "2022-04-19": 840807,
-  "2022-04-20": 841012,
-  "2022-04-21": 841156,
-  "2022-04-22": 841316,
-  "2022-04-23": 841537,
-  "2022-04-24": 841744,
-  "2022-04-25": 841948,
-  "2022-04-26": 842122,
-  "2022-04-27": 842335,
-  "2022-04-28": 842529,
-  "2022-04-29": 842821,
-  "2022-04-30": 843053,
-  "2022-05-01": 843274,
-  "2022-05-02": 843274,
-  "2022-05-03": 843438,
-  "2022-05-04": 843616,
-  "2022-05-05": 843787,
-  "2022-05-06": 843969,
-  "2022-05-07": 844224,
-  "2022-05-08": 844561,
-  "2022-05-09": 844612,
-  "2022-05-10": 844762,
-  "2022-05-11": 844937,
-  "2022-05-12": 845106,
-  "2022-05-13": 845338,
-  "2022-05-14": 845568,
-  "2022-05-15": 845772,
-  "2022-05-16": 845946,
-  "2022-05-17": 846093,
-  "2022-05-18": 846304,
-  "2022-05-19": 846494,
-  "2022-05-20": 846712,
-  "2022-05-21": 847064,
-  "2022-05-22": 847064,
-  "2022-05-23": 847247,
-  "2022-05-24": 847398,
-  "2022-05-25": 847565,
-  "2022-05-26": 847742,
-  "2022-05-27": 847928,
-  "2022-05-28": 848132,
-  "2022-05-29": 848358,
-  "2022-05-30": 848568,
-  "2022-05-31": 848777,
-  "2022-06-01": 849186,
-  "2022-06-02": 849206,
-  "2022-06-03": 849522,
-  "2022-06-04": 849826,
-  "2022-06-05": 850142,
-  "2022-06-06": 850448,
-  "2022-06-07": 850698,
-  "2022-06-08": 850983,
-  "2022-06-09": 851223,
-  "2022-06-10": 851496,
-  "2022-06-11": 851795,
-  "2022-06-12": 852066,
-  "2022-06-13": 852325,
-  "2022-06-14": 852656,
-  "2022-06-15": 852893,
-  "2022-06-16": 853142,
-  "2022-06-17": 853398,
-  "2022-06-18": 853633,
-  "2022-06-19": 854185,
-  "2022-06-20": 854185,
-  "2022-06-21": 854409,
-  "2022-06-22": 854894,
-  "2022-06-23": 854894,
-  "2022-06-24": 855157,
-  "2022-06-25": 855495,
-  "2022-06-26": 855818,
-  "2022-06-27": 856116,
-  "2022-06-28": 856355,
-  "2022-06-29": 856564,
-  "2022-06-30": 856803,
-  "2022-07-01": 857046,
-  "2022-07-02": 857339,
-  "2022-07-03": 857736,
-  "2022-07-04": 858125,
-  "2022-07-05": 858441,
-  "2022-07-06": 858441,
-  "2022-07-07": 858996,
-  "2022-07-08": 859363,
-  "2022-07-09": 859707,
-  "2022-07-10": 860270,
-  "2022-07-11": 860619,
-  "2022-07-12": 860929,
-  "2022-07-13": 861297,
-  "2022-07-14": 861642,
-  "2022-07-15": 862050,
-  "2022-07-16": 862492,
-  "2022-07-17": 863057,
-  "2022-07-18": 863547,
-  "2022-07-19": 863900,
-  "2022-07-20": 864248,
-  "2022-07-21": 864615,
-  "2022-07-22": 865022,
-  "2022-07-23": 865442,
-  "2022-07-24": 865966,
-  "2022-07-25": 866416,
-  "2022-07-26": 866773,
-  "2022-07-27": 867230,
-  "2022-07-28": 867684,
-  "2022-07-29": 868083,
-  "2022-07-30": 869284,
-  "2022-07-31": 869284,
-  "2022-08-01": 869614,
-  "2022-08-02": 870161,
-  "2022-08-03": 870161,
-  "2022-08-04": 870385,
-  "2022-08-05": 870706,
-  "2022-08-06": 871016,
-  "2022-08-07": 871339,
-  "2022-08-08": 871645,
-  "2022-08-09": 871854,
-  "2022-08-10": 872083,
-  "2022-08-11": 872304,
-  "2022-08-12": 872518,
-  "2022-08-13": 872779,
-  "2022-08-14": 873013,
-  "2022-08-15": 873263,
-  "2022-08-16": 873498,
-  "2022-08-17": 873716,
-  "2022-08-18": 873897,
-  "2022-08-19": 874103,
-  "2022-08-20": 874340,
-  "2022-08-21": 874588,
-  "2022-08-22": 874814,
-  "2022-08-23": 874954,
-  "2022-08-24": 875204,
-  "2022-08-25": 875493,
-  "2022-08-26": 875742,
-  "2022-08-27": 876026,
-  "2022-08-28": 876304,
-  "2022-08-29": 876511,
-  "2022-08-30": 876564,
-  "2022-08-31": 876533,
-  "2022-09-01": 876510,
-  "2022-09-02": 876444,
-  "2022-09-03": 876195,
-  "2022-09-04": 876162,
-  "2022-09-05": 876328,
-  "2022-09-06": 876460,
-  "2022-09-07": 876588,
-  "2022-09-09": 876911,
-  "2022-09-10": 877108,
-  "2022-09-11": 877305,
-  "2022-09-12": 877466,
-  "2022-09-13": 877611,
-  "2022-09-15": 877926,
-  "2022-09-16": 878098,
-  "2022-09-17": 878372,
-  "2022-09-18": 878705,
-  "2022-09-19": 878995,
-  "2022-09-20": 879181,
-  "2022-09-21": 879413,
-  "2022-09-22": 879754,
-  "2022-09-23": 880010,
-  "2022-09-24": 880010,
-  "2022-09-25": 880707,
-  "2022-09-26": 881031,
-  "2022-09-27": 881297,
-  "2022-09-28": 881621,
-  "2022-09-29": 881955,
-  "2022-09-30": 882268,
-  "2022-10-01": 882583,
-  "2022-10-02": 882910,
-  "2022-10-03": 883226,
-  "2022-10-04": 883469,
-  "2022-10-05": 883707,
-  "2022-10-06": 884011,
-  "2022-10-07": 884330,
-  "2022-10-08": 884683,
-  "2022-10-09": 885304,
-  "2022-10-10": 885389,
-  "2022-10-11": 885668,
-  "2022-10-12": 885961,
-  "2022-10-13": 886289,
-  "2022-10-14": 886611,
-  "2022-10-15": 886897,
-  "2022-10-16": 887216,
-  "2022-10-17": 887479,
-  "2022-10-18": 887710,
-  "2022-10-19": 887996,
-  "2022-10-20": 888247,
-  "2022-10-21": 888519,
-  "2022-10-22": 888832,
-  "2022-10-23": 889174,
-  "2022-10-24": 889460,
-  "2022-10-25": 889704,
-  "2022-10-26": 889955,
-  "2022-10-27": 890244,
-  "2022-10-28": 890546,
-  "2022-10-29": 890888,
-  "2022-10-30": 891230,
-  "2022-10-31": 891518,
-  "2022-11-01": 891778,
-  "2022-11-02": 892065,
-  "2022-11-03": 892336,
-  "2022-11-04": 892607,
-  "2022-11-05": 892891,
-  "2022-11-06": 893213,
-  "2022-11-07": 893496,
-  "2022-11-08": 893743,
-  "2022-11-09": 894011,
-  "2022-11-10": 894270,
-  "2022-11-11": 894545,
-  "2022-11-12": 894857,
-  "2022-11-13": 895102,
-  "2022-11-14": 895399,
-  "2022-11-15": 895607,
-  "2022-11-16": 895834,
-  "2022-11-17": 896084,
-  "2022-11-18": 896138,
-  "2022-11-19": 896194,
-  "2022-11-20": 896435,
-  "2022-11-21": 896749,
-  "2022-11-22": 897024,
-  "2022-11-23": 897252,
-  "2022-11-24": 897691,
-  "2022-11-25": 898095,
-  "2022-11-26": 898398,
-  "2022-11-27": 898695,
-  "2022-11-28": 898974,
-  "2022-11-29": 899222,
-  "2022-11-30": 899494,
-  "2022-12-01": 899801,
-  "2022-12-02": 900033,
-  "2022-12-03": 900454,
-  "2022-12-04": 900826,
-  "2022-12-05": 901143,
-  "2022-12-06": 901430,
-  "2022-12-07": 901758,
-  "2022-12-08": 902073,
-  "2022-12-09": 902358,
-  "2022-12-10": 902645,
-  "2022-12-11": 902955,
-  "2022-12-12": 903272,
-  "2022-12-13": 903486,
-  "2022-12-14": 903769,
-  "2022-12-15": 904053,
-  "2022-12-16": 904357,
-  "2022-12-17": 904651,
-  "2022-12-18": 905025,
-  "2022-12-19": 905285,
-  "2022-12-20": 905885,
-  "2022-12-21": 905885,
-  "2022-12-22": 906217,
-  "2022-12-24": 906929,
-  "2022-12-25": 907267,
-  "2022-12-26": 907597,
-  "2022-12-27": 907940,
-  "2022-12-28": 908290,
-  "2022-12-29": 908675,
-  "2022-12-30": 909109,
-  "2022-12-31": 909510,
-  "2023-01-01": 909934,
-  "2023-01-02": 910278,
-  "2023-01-03": 910659,
-  "2023-01-04": 910974,
-  "2023-01-05": 911361,
-  "2023-01-06": 911745,
-  "2023-01-07": 912344,
-  "2023-01-08": 912452,
-  "2023-01-09": 912880,
-  "2023-01-10": 913180,
-  "2023-01-11": 913485,
-  "2023-01-12": 913829,
-  "2023-01-13": 914195,
-  "2023-01-14": 914816,
-  "2023-01-15": 914892,
-  "2023-01-16": 915299,
-  "2023-01-17": 915611,
-  "2023-01-18": 915928,
-  "2023-01-19": 916292,
-  "2023-01-20": 916691,
-  "2023-01-21": 917046,
-  "2023-01-22": 917481,
-  "2023-01-23": 917834,
-  "2023-01-24": 918180,
-  "2023-01-25": 918554,
-  "2023-01-26": 918886,
-  "2023-01-27": 919254,
-  "2023-01-28": 919639,
-  "2023-01-29": 920076,
-  "2023-01-30": 920488,
-  "2023-01-31": 920488,
-  "2023-02-01": 921130,
-  "2023-02-02": 921406,
-  "2023-02-03": 921703,
-  "2023-02-04": 922001,
-  "2023-02-05": 922344,
-  "2023-02-06": 922691,
-  "2023-02-07": 922957,
-  "2023-02-08": 923570,
-  "2023-02-09": 923570,
-  "2023-02-10": 923877,
-  "2023-02-11": 924237,
-  "2023-02-12": 924982,
-  "2023-02-13": 925242,
-  "2023-02-14": 925242,
-  "2023-02-15": 925472,
-  "2023-02-16": 925741,
-  "2023-02-17": 926052,
-  "2023-02-18": 926735,
-  "2023-02-19": 926783,
-  "2023-02-20": 927045,
-  "2023-02-21": 927368,
-  "2023-02-22": 927686,
-  "2023-02-23": 927964,
-  "2023-02-24": 928316,
-  "2023-02-25": 928758,
-  "2023-02-26": 928982,
-  "2023-02-27": 929811,
-  "2023-02-28": 929811,
-  "2023-03-01": 930139,
-  "2023-03-02": 930455,
-  "2023-03-03": 930768,
-  "2023-03-04": 931080,
-  "2023-03-05": 931886,
-  "2023-03-06": 931886,
-  "2023-03-07": 932216,
-  "2023-03-08": 932474,
-  "2023-03-09": 932743,
-  "2023-03-10": 933015,
-  "2023-03-11": 933320,
-  "2023-03-12": 933667,
-  "2023-03-13": 934005,
-  "2023-03-14": 934295,
-  "2023-03-15": 934549,
-  "2023-03-16": 934549,
-  "2023-03-17": 934549,
-  "2023-03-18": 935452,
-  "2023-03-19": 935452,
-  "2023-03-20": 936038,
-  "2023-03-21": 936314,
-  "2023-03-22": 936614,
-  "2023-03-23": 936885,
-  "2023-03-24": 936885,
-  "2023-03-25": 937611,
-  "2023-03-26": 938079,
-  "2023-03-27": 938445,
-  "2023-03-28": 938732,
-  "2023-03-29": 939065,
-  "2023-03-30": 939692,
-  "2023-03-31": 939692,
-  "2023-04-01": 940022,
-  "2023-04-02": 940421,
-  "2023-04-03": 940774,
-  "2023-04-04": 941092,
-  "2023-04-05": 941414,
-  "2023-04-06": 941767,
-  "2023-04-07": 942110,
-  "2023-04-09": 942829,
-  "2023-04-10": 943132,
-  "2023-04-11": 943748,
-  "2023-04-12": 943748,
-  "2023-04-13": 944068,
-  "2023-04-14": 944393,
-  "2023-04-15": 944709,
-  "2023-04-16": 945063,
-  "2023-04-17": 945385,
-  "2023-04-18": 945680,
-  "2023-04-19": 945966,
-  "2023-04-20": 946311,
-  "2023-04-21": 946639,
-  "2023-04-22": 946934,
-  "2023-04-23": 947289,
-  "2023-04-24": 947662,
-  "2023-04-25": 947929,
-  "2023-04-26": 948274,
-  "2023-04-27": 948613,
-  "2023-04-28": 948982,
-  "2023-04-29": 949352,
-  "2023-04-30": 949708,
-  "2023-05-01": 950000,
-  "2023-05-02": 950317,
-  "2023-05-03": 950595,
-  "2023-05-04": 950859,
-  "2023-05-05": 951141,
-  "2023-05-06": 951387,
-  "2023-05-07": 951720,
-  "2023-05-08": 952036,
-  "2023-05-09": 952287,
-  "2023-05-10": 952557,
-  "2023-05-11": 952813,
-  "2023-05-12": 953086,
-  "2023-05-13": 953401,
-  "2023-05-14": 953754,
-  "2023-05-15": 954041,
-  "2023-05-16": 954298,
-  "2023-05-17": 954588,
-  "2023-05-18": 954927,
-  "2023-05-19": 955256,
-  "2023-05-20": 956011,
-  "2023-05-21": 956011,
-  "2023-05-22": 956011,
-  "2023-05-23": 956628,
-  "2023-05-24": 957089,
-  "2023-05-25": 957164,
-  "2023-05-26": 957476,
-  "2023-05-27": 957805,
-  "2023-05-28": 958141,
-  "2023-05-29": 958141,
-  "2023-05-30": 958689,
-  "2023-05-31": 958948,
-  "2023-06-01": 959249,
-  "2023-06-02": 959538,
-  "2023-06-03": 959871,
-  "2023-06-04": 960218,
-  "2023-06-05": 960525,
-  "2023-06-06": 960779,
-  "2023-06-07": 961058,
-  "2023-06-08": 961367,
-  "2023-06-09": 961674,
-  "2023-06-10": 961906,
-  "2023-06-11": 962155,
-  "2023-06-12": 962307,
-  "2023-06-13": 962454,
-  "2023-06-14": 962454,
-  "2023-06-15": 962801,
-  "2023-06-16": 962978,
-  "2023-06-17": 963216,
-  "2023-06-18": 963441,
-  "2023-06-19": 963656,
-  "2023-06-20": 963824,
-  "2023-06-21": 963975,
-  "2023-06-22": 964165,
-  "2023-06-23": 964349,
-  "2023-06-24": 964563,
-  "2023-06-25": 964826,
-  "2023-06-26": 965030,
-  "2023-06-27": 965179,
-  "2023-06-28": 965325,
-  "2023-06-29": 965496,
-  "2023-06-30": 965692,
-  "2023-07-01": 966070,
-  "2023-07-02": 966070,
-  "2023-07-03": 966257,
-  "2023-07-04": 966404,
-  "2023-07-05": 966589,
-  "2023-07-06": 966980,
-  "2023-07-07": 966980,
-  "2023-07-08": 967194,
-  "2023-07-09": 967401,
-  "2023-07-10": 967615,
-  "2023-07-11": 967746,
-  "2023-07-12": 967902,
-  "2023-07-13": 968069,
-  "2023-07-14": 968294,
-  "2023-07-15": 968459,
-  "2023-07-16": 968700,
-  "2023-07-17": 968935,
-  "2023-07-18": 969135,
-  "2023-07-19": 969321,
-  "2023-07-20": 969523,
-  "2023-07-21": 969713,
-  "2023-07-22": 969908,
-  "2023-07-23": 970162,
-  "2023-07-24": 970393,
-  "2023-07-25": 970568,
-  "2023-07-26": 970864,
-  "2023-07-27": 972813,
-  "2023-07-28": 974230,
-  "2023-07-29": 975103,
-  "2023-07-30": 975401,
-  "2023-07-31": 975627,
-  "2023-08-01": 975803,
-  "2023-08-02": 975965,
-  "2023-08-03": 976137,
-  "2023-08-04": 976290,
-  "2023-08-05": 976494,
-  "2023-08-06": 976929,
-  "2023-08-07": 976929,
-  "2023-08-08": 977056,
-  "2023-08-09": 977225,
-  "2023-08-10": 977416,
-  "2023-08-11": 977603,
-  "2023-08-12": 977603,
-  "2023-08-13": 977603,
-  "2023-08-14": 978193,
-  "2023-08-15": 978193,
-  "2023-08-16": 978193,
-  "2023-08-17": 978897,
-  "2023-08-18": 978897,
-  "2023-08-19": 978897,
-  "2023-08-20": 979614,
-  "2023-08-21": 979614,
-  "2023-08-22": 980030,
-  "2023-08-23": 980030,
-  "2023-08-24": 980445,
-  "2023-08-25": 980445,
-  "2023-08-26": 980893,
-  "2023-08-27": 980893,
-  "2023-08-28": 981338,
-  "2023-08-29": 981338,
-  "2023-08-30": 981338,
-  "2023-08-31": 981823,
-  "2023-09-01": 982257,
-  "2023-09-02": 982257,
-  "2023-09-03": 982469,
-  "2023-09-04": 982469,
-  "2023-09-05": 982469,
-  "2023-09-06": 982990,
-  "2023-09-07": 982990,
-  "2023-09-08": 982990,
-  "2023-09-09": 982990,
-  "2023-09-10": 985085,
-  "2023-09-11": 985085,
-  "2023-09-12": 985085,
-  "2023-09-13": 985943,
-  "2023-09-14": 985943,
-  "2023-09-15": 985943,
-  "2023-09-16": 986906,
-  "2023-09-17": 986906,
-  "2023-09-18": 986906,
-  "2023-09-19": 987576,
-  "2023-09-20": 987576,
-  "2023-09-21": 987576,
-  "2023-09-22": 988204,
-  "2023-09-23": 988204,
-  "2023-09-24": 988204,
-  "2023-09-25": 988204,
-  "2023-09-26": 989079,
-  "2023-09-27": 989079,
-  "2023-09-28": 989079,
-  "2023-09-29": 989079,
-  "2023-09-30": 989079,
-  "2023-10-01": 989079,
-  "2023-10-02": 990564,
-  "2023-10-03": 990564,
-  "2023-10-04": 990564,
-  "2023-10-05": 991178,
-  "2023-10-06": 991385,
-  "2023-10-07": 991385,
-  "2023-10-08": 991385,
-  "2023-10-09": 991385,
-  "2023-10-10": 991385,
-  "2023-10-11": 991786,
-  "2023-10-12": 991786,
-  "2023-10-13": 991786,
-  "2023-10-14": 991786,
-  "2023-10-15": 991786,
-  "2023-10-16": 991786,
-  "2023-10-17": 991786,
-  "2023-10-18": 991786,
-  "2023-10-19": 991786,
-  "2023-10-20": 991786,
-  "2023-10-21": 991786,
-  "2023-10-22": 991786,
-  "2023-10-23": 991786,
-  "2023-10-24": 991786,
-  "2023-10-25": 991786,
-  "2023-10-26": 991786,
-  "2023-10-27": 991786,
-  "2023-10-28": 991786,
-  "2023-10-29": 991786,
-  "2023-10-30": 991786,
-  "2023-10-31": 991786,
-  "2023-11-01": 991786,
-  "2023-11-02": 991786,
-  "2023-11-03": 991786,
-  "2023-11-04": 991786,
-  "2023-11-05": 991786,
-  "2023-11-06": 991786,
-  "2023-11-07": 991786,
-  "2023-11-08": 991786,
-  "2023-11-09": 991786,
-  "2023-11-10": 991786,
-  "2023-11-11": 999351,
-  "2023-11-12": 999351,
-  "2023-11-13": 999351,
-  "2023-11-14": 999351,
-  "2023-11-15": 999351,
-  "2023-11-16": 999351,
-  "2023-11-17": 999351,
-  "2023-11-18": 999351,
-  "2023-11-19": 999351,
-  "2023-11-20": 999351,
-  "2023-11-21": 999351,
-  "2023-11-22": 999351,
-  "2023-11-23": 999351,
-  "2023-11-24": 999351,
-  "2023-11-25": 999351,
-  "2023-11-26": 999351,
-  "2023-11-27": 999351,
-  "2023-11-28": 999351,
-  "2023-11-29": 999351,
-  "2023-11-30": 999351,
-  "2023-12-01": 999351,
-  "2023-12-02": 999351,
-  "2023-12-03": 999351,
-  "2023-12-04": 999351,
-  "2023-12-05": 999351,
-  "2023-12-06": 999351,
-  "2023-12-07": 999351,
-  "2023-12-08": 999351,
-  "2023-12-09": 999351,
-  "2023-12-10": 999351,
-  "2023-12-11": 999351,
-  "2023-12-12": 999351,
-  "2023-12-13": 999351,
-  "2023-12-14": 1005356,
-  "2023-12-15": 1005472,
-  "2023-12-16": 1005679,
-  "2023-12-17": 1005868,
-  "2023-12-18": 1006033,
-  "2023-12-19": 1006193,
-  "2023-12-20": 1006344,
-  "2023-12-21": 1006492,
-  "2023-12-22": 1006643,
-  "2023-12-23": 1006850,
-  "2023-12-24": 1007039,
-  "2023-12-25": 1007234,
-  "2023-12-26": 1007433,
-  "2023-12-27": 1007617,
-  "2023-12-30": 1008186,
-  "2023-12-31": 1008414,
-  "2024-01-01": 1008595,
-  "2024-01-02": 1008769,
-  "2024-01-03": 1008857
+  "2024-01-17": 1008585,
+  "date_first_scraped": "2022-01-11",
+  "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
+  "name": "This Is The Rolling Stones",
+  "tracks": [
+    {
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-06",
+      "duration_ms": 236400,
+      "name": "19th Nervous Breakdown - Mono Version",
+      "url": "https://open.spotify.com/track/21ElXnithj4MX8E4rg5lh8"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 237702,
+      "name": "19th Nervous Breakdown - Mono Version",
+      "url": "https://open.spotify.com/track/4ImKOn34SKnoY0OH7lkLKP"
+    },
+    {
+      "album": {
+        "name": "Steel Wheels (Remastered 2009)",
+        "url": "https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 277466,
+      "name": "Almost Hear You Sigh - Remastered",
+      "url": "https://open.spotify.com/track/2r41JRUZ5Cjcx98ARVI0vo"
+    },
+    {
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/5op6kdhlMQ4L0KH30GCZ5T"
+    },
+    {
+      "album": {
+        "name": "Bridges To Babylon (Remastered)",
+        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Anybody Seen My Baby? - Remastered 2009",
+      "url": "https://open.spotify.com/track/4tXr9v3K7nWW1aebWqR1B7"
+    },
+    {
+      "album": {
+        "name": "December\u2019s Children (And Everybody\u2019s)",
+        "url": "https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165213,
+      "name": "As Tears Go By - Mono Version",
+      "url": "https://open.spotify.com/track/1LD75COdR1n8jTIjommyS2"
+    },
+    {
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 120066,
+      "name": "Baby Please Don't Go - Live / Instrumental",
+      "url": "https://open.spotify.com/track/2XSi3vyadAKVd4eTdyWvAJ"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 217093,
+      "name": "Bitch - 2009 Mix",
+      "url": "https://open.spotify.com/track/01JYvQ6udfhUw9Jed9EzoK"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211597,
+      "name": "Bite My Head Off",
+      "url": "https://open.spotify.com/track/5C6p9XU3B36GPyfzcNBP6R"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Brown Sugar - Remastered 2009",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436000,
+      "name": "Can't You Hear Me Knocking - 2009 Mix",
+      "url": "https://open.spotify.com/track/1hIQPCM3oWXrpnXmgTDaKG"
+    },
+    {
+      "album": {
+        "name": "Live At The El Mocambo",
+        "url": "https://open.spotify.com/album/444RtK8RqcIODjfyaWTuhi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 254506,
+      "name": "Crackin\u2019 Up - Live At The El Mocambo 1977",
+      "url": "https://open.spotify.com/track/1TZos9kygOjAaHw8398LZi"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244533,
+      "name": "Dead Flowers - 2009 Mix",
+      "url": "https://open.spotify.com/track/3oJtUnnt5uYPtzulIbLw3D"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243001,
+      "name": "Depending On You",
+      "url": "https://open.spotify.com/track/32rT4NEzA9SH57FdFBkajG"
+    },
+    {
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Doo Doo Doo Doo Doo (Heartbreaker)",
+      "url": "https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5"
+    },
+    {
+      "album": {
+        "name": "Honk (Deluxe)",
+        "url": "https://open.spotify.com/album/6GMdkihFQDTjdxCPvv0Xiw"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 238546,
+      "name": "Doom And Gloom",
+      "url": "https://open.spotify.com/track/0lO9vvpJdd2ZNAq61ga9wy"
+    },
+    {
+      "album": {
+        "name": "Doom And Gloom (Live)",
+        "url": "https://open.spotify.com/album/6NtX3RvkYtEyVdUM6EOgbV"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 274160,
+      "name": "Doom And Gloom - Live",
+      "url": "https://open.spotify.com/track/3ZMPZ6A5boeoB7pvFCo4kq"
+    },
+    {
+      "album": {
+        "name": "Emotional Rescue (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339400,
+      "name": "Emotional Rescue - Remastered 2009",
+      "url": "https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 263960,
+      "name": "Far Away Eyes - Remastered",
+      "url": "https://open.spotify.com/track/4OSZGBSgURF74RO0dRA8HY"
+    },
+    {
+      "album": {
+        "name": "Black And Blue (Remastered 2009)",
+        "url": "https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305400,
+      "name": "Fool To Cry - Remastered 2009",
+      "url": "https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250723,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS"
+    },
+    {
+      "album": {
+        "name": "December\u2019s Children (And Everybody\u2019s)",
+        "url": "https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Get Off Of My Cloud - Mono Version",
+      "url": "https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
+    },
+    {
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "url": "https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "Hang Fire - Remastered",
+      "url": "https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e"
+    },
+    {
+      "album": {
+        "name": "Happy (Live)",
+        "url": "https://open.spotify.com/album/48gYTonBHApTBlLkJ6fsPL"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 248120,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/2MGEoTLpKfCQ9v7V3Jr7Vz"
+    },
+    {
+      "album": {
+        "name": "Dirty Work (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6Xui7Ex7Qs5CafFQnWeR6w"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "Harlem Shuffle - Remastered 2009",
+      "url": "https://open.spotify.com/track/2StkuotzPgX5FpSjMpTvlw"
+    },
+    {
+      "album": {
+        "name": "Blue & Lonesome",
+        "url": "https://open.spotify.com/album/43TJjpNBfw0qY6E87VeIxX"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-13",
+      "duration_ms": 200786,
+      "name": "Hate To See You Go",
+      "url": "https://open.spotify.com/track/0EJCZM5mVoJjA1MxcoZE6O"
+    },
+    {
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "url": "https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 262400,
+      "name": "Heaven - Remastered",
+      "url": "https://open.spotify.com/track/0QVJsWtmgj9SWZaLYiX2i3"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/7HIG9Utsra6sL79nA1Tn0y"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Women / You Can't Always Get What You Want",
+        "url": "https://open.spotify.com/album/1bp4Aq0SnjhifrYaKbfSdS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 182706,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
+    },
+    {
+      "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 179386,
+      "name": "Honky Tonk Women - Mono Version",
+      "url": "https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 181395,
+      "name": "Honky Tonk Women - Mono Version",
+      "url": "https://open.spotify.com/track/4i1zKPyfIF1QSkI70zcQ7S"
+    },
+    {
+      "album": {
+        "name": "12 X 5",
+        "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 206440,
+      "name": "It's All Over Now - Mono Version",
+      "url": "https://open.spotify.com/track/6fLTxkL2wgC40fBM6IIe7r"
+    },
+    {
+      "album": {
+        "name": "It's Only Rock 'n' Roll (But I Like It) [Live]",
+        "url": "https://open.spotify.com/album/1Es6jHVmRXPWcpMFz6exT4"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 277386,
+      "name": "It's Only Rock 'n' Roll (But I Like It) - Live",
+      "url": "https://open.spotify.com/track/1FW6PF2gswtHqcsjnDx5H1"
+    },
+    {
+      "album": {
+        "name": "It's Only Rock 'N' Roll (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/4jCpSNa8dV40aMrHOshRdv"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307440,
+      "name": "It's Only Rock'n'Roll (But I Like It) - Remastered 2009",
+      "url": "https://open.spotify.com/track/668YgsnvdNBHfRscNIBS31"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Only Rock \u2019N\u2019 Roll (But I Like It) / Rip This Joint [Live At The El Mocambo 1977]",
+        "url": "https://open.spotify.com/album/1LNkP9TVG6KSk5wbXwbcM3"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-30",
+      "duration_ms": 295373,
+      "name": "It\u2019s Only Rock \u2019N\u2019 Roll (But I Like It) - Live At The El Mocambo 1977",
+      "url": "https://open.spotify.com/track/1U4pHHISIyKRKFVLBBebau"
+    },
+    {
+      "album": {
+        "name": "Jumpin' Jack Flash / Child Of The Moon",
+        "url": "https://open.spotify.com/album/10OB4Z0KBJtCayAX7Gk57m"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 222933,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/1uBsu3PbD2909UBIfEMLvK"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223289,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/1GOdYykgw2W0OcjPANvwgE"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 327880,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/06FcMPcosZg13x2QODDDK6"
+    },
+    {
+      "album": {
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "Let's Spend The Night Together",
+      "url": "https://open.spotify.com/track/1QLr0zOu6fv5hLEHOwdr21"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones Singles Box Set (1971-2006) [Sampler]",
+        "url": "https://open.spotify.com/album/6In2W0PN0sp3DjhjmbRuQ5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-03",
+      "duration_ms": 261226,
+      "name": "Like A Rolling Stone - Edit",
+      "url": "https://open.spotify.com/track/7JPQnsEfbXDNf1fo4djmZF"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones, Now!",
+        "url": "https://open.spotify.com/album/592dKHbXtiglWyt8AEet23"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 185786,
+      "name": "Little Red Rooster - Mono Version",
+      "url": "https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho"
+    },
+    {
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Little T&A - Remastered",
+      "url": "https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H"
+    },
+    {
+      "album": {
+        "name": "Living In A Ghost Town",
+        "url": "https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 247010,
+      "name": "Living In A Ghost Town",
+      "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
+    },
+    {
+      "album": {
+        "name": "Voodoo Lounge (Remastered 2009)",
+        "url": "https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Love Is Strong - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Is1ugfPG3hdFWTq15nNBV"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Loving Cup",
+      "url": "https://open.spotify.com/track/34OzAaQeAWlFnZBSyUAtRh"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243687,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 412760,
+      "name": "Midnight Rambler",
+      "url": "https://open.spotify.com/track/3tIvHt7VaIenprWXrYzgwb"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 251453,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/5m6livL7ccIS92wq16n52r"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 357200,
+      "name": "Moonlight Mile - 2009 Mix",
+      "url": "https://open.spotify.com/track/3w7hnMNX4zVZeBJ6LisTjT"
+    },
+    {
+      "album": {
+        "name": "Aftermath (UK Version)",
+        "url": "https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164893,
+      "name": "Mother's Little Helper",
+      "url": "https://open.spotify.com/track/44xykY61s1aKsgf40A5cyI"
+    },
+    {
+      "album": {
+        "name": "England\u2019s Newest Hitmakers",
+        "url": "https://open.spotify.com/album/5efoVI6WIhxLCIrbZuxwBu"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 107720,
+      "name": "Not Fade Away - Mono Version",
+      "url": "https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB"
+    },
+    {
+      "album": {
+        "name": "Bridges To Babylon (Remastered)",
+        "url": "https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 283840,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/4cYixasStbsXGnhyKxHEFN"
+    },
+    {
+      "album": {
+        "name": "Voodoo Lounge (Remastered 2009)",
+        "url": "https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-24",
+      "duration_ms": 327600,
+      "name": "Out Of Tears",
+      "url": "https://open.spotify.com/track/3mP4j0qZkutkxDN4zgbtnA"
+    },
+    {
+      "album": {
+        "name": "Aftermath (UK Version)",
+        "url": "https://open.spotify.com/album/1MaP82K4mOoGYW5Ej0eUyM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 336893,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/5RFYhFsx88Ged9UNmv5ORj"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
+    },
+    {
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133320,
+      "name": "Play With Fire - Mono Version",
+      "url": "https://open.spotify.com/track/30V02AmDYMRvrHE4L8cZAo"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143293,
+      "name": "Rip This Joint",
+      "url": "https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Only Rock \u2019N\u2019 Roll (But I Like It) / Rip This Joint [Live At The El Mocambo 1977]",
+        "url": "https://open.spotify.com/album/1LNkP9TVG6KSk5wbXwbcM3"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 131133,
+      "name": "Rip This Joint - Live At The El Mocambo 1977",
+      "url": "https://open.spotify.com/track/7givGIDyNXr6aV9bUHhlYE"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 271933,
+      "name": "Rocks Off",
+      "url": "https://open.spotify.com/track/42o3gy9e8dzBHvQE991ad8"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones",
+        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK"
+    },
+    {
+      "album": {
+        "name": "Between The Buttons",
+        "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Ruby Tuesday",
+      "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 226800,
+      "name": "Shattered - Remastered",
+      "url": "https://open.spotify.com/track/0FfZBWDv7p63yj6oh2I2PS"
+    },
+    {
+      "album": {
+        "name": "She's A Rainbow / Dandelion / We Love You",
+        "url": "https://open.spotify.com/album/0ZVb7BLZuvx9ZZebd9i3lu"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253720,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It"
+    },
+    {
+      "album": {
+        "name": "Emotional Rescue (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253506,
+      "name": "She's So Cold - Remastered",
+      "url": "https://open.spotify.com/track/6l9gVPHFaUfigHEiWqSh45"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256825,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/1iii3DosaivkmvUDmhZhCP"
+    },
+    {
+      "album": {
+        "name": "Steel Wheels (Remastered 2009)",
+        "url": "https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-30",
+      "duration_ms": 270200,
+      "name": "Slipping Away - Remastered",
+      "url": "https://open.spotify.com/track/3s8JGHAZvZKYUPknCIIkJC"
+    },
+    {
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-02",
+      "duration_ms": 276933,
+      "name": "Some Girls - Remastered",
+      "url": "https://open.spotify.com/track/3pQXptTkIkOQsK3pyYlRbJ"
+    },
+    {
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Street Fighting Man - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Sway - 2009 Mix",
+      "url": "https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66"
+    },
+    {
+      "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 442667,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
+    },
+    {
+      "album": {
+        "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) [Live at Racket, NYC]",
+        "url": "https://open.spotify.com/album/15uOlprrFPRIqr58DlJ9BC"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 459741,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga) - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/5vo05MN3AjGdbiTtnw5jbg"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Sweet Virginia",
+      "url": "https://open.spotify.com/track/1hJrWWK74fKL7eeV3CFOvF"
+    },
+    {
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 221493,
+      "name": "The Last Time - Mono Version",
+      "url": "https://open.spotify.com/track/7foiOmd1Je7Z0D3TaZCDro"
+    },
+    {
+      "album": {
+        "name": "Forty Licks",
+        "url": "https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 222222,
+      "name": "The Last Time - Mono Version",
+      "url": "https://open.spotify.com/track/2kdVIVKTMRC3WNJ9m9BAXN"
+    },
+    {
+      "album": {
+        "name": "The Rolling Stones No. 2",
+        "url": "https://open.spotify.com/album/0MDhZ0yRkugNEg7PmMMUE8"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 179133,
+      "name": "Time Is On My Side - Mono Version",
+      "url": "https://open.spotify.com/track/2jaN6NgXflZTj2z9CWcqaP"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221533,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204573,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/74mpiRPDd2rFeBR1Yl60I3"
+    },
+    {
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274226,
+      "name": "Waiting On A Friend - Remastered 2009",
+      "url": "https://open.spotify.com/track/4Wd9pEtEnZNDjgiswGOpJb"
+    },
+    {
+      "album": {
+        "name": "Hackney Diamonds",
+        "url": "https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238150,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/4yOAYf9yYNT5Pq3iuuJcUa"
+    },
+    {
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448720,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "album": {
+        "name": "Voodoo Lounge (Remastered 2009)",
+        "url": "https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 216133,
+      "name": "You Got Me Rocking",
+      "url": "https://open.spotify.com/track/0JTrB3fXGdyGcwxFFECsm1"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 170373,
+      "name": "You Got The Silver",
+      "url": "https://open.spotify.com/track/2pbHaKsIRuIqjZHCLpyQMv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ"
 }

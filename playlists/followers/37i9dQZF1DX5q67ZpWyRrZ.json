@@ -1,732 +1,4629 @@
 {
-  "2021-12-28": 205106,
-  "2021-12-29": 205590,
-  "2021-12-30": 206167,
-  "2021-12-31": 206638,
-  "2022-01-01": 207463,
-  "2022-01-02": 207610,
-  "2022-01-03": 207928,
-  "2022-01-04": 208286,
-  "2022-01-05": 208646,
-  "2022-01-06": 209073,
-  "2022-01-07": 209496,
-  "2022-01-08": 210373,
-  "2022-01-09": 210373,
-  "2022-01-10": 210881,
-  "2022-01-11": 211309,
-  "2022-01-12": 211737,
-  "2022-01-13": 212060,
-  "2022-01-14": 212437,
-  "2022-01-15": 213194,
-  "2022-01-16": 213200,
-  "2022-01-17": 213905,
-  "2022-01-18": 213956,
-  "2022-01-19": 214194,
-  "2022-01-20": 214475,
-  "2022-01-21": 214835,
-  "2022-01-22": 215304,
-  "2022-01-23": 215785,
-  "2022-01-24": 216534,
-  "2022-01-25": 216998,
-  "2022-01-26": 217433,
-  "2022-01-27": 217852,
-  "2022-01-28": 218228,
-  "2022-01-29": 218599,
-  "2022-01-30": 218977,
-  "2022-01-31": 219404,
-  "2022-02-01": 219750,
-  "2022-02-02": 220107,
-  "2022-02-03": 220513,
-  "2022-02-04": 220909,
-  "2022-02-05": 221354,
-  "2022-02-06": 221793,
-  "2022-02-07": 222150,
-  "2022-02-08": 222507,
-  "2022-02-09": 222877,
-  "2022-02-10": 223168,
-  "2022-02-11": 223451,
-  "2022-02-12": 223752,
-  "2022-02-13": 224118,
-  "2022-02-14": 224481,
-  "2022-02-15": 224775,
-  "2022-02-16": 225246,
-  "2022-02-17": 225844,
-  "2022-02-18": 226450,
-  "2022-02-19": 227486,
-  "2022-02-20": 228774,
-  "2022-02-21": 229986,
-  "2022-02-22": 231186,
-  "2022-02-23": 232021,
-  "2022-02-24": 232951,
-  "2022-02-25": 233799,
-  "2022-02-26": 234903,
-  "2022-02-27": 236934,
-  "2022-02-28": 236934,
-  "2022-03-01": 237813,
-  "2022-03-02": 238700,
-  "2022-03-03": 239502,
-  "2022-03-04": 240349,
-  "2022-03-05": 241157,
-  "2022-03-06": 242041,
-  "2022-03-07": 243113,
-  "2022-03-08": 243988,
-  "2022-03-09": 244633,
-  "2022-03-10": 245302,
-  "2022-03-11": 245946,
-  "2022-03-12": 246628,
-  "2022-03-13": 247227,
-  "2022-03-14": 247769,
-  "2022-03-15": 248246,
-  "2022-03-16": 248762,
-  "2022-03-17": 249307,
-  "2022-03-18": 250019,
-  "2022-03-19": 250332,
-  "2022-03-20": 250332,
-  "2022-03-21": 251502,
-  "2022-03-22": 252014,
-  "2022-03-23": 252923,
-  "2022-03-24": 253757,
-  "2022-03-25": 254497,
-  "2022-03-26": 255113,
-  "2022-03-27": 255738,
-  "2022-03-28": 256302,
-  "2022-03-30": 257389,
-  "2022-03-31": 257919,
-  "2022-04-01": 258491,
-  "2022-04-02": 259027,
-  "2022-04-03": 259590,
-  "2022-04-04": 260143,
-  "2022-04-05": 260647,
-  "2022-04-06": 261212,
-  "2022-04-07": 261785,
-  "2022-04-08": 262357,
-  "2022-04-09": 262870,
-  "2022-04-10": 263911,
-  "2022-04-11": 264474,
-  "2022-04-12": 264561,
-  "2022-04-13": 265113,
-  "2022-04-14": 265715,
-  "2022-04-15": 266381,
-  "2022-04-16": 266957,
-  "2022-04-17": 267551,
-  "2022-04-18": 268185,
-  "2022-04-19": 268547,
-  "2022-04-20": 269064,
-  "2022-04-21": 269515,
-  "2022-04-22": 270047,
-  "2022-04-23": 270713,
-  "2022-04-24": 271336,
-  "2022-04-25": 271948,
-  "2022-04-26": 272495,
-  "2022-04-27": 273110,
-  "2022-04-28": 273541,
-  "2022-04-29": 274494,
-  "2022-04-30": 275119,
-  "2022-05-01": 275711,
-  "2022-05-02": 275711,
-  "2022-05-03": 276182,
-  "2022-05-04": 276679,
-  "2022-05-05": 277137,
-  "2022-05-06": 277550,
-  "2022-05-07": 278097,
-  "2022-05-08": 278801,
-  "2022-05-09": 278819,
-  "2022-05-10": 279567,
-  "2022-05-11": 280381,
-  "2022-05-12": 281175,
-  "2022-05-13": 281939,
-  "2022-05-14": 282729,
-  "2022-05-15": 283685,
-  "2022-05-16": 284660,
-  "2022-05-17": 285604,
-  "2022-05-18": 286475,
-  "2022-05-19": 287312,
-  "2022-05-20": 288343,
-  "2022-05-21": 294335,
-  "2022-05-22": 294335,
-  "2022-05-23": 298099,
-  "2022-05-24": 301038,
-  "2022-05-25": 303695,
-  "2022-05-26": 306040,
-  "2022-05-27": 308463,
-  "2022-05-28": 310688,
-  "2022-05-29": 312925,
-  "2022-05-30": 315052,
-  "2022-05-31": 317035,
-  "2022-06-01": 319622,
-  "2022-06-02": 319659,
-  "2022-06-03": 320250,
-  "2022-06-04": 320920,
-  "2022-06-05": 321814,
-  "2022-06-06": 322657,
-  "2022-06-07": 323398,
-  "2022-06-08": 324412,
-  "2022-06-09": 325098,
-  "2022-06-10": 325856,
-  "2022-06-11": 326597,
-  "2022-06-12": 327343,
-  "2022-06-13": 328082,
-  "2022-06-14": 328750,
-  "2022-06-15": 329368,
-  "2022-06-16": 329953,
-  "2022-06-17": 330508,
-  "2022-06-18": 331180,
-  "2022-06-19": 332479,
-  "2022-06-20": 332479,
-  "2022-06-21": 333075,
-  "2022-06-22": 334377,
-  "2022-06-23": 334377,
-  "2022-06-24": 335023,
-  "2022-06-25": 335693,
-  "2022-06-26": 336267,
-  "2022-06-27": 336841,
-  "2022-06-28": 337340,
-  "2022-06-29": 337938,
-  "2022-06-30": 338576,
-  "2022-07-01": 339351,
-  "2022-07-02": 340160,
-  "2022-07-03": 341000,
-  "2022-07-04": 341865,
-  "2022-07-05": 342654,
-  "2022-07-06": 343368,
-  "2022-07-07": 344068,
-  "2022-07-08": 344817,
-  "2022-07-09": 345556,
-  "2022-07-10": 346386,
-  "2022-07-11": 347159,
-  "2022-07-12": 347891,
-  "2022-07-13": 348628,
-  "2022-07-14": 349319,
-  "2022-07-15": 350025,
-  "2022-07-16": 350845,
-  "2022-07-17": 351702,
-  "2022-07-18": 352492,
-  "2022-07-19": 353147,
-  "2022-07-20": 353813,
-  "2022-07-21": 354489,
-  "2022-07-22": 355236,
-  "2022-07-23": 355876,
-  "2022-07-24": 356649,
-  "2022-07-25": 357388,
-  "2022-07-26": 358093,
-  "2022-07-27": 358725,
-  "2022-07-28": 359363,
-  "2022-07-29": 359968,
-  "2022-07-30": 361126,
-  "2022-07-31": 361126,
-  "2022-08-01": 361782,
-  "2022-08-02": 362928,
-  "2022-08-03": 362928,
-  "2022-08-04": 363537,
-  "2022-08-05": 364111,
-  "2022-08-06": 364742,
-  "2022-08-07": 365421,
-  "2022-08-08": 366058,
-  "2022-08-09": 366618,
-  "2022-08-10": 367240,
-  "2022-08-11": 367789,
-  "2022-08-12": 368307,
-  "2022-08-13": 368875,
-  "2022-08-14": 369516,
-  "2022-08-15": 370174,
-  "2022-08-16": 370813,
-  "2022-08-17": 371446,
-  "2022-08-18": 372051,
-  "2022-08-19": 372658,
-  "2022-08-20": 373242,
-  "2022-08-21": 373846,
-  "2022-08-22": 374479,
-  "2022-08-23": 375035,
-  "2022-08-24": 375628,
-  "2022-08-25": 376276,
-  "2022-08-26": 376888,
-  "2022-08-27": 377483,
-  "2022-08-28": 378135,
-  "2022-08-29": 378716,
-  "2022-08-30": 379243,
-  "2022-08-31": 379806,
-  "2022-09-01": 380323,
-  "2022-09-02": 380874,
-  "2022-09-03": 381479,
-  "2022-09-04": 382565,
-  "2022-09-05": 383367,
-  "2022-09-06": 383975,
-  "2022-09-07": 384555,
-  "2022-09-09": 385724,
-  "2022-09-10": 386255,
-  "2022-09-11": 386826,
-  "2022-09-12": 387462,
-  "2022-09-13": 387976,
-  "2022-09-15": 389072,
-  "2022-09-16": 389633,
-  "2022-09-17": 390576,
-  "2022-09-18": 391371,
-  "2022-09-19": 392047,
-  "2022-09-20": 392666,
-  "2022-09-21": 393331,
-  "2022-09-22": 393906,
-  "2022-09-23": 394530,
-  "2022-09-24": 395106,
-  "2022-09-25": 395690,
-  "2022-09-26": 396294,
-  "2022-09-27": 396799,
-  "2022-09-28": 397384,
-  "2022-09-29": 397923,
-  "2022-09-30": 398471,
-  "2022-10-01": 399484,
-  "2022-10-02": 400225,
-  "2022-10-03": 400933,
-  "2022-10-04": 401526,
-  "2022-10-05": 402111,
-  "2022-10-06": 402672,
-  "2022-10-07": 403248,
-  "2022-10-08": 403850,
-  "2022-10-09": 405148,
-  "2022-10-10": 405209,
-  "2022-10-11": 405762,
-  "2022-10-12": 406346,
-  "2022-10-13": 406850,
-  "2022-10-14": 407425,
-  "2022-10-15": 408293,
-  "2022-10-16": 409278,
-  "2022-10-17": 410184,
-  "2022-10-18": 411022,
-  "2022-10-19": 411704,
-  "2022-10-20": 412339,
-  "2022-10-21": 412953,
-  "2022-10-22": 413661,
-  "2022-10-23": 414224,
-  "2022-10-24": 414649,
-  "2022-10-25": 415019,
-  "2022-10-26": 415517,
-  "2022-10-27": 416082,
-  "2022-10-28": 416676,
-  "2022-10-29": 417266,
-  "2022-10-30": 417815,
-  "2022-10-31": 418416,
-  "2022-11-01": 419026,
-  "2022-11-02": 419603,
-  "2022-11-03": 420154,
-  "2022-11-04": 420819,
-  "2022-11-05": 421944,
-  "2022-11-06": 422877,
-  "2022-11-07": 423774,
-  "2022-11-08": 424576,
-  "2022-11-09": 425360,
-  "2022-11-10": 426001,
-  "2022-11-11": 426584,
-  "2022-11-12": 427306,
-  "2022-11-13": 427867,
-  "2022-11-14": 428595,
-  "2022-11-15": 429228,
-  "2022-11-16": 429803,
-  "2022-11-17": 430383,
-  "2022-11-18": 430662,
-  "2022-11-19": 430809,
-  "2022-11-20": 431345,
-  "2022-11-21": 432208,
-  "2022-11-22": 433032,
-  "2022-11-23": 432865,
-  "2022-11-24": 434772,
-  "2022-11-25": 435631,
-  "2022-11-26": 436179,
-  "2022-11-27": 436679,
-  "2022-11-28": 437208,
-  "2022-11-29": 437712,
-  "2022-11-30": 438153,
-  "2022-12-01": 438708,
-  "2022-12-02": 439044,
-  "2022-12-03": 439832,
-  "2022-12-04": 440420,
-  "2022-12-05": 440920,
-  "2022-12-06": 441441,
-  "2022-12-07": 441896,
-  "2022-12-08": 442372,
-  "2022-12-09": 442880,
-  "2022-12-10": 443568,
-  "2022-12-11": 444922,
-  "2022-12-12": 446077,
-  "2022-12-13": 447164,
-  "2022-12-14": 448114,
-  "2022-12-15": 449066,
-  "2022-12-16": 449863,
-  "2022-12-17": 451069,
-  "2022-12-18": 452161,
-  "2022-12-19": 453040,
-  "2022-12-20": 454700,
-  "2022-12-21": 454700,
-  "2022-12-22": 455482,
-  "2022-12-24": 456982,
-  "2022-12-25": 457784,
-  "2022-12-26": 458603,
-  "2022-12-27": 459447,
-  "2022-12-28": 460417,
-  "2022-12-29": 461315,
-  "2022-12-30": 462148,
-  "2022-12-31": 462987,
-  "2023-01-01": 463679,
-  "2023-01-02": 464397,
-  "2023-01-03": 465231,
-  "2023-01-04": 465932,
-  "2023-01-05": 466809,
-  "2023-01-06": 467798,
-  "2023-01-07": 469061,
-  "2023-01-08": 469120,
-  "2023-01-09": 469824,
-  "2023-01-10": 470524,
-  "2023-01-11": 470999,
-  "2023-01-12": 471325,
-  "2023-01-13": 471701,
-  "2023-01-14": 472361,
-  "2023-01-15": 472396,
-  "2023-01-16": 472683,
-  "2023-01-17": 472982,
-  "2023-01-18": 473410,
-  "2023-01-19": 473880,
-  "2023-01-20": 474335,
-  "2023-01-21": 474814,
-  "2023-01-22": 475293,
-  "2023-01-23": 475773,
-  "2023-01-24": 476256,
-  "2023-01-25": 476663,
-  "2023-01-26": 477103,
-  "2023-01-27": 477493,
-  "2023-01-28": 477948,
-  "2023-01-29": 478373,
-  "2023-01-30": 478833,
-  "2023-01-31": 478833,
-  "2023-02-01": 479612,
-  "2023-02-02": 479989,
-  "2023-02-03": 480672,
-  "2023-02-04": 482251,
-  "2023-02-05": 483936,
-  "2023-02-06": 485413,
-  "2023-02-07": 486658,
-  "2023-02-08": 488886,
-  "2023-02-09": 488886,
-  "2023-02-10": 489549,
-  "2023-02-11": 490172,
-  "2023-02-12": 491478,
-  "2023-02-13": 491997,
-  "2023-02-14": 491997,
-  "2023-02-15": 492441,
-  "2023-02-16": 493101,
-  "2023-02-17": 493832,
-  "2023-02-18": 495467,
-  "2023-02-19": 495644,
-  "2023-02-20": 496331,
-  "2023-02-21": 496991,
-  "2023-02-22": 497739,
-  "2023-02-23": 498551,
-  "2023-02-24": 499294,
-  "2023-02-25": 500227,
-  "2023-02-26": 500539,
-  "2023-02-27": 501638,
-  "2023-02-28": 501638,
-  "2023-03-01": 502145,
-  "2023-03-02": 502611,
-  "2023-03-03": 503052,
-  "2023-03-04": 504891,
-  "2023-03-05": 507034,
-  "2023-03-06": 507034,
-  "2023-03-07": 507830,
-  "2023-03-08": 508477,
-  "2023-03-09": 508868,
-  "2023-03-10": 509289,
-  "2023-03-11": 509749,
-  "2023-03-12": 510240,
-  "2023-03-13": 510707,
-  "2023-03-14": 511096,
-  "2023-03-15": 511580,
-  "2023-03-16": 512027,
-  "2023-03-17": 512027,
-  "2023-03-18": 513004,
-  "2023-03-19": 513581,
-  "2023-03-20": 514190,
-  "2023-03-21": 514695,
-  "2023-03-22": 515208,
-  "2023-03-23": 515660,
-  "2023-03-24": 515660,
-  "2023-03-25": 517162,
-  "2023-03-26": 518200,
-  "2023-03-27": 519185,
-  "2023-03-28": 520104,
-  "2023-03-29": 521278,
-  "2023-03-30": 522264,
-  "2023-03-31": 522264,
-  "2023-04-01": 522892,
-  "2023-04-02": 523582,
-  "2023-04-03": 524323,
-  "2023-04-04": 525016,
-  "2023-04-05": 525694,
-  "2023-04-06": 526239,
-  "2023-04-07": 526727,
-  "2023-04-09": 527916,
-  "2023-04-10": 528513,
-  "2023-04-11": 529643,
-  "2023-04-12": 529643,
-  "2023-04-13": 530195,
-  "2023-04-14": 530714,
-  "2023-04-15": 531270,
-  "2023-04-16": 531726,
-  "2023-04-17": 532197,
-  "2023-04-18": 532621,
-  "2023-04-19": 533108,
-  "2023-04-20": 533708,
-  "2023-04-21": 534297,
-  "2023-04-22": 535004,
-  "2023-04-23": 535534,
-  "2023-04-24": 536022,
-  "2023-04-25": 536470,
-  "2023-04-26": 536902,
-  "2023-04-27": 537279,
-  "2023-04-28": 537624,
-  "2023-04-29": 537989,
-  "2023-04-30": 538376,
-  "2023-05-01": 538767,
-  "2023-05-02": 539137,
-  "2023-05-03": 539532,
-  "2023-05-04": 539988,
-  "2023-05-05": 540381,
-  "2023-05-06": 540871,
-  "2023-05-07": 541306,
-  "2023-05-08": 541753,
-  "2023-05-09": 542124,
-  "2023-05-10": 542482,
-  "2023-05-11": 542879,
-  "2023-05-12": 543305,
-  "2023-05-13": 543671,
-  "2023-05-14": 544058,
-  "2023-05-15": 544466,
-  "2023-05-16": 544837,
-  "2023-05-17": 545203,
-  "2023-05-18": 545593,
-  "2023-05-19": 545985,
-  "2023-05-20": 547321,
-  "2023-05-21": 547321,
-  "2023-05-22": 547321,
-  "2023-05-23": 548770,
-  "2023-05-24": 549948,
-  "2023-05-25": 550014,
-  "2023-05-26": 550588,
-  "2023-05-27": 551156,
-  "2023-05-28": 551766,
-  "2023-05-29": 551766,
-  "2023-05-30": 552802,
-  "2023-05-31": 553376,
-  "2023-06-01": 553975,
-  "2023-06-02": 554572,
-  "2023-06-03": 555159,
-  "2023-06-04": 555716,
-  "2023-06-05": 556338,
-  "2023-06-06": 556892,
-  "2023-06-07": 557461,
-  "2023-06-08": 558022,
-  "2023-06-09": 558550,
-  "2023-06-10": 559101,
-  "2023-06-11": 559634,
-  "2023-06-12": 560167,
-  "2023-06-13": 560761,
-  "2023-06-14": 561321,
-  "2023-06-15": 561881,
-  "2023-06-16": 562464,
-  "2023-06-17": 563035,
-  "2023-06-18": 563682,
-  "2023-06-19": 564250,
-  "2023-06-20": 564827,
-  "2023-06-21": 565386,
-  "2023-06-22": 565919,
-  "2023-06-23": 566452,
-  "2023-06-24": 567013,
-  "2023-06-25": 567565,
-  "2023-06-26": 568180,
-  "2023-06-27": 568787,
-  "2023-06-28": 569330,
-  "2023-06-29": 569879,
-  "2023-06-30": 570415,
-  "2023-07-01": 573215,
-  "2023-07-02": 573215,
-  "2023-07-03": 574288,
-  "2023-07-04": 575115,
-  "2023-07-05": 575894,
-  "2023-07-06": 577224,
-  "2023-07-07": 577224,
-  "2023-07-08": 577856,
-  "2023-07-09": 578558,
-  "2023-07-10": 579252,
-  "2023-07-11": 579849,
-  "2023-07-12": 580432,
-  "2023-07-13": 580974,
-  "2023-07-14": 581454,
-  "2023-07-15": 581843,
-  "2023-07-16": 582409,
-  "2023-07-17": 582892,
-  "2023-07-18": 583393,
-  "2023-07-19": 584170,
-  "2023-07-20": 584663,
-  "2023-07-21": 585364,
-  "2023-07-22": 586361,
-  "2023-07-23": 587351,
-  "2023-07-24": 588254,
-  "2023-07-25": 589068,
-  "2023-07-26": 589992,
-  "2023-07-27": 590653,
-  "2023-07-28": 591431,
-  "2023-07-29": 592209,
-  "2023-07-30": 592869,
-  "2023-07-31": 593441,
-  "2023-08-01": 594065,
-  "2023-08-02": 594721,
-  "2023-08-03": 595302,
-  "2023-08-04": 595865,
-  "2023-08-05": 596523,
-  "2023-08-06": 597854,
-  "2023-08-07": 597854,
-  "2023-08-08": 598439,
-  "2023-08-09": 599049,
-  "2023-08-10": 599579,
-  "2023-08-11": 600193,
-  "2023-08-12": 600852,
-  "2023-08-13": 601390,
-  "2023-08-14": 601915,
-  "2023-08-15": 602873,
-  "2023-08-16": 602873,
-  "2023-08-17": 603364,
-  "2023-08-18": 603925,
-  "2023-08-19": 604497,
-  "2023-08-20": 605328,
-  "2023-08-21": 605898,
-  "2023-08-22": 606386,
-  "2023-08-23": 606916,
-  "2023-08-24": 607353,
-  "2023-08-25": 608000,
-  "2023-08-26": 610376,
-  "2023-08-27": 612330,
-  "2023-08-28": 613806,
-  "2023-08-29": 614891,
-  "2023-08-30": 615831,
-  "2023-08-31": 616471,
-  "2023-09-01": 617419,
-  "2023-09-02": 617419,
-  "2023-09-03": 617945,
-  "2023-09-04": 618525,
-  "2023-09-05": 619101,
-  "2023-09-06": 619480,
-  "2023-09-07": 619801,
-  "2023-09-08": 620332,
-  "2023-09-09": 623040,
-  "2023-09-10": 625516,
-  "2023-09-11": 627230,
-  "2023-09-12": 628575,
-  "2023-09-13": 629706,
-  "2023-09-14": 630315,
-  "2023-09-15": 630823,
-  "2023-09-16": 631377,
-  "2023-09-17": 631925,
-  "2023-09-18": 632433,
-  "2023-09-19": 632954,
-  "2023-09-20": 633309,
-  "2023-09-21": 633615,
-  "2023-09-22": 633936,
-  "2023-09-23": 634428,
-  "2023-09-24": 635061,
-  "2023-09-25": 635685,
-  "2023-09-26": 636376,
-  "2023-09-27": 636851,
-  "2023-09-28": 637569,
-  "2023-09-29": 638057,
-  "2023-09-30": 638603,
-  "2023-10-01": 639071,
-  "2023-10-02": 639596,
-  "2023-10-03": 640075,
-  "2023-10-04": 640648,
-  "2023-10-05": 641181,
-  "2023-10-06": 641698,
-  "2023-10-07": 642136,
-  "2023-10-08": 642548,
-  "2023-10-09": 643028,
-  "2023-10-10": 643397,
-  "2023-10-11": 644204,
-  "2023-10-12": 644204,
-  "2023-10-13": 644629,
-  "2023-10-14": 645006,
-  "2023-10-15": 645416,
-  "2023-10-16": 645871,
-  "2023-10-17": 646366,
-  "2023-10-18": 646876,
-  "2023-10-19": 647323,
-  "2023-10-20": 647733,
-  "2023-10-21": 648184,
-  "2023-10-22": 648694,
-  "2023-10-23": 649181,
-  "2023-10-24": 649674,
-  "2023-10-25": 650141,
-  "2023-10-26": 650670,
-  "2023-10-27": 651246,
-  "2023-10-28": 655139,
-  "2023-10-29": 657689,
-  "2023-10-30": 661167,
-  "2023-10-31": 661167,
-  "2023-11-01": 662506,
-  "2023-11-02": 663176,
-  "2023-11-03": 663642,
-  "2023-11-04": 664135,
-  "2023-11-05": 664555,
-  "2023-11-06": 665040,
-  "2023-11-07": 665522,
-  "2023-11-08": 666011,
-  "2023-11-09": 666457,
-  "2023-11-10": 666863,
-  "2023-11-11": 667315,
-  "2023-11-12": 667607,
-  "2023-11-13": 667855,
-  "2023-11-14": 668119,
-  "2023-11-15": 668119,
-  "2023-11-16": 668782,
-  "2023-11-17": 669554,
-  "2023-11-18": 669554,
-  "2023-11-19": 669945,
-  "2023-11-20": 670269,
-  "2023-11-21": 670622,
-  "2023-11-22": 671018,
-  "2023-11-23": 671329,
-  "2023-11-24": 671636,
-  "2023-11-25": 671958,
-  "2023-11-26": 672317,
-  "2023-11-27": 672655,
-  "2023-11-28": 672982,
-  "2023-11-29": 673633,
-  "2023-11-30": 673633,
-  "2023-12-01": 673929,
-  "2023-12-02": 674287,
-  "2023-12-03": 674685,
-  "2023-12-04": 675052,
-  "2023-12-05": 675430,
-  "2023-12-06": 675791,
-  "2023-12-07": 676120,
-  "2023-12-08": 676657,
-  "2023-12-09": 677897,
-  "2023-12-10": 679720,
-  "2023-12-11": 681340,
-  "2023-12-12": 682749,
-  "2023-12-13": 684101,
-  "2023-12-14": 685734,
-  "2023-12-15": 686484,
-  "2023-12-16": 687449,
-  "2023-12-17": 688317,
-  "2023-12-18": 689130,
-  "2023-12-19": 689911,
-  "2023-12-20": 690769,
-  "2023-12-21": 691710,
-  "2023-12-22": 692634,
-  "2023-12-23": 693654,
-  "2023-12-24": 694864,
-  "2023-12-25": 695710,
-  "2023-12-26": 696557,
-  "2023-12-27": 697368,
-  "2023-12-30": 700371,
-  "2023-12-31": 701327,
-  "2024-01-01": 702197,
-  "2024-01-02": 703046,
-  "2024-01-03": 703976
+  "2024-01-17": 715260,
+  "date_first_scraped": "2021-12-28",
+  "description": "Best of the Indian Indie scene. Cover - Anuv Jain",
+  "name": "Indie India ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aa Mil",
+        "url": "https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "Aa Mil",
+      "url": "https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1"
+    },
+    {
+      "album": {
+        "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233471,
+      "name": "Aaftaab",
+      "url": "https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r"
+    },
+    {
+      "album": {
+        "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 233471,
+      "name": "Aaftaab",
+      "url": "https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM"
+    },
+    {
+      "album": {
+        "name": "Aaina",
+        "url": "https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06"
+      },
+      "artists": [
+        {
+          "name": "AFKAP",
+          "url": "https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 180618,
+      "name": "Aaina",
+      "url": "https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY"
+    },
+    {
+      "album": {
+        "name": "Mimmi",
+        "url": "https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193425,
+      "name": "Aaj Na",
+      "url": "https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue"
+    },
+    {
+      "album": {
+        "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
+    },
+    {
+      "album": {
+        "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-26",
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 185305,
+      "name": "Aao Chalein",
+      "url": "https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/4mMnTBM6r70UINlb5Ag6jA"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185305,
+      "name": "Aao Chalein",
+      "url": "https://open.spotify.com/track/4LX8OArGCZ3hS0imHepe83"
+    },
+    {
+      "album": {
+        "name": "Aarzoo",
+        "url": "https://open.spotify.com/album/4fpwyrMEdb0e9EDoSvSgqW"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Pavitra Krishnan",
+          "url": "https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 205218,
+      "name": "Aarzoo",
+      "url": "https://open.spotify.com/track/26buvjxi64EHjKs2vfdZkf"
+    },
+    {
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/4UeiOPQE3Qxe8bo5U3jJZb"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 203197,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/362kqwSxB52iW2t6LcPveG"
+    },
+    {
+      "album": {
+        "name": "Caution to the Wind",
+        "url": "https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-22",
+      "duration_ms": 203213,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W"
+    },
+    {
+      "album": {
+        "name": "Ae Re Sakhi",
+        "url": "https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI"
+      },
+      "artists": [
+        {
+          "name": "Namita Choudhary",
+          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 222123,
+      "name": "Ae Re Sakhi",
+      "url": "https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h"
+    },
+    {
+      "album": {
+        "name": "Aise Ho Tum",
+        "url": "https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-22",
+      "duration_ms": 252000,
+      "name": "Aise Ho Tum",
+      "url": "https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0"
+    },
+    {
+      "album": {
+        "name": "Aisi Woh Baarish",
+        "url": "https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187553,
+      "name": "Aisi Woh Baarish",
+      "url": "https://open.spotify.com/track/3XjjpMYeKHGiiI9oM8rwSF"
+    },
+    {
+      "album": {
+        "name": "Akhiyaan",
+        "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "Akhiyaan",
+      "url": "https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz"
+    },
+    {
+      "album": {
+        "name": "Alag Aasmaan",
+        "url": "https://open.spotify.com/album/3ggRRHH3VsmspGHzOl4v42"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212750,
+      "name": "Alag Aasmaan",
+      "url": "https://open.spotify.com/track/3bQsp4Vr9Rg4fNCx6HPOgX"
+    },
+    {
+      "album": {
+        "name": "Alag Aasmaan",
+        "url": "https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 212773,
+      "name": "Alag Aasmaan",
+      "url": "https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0"
+    },
+    {
+      "album": {
+        "name": "Alfaazo",
+        "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158447,
+      "name": "Alfaazo",
+      "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
+    },
+    {
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 153693,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
+    },
+    {
+      "album": {
+        "name": "Antariksh",
+        "url": "https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Antariksh",
+      "url": "https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h"
+    },
+    {
+      "album": {
+        "name": "593, Vol. I",
+        "url": "https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Clifr",
+          "url": "https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14"
+        },
+        {
+          "name": "Issamood",
+          "url": "https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 130000,
+      "name": "Attached",
+      "url": "https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL"
+    },
+    {
+      "album": {
+        "name": "Aziyat",
+        "url": "https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB"
+      },
+      "artists": [
+        {
+          "name": "Pratsofficial",
+          "url": "https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "Aziyat",
+      "url": "https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq"
+    },
+    {
+      "album": {
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
+    },
+    {
+      "album": {
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/4quoXN797O4DI17FeOQRr5"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/2ntHbBDXOy9kiC0p8liLiU"
+    },
+    {
+      "album": {
+        "name": "Baarish Ka Asar",
+        "url": "https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "Baarish Ka Asar",
+      "url": "https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/4ysOhipyMXKstywus51VXS"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 207309,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207312,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
+    },
+    {
+      "album": {
+        "name": "Baatein",
+        "url": "https://open.spotify.com/album/0SwjECRoO3tjUhX3rYaqJf"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 246486,
+      "name": "Baatein",
+      "url": "https://open.spotify.com/track/3q5Ur1rIlB8NuOY6FbzxJs"
+    },
+    {
+      "album": {
+        "name": "Baaton Baaton Main",
+        "url": "https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "Baaton Baaton Main",
+      "url": "https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB"
+    },
+    {
+      "album": {
+        "name": "Jugaadistan (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0tPs35OLKpMmnxzWJXoyze"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-23",
+      "duration_ms": 161210,
+      "name": "Beh Jaana",
+      "url": "https://open.spotify.com/track/4EO3U6Ip5sVJZGTQuemMev"
+    },
+    {
+      "album": {
+        "name": "Betahasha",
+        "url": "https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Nilotpal Sinha",
+          "url": "https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 196233,
+      "name": "Betahasha",
+      "url": "https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 199000,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N"
+      },
+      "artists": [
+        {
+          "name": "Nida",
+          "url": "https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs"
+        },
+        {
+          "name": "Derric D'souza",
+          "url": "https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 153472,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA"
+    },
+    {
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/0Q40XX2V1XxzMSyFi95J7h"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-25",
+      "duration_ms": 103340,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc"
+    },
+    {
+      "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233630,
+      "name": "Choo Lo",
+      "url": "https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb"
+    },
+    {
+      "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 233630,
+      "name": "Choo Lo",
+      "url": "https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul"
+    },
+    {
+      "album": {
+        "name": "City Life - Single",
+        "url": "https://open.spotify.com/album/2q1dmnBWQqQAYxcXybUNAr"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 160844,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/2jfLNlyUpxhFkoo1lJjiL3"
+    },
+    {
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Co2",
+      "url": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N"
+    },
+    {
+      "album": {
+        "name": "cold / mess",
+        "url": "https://open.spotify.com/album/668sak5iUcXZeaOwq3fERM"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed"
+    },
+    {
+      "album": {
+        "name": "cold/mess (on piano)",
+        "url": "https://open.spotify.com/album/3AXu7GBasMntxZvZS7dL8g"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/4QVeAu5Sha4eGfPlGJPR69"
+    },
+    {
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
+    },
+    {
+      "album": {
+        "name": "Cool Kids",
+        "url": "https://open.spotify.com/album/2nFDQjOYZqRB7THcM5eEqs"
+      },
+      "artists": [
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 172584,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo"
+    },
+    {
+      "album": {
+        "name": "days",
+        "url": "https://open.spotify.com/album/0CFZJ9jU1NkaV14kEqrFvF"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 150000,
+      "name": "days",
+      "url": "https://open.spotify.com/track/7xxk2elVJN3IjhbV3T8Shz"
+    },
+    {
+      "album": {
+        "name": "Dear Mind (En Route)",
+        "url": "https://open.spotify.com/album/4Q8UxMXgLhub4QoiE9c5Ff"
+      },
+      "artists": [
+        {
+          "name": "Rachel Singh",
+          "url": "https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 234228,
+      "name": "Dear Mind (En Route)",
+      "url": "https://open.spotify.com/track/1zINTeMqxjb9UtMhOsIQPJ"
+    },
+    {
+      "album": {
+        "name": "Poetry Ceylon",
+        "url": "https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi"
+      },
+      "artists": [
+        {
+          "name": "Ditty",
+          "url": "https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-07",
+      "duration_ms": 218083,
+      "name": "Deathcab",
+      "url": "https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn"
+    },
+    {
+      "album": {
+        "name": "Dhundhala",
+        "url": "https://open.spotify.com/album/0RS1ikVCpsD3UHxxpbvpSg"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Dhundhala",
+      "url": "https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0"
+    },
+    {
+      "album": {
+        "name": "Dhundhala",
+        "url": "https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Dropped Out",
+          "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
+      "duration_ms": 182400,
+      "name": "Dhundhala",
+      "url": "https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ"
+    },
+    {
+      "album": {
+        "name": "Dil Beparvah (The Dewarists, Season 5)",
+        "url": "https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Dhruv Bhola",
+          "url": "https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x"
+        },
+        {
+          "name": "Nikhil Vasudevan",
+          "url": "https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 250000,
+      "name": "Dil Beparvah - The Dewarists, Season 5",
+      "url": "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
+    },
+    {
+      "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211290,
+      "name": "Dil Mere",
+      "url": "https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3"
+    },
+    {
+      "album": {
+        "name": "Aalas Ka Pedh",
+        "url": "https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 211290,
+      "name": "Dil Mere",
+      "url": "https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC"
+    },
+    {
+      "album": {
+        "name": "Dilbar",
+        "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168545,
+      "name": "Dilbar",
+      "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
+    },
+    {
+      "album": {
+        "name": "Dilbar",
+        "url": "https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ"
+      },
+      "artists": [
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 168545,
+      "name": "Dilbar",
+      "url": "https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS"
+    },
+    {
+      "album": {
+        "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 207530,
+      "name": "Dilnawaz",
+      "url": "https://open.spotify.com/track/2KDR0VRWbQ88LQ1cdi8T3z"
+    },
+    {
+      "album": {
+        "name": "Dooriyaan",
+        "url": "https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0"
+      },
+      "artists": [
+        {
+          "name": "Shubumm",
+          "url": "https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 168888,
+      "name": "Dooriyaan",
+      "url": "https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa"
+    },
+    {
+      "album": {
+        "name": "Duur",
+        "url": "https://open.spotify.com/album/1osbbEkkZTnW5cUA44YoVz"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        },
+        {
+          "name": "OAFF",
+          "url": "https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 186570,
+      "name": "Duur",
+      "url": "https://open.spotify.com/track/12GcQC9YI2VWwPGxnmrSlJ"
+    },
+    {
+      "album": {
+        "name": "Ek Din",
+        "url": "https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1"
+      },
+      "artists": [
+        {
+          "name": "Raman Negi",
+          "url": "https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 300202,
+      "name": "Ek Din",
+      "url": "https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x"
+    },
+    {
+      "album": {
+        "name": "Ek Pal",
+        "url": "https://open.spotify.com/album/1NU5fBhBK0zR6Ei6FGw8Dl"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271304,
+      "name": "Ek Pal",
+      "url": "https://open.spotify.com/track/4YmuwxEfzF5bXTuwg3sYbE"
+    },
+    {
+      "album": {
+        "name": "As Written in the Stars",
+        "url": "https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm"
+      },
+      "artists": [
+        {
+          "name": "Easy Wanderlings",
+          "url": "https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-13",
+      "duration_ms": 180640,
+      "name": "Enjoy It While It Lasts",
+      "url": "https://open.spotify.com/track/46aRt9ol4YgFYVpMzj6M9c"
+    },
+    {
+      "album": {
+        "name": "Faasle",
+        "url": "https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221988,
+      "name": "Faasle",
+      "url": "https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e"
+    },
+    {
+      "album": {
+        "name": "Farq hai",
+        "url": "https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184090,
+      "name": "Farq hai",
+      "url": "https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg"
+    },
+    {
+      "album": {
+        "name": "Favorite Peeps",
+        "url": "https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
+    },
+    {
+      "album": {
+        "name": "Joy of Little Things",
+        "url": "https://open.spotify.com/album/0xCqFIlyDXXxganfCHM8yV"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 218000,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/3TaoFBplKZB4AclYV2cDwT"
+    },
+    {
+      "album": {
+        "name": "Foolish Once Again",
+        "url": "https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV"
+      },
+      "artists": [
+        {
+          "name": "Frizzell D'souza",
+          "url": "https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-15",
+      "duration_ms": 243692,
+      "name": "Foolish Once Again",
+      "url": "https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI"
+    },
+    {
+      "album": {
+        "name": "Ghar - Single",
+        "url": "https://open.spotify.com/album/6nM5UP5xW2kR0paskwtDe1"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 305000,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/4sHxclJmWy9lEdbZZ3WAfW"
+    },
+    {
+      "album": {
+        "name": "Class: Season 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P"
+      },
+      "artists": [
+        {
+          "name": "Aditya N.",
+          "url": "https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d"
+        },
+        {
+          "name": "Nayantara Bhatkal",
+          "url": "https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA"
+        },
+        {
+          "name": "Class",
+          "url": "https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 138769,
+      "name": "Girta Sambhalta",
+      "url": "https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1"
+    },
+    {
+      "album": {
+        "name": "GRIND",
+        "url": "https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 175449,
+      "name": "GRIND",
+      "url": "https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC"
+    },
+    {
+      "album": {
+        "name": "Gul",
+        "url": "https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 217241,
+      "name": "Gul",
+      "url": "https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf"
+    },
+    {
+      "album": {
+        "name": "Gul",
+        "url": "https://open.spotify.com/album/7gxvq2TLEEThZzaOQEOI2r"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217250,
+      "name": "Gul",
+      "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs"
+    },
+    {
+      "album": {
+        "name": "Gumsum",
+        "url": "https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 175862,
+      "name": "Gumsum",
+      "url": "https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo"
+    },
+    {
+      "album": {
+        "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
+        "url": "https://open.spotify.com/album/66xOQ66ZnZPAlA6thPN5kb"
+      },
+      "artists": [
+        {
+          "name": "Kushal Chokshi",
+          "url": "https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa"
+        },
+        {
+          "name": "Jaysinh Gadhvi",
+          "url": "https://open.spotify.com/artist/1HEuIORmED1xTKDDiPH6MJ"
+        },
+        {
+          "name": "Kavi Shree Ghanshyam Gadhvi",
+          "url": "https://open.spotify.com/artist/4rU6mQr0ILE4ulexLA3l7W"
+        },
+        {
+          "name": "Bhargav Purohit",
+          "url": "https://open.spotify.com/artist/2v7bvNV1rWBtzZqFj2L9Qc"
+        },
+        {
+          "name": "Raju Bhaai",
+          "url": "https://open.spotify.com/artist/1rF0er2kxD1tn46ToQavcC"
+        },
+        {
+          "name": "Sagar Patel",
+          "url": "https://open.spotify.com/artist/1hVYdNuFnaMpCWK9t5J6S5"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 175929,
+      "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
+      "url": "https://open.spotify.com/track/0fzVqKKvn5P6MU3kNYsqgM"
+    },
+    {
+      "album": {
+        "name": "Hazir Main Rahun",
+        "url": "https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr"
+      },
+      "artists": [
+        {
+          "name": "Pratsofficial",
+          "url": "https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 247680,
+      "name": "Hazir Main Rahun",
+      "url": "https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW"
+    },
+    {
+      "album": {
+        "name": "Heer Ranjha",
+        "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "Heer Ranjha",
+      "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
+    },
+    {
+      "album": {
+        "name": "HIIR",
+        "url": "https://open.spotify.com/album/1lanWxzAYPt2NgrtvQTFQZ"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Kimera",
+          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 163764,
+      "name": "HIIR",
+      "url": "https://open.spotify.com/track/0LVplQ76aGSnnggq9IbP5b"
+    },
+    {
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0saEF9ixZrT50jbiM8CUdY"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        },
+        {
+          "name": "Soham Mallick",
+          "url": "https://open.spotify.com/artist/0xEem18avGCL5Bacbup8Ue"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-11",
+      "duration_ms": 180070,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/4vOElXsN9pB63rxcRV55tW"
+    },
+    {
+      "album": {
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
+    },
+    {
+      "album": {
+        "name": "Saar",
+        "url": "https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        },
+        {
+          "name": "Sanchi",
+          "url": "https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 157674,
+      "name": "Humara Ho Gaya",
+      "url": "https://open.spotify.com/track/7qMCYAkTTbFOw1hUXvAAje"
+    },
+    {
+      "album": {
+        "name": "Humne Bhi - Single",
+        "url": "https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 252666,
+      "name": "Humne Bhi",
+      "url": "https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu"
+    },
+    {
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
+    },
+    {
+      "album": {
+        "name": "i'll find my way to you tomorrow",
+        "url": "https://open.spotify.com/album/4KIpuP4MsEiGLbyiGR9BNS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fernando",
+          "url": "https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-20",
+      "duration_ms": 225882,
+      "name": "i'll find my way to you tomorrow",
+      "url": "https://open.spotify.com/track/4zTg4g1gKpxWTShLFDEill"
+    },
+    {
+      "album": {
+        "name": "i'll find my way to you tomorrow",
+        "url": "https://open.spotify.com/album/2bzG2vEFeUShVRUrJUlO7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fernando",
+          "url": "https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 225882,
+      "name": "i'll find my way to you tomorrow",
+      "url": "https://open.spotify.com/track/6kRAuOoZBRLwZQYjFdGjIa"
+    },
+    {
+      "album": {
+        "name": "I'm On Holiday",
+        "url": "https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw"
+      },
+      "artists": [
+        {
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 212068,
+      "name": "I'm On Holiday",
+      "url": "https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f"
+    },
+    {
+      "album": {
+        "name": "Ik Tu Hi (No-Mabe)",
+        "url": "https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 196060,
+      "name": "Ik Tu Hi (No-Mabe)",
+      "url": "https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf"
+    },
+    {
+      "album": {
+        "name": "Intezaar",
+        "url": "https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 235964,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r"
+    },
+    {
+      "album": {
+        "name": "Jaadoogari",
+        "url": "https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar Collective",
+          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 260000,
+      "name": "Jaadoogari",
+      "url": "https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy"
+    },
+    {
+      "album": {
+        "name": "jaana",
+        "url": "https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 181470,
+      "name": "jaana",
+      "url": "https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN"
+    },
+    {
+      "album": {
+        "name": "Jaane Hi Do",
+        "url": "https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 131578,
+      "name": "Jaane Hi Do",
+      "url": "https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY"
+    },
+    {
+      "album": {
+        "name": "Jab Tum Miley",
+        "url": "https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN"
+      },
+      "artists": [
+        {
+          "name": "Abhilasha Sinha",
+          "url": "https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 246111,
+      "name": "Jab Tum Miley",
+      "url": "https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2"
+    },
+    {
+      "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "album": {
+        "name": "Je Suis La Pomme Rouge",
+        "url": "https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv"
+      },
+      "artists": [
+        {
+          "name": "Parekh & Singh",
+          "url": "https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 270265,
+      "name": "Je Suis La Pomme Rouge",
+      "url": "https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P"
+    },
+    {
+      "album": {
+        "name": "Jhaag",
+        "url": "https://open.spotify.com/album/7jmDLNVORMzMHfyF0we05g"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "Jhaag",
+      "url": "https://open.spotify.com/track/7zwqxNGf7cJLPXgOkEkHHA"
+    },
+    {
+      "album": {
+        "name": "Jiyara",
+        "url": "https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv"
+      },
+      "artists": [
+        {
+          "name": "Gautam Kale",
+          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-05",
+      "duration_ms": 156750,
+      "name": "Jiyara",
+      "url": "https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY"
+    },
+    {
+      "album": {
+        "name": "Junoon",
+        "url": "https://open.spotify.com/album/5j7k8clw2nghIdjcn36Ixg"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 191111,
+      "name": "Junoon",
+      "url": "https://open.spotify.com/track/1Y5treJOPB7WnAMZnsA5u8"
+    },
+    {
+      "album": {
+        "name": "Junoon",
+        "url": "https://open.spotify.com/album/1sGWRNrgW1D1MTuBhz2mfs"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "Junoon",
+      "url": "https://open.spotify.com/track/4roFMBSQp7W4fYVxKMmhA5"
+    },
+    {
+      "album": {
+        "name": "Junoon",
+        "url": "https://open.spotify.com/album/4KA5BoR2KMS1r1sAeboAtB"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 191146,
+      "name": "Junoon",
+      "url": "https://open.spotify.com/track/6RhlD5GzvU7ldIZuJjUpYu"
+    },
+    {
+      "album": {
+        "name": "Junoon",
+        "url": "https://open.spotify.com/album/2gHK3nRcJproG8BJnGXBRp"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 193166,
+      "name": "Junoon",
+      "url": "https://open.spotify.com/track/1orJGWzbhRYpd44WHJ6gMX"
+    },
+    {
+      "album": {
+        "name": "Just A Word",
+        "url": "https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 180013,
+      "name": "Just A Word",
+      "url": "https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u"
+    },
+    {
+      "album": {
+        "name": "Kaagaz Ki Naav",
+        "url": "https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 297968,
+      "name": "Kaagaz Ki Naav",
+      "url": "https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G"
+    },
+    {
+      "album": {
+        "name": "Kaari",
+        "url": "https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 157777,
+      "name": "Kaari",
+      "url": "https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhi",
+        "url": "https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M"
+      },
+      "artists": [
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 214000,
+      "name": "Kabhi Kabhi",
+      "url": "https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh"
+    },
+    {
+      "album": {
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-10",
+      "duration_ms": 188200,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK"
+    },
+    {
+      "album": {
+        "name": "Kaise Ab Kahein (From \"Gutar Gu\")",
+        "url": "https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy"
+      },
+      "artists": [
+        {
+          "name": "Gaurav Chatterji",
+          "url": "https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT"
+        },
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Hrishi Giridhar",
+          "url": "https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc"
+        },
+        {
+          "name": "Pratik Gangavane",
+          "url": "https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kaise Ab Kahein - From \"Gutar Gu\"",
+      "url": "https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9"
+    },
+    {
+      "album": {
+        "name": "Kaise Banu",
+        "url": "https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "Kaise Banu",
+      "url": "https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt"
+    },
+    {
+      "album": {
+        "name": "Kanaa",
+        "url": "https://open.spotify.com/album/1SVZ3tkWEkyE7gY1wRkN7F"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "2jaym",
+          "url": "https://open.spotify.com/artist/1JydyoYCEY3j5NSeagX44i"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 257683,
+      "name": "Kanaa",
+      "url": "https://open.spotify.com/track/6J2pC3j9WF4tVJo4mEHZdn"
+    },
+    {
+      "album": {
+        "name": "Kasoor",
+        "url": "https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197549,
+      "name": "Kasoor",
+      "url": "https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql"
+    },
+    {
+      "album": {
+        "name": "Katputli Ke Dhaage",
+        "url": "https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173764,
+      "name": "Katputli Ke Dhaage",
+      "url": "https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc"
+    },
+    {
+      "album": {
+        "name": "Khaali Si Rooh",
+        "url": "https://open.spotify.com/album/4KMgvwY6zwqErkUNGBB1P3"
+      },
+      "artists": [
+        {
+          "name": "Athul Prabhu",
+          "url": "https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182039,
+      "name": "Khaali Si Rooh",
+      "url": "https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20"
+    },
+    {
+      "album": {
+        "name": "Khaali Si Rooh",
+        "url": "https://open.spotify.com/album/724wbbB0GTCGXVQAOW5yYQ"
+      },
+      "artists": [
+        {
+          "name": "Athul Prabhu",
+          "url": "https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 182039,
+      "name": "Khaali Si Rooh",
+      "url": "https://open.spotify.com/track/6VoAyZQ3LDhrySUdI1XHzP"
+    },
+    {
+      "album": {
+        "name": "Khaare Raste",
+        "url": "https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 246857,
+      "name": "Khaare Raste",
+      "url": "https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3"
+    },
+    {
+      "album": {
+        "name": "Khaare Raste",
+        "url": "https://open.spotify.com/album/5QQ7MFhhD8E4AhcynAFsfY"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Khaare Raste",
+      "url": "https://open.spotify.com/track/5gQJZ484gEcVHD2OCuquik"
+    },
+    {
+      "album": {
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
+    },
+    {
+      "album": {
+        "name": "Khamoshi",
+        "url": "https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 189391,
+      "name": "Khamoshi",
+      "url": "https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA"
+    },
+    {
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
+    },
+    {
+      "album": {
+        "name": "Mismatched: Season 2 (Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2bJRbj971pXenefii5i3mY"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Mismatched",
+          "url": "https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 197763,
+      "name": "Kho Gaye",
+      "url": "https://open.spotify.com/track/5iaKalECn9aYPfh9w07yOX"
+    },
+    {
+      "album": {
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        },
+        {
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197763,
+      "name": "Kho Gaye",
+      "url": "https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 212571,
+      "name": "Khoj (Passing By)",
+      "url": "https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx"
+    },
+    {
+      "album": {
+        "name": "Khoya",
+        "url": "https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA"
+      },
+      "artists": [
+        {
+          "name": "Zariya",
+          "url": "https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1"
+        },
+        {
+          "name": "Aseem",
+          "url": "https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178197,
+      "name": "Khoya",
+      "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
+    },
+    {
+      "album": {
+        "name": "Khush to Hai Na",
+        "url": "https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 191020,
+      "name": "Khush to Hai Na",
+      "url": "https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH"
+    },
+    {
+      "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
+      },
+      "artists": [
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178421,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
+    },
+    {
+      "album": {
+        "name": "Koi Jaane Na",
+        "url": "https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 256285,
+      "name": "Koi Jaane Na",
+      "url": "https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt"
+    },
+    {
+      "album": {
+        "name": "KTMBK",
+        "url": "https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "KTMBK",
+      "url": "https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN"
+    },
+    {
+      "album": {
+        "name": "Genesis 1:1",
+        "url": "https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 154434,
+      "name": "KTMBK",
+      "url": "https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p"
+    },
+    {
+      "album": {
+        "name": "Kya Tum Naraaz Ho? (Raw)",
+        "url": "https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg"
+      },
+      "artists": [
+        {
+          "name": "Tanmaya Bhatnagar",
+          "url": "https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 212530,
+      "name": "Kya Tum Naraaz Ho? (Raw)",
+      "url": "https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt"
+    },
+    {
+      "album": {
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
+    },
+    {
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
+    },
+    {
+      "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/7xVbSmKMvGY6dcEie2OAn0"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 149137,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/6iEHCMrU5HN5CCFppq27Yi"
+    },
+    {
+      "album": {
+        "name": "Le Chal",
+        "url": "https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196602,
+      "name": "Le Chal",
+      "url": "https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M"
+    },
+    {
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/2ahNr4xlqGaK106um9nayR"
+      },
+      "artists": [
+        {
+          "name": "Kalum\u00e9",
+          "url": "https://open.spotify.com/artist/5p9hcmZfvnNdDLLWt5NzxZ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 196414,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/514yEEVqyRwV90BSezTLtU"
+    },
+    {
+      "album": {
+        "name": "Liggi",
+        "url": "https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 181176,
+      "name": "Liggi",
+      "url": "https://open.spotify.com/track/4vwPirpSJCOiIsgxMV4Xcv"
+    },
+    {
+      "album": {
+        "name": "Lt Dwn",
+        "url": "https://open.spotify.com/album/5ldsw3j4SYLuTmtc4jLWGm"
+      },
+      "artists": [
+        {
+          "name": "Moondrip",
+          "url": "https://open.spotify.com/artist/4nDtB3eC5cOCiA27wYqDTh"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 247875,
+      "name": "Lt Dwn",
+      "url": "https://open.spotify.com/track/4f1spv2bssB5VP9VGgzH1i"
+    },
+    {
+      "album": {
+        "name": "Mai Ni Meriye",
+        "url": "https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-10",
+      "duration_ms": 172901,
+      "name": "Mai Ni Meriye",
+      "url": "https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv"
+    },
+    {
+      "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191015,
+      "name": "Mann",
+      "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
+    },
+    {
+      "album": {
+        "name": "Manzil",
+        "url": "https://open.spotify.com/album/690gJ0guvYLVbS9nkT5Mnp"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 191952,
+      "name": "Manzil",
+      "url": "https://open.spotify.com/track/5fPWflMcJ7zT8BSnHQD9Wh"
+    },
+    {
+      "album": {
+        "name": "Matwari",
+        "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
+      },
+      "artists": [
+        {
+          "name": "Samahita Narang",
+          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-15",
+      "duration_ms": 200000,
+      "name": "Matwari",
+      "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
+    },
+    {
+      "album": {
+        "name": "Mazaak",
+        "url": "https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
+      "duration_ms": 212054,
+      "name": "Mazaak",
+      "url": "https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0"
+    },
+    {
+      "album": {
+        "name": "Mazaak",
+        "url": "https://open.spotify.com/album/2Uewap1o2Ic2XmN4wb9isV"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "Mazaak",
+      "url": "https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg"
+    },
+    {
+      "album": {
+        "name": "Mimmi",
+        "url": "https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 142201,
+      "name": "Mehfooz",
+      "url": "https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy"
+    },
+    {
+      "album": {
+        "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
+      },
+      "artists": [
+        {
+          "name": "Sickflip",
+          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+        },
+        {
+          "name": "Mismatched - Cast",
+          "url": "https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm"
+        },
+        {
+          "name": "Raitila Rajasthan",
+          "url": "https://open.spotify.com/artist/03CXCirzmzFLNwU4frezp7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-03",
+      "duration_ms": 170400,
+      "name": "Mehmaan",
+      "url": "https://open.spotify.com/track/3s5Rz3KFms39ZrFDw2jt4r"
+    },
+    {
+      "album": {
+        "name": "Mera Safar",
+        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190549,
+      "name": "Mera Safar",
+      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
+    },
+    {
+      "album": {
+        "name": "Meri Baaton Mein Tu",
+        "url": "https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 213986,
+      "name": "Meri Baaton Mein Tu",
+      "url": "https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4"
+    },
+    {
+      "album": {
+        "name": "Milon Chala",
+        "url": "https://open.spotify.com/album/3kkhdt3cKKiZySDihwFbPG"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 190270,
+      "name": "Milon Chala",
+      "url": "https://open.spotify.com/track/0ZnlE3PfamXPMCsT5wr3sK"
+    },
+    {
+      "album": {
+        "name": "Milon Chala",
+        "url": "https://open.spotify.com/album/1ORhB6Qy0t3uSwPFpCMYUh"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190270,
+      "name": "Milon Chala",
+      "url": "https://open.spotify.com/track/3EZRMX38CXvegTt5cMbRNR"
+    },
+    {
+      "album": {
+        "name": "Mishri",
+        "url": "https://open.spotify.com/album/0xAwBbCJPemAmPVOIe5UXw"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 200437,
+      "name": "Mishri",
+      "url": "https://open.spotify.com/track/1xtkLqZcGPQZP9549WlmfH"
+    },
+    {
+      "album": {
+        "name": "Triggerpunkte",
+        "url": "https://open.spotify.com/album/3pYIITsdGh2WLrRLx3nX2f"
+      },
+      "artists": [
+        {
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 279840,
+      "name": "Moon Child",
+      "url": "https://open.spotify.com/track/5Y4vRBs4QCUloQ5W9Wb58j"
+    },
+    {
+      "album": {
+        "name": "Mujhe Mere Naam Se",
+        "url": "https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 223806,
+      "name": "Mujhe Mere Naam Se",
+      "url": "https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz"
+    },
+    {
+      "album": {
+        "name": "Mulaqat",
+        "url": "https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246519,
+      "name": "Mulaqat",
+      "url": "https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa"
+    },
+    {
+      "album": {
+        "name": "Muskan",
+        "url": "https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 198303,
+      "name": "Muskan",
+      "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
+    },
+    {
+      "album": {
+        "name": "Muskurahat",
+        "url": "https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258716,
+      "name": "Muskurahat",
+      "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
+    },
+    {
+      "album": {
+        "name": "Nadaniya",
+        "url": "https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 172564,
+      "name": "Nadaniya",
+      "url": "https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq"
+    },
+    {
+      "album": {
+        "name": "Nanchaku",
+        "url": "https://open.spotify.com/album/4cniRITVrmzAABlGgNv6k4"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 193116,
+      "name": "Nanchaku",
+      "url": "https://open.spotify.com/track/6YwiqqQ5xoeUkPwrn9cfEw"
+    },
+    {
+      "album": {
+        "name": "Narazi",
+        "url": "https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168064,
+      "name": "Narazi",
+      "url": "https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9"
+    },
+    {
+      "album": {
+        "name": "Nasha (Equals Sessions) - Single",
+        "url": "https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ"
+      },
+      "artists": [
+        {
+          "name": "Faridkot",
+          "url": "https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL"
+        },
+        {
+          "name": "Amar Jalal",
+          "url": "https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287573,
+      "name": "Nasha (Equals Sessions)",
+      "url": "https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH"
+    },
+    {
+      "album": {
+        "name": "Jaago",
+        "url": "https://open.spotify.com/album/0iH6pbUrb45P62B82PHDLb"
+      },
+      "artists": [
+        {
+          "name": "Lifafa",
+          "url": "https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-19",
+      "duration_ms": 211787,
+      "name": "Nikamma",
+      "url": "https://open.spotify.com/track/0yrCxEoGU4cV3CGr0sc65J"
+    },
+    {
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
+    },
+    {
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 158446,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
+    {
+      "album": {
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
+      },
+      "artists": [
+        {
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Pahadon Mein",
+      "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
+    },
+    {
+      "album": {
+        "name": "Pal Behta Jaaye",
+        "url": "https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 174545,
+      "name": "Pal Behta Jaaye",
+      "url": "https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ"
+    },
+    {
+      "album": {
+        "name": "Parda",
+        "url": "https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192323,
+      "name": "Parda",
+      "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
+    },
+    {
+      "album": {
+        "name": "Pardo",
+        "url": "https://open.spotify.com/album/3RdqIXCoSYTHEXsJGHPwgT"
+      },
+      "artists": [
+        {
+          "name": "Nishu",
+          "url": "https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 226720,
+      "name": "Pardo",
+      "url": "https://open.spotify.com/track/1cl1Wckhfp6MtydmHjVOyd"
+    },
+    {
+      "album": {
+        "name": "Parinda",
+        "url": "https://open.spotify.com/album/7705P7v2PKvpK7HZUd1SEc"
+      },
+      "artists": [
+        {
+          "name": "Xubaan",
+          "url": "https://open.spotify.com/artist/0c8yvHOj92kzm4suLMGgbZ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 281666,
+      "name": "Parinda",
+      "url": "https://open.spotify.com/track/2Pas1bpuA8riVr0BOTCpJx"
+    },
+    {
+      "album": {
+        "name": "Pehli Baar Mile",
+        "url": "https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-23",
+      "duration_ms": 203137,
+      "name": "Pehli Baar Mile",
+      "url": "https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj"
+    },
+    {
+      "album": {
+        "name": "Pehli Baarish (Acoustic)",
+        "url": "https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Pehli Baarish - Acoustic",
+      "url": "https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F"
+    },
+    {
+      "album": {
+        "name": "People - Single",
+        "url": "https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS"
+      },
+      "artists": [
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 188689,
+      "name": "People - Hindi Reprise",
+      "url": "https://open.spotify.com/track/0hWGN19owiVVfI2f3ePxij"
+    },
+    {
+      "album": {
+        "name": "Phir Bekhabar",
+        "url": "https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 197304,
+      "name": "Phir Bekhabar",
+      "url": "https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA"
+    },
+    {
+      "album": {
+        "name": "Qareeb",
+        "url": "https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        },
+        {
+          "name": "Shayan Rashid",
+          "url": "https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Qareeb",
+      "url": "https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0"
+    },
+    {
+      "album": {
+        "name": "Raahein",
+        "url": "https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX"
+      },
+      "artists": [
+        {
+          "name": "Shadow and Light",
+          "url": "https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 277636,
+      "name": "Raahein",
+      "url": "https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur"
+    },
+    {
+      "album": {
+        "name": "Raaton",
+        "url": "https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200237,
+      "name": "Raaton",
+      "url": "https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB"
+    },
+    {
+      "album": {
+        "name": "Raaz Tera Mera",
+        "url": "https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Raaz Tera Mera",
+      "url": "https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN"
+    },
+    {
+      "album": {
+        "name": "Rab Raakha",
+        "url": "https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 239956,
+      "name": "Rab Raakha",
+      "url": "https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz"
+    },
+    {
+      "album": {
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
+    },
+    {
+      "album": {
+        "name": "Ratiya",
+        "url": "https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ"
+      },
+      "artists": [
+        {
+          "name": "Pina Colada Blues",
+          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 165900,
+      "name": "Ratiya",
+      "url": "https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc"
+    },
+    {
+      "album": {
+        "name": "Rehnuma",
+        "url": "https://open.spotify.com/album/5ZG20aDD6ZyqeFHyDzufeO"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 193000,
+      "name": "Rehnuma",
+      "url": "https://open.spotify.com/track/4l9YKebWc0WGhcNbtJFeRe"
+    },
+    {
+      "album": {
+        "name": "Roz Roz",
+        "url": "https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218550,
+      "name": "Roz Roz",
+      "url": "https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N"
+    },
+    {
+      "album": {
+        "name": "Run Closer - Single",
+        "url": "https://open.spotify.com/album/47Eqo6aO3LZZkkj2uk7g6f"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 202600,
+      "name": "Run Closer",
+      "url": "https://open.spotify.com/track/40rO5T5aZa0MlgzCetTRTn"
+    },
+    {
+      "album": {
+        "name": "Saacha Sahib",
+        "url": "https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 216000,
+      "name": "Saacha Sahib",
+      "url": "https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN"
+    },
+    {
+      "album": {
+        "name": "Saajanwa",
+        "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Saajanwa",
+      "url": "https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L"
+    },
+    {
+      "album": {
+        "name": "Saal",
+        "url": "https://open.spotify.com/album/5WZa0b0DV0zS6K3sEWAuKP"
+      },
+      "artists": [
+        {
+          "name": "Ishpreet Singh",
+          "url": "https://open.spotify.com/artist/0uYkdsYTX52nJ3iiER4rg9"
+        },
+        {
+          "name": "Khushraj Hussain",
+          "url": "https://open.spotify.com/artist/2F4iyLhAJANxKrKl3Iw9Dh"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 188125,
+      "name": "Saal",
+      "url": "https://open.spotify.com/track/2S3erlZaNr7EGakVORv619"
+    },
+    {
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282391,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
+        "name": "Saara Jahaan",
+        "url": "https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157659,
+      "name": "Saara Jahaan",
+      "url": "https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92"
+    },
+    {
+      "album": {
+        "name": "Sab Rab",
+        "url": "https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2023-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Sab Rab",
+      "url": "https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ"
+    },
+    {
+      "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
+    },
+    {
+      "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-15",
+      "duration_ms": 230204,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
+    },
+    {
+      "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 205446,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2"
+    },
+    {
+      "album": {
+        "name": "Sajni",
+        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 298000,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "album": {
+        "name": "Sanware",
+        "url": "https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5"
+      },
+      "artists": [
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Saurabh Jain",
+          "url": "https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 297000,
+      "name": "Sanware",
+      "url": "https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 180000,
+      "name": "Saza-E-Maut",
+      "url": "https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31"
+    },
+    {
+      "album": {
+        "name": "Sha- Dobara",
+        "url": "https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 192540,
+      "name": "Sha- Dobara",
+      "url": "https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 208000,
+      "name": "Shaayad",
+      "url": "https://open.spotify.com/track/5bCHdS1G42HA5OpEMXtrp9"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 208000,
+      "name": "Shaayad",
+      "url": "https://open.spotify.com/track/6ymoA9aCgqTyoQLIeR7vCX"
+    },
+    {
+      "album": {
+        "name": "Shehron Ke Raaz",
+        "url": "https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 152320,
+      "name": "Shehron Ke Raaz",
+      "url": "https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY"
+    },
+    {
+      "album": {
+        "name": "Shehzaada Shehzaadi",
+        "url": "https://open.spotify.com/album/3Zl7OMcAzHtC6tD7E30N7q"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 169002,
+      "name": "Shehzaada Shehzaadi",
+      "url": "https://open.spotify.com/track/44cXOyWpfUAtRH6OdbG9xA"
+    },
+    {
+      "album": {
+        "name": "Sitaara",
+        "url": "https://open.spotify.com/album/6mVxCSUapeMqnhvitV8eGR"
+      },
+      "artists": [
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 199500,
+      "name": "Sitaara",
+      "url": "https://open.spotify.com/track/1RRvJxYhx65qZJoJ4hKrIG"
+    },
+    {
+      "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 281088,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6"
+    },
+    {
+      "album": {
+        "name": "sophomore sweetheart",
+        "url": "https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv"
+      },
+      "artists": [
+        {
+          "name": "sunflower tape machine",
+          "url": "https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 217500,
+      "name": "sophomore sweetheart",
+      "url": "https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669"
+    },
+    {
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/4elrhRR5bdw7JhvrWl56XM"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-17",
+      "duration_ms": 326624,
+      "name": "Soye Ja",
+      "url": "https://open.spotify.com/track/5hD1IFTGFghyp502slNEht"
+    },
+    {
+      "album": {
+        "name": "Sucks To Be Human",
+        "url": "https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7"
+      },
+      "artists": [
+        {
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 205046,
+      "name": "Sucks To Be Human",
+      "url": "https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/1b43QbuhfXPgBGU6lDxn0I"
+      },
+      "artists": [
+        {
+          "name": "Samar Mehdi",
+          "url": "https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 184500,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/3DwDpL9QpO5gqPFuHZXUx9"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn"
+      },
+      "artists": [
+        {
+          "name": "Faime",
+          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 174615,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf"
+    },
+    {
+      "album": {
+        "name": "Tabia",
+        "url": "https://open.spotify.com/album/1jRZBBkRgLqg390sko1E3B"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 146266,
+      "name": "Tabia",
+      "url": "https://open.spotify.com/track/1zDAkehGGqrvTqwJBzTzEi"
+    },
+    {
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/7kMrXWaklEB4rhfq7pOwdG"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 272926,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/3DTmTgyV1iEzTbeboZTyJ7"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Aasmaan",
+        "url": "https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158832,
+      "name": "Tera Mera Aasmaan",
+      "url": "https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA"
+    },
+    {
+      "album": {
+        "name": "Tera Nishaan",
+        "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
+      },
+      "artists": [
+        {
+          "name": "Pina Colada Blues",
+          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 167000,
+      "name": "Tera Nishaan",
+      "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
+    },
+    {
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB"
+      },
+      "artists": [
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172823,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
+    },
+    {
+      "album": {
+        "name": "Tere Hi Hum",
+        "url": "https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177026,
+      "name": "Tere Hi Hum",
+      "url": "https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO"
+    },
+    {
+      "album": {
+        "name": "Bring Back the Sound",
+        "url": "https://open.spotify.com/album/1KosGhCYNNvwy0f1n4EPEZ"
+      },
+      "artists": [
+        {
+          "name": "Cinema of Excess",
+          "url": "https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-26",
+      "duration_ms": 155531,
+      "name": "Thing About the Colour Blue",
+      "url": "https://open.spotify.com/track/09XtL9fgoolH8jNRlX2AkD"
+    },
+    {
+      "album": {
+        "name": "Through These Years",
+        "url": "https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu"
+      },
+      "artists": [
+        {
+          "name": "Semwal",
+          "url": "https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq"
+        },
+        {
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 223071,
+      "name": "Through These Years",
+      "url": "https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO"
+    },
+    {
+      "album": {
+        "name": "Tu Aazma",
+        "url": "https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Tu Aazma",
+      "url": "https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P"
+    },
+    {
+      "album": {
+        "name": "Tu Chodiyon Na",
+        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212922,
+      "name": "Tu Chodiyon Na",
+      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
+    },
+    {
+      "album": {
+        "name": "Hai Bharosa",
+        "url": "https://open.spotify.com/album/5gzjNeBbZlD3bDMKDxNCTL"
+      },
+      "artists": [
+        {
+          "name": "Piyush Bhisekar",
+          "url": "https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 193925,
+      "name": "Tu Hai Wajah",
+      "url": "https://open.spotify.com/track/7zep4BfQRkfASc8qhX0cct"
+    },
+    {
+      "album": {
+        "name": "tu le chal",
+        "url": "https://open.spotify.com/album/2FSC8NwU8adIkchZtDEkV0"
+      },
+      "artists": [
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        },
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-06",
+      "duration_ms": 242508,
+      "name": "tu le chal",
+      "url": "https://open.spotify.com/track/52FsMpdKeyU6dYQlHx8qpt"
+    },
+    {
+      "album": {
+        "name": "Tum Jab Paas - Single",
+        "url": "https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 235932,
+      "name": "Tum Jab Paas",
+      "url": "https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3"
+    },
+    {
+      "album": {
+        "name": "Tum Jaise Ho",
+        "url": "https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250124,
+      "name": "Tum Jaise Ho",
+      "url": "https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo"
+    },
+    {
+      "album": {
+        "name": "Tuta Pull Wahan",
+        "url": "https://open.spotify.com/album/2gFMOqvZHiCwD6myI65Okz"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 312701,
+      "name": "Tuta Pull Wahan",
+      "url": "https://open.spotify.com/track/4gCVaEUubhHmhsEe0GFRVx"
+    },
+    {
+      "album": {
+        "name": "Tuta Pull Wahan",
+        "url": "https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313170,
+      "name": "Tuta Pull Wahan",
+      "url": "https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK"
+    },
+    {
+      "album": {
+        "name": "Udaan",
+        "url": "https://open.spotify.com/album/4S6vdgAvjXuO4gDE4kbxJ5"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-20",
+      "duration_ms": 198000,
+      "name": "Udaan",
+      "url": "https://open.spotify.com/track/4P04qZvFhETXTGviFu9xL5"
+    },
+    {
+      "album": {
+        "name": "Udd Chala",
+        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2023-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 286181,
+      "name": "Udd Chala",
+      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
+    },
+    {
+      "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-19",
+      "duration_ms": 180413,
+      "name": "Udd Gaye",
+      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
+    },
+    {
+      "album": {
+        "name": "Unicorn And The Sheep",
+        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 151531,
+      "name": "Unicorn and the Sheep",
+      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
+    },
+    {
+      "album": {
+        "name": "Side A",
+        "url": "https://open.spotify.com/album/4y3rYukqA7L8aPmkCaMj5P"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "The Ghalat Family",
+          "url": "https://open.spotify.com/artist/2TOUVQAEhJJDSvqjLS4X7x"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-17",
+      "duration_ms": 217626,
+      "name": "Wagairah Wagairah",
+      "url": "https://open.spotify.com/track/5GcjIiSS47T64N1DFxn1UK"
+    },
+    {
+      "album": {
+        "name": "Waqt Ki Baatein",
+        "url": "https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243310,
+      "name": "Waqt Ki Baatein",
+      "url": "https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db"
+    },
+    {
+      "album": {
+        "name": "Waqt Ki Baatein - Single",
+        "url": "https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243310,
+      "name": "Waqt Ki Baatein",
+      "url": "https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV"
+    },
+    {
+      "album": {
+        "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266393,
+      "name": "When We Feel Young",
+      "url": "https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm"
+    },
+    {
+      "album": {
+        "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 266393,
+      "name": "When We Feel Young",
+      "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"
+    },
+    {
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 233656,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov"
+      },
+      "artists": [
+        {
+          "name": "Kevin Fernando",
+          "url": "https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq"
+        },
+        {
+          "name": "Belinda Terry",
+          "url": "https://open.spotify.com/artist/01r8UcTZF5qe9aodd9ypsx"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 198000,
+      "name": "Windy",
+      "url": "https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY"
+    },
+    {
+      "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL"
+    },
+    {
+      "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        },
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
+    },
+    {
+      "album": {
+        "name": "Woh Saat Din",
+        "url": "https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        },
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 222400,
+      "name": "Woh Saat Din",
+      "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"
+    },
+    {
+      "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-10",
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
+    },
+    {
+      "album": {
+        "name": "Hindi Gaane",
+        "url": "https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Zakir",
+      "url": "https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO"
+    },
+    {
+      "album": {
+        "name": "Zakir",
+        "url": "https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 221666,
+      "name": "Zakir",
+      "url": "https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX"
+    },
+    {
+      "album": {
+        "name": "Zindagi Ki Goud Mein",
+        "url": "https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 216877,
+      "name": "Zindagi Ki Goud Mein",
+      "url": "https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ"
 }

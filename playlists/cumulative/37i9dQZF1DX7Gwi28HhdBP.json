@@ -2736,6 +2736,24 @@
     {
       "album": {
         "name": "\u0627\u0644\u062c\u062f\u0639",
+        "url": "https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199523,
+      "name": "\u0627\u0644\u062c\u062f\u0639",
+      "url": "https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062c\u062f\u0639",
         "url": "https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR"
       },
       "artists": [
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 242308,
       "name": "\u0627\u0644\u063a\u0644 \u0645\u0646\u064a \u0647\u0627\u0631\u064a\u0643\u0648",
       "url": "https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK"

@@ -1,735 +1,627 @@
 {
-  "2021-12-25": 163,
-  "2021-12-26": 163,
-  "2021-12-27": 163,
-  "2021-12-28": 163,
-  "2021-12-29": 163,
-  "2021-12-30": 163,
-  "2021-12-31": 163,
-  "2022-01-01": 163,
-  "2022-01-02": 163,
-  "2022-01-03": 163,
-  "2022-01-04": 163,
-  "2022-01-05": 163,
-  "2022-01-06": 163,
-  "2022-01-07": 163,
-  "2022-01-08": 163,
-  "2022-01-09": 163,
-  "2022-01-10": 163,
-  "2022-01-11": 163,
-  "2022-01-12": 163,
-  "2022-01-13": 163,
-  "2022-01-14": 163,
-  "2022-01-15": 163,
-  "2022-01-16": 163,
-  "2022-01-17": 163,
-  "2022-01-18": 163,
-  "2022-01-19": 163,
-  "2022-01-20": 163,
-  "2022-01-21": 163,
-  "2022-01-22": 163,
-  "2022-01-23": 163,
-  "2022-01-24": 163,
-  "2022-01-25": 163,
-  "2022-01-26": 163,
-  "2022-01-27": 163,
-  "2022-01-28": 163,
-  "2022-01-29": 163,
-  "2022-01-30": 163,
-  "2022-01-31": 163,
-  "2022-02-01": 163,
-  "2022-02-02": 163,
-  "2022-02-03": 163,
-  "2022-02-04": 163,
-  "2022-02-05": 163,
-  "2022-02-06": 163,
-  "2022-02-07": 163,
-  "2022-02-08": 163,
-  "2022-02-09": 163,
-  "2022-02-10": 163,
-  "2022-02-11": 163,
-  "2022-02-12": 163,
-  "2022-02-13": 163,
-  "2022-02-14": 163,
-  "2022-02-15": 163,
-  "2022-02-16": 163,
-  "2022-02-17": 163,
-  "2022-02-18": 163,
-  "2022-02-19": 163,
-  "2022-02-20": 163,
-  "2022-02-21": 163,
-  "2022-02-22": 163,
-  "2022-02-23": 163,
-  "2022-02-24": 163,
-  "2022-02-25": 163,
-  "2022-02-26": 163,
-  "2022-02-27": 163,
-  "2022-02-28": 163,
-  "2022-03-01": 163,
-  "2022-03-02": 163,
-  "2022-03-03": 163,
-  "2022-03-04": 163,
-  "2022-03-05": 163,
-  "2022-03-06": 163,
-  "2022-03-07": 163,
-  "2022-03-08": 163,
-  "2022-03-09": 163,
-  "2022-03-10": 163,
-  "2022-03-11": 163,
-  "2022-03-12": 163,
-  "2022-03-13": 163,
-  "2022-03-14": 163,
-  "2022-03-15": 163,
-  "2022-03-16": 163,
-  "2022-03-17": 163,
-  "2022-03-18": 163,
-  "2022-03-19": 163,
-  "2022-03-20": 163,
-  "2022-03-21": 163,
-  "2022-03-22": 163,
-  "2022-03-23": 163,
-  "2022-03-24": 163,
-  "2022-03-25": 163,
-  "2022-03-26": 163,
-  "2022-03-27": 163,
-  "2022-03-28": 163,
-  "2022-03-30": 163,
-  "2022-03-31": 163,
-  "2022-04-01": 163,
-  "2022-04-02": 163,
-  "2022-04-03": 163,
-  "2022-04-04": 161,
-  "2022-04-05": 163,
-  "2022-04-06": 163,
-  "2022-04-07": 163,
-  "2022-04-08": 163,
-  "2022-04-09": 163,
-  "2022-04-10": 163,
-  "2022-04-11": 163,
-  "2022-04-12": 163,
-  "2022-04-13": 163,
-  "2022-04-14": 163,
-  "2022-04-15": 163,
-  "2022-04-16": 163,
-  "2022-04-17": 163,
-  "2022-04-18": 163,
-  "2022-04-19": 163,
-  "2022-04-20": 163,
-  "2022-04-21": 163,
-  "2022-04-22": 163,
-  "2022-04-23": 163,
-  "2022-04-24": 163,
-  "2022-04-25": 163,
-  "2022-04-26": 163,
-  "2022-04-27": 163,
-  "2022-04-28": 163,
-  "2022-04-29": 163,
-  "2022-04-30": 163,
-  "2022-05-01": 163,
-  "2022-05-02": 163,
-  "2022-05-03": 163,
-  "2022-05-04": 163,
-  "2022-05-05": 163,
-  "2022-05-06": 163,
-  "2022-05-07": 163,
-  "2022-05-08": 163,
-  "2022-05-09": 163,
-  "2022-05-10": 163,
-  "2022-05-11": 163,
-  "2022-05-12": 163,
-  "2022-05-13": 163,
-  "2022-05-14": 163,
-  "2022-05-15": 163,
-  "2022-05-16": 163,
-  "2022-05-17": 163,
-  "2022-05-18": 163,
-  "2022-05-19": 163,
-  "2022-05-20": 163,
-  "2022-05-21": 163,
-  "2022-05-22": 163,
-  "2022-05-23": 163,
-  "2022-05-24": 163,
-  "2022-05-25": 163,
-  "2022-05-26": 163,
-  "2022-05-27": 163,
-  "2022-05-28": 163,
-  "2022-05-29": 163,
-  "2022-05-30": 163,
-  "2022-05-31": 163,
-  "2022-06-01": 163,
-  "2022-06-02": 163,
-  "2022-06-03": 163,
-  "2022-06-04": 163,
-  "2022-06-05": 163,
-  "2022-06-06": 163,
-  "2022-06-07": 163,
-  "2022-06-08": 163,
-  "2022-06-09": 163,
-  "2022-06-10": 163,
-  "2022-06-11": 163,
-  "2022-06-12": 163,
-  "2022-06-13": 163,
-  "2022-06-14": 163,
-  "2022-06-15": 163,
-  "2022-06-16": 163,
-  "2022-06-17": 163,
-  "2022-06-18": 163,
-  "2022-06-19": 163,
-  "2022-06-20": 163,
-  "2022-06-21": 163,
-  "2022-06-22": 163,
-  "2022-06-23": 163,
-  "2022-06-24": 163,
-  "2022-06-25": 163,
-  "2022-06-26": 163,
-  "2022-06-27": 163,
-  "2022-06-28": 163,
-  "2022-06-29": 163,
-  "2022-06-30": 163,
-  "2022-07-01": 163,
-  "2022-07-02": 163,
-  "2022-07-03": 163,
-  "2022-07-04": 163,
-  "2022-07-05": 163,
-  "2022-07-06": 164,
-  "2022-07-07": 164,
-  "2022-07-08": 164,
-  "2022-07-09": 164,
-  "2022-07-10": 164,
-  "2022-07-11": 164,
-  "2022-07-12": 164,
-  "2022-07-13": 164,
-  "2022-07-14": 164,
-  "2022-07-15": 164,
-  "2022-07-16": 164,
-  "2022-07-17": 164,
-  "2022-07-18": 164,
-  "2022-07-19": 164,
-  "2022-07-20": 164,
-  "2022-07-21": 164,
-  "2022-07-22": 164,
-  "2022-07-23": 164,
-  "2022-07-24": 164,
-  "2022-07-25": 164,
-  "2022-07-26": 164,
-  "2022-07-27": 164,
-  "2022-07-28": 164,
-  "2022-07-29": 164,
-  "2022-07-30": 164,
-  "2022-07-31": 164,
-  "2022-08-01": 164,
-  "2022-08-02": 164,
-  "2022-08-03": 164,
-  "2022-08-04": 164,
-  "2022-08-05": 164,
-  "2022-08-06": 164,
-  "2022-08-07": 164,
-  "2022-08-08": 164,
-  "2022-08-09": 163,
-  "2022-08-10": 163,
-  "2022-08-11": 163,
-  "2022-08-12": 163,
-  "2022-08-13": 163,
-  "2022-08-14": 163,
-  "2022-08-15": 163,
-  "2022-08-16": 163,
-  "2022-08-17": 163,
-  "2022-08-18": 163,
-  "2022-08-19": 163,
-  "2022-08-20": 163,
-  "2022-08-21": 163,
-  "2022-08-22": 163,
-  "2022-08-23": 163,
-  "2022-08-24": 163,
-  "2022-08-25": 163,
-  "2022-08-26": 163,
-  "2022-08-27": 163,
-  "2022-08-28": 163,
-  "2022-08-29": 163,
-  "2022-08-30": 163,
-  "2022-08-31": 163,
-  "2022-09-01": 163,
-  "2022-09-02": 163,
-  "2022-09-03": 163,
-  "2022-09-04": 163,
-  "2022-09-05": 163,
-  "2022-09-06": 163,
-  "2022-09-07": 163,
-  "2022-09-09": 163,
-  "2022-09-10": 163,
-  "2022-09-11": 163,
-  "2022-09-12": 163,
-  "2022-09-13": 163,
-  "2022-09-15": 163,
-  "2022-09-16": 163,
-  "2022-09-17": 163,
-  "2022-09-18": 163,
-  "2022-09-19": 163,
-  "2022-09-20": 163,
-  "2022-09-21": 163,
-  "2022-09-22": 163,
-  "2022-09-23": 163,
-  "2022-09-24": 163,
-  "2022-09-25": 163,
-  "2022-09-26": 163,
-  "2022-09-27": 163,
-  "2022-09-28": 163,
-  "2022-09-29": 163,
-  "2022-09-30": 163,
-  "2022-10-01": 163,
-  "2022-10-02": 163,
-  "2022-10-03": 163,
-  "2022-10-04": 163,
-  "2022-10-05": 163,
-  "2022-10-06": 163,
-  "2022-10-07": 163,
-  "2022-10-08": 163,
-  "2022-10-09": 163,
-  "2022-10-10": 163,
-  "2022-10-11": 163,
-  "2022-10-12": 163,
-  "2022-10-13": 163,
-  "2022-10-14": 163,
-  "2022-10-15": 163,
-  "2022-10-16": 163,
-  "2022-10-17": 163,
-  "2022-10-18": 163,
-  "2022-10-19": 163,
-  "2022-10-20": 163,
-  "2022-10-21": 163,
-  "2022-10-22": 163,
-  "2022-10-23": 163,
-  "2022-10-24": 163,
-  "2022-10-25": 163,
-  "2022-10-26": 163,
-  "2022-10-27": 163,
-  "2022-10-28": 163,
-  "2022-10-29": 163,
-  "2022-10-30": 163,
-  "2022-10-31": 163,
-  "2022-11-01": 163,
-  "2022-11-02": 163,
-  "2022-11-03": 163,
-  "2022-11-04": 163,
-  "2022-11-05": 163,
-  "2022-11-06": 163,
-  "2022-11-07": 163,
-  "2022-11-08": 163,
-  "2022-11-09": 163,
-  "2022-11-10": 164,
-  "2022-11-11": 164,
-  "2022-11-12": 164,
-  "2022-11-13": 164,
-  "2022-11-14": 164,
-  "2022-11-15": 164,
-  "2022-11-16": 164,
-  "2022-11-17": 164,
-  "2022-11-18": 164,
-  "2022-11-19": 164,
-  "2022-11-20": 163,
-  "2022-11-21": 163,
-  "2022-11-22": 163,
-  "2022-11-23": 163,
-  "2022-11-24": 163,
-  "2022-11-25": 163,
-  "2022-11-26": 163,
-  "2022-11-27": 163,
-  "2022-11-28": 163,
-  "2022-11-29": 163,
-  "2022-11-30": 163,
-  "2022-12-01": 163,
-  "2022-12-02": 162,
-  "2022-12-03": 162,
-  "2022-12-04": 162,
-  "2022-12-05": 162,
-  "2022-12-06": 162,
-  "2022-12-07": 162,
-  "2022-12-08": 162,
-  "2022-12-09": 162,
-  "2022-12-10": 162,
-  "2022-12-11": 162,
-  "2022-12-12": 162,
-  "2022-12-13": 162,
-  "2022-12-14": 162,
-  "2022-12-15": 162,
-  "2022-12-16": 162,
-  "2022-12-17": 162,
-  "2022-12-18": 162,
-  "2022-12-19": 162,
-  "2022-12-20": 162,
-  "2022-12-21": 162,
-  "2022-12-22": 162,
-  "2022-12-24": 162,
-  "2022-12-25": 162,
-  "2022-12-26": 162,
-  "2022-12-27": 162,
-  "2022-12-28": 162,
-  "2022-12-29": 162,
-  "2022-12-30": 162,
-  "2022-12-31": 162,
-  "2023-01-01": 162,
-  "2023-01-02": 162,
-  "2023-01-03": 162,
-  "2023-01-04": 162,
-  "2023-01-05": 162,
-  "2023-01-06": 162,
-  "2023-01-07": 162,
-  "2023-01-08": 162,
-  "2023-01-09": 162,
-  "2023-01-10": 162,
-  "2023-01-11": 162,
-  "2023-01-12": 162,
-  "2023-01-13": 162,
-  "2023-01-14": 162,
-  "2023-01-15": 162,
-  "2023-01-16": 162,
-  "2023-01-17": 162,
-  "2023-01-18": 162,
-  "2023-01-19": 162,
-  "2023-01-20": 162,
-  "2023-01-21": 162,
-  "2023-01-22": 162,
-  "2023-01-23": 162,
-  "2023-01-24": 162,
-  "2023-01-25": 162,
-  "2023-01-26": 162,
-  "2023-01-27": 162,
-  "2023-01-28": 162,
-  "2023-01-29": 162,
-  "2023-01-30": 162,
-  "2023-01-31": 162,
-  "2023-02-01": 162,
-  "2023-02-02": 162,
-  "2023-02-03": 162,
-  "2023-02-04": 162,
-  "2023-02-05": 162,
-  "2023-02-06": 162,
-  "2023-02-07": 162,
-  "2023-02-08": 162,
-  "2023-02-09": 162,
-  "2023-02-10": 162,
-  "2023-02-11": 162,
-  "2023-02-12": 161,
-  "2023-02-13": 161,
-  "2023-02-14": 161,
-  "2023-02-15": 161,
-  "2023-02-16": 161,
-  "2023-02-17": 161,
-  "2023-02-18": 161,
-  "2023-02-19": 161,
-  "2023-02-20": 161,
-  "2023-02-21": 161,
-  "2023-02-22": 161,
-  "2023-02-23": 161,
-  "2023-02-24": 161,
-  "2023-02-25": 161,
-  "2023-02-26": 161,
-  "2023-02-27": 161,
-  "2023-02-28": 161,
-  "2023-03-01": 161,
-  "2023-03-02": 161,
-  "2023-03-03": 161,
-  "2023-03-04": 161,
-  "2023-03-05": 161,
-  "2023-03-06": 161,
-  "2023-03-07": 161,
-  "2023-03-08": 161,
-  "2023-03-09": 161,
-  "2023-03-10": 161,
-  "2023-03-11": 161,
-  "2023-03-12": 161,
-  "2023-03-13": 161,
-  "2023-03-14": 161,
-  "2023-03-15": 161,
-  "2023-03-16": 161,
-  "2023-03-17": 161,
-  "2023-03-18": 161,
-  "2023-03-19": 161,
-  "2023-03-20": 161,
-  "2023-03-21": 161,
-  "2023-03-22": 161,
-  "2023-03-23": 161,
-  "2023-03-24": 161,
-  "2023-03-25": 161,
-  "2023-03-26": 161,
-  "2023-03-27": 161,
-  "2023-03-28": 161,
-  "2023-03-29": 161,
-  "2023-03-30": 161,
-  "2023-03-31": 161,
-  "2023-04-01": 161,
-  "2023-04-02": 161,
-  "2023-04-03": 161,
-  "2023-04-04": 161,
-  "2023-04-05": 161,
-  "2023-04-06": 161,
-  "2023-04-07": 161,
-  "2023-04-09": 161,
-  "2023-04-10": 161,
-  "2023-04-11": 161,
-  "2023-04-12": 161,
-  "2023-04-13": 161,
-  "2023-04-14": 161,
-  "2023-04-15": 161,
-  "2023-04-16": 161,
-  "2023-04-17": 161,
-  "2023-04-18": 161,
-  "2023-04-19": 161,
-  "2023-04-20": 161,
-  "2023-04-21": 161,
-  "2023-04-22": 161,
-  "2023-04-23": 161,
-  "2023-04-24": 161,
-  "2023-04-25": 161,
-  "2023-04-26": 161,
-  "2023-04-27": 161,
-  "2023-04-28": 161,
-  "2023-04-29": 161,
-  "2023-04-30": 161,
-  "2023-05-01": 161,
-  "2023-05-02": 161,
-  "2023-05-03": 161,
-  "2023-05-04": 161,
-  "2023-05-05": 161,
-  "2023-05-06": 161,
-  "2023-05-07": 161,
-  "2023-05-08": 161,
-  "2023-05-09": 161,
-  "2023-05-10": 161,
-  "2023-05-11": 161,
-  "2023-05-12": 161,
-  "2023-05-13": 161,
-  "2023-05-14": 161,
-  "2023-05-15": 161,
-  "2023-05-16": 161,
-  "2023-05-17": 161,
-  "2023-05-18": 161,
-  "2023-05-19": 161,
-  "2023-05-20": 161,
-  "2023-05-21": 161,
-  "2023-05-22": 161,
-  "2023-05-23": 161,
-  "2023-05-24": 161,
-  "2023-05-25": 161,
-  "2023-05-26": 161,
-  "2023-05-27": 161,
-  "2023-05-28": 161,
-  "2023-05-29": 161,
-  "2023-05-30": 161,
-  "2023-05-31": 161,
-  "2023-06-01": 161,
-  "2023-06-02": 161,
-  "2023-06-03": 161,
-  "2023-06-04": 161,
-  "2023-06-05": 161,
-  "2023-06-06": 161,
-  "2023-06-07": 161,
-  "2023-06-08": 161,
-  "2023-06-09": 161,
-  "2023-06-10": 161,
-  "2023-06-11": 161,
-  "2023-06-12": 161,
-  "2023-06-13": 161,
-  "2023-06-14": 161,
-  "2023-06-15": 161,
-  "2023-06-16": 161,
-  "2023-06-17": 161,
-  "2023-06-18": 161,
-  "2023-06-19": 161,
-  "2023-06-20": 161,
-  "2023-06-21": 161,
-  "2023-06-22": 161,
-  "2023-06-23": 161,
-  "2023-06-24": 161,
-  "2023-06-25": 161,
-  "2023-06-26": 161,
-  "2023-06-27": 162,
-  "2023-06-28": 162,
-  "2023-06-29": 162,
-  "2023-06-30": 162,
-  "2023-07-01": 162,
-  "2023-07-02": 162,
-  "2023-07-03": 162,
-  "2023-07-04": 162,
-  "2023-07-05": 162,
-  "2023-07-06": 162,
-  "2023-07-07": 162,
-  "2023-07-08": 162,
-  "2023-07-09": 161,
-  "2023-07-10": 161,
-  "2023-07-11": 161,
-  "2023-07-12": 161,
-  "2023-07-13": 161,
-  "2023-07-14": 161,
-  "2023-07-15": 161,
-  "2023-07-16": 161,
-  "2023-07-17": 161,
-  "2023-07-18": 161,
-  "2023-07-19": 161,
-  "2023-07-20": 161,
-  "2023-07-21": 161,
-  "2023-07-22": 161,
-  "2023-07-23": 161,
-  "2023-07-24": 161,
-  "2023-07-25": 161,
-  "2023-07-26": 161,
-  "2023-07-27": 161,
-  "2023-07-28": 161,
-  "2023-07-29": 161,
-  "2023-07-30": 161,
-  "2023-07-31": 161,
-  "2023-08-01": 161,
-  "2023-08-02": 161,
-  "2023-08-03": 161,
-  "2023-08-04": 161,
-  "2023-08-05": 161,
-  "2023-08-06": 161,
-  "2023-08-07": 161,
-  "2023-08-08": 161,
-  "2023-08-09": 161,
-  "2023-08-10": 161,
-  "2023-08-11": 161,
-  "2023-08-12": 161,
-  "2023-08-13": 161,
-  "2023-08-14": 161,
-  "2023-08-15": 161,
-  "2023-08-16": 161,
-  "2023-08-17": 161,
-  "2023-08-18": 161,
-  "2023-08-19": 161,
-  "2023-08-20": 161,
-  "2023-08-21": 161,
-  "2023-08-22": 161,
-  "2023-08-23": 161,
-  "2023-08-24": 161,
-  "2023-08-25": 161,
-  "2023-08-26": 161,
-  "2023-08-27": 161,
-  "2023-08-28": 161,
-  "2023-08-29": 161,
-  "2023-08-30": 161,
-  "2023-08-31": 161,
-  "2023-09-01": 161,
-  "2023-09-02": 161,
-  "2023-09-03": 161,
-  "2023-09-04": 161,
-  "2023-09-05": 161,
-  "2023-09-06": 161,
-  "2023-09-07": 161,
-  "2023-09-08": 161,
-  "2023-09-09": 161,
-  "2023-09-10": 161,
-  "2023-09-11": 161,
-  "2023-09-12": 161,
-  "2023-09-13": 161,
-  "2023-09-14": 161,
-  "2023-09-15": 161,
-  "2023-09-16": 161,
-  "2023-09-17": 161,
-  "2023-09-18": 161,
-  "2023-09-19": 161,
-  "2023-09-20": 161,
-  "2023-09-21": 161,
-  "2023-09-22": 161,
-  "2023-09-23": 161,
-  "2023-09-24": 161,
-  "2023-09-25": 161,
-  "2023-09-26": 161,
-  "2023-09-27": 161,
-  "2023-09-28": 161,
-  "2023-09-29": 161,
-  "2023-09-30": 161,
-  "2023-10-01": 161,
-  "2023-10-02": 161,
-  "2023-10-03": 161,
-  "2023-10-04": 161,
-  "2023-10-05": 161,
-  "2023-10-06": 161,
-  "2023-10-07": 161,
-  "2023-10-08": 161,
-  "2023-10-09": 161,
-  "2023-10-10": 161,
-  "2023-10-11": 160,
-  "2023-10-12": 160,
-  "2023-10-13": 160,
-  "2023-10-14": 159,
-  "2023-10-15": 159,
-  "2023-10-16": 159,
-  "2023-10-17": 159,
-  "2023-10-18": 159,
-  "2023-10-19": 159,
-  "2023-10-20": 159,
-  "2023-10-21": 159,
-  "2023-10-22": 159,
-  "2023-10-23": 159,
-  "2023-10-24": 159,
-  "2023-10-25": 159,
-  "2023-10-26": 159,
-  "2023-10-27": 159,
-  "2023-10-28": 159,
-  "2023-10-29": 159,
-  "2023-10-30": 159,
-  "2023-10-31": 159,
-  "2023-11-01": 159,
-  "2023-11-02": 159,
-  "2023-11-03": 159,
-  "2023-11-04": 159,
-  "2023-11-05": 159,
-  "2023-11-06": 159,
-  "2023-11-07": 159,
-  "2023-11-08": 159,
-  "2023-11-09": 159,
-  "2023-11-10": 159,
-  "2023-11-11": 159,
-  "2023-11-12": 159,
-  "2023-11-13": 159,
-  "2023-11-14": 159,
-  "2023-11-15": 159,
-  "2023-11-16": 159,
-  "2023-11-17": 159,
-  "2023-11-18": 159,
-  "2023-11-19": 159,
-  "2023-11-20": 159,
-  "2023-11-21": 159,
-  "2023-11-22": 159,
-  "2023-11-23": 159,
-  "2023-11-24": 159,
-  "2023-11-25": 159,
-  "2023-11-26": 159,
-  "2023-11-27": 159,
-  "2023-11-28": 159,
-  "2023-11-29": 159,
-  "2023-11-30": 159,
-  "2023-12-01": 159,
-  "2023-12-02": 159,
-  "2023-12-03": 159,
-  "2023-12-04": 159,
-  "2023-12-05": 159,
-  "2023-12-06": 159,
-  "2023-12-07": 159,
-  "2023-12-08": 159,
-  "2023-12-09": 159,
-  "2023-12-10": 159,
-  "2023-12-11": 159,
-  "2023-12-12": 159,
-  "2023-12-13": 159,
-  "2023-12-14": 159,
-  "2023-12-15": 159,
-  "2023-12-16": 159,
-  "2023-12-17": 159,
-  "2023-12-18": 159,
-  "2023-12-19": 159,
-  "2023-12-20": 159,
-  "2023-12-21": 159,
-  "2023-12-22": 159,
-  "2023-12-23": 159,
-  "2023-12-24": 159,
-  "2023-12-25": 159,
-  "2023-12-26": 159,
-  "2023-12-27": 159,
-  "2023-12-30": 159,
-  "2023-12-31": 159,
-  "2024-01-01": 159,
-  "2024-01-02": 159,
-  "2024-01-03": 159
+  "2024-01-17": 158,
+  "date_first_scraped": "2021-12-21",
+  "description": "\u00c4lskade fotbollsl\u00e5tar, samlade i en spellista. Officiella m\u00e4sterskapsl\u00e5tar, varvat med inofficiella hyllningar och storslagna arenahymner. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spotify:app:tunigo\">Tunigo</a>",
+  "name": "EM Fotboll 2012",
+  "tracks": [
+    {
+      "album": {
+        "name": "Campione 2000 - The Official Euro 2000 Anthem",
+        "url": "https://open.spotify.com/album/7EU8dnFKEVJVq7xKgyHtlC"
+      },
+      "artists": [
+        {
+          "name": "E-Type",
+          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Campione 2000 - Radio Version",
+      "url": "https://open.spotify.com/track/0yf6LL8DG9hOB84qjCtoFj"
+    },
+    {
+      "album": {
+        "name": "Carnaval De Paris",
+        "url": "https://open.spotify.com/album/4wC4lpIgU0imCfhOR4qld8"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Carnaval De Paris - Radio Mix",
+      "url": "https://open.spotify.com/track/0qAYczZuIPY8pn4Exv9PpL"
+    },
+    {
+      "album": {
+        "name": "ELMIA - jordbruksutst\u00e4llning",
+        "url": "https://open.spotify.com/album/3B9tX3djQ8D9QfigENQecE"
+      },
+      "artists": [
+        {
+          "name": "Torsson",
+          "url": "https://open.spotify.com/artist/3QQOx64tLX3UIjImu2ANtc"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228080,
+      "name": "Det Spelades B\u00e4ttre Boll",
+      "url": "https://open.spotify.com/track/63kD9G9bG0Y10SxVvYJZNS"
+    },
+    {
+      "album": {
+        "name": "Du Och Jag Och Glenn Hys\u00e9n",
+        "url": "https://open.spotify.com/album/2ZL6d5umjwe2lxShKIs325"
+      },
+      "artists": [
+        {
+          "name": "Micke Syd",
+          "url": "https://open.spotify.com/artist/62vj47O6nNW5jFJ2yuliKS"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209519,
+      "name": "Du Och Jag Och Glenn Hys\u00e9n (Dansmix)",
+      "url": "https://open.spotify.com/track/6fhGll7zYYIb6zP8bKK7bW"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/45yudSy6lkjoPOxO32l3Ig"
+      },
+      "artists": [
+        {
+          "name": "Oceana",
+          "url": "https://open.spotify.com/artist/7Mgy9q22qCdNSPQsuL5fjv"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/0l4viuNgxCfYcqFSPSQFwe"
+    },
+    {
+      "album": {
+        "name": "Fotbollsfest",
+        "url": "https://open.spotify.com/album/3MoaV6uBG5b7tFFybRRFI2"
+      },
+      "artists": [
+        {
+          "name": "Frans feat Elias",
+          "url": "https://open.spotify.com/artist/2m6H4quT1hGEL74wlmTHZl"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216640,
+      "name": "Fotbollsfest",
+      "url": "https://open.spotify.com/track/6e71KefJQBYhdYwDG012EU"
+    },
+    {
+      "album": {
+        "name": "In Med Bollen",
+        "url": "https://open.spotify.com/album/56MwMd6BSyGSTdMuQ2AWX2"
+      },
+      "artists": [
+        {
+          "name": "Markoolio",
+          "url": "https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204972,
+      "name": "In Med Bollen",
+      "url": "https://open.spotify.com/track/0uLrTZSJVLlwEUt3rKAYCB"
+    },
+    {
+      "album": {
+        "name": "K\u00e4mpa Gul Och Bl\u00e5 (feat. Ola Lustig)",
+        "url": "https://open.spotify.com/album/1MclDXM7nxhqE21SYLrFRi"
+      },
+      "artists": [
+        {
+          "name": "Camp Sweden",
+          "url": "https://open.spotify.com/artist/150wwSpzxl67b7uF1dCKS7"
+        },
+        {
+          "name": "Ola Lustig",
+          "url": "https://open.spotify.com/artist/0SI31W55XNtC1fkDMpjWGN"
+        }
+      ],
+      "date_added": "2012-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "K\u00e4mpa Gul Och Bl\u00e5 (feat. Ola Lustig)",
+      "url": "https://open.spotify.com/track/20pHTY4j9yVwW31ptiv3Zt"
+    },
+    {
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277426,
+      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
+      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
+    },
+    {
+      "album": {
+        "name": "Sex M\u00e4n I Skor",
+        "url": "https://open.spotify.com/album/0fmEe9cEDa6BMPuHMjnZBW"
+      },
+      "artists": [
+        {
+          "name": "Svenne Rubins",
+          "url": "https://open.spotify.com/artist/1Z13YUXbUmdKwDO4RtVgyx"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "L\u00e5nga Bollar P\u00e5 Bengt",
+      "url": "https://open.spotify.com/track/5yp9VtCVyRyBbagiJCZOvE"
+    },
+    {
+      "album": {
+        "name": "Dikter Fr\u00e5n Ett Hj\u00e4rta",
+        "url": "https://open.spotify.com/album/4nr7H6gtXYmvUOGig6kN0K"
+      },
+      "artists": [
+        {
+          "name": "Markoolio",
+          "url": "https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam"
+        }
+      ],
+      "date_added": "2012-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227646,
+      "name": "Mera M\u00e5l",
+      "url": "https://open.spotify.com/track/4xi2jcRkIXIJ9KwVcGPFvx"
+    },
+    {
+      "album": {
+        "name": "Absolute Football Anthems",
+        "url": "https://open.spotify.com/album/1ge7tqdoCA5jY5OXkvS8q2"
+      },
+      "artists": [
+        {
+          "name": "Glenmark Eriksson Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247213,
+      "name": "N\u00e4r Vi Gr\u00e4ver Guld I USA",
+      "url": "https://open.spotify.com/track/6JGhTVj9dlgxFxuuNaPJU1"
+    },
+    {
+      "album": {
+        "name": "Ole Ole Ole (The Name of the Game)",
+        "url": "https://open.spotify.com/album/7rPaqm326ypznJKKRxBIFk"
+      },
+      "artists": [
+        {
+          "name": "DJ Ostkurve",
+          "url": "https://open.spotify.com/artist/1YKOZiYrbyc1drGZoeE6lS"
+        },
+        {
+          "name": "Soccer DJ",
+          "url": "https://open.spotify.com/artist/4ujAmDosSASBwvSdAOiXkY"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Ole Ole Ole (The Name of the Game) - Radio Mix",
+      "url": "https://open.spotify.com/track/2m3hE8NsWNcZHrrW6CV2eb"
+    },
+    {
+      "album": {
+        "name": "Ol\u00e9 Ol\u00e9",
+        "url": "https://open.spotify.com/album/3Ukq1FTrPV740JhQwcwzqG"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Ol\u00e9 Ol\u00e9 - Football Arena Mix - UEFA Euro 2008 Official Song",
+      "url": "https://open.spotify.com/track/4Wzh7ewbJArE55VxR4GxEV"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2012-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+    },
+    {
+      "album": {
+        "name": "Popcornfrisyr",
+        "url": "https://open.spotify.com/album/1tjqwnvSqkP7j6JDkv2bXR"
+      },
+      "artists": [
+        {
+          "name": "Mojje",
+          "url": "https://open.spotify.com/artist/6or0RLoRB0TJF2vg0eTA8y"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Svenska vr\u00e5l",
+      "url": "https://open.spotify.com/track/4uydft0rdpt7mneWiGY0ul"
+    },
+    {
+      "album": {
+        "name": "Complete National Anthems Of The World Volume 5: Pakistan - Syria",
+        "url": "https://open.spotify.com/album/12LVof0lra6fedo5uP29mw"
+      },
+      "artists": [
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73933,
+      "name": "Sweden (National) [S\u00e5ng Till Norden (Song Of The North), \"You Ancient, Free\u2026\"]",
+      "url": "https://open.spotify.com/track/4fN73CgSo9rKmlUgvxsXDu"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best Of Europe",
+        "url": "https://open.spotify.com/album/305Ae8uvs0wDqSGGOyBq1Z"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2012-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310426,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/1li0jGGRIaMaNNRBV8JXZ4"
+    },
+    {
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/5NDUd4VCLs9dqQdBnZapdO"
+      },
+      "artists": [
+        {
+          "name": "Il Divo with Toni Braxton",
+          "url": "https://open.spotify.com/artist/2HLf6dAxUNvb53uRiVgtWS"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "The Time Of Our Lives (The Official Song Of The 2006 FIFA World Cup Germany)",
+      "url": "https://open.spotify.com/track/4sCH2FLZm92BaVxIgjqZdq"
+    },
+    {
+      "album": {
+        "name": "To Be Number One",
+        "url": "https://open.spotify.com/album/3OGAcObu2XEJdKkqrmV49e"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder Project",
+          "url": "https://open.spotify.com/artist/2Vm6zojdSDOk9NJSxukwqO"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255242,
+      "name": "To Be Number One",
+      "url": "https://open.spotify.com/track/3z2tF0D5siAL9nBYhZeMQl"
+    },
+    {
+      "album": {
+        "name": "Un'Estate Italiana",
+        "url": "https://open.spotify.com/album/1BnWMZpYwpXh1ZVCCrJJLw"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Bennato e Gianna Nannini",
+          "url": "https://open.spotify.com/artist/7HrDgZk1VmkfqewLF3AZgX"
+        },
+        {
+          "name": "Edoardo Bennato",
+          "url": "https://open.spotify.com/artist/7AWtkwVftjGXkoCIEvI7fW"
+        },
+        {
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
+        }
+      ],
+      "date_added": "2012-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268666,
+      "name": "Un'Estate Italiana - Versione Stadio",
+      "url": "https://open.spotify.com/track/4PpZBuY3kLXdRhzQukKqr5"
+    },
+    {
+      "album": {
+        "name": "VM-skivan",
+        "url": "https://open.spotify.com/album/0rMYCExSeRWSgJTcB54eIl"
+      },
+      "artists": [
+        {
+          "name": "Schytts & VM-truppen",
+          "url": "https://open.spotify.com/artist/532VAxbx8g6TbDJc3oIN5D"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167913,
+      "name": "Vi g\u00f6r s\u00e5 gott vi kan",
+      "url": "https://open.spotify.com/track/2oGeEvGdrvYMQHLwfEuRQH"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 min mammas gata",
+        "url": "https://open.spotify.com/album/7tiaT7DvZaFKOf1b0rN6hP"
+      },
+      "artists": [
+        {
+          "name": "Nacka Skoglund",
+          "url": "https://open.spotify.com/artist/6MurqUFCnE1IwqIp6haGq1"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Vi h\u00e4nger me'",
+      "url": "https://open.spotify.com/track/0ipdufJRdwMhmJKD1Mn1WC"
+    },
+    {
+      "album": {
+        "name": "Vi mot v\u00e4rlden",
+        "url": "https://open.spotify.com/album/2VlP2IcxgiKnKT9VdT0kVb"
+      },
+      "artists": [
+        {
+          "name": "Neverstore",
+          "url": "https://open.spotify.com/artist/4PibNOKNAaMPvwrgBoXMj3"
+        }
+      ],
+      "date_added": "2012-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227893,
+      "name": "Vi mot v\u00e4rlden",
+      "url": "https://open.spotify.com/track/5wRRhKubQ4u1xBQK0KVliE"
+    },
+    {
+      "album": {
+        "name": "Vi Ses P\u00e5 L\u00f6rdag",
+        "url": "https://open.spotify.com/album/4DBs2oYvGG1cKKuF9REYpA"
+      },
+      "artists": [
+        {
+          "name": "Hela Sveriges Fotbollsklubb",
+          "url": "https://open.spotify.com/artist/6wPV3pmvHytH2vTODSdPYe"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135320,
+      "name": "Vi Ses P\u00e5 L\u00f6rdag",
+      "url": "https://open.spotify.com/track/6n0E4hoqO1A4zO7SicDrDx"
+    },
+    {
+      "album": {
+        "name": "Vi ska till VM",
+        "url": "https://open.spotify.com/album/1EKdPpNy8szS05rbnu6UbJ"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Vi ska till VM",
+      "url": "https://open.spotify.com/track/0SXD2SYalWpZ1xlqmv4IDV"
+    },
+    {
+      "album": {
+        "name": "Vi \u00e4r p\u00e5 g\u00e5ng - VM 2006",
+        "url": "https://open.spotify.com/album/30EoDxR2UYquvDHaNwDN25"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Vi \u00e4r p\u00e5 g\u00e5ng - VM 2006",
+      "url": "https://open.spotify.com/track/3eVFbLqeLIJzXQaaBJ8nDT"
+    },
+    {
+      "album": {
+        "name": "Martin och Sibirien",
+        "url": "https://open.spotify.com/album/7tDd43fJOLGLZPQXCKUZWF"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+        }
+      ],
+      "date_added": "2012-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "VM Guld 2002 - Radio Mix",
+      "url": "https://open.spotify.com/track/0Ga7gAYftdywCJlH4dS67m"
+    },
+    {
+      "album": {
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+    },
+    {
+      "album": {
+        "name": "Wavin' Flag (International Coca-Cola\u00ae Celebration Mix)",
+        "url": "https://open.spotify.com/album/0OWec7G6HuYcsbc27dRwFc"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Wavin' Flag - Coca-Cola\u00ae Celebration Mix",
+      "url": "https://open.spotify.com/track/2HMNcHDq7kOFkIDzmbe6GU"
+    },
+    {
+      "album": {
+        "name": "Absolute Greatest",
+        "url": "https://open.spotify.com/album/3kVdysNnlL5oTzhMERRLLo"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "We Are The Champions",
+      "url": "https://open.spotify.com/track/5Y55FgnTswJip7H7HfCOpa"
+    },
+    {
+      "album": {
+        "name": "Absolute Greatest",
+        "url": "https://open.spotify.com/album/3kVdysNnlL5oTzhMERRLLo"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2012-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122346,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/23WsKRReucDjMli5fuRwkn"
+    },
+    {
+      "album": {
+        "name": "Da Man",
+        "url": "https://open.spotify.com/album/5kbHcB18oNedKV0qpSVKZz"
+      },
+      "artists": [
+        {
+          "name": "Elias feat. Frans",
+          "url": "https://open.spotify.com/artist/5cKOyCndehL1TqvRqVzv23"
+        }
+      ],
+      "date_added": "2012-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "Who's Da' Man - Swedish Version",
+      "url": "https://open.spotify.com/track/4uG2hBujxUwZpcMBhHAkOB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0NYlvGXveeyvhb5G80LPtA"
 }

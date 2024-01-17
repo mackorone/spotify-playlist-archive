@@ -1,472 +1,693 @@
 {
-  "2022-09-17": 5025,
-  "2022-09-18": 5030,
-  "2022-09-19": 5036,
-  "2022-09-20": 5044,
-  "2022-09-21": 5048,
-  "2022-09-22": 5049,
-  "2022-09-23": 5051,
-  "2022-09-24": 5051,
-  "2022-09-25": 5054,
-  "2022-09-26": 5056,
-  "2022-09-27": 5056,
-  "2022-09-28": 5060,
-  "2022-09-29": 5069,
-  "2022-09-30": 5076,
-  "2022-10-01": 5075,
-  "2022-10-02": 5081,
-  "2022-10-03": 5082,
-  "2022-10-04": 5083,
-  "2022-10-05": 5085,
-  "2022-10-06": 5085,
-  "2022-10-07": 5087,
-  "2022-10-08": 5090,
-  "2022-10-09": 5095,
-  "2022-10-10": 5097,
-  "2022-10-11": 5097,
-  "2022-10-12": 5099,
-  "2022-10-13": 5103,
-  "2022-10-14": 5106,
-  "2022-10-15": 5107,
-  "2022-10-16": 5107,
-  "2022-10-17": 5108,
-  "2022-10-18": 5109,
-  "2022-10-19": 5110,
-  "2022-10-20": 5111,
-  "2022-10-21": 5114,
-  "2022-10-22": 5115,
-  "2022-10-23": 5117,
-  "2022-10-24": 5119,
-  "2022-10-25": 5120,
-  "2022-10-26": 5122,
-  "2022-10-27": 5125,
-  "2022-10-28": 5124,
-  "2022-10-29": 5122,
-  "2022-10-30": 5127,
-  "2022-10-31": 5125,
-  "2022-11-01": 5127,
-  "2022-11-02": 5129,
-  "2022-11-03": 5130,
-  "2022-11-04": 5131,
-  "2022-11-05": 5131,
-  "2022-11-06": 5134,
-  "2022-11-07": 5136,
-  "2022-11-08": 5138,
-  "2022-11-09": 5140,
-  "2022-11-10": 5142,
-  "2022-11-11": 5144,
-  "2022-11-12": 5147,
-  "2022-11-13": 5150,
-  "2022-11-14": 5152,
-  "2022-11-15": 5153,
-  "2022-11-16": 5156,
-  "2022-11-17": 5158,
-  "2022-11-18": 5160,
-  "2022-11-19": 5160,
-  "2022-11-20": 5163,
-  "2022-11-21": 5165,
-  "2022-11-22": 5167,
-  "2022-11-23": 5169,
-  "2022-11-24": 5172,
-  "2022-11-25": 5177,
-  "2022-11-26": 5181,
-  "2022-11-27": 5183,
-  "2022-11-28": 5184,
-  "2022-11-29": 5182,
-  "2022-11-30": 5181,
-  "2022-12-01": 5180,
-  "2022-12-02": 5180,
-  "2022-12-03": 5183,
-  "2022-12-04": 5182,
-  "2022-12-05": 5182,
-  "2022-12-06": 5185,
-  "2022-12-07": 5191,
-  "2022-12-08": 5194,
-  "2022-12-09": 5194,
-  "2022-12-10": 5196,
-  "2022-12-11": 5194,
-  "2022-12-12": 5197,
-  "2022-12-13": 5202,
-  "2022-12-14": 5205,
-  "2022-12-15": 5206,
-  "2022-12-16": 5210,
-  "2022-12-17": 5211,
-  "2022-12-18": 5213,
-  "2022-12-19": 5215,
-  "2022-12-20": 5218,
-  "2022-12-21": 5218,
-  "2022-12-22": 5220,
-  "2022-12-24": 5223,
-  "2022-12-25": 5225,
-  "2022-12-26": 5228,
-  "2022-12-27": 5230,
-  "2022-12-28": 5233,
-  "2022-12-29": 5233,
-  "2022-12-30": 5235,
-  "2022-12-31": 5240,
-  "2023-01-01": 5244,
-  "2023-01-02": 5248,
-  "2023-01-03": 5248,
-  "2023-01-04": 5249,
-  "2023-01-05": 5250,
-  "2023-01-06": 5254,
-  "2023-01-07": 5260,
-  "2023-01-08": 5261,
-  "2023-01-09": 5264,
-  "2023-01-10": 5265,
-  "2023-01-11": 5267,
-  "2023-01-12": 5271,
-  "2023-01-13": 5273,
-  "2023-01-14": 5274,
-  "2023-01-15": 5277,
-  "2023-01-16": 5279,
-  "2023-01-17": 5283,
-  "2023-01-18": 5283,
-  "2023-01-19": 5284,
-  "2023-01-20": 5286,
-  "2023-01-21": 5287,
-  "2023-01-22": 5289,
-  "2023-01-23": 5292,
-  "2023-01-24": 5297,
-  "2023-01-25": 5299,
-  "2023-01-26": 5307,
-  "2023-01-27": 5308,
-  "2023-01-28": 5309,
-  "2023-01-29": 5315,
-  "2023-01-30": 5316,
-  "2023-01-31": 5316,
-  "2023-02-01": 5324,
-  "2023-02-02": 5332,
-  "2023-02-03": 5331,
-  "2023-02-04": 5333,
-  "2023-02-05": 5334,
-  "2023-02-06": 5336,
-  "2023-02-07": 5338,
-  "2023-02-08": 5342,
-  "2023-02-09": 5342,
-  "2023-02-10": 5343,
-  "2023-02-11": 5346,
-  "2023-02-12": 5349,
-  "2023-02-13": 5352,
-  "2023-02-14": 5352,
-  "2023-02-15": 5353,
-  "2023-02-16": 5354,
-  "2023-02-17": 5358,
-  "2023-02-18": 5362,
-  "2023-02-19": 5362,
-  "2023-02-20": 5364,
-  "2023-02-21": 5364,
-  "2023-02-22": 5368,
-  "2023-02-23": 5370,
-  "2023-02-24": 5374,
-  "2023-02-25": 5375,
-  "2023-02-26": 5377,
-  "2023-02-27": 5381,
-  "2023-02-28": 5381,
-  "2023-03-01": 5382,
-  "2023-03-02": 5383,
-  "2023-03-03": 5384,
-  "2023-03-04": 5386,
-  "2023-03-05": 5388,
-  "2023-03-06": 5388,
-  "2023-03-07": 5389,
-  "2023-03-08": 5389,
-  "2023-03-09": 5390,
-  "2023-03-10": 5392,
-  "2023-03-11": 5395,
-  "2023-03-12": 5398,
-  "2023-03-13": 5398,
-  "2023-03-14": 5401,
-  "2023-03-15": 5402,
-  "2023-03-16": 5402,
-  "2023-03-17": 5402,
-  "2023-03-18": 5414,
-  "2023-03-19": 5414,
-  "2023-03-20": 5419,
-  "2023-03-21": 5423,
-  "2023-03-22": 5428,
-  "2023-03-23": 5426,
-  "2023-03-24": 5426,
-  "2023-03-25": 5432,
-  "2023-03-26": 5434,
-  "2023-03-27": 5436,
-  "2023-03-28": 5438,
-  "2023-03-29": 5443,
-  "2023-03-30": 5446,
-  "2023-03-31": 5446,
-  "2023-04-01": 5452,
-  "2023-04-02": 5451,
-  "2023-04-03": 5452,
-  "2023-04-04": 5456,
-  "2023-04-05": 5460,
-  "2023-04-06": 5464,
-  "2023-04-07": 5464,
-  "2023-04-09": 5464,
-  "2023-04-10": 5468,
-  "2023-04-11": 5473,
-  "2023-04-12": 5473,
-  "2023-04-13": 5473,
-  "2023-04-14": 5474,
-  "2023-04-15": 5477,
-  "2023-04-16": 5479,
-  "2023-04-17": 5484,
-  "2023-04-18": 5485,
-  "2023-04-19": 5485,
-  "2023-04-20": 5492,
-  "2023-04-21": 5494,
-  "2023-04-22": 5494,
-  "2023-04-23": 5497,
-  "2023-04-24": 5502,
-  "2023-04-25": 5503,
-  "2023-04-26": 5504,
-  "2023-04-27": 5503,
-  "2023-04-28": 5504,
-  "2023-04-29": 5507,
-  "2023-04-30": 5509,
-  "2023-05-01": 5509,
-  "2023-05-02": 5512,
-  "2023-05-03": 5514,
-  "2023-05-04": 5514,
-  "2023-05-05": 5516,
-  "2023-05-06": 5516,
-  "2023-05-07": 5516,
-  "2023-05-08": 5515,
-  "2023-05-09": 5516,
-  "2023-05-10": 5516,
-  "2023-05-11": 5514,
-  "2023-05-12": 5515,
-  "2023-05-13": 5516,
-  "2023-05-14": 5519,
-  "2023-05-15": 5520,
-  "2023-05-16": 5521,
-  "2023-05-17": 5521,
-  "2023-05-18": 5523,
-  "2023-05-19": 5526,
-  "2023-05-20": 5529,
-  "2023-05-21": 5529,
-  "2023-05-22": 5529,
-  "2023-05-23": 5531,
-  "2023-05-24": 5531,
-  "2023-05-25": 5532,
-  "2023-05-26": 5531,
-  "2023-05-27": 5534,
-  "2023-05-28": 5535,
-  "2023-05-29": 5535,
-  "2023-05-30": 5540,
-  "2023-05-31": 5539,
-  "2023-06-01": 5542,
-  "2023-06-02": 5542,
-  "2023-06-03": 5545,
-  "2023-06-04": 5545,
-  "2023-06-05": 5545,
-  "2023-06-06": 5546,
-  "2023-06-07": 5546,
-  "2023-06-08": 5549,
-  "2023-06-09": 5550,
-  "2023-06-10": 5552,
-  "2023-06-11": 5555,
-  "2023-06-12": 5557,
-  "2023-06-13": 5560,
-  "2023-06-14": 5558,
-  "2023-06-15": 5558,
-  "2023-06-16": 5561,
-  "2023-06-17": 5562,
-  "2023-06-18": 5564,
-  "2023-06-19": 5567,
-  "2023-06-20": 5572,
-  "2023-06-21": 5575,
-  "2023-06-22": 5576,
-  "2023-06-23": 5578,
-  "2023-06-24": 5580,
-  "2023-06-25": 5582,
-  "2023-06-26": 5582,
-  "2023-06-27": 5584,
-  "2023-06-28": 5587,
-  "2023-06-29": 5587,
-  "2023-06-30": 5588,
-  "2023-07-01": 5590,
-  "2023-07-02": 5590,
-  "2023-07-03": 5589,
-  "2023-07-04": 5591,
-  "2023-07-05": 5594,
-  "2023-07-06": 5600,
-  "2023-07-07": 5600,
-  "2023-07-08": 5602,
-  "2023-07-09": 5608,
-  "2023-07-10": 5608,
-  "2023-07-11": 5610,
-  "2023-07-12": 5609,
-  "2023-07-13": 5609,
-  "2023-07-14": 5611,
-  "2023-07-15": 5612,
-  "2023-07-16": 5617,
-  "2023-07-17": 5616,
-  "2023-07-18": 5616,
-  "2023-07-19": 5620,
-  "2023-07-20": 5624,
-  "2023-07-21": 5625,
-  "2023-07-22": 5631,
-  "2023-07-23": 5639,
-  "2023-07-24": 5642,
-  "2023-07-25": 5645,
-  "2023-07-26": 5646,
-  "2023-07-27": 5649,
-  "2023-07-28": 5648,
-  "2023-07-29": 5647,
-  "2023-07-30": 5649,
-  "2023-07-31": 5652,
-  "2023-08-01": 5654,
-  "2023-08-02": 5659,
-  "2023-08-03": 5662,
-  "2023-08-04": 5663,
-  "2023-08-05": 5669,
-  "2023-08-06": 5673,
-  "2023-08-07": 5673,
-  "2023-08-08": 5671,
-  "2023-08-09": 5679,
-  "2023-08-10": 5680,
-  "2023-08-11": 5681,
-  "2023-08-12": 5681,
-  "2023-08-13": 5681,
-  "2023-08-14": 5686,
-  "2023-08-15": 5686,
-  "2023-08-16": 5686,
-  "2023-08-17": 5692,
-  "2023-08-18": 5692,
-  "2023-08-19": 5692,
-  "2023-08-20": 5698,
-  "2023-08-21": 5698,
-  "2023-08-22": 5702,
-  "2023-08-23": 5702,
-  "2023-08-24": 5708,
-  "2023-08-25": 5708,
-  "2023-08-26": 5710,
-  "2023-08-27": 5710,
-  "2023-08-28": 5714,
-  "2023-08-29": 5714,
-  "2023-08-30": 5714,
-  "2023-08-31": 5716,
-  "2023-09-01": 5723,
-  "2023-09-02": 5723,
-  "2023-09-03": 5724,
-  "2023-09-04": 5724,
-  "2023-09-05": 5724,
-  "2023-09-06": 5725,
-  "2023-09-07": 5725,
-  "2023-09-08": 5725,
-  "2023-09-09": 5725,
-  "2023-09-10": 5736,
-  "2023-09-11": 5736,
-  "2023-09-12": 5736,
-  "2023-09-13": 5740,
-  "2023-09-14": 5740,
-  "2023-09-15": 5740,
-  "2023-09-16": 5745,
-  "2023-09-17": 5745,
-  "2023-09-18": 5745,
-  "2023-09-19": 5749,
-  "2023-09-20": 5749,
-  "2023-09-21": 5749,
-  "2023-09-22": 5758,
-  "2023-09-23": 5758,
-  "2023-09-24": 5758,
-  "2023-09-25": 5758,
-  "2023-09-26": 5769,
-  "2023-09-27": 5769,
-  "2023-09-28": 5769,
-  "2023-09-29": 5769,
-  "2023-09-30": 5769,
-  "2023-10-01": 5769,
-  "2023-10-02": 5787,
-  "2023-10-03": 5787,
-  "2023-10-04": 5787,
-  "2023-10-05": 5790,
-  "2023-10-06": 5792,
-  "2023-10-07": 5792,
-  "2023-10-08": 5792,
-  "2023-10-09": 5792,
-  "2023-10-10": 5792,
-  "2023-10-11": 5806,
-  "2023-10-12": 5806,
-  "2023-10-13": 5806,
-  "2023-10-14": 5806,
-  "2023-10-15": 5806,
-  "2023-10-16": 5806,
-  "2023-10-17": 5806,
-  "2023-10-18": 5806,
-  "2023-10-19": 5806,
-  "2023-10-20": 5806,
-  "2023-10-21": 5806,
-  "2023-10-22": 5806,
-  "2023-10-23": 5806,
-  "2023-10-24": 5806,
-  "2023-10-25": 5806,
-  "2023-10-26": 5806,
-  "2023-10-27": 5806,
-  "2023-10-28": 5806,
-  "2023-10-29": 5806,
-  "2023-10-30": 5806,
-  "2023-10-31": 5806,
-  "2023-11-01": 5806,
-  "2023-11-02": 5806,
-  "2023-11-03": 5806,
-  "2023-11-04": 5806,
-  "2023-11-05": 5806,
-  "2023-11-06": 5806,
-  "2023-11-07": 5806,
-  "2023-11-08": 5806,
-  "2023-11-09": 5806,
-  "2023-11-10": 5806,
-  "2023-11-11": 5841,
-  "2023-11-12": 5841,
-  "2023-11-13": 5841,
-  "2023-11-14": 5841,
-  "2023-11-15": 5841,
-  "2023-11-16": 5841,
-  "2023-11-17": 5841,
-  "2023-11-18": 5841,
-  "2023-11-19": 5841,
-  "2023-11-20": 5841,
-  "2023-11-21": 5841,
-  "2023-11-22": 5841,
-  "2023-11-23": 5841,
-  "2023-11-24": 5841,
-  "2023-11-25": 5841,
-  "2023-11-26": 5841,
-  "2023-11-27": 5841,
-  "2023-11-28": 5841,
-  "2023-11-29": 5841,
-  "2023-11-30": 5841,
-  "2023-12-01": 5841,
-  "2023-12-02": 5841,
-  "2023-12-03": 5841,
-  "2023-12-04": 5841,
-  "2023-12-05": 5841,
-  "2023-12-06": 5841,
-  "2023-12-07": 5841,
-  "2023-12-08": 5841,
-  "2023-12-09": 5841,
-  "2023-12-10": 5841,
-  "2023-12-11": 5841,
-  "2023-12-12": 5841,
-  "2023-12-13": 5841,
-  "2023-12-14": 5912,
-  "2023-12-15": 5914,
-  "2023-12-16": 5916,
-  "2023-12-17": 5918,
-  "2023-12-18": 5920,
-  "2023-12-19": 5922,
-  "2023-12-20": 5927,
-  "2023-12-21": 5931,
-  "2023-12-22": 5936,
-  "2023-12-23": 5942,
-  "2023-12-24": 5945,
-  "2023-12-25": 5946,
-  "2023-12-26": 5948,
-  "2023-12-27": 5949,
-  "2023-12-30": 5952,
-  "2023-12-31": 5955,
-  "2024-01-01": 5956,
-  "2024-01-02": 5958,
-  "2024-01-03": 5962
+  "2024-01-17": 5981,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Violent Soho. The essential tracks, all in one playlist.",
+  "name": "This Is Violent Soho",
+  "tracks": [
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163233,
+      "name": "A-OK",
+      "url": "https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/08k7gNeLvsZamR6Thx8lzZ"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/7eqpBCYDhTfqDCluyE6Ssd"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "Covered in Chrome",
+      "url": "https://open.spotify.com/track/3aQ4lsLwgACSSp2vS5OzC9"
+    },
+    {
+      "album": {
+        "name": "Domestic La La",
+        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Domestic La La",
+      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304057,
+      "name": "Dope Calypso",
+      "url": "https://open.spotify.com/track/0SUXtdt8aLCt6ENqPwrJ2V"
+    },
+    {
+      "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Eat Your Parents",
+      "url": "https://open.spotify.com/track/5Z0GVyH0RjhgjVcLYwf1cH"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 243706,
+      "name": "Eightfold",
+      "url": "https://open.spotify.com/track/12SnT9IxcdzP3F98oUsOUc"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224495,
+      "name": "Follow Me Here - Demo",
+      "url": "https://open.spotify.com/track/1ukz3bcQKDvEpsrd9ioWKL"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273280,
+      "name": "Fur Eyes",
+      "url": "https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 181440,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/7IPfT2Rc4MXRwcVqkxX9Gh"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Here Be Dragons",
+      "url": "https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/60MN8kBj6WRBu4igkP0LSQ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Home Haircut",
+      "url": "https://open.spotify.com/track/6TOZ2DXR90uyBn12wG3oGQ"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270773,
+      "name": "How To Taste",
+      "url": "https://open.spotify.com/track/4TDUxnS5QcrrKua4AKOnPk"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "In The Aisle",
+      "url": "https://open.spotify.com/track/463MctMxMjFOa8fIgC3lry"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Jesus Stole My Girlfriend",
+      "url": "https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202740,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "Like Soda",
+      "url": "https://open.spotify.com/track/4h2Pby8QuTBUbsjzn9d81Q"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Love Is A Heavy Word",
+      "url": "https://open.spotify.com/track/2iWQrd8LABqESP9gC4jfYW"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 203022,
+      "name": "Lying on the Floor",
+      "url": "https://open.spotify.com/track/4T9wBvnIkUC8bZDQVXW9BB"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203022,
+      "name": "Lying On The Floor",
+      "url": "https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Narrow Ways",
+      "url": "https://open.spotify.com/track/0k3F1sYirFzPz7o5MW6b2Q"
+    },
+    {
+      "album": {
+        "name": "Neighbour Neighbour",
+        "url": "https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Neighbour Neighbour",
+      "url": "https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284293,
+      "name": "OK Cathedral",
+      "url": "https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 180613,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb"
+    },
+    {
+      "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Paper Plane",
+      "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190422,
+      "name": "Pick it Up Again",
+      "url": "https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC"
+    },
+    {
+      "album": {
+        "name": "Hungry Ghost",
+        "url": "https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Saramona Said",
+      "url": "https://open.spotify.com/track/6n0UZBn3qWgsm13ihODEMS"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225858,
+      "name": "Slow Down Sonic",
+      "url": "https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252226,
+      "name": "So Sentimental",
+      "url": "https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv"
+    },
+    {
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234414,
+      "name": "Tinderbox",
+      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
+    },
+    {
+      "album": {
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194479,
+      "name": "Viceroy",
+      "url": "https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP"
+    },
+    {
+      "album": {
+        "name": "WACO",
+        "url": "https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 240840,
+      "name": "Waco",
+      "url": "https://open.spotify.com/track/7x3k7amEYstlspNVXEp2B5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BE4x4"
 }

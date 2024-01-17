@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 209600,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 236160,
       "name": "Rubble",
       "url": "https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc"
@@ -3432,6 +3432,36 @@
       "duration_ms": 235265,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "album": {
+        "name": "Somebody (Trance Wax Remix)",
+        "url": "https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Somebody - Trance Wax Remix",
+      "url": "https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl"
     },
     {
       "album": {

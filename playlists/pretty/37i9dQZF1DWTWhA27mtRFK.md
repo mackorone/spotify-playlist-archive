@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,986 likes - 55 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,386 likes - 55 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 3 | [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6x1khtu5MTHO4f98zA1AkX) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 2:51 |
 | 4 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
 | 5 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
-| 6 | [Novus Pt\. 1: Ascent](https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 5:12 |
-| 7 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 |
+| 6 | [Novus Pt\. 1: Ascent](https://open.spotify.com/track/0A9KM1lMfgem28ehiq8UGG) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 5:12 |
+| 7 | [The Way Home](https://open.spotify.com/track/73YQtVmeUz8Aridl3owXIr) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/5op9oskp874PemPjx5uJfL) | 24:53 |
 | 8 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
 | 9 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 |
 | 10 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 13 | [She Trails Flowers](https://open.spotify.com/track/0BlKAekb8c0K0mUPlQvIDS) | [Neutron 9000](https://open.spotify.com/artist/0wTMDXNFj8bX2rKZuBDEdd) | [Lady Burning Sky](https://open.spotify.com/album/0Q9MAgJqzAEbFaBopjzY1H) | 10:07 |
 | 14 | [Forest I](https://open.spotify.com/track/1OOWBKG1rigxUbM6HHso6G) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Forest/Mountain](https://open.spotify.com/album/01rVoq4sFduuosgPmo3uui) | 6:34 |
 | 15 | [Silent Spirit \(30th Anniversary Edition\)](https://open.spotify.com/track/0qBm0Tm5HgR11UPZVNKAAo) | [Tony O'Connor](https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC) | [Rainforest Magic \(30th Anniversary Edition\)](https://open.spotify.com/album/4nS6sm03QTuB9vat0HBbe1) | 7:37 |
-| 16 | [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/2mrZhu6HeLOB4x0jGFDQCV) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 4:26 |
+| 16 | [Novus Pt\. 1: Tears of Terra](https://open.spotify.com/track/6aZJH8zQOO5BKCeOeqwzQa) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 4:26 |
 | 17 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 |
 | 18 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 |
 | 19 | [Attaining Peace](https://open.spotify.com/track/4o6vJWuNT0w01fPMISWOVV) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 5:06 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 46 | [L'Azzuro](https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 5:12 |
 | 47 | [Morning Light Silhouettes 1](https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Love](https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh) | 7:31 |
 | 48 | [Sea of Bliss](https://open.spotify.com/track/0zHmC4xmETE5wRhYaz8yUh) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/1Ik3Zj4WkedKLSctd1foQZ) | 29:32 |
-| 49 | [Encounter](https://open.spotify.com/track/03s6eSh8MFevFV6wmMo31b) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/0471cdD9HGAzu34WkdsLnC) | 3:29 |
-| 50 | [The Hills of Home](https://open.spotify.com/track/0rXJ5RDh7wwdLgDutWaDFy) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/5B9WJKf7G8DJMmYnOlmqyO) | [Rain](https://open.spotify.com/album/4MmMeNye5l6EGKeFi8xCIA) | 7:18 |
+| 49 | [Encounter](https://open.spotify.com/track/1COW0wZN5HUK06Mu0CLwVw) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Encounter](https://open.spotify.com/album/1VD2FJa1F8uSh5yFe53KIs) | 3:29 |
+| 50 | [The Hills of Home](https://open.spotify.com/track/0lNRbszd01OAg61o2zFhMu) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D), [Tim Clark](https://open.spotify.com/artist/40OJq58FfNTxJsJsC0fgXM) | [Rain](https://open.spotify.com/album/5pkIek5HIa6m0u6WpnmsXb) | 7:18 |
 | 51 | [Sunset Village](https://open.spotify.com/track/7j5hAcRDyRwSDdCl4EKawg) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:21 |
 | 52 | [Astral Travel](https://open.spotify.com/track/0Pcni1AGKWKmhOYvUj6Uhx) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj) | [Traveler](https://open.spotify.com/album/66HqweHbS44za5lx2yYYDT) | 5:29 |
 | 53 | [Singing Bowl](https://open.spotify.com/track/6HUnasN0QtdqSXa2QSUsmL) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj), [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [Christopher Hedge](https://open.spotify.com/artist/7D4tkMk6hIpagbLrw3j7Ji) | [Himalayan Sessions](https://open.spotify.com/album/1PVqJVYkSZ5mYyg3AybLNw) | 9:59 |

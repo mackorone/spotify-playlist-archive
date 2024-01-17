@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-173 songs - 8 hr 40 min
+174 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Deep Blue](https://open.spotify.com/track/1GkUaCQLQYxCEV7z4cITTT) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Deep Blue](https://open.spotify.com/album/1CuxpTAaorXnbmN1xkLCTg) | 3:04 | 2022-07-05 | 2022-07-29 |
 | [Deep Blue](https://open.spotify.com/track/4pm0jhxhcRmHyFhnYOfigu) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Deep Blue](https://open.spotify.com/album/74C3kNaZRcrl41ucQVU18M) | 3:04 | 2022-11-11 | 2023-10-05 |
+| [Desiderio](https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Desiderio](https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh) | 2:34 | 2023-11-24 |  |
 | [Devotion](https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Devotion](https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA) | 2:50 | 2022-11-11 |  |
 | [Devotion](https://open.spotify.com/track/7jcgoL5r5E3J5qB6Ah3HCK) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Devotion](https://open.spotify.com/album/1mZrKNuHlQfUC1S12Xi4Le) | 2:50 | 2022-07-19 | 2022-07-29 |
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
@@ -148,7 +149,7 @@
 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 | 2022-07-19 |  |
 | [Soft Meadow](https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C) | 2:59 | 2023-10-04 |  |
 | [Soft Meadow](https://open.spotify.com/track/4asidk65e0vYOKukqfWMGb) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/4cNA7atoZuNanhhhkllX8n) | 2:59 | 2022-07-19 | 2022-07-29 |
-| [Solace \- Meditation](https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Solace](https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U) | 5:04 | 2022-07-19 |  |
+| [Solace \- Meditation](https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Solace](https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U) | 5:04 | 2022-07-19 | 2024-01-13 |
 | [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 | 2022-07-19 |  |
 | [Soothe](https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/74vs037IHVc421BMmB5yqo) | 2:51 | 2022-07-19 |  |
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |

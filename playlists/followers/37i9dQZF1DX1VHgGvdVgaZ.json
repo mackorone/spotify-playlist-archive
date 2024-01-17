@@ -1,732 +1,1901 @@
 {
-  "2021-12-28": 31367,
-  "2021-12-29": 31386,
-  "2021-12-30": 31405,
-  "2021-12-31": 31423,
-  "2022-01-01": 31461,
-  "2022-01-02": 31467,
-  "2022-01-03": 31475,
-  "2022-01-04": 31487,
-  "2022-01-05": 31506,
-  "2022-01-06": 31529,
-  "2022-01-07": 31545,
-  "2022-01-08": 31574,
-  "2022-01-09": 31575,
-  "2022-01-10": 31595,
-  "2022-01-11": 31623,
-  "2022-01-12": 31644,
-  "2022-01-13": 31667,
-  "2022-01-14": 31690,
-  "2022-01-15": 31732,
-  "2022-01-16": 31734,
-  "2022-01-17": 31779,
-  "2022-01-18": 31782,
-  "2022-01-19": 31799,
-  "2022-01-20": 31819,
-  "2022-01-21": 31836,
-  "2022-01-22": 31850,
-  "2022-01-23": 31860,
-  "2022-01-24": 31899,
-  "2022-01-25": 31934,
-  "2022-01-26": 31952,
-  "2022-01-27": 31962,
-  "2022-01-28": 31983,
-  "2022-01-29": 32001,
-  "2022-01-30": 32020,
-  "2022-01-31": 32041,
-  "2022-02-01": 32056,
-  "2022-02-02": 32083,
-  "2022-02-03": 32104,
-  "2022-02-04": 32120,
-  "2022-02-05": 32137,
-  "2022-02-06": 32151,
-  "2022-02-07": 32166,
-  "2022-02-08": 32179,
-  "2022-02-09": 32208,
-  "2022-02-10": 32229,
-  "2022-02-11": 32254,
-  "2022-02-12": 32280,
-  "2022-02-13": 32294,
-  "2022-02-14": 32311,
-  "2022-02-15": 32328,
-  "2022-02-16": 32342,
-  "2022-02-17": 32357,
-  "2022-02-18": 32369,
-  "2022-02-19": 32392,
-  "2022-02-20": 32410,
-  "2022-02-21": 32439,
-  "2022-02-22": 32454,
-  "2022-02-23": 32473,
-  "2022-02-24": 32489,
-  "2022-02-25": 32505,
-  "2022-02-26": 32524,
-  "2022-02-27": 32567,
-  "2022-02-28": 32567,
-  "2022-03-01": 32584,
-  "2022-03-02": 32608,
-  "2022-03-03": 32618,
-  "2022-03-04": 32630,
-  "2022-03-05": 32646,
-  "2022-03-06": 32664,
-  "2022-03-07": 32690,
-  "2022-03-08": 32706,
-  "2022-03-09": 32722,
-  "2022-03-10": 32743,
-  "2022-03-11": 32765,
-  "2022-03-12": 32782,
-  "2022-03-13": 32798,
-  "2022-03-14": 32818,
-  "2022-03-15": 32835,
-  "2022-03-16": 32856,
-  "2022-03-17": 32866,
-  "2022-03-18": 32896,
-  "2022-03-19": 32899,
-  "2022-03-20": 32899,
-  "2022-03-21": 32932,
-  "2022-03-22": 32943,
-  "2022-03-23": 32958,
-  "2022-03-24": 32977,
-  "2022-03-25": 32993,
-  "2022-03-26": 33013,
-  "2022-03-27": 33034,
-  "2022-03-28": 33049,
-  "2022-03-30": 33084,
-  "2022-03-31": 33099,
-  "2022-04-01": 33111,
-  "2022-04-02": 33126,
-  "2022-04-03": 33143,
-  "2022-04-04": 33156,
-  "2022-04-05": 33177,
-  "2022-04-06": 33194,
-  "2022-04-07": 33217,
-  "2022-04-08": 33232,
-  "2022-04-09": 33248,
-  "2022-04-10": 33280,
-  "2022-04-11": 33299,
-  "2022-04-12": 33300,
-  "2022-04-13": 33320,
-  "2022-04-14": 33338,
-  "2022-04-15": 33359,
-  "2022-04-16": 33377,
-  "2022-04-17": 33388,
-  "2022-04-18": 33416,
-  "2022-04-19": 33426,
-  "2022-04-20": 33447,
-  "2022-04-21": 33467,
-  "2022-04-22": 33489,
-  "2022-04-23": 33505,
-  "2022-04-24": 33518,
-  "2022-04-25": 33540,
-  "2022-04-26": 33564,
-  "2022-04-27": 33591,
-  "2022-04-28": 33604,
-  "2022-04-29": 33618,
-  "2022-04-30": 33636,
-  "2022-05-01": 33651,
-  "2022-05-02": 33651,
-  "2022-05-03": 33662,
-  "2022-05-04": 33679,
-  "2022-05-05": 33695,
-  "2022-05-06": 33711,
-  "2022-05-07": 33726,
-  "2022-05-08": 33754,
-  "2022-05-09": 33757,
-  "2022-05-10": 33766,
-  "2022-05-11": 33785,
-  "2022-05-12": 33791,
-  "2022-05-13": 33803,
-  "2022-05-14": 33813,
-  "2022-05-15": 33831,
-  "2022-05-16": 33849,
-  "2022-05-17": 33856,
-  "2022-05-18": 33865,
-  "2022-05-19": 33879,
-  "2022-05-20": 33909,
-  "2022-05-21": 33943,
-  "2022-05-22": 33943,
-  "2022-05-23": 33967,
-  "2022-05-24": 33979,
-  "2022-05-25": 33996,
-  "2022-05-26": 34001,
-  "2022-05-27": 34017,
-  "2022-05-28": 34032,
-  "2022-05-29": 34047,
-  "2022-05-30": 34061,
-  "2022-05-31": 34076,
-  "2022-06-01": 34107,
-  "2022-06-02": 34108,
-  "2022-06-03": 34118,
-  "2022-06-04": 34130,
-  "2022-06-05": 34136,
-  "2022-06-06": 34160,
-  "2022-06-07": 34174,
-  "2022-06-08": 34208,
-  "2022-06-09": 34228,
-  "2022-06-10": 34244,
-  "2022-06-11": 34272,
-  "2022-06-12": 34283,
-  "2022-06-13": 34296,
-  "2022-06-14": 34313,
-  "2022-06-15": 34331,
-  "2022-06-16": 34354,
-  "2022-06-17": 34371,
-  "2022-06-18": 34389,
-  "2022-06-19": 34417,
-  "2022-06-20": 34417,
-  "2022-06-21": 34430,
-  "2022-06-22": 34458,
-  "2022-06-23": 34458,
-  "2022-06-24": 34477,
-  "2022-06-25": 34487,
-  "2022-06-26": 34509,
-  "2022-06-27": 34530,
-  "2022-06-28": 34545,
-  "2022-06-29": 34562,
-  "2022-06-30": 34586,
-  "2022-07-01": 34594,
-  "2022-07-02": 34604,
-  "2022-07-03": 34613,
-  "2022-07-04": 34621,
-  "2022-07-05": 34632,
-  "2022-07-06": 34650,
-  "2022-07-07": 34668,
-  "2022-07-08": 34682,
-  "2022-07-09": 34704,
-  "2022-07-10": 34718,
-  "2022-07-11": 34735,
-  "2022-07-12": 34749,
-  "2022-07-13": 34760,
-  "2022-07-14": 34784,
-  "2022-07-15": 34796,
-  "2022-07-16": 34811,
-  "2022-07-17": 34833,
-  "2022-07-18": 34850,
-  "2022-07-19": 34860,
-  "2022-07-20": 34883,
-  "2022-07-21": 34901,
-  "2022-07-22": 34919,
-  "2022-07-23": 34937,
-  "2022-07-24": 34953,
-  "2022-07-25": 34975,
-  "2022-07-26": 34991,
-  "2022-07-27": 35015,
-  "2022-07-28": 35030,
-  "2022-07-29": 35053,
-  "2022-07-30": 35093,
-  "2022-07-31": 35093,
-  "2022-08-01": 35112,
-  "2022-08-02": 35151,
-  "2022-08-03": 35151,
-  "2022-08-04": 35170,
-  "2022-08-05": 35178,
-  "2022-08-06": 35200,
-  "2022-08-07": 35218,
-  "2022-08-08": 35236,
-  "2022-08-09": 35257,
-  "2022-08-10": 35280,
-  "2022-08-11": 35305,
-  "2022-08-12": 35323,
-  "2022-08-13": 35348,
-  "2022-08-14": 35368,
-  "2022-08-15": 35387,
-  "2022-08-16": 35399,
-  "2022-08-17": 35412,
-  "2022-08-18": 35433,
-  "2022-08-19": 35455,
-  "2022-08-20": 35469,
-  "2022-08-21": 35499,
-  "2022-08-22": 35520,
-  "2022-08-23": 35539,
-  "2022-08-24": 35560,
-  "2022-08-25": 35579,
-  "2022-08-26": 35601,
-  "2022-08-27": 35620,
-  "2022-08-28": 35636,
-  "2022-08-29": 35659,
-  "2022-08-30": 35675,
-  "2022-08-31": 35685,
-  "2022-09-01": 35705,
-  "2022-09-02": 35711,
-  "2022-09-03": 35720,
-  "2022-09-04": 35736,
-  "2022-09-05": 35758,
-  "2022-09-06": 35779,
-  "2022-09-07": 35794,
-  "2022-09-09": 35830,
-  "2022-09-10": 35854,
-  "2022-09-11": 35874,
-  "2022-09-12": 35909,
-  "2022-09-13": 35933,
-  "2022-09-15": 35967,
-  "2022-09-16": 35978,
-  "2022-09-17": 36000,
-  "2022-09-18": 36023,
-  "2022-09-19": 36052,
-  "2022-09-20": 36065,
-  "2022-09-21": 36084,
-  "2022-09-22": 36098,
-  "2022-09-23": 36129,
-  "2022-09-24": 36153,
-  "2022-09-25": 36169,
-  "2022-09-26": 36203,
-  "2022-09-27": 36221,
-  "2022-09-28": 36252,
-  "2022-09-29": 36271,
-  "2022-09-30": 36292,
-  "2022-10-01": 36316,
-  "2022-10-02": 36344,
-  "2022-10-03": 36369,
-  "2022-10-04": 36401,
-  "2022-10-05": 36423,
-  "2022-10-06": 36446,
-  "2022-10-07": 36472,
-  "2022-10-08": 36493,
-  "2022-10-09": 36536,
-  "2022-10-10": 36539,
-  "2022-10-11": 36553,
-  "2022-10-12": 36564,
-  "2022-10-13": 36580,
-  "2022-10-14": 36603,
-  "2022-10-15": 36632,
-  "2022-10-16": 36667,
-  "2022-10-17": 36697,
-  "2022-10-18": 36726,
-  "2022-10-19": 36747,
-  "2022-10-20": 36764,
-  "2022-10-21": 36798,
-  "2022-10-22": 36830,
-  "2022-10-23": 36859,
-  "2022-10-24": 36878,
-  "2022-10-25": 36914,
-  "2022-10-26": 36936,
-  "2022-10-27": 36961,
-  "2022-10-28": 36984,
-  "2022-10-29": 37013,
-  "2022-10-30": 37041,
-  "2022-10-31": 37059,
-  "2022-11-01": 37082,
-  "2022-11-02": 37112,
-  "2022-11-03": 37134,
-  "2022-11-04": 37158,
-  "2022-11-05": 37177,
-  "2022-11-06": 37197,
-  "2022-11-07": 37233,
-  "2022-11-08": 37254,
-  "2022-11-09": 37281,
-  "2022-11-10": 37293,
-  "2022-11-11": 37318,
-  "2022-11-12": 37350,
-  "2022-11-13": 37363,
-  "2022-11-14": 37394,
-  "2022-11-15": 37419,
-  "2022-11-16": 37440,
-  "2022-11-17": 37466,
-  "2022-11-18": 37480,
-  "2022-11-19": 37474,
-  "2022-11-20": 37509,
-  "2022-11-21": 37505,
-  "2022-11-22": 37567,
-  "2022-11-23": 37561,
-  "2022-11-24": 37630,
-  "2022-11-25": 37661,
-  "2022-11-26": 37679,
-  "2022-11-27": 37707,
-  "2022-11-28": 37747,
-  "2022-11-29": 37770,
-  "2022-11-30": 37794,
-  "2022-12-01": 37817,
-  "2022-12-02": 37829,
-  "2022-12-03": 37865,
-  "2022-12-04": 37894,
-  "2022-12-05": 37925,
-  "2022-12-06": 37957,
-  "2022-12-07": 37980,
-  "2022-12-08": 38011,
-  "2022-12-09": 38034,
-  "2022-12-10": 38044,
-  "2022-12-11": 38072,
-  "2022-12-12": 38106,
-  "2022-12-13": 38130,
-  "2022-12-14": 38145,
-  "2022-12-15": 38165,
-  "2022-12-16": 38188,
-  "2022-12-17": 38206,
-  "2022-12-18": 38229,
-  "2022-12-19": 38252,
-  "2022-12-20": 38285,
-  "2022-12-21": 38285,
-  "2022-12-22": 38302,
-  "2022-12-24": 38350,
-  "2022-12-25": 38382,
-  "2022-12-26": 38397,
-  "2022-12-27": 38419,
-  "2022-12-28": 38435,
-  "2022-12-29": 38458,
-  "2022-12-30": 38484,
-  "2022-12-31": 38515,
-  "2023-01-01": 38533,
-  "2023-01-02": 38554,
-  "2023-01-03": 38580,
-  "2023-01-04": 38607,
-  "2023-01-05": 38630,
-  "2023-01-06": 38657,
-  "2023-01-07": 38707,
-  "2023-01-08": 38710,
-  "2023-01-09": 38752,
-  "2023-01-10": 38783,
-  "2023-01-11": 38807,
-  "2023-01-12": 38830,
-  "2023-01-13": 38861,
-  "2023-01-14": 38909,
-  "2023-01-15": 38912,
-  "2023-01-16": 38935,
-  "2023-01-17": 38961,
-  "2023-01-18": 38988,
-  "2023-01-19": 39013,
-  "2023-01-20": 39029,
-  "2023-01-21": 39047,
-  "2023-01-22": 39070,
-  "2023-01-23": 39104,
-  "2023-01-24": 39135,
-  "2023-01-25": 39164,
-  "2023-01-26": 39186,
-  "2023-01-27": 39206,
-  "2023-01-28": 39228,
-  "2023-01-29": 39252,
-  "2023-01-30": 39280,
-  "2023-01-31": 39280,
-  "2023-02-01": 39336,
-  "2023-02-02": 39356,
-  "2023-02-03": 39375,
-  "2023-02-04": 39404,
-  "2023-02-05": 39427,
-  "2023-02-06": 39453,
-  "2023-02-07": 39470,
-  "2023-02-08": 39519,
-  "2023-02-09": 39519,
-  "2023-02-10": 39535,
-  "2023-02-11": 39555,
-  "2023-02-12": 39596,
-  "2023-02-13": 39613,
-  "2023-02-14": 39613,
-  "2023-02-15": 39621,
-  "2023-02-16": 39636,
-  "2023-02-17": 39659,
-  "2023-02-18": 39714,
-  "2023-02-19": 39716,
-  "2023-02-20": 39748,
-  "2023-02-21": 39767,
-  "2023-02-22": 39802,
-  "2023-02-23": 39833,
-  "2023-02-24": 39859,
-  "2023-02-25": 39900,
-  "2023-02-26": 39914,
-  "2023-02-27": 39972,
-  "2023-02-28": 39972,
-  "2023-03-01": 40006,
-  "2023-03-02": 40033,
-  "2023-03-03": 40057,
-  "2023-03-04": 40076,
-  "2023-03-05": 40135,
-  "2023-03-06": 40135,
-  "2023-03-07": 40158,
-  "2023-03-08": 40179,
-  "2023-03-09": 40213,
-  "2023-03-10": 40241,
-  "2023-03-11": 40264,
-  "2023-03-12": 40281,
-  "2023-03-13": 40301,
-  "2023-03-14": 40318,
-  "2023-03-15": 40333,
-  "2023-03-16": 40352,
-  "2023-03-17": 40352,
-  "2023-03-18": 40408,
-  "2023-03-19": 40441,
-  "2023-03-20": 40471,
-  "2023-03-21": 40491,
-  "2023-03-22": 40521,
-  "2023-03-23": 40555,
-  "2023-03-24": 40555,
-  "2023-03-25": 40610,
-  "2023-03-26": 40627,
-  "2023-03-27": 40664,
-  "2023-03-28": 40685,
-  "2023-03-29": 40713,
-  "2023-03-30": 40753,
-  "2023-03-31": 40753,
-  "2023-04-01": 40768,
-  "2023-04-02": 40798,
-  "2023-04-03": 40817,
-  "2023-04-04": 40844,
-  "2023-04-05": 40867,
-  "2023-04-06": 40887,
-  "2023-04-07": 40914,
-  "2023-04-09": 40974,
-  "2023-04-10": 41003,
-  "2023-04-11": 41048,
-  "2023-04-12": 41048,
-  "2023-04-13": 41073,
-  "2023-04-14": 41092,
-  "2023-04-15": 41112,
-  "2023-04-16": 41149,
-  "2023-04-17": 41176,
-  "2023-04-18": 41197,
-  "2023-04-19": 41220,
-  "2023-04-20": 41249,
-  "2023-04-21": 41271,
-  "2023-04-22": 41290,
-  "2023-04-23": 41315,
-  "2023-04-24": 41341,
-  "2023-04-25": 41363,
-  "2023-04-26": 41388,
-  "2023-04-27": 41400,
-  "2023-04-28": 41426,
-  "2023-04-29": 41454,
-  "2023-04-30": 41481,
-  "2023-05-01": 41505,
-  "2023-05-02": 41523,
-  "2023-05-03": 41548,
-  "2023-05-04": 41574,
-  "2023-05-05": 41599,
-  "2023-05-06": 41625,
-  "2023-05-07": 41648,
-  "2023-05-08": 41678,
-  "2023-05-09": 41698,
-  "2023-05-10": 41722,
-  "2023-05-11": 41739,
-  "2023-05-12": 41766,
-  "2023-05-13": 41791,
-  "2023-05-14": 41814,
-  "2023-05-15": 41837,
-  "2023-05-16": 41852,
-  "2023-05-17": 41882,
-  "2023-05-18": 41900,
-  "2023-05-19": 41927,
-  "2023-05-20": 41983,
-  "2023-05-21": 41983,
-  "2023-05-22": 41983,
-  "2023-05-23": 42045,
-  "2023-05-24": 42081,
-  "2023-05-25": 42086,
-  "2023-05-26": 42108,
-  "2023-05-27": 42124,
-  "2023-05-28": 42142,
-  "2023-05-29": 42142,
-  "2023-05-30": 42193,
-  "2023-05-31": 42221,
-  "2023-06-01": 42246,
-  "2023-06-02": 42270,
-  "2023-06-03": 42299,
-  "2023-06-04": 42315,
-  "2023-06-05": 42348,
-  "2023-06-06": 42377,
-  "2023-06-07": 42406,
-  "2023-06-08": 42431,
-  "2023-06-09": 42462,
-  "2023-06-10": 42493,
-  "2023-06-11": 42526,
-  "2023-06-12": 42561,
-  "2023-06-13": 42579,
-  "2023-06-14": 42604,
-  "2023-06-15": 42629,
-  "2023-06-16": 42656,
-  "2023-06-17": 42683,
-  "2023-06-18": 42703,
-  "2023-06-19": 42731,
-  "2023-06-20": 42760,
-  "2023-06-21": 42791,
-  "2023-06-22": 42822,
-  "2023-06-23": 42850,
-  "2023-06-24": 42875,
-  "2023-06-25": 42909,
-  "2023-06-26": 42942,
-  "2023-06-27": 42973,
-  "2023-06-28": 42994,
-  "2023-06-29": 43013,
-  "2023-06-30": 43042,
-  "2023-07-01": 43099,
-  "2023-07-02": 43099,
-  "2023-07-03": 43127,
-  "2023-07-04": 43153,
-  "2023-07-05": 43173,
-  "2023-07-06": 43231,
-  "2023-07-07": 43231,
-  "2023-07-08": 43261,
-  "2023-07-09": 43295,
-  "2023-07-10": 43334,
-  "2023-07-11": 43375,
-  "2023-07-12": 43413,
-  "2023-07-13": 43433,
-  "2023-07-14": 43456,
-  "2023-07-15": 43476,
-  "2023-07-16": 43512,
-  "2023-07-17": 43540,
-  "2023-07-18": 43567,
-  "2023-07-19": 43597,
-  "2023-07-20": 43625,
-  "2023-07-21": 43651,
-  "2023-07-22": 43686,
-  "2023-07-23": 43711,
-  "2023-07-24": 43745,
-  "2023-07-25": 43767,
-  "2023-07-26": 43782,
-  "2023-07-27": 43804,
-  "2023-07-28": 43827,
-  "2023-07-29": 43857,
-  "2023-07-30": 43892,
-  "2023-07-31": 43932,
-  "2023-08-01": 43959,
-  "2023-08-02": 43994,
-  "2023-08-03": 44018,
-  "2023-08-04": 44049,
-  "2023-08-05": 44083,
-  "2023-08-06": 44146,
-  "2023-08-07": 44146,
-  "2023-08-08": 44174,
-  "2023-08-09": 44196,
-  "2023-08-10": 44222,
-  "2023-08-11": 44246,
-  "2023-08-12": 44263,
-  "2023-08-13": 44299,
-  "2023-08-14": 44327,
-  "2023-08-15": 44381,
-  "2023-08-16": 44381,
-  "2023-08-17": 44414,
-  "2023-08-18": 44445,
-  "2023-08-19": 44473,
-  "2023-08-20": 44511,
-  "2023-08-21": 44553,
-  "2023-08-22": 44589,
-  "2023-08-23": 44634,
-  "2023-08-24": 44663,
-  "2023-08-25": 44694,
-  "2023-08-26": 44738,
-  "2023-08-27": 44776,
-  "2023-08-28": 44819,
-  "2023-08-29": 44859,
-  "2023-08-30": 44882,
-  "2023-08-31": 44916,
-  "2023-09-01": 45000,
-  "2023-09-02": 45000,
-  "2023-09-03": 45031,
-  "2023-09-04": 45072,
-  "2023-09-05": 45097,
-  "2023-09-06": 45128,
-  "2023-09-07": 45161,
-  "2023-09-08": 45189,
-  "2023-09-09": 45220,
-  "2023-09-10": 45255,
-  "2023-09-11": 45296,
-  "2023-09-12": 45334,
-  "2023-09-13": 45375,
-  "2023-09-14": 45414,
-  "2023-09-15": 45455,
-  "2023-09-16": 45487,
-  "2023-09-17": 45522,
-  "2023-09-18": 45555,
-  "2023-09-19": 45596,
-  "2023-09-20": 45631,
-  "2023-09-21": 45664,
-  "2023-09-22": 45694,
-  "2023-09-23": 45747,
-  "2023-09-24": 45781,
-  "2023-09-25": 45820,
-  "2023-09-26": 45863,
-  "2023-09-27": 45885,
-  "2023-09-28": 45919,
-  "2023-09-29": 45947,
-  "2023-09-30": 45986,
-  "2023-10-01": 46013,
-  "2023-10-02": 46045,
-  "2023-10-03": 46063,
-  "2023-10-04": 46084,
-  "2023-10-05": 46111,
-  "2023-10-06": 46145,
-  "2023-10-07": 46168,
-  "2023-10-08": 46184,
-  "2023-10-09": 46200,
-  "2023-10-10": 46229,
-  "2023-10-11": 46265,
-  "2023-10-12": 46265,
-  "2023-10-13": 46278,
-  "2023-10-14": 46303,
-  "2023-10-15": 46334,
-  "2023-10-16": 46377,
-  "2023-10-17": 46390,
-  "2023-10-18": 46417,
-  "2023-10-19": 46435,
-  "2023-10-20": 46460,
-  "2023-10-21": 46477,
-  "2023-10-22": 46500,
-  "2023-10-23": 46526,
-  "2023-10-24": 46547,
-  "2023-10-25": 46575,
-  "2023-10-26": 46588,
-  "2023-10-27": 46612,
-  "2023-10-28": 46636,
-  "2023-10-29": 46656,
-  "2023-10-30": 46713,
-  "2023-10-31": 46713,
-  "2023-11-01": 46733,
-  "2023-11-02": 46750,
-  "2023-11-03": 46783,
-  "2023-11-04": 46800,
-  "2023-11-05": 46826,
-  "2023-11-06": 46856,
-  "2023-11-07": 46878,
-  "2023-11-08": 46899,
-  "2023-11-09": 46921,
-  "2023-11-10": 46942,
-  "2023-11-11": 46974,
-  "2023-11-12": 46994,
-  "2023-11-13": 47033,
-  "2023-11-14": 47053,
-  "2023-11-15": 47053,
-  "2023-11-16": 47099,
-  "2023-11-17": 47150,
-  "2023-11-18": 47150,
-  "2023-11-19": 47178,
-  "2023-11-20": 47201,
-  "2023-11-21": 47226,
-  "2023-11-22": 47255,
-  "2023-11-23": 47292,
-  "2023-11-24": 47321,
-  "2023-11-25": 47348,
-  "2023-11-26": 47369,
-  "2023-11-27": 47395,
-  "2023-11-28": 47420,
-  "2023-11-29": 47469,
-  "2023-11-30": 47469,
-  "2023-12-01": 47497,
-  "2023-12-02": 47513,
-  "2023-12-03": 47544,
-  "2023-12-04": 47556,
-  "2023-12-05": 47587,
-  "2023-12-06": 47607,
-  "2023-12-07": 47632,
-  "2023-12-08": 47637,
-  "2023-12-09": 47649,
-  "2023-12-10": 47663,
-  "2023-12-11": 47694,
-  "2023-12-12": 47712,
-  "2023-12-13": 47724,
-  "2023-12-14": 47751,
-  "2023-12-15": 47767,
-  "2023-12-16": 47788,
-  "2023-12-17": 47803,
-  "2023-12-18": 47817,
-  "2023-12-19": 47840,
-  "2023-12-20": 47852,
-  "2023-12-21": 47862,
-  "2023-12-22": 47874,
-  "2023-12-23": 47877,
-  "2023-12-24": 47894,
-  "2023-12-25": 47916,
-  "2023-12-26": 47929,
-  "2023-12-27": 47944,
-  "2023-12-30": 47990,
-  "2023-12-31": 48011,
-  "2024-01-01": 48026,
-  "2024-01-02": 48040,
-  "2024-01-03": 48053
+  "2024-01-17": 48224,
+  "date_first_scraped": "2021-12-28",
+  "description": "Instrumental selections from the South Indian school of music.",
+  "name": "Carnatic Instrumental",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jugalbandi",
+        "url": "https://open.spotify.com/album/1bPHAPrh72uPGIiNnKcije"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "V Narasinhalu Wadvati",
+          "url": "https://open.spotify.com/artist/3fyJiRcPfMSn1o0RjCLmYs"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3604133,
+      "name": "Alaap & Melody: Ragaabheri (Rupaka - Aditala) / Raga Bhimplasi (Ektaal - Teentaal)",
+      "url": "https://open.spotify.com/track/7hriryGOJZMeeIO9DITSOJ"
+    },
+    {
+      "album": {
+        "name": "Who's To Know - Indian Classical Music",
+        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
+      },
+      "artists": [
+        {
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1433426,
+      "name": "Ananda Nadamadum Tillai Sankara",
+      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
+    },
+    {
+      "album": {
+        "name": "Annapoorne Visalakshi - Sikkil Mala Chandrasekhar",
+        "url": "https://open.spotify.com/album/0itbkAvn096ao1mTMYOdPJ"
+      },
+      "artists": [
+        {
+          "name": "Sikkil Mala Chandrasekhar",
+          "url": "https://open.spotify.com/artist/5O7M1UF5pMIKIGd7pCHrSo"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341080,
+      "name": "Annapoorne Visalakshi (Raga: Sama; Tala: Adi)",
+      "url": "https://open.spotify.com/track/3Jn8RXs7HOZLuChY5ba18t"
+    },
+    {
+      "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278831,
+      "name": "Ayarpadi",
+      "url": "https://open.spotify.com/track/4TcL2zD8AwZCPfIr8QE03e"
+    },
+    {
+      "album": {
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223634,
+      "name": "Ayigiri Nandini",
+      "url": "https://open.spotify.com/track/7iCHzlWd2To9Fo54ogIdJf"
+    },
+    {
+      "album": {
+        "name": "Bhagyada Lakshmi Baramma (Instrumental) - Single",
+        "url": "https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv"
+      },
+      "artists": [
+        {
+          "name": "Veena Srivani",
+          "url": "https://open.spotify.com/artist/2IXmArsz1OFUyiIFLZIUsD"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352622,
+      "name": "Bhagyada Lakshmi Baramma - Instrumental",
+      "url": "https://open.spotify.com/track/0cckP8UhJqr6XhQ3ijAuTD"
+    },
+    {
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362346,
+      "name": "Bho Shambho - Instrumental",
+      "url": "https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC"
+    },
+    {
+      "album": {
+        "name": "Strings Of Harmony - Violin On 3 Octaves",
+        "url": "https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob"
+      },
+      "artists": [
+        {
+          "name": "A. Kanyakumari",
+          "url": "https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328067,
+      "name": "Brochevarevarurar",
+      "url": "https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl"
+    },
+    {
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384704,
+      "name": "Charukesi (Violin Solo)",
+      "url": "https://open.spotify.com/track/7sbj3epB23VijBZxq8FgNs"
+    },
+    {
+      "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588973,
+      "name": "Chinnanchiru Kiliye",
+      "url": "https://open.spotify.com/track/3MgaXk7yPkjmM1FtzuINjk"
+    },
+    {
+      "album": {
+        "name": "Anandam Anantam - A journey into Tanam - Veena",
+        "url": "https://open.spotify.com/album/1qAbDGgwXZyz4bA4xAbys3"
+      },
+      "artists": [
+        {
+          "name": "Jeyaraaj & Jaysri",
+          "url": "https://open.spotify.com/artist/1uVPDLCAkdOLoA3Kqsy3uL"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443560,
+      "name": "Chitrambari",
+      "url": "https://open.spotify.com/track/4VYbr6sPJzlQ3CNlHbBa4t"
+    },
+    {
+      "album": {
+        "name": "Pancharatna Kritis - A Flute Duet",
+        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
+      },
+      "artists": [
+        {
+          "name": "Flute J A Jayant",
+          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 712750,
+      "name": "Endharo Mahanubhavulu - Sri - Adi",
+      "url": "https://open.spotify.com/track/0qguzzX3NPA54HNDXpIhtE"
+    },
+    {
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257561,
+      "name": "Enna Thavam Seithanai - Instrumental",
+      "url": "https://open.spotify.com/track/2Hn8wghPZIGwluTF0feE9o"
+    },
+    {
+      "album": {
+        "name": "The Best of Carnatic Instrumental",
+        "url": "https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK"
+      },
+      "artists": [
+        {
+          "name": "Doraiswamy Iyengar",
+          "url": "https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309968,
+      "name": "Ghana Ragamalika Tanam",
+      "url": "https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC"
+    },
+    {
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589200,
+      "name": "Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho",
+      "url": "https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1"
+    },
+    {
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404551,
+      "name": "Hamir Kalyani (Violin Solo)",
+      "url": "https://open.spotify.com/track/5EQTrn2xIK4ZZACJjDOAXn"
+    },
+    {
+      "album": {
+        "name": "Edakka Kacheri (Instrumental - Edakka)",
+        "url": "https://open.spotify.com/album/4aA55UkB9BSBrWaQ1imxHZ"
+      },
+      "artists": [
+        {
+          "name": "Tripunithura Krishnadas",
+          "url": "https://open.spotify.com/artist/14TGch8c1gWEtUxzL7M6IX"
+        },
+        {
+          "name": "Balakrishna Kamath",
+          "url": "https://open.spotify.com/artist/2TVLtjfUdW4qkRGWCK9FFf"
+        },
+        {
+          "name": "Manjoor Renjith",
+          "url": "https://open.spotify.com/artist/3zDrGwt022sPMub5zAm6yf"
+        },
+        {
+          "name": "Gopinatha Prabhu",
+          "url": "https://open.spotify.com/artist/74kub09d1Q4zcYojQ0hsOd"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373826,
+      "name": "Himagirithanaye - Shudha Dhanyasi - Adi",
+      "url": "https://open.spotify.com/track/04Nbr3UunpGJBseWKwfOyJ"
+    },
+    {
+      "album": {
+        "name": "Edakka Kacheri",
+        "url": "https://open.spotify.com/album/5BjpljxHX3IfLrTA6KQGLi"
+      },
+      "artists": [
+        {
+          "name": "Tripunithura Krishnadas",
+          "url": "https://open.spotify.com/artist/14TGch8c1gWEtUxzL7M6IX"
+        },
+        {
+          "name": "Balakrishna Kamath",
+          "url": "https://open.spotify.com/artist/2TVLtjfUdW4qkRGWCK9FFf"
+        },
+        {
+          "name": "Manjoor Renjith",
+          "url": "https://open.spotify.com/artist/3zDrGwt022sPMub5zAm6yf"
+        },
+        {
+          "name": "Gopinatha Prabhu",
+          "url": "https://open.spotify.com/artist/74kub09d1Q4zcYojQ0hsOd"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 373826,
+      "name": "Himagirithanaye - Sudhadhanyasi - Adi",
+      "url": "https://open.spotify.com/track/7hBghvC8BOMQZyeAY5odlz"
+    },
+    {
+      "album": {
+        "name": "Pancharatna Kritis - A Flute Duet",
+        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
+      },
+      "artists": [
+        {
+          "name": "Flute J A Jayant",
+          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579750,
+      "name": "Jagadhanandha karaka - Nattai - Adi",
+      "url": "https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4"
+    },
+    {
+      "album": {
+        "name": "Entharo Mahanu Bhavulu",
+        "url": "https://open.spotify.com/album/3DrMgh6rUz4s5eTAQZ8dmG"
+      },
+      "artists": [
+        {
+          "name": "Anayampatti Ganesan",
+          "url": "https://open.spotify.com/artist/7peRM2HNejEZitLzz6jn7U"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "Jagadhodharana",
+      "url": "https://open.spotify.com/track/4NBwL6wloNkYC7ebNKEOiQ"
+    },
+    {
+      "album": {
+        "name": "Vadya Sangamam",
+        "url": "https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo"
+      },
+      "artists": [
+        {
+          "name": "Vadya Sangamam",
+          "url": "https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446587,
+      "name": "Jagadodharana (Kadri Gopalnath-Sax)",
+      "url": "https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp"
+    },
+    {
+      "album": {
+        "name": "Bharatiyaar Songs - Veena",
+        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233351,
+      "name": "Kaakkai Siraginile",
+      "url": "https://open.spotify.com/track/4jFoGeTsKpEveRmTyhzTTn"
+    },
+    {
+      "album": {
+        "name": "Rama Sreerama",
+        "url": "https://open.spotify.com/album/6GYoGq7MnyEe3CyTA7lEw0"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284666,
+      "name": "Kaliyugavaradana",
+      "url": "https://open.spotify.com/track/27YrqgpUZ0xWwGW5TSy11W"
+    },
+    {
+      "album": {
+        "name": "Rama Sreerama",
+        "url": "https://open.spotify.com/album/3l9Iy9Fae5OinuELBH1gCq"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 284666,
+      "name": "Kaliyugavaradana",
+      "url": "https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p"
+    },
+    {
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Bhavyalakshmi",
+          "url": "https://open.spotify.com/artist/3SzoxoEMDoQB82qDn7EHjq"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612000,
+      "name": "Kandhasashti Kavacham - Instrumental",
+      "url": "https://open.spotify.com/track/0jUkfCIk39nwMFD50wVxTi"
+    },
+    {
+      "album": {
+        "name": "Krishna's Flute - Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/48vj2VtppnRR5KeNxmYjA1"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        },
+        {
+          "name": "Sai Madhukar",
+          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385253,
+      "name": "Krishna Nee Begane Baro - Instrumental",
+      "url": "https://open.spotify.com/track/1QJixYwyE09rwszSsKvmXE"
+    },
+    {
+      "album": {
+        "name": "Golden Music Golden Years - Lalgudi G. Jayaraman - Volume 2",
+        "url": "https://open.spotify.com/album/0CxhEMSnVuFFusBLM2mCAs"
+      },
+      "artists": [
+        {
+          "name": "Lalgudi G. Jayaraman",
+          "url": "https://open.spotify.com/artist/3H1Wru3lkInKnL3yIvnzrF"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295133,
+      "name": "Krishnanee Begane - Ragam: Yaman / Talam: Mishra Chapu (Purandaradasa)",
+      "url": "https://open.spotify.com/track/2drAAhn6C7ijUx3KlTbevR"
+    },
+    {
+      "album": {
+        "name": "Inde du sud : Anthologie de la musique classique (South India)",
+        "url": "https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E"
+      },
+      "artists": [
+        {
+          "name": "Seeta Doraiswamy",
+          "url": "https://open.spotify.com/artist/2YK2xknkAWg9Rcvj2BOxfl"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338626,
+      "name": "Kriti Vatapi Ganapatim",
+      "url": "https://open.spotify.com/track/4Ntx1COjcNBXHTFWEed56f"
+    },
+    {
+      "album": {
+        "name": "Laya Vinyas",
+        "url": "https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn"
+      },
+      "artists": [
+        {
+          "name": "Trichy Sankaran",
+          "url": "https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Kriti: Padavini with Vina and Mrdangam",
+      "url": "https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q"
+    },
+    {
+      "album": {
+        "name": "Subhamuhurtham - Nadaswaram",
+        "url": "https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV"
+      },
+      "artists": [
+        {
+          "name": "D S D Selvarathinam",
+          "url": "https://open.spotify.com/artist/74i3Sm3ydql7bWtNVoBrdY"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 245968,
+      "name": "Kurai Ondrum Illai",
+      "url": "https://open.spotify.com/track/3yy4F8qGxsMSpsvcweFvAX"
+    },
+    {
+      "album": {
+        "name": "Chinnajiru Kiliye (Live)",
+        "url": "https://open.spotify.com/album/7APbQUf3zF9aXR4wVFXcia"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        },
+        {
+          "name": "Haridwaramangalam A.K. Palanivel",
+          "url": "https://open.spotify.com/artist/4Qnu91jtz2scVRROdqafK7"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255720,
+      "name": "Kurai Onrum Illai - Ragamalika - Adi (Live)",
+      "url": "https://open.spotify.com/track/1OmHmuOvobYHUPrxXcR9HY"
+    },
+    {
+      "album": {
+        "name": "This is Carnatic Fusion, Vol. 5",
+        "url": "https://open.spotify.com/album/1HqIAvE2U4P7EhFDfSXRoV"
+      },
+      "artists": [
+        {
+          "name": "A. Kanyakumari",
+          "url": "https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246813,
+      "name": "Maha Ganapathim - Instrumental",
+      "url": "https://open.spotify.com/track/6VjNwJfOnTm5oErbY2nUnr"
+    },
+    {
+      "album": {
+        "name": "Blissful Veena (original)",
+        "url": "https://open.spotify.com/album/3cfioNS9otVjJIBImSiZhG"
+      },
+      "artists": [
+        {
+          "name": "Dikshithar",
+          "url": "https://open.spotify.com/artist/0eDZju05yhZaoIYegmAO1j"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344581,
+      "name": "Maha Ganapathim Nata Chatusraekam - original",
+      "url": "https://open.spotify.com/track/3wKIbPtccsIQFZo4LkhSXr"
+    },
+    {
+      "album": {
+        "name": "Mood Music - Devotional Instrumentals of South India",
+        "url": "https://open.spotify.com/album/6rm85IBtVgSFqmW4tWBPkl"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Sai Madhukar",
+          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771773,
+      "name": "Mahishasura Mardini Stotra - Revathi - Adi - Instrumental",
+      "url": "https://open.spotify.com/track/3lo8sS09aevJ6cxugNd0mn"
+    },
+    {
+      "album": {
+        "name": "Mood Music - Cool Carnatic Instrumentals",
+        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418573,
+      "name": "Manasa Sancharare",
+      "url": "https://open.spotify.com/track/4ohq81tYulwCLaKzLagGQ8"
+    },
+    {
+      "album": {
+        "name": "Veena (Carnatic Classical) Vol. 2",
+        "url": "https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ"
+      },
+      "artists": [
+        {
+          "name": "E. Gayathri",
+          "url": "https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "Meevalla",
+      "url": "https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l"
+    },
+    {
+      "album": {
+        "name": "Strings Of Harmony - Violin On 3 Octaves",
+        "url": "https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob"
+      },
+      "artists": [
+        {
+          "name": "A. Kanyakumari",
+          "url": "https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Nadhatanumanisam",
+      "url": "https://open.spotify.com/track/2EkDCXZOkMbL0d8miDIXNT"
+    },
+    {
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324878,
+      "name": "Nagavulu Nijamani - Instrumental",
+      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
+    },
+    {
+      "album": {
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818860,
+      "name": "Nagumomu - Abheri",
+      "url": "https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP"
+    },
+    {
+      "album": {
+        "name": "Music of India: Traditional & Classical",
+        "url": "https://open.spotify.com/album/7LcyYDD8MmvwARFuFIxzN5"
+      },
+      "artists": [
+        {
+          "name": "T.N. Rajarathnam Pillai",
+          "url": "https://open.spotify.com/artist/25JW590YfuB6SigAifDrCc"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Nravadhi Sugadha",
+      "url": "https://open.spotify.com/track/7a3ZnJVKO66APNbbV9a18g"
+    },
+    {
+      "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314906,
+      "name": "Pibare Rama Rasam",
+      "url": "https://open.spotify.com/track/2qQY4aob8d9hyS7AZSUEEb"
+    },
+    {
+      "album": {
+        "name": "Veena Gana Murali",
+        "url": "https://open.spotify.com/album/06eFa1n9NgHxKD0qRSQ1M5"
+      },
+      "artists": [
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330422,
+      "name": "Pullanguzhal",
+      "url": "https://open.spotify.com/track/3vYQHX42EySRe4rPWEzlXc"
+    },
+    {
+      "album": {
+        "name": "Keeravani - Ragam, Thaanam, Pallavai",
+        "url": "https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN"
+      },
+      "artists": [
+        {
+          "name": "Akkarai Subhalakshmi",
+          "url": "https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1169093,
+      "name": "Raagam Keeravani - Aalapanai",
+      "url": "https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs"
+    },
+    {
+      "album": {
+        "name": "Inde du sud : Anthologie de la musique classique (South India)",
+        "url": "https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E"
+      },
+      "artists": [
+        {
+          "name": "T. R. Mahalingam",
+          "url": "https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU"
+        },
+        {
+          "name": "L. Subramaniam",
+          "url": "https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Raga Alapana - Version 2",
+      "url": "https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ"
+    },
+    {
+      "album": {
+        "name": "The Carnatic Violin",
+        "url": "https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1067280,
+      "name": "Raga Bhairavi / Raagam-Taanam",
+      "url": "https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF"
+    },
+    {
+      "album": {
+        "name": "Thillanas: A Confluence Of Rhythm & Melody",
+        "url": "https://open.spotify.com/album/3si4Lr5oBcahJ3D7IPbO4N"
+      },
+      "artists": [
+        {
+          "name": "Ganesh & Kumaresh",
+          "url": "https://open.spotify.com/artist/79NaoYzRxuR0L3zzcGzHCa"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298987,
+      "name": "Raga Karnaranjani",
+      "url": "https://open.spotify.com/track/5Ca5l5vDzIOZdVwwWCxAds"
+    },
+    {
+      "album": {
+        "name": "Parjanya",
+        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1222413,
+      "name": "Ragam Tanam Pallavi",
+      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
+    },
+    {
+      "album": {
+        "name": "Raghuvamsa Sudha Vol.1",
+        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
+      },
+      "artists": [
+        {
+          "name": "Chitti Babu",
+          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551186,
+      "name": "Raghuvamsa Sudha (Raga: Kathanakuthuhalam; Tala: Adi)",
+      "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
+    },
+    {
+      "album": {
+        "name": "Captivating Sounds of Sax and Thavil",
+        "url": "https://open.spotify.com/album/7nbvczLFNyFM64qWOcsBXC"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath & A.K.Palanivel",
+          "url": "https://open.spotify.com/artist/0X31qmNhYOKS9gNs1dYXKE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393026,
+      "name": "Raja Raja Aradhithe Niroshta Thistra Adi Muthiah Bhagavathar",
+      "url": "https://open.spotify.com/track/5j6XtnG3AkyeZqiIdDEisW"
+    },
+    {
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459173,
+      "name": "Ramabhirama Darbar Misrachappu",
+      "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
+    },
+    {
+      "album": {
+        "name": "Raghava Murali",
+        "url": "https://open.spotify.com/album/6luUXfidDhy25uszW18C1H"
+      },
+      "artists": [
+        {
+          "name": "Kudamaloor Janardanan",
+          "url": "https://open.spotify.com/artist/2ld5atUSzskW2thxGZ9NnY"
+        },
+        {
+          "name": "H.Kishore",
+          "url": "https://open.spotify.com/artist/3kOYMf3uMzG66O50AApLNM"
+        },
+        {
+          "name": "Hari Krishnamoorthy",
+          "url": "https://open.spotify.com/artist/3D0mCIrn38qlFO6U9eXBQV"
+        },
+        {
+          "name": "Vinod Chandra Menon",
+          "url": "https://open.spotify.com/artist/66lhRZOYJUUUzVu38YBD9k"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 921880,
+      "name": "Rangapura Vihara - Vrindavana Saranga - Rupakam",
+      "url": "https://open.spotify.com/track/7KIU9wvPToohWm7w2g1ghw"
+    },
+    {
+      "album": {
+        "name": "Raghava Murali",
+        "url": "https://open.spotify.com/album/0vftMhxE08bdxvKAygombk"
+      },
+      "artists": [
+        {
+          "name": "Kudamaloor Janardanan",
+          "url": "https://open.spotify.com/artist/2ld5atUSzskW2thxGZ9NnY"
+        },
+        {
+          "name": "Hari Krishnamoorthy",
+          "url": "https://open.spotify.com/artist/3D0mCIrn38qlFO6U9eXBQV"
+        },
+        {
+          "name": "H. Kishore",
+          "url": "https://open.spotify.com/artist/2uNumgyRobbxLJAkdkcGd0"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 921880,
+      "name": "Rangapura Vihara - Vrindavana Saranga - Rupakam",
+      "url": "https://open.spotify.com/track/0bs0JVAH5kOobXMPPZ13qd"
+    },
+    {
+      "album": {
+        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
+        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
+      },
+      "artists": [
+        {
+          "name": "Ranganayaki Rajagopalan",
+          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468745,
+      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
+      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
+    },
+    {
+      "album": {
+        "name": "Pancharatna Kritis - A Flute Duet",
+        "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
+      },
+      "artists": [
+        {
+          "name": "Flute J A Jayant",
+          "url": "https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527000,
+      "name": "Saadhinchane - Aarabhi",
+      "url": "https://open.spotify.com/track/3agk4o0xCN0MH2yRmpKHsq"
+    },
+    {
+      "album": {
+        "name": "Subhamuhurtham - Nadaswaram",
+        "url": "https://open.spotify.com/album/4i8nApXIIMM8QqzVao74hV"
+      },
+      "artists": [
+        {
+          "name": "D S D Selvarathinam",
+          "url": "https://open.spotify.com/artist/74i3Sm3ydql7bWtNVoBrdY"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512208,
+      "name": "Sambho Mahaadeva",
+      "url": "https://open.spotify.com/track/6WBqkuNScTjtfOI5XB6cg3"
+    },
+    {
+      "album": {
+        "name": "Stalwarts (Live)",
+        "url": "https://open.spotify.com/album/7tth1hR5kb6DxSKh4gDZyg"
+      },
+      "artists": [
+        {
+          "name": "Karaikudi Sambasiva Iyer",
+          "url": "https://open.spotify.com/artist/3Z2VSb0x4HRszBRC7pYXOs"
+        },
+        {
+          "name": "Karaikudi Muthiah Iyer",
+          "url": "https://open.spotify.com/artist/0edZhlzB5d3M8oXpqiSaub"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 682266,
+      "name": "Samininne - Sankarabharanam - Adi (Live)",
+      "url": "https://open.spotify.com/track/0zZ0NYg5T7GBxLNFF49TQn"
+    },
+    {
+      "album": {
+        "name": "Into the Raga",
+        "url": "https://open.spotify.com/album/6FMROVG9PB4nJYmvNLTdge"
+      },
+      "artists": [
+        {
+          "name": "Nirmala Rajasekar",
+          "url": "https://open.spotify.com/artist/5JS5y3WrO5HZoKvBFfRie3"
+        },
+        {
+          "name": "Raghavendra Rao",
+          "url": "https://open.spotify.com/artist/3ponw0Zi2BEj42dN3bOwaC"
+        },
+        {
+          "name": "Tanjore K. Murugaboopathi",
+          "url": "https://open.spotify.com/artist/0U9WCCQxGebb2N2KCPFYJi"
+        },
+        {
+          "name": "V. Suresh",
+          "url": "https://open.spotify.com/artist/5dcj5w7ahDaUiWowdmWgz3"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473440,
+      "name": "Sarasuda Varnam (Raga Saveri, Aadi Tala): Jaya Jaya (Raga Nattai, Khanda Chapu Tala)",
+      "url": "https://open.spotify.com/track/5wZQXUcphAyBZfVdWmAiYX"
+    },
+    {
+      "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410693,
+      "name": "Seetha Kalyana Vaibhogame",
+      "url": "https://open.spotify.com/track/2xiQm5txXBPVsQhB36xd62"
+    },
+    {
+      "album": {
+        "name": "Mangala Naadaswaram - For Marriages And Auspicious Functions",
+        "url": "https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "K. S. G. Somanathan",
+          "url": "https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 230400,
+      "name": "Seethaa Kalyaana - Navroj",
+      "url": "https://open.spotify.com/track/4BaGmojSStSBio4rBi8YBU"
+    },
+    {
+      "album": {
+        "name": "Bharatiyaar Songs - Veena",
+        "url": "https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167366,
+      "name": "Senthamizh",
+      "url": "https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr"
+    },
+    {
+      "album": {
+        "name": "Divine Melodies - The Greatest Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463853,
+      "name": "Shriman Narayan - Instrumental",
+      "url": "https://open.spotify.com/track/6vUg70qtxTd3P8XRjSbtmc"
+    },
+    {
+      "album": {
+        "name": "Kunnakudi Vaidyanathan Vol - 1",
+        "url": "https://open.spotify.com/album/0Ecrh9MPKHqcDli7KCBMXk"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489035,
+      "name": "Sree Mahaganapathim",
+      "url": "https://open.spotify.com/track/4teJcQYIv3OV73xNXYhNzl"
+    },
+    {
+      "album": {
+        "name": "Kunnakudi Vaidyanathan Vol - 1",
+        "url": "https://open.spotify.com/album/5JhDdMhTAzcZChrqQu4jrk"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 489035,
+      "name": "Sree Mahaganapathim",
+      "url": "https://open.spotify.com/track/5uITcl35S5Xl211DFwIlVt"
+    },
+    {
+      "album": {
+        "name": "Kunnakudi Vaidyanathan, Vol. 1",
+        "url": "https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd"
+      },
+      "artists": [
+        {
+          "name": "Kunnakudi Vaidyanathan",
+          "url": "https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr"
+        },
+        {
+          "name": "Valayapatti A. R. Subramaniam",
+          "url": "https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa"
+        },
+        {
+          "name": "Kannan",
+          "url": "https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 490200,
+      "name": "Sree Mahaganapathim - Atana - Adi",
+      "url": "https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm"
+    },
+    {
+      "album": {
+        "name": "Jagajanani (Instrumental)",
+        "url": "https://open.spotify.com/album/2keIh30RhaEYo9IDP5kRo4"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 410877,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/3GaK2kfpt8nNmZAQymTkL4"
+    },
+    {
+      "album": {
+        "name": "Sudhamayi 1",
+        "url": "https://open.spotify.com/album/0ibSOQJPbFGTDyWFbXWI2w"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413520,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/0SjS204Z6AWVxkTwD2Sbci"
+    },
+    {
+      "album": {
+        "name": "Sudhamayi 1",
+        "url": "https://open.spotify.com/album/4BckzQM9jnSg4PknTrcHTp"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 413520,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/2hVXhADIRbE34DP36llqV5"
+    },
+    {
+      "album": {
+        "name": "Sudhamayi 1",
+        "url": "https://open.spotify.com/album/4VBDKWQpHki7jzQ1499Xu5"
+      },
+      "artists": [
+        {
+          "name": "Rajhesh Vaidhya",
+          "url": "https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 413520,
+      "name": "Sri Chakra Raja",
+      "url": "https://open.spotify.com/track/7JkjbdZxZ8Vt8wBh4aDYPf"
+    },
+    {
+      "album": {
+        "name": "Music from Madras",
+        "url": "https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f"
+      },
+      "artists": [
+        {
+          "name": "N. Ravikiran",
+          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
+        },
+        {
+          "name": "Mysore Manjunath",
+          "url": "https://open.spotify.com/artist/4CXYQGrrXt84gdDVwIws5r"
+        },
+        {
+          "name": "Guruvayoor Dorai",
+          "url": "https://open.spotify.com/artist/74SVzoYD2IZJqVTIifcNYS"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 851586,
+      "name": "Sri Kantimateem: Kriti",
+      "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
+    },
+    {
+      "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Tyagaraja",
+          "url": "https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390635,
+      "name": "Sriganesa Thilang Adi",
+      "url": "https://open.spotify.com/track/1Oievd5Y3lAwGxuxHGXSM5"
+    },
+    {
+      "album": {
+        "name": "Classical Icons - U. Srinivas",
+        "url": "https://open.spotify.com/album/6Je0QnMyx8BfMcbeJ9Agfi"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        },
+        {
+          "name": "S. D. Shreedhar",
+          "url": "https://open.spotify.com/artist/4dxOpsI4hcEO0T6LSAAY2v"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1609960,
+      "name": "Srikanthimati - Raga Hemavati - Adi",
+      "url": "https://open.spotify.com/track/2ZDdlty7GrKywhF1YbAFmt"
+    },
+    {
+      "album": {
+        "name": "South Indian Classical Music",
+        "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
+      },
+      "artists": [
+        {
+          "name": "Sheik Chinna Moulana",
+          "url": "https://open.spotify.com/artist/2YrHbZUsTCzHMF09I5m4DZ"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 817240,
+      "name": "Swara Raga Sankarabharanam Adi Thyagaraja",
+      "url": "https://open.spotify.com/track/1dKNRFKU3CV4Xx6Ybiwt3H"
+    },
+    {
+      "album": {
+        "name": "Navaragini",
+        "url": "https://open.spotify.com/album/4xFc6V2upugP7RI3hSKhYa"
+      },
+      "artists": [
+        {
+          "name": "Embar Kannan",
+          "url": "https://open.spotify.com/artist/3nDyfqoQCCHCNjmfQkbKxA"
+        },
+        {
+          "name": "K.V. Prasad",
+          "url": "https://open.spotify.com/artist/41DUKKqTwSBmG2IcFFpM1I"
+        },
+        {
+          "name": "S. Karthick",
+          "url": "https://open.spotify.com/artist/53BhxHSMsKEPs6YhVCv2ti"
+        },
+        {
+          "name": "N. Ravikiran",
+          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344586,
+      "name": "Tanam - Bhairavi - Misra Triputa",
+      "url": "https://open.spotify.com/track/5sUcp6R2bgcVFMHn20VicM"
+    },
+    {
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "S. Ballesh",
+          "url": "https://open.spotify.com/artist/4Ayo58CebvhV9I7IguYsm4"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "Tandanana - Instrumental",
+      "url": "https://open.spotify.com/track/0JON5cHB8JHm6HosXlkMRR"
+    },
+    {
+      "album": {
+        "name": "Compositions Of Papanasam Sivam",
+        "url": "https://open.spotify.com/album/47yh0cq6rw9pFurWQPjIG5"
+      },
+      "artists": [
+        {
+          "name": "U. Srinivas",
+          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457360,
+      "name": "Thatwamaria - Reeti Gowla - Adi",
+      "url": "https://open.spotify.com/track/1PJmg2Y59CRBhT6wzrAdzl"
+    },
+    {
+      "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318667,
+      "name": "Thevaram Mangayarkarasi Bowli Adi",
+      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+    },
+    {
+      "album": {
+        "name": "Rough Guide To Psychedelic India",
+        "url": "https://open.spotify.com/album/1TMndJnfMOqLC134oXaLUX"
+      },
+      "artists": [
+        {
+          "name": "Jyotsna Srikanth",
+          "url": "https://open.spotify.com/artist/0VbfRWwdUVKrVlPo7fcNWE"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 269253,
+      "name": "Thillana",
+      "url": "https://open.spotify.com/track/2rqwvJab9JD0oj5hFdnOjk"
+    },
+    {
+      "album": {
+        "name": "Rough Guide To Psychedelic India",
+        "url": "https://open.spotify.com/album/1j0iEDgrAuogPrQOLVHo80"
+      },
+      "artists": [
+        {
+          "name": "Jyotsna Srikanth",
+          "url": "https://open.spotify.com/artist/0VbfRWwdUVKrVlPo7fcNWE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 269253,
+      "name": "Thillana",
+      "url": "https://open.spotify.com/track/5tzOsoSTnqjMgaavOf1CAp"
+    },
+    {
+      "album": {
+        "name": "String Excellence - Lalgudi G. Jayaraman",
+        "url": "https://open.spotify.com/album/4txXuXukYEj2stUHDOlEw9"
+      },
+      "artists": [
+        {
+          "name": "Lalgudi G. Jayaraman",
+          "url": "https://open.spotify.com/artist/3H1Wru3lkInKnL3yIvnzrF"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 477546,
+      "name": "Thillana (Lalgudi)",
+      "url": "https://open.spotify.com/track/5NjVXPmeigMUT7DoJLOGUS"
+    },
+    {
+      "album": {
+        "name": "Dikshitar Masterpieces",
+        "url": "https://open.spotify.com/album/0al0UjnQ78WIhshfdmxUBv"
+      },
+      "artists": [
+        {
+          "name": "N. Ravikiran",
+          "url": "https://open.spotify.com/artist/1hLUGkZvkUxmwCNpPJg9w5"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374960,
+      "name": "Vallabha Nayakasya - Raga Begada",
+      "url": "https://open.spotify.com/track/4kc3xF1SKMHUsrexy73MPj"
+    },
+    {
+      "album": {
+        "name": "Veenai Jayanthi Kumaresh",
+        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
+      },
+      "artists": [
+        {
+          "name": "Jayanthi Kumaresh",
+          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
+    },
+    {
+      "album": {
+        "name": "Legendary Solo",
+        "url": "https://open.spotify.com/album/4pwnspctg85eiWefvjeq5e"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 258901,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/2UjLDTmcPxQqS0mupcye1i"
+    },
+    {
+      "album": {
+        "name": "Legendary Solo",
+        "url": "https://open.spotify.com/album/1VdiOnxmn40noPckXrLfcB"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258901,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/52skkD2NrQrocQleEWYM7o"
+    },
+    {
+      "album": {
+        "name": "Legendary Solo",
+        "url": "https://open.spotify.com/album/1w0u6sitce9nDNAarWlCFA"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 258901,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/6P1lAZerVtKOYvfdBHHS6d"
+    },
+    {
+      "album": {
+        "name": "Legendary Solo",
+        "url": "https://open.spotify.com/album/2oa0WigzgPGQCSMdG8oUIC"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258951,
+      "name": "Varnam - Surutti - Adi",
+      "url": "https://open.spotify.com/track/0vk0KZhgWiGppkIeYtowSU"
+    },
+    {
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Vasantha (Violin Solo)",
+      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
+    },
+    {
+      "album": {
+        "name": "Chidanandam - Kadri Gopalnath Live At Chidambaram",
+        "url": "https://open.spotify.com/album/1JHSxQFXD7be6oUDHYkN1b"
+      },
+      "artists": [
+        {
+          "name": "V. Suresh",
+          "url": "https://open.spotify.com/artist/5dcj5w7ahDaUiWowdmWgz3"
+        },
+        {
+          "name": "Thiruvarur Bhakthavatsalam",
+          "url": "https://open.spotify.com/artist/7Lta3ZmXgUdhk7xDt8u7Fo"
+        },
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 961280,
+      "name": "Vatapi",
+      "url": "https://open.spotify.com/track/3ueUcNFfUdJ4XOxj37kMPF"
+    },
+    {
+      "album": {
+        "name": "Chidanandam (Live at Chidambaram Shri Sabapathy Sangeetha Gana Sabha)",
+        "url": "https://open.spotify.com/album/7wdgbeOHDPqQkftzkzphp2"
+      },
+      "artists": [
+        {
+          "name": "Kadri Gopalnath",
+          "url": "https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 961280,
+      "name": "Vatapi - Hamsadwani - Adi - Live",
+      "url": "https://open.spotify.com/track/5JIjifK1fZKvP4BOn1z0ne"
+    },
+    {
+      "album": {
+        "name": "Rough Guide: India",
+        "url": "https://open.spotify.com/album/1Z01ea8INj9J3Sm2gNqzSc"
+      },
+      "artists": [
+        {
+          "name": "Seeta Doraiswamy",
+          "url": "https://open.spotify.com/artist/2YK2xknkAWg9Rcvj2BOxfl"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 335240,
+      "name": "Vatapi Ganapatim",
+      "url": "https://open.spotify.com/track/3GSHnnCFu28vxM0U6Qlo58"
+    },
+    {
+      "album": {
+        "name": "Yal Isai",
+        "url": "https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1"
+      },
+      "artists": [
+        {
+          "name": "Raghunath Manet",
+          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 679292,
+      "name": "Vatapiganapatim",
+      "url": "https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee"
+    },
+    {
+      "album": {
+        "name": "Yal Isai",
+        "url": "https://open.spotify.com/album/1feLE8ZNVHpIXb3ZYTOiNK"
+      },
+      "artists": [
+        {
+          "name": "Raghunath Manet",
+          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679292,
+      "name": "Vatapiganapatim",
+      "url": "https://open.spotify.com/track/5DdOYylQU9Y9ErAExTlTYo"
+    },
+    {
+      "album": {
+        "name": "Yal Isai",
+        "url": "https://open.spotify.com/album/3ESl4FTRUz4g5aBltmp768"
+      },
+      "artists": [
+        {
+          "name": "Raghunath Manet",
+          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
+        },
+        {
+          "name": "Umayalpuram K. Sivaraman",
+          "url": "https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q"
+        },
+        {
+          "name": "Subba Lakshmi",
+          "url": "https://open.spotify.com/artist/1IP82ozdzN3GO1RIWWAHFG"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 679760,
+      "name": "Vatapiganapatim - Hamsadhwani - Adi",
+      "url": "https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG"
+    },
+    {
+      "album": {
+        "name": "Classical Flute Collections",
+        "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
+      },
+      "artists": [
+        {
+          "name": "Trichy L. Saravanan",
+          "url": "https://open.spotify.com/artist/12mWZaSpnV5tGqrdARybD2"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562912,
+      "name": "Vathapi - Hamsadwani - Adi",
+      "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
+    },
+    {
+      "album": {
+        "name": "Mood Music - Cool Carnatic Instrumentals",
+        "url": "https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409426,
+      "name": "Vathapi Ganapathim Bhajeham",
+      "url": "https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw"
+    },
+    {
+      "album": {
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494560,
+      "name": "Vathapi Ganapathim Bhajeham",
+      "url": "https://open.spotify.com/track/2NKq1eKtz3t7Gp4NIrJ1Lg"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD"
+      },
+      "artists": [
+        {
+          "name": "Vikku Vinayakram",
+          "url": "https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        },
+        {
+          "name": "V. Umashankar",
+          "url": "https://open.spotify.com/artist/3AZWYIosqMyjjHjBqTbgcO"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295226,
+      "name": "Vinayaka: Raag Hamsadhwani - Aadi",
+      "url": "https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1VHgGvdVgaZ"
 }

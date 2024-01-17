@@ -1,479 +1,1577 @@
 {
-  "2022-09-09": 211372,
-  "2022-09-10": 211558,
-  "2022-09-11": 211695,
-  "2022-09-12": 211790,
-  "2022-09-13": 211913,
-  "2022-09-15": 212148,
-  "2022-09-16": 212261,
-  "2022-09-17": 212550,
-  "2022-09-18": 212680,
-  "2022-09-19": 212794,
-  "2022-09-20": 212885,
-  "2022-09-21": 212997,
-  "2022-09-22": 213127,
-  "2022-09-23": 213221,
-  "2022-09-24": 213221,
-  "2022-09-25": 213494,
-  "2022-09-26": 213607,
-  "2022-09-27": 213706,
-  "2022-09-28": 213818,
-  "2022-09-29": 213909,
-  "2022-09-30": 214019,
-  "2022-10-01": 214098,
-  "2022-10-02": 214201,
-  "2022-10-03": 214298,
-  "2022-10-04": 214385,
-  "2022-10-05": 214465,
-  "2022-10-06": 214547,
-  "2022-10-07": 214635,
-  "2022-10-08": 214727,
-  "2022-10-09": 214907,
-  "2022-10-10": 214932,
-  "2022-10-11": 215012,
-  "2022-10-12": 215092,
-  "2022-10-13": 215172,
-  "2022-10-14": 215266,
-  "2022-10-15": 215350,
-  "2022-10-16": 215488,
-  "2022-10-17": 215586,
-  "2022-10-18": 215664,
-  "2022-10-19": 215774,
-  "2022-10-20": 215933,
-  "2022-10-21": 216033,
-  "2022-10-22": 216134,
-  "2022-10-23": 216248,
-  "2022-10-24": 216335,
-  "2022-10-25": 216434,
-  "2022-10-26": 216531,
-  "2022-10-27": 216631,
-  "2022-10-28": 216722,
-  "2022-10-29": 216816,
-  "2022-10-30": 216907,
-  "2022-10-31": 217004,
-  "2022-11-01": 217066,
-  "2022-11-02": 217147,
-  "2022-11-03": 217237,
-  "2022-11-04": 217314,
-  "2022-11-05": 217391,
-  "2022-11-06": 217486,
-  "2022-11-07": 217589,
-  "2022-11-08": 217667,
-  "2022-11-09": 217773,
-  "2022-11-10": 217853,
-  "2022-11-11": 217965,
-  "2022-11-12": 218113,
-  "2022-11-13": 218211,
-  "2022-11-14": 218293,
-  "2022-11-15": 218358,
-  "2022-11-16": 218434,
-  "2022-11-17": 218516,
-  "2022-11-18": 218534,
-  "2022-11-19": 218553,
-  "2022-11-20": 218626,
-  "2022-11-21": 218739,
-  "2022-11-22": 218826,
-  "2022-11-23": 218899,
-  "2022-11-24": 219061,
-  "2022-11-25": 219207,
-  "2022-11-26": 219294,
-  "2022-11-27": 219397,
-  "2022-11-28": 219488,
-  "2022-11-29": 219599,
-  "2022-11-30": 219671,
-  "2022-12-01": 219761,
-  "2022-12-02": 219841,
-  "2022-12-03": 220042,
-  "2022-12-04": 220198,
-  "2022-12-05": 220307,
-  "2022-12-06": 220411,
-  "2022-12-07": 220520,
-  "2022-12-08": 220655,
-  "2022-12-09": 220769,
-  "2022-12-10": 220874,
-  "2022-12-11": 220994,
-  "2022-12-12": 221106,
-  "2022-12-13": 221197,
-  "2022-12-14": 221265,
-  "2022-12-15": 221495,
-  "2022-12-16": 221629,
-  "2022-12-17": 221742,
-  "2022-12-18": 221861,
-  "2022-12-19": 221992,
-  "2022-12-20": 222172,
-  "2022-12-21": 222172,
-  "2022-12-22": 222222,
-  "2022-12-24": 222385,
-  "2022-12-25": 222461,
-  "2022-12-26": 222564,
-  "2022-12-27": 222667,
-  "2022-12-28": 222761,
-  "2022-12-29": 222853,
-  "2022-12-30": 222967,
-  "2022-12-31": 223037,
-  "2023-01-01": 223149,
-  "2023-01-02": 223255,
-  "2023-01-03": 223351,
-  "2023-01-04": 223438,
-  "2023-01-05": 223490,
-  "2023-01-06": 223592,
-  "2023-01-07": 223732,
-  "2023-01-08": 223767,
-  "2023-01-09": 223872,
-  "2023-01-10": 223949,
-  "2023-01-11": 224031,
-  "2023-01-12": 224137,
-  "2023-01-13": 224218,
-  "2023-01-14": 224402,
-  "2023-01-15": 224423,
-  "2023-01-16": 224569,
-  "2023-01-17": 224685,
-  "2023-01-18": 224815,
-  "2023-01-19": 224927,
-  "2023-01-20": 225049,
-  "2023-01-21": 225164,
-  "2023-01-22": 225285,
-  "2023-01-23": 225407,
-  "2023-01-24": 225498,
-  "2023-01-25": 225602,
-  "2023-01-26": 225696,
-  "2023-01-27": 225801,
-  "2023-01-28": 225910,
-  "2023-01-29": 226017,
-  "2023-01-30": 226148,
-  "2023-01-31": 226148,
-  "2023-02-01": 226330,
-  "2023-02-02": 226421,
-  "2023-02-03": 226521,
-  "2023-02-04": 226621,
-  "2023-02-05": 226735,
-  "2023-02-06": 226843,
-  "2023-02-07": 226940,
-  "2023-02-08": 227125,
-  "2023-02-09": 227125,
-  "2023-02-10": 227207,
-  "2023-02-11": 227301,
-  "2023-02-12": 227532,
-  "2023-02-13": 227617,
-  "2023-02-14": 227617,
-  "2023-02-15": 227704,
-  "2023-02-16": 227783,
-  "2023-02-17": 227866,
-  "2023-02-18": 228060,
-  "2023-02-19": 228076,
-  "2023-02-20": 228143,
-  "2023-02-21": 228225,
-  "2023-02-22": 228435,
-  "2023-02-23": 228797,
-  "2023-02-24": 229008,
-  "2023-02-25": 229112,
-  "2023-02-26": 229188,
-  "2023-02-27": 229371,
-  "2023-02-28": 229371,
-  "2023-03-01": 229460,
-  "2023-03-02": 229555,
-  "2023-03-03": 229642,
-  "2023-03-04": 229719,
-  "2023-03-05": 229918,
-  "2023-03-06": 229918,
-  "2023-03-07": 230009,
-  "2023-03-08": 230069,
-  "2023-03-09": 230150,
-  "2023-03-10": 230231,
-  "2023-03-11": 230314,
-  "2023-03-12": 230398,
-  "2023-03-13": 230494,
-  "2023-03-14": 230562,
-  "2023-03-15": 230638,
-  "2023-03-16": 230638,
-  "2023-03-17": 230638,
-  "2023-03-18": 230873,
-  "2023-03-19": 230873,
-  "2023-03-20": 231032,
-  "2023-03-21": 231110,
-  "2023-03-22": 231174,
-  "2023-03-23": 231230,
-  "2023-03-24": 231230,
-  "2023-03-25": 231421,
-  "2023-03-26": 231549,
-  "2023-03-27": 231639,
-  "2023-03-28": 231723,
-  "2023-03-29": 231842,
-  "2023-03-30": 231996,
-  "2023-03-31": 231996,
-  "2023-04-01": 232121,
-  "2023-04-02": 232225,
-  "2023-04-03": 232331,
-  "2023-04-04": 232498,
-  "2023-04-05": 232585,
-  "2023-04-06": 232706,
-  "2023-04-07": 232823,
-  "2023-04-09": 233020,
-  "2023-04-10": 233098,
-  "2023-04-11": 233270,
-  "2023-04-12": 233270,
-  "2023-04-13": 233368,
-  "2023-04-14": 233459,
-  "2023-04-15": 233577,
-  "2023-04-16": 233696,
-  "2023-04-17": 233778,
-  "2023-04-18": 233854,
-  "2023-04-19": 233940,
-  "2023-04-20": 234010,
-  "2023-04-21": 234070,
-  "2023-04-22": 234175,
-  "2023-04-23": 234281,
-  "2023-04-24": 234391,
-  "2023-04-25": 234478,
-  "2023-04-26": 234583,
-  "2023-04-27": 234666,
-  "2023-04-28": 234782,
-  "2023-04-29": 234901,
-  "2023-04-30": 234989,
-  "2023-05-01": 235089,
-  "2023-05-02": 235167,
-  "2023-05-03": 235247,
-  "2023-05-04": 235310,
-  "2023-05-05": 235382,
-  "2023-05-06": 235477,
-  "2023-05-07": 235564,
-  "2023-05-08": 235617,
-  "2023-05-09": 235684,
-  "2023-05-10": 235781,
-  "2023-05-11": 235844,
-  "2023-05-12": 235944,
-  "2023-05-13": 236047,
-  "2023-05-14": 236124,
-  "2023-05-15": 236214,
-  "2023-05-16": 236286,
-  "2023-05-17": 236372,
-  "2023-05-18": 236447,
-  "2023-05-19": 236539,
-  "2023-05-20": 236719,
-  "2023-05-21": 236719,
-  "2023-05-22": 236719,
-  "2023-05-23": 236859,
-  "2023-05-24": 236977,
-  "2023-05-25": 236993,
-  "2023-05-26": 237072,
-  "2023-05-27": 237152,
-  "2023-05-28": 237230,
-  "2023-05-29": 237230,
-  "2023-05-30": 237376,
-  "2023-05-31": 237453,
-  "2023-06-01": 237535,
-  "2023-06-02": 237622,
-  "2023-06-03": 237691,
-  "2023-06-04": 237764,
-  "2023-06-05": 237838,
-  "2023-06-06": 237922,
-  "2023-06-07": 238011,
-  "2023-06-08": 238081,
-  "2023-06-09": 238165,
-  "2023-06-10": 238265,
-  "2023-06-11": 238362,
-  "2023-06-12": 238467,
-  "2023-06-13": 238541,
-  "2023-06-14": 238613,
-  "2023-06-15": 238686,
-  "2023-06-16": 238763,
-  "2023-06-17": 238845,
-  "2023-06-18": 238917,
-  "2023-06-19": 238996,
-  "2023-06-20": 239047,
-  "2023-06-21": 239114,
-  "2023-06-22": 239194,
-  "2023-06-23": 239261,
-  "2023-06-24": 239342,
-  "2023-06-25": 239418,
-  "2023-06-26": 239509,
-  "2023-06-27": 239571,
-  "2023-06-28": 239616,
-  "2023-06-29": 239671,
-  "2023-06-30": 239734,
-  "2023-07-01": 239906,
-  "2023-07-02": 239906,
-  "2023-07-03": 239949,
-  "2023-07-04": 240005,
-  "2023-07-05": 240076,
-  "2023-07-06": 240198,
-  "2023-07-07": 240198,
-  "2023-07-08": 240267,
-  "2023-07-09": 240358,
-  "2023-07-10": 240435,
-  "2023-07-11": 240489,
-  "2023-07-12": 240567,
-  "2023-07-13": 240631,
-  "2023-07-14": 240704,
-  "2023-07-15": 240771,
-  "2023-07-16": 240842,
-  "2023-07-17": 240911,
-  "2023-07-18": 240967,
-  "2023-07-19": 241035,
-  "2023-07-20": 241100,
-  "2023-07-21": 241176,
-  "2023-07-22": 241250,
-  "2023-07-23": 241304,
-  "2023-07-24": 241352,
-  "2023-07-25": 241408,
-  "2023-07-26": 241468,
-  "2023-07-27": 241520,
-  "2023-07-28": 241603,
-  "2023-07-29": 241643,
-  "2023-07-30": 241697,
-  "2023-07-31": 241760,
-  "2023-08-01": 241801,
-  "2023-08-02": 241867,
-  "2023-08-03": 241929,
-  "2023-08-04": 241975,
-  "2023-08-05": 242034,
-  "2023-08-06": 242172,
-  "2023-08-07": 242172,
-  "2023-08-08": 242216,
-  "2023-08-09": 242260,
-  "2023-08-10": 242312,
-  "2023-08-11": 242363,
-  "2023-08-12": 242363,
-  "2023-08-13": 242363,
-  "2023-08-14": 242539,
-  "2023-08-15": 242539,
-  "2023-08-16": 242539,
-  "2023-08-17": 242715,
-  "2023-08-18": 242715,
-  "2023-08-19": 242715,
-  "2023-08-20": 242940,
-  "2023-08-21": 242940,
-  "2023-08-22": 243048,
-  "2023-08-23": 243048,
-  "2023-08-24": 243048,
-  "2023-08-25": 243048,
-  "2023-08-26": 243291,
-  "2023-08-27": 243291,
-  "2023-08-28": 243364,
-  "2023-08-29": 243364,
-  "2023-08-30": 243364,
-  "2023-08-31": 243525,
-  "2023-09-01": 243576,
-  "2023-09-02": 243576,
-  "2023-09-03": 243727,
-  "2023-09-04": 243727,
-  "2023-09-05": 243727,
-  "2023-09-06": 243899,
-  "2023-09-07": 243899,
-  "2023-09-08": 243899,
-  "2023-09-09": 243899,
-  "2023-09-10": 244186,
-  "2023-09-11": 244186,
-  "2023-09-12": 244186,
-  "2023-09-13": 244351,
-  "2023-09-14": 244351,
-  "2023-09-15": 244351,
-  "2023-09-16": 244522,
-  "2023-09-17": 244522,
-  "2023-09-18": 244522,
-  "2023-09-19": 244783,
-  "2023-09-20": 244783,
-  "2023-09-21": 244783,
-  "2023-09-22": 245000,
-  "2023-09-23": 245000,
-  "2023-09-24": 245000,
-  "2023-09-25": 245000,
-  "2023-09-26": 245310,
-  "2023-09-27": 245310,
-  "2023-09-28": 245310,
-  "2023-09-29": 245310,
-  "2023-09-30": 245310,
-  "2023-10-01": 245310,
-  "2023-10-02": 246225,
-  "2023-10-03": 246225,
-  "2023-10-04": 246225,
-  "2023-10-05": 246406,
-  "2023-10-06": 246406,
-  "2023-10-07": 246406,
-  "2023-10-08": 246406,
-  "2023-10-09": 246406,
-  "2023-10-10": 246406,
-  "2023-10-11": 246664,
-  "2023-10-12": 246664,
-  "2023-10-13": 246664,
-  "2023-10-14": 246664,
-  "2023-10-15": 246664,
-  "2023-10-16": 246664,
-  "2023-10-17": 246664,
-  "2023-10-18": 246664,
-  "2023-10-19": 246664,
-  "2023-10-20": 246664,
-  "2023-10-21": 246664,
-  "2023-10-22": 246664,
-  "2023-10-23": 246664,
-  "2023-10-24": 246664,
-  "2023-10-25": 246664,
-  "2023-10-26": 246664,
-  "2023-10-27": 246664,
-  "2023-10-28": 246664,
-  "2023-10-29": 246664,
-  "2023-10-30": 246664,
-  "2023-10-31": 246664,
-  "2023-11-01": 246664,
-  "2023-11-02": 246664,
-  "2023-11-03": 246664,
-  "2023-11-04": 246664,
-  "2023-11-05": 246664,
-  "2023-11-06": 246664,
-  "2023-11-07": 246664,
-  "2023-11-08": 246664,
-  "2023-11-09": 246664,
-  "2023-11-10": 246664,
-  "2023-11-11": 247973,
-  "2023-11-12": 247973,
-  "2023-11-13": 247973,
-  "2023-11-14": 247973,
-  "2023-11-15": 247973,
-  "2023-11-16": 247973,
-  "2023-11-17": 247973,
-  "2023-11-18": 247973,
-  "2023-11-19": 247973,
-  "2023-11-20": 247973,
-  "2023-11-21": 247973,
-  "2023-11-22": 247973,
-  "2023-11-23": 247973,
-  "2023-11-24": 247973,
-  "2023-11-25": 247973,
-  "2023-11-26": 247973,
-  "2023-11-27": 247973,
-  "2023-11-28": 247973,
-  "2023-11-29": 247973,
-  "2023-11-30": 247973,
-  "2023-12-01": 247973,
-  "2023-12-02": 247973,
-  "2023-12-03": 247973,
-  "2023-12-04": 247973,
-  "2023-12-05": 247973,
-  "2023-12-06": 247973,
-  "2023-12-07": 247973,
-  "2023-12-08": 247973,
-  "2023-12-09": 247973,
-  "2023-12-10": 247973,
-  "2023-12-11": 247973,
-  "2023-12-12": 247973,
-  "2023-12-13": 247973,
-  "2023-12-14": 248998,
-  "2023-12-15": 249033,
-  "2023-12-16": 249062,
-  "2023-12-17": 249100,
-  "2023-12-18": 249133,
-  "2023-12-19": 249157,
-  "2023-12-20": 249183,
-  "2023-12-21": 249209,
-  "2023-12-22": 249243,
-  "2023-12-23": 249271,
-  "2023-12-24": 249321,
-  "2023-12-25": 249356,
-  "2023-12-26": 249380,
-  "2023-12-27": 249424,
-  "2023-12-30": 249556,
-  "2023-12-31": 249583,
-  "2024-01-01": 249638,
-  "2024-01-02": 249730,
-  "2024-01-03": 249784
+  "2024-01-17": 249765,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Kane Brown. The essential tracks, all in one playlist.",
+  "name": "This Is Kane Brown",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Ain't No Stopping Us Now",
+      "url": "https://open.spotify.com/track/2I5ao7JannZZMlweLTz0hO"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 226693,
+      "name": "Baby Come Back to Me",
+      "url": "https://open.spotify.com/track/2Iov9mHNgKuL1oxePM2hZM"
+    },
+    {
+      "album": {
+        "name": "Be Like That (feat. Swae Lee & Khalid)",
+        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191406,
+      "name": "Be Like That - feat. Swae Lee & Khalid",
+      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
+    },
+    {
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "Believe - with Kane Brown",
+      "url": "https://open.spotify.com/track/5qOCmP9qU3AmeCIZ4hjimg"
+    },
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/0vtKLjkpdHoysT5ZPcwgA7"
+    },
+    {
+      "album": {
+        "name": "Mixtape Vol. 1 - EP",
+        "url": "https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 180865,
+      "name": "BFE",
+      "url": "https://open.spotify.com/track/44g1B3fL0UxwFAw4hwN2dc"
+    },
+    {
+      "album": {
+        "name": "Blessed & Free",
+        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198171,
+      "name": "Blessed & Free",
+      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242306,
+      "name": "Bury Me in Georgia",
+      "url": "https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH"
+    },
+    {
+      "album": {
+        "name": "Bury Me in Georgia",
+        "url": "https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-04-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 170682,
+      "name": "Bury Me in Georgia - Single Edit",
+      "url": "https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 181375,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5HCDvV2FTopwOCQPf7WDls"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 217560,
+      "name": "Cold Spot",
+      "url": "https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 165333,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm"
+    },
+    {
+      "album": {
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 169466,
+      "name": "Devil Don't Even Bother",
+      "url": "https://open.spotify.com/track/6fmex87SKHr4B9vGCrBkzs"
+    },
+    {
+      "album": {
+        "name": "Mixtape Vol. 1 - EP",
+        "url": "https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 187786,
+      "name": "Didn't Know What Love Was",
+      "url": "https://open.spotify.com/track/7bPTaamEBQi5J5hvfsIZvf"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 211250,
+      "name": "Don't Go City on Me",
+      "url": "https://open.spotify.com/track/7yQLIouFiTrN0xilYqiYTj"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 260133,
+      "name": "Drunk or Dreamin'",
+      "url": "https://open.spotify.com/track/3ZF8CQW8OV1ZxT5pKCzpoF"
+    },
+    {
+      "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 181920,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/27c2kdskfeM1j3keQ6z4hB"
+    },
+    {
+      "album": {
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 165569,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
+    },
+    {
+      "album": {
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166506,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223922,
+      "name": "For My Daughter",
+      "url": "https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 236923,
+      "name": "Forgetting Is the Hardest Part",
+      "url": "https://open.spotify.com/track/3aTjHMTpp8LQwFQk0cSfdZ"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/4iLeL1aYGcQBsYcWIhXIUO"
+    },
+    {
+      "album": {
+        "name": "Go Around",
+        "url": "https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/344682dEszsdZqQS4vYuUr"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192053,
+      "name": "Good as You",
+      "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz"
+    },
+    {
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 225893,
+      "name": "Granddaddy's Chair",
+      "url": "https://open.spotify.com/track/7rQ2kjuqhqyMuYA1IenxrM"
+    },
+    {
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173673,
+      "name": "Grits & Glamour (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 174093,
+      "name": "Hit the Gas",
+      "url": "https://open.spotify.com/track/3PqLcOCKMKvhVDEcwFUcVd"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
+    },
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL"
+    },
+    {
+      "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
+        "name": "I Love That I Hate You - Single",
+        "url": "https://open.spotify.com/album/2siw0W1pFH2HMatUEx9RzC"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 187412,
+      "name": "I Love That I Hate You",
+      "url": "https://open.spotify.com/track/3wbhzLFCwJ0faJe0g6HDG6"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 218437,
+      "name": "It Turns Me On",
+      "url": "https://open.spotify.com/track/3uGCfABZgmd2h74BTk5XNu"
+    },
+    {
+      "album": {
+        "name": "Last Minute Late Night - Single",
+        "url": "https://open.spotify.com/album/4XUkagfCTG1jc1dpUemE23"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Last Minute Late Night",
+      "url": "https://open.spotify.com/track/3Sso0f19u0o5HavJErdZEN"
+    },
+    {
+      "album": {
+        "name": "Last Time I Say Sorry",
+        "url": "https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194819,
+      "name": "Last Time I Say Sorry",
+      "url": "https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e"
+    },
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu"
+    },
+    {
+      "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201730,
+      "name": "Like a Rodeo",
+      "url": "https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS"
+    },
+    {
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 234800,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 186346,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 178986,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 212066,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/40HQjXwTG4czvPGTtF3uzt"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188919,
+      "name": "Lost in the Middle of Nowhere (feat. Becky G)",
+      "url": "https://open.spotify.com/track/5KfKPfX5cZvOuHoy9io65A"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5Ypx8ECsYrhmII2FgJmCpv"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Lainey Edwards",
+          "url": "https://open.spotify.com/artist/1bwdF1QUOoo6UJmPV3IXxe"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 211000,
+      "name": "Lost More Than I Found (feat. Lainey Edwards)",
+      "url": "https://open.spotify.com/track/7xo8X5Kx5ufunrsU5X2IYc"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153337,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191299,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn"
+    },
+    {
+      "album": {
+        "name": "My City (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149263,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
+    },
+    {
+      "album": {
+        "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124508,
+      "name": "My City - Sped Up",
+      "url": "https://open.spotify.com/track/7y037ZKbgyiO1xXwToyxJn"
+    },
+    {
+      "album": {
+        "name": "Never Be the Same (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225539,
+      "name": "Never Be the Same (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
+    },
+    {
+      "album": {
+        "name": "Next To You (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161344,
+      "name": "Next To You (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 213933,
+      "name": "Nothin' I'd Change",
+      "url": "https://open.spotify.com/track/7mCD59dbej3TRd0I81RNwM"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares To You (Feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Nothing Compares To You (Feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
+    },
+    {
+      "album": {
+        "name": "SCOOB! The Album",
+        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164683,
+      "name": "On Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
+    },
+    {
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213718,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
+    },
+    {
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Pull It Off",
+      "url": "https://open.spotify.com/track/3jyc4v8gMVYOmNaG6aiKvu"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 200360,
+      "name": "Rockstars",
+      "url": "https://open.spotify.com/track/0BzL36GgqMKCyeW6j6JzzD"
+    },
+    {
+      "album": {
+        "name": "Saturday Nights REMIX",
+        "url": "https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211102,
+      "name": "Saturday Nights REMIX",
+      "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "See You Like I Do",
+      "url": "https://open.spotify.com/track/4UZvxMfQRMqj24WHj0VNEf"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Setting the Night On Fire (with Chris Young)",
+      "url": "https://open.spotify.com/track/2OeyphE568es62xmmJTt1z"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Short Skirt Weather",
+      "url": "https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
+    },
+    {
+      "album": {
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+    },
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Thunder in the Rain",
+      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
+    },
+    {
+      "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "Used to Love You Sober",
+      "url": "https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
+    },
+    {
+      "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 226720,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2xXOBpWKvLx8FzkJ2UuqQH"
+    },
+    {
+      "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "What Ifs (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
+    },
+    {
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216240,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
+    },
+    {
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 185106,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/0t5zXzcJjRZMpBPAqkbjdW"
+    },
+    {
+      "album": {
+        "name": "Worldwide Beautiful",
+        "url": "https://open.spotify.com/album/30mVH408jo6oYaMduiwX66"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208977,
+      "name": "Worldwide Beautiful",
+      "url": "https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N"
+    },
+    {
+      "album": {
+        "name": "Mixtape Vol. 1 - EP",
+        "url": "https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YpyzC"
 }

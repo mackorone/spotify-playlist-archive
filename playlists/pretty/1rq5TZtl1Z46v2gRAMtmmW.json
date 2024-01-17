@@ -1,13 +1,85 @@
 {
   "description": "",
-  "num_followers": 29037,
+  "num_followers": 29085,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzU3NCw1ZWM2NmU1YjIxMjIyNTJjOGVkMDhiNzZlNTM4ODljNmFjOGIzMzk5",
+  "snapshot_id": "MzU4NSxmY2RmMGM4MTc1ZjhhNmMyNzA4NzBjMDQ5MWVhYjRhMWI5NzRhMzE4",
   "tracks": [
+    {
+      "added_at": "2024-01-11 15:13:18",
+      "album": {
+        "name": "Somebody (Trance Wax Remix)",
+        "url": "https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Somebody - Trance Wax Remix",
+      "url": "https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl"
+    },
+    {
+      "added_at": "2023-12-19 12:31:30",
+      "album": {
+        "name": "DJ Friendly (Chlo\u00e9 Robinson + DJ ADHD Remix)",
+        "url": "https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 311824,
+      "name": "DJ Friendly - Chlo\u00e9 Robinson + DJ ADHD Remix",
+      "url": "https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY"
+    },
+    {
+      "added_at": "2023-12-11 17:15:36",
+      "album": {
+        "name": "Small Sanctuary (nimino Remix)",
+        "url": "https://open.spotify.com/album/33ws6D4NAo3jubkN9o7BOQ"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 252187,
+      "name": "Small Sanctuary - nimino Remix",
+      "url": "https://open.spotify.com/track/3edXY8UqTv1SEC6JOrfBPQ"
+    },
     {
       "added_at": "2023-10-20 13:46:21",
       "album": {
@@ -39,6 +111,50 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2023-09-15 16:22:33",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 235265,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
+    },
+    {
+      "added_at": "2023-12-11 13:14:53",
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "duration_ms": 203130,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
     },
     {
       "added_at": "2023-10-12 09:59:58",
@@ -249,22 +365,6 @@
       "url": "https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k"
     },
     {
-      "added_at": "2023-10-20 13:46:42",
-      "album": {
-        "name": "Bolted",
-        "url": "https://open.spotify.com/album/0BxkPi0ivE10et9zJ576x4"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Rubble",
-      "url": "https://open.spotify.com/track/0nbkQCyzpDHuANCnXbjUfc"
-    },
-    {
       "added_at": "2023-10-12 13:58:14",
       "album": {
         "name": "Its me ( g 8 ) / Oway ( f 7 )",
@@ -355,30 +455,6 @@
       "duration_ms": 225764,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz"
-    },
-    {
-      "added_at": "2023-09-15 16:22:33",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 235265,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn"
     },
     {
       "added_at": "2023-09-26 19:24:31",
@@ -629,26 +705,6 @@
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
-      "added_at": "2023-12-11 13:13:26",
-      "album": {
-        "name": "Blame It All On Love",
-        "url": "https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c"
-    },
-    {
       "added_at": "2023-12-11 13:14:18",
       "album": {
         "name": "Vast Oceans, Empty Skies",
@@ -663,70 +719,6 @@
       "duration_ms": 260000,
       "name": "Vast Oceans, Empty Skies",
       "url": "https://open.spotify.com/track/6Vxm5h0BxHdwM5oBMhTi3E"
-    },
-    {
-      "added_at": "2023-12-11 13:14:53",
-      "album": {
-        "name": "Always Get Through To You",
-        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Surya Sen",
-          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
-        }
-      ],
-      "duration_ms": 203130,
-      "name": "Always Get Through To You",
-      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
-    },
-    {
-      "added_at": "2023-12-11 17:15:36",
-      "album": {
-        "name": "Small Sanctuary (nimino Remix)",
-        "url": "https://open.spotify.com/album/33ws6D4NAo3jubkN9o7BOQ"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 252187,
-      "name": "Small Sanctuary - nimino Remix",
-      "url": "https://open.spotify.com/track/3edXY8UqTv1SEC6JOrfBPQ"
-    },
-    {
-      "added_at": "2023-12-19 12:31:30",
-      "album": {
-        "name": "DJ Friendly (Chlo\u00e9 Robinson + DJ ADHD Remix)",
-        "url": "https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        },
-        {
-          "name": "Chlo\u00e9 Robinson",
-          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        }
-      ],
-      "duration_ms": 311824,
-      "name": "DJ Friendly - Chlo\u00e9 Robinson + DJ ADHD Remix",
-      "url": "https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

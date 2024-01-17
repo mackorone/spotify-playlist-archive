@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,175 likes - 103 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,487 likes - 103 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 80 | [With Bells On](https://open.spotify.com/track/1kZT0qJj4BnGIc5hXYap6I) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 2:40 |
 | 81 | [There's No Place Like Home](https://open.spotify.com/track/04ZBG6160XeIuM8DHi2U2P) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Christmas](https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf) | 3:15 |
 | 82 | [If We Make It Through December](https://open.spotify.com/track/44RXimHSA8TP58WXOMdKMy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:44 |
-| 83 | [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 |
+| 83 | [Holly Jolly Christmas](https://open.spotify.com/track/5j2TuSC9kXrf4M0vzoqDMW) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Ultimate Deluxe Edition\)](https://open.spotify.com/album/0UKCFUDo5hCdAB4b6tPqQe) | 3:21 |
 | 84 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/5GIr3yuNOZs4o3NkdKEWNy) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/7bVZzd18CRxQQQRqNU0zJh) | 2:56 |
 | 85 | [Old Time Christmas \(2021 Remaster\)](https://open.spotify.com/track/0raTNC16IOr7k1iGVVxBtE) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6SwiA8jen7umxi9L8y1Oy4) | 3:17 |
 | 86 | [Rockin' This Christmas](https://open.spotify.com/track/7H6yLpLka4t6FR4cgnCXhF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [Have Yourself A Tractors Christmas](https://open.spotify.com/album/2lzYZiVRVYdk0eIOevUAvG) | 3:46 |

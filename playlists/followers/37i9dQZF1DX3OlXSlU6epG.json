@@ -1,735 +1,1161 @@
 {
-  "2021-12-25": 10230,
-  "2021-12-26": 10229,
-  "2021-12-27": 10226,
-  "2021-12-28": 10226,
-  "2021-12-29": 10224,
-  "2021-12-30": 10224,
-  "2021-12-31": 10224,
-  "2022-01-01": 10222,
-  "2022-01-02": 10222,
-  "2022-01-03": 10222,
-  "2022-01-04": 10219,
-  "2022-01-05": 10219,
-  "2022-01-06": 10220,
-  "2022-01-07": 10219,
-  "2022-01-08": 10216,
-  "2022-01-09": 10216,
-  "2022-01-10": 10214,
-  "2022-01-11": 10214,
-  "2022-01-12": 10211,
-  "2022-01-13": 10210,
-  "2022-01-14": 10210,
-  "2022-01-15": 10210,
-  "2022-01-16": 10210,
-  "2022-01-17": 10205,
-  "2022-01-18": 10204,
-  "2022-01-19": 10200,
-  "2022-01-20": 10199,
-  "2022-01-21": 10197,
-  "2022-01-22": 10196,
-  "2022-01-23": 10195,
-  "2022-01-24": 10193,
-  "2022-01-25": 10192,
-  "2022-01-26": 10192,
-  "2022-01-27": 10188,
-  "2022-01-28": 10188,
-  "2022-01-29": 10188,
-  "2022-01-30": 10188,
-  "2022-01-31": 10187,
-  "2022-02-01": 10187,
-  "2022-02-02": 10184,
-  "2022-02-03": 10182,
-  "2022-02-04": 10182,
-  "2022-02-05": 10182,
-  "2022-02-06": 10181,
-  "2022-02-07": 10180,
-  "2022-02-08": 10179,
-  "2022-02-09": 10179,
-  "2022-02-10": 10178,
-  "2022-02-11": 10177,
-  "2022-02-12": 10177,
-  "2022-02-13": 10178,
-  "2022-02-14": 10178,
-  "2022-02-15": 10174,
-  "2022-02-16": 10172,
-  "2022-02-17": 10165,
-  "2022-02-18": 10163,
-  "2022-02-19": 10160,
-  "2022-02-20": 10159,
-  "2022-02-21": 10158,
-  "2022-02-22": 10158,
-  "2022-02-23": 10157,
-  "2022-02-24": 10155,
-  "2022-02-25": 10155,
-  "2022-02-26": 10154,
-  "2022-02-27": 10150,
-  "2022-02-28": 10150,
-  "2022-03-01": 10150,
-  "2022-03-02": 10150,
-  "2022-03-03": 10149,
-  "2022-03-04": 10148,
-  "2022-03-05": 10149,
-  "2022-03-06": 10148,
-  "2022-03-07": 10144,
-  "2022-03-08": 10143,
-  "2022-03-09": 10141,
-  "2022-03-10": 10139,
-  "2022-03-11": 10139,
-  "2022-03-12": 10139,
-  "2022-03-13": 10137,
-  "2022-03-14": 10135,
-  "2022-03-15": 10135,
-  "2022-03-16": 10135,
-  "2022-03-17": 10135,
-  "2022-03-18": 10135,
-  "2022-03-19": 10134,
-  "2022-03-20": 10134,
-  "2022-03-21": 10131,
-  "2022-03-22": 10131,
-  "2022-03-23": 10130,
-  "2022-03-24": 10129,
-  "2022-03-25": 10127,
-  "2022-03-26": 10126,
-  "2022-03-27": 10125,
-  "2022-03-28": 10125,
-  "2022-03-30": 10124,
-  "2022-03-31": 10124,
-  "2022-04-01": 10124,
-  "2022-04-02": 10124,
-  "2022-04-03": 10124,
-  "2022-04-04": 10124,
-  "2022-04-05": 10124,
-  "2022-04-06": 10124,
-  "2022-04-07": 10124,
-  "2022-04-08": 10124,
-  "2022-04-09": 10124,
-  "2022-04-10": 10124,
-  "2022-04-11": 10124,
-  "2022-04-12": 10124,
-  "2022-04-13": 10124,
-  "2022-04-14": 10124,
-  "2022-04-15": 10124,
-  "2022-04-16": 10124,
-  "2022-04-17": 10124,
-  "2022-04-18": 10124,
-  "2022-04-19": 10124,
-  "2022-04-20": 10124,
-  "2022-04-21": 10124,
-  "2022-04-22": 10124,
-  "2022-04-23": 10124,
-  "2022-04-24": 10124,
-  "2022-04-25": 10124,
-  "2022-04-26": 10124,
-  "2022-04-27": 10124,
-  "2022-04-28": 10124,
-  "2022-04-29": 10124,
-  "2022-04-30": 10124,
-  "2022-05-01": 10124,
-  "2022-05-02": 10124,
-  "2022-05-03": 10124,
-  "2022-05-04": 10124,
-  "2022-05-05": 10124,
-  "2022-05-06": 10124,
-  "2022-05-07": 10124,
-  "2022-05-08": 10124,
-  "2022-05-09": 10124,
-  "2022-05-10": 10124,
-  "2022-05-11": 10124,
-  "2022-05-12": 10124,
-  "2022-05-13": 10124,
-  "2022-05-14": 10124,
-  "2022-05-15": 10124,
-  "2022-05-16": 10124,
-  "2022-05-17": 10124,
-  "2022-05-18": 10124,
-  "2022-05-19": 10124,
-  "2022-05-20": 10124,
-  "2022-05-21": 10124,
-  "2022-05-22": 10124,
-  "2022-05-23": 10124,
-  "2022-05-24": 10124,
-  "2022-05-25": 10124,
-  "2022-05-26": 10124,
-  "2022-05-27": 10124,
-  "2022-05-28": 10124,
-  "2022-05-29": 10124,
-  "2022-05-30": 10124,
-  "2022-05-31": 10124,
-  "2022-06-01": 10124,
-  "2022-06-02": 10124,
-  "2022-06-03": 10124,
-  "2022-06-04": 10124,
-  "2022-06-05": 10124,
-  "2022-06-06": 10124,
-  "2022-06-07": 10124,
-  "2022-06-08": 10124,
-  "2022-06-09": 10124,
-  "2022-06-10": 10124,
-  "2022-06-11": 10124,
-  "2022-06-12": 10124,
-  "2022-06-13": 10124,
-  "2022-06-14": 10124,
-  "2022-06-15": 10124,
-  "2022-06-16": 10124,
-  "2022-06-17": 10124,
-  "2022-06-18": 10124,
-  "2022-06-19": 10124,
-  "2022-06-20": 10124,
-  "2022-06-21": 10124,
-  "2022-06-22": 10124,
-  "2022-06-23": 10124,
-  "2022-06-24": 10124,
-  "2022-06-25": 10124,
-  "2022-06-26": 10124,
-  "2022-06-27": 10124,
-  "2022-06-28": 10124,
-  "2022-06-29": 10124,
-  "2022-06-30": 10124,
-  "2022-07-01": 10124,
-  "2022-07-02": 10124,
-  "2022-07-03": 10124,
-  "2022-07-04": 10124,
-  "2022-07-05": 10124,
-  "2022-07-06": 10124,
-  "2022-07-07": 10124,
-  "2022-07-08": 10124,
-  "2022-07-09": 10124,
-  "2022-07-10": 10124,
-  "2022-07-11": 10124,
-  "2022-07-12": 10124,
-  "2022-07-13": 10124,
-  "2022-07-14": 10124,
-  "2022-07-15": 10124,
-  "2022-07-16": 10124,
-  "2022-07-17": 10124,
-  "2022-07-18": 10124,
-  "2022-07-19": 10124,
-  "2022-07-20": 10124,
-  "2022-07-21": 10124,
-  "2022-07-22": 10124,
-  "2022-07-23": 10124,
-  "2022-07-24": 10124,
-  "2022-07-25": 10124,
-  "2022-07-26": 10124,
-  "2022-07-27": 10124,
-  "2022-07-28": 10124,
-  "2022-07-29": 10124,
-  "2022-07-30": 10124,
-  "2022-07-31": 10124,
-  "2022-08-01": 10124,
-  "2022-08-02": 10124,
-  "2022-08-03": 10124,
-  "2022-08-04": 10124,
-  "2022-08-05": 10124,
-  "2022-08-06": 10124,
-  "2022-08-07": 10124,
-  "2022-08-08": 10124,
-  "2022-08-09": 10124,
-  "2022-08-10": 10124,
-  "2022-08-11": 10124,
-  "2022-08-12": 10124,
-  "2022-08-13": 10124,
-  "2022-08-14": 10124,
-  "2022-08-15": 10124,
-  "2022-08-16": 10124,
-  "2022-08-17": 10124,
-  "2022-08-18": 10124,
-  "2022-08-19": 10124,
-  "2022-08-20": 10124,
-  "2022-08-21": 10124,
-  "2022-08-22": 10124,
-  "2022-08-23": 10124,
-  "2022-08-24": 10124,
-  "2022-08-25": 10124,
-  "2022-08-26": 10124,
-  "2022-08-27": 10124,
-  "2022-08-28": 10124,
-  "2022-08-29": 10124,
-  "2022-08-30": 10124,
-  "2022-08-31": 10124,
-  "2022-09-01": 10124,
-  "2022-09-02": 10124,
-  "2022-09-03": 10124,
-  "2022-09-04": 10124,
-  "2022-09-05": 10124,
-  "2022-09-06": 10124,
-  "2022-09-07": 10124,
-  "2022-09-09": 10124,
-  "2022-09-10": 10124,
-  "2022-09-11": 10124,
-  "2022-09-12": 10124,
-  "2022-09-13": 10124,
-  "2022-09-15": 10124,
-  "2022-09-16": 10124,
-  "2022-09-17": 10124,
-  "2022-09-18": 10124,
-  "2022-09-19": 10124,
-  "2022-09-20": 10124,
-  "2022-09-21": 10124,
-  "2022-09-22": 10124,
-  "2022-09-23": 10124,
-  "2022-09-24": 10124,
-  "2022-09-25": 10124,
-  "2022-09-26": 10124,
-  "2022-09-27": 10124,
-  "2022-09-28": 10124,
-  "2022-09-29": 10124,
-  "2022-09-30": 10124,
-  "2022-10-01": 10124,
-  "2022-10-02": 10124,
-  "2022-10-03": 10124,
-  "2022-10-04": 10124,
-  "2022-10-05": 10124,
-  "2022-10-06": 10124,
-  "2022-10-07": 10124,
-  "2022-10-08": 10124,
-  "2022-10-09": 10124,
-  "2022-10-10": 10124,
-  "2022-10-11": 10124,
-  "2022-10-12": 10124,
-  "2022-10-13": 10124,
-  "2022-10-14": 10124,
-  "2022-10-15": 10124,
-  "2022-10-16": 10124,
-  "2022-10-17": 10124,
-  "2022-10-18": 10124,
-  "2022-10-19": 10124,
-  "2022-10-20": 10124,
-  "2022-10-21": 10124,
-  "2022-10-22": 10124,
-  "2022-10-23": 10124,
-  "2022-10-24": 10124,
-  "2022-10-25": 10124,
-  "2022-10-26": 10124,
-  "2022-10-27": 10124,
-  "2022-10-28": 10124,
-  "2022-10-29": 10124,
-  "2022-10-30": 10124,
-  "2022-10-31": 10124,
-  "2022-11-01": 10124,
-  "2022-11-02": 10124,
-  "2022-11-03": 10124,
-  "2022-11-04": 10124,
-  "2022-11-05": 10124,
-  "2022-11-06": 10124,
-  "2022-11-07": 10124,
-  "2022-11-08": 10124,
-  "2022-11-09": 10124,
-  "2022-11-10": 10124,
-  "2022-11-11": 10124,
-  "2022-11-12": 10124,
-  "2022-11-13": 10124,
-  "2022-11-14": 10124,
-  "2022-11-15": 10124,
-  "2022-11-16": 10124,
-  "2022-11-17": 10124,
-  "2022-11-18": 10124,
-  "2022-11-19": 10124,
-  "2022-11-20": 10124,
-  "2022-11-21": 10124,
-  "2022-11-22": 10124,
-  "2022-11-23": 10124,
-  "2022-11-24": 10124,
-  "2022-11-25": 10124,
-  "2022-11-26": 10124,
-  "2022-11-27": 10124,
-  "2022-11-28": 10124,
-  "2022-11-29": 10124,
-  "2022-11-30": 10124,
-  "2022-12-01": 10124,
-  "2022-12-02": 10124,
-  "2022-12-03": 10124,
-  "2022-12-04": 10124,
-  "2022-12-05": 10124,
-  "2022-12-06": 10124,
-  "2022-12-07": 10124,
-  "2022-12-08": 10124,
-  "2022-12-09": 10124,
-  "2022-12-10": 10124,
-  "2022-12-11": 10124,
-  "2022-12-12": 10124,
-  "2022-12-13": 10124,
-  "2022-12-14": 10124,
-  "2022-12-15": 10124,
-  "2022-12-16": 10124,
-  "2022-12-17": 10124,
-  "2022-12-18": 10124,
-  "2022-12-19": 10124,
-  "2022-12-20": 10124,
-  "2022-12-21": 10124,
-  "2022-12-22": 10124,
-  "2022-12-24": 10124,
-  "2022-12-25": 10124,
-  "2022-12-26": 10124,
-  "2022-12-27": 10124,
-  "2022-12-28": 10124,
-  "2022-12-29": 10124,
-  "2022-12-30": 10124,
-  "2022-12-31": 10124,
-  "2023-01-01": 10124,
-  "2023-01-02": 10124,
-  "2023-01-03": 10124,
-  "2023-01-04": 10124,
-  "2023-01-05": 10124,
-  "2023-01-06": 10124,
-  "2023-01-07": 10124,
-  "2023-01-08": 10124,
-  "2023-01-09": 10124,
-  "2023-01-10": 10124,
-  "2023-01-11": 10124,
-  "2023-01-12": 10124,
-  "2023-01-13": 10124,
-  "2023-01-14": 10124,
-  "2023-01-15": 10124,
-  "2023-01-16": 10124,
-  "2023-01-17": 10124,
-  "2023-01-18": 10124,
-  "2023-01-19": 10124,
-  "2023-01-20": 10124,
-  "2023-01-21": 10124,
-  "2023-01-22": 10124,
-  "2023-01-23": 10124,
-  "2023-01-24": 10124,
-  "2023-01-25": 10124,
-  "2023-01-26": 10124,
-  "2023-01-27": 10124,
-  "2023-01-28": 10124,
-  "2023-01-29": 10124,
-  "2023-01-30": 10124,
-  "2023-01-31": 10124,
-  "2023-02-01": 10124,
-  "2023-02-02": 10124,
-  "2023-02-03": 10124,
-  "2023-02-04": 10124,
-  "2023-02-05": 10124,
-  "2023-02-06": 10124,
-  "2023-02-07": 10124,
-  "2023-02-08": 10124,
-  "2023-02-09": 10124,
-  "2023-02-10": 10124,
-  "2023-02-11": 10124,
-  "2023-02-12": 10124,
-  "2023-02-13": 10124,
-  "2023-02-14": 10124,
-  "2023-02-15": 10124,
-  "2023-02-16": 10124,
-  "2023-02-17": 10124,
-  "2023-02-18": 10124,
-  "2023-02-19": 10124,
-  "2023-02-20": 10124,
-  "2023-02-21": 10124,
-  "2023-02-22": 10124,
-  "2023-02-23": 10124,
-  "2023-02-24": 10124,
-  "2023-02-25": 10124,
-  "2023-02-26": 10124,
-  "2023-02-27": 10124,
-  "2023-02-28": 10124,
-  "2023-03-01": 10124,
-  "2023-03-02": 10124,
-  "2023-03-03": 10124,
-  "2023-03-04": 10124,
-  "2023-03-05": 10124,
-  "2023-03-06": 10124,
-  "2023-03-07": 10124,
-  "2023-03-08": 10124,
-  "2023-03-09": 10124,
-  "2023-03-10": 10124,
-  "2023-03-11": 10124,
-  "2023-03-12": 10124,
-  "2023-03-13": 10124,
-  "2023-03-14": 10124,
-  "2023-03-15": 10124,
-  "2023-03-16": 10124,
-  "2023-03-17": 10124,
-  "2023-03-18": 10124,
-  "2023-03-19": 10124,
-  "2023-03-20": 10124,
-  "2023-03-21": 10124,
-  "2023-03-22": 10124,
-  "2023-03-23": 10124,
-  "2023-03-24": 10124,
-  "2023-03-25": 10124,
-  "2023-03-26": 10124,
-  "2023-03-27": 10124,
-  "2023-03-28": 10124,
-  "2023-03-29": 10124,
-  "2023-03-30": 10124,
-  "2023-03-31": 10124,
-  "2023-04-01": 10124,
-  "2023-04-02": 10124,
-  "2023-04-03": 10124,
-  "2023-04-04": 10124,
-  "2023-04-05": 10124,
-  "2023-04-06": 10124,
-  "2023-04-07": 10124,
-  "2023-04-09": 10124,
-  "2023-04-10": 10124,
-  "2023-04-11": 10124,
-  "2023-04-12": 10124,
-  "2023-04-13": 10124,
-  "2023-04-14": 10124,
-  "2023-04-15": 10124,
-  "2023-04-16": 10124,
-  "2023-04-17": 10124,
-  "2023-04-18": 10124,
-  "2023-04-19": 10124,
-  "2023-04-20": 10124,
-  "2023-04-21": 10124,
-  "2023-04-22": 10124,
-  "2023-04-23": 10124,
-  "2023-04-24": 10124,
-  "2023-04-25": 10124,
-  "2023-04-26": 10124,
-  "2023-04-27": 10124,
-  "2023-04-28": 10124,
-  "2023-04-29": 10124,
-  "2023-04-30": 10124,
-  "2023-05-01": 10124,
-  "2023-05-02": 10124,
-  "2023-05-03": 10124,
-  "2023-05-04": 10124,
-  "2023-05-05": 10124,
-  "2023-05-06": 10124,
-  "2023-05-07": 10124,
-  "2023-05-08": 10124,
-  "2023-05-09": 10124,
-  "2023-05-10": 10124,
-  "2023-05-11": 10124,
-  "2023-05-12": 10124,
-  "2023-05-13": 10124,
-  "2023-05-14": 10124,
-  "2023-05-15": 10124,
-  "2023-05-16": 10124,
-  "2023-05-17": 10124,
-  "2023-05-18": 10124,
-  "2023-05-19": 10124,
-  "2023-05-20": 10124,
-  "2023-05-21": 10124,
-  "2023-05-22": 10124,
-  "2023-05-23": 10124,
-  "2023-05-24": 10124,
-  "2023-05-25": 10124,
-  "2023-05-26": 10124,
-  "2023-05-27": 10124,
-  "2023-05-28": 10124,
-  "2023-05-29": 10124,
-  "2023-05-30": 10124,
-  "2023-05-31": 10124,
-  "2023-06-01": 10124,
-  "2023-06-02": 10124,
-  "2023-06-03": 10124,
-  "2023-06-04": 10124,
-  "2023-06-05": 10124,
-  "2023-06-06": 10124,
-  "2023-06-07": 10124,
-  "2023-06-08": 10124,
-  "2023-06-09": 10124,
-  "2023-06-10": 10124,
-  "2023-06-11": 10124,
-  "2023-06-12": 10124,
-  "2023-06-13": 10124,
-  "2023-06-14": 10124,
-  "2023-06-15": 10124,
-  "2023-06-16": 10124,
-  "2023-06-17": 10124,
-  "2023-06-18": 10124,
-  "2023-06-19": 10124,
-  "2023-06-20": 10124,
-  "2023-06-21": 10124,
-  "2023-06-22": 10124,
-  "2023-06-23": 10124,
-  "2023-06-24": 10124,
-  "2023-06-25": 10124,
-  "2023-06-26": 10124,
-  "2023-06-27": 10124,
-  "2023-06-28": 10124,
-  "2023-06-29": 10124,
-  "2023-06-30": 10124,
-  "2023-07-01": 10124,
-  "2023-07-02": 10124,
-  "2023-07-03": 10124,
-  "2023-07-04": 10124,
-  "2023-07-05": 10124,
-  "2023-07-06": 10124,
-  "2023-07-07": 10124,
-  "2023-07-08": 10124,
-  "2023-07-09": 10124,
-  "2023-07-10": 10124,
-  "2023-07-11": 10124,
-  "2023-07-12": 10124,
-  "2023-07-13": 10124,
-  "2023-07-14": 10124,
-  "2023-07-15": 10124,
-  "2023-07-16": 10124,
-  "2023-07-17": 10124,
-  "2023-07-18": 10124,
-  "2023-07-19": 10124,
-  "2023-07-20": 10124,
-  "2023-07-21": 10124,
-  "2023-07-22": 10124,
-  "2023-07-23": 10124,
-  "2023-07-24": 10124,
-  "2023-07-25": 10124,
-  "2023-07-26": 10124,
-  "2023-07-27": 10124,
-  "2023-07-28": 10124,
-  "2023-07-29": 10124,
-  "2023-07-30": 10124,
-  "2023-07-31": 10124,
-  "2023-08-01": 10124,
-  "2023-08-02": 10124,
-  "2023-08-03": 10124,
-  "2023-08-04": 10124,
-  "2023-08-05": 10124,
-  "2023-08-06": 10124,
-  "2023-08-07": 10124,
-  "2023-08-08": 10124,
-  "2023-08-09": 10124,
-  "2023-08-10": 10124,
-  "2023-08-11": 10124,
-  "2023-08-12": 10124,
-  "2023-08-13": 10124,
-  "2023-08-14": 10124,
-  "2023-08-15": 10124,
-  "2023-08-16": 10124,
-  "2023-08-17": 10124,
-  "2023-08-18": 10124,
-  "2023-08-19": 10124,
-  "2023-08-20": 10124,
-  "2023-08-21": 10124,
-  "2023-08-22": 10124,
-  "2023-08-23": 10124,
-  "2023-08-24": 10124,
-  "2023-08-25": 10124,
-  "2023-08-26": 10124,
-  "2023-08-27": 10124,
-  "2023-08-28": 10124,
-  "2023-08-29": 10124,
-  "2023-08-30": 10124,
-  "2023-08-31": 10124,
-  "2023-09-01": 10124,
-  "2023-09-02": 10124,
-  "2023-09-03": 10124,
-  "2023-09-04": 10124,
-  "2023-09-05": 10124,
-  "2023-09-06": 10124,
-  "2023-09-07": 10124,
-  "2023-09-08": 10124,
-  "2023-09-09": 10124,
-  "2023-09-10": 10124,
-  "2023-09-11": 10124,
-  "2023-09-12": 10124,
-  "2023-09-13": 10124,
-  "2023-09-14": 10124,
-  "2023-09-15": 10124,
-  "2023-09-16": 10124,
-  "2023-09-17": 10124,
-  "2023-09-18": 10124,
-  "2023-09-19": 10124,
-  "2023-09-20": 10124,
-  "2023-09-21": 10124,
-  "2023-09-22": 10124,
-  "2023-09-23": 10124,
-  "2023-09-24": 10124,
-  "2023-09-25": 10124,
-  "2023-09-26": 10124,
-  "2023-09-27": 10124,
-  "2023-09-28": 10124,
-  "2023-09-29": 10124,
-  "2023-09-30": 10124,
-  "2023-10-01": 10124,
-  "2023-10-02": 10124,
-  "2023-10-03": 10124,
-  "2023-10-04": 10124,
-  "2023-10-05": 10124,
-  "2023-10-06": 10124,
-  "2023-10-07": 10124,
-  "2023-10-08": 10124,
-  "2023-10-09": 10124,
-  "2023-10-10": 10124,
-  "2023-10-11": 10124,
-  "2023-10-12": 10124,
-  "2023-10-13": 10124,
-  "2023-10-14": 10124,
-  "2023-10-15": 10124,
-  "2023-10-16": 10124,
-  "2023-10-17": 10124,
-  "2023-10-18": 10124,
-  "2023-10-19": 10124,
-  "2023-10-20": 10124,
-  "2023-10-21": 10124,
-  "2023-10-22": 10124,
-  "2023-10-23": 10124,
-  "2023-10-24": 10124,
-  "2023-10-25": 10124,
-  "2023-10-26": 10124,
-  "2023-10-27": 10124,
-  "2023-10-28": 10124,
-  "2023-10-29": 10124,
-  "2023-10-30": 10124,
-  "2023-10-31": 10124,
-  "2023-11-01": 10124,
-  "2023-11-02": 10124,
-  "2023-11-03": 10124,
-  "2023-11-04": 10124,
-  "2023-11-05": 10124,
-  "2023-11-06": 10124,
-  "2023-11-07": 10124,
-  "2023-11-08": 10124,
-  "2023-11-09": 10124,
-  "2023-11-10": 10124,
-  "2023-11-11": 10124,
-  "2023-11-12": 10124,
-  "2023-11-13": 10124,
-  "2023-11-14": 10124,
-  "2023-11-15": 10124,
-  "2023-11-16": 10124,
-  "2023-11-17": 10124,
-  "2023-11-18": 10124,
-  "2023-11-19": 10124,
-  "2023-11-20": 10124,
-  "2023-11-21": 10124,
-  "2023-11-22": 10124,
-  "2023-11-23": 10124,
-  "2023-11-24": 10124,
-  "2023-11-25": 10124,
-  "2023-11-26": 10124,
-  "2023-11-27": 10124,
-  "2023-11-28": 10124,
-  "2023-11-29": 10124,
-  "2023-11-30": 10124,
-  "2023-12-01": 10124,
-  "2023-12-02": 10124,
-  "2023-12-03": 10124,
-  "2023-12-04": 10124,
-  "2023-12-05": 10124,
-  "2023-12-06": 10124,
-  "2023-12-07": 10124,
-  "2023-12-08": 10124,
-  "2023-12-09": 10124,
-  "2023-12-10": 10124,
-  "2023-12-11": 10124,
-  "2023-12-12": 10124,
-  "2023-12-13": 10124,
-  "2023-12-14": 10124,
-  "2023-12-15": 10124,
-  "2023-12-16": 10124,
-  "2023-12-17": 10124,
-  "2023-12-18": 10124,
-  "2023-12-19": 10124,
-  "2023-12-20": 10124,
-  "2023-12-21": 10124,
-  "2023-12-22": 10124,
-  "2023-12-23": 10124,
-  "2023-12-24": 10124,
-  "2023-12-25": 10124,
-  "2023-12-26": 10124,
-  "2023-12-27": 10124,
-  "2023-12-30": 10124,
-  "2023-12-31": 10124,
-  "2024-01-01": 10124,
-  "2024-01-02": 10124,
-  "2024-01-03": 10124
+  "2024-01-17": 10124,
+  "date_first_scraped": "2021-12-21",
+  "description": "Welcome the voice of Robert Frost and his daughter Lesley Frost into your reading room...",
+  "name": "The Robert Frost Reading Room",
+  "tracks": [
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108346,
+      "name": "A Considerable Speck",
+      "url": "https://open.spotify.com/track/0FerwzUrI7B64wVTPyrqkA"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191133,
+      "name": "A Lone Striker",
+      "url": "https://open.spotify.com/track/1piiUtcYO0rh2ICA0DvwI9"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97186,
+      "name": "A Prayer in Spring",
+      "url": "https://open.spotify.com/track/1t8XuqJuFvP2O3TXEewPU9"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "A Record Stride",
+      "url": "https://open.spotify.com/track/3p2jVJkMRxn6Ndva8QuieW"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55213,
+      "name": "A Soldier",
+      "url": "https://open.spotify.com/track/3kTWrDLmkwBNYnrWT9W6AI"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48440,
+      "name": "Acquainted With The Night",
+      "url": "https://open.spotify.com/track/6ooz6NyCS3mI6AfVuICusV"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120946,
+      "name": "After Apple-Picking",
+      "url": "https://open.spotify.com/track/3W1wlDFWv1HdDkSDz1h1Gc"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "An Old Man's Winter Night",
+      "url": "https://open.spotify.com/track/3xxd1UwCCUnxRHIgsFDxXe"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181947,
+      "name": "Birches",
+      "url": "https://open.spotify.com/track/0J2AUWNRkQbKkpUoRsB0fs"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428480,
+      "name": "Blueberries",
+      "url": "https://open.spotify.com/track/5avXWGEMdNd6yNO4arAdmV"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93653,
+      "name": "Choose Something Like a Star",
+      "url": "https://open.spotify.com/track/1rjk90niSQJuA5KyXxONj5"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "Clear and Colder",
+      "url": "https://open.spotify.com/track/65OBM5fOdpqUdj5ylQ1E4P"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81293,
+      "name": "Closed for Good",
+      "url": "https://open.spotify.com/track/219BwHoU7NIqzN39FhTXLK"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48413,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/6VRuYp6ClGp9yPpNsRAlPS"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534640,
+      "name": "Death of a Hired Man",
+      "url": "https://open.spotify.com/track/52XuRtSlVPvJgAwoapWFuT"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196959,
+      "name": "Department / A Considerable Speck",
+      "url": "https://open.spotify.com/track/3I3qcQlU242Io4Y7ljxStN"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100693,
+      "name": "Departmental",
+      "url": "https://open.spotify.com/track/1ZgisV1Wi6mp38dRDIv6oo"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "Directive",
+      "url": "https://open.spotify.com/track/5c9fC1QZJaUXKIL42c6kj0"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21586,
+      "name": "Dust of Snow",
+      "url": "https://open.spotify.com/track/55EQGN22P4a7Y2Wg671sb9"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53066,
+      "name": "Etherealizing",
+      "url": "https://open.spotify.com/track/0icx9VEHusRIWKxEcavVL2"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104746,
+      "name": "Evening in a Sugar Orchard / Choose Something Like a Star",
+      "url": "https://open.spotify.com/track/4TTfpTCzK2i8pXOrAbM8rg"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25146,
+      "name": "Fire and Ice",
+      "url": "https://open.spotify.com/track/1Vv2yxE5SvRYBdprm2wbJG"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34173,
+      "name": "Fireflies in Our Garden",
+      "url": "https://open.spotify.com/track/6FHshMEsXWdrNQ3hXVV6gt"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55213,
+      "name": "Frost - The Oven Bird",
+      "url": "https://open.spotify.com/track/4FFVnvM2zjlYl2cUnKpv4O"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48226,
+      "name": "Frost - The Silken Tent",
+      "url": "https://open.spotify.com/track/0rtBt3yf2YO7v4Egld22Ue"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60480,
+      "name": "Gathering Leaves",
+      "url": "https://open.spotify.com/track/5fj1d0bS99DojAIGF8pApR"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109480,
+      "name": "Good-By and Keep Cold",
+      "url": "https://open.spotify.com/track/42liV80r8B9pgtje3F5ya2"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59213,
+      "name": "Happiness Makes Up in Height",
+      "url": "https://open.spotify.com/track/1EKylrcgb6Ug13TKJE5vJo"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64480,
+      "name": "Hyla Brook",
+      "url": "https://open.spotify.com/track/1HT5r4HvQbQOKowk749HOO"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38120,
+      "name": "It is Almost the Year 2000",
+      "url": "https://open.spotify.com/track/6Qu8PE69RSzu2O2TKVPhKT"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "Mending Wall",
+      "url": "https://open.spotify.com/track/572ySI4rXIN25Sf9MMhf9j"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57480,
+      "name": "Mowing",
+      "url": "https://open.spotify.com/track/4qkFxmYM85oiqXHarhlh0l"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58280,
+      "name": "My November Guest",
+      "url": "https://open.spotify.com/track/4Py9yreBsz2Sqn26EMdJXY"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82066,
+      "name": "October",
+      "url": "https://open.spotify.com/track/4e7IuzDmCMKqvz1QlfGw9l"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67133,
+      "name": "On Looking up by Chance at the Constellations",
+      "url": "https://open.spotify.com/track/52jaBjFENKKHgdNIfjM6qx"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50320,
+      "name": "Once by the Pacific",
+      "url": "https://open.spotify.com/track/7lBC7PI6VdjcWHPfW55HzY"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "One More Brevity",
+      "url": "https://open.spotify.com/track/3MSUgQOOjv3YND0kwaq6LN"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166919,
+      "name": "One Step Backward Taken / Choose Something Like A Star: Happiness Makes Up In Height",
+      "url": "https://open.spotify.com/track/2Exd7mQ6tqMTOBt2PrHKmc"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71960,
+      "name": "Provide, Provide",
+      "url": "https://open.spotify.com/track/0qM14wQAS17RWhzly96c8j"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57939,
+      "name": "Reluctance",
+      "url": "https://open.spotify.com/track/4aAoOyWeZzjE3iH9HYwQ4k"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83560,
+      "name": "Rose Pogonias",
+      "url": "https://open.spotify.com/track/3fRy8tUHWNVblG3SGgXobu"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59106,
+      "name": "Spring Pools",
+      "url": "https://open.spotify.com/track/4k1IpEhRgvY3sH5TyeyWbN"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52026,
+      "name": "Stopping by Woods on a Snowy Evening",
+      "url": "https://open.spotify.com/track/3OZ0ByPJd8CeTQ39ryEZXG"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99320,
+      "name": "Storm Fear",
+      "url": "https://open.spotify.com/track/4xyt8GwKdwsIjp3HkABC0y"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386520,
+      "name": "The Bonfire",
+      "url": "https://open.spotify.com/track/66gXZjCGsWhKuJHqRZ4mLT"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52320,
+      "name": "The Cow in Apple Time",
+      "url": "https://open.spotify.com/track/5naHwydlD0VmwGttYnvPmr"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557506,
+      "name": "The Death of the Hired Man",
+      "url": "https://open.spotify.com/track/5DfZgtLWS4qFJyiD14jZMf"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62186,
+      "name": "The Gift Outright",
+      "url": "https://open.spotify.com/track/56fCJaC9yGg1ovD8Ju0BVj"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71253,
+      "name": "The Last Word of a Bluebird",
+      "url": "https://open.spotify.com/track/3tHwgWeikF7gbRmyw0YI4l"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70760,
+      "name": "The Most of It",
+      "url": "https://open.spotify.com/track/3lKlTc2aRwGXRN3yvs52Ro"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363586,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/7xpuD82iVr0eL05UDdfiEb"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83160,
+      "name": "The Onset",
+      "url": "https://open.spotify.com/track/1Dq175Zru2Y0btdoa0WsLl"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173120,
+      "name": "The Pasture",
+      "url": "https://open.spotify.com/track/5LerMNkcfwFmbezCgmeM0Q"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34240,
+      "name": "The Pasture",
+      "url": "https://open.spotify.com/track/1Gjxa0M6teK74ng34GdE5B"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91720,
+      "name": "The Quest of the Purple-Fringed",
+      "url": "https://open.spotify.com/track/7JR5fq3IEa8H2L2cVRTRNH"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65653,
+      "name": "The Road Not Taken",
+      "url": "https://open.spotify.com/track/6aiOlJ77kujTyi0aTOawa2"
+    },
+    {
+      "album": {
+        "name": "Derry Down Derry: A Narrative Reading by Lesley Frost of Poems by Robert Frost",
+        "url": "https://open.spotify.com/album/4crPrHeEjXnra9e6fZfBbz"
+      },
+      "artists": [
+        {
+          "name": "Lesley Frost",
+          "url": "https://open.spotify.com/artist/5bBrBIKlEDXb82M0fwdFIy"
+        }
+      ],
+      "date_added": "2014-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96573,
+      "name": "The Runaway",
+      "url": "https://open.spotify.com/track/16fMxWW3HGSLhhFT9H7r6D"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294985,
+      "name": "The Tuft Of Flowers / My November Guest / Acquainted With The Night / Tree At My Window",
+      "url": "https://open.spotify.com/track/4ukUKbaOOc158iyi1qSGWG"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470894,
+      "name": "The Witch Of Co\u00f6s",
+      "url": "https://open.spotify.com/track/7wvGSaLJOTS7rg4fxRq9FN"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70960,
+      "name": "The Woodchuck",
+      "url": "https://open.spotify.com/track/3lYdKq1u8kavUjb1kXThoL"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47520,
+      "name": "Tree At My Window",
+      "url": "https://open.spotify.com/track/0uJuuoFulwv2vzyPSjhtiQ"
+    },
+    {
+      "album": {
+        "name": "Frost Reads Frost - The 1957 Decca Recordings",
+        "url": "https://open.spotify.com/album/7uhXLpt9K7fN1MdZSbAMFi"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Two Tramps in Mudtime",
+      "url": "https://open.spotify.com/track/1Ex5XcekuuOJjyXLlH0jAD"
+    },
+    {
+      "album": {
+        "name": "Robert Frost Reads His Poetry - The 1956 Caedmon Recordings",
+        "url": "https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "West-Running Brook",
+      "url": "https://open.spotify.com/track/30gAEiDphjNk8JhCL43Twb"
+    },
+    {
+      "album": {
+        "name": "Reads His Poetry",
+        "url": "https://open.spotify.com/album/5TO5n4RV8oc14PP1VX7Gei"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2014-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170452,
+      "name": "Why Wait For Science / Etherealizing / Provide, Provide",
+      "url": "https://open.spotify.com/track/7i8YeuSSsRJr1QSLxc0EUQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3OlXSlU6epG"
 }

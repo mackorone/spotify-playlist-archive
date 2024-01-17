@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Poloo &quot;Sicario&quot;, Carlos Vives &amp; Ryan Castro &quot;Los Sabanales 3.0&quot;,  Polim\u00e1 Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Carlos Vives, Ryan Castro",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Emilia &amp; Nathy Peluso &quot;JET_Set.mp3&quot;,  Polim\u00e1 Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Emilia &amp; Nathy Peluso",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "album": {
         "name": "Favorito",
         "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
       },
@@ -5816,6 +5834,28 @@
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+    },
+    {
+      "album": {
+        "name": "JET_Set.mp3",
+        "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145919,
+      "name": "JET_Set.mp3",
+      "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
     },
     {
       "album": {

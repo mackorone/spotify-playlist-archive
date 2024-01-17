@@ -1,609 +1,2307 @@
 {
-  "2022-05-01": 52568,
-  "2022-05-02": 52568,
-  "2022-05-03": 52654,
-  "2022-05-04": 52742,
-  "2022-05-05": 52814,
-  "2022-05-06": 52919,
-  "2022-05-07": 53035,
-  "2022-05-08": 53258,
-  "2022-05-09": 53279,
-  "2022-05-10": 53343,
-  "2022-05-11": 53417,
-  "2022-05-12": 53502,
-  "2022-05-13": 53604,
-  "2022-05-14": 53721,
-  "2022-05-15": 53866,
-  "2022-05-16": 53991,
-  "2022-05-17": 54080,
-  "2022-05-18": 54174,
-  "2022-05-19": 54270,
-  "2022-05-20": 54379,
-  "2022-05-21": 54595,
-  "2022-05-22": 54595,
-  "2022-05-23": 54711,
-  "2022-05-24": 54800,
-  "2022-05-25": 54897,
-  "2022-05-26": 54979,
-  "2022-05-27": 55084,
-  "2022-05-28": 55200,
-  "2022-05-29": 55298,
-  "2022-05-30": 55422,
-  "2022-05-31": 55518,
-  "2022-06-01": 55697,
-  "2022-06-02": 55711,
-  "2022-06-03": 55782,
-  "2022-06-04": 55890,
-  "2022-06-05": 56031,
-  "2022-06-06": 56171,
-  "2022-06-07": 56285,
-  "2022-06-08": 56390,
-  "2022-06-09": 56464,
-  "2022-06-10": 56548,
-  "2022-06-11": 56672,
-  "2022-06-12": 56822,
-  "2022-06-13": 56936,
-  "2022-06-14": 56996,
-  "2022-06-15": 57103,
-  "2022-06-16": 57187,
-  "2022-06-17": 57298,
-  "2022-06-18": 57424,
-  "2022-06-19": 57707,
-  "2022-06-20": 57707,
-  "2022-06-21": 57803,
-  "2022-06-22": 57951,
-  "2022-06-23": 57951,
-  "2022-06-24": 58067,
-  "2022-06-25": 58168,
-  "2022-06-26": 58291,
-  "2022-06-27": 58434,
-  "2022-06-28": 58530,
-  "2022-06-29": 58617,
-  "2022-06-30": 58711,
-  "2022-07-01": 58792,
-  "2022-07-02": 58903,
-  "2022-07-03": 59025,
-  "2022-07-04": 59139,
-  "2022-07-05": 59239,
-  "2022-07-06": 59338,
-  "2022-07-07": 59442,
-  "2022-07-08": 59533,
-  "2022-07-09": 59672,
-  "2022-07-10": 59820,
-  "2022-07-11": 59974,
-  "2022-07-12": 60070,
-  "2022-07-13": 60168,
-  "2022-07-14": 60269,
-  "2022-07-15": 60399,
-  "2022-07-16": 60503,
-  "2022-07-17": 60653,
-  "2022-07-18": 60829,
-  "2022-07-19": 60948,
-  "2022-07-20": 61046,
-  "2022-07-21": 61165,
-  "2022-07-22": 61255,
-  "2022-07-23": 61348,
-  "2022-07-24": 61509,
-  "2022-07-25": 61675,
-  "2022-07-26": 61769,
-  "2022-07-27": 61877,
-  "2022-07-28": 61987,
-  "2022-07-29": 62089,
-  "2022-07-30": 62385,
-  "2022-07-31": 62385,
-  "2022-08-01": 62529,
-  "2022-08-02": 62756,
-  "2022-08-03": 62756,
-  "2022-08-04": 62863,
-  "2022-08-05": 62979,
-  "2022-08-06": 63107,
-  "2022-08-07": 63248,
-  "2022-08-08": 63383,
-  "2022-08-09": 63487,
-  "2022-08-10": 63599,
-  "2022-08-11": 63695,
-  "2022-08-12": 63802,
-  "2022-08-13": 63904,
-  "2022-08-14": 64064,
-  "2022-08-15": 64229,
-  "2022-08-16": 64318,
-  "2022-08-17": 64423,
-  "2022-08-18": 64518,
-  "2022-08-19": 64622,
-  "2022-08-20": 64721,
-  "2022-08-21": 64880,
-  "2022-08-22": 65015,
-  "2022-08-23": 65113,
-  "2022-08-24": 65206,
-  "2022-08-25": 65294,
-  "2022-08-26": 65378,
-  "2022-08-27": 65473,
-  "2022-08-28": 65576,
-  "2022-08-29": 65688,
-  "2022-08-30": 65736,
-  "2022-08-31": 65756,
-  "2022-09-01": 65762,
-  "2022-09-02": 65796,
-  "2022-09-03": 65762,
-  "2022-09-04": 65828,
-  "2022-09-05": 65941,
-  "2022-09-06": 66019,
-  "2022-09-07": 66103,
-  "2022-09-09": 66301,
-  "2022-09-10": 66402,
-  "2022-09-11": 66535,
-  "2022-09-12": 66670,
-  "2022-09-13": 66760,
-  "2022-09-15": 66917,
-  "2022-09-16": 67010,
-  "2022-09-17": 67093,
-  "2022-09-18": 67209,
-  "2022-09-19": 67321,
-  "2022-09-20": 67402,
-  "2022-09-21": 67488,
-  "2022-09-22": 67565,
-  "2022-09-23": 67622,
-  "2022-09-24": 67732,
-  "2022-09-25": 67856,
-  "2022-09-26": 67958,
-  "2022-09-27": 68027,
-  "2022-09-28": 68114,
-  "2022-09-29": 68188,
-  "2022-09-30": 68266,
-  "2022-10-01": 68353,
-  "2022-10-02": 68468,
-  "2022-10-03": 68577,
-  "2022-10-04": 68670,
-  "2022-10-05": 68721,
-  "2022-10-06": 68788,
-  "2022-10-07": 68879,
-  "2022-10-08": 68966,
-  "2022-10-09": 69151,
-  "2022-10-10": 69183,
-  "2022-10-11": 69251,
-  "2022-10-12": 69327,
-  "2022-10-13": 69412,
-  "2022-10-14": 69507,
-  "2022-10-15": 69604,
-  "2022-10-16": 69717,
-  "2022-10-17": 69829,
-  "2022-10-18": 69891,
-  "2022-10-19": 69965,
-  "2022-10-20": 70043,
-  "2022-10-21": 70135,
-  "2022-10-22": 70232,
-  "2022-10-23": 70357,
-  "2022-10-24": 70464,
-  "2022-10-25": 70516,
-  "2022-10-26": 70569,
-  "2022-10-27": 70650,
-  "2022-10-28": 70733,
-  "2022-10-29": 70846,
-  "2022-10-30": 70956,
-  "2022-10-31": 71089,
-  "2022-11-01": 71164,
-  "2022-11-02": 71258,
-  "2022-11-03": 71344,
-  "2022-11-04": 71424,
-  "2022-11-05": 71525,
-  "2022-11-06": 71649,
-  "2022-11-07": 71758,
-  "2022-11-08": 71841,
-  "2022-11-09": 71948,
-  "2022-11-10": 72043,
-  "2022-11-11": 72139,
-  "2022-11-12": 72262,
-  "2022-11-13": 72377,
-  "2022-11-14": 72502,
-  "2022-11-15": 72573,
-  "2022-11-16": 72663,
-  "2022-11-17": 72755,
-  "2022-11-18": 72775,
-  "2022-11-19": 72747,
-  "2022-11-20": 72884,
-  "2022-11-21": 72855,
-  "2022-11-22": 73089,
-  "2022-11-23": 73060,
-  "2022-11-24": 73337,
-  "2022-11-25": 73468,
-  "2022-11-26": 73556,
-  "2022-11-27": 73680,
-  "2022-11-28": 73777,
-  "2022-11-29": 73854,
-  "2022-11-30": 73909,
-  "2022-12-01": 73970,
-  "2022-12-02": 74019,
-  "2022-12-03": 74126,
-  "2022-12-04": 74232,
-  "2022-12-05": 74307,
-  "2022-12-06": 74384,
-  "2022-12-07": 74476,
-  "2022-12-08": 74545,
-  "2022-12-09": 74615,
-  "2022-12-10": 74702,
-  "2022-12-11": 74809,
-  "2022-12-12": 74919,
-  "2022-12-13": 75000,
-  "2022-12-14": 75087,
-  "2022-12-15": 75159,
-  "2022-12-16": 75251,
-  "2022-12-17": 75324,
-  "2022-12-18": 75419,
-  "2022-12-19": 75508,
-  "2022-12-20": 75664,
-  "2022-12-21": 75664,
-  "2022-12-22": 75750,
-  "2022-12-24": 75930,
-  "2022-12-25": 76035,
-  "2022-12-26": 76114,
-  "2022-12-27": 76167,
-  "2022-12-28": 76244,
-  "2022-12-29": 76335,
-  "2022-12-30": 76421,
-  "2022-12-31": 76530,
-  "2023-01-01": 76687,
-  "2023-01-02": 76784,
-  "2023-01-03": 76895,
-  "2023-01-04": 76981,
-  "2023-01-05": 77093,
-  "2023-01-06": 77231,
-  "2023-01-07": 77471,
-  "2023-01-08": 77513,
-  "2023-01-09": 77680,
-  "2023-01-10": 77784,
-  "2023-01-11": 77872,
-  "2023-01-12": 78006,
-  "2023-01-13": 78121,
-  "2023-01-14": 78367,
-  "2023-01-15": 78430,
-  "2023-01-16": 78576,
-  "2023-01-17": 78695,
-  "2023-01-18": 78813,
-  "2023-01-19": 78915,
-  "2023-01-20": 79029,
-  "2023-01-21": 79151,
-  "2023-01-22": 79324,
-  "2023-01-23": 79485,
-  "2023-01-24": 79562,
-  "2023-01-25": 79653,
-  "2023-01-26": 79745,
-  "2023-01-27": 79822,
-  "2023-01-28": 79964,
-  "2023-01-29": 80126,
-  "2023-01-30": 80247,
-  "2023-01-31": 80247,
-  "2023-02-01": 80467,
-  "2023-02-02": 80565,
-  "2023-02-03": 80665,
-  "2023-02-04": 80789,
-  "2023-02-05": 80918,
-  "2023-02-06": 81057,
-  "2023-02-07": 81170,
-  "2023-02-08": 81393,
-  "2023-02-09": 81393,
-  "2023-02-10": 81485,
-  "2023-02-11": 81607,
-  "2023-02-12": 81903,
-  "2023-02-13": 81988,
-  "2023-02-14": 81988,
-  "2023-02-15": 82096,
-  "2023-02-16": 82207,
-  "2023-02-17": 82323,
-  "2023-02-18": 82593,
-  "2023-02-19": 82616,
-  "2023-02-20": 82722,
-  "2023-02-21": 82814,
-  "2023-02-22": 82911,
-  "2023-02-23": 83030,
-  "2023-02-24": 83124,
-  "2023-02-25": 83259,
-  "2023-02-26": 83377,
-  "2023-02-27": 83620,
-  "2023-02-28": 83620,
-  "2023-03-01": 83715,
-  "2023-03-02": 83796,
-  "2023-03-03": 83882,
-  "2023-03-04": 84003,
-  "2023-03-05": 84280,
-  "2023-03-06": 84280,
-  "2023-03-07": 84387,
-  "2023-03-08": 84477,
-  "2023-03-09": 84596,
-  "2023-03-10": 84692,
-  "2023-03-11": 84822,
-  "2023-03-12": 84942,
-  "2023-03-13": 85088,
-  "2023-03-14": 85174,
-  "2023-03-15": 85273,
-  "2023-03-16": 85385,
-  "2023-03-17": 85385,
-  "2023-03-18": 85593,
-  "2023-03-19": 85738,
-  "2023-03-20": 85865,
-  "2023-03-21": 85959,
-  "2023-03-22": 86107,
-  "2023-03-23": 86210,
-  "2023-03-24": 86210,
-  "2023-03-25": 86455,
-  "2023-03-26": 86627,
-  "2023-03-27": 86786,
-  "2023-03-28": 86918,
-  "2023-03-29": 87048,
-  "2023-03-30": 87232,
-  "2023-03-31": 87232,
-  "2023-04-01": 87366,
-  "2023-04-02": 87537,
-  "2023-04-03": 87673,
-  "2023-04-04": 87769,
-  "2023-04-05": 87870,
-  "2023-04-06": 87985,
-  "2023-04-07": 88132,
-  "2023-04-09": 88487,
-  "2023-04-10": 88681,
-  "2023-04-11": 88957,
-  "2023-04-12": 88957,
-  "2023-04-13": 89069,
-  "2023-04-14": 89203,
-  "2023-04-15": 89369,
-  "2023-04-16": 89555,
-  "2023-04-17": 89718,
-  "2023-04-18": 89832,
-  "2023-04-19": 90013,
-  "2023-04-20": 90172,
-  "2023-04-21": 90286,
-  "2023-04-22": 90457,
-  "2023-04-23": 90654,
-  "2023-04-24": 90849,
-  "2023-04-25": 90977,
-  "2023-04-26": 91136,
-  "2023-04-27": 91248,
-  "2023-04-28": 91376,
-  "2023-04-29": 91523,
-  "2023-04-30": 91698,
-  "2023-05-01": 91881,
-  "2023-05-02": 92050,
-  "2023-05-03": 92164,
-  "2023-05-04": 92309,
-  "2023-05-05": 92454,
-  "2023-05-06": 92628,
-  "2023-05-07": 92818,
-  "2023-05-08": 92983,
-  "2023-05-09": 93114,
-  "2023-05-10": 93237,
-  "2023-05-11": 93365,
-  "2023-05-12": 93502,
-  "2023-05-13": 93639,
-  "2023-05-14": 93834,
-  "2023-05-15": 93997,
-  "2023-05-16": 94128,
-  "2023-05-17": 94236,
-  "2023-05-18": 94364,
-  "2023-05-19": 94553,
-  "2023-05-20": 94901,
-  "2023-05-21": 94901,
-  "2023-05-22": 94901,
-  "2023-05-23": 95236,
-  "2023-05-24": 95460,
-  "2023-05-25": 95500,
-  "2023-05-26": 95608,
-  "2023-05-27": 95749,
-  "2023-05-28": 95941,
-  "2023-05-29": 95941,
-  "2023-05-30": 96260,
-  "2023-05-31": 96397,
-  "2023-06-01": 96519,
-  "2023-06-02": 96650,
-  "2023-06-03": 96820,
-  "2023-06-04": 97027,
-  "2023-06-05": 97206,
-  "2023-06-06": 97336,
-  "2023-06-07": 97461,
-  "2023-06-08": 97583,
-  "2023-06-09": 97747,
-  "2023-06-10": 97881,
-  "2023-06-11": 98070,
-  "2023-06-12": 98278,
-  "2023-06-13": 98396,
-  "2023-06-14": 98396,
-  "2023-06-15": 98686,
-  "2023-06-16": 98809,
-  "2023-06-17": 98976,
-  "2023-06-18": 99198,
-  "2023-06-19": 99373,
-  "2023-06-20": 99500,
-  "2023-06-21": 99631,
-  "2023-06-22": 99757,
-  "2023-06-23": 99886,
-  "2023-06-24": 100050,
-  "2023-06-25": 100585,
-  "2023-06-26": 100807,
-  "2023-06-27": 100983,
-  "2023-06-28": 101140,
-  "2023-06-29": 101281,
-  "2023-06-30": 101420,
-  "2023-07-01": 102098,
-  "2023-07-02": 102098,
-  "2023-07-03": 102298,
-  "2023-07-04": 102445,
-  "2023-07-05": 102593,
-  "2023-07-06": 102878,
-  "2023-07-07": 102878,
-  "2023-07-08": 103068,
-  "2023-07-09": 103252,
-  "2023-07-10": 103426,
-  "2023-07-11": 103571,
-  "2023-07-12": 103717,
-  "2023-07-13": 103857,
-  "2023-07-14": 103987,
-  "2023-07-15": 104108,
-  "2023-07-16": 104289,
-  "2023-07-17": 104468,
-  "2023-07-18": 104583,
-  "2023-07-19": 104707,
-  "2023-07-20": 104854,
-  "2023-07-21": 104989,
-  "2023-07-22": 105151,
-  "2023-07-23": 105344,
-  "2023-07-24": 105463,
-  "2023-07-25": 105581,
-  "2023-07-26": 105711,
-  "2023-07-27": 105817,
-  "2023-07-28": 105946,
-  "2023-07-29": 106099,
-  "2023-07-30": 106251,
-  "2023-07-31": 106415,
-  "2023-08-01": 106526,
-  "2023-08-02": 106646,
-  "2023-08-03": 106779,
-  "2023-08-04": 106900,
-  "2023-08-05": 107039,
-  "2023-08-06": 107386,
-  "2023-08-07": 107386,
-  "2023-08-08": 107496,
-  "2023-08-09": 107618,
-  "2023-08-10": 107741,
-  "2023-08-11": 107868,
-  "2023-08-12": 107985,
-  "2023-08-13": 108133,
-  "2023-08-14": 108301,
-  "2023-08-15": 108552,
-  "2023-08-16": 108552,
-  "2023-08-17": 108691,
-  "2023-08-18": 108798,
-  "2023-08-19": 108941,
-  "2023-08-20": 109112,
-  "2023-08-21": 109297,
-  "2023-08-22": 109396,
-  "2023-08-23": 109513,
-  "2023-08-24": 109629,
-  "2023-08-25": 109743,
-  "2023-08-26": 109879,
-  "2023-08-27": 110028,
-  "2023-08-28": 110170,
-  "2023-08-29": 110266,
-  "2023-08-30": 110393,
-  "2023-08-31": 110512,
-  "2023-09-01": 110726,
-  "2023-09-02": 110726,
-  "2023-09-03": 110829,
-  "2023-09-04": 110936,
-  "2023-09-05": 111033,
-  "2023-09-06": 111089,
-  "2023-09-07": 111180,
-  "2023-09-08": 111292,
-  "2023-09-09": 111419,
-  "2023-09-10": 111566,
-  "2023-09-11": 111670,
-  "2023-09-12": 111733,
-  "2023-09-13": 111838,
-  "2023-09-14": 111925,
-  "2023-09-15": 112009,
-  "2023-09-16": 112087,
-  "2023-09-17": 112208,
-  "2023-09-18": 112328,
-  "2023-09-19": 112406,
-  "2023-09-20": 112466,
-  "2023-09-21": 112559,
-  "2023-09-22": 112645,
-  "2023-09-23": 112729,
-  "2023-09-24": 112842,
-  "2023-09-25": 112941,
-  "2023-09-26": 113016,
-  "2023-09-27": 113067,
-  "2023-09-28": 113138,
-  "2023-09-29": 113212,
-  "2023-09-30": 113280,
-  "2023-10-01": 113358,
-  "2023-10-02": 113435,
-  "2023-10-03": 113495,
-  "2023-10-04": 113577,
-  "2023-10-05": 113624,
-  "2023-10-06": 113687,
-  "2023-10-07": 113765,
-  "2023-10-08": 113857,
-  "2023-10-09": 113924,
-  "2023-10-10": 113976,
-  "2023-10-11": 114095,
-  "2023-10-12": 114095,
-  "2023-10-13": 114146,
-  "2023-10-14": 114206,
-  "2023-10-15": 114281,
-  "2023-10-16": 114342,
-  "2023-10-17": 114385,
-  "2023-10-18": 114425,
-  "2023-10-19": 114482,
-  "2023-10-20": 114530,
-  "2023-10-21": 114587,
-  "2023-10-22": 114645,
-  "2023-10-23": 114700,
-  "2023-10-24": 114733,
-  "2023-10-25": 114763,
-  "2023-10-26": 114808,
-  "2023-10-27": 114850,
-  "2023-10-28": 114918,
-  "2023-10-29": 114994,
-  "2023-10-30": 115083,
-  "2023-10-31": 115083,
-  "2023-11-01": 115134,
-  "2023-11-02": 115171,
-  "2023-11-03": 115232,
-  "2023-11-04": 115282,
-  "2023-11-05": 115332,
-  "2023-11-06": 115386,
-  "2023-11-07": 115416,
-  "2023-11-08": 115441,
-  "2023-11-09": 115482,
-  "2023-11-10": 115533,
-  "2023-11-11": 115577,
-  "2023-11-12": 115629,
-  "2023-11-13": 115681,
-  "2023-11-14": 115730,
-  "2023-11-15": 115730,
-  "2023-11-16": 115794,
-  "2023-11-17": 115894,
-  "2023-11-18": 115894,
-  "2023-11-19": 115942,
-  "2023-11-20": 115989,
-  "2023-11-21": 116023,
-  "2023-11-22": 116059,
-  "2023-11-23": 116114,
-  "2023-11-24": 116150,
-  "2023-11-25": 116189,
-  "2023-11-26": 116232,
-  "2023-11-27": 116267,
-  "2023-11-28": 116291,
-  "2023-11-29": 116361,
-  "2023-11-30": 116361,
-  "2023-12-01": 116392,
-  "2023-12-02": 116438,
-  "2023-12-03": 116481,
-  "2023-12-04": 116506,
-  "2023-12-05": 116543,
-  "2023-12-06": 116558,
-  "2023-12-07": 116600,
-  "2023-12-08": 116638,
-  "2023-12-09": 116677,
-  "2023-12-10": 116733,
-  "2023-12-11": 116794,
-  "2023-12-12": 116826,
-  "2023-12-13": 116857,
-  "2023-12-14": 116911,
-  "2023-12-15": 116937,
-  "2023-12-16": 116982,
-  "2023-12-17": 117041,
-  "2023-12-18": 117090,
-  "2023-12-19": 117141,
-  "2023-12-20": 117182,
-  "2023-12-21": 117223,
-  "2023-12-22": 117270,
-  "2023-12-23": 117312,
-  "2023-12-24": 117363,
-  "2023-12-25": 117431,
-  "2023-12-26": 117474,
-  "2023-12-27": 117524,
-  "2023-12-30": 117739,
-  "2023-12-31": 117803,
-  "2024-01-01": 117932,
-  "2024-01-02": 117998,
-  "2024-01-03": 118049
+  "2024-01-17": 118925,
+  "date_first_scraped": "2022-05-01",
+  "description": "Soak up the spirit of Spain with a taste of these traditional flamenco and folk tunes.",
+  "name": "Spanish Tapas Bar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco Rumba",
+        "url": "https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "A la repompa",
+      "url": "https://open.spotify.com/track/1qTlInfzSjgaGbFo1q6jhT"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco Rumba",
+        "url": "https://open.spotify.com/album/0rJdgMSbIldoKo1PZ5VBCU"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        },
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271000,
+      "name": "A la repompa",
+      "url": "https://open.spotify.com/track/3ruZX26jLUFQAvwiHjE3In"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/59bN67Lie9iVtKMdpo4Yu8"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321533,
+      "name": "Aires del Fuente Vaqueros",
+      "url": "https://open.spotify.com/track/1JJtFDx2FdUkvKZRDv7CZg"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321533,
+      "name": "Aires del Fuente Vaqueros",
+      "url": "https://open.spotify.com/track/6s2aEvw1FCfxwHaUAJuRPe"
+    },
+    {
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "album": {
+        "name": "Luz De Otra Manera",
+        "url": "https://open.spotify.com/album/6TVAcRyDCNLiE8Twv9JHq3"
+      },
+      "artists": [
+        {
+          "name": "Vasco Hernandez",
+          "url": "https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM"
+        },
+        {
+          "name": "Diego el Gavi",
+          "url": "https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9"
+        },
+        {
+          "name": "Vanesa Lledo",
+          "url": "https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP"
+        },
+        {
+          "name": "Carlos Mil-Homens",
+          "url": "https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Alagarabias (Rejoicing)",
+      "url": "https://open.spotify.com/track/1yZrDWBbUIoT4Ik0nGyqKI"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/6T2VD3jsdAxlDqHEaT62bN"
+      },
+      "artists": [
+        {
+          "name": "Vasco Hernandez",
+          "url": "https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM"
+        },
+        {
+          "name": "Diego el Gavi",
+          "url": "https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9"
+        },
+        {
+          "name": "Vanesa Lledo",
+          "url": "https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP"
+        },
+        {
+          "name": "Carlos Mil-Homens",
+          "url": "https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 263800,
+      "name": "Algarab\u00edas",
+      "url": "https://open.spotify.com/track/0LpDsg0gA3gsLWARubGhpa"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK"
+      },
+      "artists": [
+        {
+          "name": "Vasco Hernandez",
+          "url": "https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM"
+        },
+        {
+          "name": "Diego el Gavi",
+          "url": "https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9"
+        },
+        {
+          "name": "Vanesa Lledo",
+          "url": "https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP"
+        },
+        {
+          "name": "Carlos Mil-Homens",
+          "url": "https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263800,
+      "name": "Algarab\u00edas",
+      "url": "https://open.spotify.com/track/5ijGYrOPgxJ8N897ongwm6"
+    },
+    {
+      "album": {
+        "name": "Manuel El Chachi Lopez-Ruiz: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/24dVmdybMczU8CmAmCDJ8E"
+      },
+      "artists": [
+        {
+          "name": "Chachi Ensemle, El",
+          "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 210600,
+      "name": "Almas de Carmin",
+      "url": "https://open.spotify.com/track/2C5dxcLw9FbI60cL3VcaRz"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/4SKgLW5QhafMeJocwxAleS"
+      },
+      "artists": [
+        {
+          "name": "El Chachi",
+          "url": "https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210600,
+      "name": "Almas de Carmin",
+      "url": "https://open.spotify.com/track/4CDVoyl3vaBXucVgQ4JtaN"
+    },
+    {
+      "album": {
+        "name": "Manuel El Chachi Lopez-Ruiz: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/28VAWyCBoQfMOTy7WvB2ad"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
+        {
+          "name": "Chachi Ensemle, El",
+          "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210600,
+      "name": "Almas de Carmin",
+      "url": "https://open.spotify.com/track/11BcyI4KFiUgDSKXMGE5qX"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/5XbIzljPb6mwQcQpLnuIMQ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
+        {
+          "name": "Chachi Ensemle, El",
+          "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Almas de Carmin",
+      "url": "https://open.spotify.com/track/6fvEciWFOgKZ7Ez2hGnxlf"
+    },
+    {
+      "album": {
+        "name": "Mediterranea",
+        "url": "https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak"
+      },
+      "artists": [
+        {
+          "name": "Johannes Linstead",
+          "url": "https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264892,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/6ExQLKsX71y57iO7iA8Ggd"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/0PfYBxRtVurOuMWebBmgw9"
+      },
+      "artists": [
+        {
+          "name": "El Mondao",
+          "url": "https://open.spotify.com/artist/6ZWL87UA30dQLCwP9pcJp6"
+        },
+        {
+          "name": "El Mori de Aguilas",
+          "url": "https://open.spotify.com/artist/1uBEhNHvzx8B4cm8ihJKz4"
+        },
+        {
+          "name": "Paco de Sevilla",
+          "url": "https://open.spotify.com/artist/72Ik41iwiim8HUTilM6FSL"
+        },
+        {
+          "name": "Pepe El Marques",
+          "url": "https://open.spotify.com/artist/4mF5KYqhyuBKTZHvnOeGI6"
+        },
+        {
+          "name": "El Fosi",
+          "url": "https://open.spotify.com/artist/0ALDT54x6p28C0xobYE1uZ"
+        },
+        {
+          "name": "Paquito Gomez",
+          "url": "https://open.spotify.com/artist/6msMiaHArZdAQeurrwjKvU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "Ani",
+      "url": "https://open.spotify.com/track/1IhBf3dcL0kRyxQbISW7Jv"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/3yrSGcqHmoqeOZqP1xkRb1"
+      },
+      "artists": [
+        {
+          "name": "El Mondao",
+          "url": "https://open.spotify.com/artist/6ZWL87UA30dQLCwP9pcJp6"
+        },
+        {
+          "name": "El Mori de Aguilas",
+          "url": "https://open.spotify.com/artist/1uBEhNHvzx8B4cm8ihJKz4"
+        },
+        {
+          "name": "Paco de Sevilla",
+          "url": "https://open.spotify.com/artist/72Ik41iwiim8HUTilM6FSL"
+        },
+        {
+          "name": "Pepe El Marques",
+          "url": "https://open.spotify.com/artist/4mF5KYqhyuBKTZHvnOeGI6"
+        },
+        {
+          "name": "El Fosi",
+          "url": "https://open.spotify.com/artist/0ALDT54x6p28C0xobYE1uZ"
+        },
+        {
+          "name": "Paquito Gomez",
+          "url": "https://open.spotify.com/artist/6msMiaHArZdAQeurrwjKvU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229666,
+      "name": "Ani",
+      "url": "https://open.spotify.com/track/2lYEMwBqt1Z5PVuDnIoxrh"
+    },
+    {
+      "album": {
+        "name": "Esencial Enrique Morente",
+        "url": "https://open.spotify.com/album/429mOLPu8Sl3E4Pw5wOPuc"
+      },
+      "artists": [
+        {
+          "name": "Enrique Morente",
+          "url": "https://open.spotify.com/artist/4rJk8GmrNf1g07EsuoZSzJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "Aunque Es de Noche (Tango)",
+      "url": "https://open.spotify.com/track/2Ixtw9MGKVBxaa6aRb43H0"
+    },
+    {
+      "album": {
+        "name": "A Night In Spain",
+        "url": "https://open.spotify.com/album/4QnVrexstmyLM5xO5Una0W"
+      },
+      "artists": [
+        {
+          "name": "Enrique Morente",
+          "url": "https://open.spotify.com/artist/4rJk8GmrNf1g07EsuoZSzJ"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250640,
+      "name": "Aunque Es de Noche (Tango)",
+      "url": "https://open.spotify.com/track/4dZXWwKA8lzOsnd1BVkHSZ"
+    },
+    {
+      "album": {
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/0LdAck9lDEkkfoTnoi43ql"
+      },
+      "artists": [
+        {
+          "name": "Enrique Morente",
+          "url": "https://open.spotify.com/artist/4rJk8GmrNf1g07EsuoZSzJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252880,
+      "name": "Aunque Es de Noche (Tango)",
+      "url": "https://open.spotify.com/track/1y4pC42VYb14C2zztl59ZH"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297800,
+      "name": "Aux Vagues, Mix du Pelerinage",
+      "url": "https://open.spotify.com/track/3Y1Mt1wDksUZXGTaY0jHGO"
+    },
+    {
+      "album": {
+        "name": "Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/3wNmAIO71efs1V7C2qjPZj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 297800,
+      "name": "Aux vagues, mix du p\u00e8lerinage",
+      "url": "https://open.spotify.com/track/3ivU2l42eOkklCwbFeK748"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297800,
+      "name": "Aux vagues, mix du p\u00e8lerinage",
+      "url": "https://open.spotify.com/track/5DvHA9theiQ8yRrhsMqsIb"
+    },
+    {
+      "album": {
+        "name": "Best of Rafa El Tachuela: Flamenco",
+        "url": "https://open.spotify.com/album/1ReQcQyYGGMCGmGglpcq0L"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 270533,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6mRdsz7INXEZjFiPdXBbCp"
+    },
+    {
+      "album": {
+        "name": "Best of Rafa El Tachuela: Flamenco",
+        "url": "https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270533,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/7k9sjRiArRI5IilO6Dl6AA"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/7LX33MEo6gOOVDG0DB3drB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Bjorn Chico Werra",
+          "url": "https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270533,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/729HTgh7htIHseVz4lyrz9"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachliela: Flamenco Romantico",
+        "url": "https://open.spotify.com/album/6yB8gM1O5pLXW8XshuHX8X"
+      },
+      "artists": [
+        {
+          "name": "Bjorn Chico Werra",
+          "url": "https://open.spotify.com/artist/1A4HrEESjDDhDPKjHwxTNk"
+        },
+        {
+          "name": "Thomas Koch",
+          "url": "https://open.spotify.com/artist/0CtjYrZQVXtGjWM0mOjS65"
+        },
+        {
+          "name": "Topo Gioia",
+          "url": "https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8"
+        },
+        {
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270533,
+      "name": "Bailando (Dancing)",
+      "url": "https://open.spotify.com/track/6ejiazJO470Ns1jVbiyZfW"
+    },
+    {
+      "album": {
+        "name": "Barcelona Nights: The Best Of Ottmar Liebert Volume One",
+        "url": "https://open.spotify.com/album/0o91xvgRJz0ZLb5cCPzFo8"
+      },
+      "artists": [
+        {
+          "name": "Ottmar Liebert",
+          "url": "https://open.spotify.com/artist/1AhYnfs5mzb3ennyLFXlYD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246693,
+      "name": "Barcelona Nights",
+      "url": "https://open.spotify.com/track/2rJY1HlLcOXsQYMPUnhQxa"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/4SKgLW5QhafMeJocwxAleS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
+        {
+          "name": "El Chachi",
+          "url": "https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "Buleria de Manuel",
+      "url": "https://open.spotify.com/track/3LVBA3pqKNcNFyWOVjQOlI"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/7dIgGhYPjc6AC9tT8a5wfj"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
+        {
+          "name": "El Chachi",
+          "url": "https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234373,
+      "name": "Buleria de Manuel",
+      "url": "https://open.spotify.com/track/4fuHwoGTmKKJOq2gZHOQit"
+    },
+    {
+      "album": {
+        "name": "Voz del Alba",
+        "url": "https://open.spotify.com/album/2xb8HjC4SXUB46MWJXvDHc"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264906,
+      "name": "Buler\u00edas de Jerez",
+      "url": "https://open.spotify.com/track/2NmNk7wMSJxyxUv1RuQYno"
+    },
+    {
+      "album": {
+        "name": "Voz del Alba",
+        "url": "https://open.spotify.com/album/68aC5vlZj8hH3BjgiZgLn6"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264906,
+      "name": "Buler\u00edas de Jerez",
+      "url": "https://open.spotify.com/track/4FPOEn0Cw8cmEu4sxo7uRI"
+    },
+    {
+      "album": {
+        "name": "Voz del Alba",
+        "url": "https://open.spotify.com/album/3JGbQd6AttYZuvkl1GdGxt"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/6LMLp1gpyFAI4Sc6NkgPqB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Buler\u00edas de Jerez",
+      "url": "https://open.spotify.com/track/6WuYlzvZsSSeldas0MgH56"
+    },
+    {
+      "album": {
+        "name": "Mosaico",
+        "url": "https://open.spotify.com/album/6PAB5rJADQ7HFjp0fzKjba"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274133,
+      "name": "Bumblebeat",
+      "url": "https://open.spotify.com/track/0aiqrNJkcz1xDGUD8HLrRz"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK"
+      },
+      "artists": [
+        {
+          "name": "Vasco Hernandez",
+          "url": "https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM"
+        },
+        {
+          "name": "Vanesa Lledo",
+          "url": "https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP"
+        },
+        {
+          "name": "Diego el Gavi",
+          "url": "https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9"
+        },
+        {
+          "name": "Mariano Martos",
+          "url": "https://open.spotify.com/artist/4IJDMdZIPM7TrCRqG1mbxM"
+        },
+        {
+          "name": "Violeta Barrio",
+          "url": "https://open.spotify.com/artist/312QqHYy6WuciQQCuWsguB"
+        },
+        {
+          "name": "Joao Balao",
+          "url": "https://open.spotify.com/artist/2KZpjZrljn55KF40jzoqMr"
+        },
+        {
+          "name": "Carlos Mil-Homens",
+          "url": "https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211333,
+      "name": "Cal y Arena",
+      "url": "https://open.spotify.com/track/0goLhjfcuuCuc8AwMEGCov"
+    },
+    {
+      "album": {
+        "name": "Luz De Otra Manera",
+        "url": "https://open.spotify.com/album/6TVAcRyDCNLiE8Twv9JHq3"
+      },
+      "artists": [
+        {
+          "name": "Vasco Hernandez",
+          "url": "https://open.spotify.com/artist/5qHWYMAzg5sEONXNtiqzAM"
+        },
+        {
+          "name": "Vanesa Lledo",
+          "url": "https://open.spotify.com/artist/6db18gdaJ3buJIpjmAxaLP"
+        },
+        {
+          "name": "Diego el Gavi",
+          "url": "https://open.spotify.com/artist/2FuC6pBl9eslfd4a8udMO9"
+        },
+        {
+          "name": "Mariano Martos",
+          "url": "https://open.spotify.com/artist/4IJDMdZIPM7TrCRqG1mbxM"
+        },
+        {
+          "name": "Violeta Barrio",
+          "url": "https://open.spotify.com/artist/312QqHYy6WuciQQCuWsguB"
+        },
+        {
+          "name": "Joao Balao",
+          "url": "https://open.spotify.com/artist/2KZpjZrljn55KF40jzoqMr"
+        },
+        {
+          "name": "Carlos Mil-Homens",
+          "url": "https://open.spotify.com/artist/2H2PjehaUM4tOJY7BwTv0T"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Cal y Arena (Lime and Sand)",
+      "url": "https://open.spotify.com/track/0ztlNAjWEX2n6EwU47nAWQ"
+    },
+    {
+      "album": {
+        "name": "Spanish Tapas Bar, Vol. 2",
+        "url": "https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Elias Duran",
+          "url": "https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Cancion de la Luna",
+      "url": "https://open.spotify.com/track/22jn5snbSZJsEamjIogEEH"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/67Ory8eCmGeGNUA3j0wvpd"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218750,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/13JyTmrmvmcu7kmehSQ0KV"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/5qyHysxc3nUu7AIHEUcjFg"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218750,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/2sscPI4Kun9uBDjtlQtOb1"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/1fJQeSf3Fqub3crz84vr59"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 221240,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/3xLI0IZFsFPa2M18rOIPSV"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC"
+      },
+      "artists": [
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "El Lerele",
+      "url": "https://open.spotify.com/track/2o0lsWNI9sc0VGMPKarlsq"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/6T2VD3jsdAxlDqHEaT62bN"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178200,
+      "name": "El Lerele",
+      "url": "https://open.spotify.com/track/0vAIMY4e3ucMxcyf1Bwe3m"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181200,
+      "name": "El Lerele",
+      "url": "https://open.spotify.com/track/7A1prltPZsLqZ1iTROIkhz"
+    },
+    {
+      "album": {
+        "name": "Temperamento: Traditional Music from Spain",
+        "url": "https://open.spotify.com/album/0QuC4QqaKPp40a7iX6Lo6q"
+      },
+      "artists": [
+        {
+          "name": "Mari Nieto",
+          "url": "https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj"
+        },
+        {
+          "name": "Juan Antonio Torres",
+          "url": "https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw"
+        },
+        {
+          "name": "Viguela",
+          "url": "https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350040,
+      "name": "En la Mancha",
+      "url": "https://open.spotify.com/track/1Hrc1sOnUjhnCNWJDLogXv"
+    },
+    {
+      "album": {
+        "name": "Temperamento: Traditional Music from Spain",
+        "url": "https://open.spotify.com/album/7hlw3I2DL1JV4uw99h5BtC"
+      },
+      "artists": [
+        {
+          "name": "Mari Nieto",
+          "url": "https://open.spotify.com/artist/1kpBaXhyD5w2NMYoklvChj"
+        },
+        {
+          "name": "Juan Antonio Torres",
+          "url": "https://open.spotify.com/artist/1JXR84Lo1dOJcc8re1H5lw"
+        },
+        {
+          "name": "Viguela",
+          "url": "https://open.spotify.com/artist/2MPy4JFvIlApj1PbxNTHBF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350040,
+      "name": "En la Mancha",
+      "url": "https://open.spotify.com/track/6qixM3ocxbC7JzrDg2YwrD"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "En Memoria a Federico",
+      "url": "https://open.spotify.com/track/5flkDyefFtVmYqYhidHsOq"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/59bN67Lie9iVtKMdpo4Yu8"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222826,
+      "name": "En Memoria a Federico",
+      "url": "https://open.spotify.com/track/5y6Z6KfcoPRrSCyxBbxhH0"
+    },
+    {
+      "album": {
+        "name": "Mi Historia: Paco De Lucia",
+        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360426,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
+    },
+    {
+      "album": {
+        "name": "El Flamenco es... Paco De Lucia",
+        "url": "https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm"
+    },
+    {
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248466,
+      "name": "Esmeralda y Enrique",
+      "url": "https://open.spotify.com/track/3ECQbH2Pj8fPCefI60bUPK"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/59bN67Lie9iVtKMdpo4Yu8"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248466,
+      "name": "Esmeralda y Enrique",
+      "url": "https://open.spotify.com/track/3cJiN4uqv4Wv3GbgEBWnKn"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Fuera de mi",
+      "url": "https://open.spotify.com/track/7tbYo2WPobHpu1KF4JOnyf"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a"
+      },
+      "artists": [
+        {
+          "name": "Jose El France",
+          "url": "https://open.spotify.com/artist/6VZVzmId277YqhfQnRRZjo"
+        },
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180600,
+      "name": "Fuera de Mi",
+      "url": "https://open.spotify.com/track/7yGNcxiq5Xj0qNRBKHvmuU"
+    },
+    {
+      "album": {
+        "name": "Best of Flamenco",
+        "url": "https://open.spotify.com/album/7CGCjZCpfPTQpw1TZTXrVF"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247760,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/7BpuczdmuObkZkE0Mt1G4w"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachuela: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/3MOuR4Uu3xqbvWbktOGODk"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/0Movfm8qJpJcmQrt3ZrQKH"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/542MOqQNmcQPewvOSAtexW"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247800,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/2MJzdb9iE5VoRb76i1rnKq"
+    },
+    {
+      "album": {
+        "name": "Gypsy Flame",
+        "url": "https://open.spotify.com/album/1o7kL55w6IvIGz4mfWJjfu"
+      },
+      "artists": [
+        {
+          "name": "Armik",
+          "url": "https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "Gypsy Flame",
+      "url": "https://open.spotify.com/track/1VQwO0EPtJViDEsqLpsnV1"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166000,
+      "name": "Hazme Prisionero",
+      "url": "https://open.spotify.com/track/0BeZReLbIi3pR5fTG55Jcd"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Hazme prisionero",
+      "url": "https://open.spotify.com/track/3rj1n9yIPievM2BnHm2JIB"
+    },
+    {
+      "album": {
+        "name": "Spanish Tapas Bar, Vol. 2",
+        "url": "https://open.spotify.com/album/67rNWYVgI01pHZ80vFfVFs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Elias Duran",
+          "url": "https://open.spotify.com/artist/34MmLK8qhpf5Q0BfxXs7UR"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290013,
+      "name": "Herencia Latina",
+      "url": "https://open.spotify.com/track/6JHbrhPppO84ab8K7cHPA1"
+    },
+    {
+      "album": {
+        "name": "Heat of the Sun",
+        "url": "https://open.spotify.com/album/3VfS4TjmlMevQ2GNPSjS6k"
+      },
+      "artists": [
+        {
+          "name": "Strunz & Farah",
+          "url": "https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Jardin",
+      "url": "https://open.spotify.com/track/1tlV5fKrV7aojTanUs3ahZ"
+    },
+    {
+      "album": {
+        "name": "Latin Guitar, Creol - Acoustic Guitar",
+        "url": "https://open.spotify.com/album/3mHceGmx6av5rNkzFwhfu6"
+      },
+      "artists": [
+        {
+          "name": "Creol",
+          "url": "https://open.spotify.com/artist/4qAhA0go0zXBxDIfo7mWT3"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "La Galleguita (Alex Fox)",
+      "url": "https://open.spotify.com/track/5xA18rxmeheOcwI6Df6lBG"
+    },
+    {
+      "album": {
+        "name": "Flamenco Fuego",
+        "url": "https://open.spotify.com/album/0GhSMpmxwC9fCFLhtg9ZRh"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 406986,
+      "name": "La Rondena",
+      "url": "https://open.spotify.com/track/4DiO8HRkbamEcXNn0uprKU"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/2eJahO4Ks4kkchZpUPBL8D"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407133,
+      "name": "La Rondena",
+      "url": "https://open.spotify.com/track/5nLAMwCOLkoXAjq0y4lfVK"
+    },
+    {
+      "album": {
+        "name": "Flamenco Andaluc\u00eda",
+        "url": "https://open.spotify.com/album/59bN67Lie9iVtKMdpo4Yu8"
+      },
+      "artists": [
+        {
+          "name": "Danza Fuego",
+          "url": "https://open.spotify.com/artist/48bWbzfBH3pdeDark30gJ4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 407133,
+      "name": "La Rondena",
+      "url": "https://open.spotify.com/track/7AjcKhX8wIhfaVn9COqEhC"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/0ChzWpUTTbq6PRut9pQdSI"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 357640,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/1rvyOxnUuxI8jfYoRpZ4FG"
+    },
+    {
+      "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/04Lg6FQ96wvUTTDYMci77n"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357640,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/5wNQbeRx1DptmLPRCsMDQ3"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/2SzCEkagSUpHRiNWtPECSK"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        },
+        {
+          "name": "Gonzalo Palomo",
+          "url": "https://open.spotify.com/artist/0fL0OXmakVB0RSG0QQzxTi"
+        },
+        {
+          "name": "Sonia Mej\u00edas",
+          "url": "https://open.spotify.com/artist/5gvnLJhnPVD91ZkvPLrisC"
+        },
+        {
+          "name": "Juan Aracil Carlos",
+          "url": "https://open.spotify.com/artist/0btAvUr56TOMxqiKQjCPOM"
+        },
+        {
+          "name": "Wafir Sheik",
+          "url": "https://open.spotify.com/artist/1LufpYEgllyFnTUo3tyAXB"
+        },
+        {
+          "name": "Mario Diaz",
+          "url": "https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh"
+        },
+        {
+          "name": "Manuel Rubio",
+          "url": "https://open.spotify.com/artist/3yM8udf1c9f7sdeph5ZBjJ"
+        },
+        {
+          "name": "Jose Casta\u00f1ares",
+          "url": "https://open.spotify.com/artist/3bAQm9pDs5rUiFvg58Rm8n"
+        },
+        {
+          "name": "Miguel Campello",
+          "url": "https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg"
+        },
+        {
+          "name": "Davinia Ba\u00f1o",
+          "url": "https://open.spotify.com/artist/3yXpWNnEFxPTQka0cJLtvD"
+        },
+        {
+          "name": "Victor Iniesta",
+          "url": "https://open.spotify.com/artist/65Zc93wh835IAssU2YikJm"
+        },
+        {
+          "name": "David Cobo",
+          "url": "https://open.spotify.com/artist/4nybiAqgM2xTFM6FNjXQx8"
+        },
+        {
+          "name": "Nantha Kumar",
+          "url": "https://open.spotify.com/artist/18f7smzwMUjBKFOk2T7dlS"
+        },
+        {
+          "name": "Ido Segal",
+          "url": "https://open.spotify.com/artist/7dl1nPhHrV4wMrOGmO2m7E"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 355400,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/3eE7e0x4xGmepgVy8QPywm"
+    },
+    {
+      "album": {
+        "name": "Flamenco Passion",
+        "url": "https://open.spotify.com/album/6T2VD3jsdAxlDqHEaT62bN"
+      },
+      "artists": [
+        {
+          "name": "La Jose",
+          "url": "https://open.spotify.com/artist/55o2GKmozOaWhYDBaFBPC2"
+        },
+        {
+          "name": "Victor Iniesta",
+          "url": "https://open.spotify.com/artist/65Zc93wh835IAssU2YikJm"
+        },
+        {
+          "name": "David Cobo",
+          "url": "https://open.spotify.com/artist/4nybiAqgM2xTFM6FNjXQx8"
+        },
+        {
+          "name": "Nantha Kumar",
+          "url": "https://open.spotify.com/artist/18f7smzwMUjBKFOk2T7dlS"
+        },
+        {
+          "name": "Ido Segal",
+          "url": "https://open.spotify.com/artist/7dl1nPhHrV4wMrOGmO2m7E"
+        },
+        {
+          "name": "Gonzalo Palomo",
+          "url": "https://open.spotify.com/artist/0fL0OXmakVB0RSG0QQzxTi"
+        },
+        {
+          "name": "Sonia Mej\u00edas",
+          "url": "https://open.spotify.com/artist/5gvnLJhnPVD91ZkvPLrisC"
+        },
+        {
+          "name": "Juan Aracil Carlos",
+          "url": "https://open.spotify.com/artist/0btAvUr56TOMxqiKQjCPOM"
+        },
+        {
+          "name": "Wafir Sheik",
+          "url": "https://open.spotify.com/artist/1LufpYEgllyFnTUo3tyAXB"
+        },
+        {
+          "name": "Mario Diaz",
+          "url": "https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh"
+        },
+        {
+          "name": "Manuel Rubio",
+          "url": "https://open.spotify.com/artist/3yM8udf1c9f7sdeph5ZBjJ"
+        },
+        {
+          "name": "Jose Casta\u00f1ares",
+          "url": "https://open.spotify.com/artist/3bAQm9pDs5rUiFvg58Rm8n"
+        },
+        {
+          "name": "Miguel Campello",
+          "url": "https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg"
+        },
+        {
+          "name": "Davinia Ba\u00f1o",
+          "url": "https://open.spotify.com/artist/3yXpWNnEFxPTQka0cJLtvD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 355400,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/3WuLf1UZAMhUnZbhEsGgn0"
+    },
+    {
+      "album": {
+        "name": "Manuel El Chachi Lopez-Ruiz: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/24dVmdybMczU8CmAmCDJ8E"
+      },
+      "artists": [
+        {
+          "name": "Chachi Ensemle, El",
+          "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 197146,
+      "name": "Lel-lere-bay-bay",
+      "url": "https://open.spotify.com/track/38hZfOZ0EWf33WLwcTh9tH"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/7dIgGhYPjc6AC9tT8a5wfj"
+      },
+      "artists": [
+        {
+          "name": "El Chachi",
+          "url": "https://open.spotify.com/artist/4n875W84fNuDHcf9uD9D2R"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195226,
+      "name": "Lel-Lere-Bay-Bay",
+      "url": "https://open.spotify.com/track/7miCNgQkLY551JIYz9Uw29"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/5XbIzljPb6mwQcQpLnuIMQ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lopez-Ruiz",
+          "url": "https://open.spotify.com/artist/6xhZFDNkudQnLXBSMI4AUo"
+        },
+        {
+          "name": "Chachi Ensemle, El",
+          "url": "https://open.spotify.com/artist/0TEof0oj8lFZMZv3wAvAZE"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Lel-Lere-Bay-Bay",
+      "url": "https://open.spotify.com/track/3zeDaOPjtTDyJv1Gj7cwdk"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachuela: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/2Ua0wHzned6093d5fKmGBX"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136400,
+      "name": "Mi Barrio, Ciudad Sin Ley",
+      "url": "https://open.spotify.com/track/0fH0q5ySNLjRdu6pzRaXzY"
+    },
+    {
+      "album": {
+        "name": "Absolute Flamenco",
+        "url": "https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp"
+      },
+      "artists": [
+        {
+          "name": "Andres Fernandez Amador",
+          "url": "https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Mi barrio, ciudad sin ley",
+      "url": "https://open.spotify.com/track/5kQyFHsAwgWrKGKv7dkWzj"
+    },
+    {
+      "album": {
+        "name": "El origen de la leyenda",
+        "url": "https://open.spotify.com/album/5puBCIL3oMbkrYmsdL0vPT"
+      },
+      "artists": [
+        {
+          "name": "Lole Y Manuel",
+          "url": "https://open.spotify.com/artist/698bm15EgCHVHJovNestUx"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285586,
+      "name": "Nuevo d\u00eda",
+      "url": "https://open.spotify.com/track/4bFaDjWTSbudJdO9J0fp71"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a"
+      },
+      "artists": [
+        {
+          "name": "Antoine Kiko Motos",
+          "url": "https://open.spotify.com/artist/2CJJeKI1vkYFxs0HoD5HmE"
+        },
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276400,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/5hfkO74XBzG9VocAwNxnJX"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/5n7F3uCgTypj8anKwxQB5l"
+    },
+    {
+      "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "album": {
+        "name": "Quiereme Corazon Quiereme",
+        "url": "https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Quiereme Corazon Quiereme",
+      "url": "https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M"
+    },
+    {
+      "album": {
+        "name": "Americas",
+        "url": "https://open.spotify.com/album/4N1aKzXuJLHXBW6Hp5ZxSw"
+      },
+      "artists": [
+        {
+          "name": "Strunz & Farah",
+          "url": "https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292426,
+      "name": "Rayo",
+      "url": "https://open.spotify.com/track/5FpJy5woYptiLlLY4M8b4t"
+    },
+    {
+      "album": {
+        "name": "Azahara",
+        "url": "https://open.spotify.com/album/7woAczJxgzS1fiARwlCp96"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Salobre",
+      "url": "https://open.spotify.com/track/3LEPJoznozSSiHQXSn8UAT"
+    },
+    {
+      "album": {
+        "name": "Guitarra Mistica",
+        "url": "https://open.spotify.com/album/45KOqLRGUYnnA9l59l0eaU"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344320,
+      "name": "Samba Delight",
+      "url": "https://open.spotify.com/track/2SbLBxUtlSzz8nIYFQstwq"
+    },
+    {
+      "album": {
+        "name": "Jaleo: Flamenco Live",
+        "url": "https://open.spotify.com/album/1UwLILJa8ApmLI5EAhy28w"
+      },
+      "artists": [
+        {
+          "name": "Jaleo",
+          "url": "https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399320,
+      "name": "Siguiriya",
+      "url": "https://open.spotify.com/track/4uN1QNG2bs8PlSW1nYP2B6"
+    },
+    {
+      "album": {
+        "name": "Jaleo: Flamenco Live",
+        "url": "https://open.spotify.com/album/3PjkbEd5jJoVxKk2u5yL6V"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Jaleo",
+          "url": "https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 399320,
+      "name": "Siguiriya",
+      "url": "https://open.spotify.com/track/6b8ySeWH25bSEB36cFgjvh"
+    },
+    {
+      "album": {
+        "name": "Jaleo: Flamenco Live",
+        "url": "https://open.spotify.com/album/1UwLILJa8ApmLI5EAhy28w"
+      },
+      "artists": [
+        {
+          "name": "Jaleo",
+          "url": "https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569400,
+      "name": "Solea por Buleria",
+      "url": "https://open.spotify.com/track/2dF6NArfoU0loSNs3VtRpa"
+    },
+    {
+      "album": {
+        "name": "Jaleo: Flamenco Live",
+        "url": "https://open.spotify.com/album/3PjkbEd5jJoVxKk2u5yL6V"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Jaleo",
+          "url": "https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 569400,
+      "name": "Solea por Buleria",
+      "url": "https://open.spotify.com/track/6rDLKncjupHtPDGX9BBNZT"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4OdCjbSwaBSAXZ3rf72r9a"
+      },
+      "artists": [
+        {
+          "name": "Gerard Bik Regis",
+          "url": "https://open.spotify.com/artist/51skdHapqPhKzvr55xfzSb"
+        },
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276600,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5OmA6yvLb3PNmN8LJlZHYs"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z"
+    },
+    {
+      "album": {
+        "name": "Flamenco (Live)",
+        "url": "https://open.spotify.com/album/7D9PKbprgebAcdQnQ96PhZ"
+      },
+      "artists": [
+        {
+          "name": "Jaleo",
+          "url": "https://open.spotify.com/artist/5Q48J2yjDOKzNIdmY0oExU"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 569400,
+      "name": "Sole\u00e1 por Buler\u00eda (Live)",
+      "url": "https://open.spotify.com/track/105KaRZeCfQUORCuATSch0"
+    },
+    {
+      "album": {
+        "name": "Sost\u00e9n Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59HfyTWuPadCXE8Nd7q3ij"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Sost\u00e9n Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2VL18BYruMoFmrX2FOH0Kh"
+    },
+    {
+      "album": {
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/7n9XvIP2pVI53sbdEvbaTX"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lopez",
+          "url": "https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240512,
+      "name": "The Flavor",
+      "url": "https://open.spotify.com/track/3oxqugZiGg6uIzY4beGaCx"
+    },
+    {
+      "album": {
+        "name": "Tres Amores",
+        "url": "https://open.spotify.com/album/01HM86e0bYj6oqXdCJ03AN"
+      },
+      "artists": [
+        {
+          "name": "Julian Vigil",
+          "url": "https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145625,
+      "name": "Tres Amores",
+      "url": "https://open.spotify.com/track/7DpDb8R3OxTr3FaiKwhYKB"
+    },
+    {
+      "album": {
+        "name": "Un Jard\u00edn De Amor",
+        "url": "https://open.spotify.com/album/3nJ6jn0yfUEl1ic8qnGqiK"
+      },
+      "artists": [
+        {
+          "name": "Graciela Flores",
+          "url": "https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131949,
+      "name": "Un Jard\u00edn De Amor",
+      "url": "https://open.spotify.com/track/0tB9K5yKFC9vJPsZsZB17l"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC"
+      },
+      "artists": [
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 146293,
+      "name": "Veras",
+      "url": "https://open.spotify.com/track/2INMbTvlLhGs1b1O3EYhiS"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9"
+      },
+      "artists": [
+        {
+          "name": "Domingo Dominguez",
+          "url": "https://open.spotify.com/artist/3S1TgZkbTq1XMUoHKzzi8R"
+        },
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146293,
+      "name": "Veras",
+      "url": "https://open.spotify.com/track/5lhhRaZZkvzjAWUXKUpay5"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "Veras",
+      "url": "https://open.spotify.com/track/1brVVsBeE4MikwI2nO3ACz"
+    },
+    {
+      "album": {
+        "name": "Grupo Macarena: Gypsy Flamenco Rumba",
+        "url": "https://open.spotify.com/album/6Pth02lvYNd5mEAISGGb9r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Vete de mi vera",
+      "url": "https://open.spotify.com/track/14WUytY9xks121FAmVkwxo"
+    },
+    {
+      "album": {
+        "name": "Discover Flamenco with ARC Music",
+        "url": "https://open.spotify.com/album/2a1vFVlI5sUOoZMCFBGWRV"
+      },
+      "artists": [
+        {
+          "name": "Macarena",
+          "url": "https://open.spotify.com/artist/3xQTG5piAM8ZaHHFYzLBD7"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224000,
+      "name": "Vete de Mi Vera",
+      "url": "https://open.spotify.com/track/5nAQQFOetddZYv3RcuRCMA"
+    },
+    {
+      "album": {
+        "name": "Rafa El Tachuela: Gypsy Rumba Flamenco",
+        "url": "https://open.spotify.com/album/2Ua0wHzned6093d5fKmGBX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macarena",
+          "url": "https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "Vete de M\u00ed Vera",
+      "url": "https://open.spotify.com/track/3CISlF5FhNkOEsmrgGhOsm"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC"
+      },
+      "artists": [
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 254400,
+      "name": "Y dejame con mi sino",
+      "url": "https://open.spotify.com/track/1TpfaYxONeYxEzpm2pIolj"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX"
+      },
+      "artists": [
+        {
+          "name": "Los Alhama",
+          "url": "https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Y Dejame Con Mi Sino",
+      "url": "https://open.spotify.com/track/0cb1tnOvlCReBfsAOPgyUJ"
+    },
+    {
+      "album": {
+        "name": "Traditional Gypsy Flamenco",
+        "url": "https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9"
+      },
+      "artists": [
+        {
+          "name": "Mari Moreno Burgos",
+          "url": "https://open.spotify.com/artist/5ubXzkE3O46cIwmx0AH2UD"
+        },
+        {
+          "name": "Alhama, Los",
+          "url": "https://open.spotify.com/artist/6Gg623dfCM6CrYGBt0twPX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254400,
+      "name": "Y dejame con mi sino",
+      "url": "https://open.spotify.com/track/1IiEYGCYwmUv97hhpcEzvG"
+    },
+    {
+      "album": {
+        "name": "Best of Flamenco",
+        "url": "https://open.spotify.com/album/2B0L8ZdN9CoYJXjvcWnRfB"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 255800,
+      "name": "Yerba buena",
+      "url": "https://open.spotify.com/track/0fY29wb0ejG5LEXw6StNGC"
+    },
+    {
+      "album": {
+        "name": "Flamenco",
+        "url": "https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "Yerba buena",
+      "url": "https://open.spotify.com/track/2ytD1he4cklb86ZbY6Bnra"
+    },
+    {
+      "album": {
+        "name": "Best of Flamenco",
+        "url": "https://open.spotify.com/album/7CGCjZCpfPTQpw1TZTXrVF"
+      },
+      "artists": [
+        {
+          "name": "Rafa El Tachuela",
+          "url": "https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
+        },
+        {
+          "name": "La Moraima",
+          "url": "https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z"
+        },
+        {
+          "name": "Hossam Ramzy",
+          "url": "https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255800,
+      "name": "Yerba buena (Spain)",
+      "url": "https://open.spotify.com/track/6xeQmRp0bfb9YrLU6gWh9H"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Vpt0fhumU1"
 }

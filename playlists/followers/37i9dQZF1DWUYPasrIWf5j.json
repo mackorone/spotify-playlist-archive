@@ -1,577 +1,2685 @@
 {
-  "2022-06-02": 20778,
-  "2022-06-03": 20891,
-  "2022-06-04": 20987,
-  "2022-06-05": 21110,
-  "2022-06-06": 21251,
-  "2022-06-07": 21354,
-  "2022-06-08": 21480,
-  "2022-06-09": 21583,
-  "2022-06-10": 21681,
-  "2022-06-11": 21795,
-  "2022-06-12": 21943,
-  "2022-06-13": 22065,
-  "2022-06-14": 22179,
-  "2022-06-15": 22282,
-  "2022-06-16": 22377,
-  "2022-06-17": 22491,
-  "2022-06-18": 22608,
-  "2022-06-19": 22854,
-  "2022-06-20": 22854,
-  "2022-06-21": 22967,
-  "2022-06-22": 23227,
-  "2022-06-23": 23227,
-  "2022-06-24": 23351,
-  "2022-06-25": 23457,
-  "2022-06-26": 23457,
-  "2022-06-27": 23710,
-  "2022-06-28": 23811,
-  "2022-06-29": 23927,
-  "2022-06-30": 24052,
-  "2022-07-01": 24157,
-  "2022-07-02": 24253,
-  "2022-07-03": 24378,
-  "2022-07-04": 24508,
-  "2022-07-05": 24649,
-  "2022-07-06": 24793,
-  "2022-07-07": 24907,
-  "2022-07-08": 25038,
-  "2022-07-09": 25170,
-  "2022-07-10": 25308,
-  "2022-07-11": 25440,
-  "2022-07-12": 25557,
-  "2022-07-13": 25689,
-  "2022-07-14": 25814,
-  "2022-07-15": 25955,
-  "2022-07-16": 26079,
-  "2022-07-17": 26198,
-  "2022-07-18": 26346,
-  "2022-07-19": 26476,
-  "2022-07-20": 26621,
-  "2022-07-21": 26778,
-  "2022-07-22": 26917,
-  "2022-07-23": 27054,
-  "2022-07-24": 27193,
-  "2022-07-25": 27321,
-  "2022-07-26": 27455,
-  "2022-07-27": 27564,
-  "2022-07-28": 27718,
-  "2022-07-29": 27854,
-  "2022-07-30": 28075,
-  "2022-07-31": 28075,
-  "2022-08-01": 28215,
-  "2022-08-02": 28502,
-  "2022-08-03": 28502,
-  "2022-08-04": 28628,
-  "2022-08-05": 28772,
-  "2022-08-06": 28935,
-  "2022-08-07": 29076,
-  "2022-08-08": 29236,
-  "2022-08-09": 29374,
-  "2022-08-10": 29497,
-  "2022-08-11": 29616,
-  "2022-08-12": 29758,
-  "2022-08-13": 29881,
-  "2022-08-14": 30000,
-  "2022-08-15": 30111,
-  "2022-08-16": 30235,
-  "2022-08-17": 30372,
-  "2022-08-18": 30493,
-  "2022-08-19": 30601,
-  "2022-08-20": 30723,
-  "2022-08-21": 30848,
-  "2022-08-22": 30984,
-  "2022-08-23": 31099,
-  "2022-08-24": 31219,
-  "2022-08-25": 31351,
-  "2022-08-26": 31477,
-  "2022-08-27": 31596,
-  "2022-08-28": 31704,
-  "2022-08-29": 31834,
-  "2022-08-30": 31951,
-  "2022-08-31": 32062,
-  "2022-09-01": 32175,
-  "2022-09-02": 32300,
-  "2022-09-03": 32426,
-  "2022-09-04": 32542,
-  "2022-09-05": 32673,
-  "2022-09-06": 32796,
-  "2022-09-07": 32937,
-  "2022-09-09": 33152,
-  "2022-09-10": 33257,
-  "2022-09-11": 33360,
-  "2022-09-12": 33493,
-  "2022-09-13": 33605,
-  "2022-09-15": 33835,
-  "2022-09-16": 33948,
-  "2022-09-17": 34067,
-  "2022-09-18": 34174,
-  "2022-09-19": 34277,
-  "2022-09-20": 34380,
-  "2022-09-21": 34487,
-  "2022-09-22": 34594,
-  "2022-09-23": 34696,
-  "2022-09-24": 34819,
-  "2022-09-25": 34946,
-  "2022-09-26": 35059,
-  "2022-09-27": 35151,
-  "2022-09-28": 35267,
-  "2022-09-29": 35401,
-  "2022-09-30": 35522,
-  "2022-10-01": 35613,
-  "2022-10-02": 35709,
-  "2022-10-03": 35820,
-  "2022-10-04": 35911,
-  "2022-10-05": 36029,
-  "2022-10-06": 36154,
-  "2022-10-07": 36296,
-  "2022-10-08": 36397,
-  "2022-10-09": 36577,
-  "2022-10-10": 36619,
-  "2022-10-11": 36747,
-  "2022-10-12": 36853,
-  "2022-10-13": 36952,
-  "2022-10-14": 37068,
-  "2022-10-15": 37184,
-  "2022-10-16": 37282,
-  "2022-10-17": 37417,
-  "2022-10-18": 37545,
-  "2022-10-19": 37656,
-  "2022-10-20": 37791,
-  "2022-10-21": 37903,
-  "2022-10-22": 38030,
-  "2022-10-23": 38156,
-  "2022-10-24": 38283,
-  "2022-10-25": 38457,
-  "2022-10-26": 38580,
-  "2022-10-27": 38702,
-  "2022-10-28": 38787,
-  "2022-10-29": 38894,
-  "2022-10-30": 39004,
-  "2022-10-31": 39119,
-  "2022-11-01": 39208,
-  "2022-11-02": 39302,
-  "2022-11-03": 39398,
-  "2022-11-04": 39508,
-  "2022-11-05": 39603,
-  "2022-11-06": 39704,
-  "2022-11-07": 39811,
-  "2022-11-08": 39906,
-  "2022-11-09": 40008,
-  "2022-11-10": 40110,
-  "2022-11-11": 40195,
-  "2022-11-12": 40309,
-  "2022-11-13": 40392,
-  "2022-11-14": 40493,
-  "2022-11-15": 40592,
-  "2022-11-16": 40688,
-  "2022-11-17": 40814,
-  "2022-11-18": 40854,
-  "2022-11-19": 40841,
-  "2022-11-20": 40877,
-  "2022-11-21": 40960,
-  "2022-11-22": 41053,
-  "2022-11-23": 41165,
-  "2022-11-24": 41351,
-  "2022-11-25": 41579,
-  "2022-11-26": 41739,
-  "2022-11-27": 41843,
-  "2022-11-28": 41935,
-  "2022-11-29": 42055,
-  "2022-11-30": 42167,
-  "2022-12-01": 42291,
-  "2022-12-02": 42409,
-  "2022-12-03": 42455,
-  "2022-12-04": 42584,
-  "2022-12-05": 42702,
-  "2022-12-06": 42788,
-  "2022-12-07": 42898,
-  "2022-12-08": 43010,
-  "2022-12-09": 43128,
-  "2022-12-10": 43229,
-  "2022-12-11": 43337,
-  "2022-12-12": 43449,
-  "2022-12-13": 43598,
-  "2022-12-14": 43702,
-  "2022-12-15": 43808,
-  "2022-12-16": 43931,
-  "2022-12-17": 44040,
-  "2022-12-18": 44146,
-  "2022-12-19": 44234,
-  "2022-12-20": 44439,
-  "2022-12-21": 44439,
-  "2022-12-22": 44552,
-  "2022-12-24": 44729,
-  "2022-12-25": 44817,
-  "2022-12-26": 44897,
-  "2022-12-27": 44983,
-  "2022-12-28": 45097,
-  "2022-12-29": 45214,
-  "2022-12-30": 45342,
-  "2022-12-31": 45469,
-  "2023-01-01": 45564,
-  "2023-01-02": 45662,
-  "2023-01-03": 45807,
-  "2023-01-04": 45936,
-  "2023-01-05": 46095,
-  "2023-01-06": 46294,
-  "2023-01-07": 46494,
-  "2023-01-08": 46534,
-  "2023-01-09": 46670,
-  "2023-01-10": 46846,
-  "2023-01-11": 47023,
-  "2023-01-12": 47186,
-  "2023-01-13": 47345,
-  "2023-01-14": 47607,
-  "2023-01-15": 47645,
-  "2023-01-16": 47791,
-  "2023-01-17": 47926,
-  "2023-01-18": 48056,
-  "2023-01-19": 48181,
-  "2023-01-20": 48322,
-  "2023-01-21": 48484,
-  "2023-01-22": 48637,
-  "2023-01-23": 48798,
-  "2023-01-24": 48943,
-  "2023-01-25": 49115,
-  "2023-01-26": 49277,
-  "2023-01-27": 49454,
-  "2023-01-28": 49598,
-  "2023-01-29": 49774,
-  "2023-01-30": 49905,
-  "2023-01-31": 49905,
-  "2023-02-01": 50217,
-  "2023-02-02": 50379,
-  "2023-02-03": 50520,
-  "2023-02-04": 50659,
-  "2023-02-05": 50772,
-  "2023-02-06": 50930,
-  "2023-02-07": 51077,
-  "2023-02-08": 51388,
-  "2023-02-09": 51388,
-  "2023-02-10": 51549,
-  "2023-02-11": 51692,
-  "2023-02-12": 51986,
-  "2023-02-13": 52113,
-  "2023-02-14": 52113,
-  "2023-02-15": 52249,
-  "2023-02-16": 52377,
-  "2023-02-17": 52538,
-  "2023-02-18": 52799,
-  "2023-02-19": 52821,
-  "2023-02-20": 52934,
-  "2023-02-21": 53075,
-  "2023-02-22": 53235,
-  "2023-02-23": 53364,
-  "2023-02-24": 53512,
-  "2023-02-25": 53703,
-  "2023-02-26": 53800,
-  "2023-02-27": 54084,
-  "2023-02-28": 54084,
-  "2023-03-01": 54240,
-  "2023-03-02": 54390,
-  "2023-03-03": 54520,
-  "2023-03-04": 54644,
-  "2023-03-05": 54937,
-  "2023-03-06": 54937,
-  "2023-03-07": 55092,
-  "2023-03-08": 55203,
-  "2023-03-09": 55341,
-  "2023-03-10": 55530,
-  "2023-03-11": 55668,
-  "2023-03-12": 55809,
-  "2023-03-13": 55956,
-  "2023-03-14": 56105,
-  "2023-03-15": 56276,
-  "2023-03-16": 56422,
-  "2023-03-17": 56422,
-  "2023-03-18": 56714,
-  "2023-03-19": 56879,
-  "2023-03-20": 57011,
-  "2023-03-21": 57157,
-  "2023-03-22": 57336,
-  "2023-03-23": 57510,
-  "2023-03-24": 57510,
-  "2023-03-25": 57774,
-  "2023-03-26": 57936,
-  "2023-03-27": 58059,
-  "2023-03-28": 58185,
-  "2023-03-29": 58342,
-  "2023-03-30": 58586,
-  "2023-03-31": 58586,
-  "2023-04-01": 58736,
-  "2023-04-02": 58864,
-  "2023-04-03": 58998,
-  "2023-04-04": 59129,
-  "2023-04-05": 59243,
-  "2023-04-06": 59374,
-  "2023-04-07": 59480,
-  "2023-04-09": 59769,
-  "2023-04-10": 59909,
-  "2023-04-11": 60136,
-  "2023-04-12": 60136,
-  "2023-04-13": 60274,
-  "2023-04-14": 60384,
-  "2023-04-15": 60512,
-  "2023-04-16": 60626,
-  "2023-04-17": 60732,
-  "2023-04-18": 60847,
-  "2023-04-19": 61010,
-  "2023-04-20": 61139,
-  "2023-04-21": 61251,
-  "2023-04-22": 61356,
-  "2023-04-23": 61476,
-  "2023-04-24": 61619,
-  "2023-04-25": 61736,
-  "2023-04-26": 61911,
-  "2023-04-27": 62050,
-  "2023-04-28": 62152,
-  "2023-04-29": 62282,
-  "2023-04-30": 62387,
-  "2023-05-01": 62495,
-  "2023-05-02": 62626,
-  "2023-05-03": 62760,
-  "2023-05-04": 62882,
-  "2023-05-05": 63031,
-  "2023-05-06": 63186,
-  "2023-05-07": 63322,
-  "2023-05-08": 63454,
-  "2023-05-09": 63578,
-  "2023-05-10": 63701,
-  "2023-05-11": 63829,
-  "2023-05-12": 63950,
-  "2023-05-13": 64075,
-  "2023-05-14": 64219,
-  "2023-05-15": 64345,
-  "2023-05-16": 64479,
-  "2023-05-17": 64626,
-  "2023-05-18": 64749,
-  "2023-05-19": 64907,
-  "2023-05-20": 65200,
-  "2023-05-21": 65200,
-  "2023-05-22": 65200,
-  "2023-05-23": 65509,
-  "2023-05-24": 65740,
-  "2023-05-25": 65776,
-  "2023-05-26": 65911,
-  "2023-05-27": 66064,
-  "2023-05-28": 66229,
-  "2023-05-29": 66229,
-  "2023-05-30": 66489,
-  "2023-05-31": 66610,
-  "2023-06-01": 66732,
-  "2023-06-02": 66875,
-  "2023-06-03": 67005,
-  "2023-06-04": 67125,
-  "2023-06-05": 67231,
-  "2023-06-06": 67359,
-  "2023-06-07": 67485,
-  "2023-06-08": 67608,
-  "2023-06-09": 67698,
-  "2023-06-10": 67826,
-  "2023-06-11": 67935,
-  "2023-06-12": 68079,
-  "2023-06-13": 68204,
-  "2023-06-14": 68332,
-  "2023-06-15": 68430,
-  "2023-06-16": 68541,
-  "2023-06-17": 68672,
-  "2023-06-18": 68803,
-  "2023-06-19": 68885,
-  "2023-06-20": 68995,
-  "2023-06-21": 69104,
-  "2023-06-22": 69237,
-  "2023-06-23": 69349,
-  "2023-06-24": 69462,
-  "2023-06-25": 69574,
-  "2023-06-26": 69681,
-  "2023-06-27": 69789,
-  "2023-06-28": 69901,
-  "2023-06-29": 70001,
-  "2023-06-30": 70121,
-  "2023-07-01": 70346,
-  "2023-07-02": 70346,
-  "2023-07-03": 70450,
-  "2023-07-04": 70581,
-  "2023-07-05": 70720,
-  "2023-07-06": 71008,
-  "2023-07-07": 71008,
-  "2023-07-08": 71138,
-  "2023-07-09": 71259,
-  "2023-07-10": 71383,
-  "2023-07-11": 71482,
-  "2023-07-12": 71606,
-  "2023-07-13": 71709,
-  "2023-07-14": 71802,
-  "2023-07-15": 71893,
-  "2023-07-16": 72030,
-  "2023-07-17": 72167,
-  "2023-07-18": 72265,
-  "2023-07-19": 72390,
-  "2023-07-20": 72489,
-  "2023-07-21": 72621,
-  "2023-07-22": 72722,
-  "2023-07-23": 72845,
-  "2023-07-24": 72968,
-  "2023-07-25": 73070,
-  "2023-07-26": 73171,
-  "2023-07-27": 73270,
-  "2023-07-28": 73373,
-  "2023-07-29": 73483,
-  "2023-07-30": 73588,
-  "2023-07-31": 73706,
-  "2023-08-01": 73802,
-  "2023-08-02": 73887,
-  "2023-08-03": 74009,
-  "2023-08-04": 74103,
-  "2023-08-05": 74211,
-  "2023-08-06": 74439,
-  "2023-08-07": 74439,
-  "2023-08-08": 74545,
-  "2023-08-09": 74679,
-  "2023-08-10": 74797,
-  "2023-08-11": 74909,
-  "2023-08-12": 75015,
-  "2023-08-13": 75134,
-  "2023-08-14": 75237,
-  "2023-08-15": 75423,
-  "2023-08-16": 75423,
-  "2023-08-17": 75536,
-  "2023-08-18": 75642,
-  "2023-08-19": 75745,
-  "2023-08-20": 75854,
-  "2023-08-21": 75972,
-  "2023-08-22": 76099,
-  "2023-08-23": 76214,
-  "2023-08-24": 76340,
-  "2023-08-25": 76450,
-  "2023-08-26": 76548,
-  "2023-08-27": 76658,
-  "2023-08-28": 76773,
-  "2023-08-29": 76909,
-  "2023-08-30": 77015,
-  "2023-08-31": 77130,
-  "2023-09-01": 77326,
-  "2023-09-02": 77326,
-  "2023-09-03": 77402,
-  "2023-09-04": 77472,
-  "2023-09-05": 77557,
-  "2023-09-06": 77637,
-  "2023-09-07": 77730,
-  "2023-09-08": 77842,
-  "2023-09-09": 77958,
-  "2023-09-10": 78043,
-  "2023-09-11": 78139,
-  "2023-09-12": 78209,
-  "2023-09-13": 78314,
-  "2023-09-14": 78393,
-  "2023-09-15": 78481,
-  "2023-09-16": 78559,
-  "2023-09-17": 78643,
-  "2023-09-18": 78737,
-  "2023-09-19": 78846,
-  "2023-09-20": 78930,
-  "2023-09-21": 78994,
-  "2023-09-22": 79097,
-  "2023-09-23": 79187,
-  "2023-09-24": 79273,
-  "2023-09-25": 79347,
-  "2023-09-26": 79442,
-  "2023-09-27": 79492,
-  "2023-09-28": 79572,
-  "2023-09-29": 79641,
-  "2023-09-30": 79725,
-  "2023-10-01": 79798,
-  "2023-10-02": 79862,
-  "2023-10-03": 79941,
-  "2023-10-04": 80004,
-  "2023-10-05": 80064,
-  "2023-10-06": 80121,
-  "2023-10-07": 80168,
-  "2023-10-08": 80231,
-  "2023-10-09": 80287,
-  "2023-10-10": 80348,
-  "2023-10-11": 80483,
-  "2023-10-12": 80483,
-  "2023-10-13": 80538,
-  "2023-10-14": 80603,
-  "2023-10-15": 80647,
-  "2023-10-16": 80708,
-  "2023-10-17": 80757,
-  "2023-10-18": 80829,
-  "2023-10-19": 80873,
-  "2023-10-20": 80920,
-  "2023-10-21": 80965,
-  "2023-10-22": 81032,
-  "2023-10-23": 81077,
-  "2023-10-24": 81127,
-  "2023-10-25": 81189,
-  "2023-10-26": 81254,
-  "2023-10-27": 81313,
-  "2023-10-28": 81375,
-  "2023-10-29": 81425,
-  "2023-10-30": 81530,
-  "2023-10-31": 81530,
-  "2023-11-01": 81577,
-  "2023-11-02": 81636,
-  "2023-11-03": 81683,
-  "2023-11-04": 81741,
-  "2023-11-05": 81791,
-  "2023-11-06": 81858,
-  "2023-11-07": 81915,
-  "2023-11-08": 81973,
-  "2023-11-09": 82041,
-  "2023-11-10": 82110,
-  "2023-11-11": 82175,
-  "2023-11-12": 82242,
-  "2023-11-13": 82289,
-  "2023-11-14": 82331,
-  "2023-11-15": 82331,
-  "2023-11-16": 82462,
-  "2023-11-17": 82571,
-  "2023-11-18": 82571,
-  "2023-11-19": 82633,
-  "2023-11-20": 82690,
-  "2023-11-21": 82769,
-  "2023-11-22": 82818,
-  "2023-11-23": 82874,
-  "2023-11-24": 82917,
-  "2023-11-25": 82964,
-  "2023-11-26": 83019,
-  "2023-11-27": 83055,
-  "2023-11-28": 83097,
-  "2023-11-29": 83201,
-  "2023-11-30": 83201,
-  "2023-12-01": 83253,
-  "2023-12-02": 83293,
-  "2023-12-03": 83339,
-  "2023-12-04": 83400,
-  "2023-12-05": 83441,
-  "2023-12-06": 83504,
-  "2023-12-07": 83564,
-  "2023-12-08": 83613,
-  "2023-12-09": 83679,
-  "2023-12-10": 83735,
-  "2023-12-11": 83790,
-  "2023-12-12": 83831,
-  "2023-12-13": 83898,
-  "2023-12-14": 83960,
-  "2023-12-15": 83997,
-  "2023-12-16": 84053,
-  "2023-12-17": 84096,
-  "2023-12-18": 84137,
-  "2023-12-19": 84198,
-  "2023-12-20": 84240,
-  "2023-12-21": 84297,
-  "2023-12-22": 84330,
-  "2023-12-23": 84358,
-  "2023-12-24": 84381,
-  "2023-12-25": 84414,
-  "2023-12-26": 84440,
-  "2023-12-27": 84474,
-  "2023-12-30": 84620,
-  "2023-12-31": 84668,
-  "2024-01-01": 84733,
-  "2024-01-02": 84788,
-  "2024-01-03": 84850
+  "2024-01-17": 85782,
+  "date_first_scraped": "2022-06-02",
+  "description": "Instrumental covers of favourites played on ukulele.",
+  "name": "Instrumental Ukulele Covers",
+  "tracks": [
+    {
+      "album": {
+        "name": "Uke Classics",
+        "url": "https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn"
+      },
+      "artists": [
+        {
+          "name": "Michael Sharon",
+          "url": "https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283253,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA"
+    },
+    {
+      "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/1G3g26T1M3R0rK7QWBKei6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 174776,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/6p0BJmOjL00JhsZ4UXiLbx"
+    },
+    {
+      "album": {
+        "name": "Ukulele 2020 Hits! (Ukulele Version)",
+        "url": "https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Guitar Revival",
+          "url": "https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198349,
+      "name": "Adore You - Ukulele Version",
+      "url": "https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5"
+    },
+    {
+      "album": {
+        "name": "All About That Bass",
+        "url": "https://open.spotify.com/album/47YEvoiygJcNNQ98vilQ22"
+      },
+      "artists": [
+        {
+          "name": "Jack Adeline",
+          "url": "https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172265,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/4yFXcoJlvPFG4te0WU6rMr"
+    },
+    {
+      "album": {
+        "name": "All I Have To Do Is Dream",
+        "url": "https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ"
+      },
+      "artists": [
+        {
+          "name": "Leroy Tompkins",
+          "url": "https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164631,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/0uRUYZp0xw5AZsP6Pgpuk0"
+    },
+    {
+      "album": {
+        "name": "Ukulele Renditions of Summer Classic Hits! (Ukulele Version)",
+        "url": "https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Guitar Revival",
+          "url": "https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 240976,
+      "name": "All Night Long (All Night) - Ukulele Version",
+      "url": "https://open.spotify.com/track/5MXq0MnYShJ3OTBgH4wZ3e"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Tindall",
+          "url": "https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231782,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0q27gc0LjAclgicdlnG182"
+    },
+    {
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257722,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/0NLQqEnyWUpsoSNuo7uqBE"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/0iE79PyYkLzqXyA3l6AR76"
+      },
+      "artists": [
+        {
+          "name": "Gary Trunket",
+          "url": "https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/7vsapg8FI5tIqjS7jRDaAe"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181888,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 99763,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/7gRHfXvxtOg6xlEcht8GDI"
+    },
+    {
+      "album": {
+        "name": "Best Day Of My Life",
+        "url": "https://open.spotify.com/album/0M55SP3WdIwld5arjRCM65"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rick",
+          "url": "https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146046,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/0CJpug8mvbYdx4zXinX6OU"
+    },
+    {
+      "album": {
+        "name": "Modern Uke Hits",
+        "url": "https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 202925,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/4CPQ4IMccumGxOA5naSzN8"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5ikYrwEoNOVbEOthJ5WUlo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213414,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/0dcBlvzx2OmV8MX3EszR8T"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 202909,
+      "name": "Better Together - Ukulele",
+      "url": "https://open.spotify.com/track/4sXHZLU3C4FOr2Pn09jB6r"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 202909,
+      "name": "Better Together - Ukulele",
+      "url": "https://open.spotify.com/track/6Hc76FOFhwsfGkKX6ocFiU"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190122,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/19Lst5G6RGXIh3RNbVxV2e"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157421,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/1JaX6jmjUKiXHfurxbYhpv"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers of Pop Hits",
+        "url": "https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi"
+      },
+      "artists": [
+        {
+          "name": "Matt Carlson",
+          "url": "https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224250,
+      "name": "Brown Eyed Girl (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3lEbjq7AFXvskZTSSt9lZo"
+    },
+    {
+      "album": {
+        "name": "Shelli plays the Uke",
+        "url": "https://open.spotify.com/album/5e0jgZVk0lduI1ay8bY67C"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 178375,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/35kTXi8zS7sslWKCLdeBvv"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/0toLJ6zVJ6nWxbJ0tGB1Hc"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208392,
+      "name": "Build Me Up Buttercup - Ukulele",
+      "url": "https://open.spotify.com/track/4i98tUpkezJsE4nKMCvj60"
+    },
+    {
+      "album": {
+        "name": "Better Together & Build Me Up Buttercup (Ukulele)",
+        "url": "https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 208392,
+      "name": "Build Me Up Buttercup - Ukulele",
+      "url": "https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H"
+    },
+    {
+      "album": {
+        "name": "California Stars",
+        "url": "https://open.spotify.com/album/09gOk1XfZR9icyU09dC5kg"
+      },
+      "artists": [
+        {
+          "name": "Cliff Hillis",
+          "url": "https://open.spotify.com/artist/1mpEw4E2cHyrO6PZVMWqlW"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "California Stars",
+      "url": "https://open.spotify.com/track/4zs1BjUwkwSGaNMHfweh1Z"
+    },
+    {
+      "album": {
+        "name": "Uke Classics",
+        "url": "https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn"
+      },
+      "artists": [
+        {
+          "name": "Michael Sharon",
+          "url": "https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189479,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/7cIIcCaaa4Db6tQJdR7VPp"
+    },
+    {
+      "album": {
+        "name": "Chandelier (Ukulele Version)",
+        "url": "https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM"
+      },
+      "artists": [
+        {
+          "name": "The Ukulele Boys",
+          "url": "https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 209433,
+      "name": "Chandelier - Ukulele Version",
+      "url": "https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt"
+    },
+    {
+      "album": {
+        "name": "Ukelele Girl",
+        "url": "https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R"
+      },
+      "artists": [
+        {
+          "name": "Brandi Singer",
+          "url": "https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217819,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0"
+    },
+    {
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 210062,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 244269,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1e9ByTDUpTepe8OFCoSVaT"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 187289,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0U4g8JspZmDlnI9MrBQ9IT"
+    },
+    {
+      "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/1G3g26T1M3R0rK7QWBKei6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 215406,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/64aF6PQkTQMaXmOaMZxIf3"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Ukulele Hits, Vol. 7",
+        "url": "https://open.spotify.com/album/1uSFwBlRRHwIQETrBhnr7I"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 233421,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6BhpS9x9Sy1GPcfpl9noHW"
+    },
+    {
+      "album": {
+        "name": "Ukulele 2020 Hits! (Ukulele Version)",
+        "url": "https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Guitar Revival",
+          "url": "https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181385,
+      "name": "Don't Start Now - Ukulele Version",
+      "url": "https://open.spotify.com/track/12v4asulImAdU8BagKjivV"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 322153,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4CGLkQhF9G2aTExZChONix"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322153,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI"
+    },
+    {
+      "album": {
+        "name": "Uke Dreams",
+        "url": "https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6"
+      },
+      "artists": [
+        {
+          "name": "Peter Shore",
+          "url": "https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211925,
+      "name": "Dream a Little Dream",
+      "url": "https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp"
+    },
+    {
+      "album": {
+        "name": "Driver's License",
+        "url": "https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232187,
+      "name": "Driver's License",
+      "url": "https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5"
+    },
+    {
+      "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/0VrFqadXNGwa28aYJxh7W7"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165352,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/3IMNxMkK7ELLnnE5HlSNeD"
+    },
+    {
+      "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH"
+      },
+      "artists": [
+        {
+          "name": "Liam O'Driscoll",
+          "url": "https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239507,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2ZxxrbtKlESR3rvbbn44Ae"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 289600,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6"
+    },
+    {
+      "album": {
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI"
+      },
+      "artists": [
+        {
+          "name": "The Bedtime Orchestra",
+          "url": "https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289600,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR"
+    },
+    {
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 212221,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/3UCsK9DYrSd6Qn4oQ9cRq1"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/7IOgP4SbeI4sfrcJjfZi4v"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 167763,
+      "name": "Hakuna Matata - Ukulele",
+      "url": "https://open.spotify.com/track/00JVfpsAdypvz7gT4ZxaMk"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers",
+        "url": "https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167763,
+      "name": "Hakuna Matata - Ukulele",
+      "url": "https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x"
+      },
+      "artists": [
+        {
+          "name": "Julia Sweet",
+          "url": "https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214998,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6"
+    },
+    {
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 194565,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/0152wIoLYZdFSPz3Shm15o"
+    },
+    {
+      "album": {
+        "name": "Ukulele",
+        "url": "https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg"
+      },
+      "artists": [
+        {
+          "name": "Carsten Knudsen",
+          "url": "https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 128066,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg"
+    },
+    {
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177295,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 254193,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254193,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243529,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/3gt6ASrvqi8Rsv0Or4adcb"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah / Hey, Soul Sister",
+        "url": "https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol"
+      },
+      "artists": [
+        {
+          "name": "The Lullaby Guys",
+          "url": "https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 243529,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/3kPyNj8KefD3VbaJtmqWVS"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152932,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/3mdgqNgANH7bLqaFDa1rKG"
+    },
+    {
+      "album": {
+        "name": "I Got You Babe",
+        "url": "https://open.spotify.com/album/02oFSVAq9OkC8ugRm8i8xI"
+      },
+      "artists": [
+        {
+          "name": "Brandi Singer",
+          "url": "https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187672,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/6mofZ4UGWUNvccgBTQ9Zgc"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 219360,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/0QkiEOuLDZguBZDorRna6t"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah",
+        "url": "https://open.spotify.com/album/3rMN8ZoPC2D8N2F4CjcHVb"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 232887,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/6xWOpaygdUpc556o1GQNM1"
+    },
+    {
+      "album": {
+        "name": "Ukelele Moments",
+        "url": "https://open.spotify.com/album/2imt754FShtqbVcAyALgbq"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lookman",
+          "url": "https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263022,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/6R5e0W5LUy23G7wEAaCcyJ"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/7ma6gtjLWnj7JmRqnwgyL1"
+      },
+      "artists": [
+        {
+          "name": "Kit Sutton",
+          "url": "https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170989,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5PsyUysC9xxltdgASA4A5Y"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/5uZvfWL9waxif9bt1CaCU1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 184583,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5QwJtbZbdQxPnKR7CAXtyO"
+    },
+    {
+      "album": {
+        "name": "Tiny Uke Orchestra",
+        "url": "https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 146000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/1LBi1Zjam0zpKVCCbZtPqu"
+    },
+    {
+      "album": {
+        "name": "Tiny Uke Orchestra plays The Beatles",
+        "url": "https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/7wv9b0S0n3Y6Jk2iguxhdM"
+    },
+    {
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 200102,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0uRq3UbO7llLNzcPkLdIqt"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3"
+      },
+      "artists": [
+        {
+          "name": "Lukas Glenn",
+          "url": "https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR"
+    },
+    {
+      "album": {
+        "name": "Ukulele - Instrumental Pop Covers",
+        "url": "https://open.spotify.com/album/4cBqvfoQMiDqCRED4fG73j"
+      },
+      "artists": [
+        {
+          "name": "Instrumental Pop Songs",
+          "url": "https://open.spotify.com/artist/7GqJy10VkyFR1oacMiXkZn"
+        },
+        {
+          "name": "Soft Background Music",
+          "url": "https://open.spotify.com/artist/2voHaTmDMF2QFv95m9SLtq"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 200000,
+      "name": "Just the Way You Are (Instrumental Version)",
+      "url": "https://open.spotify.com/track/7I4WwDEIeROWytTUZ5RMGc"
+    },
+    {
+      "album": {
+        "name": "Kalei Gamiao Contemporary Ukulele",
+        "url": "https://open.spotify.com/album/6FNnLVDRrXFYn0Z7IghzdQ"
+      },
+      "artists": [
+        {
+          "name": "Kalei Gamiao",
+          "url": "https://open.spotify.com/artist/4h2zUDNlxj3GOWCg4RdPjs"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 194160,
+      "name": "Kiss From A Rose",
+      "url": "https://open.spotify.com/track/0Md5bAtczAcMF2Wly7OIXU"
+    },
+    {
+      "album": {
+        "name": "Knowing Me, Knowing You",
+        "url": "https://open.spotify.com/album/2hG3WDbIHtUvXPWYyKRftN"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231781,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/0i540Oa6722htaipZglBZm"
+    },
+    {
+      "album": {
+        "name": "Knowing Me, Knowing You",
+        "url": "https://open.spotify.com/album/4pLawZ6HgMm79iceCSxt1c"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231781,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/4o8hBDNI3ZFfLay1HM5931"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x"
+      },
+      "artists": [
+        {
+          "name": "Julia Sweet",
+          "url": "https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192805,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo"
+    },
+    {
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/665cKxO6hVYrRY6CRPBpOw"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5SXHgJzce8r2AIghLhRQyS"
+    },
+    {
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 154678,
+      "name": "Left and Right",
+      "url": "https://open.spotify.com/track/0O8CRUwEpnevlsKdEGKdFD"
+    },
+    {
+      "album": {
+        "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241232,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299032,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/35FPsONgbYz9DKFQCWAzHe"
+    },
+    {
+      "album": {
+        "name": "Don't Worry Be Happy / Let It Be",
+        "url": "https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 299032,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Little Ones on Ukulele",
+        "url": "https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3"
+      },
+      "artists": [
+        {
+          "name": "Matt Carlson",
+          "url": "https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232750,
+      "name": "Let It Go (Instrumental Version)",
+      "url": "https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi"
+    },
+    {
+      "album": {
+        "name": "Popular Disney Favorites on Ukulele",
+        "url": "https://open.spotify.com/album/0FQDjL8QbeMZ7GsnEmEcRK"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        },
+        {
+          "name": "The Ukulele Boys",
+          "url": "https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
+      "duration_ms": 232750,
+      "name": "Let It Go (Instrumental Version)",
+      "url": "https://open.spotify.com/track/4HYmwCqOEFg25G6xmiv86U"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 175747,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/1vGDdyCxFhqpefafCXYqVU"
+    },
+    {
+      "album": {
+        "name": "Plays the Uke",
+        "url": "https://open.spotify.com/album/0sDBEaJsaY5Ayw6gzgNWhn"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216787,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/2KCrTGdKGGDd6QIHlHeaCV"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Tindall",
+          "url": "https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228112,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT"
+    },
+    {
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz"
+      },
+      "artists": [
+        {
+          "name": "Gary Trunket",
+          "url": "https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199054,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM"
+    },
+    {
+      "album": {
+        "name": "Shape of You",
+        "url": "https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al"
+      },
+      "artists": [
+        {
+          "name": "Ren Anderson",
+          "url": "https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278016,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI"
+    },
+    {
+      "album": {
+        "name": "Ukelele Girl",
+        "url": "https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R"
+      },
+      "artists": [
+        {
+          "name": "Brandi Singer",
+          "url": "https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0bWRj1HS4Z0f08LSAZYGsh"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Williams-Lee",
+          "url": "https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167790,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/5v1MIPWH2VDgi59IFkebqg"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Williams-Lee",
+          "url": "https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/5IZEYBZ30Ep0b11Csex8h7"
+    },
+    {
+      "album": {
+        "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/6XUnXZJGv1ePL0v63MdLWn"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152319,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1uUYqoYiP5S9l6lggYtqx2"
+    },
+    {
+      "album": {
+        "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/6g3ZskouYIWEw5LSj2V4fX"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152319,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/5hpi4f9OgqHhFEs0kabVjl"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 226214,
+      "name": "No Woman, No Cry",
+      "url": "https://open.spotify.com/track/1xdO0jqSvpPcHpop5lKYzy"
+    },
+    {
+      "album": {
+        "name": "Waterloo Sunset",
+        "url": "https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI"
+      },
+      "artists": [
+        {
+          "name": "Leon Leke",
+          "url": "https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160670,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/3BE3TKiC6SSfwOFtL9bcav"
+    },
+    {
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe"
+      },
+      "artists": [
+        {
+          "name": "Leroy Tompkins",
+          "url": "https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225267,
+      "name": "Only Love Can Break Your Heart",
+      "url": "https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK"
+    },
+    {
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 161384,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/4CRqwQTOPFG5D8FAc42Q4g"
+    },
+    {
+      "album": {
+        "name": "Ukelele Moments",
+        "url": "https://open.spotify.com/album/2imt754FShtqbVcAyALgbq"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lookman",
+          "url": "https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258376,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD"
+    },
+    {
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/6WKc0Y5OfMShB2Wywfaqpu"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 202788,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/58b0omCJozdH06nY5riZfI"
+    },
+    {
+      "album": {
+        "name": "Uke Songs to Fall in Love",
+        "url": "https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 219406,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6lOjXZgnwPzXXjZCPGXann"
+    },
+    {
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV"
+      },
+      "artists": [
+        {
+          "name": "Dev Lin",
+          "url": "https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215543,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF"
+    },
+    {
+      "album": {
+        "name": "Pleasant Uke",
+        "url": "https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 149126,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/0VL4jLupGZHGv7RYTX6RSM"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ferna",
+          "url": "https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219736,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161196,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh"
+    },
+    {
+      "album": {
+        "name": "Shake It Off",
+        "url": "https://open.spotify.com/album/5YnnPM42JMkXHFvYbKmJpL"
+      },
+      "artists": [
+        {
+          "name": "Dev Lin",
+          "url": "https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168841,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3An67cnCL6RRb3EkKA1S2L"
+    },
+    {
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Trapp",
+          "url": "https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209479,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx"
+    },
+    {
+      "album": {
+        "name": "Shiny Happy People",
+        "url": "https://open.spotify.com/album/2quXYmobmbwJqFq3PxWSBB"
+      },
+      "artists": [
+        {
+          "name": "Liam O'Driscoll",
+          "url": "https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149336,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/19Q6RYkrArONtSksr7p2Xv"
+    },
+    {
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 224565,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA"
+    },
+    {
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "Snap",
+      "url": "https://open.spotify.com/track/6pLMBG5fMo3rAUkjjW7CyR"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 203095,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2zdjbWBFZxKjzBywvWFcnR"
+    },
+    {
+      "album": {
+        "name": "Modern Uke Hits",
+        "url": "https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 226000,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/2l2vKPlI3MCAHcEBeSg5gJ"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Ukulele Hits",
+        "url": "https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 196937,
+      "name": "Soak Up the Sun",
+      "url": "https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS"
+    },
+    {
+      "album": {
+        "name": "Ukulele Surf Style (Acoustic Style Covers)",
+        "url": "https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Day Sessions",
+          "url": "https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196937,
+      "name": "Soak up the Sun",
+      "url": "https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Williams-Lee",
+          "url": "https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 254508,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/4R7lHfZHL0rYnN146xuCPb"
+    },
+    {
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/3eM86lV2bNhNGpvWzBw6Ya"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183550,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/7y8BOvgcHDSRlqkgRE3rZb"
+    },
+    {
+      "album": {
+        "name": "Tiny Uke Orchestra",
+        "url": "https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 168465,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj"
+    },
+    {
+      "album": {
+        "name": "Tiny Uke Orchestra plays The Beatles",
+        "url": "https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU"
+      },
+      "artists": [
+        {
+          "name": "Tiny Uke Orchestra",
+          "url": "https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168465,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/57st2cqWQh6NQdZMdz7Jrp"
+    },
+    {
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219958,
+      "name": "Something In The Orange",
+      "url": "https://open.spotify.com/track/3wiKfJCnMTgMAGosU3dtUI"
+    },
+    {
+      "album": {
+        "name": "Me and My Uke",
+        "url": "https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn"
+      },
+      "artists": [
+        {
+          "name": "Laurie Hefner",
+          "url": "https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234379,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/2v1wN07F5ZCxARs6vvHHMp"
+    },
+    {
+      "album": {
+        "name": "Somewhere Over the Rainbow",
+        "url": "https://open.spotify.com/album/3CylnBlxs0Y4rDWzJkO2Il"
+      },
+      "artists": [
+        {
+          "name": "Laura Hoovers",
+          "url": "https://open.spotify.com/artist/5hw4kl01y0BUVJf8q6edNQ"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191606,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/0WnCo4TNZXyOqbh7fadKzy"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj"
+      },
+      "artists": [
+        {
+          "name": "Fred Turnquist",
+          "url": "https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/0ual4TIPtov7056Mb7p616"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 216600,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1jQvX5M88xqtc9b8Hl9UB0"
+    },
+    {
+      "album": {
+        "name": "Sugar sugar",
+        "url": "https://open.spotify.com/album/2oW30T170km9R38AM78d8N"
+      },
+      "artists": [
+        {
+          "name": "Livia Lund",
+          "url": "https://open.spotify.com/artist/61eLIARqPNspkv2XKnsc7z"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 136900,
+      "name": "Sugar sugar",
+      "url": "https://open.spotify.com/track/4O8SoEr3OfBGAPDOpbb9Ci"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/3YBMeHUVpagQgXI8MBxo65"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 148231,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/25qansdY69RpqRXFJVVtN9"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey"
+      },
+      "artists": [
+        {
+          "name": "Jack Adeline",
+          "url": "https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227416,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/1EnLRToE3ecicHWleYow1d"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 223686,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2hOTGNkCUL9zpotqqPJNbX"
+    },
+    {
+      "album": {
+        "name": "Ukulele Covers of Pop Hits",
+        "url": "https://open.spotify.com/album/2LrJLsqxDuRtfLtTHYtfoi"
+      },
+      "artists": [
+        {
+          "name": "Matt Carlson",
+          "url": "https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-18",
+      "duration_ms": 199000,
+      "name": "Sweet Caroline (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3ZmVHKgJ9YJLua0rnsVaWi"
+    },
+    {
+      "album": {
+        "name": "Popular Instrumental Songs on Ukulele",
+        "url": "https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V"
+      },
+      "artists": [
+        {
+          "name": "The O'Neill Brothers Group",
+          "url": "https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW"
+        },
+        {
+          "name": "The Ukulele Boys",
+          "url": "https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Sweet Caroline (Instrumental Version)",
+      "url": "https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe"
+    },
+    {
+      "album": {
+        "name": "Uke Dreams",
+        "url": "https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6"
+      },
+      "artists": [
+        {
+          "name": "Peter Shore",
+          "url": "https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO"
+    },
+    {
+      "album": {
+        "name": "Ukelele Love Songs",
+        "url": "https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 269525,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/0Y9lGmQeaMR3veXCgMqHH3"
+    },
+    {
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV"
+      },
+      "artists": [
+        {
+          "name": "Dev Lin",
+          "url": "https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8"
+    },
+    {
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/56X5chQwECoMG26y7HY7RQ"
+      },
+      "artists": [
+        {
+          "name": "Jillian Bosch",
+          "url": "https://open.spotify.com/artist/6M4papcmK0X0HNyA3felGW"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196860,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/2fOa6SUM7HAtMxZSzA38S8"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey"
+      },
+      "artists": [
+        {
+          "name": "Jack Adeline",
+          "url": "https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196655,
+      "name": "The Lion Sleeps Tonight",
+      "url": "https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I"
+    },
+    {
+      "album": {
+        "name": "Me and My Uke",
+        "url": "https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn"
+      },
+      "artists": [
+        {
+          "name": "Laurie Hefner",
+          "url": "https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240416,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK"
+    },
+    {
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 180059,
+      "name": "The Shade",
+      "url": "https://open.spotify.com/track/3rZ00i6iUVn9AU9iCuxK8U"
+    },
+    {
+      "album": {
+        "name": "Thinking out Loud (Ukulele Version)",
+        "url": "https://open.spotify.com/album/1tLqdPFJvI4GiAgAv1TQBh"
+      },
+      "artists": [
+        {
+          "name": "The Ukulele Boys",
+          "url": "https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275849,
+      "name": "Thinking out Loud - Ukulele Version",
+      "url": "https://open.spotify.com/track/5vGoHkL7i3BFor4BzkmgUf"
+    },
+    {
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa"
+      },
+      "artists": [
+        {
+          "name": "Shirley Michaels",
+          "url": "https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 227417,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/3IMXuDKy3jPJoPmV8yWJY9"
+    },
+    {
+      "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH"
+      },
+      "artists": [
+        {
+          "name": "Liam O'Driscoll",
+          "url": "https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174873,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/4aFgZ6NIHeHH353EwJJao2"
+    },
+    {
+      "album": {
+        "name": "Ukulele Renditions of Summer Classic Hits! (Ukulele Version)",
+        "url": "https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Guitar Revival",
+          "url": "https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 181912,
+      "name": "Three Little Birds - Ukulele Version",
+      "url": "https://open.spotify.com/track/2kCMqR9YzN0WlPFqUdSkiC"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/6zh95laZ5y3hv6nwCTJF4r"
+      },
+      "artists": [
+        {
+          "name": "Billy Travers",
+          "url": "https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 255401,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1EBzaoMAUiuWmL0lxDfn5C"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202232,
+      "name": "Time of the Season",
+      "url": "https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 218750,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1ckI32DhLPvHnMNBihiLB4"
+    },
+    {
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177981,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/1UpsDYHk9Wuwa93WTSTtG3"
+    },
+    {
+      "album": {
+        "name": "Pleasant Uke",
+        "url": "https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 183324,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF"
+    },
+    {
+      "album": {
+        "name": "Waterloo Sunset",
+        "url": "https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI"
+      },
+      "artists": [
+        {
+          "name": "Leon Leke",
+          "url": "https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210980,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ferna",
+          "url": "https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238961,
+      "name": "We Don't Talk Anymore",
+      "url": "https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj"
+      },
+      "artists": [
+        {
+          "name": "Fred Turnquist",
+          "url": "https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132436,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/0tSvJUcVba6J2hDazrQLtt"
+    },
+    {
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/665cKxO6hVYrRY6CRPBpOw"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 218629,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/1c1Dv8b24rvs4TvaTqGFFX"
+    },
+    {
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/0VOwzs047lYa3PluEQlD2D"
+      },
+      "artists": [
+        {
+          "name": "Agalipe",
+          "url": "https://open.spotify.com/artist/7cdMrWrv70SgsvloDBbmOa"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155153,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/600Ii6Xs0MoILjUlcKBrX8"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 208536,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Ukulele Hits Vol.2",
+        "url": "https://open.spotify.com/album/1GSNJSMlFGGsymzFbppwsB"
+      },
+      "artists": [
+        {
+          "name": "The Shady Ukulele Band",
+          "url": "https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 134880,
+      "name": "Wouldn't It Be Nice - Ukulele Style",
+      "url": "https://open.spotify.com/track/3gc4FHv3yl9EJS5QfwS416"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0Ig64Va8dh4Nt1mIJTAvse"
+      },
+      "artists": [
+        {
+          "name": "Shelli Daniels",
+          "url": "https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 264177,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/5kaYZfHdgfMLAcy7lu8Myi"
+    },
+    {
+      "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/5V0h41DsGHXiwNiMKSU3d1"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160778,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/04gUsUY4i2Ub6UISNOOB5h"
+    },
+    {
+      "album": {
+        "name": "You Are The Best Thing",
+        "url": "https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk"
+      },
+      "artists": [
+        {
+          "name": "Fred Turnquist",
+          "url": "https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209231,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Williams-Lee",
+          "url": "https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156612,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/275wR3R7C99obZy129fe8B"
+    },
+    {
+      "album": {
+        "name": "Ukelele Love Songs",
+        "url": "https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253408,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUYPasrIWf5j"
 }

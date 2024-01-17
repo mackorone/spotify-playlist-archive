@@ -363,7 +363,7 @@
     },
     {
       "album": {
-        "name": "Avalon (demo)",
+        "name": "Avalon",
         "url": "https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR"
       },
       "artists": [
@@ -376,7 +376,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176230,
-      "name": "Avalon - demo",
+      "name": "Avalon",
       "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
     },
     {
@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
         "name": "You Will Never Know Why (2021 Remaster)",
         "url": "https://open.spotify.com/album/0kmPn6M3cue7rec6Unw6BD"
       },
@@ -2974,10 +2992,28 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 286992,
       "name": "Never Wanna Let Go",
       "url": "https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v"
+    },
+    {
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/3yri9UWWeeMtgTHxAizMFj"
+      },
+      "artists": [
+        {
+          "name": "David Hale",
+          "url": "https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286992,
+      "name": "Never Wanna let Go",
+      "url": "https://open.spotify.com/track/4yqptmbnL83yt8TP5SEpfz"
     },
     {
       "album": {
@@ -3374,7 +3410,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 234174,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG"
@@ -3746,6 +3782,28 @@
       "duration_ms": 230020,
       "name": "Rummage (feat. Orbiting Human Circus)",
       "url": "https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t"
+    },
+    {
+      "album": {
+        "name": "rUN tHE FaDE",
+        "url": "https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253281,
+      "name": "rUN tHE FaDE",
+      "url": "https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP"
     },
     {
       "album": {
@@ -4298,7 +4356,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 243387,
       "name": "Take Me Down - Nourished by Time Version",
       "url": "https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m"

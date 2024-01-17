@@ -2,7 +2,7 @@
 
 ### [Everyday Favorites ](https://open.spotify.com/playlist/37i9dQZF1DWWvoJqVv7uOD)
 
-> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
+> Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Teddy Swims
 
 629 songs - 1 day 10 hr 24 min
 
@@ -13,7 +13,7 @@
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2023-02-11 |
 | [21 Days](https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:20 | 2023-09-08 | 2023-09-30 |
 | [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-14 | 2022-11-12 |
-| [28 \- with Dean Lewis](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-10 |  |
+| [28](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-10 |  |
 | [2step](https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 2:33 | 2022-02-04 | 2023-03-19 |
 | [400 Trillion](https://open.spotify.com/track/7J6nmPoXm6dIlVAIvSzUVp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [400 Trillion](https://open.spotify.com/album/3nu8vM1n4tAuHPDzkxlN8H) | 3:42 | 2022-03-11 | 2022-04-09 |
 | [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-02-04 | 2022-04-16 |

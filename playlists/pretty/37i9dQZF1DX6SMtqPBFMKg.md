@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SMtqPBFMKg.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Las mejores bandas en vivo\. Lenin Ramírez & Luis R Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,490 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,595 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

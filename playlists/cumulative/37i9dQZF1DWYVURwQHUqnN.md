@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo: Shay x Niska
+> Photo: Morad x GIMS
 
-66 songs - 3 hr 18 min
+68 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2023-09-28 |  |
 | [C'est carré le S](https://open.spotify.com/track/2UHSXPY5jSCpp3nzWHtaQv) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 3:21 | 2023-12-08 |  |
 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-09-28 | 2023-12-10 |
+| [CALMANT](https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [HEARTBREAK LIFE II](https://open.spotify.com/album/0SonjsOAiaOLaMm9TsdS5o) | 2:29 | 2024-01-11 |  |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-09-28 |  |
 | [Cleopatra](https://open.spotify.com/track/7xkOpZUJgKGdtM1jKzxbuw) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Cleopatra](https://open.spotify.com/album/4jPqEGoEVD2cer3Qm78kUw) | 4:33 | 2023-09-28 | 2023-10-13 |
 | [Coco](https://open.spotify.com/track/49XICf008slp1Aek6LYzmQ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 2:33 | 2023-09-28 | 2023-11-10 |
@@ -45,11 +46,12 @@
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-09-28 | 2023-11-10 |
 | [Olala \(feat\. Naza\)](https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Olala \(feat\. Naza\)](https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w) | 2:51 | 2023-11-09 |  |
 | [On est prêt](https://open.spotify.com/track/3roPtG7hZaqEqbJIqt412J) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [On est prêt](https://open.spotify.com/album/1jpee0EIds7Jp7evzNdmrW) | 2:46 | 2023-12-21 |  |
+| [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-01-11 |  |
 | [Parabellum](https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Parabellum](https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb) | 2:34 | 2023-09-28 |  |
 | [Pas les mots](https://open.spotify.com/track/5EvhoSHeimcPmYB9f4DhND) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Pas les mots](https://open.spotify.com/album/5dufV0lmFg19yoQaFIwXxa) | 3:30 | 2023-12-08 |  |
 | [Pensées noires](https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Pensées noires](https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg) | 2:37 | 2023-10-12 | 2023-11-10 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-09-28 |  |
-| [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/track/2aAAKJ6iWImiVL7WAZc6JL) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/album/74frmqOXlv1YtSCVb874M4) | 3:14 | 2023-11-16 |  |
+| [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/track/2aAAKJ6iWImiVL7WAZc6JL) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [PRÉFÉRÉ \(feat\. TK\)](https://open.spotify.com/album/74frmqOXlv1YtSCVb874M4) | 3:14 | 2023-11-16 | 2024-01-12 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-09-28 | 2023-10-13 |
 | [Reste Trankil](https://open.spotify.com/track/7B7zzTwckbzoiRz3fAdQq9) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reste Trankil](https://open.spotify.com/album/3oAjyQtWWMRyZ5SM6mWKzm) | 3:19 | 2023-10-12 |  |
 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 | 2023-09-28 |  |
@@ -71,7 +73,7 @@
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 |  |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 |  |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 |  |
-| [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 |  |
+| [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 | 2024-01-12 |
 | [ZERO \(feat\. Franglish\)](https://open.spotify.com/track/4oTH36emmtCcKKYb3fvXcg) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZERO \(feat\. Franglish\)](https://open.spotify.com/album/4dKrqWQtM3Xap6OMIQOVs5) | 2:38 | 2023-12-21 |  |
 | [Zéro Soucis](https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim) | [Mkz](https://open.spotify.com/artist/738mFNWDY41RIA4TNT57Dp) | [Zéro Soucis](https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl) | 2:52 | 2023-09-28 | 2023-10-20 |
 

@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-177 songs - 9 hr 45 min
+178 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 | 2023-10-23 |  |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-10-23 |  |
 | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/track/7sBDv4kLo2GVucy5VGh7GX) | [Amigos Raros](https://open.spotify.com/artist/56PatIE4fUjuP4gPlyWVRf), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [A punto \(feat\. Delfina Campos\)](https://open.spotify.com/album/0z8ck6llq2aHAfJ5NjDQ6t) | 3:22 | 2023-10-23 | 2023-12-08 |
-| [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 | 2023-10-23 |  |
+| [Abrazarnos](https://open.spotify.com/track/2suXFSWgF7S7XXyipAemEc) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 3:34 | 2023-10-23 | 2024-01-14 |
 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 | 2023-10-23 |  |
 | [Algo Tiene](https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT) | 3:04 | 2023-10-23 |  |
 | [Altar](https://open.spotify.com/track/1insvPZ3iQa5iTixWUpAMr) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Altar](https://open.spotify.com/album/5Jnax9gcPF8BBjcAQ1r9bF) | 3:13 | 2023-12-15 |  |
@@ -32,7 +32,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-07-14 | 2023-10-24 |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 |  |
 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2023-07-14 | 2023-10-24 |
-| [Cada Vez](https://open.spotify.com/track/6mRxU581UjFtZpsjPJJdbQ) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [No Voy A Mentirte](https://open.spotify.com/album/4wlEeF8UKTZPcV0uxegEpx) | 2:48 | 2023-10-23 | 2023-12-15 |
+| [Cada Vez](https://open.spotify.com/track/6mRxU581UjFtZpsjPJJdbQ) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [No Voy A Mentirte](https://open.spotify.com/album/4wlEeF8UKTZPcV0uxegEpx) | 2:48 | 2023-10-23 | 2024-01-16 |
 | [CALENTÓN](https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [CALENTÓN](https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB) | 3:22 | 2023-07-14 | 2023-10-24 |
 | [Cambiar El Mundo](https://open.spotify.com/track/2k2xtMvEvDMs3e14CIteDp) | [El Purre](https://open.spotify.com/artist/4lrsMsdkZ3mpzBimMD0wel) | [Cambiar El Mundo](https://open.spotify.com/album/6pI0aOVKei9UgFn2kw0KSX) | 3:16 | 2023-10-26 | 2023-11-18 |
 | [Carnavalintro](https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Otro](https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p) | 3:10 | 2023-10-23 |  |
@@ -71,6 +71,7 @@
 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 | 2023-07-14 | 2023-10-24 |
 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 | 2023-10-23 |  |
 | [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 | 2023-10-23 | 2023-11-28 |
+| [Hundiéndome](https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [Hundiéndome](https://open.spotify.com/album/6ihedWm8dGuWpfjLE7Wdst) | 2:37 | 2023-12-22 |  |
 | [Huracán](https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Desde el Huracán](https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2) | 2:24 | 2023-11-10 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-07-14 | 2023-10-24 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2023-07-14 | 2023-10-24 |

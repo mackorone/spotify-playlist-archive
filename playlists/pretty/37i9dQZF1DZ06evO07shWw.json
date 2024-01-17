@@ -1,15 +1,15 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 7676,
+  "num_followers": 7695,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDBiZGRkYWY1NzI4NTAwNzY1NWI1Yjk2YWM4NDVlMTdiMQ==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDBlODI5NjE2YjRmMTQ5ZGQ4MWQ2OTAxNmU3ZjI1MDE4NA==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
@@ -41,27 +41,7 @@
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
@@ -81,23 +61,27 @@
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
       "artists": [
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
@@ -113,7 +97,23 @@
       "url": "https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "On Fire (Ingrid Andress Version)",
         "url": "https://open.spotify.com/album/65QH2YwXmAfBIjQLfotGHL"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/79z7tGjpNtsgHwZxYCb5EM"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "The Stranger",
+      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "The Stranger",
-      "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Waste of Lime",
         "url": "https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B"
@@ -233,23 +233,7 @@
       "url": "https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Seeing Someone Else",
-        "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 206737,
-      "name": "Seeing Someone Else",
-      "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
@@ -265,7 +249,39 @@
       "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Seeing Someone Else",
+        "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 206737,
+      "name": "Seeing Someone Else",
+      "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
@@ -285,10 +301,10 @@
       "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
       "artists": [
         {
@@ -296,12 +312,12 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 203493,
+      "name": "Both",
+      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
         "url": "https://open.spotify.com/album/30rdiduDKCF2u35tlagbOP"
@@ -361,23 +377,7 @@
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Both",
-      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174034,
+      "name": "How Honest Do You Want Me To Be?",
+      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "The Comeback (Deluxe)",
         "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
@@ -413,39 +429,7 @@
       "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174034,
-      "name": "How Honest Do You Want Me To Be?",
-      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 215787,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
-    },
-    {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
@@ -461,7 +445,7 @@
       "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
@@ -477,7 +461,7 @@
       "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
@@ -493,7 +477,23 @@
       "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 215787,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
+    },
+    {
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Lady Like (Deluxe)",
         "url": "https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
     },
     {
-      "added_at": "2024-01-02 12:15:49",
+      "added_at": "2024-01-16 12:10:47",
       "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"

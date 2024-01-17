@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,670 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,829 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 12 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 |
 | 13 | [Pon Mi](https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Pon Mi](https://open.spotify.com/album/19Oyvrg5EIJr8GeXVxkD1z) | 2:23 |
 | 14 | [She Will Be Loved](https://open.spotify.com/track/2R167fmwPN79bfF1BqqNol) | [TK SNO](https://open.spotify.com/artist/1k6HVfpL0t6d9ZIiOT4xWR) | [She Will Be Loved](https://open.spotify.com/album/6P86LrrDckjeM4TqdyknhO) | 3:36 |
-| 15 | [Eregnaye](https://open.spotify.com/track/6Iki5Wkf0HQDsWCyo4c5u8) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/4bb71Vk2GN2UM3gb2hR2DI) | 5:09 |
+| 15 | [Eregnaye](https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9) | 5:09 |
 | 16 | [Kochegn](https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Kochegn](https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO) | 4:10 |
 | 17 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 |
 | 18 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 45 | [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 |
 | 46 | [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 |
 | 47 | [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 |
-| 48 | [Eshi Kezias](https://open.spotify.com/track/57EVIkUOxyTyFVOF75Efp9) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Eshi Kezias](https://open.spotify.com/album/0s6f0bdWXfgBx5AGOU12bC) | 4:22 |
+| 48 | [Eshi Kezias](https://open.spotify.com/track/0Y9G7e3yCzIaNEjDW6i83A) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Eshi Kezias](https://open.spotify.com/album/6hpPy3EejdGmw28IgZdCE9) | 4:22 |
 | 49 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 |
 | 50 | [Tilobign](https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ) | [Tilobign](https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9) | 4:55 |
 | 51 | [Weni](https://open.spotify.com/track/7C4rnmQ8aLURc4FLz14Tfe) | [Timnit Welday](https://open.spotify.com/artist/1EJTyBtShYv9uyv6BmPSdl) | [Weni](https://open.spotify.com/album/2nogpd8iqZOtNICZO0KOpq) | 4:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JBJX3hwjvu.md) - [plain]
 
 > listen to my podcast, inner monologue\. a spotify original!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,407 likes - 123 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,558 likes - 123 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

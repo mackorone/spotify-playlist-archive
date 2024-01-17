@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-109 songs - 6 hr 22 min
+110 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 | 2023-07-28 |  |
 | [E Vamos À Luta](https://open.spotify.com/track/5nRbJDAiiAxP2PKA4q1OOC) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [De Volta Ao Começo](https://open.spotify.com/album/12pkA9cGBjRylnty2lkBVg) | 3:42 | 2023-04-28 |  |
 | [Elegante Amanhecer](https://open.spotify.com/track/3AKLxjuiIn7kbRNOJg5pCW) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 3:40 | 2023-04-28 |  |
-| [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 | 2023-04-28 |  |
+| [Enquanto Você Não Chega](https://open.spotify.com/track/05lX6m0oHjqoCmySOhz9XF) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/6orqh31X8G1wJJqA05pddX) | 3:07 | 2023-11-10 |  |
+| [Enquanto Você Não Chega](https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Voo Longe](https://open.spotify.com/album/3JPhFJD014NCB2JreVEcuv) | 3:07 | 2023-04-28 | 2024-01-06 |
 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2023-04-28 |  |
 | [Espiral de Ilusão](https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 | 2023-04-28 |  |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5fIW9kqsEfbHjPEj8ualrF) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:19 | 2023-04-28 |  |

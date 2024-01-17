@@ -1,717 +1,1637 @@
 {
-  "2022-01-12": 318022,
-  "2022-01-13": 318081,
-  "2022-01-14": 318169,
-  "2022-01-15": 318506,
-  "2022-01-16": 318510,
-  "2022-01-17": 318739,
-  "2022-01-18": 318742,
-  "2022-01-19": 318805,
-  "2022-01-20": 318909,
-  "2022-01-21": 319009,
-  "2022-01-22": 319150,
-  "2022-01-23": 319265,
-  "2022-01-24": 319378,
-  "2022-01-25": 319473,
-  "2022-01-26": 319602,
-  "2022-01-27": 319715,
-  "2022-01-28": 319828,
-  "2022-01-29": 319958,
-  "2022-01-30": 320064,
-  "2022-01-31": 320165,
-  "2022-02-01": 320266,
-  "2022-02-02": 320377,
-  "2022-02-03": 320499,
-  "2022-02-04": 320600,
-  "2022-02-05": 320735,
-  "2022-02-06": 320865,
-  "2022-02-07": 320977,
-  "2022-02-08": 321052,
-  "2022-02-09": 321181,
-  "2022-02-10": 321344,
-  "2022-02-11": 321487,
-  "2022-02-12": 321625,
-  "2022-02-13": 321748,
-  "2022-02-14": 321879,
-  "2022-02-15": 321969,
-  "2022-02-16": 322072,
-  "2022-02-17": 322163,
-  "2022-02-18": 322245,
-  "2022-02-19": 322378,
-  "2022-02-20": 322541,
-  "2022-02-21": 322647,
-  "2022-02-22": 322771,
-  "2022-02-23": 322904,
-  "2022-02-24": 323032,
-  "2022-02-25": 323114,
-  "2022-02-26": 323226,
-  "2022-02-27": 323456,
-  "2022-02-28": 323456,
-  "2022-03-01": 323563,
-  "2022-03-02": 323677,
-  "2022-03-03": 323779,
-  "2022-03-04": 323905,
-  "2022-03-05": 324061,
-  "2022-03-06": 324208,
-  "2022-03-07": 324322,
-  "2022-03-08": 324434,
-  "2022-03-09": 324567,
-  "2022-03-10": 324693,
-  "2022-03-11": 324831,
-  "2022-03-12": 324991,
-  "2022-03-13": 325128,
-  "2022-03-14": 325223,
-  "2022-03-15": 325360,
-  "2022-03-16": 325475,
-  "2022-03-17": 325605,
-  "2022-03-18": 325793,
-  "2022-03-19": 325901,
-  "2022-03-20": 325901,
-  "2022-03-21": 326209,
-  "2022-03-22": 326326,
-  "2022-03-23": 326477,
-  "2022-03-24": 326637,
-  "2022-03-25": 326805,
-  "2022-03-26": 326919,
-  "2022-03-27": 327078,
-  "2022-03-28": 327233,
-  "2022-03-30": 327496,
-  "2022-03-31": 327616,
-  "2022-04-01": 327774,
-  "2022-04-02": 327925,
-  "2022-04-03": 328088,
-  "2022-04-04": 328252,
-  "2022-04-05": 328376,
-  "2022-04-06": 328487,
-  "2022-04-07": 328634,
-  "2022-04-08": 328798,
-  "2022-04-09": 328955,
-  "2022-04-10": 329318,
-  "2022-04-11": 329466,
-  "2022-04-12": 329478,
-  "2022-04-13": 329615,
-  "2022-04-14": 329774,
-  "2022-04-15": 329950,
-  "2022-04-16": 330112,
-  "2022-04-17": 330310,
-  "2022-04-18": 330523,
-  "2022-04-19": 330722,
-  "2022-04-20": 330934,
-  "2022-04-21": 331164,
-  "2022-04-22": 331452,
-  "2022-04-23": 331749,
-  "2022-04-24": 332094,
-  "2022-04-25": 332443,
-  "2022-04-26": 332706,
-  "2022-04-27": 333062,
-  "2022-04-28": 333352,
-  "2022-04-29": 333925,
-  "2022-04-30": 334303,
-  "2022-05-01": 334773,
-  "2022-05-02": 334773,
-  "2022-05-03": 335078,
-  "2022-05-04": 335322,
-  "2022-05-05": 335533,
-  "2022-05-06": 335769,
-  "2022-05-07": 336034,
-  "2022-05-08": 336414,
-  "2022-05-09": 336469,
-  "2022-05-10": 336642,
-  "2022-05-11": 336822,
-  "2022-05-12": 337009,
-  "2022-05-13": 337197,
-  "2022-05-14": 337381,
-  "2022-05-15": 337584,
-  "2022-05-16": 337750,
-  "2022-05-17": 337909,
-  "2022-05-18": 338067,
-  "2022-05-19": 338223,
-  "2022-05-20": 338457,
-  "2022-05-21": 338778,
-  "2022-05-22": 338778,
-  "2022-05-23": 338946,
-  "2022-05-24": 339086,
-  "2022-05-25": 339252,
-  "2022-05-26": 339379,
-  "2022-05-27": 339499,
-  "2022-05-28": 339676,
-  "2022-05-29": 339869,
-  "2022-05-30": 340032,
-  "2022-05-31": 340203,
-  "2022-06-01": 340561,
-  "2022-06-02": 340595,
-  "2022-06-03": 340780,
-  "2022-06-04": 340994,
-  "2022-06-05": 341258,
-  "2022-06-06": 341443,
-  "2022-06-07": 341647,
-  "2022-06-08": 341927,
-  "2022-06-09": 342121,
-  "2022-06-10": 342326,
-  "2022-06-11": 342528,
-  "2022-06-12": 342744,
-  "2022-06-13": 342953,
-  "2022-06-14": 343121,
-  "2022-06-15": 343299,
-  "2022-06-16": 343481,
-  "2022-06-17": 343711,
-  "2022-06-18": 343908,
-  "2022-06-19": 344353,
-  "2022-06-20": 344353,
-  "2022-06-21": 344534,
-  "2022-06-22": 344888,
-  "2022-06-23": 344888,
-  "2022-06-24": 345095,
-  "2022-06-25": 345297,
-  "2022-06-26": 345481,
-  "2022-06-27": 345682,
-  "2022-06-28": 345881,
-  "2022-06-29": 346067,
-  "2022-06-30": 346230,
-  "2022-07-01": 346412,
-  "2022-07-02": 346604,
-  "2022-07-03": 346849,
-  "2022-07-04": 347070,
-  "2022-07-05": 347250,
-  "2022-07-06": 347250,
-  "2022-07-07": 347643,
-  "2022-07-08": 347857,
-  "2022-07-09": 348096,
-  "2022-07-10": 348333,
-  "2022-07-11": 348513,
-  "2022-07-12": 348694,
-  "2022-07-13": 348880,
-  "2022-07-14": 349084,
-  "2022-07-15": 349309,
-  "2022-07-16": 349540,
-  "2022-07-17": 349762,
-  "2022-07-18": 350022,
-  "2022-07-19": 350217,
-  "2022-07-20": 350401,
-  "2022-07-21": 350595,
-  "2022-07-22": 350842,
-  "2022-07-23": 351053,
-  "2022-07-24": 351275,
-  "2022-07-25": 351450,
-  "2022-07-26": 351576,
-  "2022-07-27": 351738,
-  "2022-07-28": 351883,
-  "2022-07-29": 352081,
-  "2022-07-30": 352412,
-  "2022-07-31": 352412,
-  "2022-08-01": 352601,
-  "2022-08-02": 352901,
-  "2022-08-03": 352901,
-  "2022-08-04": 353064,
-  "2022-08-05": 353219,
-  "2022-08-06": 353410,
-  "2022-08-07": 353614,
-  "2022-08-08": 353802,
-  "2022-08-09": 353957,
-  "2022-08-10": 354145,
-  "2022-08-11": 354354,
-  "2022-08-12": 354546,
-  "2022-08-13": 354715,
-  "2022-08-14": 354911,
-  "2022-08-15": 355100,
-  "2022-08-16": 355279,
-  "2022-08-17": 355463,
-  "2022-08-18": 355626,
-  "2022-08-19": 355797,
-  "2022-08-20": 356006,
-  "2022-08-21": 356214,
-  "2022-08-22": 356479,
-  "2022-08-23": 356636,
-  "2022-08-24": 356832,
-  "2022-08-25": 357024,
-  "2022-08-26": 357238,
-  "2022-08-27": 357464,
-  "2022-08-28": 357675,
-  "2022-08-29": 357865,
-  "2022-08-30": 357940,
-  "2022-08-31": 357885,
-  "2022-09-01": 357751,
-  "2022-09-02": 357697,
-  "2022-09-03": 357498,
-  "2022-09-04": 357546,
-  "2022-09-05": 357692,
-  "2022-09-06": 357832,
-  "2022-09-07": 357966,
-  "2022-09-09": 358269,
-  "2022-09-10": 358426,
-  "2022-09-11": 358604,
-  "2022-09-12": 358772,
-  "2022-09-13": 358917,
-  "2022-09-15": 359224,
-  "2022-09-16": 359350,
-  "2022-09-17": 359553,
-  "2022-09-18": 359753,
-  "2022-09-19": 359958,
-  "2022-09-20": 360166,
-  "2022-09-21": 360364,
-  "2022-09-22": 360602,
-  "2022-09-23": 360810,
-  "2022-09-24": 361046,
-  "2022-09-25": 361305,
-  "2022-09-26": 361542,
-  "2022-09-27": 361734,
-  "2022-09-28": 361964,
-  "2022-09-29": 362175,
-  "2022-09-30": 362420,
-  "2022-10-01": 362647,
-  "2022-10-02": 362882,
-  "2022-10-03": 363106,
-  "2022-10-04": 363302,
-  "2022-10-05": 363488,
-  "2022-10-06": 363737,
-  "2022-10-07": 363960,
-  "2022-10-08": 364200,
-  "2022-10-09": 364639,
-  "2022-10-10": 364704,
-  "2022-10-11": 364885,
-  "2022-10-12": 365104,
-  "2022-10-13": 365323,
-  "2022-10-14": 365541,
-  "2022-10-15": 365779,
-  "2022-10-16": 366013,
-  "2022-10-17": 366250,
-  "2022-10-18": 366447,
-  "2022-10-19": 366626,
-  "2022-10-20": 366802,
-  "2022-10-21": 366998,
-  "2022-10-22": 367209,
-  "2022-10-23": 367428,
-  "2022-10-24": 367619,
-  "2022-10-25": 367772,
-  "2022-10-26": 367955,
-  "2022-10-27": 368139,
-  "2022-10-28": 368349,
-  "2022-10-29": 368609,
-  "2022-10-30": 368862,
-  "2022-10-31": 369061,
-  "2022-11-01": 369264,
-  "2022-11-02": 369474,
-  "2022-11-03": 369684,
-  "2022-11-04": 369922,
-  "2022-11-05": 370143,
-  "2022-11-06": 370373,
-  "2022-11-07": 370586,
-  "2022-11-08": 370814,
-  "2022-11-09": 371046,
-  "2022-11-10": 371257,
-  "2022-11-11": 371450,
-  "2022-11-12": 371694,
-  "2022-11-13": 371899,
-  "2022-11-14": 372082,
-  "2022-11-15": 372285,
-  "2022-11-16": 372494,
-  "2022-11-17": 372670,
-  "2022-11-18": 372726,
-  "2022-11-19": 372792,
-  "2022-11-20": 373006,
-  "2022-11-21": 373233,
-  "2022-11-22": 373453,
-  "2022-11-23": 373657,
-  "2022-11-24": 374024,
-  "2022-11-25": 374308,
-  "2022-11-26": 374531,
-  "2022-11-27": 374737,
-  "2022-11-28": 374946,
-  "2022-11-29": 375154,
-  "2022-11-30": 375330,
-  "2022-12-01": 375579,
-  "2022-12-02": 375837,
-  "2022-12-03": 376053,
-  "2022-12-04": 376285,
-  "2022-12-05": 376523,
-  "2022-12-06": 376768,
-  "2022-12-07": 377038,
-  "2022-12-08": 377270,
-  "2022-12-09": 377497,
-  "2022-12-10": 377713,
-  "2022-12-11": 377961,
-  "2022-12-12": 378186,
-  "2022-12-13": 378345,
-  "2022-12-14": 378536,
-  "2022-12-15": 378731,
-  "2022-12-16": 378928,
-  "2022-12-17": 379175,
-  "2022-12-18": 379392,
-  "2022-12-19": 379603,
-  "2022-12-20": 380065,
-  "2022-12-21": 380065,
-  "2022-12-22": 380251,
-  "2022-12-24": 380733,
-  "2022-12-25": 380958,
-  "2022-12-26": 381167,
-  "2022-12-27": 381357,
-  "2022-12-28": 381574,
-  "2022-12-29": 381797,
-  "2022-12-30": 382006,
-  "2022-12-31": 382234,
-  "2023-01-01": 382457,
-  "2023-01-02": 382645,
-  "2023-01-03": 382870,
-  "2023-01-04": 383050,
-  "2023-01-05": 383273,
-  "2023-01-06": 383533,
-  "2023-01-07": 383905,
-  "2023-01-08": 383979,
-  "2023-01-09": 384221,
-  "2023-01-10": 384435,
-  "2023-01-11": 384623,
-  "2023-01-12": 384859,
-  "2023-01-13": 385093,
-  "2023-01-14": 385491,
-  "2023-01-15": 385564,
-  "2023-01-16": 385789,
-  "2023-01-17": 385981,
-  "2023-01-18": 386179,
-  "2023-01-19": 386406,
-  "2023-01-20": 386610,
-  "2023-01-21": 386860,
-  "2023-01-22": 387103,
-  "2023-01-23": 387394,
-  "2023-01-24": 387604,
-  "2023-01-25": 387847,
-  "2023-01-26": 388083,
-  "2023-01-27": 388351,
-  "2023-01-28": 388572,
-  "2023-01-29": 388801,
-  "2023-01-30": 389041,
-  "2023-01-31": 389041,
-  "2023-02-01": 389520,
-  "2023-02-02": 389720,
-  "2023-02-03": 389908,
-  "2023-02-04": 390136,
-  "2023-02-05": 390431,
-  "2023-02-06": 390673,
-  "2023-02-07": 390888,
-  "2023-02-08": 391341,
-  "2023-02-09": 391341,
-  "2023-02-10": 391580,
-  "2023-02-11": 391807,
-  "2023-02-12": 392284,
-  "2023-02-13": 392504,
-  "2023-02-14": 392504,
-  "2023-02-15": 392706,
-  "2023-02-16": 392903,
-  "2023-02-17": 393166,
-  "2023-02-18": 393595,
-  "2023-02-19": 393626,
-  "2023-02-20": 393808,
-  "2023-02-21": 394021,
-  "2023-02-22": 394231,
-  "2023-02-23": 394444,
-  "2023-02-24": 394696,
-  "2023-02-25": 395007,
-  "2023-02-26": 395164,
-  "2023-02-27": 395608,
-  "2023-02-28": 395608,
-  "2023-03-01": 395828,
-  "2023-03-02": 396058,
-  "2023-03-03": 396333,
-  "2023-03-04": 396583,
-  "2023-03-05": 397139,
-  "2023-03-06": 397139,
-  "2023-03-07": 397364,
-  "2023-03-08": 397581,
-  "2023-03-09": 397808,
-  "2023-03-10": 398052,
-  "2023-03-11": 398307,
-  "2023-03-12": 398603,
-  "2023-03-13": 398859,
-  "2023-03-14": 399063,
-  "2023-03-15": 399270,
-  "2023-03-16": 399486,
-  "2023-03-17": 399486,
-  "2023-03-18": 399970,
-  "2023-03-19": 400216,
-  "2023-03-20": 400430,
-  "2023-03-21": 400615,
-  "2023-03-22": 400815,
-  "2023-03-23": 401018,
-  "2023-03-24": 401018,
-  "2023-03-25": 401485,
-  "2023-03-26": 401738,
-  "2023-03-27": 401990,
-  "2023-03-28": 402198,
-  "2023-03-29": 402441,
-  "2023-03-30": 402822,
-  "2023-03-31": 402822,
-  "2023-04-01": 403067,
-  "2023-04-02": 403300,
-  "2023-04-03": 403528,
-  "2023-04-04": 403759,
-  "2023-04-05": 403995,
-  "2023-04-06": 404208,
-  "2023-04-07": 404426,
-  "2023-04-09": 404859,
-  "2023-04-10": 405041,
-  "2023-04-11": 405433,
-  "2023-04-12": 405433,
-  "2023-04-13": 405673,
-  "2023-04-14": 405932,
-  "2023-04-15": 406179,
-  "2023-04-16": 406466,
-  "2023-04-17": 406719,
-  "2023-04-18": 406979,
-  "2023-04-19": 407205,
-  "2023-04-20": 407442,
-  "2023-04-21": 407723,
-  "2023-04-22": 408000,
-  "2023-04-23": 408273,
-  "2023-04-24": 408547,
-  "2023-04-25": 408824,
-  "2023-04-26": 409114,
-  "2023-04-27": 409401,
-  "2023-04-28": 409661,
-  "2023-04-29": 409947,
-  "2023-04-30": 410246,
-  "2023-05-01": 410487,
-  "2023-05-02": 410732,
-  "2023-05-03": 410951,
-  "2023-05-04": 411147,
-  "2023-05-05": 411321,
-  "2023-05-06": 411556,
-  "2023-05-07": 411769,
-  "2023-05-08": 411997,
-  "2023-05-09": 412205,
-  "2023-05-10": 412395,
-  "2023-05-11": 412573,
-  "2023-05-12": 412801,
-  "2023-05-13": 413009,
-  "2023-05-14": 413248,
-  "2023-05-15": 413417,
-  "2023-05-16": 413627,
-  "2023-05-17": 413821,
-  "2023-05-18": 413995,
-  "2023-05-19": 414214,
-  "2023-05-20": 414638,
-  "2023-05-21": 414638,
-  "2023-05-22": 414638,
-  "2023-05-23": 415014,
-  "2023-05-24": 415367,
-  "2023-05-25": 415420,
-  "2023-05-26": 415602,
-  "2023-05-27": 415800,
-  "2023-05-28": 415994,
-  "2023-05-29": 415994,
-  "2023-05-30": 416383,
-  "2023-05-31": 416617,
-  "2023-06-01": 416891,
-  "2023-06-02": 417167,
-  "2023-06-03": 417414,
-  "2023-06-04": 417717,
-  "2023-06-05": 417955,
-  "2023-06-06": 418182,
-  "2023-06-07": 418400,
-  "2023-06-08": 418647,
-  "2023-06-09": 418950,
-  "2023-06-10": 419152,
-  "2023-06-11": 419368,
-  "2023-06-12": 419557,
-  "2023-06-13": 419728,
-  "2023-06-14": 419886,
-  "2023-06-15": 420041,
-  "2023-06-16": 420177,
-  "2023-06-17": 420351,
-  "2023-06-18": 420527,
-  "2023-06-19": 420681,
-  "2023-06-20": 420817,
-  "2023-06-21": 420963,
-  "2023-06-22": 421112,
-  "2023-06-23": 421258,
-  "2023-06-24": 421392,
-  "2023-06-25": 421530,
-  "2023-06-26": 421696,
-  "2023-06-27": 421809,
-  "2023-06-28": 421921,
-  "2023-06-29": 422038,
-  "2023-06-30": 422164,
-  "2023-07-01": 422494,
-  "2023-07-02": 422494,
-  "2023-07-03": 422638,
-  "2023-07-04": 422784,
-  "2023-07-05": 422885,
-  "2023-07-06": 423188,
-  "2023-07-07": 423188,
-  "2023-07-08": 423332,
-  "2023-07-09": 423508,
-  "2023-07-10": 423646,
-  "2023-07-11": 423745,
-  "2023-07-12": 423814,
-  "2023-07-13": 423968,
-  "2023-07-14": 424091,
-  "2023-07-15": 424195,
-  "2023-07-16": 424423,
-  "2023-07-17": 424577,
-  "2023-07-18": 424697,
-  "2023-07-19": 424821,
-  "2023-07-20": 424930,
-  "2023-07-21": 425057,
-  "2023-07-22": 425176,
-  "2023-07-23": 425321,
-  "2023-07-24": 425452,
-  "2023-07-25": 425555,
-  "2023-07-26": 425706,
-  "2023-07-27": 425854,
-  "2023-07-28": 425982,
-  "2023-07-29": 426134,
-  "2023-07-30": 426241,
-  "2023-07-31": 426353,
-  "2023-08-01": 426462,
-  "2023-08-02": 426564,
-  "2023-08-03": 426682,
-  "2023-08-04": 426774,
-  "2023-08-05": 426906,
-  "2023-08-06": 427181,
-  "2023-08-07": 427181,
-  "2023-08-08": 427312,
-  "2023-08-09": 427410,
-  "2023-08-10": 427538,
-  "2023-08-11": 427651,
-  "2023-08-12": 427801,
-  "2023-08-13": 427801,
-  "2023-08-14": 428068,
-  "2023-08-15": 428274,
-  "2023-08-16": 428274,
-  "2023-08-17": 428404,
-  "2023-08-18": 428521,
-  "2023-08-19": 428646,
-  "2023-08-20": 428812,
-  "2023-08-21": 428955,
-  "2023-08-22": 429053,
-  "2023-08-23": 429158,
-  "2023-08-24": 429287,
-  "2023-08-25": 429421,
-  "2023-08-26": 429588,
-  "2023-08-27": 429752,
-  "2023-08-28": 429890,
-  "2023-08-29": 429992,
-  "2023-08-30": 429992,
-  "2023-08-31": 430262,
-  "2023-09-01": 430515,
-  "2023-09-02": 430515,
-  "2023-09-03": 430672,
-  "2023-09-04": 430672,
-  "2023-09-05": 430934,
-  "2023-09-06": 431024,
-  "2023-09-07": 431024,
-  "2023-09-08": 431024,
-  "2023-09-09": 431024,
-  "2023-09-10": 431568,
-  "2023-09-11": 431669,
-  "2023-09-12": 431669,
-  "2023-09-13": 431873,
-  "2023-09-14": 431873,
-  "2023-09-15": 432074,
-  "2023-09-16": 432193,
-  "2023-09-17": 432193,
-  "2023-09-18": 432193,
-  "2023-09-19": 432514,
-  "2023-09-20": 432612,
-  "2023-09-21": 432612,
-  "2023-09-22": 432811,
-  "2023-09-23": 432811,
-  "2023-09-24": 432811,
-  "2023-09-25": 432811,
-  "2023-09-26": 433181,
-  "2023-09-27": 433181,
-  "2023-09-28": 433181,
-  "2023-09-29": 433181,
-  "2023-09-30": 433181,
-  "2023-10-01": 433181,
-  "2023-10-02": 434017,
-  "2023-10-03": 434017,
-  "2023-10-04": 434017,
-  "2023-10-05": 434488,
-  "2023-10-06": 434666,
-  "2023-10-07": 434666,
-  "2023-10-08": 434666,
-  "2023-10-09": 434666,
-  "2023-10-10": 434666,
-  "2023-10-11": 435305,
-  "2023-10-12": 435305,
-  "2023-10-13": 435288,
-  "2023-10-14": 435288,
-  "2023-10-15": 435288,
-  "2023-10-16": 435288,
-  "2023-10-17": 435288,
-  "2023-10-18": 435288,
-  "2023-10-19": 435288,
-  "2023-10-20": 435288,
-  "2023-10-21": 435288,
-  "2023-10-22": 435288,
-  "2023-10-23": 435288,
-  "2023-10-24": 435288,
-  "2023-10-25": 435288,
-  "2023-10-26": 435288,
-  "2023-10-27": 435288,
-  "2023-10-28": 435288,
-  "2023-10-29": 435288,
-  "2023-10-30": 435288,
-  "2023-10-31": 435288,
-  "2023-11-01": 435288,
-  "2023-11-02": 435288,
-  "2023-11-03": 435288,
-  "2023-11-04": 435288,
-  "2023-11-05": 435288,
-  "2023-11-06": 435288,
-  "2023-11-07": 435288,
-  "2023-11-08": 435288,
-  "2023-11-09": 435288,
-  "2023-11-10": 435288,
-  "2023-11-11": 439173,
-  "2023-11-12": 439173,
-  "2023-11-13": 439173,
-  "2023-11-14": 439173,
-  "2023-11-15": 439173,
-  "2023-11-16": 439173,
-  "2023-11-17": 439173,
-  "2023-11-18": 439173,
-  "2023-11-19": 439173,
-  "2023-11-20": 439173,
-  "2023-11-21": 439173,
-  "2023-11-22": 439173,
-  "2023-11-23": 439173,
-  "2023-11-24": 439173,
-  "2023-11-25": 439173,
-  "2023-11-26": 439173,
-  "2023-11-27": 439173,
-  "2023-11-28": 439173,
-  "2023-11-29": 439173,
-  "2023-11-30": 439173,
-  "2023-12-01": 439173,
-  "2023-12-02": 439173,
-  "2023-12-03": 439173,
-  "2023-12-04": 439173,
-  "2023-12-05": 439173,
-  "2023-12-06": 439173,
-  "2023-12-07": 439173,
-  "2023-12-08": 439173,
-  "2023-12-09": 439173,
-  "2023-12-10": 439173,
-  "2023-12-11": 439173,
-  "2023-12-12": 439173,
-  "2023-12-13": 439173,
-  "2023-12-14": 443469,
-  "2023-12-15": 443538,
-  "2023-12-16": 443673,
-  "2023-12-17": 443805,
-  "2023-12-18": 443884,
-  "2023-12-19": 443996,
-  "2023-12-20": 444089,
-  "2023-12-21": 444215,
-  "2023-12-22": 444343,
-  "2023-12-23": 444463,
-  "2023-12-24": 444595,
-  "2023-12-25": 444683,
-  "2023-12-26": 444775,
-  "2023-12-27": 444897,
-  "2023-12-30": 445192,
-  "2023-12-31": 445314,
-  "2024-01-01": 445403,
-  "2024-01-02": 445491,
-  "2024-01-03": 445551
+  "2024-01-17": 445836,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is KISS. The essential tracks, all in one playlist.",
+  "name": "This Is KISS",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "2,000 Man",
+      "url": "https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8"
+    },
+    {
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-27",
+      "duration_ms": 251000,
+      "name": "A Million To One",
+      "url": "https://open.spotify.com/track/3Z7AIA7ZjItaRZvkE2Kxs2"
+    },
+    {
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274573,
+      "name": "All Hell's Breakin' Loose",
+      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175013,
+      "name": "Beth - Live",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+    },
+    {
+      "album": {
+        "name": "Betrayed (Outtake)",
+        "url": "https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 278142,
+      "name": "Betrayed - Outtake",
+      "url": "https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314026,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS"
+    },
+    {
+      "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 282733,
+      "name": "Burn Bitch Burn",
+      "url": "https://open.spotify.com/track/7lX9cNmBs138KdCnmry4MC"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "C'mon And Love Me",
+      "url": "https://open.spotify.com/track/1wkRMOmqwayWDVR9FLOTFP"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Calling Dr. Love",
+      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Cold Gin",
+      "url": "https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171853,
+      "name": "Comin' Home - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Crazy Crazy Nights",
+      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
+    },
+    {
+      "album": {
+        "name": "KISS Box Set",
+        "url": "https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 242666,
+      "name": "Creatures Of The Night",
+      "url": "https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 243400,
+      "name": "Creatures Of The Night",
+      "url": "https://open.spotify.com/track/5yeRPZioHaRp86lPMwPw4s"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (Live In Poughkeepsie / 1984)",
+        "url": "https://open.spotify.com/album/4u7QDTMEeGqvyn1Y9OaG3F"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 298106,
+      "name": "Creatures Of the Night - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
+      "url": "https://open.spotify.com/track/72x1sWjZF7wGU72mT5iQ3E"
+    },
+    {
+      "album": {
+        "name": "Double Platinum",
+        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
+    },
+    {
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Deuce",
+      "url": "https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267933,
+      "name": "Dirty Livin'",
+      "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "album": {
+        "name": "Do You Love Me (Live In Donington / 1996)",
+        "url": "https://open.spotify.com/album/5G6VWYwhMPlz4e8p8ycVEF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 248853,
+      "name": "Do You Love Me - Live In Donington / 1996",
+      "url": "https://open.spotify.com/track/6FoBZjJc8McUHu78vyFwYL"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Every Time I Look At You",
+      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
+    },
+    {
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232640,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg"
+    },
+    {
+      "album": {
+        "name": "Symphony: Alive IV",
+        "url": "https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        {
+          "name": "The Melbourne Symphony Ensemble",
+          "url": "https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "Forever (Live)",
+      "url": "https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD"
+    },
+    {
+      "album": {
+        "name": "Symphony: Alive IV",
+        "url": "https://open.spotify.com/album/1amAo0xUABmNBclEBCPmgQ"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        {
+          "name": "The Melbourne Symphony Ensemble",
+          "url": "https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 230386,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
+    },
+    {
+      "album": {
+        "name": "KISS Off The Soundboard: Live In Virginia Beach",
+        "url": "https://open.spotify.com/album/47LCEebhE6fZYzV1Qchy9x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-19",
+      "duration_ms": 397213,
+      "name": "God Gave Rock N Roll To You - Live In Virginia Beach / 2004",
+      "url": "https://open.spotify.com/track/7yrZLisamI2TPFqeqxFi6C"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "God Of Thunder",
+      "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
+    },
+    {
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 216733,
+      "name": "Goin' Blind",
+      "url": "https://open.spotify.com/track/2Kgabuiyu24mw1tVcFjHh3"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207600,
+      "name": "Goin' Blind - Live",
+      "url": "https://open.spotify.com/track/0iX0reYVBCXyLfPg6zgyP9"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
+    },
+    {
+      "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Heaven's On Fire",
+      "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4bEGlyQHzCfjrqryGwmXD5"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 247280,
+      "name": "Hell Or Hallelujah",
+      "url": "https://open.spotify.com/track/7q3pjonUyv6YdUv29vq1hJ"
+    },
+    {
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Hide Your Heart",
+      "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 255426,
+      "name": "I Love It Loud",
+      "url": "https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254613,
+      "name": "I Love It Loud - 2022 Remastered",
+      "url": "https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366533,
+      "name": "I Still Love You - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
+    },
+    {
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "I Stole Your Love",
+      "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "album": {
+        "name": "KISS 40",
+        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "I Was Made For Lovin' You - Single Mix",
+      "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
+    },
+    {
+      "album": {
+        "name": "I Was Made For Loving You (Live In Virginia Beach, 7/25/2004)",
+        "url": "https://open.spotify.com/album/0V1xM8wrgG8jHBqqyhIT6b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 372866,
+      "name": "I Was Made For Loving You - Live In Virginia Beach, 7/25/2004",
+      "url": "https://open.spotify.com/track/0ccElJ2DgEv9UZ7UJECWU0"
+    },
+    {
+      "album": {
+        "name": "Carnival Of Souls: The Final Sessions",
+        "url": "https://open.spotify.com/album/7HZxqRi5rwLpyPkJJ4DKaK"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 229306,
+      "name": "I Will Be There",
+      "url": "https://open.spotify.com/track/08bLStHHiSJdVwmCJoraPL"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 249333,
+      "name": "I'll Fight Hell To Hold You",
+      "url": "https://open.spotify.com/track/5BWARDGvGMtVPJO8WDvaLP"
+    },
+    {
+      "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 231866,
+      "name": "I've Had Enough (Into The Fire)",
+      "url": "https://open.spotify.com/track/64Ld8TSuVoOGMqiXZ1xg7t"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 235666,
+      "name": "Keep Me Comin'",
+      "url": "https://open.spotify.com/track/7aBBsIarYUU1vTgPVKQ0D4"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 199000,
+      "name": "King Of The Night Time World",
+      "url": "https://open.spotify.com/track/3gsoInre1B3i1PJUmhvDYH"
+    },
+    {
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "Let Me Go, Rock 'N Roll",
+      "url": "https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1"
+    },
+    {
+      "album": {
+        "name": "Let Me Go, Rock 'N Roll (Live)",
+        "url": "https://open.spotify.com/album/3ujn2PCWC7RluCsKlMfhfL"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 181853,
+      "name": "Let Me Go, Rock 'N Roll - Live In Veterans Memorial Auditorium, Des Moines / 1977",
+      "url": "https://open.spotify.com/track/6MEYbafwyChkm22SFKzPs7"
+    },
+    {
+      "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Lick It Up",
+      "url": "https://open.spotify.com/track/3cXiUuiGpFmZ8OdAWKk8Ck"
+    },
+    {
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Love Gun",
+      "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 144666,
+      "name": "Love Theme From Kiss",
+      "url": "https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282226,
+      "name": "Magic Touch",
+      "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+    },
+    {
+      "album": {
+        "name": "KISS 40",
+        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 216626,
+      "name": "Modern Day Delilah",
+      "url": "https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 198493,
+      "name": "Mr. Speed",
+      "url": "https://open.spotify.com/track/6IDOdsJrrQ5p205vENDADn"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 276960,
+      "name": "Not For The Innocent - Demo",
+      "url": "https://open.spotify.com/track/0591PUrQFYgHdbQ4QrYQbv"
+    },
+    {
+      "album": {
+        "name": "Not For The Innocent (Demo)",
+        "url": "https://open.spotify.com/album/3A4bcHaI338ABAkjZ02TJL"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 276960,
+      "name": "Not For The Innocent - Demo",
+      "url": "https://open.spotify.com/track/4Q4uVPZqsMKI8sAGJxscqA"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
+    },
+    {
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 182093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
+    },
+    {
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-27",
+      "duration_ms": 208026,
+      "name": "Plaster Caster",
+      "url": "https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg"
+    },
+    {
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330360,
+      "name": "Psycho Circus",
+      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Reason To Live",
+      "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
+    },
+    {
+      "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-13",
+      "duration_ms": 244226,
+      "name": "Rise To It",
+      "url": "https://open.spotify.com/track/7gAHDwN4iqkjFozSODtWBn"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259079,
+      "name": "Rock 'N' Roll All Nite - Live",
+      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "album": {
+        "name": "Alive!",
+        "url": "https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 247600,
+      "name": "Rock And Roll All Nite - Live From Detroit, MI/1975",
+      "url": "https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H"
+    },
+    {
+      "album": {
+        "name": "Destroyer (45th Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 182706,
+      "name": "Rock N' Rolls Royce - Gene Simmons Demo",
+      "url": "https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG"
+    },
+    {
+      "album": {
+        "name": "Alive II (Live)",
+        "url": "https://open.spotify.com/album/32e3bKpExvJ6o3H9UZ9rV1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-17",
+      "duration_ms": 248240,
+      "name": "Rocket Ride",
+      "url": "https://open.spotify.com/track/3xjObvccQUvtUcV5GL3Hh3"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 280666,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149720,
+      "name": "See You Tonight - Live",
+      "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "album": {
+        "name": "Unmasked",
+        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216866,
+      "name": "Shandi",
+      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
+      "duration_ms": 249000,
+      "name": "She",
+      "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
+    },
+    {
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+    },
+    {
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Strutter",
+      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
+    },
+    {
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "Sure Know Something",
+      "url": "https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE"
+    },
+    {
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-03",
+      "duration_ms": 176226,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/12hTHnCBajZeyEiZi1drMz"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235933,
+      "name": "Tears Are Falling",
+      "url": "https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3"
+    },
+    {
+      "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-05",
+      "duration_ms": 261426,
+      "name": "Thrills In The Night",
+      "url": "https://open.spotify.com/track/4DYrRcGMv6zovQkKpA5ymp"
+    },
+    {
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-02",
+      "duration_ms": 243800,
+      "name": "Uh! All Night",
+      "url": "https://open.spotify.com/track/6y0doCoi1qqlSqp5SGZMPq"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night",
+        "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 254373,
+      "name": "War Machine",
+      "url": "https://open.spotify.com/track/4GwuVp1NIhwnm5JDDhfAuX"
+    },
+    {
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257280,
+      "name": "War Machine - 2022 Remastered",
+      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
+    },
+    {
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281373,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 242293,
+      "name": "Who Wants To Be Lonely",
+      "url": "https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA"
 }
